@@ -2,17 +2,16 @@
 latitude: 43.2637937
 longitude: 5.3843375
 score: 1
-snippet: A park in the south of Marseille named after Henri Fabre, the aviation pioneer
-  who made the world's first powered seaplane flight in 1910 on the waters near the
-  city.
+snippet: On 28 March 1910, a Marseillais engineer flew the world's first powered seaplane
 tags:
 - curbside
 title: Parc Henri Fabre
 type: poi
 ---
 
-On 28 March 1910, Henri Fabre taxied a strange, fragile craft across the sheltered harbour of La Mède, near Martigues west of Marseille, and lifted into the air for a flight of about 500 metres — becoming the first person in history to fly a powered seaplane. Fabre was a Marseillais engineer, born into a family of shipowners, and he combined a naval sensibility with an obsessive interest in aeronautics. His aircraft, the Hydravion, used a float configuration that would go on to influence seaplane design for decades; the Wright Brothers had shown that powered flight was possible, but Fabre demonstrated it could work from water.
 
-The park honouring his name sits in the southern part of Marseille, in the 8th arrondissement, not far from the shoreline that Fabre himself knew well. It is a neighbourhood park rather than a formal memorial — there is no dramatic monument here — but the association with a genuinely world-historic figure gives it a quiet distinction. Fabre lived until 1984, long enough to see jet travel become routine, and was celebrated in his later years as an almost forgotten pioneer of the aviation age.
+On 28 March 1910, Henri Fabre taxied a spindly contraption across the harbour at La Mède and lifted off the water for 500 metres. First powered seaplane flight in history. He was a Marseillais, born into a shipowning family, and the combination of maritime instinct and engineering obsession produced something nobody had managed before. The Wright Brothers had done it from land; Fabre showed it worked from water too.
 
-The park is pleasant and leafy without being exceptional, and the surrounding 8th arrondissement is one of the more bourgeois and residential quarters of the city, with wide avenues and proximity to the Prado beaches. It makes for a comfortable pause in the neighbourhood, and the name above the gate is a reminder that Marseille's maritime heritage extends well beyond tall ships into the early history of flight.
+The remarkable footnote: he lived until 1984. Long enough to watch supersonic jets become routine, to be rediscovered as a nearly forgotten pioneer. He had a long wait between the triumph and the recognition.
+
+The park named for him is a pleasant neighbourhood green in the 8th, close to the shore he knew well. No dramatic monument — just the name on the gate, which is enough if you know what it refers to.

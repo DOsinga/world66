@@ -2,16 +2,17 @@
 latitude: 43.3071524
 longitude: 5.4104225
 score: 1
-snippet: A small public garden in the eastern 12th arrondissement, its name — Beausoleil,
-  "beautiful sun" — evoking the Provençal light that reaches this hillside quarter.
+snippet: A hillside garden in the 12th — the name means beautiful sun, and that at
+  least is accurate
 tags:
 - curbside
 title: Jardin Beausoleil
 type: poi
 ---
 
-Jardin Beausoleil takes its name from the French for "beautiful sun," a fitting description for a garden in the sun-drenched hills of Marseille's 12th arrondissement. The eastern arrondissements sit on the slopes above the Huveaune valley, a quieter and more suburban part of the city than the districts closer to the sea.
 
-The garden is a neighbourhood green space in the residential fabric of Beausoleil, a small quarter within the 12th. In this part of Marseille, open spaces tend to be interspersed between individual houses and small apartment buildings rather than concentrated in formal parks — a jardin of this kind is the community's shared outdoor room.
+Beausoleil sits on the slopes of the 12th arrondissement, east of the city centre, above the Huveaune valley. Up here Marseille gets quieter and more suburban — individual houses, small apartment buildings, streets that don't appear in most guidebooks.
 
-The view from the hillside setting can extend across the rooftops toward the city below. The name, at least, is accurate.
+The garden is the neighbourhood's shared outdoor room. No grand design, no monument — just grass, trees, and the hillside light that gives the quarter its name. *Beausoleil*. Beautiful sun. On a clear day the view extends across the rooftops toward the city below.
+
+It's a long way to come deliberately. But if you're walking this part of the 12th, it's a good place to stop.

@@ -2,17 +2,15 @@
 latitude: 43.3413294
 longitude: 5.4609572
 score: 1
-snippet: A park in northern Marseille whose name — bocage, the hedgerow landscape
-  of Normandy — hints at an unusual pocket of enclosure in an otherwise open Mediterranean
-  setting.
+snippet: A Normandy name in Provence — more shade than you'd expect up here
 tags:
 - curbside
 title: Parc du Bocage
 type: poi
 ---
 
-The word bocage belongs, in most French imaginations, to Normandy: that dense patchwork of sunken lanes, thick hedgerows, and small fields that shaped the landscape of the northwest and made the D-Day fighting so difficult. To find it as the name of a park in Marseille is a small surprise. The Parc du Bocage sits in the northern part of the city — the coordinates place it toward the 13th or 14th arrondissement — in a neighbourhood far removed from the tourist Marseille of the Vieux-Port and the Calanques.
+Bocage is a Norman word. It describes the dense hedgerow landscape of northwest France — sunken lanes, thick field boundaries, the terrain that made the 1944 fighting so brutal. Finding it as the name of a park in Marseille's northern arrondissements is a small geographical joke.
 
-Northern Marseille carries a reputation, not always deserved, as an area to pass through rather than visit. But its parks and green spaces serve the large residential population of these quartiers, and the Bocage is among them — a local green space whose name suggests something enclosed and wooded, a degree of shade and shelter unusual in the open, sun-baked landscape of Provence. Whether the name refers to actual bocage-style vegetation or simply to the feeling of enclosure the park creates is unclear, but either way it signals something different from the garrigue scrub of the southern hills.
+Northern Marseille has a reputation — not always deserved — as somewhere to drive through rather than visit. The large residential population up here needs green space, and the Bocage delivers it: wooded, enclosed, a degree of shade and shelter unusual in the open sun-hammered landscape of Provence. Whether the name refers to actual bocage-style vegetation or just to the feeling of enclosure, it delivers what it suggests.
 
-The park is a neighbourhood amenity in the fullest sense: a place where the surrounding streets have a relief valve, where children can run and older residents can sit. Visitors to Marseille rarely reach the northern arrondissements, but those who do — exploring the city honestly rather than only its photogenic south — will find the Bocage a quiet, unassuming place that speaks to how ordinary Marseillais actually live.
+Tourists rarely reach this part of the city. Those who do find a park that shows how ordinary Marseillais actually live — which is its own kind of honest tourism.

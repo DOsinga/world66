@@ -2,16 +2,16 @@
 latitude: 43.2895755
 longitude: 5.396109
 score: 1
-snippet: A neighbourhood garden whose name — "the flowered enclosure" — promises a
-  planted, somewhat formal green space in the residential fabric of central Marseille.
+snippet: The name means 'flowering enclosure' — this was once somebody's walled garden
 tags:
 - curbside
 title: Jardin Clos Fleuri
 type: poi
 ---
 
-The name *Clos Fleuri* — the flowered enclosure or flowering close — describes a garden that aims at something more than a bare patch of grass: an enclosed space with planting, some sense of cultivation, the suggestion of a walled kitchen garden or ornamental yard given over to public use. Gardens with this name are found across France, always implying a small, tended, domestic-scale green space.
 
-Jardin Clos Fleuri sits in the inner arrondissements of Marseille, where gardens of this kind serve a dense residential population. The name suggests the garden may have begun as the enclosed grounds of a private property — a villa garden or a convent plot — later opened to the neighbourhood.
+*Clos Fleuri* — flowering close, flowered enclosure. The word *clos* is the giveaway: it implies a wall, a boundary, something deliberately set apart. Gardens with this name across France usually started as private plots — villa grounds, convent gardens — later handed to the neighbourhood when the original owner ran out of heirs or money.
 
-Whatever its origins, the jardin offers residents what the name promises: a planted, enclosed space that feels more like a garden than an urban square. In a city as densely built as central Marseille, that distinction matters.
+That origin shapes how it feels. It's smaller and more enclosed than a municipal square, with actual planting rather than just a lawn and some benches. The kind of space where someone once had opinions about what to grow.
+
+In the dense inner arrondissements of Marseille, where open space is scarce, that enclosed quality is worth something.

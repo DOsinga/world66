@@ -2,16 +2,17 @@
 latitude: 43.2956695
 longitude: 5.361559
 score: 1
-snippet: A military-origin square near the Vieux-Port, its name marking a former parade
-  ground associated with the fort system that once guarded Marseille's harbour entrance.
+snippet: Between two forts that still stand — the square's name is all that's left
+  of the military zone
 tags:
 - curbside
 title: Place d'Armes
 type: poi
 ---
 
-Place d'Armes — Arms Square — is a designation that appears in French cities wherever military parade grounds were once laid out near fortifications. In Marseille, the name connects to the network of forts that guarded the Vieux-Port: Fort Saint-Jean on the northern side of the harbour entrance, Fort Saint-Nicolas on the southern side, and the barracks and military installations that once occupied much of the ground between the port and the city's older quarters.
 
-The area around the Vieux-Port was reshaped repeatedly — by the German demolition of the northern quarter in 1943, by postwar reconstruction, and by successive urban renewal projects. What was once a military zone with clear functional logic has been absorbed into the pedestrian and commercial fabric of the modern city. The square's name survives as a trace of that earlier geography, when Marseille's harbour was also a defended installation and the ground around the port was organised around military rather than civilian priorities.
+"Place d'Armes" — Arms Square — marks a former military parade ground. In Marseille, that means the ground between Fort Saint-Jean and Fort Saint-Nicolas, the two fortifications that guarded the Vieux-Port entrance from opposite headlands. This area was once organised around military logic, not civilian convenience.
 
-The forts themselves remain. Fort Saint-Jean, now connected to the MuCEM by a footbridge, is open to visitors. Fort Saint-Nicolas, across the harbour on the southern headland, is harder to access and retains more of its closed military character. The square sits between their orbits, in a part of the city where the relationship between port, military, and civilian space has been renegotiated over centuries.
+It was reshaped beyond recognition. In 1943, the Germans demolished the northern quarter of the port. Postwar reconstruction changed it again. What had been a defended installation became the pedestrian and commercial fabric it is today. The name is what survives.
+
+The forts are still there. Fort Saint-Jean, connected to the MuCEM by a footbridge, is open and worth the walk. Fort Saint-Nicolas, on the southern headland, retains more of its closed military character. The square sits between them, in a part of the port where centuries of military and civilian history have been compressed and rebuilt on top of each other.

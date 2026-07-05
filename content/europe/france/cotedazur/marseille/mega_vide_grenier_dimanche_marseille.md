@@ -2,16 +2,17 @@
 latitude: 43.2834229
 longitude: 5.4148288
 score: 1
-snippet: One of the city's largest Sunday flea markets, where Marseille empties its
-  attics into the open air for a weekly ritual of rummaging and bargaining.
+snippet: Hundreds of sellers every Sunday — Marseille empties its attics into the
+  open air
 tags:
 - curbside
 title: Mega Vide Grenier Dimanche Marseille
 type: poi
 ---
 
-The vide-grenier — literally "attic emptying" — is one of the great recurring pleasures of French street life. Neighbours spread their castoffs on folding tables and blankets, and what begins as an exercise in decluttering becomes a social event: children with a box of old toys, retirees sitting beside mountains of vinyl records, young couples clearing out a first apartment. The Méga Vide-Grenier Dimanche Marseille scales this tradition up dramatically, gathering hundreds of sellers into a single venue every Sunday and drawing buyers from across the city and its hinterland.
 
-At this size, the market takes on the character of a proper flea market rather than a neighbourhood garage sale. You will find bric-à-brac of every era: mid-century ceramics, seventies furniture, boxes of postcards, tools, textiles, and the occasional piece that belongs in a museum. Prices are negotiable by expectation if not always by temperament, and the best finds go early — serious pickers arrive well before the official opening hour. The market draws a broad cross-section of Marseille, which is itself one of its pleasures: the city's distinct communities overlap and browse side by side.
+The vide-grenier — literally "attic emptying" — is one of the great pleasures of French street life. Neighbours spread their castoffs on folding tables: retirees beside towers of vinyl records, young couples clearing a first apartment, kids with a box of old toys. The Méga Vide-Grenier scales this up dramatically, gathering hundreds of sellers every Sunday and pulling buyers from across the city.
 
-Marseille's position as a port and trading city means it has always had a lively culture of second-hand goods, and the vide-grenier tradition fits naturally into that history. The Méga Vide-Grenier is as much an occasion for coffee from a thermos and conversation with strangers as it is a shopping trip. Sunday mornings here feel bracingly purposeful — nothing like the tourist rhythm of the Vieux-Port — and even if you leave empty-handed, you will have taken the pulse of the city.
+At this size it becomes a proper flea market. Mid-century ceramics, seventies furniture, boxes of postcards, tools, textiles, and occasionally something that belongs in a museum. Prices are negotiable — but the best finds go early. Serious pickers arrive before the official opening hour.
+
+Marseille has always had a strong second-hand culture: port city, trading city, everything has passed through here before. The Méga Vide-Grenier is as much a social event as a shopping trip. Sunday mornings here run on a completely different rhythm from the Vieux-Port.

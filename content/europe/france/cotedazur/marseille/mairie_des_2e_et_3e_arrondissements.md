@@ -2,16 +2,17 @@
 latitude: 43.2986067
 longitude: 5.3650823
 score: 1
-snippet: The sectoral town hall for the 2nd and 3rd arrondissements, covering the
-  historic port and Le Panier quarter.
+snippet: This covers Le Panier — where Greek settlers founded Marseille around 600
+  BC
 tags:
 - curbside
 title: Mairie des 2e et 3e arrondissements
 type: poi
 ---
 
-Marseille's twenty arrondissements are grouped into eight sectors, each with its own mairie (town hall) headed by a sectoral mayor. The Mairie des 2e et 3e arrondissements covers some of the oldest and most densely settled parts of the city: the 2nd arrondissement takes in the area immediately around the Vieux-Port on its northern shore, and the 3rd extends towards the Joliette and the major port infrastructure. The 3rd also contains Le Panier, the oldest neighbourhood in Marseille, where Greek settlers founded the original city around 600 BC.
 
-Sectoral mayors in Marseille have genuine administrative responsibilities: civil registration (births, marriages), local neighbourhood services, and a consultative role in planning decisions affecting their area. The 2nd and 3rd arrondissements represent the city's historic core, with an unusually varied population that includes long-established families, recent immigrants, and an increasingly significant cohort of new residents drawn by renovation and rising property values around the port.
+The 2nd and 3rd arrondissements take in the oldest part of the city. The 2nd wraps around the northern shore of the Vieux-Port. The 3rd extends towards Joliette and the major port infrastructure. And within the 3rd sits Le Panier — the steep, narrow neighbourhood built on the hill where Greek colonists from Phocaea first settled around 600 BC. That hill has been continuously inhabited ever since.
 
-The mairie itself functions primarily as an administrative office serving residents of the two arrondissements. It is not a tourist destination, but its location places it in one of the most historically layered parts of the city, within easy reach of the Vieux-Port, the Cathédrale de la Major, and the Mucem.
+Sectoral mayors in Marseille handle real administrative work: civil registration, local services, planning consultations. This mairie serves a constituency that runs from long-established working-class families to recent immigrants to new residents drawn in by rising property values around the port.
+
+The building itself is administrative rather than monumental. But its location — a short walk from the Vieux-Port, the Cathédrale de la Major, and the Mucem — places it in the most historically layered corner of the city.

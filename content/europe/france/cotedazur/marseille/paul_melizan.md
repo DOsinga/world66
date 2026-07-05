@@ -2,16 +2,16 @@
 latitude: 43.2750918
 longitude: 5.3959538
 score: 1
-snippet: A street or marker in northern Marseille commemorating Paul Mélizan, a figure
-  from the city's history.
+snippet: A name in Cinq-Avenues — the city's way of keeping local memory alive
 tags:
 - curbside
 title: Paul Melizan
 type: poi
 ---
 
-Paul Mélizan is commemorated in this part of northern Marseille, in the neighbourhood known as Cinq-Avenues. Streets, squares, and plaques bearing personal names in French cities typically honour local councillors, physicians, teachers, or soldiers whose contributions were significant enough to be recognised by the municipal council of the day — though the commemorated figure's fame rarely travels far beyond the city itself.
 
-The name Mélizan carries Provençal roots, suggesting a family embedded in the region for generations. Marseille's northern districts were transformed in the nineteenth century by railway construction, industrial expansion, and working-class settlement, and civic figures who shaped that period were frequently honoured with streets named after them in the following decades.
+Every city has a Paul Mélizan. A councillor, a doctor, a teacher — someone whose contribution was real and local and now largely forgotten outside the neighbourhood that named something after him. Cinq-Avenues was shaped in the nineteenth century by the railway and working-class settlement, and the people who made that work happen are scattered across street signs all over northern Marseille.
 
-The exact contribution for which Paul Mélizan was commemorated — whether political service, philanthropy, military duty, or professional distinction — is not recorded on the marker itself. His name nonetheless endures in this quiet corner of the city, a small reminder that local history is built as much from ordinary dedication as from grand gestures.
+What exactly Mélizan did — political service, philanthropy, something else — isn't recorded on the marker itself. The Provençal roots of the name suggest a family embedded in this region for generations.
+
+His name is still here. That's enough.

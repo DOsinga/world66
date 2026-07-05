@@ -2,16 +2,15 @@
 latitude: 43.3040766
 longitude: 5.3725908
 score: 1
-snippet: Weekly market held in the Stade Vélodrome car park on non-match days — an
-  improvised market hall making use of one of France's largest urban car parks.
+snippet: A stadium car park turns into a market — Marseille pragmatism at its simplest
 tags:
 - curbside
 title: Le Marché du Soleil
 type: poi
 ---
 
-The Stade Vélodrome holds 67,000 people and is the second-largest stadium in France. Its car park is proportionally vast — the kind of infrastructure that a European football stadium in a dense city requires, occupying a substantial footprint in the 8th arrondissement. On weekends when no match is scheduled, that empty asphalt is repurposed: the Marché du Soleil sets up between the lamp-posts and the stadium walls, a weekly market that would read as improbable almost anywhere else.
+The Vélodrome holds 67,000 people and has a car park to match. On match days it serves its purpose. When OM isn't playing at home, someone figured the asphalt was sitting empty in a dense residential neighbourhood.
 
-The pragmatism is typically Marseillais. The space exists, it is underutilised on non-match days, the surrounding residential streets have a provisioning gap — the conclusion follows naturally. The market offers a broad general range: food stalls alongside household goods, clothing, plants, second-hand items. It functions as a neighbourhood market for the residential 8th rather than a specialist destination, and the scale of the setting gives it a slightly surreal quality: the same stretch of tarmac that absorbs tens of thousands of supporters on match day is quiet enough on a market morning that you can hear the traders calling across the rows.
+That's the whole logic of the Marché du Soleil. No romanticism — just a weekly market between the stadium walls and the lamp-posts. Food, clothing, plants, household goods. A neighbourhood market for the 8th, not a destination market for tourists.
 
-The schedule depends on the Olympique de Marseille fixture list. When OM plays at home on a weekend, the car park serves its primary purpose. On free weekends, the market takes over. Check the OM calendar if the timing matters.
+The scale gives it a slightly surreal quality. The same tarmac that absorbs 60,000 supporters on a Saturday night is quiet enough on a market morning that you can hear traders calling across the rows. Check the OM fixture list before you go — when they're at home, there's no market.

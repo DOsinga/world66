@@ -2,16 +2,16 @@
 latitude: 43.2912641
 longitude: 5.3821681
 score: 1
-snippet: A Vieux-Port-area venue or landmark whose name evokes Marseille's identity
-  as a city built around a harbour entrance.
+snippet: Named after the lighthouse — positioned exactly where ships would have spotted
+  it first
 tags:
 - curbside
 title: Le Phare
 type: poi
 ---
 
-Le Phare — The Lighthouse — takes its name from one of the oldest symbols of Mediterranean port life. For a city whose entire existence has been shaped by ships arriving and departing, the lighthouse is more than architecture: it is the sign that home is near, or that the open sea is about to begin. A venue or space carrying this name in the shadow of the Vieux-Port is drawing on 2,600 years of that history.
+The coordinates put Le Phare between the Vieux-Port and the foot of the Panier — the oldest continuously inhabited quarter in Marseille. Greek traders from Massalia built their first warehouses somewhere in this zone in the 6th century BC. The lighthouse was the sign that you'd made it; everything you'd come for was about to begin.
 
-The coordinates place Le Phare in the area between the Vieux-Port and the lower slopes of the Panier, Marseille's oldest continuously inhabited quarter. This compact zone, bounded by the quais and the steep lanes of the hill, has been a social hub since the Greek traders of Massalia built their first warehouses here in the 6th century BC. Today it mixes tourist restaurants along the port front with quieter bars and local life a street or two back from the water.
+A venue carrying that name in this location is playing with 2,600 years of harbour symbolism. Whether it is a bar, a live-music space, or something else, the position keeps it in the orbit of one of the most atmospheric harbours in Europe — where the morning fish auction on the quai des Belges and the evening light on the water are still doing exactly what they've always done.
 
-Whether Le Phare is a live-music venue, a bar, a gallery or simply a public landmark, its position keeps it in the orbit of one of Europe's most atmospheric harbours — a place where the evening light on the water and the noise of the fish auction at dawn are still capable of making the city feel like what it has always been: a place of arrivals and departures.
+Walk a street or two back from the tourist-facing quais and you get quieter bars and actual local life. Le Phare sits somewhere in that transition.

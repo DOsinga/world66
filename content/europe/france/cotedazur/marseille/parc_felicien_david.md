@@ -2,17 +2,15 @@
 latitude: 43.2983647
 longitude: 5.4140019
 score: 1
-snippet: A neighbourhood park in the 10th arrondissement named after the Romantic
-  composer Félicien David, who was born near Marseille and became famous for his orientalist
-  music.
+snippet: Named for the composer who heard the Sahara and brought it back to Paris
 tags:
 - curbside
 title: Parc Félicien David
 type: poi
 ---
 
-Parc Félicien David lies in the 10th arrondissement, in the residential hillside district above La Timone and the eastern edge of the old city. The park is named after Félicien David (1810–1876), a composer born in Cadenet in the Luberon who spent formative years in Marseille before achieving fame in Paris. David was associated with the Saint-Simonian movement, a utopian socialist sect that sent its members to Egypt and the Ottoman lands in the 1830s, and the experience transformed his music: his 1844 orchestral ode *Le Désert* introduced European concert audiences to musical depictions of the Orient and made him briefly one of the most celebrated composers in France.
+Félicien David (1810–1876) grew up near Marseille and fell in with a utopian socialist sect called the Saint-Simonians. In the 1830s the sect sent its members to Egypt and the Ottoman Empire — and that trip changed everything. David came back from North Africa with notebooks full of musical ideas, and his 1844 orchestral ode *Le Désert* stopped Paris cold. It was one of the first Western concert works built around genuinely Oriental themes, not just borrowed exoticism.
 
-The park occupies sloping ground with mature trees and modest facilities — benches, a small playground, paths that follow the gradient. The 10th arrondissement is one of the city's working-class inner districts, its streets dense with apartment buildings from the postwar reconstruction era. Green space here is functional rather than ornamental, serving a neighbourhood where private gardens are rare.
+The park in the 10th arrondissement is a working-class neighbourhood green space — slopes, mature trees, benches, a small playground. Functional rather than ornamental. The city also named its music conservatoire after him.
 
-David's connection to Marseille is remembered partly through this park and partly through the conservatoire that bears his name in the city centre. His trajectory — provincial origins, utopian idealism, years in North Africa, Parisian celebrity — traces something of the wider arc of nineteenth-century Marseille: a port city that faced the Mediterranean and drew back a changed understanding of the world beyond it.
+His trajectory is worth holding onto: provincial kid, utopian idealist, years in North Africa, briefly one of France's most celebrated composers. That arc traces the wider Marseille story. A port city that faced the Mediterranean and came back changed.

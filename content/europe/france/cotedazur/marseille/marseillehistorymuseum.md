@@ -2,7 +2,7 @@
 latitude: 43.2978
 longitude: 5.3756
 score: 7.7
-snippet: Local archaeological museum built around the excavated Greek port
+snippet: They found a Greek port under a shopping mall — it's now the museum's centrepiece
 tags:
 - curbside
 - things_to_do
@@ -11,6 +11,9 @@ title: Marseille History Museum
 type: poi
 ---
 
-The Musée d'Histoire de Marseille traces the city's 2,600-year story from its Greek founding through Roman trade, medieval fishing village, Renaissance free city and modern French port. Its setting is the unusual part: the museum extends out into the Jardin des Vestiges, the excavated remains of the original Greek port that were uncovered in 1967 during construction of the Centre Bourse shopping centre. Wooden hulls of Greek and Roman ships, a stretch of rampart, the fresh-water basin — all preserved in the open air where they were found.
 
-Inside, the collection runs to thousands of objects, with strong sections on the Greek period, Roman-era trade, and the city under royal authority. The displays were modernised in 2013 and are well done, with bilingual labels. Allow two hours including the Jardin des Vestiges. The museum is tucked into the basement of the Centre Bourse mall but is far more interesting than its location suggests.
+In 1967 workers were digging the foundations for the Centre Bourse shopping centre when they hit the original Greek port of Massalia. The dig stopped, the archaeologists moved in, and what they found is now the Jardin des Vestiges: wooden hulls of Greek and Roman ships, a stretch of ancient rampart, a freshwater basin — all preserved in the open air where they were found, right beside the mall.
+
+The museum wraps around this excavation. It runs 2,600 years of city history, from the Greek founding through Roman trade, medieval Marseille, and the modern port. The collection is strong on the Greek period and Roman-era commerce; the displays were modernised in 2013 and are genuinely well done, with bilingual labels.
+
+Give it two hours if you include the Jardin des Vestiges. The basement-of-a-mall location puts most visitors off, which means you will often have the ancient ships mostly to yourself.

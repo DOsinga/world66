@@ -2,16 +2,17 @@
 latitude: 43.331908
 longitude: 5.399674
 score: 1
-snippet: A functional public garden in a planned residential zone in the northern
-  arrondissements, designed as the green heart of a mid-twentieth-century urban development.
+snippet: Built as the green heart of a postwar housing estate — and it still serves
+  that role
 tags:
 - curbside
 title: Jardin du Centre Urbain
 type: poi
 ---
 
-Jardin du Centre Urbain takes its name literally: it was designed as the central green space of a planned urban residential development in the northern arrondissements of Marseille. The phrasing — *centre urbain*, urban centre — points to the mid-twentieth-century planning vocabulary of the grands ensembles, the large social housing estates and planned residential zones built across France in the 1950s, 60s, and 70s to house the rapidly growing urban population.
 
-The northern arrondissements of Marseille — the 13th, 14th, and 15th — received some of the city's largest housing developments in this period, and the provision of a formal garden as the social heart of such a development was a planning requirement and a genuine aspiration. The reality of such gardens, as the estates aged and were underfunded, often diverged from the original design intent, but they remain important neighbourhood resources.
+The name says exactly what it is. In the planning vocabulary of the 1950s and 60s, a *centre urbain* was the social core of a grands ensemble — one of France's large-scale social housing developments. This garden was designed as that core for a development in the northern arrondissements.
 
-The garden serves the residents of the surrounding development and is one of the more substantial green spaces in a part of the city where large parks are few. Its utilitarian name describes its purpose honestly: it is the green centre of an urban neighbourhood.
+The northern districts — the 13th, 14th, 15th — received some of Marseille's biggest postwar housing projects. The theory was that a proper garden at the centre would make the estate feel like a real neighbourhood. The reality often fell short as funding dried up, but the garden survived.
+
+It remains one of the larger green spaces in a part of the city with few parks. Utilitarian name, genuine function.

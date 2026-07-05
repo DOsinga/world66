@@ -2,16 +2,17 @@
 latitude: 43.291321
 longitude: 5.381776
 score: 1
-snippet: A 19th-century grand hotel that once lodged dignitaries and senior officials
-  visiting the Préfecture des Bouches-du-Rhône in central Marseille.
+snippet: Built to house the notaries and officials visiting the Préfecture — when
+  proximity to power was a business plan
 tags:
 - curbside
 title: Grand Hotel De La Prefecture
 type: poi
 ---
 
-The Grand Hôtel de la Préfecture stood at the heart of Marseille's administrative district, a short distance from the imposing Préfecture des Bouches-du-Rhône on the Rue de la République. Grand hotels near prefectures were a fixture of 19th-century French provincial cities: the Prefect — the state's appointed representative in each department — drew a steady stream of notaries, lawyers, army officers, and government contractors who needed somewhere respectable to stay, and establishments of this type obliged. Built in the Second Empire style favoured under Napoleon III, the hotel combined grandeur with practicality, offering reading rooms, dining salons, and the kind of marble-clad lobby that signalled civic importance to arriving guests.
 
-Marseille's prefecture district underwent considerable transformation during the Haussmann era and the Third Republic, with Rue de la République itself widened into a broad boulevard lined with stone apartment blocks that gave the city its Parisian veneer. The hotel occupied a natural position in this reconfigured neighbourhood, serving the lawyers of the adjacent Palais de Justice and the merchants who needed to settle affairs with departmental bureaucrats. Like many such establishments, it prospered during the Belle Époque and struggled as rail travel and then motorisation shifted traffic patterns away from the historic centre.
+Grand hotels near prefectures were a fixture of 19th-century France. The Prefect — the state's appointed man in each department — drew a steady traffic of lawyers, army officers, and government contractors who needed somewhere respectable to stay. This one sat a short walk from the Préfecture des Bouches-du-Rhône, which still operates today.
 
-Today the building is best appreciated as a relic of the era when proximity to power was itself a commercial advantage. The surrounding streets retain their late-19th-century scale and stone facades, and the Préfecture — still the working seat of the Prefect of Bouches-du-Rhône — continues to anchor this part of the 1st arrondissement as a neighbourhood of institutions rather than tourism.
+The building went up in the Second Empire style: marble lobbies, reading rooms, dining salons — the full civic grammar of the period. The Rue de la République running past it was widened during the Haussmann era into a broad boulevard of stone apartment blocks meant to give Marseille its Parisian veneer. The hotel was right at home in that project.
+
+The surrounding streets still carry their late-19th-century scale. The Préfecture still anchors the neighbourhood as a place of institutions rather than tourism. The hotel is a relic of the era when your address told people exactly whose orbit you moved in.

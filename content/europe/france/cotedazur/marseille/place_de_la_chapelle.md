@@ -2,16 +2,17 @@
 latitude: 43.279537
 longitude: 5.3043414
 score: 1
-snippet: A chapel square in the 16th arrondissement near L'Estaque, where the industrial
-  port village merges with the limestone coast north of the city.
+snippet: Chapel square in the industrial north, where L'Estaque meets the limestone
+  coast
 tags:
 - curbside
 title: Place de la Chapelle
 type: poi
 ---
 
-Place de la Chapelle sits in the 16th arrondissement near the L'Estaque coast, in one of the small quartiers that developed around a chapel or votive shrine — the pattern of religious punctuation that organises the urban fabric of Mediterranean cities at the neighbourhood scale. In Marseille, chapels dedicated to the Virgin Mary are particularly numerous: Notre-Dame de la Garde on the hilltop above the city is the most conspicuous, but dozens of smaller chapels and ex-voto shrines are embedded in the residential fabric of every arrondissement.
 
-The 16th arrondissement encompasses both the L'Estaque industrial and port area and the residential neighbourhoods on the slopes above it. The coast here is defined by the calanques de l'Estaque — a series of small coves cut into the limestone where the Nerthe massif meets the sea — and by the industrial infrastructure of the port: cement works, petrochemical facilities, and the maritime traffic of the Golfe de Fos.
+L'Estaque sits between cement works and calanques — a coastal industrial village that Cézanne and Braque painted obsessively in the early 20th century. This square is organised around a chapel, which is the standard unit of neighbourhood identity in Marseille's outer arrondissements: wherever people settled, they built a shrine, then a square around it.
 
-A chapel square in this context is the neighbourhood's point of orientation — the place where the religious and domestic life of the quarter intersects, where processions begin and where people stop. Even in a secularising city, these squares retain a social function that outlasts active religious practice, simply because they are the places where the neighbourhood has always gathered.
+The 16th arrondissement coastline is surprisingly beautiful given the industrial backdrop. Small coves cut into limestone just north of the port infrastructure — something to look at between the oil tanks. The chapel here was the neighbourhood's focal point before the city even reached this far.
+
+Today the square functions the way these places always have: somewhere to stop, to orient, to check the time. The religious occasion is optional.

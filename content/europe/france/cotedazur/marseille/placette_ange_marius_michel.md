@@ -2,16 +2,15 @@
 latitude: 43.3399384
 longitude: 5.4203414
 score: 1
-snippet: A small square in the northern reaches of Marseille named in honour of Ange-Marius
-  Michel, a local figure commemorated by the municipality.
+snippet: Two names that could only come from one city — Ange and Marius, unmistakably
+  Marseillais
 tags:
 - curbside
 title: Placette Ange-Marius Michel
 type: poi
 ---
 
-Placette Ange-Marius Michel is a small public square tucked into the northern districts of Marseille, far from the tourist circuits of the city centre. The name combines two distinctly Provençal forenames — Ange and Marius — that together paint a portrait of a man rooted in this region. Ange was a common name in Catholic southern France, evoking the protective figure of an angel, while Marius was so associated with Marseille that it became the archetypal Marseillais name, immortalised in Marcel Pagnol's famous trilogy.
 
-Squares like this one are common across French cities: a modest piece of paved ground, perhaps with a bench or a plane tree, named to keep alive the memory of a councillor, schoolteacher, resistance fighter, or benefactor whose service was meaningful to the local community. The northern arrondissements of Marseille have their own distinct history, shaped by immigration waves, working-class industry, and tight-knit village-like neighbourhoods that predate the city's twentieth-century expansion.
+Look at the name carefully. Ange — the angel — was a fixture of Catholic Provençal naming, a small daily act of faith. Marius was so thoroughly the Marseillais name that Marcel Pagnol used it for the hero of his entire trilogy. Whoever Ange-Marius Michel was, his name announces exactly where he came from.
 
-The placette itself is unlikely to detain most visitors for long, but its name is a quiet act of local memory, preserving a specific identity in a part of the city that often goes unremarked in travel writing focused on the Vieux-Port and the Corniche.
+The placette itself is small — a bench, perhaps a plane tree, a square that exists to anchor the street grid. The northern arrondissements have plenty of these: patches of public space that serve local residents and keep alive the memory of figures most visitors never hear about.

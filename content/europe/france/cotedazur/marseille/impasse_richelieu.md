@@ -2,17 +2,17 @@
 latitude: 43.281553
 longitude: 5.3520234
 score: 1
-snippet: A short dead-end street named after Cardinal Richelieu, the minister who
-  forced a royal citadel on Marseille in the seventeenth century and permanently changed
-  the city's relationship with the French crown.
+snippet: A dead-end alley named after the minister who made Marseille point its own
+  cannons at itself
 tags:
 - curbside
 title: Impasse Richelieu
 type: poi
 ---
 
-Armand Jean du Plessis, Cardinal Richelieu (1585–1642), served as chief minister to Louis XIII and made it his life's work to subordinate every power in France — noble, Protestant, and municipal — to the crown. Marseille, with its tradition of fierce communal autonomy stretching back to its days as a Greek colony, was a particular challenge. The city had its own consular government, its own militia, and an ingrained suspicion of royal interference. In 1660, a generation after Richelieu's death, Louis XIV arrived to settle the matter by force, demanding that Marseille open its gates and accept two royal forts — Saint-Nicolas and Saint-Jean — that trained their guns not outward toward the sea but inward toward the city itself.
 
-Richelieu had laid the groundwork. His policy of dismantling independent strongholds and imposing royal garrisons throughout the kingdom meant that Marseille's eventual submission was part of a broader pattern rather than an isolated humiliation. Streets, squares, and public buildings across France were named after him as the century progressed, the toponym carrying a double message: a tribute to centralising genius and a reminder that the crown's reach was permanent.
+This small dead end is named after Cardinal Richelieu, and the name carries a quiet sting. Richelieu spent his career as Louis XIII's chief minister dismantling every independent power in France — noble houses, Protestant strongholds, and self-governing cities like Marseille. He died in 1642. Louis XIV came to finish the job in 1660, arriving with an army and demanding Marseille open its gates.
 
-This dead-end alley bearing his name in the south of Marseille is one of those quiet commemorations — easy to overlook, but connected to a moment that fundamentally altered the city's civic identity. The citadels Richelieu's policy inspired still stand at the entrance to the Vieux-Port, their seaward cannons long since silent.
+The result was Fort Saint-Nicolas and Fort Saint-Jean, built on either side of the Vieux-Port entrance. The cannons didn't face the sea — they faced the city. The message was clear: you are ours now.
+
+The forts still stand. Go look at them from the waterfront and remember that Richelieu's policy made them possible. Then come back and look at this alley. One name, two centuries of accumulated pressure on a city that had been governing itself since the Greeks.

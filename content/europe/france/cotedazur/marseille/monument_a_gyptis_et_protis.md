@@ -2,17 +2,16 @@
 latitude: 43.2933332
 longitude: 5.3637447
 score: 1
-snippet: 'Marks the founding myth of Marseille: in 600 BCE, a Phocaean sailor was
-  offered land at the Lacydon inlet as a wedding gift — and founded the colony of
-  Massalia.'
+snippet: A Greek trader came to negotiate. The king's daughter chose him. That's how
+  the city started
 tags:
 - curbside
 title: Monument à Gyptis et Protis
 type: poi
 ---
 
-The story survives in Aristotle's lost constitution of Massalia (quoted by Athenaeus) and in the Roman historian Justinus: Protis, a Greek trader from Phocaea in Asia Minor, arrived to negotiate trading rights with the local Segobrigii. By tribal custom he was invited to a wedding feast at which the king's daughter Gyptis would choose her husband by offering a cup of wine to a man of her choice. She chose the visiting Greek. The king, Nann, gave the couple land at the mouth of the Lacydon inlet — the natural harbour that became the Vieux-Port — as a dowry. Greek pottery found at the site dates to the late seventh century BCE, consistent with a settlement beginning around 600 BCE.
+The story comes from Aristotle's lost constitution of Massalia and from the Roman historian Justinus. Around 600 BCE, a Greek trader from Phocaea named Protis arrived at the Lacydon inlet — the natural harbour that became the Vieux-Port — to negotiate trading rights with the local Segobrigii tribe. By custom, he was invited to a wedding feast. The king's daughter Gyptis was to choose a husband by offering a cup of wine to the man of her choice. She chose the visiting Greek. The king gave them land at the harbour mouth as dowry. Massalia was founded.
 
-Phocaea was one of the most active colonising cities of the Greek world, founding Emporion (Empúries) in Catalonia, Alalia in Corsica, and Elea in southern Italy. Massalia became the largest and most enduring of these western colonies, developing its own sub-colonial network along the Ligurian and Iberian coasts and surviving into the Roman period as an allied city with its own constitution, law, and currency. The explorer Pytheas, who reached Britain and possibly Iceland around 325 BCE, sailed from here.
+Greek pottery excavated at the site dates to the late seventh century BCE, which fits. The colony thrived. Phocaea was one of the most active colonising cities of the Greek world, and Massalia became the largest and most enduring of its western outposts. The explorer Pytheas — who reached Britain and possibly Iceland — sailed from here around 325 BCE.
 
-The monument near the Vieux-Port is modest in scale relative to what it marks. Massalia kept its independence through the Punic Wars, fought alongside Rome against Carthage, and only lost its autonomy when it backed Pompey against Caesar in 49 BCE. Even under Roman rule, the city's Greek character persisted; it transmitted Greek medical and philosophical learning to the Latin world and gave Provence its name — Provincia, Rome's first overseas province.
+The monument near the Vieux-Port is modest in scale. What it marks is not. Massalia kept its independence through the Punic Wars, fought alongside Rome against Carthage, and only lost its autonomy in 49 BCE when it backed the wrong side — Pompey against Caesar. The city that Gyptis and Protis supposedly founded lasted as a Greek polis for five and a half centuries.

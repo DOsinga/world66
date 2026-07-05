@@ -2,17 +2,17 @@
 latitude: 43.2918406
 longitude: 5.367451
 score: 1
-snippet: The garden of the former Abbaye Saint-Victor, one of Marseille's oldest and
-  most significant monastic foundations, surviving as a public green space attached
-  to the abbey's former conventual buildings near the Vieux-Port.
+snippet: The abbot's garden — Saint-Victor abbey is fifteen centuries old and this
+  is what's left of its grounds
 tags:
 - curbside
 title: Jardin de l'Hôtel de l'Abbaye
 type: poi
 ---
 
-The Abbaye Saint-Victor is one of the oldest Christian foundations in Marseille — established in the fifth century on the south bank of the Vieux-Port, built over the tomb of the martyr Victor, and fortified into its present massive form in the medieval period. The abbey was suppressed during the Revolution and its conventual buildings passed to various uses; the church survived and remains active as a place of worship.
 
-The garden attached to the former Hôtel de l'Abbaye — the abbots' residence — survives as a public space on the hillside between the Vieux-Port and the cours Pierre-Puget. It retains something of the enclosed, contemplative character that monastic gardens traditionally possessed: a walled or semi-walled space set apart from the street, with mature planting and a quietness that the nearby boulevards do not offer.
+Abbaye Saint-Victor was founded in the fifth century on the south bank of the Vieux-Port, built over the tomb of a Christian martyr. The monks fortified it into the thick-walled church you see today. The Revolution suppressed the abbey and dispersed its community — the church survived and still holds mass; the conventual buildings became something else.
 
-Visiting the garden is a way of being briefly in the atmosphere of one of Marseille's oldest sites, even for those who do not enter the abbey church itself. The combination of Roman remains below ground, the medieval fortified church, and this surviving garden makes the Saint-Victor precinct a genuinely layered place.
+The Hôtel de l'Abbaye was the abbot's residence. The garden attached to it is what remains of the monastic grounds: walled off from the street, mature planting, quieter than anything on the boulevards nearby. Monastic gardens were designed to be contemplative. That quality is still there.
+
+Go in even if you don't go into the church. Below this ground there are Roman remains. The combination of that, the medieval fortress-church, and this surviving garden makes the Saint-Victor precinct one of the most layered sites in the city.

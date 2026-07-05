@@ -2,16 +2,17 @@
 latitude: 43.3133708
 longitude: 5.4494597
 score: 1
-snippet: A local war memorial in the quartier of Saint-Julien, in Marseille's eastern
-  12th arrondissement, close to the Provençal countryside the city slowly absorbed.
+snippet: A village absorbed by the city — the names on this stone are from the streets
+  you just walked
 tags:
 - curbside
 title: Monument aux morts de Saint-Julien
 type: poi
 ---
 
-Saint-Julien is one of the villages that Marseille gradually absorbed as it spread eastward across the limestone plateau. In the 12th arrondissement, well inland from the old port and the commercial centre, it retains the feel of a bourg that was once distinct — its own church, its own small square, its own tight web of family connections. That history of self-contained community life is precisely what makes a neighbourhood war memorial here so legible: the names on the stone were neighbours in the fullest sense of the word.
 
-The memorial dates from the post-1919 wave of monument-building that followed the Armistice. A law passed that year made it a legal obligation for every French commune to erect a monument to its fallen soldiers, and in the years that followed, some 36,000 war memorials went up across France — one for virtually every town and village in the country. In Marseille, that obligation was interpreted at the neighbourhood level as well as the city level, producing local memorials like this one that served the communities whose men had left from these specific streets. With approximately 1.4 million French dead from the 1914–18 war, no quartier was untouched.
+Saint-Julien was once its own bourg — a village with its own church, its own square, its own web of family connections — before Marseille expanded eastward and swallowed it. In the 12th arrondissement, well inland from the old port, it still carries that quality of a place that used to be distinct. The names on this memorial belonged to men who were neighbours in the fullest sense: people who shared the same market, the same school, the same lane.
 
-The Saint-Julien memorial is not a tourist attraction and does not pretend to be. It is a functional monument — a place for the Toussaint wreath, for the 11 November ceremony, for the occasional visitor who pauses to read the names and trace the family surnames that still echo through the neighbourhood. In that ordinariness lies its authenticity.
+After 1919, a national law required every French commune to erect a memorial to its fallen. Marseille's size meant that obligation was met at multiple scales simultaneously — the grand city monument on the Corniche, and then quartier-level stones like this one, serving the communities whose men had left from these specific streets.
+
+The Saint-Julien memorial is not a tourist attraction and doesn't try to be. It's a functional monument — for the 11 November wreath, for the occasional visitor who reads the names and notices that some of the family surnames still echo through the neighbourhood today.

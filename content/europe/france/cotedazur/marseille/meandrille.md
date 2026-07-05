@@ -2,16 +2,17 @@
 latitude: 43.3126356
 longitude: 5.3703262
 score: 1
-snippet: A quietly observed public artwork tucked into the northern quarters of Marseille,
-  tracing the language of water in stone and metal.
+snippet: A sinuous street sculpture in northern Marseille tracing the memory of vanished
+  rivers
 tags:
 - curbside
 title: Méandrille
 type: poi
 ---
 
-Méandrille takes its name from the méandre — the serpentine loop that rivers carve when they slow and wander across a plain. This small public installation translates that geological grammar into urban sculpture: a sinuous form set into the streetscape of a northern Marseille neighbourhood, inviting passersby to read the earth's own handwriting at eye level. Where the Huveaune and the Jarret once shaped the lowlands south and east of the city, Méandrille plants the memory of water movement in concrete and stone.
 
-The work belongs to Marseille's wider tradition of neighbourhood-scale public art, which has seeded squares, underpasses, and transit corridors across the city's fourteen arrondissements with pieces that speak to local identity rather than grand civic pride. Méandrille is modest by design: it rewards the walker who slows rather than the motorist who passes. In a district where the built fabric is dense and largely utilitarian, the curving form offers a small but genuine counterpoint — a reminder that the geometry of nature underlies even the most gridded city plan.
+Méandrille takes its name from the méandre — the looping curve a river carves when it slows and wanders. The installation translates that shape into a small urban sculpture set into the streetscape of a northern arrondissement, a sinuous form in an otherwise dense and utilitarian district. The Huveaune and the Jarret once shaped the lowlands around the city; this piece plants the memory of water in concrete.
 
-Coming across Méandrille is partly a matter of chance and partly of wandering with purpose, which is itself a very Marseillais way of seeing the city. The coordinates pinpoint its location, but the surrounding streets are worth exploring on foot: the northern arrondissements have a rougher grain than the postcard waterfront, and small gestures of civic art like this one feel all the more generous for their setting.
+It belongs to Marseille's tradition of neighbourhood-scale public art — pieces seeded into underpasses, squares, and transit corridors across all fourteen arrondissements, aimed at local identity rather than civic grandeur. Méandrille is modest on purpose. It rewards the walker who slows down.
+
+The northern arrondissements have a rougher grain than the waterfront. Small gestures of civic art feel more generous for the setting. Finding this one is partly a matter of wandering with purpose, which is a very Marseillais way to move through a city.

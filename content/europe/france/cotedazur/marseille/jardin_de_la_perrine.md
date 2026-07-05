@@ -2,16 +2,16 @@
 latitude: 43.3016782
 longitude: 5.4318125
 score: 1
-snippet: A small public garden in the eastern 11th arrondissement, in the suburban
-  residential neighbourhood of La Perrine on the city's inland edge.
+snippet: Low-key neighbourhood green in the eastern 11th, where Marseille goes suburban
 tags:
 - curbside
 title: Jardin de la Perrine
 type: poi
 ---
 
-Jardin de la Perrine sits in the 11th arrondissement, in the quarter that shares its name: La Perrine, a residential neighbourhood in the eastern reaches of Marseille where the city's apartment blocks give way to quieter streets and more detached housing. The 11th is one of the less-visited arrondissements, set back from the sea and without the commanding sites of the more central districts.
 
-The garden is a neighbourhood green space at a modest scale — a place for the families and older residents of La Perrine to take the air and let children play. The name *Perrine* is an old Provençal given name (a feminisation of Pierre), and the quarter likely takes it from an early property or a long-gone family home rather than any notable person.
+Out in the 11th, the city changes register. Apartment blocks give way to quieter streets, more detached housing, less urgency. La Perrine is that kind of neighbourhood — the name is an old Provençal given name, probably from a long-vanished farmstead or family property rather than anyone famous.
 
-In the eastern arrondissements of Marseille, life is quieter and more suburban than the intensity of the Vieux-Port district. The Jardin de la Perrine fits that character: unpretentious, useful, and genuinely appreciated by the people who live around it.
+The garden is unpretentious and genuinely useful. Families come here with children. Older residents use the benches. It's the scale of green space that works at the neighbourhood level — not a park, not a square, just a place to be outside that happens to be public.
+
+The eastern arrondissements of Marseille don't make the tourist itineraries. The Jardin de la Perrine is exactly that — a local garden, for local people.

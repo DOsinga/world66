@@ -13,6 +13,9 @@ title: Musée Cantini
 type: poi
 ---
 
-Housed in a 17th-century private mansion, the Musée Cantini holds one of France's strongest collections of 20th-century art. The core strength is Fauvist and Surrealist work — Matisse, Dufy, Ernst, Miro, Masson, Picabia, Derain — built up from the 1960s onward through a series of generous donations. Post-war and contemporary pieces by Bacon, Giacometti, Dubuffet, and Tapies round out the collection.
 
-The building itself is worth attention: a graceful hôtel particulier from 1694, donated to the city by marble merchant Jules Cantini. Metro: Estrangin-Préfecture.
+The building is a graceful 1694 *hôtel particulier* — donated to the city by marble merchant Jules Cantini, which explains the name. Inside is one of France's strongest concentrations of 20th-century art: Matisse, Dufy, Ernst, Miró, Masson, Picabia, Derain — the Fauvist and Surrealist rooms alone justify the trip.
+
+Post-war and contemporary work by Bacon, Giacometti, Dubuffet, and Tàpies rounds out the collection. It was built up from the 1960s through a run of generous donations and has stayed underrated relative to its quality.
+
+Nearest metro is Estrangin-Préfecture, a short walk north.

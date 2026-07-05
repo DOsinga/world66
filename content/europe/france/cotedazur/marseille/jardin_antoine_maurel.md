@@ -2,16 +2,17 @@
 latitude: 43.2944807
 longitude: 5.3987492
 score: 1
-snippet: A neighbourhood garden in the 2nd arrondissement near the Vieux-Port, named
-  after Antoine Maurel, a notable Marseillais figure of the 19th century.
+snippet: Small pocket garden north of the Vieux-Port — a bench and some shade in a
+  dense neighbourhood
 tags:
 - curbside
 title: Jardin Antoine Maurel
 type: poi
 ---
 
-Jardin Antoine Maurel is a small public garden in the 2nd arrondissement of Marseille, set in the dense residential and commercial fabric north of the Vieux-Port. The garden is named after Antoine Maurel, a Marseillais businessman and public figure of the nineteenth century whose family were prominent in the city's commercial life.
 
-The garden serves the immediate neighbourhood as a pocket of calm among the busy streets: a few benches, some shade trees, and a break from the surrounding urban density. Gardens of this scale are a reliable feature of Marseille's older arrondissements, where open space is scarce and often hard-won.
+This is a small garden named after Antoine Maurel, a 19th-century Marseillais businessman whose family were prominent in the city's commercial life. It sits in the 2nd arrondissement, north of the Vieux-Port, in streets that are busy and dense with almost no open space.
 
-It is not a destination garden, but it is exactly what the neighbourhood needs — a place to sit, catch a breath of air, and watch the ordinary life of the city go by.
+That scarcity is the whole point. In this part of the city a few benches and some shade trees are worth more than they look. Pocket gardens like this one exist because the neighbourhood needs somewhere to sit that isn't a café terrace.
+
+It is not a destination. But if you are walking the northern Vieux-Port on a hot afternoon, you will understand exactly why it exists the moment you step into it.

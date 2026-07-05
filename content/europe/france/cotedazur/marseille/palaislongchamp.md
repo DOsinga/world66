@@ -2,8 +2,8 @@
 latitude: 43.304237
 longitude: 5.394606
 score: 8.7
-snippet: A triumphal water tower with two museums and the best fountain cascade in
-  the city
+snippet: A water tower built as a baroque palace — with two museums and the best fountain
+  in the city
 tags:
 - curbside
 - things_to_do
@@ -13,4 +13,9 @@ title: Palais Longchamp
 type: poi
 ---
 
-Built to celebrate water arriving in the city via the Canal de Marseille, the Palais Longchamp is more monument than building — a baroque cascade of fountains flanked by two curved colonnades, each wing housing a museum. The left wing holds the Musée des Beaux-Arts with its collection of Provençal and Flemish painting; the right wing houses the natural history museum. The formal gardens behind climb the hill and are a favourite for lunchtime strollers. Completed in 1869 to the design of Espérandieu, the same architect who built Notre-Dame de la Garde.
+
+In 1869 Marseille finished the Canal de Marseille — 87 kilometres of engineering to bring fresh water from the Durance River into a city that had been dangerously dry. They marked the arrival point with this: a cascading fountain flanked by two curved colonnades, each wing housing a museum, formal gardens climbing the hill behind. They were not being modest.
+
+The left wing holds the Musée des Beaux-Arts — Provençal masters, Flemish painting, a Rubens. The right wing is the natural history museum. The fountain itself is the point on a hot afternoon: water pouring down dressed stone, surrounded by lions and allegorical figures, the full theatrical treatment.
+
+Espérandieu designed it — same architect as Notre-Dame de la Garde. He had good instincts for spectacle.

@@ -2,17 +2,15 @@
 latitude: 43.3002165
 longitude: 5.3675969
 score: 1
-snippet: A public artwork or installation engaging the mirror as a concept — reflection,
-  doubling, and self-image in a city that has always looked outward across the Mediterranean
-  and inward at itself simultaneously.
+snippet: Norman Foster's steel canopy turns the Vieux-Port upside down overhead
 tags:
 - curbside
 title: Le Miroir
 type: poi
 ---
 
-The most famous mirror in Marseille is not a conventional artwork but a piece of infrastructure: the ombrière designed by Norman Foster and Partners, installed at the Vieux-Port in 2013 as part of the European Capital of Culture programme. It is a vast stainless-steel canopy over the quayside — forty-six metres long, twenty-two metres wide — whose polished underside reflects everything below it in a continuous, slightly distorted image. Passers-by see themselves inverted overhead; the boats, the water, the facades of the surrounding buildings appear upside down in the ceiling. It functions simultaneously as shade structure and public artwork, and it has become one of the most photographed spots in the city.
+The ombrière at the Vieux-Port is forty-six metres of polished stainless steel suspended over the quayside. Look up and you see everything below reflected in the ceiling — boats, facades, passing strangers, all inverted. Norman Foster's office designed it for the 2013 European Capital of Culture year.
 
-The mirror as an artistic device carries a particular resonance in a port facing the Mediterranean. Marseille has always had a double relationship with its image: the city that the rest of France sees — rough, loud, African-inflected, not quite French — and the city that Marseille sees in itself — the oldest city in France, the founding Greek colony, a place with a longer urban history than Paris. The gap between those two images is where most of the interesting writing about Marseille lives.
+It works as shade. It works as spectacle. And it catches something real about Marseille's relationship with its own image: the city that France sees — loud, rough, African-inflected — and the city Marseille sees in itself — the oldest city in France, twenty-six centuries of harbour history. The gap between those two versions is where most of the interesting writing about this place lives.
 
-A work called Le Miroir — whether it is a separate installation or a name given to the ombrière's reflective surface — is playing with that doubling. To hold a mirror up to a sea-facing city is to show it something more complicated than its own face: the water behind it, the cities across the water, the history of everything that has arrived and departed through the harbour that is still, in some sense, the city's reason for existing.
+A mirror in a port city doesn't just show you your face. It shows you the water behind you.

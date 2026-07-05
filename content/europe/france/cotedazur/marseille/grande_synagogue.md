@@ -2,18 +2,17 @@
 latitude: 43.2870451
 longitude: 5.3775718
 score: 1
-snippet: The Moorish Revival style of the 1864 Grande Synagogue on the Rue Breteuil
-  was chosen deliberately — it evokes the golden age of Jewish culture in Al-Andalus.
-  Across Europe in the mid-19th century, Moorish Revival was the dominant architectural
-  language for Sephardic synagogues, an act of historical identification in stone.
+snippet: Moorish Revival on the Rue Breteuil — horseshoe arches chosen as a deliberate
+  act of historical memory
 tags:
 - curbside
 title: Grande Synagogue
 type: poi
 ---
 
-The building was constructed for a Sephardic Jewish community whose roots in Marseille ran through centuries of Mediterranean trade. Sephardic Jews had been present in the city since the early modern period, arriving along the same commercial routes that brought goods from the Levant, North Africa, and the Ottoman territories. The 1864 building formalised a community presence that long predated it. The decorative programme — horseshoe arches, geometric tilework, a minaret-like tower over the entrance — makes it one of the architecturally distinctive religious buildings in the city.
 
-Marseille's Jewish population grew dramatically in the 1950s and 1960s as Sephardic Jews left North Africa: Moroccan and Tunisian independence in 1956 brought the first waves; the Algerian war and independence in 1962 the largest. The city today has one of the largest Jewish populations in France, predominantly Sephardic and North African in origin. The synagogue, originally built at the edge of the city's established bourgeois centre, now stands in Belsunce — the neighbourhood that became the primary settlement zone for Muslim immigrants from the same North African countries. The adjacency is unremarkable to those who know the shared Mediterranean history; striking to those who encounter it without that context.
+The horseshoe arches, geometric tilework, and minaret-like entrance tower were not decorative accidents. Across Europe in the mid-19th century, Moorish Revival was the dominant architectural language for Sephardic synagogues — a deliberate identification with the golden age of Jewish life in Al-Andalus. When this building went up in 1864, the style was a statement in stone.
 
-The synagogue is operational and not a museum. The exterior on the Rue Breteuil is freely visible at any time. Visits for non-worshippers are possible by prior arrangement with the community; the building is open for Shabbat and festival services.
+The community it served had roots in Marseille running through centuries of Mediterranean trade. Sephardic Jews arrived along the same commercial routes that brought goods from the Levant, North Africa, and the Ottoman territories. Then in the 1950s and 60s — Moroccan and Tunisian independence in 1956, Algerian independence in 1962 — the community grew dramatically as Sephardic Jews left North Africa. Marseille today has one of the largest Jewish populations in France.
+
+The synagogue stands in Belsunce, the same neighbourhood that became the primary settlement zone for Muslim immigrants from those same North African countries. The adjacency tells you something true about the Mediterranean and about this city. It's an active synagogue, not a museum — the exterior on Rue Breteuil is visible any time.

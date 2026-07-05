@@ -2,17 +2,17 @@
 latitude: 43.2582373
 longitude: 5.3831784
 score: 1
-snippet: A wayside stone cross standing at the southern edge of Marseille, part of
-  the dense tradition of Provençal calvaires that mark routes, boundaries, and acts
-  of devotion.
+snippet: A stone wayside cross at the southern edge of the city — where Marseille
+  once remembered it was countryside
 tags:
 - curbside
 title: Croix de Pierre
 type: poi
 ---
 
-Wayside crosses — calvaires or croix de chemin — are one of the most characteristic features of the Provençal landscape. They stand at crossroads, on the approaches to villages, along pilgrimage paths, and at the boundaries between parishes. Their purposes were overlapping: to mark a route to a sanctuary, to sanctify a spot associated with death or plague, to assert the parish's identity against a neighbouring one, or simply to give travellers a place to pause and pray. Provence has several hundred surviving examples, ranging from rough medieval stumps to elaborate baroque compositions with sculpted figures. The Croix de Pierre takes its name from its material — a carved stone cross, as opposed to the wrought-iron crosses that became common after the seventeenth century.
 
-The coordinates place this cross toward the southern edge of Marseille, in the direction of the Mazargues or Les Goudes quarter, an area that in earlier centuries was semi-rural — market gardens, small farms, and the tracks connecting Marseille's urban core to the fishing villages along the calanques coastline. A stone cross in this position would have marked the limit of the city's built territory or the beginning of a path leading toward a chapel or hermitage in the hills. Many such crosses in Provence date from the fifteenth to seventeenth centuries, though they were frequently restored or replaced in the nineteenth century when a revival of popular religious sentiment led to widespread calvaire restoration projects.
+Provence is full of these — wayside crosses at crossroads, on village approaches, along pilgrimage paths, at parish boundaries. Their purposes overlapped: mark a route, sanctify a spot associated with plague or death, assert parish identity, give travellers a place to pause. Several hundred survive across the region. The Croix de Pierre takes its name from its material — carved stone rather than the wrought-iron crosses that became common after the 17th century.
 
-Whether this particular cross retains its original stone or is a later replacement, its continued presence in the urban fabric is a small victory of sentiment over development. Standing at its base, you are at one of those quiet thresholds where the city remembers it was once countryside.
+This one sits toward the southern edge of Marseille, in the direction of Mazargues and Les Goudes. That area was semi-rural until relatively recently — market gardens, small farms, tracks connecting the city to the fishing villages along the calanques. A stone cross here would have marked the limit of the built city, or the start of a path toward a chapel in the hills.
+
+Most of these crosses in Provence date from the 15th to 17th centuries, though many were replaced or restored in the 19th century during a revival of popular religious sentiment. Whether this one is original or a later replacement, it's still standing — a quiet threshold where the city remembers what it displaced.

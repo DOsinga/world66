@@ -2,16 +2,17 @@
 latitude: 43.2668848
 longitude: 5.4163552
 score: 1
-snippet: A hillside park in the 11th arrondissement named after the Armenian-French
-  singer Charles Aznavour, offering views over the eastern city.
+snippet: Named for Aznavour — whose people arrived through Marseille's port after
+  the genocide
 tags:
 - curbside
 title: Parc Charles Aznavour
 type: poi
 ---
 
-Parc Charles Aznavour occupies a hillside in the 11th arrondissement on Marseille's eastern edge, in the kind of residential district — low-rise villas, quiet roads, modest gardens — that few visitors reach. The park is a neighbourhood green space with paths winding through light woodland and open ground, with views back across the eastern city.
 
-The park is named after Charles Aznavour (1924–2018), born Shahnour Varinag Aznavourian in Paris to Armenian immigrant parents who had fled the genocide. He became one of France's most celebrated singers and songwriters over a career of nearly seventy years, known internationally for songs such as *She* and *La Bohème*. Aznavour was also a committed advocate for the Armenian diaspora and was appointed Honorary Consul General of Armenia to Switzerland. His story resonates particularly in Marseille, which has one of France's oldest and largest Armenian communities, many of them descendants of survivors who arrived via the city's port in the 1920s.
+Charles Aznavour was born Shahnour Varinag Aznavourian in Paris, to Armenian parents who had fled the genocide. He became one of France's great singer-songwriters — *La Bohème*, *She* — over a career of nearly seventy years, and a committed advocate for the Armenian diaspora until his death in 2018.
 
-The park itself is modest — green space in a quiet quarter, shaded by pines and Mediterranean scrub. It is not a major destination, but the name it carries gives it a significance beyond its size.
+The name resonates in Marseille specifically. The city has one of France's oldest Armenian communities — most of them descendants of survivors who arrived through this port in the 1920s. A park named for Aznavour in the eastern arrondissements is a quiet acknowledgement of that history.
+
+The park itself is modest: a hillside space in the 11th with paths through light woodland and views over the eastern city. Small and local. The name carries the weight.

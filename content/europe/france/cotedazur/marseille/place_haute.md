@@ -2,16 +2,17 @@
 latitude: 43.3339126
 longitude: 5.4012629
 score: 1
-snippet: A hilltop square in the 14th arrondissement whose name — Place Haute, the
-  High Square — describes its position on the elevated ground of northeastern Marseille.
+snippet: The name is exactly what it says — and it survived every renaming cycle since
+  the Revolution
 tags:
 - curbside
 title: Place Haute
 type: poi
 ---
 
-The name needs no translation and no famous person to justify it: Place Haute sits high. The 14th arrondissement occupies the northern hills of Marseille, terrain that rises steeply from the port basin into a plateau of working-class housing, light industry, and the occasional park or garden where the land levels enough to accommodate them. From elevated points here the view extends over the city's rooftops to the harbour and beyond.
 
-The square's character is determined by its district. The northern arrondissements of Marseille have a different social texture from the centre and the southern coastal quarters — denser, more economically mixed, with a population that has historically included successive waves of immigration from Italy, Spain, Armenia, and North Africa. The neighbourhood around Place Haute is residential in the way that working districts are residential: the local café, the tabac, the bakery, the school.
+The name is exactly what it says. Place Haute sits on the elevated ground of the 14th arrondissement, Marseille's northern hills, where the terrain rises steeply from the port basin into a working-class plateau with views across the rooftops to the harbour below.
 
-Topographical names like Place Haute tend to be old, surviving from a period before the city had enough prominent citizens to name everything after people. That this one persisted through the renaming cycles of the Revolution, the Empire, and the successive republics suggests it was simply too embedded in local usage to dislodge. People directed each other to the high square and no administrative decision changed that.
+These northern arrondissements are different from tourist Marseille — denser, more economically mixed, with successive waves of Italian, Spanish, Armenian, and North African immigration layered into the streets. The neighbourhood café, the tabac, the school, the bakery: the infrastructure of a district that runs on its own logic.
+
+The name is old. It predates the habit of naming every corner after a notable citizen. It survived the Revolution, the Empire, the Republic — because people simply called it the high square and no official decision could change that.

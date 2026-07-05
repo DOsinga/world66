@@ -2,16 +2,15 @@
 latitude: 43.2649932
 longitude: 5.3717782
 score: 1
-snippet: Monument to Arthur Rimbaud (1854–1891), who died in Marseille's Hôpital de
-  la Conception — the city was the last stop of a remarkable and tragic life.
+snippet: He wrote it all before twenty, then quit — and died here at thirty-seven
 tags:
 - curbside
 title: Monument à Arthur Rimbaud, le bateau ivre
 type: poi
 ---
 
-Arthur Rimbaud wrote all of his poetry before turning twenty, then stopped entirely and spent the rest of his life in Africa. He had effectively abandoned literature by 1875, and the next fifteen years found him as a trader, gun-runner, coffee merchant, and explorer in Ethiopia and Somalia — a life so completely unlike his poetic career that his Paris literary friends barely believed the reports. He had, in effect, become someone else. When he fell ill in 1891, gravely weakened and unable to walk, he was brought back to France by ship and arrived in Marseille, where his leg was amputated at the Hôpital de la Conception. He died there in November 1891, aged thirty-seven.
+Rimbaud wrote every poem he would ever write before he was twenty. Then he stopped, walked away from literature, and spent the next fifteen years as a trader, gun-runner, and explorer in Ethiopia and Somalia. By the time Paris literary circles were reading his work seriously, he had become someone else entirely.
 
-The poem named in the monument's title — *Le Bateau Ivre* (The Drunken Boat), written in 1871 when Rimbaud was seventeen — is considered one of the founding texts of French Symbolism. It is a poem of hallucinated voyage, of a ship cut loose from all control, drifting through impossible oceans. The irony is not lost on anyone who knows the life: the boy who wrote a fantasy of unmoored travel became a man who spent two decades in some of the least-visited and most physically demanding places on earth.
+In 1891 he fell critically ill. He was brought back to France by ship, arrived in Marseille, and had his leg amputated at the Hôpital de la Conception. He died there in November, aged thirty-seven. His last letters from Marseille are extraordinary — arranging commercial affairs, worrying about money, writing practical instructions to his sister. Almost no self-pity. No poetry.
 
-His last letters, written from Marseille in the weeks before his death, are remarkable documents. They combine extraordinary physical suffering with a kind of stoic practicality — he was arranging commercial affairs, worrying about money, writing to his sister with instructions. There is little self-pity and less poetry. Marseille holds both ends of him: the city where the drunken boat finally ran aground.
+The poem named in the monument's title, *Le Bateau Ivre* (The Drunken Boat), was written when he was seventeen: a hallucinated voyage of a ship cut loose from all moorings, drifting through impossible seas. The irony carries itself. The boy who wrote the fantasy of unmoored travel became the man who actually disappeared. Marseille was where he finally ran aground.

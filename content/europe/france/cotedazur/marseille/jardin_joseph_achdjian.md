@@ -2,16 +2,17 @@
 latitude: 43.2795776
 longitude: 5.4272477
 score: 1
-snippet: A garden in the eastern 9th arrondissement of Marseille, named after a figure
-  from Marseille's Armenian community.
+snippet: An Armenian name in Marseille's street geography — the port remembered its
+  arrivals
 tags:
 - curbside
 title: Jardin Joseph Achdjian
 type: poi
 ---
 
-The surname Achdjian is of Armenian origin, and its presence in Marseille reflects the large Armenian community that settled in the city after the 1915 genocide, when survivors arrived through Marseille's port as one of the principal entry points for refugees from the Ottoman Empire. Over the following decades, Armenians became deeply embedded in Marseille's commercial, professional, and civic life — their presence is marked across the city in businesses, cultural associations, churches, and, as here, in public commemorations.
 
-Joseph Achdjian is not nationally documented, but the naming of a garden after him reflects the community's integration into the city's civic fabric — the gesture by which municipalities acknowledge the contribution of specific individuals and, implicitly, the communities they represent. Gardens named after figures from Marseille's immigrant communities are found across the city and form part of its self-understanding as a port city shaped by successive arrivals.
+Achdjian is an Armenian surname. It's in Marseille's street geography because Marseille was where survivors of the 1915 genocide came ashore. The port was one of the main entry points for refugees from the Ottoman Empire, and over the following decades the Armenian community built deep roots here — businesses, churches, cultural associations, civic presence.
 
-The garden lies in the eastern 9th arrondissement, in a residential quarter that developed substantially in the postwar period. The area is home to a diverse population, and the Armenian surname in the street geography here has the same layered resonance as Italian, Spanish, North African, and other names found in different parts of the city — each one a trace of a migration history embedded in the urban fabric.
+Joseph Achdjian isn't documented nationally, but his name on a garden in the eastern 9th says something real: that the community became part of the city's fabric, and that the city acknowledged it. Armenian, Italian, Spanish, North African — Marseille's smaller green spaces carry the traces of its migration history across multiple generations.
+
+The garden itself is in a residential quarter that grew up mostly after the war. Mixed population, suburban feel. The name stands out in the landscape and tells you something about this city that a tourist information board probably wouldn't.

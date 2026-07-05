@@ -2,17 +2,17 @@
 latitude: 43.3058587
 longitude: 5.3948624
 score: 1
-snippet: The garden of the Marseille Observatory, founded in 1702 on the heights above
-  the city, offering public access to the observatory grounds and views over Marseille
-  and the sea.
+snippet: Founded in 1702 for clear sight lines above the city — the views from here
+  still deliver
 tags:
 - curbside
 title: Jardin de l'Observatoire
 type: poi
 ---
 
-The Observatoire de Marseille was established in 1702, making it one of the oldest astronomical observatories in France. It stands on the heights of the Longchamp plateau in the 4th arrondissement, a position chosen for its clear sight lines above the city's smoke and lamp-light. The observatory remains an active research institution, affiliated with Aix-Marseille University, and its classical domed buildings are a distinctive presence on Marseille's northern skyline.
 
-Jardin de l'Observatoire is the public garden that opens the observatory grounds to residents and visitors. From this elevated position — some seventy metres above the port — the views extend across the city's rooftops to the Vieux-Port, the sea, and on clear days to the Frioul islands. The garden combines the appeal of a high viewpoint with the tranquillity appropriate to a scientific institution.
+The Observatoire de Marseille was set up in 1702 on the heights of the Longchamp plateau, seventy metres above the port. The position was chosen deliberately: get above the smoke and lamp-light, get clear sky. It still functions as a research institution today, affiliated with Aix-Marseille University, domed buildings intact.
 
-The grounds include mature trees and some scientific instrumentation visible in the open air. It is an unusual combination: a working observatory and a public garden in the same space, one of the quieter and more intellectually satisfying green spaces in Marseille.
+The public garden opens the grounds to anyone. From up here the view runs across the rooftops to the Vieux-Port, the sea, and on a clear day all the way to the Frioul islands. It's one of the better elevated viewpoints in the city, without the crowds that gather at Notre-Dame de la Garde.
+
+There's scientific equipment visible in the open air alongside the trees. An observatory and a public garden sharing the same space — one of the more unusual and satisfying combinations Marseille has to offer.

@@ -2,17 +2,16 @@
 latitude: 43.301711
 longitude: 5.3756237
 score: 1
-snippet: A central Marseille square near the Belsunce district named for Nelson Mandela,
-  whose legacy carries particular resonance in a neighbourhood that is among the most
-  diverse in France.
+snippet: Named for Mandela in Marseille's most diverse quarter — not a coincidence
 tags:
 - curbside
 title: Place Nelson Mandela
 type: poi
 ---
 
-Place Nelson Mandela sits close to the Belsunce district, the dense central neighbourhood that has absorbed successive waves of immigration over two centuries — from Italy and Spain in the nineteenth century, from Algeria and Morocco after independence, from sub-Saharan Africa and Southeast Asia more recently. Belsunce and the adjacent Noailles district constitute what many residents consider the true multicultural heart of Marseille, a city that has always been more comfortable with demographic complexity than most of France.
 
-Nelson Mandela (1918–2013) spent 27 years in prison on Robben Island, was released in 1990, led the African National Congress through the negotiated end of apartheid, and became South Africa's first democratically elected president in 1994. His political achievement — a negotiated rather than a violent transition, a Truth and Reconciliation Commission rather than a purge — influenced post-conflict societies around the world, and his personal dignity during and after imprisonment gave him a moral authority that transcended normal politics.
+The location is deliberate. Place Nelson Mandela sits near Belsunce, the district that has absorbed successive waves of immigration for two centuries — Italian and Spanish in the nineteenth century, Algerian and Moroccan after independence, sub-Saharan African and Southeast Asian more recently. Noailles and Belsunce together are what many residents consider the genuine heart of the city's diversity.
 
-The choice to name this particular square, in this particular neighbourhood, after Mandela is not accidental. Marseille has a large community with ties to Senegal, Mali, Comoros, and other parts of francophone Africa; Mandela was the dominant symbol of African political dignity in the late twentieth century. The name on the sign addresses the local population as much as it commemorates the man.
+Mandela spent 27 years on Robben Island, negotiated the end of apartheid without a bloodbath, and led South Africa as its first democratically elected president from 1994. His particular achievement — a Truth and Reconciliation Commission instead of a purge — gave him a moral authority that outlasted normal politics.
+
+In a neighbourhood with large communities from Senegal, Mali, Comoros, and across francophone Africa, naming this square after Mandela isn't generic tribute. It's a direct address to the people who live here.

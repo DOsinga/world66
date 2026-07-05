@@ -2,16 +2,17 @@
 latitude: 43.3374633
 longitude: 5.4004946
 score: 1
-snippet: A small urban butterfly garden tucked into Marseille's northeastern residential
-  belt, planted with wildflower meadows and native species chosen to attract pollinators.
+snippet: Native wildflowers, painted ladies, and swallowtails — a butterfly garden
+  that actually works
 tags:
 - curbside
 title: Parc Urbain des Papillons
 type: poi
 ---
 
-Tucked into a quiet corner of Marseille's northeastern residential belt near Saint-Barnabé, the Parc Urbain des Papillons is a modest but thoughtfully planted green space dedicated to urban biodiversity. The park was laid out as part of a broader municipal effort to reintroduce pollinator corridors through the city's denser arrondissements, where concrete and heat island effects have steadily squeezed out the insects that once moved freely between Provence's garrigue and the coast.
 
-The planting scheme favours native wildflowers — lavender, thyme, wild carrot, and scabious — chosen specifically to draw the butterfly species most threatened by urban sprawl in the region. In spring and early summer, painted ladies, swallowtails, and cabbage whites are reliably present; a good year occasionally brings a clouded yellow or a southern festoon. Interpretive panels near the entrance identify the main species and explain the lifecycle connections between host plants and caterpillars, making this a worthwhile stop for anyone with children curious about the natural world.
+Near Saint-Barnabé in the northeastern residential belt, the Parc Urbain des Papillons is exactly what it says. The planting is deliberate: lavender, thyme, wild carrot, scabious — native wildflowers chosen specifically to draw the butterfly species most squeezed by urban sprawl in this part of Provence. In spring and early summer, painted ladies and swallowtails reliably show up. A good year brings clouded yellows.
 
-The park is genuinely small and unhurried — there is no café, no formal circuit, and little foot traffic on weekday mornings. That quietness is part of its appeal. It functions as both a neighbourhood breathing space and a low-key demonstration that urban greening, even at modest scale, can yield measurable ecological results in a Mediterranean city where summer heat makes every patch of shade and every insect count.
+The interpretive panels at the entrance explain which plants feed which caterpillars, making this genuinely useful if you have curious children rather than just a vague interest in wildlife. The design is modest, but the ecological logic is sound — and in a Mediterranean city where summer heat kills off most urban greenery, the fact that this works is worth noticing.
+
+It's small, quiet, and has no café. On weekday mornings there is almost nobody here. That's the point.

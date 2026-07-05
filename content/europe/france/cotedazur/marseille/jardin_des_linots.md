@@ -2,16 +2,16 @@
 latitude: 43.3135448
 longitude: 5.4092408
 score: 1
-snippet: A neighbourhood garden in the 10th arrondissement named after the linnet
-  — the small finch once common in Provençal gardens and countryside.
+snippet: Named for a songbird people used to keep in cages
 tags:
 - curbside
 title: Jardin des Linots
 type: poi
 ---
 
-Jardin des Linots takes its name from the *linot*, the common linnet (*Linaria cannabina*), a small finch that was once a familiar bird in Provençal gardens and olive groves. The linnet has a history as a caged songbird in southern France, kept for its cheerful, varied song, and its name appears in several Marseillais street and place names as a quiet marker of the rural and natural world the city grew over.
 
-The garden is in the 10th arrondissement, close to the Blancarde station quarter and the Lavie stream valley. It is a residential neighbourhood garden — benches, shade trees, some planting — serving the apartment blocks and smaller houses of this part of eastern Marseille. Whether linnets frequent it is unlikely in such a dense urban setting, but the name preserves a memory of the region's pre-urban landscape.
+The linnet — *linaria cannabina* — was a caged songbird across southern France. People kept them for their song, a busy, cheerful warble. Its name turns up in Marseillais street names as a ghost of the rural landscape the city paved over.
 
-Gardens named after birds appear throughout Marseille's eastern districts, reflecting the older rural character of land that was only absorbed into the expanding city in the nineteenth and twentieth centuries. The Jardin des Linots is a modest green patch, genuinely useful to its neighbourhood.
+This garden is in the 10th arrondissement, near Blancarde station. It's a neighbourhood patch in a dense residential quarter — shade trees, benches, somewhere for local children to kick a ball. Whether any linnets visit now is doubtful.
+
+The eastern arrondissements of Marseille were farmland and olive groves not that long ago. Gardens named after birds preserve a memory of that, quietly, in the middle of apartment blocks.

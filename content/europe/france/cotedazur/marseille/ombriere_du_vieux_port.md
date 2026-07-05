@@ -2,17 +2,15 @@
 latitude: 43.2946444
 longitude: 5.3741365
 score: 1
-snippet: A polished steel canopy 46 metres long suspended 4 metres above the Quai
-  des Belges, its underside mirror-finished to reflect the port and the people beneath
-  it — inverting the city overhead.
+snippet: Stand under it and the Vieux-Port flips upside down above your head
 tags:
 - curbside
 title: Ombrière du Vieux-Port
 type: poi
 ---
 
-Norman Foster's 2013 installation is not a sculpture or a shelter but a tool of perception. Stand beneath it at midday and the Vieux-Port reappears above you: boats inverted, facades floating, strangers walking on a ceiling of sky. The steel was polished to mirror quality rather than brushed or patinated, so the reflected image is precise rather than impressionistic — the distortion comes from the angle of view, not the surface.
+Norman Foster's 2013 canopy is 46 metres long, suspended four metres above the Quai des Belges, with a mirror-polished steel underside. Stand beneath it at midday and the whole port reappears overhead — boats inverted, facades floating, strangers walking on a ceiling of reflected sky. The finish is polished to precision, not brushed or patinated, so the image is sharp rather than impressionistic. The distortion comes from your angle, not the surface.
 
-The Ombrière arrived as the centrepiece of the Vieux-Port regeneration commissioned for Marseille's 2013 European Capital of Culture year, the same project that removed all vehicle traffic from the quays and created the largest pedestrian waterfront in France. Before 2013 the Quai des Belges was a road junction; it is now the main civic gathering point in the city.
+The Ombrière arrived as part of the Vieux-Port regeneration for Marseille's 2013 European Capital of Culture year — the same project that removed all vehicle traffic from the quays and turned the Quai des Belges from a road junction into the main civic gathering point in the city. Before 2013 this was a roundabout. Now it's where the city comes to stand around and watch the boats.
 
-The practical dimension of the canopy is not incidental: *ombrière* means shade-giver, and the structure reduces the heat island effect in a stone plaza that bakes in the Provençal summer. This dual function — public art and urban cooling — is typical of Foster's approach and has influenced subsequent pedestrianisation projects along the waterfront.
+*Ombrière* means shade-giver. The structure actually reduces heat in a stone plaza that bakes in summer — public art and urban cooling at the same time. That dual function is typical of Foster's approach, and the project has influenced how subsequent stretches of the waterfront have been treated.

@@ -2,17 +2,17 @@
 latitude: 43.2481636
 longitude: 5.3960466
 score: 1
-snippet: A small neighbourhood garden in the southern 9th arrondissement, named after
-  a family whose Italian surname reflects Marseille's long history of immigration
-  from across the Mediterranean.
+snippet: The Venetian name is a clue — Marseille absorbed waves of Italian families
+  for centuries
 tags:
 - curbside
 title: Jardin Bortoli
 type: poi
 ---
 
-Jardin Bortoli is a neighbourhood garden in the 9th arrondissement, the southernmost of Marseille's districts, which stretches from the urban fringe to the calanques coastline. The Bortoli surname is of Italian origin — Venetian, specifically — and is a reminder that Marseille has been absorbing immigrants from Italy, Corsica, Spain, and North Africa for centuries. Many of the city's neighbourhood gardens bear names of families who were prominent locally before being absorbed into the wider community of the city.
 
-The 9th arrondissement is a predominantly residential district with a more spacious, suburban character than the tight arrondissements of central Marseille. Gardens here have more room to breathe, set among individual houses and villa-style residences rather than apartment blocks.
+Bortoli is a Venetian surname. That tells you something: the 9th arrondissement, like much of Marseille, was built partly on Italian immigration — Corsicans, Sicilians, Venetians, Genoese — families who arrived, put down roots, and eventually had parks named after them.
 
-Jardin Bortoli is a local green space serving the immediate neighbourhood: shaded benches, some greenery, and a sense of quiet in a part of the city that keeps a lower urban temperature than the centre.
+The 9th is Marseille's southernmost district, where the city spreads into something more spacious before the terrain turns wild toward the calanques. The gardens down here have room to breathe — individual houses, terra cotta rooftops, a quieter rhythm than the tight streets of the centre.
+
+Jardin Bortoli is a local green space, shaded and calm. The name carries more history than the garden probably lets on.

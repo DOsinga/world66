@@ -2,16 +2,17 @@
 latitude: 43.2163627
 longitude: 5.4393933
 score: 1
-snippet: A coastal rock formation pierced by the sea, standing where the Calanques
-  limestone meets open water.
+snippet: The sea punched a hole straight through the cliff — the Mediterranean frames
+  itself inside
 tags:
 - curbside
 title: La Roche Percée
 type: poi
 ---
 
-The Calanques limestone is full of holes. Millennia of wave action, chemical weathering, and the slow negotiation between calcium carbonate and salt water have riddled the cliffs south of Marseille with arches, caves, and passages. La Roche Percée — the pierced rock — is one of the more dramatic results of that process: a natural arch or bore-hole in a coastal formation at the southeastern edge of the city's territory, where the built environment finally gives up and the landscape takes over completely.
 
-Pierced rocks hold a particular place in French coastal mythology. From the Manneporte at Étretat in Normandy, painted obsessively by Monet, to the arches along the Breton coast, a hole through a cliff-face has always read as something more than geology — a threshold, a window onto open water, a frame through which the horizon becomes a picture. La Roche Percée offers a Mediterranean version of that experience: the light is harder and whiter than in the north, the water more improbably blue, and the surrounding vegetation is garrigue rather than Atlantic gorse.
+The Calanques limestone doesn't give up easily, but the sea is patient. At La Roche Percée — the pierced rock — it finally won: millennia of wave action left a clean arch through the cliff, with open water framed inside like a painting someone forgot to hang straight.
 
-The coordinates place it well south of the city centre, close to the Parc National des Calanques boundary. Access involves either a coastal path from the Luminy area or by sea — the site is most dramatic from the water, where the arch is silhouetted against the sky and the scale of the cliff above it becomes legible.
+You're well south of the city here, near the edge of the Parc National des Calanques. The path out from Luminy takes real effort, or you come by boat. From the water is better — the arch silhouettes against the sky and the scale of the cliff above it suddenly makes sense. The light is hard and white, the water improbably blue.
+
+Stand under the arch and look through. The horizon sits inside a rock. That's the whole point.

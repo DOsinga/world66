@@ -2,17 +2,17 @@
 latitude: 43.2906923
 longitude: 5.3656996
 score: 1
-snippet: The small square in front of the Abbaye Saint-Victor on the south side of
-  the Vieux-Port — one of the oldest religious sites in France, where a 5th-century
-  necropolis underlies the medieval fortress-abbey that still dominates the waterfront.
+snippet: Green candles, a Black Madonna, and catacombs older than the church above
+  them
 tags:
 - curbside
 title: Place Saint-Victor
 type: poi
 ---
 
-Place Saint-Victor sits in front of the Abbaye Saint-Victor, the fortress-church on the south shore of the Vieux-Port that is, after Notre-Dame de la Garde, the most significant religious monument in Marseille. Saint-Victor was one of the earliest Christian sites in Gaul: founded in the 5th century by John Cassian over catacombs that may predate Christianity in the region, it was developed into a Benedictine abbey by the 11th century and became one of the most influential monasteries of the medieval Mediterranean. The church's fortified exterior — thick stone walls, towers, battlements — reflects the repeated sackings it suffered from Saracen raids and later conflicts.
 
-The catacombs beneath the church are still accessible and contain sarcophagi from the early Christian period, including the alleged tomb of Saint Victor, a Roman soldier martyred in the third century. The Black Madonna housed in the crypt is the object of a major annual procession on 2 February, the Chandeleur, when green candles sold only at the abbey are carried through the streets by thousands of Marseillais.
+The abbey behind you is one of the oldest Christian sites in Gaul. In the fifth century, John Cassian built a monastery here over catacombs that may predate Christianity in the region entirely. By the eleventh century it was a Benedictine powerhouse; the fortified walls, the battlements, the towers all went up after Saracen raids made it clear the building needed to double as a fortress.
 
-The square in front of the abbey is small and irregular, formed by the relationship between the church's bulk and the street grid that developed around it. It gives onto the Quai de Rive Neuve, and from here the view back across the Vieux-Port to Fort Saint-Jean and the Cathédrale de la Major is one of the defining panoramas of the city.
+Go down into the crypt and you're in the fifth century. Sarcophagi from the early Christian period, the alleged tomb of Saint Victor himself — a Roman soldier martyred in the third century. The Black Madonna kept here is the object of Marseille's most tenacious religious tradition: on 2 February, the Chandeleur, thousands of people carry green candles through the streets. Those candles are sold only at the abbey, nowhere else.
+
+From the square the view across the Vieux-Port to Fort Saint-Jean and the Cathédrale de la Major is one of the clearest panoramas in the city. The layers of history stack up along the northern shore — count them if you can.

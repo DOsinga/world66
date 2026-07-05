@@ -2,16 +2,17 @@
 latitude: 43.2846785
 longitude: 5.3742816
 score: 1
-snippet: A garden in Marseille's 7th arrondissement, likely named after Jules Moulet,
-  a Marseille naturalist and botanist of the 19th century.
+snippet: Named for the entomologist who spent his life cataloguing what lived in this
+  coastline
 tags:
 - curbside
 title: Jardin Jules Moulet
 type: poi
 ---
 
-Jules Moulet (1819–1896) was a Marseille naturalist and entomologist who contributed to the documentation of Provençal fauna during a period when natural history was both a serious scientific discipline and a broadly practised amateur pursuit among the educated bourgeoisie. He published on insects and was part of the network of provincial naturalists who supplied specimens and observations to the larger institutions in Paris. His name appears in taxonomic records and in the archives of Marseille's natural history institutions, which gave him a modest but genuine place in the city's scientific history.
 
-The 7th arrondissement where the garden sits is one of Marseille's more characterful southern districts — a hillside neighbourhood running from the old port area down towards the sea and the corniche, with a mix of traditional Marseillais urban fabric and residential streets that look out over the water. It is a dense, lived-in district with a long identity as a working and fishing quarter, now gentrified in parts but retaining its street-level texture.
+Jules Moulet (1819–1896) was a Marseille naturalist who spent his career documenting Provençal insects. Not a famous figure, but a serious one — he published, corresponded with the Paris institutions, supplied specimens, and left a genuine mark on 19th-century natural history. His name appears in taxonomic records. In the world of entomology, that's a form of immortality.
 
-A garden named after a 19th-century naturalist in a neighbourhood close to the sea and the rocky southern coastline has a certain fitness. Moulet's work was precisely about the species that inhabit this coastal landscape — the entomology of the garrigue and the limestone massif. Whether the city chose the name for that reason or simply to honour a locally prominent citizen is not documented, but the association is apt.
+The garden is in the 7th arrondissement, one of the more characterful southern neighbourhoods — hillside streets running down toward the sea and the corniche, a mix of old fishing-quarter texture and later gentrification. The limestone coast and garrigue that Moulet spent his life cataloguing are right here.
+
+Whether the city named the garden after him for that reason or just to honour a locally prominent citizen, the fit is good. He studied the landscape the 7th looks out over. The name belongs here.

@@ -2,17 +2,17 @@
 latitude: 43.3779085
 longitude: 5.3452806
 score: 1
-snippet: A square in the northern suburbs named after the cigale — the cicada whose
-  summer song is the acoustic symbol of Provence — one of many Marseille streets that
-  assert a Provençal identity within a thoroughly Mediterranean city.
+snippet: Named for the cicada — in July, you can hear the real ones in the hills just
+  above
 tags:
 - curbside
 title: Place Cigalon
 type: poi
 ---
 
-Place Cigalon takes its name from the cigale — the cicada, the insect whose rasping summer song is so strongly associated with Provence that it has become its unofficial emblem. The cigale appears on Provençal ceramics, linens, and souvenirs; it is claimed as a symbol of the south's warmth, indolence, and difference from the northern France that Marseille has always maintained a complicated relationship with. Naming a square after it is an assertion of regional identity at the level of the street.
 
-The square sits in the far northern arrondissements of Marseille, in the suburban fringe where the city transitions toward the garrigues and the towns of the Bouches-du-Rhône interior. These are working-class residential districts, developed in the mid-20th century, and the Provençal reference in the square's name is a reminder that even in a city as cosmopolitan as Marseille — shaped by successive waves of immigration from Italy, North Africa, the Caribbean, and sub-Saharan Africa — the local Provençal identity remains a deliberate part of the urban vocabulary.
+The cigale is the cicada — the insect whose relentless summer rasping is so bound up with Provence that it has become the region's unofficial mascot. It's on the ceramics, the linen, the souvenirs. It's the sound of a hot afternoon in the south. Naming a square after it, in the northern suburbs of France's most cosmopolitan city, is a pointed assertion of regional identity.
 
-The sound of actual cicadas is audible in the pine scrub within a few kilometres of this square, in the hills above the northern arrondissements where the city releases into countryside. In late July and August the noise is overwhelming.
+Place Cigalon sits in the far northern arrondissements, where the city transitions toward the garrigues and the Bouches-du-Rhône interior. These are working-class residential districts, built out in the mid-20th century. The Provençal reference in the name is a reminder that Marseille — shaped by immigration from Italy, North Africa, the Caribbean, sub-Saharan Africa — still reaches for something distinctly local in its street vocabulary.
+
+In late July and August, within a few kilometres of this square, the cicadas in the pine scrub above the northern arrondissements are genuinely overwhelming. The square lives up to its name.

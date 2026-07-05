@@ -2,16 +2,16 @@
 latitude: 43.2915536
 longitude: 5.4067013
 score: 1
-snippet: A public artwork whose title — Between 2 Walls — plays with the threshold
-  spaces that define urban life in a dense Mediterranean city.
+snippet: Between two walls — a work that's right where it should be in a city built
+  on narrow passages
 tags:
 - curbside
 title: Entre 2 Murs
 type: poi
 ---
 
-The coordinates for *Entre 2 Murs* place it in the eastern reaches of central Marseille, in a dense residential quarter where the city's grid tightens and walls do the work that squares and boulevards do elsewhere. The title — Between 2 Walls — is either literal or metaphorical, and quite possibly both. In a city built on hillsides and compressed by geography, the alley, the passage, and the narrow staircase corridor are not incidental spaces but essential ones: half the life of the quartiers is lived in exactly these in-between zones.
+*Entre 2 Murs* — Between 2 Walls — sits in a dense residential quarter in eastern Marseille where the grid tightens and alleyways do the work that boulevards do elsewhere. The title is literal and not just literal. In a city built on limestone hillsides, the passage, the staircase corridor, the narrow slot between two facades — these aren't marginal spaces. They're how the city moves.
 
-As an artwork, *Entre 2 Murs* invites a reading of the wall not as barrier but as threshold. Two walls define a passage; a passage is a direction; a direction implies movement and, at the far end, arrival. Marseille's urban history is partly a history of walls — the city's successive expansions each left a ring, a remnant, a boundary that was crossed and then forgotten. The Belle de Mai district to the north of here was walled out of the old city for centuries; now it hosts cultural institutions including La Friche, one of France's most significant centres for contemporary creation.
+The work plays with that threshold. Two walls define a passage; a passage implies direction; direction implies arrival. Whether this is a mural, an installation embedded in a wall surface, or something else, it rewards the same approach — arriving on foot, slowly enough to look at surfaces rather than destinations.
 
-Go looking for it on foot. Works of this type — installed in or between existing structures — reward the approach that slows you down enough to look at surfaces and gaps rather than destinations. If it is a mural, the walls it occupies may have been the medium all along.
+Go looking for it. Works placed in these in-between spaces tend to belong to them in a way that gallery work doesn't. The walls were always the medium.

@@ -2,16 +2,17 @@
 latitude: 43.2396012
 longitude: 5.4024345
 score: 1
-snippet: A decommissioned French Navy submarine preserved as a maritime heritage exhibit
-  on the Marseille waterfront.
+snippet: Board a Cold War submarine and immediately understand why this job was for
+  a specific kind of person
 tags:
 - curbside
 title: Sous-marin L'Alose
 type: poi
 ---
 
-L'Alose — the shad, a migratory fish that once ran the rivers of southern France in great numbers — was the name given to a submarine of the French Navy in the tradition of naming undersea craft after fish. The boat now preserved at Marseille represents a chapter in French naval history that stretched from the early twentieth century through the Cold War, when France maintained an independent submarine fleet as part of its doctrine of strategic autonomy.
 
-Stepping aboard a preserved submarine is an exercise in claustrophobia and respect in equal measure. The machinery is compressed into impossibly tight spaces: torpedo tubes in the bow, the cramped control room with its analogue dials and levers, the narrow passageway connecting crew quarters where men slept in shifts on bunks that folded against the hull. The boat's dimensions make it clear that submarine service demanded a particular kind of person — someone comfortable with confined spaces, with weeks at sea underwater, and with the knowledge that the margin for error in this environment was essentially zero.
+L'Alose — named for the shad, the migratory fish of southern French rivers — is a decommissioned French Navy submarine preserved on the Marseille waterfront. Step aboard and the first thing you understand is the space, or rather the total absence of it.
 
-The exhibit situates the submarine within the broader maritime history of Marseille, a city that has been connected to the sea in every conceivable way — trading, fishing, naval, passenger, colonial, industrial. Visiting opens a window onto the more esoteric end of that relationship: not the grand commercial port or the pleasure-sailing scene of the Vieux-Port, but the military dimension that shaped the city's defences and its strategic importance throughout the modern era.
+Torpedo tubes in the bow. The control room with its analogue dials crammed together. Bunks folded against the hull in passageways barely wide enough to turn around in. Men lived in here for weeks at a time, underwater, with a margin for error that was essentially zero.
+
+The exhibit connects this to Marseille's broader naval history — a city that was always strategically important, always tangled in the Mediterranean's military dimensions alongside its commercial ones. But the submarine itself is the thing. The hardware makes the abstract concrete in a way no display panel can.

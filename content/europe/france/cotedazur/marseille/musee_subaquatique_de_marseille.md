@@ -2,18 +2,16 @@
 latitude: 43.2902445
 longitude: 5.3536516
 score: 1
-snippet: France's first underwater museum opened off the Prado beaches in 2011 with
-  no building, no surface entrance fee, and no climate control. The sculptures on
-  the seabed are specifically engineered to be colonised by marine organisms; over
-  time, coral and anemones will define them as much as the artists did.
+snippet: No building, no entrance desk — the art is three to nine metres underwater
+  off the Prado
 tags:
 - curbside
 title: Musée Subaquatique de Marseille
 type: poi
 ---
 
-The works sit at depths of three to nine metres — accessible by snorkelling for anyone comfortable in open water, or by diving or glass-bottomed boat for those who prefer not to get wet. The collection includes large bronzes and resin sculptures by artists including Evelyne Galinski and Jordi Bonet. Each piece was designed to function as an artificial reef: surface texture, material composition, and structural mass were calculated to encourage colonisation by the specific organisms found in this stretch of Mediterranean coastline. The sculptures are, in this sense, intended to become something other than what they started as.
+France's first underwater museum has no gift shop, no admission desk, no climate control. The sculptures just sit on the seabed off the Prado beaches at depths between three and nine metres. You snorkel or dive to see them. Glass-bottomed boat tours exist for people who'd rather stay dry.
 
-Maintenance is by a small team of diving volunteers. There is no heated facility, no gift shop, no admission desk on the shore. Access from the Prado beach promenade takes about ten minutes on foot; snorkel gear can be rented at nearby beach concessions. Water clarity varies significantly by season and weather — summer afternoons after wind tend to offer the worst visibility; calm morning hours in early summer consistently offer the best.
+The works — large bronzes and resin pieces by artists including Evelyne Galinski and Jordi Bonet — were designed as artificial reefs from the start. Surface texture, material, structural mass: all calculated to encourage colonisation by the specific organisms of this stretch of Mediterranean coastline. Sea anemones, coral, encrusting algae. The sculptures are intended to become something other than what the artists originally made.
 
-The museum operates as a reminder that Marseille's relationship with the sea is not purely metaphorical. The Calanques National Park — the largest protected marine habitat in metropolitan France — begins directly south of here; the underwater museum sits at the northern edge of that protected zone, and fish populations in the immediate area have increased measurably since the sculptures were installed.
+A team of diving volunteers maintains them. You reach the entry point from the Prado beach promenade in about ten minutes on foot, and snorkel gear rents from the beach concessions nearby. Water clarity varies — summer afternoons after wind are worst, calm early mornings in early summer are best. Fish populations in the area have increased measurably since the sculptures went in.

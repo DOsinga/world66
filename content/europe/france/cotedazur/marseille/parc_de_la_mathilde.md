@@ -2,16 +2,13 @@
 latitude: 43.2581492
 longitude: 5.4138621
 score: 1
-snippet: A neighbourhood park near the Pointe Rouge marina, named after a former estate
-  in what is now one of Marseille's more relaxed coastal quarters.
+snippet: Former estate, now a neighbourhood park near the Pointe Rouge waterfront
 tags:
 - curbside
 title: Parc de La Mathilde
 type: poi
 ---
 
-The name Mathilde almost certainly refers to a former private estate or landholding rather than any single person of historical prominence — Marseille's southeastern suburbs are scattered with the remnants of nineteenth-century bourgeois country houses whose names still attach to the streets, hills and parks that replaced them. Parc de La Mathilde sits in the 8th arrondissement, not far from the Pointe Rouge marina and beach, in a neighbourhood that has a noticeably different character from the dense urban core: more relaxed, more residential, the kind of area where people walk their dogs in the evening and the local bakery has a line on Saturday mornings.
+The name almost certainly comes from a 19th-century bourgeois estate — southeastern Marseille is full of them, their names still attached to the streets and parks that replaced them. This one sits in the 8th arrondissement near the Pointe Rouge marina, in a neighbourhood with a different temperature from the city centre: more relaxed, the kind of place with a queue at the bakery on Saturday mornings.
 
-The park is well-used but not large. Its trees — plane trees and pines mostly — provide the summer shade that makes it popular with families, and its paths loop through in a way that invites a short stroll rather than a serious hike. The proximity to the sea is felt more in the light and air than in any direct view; the park itself is set back enough from the coast that the Mediterranean stays just out of sight, though the smell of it is never entirely absent.
-
-What the park offers is the texture of a normal Marseille afternoon in a well-to-do southern neighbourhood. It is not on any tourist itinerary, and that is part of the point. If you have spent a morning at Pointe Rouge beach and want somewhere quiet to sit before taking the bus back into the city, Parc de La Mathilde is exactly the right answer.
+The park is modest. Plane trees and pines provide the summer shade. The sea is close enough that the air smells of it, but not close enough to see. It's a good place to recover after a morning at Pointe Rouge beach before the bus ride back into the city.

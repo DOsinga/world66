@@ -2,16 +2,16 @@
 latitude: 43.2813407
 longitude: 5.3770277
 score: 1
-snippet: A garden in the 7th arrondissement built above or beside a water reservoir,
-  part of the infrastructure that once supplied Marseille from the Canal de Marseille.
+snippet: A garden built on top of the infrastructure that finally gave Marseille water
 tags:
 - curbside
 title: Jardin du Réservoir
 type: poi
 ---
 
-Jardin du Réservoir sits in the 7th arrondissement, its name pointing directly to the water infrastructure that made this garden's site possible. Marseille's water supply history is remarkable: the Canal de Marseille, engineered by Franz Mayor de Montricher and completed in 1849, brought water 87 kilometres from the Durance river to meet the needs of a rapidly growing city. The system required a series of reservoirs distributed across the hills, which were often topped with gardens or planted to stabilise the ground above the cisterns.
 
-The practice of building public gardens on reservoir rooftops or beside reservoir structures was common in nineteenth-century Marseille and gave the city some of its most distinctive parks — the most famous being the Palais Longchamp, whose ornate cascade masks the terminal reservoir of the canal. The Jardin du Réservoir, in the 7th arrondissement on the southern hillside, is a smaller example of the same logic.
+In 1849, Marseille finished the Canal de Marseille — 87 kilometres from the Durance river, engineered by Franz Mayor de Montricher to bring reliable water to a city that had always struggled for it. The system needed distribution reservoirs across the hills. Those reservoirs needed their roofs stabilised. So they planted gardens on top.
 
-The 7th arrondissement runs from the Vieux-Port entrance through the fashionable Endoume and Malmousque quarters to the corniche. The reservoir garden, set on the hillside, likely offers good views over this part of the city and toward the sea.
+The most famous example is the Palais Longchamp, where an ornate cascade masks the canal's terminal reservoir. The Jardin du Réservoir in the 7th arrondissement is a quieter instance of the same logic: the garden exists because the infrastructure required it.
+
+The hillside site in the 7th — above Endoume, with the sea not far off — means good views come with the territory. A park born from engineering, but pleasant for it.

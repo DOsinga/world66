@@ -2,16 +2,17 @@
 latitude: 43.270201
 longitude: 5.382353
 score: 1
-snippet: The town hall for Marseille's most prosperous central arrondissements, covering
-  the Prado and the southern residential quarters.
+snippet: The town hall for Marseille's most sought-after addresses — Prado, Borély,
+  Corniche Kennedy
 tags:
 - curbside
 title: Mairie - Marseille - 6e et 8e arrondissements
 type: poi
 ---
 
-The Mairie des 6e et 8e arrondissements serves what are often considered the most bourgeois parts of central Marseille. The 6th arrondissement covers a compact, well-maintained area of apartment buildings and cafés just south of the Vieux-Port, including the Estrangin-Préfecture neighbourhood and the edges of the Prado axis. The 8th is larger, extending south from there to the Prado beaches and the Parc Borély, taking in some of the most sought-after residential addresses in the city.
 
-Marseille's sectoral mayors exercise real administrative functions: presiding over civil ceremonies, overseeing local services, and participating in planning consultation. The 6th and 8th sector covers a constituency that is relatively prosperous by Marseille standards, with lower unemployment and higher property values than many other parts of the city — a different social geography from the northern arrondissements or the inner east.
+The 6th is compact: a well-maintained grid of apartment buildings and cafés just south of the Vieux-Port, anchored by the Estrangin-Préfecture neighbourhood. The 8th extends south from there all the way to the Prado beaches and Parc Borély — some of the most expensive addresses in the city. Lower unemployment, higher property values, a social geography very different from the northern arrondissements.
 
-The mairie building itself is an administrative office rather than a monument. Its significance is functional: the place where residents of these two arrondissements go for civil registration, to meet their sectoral mayor, or to engage with local neighbourhood governance. The broader 8th arrondissement, with its Corniche Kennedy, Prado beaches, and Parc Borély, gives visitors plenty of reason to be in the area.
+Sectoral mayors handle real responsibilities across Marseille: civil ceremonies, local services, planning consultation. The 6th and 8th sector represents one of the city's more compact administrative tasks — a constituency that tends to vote, pay taxes, and make itself heard at the town hall.
+
+The mairie building is a functional office rather than a monument. The 8th arrondissement around it — Corniche Kennedy, Prado beaches, Parc Borély — is the reason to be in this part of the city.

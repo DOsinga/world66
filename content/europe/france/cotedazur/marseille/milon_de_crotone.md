@@ -2,16 +2,17 @@
 latitude: 43.2929372
 longitude: 5.3744077
 score: 1
-snippet: A cast of Pierre Puget's Baroque masterpiece — the greatest marble ever made
-  by a sculptor born in Marseille.
+snippet: Marseille's greatest sculptor carved it — the original is in the Louvre,
+  this is the cast
 tags:
 - curbside
 title: Milon de Crotone
 type: poi
 ---
 
-The original *Milon de Crotone* is the most celebrated marble sculpture ever carved by a Marseille-born artist, and one of the supreme achievements of French Baroque sculpture. Pierre Puget (1620–1694) worked on it from 1671 to 1682, producing a work of such technical and emotional intensity that it was placed in the gardens of Versailles — and now stands in the Louvre, where it remains one of the most visited sculptures in the museum. This cast or copy displayed in Marseille connects the city to its greatest sculptor, a man who spent much of his career in Toulon and Genoa but whose roots were entirely Provençal.
 
-The subject is Milon of Croton, the ancient Greek wrestler who won six Olympic titles and was celebrated across the ancient world for his superhuman strength. The sculpture shows him at the end of his life, walking through a forest, attempting to split a tree stump with his bare hands — only for the cleft to close on his fingers, trapping him. As he struggles, a lion attacks him from behind. Puget captures the exact moment when Milon, accustomed to overpowering every opponent, is helpless: his face twisted in anguish, his body massive but useless, caught between the tree and the beast. The work is a meditation on the cruelty of aging and the hubris of strength.
+Pierre Puget was born in Marseille in 1620 and became the greatest Baroque sculptor France produced. He worked on Milon de Crotone from 1671 to 1682 — eleven years on a single marble. Louis XIV placed it in the gardens of Versailles. It now stands in the Louvre, where it draws a crowd. This cast displayed in Marseille is how the city keeps the connection to its most celebrated artist.
 
-Puget was temperamentally unsuited to the court of Louis XIV — too independent, too passionate, too southern — and his relationship with Colbert and the royal administration was fraught. But *Milon de Crotone* won him royal approval. For Marseille, Puget is a civic hero: the Halle Puget, the Cours Puget, and this cast of his masterpiece all keep his memory present in the city that formed him.
+The subject is Milon of Croton, the ancient Greek wrestler who won six Olympic titles. Puget shows him at the end of his life, attempting to split a tree stump with his bare hands — only for the cleft to close on his fingers, trapping him. A lion attacks from behind. The face is twisted in anguish. The body is massive and completely useless. It is a meditation on the moment when the strongest man alive becomes helpless.
+
+Puget was too independent and too southern for the court of Louis XIV — his relationship with the royal administration was difficult throughout. But Milon won him royal approval. Marseille named a hall, a street, and a cast after him. It is the city's claim on one of the few artists it produced who ended up in the Louvre.

@@ -2,16 +2,17 @@
 latitude: 43.3139071
 longitude: 5.3775074
 score: 1
-snippet: Named for a Merovingian-era Provençal saint, this church anchors one of Marseille's
-  most historically layered northern neighbourhoods.
+snippet: A half-forgotten Merovingian saint whose name stuck to one of Marseille's
+  hardest neighbourhoods
 tags:
 - curbside
 title: Église Saint-Mauront
 type: poi
 ---
 
-Saint Mauront belongs to that generation of Merovingian holy figures — sixth or seventh century, somewhere between Roman Christianity and the Frankish kingdoms — whose lives exist mainly in fragments and local tradition. He is thought to have been a bishop or nobleman of early Christian Provence, perhaps connected to the monasteries that were spreading across the region in the century after Clovis. The precise details have long since merged with legend, but his name attached itself firmly to this corner of Marseille.
 
-The neighbourhood of Saint-Mauront, which covers much of the third arrondissement in the city's northern reaches, carries the saint's name into everyday speech. It is one of the poorer and more densely populated parts of the city, with a population that is significantly North African and Comorian in origin — the product of a century of immigration drawn by the port, the soap factories, and the industrial infrastructure that once lined these streets. The church sits at the boundary between religious history and urban geography, its dedication a reminder of how early medieval Christianity shaped the map of southern France.
+Mauront is one of those early Christian figures who exist mainly as a name. Sixth or seventh century, probably a bishop or nobleman of early Provence, possibly connected to the monasteries spreading across the region after Clovis. The precise details dissolved into local legend centuries ago.
 
-Merovingian saints rarely appear in art in any standardised form; their veneration stayed local, rooted in communities that maintained their memory across the centuries of change — Carolingian reform, crusade, revolution, and the waves of demographic transformation that remade Marseille in the twentieth century. The building itself is a quiet anchor in a neighbourhood that is anything but static.
+But names are durable. The whole third arrondissement in Marseille's northern reaches is called Saint-Mauront. It's one of the city's poorer, more densely populated quarters — largely North African and Comorian today, shaped by a century of immigration drawn by the port, the soap factories, and the industrial streets that used to line this area.
+
+An obscure early medieval saint anchoring one of the most transformed neighbourhoods in the city. That's how the map of southern France works: the Merovingians named the streets and everyone else moved in afterwards.

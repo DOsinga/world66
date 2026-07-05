@@ -2,17 +2,17 @@
 latitude: 43.3002709
 longitude: 5.3877636
 score: 1
-snippet: CIRA Marseille — a branch of the International Centre for Research on Anarchism,
-  housing an anarchist library and archive in the tradition of Mediterranean port
-  radicalism.
+snippet: An anarchist library and archive — Marseille's dockworker history makes it
+  the right city
 tags:
 - curbside
 title: Centre International de Recherches sur l'Anarchisme
 type: poi
 ---
 
-The International Centre for Research on Anarchism was founded in Geneva in 1965 with the aim of preserving anarchist thought at a moment when much of the movement's documentary record was scattered or at risk. CIRA operates as a network of autonomous branches sharing a common purpose: to collect, catalogue, and make accessible the books, pamphlets, periodicals, and personal archives of anarchism and libertarian socialism. Branches exist in several European cities — Geneva, Lausanne, Brest — and Marseille, where the port city's long history of radical labour organisation makes it a natural home for such a collection.
 
-The Marseille connection to anarchism runs deep into the city's working-class history. Mediterranean port cities were fertile ground for libertarian ideas in the late nineteenth and early twentieth centuries: dockworkers, sailors, and casual labourers — men whose work was irregular, collective, and organised in opposition to employers and the state alike — found in anarcho-syndicalism a political vocabulary suited to their experience. The Confédération Générale du Travail, the main French trade union federation, was strongly anarchist in orientation in its early decades, and Marseille's waterfront was among its strongholds. The tradition of self-organisation and distrust of authority that characterised port labour culture left a lasting mark on the city's politics.
+CIRA was founded in Geneva in 1965 to preserve anarchist documentary records that were scattered and at risk. The network now has branches in several European cities. Marseille is a natural home for one: Mediterranean port cities were fertile ground for libertarian ideas in the late nineteenth century, and Marseille's waterfront was a stronghold of anarcho-syndicalism. Dockworkers, sailors, casual labourers — men with irregular work and an ingrained distrust of employers and the state — found in anarchism a politics that fit.
 
-CIRA Marseille maintains a reading library open to researchers, students, and the curious public. The collection covers the full range of anarchist theory and history, from the classical works of Bakunin and Kropotkin through to contemporary libertarian and autonomist writing, and includes materials in French, Spanish, Italian, and other languages. Opening hours are limited and it is worth checking in advance; the centre relies on volunteer labour in the anarchist tradition.
+The reading library holds the full range of anarchist theory and history, from Bakunin and Kropotkin through to contemporary autonomist writing, with materials in French, Spanish, Italian, and other languages. It's open to researchers, students, and the curious public — operating on volunteer labour, in the tradition.
+
+Opening hours are limited. Check before you go. The collection is real and the staff are knowledgeable; it's worth the small effort to find it.

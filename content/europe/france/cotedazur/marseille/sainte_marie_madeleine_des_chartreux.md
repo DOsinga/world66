@@ -2,17 +2,16 @@
 latitude: 43.3099854
 longitude: 5.4018572
 score: 1
-snippet: Baroque parish church built for Marseille's only Charterhouse, founded 1633
-  — the surviving monument of one of Provence's wealthiest monasteries, dissolved
-  in the Revolution.
+snippet: The Carthusians were the richest monks in Provence — and the most invisible
 tags:
 - curbside
 title: Sainte-Marie-Madeleine-des-Chartreux
 type: poi
 ---
 
-The Carthusian order established its only Marseille monastery in 1633, endowed by the city's merchant class at the height of the port's commercial prosperity. Carthusians lived in strict individual enclosure — each monk in a separate cell with a garden, emerging only for communal prayer — and were never seen in public, which gave the monastery an air of permanent mystery. The wealth accumulated through merchant donations made it among the richest religious houses in Provence, while the monks remained invisible within it.
 
-The church was built in the Baroque style then prevalent in southern France but filtered through Carthusian austerity. Where the Jesuits used Baroque architecture as a tool of emotional persuasion — elaborate ornament, dramatic lighting, theatrical altarpieces — the Carthusians adapted the idiom to their culture of silence and withdrawal. The result is a building of austere elegance: Baroque proportions and vocabulary, stripped of ornamental excess. When the monastery was confiscated in the Revolution and later demolished, the church survived as the only above-ground remnant.
+The Carthusians arrived in Marseille in 1633, endowed by merchants at the peak of the port's wealth. Each monk lived alone in a cell with a garden, came out only for communal prayer, and never appeared in public. The wealthiest monastery in Provence, entirely hidden from view.
 
-Now a parish church in the 4th arrondissement, it serves a residential neighbourhood far from the tourist circuits centred on the Vieux-Port and Le Panier. The building rewards attention from visitors willing to look beyond the obvious landmarks — a significant piece of Provençal religious architecture that retains the character of its original commission.
+The church they built shows it: Baroque proportions, Baroque vocabulary, but stripped of the usual excess. No theatrical altarpieces, no cascades of gilded ornament. Just the elegant bones of the style, with the decoration dialled back to near silence — the Carthusian way of doing things.
+
+When the Revolution came, the monastery was confiscated and demolished. The church survived. It's a parish church now, in a residential neighbourhood away from the tourist maps — and it still carries that quality of restraint, a Baroque interior that somehow feels more austere than most Gothic ones.

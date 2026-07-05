@@ -2,16 +2,17 @@
 latitude: 43.2769909
 longitude: 5.4190325
 score: 1
-snippet: Dedicated to a Roman soldier from Egypt who chose martyrdom over an order
-  to massacre his fellow Christians.
+snippet: An Egyptian soldier who refused a massacre order and paid for it with his
+  life
 tags:
 - curbside
 title: Église Saint-Maurice
 type: poi
 ---
 
-In the late third century, the Roman Emperor Maximian ordered his troops to purge Christians from the Alpine passes. The Theban Legion — a unit of some six thousand soldiers recruited in Egypt, whose ranks were said to be entirely Christian — refused. Their commander, Maurice, led the refusal. The legion was decimated: every tenth man killed as punishment. When the survivors still would not comply, Maximian ordered the massacre of the rest. The event took place around 286 CE near Agaunum, now the Swiss town of Saint-Maurice-en-Valais, whose name commemorates the site.
 
-The historical evidence for the Theban Legion massacre is thin and largely hagiographic, but the story spread powerfully through medieval Christendom. Maurice became the patron saint of soldiers, of the infantry specifically, and of Switzerland — his image appears on countless church facades, usually as a dark-skinned knight, a visual memory of his Egyptian origin. He was also adopted as patron by the Holy Roman Empire, and his sword and lance were kept among the imperial regalia.
+Around 286 CE, the Roman emperor Maximian ordered his troops to slaughter Christians in the Alpine passes. The Theban Legion — six thousand soldiers recruited in Egypt, all of them Christian — refused. Their commander Maurice led the refusal. Maximian had every tenth man killed. The survivors still wouldn't obey. He massacred the rest.
 
-Marseille's dedication of a church to Maurice reflects the garrison culture of a port city that was long home to military units and where soldiers' chapels formed part of the urban fabric. The church stands in a neighbourhood that retains traces of its working-class and immigrant history, and the figure of Maurice — an African Christian soldier dying for conscience in Roman Europe — carries a different kind of resonance here than in the Alpine valleys where his story began.
+The historical evidence is thin, mostly hagiographic, but the story spread fast through medieval Christendom. Maurice became patron of soldiers, of Switzerland — his name is on the Swiss town where it happened — and later of the Holy Roman Empire itself. You'll usually see him painted dark-skinned, a deliberate nod to his Egyptian origin.
+
+In a port city that long housed military units and a constant flow of soldiers, the dedication makes sense. Maurice — an African Christian who died for conscience in Roman Europe — carries a particular kind of weight in Marseille.

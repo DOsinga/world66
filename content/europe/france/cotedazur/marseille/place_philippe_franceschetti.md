@@ -2,17 +2,14 @@
 latitude: 43.2849552
 longitude: 5.3916149
 score: 1
-snippet: A residential square in the 9th arrondissement, named for a figure from Marseille's
-  twentieth-century civic life in a district that bears strong traces of its Italian
-  immigrant heritage.
+snippet: The Italian name tells the story — Sicilian immigrants became Marseille itself
 tags:
 - curbside
 title: Place Philippe Franceschetti
 type: poi
 ---
 
-Franceschetti is a name that speaks directly to Marseille's history: the Italian immigration of the late nineteenth and early twentieth centuries transformed the city's demographic character, and Italian-origin families contributed substantially to the working class, the trade unions, the political left, and eventually the municipal administration. By the mid-twentieth century, the grandchildren of Sicilian and Ligurian immigrants were running shops, serving on councils, and having their names attached to streets.
 
-Place Philippe Franceschetti sits in the 9th arrondissement, the large residential district south of the Prado that contains several distinct neighbourhoods — Sainte-Marguerite, La Capelette, and others — each with its own village-like texture within the larger city. The arrondissement developed rapidly in the postwar decades as working families moved out of the congested centre into new housing estates and individual houses along the southern arterials.
+The name is the whole story. Franceschetti is Italian, and the Italian immigration of the late nineteenth and early twentieth centuries was so large it remade the city's character. Sicilian and Ligurian families filled the working class, shaped the trade unions, built up the political left, and eventually moved into municipal administration. By mid-century, the grandchildren of immigrants were running shops, sitting on councils, and having their names attached to streets.
 
-The square itself is a modest local feature: a place where the neighbourhood condenses briefly before dispersing into adjacent streets. Its function is social rather than monumental — the kind of space where people linger because there is no particular reason to hurry, where the morning bread run and the afternoon coffee become the architecture of daily life.
+Place Philippe Franceschetti is in the 9th arrondissement, south of the Prado, where postwar expansion pushed working families into new housing along the southern arterials. It's a local square in a local neighbourhood — the place where the surrounding streets briefly concentrate before dispersing again.

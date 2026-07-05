@@ -2,16 +2,16 @@
 latitude: 43.3033713
 longitude: 5.4028879
 score: 1
-snippet: A neighbourhood square in the eastern arrondissements of Marseille, serving
-  the residential district between Cinq-Avenues and the Belle-de-Mai.
+snippet: Inner-east residential Marseille — the tourist map stops before it gets here
 tags:
 - curbside
 title: Place Philippe Cerati
 type: poi
 ---
 
-Place Philippe Cerati occupies a section of the inner eastern arrondissements, the residential territory between the Canebière's commercial axis and the more industrial fringes of the Belle-de-Mai and Saint-Charles districts. This zone — roughly the 4th and 5th arrondissements — is a mixed neighbourhood of working-class and lower-middle-class housing, local markets, and the kind of small-scale urbanism that the tourist city rarely penetrates.
 
-The square is named for a figure from Marseille's twentieth-century civic life, likely a local administrator or municipal representative whose work was significant enough at the neighbourhood level to merit commemoration but whose name does not appear in the broader historical record. Such names are common in French cities; the municipal council's power to name streets is one of the ways local politics leaves a mark on daily life.
+The inner eastern arrondissements — roughly the 4th and 5th — are where tourist Marseille stops and the working city continues. Between the commercial axis of the Canebière and the industrial edges of Belle-de-Mai and Saint-Charles, this is mixed neighbourhood urbanism: local markets, modest housing, the small-scale daily life that doesn't make it onto the guides.
 
-The district has its own centre of gravity: the Cours Julien is nearby, Marseille's most bohemian neighbourhood with its street art, second-hand bookshops, and café terraces. But Place Philippe Cerati is not part of that circuit — it belongs to the residential logic of a neighbourhood that has its own rhythms of school runs, market days, and Sunday mornings, largely independent of what happens on the tourist map.
+Philippe Cerati was a figure from twentieth-century local civic life — a municipal representative whose work mattered at neighbourhood scale without leaving a trace in the broader historical record. French city councils name streets after people like this routinely; it's how local politics marks the map.
+
+Cours Julien, Marseille's most bohemian stretch, is nearby. But Place Philippe Cerati isn't part of that circuit. It runs on its own schedule: school run, market day, Sunday morning.

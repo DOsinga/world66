@@ -2,17 +2,17 @@
 latitude: 43.3151092
 longitude: 5.3658501
 score: 1
-snippet: Zaha Hadid's 147-metre twist of glass is the headquarters of the world's
-  third-largest container shipping company, built from a single Lebanese-owned vessel
-  in 1978.
+snippet: One ship from Beirut in 1978 — this 147-metre Zaha Hadid tower is what it
+  became
 tags:
 - curbside
 title: CMA-CGM Tour Jacques R. Saadé
 type: poi
 ---
 
-Jacques Saadé arrived in France from Beirut in 1978 with capital for one ship. By the time of his death in 2018, CMA CGM had become the third-largest container shipping company in the world by capacity, operating a fleet of more than 500 vessels across global trade routes from an office in Marseille. The tower he commissioned as the company's headquarters — completed in 2010 and renamed in his honour after his death — is the tallest building in Marseille at 147 metres, dominating the Joliette waterfront by a margin that makes it visible from most of the northern and central city.
 
-Zaha Hadid's design uses a twisted rectangular form that tapers toward the top, each floor plate rotating slightly against the one below it. The exterior is a single continuous glass skin that shifts in colour with the angle of the Mediterranean light — pale silver in the morning, pewter under cloud cover. It is one of her two major buildings in France and, by her standards, one of her more restrained: the geometry is rigorous, the gesture controlled rather than expressive.
+Jacques Saadé arrived in France from Beirut in 1978 with enough money for a single vessel. By his death in 2018, CMA CGM was the third-largest container shipping company on earth, running more than 500 ships on global routes — all headquartered in Marseille. The tower he commissioned, renamed for him after he died, is the tallest building in the city at 147 metres.
 
-The tower sits at the heart of the Euroméditerranée development zone — the large-scale urban regeneration project that has transformed the former industrial port north of the Vieux-Port into a business and cultural district since the 1990s. The building is not open to the public, but the waterfront esplanade at its base and the pedestrian quays running north along the Joliette basin are freely accessible.
+Zaha Hadid designed it as a twisted rectangular form, each floor rotating slightly against the one below. The all-glass skin shifts colour with the light — pale silver in the morning, darker under cloud. For Hadid, it's actually restrained: the geometry is disciplined, the gesture controlled.
+
+It anchors the Joliette waterfront at the heart of the Euroméditerranée regeneration zone, the redevelopment that has transformed the former industrial port north of the Vieux-Port since the 1990s. The building itself is private, but the quays and esplanade at its base are open — and from down there, 147 metres looks like a lot.

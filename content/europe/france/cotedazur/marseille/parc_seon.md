@@ -2,16 +2,17 @@
 latitude: 43.3469719
 longitude: 5.3510763
 score: 1
-snippet: A small park in the 15th arrondissement of Marseille, near the Saint-Antoine
-  hills.
+snippet: Hillside park in working-class northern Marseille, with ridge views the tourist
+  circuit never finds
 tags:
 - curbside
 title: Parc Séon
 type: poi
 ---
 
-Parc Séon is a neighbourhood park in the 15th arrondissement, set in the inland hillside terrain north of the Vieux-Port. The name Séon suggests a local family or estate — northern Marseille retains traces of its older rural identity in place names like this, where bastides (country houses) and their lands were gradually absorbed by the expanding city.
 
-The park sits at an elevation that gives it views toward the Chaîne de l'Estaque and the limestone ridges that rim northern Marseille. It is a functional green space for the surrounding residential streets rather than a destination in its own right: lawns, some shade trees, perhaps a children's play area.
+Parc Séon sits in the 15th arrondissement, on the hillside terrain north of the Vieux-Port where the city gets quieter and decidedly less polished. The name — Séon — has the feel of an old bastide estate absorbed by the city's northward spread, one of those rural place-names that outlasted the farmhouse it once belonged to.
 
-Visitors wandering through the 15th will find the park a decent place to catch breath between the busy arteries of this part of the city. The quartier has a working-class Marseillais character that the tourist circuit rarely reaches, which is in itself a reason to explore it.
+From the higher ground the park gives you views toward the Chaîne de l'Estaque and the limestone ridges that rim the city's northern edge. It's a functional green space — lawns, shade trees, probably a play area — primarily used by the people who live on the surrounding streets.
+
+The quartier has a working-class Marseillais character the tourist circuit rarely reaches. Which is its own argument for exploring it.

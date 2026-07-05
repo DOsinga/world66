@@ -2,17 +2,14 @@
 latitude: 43.3129019
 longitude: 5.4241491
 score: 1
-snippet: A small urban park in the eastern 11th arrondissement, whose name likely
-  echoes the old mills (moulins) that once made use of the seasonal streams running
-  through this hilly quarter.
+snippet: The mills are gone — seasonal streams ran here before the streets buried
+  them
 tags:
 - curbside
 title: Parc de la Moline
 type: poi
 ---
 
-Parc de la Moline sits in the eastern reaches of Marseille's 11th arrondissement, a residential district of modest apartment blocks, low-rise housing and the occasional remnant of older Provençal construction. The name points to a mill — moulin in French, moline in regional usage — and small watercourses that once powered such mills wound through the valley floors here before the city expanded to absorb them. The park itself is a neighbourhood amenity, green and unpretentious.
+Moline comes from the same root as moulin — mill. Seasonal streams once ran through the valley floors of this part of the 11th arrondissement, enough water to power small mills before the city expanded and buried the watercourses under asphalt. The park sits in that landscape now: quiet, residential, nothing touristic about it.
 
-The surrounding streets are workday Marseille, neither tourist-facing nor particularly known outside the arrondissement. That gives the park a certain local character: it is used by people who live nearby, parents with children, older residents out for a constitutional, teenagers after school. A modest-sized space by city standards, it provides shade and a change of surface from the surrounding pavement.
-
-Visitors exploring Marseille's less-visited eastern quarters — away from the Vieux-Port and the coastal spectacle — sometimes pass through on longer walks. The park is not a destination in itself but makes a reasonable pause point, particularly if you are tracing the older topography of stream valleys and hillside settlements that predated the 20th-century growth of this side of the city.
+The crowd here is people who live within walking distance. Parents with children, older residents doing their daily constitutional, teenagers after school. Eastern Marseille doesn't turn up in many guidebooks, which gives a visit here a certain unglamorous authenticity. Reasonable pause point if you're tracing the older topography of stream valleys on the city's less-visited eastern side.

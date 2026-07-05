@@ -2,16 +2,17 @@
 latitude: 43.2529917
 longitude: 5.4224561
 score: 1
-snippet: A sculptural group honouring the Sun King, whose reign transformed Marseille
-  from a fractious independent city into a loyal instrument of French imperial commerce.
+snippet: Louis XIV built the harbour forts with their guns pointing at the city, not
+  the sea
 tags:
 - curbside
 title: Groupe Louis XIV
 type: poi
 ---
 
-Louis XIV visited Marseille in January 1660 and made his intentions clear: a city that had recently risen in revolt against royal authority would be brought to heel. He ordered the demolition of the old citadel that had protected civic freedoms and the construction of new royal fortifications — Fort Saint-Nicolas and Fort Saint-Jean — their guns pointed not outward at the sea but inward at the city itself. The message was architectural and unmistakable. The *Groupe Louis XIV* stands as part of the long commemorative tradition that followed this assertion of royal power.
 
-Under Louis and his finance minister Jean-Baptiste Colbert, Marseille was granted a monopoly on Levant trade in 1669, transforming it into the engine of French Mediterranean commerce. The Arsenal des Galères was built to house the royal galley fleet, and the harbour was systematically expanded. Marseille grew rapidly, its population doubling over the course of the reign, though the benefits of royal favour came paired with the loss of the republican autonomy the city had long cherished. The sculptural group captures the Sun King at the height of this ambivalent bargain.
+Louis XIV visited Marseille in January 1660, right after the city had revolted against royal authority. He made his intentions architectural: Fort Saint-Nicolas and Fort Saint-Jean went up with their guns pointed inward, at the city itself. The message was unmistakable — Marseille was now an instrument of the French state, not an independent republic.
 
-The work belongs to a tradition of royal portraiture in bronze or stone that spread across France during and after the reign: equestrian statues in public squares were instruments of propaganda as much as art. Here in Marseille the figure carries an extra layer of meaning — a city that was never entirely comfortable with Paris looking back at its conqueror in polished stone.
+The deal that followed was complicated. Colbert granted Marseille a monopoly on Levant trade in 1669. The Arsenal des Galères went up. The harbour expanded. The population doubled over the reign. Marseille got rich. But it got rich on Paris's terms, and the republican autonomy the city had cherished was gone.
+
+The sculptural group belongs to the long tradition of royal portraiture in bronze and stone that spread across France after Louis — equestrian figures, public squares, propaganda in polished stone. Here in Marseille the figure carries an extra charge: a city that was never entirely comfortable with Paris looking back at its conqueror.

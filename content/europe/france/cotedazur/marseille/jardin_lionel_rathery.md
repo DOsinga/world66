@@ -2,16 +2,17 @@
 latitude: 43.3189651
 longitude: 5.3782027
 score: 1
-snippet: A neighbourhood garden in the 4th arrondissement of Marseille named after
-  a local figure, in the residential north of the city.
+snippet: A northern neighbourhood green for someone the street remembers even if history
+  doesn't
 tags:
 - curbside
 title: Jardin Lionel Rathery
 type: poi
 ---
 
-Lionel Rathery is not a nationally documented figure; the garden named after him belongs to the category of local commemorations that French municipalities maintain for residents who contributed to neighbourhood or civic life at a local rather than national level. The practice produces a citywide geography of named spaces where minor figures sit alongside national heroes, each receiving the same quiet acknowledgement of a named square or garden.
 
-The 4th arrondissement is one of Marseille's northern inner districts, a mixed urban area that includes residential streets, commercial strips, and some of the city's more modest neighbourhoods. It borders the northern port districts to the west and the more varied terrain of the inner northern city to the east. The district has a working population with a long history in the city's commercial and industrial life.
+Lionel Rathery isn't in any national record. That's the point. French municipalities name squares after people the neighbourhood remembers — a councillor, a schoolteacher, someone who showed up. The practice creates a citywide geography where minor figures sit alongside major ones, each getting the same quiet acknowledgement.
 
-The garden serves the surrounding residential streets as a neighbourhood amenity. In the denser northern arrondissements, where open space is less abundant than in the southern coastal districts, small named gardens like this one form an important part of the daily landscape for residents — a place to sit, a patch of green in a largely built environment, maintained by the municipal parks service as part of the city's distributed green infrastructure.
+The 4th arrondissement is northern inner-city Marseille: working population, mixed residential and commercial streets, a long history in the port and trade economy. Not the Marseille of postcards.
+
+The garden is green space for people who live here. In the northern arrondissements, open space is scarcer than in the coastal south, so a small named garden like this one earns its place — a patch of shade in a mostly built neighbourhood, maintained every week whether anyone photographs it or not.

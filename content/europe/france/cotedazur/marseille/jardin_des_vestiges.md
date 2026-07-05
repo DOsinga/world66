@@ -2,16 +2,16 @@
 latitude: 43.2976029
 longitude: 5.3749046
 score: 1
-snippet: The open-air garden around the excavated Greek and Roman remains at the Centre
-  Bourse, preserving the ancient harbour and city walls in the heart of modern Marseille.
+snippet: The original Greek harbour, open to the sky beside a shopping mall
 tags:
 - curbside
 title: Jardin des Vestiges
 type: poi
 ---
 
-Jardin des Vestiges is one of the most significant archaeological sites in France, preserving in the open air the excavated remains of the ancient Greek city of Massalia — the settlement founded by Phocaean Greeks around 600 BC that eventually became Marseille. The site, adjacent to the Centre Bourse shopping complex in the 1st arrondissement, was uncovered during construction work in the 1960s and 70s, and the decision to preserve rather than build over it resulted in this unusual garden-museum.
 
-The visible remains include sections of the ancient city wall, the stone-edged basin of the original Greek harbour (long since silted up and absorbed by the expanding city), and the foundations of several structures from different periods of the city's occupation. Greek, Hellenistic, and Roman layers are all present. The adjacent Musée d'Histoire de Marseille displays finds from the excavation, including a remarkably well-preserved Roman merchant vessel retrieved from the harbour sediment.
+In the 1960s, workers breaking ground for the Centre Bourse hit something unexpected: the ancient harbour of Massalia, the Greek city that became Marseille. Founded around 600 BC by Phocaean Greeks, this is one of the oldest continuously occupied cities in the Western Mediterranean — and here was its port, stone-edged and perfectly legible, sitting under the modern centre.
 
-The Jardin des Vestiges is a genuine reason to visit this part of central Marseille beyond the shopping mall that surrounds it. Standing beside the ancient harbour wall, with the modern city pressing in on all sides, the continuity of occupation across twenty-six centuries becomes tangible.
+They preserved it. You can walk around the old harbour basin, touch the Greek and Roman city walls, and see the layered foundations of a city built and rebuilt over twenty-six centuries. The adjacent Musée d'Histoire de Marseille holds the finds, including a remarkably intact Roman merchant vessel pulled from the sediment.
+
+Standing here with a shopping mall on three sides, you feel the full weight of the place. Marseille is old. This is the proof.

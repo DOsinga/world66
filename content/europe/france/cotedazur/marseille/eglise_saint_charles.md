@@ -2,16 +2,16 @@
 latitude: 43.2919655
 longitude: 5.3753805
 score: 1
-snippet: A 17th-century Jesuit church at the foot of the Gare Saint-Charles staircase
-  — the first church 19th-century rail travellers encountered on arriving in Marseille.
+snippet: The Jesuits built it — then the Revolution turned it into a salt warehouse
 tags:
 - curbside
 title: Église Saint-Charles
 type: poi
 ---
 
-The Jesuits built this church in the 17th century as part of their Marseille college. When the order was expelled from France in 1764 — a consequence of political conflicts that had been building for decades — the building passed through a series of secular uses: it served as a Temple of Reason during the Revolution, then successively as a military depot and a salt warehouse. Reconsecration came later than for most Marseille churches, the building having been more thoroughly repurposed than simply abandoned.
 
-The church sits at the base of the great monumental staircase descending from the Gare Saint-Charles, which made it the first religious building encountered by every traveller arriving in Marseille by rail throughout the 19th century. This position was not merely geographical: it placed the church in a conversation with Notre-Dame de la Garde visible on the hill above, the two buildings bracketing the city's skyline for passengers descending toward the old port. The Jesuit facade is deliberately restrained — classical pilasters, a plain pediment, nothing that would compete with the drama of the hilltop basilica.
+The Jesuits put up this church in the 17th century, attached to their Marseille college. When the order was expelled from France in 1764, the building cycled through some humbling uses: Temple of Reason during the Revolution, then a military depot, then a salt warehouse. It took decades to get reconsecrated.
 
-The building illustrates the specifically Jesuit approach to religious architecture: understated classicism in service of intellectual seriousness rather than emotional spectacle. The interior follows similar principles. It remains a functioning parish church, now serving the mixed residential neighbourhood between the station and the Canebière.
+The location is the interesting part. It sits right at the base of the great staircase descending from the Gare Saint-Charles. Every rail traveller arriving in Marseille throughout the 19th century walked past it — the first church they'd see, with Notre-Dame de la Garde looming on the hill behind it. The Jesuit facade is deliberately plain: classical, restrained, nothing competing with the drama above.
+
+It's still a functioning parish church now, serving the neighbourhood wedged between the station and the Canebière.

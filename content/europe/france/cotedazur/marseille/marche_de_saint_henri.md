@@ -2,16 +2,17 @@
 latitude: 43.3608147
 longitude: 5.3309326
 score: 1
-snippet: Street market in Saint-Henri, a post-industrial neighbourhood near l'Estaque
-  on Marseille's northwestern waterfront.
+snippet: Cézanne painted the light one town over — the same light hits this market
+  every morning
 tags:
 - curbside
 title: Marché de Saint-Henri
 type: poi
 ---
 
-Saint-Henri lies in the 16th arrondissement, pressed between the hills and the sea in the northwestern corner of Marseille closest to l'Estaque. The neighbourhood grew up around the industries that once lined this stretch of coast — ceramics factories, lime kilns, and the railhead connecting Marseille to the north — and even as those industries have gone, the working-class character they shaped has persisted. The painted facades and narrow streets still carry the memory of a district built for factory workers rather than for leisure.
 
-The market at Saint-Henri is a practical weekly affair. Fishmongers occasionally appear with catches from the nearby waterfront, though it is primarily a produce and dry-goods market serving families who live within walking distance. Prices are competitive, the stallholders are matter-of-fact, and the clientele turns up with shopping bags rather than cameras.
+Saint-Henri sits pressed between hills and sea in the 16th, just short of l'Estaque. This was factory country — ceramics, lime kilns, the railhead north. The industry's gone; the working-class character it built is still here, in the painted facades and the no-nonsense streets.
 
-L'Estaque, a short distance along the coast, was immortalised by Cézanne and Braque, who came to paint its light and geometry in the late nineteenth and early twentieth centuries. Saint-Henri itself has a grittier character than its famous neighbour, but the quality of light along this stretch of the Mediterranean coast — clear, flat, and bleached white in summer — is the same that drew the painters here, and it reaches the market too on a bright morning.
+The market does what it needs to. A produce and dry-goods run for families nearby. Fishmongers sometimes, when the morning's catch warrants it.
+
+L'Estaque — just along the coast — is where Cézanne and Braque came for the light. They were right about the light. On a bright morning it reaches this market too, flattening everything to the same bleached clarity that ended up on canvas.

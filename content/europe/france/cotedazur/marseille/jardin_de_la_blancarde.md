@@ -2,16 +2,17 @@
 latitude: 43.3043134
 longitude: 5.403522
 score: 1
-snippet: A neighbourhood garden in the 10th arrondissement, tucked beside the railway
-  infrastructure of the Blancarde station quarter.
+snippet: A pocket of shade beside the rail lines in the 10th, for commuters and neighbours
+  alike
 tags:
 - curbside
 title: Jardin de la Blancarde
 type: poi
 ---
 
-Jardin de la Blancarde lies in the 10th arrondissement of Marseille, in the busy inland district that takes its name from the Gare de la Blancarde, the commuter rail station that serves this part of the city. The garden occupies a pocket of green in a neighbourhood defined by rail lines, apartment blocks, and the everyday commercial streets connecting the eastern districts to the city centre.
 
-The Blancarde quarter is solidly working-class residential, and the garden functions accordingly: a place for the immediate community to take the air, let children run, and sit in the shade during the long Marseille summers. The plane trees common to Provençal gardens provide reliable cover, and the benches are arranged for the kind of unhurried sitting that French urban parks do well.
+The Blancarde quarter is built around its station — rail lines, apartment blocks, busy commercial streets connecting the eastern districts to the centre. The Jardin de la Blancarde is the green patch that fills the gap where none of that infrastructure needed to go.
 
-For a visitor passing through on the way to or from the Blancarde station — a useful stop on the Aix-en-Provence rail corridor — the garden is a decent pause point between trains, five minutes on foot from the platform.
+It does exactly what a neighbourhood garden should. Plane trees for shade in the summer heat. Benches arranged for sitting, not for rushing. A place where the immediate community can breathe between train times and school runs.
+
+If you're passing through Blancarde on the Aix-en-Provence corridor, it's five minutes from the platform. Not a destination — but it's there, and in a Marseille summer, shade is worth something.

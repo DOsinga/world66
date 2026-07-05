@@ -2,16 +2,17 @@
 latitude: 43.2149668
 longitude: 5.3465415
 score: 1
-snippet: A small neighbourhood square in the southern arrondissements — a local gathering
-  point away from the tourist circuits.
+snippet: No tourist map shows it — just locals, a bench, and the real rhythm of the
+  south
 tags:
 - curbside
 title: La Placette
 type: poi
 ---
 
-La Placette — the little square — belongs to a category of urban space that Marseille's southern quarters do well: the neighbourhood node that is not on any tourist map but functions, every day, as the social hinge of a few surrounding streets. There may be a fountain, a bench or two, a tabac on one corner and a boulangerie on another. The trees, if there are trees, will have been there long enough to have opinions about the neighbourhood. The residents who use it will do so without thinking of it as picturesque, because for them it simply is.
 
-In a city often visited through its grandes scènes — the Vieux-Port, Notre-Dame-de-la-Garde, the Corniche — spaces like La Placette represent a different register of Marseille life. The 9th and 12th arrondissements, out toward Sainte-Anne and Mazargues, are quieter and more residential than the centre, and their small squares carry the weight of daily neighbourhood existence: school runs, market bags, the brief pause before going home. The architecture here tends toward the modest and practical, which makes the space feel genuine rather than performed.
+This is the kind of square that works precisely because nobody visits it. A tabac on one corner, maybe a boulangerie opposite, trees old enough to shade the benches properly. The people here aren't putting on a show — they're just living.
 
-Coming here from the tourist circuits involves a deliberate choice to look at the city sideways. The reward is a Marseille that is neither the loud, sun-hammered cliché of the postcards nor the edgy mythology of the crime novels — just a neighbourhood getting on with things, in a square small enough that everyone who uses it knows everyone else.
+Marseille's 9th and 12th arrondissements, out past Sainte-Anne, are proper residential city. Come here and you stop being a tourist and start being someone waiting for the bus. The architecture is modest, the square is small, and everyone using it knows everyone else.
+
+That's not nothing. The grand scenes — the Vieux-Port, Notre-Dame-de-la-Garde, the Corniche — are spectacular. But La Placette shows you the city that exists when the spectacle stops.

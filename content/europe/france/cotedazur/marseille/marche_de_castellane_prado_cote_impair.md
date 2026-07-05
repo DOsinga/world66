@@ -2,16 +2,17 @@
 latitude: 43.2847439
 longitude: 5.3846354
 score: 1
-snippet: Street market on the odd-numbered side of the Avenue du Prado, in the heart
-  of Marseille's affluent 6th arrondissement.
+snippet: The odd-numbered half of a boulevard market — walk one side down, cross,
+  come back on the other
 tags:
 - curbside
 title: Marché de Castellane (Prado côté impair)
 type: poi
 ---
 
-The Marché de Castellane runs along the Avenue du Prado, the grand tree-lined boulevard that sweeps south from the Place Castellane through the 6th arrondissement. This half of the market — the odd-numbered, or impair, side — occupies the western pavement, where stallholders line up twice a week beneath the plane trees. Castellane itself is one of Marseille's landmark squares, anchored by the Fontaine de l'Obélisque and served by a busy metro station that pulls shoppers in from across the city.
 
-The 6th arrondissement is among Marseille's most comfortable neighbourhoods, and the market reflects that: expect good-quality fruit and vegetables, fresh fish, olives marinated with herbes de Provence, and cut flowers that locals carry home wrapped in paper. Cheese vendors and charcuterie stalls fill in the gaps, making this a well-rounded weekly shop rather than a speciality market.
+Twice a week the stallholders line up beneath the plane trees along the western pavement of the Avenue du Prado. Fruit and vegetables, fresh fish, olives marinated with herbes de Provence, cut flowers carried home in paper. The 6th arrondissement is comfortable Marseille, and the market reflects it — quality produce, regulars who know exactly what they want.
 
-The French custom of dividing a boulevard market by parity — pair (even) on one side, impair (odd) on the other — dates from the era when prefects parcelled out pitches to keep stallholders from clogging the road entirely. The result is two markets in parallel that together form a single shopping circuit, joined at the end of the block where pedestrians cross and pick up the other half on the way back.
+The boulevard market is split by parity, an old French convention for allocating pitches without blocking the road. This is the impair side — odd-numbered — and it is one half of a circuit. Walk it down, cross at the foot of the block, and come back on the pair side.
+
+Place Castellane anchors the northern end: the Fontaine de l'Obélisque and a metro station that pulls shoppers in from across the city.

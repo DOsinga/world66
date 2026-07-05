@@ -2,16 +2,17 @@
 latitude: 43.3106839
 longitude: 5.3781939
 score: 1
-snippet: A neighbourhood garden in the northern 13th arrondissement, named after a
-  local figure and serving the residential community of that part of the city.
+snippet: A neighbourhood garden in the northern 13th — green space is scarce up here
+  and matters more for it
 tags:
 - curbside
 title: Jardin Baya
 type: poi
 ---
 
-Jardin Baya sits in the 13th arrondissement in the northern reaches of Marseille, a district of mixed residential character some distance from the tourist circuits of the Vieux-Port and the southern coast. The garden is named after a local figure — the name has Provençal resonances — and functions as a neighbourhood amenity for the families and residents of the surrounding streets.
 
-The northern arrondissements of Marseille have fewer green spaces per resident than the wealthier south, which makes small gardens like this one disproportionately important to the people who live nearby. A patch of grass, a few trees for shade in summer, and a bench or two can define the rhythm of a local day.
+Jardin Baya is in the 13th arrondissement, which puts it well north of the Vieux-Port and well outside the tourist circuit. This part of Marseille is mixed residential — working families, dense streets, not many parks.
 
-Jardin Baya is modest and unassuming, but it is a genuine neighbourhood asset in an area that benefits from every square metre of public green space it can claim.
+The northern arrondissements have fewer green spaces per resident than the wealthier south. When a neighbourhood has almost no open land, a patch of grass and a few trees become something people actually use. A bench in the shade on a summer afternoon isn't a small thing when the alternative is staying inside.
+
+The name has Provençal resonances. The garden is modest and unassuming. That is exactly what the neighbourhood needs it to be.

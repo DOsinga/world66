@@ -2,16 +2,17 @@
 latitude: 43.2978091
 longitude: 5.3699355
 score: 1
-snippet: A public monument to Honoré Daumier, the great caricaturist and sculptor
-  who was born in Marseille in 1808.
+snippet: Born here, left at eight, went on to skewer kings and emperors — Marseille
+  still claims him
 tags:
 - curbside
 title: Honoré Daumier
 type: poi
 ---
 
-Honoré Daumier (1808–1879) was born in Marseille, the son of a glazier-poet, though his family moved to Paris when he was eight and he spent his adult life there. He became the most powerful caricaturist of nineteenth-century France, producing some 4,000 lithographs for satirical newspapers — most famously Le Charivari — that dissected the July Monarchy, the Second Empire, and the bourgeoisie with a ferocious comic intelligence. His prosecution in 1832 for a caricature of Louis-Philippe earned him six months in prison; it also established his reputation as a political artist of genuine consequence.
 
-Marseille's claim on Daumier is by birth, but the claim is made sincerely. His monument near the Vieux-Port places the artist within sight of the harbour that defined the city he left as a child, the city whose working-class energy and Mediterranean directness arguably persists in the blunt attack of his best lithographs. He also produced paintings and sculpture — his terracotta busts of legislators are among the great satirical objects in the French collection — and died nearly blind and in poverty, rescued by a late gift of a house from his friend Corot.
+Daumier was born in Marseille in 1808, the son of a glazier-poet. His family moved to Paris when he was eight, and he spent the rest of his life there. But he became the most ferocious caricaturist of 19th-century France: 4,000 lithographs for Le Charivari and other satirical papers, dissecting the July Monarchy, Napoleon III, the courts, and the bourgeoisie with a precision that made powerful people uncomfortable. In 1832 he published a caricature of Louis-Philippe as Gargantua and got six months in prison for it. His reputation was made.
 
-The monument is a reminder that Marseille's contribution to French cultural life has often been exported young. Daumier left at eight; Adolphe Thiers, Edmund Rostand, and Marcel Pagnol all grew up partly defined by the city and then made their careers elsewhere. The port was an exit as well as an entrance.
+His monument sits near the Vieux-Port, not far from the harbour he left as a child. The city's claim on him is by birth alone, but it's made without apology. There's an argument that something of Marseille's directness — its refusal to dress things up — runs through the blunt attack of his best work. Maybe. He also made extraordinary terracotta busts of legislators, satirical portraits that rank among the great political objects in the French collection. He died nearly blind and in poverty; his friend Corot gave him a house.
+
+Marseille has a habit of producing people who leave young and make their careers elsewhere. Daumier was the first of many. The port was always an exit as much as an entrance.

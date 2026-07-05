@@ -2,17 +2,16 @@
 latitude: 43.3150019
 longitude: 5.3772877
 score: 1
-snippet: A neighbourhood garden in the 13th arrondissement, its evocative name — "the
-  blue garden" — perhaps a reference to its original planting or to the quality of
-  light on this northern hillside.
+snippet: Nobody knows why it's called the Blue Garden — and that's very Marseille
 tags:
 - curbside
 title: Jardin Bleu
 type: poi
 ---
 
-Jardin Bleu — the Blue Garden — occupies a corner of the 13th arrondissement in northern Marseille. The origin of the name is not immediately obvious: it may refer to a former planting of blue-flowered plants, to the quality of light particular to its hillside position, or simply to a local nickname that stuck. In Marseille, neighbourhood gardens often carry names whose origins have been swallowed by time.
 
-The 13th arrondissement is a large and varied district stretching from the urban core toward the limestone hills to the north. Green spaces here serve large residential populations and are valued accordingly, even when — as here — the garden itself is compact.
+The name is a mystery. Blue flowers? A trick of the northern hillside light? A nickname someone gave it a century ago and nobody bothered to correct? Marseille's local gardens collect names like that — origins swallowed by time, plaque never installed.
 
-Jardin Bleu gives residents of its immediate neighbourhood a shaded space in what can be a hot and sun-exposed part of the city. It is a practical green space: benches, some planting, and the respite that a garden provides.
+Jardin Bleu sits in the 13th arrondissement, up on the limestone slopes where the city starts to thin out and the heat sits differently. It's a neighbourhood garden: benches, some shade, a place to sit outside that isn't the pavement.
+
+In a part of the city that can bake in summer, the shade alone earns it.

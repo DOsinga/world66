@@ -2,15 +2,16 @@
 latitude: 43.295189
 longitude: 5.3869525
 score: 1
-snippet: A farmers' market where Provençal growers sell directly from their own land.
+snippet: The person behind the table grew what's in front of you — no middlemen
 tags:
 - curbside
 title: Marché paysan
 type: poi
 ---
 
-The Marché Paysan operates on a straightforward premise: the person behind the table grew or made what is in front of you. No middlemen, no wholesale pallets relabelled as local produce. Farmers arrive from the hills behind Marseille and from the flat market-garden land of the Camargue fringe with what the week has given them — tomatoes still warm from the vine in August, wild-gathered mushrooms in autumn, fat artichokes through the spring.
 
-Olive oil dominates one end of the market. The region around Marseille produces oil from the Aglandau and Salonenque varieties, both yielding oils that are green and grassy when fresh-pressed in December, then mellow to a buttery gold by summer. Producers here will tip a small cup for tasting without being asked, and the conversation about harvest dates and soil can run as long as you want it to.
+No wholesale pallets relabelled as local. The Marché Paysan's premise is simple: the farmer is here, selling what the week produced. Tomatoes still warm from the vine in August. Wild-gathered mushrooms in autumn. Fat artichokes through spring.
 
-Herbs travel in small bunches tied with string: thyme, savory, rosemary, and the flat-leaved parsley that Provençal cooking has never abandoned for the curly kind. Alongside them come jars of tapenade, packets of dried lavender for the kitchen or the linen cupboard, and occasionally a producer of chèvre aged in ash or wrapped in chestnut leaves. A visit before cooking is a useful way to let the menu suggest itself.
+One end of the market is all olive oil. Aglandau and Salonenque varieties — green and grassy when fresh-pressed in December, buttery gold by summer. Producers pour a small cup without being asked. The conversation about harvest dates and soil can run as long as you want it to.
+
+Herbs come in small bunches tied with string: thyme, savory, rosemary, flat-leaved parsley. Alongside them: tapenade, dried lavender, and sometimes a chèvre aged in ash or wrapped in chestnut leaves. Come before cooking and let the market suggest the menu.

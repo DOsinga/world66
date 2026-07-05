@@ -2,16 +2,16 @@
 latitude: 43.3034534
 longitude: 5.4055522
 score: 1
-snippet: A public artwork in eastern Marseille that plays on the idea of the antidote
-  — the counter-force to something toxic in the urban landscape.
+snippet: A public artwork near La Valentine — its title promising a remedy for the
+  urban landscape
 tags:
 - curbside
 title: L'Antidote
 type: poi
 ---
 
-Tucked into eastern Marseille near La Valentine, *L'Antidote* takes its name from the medical notion of a counter-poison — a substance that neutralises harm. The work sits in a part of the city shaped by post-industrial transition, where former warehouses and logistics corridors have gradually given way to residential development. The title invites visitors to read the piece as a corrective gesture: art as the remedy applied to an environment long associated with function over beauty.
+Near La Valentine in eastern Marseille, the neighbourhood was shaped by post-industrial transition: former warehouses giving way to residential blocks, logistics corridors softening into streets. Into that context, someone placed *L'Antidote* — a work whose title takes the medical term for a counter-poison and applies it to a stretch of city that has spent decades being functional rather than anything else.
 
-The work engages with the vernacular of the neighbourhood without sentimentalising it. Rather than imposing something decorative onto a utilitarian streetscape, it holds a conversation with the surroundings — the palette, the scale, the material all tuned to what is already there. The "antidote" framing suggests that the toxin being countered is not chemical but cultural: indifference, forgetting, the erosion of public space.
+The work doesn't try to prettify what's around it. The palette, scale, and material are tuned to the surroundings rather than imposed on them. It holds a conversation with the streetscape instead of decorating it. The toxin being countered isn't chemical — it's the erosion of attention, the slow forgetting that happens to parts of a city that don't make the postcards.
 
-Standing in front of it, the name resolves into something more personal. If the modern city is what ails you, the work quietly proposes that a single point of unexpected attention — one carefully placed thing in the right street — can begin to reverse the feeling.
+Stand in front of it long enough and the name shifts from conceptual to personal. One carefully placed thing in the right street can change how you read everything around it.

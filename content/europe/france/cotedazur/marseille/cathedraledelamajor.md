@@ -2,7 +2,8 @@
 latitude: 43.2986
 longitude: 5.3651
 score: 7.8
-snippet: Vast striped Romanesque-Byzantine cathedral overlooking the harbour
+snippet: The stripes are Florentine marble and local limestone — built massive to
+  announce itself across the harbour
 tags:
 - curbside
 - things_to_do
@@ -13,6 +14,9 @@ title: Cathédrale de la Major
 type: poi
 ---
 
-The Cathédrale Sainte-Marie-Majeure, locally known as La Major, looms over the edge of the Panier in alternating bands of green Florentine marble and white Cassis limestone. Built between 1852 and 1893 in a Romano-Byzantine style by Léon Vaudoyer and finished by Henri-Jacques Espérandieu, it is one of the largest cathedrals built in France in the 19th century — capable of holding 3,000 worshippers.
 
-The exterior is the main event: striped masonry, multiple domes, an elaborate facade facing the harbour. The interior, lined with the same banded marble, is impressive but slightly chilly. The smaller Romanesque "old cathedral" (Vieille Major) tucked beside it dates from the 12th century and is much more atmospheric, though it is usually locked. The arcade beneath the new cathedral, opened in 2014, contains shops and restaurants and gives access to the seafront promenade.
+The stripes are Florentine marble and local limestone — green and white, stacked from basement to dome. They built it massive on purpose: 1850s Marseille wanted a cathedral that announced itself across the whole harbour. It took forty years and two architects to finish it, but you can see the ambition from the water.
+
+The exterior is the main event. Multiple domes, an elaborate harbour-facing façade, and that obsessive striped masonry that makes it look unlike any other cathedral in France. Inside is impressive but cooler — the same banded marble, the same scale, but less drama once you're standing in it.
+
+Don't miss the tiny Romanesque cathedral tucked alongside it — the Vieille Major, twelfth century, much more atmospheric than the big one. It's usually locked but worth peering into if you find it open. The arcade beneath the new cathedral leads down to the seafront promenade.

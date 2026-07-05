@@ -2,15 +2,16 @@
 latitude: 43.2960079
 longitude: 5.3637236
 score: 1
-snippet: A neighbourhood war memorial serving the 1st and 3rd cantons of Marseille.
+snippet: Two neighbourhoods, one stone — the 1914 war counted its dead by the street
 tags:
 - curbside
 title: monument aux morts 1-3e cantons
 type: poi
 ---
 
-Stone and sober, this memorial stands at the meeting point of Marseille's 1st and 3rd cantons — electoral and administrative subdivisions that carved the old city into the communities families actually lived in. After 1919, the French government required every commune in the country to erect a war memorial to its dead; in a city as large and administratively complex as Marseille, that obligation extended down to the canton level, producing a constellation of neighbourhood monuments alongside the grand civic monument on the Corniche. This one was raised to honour the men of two adjoining cantons who did not come home from the Western Front.
 
-The 1914–18 war cost France roughly 1.4 million dead — a proportion of the male population that left almost no street untouched. In working-class and mixed-use neighbourhoods like those covered by the 1st and 3rd cantons, the losses were felt with particular intimacy: dockworkers, tradesmen, and shopkeepers whose names are inscribed here had shared the same market, the same café, the same school. The canton memorial gave those communities a place of their own to grieve, separate from the imposing city monument that could feel too distant and too official for private mourning.
+France lost roughly 1.4 million men between 1914 and 1918. That number is so large it becomes abstract. What brought it back to earth were the local memorials — the canton-level stones in city neighbourhoods where the dockworker, the shopkeeper, and the café owner all knew each other's names.
 
-The memorial is modest in scale but not in meaning. The roll of names on its face carries the weight of an entire district's grief. Visitors who pause here connect to the hyper-local dimension of French commemoration culture: the idea that every quartier, every village, every canton owed its dead a permanent, named acknowledgment on stone.
+This stone stands at the edge of the 1st and 3rd cantons, the administrative slices that divided the old city into the communities where people actually lived. After 1919 a national law required every French commune to erect a memorial; in a city as large as Marseille, that obligation reached down to the quartier and the canton.
+
+The men named here shared a market, a school, a bar. The memorial gave their neighbours a place to grieve that wasn't the grand official monument across town — something close, something local, something theirs.

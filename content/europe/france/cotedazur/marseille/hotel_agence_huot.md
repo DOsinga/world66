@@ -2,17 +2,17 @@
 latitude: 43.2802675
 longitude: 5.383554
 score: 1
-snippet: 19th-century commercial building associated with a Marseille shipping agency
-  or brokerage, reflecting the substantial financial services sector that grew alongside
-  the port's trade.
+snippet: 19th-century shipping agency offices — the port's money dressed in stone
+  near the Canebière
 tags:
 - curbside
 title: Hôtel-agence Huot
 type: poi
 ---
 
-The building associated with the Huot agency represents a distinct type in Marseille's commercial architecture: the elegant premises of a financial intermediary. Marseille's port economy generated not only warehouses and ship chandlers but a rich secondary layer of maritime commerce — insurance underwriters, shipping brokers, maritime lawyers, bill-of-lading agents, currency exchangers — all of whom needed offices appropriate to their clients' expectations. A shipping agent presenting himself in shabby quarters would lose business; the right address, on the right street, signalled reliability and financial solidity.
 
-The Huot agency occupied a position in this world. Whether the firm's principal business was insurance, brokerage, or general commercial representation — the precise distinction mattered little to the port economy, where most firms handled several functions simultaneously — the building reflects the prosperity of those who profited from trade without directly engaging in it. The financial intermediaries of the Canebière district built and occupied structures that mimicked the domestic architecture of the merchant class, translating the private hôtel particulier into a commercial register.
+The Huot agency was the kind of firm that made its money between the ships and the merchants — brokerage, insurance, maritime paperwork, letters of credit. Marseille's port economy was always like this: for every captain loading cargo there were a dozen intermediaries taking a percentage. They needed offices that said trustworthy, permanent, substantial.
 
-The blocks between the Canebière and the Bourse were the financial district of 19th-century Marseille: addresses on these streets were coveted, rents were high, and the façades were maintained with the care appropriate to institutions that needed to project permanence and trustworthiness. The Huot building belongs to this milieu — commerce dressed as architecture, the port's wealth made legible in stone.
+The building reflects that logic. In the blocks between the Canebière and the Bourse, the right address mattered enormously. Your facade told clients whether you were the sort of firm they could hand their affairs to. The Huot building is dressed accordingly — commerce translated into architecture, the port's wealth made legible in stone.
+
+These intermediaries occupied a precise social world: not as glamorous as the great merchant families who built the hôtels particuliers, not as rough as the quayside. They were the financial infrastructure of a trading city, and this building is a trace of that layer.

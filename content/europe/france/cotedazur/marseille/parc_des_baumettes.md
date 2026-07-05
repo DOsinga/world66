@@ -2,16 +2,15 @@
 latitude: 43.222368
 longitude: 5.4141059
 score: 1
-snippet: A neighbourhood park in the southern Baumettes district, a short distance
-  from the prison complex that gives the area its name.
+snippet: Same name as the prison — but considerably more relaxed
 tags:
 - curbside
 title: Parc des Baumettes
 type: poi
 ---
 
-Baumettes is a name most French people associate with incarceration rather than recreation: the Maison d'arrêt des Baumettes, one of France's most overcrowded and long-criticised prisons, has stood at the southern edge of Marseille since the 1930s. The Parc des Baumettes sits in the same general neighbourhood, a quiet residential district pressed between the Calanques massif to the south and the urban fabric of the 9th arrondissement. The park itself is a modest green space, its character shaped more by its proximity to the garrigue than by any grand design.
+If you know French penal history, you know the name Baumettes. The Maison d'arrêt des Baumettes has been one of France's most overcrowded and heavily criticised prisons since the 1930s. It sits just down the road. The park is the softer face of the same neighbourhood.
 
-The setting is noticeably different from the parks along the Prado seafront. Here the limestone ridges feel close; the air carries the resinous scent of scrub pine, and the light has that particular Provençal quality that bleaches colour out of midday and restores it, amber-toned, in the late afternoon. Local residents use the park for the ordinary rituals of neighbourhood life — children on swings, retirees on benches, the morning circuit with a dog.
+And it is genuinely pleasant up here. The limestone ridges of the Calanques are close enough that you can smell the garrigue — resinous scrub pine, wild rosemary — and the southern light has that quality of bleaching colour out at midday and giving it back amber-toned in the afternoon. Locals use it as locals use any neighbourhood park.
 
-The prison, visible nearby, is an uncomfortable presence that gives the area a dual identity: a working residential quarter that happens to carry a heavy piece of French penal history. The park offers no view of the facility and can be taken on its own terms, but the context is part of the place. Visitors exploring the southern arrondissements on the way to the Calanques pass through Baumettes without always registering its name.
+The prison is visible nearby and shapes the area's dual identity. But the park takes no view of it and delivers exactly what you need: shade, a bench, a quiet green corner at the edge of one of France's most spectacular coastlines.

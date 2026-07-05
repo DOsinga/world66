@@ -2,16 +2,16 @@
 latitude: 43.3626386
 longitude: 5.3080124
 score: 1
-snippet: A cliffside park in the far northwestern 15th arrondissement, perched above
-  the coastal road where the limestone escarpment meets the sea.
+snippet: Limestone cliff edge in the 15th, with open views over the Golfe du Lion
 tags:
 - curbside
 title: Jardin de la Falaise
 type: poi
 ---
 
-Jardin de la Falaise occupies a dramatic position on the limestone cliff edge in the 15th arrondissement, the northernmost coastal district of Marseille, where the city runs out and the Côte Bleue begins. The garden takes its name directly from its setting — *falaise* is French for cliff — and the site commands an open view over the Golfe du Lion.
 
-The 15th arrondissement is one of Marseille's most economically deprived districts, a predominantly industrial and residential zone where the city's port infrastructure dominates the shoreline. Green space here is limited, and the Jardin de la Falaise — perched above the coastal road on terrain too steep for building — provides one of the few accessible natural outlooks in the area. The Mediterranean scrub that clings to the cliff face is typical of the *garrigue* vegetation that covers the limestone hills all along this stretch of coast.
+*Falaise* means cliff, and that's exactly what this is — a garden perched on the limestone escarpment in the 15th arrondissement, where the city's northern edge drops to the coastal road and the sea opens out below. The Golfe du Lion stretches west from here, same pale rock and blue water as the Côte Bleue just beyond.
 
-The garden is primarily for local residents rather than tourists, but anyone driving the coastal road north from Marseille toward Martigues will recognise the terrain: the same pale limestone, the same blue sea, the same quality of light that makes the Côte Bleue one of the more underrated stretches of the French Mediterranean.
+The 15th is one of Marseille's most deprived districts, port infrastructure dominating the shoreline. Green space is scarce. The Jardin de la Falaise exists because the cliff was too steep to build on — which is why it's still here, and why local residents use it hard.
+
+The garrigue scrub clinging to the cliff face is the same vegetation you'll see all along this stretch of coast. Nothing dramatic has been done to the site — the drama is in the position.

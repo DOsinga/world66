@@ -2,16 +2,16 @@
 latitude: 43.3135439
 longitude: 5.3908964
 score: 1
-snippet: A small garden beside a maternity hospital in the 5th arrondissement, a quiet
-  space in the dense residential district north of La Timone.
+snippet: Hospital-side garden in the 5th — a quiet pause in Marseille's medical district
 tags:
 - curbside
 title: Jardin de la Maternité
 type: poi
 ---
 
-Jardin de la Maternité takes its name from its location beside a maternity hospital in the 5th arrondissement, in the dense residential district that spreads north from the La Timone hospital complex — one of the largest teaching hospitals in France. The 5th is a solidly urban arrondissement, mixing older apartment stock with the buildings associated with the university and hospital quarter.
 
-The garden is small and functional, the kind of space associated with hospital grounds the world over: a place for patients, families, and staff to step outside for a few minutes, and for the neighbourhood residents who use it as a short cut or a lunchtime bench. The planting is practical — shade trees, some grass — rather than ornamental.
+La Timone, just south of here, is one of the largest teaching hospitals in France. The 5th arrondissement is built around it — university buildings, medical facilities, dense residential streets, the constant motion of a hospital district.
 
-The area around La Timone and the 5th arrondissement more generally is worth knowing for visitors who are spending time in Marseille's medical or university district. The garden provides one of the few quiet pauses in a busy part of the city.
+The Jardin de la Maternité sits beside a maternity hospital and does what hospital gardens have always done: gives patients, families, and staff somewhere to step outside for a few minutes. The planting is practical — shade trees, grass — not ornamental. That's appropriate. This isn't a garden you come to for the design.
+
+If you're spending time in the university quarter or visiting the medical complex, it's a reliable quiet patch in a busy part of the city.

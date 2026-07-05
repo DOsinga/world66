@@ -2,17 +2,17 @@
 latitude: 43.3033713
 longitude: 5.4028879
 score: 1
-snippet: A small neighbourhood garden in the eastern 12th arrondissement, bearing
-  a surname of Italian origin that reflects the Mediterranean mix of Marseille's residential
-  communities.
+snippet: A Lombard surname in the eastern arrondissements — another thread in Marseille's
+  Italian fabric
 tags:
 - curbside
 title: Jardin Cerati
 type: poi
 ---
 
-Jardin Cerati is a neighbourhood garden in the 12th arrondissement on the eastern side of Marseille. The Cerati surname — Italian in origin, related to names found in Lombardy and across northern Italy — is another reminder of the deep Italian presence in Marseille's residential communities, particularly in the older neighbourhoods and on the city's eastern fringes.
 
-The 12th arrondissement lies in the valley of the Huveaune river and on the surrounding slopes, a district of diverse character that ranges from older villages absorbed into the city to more recent suburban development. Gardens here tend to be smaller neighbourhood spaces rather than the grand parks of the southern coast.
+Cerati is a northern Italian name — Lombardy region — and its presence on a park sign in the 12th arrondissement is one small data point in a city full of them. Marseille absorbed Italian immigrants for generations; the eastern neighbourhoods around the Huveaune valley carry that history in their street names and family names.
 
-Jardin Cerati serves the residents of its immediate area: a green space on a human scale, providing shade in the summer heat and a place to sit among the streets of the eastern quarter.
+The 12th stretches from the valley floor up the surrounding slopes, a mix of older village cores absorbed by the city and newer residential blocks. It's not the scenic coast or the historic centre — it's where a lot of Marseille actually lives.
+
+Jardin Cerati is a neighbourhood-scale green space: shade, a seat, the particular value of a garden in a part of the city that gets hot.

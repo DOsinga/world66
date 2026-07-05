@@ -2,17 +2,17 @@
 latitude: 43.3012729
 longitude: 5.3733353
 score: 1
-snippet: The only major French region to flip from far-right to left within a single
-  electoral cycle sits in Euroméditerranée — Europe's largest urban regeneration project
-  outside London.
+snippet: The Hôtel de Région — billions of euros, a hundred-and-twenty-three councillors,
+  and perpetual political war
 tags:
 - curbside
 title: Conseil régional de Provence-Alpes-Côte d'Azur
 type: poi
 ---
 
-France's Région Provence-Alpes-Côte d'Azur is ungovernable by design. It spans Mediterranean resort coastline, industrial port infrastructure, Alpine ski terrain, and agricultural plains — a constituency so internally contradictory that every political coalition fractures along its fault lines. The regional assembly of 123 elected councillors has produced political battles that reverberate at the national level: in 2021 Marine Le Pen's Rassemblement National list came first in the first round before losing the runoff, and the region's political trajectory has been a bellwether for French far-right electoral strategy ever since.
 
-The Hôtel de Région sits in the Joliette quarter of the Euroméditerranée zone, the €7-billion regeneration project launched in 1995 to convert the northern port lands from derelict industrial use to mixed-use urban fabric. The building is less architecturally distinguished than it is institutionally powerful: the Région controls the regional rail network, vocational training, economic development funding, and the lycées — a budget of several billion euros that shapes the daily lives of the five departments under its authority.
+The region this building governs is almost ungovernable by design. Provence-Alpes-Côte d'Azur runs from Alpine ski resorts to industrial port docks to Mediterranean resort coastline — a constituency so internally contradictory that every coalition eventually fractures. In 2021, Marine Le Pen's list came first in the first round here before losing the runoff. The region has been a bellwether for far-right electoral strategy ever since.
 
-The Euroméditerranée context is not incidental. The Région and the city have competed for primacy over the regeneration project, and the placement of the regional offices in the new district rather than the traditional administrative centre reflects a deliberate choice to anchor the new quarter with institutional weight.
+The building itself sits in the Joliette quarter, inside the Euroméditerranée zone — the €7-billion project launched in 1995 to turn derelict northern port land into something new. Placing regional headquarters here, rather than in the traditional administrative centre, was a deliberate choice to anchor the new district with institutional weight.
+
+The Région controls the regional rail network, the lycées, vocational training, and economic development across five departments — a budget of several billion euros that shapes daily life far more than most people notice.

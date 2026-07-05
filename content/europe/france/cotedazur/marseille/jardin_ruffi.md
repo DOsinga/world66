@@ -2,16 +2,16 @@
 latitude: 43.3086765
 longitude: 5.3733055
 score: 1
-snippet: A compact garden in the Cinq-Avenues quarter of the 4th arrondissement, one
-  of the liveliest middle-class residential neighbourhoods above the Canebière.
+snippet: Five streets, a market, and a bench to recover on afterwards
 tags:
 - curbside
 title: Jardin Ruffi
 type: poi
 ---
 
-The Jardin Ruffi sits in the 4th arrondissement, in the Cinq-Avenues quarter — so named for the five radiating streets whose convergence gives the area its identity and its weekend market. This is one of Marseille's more comfortable residential districts: wide pavements, pharmacies, bakeries, and the kind of steady neighbourhood life that makes it a pleasant place to wander on a weekday morning.
 
-The garden itself is a contained green space, typically equipped with benches and shaded planting, offering respite from the surrounding streets. The Cinq-Avenues market, held on weekdays and Saturday mornings on the Place Jean-Jaurès, is the social heart of the quarter, and the Jardin Ruffi functions as a quieter counterpart — somewhere to sit after the market rather than stand in the crowd.
+The garden sits at the heart of Cinq-Avenues — named for the five radiating streets that fan out from Place Jean-Jaurès. Saturday morning, the market takes over that square completely: cheese, fish, produce, noise. The Jardin Ruffi is what you retreat to when you've had enough.
 
-The 4th arrondissement has historically attracted working and middle-class Marseillais who wanted proximity to the centre without living in the Vieux-Port crush. The garden reflects that character: neither grand nor neglected, but consistently maintained and used.
+This is solidly residential Marseille — wide pavements, neighbourhood pharmacies, the kind of bakery where locals actually buy their bread. The 4th arrondissement above the Canebière has always been the city's comfortable middle ground: not grand, not rough, just functional and human.
+
+Grab a bench here after the market. Watch the neighbourhood move at its own pace.

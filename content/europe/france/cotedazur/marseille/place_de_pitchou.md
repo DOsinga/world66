@@ -2,17 +2,17 @@
 latitude: 43.355932
 longitude: 5.3601571
 score: 1
-snippet: A small neighbourhood square in the northern arrondissements; "pitchou" is
-  a Provençal diminutive meaning "little one" — the name common to informal intimate
-  spaces in Marseille's Provençal street vocabulary.
+snippet: The square's name is a Provençal endearment — and Marseillais still use the
+  word
 tags:
 - curbside
 title: Place de Pitchou
 type: poi
 ---
 
-Place de Pitchou takes its name from the Provençal word for "little one" — pitchou, or in its standard Occitan form, pitchon — a diminutive used in everyday southern French speech to address children or to describe small things with affection. It is one of the Provençal terms that passed into Marseillais French usage and survived there; residents of the city who speak no Occitan still use pitchou as a term of endearment. Naming a square after it suggests that the space was always small, informal, and neighbourhood-scaled — the kind of place that earns an affectionate name rather than a civic one.
 
-The square sits in the northern arrondissements, in the residential districts above the port and commercial centre that constitute the majority of Marseille's physical territory. These are quarters shaped by the city's working-class and immigrant history: Italian families who arrived to work in the soap factories and docks in the 19th century, followed by the waves of Spanish, Maghrebi, and sub-Saharan African migration that gave Marseille its present demographic complexity. A neighbourhood square in this context is where those communities have always encountered each other.
+Pitchou is Provençal for "little one" — the word you call a child, or a space too small for a civic name. Marseillais who speak no Occitan still use it. It made it through a century of migration and transformation and it's still in people's mouths. That's a minor miracle of linguistic survival.
 
-The Provençal name is a small reminder that beneath all the layers of immigration and transformation, there is a linguistic and cultural substrate that the city has never entirely lost. The cigale, the pitchou, the mistral — words that belong to the Provençal vocabulary are still in the mouths of Marseillais who would not identify themselves as Provençal speakers.
+The northern arrondissements around here were shaped by the port: Italian families working the docks and soap factories in the 19th century, then Spanish, Maghrebi, and sub-Saharan African communities through the 20th. The neighbourhood absorbed successive waves without fully erasing any of them. A small square in a big working city.
+
+Under all of it — the immigration, the industry, the postwar concrete — the Provençal substrate persists. The cigale, the mistral, the pitchou. Some words don't go away.

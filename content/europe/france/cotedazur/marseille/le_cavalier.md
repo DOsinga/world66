@@ -2,17 +2,17 @@
 latitude: 43.2965391
 longitude: 5.3757944
 score: 1
-snippet: An equestrian sculpture drawing on the oldest tradition in Western public
-  art — the rider raised above the crowd — given a Marseille character in a residential
-  quarter south of the centre.
+snippet: The Romans invented the form, the French replicated it everywhere — here
+  it's slightly out of place
 tags:
 - curbside
 title: Le Cavalier
 type: poi
 ---
 
-The equestrian statue is the longest-lived form in the Western sculpture tradition. The Romans cast Marcus Aurelius on horseback in bronze sometime around AD 175 — the sole such work to survive the Middle Ages intact, now on the Capitoline in Rome — and the form has barely varied since: rider erect, horse in motion, the whole composition elevated to command the square below. French cities are full of them: Henri IV on the Pont Neuf, Louis XIV in town after town, Napoleon in various guises. The message has always been the same. Power moves. Power is mobile. Power looks down at you.
 
-Le Cavalier, in this southern residential quarter of Marseille, may or may not be saddled with that kind of political freight. The equestrian form has long since been turned to more modest purposes — a regional notable, a military figure from a local regiment, a commemorative gesture from the civic funds of a particular decade. Without the identifying plaque in front of you, the identity of horse and rider remains their own business. What persists is the form itself: the rearing or walking horse, the poised figure above, the plinth that separates the sculpture's world from the pavement.
+Marcus Aurelius on horseback, cast around AD 175, is the template — the sole Roman equestrian bronze to survive the Middle Ages intact, now on the Capitoline in Rome. French cities have been copying the formula ever since: Henri IV on the Pont Neuf, Louis XIV in provincial square after square, Napoleon in various guises. The message never changes. Power moves. Power is elevated. Power looks down at you.
 
-Marseille is not a city particularly associated with equestrian grandeur — it is a trading city, not a court city — which makes a sculpture in this mode stand out a little more than it would in Lyon or Bordeaux. Come to it with low expectations and you may find it interesting for exactly that reason: a formal tradition deployed somewhere it was never quite at home.
+Le Cavalier sits in a residential quarter south of the centre. Marseille is a trading city, not a court city — which means an equestrian statue here has no natural political home. It just stands in the neighbourhood looking slightly formal, a little out of its element.
+
+That minor awkwardness is actually what makes it worth pausing at. Come to it with low expectations and the formality starts to read as comedy. A rearing horse on a plinth, in the middle of a street that has better things to do.

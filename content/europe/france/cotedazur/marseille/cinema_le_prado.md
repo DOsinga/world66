@@ -2,17 +2,17 @@
 latitude: 43.2836843
 longitude: 5.38454
 score: 1
-snippet: The neighbourhood cinema of Marseille's prosperous south, serving the residential
-  arrondissements near the Prado beaches with a programme tilted toward quality releases
-  and French cinema.
+snippet: The cinema the 8th arrondissement actually goes to — art-house tilted, no
+  multiplexes
 tags:
 - curbside
 title: Cinéma Le Prado
 type: poi
 ---
 
-Cinéma Le Prado sits in the 8th arrondissement, the long residential southern stretch of Marseille that runs from the city centre down toward the Prado beaches and Parc Borély. This is a quieter, more affluent part of the city than the tourist-heavy Vieux-Port, and the cinema reflects its surroundings — a neighbourhood institution oriented toward the kind of audience that reads film reviews and makes deliberate choices about what to see.
 
-The programming leans toward quality releases, art-house titles, and French cinema rather than the blockbuster slate of the multiplexes. Locals come here on weekday evenings and Sunday afternoons, fitting a film into the rhythms of residential life rather than making a special trip into the city centre. For visitors staying in the southern arrondissements or spending time at the beaches, it provides a reason to linger into the evening.
+The 8th arrondissement is the long residential stretch running from the city centre down toward the Prado beaches and Parc Borély. Quieter, more prosperous, less tourist-heavy than the Vieux-Port. The cinema here matches its surroundings — this is where you come to see the French film that got good reviews, not to queue for a Marvel sequel.
 
-The Prado district has its own self-contained cultural life — good restaurants, the city's main park, the archaeological museum — and the cinema is part of that local ecosystem. It is a reminder that Marseille extends well beyond the postcard views of the Vieux-Port and the Canebière, into a sprawling southern city with its own neighbourhood character.
+Weekday evenings and Sunday afternoons are when it fills up. Locals, not visitors — people who live nearby and want to see a film before dinner. The programming tilts toward quality releases and French cinema. It's the kind of neighbourhood institution that's getting rarer in French cities.
+
+If you're staying in the southern arrondissements, it's worth checking what's on. The Prado district has its own self-contained life — the park, good restaurants, the archaeological museum — and an evening film here fits right into it.

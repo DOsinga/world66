@@ -2,18 +2,17 @@
 latitude: 43.2944201
 longitude: 5.3862622
 score: 1
-snippet: Marseillais never call it Place Jean Jaurès — it is La Plaine, the outdoor
-  living room of Cours Julien, the city's bohemian quarter. The Tuesday, Thursday,
-  and Saturday market is a secondary reason to come; the surrounding independent cafes,
-  record shops, and bookshops are the real draw.
+snippet: Nobody calls it Place Jean Jaurès — it is La Plaine, and the market is the
+  secondary attraction
 tags:
 - curbside
 title: Marché de la Plaine
 type: poi
 ---
 
-The market leans toward organic produce, artisan food, and specialist stalls — a reflection of Cours Julien's gentrification since the 1990s. But the gentrification is incomplete and the market remains genuinely popular rather than tourist-facing: local shoppers, students from the nearby universities, and neighbourhood regulars outnumber visitors. On non-market days the same square functions as an informal gathering point, particularly in the evenings.
 
-Cours Julien itself — the street running off the Plaine — was Marseille's fruit and vegetable wholesale district before the trade moved elsewhere. The loading docks and warehouse facades were colonised by artists, musicians, and independent shops from the 1980s onward. Street art covers most available surfaces; new pieces appear over old ones. The neighbourhood still looks improvised.
+The square fills Tuesday, Thursday, and Saturday mornings with organic produce, artisan food, specialist stalls. Cours Julien's gentrification since the 1990s shows in the vendors. But the market is genuinely local: students, neighbourhood regulars, and local shoppers far outnumber visitors. On non-market mornings the square is an informal gathering point, especially in the evenings.
 
-The Plaine is about fifteen minutes' walk from the Vieux-Port, uphill through Noailles. The combination of the Capucins market and the Plaine market — separated by a twenty-minute walk through the city — is the best single morning itinerary in Marseille for anyone interested in food and neighbourhoods.
+The street running off it — Cours Julien itself — was Marseille's wholesale fruit and vegetable district before the trade moved to Arnavaux. Artists and musicians colonised the loading docks from the 1980s. Street art covers every available surface; new pieces go over old ones. The neighbourhood still looks improvised, which is precisely why it works.
+
+Fifteen minutes' walk from the Vieux-Port, uphill through Noailles. Combine this with the Capucins market down the hill and you have the best single morning in Marseille.

@@ -2,16 +2,17 @@
 latitude: 43.2951315
 longitude: 5.3909024
 score: 1
-snippet: Monument to Fernandel (1903–1971), Marseille's most beloved comic actor,
-  known worldwide for the Don Camillo films.
+snippet: Marseille's gap-toothed comic genius — the face Europe recognised as Don
+  Camillo
 tags:
 - curbside
 title: Fernandel
 type: poi
 ---
 
-Fernand Contandin — known to the world as Fernandel — was born in 1903 in the neighbourhood around the Capucins market in the heart of Marseille. His elastic face, gap-toothed grin, and unmistakably Marseillais accent made him one of the most distinctive performers in French cinema history. He began his career in music-hall and vaudeville before moving to film in the early sound era, and over four decades he became one of the highest-paid and most internationally recognised actors in France.
 
-His greatest role came with the Don Camillo series, based on Giovanni Guareschi's novels. Between 1952 and 1965 Fernandel played the hot-headed but warm-hearted parish priest Don Camillo in a long-running screen battle with Gino Cervi's Communist mayor Peppone. The films were hits across Europe and beyond, and the character became inseparable from Fernandel himself. His physical comedy, timing, and talent for pathos gave Don Camillo a humanity that audiences recognised across every cultural barrier.
+Fernand Contandin grew up around the Capucins market, right here in central Marseille. The elastic face, the gap-toothed grin, the unmistakably Marseillais accent — he turned all of it into a forty-year film career that made him one of the highest-paid actors in France.
 
-This monument celebrates Marseille's claim on one of the great comic actors of the postwar world. Fernandel died in Paris in 1971, but his roots in the streets around the Canebière and the Capucins were something he returned to again and again in interviews — his Marseillais identity was never a stage prop but a genuine source of warmth and pride.
+The role that went everywhere was Don Camillo: the hot-headed parish priest locked in perpetual battle with the Communist mayor Peppone in a series of films running from 1952 to 1965. Giovanni Guareschi wrote the books; Fernandel made the character. His physical comedy and talent for sudden pathos crossed every cultural barrier — audiences across Europe, South America and beyond knew the priest's face.
+
+He died in Paris in 1971, but in interviews he returned to Marseille constantly. His roots here were not a stage prop. They were where he came from, and he knew it.

@@ -2,16 +2,17 @@
 latitude: 43.2646111
 longitude: 5.4161557
 score: 1
-snippet: A small neighbourhood green in the southern 8th arrondissement, within easy
-  walking distance of the Madrague de Montredon calanque access.
+snippet: The last shaded bench before the calanque path begins — useful in the most
+  honest way
 tags:
 - curbside
 title: Jardin Parc Vert
 type: poi
 ---
 
-The Jardin Parc Vert sits in the quiet residential fringe at the southern end of the 8th arrondissement, where the urban fabric begins to give way to the limestone ridges and calanque access paths leading toward Montredon and the sea. It is a local garden in the most literal sense: benches under Mediterranean pines, a small play area, and a fence that keeps it distinct from the surrounding streets.
 
-Visitors arriving overland to Marseille's calanques often pass through neighbourhoods like this one — functional, unspectacular, but genuinely useful. A stop here provides shade and a place to rest before or after the walk to Montredon beach and the coastal path that continues toward the Calanque de Callelongue. The garden itself will not detain a traveller long, but it anchors the block and tells you something about how the southern 8th lives.
+The southern 8th arrondissement is where the city starts to run out of city. Streets thin out, the limestone ridges get closer, and the access paths toward Montredon and Callelongue begin. The Jardin Parc Vert sits at this edge — Mediterranean pines, benches, a small play area, a fence.
 
-The area around the Jardin Parc Vert is predominantly residential: apartment buildings, a few local shops, and the steady sound of scooters on the narrow roads. It is Marseille at its most everyday, which is itself a particular kind of attraction.
+If you're walking to Montredon beach or the coastal path toward the Calanque de Callelongue, this is the last real shade before you start climbing. Useful before, more useful after.
+
+The neighbourhood around it is residential and unspectacular in the best way — apartment buildings, local shops, scooters on narrow roads. Marseille at its most everyday. The garden doesn't pretend to be anything else.

@@ -2,16 +2,16 @@
 latitude: 43.3092815
 longitude: 5.4111078
 score: 1
-snippet: A modest public space in northeastern Marseille bearing the name of a local
-  figure whose memory is preserved in the city's street naming tradition.
+snippet: A name on a Marseille street, and what that usually means in the city's eastern
+  quarters
 tags:
 - curbside
 title: Elzéard Rougier
 type: poi
 ---
 
-The name Elzéard has deep Provençal roots — Saint Elzear of Sabran was a medieval nobleman from the Comtat Venaissin venerated across the region. Whether the Rougier commemorated here shares that lineage or belongs to a more recent chapter of Marseille civic life is not well documented in sources outside the city. The location in northeastern Marseille, in the direction of Les Caillols and La Pomme, places this in the working-class residential fringe that grew up along the valleys east of the city centre during the twentieth century.
+Elzéard is a Provençal name — Saint Elzear of Sabran was a medieval nobleman venerated across the region. The Rougier here almost certainly belongs to the category of local figure that Marseille quietly commemorates throughout its outer arrondissements: a schoolteacher, a resistance member, a neighbourhood doctor, someone who mattered to the people immediately around them.
 
-Marseille has a long tradition of naming streets and squares after figures who shaped neighbourhood life — local schoolteachers, resistance members, union organisers, neighbourhood doctors — without those names ever reaching wider historical record. The Elzéard Rougier space is most likely a small square or planted area in that spirit: a quiet act of local memory rather than a grand civic statement.
+The location puts this in the northeastern fringe, towards Les Caillols and La Pomme — the working-class valleys that expanded through the twentieth century to house a growing city. These arrondissements are unhurried and largely untouristed. The naming tradition is genuine: Marseille remembers its own, even when that memory never makes it into wider record.
 
-If you are passing through the area, the northeastern arrondissements offer a side of Marseille largely untouched by tourism — workaday streets, neighbourhood markets, and the gradual rise of the Étoile massif visible to the north.
+If you're passing through, look north. The Étoile massif rises behind the rooftops, and these quarters have a quiet, workaday character that's easy to miss if you never leave the Vieux-Port.

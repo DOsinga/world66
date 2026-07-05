@@ -2,16 +2,16 @@
 latitude: 43.3054655
 longitude: 5.3740808
 score: 1
-snippet: The open forecourt of the Friche la Belle de Mai, Marseille's flagship arts
-  complex in a former tobacco factory.
+snippet: The forecourt where the tobacco factory opens to the street — free, loud,
+  alive
 tags:
 - curbside
 title: Le Parvis des Arts
 type: poi
 ---
 
-Le Parvis des Arts is the generous public esplanade that opens up in front of the Friche la Belle de Mai — Marseille's largest alternative arts complex, housed in a 19th-century tobacco factory in the working-class Belle de Mai neighbourhood. The parvis serves as the complex's threshold and its most democratic space: free, outdoors, and animated at almost any hour by skateboarders, families, food trucks and people arriving for concerts, exhibitions or cinema screenings inside.
+Le Parvis des Arts is the esplanade in front of La Friche Belle de Mai — 45,000 square metres of repurposed tobacco factory, home to forty-odd cultural organisations. The parvis is the part that costs nothing: open air, no ticket, animated at most hours by skateboarders, families, food trucks, and people drifting in for whatever is happening inside.
 
-The Friche itself occupies some 45,000 square metres of repurposed industrial space and hosts more than forty resident cultural organisations — theatre companies, visual arts studios, media labs and a rooftop terrasse with a panoramic view across the city. The parvis acts as a buffer zone between the surrounding streets and this interior world, giving the complex a civic scale that feels more neighbourhood square than ticketed venue.
+The factory ran until 1990, employing thousands of women. Artists moved in as the last machines went out. Theatre companies, visual arts studios, media labs, a rooftop terrasse with a view across the whole city — it grew into Marseille's flagship alternative arts complex through the 1990s and 2000s, and was cited when the city became European Capital of Culture in 2013.
 
-The Belle de Mai district around it has undergone a slow transformation since the Friche opened in the early 1990s, drawing creative businesses and young residents while holding on to its working-class character. Arriving at the parvis on a warm evening — when the outdoor bar is open and a sound-check echoes from somewhere inside the factory — gives a quick sense of why Marseille was named a European Capital of Culture in 2013.
+Turn up on a warm evening when the outdoor bar is open and a sound-check is leaking from somewhere inside the building. The parvis at that moment is exactly what the Friche has always been trying to be.

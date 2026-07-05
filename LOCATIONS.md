@@ -146,7 +146,15 @@ Only if there is real content — markets, shopping districts, notable shops.
 
 ### Day Trips (`day_trips.md`)
 
-Day trip destinations should be real locations in the hierarchy, not POIs. Use `linked_locations:` in the section frontmatter to list their paths:
+A day trip is a destination in its own right, so every entry is a **linked location**, never a POI:
+
+- **A town or city** must be a **link** to its destination page, listed in `linked_locations:` (and linked inline in the prose). If the town has no page yet, create one. Never leave a town as a POI inside the city directory — that shadows the real page.
+- **A larger area, valley, region, or natural feature** (a wine region, a peninsula, a sound, a touring route) should be a **`loc_type: feature` destination page** in the right place in the hierarchy, then linked the same way.
+- **A single nearby attraction** — a convent 10 km out, a beach 15 km south, a single ruin, a zoo, a house museum — is just a normal POI on the city's `things_to_do` list; don't tag it `day_trips`. If it is really a destination in its own right, promote it to a `loc_type: feature` page and link it.
+
+The one rule: **`day_trips` entries are always linked locations; never tag a POI `day_trips`.** The linter enforces this (the `day_trip_poi` check).
+
+Use `linked_locations:` in the section frontmatter to list the destination paths:
 
 ```yaml
 ---
@@ -157,10 +165,10 @@ linked_locations:
   - europe/italy/lazio/ostiaantica
 ---
 
-Brief overview of day trip options from the city.
+Brief overview of day trip options, linking each destination inline.
 ```
 
-The template renders these as a table linking to the real location pages.
+The template renders the linked locations as a destination card grid.
 
 ### Beaches (`beaches.md`)
 

@@ -2,7 +2,7 @@
 title: "Day Trips"
 type: section
 linked_locations:
-- northamerica/mexico/chichenitza
+- northamerica/mexico/yucatan/chichen_itza
 - northamerica/mexico/coba
 - northamerica/mexico/cozumel
 - northamerica/mexico/islamujeres
@@ -13,7 +13,7 @@ linked_locations:
 
 The Yucatán Peninsula packs extraordinary day-trip options around Cancun, and for many visitors the surroundings are the real reason to come.
 
-The headline ruins lie inland. [Chichén Itzá](/northamerica/mexico/chichenitza), 200 km west, is one of the New Seven Wonders of the World — the pyramid of Kukulcán is overwhelming in scale, and the site sprawls across ball courts, an observatory, and a sacred cenote. Further into the jungle, [Cobá](/northamerica/mexico/coba) preserves the tallest Maya pyramid on the peninsula amid 70 square kilometres of forest threaded with ancient causeways; it is quieter and more atmospheric than the coastal sites. Closer to hand, the cliff-top [Tulum Ruins](/northamerica/mexico/cancun/tulum_ruins) sit above a turquoise bay 130 km south — arrive before 9am to beat the tour buses — while the town of [Tulum](/northamerica/mexico/tulum) itself, 4 km inland, has grown into a destination of its own.
+The headline ruins lie inland. [Chichén Itzá](/northamerica/mexico/yucatan/chichen_itza), 200 km west, is one of the New Seven Wonders of the World — the pyramid of Kukulcán is overwhelming in scale, and the site sprawls across ball courts, an observatory, and a sacred cenote. Further into the jungle, [Cobá](/northamerica/mexico/coba) preserves the tallest Maya pyramid on the peninsula amid 70 square kilometres of forest threaded with ancient causeways; it is quieter and more atmospheric than the coastal sites. Closer to hand, the cliff-top [Tulum Ruins](/northamerica/mexico/cancun/tulum_ruins) sit above a turquoise bay 130 km south — arrive before 9am to beat the tour buses — while the town of [Tulum](/northamerica/mexico/tulum) itself, 4 km inland, has grown into a destination of its own.
 
 For colonial Mexico, [Valladolid](/northamerica/mexico/yucatan/valladolid_1) is a handsome 16th-century city an hour short of Chichén Itzá, with a cathedral on its main square, a cenote in the centre of town, and some of the best Yucatecan food on the peninsula.
 

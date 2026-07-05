@@ -2,7 +2,7 @@
 linked_locations:
 - europe/italy/lombardia/brembana_valley
 - europe/italy/lombardia/cornello_dei_tasso_and_oneta
-- europe/italy/lombardia/lagodigarda
+- europe/italy/lake_garda
 - europe/italy/lombardia/lake_endine
 - europe/italy/lombardia/lake_iseo
 - europe/italy/lombardia/san_marco_pass
@@ -17,4 +17,4 @@ Head north up the [Brembana Valley](/europe/italy/lombardia/brembana_valley) for
 
 For water, [Lake Iseo](/europe/italy/lombardia/lake_iseo) is about an hour away by car and far less crowded than Como or Garda, with car-free Monte Isola at its centre. Smaller and quieter still, [Lake Endine](/europe/italy/lombardia/lake_endine) in the Val Cavallina is the place to go when you want a lake to yourself.
 
-Further afield, the shores of [Lago di Garda](/europe/italy/lombardia/lagodigarda), about an hour to the east, hold the highest concentration of theme parks in Italy — Gardaland chief among them — alongside the lake's own resort towns. And Milan is just 50 minutes by train if you need a proper city fix.
+Further afield, the shores of [Lago di Garda](/europe/italy/lake_garda), about an hour to the east, hold the highest concentration of theme parks in Italy — Gardaland chief among them — alongside the lake's own resort towns. And Milan is just 50 minutes by train if you need a proper city fix.

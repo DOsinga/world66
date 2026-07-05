@@ -1,18 +1,20 @@
 ---
 done:
   location_cleanup: '2026-04-08'
+image: borromeanislands.jpg
+image_attribution: Unknown
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Isola_Superiore.jpg
 latitude: 45.9033
 loc_type: feature
 longitude: 8.5319
 score: 9.03
 snippet: Lago Maggiore island group owned by the Borromeo family, including palace-filled
   Isola Bella.
+tags:
+- lake_maggiore
 title: Borromean Islands
 type: location
-image: islands.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Isola_Superiore.jpg
-image_license: CC BY-SA 3.0
-image_attribution: Unknown
 ---
 
 The Borromean Islands are the finest thing about Lago Maggiore — three small islands in the middle of the lake, each with its own character, all belonging to the same aristocratic family that has owned them for six centuries. Ferries run regularly from [Stresa](/europe/italy/piemonte/stresa) and Baveno, and a day hopping between the islands is one of the most pleasurable excursions in the Italian Lakes.

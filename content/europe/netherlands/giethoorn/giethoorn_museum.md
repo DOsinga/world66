@@ -1,8 +1,8 @@
 ---
 title: "Giethoorn Museum (Museumboerderij)"
 type: poi
-latitude: 52.7401
-longitude: 6.0759
+latitude: 52.7247
+longitude: 6.0899
 snippet: "A restored 19th-century farmhouse museum explaining the peat-cutting origins of the village"
 tags: [things_to_do, museum]
 score: 7.3

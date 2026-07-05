@@ -1,8 +1,8 @@
 ---
 title: "Kerktjetje"
 type: poi
-latitude: 52.7400
-longitude: 6.0757
+latitude: 52.7225
+longitude: 6.0898
 snippet: "The small wooden church in the old village, surrounded by water on three sides"
 tags: [things_to_do, sight]
 score: 7.5

@@ -1,0 +1,303 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Marseille — Audio Wander (POC)</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<style>
+  :root{ --bg:#0e1116; --panel:#171b22; --line:#262c36; --text:#eef1f5; --muted:#9aa4b2;
+         --accent:#f5a623; --accent2:#3ea6ff; --good:#37d67a; }
+  *{box-sizing:border-box}
+  html,body{max-width:100%;overflow-x:hidden}
+  body{margin:0;font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+       background:var(--bg);color:var(--text);-webkit-font-smoothing:antialiased}
+  img,svg,.leaflet-container{max-width:100%}
+  .wrap{max-width:640px;margin:0 auto;min-height:100vh;display:flex;flex-direction:column}
+  header{padding:16px 20px 6px}
+  header .kicker{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+  header h1{margin:2px 0 0;font-size:19px;font-weight:600}
+  header .prog{margin-top:5px;font-size:12px;color:var(--muted)}
+  .controls{display:flex;gap:10px;padding:8px 20px 12px;border-bottom:1px solid var(--line)}
+  .btn{flex:1;border:none;border-radius:11px;padding:12px;font-size:15px;font-weight:600;cursor:pointer;
+       background:var(--accent2);color:#08121f}
+  .btn.on{background:var(--good);color:#052813}
+  .btn.ghost{flex:0 0 auto;background:var(--panel);color:var(--muted);border:1px solid var(--line);font-weight:500}
+  .btn.ghost.on{color:var(--text);border-color:var(--accent)}
+  .maprail{position:relative}
+  #map{height:280px;width:100%;background:#0b0e13;z-index:0}
+  .leaflet-container{background:#0b0e13;font:inherit}
+  .overlay{position:absolute;left:12px;right:12px;top:12px;z-index:500;display:none;
+     border-radius:12px;padding:11px 14px;backdrop-filter:blur(6px)}
+  #banner{background:rgba(20,24,31,.92);border:1px solid var(--line)}
+  #banner .w{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent2)}
+  #banner .d{font-weight:600;margin-top:1px}
+  #alert{background:rgba(245,166,35,.16);border:1px solid var(--accent)}
+  #alert .row{display:flex;align-items:center;gap:12px}
+  #alert .txt{flex:1;min-width:0}
+  #alert .w{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--accent)}
+  #alert .n{font-weight:700}
+  #alert .play{flex:none;border:none;background:var(--accent);color:#111;font-weight:700;
+        padding:9px 14px;border-radius:9px;cursor:pointer}
+  main{flex:1;padding:22px 20px 40px}
+  .stop-title{font-size:27px;font-weight:700;line-height:1.15;margin:0 0 4px;overflow-wrap:break-word}
+  .snippet{color:var(--accent);font-style:italic;margin:0 0 18px}
+  .player{display:flex;align-items:center;gap:14px;background:var(--panel);
+          border:1px solid var(--line);border-radius:14px;padding:14px 16px;margin-bottom:20px}
+  .play{flex:none;width:54px;height:54px;border-radius:50%;border:none;cursor:pointer;
+        background:var(--accent);color:#111;font-size:22px;display:grid;place-items:center}
+  .play:active{transform:scale(.95)}
+  .ptxt{flex:1;min-width:0}.ptxt .t{font-weight:600}.ptxt .s{font-size:13px;color:var(--muted)}
+  .bar{height:4px;background:var(--line);border-radius:2px;margin-top:8px;overflow:hidden}
+  .bar>i{display:block;height:100%;width:0;background:var(--accent)}
+  .story{color:#d7dde5}.story p{margin:0 0 14px;overflow-wrap:break-word}
+  .next{margin-top:26px;border-top:1px solid var(--line);padding-top:20px}
+  .next h2{font-size:14px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:0 0 12px}
+  .choice{display:flex;align-items:flex-start;gap:12px;width:100%;text-align:left;cursor:pointer;
+          background:var(--panel);border:1px solid var(--line);border-radius:12px;
+          padding:13px 15px;margin-bottom:10px;color:var(--text)}
+  .choice:hover{border-color:var(--accent2)}
+  .choice .pin{flex:none;width:26px;height:26px;border-radius:50%;background:var(--accent2);
+        color:#08121f;font-weight:700;font-size:13px;display:grid;place-items:center}
+  .choice .meta{flex:1;min-width:0}
+  .choice .meta .n{display:block;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .choice .meta .h{display:block;font-size:13px;color:var(--muted);line-height:1.35}
+  .choice .dist{flex:none;color:var(--accent2);font-weight:700;font-size:13px}
+  .hint{color:var(--muted);font-size:13px}
+  .done{text-align:center;padding:26px 10px;color:var(--muted)}
+  .restart{margin-top:12px;background:none;border:1px solid var(--line);color:var(--text);
+           padding:10px 18px;border-radius:10px;cursor:pointer}
+  .mk{border-radius:50%;display:grid;place-items:center;font-weight:700;box-shadow:0 0 0 2px rgba(0,0,0,.5)}
+  .mk-next{width:24px;height:24px;background:var(--accent2);color:#08121f;font-size:13px;cursor:pointer}
+  .mk-dot{width:11px;height:11px;background:#7f8a99;cursor:pointer}
+  .mk-heard{width:11px;height:11px;background:#3a424e}
+  .mk-me{width:18px;height:18px;background:var(--good);box-shadow:0 0 0 3px rgba(55,214,122,.35),0 0 0 6px rgba(55,214,122,.18)}
+  .mk-me.pulse{animation:pulse 1.6s ease-out infinite}
+  @keyframes pulse{0%{box-shadow:0 0 0 3px rgba(55,214,122,.5),0 0 0 4px rgba(55,214,122,.4)}
+    100%{box-shadow:0 0 0 3px rgba(55,214,122,.0),0 0 0 26px rgba(55,214,122,0)}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="kicker">Audio Wander · Proof of concept</div>
+    <h1>Marseille — Fort Saint-Jean</h1>
+    <div class="prog" id="prog"></div>
+  </header>
+  <div class="controls">
+    <button class="btn" id="walkbtn">🚶 Start walk mode</button>
+    <button class="btn ghost" id="simbtn">Simulate</button>
+  </div>
+  <div class="maprail">
+    <div id="map"></div>
+    <div class="overlay" id="banner"><div class="w" id="bw">Walking to</div><div class="d" id="bd"></div></div>
+    <div class="overlay" id="alert"><div class="row">
+      <div class="txt"><div class="w">🔔 Story nearby</div><div class="n" id="alertn"></div></div>
+      <button class="play" id="alertplay">Play</button></div></div>
+  </div>
+  <main id="main"></main>
+</div>
+
+<script>
+const R=6371000;
+const hav=(a,b)=>{const p1=a.lat*Math.PI/180,p2=b.lat*Math.PI/180,
+  dphi=(b.lat-a.lat)*Math.PI/180,dl=(b.lng-a.lng)*Math.PI/180,
+  x=Math.sin(dphi/2)**2+Math.cos(p1)*Math.cos(p2)*Math.sin(dl/2)**2;
+  return 2*R*Math.asin(Math.sqrt(x));};
+const fmtDist=m=>m<1000?`${Math.round(m)} m`:`${(m/1000).toFixed(1)} km`;
+const fmtMin =s=>`${Math.max(1,Math.round(s/60))} min`;
+const icon=(cls,html='')=>L.divIcon({className:'',html:`<div class="mk ${cls}">${html}</div>`,
+  iconSize:cls.includes('dot')||cls.includes('heard')?[11,11]:cls.includes('me')?[18,18]:[26,26],
+  iconAnchor:cls.includes('dot')||cls.includes('heard')?[5,5]:cls.includes('me')?[9,9]:[13,13]});
+const nearby=(c,seen,n=3)=>TOUR.filter(p=>p.slug!==(c&&c.slug)&&!seen.has(p.slug))
+  .map(p=>({...p,dist:hav(c,p)})).filter(p=>p.dist<=2000).sort((a,b)=>a.dist-b.dist).slice(0,n);
+
+// proximity thresholds (metres)
+const NEAR_M=70, ARRIVE_M=25;
+
+let TOUR=[],heard=new Set(),current=null,curAudio=null;
+let map,markers,routeLine,meMarker;
+let walk=false,sim=false,watchId=null,me=null,alerted=new Set(),audioCtx=null;
+
+async function boot(){
+  TOUR=await (await fetch('tour_data.json')).json();
+  map=L.map('map',{zoomControl:false});
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',
+    {maxZoom:20,attribution:'© OpenStreetMap · © CARTO'}).addTo(map);
+  markers=L.layerGroup().addTo(map);
+  map.on('click',e=>{ if(walk&&sim) onPosition(e.latlng.lat,e.latlng.lng); });
+  document.getElementById('walkbtn').onclick=toggleWalk;
+  document.getElementById('simbtn').onclick=()=>{ sim=!sim;
+    document.getElementById('simbtn').classList.toggle('on',sim);
+    if(sim&&!walk) toggleWalk();
+    if(walk) hintWalk(); };
+  document.getElementById('alertplay').onclick=()=>{ if(alertTarget) arriveAt(alertTarget); hideAlert(); };
+  current=TOUR[0]; renderStory(); drawExplore();
+}
+
+/* ---------------- browse mode (tap to route & travel) ---------------- */
+async function goTo(target){
+  if(walk||!target||target.slug===(current&&current.slug)) return;
+  const from=current; heard.add(from.slug); current=target;
+  renderStory(); play();
+  banner(`Walking to ${target.title}`,'finding route…');
+  try{
+    const r=await (await fetch(`/route?from_lat=${from.lat}&from_lng=${from.lng}&to_lat=${target.lat}&to_lng=${target.lng}`)).json();
+    drawRoute(from,target,r); banner(`Walking to ${target.title}`,`${fmtDist(r.distance_m)} · ${fmtMin(r.duration_s)} walk`);
+  }catch(e){ drawRoute(from,target,{coords:[[from.lat,from.lng],[target.lat,target.lng]]});
+    banner(`Heading to ${target.title}`,`${fmtDist(hav(from,target))} · direct`); }
+}
+function arrivedBrowse(){ hideBanner(); drawExplore(); }
+
+/* ---------------- walk mode (GPS follows you) ---------------- */
+function toggleWalk(){
+  walk=!walk;
+  const b=document.getElementById('walkbtn');
+  b.classList.toggle('on',walk);
+  b.textContent = walk ? '■ Stop walk mode' : '🚶 Start walk mode';
+  if(walk){
+    audioCtx=audioCtx||new (window.AudioContext||window.webkitAudioContext)(); audioCtx.resume&&audioCtx.resume();
+    alerted=new Set(); hideBanner();
+    if(routeLine){map.removeLayer(routeLine);routeLine=null;}
+    hintWalk();
+    if(sim){ if(me) onPosition(me.lat,me.lng); else drawWalk(); }
+    else if(navigator.geolocation){
+      watchId=navigator.geolocation.watchPosition(
+        p=>onPosition(p.coords.latitude,p.coords.longitude),
+        ()=>{ setProg('Location blocked — turn on "Simulate" to test by tapping the map.'); },
+        {enableHighAccuracy:true,maximumAge:1000,timeout:15000});
+    } else setProg('No geolocation — use Simulate.');
+  }else{
+    if(watchId!=null){navigator.geolocation.clearWatch(watchId);watchId=null;}
+    hideAlert(); drawExplore();
+    setProg(`Stop ${heard.size+1} · ${TOUR.length} stories in this area`);
+  }
+}
+function hintWalk(){ setProg(sim ? 'Simulate on — tap the map to “walk”. Get within 70 m of a pin for an alert.'
+                               : 'Walk mode on — following your location. You’ll be alerted near a story.'); }
+
+function onPosition(lat,lng){
+  me={lat,lng};
+  drawWalk();
+  map.panTo([lat,lng],{animate:true});
+  checkProximity();
+}
+function checkProximity(){
+  const unheard=TOUR.filter(p=>!heard.has(p.slug)).map(p=>({p,d:hav(me,p)})).sort((a,b)=>a.d-b.d);
+  // forget alerts for stories we've walked away from (so re-approaching re-alerts)
+  for(const s of [...alerted]){ const p=TOUR.find(x=>x.slug===s); if(!p||hav(me,p)>NEAR_M*1.6) alerted.delete(s); }
+  if(!unheard.length) return;
+  const {p,d}=unheard[0];
+  if(d<=ARRIVE_M){ if(!current||current.slug!==p.slug||curAudio.paused) arriveAt(p); hideAlert(); }
+  else if(d<=NEAR_M && !alerted.has(p.slug)){ alerted.add(p.slug); announce(p,d); }
+}
+let alertTarget=null;
+function announce(p,d){
+  alertTarget=p;
+  document.getElementById('alertn').textContent=`${p.title} · ${fmtDist(d)} away`;
+  show('alert'); chime(); navigator.vibrate&&navigator.vibrate([120,60,120]);
+}
+function arriveAt(p){
+  heard.add(p.slug); current=p; alerted.delete(p.slug);
+  renderStory(); play(); chime();
+  setProg(`Arrived · ${p.title}`);
+  drawWalk();
+}
+
+/* ---------------- rendering ---------------- */
+function renderStory(){
+  if(curAudio){ curAudio.pause(); curAudio.onended=null; curAudio.src=''; curAudio=null; }  // stop any playing story
+  if(!walk) setProg(`Stop ${heard.size+1} · ${TOUR.length} stories in this area`);
+  const html=current.story.split(/\n\n+/).map(p=>`<p>${p}</p>`).join('');
+  document.getElementById('main').innerHTML=`
+    <h2 class="stop-title">${current.title}</h2>
+    <p class="snippet">${current.snippet}</p>
+    <div class="player"><button class="play" id="playbtn">▶</button>
+      <div class="ptxt"><div class="t" id="ptt">Play the story</div>
+        <div class="s">~2 min</div><div class="bar"><i id="pbar"></i></div></div></div>
+    <div class="story">${html}</div>
+    <div class="next" id="next"><h2 id="nexth">Where to next?</h2>
+      <div id="choices"></div>
+      <div class="hint" id="nexthint">Tap a story below — or any pin on the map — to route there.</div></div>`;
+  curAudio=new Audio(current.audio);
+  const btn=document.getElementById('playbtn'),bar=document.getElementById('pbar'),ptt=document.getElementById('ptt');
+  btn.onclick=()=>{curAudio.paused?curAudio.play():curAudio.pause();};
+  curAudio.onplay =()=>{btn.textContent='⏸';ptt.textContent='Playing…';};
+  curAudio.onpause=()=>{btn.textContent='▶';};
+  curAudio.ontimeupdate=()=>{if(curAudio.duration)bar.style.width=(curAudio.currentTime/curAudio.duration*100)+'%';};
+  curAudio.onended=()=>{btn.textContent='▶';ptt.textContent='Story finished';if(!walk)arrivedBrowse();};
+  renderChoices();
+}
+function play(){ curAudio&&curAudio.play().catch(()=>{}); }
+
+function drawExplore(){
+  if(walk) return drawWalk();
+  markers.clearLayers(); if(routeLine){map.removeLayer(routeLine);routeLine=null;}
+  const choices=nearby(current,heard);
+  TOUR.forEach(p=>{ if(p.slug===current.slug||heard.has(p.slug)||choices.find(c=>c.slug===p.slug))return;
+    L.marker([p.lat,p.lng],{icon:icon('mk-dot')}).addTo(markers).on('click',()=>goTo(p)).bindTooltip(p.title,{direction:'top'});});
+  choices.forEach((c,i)=>L.marker([c.lat,c.lng],{icon:icon('mk-next',i+1)}).addTo(markers)
+    .on('click',()=>goTo(c)).bindTooltip(`${c.title} · ${fmtDist(c.dist)}`,{direction:'top'}));
+  L.marker([current.lat,current.lng],{icon:icon('mk-me pulse','')}).addTo(markers).bindTooltip('You are here',{direction:'top'});
+  fit([[current.lat,current.lng],...choices.map(c=>[c.lat,c.lng])]);
+}
+function drawWalk(){
+  markers.clearLayers(); if(routeLine){map.removeLayer(routeLine);routeLine=null;}
+  const unheard=nearby(me||current,heard,3);
+  TOUR.forEach(p=>{
+    if(heard.has(p.slug)){ L.marker([p.lat,p.lng],{icon:icon('mk-heard')}).addTo(markers); return; }
+    if(unheard.find(c=>c.slug===p.slug)) return;
+    L.marker([p.lat,p.lng],{icon:icon('mk-dot')}).addTo(markers).bindTooltip(p.title,{direction:'top'});
+  });
+  unheard.forEach((c,i)=>L.marker([c.lat,c.lng],{icon:icon('mk-next',i+1)}).addTo(markers)
+    .bindTooltip(`${c.title} · ${fmtDist(c.dist)}`,{direction:'top'}));
+  if(me) meMarker=L.marker([me.lat,me.lng],{icon:icon('mk-me pulse','')}).addTo(markers).bindTooltip('You',{direction:'top'});
+  if(!map._loaded||markers.getLayers().length<=1) fit([[(me||current).lat,(me||current).lng],...unheard.map(c=>[c.lat,c.lng])]);
+}
+function drawRoute(from,to,r){
+  markers.clearLayers(); if(routeLine){map.removeLayer(routeLine);routeLine=null;}
+  routeLine=L.polyline(r.coords,{color:'#3ea6ff',weight:5,opacity:.9,dashArray:'1 9',lineCap:'round'}).addTo(map);
+  L.marker([from.lat,from.lng],{icon:icon('mk-me pulse','')}).addTo(markers).bindTooltip('Start',{direction:'top'});
+  L.marker([to.lat,to.lng],{icon:icon('mk-next','◆')}).addTo(markers).bindTooltip(to.title,{direction:'top'});
+  fit(r.coords);
+}
+function fit(pts){ if(pts&&pts.length){ map.fitBounds(pts,{padding:[46,46],maxZoom:17}); setTimeout(()=>map.invalidateSize(),0);} }
+
+function renderChoices(){
+  const list=document.getElementById('choices'); if(!list)return;
+  const choices=nearby(current,heard);
+  if(choices.length===0){ document.getElementById('nexth').textContent='Last stop';
+    document.getElementById('nexthint').textContent='';
+    list.innerHTML=`<div class="done"><div style="font-size:26px">✦</div>
+      <p>That's all ${TOUR.length} stories around Fort Saint-Jean.</p>
+      <button class="restart" onclick="restart()">Start again</button></div>`; return; }
+  list.innerHTML=choices.map((c,i)=>`
+    <button class="choice" onclick="goTo(TOUR.find(p=>p.slug==='${c.slug}'))">
+      <span class="pin">${i+1}</span>
+      <span class="meta"><span class="n">${c.title}</span><span class="h">${c.snippet}</span></span>
+      <span class="dist">${fmtDist(c.dist)}</span></button>`).join('');
+}
+
+/* ---------------- helpers ---------------- */
+function chime(){ try{ const a=audioCtx||new (window.AudioContext||window.webkitAudioContext)(); audioCtx=a;
+  [880,1175].forEach((f,i)=>{ const o=a.createOscillator(),g=a.createGain(); o.type='sine';o.frequency.value=f;
+    o.connect(g);g.connect(a.destination); const t=a.currentTime+i*0.16;
+    g.gain.setValueAtTime(0.0001,t); g.gain.exponentialRampToValueAtTime(0.25,t+0.02);
+    g.gain.exponentialRampToValueAtTime(0.0001,t+0.35); o.start(t); o.stop(t+0.36); }); }catch(e){} }
+function setProg(t){ document.getElementById('prog').textContent=t; }
+function show(id){ document.getElementById(id).style.display='block'; }
+function banner(w,d){document.getElementById('bw').textContent=w;document.getElementById('bd').textContent=d;show('banner');}
+function hideBanner(){document.getElementById('banner').style.display='none';}
+function hideAlert(){document.getElementById('alert').style.display='none';}
+function restart(){heard=new Set();alerted=new Set();current=TOUR[0];renderStory();drawExplore();}
+
+// testing hooks: ?at=lat,lng places a simulated walker at exact coords
+boot().then(()=>{
+  const at=new URLSearchParams(location.search).get('at');
+  if(at){ const [la,ln]=at.split(',').map(Number);
+    sim=true; document.getElementById('simbtn').classList.add('on'); toggleWalk(); onPosition(la,ln); }
+});
+</script>
+</body>
+</html>

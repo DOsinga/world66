@@ -18,7 +18,9 @@ score: 1
 ---
 ```
 
-Body: 2–3 short paragraphs. Lead with the story or the surprising fact. Explain the WHY — why is the name what it is, what happened here, what does this building tell you about the city. Do not write "this is a ..." descriptions that repeat the snippet; add the layer underneath it.
+Body: 2–3 short paragraphs. **Write like a tour guide talking, not like a historian writing.** Short sentences. Punchy. Lead with the hook — the thing that makes someone stop walking. Then the context. Then what it means or what happened next. No biographies. No "X was born in Y and went on to...". If you find yourself writing a long subordinate clause, cut it in half.
+
+The voice: a knowledgeable friend pointing things out as you walk — direct, specific, a little irreverent. The reader is standing in front of it. Give them something to look at or think about, not a lecture.
 
 ## What to include
 
@@ -170,19 +172,27 @@ Commit each logical batch together. Group by neighbourhood or type (artworks, ch
 
 ### 6. What makes a good body text
 
-- Lead with the surprising or non-obvious fact
-- Explain the name etymology if it encodes history
-- Give the historical context that makes the object meaningful
-- End with something about what it's like to stand there, if relevant
-- No need to describe what the object looks like — people can see it
+**Voice: tour guide, not textbook.** Think of the person talking while you walk, not the person writing a Wikipedia article. Specific. Immediate. A bit surprising.
+
+Rules:
+- Lead with the hook — the thing that makes someone stop
+- Short sentences. 15 words is plenty. Break long ones in two.
+- No biography structure ("X was born in Y and went on to...")
+- No throat-clearing ("This building is notable for...")
+- Present tense or vivid past tense — not passive constructions
+- Every paragraph should earn its place: if it's just background, cut it
+- End with something that lands — a consequence, a surprise, a visual detail
+
+**Bad:** "Ernest Reyer was born in Marseille in 1823 and went on to become one of the more distinctive figures in nineteenth-century French music, composing operas that drew on Wagnerian influence at a time when such influences were viewed with suspicion by much of the French musical establishment."
+
+**Good:** "Paris thought Wagner was barbaric. Reyer disagreed — and staged the most successful French opera of his generation to prove it. *Sigurd*, Norse mythology filtered through German technique, ran for years. The statue doesn't look like a rebel, but he was."
 
 ### Examples of good curbside POIs
 
-- A medieval tower named "Dieventoren" (Thieves' Tower) — write about what it was used for
-- A street named "Havik" (Hawk) — write about the falconry that happened there
-- A 17th-century logement named after a gaping face sign — explain the gaaper tradition
-- A Yugoslav partner-city stone — write about the country that no longer exists
-- A street named "Blekerseiland" — explain the textile bleaching process
+- A medieval tower named "Dieventoren" (Thieves' Tower): *"They didn't put criminals in the tower. They hung them from it. The chains are gone but the iron rings aren't."*
+- A street named "Havik" (Hawk): *"Hawks were kept here for the bishop's hunts. The city was a different place."*
+- A WWII memorial plaque: *"Four names. One building. Same week of August 1944."*
+- A 17th-century logement with a gaping face sign: *"The gaaper above the door isn't decoration — it's the original sign for a pharmacy. Open mouth, eyes wide. Something to swallow."*
 
 ### Examples of what to skip
 

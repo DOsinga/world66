@@ -11,9 +11,18 @@ image_source: https://commons.wikimedia.org/wiki/File:2024-09-21_View_of_Nice_1.
 latitude: 43.700936
 loc_type: city
 longitude: 7.268391
+quick_facts:
+  Beaches: Pebbles, not sand
+  Population: 350,000
+  Promenade des Anglais: 7 km long
+  Socca: Chickpea street snack
 score: 9.42
 snippet: Côte d'Azur city where grand seafront promenades meet Vieux Nice lanes and
   a strong Italian accent
+tip: Nice's beaches are pebbles, not sand — bring or rent a mat, and water shoes help.
+  Stroll the Promenade des Anglais and wander the ochre old town (Vieux Nice) for
+  socca, the local chickpea pancake. It's the gateway to the Riviera; trains run east
+  to Monaco and Menton and west to Cannes and Antibes for a few euros.
 title: Nice
 type: location
 ---

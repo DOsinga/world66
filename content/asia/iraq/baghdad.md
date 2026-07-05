@@ -8,9 +8,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Monument_of_martyr.jpg
 latitude: 33.30617
 loc_type: city
 longitude: 44.387221
+quick_facts:
+  Founded: 762 AD
+  House of Wisdom: Heart of Islam's Golden Age
+  On the Tigris: Once world's largest city
+  Population: ~7.5 million
 score: 3.0
 snippet: Tigris capital founded by the Abbasids, once a circular city at the heart
   of the Islamic Golden Age
+tip: Baghdad was once the greatest city in the world, the centre of the Islamic Golden
+  Age and its fabled House of Wisdom. Security has improved but remains volatile —
+  check advisories and travel with local support. Al-Mutanabbi Street, the historic
+  booksellers' row, comes alive on Fridays, and the National Museum holds Mesopotamian
+  treasures.
 title: Baghdad
 type: location
 ---

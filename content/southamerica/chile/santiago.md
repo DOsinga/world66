@@ -10,9 +10,19 @@ image_source: https://commons.wikimedia.org/wiki/File:2019-04-06-12h10m43.jpg
 latitude: -33.4489
 loc_type: city
 longitude: -70.6693
+quick_facts:
+  Founded: '1541'
+  Population: ~7 million (metro)
+  Sky Costanera: Tallest tower in Latin America
+  The Andes: Snow peaks over the skyline
 score: 8.2
 snippet: Chilean capital in a broad valley below the Andes, with mountains visible
   from across the city.
+tip: Santiago sits in a valley with the snow-capped Andes rising dramatically to the
+  east — on a clear day the peaks loom right over the skyline, and you can ski in
+  winter within an hour. Ride the funicular up Cerro San Cristóbal for the view. The
+  Bellavista and Lastarria barrios are best for food and nightlife. Smog can blur
+  the mountains in winter.
 title: Santiago
 type: location
 ---

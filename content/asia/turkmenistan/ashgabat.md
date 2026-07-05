@@ -3,13 +3,23 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-06-04'
 latitude: 37.937832
-longitude: 58.235947
-title: Ashgabat
-type: location
-score: 6.95
 loc_type: city
+longitude: 58.235947
+quick_facts:
+  Door to Hell: A burning gas crater nearby
+  Population: ~1 million
+  Rebuilt: After a 1948 earthquake
+  White Marble: World-record number of buildings
+score: 6.95
 snippet: Ashgabat is Turkmenistan’s desert capital, marked by monumental white-marble
   architecture and Soviet-planned avenues.
+tip: Ashgabat holds the world record for the most white-marble buildings in one city
+  — block after block of gleaming, near-empty monuments, gold statues and fountains.
+  Turkmenistan is one of the hardest countries to enter; you'll likely need a guide
+  and a tour. It is surreal and strictly controlled; follow the rules on photography
+  carefully.
+title: Ashgabat
+type: location
 ---
 
 Ashgabat is one of the world's strangest capitals — a gleaming white marble city marooned in the Karakum desert, built almost entirely to glorify a single man. The late president Saparmurat Niyazov, who renamed himself Turkmenbashi ("Father of All Turkmen"), turned this orderly Soviet garrison town into a monument to his own personality cult. Golden statues of him once rotated to face the sun. Streets were renamed after his mother. The whole city feels less like a place where people live than a stage set for a state that no longer exists.

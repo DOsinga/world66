@@ -7,9 +7,19 @@ done:
 latitude: -23.550651
 loc_type: city
 longitude: -46.633382
+quick_facts:
+  Japanese Community: Biggest outside Japan
+  Largest in: The southern hemisphere
+  MASP: Art gallery on red stilts
+  Population: ~22 million (metro)
 score: 7.89
 snippet: Vast Brazilian megacity where concrete sprawl hides extraordinary immigrant
   food, music, and nightlife.
+tip: São Paulo is the biggest city in the southern hemisphere — a sprawling concrete
+  megacity that lives for food, art and nightlife rather than sights. It has the best
+  restaurants in Brazil and a huge Japanese community (the largest outside Japan)
+  in Liberdade. Skip the beach expectations; come for the museums (MASP), the markets
+  and the energy. The traffic is legendary.
 title: São Paulo
 type: location
 ---

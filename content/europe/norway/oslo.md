@@ -10,9 +10,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Nationaltheatret_evening.j
 latitude: 59.91333
 loc_type: city
 longitude: 10.73897
+quick_facts:
+  On a Fjord: Forest and water all around
+  Opera House: Walk up its marble roof
+  Population: ~700,000
+  Ski from the Metro: Holmenkollen at the line's end
 score: 8.9
 snippet: Compact Nordic capital where harbour museums and modern architecture sit
   minutes from forest trails.
+tip: 'Oslo sits at the head of a fjord, ringed by forest and water — you can swim
+  or sail in summer and ski from the metro''s end in winter. It is strikingly modern:
+  the waterfront Opera House lets you walk up its sloping marble roof. See the Munch
+  museum and the Viking ships. It is very expensive, so self-cater and enjoy the free
+  nature.'
 title: Oslo
 type: location
 ---

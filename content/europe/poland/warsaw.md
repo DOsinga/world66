@@ -11,9 +11,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Castle_Square_(22346p).jpg
 latitude: 52.233374
 loc_type: city
 longitude: 21.071149
+quick_facts:
+  Chopin: The composer's home city
+  Old Town: Rebuilt from WWII rubble
+  Palace of Culture: A 237 m Soviet 'gift'
+  Population: ~1.8 million
 score: 8.24
 snippet: Polish capital rebuilt after wartime destruction, with a reconstructed Old
   Town and layered communist-era cityscape.
+tip: Warsaw's Old Town looks medieval but was painstakingly rebuilt from rubble after
+  WWII flattened the city — it is a UNESCO site precisely for that act of reconstruction.
+  The Soviet-gifted Palace of Culture still dominates the skyline (locals joke its
+  viewing deck has the best view because it's the only spot you can't see the palace).
+  The Chopin and Uprising museums are superb.
 title: Warsaw
 type: location
 ---

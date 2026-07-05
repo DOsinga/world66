@@ -10,9 +10,19 @@ image_source: https://commons.wikimedia.org/wiki/File:AvilaNationalPark201603.jp
 latitude: 10.506093
 loc_type: city
 longitude: -66.914601
+quick_facts:
+  El Ávila: A cable car climbs the mountain
+  Founded: '1567'
+  Population: ~2.9 million
+  Spring-Like: Mild climate year-round
 score: 4.45
 snippet: Venezuelan capital stretched through the Río Guaire valley beneath the green
   wall of Ávila mountain.
+tip: Caracas sits in a green valley below the Ávila mountain, which a cable car climbs
+  for sweeping views to the Caribbean beyond. Venezuela is in deep economic and political
+  crisis, so check advisories carefully and arrange trusted local contacts. The city
+  has a serious crime problem; keep a very low profile, avoid displaying valuables,
+  and don't walk at night.
 title: Caracas
 type: location
 ---

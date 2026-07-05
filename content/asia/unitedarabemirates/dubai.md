@@ -11,9 +11,19 @@ image_source: https://en.wikipedia.org/wiki/File:Burj_Khalifa_2021.jpg
 latitude: 25.2048
 loc_type: city
 longitude: 55.2708
+quick_facts:
+  Burj Khalifa: 828 m, world's tallest
+  Indoor Ski Slope: Snow in the desert
+  Mostly Expats: ~85% of residents
+  Population: ~3.6 million
 score: 9.2
 snippet: Arabian Peninsula metropolis known for the Burj Khalifa, engineered islands,
   and rapid transformation from trading port.
+tip: Dubai is a city of superlatives risen from the desert in a single generation
+  — the Burj Khalifa is the tallest building on earth. Beat the brutal summer heat
+  in the malls and indoor ski slope, or visit in winter for the beaches. For the real
+  soul of the place, cross Dubai Creek in a tiny abra boat and haggle in the gold
+  and spice souks.
 title: Dubai
 type: location
 ---

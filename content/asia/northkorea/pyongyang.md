@@ -5,12 +5,22 @@ done:
 latitude: 39.0194
 loc_type: city
 longitude: 125.7381
+quick_facts:
+  Guides: Mandatory at all times
+  Juche Tower: A 170 m monument
+  Population: ~3 million
+  Ryugyong Hotel: A 330 m pyramid, long unfinished
 score: 2.54
-sources:
-- https://en.wikipedia.org/wiki/Pyongyang
-title: Pyongyang
 snippet: Monumental North Korean capital rebuilt along the Taedong River as a showcase
   of socialist state design
+sources:
+- https://en.wikipedia.org/wiki/Pyongyang
+tip: 'Pyongyang can only be visited on a state-approved guided tour — independent
+  travel is impossible, and you''ll be accompanied at all times. The city is a showcase
+  of monumental socialist architecture: the Juche Tower, vast squares, and the pyramid-shaped
+  Ryugyong Hotel. Follow your guides'' rules to the letter, especially around photographing
+  officials and statues.'
+title: Pyongyang
 type: location
 ---
 

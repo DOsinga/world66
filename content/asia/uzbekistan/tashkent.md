@@ -9,9 +9,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Alisher_Navoi_Opera_and_Ba
 latitude: 41.3123
 loc_type: city
 longitude: 69.2787
+quick_facts:
+  Largest in: Central Asia
+  Metro Stations: Decorated like palaces
+  Population: ~3 million
+  Silk Road Hub: Gateway to Samarkand
 score: 7.78
 snippet: Uzbek capital rebuilt with Soviet boulevards, decorated metro stations, and
   pockets of Silk Road history.
+tip: Tashkent is Central Asia's largest city, rebuilt after a 1966 earthquake, so
+  it is broad, green and Soviet-modern — but the metro is a hidden gem, each station
+  a chandeliered palace. It is the gateway to the Silk Road jewels of Samarkand, Bukhara
+  and Khiva. The Chorsu Bazaar under its blue dome is the place to feel old Tashkent.
 title: Tashkent
 type: location
 ---

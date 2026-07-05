@@ -1,0 +1,302 @@
+{
+  "africa/burkinafaso/gaoua": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 5
+  },
+  "africa/libya/ghat": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 5
+  },
+  "africa/egypt/abydos": {
+    "culture": 7,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 5
+  },
+  "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/doncaster": {
+    "culture": 3,
+    "nature": 2,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "europe/ireland/blarney": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "northamerica/costarica/cur_national_par": {
+    "culture": 2,
+    "nature": 9,
+    "leisure": 5,
+    "adventure": 5
+  },
+  "europe/georgia/pankisi": {
+    "culture": 3,
+    "nature": 6,
+    "leisure": 3,
+    "adventure": 4
+  },
+  "europe/ireland/dun_laoghaire": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "southamerica/argentina/sanmartindelosandes": {
+    "culture": 7,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "northamerica/greenland/qaanaaq": {
+    "culture": 3,
+    "nature": 7,
+    "leisure": 1,
+    "adventure": 8
+  },
+  "northamerica/unitedstates/florida/bocaraton": {
+    "culture": 3,
+    "nature": 5,
+    "leisure": 7,
+    "adventure": 2
+  },
+  "australiaandpacific/guam/dededo": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "europe/france/midi/southern_alps/train_des_pignes": {
+    "culture": 4,
+    "nature": 6,
+    "leisure": 4,
+    "adventure": 4
+  },
+  "europe/estonia/vsu": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "northamerica/unitedstates/virginia/arlington": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "europe/denmark/nexo": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/princetown": {
+    "culture": 4,
+    "nature": 6,
+    "leisure": 4,
+    "adventure": 4
+  },
+  "southamerica/paraguay/filadelfia": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "europe/unitedkingdom/england/south_east/oxford": {
+    "culture": 8,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "australiaandpacific/newzealand/palmerstonnorth": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "europe/italy/lombardia/lagodigarda/salo": {
+    "culture": 4,
+    "nature": 6,
+    "leisure": 4,
+    "adventure": 4
+  },
+  "southamerica/brazil/fozdoiguacu": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "northamerica/unitedstates/northcarolina/mooresville": {
+    "culture": 2,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "europe/unitedkingdom/england/manchester_liverpool_and_north_west/warrington": {
+    "culture": 3,
+    "nature": 2,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "northamerica/unitedstates/southdakota/mountrushmore": {
+    "culture": 7,
+    "nature": 6,
+    "leisure": 3,
+    "adventure": 4
+  },
+  "europe/italy/lazio/cerveteri": {
+    "culture": 8,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "africa/southafrica/krugernationalpark": {
+    "culture": 2,
+    "nature": 7,
+    "leisure": 2,
+    "adventure": 7
+  },
+  "africa/somaliland/xiis": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 5
+  },
+  "europe/unitedkingdom/england/manchester_liverpool_and_north_west/helmshore": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "asia/kyrgyzstan/karakol": {
+    "culture": 3,
+    "nature": 7,
+    "leisure": 1,
+    "adventure": 8
+  },
+  "europe/germany/rhinelandpalatinate/speyer": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "asia/palestinianauthority/ramallah": {
+    "culture": 5,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "asia/china/liaoning/dandong": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "europe/unitedkingdom/scotland/gardenstown": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "africa/libya/jebelakhdar/qasr_libya": {
+    "culture": 7,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 5
+  },
+  "europe/poland/lublin": {
+    "culture": 6,
+    "nature": 3,
+    "leisure": 5,
+    "adventure": 3
+  },
+  "africa/namibia/tsumeb_gateway_to_the_north_and_etosha": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 5
+  },
+  "europe/netherlands/ruinen": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "africa/mozambique/maputo": {
+    "culture": 5,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 5
+  },
+  "northamerica/unitedstates/oklahoma/stillwater": {
+    "culture": 2,
+    "nature": 2,
+    "leisure": 2,
+    "adventure": 3
+  },
+  "northamerica/belize/sanignacio": {
+    "culture": 7,
+    "nature": 5,
+    "leisure": 5,
+    "adventure": 3
+  },
+  "europe/germany/northrhinewestphalia/recklinghausen": {
+    "culture": 3,
+    "nature": 2,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "northamerica/thecaribbean/puertorico/caborojo": {
+    "culture": 3,
+    "nature": 5,
+    "leisure": 5,
+    "adventure": 3
+  },
+  "asia/india/maharashtra/vengurla": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "africa/algeria/granderg": {
+    "culture": 3,
+    "nature": 8,
+    "leisure": 1,
+    "adventure": 9
+  },
+  "australiaandpacific/australia/queensland/magnetic_island": {
+    "culture": 3,
+    "nature": 6,
+    "leisure": 3,
+    "adventure": 4
+  },
+  "europe/sweden/sundsvall": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "europe/belgium/mons": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "europe/austria/linz": {
+    "culture": 6,
+    "nature": 3,
+    "leisure": 5,
+    "adventure": 3
+  },
+  "asia/china/jiangxi/pingxiang": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  }
+}

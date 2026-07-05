@@ -1,0 +1,591 @@
+[
+  {
+    "embedding_text": "Saint-Pierre, Martinique, The Caribbean, North America",
+    "latitude": 14.7419,
+    "longitude": -61.1775,
+    "name": "Saint-Pierre",
+    "parent_chain": [
+      "North America",
+      "The Caribbean",
+      "Martinique"
+    ],
+    "path": "northamerica/thecaribbean/martinique/saintpierre"
+  },
+  {
+    "embedding_text": "Sydney, New South Wales, Australia, Australia, Pacific & Antarctica",
+    "latitude": -33.8698,
+    "longitude": 151.2083,
+    "name": "Sydney",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "New South Wales"
+    ],
+    "path": "australiaandpacific/australia/newsouthwales/sydney"
+  },
+  {
+    "embedding_text": "Cave Creek, Arizona, United States, North America",
+    "latitude": 33.833,
+    "longitude": -111.946,
+    "name": "Cave Creek",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Arizona"
+    ],
+    "path": "northamerica/unitedstates/arizona/cave_creek"
+  },
+  {
+    "embedding_text": "Salmon River, Idaho, United States, North America",
+    "latitude": 45.418993,
+    "longitude": -114.874872,
+    "name": "Salmon River",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Idaho"
+    ],
+    "path": "northamerica/unitedstates/idaho/salmon_river"
+  },
+  {
+    "embedding_text": "Nyangshwe, Myanmar, Asia",
+    "latitude": 20.632,
+    "longitude": 96.901,
+    "name": "Nyangshwe",
+    "parent_chain": [
+      "Asia",
+      "Myanmar"
+    ],
+    "path": "asia/myanmar/nyangshwe"
+  },
+  {
+    "embedding_text": "Bandar-e Anzali, Iran, Asia",
+    "latitude": 37.471636,
+    "longitude": 49.46859,
+    "name": "Bandar-e Anzali",
+    "parent_chain": [
+      "Asia",
+      "Iran"
+    ],
+    "path": "asia/iran/bandareanzali"
+  },
+  {
+    "embedding_text": "Ulyanovsk, Russia, Europe",
+    "latitude": 54.315028,
+    "longitude": 48.403373,
+    "name": "Ulyanovsk",
+    "parent_chain": [
+      "Europe",
+      "Russia"
+    ],
+    "path": "europe/russia/ulyanovsk"
+  },
+  {
+    "embedding_text": "Santa Marta, Colombia, South America",
+    "latitude": 11.2408,
+    "longitude": -74.199,
+    "name": "Santa Marta",
+    "parent_chain": [
+      "South America",
+      "Colombia"
+    ],
+    "path": "southamerica/colombia/santamarta"
+  },
+  {
+    "embedding_text": "Corvallis, Oregon, United States, North America",
+    "latitude": 44.564566,
+    "longitude": -123.262044,
+    "name": "Corvallis",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Oregon"
+    ],
+    "path": "northamerica/unitedstates/oregon/corvallis"
+  },
+  {
+    "embedding_text": "Sosnowiec, Poland, Europe",
+    "latitude": 50.2712,
+    "longitude": 19.2156,
+    "name": "Sosnowiec",
+    "parent_chain": [
+      "Europe",
+      "Poland"
+    ],
+    "path": "europe/poland/sosnowiec"
+  },
+  {
+    "embedding_text": "Altaussee, Austria, Europe",
+    "latitude": 47.6399,
+    "longitude": 13.7641,
+    "name": "Altaussee",
+    "parent_chain": [
+      "Europe",
+      "Austria"
+    ],
+    "path": "europe/austria/altaussee"
+  },
+  {
+    "embedding_text": "Salmon Arm, British Columbia, Canada, North America",
+    "latitude": 50.700506,
+    "longitude": -119.279053,
+    "name": "Salmon Arm",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "British Columbia"
+    ],
+    "path": "northamerica/canada/britishcolumbia/salmonarm"
+  },
+  {
+    "embedding_text": "Cap-Ha\u00eftien, Haiti, The Caribbean, North America",
+    "latitude": 19.7572,
+    "longitude": -72.2041,
+    "name": "Cap-Ha\u00eftien",
+    "parent_chain": [
+      "North America",
+      "The Caribbean",
+      "Haiti"
+    ],
+    "path": "northamerica/thecaribbean/haiti/caphaitien"
+  },
+  {
+    "embedding_text": "Aizawl, Mizoram, India, Asia",
+    "latitude": 23.7272,
+    "longitude": 92.7178,
+    "name": "Aizawl",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Mizoram"
+    ],
+    "path": "asia/india/mizoram/aizawl"
+  },
+  {
+    "embedding_text": "Eski\u015fehir, Turkey, Asia",
+    "latitude": 39.774394,
+    "longitude": 30.519116,
+    "name": "Eski\u015fehir",
+    "parent_chain": [
+      "Asia",
+      "Turkey"
+    ],
+    "path": "asia/turkey/eskisehir"
+  },
+  {
+    "embedding_text": "Mangalagiri, Andhra Pradesh, India, Asia",
+    "latitude": 16.431821,
+    "longitude": 80.568807,
+    "name": "Mangalagiri",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Andhra Pradesh"
+    ],
+    "path": "asia/india/andhrapradesh/mangalagiri"
+  },
+  {
+    "embedding_text": "Plze\u0148, Czech Republic, Europe",
+    "latitude": 49.747741,
+    "longitude": 13.377525,
+    "name": "Plze\u0148",
+    "parent_chain": [
+      "Europe",
+      "Czech Republic"
+    ],
+    "path": "europe/czechrepublic/plzen"
+  },
+  {
+    "embedding_text": "Merizo, Guam, Australia, Pacific & Antarctica",
+    "latitude": 13.268297,
+    "longitude": 144.672611,
+    "name": "Merizo",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Guam"
+    ],
+    "path": "australiaandpacific/guam/merizo"
+  },
+  {
+    "embedding_text": "Port Harcourt, Nigeria, Africa",
+    "latitude": 4.767658,
+    "longitude": 7.018853,
+    "name": "Port Harcourt",
+    "parent_chain": [
+      "Africa",
+      "Nigeria"
+    ],
+    "path": "africa/nigeria/portharcourt"
+  },
+  {
+    "embedding_text": "Armenia, Colombia, South America",
+    "latitude": 4.5339,
+    "longitude": -75.6811,
+    "name": "Armenia",
+    "parent_chain": [
+      "South America",
+      "Colombia"
+    ],
+    "path": "southamerica/colombia/armenia"
+  },
+  {
+    "embedding_text": "St. Aignan, Loire valley, Centre, France, Europe",
+    "latitude": 47.2667,
+    "longitude": 1.3667,
+    "name": "St. Aignan",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Centre",
+      "Loire valley"
+    ],
+    "path": "europe/france/centre/loirevalley/staignan"
+  },
+  {
+    "embedding_text": "Kaua'i, Hawaii, United States, North America",
+    "latitude": 22.050384,
+    "longitude": -159.558862,
+    "name": "Kaua'i",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Hawaii"
+    ],
+    "path": "northamerica/unitedstates/hawaii/kauai"
+  },
+  {
+    "embedding_text": "Kellogg, Idaho, United States, North America",
+    "latitude": 47.5374,
+    "longitude": -116.1246,
+    "name": "Kellogg",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Idaho"
+    ],
+    "path": "northamerica/unitedstates/idaho/kellogg"
+  },
+  {
+    "embedding_text": "Rochester, South East, England, United Kingdom, Europe",
+    "latitude": 51.3884,
+    "longitude": 0.5049,
+    "name": "Rochester",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "South East"
+    ],
+    "path": "europe/unitedkingdom/england/south_east/rochester"
+  },
+  {
+    "embedding_text": "Rhodes City, Rhodes, Greece, Europe",
+    "latitude": 36.4438,
+    "longitude": 28.2274,
+    "name": "Rhodes City",
+    "parent_chain": [
+      "Europe",
+      "Greece",
+      "Rhodes"
+    ],
+    "path": "europe/greece/rhodes/rhodescity"
+  },
+  {
+    "embedding_text": "Nukulaelae atoll, Tuvalu, Australia, Pacific & Antarctica",
+    "latitude": -9.40437,
+    "longitude": 179.852169,
+    "name": "Nukulaelae atoll",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Tuvalu"
+    ],
+    "path": "australiaandpacific/tuvalu/nukulaelaeatoll"
+  },
+  {
+    "embedding_text": "Angra do Heroismo, The Azores, Portugal, Europe",
+    "latitude": 38.659317,
+    "longitude": -27.219558,
+    "name": "Angra do Heroismo",
+    "parent_chain": [
+      "Europe",
+      "Portugal",
+      "The Azores"
+    ],
+    "path": "europe/portugal/theazores/angra_do_heroismo"
+  },
+  {
+    "embedding_text": "Buffalo Gap, Texas, United States, North America",
+    "latitude": 32.2834,
+    "longitude": -99.8326,
+    "name": "Buffalo Gap",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Texas"
+    ],
+    "path": "northamerica/unitedstates/texas/buffalo_gap"
+  },
+  {
+    "embedding_text": "St Vincent Island, Saint Vincent and the Grenadines, North America",
+    "latitude": 13.25,
+    "longitude": -61.2,
+    "name": "St Vincent Island",
+    "parent_chain": [
+      "North America",
+      "Saint Vincent and the Grenadines"
+    ],
+    "path": "northamerica/saintvincentandthegrenadines/stvincentisland"
+  },
+  {
+    "embedding_text": "Troyes, Champagne, East France, France, Europe",
+    "latitude": 48.297163,
+    "longitude": 4.074626,
+    "name": "Troyes",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "East France",
+      "Champagne"
+    ],
+    "path": "europe/france/east/champagne/troyes"
+  },
+  {
+    "embedding_text": "Cabarete, Puerto Plata, Dominican Republic, North America",
+    "latitude": 19.788,
+    "longitude": -70.513,
+    "name": "Cabarete",
+    "parent_chain": [
+      "North America",
+      "Dominican Republic",
+      "Puerto Plata"
+    ],
+    "path": "northamerica/dominicanrepublic/puertoplata/cabarete"
+  },
+  {
+    "embedding_text": "Sneek, Friesland, Netherlands, Europe",
+    "latitude": 53.0335,
+    "longitude": 5.6611,
+    "name": "Sneek",
+    "parent_chain": [
+      "Europe",
+      "Netherlands",
+      "Friesland"
+    ],
+    "path": "europe/netherlands/friesland/sneek"
+  },
+  {
+    "embedding_text": "Inis M\u00f3r, Aran Islands, Ireland, Europe",
+    "latitude": 53.1204,
+    "longitude": -9.7056,
+    "name": "Inis M\u00f3r",
+    "parent_chain": [
+      "Europe",
+      "Ireland",
+      "Aran Islands"
+    ],
+    "path": "europe/ireland/aranislands/inismor"
+  },
+  {
+    "embedding_text": "Palma, Mallorca, Balearic islands, Spain, Europe",
+    "latitude": 39.569582,
+    "longitude": 2.650075,
+    "name": "Palma",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Balearic islands",
+      "Mallorca"
+    ],
+    "path": "europe/spain/balearicislands/mallorca/palma1"
+  },
+  {
+    "embedding_text": "Sisters, Oregon, United States, North America",
+    "latitude": 44.290948,
+    "longitude": -121.549251,
+    "name": "Sisters",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Oregon"
+    ],
+    "path": "northamerica/unitedstates/oregon/sisters"
+  },
+  {
+    "embedding_text": "Sebastopol, North Coast, California, United States, North America",
+    "latitude": 38.402104,
+    "longitude": -122.824222,
+    "name": "Sebastopol",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "California",
+      "North Coast"
+    ],
+    "path": "northamerica/unitedstates/california/northcoast/sebastopol"
+  },
+  {
+    "embedding_text": "Basse-Terre, Guadeloupe, The Caribbean, North America",
+    "latitude": 16.0078,
+    "longitude": -61.7068,
+    "name": "Basse-Terre",
+    "parent_chain": [
+      "North America",
+      "The Caribbean",
+      "Guadeloupe"
+    ],
+    "path": "northamerica/thecaribbean/guadeloupe/basseterre"
+  },
+  {
+    "embedding_text": "Maribor, Slovenia, Europe",
+    "latitude": 46.557644,
+    "longitude": 15.645585,
+    "name": "Maribor",
+    "parent_chain": [
+      "Europe",
+      "Slovenia"
+    ],
+    "path": "europe/slovenia/maribor"
+  },
+  {
+    "embedding_text": "Hildesheim, Lower Saxony, Germany, Europe",
+    "latitude": 52.1527,
+    "longitude": 9.9518,
+    "name": "Hildesheim",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Lower Saxony"
+    ],
+    "path": "europe/germany/lowersaxony/hildesheim"
+  },
+  {
+    "embedding_text": "Solana Beach, California, United States, North America",
+    "latitude": 32.9919,
+    "longitude": -117.2678,
+    "name": "Solana Beach",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "California"
+    ],
+    "path": "northamerica/unitedstates/california/solanabeach"
+  },
+  {
+    "embedding_text": "Kandahar, Afghanistan, Asia",
+    "latitude": 31.6205,
+    "longitude": 65.7158,
+    "name": "Kandahar",
+    "parent_chain": [
+      "Asia",
+      "Afghanistan"
+    ],
+    "path": "asia/afghanistan/kandahar"
+  },
+  {
+    "embedding_text": "Odelouca, Algarve, Portugal, Europe",
+    "latitude": 37.206256,
+    "longitude": -8.513188,
+    "name": "Odelouca",
+    "parent_chain": [
+      "Europe",
+      "Portugal",
+      "Algarve"
+    ],
+    "path": "europe/portugal/algarve/odelouca"
+  },
+  {
+    "embedding_text": "Sanga, Dogon Country, Mali, Africa",
+    "latitude": 14.4684,
+    "longitude": -3.3065,
+    "name": "Sanga",
+    "parent_chain": [
+      "Africa",
+      "Mali",
+      "Dogon Country"
+    ],
+    "path": "africa/mali/dogoncountry/sanga"
+  },
+  {
+    "embedding_text": "Kota Bharu, Malaysia, Asia",
+    "latitude": 6.1254,
+    "longitude": 102.2381,
+    "name": "Kota Bharu",
+    "parent_chain": [
+      "Asia",
+      "Malaysia"
+    ],
+    "path": "asia/malaysia/kotabharu"
+  },
+  {
+    "embedding_text": "Skarsv\u00e5g, North Cape, Norway, Europe",
+    "latitude": 71.112765,
+    "longitude": 25.825204,
+    "name": "Skarsv\u00e5g",
+    "parent_chain": [
+      "Europe",
+      "Norway",
+      "North Cape"
+    ],
+    "path": "europe/norway/northcape/skarsvg_the_nort"
+  },
+  {
+    "embedding_text": "Padua, Veneto, Italy, Europe",
+    "latitude": 45.4077,
+    "longitude": 11.8734,
+    "name": "Padua",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Veneto"
+    ],
+    "path": "europe/italy/veneto/padua"
+  },
+  {
+    "embedding_text": "Salamanca, Central Spain, Spain, Europe",
+    "latitude": 40.9649,
+    "longitude": -5.663,
+    "name": "Salamanca",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Central Spain"
+    ],
+    "path": "europe/spain/centralspain/salamanca"
+  },
+  {
+    "embedding_text": "Reykjavik, Iceland, Europe",
+    "latitude": 64.1466,
+    "longitude": -21.9426,
+    "name": "Reykjavik",
+    "parent_chain": [
+      "Europe",
+      "Iceland"
+    ],
+    "path": "europe/iceland/reykjavik"
+  },
+  {
+    "embedding_text": "Playa Blanca, Lanzarote, Canary Islands, Spain, Europe",
+    "latitude": 28.8632,
+    "longitude": -13.8299,
+    "name": "Playa Blanca",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Canary Islands",
+      "Lanzarote"
+    ],
+    "path": "europe/spain/canaryislands/lanzarote/playa_blanca"
+  },
+  {
+    "embedding_text": "Zanesville, Ohio, United States, North America",
+    "latitude": 39.940143,
+    "longitude": -82.005019,
+    "name": "Zanesville",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Ohio"
+    ],
+    "path": "northamerica/unitedstates/ohio/zanesville"
+  }
+]

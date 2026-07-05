@@ -10,6 +10,10 @@ snippet: Thames-side London town with a green, riverside walks, and Richmond Par
   roaming deer
 title: Richmond
 type: location
+image: richmond.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Red_Deer_Cervus_Elaphus_in_Richmond_Park_2024_02.jpg
+image_license: CC BY 4.0
+image_attribution: Julian Herzog (Website)
 ---
 
 Richmond is one of the most appealing places to spend a day within striking distance of central London — far enough from the centre to feel genuinely unhurried, close enough that you don't need to plan much. The town itself is attractive, with a good high street, a riverside walk along the Thames, and [Richmond Green](/europe/unitedkingdom/england/south_east/richmond/richmond_green) providing a handsome open space a few minutes from the station.

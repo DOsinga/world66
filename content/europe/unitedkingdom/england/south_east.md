@@ -4,11 +4,15 @@ done:
 latitude: 51.468032
 loc_type: region
 longitude: -0.066685
-score: 0.47
-snippet: Compact English region of university towns, chalk downs, seaside resorts,
-  and historic routes to the continent.
-title: South East
+score: 0.64
+snippet: Canterbury, Brighton, Oxford, the Downs, and the coastal gateway from Dover
+  to Portsmouth.
+title: South East England
 type: location
+image: south_east.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Seven_Sisters_Panorama,_East_Sussex,_England_-_May_2009.jpg
+image_license: CC BY-SA 3.0
+image_attribution: David Iliff
 ---
 
 The South East of England stretches from the fringes of [London](/europe/unitedkingdom/england/london) to the coast, packing an extraordinary amount of history, landscape and character into a compact region. This is the part of England closest to the continent, and it has been a gateway, a battleground and a retreat for centuries.

@@ -2,7 +2,7 @@
 done:
   location_cleanup: '2026-04-15'
   location_enrich: '2026-06-03'
-image: ''
+image: gosport.jpg
 latitude: 50.795207
 loc_type: city
 longitude: -1.121085
@@ -15,6 +15,9 @@ title: Gosport
 snippet: Harbour town opposite Portsmouth, defined by naval museums, submarine history,
   and the short Gosport ferry
 type: location
+image_source: https://commons.wikimedia.org/wiki/File:Gosport_Barracks_geograph-4115962-by-Ben-Brooksbank.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Ben Brooksbank
 ---
 
 Gosport sits across the harbour from [Portsmouth](/europe/unitedkingdom/england/portsmouth) and shares its naval heritage without the crowds. The town is home to the [Royal Navy Submarine Museum](/europe/unitedkingdom/england/south_east/gosport/royal_navy_submarine_museum), where you can tour HMS Alliance, a World War II-era submarine preserved in remarkable detail. [Explosion](/europe/unitedkingdom/england/south_east/gosport/explosion_museum), the Museum of Naval Firepower, occupies a former armaments depot on the Gosport waterfront.

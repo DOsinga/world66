@@ -403,9 +403,11 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     if sum(1 for nb in neighbourhoods if nb.image_url) < 3:
         neighbourhoods = []
 
-    # Sort locations by score descending, attach image_url and word_cloud, split into top 9 and rest
-    locations = sorted(locations, key=lambda loc: float(loc.meta.get('score', 0) or 0), reverse=True)
-    for loc in locations:
+    # Attach image_url (+ card_children / word_cloud fallbacks) to a location card.
+    def _enrich_card(loc):
+        if getattr(loc, "_card_enriched", False):
+            return
+        loc._card_enriched = True
         loc_img = _image_path(loc, source_ref)
         loc.image_url = f'{loc.url_prefix}/content-image/{loc_img}' if loc_img else None
         loc.card_children = []
@@ -435,51 +437,64 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
                     loc.word_cloud_center = loc.title
                     loc.word_cloud_top = []
                     loc.word_cloud_bottom = [p.title for p in children]
+
+    # Sort locations by score descending, attach image_url and word_cloud, split into top 9 and rest
+    locations = sorted(locations, key=lambda loc: float(loc.meta.get('score', 0) or 0), reverse=True)
+    for loc in locations:
+        _enrich_card(loc)
     _CARD_THRESHOLD = 18
     _CARD_MAX = 9
     _top_n = len(locations) if len(locations) <= _CARD_THRESHOLD else _CARD_MAX
     top_locations = locations[:_top_n]
     more_locations = sorted(locations[_top_n:], key=lambda loc: loc.title)
 
-    # Issue #2221: on a country with regions, the cities you expect (e.g. Xi'an,
-    # Guilin) sit inside the regions and never surface. Group destinations by
-    # region — image cards for the top locations, then a structured column list
-    # of every region's locations. List all when there aren't too many, else the
-    # top few per region with a "more" link into the region.
+    # Issue #2221: on a country with regions, the cities you expect (e.g. Lyon,
+    # Xi'an) sit inside the regions and never surface. Show image cards for the
+    # top destinations across the whole country — direct or nested in a region —
+    # then a structured column list of every region's locations. List all when
+    # there aren't too many, else the top few per region with a "more" link.
     region_groups = None
     if page.meta.get("loc_type") == "country":
         region_children = [l for l in locations if l.meta.get("loc_type") == "region"]
         if region_children:
             _score = lambda p: float(p.meta.get("score", 0) or 0)
-            # Image cards show the country's direct cities/features; the regions
-            # become the grouped column list below, so their nested cities (the
-            # ones you'd expect but couldn't see) finally surface.
-            direct_children = sorted(
-                (l for l in locations if l.meta.get("loc_type") != "region"),
-                key=_score, reverse=True)
-            _dt_n = len(direct_children) if len(direct_children) <= _CARD_THRESHOLD else _CARD_MAX
-            top_locations = direct_children[:_dt_n]
-            direct_extra = direct_children[_dt_n:]
+            direct_children = [l for l in locations if l.meta.get("loc_type") != "region"]
+            # Gather each region's own locations (the cities that were hidden).
             gathered = []
-            total = len(direct_extra)
+            region_locs = []
             for r in sorted(region_children, key=_score, reverse=True):
                 _, r_locs, _ = r.children()
                 r_locs = sorted(
                     (p for p in r_locs if p.page_type == "location"), key=_score, reverse=True)
-                total += len(r_locs)
                 gathered.append((r, r_locs))
+                region_locs.extend(r_locs)
+            # Cards = best destinations anywhere in the country (direct + nested).
+            candidates = sorted(direct_children + region_locs, key=_score, reverse=True)
+            _dt_n = len(candidates) if len(candidates) <= _CARD_THRESHOLD else _CARD_MAX
+            top_locations = candidates[:_dt_n]
+            for loc in top_locations:
+                _enrich_card(loc)
+            carded = {id(l) for l in top_locations}
             # List every location when the country is small enough; otherwise show
             # the top few per region with a "more" link into the region.
+            total = len(direct_children) + len(region_locs)
             _REGION_LIST_ALL_MAX = 60
             per_limit = None if total <= _REGION_LIST_ALL_MAX else 5
+            _alpha = lambda p: p.title.lower()
             region_groups = []
-            if direct_extra:  # direct cities that didn't fit in the cards
+            # Direct cities/features not already shown as a card get their own group.
+            direct_extra = sorted(
+                (l for l in direct_children if id(l) not in carded), key=_alpha)
+            if direct_extra:
                 region_groups.append({"region": None, "title": page.title,
                     "locations": direct_extra, "more_count": 0})
-            for r, r_locs in gathered:
-                shown = r_locs if per_limit is None else r_locs[:per_limit]
+            # Regions listed alphabetically; each region's cities/features too. When
+            # capped, keep the top few by score as the preview but show them A–Z.
+            for r, r_locs in sorted(gathered, key=lambda g: _alpha(g[0])):
+                selected = r_locs if per_limit is None else r_locs[:per_limit]
+                shown = sorted(selected, key=_alpha)
                 region_groups.append({"region": r, "title": r.title,
-                    "locations": shown, "more_count": len(r_locs) - len(shown)})
+                    "locations": shown, "more_count": len(r_locs) - len(selected)})
             more_locations = []  # replaced by the grouped list below
 
     # For feature pages: cities/locations that tag into this feature via tags: [feature_slug]

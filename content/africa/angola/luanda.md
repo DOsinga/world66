@@ -7,9 +7,18 @@ done:
 latitude: -8.82727
 loc_type: city
 longitude: 13.243951
+quick_facts:
+  Founded: '1576'
+  Oil Boom: Once world's priciest expat city
+  On the Bay: The curving Marginal promenade
+  Population: ~9 million
 score: 5.82
 snippet: Angolan capital on a broad Atlantic bay, shaped by Portuguese rule, oil wealth,
   and seafront bairros.
+tip: Luanda has swung from war-torn to one of the most expensive cities on earth for
+  expats, thanks to offshore oil — budget accordingly, as imported goods cost a fortune.
+  The bayfront Marginal promenade is the place for an evening stroll. Carry kwanza
+  in cash, agree taxi fares first, and don't photograph government buildings.
 title: Luanda
 type: location
 ---

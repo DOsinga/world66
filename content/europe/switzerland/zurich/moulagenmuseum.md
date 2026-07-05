@@ -1,13 +1,15 @@
 ---
-title: "Moulagenmuseum"
-type: poi
 latitude: 47.3768
 longitude: 8.5476
-tags:
-  - things_to_do
-  - museum
-snippet: "Wax models of skin diseases at the medical history museum — strangely beautiful, often grotesque"
 score: 7.8
+snippet: Wax models of skin diseases at the medical history museum — strangely beautiful,
+  often grotesque
+tags:
+- things_to_do
+- museum
+- niederdorf
+title: Moulagenmuseum
+type: poi
 ---
 
 The Moulagenmuseum at the University Hospital is a small but unforgettable specialist museum displaying around 1,800 medical wax models — *moulages* — most produced between 1917 and 1950 by the legendary Zurich modeller Lotte Volger. The wax casts, lifted directly from real patients, depict skin conditions, infectious diseases, war wounds and rare physical abnormalities in extraordinarily realistic detail.

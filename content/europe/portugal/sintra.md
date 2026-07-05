@@ -10,9 +10,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Castelo_dos_Mouros,_Sintra
 latitude: 38.835545
 loc_type: city
 longitude: -9.352237
+quick_facts:
+  Byron: Called it a 'glorious Eden'
+  Elevation: 200 m, cool & misty
+  Initiation Well: Spirals underground
+  Pena Palace Built: '1854'
 score: 9.45
 snippet: Portuguese hill town of royal palaces and misty forests, 40 minutes by train
   from Lisbon.
+tip: Sintra's palaces are scattered over a forested hill, and the queues at Pena Palace
+  are vicious — go at opening, buy tickets online, and use the 434 loop bus or a tuk-tuk
+  between sites; walking uphill eats hours. Day-trip early from Lisbon before the
+  crowds arrive. The microclimate stays cool and misty even when Lisbon bakes.
 title: Sintra
 type: location
 ---

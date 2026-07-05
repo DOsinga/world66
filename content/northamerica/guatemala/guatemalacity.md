@@ -10,9 +10,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Guatemala_City_Vista_2014.
 latitude: 14.6349
 loc_type: city
 longitude: -90.5069
+quick_facts:
+  Largest in: Central America
+  Numbered Zones: Divided into 22 of them
+  Population: ~3 million (metro)
+  Ringed by Volcanoes: Three loom nearby
 score: 6.53
 snippet: Highland Central American capital with a mild valley climate and an underrated
   historic centre
+tip: Guatemala City — 'Guate' — is big, busy and divided into numbered zones; most
+  travellers pass through quickly en route to colonial Antigua or Lake Atitlán. Zona
+  1's historic centre and the excellent archaeology museum (with its Maya jade and
+  stelae) are worth a stop. Use trusted transport, stick to the safer zones, and keep
+  valuables out of sight.
 title: Guatemala City
 type: location
 ---

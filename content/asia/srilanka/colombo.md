@@ -7,9 +7,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Colombo_city_skyline_at_ni
 latitude: 6.9271
 loc_type: city
 longitude: 79.8612
+quick_facts:
+  Galle Face Green: Seafront promenade
+  Pettah Bazaar: A warren of market streets
+  Population: ~750,000
+  Trading Port: Known to Romans & Arabs
 score: 8.03
 snippet: Sri Lankan commercial capital where colonial Fort, Pettah markets, and Galle
   Face meet the Indian Ocean.
+tip: Colombo is Sri Lanka's coastal commercial capital — a mix of colonial Fort, the
+  buzzing Pettah bazaar and the breezy Galle Face Green seafront, where families fly
+  kites and eat isso wade at dusk. Use it as an entry point and stock-up before heading
+  to the hill country and beaches. Tuk-tuks are everywhere; insist on the meter.
 title: Colombo
 type: location
 ---

@@ -10,9 +10,19 @@ image_source: https://commons.wikimedia.org/wiki/File:ANKARA_KOCATEPE_CAM%C4%B0%
 latitude: 39.920776
 loc_type: city
 longitude: 32.85405
+quick_facts:
+  Anatolian Museum: Hittite & Bronze Age treasures
+  Anıtkabir: Atatürk's vast mausoleum
+  Became Capital: '1923'
+  Population: ~5.7 million
 score: 7.4
 snippet: Inland Turkish capital chosen by Atatürk, with its old core clustered around
   Ankara Castle.
+tip: Ankara is Turkey's modern capital — chosen by Atatürk over Istanbul in 1923 —
+  and it is more workmanlike than touristy. The hilltop citadel (Hisar) and the superb
+  Museum of Anatolian Civilizations are the highlights, along with Anıtkabir, Atatürk's
+  monumental mausoleum. Use the metro to get around this spread-out, university-heavy
+  city.
 title: Ankara
 type: location
 ---

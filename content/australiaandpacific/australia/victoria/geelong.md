@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Geelong
 title: Geelong
 type: location
+image: geelong.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Aerial_perspective_of_Geelong_(2).jpg
+image_license: CC BY-SA 4.0
+image_attribution: Bob T
 ---
 
 Geelong is [Victoria](/australiaandpacific/australia/victoria)'s second-largest city, home to over 250,000 people, and sits on the western shore of Port Phillip Bay about an hour's drive from [Melbourne](/australiaandpacific/australia/victoria/melbourne). Long overshadowed by its neighbour, Geelong has reinvented itself in recent years around a revitalised waterfront that is genuinely worth visiting. The painted [bollards](/australiaandpacific/australia/victoria/geelong/geelong_bollards) by artist Jan Mitchell — over 100 of them, each depicting a local historical figure — line the promenade, and the [Eastern Beach](/australiaandpacific/australia/victoria/geelong/eastern_beach) swimming enclosure, carousel, and string of cafes make it a pleasant spot to spend an afternoon.

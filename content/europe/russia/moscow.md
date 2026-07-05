@@ -10,9 +10,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Saint_Basil%27s_Cathedral_
 latitude: 55.625578
 loc_type: city
 longitude: 37.606392
+quick_facts:
+  Founded: '1147'
+  Metro Palaces: Marble-and-chandelier stations
+  Population: ~13 million
+  St Basil's: Nine candy-coloured domes
 score: 8.3
 snippet: Russian capital built around the Kremlin and Red Square, with medieval, imperial,
   and Soviet landmarks.
+tip: Moscow is monumental in scale — Red Square, the Kremlin and the candy-coloured
+  domes of St Basil's are the heart. The metro is a tourist sight in itself, with
+  marble-and-chandelier stations deep underground (also nuclear shelters). It is vast
+  and the distances deceive; ride the metro everywhere. Winters are long and bitter,
+  so visit in summer if you can.
 title: Moscow
 type: location
 ---

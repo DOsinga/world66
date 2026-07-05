@@ -2,13 +2,14 @@
 address: Grossmünsterplatz, 8001 Zürich
 latitude: 47.375951
 longitude: 8.544031
+score: 9.0
 snippet: Zurich's twin-towered Romanesque landmark and Reformation birthplace
 tags:
 - things_to_do
 - landmark
+- niederdorf
 title: Grossmünster
 type: poi
-score: 9.0
 ---
 
 Zurich's most recognizable landmark, the twin-towered Grossmünster has stood above the Limmat since the late 11th century. Legend ties its founding to Charlemagne, though the current structure is Romanesque. This is where Huldrych Zwingli launched the Swiss Reformation in 1519, and the church's history is inseparable from that movement.

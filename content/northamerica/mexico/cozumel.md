@@ -5,7 +5,7 @@ done:
 image: cozumel.jpg
 image_attribution: Sharon Hahn Darlin
 image_license: CC BY 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Cozumel,_Quintana_Roo,_Mexico_-VW_y_la_Playa.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Benito_Juarez_Park,_San_Miguel_de_Cozumel,_Cozumel_Island,_Quintana_Roo,_Mexico.jpg
 latitude: 20.43206
 loc_type: city
 longitude: -86.920691

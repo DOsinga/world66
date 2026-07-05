@@ -5,7 +5,7 @@ done:
 image: rachel.jpg
 image_attribution: Famartin
 image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:2014-07-18_13_11_09_Sign_for_and_view_of_Rachel,_Nevada_from_northbound_Nevada_State_Route_375_about_38.5_miles_north_of_Nevada_State_Route_318.JPG
+image_source: https://commons.wikimedia.org/wiki/File:2014-07-17_15_07_37_View_north_along_Nevada_State_Route_375_about_8.5_miles_south_of_the_Nye_County_Line_in_Rachel,_Nevada.JPG
 latitude: 37.6464
 loc_type: city
 longitude: -115.7465

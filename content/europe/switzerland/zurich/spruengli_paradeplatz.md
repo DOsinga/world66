@@ -11,8 +11,8 @@ story: 'The Sprüngli family split their chocolate business in 1892: the elder s
   independently.'
 tags:
 - bars_and_cafes
-- bahnhofstrasse
 - cafe
+- city_lindenhof
 title: Confiserie Sprüngli (Paradeplatz)
 type: poi
 ---

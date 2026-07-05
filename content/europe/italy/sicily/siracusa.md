@@ -3,9 +3,9 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-29'
 image: siracusa.jpg
-image_attribution: Lucamato
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Siracusa_-_Panorama_da_Forte_Vigliena_all%27alba.jpg
+image_attribution: trolvag
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Lungomare_d%27Ortigia,_Ortygia,_Siracusa_SR,_Sicily,_Italy_-_panoramio.jpg
 latitude: 37.0646
 loc_type: city
 longitude: 15.2907

@@ -1,16 +1,26 @@
 ---
-title: "Tazumal Ruins"
+title: Tazumal Ruins
 type: poi
 tags:
-  - things_to_do
-  - sight
-  - museum
-  - day_trips
+- things_to_do
+- sight
+- museum
+- day_trips
 latitude: 13.9817
 longitude: -89.6833
-story: >
-  Tazumal is El Salvador's most significant Maya archaeological site, with occupation dating from around 100 CE through the Spanish conquest. The largest pyramid was used continuously for over a millennium, which is why it shows architectural layers from different periods. The site takes its name from a Kaqchikel word meaning "pyramid where the victims were burned" — which gives the excavated artifacts a different light.
+story: 'Tazumal is El Salvador''s most significant Maya archaeological site, with
+  occupation dating from around 100 CE through the Spanish conquest. The largest pyramid
+  was used continuously for over a millennium, which is why it shows architectural
+  layers from different periods. The site takes its name from a Kaqchikel word meaning
+  "pyramid where the victims were burned" — which gives the excavated artifacts a
+  different light.
+
+  '
 score: 8.7
+image: tazumal.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Piramid-Tazumal,_Chalchuapa.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Jose Huwaidi
 ---
 
 The Tazumal ruins at Chalchuapa, about 15 km west of Santa Ana, are the best-preserved pre-Columbian site in El Salvador. The main structure is a stepped pyramid about 24 metres high, and the site contains ball courts, drainage channels, and altar platforms spread across a modest but well-maintained archaeological zone.

@@ -15,7 +15,7 @@ type: location
 snippet: Leafy Kyrgyz town on Lake Issyk-Kul, used as a base for Tien Shan trekking.
 ---
 
-Karakol is the main town on the eastern shore of [Lake Issyk-Kul](/asia/kyrgyzstan/lakeissykkul) and the trekking capital of Kyrgyzstan. With a population of around 80,000, it is a quiet, leafy town that serves as the base for some of the country's best multi-day hikes, including the [Ala-Kul trek](/asia/kyrgyzstan/karakol/ala_kul_trek), [Altyn-Arashan hot springs](/asia/kyrgyzstan/karakol/altyn_arashan) and the [Jeti-Oguz Valley](/asia/kyrgyzstan/karakol/jeti_oguz).
+Karakol is the main town on the eastern shore of [Lake Issyk-Kul](/asia/kyrgyzstan/lakeissykkul) and the trekking capital of Kyrgyzstan. With a population of around 80,000, it is a quiet, leafy town that serves as the base for some of the country's best multi-day hikes, including the [Ala-Kul trek](/asia/kyrgyzstan/karakol/ala_kul_trek), [Altyn-Arashan hot springs](/asia/kyrgyzstan/altynarashan) and the [Jeti-Oguz Valley](/asia/kyrgyzstan/jetioguz).
 
 The town itself has a few worthwhile sights. The wooden [Dungan Mosque](/asia/kyrgyzstan/karakol/dungan_mosque), built in 1910 without a single nail and looking more like a Chinese pagoda than a mosque, is unique in Central Asia. The Russian Orthodox [Holy Trinity Cathedral](/asia/kyrgyzstan/karakol/holy_trinity_cathedral), a wooden church surrounded by gardens, is also worth a visit. The [Przhevalsky Museum](/asia/kyrgyzstan/karakol/przhevalsky_museum) commemorates the Russian explorer who died here in 1888.
 

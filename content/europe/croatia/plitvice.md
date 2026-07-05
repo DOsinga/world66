@@ -9,9 +9,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Plitvice_Lakes1.jpg
 latitude: 44.8654
 loc_type: city
 longitude: 15.582
+quick_facts:
+  Colour: Shifts blue to green
+  Lakes: 16, terraced
+  National Park Since: '1949'
+  Travertine: Barriers still growing
 score: 9.67
 snippet: Croatian national park of terraced karst lakes, waterfalls, and boardwalks
   through mineral-bright water
+tip: Plitvice's 16 lakes cascade into each other over travertine barriers — stay on
+  the boardwalks and follow the lettered routes; swimming is banned to protect the
+  formations. Arrive at opening or late afternoon to beat the tour buses, and wear
+  grippy shoes, as the boardwalks get slick with spray.
 title: Plitvice Lakes
 type: location
 ---

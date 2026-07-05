@@ -13,7 +13,6 @@ story: 'The original story is that Jardine Matheson, the great Hong Kong trading
   '
 tags:
 - things_to_do
-- hongkongisland
 - causeway_bay
 - sight
 - history

@@ -3,14 +3,14 @@ address: Wong Tai Sin Estate, Kowloon
 latitude: 22.3443
 longitude: 114.2009
 opening_hours: Daily 7:00–17:30
+score: 7.6
 snippet: Hong Kong's busiest Taoist temple, famous for fortune-telling
 tags:
-- kowloon
 - things_to_do
 - landmark
+- kowloon
 title: Wong Tai Sin Temple
 type: poi
-score: 7.6
 ---
 
 Hong Kong's most popular Taoist temple, visited by over three million worshippers a year. The temple was built in 1973 to traditional principles — red pillars, golden roof, blue friezes, yellow lattice — and is dedicated to Wong Tai Sin, a legendary shepherd who learned the art of healing. The main draw is fortune-telling: worshippers shake numbered sticks from a bamboo container before the altar and take the corresponding stick to a soothsayer at one of the booths around the perimeter. The activity covers everything from business decisions to race tips.

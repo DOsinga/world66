@@ -2,6 +2,9 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-21'
+image: trujillo_1.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Cathedral_of_Trujillo,_Peru_01.jpg
 latitude: -8.111678
 loc_type: city
 longitude: -79.028774

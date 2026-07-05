@@ -11,11 +11,20 @@ image_source: https://commons.wikimedia.org/wiki/File:Pudong_Shanghai_November_2
 latitude: 31.231271
 loc_type: city
 longitude: 121.470015
+quick_facts:
+  Busiest Port: 'World''s #1 by cargo'
+  Maglev Train: Hits 431 km/h to the airport
+  Population: ~25 million
+  The Bund: Colonial-era riverfront
 score: 9.37
 snippet: Cosmopolitan Chinese megacity where Bund-era finance houses face Pudong's
   towers across the Huangpu.
 sources:
 - https://en.wikivoyage.org/wiki/Shanghai
+tip: Shanghai splits in two across the Huangpu River — the colonial Bund on one side,
+  the futuristic Pudong skyline on the other. Walk the Bund at night when Pudong lights
+  up. The Metro is vast, cheap and signed in English. Get lost in the lane-house (lilong)
+  neighbourhoods of the former French Concession for the city's quieter, leafier soul.
 title: Shanghai
 type: location
 ---

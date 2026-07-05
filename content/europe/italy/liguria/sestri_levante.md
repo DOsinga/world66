@@ -9,13 +9,15 @@ latitude: 44.2715
 loc_type: city
 longitude: 9.3959
 score: 8.73
-title: Sestri Levante
-type: location
 snippet: Ligurian seaside town on a narrow peninsula, defined by the calm Baia del
   Silenzio.
+tags:
+- tigullio
+title: Sestri Levante
+type: location
 ---
 
-Sestri Levante is a small Ligurian town on a narrow peninsula, roughly halfway between Genoa and La Spezia. While the [Cinque Terre](/europe/italy/liguria/italianriviera/thecinqueterre) and [Portofino](/europe/italy/liguria/portofino) get most of the attention on this stretch of coast, Sestri has become a favourite with Italians who want the same beauty with slightly less tourist pressure — though on summer weekends the narrow streets fill quickly.
+Sestri Levante is a small Ligurian town on a narrow peninsula, roughly halfway between Genoa and La Spezia. While the [Cinque Terre](/europe/italy/liguria/cinque_terre) and [Portofino](/europe/italy/liguria/portofino) get most of the attention on this stretch of coast, Sestri has become a favourite with Italians who want the same beauty with slightly less tourist pressure — though on summer weekends the narrow streets fill quickly.
 
 The peninsula has two bays. The [Baia del Silenzio](/europe/italy/liguria/sestri_levante/baia_del_silenzio) (Bay of Silence) on the northwest side is the more atmospheric — a crescent of calm water backed by pastel-coloured houses with no through traffic, the boats pulled up on the sand. The [Baia delle Favole](/europe/italy/liguria/sestri_levante/baia_delle_favole) (Bay of Fairy Tales) faces south and is larger and livelier, with a longer beach and more beach facilities. The name of the Baia delle Favole comes from Hans Christian Andersen, who stayed in Sestri Levante and reportedly named the bay himself.
 

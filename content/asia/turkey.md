@@ -59,7 +59,7 @@ One thing worth knowing: Turkey has had a turbulent decade politically, with a f
 - [Edremit](/asia/turkey/edremit) — northern Aegean base for Mount Ida, olive country, thermal villages, and gulf beaches
 - [Kusadasi](/asia/turkey/kusadasi) — cruise-ship port and base for Ephesus
 - [Alanya](/asia/turkey/alanya) — beach resort on the eastern Mediterranean coast
-- [Pamukale](/asia/turkey/pamukale) — the white calcium terraces and ancient Hierapolis above them
+- [Pamukale](/asia/turkey/gallipoli_troy/pamukkale) — the white calcium terraces and ancient Hierapolis above them
 - [Aphrodisias](/asia/turkey/aphrodisias) — underrated Roman site inland from the coast
 - [Dogubeyazit](/asia/turkey/dogubeyazit) — border town below Mount Ararat
 - [Edirne](/asia/turkey/edirne) — Ottoman city near the Greek and Bulgarian borders

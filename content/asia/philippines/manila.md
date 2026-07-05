@@ -12,9 +12,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Allan_Jay_Quesada_-_Manila
 latitude: 14.590449
 loc_type: city
 longitude: 120.980362
+quick_facts:
+  Among Earth's Densest: City proper
+  Founded: '1571'
+  Intramuros: Old Spanish walled city
+  Population: ~14 million (metro)
 score: 7.32
 snippet: Dense Philippine capital on Manila Bay, where Intramuros, Chinatown, malls,
   and working districts collide.
+tip: Manila is dense, chaotic and sprawling — the historic core is Intramuros, the
+  old Spanish walled city, best explored by bamboo bike or kalesa horse-cart. Watch
+  the sunset over Manila Bay from the baywalk. Traffic is famously punishing, so plan
+  around it. Filipinos speak excellent English, which makes the city easy to navigate.
 title: Manila
 type: location
 ---

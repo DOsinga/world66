@@ -18,7 +18,7 @@ title: Hermosa Beach
 type: location
 ---
 
-Hermosa Beach is the livelier, less polished middle child of the South Bay beach towns, squeezed between [Manhattan Beach](/northamerica/unitedstates/california/manhattenbeach) and Redondo Beach. It has a short downtown, a broad strand of sand, and enough bars around Pier Avenue to make it feel younger than its neighbours.
+Hermosa Beach is the livelier, less polished middle child of the South Bay beach towns, squeezed between [Manhattan Beach](/northamerica/unitedstates/california/manhattan_beach) and Redondo Beach. It has a short downtown, a broad strand of sand, and enough bars around Pier Avenue to make it feel younger than its neighbours.
 
 The beach is the point. Volleyball nets line the sand, the paved Strand runs along the coast, and the [Hermosa Beach Pier](/northamerica/unitedstates/california/hermosabeach/hermosa_beach_pier) gives the town its natural meeting place. Nearby, the [Lighthouse Cafe](/northamerica/unitedstates/california/hermosabeach/lighthouse_cafe) keeps alive a real jazz history that most casual beach visitors miss.
 

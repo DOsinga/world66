@@ -1,16 +1,20 @@
 ---
-latitude: 44.3291
+latitude: 44.33
 loc_type: city
-longitude: 8.5062
-score: 7.61
-snippet: Twin Ligurian coastal towns west of Savona, long associated with ceramics
-  and tiled public art.
+longitude: 8.505
+score: 7.62
+snippet: Adjacent Ligurian coast towns known for centuries of ceramic workshops and
+  a mosaic-tiled seafront promenade.
+tags:
+- italianriviera
 title: Albisola and Albissola
 type: location
 ---
 
-Albisola — actually two distinct municipalities, Albisola Superiore and Albissola Marina — sits on the Ligurian coast just west of [Savona](/europe/italy/liguria/savona). The twin towns are best known across Italy as the centre of Ligurian ceramics: pottery has been made here since at least the fifteenth century, and the tradition is still very much alive. A walk along the marina promenade at Albissola brings you past ceramic tiles embedded into the pavement, a public art project involving some of the most significant Italian artists of the twentieth century, including Lucio Fontana and Aligi Sassu, who worked here in the 1960s.
+Albisola and Albissola Marina are two adjacent towns on the Ligurian coast between Savona and Genoa, so closely merged that they function as one place. The distinction is largely administrative: Albisola Superiore is the older hilltop settlement, while Albissola Marina runs along the seafront. Both are known primarily for ceramics — the towns have been producing distinctive Ligurian pottery since the 15th century, and today a mosaic-tiled promenade along the seafront celebrates that heritage with artworks embedded in the path.
 
-The beach is sandy and well-kept, and the town has a pleasantly unhurried pace compared with the bigger Riviera resorts. The main Aurelia road and the railway line connect Albisola directly to Savona (ten minutes) and to Genoa in under an hour, making it an easy base or day trip from either. Getting there is straightforward: the A10 motorway has an Albisola exit, and the Ferrovie dello Stato station at Albisola puts you on the Genova–Ventimiglia line.
+The ceramics tradition is still alive in the workshops and galleries clustered along the old town streets. Artists including Lucio Fontana worked here in the 20th century, drawn by the craft tradition. The Museo della Ceramica Manlio Trucco in Albissola Marina documents the history of local production. You can visit working studios and buy directly from potters.
 
-The local cuisine follows the Ponente Ligure tradition — pesto, trofie pasta, olive-inflected sauces, and the celebrated focaccia al formaggio from nearby Recco. The port area has a handful of restaurants serving fresh fish, and the surrounding hills are Ligurian olive-oil country.
+The beach is sandy and faces southwest, which means good afternoon sun and shelter from the tramontane. Getting there is straightforward: the Genoa-Ventimiglia railway stops at Albisola station, the A10 motorway exits nearby, and Genoa airport is about 20 km east. The towns are small enough to explore on foot, and the Ligurian coast has its characteristic atmosphere of easy outdoor eating, olive oil, pesto, and fresh seafood.
+
+*Europe > Italy > Liguria > Italian Riviera > Albisola and Albissola*

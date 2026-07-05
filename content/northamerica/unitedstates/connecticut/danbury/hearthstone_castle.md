@@ -6,8 +6,8 @@ tags:
   - things_to_do
   - sight
   - architecture
-latitude: 41.3760
-longitude: -73.4550
+latitude: 41.3781
+longitude: -73.4486
 score: 6.4
 ---
 

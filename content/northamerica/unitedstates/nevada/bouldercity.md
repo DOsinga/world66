@@ -3,9 +3,9 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-29'
 image: bouldercity.jpg
-image_attribution: Ken Lund from Reno, Nevada, USA
-image_license: CC BY-SA 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Boulder_City,_Nevada_(14413240891).jpg
+image_attribution: Giorgio Galeotti
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Boulder_Beach_-_Boulder_City,_Nevada,_USA_-_August_1995.jpg
 latitude: 35.9788
 loc_type: city
 longitude: -114.8338

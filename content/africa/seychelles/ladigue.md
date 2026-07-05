@@ -11,10 +11,19 @@ image_source: https://commons.wikimedia.org/wiki/File:198_Granite_rock_in_La_Dig
 latitude: -4.3601
 loc_type: city
 longitude: 55.8385
+quick_facts:
+  Anse Source d'Argent: Most-photographed beach
+  Area: 10 km²
+  Cars: Almost none
+  Population: ~2,800
 score: 9.45
-title: La Digue
 snippet: Small Seychelles island of granite boulder beaches, bicycle lanes, and ox
   carts around La Passe.
+tip: La Digue has almost no cars — you get around by bicycle, and that's the joy of
+  it. Anse Source d'Argent, with its sculpted granite boulders, is one of the most
+  photographed beaches on Earth; go early before the light flattens. Giant tortoises
+  roam freely. Ferries from Praslin are quick; from Mahé, longer.
+title: La Digue
 type: location
 ---
 

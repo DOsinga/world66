@@ -11,9 +11,18 @@ image_source: https://commons.wikimedia.org/wiki/File:%EC%A4%91%ED%99%94%EC%A0%8
 latitude: 37.566679
 loc_type: city
 longitude: 126.978291
+quick_facts:
+  Capital Since: '1394'
+  Joseon Palaces: Five grand ones
+  Metro Population: 26 million
+  Subway Wi-Fi: Among world's fastest
 score: 9.61
 snippet: Vast Korean capital on the Han River, where neon districts stand beside Joseon
   palaces and mountain walls.
+tip: Seoul's subway is one of the world's best — clean, cheap, signed in English,
+  with a T-money card for everything. The city runs late; districts like Hongdae and
+  Gangnam buzz past midnight. Rent a hanbok and you'll get into the palaces free.
+  Korean BBQ is best where it's smoky and crowded.
 title: Seoul
 type: location
 ---

@@ -3,9 +3,9 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-12'
 image: glendalough.jpg
-image_attribution: Denzillacey
+image_attribution: Մարի Ավետիսյան
 image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Glendalough,_Co._Wicklow_-_2022.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Glendalough,_County_Wicklow,_Ireland_008.jpg
 latitude: 53.010554
 loc_type: city
 longitude: -6.32737

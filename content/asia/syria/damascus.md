@@ -11,9 +11,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Al-Hamidiyah_Souq_02.jpg
 latitude: 33.5138
 loc_type: city
 longitude: 36.2765
+quick_facts:
+  Among Earth's Oldest: Continuously inhabited cities
+  Population: ~2.5 million
+  Straight Street: Named in the Bible
+  Umayyad Mosque: One of Islam's oldest & grandest
 score: 4.12
 snippet: Syrian capital with an ancient walled old city, covered souks, and the Umayyad
   Mosque.
+tip: Damascus claims to be one of the oldest continuously inhabited cities on earth.
+  Syria has been devastated by war, so check advisories — most warn against all travel.
+  In peaceful times the walled Old City, the magnificent Umayyad Mosque and the covered
+  Al-Hamidiyah souk were among the great sights of the Middle East. Any visit needs
+  careful local arrangement.
 title: Damascus
 type: location
 ---

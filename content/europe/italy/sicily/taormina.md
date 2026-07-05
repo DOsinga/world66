@@ -4,14 +4,24 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-12'
 image: taormina.jpg
-image_attribution: Berthold Werner
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Taormina_BW_2025-04-27_09-32-30.jpg
+image_attribution: Scott Wylie
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Taormina_Sicily_04.jpg
 latitude: 37.8512
 loc_type: city
 longitude: 15.283
+quick_facts:
+  Elevation: 200 m
+  Frames: Smoking Mt Etna
+  Greek Theatre: 3rd century BC
+  Jet-Set: A retreat since the 1900s
 score: 9.48
 snippet: Cliffside Sicilian town where a Greek theatre faces Mount Etna and the Mediterranean
+tip: Taormina clings to a cliff with Mt Etna smoking on the horizon — the ancient
+  Greek Theatre frames the volcano perfectly, so go for sunset. The town is steep
+  and the 'beach' is far below, reached by cable car to Isola Bella. It packs out
+  and prices spike in summer, so come in spring or autumn. Etna day trips and tastings
+  leave from here.
 title: Taormina
 type: location
 ---

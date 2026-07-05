@@ -11,9 +11,18 @@ image_source: https://commons.wikimedia.org/wiki/File:December_10,_2006,_Lisbon_
 latitude: 38.707751
 loc_type: city
 longitude: -9.136592
+quick_facts:
+  Age: Older than Rome
+  Hills: Built on seven
+  Population: 550,000
+  Tram 28: Vintage hill rattler
 score: 9.44
 snippet: Hilly Portuguese capital on the Tagus, shaped by Pombaline avenues, Alfama
   lanes, and Atlantic light.
+tip: Lisbon is built on seven hills, so save your legs with the vintage trams (line
+  28 is the scenic classic, and pickpocket-prone, so guard your bag) and the funiculars.
+  Pastéis de nata are best in Belém, from the original bakery. The Alfama district
+  is the soul of fado music. Tap a Viva Viagem card for transport.
 title: Lisbon
 type: location
 ---

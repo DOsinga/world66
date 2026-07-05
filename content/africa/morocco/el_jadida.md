@@ -1,10 +1,19 @@
 ---
+done:
+  location_cleanup: '2026-04-07'
+  location_enrich: '2026-06-02'
+image: el_jadida.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Forteresse_Jadida_01.JPG
 latitude: 33.2316
 loc_type: city
 longitude: -8.5007
 score: 7.73
 snippet: Moroccan Atlantic port whose Portuguese-built Mazagan walls and vaulted cistern
   preserve a fortified colonial medina.
+sources:
+- https://en.wikipedia.org/wiki/El_Jadida
+- https://en.wikipedia.org/wiki/Portuguese_Cistern_(Mazagan)
 title: El Jadida
 type: location
 ---

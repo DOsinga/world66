@@ -14,7 +14,7 @@ from django.utils.safestring import mark_safe
 
 from . import github
 from .models import (
-    CONTENT_DIR, NAV_TYPES, build_city_tag_index, find_tagged_pois,
+    CONTENT_DIR, NAV_TYPES, build_city_tag_index, find_tagged_pois, find_locations_tagged,
     load_page, load_page_from_revision, load_tag_index, resolve_tag_route, _find_city_path,
 )
 
@@ -435,31 +435,56 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
                     loc.word_cloud_center = loc.title
                     loc.word_cloud_top = []
                     loc.word_cloud_bottom = [p.title for p in children]
-    top_locations = locations[:9]
-    more_locations = sorted(locations, key=lambda loc: loc.title)
+    _CARD_THRESHOLD = 18
+    _CARD_MAX = 9
+    _top_n = len(locations) if len(locations) <= _CARD_THRESHOLD else _CARD_MAX
+    top_locations = locations[:_top_n]
+    more_locations = sorted(locations[_top_n:], key=lambda loc: loc.title)
 
     # For feature pages: cities/locations that tag into this feature via tags: [feature_slug]
     linked_locations = []
+    more_linked_locations = []
     if page.meta.get('loc_type') == 'feature':
-        tag_index = load_tag_index()
         linked_locations = sorted(
-            [p for p in tag_index.get(page.slug, []) if p.page_type == 'location'],
+            find_locations_tagged(page.slug, page.path),
             key=lambda p: float(p.meta.get('score', 0) or 0), reverse=True,
         )
         for loc in linked_locations:
             loc_img = _image_path(loc, source_ref)
             loc.image_url = f'{loc.url_prefix}/content-image/{loc_img}' if loc_img else None
+        _ll_top_n = len(linked_locations) if len(linked_locations) <= _CARD_THRESHOLD else _CARD_MAX
+        more_linked_locations = sorted(linked_locations[_ll_top_n:], key=lambda p: p.title)
+        linked_locations = linked_locations[:_ll_top_n]
 
-    # Inspiration image strip for section pages — up to 12 POI images
-    poi_images = []
-    if page.page_type in NAV_TYPES:
+    # For section pages (e.g. day_trips): explicit linked_locations: paths in frontmatter
+    elif page.meta.get('linked_locations'):
+        for loc_path in page.meta['linked_locations']:
+            loc = (load_page_from_revision(loc_path, source_ref, url_revision=url_revision)
+                   if source_ref else load_page(loc_path))
+            if not loc or loc.page_type != 'location':
+                continue
+            loc_img = _image_path(loc, source_ref)
+            loc.image_url = f'{loc.url_prefix}/content-image/{loc_img}' if loc_img else None
+            linked_locations.append(loc)
+
+    # Day-trip cards: linked destinations + any genuine-attraction POIs kept in
+    # the section, rendered together as one card grid.
+    daytrip_cards = None
+    if page.page_type == 'section' and linked_locations:
+        daytrip_cards = [
+            {'url': loc.get_absolute_url(), 'title': loc.title,
+             'image_url': getattr(loc, 'image_url', None), 'snippet': loc.meta.get('snippet', '')}
+            for loc in linked_locations
+        ]
         for poi in pois:
             img_path = _image_path(poi, source_ref)
-            if img_path:
-                href = (poi_context_prefix + poi.slug) if poi_context_prefix else poi.get_absolute_url()
-                poi_images.append({'url': f'{poi.url_prefix}/content-image/{img_path}', 'title': poi.title, 'href': href})
-            if len(poi_images) >= 12:
-                break
+            url = (poi_context_prefix + poi.slug) if poi_context_prefix else poi.get_absolute_url()
+            daytrip_cards.append({
+                'url': url, 'title': poi.title,
+                'image_url': f'{poi.url_prefix}/content-image/{img_path}' if img_path else None,
+                'snippet': poi.meta.get('snippet', '') or '',
+            })
+
 
     # For small city pages (< 8 POIs total): inline sections directly instead of section cards
     inline_sections = None
@@ -487,9 +512,11 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
                 for s, sp in candidate_sections
             ]
 
-    # Map markers: top 9 for initial view, all locations for dynamic zoom filtering
-    markers = _collect_markers(page, nav_pages, top_locations, pois, city_tag_index=city_tag_index)
-    markers_full = _collect_markers(page, nav_pages, locations, pois, city_tag_index=city_tag_index)
+    _all_linked = linked_locations + more_linked_locations
+    _map_top = top_locations + (linked_locations if _all_linked else [])
+    _map_all = locations + (_all_linked if _all_linked else [])
+    markers = _collect_markers(page, nav_pages, _map_top, pois, city_tag_index=city_tag_index)
+    markers_full = _collect_markers(page, nav_pages, _map_all, pois, city_tag_index=city_tag_index)
 
     breadcrumbs = page.breadcrumbs()
 
@@ -525,9 +552,10 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "is_poi": page.page_type == "poi",
         "poi_categories": poi_categories,
         "poi_context_prefix": poi_context_prefix,
-        "poi_images": poi_images,
         "inline_sections": inline_sections,
         "linked_locations": linked_locations,
+        "daytrip_cards": daytrip_cards,
+        "more_linked_locations": more_linked_locations,
         "url_prefix": page.url_prefix,
     })
 
@@ -609,7 +637,7 @@ def _marker_from_page(page, highlight=False):
     return None
 
 
-def _collect_markers(page, nav_pages, locations, pois, city_tag_index=None):
+def _collect_markers(page, nav_pages, locations, pois, city_tag_index=None, extra_locations=None):
     markers = []
     seen = set()
 
@@ -619,6 +647,11 @@ def _collect_markers(page, nav_pages, locations, pois, city_tag_index=None):
             markers.append(m)
 
     for loc in locations:
+        add(_marker_from_page(loc))
+
+    # Linked destinations (e.g. day-trip locations on a section page) so the
+    # map shows them alongside any genuine-attraction POIs in the section.
+    for loc in extra_locations or []:
         add(_marker_from_page(loc))
 
     page_is_sight = page.slug in _SIGHT_SLUGS

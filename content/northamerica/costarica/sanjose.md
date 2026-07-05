@@ -7,9 +7,19 @@ done:
 latitude: 9.9281
 loc_type: city
 longitude: -84.0907
+quick_facts:
+  Elevation: ~1,170 m, mild climate
+  Gold Museum: Pre-Columbian treasure underground
+  National Theatre: A gilded 1897 jewel
+  Population: ~340,000 (metro ~2M)
 score: 7.61
 snippet: Central Valley capital of Costa Rica, with pre-Columbian museums, busy plazas,
   and a mild highland climate.
+tip: San José sits in the cool Central Valley at 1,170 m, ringed by green volcanoes
+  and coffee country. It is a working capital more than a sight — most travellers
+  use it as a hub before the beaches and cloud forests. Don't miss the Gold and Jade
+  museums and the ornate National Theatre. Use it to acclimatise, then head out; 'pura
+  vida'.
 title: San José
 type: location
 ---

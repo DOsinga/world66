@@ -11,9 +11,9 @@ score: 6.35
 title: Nonthaburi
 type: location
 image: nonthaburi_2.jpg
-image_source: https://commons.wikimedia.org/wiki/File:1%E0%B8%A8%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%81%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Boatman_on_the_Chao_Phraya_river_in_Nonthaburi_province_Thailand.jpg
 image_license: CC BY-SA 4.0
-image_attribution: Saknirun
+image_attribution: Sgroey
 snippet: Riverside city just north of Bangkok, greener and slower around Chao Phraya
   piers and canals.
 ---

@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-30'
 latitude: 45.251701
-loc_type: city
+loc_type: feature
 longitude: 11.13572
 score: 6.74
 snippet: Flat Veronese agricultural plain south of Verona, dotted with castles and

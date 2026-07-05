@@ -12,6 +12,10 @@ tags:
 - langata
 title: David Sheldrick Wildlife Trust
 type: poi
+image: david_sheldrick_wildlife_trust.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Tourists_viewing_orphaned_elephants_at_Sheldrick_Wildlife_Trust,_Nairobi,_Kenya.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Daniel Case
 ---
 
 The David Sheldrick Wildlife Trust runs an elephant orphanage at the edge of Nairobi National Park in Langata, rescuing and rehabilitating elephant and rhino calves whose mothers have been killed by poachers or who have become separated from their herds. Founded by Daphne Sheldrick, it is one of the most successful elephant conservation programmes in Africa.

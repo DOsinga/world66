@@ -18,7 +18,7 @@ image_license: GFDL 1.2
 image_attribution: Ralf Roletschek
 ---
 
-Edzna is the best half-day escape from [Campeche](/northamerica/mexico/campeche): a large Maya city sitting quietly in the hot, open country southeast of town. It does not have the fame of Chichen Itza or Palenque, and that is part of the pleasure. You can stand in the main plaza, look up at the five-storey temple, and feel the scale without fighting a crowd.
+Edzna is the best half-day escape from [Campeche](/northamerica/mexico/yucatan/campeche_campeche): a large Maya city sitting quietly in the hot, open country southeast of town. It does not have the fame of Chichen Itza or Palenque, and that is part of the pleasure. You can stand in the main plaza, look up at the five-storey temple, and feel the scale without fighting a crowd.
 
 The city was occupied for many centuries and became a regional capital between about 400 and 1000 AD. Its builders had to solve a practical problem before they could build a great ceremonial centre: the low valley flooded in the rainy season. Edzna's canals, reservoirs, and raised fields turned difficult ground into a working city.
 

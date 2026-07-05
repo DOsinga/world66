@@ -2,16 +2,16 @@
 latitude: 43.2939302
 longitude: 5.3884661
 score: 1
-snippet: A small, intimate theatre in Marseille whose name — tétard, meaning tadpole
-  — hints at something still becoming.
+snippet: Tétard means tadpole — everything here is still growing legs
 tags:
 - curbside
 title: Théâtre du Tétard
 type: poi
 ---
 
-The Théâtre du Tétard takes its curious name from the French word for tadpole, and that image of something mid-transformation is entirely deliberate. This small Marseille theatre positions itself as a space for emerging artists, experimental work, and theatrical ideas that are still finding their final form — like a tadpole yet to grow its legs.
 
-Tucked into a residential stretch of the city, the venue operates on a human scale that larger, state-funded houses cannot easily replicate. Productions tend toward the personal and the provisional: new scripts being road-tested, physical theatre from young companies, and performances that treat the audience as co-conspirators rather than passive observers. The name doubles as a manifesto — nothing here pretends to be finished.
+A tadpole is mid-transformation — not yet what it's going to be. That image was chosen deliberately. This is a theatre for emerging artists, new scripts being road-tested, physical theatre from young companies still figuring out their shape.
 
-For visitors who want theatre that still has some grit under its fingernails, the Tétard is worth seeking out. Check the programme before you arrive; the season tends to cluster around autumn and spring, when Marseille's creative scene is at its most active.
+It's tucked into a residential stretch of the city, small enough to feel like a secret. Productions treat the audience as co-conspirators rather than passive observers. Nothing here pretends to be finished. That's not a limitation — it's the stated purpose.
+
+The season clusters around autumn and spring. Check the programme before arriving, and go in knowing you might see something rough-edged and brilliant, or just rough-edged.

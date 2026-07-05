@@ -2,16 +2,17 @@
 latitude: 43.2927121
 longitude: 5.3787656
 score: 1
-snippet: Marseille's main pedestrianised shopping street, running east from the Vieux-Port
-  since the 1970s.
+snippet: Marseille's main shopping drag — chain stores, lunch spots, and the occasional
+  survivor
 tags:
 - curbside
 title: Rue Saint-Ferréol
 type: poi
 ---
 
-Rue Saint-Ferréol runs east from the Vieux-Port through the centre of Marseille's commercial core, taking its name from the church that stands at its western end. When it was pedestrianised in the 1970s it was among the earliest such conversions in France, part of a wave of car-free interventions in city centres that swept through Western Europe in that decade. The experiment worked: the street became one of the most heavily trafficked retail corridors in the south of France.
 
-The independent shops and local traders that originally characterised the street have since given way almost entirely to international chains — H&M, Zara, Fnac, and their neighbours now dominate the run of shopfronts. The traders with character have migrated to the side streets: Rue de la Tour, Rue Montgrand, and the lanes running toward Cours Julien retain the specialist booksellers, record shops, and independent fashion that Rue Saint-Ferréol once hosted.
+This is Marseille's main pedestrian shopping street, and it has been since the 1970s when the city car-freed it — one of the earliest such conversions in France. The experiment worked immediately. It became one of the busiest retail corridors in the south.
 
-The street connects the port end — where the church and the Samaritaine café mark the edge of the Vieux-Port — to the Place du Marché des Capucins and onward to Cours Julien, Marseille's alternative-culture neighbourhood. Walking its full length gives a cross-section through the city's commercial centre, from tourist souvenir stalls near the water to more locally oriented retail as the street climbs away from the port.
+The chains moved in and the independents moved out. H&M, Zara, Fnac — the usual lineup. The shops with character migrated to the side streets: Rue de la Tour, Rue Montgrand, and the lanes toward Cours Julien still have specialist booksellers, record shops, and local fashion. But Rue Saint-Ferréol itself is scrappier and more honest than it looks — busy at lunch, genuinely used, not just a tourist corridor.
+
+Walk it end to end. It runs from the church of Saint-Ferréol and the Samaritaine café at the port, all the way east toward the Marché des Capucins and Cours Julien. The full length gives you a cross-section of the commercial centre: souvenir stalls near the water, then something more ordinary and local as you climb away from the port.

@@ -2,16 +2,16 @@
 latitude: 43.2830058
 longitude: 5.3520844
 score: 1
-snippet: A villa named after its rose garden, part of the pastoral and botanical naming
-  tradition among the bourgeois estates of Marseille's southern arrondissements.
+snippet: In Marseille's villa culture, you named the house after what made it worth
+  having
 tags:
 - curbside
 title: Villa La Roseraie
 type: poi
 ---
 
-Villa La Roseraie takes its name from the rose garden — roseraie — that once defined the property and, in the tradition of Marseille's villa culture, gave the house its public identity. In the southern arrondissements around Montredon, Mazargues, and Bonneveine, the nineteenth and early twentieth centuries saw the construction of hundreds of such villas, each with a name that announced its character: botanical names like La Roseraie, pastoral names like La Bergerie or Le Vallon, and topographical names that claimed a view or a natural feature.
+The southern arrondissements around Montredon and Bonneveine filled up with villas in the 19th century, each carrying a name that declared what the place was for. Botanical names like La Roseraie, pastoral names like La Bergerie — they were statements of character as much as addresses.
 
-The rose garden in a Provençal villa was not merely decorative. Roses grew well in the Mediterranean climate, required less water than lawns through the dry summer months, and filled the garden with scent from spring through autumn. A roseraie was a practical garden as well as a beautiful one, and giving it the villa's name was a way of saying that the house was defined by cultivation and natural pleasure rather than by urban display. These were summer residences for families escaping the heat and smell of the city; the garden was the point.
+Roses made sense in this climate. They lasted from spring through autumn, needed less water than a lawn through the dry summer, and filled the garden with scent for months. A roseraie was a practical garden as well as a beautiful one. Naming the whole villa after it meant the garden, not the house, was the point. These were summer retreats from the heat and smell of the city; the outside was the reason to come.
 
-The coordinates place Villa La Roseraie in the southern zone where Marseille's urban fabric gives way to larger lots, stone walls, and the kind of deeply shaded gardens that require old trees. Many of the original villas in this area survive as private houses, converted apartment buildings, or institutions, their names still stencilled on gateposts or carved into stone lintels — botanical labels on the city's memory of a more leisured age.
+That logic is still visible in this part of Marseille. Stone walls, gateposts with names still carved into them, deep shade from trees that have been growing for a century — the bones of a more leisured city, absorbed into the urban fabric but not entirely erased.

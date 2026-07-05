@@ -2,17 +2,16 @@
 latitude: 43.2933126
 longitude: 5.3715911
 score: 1
-snippet: Monument to Vincent Scotto (1874–1952), one of the most prolific composers
-  in French popular music, who wrote the melody for Josephine Baker's signature song
-  'J'ai deux amours'.
+snippet: Josephine Baker's most famous song was written by a kid from a Marseille
+  alley
 tags:
 - curbside
 title: Vincent Scotto (compositeur)
 type: poi
 ---
 
-Vincent Scotto was born in Marseille in 1874 to Italian immigrant parents, and the city's musical culture — its street songs, its music halls, its operetta tradition — shaped everything he would go on to create. He launched his public career at the Alcazar, the celebrated music hall on the Canebière that was the heart of Marseille's popular entertainment life, and from there he moved steadily into the world of Parisian chanson and film.
+Vincent Scotto grew up in Marseille in the 1870s and 80s, son of Italian immigrants, in the streets around the port. He started performing at the Alcazar music hall on the Canebière. By the time he was finished, he had written hundreds of songs, a stack of operettas, and more film scores than most people could count.
 
-Over a career spanning half a century Scotto composed hundreds of songs and scores for operettas, revues, and films. His melodic gift was extraordinary and his output astonishing: he wrote "Sous les ponts de Paris," "La Petite Tonkinoise," and dozens of other songs that became standards. Most famously, he composed the melody for "J'ai deux amours," which Josephine Baker made her own at the Casino de Paris in 1930 and which has remained her most iconic number ever since. Scotto worked easily across genres — sentimental ballads, comedy songs, exotic fantasies — and his music reached audiences who never knew his name.
+The number everyone knows is "J'ai deux amours." Scotto wrote the melody. Josephine Baker made it her signature at the Casino de Paris in 1930 and never let it go. He also wrote "Sous les ponts de Paris" and "La Petite Tonkinoise" — songs that became part of the furniture of French life for generations. Most people hummed them without knowing his name.
 
-He died in 1952, having outlasted most of the musical world he had helped to create. This monument acknowledges a composer whose melodies were hummed across France and beyond for generations, and whose origins in the working-class streets of Marseille were the source of his extraordinary popular touch.
+He died in 1952. The monument here is modest for someone whose reach went that far. But that was Scotto: the melodies travelled everywhere, and the man stayed rooted in Marseille.

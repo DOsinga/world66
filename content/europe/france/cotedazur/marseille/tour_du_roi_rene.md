@@ -2,17 +2,15 @@
 latitude: 43.2946996
 longitude: 5.3628583
 score: 1
-snippet: One of two towers that anchored the iron chain stretched across the Vieux-Port
-  entrance to control medieval harbour access — and among the last physical remnants
-  of Marseille's pre-French independence.
+snippet: A chain ran from here to Fort Saint-Jean — raise it and the harbour closed
 tags:
 - curbside
 title: Tour du Roi René
 type: poi
 ---
 
-The system worked mechanically: a heavy iron chain ran from this tower across the harbour mouth to Fort Saint-Jean opposite, and could be raised or lowered to permit or deny passage. The Tour du Roi René provided the southern anchor point and the mechanism for operating the chain. It is the less prominent of the two surviving elements; Fort Saint-Jean on the northern side was substantially rebuilt and expanded over subsequent centuries, while the Tour du Roi René has remained closer to its 15th-century form.
+The mechanism was simple and effective. A heavy iron chain ran from this tower across the harbour mouth to Fort Saint-Jean on the opposite bank. Raise it and nothing entered or left the Vieux-Port. The Tour du Roi René was the southern anchor and the operating point for the chain.
 
-René d'Anjou, who gave the tower its name, was Count of Provence from 1434 until his death in 1480 — the last major ruler of Provence before the region was absorbed into France in 1481. He rebuilt the harbour defences during his reign and is commemorated along the Canebière by a large bronze statue that depicts him holding a bunch of muscat grapes, the variety he is credited with introducing to Provence. The tower is a considerably more modest memorial.
+The tower takes its name from René d'Anjou, Count of Provence from 1434 until his death in 1480 — the last major ruler before Provence was absorbed into France in 1481. He rebuilt the harbour defences. Down the Canebière you'll find his statue holding a bunch of muscat grapes, the variety he's credited with introducing to the region. The tower is a more modest memorial, but a more honest one.
 
-The 1481 absorption of Provence into France effectively ended Marseille's status as a semi-independent city-state with its own commercial treaties and trading privileges. The tower predates that event by a generation; it is one of the few surviving material objects from the period when Marseille operated under Provençal rather than French sovereignty.
+That 1481 annexation ended Marseille's existence as a semi-independent city-state with its own treaties and trading privileges. This tower predates it by a generation — one of the few surviving objects from the time Marseille still answered to Provence, not Paris.

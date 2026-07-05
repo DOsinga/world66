@@ -2,17 +2,16 @@
 latitude: 43.2937582
 longitude: 5.3905478
 score: 1
-snippet: 'A small independent theatre in Marseille whose name — Early Morning Theatre
-  — signals its commitment to work made at the margins: intimate, unpolished, and
-  stubbornly alive.'
+snippet: Sixty seats, actors you can hear breathe, shows that sell out fast
 tags:
 - curbside
 title: Théâtre du Petit Matin
 type: poi
 ---
 
-The name alone is a small act of positioning. The Théâtre du Petit Matin — Early Morning Theatre — stakes its identity in the hours before the city fully wakes, when creative work tends to be most unguarded and most honest. It is a small independent venue, the kind that Marseille has historically sheltered in its dense, mixed-use central quarters: a converted space, a small stage, an audience that chooses it deliberately rather than stumbling in.
 
-Marseille has long had a lively fringe theatre scene, partly because the city's size and diversity generate enough of an audience for work that sits outside mainstream programming, and partly because the cost of space in many central neighbourhoods remains lower than in Paris or Lyon. Small venues like the Petit Matin have traditionally served as incubators — places where new companies test material, where politically engaged work finds a room, and where the line between performer and audience can be genuinely thin. Productions tend to be in French, often with a Provençal or Mediterranean flavour in theme or casting.
+"Early Morning Theatre" — the name stakes a claim on the hours before the city fully wakes, when work tends to be most honest. It's a small independent venue in the dense central quarters: converted space, small stage, an audience that showed up deliberately.
 
-Programming typically mixes contemporary drama, one-person shows, and occasional readings or music nights. Given the scale, it is worth checking what is on before visiting — a full house here means perhaps sixty people, and shows can sell out quickly among a loyal local following. The experience of seeing work in a space this small, where you can hear the actors breathe and the silences actually land, is the point of coming. It is not a theatre for spectacle; it is a theatre for paying attention.
+Marseille has always had room for theatres like this, partly because the city generates enough audience for work outside the mainstream, partly because rents here never got as brutal as Paris. The Petit Matin is the kind of place where new companies road-test material and politically engaged work finds a room.
+
+Sixty people is a full house. Shows sell out quickly among the loyal local crowd. If you see something worth catching, book it — and know that the experience of theatre at this scale, where silences actually land, is the whole reason to come.

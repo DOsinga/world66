@@ -2,16 +2,15 @@
 latitude: 43.2963823
 longitude: 5.4467479
 score: 1
-snippet: A Marian marker in eastern Marseille bearing the title 'Wondrous Virgin'
-  — one of the devotional waypoints in a city long dedicated to Notre-Dame de la Garde.
+snippet: 'A quiet stone marker that says: the wondrous is not confined to hilltops'
 tags:
 - curbside
 title: Virgo Mirarabilis
 type: poi
 ---
 
-Virgo Mirabilis — Wondrous Virgin — is one of the oldest titles in the Marian litanies, invoked in Catholic devotion since the Middle Ages. In Marseille, a city whose relationship with the sea has always been shadowed by risk and marked by gratitude, Marian devotion runs unusually deep. The basilica of Notre-Dame de la Garde, perched on the highest point of the city and visible from far out at sea, has for centuries been the focus of that devotion: sailors pray there before voyages and hang ex-voto offerings after surviving them.
+Notre-Dame de la Garde is the famous one — perched on the city's highest point, visible from twenty kilometres out to sea, hung inside with sailors' ex-votos. But Marseille's Marian devotion doesn't stop there. Small shrines, inscribed stones, and street-corner niches are woven through the city's neighbourhoods in every direction.
 
-The marker bearing the Virgo Mirabilis title stands in the eastern reaches of the city, away from the dramatic hilltop basilica but part of the same tradition of distributed Marian presence across the urban fabric. Small shrines, inscribed stones, and street-corner niches dedicating a corner or a spring to the Virgin are woven through Marseille's neighbourhoods; this one formalises that gesture in stone, naming the title that emphasises wonder and the inexplicable.
+This marker in the eastern residential streets carries the title Virgo Mirabilis — Wondrous Virgin — one of the oldest in the Marian litanies, invoked since the Middle Ages. The setting is domestic: apartment buildings, ordinary streets, daily life. Not monumental at all. Which is exactly the point of these distributed markers: the sacred occupies everyday space as much as hilltops.
 
-For the visitor, it functions as both a religious waypoint and a quiet piece of urban archaeology — evidence that the city's devotional geography extends well beyond the famous landmarks. The coordinates place it in a residential part of the city where the pilgrimage atmosphere is domestic rather than monumental, which is in its own way the point: the wondrous, the marker suggests, is not confined to hilltops.
+For the visitor it reads as quiet urban archaeology — evidence that Marseille's devotional geography runs much further and deeper than the landmark on the hill.

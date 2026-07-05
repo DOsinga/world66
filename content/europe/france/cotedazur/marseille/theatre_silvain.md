@@ -2,16 +2,16 @@
 latitude: 43.2814421
 longitude: 5.3553215
 score: 1
-snippet: An open-air summer theatre on the Corniche, using the natural amphitheatre
-  of the coastal cliff above the Mediterranean.
+snippet: The stage looks out to open sea — the Mediterranean is the backdrop
 tags:
 - curbside
 title: Théâtre Silvain
 type: poi
 ---
 
-The Théâtre Silvain is an open-air venue on the Corniche Kennedy, Marseille's seafront road. The site takes advantage of a natural dip in the cliff above the sea: the audience sits on tiered seating cut into the rock, and the stage is set against a backdrop of water and sky. The theatre was built in the early 20th century and takes its name from a 19th-century Marseille actor.
 
-The venue operates in summer only — the season when an outdoor theatre on the coast makes sense and when the evening light and the sea breeze are part of the experience of being there. The natural acoustics of the bowl concentrate sound well, and the combination of the amphitheatre's shape and the cliff face behind the stage means that the theatre functions without the amplification that most outdoor spaces require.
+The Théâtre Silvain sits on the Corniche Kennedy, Marseille's seafront road. A natural dip in the cliff above the water was turned into a theatre: tiered seating cut into the rock, stage set against a backdrop of sea and sky. Built in the early 20th century, named after a 19th-century Marseille actor.
 
-The Théâtre Silvain has been used for concerts, variety, and theatrical performances, and it has been a favourite venue for visiting performers attracted by the setting. There is something particular about watching a performance outdoors with the Mediterranean visible beyond the stage, as dusk comes in and the water changes colour: the Corniche location makes the theatre an experience as much as a destination.
+It runs summer only, which is the only sensible time for an outdoor theatre on the coast. The natural bowl concentrates sound well enough that no amplification is needed — the cliff face behind the stage does the work. Concerts, variety, theatre: the setting makes everything feel slightly better than it probably is.
+
+Show up as dusk comes in and the water changes colour. There are few places in Marseille where the geography of the city hits you as clearly as from these seats — sea in front, the Corniche stretching in both directions, the Mediterranean doing its thing beyond the stage.

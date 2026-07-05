@@ -2,17 +2,17 @@
 latitude: 43.2799563
 longitude: 5.3683776
 score: 1
-snippet: A Franciscan-tradition church in a southern Marseille neighbourhood, dedicated
-  to the 13th-century preacher and patron saint of lost things — one of the most universally
-  beloved figures in the Catholic calendar.
+snippet: He's the patron saint of lost things — half the world still prays to him
+  when the keys go missing
 tags:
 - curbside
 title: Saint-Antoine-de-Padoue
 type: poi
 ---
 
-Saint-Antoine-de-Padoue is located in the southwestern residential arrondissements of Marseille, the coordinates placing it near the 9th arrondissement — the part of the city that stretches inland from the Prado toward the limestone hills and the calanques. It is a residential neighbourhood, and the church functions as a local parish centre rather than a destination in its own right.
 
-The dedication honours Anthony of Padua (1195–1231), a Portuguese-born Franciscan friar who became one of the great preachers of the medieval church. He is invoked today primarily as the patron saint of lost things — the prayer to Saint Anthony when something cannot be found is embedded in popular Catholic practice across the world, long outlasting any doctrinal instruction. His feast day on 13 June is widely observed, and churches bearing his name are among the most common dedications in the Catholic world, from Brazil to the Philippines to southern France.
+Anthony of Padua was Portuguese, not Italian, and he spent his short life preaching in northern Italy and North Africa before dying in 1231 at thirty-five. He is now the third most invoked saint in the Catholic world, primarily because somewhere in the medieval period people decided he was the one to pray to when something went missing. The prayer still works, or people keep trying it.
 
-The Franciscan connection matters in Marseille. The city had a long relationship with mendicant orders, and the Franciscan spirit of community-oriented, preaching-led faith found fertile ground in a port city of merchants and workers. A church dedicated to Saint Anthony in a Marseille neighbourhood is part of that broader current — a faith that expressed itself in the streets and the everyday rather than exclusively in cathedral grandeur.
+Churches dedicated to him are everywhere — Brazil, the Philippines, southern France. This one sits in the southwestern arrondissements of Marseille, near the 9th, where the city loosens into residential streets and begins its approach to the calanques. It functions as a local parish church rather than a pilgrimage destination.
+
+The Franciscan connection matters here. Marseille had a long relationship with the mendicant orders — the Franciscan style of faith, oriented toward the streets and the community rather than cathedral grandeur, found natural ground in a port city of merchants and workers. A church dedicated to Anthony is part of that current.

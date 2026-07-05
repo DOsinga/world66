@@ -1,54 +1,13 @@
 ---
 title: "Day Trips"
 type: section
+linked_locations:
+- africa/morocco/ourika
+- africa/morocco/imlil
 ---
 
-Marrakesh is an ideal starting point to make daytrips to the Atlas mountains. Then best way to arrange for such a trip is to find a grand taxi. If you are a group of people it may even be affordable to have the grand taxi all to yourself and have it wait for you, while you explore the valleys of the Atlas.
+Marrakesh sits in the plain at the foot of the High Atlas, which makes it an ideal base for escaping the city heat for a day. The easiest way to reach the mountain valleys is to find a grand taxi at Bab er Robb; if you are a small group it can be worth chartering the whole car and having the driver wait while you walk and eat lunch by a river.
 
-**all**
+The classic half-day run is up the [Ourika](/africa/morocco/ourika) valley, a green, terraced cleft south of the city dotted with Berber villages and roadside cafés perched over the water — noticeably cooler than downtown and busy with Marrakshis on Fridays and weekends. Further up the same range, [Imlil](/africa/morocco/imlil) is the trailhead village for Mount Toubkal and the wider Toubkal massif; it is a worthwhile day trip in its own right for the mule tracks and walnut groves, and the obvious starting point if you want to keep climbing.
 
-**Berber Tours**
-
-Although Berber Tours is based in Zagora, our area of operation reaches as far north as Fez and Rabat or as far south as Agadir, which places Marrakech in the "heart" of our 4x4 tours region. Our camel treks originate from either Zagora or M'hamid in the southeast of Morocco due to their proximity to the dunes of the Sahara.
-
-email: admin@berbertours.net
-
-Url: [www.berbertours.net](http://www.berbertours.net)
-
-Tel: 212-68-51-50-87
-
-**Berber Tours**
-
-Although Berber Tours is based in Zagora, our area of operation reaches as far north as Fez and Rabat or as far south as Agadir, which places Marrakech in the "heart" of our 4x4 tours region. Our camel treks originate from either Zagora or M'hamid in the southeast of Morocco due to their proximity to the dunes of the Sahara.
-
-Address: Ave. Mohamed V
-
-email: admin@berbertours.net
-
-PC: 45900 - Zagora
-
-Url: [www.berbertours.net](http://www.berbertours.net)
-
-Tel: 212-68-51-50-87
-
-**Berber Tours**
-
-Although based in Zagor, Berber Tours operates as far north as Fez, as far west as Rabat, and as far south as Agadir taking in all of southern Morocco with its 4x4 tours. Its camel treks are organized from either Zagora or M'hamid which are both in the southeastern part of the country. Itineraries range from overnight desert trips to longer multi-day expeditions across the dunes.
-
-Address: Ave. Mohamed V
-
-email: admin@berbertours.net
-
-PC: 45900 - Zagora
-
-Url: [www.berbertours.net](http://www.berbertours.net)
-
-Tel: 212-68-51-50-87
-
-**Ourika **
-
-[Ourika](/africa/morocco/ourika) is one of the charming mountain valleys south of the city. Excellent day-trip. A whole lot cooler than downtown Marrakesh.** samir:** I would like to see it** charles zalber:** one of the most flabergasting valleys in the Atlas — green, terraced and dotted with Berber villages.
-
-**Imlil**
-
-[Imlil](/africa/morocco/imlil) is south of Marrakech and a good starting point for treks in the high Atlas, but also nice as a daytrip from Marrakech.
+Closer to town there are two quieter outings worth the short drive: ANIMA Garden, the late artist André Heller's sculpture-filled botanical garden on the Ourika road, and Cactus Thiemann, the largest cactus farm in Africa, out on the plain to the north.

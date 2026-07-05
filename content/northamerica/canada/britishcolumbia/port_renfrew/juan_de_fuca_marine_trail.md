@@ -12,6 +12,7 @@ snippet: Rugged 47 km coastal trail beginning near Botanical Beach, with day-hik
 sources:
   - https://bcparks.ca/juan-de-fuca-park/
   - https://bcparks.ca/juan-de-fuca-park/day-use-areas/
+score: 8.2
 ---
 
 The Juan de Fuca Marine Trail runs for 47 km along the west coast of southern Vancouver Island. Port Renfrew sits by the Botanical Beach end, making it a natural start or finish for backpackers.

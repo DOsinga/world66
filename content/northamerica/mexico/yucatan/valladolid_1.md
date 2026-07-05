@@ -3,9 +3,9 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-15'
 image: valladolid_1.jpg
-image_attribution: August Dominus
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Katedrala_u_Valladolidu.jpg
+image_attribution: Adam Jones
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Street_Scene_-_Valladolid_-_Yucatan_-_Mexico_-_02.jpg
 latitude: 20.690251
 loc_type: city
 longitude: -88.2017

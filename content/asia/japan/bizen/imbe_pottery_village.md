@@ -11,6 +11,7 @@ tags:
 - craft
 title: Imbe Pottery Village
 type: poi
+score: 7.3
 ---
 
 Imbe is the heart of Bizen ware. The district around the station has galleries, working kilns, small shops, and clay walls that make the town feel built out of its own craft. It is best seen on foot, with time to step into workshops rather than treating it as a museum stop.

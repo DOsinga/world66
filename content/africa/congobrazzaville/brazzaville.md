@@ -9,11 +9,20 @@ image_source: https://commons.wikimedia.org/wiki/File:La_ville_de_Brazzaville_01
 latitude: -4.2634
 loc_type: city
 longitude: 15.2429
+quick_facts:
+  Faces Kinshasa: Across the Congo River
+  Founded: '1880'
+  Population: ~2.4 million
+  Rare Twins: Closest capitals bar Vatican–Rome
 score: 6.09
-title: Brazzaville
-type: location
 snippet: Congo River capital facing Kinshasa across Malebo Pool, known for Sainte-Anne
   basilica and Poto-Poto.
+tip: Brazzaville is the calmer of the two capitals staring at each other across the
+  Congo River. The riverside Corniche is the place to watch the rapids and the Kinshasa
+  skyline opposite. See the Basilique Sainte-Anne with its green-tiled roof. French
+  is essential, and a ferry — when running — links the two capitals in minutes.
+title: Brazzaville
+type: location
 ---
 
 Brazzaville sits on the western shore of Malebo Pool, the vast widening of the Congo River, directly across the water from Kinshasa. It is one of only two national capitals in the world that face each other across a river. Compared to its enormous neighbour, Brazzaville is smaller, quieter, and considerably more relaxed.

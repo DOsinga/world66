@@ -1,9 +1,14 @@
 ---
-title: "Sentier des Douaniers (Cliff Path)"
-type: poi
-tags: [things_to_do, outdoor]
-snippet: "Historic coastal footpath with views over the Seine estuary and the chalk cliffs"
+latitude: 49.401
+longitude: 0.1269
 score: 7.8
+snippet: Historic coastal footpath with views over the Seine estuary and the chalk
+  cliffs
+tags:
+- things_to_do
+- outdoor
+title: Sentier des Douaniers (Cliff Path)
+type: poi
 ---
 
 The sentier des douaniers — originally a customs officers' patrol route along the coast — runs west from Villerville along the top of the chalk cliffs toward Honfleur, and east toward Cricqueboeuf and beyond. The path was used to watch for smugglers working the Seine estuary; today it is the main reason to visit this stretch of coast on foot. The views west toward the mouth of the Seine are broad: on a clear day you can see the Pont de Normandie and the industrial edge of Le Havre across the water, the contrast between the working port and the green clifftops being part of the character of this landscape.

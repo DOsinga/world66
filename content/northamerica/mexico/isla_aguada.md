@@ -19,4 +19,4 @@ Isla Aguada is a small fishing town on the Gulf side of Campeche, where the road
 
 The main reason to stop is the lagoon. Laguna de Terminos is one of Mexico's richest coastal wetlands, with dolphins, sea turtles, mangroves, and a large bird population. Boatmen on the malecon run trips out toward Bird Island, and the best outings are as much about the water and sky as the wildlife checklist.
 
-The town also has a small pirate-and-port history. Spanish ships used this coast, pirates hid here, and the old lighthouse now works as a modest museum. Isla Aguada is not polished, but it makes a good slow stop between [Campeche](/northamerica/mexico/campeche) and Ciudad del Carmen if you like beaches without crowds.
+The town also has a small pirate-and-port history. Spanish ships used this coast, pirates hid here, and the old lighthouse now works as a modest museum. Isla Aguada is not polished, but it makes a good slow stop between [Campeche](/northamerica/mexico/yucatan/campeche_campeche) and Ciudad del Carmen if you like beaches without crowds.

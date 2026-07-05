@@ -11,6 +11,7 @@ tags:
 - craft
 title: Bizen Osafune Sword Museum
 type: poi
+score: 7.3
 ---
 
 Osafune was one of Japan's great sword-making centres. This museum shows historic Bizen blades, but the stronger reason to go is the craft complex around it: smithing, polishing, engraving, and fittings are explained as linked trades rather than as static relics.

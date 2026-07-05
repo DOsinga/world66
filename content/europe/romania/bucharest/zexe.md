@@ -2,6 +2,7 @@
 address: Strada Icoanei 80, Bucharest
 latitude: 44.4453
 longitude: 26.1075
+score: 7.1
 snippet: Inter-war Romanian cuisine in a restored neoromanian villa
 tags:
 - eating_out

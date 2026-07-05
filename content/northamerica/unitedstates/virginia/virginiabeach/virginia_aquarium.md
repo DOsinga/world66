@@ -1,7 +1,12 @@
 ---
+latitude: 36.820419
+longitude: -75.983723
 score: 8.2
 tags:
 - things_to_do
+- museum
+- aquarium
+- family
 title: Virginia Aquarium and Marine Science Center
 type: poi
 ---

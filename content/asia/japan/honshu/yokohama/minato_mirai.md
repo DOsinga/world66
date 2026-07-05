@@ -1,7 +1,12 @@
 ---
+latitude: 35.458
+longitude: 139.632
 score: 7.4
 tags:
 - things_to_do
+- neighbourhood
+- architecture
+- waterfront
 title: Minato Mirai 21
 type: poi
 ---

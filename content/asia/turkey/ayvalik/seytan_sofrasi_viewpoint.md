@@ -1,7 +1,13 @@
 ---
+latitude: 39.2918
+longitude: 26.6614
 score: 6.7
+sources:
+- https://www.alaturka.info/en/turkey-country/aegean/balikesir/3345-ayvalik-devils-dancing-floor-seytan-sofrasi
 tags:
 - things_to_do
+- sight
+- viewpoint
 title: Şeytan Sofrası (Devil's Table)
 type: poi
 ---

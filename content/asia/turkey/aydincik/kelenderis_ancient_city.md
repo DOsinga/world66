@@ -11,6 +11,7 @@ tags:
 - archaeology
 title: Kelenderis Ancient City
 type: poi
+score: 6.9
 ---
 
 Kelenderis was the ancient port behind modern Aydıncık. The ruins are modest rather than spectacular, but they give the town its older story: harbour remains, scattered stones, and archaeological traces of a city that once mattered on this coast.

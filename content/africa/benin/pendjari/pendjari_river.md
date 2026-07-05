@@ -1,12 +1,13 @@
 ---
+latitude: 11.55
+longitude: 1.4
+score: 7.8
+tags:
+- things_to_do
+- nature
+- sight
 title: Pendjari River
 type: poi
-tags:
-  - things_to_do
-  - nature
-  - sight
-latitude: 11.55
-longitude: 1.40
 ---
 
 The Pendjari River runs along the entire northern boundary of the park and gives both the park and the wider WAP complex their name. It is a seasonal river — heavy and silty in the rainy months, reduced to a string of long pools by April — and that retreat is exactly what makes the river country the prime game-viewing area of the park. As the surrounding bush dries out, elephant, buffalo, and the antelope herds concentrate on the remaining water, and the predators follow.

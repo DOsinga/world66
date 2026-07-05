@@ -1,14 +1,17 @@
 ---
-title: Monastiraki
-type: poi
-tags:
-  - things_to_do
-  - neighbourhood
-  - market
 latitude: 37.9764
 longitude: 23.7236
-snippet: Lively flea-market neighbourhood with Roman ruins, kebab shops, and rooftop bars
-score: 7.6
+snippet: Lively flea-market neighbourhood with Roman ruins, kebab shops, and rooftop
+  bars
+tags:
+- things_to_do
+- neighbourhood
+title: Monastiraki
+type: neighbourhood
+image: monastiraki.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Monastiraki_Square_and_Panagia_Pantanassa_Church_(Athens).jpg
+image_license: CC BY 3.0 pl
+image_attribution: Radosław Botev
 ---
 
 Monastiraki is where Athens feels most alive. The small square at its centre, overlooked by the stripped-down Tzistarakis Mosque (now a ceramics museum), is a permanent crossroads of backpackers, vendors, and locals. The flea market spreading through the surrounding streets is best on Sunday, when antiques, junk, and everything in between spill out across the pavements.

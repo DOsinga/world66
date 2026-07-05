@@ -1,7 +1,14 @@
 ---
+latitude: -37.877
+longitude: 145.042
 score: 6.1
+sources:
+- https://www.gleneira.vic.gov.au/our-city/parks-and-playgrounds/caulfield-racecourse-reserve
 tags:
 - things_to_do
+- sight
+- park
+- sport
 title: Caulfield Racecourse Reserve
 type: poi
 ---

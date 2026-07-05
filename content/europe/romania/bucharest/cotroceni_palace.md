@@ -2,6 +2,7 @@
 address: Bulevardul Geniului 1, Bucharest
 latitude: 44.431
 longitude: 26.0606
+score: 7.3
 snippet: Royal residence turned presidential palace, with a museum in the historic
   wing
 tags:

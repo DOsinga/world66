@@ -6,11 +6,21 @@ done:
 latitude: 9.064331
 loc_type: city
 longitude: 7.489297
+quick_facts:
+  Aso Rock: A 400 m granite monolith
+  Became Capital: '1991'
+  Population: ~3.5 million
+  Purpose-Built: Replaced Lagos
 score: 6.25
-title: Abuja
-type: location
 snippet: Purpose-built Nigerian capital of broad boulevards, government districts,
   and Aso Rock's granite skyline.
+tip: Abuja is Nigeria's purpose-built capital, planted in the centre of the country
+  in 1991 to replace chaotic Lagos — it is orderly, green and spacious by comparison.
+  The giant Aso Rock monolith looms over the city, and Zuma Rock guards the northern
+  approach. It is calmer than Lagos, but still arrange trusted transport and keep
+  a low profile.
+title: Abuja
+type: location
 ---
 
 Abuja is Nigeria's purpose-built federal capital, conceived in 1975 and officially inaugurated in 1991 to replace the overcrowded Lagos. Sitting at the geographic centre of the country, the city was designed from scratch on a blank plateau — wide boulevards, modern government ministries, and an orderliness unusual for West African capitals. It is cleaner, quieter, and more expensive than Lagos, and noticeably more relaxed.

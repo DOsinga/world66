@@ -9,9 +9,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Lima_City_Hall.jpg
 latitude: -12.045981
 loc_type: city
 longitude: -77.030591
+quick_facts:
+  Almost Never Rains: A coastal desert city
+  Food Capital: World-ranked restaurants
+  Founded: '1535'
+  Population: ~10 million
 score: 8.78
 snippet: Pacific coastal capital of Peru, where colonial Lima, foggy cliffs, and a
   celebrated food scene meet.
+tip: Lima is a sprawling coastal capital perched on cliffs above the Pacific, and
+  a genuine world food capital — its ceviche and fusion restaurants rank among the
+  planet's best. Base yourself in clifftop Miraflores or bohemian Barranco. The colonial
+  centre is UNESCO-listed. A coastal fog (garúa) greys the sky for much of the year,
+  but it rarely rains.
 title: Lima
 type: location
 ---

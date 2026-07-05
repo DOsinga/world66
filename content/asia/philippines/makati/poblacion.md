@@ -1,7 +1,11 @@
 ---
+latitude: 14.5662
+longitude: 121.0314
 score: 8.0
 tags:
 - eating_out
+- neighbourhood
+- restaurant
 title: Poblacion
 type: poi
 ---

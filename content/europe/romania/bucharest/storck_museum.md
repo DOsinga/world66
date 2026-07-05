@@ -2,6 +2,7 @@
 address: Strada Vasile Alecsandri 16, Bucharest
 latitude: 44.4516
 longitude: 26.0908
+score: 7.0
 snippet: Three generations of the Storck sculptor family in their own house
 tags:
 - things_to_do

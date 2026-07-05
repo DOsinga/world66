@@ -1,7 +1,12 @@
 ---
+latitude: 17.570981
+longitude: 120.389817
 score: 7.8
 tags:
 - things_to_do
+- museum
+- heritage_house
+- history
 title: Syquia Mansion
 type: poi
 ---

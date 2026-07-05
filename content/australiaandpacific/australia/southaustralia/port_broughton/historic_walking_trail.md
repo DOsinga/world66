@@ -11,6 +11,8 @@ tags:
 sources:
   - https://southaustralia.com/products/yorke-peninsula/destination-information/port-broughton
   - https://www.topoftheyorke.com.au/trails/encounter-walking-trail
+latitude: -33.6
+longitude: 137.93
 ---
 
 The historic walking trail gives Port Broughton a little more shape than a quick foreshore stop. Signs around the town point out older buildings and explain how the port, farming district, churches, and small businesses fitted together.

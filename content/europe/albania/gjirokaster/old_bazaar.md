@@ -1,7 +1,15 @@
 ---
+latitude: 40.07425
+longitude: 20.13812
 score: 8.7
+sources:
+- https://en.wikipedia.org/wiki/Bazaar_Mosque,_Gjirokast%C3%ABr
+- https://www.indefiniteadventure.com/gjirokastraenjoy-the-old-bazaar-in-traditional-costumes/
 tags:
 - things_to_do
+- sight
+- market
+- neighbourhood
 title: Old Bazaar
 type: poi
 ---

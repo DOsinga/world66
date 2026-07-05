@@ -10,6 +10,8 @@ tags:
 sources:
   - https://en.wikivoyage.org/wiki/Mayrhofen
   - https://en.wikipedia.org/wiki/Mayrhofen
+latitude: 47.166
+longitude: 11.861
 ---
 
 The Zillertalbahn is more than an arrival detail. The narrow-gauge railway makes Mayrhofen one of the easier Austrian resort towns to use without a car, running down the valley to Jenbach and the mainline rail network.

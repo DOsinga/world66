@@ -1,7 +1,11 @@
 ---
+latitude: -8.918
+longitude: 13.165
 score: 6.4
 tags:
 - things_to_do
+- sight
+- beach
 title: Ocean Beach
 type: poi
 ---

@@ -1,7 +1,12 @@
 ---
+latitude: -28.191
+longitude: 153.267
 score: 4.5
+sources:
+- https://parks.qld.gov.au/parks/springbrook/journeys
 tags:
 - bars_and_cafes
+- cafe
 title: Springbrook Plateau Cafe Scene
 type: poi
 ---

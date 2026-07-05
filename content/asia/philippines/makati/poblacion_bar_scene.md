@@ -1,7 +1,11 @@
 ---
+latitude: 14.5662
+longitude: 121.0314
 score: 7.7
 tags:
 - bars_and_cafes
+- bar
+- nightlife
 title: Poblacion Bar Scene
 type: poi
 ---

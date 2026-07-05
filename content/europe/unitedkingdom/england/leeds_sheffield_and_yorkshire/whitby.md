@@ -4,7 +4,7 @@ done:
   location_enrich: '2026-05-29'
 image: whitby.jpg
 image_license: CC BY-SA 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Whitby_Abbey_(geograph_7249897).jpg
+image_source: https://commons.wikimedia.org/wiki/File:Whitby_Harbour_in_North_Yorkshire_-_geograph.org.uk_-_7735167.jpg
 latitude: 54.487414
 loc_type: city
 longitude: -0.615511
@@ -13,6 +13,7 @@ snippet: North Yorkshire fishing town beneath Whitby Abbey, where Dracula lore m
   a working harbour.
 title: Whitby
 type: location
+image_attribution: Roger  D Kidd
 ---
 
 Whitby is a fishing town on the North Yorkshire coast, 47 miles from [York](/europe/unitedkingdom/england/york), built into the steep sides of the River Esk where it meets the North Sea. The harbour divides the town in two: the old town on the east side is a tangle of narrow streets climbing the cliff, while the west side has a long sandy [beach](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/whitby/west_cliff_beach) and the usual seaside amusements.

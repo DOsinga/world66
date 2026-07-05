@@ -2,6 +2,7 @@
 address: Șoseaua Cotroceni 32, Bucharest
 latitude: 44.436
 longitude: 26.0667
+score: 6.8
 snippet: 17-hectare botanical garden with greenhouses, dating from 1860
 tags:
 - things_to_do

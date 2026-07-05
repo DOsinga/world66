@@ -1,7 +1,11 @@
 ---
+latitude: 57.6741
+longitude: 15.8461
 score: 6.8
 tags:
 - things_to_do
+- sight
+- family
 title: Astrid Lindgrens Värld, Vimmerby
 type: poi
 ---

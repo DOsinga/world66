@@ -10,6 +10,8 @@ tags:
 sources:
   - https://en.wikivoyage.org/wiki/Hemmingford
   - https://www.parcsafari.com/
+latitude: 45.0709
+longitude: -73.5879
 ---
 
 Parc Safari is Hemmingford's biggest draw: a family-oriented wildlife and amusement park where part of the visit is done from inside your vehicle. It is not subtle, and it is not trying to be. Children generally love it, and adults who accept the theme-park mood will do fine.

@@ -1,13 +1,16 @@
 ---
-title: "Makati"
-type: poi
-tags:
-  - things_to_do
-  - neighbourhood
 latitude: 14.5547
 longitude: 121.0244
 snippet: Manila's financial and business district — the city's most polished neighbourhood
-score: 7.5
+tags:
+- things_to_do
+- neighbourhood
+title: Makati
+type: neighbourhood
+image: makati.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Manila,_Makati_Central_Business_District,_Philippines.jpg
+image_license: CC BY 4.0
+image_attribution: Vyacheslav Argenberg
 ---
 
 Makati is where Manila puts on its best suit. The central business district of Ayala Avenue and its surroundings contains the largest concentration of gleaming office towers and international hotels in the Philippines, along with some of the best restaurants in the country. The Greenbelt mall complex — a series of open-air and covered malls around a park with a chapel — is one of the better shopping environments in Southeast Asia, with good food options alongside the retail.

@@ -2,6 +2,7 @@
 address: Calea Victoriei 49-53, Bucharest
 latitude: 44.4402
 longitude: 26.0955
+score: 8.6
 snippet: Romanian and European art in the former Royal Palace on Revolution Square
 story: During the December 1989 revolution the palace was set on fire while crowds
   in the square outside tore down Ceaușescu's regime; thousands of artworks were damaged

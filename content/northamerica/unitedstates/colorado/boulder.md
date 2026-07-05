@@ -3,8 +3,8 @@ done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-05-29'
 image: boulder.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Balanced_Rock.jpg
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Center_for_Community,_University_of_Colorado_Boulder_-_20250626111859.jpg
 latitude: 40.014986
 loc_type: city
 longitude: -105.270545
@@ -13,6 +13,7 @@ snippet: Colorado university city at the foot of the Flatirons, shaped by trails
   campuses, and Pearl Street.
 title: Boulder
 type: location
+image_attribution: Colohisto
 ---
 
 Boulder sits at the foot of the Rocky Mountains in Colorado, where the flat plains abruptly end and the Flatirons — massive tilted slabs of red sandstone — rise almost vertically from the edge of town. Few American cities have a setting like this: you can be hiking in genuine wilderness within twenty minutes of downtown.

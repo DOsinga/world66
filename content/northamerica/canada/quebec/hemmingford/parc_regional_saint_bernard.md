@@ -11,6 +11,8 @@ tags:
 sources:
   - https://en.wikivoyage.org/wiki/Hemmingford
   - https://parcregionalst-bernard.com/
+latitude: 45.053
+longitude: -73.451
 ---
 
 Parc Regional Saint-Bernard gives the Hemmingford area its useful outdoor half-day. Depending on the season, visitors come for hiking, snowshoeing, cross-country skiing, skating, or small family activities.

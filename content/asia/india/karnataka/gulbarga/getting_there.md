@@ -1,7 +1,6 @@
 ---
 title: Getting There
-type: poi
-score: 1.8
+type: section
 ---
 
 Gulbarga does not have an airport of its own.

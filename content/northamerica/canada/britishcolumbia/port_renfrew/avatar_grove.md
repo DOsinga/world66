@@ -12,6 +12,7 @@ snippet: Old-growth forest walk inland from Port Renfrew, known for huge cedars 
 sources:
   - https://en.wikivoyage.org/wiki/Port_Renfrew
   - https://wildrenfrew.com/things-to-do-in-port-renfrew/
+score: 7.8
 ---
 
 Avatar Grove is a short old-growth forest outing on rough roads inland from Port Renfrew. Boardwalks and trails lead through giant western red cedars and Douglas firs, including some wonderfully twisted trunks.

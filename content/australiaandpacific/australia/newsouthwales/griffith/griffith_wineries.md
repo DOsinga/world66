@@ -10,6 +10,8 @@ tags:
 sources:
   - https://en.wikivoyage.org/wiki/Griffith
   - https://en.wikipedia.org/wiki/Griffith%2C_New_South_Wales
+latitude: -34.256
+longitude: 146.098
 ---
 
 Griffith is one of Australia's big wine towns, with cellar doors around Bilbul, Yenda, and the surrounding irrigation area. De Bortoli, Calabria Family Wines, Casella, McWilliam's, Nugan Estate, and smaller producers give the region more weight than its modest city centre suggests.

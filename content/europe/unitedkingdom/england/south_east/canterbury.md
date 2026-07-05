@@ -3,9 +3,9 @@ done:
   location_cleanup: '2026-04-14'
   location_enrich: '2026-05-11'
 image: canterbury.jpg
-image_attribution: Antony McCallum (WyrdLight.com)
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Canterbury-cathedral-wyrdlight.jpg
+image_attribution: Peter Trimming 
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Canterbury_East_Railway_Station_-_geograph.org.uk_-_3824333.jpg
 latitude: 51.280028
 loc_type: city
 longitude: 1.080253

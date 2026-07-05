@@ -2,6 +2,7 @@
 address: Main Waitohi Road, Waitohi, near Temuka
 latitude: -44.2167
 longitude: 171.1833
+score: 6.4
 snippet: Memorial to Temuka's pioneer aviator at his family farm site
 story: Pearse was a deeply shy farmer-tinkerer who never publicly claimed to have
   flown before the Wright Brothers, and who in old age dismissed his own experiments

@@ -4,8 +4,8 @@ type: poi
 tags:
   - things_to_do
   - sight
-latitude: 19.7186
-longitude: -155.0750
+latitude: 19.7270
+longitude: -155.0660
 address: Banyan Drive, Hilo, HI 96720
 snippet: A short road lined with enormous banyans planted by celebrities in the 1930s
 story: >

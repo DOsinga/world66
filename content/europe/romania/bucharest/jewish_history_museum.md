@@ -2,6 +2,7 @@
 address: Strada Mămulari 3, Bucharest
 latitude: 44.4267
 longitude: 26.1083
+score: 6.3
 snippet: Synagogue housing a museum of Romanian Jewish history
 tags:
 - things_to_do

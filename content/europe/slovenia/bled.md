@@ -9,9 +9,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Bled_Castle_05.jpg
 latitude: 46.36842
 loc_type: city
 longitude: 14.11006
+quick_facts:
+  Island: Slovenia's only natural one
+  Kremšnita: The famous cream cake
+  Lake Depth: 30 m
+  Wishing Bell: Ring it on the island
 score: 9.46
 snippet: Alpine lake resort with a cliffside castle, island church, and Julian Alps
   backdrop.
+tip: Lake Bled's island church is reached by a traditional hand-rowed pletna boat
+  — or rent a rowboat yourself; ringing the island's 'wishing bell' is the tradition.
+  Hike up to Bled Castle on its cliff for the classic view, and try a slice of kremšnita,
+  the local cream cake. Come early or late to dodge the day-trip crowds.
 title: Bled
 type: location
 ---

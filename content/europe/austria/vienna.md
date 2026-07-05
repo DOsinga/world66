@@ -12,9 +12,18 @@ image_source: https://commons.wikimedia.org/wiki/File:20250502_B%C3%A4ckerstra%C
 latitude: 48.208354
 loc_type: city
 longitude: 16.372504
+quick_facts:
+  Coffee Houses: UNESCO heritage
+  Ferris Wheel: Spinning since 1897
+  Population: 2 million
+  Roman Origin: Vindobona
 score: 9.55
 snippet: Imperial Austrian capital of Habsburg palaces, coffee houses, classical music,
   and vineyards beyond the suburbs.
+tip: Vienna runs on coffee-house culture — sit, order one melange, and you've rented
+  the table for hours; never let a waiter rush you. The Ringstrasse trams (lines 1
+  and 2) loop the grand boulevard for a normal fare. Standing-room opera tickets at
+  the Staatsoper cost a few euros if you queue.
 title: Vienna
 type: location
 ---

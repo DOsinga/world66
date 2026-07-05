@@ -1,9 +1,12 @@
 ---
-title: Dobrinishte
-type: poi
-tags: [things_to_do, sight]
 latitude: 41.8211
 longitude: 23.5622
+score: 6.8
+tags:
+- things_to_do
+- sight
+title: Dobrinishte
+type: poi
 ---
 
 Dobrinishte is a small town and minor ski resort six kilometres east of Bansko, with two reasons to make the short trip: its mineral baths and its narrow-gauge railway. The thermal water comes out of the ground at around 43°C, and a handful of public and hotel pools use it.

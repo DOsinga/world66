@@ -5,7 +5,7 @@ done:
 image: lakenaivasha.jpg
 image_attribution: Nina R from Africa
 image_license: CC BY 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Lake_Naivasha,_Kenya_(32487531978).jpg
+image_source: https://commons.wikimedia.org/wiki/File:Lake_Naivasha,_Kenya_(45446924595).jpg
 latitude: -0.758635
 loc_type: city
 longitude: 36.355377

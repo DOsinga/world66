@@ -11,6 +11,7 @@ tags:
 - village
 title: Hattoji Furusato Village
 type: poi
+score: 6.8
 ---
 
 Hattoji Furusato Village is a small rural settlement in the hills north of central Bizen. Its thatched houses, fields, and narrow lanes make it feel more like a preserved farming landscape than a staged attraction, and it pairs well with Shizutani if you have a car.

@@ -11,9 +11,18 @@ image_source: https://commons.wikimedia.org/wiki/File:1_taipei_sunrise_panorama_
 latitude: 25.03752
 loc_type: city
 longitude: 121.56368
+quick_facts:
+  Hot Springs: Volcanic Beitou in the north
+  Night Markets: Dozens across the city
+  Population: ~2.6 million
+  Taipei 101: 508 m, once world's tallest
 score: 9.31
 snippet: Taiwanese capital in a mountain-ringed basin, mixing night markets, temples,
   and a modern skyline.
+tip: Taipei is friendly, safe and superbly organised — get an EasyCard for the spotless
+  metro. Taipei 101 was the world's tallest building for years; ride up at dusk. The
+  night markets (Shilin, Raohe) are the soul of the city — go hungry. Soak in the
+  Beitou hot springs, and the National Palace Museum holds China's imperial treasures.
 title: Taipei
 type: location
 ---
@@ -22,6 +31,6 @@ Taipei is the capital and by far the largest city in [Taiwan](/asia/taiwan), hom
 
 The must-see list is well known: the [National Palace Museum](/asia/taiwan/taipei/national_palace_museum) (one of the great collections of Chinese imperial art, housed in a purpose-built complex in the north of the city), [Taipei 101](/asia/taiwan/taipei/taipei_101) (the iconic tower in the [Xinyi](/asia/taiwan/taipei/xinyi) district), and the [Chiang Kai-shek Memorial Hall](/asia/taiwan/taipei/chiang_kai_shek_memorial) (an imposing ceremonial complex in the city centre, with changing-of-the-guard ceremonies that draw crowds). [Longshan Temple](/asia/taiwan/taipei/longshan_temple) in [Wanhua](/asia/taiwan/taipei/wanhua) is the oldest and most atmospheric surviving temple in central Taipei, particularly atmospheric in the evening when worshippers are active.
 
-The [Beitou](/asia/taiwan/taipei/beitou) district in the north has hot spring hotels and bathhouses — a Japanese-era legacy that has survived intact. The [Yangmingshan National Park](/asia/taiwan/taipei/yangmingshan_national_park), accessible by bus from the city, has hiking trails, volcanic craters, and flower gardens above the city smog.
+The [Beitou](/asia/taiwan/taipei/beitou) district in the north has hot spring hotels and bathhouses — a Japanese-era legacy that has survived intact. The [Yangmingshan National Park](/asia/taiwan/yangmingshan_national_park), accessible by bus from the city, has hiking trails, volcanic craters, and flower gardens above the city smog.
 
 Taipei's real texture is in its night markets and streets. [Shilin Night Market](/asia/taiwan/taipei/shilin_night_market) is the most famous and the most touristic; [Raohe Street](/asia/taiwan/taipei/raohe_night_market) and [Ningxia](/asia/taiwan/taipei/ningxia_night_market) markets feel more local. The café culture in [Da'an District](/asia/taiwan/taipei/daan) and the Yongkang Street area is excellent by any international standard.

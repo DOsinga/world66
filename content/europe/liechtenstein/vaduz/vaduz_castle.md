@@ -1,15 +1,16 @@
 ---
-done:
-  poi_cleanup: '2026-04-20'
-latitude: 47.137
-longitude: 9.5213
-snippet: Hilltop royal residence with Rhine valley views
+latitude: 47.139444
+longitude: 9.524444
+score: 8.2
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Vaduz
 tags:
-- things_to_do
-- landmark
+  - things_to_do
+  - sight
+  - castle
+  - viewpoint
 title: Vaduz Castle
 type: poi
-score: 6.8
 ---
 
-The castle has dominated the hill above Vaduz since the 12th century and is the official residence of the reigning Prince of Liechtenstein. It is closed to the public, but the walk up from the town takes about twenty minutes and rewards you with sweeping views across the Rhine valley to Switzerland and Austria. On the national holiday (15 August) the prince opens the castle grounds for a public reception.
+Vaduz Castle is the official residence of the Prince of Liechtenstein, set on the hillside above the capital. The interior and grounds are closed, but the walk up from town gives close exterior views of the castle and broad views over Vaduz and the Rhine valley.

@@ -1,7 +1,11 @@
 ---
+latitude: 21.5441
+longitude: 83.8882
 score: 8.3
 tags:
 - things_to_do
+- sight
+- engineering
 title: Hirakud Dam
 type: poi
 ---

@@ -8,6 +8,8 @@ score: 7.6
 sources:
   - https://en.wikivoyage.org/wiki/Crooked_Tree
   - https://en.wikipedia.org/wiki/Chau_Hiix
+latitude: 17.592
+longitude: -88.55
 ---
 
 Chau Hiix is a Maya archaeological site reached from Crooked Tree by a long canoe trip through the wetland. It is not a casual ruins stop with a car park and ticket booth; the journey is part of the attraction, and conditions depend heavily on water levels and local arrangements.

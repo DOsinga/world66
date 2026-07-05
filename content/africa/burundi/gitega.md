@@ -9,9 +9,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Burundi.Gitega_36.jpg
 latitude: -3.4264
 loc_type: city
 longitude: 29.9246
+quick_facts:
+  Became Capital: '2019'
+  Elevation: ~1,500 m highlands
+  Population: ~135,000
+  Sacred Drums: Ritual drumming at Gishora
 score: 4.77
 snippet: Highland Burundian city around 1,800 metres, known for the National Museum
   and royal drumming traditions
+tip: Gitega became Burundi's political capital in 2019, taking over from Bustling
+  Bujumbura on the lake. It is small, calm and central, set in the green highlands.
+  The National Museum holds royal drums — and the sacred drum sanctuary at nearby
+  Gishora is the real draw, where drummers perform a thunderous, dancing ritual.
 title: Gitega
 type: location
 ---

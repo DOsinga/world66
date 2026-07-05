@@ -10,6 +10,8 @@ tags:
 sources:
   - https://en.wikivoyage.org/wiki/Hemmingford
   - https://vignoblelechatbotte.com/
+latitude: 45.066
+longitude: -73.588
 ---
 
 Vignoble le Chat Botte is one of the small producers that turn a Hemmingford drive into a rural food-and-drink outing. Quebec wine is still a cool-climate curiosity for many visitors, and this kind of stop works best as part of a broader orchard loop.

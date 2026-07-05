@@ -1,7 +1,10 @@
 ---
+latitude: 5.1162
+longitude: -74.4513
 score: 4.9
 tags:
 - bars_and_cafes
+- bar
 title: Adventure Lodge Bars
 type: poi
 ---

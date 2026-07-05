@@ -3,12 +3,12 @@ author: Yashar Kemal
 done:
   poi_cleanup: '2026-04-20'
 isbn: '1860463916'
+score: 8.6
 snippet: Turkey's great outlaw epic set among the Taurus Mountain peasants
 tags:
 - books
 title: Memed My Hawk
-type: poi
-score: 8.6
+type: theme
 ---
 
 Yaşar Kemal's *Memed My Hawk* (1955) is the most celebrated Turkish novel of the twentieth century and one of the great outlaw epics of world literature. Set in the Taurus Mountains of southern Turkey, it tells the story of Memed, a young peasant who becomes a brigand after fleeing the brutal landlord who controls his village.

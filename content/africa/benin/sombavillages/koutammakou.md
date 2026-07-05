@@ -1,18 +1,20 @@
 ---
-title: Koutammakou (UNESCO site)
-type: poi
-tags:
-  - things_to_do
-  - sight
 latitude: 10.0667
 longitude: 1.1333
+score: 9.1
 sources:
-  - https://en.wikipedia.org/wiki/Koutammakou
-story: >
-  When UNESCO inscribed Koutammakou in 2004, it covered only the Togo side of
-  the Batammariba homeland. In 2023 the listing was extended to include the
-  Beninese portion, formalising what locals had always known: the cultural
-  landscape stops at no border.
+- https://en.wikipedia.org/wiki/Koutammakou
+story: 'When UNESCO inscribed Koutammakou in 2004, it covered only the Togo side of
+  the Batammariba homeland. In 2023 the listing was extended to include the Beninese
+  portion, formalising what locals had always known: the cultural landscape stops
+  at no border.
+
+  '
+tags:
+- things_to_do
+- sight
+title: Koutammakou (UNESCO site)
+type: poi
 ---
 
 Koutammakou is the UNESCO World Heritage cultural landscape that covers the Batammariba homeland on both sides of the Benin–Togo border. The Togo side (about 50,000 hectares) was inscribed in 2004 and is the better-documented half; the Beninese extension was added in 2023, recognising that the cultural landscape is a single continuous fabric of tata compounds, ritual sites, sacred groves, and the agricultural land that supports them.

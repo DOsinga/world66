@@ -1,5 +1,0 @@
-europe/greece/athens
-southamerica/colombia/bogota
-europe/belgium/brussels
-asia/philippines/manila
-africa/kenya/nairobi

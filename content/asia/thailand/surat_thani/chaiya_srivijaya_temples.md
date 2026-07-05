@@ -1,7 +1,12 @@
 ---
+latitude: 9.384592
+longitude: 99.184683
 score: 8.4
 tags:
 - things_to_do
+- sight
+- temple
+- history
 title: Chaiya and the Srivijaya Temples
 type: poi
 ---

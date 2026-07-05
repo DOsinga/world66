@@ -1,8 +1,16 @@
 ---
-title: "Farap Border Crossing"
-type: poi
-tags: [things_to_do, sight]
+latitude: 39.1704
+longitude: 63.6116
 score: 4.3
+sources:
+- https://time-ok.com/coordinates/farap
+- https://www.advantour.com/turkmenistan/border-crossing.htm
+tags:
+- things_to_do
+- sight
+- border_crossing
+title: Farap Border Crossing
+type: poi
 ---
 
 The Farap crossing, about 30km north of Chardzhou along the Amu Darya, is the main overland border point between [Turkmenistan](/asia/turkmenistan) and [Uzbekistan](/asia/uzbekistan). The crossing connects to Alat on the Uzbek side, and from there to Bukhara, which is the usual destination for travelers heading east. By Central Asian standards this crossing is reasonably functional: expect a thorough search of bags and vehicle on both sides, customs forms in Turkmen and Russian, and a total processing time of one to three hours depending on traffic and the mood of the officials.

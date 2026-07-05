@@ -5,7 +5,11 @@ type: section
 
 Mount Kilimanjaro is the Everest of Africa, with its summit close to the altitude of Mt. Everest's base camp. Yet Kilimanjaro does not stand out as the highest peak in a snow-capped mountain range. It rises in complete isolation in a land of flat plains grazed by elephants, zebras and other African animals. 
 
-Kili - as the mountain is often referred to - rises to 19,336 feet (5,895 metres) in a land where no mountain seems fitting. If you arrive when this dormant volcano is obscured by cloud, you could miss it altogether, as there are no rugged foothills or plunging valleys to suggest its presence. Conquering this mountain is the dream of many visitors to Tanzania and about 20,000 hikers climb it every year.     
+Kili - as the mountain is often referred to - rises to 19,336 feet (5,895 metres) in a land where no mountain seems fitting. If you arrive when this dormant volcano is obscured by cloud, you could miss it altogether, as there are no rugged foothills or plunging valleys to suggest its presence. Conquering this mountain is the dream of many visitors to Tanzania and about 20,000 hikers climb it every year. 
+ 
+ 
+ 
+ 
 
 Mountaineering skills are not a pre-requisite but a reasonable level of fitness and a lot of determination is. Altitude sickness can set in above 9,900 ft (3,000m) and is often the reason for failing to make it to the top.
 
@@ -13,7 +17,12 @@ In 1889 it took Hans Meyer six weeks to reach the summit. These days the treks l
 
 The local Chagga guides and porters often climb the mountain once a week, while the visitor unused to such exertion, finds this once-in-a-lifetime trek a literally breathtaking, exhilarating challenge.
 
-     
+
+ 
+ 
+ 
+ 
+ 
 
 **FLORA AND FAUNA
 

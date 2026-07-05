@@ -5,9 +5,19 @@ done:
 latitude: 4.3947
 loc_type: city
 longitude: 18.5582
+quick_facts:
+  Faces: DR Congo across the water
+  Least-Visited: Among world's capitals
+  On the River: The Ubangi
+  Population: ~900,000
 score: 4.37
 snippet: Central African capital on the Oubangui River, with hills, broad avenues,
   and a riverside market core.
+tip: Bangui sits on the Ubangi River facing the DR Congo across the water. The Central
+  African Republic is one of the world's least-visited and most fragile countries;
+  check advisories, which mostly warn against travel. In stable periods the riverfront,
+  the central market and the Boganda Museum are the main sights. Travel needs serious
+  local support.
 title: Bangui
 type: location
 ---

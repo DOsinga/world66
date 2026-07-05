@@ -1,8 +1,15 @@
 ---
+latitude: 11.601944
+longitude: 165.514167
 score: 9.1
+sources:
+- https://wikimapia.org/18726464/Wreck-of-HIJMS-Nagato-%E9%95%B7%E9%96%80
+- https://divejourney.io/dive-spots/marshall-islands-hijms-nagato-wreck
 tags:
 - things_to_do
 - diving
+- wreck
+- history
 title: HIJMS Nagato
 type: poi
 ---

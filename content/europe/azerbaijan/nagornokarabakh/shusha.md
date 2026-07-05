@@ -2,16 +2,19 @@
 done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-05-21'
+image: shusha.jpg
+image_license: CC BY-SA 2.0
+image_source: https://www.flickr.com/photos/152836271@N04/40708992941
 latitude: 39.763257
 loc_type: city
 longitude: 46.75115
 score: 5.74
+snippet: Rocky Karabakh ridge city revered in Azerbaijani culture and central to the
+  region's recent conflicts
 sources:
 - https://en.wikipedia.org/wiki/Shusha_State_Historical_and_Architectural_Reserve
 - https://en.wikipedia.org/wiki/Jidir_Plain
 title: Shusha
-snippet: Rocky Karabakh ridge city revered in Azerbaijani culture and central to the
-  region's recent conflicts
 type: location
 ---
 

@@ -2,12 +2,12 @@
 address: La Antigua Guatemala
 email: elcuranderogallery@gmail.com
 phone: 7832-4955
+score: 3.8
 tags:
 - shopping
 title: Heidy Contreras
-type: poi
+type: theme
 url: www.elcurandero.com
-score: 3.8
 ---
 
 The best source for

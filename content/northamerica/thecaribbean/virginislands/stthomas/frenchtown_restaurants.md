@@ -1,7 +1,11 @@
 ---
+latitude: 18.3411
+longitude: -64.9398
 score: 6.4
 tags:
 - eating_out
+- restaurant
+- frenchtown
 title: Frenchtown
 type: poi
 ---

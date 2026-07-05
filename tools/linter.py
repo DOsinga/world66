@@ -119,7 +119,11 @@ def _tracked_markdown_files() -> list[Path]:
 def check_markdown_newlines() -> list[Issue]:
     issues = []
     for path in _tracked_markdown_files():
-        data = path.read_bytes()
+        try:
+            data = path.read_bytes()
+        except FileNotFoundError:
+            # File is tracked in git but deleted from working tree (staged deletion pending)
+            continue
         problems = []
         if b"\r\n" in data or b"\r" in data:
             problems.append("uses CRLF line endings")

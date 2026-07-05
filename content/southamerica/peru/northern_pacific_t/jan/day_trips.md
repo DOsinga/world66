@@ -1,5 +1,8 @@
 ---
-title: "Day Trips"
+linked_locations:
+- southamerica/peru/san_ignacio
+- southamerica/peru/northern_pacific_t/jan/santa_rosa
+title: Day Trips
 type: section
 ---
 
@@ -13,7 +16,7 @@ In the early morning, around 8am, take a mototaxi to the "Paradero por San Ignac
 
 ### Buena Esperanza Beach
 
-More an afternoon trip than a full day out, the riverside beach at Buena Esperanza on the Río Huancabamba is easy to reach. From the bus terminal on the main boulevard (direction [Chiclayo](/southamerica/peru/chiclayo) / [Chachapoyas](/southamerica/peru/chachapoyas)), take a colectivo car (2.5 soles) or combi minibus (2 soles) to [Buena Esperanza](/southamerica/peru/northern_pacific_t/jan/day_trips/buena_esperanza_be).
+More an afternoon trip than a full day out, the riverside beach at Buena Esperanza on the Río Huancabamba is easy to reach. From the bus terminal on the main boulevard (direction [Chiclayo](/southamerica/peru/chiclayo) / [Chachapoyas](/southamerica/peru/chachapoyas)), take a colectivo car (2.5 soles) or combi minibus (2 soles) to [Buena Esperanza](/southamerica/peru/northern_pacific_t/jan/buena_esperanza_be).
 
 ### Jaén – Bagua Chica – Santa Rosa – Puentosillos – Jaén
 

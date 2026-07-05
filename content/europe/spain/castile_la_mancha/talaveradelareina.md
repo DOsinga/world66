@@ -19,6 +19,6 @@ type: location
 
 Talavera de la Reina sits on the Tagus west of Toledo, a working Castilian city with a name that still means ceramics. Its blue, white and ochre pottery travelled far beyond Spain; even Mexico's Talavera tradition carries the echo of this town.
 
-The old centre is not as polished as [Toledo](/europe/spain/la_mancha/toledo), and that is part of the appeal. You come for the [Ruiz de Luna Ceramics Museum](/europe/spain/centralspain/talaveradelareina/ruiz_de_luna_ceramics_museum), the tilework in the [Basilica of Nuestra Senora del Prado](/europe/spain/centralspain/talaveradelareina/basilica_nuestra_senora_del_prado), the [city walls](/europe/spain/centralspain/talaveradelareina/city_walls) and a riverside walk by the Tagus.
+The old centre is not as polished as [Toledo](/europe/spain/castile_la_mancha/toledo), and that is part of the appeal. You come for the [Ruiz de Luna Ceramics Museum](/europe/spain/castile_la_mancha/talaveradelareina/ruiz_de_luna_ceramics_museum), the tilework in the [Basilica of Nuestra Senora del Prado](/europe/spain/castile_la_mancha/talaveradelareina/basilica_nuestra_senora_del_prado), the [city walls](/europe/spain/castile_la_mancha/talaveradelareina/city_walls) and a riverside walk by the Tagus.
 
 Talavera works best as a slow stop between Madrid, Toledo and Extremadura, or as a detour through the western edge of La Mancha. It is honest, a little rough in places, and much more interesting if you care about craft, river cities and the layered history of central Spain.

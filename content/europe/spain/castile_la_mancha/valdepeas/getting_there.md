@@ -9,4 +9,4 @@ The quickest option is the AVE high-speed train from Madrid Puerta de Atocha to 
 
 By car, Valdepeñas is directly on the A-4 motorway (the old road to Cádiz and Andalusia), 215 km south of Madrid. The drive takes around two hours depending on traffic leaving the capital.
 
-From [Toledo](/europe/spain/la_mancha/toledo), the drive south on the CM-42 takes about an hour. There is no direct train connection between Toledo and Valdepeñas.
+From [Toledo](/europe/spain/castile_la_mancha/toledo), the drive south on the CM-42 takes about an hour. There is no direct train connection between Toledo and Valdepeñas.

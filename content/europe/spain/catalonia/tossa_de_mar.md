@@ -16,4 +16,4 @@ Tossa de Mar is the Costa Brava at its most compact: a small beach town, a steep
 
 The walled Vila Vella is the reason to come. Its towers and lanes climb from the beach to the lighthouse on the headland, with views back across Platja Gran and down into the smaller cove of Es Codolar. You can wander the walls, drop into the old lanes, then be in the sea ten minutes later.
 
-There is more here than the postcard view. The Els Ametllers Roman villa shows that Tossa was settled long before modern tourism, while the coastal paths south and north lead into pine-covered cliffs and rocky coves. For a spare day on the [Costa Brava](/europe/spain/costa_brava), Tossa is an easy yes: old stone in the morning, beach in the afternoon, seafood after sunset.
+There is more here than the postcard view. The Els Ametllers Roman villa shows that Tossa was settled long before modern tourism, while the coastal paths south and north lead into pine-covered cliffs and rocky coves. For a spare day on the [Costa Brava](/europe/spain/catalonia/costa_brava), Tossa is an easy yes: old stone in the morning, beach in the afternoon, seafood after sunset.

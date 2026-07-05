@@ -18,6 +18,6 @@ snippet: Maresme coastal municipality north of Barcelona, set between calm beach
   and forested hills.
 ---
 
-Sant Andreu de Llavaneres is a small coastal municipality in the Maresme comarca, about 35km north of Barcelona along the Costa del Maresme. It sits between the sea and the forested hills of the [Serralada Litoral](/europe/spain/sant_andreu_de_llavaneres/serralada_litoral_trails), giving it a pleasant combination of beach access and green hiking trails nearby.
+Sant Andreu de Llavaneres is a small coastal municipality in the Maresme comarca, about 35km north of Barcelona along the Costa del Maresme. It sits between the sea and the forested hills of the [Serralada Litoral](/europe/spain/catalonia/sant_andreu_de_llavaneres/serralada_litoral_trails), giving it a pleasant combination of beach access and green hiking trails nearby.
 
-The [beach](/europe/spain/sant_andreu_de_llavaneres/beach) is narrow but calm and much less crowded than those closer to Barcelona. The [Archive Museum in Can Caralt](/europe/spain/sant_andreu_de_llavaneres/archive_museum) — a handsome 19th-century manor house — is the main cultural attraction, documenting the town's history from its agricultural origins to the present. The town is easily reached by Rodalies train from Barcelona in under an hour.
+The [beach](/europe/spain/catalonia/sant_andreu_de_llavaneres/beach) is narrow but calm and much less crowded than those closer to Barcelona. The [Archive Museum in Can Caralt](/europe/spain/catalonia/sant_andreu_de_llavaneres/archive_museum) — a handsome 19th-century manor house — is the main cultural attraction, documenting the town's history from its agricultural origins to the present. The town is easily reached by Rodalies train from Barcelona in under an hour.

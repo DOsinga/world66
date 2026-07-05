@@ -1,21 +1,24 @@
 ---
+latitude: 37.989
+longitude: 23.7321
+score: 9.5
+snippet: The world's greatest collection of ancient Greek art, including the gold
+  of Mycenae
+story: 'The gold funeral mask known as the "Mask of Agamemnon" was discovered by Heinrich
+  Schliemann in Shaft Grave V at Mycenae in 1876. Schliemann, who had already excavated
+  Troy, immediately telegraphed the Greek king to announce he had "gazed upon the
+  face of Agamemnon." He was wrong about the identity — the mask dates to the 16th
+  century BC, predating the Trojan War by several hundred years — but it remains one
+  of the most striking objects in Greek archaeology.
+
+  '
+tags:
+- things_to_do
+- museum
+- history
+- exarchia
 title: National Archaeological Museum
 type: poi
-tags:
-  - things_to_do
-  - museum
-  - history
-latitude: 37.9890
-longitude: 23.7321
-snippet: The world's greatest collection of ancient Greek art, including the gold of Mycenae
-story: >
-  The gold funeral mask known as the "Mask of Agamemnon" was discovered by Heinrich
-  Schliemann in Shaft Grave V at Mycenae in 1876. Schliemann, who had already
-  excavated Troy, immediately telegraphed the Greek king to announce he had "gazed
-  upon the face of Agamemnon." He was wrong about the identity — the mask dates
-  to the 16th century BC, predating the Trojan War by several hundred years —
-  but it remains one of the most striking objects in Greek archaeology.
-score: 9.5
 ---
 
 The National Archaeological Museum is one of the great museums of the world, and it is significantly underestimated by visitors in a hurry to reach the islands. The collection spans Greek prehistory from the Neolithic through the Roman period, with exceptional depth at every point.

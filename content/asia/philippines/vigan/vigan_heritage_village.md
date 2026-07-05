@@ -1,7 +1,12 @@
 ---
+latitude: 17.572
+longitude: 120.389
 score: 9.3
 tags:
 - things_to_do
+- sight
+- architecture
+- heritage
 title: Vigan Heritage Village
 type: poi
 ---

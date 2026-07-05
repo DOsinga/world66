@@ -3,6 +3,7 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-16'
   location_enrich: '2026-06-04'
+  major_city_neighborhoods: '2026-06-26'
   poi_cleanup: '2026-04-19'
 image: nairobi.jpg
 image_attribution: Timothy A. Gonsalves
@@ -11,9 +12,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Buffalo_Nairobi_Skyline_Sa
 latitude: -1.302615
 loc_type: city
 longitude: 36.828842
+quick_facts:
+  Elevation: 1,795 m
+  Founded: 1899, as a rail depot
+  National Park: Wildlife within city limits
+  Population: ~5 million
 score: 7.57
 snippet: Mile-high Kenyan capital where East African urban life meets wildlife inside
   city limits.
+tip: Nairobi is the only capital on earth with a national park on its doorstep — you
+  can photograph lions with skyscrapers behind them. Use it as a launchpad for safaris,
+  and visit the Sheldrick elephant orphanage and Giraffe Centre. Traffic ('the jam')
+  is brutal, so plan around it, and stay alert with valuables in the centre.
 title: Nairobi
 type: location
 ---

@@ -1,7 +1,11 @@
 ---
+latitude: 30.1037
+longitude: -90.9921
 score: 6.8
 tags:
 - eating_out
+- restaurant
+- cajun
 title: Lafitte's Landing at Bittersweet Plantation
 type: poi
 ---

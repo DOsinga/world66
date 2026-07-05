@@ -1,7 +1,11 @@
 ---
+latitude: 25.0686
+longitude: 73.8753
 score: 8.2
 tags:
 - things_to_do
+- sight
+- architecture
 title: Nauchowki
 type: poi
 ---

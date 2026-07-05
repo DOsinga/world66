@@ -1,6 +1,6 @@
 ---
-latitude: 37.9572
-longitude: 23.7201
+latitude: 37.96302
+longitude: 23.72526
 score: 7.3
 snippet: Athens' main contemporary art museum, housed in the converted Fix brewery
   near Syngrou-Fix.
@@ -11,6 +11,7 @@ tags:
 - things_to_do
 - museum
 - art
+- koukaki
 title: National Museum of Contemporary Art
 type: poi
 ---

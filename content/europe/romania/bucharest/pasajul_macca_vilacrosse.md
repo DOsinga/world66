@@ -2,6 +2,7 @@
 address: Strada Eugeniu Carada, Bucharest
 latitude: 44.4331
 longitude: 26.0986
+score: 7.2
 snippet: Glass-covered yellow arcade lined with hookah cafés
 tags:
 - things_to_do

@@ -1,13 +1,14 @@
 ---
-title: Natta
-type: poi
-tags:
-  - things_to_do
-  - sight
 latitude: 10.1833
 longitude: 1.05
+score: 6.1
 sources:
-  - https://en.wikipedia.org/wiki/Natta,_Benin
+- https://en.wikipedia.org/wiki/Natta,_Benin
+tags:
+- things_to_do
+- sight
+title: Natta
+type: poi
 ---
 
 Natta is a small Somba arrondissement just west of Boukoumbé and one of several places where the traditional tata compounds can be visited without too much fuss. The setting is flatter than Koussoukoingou — open millet country rather than ridge-top — and the compounds are spread thinly across the fields, each one a self-contained homestead with its livestock, granaries, and shrine.

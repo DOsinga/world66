@@ -1,9 +1,6 @@
 ---
-latitude: 10.673995
-longitude: 76.186901
 title: Shopping
-type: poi
-score: 1.3
+type: section
 ---
 
 ADS MAGIC

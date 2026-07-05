@@ -1,9 +1,12 @@
 ---
-title: Karathona Beach
-type: poi
-tags: [things_to_do, beach]
 latitude: 37.5519
 longitude: 22.8061
+score: 6.8
+tags:
+- things_to_do
+- beach
+title: Karathona Beach
+type: poi
 ---
 
 Karathona is Nafplio's town beach — a kilometre-long curve of coarse sand and pebbles on a wide bay south of the Palamidi headland. The water shelves gently and stays calm enough for kids; a string of beach bars and tavernas along the back of the beach handles the food and drink.

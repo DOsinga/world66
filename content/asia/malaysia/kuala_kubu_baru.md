@@ -2,6 +2,10 @@
 done:
   location_cleanup: 2026-04-06
   location_enrich: '2026-06-04'
+image: kualakububaru.jpg
+image_attribution: '*angys*'
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Kuala_Kubu_Bharu_(220712)_06.jpg
 latitude: 3.5533
 loc_type: city
 longitude: 101.6395

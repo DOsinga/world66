@@ -11,7 +11,7 @@ Turkey has an embarrassment of things to see. The challenge isn't finding highli
 
 **[Ephesus](/asia/turkey/ephesus)** is one of the best-preserved Roman cities on earth. The marble Library of Celsus, the Great Theatre (which held 24,000 people), the colonnaded Curetes Street — this is what Rome looked like when it was alive. The site is large; go early before the cruise ship crowds arrive. The small town of [Selcuk](/asia/turkey/selcuk) nearby has good accommodation and is the better base than Kusadasi.
 
-**[Pamukale](/asia/turkey/pamukale)** — the Cotton Castle — is a hillside of white calcium terraces formed by mineral-rich hot springs cascading down the slope. It looks genuinely strange. Above the terraces sit the ruins of Hierapolis, a Roman spa city where invalids came to bathe in the healing waters. The combination of the two is worth the journey.
+**[Pamukale](/asia/turkey/gallipoli_troy/pamukkale)** — the Cotton Castle — is a hillside of white calcium terraces formed by mineral-rich hot springs cascading down the slope. It looks genuinely strange. Above the terraces sit the ruins of Hierapolis, a Roman spa city where invalids came to bathe in the healing waters. The combination of the two is worth the journey.
 
 **[Gallipoli](/asia/turkey/gallipoli)** and the World War I battlefields are more moving than a simple historical site has any right to be. The Allied landings of 1915 and the months of brutal fighting that followed — with enormous losses on both sides — shaped both Australian/New Zealand national identity and modern Turkish identity (Ataturk commanded here). The cemeteries, the memorials, and the physical terrain of the Gallipoli Peninsula make this one of the most affecting war sites in Europe or Asia.
 

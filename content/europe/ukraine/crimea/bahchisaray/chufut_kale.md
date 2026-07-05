@@ -2,6 +2,7 @@
 address: Chufut-Kale, Bakhchysarai
 latitude: 44.7411
 longitude: 33.9244
+score: 9.0
 snippet: Cliff-top medieval cave city of the Karaim Jews
 story: The name means 'Jewish Fortress' in Crimean Tatar and refers to the Karaim
   Jews who lived here for over four centuries after the Crimean Tatars moved their

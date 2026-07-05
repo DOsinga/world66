@@ -1,10 +1,10 @@
 ---
+score: 3.3
 tags:
 - eating_out
 - restaurant
 title: Suite Bonne Egrette
-type: poi
-score: 3.3
+type: theme
 ---
 
 type: general

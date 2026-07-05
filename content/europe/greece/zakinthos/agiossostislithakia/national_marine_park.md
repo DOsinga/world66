@@ -1,11 +1,14 @@
 ---
+latitude: 37.705
+longitude: 20.8884
+score: 8.3
+sources:
+- https://en.wikipedia.org/wiki/National_Marine_Park_of_Zakynthos
+tags:
+- things_to_do
+- nature
 title: National Marine Park of Zakynthos
 type: poi
-tags: [things_to_do, nature]
-latitude: 37.7050
-longitude: 20.8884
-sources:
-  - https://en.wikipedia.org/wiki/National_Marine_Park_of_Zakynthos
 ---
 
 The National Marine Park of Zakynthos was established in 1999 and covers most of Laganas Bay and the southern tip of the island. It is the first marine national park in Greece and one of the most important loggerhead turtle nesting sites in the Mediterranean. The protected zone is divided into three sub-areas, with progressively stricter restrictions on boat speed, anchoring and beach access as you move toward the core nesting beaches at Sekania, Dafni and [Marathonisi](/europe/greece/zakinthos/agiossostislithakia/marathonisi).

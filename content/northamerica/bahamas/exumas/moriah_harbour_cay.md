@@ -1,11 +1,16 @@
 ---
-title: "Moriah Harbour Cay National Park"
-type: poi
-category: "Sight"
-snippet: "Mangrove-lined national park ideal for kayaking"
+category: Sight
 latitude: 23.4917
-longitude: -75.7750
+longitude: -75.775
 score: 8.4
+snippet: Mangrove-lined national park ideal for kayaking
+tags:
+- things_to_do
+- sight
+- nature
+- kayaking
+title: Moriah Harbour Cay National Park
+type: poi
 ---
 
 A 27,000-acre national park stretching between Great Exuma and Little Exuma, protecting mangrove creeks, seagrass beds, tidal flats, blue holes, and coral reefs. The park is a critical nursery for fish and shellfish and home to ospreys, herons, and other wading birds.

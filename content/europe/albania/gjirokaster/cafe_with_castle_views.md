@@ -1,7 +1,13 @@
 ---
+latitude: 40.07425
+longitude: 20.13812
 score: 6.7
+sources:
+- https://www.indefiniteadventure.com/gjirokastraenjoy-the-old-bazaar-in-traditional-costumes/
 tags:
 - bars_and_cafes
+- bar
+- cafe
 title: Café Views of the Castle
 type: poi
 ---

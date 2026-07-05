@@ -1,11 +1,14 @@
 ---
-snippet: The medieval street grid between the cathedral and the Eure, with half-timbered houses and stone facades
+latitude: 48.4481
+longitude: 1.4881
+score: 8.3
+snippet: The medieval street grid between the cathedral and the Eure, with half-timbered
+  houses and stone facades
 tags:
 - things_to_do
 - walk
 title: Old Town
 type: poi
-score: 8.3
 ---
 
 The medieval centre of Chartres sits on a plateau above the Eure, with the cathedral at its highest point and a network of lanes descending steeply to the river. The streets around the Place de la Poissonerie, the Rue des Écuyers, and the Rue de la Tannerie are lined with medieval half-timbered houses, Renaissance stone facades, and carved doorways. Several of the lanes retain traces of the trades that once occupied them — tanners, dyers, water-carriers — in their names and in the houses' relationship to the river below.

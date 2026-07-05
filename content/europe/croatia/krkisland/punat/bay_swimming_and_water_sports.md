@@ -1,7 +1,12 @@
 ---
+latitude: 45.0196
+longitude: 14.6312
 score: 7.2
 tags:
 - things_to_do
+- beach
+- swimming
+- water_sports
 title: Bay Swimming and Water Sports
 type: poi
 ---

@@ -32,4 +32,4 @@ Most of Uttar Pradesh consists of the vast Ganges plain, endlessly flat and agri
 [Varanasi](/asia/india/uttarpradesh/varanasi)
 [Fatehpur Sikri](/asia/india/uttarpradesh/agra/fatehpur_sikri)
 [Haridwar](/asia/india/uttaranchal/haridwar)
-[Rishikesh](/asia/india/uttarpradesh/rishikesh)
+[Rishikesh](/asia/india/uttaranchal/rishikesh)

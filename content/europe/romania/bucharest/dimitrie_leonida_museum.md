@@ -2,6 +2,7 @@
 address: Strada Candiano Popescu 2, Bucharest
 latitude: 44.4159
 longitude: 26.0982
+score: 5.7
 snippet: Retro-futurist museum of Romanian engineering
 tags:
 - things_to_do

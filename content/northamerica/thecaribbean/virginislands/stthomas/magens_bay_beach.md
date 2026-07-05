@@ -1,7 +1,11 @@
 ---
+latitude: 18.3615
+longitude: -64.9256
 score: 8.5
 tags:
 - things_to_do
+- sight
+- beach
 title: Magens Bay Beach
 type: poi
 ---

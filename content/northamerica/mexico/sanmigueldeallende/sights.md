@@ -1,9 +1,8 @@
 ---
 accessibility: Everyone
 title: Sights in San Miguel de Allende
-type: poi
+type: section
 url: www.sanmigueldeallende.com
-score: 3.5
 ---
 
 Sights for San Miguel de Allende coming soon.

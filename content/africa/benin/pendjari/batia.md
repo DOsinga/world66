@@ -1,11 +1,12 @@
 ---
+latitude: 11.5
+longitude: 1.5
+score: 6.7
+tags:
+- things_to_do
+- sight
 title: Batia
 type: poi
-tags:
-  - things_to_do
-  - sight
-latitude: 11.50
-longitude: 1.50
 ---
 
 Batia is a small village inside the southern edge of the park, traditionally the operational hub for Pendjari and the site of the historic park lodge. African Parks, who manage Pendjari, run the main field operations from this area — anti-poaching patrols, community work, and visitor reception. For most travellers, Batia is the practical centre of any in-park stay: the place where game drives are organised, guides are picked up, and where you are most likely to spend your nights.

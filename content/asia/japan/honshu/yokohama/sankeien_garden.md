@@ -1,7 +1,12 @@
 ---
+latitude: 35.4154
+longitude: 139.6595
 score: 8.9
 tags:
 - things_to_do
+- sight
+- garden
+- historic_house
 title: Sankeien Garden
 type: poi
 ---

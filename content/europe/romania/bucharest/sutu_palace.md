@@ -2,6 +2,7 @@
 address: Bulevardul I. C. Brătianu 2, Bucharest
 latitude: 44.4344
 longitude: 26.1027
+score: 7.1
 snippet: 1834 neogothic palace housing the Bucharest City Museum
 tags:
 - things_to_do

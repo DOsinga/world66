@@ -1,7 +1,10 @@
 ---
+latitude: 4.1265
+longitude: 103.3925
 score: 5.8
 tags:
 - eating_out
+- restaurant
 title: Village Restaurants
 type: poi
 ---

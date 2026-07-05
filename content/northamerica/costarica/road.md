@@ -1,12 +1,12 @@
 ---
 done:
   poi_cleanup: '2026-04-20'
+score: 3.8
 snippet: Driving into Costa Rica from Nicaragua or Panama
 tags:
 - getting_there
 title: Road
-type: poi
-score: 3.8
+type: theme
 ---
 
 The Inter-American Highway (Ruta 1 / Ruta 2) runs the length of Costa Rica, entering from Nicaragua at Peñas Blancas in the north and crossing into Panama at Paso Canoas in the south. The full drive from border to border is roughly 550 km and passes through San José.

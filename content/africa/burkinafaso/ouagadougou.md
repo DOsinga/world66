@@ -10,9 +10,18 @@ image_source: https://www.flickr.com/photos/13176024@N02/2398635598
 latitude: 12.368187
 loc_type: city
 longitude: -1.527094
+quick_facts:
+  Bronze Casters: A local craft tradition
+  FESPACO: Africa's biggest film festival
+  Population: ~2.5 million
+  Short Name: '''Ouaga'''
 score: 5.62
 snippet: Burkina Faso's capital, centered on markets, music, film culture, and broad
   Sahelian avenues.
+tip: Everyone shortens Ouagadougou to 'Ouaga'. It punches above its weight culturally
+  as the host of FESPACO, Africa's biggest film festival, held every two years. The
+  Grand Marché is the place to buy bronze and bogolan mud-cloth. It is hot and dusty,
+  especially in the Harmattan season; drink far more water than you think you need.
 title: Ouagadougou
 type: location
 ---

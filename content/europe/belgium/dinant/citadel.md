@@ -2,6 +2,7 @@
 address: Le Prieuré 25, 5500 Dinant
 latitude: 50.2618
 longitude: 4.913
+score: 9.1
 snippet: Fortress 100m above the Meuse, reached by cable car or 408 steps
 story: The fortress was sacked and rebuilt at least a dozen times. The most notorious
   occasion was in 1466, when Charles the Bold's Burgundian troops captured the town,

@@ -10,9 +10,19 @@ image_source: https://commons.wikimedia.org/wiki/File:East_facade_Hawa_Mahal_Jai
 latitude: 26.9154
 loc_type: city
 longitude: 75.819
+quick_facts:
+  Founded: '1727'
+  Hawa Mahal: 953 windows
+  Population: 3 million
+  The Pink City: Painted pink in 1876
 score: 9.42
 snippet: Rajasthani capital and Pink City, with terracotta walls, royal palaces, and
   planned old-town avenues.
+tip: Jaipur, the 'Pink City', painted itself terracotta-pink to welcome a royal visit
+  in 1876 and stayed that way by law. Start early at the Amber Fort before the heat;
+  skip the elephant rides (welfare concerns) and take a jeep. The City Palace and
+  Jantar Mantar observatory are in the old town. Haggle hard for textiles and gems,
+  and beware 'commission' touts.
 title: Jaipur
 type: location
 ---

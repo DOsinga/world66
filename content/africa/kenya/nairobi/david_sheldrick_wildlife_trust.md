@@ -1,17 +1,17 @@
 ---
 done:
   poi_cleanup: '2026-04-19'
-latitude: -1.3714
-longitude: 36.7892
+latitude: -1.37778
+longitude: 36.77305
+neighbourhood: Langata
+score: 8.5
 snippet: Elephant orphanage with daily public feeding sessions
 tags:
 - things_to_do
 - day_trips
 - langata
-neighbourhood: Langata
 title: David Sheldrick Wildlife Trust
 type: poi
-score: 8.5
 ---
 
 The David Sheldrick Wildlife Trust runs an elephant orphanage at the edge of Nairobi National Park in Langata, rescuing and rehabilitating elephant and rhino calves whose mothers have been killed by poachers or who have become separated from their herds. Founded by Daphne Sheldrick, it is one of the most successful elephant conservation programmes in Africa.

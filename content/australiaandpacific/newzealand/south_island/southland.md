@@ -26,4 +26,5 @@ If you are not walking the Milford or Kepler tracks, Southland rewards slow trav
 ## Destinations in Southland
 
 - [Fiordland](/australiaandpacific/newzealand/south_island/southland/fiordland) — wilderness national park containing the Milford and Doubtful sounds
+- [Gore](/australiaandpacific/newzealand/south_island/southland/gore) — eastern Southland town known for brown trout fishing and country music
 - [Invercargill](/australiaandpacific/newzealand/south_island/otago/invercargill) — the region's main city and southern gateway

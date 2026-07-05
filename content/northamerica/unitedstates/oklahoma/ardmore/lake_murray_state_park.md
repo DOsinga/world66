@@ -1,7 +1,12 @@
 ---
+latitude: 34.089167
+longitude: -97.075556
 score: 8.0
 tags:
 - things_to_do
+- sight
+- park
+- lake
 title: Lake Murray State Park
 type: poi
 ---

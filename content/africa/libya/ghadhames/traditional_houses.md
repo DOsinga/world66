@@ -1,8 +1,11 @@
 ---
+latitude: 30.1332
+longitude: 9.5002
 score: 8.8
 tags:
 - things_to_do
-- sightseeing
+- sight
+- architecture
 title: Traditional Ghadames Houses
 type: poi
 ---

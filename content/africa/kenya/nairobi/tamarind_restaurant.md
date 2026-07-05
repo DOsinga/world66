@@ -1,13 +1,15 @@
 ---
-title: Tamarind Restaurant
-type: poi
-tags:
-  - eating_out
-  - restaurant
 latitude: -1.2826
 longitude: 36.8159
-snippet: Nairobi's most established seafood restaurant, serving Swahili Coast fish dishes in a city far from the sea
 score: 6.2
+snippet: Nairobi's most established seafood restaurant, serving Swahili Coast fish
+  dishes in a city far from the sea
+tags:
+- eating_out
+- restaurant
+- cbd
+title: Tamarind Restaurant
+type: poi
 ---
 
 Tamarind is one of Nairobi's oldest upscale restaurants and remains one of the best places in the city for seafood — a slightly unusual proposition for a highland capital 500 km from the coast. The kitchen flies in fish and lobster from the Swahili Coast and prepares them in Swahili-influenced sauces: coconut, tamarind, lime, and chilli.

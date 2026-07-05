@@ -1,7 +1,11 @@
 ---
+latitude: 21.474
+longitude: 83.9591
 score: 8.1
 tags:
 - things_to_do
+- sight
+- temple
 title: Samaleswari Temple
 type: poi
 ---

@@ -1,11 +1,12 @@
 ---
+latitude: 10.2
+longitude: 1.15
+score: 6.6
+tags:
+- eating_out
+- bar
 title: Tchoukoutou (millet beer)
 type: poi
-tags:
-  - eating_out
-  - sight
-latitude: 10.20
-longitude: 1.15
 ---
 
 Tchoukoutou — chakpalo in some local languages — is a slightly sour, low-alcohol beer brewed from sorghum or red millet, the everyday drink of the Atakora region and one of the small pleasures of visiting Somba country. It is served warm in a calabash, with the dregs at the bottom and a slight effervescence on top, and the recipe varies village to village and brewer to brewer. There is usually one or two women in each compound who are known as the best brewers in the area.

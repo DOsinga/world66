@@ -1,11 +1,8 @@
 ---
 address: India
-latitude: 22.351115
-longitude: 78.667743
 title: Practical Information
-type: poi
+type: section
 url: www.theincredibleindiatravel.com
-score: 1.5
 ---
 
 Incredible India Travel provides Travel and Tour Packages to India. For more information about Indian Holiday, India Travels, Beach tour, Travel Agents In India, Cheap Travel To India, India Travel Agency.

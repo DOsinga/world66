@@ -32,4 +32,4 @@ Beyond the cities, Serbia rewards exploration. [Zlatibor](/europe/serbia/zlatibo
 
 Serbia is affordable, safe, and easy to navigate. The food is outstanding, the wine is improving fast, and the welcome is genuine. It is one of those places that travelers discover and immediately want to return to.
 
-**Destinations:** [Belgrade](/europe/serbia/belgrade), [Zlatibor](/europe/serbia/zlatibor), [Sokobanja](/europe/serbia/sokobanja), [Lozovik](/europe/serbia/lozovik), [Novi Beograd](/europe/serbia/novi_beograd)
+**Destinations:** [Belgrade](/europe/serbia/belgrade), [Zlatibor](/europe/serbia/zlatibor), [Sokobanja](/europe/serbia/sokobanja), [Lozovik](/europe/serbia/lozovik), [Novi Beograd](/europe/serbia/novi_beograd), [Sombor](/europe/serbia/sombor)

@@ -1,0 +1,2812 @@
+{
+  "cols": 36,
+  "rows": 18,
+  "tile_size": 64,
+  "image": "/static/widgets/photo-map.png",
+  "tiles": [
+    {
+      "x": 0,
+      "y": 6,
+      "corners": [
+        "tl",
+        "tr",
+        "br",
+        "bl"
+      ],
+      "title": "Midway Islands",
+      "url": "/australiaandpacific/midwayislands",
+      "image": "/content-image/australiaandpacific/midwayislands.jpg",
+      "snippet": "Remote American Pacific atoll where vast albatross colonies nest around a pivotal World War II battlefield.",
+      "score": 0.09,
+      "type": "location"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "corners": [
+        "tl"
+      ],
+      "title": "Taveuni",
+      "url": "/australiaandpacific/fiji/taveuni",
+      "image": "/content-image/australiaandpacific/fiji/taveuni.jpg",
+      "snippet": "Lush volcanic Fijian island known as the Garden Island, crossed by the 180th meridian.",
+      "score": 8.87,
+      "type": "location"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "corners": [
+        "br",
+        "bl"
+      ],
+      "title": "Nuku'alofa",
+      "url": "/australiaandpacific/tonga/tongatapu/nukualofa",
+      "image": "/content-image/australiaandpacific/tonga/tongatapu/nukualofa.jpg",
+      "snippet": "Tongan capital on Tongatapu's north shore, centred on the royal palace, tombs, and waterfront.",
+      "score": 7.46,
+      "type": "location"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "corners": [],
+      "title": "Ofu",
+      "url": "/australiaandpacific/americansamoa/ofu",
+      "image": "/content-image/australiaandpacific/americansamoa/ofu.jpg",
+      "snippet": "Manu'a island with a national park beach and fringing reef off American Samoa's eastern edge",
+      "score": 7.67,
+      "type": "location"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "corners": [
+        "tl",
+        "tr"
+      ],
+      "title": "Barrow",
+      "url": "/northamerica/unitedstates/alaska/barrow",
+      "image": "/content-image/northamerica/unitedstates/alaska/barrow.jpg",
+      "snippet": "Arctic Alaska city, officially Utqiagvik, where Inupiat whaling culture meets the Chukchi and Beaufort seas.",
+      "score": 6.15,
+      "type": "location"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "corners": [],
+      "title": "Talkeetna",
+      "url": "/northamerica/unitedstates/alaska/talkeetna",
+      "image": "/content-image/northamerica/unitedstates/alaska/talkeetna.jpg",
+      "snippet": "Alaskan river town and Denali staging point, full of bush planes and log buildings",
+      "score": 7.83,
+      "type": "location"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "corners": [
+        "br",
+        "bl"
+      ],
+      "title": "Homer",
+      "url": "/northamerica/unitedstates/alaska/homer",
+      "image": "/content-image/northamerica/unitedstates/alaska/homer.jpg",
+      "snippet": "Kenai Peninsula fishing town on Kachemak Bay, with a bohemian arts scene and working Spit.",
+      "score": 8.05,
+      "type": "location"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "corners": [
+        "tl",
+        "tr"
+      ],
+      "title": "Maui",
+      "url": "/northamerica/unitedstates/hawaii/maui",
+      "image": "/content-image/northamerica/unitedstates/hawaii/maui.jpg",
+      "snippet": "Hawaiian island combining beaches, volcanic mountains, small towns, and the road to H\u0101na.",
+      "score": 9.92,
+      "type": "location"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "corners": [
+        "br",
+        "bl"
+      ],
+      "title": "Kailua-Kona",
+      "url": "/northamerica/unitedstates/hawaii/kailua",
+      "image": "/content-image/northamerica/unitedstates/hawaii/kailua.jpg",
+      "snippet": "Big Island resort town on the Kona coast, strung along Ali'i Drive below Hualalai volcano",
+      "score": 9.22,
+      "type": "location"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "corners": [
+        "tl",
+        "tr"
+      ],
+      "title": "Penrhyn",
+      "url": "/australiaandpacific/cookislands/penrhyn",
+      "image": "/content-image/australiaandpacific/cookislands/penrhyn.jpg",
+      "snippet": "Remote northern Cook Islands atoll with a vast lagoon, deepwater harbour, and fine pandanus weaving tradition.",
+      "score": 6.89,
+      "type": "location"
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "corners": [],
+      "title": "Bora Bora",
+      "url": "/australiaandpacific/frenchpolynesia/borabora",
+      "image": "/content-image/australiaandpacific/frenchpolynesia/borabora.jpg",
+      "snippet": "French Polynesian island of volcanic peaks, turquoise lagoon, and sandy motu around a coral reef.",
+      "score": 9.9,
+      "type": "location"
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "corners": [
+        "br",
+        "bl"
+      ],
+      "title": "Mangaia",
+      "url": "/australiaandpacific/cookislands/mangaia",
+      "image": "/content-image/australiaandpacific/cookislands/mangaia.jpg",
+      "snippet": "Ancient Cook Islands island ringed by jagged makatea cliffs and honeycombed with caves.",
+      "score": 7.67,
+      "type": "location"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "corners": [],
+      "title": "Denali National Park",
+      "url": "/northamerica/unitedstates/alaska/denalipark",
+      "image": "/content-image/northamerica/unitedstates/alaska/denalipark.jpg",
+      "snippet": "Vast Alaskan wilderness park anchored by Denali, with one road through tundra, taiga, and wildlife.",
+      "score": 9.4,
+      "type": "location"
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "corners": [
+        "tr",
+        "br"
+      ],
+      "title": "Moorea",
+      "url": "/australiaandpacific/frenchpolynesia/moorea",
+      "image": "/content-image/australiaandpacific/frenchpolynesia/moorea.jpg",
+      "snippet": "Mountainous Society Islands escape with turquoise lagoons, deep bays, and easy ferry access from Tahiti",
+      "score": 9.75,
+      "type": "location"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "corners": [
+        "tr"
+      ],
+      "title": "Whitehorse",
+      "url": "/northamerica/canada/the_yukon_territory/whitehorse",
+      "image": "/content-image/northamerica/canada/the_yukon_territory/whitehorse.jpg",
+      "snippet": "Yukon capital on the Alaska Highway, serving as the main hub for northern wilderness trips.",
+      "score": 7.8,
+      "type": "location"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "corners": [
+        "bl"
+      ],
+      "title": "Juneau",
+      "url": "/northamerica/unitedstates/alaska/juneau",
+      "image": "/content-image/northamerica/unitedstates/alaska/juneau.jpg",
+      "snippet": "Alaska capital on the Gastineau Channel, reachable only by sea or air and backed by mountains.",
+      "score": 8.73,
+      "type": "location"
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "corners": [
+        "tl",
+        "tr",
+        "br",
+        "bl"
+      ],
+      "title": "Marquesas",
+      "url": "/australiaandpacific/frenchpolynesia/marquesas",
+      "image": "/content-image/australiaandpacific/frenchpolynesia/marquesas.jpg",
+      "snippet": "Remote Polynesian island group of jagged volcanic peaks, lush valleys, stone platforms, and giant tiki.",
+      "score": 9.08,
+      "type": "location"
+    },
+    {
+      "x": 4,
+      "y": 11,
+      "corners": [
+        "tl",
+        "tr",
+        "br",
+        "bl"
+      ],
+      "title": "Mangareva",
+      "url": "/australiaandpacific/frenchpolynesia/mangareva",
+      "image": "/content-image/australiaandpacific/frenchpolynesia/mangareva.jpg",
+      "snippet": "Remote Gambier Islands village and pearl-farming centre set inside a vast French Polynesian lagoon",
+      "score": 7.57,
+      "type": "location"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "corners": [],
+      "title": "Whistler",
+      "url": "/northamerica/canada/britishcolumbia/whistler",
+      "image": "/content-image/northamerica/canada/britishcolumbia/whistler.jpg",
+      "snippet": "British Columbia mountain resort town between Whistler and Blackcomb, with North America\u2019s largest ski area.",
+      "score": 8.99,
+      "type": "location"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "corners": [],
+      "title": "Vancouver",
+      "url": "/northamerica/canada/britishcolumbia/vancouver",
+      "image": "/content-image/northamerica/canada/britishcolumbia/vancouver.jpg",
+      "snippet": "Pacific port city where dense downtown neighbourhoods sit between Coast Mountains, forest, and saltwater.",
+      "score": 9.37,
+      "type": "location"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "corners": [
+        "bl"
+      ],
+      "title": "San Francisco",
+      "url": "/northamerica/unitedstates/california/sanfrancisco",
+      "image": "/content-image/northamerica/unitedstates/california/sanfrancisco.jpg",
+      "snippet": "Hilly Pacific port city where fog, Victorian streets, and bay views define northern California's imagination",
+      "score": 9.69,
+      "type": "location"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "corners": [
+        "tl"
+      ],
+      "title": "Fort Smith",
+      "url": "/northamerica/canada/northwestterritories/fort_smith",
+      "image": "/content-image/northamerica/canada/northwestterritories/fort_smith.jpg",
+      "snippet": "Northwest Territories town and gateway to Wood Buffalo National Park, set beside Slave River rapids.",
+      "score": 6.35,
+      "type": "location"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "corners": [],
+      "title": "Banff",
+      "url": "/northamerica/canada/alberta/banff",
+      "image": "/content-image/northamerica/canada/alberta/banff.jpg",
+      "snippet": "Rocky Mountain park town surrounded by Canada's first national park, hot springs, elk, and alpine peaks",
+      "score": 9.78,
+      "type": "location"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "corners": [],
+      "title": "Yellowstone",
+      "url": "/northamerica/unitedstates/wyoming/yellowstone",
+      "image": "/content-image/northamerica/unitedstates/wyoming/yellowstone.jpg",
+      "snippet": "Vast American national park on a volcanic hotspot, packed with geysers, hot springs, and wildlife.",
+      "score": 9.79,
+      "type": "location"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "corners": [],
+      "title": "Grand Canyon",
+      "url": "/northamerica/unitedstates/arizona/grandcanyon",
+      "image": "/content-image/northamerica/unitedstates/arizona/grandcanyon.jpg",
+      "snippet": "Arizona canyon carved by the Colorado River through miles of layered rock.",
+      "score": 9.91,
+      "type": "location"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "corners": [
+        "bl"
+      ],
+      "title": "Todos Santos",
+      "url": "/northamerica/mexico/todos_santos",
+      "image": "/content-image/northamerica/mexico/todos_santos.jpg",
+      "snippet": "Baja California Sur arts town near Pacific surf breaks, with galleries in colonial streets",
+      "score": 8.11,
+      "type": "location"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "corners": [
+        "tr"
+      ],
+      "title": "Canada",
+      "url": "/northamerica/canada",
+      "image": "/content-image/northamerica/canada.jpg",
+      "snippet": "Vast northern country of cosmopolitan cities, wild coasts, prairie, mountains, and high Arctic space.",
+      "score": 0.88,
+      "type": "location"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "corners": [],
+      "title": "Saskatoon",
+      "url": "/northamerica/canada/saskatchewan/saskatoon",
+      "image": "/content-image/northamerica/canada/saskatchewan/saskatoon.jpg",
+      "snippet": "Prairie river city in Saskatchewan, known for its South Saskatchewan bridges and Meewasin trails.",
+      "score": 6.89,
+      "type": "location"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "corners": [],
+      "title": "Mount Rushmore",
+      "url": "/northamerica/unitedstates/southdakota/mountrushmore",
+      "image": "/content-image/northamerica/unitedstates/southdakota/mountrushmore.jpg",
+      "snippet": "Black Hills memorial where four presidential faces are carved into granite above South Dakota forest",
+      "score": 8.53,
+      "type": "location"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "corners": [],
+      "title": "Canyonlands",
+      "url": "/northamerica/unitedstates/utah/canyonlands",
+      "image": "/content-image/northamerica/unitedstates/utah/canyonlands.jpg",
+      "snippet": "Southeastern Utah national park of canyons, mesas, and arches carved by the Colorado and Green rivers.",
+      "score": 9.35,
+      "type": "location"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "corners": [],
+      "title": "San Miguel de Allende",
+      "url": "/northamerica/mexico/sanmigueldeallende",
+      "image": "/content-image/northamerica/mexico/sanmigueldeallende.jpg",
+      "snippet": "High-desert colonial city in Guanajuato, centred on ochre streets and the pink Parroquia skyline",
+      "score": 9.21,
+      "type": "location"
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "corners": [
+        "bl"
+      ],
+      "title": "Morelia",
+      "url": "/northamerica/mexico/morelia",
+      "image": "/content-image/northamerica/mexico/morelia.jpg",
+      "snippet": "Michoac\u00e1n capital of pink cantera arcades, baroque churches, and a UNESCO-listed colonial centre.",
+      "score": 8.55,
+      "type": "location"
+    },
+    {
+      "x": 7,
+      "y": 11,
+      "corners": [
+        "tl",
+        "tr",
+        "br",
+        "bl"
+      ],
+      "title": "Easter Island",
+      "url": "/southamerica/chile/easterisland",
+      "image": "/content-image/southamerica/chile/easterisland.jpg",
+      "snippet": "Remote Rapa Nui island in the South Pacific, famous for its volcanic landscape and moai statues.",
+      "score": 9.51,
+      "type": "location"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "corners": [
+        "tl",
+        "tr",
+        "br",
+        "bl"
+      ],
+      "title": "Resolute",
+      "url": "/northamerica/canada/nunavut/resolute",
+      "image": "/content-image/northamerica/canada/nunavut/resolute.jpg",
+      "snippet": "High Arctic Inuit hamlet on Cornwallis Island, shaped by polar research and long seasonal light",
+      "score": 5.66,
+      "type": "location"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "corners": [
+        "tr"
+      ],
+      "title": "Churchill",
+      "url": "/northamerica/canada/manitoba/churchill",
+      "image": "/content-image/northamerica/canada/manitoba/churchill.jpg",
+      "snippet": "Remote Hudson Bay town where polar bears, beluga whales, and northern lights define the subarctic edge",
+      "score": 8.35,
+      "type": "location"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "corners": [],
+      "title": "Pictured Rocks",
+      "url": "/northamerica/unitedstates/michigan/picturedrock",
+      "image": "/content-image/northamerica/unitedstates/michigan/picturedrock.jpg",
+      "snippet": "Lake Superior national lakeshore where multicolored sandstone cliffs, waterfalls, and forest trails line Michigan\u2019s Upper Peninsula.",
+      "score": 8.64,
+      "type": "location"
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "corners": [],
+      "title": "Austin",
+      "url": "/northamerica/unitedstates/texas/austin",
+      "image": "/content-image/northamerica/unitedstates/texas/austin.jpg",
+      "snippet": "Texas capital with live music, swimming holes, university energy, and a fierce independent streak.",
+      "score": 8.28,
+      "type": "location"
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "corners": [],
+      "title": "New Orleans",
+      "url": "/northamerica/unitedstates/louisiana/neworleans",
+      "image": "/content-image/northamerica/unitedstates/louisiana/neworleans.jpg",
+      "snippet": "Mississippi River city where French, Spanish, African, and Caribbean cultures shape the streets.",
+      "score": 9.31,
+      "type": "location"
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "corners": [],
+      "title": "Teotihuacan",
+      "url": "/northamerica/mexico/teotihuacan",
+      "image": "/content-image/northamerica/mexico/teotihuacan.jpg",
+      "snippet": "Ancient Mesoamerican city northeast of Mexico City, defined by vast pyramids and the Avenue of the Dead.",
+      "score": 9.36,
+      "type": "location"
+    },
+    {
+      "x": 8,
+      "y": 9,
+      "corners": [
+        "tl",
+        "bl"
+      ],
+      "title": "The Gal\u00e1pagos Islands",
+      "url": "/southamerica/ecuador/galapagosislands/theislands",
+      "image": "/content-image/southamerica/ecuador/galapagosislands/theislands.jpg",
+      "snippet": "Volcanic Pacific archipelago where isolation shaped the wildlife that helped Darwin understand evolution.",
+      "score": 9.88,
+      "type": "location"
+    },
+    {
+      "x": 9,
+      "y": 4,
+      "corners": [],
+      "title": "Chicago",
+      "url": "/northamerica/unitedstates/illinois/chicago",
+      "image": "/content-image/northamerica/unitedstates/illinois/chicago.jpg",
+      "snippet": "Major Great Lakes city known for pioneering skyscraper architecture, deep neighbourhood culture, and a broad Lake Michigan waterfront.",
+      "score": 9.25,
+      "type": "location"
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "corners": [],
+      "title": "Savannah",
+      "url": "/northamerica/unitedstates/georgia/savannah",
+      "image": "/content-image/northamerica/unitedstates/georgia/savannah.jpg",
+      "snippet": "Historic Southern port city of shaded squares, live oaks, and intact nineteenth-century townhouses",
+      "score": 8.82,
+      "type": "location"
+    },
+    {
+      "x": 9,
+      "y": 6,
+      "corners": [],
+      "title": "Chichen Itza",
+      "url": "/northamerica/mexico/chichenitza",
+      "image": "/content-image/northamerica/mexico/chichenitza.jpg",
+      "snippet": "Maya archaeological site in Yucat\u00e1n, dominated by El Castillo and a vast ceremonial core.",
+      "score": 9.49,
+      "type": "location"
+    },
+    {
+      "x": 9,
+      "y": 7,
+      "corners": [],
+      "title": "Belize Barrier Reef",
+      "url": "/northamerica/belize/barrierreef",
+      "image": "/content-image/northamerica/belize/barrierreef.jpg",
+      "snippet": "Caribbean barrier reef system stretching along Belize, with cayes, marine reserves, and rich diving sites.",
+      "score": 9.37,
+      "type": "location"
+    },
+    {
+      "x": 9,
+      "y": 8,
+      "corners": [],
+      "title": "Manuel Antonio",
+      "url": "/northamerica/costarica/manuelantonio",
+      "image": "/content-image/northamerica/costarica/manuelantonio.jpg",
+      "snippet": "Pacific beach town beside a compact rainforest national park where wildlife, reefs, and coves sit close together.",
+      "score": 9.25,
+      "type": "location"
+    },
+    {
+      "x": 9,
+      "y": 9,
+      "corners": [],
+      "title": "Monta\u00f1ita",
+      "url": "/southamerica/ecuador/montanita",
+      "image": "/content-image/southamerica/ecuador/montanita.jpg",
+      "snippet": "Small Ecuadorian surf village on the Santa Elena coast, known for long left-hand waves and weekend nightlife",
+      "score": 7.87,
+      "type": "location"
+    },
+    {
+      "x": 10,
+      "y": 3,
+      "corners": [
+        "tl",
+        "tr"
+      ],
+      "title": "Qu\u00e9bec",
+      "url": "/northamerica/canada/quebec",
+      "image": "/content-image/northamerica/canada/quebec.jpg",
+      "snippet": "French-speaking Canadian province of St. Lawrence cities, Laurentian forests, Gasp\u00e9 shores, and northern shield country.",
+      "score": 0.7,
+      "type": "location"
+    },
+    {
+      "x": 10,
+      "y": 4,
+      "corners": [],
+      "title": "New York",
+      "url": "/northamerica/unitedstates/newyorkstate/newyork",
+      "image": "/content-image/northamerica/unitedstates/newyorkstate/newyork.jpg",
+      "snippet": "Vast five-borough city of museums, theaters, immigrant neighborhoods, and restless street life beside the Hudson.",
+      "score": 9.89,
+      "type": "location"
+    },
+    {
+      "x": 10,
+      "y": 5,
+      "corners": [],
+      "title": "Washington D.C.",
+      "url": "/northamerica/unitedstates/washingtondc",
+      "image": "/content-image/northamerica/unitedstates/washingtondc.jpg",
+      "snippet": "Purpose-built United States capital on the Potomac, defined by monuments, museums, and federal avenues.",
+      "score": 9.27,
+      "type": "location"
+    },
+    {
+      "x": 10,
+      "y": 6,
+      "corners": [],
+      "title": "Providenciales",
+      "url": "/northamerica/turksandcaicosislands/providenciales",
+      "image": "/content-image/northamerica/turksandcaicosislands/providenciales.jpg",
+      "snippet": "Turks and Caicos tourism island centred on Grace Bay's pale sand and clear reef waters",
+      "score": 9.29,
+      "type": "location"
+    },
+    {
+      "x": 10,
+      "y": 7,
+      "corners": [],
+      "title": "Cartagena",
+      "url": "/southamerica/colombia/cartagena",
+      "image": "/content-image/southamerica/colombia/cartagena.jpg",
+      "snippet": "Caribbean port city with a walled colonial old town, UNESCO status, and the Getseman\u00ed district.",
+      "score": 9.36,
+      "type": "location"
+    },
+    {
+      "x": 10,
+      "y": 8,
+      "corners": [],
+      "title": "Panama Canal",
+      "url": "/northamerica/panama/panamacanal",
+      "image": "/content-image/northamerica/panama/panamacanal.jpg",
+      "snippet": "Transcontinental waterway of locks and cuts linking the Atlantic and Pacific through central Panama",
+      "score": 8.97,
+      "type": "location"
+    },
+    {
+      "x": 10,
+      "y": 9,
+      "corners": [],
+      "title": "Quito",
+      "url": "/southamerica/ecuador/quito",
+      "image": "/content-image/southamerica/ecuador/quito.jpg",
+      "snippet": "High Andean capital of Ecuador, known for its preserved colonial centre below Pichincha volcano.",
+      "score": 9.03,
+      "type": "location"
+    },
+    {
+      "x": 10,
+      "y": 10,
+      "corners": [],
+      "title": "Machu Picchu",
+      "url": "/southamerica/peru/machupicchu",
+      "image": "/content-image/southamerica/peru/machupicchu.jpg",
+      "snippet": "Inca citadel set high above the Urubamba gorge, with precise stonework and cloud-forest drama.",
+      "score": 9.96,
+      "type": "location"
+    },
+    {
+      "x": 10,
+      "y": 11,
+      "corners": [],
+      "title": "La Serena",
+      "url": "/southamerica/chile/laserena",
+      "image": "/content-image/southamerica/chile/laserena.jpg",
+      "snippet": "Coquimbo Region capital and colonial-era city at the mouth of the Elqui Valley.",
+      "score": 7.84,
+      "type": "location"
+    },
+    {
+      "x": 10,
+      "y": 12,
+      "corners": [],
+      "title": "Valparaiso",
+      "url": "/southamerica/chile/valparaiso",
+      "image": "/content-image/southamerica/chile/valparaiso.jpg",
+      "snippet": "Pacific port city in Chile, built across steep hills linked by historic funicular elevators.",
+      "score": 8.82,
+      "type": "location"
+    },
+    {
+      "x": 10,
+      "y": 13,
+      "corners": [],
+      "title": "Los Alerces National Park",
+      "url": "/southamerica/argentina/esquel/los_alerces_national_park",
+      "image": "/content-image/southamerica/argentina/esquel/los_alerces_national_park.jpg",
+      "snippet": "UNESCO-listed park of glacial lakes and 3,000-year-old alerce trees",
+      "score": 9.4,
+      "type": "poi"
+    },
+    {
+      "x": 10,
+      "y": 14,
+      "corners": [
+        "bl"
+      ],
+      "title": "Torres del Paine",
+      "url": "/southamerica/argentina/patagonia/torresdelpaine",
+      "image": "/content-image/southamerica/argentina/patagonia/torresdelpaine.jpg",
+      "snippet": "Patagonian national park of granite towers, turquoise lakes, wind-bent steppe, and multi-day treks.",
+      "score": 9.44,
+      "type": "location"
+    },
+    {
+      "x": 11,
+      "y": 1,
+      "corners": [
+        "tl",
+        "tr"
+      ],
+      "title": "Qaanaaq",
+      "url": "/northamerica/greenland/qaanaaq",
+      "image": "/content-image/northamerica/greenland/qaanaaq.jpg",
+      "snippet": "Far-north Greenland town on Inglefield Bredning, rooted in the relocated Thule community",
+      "score": 6.55,
+      "type": "location"
+    },
+    {
+      "x": 11,
+      "y": 2,
+      "corners": [
+        "bl"
+      ],
+      "title": "Auyuittuq National Park",
+      "url": "/northamerica/canada/nunavut/auyuittuq",
+      "image": "/content-image/northamerica/canada/nunavut/auyuittuq.jpg",
+      "snippet": "Remote Baffin Island national park of granite peaks, glaciers, fjords, and the Akshayuk Pass.",
+      "score": 7.18,
+      "type": "location"
+    },
+    {
+      "x": 11,
+      "y": 4,
+      "corners": [],
+      "title": "Bar Harbor",
+      "url": "/northamerica/unitedstates/maine/bar_harbor",
+      "image": "/content-image/northamerica/unitedstates/maine/bar_harbor.jpg",
+      "snippet": "Mount Desert Island town and main gateway to Acadia National Park, with a tidal walk to Bar Island.",
+      "score": 8.86,
+      "type": "location"
+    },
+    {
+      "x": 11,
+      "y": 5,
+      "corners": [
+        "br"
+      ],
+      "title": "Hamilton",
+      "url": "/northamerica/bermuda/hamilton_capital",
+      "image": "/content-image/northamerica/bermuda/hamilton_capital.jpg",
+      "snippet": "Tiny Bermudian capital on Hamilton Harbour, centred on Front Street's shops, banks, and cruise docks.",
+      "score": 8.72,
+      "type": "location"
+    },
+    {
+      "x": 11,
+      "y": 7,
+      "corners": [],
+      "title": "Saint Barth\u00e9lemy",
+      "url": "/northamerica/thecaribbean/saintbartholomy",
+      "image": "/content-image/northamerica/thecaribbean/saintbartholomy.jpg",
+      "snippet": "Small French Caribbean island of steep hills, Gustavia harbour, expensive restaurants, and white-sand beaches.",
+      "score": 9.18,
+      "type": "location"
+    },
+    {
+      "x": 11,
+      "y": 8,
+      "corners": [],
+      "title": "Angel Falls",
+      "url": "/southamerica/venezuela/angelfalls",
+      "image": "/content-image/southamerica/venezuela/angelfalls.jpg",
+      "snippet": "Canaima waterfall plunging from Auy\u00e1n-tepui in the world's highest uninterrupted drop.",
+      "score": 9.1,
+      "type": "location"
+    },
+    {
+      "x": 11,
+      "y": 10,
+      "corners": [],
+      "title": "Lake Titicaca",
+      "url": "/southamerica/bolivia/laketiticaca",
+      "image": "/content-image/southamerica/bolivia/laketiticaca.jpg",
+      "snippet": "High Andean lake shared by Bolivia and Peru, sacred to Inca origin stories and island archaeology.",
+      "score": 9.03,
+      "type": "location"
+    },
+    {
+      "x": 11,
+      "y": 11,
+      "corners": [],
+      "title": "Salar de Uyuni",
+      "url": "/southamerica/bolivia/salar_of_uyuni",
+      "image": "/content-image/southamerica/bolivia/salar_of_uyuni.jpg",
+      "snippet": "High Andean salt flat in southwest Bolivia, a white expanse of islands, volcanoes, and flamingo lakes",
+      "score": 9.68,
+      "type": "location"
+    },
+    {
+      "x": 11,
+      "y": 12,
+      "corners": [],
+      "title": "Mendoza",
+      "url": "/southamerica/argentina/mendoza",
+      "image": "/content-image/southamerica/argentina/mendoza.jpg",
+      "snippet": "Argentine wine city at the foot of the Andes, known for Malbec and irrigation channels.",
+      "score": 8.72,
+      "type": "location"
+    },
+    {
+      "x": 11,
+      "y": 13,
+      "corners": [],
+      "title": "Valdes Peninsula",
+      "url": "/southamerica/argentina/patagonia/valdespeninsula",
+      "image": "/content-image/southamerica/argentina/patagonia/valdespeninsula.jpg",
+      "snippet": "Patagonian peninsula of cold beaches and rich marine wildlife, from whales to sea lions.",
+      "score": 8.74,
+      "type": "location"
+    },
+    {
+      "x": 11,
+      "y": 14,
+      "corners": [],
+      "title": "Ushuaia",
+      "url": "/southamerica/argentina/patagonia/ushuaia",
+      "image": "/content-image/southamerica/argentina/patagonia/ushuaia.jpg",
+      "snippet": "Tierra del Fuego city on the Beagle Channel, framed by the Martial mountains.",
+      "score": 9.19,
+      "type": "location"
+    },
+    {
+      "x": 12,
+      "y": 2,
+      "corners": [],
+      "title": "Ilulissat",
+      "url": "/northamerica/greenland/ilulissat",
+      "image": "/content-image/northamerica/greenland/ilulissat.jpg",
+      "snippet": "Greenland town on Disko Bay, gateway to the UNESCO-listed Ilulissat Icefjord.",
+      "score": 8.99,
+      "type": "location"
+    },
+    {
+      "x": 12,
+      "y": 3,
+      "corners": [],
+      "title": "L'Anse aux Meadows",
+      "url": "/northamerica/canada/newfoundland/lanseauxmeadows",
+      "image": "/content-image/northamerica/canada/newfoundland/lanseauxmeadows.jpg",
+      "snippet": "Newfoundland archaeological site preserving a Norse outpost from around 1000 AD at the island's northern tip",
+      "score": 7.98,
+      "type": "location"
+    },
+    {
+      "x": 12,
+      "y": 4,
+      "corners": [
+        "br"
+      ],
+      "title": "Gros Morne National Park",
+      "url": "/northamerica/canada/newfoundland/grosmornenationa",
+      "image": "/content-image/northamerica/canada/newfoundland/grosmornenationa.jpg",
+      "snippet": "UNESCO-listed Newfoundland park of fjords, tablelands, fishing villages, and mountain hikes.",
+      "score": 7.56,
+      "type": "location"
+    },
+    {
+      "x": 12,
+      "y": 7,
+      "corners": [
+        "tr"
+      ],
+      "title": "Bridgetown",
+      "url": "/northamerica/thecaribbean/barbados/bridgetown",
+      "image": "/content-image/northamerica/thecaribbean/barbados/bridgetown.jpg",
+      "snippet": "Barbadian capital and compact Caribbean port city with a UNESCO-listed historic centre around the Careenage.",
+      "score": 9.03,
+      "type": "location"
+    },
+    {
+      "x": 12,
+      "y": 8,
+      "corners": [],
+      "title": "Kaieteur Falls",
+      "url": "/southamerica/guyana/kaieteurfalls",
+      "image": "/content-image/southamerica/guyana/kaieteurfalls.jpg",
+      "snippet": "Guyanese rainforest waterfall where the Potaro River drops in one unbroken plunge from a tepui plateau.",
+      "score": 8.74,
+      "type": "location"
+    },
+    {
+      "x": 12,
+      "y": 9,
+      "corners": [],
+      "title": "Manaus",
+      "url": "/southamerica/brazil/manaus",
+      "image": "/content-image/southamerica/brazil/manaus.jpg",
+      "snippet": "Amazon river city at the Negro and Solim\u00f5es meeting point, built on rubber-boom wealth.",
+      "score": 8.16,
+      "type": "location"
+    },
+    {
+      "x": 12,
+      "y": 10,
+      "corners": [],
+      "title": "Cuiab\u00e1",
+      "url": "/southamerica/brazil/cuiaba",
+      "image": "/content-image/southamerica/brazil/cuiaba.jpg",
+      "snippet": "Mato Grosso capital and gateway to the northern Pantanal, with Brazil's geodetic centre on its edge.",
+      "score": 6.67,
+      "type": "location"
+    },
+    {
+      "x": 12,
+      "y": 11,
+      "corners": [],
+      "title": "Iguazu Falls",
+      "url": "/southamerica/argentina/iguazufalls",
+      "image": "/content-image/southamerica/argentina/iguazufalls.jpg",
+      "snippet": "Border-straddling waterfall system where subtropical forest drops into the roaring Garganta del Diablo.",
+      "score": 9.94,
+      "type": "location"
+    },
+    {
+      "x": 12,
+      "y": 12,
+      "corners": [
+        "br"
+      ],
+      "title": "Buenos Aires",
+      "url": "/southamerica/argentina/buenosaires",
+      "image": "/content-image/southamerica/argentina/buenosaires.jpg",
+      "snippet": "Argentine capital known for European-influenced architecture, tango culture, and distinctive neighbourhoods.",
+      "score": 9.23,
+      "type": "location"
+    },
+    {
+      "x": 12,
+      "y": 14,
+      "corners": [
+        "tr",
+        "br"
+      ],
+      "title": "Stanley",
+      "url": "/southamerica/falklandislands/stanley",
+      "image": "/content-image/southamerica/falklandislands/stanley.jpg",
+      "snippet": "Tiny Falkland Islands capital and harbour town, with British-painted houses far out in the South Atlantic",
+      "score": 7.93,
+      "type": "location"
+    },
+    {
+      "x": 13,
+      "y": 2,
+      "corners": [],
+      "title": "Igaliku",
+      "url": "/northamerica/greenland/igaliku",
+      "image": "/content-image/northamerica/greenland/igaliku.jpg",
+      "snippet": "Southern Greenland sheep-farming village on Norse Gardar's cathedral ruins, set among fjord and mountain views.",
+      "score": 7.19,
+      "type": "location"
+    },
+    {
+      "x": 13,
+      "y": 9,
+      "corners": [],
+      "title": "Jericoacoara",
+      "url": "/southamerica/brazil/jericoacoara",
+      "image": "/content-image/southamerica/brazil/jericoacoara.jpg",
+      "snippet": "Cear\u00e1 beach village behind dunes, where sandy tracks lead to lagoons, wind, and sunset dunes.",
+      "score": 8.82,
+      "type": "location"
+    },
+    {
+      "x": 13,
+      "y": 10,
+      "corners": [],
+      "title": "Chapada Diamantina",
+      "url": "/southamerica/brazil/chapadadiamantina",
+      "image": "/content-image/southamerica/brazil/chapadadiamantina.jpg",
+      "snippet": "Bahian plateau of quartzite mesas, deep canyons, clear pools, and Brazil's old diamond country.",
+      "score": 8.73,
+      "type": "location"
+    },
+    {
+      "x": 13,
+      "y": 11,
+      "corners": [
+        "br"
+      ],
+      "title": "Rio de Janeiro",
+      "url": "/southamerica/brazil/riodejaneiro",
+      "image": "/content-image/southamerica/brazil/riodejaneiro.jpg",
+      "snippet": "Brazilian harbour city where beaches, green mountains, and Christ the Redeemer frame everyday urban life.",
+      "score": 9.82,
+      "type": "location"
+    },
+    {
+      "x": 14,
+      "y": 2,
+      "corners": [],
+      "title": "Tasiilaq",
+      "url": "/northamerica/greenland/tasiilaq",
+      "image": "/content-image/northamerica/greenland/tasiilaq.jpg",
+      "snippet": "East Greenland town in a sheltered fjord, ringed by steep mountains and bright houses.",
+      "score": 8.01,
+      "type": "location"
+    },
+    {
+      "x": 14,
+      "y": 9,
+      "corners": [
+        "tr"
+      ],
+      "title": "Fernando de Noronha",
+      "url": "/southamerica/brazil/fernando_de_noronha",
+      "image": "/content-image/southamerica/brazil/fernando_de_noronha.jpg",
+      "snippet": "Remote Brazilian Atlantic archipelago protected for clear water, marine wildlife, and strictly limited island access.",
+      "score": 9.45,
+      "type": "location"
+    },
+    {
+      "x": 14,
+      "y": 10,
+      "corners": [
+        "br"
+      ],
+      "title": "Salvador",
+      "url": "/southamerica/brazil/salvador",
+      "image": "/content-image/southamerica/brazil/salvador.jpg",
+      "snippet": "Bahian coastal city where Brazil's first colonial capital still pulses with Afro-Brazilian culture",
+      "score": 8.73,
+      "type": "location"
+    },
+    {
+      "x": 15,
+      "y": 2,
+      "corners": [],
+      "title": "Reykjavik",
+      "url": "/europe/iceland/reykjavik",
+      "image": "/content-image/europe/iceland/reykjavik.jpg",
+      "snippet": "Compact Icelandic capital of corrugated-iron houses, a working harbour, and hilltop Hallgr\u00edmskirkja.",
+      "score": 9.52,
+      "type": "location"
+    },
+    {
+      "x": 15,
+      "y": 5,
+      "corners": [
+        "tl",
+        "bl"
+      ],
+      "title": "Sete Cidades",
+      "url": "/europe/portugal/theazores/so_miguel/sete_cidades",
+      "image": "/content-image/europe/portugal/theazores/so_miguel/sete_cidades.jpg",
+      "snippet": "Tiny S\u00e3o Miguel crater village between the blue and green lakes of Lagoa das Sete Cidades.",
+      "score": 8.96,
+      "type": "location"
+    },
+    {
+      "x": 15,
+      "y": 7,
+      "corners": [
+        "tl",
+        "bl"
+      ],
+      "title": "Sal",
+      "url": "/africa/capeverde/sal",
+      "image": "/content-image/africa/capeverde/sal.jpg",
+      "snippet": "Flat Cape Verdean island of salt flats, trade winds, resort beaches, and warm Atlantic water",
+      "score": 8.44,
+      "type": "location"
+    },
+    {
+      "x": 16,
+      "y": 2,
+      "corners": [],
+      "title": "J\u00f6kuls\u00e1rl\u00f3n",
+      "url": "/europe/iceland/jokulsarlon",
+      "image": "/content-image/europe/iceland/jokulsarlon.jpg",
+      "snippet": "Southeastern Iceland glacial lagoon where Brei\u00f0amerkurj\u00f6kull icebergs drift toward black-sand Diamond Beach.",
+      "score": 9.43,
+      "type": "location"
+    },
+    {
+      "x": 16,
+      "y": 3,
+      "corners": [
+        "bl"
+      ],
+      "title": "Skelligs",
+      "url": "/europe/ireland/skelligs",
+      "image": "/content-image/europe/ireland/skelligs.jpg",
+      "snippet": "Atlantic rock islands off Kerry, crowned by an early Christian monastery and vast seabird colonies.",
+      "score": 9.0,
+      "type": "location"
+    },
+    {
+      "x": 16,
+      "y": 5,
+      "corners": [],
+      "title": "Madeira",
+      "url": "/europe/portugal/madeira",
+      "image": "/content-image/europe/portugal/madeira.jpg",
+      "snippet": "Volcanic Atlantic island of steep ravines, cloud-touched peaks, levada walks, and Funchal's hillside harbour.",
+      "score": 9.34,
+      "type": "location"
+    },
+    {
+      "x": 16,
+      "y": 6,
+      "corners": [],
+      "title": "Fuerteventura",
+      "url": "/europe/spain/canaryislands/fuerteventura",
+      "image": "/content-image/europe/spain/canaryislands/fuerteventura.jpg",
+      "snippet": "Canary Island of volcanic near-desert, constant wind, and some of Spain's broadest beaches.",
+      "score": 8.77,
+      "type": "location"
+    },
+    {
+      "x": 16,
+      "y": 7,
+      "corners": [],
+      "title": "Ile de Gor\u00e9e",
+      "url": "/africa/senegal/iledegoree",
+      "image": "/content-image/africa/senegal/iledegoree.jpg",
+      "snippet": "Small island off Dakar, deeply tied to Atlantic trade, colonial rivalry, and slavery memory.",
+      "score": 8.21,
+      "type": "location"
+    },
+    {
+      "x": 16,
+      "y": 8,
+      "corners": [
+        "bl"
+      ],
+      "title": "Tiwai Island",
+      "url": "/africa/sierraleone/tiwai",
+      "image": "/content-image/africa/sierraleone/tiwai.jpg",
+      "snippet": "Rainforest island in the Moa River, famous for primates, pygmy hippos, and community conservation.",
+      "score": 6.9,
+      "type": "location"
+    },
+    {
+      "x": 17,
+      "y": 2,
+      "corners": [],
+      "title": "T\u00f3rshavn",
+      "url": "/europe/faroeislands/torshavn",
+      "image": "/content-image/europe/faroeislands/torshavn.jpg",
+      "snippet": "Tiny Faroese capital on Streymoy, with turf-roofed Tinganes and a working North Atlantic harbour.",
+      "score": 8.65,
+      "type": "location"
+    },
+    {
+      "x": 17,
+      "y": 3,
+      "corners": [],
+      "title": "Edinburgh",
+      "url": "/europe/unitedkingdom/scotland/edinburgh",
+      "image": "/content-image/europe/unitedkingdom/scotland/edinburgh.jpg",
+      "snippet": "Scottish capital built on volcanic rock, where medieval closes and Georgian terraces face across a former loch.",
+      "score": 9.92,
+      "type": "location"
+    },
+    {
+      "x": 17,
+      "y": 4,
+      "corners": [],
+      "title": "Mont-Saint-Michel",
+      "url": "/europe/france/normandybrittany/montsaintmichel",
+      "image": "/content-image/europe/france/normandybrittany/montsaintmichel.jpg",
+      "snippet": "Tidal granite island on the Normandy-Brittany border, crowned by a medieval Benedictine abbey.",
+      "score": 9.5,
+      "type": "location"
+    },
+    {
+      "x": 17,
+      "y": 5,
+      "corners": [],
+      "title": "Seville",
+      "url": "/europe/spain/andalucia/seville",
+      "image": "/content-image/europe/spain/andalucia/seville.jpg",
+      "snippet": "Andalusian capital on the Guadalquivir, known for its cathedral, Alc\u00e1zar, flamenco, and orange-lined streets.",
+      "score": 9.53,
+      "type": "location"
+    },
+    {
+      "x": 17,
+      "y": 6,
+      "corners": [],
+      "title": "M'Hamid",
+      "url": "/africa/morocco/mhamid",
+      "image": "/content-image/africa/morocco/mhamid.jpg",
+      "snippet": "Saharan gateway village at the end of the Draa Valley road, opening onto dunes and palm groves.",
+      "score": 7.89,
+      "type": "location"
+    },
+    {
+      "x": 17,
+      "y": 7,
+      "corners": [],
+      "title": "Djenn\u00e9",
+      "url": "/africa/mali/djenne",
+      "image": "/content-image/africa/mali/djenne.jpg",
+      "snippet": "Mud-brick city on the Bani River floodplain, centred on the Great Mosque of Djenn\u00e9.",
+      "score": 7.69,
+      "type": "location"
+    },
+    {
+      "x": 17,
+      "y": 8,
+      "corners": [],
+      "title": "Kakum National Park",
+      "url": "/africa/ghana/kakumnaturereserve",
+      "image": "/content-image/africa/ghana/kakumnaturereserve.jpg",
+      "snippet": "Ghanaian rainforest national park north of Cape Coast, known for its high canopy walkway and forest wildlife.",
+      "score": 8.3,
+      "type": "location"
+    },
+    {
+      "x": 18,
+      "y": 2,
+      "corners": [],
+      "title": "Geirangerfjord",
+      "url": "/europe/norway/geirangerfjord",
+      "image": "/content-image/europe/norway/geirangerfjord.jpg",
+      "snippet": "Narrow Norwegian fjord of sheer cliffs and waterfalls, with Geiranger village at its head.",
+      "score": 9.72,
+      "type": "location"
+    },
+    {
+      "x": 18,
+      "y": 3,
+      "corners": [],
+      "title": "Amsterdam",
+      "url": "/europe/netherlands/amsterdam",
+      "image": "/content-image/europe/netherlands/amsterdam.jpg",
+      "snippet": "Compact Dutch capital defined by Golden Age canals, narrow gabled houses, and slow waterside wandering.",
+      "score": 9.87,
+      "type": "location"
+    },
+    {
+      "x": 18,
+      "y": 4,
+      "corners": [],
+      "title": "Paris",
+      "url": "/europe/france/paris",
+      "image": "/content-image/europe/france/paris.jpg",
+      "snippet": "French capital on the Seine, defined by historic quartiers, major museums, and Haussmann boulevards.",
+      "score": 9.98,
+      "type": "location"
+    },
+    {
+      "x": 18,
+      "y": 5,
+      "corners": [],
+      "title": "Palma",
+      "url": "/europe/spain/balearicislands/mallorca/palma1",
+      "image": "/content-image/europe/spain/balearicislands/mallorca/palma1.jpg",
+      "snippet": "Mallorcan capital where a vast Gothic cathedral rises above the harbour and old city walls.",
+      "score": 9.08,
+      "type": "location"
+    },
+    {
+      "x": 18,
+      "y": 6,
+      "corners": [],
+      "title": "Djanet",
+      "url": "/africa/algeria/djanet",
+      "image": "/content-image/africa/algeria/djanet.jpg",
+      "snippet": "Tuareg oasis town below Tassili n'Ajjer, gateway to prehistoric rock art and sandstone desert.",
+      "score": 7.55,
+      "type": "location"
+    },
+    {
+      "x": 18,
+      "y": 7,
+      "corners": [],
+      "title": "Pendjari National Park",
+      "url": "/africa/benin/pendjari",
+      "image": "/content-image/africa/benin/pendjari.jpg",
+      "snippet": "Northern Benin wildlife reserve in the Atakora foothills \u2014 West Africa's best stronghold for lion, elephant, and buffalo.",
+      "score": 8.2,
+      "type": "location"
+    },
+    {
+      "x": 18,
+      "y": 8,
+      "corners": [],
+      "title": "Pr\u00edncipe",
+      "url": "/africa/saotomeandprincipe/principe",
+      "image": "/content-image/africa/saotomeandprincipe/principe.jpg",
+      "snippet": "Small S\u00e3o Tom\u00e9 and Pr\u00edncipe island of rainforest, endemic birds, and slow Atlantic village life",
+      "score": 8.09,
+      "type": "location"
+    },
+    {
+      "x": 18,
+      "y": 9,
+      "corners": [
+        "bl"
+      ],
+      "title": "Loango National Park",
+      "url": "/africa/gabon/loango",
+      "image": "/content-image/africa/gabon/loango.jpg",
+      "snippet": "Coastal Gabonese national park where rainforest, lagoons, savanna, and Atlantic surf meet.",
+      "score": 7.5,
+      "type": "location"
+    },
+    {
+      "x": 19,
+      "y": 1,
+      "corners": [
+        "tl"
+      ],
+      "title": "Longyearbyen",
+      "url": "/europe/norway/spitsbergen/longyearbyen",
+      "image": "/content-image/europe/norway/spitsbergen/longyearbyen.jpg",
+      "snippet": "Arctic settlement and Svalbard gateway, set among glaciers, coal history, and polar light",
+      "score": 8.59,
+      "type": "location"
+    },
+    {
+      "x": 19,
+      "y": 2,
+      "corners": [],
+      "title": "Troms\u00f8",
+      "url": "/europe/norway/tromso",
+      "image": "/content-image/europe/norway/tromso.jpg",
+      "snippet": "Arctic Norwegian city on Troms\u00f8 Sound, known for northern lights, midnight sun, and polar institutions",
+      "score": 9.34,
+      "type": "location"
+    },
+    {
+      "x": 19,
+      "y": 3,
+      "corners": [],
+      "title": "Prague",
+      "url": "/europe/czechrepublic/prague",
+      "image": "/content-image/europe/czechrepublic/prague.jpg",
+      "snippet": "Central European capital on the Vltava, dense with intact Gothic, Baroque, and Art Nouveau streetscapes.",
+      "score": 9.6,
+      "type": "location"
+    },
+    {
+      "x": 19,
+      "y": 4,
+      "corners": [],
+      "title": "Pantheon",
+      "url": "/europe/italy/lazio/rome/pantheon",
+      "image": "/content-image/europe/italy/lazio/rome/pantheon.jpg",
+      "snippet": "Best-preserved ancient building in the world, with Rome's most perfect dome",
+      "score": 10.0,
+      "type": "poi"
+    },
+    {
+      "x": 19,
+      "y": 5,
+      "corners": [],
+      "title": "Taormina",
+      "url": "/europe/italy/sicily/taormina",
+      "image": "/content-image/europe/italy/sicily/taormina.jpg",
+      "snippet": "Cliffside Sicilian town where a Greek theatre faces Mount Etna and the Mediterranean",
+      "score": 9.48,
+      "type": "location"
+    },
+    {
+      "x": 19,
+      "y": 6,
+      "corners": [],
+      "title": "Germa",
+      "url": "/africa/libya/germa",
+      "image": "/content-image/africa/libya/germa.jpg",
+      "snippet": "Central Saharan oasis town preserving the Garamantian capital that once controlled Fezzan caravan routes.",
+      "score": 4.66,
+      "type": "location"
+    },
+    {
+      "x": 19,
+      "y": 7,
+      "corners": [],
+      "title": "Emi Koussi",
+      "url": "/africa/chad/emikoussi",
+      "image": "/content-image/africa/chad/emikoussi.jpg",
+      "snippet": "Massive shield volcano in Chad's Tibesti Mountains, the highest point in the Sahara.",
+      "score": 5.7,
+      "type": "location"
+    },
+    {
+      "x": 19,
+      "y": 8,
+      "corners": [],
+      "title": "Foumban",
+      "url": "/africa/cameroon/foumban",
+      "image": "/content-image/africa/cameroon/foumban.jpg",
+      "snippet": "Bamoun cultural capital in western Cameroon, centred on the royal palace and centuries of sultanate history.",
+      "score": 7.0,
+      "type": "location"
+    },
+    {
+      "x": 19,
+      "y": 9,
+      "corners": [],
+      "title": "Moanda",
+      "url": "/africa/congokinshasa/moanda",
+      "image": "/content-image/africa/congokinshasa/moanda.jpg",
+      "snippet": "DRC's small Atlantic coastal town, where oil roads, beaches, and mangroves meet the Congo River mouth.",
+      "score": 6.82,
+      "type": "location"
+    },
+    {
+      "x": 19,
+      "y": 10,
+      "corners": [],
+      "title": "Etosha National Park",
+      "url": "/africa/namibia/etosha",
+      "image": "/content-image/africa/namibia/etosha.jpg",
+      "snippet": "Namibian wildlife park centred on a vast saltpan where animals gather at dry-season waterholes.",
+      "score": 9.08,
+      "type": "location"
+    },
+    {
+      "x": 19,
+      "y": 11,
+      "corners": [],
+      "title": "Sossusvlei",
+      "url": "/africa/namibia/sossusvlei",
+      "image": "/content-image/africa/namibia/sossusvlei.jpg",
+      "snippet": "Namib Desert clay pan framed by towering red dunes near Sesriem and the Tsauchab River's dry end.",
+      "score": 9.01,
+      "type": "location"
+    },
+    {
+      "x": 19,
+      "y": 12,
+      "corners": [
+        "bl"
+      ],
+      "title": "Cape Town",
+      "url": "/africa/southafrica/capetown",
+      "image": "/content-image/africa/southafrica/capetown.jpg",
+      "snippet": "South African coastal city beneath Table Mountain, blending beaches, vineyards, colonial history, and post-apartheid complexity.",
+      "score": 9.86,
+      "type": "location"
+    },
+    {
+      "x": 20,
+      "y": 1,
+      "corners": [],
+      "title": "Hammerfest",
+      "url": "/europe/norway/hammerfest",
+      "image": "/content-image/europe/norway/hammerfest.jpg",
+      "snippet": "Finnmark island city at 70 degrees north, rebuilt after fires and wartime destruction.",
+      "score": 7.97,
+      "type": "location"
+    },
+    {
+      "x": 20,
+      "y": 2,
+      "corners": [],
+      "title": "Rovaniemi",
+      "url": "/europe/finland/rovaniemi",
+      "image": "/content-image/europe/finland/rovaniemi.jpg",
+      "snippet": "Finnish Lapland capital on the Arctic Circle, rebuilt after 1944 and shaped by Alvar Aalto",
+      "score": 8.8,
+      "type": "location"
+    },
+    {
+      "x": 20,
+      "y": 3,
+      "corners": [],
+      "title": "Tallinn",
+      "url": "/europe/estonia/tallinn",
+      "image": "/content-image/europe/estonia/tallinn.jpg",
+      "snippet": "Baltic capital with a compact medieval old town of red roofs, stone towers, and Toompea views.",
+      "score": 9.4,
+      "type": "location"
+    },
+    {
+      "x": 20,
+      "y": 4,
+      "corners": [],
+      "title": "Istanbul",
+      "url": "/asia/turkey/istanbul",
+      "image": "/content-image/asia/turkey/istanbul.jpg",
+      "snippet": "Turkish metropolis on the Bosphorus, layered with Byzantine, Ottoman, and modern districts across two continents.",
+      "score": 9.84,
+      "type": "location"
+    },
+    {
+      "x": 20,
+      "y": 5,
+      "corners": [],
+      "title": "Santorini",
+      "url": "/europe/greece/santorini",
+      "image": "/content-image/europe/greece/santorini.jpg",
+      "snippet": "Santorini is a volcanic Cycladic island shaped by a flooded caldera and cliff-top whitewashed towns.",
+      "score": 9.93,
+      "type": "location"
+    },
+    {
+      "x": 20,
+      "y": 6,
+      "corners": [],
+      "title": "Siwa",
+      "url": "/africa/egypt/siwa",
+      "image": "/content-image/africa/egypt/siwa.jpg",
+      "snippet": "Remote Western Desert oasis with Berber culture, freshwater springs, and the mud-brick Shali fortress.",
+      "score": 8.19,
+      "type": "location"
+    },
+    {
+      "x": 20,
+      "y": 7,
+      "corners": [],
+      "title": "Abeche",
+      "url": "/africa/chad/abeche",
+      "image": "/content-image/africa/chad/abeche.jpg",
+      "snippet": "Eastern Chadian city and former Ouaddai capital, with old souqs and routes toward the Ennedi",
+      "score": 4.46,
+      "type": "location"
+    },
+    {
+      "x": 20,
+      "y": 8,
+      "corners": [],
+      "title": "Epulu",
+      "url": "/africa/congokinshasa/epulu",
+      "image": "/content-image/africa/congokinshasa/epulu.jpg",
+      "snippet": "Ituri Forest settlement and base for the Okapi Wildlife Reserve in northeastern Congo",
+      "score": 4.91,
+      "type": "location"
+    },
+    {
+      "x": 20,
+      "y": 9,
+      "corners": [],
+      "title": "Volcanoes National Park",
+      "url": "/africa/rwanda/volcanoesnationalpark",
+      "image": "/content-image/africa/rwanda/volcanoesnationalpark.jpg",
+      "snippet": "Virunga mountain park in northwestern Rwanda, protecting gorilla habitat and Dian Fossey's research landscape.",
+      "score": 9.06,
+      "type": "location"
+    },
+    {
+      "x": 20,
+      "y": 10,
+      "corners": [],
+      "title": "Victoria Falls",
+      "url": "/africa/zimbabwe/victoriafalls",
+      "image": "/content-image/africa/zimbabwe/victoriafalls.jpg",
+      "snippet": "Zambezi waterfall and borderland spectacle, where spray and thunder rise from one of Africa's great cataracts.",
+      "score": 9.64,
+      "type": "location"
+    },
+    {
+      "x": 20,
+      "y": 11,
+      "corners": [],
+      "title": "Northern Drakensberg",
+      "url": "/africa/southafrica/drakensberg/northern_drakensberg",
+      "image": "/content-image/africa/southafrica/drakensberg/northern_drakensberg.jpg",
+      "snippet": "High Drakensberg mountain region of basalt escarpments, Tugela Falls, and the Amphitheatre above Royal Natal",
+      "score": 8.39,
+      "type": "location"
+    },
+    {
+      "x": 20,
+      "y": 12,
+      "corners": [],
+      "title": "Addo Elephant National Park",
+      "url": "/africa/southafrica/addo_elephant_national_park",
+      "image": "/content-image/africa/southafrica/addo_elephant_national_park.jpg",
+      "snippet": "Eastern Cape wildlife park where elephant herds, coastal reserves, and marine bird colonies extend from bush to sea.",
+      "score": 8.77,
+      "type": "location"
+    },
+    {
+      "x": 21,
+      "y": 1,
+      "corners": [
+        "tr"
+      ],
+      "title": "Vard\u00f8",
+      "url": "/europe/norway/vardo",
+      "image": "/content-image/europe/norway/vardo.jpg",
+      "snippet": "Remote Barents Sea town on an island, home to Vard\u00f8hus Fortress, the northernmost star fort.",
+      "score": 7.18,
+      "type": "location"
+    },
+    {
+      "x": 21,
+      "y": 2,
+      "corners": [],
+      "title": "Kirkenes",
+      "url": "/europe/norway/kirkenes",
+      "image": "/content-image/europe/norway/kirkenes.jpg",
+      "snippet": "Arctic Norwegian border town where Hurtigruten voyages end beside taiga, fjords, and Barents Sea winters.",
+      "score": 7.89,
+      "type": "location"
+    },
+    {
+      "x": 21,
+      "y": 3,
+      "corners": [],
+      "title": "St Petersburg",
+      "url": "/europe/russia/stpetersburg",
+      "image": "/content-image/europe/russia/stpetersburg.jpg",
+      "snippet": "Imperial Russian city of Neva canals, baroque palaces, and the Hermitage's vast art collections.",
+      "score": 9.66,
+      "type": "location"
+    },
+    {
+      "x": 21,
+      "y": 4,
+      "corners": [],
+      "title": "Safranbolu",
+      "url": "/asia/turkey/safranbolu",
+      "image": "/content-image/asia/turkey/safranbolu.jpg",
+      "snippet": "Ottoman valley town of timber mansions, bazaar lanes, saffron-trading history, and UNESCO protection.",
+      "score": 8.59,
+      "type": "location"
+    },
+    {
+      "x": 21,
+      "y": 5,
+      "corners": [],
+      "title": "Petra",
+      "url": "/asia/jordan/petra",
+      "image": "/content-image/asia/jordan/petra.jpg",
+      "snippet": "Nabataean sandstone city in Wadi Musa, famous for the Siq approach and the Treasury facade.",
+      "score": 9.89,
+      "type": "location"
+    },
+    {
+      "x": 21,
+      "y": 6,
+      "corners": [],
+      "title": "Giza",
+      "url": "/africa/egypt/giza",
+      "image": "/content-image/africa/egypt/giza.jpg",
+      "snippet": "Greater Cairo city at the desert edge, gateway to the pyramids, Sphinx, and Giza Plateau.",
+      "score": 9.56,
+      "type": "location"
+    },
+    {
+      "x": 21,
+      "y": 7,
+      "corners": [],
+      "title": "Lalibela",
+      "url": "/africa/ethiopia/lalibela",
+      "image": "/content-image/africa/ethiopia/lalibela.jpg",
+      "snippet": "Ethiopian mountain town where medieval Orthodox churches were carved downward from solid red rock.",
+      "score": 8.89,
+      "type": "location"
+    },
+    {
+      "x": 21,
+      "y": 8,
+      "corners": [],
+      "title": "Murchison Falls National Park",
+      "url": "/africa/uganda/murchison_falls_national_park",
+      "image": "/content-image/africa/uganda/murchison_falls_national_park.jpg",
+      "snippet": "Ugandan national park where the Nile squeezes through Murchison Falls before widening toward Lake Albert",
+      "score": 8.58,
+      "type": "location"
+    },
+    {
+      "x": 21,
+      "y": 9,
+      "corners": [],
+      "title": "Serengeti National Park",
+      "url": "/africa/tanzania/serengetinationalpark",
+      "image": "/content-image/africa/tanzania/serengetinationalpark.jpg",
+      "snippet": "Vast northern Tanzanian wildlife reserve known for open plains and the annual Great Migration.",
+      "score": 9.82,
+      "type": "location"
+    },
+    {
+      "x": 21,
+      "y": 10,
+      "corners": [],
+      "title": "Nyika National Park",
+      "url": "/africa/malawi/nyika",
+      "image": "/content-image/africa/malawi/nyika.jpg",
+      "snippet": "High montane national park in northern Malawi, where rolling grassland rises above forested valleys.",
+      "score": 7.58,
+      "type": "location"
+    },
+    {
+      "x": 21,
+      "y": 11,
+      "corners": [],
+      "title": "Kruger National Park",
+      "url": "/africa/southafrica/krugernationalpark",
+      "image": "/content-image/africa/southafrica/krugernationalpark.jpg",
+      "snippet": "Huge South African game reserve spanning varied habitats between the Limpopo and Crocodile rivers.",
+      "score": 9.44,
+      "type": "location"
+    },
+    {
+      "x": 21,
+      "y": 12,
+      "corners": [
+        "br"
+      ],
+      "title": "Amanzimtoti",
+      "url": "/africa/southafrica/amanzimtoti",
+      "image": "/content-image/africa/southafrica/amanzimtoti.jpg",
+      "snippet": "KwaZulu-Natal coastal town on the Sapphire Coast, with warm Indian Ocean beaches south of Durban.",
+      "score": 6.67,
+      "type": "location"
+    },
+    {
+      "x": 22,
+      "y": 3,
+      "corners": [],
+      "title": "Suzdal",
+      "url": "/europe/russia/suzdal",
+      "image": "/content-image/europe/russia/suzdal.jpg",
+      "snippet": "Golden Ring town east of Moscow, dense with churches, monasteries, and wooden architecture.",
+      "score": 8.06,
+      "type": "location"
+    },
+    {
+      "x": 22,
+      "y": 4,
+      "corners": [],
+      "title": "Tbilisi",
+      "url": "/europe/georgia/tbilisi",
+      "image": "/content-image/europe/georgia/tbilisi.jpg",
+      "snippet": "Georgian capital on the Mtkvari River, where warm springs, balconies, and layered empires meet",
+      "score": 9.04,
+      "type": "location"
+    },
+    {
+      "x": 22,
+      "y": 5,
+      "corners": [],
+      "title": "Mardin",
+      "url": "/asia/turkey/mardin",
+      "image": "/content-image/asia/turkey/mardin.jpg",
+      "snippet": "Medieval stone city above the Mesopotamian plain, layered with Syriac, Kurdish, Arab, and Armenian heritage.",
+      "score": 8.5,
+      "type": "location"
+    },
+    {
+      "x": 22,
+      "y": 6,
+      "corners": [],
+      "title": "Dir\u2019iyah",
+      "url": "/asia/saudiarabia/diriyah",
+      "image": "/content-image/asia/saudiarabia/diriyah.jpg",
+      "snippet": "Historic Riyadh-edge oasis town where At-Turaif preserves the mud-brick heart of the First Saudi State",
+      "score": 7.5,
+      "type": "location"
+    },
+    {
+      "x": 22,
+      "y": 7,
+      "corners": [],
+      "title": "Danakil Depression",
+      "url": "/africa/ethiopia/danakilsdepression",
+      "image": "/content-image/africa/ethiopia/danakilsdepression.jpg",
+      "snippet": "Afar desert depression of salt flats, acid springs, and active volcanoes below sea level",
+      "score": 7.42,
+      "type": "location"
+    },
+    {
+      "x": 22,
+      "y": 8,
+      "corners": [],
+      "title": "Harar",
+      "url": "/africa/ethiopia/harar",
+      "image": "/content-image/africa/ethiopia/harar.jpg",
+      "snippet": "Walled Ethiopian holy city whose Jugol encloses mosques, shrines, and medieval lanes",
+      "score": 8.12,
+      "type": "location"
+    },
+    {
+      "x": 22,
+      "y": 9,
+      "corners": [],
+      "title": "Lamu",
+      "url": "/africa/kenya/thecoast/lamu",
+      "image": "/content-image/africa/kenya/thecoast/lamu.jpg",
+      "snippet": "Historic Swahili island town off Kenya's northern coast, with coral-stone houses and car-free lanes.",
+      "score": 8.57,
+      "type": "location"
+    },
+    {
+      "x": 22,
+      "y": 10,
+      "corners": [],
+      "title": "Nosy Be",
+      "url": "/africa/madagascar/nosybe",
+      "image": "/content-image/africa/madagascar/nosybe.jpg",
+      "snippet": "Lush Malagasy island of reefs, ylang-ylang plantations, and boat trips to lemur-filled islets.",
+      "score": 8.28,
+      "type": "location"
+    },
+    {
+      "x": 22,
+      "y": 11,
+      "corners": [],
+      "title": "Ranomafana",
+      "url": "/africa/madagascar/ranomafana",
+      "image": "/content-image/africa/madagascar/ranomafana.jpg",
+      "snippet": "Rainforest park village known for hot springs, lemurs, waterfalls, and steep green valleys.",
+      "score": 7.56,
+      "type": "location"
+    },
+    {
+      "x": 23,
+      "y": 3,
+      "corners": [],
+      "title": "Vyatka",
+      "url": "/europe/russia/vyatka",
+      "image": "/content-image/europe/russia/vyatka.jpg",
+      "snippet": "Old Russian river city in the taiga belt, known for Dymkovo toys and merchant-era streets",
+      "score": 5.03,
+      "type": "location"
+    },
+    {
+      "x": 23,
+      "y": 4,
+      "corners": [],
+      "title": "Moynaq",
+      "url": "/asia/uzbekistan/moynaq",
+      "image": "/content-image/asia/uzbekistan/moynaq.jpg",
+      "snippet": "Former Aral Sea port stranded in desert, where rusting ships mark a vanished fishing fleet",
+      "score": 6.57,
+      "type": "location"
+    },
+    {
+      "x": 23,
+      "y": 5,
+      "corners": [],
+      "title": "Isfahan",
+      "url": "/asia/iran/isfahan",
+      "image": "/content-image/asia/iran/isfahan.jpg",
+      "snippet": "Safavid imperial city centred on Naqsh-e Jahan Square, turquoise domes, and Persian craft traditions.",
+      "score": 9.1,
+      "type": "location"
+    },
+    {
+      "x": 23,
+      "y": 6,
+      "corners": [],
+      "title": "Dubai",
+      "url": "/asia/unitedarabemirates/dubai",
+      "image": "/content-image/asia/unitedarabemirates/dubai.jpg",
+      "snippet": "Arabian Peninsula metropolis known for the Burj Khalifa, engineered islands, and rapid transformation from trading port.",
+      "score": 9.2,
+      "type": "location"
+    },
+    {
+      "x": 23,
+      "y": 7,
+      "corners": [
+        "br"
+      ],
+      "title": "Salalah",
+      "url": "/asia/oman/salalah",
+      "image": "/content-image/asia/oman/salalah.jpg",
+      "snippet": "Dhofar coastal city transformed by the khareef monsoon into Oman's greenest landscape.",
+      "score": 8.2,
+      "type": "location"
+    },
+    {
+      "x": 23,
+      "y": 9,
+      "corners": [
+        "tr",
+        "br"
+      ],
+      "title": "Praslin",
+      "url": "/africa/seychelles/praslin",
+      "image": "/content-image/africa/seychelles/praslin.jpg",
+      "snippet": "Seychelles island known for Vall\u00e9e de Mai palms, granite beaches, and calm coves.",
+      "score": 9.49,
+      "type": "location"
+    },
+    {
+      "x": 23,
+      "y": 11,
+      "corners": [
+        "tr",
+        "br"
+      ],
+      "title": "Grand Baie",
+      "url": "/africa/mauritius/grandbaie",
+      "image": "/content-image/africa/mauritius/grandbaie.jpg",
+      "snippet": "Northern Mauritius tourist hub with restaurants, dive operators, nightlife, and boat trips to offshore islands",
+      "score": 8.72,
+      "type": "location"
+    },
+    {
+      "x": 24,
+      "y": 3,
+      "corners": [],
+      "title": "Ekaterinburg",
+      "url": "/europe/russia/ural/ekaterinburg",
+      "image": "/content-image/europe/russia/ural/ekaterinburg.jpg",
+      "snippet": "Ural metropolis on the Europe-Asia divide, shaped by mining wealth, Romanov history, and constructivist architecture",
+      "score": 6.81,
+      "type": "location"
+    },
+    {
+      "x": 24,
+      "y": 4,
+      "corners": [],
+      "title": "Khiva",
+      "url": "/asia/uzbekistan/khiva",
+      "image": "/content-image/asia/uzbekistan/khiva.jpg",
+      "snippet": "Walled Silk Road city in Uzbekistan, preserving Itchan Kala's mud-brick lanes, minarets, and madrassas",
+      "score": 8.8,
+      "type": "location"
+    },
+    {
+      "x": 24,
+      "y": 5,
+      "corners": [],
+      "title": "Samarkand",
+      "url": "/asia/uzbekistan/samarkand",
+      "image": "/content-image/asia/uzbekistan/samarkand.jpg",
+      "snippet": "Silk Road city of Timurid tilework, where the Registan anchors one of Central Asia's great monument ensembles.",
+      "score": 9.16,
+      "type": "location"
+    },
+    {
+      "x": 24,
+      "y": 6,
+      "corners": [],
+      "title": "Dwarka",
+      "url": "/asia/india/gujarat/dwarka",
+      "image": "/content-image/asia/india/gujarat/dwarka.jpg",
+      "snippet": "Arabian Sea pilgrimage town where Krishna devotion centres on Dwarkadhish Temple and Gomti ghats.",
+      "score": 7.52,
+      "type": "location"
+    },
+    {
+      "x": 24,
+      "y": 10,
+      "corners": [
+        "tl",
+        "tr",
+        "br",
+        "bl"
+      ],
+      "title": "Rodrigues",
+      "url": "/africa/mauritius/rodrigues",
+      "image": "/content-image/africa/mauritius/rodrigues.jpg",
+      "snippet": "Small Mauritian island with a quieter African feel, hilly interior, and broad turquoise lagoon.",
+      "score": 8.5,
+      "type": "location"
+    },
+    {
+      "x": 25,
+      "y": 3,
+      "corners": [],
+      "title": "Astana",
+      "url": "/asia/kazakhstan/astana",
+      "image": "/content-image/asia/kazakhstan/astana.jpg",
+      "snippet": "Purpose-built Kazakh capital on the steppe, defined by monumental architecture along the Ishim River.",
+      "score": 7.17,
+      "type": "location"
+    },
+    {
+      "x": 25,
+      "y": 4,
+      "corners": [],
+      "title": "Almaty",
+      "url": "/asia/kazakhstan/almaty",
+      "image": "/content-image/asia/kazakhstan/almaty.jpg",
+      "snippet": "Kazakhstan\u2019s cultural capital, set below the Tien Shan with mountain views from broad Soviet-era streets.",
+      "score": 8.04,
+      "type": "location"
+    },
+    {
+      "x": 25,
+      "y": 5,
+      "corners": [],
+      "title": "Leh",
+      "url": "/asia/india/jammuandkashmir/ladakh/leh",
+      "image": "/content-image/asia/india/jammuandkashmir/ladakh/leh.jpg",
+      "snippet": "High-altitude Ladakhi town in the Indus Valley, framed by bare mountains and Buddhist monasteries.",
+      "score": 9.19,
+      "type": "location"
+    },
+    {
+      "x": 25,
+      "y": 6,
+      "corners": [],
+      "title": "Jaipur",
+      "url": "/asia/india/rajasthan/jaipur",
+      "image": "/content-image/asia/india/rajasthan/jaipur.jpg",
+      "snippet": "Rajasthani capital and Pink City, with terracotta walls, royal palaces, and planned old-town avenues.",
+      "score": 9.42,
+      "type": "location"
+    },
+    {
+      "x": 25,
+      "y": 7,
+      "corners": [],
+      "title": "Hampi",
+      "url": "/asia/india/karnataka/hampi",
+      "image": "/content-image/asia/india/karnataka/hampi.jpg",
+      "snippet": "Ruined Vijayanagara capital amid granite boulders, now a vast UNESCO World Heritage Site.",
+      "score": 9.26,
+      "type": "location"
+    },
+    {
+      "x": 25,
+      "y": 8,
+      "corners": [
+        "bl"
+      ],
+      "title": "Kochi",
+      "url": "/asia/india/kerala/kochi",
+      "image": "/content-image/asia/india/kerala/kochi.jpg",
+      "snippet": "Kerala port city where Fort Kochi preserves Portuguese, Dutch, British, and Jewish traces by the waterfront.",
+      "score": 8.68,
+      "type": "location"
+    },
+    {
+      "x": 26,
+      "y": 3,
+      "corners": [
+        "tr"
+      ],
+      "title": "Novosibirsk",
+      "url": "/europe/russia/novosibirsk",
+      "image": "/content-image/europe/russia/novosibirsk.jpg",
+      "snippet": "Siberian metropolis born at the Trans-Siberian Railway's Ob River crossing, with opera and Constructivist architecture.",
+      "score": 6.14,
+      "type": "location"
+    },
+    {
+      "x": 26,
+      "y": 4,
+      "corners": [],
+      "title": "Hanas Lake",
+      "url": "/asia/china/xinjiangprovince/hanaslake",
+      "image": "/content-image/asia/china/xinjiangprovince/hanaslake.jpg",
+      "snippet": "Altay mountain lake in Xinjiang, set in a glacial valley of taiga forest and Tuvan legend.",
+      "score": 8.35,
+      "type": "location"
+    },
+    {
+      "x": 26,
+      "y": 5,
+      "corners": [],
+      "title": "Mount Kailash",
+      "url": "/asia/china/tibet/mount_kailash",
+      "image": "/content-image/asia/china/tibet/mount_kailash.jpg",
+      "snippet": "Sacred Tibetan mountain and pilgrimage circuit, revered as the source region of four great Asian rivers.",
+      "score": 8.68,
+      "type": "location"
+    },
+    {
+      "x": 26,
+      "y": 6,
+      "corners": [],
+      "title": "Annapurna Region",
+      "url": "/asia/nepal/annapurna",
+      "image": "/content-image/asia/nepal/annapurna.jpg",
+      "snippet": "Himalayan trekking region around the Annapurna massif, spanning subtropical valleys and high desert plateau.",
+      "score": 9.62,
+      "type": "location"
+    },
+    {
+      "x": 26,
+      "y": 7,
+      "corners": [],
+      "title": "Mahabalipuram",
+      "url": "/asia/india/tamilnadu/mahabalipuram",
+      "image": "/content-image/asia/india/tamilnadu/mahabalipuram.jpg",
+      "snippet": "Tamil Nadu coastal village of Pallava rock-cut temples and an easy beach atmosphere.",
+      "score": 8.46,
+      "type": "location"
+    },
+    {
+      "x": 26,
+      "y": 8,
+      "corners": [],
+      "title": "Kandy",
+      "url": "/asia/srilanka/kandy",
+      "image": "/content-image/asia/srilanka/kandy.jpg",
+      "snippet": "Sri Lankan hill city and former royal capital, centred on the lakefront Temple of the Tooth",
+      "score": 9.06,
+      "type": "location"
+    },
+    {
+      "x": 27,
+      "y": 2,
+      "corners": [
+        "tl",
+        "tr",
+        "br",
+        "bl"
+      ],
+      "title": "Russia",
+      "url": "/europe/russia",
+      "image": "/content-image/europe/russia.jpg",
+      "snippet": "Vast Eurasian country spanning eleven time zones, with imperial cities, Siberian wilderness, and Golden Ring towns.",
+      "score": 0.74,
+      "type": "location"
+    },
+    {
+      "x": 27,
+      "y": 4,
+      "corners": [],
+      "title": "Khovd",
+      "url": "/asia/mongolia/khovd",
+      "image": "/content-image/asia/mongolia/khovd.jpg",
+      "snippet": "Western Mongolian city on the Buyant River, gateway to Altai mountains and eagle-hunter valleys.",
+      "score": 6.37,
+      "type": "location"
+    },
+    {
+      "x": 27,
+      "y": 5,
+      "corners": [],
+      "title": "Namtso Lake",
+      "url": "/asia/china/tibet/namtso_lake",
+      "image": "/content-image/asia/china/tibet/namtso_lake.jpg",
+      "snippet": "Sacred Tibetan lake northwest of Lhasa, turquoise and high-altitude beneath snow peaks and prayer flags.",
+      "score": 8.75,
+      "type": "location"
+    },
+    {
+      "x": 27,
+      "y": 6,
+      "corners": [],
+      "title": "Bagan",
+      "url": "/asia/myanmar/bagan",
+      "image": "/content-image/asia/myanmar/bagan.jpg",
+      "snippet": "Ancient Burmese plain beside the Ayeyarwady, scattered with more than 2,000 temples and pagodas.",
+      "score": 9.28,
+      "type": "location"
+    },
+    {
+      "x": 27,
+      "y": 7,
+      "corners": [],
+      "title": "Chiang mai",
+      "url": "/asia/thailand/chiangmai",
+      "image": "/content-image/asia/thailand/chiangmai.jpg",
+      "snippet": "Northern Thailand's cultural capital, founded as the Lanna Kingdom's capital and ringed by temple-filled old walls.",
+      "score": 9.46,
+      "type": "location"
+    },
+    {
+      "x": 27,
+      "y": 8,
+      "corners": [],
+      "title": "Phang Nga Bay",
+      "url": "/asia/thailand/phangngabay",
+      "image": "/content-image/asia/thailand/phangngabay.jpg",
+      "snippet": "Karst-filled marine bay between Phuket and Krabi, known for limestone towers and hidden hongs.",
+      "score": 9.45,
+      "type": "location"
+    },
+    {
+      "x": 28,
+      "y": 3,
+      "corners": [
+        "tl",
+        "tr"
+      ],
+      "title": "Lake Khovsgol",
+      "url": "/asia/mongolia/lakekhovsgol",
+      "image": "/content-image/asia/mongolia/lakekhovsgol.jpg",
+      "snippet": "Deep alpine lake in northern Mongolia, holding much of the country's fresh water near Siberia.",
+      "score": 8.3,
+      "type": "location"
+    },
+    {
+      "x": 28,
+      "y": 4,
+      "corners": [],
+      "title": "Karakorum",
+      "url": "/asia/mongolia/karakorum",
+      "image": "/content-image/asia/mongolia/karakorum.jpg",
+      "snippet": "Former Mongol Empire capital site, now known for the walled Erdene Zuu Monastery.",
+      "score": 7.97,
+      "type": "location"
+    },
+    {
+      "x": 28,
+      "y": 5,
+      "corners": [],
+      "title": "Jiuzhaigou",
+      "url": "/asia/china/sichuanprovince/jiuzhaigou",
+      "image": "/content-image/asia/china/sichuanprovince/jiuzhaigou.jpg",
+      "snippet": "Northern Sichuan valley of turquoise lakes, Tibetan villages, waterfalls, and forested snow peaks.",
+      "score": 9.43,
+      "type": "location"
+    },
+    {
+      "x": 28,
+      "y": 6,
+      "corners": [],
+      "title": "Ha Long Bay",
+      "url": "/asia/vietnam/halongbay",
+      "image": "/content-image/asia/vietnam/halongbay.jpg",
+      "snippet": "Vietnamese karst bay where nearly two thousand limestone islands rise from the Gulf of Tonkin.",
+      "score": 9.59,
+      "type": "location"
+    },
+    {
+      "x": 28,
+      "y": 7,
+      "corners": [],
+      "title": "Angkor Wat",
+      "url": "/asia/cambodia/angkorwat",
+      "image": "/content-image/asia/cambodia/angkorwat.jpg",
+      "snippet": "Vast Khmer temple complex whose lotus-bud towers anchor the ancient city of Angkor",
+      "score": 9.94,
+      "type": "location"
+    },
+    {
+      "x": 28,
+      "y": 8,
+      "corners": [],
+      "title": "Penang",
+      "url": "/asia/malaysia/penang",
+      "image": "/content-image/asia/malaysia/penang.jpg",
+      "snippet": "Malaysian island state off the northwest coast, linked to the mainland by long bridges.",
+      "score": 9.13,
+      "type": "location"
+    },
+    {
+      "x": 28,
+      "y": 9,
+      "corners": [
+        "bl"
+      ],
+      "title": "Belitung",
+      "url": "/asia/indonesia/belitung",
+      "image": "/content-image/asia/indonesia/belitung.jpg",
+      "snippet": "Java Sea island known for tin heritage, granite boulder beaches, and turquoise water.",
+      "score": 8.18,
+      "type": "location"
+    },
+    {
+      "x": 29,
+      "y": 4,
+      "corners": [],
+      "title": "Simatai",
+      "url": "/asia/china/simatai",
+      "image": "/content-image/asia/china/simatai.jpg",
+      "snippet": "Steep, largely unrestored Great Wall section northeast of Beijing, with watchtowers on narrow ridges.",
+      "score": 8.19,
+      "type": "location"
+    },
+    {
+      "x": 29,
+      "y": 5,
+      "corners": [],
+      "title": "Beijing",
+      "url": "/asia/china/beijing",
+      "image": "/content-image/asia/china/beijing.jpg",
+      "snippet": "China's northern capital, centred on imperial landmarks including the Forbidden City, Temple of Heaven, and Summer Palace.",
+      "score": 9.46,
+      "type": "location"
+    },
+    {
+      "x": 29,
+      "y": 6,
+      "corners": [],
+      "title": "Hong Kong",
+      "url": "/asia/china/hongkong",
+      "image": "/content-image/asia/china/hongkong.jpg",
+      "snippet": "Vertical harbour city where dense towers, dim sum, and ferries frame Hong Kong Island and Kowloon",
+      "score": 9.5,
+      "type": "location"
+    },
+    {
+      "x": 29,
+      "y": 7,
+      "corners": [],
+      "title": "Alaminos",
+      "url": "/asia/philippines/alaminos",
+      "image": "/content-image/asia/philippines/alaminos.jpg",
+      "snippet": "Pangasinan gateway city to Hundred Islands National Park\u2019s limestone islets and bangka trips",
+      "score": 7.46,
+      "type": "location"
+    },
+    {
+      "x": 29,
+      "y": 8,
+      "corners": [],
+      "title": "Palawan Island",
+      "url": "/asia/philippines/palawanisland",
+      "image": "/content-image/asia/philippines/palawanisland.jpg",
+      "snippet": "Long Philippine island whose limestone lagoons and Coron wrecks anchor the country's frontier coast.",
+      "score": 9.77,
+      "type": "location"
+    },
+    {
+      "x": 29,
+      "y": 9,
+      "corners": [],
+      "title": "Ubud",
+      "url": "/asia/indonesia/bali/ubud",
+      "image": "/content-image/asia/indonesia/bali/ubud.jpg",
+      "snippet": "Balinese cultural town among rice terraces and river gorges, known for dance, painting, and temples",
+      "score": 9.7,
+      "type": "location"
+    },
+    {
+      "x": 29,
+      "y": 11,
+      "corners": [
+        "tl",
+        "tr"
+      ],
+      "title": "Coral Bay",
+      "url": "/australiaandpacific/australia/westernaustralia/coral_bay",
+      "image": "/content-image/australiaandpacific/australia/westernaustralia/coral_bay.jpg",
+      "snippet": "Western Australian reef township where Ningaloo's coral lies close enough to snorkel straight from shore.",
+      "score": 8.31,
+      "type": "location"
+    },
+    {
+      "x": 29,
+      "y": 12,
+      "corners": [
+        "bl"
+      ],
+      "title": "Perth",
+      "url": "/australiaandpacific/australia/westernaustralia/perth",
+      "image": "/content-image/australiaandpacific/australia/westernaustralia/perth.jpg",
+      "snippet": "Western Australian capital on the Swan River, with ocean beaches, Kings Park, and Fremantle close by.",
+      "score": 8.64,
+      "type": "location"
+    },
+    {
+      "x": 30,
+      "y": 2,
+      "corners": [
+        "tl",
+        "tr"
+      ],
+      "title": "Yakutsk",
+      "url": "/europe/russia/yakutsk",
+      "image": "/content-image/europe/russia/yakutsk.jpg",
+      "snippet": "Sakha Republic capital on Siberian permafrost, built beside the vast Lena River.",
+      "score": 6.3,
+      "type": "location"
+    },
+    {
+      "x": 30,
+      "y": 3,
+      "corners": [],
+      "title": "Mohe",
+      "url": "/asia/china/heilongjiang/mohe",
+      "image": "/content-image/asia/china/heilongjiang/mohe.jpg",
+      "snippet": "China's northernmost city, defined by Arctic winters, long summer light, and the Russian border.",
+      "score": 6.82,
+      "type": "location"
+    },
+    {
+      "x": 30,
+      "y": 4,
+      "corners": [],
+      "title": "Changbaishan Nature Reserve",
+      "url": "/asia/china/jilin/changbaishan",
+      "image": "/content-image/asia/china/jilin/changbaishan.jpg",
+      "snippet": "Northeast Chinese volcanic reserve crowned by Tianchi, the crater lake of Long White Mountain.",
+      "score": 8.11,
+      "type": "location"
+    },
+    {
+      "x": 30,
+      "y": 5,
+      "corners": [],
+      "title": "Seoul",
+      "url": "/asia/southkorea/seoul",
+      "image": "/content-image/asia/southkorea/seoul.jpg",
+      "snippet": "Vast Korean capital on the Han River, where neon districts stand beside Joseon palaces and mountain walls.",
+      "score": 9.61,
+      "type": "location"
+    },
+    {
+      "x": 30,
+      "y": 6,
+      "corners": [],
+      "title": "Taroko Gorge",
+      "url": "/asia/taiwan/torokogorge",
+      "image": "/content-image/asia/taiwan/torokogorge.jpg",
+      "snippet": "Taiwanese marble canyon where the Liwu River cuts through Taroko National Park's high mountain walls.",
+      "score": 9.41,
+      "type": "location"
+    },
+    {
+      "x": 30,
+      "y": 7,
+      "corners": [],
+      "title": "Coron",
+      "url": "/asia/philippines/coron",
+      "image": "/content-image/asia/philippines/coron.jpg",
+      "snippet": "Palawan dive town beside Tagbanua-managed Coron Island, known for Japanese wrecks and clear limestone lakes.",
+      "score": 9.34,
+      "type": "location"
+    },
+    {
+      "x": 30,
+      "y": 8,
+      "corners": [],
+      "title": "Siargao",
+      "url": "/asia/philippines/siargao",
+      "image": "/content-image/asia/philippines/siargao.jpg",
+      "snippet": "Teardrop-shaped Philippine surf island where Pacific swells break at Cloud 9 reef.",
+      "score": 9.04,
+      "type": "location"
+    },
+    {
+      "x": 30,
+      "y": 9,
+      "corners": [],
+      "title": "Togian Islands",
+      "url": "/asia/indonesia/sulawesi/togian_islands",
+      "image": "/content-image/asia/indonesia/sulawesi/togian_islands.jpg",
+      "snippet": "Remote Sulawesi archipelago in Tomini Bay, known for clear-water diving and isolated beach villages.",
+      "score": 8.62,
+      "type": "location"
+    },
+    {
+      "x": 30,
+      "y": 10,
+      "corners": [
+        "bl"
+      ],
+      "title": "Broome",
+      "url": "/australiaandpacific/australia/westernaustralia/broome",
+      "image": "/content-image/australiaandpacific/australia/westernaustralia/broome.jpg",
+      "snippet": "Kimberley coast town shaped by pearling history, Cable Beach light, and multicultural northern Australia.",
+      "score": 8.4,
+      "type": "location"
+    },
+    {
+      "x": 30,
+      "y": 12,
+      "corners": [],
+      "title": "Esperance",
+      "url": "/australiaandpacific/australia/westernaustralia/esperance",
+      "image": "/content-image/australiaandpacific/australia/westernaustralia/esperance.jpg",
+      "snippet": "Remote south-coast town in Western Australia, base for turquoise beaches and Cape Le Grand National Park.",
+      "score": 8.11,
+      "type": "location"
+    },
+    {
+      "x": 31,
+      "y": 4,
+      "corners": [],
+      "title": "Khabarovsk",
+      "url": "/europe/russia/khabarovsk",
+      "image": "/content-image/europe/russia/khabarovsk.jpg",
+      "snippet": "Far Eastern Russian city on the Amur River, with broad boulevards and Trans-Siberian connections",
+      "score": 6.42,
+      "type": "location"
+    },
+    {
+      "x": 31,
+      "y": 5,
+      "corners": [],
+      "title": "Kyoto",
+      "url": "/asia/japan/honshu/kyoto",
+      "image": "/content-image/asia/japan/honshu/kyoto.jpg",
+      "snippet": "Japan\u2019s old imperial capital, dense with Buddhist temples, Shint\u014d shrines, craft traditions, and geisha quarters",
+      "score": 10.0,
+      "type": "location"
+    },
+    {
+      "x": 31,
+      "y": 8,
+      "corners": [
+        "tr"
+      ],
+      "title": "Rock Islands",
+      "url": "/australiaandpacific/palau/rockislands",
+      "image": "/content-image/australiaandpacific/palau/rockislands.jpg",
+      "snippet": "Limestone island maze in Palau's lagoon, known for mushroom-shaped islets, marine lakes, and clear dive water",
+      "score": 9.49,
+      "type": "location"
+    },
+    {
+      "x": 31,
+      "y": 9,
+      "corners": [],
+      "title": "Raja Ampat",
+      "url": "/asia/indonesia/rajaampat",
+      "image": "/content-image/asia/indonesia/rajaampat.jpg",
+      "snippet": "West Papuan archipelago of karst islands and reef passages at the heart of the Coral Triangle.",
+      "score": 9.5,
+      "type": "location"
+    },
+    {
+      "x": 31,
+      "y": 10,
+      "corners": [],
+      "title": "Kakadu National Park",
+      "url": "/australiaandpacific/australia/northernterritory/kakadunationalpark",
+      "image": "/content-image/australiaandpacific/australia/northernterritory/kakadunationalpark.jpg",
+      "snippet": "Vast Top End national park of wetlands, escarpments, waterfalls, wildlife, and Aboriginal rock art.",
+      "score": 8.8,
+      "type": "location"
+    },
+    {
+      "x": 31,
+      "y": 11,
+      "corners": [],
+      "title": "Uluru-Kata Tjuta National Park",
+      "url": "/australiaandpacific/australia/northernterritory/ulurukata_tjuta_n",
+      "image": "/content-image/australiaandpacific/australia/northernterritory/ulurukata_tjuta_n.jpg",
+      "snippet": "Red Centre national park jointly managed by Anangu owners, centred on Uluru and Kata Tjuta.",
+      "score": 9.44,
+      "type": "location"
+    },
+    {
+      "x": 31,
+      "y": 12,
+      "corners": [],
+      "title": "Barossa Valley",
+      "url": "/australiaandpacific/australia/southaustralia/barossa_valley",
+      "image": "/content-image/australiaandpacific/australia/southaustralia/barossa_valley.jpg",
+      "snippet": "South Australian wine region north of Adelaide, marked by German settler food traditions and cellar doors",
+      "score": 8.54,
+      "type": "location"
+    },
+    {
+      "x": 32,
+      "y": 4,
+      "corners": [
+        "tr"
+      ],
+      "title": "Sapporo",
+      "url": "/asia/japan/hokkaido/sapporo",
+      "image": "/content-image/asia/japan/hokkaido/sapporo.jpg",
+      "snippet": "Modern Hokkaido capital of beer, snow festivals, and broad grid streets ringed by mountains.",
+      "score": 9.36,
+      "type": "location"
+    },
+    {
+      "x": 32,
+      "y": 5,
+      "corners": [
+        "br"
+      ],
+      "title": "Sendai",
+      "url": "/asia/japan/honshu/sendai",
+      "image": "/content-image/asia/japan/honshu/sendai.jpg",
+      "snippet": "Tohoku\u2019s largest city, founded by Date Masamune and famous for Zuihoden, Matsushima access, and gyutan",
+      "score": 8.43,
+      "type": "location"
+    },
+    {
+      "x": 32,
+      "y": 7,
+      "corners": [
+        "tl",
+        "tr",
+        "br",
+        "bl"
+      ],
+      "title": "Cocos Island",
+      "url": "/australiaandpacific/guam/merizo/cocos_island",
+      "image": "/content-image/australiaandpacific/guam/merizo/cocos_island.jpg",
+      "snippet": "Cocos Island sits just off the southern tip of Guam, visible from the Merizo waterfront and accessible by a short boat ride from the village pier. The island has a good sand beach...",
+      "score": 8.4,
+      "type": "poi"
+    },
+    {
+      "x": 32,
+      "y": 9,
+      "corners": [],
+      "title": "Sepik River",
+      "url": "/asia/papuanewguinea/sepikriver",
+      "image": "/content-image/asia/papuanewguinea/sepikriver.jpg",
+      "snippet": "Papua New Guinean river region of rainforest villages, haus tambaran, and extraordinary woodcarving traditions.",
+      "score": 7.47,
+      "type": "location"
+    },
+    {
+      "x": 32,
+      "y": 10,
+      "corners": [],
+      "title": "Great Barrier Reef",
+      "url": "/australiaandpacific/australia/queensland/greatbarrierreef",
+      "image": "/content-image/australiaandpacific/australia/queensland/greatbarrierreef.jpg",
+      "snippet": "Vast Queensland reef system of coral, islands, and marine life stretching more than 2,300 kilometres.",
+      "score": 9.83,
+      "type": "location"
+    },
+    {
+      "x": 32,
+      "y": 11,
+      "corners": [],
+      "title": "Whitsundays",
+      "url": "/australiaandpacific/australia/queensland/whitsundays",
+      "image": "/content-image/australiaandpacific/australia/queensland/whitsundays.jpg",
+      "snippet": "Tropical Queensland island group of white beaches, sailing anchorages, and reef-blue water.",
+      "score": 9.0,
+      "type": "location"
+    },
+    {
+      "x": 32,
+      "y": 12,
+      "corners": [],
+      "title": "Melbourne",
+      "url": "/australiaandpacific/australia/victoria/melbourne",
+      "image": "/content-image/australiaandpacific/australia/victoria/melbourne.jpg",
+      "snippet": "Australian cultural city of laneways, street art, immigrant food districts, and intense sporting loyalties",
+      "score": 9.32,
+      "type": "location"
+    },
+    {
+      "x": 32,
+      "y": 13,
+      "corners": [
+        "br",
+        "bl"
+      ],
+      "title": "Hobart",
+      "url": "/australiaandpacific/australia/tasmania/hobart",
+      "image": "/content-image/australiaandpacific/australia/tasmania/hobart.jpg",
+      "snippet": "Tasmanian capital on the Derwent River, backed by kunanyi/Mount Wellington and centred on Sullivans Cove.",
+      "score": 8.74,
+      "type": "location"
+    },
+    {
+      "x": 33,
+      "y": 9,
+      "corners": [],
+      "title": "Rabaul",
+      "url": "/asia/papuanewguinea/rabaul",
+      "image": "/content-image/asia/papuanewguinea/rabaul.jpg",
+      "snippet": "Volcanic harbour town on New Britain, half-buried by the 1994 eruption of the Rabaul caldera",
+      "score": 7.39,
+      "type": "location"
+    },
+    {
+      "x": 33,
+      "y": 11,
+      "corners": [],
+      "title": "Byron Bay",
+      "url": "/australiaandpacific/australia/newsouthwales/byronbay",
+      "image": "/content-image/australiaandpacific/australia/newsouthwales/byronbay.jpg",
+      "snippet": "Beach town at mainland Australia's easternmost point, known for surf and alternative coastal culture.",
+      "score": 8.87,
+      "type": "location"
+    },
+    {
+      "x": 33,
+      "y": 12,
+      "corners": [
+        "br"
+      ],
+      "title": "Sydney",
+      "url": "/australiaandpacific/australia/newsouthwales/sydney",
+      "image": "/content-image/australiaandpacific/australia/newsouthwales/sydney.jpg",
+      "snippet": "Harbour city of beaches, ferries, and sandstone headlands around Australia's most recognisable waterfront.",
+      "score": 9.85,
+      "type": "location"
+    },
+    {
+      "x": 34,
+      "y": 8,
+      "corners": [
+        "tl"
+      ],
+      "title": "Jaluit Atoll",
+      "url": "/australiaandpacific/marshallislands/jaluitatoll",
+      "image": "/content-image/australiaandpacific/marshallislands/jaluitatoll.jpg",
+      "snippet": "Marshall Islands atoll with German and Japanese colonial remains scattered across its southern islets.",
+      "score": 6.93,
+      "type": "location"
+    },
+    {
+      "x": 34,
+      "y": 9,
+      "corners": [],
+      "title": "Guadalcanal",
+      "url": "/australiaandpacific/solomonislands/guadalcanal",
+      "image": "/content-image/australiaandpacific/solomonislands/guadalcanal.jpg",
+      "snippet": "Solomon Islands' largest island, known for World War II battlefields, jungle ridges, and Iron Bottom Sound",
+      "score": 6.37,
+      "type": "location"
+    },
+    {
+      "x": 34,
+      "y": 10,
+      "corners": [],
+      "title": "Tanna",
+      "url": "/australiaandpacific/vanuatu/tanna",
+      "image": "/content-image/australiaandpacific/vanuatu/tanna.jpg",
+      "snippet": "Southern Vanuatu island defined by Mount Yasur, an active volcano with an accessible crater rim.",
+      "score": 8.3,
+      "type": "location"
+    },
+    {
+      "x": 34,
+      "y": 11,
+      "corners": [
+        "br"
+      ],
+      "title": "Ouvea",
+      "url": "/australiaandpacific/newcaledonia/ouvea",
+      "image": "/content-image/australiaandpacific/newcaledonia/ouvea.jpg",
+      "snippet": "Loyalty Islands coral atoll with a 25-kilometre white beach and Kanak culture north-east of Noum\u00e9a.",
+      "score": 9.04,
+      "type": "location"
+    },
+    {
+      "x": 34,
+      "y": 13,
+      "corners": [
+        "tl",
+        "bl"
+      ],
+      "title": "Milford Sound",
+      "url": "/australiaandpacific/newzealand/milfordsound",
+      "image": "/content-image/australiaandpacific/newzealand/milfordsound.jpg",
+      "snippet": "Fiordland fjord where sheer granite walls and rainforest plunge into dark South Island water.",
+      "score": 9.84,
+      "type": "location"
+    },
+    {
+      "x": 35,
+      "y": 8,
+      "corners": [
+        "tr"
+      ],
+      "title": "Majuro",
+      "url": "/australiaandpacific/marshallislands/majuro",
+      "image": "/content-image/australiaandpacific/marshallislands/majuro.jpg",
+      "snippet": "Marshallese capital atoll where the D-U-D urban strip runs along a narrow coral lagoon",
+      "score": 7.21,
+      "type": "location"
+    },
+    {
+      "x": 35,
+      "y": 9,
+      "corners": [],
+      "title": "Funafuti",
+      "url": "/australiaandpacific/tuvalu/funafutiisland",
+      "image": "/content-image/australiaandpacific/tuvalu/funafutiisland.jpg",
+      "snippet": "Tuvalu's capital atoll, a narrow coral ribbon around a broad lagoon with many islets.",
+      "score": 7.22,
+      "type": "location"
+    },
+    {
+      "x": 35,
+      "y": 10,
+      "corners": [
+        "br"
+      ],
+      "title": "Yasawa Islands",
+      "url": "/australiaandpacific/fiji/yasawaislands",
+      "image": "/content-image/australiaandpacific/fiji/yasawaislands.jpg",
+      "snippet": "Volcanic Fijian island chain north of Viti Levu, with white beaches, clear lagoons, and slow village life",
+      "score": 9.32,
+      "type": "location"
+    },
+    {
+      "x": 35,
+      "y": 12,
+      "corners": [
+        "tl",
+        "tr"
+      ],
+      "title": "Rotorua",
+      "url": "/australiaandpacific/newzealand/north_island/bay_of_plenty/rotorua",
+      "image": "/content-image/australiaandpacific/newzealand/north_island/bay_of_plenty/rotorua.jpg",
+      "snippet": "North Island geothermal city known for geysers, bubbling mud pools, hot springs, and Te Arawa Maori culture.",
+      "score": 9.07,
+      "type": "location"
+    },
+    {
+      "x": 35,
+      "y": 13,
+      "corners": [
+        "br"
+      ],
+      "title": "Abel Tasman National Park",
+      "url": "/australiaandpacific/newzealand/abeltasmannationalpark",
+      "image": "/content-image/australiaandpacific/newzealand/abeltasmannationalpark.jpg",
+      "snippet": "Coastal New Zealand national park of golden beaches, granite headlands, and water-taxi trails.",
+      "score": 9.35,
+      "type": "location"
+    }
+  ]
+}

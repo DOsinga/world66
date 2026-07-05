@@ -38,3 +38,4 @@ The region is closed for most of the year. The two overland roads — from **Man
 
 - [Leh](/asia/india/jammuandkashmir/ladakh/leh)
 - [Drass](/asia/india/jammuandkashmir/ladakh/drass)
+- [Lamayuru](/asia/india/jammuandkashmir/ladakh/lamayuru)

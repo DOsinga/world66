@@ -11,9 +11,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Mykonos_(2).jpg
 latitude: 37.4454
 loc_type: city
 longitude: 25.3287
+quick_facts:
+  Little Venice: Houses over the sea
+  Maze Town: Built to foil pirates
+  Population: ~10,000
+  Windmills: 16th century
 score: 9.43
 snippet: Cycladic island of whitewashed lanes, protected architecture, beach clubs,
   and boat trips to Delos
+tip: Mykonos is Greece's party island, and prices show it — beach clubs charge a fortune
+  for a sunbed, and 'pay later' bar bills shock the unwary, so confirm prices first.
+  The whitewashed old town (Chora) is a deliberate maze, built to confuse pirates.
+  Watch sunset by the windmills in Little Venice. The 'meltemi' wind can cancel ferries.
 title: Mykonos
 type: location
 ---

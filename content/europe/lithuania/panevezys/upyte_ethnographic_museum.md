@@ -1,7 +1,11 @@
 ---
+latitude: 55.6617
+longitude: 24.2197
 score: 6.8
 tags:
 - things_to_do
+- museum
+- history
 title: Upytė Ethnographic Museum
 type: poi
 ---

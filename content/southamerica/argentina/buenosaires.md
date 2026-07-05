@@ -11,9 +11,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Puerto_Madero,_Buenos_Aire
 latitude: -34.609558
 loc_type: city
 longitude: -58.38879
+quick_facts:
+  Avenida 9 de Julio: Among the world's widest
+  Population: ~15 million (metro)
+  Recoleta: Evita's lavish resting place
+  Tango: Born in its port barrios
 score: 9.23
 snippet: Argentine capital known for European-influenced architecture, tango culture,
   and distinctive neighbourhoods.
+tip: Buenos Aires is the most European-feeling city in South America — grand boulevards,
+  café culture and a fierce passion for tango, which was born in its port barrios.
+  Catch a milonga (tango dance hall), eat steak at a parrilla, and see the candy-coloured
+  houses of La Boca and Eva Perón's grave in Recoleta cemetery. Dinner starts very
+  late, after 9pm.
 title: Buenos Aires
 type: location
 ---

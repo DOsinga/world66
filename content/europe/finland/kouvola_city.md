@@ -3,9 +3,12 @@ accessibility: by train from Helsinki, Kotka, Kouvola
 address: Myllykoski
 latitude: 60.771009
 longitude: 26.786649
+score: 3.5
+tags:
+- things_to_do
+- sight
 title: Sights in Kouvola City
 type: poi
-score: 3.5
 ---
 
 **Kymmene River**, **Kuusankoski**, **Ankkapurha**, **Myllykoski Falls** and **Valkeala lake district** are most famous

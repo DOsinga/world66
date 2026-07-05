@@ -45,3 +45,4 @@ Traveling here requires some preparation and awareness of the security situation
 - [Chitral](/asia/pakistan/chitral) — isolated valley near Hindu Kush, home of the Kalash people
 - [Taxila](/asia/pakistan/taxila) — UNESCO-listed Buddhist archaeological site
 - [Hyderabad](/asia/pakistan/hyderabad) — second city of Sindh
+- [Larkana](/asia/pakistan/larkana) — northern Sindh city tied to the Bhutto family and Indus Valley ruins

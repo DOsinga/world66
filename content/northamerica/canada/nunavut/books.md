@@ -11,7 +11,8 @@ If you're thinking of travelling to Nunavut and would like to learn more about C
 
 **Nunatsiaq News**
 
-Get the local scoop. Updated several times a week, the Nunatsiaq News keeps you up-to-date on the latest happenings in Nunavut. 
+Get the local scoop. Updated several times a week, the Nunatsiaq News keeps you up-to-date on the latest happenings in Nunavut.
+ 
 
 **The Nunavat Handbook: Travelling in Canada's Artic**
 

@@ -1,7 +1,13 @@
 ---
+latitude: 17.5812
+longitude: 120.3916
 score: 8.2
 tags:
 - things_to_do
+- sight
+- church
+- viewpoint
+- architecture
 title: Bantay Church and Bell Tower
 type: poi
 ---

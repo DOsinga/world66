@@ -1,13 +1,14 @@
 ---
-title: "Hadrian's Library"
-type: poi
 latitude: 37.9756
 longitude: 23.7253
-tags:
-  - things_to_do
-  - sight
-  - history
 score: 6.9
+tags:
+- things_to_do
+- sight
+- history
+- monastiraki
+title: Hadrian's Library
+type: poi
 ---
 
 Hadrian's Library, built by the emperor in 132 CE, was the largest public building of Roman Athens — not just a library but a complex of lecture halls, reading rooms, and an inner courtyard with a long reflecting pool. The papyrus scrolls were kept in alcoves on the east wall; the small windows you can see today were once filled with marble screens.

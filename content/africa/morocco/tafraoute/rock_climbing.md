@@ -1,7 +1,11 @@
 ---
+latitude: 29.7205
+longitude: -8.9745
 score: 7.4
 tags:
 - things_to_do
+- sight
+- climbing
 title: Rock Climbing
 type: poi
 ---

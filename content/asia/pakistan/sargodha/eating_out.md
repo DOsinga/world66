@@ -1,9 +1,9 @@
 ---
 address: P-A-F road sargodha
 phone: 92-483-728887
-title: Eating Out in Sargodha
-type: poi
 score: 2.2
+title: Eating Out in Sargodha
+type: section
 ---
 
 **BHALWAL CHAK 6 NB**

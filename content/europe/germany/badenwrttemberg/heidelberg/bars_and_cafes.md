@@ -13,13 +13,15 @@ Some nice places include:
 
 **Hemingways**
 
-Pub near Neckar river with a nice beergarden (often crowded).
+Pub near Neckar river with a nice beergarden
+ (often crowded).
 
 Fahrtgasse 1, phone 06221/165033
 
 **Vetter**
 
-Pub closed to Old Bridge, serving home brewed beer.
+Pub closed to Old Bridge, serving home brewed
+ beer.
 
 **Strohauer's Cafe Alt Heidelberg**
 
@@ -35,7 +37,8 @@ Rohrbacher Str. 4, phone 06221/97460
 
 **Cafe 7**
 
-A nice cafe, serving also breakfast, coffee specialties, and cakes.
+A nice cafe, serving also breakfast, coffee specialties,
+ and cakes.
 
 Marktplatz 7, phone 06221/181888
 

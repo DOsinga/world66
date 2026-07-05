@@ -1,7 +1,12 @@
 ---
+latitude: 35.695
+longitude: 139.4468
 score: 7.7
 tags:
 - things_to_do
+- sight
+- architecture
+- university
 title: Hitotsubashi University campus
 type: poi
 ---

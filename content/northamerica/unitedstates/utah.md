@@ -28,6 +28,7 @@ The classic Utah trip is a southern loop from Las Vegas: Zion → Bryce → Capi
 - [Moab](/northamerica/unitedstates/utah/moab) (Arches, Canyonlands)
 - [Springdale](/northamerica/unitedstates/utah/springdale) (Zion)
 - [Park City](/northamerica/unitedstates/utah/parkcity)
+- [Cedar City](/northamerica/unitedstates/utah/cedar_city)
 - [Ogden](/northamerica/unitedstates/utah/ogden)
 - [Kanab](/northamerica/unitedstates/utah/kanab)
 - [Bryce Canyon](/northamerica/unitedstates/utah/bryce_canyon)

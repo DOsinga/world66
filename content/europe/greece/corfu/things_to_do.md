@@ -3,4 +3,4 @@ title: "Things to Do"
 type: section
 ---
 
-Corfu Town (Kerkyra) has the most substantial historic sights on the island: two Venetian fortresses, a French-built arcaded street modelled on the Rue de Rivoli, and the Liston esplanade. The Achilleion palace outside town and the monastery at Palaiokastritsa are the main excursions. The island's beaches range from busy resort strips in the north to quieter coves in the south and west.
+The strongest concentration of historic sights is in [Corfu Town](/europe/greece/corfu/corfu_town), where the Venetian fortresses, Campiello lanes, Liston, and Saint Spyridon deserve a full day. Outside the capital, the island's best stops are the Achilleion palace south of town, the monastery and cliffs at Palaiokastritsa, Old Perithia in the north, and the classic Pontikonisi view from Kanoni. Beaches range from busy resort strips in the north to quieter coves in the south and west.

@@ -1,7 +1,11 @@
 ---
+latitude: 30.1027
+longitude: -90.9936
 score: 7.5
 tags:
 - things_to_do
+- sight
+- waterway
 title: Bayou Lafourche
 type: poi
 ---

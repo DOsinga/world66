@@ -1,12 +1,13 @@
 ---
-title: Boukoumbé Sunday Market
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - shopping
 latitude: 10.1833
 longitude: 1.1
+score: 7.5
+tags:
+- things_to_do
+- market
+- shopping
+title: Boukoumbé Sunday Market
+type: poi
 ---
 
 The Sunday market in Boukoumbé is the social hub of the Beninese Somba country. From early morning, women walk in from the surrounding compounds carrying baskets of millet, sorghum, peppers, peanuts, baobab leaves, and shea butter, while men bring livestock — goats, fowl, the occasional cow — to the small livestock market on the edge of town. Traders cross from Togo as well, since the border is only a few kilometres away.

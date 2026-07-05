@@ -1,7 +1,14 @@
 ---
+latitude: 40.07536
+longitude: 20.13552
 score: 8.8
+sources:
+- https://whichmuseum.com/museum/skenduli-house-gjirokastra-24510
 tags:
 - things_to_do
+- sight
+- architecture
+- historic_house
 title: Skenduli House
 type: poi
 ---

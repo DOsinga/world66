@@ -1,11 +1,13 @@
 ---
-title: "Dreams of Trespass: Tales of a Harem Girlhood"
-author: "Fatima Mernissi"
-type: poi
+author: Fatima Mernissi
+latitude: 34.0636
+longitude: -4.976
+score: 7.4
+snippet: Fez childhood memoir by Morocco's most important feminist thinker
 tags:
 - books
-snippet: "Fez childhood memoir by Morocco's most important feminist thinker"
-score: 7.4
+title: 'Dreams of Trespass: Tales of a Harem Girlhood'
+type: poi
 ---
 
 Fatima Mernissi grew up in a family harem in the medina of Fez in the 1940s — not the exotic harem of Western imagination, but a large extended household in which the women's movements were controlled, the gates were locked, and the inside was a world unto itself. Her memoir of that childhood is warm, funny, and quietly devastating: she describes the women who raised her not as victims but as full human beings with their own politics, strategies, and joys, living within a confinement they questioned but could not escape.

@@ -31,7 +31,7 @@ The north-west of Italy is a paradise for every culinary interested traveler. Fo
 
 The coastal region of [Liguria](/europe/italy/liguria) is another highlight. The [Italian Riviera](/europe/italy/liguria/italianriviera) has nothing to envy its French counterpart. Beaches, countryside, the right climate and old towns like [Genoa](/europe/italy/liguria/genoa) make a visit a must. Mostly undiscovered valleys offer beautiful walking possibilities. 
 
-[Albenga](/europe/italy/liguria/italianriviera/rivieradellepalme/albenga) and [Ceriale](/europe/italy/liguria/italianriviera/rivieradellepalme/ceriale) are worth a visit and even a longer stay. 
+[Albenga](/europe/italy/liguria/albenga) and [Ceriale](/europe/italy/liguria/ceriale) are worth a visit and even a longer stay. 
 
 Gourmets should not miss the Emilia Romagna, Italy's culinary centre. 
 
@@ -51,4 +51,4 @@ The southern part of Italy fascinates the traveler with its great hospitality an
 
 [Sicily](/europe/italy/sicily) the largest island in the Mediterranean has been influenced by the culture of the Greeks, the Romans, the Arabs the Normans, The Vandals and many others. They all loved life on the island and left their marks. 
 
-Italy has a great climate and the beaches to go with it. Look at the map and you will notice immediately that Italy has a very long coastline. Different mountain chains run through the country and you never have to travel far to find some excellent places to go hiking. Volcanoes like [Stromboli](/europe/italy/sicily/aeolianislands/stromboli) or the Etna are still active and can be visited.
+Italy has a great climate and the beaches to go with it. Look at the map and you will notice immediately that Italy has a very long coastline. Different mountain chains run through the country and you never have to travel far to find some excellent places to go hiking. Volcanoes like [Stromboli](/europe/italy/sicily/stromboli) or the Etna are still active and can be visited.

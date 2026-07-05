@@ -16,6 +16,7 @@ Checks:
   invalid_loc_type         loc_type not in allowed set               [report]
   invalid_page_type        type field not in allowed set             [report]
   missing_poi_fields       type=poi missing required frontmatter      [report]
+  day_trip_poi             type=poi tagged day_trips (must be a link) [report]
   invalid_poi_score        type=poi score is not 1.0-10.0             [report]
   continent_misplaced      file at content/<X>.md but not continent  [report]
   country_misplaced        continent child but loc_type != country   [report]
@@ -377,6 +378,34 @@ def check_missing_poi_fields(pages: list[Page]) -> list[Issue]:
     return issues
 
 
+def check_day_trip_poi(pages: list[Page]) -> list[Issue]:
+    """day_trips entries must be linked locations, not POIs.
+
+    A day trip is a destination in its own right — a town, a larger area, or
+    a natural feature — listed via ``linked_locations`` and pointing at a real
+    location page. A POI carrying the ``day_trips`` tag stands in for such a
+    destination inside the city directory, so flag it: promote it to a
+    ``loc_type: city``/``feature`` page and link it, or drop the tag.
+    """
+    issues = []
+    for p in pages:
+        if p.page_type != "poi":
+            continue
+        tags = p.meta.get("tags") or []
+        if isinstance(tags, str):
+            tags = [tags]
+        if "day_trips" in tags:
+            issues.append(Issue(
+                path=p.path,
+                check="day_trip_poi",
+                message=(
+                    "type=poi tagged day_trips; a day trip must be a linked "
+                    "location (loc_type city/feature), not a POI"
+                ),
+            ))
+    return issues
+
+
 def check_invalid_poi_score(pages: list[Page]) -> list[Issue]:
     issues = []
     for p in pages:
@@ -604,6 +633,7 @@ CHECKS = [
     check_invalid_loc_type,
     check_invalid_page_type,
     check_missing_poi_fields,
+    check_day_trip_poi,
     check_invalid_poi_score,
     check_continent_misplaced,
     check_country_misplaced,

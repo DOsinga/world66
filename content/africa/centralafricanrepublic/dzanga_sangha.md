@@ -9,6 +9,10 @@ snippet: Southwestern rainforest reserve known for western lowland gorillas, for
   elephants, and Ba'Aka guides.
 title: Dzanga-Sangha
 type: location
+image: dzanga_sangha.jpg
+image_source: https://commons.wikimedia.org/wiki/File:African_elephant,_Dzanga_Sangha,_Central_African_Republic_(18322370163).jpg
+image_license: Public domain
+image_attribution: U.S. Fish and Wildlife Service Headquarters
 ---
 
 **Dzanga-Sangha** is a protected area of dense tropical rainforest in the far southwest of the [Central African Republic](/africa/centralafricanrepublic), on the border with [Cameroon](/africa/cameroon) and the Republic of Congo. It is one of the best places in Central Africa to see western lowland gorillas — habituated groups can be tracked with local Ba'Aka pygmy guides, who have an extraordinary knowledge of the forest.

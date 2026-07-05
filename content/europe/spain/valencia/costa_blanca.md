@@ -5,7 +5,7 @@ image: costa_blanca.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Playa_El_Fosa_de_Calpe.jpg
 latitude: 38.3452
-loc_type: region
+loc_type: feature
 longitude: -0.481
 score: 0.64
 snippet: Mediterranean coast of Alicante province, mixing resort beaches, white towns,

@@ -5,7 +5,7 @@ image: costa_brava.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Costa_Brava_Calas.JPG
 latitude: 41.7038
-loc_type: region
+loc_type: feature
 longitude: 2.9416
 score: 0.7
 snippet: Rugged Catalan coast of limestone cliffs, small coves, fishing villages,

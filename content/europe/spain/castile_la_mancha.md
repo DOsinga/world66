@@ -8,7 +8,7 @@ latitude: 39.499954
 loc_type: region
 longitude: -2.79999
 score: 0.54
-title: La Mancha
+title: Castile-La Mancha
 type: location
 snippet: Dry Castilian plateau region of windmills, old towns, and the Don Quixote
   imagination.

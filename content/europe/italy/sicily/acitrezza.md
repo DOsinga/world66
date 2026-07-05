@@ -3,9 +3,9 @@ done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-05-12'
 image: acitrezza.jpg
-image_attribution: Wilson44691
-image_license: CC0
-image_source: https://commons.wikimedia.org/wiki/File:Aci_Trezza_060413.JPG
+image_attribution: gnuckx
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Acitrezza_Faraglioni_Moon_Rise_Sicilia_Italy_Italia_-_Creative_Commons_by_gnuckx_(4839700835).jpg
 latitude: 37.5663
 loc_type: city
 longitude: 15.161

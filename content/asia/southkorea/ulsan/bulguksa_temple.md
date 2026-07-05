@@ -1,13 +1,17 @@
 ---
 latitude: 35.789
 longitude: 129.3309
-snippet: "UNESCO-listed 8th-century temple in the hills near Gyeongju"
+snippet: UNESCO-listed 8th-century temple in the hills near Gyeongju
 tags:
 - day_trips
 - temple
 title: Bulguksa Temple
 type: poi
 score: 8.5
+image: bulguksa_temple.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bulguksa_temple_entrance_gate_stairs_flower_bed_and_blue_sky_in_Gyeongju_South_Korea.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Basile Morin
 ---
 
 The most famous temple in Korea, Bulguksa sits in forested hills outside [Gyeongju](/asia/southkorea/gyeongju), about an hour by bus from Ulsan. Built by Kim Dae-seong in 751 and restored to its present form in 1973, it was designated a UNESCO World Heritage Site in 1995 — and it deserves the listing.

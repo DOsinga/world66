@@ -1,15 +1,25 @@
 ---
-title: "Izalco Volcano"
+title: Izalco Volcano
 type: poi
 tags:
-  - things_to_do
-  - sight
-  - day_trips
+- things_to_do
+- sight
+- day_trips
 latitude: 13.8136
 longitude: -89.6333
-story: >
-  Izalco earned the name "Lighthouse of the Pacific" because it erupted so frequently from 1770 to 1958 that sailors used it as a navigational landmark. Almost perfectly symmetrical and almost entirely bare of vegetation, it looks less like a Central American volcano and more like a computer-generated idea of one. A hotel was built on the adjacent Cerro Verde specifically to give guests views of the eruptions — and the volcano stopped erupting the year the hotel opened.
+story: 'Izalco earned the name "Lighthouse of the Pacific" because it erupted so frequently
+  from 1770 to 1958 that sailors used it as a navigational landmark. Almost perfectly
+  symmetrical and almost entirely bare of vegetation, it looks less like a Central
+  American volcano and more like a computer-generated idea of one. A hotel was built
+  on the adjacent Cerro Verde specifically to give guests views of the eruptions —
+  and the volcano stopped erupting the year the hotel opened.
+
+  '
 score: 7.6
+image: izalco_volcano.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Volc%C3%A1n_de_Izalco,_El_Salvador_-_panoramio.jpg
+image_license: CC BY-SA 3.0
+image_attribution: ogwen
 ---
 
 Izalco is visible from the rim of Cerro Verde National Park and makes a formidable visual impression — a stark, ash-grey cone rising above the surrounding forest, looking actively hostile even in repose. The hike to the summit of Izalco is steeper and more demanding than the Santa Ana Volcano trail, with loose volcanic rock making the ascent tiring.

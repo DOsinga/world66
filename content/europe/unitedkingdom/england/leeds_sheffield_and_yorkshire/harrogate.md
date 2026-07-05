@@ -3,8 +3,8 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-06-01'
 image: harrogate.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Harrogate_War_Memorial_-_Cenotaph.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Entrance_to_Valley_Gardens,_Harrogate_-_geograph.org.uk_-_2569191.jpg
 latitude: 53.992149
 loc_type: city
 longitude: -1.539104
@@ -15,6 +15,7 @@ sources:
 - https://en.wikipedia.org/wiki/Harrogate
 title: Harrogate
 type: location
+image_attribution: Neil Theasby
 ---
 
 Harrogate is a handsome Victorian spa town in North Yorkshire, one of England's most elegant and self-assured small cities. The town grew rich in the 18th and 19th centuries on the strength of its mineral springs — visitors came from across Europe to "take the waters" — and the legacy shows everywhere: in the broad tree-lined avenues, the immaculate public gardens, the confident stone architecture, and a civic pride that keeps everything polished and well-planted.

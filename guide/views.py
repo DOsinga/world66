@@ -474,7 +474,6 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
             top_locations = candidates[:_dt_n]
             for loc in top_locations:
                 _enrich_card(loc)
-            carded = {id(l) for l in top_locations}
             # List every location when the country is small enough; otherwise show
             # the top few per region with a "more" link into the region.
             total = len(direct_children) + len(region_locs)
@@ -482,12 +481,12 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
             per_limit = None if total <= _REGION_LIST_ALL_MAX else 5
             _alpha = lambda p: p.title.lower()
             region_groups = []
-            # Direct cities/features not already shown as a card get their own group.
-            direct_extra = sorted(
-                (l for l in direct_children if id(l) not in carded), key=_alpha)
-            if direct_extra:
+            # The country's own cities/features (those not inside a region) get a
+            # group — list them all, including any also shown as a card, so the
+            # overview stays a complete index (e.g. Berlin under Germany).
+            if direct_children:
                 region_groups.append({"region": None, "title": page.title,
-                    "locations": direct_extra, "more_count": 0})
+                    "locations": sorted(direct_children, key=_alpha), "more_count": 0})
             # Regions listed alphabetically; each region's cities/features too. When
             # capped, keep the top few by score as the preview but show them A–Z.
             for r, r_locs in sorted(gathered, key=lambda g: _alpha(g[0])):

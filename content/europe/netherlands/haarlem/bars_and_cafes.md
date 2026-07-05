@@ -21,4 +21,5 @@ tel: 0226312885
 
 In former days the inhabitants of Haarlem did not have shops to buy liquor, as a supermarket or licensed victualler's shop, in these days you went to a so called "proeflokaal". Here people could taste (the Dutch word is proeven or proef) the liquor or wine they wanted to buy.
 
- Nowadays these tasting-rooms are rare, and De Blauwe Druif is one of the few left in Haarlem — a tiny brown bar with a long bar counter, dozens of jenevers and liqueurs on the shelf, and a clientele that still drops in for a "proefje" after work.
+
+ Nowadays these tasting-rooms are rare, and De Blauwe Druif is one of the few left in Haarlem — a tiny brown bar with a long bar counter, dozens of jenevers and liqueurs on the shelf, and a clientele that still drops in for a "proefje" after work.

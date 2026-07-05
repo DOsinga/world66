@@ -7,7 +7,8 @@ type: section
 
 **{Bondoukou}**
 
-Near Abidjan at Bondoukou are some old tombs decorated with fine terra-cotta sculpture.  
+Near Abidjan at Bondoukou are some old tombs decorated with fine terra-cotta sculpture. 
+ 
 
 **{Bingerville}**
 

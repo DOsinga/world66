@@ -11,7 +11,8 @@ type: section
 
 Boat tour
 
-The boat tours are not very impressive. I was promised crocodiles, but saw only women washing clothes. 
+The boat tours are not very impressive. I was promised crocodiles, but saw only women washing clothes.
+ 
 
 Elephant Ride
 

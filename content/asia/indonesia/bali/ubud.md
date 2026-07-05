@@ -10,9 +10,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Monkey_Forest_Street_of_Ub
 latitude: -8.5072
 loc_type: city
 longitude: 115.2618
+quick_facts:
+  Elevation: ~200 m
+  Monkey Forest: 1,200 macaques
+  Population: ~75,000
+  Rice Terraces: UNESCO-listed subak
 score: 9.7
 snippet: Balinese cultural town among rice terraces and river gorges, known for dance,
   painting, and temples
+tip: Ubud is Bali's cultural heart, not a beach town — come for rice terraces, temples
+  and craft villages, then head to the coast for sand. Rent a scooter only if you're
+  confident; the traffic is chaotic. The Monkey Forest macaques will snatch sunglasses
+  and water bottles, so hold tight. Watch a fire-lit Kecak dance at sunset.
 title: Ubud
 type: location
 ---

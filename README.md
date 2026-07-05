@@ -42,10 +42,9 @@ content/
 │   │   ├── netherlands.md         # Country overview
 │   │   └── amsterdam/
 │   │       ├── amsterdam.md       # City overview
-│   │       ├── sights.md          # Section
+│   │       ├── things_to_do.md          # Section
 │   │       ├── eating_out.md      # Section
-│   │       └── sights/
-│   │           └── rijksmuseum.md  # Point of interest
+│   │       └── rijksmuseum.md      # Point of interest (POI) linked to the things to do section by its tags
 ```
 
 Each markdown file has YAML frontmatter:

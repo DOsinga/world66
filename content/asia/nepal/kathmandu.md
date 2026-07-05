@@ -11,9 +11,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Basantapur_Durbar_Square-K
 latitude: 27.708317
 loc_type: city
 longitude: 85.320582
+quick_facts:
+  Boudhanath: One of the world's largest stupas
+  Elevation: ~1,400 m
+  Population: ~1.5 million
+  UNESCO Sites: Seven in the valley
 score: 9.26
 snippet: High valley capital of Nepal, dense with living temple neighbourhoods beneath
   the Himalayan rim.
+tip: Kathmandu sits in a Himalayan valley packed with UNESCO-listed temples and palaces
+  — the Durbar Squares, the Boudhanath stupa and the monkey-filled Swayambhunath are
+  unmissable. It is the launchpad for trekking and Everest flights. The air can be
+  dusty and the traffic snarled; haggle in Thamel and respect temple etiquette (remove
+  shoes, walk clockwise).
 title: Kathmandu
 type: location
 ---

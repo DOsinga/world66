@@ -10,9 +10,19 @@ image_source: https://commons.wikimedia.org/wiki/File:12-07-13-washington-by-Ral
 latitude: 38.895037
 loc_type: city
 longitude: -77.036543
+quick_facts:
+  Founded: '1790'
+  Height Limit: Nothing tops the Capitol
+  Population: ~700,000
+  Smithsonian: Free, 17 museums
 score: 9.27
 snippet: Purpose-built United States capital on the Potomac, defined by monuments,
   museums, and federal avenues.
+tip: Washington DC is laid out on a grand plan, and most of its highlights are free
+  — the Smithsonian museums and the monuments on the National Mall cost nothing. By
+  law no building may rise above the Capitol, so the skyline stays low and the vistas
+  open. Walk or use the Metro; the Mall is longer than it looks. Spring's cherry blossoms
+  are spectacular.
 title: Washington D.C.
 type: location
 ---

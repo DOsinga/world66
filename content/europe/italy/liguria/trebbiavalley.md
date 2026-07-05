@@ -2,21 +2,21 @@
 done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-22'
+image: trebbiavalley.jpg
+image_attribution: Giorgio Galeotti
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Trebbia_Valley_-_Brugnello,_Corte_Brugnatella,_Piacenza,_Italy_-_May_30,_2020.jpg
 latitude: 44.549
-loc_type: region
+loc_type: feature
+longitude: 9.217
+score: 5.8
 snippet: Ligurian Apennine valley outside Genoa, threaded by the Trebbia River and
   old pilgrimage villages
-longitude: 9.217
-score: 0.55
 sources:
 - https://en.wikipedia.org/wiki/Monte_Alfeo
 - https://en.wikipedia.org/wiki/Trebbia
 title: Trebbia Valley
 type: location
-image: trebbiavalley.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Trebbia_Valley_-_Brugnello,_Corte_Brugnatella,_Piacenza,_Italy_-_May_30,_2020.jpg
-image_license: CC BY 4.0
-image_attribution: Giorgio Galeotti
 ---
 
 Just outside [Genoa](/europe/italy/liguria/genoa), the Trebbia Valley cuts a narrow, winding path through the Ligurian Apennines. Follow the SS45 past Torriglia and you find yourself in a small but genuinely beautiful mountain landscape that most visitors to the Ligurian coast never reach.

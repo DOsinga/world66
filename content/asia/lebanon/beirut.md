@@ -9,9 +9,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Beirut_close_to_plane_desc
 latitude: 33.889226
 loc_type: city
 longitude: 35.502558
+quick_facts:
+  Continuously Inhabited: ~5,000 years
+  Corniche: Seafront promenade
+  Once Called: '''Paris of the Middle East'''
+  Population: ~2.4 million
 score: 8.05
 snippet: Rocky Mediterranean capital rebuilt through war and crisis, with layered
   districts and a relentless cultural pulse.
+tip: Beirut is a resilient, hard-partying Mediterranean city that has rebuilt itself
+  again and again. The Corniche seaside promenade and the Pigeon Rocks are the classic
+  strolls; the National Museum is excellent. The economy is in deep crisis, so carry
+  US dollars in cash and check the latest situation. Lebanese food and nightlife are
+  legendary.
 title: Beirut
 type: location
 ---

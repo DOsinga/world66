@@ -11,9 +11,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Grand_Place_Bruselas_2.jpg
 latitude: 50.846737
 loc_type: city
 longitude: 4.352493
+quick_facts:
+  Comic Strips: Birthplace of Tintin
+  EU Capital: Seat of the institutions
+  Grand-Place: A UNESCO-listed square
+  Population: ~1.2 million
 score: 8.76
 snippet: Bilingual Belgian capital and EU seat, centred on the gilded Grand-Place
   and wry urban contradictions.
+tip: Brussels is the de facto capital of the EU, but its heart is the Grand-Place,
+  one of the most beautiful squares in Europe. Eat the trinity — frites (invented
+  in Belgium), waffles and chocolate — and seek out the comic-strip murals (Tintin
+  was born here). Hunt down the tiny, much-overrated Manneken Pis statue, then move
+  on quickly.
 title: Brussels
 type: location
 ---

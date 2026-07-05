@@ -9,6 +9,10 @@ tags:
 title: Scuba Diving
 type: poi
 score: 6.8
+image: scuba_diving.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Scuba_Diving_Samaesan_Island.jpg
+image_license: CC0
+image_attribution: Ryland.cairns
 ---
 
 Several dive shops on Koh Chang run daily trips to sites around the archipelago. The best diving is around the outer islands — Koh Rang and Koh Wai have good coral and visibility, especially from November to May. Two-dive day trips typically include gear, lunch, and boat transport.

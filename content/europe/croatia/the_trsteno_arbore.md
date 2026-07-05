@@ -10,6 +10,10 @@ tags:
 title: The Trsteno Arboretum
 type: poi
 score: 8.0
+image: the_trsteno_arbore.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Aquedukt,_Arboretum_Trsteno,_Croatia.JPG
+image_license: Public domain
+image_attribution: Modzzak
 ---
 
 More than 300 species of trees and plants from across the Mediterranean and beyond, set around architecture spanning the Gothic-Renaissance period onwards. The Trsteno Arboretum is widely considered one of the finest gardens in this part of Europe.

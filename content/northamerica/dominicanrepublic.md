@@ -1,16 +1,18 @@
 ---
+image: dominicanrepublic.jpg
+image_attribution: Caballero1967
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Cabo_Cabr%C3%B3n,_(Rinc%C3%B3n_Beach)_Saman%C3%A1,_DR.JPG
 latitude: 18.7357
 loc_type: country
 longitude: -70.1627
 score: 0.61
 snippet: Caribbean country on eastern Hispaniola, balancing resort coasts with Santo
   Domingo's colonial firsts and merengue culture.
+tags:
+- thecaribbean
 title: Dominican Republic
 type: location
-image: dominicanrepublic.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Cabo_Cabr%C3%B3n,_(Rinc%C3%B3n_Beach)_Saman%C3%A1,_DR.JPG
-image_license: CC BY-SA 4.0
-image_attribution: Caballero1967
 ---
 
 The Dominican Republic occupies the eastern two-thirds of Hispaniola, the island it shares with Haiti, and is the most visited country in the Caribbean. The appeal is obvious: two coasts, hundreds of kilometres of beach, warm water year-round, and a culture built on music, food, and an enthusiasm for life that is genuinely contagious. But the country is more than its resorts.

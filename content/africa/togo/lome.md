@@ -11,11 +11,20 @@ image_source: https://commons.wikimedia.org/wiki/File:Lome_Beach_Togo_1.jpg
 latitude: 6.1304
 loc_type: city
 longitude: 1.2158
+quick_facts:
+  Fetish Market: Voodoo remedies for sale
+  On the Border: Right beside Ghana
+  Population: ~1.8 million
+  Voodoo Heartland: West African vodun
 score: 6.41
-title: Lome
-type: location
 snippet: Lomé is Togo’s coastal capital, known for its markets, voodoo heritage, and
   compact city centre.
+tip: Lomé hugs the coast right on the Ghana border, with a long palm-fringed beach
+  and a faded colonial centre. The Grand Marché and the notorious Fetish Market —
+  stacked with ingredients for voodoo remedies — are the must-sees. Togo is a cradle
+  of West African voodoo. The beach has strong currents, so swim with care.
+title: Lome
+type: location
 ---
 
 Lomé is one of West Africa's most approachable capitals. It is small enough to walk across, set right on the coast with sandy [beaches](/africa/togo/lome/lome_beach) stretching from the city centre, and carries the relaxed energy of a town that has never quite tried to be anything other than itself. The [Grand Marché](/africa/togo/lome/grand_marche) dominates the commercial heart of the city, a sprawling market run almost entirely by women — the famous Nana Benz — where you can find everything from Dutch wax prints to traditional medicines.

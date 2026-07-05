@@ -3,13 +3,17 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: '2026-04-09'
 latitude: 44.051
+loc_type: feature
 longitude: 8.189
-score: 0.51
-title: Varatella Valley
-type: location
-loc_type: region
+score: 5.3
 snippet: Inland Ligurian valley known for prehistoric caves with Neanderthal handprints
   and terraced olive hillsides.
+title: Varatella Valley
+type: location
+image: varatellavalley.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Muatêa_de_Sànta_Luçîa_(Toiràn)_-_vìsta_da_Vàlle_do_Varatèlla.jpg
+image_license: CC BY-SA 4.0
+image_attribution: N.Longo
 ---
 
 The Varatella Valley, inland from the Ligurian coast near Toirano, is best known for its remarkable prehistoric caves. The cave walls still bear hand- and footprints left by Neanderthals, making this one of the more extraordinary prehistoric sites in northern Italy. Not all caves are open to the public, but those that are leave a genuine impression.

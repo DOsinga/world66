@@ -1,58 +1,18 @@
 ---
 title: Day Trips
 type: section
+linked_locations:
+  - europe/russia/vladimir
+  - europe/russia/vologda_region/vologda
+  - europe/russia/kazan
 ---
 
-Usually Day Trip means "go in the morning - come back in the evening". It is not so in Moscow. You may go in the evening (or in the night), sleep quite comfortable aboard a train, spend day in other city some hundreds kilometers from Moscow and come back in the morning after sleeping one more night aboard train.
+Day trip in Moscow does not always mean "go in the morning, come back in the evening." Distances are vast, and the classic Russian approach is to board a train in the evening, sleep comfortably aboard, spend the day in a city some hundreds of kilometres away, and sleep one more night on the train home.
 
-### [Vologda](/europe/russia/moscow/day_trips/vologda)
+[Vladimir](/europe/russia/vladimir) is the easiest and most rewarding of the close trips — one of the oldest cities in Russia and a highlight of the Golden Ring, with white-stone cathedrals and the medieval Golden Gate. Buses from the square in front of Kursk Railway Station (Kurskaya metro) run every half hour and take about 2.5 hours; ask to be let off at the Golden Gate rather than continuing to the bus station.
 
-This old Russian town located in about 500 km to the north of Moscow well worth visiting. In fact you could spend in this region much more than one day. But even one day here is better then nothing.
+[Vologda](/europe/russia/vologda_region/vologda), about 500 km to the north, rewards the overnight-train traveller with its extraordinary carved wooden houses and golden domes. The best time to go is June or July, when the white nights keep the town glowing late, or deep winter for a real "Russian winter." Train #234 Moscow–Arkhangelsk (via Vologda) is the practical choice, though it does not run every day, so check the timetable.
 
-**Best time to go**
+[Kazan](/europe/russia/kazan), the Tatar capital on the Volga, is a longer haul — two nights aboard a train — but doable for the determined. Trains leave from Kazansky Vokzal (Kazan Railway Station); the daily #002 Moscow–Kazan departs around 19:20 and arrives 07:25 the next morning.
 
-June-Jyly when nights are short (or nonexistent).
-Winter - to see real "Russian winter".
-
-**Train from Moscow**
-
-There are many trains from Moscow going via Vologda but the best choice would be
-**#234 Moscow - Arkhangelsk (via Vologda),** (not every day so check the timetable).
-
-### [Arkhangelskoye](/europe/russia/moscow/day_trips/arkhangelskoye)
-
-Arkhangelskoye (*Архангельское*) is one of the great estates that were built by Russian aristocracy in the 17-th - 18-th centuries.
-
-Situated 20 km west of Moscow it is very nice place to spend some hours. The best time to visit is summer.
-
-**What to see.**
-
-**Yusupov Palace**, which is set back from the Moscow River in an overgrown grove. (Don't confuse it with the Stalin-era Military Convalescent Home overlooking the river.) The palace was originally built in the 1670s and rebuilt in later centuries.
-
-### [Kazan](/europe/russia/moscow/day_trips/kazan)
-
-You may go to [Kazan](/europe/russia/kazan) from Moscow for a day if you are ready to sleep two nights aboard a train.
-
-There are some trains going from Moscow (Kazan Railway station/Kazansky Vokzal) to Kazan. The best choise would be
-
-**#002 Moscow - Kazan**, (going every day) departure 19:20, arrival 07:25 (next day).
-**#036М Moscow - Barnaul (via Kazan)**, (going every odd day) departure 20:16, arrival 09:12 (next day).
-**#050М Moscow - Kazan**, (going every day) departure 20:50.
-
-### [Borodino](/europe/russia/moscow/day_trips/borodino)
-
-State Borodino War and History Museum and Reserve is located 120 km west of Moscow. It was founded in 1839 at the site of the great Battle of Borodino and it’s the world’s oldest museum established on a battlefield.
-
-The main historical element of the museum is the Borodino fields, where the Russian army led by Kutuzov and the French army led by Napoleon fought on the 7th of September 1812.
-
-From October 12 to October 18, 1941, this was the firing line of the Mozhaisk defense, where Soviet soldiers countered the Nazi army's assault on Moscow.
-
-### [Vladimir](/europe/russia/moscow/day_trips/vladimir)
-
-[Vladimir](/europe/russia/vladimir) is very nice one day trip from Moscow.
-
-**How to go**
-
-You may go by local train from Kurskiy Vokzal (Kursk Railway station) to Vladimir. The historical part of Vladimir is above the train station so just go up and turn left (in the direction of Moscow) along the main street.
-
-It is much more comfortable to go by bus. Buses to Vladimir run from the stop on the square before the Kursk Railway Station (right side of the square if you face the station). Buses run every half an hour.
+Closer to the city, two destinations make genuine single-day outings without an overnight train: the aristocratic estate of [Arkhangelskoye](/europe/russia/moscow/arkhangelskoye), 20 km west with its Yusupov Palace and Italian gardens, and the [Borodino Battlefield](/europe/russia/moscow/borodino), 120 km west, where Napoleon met Kutuzov in 1812 and where the world's oldest battlefield museum still stands.

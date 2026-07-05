@@ -9,10 +9,20 @@ image_source: https://commons.wikimedia.org/wiki/File:Kabul_Afghanistan,_place_w
 latitude: 34.52695
 loc_type: city
 longitude: 69.185058
+quick_facts:
+  Babur's Tomb: The Mughal emperor rests here
+  Elevation: ~1,790 m
+  Hindu Kush: Snow peaks ring the city
+  Population: ~4.5 million
 score: 2.21
-title: Kabul
 snippet: High-valley Afghan capital ringed by the Hindu Kush and marked by repeated
   destruction and rebuilding.
+tip: Kabul sits in a high mountain bowl at 1,790 m, ringed by the snow-capped Hindu
+  Kush, so it can be bitterly cold in winter. Afghanistan is off-limits for most travellers
+  — check advisories, which overwhelmingly warn against all travel. In calmer eras
+  the Babur Gardens, the bazaars and the National Museum were the highlights. Any
+  visit demands serious local arrangement.
+title: Kabul
 type: location
 ---
 

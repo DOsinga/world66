@@ -8,10 +8,20 @@ image_source: https://commons.wikimedia.org/wiki/File:Canberra_panorama_from_Mou
 latitude: -35.297591
 loc_type: city
 longitude: 149.101268
+quick_facts:
+  Built: As a planned capital from 1913
+  Compromise: Between Sydney & Melbourne
+  Parliament House: Has a walkable grass roof
+  Population: ~470,000
 score: 7.72
-title: Canberra
 snippet: Planned Australian capital of parliament, national museums, and broad lakefront
   avenues below low hills.
+tip: 'Canberra is a planned compromise capital — built from scratch because Sydney
+  and Melbourne couldn''t agree which should rule. It is spacious, green and arranged
+  around an artificial lake. The national institutions are the draw: Parliament House
+  (with a grass roof you can walk on), the War Memorial and the National Gallery,
+  mostly free. See it in autumn or during the spring Floriade flower festival.'
+title: Canberra
 type: location
 ---
 

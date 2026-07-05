@@ -1,16 +1,19 @@
 ---
+title: Phillip Island
+type: location
+loc_type: feature
 latitude: -38.5072
 longitude: 145.1888
-snippet: Surf beaches and penguin parades on a wild island south of Melbourne
-tags:
-- things_to_do
-- beach
-- beaches
-title: Phillip Island
-type: poi
 score: 8.8
+snippet: Wild island 90 minutes south of Melbourne, famous for its nightly penguin
+  parade and Southern Ocean surf beaches.
+url: www.visitphillipisland.com
+image: phillipisland.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Nobbies_zz.JPG
+image_license: CC BY-SA 4.0
+image_attribution: Chensiyuan
 ---
 
-Phillip Island's south coast has some of the best surf beaches in Victoria. Woolamai is the pick for experienced surfers — powerful, consistent swells rolling in from the Southern Ocean — while Smiths Beach is more forgiving for beginners. Cat Bay, tucked around the headland, offers a wilder, less crowded alternative.
+Phillip Island is a wild, surf-battered island about 90 minutes southeast of Melbourne, reached via the Bass Highway and a short bridge crossing. It is best known for the nightly Penguin Parade at Summerland Beach, where hundreds of little penguins waddle ashore at dusk to their burrows in the dunes — book ahead, as it draws crowds.
 
-The island is about 90 minutes from Melbourne via the Bass Highway and a short bridge crossing. Beyond the surf, the famous Penguin Parade at Summerland Beach draws crowds at dusk as hundreds of little penguins waddle ashore. The Nobbies headland at the western tip has boardwalks overlooking a fur seal colony on Seal Rocks. In summer the beaches get busy with Melbourne day-trippers, so arrive early.
+Beyond the penguins, the island has some of the best surf beaches in Victoria: Woolamai is the pick for experienced surfers, with powerful swells rolling in from the Southern Ocean, while Smiths Beach is gentler for beginners and Cat Bay a quieter alternative. The Nobbies headland at the western tip has boardwalks overlooking a fur-seal colony on Seal Rocks, there are koalas at the Conservation Centre, and the island hosts the Australian Motorcycle Grand Prix each year. In summer the beaches fill with Melbourne day-trippers, so arrive early — or stay overnight.

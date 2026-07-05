@@ -4,15 +4,25 @@ done:
   location_enrich: '2026-05-12'
   poi_cleanup: '2026-04-21'
 image: paris.jpg
-image_attribution: Kainet
-image_license: CC BY 2.0
-image_source: https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe_HDR_2007.jpg
+image_attribution: Basile Morin
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Panoramic_view_on_the_illuminated_Rue_de_Rennes_and_Notre-Dame_de_Paris_at_sunset_France.jpg
 latitude: 48.8566
 loc_type: city
 longitude: 2.3522
+quick_facts:
+  Cafés & Bistros: ~10,000
+  Mona Lisa: World's most-visited art
+  Population: 2.1 million
+  Seine Bridges: '37'
 score: 9.98
 snippet: French capital on the Seine, defined by historic quartiers, major museums,
   and Haussmann boulevards.
+tip: Paris is a walking city pretending to be a metro city. The metro is fast and
+  cheap, but many central stations are a five-minute stroll apart past things you'd
+  otherwise miss — walk the riverbanks and the arrondissements instead. Museums are
+  quietest at opening; many are free on the first Sunday of the month, which also
+  means heaving, so weigh the trade.
 title: Paris
 type: location
 ---

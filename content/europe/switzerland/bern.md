@@ -10,9 +10,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Bundeshaus_Bern_2009,_Floo
 latitude: 46.948474
 loc_type: city
 longitude: 7.452175
+quick_facts:
+  Einstein: Wrote relativity here in 1905
+  Old Town: UNESCO-listed, medieval
+  Population: ~135,000
+  River Floating: Locals drift down the Aare
 score: 9.04
 snippet: Swiss federal capital with arcaded medieval streets curled inside a bend
   of the Aare.
+tip: Bern, not Zurich or Geneva, is Switzerland's capital — a perfectly preserved
+  medieval old town wrapped in a loop of the Aare river, a UNESCO site. In summer
+  locals float down the fast, cold Aare and climb out at the riverside lawns. See
+  the medieval clock tower (Zytglogge) and the bear pit. Einstein dreamed up relativity
+  while living here.
 title: Bern
 type: location
 ---

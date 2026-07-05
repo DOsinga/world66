@@ -9,7 +9,7 @@ score: 6.6
 snippet: Combined city hall and opera house on the Amstel
 tags:
 - things_to_do
-- waterlooplein
+- rembrandtplein
 title: Stopera
 type: poi
 ---

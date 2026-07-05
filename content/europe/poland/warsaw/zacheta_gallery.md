@@ -7,7 +7,7 @@ score: 7.9
 snippet: Poland's leading contemporary art gallery in a neo-Renaissance building
 tags:
 - things_to_do
-- srodmiescie_district
+- srodmiescie_polnocne
 - museum
 title: Zachęta National Gallery of Art
 type: poi

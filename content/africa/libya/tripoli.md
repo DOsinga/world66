@@ -11,9 +11,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Al-Saraya_al-Hamra_Fortres
 latitude: 32.896672
 loc_type: city
 longitude: 13.177792
+quick_facts:
+  Founded: ~7th century BC, by Phoenicians
+  Leptis Magna: Roman ruins nearby
+  Population: ~1.2 million
+  Red Castle: The Assai al-Hamra fortress
 score: 5.16
 snippet: Mediterranean Libyan capital where an old medina and Roman arch survive beside
   oil-era concrete sprawl.
+tip: Tripoli's walled Old City (the Medina) hides Roman arches, Ottoman mosques and
+  the Red Castle museum. Libya remains volatile, so check advisories carefully — most
+  governments advise against travel. In calmer times the nearby Roman ruins of Leptis
+  Magna and Sabratha are among the best-preserved on the Mediterranean. Any trip needs
+  careful local arrangement.
 title: Tripoli
 type: location
 ---

@@ -10,9 +10,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Takayama.-_Inari-torii_u_(
 latitude: 36.139625
 loc_type: city
 longitude: 137.251032
+quick_facts:
+  Elevation: 573 m
+  Hida Beef: Rivals Kobe
+  Old Town: Edo-era, preserved
+  Sake Breweries: Marked by cedar balls
 score: 9.44
 snippet: Mountain castle town in Gifu Prefecture, known for Edo-period merchant streets
   and morning markets.
+tip: Takayama, in the mountains of Hida, kept its Edo-era merchant streets intact
+  — wander the old town's sake breweries (look for the cedar balls hung outside) in
+  the morning. It's the gateway to the thatched farmhouses of Shirakawa-go. Try Hida
+  beef, a rival to Kobe. The twice-yearly festival floats are among Japan's finest.
 title: Takayama
 type: location
 ---

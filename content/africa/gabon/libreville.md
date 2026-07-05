@@ -28,4 +28,4 @@ The [Eglise Saint-Michel de Nkembo](/africa/gabon/libreville/eglise_saint_michel
 
 The [Marche du Mont-Bouet](/africa/gabon/libreville/marche_du_mont_bouet) is one of the great markets of Central Africa. It sprawls across several blocks and sells everything: fish, produce, bushmeat, fabric, traditional medicines, household goods. Come with a sense of adventure and keep your valuables secure, as pickpockets are active.
 
-Libreville is also the jumping-off point for most of [Gabon's national parks](/africa/gabon/libreville/lope_national_park) and for the short boat trip to [Pointe Denis](/africa/gabon/libreville/pointe_denis), a sandy peninsula across the estuary with beaches and calm water.
+Libreville is also the jumping-off point for most of [Gabon's national parks](/africa/gabon/lope_national_park) and for the short boat trip to [Pointe Denis](/africa/gabon/pointe_denis), a sandy peninsula across the estuary with beaches and calm water.

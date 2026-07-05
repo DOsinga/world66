@@ -3,6 +3,7 @@ title: "Ngoc Son Temple"
 type: poi
 tags:
   - things_to_do
+  - old_quarter
   - sight
 latitude: 21.0307
 longitude: 105.852

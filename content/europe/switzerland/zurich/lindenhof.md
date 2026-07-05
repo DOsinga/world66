@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - schipfe
 - landmark
+- city_lindenhof
 title: Lindenhof
 type: poi
 ---

@@ -8,7 +8,7 @@ sources:
 - https://en.wikipedia.org/wiki/Museum_of_Modern_Art_in_Warsaw
 tags:
 - things_to_do
-- srodmiescie_district
+- srodmiescie_poludniowe
 - museum
 title: Museum of Modern Art Warsaw
 type: poi

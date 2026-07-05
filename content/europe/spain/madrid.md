@@ -11,9 +11,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_la_Almudena,_M
 latitude: 40.416782
 loc_type: city
 longitude: -3.703507
+quick_facts:
+  Elevation: 650 m, Europe's highest capital
+  Population: ~3.3 million
+  Retiro Park: A royal garden, now public
+  The Prado: One of the world's great galleries
 score: 9.33
 snippet: High inland Spanish capital of royal squares, late nights, and the Prado-centred
   art triangle
+tip: Madrid is Europe's highest capital at 650 m, with a dry climate and fierce summer
+  heat — locals escape with a long lunch and a siesta, and the city only truly wakes
+  after dark. The 'Golden Triangle' of the Prado, Reina Sofía and Thyssen museums
+  is world-class. Eat tapas standing at the bar in La Latina, and watch the sunset
+  from the Temple of Debod.
 title: Madrid
 type: location
 ---

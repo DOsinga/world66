@@ -14,7 +14,7 @@ story: 'The five towers — Fook Cheong, Montane Mansion, Oceanic Mansion, Provi
   '
 tags:
 - things_to_do
-- hongkongisland
+- causeway_bay
 - sight
 - architecture
 title: Quarry Bay 'Monster Building'

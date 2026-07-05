@@ -7,9 +7,19 @@ done:
 latitude: 14.693425
 loc_type: city
 longitude: -17.447938
+quick_facts:
+  Cap-Vert: Africa's westernmost point
+  Population: ~1.1 million
+  Renaissance Monument: Taller than the Statue of Liberty
+  Île de Gorée: Former slave-trade island
 score: 7.93
 snippet: West African capital on the Cap-Vert peninsula, alive with markets, music,
   mosques, and Atlantic light
+tip: Dakar sits on the Cap-Vert peninsula, the westernmost point of mainland Africa.
+  It is vibrant and musical — the home of mbalax and Youssou N'Dour. Take the ferry
+  to Île de Gorée, the sobering former slave-trade island, just offshore. The African
+  Renaissance Monument towers over the city. Haggle hard and watch valuables in the
+  markets.
 title: Dakar
 type: location
 ---

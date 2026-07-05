@@ -3,9 +3,9 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-15'
 image: gramado.jpg
-image_attribution: Leandro's World Tour on Flickr
-image_license: CC BY 2.0
-image_source: https://www.flickr.com/photos/18115835@N00/4654146147
+image_attribution: Larissa Fraga
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Portico,_Gramado_-_RS,_Brazil_-_panoramio_(1).jpg
 latitude: -29.379286
 loc_type: city
 longitude: -50.873702

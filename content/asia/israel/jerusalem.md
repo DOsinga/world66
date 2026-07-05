@@ -9,9 +9,19 @@ image_source: https://commons.wikimedia.org/wiki/File:%D7%94%D7%9E%D7%A6%D7%95%D
 latitude: 31.7683
 loc_type: city
 longitude: 35.2137
+quick_facts:
+  Building Law: All clad in Jerusalem stone
+  Gates: 8, one sealed
+  Holy To: Three faiths
+  Old City: 0.9 km²
 score: 9.74
 snippet: Ancient hill city sacred to Judaism, Christianity, and Islam, centred on
   the walled Old City.
+tip: The Old City is four quarters and a maze; go early, when the alleys are quiet
+  and the light is gold on the limestone. Dress modestly for holy sites — covered
+  shoulders and knees — and plan around Shabbat (Friday sunset to Saturday night),
+  when much of the city shuts down. Respect the intensity; this is sacred ground to
+  billions.
 title: Jerusalem
 type: location
 ---

@@ -16,6 +16,10 @@ title: Klosterneuburg Abbey
 type: poi
 url: www.stift-klosterneuburg.at
 score: 8.9
+image: klosterneuburg_abb.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Marble_Hall_ceiling_fresco_in_Klosterneuburg,_Vienna_(6114354474).jpg
+image_license: CC BY-SA 2.0
+image_attribution: David Davies from Birmingham, UK
 ---
 
 Located only 12km from Vienna, easily accessible by public transport, Stift Klosterneuburg makes for an excellent destination for a day trip. You might start your day with a tour through the 900-year-old monastery.

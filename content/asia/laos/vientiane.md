@@ -11,9 +11,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Pha_That_Luang_-_Vientiane
 latitude: 17.964099
 loc_type: city
 longitude: 102.613371
+quick_facts:
+  On the Mekong: Faces Thailand across it
+  Patuxai: Built from 'runway' cement
+  Population: ~950,000
+  That Luang: Golden national symbol
 score: 8.02
 snippet: Laid-back Mekong capital of Laos, with French-Lao streets, gilded temples,
   and riverside evenings.
+tip: Vientiane is one of the most laid-back capitals in Asia — small, riverside and
+  sleepy, where life slows to the pace of the Mekong. Watch the sunset over the river
+  into Thailand, see the golden That Luang stupa and the Patuxai victory arch (built
+  with cement donated for an airport runway). Rent a bicycle; the whole city is flat
+  and easy.
 title: Vientiane
 type: location
 ---
@@ -26,4 +36,4 @@ The main sights are easily covered on foot or by bicycle. [Pha That Luang](/asia
 
 No visit is complete without a stop at the [COPE Visitor Centre](/asia/laos/vientiane/cope_visitor_centre), which tells the story of unexploded American ordnance still scattered across the country, and the [Lao National Museum](/asia/laos/vientiane/lao_national_museum), which tells the same war from the Pathet Lao side. The [Mekong riverside](/asia/laos/vientiane/mekong_riverside) at dusk is the best place to end the day.
 
-Vientiane is also the base for day trips to the [Nam Ngum reservoir](/asia/laos/vientiane/namngumdam), the ancient site of [Vang Xang](/asia/laos/vientiane/vangxang), and the limestone landscapes of the [Hinboun area](/asia/laos/vientiane/stoneforest). The Laos-China Railway station at Khamsavath, about 15 kilometres from the city center, connects Vientiane to [Vang Vieng](/asia/laos/vangvieng) and [Luang Prabang](/asia/laos/luangprabang).
+Vientiane is also the base for day trips to the [Nam Ngum reservoir](/asia/laos/nam_ngum), the ancient site of [Vang Xang](/asia/laos/vientiane/vangxang), and the limestone landscapes of the [Hinboun area](/asia/laos/hinboun). The Laos-China Railway station at Khamsavath, about 15 kilometres from the city center, connects Vientiane to [Vang Vieng](/asia/laos/vangvieng) and [Luang Prabang](/asia/laos/luangprabang).

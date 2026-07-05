@@ -11,11 +11,21 @@ image_source: https://commons.wikimedia.org/wiki/File:Sanaa,_Yemen_(7).jpg
 latitude: 15.35
 loc_type: city
 longitude: 44.2
+quick_facts:
+  Among Earth's Oldest: Continuously inhabited cities
+  Elevation: ~2,250 m
+  Population: ~3 million
+  Tower Houses: Inhabited over 1,000 years
 score: 4.33
-title: Sanaa
-type: location
 snippet: High Yemeni capital of tower houses, mountain air, and one of Arabia's great
   old cities.
+tip: Sana'a's old city is a UNESCO wonder — thousands of tower-houses of mud-brick
+  and white gypsum tracery, some lived in for over a thousand years. Yemen is in the
+  grip of war, so check advisories, which warn against all travel. In peaceful times
+  the souks and the gingerbread skyline were among the most extraordinary sights in
+  Arabia.
+title: Sanaa
+type: location
 ---
 
 Sana'a is one of the most extraordinary cities in the Arab world — a place where the architecture has barely changed in a thousand years and where even the new quarters have the feel of somewhere very old. The city sits in a high valley at about 2,200 metres, ringed by rugged mountains, and the air is clear and cool by Arabian standards.

@@ -5,9 +5,9 @@ image: valpolicella.jpg
 image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Vineyards_in_Valpolicella.jpg
 latitude: 45.529671
-loc_type: region
+loc_type: feature
 longitude: 10.940022
-score: 0.62
+score: 7.6
 snippet: Veneto wine region north of Verona, producing Amarone among cherry orchards
   and stone villages.
 title: Valpolicella

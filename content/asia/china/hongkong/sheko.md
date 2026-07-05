@@ -4,8 +4,9 @@ longitude: 114.25
 score: 7.9
 snippet: Remote beach village on Hong Kong Island's southeastern tip
 tags:
+- things_to_do
 - beaches
-- hongkongisland
+- stanley
 title: Shek O
 type: poi
 ---

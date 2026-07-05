@@ -2,9 +2,9 @@
 done:
   location_cleanup: '2026-04-16'
 image: sicily.jpg
-image_attribution: sikeliakali
-image_license: CC BY-SA 2.0
-image_source: https://commons.wikimedia.org/wiki/File:20101207-etna-full_(14213006863).jpg
+image_attribution: Вvласенко
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Courtyard_in_Noto._Sicily,_Italy.jpg
 latitude: 37.5994
 loc_type: region
 longitude: 14.0154

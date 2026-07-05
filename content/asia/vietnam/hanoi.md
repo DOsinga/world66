@@ -10,9 +10,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Hanoi_Vietnam_Thang-Long-W
 latitude: 21.028333
 loc_type: city
 longitude: 105.854041
+quick_facts:
+  Egg Coffee: A local invention
+  Founded: '1010'
+  Old Quarter: 36 trade streets
+  Population: ~8.5 million
 score: 9.27
 snippet: Vietnamese capital with an Old Quarter of trade streets, ancient temples,
   French villas, and Hoàn Kiếm Lake.
+tip: 'Hanoi is older, slower and more atmospheric than Saigon — its tangled Old Quarter
+  has 36 ancient streets, each once dedicated to a single trade. Crossing the road
+  through the river of scooters is an art: walk slowly and steadily, and they flow
+  around you. Sip egg coffee, slurp bun cha, and watch life around Hoan Kiem Lake.'
 title: Hanoi
 type: location
 ---

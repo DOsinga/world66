@@ -9,12 +9,22 @@ image_source: https://commons.wikimedia.org/wiki/File:Goreme_fairy_chimneys-2.jp
 latitude: 38.642089
 loc_type: city
 longitude: 34.829623
+quick_facts:
+  Cave Homes: Carved into fairy chimneys
+  Dawn Balloons: 100+ daily
+  Elevation: ~1,000 m
+  Rock Churches: 30+
 score: 9.53
 snippet: Cappadocian village surrounded by fairy chimneys and the rock-cut churches
   of Göreme Open-Air Museum.
 sources:
 - https://en.wikipedia.org/wiki/G%C3%B6reme
 - https://en.wikipedia.org/wiki/G%C3%B6reme_Historical_National_Park
+tip: Göreme is the heart of Cappadocia's fairy-chimney landscape, and the dawn balloon
+  launch is the reason to come — book ahead, and know that flights cancel in wind.
+  Stay in a cave hotel. Even if you skip the balloon, hike Rose Valley at sunset or
+  watch the launch from a rooftop. The Open-Air Museum's rock churches are the cultural
+  highlight.
 title: Göreme
 type: location
 ---

@@ -11,6 +11,10 @@ tags:
 title: Malahide Castle
 type: poi
 url: https://www.malahidecastleandgardens.ie
+image: malahide_castle.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Malahide_castle,_Co._Dublin.JPG
+image_license: CC BY-SA 4.0
+image_attribution: DiKey
 ---
 
 Malahide Castle is one of Ireland's oldest and most atmospheric castles, occupied continuously for about 800 years by the Talbot family before passing to Dublin County Council in 1975. The core of the building dates from the 12th century, with additions through the centuries creating a romantic ensemble of towers and turrets set in 260 acres of parkland.

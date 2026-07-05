@@ -1,8 +1,8 @@
 ---
 title: "'t Olde Maat Uus"
 type: poi
-latitude: 52.7405
-longitude: 6.0762
+latitude: 52.7222
+longitude: 6.0898
 snippet: "Folk life museum in a traditional farmhouse — tools, costumes, and domestic life from the 19th century"
 tags: [things_to_do, museum]
 score: 7.0

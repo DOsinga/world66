@@ -7,7 +7,7 @@ sources:
 - https://en.wikipedia.org/wiki/Saxon_Garden
 tags:
 - things_to_do
-- srodmiescie_district
+- srodmiescie_polnocne
 - sight
 title: Saxon Garden (Ogród Saski)
 type: poi

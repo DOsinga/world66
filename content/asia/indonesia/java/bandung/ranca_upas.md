@@ -2,12 +2,16 @@
 title: Ranca Upas
 type: poi
 tags:
-  - day_trips
-  - nature
+- day_trips
+- nature
 snippet: Highland deer park and meadow in the Ciwidey valley
 latitude: -7.1306
-longitude: 107.3950
+longitude: 107.395
 score: 6.3
+image: ranca_upas.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Penangkaran_Rusa_Ranca_Upas,_Kampung_Cai,_Kabupaten_Bandung,_Jawa_Barat,_Indonesia_(2).jpg
+image_license: CC BY-SA 4.0
+image_attribution: Reizka Dwidianto
 ---
 
 A protected highland meadow at 1,700 metres in the Ciwidey valley, used as a breeding ground for the timor deer (*rusa timor*). Visitors can walk up to a fenced enclosure and feed the deer pieces of carrot bought at the gate. The meadow itself is more interesting than the deer — wide rolling grassland with edelweiss in season, fringed by pine forest and frequently bathed in cool mist.

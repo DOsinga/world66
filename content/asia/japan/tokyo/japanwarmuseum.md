@@ -1,16 +1,14 @@
 ---
 title: "Japan War Museum"
 type: poi
-tags:
-  - things_to_do
-  - museum
 address: "3-1-1 Kudankita"
 latitude: 35.694912
 longitude: 139.745557
 snippet: "Military history museum inside Yasukuni Shrine"
 tags:
-- marunouchi
 - things_to_do
+- museum
+- marunouchi
 score: 5.9
 ---
 

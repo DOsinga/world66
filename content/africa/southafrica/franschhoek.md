@@ -3,9 +3,9 @@ done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-05-15'
 image: franschhoek.jpg
-image_attribution: DocDaysleeper
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Boschendal_2011.jpg
+image_attribution: South African Tourism from South Africa
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Franschhoek_-_South_Africa_(2417719219).jpg
 latitude: -33.909167
 loc_type: city
 longitude: 19.119444

@@ -10,6 +10,10 @@ snippet: Baltistan town at the Hushe and Shyok rivers, known for Khaplu Palace a
   Chaqchan Mosque.
 title: Khaplu
 type: location
+image: khaplu.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Machlu_Village,_Khaplu_Ghizer_GB_(Pakistan).jpg
+image_license: CC BY-SA 4.0
+image_attribution: Muhammad Akram Attari
 ---
 
 Khaplu sits at the confluence of the Hushe and Shyok rivers in Baltistan, a green oasis in an otherwise stark mountain landscape. It was once the capital of a small Balti kingdom, and the legacy shows in the beautifully restored Chaqchan Mosque — one of the oldest in the region, dating to the 14th century — and the Khaplu Palace, a grand timber-and-stone residence perched above the town with views across the valley to the Karakoram peaks.

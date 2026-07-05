@@ -9,9 +9,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Suomenlinna_(cropped).jpg
 latitude: 60.16662
 loc_type: city
 longitude: 24.943541
+quick_facts:
+  Design Capital: Home of Finnish design
+  Population: ~660,000
+  Sauna Culture: A Finnish institution
+  Suomenlinna: An 18th-century sea fortress
 score: 8.67
 snippet: Baltic Finnish capital where harbour markets, neoclassical squares, and design
   districts sit within walking distance.
+tip: Helsinki is a clean, design-obsessed Baltic capital built across a peninsula
+  and islands — take the ferry to the sea-fortress of Suomenlinna. Summers have near-endless
+  daylight; winters are dark and cold but cosy. Embrace the sauna culture (there are
+  millions in Finland). The neoclassical Senate Square and the rock-hewn Temppeliaukio
+  church are highlights.
 title: Helsinki
 type: location
 ---

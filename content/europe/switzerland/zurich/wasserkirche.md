@@ -1,13 +1,15 @@
 ---
-title: "Wasserkirche"
-type: poi
 latitude: 47.3711
 longitude: 8.5436
-tags:
-  - things_to_do
-  - sight
-snippet: "Late-Gothic 'Water Church' between the Grossmünster and the Limmat — site of Zurich's martyr saints"
 score: 7.3
+snippet: Late-Gothic 'Water Church' between the Grossmünster and the Limmat — site
+  of Zurich's martyr saints
+tags:
+- things_to_do
+- sight
+- niederdorf
+title: Wasserkirche
+type: poi
 ---
 
 The Wasserkirche — Water Church — stands just below the Grossmünster on a small platform that was, until the 19th century, an island in the Limmat. Tradition holds it as the place where Zurich's patron saints Felix and Regula were martyred under Roman rule, and the site has been a church for at least a thousand years; the current late-Gothic building dates from 1486.

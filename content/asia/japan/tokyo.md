@@ -12,9 +12,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Minato_City,_Tokyo,_Japan.
 latitude: 35.67686
 loc_type: city
 longitude: 139.763895
+quick_facts:
+  Metro Population: 37 million
+  Michelin Stars: Most of any city
+  Renamed from Edo: '1868'
+  Shinjuku Station: 3.5M passengers a day
 score: 9.99
 snippet: Vast Japanese capital where distinct neighbourhoods, rail networks, shrines,
   and neon districts interlock.
+tip: Grab a Suica or Pasmo IC card the moment you land and stop thinking about fares
+  — tap in, tap out, top up anywhere. The rail map looks terrifying but the system
+  is obsessively punctual and signed in English. Avoid the 8–9am rush on the Yamanote
+  line unless you want to be wedged onto a train by a white-gloved attendant.
 title: Tokyo
 type: location
 ---

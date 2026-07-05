@@ -9,6 +9,10 @@ tags:
 title: Tulum Ruins
 type: poi
 score: 8.9
+image: tulum_ruins.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ruins_at_Tulum,_QR_Mexico_2023.jpg
+image_license: CC BY 2.0
+image_attribution: Erik Cleves Kristensen
 ---
 
 The Mayan walled city of Tulum sits on a 12-metre limestone cliff above the Caribbean, with the white sand of one of the most photogenic beaches in Mexico curving away below. The complex was a coastal trading port between roughly 1200 and 1500, and one of the last cities the Maya built before the Spanish conquest. The signature image is **El Castillo**, the small temple perched right on the cliff edge.

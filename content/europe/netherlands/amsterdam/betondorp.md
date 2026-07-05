@@ -5,11 +5,14 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Veeteeltstraat_Amsterdam.jpg
 latitude: 52.3381
 longitude: 4.9463
+snippet: 1920s concrete-housing experiment, a quiet architectural curiosity east of the centre
 tags:
 - things_to_do
-- neighbourhood
+- oost
+- architecture
 title: Betondorp
-type: neighbourhood
+type: poi
+score: 6.0
 ---
 
 "Concrete Village" — a 1920s housing estate in Amsterdam-Oost built as a large-scale experiment in concrete construction. The city wanted to test whether concrete could replace brick as a cheaper, faster building material, so they commissioned nine different architects to each design a block using different concrete techniques. The result is a neighbourhood where every street looks slightly different but shares the same experimental spirit.

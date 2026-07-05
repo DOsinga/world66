@@ -14,7 +14,7 @@ quick_facts:
   Old Capital: Lahaina
   Road to Hāna: 620 curves, 59 bridges
   Winter Whales: Humpbacks offshore
-score: 9.92
+score: 8.9
 snippet: Hawaiian island combining beaches, volcanic mountains, small towns, and the
   road to Hāna.
 tip: Drive the Road to Hāna early and treat the drive itself as the destination, not

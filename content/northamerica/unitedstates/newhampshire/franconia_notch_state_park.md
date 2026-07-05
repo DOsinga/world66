@@ -2,7 +2,7 @@
 latitude: 44.1409
 loc_type: feature
 longitude: -71.6818
-score: 9.5
+score: 7.0
 snippet: Dramatic mountain pass in the White Mountains with the Flume Gorge, Echo Lake,
   Cannon Mountain tramway, and a ski area — New Hampshire's most-visited state park.
 sources:

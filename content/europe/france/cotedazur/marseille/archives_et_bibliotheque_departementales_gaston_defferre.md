@@ -2,17 +2,15 @@
 latitude: 43.3121488
 longitude: 5.3694894
 score: 1
-snippet: Departmental archives for Bouches-du-Rhône in the new Joliette cultural district
-  — civil registers, maps, photographs, and notarial records, in a building named
-  after Marseille's most consequential postwar mayor.
+snippet: A mayor who ran Marseille for 33 years — until he died in office.
 tags:
 - curbside
 title: Archives et bibliothèque départementales Gaston Defferre
 type: poi
 ---
 
-The Archives et Bibliothèque Départementales Gaston Defferre holds the historical records of the Bouches-du-Rhône department: civil registers, notarial acts, administrative documents, cadastral maps, and photographic collections spanning several centuries. The building was designed by Corinne Vezzoni (who also designed the MuCEM's Belle de Mai storage facility) and opened in 2013 as part of the Euroméditerranée regeneration project that transformed the Joliette port area into a cultural and administrative district.
+The name on the door is Gaston Defferre, mayor of Marseille from 1953 until his death in 1986. Thirty-three years, and he held a Senate seat and cabinet posts the whole time. His grip ran on a patronage machine that political scientists dissected and judges occasionally investigated — and Marseille named a building after him anyway.
 
-The building is named after Gaston Defferre, who served as mayor of Marseille from 1953 until his death in 1986 — thirty-three years during which he simultaneously held a Senate seat and multiple cabinet posts under various Fourth and Fifth Republic governments. His grip on the city was maintained through a patronage network that was thorough, well-documented by political scientists, and intermittently the subject of judicial inquiry. He was also the Socialist interior minister who proposed decentralisation to Mitterrand's government in 1981. The naming of a public building after him reflects how Marseille prefers to hold its recent history.
+Corinne Vezzoni designed it, the same architect behind the MuCEM's storage vault up in Belle de Mai. It opened in 2013, part of the Euroméditerranée push that turned the old Joliette docks into an administrative and cultural quarter. Inside: civil registers, notarial acts, cadastral maps and photo collections going back centuries.
 
-The archives are primarily of interest to researchers and genealogists rather than general visitors. The adjacent Frac Sud (regional contemporary art collection) and the proximity of the CMA CGM Tower make the Joliette block worth walking through even without an archival appointment — it represents the most concentrated example of post-2000 public investment in Marseille's built environment.
+Unless you're a genealogist, you won't need an appointment. But walk the block anyway — the Frac Sud art collection sits next door and the CMA CGM tower looms nearby. This is the densest patch of new public money in the whole city.

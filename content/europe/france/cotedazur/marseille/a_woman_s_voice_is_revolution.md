@@ -2,17 +2,16 @@
 latitude: 43.2959962
 longitude: 5.361877
 score: 1
-snippet: A bold English-language feminist statement rendered as public art in Marseille's
-  western arrondissements, where the city's tradition of political street art runs
-  deep.
+snippet: In a city that speaks a dozen languages, this feminist mural picks English
+  on purpose.
 tags:
 - curbside
 title: A Woman’s Voice is Revolution
 type: poi
 ---
 
-The title arrives in English — not French, not Arabic, not any of the other languages woven into Marseille's polyglot street life — and that choice is itself a statement. *A Woman's Voice is Revolution* sits near the western edge of the city, at coordinates that place it away from the tourist centre, in a part of Marseille where murals and painted walls are part of the neighbourhood fabric rather than a curated installation. The phrasing is direct, feminist, and global: a declaration that crosses linguistic borders in order to be unmistakably clear.
+The title isn't in French. It isn't in Arabic. In a city stitched together from a dozen tongues, *A Woman's Voice is Revolution* chooses English — and that choice is the whole point. It sits out on Marseille's western edge, far from the tourist centre, on a wall where murals are just part of the neighbourhood.
 
-Marseille has long been a city of political walls. From the Communist-era graphics of the northern arrondissements to the immigrant neighbourhood murals that mix Maghrebi, sub-Saharan, and Mediterranean visual vocabularies, the city has never treated its exterior walls as neutral surfaces. Street art here is rarely purely decorative; it tends to claim something, argue something, or remember something. An artwork with this title, in this city, belongs to that tradition — a feminist intervention in public space that insists on being read by everyone passing by, regardless of what they came to look at.
+Marseille has never treated its walls as neutral. Communist graphics up north, Maghrebi and sub-Saharan visual mash-ups in the immigrant quarters — the paint here always argues something. This one argues in a language everyone can read, whatever they came looking for.
 
-The work also speaks to a longer history of women's political speech in Marseille. The city's feminist movement has been active since the 1970s, and Marseille has periodically appeared in French debates about women's safety, economic rights, and representation. An English-language phrase on a Marseillais wall may seem unexpected, but it reflects the city's comfort with multiple identities: Mediterranean, French, African, and now part of a globally connected feminist conversation that does not stop at any border.
+Behind it sits a feminist movement that's been loud since the 1970s, tangled up in French fights over women's safety, pay, and power. An English slogan on a Marseillais wall feels odd until you remember: this city has always worn several identities at once. Now it's plugged into a feminist conversation that stops at no border.

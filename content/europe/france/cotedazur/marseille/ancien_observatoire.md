@@ -2,17 +2,16 @@
 latitude: 43.2976163
 longitude: 5.3668924
 score: 1
-snippet: One of France's oldest provincial observatories, where astronomers tracked
-  the southern skies and made discoveries that put Marseille on the European scientific
-  map.
+snippet: The five galaxies of Stephan's Quintet were first spotted from this Marseille
+  hillside.
 tags:
 - curbside
 title: Ancien observatoire
 type: poi
 ---
 
-Founded in 1702 — only a few decades after the Paris Observatory — the Observatoire de Marseille was one of the earliest astronomical institutions established outside the capital. Its position on elevated ground at the edge of the city, later near the Palais Longchamp, gave it reasonable darkness and stable seeing conditions at a time when the Mediterranean skies were far less light-polluted than today. Through the eighteenth century its principal task was practical: determining longitude, charting the coastline, and supplying navigational data to the merchant and naval fleets that made Marseille one of Europe's great ports. Astronomy and seamanship were inseparable disciplines in the age of sail.
+In the 1860s, Édouard Stephan pointed an 80-centimetre silvered-glass reflector — one of the world's biggest at the time — at a cluster of five galaxies tangled together in space. They still carry his name: Stephan's Quintet. His colleague Édouard Coggia bagged comets here too, including the naked-eye showstopper of 1874 that had the whole northern hemisphere staring up.
 
-The nineteenth century brought the observatory its greatest scientific moment. Édouard Stephan, who directed the institution from the 1860s, was the first astronomer to observe a group of five interacting galaxies that now bear his name — Stephan's Quintet — using the observatory's 80-centimetre silvered-glass reflector, one of the largest in the world at the time. His colleague Édouard Coggia discovered several comets here, including the spectacular Coggia's Comet of 1874 that was visible to the naked eye across the northern hemisphere and caused a public sensation. For a few decades in the mid-nineteenth century the old building on the Marseille hillside was producing science that mattered at the European level.
+The observatory dates to 1702, just decades after Paris and among the first anywhere in provincial France. For most of the 1700s the job was purely practical — nailing down longitude, mapping the coast, feeding navigation data to the ships that made Marseille a great port. Astronomy and sailing were the same trade back then.
 
-As the city grew and its lights crept across the surrounding hills, serious astrophysical research migrated inland. The Observatoire de Haute-Provence, opened in 1937 in the dark skies of the Alpes-de-Haute-Provence, took over the work. The original Marseille site — this *ancien* observatoire — passed to the university, which maintained it as a teaching facility and heritage site. The dome and the instrument room survive, along with the institutional memory of two astronomers whose discoveries have long outlived the building's scientific utility.
+Then the city's lights crept up the hills and killed the darkness. Serious research moved inland to the Observatoire de Haute-Provence in 1937, and this old site went to the university. The dome and instrument room are still here — along with the memory of two men whose discoveries outlasted the building.

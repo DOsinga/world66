@@ -2,17 +2,16 @@
 latitude: 43.2960093
 longitude: 5.3657319
 score: 1
-snippet: Bronze portrait of the merchant-officer who personally organised the mass
-  burial of plague victims in 1720, one of the great acts of civic courage in Marseille's
-  history.
+snippet: He led convicts to bury a thousand plague corpses—expecting to die doing
+  it.
 tags:
 - curbside
 title: Buste du Chevalier Roze
 type: poi
 ---
 
-Nicolas Roze (1675–1733) was a Marseille merchant and capitaine de vaisseau who became the secular hero of the great plague of 1720. When the epidemic arrived aboard the Grand-Saint-Antoine and spread through the city with terrifying speed, most officials fled or were paralysed. The bishop Belsunce stayed and ministered to the dying; Roze matched him in physical courage on the practical side of the catastrophe. He personally led teams of convicts and volunteers to collect and inter the thousands of corpses accumulating in the streets — work understood at the time to risk certain death. Near the Tourette quarter alone his teams buried over a thousand bodies. He survived, was ennobled, and lived to see the city recover.
+In 1720 the plague hit Marseille and most officials fled. Nicolas Roze, a merchant and ship's captain, did the opposite. He rounded up convicts and volunteers to collect and bury the thousands of bodies rotting in the streets—work everyone knew was a death sentence. Near the Tourette quarter alone, his teams buried over a thousand.
 
-The bust stands as a counterpart to the various monuments to Belsunce that populate the city centre: together they represent the two faces of the crisis response, spiritual and temporal, clerical and secular. Roze's memorial is less celebrated than the bishop's, partly because plague memory in Marseille has always shaded toward the miraculous and the votive rather than the logistical, and partly because the work of burial is less photogenic than the work of prayer.
+And he survived. He was ennobled and lived until 1733, long enough to watch the city come back to life. You'll spot Belsunce, the bishop who stayed and prayed, on monuments all over the center—Roze got the dirtier job and less of the glory.
 
-The coordinates place the bust close to the Tourette, the quarter where Roze carried out much of the grim clearance work. Standing here in the late afternoon with the old port below and the hill of Notre-Dame de la Garde visible above, it is possible to feel the compressed geography of the 1720 epidemic: the port that brought the disease, the streets that filled with the dead, the church that overlooked it all.
+The bust sits near the Tourette, where he did most of that grim clearing. Stand here late afternoon: the port that carried the disease below you, Notre-Dame de la Garde watching from the hill above. The whole 1720 catastrophe fits in one glance.

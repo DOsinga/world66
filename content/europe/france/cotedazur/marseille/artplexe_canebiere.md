@@ -2,16 +2,15 @@
 latitude: 43.2986873
 longitude: 5.3832172
 score: 1
-snippet: A multi-screen cinema on Marseille's famous Canebière boulevard, once one
-  of Europe's great avenues and still the city's symbolic main street.
+snippet: 'Marseillais used to joke: if Paris had a Canebière, it''d be a little Marseille.'
 tags:
 - curbside
 title: Artplexe Canebière
 type: poi
 ---
 
-The Artplexe Canebière was a commercial multiplex cinema occupying a building on the Canebière, the broad boulevard that runs inland from the Vieux-Port and has served as Marseille's symbolic spine since the seventeenth century. The Canebière gave the city one of its most persistent boasts: Marseillais used to claim, only half in jest, that if Paris had a Canebière it would be a little Marseille. For visitors arriving by sea in the nineteenth and early twentieth centuries, the boulevard was the first thing they saw after the harbour — a wide, lively street lined with hotels, cafés, and department stores that announced Marseille's status as a major European city rather than simply a working port.
+This multiplex sits on the Canebière, the broad boulevard that's been Marseille's symbolic spine since the 1600s. Arrive by sea in the nineteenth century and this wide street of hotels, cafés and department stores was the first thing you saw — the city announcing it was more than a working port. Locals bragged, only half joking, that Paris would be a little Marseille if it had a Canebière of its own.
 
-The boulevard's reputation faded through the latter half of the twentieth century as commercial life dispersed to suburban retail parks and the street lost its grands magasins and prestige hotels. The Artplexe was part of an attempt to keep the Canebière commercially viable as a destination for city-centre entertainment — a multiplex offering mainstream French and international releases to an audience that might otherwise go elsewhere. Whether the building still operates as a cinema or has been converted to another use is a question the street itself can answer: the Canebière has been the subject of successive regeneration efforts, and the ground floors of its buildings have changed function repeatedly.
+The boulevard lost its shine as shops fled to suburban retail parks and the grand hotels closed. The Artplexe was part of the fightback — a city-centre cinema pulling in crowds with mainstream French and international releases. Whether it's still running or already reinvented, the Canebière rewrites its ground floors constantly.
 
-A walk along the Canebière from the Vieux-Port to the Réformés church at the upper end remains worthwhile regardless of the cinema's current state. The street retains its scale — it is genuinely wide, with the ambition of a nineteenth-century boulevard — and several of its historic façades survive. The surrounding streets, particularly those of the Noailles quarter to the south, have a dense, cosmopolitan character that is more representative of the city as it actually lives than the sanitised heritage zones near the port.
+Walk it anyway, from the Vieux-Port up to the Réformés church. The scale still impresses — genuinely wide, with real nineteenth-century ambition, and plenty of old façades intact. Duck south into the Noailles quarter for a dense, cosmopolitan buzz that feels more like the real Marseille than the polished heritage zones by the water.

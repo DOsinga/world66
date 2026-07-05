@@ -2,15 +2,16 @@
 latitude: 43.2304344
 longitude: 5.4437559
 score: 1
-snippet: Annex buildings associated with an institution in eastern Marseille.
+snippet: That "annexes" sign means overflow buildings—the unglamorous back-office
+  of some bigger institution.
 tags:
 - curbside
 title: Annexes
 type: poi
 ---
 
-The word *annexes* on a French street or building sign typically marks secondary buildings attached to a larger institution — administrative overflow offices, storage facilities, or service wings that have outgrown their parent structure. At these coordinates in eastern Marseille, near the 12th and 13th arrondissements, the label most likely refers to ancillary buildings belonging to a public body, hospital complex, or educational campus in the area.
+See *annexes* on a French sign and you've found the overflow—the storage wings, the extra offices, the service blocks a big institution outgrew. Out here in eastern Marseille, near the 12th and 13th, it likely belongs to a hospital, a public body, or a university campus.
 
-Marseille's institutional landscape expanded rapidly in the nineteenth and twentieth centuries, and many large establishments — prefectural offices, hospitals such as the Timone, and university faculties — spilled into purpose-built annexe blocks on surrounding streets. These secondary structures rarely carry the architectural ambition of the main building, but they are essential to the day-to-day functioning of whichever institution they serve.
+The city ballooned in the 1800s and 1900s. Prefectural offices, the Timone hospital, university faculties—all of them spilled into purpose-built annexe blocks on the surrounding streets. No architectural swagger here, but nothing runs without them.
 
-Without a more specific inscription or plaque on site, the exact affiliation of these *annexes* is difficult to pin down from the street. Visitors exploring this part of the city will find themselves in a functional quarter of Marseille, far from the tourist circuits of the Vieux-Port, where the everyday administration and services of a large metropolis quietly carry on.
+Without a plaque, you won't pin down exactly whose annexes these are. What you've found instead is working Marseille—a functional quarter miles from the Vieux-Port, where the admin of a big city just quietly gets done.

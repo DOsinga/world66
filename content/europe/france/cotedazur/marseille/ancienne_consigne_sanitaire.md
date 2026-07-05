@@ -2,17 +2,16 @@
 latitude: 43.2950979
 longitude: 5.3642246
 score: 1
-snippet: The building where arriving passengers were compelled to wait out their quarantine
-  — the human face of the maritime disease-control system that shaped Marseille's
-  relationship with the sea.
+snippet: Not a prison, not a hospital — a place where healthy travellers waited to
+  prove they'd stay that way.
 tags:
 - curbside
 title: Ancienne consigne sanitaire
 type: poi
 ---
 
-The *consigne sanitaire* — the compulsory sanitary hold — was the institution that gave a quarantine its teeth. When a ship arrived from a port considered suspect for plague, cholera, or yellow fever, its passengers were not simply inspected and released; they were required to spend a fixed period ashore under supervision before they could enter the city. This building was where they stayed. It was neither prison nor hospital, but something in between: a place of waiting, of uncertainty, where the apparently healthy lived in close proximity and hoped they would remain so as the days accumulated toward the clearance threshold.
+Step off a ship from a plague port and you didn't just get inspected and waved through. You got locked into a fixed stretch ashore here, living cheek-by-jowl with strangers, counting the days until someone declared you clean. Neither prison nor hospital — something worse, maybe: pure waiting, and the quiet hope you weren't already sick.
 
-Marseille's relationship with quarantine was forged in catastrophe. The plague of 1720 — la grande peste — arrived by ship from the Levant, the vessel Grand-Saint-Antoine carrying infected cargo and crew. The quarantine procedures then in place failed, whether through negligence, commercial pressure, or simple inadequacy of the science. The disease killed perhaps 50,000 people in Marseille alone and spread north along the Rhône valley, threatening to engulf all of France. The trauma of 1720 left Marseille uniquely alert to the dangers of maritime contagion. The city's subsequent investment in sanitary infrastructure — lazarets, quarantine stations, the *consigne* — reflected a civic memory of what happened when the sea's traffic was not properly screened.
+Marseille learned this the hard way. In 1720 the Grand-Saint-Antoine sailed in from the Levant with infected cargo, the quarantine failed, and *la grande peste* killed some 50,000 people in the city alone before racing up the Rhône toward the rest of France. After that, the city never trusted the sea again.
 
-The full quarantine system included offshore lazarets where the most dangerous cases were isolated, but the *consigne sanitaire* handled the larger volume: the passengers from vessels deemed moderately suspect, the travellers returning from cholera-endemic ports in Egypt or the Ottoman Empire, the workers arriving from North Africa during the epidemic seasons of the nineteenth century. By the early twentieth century, improved understanding of infectious disease transmission and the development of vaccines began to erode the logic of blanket quarantine. The building survived the system that created it, its thick walls and orderly rooms now serving purposes no one who designed them could have imagined.
+The offshore lazarets handled the truly dangerous cases; this building took the crowds — travellers back from cholera ports in Egypt, workers arriving from North Africa through the epidemic summers of the 1800s. Then vaccines and germ theory made blanket quarantine pointless, and the logic simply dissolved. The thick walls outlived the fear that built them.

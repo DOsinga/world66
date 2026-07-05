@@ -2,17 +2,15 @@
 latitude: 43.2112287
 longitude: 5.352325
 score: 1
-snippet: The westernmost Calanque and first accessible from Marseille — reachable
-  by car and bus 20, with a working harbour, a small beach, and the eastern trailhead
-  for more remote inlets.
+snippet: Where Marseille's suburbs stop dead and the national park begins.
 tags:
 - curbside
 title: Calanque de Callelongue
 type: poi
 ---
 
-Callelongue sits at the urban edge of the Calanques, where the city's southern suburbs abruptly end and the national park begins. It is the least dramatic of the main inlets geologically — lower cliffs, a narrower draw, the limestone less vertical than at Sugiton or Morgiou — but it has infrastructure that the inner calanques lack: a car park, a small restaurant, a working harbour with traditional pointus moored alongside the quay. These painted wooden fishing boats, flat-bottomed and shallow-drafted for the rocky inshore grounds, are increasingly rare in the Calanques proper; at Callelongue a few still work.
+This is where the city just... ends. One minute you're in the southern suburbs, the next you're at a working harbour where a few painted pointus — flat-bottomed wooden fishing boats — still moor along the quay. They're vanishing everywhere else in the Calanques; here, a handful still work.
 
-Bus 20 from the city makes Callelongue accessible without a car, which matters in summer when parking fills before 9am and the road is effectively closed by gridlock. The small beach — sand and pebble, perhaps thirty metres of frontage — gets crowded on summer weekends; the rocky platforms around the harbour extend the swimming area for those willing to pick their way over the limestone. A restaurant at the harbourside operates in season; the terrace faces south.
+Come by bus 20 if you can. Parking fills before 9am in summer and the road jams solid after that. The beach is tiny — thirty metres of sand and pebble — so people spread out onto the limestone platforms around the harbour to swim. There's a restaurant on the quay in season, terrace facing south.
 
-The path east from Callelongue toward Marseilleveyre and eventually Morgiou is a serious coastal route that the serious walkers use to reach the less accessible inlets. The first section, up the limestone ridge east of the harbour, takes you out of sight of the city within fifteen minutes.
+The real reward is the path east, toward Marseilleveyre and eventually Morgiou. This is the serious coastal route to the remote inlets. Climb the ridge past the harbour and within fifteen minutes the city's gone completely.

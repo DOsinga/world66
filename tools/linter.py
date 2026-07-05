@@ -466,6 +466,8 @@ def check_country_misplaced(pages: list[Page]) -> list[Issue]:
             continue
         if p.page_type == "section":
             continue
+        if p.meta.get("loc_type") == "feature":
+            continue
         if p.page_type != "location" or p.meta.get("loc_type") != "country":
             issues.append(Issue(
                 path=p.path, check="country_misplaced",

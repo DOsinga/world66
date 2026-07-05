@@ -1,9 +1,4 @@
 ---
-quick_facts:
-  Population: "~5,000"
-  Access: "Fly via Antigua — no direct international flights"
-  Capital Plymouth: Buried by volcano in 1997
-  Irish Heritage: St. Patrick's Day is a public holiday
 done:
   country_cleanup: 2026-03-29
   location_cleanup: '2026-04-08'
@@ -12,12 +7,20 @@ image_attribution: <a href="//commons.wikimedia.org/wiki/User:Mattes" title="Use
 image_license: CC BY 2.0 de
 image_source: https://commons.wikimedia.org/wiki/File:Montserrat_—_Beach_with_footprints.JPG
 latitude: 16.7425
+loc_type: country
 longitude: -62.1874
+quick_facts:
+  Access: Fly via Antigua — no direct international flights
+  Capital Plymouth: Buried by volcano in 1997
+  Irish Heritage: St. Patrick's Day is a public holiday
+  Population: ~5,000
+score: 0.34
+snippet: Lesser Antilles island reshaped by the Soufrière Hills volcano and its buried
+  former capital.
+tags:
+- thecaribbean
 title: Montserrat
 type: location
-score: 0.34
-loc_type: country
-snippet: Lesser Antilles island reshaped by the Soufrière Hills volcano and its buried former capital.
 ---
 
 Montserrat is a small British Overseas Territory in the Lesser Antilles, roughly 40 kilometres southwest of Antigua. It is one of the most unusual islands in the Caribbean — not because of beaches or resorts, but because of a volcano that changed everything.

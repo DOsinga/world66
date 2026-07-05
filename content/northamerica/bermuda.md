@@ -16,6 +16,8 @@ quick_facts:
 score: 0.48
 snippet: North Atlantic island territory of pink beaches, turquoise coves, and tightly
   packed limestone islets.
+tags:
+- thecaribbean
 title: Bermuda
 type: location
 ---

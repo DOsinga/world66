@@ -5,8 +5,14 @@ longitude: -64.623
 score: 0.48
 snippet: Caribbean island territory of volcanic hills, sailing channels, sheltered
   bays, and reef-ringed cays
+tags:
+- thecaribbean
 title: British Virgin Islands
 type: location
+image: britishvirginislands.jpg
+image_source: https://commons.wikimedia.org/wiki/File:British_Virgin_Islands_-_panoramio.jpg
+image_license: CC BY 3.0
+image_attribution: Kevin Stroup
 ---
 
 The British Virgin Islands are a British Overseas Territory in the northeastern Caribbean, consisting of around 60 islands and cays of which only about 16 are inhabited. The four main islands are [Tortola](/northamerica/britishvirginislands/tortola), [Virgin Gorda](/northamerica/britishvirginislands/virgingorda), [Jost Van Dyke](/northamerica/britishvirginislands/jostvandyke), and [Anegada](/northamerica/britishvirginislands/anegada). The territory is one of the premier sailing destinations in the world, and much of its infrastructure — marinas, anchorages, beach bars — is oriented around the boat.

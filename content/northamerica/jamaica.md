@@ -17,6 +17,8 @@ quick_facts:
 score: 0.6
 snippet: Caribbean island country of reggae, Blue Mountain coffee, reef-lined beaches,
   and a rugged green interior.
+tags:
+- thecaribbean
 title: Jamaica
 type: location
 ---

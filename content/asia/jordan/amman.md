@@ -10,9 +10,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Amman_BW_2.JPG
 latitude: 31.951569
 loc_type: city
 longitude: 35.923963
+quick_facts:
+  Ancient Name: Philadelphia
+  Built On: Seven hills, originally
+  Population: ~4 million
+  Roman Theatre: Seats 6,000, still used
 score: 8.64
 snippet: Jordanian capital spread across limestone hills, mixing downtown souks, Roman
   ruins, and modern districts.
+tip: Amman is built over many hills (jabals), so expect steep stairways and great
+  rooftop views. The Roman Theatre and the hilltop Citadel, with its temple of Hercules,
+  are the main sights, and the city is a relaxed, friendly base for Petra, the Dead
+  Sea and Jerash. Eat knafeh and mansaf; taxis are cheap but agree on the meter.
 title: Amman
 type: location
 ---

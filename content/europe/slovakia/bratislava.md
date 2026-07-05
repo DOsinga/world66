@@ -8,9 +8,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Slovakia_bratislava.jpg
 latitude: 48.1559
 loc_type: city
 longitude: 17.1314
+quick_facts:
+  Borders: Austria & Hungary
+  From Vienna: An hour by riverboat
+  Population: ~475,000
+  Quirky Statues: Like 'Čumil' in his manhole
 score: 8.55
 snippet: Small Danube capital at Slovakia's western edge, pressed close to Austria
   and Hungary
+tip: Bratislava is one of Europe's smallest, most walkable capitals — and the only
+  one bordering two other countries (Austria and Hungary). The compact old town is
+  full of quirky bronze statues, like 'Čumil' the man peeking out of a manhole. The
+  hilltop castle overlooks the Danube. It is an easy hour by boat or train from Vienna.
 title: Bratislava
 type: location
 ---

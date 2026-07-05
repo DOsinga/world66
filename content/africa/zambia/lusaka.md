@@ -8,9 +8,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Lusaka.JPG
 latitude: -15.416339
 loc_type: city
 longitude: 28.281841
+quick_facts:
+  Became Capital: '1935'
+  On a Plateau: ~1,280 m, mild evenings
+  Population: ~3 million
+  Safari Hub: Gateway to the parks
 score: 6.39
 snippet: Zambian capital centred on Cairo Road, useful for supplies, documents, and
   onward travel planning.
+tip: Lusaka is a flat, fast-growing commercial capital — more a hub than a sight in
+  itself. It sits on a high plateau, so evenings are pleasant. Use it to stock up
+  and arrange trips to Victoria Falls, South Luangwa and Lower Zambezi. The markets
+  are lively; the city is generally relaxed, but use trusted transport after dark.
 title: Lusaka
 type: location
 ---

@@ -10,9 +10,18 @@ image_source: https://commons.wikimedia.org/wiki/File:2022_Views_from_Diamond_He
 latitude: 21.304547
 loc_type: city
 longitude: -157.855676
+quick_facts:
+  Diamond Head: 232 m crater
+  Pearl Harbor: USS Arizona memorial
+  Population: 350,000
+  ʻIolani Palace: Only US royal palace
 score: 9.7
 snippet: Hawaiian capital on Oahu's south shore, where Waikiki high-rises sit beneath
   the Ko'olau mountains.
+tip: Most visitors never leave Waikīkī, but the best of Oʻahu is a cheap circle-island
+  drive away — the North Shore, the windward coast, the Pali Lookout. Pearl Harbor's
+  USS Arizona tickets are free but go fast, so reserve online. Diamond Head's crater
+  hike is short, steep and best at dawn before the heat.
 title: Honolulu
 type: location
 ---

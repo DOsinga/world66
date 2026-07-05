@@ -12,9 +12,18 @@ image_source: https://commons.wikimedia.org/wiki/File:19-10-03-Margarethenbr%C3%
 latitude: 47.4979
 loc_type: city
 longitude: 19.0402
+quick_facts:
+  Buda + Pest Merged: '1873'
+  Metro Line 1: Oldest on the continent
+  Population: 1.7 million
+  Thermal Springs: 100+ feed the baths
 score: 9.65
 snippet: Danube capital where hilly Buda, busy Pest, imperial architecture, and thermal
   baths meet.
+tip: Budapest is two cities — hilly Buda and flat Pest — split by the Danube. Soak
+  in a thermal bath (Széchenyi is the grand one, Gellért the art-nouveau beauty);
+  the city sits on hot springs. Ride tram 2 along the river for cheap sightseeing,
+  and explore the 'ruin bars' of the old Jewish Quarter at night.
 title: Budapest
 type: location
 ---

@@ -21,4 +21,4 @@ The resort was purpose-built during the Communist era and caters well to familie
 
 By night, Mamaia transforms into Romania's most energetic party resort. The northern end of the promenade has a cluster of clubs that draw DJs from across Europe in July and August. If the nightlife is not your thing, the lakeside restaurants offer a quieter evening with fresh [Black Sea fish](/europe/romania/mamaia/the_black_sea_fish) and Romanian wine.
 
-Mamaia also makes a good base for day trips to the ancient Greek city of Histria (50 km north), the traditional villages of the Dobrogea region, and the [Danube Delta](/europe/romania/tulcea/danube_delta_excursion) further north.
+Mamaia also makes a good base for day trips to the ancient Greek city of Histria (50 km north), the traditional villages of the Dobrogea region, and the [Danube Delta](/europe/romania/danube_delta_1) further north.

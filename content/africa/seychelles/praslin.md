@@ -9,11 +9,20 @@ image_source: https://commons.wikimedia.org/wiki/File:P1010087_Praslin.JPG
 latitude: -4.325071
 loc_type: city
 longitude: 55.735608
+quick_facts:
+  Area: 38 km²
+  Black Parrot: Found only here
+  Coco de Mer: World's largest seed
+  Population: ~7,500
 score: 9.49
-title: Praslin
-type: location
 snippet: Seychelles island known for Vallée de Mai palms, granite beaches, and calm
   coves.
+tip: Praslin is home to the Vallée de Mai, a prehistoric palm forest that grows the
+  giant coco de mer, the world's largest seed. Anse Lazio and Anse Georgette are among
+  the planet's best beaches; Georgette must be booked through the hotel that fronts
+  it. Hire a car or use the cheap buses; the island is small.
+title: Praslin
+type: location
 ---
 
 Praslin is the second largest island in the Seychelles, lying 37 kilometres northeast of Mahé — two hours by boat or fifteen minutes by air. When the French explorer Lazare Picault first arrived in 1744, he named it the Island of Palms. The vegetation was so extraordinary that General Gordon of Khartoum, visiting a century later, became convinced this was the site of the original Garden of Eden.

@@ -11,9 +11,19 @@ image_source: https://commons.wikimedia.org/wiki/File:El_Capitolio_Havana_Cuba.j
 latitude: 23.113592
 loc_type: city
 longitude: -82.366592
+quick_facts:
+  Founded: '1519'
+  Population: ~2.1 million
+  The Malecón: 8 km seafront promenade
+  Vintage Cars: 1950s American classics
 score: 9.39
 snippet: Cuban capital of colonial plazas and mid-century architecture, centred on
   UNESCO-listed Old Havana.
+tip: Havana is a city frozen in faded grandeur — 1950s American cars, crumbling colonial
+  mansions and salsa drifting from doorways. Walk the seafront Malecón at sunset,
+  when the whole city comes out. Carry cash (cards from many countries don't work),
+  stay in a casa particular for the real experience, and embrace the slow pace and
+  unreliable wifi.
 title: Havana
 type: location
 ---

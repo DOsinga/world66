@@ -9,9 +9,18 @@ image_source: https://commons.wikimedia.org/wiki/File:A_view_of_Congo_River_from
 latitude: -4.325
 loc_type: city
 longitude: 15.3222
+quick_facts:
+  Founded: 1881, as Léopoldville
+  Population: ~17 million
+  Rumba: Birthplace of Congolese rumba
+  Twin Capitals: Faces Brazzaville across the river
 score: 5.48
 snippet: Vast Congolese capital on the Congo River, driven by street life, music,
   markets, and administrative Gombe.
+tip: Kinshasa is one of the world's biggest French-speaking cities and faces Brazzaville
+  across the Congo River — the only place two capitals sit within sight of each other.
+  It is huge, chaotic and electric, the home of soukous and rumba. Hire a trusted
+  local driver, carry small US dollars, and keep a low profile after dark.
 title: Kinshasa
 type: location
 ---

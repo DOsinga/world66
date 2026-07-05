@@ -9,11 +9,20 @@ image_source: https://commons.wikimedia.org/wiki/File:Coast_of_Kauai,_Hawaii.jpg
 latitude: 22.050384
 loc_type: city
 longitude: -159.558862
+quick_facts:
+  Age: 5 million years, oldest isle
+  Nā Pali Coast: No road reaches it
+  Waimea Canyon: 900 m deep
+  Wettest Spot: Among Earth's rainiest
 score: 9.58
 snippet: Hawaiian island known as the Garden Isle, with the Na Pali Coast and Waimea
   Canyon.
 sources:
 - https://en.wikipedia.org/wiki/Kaua%CA%BBi
+tip: 'Kauai is the ''Garden Isle'' — lush, rainy and the wildest of the main Hawaiian
+  islands. No road circles it: the Nā Pali Coast is reachable only by boat, helicopter,
+  or a strenuous trail. Waimea Canyon is the ''Grand Canyon of the Pacific''. Pack
+  a rain jacket — Mt Waiʻaleʻale is among the wettest places on Earth.'
 title: Kaua'i
 type: location
 ---

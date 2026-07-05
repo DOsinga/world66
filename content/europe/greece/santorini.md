@@ -2,24 +2,33 @@
 done:
   location_cleanup: '2026-04-05'
   location_enrich: '2026-05-09'
+image: santorini.jpg
+image_attribution: Giles Laurent
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:1000_Three_domes_of_Oia_in_Santorini_Photo_by_Giles_Laurent.jpg
 latitude: 36.407111
+loc_type: city
 longitude: 25.456664
-title: Santorini
-type: location
+quick_facts:
+  Atlantis: A candidate site
+  Caldera Eruption: ~1600 BC
+  Highest Point: 567 m
+  Volcanic Beaches: Black, red & white sand
 score: 9.93
-tier: 2
+snippet: Santorini is a volcanic Cycladic island shaped by a flooded caldera and cliff-top
+  whitewashed towns.
 tags:
 - beaches
 - history
 - architecture
 - nature
-image: santorini.jpg
-image_source: https://commons.wikimedia.org/wiki/File:1000_Three_domes_of_Oia_in_Santorini_Photo_by_Giles_Laurent.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Giles Laurent
-loc_type: city
-snippet: Santorini is a volcanic Cycladic island shaped by a flooded caldera and cliff-top
-  whitewashed towns.
+tier: 2
+tip: Everyone crowds Oia for sunset until it's a crush — watch it from Imerovigli
+  or the Skaros Rock trail instead, same view, a fraction of the people. The black-sand
+  beaches are volcanic and scorching by noon, so bring flip-flops. The old-port cable
+  car queues are long, so time your cruise tender carefully.
+title: Santorini
+type: location
 ---
 
 Santorini is unlike anywhere else in Greece. The island is the remnant of a massive volcanic caldera — the eruption around 1600 BC was one of the largest in human history, and it left behind a crescent of steep cliffs, black and red sand beaches, and a flooded crater that forms one of the most dramatic natural harbors in the Mediterranean. The main towns of Fira and Oia cling to the caldera rim, their white-cube houses stacked up the cliff face above a drop of several hundred metres to the sea.

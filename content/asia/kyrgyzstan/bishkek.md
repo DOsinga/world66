@@ -5,9 +5,19 @@ done:
 latitude: 42.876142
 loc_type: city
 longitude: 74.603672
+quick_facts:
+  Elevation: ~800 m
+  Population: ~1 million
+  Tian Shan: Snow peaks on the skyline
+  Trek Gateway: To alpine Kyrgyzstan
 score: 7.28
 snippet: Spacious Kyrgyz capital of Soviet boulevards and leafy parks beneath the
   Kyrgyz Ala-Too mountains.
+tip: Bishkek is a leafy, low-rise, Soviet-planned city with the snow-capped Tian Shan
+  mountains rising right behind it — the gateway to Kyrgyzstan's spectacular alpine
+  trekking and yurt-stay country. The Osh Bazaar is the place to feel the city's pulse.
+  It is relaxed and walkable; use it to stock up and arrange trips to Lake Issyk-Kul
+  and the high pastures.
 title: Bishkek
 type: location
 ---

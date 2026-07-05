@@ -12,11 +12,21 @@ image_source: https://commons.wikimedia.org/wiki/File:Middle_Ground_Coastal_Batt
 latitude: 19.054999
 loc_type: city
 longitude: 72.869203
+quick_facts:
+  Bollywood: World's biggest film industry
+  Built On: Seven reclaimed islands
+  Dabbawalas: Deliver 200,000 lunches daily
+  Population: ~21 million
 score: 8.31
-title: Mumbai
-type: location
 snippet: Mumbai is India’s financial capital, a peninsula megacity of colonial landmarks,
   Art Deco blocks, and Bollywood.
+tip: Mumbai is India's fast-talking film and finance capital, built on what were once
+  seven islands. The local trains are its lifeline — astonishingly crowded, so avoid
+  rush hour. See the Gateway of India, the Victorian Gothic CST station, and the dhobi
+  ghats. Eat vada pav from a stall. The dabbawalas' lunch-delivery network is a logistical
+  wonder.
+title: Mumbai
+type: location
 ---
 
 Mumbai is India's commercial and financial capital, a city of roughly 20 million people built on a peninsula that juts into the Arabian Sea. It was the British-era Bombay — a name still in common use — and the transformation from colonial port to global megacity happened faster here than almost anywhere. The result is a city of extremes: extraordinary wealth alongside [Dharavi](/asia/india/maharashtra/mumbai/dharavi), Art Deco apartments along [Marine Drive](/asia/india/maharashtra/mumbai/marine_drive) beside Victorian Gothic railway stations, a cosmopolitan energy that makes it feel like no other city in India.

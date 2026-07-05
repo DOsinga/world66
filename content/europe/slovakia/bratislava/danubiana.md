@@ -1,11 +1,22 @@
 ---
 title: Danubiana Meulensteen Art Museum
 type: poi
-tags: [things_to_do, museum, art, day_trips]
+tags:
+- things_to_do
+- museum
+- art
+- day_trips
 latitude: 48.0011
 longitude: 17.0869
-story: The Danubiana was built on a artificial peninsula jutting into the Danube, reachable by boat in summer and by road year-round. The founders designed it specifically to be as close to the Austrian and Hungarian borders as possible — a deliberate statement about art transcending national boundaries.
+story: The Danubiana was built on a artificial peninsula jutting into the Danube,
+  reachable by boat in summer and by road year-round. The founders designed it specifically
+  to be as close to the Austrian and Hungarian borders as possible — a deliberate
+  statement about art transcending national boundaries.
 score: 7.8
+image: danubiana.jpg
+image_source: https://commons.wikimedia.org/wiki/File:The_works_by_Stepan_Ryabchenko_at_the_3rd_Danube_Biennale_at_the_Danubiana-Meulensteen_Art_Museum_in_Bratislava,_Slovakia.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Stepan Ryabchenko
 ---
 
 The Danubiana Meulensteen Art Museum is one of the most extraordinarily situated art museums in Europe — a collection of contemporary sculpture and painting housed in a purpose-built museum on a small peninsula in the Danube, 30 km south of central Bratislava. The building juts into the river with water on three sides, and the outdoor sculpture park uses the Danube as its backdrop.

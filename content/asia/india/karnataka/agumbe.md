@@ -5,9 +5,9 @@ done:
   location_enrich: '2026-05-21'
   poi_cleanup: '2026-04-19'
 image: agumbe.jpg
-image_attribution: Shashidhara halady
+image_attribution: Shameersh
 image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Agumbe_View_point.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Agumbe_Rain_Forest_Karnataka_India.jpg
 latitude: 13.5085
 loc_type: city
 longitude: 75.0963

@@ -9,9 +9,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Annecy-palais2.jpg
 latitude: 45.899235
 loc_type: city
 longitude: 6.128885
+quick_facts:
+  Cleaned Up: A pioneering 1960s sewer scheme
+  Elevation: 448 m
+  Lake Annecy: 27 km², 82 m deep
+  Old Town: '''Venice of the Alps'''
 score: 9.41
 snippet: Lakeside Alpine town known for its canal-lined old quarter, Savoy castle,
   and mountain-framed Lake Annecy.
+tip: Annecy's old town is laced with canals around a turquoise lake said to be among
+  Europe's cleanest — you can swim straight off the grassy public beaches in summer.
+  Rent a bike for the flat lakeside path, or a pedalo on the water. The Palais de
+  l'Île, a 12th-century 'stone ship' in the canal, is the photo. It's an easy add-on
+  to Geneva or Chamonix.
 title: Annecy
 type: location
 ---

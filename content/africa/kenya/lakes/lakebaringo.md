@@ -15,4 +15,4 @@ Lake Baringo is a large, shallow freshwater lake in the Rift Valley, north of Ma
 
 The village of Kampi ya Samaki, on the western shore, is the main base. Robert's Camp is the most popular place to stay — you can camp or book a banda, and boat trips to the islands can be arranged from here. The Lake Baringo Club, a little further along the shore, has a swimming pool, restaurant, and grounds that attract hornbills and other birds right to the breakfast table.
 
-To get here from [Nakuru](/africa/kenya/nakuru), take the B4 north and continue 15 kilometres past Marigat. Matatus run from Nakuru to Marigat, and from there to the lake.
+To get here from [Nakuru](/africa/kenya/theriftvalley/nakuru), take the B4 north and continue 15 kilometres past Marigat. Matatus run from Nakuru to Marigat, and from there to the lake.

@@ -3,9 +3,9 @@ done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-05-15'
 image: lamaddelena.jpg
-image_attribution: Gianni Careddu
+image_attribution: trolvag
 image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:La_Maddalena_-_Il_porto_(02).JPG
+image_source: https://commons.wikimedia.org/wiki/File:Guiseppe_Garabaldi,_Arcipelago_di_La_Maddalena_National_Park,_La_Maddalena_Olbia-tempio,_Sardinia,_Italy_-_panoramio.jpg
 latitude: 41.213673
 loc_type: city
 longitude: 9.406723

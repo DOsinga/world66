@@ -9,9 +9,19 @@ image_source: https://www.flickr.com/photos/50169083@N00/1196871224
 latitude: -1.9536
 loc_type: city
 longitude: 30.0606
+quick_facts:
+  Built On: Rolling green hills
+  Plastic Bags: Banned nationwide
+  Population: ~1.7 million
+  Umuganda: Monthly clean-up morning
 score: 7.74
 snippet: Hilltop Rwandan capital spread across green ridges, known for orderly streets
   and the Kigali Genocide Memorial.
+tip: Kigali is famously one of the cleanest, safest and most orderly cities in Africa
+  — plastic bags are banned, and the last Saturday of each month is 'Umuganda', a
+  national community clean-up when much shuts down. Built over green hills, it is
+  walkable and calm. The Genocide Memorial is essential and deeply moving; give it
+  time.
 title: Kigali
 type: location
 ---

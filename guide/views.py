@@ -441,6 +441,47 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     top_locations = locations[:_top_n]
     more_locations = sorted(locations[_top_n:], key=lambda loc: loc.title)
 
+    # Issue #2221: on a country with regions, the cities you expect (e.g. Xi'an,
+    # Guilin) sit inside the regions and never surface. Group destinations by
+    # region — image cards for the top locations, then a structured column list
+    # of every region's locations. List all when there aren't too many, else the
+    # top few per region with a "more" link into the region.
+    region_groups = None
+    if page.meta.get("loc_type") == "country":
+        region_children = [l for l in locations if l.meta.get("loc_type") == "region"]
+        if region_children:
+            _score = lambda p: float(p.meta.get("score", 0) or 0)
+            # Image cards show the country's direct cities/features; the regions
+            # become the grouped column list below, so their nested cities (the
+            # ones you'd expect but couldn't see) finally surface.
+            direct_children = sorted(
+                (l for l in locations if l.meta.get("loc_type") != "region"),
+                key=_score, reverse=True)
+            _dt_n = len(direct_children) if len(direct_children) <= _CARD_THRESHOLD else _CARD_MAX
+            top_locations = direct_children[:_dt_n]
+            direct_extra = direct_children[_dt_n:]
+            gathered = []
+            total = len(direct_extra)
+            for r in sorted(region_children, key=_score, reverse=True):
+                _, r_locs, _ = r.children()
+                r_locs = sorted(
+                    (p for p in r_locs if p.page_type == "location"), key=_score, reverse=True)
+                total += len(r_locs)
+                gathered.append((r, r_locs))
+            # List every location when the country is small enough; otherwise show
+            # the top few per region with a "more" link into the region.
+            _REGION_LIST_ALL_MAX = 60
+            per_limit = None if total <= _REGION_LIST_ALL_MAX else 5
+            region_groups = []
+            if direct_extra:  # direct cities that didn't fit in the cards
+                region_groups.append({"region": None, "title": page.title,
+                    "locations": direct_extra, "more_count": 0})
+            for r, r_locs in gathered:
+                shown = r_locs if per_limit is None else r_locs[:per_limit]
+                region_groups.append({"region": r, "title": r.title,
+                    "locations": shown, "more_count": len(r_locs) - len(shown)})
+            more_locations = []  # replaced by the grouped list below
+
     # For feature pages: cities/locations that tag into this feature via tags: [feature_slug]
     linked_locations = []
     more_linked_locations = []
@@ -527,6 +568,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "locations": locations,
         "top_locations": top_locations,
         "more_locations": more_locations,
+        "region_groups": region_groups,
         "neighbourhood_items": neighbourhoods,
         "pois": pois,
         "parent_sections": parent_nav,   # sibling nav pages (section/poi sidebar)

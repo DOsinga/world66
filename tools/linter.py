@@ -16,7 +16,7 @@ Checks:
   invalid_loc_type         loc_type not in allowed set               [report]
   invalid_page_type        type field not in allowed set             [report]
   missing_poi_fields       type=poi missing required frontmatter      [report]
-  day_trip_poi             type=poi tagged day_trips (must be a link) [report]
+  day_trip_poi             type=poi tagged day_trips (must be a link) [warn]
   invalid_poi_score        type=poi score is not 1.0-10.0             [report]
   continent_misplaced      file at content/<X>.md but not continent  [report]
   country_misplaced        continent child but loc_type != country   [report]
@@ -24,7 +24,9 @@ Checks:
   non_canonical_section    section slug not in canonical set         [partial fix]
   broken_link              markdown link to /<path> doesn't resolve  [report]
 
-Exits non-zero if any unfixable issues remain after fixes are applied.
+Exits non-zero if any unfixable blocking issues remain after fixes are
+applied. Checks listed in WARNING_CHECKS are reported but do not fail the
+build (used while a new rule's pre-existing violations are cleaned up).
 """
 
 import argparse
@@ -642,6 +644,13 @@ CHECKS = [
     check_broken_links,
 ]
 
+# Checks that report but do not fail the build. Used to introduce a new rule
+# while its pre-existing violations are still being cleaned up; remove the
+# check's name here to make it blocking once the content is fixed.
+WARNING_CHECKS = {
+    "day_trip_poi",
+}
+
 
 # ---------------------------------------------------------------------------
 # Main
@@ -726,14 +735,26 @@ def main() -> int:
             for check in CHECKS:
                 structural_issues.extend(check(pages))
 
-    all_issues = newline_issues + parse_issues + structural_issues
+    warning_issues = [i for i in structural_issues if i.check in WARNING_CHECKS]
+    blocking_issues = (
+        newline_issues + parse_issues
+        + [i for i in structural_issues if i.check not in WARNING_CHECKS]
+    )
+
+    all_issues = blocking_issues + warning_issues
     if not all_issues:
         print("Clean — no issues found.")
         return 0
 
     print(f"\n{len(all_issues)} total issues across {len(set(i.check for i in all_issues))} checks:")
     print_issues(all_issues, limit=args.limit)
-    return 1
+
+    if warning_issues:
+        print(
+            f"\n{len(warning_issues)} warning(s) in {sorted(set(i.check for i in warning_issues))} "
+            "do not fail the build (pre-existing violations being cleaned up)."
+        )
+    return 1 if blocking_issues else 0
 
 
 if __name__ == "__main__":

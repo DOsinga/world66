@@ -196,46 +196,10 @@
 </div>
 {% endif %}
 
-{% if poi_images %}
-<p class="poi-strip-label">Visual inspiration</p>
-<div class="poi-strip-wrap">
-  <button class="poi-strip-arrow poi-strip-arrow--prev" aria-label="Scroll left">&#8249;</button>
-  <div class="poi-strip" id="poi-strip">
-    {% for img in poi_images %}
-    <a href="{{ img.href }}" class="poi-strip-item" title="{{ img.title }}">
-      <img src="{{ img.url }}" alt="{{ img.title }}">
-    </a>
-    {% endfor %}
-  </div>
-  <button class="poi-strip-arrow poi-strip-arrow--next" aria-label="Scroll right">&#8250;</button>
-</div>
-<script>
-(function() {
-  var wrap = document.querySelector('.poi-strip-wrap');
-  var strip = document.getElementById('poi-strip');
-  var prev = wrap.querySelector('.poi-strip-arrow--prev');
-  var next = wrap.querySelector('.poi-strip-arrow--next');
-  if (!strip) return;
-  function update() {
-    prev.style.opacity = strip.scrollLeft > 4 ? '1' : '0';
-    prev.style.pointerEvents = strip.scrollLeft > 4 ? '' : 'none';
-    var atEnd = strip.scrollLeft + strip.clientWidth >= strip.scrollWidth - 4;
-    next.style.opacity = atEnd ? '0' : '1';
-    next.style.pointerEvents = atEnd ? 'none' : '';
-  }
-  var step = 320;
-  prev.addEventListener('click', function() { strip.scrollBy({left: -step, behavior: 'smooth'}); });
-  next.addEventListener('click', function() { strip.scrollBy({left:  step, behavior: 'smooth'}); });
-  strip.addEventListener('scroll', update);
-  update();
-})();
-</script>
-{% endif %}
-
 {% endblock %}
 
 {% block wide_content %}
-{% if page.page_type == "section" or page.page_type == "neighbourhood" or page.page_type == "section_group" %}{% if pois %}
+{% if page.page_type == "section" or page.page_type == "neighbourhood" or page.page_type == "section_group" %}{% if pois and not daytrip_cards %}
 <div class="wide-block poi-section">
   <span class="section-kicker">{% if page.page_type == "neighbourhood" %}Neighbourhood{% else %}Guide{% endif %}</span>
   <div class="poi-section-head">
@@ -379,7 +343,25 @@
 {% endif %}
 {% endif %}
 
-{% if linked_locations %}
+{% if daytrip_cards %}
+<div class="wide-block destinations-section">
+  <span class="section-kicker">Destinations</span>
+  <h2 class="section-block-heading">{{ page.title }}{% if parent %} from {{ parent.title }}{% endif %}</h2>
+  <div class="dest-grid">
+    {% for card in daytrip_cards %}
+    <a href="{{ card.url }}" class="dest-card{% if not card.image_url %} dest-card--no-image{% endif %}">
+      {% if card.image_url %}<img src="{{ card.image_url }}" alt="{{ card.title }}">{% endif %}
+      <div class="dest-veil"></div>
+      <div class="dest-txt">
+        <div class="dest-idx">{{ forloop.counter|stringformat:"02d" }}</div>
+        <div class="dest-name">{{ card.title }}</div>
+        {% if card.snippet %}<div class="dest-snippet">{{ card.snippet }}</div>{% endif %}
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+</div>
+{% elif linked_locations %}
 <div class="wide-block destinations-section">
   <span class="section-kicker">Cities</span>
   <h2 class="section-block-heading">Places in {{ page.title }}</h2>
@@ -391,6 +373,7 @@
       <div class="dest-txt">
         <div class="dest-idx">{{ forloop.counter|stringformat:"02d" }}</div>
         <div class="dest-name">{{ loc.title }}</div>
+        {% if loc.meta.snippet %}<div class="dest-snippet">{{ loc.meta.snippet }}</div>{% endif %}
       </div>
     </a>
     {% endfor %}

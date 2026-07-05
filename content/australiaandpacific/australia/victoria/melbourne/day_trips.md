@@ -1,13 +1,18 @@
 ---
-title: 'Day Trips'
+title: Day Trips
 type: section
 linked_locations:
-  - australiaandpacific/australia/victoria/ballarat
-  - australiaandpacific/australia/victoria/bendigo
-  - australiaandpacific/australia/victoria/phillipisland
-  - australiaandpacific/australia/victoria/geelong
+- australiaandpacific/australia/victoria/morningtonpeninsula
+- australiaandpacific/australia/victoria/phillipisland
+- australiaandpacific/australia/victoria/yarravalley
+- australiaandpacific/australia/victoria/greatoceanroad
+- australiaandpacific/australia/victoria/ballarat
+- australiaandpacific/australia/victoria/bendigo
+- australiaandpacific/australia/victoria/geelong
 ---
 
-The Mornington Peninsula is Melbourne's easiest escape, less than an hour south. The bay side has calm beaches and seaside villages, while the ocean side has surf and rugged coastline. The peninsula is dotted with small wineries specialising in Pinot Noir and Pinot Gris, many with excellent cellar-door restaurants. The natural hot springs at Peninsula Hot Springs are worth the trip alone.
+Melbourne is ringed by some of Victoria's best escapes, most within a couple of hours by car or train.
 
-For bigger adventures, the Great Ocean Road starts at Torquay and makes for a long but spectacular day trip. Phillip Island's penguin parade is another classic. The Yarra Valley wine region and Healesville Sanctuary are a rewarding combination for a day out. The gold rush towns of [Ballarat](/australiaandpacific/australia/victoria/ballarat) and [Bendigo](/australiaandpacific/australia/victoria/bendigo) are each around 90 minutes away and make excellent day trips by train.
+The [Mornington Peninsula](/australiaandpacific/australia/victoria/morningtonpeninsula) is the easiest, less than an hour south — calm bay beaches on one side, surf and cliffs on the other, plus cool-climate wineries and the Peninsula Hot Springs. [Phillip Island](/australiaandpacific/australia/victoria/phillipisland), about 90 minutes southeast, is famous for its nightly penguin parade and rugged surf coast. To the east, the [Yarra Valley](/australiaandpacific/australia/victoria/yarravalley) wine region pairs cellar doors with the excellent Healesville Sanctuary native-wildlife park.
+
+For a bigger day out, the [Great Ocean Road](/australiaandpacific/australia/victoria/greatoceanroad) begins at Torquay and runs spectacularly along the coast to the Twelve Apostles. Inland, the gold-rush cities of [Ballarat](/australiaandpacific/australia/victoria/ballarat) — home to the Sovereign Hill living museum — and [Bendigo](/australiaandpacific/australia/victoria/bendigo) are each around 90 minutes away by train, and the bayside city of [Geelong](/australiaandpacific/australia/victoria/geelong) sits on the way to the Great Ocean Road.

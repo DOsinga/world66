@@ -3,9 +3,9 @@ country: Taiwan
 done:
   wikitravel_coverage: '2026-06-05'
 image: jiufen.jpg
-image_attribution: Chensiyuan
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:1_jiufen_panorama_2015.jpg
+image_attribution: Gregg Tavares from Stanton, California
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:180124_Jiufen,_Taiwan_%E4%B9%9D%E4%BB%BD.jpg
 latitude: 25.1085
 loc_type: city
 longitude: 121.8443

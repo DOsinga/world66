@@ -16,6 +16,10 @@ tags:
 title: James Joyce Tower & Museum
 type: poi
 url: https://www.jamesjoyce.ie/james-joyce-tower-museum
+image: james_joyce_tower.jpg
+image_source: https://commons.wikimedia.org/wiki/File:James_Joyce_Tower_and_Museum,_living_area_(1).jpg
+image_license: CC BY-SA 4.0
+image_attribution: Rrburke
 ---
 
 This Martello tower at Sandycove, built by the British in 1804 to guard against Napoleonic invasion, is immortalised as the opening setting of *Ulysses* — "Stately, plump Buck Mulligan came from the stairhead." Joyce stayed here for six days in September 1904, as the guest of Oliver St. John Gogarty, and the experience fed directly into the novel's first episode.

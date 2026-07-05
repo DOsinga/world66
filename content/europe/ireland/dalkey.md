@@ -3,9 +3,9 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-15'
 image: dalkey.jpg
-image_attribution: John Fahy
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Dalkey.jpg
+image_attribution: Joebro71
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Bullock_Harbour_Dalkey_Co_Dublin_Ireland.jpg
 latitude: 53.275496
 loc_type: city
 snippet: Coastal village south of Dublin, with medieval castles, island views, and

@@ -1,12 +1,16 @@
 ---
 latitude: -16.2116
 longitude: -67.7133
-snippet: "Cloudforest mountain hike with views above the clouds"
+snippet: Cloudforest mountain hike with views above the clouds
 tags:
 - day_trips
 title: Uchumachi
 type: poi
 score: 8.0
+image: uchumachi.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Yungas_Bolivia_01.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Das Morton
 ---
 
 The 2,500-metre mountain that Coroico is built on. Above 2,100 metres it is a nature reserve, mostly covered in cloudforest rich with orchids.

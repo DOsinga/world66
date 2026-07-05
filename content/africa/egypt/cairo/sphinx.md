@@ -16,6 +16,10 @@ tags:
 - giza
 title: Sphinx
 type: poi
+image: sphinx.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Great_Sphinx_of_Giza._Cairo,_Egypt,_North_Africa.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Mstyslav Chernov
 ---
 
 The Great Sphinx is the largest monolithic sculpture in the world — a single piece of limestone, 73 metres long and 20 metres high, carved directly from the bedrock of the Giza plateau. It depicts a lion's body with a human head, facing east toward the sunrise, and is believed to represent the pharaoh Khafre, whose pyramid stands directly behind it.

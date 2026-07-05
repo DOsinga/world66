@@ -6,6 +6,10 @@ tags:
 - day_trips
 title: Parque Lenin
 type: poi
+image: san_miguel_parque_lenin.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cielo_y_monta%C3%B1a_rusa.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Keony
 ---
 
 Parque Lenin, on the southern edge of Havana's metropolitan area, is one of the largest urban parks in Cuba. Created in the early 1970s on the site of former sugar plantations, the park covers around 740 hectares and contains lakes, riding stables, an open-air amphitheatre, a narrow-gauge steam railway, and a rodeo ground. It was designed as a recreational space for working-class Havana families and still serves that purpose, most visibly on weekend afternoons when families arrive by bicycle, horse cart, and the occasional camello bus.

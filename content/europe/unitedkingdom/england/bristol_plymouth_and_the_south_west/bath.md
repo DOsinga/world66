@@ -4,9 +4,9 @@ done:
   location_enrich: '2026-05-12'
   lp_coverage: '2026-06-05'
 image: bath.jpg
-image_attribution: Julian Herzog (Website)
-image_license: CC BY 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Bath_Abbey_2024_01.jpg
+image_attribution: Photograph by Mike Peel (www.mikepeel.net).
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Bath_2014_02_-_Pulteney_Bridge_and_Bath_Weir.jpg
 latitude: 51.381386
 loc_type: city
 longitude: -2.359696

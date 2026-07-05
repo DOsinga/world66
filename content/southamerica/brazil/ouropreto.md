@@ -3,8 +3,8 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-28'
 image: ouropreto.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Conjunto_arquitet%C3%B4nico_e_urban%C3%ADstico_de_Ouro_Preto.JPG
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Ouro_Preto,_Minas_Gerais_-_2019-07-25.jpg
 latitude: -20.385671
 loc_type: city
 longitude: -43.503617
@@ -13,6 +13,7 @@ snippet: Steep Brazilian colonial town where black-gold wealth survives in baroq
   churches and cobbled hillside streets.
 title: Ouro Preto
 type: location
+image_attribution: josep
 ---
 
 Ouro Preto (formerly Vila Rica — "Rich Town") made its fortune from gold, and then renamed itself after the black gold ore that defined it. The colonial-era wealth is still written across the town in baroque churches, grand mansions, and cobblestone streets that climb steep hillsides to offer views of the surrounding mountains.

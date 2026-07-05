@@ -2005,11 +2005,19 @@ img { max-width: 100%; height: auto; }
 }
 
 .region-group-title {
-  display: block;
+  /* Reserve two lines and clamp, so a long region name wraps cleanly and every
+     group's city list starts at the same height (keeps the grid tidy). */
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  overflow-wrap: break-word;
+  min-height: 2.1em;
   font-family: var(--label-font);
   font-size: 13px;
   font-weight: 600;
   letter-spacing: 0.4px;
+  line-height: 1.25;
   text-transform: uppercase;
   color: var(--ink);
   text-decoration: none;

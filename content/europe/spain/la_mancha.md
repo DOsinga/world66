@@ -18,7 +18,7 @@ La Mancha is part of Castille. It is formed by five provinces: [Toledo](/europe/
 
 It is located in central Spain and the territory is mainly plane and dried, cold in winter and very hot in summer. There are several ranges like Cuenca range, Toledo mounts and Central Range. The most important river is Tajo, Guadiana and Júcar.
 
-Toledo and Cuenca are very historic and monumental centers but there are other wonderful cities and villages like [Almagro](/europe/spain/la_mancha/almagro), [Talavera de la Reina](/europe/spain/centralspain/talaveradelareina), Campo de Criptana [Mota del Cuervo](/europe/spain/la_mancha/mota_del_cuervo) or Almansa
+Toledo and Cuenca are very historic and monumental centers but there are other wonderful cities and villages like [Almagro](/europe/spain/la_mancha/almagro), [Talavera de la Reina](/europe/spain/centralspain/talaveradelareina), [Campo de Criptana](/europe/spain/la_mancha/campo_de_criptana), [Mota del Cuervo](/europe/spain/la_mancha/mota_del_cuervo) or Almansa
 
 La Mancha is Don Quixote land where Cervantes located the most important book in Spanish language. Don´t forget to visit the giant-mills in Campo de Criptana or Consuegra.
 

@@ -1,4 +1,8 @@
 ---
+linked_locations:
+- europe/germany/badenwrttemberg/stuttgart
+- europe/germany/badenwrttemberg/marbach_am_neckar
+- europe/germany/badenwrttemberg/bietigheim_bissingen
 title: "Day Trips"
 type: section
 ---
@@ -7,8 +11,8 @@ type: section
 
 **[Hohenasperg](/europe/germany/badenwrttemberg/ludwigsburg/hohenasperg)** — the fortified hilltop just west of town, with a long history as a political prison — is reachable by S-Bahn in 15 minutes and makes a good half-day walk.
 
-**Marbach am Neckar**, ten minutes north by train, is the birthplace of Friedrich Schiller and home to the German Literature Archive — a temple to German literary history for anyone interested. The Schiller National Museum displays the poet's manuscripts and personal effects in a striking neoclassical building above the river.
+**[Marbach am Neckar](/europe/germany/badenwrttemberg/marbach_am_neckar)**, ten minutes north by train, is the birthplace of Friedrich Schiller and home to the German Literature Archive — a temple to German literary history for anyone interested. The Schiller National Museum displays the poet's manuscripts and personal effects in a striking neoclassical building above the river.
 
-**Bietigheim-Bissingen**, another short S-Bahn ride north, has a well-preserved medieval old town with timber-framed houses and a striking modern wall painting by Felice Varini called *Trois cercles*.
+**[Bietigheim-Bissingen](/europe/germany/badenwrttemberg/bietigheim_bissingen)**, another short S-Bahn ride north, has a well-preserved medieval old town with timber-framed houses and a striking modern wall painting by Felice Varini called *Trois cercles*.
 
 For wine, the Württemberg wine country starts immediately east of Ludwigsburg, with several Trollinger and Lemberger producers around Großbottwar offering tastings.

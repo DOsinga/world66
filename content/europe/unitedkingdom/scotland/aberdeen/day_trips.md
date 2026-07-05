@@ -1,40 +1,12 @@
 ---
-title: "Day Trips"
+linked_locations:
+- europe/unitedkingdom/scotland/forvie_nature_reserve
+title: Day Trips
 type: section
 ---
 
-**Contributors**
-February 29, 2008
+Aberdeen sits at the edge of a rich stretch of Aberdeenshire coast and farmland, and a half-day or full day out of the city can take you to nature reserves, ruined castles, and oddities of local history.
 
-### [Pitfour Observatory](/europe/unitedkingdom/scotland/aberdeen/day_trips/pitfour_obsservato)
+The [Forvie Nature Reserve](/europe/unitedkingdom/scotland/forvie_nature_reserve) lies about 15 miles north of the city, where the River Ythan meets the sea and vast sand dunes spread north along the coast. The reserve holds one of Britain's largest eider duck colonies and a ruined medieval chapel half-buried in the dunes — a quiet, striking place well off the tourist trail.
 
-Pitfour
-Observatory was built in 1845 by the fifth Laird of Pitfour, Admiral
-Sir George Ferguson, so that he and his guests could watch horse
-racing. The Laird had constructed a four and a half mile race course to
-indulge his passion for horse racing, without having to leave his own
-estate. The race course was exactly 50 feet wide and level, with all
-troughs levelled with rock from local quarries. The course was
-nicknamed the “Ascot of the North”.
-
-The Observatory was purchased and renovated in the 1990s by the
-local authority. It is open daily from morning until late afternoon during the summer months; check locally for current hours.
-
-
-
-### [Forvie Nature Reserve, Newburgh](/europe/unitedkingdom/scotland/aberdeen/day_trips/forvie_nature_rese)
-
-The sand dunes atForvie National Nature Reserve are spectacular. The area is even dubbed the “Northern
-Sahara” due to all of the sand left after the last ice age around
-15,000 years ago. The present dunes are thought to be around 2000 years
-old. The mud flats in the estuary are home to many types of marine life
-and birds.
-
-Forvie’s Curse, according to local
-folklore, tells of three sisters who were set adrift in a leaky boat so that they
-could not inherit. The sisters placed a curse on Forvie, saying the it
-should only contain thistle and sand. The curse resulted in a great sandstorm in the 1400s that buried the village of Forvie for good — the ruined chapel poking out of the dunes is all that remains.
-
-
-
-url: www.snh.org.uk
+A smaller but genuinely unusual detour is [Pitfour Observatory](/europe/unitedkingdom/scotland/aberdeen/pitfour_obsservato), about 40 miles north on the A952. The octagonal tower was built in 1845 so the Laird of Pitfour could watch horse racing on his private four-and-a-half-mile course — nicknamed the "Ascot of the North." The course is long gone, but the tower survives and opens free of charge in summer. The surrounding woods contain a stone circle and a chambered cairn, making a worthwhile half-day combination.

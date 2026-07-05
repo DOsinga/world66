@@ -1,8 +1,8 @@
 ---
 title: "Lindt Home of Chocolate"
 type: poi
-latitude: 47.3258
-longitude: 8.5586
+latitude: 47.3233
+longitude: 8.5487
 tags:
   - things_to_do
   - museum

@@ -1,15 +1,17 @@
 ---
-title: "Plan B"
-type: poi
+latitude: 52.2362
+longitude: 21.0301
+score: 7.2
+snippet: Long-running Powiśle cafe-bar that anchors the neighbourhood's coffee and
+  natural wine scene
 tags:
-  - bars_and_cafes
-  - bar
-latitude: 52.2348
-longitude: 21.0141
-snippet: "Legendary Warsaw bar on Zbawiciela Square — the social hub of the city's young professional crowd"
-score: 6.0
+- things_to_do
+- powisle_district
+- bar
+title: Plan B
+type: poi
 ---
 
-Plan B bar on pl. Zbawiciela (Saviour Square) in Śródmieście became the symbolic centre of Warsaw's café culture in the 2010s. The terrace facing the church and the square is packed from late afternoon whenever the weather allows. The bar is unpretentious — drinks are good, music is appropriate, the crowd is mixed but skews young and local.
+Plan B has been part of Powiśle since before the neighbourhood became fashionable. A low-ceilinged bar and cafe on Aleje Ujazdowskie, it keeps late hours and a mixed crowd: coffee in the afternoon, natural wine and cocktails in the evening. The furniture is mismatched, the music is good, and there is almost always somewhere to sit — unlike the more famous terrace bars down by the river.
 
-Zbawiciela Square itself is worth noting: a distinctive oval-shaped square lined with cafes and restaurants that has become Warsaw's most convivial public space. The surrounding streets in Śródmieście (the central Śródmieście district south of the Royal Route) have Warsaw's densest concentration of independent coffee shops, brunch spots, and wine bars.
+The food menu is light but thoughtful: soups, tartines, and a rotating specials board. It attracts a local crowd rather than tourists and is a good place to understand what an ordinary Warsaw evening looks like.

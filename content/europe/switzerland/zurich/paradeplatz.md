@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - bahnhofstrasse
 - landmark
+- city_lindenhof
 title: Paradeplatz
 type: poi
 ---

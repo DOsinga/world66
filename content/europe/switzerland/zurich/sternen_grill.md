@@ -1,13 +1,14 @@
 ---
-title: "Sternen Grill"
-type: poi
 latitude: 47.3672
-longitude: 8.5460
-tags:
-  - eating_out
-  - restaurant
-snippet: "Zurich's most famous sausage stand, by Bellevue tram interchange"
+longitude: 8.546
 score: 7.0
+snippet: Zurich's most famous sausage stand, by Bellevue tram interchange
+tags:
+- eating_out
+- restaurant
+- niederdorf
+title: Sternen Grill
+type: poi
 ---
 
 The Sternen Grill, on the corner of Theaterstrasse at Bellevue, is the most famous **Wurst** stand in Zurich. Locals queue up at all hours for the unbeatable combination of grilled **St. Galler Bratwurst** with a small *Bürli* roll, a smear of mustard and (optionally) a glass of beer or a coffee, served at standing counters by the door.

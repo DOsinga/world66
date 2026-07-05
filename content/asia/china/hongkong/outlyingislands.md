@@ -2,13 +2,20 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 22.2247
-loc_type: feature
+linked_locations:
+- asia/china/hongkong/lamma_island
+- asia/china/hongkong/cheung_chau
+- asia/china/hongkong/peng_chau
+- asia/china/hongkong/lantau
 longitude: 114.1096
-score: 7.66
+score: 0.58
 snippet: Ferry-linked Hong Kong island region where fishing villages, monasteries,
   beaches, and hiking trails replace city bustle.
+tags:
+- things_to_do
+- neighbourhood
 title: Outlying Islands
-type: location
+type: neighbourhood
 ---
 
 Hong Kong's outlying islands are one of its less-visited assets. Ferries from the Central Piers make most islands accessible within an hour, and the contrast with the mainland bustle is immediate.

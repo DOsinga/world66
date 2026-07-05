@@ -10,7 +10,6 @@ story: The Maschinenfabrik Oerlikon (MFO) was a major Swiss heavy-engineering pl
   green-cube park inside an industrial cage.
 tags:
 - things_to_do
-- zurich_west
 - sight
 - park
 title: MFO Park

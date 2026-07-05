@@ -5,11 +5,10 @@ score: 6.6
 snippet: Hong Kong's main nightlife district — a grid of bars and clubs in the Central
   hillside
 tags:
+- things_to_do
 - bars_and_cafes
-- hongkongisland
 - central
 - bar
-- neighbourhood
 title: Lan Kwai Fong
 type: poi
 ---

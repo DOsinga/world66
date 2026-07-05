@@ -8,7 +8,7 @@ sources:
 - https://en.wikipedia.org/wiki/Krakowskie_Przedmieście
 tags:
 - things_to_do
-- srodmiescie_district
+- srodmiescie_polnocne
 - sight
 title: Krakowskie Przedmieście (Royal Route)
 type: poi

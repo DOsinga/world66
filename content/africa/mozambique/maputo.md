@@ -8,12 +8,22 @@ image_source: https://commons.wikimedia.org/wiki/File:Maputo_Train_Station.jpg
 latitude: -25.966213
 loc_type: city
 longitude: 32.56745
+quick_facts:
+  Casa de Ferro: An iron house linked to Eiffel
+  Founded: Late 18th century
+  Peri-Peri Prawns: A local legend
+  Population: ~1.1 million
 score: 6.98
 snippet: Mozambican capital on Maputo Bay, shaped by Portuguese avenues, Art Deco
   blocks, and Indian Ocean port life.
 sources:
 - https://en.wikipedia.org/wiki/Maputo
 - https://en.wikivoyage.org/wiki/Maputo
+tip: Maputo is a faded-grand port city of jacaranda-lined avenues, Portuguese colonial
+  buildings and a strong café culture. See the iron house attributed to Eiffel and
+  the bustling Central Market. Eat the peri-peri prawns — they are legendary — and
+  stroll the Marginal seafront. Portuguese is the language; the city is relaxed but
+  mind valuables at night.
 title: Maputo
 type: location
 ---

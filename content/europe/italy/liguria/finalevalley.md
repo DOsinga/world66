@@ -2,9 +2,9 @@
 done:
   location_cleanup: '2026-04-08'
 latitude: 44.169
-loc_type: region
+loc_type: feature
 longitude: 8.343
-score: 0.54
+score: 5.6
 snippet: Ligurian coastal valley of medieval Finalborgo, limestone climbing walls,
   Roman bridges, olive groves, and Mediterranean cliffs.
 title: Finale Valley

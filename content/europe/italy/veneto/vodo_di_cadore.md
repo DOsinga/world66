@@ -13,6 +13,8 @@ snippet: Small Cadore mountain village between Antelao and Pelmo, positioned for
   ridge walks and pass roads.
 sources:
 - https://en.wikipedia.org/wiki/Vodo_di_Cadore
+tags:
+- dolomites
 title: Vodo di Cadore
 type: location
 ---

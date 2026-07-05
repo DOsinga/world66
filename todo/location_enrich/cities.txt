@@ -1118,7 +1118,6 @@ europe/unitedkingdom/scotland/moray
 europe/belgium/charleroi
 asia/uzbekistan/bukhara
 asia/vietnam/dalat
-asia/india/jammuandkashmir/bhadarwah
 australiaandpacific/frenchpolynesia/moorea
 asia/india/uttaranchal/srinagar_pauri_garhwal
 europe/italy/tuscany/florenceprovince/chiantiregion/impruneta
@@ -1176,7 +1175,6 @@ europe/france/centre/loirevalley/cheverny
 europe/italy/emiliaromagna/misanoadriatico
 europe/macedonia/ohrid
 europe/norway/narvik
-northamerica/unitedstates/hawaii/hilo
 asia/vietnam/thanh_hoa
 australiaandpacific/australia/tasmania/hobart
 northamerica/unitedstates/massachusetts/nantucket
@@ -2575,7 +2573,6 @@ europe/italy/campania/caserta
 australiaandpacific/australia/victoria/wonthaggi
 northamerica/unitedstates/georgia/crawfordville_georgia
 northamerica/unitedstates/montana/redlodge
-northamerica/mexico/cuernavaca
 northamerica/unitedstates/virginia/williamsburg
 northamerica/unitedstates/utah/buckskin_gulch
 africa/madagascar/toamasina
@@ -3002,7 +2999,6 @@ southamerica/argentina/laplata
 europe/spain/galicia/baiona
 europe/germany/badenwrttemberg/konstanz
 africa/chad/ounianga
-northamerica/unitedstates/connecticut/danbury
 northamerica/unitedstates/maine/ellsworth
 europe/italy/piemonte/monferrato
 africa/southafrica/franschhoek
@@ -4571,7 +4567,6 @@ europe/sweden/vnersborg
 europe/albania/ardenica
 europe/denmark/roenne
 europe/azerbaijan/naxcivan/sadarak
-africa/morocco/ifrane
 northamerica/unitedstates/vermont/burlington
 northamerica/unitedstates/california/foster_city
 asia/oman/barka

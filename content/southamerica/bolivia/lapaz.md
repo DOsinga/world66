@@ -11,9 +11,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Atardecer_frente_a_San_Fra
 latitude: -16.4955
 loc_type: city
 longitude: -68.1336
+quick_facts:
+  Cable Cars: World's longest urban network
+  Distinction: World's highest admin capital
+  Elevation: ~3,640 m
+  Witches' Market: Llama foetuses for luck
 score: 8.45
 snippet: High Andean capital spilling through a canyon beneath Illimani and El Alto's
   plateau
+tip: La Paz is the highest administrative capital on earth — the airport at El Alto
+  tops 4,000 m, so altitude sickness is real; rest and sip coca tea on arrival. The
+  city spills down a dramatic canyon, and its cable-car network (Mi Teleférico) is
+  the world's longest, doubling as stunning public transport. The Witches' Market
+  sells dried llama foetuses for luck.
 title: La Paz
 type: location
 ---

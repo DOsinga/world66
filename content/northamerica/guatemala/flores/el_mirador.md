@@ -4,19 +4,22 @@ type: poi
 latitude: 17.755
 longitude: -89.918
 tags:
-  - day_trips
-  - sight
-  - ruin
-story: >
-  El Mirador was the largest city in the Maya world during the Late
-  Preclassic — pre-dating Tikal's peak by half a millennium and built
-  around La Danta, a complex whose volume exceeds the Great Pyramid of
-  Giza. The city collapsed around 150 AD for reasons still debated
-  (drought, deforestation, soil exhaustion all play in the theories). It
-  was abandoned for over fifteen centuries and has never been
-  systematically excavated. From the top of La Danta the only sound is
-  the rainforest.
+- day_trips
+- sight
+- ruin
+story: 'El Mirador was the largest city in the Maya world during the Late Preclassic
+  — pre-dating Tikal''s peak by half a millennium and built around La Danta, a complex
+  whose volume exceeds the Great Pyramid of Giza. The city collapsed around 150 AD
+  for reasons still debated (drought, deforestation, soil exhaustion all play in the
+  theories). It was abandoned for over fifteen centuries and has never been systematically
+  excavated. From the top of La Danta the only sound is the rainforest.
+
+  '
 score: 9.4
+image: el_mirador.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Flickr_-_archer10_(Dennis)_-_Guatemala_1828_-_La_Danta_at_the_Mayan_site_of_El_Mirador.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Dennis G. Jarvis
 ---
 
 The largest Maya city of the Preclassic period, buried deep in the Peten jungle near the Mexican border, and famous for the colossal pyramid of La Danta — by volume one of the largest pyramids on earth. The site has no road. Reaching it means a five-day round-trip trek on foot or by mule from the village of Carmelita, through swamp, jungle, and a string of smaller ruins.

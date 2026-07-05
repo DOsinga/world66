@@ -1,17 +1,21 @@
 ---
-title: "Gauri Shankar Temple"
+title: Gauri Shankar Temple
 type: poi
 latitude: 32.11312
 longitude: 77.16416
 tags:
-  - things_to_do
-  - temple
-  - day_trips
+- things_to_do
+- temple
+- day_trips
 snippet: Stone Shiva temple near Naggar in the Kullu Valley
 score: 7.0
 sources:
-  - https://en.wikivoyage.org/wiki/Manali
-  - https://www.openstreetmap.org/?mlat=32.11312&mlon=77.16416#map=17/32.11312/77.16416
+- https://en.wikivoyage.org/wiki/Manali
+- https://www.openstreetmap.org/?mlat=32.11312&mlon=77.16416#map=17/32.11312/77.16416
+image: gauri_shankar_temple.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Gauri_Shankar_temple,_Dashal_Himachal_Pradesh_010.jpg
+image_license: CC0
+image_attribution: Ms Sarah Welch
 ---
 
 Gauri Shankar Temple is a small but finely proportioned stone temple near Naggar, south of Manali in the Kullu Valley. Dedicated to Shiva, it is known for its compact shikhara form and carved stonework.

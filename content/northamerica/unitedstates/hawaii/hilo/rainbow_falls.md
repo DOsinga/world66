@@ -4,8 +4,8 @@ type: poi
 tags:
   - things_to_do
   - sight
-latitude: 19.7164
-longitude: -155.1018
+latitude: 19.7192
+longitude: -155.1094
 address: Rainbow Drive, Hilo, HI 96720
 snippet: Urban waterfall that creates rainbow mist most mornings, just minutes from downtown
 story: >

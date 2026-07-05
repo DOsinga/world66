@@ -4,9 +4,9 @@ done:
   location_cleanup: '2026-04-07'
   poi_cleanup: '2026-04-19'
 image: tikal.jpg
-image_attribution: Simon Burchell
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Plaza_of_the_Seven_Temples,_Tikal_10.jpg
+image_attribution: Jerome O. Kilmartin
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Temple_V,_Tikal,_Guatemala_1923.tif
 latitude: 17.222
 loc_type: feature
 longitude: -89.6237

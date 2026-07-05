@@ -9,9 +9,18 @@ image_source: https://commons.wikimedia.org/wiki/File:CH-Schweiz-Interlaken-Stra
 latitude: 46.6863
 loc_type: city
 longitude: 7.8632
+quick_facts:
+  Adventure Capital: Paraglide the valley
+  Elevation: 568 m
+  Flanked By: Lakes Thun & Brienz
+  Höhematte: A building-banned meadow
 score: 9.56
 snippet: Swiss resort town between Lake Thun and Lake Brienz, beneath the Eiger, Mönch,
   and Jungfrau.
+tip: 'Interlaken sits between two lakes and is really a launchpad, not a destination
+  — the views are up in the mountains above. It''s the adventure-sports hub: paragliding,
+  canyoning, skydiving over the Jungfrau. Use it as a base for Grindelwald, Lauterbrunnen
+  and Jungfraujoch, and ride the Harder Kulm funicular for a sunset panorama.'
 title: Interlaken
 type: location
 ---

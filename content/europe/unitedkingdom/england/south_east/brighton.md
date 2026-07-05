@@ -3,8 +3,8 @@ done:
   location_cleanup: '2026-04-16'
   location_enrich: '2026-05-29'
 image: brighton.jpg
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:At_Brighton,_East_Sussex_2024_019.jpg
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:East_Brighton_Community_Mental_Health_Centre_-_geograph.org.uk_-_3798806.jpg
 latitude: 50.821463
 loc_type: city
 longitude: -0.140056
@@ -13,6 +13,7 @@ snippet: English seaside city of Regency terraces, Royal Pavilion fantasy, and a
   pleasure-pier waterfront
 title: Brighton
 type: location
+image_attribution: Paul Gillett
 ---
 
 Brighton is Britain's most exciting seaside city. With its cosmopolitan air, superb restaurants, feverish nightlife and abundance of culture, it defies comparison with anywhere else this side of the English Channel. For centuries it has been regarded as a pleasure dome, and that is not about to change.

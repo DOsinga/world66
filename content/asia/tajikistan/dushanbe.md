@@ -10,11 +10,20 @@ image_source: https://commons.wikimedia.org/wiki/File:-Rudaki_in_Park_Dushanbe_c
 latitude: 38.5762
 loc_type: city
 longitude: 68.7864
+quick_facts:
+  Flagpole: Among the world's tallest
+  Name Means: '''Monday'' (market day)'
+  Pamir Gateway: To the 'Roof of the World'
+  Population: ~900,000
 score: 6.37
-title: Dushanbe
-type: location
 snippet: Tajik capital of Soviet boulevards and teahouses, grown from a Monday market
   village.
+tip: Dushanbe — the name means 'Monday', after its old market day — is a green, low-rise
+  Soviet-built capital with one of the tallest flagpoles in the world. It is the gateway
+  to the spectacular Pamir Highway and the Fann Mountains. Rudaki Avenue is the leafy
+  spine of the city; the National Museum and bazaar are worth a wander.
+title: Dushanbe
+type: location
 ---
 
 Dushanbe is one of those capitals that surprises you by being more pleasant than expected. Its name means Monday in Tajik — a reference to the weekly bazaar that once defined the place — and until the Soviet railroad arrived in the 1920s, it was little more than a market village. The Soviets built it into a proper city: wide tree-lined boulevards, grand Stalinist facades, a leafy central park. The bones of that plan are still there, and on a sunny day the city is genuinely agreeable.

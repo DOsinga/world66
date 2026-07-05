@@ -11,6 +11,10 @@ tags:
 title: Triund
 type: poi
 score: 9.3
+image: triund.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Triund-trek-mcleodganj-himachal-pradesh-india.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Aliya Tour Packages
 ---
 
 Triund sits at 2,975 m at the foot of the Dhauladhar range, about 18 km from Dharamshala. On a clear day the views of the snow-capped peaks above and the Kangra Valley below are hard to beat.

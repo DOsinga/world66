@@ -18,7 +18,7 @@ title: Apaneca
 type: location
 ---
 
-Apaneca is the highest town on El Salvador's [Ruta de las Flores](/northamerica/elsalvador/santaana/ruta_de_las_flores), a cool coffee-country stop between Ahuachapan and Juayua. It is less polished than nearby Ataco and less food-focused than Juayua, which is part of its appeal: the town still feels like a working highland place rather than a weekend stage set.
+Apaneca is the highest town on El Salvador's [Ruta de las Flores](/northamerica/elsalvador/rutadelasflores), a cool coffee-country stop between Ahuachapan and Juayua. It is less polished than nearby Ataco and less food-focused than Juayua, which is part of its appeal: the town still feels like a working highland place rather than a weekend stage set.
 
 The best reason to linger is the landscape just outside town. [Laguna Verde](/northamerica/elsalvador/apaneca/laguna_verde) sits above the coffee farms, and the road out to it is now one of the classic short adventures on the Ruta, whether you go by mountain bike, buggy, ATV, or on foot. [Los Ausoles](/northamerica/elsalvador/apaneca/los_ausoles), a steaming geothermal field near Ahuachapan, makes a good rough-edged detour if you have transport.
 

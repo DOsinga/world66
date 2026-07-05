@@ -2,16 +2,23 @@
 done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-07
-  poi_cleanup: '2026-04-21'
   location_enrich: '2026-06-04'
+  poi_cleanup: '2026-04-21'
 image: banff.jpg
 image_attribution: DXR
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Banff_Ave,_Banff,_south_view_20240820_1.jpg
 latitude: 51.175076
+loc_type: city
 longitude: -115.572077
+quick_facts:
+  Born From: A hot spring
+  Elevation: 1,400 m
+  Established: 1885, Canada's first park
+  Lake Colour: Glacial rock flour
 score: 9.78
-tier: 3
+snippet: Rocky Mountain park town surrounded by Canada's first national park, hot
+  springs, elk, and alpine peaks
 tags:
 - mountains
 - skiing
@@ -20,11 +27,13 @@ tags:
 - hot_springs
 - wildlife
 - rockies
+tier: 3
+tip: Banff sits inside a national park, so you need a Parks Canada pass on your dashboard
+  — buy it before the gate. Lake Louise and Moraine Lake fill by sunrise in summer;
+  Moraine now requires a shuttle or you won't get a spot. The lakes glow turquoise
+  from glacial 'rock flour', brightest in July and August.
 title: Banff
-snippet: Rocky Mountain park town surrounded by Canada's first national park, hot
-  springs, elk, and alpine peaks
 type: location
-loc_type: city
 ---
 
 Banff is the most visited national park in Canada and one of the most spectacular mountain towns in the world. The town of roughly 8,000 permanent residents sits in a wide valley at 1,383 metres (4,537 ft) elevation, surrounded on all sides by the Canadian Rockies. Elk wander the streets in the early morning, bears cross the highway in autumn, and the mountains are never out of sight.

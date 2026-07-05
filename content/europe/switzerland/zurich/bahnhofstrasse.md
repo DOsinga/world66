@@ -5,12 +5,14 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Bahnhofstrasse-2019.jpg
 latitude: 47.372258
 longitude: 8.538436
+score: 8.2
 snippet: Zurich's grand shopping boulevard running from the station to the lake
 tags:
 - things_to_do
-- neighbourhood
+- city_lindenhof
+- landmark
 title: Bahnhofstrasse
-type: neighbourhood
+type: poi
 ---
 
 Bahnhofstrasse runs about 1.4 kilometres from the Hauptbahnhof straight down to the shore of Lake Zurich, following the course of what was once the Froschengraben (Frogs' Moat). It's the main commercial artery of the city — lined with banks, luxury watchmakers, and fashion houses — and consistently ranks among the most expensive retail streets in the world.

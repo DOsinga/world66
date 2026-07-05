@@ -8,9 +8,18 @@ image_source: https://commons.wikimedia.org/wiki/File:AshiNoKo.jpg
 latitude: 35.2
 loc_type: city
 longitude: 139.02
+quick_facts:
+  Black Eggs: '''7 extra years of life'''
+  Boats: Replica pirate ships
+  Lake Ashi: 723 m up, volcanic
+  Last Eruption: ~3,000 years ago
 score: 9.48
 snippet: Japanese hot spring resort in volcanic Hakone caldera, with Lake Ashi views
   toward Mount Fuji
+tip: Hakone is a hot-spring town in view of Mt Fuji — buy the Hakone Free Pass for
+  the loop of train, cable car, ropeway and 'pirate ship' across Lake Ashi. Fuji is
+  shy; clear-season mornings give the best odds. Many ryokan onsen require you to
+  bathe naked and cover tattoos, so check the rules first.
 title: Hakone
 type: location
 ---

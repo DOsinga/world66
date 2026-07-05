@@ -4,14 +4,15 @@ admission: ¥3,200 adults; reservation required
 latitude: 35.656389
 longitude: 139.741667
 opening_hours: Daily 9am–9pm
+score: 8.2
 snippet: Immersive digital art museum — Tokyo's most spectacular visual experience
 tags:
 - things_to_do
 - museum
+- roppongi
 title: teamLab Borderless
 type: poi
 url: borderless.teamlab.art
-score: 8.2
 ---
 
 teamLab Borderless is the most visited art museum in the world — an entirely digital experience with no boundaries between rooms or works, where the art flows through space and responds to the presence of visitors. The experience is genuinely disorienting and extraordinary: rooms filled with floating light, waterfall simulations, mirror mazes with drifting flowers, and audio-visual environments that change with the time of day.

@@ -5,7 +5,6 @@ longitude: 114.1544
 score: 5.7
 tags:
 - bars_and_cafes
-- hongkongisland
 - central
 - bar
 - lan_kwai_fong

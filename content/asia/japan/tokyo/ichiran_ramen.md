@@ -3,14 +3,15 @@ address: Multiple locations across Tokyo
 latitude: 35.658517
 longitude: 139.700424
 price_range: ¥900–1,400
+score: 6.3
 snippet: Solo ramen booth experience — one bowl, no distractions, perfection
 tags:
 - eating_out
 - restaurant
+- shibuya
 title: Ichiran Ramen
 type: poi
 url: www.ichiran.com
-score: 6.3
 ---
 
 Ichiran is a ramen chain built around a single idea: total focus on the bowl. You order from a vending machine, sit in a solo booth separated by wooden dividers, fill in a card indicating your preferred broth intensity, garlic level, and noodle firmness, and the bowl appears through a curtain. No eye contact with staff required. No decisions but the ramen.

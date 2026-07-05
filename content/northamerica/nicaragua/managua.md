@@ -9,9 +9,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Avenida_Bolivar_A_Chavez.j
 latitude: 12.1364
 loc_type: city
 longitude: -86.2514
+quick_facts:
+  No Real Downtown: Lost to a 1972 quake
+  On Lake Managua: A lakeside capital
+  Population: ~1 million
+  Tiscapa: A crater lagoon in the city
 score: 6.33
 snippet: Low-rise Nicaraguan capital on Lake Managua, reshaped by the 1972 earthquake
   and rough urban energy.
+tip: Managua is a low-rise, spread-out capital on a lake, with no real downtown —
+  a 1972 earthquake destroyed the old centre, and it was never fully rebuilt. Most
+  travellers pass through to colonial Granada and León. The lakefront Puerto Salvador
+  Allende and the Loma de Tiscapa crater lagoon are the main city sights. Use trusted
+  transport.
 title: Managua
 type: location
 ---

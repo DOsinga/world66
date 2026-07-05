@@ -10,9 +10,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Elmek_Nimir_Bridge.jpg
 latitude: 15.5636
 loc_type: city
 longitude: 32.5349
+quick_facts:
+  Name Means: '''Elephant''s trunk'' (the river bend)'
+  Nubian Pyramids: Nearby at Meroë
+  Population: ~6 million
+  Two Niles Meet: Blue and White join here
 score: 5.41
 snippet: Sudanese capital where the Blue and White Nile meet beside colonial Khartoum
   and older Omdurman.
+tip: Khartoum sits at the dramatic meeting of the Blue and White Niles — you can watch
+  the two differently coloured rivers merge. The Sudan has been wracked by conflict,
+  so check advisories carefully before any travel. In calmer times the National Museum's
+  Nubian treasures and the souk of Omdurman across the river are the highlights.
 title: Khartoum
 type: location
 ---

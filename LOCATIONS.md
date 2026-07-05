@@ -82,6 +82,34 @@ Examples:
 - **Patagonia** — Wind-scoured wilderness of glaciers, granite spires, and sheep estancias spanning the southern tip of Argentina and Chile
 - **France** — Europe's archetypal country: Atlantic and Mediterranean coasts, alpine villages, Loire châteaux, and the wine regions that define the western table
 
+## Quick facts
+
+A location's frontmatter may carry a `quick_facts:` block. Only add this if the city is a major travel destination and it's easy to find good facts. Never fabricate things.
+
+**The rule:** four facts per location — **two hard-data facts and two fun-but-true facts** — written as clean `key: value` pairs.
+
+- **Two hard-data facts.** Objective, verifiable figures the reader expects up top: population, currency, area, elevation, founding year, official language.
+- **Two fun-but-true facts.** A genuine, checkable curiosity that makes the place memorable — a record it holds, an unusual superlative, a quirk of geography or history. Fun, but never invented.
+
+Format rules:
+
+- Each entry is a **short attribute label → crisp value**. The key is the label (`Population`, `Founded`, `Highest Point`); the value is the answer (`2.1 million`, `1632`, `Mount Teide, 3,715 m`).
+- **Keys are distinct** within a location — no two facts share a label.
+- **Every value stands on its own.** Don't split one fact across the key and value as a continuation: write `Canals: 165 km, more than Venice`, never `More Canals: Than Venice`. The key names an attribute; the value is a complete answer.
+- Keep values tight — a figure plus at most a short qualifying clause, never a sentence.
+
+Example (Amsterdam):
+
+```yaml
+quick_facts:
+  Population: 920,000
+  Founded: c. 1275, as a dam on the Amstel
+  Canals: 165 km — more than Venice
+  Bicycles: 1 Million - more than residents
+```
+
+Two hard-data facts (population, founding), two fun-but-true (the canal length, the bicycle count), each a distinct label with a self-contained value.
+
 ## Sections
 
 Every location has sections - they are separate md files in the location folder. Sections are ordered alphabetically by filename slug — no `order` field needed. Not every location needs every section; a small town might only have an overview and a couple of sections.

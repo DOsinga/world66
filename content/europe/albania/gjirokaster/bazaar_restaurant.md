@@ -1,7 +1,12 @@
 ---
+latitude: 40.07425
+longitude: 20.13812
 score: 6.5
+sources:
+- https://www.indefiniteadventure.com/gjirokastraenjoy-the-old-bazaar-in-traditional-costumes/
 tags:
 - eating_out
+- restaurant
 title: Bazaar Restaurants
 type: poi
 ---

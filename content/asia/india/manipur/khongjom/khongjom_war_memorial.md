@@ -1,7 +1,11 @@
 ---
+latitude: 24.5135
+longitude: 94.0106
 score: 7.4
 tags:
 - things_to_do
+- sight
+- memorial
 title: Khongjom War Memorial
 type: poi
 ---

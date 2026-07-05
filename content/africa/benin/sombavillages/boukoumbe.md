@@ -1,13 +1,14 @@
 ---
-title: Boukoumbé
-type: poi
-tags:
-  - things_to_do
-  - sight
 latitude: 10.1833
 longitude: 1.1
+score: 7.0
 sources:
-  - https://en.wikipedia.org/wiki/Boukoumbé
+- https://en.wikipedia.org/wiki/Boukoumbé
+tags:
+- things_to_do
+- sight
+title: Boukoumbé
+type: poi
 ---
 
 Boukoumbé is the main commune town on the Beninese side of the Somba country, sitting almost on the Togo border in a basin ringed by rocky hills. The town itself is modest — a handful of cement-block streets, a Sunday market, a few small hotels, and the main administrative buildings for the commune. It is not really a destination in itself but the natural launching point for visiting the surrounding tata compounds.

@@ -1,7 +1,11 @@
 ---
+latitude: 56.9716
+longitude: 23.7981
 score: 6.8
 tags:
 - things_to_do
+- museum
+- historic_house
 title: Aspazija's House
 type: poi
 ---

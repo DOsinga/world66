@@ -1,13 +1,17 @@
 ---
-title: "Ixelles"
-type: poi
+latitude: 50.826
+longitude: 4.366
+snippet: Bohemian commune south of the centre with Art Nouveau streets and the best
+  restaurant scene
 tags:
-  - things_to_do
-  - neighbourhood
-latitude: 50.8260
-longitude: 4.3660
-snippet: Bohemian commune south of the centre with Art Nouveau streets and the best restaurant scene
-score: 8.6
+- things_to_do
+- neighbourhood
+title: Ixelles
+type: neighbourhood
+image: ixelles.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Abb.de_la_Cambre,_palais_abbatial.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Unknown
 ---
 
 The most interesting of Brussels' southern communes — a dense urban village with a significant student and artist population, excellent restaurants, and a scattering of Art Nouveau architecture that puts it on the Horta heritage trail. The area around Place du Châtelain and Place Flagey is where Brussels goes on a summer evening: terraces, a weekly food market on Wednesdays, and enough bar variety to sustain a long night.

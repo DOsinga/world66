@@ -1,7 +1,11 @@
 ---
+latitude: 33.0599
+longitude: 10.3391
 score: 5.0
 tags:
 - eating_out
+- restaurant
+- cafe
 title: Local cafes
 type: poi
 ---

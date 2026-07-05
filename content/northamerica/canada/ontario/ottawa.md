@@ -10,9 +10,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Parliament-Ottawa.jpg
 latitude: 45.4215
 loc_type: city
 longitude: -75.6972
+quick_facts:
+  Became Capital: '1857'
+  Population: ~1 million
+  Rideau Canal: World's largest skating rink
+  Tulip Festival: A million blooms each May
 score: 8.02
 snippet: Canadian capital on the Ottawa River, mixing Parliament Hill, national museums,
   and canal-side winter life.
+tip: Ottawa is Canada's bilingual capital, sitting across the river from French-speaking
+  Gatineau in Quebec. In winter the Rideau Canal freezes into the world's largest
+  skating rink — nearly 8 km of ice through the city. See the Gothic Parliament buildings
+  and the superb national museums. Time a visit for Winterlude or the spring tulip
+  festival.
 title: Ottawa
 type: location
 ---

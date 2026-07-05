@@ -2,6 +2,7 @@
 address: Western Bank, Sheffield S10 2TP
 latitude: 53.3797
 longitude: -1.4945
+score: 7.4
 snippet: Sheffield's main civic museum — local history, archaeology, and natural history
 tags:
 - things_to_do

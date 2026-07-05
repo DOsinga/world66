@@ -11,9 +11,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Conakry-ville2.JPG
 latitude: 9.51706
 loc_type: city
 longitude: -13.699843
+quick_facts:
+  Grand Mosque: One of Africa's largest
+  On a Peninsula: Long and narrow
+  Population: ~2 million
+  Îles de Los: Beach islands offshore
 score: 5.45
 snippet: Atlantic peninsula capital of Guinea, loud with markets, traffic, and one
   of West Africa's great music scenes.
+tip: Conakry stretches along a narrow peninsula and the Îles de Los lie just offshore
+  — take a boat out to Roume or Kassa for beaches. The city is crowded and the power
+  unreliable, so carry a torch and patience. The Botanical Garden and the Grand Mosque,
+  one of Africa's largest, are the main sights. French is essential.
 title: Conakry
 type: location
 ---

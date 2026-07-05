@@ -4,18 +4,28 @@ done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-05-21'
   poi_cleanup: '2026-04-19'
+image: belgrade.jpg
+image_attribution: Unknown
+image_license: CC BY-SA 2.5 pl
+image_source: https://commons.wikimedia.org/wiki/File:Belgrad2006parlament.jpg
 latitude: 44.8153
 loc_type: city
 longitude: 20.4457
+quick_facts:
+  Fought Over: Destroyed and rebuilt ~40 times
+  Population: ~1.4 million
+  River Clubs: Nightlife on floating barges
+  Rivers Meet: Sava & Danube
 score: 8.56
-title: Belgrade
-type: location
 snippet: Gritty Serbian capital at the Sava-Danube confluence, rebuilt around Kalemegdan
   fortress and river nightlife.
-image: belgrade.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Belgrad2006parlament.jpg
-image_license: CC BY-SA 2.5 pl
-image_attribution: Unknown
+tip: Belgrade sits where the Sava meets the Danube, crowned by the Kalemegdan fortress
+  — the best free sunset in the city. It has been fought over and rebuilt dozens of
+  times, and that resilience fuels its famous nightlife, much of it on river barges
+  (splavovi) moored along the banks. It is affordable, gritty and warm; the café culture
+  runs all day.
+title: Belgrade
+type: location
 ---
 
 Belgrade is the capital of Serbia, a city of around 1.3 million people perched on the confluence of the Sava and the Danube — one of the most strategic river junctions in Europe, and one that has been fought over and rebuilt so often (forty-odd times, by most counts) that the layered, slightly battered character of the old city is part of its identity. It is neither as pretty as Prague nor as polished as Vienna, and it doesn't pretend to be. It is gritty, raucous, fiercely proud, and has one of the best nightlife scenes in Europe. It has become, in the last decade or so, one of the more compelling city breaks in the Balkans.

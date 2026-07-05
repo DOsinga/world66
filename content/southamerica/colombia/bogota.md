@@ -3,6 +3,7 @@ done:
   city_tag_migration: '2026-04-17'
   location_cleanup: 2026-04-02
   location_enrich: '2026-06-02'
+  major_city_neighborhoods: '2026-06-26'
   poi_cleanup: '2026-04-21'
 image: bogota.jpg
 image_attribution: Bernard Gagnon
@@ -11,9 +12,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Capitalio_National_de_Colo
 latitude: 4.711
 loc_type: city
 longitude: -74.0721
+quick_facts:
+  Ciclovía: Streets close for cyclists on Sundays
+  Elevation: 2,640 m
+  Gold Museum: 55,000 pre-Hispanic pieces
+  Population: ~8 million
 score: 8.47
 snippet: High Andean capital where colonial La Candelaria, street art, and glass towers
   sit at 2,640 metres
+tip: Bogotá sprawls across a high Andean plateau at 2,640 m, so it's cool year-round
+  and the altitude can leave you breathless at first. Ride the funicular or cable
+  car up Monserrate for the view over the endless city. The Gold Museum and the cobbled
+  Candelaria old town are essential. On Sundays, miles of streets close to cars for
+  the Ciclovía.
 title: Bogota
 type: location
 ---

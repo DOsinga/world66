@@ -12,9 +12,18 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49
 latitude: 3.151696
 loc_type: city
 longitude: 101.694237
+quick_facts:
+  Batu Caves: Temple up 272 steps
+  Name Means: '''Muddy confluence'''
+  Petronas Towers: 452 m, once world's tallest
+  Population: ~1.8 million
 score: 9.12
 snippet: Malaysian capital at the Klang-Gombak confluence, layered with colonial streets,
   rainforest parks, and glass towers.
+tip: Kuala Lumpur — 'KL' — grew up where two muddy rivers meet (that's what the name
+  means). The Petronas Twin Towers are the icon; book the skybridge ahead. The monorail
+  and LRT beat the heat and traffic. Eat your way through Jalan Alor's hawker stalls
+  and the Indian and Chinese quarters. The Batu Caves temple is a short ride north.
 title: Kuala Lumpur
 type: location
 ---

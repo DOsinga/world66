@@ -1,10 +1,14 @@
 ---
+latitude: 10.7983
+longitude: 122.9753
+score: 6.9
+tags:
+- eating_out
+- shopping
+- bakery
+- sweets
 title: Silay Native Sweets and Delicacies
 type: poi
-tags:
-  - eating_out
-  - shopping
-score: 6.9
 ---
 
 Silay is one of the best places in the Philippines to buy traditional kakanin and pastries, and doing so is part of any proper visit. The city's sugar industry produced not just industrial wealth but a sophisticated local sweet-making tradition that survives in bakeries and market stalls throughout the heritage district.

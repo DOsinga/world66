@@ -1,7 +1,11 @@
 ---
+latitude: 5.1162
+longitude: -74.4513
 score: 5.3
 tags:
 - eating_out
+- restaurant
+- local_food
 title: Camp Restaurants and Local Fondas
 type: poi
 ---

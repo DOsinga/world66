@@ -55,7 +55,7 @@ Sierra Railroad and Oakdale antiquing are just 25 minutes away from Manteca via 
 
 url: [www.sierrarailroad.com](http://www.sierrarailroad.com)
 
-### [San Jose](/northamerica/unitedstates/california/centralvalley/manteca/day_trips/san_jose)
+### [San Jose](/northamerica/unitedstates/california/sanjose)
 
 An hour away with such attractions as a Tech Museum of Innovation celebrating the birth of high-tech, one of the original 18th Century California Missions, Winchester Mystery House, and Great America.
 

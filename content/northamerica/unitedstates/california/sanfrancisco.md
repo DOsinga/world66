@@ -17,9 +17,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_and_San
 latitude: 37.7749
 loc_type: city
 longitude: -122.4194
+quick_facts:
+  Cable Cars: Only moving US landmark
+  Hills: Built on 50+
+  Population: 810,000
+  The Fog: Nicknamed 'Karl'
 score: 9.69
 snippet: Hilly Pacific port city where fog, Victorian streets, and bay views define
   northern California's imagination
+tip: Layer up — San Francisco summers are famously cold and foggy (locals call the
+  fog 'Karl'), and the warmest months are September and October. Skip driving downtown;
+  Muni and BART beat parking. Walk or bike the Golden Gate Bridge early, before the
+  fog and crowds roll in.
 title: San Francisco
 type: location
 ---

@@ -10,11 +10,21 @@ image_source: https://commons.wikimedia.org/wiki/File:Abu_dhabi_skylines_2014.jp
 latitude: 24.4539
 loc_type: city
 longitude: 54.3773
+quick_facts:
+  Built On: An island
+  Grand Mosque: Holds 40,000 worshippers
+  Louvre Abu Dhabi: Under a vast silver dome
+  Population: ~1.5 million
 score: 8.48
-title: Abu Dhabi
-type: location
 snippet: United Arab Emirates capital on a Gulf island, with federal institutions
   and Bani Yas roots.
+tip: Abu Dhabi is the UAE's wealthy, calmer capital — more measured than neighbouring
+  Dubai. The breathtaking Sheikh Zayed Grand Mosque, with room for 40,000 worshippers,
+  is the must-see (dress modestly; it's free). The Louvre Abu Dhabi, the Corniche
+  beach and Ferrari World are the other draws. Summers are brutally hot, so plan for
+  indoor air-con.
+title: Abu Dhabi
+type: location
 ---
 
 Abu Dhabi is the capital of the United Arab Emirates and the seat of its federal government. It sits on a T-shaped island jutting into the Persian Gulf, connected to the mainland by three bridges. First settled in the 18th century by the Bani Yas tribe, who found fresh water there — Abu Dhabi translates roughly as "land of the gazelle" — the city has transformed beyond recognition since oil was discovered in 1958.

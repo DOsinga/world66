@@ -5,8 +5,8 @@ tags:
   - things_to_do
   - sight
   - garden
-latitude: 19.7190
-longitude: -155.0680
+latitude: 19.7267
+longitude: -155.0683
 address: Banyan Drive, Hilo, HI 96720
 snippet: The largest Japanese garden outside Japan, built to honour Hawaii's immigrant workers
 story: >

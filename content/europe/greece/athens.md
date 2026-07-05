@@ -2,6 +2,7 @@
 done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-05-15'
+  major_city_neighborhoods: '2026-06-26'
 image: athens.jpg
 image_attribution: A.Savin
 image_license: CC BY-SA 3.0
@@ -9,6 +10,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Attica_06-13_Athens_50_Vie
 latitude: 37.975565
 loc_type: city
 longitude: 23.734832
+quick_facts:
+  Acropolis: 2,500 years old
+  Birthplace Of: Democracy
+  Inhabited: 3,400+ years
+  Metro: A museum of dug-up finds
 score: 9.58
 snippet: Ancient Greek capital where the Acropolis rises above hot streets, concrete
   districts, and layered neighbourhoods
@@ -18,6 +24,10 @@ tags:
 - museums
 - architecture
 tier: 1
+tip: Climb the Acropolis at opening or in the last hour — midday sun on the marble
+  is brutal and shadeless. The combo ticket covers seven ancient sites, so don't pay
+  separately. Skip the tavernas right under the Acropolis and eat in Psyrri or Exarchia
+  instead. The metro doubles as a museum of finds dug up during construction.
 title: Athens
 type: location
 ---

@@ -11,6 +11,8 @@ tags:
 sources:
   - https://en.wikivoyage.org/wiki/Mayrhofen
   - https://en.wikipedia.org/wiki/Mayrhofen
+latitude: 47.142
+longitude: 11.875
 ---
 
 Ahorn rises from the south end of Mayrhofen and feels calmer than Penken. It is the better choice for broad views, easier ski days, and summer walks where the point is being above the valley rather than chasing a long route.

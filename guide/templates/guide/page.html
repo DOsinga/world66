@@ -378,6 +378,13 @@
     </a>
     {% endfor %}
   </div>
+  {% if more_linked_locations %}
+  <div class="dest-more">
+    {% for loc in more_linked_locations %}
+    <a href="{{ loc.get_absolute_url }}" class="dest-more-link">{{ loc.title }}</a>
+    {% endfor %}
+  </div>
+  {% endif %}
 </div>
 {% endif %}
 

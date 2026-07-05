@@ -10,6 +10,7 @@ tags:
 sources:
 - https://visit-toyama-japan.com/en/places-to-go/11009
 - https://www.ana.co.jp/en/us/japan-travel-planner/toyama/0000002.html
+score: 7.3
 ---
 
 Fugan Canal Kansui Park turns the old canal basin north of Toyama Station into the city's best open space. Come for an easy walk along the water, the view from Tenmon-kyo Bridge, and, on clear days, the line of the Tateyama mountains beyond the lawns.

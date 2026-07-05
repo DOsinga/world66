@@ -10,6 +10,8 @@ tags:
 sources:
 - https://www.fiji.travel/places-to-go/coral-coast/places/sigatoka-markets
 - https://sigatokatown.com.fj/tourist-information/
+latitude: -18.142
+longitude: 177.507
 ---
 
 Sigatoka Market is the easiest place to feel the town's everyday life. Stalls fill with produce from the valley: seasonal fruit, vegetables, herbs, kava, and fish, plus the small practical goods that keep the town moving.

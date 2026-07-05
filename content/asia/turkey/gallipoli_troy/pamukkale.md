@@ -9,9 +9,13 @@ latitude: 37.92
 loc_type: city
 longitude: 29.1218
 score: 9.23
-title: Pamukkale
 snippet: Turkish spa village below white travertine terraces and the Greco-Roman ruins
   of Hierapolis.
+sources:
+- https://en.wikipedia.org/wiki/Pamukkale
+- https://en.wikipedia.org/wiki/Hierapolis
+- https://en.wikipedia.org/wiki/Ploutonion_at_Hierapolis
+title: Pamukkale
 type: location
 ---
 

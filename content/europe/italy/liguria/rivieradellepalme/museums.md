@@ -1,9 +1,9 @@
 ---
 latitude: 39.868249
 longitude: 16.526308
-title: Museums in Riviera delle Palme
-type: poi
 score: 6.8
+title: Museums in Riviera delle Palme
+type: section
 ---
 
 ### MUSEO DEL VETRO E DELL’ARTE

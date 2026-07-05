@@ -10,6 +10,8 @@ tags:
 sources:
   - https://en.wikivoyage.org/wiki/Ranua
   - https://en.wikipedia.org/wiki/Ranua
+latitude: 65.93
+longitude: 26.52
 ---
 
 The Simojoki carries water from Lake Simojarvi toward the Baltic and is one of the rare Finnish rivers still known for a natural Baltic salmon population. That makes it more than just another brown river through the forest.

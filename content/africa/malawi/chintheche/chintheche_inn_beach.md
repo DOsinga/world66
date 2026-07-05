@@ -1,7 +1,12 @@
 ---
+latitude: -11.8817
+longitude: 34.1696
 score: 6.5
 tags:
 - things_to_do
+- sight
+- beach
+- swimming
 title: Chintheche Inn Beach
 type: poi
 ---

@@ -12,6 +12,7 @@ tags:
 - cave
 title: Gilindire Cave
 type: poi
+score: 7.6
 ---
 
 Gilindire Cave, also called Aynalıgöl Cave, is the standout sight near Aydıncık. Stairs lead down from the coastal cliffs into a 555-metre cave filled with dripstone formations, ending at a still lake that reflects the stone roof like glass.

@@ -1,13 +1,15 @@
 ---
 address: 4thst and 23rd ave sw
+latitude: 51.0324
+longitude: -114.0715
 price: 10$--24$ per person
+score: 4.5
 tags:
 - eating_out
 - restaurant
 - bar
 title: Earls
 type: poi
-score: 4.5
 ---
 
 FOOOD! Has a great variety of foods to fit your needs.Is equipped with

@@ -1,11 +1,14 @@
 ---
-snippet: The main square of the old town, flanked by arcaded buildings and a baroque town hall
+latitude: 42.3357
+longitude: -7.8639
+score: 7.1
+snippet: The main square of the old town, flanked by arcaded buildings and a baroque
+  town hall
 tags:
 - things_to_do
-- landmark
+- sight
 title: Praza Maior
 type: poi
-score: 7.1
 ---
 
 Ourense's Praza Maior is the heart of the old town and one of the more handsome squares in Galicia, ringed by arcaded buildings in characteristic Galician granite. The baroque town hall closes one end; the market building another. The square has been the commercial centre of the city since the medieval period and still functions as a meeting place and the focal point of local festivals.

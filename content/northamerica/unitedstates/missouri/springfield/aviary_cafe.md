@@ -1,7 +1,10 @@
 ---
+latitude: 37.1378
+longitude: -93.2554
 score: 5.3
 tags:
 - bars_and_cafes
+- cafe
 title: Aviary Café
 type: poi
 ---

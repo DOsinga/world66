@@ -1,7 +1,15 @@
 ---
+latitude: 39.333
+longitude: 26.6568
 score: 8.5
+sources:
+- https://en.wikipedia.org/wiki/Ayval%C4%B1k
+- https://newlinesmag.com/reportage/the-untold-story-of-turkeys-cunda-island/
 tags:
 - things_to_do
+- sight
+- island
+- architecture
 title: Cunda Island (Alibey Adası)
 type: poi
 ---

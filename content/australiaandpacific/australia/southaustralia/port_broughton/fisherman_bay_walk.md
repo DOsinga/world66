@@ -11,6 +11,8 @@ tags:
 sources:
   - https://southaustralia.com/products/yorke-peninsula/attraction/port-broughton-to-fisherman-bay-walk
   - https://www.topoftheyorke.com.au/trails/port-broughton-to-fisherman-bay
+latitude: -33.589
+longitude: 137.929
 ---
 
 The walk to Fisherman Bay follows the coast north from Port Broughton Jetty, passing boat ramps, tidal flats, low peninsulas, and the small holiday settlement at the far end.

@@ -12,6 +12,8 @@ sources:
   - https://visitgriffith.com.au/maps-and-guides/hermits-cave-heritage-trail/
   - https://www.griffith.nsw.gov.au/Visitors/History-and-heritage/Scenic-hill-and-Hermits-Cave
   - https://en.wikipedia.org/wiki/Hermit%27s_Cave
+latitude: -34.3176
+longitude: 146.0441
 ---
 
 Hermit's Cave is not one cave but a line of shelters, walls, paths, garden terraces, and lookouts built into Scenic Hill by Valerio Ricetti, an Italian migrant who lived here for years. It is one of Griffith's most memorable places because the labour is so personal: stone moved by hand, a private world made on a public ridge.

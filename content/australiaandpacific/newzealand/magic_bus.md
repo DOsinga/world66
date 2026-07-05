@@ -1,13 +1,13 @@
 ---
 done:
   poi_cleanup: '2026-04-20'
+score: 5.4
 snippet: Mid-range backpacker hop-on hop-off bus network
 tags:
 - getting_around
 title: Magic Bus
-type: poi
+type: theme
 url: www.magicbus.co.nz
-score: 5.4
 ---
 
 Magic is one of the three major backpacker bus companies in New Zealand and sits in the middle ground between the party-focused Kiwi Experience and the pricier Stray Travel.

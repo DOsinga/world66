@@ -2,6 +2,7 @@
 address: Calea Victoriei 12, Bucharest
 latitude: 44.4315
 longitude: 26.0972
+score: 8.2
 snippet: Romanian gold treasures and a full-scale cast of Trajan's Column
 story: The museum holds the Pietroasele treasure — a 4th-century Gothic gold hoard
   of twelve pieces including a 19-kilogram gold dish — which was buried with the conquering

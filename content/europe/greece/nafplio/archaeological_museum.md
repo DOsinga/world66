@@ -1,9 +1,12 @@
 ---
-title: Archaeological Museum of Nafplio
-type: poi
-tags: [things_to_do, museum]
 latitude: 37.5661
 longitude: 22.7961
+score: 7.5
+tags:
+- things_to_do
+- museum
+title: Archaeological Museum of Nafplio
+type: poi
 ---
 
 The Archaeological Museum occupies a beautiful eighteenth-century Venetian arsenal on the north side of Syntagma Square. It is a small museum but a focused one: the collection covers the prehistoric and Mycenaean periods of the Argolid, and most of what you see was excavated within an hour's drive of Nafplio.

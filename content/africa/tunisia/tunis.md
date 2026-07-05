@@ -11,9 +11,18 @@ image_source: https://commons.wikimedia.org/wiki/File:TunisAveHabibBourguiba.jpg
 latitude: 36.8065
 loc_type: city
 longitude: 10.1815
+quick_facts:
+  Bardo Museum: World's top Roman mosaics
+  Founded: Antiquity, near Carthage
+  Population: ~640,000
+  Sidi Bou Saïd: Blue-and-white clifftop village
 score: 8.22
 snippet: Layered Tunisian capital where a UNESCO medina meets French-built boulevards
   and nearby Carthage ruins
+tip: Tunis pairs a labyrinthine medieval medina with a French-built 'Ville Nouvelle'
+  of wide avenues. The ruins of ancient Carthage and the blue-and-white cliff village
+  of Sidi Bou Saïd are a short train ride away on the TGM line. The Bardo Museum holds
+  the world's finest Roman mosaics. The medina is a UNESCO site; haggle politely.
 title: Tunis
 type: location
 ---

@@ -1,7 +1,13 @@
 ---
+latitude: 37.940239
+longitude: 58.377504
 score: 4.5
+sources:
+- https://en.wikipedia.org/wiki/Grand_Turkmen_Hotel
 tags:
 - bars_and_cafes
+- bar
+- hotel_bar
 title: Grand Turkmen Hotel Bar
 type: poi
 ---

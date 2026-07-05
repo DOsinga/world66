@@ -1,17 +1,17 @@
 ---
 done:
   poi_cleanup: '2026-04-19'
-latitude: -1.3714
-longitude: 36.7892
+latitude: -1.37778
+longitude: 36.77305
+neighbourhood: Langata
+score: 8.5
 snippet: Elephant orphanage with daily public feeding sessions
 tags:
 - things_to_do
 - day_trips
 - langata
-neighbourhood: Langata
 title: David Sheldrick Wildlife Trust
 type: poi
-score: 8.5
 image: david_sheldrick_wildlife_trust.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Tourists_viewing_orphaned_elephants_at_Sheldrick_Wildlife_Trust,_Nairobi,_Kenya.jpg
 image_license: CC BY-SA 4.0

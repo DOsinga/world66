@@ -1,7 +1,10 @@
 ---
+latitude: 37.0207
+longitude: -93.2058
 score: 6.4
 tags:
 - eating_out
+- restaurant
 title: Lambert's Café
 type: poi
 ---

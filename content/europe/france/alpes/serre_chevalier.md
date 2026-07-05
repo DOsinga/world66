@@ -5,13 +5,18 @@ loc_type: feature
 latitude: 44.944
 longitude: 6.5667
 score: 7.4
-snippet: High Alpine ski valley linking Briancon, Chantemerle, Villeneuve, and Le Monetier-les-Bains.
+snippet: High Alpine ski valley linking Briancon, Chantemerle, Villeneuve, and Le
+  Monetier-les-Bains.
 wikidata: Q2274046
 sources:
-  - https://en.wikivoyage.org/wiki/Serre-Chevalier
-  - https://www.serre-chevalier.com/en
-  - https://www.serre-chevalier.com/en/activities/wellness-and-fitness/grands-bains-monetier
-  - https://www.serre-chevalier.com/en/go-out/animations/passes-reserved-cyclists-col-granon
+- https://en.wikivoyage.org/wiki/Serre-Chevalier
+- https://www.serre-chevalier.com/en
+- https://www.serre-chevalier.com/en/activities/wellness-and-fitness/grands-bains-monetier
+- https://www.serre-chevalier.com/en/go-out/animations/passes-reserved-cyclists-col-granon
+image: serre_chevalier.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Alps_location_map.png
+image_license: CC BY-SA 3.0
+image_attribution: Lencer
 ---
 
 Serre-Chevalier is not a single village so much as a long, high Alpine playground in the Guisane valley. It runs from the fortified town of Briancon through Chantemerle and Villeneuve to Le Monetier-les-Bains, with ski lifts climbing the sunny slopes above the valley and the wild edge of the Ecrins close by.

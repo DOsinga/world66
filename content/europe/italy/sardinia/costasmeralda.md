@@ -5,9 +5,9 @@ image: costasmeralda.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Sardinia,_Olbia,_Aeroporto_Olbia_Costa_Smeralda_(check_in).jpg
 latitude: 40.899377
-loc_type: region
+loc_type: feature
 longitude: 9.517747
-score: 0.74
+score: 7.9
 snippet: Northeastern Sardinian coast developed as a planned resort area around granite
   coves and turquoise water.
 title: Costa Smeralda
@@ -21,5 +21,5 @@ Porto Cervo, the coast's main resort, centres on a superyacht marina that regula
 
 ## Destinations in Costa Smeralda
 
-[Porto Rotondo](/europe/italy/sardinia/costasmeralda/portorotondo)
-[Porto Cervo](/europe/italy/sardinia/costasmeralda/portocervo)
+[Porto Rotondo](/europe/italy/sardinia/portorotondo)
+[Porto Cervo](/europe/italy/sardinia/portocervo)

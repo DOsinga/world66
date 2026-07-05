@@ -1,7 +1,12 @@
 ---
+latitude: 37.173023
+longitude: -93.32853
 score: 6.5
 tags:
 - things_to_do
+- sight
+- park
+- garden
 title: Nathanael Greene/Close Memorial Park and Japanese Stroll Garden
 type: poi
 ---

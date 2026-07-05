@@ -1,7 +1,12 @@
 ---
+latitude: 37.1814
+longitude: -93.2965
 score: 7.7
 tags:
 - things_to_do
+- sight
+- shopping
+- museum
 title: Bass Pro Shops Outdoor World
 type: poi
 ---

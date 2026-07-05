@@ -1,8 +1,7 @@
 ---
 title: Things to do in Westport
-type: poi
+type: section
 url: charterwestport.com
-score: 4.8
 ---
 
 There are many things to do during a visit to Westport

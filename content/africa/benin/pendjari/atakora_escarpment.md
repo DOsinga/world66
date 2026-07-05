@@ -1,12 +1,13 @@
 ---
+latitude: 10.8
+longitude: 1.4
+score: 7.2
+tags:
+- things_to_do
+- sight
+- nature
 title: Atakora Escarpment
 type: poi
-tags:
-  - things_to_do
-  - sight
-  - nature
-latitude: 10.80
-longitude: 1.40
 ---
 
 The southern edge of Pendjari is hemmed in by the Atakora mountains — really an escarpment of weathered sandstone and quartzite that runs across northwestern Benin and into Togo. From the park side, you see them as a wall of green hills rising abruptly out of the savanna; from the southern side, around Natitingou and the Somba villages, they are a landscape of rocky ridges, gallery forest, and small farming valleys.

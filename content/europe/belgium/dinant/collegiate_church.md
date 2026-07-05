@@ -2,6 +2,7 @@
 address: Place Reine Astrid 1, 5500 Dinant
 latitude: 50.261
 longitude: 4.912
+score: 8.9
 snippet: 13th-century Gothic church with a distinctive bulbous bell tower
 story: The original Romanesque church was crushed in 1227 when a fragment of the limestone
   cliff above broke loose and fell on it. The 13th-century Gothic replacement is more

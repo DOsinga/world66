@@ -7,7 +7,8 @@ type: section
 
 **{Pagsanjan Falls}**
 
-Best done in november when there is enpough water. Take a ride in dugout canoes over the rapids.  
+Best done in november when there is enpough water. Take a ride in dugout canoes over the rapids. 
+ 
 
 **Lake Taal**
 

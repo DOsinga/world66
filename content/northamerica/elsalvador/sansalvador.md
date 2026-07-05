@@ -9,9 +9,19 @@ image_source: https://www.flickr.com/photos/35385832@N05/42383473791
 latitude: 13.6929
 loc_type: city
 longitude: -89.2182
+quick_facts:
+  Below a Volcano: Volcán de San Salvador
+  Bitcoin: Legal tender nationwide
+  Joya de Cerén: '''Pompeii of the Americas'' nearby'
+  Population: ~1.8 million (metro)
 score: 6.51
 snippet: Highland Salvadoran capital below San Salvador Volcano, rebuilt around markets,
   malls, and a compact historic centre
+tip: San Salvador sits in a valley beneath the Volcán de San Salvador, which you can
+  drive up for views into its crater. El Salvador has transformed its security in
+  recent years and adopted Bitcoin as legal tender. The city is a base for surfing
+  beaches and volcano hikes; the Ruta de las Flores and the Mayan ruins of Joya de
+  Cerén are nearby.
 title: San Salvador
 type: location
 ---

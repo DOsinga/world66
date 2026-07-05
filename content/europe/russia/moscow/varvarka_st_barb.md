@@ -1,9 +1,17 @@
 ---
 address: Varvarka Street, Metro station 'Kitai Gorod'
 category: Sight
-title: arbat
-type: poi
+latitude: 55.7512
+longitude: 37.6313
 score: 7.5
+sources:
+- https://yandex.com/maps/213/moscow/house/ulitsa_varvarka_6s4/Z04YcARhSkcBQFtvfXt0cH5jbQ%3D%3D/
+tags:
+- things_to_do
+- sight
+- architecture
+title: Varvarka Street
+type: poi
 ---
 
 In soviet times it was named *ulitsa Razina* (Razin Street)

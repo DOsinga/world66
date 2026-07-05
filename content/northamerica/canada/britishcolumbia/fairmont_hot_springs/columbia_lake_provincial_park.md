@@ -10,6 +10,8 @@ tags:
 sources:
   - https://en.wikipedia.org/wiki/Fairmont_Hot_Springs,_British_Columbia
   - https://bcparks.ca/columbia-lake-park/
+latitude: 50.272
+longitude: -115.853
 ---
 
 Columbia Lake Provincial Park protects a quiet piece of the lake south of Fairmont, near the headwaters country of the Columbia River system. It is a simple nature stop rather than a full-service park, best for a picnic, lake views, and birdlife along the valley floor.

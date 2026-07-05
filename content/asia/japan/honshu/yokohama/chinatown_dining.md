@@ -1,7 +1,12 @@
 ---
+latitude: 35.4436
+longitude: 139.6464
 score: 6.8
 tags:
 - eating_out
+- chinatown
+- restaurant
+- chinese
 title: 'Chinatown: Dim Sum and Chinese Cuisine'
 type: poi
 ---

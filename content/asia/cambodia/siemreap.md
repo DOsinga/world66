@@ -9,9 +9,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Front_porch_of_Wat_Damnak.
 latitude: 13.361756
 loc_type: city
 longitude: 103.859032
+quick_facts:
+  Angkor Wat: Built 12th century
+  Ta Prohm: The Tomb Raider temple
+  Temples: 1,000+
+  World's Largest: Religious monument
 score: 9.42
 snippet: Compact Cambodian city on the Siem Reap River, gateway to Angkor’s vast medieval
   temple landscape.
+tip: Siem Reap is the base for Angkor — buy a multi-day pass and beat the sunrise
+  crush at Angkor Wat by hitting other temples first, or watch dawn from a quieter
+  spot. Hire a knowledgeable tuk-tuk driver for the day. Ta Prohm is the jungle-strangled
+  'Tomb Raider' temple. Dress modestly or you'll be turned away from the upper levels.
 title: Siem Reap
 type: location
 ---

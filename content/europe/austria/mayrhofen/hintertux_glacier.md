@@ -11,6 +11,8 @@ tags:
 sources:
   - https://en.wikivoyage.org/wiki/Mayrhofen
   - https://en.wikipedia.org/wiki/Mayrhofen
+latitude: 47.055
+longitude: 11.68
 ---
 
 Hintertux Glacier is not in Mayrhofen, but it is part of why Mayrhofen works as a serious mountain base. The glacier sits high above the Tux valley and extends the area's ski logic beyond the normal winter season.

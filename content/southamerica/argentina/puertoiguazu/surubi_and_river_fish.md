@@ -1,7 +1,12 @@
 ---
+latitude: -25.5996
+longitude: -54.5721
 score: 6.7
 tags:
 - eating_out
+- restaurant
+- seafood
+- local_food
 title: Surubí and River Fish
 type: poi
 ---

@@ -3,10 +3,15 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 57.802346
 longitude: -5.254253
+score: 9.2
 snippet: Dramatic Torridon ridge walk with famous pinnacle traverse
+tags:
+- things_to_do
+- sight
+- hiking
+- mountain
 title: An Teallach
 type: poi
-score: 9.2
 ---
 
 An Teallach ("The Forge") is widely regarded as the finest mountain in Scotland — a long, serrated ridge of red Torridonian sandstone that rises above Dundonell on the south shore of Little Loch Broom. The standard approach starts from the A832 near Dundonell Hotel and climbs to Coire Toll an Lochain, a spectacular corrie enclosed by near-vertical walls. The walk to the corrie and back is worthwhile in itself and accessible to any fit hillwalker.

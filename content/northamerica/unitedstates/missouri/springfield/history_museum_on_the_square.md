@@ -1,7 +1,11 @@
 ---
+latitude: 37.2086
+longitude: -93.2921
 score: 6.6
 tags:
 - things_to_do
+- museum
+- history
 title: History Museum on the Square
 type: poi
 ---

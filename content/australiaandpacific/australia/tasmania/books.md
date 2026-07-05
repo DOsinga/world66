@@ -5,11 +5,14 @@ type: section
 
 Here are some books that to assist you in planning a Tasmanian Holiday. Most of them are available from Amazon.com, don't forget to tell 'em who sent ya!
 
- The stories by Richard Flanagan are semi-historical, so they are a good way to learn about the history while also reading a great novel. They should also give you a taste of the mood known as "Tasmanian Gothic".
 
- Thomas' book is a must for those planning a hiking holiday in Tasmania, it gives good route descriptions and walk times. Maps referenced are usuall Tasmaps - if unavailable in stores you can buy them from the Lands Department in Hobart.
+ The stories by Richard Flanagan are semi-historical, so they are a good way to learn about the history while also reading a great novel. They should also give you a taste of the mood known as "Tasmanian Gothic".
 
- The sailing books should convince you that sailing in Tasmanian waters is not for the unitiated, but don't let them put you off ...
+
+ Thomas' book is a must for those planning a hiking holiday in Tasmania, it gives good route descriptions and walk times. Maps referenced are usuall Tasmaps - if unavailable in stores you can buy them from the Lands Department in Hobart.
+
+
+ The sailing books should convince you that sailing in Tasmanian waters is not for the unitiated, but don't let them put you off ...
 
 **all**
 

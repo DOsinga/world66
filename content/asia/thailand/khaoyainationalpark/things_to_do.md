@@ -4,10 +4,10 @@ email: tours@tontantravel.com
 latitude: 14.897192
 longitude: 100.83273
 phone: +66 (0)87 87 45 794
-title: Things to do in Khao yai national park
-type: poi
-url: www.tontantravel.com
 score: 3.2
+title: Things to do in Khao yai national park
+type: section
+url: www.tontantravel.com
 ---
 
 Khao Yai national park is one of the most accessible national parks of Thailand. And more importantly, it is one of the best parks to see wildlife. There are many things to do in the park ranging from hiking, birding, nature photography, herping (reptile watching), night safaris and more. Below you find a selection of the activities.

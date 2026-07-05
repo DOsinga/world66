@@ -1,13 +1,14 @@
 ---
-title: Tanguiéta
-type: poi
-tags:
-  - things_to_do
-  - sight
 latitude: 10.6167
 longitude: 1.2667
+score: 6.0
 sources:
-  - https://en.wikipedia.org/wiki/Tanguiéta
+- https://en.wikipedia.org/wiki/Tanguiéta
+tags:
+- things_to_do
+- sight
+title: Tanguiéta
+type: poi
 ---
 
 Tanguiéta is the practical gateway to Pendjari — a small commercial town of around 75,000 people in the wider commune, sitting where the road from Natitingou meets the route into the park. It is not a destination in itself, but almost every Pendjari visitor stops here first to fix permits, pick up a park guide, fuel up, and grab a meal. The handful of small hotels along the main street provide simple but workable rooms, and a couple of restaurants do passable West African food and cold beer.

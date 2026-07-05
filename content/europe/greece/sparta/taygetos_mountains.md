@@ -1,9 +1,12 @@
 ---
-title: Taygetos Mountains
-type: poi
-tags: [things_to_do, nature]
 latitude: 36.9528
 longitude: 22.3597
+score: 8.0
+tags:
+- things_to_do
+- nature
+title: Taygetos Mountains
+type: poi
 ---
 
 The Taygetos is the long, sharp mountain range that walls in the western side of the Eurotas valley and looms over Sparta on the horizon. Its highest peak, Profitis Ilias, reaches 2,407 metres — the second-highest summit in the Peloponnese — and holds snow into June most years.

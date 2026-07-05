@@ -1,4 +1,6 @@
 ---
+latitude: 49.3777
+longitude: 10.1773
 score: 7.0
 tags:
 - eating_out

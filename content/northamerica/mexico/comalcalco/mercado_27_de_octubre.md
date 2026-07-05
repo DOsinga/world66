@@ -8,6 +8,7 @@ tags:
   - market
 title: "Mercado 27 de Octubre"
 type: poi
+score: 6.3
 ---
 
 Mercado 27 de Octubre is Comalcalco's everyday market, useful for fruit, snacks, cheese, household goods, and a quick look at ordinary city life away from the ruins. It is not a grand historic market, but it is practical and local.

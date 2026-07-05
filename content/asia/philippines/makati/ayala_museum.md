@@ -1,7 +1,12 @@
 ---
+latitude: 14.5536
+longitude: 121.0232
 score: 8.4
 tags:
 - things_to_do
+- museum
+- history
+- art
 title: Ayala Museum
 type: poi
 ---

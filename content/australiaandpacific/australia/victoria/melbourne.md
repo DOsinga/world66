@@ -11,9 +11,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Melbourne_
 latitude: -37.8142
 loc_type: city
 longitude: 144.9632
+quick_facts:
+  Free Tram Zone: In the city centre
+  Laneways: Cafés and street art hide here
+  MCG: Holds 100,000 spectators
+  Population: ~5 million
 score: 9.32
 snippet: Australian cultural city of laneways, street art, immigrant food districts,
   and intense sporting loyalties
+tip: 'Melbourne is Australia''s coffee-and-culture capital, and its secret is the
+  laneways — narrow alleys hiding tiny espresso bars, street art and hidden restaurants.
+  Trams crisscross the city, and the central loop is free. The weather is famously
+  fickle (''four seasons in one day''), so carry a layer. It''s sports-mad: the MCG,
+  the Australian Open and the Spring racing carnival.'
 title: Melbourne
 type: location
 ---

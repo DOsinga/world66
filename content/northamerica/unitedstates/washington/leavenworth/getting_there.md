@@ -9,4 +9,53 @@ From Seattle take Interstate 5 to Interstate 90. Proceed on I-90 over Snoqualmie
 
 From Spokane take I-90, then exit onto State route 281 toward Quincy, then go west on 28 through East Wenatchee. Travel on Hwy 97/2 to Leavenworth.
 
-Mileage to Leavenworth:      Seattle 120   Sea-Tac Airport 130  Spokane 190  Bellingham 156  Portland 275  Tri Cities 160  Vancouver B.C. 215  Wenatchee 25  Pangborn Airport 30  Cashmere 10  Plain 18  Ohme Gardens 23  Rocky Reach Dam 26  Steven Pass 35  Mission Ridge 35
+Mileage to Leavenworth: 
+ 
+ 
+ 
+ 
+ Seattle
+ 120
+ 
+ 
+ Sea-Tac Airport
+ 130
+ 
+ Spokane
+ 190
+ 
+ Bellingham
+ 156
+ 
+ Portland
+ 275
+ 
+ Tri Cities
+ 160
+ 
+ Vancouver B.C.
+ 215
+ 
+ Wenatchee
+ 25
+ 
+ Pangborn Airport
+ 30
+ 
+ Cashmere
+ 10
+ 
+ Plain
+ 18
+ 
+ Ohme Gardens
+ 23
+ 
+ Rocky Reach Dam
+ 26
+ 
+ Steven Pass
+ 35
+ 
+ Mission Ridge
+ 35

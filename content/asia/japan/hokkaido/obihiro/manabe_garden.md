@@ -11,6 +11,7 @@ snippet: Large private garden famous for conifers, rare trees, and seasonal colo
 sources:
   - https://www.visit-hokkaido.jp/en/spot/detail_10127.html
   - https://www.japan.travel/en/spot/2144/
+score: 7.1
 ---
 
 Manabe Garden is a large planted landscape south of central Obihiro. It is especially known for conifers and rare tree species, with Japanese, Western, and landscape-garden sections mixed across the grounds.

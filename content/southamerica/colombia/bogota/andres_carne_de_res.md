@@ -1,13 +1,13 @@
 ---
-title: "Andrés Carne de Res"
-type: poi
-tags:
-  - eating_out
-  - restaurant
-latitude: 4.8600
-longitude: -74.0017
-snippet: "Legendary roadside grill-turned-institution in Chía, north of Bogota"
+latitude: 4.8577
+longitude: -74.0524
 score: 6.5
+snippet: Legendary roadside grill-turned-institution in Chía, north of Bogota
+tags:
+- eating_out
+- restaurant
+title: Andrés Carne de Res
+type: poi
 ---
 
 Andrés Carne de Res defies simple categorisation. What started as a roadside grill in the town of Chía, about 30 km north of Bogota, has become a Colombían institution — a multi-room carnival of a restaurant serving grilled meats, arepas, and everything else imaginable to crowds of hundreds, with live music, dancing, and an atmosphere that tips somewhere between restaurant, nightclub, and fever dream.

@@ -1,9 +1,13 @@
 ---
+latitude: 12.23
+longitude: 124.46
+score: 5.8
 tags:
-- sights
+- things_to_do
+- sight
+- waterfall
 title: Tabokno Falls
 type: poi
-score: 5.8
 ---
 
 Located a hour drive from Calbayog City and 40-minute walk from the villages.

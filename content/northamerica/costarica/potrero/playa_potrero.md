@@ -1,7 +1,11 @@
 ---
+latitude: 10.449
+longitude: -85.771
 score: 7.5
 tags:
 - things_to_do
+- sight
+- beach
 title: Playa Potrero
 type: poi
 ---

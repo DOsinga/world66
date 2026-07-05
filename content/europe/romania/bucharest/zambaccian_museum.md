@@ -2,6 +2,7 @@
 address: Strada Muzeul Zambaccian 21A, Bucharest
 latitude: 44.4609
 longitude: 26.091
+score: 7.5
 snippet: Private collection of Romanian and French modernist painting
 tags:
 - things_to_do

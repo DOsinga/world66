@@ -1,15 +1,15 @@
 ---
-latitude: -1.3701
-longitude: 36.7547
+latitude: -1.33759
+longitude: 36.76867
+neighbourhood: Langata
+score: 7.5
 snippet: Traditional villages and dance performances from 42 ethnic groups
 tags:
 - things_to_do
 - day_trips
 - langata
-neighbourhood: Langata
 title: Bomas of Kenya
 type: poi
-score: 7.5
 image: bomas_of_kenya.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Nairobi_Museum_village.JPG
 image_license: CC BY-SA 3.0

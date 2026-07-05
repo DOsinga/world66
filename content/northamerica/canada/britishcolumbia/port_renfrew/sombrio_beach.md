@@ -12,6 +12,7 @@ snippet: Wild Juan de Fuca coast beach with surf, cobbles, forest edges, and a t
 sources:
   - https://bcparks.ca/juan-de-fuca-park/
   - https://bcparks.ca/juan-de-fuca-park/day-use-areas/
+score: 7.6
 ---
 
 Sombrio Beach sits east of Port Renfrew within Juan de Fuca Provincial Park. It has a wilder feel than the town beaches: cobbles, surf, forest, and hikers moving along the marine trail.

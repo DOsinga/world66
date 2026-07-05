@@ -12,6 +12,7 @@ snippet: Popular mountain hike east of Pemberton linking three turquoise lakes b
 sources:
   - https://bcparks.ca/joffre-lakes-park/
   - https://bcparks.ca/reservations/day-use-passes/
+score: 8.4
 ---
 
 Joffre Lakes is the big-ticket hike from Pemberton. The trail climbs past three bright glacial lakes, with the lower lake reached quickly and the upper lakes requiring a more serious uphill walk.

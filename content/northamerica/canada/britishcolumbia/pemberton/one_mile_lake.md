@@ -12,6 +12,7 @@ snippet: Small lake beside town with a boardwalk loop, mountain views, swimming,
 sources:
   - https://en.wikivoyage.org/wiki/Pemberton_(British_Columbia)
   - https://www.tourismpembertonbc.com/pemberton-inspiration/why-pemberton-needs-to-be-on-your-british-columbia-road-trip
+score: 6.6
 ---
 
 One Mile Lake is Pemberton's easy local walk. The loop is short, mostly flat, and good for a relaxed hour with views back toward the surrounding peaks.

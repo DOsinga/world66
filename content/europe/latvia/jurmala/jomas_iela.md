@@ -1,7 +1,11 @@
 ---
+latitude: 56.9705
+longitude: 23.7989
 score: 7.5
 tags:
 - things_to_do
+- sight
+- shopping
 title: Jomas iela
 type: poi
 ---

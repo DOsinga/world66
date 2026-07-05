@@ -10,6 +10,8 @@ tags:
 sources:
   - https://en.wikivoyage.org/wiki/Ranua
   - https://en.wikipedia.org/wiki/Ranua
+latitude: 65.929
+longitude: 26.516
 ---
 
 Ranua is proud of cloudberries, the tart golden berries that grow in northern bogs and cost enough to be treated with respect. The local cloudberry fair in early August turns that pride into a small seasonal event, with berries, local products, and a useful excuse to visit when the forests and mires are at their greenest.

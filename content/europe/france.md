@@ -4,10 +4,9 @@ done:
   location_cleanup: '2026-04-10'
   poi_cleanup: '2026-04-20'
 image: france.jpg
-image_attribution: <a href="//commons.wikimedia.org/wiki/User:Benh" title="User:Benh">Benh
-  LIEU SONG</a>
+image_attribution: Luc Viatour
 image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Gorges_Verdon_Barrage_Sainte_Croix.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Gordes_Vaucluse_France_Luc_Viatour.JPG
 latitude: 46.603354
 loc_type: country
 longitude: 1.888334
@@ -39,6 +38,6 @@ The **Auvergne, ** centered on the Massif Central mountains that culminate at ab
 
 The Alpes are great for skiing in winter and hiking in summer. Albertville, Grenoble and Chamonix have all hosted the Olympic games. But the Alps also have nice towns to visit, such as Chambéry, Annecy or [Grenoble](/europe/france/alpes/grenoble) .
 
-The South with its lovely nature, good food, roman ruins and of course the Riviera draws a lot of visitors every year. Towns like [Orange](/europe/france/midi/provence/orange) , [Arles](/europe/france/midi/provence/arles) but also big cities like [Marseille](/europe/france/midi/cotedazur/marseille) and Toulon are must sees. The Provence is dotted with pleasant small villages. In the South west of France the [Dordogne](/europe/france/midi/dordogne) is one of the most quintessential French regions. The valley is so pretty, the towns are so cute and the food is so good, that it is hard to believe that the people who live here go somewhere else for their holidays. The [Languedoc](/europe/france/midi/languedoc) has its own language and culture. In the south of the Languedoc you find the [Pyrenees](/europe/france/midi/pyrenees) , a great mountain range separating France from Spain, where you can hike and ski. The towns of [Toulouse](/europe/france/midi/languedoc/toulouse) and [Montpellier](/europe/france/midi/languedoc/montpellier) are nice and the medieval town of [Carcassone](/europe/france/midi/languedoc/carcassone) is a top destination.
+The South with its lovely nature, good food, roman ruins and of course the Riviera draws a lot of visitors every year. Towns like [Orange](/europe/france/midi/provence/orange) , [Arles](/europe/france/midi/provence/arles) but also big cities like [Marseille](/europe/france/midi/cotedazur/marseille) and Toulon are must sees. The Provence is dotted with pleasant small villages. In the South west of France the [Dordogne](/europe/france/midi/dordogne) is one of the most quintessential French regions. The valley is so pretty, the towns are so cute and the food is so good, that it is hard to believe that the people who live here go somewhere else for their holidays. The [Languedoc](/europe/france/midi/languedoc) has its own language and culture. In the south of the Languedoc you find the [Pyrenees](/europe/france/midi/pyrenees) , a great mountain range separating France from Spain, where you can hike and ski. The towns of [Toulouse](/europe/france/midi/languedoc/toulouse) and [Montpellier](/europe/france/midi/languedoc/montpellier) are nice and the medieval town of [Carcassone](/europe/france/midi/languedoc/carcassonne) is a top destination.
 
 The island of [Corsica](/europe/france/corsica) has beautiful nature and a very special atmosphere. The Corsicans speak their own language and have a great sense of freedom.

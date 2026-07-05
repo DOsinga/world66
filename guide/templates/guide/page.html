@@ -65,7 +65,7 @@
   <div class="sidebar-map-card" id="sidebar-map-card">
     <div class="sidebar-map-head">
       <span class="sidebar-map-title">Map</span>
-      <button class="sidebar-map-expand" id="sidebar-map-expand" title="Expand map" aria-label="Expand map">&#x26F6;</button>
+      <a class="sidebar-map-expand" href="/explore/{{ page.path }}" title="Explore map" aria-label="Explore map">&#x26F6;</a>
     </div>
     <div class="sidebar-map-canvas" id="sidebar-map"></div>
   </div>
@@ -455,24 +455,6 @@
     sideMap = initLocationMap('sidebar-map', fullMarkers, {isPoi: {{ is_poi|yesno:"true,false" }}, bounds: {{ page_map_bounds }}});
   }
 
-  // Expand / collapse the sidebar map
-  var expandBtn = document.getElementById('sidebar-map-expand');
-  var mapCard   = document.getElementById('sidebar-map-card');
-  if (expandBtn && mapCard && sideMap) {
-    expandBtn.addEventListener('click', function() {
-      var expanded = mapCard.classList.toggle('sidebar-map-expanded');
-      expandBtn.innerHTML = expanded ? '&#x2715;' : '&#x26F6;';
-      expandBtn.title     = expanded ? 'Collapse map' : 'Expand map';
-      if (expanded) {
-        var navH = (document.querySelector('.topnav') || {offsetHeight: 0}).offsetHeight;
-        mapCard.style.top = navH + 'px';
-        sideMap._setMarkers(fullMarkers);
-      } else {
-        mapCard.style.top = '';
-        sideMap._setMarkers(fullMarkers);
-      }
-    });
-  }
 
   {% endif %}
 })();

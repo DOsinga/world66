@@ -28,25 +28,3 @@ Indonesia is the world's largest archipelago — over 17,000 islands stretching 
 Indonesia is a Muslim-majority country, though the practice varies enormously by region. Bali is predominantly Hindu. Parts of Sulawesi and Maluku are largely Christian. The Javanese have long blended Islam with older Hindu-Buddhist and animist traditions. The result is a country where religion is visible and alive — ceremony, festival, and ritual are woven into daily life — but rarely confrontational toward visitors.
 
 Travelling here requires patience. The infrastructure is improving but uneven. A domestic flight that should take an hour can involve a three-hour layover in a provincial airport. Roads in eastern Indonesia can be poor. Boats run late. But that is also part of the charm: Indonesia rewards the traveller who slows down, gets off the main circuit, and lets the place unfold.
-
-## Destinations
-
-[Bali](/asia/indonesia/bali)
-[Java](/asia/indonesia/java)
-[Sumatra](/asia/indonesia/sumatra)
-[Sulawesi](/asia/indonesia/sulawesi)
-[Kalimantan](/asia/indonesia/kalimantan)
-[Maluku](/asia/indonesia/maluku)
-[Flores](/asia/indonesia/flores)
-[Lombok](/asia/indonesia/lombok)
-[Komodo Island](/asia/indonesia/flores/komodo)
-[Sumba](/asia/indonesia/sumba)
-[Sumbawa](/asia/indonesia/sumbawa)
-[Timor](/asia/indonesia/timor)
-[Irian Jaya (Papua)](/asia/indonesia/papua)
-[Bangka Island](/asia/indonesia/sumatra/bangka_island)
-[Belitung](/asia/indonesia/sumatra/belitung)
-[Bintan](/asia/indonesia/sumatra)
-[Batam](/asia/indonesia/sumatra/batam)
-[Yogyakarta](/asia/indonesia/java/yogyakarta)
-[Wakatobi](/asia/indonesia/flores/wakatobi)

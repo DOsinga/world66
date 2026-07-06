@@ -12,7 +12,7 @@ Mostly of the tourist spots are ruins. But still interesting for those who like 
 **Contributors**
 May 09, 2006
 
-### [Chinese temple Avalokiteshvara](/asia/indonesia/banten/sights/chinese_temple_ava)
+### [Chinese temple Avalokiteshvara](/asia/indonesia/banten/chinese_temple_ava)
 
 Visitors can stay here during their trip to Banten. Simple and humble place to stay but it's one of the option whenever you're in Banten. Please dress properly.
 
@@ -20,9 +20,9 @@ type: Monasteries
 
 
 
-[[rate it]](/asia/indonesia/banten/sights/chinese_temple_ava)
+[[rate it]](/asia/indonesia/banten/chinese_temple_ava)
 
-### [Speelwijk Fortress and Cemeteries](/asia/indonesia/banten/sights/speelwijk_fortress)
+### [Speelwijk Fortress and Cemeteries](/asia/indonesia/banten/speelwijk_fortress)
 
 Situated not so far from Chinese temple Avalokiteshvara, this fortress directly facing to the sea. From this point, the Dutch troopers watching and guarding the fort from pirates and local heroes.
 
@@ -32,9 +32,9 @@ type: Graves and Cemeteries
 
 
 
-[[rate it]](/asia/indonesia/banten/sights/speelwijk_fortress)
+[[rate it]](/asia/indonesia/banten/speelwijk_fortress)
 
-### [Surosowan Palace](/asia/indonesia/banten/sights/surosowan_palace)
+### [Surosowan Palace](/asia/indonesia/banten/surosowan_palace)
 
 Now becomes ruins, leave the red bricks and several sites. Like water castle, the alleys and the moats.
 
@@ -42,9 +42,9 @@ type: Palaces
 
 
 
-[[rate it]](/asia/indonesia/banten/sights/surosowan_palace)
+[[rate it]](/asia/indonesia/banten/surosowan_palace)
 
-### [Kaibon Palace](/asia/indonesia/banten/sights/kaibon_palace)
+### [Kaibon Palace](/asia/indonesia/banten/kaibon_palace)
 
 Refer to its name Kaibon, derived from word 'Ibu' [mother in Indonesia language] this palace ruled by a queen for temporary. Since the king who supposed to be in throne was not adult yet.
 
@@ -54,9 +54,9 @@ type: Palaces
 
 
 
-[[rate it]](/asia/indonesia/banten/sights/kaibon_palace)
+[[rate it]](/asia/indonesia/banten/kaibon_palace)
 
-### [Masjid Agung Banten](/asia/indonesia/banten/sights/masjid_agung_bante)
+### [Masjid Agung Banten](/asia/indonesia/banten/masjid_agung_bante)
 
 For muslim's pilgrimage this place is something important. But for achitecture visit also something worth. Beautiful minareth and several old Dutch buildings in the same area.
 
@@ -64,9 +64,9 @@ type: Mosques
 
 
 
-[[rate it]](/asia/indonesia/banten/sights/masjid_agung_bante)
+[[rate it]](/asia/indonesia/banten/masjid_agung_bante)
 
-### [Pelabuhan Karang Hantu](/asia/indonesia/banten/sights/pelabuhan_karang_h)
+### [Pelabuhan Karang Hantu](/asia/indonesia/banten/pelabuhan_karang_h)
 
 Said in English as Devilrock harbour, can be seen daily activities of Bantenese fishermen.
 
@@ -74,9 +74,9 @@ type: Landmarks
 
 
 
-[[rate it]](/asia/indonesia/banten/sights/pelabuhan_karang_h)
+[[rate it]](/asia/indonesia/banten/pelabuhan_karang_h)
 
-### [Ujung Kulon National Park](/asia/indonesia/banten/sights/ujung_kulon_nation)
+### [Ujung Kulon National Park](/asia/indonesia/banten/ujung_kulon_nation)
 
 **Ujung
 Kulon National Park** is an isolated untamed wilderness on the
@@ -95,7 +95,7 @@ type: Parks, Gardens and Zoos
 
 
 
-[[rate it]](/asia/indonesia/banten/sights/ujung_kulon_nation)
+[[rate it]](/asia/indonesia/banten/ujung_kulon_nation)
 
 ### Agung Yoga
 

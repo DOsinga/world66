@@ -13,6 +13,8 @@ longitude: -4.88562
 score: 8.8
 snippet: Costa del Sol resort town where whitewashed Andalusian lanes meet marina
   wealth beneath La Concha.
+tags:
+- costa_del_sol
 title: Marbella
 type: location
 ---

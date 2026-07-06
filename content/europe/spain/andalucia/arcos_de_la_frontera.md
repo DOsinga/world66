@@ -13,14 +13,16 @@ snippet: Andalusian white town balanced on a limestone ridge above the Guadalete
 sources:
 - https://en.wikipedia.org/wiki/Arcos_de_la_Frontera
 - https://www.spain.info/en/places-of-interest/santa-maria-asuncion-basilica/
+tags:
+- whitevillages
 title: Arcos de la Frontera
 type: location
 ---
 
 Arcos de la Frontera is one of the most dramatic of the [White Villages](/europe/spain/andalucia/whitevillages), a town balanced along a limestone ridge above the Guadalete River. It looks almost improbable from below: white houses climbing the cliff, church towers on the skyline, and the old town squeezed into a narrow spine of lanes.
 
-The heart of Arcos is [Plaza del Cabildo](/europe/spain/andalucia/whitevillages/arcos_de_la_frontera/plaza_del_cabildo), where the basilica, castle, town hall, and cliff-edge viewpoint crowd into one compact square. The [Basilica of Santa María](/europe/spain/andalucia/whitevillages/arcos_de_la_frontera/basilica_santa_maria) gives the square its monumentality, while the [Castle of Arcos](/europe/spain/andalucia/whitevillages/arcos_de_la_frontera/castle_of_arcos) reminds you that this was once a military prize.
+The heart of Arcos is [Plaza del Cabildo](/europe/spain/andalucia/arcos_de_la_frontera/plaza_del_cabildo), where the basilica, castle, town hall, and cliff-edge viewpoint crowd into one compact square. The [Basilica of Santa María](/europe/spain/andalucia/arcos_de_la_frontera/basilica_santa_maria) gives the square its monumentality, while the [Castle of Arcos](/europe/spain/andalucia/arcos_de_la_frontera/castle_of_arcos) reminds you that this was once a military prize.
 
-Arcos is better treated as a place to climb and pause than as a checklist. The old streets narrow, bend, and rise hard; every few minutes a gap opens onto the plain far below. [San Pedro](/europe/spain/andalucia/whitevillages/arcos_de_la_frontera/iglesia_san_pedro) and the smaller miradores reward anyone willing to keep walking beyond the busiest square.
+Arcos is better treated as a place to climb and pause than as a checklist. The old streets narrow, bend, and rise hard; every few minutes a gap opens onto the plain far below. [San Pedro](/europe/spain/andalucia/arcos_de_la_frontera/iglesia_san_pedro) and the smaller miradores reward anyone willing to keep walking beyond the busiest square.
 
 Come by car if you are driving the white-village route, but do not try to conquer the old town with it. Park lower down, take your time, and save enough energy for the uphill return.

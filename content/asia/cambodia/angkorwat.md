@@ -20,4 +20,4 @@ Angkor Wat is the largest religious monument ever built and the centerpiece of a
 
 The scale of engineering here is staggering. Two hand-dug reservoirs — the Eastern Baray (7 km by 1.8 km) and the Western Baray (8 km by 2.3 km) — fed the rice agriculture that sustained the Khmer Empire. French explorers rediscovered the "lost city" in the late nineteenth century, though locals had never really forgotten it.
 
-The three temples that draw the most visitors are Angkor Wat itself, [Angkor Thom](/asia/cambodia/angkorwat/things_to_do/angkorthom) with its face-towers at the Bayon, and Ta Prohm, the jungle temple left largely as the explorers found it. Plan to visit more than once — the light changes everything, and there is far too much to absorb in a single day.
+The three temples that draw the most visitors are Angkor Wat itself, [Angkor Thom](/asia/cambodia/angkorwat/angkorthom) with its face-towers at the Bayon, and Ta Prohm, the jungle temple left largely as the explorers found it. Plan to visit more than once — the light changes everything, and there is far too much to absorb in a single day.

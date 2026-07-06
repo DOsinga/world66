@@ -13,6 +13,8 @@ snippet: Tenerife west-coast resort named for the basalt cliffs rising beside it
   marina and beach.
 sources:
 - https://en.wikipedia.org/wiki/Los_Gigantes
+tags:
+- tenerife
 title: Los Gigantes
 type: location
 ---

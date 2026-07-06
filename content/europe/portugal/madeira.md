@@ -16,7 +16,7 @@ title: Madeira
 type: location
 ---
 
-Madeira is a volcanic island rising steeply from the Atlantic, roughly 1,000 km southwest of Lisbon and closer to Morocco than to mainland Portugal. Its dramatic terrain — deep ravines, vertiginous cliffs, and peaks that disappear into cloud — makes it unlike any other Portuguese destination. The capital, [Funchal](/europe/portugal/madeira/funchal), clings to an amphitheatre of hills above the south coast and is where most visitors base themselves.
+Madeira is a volcanic island rising steeply from the Atlantic, roughly 1,000 km southwest of Lisbon and closer to Morocco than to mainland Portugal. Its dramatic terrain — deep ravines, vertiginous cliffs, and peaks that disappear into cloud — makes it unlike any other Portuguese destination. The capital, [Funchal](/europe/portugal/funchal), clings to an amphitheatre of hills above the south coast and is where most visitors base themselves.
 
 The island has been welcoming travelers for centuries, and it shows in the quality of its hospitality. The climate is one of Madeira's great selling points: mild and spring-like year round, with little rain on the sunny south coast and more on the lush northern slopes. Flowers bloom everywhere — bougainvillea on the city walls, bird-of-paradise plants in the gardens, hydrangeas lining the mountain roads.
 

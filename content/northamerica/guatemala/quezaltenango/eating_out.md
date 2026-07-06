@@ -18,7 +18,7 @@ Or Try the Best Fry Chicken: Pollo Campero. The Real Thing. 3 Restaurant in Quet
 **Contributors**
 August 21, 2006
 
-### [La Genovese](/northamerica/guatemala/quezaltenango/eating_out/la_genovese)
+### [La Genovese](/northamerica/guatemala/quezaltenango/la_genovese)
 
 located two block south of the Municipal Teater you will find the best Italian cuisine with dishes such as the famous Penne with black trouffles and smoked salmon, Penne alla Gorbachov, Spaghetti Amatriciana, fettucinni Alfredo, gnocchi pomodoro, Lasana bolognese, and we can't forget the delicious Tiramisu cake. There is also a good variety of fine wines, home baked bread, fresh salads, and the best of it is the reasonable prices.
 

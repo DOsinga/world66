@@ -13,6 +13,8 @@ longitude: -0.0486
 score: 8.37
 snippet: Costa Blanca hill town with whitewashed lanes, blue-domed church, galleries,
   and a bayfront pebble beach.
+tags:
+- costa_blanca
 title: Altea
 type: location
 ---

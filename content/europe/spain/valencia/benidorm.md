@@ -11,6 +11,8 @@ longitude: -0.129093
 score: 7.9
 snippet: High-rise Costa Blanca beach resort with two broad sandy bays and a wintering
   northern European crowd
+tags:
+- costa_blanca
 title: Benidorm
 type: location
 ---

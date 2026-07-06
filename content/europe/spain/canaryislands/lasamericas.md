@@ -13,6 +13,8 @@ snippet: Tenerife south-coast resort built for beaches, bars, late nights, and e
   island excursions
 sources:
 - https://en.wikipedia.org/wiki/Playa_de_las_Am%C3%A9ricas
+tags:
+- tenerife
 title: Playa de las Américas
 type: location
 ---

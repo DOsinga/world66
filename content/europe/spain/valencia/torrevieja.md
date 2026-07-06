@@ -12,6 +12,8 @@ longitude: -0.682845
 score: 7.88
 snippet: Alicante coastal town backed by pink and green salt lakes beside the Costa
   Blanca beaches.
+tags:
+- costa_blanca
 title: Torrevieja
 type: location
 ---

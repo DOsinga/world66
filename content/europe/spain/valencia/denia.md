@@ -9,10 +9,12 @@ latitude: 38.840838
 loc_type: city
 longitude: 0.10611
 score: 8.27
-title: Dénia
-type: location
 snippet: Costa Blanca port town beneath Dénia Castle, with a working harbour and serious
   rice-and-prawn cooking.
+tags:
+- costa_blanca
+title: Dénia
+type: location
 ---
 
 Dénia is a relaxed port town at the northern end of the Costa Blanca, sitting below a medieval [castle](/europe/spain/valencia/denia/denia_castle) at the foot of the [Montgó massif](/europe/spain/valencia/denia/montgo_massif). Unlike the resort strips to the south, it has a functioning town centre with a year-round population and a fishing harbour that still operates.

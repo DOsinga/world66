@@ -12,6 +12,8 @@ longitude: -4.572284
 score: 8.01
 snippet: Costa del Sol resort town with a beach strip, old village, and hilltop cable-car
   views.
+tags:
+- costa_del_sol
 title: Benalmadena
 type: location
 ---

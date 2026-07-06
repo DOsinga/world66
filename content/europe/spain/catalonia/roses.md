@@ -12,6 +12,8 @@ longitude: 3.175533
 score: 8.16
 snippet: Northern Costa Brava resort on a wide sandy bay, with fishing harbour, beaches,
   and Greek-Roman remains.
+tags:
+- costa_brava
 title: Roses
 type: location
 ---

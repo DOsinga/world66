@@ -13,6 +13,8 @@ snippet: Working fishing town at the southern gateway to the Costa Brava's rocky
   pine-backed coast.
 sources:
 - https://en.wikipedia.org/wiki/Marimurtra_Botanical_Garden
+tags:
+- costa_brava
 title: Blanes
 type: location
 ---

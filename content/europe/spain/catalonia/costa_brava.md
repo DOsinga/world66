@@ -1,25 +1,11 @@
 ---
-done:
-  location_cleanup: '2026-04-09'
-image: costa_brava.jpg
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Costa_Brava_Calas.JPG
-latitude: 41.7038
+latitude: 41.85
 loc_type: feature
-longitude: 2.9416
-score: 0.7
-snippet: Rugged Catalan coast of limestone cliffs, small coves, fishing villages,
-  and Pyrenean headlands near France.
+longitude: 3.15
+score: 8.0
+snippet: Catalonia's rugged "wild coast" — pine-backed coves, whitewashed fishing towns, and Dalí's Cadaqués.
 title: Costa Brava
 type: location
 ---
 
-The Costa Brava — "wild coast" in Catalan — runs for 256 kilometres along the northeastern tip of Spain, from Blanes in the south to the French border at Portbou. This is Catalonia's coast, and it earns its name: rugged limestone cliffs drop directly into clear blue-green water, broken by small coves and fishing villages that somehow still feel undiscovered despite decades of summer tourism.
-
-The southern stretch around Lloret de Mar and Tossa de Mar draws the bulk of the package-holiday crowd. Further north, past the wetlands of the Empordà and the Greek and Roman ruins at Empúries, the coast grows quieter and more dramatic. The Cap de Creus peninsula, a national park at the very tip of the Pyrenees where the mountains finally meet the sea, is genuinely wild — sparse, windswept, and strikingly beautiful.
-
-Cadaqués is the town most visitors remember longest. White-washed houses climbing a hillside above a rocky bay, no direct road from the motorway, a legacy of artists and writers who came here when it was barely accessible. Salvador Dalí lived nearby in Port Lligat and his house there is now a museum.
-
-For divers, the Medes Islands off l'Estartit are among the best sites in the western Mediterranean. The archipelago is a protected marine reserve — no fishing, no anchoring — and the result is extraordinary: moray eels, grouper, sea bream, and dense coral formations. The organic material from the nearby River Ter feeds the whole ecosystem.
-
-The best months are May, June, and September. July and August are hot, crowded, and expensive. In spring and autumn you get the scenery, the seafood, and room to breathe.
+The Costa Brava, the "wild coast", runs up the Catalan shore from north of Barcelona to the French border. Unlike the flat costas to the south, here the Pyrenees meet the sea in a jagged line of coves, cliffs, and pine, dotted with whitewashed towns. [Cadaqués](/europe/spain/catalonia/cadaqus), where Dalí lived, is the most beautiful; [Tossa de Mar](/europe/spain/catalonia/tossa_de_mar) has a walled medieval headland; and [Roses](/europe/spain/catalonia/roses) and [Sant Feliu de Guíxols](/europe/spain/catalonia/sant_feliu_de_guixols) anchor the resort stretches.

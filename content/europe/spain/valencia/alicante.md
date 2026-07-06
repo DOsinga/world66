@@ -14,6 +14,8 @@ snippet: Costa Blanca port city below Santa Bàrbara Castle, with a palm-lined m
 sources:
 - https://en.wikipedia.org/wiki/Alicante
 - https://en.wikipedia.org/wiki/Santa_B%C3%A0rbara_Castle
+tags:
+- costa_blanca
 title: Alicante
 type: location
 ---

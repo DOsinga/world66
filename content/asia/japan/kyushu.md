@@ -9,6 +9,10 @@ snippet: Southern Japanese main island of smoking volcanoes, hot springs, and lo
   links with overseas trade
 title: Kyushu
 type: location
+image: kyushu.jpg
+image_source: https://commons.wikimedia.org/wiki/File:20090906_sakurajima_yoshino_kagoshima-ken_japna.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Hirase
 ---
 
 Kyushu is the southernmost of Japan's four main islands, and the one that feels least like the rest of the country. Volcanoes still smoke here, hot springs steam from every other hillside, and centuries of trade with [China](/asia/china), Korea, and the early Europeans have left a layer of foreign influence you will not find on [Honshu](/asia/japan). It is greener, warmer, and more relaxed — a place where Japan turns its back on Tokyo and looks south.

@@ -1,12 +1,9 @@
 ---
-latitude: 35.6895
-longitude: 139.6917
 snippet: Light battered seafood and vegetables, a Japanese art form
 tags:
 - food
 title: Tempura
-type: poi
-score: 8.3
+type: theme
 ---
 
 Tempura is one of Japan's great contributions to the world of frying — seafood and vegetables dipped in a thin, cold batter and cooked briefly in hot oil so the result is almost weightless. The technique was introduced by Portuguese missionaries in the 16th century and then refined by Japanese cooks over centuries into something quite different from anything in Europe.

@@ -35,7 +35,3 @@ The old and new exist side by side in a way that would be jarring elsewhere but 
 For culture and museums, [Ueno](/asia/japan/kanto/tokyo/ueno) Park clusters the major institutions: the Tokyo National Museum, the National Museum of Western Art, the National Museum of Nature and Science, and the Ueno Zoo. The Tokyo Metropolitan Government Building in Shinjuku has free observation decks on both towers with views across the city, and on clear winter mornings the cone of Fuji is visible on the horizon.
 
 Tokyo's food scene operates at a level of sophistication and breadth that no other city matches. The city has more Michelin-starred restaurants than Paris and London combined, but the best meals are often in small ramen shops, sushi counters, and yakitori bars. Eating is the point.
-
-## Destinations in Tokyo
-
-[Shibuya](/asia/japan/kanto/tokyo/shibuya) | [Shinjuku](/asia/japan/kanto/tokyo/shinjuku) | [Roppongi](/asia/japan/kanto/tokyo/roppongi) | [Ueno](/asia/japan/kanto/tokyo/ueno) | [Ginza](/asia/japan/kanto/tokyo/ginza) | [Akihabara](/asia/japan/kanto/tokyo/akihabara) | [Asakusa](/asia/japan/kanto/tokyo/asakusa) | [Marunouchi](/asia/japan/kanto/tokyo/marunouchi) | [Tokyo Odaiba](/asia/japan/kanto/tokyo/tokyoodaiba) | [Ebisu](/asia/japan/kanto/tokyo/ebisu)

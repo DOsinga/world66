@@ -9,6 +9,10 @@ title: Ryukyu islands
 type: location
 snippet: Subtropical Japanese island chain anchored by Okinawa, with reef beaches
   and a distinct Ryukyuan culture.
+image: okinawa.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Lastsunsetjapan.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Masahiro Kaji - The Japan's Dive-spot Gallery
 ---
 
 The Ryukyu islands, also known as the South-West islands are located in the south-west of the archipelago.

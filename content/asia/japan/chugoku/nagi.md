@@ -16,8 +16,8 @@ sources:
 
 *Asia > Japan > Nagi*
 
-Nagi is a small rural town in northern [Okayama Prefecture](/asia/japan), below Mount Nagi and away from the usual Setouchi art-island route. It clears the bar because its main museum is not a token local gallery: [Nagi MOCA](/asia/japan/nagi/nagi_moca) is a purpose-built fusion of architecture and contemporary art, with spaces designed around permanent works and the mountain landscape.
+Nagi is a small rural town in northern [Okayama Prefecture](/asia/japan), below Mount Nagi and away from the usual Setouchi art-island route. It clears the bar because its main museum is not a token local gallery: [Nagi MOCA](/asia/japan/chugoku/nagi/nagi_moca) is a purpose-built fusion of architecture and contemporary art, with spaces designed around permanent works and the mountain landscape.
 
-The town's other anchors are quieter but real. [Bodaiji's ginkgo](/asia/japan/nagi/bodaiji_ginkgo) is a huge national natural monument tied to the monk Honen, and [Mount Nagi](/asia/japan/nagi/mount_nagi) gives the town its skyline and hiking identity. If you catch [Yokozen Kabuki](/asia/japan/nagi/yokozen_kabuki) during a performance season, the case for visiting becomes much stronger.
+The town's other anchors are quieter but real. [Bodaiji's ginkgo](/asia/japan/chugoku/nagi/bodaiji_ginkgo) is a huge national natural monument tied to the monk Honen, and [Mount Nagi](/asia/japan/chugoku/nagi/mount_nagi) gives the town its skyline and hiking identity. If you catch [Yokozen Kabuki](/asia/japan/chugoku/nagi/yokozen_kabuki) during a performance season, the case for visiting becomes much stronger.
 
 Nagi is not a place to add casually to a first Japan trip. It makes sense if you are already in Tsuyama, Mimasaka, or northern Okayama and want a half-day or full-day detour with a clear art-and-mountain character.

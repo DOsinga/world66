@@ -21,13 +21,13 @@ Even further south are the Yaeyama islands, Ishigaki and Iriomote; both great pl
 
 ## Destinations in Ryukyu islands
 
-[Ishigaki Island](/asia/japan/ryukyuislands/ishigakiisland)
-[Okinawa Island](/asia/japan/ryukyuislands/okinawaisland)
-[Yonaguni Island](/asia/japan/ryukyuislands/yonaguniisland)
-[Hateruma Island](/asia/japan/ryukyuislands/haterumaisland)
-[Zamami Island](/asia/japan/ryukyuislands/zamamiisland)
-[Taketomi Island](/asia/japan/ryukyuislands/taketomiisland)
-[Miyako Island](/asia/japan/ryukyuislands/miyakoisland)
-[Tokashiki Island](/asia/japan/ryukyuislands/tokashikiisland)
-[Iriomote Island](/asia/japan/ryukyuislands/iriomoteisland)
-[Okinawa Island](/asia/japan/ryukyuislands/okinawaisland)
+[Ishigaki Island](/asia/japan/okinawa/ishigakiisland)
+[Okinawa Island](/asia/japan/okinawa/okinawaisland)
+[Yonaguni Island](/asia/japan/okinawa/yonaguniisland)
+[Hateruma Island](/asia/japan/okinawa/haterumaisland)
+[Zamami Island](/asia/japan/okinawa/zamamiisland)
+[Taketomi Island](/asia/japan/okinawa/taketomiisland)
+[Miyako Island](/asia/japan/okinawa/miyakoisland)
+[Tokashiki Island](/asia/japan/okinawa/tokashikiisland)
+[Iriomote Island](/asia/japan/okinawa/iriomoteisland)
+[Okinawa Island](/asia/japan/okinawa/okinawaisland)

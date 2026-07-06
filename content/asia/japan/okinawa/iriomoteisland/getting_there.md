@@ -3,7 +3,7 @@ title: Getting There
 type: section
 ---
 
-There is no airport on Iriomote. The only way in is by ferry from [Ishigaki](/asia/japan/ryukyuislands/ishigakiisland), about 35 to 50 minutes depending on the boat. Two routes operate:
+There is no airport on Iriomote. The only way in is by ferry from [Ishigaki](/asia/japan/okinawa/ishigakiisland), about 35 to 50 minutes depending on the boat. Two routes operate:
 
 - **Ishigaki to Uehara** (north Iriomote) — fastest route to the Urauchi River, the Pinaisara area, and Hoshizuna Beach.
 - **Ishigaki to Ohara** (south Iriomote) — for the Nakama River, Yubu Island, and the wildlife centre.

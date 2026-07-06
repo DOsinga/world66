@@ -17,7 +17,7 @@ image_license: CC BY-SA 4.0
 image_attribution: Jakub Hałun
 ---
 
-Iwakuni sits on the Nishiki River in eastern Yamaguchi, close enough to [Hiroshima](/asia/japan/honshu/hiroshima) to work as a day trip but with a very different rhythm. Its draw is concentrated around the Kintai Bridge, a beautiful wooden structure of five steep arches that has become one of western Honshu's classic views.
+Iwakuni sits on the Nishiki River in eastern Yamaguchi, close enough to [Hiroshima](/asia/japan/chugoku/hiroshima) to work as a day trip but with a very different rhythm. Its draw is concentrated around the Kintai Bridge, a beautiful wooden structure of five steep arches that has become one of western Honshu's classic views.
 
 The old castle town spreads out on the far side of the bridge. Kikko Park, the ropeway to Iwakuni Castle, samurai-era buildings, and the small white-snake museum make the area easy to explore on foot. It is not a big-city stop, but it has a clear identity: river, bridge, castle hill, and the slightly odd local reverence for albino snakes.
 

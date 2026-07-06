@@ -21,6 +21,6 @@ image_attribution: 663highland
 
 Morioka is the capital of Iwate, a compact Tohoku city where three rivers meet under the long shape of Mount Iwate. It is often treated as a rail stop between Tokyo, Akita, and Hokkaido, but that sells it short. The old castle walls, temple district, modern art museum, and noodle shops easily fill a day.
 
-The centre is walkable from the station. Cross the Kitakami River, follow the old castle district, and you can link [Morioka Castle Ruins Park](/asia/japan/iwate/morioka/morioka_castle_ruins_park), the history museum, and the shrine streets without much planning. North of the centre, Hoon-ji hides one of the city's best surprises: a hall of hundreds of expressive rakan statues.
+The centre is walkable from the station. Cross the Kitakami River, follow the old castle district, and you can link [Morioka Castle Ruins Park](/asia/japan/tohoku/morioka/morioka_castle_ruins_park), the history museum, and the shrine streets without much planning. North of the centre, Hoon-ji hides one of the city's best surprises: a hall of hundreds of expressive rakan statues.
 
 Morioka is also a good place to eat with intent. The city is known for wanko soba, Morioka reimen, and jajamen, three noodle dishes that locals talk about with the seriousness other cities reserve for monuments. If you are crossing northern Honshu by train, this is one of the better places to break the journey.

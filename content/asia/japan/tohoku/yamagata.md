@@ -23,4 +23,4 @@ Yamagata is a compact Tohoku capital with more texture than its plain grid first
 
 The city works well as a base because the train station, Kajo Park, Bunshokan, and the central restaurants are easy to combine, while Yamadera sits a short rail ride away. You can make a full day from the castle ruins, museums, and a bowl of local ramen or imoni without feeling rushed.
 
-Yamagata is also a gateway to bigger mountain landscapes. Zao Onsen, snow monsters, hot springs, and ski fields pull many visitors onward, but the city itself deserves time before you leave for the hills. Compared with [Sendai](/asia/japan/honshu/sendai), it is quieter and more provincial in the best sense.
+Yamagata is also a gateway to bigger mountain landscapes. Zao Onsen, snow monsters, hot springs, and ski fields pull many visitors onward, but the city itself deserves time before you leave for the hills. Compared with [Sendai](/asia/japan/tohoku/sendai), it is quieter and more provincial in the best sense.

@@ -18,10 +18,10 @@ image_license: CC BY-SA 4.0
 image_attribution: Miyuki Meinaka
 ---
 
-Utsunomiya is the capital of Tochigi Prefecture, north of Tokyo and just south of [Nikko](/asia/japan/honshu/nikko). It is a practical city at first glance: a shinkansen stop, a government centre, and a place many travellers pass through on the way to the mountains. Stay for a day, though, and it has a stronger personality than that suggests.
+Utsunomiya is the capital of Tochigi Prefecture, north of Tokyo and just south of [Nikko](/asia/japan/kanto/nikko). It is a practical city at first glance: a shinkansen stop, a government centre, and a place many travellers pass through on the way to the mountains. Stay for a day, though, and it has a stronger personality than that suggests.
 
-The best reason to come is the Oya district on the city's western edge. The old Oya stone quarries have been turned into the [Oya History Museum](/asia/japan/honshu/utsunomiya/oya_history_museum), a vast underground space that feels closer to a cathedral than a mine. Nearby, [Oya Temple and the Peace Kannon](/asia/japan/honshu/utsunomiya/oya_temple_peace_kannon) give the same volcanic stone a religious face, with cliff-carved Buddhist images and a huge postwar statue.
+The best reason to come is the Oya district on the city's western edge. The old Oya stone quarries have been turned into the [Oya History Museum](/asia/japan/kanto/utsunomiya/oya_history_museum), a vast underground space that feels closer to a cathedral than a mine. Nearby, [Oya Temple and the Peace Kannon](/asia/japan/kanto/utsunomiya/oya_temple_peace_kannon) give the same volcanic stone a religious face, with cliff-carved Buddhist images and a huge postwar statue.
 
-Central Utsunomiya is easier-going. [Futaarayama Shrine](/asia/japan/honshu/utsunomiya/futaarayama_shrine) rises above the shopping streets and gives the city its old spiritual centre. Around it, gyoza restaurants are everywhere. Utsunomiya takes dumplings seriously, and a lunch of several small gyoza plates is part of the visit rather than a side note.
+Central Utsunomiya is easier-going. [Futaarayama Shrine](/asia/japan/kanto/utsunomiya/futaarayama_shrine) rises above the shopping streets and gives the city its old spiritual centre. Around it, gyoza restaurants are everywhere. Utsunomiya takes dumplings seriously, and a lunch of several small gyoza plates is part of the visit rather than a side note.
 
-If you have a car or do not mind a bus ride, the [Wakayama Farm Bamboo Forest](/asia/japan/honshu/utsunomiya/wakayama_farm_bamboo_forest) adds a softer finish: long rows of bamboo on a working farm, especially atmospheric during seasonal evening illuminations.
+If you have a car or do not mind a bus ride, the [Wakayama Farm Bamboo Forest](/asia/japan/kanto/utsunomiya/wakayama_farm_bamboo_forest) adds a softer finish: long rows of bamboo on a working farm, especially atmospheric during seasonal evening illuminations.

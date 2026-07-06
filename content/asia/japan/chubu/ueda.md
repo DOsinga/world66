@@ -16,4 +16,4 @@ Ueda is a small Nagano city with a sharper identity than its size suggests. It w
 
 The town centre is easy: Ueda Castle Park, the city museum, old streets, and a few cafes can fill a relaxed half day. The stronger reason to stay longer is west of town at Bessho Onsen, where temples sit against the hills and Anrakuji holds Japan's only octagonal three-storey pagoda.
 
-Ueda is not as dramatic as [Matsumoto](/asia/japan/honshu/matsumoto) or as famous as [Nagano](/asia/japan/honshu/nagano), but it is a good spare day if you are already moving through eastern Nagano. Come for Sanada history, temple architecture, and a slower onsen-town mood.
+Ueda is not as dramatic as [Matsumoto](/asia/japan/chubu/matsumoto) or as famous as [Nagano](/asia/japan/chubu/nagano), but it is a good spare day if you are already moving through eastern Nagano. Come for Sanada history, temple architecture, and a slower onsen-town mood.

@@ -14,6 +14,6 @@ sources:
 
 Tsuyama is a castle town in northern Okayama Prefecture, far enough from the Sanyo corridor to feel overlooked. That is part of its appeal. The city has serious history but little big-city noise, with old merchant streets, gardens, and castle walls sitting close enough together for a good walking day.
 
-Start at [Kakuzan Park](/asia/japan/honshu/tsuyama/kakuzan_park), where the stone walls of Tsuyama Castle still climb above the centre. In cherry-blossom season the ruins become one of western Honshu's better sakura sights, but the views and masonry work are worth seeing outside spring too.
+Start at [Kakuzan Park](/asia/japan/chugoku/tsuyama/kakuzan_park), where the stone walls of Tsuyama Castle still climb above the centre. In cherry-blossom season the ruins become one of western Honshu's better sakura sights, but the views and masonry work are worth seeing outside spring too.
 
-East of the castle, [Joto Street](/asia/japan/honshu/tsuyama/joto_street) keeps the feel of the old Izumo Kaido, while [Shurakuen Garden](/asia/japan/honshu/tsuyama/shurakuen_garden) gives the city a quieter, older elegance. Tsuyama is a good spare-day stop from Okayama if you like castle towns after their crowds have moved elsewhere.
+East of the castle, [Joto Street](/asia/japan/chugoku/tsuyama/joto_street) keeps the feel of the old Izumo Kaido, while [Shurakuen Garden](/asia/japan/chugoku/tsuyama/shurakuen_garden) gives the city a quieter, older elegance. Tsuyama is a good spare-day stop from Okayama if you like castle towns after their crowds have moved elsewhere.

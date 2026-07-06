@@ -15,4 +15,4 @@ sources:
 
 Echizen Daibutsu is modern, huge, and a little strange. Built in the late twentieth century, the temple complex centres on one of Japan's largest indoor Buddha statues, with a tall pagoda and wooded hills around it.
 
-It lacks the deep history of [Nara](/asia/japan/honshu/nara), but the scale is impressive and the site is far less crowded.
+It lacks the deep history of [Nara](/asia/japan/kansai/nara), but the scale is impressive and the site is far less crowded.

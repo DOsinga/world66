@@ -21,6 +21,6 @@ image_attribution: Tawashi2006
 
 Matsusaka sits in Mie Prefecture between Nagoya and Ise, and most people know its name because of beef. That is fair enough: Matsusaka beef is one of Japan's great luxury ingredients. But the city is more interesting than a meal stop.
 
-The old castle area holds the best of it. [Matsusaka Castle Ruins](/asia/japan/honshu/matsusaka/matsusaka_castle_ruins) still have handsome stone walls and town views, while the nearby [Gojoban Yashiki](/asia/japan/honshu/matsusaka/gojoban_yashiki) preserves a long row of samurai residences. The [Motoori Norinaga Memorial Museum](/asia/japan/honshu/matsusaka/motoori_norinaga_memorial_museum) gives the city a literary and scholarly weight that most quick visitors miss.
+The old castle area holds the best of it. [Matsusaka Castle Ruins](/asia/japan/kansai/matsusaka/matsusaka_castle_ruins) still have handsome stone walls and town views, while the nearby [Gojoban Yashiki](/asia/japan/kansai/matsusaka/gojoban_yashiki) preserves a long row of samurai residences. The [Motoori Norinaga Memorial Museum](/asia/japan/kansai/matsusaka/motoori_norinaga_memorial_museum) gives the city a literary and scholarly weight that most quick visitors miss.
 
 Matsusaka is not Kyoto, and does not try to be. It is a compact castle and merchant town with a few strong sights, good food, and enough traditional architecture to reward a half-day or overnight stop on the way to Ise.

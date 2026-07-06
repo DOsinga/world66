@@ -23,8 +23,8 @@ image_attribution: JH0WJF
 
 Sado Island sits off the coast of Niigata in the Sea of Japan, far enough from the mainland to feel like its own small country. It has mountains, rice fields, fishing villages, rocky coasts, and a history shaped by exile, gold, and sea routes. The island is large enough that a car helps; trying to "pop over" for a few hours misses the point.
 
-The best-known sight is [Sado Gold Mine](/asia/japan/sado_island/sado_gold_mine), part of the Sado Island Gold Mines World Heritage listing. For centuries the mines pulled people, money, and hard labour across the water, and the old tunnels still give the island a darker, more complicated story than the usual rural-Japan postcard.
+The best-known sight is [Sado Gold Mine](/asia/japan/chubu/sado_island/sado_gold_mine), part of the Sado Island Gold Mines World Heritage listing. For centuries the mines pulled people, money, and hard labour across the water, and the old tunnels still give the island a darker, more complicated story than the usual rural-Japan postcard.
 
-Sado also has softer pleasures. [Shukunegi](/asia/japan/sado_island/shukunegi) preserves the tight lanes and wooden houses of an old port village near Ogi, where travellers can ride the round taraibune tub boats once used along the coast. In the island's interior, [Toki Forest Park](/asia/japan/sado_island/toki_forest_park) explains the long effort to bring the Japanese crested ibis back from the edge.
+Sado also has softer pleasures. [Shukunegi](/asia/japan/chubu/sado_island/shukunegi) preserves the tight lanes and wooden houses of an old port village near Ogi, where travellers can ride the round taraibune tub boats once used along the coast. In the island's interior, [Toki Forest Park](/asia/japan/chubu/sado_island/toki_forest_park) explains the long effort to bring the Japanese crested ibis back from the edge.
 
 Plan at least one night, and two is better. Ferries run from Niigata to Ryotsu and from Naoetsu to Ogi, but winter weather can disrupt travel. Sado rewards travellers who slow down, drive the coast, and let the island's strange mix of remoteness and history settle in.

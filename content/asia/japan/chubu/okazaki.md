@@ -21,6 +21,6 @@ image_attribution: 先従隗始
 
 Okazaki is a working Aichi city with one very strong story: Tokugawa Ieyasu, founder of the Tokugawa shogunate, was born here. That gives the city more focus than many Nagoya satellites, especially around the castle park, old temples, and shrines tied to the Matsudaira and Tokugawa families.
 
-Start at [Okazaki Castle](/asia/japan/honshu/okazaki/okazaki_castle), then follow the city's Ieyasu trail north to [Daiju-ji Temple](/asia/japan/honshu/okazaki/daiju_ji_temple), where the Tokugawa family story becomes quieter and more intimate. Okazaki is also the home of [Hatcho Miso no Sato](/asia/japan/honshu/okazaki/hatcho_miso_no_sato), where dark soybean miso has been made for centuries in wooden vats weighted with river stones.
+Start at [Okazaki Castle](/asia/japan/chubu/okazaki/okazaki_castle), then follow the city's Ieyasu trail north to [Daiju-ji Temple](/asia/japan/chubu/okazaki/daiju_ji_temple), where the Tokugawa family story becomes quieter and more intimate. Okazaki is also the home of [Hatcho Miso no Sato](/asia/japan/chubu/okazaki/hatcho_miso_no_sato), where dark soybean miso has been made for centuries in wooden vats weighted with river stones.
 
 It is an easy day from Nagoya, and best in spring when the castle park fills with cherry blossoms. Even outside blossom season, Okazaki has enough history, food culture, and shrine architecture to reward a traveler who wants more than the obvious central Japan stops.

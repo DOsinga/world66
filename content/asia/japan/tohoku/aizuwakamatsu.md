@@ -22,7 +22,7 @@ image_attribution: Fumihiko Ueno
 
 Aizuwakamatsu is the old castle town of the Aizu basin, tucked into inland Fukushima and still marked by the end of the samurai age. It is not as famous as Nikko or Matsumoto, but it has the bones of a serious historical stop: a red-tiled castle, gardens built for feudal lords, sake breweries, lacquerware shops, and a local memory shaped by defeat in the Boshin War.
 
-The city works best as a slow day around [Tsuruga Castle](/asia/japan/honshu/aizuwakamatsu/tsuruga_castle), [Oyakuen Garden](/asia/japan/honshu/aizuwakamatsu/oyakuen_garden), and Mount Iimori. On that hill, the strange double-spiral [Aizu Sazaedo](/asia/japan/honshu/aizuwakamatsu/aizu_sazaedo) stands near the graves of the Byakkotai, the teenage Aizu fighters whose story still gives the city much of its emotional weight.
+The city works best as a slow day around [Tsuruga Castle](/asia/japan/tohoku/aizuwakamatsu/tsuruga_castle), [Oyakuen Garden](/asia/japan/tohoku/aizuwakamatsu/oyakuen_garden), and Mount Iimori. On that hill, the strange double-spiral [Aizu Sazaedo](/asia/japan/tohoku/aizuwakamatsu/aizu_sazaedo) stands near the graves of the Byakkotai, the teenage Aizu fighters whose story still gives the city much of its emotional weight.
 
 Nanokamachi Street adds a more everyday side of Aizu: old shopfronts, cafes in restored buildings, lacquerware, and small museums connected to Hideyo Noguchi and the Shinsengumi. The centre is spread out, but the loop buses make the main sights easy enough to connect without a car.
 

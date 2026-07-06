@@ -16,4 +16,4 @@ Shirakawa-go is the place most travellers picture when they imagine old rural Ja
 
 The gassho-zukuri houses are the reason to come. Their high roofs, shaped like hands pressed together in prayer, shed snow and once held silkworm spaces in the attic. A few houses are open to visitors, and the best ones make the architecture feel practical rather than pretty: smoke-dark beams, steep ladders, thick thatch, and views back over the village.
 
-Shirakawa-go can be crowded, especially as a stop between [Takayama](/asia/japan/honshu/takayama) and Kanazawa, but it still earns the fuss if you slow down. Walk beyond the bus terminal, cross the suspension bridge, climb to the viewpoint, and give the village enough time to feel like a working mountain settlement rather than a postcard.
+Shirakawa-go can be crowded, especially as a stop between [Takayama](/asia/japan/chubu/takayama) and Kanazawa, but it still earns the fuss if you slow down. Walk beyond the bus terminal, cross the suspension bridge, climb to the viewpoint, and give the village enough time to feel like a working mountain settlement rather than a postcard.

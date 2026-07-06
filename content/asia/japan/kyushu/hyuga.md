@@ -15,6 +15,6 @@ sources:
 
 Hyuga sits on the Pacific side of northern Miyazaki, where Kyushu's coast turns rocky, green, and wave-beaten. The city is spread out, but it has a clear reason to stop: surfing beaches south of town, old port streets at Mimitsu, and the black-columned cliffs of Cape Hyuga.
 
-The coast is the main act. [Umagase](/asia/japan/hyuga/umagase) gives the best look at the Cape Hyuga cliffs, while [Kurusu no Umi](/asia/japan/hyuga/kurusu_no_umi) turns the same basalt coast into a neat bit of local folklore. Nearby [Omi Shrine](/asia/japan/hyuga/omi_shrine) is small, but its setting over the sea makes it feel much larger.
+The coast is the main act. [Umagase](/asia/japan/kyushu/hyuga/umagase) gives the best look at the Cape Hyuga cliffs, while [Kurusu no Umi](/asia/japan/kyushu/hyuga/kurusu_no_umi) turns the same basalt coast into a neat bit of local folklore. Nearby [Omi Shrine](/asia/japan/kyushu/hyuga/omi_shrine) is small, but its setting over the sea makes it feel much larger.
 
-Hyuga works best as a day from Miyazaki or Nobeoka if you have a car. Add [Okuragahama](/asia/japan/hyuga/okuragahama) for surf and a long white beach, then go south to [Mimitsu Historic District](/asia/japan/hyuga/mimitsu_historic_district) for wooden houses and the quieter memory of a port that once mattered.
+Hyuga works best as a day from Miyazaki or Nobeoka if you have a car. Add [Okuragahama](/asia/japan/kyushu/hyuga/okuragahama) for surf and a long white beach, then go south to [Mimitsu Historic District](/asia/japan/kyushu/hyuga/mimitsu_historic_district) for wooden houses and the quieter memory of a port that once mattered.

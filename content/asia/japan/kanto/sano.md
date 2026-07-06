@@ -19,6 +19,6 @@ sources:
 
 Sano is a workaday city in southern Tochigi, easy to dismiss if you only see the outlet mall from the expressway. Give it a day, though, and the better Sano appears: a famous warding-off-evil temple, a mountain castle site, clear spring water, and a local ramen style with flat, hand-kneaded noodles.
 
-The strongest stop is [Karasawayama Castle Ruins](/asia/japan/sano/karasawayama_castle_ruins), where shrine buildings, stonework, pine forest, and views over the Kanto Plain make a better walk than the word "ruins" suggests. In town, [Sano Yakuyoke Daishi](/asia/japan/sano/sano_yakuyoke_daishi) draws crowds for New Year prayers, while [Izuruhara Benten Pond](/asia/japan/sano/izuruhara_benten_pond) shows why local spring water is part of Sano's identity.
+The strongest stop is [Karasawayama Castle Ruins](/asia/japan/kanto/sano/karasawayama_castle_ruins), where shrine buildings, stonework, pine forest, and views over the Kanto Plain make a better walk than the word "ruins" suggests. In town, [Sano Yakuyoke Daishi](/asia/japan/kanto/sano/sano_yakuyoke_daishi) draws crowds for New Year prayers, while [Izuruhara Benten Pond](/asia/japan/kanto/sano/izuruhara_benten_pond) shows why local spring water is part of Sano's identity.
 
 This is not a first-trip Japan essential. It is a fair spare-day stop from the northern edge of the Tokyo region or Tochigi, especially if you want a temple-and-ramen day without joining the main Nikko flow.

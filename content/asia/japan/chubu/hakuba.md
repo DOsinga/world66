@@ -21,6 +21,6 @@ image_attribution: wilford peloquin
 
 Hakuba is one of Japan's great mountain villages, set below the Northern Japan Alps in western Nagano Prefecture. In winter it is all snow, shuttle buses, gear shops, and international skiers chasing the powder across the Hakuba Valley resorts. In summer the same lifts carry hikers toward alpine ponds, flower meadows, and big views over ridges that feel far removed from the cities below.
 
-The village became famous abroad during the 1998 Nagano Winter Olympics, when Happo-one hosted alpine events on its long, steep slopes. That Olympic legacy still matters, but Hakuba is not a single-resort town. [Hakuba Happo-one](/asia/japan/honshu/hakuba/hakuba_happo_one), [Hakuba 47](/asia/japan/honshu/hakuba/hakuba_47_winter_sports_park), Goryu, Iwatake, and Tsugaike each have their own shape and crowd.
+The village became famous abroad during the 1998 Nagano Winter Olympics, when Happo-one hosted alpine events on its long, steep slopes. That Olympic legacy still matters, but Hakuba is not a single-resort town. [Hakuba Happo-one](/asia/japan/chubu/hakuba/hakuba_happo_one), [Hakuba 47](/asia/japan/chubu/hakuba/hakuba_47_winter_sports_park), Goryu, Iwatake, and Tsugaike each have their own shape and crowd.
 
 Hakuba rewards active travellers more than sightseers. Come to ski, hike, bike, soak in an onsen after the day outside, and watch the Alps change colour in the evening.

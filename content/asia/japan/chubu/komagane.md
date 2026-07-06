@@ -19,6 +19,6 @@ image_attribution: sota
 
 Komagane sits in southern Nagano Prefecture between the Central and Southern Alps. The city itself is quiet, but its position is excellent: buses climb from the station through Komagane Kogen to the ropeway that reaches the alpine bowl of Senjojiki Cirque.
 
-The mountains are the reason to come. On a clear day the [Komagatake Ropeway](/asia/japan/honshu/nagano/komagane/senjojiki_cirque_and_komagatake_ropeway) turns Komagane into one of Japan's easiest high-alpine outings, with the rock of Mount Hoken above and long views back across the valley. Below the ropeway, [Kozenji Temple](/asia/japan/honshu/nagano/komagane/kozenji_temple) gives the town a calmer, older anchor in the forest.
+The mountains are the reason to come. On a clear day the [Komagatake Ropeway](/asia/japan/chubu/komagane/senjojiki_cirque_and_komagatake_ropeway) turns Komagane into one of Japan's easiest high-alpine outings, with the rock of Mount Hoken above and long views back across the valley. Below the ropeway, [Kozenji Temple](/asia/japan/chubu/komagane/kozenji_temple) gives the town a calmer, older anchor in the forest.
 
 Komagane also has a food identity. Sauce katsudon, a bowl of rice topped with pork cutlet dipped in a sweet-savoury sauce, is the local dish to order after a mountain day.

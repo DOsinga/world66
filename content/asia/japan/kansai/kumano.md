@@ -14,6 +14,6 @@ sources:
 
 Kumano is a small city on the southern Mie coast, where the Kii Peninsula begins to feel remote even by Japanese standards. It has Pacific surf, old pilgrimage paths, rock formations, shrines, terraced rice fields, and enough quiet to make the famous name feel local again.
 
-The city is part of the wider Kumano world, but it is not just a gateway. [Onigajo](/asia/japan/kumano/onigajo) gives you black sea caves and wave-cut cliffs, [Hana no Iwaya](/asia/japan/kumano/hana_no_iwaya) preserves one of Japan's oldest forms of shrine worship, and [Shishiiwa](/asia/japan/kumano/shishiiwa) turns a coastal rock into a lion staring at the sea.
+The city is part of the wider Kumano world, but it is not just a gateway. [Onigajo](/asia/japan/kansai/kumano/onigajo) gives you black sea caves and wave-cut cliffs, [Hana no Iwaya](/asia/japan/kansai/kumano/hana_no_iwaya) preserves one of Japan's oldest forms of shrine worship, and [Shishiiwa](/asia/japan/kansai/kumano/shishiiwa) turns a coastal rock into a lion staring at the sea.
 
-Inland, the fields at [Maruyama Senmaida](/asia/japan/kumano/maruyama_senmaida) and the Kumano Kodo passes make the city feel connected to an older, mountain-bound Japan. Come by train for the coast, but rent a car or plan buses carefully if you want to reach the rice terraces and gorge country in the same day.
+Inland, the fields at [Maruyama Senmaida](/asia/japan/kansai/kumano/maruyama_senmaida) and the Kumano Kodo passes make the city feel connected to an older, mountain-bound Japan. Come by train for the coast, but rent a car or plan buses carefully if you want to reach the rice terraces and gorge country in the same day.

@@ -21,7 +21,7 @@ image_license: CC BY 2.5
 image_attribution: 663highland
 ---
 
-Karuizawa is a cool highland resort at the foot of Mount Asama, close enough to [Tokyo](/asia/japan/tokyo) for a fast escape but far enough in mood to feel like a different Japan. It grew from a Nakasendo post town into a summer refuge for missionaries, diplomats, writers, and wealthy Tokyo families who wanted cedar shade instead of city heat.
+Karuizawa is a cool highland resort at the foot of Mount Asama, close enough to [Tokyo](/asia/japan/kanto/tokyo) for a fast escape but far enough in mood to feel like a different Japan. It grew from a Nakasendo post town into a summer refuge for missionaries, diplomats, writers, and wealthy Tokyo families who wanted cedar shade instead of city heat.
 
 The best day here is unhurried. Walk or cycle between villa lanes, the old Karuizawa shopping street, Kumoba Pond, and the wooden churches that still give the town its slightly European edge. North of town, Shiraito Falls spreads in thin white threads across a mossy rock face; it is not a roaring waterfall, but it is lovely.
 

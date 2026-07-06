@@ -16,8 +16,8 @@ image_license: CC BY 3.0
 image_attribution: Σ64
 ---
 
-Ashikaga is a compact city in Tochigi Prefecture, near the Gunma border and close enough to [Tokyo](/asia/japan/tokyo) for a long day trip. It has far more history than its size suggests: the Ashikaga clan helped shape medieval Japan, and their temples, gardens, and scholarly traditions still give the old town a quiet dignity.
+Ashikaga is a compact city in Tochigi Prefecture, near the Gunma border and close enough to [Tokyo](/asia/japan/kanto/tokyo) for a long day trip. It has far more history than its size suggests: the Ashikaga clan helped shape medieval Japan, and their temples, gardens, and scholarly traditions still give the old town a quiet dignity.
 
-The best walk links [Ashikaga School](/asia/japan/honshu/ashikaga/ashikaga_school), [Bannaji Temple](/asia/japan/honshu/ashikaga/bannaji_temple), and the older streets north of the Watarase River. It is a small radius, and that is the appeal. You can move from a Confucian school to a moat-ringed temple without needing a timetable.
+The best walk links [Ashikaga School](/asia/japan/kanto/ashikaga/ashikaga_school), [Bannaji Temple](/asia/japan/kanto/ashikaga/bannaji_temple), and the older streets north of the Watarase River. It is a small radius, and that is the appeal. You can move from a Confucian school to a moat-ringed temple without needing a timetable.
 
-Ashikaga also has a softer side. It was once a textile town, and silk and indigo still turn up in shops and workshops. In spring, [Ashikaga Flower Park](/asia/japan/honshu/ashikaga/ashikaga_flower_park) pulls the crowds for its wisteria, so come early if you want the place to feel anything like the rest of the city.
+Ashikaga also has a softer side. It was once a textile town, and silk and indigo still turn up in shops and workshops. In spring, [Ashikaga Flower Park](/asia/japan/kanto/ashikaga/ashikaga_flower_park) pulls the crowds for its wisteria, so come early if you want the place to feel anything like the rest of the city.

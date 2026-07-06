@@ -17,7 +17,7 @@ image_license: CC BY-SA 2.0
 image_attribution: Collin Grady
 ---
 
-Kawagoe is a compact old merchant city in [Saitama](/asia/japan), close enough to [Tokyo](/asia/japan/tokyo) for an easy day trip but different enough to feel like a break from the capital. It made its money supplying Edo, and its best streets still carry the heavy clay-walled storehouses, tiled roofs, and wooden shop fronts that gave it the nickname **Koedo**, or Little Edo.
+Kawagoe is a compact old merchant city in [Saitama](/asia/japan), close enough to [Tokyo](/asia/japan/kanto/tokyo) for an easy day trip but different enough to feel like a break from the capital. It made its money supplying Edo, and its best streets still carry the heavy clay-walled storehouses, tiled roofs, and wooden shop fronts that gave it the nickname **Koedo**, or Little Edo.
 
 The heart of Kawagoe is the **Kurazukuri warehouse district**, where the bell tower of Toki no Kane rises above black-plastered shops selling sweets, pickles, rice crackers, and sweet potato snacks. It is touristy on weekends, but the scale is human: you can walk from the station through Crea Mall, spend a slow afternoon around the old streets, and still have time for temples and castle remains.
 

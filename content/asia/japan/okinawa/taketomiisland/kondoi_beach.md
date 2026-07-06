@@ -11,6 +11,6 @@ story: >
 score: 8.1
 ---
 
-Kondoi Beach is Taketomi's best swimming beach, a wide stretch of white coral sand on the western shore facing [Iriomote Island](/asia/japan/ryukyuislands/iriomoteisland). The water is clear, shallow, and warm from spring through autumn, with a gentle gradient that makes it comfortable for swimming without a current. Unlike Kaiji Beach to the south, swimming is safe here. A few shade shelters and toilet facilities are available on site.
+Kondoi Beach is Taketomi's best swimming beach, a wide stretch of white coral sand on the western shore facing [Iriomote Island](/asia/japan/okinawa/iriomoteisland). The water is clear, shallow, and warm from spring through autumn, with a gentle gradient that makes it comfortable for swimming without a current. Unlike Kaiji Beach to the south, swimming is safe here. A few shade shelters and toilet facilities are available on site.
 
 The beach is a fifteen-minute bike ride from the village. It is quieter than the beaches around Ishigaki, and even on busy weekends the crowds rarely exceed what the beach can comfortably absorb. Snorkelling is possible over the reef patches at the northern end, though the reef health is more variable than in the deeper waters around Iriomote. Sunset from Kondoi Beach, facing west across the water toward the mountains of Iriomote, is worth timing your day around.

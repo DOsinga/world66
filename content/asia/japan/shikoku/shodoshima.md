@@ -16,8 +16,8 @@ image_license: CC BY 2.5
 image_attribution: 663highland
 ---
 
-Shodoshima is the second-largest island in the Seto Inland Sea, close enough to [Takamatsu](/asia/japan/takamatsu) and Okayama for a long day, but better with a night and a rented car. It feels like a compact Japanese island distilled into cliffs, citrus groves, olive trees, fishing villages, and old soy-sauce warehouses.
+Shodoshima is the second-largest island in the Seto Inland Sea, close enough to [Takamatsu](/asia/japan/shikoku/takamatsu) and Okayama for a long day, but better with a night and a rented car. It feels like a compact Japanese island distilled into cliffs, citrus groves, olive trees, fishing villages, and old soy-sauce warehouses.
 
-The headline sight is [Kankakei Gorge](/asia/japan/shodoshima/kankakei_gorge), where a ropeway climbs through sharp volcanic cliffs. Down by the water, [Angel Road](/asia/japan/shodoshima/angel_road) appears and disappears with the tide, while the island's south coast carries much of Shodoshima's food identity: olive farms, somen noodle makers, and the black-walled soy-sauce quarter around Marukin.
+The headline sight is [Kankakei Gorge](/asia/japan/shikoku/shodoshima/kankakei_gorge), where a ropeway climbs through sharp volcanic cliffs. Down by the water, [Angel Road](/asia/japan/shikoku/shodoshima/angel_road) appears and disappears with the tide, while the island's south coast carries much of Shodoshima's food identity: olive farms, somen noodle makers, and the black-walled soy-sauce quarter around Marukin.
 
 Shodoshima clears the bar because it is not just a ferry stop or a beach strip. The island has several different reasons to cross the water: landscape, old industry, film nostalgia, and a mild Mediterranean mood that is unusual in Japan.

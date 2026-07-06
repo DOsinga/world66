@@ -20,6 +20,6 @@ sources:
 
 Shiroishi is a small castle town in southern Miyagi, close enough to Sendai for an easy side trip and on the Tohoku Shinkansen for anyone moving north. Its appeal is compact but real: a reconstructed castle, old samurai traces, a local noodle tradition, kokeshi dolls, and the much stranger draw of Miyagi Zao Fox Village in the hills.
 
-The town itself is calm and low-key. [Shiroishi Castle](/asia/japan/honshu/shiroishi/shiroishi_castle) gives the centre its shape, while the craft and fox-village stops pull you outward. In cherry-blossom season the castle park is at its best.
+The town itself is calm and low-key. [Shiroishi Castle](/asia/japan/tohoku/shiroishi/shiroishi_castle) gives the centre its shape, while the craft and fox-village stops pull you outward. In cherry-blossom season the castle park is at its best.
 
 Shiroishi is not a substitute for Sendai or Matsushima. It is a good spare day if you want a smaller Tohoku stop with enough identity to justify leaving the cafe.

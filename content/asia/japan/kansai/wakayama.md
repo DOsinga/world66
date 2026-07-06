@@ -19,6 +19,6 @@ image_attribution: 663highland
 
 Wakayama sits south of Osaka on the Kii Channel, close enough for a day trip but different in mood from the big Kansai cities. It has a reconstructed hilltop castle, old Kishu Tokugawa associations, sea-facing shrines, and a working local food scene built around ramen, shirasu, and red sea bream.
 
-The centre is anchored by [Wakayama Castle](/asia/japan/wakayama/wakayama_castle), whose park gives the city its clearest landmark. South of the centre, [Kimiidera](/asia/japan/wakayama/kimiidera) climbs a hillside above the bay, while [Wakanoura](/asia/japan/wakayama/wakanoura) mixes tidal scenery, poetry history, and shrines in a way that feels much older than the modern port city around it.
+The centre is anchored by [Wakayama Castle](/asia/japan/kansai/wakayama/wakayama_castle), whose park gives the city its clearest landmark. South of the centre, [Kimiidera](/asia/japan/kansai/wakayama/kimiidera) climbs a hillside above the bay, while [Wakanoura](/asia/japan/kansai/wakayama/wakanoura) mixes tidal scenery, poetry history, and shrines in a way that feels much older than the modern port city around it.
 
-Wakayama is not a substitute for Kyoto or Nara, but it is a good answer if you are already in Osaka and want a quieter Kansai day with real local texture. Add [Tomogashima Islands](/asia/japan/wakayama/tomogashima_islands) in fair weather and the city becomes more than a castle stop.
+Wakayama is not a substitute for Kyoto or Nara, but it is a good answer if you are already in Osaka and want a quieter Kansai day with real local texture. Add [Tomogashima Islands](/asia/japan/kansai/wakayama/tomogashima_islands) in fair weather and the city becomes more than a castle stop.

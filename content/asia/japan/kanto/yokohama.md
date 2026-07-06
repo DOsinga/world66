@@ -15,7 +15,7 @@ title: Yokohama
 type: location
 ---
 
-Only 32 kilometres from [Tokyo](/asia/japan/tokyo), Yokohama is Japan's second-largest city and one of its most cosmopolitan. It was here that Commodore Matthew Perry landed with his Black Ships in 1854 to force Japan to open to foreign trade, and the city has had an international character ever since — growing rapidly into one of Asia's major ports.
+Only 32 kilometres from [Tokyo](/asia/japan/kanto/tokyo), Yokohama is Japan's second-largest city and one of its most cosmopolitan. It was here that Commodore Matthew Perry landed with his Black Ships in 1854 to force Japan to open to foreign trade, and the city has had an international character ever since — growing rapidly into one of Asia's major ports.
 
 Most of the sights cluster around the waterfront. **Minato Mirai** is the futuristic centrepiece: a cluster of towers, shopping complexes, a maritime museum, and the landmark Ferris wheel. The Yokohama Museum of Art is excellent. Nearby, the Red Brick Warehouse buildings have been converted into shops and restaurants. The harbour area is good for walking, with views across to the Bay Bridge.
 

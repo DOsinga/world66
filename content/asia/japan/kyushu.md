@@ -11,7 +11,7 @@ title: Kyushu
 type: location
 ---
 
-Kyushu is the southernmost of Japan's four main islands, and the one that feels least like the rest of the country. Volcanoes still smoke here, hot springs steam from every other hillside, and centuries of trade with [China](/asia/china), Korea, and the early Europeans have left a layer of foreign influence you will not find on [Honshu](/asia/japan/honshu). It is greener, warmer, and more relaxed — a place where Japan turns its back on Tokyo and looks south.
+Kyushu is the southernmost of Japan's four main islands, and the one that feels least like the rest of the country. Volcanoes still smoke here, hot springs steam from every other hillside, and centuries of trade with [China](/asia/china), Korea, and the early Europeans have left a layer of foreign influence you will not find on [Honshu](/asia/japan). It is greener, warmer, and more relaxed — a place where Japan turns its back on Tokyo and looks south.
 
 The northern gateway is [Fukuoka](/asia/japan/kyushu/fukuoka_city), Kyushu's largest city and one of the most liveable in Japan. Fukuoka invented tonkotsu ramen — the rich, milky pork-bone broth now eaten across the world — and Hakata gyoza, smaller and crisper than the Tokyo version, are best eaten standing up at one of the *yatai* food stalls that line the riverbank after dark. To the west, [Nagasaki](/asia/japan/kyushu/nagasaki) curves around a deep harbour that for two centuries was Japan's only window to the outside world; the Dutch trading post of Dejima, the old Chinese quarter, and the Atomic Bomb Museum together make it the most layered city on the island.
 
@@ -28,4 +28,4 @@ Off the southern coast lies **Yakushima**, an almost perfectly round island of d
 [Oita](/asia/japan/kyushu/oita)
 [Miyazaki](/asia/japan/kyushu/miyazaki)
 [Kitakyushu](/asia/japan/kyushu/kitakyushu)
-[Yoron](/asia/japan/kyushu/yoron)
+[Yoron](/asia/japan/okinawa/yoron)

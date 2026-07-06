@@ -3,7 +3,7 @@ title: Getting There
 type: section
 ---
 
-The main entry point is [Miyanoura Port](/asia/japan/yakushima/miyanoura_port) on the north coast. Ferries run from Kagoshima's Kagoshima-ko ferry terminal, with a choice of vessels: the high-speed Toppy or Rocket hydrofoils make the crossing in about two hours; the slower Yakushima 2 car ferry takes three to four hours and is the better option if you're bringing a bicycle or car.
+The main entry point is [Miyanoura Port](/asia/japan/kyushu/yakushima/miyanoura_port) on the north coast. Ferries run from Kagoshima's Kagoshima-ko ferry terminal, with a choice of vessels: the high-speed Toppy or Rocket hydrofoils make the crossing in about two hours; the slower Yakushima 2 car ferry takes three to four hours and is the better option if you're bringing a bicycle or car.
 
 There is also a small airport at Yakushima Town on the south coast, with several daily flights from Kagoshima (about 35 minutes). Flights are convenient but more expensive than the ferry, and the airport is not near the main hiking areas. The ferry to Miyanoura is the standard choice for most visitors.
 

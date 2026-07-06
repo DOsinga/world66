@@ -1977,16 +1977,21 @@ img { max-width: 100%; height: auto; }
 }
 
 .dest-more {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px 20px;
-  padding-top: 8px;
+  /* A single flat destination list (a country with no regions) flows into
+     newspaper columns rather than one long wrapping row. */
+  columns: 5 170px;
+  column-gap: 32px;
+  padding-top: 18px;
   border-top: 1px solid var(--line);
 }
 
 .dest-more-link {
+  display: block;
+  break-inside: avoid;
+  margin-bottom: 6px;
+  line-height: 1.4;
   font-family: var(--label-font);
-  font-size: 14px;
+  font-size: 15px;
   color: var(--accent-ink);
   text-decoration: none;
 }

@@ -1496,6 +1496,20 @@ img { max-width: 100%; height: auto; }
   opacity: 0.7;
 }
 .map-label--highlight .map-dot { background: var(--accent); width: 10px; height: 10px; }
+/* Region centroids on a country map — a distinct blue so they read as areas,
+   not destinations, and don't compete visually with the red city markers. */
+.map-dot--region {
+  background: #3a6ea5;
+  width: 9px;
+  height: 9px;
+}
+.leaflet-container .map-label--region a,
+.leaflet-container .map-label--region span {
+  color: #2c5580;
+  font-style: italic;
+  font-weight: 600;
+  opacity: 0.9;
+}
 
 /* Transparent hit-area wrapper for dot-only markers.
    top/left offset centers the 16px box on the [0,0] icon anchor point. */

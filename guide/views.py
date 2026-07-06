@@ -454,6 +454,9 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     # then a structured column list of every region's locations. List all when
     # there aren't too many, else the top few per region with a "more" link.
     region_groups = None
+    # Extra markers for the country map: region centroids in a distinct colour
+    # plus every city, so travellers see Tokyo/Kyoto, not just "Kanto".
+    country_map_markers = None
     if page.meta.get("loc_type") == "country":
         region_children = [l for l in locations if l.meta.get("loc_type") == "region"]
         if region_children:
@@ -495,6 +498,32 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
                 region_groups.append({"region": r, "title": r.title,
                     "locations": shown, "more_count": len(r_locs) - len(selected)})
             more_locations = []  # replaced by the grouped list below
+
+            # Map markers: region centroids (kind=region, distinct colour) plus
+            # every city (kind=city), so the map shows both the regional lay of
+            # the land and the actual destinations people search for.
+            country_map_markers = []
+            seen_xy = set()
+            for r in sorted(region_children, key=_score, reverse=True):
+                rm = _marker_from_page(r)
+                if rm:
+                    rm["kind"] = "region"
+                    seen_xy.add((rm["lat"], rm["lng"]))
+                    country_map_markers.append(rm)
+            # Only the top cities by score — a full country's worth of dots is a
+            # cluttered haze. Cities carry highlight=True so they render in the
+            # accent colour, visually distinct from the blue region centroids.
+            _MAP_CITY_LIMIT = 24
+            city_count = 0
+            for c in candidates:  # direct + nested cities, already score-sorted
+                if city_count >= _MAP_CITY_LIMIT:
+                    break
+                cm = _marker_from_page(c, highlight=True)
+                if cm and (cm["lat"], cm["lng"]) not in seen_xy:
+                    cm["kind"] = "city"
+                    seen_xy.add((cm["lat"], cm["lng"]))
+                    country_map_markers.append(cm)
+                    city_count += 1
 
     # For feature pages: cities/locations that tag into this feature via tags: [feature_slug]
     linked_locations = []
@@ -572,6 +601,14 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     _map_all = locations + (_all_linked if _all_linked else [])
     markers = _collect_markers(page, nav_pages, _map_top, pois, city_tag_index=city_tag_index)
     markers_full = _collect_markers(page, nav_pages, _map_all, pois, city_tag_index=city_tag_index)
+    # On a country with regions, show region centroids + all cities together.
+    if country_map_markers:
+        markers = country_map_markers
+        markers_full = country_map_markers
+    # Country and region maps show genuine child destinations (no stray day-trip
+    # POIs), so fit the map to all of them instead of trimming outliers — this
+    # keeps far-flung children like Sumatra or Okinawa on screen.
+    map_fit_all = page.meta.get("loc_type") in ("country", "region")
 
     breadcrumbs = page.breadcrumbs()
 
@@ -601,6 +638,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "page_map_bounds": mark_safe(json.dumps(page_map_bounds)) if page_map_bounds else "null",
         "markers_json": mark_safe(json.dumps(markers)),
         "markers_full_json": mark_safe(json.dumps(markers_full)),
+        "map_fit_all": map_fit_all,
         "hero_image_url": hero_image_url,
         "hero_image_source": hero_image_source,
         "hero_image_license": hero_image_license,

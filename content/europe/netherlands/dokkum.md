@@ -12,6 +12,8 @@ longitude: 5.999231
 score: 7.35
 snippet: Canal-ringed Frisian city associated with Boniface's 754 martyrdom and old
   naval history.
+tags:
+- friesland
 title: Dokkum
 type: location
 ---

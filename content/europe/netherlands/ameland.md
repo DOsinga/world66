@@ -5,11 +5,13 @@ image: ameland.jpg
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Ameland_aerial_view_from_the_west.jpg
 latitude: 53.406347
-loc_type: region
+loc_type: feature
 longitude: 5.74825
 score: 0.54
 snippet: Quiet Dutch Wadden Island with beaches, dunes, cycling paths, four villages,
   and guided mudflat walks.
+tags:
+- waddenislands
 title: Ameland
 type: location
 ---

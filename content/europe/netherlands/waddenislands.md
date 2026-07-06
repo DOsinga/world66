@@ -7,7 +7,7 @@ image_attribution: Ruben Holthuijsen on Flickr
 image_license: CC BY 2.0
 image_source: https://www.flickr.com/photos/60057960@N06/51600888293
 latitude: 52.592929
-loc_type: region
+loc_type: feature
 longitude: 5.359097
 score: 0.57
 snippet: Dutch island chain of dunes, salt marshes, and tidal mudflats along the Wadden

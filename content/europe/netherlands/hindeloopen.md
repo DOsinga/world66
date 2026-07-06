@@ -8,6 +8,8 @@ longitude: 5.400482
 score: 7.4
 snippet: Frisian IJsselmeer town with cobbled lanes, painted furniture traditions,
   and Eleven Cities history.
+tags:
+- friesland
 title: Hindeloopen
 type: location
 ---

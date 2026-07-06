@@ -6,11 +6,13 @@ image: terschelling.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Brandaris,_Terschelling_-_panoramio_(1).jpg
 latitude: 53.394717
-loc_type: region
+loc_type: feature
 longitude: 5.28768
 score: 0.55
 snippet: Dutch Wadden island of dunes, salt marshes, cycling paths, and the Brandaris
   lighthouse.
+tags:
+- waddenislands
 title: Terschelling
 type: location
 ---

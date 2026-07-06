@@ -12,6 +12,8 @@ longitude: 5.6453
 score: 7.1
 snippet: Tiny Frisian fortified city laid out along one canal inside 17th-century
   ramparts
+tags:
+- friesland
 title: Sloten
 type: location
 ---

@@ -10,10 +10,12 @@ latitude: 53.200594
 loc_type: city
 longitude: 5.791855
 score: 7.51
-title: Leeuwarden
-type: location
 snippet: Frisian provincial capital of canals, brick gables, and the famously leaning
   Oldehove tower.
+tags:
+- friesland
+title: Leeuwarden
+type: location
 ---
 
 Leeuwarden (Ljouwert in Frisian) is the capital of Friesland, the northernmost province of the Netherlands, and one of the Netherlands' smaller but more characterful provincial capitals. The city sits in the middle of a flat landscape of polders, canals, and farmland, and its compact historic centre — a grid of canals flanked by tall brick gables — has the feel of a Dutch city that most tourists never reach.

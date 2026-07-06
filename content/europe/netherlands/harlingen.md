@@ -11,6 +11,8 @@ loc_type: city
 longitude: 5.4142
 score: 6.95
 snippet: Frisian Wadden Sea harbour town and ferry port for Terschelling and Vlieland.
+tags:
+- friesland
 title: Harlingen
 type: location
 ---

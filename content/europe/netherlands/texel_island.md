@@ -7,11 +7,13 @@ image: texel_island.jpg
 image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Texel_island.jpg
 latitude: 53.089372
-loc_type: region
+loc_type: feature
 longitude: 4.821347
 score: 0.58
 snippet: Dutch Wadden island of dunes, beaches, cycling paths, bird flats, and Texel
   lamb.
+tags:
+- waddenislands
 title: Texel island
 type: location
 ---

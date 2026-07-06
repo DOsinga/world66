@@ -11,6 +11,8 @@ loc_type: city
 longitude: 5.628326
 score: 6.67
 snippet: Small Frisian lake village with a steep bascule bridge and busy sailing traffic.
+tags:
+- friesland
 title: Woudsend
 type: location
 ---

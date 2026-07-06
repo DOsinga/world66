@@ -13,6 +13,8 @@ longitude: 5.6611
 score: 7.17
 snippet: Frisian watersports town on canals and lakes, centred on the Sneekermeer
   and Sneekweek regatta
+tags:
+- friesland
 title: Sneek
 type: location
 ---

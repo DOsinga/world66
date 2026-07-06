@@ -8,10 +8,12 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Lemmer,_zicht_op_de_Kortestreek_vanaf_de_ophaalbrug_met_de_Hervormde_kerk_RM25749_op_de_achtergrond_IMG_2180_2018-04-17_13.41.jpg
 latitude: 52.844486
 loc_type: city
-snippet: Frisian IJsselmeer harbour town for sailing, centred on canals and the steam-powered
-  Woudagemaal.
 longitude: 5.709914
 score: 7.01
+snippet: Frisian IJsselmeer harbour town for sailing, centred on canals and the steam-powered
+  Woudagemaal.
+tags:
+- friesland
 title: Lemmer
 type: location
 ---

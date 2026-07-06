@@ -9,11 +9,13 @@ image_attribution: Txllxt TxllxT
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Oost-Vlieland_-_Dorpsstraat_07.jpg
 latitude: 53.2972
-loc_type: city
+loc_type: feature
 longitude: 5.0656
 score: 7.83
 snippet: Car-light Dutch Wadden island with one quiet village, broad dunes, and a
   ferry link from Harlingen.
+tags:
+- waddenislands
 title: Vlieland
 type: location
 ---

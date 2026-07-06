@@ -12,6 +12,8 @@ longitude: 5.446409
 score: 7.31
 snippet: Historic Frisian town on the IJsselmeer, once a Zuiderzee trading port with
   stepped-gable streets.
+tags:
+- friesland
 title: Workum
 type: location
 ---

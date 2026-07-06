@@ -8,6 +8,8 @@ longitude: 5.522896
 score: 6.97
 snippet: Historic Frisian market town on the Elfstedentocht route, with canals, monuments,
   and a Renaissance city hall.
+tags:
+- friesland
 title: Bolsward
 type: location
 ---

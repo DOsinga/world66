@@ -10,7 +10,7 @@ longitude: 5.777043
 score: 0.51
 title: Friesland
 type: location
-loc_type: region
+loc_type: feature
 snippet: Northern Dutch province with its own Frisian language, lake country, and Wadden Sea islands.
 ---
 

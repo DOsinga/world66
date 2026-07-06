@@ -11,6 +11,8 @@ loc_type: city
 longitude: 5.623324
 score: 6.57
 snippet: Tiny Frisian city on the Geeuw, known for old city rights and a working sawmill.
+tags:
+- friesland
 title: IJlst
 type: location
 ---

@@ -12,6 +12,8 @@ longitude: 5.360213
 score: 6.88
 snippet: Frisian harbour town on the IJsselmeer, with medieval city rights and the
   Vrouwe van Stavoren legend.
+tags:
+- friesland
 title: Stavoren
 type: location
 ---

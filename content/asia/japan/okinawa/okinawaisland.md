@@ -7,7 +7,7 @@ image_attribution: Hashi photo
 image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Furuzamami_beach_Okinawa_Zamami.jpg
 latitude: 26.474895
-loc_type: region
+loc_type: feature
 longitude: 127.911469
 score: 0.73
 title: Okinawa Island

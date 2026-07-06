@@ -12,7 +12,7 @@ url: www.teso.nl
 
 Departure/timetable and tariff information for the ferry [Den Helder](/europe/netherlands/denhelder) harbour-Texel island.
 
-Teso ferry company offers a crossing service to Texel island ([Den Burg](/europe/netherlands/waddenislands/texel_island/den_burg)
+Teso ferry company offers a crossing service to Texel island ([Den Burg](/europe/netherlands/texel_island/den_burg)
 harbour). Your trip takes about 20 minutes; bookings not necessary.
 
 Global overview of departures and rates Den Helder - Texel island.

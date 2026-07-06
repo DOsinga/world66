@@ -24,4 +24,4 @@ The town is laid out as a single canal running through the middle — the Voorst
 
 There is a small but well-curated city museum in the old town hall, the windmill "De Kaai" still grinds grain on summer Saturdays, and a couple of cafés along the canal serve coffee, apple pie, and Frisian sugar bread. The water around the town is part of the Frisian Lakes network, and Sloten is a stop on the Elfstedentocht — the legendary 200-kilometre ice-skating race between the eleven cities — though this only takes place in the rare winters cold enough to freeze every canal along the route.
 
-Sloten is easily combined with **[Lemmer](/europe/netherlands/friesland/lemmer)** to the south and **[Sneek](/europe/netherlands/friesland/sneek)** to the north, or visited as a half-day stop on a sailing trip through the Frisian Lakes.
+Sloten is easily combined with **[Lemmer](/europe/netherlands/lemmer)** to the south and **[Sneek](/europe/netherlands/sneek)** to the north, or visited as a half-day stop on a sailing trip through the Frisian Lakes.

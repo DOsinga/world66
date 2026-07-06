@@ -10,7 +10,7 @@ url: "www.oerol.nl"
 **Contributors**
 February 28, 2005
 
-### [Oerol](/europe/netherlands/waddenislands/terschelling/festivals/oerol)
+### [Oerol](/europe/netherlands/terschelling/oerol)
 
 Every year in **mid june**, there is the eccentric festival called **Oerol**
 ('everywhere', in dialect).
@@ -25,7 +25,7 @@ festival. Be sure to catch it when you are in the area — bookings for accommod
 
 
 
-[[rate it]](/europe/netherlands/waddenislands/terschelling/festivals/oerol)
+[[rate it]](/europe/netherlands/terschelling/oerol)
 
 date: june, recurrent every year
 

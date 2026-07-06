@@ -26,6 +26,6 @@ EcoMare, just outside De Koog, is a seal rehabilitation centre and information c
 
 ## Destinations in Texel island
 
-[De Koog](/europe/netherlands/waddenislands/texel_island/de_koog)
-[Oudeschild](/europe/netherlands/waddenislands/texel_island/oudeschild)
-[Den Burg](/europe/netherlands/waddenislands/texel_island/den_burg)
+[De Koog](/europe/netherlands/texel_island/de_koog)
+[Oudeschild](/europe/netherlands/texel_island/oudeschild)
+[Den Burg](/europe/netherlands/texel_island/den_burg)

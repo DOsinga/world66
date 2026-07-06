@@ -7,7 +7,7 @@ longitude: 138.5
 score: 0.44
 snippet: Indonesian New Guinea region of mountain forests, river travel, Dani villages,
   and remote Papuan highlands.
-title: Irian Jaya
+title: Papua
 type: location
 ---
 

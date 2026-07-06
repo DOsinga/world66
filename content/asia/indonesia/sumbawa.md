@@ -6,7 +6,7 @@ image_attribution: Tiket2
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Landscape_view_with_Sengeang_volcano_in_Sumbawa,_Indonesia;_January_2020.jpg
 latitude: -8.594902
-loc_type: city
+loc_type: region
 longitude: 117.271607
 score: 7.2
 snippet: Rugged Indonesian island of former sultanates, horse culture, and volcanic

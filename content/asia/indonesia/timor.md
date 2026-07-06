@@ -7,7 +7,7 @@ image_attribution: Rakyat NTT
 image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Night_at_Kupang_city.jpg
 latitude: -9.75
-loc_type: city
+loc_type: region
 longitude: 124.0
 score: 6.45
 snippet: Indonesian half of Timor island, a dry savannah region with traditional villages

@@ -20,4 +20,4 @@ Devizes is a market town in the heart of Wiltshire, surrounded by chalk downland
 
 The market square is one of the largest in the west of England, ringed by coaching inns and Georgian townhouses. The Wiltshire Museum holds an outstanding Bronze Age collection, including the gold found at nearby Bush Barrow — burial goods older than Stonehenge. On Thursdays, the market still fills the square.
 
-Devizes is well placed for exploring the Wiltshire landscape. The Wandsdyke, the White Horse at Cherhill, and the stone circles at [Avebury](/europe/unitedkingdom/england/avebury) are all within easy reach. The town has no railway station, so you will need a car or bus from Swindon or Bath.
+Devizes is well placed for exploring the Wiltshire landscape. The Wandsdyke, the White Horse at Cherhill, and the stone circles at [Avebury](/europe/unitedkingdom/england/south_west/avebury) are all within easy reach. The town has no railway station, so you will need a car or bus from Swindon or Bath.

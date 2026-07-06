@@ -19,4 +19,4 @@ Buckden is a tiny stone village near the head of Wharfedale, where the valley na
 
 Come with boots and a flexible plan. In clear weather the ridge walks are excellent; when the tops are lost in cloud, the lower triangle through Cray and Hubberholme still gives you stone walls, sheep fields, river bends, and a proper Dales sense of distance.
 
-Buckden is best treated as a walking base or a slow day from [Grassington](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/grassington) or [Skipton](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/skipton). It is small enough to exhaust quickly if you came for shops or museums, but very rewarding if you came for the upper dale.
+Buckden is best treated as a walking base or a slow day from [Grassington](/europe/unitedkingdom/england/yorkshire/grassington) or [Skipton](/europe/unitedkingdom/england/yorkshire/skipton). It is small enough to exhaust quickly if you came for shops or museums, but very rewarding if you came for the upper dale.

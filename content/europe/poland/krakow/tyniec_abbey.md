@@ -1,18 +1,18 @@
 ---
+image: tyniec_abbey.jpg
+image_attribution: Jakub Hałun
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Wis%C5%82a,_Tyniec,_Krak%C3%B3w,_20201122_0807_1666.jpg
 latitude: 50.0097
 longitude: 19.8312
 score: 8.5
 snippet: Benedictine abbey on a limestone cliff above the Vistula, founded in the
   11th century
 tags:
-- day_trips
+- things_to_do
 - sight
 title: Tyniec Abbey
 type: poi
-image: tyniec_abbey.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Wis%C5%82a,_Tyniec,_Krak%C3%B3w,_20201122_0807_1666.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Jakub Hałun
 ---
 
 Tyniec Abbey, a Benedictine monastery built on a limestone cliff above the Vistula about 12 kilometres southwest of Krakow, is one of the oldest monastic communities in Poland — established around 1044, shortly after Poland became a Christian kingdom. The cliff-top setting is dramatic, the abbey buildings span ten centuries of architecture from Romanesque to Baroque, and the Vistula below gives the whole site a quality of geographical purpose that makes it feel genuinely significant rather than merely historic.

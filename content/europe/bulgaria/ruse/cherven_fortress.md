@@ -1,17 +1,16 @@
 ---
-title: "Cherven Fortress"
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - fortress
-  - archaeology
-  - day_trips
 latitude: 43.62244
+loc_type: feature
 longitude: 26.02493
 score: 8.0
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Rousse
+tags:
+- sight
+- fortress
+- archaeology
+title: Cherven Fortress
+type: location
 wikidata: Q3366992
 wikipedia: Cherven (fortress)
 ---

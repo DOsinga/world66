@@ -1,23 +1,23 @@
 ---
 address: Windsor Castle, Windsor, Berkshire SL4 1NJ
 admission: £26.50 adults, £15.50 children
+image: windsor.jpg
+image_attribution: PAUL FARMER
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:The_Windsor_Castle,_Francis_Street,_London_-_geograph.org.uk_-_2473025.jpg
 latitude: 51.483789
 longitude: -0.604042
 opening_hours: Daily 10am-5:15pm (varies by season, check website)
 phone: +44 303 123 7334
+score: 8.9
 snippet: Oldest and largest occupied castle in the world
 tags:
-- day_trips
+- things_to_do
 - church
 - palace
 title: Windsor Castle
 type: poi
 url: www.rct.uk/visit/windsor-castle
-score: 8.9
-image: windsor.jpg
-image_source: https://commons.wikimedia.org/wiki/File:The_Windsor_Castle,_Francis_Street,_London_-_geograph.org.uk_-_2473025.jpg
-image_license: CC BY-SA 2.0
-image_attribution: PAUL FARMER
 ---
 
 Windsor Castle, 24 miles west of central London, is the oldest and largest occupied castle in the world — a working royal residence that has been continuously inhabited for almost 1,000 years. The State Apartments, furnished with paintings from the Royal Collection including works by Rubens, Rembrandt, and Holbein, are the main draw. St George's Chapel, where ten monarchs are buried, is architecturally outstanding — Perpendicular Gothic at its most accomplished.

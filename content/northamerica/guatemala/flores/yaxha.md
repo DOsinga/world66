@@ -1,12 +1,12 @@
 ---
-title: Yaxha
-type: poi
+image: yaxha.jpg
+image_attribution: Jerome O. Kilmartin
+image_license: Public domain
+image_source: https://commons.wikimedia.org/wiki/File:Amado_Esquivel_and_W.A._Love_on_shore_trail,_Lake_Yaxha,_Guatemala_1923.tif
 latitude: 17.0739
+loc_type: feature
 longitude: -89.4082
-tags:
-- day_trips
-- sight
-- ruin
+score: 8.7
 story: 'Yaxha is the site that made the producers of Survivor: Guatemala set their
   season here in 2005 — partly for its scale (it was the third- largest Classic Maya
   city in the southern lowlands), partly because the jungle around it had pumas, jaguars,
@@ -14,11 +14,11 @@ story: 'Yaxha is the site that made the producers of Survivor: Guatemala set the
   the pyramids are cleared; most are still under rainforest.
 
   '
-score: 8.7
-image: yaxha.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Amado_Esquivel_and_W.A._Love_on_shore_trail,_Lake_Yaxha,_Guatemala_1923.tif
-image_license: Public domain
-image_attribution: Jerome O. Kilmartin
+tags:
+- sight
+- ruin
+title: Yaxha
+type: location
 ---
 
 About 70 kilometres east of Flores, Yaxha is the second-largest restored Maya site in Peten after Tikal. The site sits on a ridge between two lakes; Temple 216, the tallest pyramid, gives an unobstructed view at sunset across the rainforest, the lakes, and (on clear evenings) the silhouettes of pyramids at smaller sites in between.

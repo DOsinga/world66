@@ -1,21 +1,21 @@
 ---
-title: Kodachadri
-type: poi
-tags:
-- day_trips
-- nature
-- trekking
+image: kodachadri.jpg
+image_attribution: alexrudd
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:At_the_edge_of_the_forests_of_Kodachadri_Western_Ghats_Karnataka_India_2014.jpg
 latitude: 13.8667
 longitude: 74.9667
+score: 8.3
 story: Kodachadri is the tenth highest peak in Karnataka and one of the few Ghats
   summits still genuinely forested at the top — a dense shola forest caps the 1,343-metre
   peak, and the Karnataka Forest Department requires trekkers to take a licensed guide,
   which has helped keep it less trampled than better-known Ghats trails.
-score: 8.3
-image: kodachadri.jpg
-image_source: https://commons.wikimedia.org/wiki/File:At_the_edge_of_the_forests_of_Kodachadri_Western_Ghats_Karnataka_India_2014.jpg
-image_license: CC BY-SA 2.0
-image_attribution: alexrudd
+tags:
+- things_to_do
+- nature
+- trekking
+title: Kodachadri
+type: poi
 ---
 
 Kodachadri, about 95 km southwest of Shimoga, is the most rewarding trekking destination accessible from the city. The 1,343-metre peak sits within the Mookambika Wildlife Sanctuary and is forested almost all the way to the summit, where a small shrine to the goddess Sarvajnapeetha sits amid clouds and shola scrub.

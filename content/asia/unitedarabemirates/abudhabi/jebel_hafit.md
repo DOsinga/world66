@@ -1,15 +1,16 @@
 ---
-title: Jebel Hafit
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - mountain
-  - day_trips
 latitude: 24.0747
 longitude: 55.7642
-story: "The drive up Jebel Hafit climbs 1,200 metres through 60 hairpin bends in 12 kilometres — voted one of the world's great driving roads by *Top Gear*. At the top, the view stretches across Al Ain on one side and into Oman on the other."
 score: 7.8
+story: The drive up Jebel Hafit climbs 1,200 metres through 60 hairpin bends in 12
+  kilometres — voted one of the world's great driving roads by *Top Gear*. At the
+  top, the view stretches across Al Ain on one side and into Oman on the other.
+tags:
+- things_to_do
+- sight
+- mountain
+title: Jebel Hafit
+type: poi
 ---
 
 The country's second-highest peak, 1,249 metres above the desert outside Al Ain. The drive up is the attraction: a wide three-lane road that twists and climbs through dramatic limestone cliffs, with several lay-bys for photographs and a pair of restaurants near the summit.

@@ -1,13 +1,14 @@
 ---
 latitude: -19.2253
+loc_type: feature
 longitude: -43.8908
-snippet: "One of Brazil's oldest cave systems open to visitors, 110 km north of Belo Horizonte"
+score: 7.6
+snippet: One of Brazil's oldest cave systems open to visitors, 110 km north of Belo
+  Horizonte
 tags:
-- day_trips
 - nature
 title: Maquiné Cave
-type: poi
-score: 7.6
+type: location
 ---
 
 The Maquiné Cave (Gruta de Maquiné) is one of the most accessible large cave systems in Brazil, around 110 km north of Belo Horizonte. It was the first commercial cave in the country — the Danish naturalist Peter Lund (later famous for his work on early human remains in the area) explored it in 1834 and opened it to visitors soon after.

@@ -5,8 +5,8 @@ longitude: 121.543
 score: 8.6
 snippet: Museum of the White Terror, in a former military detention complex
 tags:
+- things_to_do
 - museum
-- day_trips
 title: National Human Rights Museum (Jingmei)
 type: poi
 url: https://www.nhrm.gov.tw

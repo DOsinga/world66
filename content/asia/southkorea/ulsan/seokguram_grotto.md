@@ -1,18 +1,17 @@
 ---
 done:
   poi_cleanup: '2026-04-20'
-latitude: 35.7948
-longitude: 129.3493
-snippet: UNESCO-listed stone Buddha in an artificial grotto above the East Sea
-tags:
-- day_trips
-title: Seokguram Grotto
-type: poi
-score: 8.3
 image: seokguram_grotto.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Interior_view_of_the_Buddhist_temple_near_Seokguram_Grotto_in_Gyeongju_South_Korea.jpg
-image_license: CC BY-SA 4.0
 image_attribution: Basile Morin
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Interior_view_of_the_Buddhist_temple_near_Seokguram_Grotto_in_Gyeongju_South_Korea.jpg
+latitude: 35.7948
+loc_type: feature
+longitude: 129.3493
+score: 8.3
+snippet: UNESCO-listed stone Buddha in an artificial grotto above the East Sea
+title: Seokguram Grotto
+type: location
 ---
 
 If you are visiting Bulguksa, adding Seokguram Grotto to a day’s

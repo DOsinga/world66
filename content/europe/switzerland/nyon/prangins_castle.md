@@ -1,14 +1,15 @@
 ---
-title: "Château de Prangins"
-type: poi
 latitude: 46.3942
-longitude: 6.2520
+longitude: 6.252
+score: 8.6
+snippet: 18th-century château just outside Nyon, now the Romandy branch of the Swiss
+  National Museum
 tags:
-- day_trips
+- things_to_do
 - museum
 - architecture
-snippet: 18th-century château just outside Nyon, now the Romandy branch of the Swiss National Museum
-score: 8.6
+title: Château de Prangins
+type: poi
 ---
 
 About two kilometres along the lakeshore from central Nyon, the Château de Prangins is a baroque country house built in the 1730s. Voltaire owned it briefly; the family of Joseph Bonaparte — Napoleon's brother and briefly King of Naples — lived here in exile in the 1810s. Since 1998 it has been the French-speaking-Switzerland branch of the Swiss National Museum, focused on Switzerland's 18th and 19th centuries: the Enlightenment, industrialisation, and the everyday life of the period.

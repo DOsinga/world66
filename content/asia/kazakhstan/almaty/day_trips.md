@@ -1,8 +1,9 @@
 ---
+linked_locations:
+- asia/kazakhstan/sharyn_canyon
+- asia/kazakhstan/tamgaly_petroglyphs
 title: Day Trips
 type: section
-linked_locations:
-  - asia/kazakhstan/sharyn_canyon
 ---
 
 The mountains and steppe around Almaty are extraordinarily accessible. The Ile-Alatau National Park begins at the city's southern edge; [Sharyn Canyon](/asia/kazakhstan/sharyn_canyon) — the red-rock gorge often called the Grand Canyon of Central Asia — is three hours east; and Tamgaly's UNESCO-listed petroglyphs are two and a half hours northwest. Most sites are reachable in a day without an overnight stay.

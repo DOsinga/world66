@@ -2,6 +2,7 @@
 linked_locations:
 - europe/poland/zakopane
 - europe/poland/wieliczka_salt_mine
+- europe/poland/auschwitz_birkenau
 title: Day Trips
 type: section
 ---

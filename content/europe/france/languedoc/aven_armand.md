@@ -2,15 +2,15 @@
 done:
   poi_cleanup: '2026-04-20'
 latitude: 44.2183
+loc_type: feature
 longitude: 3.4614
 phone: +33 4 66 45 61 31
 score: 8.0
 snippet: Vast underground forest of 400 stalagmites
 tags:
-- things_to_do
 - sight
 title: Aven Armand
-type: poi
+type: location
 url: https://www.aven-armand.com
 ---
 

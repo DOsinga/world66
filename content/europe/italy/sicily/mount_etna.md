@@ -4,6 +4,7 @@ image_attribution: lewispb
 image_license: CC0
 image_source: https://commons.wikimedia.org/wiki/File:View_of_Catania_from_Mount_Etna,_Sicily.jpg
 latitude: 37.751
+loc_type: feature
 longitude: 14.9934
 score: 9.6
 story: Etna has erupted continuously for at least 500,000 years and is currently in
@@ -12,10 +13,9 @@ story: Etna has erupted continuously for at least 500,000 years and is currently
   the height of the south-east crater. The mountain is the highest active volcano
   in Europe at around 3,330 metres, and the height changes year by year.
 tags:
-- things_to_do
 - sight
 title: Mount Etna
-type: poi
+type: location
 ---
 
 Mount Etna is the volcano that dominates Catania and the eastern coast of Sicily — visible from almost every street and very often from the sea miles offshore. A trip up the mountain is the standard excursion from the city. The lower flanks are vineyards and chestnut woods, the middle a desolate moonscape of black ash and old lava flows, and the upper craters either snow-covered or steaming, depending on the season.

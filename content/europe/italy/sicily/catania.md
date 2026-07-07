@@ -21,4 +21,4 @@ The fish market near [Piazza del Duomo](/europe/italy/sicily/catania/piazza_del_
 
 The city is also the birthplace of pasta alla norma — tomato, fried aubergine, salted ricotta — and the food scene generally is excellent and cheap compared to the tourist centres further north. Catania is a working city, a university city, and it shows in the bars and trattorias that stay open late.
 
-Catania is the main gateway to [Mount Etna](/europe/italy/sicily/catania/mount_etna) and the eastern coast of Sicily, with good transport connections south to [Siracusa](/europe/italy/sicily/siracusa) and north toward [Taormina](/europe/italy/sicily/taormina) and Messina.
+Catania is the main gateway to [Mount Etna](/europe/italy/sicily/mount_etna) and the eastern coast of Sicily, with good transport connections south to [Siracusa](/europe/italy/sicily/siracusa) and north toward [Taormina](/europe/italy/sicily/taormina) and Messina.

@@ -1,5 +1,6 @@
 ---
 latitude: 53.4856
+loc_type: feature
 longitude: 20.1156
 score: 7.5
 snippet: Site of the 1410 Polish-Lithuanian victory over the Teutonic Knights
@@ -9,10 +10,9 @@ story: The Battle of Grunwald on 15 July 1410 was one of the largest battles of 
   by thousands of costumed re-enactors and the battlefield fills with armoured knights
   for a weekend.
 tags:
-- things_to_do
 - sight
 title: Grunwald Battlefield
-type: poi
+type: location
 ---
 
 About 50 km south of Olsztyn lies the gently rolling field where, on 15 July 1410, the combined Polish-Lithuanian army under King Władysław Jagiełło crushed the Teutonic Knights. The battle is one of the foundational events of Polish national identity.

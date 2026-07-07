@@ -4,6 +4,7 @@ image_attribution: ogwen
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Volc%C3%A1n_de_Izalco,_El_Salvador_-_panoramio.jpg
 latitude: 13.8136
+loc_type: feature
 longitude: -89.6333
 score: 7.6
 story: 'Izalco earned the name "Lighthouse of the Pacific" because it erupted so frequently
@@ -15,10 +16,9 @@ story: 'Izalco earned the name "Lighthouse of the Pacific" because it erupted so
 
   '
 tags:
-- things_to_do
 - sight
 title: Izalco Volcano
-type: poi
+type: location
 ---
 
 Izalco is visible from the rim of Cerro Verde National Park and makes a formidable visual impression — a stark, ash-grey cone rising above the surrounding forest, looking actively hostile even in repose. The hike to the summit of Izalco is steeper and more demanding than the Santa Ana Volcano trail, with loose volcanic rock making the ascent tiring.

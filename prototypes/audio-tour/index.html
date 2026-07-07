@@ -120,8 +120,17 @@ let TOUR=[],heard=new Set(),current=null,curAudio=null;
 let map,markers,routeLine,meMarker;
 let walk=false,sim=false,watchId=null,me=null,alerted=new Set(),audioCtx=null;
 
+const TOURS={
+  amersfoort:{title:'Amersfoort — Old Town',where:'the old town'},
+  marseille: {title:'Marseille — Fort Saint-Jean',where:'Fort Saint-Jean'},
+};
+const TOURNAME=(new URLSearchParams(location.search).get('tour')||'amersfoort').toLowerCase();
+const TOURMETA=TOURS[TOURNAME]||{title:TOURNAME,where:'the tour'};
+
 async function boot(){
-  TOUR=await (await fetch('tour_data.json')).json();
+  TOUR=await (await fetch(`tours/${TOURNAME}/tour_data.json`)).json();
+  document.title=TOURMETA.title+' — Audio Wander (POC)';
+  document.querySelector('h1').textContent=TOURMETA.title;
   map=L.map('map',{zoomControl:false});
   L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',
     {maxZoom:20,attribution:'© OpenStreetMap · © CARTO'}).addTo(map);
@@ -270,7 +279,7 @@ function renderChoices(){
   if(choices.length===0){ document.getElementById('nexth').textContent='Last stop';
     document.getElementById('nexthint').textContent='';
     list.innerHTML=`<div class="done"><div style="font-size:26px">✦</div>
-      <p>That's all ${TOUR.length} stories around Fort Saint-Jean.</p>
+      <p>That's all ${TOUR.length} stories around ${TOURMETA.where}.</p>
       <button class="restart" onclick="restart()">Start again</button></div>`; return; }
   list.innerHTML=choices.map((c,i)=>`
     <button class="choice" onclick="goTo(TOUR.find(p=>p.slug==='${c.slug}'))">

@@ -79,26 +79,33 @@ def main() -> int:
     ap.add_argument("--voice", default="en-US-Neural2-D", help="Google TTS voice name")
     ap.add_argument("--lang", default="en-US")
     ap.add_argument("--content-root", default=".", help="repo root for resolving tour_data slugs")
+    ap.add_argument("--from-tour", help="synthesise directly from a tour_data.json's story fields "
+                                        "(self-contained; no content files needed)")
     args = ap.parse_args()
 
-    if args.glob:
-        files = [Path(p) for p in glob.glob(args.glob)]
+    # Build a list of (slug, narration-text) items from whichever source.
+    items = []
+    if args.from_tour:
+        for e in json.loads(Path(args.from_tour).read_text()):
+            items.append((e["slug"], f"{e['title']}. {e['story']}"))
+    elif args.glob:
+        for f in (Path(p) for p in glob.glob(args.glob)):
+            if f.exists(): items.append(narration(f))
     else:
         tour = json.loads(Path("tour_data.json").read_text())
         root = Path(args.content_root)
-        files = [root / "content/europe/france/cotedazur/marseille" / f"{p['slug']}.md"
-                 for p in tour]
+        for p in tour:
+            f = root / "content/europe/france/cotedazur/marseille" / f"{p['slug']}.md"
+            if f.exists(): items.append(narration(f))
+            else: print("  missing:", f)
 
-    out = Path(args.out); out.mkdir(exist_ok=True)
+    out = Path(args.out); out.mkdir(parents=True, exist_ok=True)
     hpath = out / ".audio_hashes.json"
     hashes = json.loads(hpath.read_text()) if hpath.exists() else {}
     token, project = access_token(), project_id()
 
     made = skipped = 0
-    for f in files:
-        if not f.exists():
-            print("  missing:", f); continue
-        slug, text = narration(f)
+    for slug, text in items:
         digest = hashlib.sha256((args.voice + "\n" + text).encode()).hexdigest()
         mp3 = out / f"{slug}.mp3"
         if mp3.exists() and hashes.get(slug) == digest:

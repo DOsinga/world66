@@ -12,8 +12,15 @@ It combines two things from world66:
 - **The proximity logic from the `/next` app** (PR #2061) — nearest-POI selection within a
   walking band, which drives "where to next".
 
-This prototype ships a self-contained slice: **10 POIs clustered within ~95 m around Fort
-Saint-Jean, Marseille**.
+Tours live under `tours/<city>/` (each a `tour_data.json` + an `audio/` dir of MP3s). Two
+ship today:
+
+- **`amersfoort`** (default) — **24 curbside POIs in a ~1 km old-town loop**: the Keien
+  boulder collection, the Kadastraal Middelpunt, the Mannenzaal and gasthuis, hofjes,
+  memorials, and public art. Sourced from the ~80 Amersfoort curbside POIs (PR #2211).
+- **`marseille`** — the original **10-POI Fort Saint-Jean** slice.
+
+Pick one with `?tour=<name>` (e.g. `http://localhost:8077/?tour=marseille`).
 
 ## What it does
 
@@ -30,8 +37,23 @@ Saint-Jean, Marseille**.
 ```bash
 cd prototypes/audio-tour
 python3 server.py            # serves the page + proxies routing
-# open http://localhost:8077
+# open http://localhost:8077            (Amersfoort, the default)
+# open http://localhost:8077/?tour=marseille
 ```
+
+**On a phone** (for GPS walk mode you need HTTPS): tunnel the local server, e.g.
+`ngrok http 8077`, and open the HTTPS URL it prints on the phone.
+
+**Add a new tour**: build `tours/<city>/tour_data.json` (an array of
+`{slug,title,lat,lng,snippet,story,audio}`, where `audio` is `tours/<city>/audio/<slug>.mp3`),
+then generate its audio directly from those stories:
+
+```bash
+python3 generate_audio_google.py --from-tour tours/<city>/tour_data.json \
+    --out tours/<city>/audio --voice en-GB-Neural2-B --lang en-GB
+```
+
+Finally add a `<city>: {title, where}` entry to the `TOURS` map in `index.html`.
 
 `server.py` is stdlib-only. It serves the static page and exposes `GET /route?from_lat=..
 &from_lng=..&to_lat=..&to_lng=..`, which it fulfils by calling the Google Routes API

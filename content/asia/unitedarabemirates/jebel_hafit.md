@@ -11,6 +11,10 @@ tags:
 - mountain
 title: Jebel Hafit
 type: location
+image: jebel_hafit.jpg
+image_source: https://commons.wikimedia.org/wiki/File:CJW7927.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Chuck202
 ---
 
 The country's second-highest peak, 1,249 metres above the desert outside Al Ain. The drive up is the attraction: a wide three-lane road that twists and climbs through dramatic limestone cliffs, with several lay-bys for photographs and a pair of restaurants near the summit.

@@ -1,13 +1,14 @@
 ---
+linked_locations:
+- northamerica/unitedstates/colorado/boulder
+- northamerica/unitedstates/colorado/coloradosprings
+- northamerica/unitedstates/colorado/golden
+- northamerica/unitedstates/colorado/idaho_springs
+- northamerica/unitedstates/colorado/loveland_pass
+- northamerica/unitedstates/colorado/rocky_mountain_national_park
+- northamerica/unitedstates/colorado/mount_evans
 title: Day Trips
 type: section
-linked_locations:
-  - northamerica/unitedstates/colorado/boulder
-  - northamerica/unitedstates/colorado/coloradosprings
-  - northamerica/unitedstates/colorado/golden
-  - northamerica/unitedstates/colorado/idaho_springs
-  - northamerica/unitedstates/colorado/loveland_pass
-  - northamerica/unitedstates/colorado/rocky_mountain_national_park
 ---
 
 The Front Range is genuinely close. From downtown you can be at [Red Rocks](/northamerica/unitedstates/colorado/denver/red_rocks) in 25 minutes, on Lookout Mountain at [Buffalo Bill's grave](/northamerica/unitedstates/colorado/denver/buffalo_bill_grave) in 35, hiking the Flatirons in [Boulder](/northamerica/unitedstates/colorado/boulder) in 45, or soaking in the hot springs at [Idaho Springs](/northamerica/unitedstates/colorado/idaho_springs) in an hour.

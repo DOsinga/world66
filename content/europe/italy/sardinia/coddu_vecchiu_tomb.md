@@ -15,6 +15,10 @@ tags:
 - archaeology
 title: Coddu Vecchiu Giants' Tomb
 type: location
+image: coddu_vecchiu_tomb.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Arzachena_Tomba_dei_Giganti_Coddu_Vecchju_inside.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Unknown
 ---
 
 Coddu Vecchiu is among the best-preserved and most dramatic Giants' Tombs in Sardinia, located near the town of Arzachena about 25km north of Olbia. The monument dates from the Middle Bronze Age (around 1800–1400 BC) and represents the Nuragic culture's approach to communal burial and ancestor veneration.

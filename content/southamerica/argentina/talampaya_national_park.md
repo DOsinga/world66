@@ -8,6 +8,10 @@ tags:
 - nature
 title: Talampaya National Park
 type: location
+image: talampaya_national_park.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Talampaya_National_Park_-_54490566407.jpg
+image_license: CC BY-SA 2.0
+image_attribution: gedankenstuecke
 ---
 
 Talampaya is the reason most visitors come to La Rioja, and it more than justifies the journey. The park, about 180 km north of the city on Route 26, protects a landscape of extraordinary red sandstone formations — sheer canyon walls rising up to 150 metres, eroded over millions of years into towers, archways, and narrow corridors. Together with Ischigualasto Provincial Park just over the border in San Juan Province, it was designated a UNESCO World Heritage Site in 2000 for its outstanding geological and palaeontological record of the Triassic period.

@@ -1,9 +1,12 @@
 ---
-title: Day Trips
-type: section
-tags: [day_trips]
 linked_locations:
 - asia/india/karnataka/agumbe
+- asia/india/karnataka/jog_falls
+- asia/india/karnataka/kodachadri
+tags:
+- day_trips
+title: Day Trips
+type: section
 ---
 
 Shimoga's real value is as a base for exploring the surrounding Malnad region. The bus stand connects to all the major destinations; a private car or motorcycle gives more flexibility for the forest roads.

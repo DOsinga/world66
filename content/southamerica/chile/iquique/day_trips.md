@@ -1,6 +1,7 @@
 ---
-linked_locations: []
-title: "Day Trips"
+linked_locations:
+- southamerica/chile/humberstone
+title: Day Trips
 type: section
 ---
 

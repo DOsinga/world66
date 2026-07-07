@@ -1,10 +1,11 @@
 ---
+linked_locations:
+- europe/russia/vladimir
+- europe/russia/vologda_region/vologda
+- europe/russia/kazan
+- europe/russia/borodino
 title: Day Trips
 type: section
-linked_locations:
-  - europe/russia/vladimir
-  - europe/russia/vologda_region/vologda
-  - europe/russia/kazan
 ---
 
 Day trip in Moscow does not always mean "go in the morning, come back in the evening." Distances are vast, and the classic Russian approach is to board a train in the evening, sleep comfortably aboard, spend the day in a city some hundreds of kilometres away, and sleep one more night on the train home.

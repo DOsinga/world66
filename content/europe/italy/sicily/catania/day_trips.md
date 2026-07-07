@@ -1,12 +1,13 @@
 ---
-title: 'Day Trips'
-type: section
 linked_locations:
-  - europe/italy/sicily/taormina
-  - europe/italy/sicily/siracusa
-  - europe/italy/sicily/acireale
-  - europe/italy/sicily/acitrezza
-  - europe/italy/sicily/acicastello
+- europe/italy/sicily/taormina
+- europe/italy/sicily/siracusa
+- europe/italy/sicily/acireale
+- europe/italy/sicily/acitrezza
+- europe/italy/sicily/acicastello
+- europe/italy/sicily/mount_etna
+title: Day Trips
+type: section
 ---
 
 Catania is an excellent base for the eastern half of Sicily. [Mount Etna](/europe/italy/sicily/mount_etna) is the obvious priority — half-day or full-day tours run from the city, with the southern Rifugio Sapienza route the most common. The mountain villages of Zafferana Etnea, Nicolosi and Linguaglossa make pleasant lunch stops in their own right.

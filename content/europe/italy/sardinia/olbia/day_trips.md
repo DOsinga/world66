@@ -1,10 +1,11 @@
 ---
-title: "Day Trips"
-type: section
 linked_locations:
-  - europe/italy/sardinia/lamaddelena
-  - europe/italy/sardinia/costasmeralda
-  - europe/italy/sardinia/arzachena
+- europe/italy/sardinia/lamaddelena
+- europe/italy/sardinia/costasmeralda
+- europe/italy/sardinia/arzachena
+- europe/italy/sardinia/coddu_vecchiu_tomb
+title: Day Trips
+type: section
 ---
 
 The [Maddalena Archipelago](/europe/italy/sardinia/lamaddelena), reached by ferry from Palau (40km north), is one of the most beautiful stretches of coast in the Mediterranean: a national park of small granite islands with clear turquoise water. La Maddalena and Caprera are the main islands, the latter home to Garibaldi's house and tomb.

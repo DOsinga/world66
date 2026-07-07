@@ -14,6 +14,10 @@ tags:
 - unesco
 title: Humberstone Nitrate Works
 type: location
+image: humberstone.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Humberstone.jpg
+image_license: CC BY-SA 2.0
+image_attribution: rewbs.soal
 ---
 
 The UNESCO-listed nitrate town of Humberstone, 45 kilometres east of Iquique, is the most evocative ghost town in Chile. Founded in 1872, it was one of more than 200 saltpetre extraction towns that boomed across the Atacama between the 1880s and the 1930s. When synthetic nitrates ended the boom, the towns were abandoned almost overnight — and the desert preserved them.

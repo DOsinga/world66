@@ -1,6 +1,4 @@
 ---
-title: "Day Trips"
-type: section
 linked_locations:
 - northamerica/mexico/yucatan/chichen_itza
 - northamerica/mexico/coba
@@ -9,6 +7,11 @@ linked_locations:
 - northamerica/mexico/playadelcarmen
 - northamerica/mexico/tulum
 - northamerica/mexico/yucatan/valladolid_1
+- northamerica/mexico/tulum_ruins
+- northamerica/mexico/cenote_ik_kil
+- northamerica/mexico/cenote_dos_ojos
+title: Day Trips
+type: section
 ---
 
 The Yucatán Peninsula packs extraordinary day-trip options around Cancun, and for many visitors the surroundings are the real reason to come.

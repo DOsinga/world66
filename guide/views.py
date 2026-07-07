@@ -1076,3 +1076,78 @@ def _file_to_url_path(file_path):
     if len(parts) >= 2 and parts[-1] == parts[-2]:
         parts = parts[:-1]
     return '/'.join(parts)
+
+# ---------------------------------------------------------------------------
+# Audio walking tour — /tour/<location>, over every POI with coordinates.
+# Audio is hybrid: a colocated <slug>.mp3 is used when present, otherwise the
+# browser speaks the story text (SpeechSynthesis). No audio needs generating.
+# ---------------------------------------------------------------------------
+AUDIO_SUFFIX = ".mp3"
+
+
+def content_audio(request, path):
+    """Serve a colocated POI narration MP3 from the content tree."""
+    safe = _safe_content_path(path)
+    if not safe or not safe.lower().endswith(AUDIO_SUFFIX):
+        raise Http404
+    file_path = (CONTENT_DIR / safe).resolve()
+    if not file_path.is_relative_to(CONTENT_DIR.resolve()) or not file_path.is_file():
+        raise Http404
+    return FileResponse(open(file_path, "rb"), content_type="audio/mpeg")
+
+
+def tour_route(request):
+    """Live walking-route proxy: /api/route?from_lat=&from_lng=&to_lat=&to_lng="""
+    try:
+        fa = float(request.GET["from_lat"]); fo = float(request.GET["from_lng"])
+        ta = float(request.GET["to_lat"]);   to = float(request.GET["to_lng"])
+    except (KeyError, ValueError):
+        return JsonResponse({"error": "from_lat,from_lng,to_lat,to_lng required"}, status=400)
+    from .tour import walking_route
+    try:
+        return JsonResponse(walking_route(fa, fo, ta, to))
+    except Exception as e:  # noqa: BLE001 — surface upstream failures to the client
+        return JsonResponse({"error": str(e)}, status=502)
+
+
+def _tour_pois(location_path):
+    """Every POI with coordinates and a body under location_path, hybrid audio."""
+    base = CONTENT_DIR / location_path
+    if not base.is_dir():
+        return []
+    pois = []
+    for mdfile in sorted(base.rglob("*.md")):
+        rel = str(mdfile.relative_to(CONTENT_DIR).with_suffix(""))
+        page = load_page(rel)
+        if not page or page.page_type != "poi":
+            continue
+        lat = _safe_float(page.meta.get("latitude"))
+        lng = _safe_float(page.meta.get("longitude"))
+        story = (page.body or "").strip()
+        if lat is None or lng is None or not story:
+            continue
+        has_audio = mdfile.with_suffix(AUDIO_SUFFIX).exists()
+        pois.append({
+            "slug": page.slug, "title": page.title, "lat": lat, "lng": lng,
+            "snippet": page.meta.get("snippet", "") or "",
+            "story": story,
+            "audio": f"/content-audio/{rel}{AUDIO_SUFFIX}" if has_audio else None,
+            "score": float(page.meta.get("score", 0) or 0),
+        })
+    return pois
+
+
+def tour_view(request, path):
+    """The audio walking-tour app for all POIs under a location."""
+    page = load_page(path)
+    if not page:
+        raise Http404
+    pois = _tour_pois(path)
+    if not pois:
+        raise Http404
+    return render(request, "guide/tour.html", {
+        "tour_title": page.title,
+        "tour_path": path,
+        "tour_json": mark_safe(json.dumps(pois)),
+        "poi_count": len(pois),
+    })

@@ -17,6 +17,10 @@ tags:
 - sight
 title: Lascaux IV
 type: location
+image: lascaux.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Lascaux-IV_01.jpg
+image_license: Public domain
+image_attribution: Traumrune
 ---
 
 The original Lascaux cave, near Montignac in the Vézère Valley, contains some of the most extraordinary Palaeolithic paintings in the world — 17,000-year-old images of bulls, horses, aurochs, and deer covering every surface in vivid ochre and manganese black. It has been closed to the public since 1963 to protect the paintings from the damage caused by visitor breath and light.

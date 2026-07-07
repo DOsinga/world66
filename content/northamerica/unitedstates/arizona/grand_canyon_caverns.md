@@ -11,6 +11,10 @@ story: 'In the 1960s the U.S. government stocked the caverns with enough freeze-
   '
 title: Grand Canyon Caverns
 type: location
+image: grand_canyon_caverns.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cave_Popcorn_(Grand_Canyon_Caverns).JPG
+image_license: CC BY-SA 2.5
+image_attribution: Alexander Glazkov
 ---
 
 About 100 kilometres east of Kingman on Historic Route 66, this dry limestone cave system descends 65 metres underground via lift. Discovered in 1927 by a woodcutter who fell into a sinkhole, the caverns are notable for their bone-dry air — there are no stalactites, no dripping water, and no living organisms, which preserves everything that gets left inside indefinitely. A 1920s-era pack rat skeleton is on display as evidence.

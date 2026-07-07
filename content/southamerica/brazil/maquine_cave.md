@@ -9,6 +9,10 @@ tags:
 - nature
 title: Maquiné Cave
 type: location
+image: maquine_cave.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Gruta_de_Maquin%C3%A9,_MG.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Bárbara Gondim
 ---
 
 The Maquiné Cave (Gruta de Maquiné) is one of the most accessible large cave systems in Brazil, around 110 km north of Belo Horizonte. It was the first commercial cave in the country — the Danish naturalist Peter Lund (later famous for his work on early human remains in the area) explored it in 1834 and opened it to visitors soon after.

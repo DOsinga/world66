@@ -12,6 +12,10 @@ tags:
 - sight
 title: Alabaster Caverns State Park
 type: location
+image: alabaster_caverns_state_park.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Alabaster_Cavern_5678425680.jpg
+image_license: CC BY 2.0
+image_attribution: Matt Howry from Ardmore, OK, USA
 ---
 
 Alabaster Caverns lies about 30 miles south of Alva near the town of Freedom. The main cavern is a 200-million-year-old gypsum cave roughly three-quarters of a mile long; guided tours run hourly and last about 45 minutes. The temperature inside stays at 50°F regardless of the weather outside, so bring a sweater.

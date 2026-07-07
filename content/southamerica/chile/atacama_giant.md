@@ -11,6 +11,10 @@ tags:
 - sight
 title: Atacama Giant (Gigante de Tarapacá)
 type: location
+image: atacama_giant.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Geoglifo_de_Pintados_-_gigante_de_atacama.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Sznegra
 ---
 
 About 80 kilometres north-east of Iquique, on a barren hill near the village of Huara, lies the largest pre-Columbian human figure on earth. The Gigante de Atacama is 86 metres tall, etched into the desert by clearing dark stones from the lighter ground beneath. Created between roughly 1000 and 1400 CE by the indigenous peoples of the Tarapacá, the figure carries a staff and is crowned with rays that probably tracked the moon for agricultural and ceremonial purposes.

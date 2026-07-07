@@ -5,13 +5,14 @@ image_attribution: Ymblanter
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Healesville_Pelecanus_conspicillatus_in_Healesville_Sanctuary_01.jpg
 latitude: -37.6688
-loc_type: feature
 longitude: 145.53
 phone: 03-5957 2800
 score: 8.3
 snippet: Native wildlife park with koalas, platypus, and raptor shows
+tags:
+- things_to_do
 title: Healesville Sanctuary
-type: location
+type: poi
 url: www.zoo.org.au
 ---
 

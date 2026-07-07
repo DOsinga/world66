@@ -1,6 +1,5 @@
 ---
 latitude: 45.0515
-loc_type: feature
 longitude: 1.1709
 score: 9.1
 snippet: Full-scale replica of the Lascaux cave paintings, 25 km north of Sarlat
@@ -13,10 +12,11 @@ story: 'The original Lascaux cave was discovered in 1940 by four teenagers follo
 
   '
 tags:
+- things_to_do
 - museum
 - sight
 title: Lascaux IV
-type: location
+type: poi
 ---
 
 The original Lascaux cave, near Montignac in the Vézère Valley, contains some of the most extraordinary Palaeolithic paintings in the world — 17,000-year-old images of bulls, horses, aurochs, and deer covering every surface in vivid ochre and manganese black. It has been closed to the public since 1963 to protect the paintings from the damage caused by visitor breath and light.

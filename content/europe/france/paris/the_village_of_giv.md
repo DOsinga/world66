@@ -2,15 +2,15 @@
 address: 84 Rue Claude Monet, 27620 Giverny
 admission: €12.50
 latitude: 49.076405
-loc_type: feature
 longitude: 1.533498
 opening_hours: Late Mar–early Nov, daily 9:30am–6pm
 score: 8.9
 snippet: Monet's house and the water lily gardens that inspired his masterworks
 tags:
+- things_to_do
 - sight
 title: Giverny — Monet's Gardens
-type: location
+type: poi
 url: www.fondation-monet.com
 ---
 

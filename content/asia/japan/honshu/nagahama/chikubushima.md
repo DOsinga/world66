@@ -1,4 +1,8 @@
 ---
+image: chikubushima.jpg
+image_attribution: KimonBerlin
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Ducks_resting_on_Chikubu-shima_(2097358828).jpg
 latitude: 35.466
 longitude: 136.1328
 score: 8.5
@@ -8,13 +12,8 @@ tags:
 - things_to_do
 - sight
 - island
-- day_trips
 title: Chikubu-shima
 type: poi
-image: chikubushima.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Ducks_resting_on_Chikubu-shima_(2097358828).jpg
-image_license: CC BY-SA 2.0
-image_attribution: KimonBerlin
 ---
 
 **Chikubu-shima** (竹生島) is a small wooded island rising steeply out of the northern waters of Lake Biwa, about 30 minutes from Nagahama by ferry. It is one of the most sacred sites in the region: Tsukubusuma Shrine (都久夫須麻神社) and Hogonji Temple (宝厳寺) share the island and both trace their origins to the fifth or sixth century. The island is considered a divine realm — the rocks, trees, and shoreline are treated with the reverence accorded to sacred ground, and landing is restricted to the main pier.

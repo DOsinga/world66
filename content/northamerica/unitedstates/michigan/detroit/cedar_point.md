@@ -1,14 +1,14 @@
 ---
 address: 1 Cedar Point Dr, Sandusky, OH 44870
 latitude: 41.4789
-loc_type: feature
 longitude: -82.6829
 score: 7.7
 snippet: America's great roller coaster park, two hours south in Ohio
 tags:
+- things_to_do
 - sight
 title: Cedar Point
-type: location
+type: poi
 ---
 
 Cedar Point, on a peninsula jutting into Lake Erie near Sandusky, Ohio, has more record-breaking roller coasters than any other park in the world and a passionate fanbase that travels specifically for the rides. Steel Vengeance, Millennium Force, Top Thrill 2, Maverick, and Magnum XL-200 are among the headline coasters; the park has added major new rides nearly every decade since the 1970s. The lakefront setting gives the place a genuinely scenic backdrop that most amusement parks lack.

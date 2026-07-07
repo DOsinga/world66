@@ -4,14 +4,14 @@ image_attribution: Beko
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Dashtadem_Fortress_in_the_Aragatsotn_Province_of_Armenia_02.jpg
 latitude: 40.344479444444445
-loc_type: feature
 longitude: 43.85907666666667
 score: 8.0
 tags:
+- things_to_do
 - sight
 - ruins
 title: Dashtadem Fortress
-type: location
+type: poi
 ---
 
 Five kilometres south of Talin, the village of Dashtadem holds one of the better-preserved medieval fortifications on the Aragatsotn plain. The core is a 10th-century Arab-period building (with a Kufic inscription giving the patron's name); the outer walls were added in the early 19th century by a Persian khan, making this a layered structure that reads like a textbook of medieval fortification.

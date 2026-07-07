@@ -1,12 +1,12 @@
 ---
 latitude: 36.5111
-loc_type: feature
 longitude: 59.0683
 score: 7.0
 tags:
+- things_to_do
 - nature
 title: Akhlamad Waterfall
-type: location
+type: poi
 ---
 
 A two-stage waterfall in a steep ravine of the Binalud mountains, about 75 km west of Mashhad. Reaching the upper fall takes a brisk uphill hike of about an hour from the trailhead at Akhlamad village; the path follows a small stream through walnut and apricot orchards before climbing into bare rock.

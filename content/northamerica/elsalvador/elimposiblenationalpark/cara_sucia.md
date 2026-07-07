@@ -1,16 +1,16 @@
 ---
 latitude: 13.7769
-loc_type: feature
 longitude: -90.0453
 score: 6.4
 snippet: Mesoamerican archaeological site on the coastal plain southwest of El Imposible.
 sources:
 - https://en.wikipedia.org/wiki/Cara_Sucia_(Mesoamerican_site)
 tags:
+- things_to_do
 - sight
 - archaeology
 title: Cara Sucia
-type: location
+type: poi
 ---
 
 Cara Sucia is a pre-Columbian archaeological site on the coastal plain southwest of El Imposible. It is less visited than Tazumal and far less polished, but it adds useful historical depth to a trip that might otherwise be all forest and volcanoes.

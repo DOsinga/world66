@@ -1,13 +1,13 @@
 ---
 latitude: 29.25
-loc_type: feature
 longitude: -110.8
 score: 8.6
 tags:
+- things_to_do
 - sight
 - archaeology
 title: La Pintada Rock Art Site
-type: location
+type: poi
 ---
 
 La Pintada is one of the most important rock art sites in Mexico, located in a canyon about 60 kilometres southeast of Hermosillo. The site contains over 1,500 petroglyphs and pictographs painted and carved by the Seri and Pima peoples over a period stretching back at least 2,000 years. The images include human figures, geometric designs, deer, and serpents, spread across canyon walls in a setting of rugged desert beauty.

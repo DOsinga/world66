@@ -1,12 +1,12 @@
 ---
 latitude: -16.1794
 longitude: -67.688
-snippet: "Crystal-clear natural pools and waterfalls in cloudforest near Coroico"
+score: 7.8
+snippet: Crystal-clear natural pools and waterfalls in cloudforest near Coroico
 tags:
-- day_trips
+- things_to_do
 title: Pozas del Vagante
 type: poi
-score: 7.8
 ---
 
 The best swimming spot near Coroico. The river is crystal-clear with deep natural pools, and the walk there passes through orange groves, a hacienda, coca fields and riverside forest full of butterflies and birds. Once at the pools you can swim and picnic, or follow the river upstream to a small canyon with natural bubble baths.

@@ -1,9 +1,10 @@
 ---
-title: "Day Trips"
-type: section
 linked_locations:
-  - europe/italy/abruzzo/gransasso
-  - europe/italy/abruzzo/santo_stefano_di_sessanio
+- europe/italy/abruzzo/gransasso
+- europe/italy/abruzzo/santo_stefano_di_sessanio
+- europe/italy/abruzzo/castle_of_rocca_calascio
+title: Day Trips
+type: section
 ---
 
 L'Aquila sits at the foot of some of the most dramatic country in the Apennines, and a car opens up a string of rewarding excursions within an hour's drive. The big one is the [Gran Sasso](/europe/italy/abruzzo/gransasso), the highest massif in the range: ride the funivia up to the Campo Imperatore plateau, a high, treeless expanse that locals call "Little Tibet," and walk as far as the weather allows.

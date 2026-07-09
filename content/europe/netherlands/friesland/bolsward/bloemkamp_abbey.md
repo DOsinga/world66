@@ -1,15 +1,15 @@
 ---
-title: Bloemkamp Abbey Site
-type: poi
-category: Sight
 address: Hartwerd, 4 km northeast of Bolsward
+category: Sight
 latitude: 53.07444
 longitude: 5.58
+score: 5.8
 snippet: Ruins of a medieval Cistercian abbey
 tags:
-- day_trips
+- things_to_do
 - sight
-score: 5.8
+title: Bloemkamp Abbey Site
+type: poi
 ---
 
 Bloemkamp Abbey, also called Oldeklooster, was a Cistercian monastery founded in 1191 at Hartwerd, a few kilometres northeast of Bolsward. It was one of the most important religious houses in medieval Friesland and was finally dissolved at the Reformation in the 1580s. The buildings were demolished, and only foundations and a few traces remain on a low rise in the polder landscape.

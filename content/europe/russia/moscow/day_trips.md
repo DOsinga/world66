@@ -1,10 +1,11 @@
 ---
+linked_locations:
+- europe/russia/vladimir
+- europe/russia/vologda_region/vologda
+- europe/russia/kazan
+- europe/russia/borodino
 title: Day Trips
 type: section
-linked_locations:
-  - europe/russia/vladimir
-  - europe/russia/vologda_region/vologda
-  - europe/russia/kazan
 ---
 
 Day trip in Moscow does not always mean "go in the morning, come back in the evening." Distances are vast, and the classic Russian approach is to board a train in the evening, sleep comfortably aboard, spend the day in a city some hundreds of kilometres away, and sleep one more night on the train home.
@@ -15,4 +16,4 @@ Day trip in Moscow does not always mean "go in the morning, come back in the eve
 
 [Kazan](/europe/russia/kazan), the Tatar capital on the Volga, is a longer haul — two nights aboard a train — but doable for the determined. Trains leave from Kazansky Vokzal (Kazan Railway Station); the daily #002 Moscow–Kazan departs around 19:20 and arrives 07:25 the next morning.
 
-Closer to the city, two destinations make genuine single-day outings without an overnight train: the aristocratic estate of [Arkhangelskoye](/europe/russia/moscow/arkhangelskoye), 20 km west with its Yusupov Palace and Italian gardens, and the [Borodino Battlefield](/europe/russia/moscow/borodino), 120 km west, where Napoleon met Kutuzov in 1812 and where the world's oldest battlefield museum still stands.
+Closer to the city, two destinations make genuine single-day outings without an overnight train: the aristocratic estate of [Arkhangelskoye](/europe/russia/moscow/arkhangelskoye), 20 km west with its Yusupov Palace and Italian gardens, and the [Borodino Battlefield](/europe/russia/borodino), 120 km west, where Napoleon met Kutuzov in 1812 and where the world's oldest battlefield museum still stands.

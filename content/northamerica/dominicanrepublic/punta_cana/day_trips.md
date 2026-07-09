@@ -1,8 +1,9 @@
 ---
 linked_locations:
-  - northamerica/dominicanrepublic/la_romana
-  - northamerica/dominicanrepublic/isla_saona
-title: "Day Trips"
+- northamerica/dominicanrepublic/la_romana
+- northamerica/dominicanrepublic/isla_saona
+- northamerica/dominicanrepublic/cueva_fun_fun
+title: Day Trips
 type: section
 ---
 

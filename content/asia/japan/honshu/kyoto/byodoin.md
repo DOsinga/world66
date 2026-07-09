@@ -1,19 +1,19 @@
 ---
+image: byodoin.jpg
+image_attribution: Hyppolyte de Saint-Rambert
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:By%C5%8Dd%C5%8D-in_(UJI,_Kyoto)_hdsr_Temple_S5_148.jpg
 latitude: 34.8895
 longitude: 135.8076
 score: 8.7
 snippet: The 11th-century Phoenix Hall in Uji, pictured on the 10-yen coin
 tags:
-- day_trips
+- things_to_do
 - temple
 - unesco
 - sight
 title: Byōdō-in
 type: poi
-image: byodoin.jpg
-image_source: https://commons.wikimedia.org/wiki/File:By%C5%8Dd%C5%8D-in_(UJI,_Kyoto)_hdsr_Temple_S5_148.jpg
-image_license: CC BY 4.0
-image_attribution: Hyppolyte de Saint-Rambert
 ---
 
 The Phoenix Hall (*Hōō-dō*) of Byōdō-in, in the small temple city of Uji about half an hour south of Kyoto Station, is the most famous surviving piece of Heian-period (794–1185) architecture in Japan and so familiar to Japanese eyes that it is depicted on the back of the ten-yen coin. The hall was built in 1053 as the private chapel of a Fujiwara regent and stands on a small artificial island, designed to be viewed across a reflecting pond as a representation of Amitabha's Western Paradise.

@@ -1,9 +1,10 @@
 ---
-title: 'Day Trips'
-type: section
 linked_locations:
 - asia/thailand/nonthaburi_2
 - asia/thailand/ayutthaya
+- asia/thailand/safari_world
+title: Day Trips
+type: section
 ---
 
 Bangkok makes a good base for excursions into the surrounding countryside. The easiest escape is by water: take the Chao Phraya Express Boat to its northern stop and you reach [Nonthaburi](/asia/thailand/nonthaburi_2), a greener, slower riverside city of Ayutthaya-period temples, breadfruit orchards, and the Mon pottery island of Ko Kret — a relaxed half-day trip you can do on a single boat ticket.

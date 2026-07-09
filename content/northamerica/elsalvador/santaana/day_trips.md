@@ -1,9 +1,12 @@
 ---
-title: Day Trips
-type: section
 linked_locations:
 - northamerica/elsalvador/lakecoatepeque
 - northamerica/elsalvador/rutadelasflores
+- northamerica/elsalvador/santa_ana_volcano
+- northamerica/elsalvador/izalco_volcano
+- northamerica/elsalvador/tazumal
+title: Day Trips
+type: section
 ---
 
 Santa Ana sits among some of El Salvador's finest natural and cultural day trips, most within an hour by car or bus.

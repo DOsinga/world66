@@ -5,8 +5,8 @@ latitude: 58.15
 longitude: 7.75
 title: Southern Norway (Sørlandet)
 type: location
-score: 0.6
-loc_type: region
+score: 7.4
+loc_type: feature
 snippet: Southern Norwegian coastal region of mild islands, fishing towns, beaches,
   and forested lake country.
 image: southernnorways.jpg

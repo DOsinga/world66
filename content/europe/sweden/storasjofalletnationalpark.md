@@ -1,7 +1,8 @@
 ---
 latitude: 67.4
-loc_type: region
+loc_type: feature
 longitude: 18.6
+score: 8.3
 snippet: Swedish Lapland national park of mountain plateaus, glacial valleys, and
   Sami traditional lands.
 title: Stora Sjöfallet National Park

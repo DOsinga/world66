@@ -443,43 +443,38 @@
   <div id="magazine-topbar">
     <button id="magazine-close" aria-label="Close magazine view" type="button">&times;</button>
     <button id="magazine-shuffle" type="button">&#8635; Shuffle</button>
-    <button id="magazine-back" type="button" hidden>&#8592; Back to browsing</button>
   </div>
 
   <button id="magazine-prev" aria-label="Previous" type="button">&#8249;</button>
   <div id="magazine-spreads">
     {% for card in magazine_cards %}
-    <a href="{{ card.url }}" class="magazine-spread" data-magazine-spread
-       data-path="{{ card.path }}" data-url="{{ card.url }}" data-title="{{ card.title|escapejs }}">
-      {% if card.image_url %}<img src="{{ card.image_url }}" alt="{{ card.title }}" loading="lazy">{% endif %}
-      <div class="magazine-spread-veil"></div>
-      <div class="magazine-spread-txt">
-        <div class="magazine-spread-name">{{ card.title }}</div>
-        {% if card.teaser %}<p class="magazine-spread-teaser">{{ card.teaser }}</p>{% endif %}
-        <span class="magazine-spread-readmore">Read the full story &#8594;</span>
-      </div>
-    </a>
-    {% endfor %}
-  </div>
-  <button id="magazine-next" aria-label="Next" type="button">&#8250;</button>
-
-  <div id="magazine-article" hidden>
-    <div id="magazine-article-hero">
-      <img id="magazine-article-img" alt="">
-    </div>
-    <div id="magazine-article-body">
-      <h1 id="magazine-article-title"></h1>
-      <div id="magazine-article-content"></div>
-      <div id="magazine-article-pois" hidden>
-        <span class="section-kicker">Nearby</span>
-        <h2 class="magazine-article-subhead">Top things to do</h2>
-        <ul id="magazine-article-poi-list"></ul>
-        <div id="magazine-article-map-wrap">
-          <div id="magazine-article-map"></div>
+    <div class="magazine-spread" data-magazine-spread data-path="{{ card.path }}">
+      <div class="magazine-spread-scroll">
+        <a href="{{ card.url }}" class="magazine-spread-cover">
+          {% if card.image_url %}<img src="{{ card.image_url }}" alt="{{ card.title }}" loading="lazy">{% endif %}
+          <div class="magazine-spread-veil"></div>
+          <div class="magazine-spread-txt">
+            <div class="magazine-spread-name">{{ card.title }}</div>
+            {% if card.teaser %}<p class="magazine-spread-teaser">{{ card.teaser }}</p>{% endif %}
+            <span class="magazine-spread-readmore">Scroll to read the full story &#8595;</span>
+          </div>
+        </a>
+        <div class="magazine-spread-article">
+          <div class="magazine-article-content"></div>
+          <div class="magazine-article-pois" hidden>
+            <span class="section-kicker">Nearby</span>
+            <h2 class="magazine-article-subhead">Top things to do</h2>
+            <ul class="magazine-article-poi-list"></ul>
+            <div class="magazine-article-map-wrap">
+              <div class="magazine-article-map"></div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
+    {% endfor %}
   </div>
+  <button id="magazine-next" aria-label="Next" type="button">&#8250;</button>
 </div>
 <script src="{% static 'js/magazine-view.js' %}"></script>
 {% endif %}

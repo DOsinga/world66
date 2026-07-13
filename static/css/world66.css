@@ -2036,8 +2036,7 @@ body.magazine-open {
 }
 
 #magazine-close,
-#magazine-shuffle,
-#magazine-back {
+#magazine-shuffle {
   border: 1px solid rgba(255,255,255,0.3);
   border-radius: 999px;
   background: rgba(0,0,0,0.35);
@@ -2059,14 +2058,12 @@ body.magazine-open {
   padding: 0;
 }
 
-#magazine-shuffle,
-#magazine-back {
+#magazine-shuffle {
   padding: 8px 16px;
 }
 
 #magazine-close:hover,
-#magazine-shuffle:hover,
-#magazine-back:hover {
+#magazine-shuffle:hover {
   background: rgba(0,0,0,0.55);
 }
 
@@ -2116,13 +2113,33 @@ body.magazine-open {
   flex: 0 0 100%;
   scroll-snap-align: start;
   position: relative;
-  display: block;
-  text-decoration: none;
   overflow: hidden;
   background: var(--ink);
 }
 
-.magazine-spread img {
+/* Each spread is its own vertical scroller: scrolling down within it moves
+   from the cover into the full article, scrolling back up returns to the
+   cover — plain CSS scroll-snap, no JS needed for "go back". */
+.magazine-spread-scroll {
+  height: 100%;
+  overflow-y: auto;
+  scroll-snap-type: y proximity;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+
+.magazine-spread-scroll::-webkit-scrollbar { display: none; }
+
+.magazine-spread-cover {
+  scroll-snap-align: start;
+  position: relative;
+  display: block;
+  height: 100%;
+  min-height: 100%;
+  text-decoration: none;
+}
+
+.magazine-spread-cover img {
   width: 100%;
   height: 100%;
   object-fit: cover;
@@ -2168,66 +2185,40 @@ body.magazine-open {
   opacity: 0.9;
 }
 
-/* Full-article reading pane, replaces the strip in place */
-#magazine-article {
-  position: absolute;
-  inset: 0;
-  z-index: 3;
+/* The article: scrolls up right underneath the cover, in the same column —
+   one continuous unit, not a separate page. No repeated hero/title here on
+   purpose; the cover's big image and headline already did that job. */
+.magazine-spread-article {
+  scroll-snap-align: start;
+  min-height: 60vh;
   background: var(--paper);
-  overflow-y: auto;
-  -webkit-overflow-scrolling: touch;
+  padding: 48px 24px 100px;
 }
 
-#magazine-article-hero {
-  height: 42vh;
-  min-height: 260px;
-  background: var(--paper-3);
-  overflow: hidden;
-  position: relative;
-}
-
-#magazine-article-hero.no-image { display: none; }
-
-#magazine-article-img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-}
-
-#magazine-article-body {
+.magazine-article-content {
   max-width: 680px;
   margin: 0 auto;
-  padding: 36px 24px 80px;
-}
-
-#magazine-article-title {
-  font-family: var(--display-font);
-  font-weight: 500;
-  font-size: clamp(28px, 5vw, 44px);
-  line-height: 1.1;
-  margin-bottom: 20px;
-  color: var(--ink);
-}
-
-#magazine-article-content {
   font-size: 18px;
   line-height: 1.7;
   color: var(--ink);
 }
 
-#magazine-article-content p { margin: 0 0 1.1em; }
-#magazine-article-content p:last-child { margin-bottom: 0; }
-#magazine-article-content a { color: var(--accent); }
-#magazine-article-content strong { font-weight: 600; }
-#magazine-article-content h2, #magazine-article-content h3 {
+.magazine-article-content p { margin: 0 0 1.1em; }
+.magazine-article-content p:last-child { margin-bottom: 0; }
+.magazine-article-content a { color: var(--accent); }
+.magazine-article-content strong { font-weight: 600; }
+.magazine-article-content h2, .magazine-article-content h3 {
   font-family: var(--display-font);
   font-size: 24px;
   font-weight: 500;
   margin: 1.3em 0 0.4em;
 }
 
-#magazine-article-content.is-loading::after {
+.magazine-article-content.is-loading {
+  min-height: 160px;
+}
+
+.magazine-article-content.is-loading::after {
   content: '';
   display: block;
   height: 160px;
@@ -2239,8 +2230,9 @@ body.magazine-open {
 
 /* --- Magazine view: "top things to do" list + cutesy map --- */
 
-#magazine-article-pois {
-  margin-top: 40px;
+.magazine-article-pois {
+  max-width: 680px;
+  margin: 40px auto 0;
   padding-top: 28px;
   border-top: 1px dashed var(--line-2);
 }
@@ -2253,7 +2245,7 @@ body.magazine-open {
   color: var(--ink);
 }
 
-#magazine-article-poi-list {
+.magazine-article-poi-list {
   list-style: none;
   margin: 0 0 22px;
   padding: 0;
@@ -2314,14 +2306,16 @@ body.magazine-open {
 
 /* A small, playful map — rounded, tilted frame rather than a utilitarian
    sidebar widget, since this is meant to feel like a fun little inset. */
-#magazine-article-map-wrap {
+.magazine-article-map-wrap {
+  max-width: 680px;
+  margin: 0 auto;
   padding: 10px;
   background: var(--paper-2);
   border-radius: 18px;
   transform: rotate(-0.6deg);
 }
 
-#magazine-article-map {
+.magazine-article-map {
   height: 220px;
   border-radius: 12px;
   overflow: hidden;
@@ -2337,11 +2331,8 @@ body.magazine-open {
     left: 6%;
     right: 6%;
   }
-  #magazine-article-hero {
-    height: 30vh;
-  }
-  #magazine-article-body {
-    padding: 24px 18px 60px;
+  .magazine-spread-article {
+    padding: 32px 18px 70px;
   }
 }
 

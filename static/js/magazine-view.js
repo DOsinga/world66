@@ -46,7 +46,10 @@
     poisWrap.hidden = false;
 
     // pois arrives sorted best-first; give the top one the "cover story"
-    // treatment (bigger tile, bigger image, full snippet) in the 3-col grid.
+    // treatment. Almost no POIs have their own photo, so the design leans
+    // on typography (a big decorative Fraunces numeral, same motif as the
+    // word-cloud destination cards) rather than imagery — a small thumbnail
+    // is only ever a bonus, never the thing the layout depends on.
     pois.forEach(function(poi, i) {
       var featured = i === 0;
       var li = document.createElement('li');
@@ -54,10 +57,9 @@
       var a = document.createElement('a');
       a.href = poi.url;
       a.className = 'magazine-poi-link';
-      var thumb = poi.image_url
-        ? '<img src="' + poi.image_url + '" alt="" class="magazine-poi-thumb">'
-        : '<span class="magazine-poi-thumb magazine-poi-thumb--none"></span>';
+      var thumb = poi.image_url ? '<img src="' + poi.image_url + '" alt="" class="magazine-poi-thumb">' : '';
       a.innerHTML = thumb
+        + '<span class="magazine-poi-index">' + String(i + 1).padStart(2, '0') + '</span>'
         + '<span class="magazine-poi-meat">'
         + (featured ? '<span class="magazine-poi-kicker">Don\'t miss</span>' : '')
         + '<span class="magazine-poi-name">' + (poi.name || '') + '</span>'

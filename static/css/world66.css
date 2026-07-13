@@ -2195,12 +2195,23 @@ body.magazine-open {
   padding: 48px 24px 100px;
 }
 
+/* Full-width, newspaper-style columns rather than a narrow reading
+   column — the article text is part of the same three-column rhythm as
+   the "Top things to do" grid below it, not a separate boxed-in block. */
 .magazine-article-content {
-  max-width: 680px;
-  margin: 0 auto;
-  font-size: 18px;
+  font-size: 17px;
   line-height: 1.7;
   color: var(--ink);
+  column-count: 3;
+  column-gap: 44px;
+}
+
+@media (max-width: 1000px) {
+  .magazine-article-content { column-count: 2; }
+}
+
+@media (max-width: 640px) {
+  .magazine-article-content { column-count: 1; }
 }
 
 .magazine-article-content p { margin: 0 0 1.1em; }
@@ -2231,8 +2242,7 @@ body.magazine-open {
 /* --- Magazine view: "top things to do" list + cutesy map --- */
 
 .magazine-article-pois {
-  max-width: 680px;
-  margin: 40px auto 0;
+  margin: 40px 0 0;
   padding-top: 28px;
   border-top: 1px dashed var(--line-2);
 }
@@ -2245,18 +2255,20 @@ body.magazine-open {
   color: var(--ink);
 }
 
+/* Almost no POI has its own photo, so these are typography-led "cute
+   list" tiles — a big decorative Fraunces numeral (same italic-numeral
+   motif as the word-cloud destination cards) rather than imagery. A
+   thumbnail is drawn only as a small bonus badge when one exists. */
 .magazine-article-poi-list {
   list-style: none;
   margin: 0 0 26px;
   padding: 0;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-auto-rows: 150px;
-  gap: 12px;
+  grid-auto-rows: minmax(160px, auto);
+  gap: 14px;
 }
 
-/* The top-scored POI gets the cover-story treatment: a bigger tile with a
-   real image behind the text, same visual language as the spread cards. */
 .magazine-poi-item--featured {
   grid-column: span 2;
   grid-row: span 2;
@@ -2269,8 +2281,8 @@ body.magazine-open {
   height: 100%;
   text-decoration: none;
   color: var(--ink);
-  border-radius: 12px;
-  overflow: hidden;
+  border-radius: 14px;
+  padding: 18px 16px;
   background: var(--paper-2);
   transition: transform 0.15s ease;
 }
@@ -2279,26 +2291,35 @@ body.magazine-open {
   transform: translateY(-2px);
 }
 
-.magazine-poi-thumb {
-  flex: 1 1 auto;
-  width: 100%;
-  min-height: 0;
-  object-fit: cover;
-  display: block;
-  background: var(--paper-3);
+.magazine-poi-index {
+  font-family: var(--display-font);
+  font-style: italic;
+  font-weight: 600;
+  font-size: 30px;
+  color: var(--accent);
+  opacity: 0.45;
+  line-height: 1;
+  margin-bottom: 8px;
 }
 
-.magazine-poi-thumb--none {
-  display: block;
+.magazine-poi-thumb {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid var(--paper);
+  box-shadow: 0 0 0 1px var(--line-2);
 }
 
 .magazine-poi-meat {
   display: flex;
   flex-direction: column;
-  gap: 2px;
+  gap: 4px;
   min-width: 0;
-  padding: 10px 12px;
-  flex: 0 0 auto;
+  margin-top: auto;
 }
 
 .magazine-poi-kicker {
@@ -2311,59 +2332,61 @@ body.magazine-open {
 
 .magazine-poi-name {
   font-weight: 600;
-  font-size: 14px;
-  line-height: 1.25;
+  font-size: 15px;
+  line-height: 1.3;
 }
 
 .magazine-poi-snippet {
-  font-size: 12px;
+  font-size: 13px;
   color: var(--mute);
-  line-height: 1.35;
+  line-height: 1.4;
   overflow: hidden;
   text-overflow: ellipsis;
   display: -webkit-box;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   margin-top: 2px;
 }
 
-/* Featured tile: image fills most of the card, name/snippet overlaid like
-   the main spread covers, so it reads as the "cover story" of the list. */
+/* Featured tile: a solid accent-colour callout rather than an image —
+   the "cover story" treatment done entirely with colour and type. */
 .magazine-poi-item--featured .magazine-poi-link {
-  background: var(--ink);
+  background: var(--accent);
+  color: #fff;
+  padding: 22px 20px;
+}
+
+.magazine-poi-item--featured .magazine-poi-index {
+  color: rgba(255,255,255,0.55);
+  font-size: 46px;
 }
 
 .magazine-poi-item--featured .magazine-poi-thumb {
-  position: absolute;
-  inset: 0;
-  height: 100%;
+  width: 60px;
+  height: 60px;
+  border-color: rgba(255,255,255,0.9);
 }
 
-.magazine-poi-item--featured .magazine-poi-meat {
-  position: relative;
-  z-index: 1;
-  margin-top: auto;
-  padding: 16px;
-  color: #fff;
-  background: linear-gradient(180deg, transparent 0%, rgba(0,0,0,0.75) 100%);
+.magazine-poi-item--featured .magazine-poi-kicker {
+  color: rgba(255,255,255,0.9);
 }
 
 .magazine-poi-item--featured .magazine-poi-name {
   font-family: var(--display-font);
-  font-size: 20px;
+  font-size: 23px;
   font-weight: 500;
 }
 
 .magazine-poi-item--featured .magazine-poi-snippet {
-  color: rgba(255,255,255,0.85);
-  -webkit-line-clamp: 3;
+  color: rgba(255,255,255,0.9);
+  font-size: 14px;
+  -webkit-line-clamp: 4;
 }
 
 /* A small, playful map — rounded, tilted frame rather than a utilitarian
    sidebar widget, since this is meant to feel like a fun little inset. */
 .magazine-article-map-wrap {
-  max-width: 680px;
-  margin: 0 auto;
+  max-width: 460px;
   padding: 10px;
   background: var(--paper-2);
   border-radius: 18px;

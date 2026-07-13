@@ -13,7 +13,10 @@
   var articleImg = document.getElementById('magazine-article-img');
   var articleTitle = document.getElementById('magazine-article-title');
   var articleContent = document.getElementById('magazine-article-content');
+  var articlePois = document.getElementById('magazine-article-pois');
+  var articlePoiList = document.getElementById('magazine-article-poi-list');
   var docBody = document.body;
+  var articleMap = null;
 
   function spreads() {
     return Array.prototype.slice.call(spreadsWrap.querySelectorAll('[data-magazine-spread]'));
@@ -42,6 +45,53 @@
     spreadsWrap.scrollTo({left: 0});
   }
 
+  function clearArticleMap() {
+    if (articleMap) {
+      articleMap.remove();
+      articleMap = null;
+    }
+  }
+
+  function renderPoisAndMap(data) {
+    var pois = data.pois || [];
+    articlePoiList.innerHTML = '';
+    clearArticleMap();
+
+    if (!pois.length) {
+      articlePois.hidden = true;
+      return;
+    }
+    articlePois.hidden = false;
+
+    pois.forEach(function(poi) {
+      var li = document.createElement('li');
+      li.className = 'magazine-poi-item';
+      var a = document.createElement('a');
+      a.href = poi.url;
+      a.className = 'magazine-poi-link';
+      var thumb = poi.image_url
+        ? '<img src="' + poi.image_url + '" alt="" class="magazine-poi-thumb">'
+        : '<span class="magazine-poi-thumb magazine-poi-thumb--none"></span>';
+      a.innerHTML = thumb
+        + '<span class="magazine-poi-meat">'
+        + '<span class="magazine-poi-name">' + (poi.name || '') + '</span>'
+        + (poi.snippet ? '<span class="magazine-poi-snippet">' + poi.snippet + '</span>' : '')
+        + '</span>';
+      li.appendChild(a);
+      articlePoiList.appendChild(li);
+    });
+
+    // A small, playful map centred on this destination plus its top POIs —
+    // reuses the same Leaflet setup as the sidebar map (world66map.js).
+    if (typeof initLocationMap === 'function' && typeof data.lat === 'number') {
+      var markers = [{lat: data.lat, lng: data.lng, name: data.title, highlight: true}]
+        .concat(pois.map(function(p) { return {lat: p.lat, lng: p.lng, name: p.name, url: p.url}; }));
+      requestAnimationFrame(function() {
+        articleMap = initLocationMap('magazine-article-map', markers, {});
+      });
+    }
+  }
+
   function openArticle(spread) {
     var path = spread.getAttribute('data-path');
     var title = spread.getAttribute('data-title');
@@ -50,6 +100,9 @@
     articleTitle.textContent = title || '';
     articleContent.innerHTML = '';
     articleContent.classList.add('is-loading');
+    articlePois.hidden = true;
+    articlePoiList.innerHTML = '';
+    clearArticleMap();
     if (img) {
       articleImg.src = img.src;
       articleImg.alt = title || '';
@@ -73,6 +126,7 @@
           articleImg.alt = data.title || '';
           articleImg.parentElement.classList.remove('no-image');
         }
+        renderPoisAndMap(data);
       })
       .catch(function() {
         articleContent.classList.remove('is-loading');
@@ -85,6 +139,7 @@
     article.hidden = true;
     backBtn.hidden = true;
     shuffleBtn.hidden = false;
+    clearArticleMap();
   }
 
   if (openBtn) openBtn.addEventListener('click', openOverlay);

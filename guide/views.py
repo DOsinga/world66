@@ -449,6 +449,21 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     # photography. Order is shuffled fresh on every page load; `path` lets
     # the client fetch the full article body via api_page_content.
     _magazine_pool = neighbourhoods or [loc for loc in locations if loc.image_url]
+    if not neighbourhoods:
+        # Countries big enough to use a region layer (LOCATIONS.md) would
+        # otherwise only ever surface region pages ("California") instead of
+        # the actual cities/features inside them ("San Francisco", "Yosemite")
+        # — drill one level deeper into any region so the magazine has real,
+        # specific destinations to show, not just administrative buckets.
+        for loc in locations:
+            if loc.meta.get('loc_type') != 'region':
+                continue
+            _, region_children, _ = loc.children()
+            for child in region_children:
+                child_img = _image_path(child, source_ref)
+                child.image_url = f'{child.url_prefix}/content-image/{child_img}' if child_img else None
+                if child.image_url:
+                    _magazine_pool.append(child)
     magazine_cards = [
         {
             'path': item.path,
@@ -460,6 +475,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         for item in _magazine_pool
     ]
     random.shuffle(magazine_cards)
+    magazine_cards = magazine_cards[:60]  # keep the DOM sane on big countries; a fresh sample each load
     magazine_available = len(magazine_cards) >= 5
 
     # For feature pages: cities/locations that tag into this feature via tags: [feature_slug]
@@ -723,7 +739,8 @@ def _explore_markers(page):
 
 
 def api_page_content(request, path):
-    """Return rendered body HTML and image for a page — used by the explore drawer."""
+    """Return rendered body HTML, top POIs, and map data for a page — used by
+    the explore drawer and the magazine article view."""
     path = path.strip("/")
     page = load_page(path)
     if not page:
@@ -744,6 +761,25 @@ def api_page_content(request, path):
         data["image_source"] = page.meta.get("image_source", "")
         data["image_license"] = page.meta.get("image_license", "")
         data["image_attribution"] = page.meta.get("image_attribution", "")
+
+    lat = _safe_float(page.meta.get("latitude"))
+    lng = _safe_float(page.meta.get("longitude"))
+    if lat is not None and lng is not None:
+        data["lat"] = lat
+        data["lng"] = lng
+
+    # Top POIs: nav pages (sections/neighbourhoods) collect by tag; a
+    # location page's own children() already returns its flat POI files
+    # sorted by score (POIs live flat in the city/feature directory).
+    _, _, pois = page.children()
+    if page.page_type == "section_group":
+        pois = []
+    elif page.page_type in NAV_TYPES:
+        pois = sorted(page.tagged_pois(), key=lambda p: float(p.meta.get("score", 0) or 0), reverse=True)
+    top_pois = [m for m in (_marker_from_page_rich(p) for p in pois[:8]) if m][:6]
+    if top_pois:
+        data["pois"] = top_pois
+
     return JsonResponse(data)
 
 

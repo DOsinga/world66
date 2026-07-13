@@ -2237,6 +2237,97 @@ body.magazine-open {
   border-radius: 4px;
 }
 
+/* --- Magazine view: "top things to do" list + cutesy map --- */
+
+#magazine-article-pois {
+  margin-top: 40px;
+  padding-top: 28px;
+  border-top: 1px dashed var(--line-2);
+}
+
+.magazine-article-subhead {
+  font-family: var(--display-font);
+  font-weight: 500;
+  font-size: 22px;
+  margin: 2px 0 16px;
+  color: var(--ink);
+}
+
+#magazine-article-poi-list {
+  list-style: none;
+  margin: 0 0 22px;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.magazine-poi-link {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+  color: var(--ink);
+  padding: 8px;
+  border-radius: 10px;
+  transition: background 0.12s;
+}
+
+.magazine-poi-link:hover {
+  background: var(--paper-2);
+}
+
+.magazine-poi-thumb {
+  flex: 0 0 52px;
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  object-fit: cover;
+  background: var(--paper-3);
+  border: 2px solid var(--paper);
+  box-shadow: 0 0 0 1px var(--line-2);
+}
+
+.magazine-poi-thumb--none {
+  display: block;
+}
+
+.magazine-poi-meat {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
+.magazine-poi-name {
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.magazine-poi-snippet {
+  font-size: 13px;
+  color: var(--mute);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* A small, playful map — rounded, tilted frame rather than a utilitarian
+   sidebar widget, since this is meant to feel like a fun little inset. */
+#magazine-article-map-wrap {
+  padding: 10px;
+  background: var(--paper-2);
+  border-radius: 18px;
+  transform: rotate(-0.6deg);
+}
+
+#magazine-article-map {
+  height: 220px;
+  border-radius: 12px;
+  overflow: hidden;
+  transform: rotate(0.6deg);
+}
+
 @media (max-width: 768px) {
   #magazine-prev, #magazine-next {
     display: none;

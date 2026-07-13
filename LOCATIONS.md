@@ -82,6 +82,16 @@ Examples:
 - **Patagonia** — Wind-scoured wilderness of glaciers, granite spires, and sheep estancias spanning the southern tip of Argentina and Chile
 - **France** — Europe's archetypal country: Atlantic and Mediterranean coasts, alpine villages, Loire châteaux, and the wine regions that define the western table
 
+## Magazine teaser
+
+An optional `magazine_teaser:` field feeds the magazine-view card grid (the alternate, image-led browsing layout available on country/region/feature pages and cities with an imaged neighbourhood strip — see `guide/views.py::_magazine_teaser`). It's a hook, not a definition: one or two vivid sentences that make someone want to click through, distinct from `snippet`'s terse "kind of place + one fact."
+
+Purely additive — pages without it fall back to the first paragraph of the body, then to `snippet`, so there's no backlog to clear before the feature works. Add it selectively, where you can write something better than the automatic fallback. Same rule as everywhere else: never invent a fact to make the hook punchier.
+
+```yaml
+magazine_teaser: "Stand on a flat-topped cliff 604 metres above a fjord, or wedge yourself onto a boulder a kilometre higher still — Lysefjord asks for a head for heights."
+```
+
 ## Quick facts
 
 A location's frontmatter may carry a `quick_facts:` block. Only add this if the city is a major travel destination and it's easy to find good facts. Never fabricate things.

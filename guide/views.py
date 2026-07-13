@@ -441,6 +441,22 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     top_locations = locations[:_top_n]
     more_locations = sorted(locations[_top_n:], key=lambda loc: loc.title)
 
+    # Magazine view: an inspirational, image-led alternative to the structural
+    # card grid. Neighbourhoods (already gated to >=3 with real images) take
+    # priority on city pages; otherwise fall back to locations with a real
+    # (non-word-cloud) image — a magazine needs actual photography.
+    _magazine_pool = neighbourhoods or [loc for loc in locations if loc.image_url]
+    magazine_cards = [
+        {
+            'url': item.get_absolute_url(),
+            'title': item.title,
+            'image_url': item.image_url,
+            'teaser': _magazine_teaser(item),
+        }
+        for item in _magazine_pool
+    ]
+    magazine_available = len(magazine_cards) >= 5
+
     # For feature pages: cities/locations that tag into this feature via tags: [feature_slug]
     linked_locations = []
     more_linked_locations = []
@@ -528,6 +544,8 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "top_locations": top_locations,
         "more_locations": more_locations,
         "neighbourhood_items": neighbourhoods,
+        "magazine_cards": magazine_cards,
+        "magazine_available": magazine_available,
         "pois": pois,
         "parent_sections": parent_nav,   # sibling nav pages (section/poi sidebar)
         "parent_locations": parent_locations,
@@ -908,6 +926,31 @@ def _image_path(page, source_ref=None):
         elif (CONTENT_DIR / candidate).is_file():
             return candidate
     return None
+
+
+MD_INLINE_STRIP_RE = re.compile(r'\[([^\]]*)\]\([^)]*\)|[*_`#]')
+
+
+def _magazine_teaser(page, limit=220):
+    """A short editorial hook for magazine-view cards.
+
+    Prefers a hand-written `magazine_teaser`, then the first paragraph of the
+    page body (markdown syntax stripped, truncated at a word boundary), then
+    the plain `snippet`.
+    """
+    teaser = page.meta.get('magazine_teaser')
+    if teaser:
+        return teaser.strip()
+
+    first_para = next((p.strip() for p in page.body.split('\n\n') if p.strip()), '') if page.body else ''
+    if first_para:
+        first_para = MD_INLINE_STRIP_RE.sub(lambda m: m.group(1) if m.group(1) is not None else '', first_para)
+        first_para = ' '.join(first_para.split())
+        if len(first_para) > limit:
+            first_para = first_para[:limit].rsplit(' ', 1)[0] + '…'
+        return first_para
+
+    return page.meta.get('snippet', '') or ''
 
 
 def content_image(request, path):

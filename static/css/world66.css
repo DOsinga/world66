@@ -2247,37 +2247,45 @@ body.magazine-open {
 
 .magazine-article-poi-list {
   list-style: none;
-  margin: 0 0 22px;
+  margin: 0 0 26px;
   padding: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: 150px;
+  gap: 12px;
+}
+
+/* The top-scored POI gets the cover-story treatment: a bigger tile with a
+   real image behind the text, same visual language as the spread cards. */
+.magazine-poi-item--featured {
+  grid-column: span 2;
+  grid-row: span 2;
 }
 
 .magazine-poi-link {
+  position: relative;
   display: flex;
-  align-items: center;
-  gap: 12px;
+  flex-direction: column;
+  height: 100%;
   text-decoration: none;
   color: var(--ink);
-  padding: 8px;
-  border-radius: 10px;
-  transition: background 0.12s;
+  border-radius: 12px;
+  overflow: hidden;
+  background: var(--paper-2);
+  transition: transform 0.15s ease;
 }
 
 .magazine-poi-link:hover {
-  background: var(--paper-2);
+  transform: translateY(-2px);
 }
 
 .magazine-poi-thumb {
-  flex: 0 0 52px;
-  width: 52px;
-  height: 52px;
-  border-radius: 50%;
+  flex: 1 1 auto;
+  width: 100%;
+  min-height: 0;
   object-fit: cover;
+  display: block;
   background: var(--paper-3);
-  border: 2px solid var(--paper);
-  box-shadow: 0 0 0 1px var(--line-2);
 }
 
 .magazine-poi-thumb--none {
@@ -2289,19 +2297,66 @@ body.magazine-open {
   flex-direction: column;
   gap: 2px;
   min-width: 0;
+  padding: 10px 12px;
+  flex: 0 0 auto;
+}
+
+.magazine-poi-kicker {
+  font: 700 10px var(--label-font);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+  margin-bottom: 2px;
 }
 
 .magazine-poi-name {
   font-weight: 600;
-  font-size: 15px;
+  font-size: 14px;
+  line-height: 1.25;
 }
 
 .magazine-poi-snippet {
-  font-size: 13px;
+  font-size: 12px;
   color: var(--mute);
+  line-height: 1.35;
   overflow: hidden;
   text-overflow: ellipsis;
-  white-space: nowrap;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  margin-top: 2px;
+}
+
+/* Featured tile: image fills most of the card, name/snippet overlaid like
+   the main spread covers, so it reads as the "cover story" of the list. */
+.magazine-poi-item--featured .magazine-poi-link {
+  background: var(--ink);
+}
+
+.magazine-poi-item--featured .magazine-poi-thumb {
+  position: absolute;
+  inset: 0;
+  height: 100%;
+}
+
+.magazine-poi-item--featured .magazine-poi-meat {
+  position: relative;
+  z-index: 1;
+  margin-top: auto;
+  padding: 16px;
+  color: #fff;
+  background: linear-gradient(180deg, transparent 0%, rgba(0,0,0,0.75) 100%);
+}
+
+.magazine-poi-item--featured .magazine-poi-name {
+  font-family: var(--display-font);
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.magazine-poi-item--featured .magazine-poi-snippet {
+  color: rgba(255,255,255,0.85);
+  -webkit-line-clamp: 3;
 }
 
 /* A small, playful map — rounded, tilted frame rather than a utilitarian
@@ -2333,6 +2388,14 @@ body.magazine-open {
   }
   .magazine-spread-article {
     padding: 32px 18px 70px;
+  }
+  .magazine-article-poi-list {
+    grid-template-columns: repeat(2, 1fr);
+    grid-auto-rows: 130px;
+  }
+  .magazine-poi-item--featured {
+    grid-column: span 2;
+    grid-row: span 2;
   }
 }
 

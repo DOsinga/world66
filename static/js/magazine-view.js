@@ -45,9 +45,12 @@
     var list = spread.querySelector('.magazine-article-poi-list');
     poisWrap.hidden = false;
 
-    pois.forEach(function(poi) {
+    // pois arrives sorted best-first; give the top one the "cover story"
+    // treatment (bigger tile, bigger image, full snippet) in the 3-col grid.
+    pois.forEach(function(poi, i) {
+      var featured = i === 0;
       var li = document.createElement('li');
-      li.className = 'magazine-poi-item';
+      li.className = 'magazine-poi-item' + (featured ? ' magazine-poi-item--featured' : '');
       var a = document.createElement('a');
       a.href = poi.url;
       a.className = 'magazine-poi-link';
@@ -56,6 +59,7 @@
         : '<span class="magazine-poi-thumb magazine-poi-thumb--none"></span>';
       a.innerHTML = thumb
         + '<span class="magazine-poi-meat">'
+        + (featured ? '<span class="magazine-poi-kicker">Don\'t miss</span>' : '')
         + '<span class="magazine-poi-name">' + (poi.name || '') + '</span>'
         + (poi.snippet ? '<span class="magazine-poi-snippet">' + poi.snippet + '</span>' : '')
         + '</span>';
@@ -122,11 +126,19 @@
   // Horizontal gestures (trackpad two-finger swipe, shift+wheel) move
   // between spreads. Plain vertical wheel is left alone so it scrolls the
   // active spread's own cover-to-article content instead of the strip.
+  // One gesture = one step: a fast/long swipe fires dozens of wheel events
+  // with large deltas, so following deltaX 1:1 felt wildly oversensitive
+  // (a single swipe could blow past several spreads). Instead, the first
+  // event past the threshold advances exactly one spread, then a short
+  // cooldown ignores the rest of that same gesture.
+  var wheelCooldown = false;
   spreadsWrap.addEventListener('wheel', function(e) {
-    if (Math.abs(e.deltaX) > Math.abs(e.deltaY)) {
-      e.preventDefault();
-      spreadsWrap.scrollBy({left: e.deltaX});
-    }
+    if (Math.abs(e.deltaX) <= Math.abs(e.deltaY)) return;
+    e.preventDefault();
+    if (wheelCooldown || Math.abs(e.deltaX) < 8) return;
+    wheelCooldown = true;
+    step(e.deltaX > 0 ? 1 : -1);
+    setTimeout(function() { wheelCooldown = false; }, 650);
   }, {passive: false});
 
   document.addEventListener('keydown', function(e) {

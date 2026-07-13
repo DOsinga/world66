@@ -776,7 +776,17 @@ def api_page_content(request, path):
         pois = []
     elif page.page_type in NAV_TYPES:
         pois = sorted(page.tagged_pois(), key=lambda p: float(p.meta.get("score", 0) or 0), reverse=True)
-    top_pois = [m for m in (_marker_from_page_rich(p) for p in pois[:8]) if m][:6]
+    top_pois = []
+    for p in pois[:8]:
+        m = _marker_from_page_rich(p)
+        if not m:
+            continue
+        # Many POIs have no snippet field; fall back to a short excerpt of
+        # the body itself rather than leaving the magazine list blank.
+        if not m.get("snippet"):
+            m["snippet"] = _magazine_teaser(p, limit=110)
+        top_pois.append(m)
+    top_pois = top_pois[:6]
     if top_pois:
         data["pois"] = top_pois
 

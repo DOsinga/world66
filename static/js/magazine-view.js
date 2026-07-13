@@ -37,9 +37,62 @@
     spreadsWrap.scrollTo({left: 0});
   }
 
-  function renderPoisAndMap(spread, data) {
+  function newMapId() {
+    return 'magazine-map-' + (mapIdCounter++);
+  }
+
+  // A locator box centred between a country's centroid and a specific
+  // point within it, sized proportionally to the distance between them
+  // (with a floor so even a very central city still reads as "zoomed out
+  // to the country", not a tight crop). Not a real national boundary —
+  // just enough geographic context for a decorative locator map.
+  function countryLocatorBounds(countryLat, countryLng, lat, lng) {
+    var latSpan = Math.max(Math.abs(lat - countryLat) * 2.6, 3.5);
+    var lngSpan = Math.max(Math.abs(lng - countryLng) * 2.6, 4.5);
+    var cLat = (countryLat + lat) / 2;
+    var cLng = (countryLng + lng) / 2;
+    return L.latLngBounds(
+      [cLat - latSpan / 2, cLng - lngSpan / 2],
+      [cLat + latSpan / 2, cLng + lngSpan / 2]
+    );
+  }
+
+  // The "country map" — woven into the article text itself, right after
+  // the first paragraph, rather than bolted on at the end.
+  function insertCountryMap(contentEl, data) {
+    if (!data.country || typeof initLocationMap !== 'function' || typeof data.lat !== 'number') return;
+
+    var wrap = document.createElement('div');
+    wrap.className = 'magazine-country-map-wrap';
+    var mapDiv = document.createElement('div');
+    mapDiv.className = 'magazine-country-map';
+    mapDiv.id = newMapId();
+    var caption = document.createElement('div');
+    caption.className = 'magazine-country-map-caption';
+    caption.textContent = (data.title || 'This spot') + ' in ' + data.country.name;
+    wrap.appendChild(mapDiv);
+    wrap.appendChild(caption);
+
+    var firstP = contentEl.querySelector('p');
+    if (firstP && firstP.parentNode) {
+      firstP.parentNode.insertBefore(wrap, firstP.nextSibling);
+    } else {
+      contentEl.insertBefore(wrap, contentEl.firstChild);
+    }
+
+    requestAnimationFrame(function() {
+      var bounds = countryLocatorBounds(data.country.lat, data.country.lng, data.lat, data.lng);
+      initLocationMap(mapDiv.id, [
+        {lat: data.country.lat, lng: data.country.lng, name: data.country.name},
+        {lat: data.lat, lng: data.lng, name: data.title, highlight: true}
+      ], {bounds: bounds});
+    });
+  }
+
+  function renderPois(spread, data) {
     var pois = data.pois || [];
-    if (!pois.length) return;
+    var hasMap = typeof initLocationMap === 'function' && typeof data.lat === 'number';
+    if (!pois.length && !hasMap) return;
 
     var poisWrap = spread.querySelector('.magazine-article-pois');
     var list = spread.querySelector('.magazine-article-poi-list');
@@ -69,17 +122,20 @@
       list.appendChild(li);
     });
 
-    // A small, playful map — rounded, tilted frame — reusing the same
-    // Leaflet setup as the sidebar map (world66map.js). initLocationMap
-    // looks its container up by document.getElementById internally, so it
-    // needs a real, unique string id, not just an element reference.
-    if (typeof initLocationMap === 'function' && typeof data.lat === 'number') {
-      var mapEl = spread.querySelector('.magazine-article-map');
-      mapEl.id = 'magazine-map-' + (mapIdCounter++);
+    // The "city map" — the destination itself plus its top POIs — is just
+    // another card in this same grid, not a block bolted on underneath it.
+    if (hasMap) {
+      var mapLi = document.createElement('li');
+      mapLi.className = 'magazine-poi-item magazine-poi-item--map';
+      var mapDiv = document.createElement('div');
+      mapDiv.className = 'magazine-poi-map';
+      mapDiv.id = newMapId();
+      mapLi.appendChild(mapDiv);
+      list.appendChild(mapLi);
       var markers = [{lat: data.lat, lng: data.lng, name: data.title, highlight: true}]
         .concat(pois.map(function(p) { return {lat: p.lat, lng: p.lng, name: p.name, url: p.url}; }));
       requestAnimationFrame(function() {
-        initLocationMap(mapEl.id, markers, {});
+        initLocationMap(mapDiv.id, markers, {});
       });
     }
   }
@@ -97,7 +153,8 @@
       .then(function(data) {
         contentEl.classList.remove('is-loading');
         contentEl.innerHTML = data.body_html || '';
-        renderPoisAndMap(spread, data);
+        insertCountryMap(contentEl, data);
+        renderPois(spread, data);
       })
       .catch(function() {
         contentEl.classList.remove('is-loading');

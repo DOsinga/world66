@@ -768,6 +768,20 @@ def api_page_content(request, path):
         data["lat"] = lat
         data["lng"] = lng
 
+    # Country locator: the first two path segments are always
+    # continent/country (true for a direct city, a region-drilled-down
+    # city, or a neighbourhood alike). Skip it when the page itself is
+    # at country depth or shallower — there's no meaningful "country" to
+    # locate it within.
+    path_parts = page.path.split("/")
+    if len(path_parts) > 2:
+        country_page = load_page("/".join(path_parts[:2]))
+        if country_page:
+            c_lat = _safe_float(country_page.meta.get("latitude"))
+            c_lng = _safe_float(country_page.meta.get("longitude"))
+            if c_lat is not None and c_lng is not None:
+                data["country"] = {"name": country_page.title, "lat": c_lat, "lng": c_lng}
+
     # Top POIs: nav pages (sections/neighbourhoods) collect by tag; a
     # location page's own children() already returns its flat POI files
     # sorted by score (POIs live flat in the city/feature directory).

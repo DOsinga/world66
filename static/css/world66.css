@@ -2192,29 +2192,33 @@ body.magazine-open {
   scroll-snap-align: start;
   min-height: 60vh;
   background: var(--paper);
-  padding: 48px 24px 100px;
+  padding: 72px clamp(24px, 7vw, 130px) 140px;
 }
 
 /* Full-width, newspaper-style columns rather than a narrow reading
    column — the article text is part of the same three-column rhythm as
-   the "Top things to do" grid below it, not a separate boxed-in block. */
+   the "Top things to do" grid below it, not a separate boxed-in block.
+   Set in the display serif rather than the site's usual body sans, with
+   a dropped first letter, so reading an article feels distinctly like a
+   different, more editorial mode than the rest of the site. */
 .magazine-article-content {
-  font-size: 17px;
-  line-height: 1.7;
+  font-family: var(--display-font);
+  font-size: 19px;
+  line-height: 1.75;
   color: var(--ink);
   column-count: 3;
-  column-gap: 44px;
+  column-gap: 64px;
 }
 
 @media (max-width: 1000px) {
-  .magazine-article-content { column-count: 2; }
+  .magazine-article-content { column-count: 2; column-gap: 48px; }
 }
 
 @media (max-width: 640px) {
   .magazine-article-content { column-count: 1; }
 }
 
-.magazine-article-content p { margin: 0 0 1.1em; }
+.magazine-article-content p { margin: 0 0 1.3em; }
 .magazine-article-content p:last-child { margin-bottom: 0; }
 .magazine-article-content a { color: var(--accent); }
 .magazine-article-content strong { font-weight: 600; }
@@ -2223,6 +2227,17 @@ body.magazine-open {
   font-size: 24px;
   font-weight: 500;
   margin: 1.3em 0 0.4em;
+}
+
+.magazine-article-content p:first-of-type::first-letter {
+  font-family: var(--display-font);
+  font-style: italic;
+  font-weight: 600;
+  font-size: 3.6em;
+  line-height: 0.78;
+  float: left;
+  padding: 0.02em 0.09em 0 0;
+  color: var(--accent);
 }
 
 .magazine-article-content.is-loading {
@@ -2242,8 +2257,8 @@ body.magazine-open {
 /* --- Magazine view: "top things to do" list + cutesy map --- */
 
 .magazine-article-pois {
-  margin: 40px 0 0;
-  padding-top: 28px;
+  margin: 56px 0 0;
+  padding-top: 36px;
   border-top: 1px dashed var(--line-2);
 }
 
@@ -2266,7 +2281,7 @@ body.magazine-open {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-auto-rows: minmax(160px, auto);
-  gap: 14px;
+  gap: 20px;
 }
 
 .magazine-poi-item--featured {
@@ -2383,21 +2398,51 @@ body.magazine-open {
   -webkit-line-clamp: 4;
 }
 
-/* A small, playful map — rounded, tilted frame rather than a utilitarian
-   sidebar widget, since this is meant to feel like a fun little inset. */
-.magazine-article-map-wrap {
-  max-width: 460px;
-  padding: 10px;
+/* The "city map" — the destination plus its top POIs — is a card in the
+   things-to-do grid, not a block bolted on at the bottom. Rounded, tilted
+   frame, like a fun little inset rather than a utilitarian sidebar widget. */
+.magazine-poi-item--map {
+  grid-row: span 2;
+  padding: 8px;
   background: var(--paper-2);
-  border-radius: 18px;
-  transform: rotate(-0.6deg);
+  border-radius: 16px;
+  transform: rotate(0.7deg);
 }
 
-.magazine-article-map {
-  height: 220px;
-  border-radius: 12px;
+.magazine-poi-map {
+  height: 100%;
+  min-height: 180px;
+  border-radius: 10px;
   overflow: hidden;
-  transform: rotate(0.6deg);
+  transform: rotate(-0.7deg);
+}
+
+/* The "country map" — a locator, not a detail map — is woven straight
+   into the article text, right after the first paragraph, rather than
+   sitting apart from it. break-inside: avoid keeps it from being split
+   awkwardly across a column break. */
+.magazine-country-map-wrap {
+  break-inside: avoid;
+  margin: 6px 0 24px;
+  padding: 10px;
+  background: var(--paper-2);
+  border-radius: 16px;
+  transform: rotate(-0.7deg);
+}
+
+.magazine-country-map {
+  height: 150px;
+  border-radius: 10px;
+  overflow: hidden;
+  transform: rotate(0.7deg);
+}
+
+.magazine-country-map-caption {
+  margin-top: 8px;
+  font: 600 11px var(--label-font);
+  text-align: center;
+  color: var(--mute);
+  transform: rotate(0.7deg);
 }
 
 @media (max-width: 768px) {

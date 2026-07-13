@@ -1,4 +1,5 @@
 {% extends "guide/base.html" %}
+{% load static %}
 
 {% block title %}
 {{ page.title }}{% if page.page_type == "location" %} Travel Guide{% endif %} - World66
@@ -256,13 +257,11 @@
 {% endif %}{% endif %}
 
 {% if magazine_available %}
-<div class="magazine-toggle" role="tablist" aria-label="Choose page view">
-  <button class="magazine-pill magazine-pill--active" data-page-view="structure" role="tab" aria-selected="true" type="button">Structure</button>
-  <button class="magazine-pill" data-page-view="magazine" role="tab" aria-selected="false" type="button">Magazine</button>
+<div class="magazine-entry-wrap">
+  <button class="magazine-open-btn" data-magazine-open type="button">&#10024; Magazine view</button>
 </div>
 {% endif %}
 
-<div data-page-view-panel="structure" class="view-panel view-panel--active">
 {% if page.page_type == "location" and top_locations %}
 <div class="wide-block destinations-section">
   <span class="section-kicker">Destinations</span>
@@ -438,70 +437,43 @@
 })();
 </script>
 {% endif %}
-</div>
 
 {% if magazine_available %}
-<div data-page-view-panel="magazine" class="view-panel magazine-panel">
-  <div class="wide-block magazine-section">
-    <span class="section-kicker">Magazine</span>
-    <h2 class="section-block-heading">Inspiration from {{ page.title }}</h2>
-    <div class="magazine-grid" data-magazine-grid data-display-count="6">
-      {% for card in magazine_cards %}
-      <a href="{{ card.url }}" class="magazine-card{% if not card.image_url %} magazine-card--no-image{% endif %}" data-magazine-card>
-        {% if card.image_url %}<img src="{{ card.image_url }}" alt="{{ card.title }}" loading="lazy">{% endif %}
-        <div class="magazine-veil"></div>
-        <div class="magazine-txt">
-          <div class="magazine-name">{{ card.title }}</div>
-          {% if card.teaser %}<p class="magazine-teaser">{{ card.teaser }}</p>{% endif %}
-          <span class="magazine-readmore">Read more &#8594;</span>
-        </div>
-      </a>
-      {% endfor %}
+<div id="magazine-overlay" aria-hidden="true">
+  <div id="magazine-topbar">
+    <button id="magazine-close" aria-label="Close magazine view" type="button">&times;</button>
+    <button id="magazine-shuffle" type="button">&#8635; Shuffle</button>
+    <button id="magazine-back" type="button" hidden>&#8592; Back to browsing</button>
+  </div>
+
+  <button id="magazine-prev" aria-label="Previous" type="button">&#8249;</button>
+  <div id="magazine-spreads">
+    {% for card in magazine_cards %}
+    <a href="{{ card.url }}" class="magazine-spread" data-magazine-spread
+       data-path="{{ card.path }}" data-url="{{ card.url }}" data-title="{{ card.title|escapejs }}">
+      {% if card.image_url %}<img src="{{ card.image_url }}" alt="{{ card.title }}" loading="lazy">{% endif %}
+      <div class="magazine-spread-veil"></div>
+      <div class="magazine-spread-txt">
+        <div class="magazine-spread-name">{{ card.title }}</div>
+        {% if card.teaser %}<p class="magazine-spread-teaser">{{ card.teaser }}</p>{% endif %}
+        <span class="magazine-spread-readmore">Read the full story &#8594;</span>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+  <button id="magazine-next" aria-label="Next" type="button">&#8250;</button>
+
+  <div id="magazine-article" hidden>
+    <div id="magazine-article-hero">
+      <img id="magazine-article-img" alt="">
     </div>
-    {% if magazine_cards|length > 6 %}
-    <button class="magazine-shuffle" data-magazine-shuffle type="button">&#8635; Shuffle</button>
-    {% endif %}
+    <div id="magazine-article-body">
+      <h1 id="magazine-article-title"></h1>
+      <div id="magazine-article-content"></div>
+    </div>
   </div>
 </div>
-<script>
-(function() {
-  var pills = document.querySelectorAll('[data-page-view]');
-  var panels = document.querySelectorAll('[data-page-view-panel]');
-  pills.forEach(function(pill) {
-    pill.addEventListener('click', function() {
-      var view = pill.getAttribute('data-page-view');
-      pills.forEach(function(p) {
-        var active = p === pill;
-        p.classList.toggle('magazine-pill--active', active);
-        p.setAttribute('aria-selected', active ? 'true' : 'false');
-      });
-      panels.forEach(function(panel) {
-        panel.classList.toggle('view-panel--active', panel.getAttribute('data-page-view-panel') === view);
-      });
-    });
-  });
-
-  var grid = document.querySelector('[data-magazine-grid]');
-  if (grid) {
-    var cards = Array.prototype.slice.call(grid.querySelectorAll('[data-magazine-card]'));
-    var displayCount = Math.min(parseInt(grid.getAttribute('data-display-count'), 10) || 6, cards.length);
-    var shuffleBtn = document.querySelector('[data-magazine-shuffle]');
-
-    function showRandomSet() {
-      var shuffled = cards.slice().sort(function() { return Math.random() - 0.5; });
-      var shown = shuffled.slice(0, displayCount);
-      cards.forEach(function(card) {
-        card.classList.remove('magazine-card--featured');
-        card.style.display = shown.indexOf(card) !== -1 ? '' : 'none';
-      });
-      if (shown.length) { shown[0].classList.add('magazine-card--featured'); }
-    }
-
-    showRandomSet();
-    if (shuffleBtn) { shuffleBtn.addEventListener('click', showRandomSet); }
-  }
-})();
-</script>
+<script src="{% static 'js/magazine-view.js' %}"></script>
 {% endif %}
 
 {% if nav_siblings %}

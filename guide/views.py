@@ -1,4 +1,5 @@
 import json
+import random
 import re
 import sqlite3
 import subprocess
@@ -441,13 +442,16 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     top_locations = locations[:_top_n]
     more_locations = sorted(locations[_top_n:], key=lambda loc: loc.title)
 
-    # Magazine view: an inspirational, image-led alternative to the structural
-    # card grid. Neighbourhoods (already gated to >=3 with real images) take
-    # priority on city pages; otherwise fall back to locations with a real
-    # (non-word-cloud) image — a magazine needs actual photography.
+    # Magazine view: a full-screen, image-led browsing mode (see
+    # static/js/magazine-view.js). Neighbourhoods (already gated to >=3 with
+    # real images) take priority on city pages; otherwise fall back to
+    # locations with a real (non-word-cloud) image — a magazine needs actual
+    # photography. Order is shuffled fresh on every page load; `path` lets
+    # the client fetch the full article body via api_page_content.
     _magazine_pool = neighbourhoods or [loc for loc in locations if loc.image_url]
     magazine_cards = [
         {
+            'path': item.path,
             'url': item.get_absolute_url(),
             'title': item.title,
             'image_url': item.image_url,
@@ -455,6 +459,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         }
         for item in _magazine_pool
     ]
+    random.shuffle(magazine_cards)
     magazine_available = len(magazine_cards) >= 5
 
     # For feature pages: cities/locations that tag into this feature via tags: [feature_slug]

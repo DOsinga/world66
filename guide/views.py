@@ -530,11 +530,13 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     list_items = None
     if page.page_type == "list":
         list_items = []
+        list_item_pages = []
         for i, item_path in enumerate(page.meta.get("items") or []):
             item = (load_page_from_revision(item_path, source_ref, url_revision=url_revision)
                     if source_ref else load_page(item_path))
             if not item:
                 continue
+            list_item_pages.append(item)
             item_img = _image_path(item, source_ref)
             list_items.append({
                 "rank": i + 1,
@@ -543,6 +545,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
                 "image_url": f"{item.url_prefix}/content-image/{item_img}" if item_img else None,
                 "snippet": item.meta.get("snippet", "") or "",
             })
+        markers = markers_full = [m for m in (_marker_from_page(p) for p in list_item_pages) if m]
 
     # A location page (city/region/country/feature) may have one or more
     # type=list pages living in its own directory — feature the best-scored

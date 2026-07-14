@@ -227,26 +227,6 @@
 </div>
 {% endif %}
 
-{% if featured_list %}
-<div class="wide-block featured-list-section">
-  <a href="{{ featured_list.get_absolute_url }}" class="featured-list-card">
-    {% if featured_list.image_url %}<img src="{{ featured_list.image_url }}" alt="{{ featured_list.title }}">{% endif %}
-    <div class="featured-list-veil"></div>
-    <div class="featured-list-txt">
-      <span class="featured-list-kicker">List</span>
-      <div class="featured-list-name">{{ featured_list.title }}</div>
-      {% if featured_list.meta.snippet %}<p class="featured-list-snippet">{{ featured_list.meta.snippet }}</p>{% endif %}
-    </div>
-  </a>
-  {% if other_lists %}
-  <div class="more-lists-row">
-    <span class="more-lists-label">More lists:</span>
-    {% for l in other_lists %}<a href="{{ l.get_absolute_url }}">{{ l.title }}</a>{% if not forloop.last %}, {% endif %}{% endfor %}
-  </div>
-  {% endif %}
-</div>
-{% endif %}
-
 {% if page.page_type == "section" or page.page_type == "neighbourhood" or page.page_type == "section_group" %}{% if pois and not daytrip_cards %}
 <div class="wide-block poi-section">
   <span class="section-kicker">{% if page.page_type == "neighbourhood" %}Neighbourhood{% else %}Guide{% endif %}</span>
@@ -487,6 +467,26 @@
     <li><a href="{{ url_prefix }}/{{ context_nav.path }}/{{ poi.slug }}">{{ poi.title }}</a></li>
     {% endif %}{% endfor %}
   </ul>
+</div>
+{% endif %}
+
+{% if featured_list %}
+<div class="wide-block featured-list-section">
+  <a href="{{ featured_list.get_absolute_url }}" class="featured-list-card">
+    {% if featured_list.image_url %}<img src="{{ featured_list.image_url }}" alt="{{ featured_list.title }}">{% endif %}
+    <div class="featured-list-veil"></div>
+    <div class="featured-list-txt">
+      <span class="featured-list-kicker">List</span>
+      <div class="featured-list-name">{{ featured_list.title }}</div>
+      {% if featured_list.meta.snippet %}<p class="featured-list-snippet">{{ featured_list.meta.snippet }}</p>{% endif %}
+    </div>
+  </a>
+  {% if other_lists %}
+  <div class="more-lists-row">
+    <span class="more-lists-label">More lists:</span>
+    {% for l in other_lists %}<a href="{{ l.get_absolute_url }}">{{ l.title }}</a>{% if not forloop.last %}, {% endif %}{% endfor %}
+  </div>
+  {% endif %}
 </div>
 {% endif %}
 {% endblock %}

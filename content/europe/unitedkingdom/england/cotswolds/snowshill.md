@@ -5,7 +5,7 @@ image_license: CC0
 image_source: https://commons.wikimedia.org/wiki/File:Snowshill_Manor_exterior.jpg
 latitude: 52.0014
 lists:
-- europe/unitedkingdom/england/cotswolds/prettiest_cotswolds_villages
+- europe/unitedkingdom/england/prettiest_cotswolds_villages
 loc_type: city
 longitude: -1.8465
 score: 7.4

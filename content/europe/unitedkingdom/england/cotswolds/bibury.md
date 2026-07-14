@@ -5,7 +5,7 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Arlington_Row_Bibury.jpg
 latitude: 51.7584
 lists:
-- europe/unitedkingdom/england/cotswolds/prettiest_cotswolds_villages
+- europe/unitedkingdom/england/prettiest_cotswolds_villages
 loc_type: city
 longitude: -1.8321
 score: 7.8

@@ -5,7 +5,7 @@ image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Broadway_and_Broadway_Tower_-_geograph.org.uk_-_4358909.jpg
 latitude: 52.0354
 lists:
-- europe/unitedkingdom/england/cotswolds/prettiest_cotswolds_villages
+- europe/unitedkingdom/england/prettiest_cotswolds_villages
 loc_type: city
 longitude: -1.8619
 score: 7.6

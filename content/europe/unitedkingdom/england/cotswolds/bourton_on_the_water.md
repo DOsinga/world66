@@ -5,7 +5,7 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Bridge-over_Bourton_Waters.jpg
 latitude: 51.8841
 lists:
-- europe/unitedkingdom/england/cotswolds/prettiest_cotswolds_villages
+- europe/unitedkingdom/england/prettiest_cotswolds_villages
 loc_type: city
 longitude: -1.7573
 score: 7.5

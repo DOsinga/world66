@@ -5,7 +5,7 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Castle_combe_river.jpg
 latitude: 51.4934
 lists:
-- europe/unitedkingdom/england/cotswolds/prettiest_cotswolds_villages
+- europe/unitedkingdom/england/prettiest_cotswolds_villages
 loc_type: city
 longitude: -2.229
 score: 8.1

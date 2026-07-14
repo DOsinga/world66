@@ -1976,27 +1976,17 @@ img { max-width: 100%; height: auto; }
   font-style: italic;
 }
 
-/* --- Magazine view: entry button --- */
+/* --- Magazine view: nav-bar entry button --- */
 
-.magazine-entry-wrap {
-  display: flex;
-  justify-content: flex-end;
-  margin-bottom: 12px;
-}
-
-.magazine-open-btn {
-  border: 1px solid rgba(19,18,17,0.16);
-  border-radius: 999px;
-  background: rgba(255,250,241,0.78);
-  color: var(--ink);
-  padding: 8px 16px;
+.nav-magazine-button {
+  width: auto;
+  padding: 0 12px;
   font: 600 13px var(--label-font);
   cursor: pointer;
-  box-shadow: 0 1px 0 rgba(19,18,17,0.04);
 }
 
-.magazine-open-btn:hover {
-  background: #fffaf1;
+.nav-magazine-icon {
+  font-size: 14px;
 }
 
 /* --- Magazine view: full-screen overlay --- */
@@ -4202,11 +4192,13 @@ body.magazine-open {
     flex: 1 1 auto;
   }
 
-  .nav-issue-button span {
+  .nav-issue-button span,
+  .nav-magazine-button .nav-magazine-label {
     display: none;
   }
 
-  .nav-issue-button {
+  .nav-issue-button,
+  .nav-magazine-button {
     width: 34px;
     padding: 0;
   }

@@ -160,6 +160,17 @@ def home(request, source_ref=None, url_revision=""):
     ]
     city_cards = _globe_city_data(source_ref, url_revision)
     cities_json = json.dumps(city_cards)
+
+    # Homepage magazine: a sitewide "discover" sample, reusing the imaged
+    # cities already gathered for the globe rather than loading pages again.
+    magazine_cards = [
+        {'path': c['path'], 'url': c['url'], 'title': c['title'], 'image_url': c['image'], 'teaser': c['snippet']}
+        for c in city_cards if c.get('image')
+    ]
+    random.shuffle(magazine_cards)
+    magazine_cards = magazine_cards[:60]
+    magazine_available = len(magazine_cards) >= 5
+
     globe_autoplay_embed_url = request.build_absolute_uri("/widgets/globe-explore?mode=autoplay")
     globe_explore_embed_url = request.build_absolute_uri("/widgets/globe-explore?mode=explore")
     photo_map_embed_url = request.build_absolute_uri("/widgets/photo-map")
@@ -169,6 +180,8 @@ def home(request, source_ref=None, url_revision=""):
         'cities_json': cities_json,
         'featured_city_count': f"{len(city_cards):,}",
         'search_page_count': f"{count_content_pages():,}",
+        'magazine_cards': magazine_cards,
+        'magazine_available': magazine_available,
         'url_prefix': url_prefix,
         'globe_autoplay_embed_url': globe_autoplay_embed_url,
         'globe_explore_embed_url': globe_explore_embed_url,
@@ -443,40 +456,21 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     more_locations = sorted(locations[_top_n:], key=lambda loc: loc.title)
 
     # Magazine view: a full-screen, image-led browsing mode (see
-    # static/js/magazine-view.js). Neighbourhoods (already gated to >=3 with
-    # real images) take priority on city pages; otherwise fall back to
-    # locations with a real (non-word-cloud) image — a magazine needs actual
-    # photography. Order is shuffled fresh on every page load; `path` lets
-    # the client fetch the full article body via api_page_content.
-    _magazine_pool = neighbourhoods or [loc for loc in locations if loc.image_url]
-    if not neighbourhoods:
-        # Countries big enough to use a region layer (LOCATIONS.md) would
-        # otherwise only ever surface region pages ("California") instead of
-        # the actual cities/features inside them ("San Francisco", "Yosemite")
-        # — drill one level deeper into any region so the magazine has real,
-        # specific destinations to show, not just administrative buckets.
-        for loc in locations:
-            if loc.meta.get('loc_type') != 'region':
-                continue
-            _, region_children, _ = loc.children()
-            for child in region_children:
-                child_img = _image_path(child, source_ref)
-                child.image_url = f'{child.url_prefix}/content-image/{child_img}' if child_img else None
-                if child.image_url:
-                    _magazine_pool.append(child)
-    magazine_cards = [
-        {
-            'path': item.path,
-            'url': item.get_absolute_url(),
-            'title': item.title,
-            'image_url': item.image_url,
-            'teaser': _magazine_teaser(item),
-        }
-        for item in _magazine_pool
-    ]
-    random.shuffle(magazine_cards)
-    magazine_cards = magazine_cards[:60]  # keep the DOM sane on big countries; a fresh sample each load
-    magazine_available = len(magazine_cards) >= 5
+    # static/js/magazine-view.js), toggled from the persistent top nav. If
+    # this page has no qualifying pool of its own (POIs, sections, small
+    # locations), fall back to the nearest ancestor location that does, so
+    # the nav toggle doesn't just disappear while browsing.
+    magazine_cards, magazine_available = _magazine_cards_for(page, source_ref, neighbourhoods, locations)
+    if not magazine_available:
+        ancestor_path = page.path
+        while not magazine_available and "/" in ancestor_path:
+            ancestor_path = ancestor_path.rsplit("/", 1)[0]
+            ancestor = (
+                load_page_from_revision(ancestor_path, source_ref, url_revision=url_revision)
+                if source_ref else load_page(ancestor_path)
+            )
+            if ancestor and ancestor.page_type == "location":
+                magazine_cards, magazine_available = _magazine_cards_for(ancestor, source_ref)
 
     # For feature pages: cities/locations that tag into this feature via tags: [feature_slug]
     linked_locations = []
@@ -1016,6 +1010,63 @@ def _magazine_teaser(page, limit=220):
         return first_para
 
     return page.meta.get('snippet', '') or ''
+
+
+def _magazine_cards_for(page, source_ref, neighbourhoods=None, locations=None):
+    """Build shuffled magazine cards + availability for `page`.
+
+    Neighbourhoods (already gated to >=3 with real images) take priority on
+    city pages; otherwise fall back to locations with a real (non-word-cloud)
+    image — a magazine needs actual photography. Pass already-computed
+    `neighbourhoods`/`locations` (with `.image_url` attached) to reuse work
+    the caller already did for the current page; omit them to compute fresh
+    for an ancestor consulted only as a magazine-view fallback.
+    """
+    if neighbourhoods is None and locations is None:
+        nav_pages, locations, _ = page.children()
+        neighbourhoods = [
+            p for p in nav_pages
+            if p.page_type == "neighbourhood" and not p.meta.get("hide_from_city")
+        ]
+        for nb in neighbourhoods:
+            nb_img = _image_path(nb, source_ref)
+            nb.image_url = f'{nb.url_prefix}/content-image/{nb_img}' if nb_img else None
+        if sum(1 for nb in neighbourhoods if nb.image_url) < 3:
+            neighbourhoods = []
+        for loc in locations:
+            loc_img = _image_path(loc, source_ref)
+            loc.image_url = f'{loc.url_prefix}/content-image/{loc_img}' if loc_img else None
+
+    _pool = neighbourhoods or [loc for loc in locations if loc.image_url]
+    if not neighbourhoods:
+        # Countries big enough to use a region layer (LOCATIONS.md) would
+        # otherwise only ever surface region pages ("California") instead of
+        # the actual cities/features inside them ("San Francisco", "Yosemite")
+        # — drill one level deeper into any region so the magazine has real,
+        # specific destinations to show, not just administrative buckets.
+        for loc in locations:
+            if loc.meta.get('loc_type') != 'region':
+                continue
+            _, region_children, _ = loc.children()
+            for child in region_children:
+                child_img = _image_path(child, source_ref)
+                child.image_url = f'{child.url_prefix}/content-image/{child_img}' if child_img else None
+                if child.image_url:
+                    _pool.append(child)
+
+    cards = [
+        {
+            'path': item.path,
+            'url': item.get_absolute_url(),
+            'title': item.title,
+            'image_url': item.image_url,
+            'teaser': _magazine_teaser(item),
+        }
+        for item in _pool
+    ]
+    random.shuffle(cards)
+    cards = cards[:60]  # keep the DOM sane on big countries; a fresh sample each load
+    return cards, len(cards) >= 5
 
 
 def content_image(request, path):

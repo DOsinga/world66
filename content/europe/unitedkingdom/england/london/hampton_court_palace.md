@@ -8,17 +8,17 @@ image_attribution: DiscoA340
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Hampton_Court_Palace_(7_August_2023)_125.jpg
 latitude: 51.399102
-loc_type: feature
 longitude: -0.357136
 opening_hours: Daily 10am-6pm (winter 4:30pm)
 phone: +44 20 3166 6000
 score: 9.1
 snippet: England's finest Tudor palace, 35 minutes from Waterloo
 tags:
+- things_to_do
+- sight
 - palace
-- park
 title: Hampton Court Palace
-type: location
+type: poi
 url: www.hrp.org.uk/hampton-court-palace
 ---
 

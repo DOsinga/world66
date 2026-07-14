@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dartmoor_ponies_by_the_B32
 latitude: 50.72414
 loc_type: feature
 longitude: -3.660779
-score: 0.82
+score: 8.2
 snippet: Two coastlines, Dartmoor's granite tors, Exeter's cathedral, and a string
   of seaside towns from Barnstaple to Dartmouth.
 title: Devon

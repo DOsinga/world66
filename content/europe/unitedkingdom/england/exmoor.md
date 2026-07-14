@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Malmsmead_Hill,_Exmoor_-_g
 latitude: 51.133841
 loc_type: feature
 longitude: -3.603995
-score: 0.7
+score: 7.0
 snippet: National park of open moorland, wooded valleys, red deer, and a dramatic
   cliff-backed coast on the Bristol Channel.
 title: Exmoor

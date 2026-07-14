@@ -1,5 +1,7 @@
 ---
 latitude: 51.5136
+lists:
+- europe/unitedkingdom/quirky_uk_pubs
 longitude: -0.105
 score: 8.1
 snippet: Historic pub off Fleet Street, rebuilt after the Great Fire

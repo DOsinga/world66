@@ -1,5 +1,7 @@
 ---
 latitude: 51.52376
+lists:
+- europe/unitedkingdom/england/london/quirky_london_museums
 longitude: -0.15851
 score: 7.0
 source: wikivoyage

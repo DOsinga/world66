@@ -1,16 +1,23 @@
 ---
+latitude: 58.126
+lists:
+- europe/unitedkingdom/quirky_uk_bookshops
+longitude: -5.25902
+score: 6.8
+sources:
+- https://en.wikipedia.org/wiki/Inverkirkaig
+story: 'Achins opened in the 1970s and has been run by the same family for decades.
+  It stocks an extraordinary selection of books on Scottish natural history, geology,
+  archaeology, and walking — the kind of specialist stock that most large city bookshops
+  cannot manage. Finding it at the end of a remote track through Highland bog is one
+  of those experiences that makes you wonder why you live anywhere with proper roads.
+
+  '
+tags:
+- things_to_do
+- sight
 title: Achins Bookshop
 type: poi
-tags:
-  - things_to_do
-  - sight
-latitude: 58.126
-longitude: -5.25902
-story: >
-  Achins opened in the 1970s and has been run by the same family for decades. It stocks an extraordinary selection of books on Scottish natural history, geology, archaeology, and walking — the kind of specialist stock that most large city bookshops cannot manage. Finding it at the end of a remote track through Highland bog is one of those experiences that makes you wonder why you live anywhere with proper roads.
-sources:
-  - https://en.wikipedia.org/wiki/Inverkirkaig
-score: 6.8
 ---
 
 Achins Bookshop sits at Inverkirkaig, about five kilometres south of Lochinver, at the point where the road ends and a track continues to the Falls of Kirkaig. It is one of the most remote independent bookshops in Scotland, and improbably well stocked for its location. The shelves lean toward natural history, geology, and the Highlands, with a strong selection of maps and local guides.

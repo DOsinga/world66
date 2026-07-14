@@ -1,8 +1,11 @@
 ---
 latitude: 51.4421796
+lists:
+- europe/unitedkingdom/england/london/quirky_london_museums
 longitude: -0.0613245
 score: 7.8
-snippet: Eccentric free museum of natural history, world cultures, and a famous overstuffed walrus
+snippet: Eccentric free museum of natural history, world cultures, and a famous overstuffed
+  walrus
 tags:
 - things_to_do
 - museum

@@ -1,9 +1,12 @@
 ---
 address: 34 Grassmarket, Edinburgh EH1 2JU
 latitude: 55.9472
+lists:
+- europe/unitedkingdom/quirky_uk_pubs
 longitude: -3.1925
 score: 6.5
-snippet: Among Edinburgh's oldest pubs, with a history to 1516 and reputedly a haunt of Robbie Burns
+snippet: Among Edinburgh's oldest pubs, with a history to 1516 and reputedly a haunt
+  of Robbie Burns
 tags:
 - bars_and_cafes
 - grassmarket_nb

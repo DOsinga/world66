@@ -1,15 +1,17 @@
 ---
 address: 83-84 Marylebone High Street, London W1U 4QW
 latitude: 51.521843
+lists:
+- europe/unitedkingdom/quirky_uk_bookshops
 longitude: -0.155432
 opening_hours: Mon–Sat 9am–7:30pm; Sun 11am–6pm
+score: 7.7
 snippet: London's most beautiful bookshop, arranged by country in an Edwardian gallery
 tags:
 - shopping
 title: Daunt Books
 type: poi
 url: www.dauntbooks.co.uk
-score: 7.7
 ---
 
 Daunt Books is one of the finest bookshops in London — the original branch on Marylebone High Street occupies a beautiful Edwardian building with oak galleries, skylights, and long oak tables arranged around a central well. The shop organises books by country, so travel writing, fiction, poetry, and history from each nation sit together on the same shelf.

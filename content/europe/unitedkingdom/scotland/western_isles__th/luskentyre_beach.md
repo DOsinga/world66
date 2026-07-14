@@ -1,20 +1,23 @@
 ---
-title: "Luskentyre Beach"
-type: poi
-tags:
-  - things_to_do
-  - sight
-  - beach
-latitude: 57.8970
-longitude: -6.9680
-snippet: Vast white-sand beach on Harris with Caribbean-coloured shallows
-story: >
-  Luskentyre appears in several "world's best beaches" lists, which brings
-  increasing numbers of visitors — but the beach is large enough to absorb them.
-  The turquoise colour of the water comes from the very fine white shell-sand,
-  which reflects light differently from the grey quartz sand found on most
-  British beaches. The water temperature, however, is unambiguously Scottish.
+latitude: 57.897
+lists:
+- europe/unitedkingdom/wild_uk_beaches
+longitude: -6.968
 score: 9.2
+snippet: Vast white-sand beach on Harris with Caribbean-coloured shallows
+story: 'Luskentyre appears in several "world''s best beaches" lists, which brings
+  increasing numbers of visitors — but the beach is large enough to absorb them. The
+  turquoise colour of the water comes from the very fine white shell-sand, which reflects
+  light differently from the grey quartz sand found on most British beaches. The water
+  temperature, however, is unambiguously Scottish.
+
+  '
+tags:
+- things_to_do
+- sight
+- beach
+title: Luskentyre Beach
+type: poi
 ---
 
 Luskentyre is the beach people don't believe is in Scotland until they see it. The sand is white, the shallow water runs from turquoise to deep blue depending on the light, and the beach runs for several kilometres around the head of a sea loch on the west coast of Harris. In summer, on a clear day, it looks more like the Caribbean than the Hebrides — except for the temperature of the water and the Atlantic swell rolling in behind.

@@ -1,17 +1,19 @@
 ---
-title: Holkham Beach
-type: poi
 latitude: 52.975389
+lists:
+- europe/unitedkingdom/wild_uk_beaches
 longitude: 0.806583
 score: 8.7
+sources:
+- https://en.wikivoyage.org/wiki/Wells-next-the-Sea
+- https://en.wikipedia.org/wiki/Holkham_National_Nature_Reserve
 tags:
 - things_to_do
 - sight
 - beach
 - coast
-sources:
-- https://en.wikivoyage.org/wiki/Wells-next-the-Sea
-- https://en.wikipedia.org/wiki/Holkham_National_Nature_Reserve
+title: Holkham Beach
+type: poi
 ---
 
 Holkham Beach is the big reason many travellers come to Wells: a huge sweep of sand backed by dunes and Corsican pines, with room to walk even when the car parks are busy. At low tide the beach seems to pull away forever, leaving shallow water, firm sand, and a horizon that feels properly East Anglian.

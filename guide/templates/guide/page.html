@@ -196,9 +196,57 @@
 </div>
 {% endif %}
 
+{% if poi_lists %}
+<div class="poi-lists-badge">
+  <span class="poi-lists-badge-label">Featured on</span>
+  {% for l in poi_lists %}<a href="{{ l.get_absolute_url }}">{{ l.title }}</a>{% if not forloop.last %}, {% endif %}{% endfor %}
+</div>
+{% endif %}
+
 {% endblock %}
 
 {% block wide_content %}
+
+{% if page.page_type == "list" and list_items %}
+<div class="wide-block list-section">
+  <span class="section-kicker">List</span>
+  <h2 class="section-block-heading">{{ page.title }}</h2>
+  <div class="list-grid">
+    {% for item in list_items %}
+    <a href="{{ item.url }}" class="list-card{% if not item.image_url %} list-card--no-image{% endif %}">
+      {% if item.image_url %}<img src="{{ item.image_url }}" alt="{{ item.title }}" loading="lazy">{% endif %}
+      <div class="list-card-veil"></div>
+      <div class="list-card-rank">{{ item.rank }}</div>
+      <div class="list-card-txt">
+        <div class="list-card-name">{{ item.title }}</div>
+        {% if item.snippet %}<div class="list-card-snippet">{{ item.snippet }}</div>{% endif %}
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
+{% if featured_list %}
+<div class="wide-block featured-list-section">
+  <a href="{{ featured_list.get_absolute_url }}" class="featured-list-card">
+    {% if featured_list.image_url %}<img src="{{ featured_list.image_url }}" alt="{{ featured_list.title }}">{% endif %}
+    <div class="featured-list-veil"></div>
+    <div class="featured-list-txt">
+      <span class="featured-list-kicker">List</span>
+      <div class="featured-list-name">{{ featured_list.title }}</div>
+      {% if featured_list.meta.snippet %}<p class="featured-list-snippet">{{ featured_list.meta.snippet }}</p>{% endif %}
+    </div>
+  </a>
+  {% if other_lists %}
+  <div class="more-lists-row">
+    <span class="more-lists-label">More lists:</span>
+    {% for l in other_lists %}<a href="{{ l.get_absolute_url }}">{{ l.title }}</a>{% if not forloop.last %}, {% endif %}{% endfor %}
+  </div>
+  {% endif %}
+</div>
+{% endif %}
+
 {% if page.page_type == "section" or page.page_type == "neighbourhood" or page.page_type == "section_group" %}{% if pois and not daytrip_cards %}
 <div class="wide-block poi-section">
   <span class="section-kicker">{% if page.page_type == "neighbourhood" %}Neighbourhood{% else %}Guide{% endif %}</span>

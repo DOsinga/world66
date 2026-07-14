@@ -23,6 +23,8 @@ Checks:
   city_has_child_location  city contains a child location page        [report]
   non_canonical_section    section slug not in canonical set         [partial fix]
   broken_link              markdown link to /<path> doesn't resolve  [report]
+  list_items               type=list items: entry doesn't resolve    [report]
+  lists_backref            lists: entry doesn't resolve to a page    [report]
 
 Exits non-zero if any unfixable blocking issues remain after fixes are
 applied. Checks listed in WARNING_CHECKS are reported but do not fail the
@@ -46,7 +48,7 @@ REPO = Path(__file__).resolve().parent.parent
 CONTENT_DIR = REPO / "content"
 
 ALLOWED_PAGE_TYPES = {
-    "location", "section", "section_group", "neighbourhood", "theme", "poi",
+    "location", "section", "section_group", "neighbourhood", "theme", "poi", "list",
 }
 ALLOWED_LOC_TYPES = {
     "continent", "country", "region", "island", "feature", "city",
@@ -634,6 +636,64 @@ def check_broken_links(pages: list[Page]) -> list[Issue]:
     return issues
 
 
+def _content_path_resolves(path: str, path_index: set[str]) -> bool:
+    """Resolve a bare content path (no leading slash, not a URL) — used for
+    the items:/lists: frontmatter fields, which name pages directly rather
+    than linking to them from markdown body text."""
+    path = _nfc(path.strip("/"))
+    if not path:
+        return False
+    slug = path.rsplit("/", 1)[-1] if "/" in path else path
+    return (
+        str(CONTENT_DIR / f"{path}.md") in path_index
+        or str(CONTENT_DIR / path / f"{slug}.md") in path_index
+    )
+
+
+def check_list_items(pages: list[Page]) -> list[Issue]:
+    """A type=list page's items: entries must resolve to real content paths."""
+    path_index = _build_path_index()
+    issues = []
+    for p in pages:
+        if p.page_type != "list":
+            continue
+        items = p.meta.get("items") or []
+        if not isinstance(items, list):
+            issues.append(Issue(
+                path=p.path, check="list_items", message="items: is not a list",
+            ))
+            continue
+        for item in items:
+            if not isinstance(item, str) or not _content_path_resolves(item, path_index):
+                issues.append(Issue(
+                    path=p.path, check="list_items",
+                    message=f"items entry {item!r} does not resolve",
+                ))
+    return issues
+
+
+def check_lists_backref(pages: list[Page]) -> list[Issue]:
+    """A page's lists: back-references must point at real (list) pages."""
+    path_index = _build_path_index()
+    issues = []
+    for p in pages:
+        refs = p.meta.get("lists") or []
+        if not refs:
+            continue
+        if not isinstance(refs, list):
+            issues.append(Issue(
+                path=p.path, check="lists_backref", message="lists: is not a list",
+            ))
+            continue
+        for ref in refs:
+            if not isinstance(ref, str) or not _content_path_resolves(ref, path_index):
+                issues.append(Issue(
+                    path=p.path, check="lists_backref",
+                    message=f"lists entry {ref!r} does not resolve",
+                ))
+    return issues
+
+
 CHECKS = [
     check_md_inside_own_dir,
     check_missing_loc_type,
@@ -648,6 +708,8 @@ CHECKS = [
     check_city_has_child_location,
     check_non_canonical_section,
     check_broken_links,
+    check_list_items,
+    check_lists_backref,
 ]
 
 # Checks that report but do not fail the build. Used to introduce a new rule

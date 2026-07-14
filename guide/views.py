@@ -518,6 +518,50 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     markers = _collect_markers(page, nav_pages, _map_top, pois, city_tag_index=city_tag_index)
     markers_full = _collect_markers(page, nav_pages, _map_all, pois, city_tag_index=city_tag_index)
 
+    # Lists: a type=list page names its own members explicitly via `items:`
+    # (POIs or locations, mixed freely, in display order) — no query, no
+    # aggregation, just resolving paths the same way linked_locations does.
+    list_items = None
+    if page.page_type == "list":
+        list_items = []
+        for i, item_path in enumerate(page.meta.get("items") or []):
+            item = (load_page_from_revision(item_path, source_ref, url_revision=url_revision)
+                    if source_ref else load_page(item_path))
+            if not item:
+                continue
+            item_img = _image_path(item, source_ref)
+            list_items.append({
+                "rank": i + 1,
+                "url": item.get_absolute_url(),
+                "title": item.title,
+                "image_url": f"{item.url_prefix}/content-image/{item_img}" if item_img else None,
+                "snippet": item.meta.get("snippet", "") or "",
+            })
+
+    # A location page (city/region/country/feature) may have one or more
+    # type=list pages living in its own directory — feature the best-scored
+    # one, link the rest.
+    featured_list = None
+    other_lists = []
+    if page.page_type == "location":
+        found_lists = page.find_lists()
+        if found_lists:
+            featured_list = found_lists[0]
+            featured_img = _image_path(featured_list, source_ref)
+            featured_list.image_url = (
+                f"{featured_list.url_prefix}/content-image/{featured_img}" if featured_img else None
+            )
+            other_lists = found_lists[1:]
+
+    # "Featured on" back-references: purely for display, manually kept in
+    # sync with the list's own items: — not derived from anything.
+    poi_lists = []
+    for list_path in page.meta.get("lists") or []:
+        list_page = (load_page_from_revision(list_path, source_ref, url_revision=url_revision)
+                     if source_ref else load_page(list_path))
+        if list_page:
+            poi_lists.append(list_page)
+
     breadcrumbs = page.breadcrumbs()
 
     return render(request, "guide/page.html", {
@@ -557,6 +601,10 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "daytrip_cards": daytrip_cards,
         "more_linked_locations": more_linked_locations,
         "url_prefix": page.url_prefix,
+        "list_items": list_items,
+        "featured_list": featured_list,
+        "other_lists": other_lists,
+        "poi_lists": poi_lists,
     })
 
 

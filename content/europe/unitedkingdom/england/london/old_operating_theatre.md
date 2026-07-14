@@ -15,6 +15,10 @@ tags:
 title: The Old Operating Theatre
 type: poi
 url: http://oldoperatingtheatre.com/
+image: old_operating_theatre.jpg
+image_source: https://commons.wikimedia.org/wiki/File:GB-ENG_-_London_-_Southwark_-_Old_Operating_Theatre_(4890728474).jpg
+image_license: CC BY 2.0
+image_attribution: CGP Grey
 ---
 
 The Old Operating Theatre is one of London's stranger small museums: a 19th-century surgical theatre preserved in the roof space of St Thomas' Church, beside the herb garret once used by the hospital apothecary.

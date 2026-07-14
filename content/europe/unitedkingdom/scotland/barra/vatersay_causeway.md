@@ -15,6 +15,10 @@ tags:
 - island
 title: Vatersay
 type: poi
+image: vatersay_causeway.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Vatersay,_Bagh_Siar.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Dougsim
 ---
 
 Vatersay is reached from Barra by a causeway opened in 1991 — before that, islanders kept cattle on the south side of Vatersay Sound by swimming them across at low tide. The island has fewer than a hundred residents but two stunning beaches: the white-sand twin bays of Bagh Siar (West Beach) and Bagh a' Deas (East Beach), separated by a narrow isthmus of dunes.

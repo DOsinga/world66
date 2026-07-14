@@ -26,6 +26,10 @@ tags:
 title: Sir John Soane's Museum
 type: poi
 url: www.soane.org
+image: sir_john_soanes_museum.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Glass_-_Sir_John_Soane%27s_Museum_-_DSC00019.jpg
+image_license: CC0
+image_attribution: Daderot
 ---
 
 The single most surprising small museum in London. The Regency architect Sir John Soane left his house, his collection, and a stipulation in an 1833 Act of Parliament that none of it could be moved or rearranged — and it has been left more or less as he died in 1837. The result is three connected townhouses jammed top to bottom with antique fragments, plaster casts, paintings hung four deep on hinged panels, and the alabaster sarcophagus of Pharaoh Seti I in the basement.

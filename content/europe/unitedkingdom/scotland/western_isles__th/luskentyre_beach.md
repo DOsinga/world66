@@ -18,6 +18,10 @@ tags:
 - beach
 title: Luskentyre Beach
 type: poi
+image: luskentyre_beach.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Luskentyre_Beach,_Lewis_and_Harris,_The_Outer_Hebrides,_Scotland_(2).jpg
+image_license: CC BY-SA 4.0
+image_attribution: Thomas Andy Branson
 ---
 
 Luskentyre is the beach people don't believe is in Scotland until they see it. The sand is white, the shallow water runs from turquoise to deep blue depending on the light, and the beach runs for several kilometres around the head of a sea loch on the west coast of Harris. In summer, on a clear day, it looks more like the Caribbean than the Hebrides — except for the temperature of the water and the Atlantic swell rolling in behind.

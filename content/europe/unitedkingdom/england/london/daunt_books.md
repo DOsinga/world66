@@ -12,6 +12,10 @@ tags:
 title: Daunt Books
 type: poi
 url: www.dauntbooks.co.uk
+image: daunt_books.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Daunt%27s_Bookshop_-_geograph.org.uk_-_8219001.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Anthony O'Neil
 ---
 
 Daunt Books is one of the finest bookshops in London — the original branch on Marylebone High Street occupies a beautiful Edwardian building with oak galleries, skylights, and long oak tables arranged around a central well. The shop organises books by country, so travel writing, fiction, poetry, and history from each nation sit together on the same shelf.

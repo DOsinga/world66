@@ -16,6 +16,10 @@ tags:
 - bar
 title: Turf Tavern
 type: poi
+image: turf_tavern.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Oxford,_The_Turf_Tavern_-_geograph.org.uk_-_2916062.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Mr Eugene Birchall
 ---
 
 The Turf Tavern is one of Oxford's most atmospheric pubs, tucked down a narrow alley — Bath Place, off Holywell Street — and entirely invisible from any main street. The building dates from the 13th century, though the current pub has operated since at least 1381. The multiple small courtyards and beer gardens, with their low overhanging walls and stone floors, are among the nicest outdoor drinking spaces in the city.

@@ -13,6 +13,10 @@ tags:
 - pub
 title: White Hart Inn
 type: poi
+image: white_hart_inn.jpg
+image_source: https://commons.wikimedia.org/wiki/File:The_White_Hart_Inn_in_the_Grassmarket,_Edinburgh_in_the_snow.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Mike Shaw
 ---
 
 The White Hart Inn claims to be one of Edinburgh's oldest licensed premises, with records going back to 1516. Robbie Burns is said to have drunk here on his last visit to Edinburgh in 1791, and the pub trades respectfully on that association. The interior has the atmosphere of genuine antiquity rather than manufactured heritage: low ceilings, old stone, booths worn smooth by generations of drinkers. The Grassmarket location means it draws a mix of tourists and locals; the real ales are well kept.

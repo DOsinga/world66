@@ -15,6 +15,10 @@ tags:
 - bar
 title: Ye Olde Trip to Jerusalem
 type: poi
+image: ye_olde_trip_to_jerusalem.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ye_Olde_Trip_To_Jerusalem_-_geograph.org.uk_-_3752599.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Chris Morgan
 ---
 
 The Trip — as everyone calls it — is built directly into the sandstone cliff beneath Nottingham Castle, with a frontage of low, white-washed beams and several of its rooms carved straight into the rock. The pub claims a date of 1189 and disputes the title of "oldest inn in England" with several other contenders; the cave rooms certainly feel as old as anything in the city.

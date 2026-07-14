@@ -21,6 +21,10 @@ tags:
 - books
 title: Barter Books
 type: poi
+image: barter_books.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Barter_Books_three.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Victuallers
 ---
 
 Barter Books is one of the best secondhand bookshops in Britain, housed inside what was the Victorian-era Alnwick railway station — a large and handsome building with high ceilings, open fires in winter, a cafe, and a model railway that runs continuously along the upper walls of the main hall. The shop has over 350,000 books arranged across multiple rooms, with a good mix of fiction, non-fiction, history, and children's books, priced reasonably for a shop of this reputation.

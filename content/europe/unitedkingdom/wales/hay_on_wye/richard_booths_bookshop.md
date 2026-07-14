@@ -15,6 +15,10 @@ tags:
 - bookshop
 title: Richard Booth's Bookshop
 type: poi
+image: richard_booths_bookshop.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Richard_Booth%27s_Bookshop_28.jpg
+image_license: CC0
+image_attribution: Immanuel Giel
 ---
 
 Richard Booth's Bookshop is the symbolic centre of Hay's book-town story. Booth's idea that a small Welsh market town could become an international book destination changed Hay's economy and gave it the identity travellers still come for.

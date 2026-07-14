@@ -393,6 +393,12 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     hero_image_url = f'{page.url_prefix}/content-image/{image_path}' if image_path else None
     hero_image_source = page.meta.get('image_source', '') if image_path else ''
     hero_image_license = page.meta.get('image_license', '') if image_path else ''
+    if not hero_image_url and page.page_type == "list":
+        cover = _list_cover_image(page, source_ref, url_revision=url_revision)
+        if cover:
+            hero_image_url = cover["url"]
+            hero_image_source = cover["source"]
+            hero_image_license = cover["license"]
 
     # Attach image_url to each neighbourhood for card display
     for nb in neighbourhoods:
@@ -548,9 +554,11 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         if found_lists:
             featured_list = found_lists[0]
             featured_img = _image_path(featured_list, source_ref)
-            featured_list.image_url = (
-                f"{featured_list.url_prefix}/content-image/{featured_img}" if featured_img else None
-            )
+            if featured_img:
+                featured_list.image_url = f"{featured_list.url_prefix}/content-image/{featured_img}"
+            else:
+                cover = _list_cover_image(featured_list, source_ref, url_revision=url_revision)
+                featured_list.image_url = cover["url"] if cover else None
             other_lists = found_lists[1:]
 
     # "Featured on" back-references: purely for display, manually kept in
@@ -955,6 +963,24 @@ def _image_path(page, source_ref=None):
                 return candidate
         elif (CONTENT_DIR / candidate).is_file():
             return candidate
+    return None
+
+
+def _list_cover_image(list_page, source_ref=None, url_revision=None):
+    """A list page has no image of its own — borrow one from the first of
+    its items: that has one, rather than sourcing a dedicated image per list."""
+    for item_path in list_page.meta.get("items") or []:
+        item = (load_page_from_revision(item_path, source_ref, url_revision=url_revision)
+                if source_ref else load_page(item_path))
+        if not item:
+            continue
+        img = _image_path(item, source_ref)
+        if img:
+            return {
+                "url": f"{item.url_prefix}/content-image/{img}",
+                "source": item.meta.get("image_source", ""),
+                "license": item.meta.get("image_license", ""),
+            }
     return None
 
 

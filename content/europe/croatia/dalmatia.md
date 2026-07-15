@@ -3,7 +3,7 @@ done:
   location_cleanup: 2026-04-07
 image_attribution: Marin0110
 latitude: 43.538796
-loc_type: region
+loc_type: feature
 longitude: 16.175236
 score: 0.8
 snippet: Croatian Adriatic coastal region of limestone shores, ferry-linked islands,

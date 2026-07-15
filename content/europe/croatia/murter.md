@@ -12,6 +12,8 @@ longitude: 15.608578
 score: 8.29
 snippet: Dalmatian island settlement linked by bridge to the mainland, with boats
   running toward Kornati National Park.
+tags:
+- dalmatia
 title: Murter
 type: location
 ---

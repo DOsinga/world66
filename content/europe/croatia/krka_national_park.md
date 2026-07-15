@@ -11,6 +11,8 @@ longitude: 15.978529
 score: 9.41
 snippet: Croatian national park along the Krka River, known for travertine waterfalls
   such as Skradinski Buk.
+tags:
+- dalmatia
 title: Krka National Park
 type: location
 ---

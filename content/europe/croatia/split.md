@@ -18,6 +18,8 @@ quick_facts:
 score: 9.46
 snippet: Dalmatian port city grown through the inhabited Roman walls of Diocletian's
   Palace.
+tags:
+- dalmatia
 tip: Split's old town is built inside a Roman emperor's retirement palace — people
   still live and run cafés within Diocletian's 1,700-year-old walls. Skip the pricey
   waterfront restaurants and eat in the back lanes. It's the ferry hub for the Dalmatian

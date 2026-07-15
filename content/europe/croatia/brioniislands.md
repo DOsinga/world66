@@ -12,6 +12,8 @@ longitude: 13.773154
 score: 8.25
 snippet: Istrian island national park shaped by Tito's retreat, safari animals, and
   Roman traces.
+tags:
+- istria
 title: Brioni Islands
 type: location
 ---

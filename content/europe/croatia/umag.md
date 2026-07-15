@@ -14,6 +14,8 @@ snippet: Istrian harbour town near Slovenia, with a Venetian old promontory and 
 sources:
 - https://en.wikipedia.org/wiki/Umag
 - https://en.wikipedia.org/wiki/Croatia_Open
+tags:
+- istria
 title: Umag
 type: location
 ---

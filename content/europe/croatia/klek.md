@@ -12,6 +12,8 @@ longitude: 17.563313
 score: 7.17
 snippet: Tiny Adriatic fishing village in a sheltered cove near the Neum corridor
   between Split and Dubrovnik.
+tags:
+- dalmatia
 title: Klek
 type: location
 ---

@@ -8,6 +8,8 @@ longitude: 17.6259
 score: 6.83
 snippet: Ancient Adriatic archaeological site near Metković, where Roman Narona grew
   from an older Greek trading settlement.
+tags:
+- dalmatia
 title: Narona
 type: location
 ---

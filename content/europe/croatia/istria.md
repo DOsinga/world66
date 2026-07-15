@@ -8,6 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_to_Motovun.jpg
 latitude: 45.2611
 loc_type: feature
 longitude: 13.9044
+score: 8.9
 snippet: Croatian Adriatic peninsula of Venetian harbour towns, hill villages, vineyards,
   and bilingual Italian-Croatian culture
 title: Istria

@@ -5,11 +5,13 @@ image: losinjisland.jpg
 image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Mali_Losinj_01.jpg
 latitude: 44.5107
-loc_type: region
+loc_type: island
 longitude: 14.5037
-score: 0.67
+score: 8.2
 snippet: Long Kvarner Gulf island linked to Cres, known for mild climate, clean air,
   and harbour towns.
+tags:
+- kvarner
 title: Lošinj
 type: location
 ---

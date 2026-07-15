@@ -11,6 +11,8 @@ longitude: 14.631247
 score: 8.05
 snippet: Krk Island harbour town facing Košljun islet, with a deep marina and old
   stone lanes.
+tags:
+- krkisland
 title: Punat
 type: location
 ---

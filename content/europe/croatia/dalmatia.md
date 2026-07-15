@@ -5,7 +5,7 @@ image_attribution: Marin0110
 latitude: 43.538796
 loc_type: feature
 longitude: 16.175236
-score: 0.8
+score: 9.2
 snippet: Croatian Adriatic coastal region of limestone shores, ferry-linked islands,
   Roman Split, and walled Dubrovnik
 title: Dalmatia

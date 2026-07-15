@@ -17,4 +17,4 @@ Rajska Plaža — Paradise Beach — is the longest sandy beach in Croatia and o
 
 The beach faces west, sheltered from the open sea, and the sea floor shelves very gradually — ideal for children. Facilities are plentiful: sun loungers, beach bars, showers. It is busy in July and August; early mornings and late afternoons are quieter.
 
-The village of [Lopar](/europe/croatia/rabisland/things_to_do/lopar) is a short walk away. The Lopar peninsula has around twenty sandy beaches in total, most of them smaller and less crowded than Rajska Plaža. San Marino beach, a short walk north, is clothing-optional.
+The village of [Lopar](/europe/croatia/lopar) is a short walk away. The Lopar peninsula has around twenty sandy beaches in total, most of them smaller and less crowded than Rajska Plaža. San Marino beach, a short walk north, is clothing-optional.

@@ -29,6 +29,22 @@
   --border: var(--line-2);
   --green-light: #C7DFA5;
   --sidebar-bg: var(--paper-2);
+
+  /* Magazine view: a deliberately different, playful register from the
+     rest of the site — near-white page, brighter accent, and a small
+     category palette so a "Top things to do" spread reads as a curated
+     mix (sights/food/drink/shops) rather than one flat ranked list. */
+  --mag-bg: #fdfcf9;
+  --mag-accent: #e2572e;
+  --mag-sight: #c1531f;
+  --mag-sight-tint: #fbeee3;
+  --mag-food: #2f7a4f;
+  --mag-food-tint: #e8f3ea;
+  --mag-drink: #8a3f6b;
+  --mag-drink-tint: #f5e9f0;
+  --mag-shop: #2f6f8f;
+  --mag-shop-tint: #e6f1f5;
+  --mag-map-frame: #eef1ec;
 }
 
 body {
@@ -1985,6 +2001,15 @@ img { max-width: 100%; height: auto; }
   cursor: pointer;
 }
 
+/* Magazine mode is a standing setting, not a one-shot action — this marks
+   the toggle as "on" so it stays visibly engaged as you browse from page
+   to page, not just for the instant the overlay is opening. */
+.nav-magazine-button.is-active {
+  background: var(--mag-accent);
+  border-color: var(--mag-accent);
+  color: #fff;
+}
+
 .nav-magazine-icon {
   font-size: 14px;
 }
@@ -2109,11 +2134,14 @@ body.magazine-open {
 
 /* Each spread is its own vertical scroller: scrolling down within it moves
    from the cover into the full article, scrolling back up returns to the
-   cover — plain CSS scroll-snap, no JS needed for "go back". */
+   cover. Free scrolling, no scroll-snap here — snap-type: y proximity
+   used to pull any small scroll straight back to the top of the cover
+   (the nearest snap point is much closer than the article, so even a
+   deliberate small scroll to start reading got yanked back), which made
+   it hard to get into an article at all. */
 .magazine-spread-scroll {
   height: 100%;
   overflow-y: auto;
-  scroll-snap-type: y proximity;
   -webkit-overflow-scrolling: touch;
   scrollbar-width: none;
 }
@@ -2121,11 +2149,14 @@ body.magazine-open {
 .magazine-spread-scroll::-webkit-scrollbar { display: none; }
 
 .magazine-spread-cover {
-  scroll-snap-align: start;
   position: relative;
   display: block;
   height: 100%;
   min-height: 100%;
+  text-decoration: none;
+}
+
+.magazine-spread-cover:hover {
   text-decoration: none;
 }
 
@@ -2142,13 +2173,77 @@ body.magazine-open {
   background: linear-gradient(180deg, rgba(0,0,0,0.15) 0%, transparent 35%, rgba(0,0,0,0.75) 100%);
 }
 
-.magazine-spread-txt {
+/* A small, subtle orientation aid pinned to the top of the photo — the
+   destination's place in the world, always visible immediately, before
+   any scrolling. Sits below the persistent close/shuffle bar (~70px). */
+.magazine-spread-crumbs {
   position: absolute;
-  bottom: 8%;
+  top: 70px;
   left: 8%;
   right: 8%;
-  max-width: 720px;
+  z-index: 2;
+  font: 600 11px var(--label-font);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: rgba(255,255,255,0.7);
+}
+
+.magazine-spread-crumbs a {
+  color: rgba(255,255,255,0.7);
+  text-decoration: none;
+}
+
+.magazine-spread-crumbs a:hover {
   color: #fff;
+  text-decoration: none;
+}
+
+.magazine-spread-crumb-sep {
+  margin: 0 6px;
+  opacity: 0.6;
+}
+
+.magazine-spread-crumbs-current {
+  color: #fff;
+}
+
+.magazine-spread-readmore {
+  position: absolute;
+  right: 8%;
+  bottom: 8%;
+  z-index: 2;
+  max-width: 22%;
+  font: 600 12px var(--label-font);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  text-align: right;
+  line-height: 1.5;
+  color: #fff;
+  opacity: 0.85;
+}
+
+/* One single block, never split — this is the article's real opening
+   paragraph, in full, never cut short with an ellipsis. Pulled up over
+   the photo's lower portion with a negative margin; a background gradient
+   stays fully transparent for exactly that overlapped span (so short
+   paragraphs read as plain text on the photo, same as always) and turns
+   solid only past it — i.e. only for whatever truly extends below the
+   photo. One continuous paragraph either way, never two visually distinct
+   boxes with a seam between them. */
+.magazine-spread-caption {
+  position: relative;
+  z-index: 1;
+  display: block;
+  margin-top: -320px;
+  max-width: 62%;
+  padding: 110px 8% 40px;
+  color: #fff;
+  text-decoration: none;
+  background: linear-gradient(180deg, transparent 0, transparent 320px, var(--ink) 320px, var(--ink) 100%);
+}
+
+.magazine-spread-caption:hover {
+  text-decoration: none;
 }
 
 .magazine-spread-name {
@@ -2161,27 +2256,26 @@ body.magazine-open {
 }
 
 .magazine-spread-teaser {
-  font-size: clamp(15px, 2vw, 19px);
-  line-height: 1.5;
-  opacity: 0.92;
-  margin-bottom: 16px;
-  max-width: 620px;
+  font-family: var(--display-font);
+  font-size: clamp(16px, 2vw, 19px);
+  line-height: 1.55;
 }
 
-.magazine-spread-readmore {
-  font: 600 13px var(--label-font);
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  opacity: 0.9;
+.magazine-spread-teaser::first-letter {
+  font-style: italic;
+  font-weight: 600;
+  font-size: 2.6em;
+  line-height: 0.75;
+  float: left;
+  padding: 0.02em 0.08em 0 0;
 }
 
 /* The article: scrolls up right underneath the cover, in the same column —
    one continuous unit, not a separate page. No repeated hero/title here on
    purpose; the cover's big image and headline already did that job. */
 .magazine-spread-article {
-  scroll-snap-align: start;
   min-height: 60vh;
-  background: var(--paper);
+  background: var(--mag-bg);
   padding: 72px clamp(24px, 7vw, 130px) 140px;
 }
 
@@ -2210,7 +2304,8 @@ body.magazine-open {
 
 .magazine-article-content p { margin: 0 0 1.3em; }
 .magazine-article-content p:last-child { margin-bottom: 0; }
-.magazine-article-content a { color: var(--accent); }
+.magazine-article-content a { color: var(--mag-accent); text-decoration: none; }
+.magazine-article-content a:hover { text-decoration: none; }
 .magazine-article-content strong { font-weight: 600; }
 .magazine-article-content h2, .magazine-article-content h3 {
   font-family: var(--display-font);
@@ -2219,16 +2314,10 @@ body.magazine-open {
   margin: 1.3em 0 0.4em;
 }
 
-.magazine-article-content p:first-of-type::first-letter {
-  font-family: var(--display-font);
-  font-style: italic;
-  font-weight: 600;
-  font-size: 3.6em;
-  line-height: 0.78;
-  float: left;
-  padding: 0.02em 0.09em 0 0;
-  color: var(--accent);
-}
+/* No drop cap here — the cover teaser is the article's real opening
+   paragraph and already carries one (.magazine-spread-teaser::first-letter);
+   giving this first-of-type paragraph its own would land a second drop cap
+   mid-story for the common case where that lead paragraph was dropped. */
 
 .magazine-article-content.is-loading {
   min-height: 160px;
@@ -2238,7 +2327,7 @@ body.magazine-open {
   content: '';
   display: block;
   height: 160px;
-  background: linear-gradient(90deg, var(--paper-2) 25%, var(--paper-3) 50%, var(--paper-2) 75%);
+  background: linear-gradient(90deg, #f0f0ec 25%, #e6e6e0 50%, #f0f0ec 75%);
   background-size: 200% 100%;
   animation: drawer-shimmer 1.2s infinite;
   border-radius: 4px;
@@ -2260,153 +2349,198 @@ body.magazine-open {
   color: var(--ink);
 }
 
-/* Almost no POI has its own photo, so these are typography-led "cute
-   list" tiles — a big decorative Fraunces numeral (same italic-numeral
-   motif as the word-cloud destination cards) rather than imagery. A
-   thumbnail is drawn only as a small bonus badge when one exists. */
+/* A plain flowing container by default — separate labelled lists (Things
+   to do / Where to eat / Where to drink / Shopping), stacked one after
+   another, never mixed together. The "recommended cities" case
+   (.magazine-article-pois--cities) is the one that becomes a photo grid;
+   see that modifier below. */
 .magazine-article-poi-list {
   list-style: none;
   margin: 0 0 26px;
   padding: 0;
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-auto-rows: minmax(160px, auto);
-  gap: 20px;
 }
 
-.magazine-poi-item--featured {
-  grid-column: span 2;
-  grid-row: span 2;
-}
-
-.magazine-poi-link {
+/* The single best pick overall gets its own full-width, colour-block
+   treatment — a "cover story" done with colour and type, not another list
+   row — tinted to its own category. Sits above the columns, excluded from
+   them so it's never shown twice. */
+.magazine-pick-hero {
   position: relative;
-  display: flex;
-  flex-direction: column;
-  height: 100%;
+  display: block;
+  margin-bottom: 28px;
+  padding: 26px 30px;
+  border-radius: 16px;
+  background: var(--mag-sight);
+  color: #fff;
   text-decoration: none;
-  color: var(--ink);
-  border-radius: 14px;
-  padding: 18px 16px;
-  background: var(--paper-2);
-  transition: transform 0.15s ease;
+  overflow: hidden;
 }
 
-.magazine-poi-link:hover {
-  transform: translateY(-2px);
+.magazine-pick-hero:hover {
+  text-decoration: none;
 }
 
-.magazine-poi-index {
-  font-family: var(--display-font);
-  font-style: italic;
-  font-weight: 600;
-  font-size: 30px;
-  color: var(--accent);
-  opacity: 0.45;
-  line-height: 1;
+.magazine-pick-hero--food  { background: var(--mag-food); }
+.magazine-pick-hero--drink { background: var(--mag-drink); }
+.magazine-pick-hero--shop  { background: var(--mag-shop); }
+
+.magazine-pick-hero-kicker {
+  display: block;
+  font: 700 11px var(--label-font);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: rgba(255,255,255,0.85);
   margin-bottom: 8px;
 }
 
-.magazine-poi-thumb {
+.magazine-pick-hero-name {
+  display: block;
+  font-family: var(--display-font);
+  font-weight: 500;
+  font-size: clamp(24px, 3vw, 32px);
+  line-height: 1.15;
+  max-width: 80%;
+}
+
+.magazine-pick-hero-snippet {
+  display: block;
+  margin-top: 8px;
+  font-size: 15px;
+  line-height: 1.5;
+  color: rgba(255,255,255,0.92);
+  max-width: 60ch;
+}
+
+.magazine-pick-hero-thumb {
   position: absolute;
-  top: 14px;
-  right: 14px;
-  width: 42px;
-  height: 42px;
+  top: 20px;
+  right: 24px;
+  width: 64px;
+  height: 64px;
   border-radius: 50%;
   object-fit: cover;
-  border: 2px solid var(--paper);
-  box-shadow: 0 0 0 1px var(--line-2);
+  border: 3px solid rgba(255,255,255,0.8);
 }
 
-.magazine-poi-meat {
+/* A playful column layout — not one long stacked list — so Things to do,
+   Where to eat, and Where to drink read as separate, parallel shelves.
+   auto-fit lets it settle at whatever column count the width allows (1
+   on mobile, up to 4 on a wide spread) without any JS math. */
+.magazine-picks-columns {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 8px 40px;
+}
+
+/* Each category gets its own quiet heading and its own list — a reader
+   scanning for "where to eat" shouldn't have to pick it out of a shelf of
+   sights. Styled as a clean numbered index rather than boxed tiles: an
+   italic numeral, a serif name, one muted line — the way a person would
+   actually hand you a short list of their own favourites, not a grid of
+   uniform cards. */
+.magazine-picks-heading {
+  font: 700 12px var(--label-font);
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: var(--mag-sight);
+  margin-bottom: 4px;
+}
+
+.magazine-picks--food .magazine-picks-heading  { color: var(--mag-food); }
+.magazine-picks--drink .magazine-picks-heading { color: var(--mag-drink); }
+.magazine-picks--shop .magazine-picks-heading  { color: var(--mag-shop); }
+
+.magazine-picks-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.magazine-pick {
+  border-bottom: 1px dashed var(--line-2);
+}
+
+.magazine-pick:last-child {
+  border-bottom: none;
+}
+
+.magazine-pick-link {
+  display: flex;
+  align-items: baseline;
+  gap: 16px;
+  padding: 14px 2px;
+  text-decoration: none;
+  color: var(--ink);
+}
+
+.magazine-pick-link:hover {
+  text-decoration: none;
+}
+
+.magazine-pick-num {
+  flex: 0 0 auto;
+  width: 24px;
+  font-family: var(--display-font);
+  font-style: italic;
+  font-weight: 600;
+  font-size: 17px;
+  color: var(--mag-sight);
+  opacity: 0.55;
+}
+
+.magazine-picks--food .magazine-pick-num  { color: var(--mag-food); }
+.magazine-picks--drink .magazine-pick-num { color: var(--mag-drink); }
+.magazine-picks--shop .magazine-pick-num  { color: var(--mag-shop); }
+
+.magazine-pick-thumb {
+  flex: 0 0 auto;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  align-self: center;
+}
+
+.magazine-pick-body {
   display: flex;
   flex-direction: column;
-  gap: 4px;
+  gap: 2px;
   min-width: 0;
-  margin-top: auto;
 }
 
-.magazine-poi-kicker {
-  font: 700 10px var(--label-font);
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: var(--accent);
-  margin-bottom: 2px;
-}
-
-.magazine-poi-name {
+.magazine-pick-name {
+  font-family: var(--display-font);
   font-weight: 600;
-  font-size: 15px;
+  font-size: 17px;
   line-height: 1.3;
 }
 
-.magazine-poi-snippet {
+.magazine-pick-snippet {
   font-size: 13px;
   color: var(--mute);
-  line-height: 1.4;
+  line-height: 1.45;
   overflow: hidden;
-  text-overflow: ellipsis;
   display: -webkit-box;
-  -webkit-line-clamp: 3;
+  -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
-  margin-top: 2px;
 }
 
-/* Featured tile: a solid accent-colour callout rather than an image —
-   the "cover story" treatment done entirely with colour and type. */
-.magazine-poi-item--featured .magazine-poi-link {
-  background: var(--accent);
-  color: #fff;
-  padding: 22px 20px;
-}
-
-.magazine-poi-item--featured .magazine-poi-index {
-  color: rgba(255,255,255,0.55);
-  font-size: 46px;
-}
-
-.magazine-poi-item--featured .magazine-poi-thumb {
-  width: 60px;
-  height: 60px;
-  border-color: rgba(255,255,255,0.9);
-}
-
-.magazine-poi-item--featured .magazine-poi-kicker {
-  color: rgba(255,255,255,0.9);
-}
-
-.magazine-poi-item--featured .magazine-poi-name {
-  font-family: var(--display-font);
-  font-size: 23px;
-  font-weight: 500;
-}
-
-.magazine-poi-item--featured .magazine-poi-snippet {
-  color: rgba(255,255,255,0.9);
-  font-size: 14px;
-  -webkit-line-clamp: 4;
-}
-
-/* The "city map" — the destination plus its top POIs — is a card in the
-   things-to-do grid, not a block bolted on at the bottom. It spans the
-   full grid width (1 / -1 rather than a fixed column count, so it adapts
-   automatically whether the grid is 3 columns or 2 on mobile) — a partial
-   column span here is what made it pack into a leftover gap beside the
-   other tiles instead of sitting as part of the grid. Full width also
-   suits a map's legibility better than a narrow column. Rounded, tilted
-   frame, like a fun little inset rather than a utilitarian sidebar widget. */
+/* The map — the destination plus these picks — sits after the lists, not
+   inside any one of them. Rounded, tilted frame, like a fun little inset
+   rather than a utilitarian sidebar widget. grid-column is only relevant
+   inside the "recommended cities" grid; harmless elsewhere. */
 .magazine-poi-item--map {
   grid-column: 1 / -1;
-  padding: 10px;
-  background: var(--paper-2);
-  border-radius: 16px;
+  margin-top: 30px;
+  padding: 14px;
+  background: var(--mag-map-frame);
+  border-radius: 20px;
   transform: rotate(0.4deg);
 }
 
 .magazine-poi-map {
-  height: 260px;
-  border-radius: 10px;
+  height: 380px;
+  border-radius: 14px;
   overflow: hidden;
   transform: rotate(-0.4deg);
 }
@@ -2418,15 +2552,15 @@ body.magazine-open {
 .magazine-country-map-wrap {
   break-inside: avoid;
   margin: 6px 0 24px;
-  padding: 10px;
-  background: var(--paper-2);
-  border-radius: 16px;
+  padding: 12px;
+  background: var(--mag-map-frame);
+  border-radius: 18px;
   transform: rotate(-0.7deg);
 }
 
 .magazine-country-map {
-  height: 150px;
-  border-radius: 10px;
+  height: 220px;
+  border-radius: 12px;
   overflow: hidden;
   transform: rotate(0.7deg);
 }
@@ -2439,25 +2573,301 @@ body.magazine-open {
   transform: rotate(0.7deg);
 }
 
+/* Playful, chunky numbered pins for the magazine's two maps — bigger and
+   more colourful than the site's usual minimalist dot markers, and
+   colour-matched to each POI's category tile so map and list read as one
+   connected system. */
+.mag-pin {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font: 700 13px var(--label-font);
+  background: var(--mag-sight);
+  border: 3px solid #fff;
+  box-shadow: 0 2px 6px rgba(19,18,17,0.35);
+}
+
+.mag-pin--food  { background: var(--mag-food); }
+.mag-pin--drink { background: var(--mag-drink); }
+.mag-pin--shop  { background: var(--mag-shop); }
+
+.mag-pin--dest {
+  background: var(--ink);
+  font-size: 18px;
+}
+
+.mag-tip {
+  font: 600 12px var(--label-font);
+  border-radius: 8px;
+  border: none;
+  box-shadow: 0 2px 10px rgba(19,18,17,0.18);
+}
+
+.mag-tip--dest {
+  background: var(--ink);
+  color: #fff;
+}
+
+.mag-tip--dest.leaflet-tooltip-top::before {
+  border-top-color: var(--ink);
+}
+
+/* A quick peek at a POI without leaving the magazine — clicking a pick
+   used to navigate to the POI's own full page, but with magazine mode
+   persisting across navigation, that page just reopens the same magazine
+   overlay on top of it, so the destination was never actually reachable.
+   This shows the same content in place instead. */
+#magazine-poi-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.2s ease;
+}
+
+#magazine-poi-modal.is-open {
+  opacity: 1;
+  visibility: visible;
+}
+
+#magazine-poi-modal-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(10,9,8,0.72);
+  backdrop-filter: blur(3px);
+}
+
+#magazine-poi-modal-panel {
+  position: relative;
+  z-index: 1;
+  width: min(680px, 100%);
+  max-height: 85vh;
+  overflow-y: auto;
+  background: var(--mag-bg);
+  border-radius: 20px;
+  box-shadow: 0 30px 80px rgba(0,0,0,0.4);
+  transform: translateY(16px) scale(0.98);
+  transition: transform 0.2s ease;
+}
+
+#magazine-poi-modal.is-open #magazine-poi-modal-panel {
+  transform: translateY(0) scale(1);
+}
+
+#magazine-poi-modal-close {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  z-index: 2;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(0,0,0,0.4);
+  color: #fff;
+  font-size: 18px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.magazine-poi-modal-hero {
+  position: relative;
+  height: 240px;
+  border-radius: 20px 20px 0 0;
+  overflow: hidden;
+}
+
+.magazine-poi-modal-hero img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.magazine-poi-modal-hero-veil {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, transparent 40%, rgba(0,0,0,0.75) 100%);
+}
+
+.magazine-poi-modal-hero-title {
+  position: absolute;
+  left: 28px;
+  right: 28px;
+  bottom: 18px;
+  color: #fff;
+  font-family: var(--display-font);
+  font-weight: 500;
+  font-size: clamp(24px, 4vw, 32px);
+  line-height: 1.1;
+}
+
+.magazine-poi-modal-content {
+  padding: 30px 32px 28px;
+}
+
+.magazine-poi-modal-title-plain {
+  font-family: var(--display-font);
+  font-weight: 500;
+  font-size: 28px;
+  color: var(--ink);
+  margin-bottom: 14px;
+}
+
+.magazine-poi-modal-content p {
+  font-family: var(--display-font);
+  font-size: 17px;
+  line-height: 1.65;
+  color: var(--ink);
+  margin: 0 0 1.2em;
+}
+
+.magazine-poi-modal-content a { color: var(--mag-accent); text-decoration: none; }
+.magazine-poi-modal-content a:hover { text-decoration: none; }
+
+.magazine-poi-modal-footer {
+  margin-top: 12px;
+  padding-top: 18px;
+  border-top: 1px dashed var(--line-2);
+}
+
+.magazine-poi-modal-viewfull {
+  font: 600 12px var(--label-font);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--mag-accent);
+  text-decoration: none;
+}
+
+.magazine-poi-modal-viewfull:hover {
+  text-decoration: none;
+}
+
+.magazine-poi-modal-loading {
+  height: 240px;
+  background: linear-gradient(90deg, #f0f0ec 25%, #e6e6e0 50%, #f0f0ec 75%);
+  background-size: 200% 100%;
+  animation: drawer-shimmer 1.2s infinite;
+  border-radius: 20px 20px 0 0;
+}
+
+/* A continent/country/region's article has no POIs of its own — this
+   replaces the typography-led "things to do" grid with image-led cards
+   for the real destinations underneath it, since those actually have
+   photography (unlike POIs). Same grid rhythm, taller rows so the photos
+   read as a real "where to go next" rather than thumbnails. */
+.magazine-article-pois--cities .magazine-article-poi-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: minmax(220px, auto);
+  gap: 20px;
+}
+
+.magazine-city-item--featured {
+  grid-column: span 2;
+  grid-row: span 2;
+}
+
+.magazine-city-link {
+  position: relative;
+  display: block;
+  height: 100%;
+  border-radius: 14px;
+  overflow: hidden;
+  text-decoration: none;
+  transition: transform 0.15s ease;
+}
+
+.magazine-city-link:hover {
+  transform: translateY(-2px) rotate(-0.3deg);
+  text-decoration: none;
+}
+
+.magazine-city-img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.magazine-city-veil {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(19,18,17,0.05) 40%, rgba(19,18,17,0.8) 100%);
+}
+
+.magazine-city-txt {
+  position: absolute;
+  left: 14px;
+  right: 14px;
+  bottom: 12px;
+  color: #fff;
+}
+
+.magazine-city-name {
+  display: block;
+  font-family: var(--display-font);
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 1.2;
+}
+
+.magazine-city-item--featured .magazine-city-name {
+  font-size: 28px;
+}
+
+.magazine-city-snippet {
+  display: -webkit-box;
+  font-size: 13px;
+  opacity: 0.9;
+  margin-top: 4px;
+  line-height: 1.4;
+  overflow: hidden;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+.mag-pin--city {
+  background: #3457a6;
+}
+
 @media (max-width: 768px) {
   #magazine-prev, #magazine-next {
     display: none;
   }
-  .magazine-spread-txt {
-    bottom: 6%;
+  .magazine-spread-crumbs {
     left: 6%;
     right: 6%;
+  }
+  .magazine-spread-readmore {
+    right: 6%;
+    bottom: auto;
+    top: 6%;
+    max-width: none;
+    text-align: right;
+  }
+  .magazine-spread-caption {
+    max-width: 88%;
+    padding: 90px 6% 32px;
   }
   .magazine-spread-article {
     padding: 32px 18px 70px;
   }
-  .magazine-article-poi-list {
+  .magazine-article-pois--cities .magazine-article-poi-list {
     grid-template-columns: repeat(2, 1fr);
-    grid-auto-rows: 130px;
-  }
-  .magazine-poi-item--featured {
-    grid-column: span 2;
-    grid-row: span 2;
+    grid-auto-rows: minmax(170px, auto);
   }
 }
 

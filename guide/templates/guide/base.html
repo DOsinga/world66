@@ -92,7 +92,7 @@
 </div>
 
 {% if magazine_available %}
-<div id="magazine-overlay" aria-hidden="true">
+<div id="magazine-overlay" aria-hidden="true" data-current-path="{{ magazine_current_path|default:'' }}">
   <div id="magazine-topbar">
     <button id="magazine-close" aria-label="Close magazine view" type="button">&times;</button>
     <button id="magazine-shuffle" type="button">&#8635; Shuffle</button>
@@ -101,23 +101,27 @@
   <button id="magazine-prev" aria-label="Previous" type="button">&#8249;</button>
   <div id="magazine-spreads">
     {% for card in magazine_cards %}
-    <div class="magazine-spread" data-magazine-spread data-path="{{ card.path }}">
+    <div class="magazine-spread" data-magazine-spread data-path="{{ card.path }}" data-teaser-from-body="{% if card.teaser_from_body %}1{% else %}0{% endif %}">
       <div class="magazine-spread-scroll">
         <a href="{{ card.url }}" class="magazine-spread-cover">
           {% if card.image_url %}<img src="{{ card.image_url }}" alt="{{ card.title }}" loading="lazy">{% endif %}
           <div class="magazine-spread-veil"></div>
-          <div class="magazine-spread-txt">
-            <div class="magazine-spread-name">{{ card.title }}</div>
-            {% if card.teaser %}<p class="magazine-spread-teaser">{{ card.teaser }}</p>{% endif %}
-            <span class="magazine-spread-readmore">Scroll to read the full story &#8595;</span>
+          {% if card.breadcrumbs %}
+          <div class="magazine-spread-crumbs">
+            {% for crumb in card.breadcrumbs %}<a href="{{ crumb.url }}">{{ crumb.title }}</a><span class="magazine-spread-crumb-sep">/</span>{% endfor %}<span class="magazine-spread-crumbs-current">{{ card.title }}</span>
           </div>
+          {% endif %}
+          <span class="magazine-spread-readmore">Scroll to read<br>the full story &#8595;</span>
+        </a>
+        <a href="{{ card.url }}" class="magazine-spread-caption">
+          <div class="magazine-spread-name">{{ card.title }}</div>
+          {% if card.teaser %}<p class="magazine-spread-teaser">{{ card.teaser }}</p>{% endif %}
         </a>
         <div class="magazine-spread-article">
           <div class="magazine-article-content"></div>
           <div class="magazine-article-pois" hidden>
-            <span class="section-kicker">Nearby</span>
-            <h2 class="magazine-article-subhead">Top things to do</h2>
-            <ul class="magazine-article-poi-list"></ul>
+            <h2 class="magazine-article-subhead"></h2>
+            <div class="magazine-article-poi-list"></div>
           </div>
         </div>
       </div>
@@ -125,6 +129,13 @@
     {% endfor %}
   </div>
   <button id="magazine-next" aria-label="Next" type="button">&#8250;</button>
+</div>
+<div id="magazine-poi-modal" aria-hidden="true">
+  <div id="magazine-poi-modal-backdrop"></div>
+  <div id="magazine-poi-modal-panel">
+    <button id="magazine-poi-modal-close" aria-label="Close" type="button">&times;</button>
+    <div id="magazine-poi-modal-body"></div>
+  </div>
 </div>
 <script src="{% static 'js/magazine-view.js' %}"></script>
 {% endif %}

@@ -11,6 +11,8 @@ longitude: 16.9225
 score: 8.71
 snippet: Makarska Riviera village between Biokovo and the Adriatic, known for pine-backed
   white pebble beaches.
+tags:
+- makarskariviera
 title: Brela
 type: location
 ---

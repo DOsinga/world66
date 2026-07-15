@@ -12,7 +12,7 @@ score: 8.82
 snippet: Dalmatian Riviera town where Biokovo's limestone wall rises directly behind
   the harbour.
 tags:
-- dalmatia
+- makarskariviera
 title: Makarska
 type: location
 ---

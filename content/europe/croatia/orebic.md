@@ -10,10 +10,12 @@ longitude: 17.183237
 score: 8.49
 snippet: Pelješac seafaring town facing Korčula, backed by St. Ilija and long pebble
   beaches.
+tags:
+- peljesac
 title: Orebić
 type: location
 ---
 
 Orebić lies on the southwest coast of the Pelješac peninsula, at the foot of St. Ilija hill (961 metres), facing the island of Korčula across a narrow channel. The town gets sunshine all day long and has a mild, almost subtropical feel — centuries-old fir trees and cypresses, olive groves, flower gardens, and long pebble beaches stretching in both directions.
 
-This was historically a town of sea captains, and the grand stone houses lining the waterfront tell the story. The [Maritime Museum](/europe/croatia/peljesac/orebic/maritime_museum) documents several centuries of seafaring tradition. The [Franciscan Monastery of Our Lady of the Angels](/europe/croatia/peljesac/orebic/franciscan_monastery) watches over the town from the hillside above, its terrace offering the best views on the peninsula. Today Orebić is a quiet, pleasant base for exploring Pelješac, with regular ferries to [Korčula](/europe/croatia/korcula) taking just 15 minutes.
+This was historically a town of sea captains, and the grand stone houses lining the waterfront tell the story. The [Maritime Museum](/europe/croatia/orebic/maritime_museum) documents several centuries of seafaring tradition. The [Franciscan Monastery of Our Lady of the Angels](/europe/croatia/orebic/franciscan_monastery) watches over the town from the hillside above, its terrace offering the best views on the peninsula. Today Orebić is a quiet, pleasant base for exploring Pelješac, with regular ferries to [Korčula](/europe/croatia/korcula) taking just 15 minutes.

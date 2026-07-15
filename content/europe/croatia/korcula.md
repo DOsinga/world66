@@ -22,4 +22,4 @@ Korčula is one of the larger islands along Croatia's Dalmatian coast, covered i
 
 The island's other towns are worth the short trip. [Vela Luka](/europe/croatia/vela_luka) on the western tip has an important prehistoric cave site, Lumbarda has vineyards and sandy beaches, and Blato is a sleepy inland village with a wide plane-tree avenue. Inland, the [Kočje rock formations](/europe/croatia/korcula/kocje_rock_formations) offer a shady, rocky break from the coast.
 
-Ferries and catamarans connect Korčula to Split, Hvar, and Dubrovnik. The most reliable year-round approach is the short ferry from Orebić on the Pelješac peninsula.
+Ferries and catamarans connect Korčula to Split, Hvar, and Dubrovnik. The most reliable year-round approach is the short ferry from Orebić on the Pelješac peninsula. Far out in the open Adriatic, administratively part of Korčula, [Palagruža](/europe/croatia/palagruza) is Croatia's most remote island — reachable only by private boat or organised excursion.

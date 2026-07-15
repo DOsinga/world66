@@ -7,7 +7,7 @@ image_attribution: David Lukšić
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Brijuni_20180401.jpg
 latitude: 44.907611
-loc_type: city
+loc_type: feature
 longitude: 13.773154
 score: 8.25
 snippet: Istrian island national park shaped by Tito's retreat, safari animals, and

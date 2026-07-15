@@ -1,7 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
-image: krka_national_park_1.jpg
+image: krka_national_park.jpg
 image_attribution: Berthold Werner
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Krka_Nationalpark_BW_2024-09-30_13-53-15.jpg

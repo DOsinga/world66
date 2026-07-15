@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-07'
   location_enrich: '2026-06-03'
 latitude: 43.044
-loc_type: city
+loc_type: feature
 longitude: 17.651
 score: 6.61
 title: Neretva

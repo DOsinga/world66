@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-08'
   location_enrich: '2026-06-02'
 latitude: 43.0804
-loc_type: city
+loc_type: feature
 longitude: 17.6259
 score: 6.83
 snippet: Ancient Adriatic archaeological site near Metković, where Roman Narona grew

@@ -3,6 +3,7 @@ latitude: 29.25
 loc_type: feature
 longitude: -110.8
 score: 8.6
+snippet: Sonoran desert canyon holding more than 1,500 Seri and Pima petroglyphs and pictographs.
 tags:
 - sight
 - archaeology

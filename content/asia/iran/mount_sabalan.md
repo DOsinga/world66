@@ -7,6 +7,7 @@ latitude: 38.29
 loc_type: feature
 longitude: 47.82
 score: 8.1
+snippet: Dormant Iranian stratovolcano crowned by a seasonal crater lake at 4,811 metres.
 story: Sabalan is a dormant stratovolcano with a small crater lake near the summit
   that freezes solid most of the year. In Zoroastrian tradition the mountain is sacred
   — some Iranian sources identify it as the place where Zarathustra received his revelations.

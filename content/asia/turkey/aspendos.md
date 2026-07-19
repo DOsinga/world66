@@ -7,6 +7,7 @@ latitude: 36.94
 loc_type: feature
 longitude: 31.1717
 score: 8.6
+snippet: Ancient Pamphylian city best known for the Mediterranean's most complete surviving Roman theatre.
 story: The theatre at Aspendos is widely considered the best-preserved Roman theatre
   in the world. Built in the 2nd century AD under Marcus Aurelius, it seated 15,000
   people and the entire stage building — including the upper gallery and scaena frons

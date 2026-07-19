@@ -7,6 +7,7 @@ latitude: 13.9817
 loc_type: feature
 longitude: -89.6833
 score: 8.7
+snippet: El Salvador's best-preserved pre-Columbian site, centred on a 24-metre stepped Maya pyramid.
 story: 'Tazumal is El Salvador''s most significant Maya archaeological site, with
   occupation dating from around 100 CE through the Spanish conquest. The largest pyramid
   was used continuously for over a millennium, which is why it shows architectural

@@ -3,6 +3,7 @@ latitude: 54.77
 loc_type: feature
 longitude: 11.49
 score: 7.18
+snippet: Flat Danish farming island of medieval churches and quiet Baltic coast, south of Zealand.
 title: Lolland
 type: location
 image: lolland.jpg

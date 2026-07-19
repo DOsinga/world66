@@ -7,6 +7,7 @@ latitude: 17.0739
 loc_type: feature
 longitude: -89.4082
 score: 8.7
+snippet: Restored Maya city on a forested ridge between two lakes in Guatemala's eastern Petén.
 story: 'Yaxha is the site that made the producers of Survivor: Guatemala set their
   season here in 2005 — partly for its scale (it was the third- largest Classic Maya
   city in the southern lowlands), partly because the jungle around it had pumas, jaguars,

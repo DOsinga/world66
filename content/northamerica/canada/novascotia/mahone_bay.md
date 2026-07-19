@@ -10,6 +10,7 @@ loc_type: city
 longitude: -64.3819
 sources:
 - https://en.wikipedia.org/wiki/Mahone_Bay,_Nova_Scotia
+snippet: Tiny Nova Scotian harbour town known for three nineteenth-century churches reflected in its sheltered bay.
 title: Mahone Bay
 type: location
 ---

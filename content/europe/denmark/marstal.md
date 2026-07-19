@@ -3,6 +3,7 @@ latitude: 54.8547
 loc_type: city
 longitude: 10.5167
 score: 7.33
+snippet: Working Danish harbour town on Ærø, shaped by shipbuilding and its nineteenth-century merchant fleet.
 story: Marstal once had one of the largest merchant fleets in Denmark — more than
   300 sailing ships were registered here in the 1880s, owned by a population of barely
   3,000. Most of the captains' houses still stand, with brass nameplates and ship

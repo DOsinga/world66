@@ -7,6 +7,7 @@ latitude: 13.8667
 loc_type: feature
 longitude: 74.9667
 score: 8.3
+snippet: Forested Western Ghats peak in Karnataka, reached by guided treks through Mookambika Wildlife Sanctuary.
 story: Kodachadri is the tenth highest peak in Karnataka and one of the few Ghats
   summits still genuinely forested at the top — a dense shola forest caps the 1,343-metre
   peak, and the Karnataka Forest Department requires trekkers to take a licensed guide,

@@ -7,6 +7,7 @@ latitude: 39.5883
 loc_type: feature
 longitude: -105.6438
 score: 8.7
+snippet: Colorado fourteener reached by North America's highest paved road, climbing through alpine tundra west of Denver.
 tags:
 - sight
 title: Mount Blue Sky (Mount Evans)

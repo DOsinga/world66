@@ -21,5 +21,5 @@ Beyond the kilns, there is Lichfield with its stunning three-spired cathedral, t
 
 ## Destinations in Staffordshire
 
-[Stafford](/europe/unitedkingdom/england/birmingham_and_west_midlands/staffordshire/stafford)
-[Wolverhampton](/europe/unitedkingdom/england/birmingham_and_west_midlands/staffordshire/wolverhampton)
+[Stafford](/europe/unitedkingdom/england/west_midlands/staffordshire/stafford)
+[Wolverhampton](/europe/unitedkingdom/england/west_midlands/staffordshire/wolverhampton)

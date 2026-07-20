@@ -21,6 +21,6 @@ image_attribution: Colin Smith
 
 Burford is one of the Cotswolds' classic first impressions: a steep high street of honey-coloured stone houses dropping toward the River Windrush, with small shops, old inns, and church towers in the background. It is popular, but it still has enough real town texture to reward a slow visit.
 
-The town is compact. Start on [Burford High Street](/europe/unitedkingdom/england/gloucestershire/cotswolds/burford/burford_high_street), look into the [Tolsey Museum](/europe/unitedkingdom/england/gloucestershire/cotswolds/burford/tolsey_museum), then walk down to [St John the Baptist](/europe/unitedkingdom/england/gloucestershire/cotswolds/burford/st_john_the_baptist), one of the great parish churches of the Cotswolds.
+The town is compact. Start on [Burford High Street](/europe/unitedkingdom/england/south_west/burford/burford_high_street), look into the [Tolsey Museum](/europe/unitedkingdom/england/south_west/burford/tolsey_museum), then walk down to [St John the Baptist](/europe/unitedkingdom/england/south_west/burford/st_john_the_baptist), one of the great parish churches of the Cotswolds.
 
-Burford also has one strong out-of-town draw: [Cotswold Wildlife Park](/europe/unitedkingdom/england/gloucestershire/cotswolds/burford/cotswold_wildlife_park), set in landscaped grounds south of town. That mix of street, church, local history, and family-friendly park makes Burford more than a pretty coffee stop.
+Burford also has one strong out-of-town draw: [Cotswold Wildlife Park](/europe/unitedkingdom/england/south_west/burford/cotswold_wildlife_park), set in landscaped grounds south of town. That mix of street, church, local history, and family-friendly park makes Burford more than a pretty coffee stop.

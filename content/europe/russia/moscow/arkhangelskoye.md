@@ -8,7 +8,6 @@ snippet: Grand aristocratic estate with Italian gardens outside Moscow
 tags:
 - things_to_do
 - historical_site
-- day_trips
 title: Arkhangelskoye
 type: poi
 ---

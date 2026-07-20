@@ -7,6 +7,7 @@ linked_locations:
 - europe/italy/lombardia/lake_iseo
 - europe/italy/lombardia/san_marco_pass
 - europe/italy/lombardia/san_pellegrino_terme
+- europe/italy/lombardia/minitalia_leoland
 title: Day Trips
 type: section
 ---

@@ -8,7 +8,7 @@ title: Isle of Portland
 type: location
 ---
 
-A stark limestone peninsula jutting south into the English Channel, connected to [Weymouth](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/weymouth) by the narrow neck of Chesil Beach. Portland is unlike anywhere else in Dorset: flat-topped, windswept, quarried down to bare rock in places, with a fierce sense of its own identity. Portlanders have traditionally regarded themselves as separate from the mainland — historically they referred to anyone from beyond the causeway as a kimberlite or "kimberlin," a term still used with mild affection today.
+A stark limestone peninsula jutting south into the English Channel, connected to [Weymouth](/europe/unitedkingdom/england/south_west/weymouth) by the narrow neck of Chesil Beach. Portland is unlike anywhere else in Dorset: flat-topped, windswept, quarried down to bare rock in places, with a fierce sense of its own identity. Portlanders have traditionally regarded themselves as separate from the mainland — historically they referred to anyone from beyond the causeway as a kimberlite or "kimberlin," a term still used with mild affection today.
 
 The stone is the island's great gift to the world. Portland stone, a creamy oolitic limestone, was used to build St Paul's Cathedral in London, the United Nations headquarters in New York, and Buckingham Palace. The quarries have been worked since medieval times; some are still active today, while others have been converted into sculpture parks and wildlife reserves. The Portland Sculpture and Quarry Trust maintains several of these reclaimed sites, which reward a slow wander.
 

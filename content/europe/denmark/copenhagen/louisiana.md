@@ -5,7 +5,7 @@ longitude: 12.5432
 score: 9.7
 snippet: World-class modern art museum on the Øresund coast, 35 km north of Copenhagen
 tags:
-- day_trips
+- things_to_do
 title: Louisiana Museum of Modern Art
 type: poi
 ---

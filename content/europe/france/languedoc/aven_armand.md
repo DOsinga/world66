@@ -2,17 +2,20 @@
 done:
   poi_cleanup: '2026-04-20'
 latitude: 44.2183
+loc_type: feature
 longitude: 3.4614
 phone: +33 4 66 45 61 31
 score: 8.0
 snippet: Vast underground forest of 400 stalagmites
 tags:
-- day_trips
-- things_to_do
 - sight
 title: Aven Armand
-type: poi
+type: location
 url: https://www.aven-armand.com
+image: aven_armand.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Aven_Armand_27042014_01.jpg
+image_license: CC0
+image_attribution: Vassil
 ---
 
 Aven Armand is a single enormous cavern buried 100 meters beneath the Causse Méjean in Lozère. A funicular takes you down to a chamber large enough to hold Notre-Dame de Paris, where more than 400 stalagmites rise from the floor like a petrified forest. The tallest reaches 30 meters, making it one of the largest stalagmites ever recorded.

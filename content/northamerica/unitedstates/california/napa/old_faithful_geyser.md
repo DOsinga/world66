@@ -6,7 +6,6 @@ score: 5.8
 snippet: Reliable geyser north of Calistoga that erupts every 20–30 minutes
 tags:
 - things_to_do
-- day_trips
 - outdoor
 title: Old Faithful Geyser of California
 type: poi

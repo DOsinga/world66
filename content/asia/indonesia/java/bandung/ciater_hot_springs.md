@@ -1,17 +1,17 @@
 ---
-title: Ciater Hot Springs
-type: poi
-tags:
-- day_trips
-- nature
-snippet: Sulphurous natural pools in a tea plantation north of Tangkuban Perahu
+image: ciater_hot_springs.jpg
+image_attribution: Midori
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Hot_spring_pool_Ciater_Spa_Resort_at_night.JPG
 latitude: -6.7349
 longitude: 107.6655
 score: 6.7
-image: ciater_hot_springs.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Hot_spring_pool_Ciater_Spa_Resort_at_night.JPG
-image_license: CC BY 3.0
-image_attribution: Midori
+snippet: Sulphurous natural pools in a tea plantation north of Tangkuban Perahu
+tags:
+- things_to_do
+- nature
+title: Ciater Hot Springs
+type: poi
 ---
 
 A natural thermal spring complex about 7km north of Tangkuban Perahu, set on a tea plantation in the Subang regency. Water heated by volcanic activity flows out at around 45°C, channelled through a series of public and private pools. The setting — tea bushes on terraced slopes, occasional cloud, the smell of sulphur in the air — is more striking than the resort itself.

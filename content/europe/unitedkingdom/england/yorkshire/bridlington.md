@@ -16,7 +16,7 @@ image_license: CC BY-SA 2.0
 image_attribution: Anthony Parkes
 ---
 
-Bridlington is the soft-edged resort side of the Yorkshire coast: two sandy bays, a working harbour, amusement arcades, fish and chips, and enough old-town history to keep it from feeling like only a beach stop. It is less dramatic than [Scarborough](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/scarborough), but easier and more relaxed.
+Bridlington is the soft-edged resort side of the Yorkshire coast: two sandy bays, a working harbour, amusement arcades, fish and chips, and enough old-town history to keep it from feeling like only a beach stop. It is less dramatic than [Scarborough](/europe/unitedkingdom/england/yorkshire/scarborough), but easier and more relaxed.
 
 The real strength is the coastline around it. Sewerby Hall sits on the cliffs just north of town, Flamborough Head pushes into the North Sea in a sweep of chalk, and Bempton Cliffs hold one of England's great seabird colonies. In spring and early summer the cliffs are alive with gannets, kittiwakes, razorbills, guillemots, and puffins.
 

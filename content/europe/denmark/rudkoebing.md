@@ -3,6 +3,7 @@ latitude: 54.9414
 longitude: 10.7136
 loc_type: city
 score: 7.22
+snippet: Langeland's main harbour town, with a preserved core of 18th-century merchants' houses.
 tags:
 - langeland
 title: Rudkøbing

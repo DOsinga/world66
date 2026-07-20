@@ -11,4 +11,4 @@ Bangkok makes a good base for excursions into the surrounding countryside. The e
 
 Families tend to head for the wildlife parks. Safari World, in Minburi District northeast of the centre, has a drive-through animal section and a walk-in aviary, while the long-running Crocodile Farm at Samut Prakan keeps tens of thousands of crocodiles and runs shows through the day. West of the city, Sampran Riverside (the former Rose Garden) pairs a polished Thai cultural show with an organic farm and gardens along the Mae Klong.
 
-For something more ambitious, the ancient capital of [Ayutthaya](/asia/thailand/ayutthaya) lies about 80 km north — a UNESCO-listed sprawl of brick prangs and riverbank monasteries that rewards a full-day excursion by train, bus, or river cruise.
+For something more ambitious, the ancient capital of [Ayutthaya](/asia/thailand/centralthailand/ayutthaya) lies about 80 km north — a UNESCO-listed sprawl of brick prangs and riverbank monasteries that rewards a full-day excursion by train, bus, or river cruise.

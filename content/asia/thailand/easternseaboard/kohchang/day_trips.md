@@ -1,0 +1,11 @@
+---
+done:
+  poi_cleanup: '2026-04-20'
+linked_locations:
+- asia/thailand/kohchang/koh_kood
+- asia/thailand/kohchang/koh_mak
+title: Day Trips
+type: section
+---
+
+The Koh Chang archipelago has over 50 islands, and the smaller ones make excellent day trips. [Koh Kood](/asia/thailand/easternseaboard/koh_kood) and [Koh Mak](/asia/thailand/easternseaboard/koh_mak) are the most popular, reachable by speedboat from Bang Bao pier on Koh Chang's southern tip.

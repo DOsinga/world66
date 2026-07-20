@@ -9,7 +9,7 @@ title: Daman
 type: location
 ---
 
-Daman is a small coastal union territory on India's west coast, wedged between the states of Gujarat and Maharashtra about 175 kilometres north of Mumbai. Like nearby Diu, it spent four centuries under Portuguese rule before being absorbed into India in 1961, and the influence shows in the old fort churches, whitewashed colonial buildings, and a general pace of life slower than the surrounding states.
+Daman is a small coastal town on India's west coast, wedged between the states of Gujarat and Maharashtra about 175 kilometres north of Mumbai. It's part of the union territory of Dadra and Nagar Haveli and Daman and Diu — a separate, federally-administered territory rather than part of either surrounding state, despite the enclave geography. Like nearby Diu, it spent four centuries under Portuguese rule before being absorbed into India in 1961, and the influence shows in the old fort churches, whitewashed colonial buildings, and a general pace of life slower than the surrounding states.
 
 The town sits on both banks of the Damanganga River, with Nani Daman (Little Daman) on the south bank and Moti Daman (Big Daman) on the north. Moti Daman is the older, more characterful side — a walled Portuguese town containing the Cathedral of Bom Jesus and the Church of Our Lady of the Sea, both still in use. The fortress walls are largely intact and good for a walk. The beaches are the main attraction for most visitors: Devka Beach to the north is the busier one, with a small amusement park and most of the hotels along the shore, while Jampore Beach to the south is quieter and better for walking.
 

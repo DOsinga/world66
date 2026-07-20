@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gritstone_Rocks_and_the_Pe
 latitude: 53.315827
 loc_type: feature
 longitude: -1.727034
-score: 0.84
+score: 8.4
 snippet: England's first national park, split between Dark Peak moorland and White
   Peak limestone villages.
 title: Peak District

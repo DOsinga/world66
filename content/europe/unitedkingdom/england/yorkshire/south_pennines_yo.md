@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:South_Pennines_landscape_-
 latitude: 53.7
 loc_type: feature
 longitude: -2.0
-score: 0.65
+score: 6.5
 snippet: West Yorkshire moorland of textile mill valleys, gritstone edges, and dark
   satanic hills from Hebden Bridge to Todmorden.
 title: South Pennines

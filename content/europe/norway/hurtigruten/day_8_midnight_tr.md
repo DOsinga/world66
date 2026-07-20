@@ -4,7 +4,6 @@ longitude: 18.9551
 snippet: Lyngen Alps at midnight under the summer sun
 tags:
 - things_to_do
-- sights
 title: 'Day 8: Midnight at Tromsø'
 type: poi
 score: 8.7

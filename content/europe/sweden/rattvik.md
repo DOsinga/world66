@@ -2,6 +2,8 @@
 title: Rättvik
 type: location
 loc_type: city
+tags:
+  - siljan_area
 latitude: 60.8833
 longitude: 15.1333
 score: 7.2

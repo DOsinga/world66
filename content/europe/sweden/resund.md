@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-13'
 latitude: 55.95
-loc_type: city
+loc_type: feature
 longitude: 12.8
 score: 7.17
 title: Öresund

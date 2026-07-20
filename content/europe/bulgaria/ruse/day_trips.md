@@ -1,5 +1,7 @@
 ---
-title: "Day Trips"
+linked_locations:
+- europe/bulgaria/cherven_fortress
+title: Day Trips
 type: section
 ---
 

@@ -1,11 +1,12 @@
 ---
-title: "Day Trips"
-type: section
 linked_locations:
 - europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/harrogate
 - europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/helmsley
 - europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/north_york_moors
 - europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/whitby
+- europe/unitedkingdom/england/yorkshire/castle_howard
+title: Day Trips
+type: section
 ---
 
 York's position in the Vale of York makes it a good base for day trips in several directions. Most destinations are within an hour by car, and many are reachable by rail or bus.

@@ -1,5 +1,7 @@
 ---
-title: "Day Trips"
+linked_locations:
+- southamerica/argentina/talampaya_national_park
+title: Day Trips
 type: section
 ---
 

@@ -1,13 +1,14 @@
 ---
-title: "Mercado de Paloquemao"
-type: poi
-tags:
-  - things_to_do
-  - market
-latitude: 4.6213
-longitude: -74.0862
-snippet: "Bogota's best central market — flowers, tropical fruit, and street food at dawn"
+latitude: 4.61625
+longitude: -74.08497
 score: 8.6
+snippet: Bogota's best central market — flowers, tropical fruit, and street food at
+  dawn
+tags:
+- things_to_do
+- market
+title: Mercado de Paloquemao
+type: poi
 ---
 
 Paloquemao is the best traditional market in Bogota, a vast covered wholesale and retail market known above all for its flower section. Colombia is the world's second-largest flower exporter, and Paloquemao is where the city sees it — enormous quantities of roses, carnations, orchids, and tropical flowers, much of it from the Sabana de Bogota farms that supply buyers around the world.

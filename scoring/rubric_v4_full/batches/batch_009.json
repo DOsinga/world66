@@ -1,0 +1,588 @@
+[
+  {
+    "embedding_text": "Teres\u00f3polis, Brazil, South America",
+    "latitude": -22.297804,
+    "longitude": -42.864641,
+    "name": "Teres\u00f3polis",
+    "parent_chain": [
+      "South America",
+      "Brazil"
+    ],
+    "path": "southamerica/brazil/teresopolis"
+  },
+  {
+    "embedding_text": "Abeche, Chad, Africa",
+    "latitude": 13.8292,
+    "longitude": 20.8324,
+    "name": "Abeche",
+    "parent_chain": [
+      "Africa",
+      "Chad"
+    ],
+    "path": "africa/chad/abeche"
+  },
+  {
+    "embedding_text": "Oslo, Norway, Europe",
+    "latitude": 59.91333,
+    "longitude": 10.73897,
+    "name": "Oslo",
+    "parent_chain": [
+      "Europe",
+      "Norway"
+    ],
+    "path": "europe/norway/oslo"
+  },
+  {
+    "embedding_text": "Santiago, Dominican Republic, North America",
+    "latitude": 19.4517,
+    "longitude": -70.697,
+    "name": "Santiago",
+    "parent_chain": [
+      "North America",
+      "Dominican Republic"
+    ],
+    "path": "northamerica/dominicanrepublic/santiago"
+  },
+  {
+    "embedding_text": "North-East Tasmania, Tasmania, Australia, Australia, Pacific & Antarctica",
+    "latitude": -41.2,
+    "longitude": 147.5,
+    "name": "North-East Tasmania",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "Tasmania"
+    ],
+    "path": "australiaandpacific/australia/tasmania/northeast"
+  },
+  {
+    "embedding_text": "Glacier National Park, Montana, United States, North America",
+    "latitude": 48.7596,
+    "longitude": -113.787,
+    "name": "Glacier National Park",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Montana"
+    ],
+    "path": "northamerica/unitedstates/montana/glaciernp"
+  },
+  {
+    "embedding_text": "Zhangzhou, Fujian Province, China, Asia",
+    "latitude": 24.5167,
+    "longitude": 117.65,
+    "name": "Zhangzhou",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Fujian Province"
+    ],
+    "path": "asia/china/fujianprovince/zhangzhou"
+  },
+  {
+    "embedding_text": "Santo Domingo, Dominican Republic, North America",
+    "latitude": 18.4861,
+    "longitude": -69.9312,
+    "name": "Santo Domingo",
+    "parent_chain": [
+      "North America",
+      "Dominican Republic"
+    ],
+    "path": "northamerica/dominicanrepublic/santodomingo"
+  },
+  {
+    "embedding_text": "Huaraz, Peru, South America",
+    "latitude": -9.5279,
+    "longitude": -77.5278,
+    "name": "Huaraz",
+    "parent_chain": [
+      "South America",
+      "Peru"
+    ],
+    "path": "southamerica/peru/huaraz"
+  },
+  {
+    "embedding_text": "Thiruvananthapuram, Kerala, India, Asia",
+    "latitude": 8.5031,
+    "longitude": 76.951,
+    "name": "Thiruvananthapuram",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Kerala"
+    ],
+    "path": "asia/india/kerala/thiruvananthapuram"
+  },
+  {
+    "embedding_text": "Setif, Algeria, Africa",
+    "latitude": 36.189349,
+    "longitude": 5.404688,
+    "name": "Setif",
+    "parent_chain": [
+      "Africa",
+      "Algeria"
+    ],
+    "path": "africa/algeria/setif"
+  },
+  {
+    "embedding_text": "Kanpur, Uttar Pradesh, India, Asia",
+    "latitude": 26.4499,
+    "longitude": 80.3319,
+    "name": "Kanpur",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Uttar Pradesh"
+    ],
+    "path": "asia/india/uttarpradesh/kanpur"
+  },
+  {
+    "embedding_text": "Lisieux, Normandy and Brittany, France, Europe",
+    "latitude": 49.146083,
+    "longitude": 0.225517,
+    "name": "Lisieux",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Normandy and Brittany"
+    ],
+    "path": "europe/france/normandybrittany/lisieux"
+  },
+  {
+    "embedding_text": "Quer\u00e9taro, Mexico, North America",
+    "latitude": 20.5888,
+    "longitude": -100.3899,
+    "name": "Quer\u00e9taro",
+    "parent_chain": [
+      "North America",
+      "Mexico"
+    ],
+    "path": "northamerica/mexico/queretaro"
+  },
+  {
+    "embedding_text": "Vigan, Philippines, Asia",
+    "latitude": 17.5755,
+    "longitude": 120.3873,
+    "name": "Vigan",
+    "parent_chain": [
+      "Asia",
+      "Philippines"
+    ],
+    "path": "asia/philippines/vigan"
+  },
+  {
+    "embedding_text": "Nouamghar, Mauritania, Africa",
+    "latitude": 19.355923,
+    "longitude": -16.512927,
+    "name": "Nouamghar",
+    "parent_chain": [
+      "Africa",
+      "Mauritania"
+    ],
+    "path": "africa/mauritania/nouamghar"
+  },
+  {
+    "embedding_text": "Chatham Islands, New Zealand, Australia, Pacific & Antarctica",
+    "latitude": -43.9176,
+    "longitude": -176.1873,
+    "name": "Chatham Islands",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "New Zealand"
+    ],
+    "path": "australiaandpacific/newzealand/chathamislands"
+  },
+  {
+    "embedding_text": "Crawfordville, Georgia, Georgia, United States, North America",
+    "latitude": 33.553994,
+    "longitude": -82.89619,
+    "name": "Crawfordville, Georgia",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Georgia"
+    ],
+    "path": "northamerica/unitedstates/georgia/crawfordville_georgia"
+  },
+  {
+    "embedding_text": "Florida Keys, Florida, United States, North America",
+    "latitude": 24.6669,
+    "longitude": -81.5442,
+    "name": "Florida Keys",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Florida"
+    ],
+    "path": "northamerica/unitedstates/florida/floridakeys"
+  },
+  {
+    "embedding_text": "Kwajalein Atoll, Marshall Islands, Australia, Pacific & Antarctica",
+    "latitude": 9.160464,
+    "longitude": 167.079554,
+    "name": "Kwajalein Atoll",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Marshall Islands"
+    ],
+    "path": "australiaandpacific/marshallislands/kwajaleinatoll"
+  },
+  {
+    "embedding_text": "Yongning, Ningxia, China, Asia",
+    "latitude": 38.279,
+    "longitude": 106.249,
+    "name": "Yongning",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Ningxia"
+    ],
+    "path": "asia/china/ningxia/yongning"
+  },
+  {
+    "embedding_text": "Ambleside, Lake District, England, United Kingdom, Europe",
+    "latitude": 54.43,
+    "longitude": -2.963,
+    "name": "Ambleside",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "Lake District"
+    ],
+    "path": "europe/unitedkingdom/england/lakedistrict/ambleside"
+  },
+  {
+    "embedding_text": "Karakul Lake, Xinjiang, China, Asia",
+    "latitude": 38.43,
+    "longitude": 75.05,
+    "name": "Karakul Lake",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Xinjiang"
+    ],
+    "path": "asia/china/xinjiangprovince/karakullake"
+  },
+  {
+    "embedding_text": "Sibari, Calabria, Italy, Europe",
+    "latitude": 39.7178,
+    "longitude": 16.4878,
+    "name": "Sibari",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Calabria"
+    ],
+    "path": "europe/italy/calabria/sybaris_marine"
+  },
+  {
+    "embedding_text": "Tongling, Anhui Province, China, Asia",
+    "latitude": 30.94,
+    "longitude": 117.82,
+    "name": "Tongling",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Anhui Province"
+    ],
+    "path": "asia/china/anhui/tongling"
+  },
+  {
+    "embedding_text": "Po\u00e1s Volcano, Costa Rica, North America",
+    "latitude": 10.1989,
+    "longitude": -84.2325,
+    "name": "Po\u00e1s Volcano",
+    "parent_chain": [
+      "North America",
+      "Costa Rica"
+    ],
+    "path": "northamerica/costarica/poas"
+  },
+  {
+    "embedding_text": "Santorini, Greece, Europe",
+    "latitude": 36.407111,
+    "longitude": 25.456664,
+    "name": "Santorini",
+    "parent_chain": [
+      "Europe",
+      "Greece"
+    ],
+    "path": "europe/greece/santorini"
+  },
+  {
+    "embedding_text": "\u201cMorgan City\u201d, Louisiana, United States, North America",
+    "latitude": 29.699375,
+    "longitude": -91.20677,
+    "name": "\u201cMorgan City\u201d",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Louisiana"
+    ],
+    "path": "northamerica/unitedstates/louisiana/morgan_city"
+  },
+  {
+    "embedding_text": "Strasbourg, Alsace, East France, France, Europe",
+    "latitude": 48.5734,
+    "longitude": 7.7521,
+    "name": "Strasbourg",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "East France",
+      "Alsace"
+    ],
+    "path": "europe/france/east/alsace/strasbourg"
+  },
+  {
+    "embedding_text": "Invercargill, Otago, South Island, New Zealand, Australia, Pacific & Antarctica",
+    "latitude": -46.4132,
+    "longitude": 168.3538,
+    "name": "Invercargill",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "New Zealand",
+      "South Island",
+      "Otago"
+    ],
+    "path": "australiaandpacific/newzealand/south_island/otago/invercargill"
+  },
+  {
+    "embedding_text": "Grove, Oklahoma, United States, North America",
+    "latitude": 36.594,
+    "longitude": -94.769,
+    "name": "Grove",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Oklahoma"
+    ],
+    "path": "northamerica/unitedstates/oklahoma/grove"
+  },
+  {
+    "embedding_text": "Dover, New Hampshire, United States, North America",
+    "latitude": 43.1979,
+    "longitude": -70.8737,
+    "name": "Dover",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "New Hampshire"
+    ],
+    "path": "northamerica/unitedstates/newhampshire/dover"
+  },
+  {
+    "embedding_text": "Princeton, New Jersey, United States, North America",
+    "latitude": 40.349695,
+    "longitude": -74.659738,
+    "name": "Princeton",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "New Jersey"
+    ],
+    "path": "northamerica/unitedstates/newjersey/princeton"
+  },
+  {
+    "embedding_text": "Bibbona, Tuscany, Italy, Europe",
+    "latitude": 43.269784,
+    "longitude": 10.59727,
+    "name": "Bibbona",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Tuscany"
+    ],
+    "path": "europe/italy/tuscany/bibbona"
+  },
+  {
+    "embedding_text": "Nantong, Jiangsu Province, China, Asia",
+    "latitude": 31.9833,
+    "longitude": 120.9,
+    "name": "Nantong",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Jiangsu Province"
+    ],
+    "path": "asia/china/jiangsu_province/nantong"
+  },
+  {
+    "embedding_text": "Shangluo, Shaanxi Province, China, Asia",
+    "latitude": 33.8681,
+    "longitude": 109.9245,
+    "name": "Shangluo",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Shaanxi Province"
+    ],
+    "path": "asia/china/shaanxi/shangluo"
+  },
+  {
+    "embedding_text": "Lecce, Puglia, Italy, Europe",
+    "latitude": 40.1522,
+    "longitude": 18.2261,
+    "name": "Lecce",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Puglia"
+    ],
+    "path": "europe/italy/puglia/lecce"
+  },
+  {
+    "embedding_text": "Cuddapah, Andhra Pradesh, India, Asia",
+    "latitude": 14.49566,
+    "longitude": 78.834928,
+    "name": "Cuddapah",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Andhra Pradesh"
+    ],
+    "path": "asia/india/andhrapradesh/cuddapah"
+  },
+  {
+    "embedding_text": "Matar\u00f3, Catalonia, Spain, Europe",
+    "latitude": 41.539835,
+    "longitude": 2.444893,
+    "name": "Matar\u00f3",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Catalonia"
+    ],
+    "path": "europe/spain/catalonia/mataro"
+  },
+  {
+    "embedding_text": "Kankan, Guinea, Africa",
+    "latitude": 10.624835,
+    "longitude": -9.317517,
+    "name": "Kankan",
+    "parent_chain": [
+      "Africa",
+      "Guinea"
+    ],
+    "path": "africa/guineeconakry/kankan"
+  },
+  {
+    "embedding_text": "Lichtenfels, Bavaria, Germany, Europe",
+    "latitude": 50.14568,
+    "longitude": 11.06382,
+    "name": "Lichtenfels",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Bavaria"
+    ],
+    "path": "europe/germany/bavaria/lichtenfels"
+  },
+  {
+    "embedding_text": "Bordeaux, Bordeaux and the Atlantic Coast, France, Europe",
+    "latitude": 44.8378,
+    "longitude": -0.5792,
+    "name": "Bordeaux",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Bordeaux and the Atlantic Coast"
+    ],
+    "path": "europe/france/aquitaine/bordeaux"
+  },
+  {
+    "embedding_text": "Baracoa, Cuba, The Caribbean, North America",
+    "latitude": 20.3469,
+    "longitude": -74.4964,
+    "name": "Baracoa",
+    "parent_chain": [
+      "North America",
+      "The Caribbean",
+      "Cuba"
+    ],
+    "path": "northamerica/thecaribbean/cuba/baracoa"
+  },
+  {
+    "embedding_text": "Condado, Puerto Rico, The Caribbean, North America",
+    "latitude": 18.4559,
+    "longitude": -66.071,
+    "name": "Condado",
+    "parent_chain": [
+      "North America",
+      "The Caribbean",
+      "Puerto Rico"
+    ],
+    "path": "northamerica/thecaribbean/puertorico/condado"
+  },
+  {
+    "embedding_text": "Tilghman Island, Maryland, United States, North America",
+    "latitude": 38.7076,
+    "longitude": -76.3382,
+    "name": "Tilghman Island",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Maryland"
+    ],
+    "path": "northamerica/unitedstates/maryland/tilghman_island"
+  },
+  {
+    "embedding_text": "White Villages, Andalucia, Spain, Europe",
+    "latitude": 36.7468,
+    "longitude": -5.1609,
+    "name": "White Villages",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Andalucia"
+    ],
+    "path": "europe/spain/andalucia/whitevillages"
+  },
+  {
+    "embedding_text": "\u010cesk\u00e9 Bud\u011bjovice, Czech Republic, Europe",
+    "latitude": 48.974736,
+    "longitude": 14.474285,
+    "name": "\u010cesk\u00e9 Bud\u011bjovice",
+    "parent_chain": [
+      "Europe",
+      "Czech Republic"
+    ],
+    "path": "europe/czechrepublic/ceskebudejovice"
+  },
+  {
+    "embedding_text": "Flims, Switzerland, Europe",
+    "latitude": 46.833244,
+    "longitude": 9.283456,
+    "name": "Flims",
+    "parent_chain": [
+      "Europe",
+      "Switzerland"
+    ],
+    "path": "europe/switzerland/flims"
+  },
+  {
+    "embedding_text": "Lule\u00e5, Sweden, Europe",
+    "latitude": 65.5845,
+    "longitude": 22.1505,
+    "name": "Lule\u00e5",
+    "parent_chain": [
+      "Europe",
+      "Sweden"
+    ],
+    "path": "europe/sweden/lulea"
+  },
+  {
+    "embedding_text": "Folsom, Gold Country, California, United States, North America",
+    "latitude": 38.678,
+    "longitude": -121.1761,
+    "name": "Folsom",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "California",
+      "Gold Country"
+    ],
+    "path": "northamerica/unitedstates/california/goldcountry/folsom"
+  }
+]

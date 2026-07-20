@@ -1,13 +1,19 @@
 ---
+title: Mt Hotham
+type: location
+loc_type: feature
 latitude: -36.9753
 longitude: 147.1281
-snippet: Victoria's highest ski resort with reliable snow
-tags:
-- things_to_do
-- attraction
-title: Mt Hotham
-type: poi
-score: 7.9
+score: 7.7
+snippet: High Victorian Alps resort and walking country perched above the Great Alpine Road.
+sources:
+  - https://en.wikivoyage.org/wiki/Mount_Hotham
+  - https://www.mthotham.com.au/
+  - https://www.parks.vic.gov.au/places-to-see/sites/the-razorback-walk
 ---
 
-The highest alpine resort in Victoria at 1,861 metres, Mt Hotham is the place to go for reliable snow. The resort offers excellent advanced terrain and connects to Dinner Plain village, which adds a more relaxed, family-friendly option. Cross-country skiing is superb here too.
+Mt Hotham is one of the highest and most exposed resort areas in the Victorian Alps, with its village strung along the Great Alpine Road rather than tucked below the mountain. In winter it is known for reliable snow, strong intermediate and advanced terrain, and the unusual feeling of arriving at the top of the ski field before dropping into the runs.
+
+The place is not only a ski strip. In the snow-free months, Hotham becomes a high walking base for the [Razorback](/australiaandpacific/australia/victoria/mt_hotham/the_razorback), Mt Feathertop, the Falls to Hotham Alpine Crossing, snow gum country, and long views across the ridges of Alpine National Park. The weather can change fast, which is part of the point: this is a real alpine environment, not just a village with a view.
+
+Hotham works best for travellers who already want mountains. For a casual winter day it is expensive and logistically fussy; for skiers, walkers, and anyone driving the Great Alpine Road in good weather, it is one of Victoria's strongest high-country stops.

@@ -30,12 +30,15 @@ Summers are brutally hot across most of the state, with temperatures routinely h
 [Houston](/northamerica/unitedstates/texas/houston) |
 [San Antonio](/northamerica/unitedstates/texas/sanantonio) |
 [Arlington](/northamerica/unitedstates/texas/arlington) |
+[Bastrop](/northamerica/unitedstates/texas/bastrop) |
 [Big Bend National Park](/northamerica/unitedstates/texas/big_bend_national_park) |
 [Brenham](/northamerica/unitedstates/texas/brenham) |
+[Brownsville](/northamerica/unitedstates/texas/brownsville) |
 [Buffalo Gap](/northamerica/unitedstates/texas/buffalo_gap) |
 [Galveston](/northamerica/unitedstates/texas/galveston) |
 [Kerrville](/northamerica/unitedstates/texas/kerrville) |
 [Killeen](/northamerica/unitedstates/texas/killeen) |
+[Kilgore](/northamerica/unitedstates/texas/kilgore) |
 Matagorda County |
 [McKinney](/northamerica/unitedstates/texas/mckinney) |
 [Midland](/northamerica/unitedstates/texas/midland) |
@@ -43,6 +46,6 @@ Matagorda County |
 [Round Top](/northamerica/unitedstates/texas/round_top) |
 [San Angelo](/northamerica/unitedstates/texas/san_angelo) |
 [South Padre Island](/northamerica/unitedstates/texas/southpadreisland) |
-[Texarkana](/northamerica/unitedstates/texas/texarkana) |
+[Texarkana](/northamerica/unitedstates/arkansas/texarkana) |
 [The Woodlands](/northamerica/unitedstates/texas/the_woodlands) |
 [Waxahachie](/northamerica/unitedstates/texas/waxahachie)

@@ -7,6 +7,6 @@ tags: [shopping, market]
 score: 5.7
 ---
 
-A scattering of jewellery shops in central Mashhad specialise in turquoise mined in nearby [Neyshabur](/asia/iran/mashhad/neyshabur), the world's oldest source of the gemstone. Quality varies dramatically: the best Neyshabur turquoise is a deep sky blue with little or no matrix, and is sold by carat for prices comparable to fine semi-precious stones.
+A scattering of jewellery shops in central Mashhad specialise in turquoise mined in nearby [Neyshabur](/asia/iran/neyshabur), the world's oldest source of the gemstone. Quality varies dramatically: the best Neyshabur turquoise is a deep sky blue with little or no matrix, and is sold by carat for prices comparable to fine semi-precious stones.
 
 A reputable dealer will give you a paper certifying the stone and its grade. Mounted pieces (silver rings, pendants) are far cheaper than loose stones of equivalent quality and make easier travel souvenirs.

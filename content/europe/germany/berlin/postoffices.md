@@ -1,12 +1,12 @@
 ---
 done:
   poi_cleanup: '2026-04-20'
+score: 1.2
 snippet: Practical info on sending mail from Berlin
 tags:
 - practical_information
 title: Post offices
-type: poi
-score: 1.2
+type: theme
 ---
 
 Deutsche Post offices are scattered throughout Berlin. Most branches open between 8am and 6pm on weekdays, with reduced Saturday hours and closed Sundays. The main branch at Hauptbahnhof keeps longer hours.

@@ -2,6 +2,7 @@
 address: Domaine de Freÿr, 5540 Hastière
 latitude: 50.226
 longitude: 4.889
+score: 7.6
 snippet: Renaissance castle and formal French gardens beside the Meuse
 tags:
 - things_to_do

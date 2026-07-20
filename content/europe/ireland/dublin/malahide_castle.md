@@ -1,13 +1,17 @@
 ---
 address: Malahide, Co. Dublin
+image: malahide_castle.jpg
+image_attribution: DiKey
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Malahide_castle,_Co._Dublin.JPG
 latitude: 53.4502
 longitude: -6.1549
 score: 8.2
 snippet: 800-year-old castle occupied by the Talbot family until 1975, in 260 acres
   of parkland
 tags:
+- things_to_do
 - sight
-- day_trips
 title: Malahide Castle
 type: poi
 url: https://www.malahidecastleandgardens.ie

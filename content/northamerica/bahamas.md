@@ -7,17 +7,20 @@ image_attribution: albert kok
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Tigershark2.jpg
 latitude: 25.0343
+loc_type: country
 longitude: -77.3963
+quick_facts:
+  Currency: Bahamian dollar (pegged 1:1 to USD)
+  Dean's Blue Hole: World's deepest at 202 m
+  Islands and Cays: ~700 islands, only 30 inhabited
+  Population: ~410,000
+score: 0.57
+snippet: Atlantic archipelago of inhabited islands and cays, from Nassau's colonial
+  harbour to the Exumas' sandbars.
+tags:
+- thecaribbean
 title: Bahamas
 type: location
-quick_facts:
-  Population: ~410,000
-  Currency: Bahamian dollar (pegged 1:1 to USD)
-  Islands and Cays: ~700 islands, only 30 inhabited
-  Dean's Blue Hole: World's deepest at 202 m
-score: 0.57
-loc_type: country
-snippet: Atlantic archipelago of inhabited islands and cays, from Nassau's colonial harbour to the Exumas' sandbars.
 ---
 
 The Bahamas is an archipelago of some 700 islands and 2,400 cays scattered across 100,000 square miles of the Atlantic Ocean, beginning just 50 miles east of Florida and stretching south toward Cuba and Haiti. Only about 30 of those islands are inhabited, and the contrast between them is one of the country's great draws: Nassau offers casinos, cruise ships, and colonial architecture; the Exumas are a wilderness of sandbars and transparent water; Eleuthera has pink sand beaches and farm-to-table restaurants; Andros is the world's third-largest barrier reef with almost no tourists.

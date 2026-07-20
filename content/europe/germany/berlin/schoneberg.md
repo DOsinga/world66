@@ -5,7 +5,6 @@ image: schoneberg.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Berlin-schoeneberg_rathaus_20051202_049_part.jpg
 latitude: 52.4821
-loc_type: city
 longitude: 13.3552
 score: 0.51
 tags:

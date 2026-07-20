@@ -6,9 +6,12 @@ longitude: 2.3345468
 tags:
 - things_to_do
 - museum
+- art
 - south_pigalle
 score: 6.5
 snippet: Symbolist painter's house-studio crammed floor to ceiling with his own work
+source: wikivoyage
+source_url: https://en.wikivoyage.org/wiki/Paris/9th
 ---
 
 The Symbolist painter Gustave Moreau turned his family townhouse in the 9th into a museum of his own work before he died, and the result is one of the most singular small museums in Paris. Two soaring studio floors, connected by an extravagant spiral staircase, are hung frame-to-frame with his dreamlike mythological canvases, while the lower floors preserve his cramped private apartments exactly as he kept them.

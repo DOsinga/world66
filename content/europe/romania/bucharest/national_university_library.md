@@ -2,6 +2,7 @@
 address: Strada Boteanu 1, Bucharest
 latitude: 44.4398
 longitude: 26.0973
+score: 6.5
 snippet: Belle Epoque library on Revolution Square, burned in 1989 and rebuilt
 tags:
 - things_to_do

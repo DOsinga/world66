@@ -12,11 +12,21 @@ image_source: https://commons.wikimedia.org/wiki/File:2017-05-07_The_Forbidden_C
 latitude: 39.905714
 loc_type: city
 longitude: 116.391297
+quick_facts:
+  Emperors Housed: '24'
+  Forbidden City: 9,000 rooms
+  Great Wall: 90 min away
+  Population: 21 million
 score: 9.46
 snippet: China's northern capital, centred on imperial landmarks including the Forbidden
   City, Temple of Heaven, and Summer Palace.
 sources:
 - https://en.wikivoyage.org/wiki/Beijing
+tip: The Great Wall is the day trip — Mutianyu is restored and less mobbed than Badaling,
+  while Jinshanling is wilder. In the city, the Forbidden City sells timed tickets
+  online that sell out, and you need your passport to enter. Check the air-quality
+  index before a big day out. The subway is cheap, vast and signed in English; taxis
+  fight the traffic.
 title: Beijing
 type: location
 ---

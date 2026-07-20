@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Canaveral_National_Seashor
 latitude: 28.7675
 loc_type: feature
 longitude: -80.7769
-score: 0.52
+score: 7.46
 snippet: Protected Space Coast barrier island of wild beaches, shell mounds, lagoon
   water, and rocket views.
 sources:

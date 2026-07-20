@@ -1,6 +1,7 @@
 ---
 done:
   location_cleanup: '2026-04-09'
+  location_enrich: '2026-06-26'
 image: tekekvillage.jpg
 image_license: Copyrighted free use
 image_source: https://commons.wikimedia.org/wiki/File:Beach_of_Pulau_Tioman.JPG
@@ -14,7 +15,7 @@ title: Tekek Village
 type: location
 ---
 
-Tekek is the administrative heart of Tioman. The [airport](/asia/malaysia/tiomanisland/tekekvillage/tioman_airport), police station, hospital, government offices, and mosque are all here, along with a few well-stocked shops and an internet cafe. If you need to sort anything practical on the island, this is where you do it.
+Tekek is the administrative heart of [Tioman](/asia/malaysia/tiomanisland). The [airport](/asia/malaysia/tiomanisland/tekekvillage/tioman_airport), police station, hospital, government offices, and mosque are all here, along with a few well-stocked shops and an internet cafe. If you need to sort anything practical on the island, this is where you do it. The whole village sits inside the [Marine Park](/asia/malaysia/tiomanisland/tekekvillage/marine_park_centre), and the entry fee is collected at a small office near the jetty.
 
 The only paved road on Tioman runs south from Tekek to Berjaya Tioman Beach Resort. Heading north, the road narrows to a concrete path that you can cycle along (rent a bicycle in Tekek for around RM5 an hour) as far as Air Batang. Skip the moped rentals — the path includes stairs at the headland between Tekek and Air Batang that you cannot ride over.
 

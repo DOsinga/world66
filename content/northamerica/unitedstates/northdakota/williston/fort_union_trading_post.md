@@ -1,7 +1,11 @@
 ---
+latitude: 47.999444
+longitude: -104.040556
 score: 8.8
 tags:
 - things_to_do
+- sight
+- historic_site
 title: Fort Union Trading Post National Historic Site
 type: poi
 ---

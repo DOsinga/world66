@@ -12,9 +12,18 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49
 latitude: 3.151696
 loc_type: city
 longitude: 101.694237
+quick_facts:
+  Batu Caves: Temple up 272 steps
+  Name Means: '''Muddy confluence'''
+  Petronas Towers: 452 m, once world's tallest
+  Population: ~1.8 million
 score: 9.12
 snippet: Malaysian capital at the Klang-Gombak confluence, layered with colonial streets,
   rainforest parks, and glass towers.
+tip: Kuala Lumpur — 'KL' — grew up where two muddy rivers meet (that's what the name
+  means). The Petronas Twin Towers are the icon; book the skybridge ahead. The monorail
+  and LRT beat the heat and traffic. Eat your way through Jalan Alor's hawker stalls
+  and the Indian and Chinese quarters. The Batu Caves temple is a short ride north.
 title: Kuala Lumpur
 type: location
 ---
@@ -25,7 +34,7 @@ The [Petronas Twin Towers](/asia/malaysia/kualalumpur/petronastowers), 452m of t
 
 [Chinatown](/asia/malaysia/kualalumpur/chinatown) around [Petaling Street](/asia/malaysia/kualalumpur/petalingstreet), **Little India** in [Brickfields](/asia/malaysia/kualalumpur/brickfields), and the [Kampung Baru](/asia/malaysia/kualalumpur/kampungbaru) Malay quarter are the three neighbourhoods that give KL its character. Street food is where you should eat: hawker centres like [Jalan Alor](/asia/malaysia/kualalumpur/jalanalor) after dark for Chinese-Malay classics, the Indian banana-leaf restaurants of Brickfields, and **nasi lemak** (coconut rice with anchovies, peanuts, egg, and chilli paste) at any Malay stall in the morning.
 
-The colonial core around [Merdeka Square](/asia/malaysia/kualalumpur/merdekasquare) preserves the cricket pitch of the [Royal Selangor Club](/asia/malaysia/kualalumpur/royalselangorclub), the Moorish-revival [Sultan Abdul Samad Building](/asia/malaysia/kualalumpur/sultanabdulsamad), and the old [Railway Station](/asia/malaysia/kualalumpur/railwaystation) — all built by British architects who gave them the flourishes of Islamic architecture. The nearby [Jamek Mosque](/asia/malaysia/kualalumpur/jamekmosque) and [Masjid Negara](/asia/malaysia/kualalumpur/nationalmosque) (National Mosque) are both open to respectfully dressed non-Muslim visitors. The unmissable [Islamic Arts Museum](/asia/malaysia/kualalumpur/islamicartsmuseum) sits on the edge of the [Lake Gardens](/asia/malaysia/kualalumpur/lakegardens), within walking distance of both mosques.
+The colonial core around [Merdeka Square](/asia/malaysia/kualalumpur/merdekasquare) preserves the cricket pitch of the [Royal Selangor Club](/asia/malaysia/kualalumpur/royalselangorclub), the Moorish-revival [Sultan Abdul Samad Building](/asia/malaysia/kualalumpur/sultanabdulsamad), and the old [Railway Station](/asia/malaysia/kualalumpur/railwaystation) — all built by British architects who gave them the flourishes of Islamic architecture. The nearby [Jamek Mosque](/asia/malaysia/kualalumpur/jamekmosque) and [Masjid Negara](/asia/malaysia/kualalumpur/nationalmosque) (National Mosque) are both open to respectfully dressed non-Muslim visitors. The unmissable [Islamic Arts Museum](/asia/malaysia/kualalumpur/islamicartsmuseum) sits on the edge of the [Lake Gardens](/asia/malaysia/kualalumpur/lake_gardens), within walking distance of both mosques.
 
 For a half-day out of town, the [Batu Caves](/asia/malaysia/kualalumpur/batucaves) (a Hindu shrine inside a limestone cavern, reached by 272 steep steps painted in rainbow colours) are a striking trip 13 km north of the centre. The old hill station of **Fraser's Hill** and the **Genting Highlands** cooling resorts are both two hours away.
 

@@ -1,7 +1,11 @@
 ---
+latitude: 34.493256
+longitude: -96.995798
 score: 8.8
 tags:
 - things_to_do
+- museum
+- culture
 title: Chickasaw Cultural Center
 type: poi
 ---

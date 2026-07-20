@@ -1,7 +1,12 @@
 ---
+latitude: 47.987031
+longitude: -104.000407
 score: 7.2
 tags:
 - things_to_do
+- sight
+- historic_site
+- museum
 title: Fort Buford State Historic Site
 type: poi
 ---

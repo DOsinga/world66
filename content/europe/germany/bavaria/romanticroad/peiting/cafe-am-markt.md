@@ -1,4 +1,6 @@
 ---
+latitude: 47.7958
+longitude: 10.9291
 score: 4.9
 tags:
 - bars_and_cafes

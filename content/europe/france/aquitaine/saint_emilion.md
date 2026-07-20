@@ -4,7 +4,7 @@ done:
 latitude: 44.8936
 loc_type: city
 longitude: -0.1547
-score: 0.57
+score: 7.62
 snippet: Medieval Bordeaux wine town of limestone lanes, underground churches, and
   grand cru vineyards.
 sources:

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gorna_Oryahovitsa,panorama
 latitude: 43.1333
 loc_type: city
 longitude: 25.7
-score: 0.27
+score: 6.57
 snippet: North Bulgarian railway town beside Veliko Tarnovo, known for transport links
   and sudzhuk sausage.
 sources:

@@ -1,7 +1,11 @@
 ---
+latitude: 36.7075
+longitude: -110.2525
 score: 7.8
 tags:
 - things_to_do
+- museum
+- history
 title: Navajo Code Talkers Exhibit
 type: poi
 ---

@@ -18,3 +18,5 @@ The Dam is Amsterdam's central square, named for the original dam across the Ams
 The Beurs van Berlage, built in 1903 by H.P. Berlage, was Amsterdam's commodities exchange and is one of the key buildings in Dutch architectural history — the point at which Dutch architecture broke from historicism and began moving toward modernism. The brick facades and the interior with their exposed iron are well worth the brief walk from the Dam.
 
 Kalverstraat and Nieuwendijk, the main pedestrian shopping streets running south from the Dam, are unremarkable. Walk parallel instead on the smaller Nes, Rokin, or [Spui](/europe/netherlands/amsterdam/spui) for bookshops, cafes, and the city's publishing trade. Spui square, at the southern end, has a Friday book market and is surrounded by some of Amsterdam's best literary cafes.
+
+East of the Dam, entirely enclosed within Centrum, [De Wallen](/europe/netherlands/amsterdam/de_wallen) — the Red Light District — is Amsterdam's oldest quarter, with a medieval street pattern that predates the canal ring by centuries.

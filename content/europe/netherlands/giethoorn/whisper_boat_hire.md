@@ -1,8 +1,8 @@
 ---
 title: "Whisper Boat Hire"
 type: poi
-latitude: 52.7406
-longitude: 6.0763
+latitude: 52.7253
+longitude: 6.0900
 snippet: "The definitive Giethoorn experience — drift the canals in a near-silent electric punt"
 tags: [things_to_do, activity]
 story: >

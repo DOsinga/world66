@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:AsconaAnsicht.jpg
 latitude: 46.155
 loc_type: city
 longitude: 8.768
-score: 0.5
+score: 7.4
 snippet: Ticino lakeside town on Lake Maggiore, with palm-lined promenades and bohemian
   Monte Verità.
 sources:

@@ -2,13 +2,14 @@
 address: Calle 11 No 6-94, Plaza Bolivar
 latitude: 4.5977
 longitude: -74.0754
-snippet: "Birthplace of Colombian independence on Plaza Bolivar"
+score: 7.6
+snippet: Birthplace of Colombian independence on Plaza Bolivar
 tags:
 - things_to_do
 - museum
+- la_candelaria
 title: Museo 20 de Julio
 type: poi
-score: 7.6
 ---
 
 The Casa del Florero, on the northeast corner of Plaza Bolivar, is where the events of 20 July 1810 sparked Colombia's independence movement. The museum traces the nine-year struggle through documents, weapons, and period artefacts.

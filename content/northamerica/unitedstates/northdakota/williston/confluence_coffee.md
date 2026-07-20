@@ -2,8 +2,9 @@
 score: 5.5
 tags:
 - bars_and_cafes
+- cafe
 title: Confluence Coffee
-type: poi
+type: theme
 ---
 
 Named for the meeting of the Missouri and Yellowstone rivers that defines the geography of the area, Confluence Coffee is Williston's most established independent cafe. The espresso drinks are well-made, the pour-overs are taken seriously, and there is usually a seasonal pastry worth having alongside. The space is comfortable rather than stylish — mismatched furniture, local art on the walls, reliable wifi — and it functions as the informal living room for the portion of Williston's population that works remotely or simply wants somewhere to be that is not a chain.

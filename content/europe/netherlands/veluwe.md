@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:De_Hoge_Veluwe_National_Pa
 latitude: 52.1
 loc_type: feature
 longitude: 5.9
-score: 0.55
+score: 7.56
 snippet: Broad Gelderland landscape of heath, forest, sand drifts, museums, and royal
   estates.
 sources:

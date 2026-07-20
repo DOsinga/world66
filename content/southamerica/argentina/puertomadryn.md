@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Amanecer_en_Puerto_Madryn,
 latitude: -42.7673
 loc_type: city
 longitude: -65.0366
-score: 0.55
+score: 7.56
 snippet: Patagonian port city on Golfo Nuevo, best known for whales, sea lions, and
   Valdes wildlife trips.
 sources:

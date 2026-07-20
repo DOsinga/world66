@@ -2,7 +2,8 @@
 latitude: 54.9396
 loc_type: city
 longitude: 10.2562
-score: 0.36
+score: 6.9
+snippet: Small working harbour at Ærø's northern tip, with a shipyard and ferry links to southern Jutland.
 tags:
 - things_to_do
 - sight

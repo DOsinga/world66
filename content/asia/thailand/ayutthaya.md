@@ -13,9 +13,9 @@ snippet: Former Siamese capital of island ruins, brick prangs, and riverbank mon
 title: Ayutthaya
 type: location
 image: ayutthaya.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Ayutthaya_Historical_Park_1.jpg
-image_license: CC BY-SA 4.0
-image_attribution: Mr.Peerapong Prasutr
+image_source: https://commons.wikimedia.org/wiki/File:Ayutthaya,_Elephant_festival,_Thailand.jpg
+image_license: CC BY 4.0
+image_attribution: Vyacheslav Argenberg
 ---
 
 For over four centuries, Ayutthaya was the capital of Siam and one of the largest cities in the world. Founded in 1350 on an island at the confluence of three rivers, it grew into a cosmopolitan trading hub that hosted merchants from China, Japan, India, Persia, and Europe. In 1767, Burmese armies burned it to the ground.

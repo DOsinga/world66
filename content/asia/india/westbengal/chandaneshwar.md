@@ -4,7 +4,7 @@ done:
 latitude: 21.6285
 loc_type: city
 longitude: 87.4577
-score: 0.18
+score: 6.17
 snippet: Border temple village near Digha, centred on a busy Shiva shrine and coastal
   day trips.
 sources:

@@ -2,15 +2,15 @@
 address: Lombard St between Hyde St and Leavenworth St
 latitude: 37.8021
 longitude: -122.4187
-snippet: "The crookedest street in the world -- eight hairpin turns down a flower-lined hill"
+score: 6.9
+snippet: The crookedest street in the world -- eight hairpin turns down a flower-lined
+  hill
 tags:
 - things_to_do
 - sight
 - russian_hill
 title: Lombard Street
-neighbourhood: Russian Hill
 type: poi
-score: 6.9
 ---
 
 The one-block stretch of Lombard Street between Hyde and Leavenworth is famously billed as the crookedest street in the world. Eight hairpin turns zigzag down a 27-percent grade, lined with hydrangeas and perfectly maintained gardens. It was built this way in 1922 because the hill was simply too steep for cars to drive straight down.

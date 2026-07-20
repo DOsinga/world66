@@ -1,0 +1,302 @@
+{
+  "africa/libya/benghazi": {
+    "culture": 6,
+    "nature": 3,
+    "leisure": 1,
+    "adventure": 8
+  },
+  "europe/malta/marsaxlokk": {
+    "culture": 5,
+    "nature": 5,
+    "leisure": 6,
+    "adventure": 1
+  },
+  "europe/montenegro/budva": {
+    "culture": 6,
+    "nature": 7,
+    "leisure": 8,
+    "adventure": 3
+  },
+  "europe/germany/hessen/giessen": {
+    "culture": 4,
+    "nature": 4,
+    "leisure": 4,
+    "adventure": 1
+  },
+  "europe/spain/aragon/huesca": {
+    "culture": 5,
+    "nature": 6,
+    "leisure": 5,
+    "adventure": 3
+  },
+  "europe/spain/galicia/baiona": {
+    "culture": 5,
+    "nature": 6,
+    "leisure": 7,
+    "adventure": 2
+  },
+  "asia/kuwait/failaka": {
+    "culture": 5,
+    "nature": 4,
+    "leisure": 3,
+    "adventure": 4
+  },
+  "europe/faroeislands/eysturoy/eii": {
+    "culture": 3,
+    "nature": 9,
+    "leisure": 3,
+    "adventure": 5
+  },
+  "africa/gabon/lambarene": {
+    "culture": 5,
+    "nature": 8,
+    "leisure": 2,
+    "adventure": 5
+  },
+  "europe/france/midi/languedoc/pezenas": {
+    "culture": 7,
+    "nature": 4,
+    "leisure": 7,
+    "adventure": 1
+  },
+  "europe/italy/calabria/crotone": {
+    "culture": 6,
+    "nature": 5,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "europe/russia/ossetia": {
+    "culture": 6,
+    "nature": 8,
+    "leisure": 2,
+    "adventure": 7
+  },
+  "asia/philippines/guimaras": {
+    "culture": 4,
+    "nature": 7,
+    "leisure": 6,
+    "adventure": 3
+  },
+  "asia/india/assam/kaziranga": {
+    "culture": 3,
+    "nature": 10,
+    "leisure": 4,
+    "adventure": 5
+  },
+  "asia/indonesia/sumatra/pulaunias": {
+    "culture": 6,
+    "nature": 8,
+    "leisure": 5,
+    "adventure": 5
+  },
+  "northamerica/mexico/barradenavidad": {
+    "culture": 4,
+    "nature": 6,
+    "leisure": 7,
+    "adventure": 2
+  },
+  "asia/srilanka/pinnawela": {
+    "culture": 4,
+    "nature": 7,
+    "leisure": 4,
+    "adventure": 2
+  },
+  "asia/india/rajasthan/lachhmangarh": {
+    "culture": 6,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 3
+  },
+  "australiaandpacific/australia/tasmania/launceston": {
+    "culture": 5,
+    "nature": 7,
+    "leisure": 6,
+    "adventure": 3
+  },
+  "asia/saudiarabia/khamis": {
+    "culture": 4,
+    "nature": 5,
+    "leisure": 3,
+    "adventure": 4
+  },
+  "europe/malta/mellieha": {
+    "culture": 5,
+    "nature": 6,
+    "leisure": 7,
+    "adventure": 2
+  },
+  "australiaandpacific/solomonislands/honiara": {
+    "culture": 5,
+    "nature": 8,
+    "leisure": 3,
+    "adventure": 5
+  },
+  "southamerica/colombia/salento": {
+    "culture": 5,
+    "nature": 8,
+    "leisure": 6,
+    "adventure": 4
+  },
+  "europe/slovenia/lipica": {
+    "culture": 5,
+    "nature": 5,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/lydford": {
+    "culture": 4,
+    "nature": 8,
+    "leisure": 5,
+    "adventure": 4
+  },
+  "europe/germany/bavaria/regensburg": {
+    "culture": 8,
+    "nature": 4,
+    "leisure": 7,
+    "adventure": 1
+  },
+  "asia/china/zhejiang/wenzhou": {
+    "culture": 5,
+    "nature": 5,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "northamerica/unitedstates/newjersey/lambertville": {
+    "culture": 4,
+    "nature": 5,
+    "leisure": 5,
+    "adventure": 1
+  },
+  "northamerica/canada/britishcolumbia/coquitlam": {
+    "culture": 3,
+    "nature": 6,
+    "leisure": 4,
+    "adventure": 2
+  },
+  "northamerica/unitedstates/california/orangecounty/lagunabeach": {
+    "culture": 5,
+    "nature": 7,
+    "leisure": 8,
+    "adventure": 2
+  },
+  "northamerica/thecaribbean/virginislands/charlotteamalie": {
+    "culture": 6,
+    "nature": 6,
+    "leisure": 8,
+    "adventure": 2
+  },
+  "northamerica/unitedstates/oklahoma/wewoka": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 1
+  },
+  "africa/benin/ouidah": {
+    "culture": 8,
+    "nature": 4,
+    "leisure": 3,
+    "adventure": 4
+  },
+  "australiaandpacific/tonga/vavauisland": {
+    "culture": 4,
+    "nature": 9,
+    "leisure": 6,
+    "adventure": 5
+  },
+  "europe/france/midi/provence/roussillon": {
+    "culture": 6,
+    "nature": 6,
+    "leisure": 8,
+    "adventure": 2
+  },
+  "northamerica/unitedstates/alaska/fairbanks": {
+    "culture": 5,
+    "nature": 9,
+    "leisure": 4,
+    "adventure": 7
+  },
+  "asia/unitedarabemirates/sharjah": {
+    "culture": 7,
+    "nature": 3,
+    "leisure": 6,
+    "adventure": 2
+  },
+  "europe/unitedkingdom/england/newcastle_and_north_east/sunderland": {
+    "culture": 4,
+    "nature": 4,
+    "leisure": 4,
+    "adventure": 1
+  },
+  "europe/italy/tuscany/florence": {
+    "culture": 10,
+    "nature": 4,
+    "leisure": 9,
+    "adventure": 1
+  },
+  "northamerica/unitedstates/nebraska/lincoln": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 1
+  },
+  "northamerica/canada/newfoundland/grosmornenationa": {
+    "culture": 3,
+    "nature": 10,
+    "leisure": 5,
+    "adventure": 6
+  },
+  "europe/italy/liguria/italianriviera/rivieradellepalme/altare": {
+    "culture": 4,
+    "nature": 5,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "asia/india/karnataka/hubli": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 2
+  },
+  "asia/southkorea/seoul": {
+    "culture": 9,
+    "nature": 3,
+    "leisure": 9,
+    "adventure": 1
+  },
+  "europe/italy/abruzzo/gransasso": {
+    "culture": 3,
+    "nature": 9,
+    "leisure": 4,
+    "adventure": 6
+  },
+  "asia/laos/si_phan_don": {
+    "culture": 4,
+    "nature": 8,
+    "leisure": 6,
+    "adventure": 4
+  },
+  "europe/italy/lazio/ciceo_national_par": {
+    "culture": 3,
+    "nature": 8,
+    "leisure": 5,
+    "adventure": 3
+  },
+  "africa/togo/kara": {
+    "culture": 4,
+    "nature": 5,
+    "leisure": 2,
+    "adventure": 4
+  },
+  "asia/india/tamilnadu/trichy": {
+    "culture": 8,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 2
+  },
+  "northamerica/unitedstates/rhodeisland/providence": {
+    "culture": 7,
+    "nature": 4,
+    "leisure": 6,
+    "adventure": 1
+  }
+}

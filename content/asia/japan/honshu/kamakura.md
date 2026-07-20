@@ -8,9 +8,18 @@ image_source: https://commons.wikimedia.org/wiki/File:230128_Kamakura_Daibutsu_J
 latitude: 35.3197
 loc_type: city
 longitude: 139.5502
+quick_facts:
+  Capital Years: 1185–1333
+  Great Buddha: 13.4 m, now open-air
+  Surf Beach: Tokyo's nearest
+  Temples: 65+ in the hills
 score: 9.45
 snippet: Ancient Japanese warrior capital where Zen temples and samurai history sit
   between wooded hills and the sea.
+tip: Kamakura's Great Buddha sits in the open air — its wooden hall was washed away
+  by a tsunami centuries ago and never rebuilt. It's an easy day trip from Tokyo,
+  walkable and full of temples, with a beach. The Hokokuji bamboo grove is a quieter
+  alternative to Kyoto's. Hike the old trails between temples to escape the crowds.
 title: Kamakura
 type: location
 ---

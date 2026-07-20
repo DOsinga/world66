@@ -8,6 +8,7 @@ snippet: Unpretentious central Sydney pub on George Street
 tags:
 - bars_and_cafes
 - bar
+- cbd
 title: Three Wise Monkeys
 type: poi
 score: 5.6

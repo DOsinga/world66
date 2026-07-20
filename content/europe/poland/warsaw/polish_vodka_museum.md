@@ -1,6 +1,6 @@
 ---
-latitude: 52.247
-longitude: 20.991
+latitude: 52.2528
+longitude: 21.0314
 score: 7.1
 snippet: Interactive museum dedicated to the history and science of Polish vodka,
   with tasting included

@@ -1,7 +1,11 @@
 ---
+latitude: 48.150125
+longitude: -103.624441
 score: 6.5
 tags:
 - things_to_do
+- museum
+- gallery
 title: James Memorial Arts Center
 type: poi
 ---

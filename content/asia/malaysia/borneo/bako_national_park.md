@@ -9,7 +9,7 @@ story: >
 score: 8.8
 ---
 
-Bako National Park is the classic first wildlife trip from [Kuching](/asia/malaysia/kuching). It packs beaches, mangroves, rainforest, sandstone cliffs, pitcher plants, macaques, bearded pigs, and proboscis monkeys into a compact peninsula reached by road and boat.
+Bako National Park is the classic first wildlife trip from [Kuching](/asia/malaysia/sarawak/kuching). It packs beaches, mangroves, rainforest, sandstone cliffs, pitcher plants, macaques, bearded pigs, and proboscis monkeys into a compact peninsula reached by road and boat.
 
 Trails range from short boardwalk strolls to sweaty day walks. Stay overnight if you can; the park changes character once the day visitors leave.
 

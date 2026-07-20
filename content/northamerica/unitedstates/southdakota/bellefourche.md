@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cowboys_near_Belle_Fourche
 latitude: 44.6638
 loc_type: city
 longitude: -103.8591
-score: 0.31
+score: 6.72
 snippet: Northern Black Hills cattle town best known for its center-of-the-nation
   marker and rodeo history.
 sources:

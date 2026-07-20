@@ -2,6 +2,7 @@
 done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-05-17'
+  major_city_neighborhoods: '2026-06-25'
   poi_cleanup: '2026-04-21'
 image: berlin.jpg
 image_attribution: Norbert Nagel
@@ -10,9 +11,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Brandenburg_Gate_-_Branden
 latitude: 52.517389
 loc_type: city
 longitude: 13.395131
+quick_facts:
+  Bridges: More than Venice
+  Museum Island: Five museums, UNESCO-listed
+  Population: ~3.8 million
+  The Wall: Divided the city 1961–1989
 score: 9.29
 snippet: German capital where Wall remnants, monumental landmarks, and creative districts
   share the urban fabric.
+tip: Berlin is a sprawling, gritty, endlessly creative capital where history is everywhere
+  — the Brandenburg Gate, remnants of the Wall, the sobering Holocaust Memorial. It
+  is poorer and edgier than you'd expect of a major capital ('poor but sexy', a former
+  mayor said). The U-Bahn and S-Bahn run all night at weekends. Nightlife is legendary
+  and starts very late.
 title: Berlin
 type: location
 ---

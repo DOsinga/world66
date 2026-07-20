@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bontoc_Southern_Leyte.jpg
 latitude: 10.35
 loc_type: city
 longitude: 124.97
-score: 0.25
+score: 6.5
 snippet: Quiet Southern Leyte coastal town on Sogod Bay, with a river mouth, port,
   and slow local rhythm.
 sources:

@@ -1,16 +1,15 @@
 ---
 address: Clarion Alley, between Mission St and Valencia St
-latitude: 37.7630
+latitude: 37.763
 longitude: -122.4206
+score: 8.2
 snippet: Mission alley packed with street art, grittier and more political than Balmy
 tags:
 - things_to_do
 - sight
 - mission_district
 title: Clarion Alley
-neighbourhood: Mission District
 type: poi
-score: 8.2
 ---
 
 Clarion Alley runs one block between Mission and Valencia streets, and nearly every surface is covered in murals, wheat-pastes, and graffiti. Where [Balmy Alley](/northamerica/unitedstates/california/sanfrancisco/balmy_alley) is more community-curated and culturally focused, Clarion is rawer -- the art is more political, more confrontational, and changes constantly. New pieces go up over old ones, and what you see today may be gone next month.

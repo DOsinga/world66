@@ -3,8 +3,8 @@ image: sultanahmet.jpg
 image_attribution: laszlo-photo on Flickr
 image_license: CC BY 2.0
 image_source: https://www.flickr.com/photos/40467171@N00/3892554473
-latitude: 41.0054
-longitude: 28.9768
+latitude: 41.0079
+longitude: 28.9772
 tags:
 - things_to_do
 - neighbourhood

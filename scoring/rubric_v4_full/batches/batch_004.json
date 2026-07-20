@@ -1,0 +1,585 @@
+[
+  {
+    "embedding_text": "Durango, Colorado, United States, North America",
+    "latitude": 37.276948,
+    "longitude": -107.8766,
+    "name": "Durango",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Colorado"
+    ],
+    "path": "northamerica/unitedstates/colorado/durango"
+  },
+  {
+    "embedding_text": "Onstwedde, Netherlands, Europe",
+    "latitude": 53.036791,
+    "longitude": 7.038894,
+    "name": "Onstwedde",
+    "parent_chain": [
+      "Europe",
+      "Netherlands"
+    ],
+    "path": "europe/netherlands/onstwedde"
+  },
+  {
+    "embedding_text": "Grants, New Mexico, United States, North America",
+    "latitude": 35.1473,
+    "longitude": -107.8514,
+    "name": "Grants",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "New Mexico"
+    ],
+    "path": "northamerica/unitedstates/newmexico/grants"
+  },
+  {
+    "embedding_text": "Meaux, Around Paris, France, Europe",
+    "latitude": 48.958271,
+    "longitude": 2.877354,
+    "name": "Meaux",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Around Paris"
+    ],
+    "path": "europe/france/around_paris/meaux"
+  },
+  {
+    "embedding_text": "Borkum, East Frisian Islands, Lower Saxony, Germany, Europe",
+    "latitude": 53.586267,
+    "longitude": 6.691745,
+    "name": "Borkum",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Lower Saxony",
+      "East Frisian Islands"
+    ],
+    "path": "europe/germany/lowersaxony/east_frisian_islands/borkum"
+  },
+  {
+    "embedding_text": "Crystal River, Florida, United States, North America",
+    "latitude": 28.9025,
+    "longitude": -82.5926,
+    "name": "Crystal River",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Florida"
+    ],
+    "path": "northamerica/unitedstates/florida/crystalriver"
+  },
+  {
+    "embedding_text": "Pashupatinath, Nepal, Asia",
+    "latitude": 27.7107,
+    "longitude": 85.3481,
+    "name": "Pashupatinath",
+    "parent_chain": [
+      "Asia",
+      "Nepal"
+    ],
+    "path": "asia/nepal/pashupatinath"
+  },
+  {
+    "embedding_text": "Michoac\u00e1n, Mexico, North America",
+    "latitude": 19.207098,
+    "longitude": -101.878113,
+    "name": "Michoac\u00e1n",
+    "parent_chain": [
+      "North America",
+      "Mexico"
+    ],
+    "path": "northamerica/mexico/michoacan"
+  },
+  {
+    "embedding_text": "Springfield, Massachusetts, United States, North America",
+    "latitude": 42.1015,
+    "longitude": -72.5898,
+    "name": "Springfield",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Massachusetts"
+    ],
+    "path": "northamerica/unitedstates/massachusetts/springfield"
+  },
+  {
+    "embedding_text": "Wudalianchi, Heilongjiang Province, China, Asia",
+    "latitude": 48.6335,
+    "longitude": 126.1114,
+    "name": "Wudalianchi",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Heilongjiang Province"
+    ],
+    "path": "asia/china/heilongjiang/wudalianchi"
+  },
+  {
+    "embedding_text": "Koror, Palau, Australia, Pacific & Antarctica",
+    "latitude": 7.226,
+    "longitude": 134.1312,
+    "name": "Koror",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Palau"
+    ],
+    "path": "australiaandpacific/palau/koror"
+  },
+  {
+    "embedding_text": "Banja Luka, Bosnia and Herzegovina, Europe",
+    "latitude": 44.773,
+    "longitude": 17.196,
+    "name": "Banja Luka",
+    "parent_chain": [
+      "Europe",
+      "Bosnia and Herzegovina"
+    ],
+    "path": "europe/bosniaandherzegovina/banjaluka"
+  },
+  {
+    "embedding_text": "Porirua, Greater Wellington, North Island, New Zealand, Australia, Pacific & Antarctica",
+    "latitude": -41.1333,
+    "longitude": 174.85,
+    "name": "Porirua",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "New Zealand",
+      "North Island",
+      "Greater Wellington"
+    ],
+    "path": "australiaandpacific/newzealand/north_island/greater_wellington/porirua"
+  },
+  {
+    "embedding_text": "Ixtapa-Zihuatanejo, Mexico, North America",
+    "latitude": 17.6392,
+    "longitude": -101.5518,
+    "name": "Ixtapa-Zihuatanejo",
+    "parent_chain": [
+      "North America",
+      "Mexico"
+    ],
+    "path": "northamerica/mexico/ixtapazihuatanejo"
+  },
+  {
+    "embedding_text": "Morwell, Victoria, Australia, Australia, Pacific & Antarctica",
+    "latitude": -38.2363,
+    "longitude": 146.3978,
+    "name": "Morwell",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "Victoria"
+    ],
+    "path": "australiaandpacific/australia/victoria/morwell"
+  },
+  {
+    "embedding_text": "Navoi, Uzbekistan, Asia",
+    "latitude": 40.1003,
+    "longitude": 65.3792,
+    "name": "Navoi",
+    "parent_chain": [
+      "Asia",
+      "Uzbekistan"
+    ],
+    "path": "asia/uzbekistan/navoi"
+  },
+  {
+    "embedding_text": "Awash National Park, Ethiopia, Africa",
+    "latitude": 9.1425,
+    "longitude": 40.0,
+    "name": "Awash National Park",
+    "parent_chain": [
+      "Africa",
+      "Ethiopia"
+    ],
+    "path": "africa/ethiopia/awashnationalpark"
+  },
+  {
+    "embedding_text": "San Blas Islands, Panama, North America",
+    "latitude": 9.5817,
+    "longitude": -78.9167,
+    "name": "San Blas Islands",
+    "parent_chain": [
+      "North America",
+      "Panama"
+    ],
+    "path": "northamerica/panama/sanblasislands"
+  },
+  {
+    "embedding_text": "Metlaoui, Tunisia, Africa",
+    "latitude": 34.315723,
+    "longitude": 8.401829,
+    "name": "Metlaoui",
+    "parent_chain": [
+      "Africa",
+      "Tunisia"
+    ],
+    "path": "africa/tunisia/metlaoui"
+  },
+  {
+    "embedding_text": "Villerville, Normandy and Brittany, France, Europe",
+    "latitude": 49.401667,
+    "longitude": 0.129444,
+    "name": "Villerville",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Normandy and Brittany"
+    ],
+    "path": "europe/france/normandybrittany/villerville"
+  },
+  {
+    "embedding_text": "Ventura, Central Coast, California, United States, North America",
+    "latitude": 34.2746,
+    "longitude": -119.229,
+    "name": "Ventura",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "California",
+      "Central Coast"
+    ],
+    "path": "northamerica/unitedstates/california/centralcoast/ventura"
+  },
+  {
+    "embedding_text": "Gravina in Puglia, Puglia, Italy, Europe",
+    "latitude": 40.819725,
+    "longitude": 16.422779,
+    "name": "Gravina in Puglia",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Puglia"
+    ],
+    "path": "europe/italy/puglia/gravina_in_puglia"
+  },
+  {
+    "embedding_text": "Utrecht, Netherlands, Europe",
+    "latitude": 52.090701,
+    "longitude": 5.121563,
+    "name": "Utrecht",
+    "parent_chain": [
+      "Europe",
+      "Netherlands"
+    ],
+    "path": "europe/netherlands/utrecht"
+  },
+  {
+    "embedding_text": "Eureka Springs, Arkansas, United States, North America",
+    "latitude": 36.4001,
+    "longitude": -93.7392,
+    "name": "Eureka Springs",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Arkansas"
+    ],
+    "path": "northamerica/unitedstates/arkansas/eurekasprings"
+  },
+  {
+    "embedding_text": "K\u00e4rdla, Hiiumaa, Estonia, Europe",
+    "latitude": 59.001242,
+    "longitude": 22.741145,
+    "name": "K\u00e4rdla",
+    "parent_chain": [
+      "Europe",
+      "Estonia",
+      "Hiiumaa"
+    ],
+    "path": "europe/estonia/hiiumaa/krdla"
+  },
+  {
+    "embedding_text": "Krasnodar, Russia, Europe",
+    "latitude": 45.035153,
+    "longitude": 38.97724,
+    "name": "Krasnodar",
+    "parent_chain": [
+      "Europe",
+      "Russia"
+    ],
+    "path": "europe/russia/krasnodar"
+  },
+  {
+    "embedding_text": "Olympic National Park, Washington, United States, North America",
+    "latitude": 47.9694,
+    "longitude": -123.4986,
+    "name": "Olympic National Park",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Washington"
+    ],
+    "path": "northamerica/unitedstates/washington/olympicnationalpark"
+  },
+  {
+    "embedding_text": "St. Andrews, Scotland, United Kingdom, Europe",
+    "latitude": 56.34039,
+    "longitude": -2.795584,
+    "name": "St. Andrews",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "Scotland"
+    ],
+    "path": "europe/unitedkingdom/scotland/standrews1"
+  },
+  {
+    "embedding_text": "Assur, Iraq, Asia",
+    "latitude": 35.454833,
+    "longitude": 43.259778,
+    "name": "Assur",
+    "parent_chain": [
+      "Asia",
+      "Iraq"
+    ],
+    "path": "asia/iraq/assur"
+  },
+  {
+    "embedding_text": "Izumo, Honshu, Japan, Asia",
+    "latitude": 35.366889,
+    "longitude": 132.754883,
+    "name": "Izumo",
+    "parent_chain": [
+      "Asia",
+      "Japan",
+      "Honshu"
+    ],
+    "path": "asia/japan/honshu/izumo"
+  },
+  {
+    "embedding_text": "Hateruma Island, Ryukyu islands, Japan, Asia",
+    "latitude": 24.058746,
+    "longitude": 123.782155,
+    "name": "Hateruma Island",
+    "parent_chain": [
+      "Asia",
+      "Japan",
+      "Ryukyu islands"
+    ],
+    "path": "asia/japan/ryukyuislands/haterumaisland"
+  },
+  {
+    "embedding_text": "Gatineau (Hull), Qu\u00e9bec, Canada, North America",
+    "latitude": 45.440584,
+    "longitude": -75.732682,
+    "name": "Gatineau (Hull)",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "Qu\u00e9bec"
+    ],
+    "path": "northamerica/canada/quebec/hull"
+  },
+  {
+    "embedding_text": "Kittery, Maine, United States, North America",
+    "latitude": 43.0857,
+    "longitude": -70.7437,
+    "name": "Kittery",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Maine"
+    ],
+    "path": "northamerica/unitedstates/maine/kittery"
+  },
+  {
+    "embedding_text": "Mannheim, Baden-W\u00fcrttemberg, Germany, Europe",
+    "latitude": 49.4875,
+    "longitude": 8.466,
+    "name": "Mannheim",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Baden-W\u00fcrttemberg"
+    ],
+    "path": "europe/germany/badenwrttemberg/mannheim"
+  },
+  {
+    "embedding_text": "Yekaterinburg, Russia, Europe",
+    "latitude": 56.838011,
+    "longitude": 60.597474,
+    "name": "Yekaterinburg",
+    "parent_chain": [
+      "Europe",
+      "Russia"
+    ],
+    "path": "europe/russia/ekaterinoburg"
+  },
+  {
+    "embedding_text": "Kui Buri, Thailand, Asia",
+    "latitude": 12.069553,
+    "longitude": 99.872073,
+    "name": "Kui Buri",
+    "parent_chain": [
+      "Asia",
+      "Thailand"
+    ],
+    "path": "asia/thailand/kui_buri"
+  },
+  {
+    "embedding_text": "S\u00f8nderborg, Denmark, Europe",
+    "latitude": 54.908919,
+    "longitude": 9.7898,
+    "name": "S\u00f8nderborg",
+    "parent_chain": [
+      "Europe",
+      "Denmark"
+    ],
+    "path": "europe/denmark/sonderborg"
+  },
+  {
+    "embedding_text": "Iowa City, Iowa, United States, North America",
+    "latitude": 41.6612,
+    "longitude": -91.5299,
+    "name": "Iowa City",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Iowa"
+    ],
+    "path": "northamerica/unitedstates/iowa/iowacity"
+  },
+  {
+    "embedding_text": "Yalta, Crimea, Ukraine, Europe",
+    "latitude": 44.498787,
+    "longitude": 34.168936,
+    "name": "Yalta",
+    "parent_chain": [
+      "Europe",
+      "Ukraine",
+      "Crimea"
+    ],
+    "path": "europe/ukraine/crimea/yalta"
+  },
+  {
+    "embedding_text": "Silay, Negros island, Philippines, Asia",
+    "latitude": 10.7994,
+    "longitude": 122.9756,
+    "name": "Silay",
+    "parent_chain": [
+      "Asia",
+      "Philippines",
+      "Negros island"
+    ],
+    "path": "asia/philippines/negrosisland/silay"
+  },
+  {
+    "embedding_text": "Rapid City, South Dakota, United States, North America",
+    "latitude": 44.0714,
+    "longitude": -103.2208,
+    "name": "Rapid City",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "South Dakota"
+    ],
+    "path": "northamerica/unitedstates/southdakota/rapidcity"
+  },
+  {
+    "embedding_text": "Lowicz, Poland, Europe",
+    "latitude": 52.101224,
+    "longitude": 19.947461,
+    "name": "Lowicz",
+    "parent_chain": [
+      "Europe",
+      "Poland"
+    ],
+    "path": "europe/poland/lowicz"
+  },
+  {
+    "embedding_text": "Karlsruhe, Baden-W\u00fcrttemberg, Germany, Europe",
+    "latitude": 49.0069,
+    "longitude": 8.4037,
+    "name": "Karlsruhe",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Baden-W\u00fcrttemberg"
+    ],
+    "path": "europe/germany/badenwrttemberg/karlsruhe"
+  },
+  {
+    "embedding_text": "Thakhek, Laos, Asia",
+    "latitude": 17.403,
+    "longitude": 104.8338,
+    "name": "Thakhek",
+    "parent_chain": [
+      "Asia",
+      "Laos"
+    ],
+    "path": "asia/laos/thakhek"
+  },
+  {
+    "embedding_text": "Siguatepeque, Honduras, North America",
+    "latitude": 14.5862,
+    "longitude": -87.8317,
+    "name": "Siguatepeque",
+    "parent_chain": [
+      "North America",
+      "Honduras"
+    ],
+    "path": "northamerica/honduras/siguatepeque"
+  },
+  {
+    "embedding_text": "Tallahassee, The Panhandle, Florida, United States, North America",
+    "latitude": 30.4381,
+    "longitude": -84.2807,
+    "name": "Tallahassee",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Florida",
+      "The Panhandle"
+    ],
+    "path": "northamerica/unitedstates/florida/thepanhandle/tallahassee"
+  },
+  {
+    "embedding_text": "Bukoba, Tanzania, Africa",
+    "latitude": -1.3312,
+    "longitude": 31.8126,
+    "name": "Bukoba",
+    "parent_chain": [
+      "Africa",
+      "Tanzania"
+    ],
+    "path": "africa/tanzania/bukoba"
+  },
+  {
+    "embedding_text": "Kavala, Greece, Europe",
+    "latitude": 40.9369,
+    "longitude": 24.4123,
+    "name": "Kavala",
+    "parent_chain": [
+      "Europe",
+      "Greece"
+    ],
+    "path": "europe/greece/kavala"
+  },
+  {
+    "embedding_text": "Ledu, Qinghai Province, China, Asia",
+    "latitude": 36.4796,
+    "longitude": 102.3991,
+    "name": "Ledu",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Qinghai Province"
+    ],
+    "path": "asia/china/qinghai/ledu"
+  },
+  {
+    "embedding_text": "Margaret River, Western Australia, Australia, Australia, Pacific & Antarctica",
+    "latitude": -33.955,
+    "longitude": 115.075,
+    "name": "Margaret River",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "Western Australia"
+    ],
+    "path": "australiaandpacific/australia/westernaustralia/margaretriver"
+  }
+]

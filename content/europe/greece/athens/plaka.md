@@ -1,13 +1,17 @@
 ---
-title: Plaka
-type: poi
-tags:
-  - things_to_do
-  - neighbourhood
 latitude: 37.9735
 longitude: 23.7289
-snippet: The old Ottoman-era quarter of winding lanes and tavernas clustered below the Acropolis
-score: 7.4
+snippet: The old Ottoman-era quarter of winding lanes and tavernas clustered below
+  the Acropolis
+tags:
+- things_to_do
+- neighbourhood
+title: Plaka
+type: neighbourhood
+image: plaka.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Athens_Plaka07.jpg
+image_license: Public domain
+image_attribution: JFKennedy at English Wikipedia
 ---
 
 Plaka is the oldest continuously inhabited quarter of Athens — a dense tangle of narrow lanes, neoclassical houses, and outdoor tavernas spreading across the northern and eastern slopes of the Acropolis. It is over-touristy in parts, particularly along the main shopping streets, but undeniably atmospheric. The lanes away from the obvious restaurant strips repay exploration.

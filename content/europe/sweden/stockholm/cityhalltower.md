@@ -7,7 +7,7 @@ tags:
 - things_to_do
 - tower
 - sight
-- norrmalm
+- kungsholmen
 title: City Hall Tower
 type: poi
 score: 7.8

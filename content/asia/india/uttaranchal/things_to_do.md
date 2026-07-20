@@ -1,12 +1,9 @@
 ---
 email: sales@dehradunflorist.com
-latitude: 12.833965
-longitude: 79.714809
 phone: '919897064001'
 title: Things to do
-type: poi
+type: section
 url: www.dehradunflorist.com
-score: 1.0
 ---
 
 Flowers to Dehradun

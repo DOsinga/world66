@@ -10,10 +10,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Lake_Anosy,_Central_Antana
 latitude: -18.910012
 loc_type: city
 longitude: 47.525581
+quick_facts:
+  Built On: A dozen hills
+  Founded: 1625, as a royal capital
+  Population: ~1.3 million
+  Short Name: '''Tana'''
 score: 6.94
-title: Antananarivo
 snippet: Hillside capital of Madagascar, ringed by rice paddies and crowned by the
   old Rova palace.
+tip: Antananarivo — 'Tana' for short — is a steep city of stairways, balconied houses
+  and rice paddies, built across a dozen hills. The royal Rova palace crowns the highest
+  one. It is the gateway to Madagascar's unique wildlife, but the city itself rewards
+  a wander; watch your pockets in the crowded market lanes and use registered taxis.
+title: Antananarivo
 type: location
 ---
 

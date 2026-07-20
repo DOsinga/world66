@@ -1,4 +1,10 @@
 ---
+done:
+  location_enrich: '2026-07-02'
+image: danbury.jpg
+image_attribution: CityLimitsJunction
+image_license: CC0
+image_source: https://commons.wikimedia.org/wiki/File:Wooster_Square_Danbury_(2022).jpg
 latitude: 41.3948
 loc_type: city
 longitude: -73.454

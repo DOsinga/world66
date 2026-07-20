@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kindlused_Narva_j%C3%B5e_k
 latitude: 59.3797
 loc_type: city
 longitude: 28.1791
-score: 0.48
+score: 7.33
 snippet: Estonia's eastern border city, where castles, factories, and Russian-speaking
   streets face the Narva River.
 sources:

@@ -6,8 +6,8 @@ image: kreuzberg.jpg
 image_attribution: Alta Falisa
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Berlin,_Kreuzberg_Denkmal.jpg
-latitude: 52.486084
-longitude: 13.385951
+latitude: 52.4945
+longitude: 13.408
 score: 0.6
 tags:
 - things_to_do

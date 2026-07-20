@@ -1,7 +1,14 @@
 ---
+latitude: 37.958755
+longitude: 58.314888
 score: 8.8
+sources:
+- https://www.guinnessworldrecords.com/world-records/highest-density-of-white-marble-clad-buildings
+- https://www.latlong.net/place/ashgabat-the-capital-of-turkmenistan-34279.html
 tags:
 - things_to_do
+- sight
+- architecture
 title: The White Marble City
 type: poi
 ---

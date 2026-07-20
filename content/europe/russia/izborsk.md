@@ -4,7 +4,7 @@ done:
 latitude: 57.7103
 loc_type: city
 longitude: 27.8593
-score: 0.31
+score: 6.72
 snippet: Ancient Pskov frontier village gathered around a stone fortress, springs,
   and early Russian legends.
 sources:

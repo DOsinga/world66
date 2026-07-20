@@ -1,12 +1,7 @@
 ---
 snippet: Kerala's New Year festival of auspicious sights and family blessings
-tags:
-- things_to_do
-- festival
-- festivals
 title: Vishu
-type: poi
-score: 7.4
+type: theme
 ---
 
 Kerala's New Year falls on the first day of the Malayalam month of Medam, usually 14 April. Vishu is a festival of renewal, celebrated across the state with rituals, feasting, and fireworks.

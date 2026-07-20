@@ -1,11 +1,11 @@
 ---
-title: "A Time of Gifts"
-type: poi
-tags:
-  - books
-author: "Patrick Leigh Fermor"
-isbn: "978-1590171653"
+author: Patrick Leigh Fermor
+isbn: 978-1590171653
 score: 6.8
+tags:
+- books
+title: A Time of Gifts
+type: theme
 ---
 
 Leigh Fermor walked the length of the Rhine from the Hook of Holland to Constantinople in 1933–34, at the age of eighteen. The Koblenz and Middle Rhine chapters are some of the best in this masterpiece of English travel writing: snow on the riverside roads, a few nights in Weinstuben full of soldiers in unfamiliar uniforms, and the youthful confidence that the whole valley was a personal discovery.

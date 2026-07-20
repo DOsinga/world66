@@ -9,6 +9,7 @@ snippet: Revolving restaurant with panoramic harbour views
 tags:
 - eating_out
 - restaurant
+- cbd
 title: Sydney Tower Restaurant
 type: poi
 score: 6.4

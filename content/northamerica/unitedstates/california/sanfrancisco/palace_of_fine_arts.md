@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - architecture
 - sight
+- marina_district
 title: Palace of Fine Arts
 type: poi
 story: "Architect Bernard Maybeck designed the Palace to look like a Roman ruin from the start -- a meditation on the grandeur and decay of empire. It was meant to be temporary, but San Franciscans loved it too much to tear it down."

@@ -1,15 +1,20 @@
 ---
-title: "Panathenaic Stadium"
-type: poi
 latitude: 37.9683
 longitude: 23.7411
-tags:
-  - things_to_do
-  - sight
-  - sport
-  - history
-story: "The Panathenaic Stadium hosted the first modern Olympics in 1896 and is the only stadium in the world built entirely of marble. The original 4th-century BCE arena seated 50,000; the structure you see now is a reconstruction completed for the 1896 Games using gleaming Pentelic marble — the same quarry that supplied the Parthenon."
 score: 7.1
+story: The Panathenaic Stadium hosted the first modern Olympics in 1896 and is the
+  only stadium in the world built entirely of marble. The original 4th-century BCE
+  arena seated 50,000; the structure you see now is a reconstruction completed for
+  the 1896 Games using gleaming Pentelic marble — the same quarry that supplied the
+  Parthenon.
+tags:
+- things_to_do
+- sight
+- sport
+- history
+- syntagma
+title: Panathenaic Stadium
+type: poi
 ---
 
 The Panathenaic Stadium, known to locals as the **Kallimarmaro** ("beautifully marbled"), sits in the green park of Pangrati between Plaka and the National Garden. It is the only stadium in the world built entirely of white marble, and the only place where you can run on the track that hosted the first modern Olympic Games in 1896.

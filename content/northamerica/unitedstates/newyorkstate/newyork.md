@@ -12,9 +12,18 @@ image_source: https://commons.wikimedia.org/wiki/File:New_York_City_(New_York,_U
 latitude: 40.712728
 loc_type: city
 longitude: -74.006015
+quick_facts:
+  Languages Spoken: 800+
+  Pizza Principle: A slice ≈ a subway fare
+  Population: 8.3 million
+  Subway: 472 stations, 24/7
 score: 9.89
 snippet: Vast five-borough city of museums, theaters, immigrant neighborhoods, and
   restless street life beside the Hudson.
+tip: 'Glance at Times Square once, then avoid it like locals do. Get OMNY/contactless
+  and ride the subway — it runs 24/7 and beats a cab stuck in Manhattan traffic. The
+  best Manhattan views are free: the Staten Island Ferry passes the Statue of Liberty
+  for nothing. Tip 18–20% on every restaurant bill; it''s not optional here.'
 title: New York
 type: location
 ---
@@ -23,7 +32,7 @@ New York City is five boroughs, eight million people, and an argument that has n
 
 Manhattan gets most of the attention, and for good reason — the concentration of world-class museums, theaters, restaurants, and architecture is unmatched. [Central Park](/northamerica/unitedstates/newyorkstate/newyork/central_park) alone takes a full day to explore. The [Metropolitan Museum of Art](/northamerica/unitedstates/newyorkstate/newyork/metropolitan_museum) and [MoMA](/northamerica/unitedstates/newyorkstate/newyork/moma) are each a full day; [Guggenheim](/northamerica/unitedstates/newyorkstate/newyork/guggenheim_museum) and [American Museum of Natural History](/northamerica/unitedstates/newyorkstate/newyork/american_museum_natural_history) add two more. The [Empire State Building](/northamerica/unitedstates/newyorkstate/newyork/empire_state_building) observation deck, the [High Line](/northamerica/unitedstates/newyorkstate/newyork/high_line) elevated park, [Grand Central Terminal](/northamerica/unitedstates/newyorkstate/newyork/grand_central_terminal), the [Brooklyn Bridge](/northamerica/unitedstates/newyorkstate/newyork/brooklyn_bridge), the [Statue of Liberty and Ellis Island](/northamerica/unitedstates/newyorkstate/newyork/statue_of_liberty) — the famous things are famous for good reason, and most reward the time.
 
-But the outer boroughs reward the curious. [Brooklyn](/northamerica/unitedstates/newyorkstate/newyork/brooklyn) has supplanted Manhattan as the place most people actually want to live, with [Williamsburg](/northamerica/unitedstates/newyorkstate/newyork/williamsburg) and DUMBO worth full afternoons. [Queens](/northamerica/unitedstates/newyorkstate/newyork/queens) holds the most diverse collection of restaurants anywhere in the country — [Flushing](/northamerica/unitedstates/newyorkstate/newyork/flushing_chinatown) has the best Chinese food outside China. [Harlem](/northamerica/unitedstates/newyorkstate/newyork/harlem) is the cultural heart of Black America. The [Staten Island Ferry](/northamerica/unitedstates/newyorkstate/newyork/staten_island_ferry) is free and gives the best view of the harbour.
+But the outer boroughs reward the curious. [Brooklyn](/northamerica/unitedstates/newyorkstate/newyork/brooklyn) has supplanted Manhattan as the place most people actually want to live, with [Williamsburg](/northamerica/unitedstates/newyorkstate/newyork/williamsburg) and DUMBO worth full afternoons. [Queens](/northamerica/unitedstates/newyorkstate/newyork/queens) holds the most diverse collection of restaurants anywhere in the country — [Flushing](/northamerica/unitedstates/newyorkstate/newyork/flushing) has the best Chinese food outside China. [Harlem](/northamerica/unitedstates/newyorkstate/newyork/harlem) is the cultural heart of Black America. The [Staten Island Ferry](/northamerica/unitedstates/newyorkstate/newyork/staten_island_ferry) is free and gives the best view of the harbour.
 
 The grid makes Manhattan navigable even on your first visit. Above 14th Street, numbered streets run east-west and avenues run north-south. Below 14th, the old Dutch street plan takes over. The subway goes almost everywhere and runs all night — get an OMNY card (tap-to-pay) or a MetroCard and use it. Taxis and Uber work well too, though midtown traffic can be punishing.
 

@@ -1,14 +1,14 @@
 ---
 done:
   poi_cleanup: '2026-04-20'
+score: 1.2
 snippet: Italy's essential emergency phone numbers for police, fire, and ambulance.
 tags:
 - practical_info
 - safety
 - practical_information
 title: Emergency Numbers
-type: poi
-score: 1.2
+type: theme
 ---
 
 Italy's main emergency numbers:

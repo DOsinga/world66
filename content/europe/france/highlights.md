@@ -15,15 +15,15 @@ The Loire Valley has a higher concentration of Renaissance châteaux than anywhe
 
 **Provence**
 
-The combination of Roman monuments, hilltop villages, lavender fields, and excellent food makes [Provence](/europe/france/midi) one of the most reliably satisfying regions in France. Avignon, Arles, Orange, and Les Baux de Provence are all within easy reach of each other. The Luberon has some of the most beautiful villages in France — Gordes, Roussillon, Bonnieux.
+The combination of Roman monuments, hilltop villages, lavender fields, and excellent food makes [Provence](/europe/france) one of the most reliably satisfying regions in France. Avignon, Arles, Orange, and Les Baux de Provence are all within easy reach of each other. The Luberon has some of the most beautiful villages in France — Gordes, Roussillon, Bonnieux.
 
 **The Dordogne and Périgord**
 
-The [Dordogne](/europe/france/midi/dordogne) river valley is one of the most beautiful in France — castles on every cliff, canoe-friendly rivers, and some of the earliest human art in existence. The Lascaux cave paintings (now accessible via an excellent replica) are among the most important archaeological sites on earth. The food — foie gras, confit, truffles, walnut everything — is among the richest in France.
+The [Dordogne](/europe/france/aquitaine/dordogne) river valley is one of the most beautiful in France — castles on every cliff, canoe-friendly rivers, and some of the earliest human art in existence. The Lascaux cave paintings (now accessible via an excellent replica) are among the most important archaeological sites on earth. The food — foie gras, confit, truffles, walnut everything — is among the richest in France.
 
 **Alsace**
 
-[Alsace](/europe/france/east/alsace) is Europe in miniature — French food and German wine, medieval towns that look like illustrations from fairy tales, and a landscape of vineyards, forests, and stork-topped church towers. Strasbourg, Colmar, and Riquewihr are all excellent. The Route des Vins d'Alsace is one of the great scenic drives of Europe.
+[Alsace](/europe/france/alsace) is Europe in miniature — French food and German wine, medieval towns that look like illustrations from fairy tales, and a landscape of vineyards, forests, and stork-topped church towers. Strasbourg, Colmar, and Riquewihr are all excellent. The Route des Vins d'Alsace is one of the great scenic drives of Europe.
 
 **Normandy and Brittany**
 

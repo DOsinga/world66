@@ -1,10 +1,14 @@
 ---
+image: byodoin.jpg
+image_attribution: Hyppolyte de Saint-Rambert
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:By%C5%8Dd%C5%8D-in_(UJI,_Kyoto)_hdsr_Temple_S5_148.jpg
 latitude: 34.8895
 longitude: 135.8076
 score: 8.7
 snippet: The 11th-century Phoenix Hall in Uji, pictured on the 10-yen coin
 tags:
-- day_trips
+- things_to_do
 - temple
 - unesco
 - sight

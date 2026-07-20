@@ -2,14 +2,15 @@
 address: 916 Grant Ave
 latitude: 37.7954
 longitude: -122.4064
-snippet: Dark Chinatown dive bar with a cave-like basement and potent Chinese mai tais
+score: 7.3
+snippet: Dark Chinatown dive bar with a cave-like basement and potent Chinese mai
+  tais
 tags:
 - bars_and_cafes
 - bar
-neighbourhood: Chinatown
+- chinatown
 title: Li Po Cocktail Lounge
 type: poi
-score: 7.3
 ---
 
 Li Po is a dark, narrow bar on Grant Avenue in Chinatown that has been pouring drinks since 1937. The interior is cave-like -- low ceilings, red lanterns, a golden Buddha behind the bar, and a trapdoor that once led to old Chinatown tunnels. Anthony Bourdain called it one of his favourite bars in America.

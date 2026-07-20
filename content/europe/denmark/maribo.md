@@ -2,7 +2,8 @@
 latitude: 54.7752
 longitude: 11.5026
 loc_type: city
-score: 0.45
+score: 7.22
+snippet: Small Danish cathedral town set between the lake arms of Maribo Sø on Lolland.
 tags:
 - lolland
 title: Maribo

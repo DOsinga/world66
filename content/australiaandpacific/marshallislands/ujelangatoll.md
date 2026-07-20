@@ -4,7 +4,7 @@ done:
 latitude: 9.8206
 loc_type: island
 longitude: 160.8934
-score: 0.22
+score: 6.36
 snippet: Isolated western Marshall Islands atoll remembered for the displaced Enewetak
   community that lived here for decades.
 sources:

@@ -5,6 +5,7 @@ snippet: "One of the world's largest city squares, heart of Mexico City"
 tags:
 - things_to_do
 - landmark
+- centro_historico
 title: Zócalo
 type: poi
 score: 9.2

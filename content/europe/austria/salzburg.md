@@ -11,9 +11,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Salzburg_Altstadt_Panorama
 latitude: 47.798135
 loc_type: city
 longitude: 13.046481
+quick_facts:
+  Fortress Built: '1077'
+  Mozart: Born here in 1756
+  Population: 155,000
+  Sound of Music: Filmed here
 score: 9.49
 snippet: Baroque Austrian city on an Alpine river, built from salt wealth and Mozart
   history.
+tip: Salzburg is Mozart's birthplace and the Sound of Music city — the official tour
+  is cheesy but fun if that's your thing. Funicular up to Hohensalzburg Fortress,
+  one of Europe's largest intact castles, for the view. The old town is compact and
+  walkable; cross the river to the Mirabell gardens. Try a Mozartkugel — the originals
+  are wrapped silver and blue.
 title: Salzburg
 type: location
 ---

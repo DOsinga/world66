@@ -2,7 +2,8 @@
 latitude: 54.694
 longitude: 11.397
 loc_type: city
-score: 0.38
+score: 6.97
+snippet: Small Lolland market town beside Denmark's ferry and future tunnel crossing to Germany.
 tags:
 - lolland
 title: Rødby

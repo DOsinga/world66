@@ -1,7 +1,14 @@
 ---
+latitude: -37.8997
+longitude: 145.0886
 score: 8.1
+sources:
+- https://latitude.to/articles-by-country/au/australia/35924/oakleigh-victoria
 tags:
 - things_to_do
+- sight
+- shopping
+- greek_precinct
 title: Eaton Mall
 type: poi
 ---

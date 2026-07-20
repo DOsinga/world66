@@ -2,6 +2,7 @@
 address: Eski-Yurt, Bakhchysarai
 latitude: 44.7489
 longitude: 33.8475
+score: 6.7
 snippet: Pre-Khanate Crimean Tatar settlement with surviving mausolea
 tags:
 - things_to_do

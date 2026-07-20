@@ -13,6 +13,7 @@ Every page with `type: location` also carries a `loc_type` field that describes 
 | `region` | The grouping level below a country in large countries. For the US these are states; elsewhere they may be editorial or administrative groupings. | `northamerica/unitedstates/california`, `europe/france/south`, `europe/italy/tuscany` |
 | `city` | Cities, towns, villages — actual settlements | `europe/france/paris`, `asia/india/jaipur` |
 | `feature` | A named area or attraction that is a destination in itself but not a settlement: national parks, gorges, coastlines, named tourist regions, archipelagos, archaeological sites. | `europe/italy/liguria/cinque_terre`, `northamerica/unitedstates/wyoming/yellowstone`, `asia/cambodia/angkorwat` |
+| `island` | An island with more than one real destination on it — a main town plus outlying villages, or several towns of roughly equal weight. Works exactly like `feature`: it can have its own POIs, and its towns link to it via `tags`, never by nesting. Use plain `city` instead for an island that is really just one settlement. | `europe/croatia/hvar`, `europe/greece/cyclades/santorini` |
 
 ## Hierarchy
 
@@ -45,6 +46,8 @@ tags:
 ```
 
 If a location is tagged `loc_type: region` but sits inside another region, it is usually a feature. The one-level region rule means places like Loire Valley, Côte d'Azur, Ardèche, and Cinque Terre should be features unless they are the country's top-level grouping.
+
+**Never mix nesting and tagging for the same parent.** A `region` contains its child cities and features as files in its own directory. A `feature` or `island` never does — its children are always siblings elsewhere in the hierarchy, connected only by `tags`. Don't let a `type: location` file live inside a feature's or island's own directory just because it happens to be geographically close; that directory is for the feature/island's own POIs and sections only. If you find one there, it means either the child was nested under the old region model before the parent was retyped, or someone reached for the nearby directory as a shortcut — either way, move the location out to its correct place in the hierarchy and add the `tags` link instead of leaving it nested. A parent that mixes both patterns makes it unclear, at a glance, whether a given child is discoverable through the normal tag-based mechanism or not.
 
 City-states (Monaco, Vatican City, Singapore) are typed `country` at the country-depth file and `city` only if they have a separate city page below.
 
@@ -82,6 +85,34 @@ Examples:
 - **Patagonia** — Wind-scoured wilderness of glaciers, granite spires, and sheep estancias spanning the southern tip of Argentina and Chile
 - **France** — Europe's archetypal country: Atlantic and Mediterranean coasts, alpine villages, Loire châteaux, and the wine regions that define the western table
 
+## Quick facts
+
+A location's frontmatter may carry a `quick_facts:` block. Only add this if the city is a major travel destination and it's easy to find good facts. Never fabricate things.
+
+**The rule:** four facts per location — **two hard-data facts and two fun-but-true facts** — written as clean `key: value` pairs.
+
+- **Two hard-data facts.** Objective, verifiable figures the reader expects up top: population, currency, area, elevation, founding year, official language.
+- **Two fun-but-true facts.** A genuine, checkable curiosity that makes the place memorable — a record it holds, an unusual superlative, a quirk of geography or history. Fun, but never invented.
+
+Format rules:
+
+- Each entry is a **short attribute label → crisp value**. The key is the label (`Population`, `Founded`, `Highest Point`); the value is the answer (`2.1 million`, `1632`, `Mount Teide, 3,715 m`).
+- **Keys are distinct** within a location — no two facts share a label.
+- **Every value stands on its own.** Don't split one fact across the key and value as a continuation: write `Canals: 165 km, more than Venice`, never `More Canals: Than Venice`. The key names an attribute; the value is a complete answer.
+- Keep values tight — a figure plus at most a short qualifying clause, never a sentence.
+
+Example (Amsterdam):
+
+```yaml
+quick_facts:
+  Population: 920,000
+  Founded: c. 1275, as a dam on the Amstel
+  Canals: 165 km — more than Venice
+  Bicycles: 1 Million - more than residents
+```
+
+Two hard-data facts (population, founding), two fun-but-true (the canal length, the bicycle count), each a distinct label with a self-contained value.
+
 ## Sections
 
 Every location has sections - they are separate md files in the location folder. Sections are ordered alphabetically by filename slug — no `order` field needed. Not every location needs every section; a small town might only have an overview and a couple of sections.
@@ -118,7 +149,15 @@ Only if there is real content — markets, shopping districts, notable shops.
 
 ### Day Trips (`day_trips.md`)
 
-Day trip destinations should be real locations in the hierarchy, not POIs. Use `linked_locations:` in the section frontmatter to list their paths:
+A day trip is a destination in its own right, so every entry is a **linked location**, never a POI:
+
+- **A town or city** must be a **link** to its destination page, listed in `linked_locations:` (and linked inline in the prose). If the town has no page yet, create one. Never leave a town as a POI inside the city directory — that shadows the real page.
+- **A larger area, valley, region, or natural feature** (a wine region, a peninsula, a sound, a touring route) should be a **`loc_type: feature` destination page** in the right place in the hierarchy, then linked the same way.
+- **A single nearby attraction** — a convent 10 km out, a beach 15 km south, a single ruin, a zoo, a house museum — is just a normal POI on the city's `things_to_do` list; don't tag it `day_trips`. If it is really a destination in its own right, promote it to a `loc_type: feature` page and link it.
+
+The one rule: **`day_trips` entries are always linked locations; never tag a POI `day_trips`.** The linter enforces this (the `day_trip_poi` check).
+
+Use `linked_locations:` in the section frontmatter to list the destination paths:
 
 ```yaml
 ---
@@ -129,10 +168,10 @@ linked_locations:
   - europe/italy/lazio/ostiaantica
 ---
 
-Brief overview of day trip options from the city.
+Brief overview of day trip options, linking each destination inline.
 ```
 
-The template renders these as a table linking to the real location pages.
+The template renders the linked locations as a destination card grid.
 
 ### Beaches (`beaches.md`)
 
@@ -275,6 +314,18 @@ Use this scale:
 ```yaml
 score: 7.4
 ```
+
+### Location scores (`loc_type: city` / `feature` / `island`)
+
+Cities, features, and islands — `type: location` pages below the region level — also carry a `score` on the same `1.0`-`10.0` scale as POIs, so destinations and the sights within them sort consistently everywhere they're listed together.
+
+These scores aren't hand-picked one at a time the way POI scores are. They come from `tools/rank_locations.py`, which repeatedly asks Claude to order small batches of destinations from best to worst, fits a Plackett-Luce model to the accumulated pairwise rankings, and percentile-maps the result onto the same score distribution as scored POIs (`POI_SCORE_QUANTILES` in that file). This keeps location and POI scores comparable without manually comparing every location against every POI.
+
+A brand-new city/feature/island page won't have a score until it's been through that process. Don't leave it unscored in the meantime — either:
+- run `python tools/rank_locations.py discover`, then enough `run --rounds` against the Claude API to get it compared, then `apply`; or
+- if that's not practical right now, hand-calibrate a score by comparing the new page against sibling locations in the same parent directory, the same way you would for a POI.
+
+**Countries, regions, and continents are scored on a separate, older `0.0`-`1.0` scale** that predates this system and is unrelated to it — don't try to "fix" a country score that looks low next to a city's `7.4`. Only `city`/`feature`/`island` locations and POIs use the `1.0`-`10.0` scale.
 
 ## Sources
 

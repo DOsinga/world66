@@ -895,7 +895,6 @@ europe/ukraine/odessa
 europe/italy/emiliaromagna/modena
 northamerica/unitedstates/virginia/manassas
 asia/pakistan/khan_pur
-australiaandpacific/newzealand/north_island/northland/ninety_mile_beach
 asia/syria/aleppo
 africa/kenya/thecoast/lamu
 europe/albania/gjirokaster
@@ -928,7 +927,6 @@ africa/namibia/tsumeb_gateway_to_the_north_and_etosha
 europe/unitedkingdom/england/manchester_liverpool_and_north_west/carlisle
 northamerica/canada/ontario/fort_erie
 africa/mauritania/nouakchott
-northamerica/unitedstates/california/santaclarita
 europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/st_just_in_penwith
 africa/nigeria/kaduna
 europe/spain/galicia/noia
@@ -1120,7 +1118,6 @@ europe/unitedkingdom/scotland/moray
 europe/belgium/charleroi
 asia/uzbekistan/bukhara
 asia/vietnam/dalat
-asia/india/jammuandkashmir/bhadarwah
 australiaandpacific/frenchpolynesia/moorea
 asia/india/uttaranchal/srinagar_pauri_garhwal
 europe/italy/tuscany/florenceprovince/chiantiregion/impruneta
@@ -1178,7 +1175,6 @@ europe/france/centre/loirevalley/cheverny
 europe/italy/emiliaromagna/misanoadriatico
 europe/macedonia/ohrid
 europe/norway/narvik
-northamerica/unitedstates/hawaii/hilo
 asia/vietnam/thanh_hoa
 australiaandpacific/australia/tasmania/hobart
 northamerica/unitedstates/massachusetts/nantucket
@@ -1765,7 +1761,6 @@ europe/italy/sicily/aeolianislands/stromboli
 australiaandpacific/newzealand/north_island/whanganui_region/wanganui
 europe/bosniaandherzegovina/bihac
 europe/france/east/champagne/provins
-europe/italy/abruzzo/aquila
 europe/italy/liguria/italianriviera/thecinqueterre/monterosso
 africa/togo/tamberma
 southamerica/paraguay/encarnacion
@@ -2036,7 +2031,6 @@ australiaandpacific/australia/victoria/bendigo
 europe/croatia/pag_island
 europe/spain/galicia/ons_islands
 northamerica/antiguaandbarbuda/stjohns
-europe/portugal/theazores/so_miguel/ribeira_grande
 europe/russia/the_black_sea_coas/anapa
 europe/poland/ziemia_chojnicka
 northamerica/mexico/losmochis
@@ -2579,7 +2573,6 @@ europe/italy/campania/caserta
 australiaandpacific/australia/victoria/wonthaggi
 northamerica/unitedstates/georgia/crawfordville_georgia
 northamerica/unitedstates/montana/redlodge
-northamerica/mexico/cuernavaca
 northamerica/unitedstates/virginia/williamsburg
 northamerica/unitedstates/utah/buckskin_gulch
 africa/madagascar/toamasina
@@ -3006,7 +2999,6 @@ southamerica/argentina/laplata
 europe/spain/galicia/baiona
 europe/germany/badenwrttemberg/konstanz
 africa/chad/ounianga
-northamerica/unitedstates/connecticut/danbury
 northamerica/unitedstates/maine/ellsworth
 europe/italy/piemonte/monferrato
 africa/southafrica/franschhoek
@@ -3665,7 +3657,6 @@ asia/southkorea/chonju
 asia/india/sikkim/gangtok
 europe/italy/liguria/italianriviera/thecinqueterre/riomaggiore
 northamerica/unitedstates/kentucky/louisville
-northamerica/unitedstates/rhodeisland/coventry
 northamerica/unitedstates/california/deserts/borregosprings
 asia/indonesia/sumatra/bukitlawang
 asia/india/punjab/jalandhar
@@ -4572,12 +4563,10 @@ southamerica/brazil/tubaro
 africa/ghana/busua_western_regi
 africa/somaliland/burao
 australiaandpacific/palau/peleliu
-asia/malaysia/tiomanisland/tekekvillage
 europe/sweden/vnersborg
 europe/albania/ardenica
 europe/denmark/roenne
 europe/azerbaijan/naxcivan/sadarak
-africa/morocco/ifrane
 northamerica/unitedstates/vermont/burlington
 northamerica/unitedstates/california/foster_city
 asia/oman/barka

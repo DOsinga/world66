@@ -3,13 +3,13 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 55.787
 longitude: 37.283
+score: 8.5
 snippet: Grand aristocratic estate with Italian gardens outside Moscow
 tags:
 - things_to_do
 - historical_site
 title: Arkhangelskoye
 type: poi
-score: 8.5
 ---
 
 Arkhangelskoye is one of the great country estates built by Russian aristocracy in the 17th and 18th centuries, situated about 20 km west of Moscow.

@@ -2,6 +2,7 @@
 address: Bakhchysarai old town
 latitude: 44.7485
 longitude: 33.8866
+score: 6.8
 snippet: 1707 wooden-roofed neighbourhood mosque
 tags:
 - things_to_do

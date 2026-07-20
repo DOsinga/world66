@@ -7,8 +7,10 @@ longitude: 4.8981
 tags:
 - things_to_do
 - neighbourhood
+- centrum
 title: De Wallen
 type: neighbourhood
+score: 8.3
 ---
 
 De Wallen — the Red Light District — is Amsterdam's oldest neighbourhood and simultaneously its most notorious and most historically significant. The name comes from the wallen (walls or embankments) of the original medieval settlement; the district predates the canal ring by centuries and retains a medieval street pattern quite unlike the orderly grids of the later city. The canals here are among Amsterdam's oldest.

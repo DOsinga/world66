@@ -1,17 +1,23 @@
 ---
-title: Przhevalsky Museum
-type: poi
-tags:
-  - things_to_do
-  - day_trips
-  - museum
+image: przhevalsky_museum.jpg
+image_attribution: Bruno Rijsman
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Karakol_-_297_(49354614026).jpg
 latitude: 42.5036
 longitude: 78.4108
-snippet: Museum and burial site of the Russian explorer Nikolai Przhevalsky
-story: Przhevalsky died in Karakol in 1888 from typhoid fever, contracted from drinking river water during his final expedition. He had asked to be buried on the shore of Issyk-Kul, and his grave overlooks the lake he spent years exploring. The town was renamed Przhevalsk in his honour — a name it kept until 1991.
-sources:
-  - https://en.wikipedia.org/wiki/Karakol
 score: 7.9
+snippet: Museum and burial site of the Russian explorer Nikolai Przhevalsky
+sources:
+- https://en.wikipedia.org/wiki/Karakol
+story: Przhevalsky died in Karakol in 1888 from typhoid fever, contracted from drinking
+  river water during his final expedition. He had asked to be buried on the shore
+  of Issyk-Kul, and his grave overlooks the lake he spent years exploring. The town
+  was renamed Przhevalsk in his honour — a name it kept until 1991.
+tags:
+- things_to_do
+- museum
+title: Przhevalsky Museum
+type: poi
 ---
 
 The Przhevalsky Museum and mausoleum sits on a quiet promontory near the lakeshore, about 10 kilometres from the centre of Karakol. Nikolai Przhevalsky was the most celebrated Russian explorer of Central Asia in the nineteenth century — he led four major expeditions into the interior of the continent, mapping terrain, collecting biological specimens, and cataloguing peoples and languages unknown to Western science. He died in Karakol in 1888 at the age of 49, carried off by typhoid fever on the eve of his fifth expedition.

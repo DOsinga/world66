@@ -3,12 +3,8 @@ title: "Day Trips in Entebbe"
 type: section
 ---
 
-**Entebbe day trips **are comprised of visiting the main attractions in Entebbe. Among such attractions are the beautiful Uganda Wildlife Educational Centre and the wonderful Entebbe Botanical Gardens. Entebbe is a city in Uganda, which is 45-minutes away from the capital city Kampala.
+Entebbe sits right on the shore of Lake Victoria, so the best excursions head out onto the water. The standout is the [Ngamba Island Chimpanzee Sanctuary](/africa/uganda/entebbe/ngamba_island), about an hour by boat to the southeast, where some fifty orphaned and rescued chimpanzees live on a forested island and emerge for timed feeding sessions. Book ahead and pick a half-day, full-day, or overnight trip; the Uganda Wildlife Education Centre in town can help with arrangements.
 
-**Uganda**** Wildlife Educational Centre**
+Closer to home, the town's own attractions make for an easy day out in their own right. The Uganda Wildlife Education Centre keeps more than 200 local and rescued animals across spacious enclosures, with a forest walk and a medicinal-herb garden, while the Entebbe Botanical Gardens — laid out in 1901 on the lakeshore — are a fine introduction to Ugandan birdlife among old shade trees and a guided spider walk.
 
-Uganda Wildlife Education Centre is a tourist attraction in Entebbe that exhibits more than 200 local animals. Some of these animals are exotic ones and are kept in a wide enclosed place. This wildlife centre does not only show Uganda&rsquo;s local animals. They also have a forest walk and a garden. In the forest walk, a lot of information is provided as the tourists pass by. On the other hand, the garden is the place where you can see a variety of Ugandan medical herbs. You can stop for awhile in this area and listen to the explanation of the medical use of these local herbs. Before you transfer to your next destination, you should not miss watching the more than 200 bird species and monkeys in the wildlife centre.
-
-**Entebbe Botanical Gardens**
-
-Entebbe Botanical Gardens were established in the year 1901. From then on, this botanical garden has continued to show and take pride in the wonderful things that they have. Entebbe Botanical Gardens provides a terrific introduction to Ugandan birds. Aside from the birds you will encounter in Entebbe Botanical Gardens, you will also be amazed by the fascinating trees and plants. For a more exciting adventure in the botanical garden, a spider walk is present to exhibit live creatures that are hanging off the trees.
+Kampala, the capital, is only about 45 minutes up the road and makes an easy half-day or full-day trip if you want the bustle of a big city to balance Entebbe's lakeside calm.

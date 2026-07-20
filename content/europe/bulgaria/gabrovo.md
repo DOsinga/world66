@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bulgaria-Gabrovo_04.jpg
 latitude: 42.8667
 loc_type: city
 longitude: 25.3333
-score: 0.43
+score: 7.15
 snippet: Balkan foothill city known for humour, craft museums, and Bulgarian National
   Revival architecture.
 sources:

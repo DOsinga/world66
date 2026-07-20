@@ -1,7 +1,12 @@
 ---
+latitude: -8.917
+longitude: 13.178
 score: 7.2
 tags:
 - things_to_do
+- sight
+- beach
+- swimming
 title: Lagoon Beach
 type: poi
 ---

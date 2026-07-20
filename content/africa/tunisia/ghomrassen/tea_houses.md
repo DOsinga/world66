@@ -1,7 +1,11 @@
 ---
+latitude: 33.06
+longitude: 10.3393
 score: 5.8
 tags:
 - bars_and_cafes
+- cafe
+- tea
 title: Tea houses
 type: poi
 ---

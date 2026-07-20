@@ -9,11 +9,12 @@ import markdown as md
 from django.conf import settings
 from django.http import FileResponse, Http404, HttpResponse, JsonResponse
 from django.shortcuts import redirect, render
+from django.views.decorators.clickjacking import xframe_options_exempt
 from django.utils.safestring import mark_safe
 
 from . import github
 from .models import (
-    CONTENT_DIR, NAV_TYPES, build_city_tag_index, find_tagged_pois,
+    CONTENT_DIR, NAV_TYPES, build_city_tag_index, find_tagged_pois, find_locations_tagged,
     load_page, load_page_from_revision, load_tag_index, resolve_tag_route, _find_city_path,
 )
 
@@ -80,21 +81,50 @@ def about(request):
     return render(request, "guide/about.html")
 
 
+def _city_snippet(page):
+    snippet = page.meta.get('snippet', '')
+    if snippet:
+        return snippet
+    for paragraph in page.body.split('\n\n'):
+        text = ' '.join(paragraph.strip().split())
+        if text:
+            suffix = '...' if len(text) > 170 else ''
+            return text[:170].rsplit(' ', 1)[0] + suffix
+    return ''
+
+
+def _globe_city_data(source_ref=None, url_revision=""):
+    from .models import load_featured_cities
+    url_prefix = f"/{url_revision}" if url_revision else ""
+    city_cards = [c for c in load_featured_cities() if c['lat'] and c['lng']]
+    city_cards = [
+        {
+            **city,
+            "page": _revision_page(city["page"], source_ref, url_revision),
+            "image_url": _prefixed_url(city["image_url"], url_prefix),
+        }
+        for city in city_cards
+    ]
+    return [
+        {
+            'title': c['page'].title,
+            'url': c['page'].get_absolute_url(),
+            'image': c['image_url'],
+            'country': c['country'],
+            'snippet': _city_snippet(c['page']),
+            'lat': float(c['lat']),
+            'lng': float(c['lng']),
+            'score': c['score'],
+            'path': c['page'].path,
+        }
+        for c in city_cards
+    ]
+
+
 def home(request, source_ref=None, url_revision=""):
     import random
-    from .models import count_content_pages, load_continents, load_story_pois, load_featured_cities
+    from .models import count_content_pages, load_continents, load_story_pois
     url_prefix = f"/{url_revision}" if url_revision else ""
-
-    def city_snippet(page):
-        snippet = page.meta.get('snippet', '')
-        if snippet:
-            return snippet
-        for paragraph in page.body.split('\n\n'):
-            text = ' '.join(paragraph.strip().split())
-            if text:
-                suffix = '...' if len(text) > 170 else ''
-                return text[:170].rsplit(' ', 1)[0] + suffix
-        return ''
 
     continents_raw = load_continents()
     continents = []
@@ -127,29 +157,11 @@ def home(request, source_ref=None, url_revision=""):
         {**poi, "page": _revision_page(poi["page"], source_ref, url_revision)}
         for poi in story_pois
     ]
-    all_cities = load_featured_cities()
-    city_cards = [c for c in all_cities if c['lat'] and c['lng']]
-    city_cards = [
-        {
-            **city,
-            "page": _revision_page(city["page"], source_ref, url_revision),
-            "image_url": _prefixed_url(city["image_url"], url_prefix),
-        }
-        for city in city_cards
-    ]
-    cities_json = json.dumps([
-        {
-            'title': c['page'].title,
-            'url': c['page'].get_absolute_url(),
-            'image': c['image_url'],
-            'country': c['country'],
-            'snippet': city_snippet(c['page']),
-            'lat': float(c['lat']),
-            'lng': float(c['lng']),
-            'score': c['score'],
-        }
-        for c in city_cards
-    ])
+    city_cards = _globe_city_data(source_ref, url_revision)
+    cities_json = json.dumps(city_cards)
+    globe_autoplay_embed_url = request.build_absolute_uri("/widgets/globe-explore?mode=autoplay")
+    globe_explore_embed_url = request.build_absolute_uri("/widgets/globe-explore?mode=explore")
+    photo_map_embed_url = request.build_absolute_uri("/widgets/photo-map")
     return render(request, "guide/home.html", {
         'continents': continents,
         'story_pois': story_pois,
@@ -157,6 +169,12 @@ def home(request, source_ref=None, url_revision=""):
         'featured_city_count': f"{len(city_cards):,}",
         'search_page_count': f"{count_content_pages():,}",
         'url_prefix': url_prefix,
+        'globe_autoplay_embed_url': globe_autoplay_embed_url,
+        'globe_explore_embed_url': globe_explore_embed_url,
+        'globe_autoplay_iframe': _iframe_code(globe_autoplay_embed_url, 560),
+        'globe_explore_iframe': _iframe_code(globe_explore_embed_url, 560),
+        'photo_map_embed_url': photo_map_embed_url,
+        'photo_map_iframe': _iframe_code(photo_map_embed_url, 560),
     })
 
 
@@ -165,6 +183,85 @@ def home_at_revision(request, revision):
     if not source_ref:
         raise Http404
     return home(request, source_ref=source_ref, url_revision=_short_revision(source_ref))
+
+
+def widgets(request):
+    embed_url = request.build_absolute_uri("/widgets/globe-explore?mode=autoplay")
+    explore_url = request.build_absolute_uri("/widgets/globe-explore?mode=explore")
+    photo_map_url = request.build_absolute_uri("/widgets/photo-map")
+    return render(request, "guide/widgets/index.html", {
+        "globe_embed_url": embed_url,
+        "globe_iframe": _iframe_code(embed_url, 520),
+        "globe_explore_embed_url": explore_url,
+        "globe_explore_iframe": _iframe_code(explore_url, 520),
+        "photo_map_embed_url": photo_map_url,
+        "photo_map_iframe": _iframe_code(photo_map_url, 520),
+    })
+
+
+@xframe_options_exempt
+def widget_globe_explore(request):
+    height = _int_param(request, "height", 520, 280, 1200)
+    scale = _float_param(request, "scale", 1, 0.6, 1.8)
+    mode = request.GET.get("mode", "autoplay")
+    if mode not in {"autoplay", "explore"}:
+        mode = "autoplay"
+    theme = request.GET.get("theme", "light")
+    if theme not in {"light", "transparent"}:
+        theme = "light"
+    show_embed = _bool_param(request, "embed", True)
+    show_fullscreen = _bool_param(request, "fullscreen", True)
+    widget_url = request.build_absolute_uri()
+    return render(request, "guide/widgets/globe_explore.html", {
+        "cities_json": json.dumps(_globe_city_data()),
+        "height": height,
+        "scale": scale,
+        "mode": mode,
+        "theme": theme,
+        "show_embed": show_embed,
+        "show_fullscreen": show_fullscreen,
+        "embed_code": _iframe_code(widget_url, height),
+        "widget_url": widget_url,
+    })
+
+
+@xframe_options_exempt
+def widget_photo_map(request):
+    widget_url = request.build_absolute_uri()
+    return render(request, "guide/widgets/photo_map.html", {
+        "widget_url": widget_url,
+        "embed_code": _iframe_code(widget_url, 560),
+    })
+
+
+def _bool_param(request, name, default):
+    value = request.GET.get(name)
+    if value is None:
+        return default
+    return value.lower() not in {"0", "false", "no", "off"}
+
+
+def _int_param(request, name, default, min_value, max_value):
+    try:
+        value = int(request.GET.get(name, default))
+    except (TypeError, ValueError):
+        value = default
+    return max(min_value, min(max_value, value))
+
+
+def _float_param(request, name, default, min_value, max_value):
+    try:
+        value = float(request.GET.get(name, default))
+    except (TypeError, ValueError):
+        value = default
+    return max(min_value, min(max_value, value))
+
+
+def _iframe_code(url, height):
+    return (
+        f'<iframe src="{url}" width="100%" height="{height}" '
+        'style="border:0" loading="lazy" allow="fullscreen"></iframe>'
+    )
 
 
 def location_or_section(request, path):
@@ -338,31 +435,56 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
                     loc.word_cloud_center = loc.title
                     loc.word_cloud_top = []
                     loc.word_cloud_bottom = [p.title for p in children]
-    top_locations = locations[:9]
-    more_locations = sorted(locations, key=lambda loc: loc.title)
+    _CARD_THRESHOLD = 18
+    _CARD_MAX = 9
+    _top_n = len(locations) if len(locations) <= _CARD_THRESHOLD else _CARD_MAX
+    top_locations = locations[:_top_n]
+    more_locations = sorted(locations[_top_n:], key=lambda loc: loc.title)
 
     # For feature pages: cities/locations that tag into this feature via tags: [feature_slug]
     linked_locations = []
+    more_linked_locations = []
     if page.meta.get('loc_type') == 'feature':
-        tag_index = load_tag_index()
         linked_locations = sorted(
-            [p for p in tag_index.get(page.slug, []) if p.page_type == 'location'],
+            find_locations_tagged(page.slug, page.path),
             key=lambda p: float(p.meta.get('score', 0) or 0), reverse=True,
         )
         for loc in linked_locations:
             loc_img = _image_path(loc, source_ref)
             loc.image_url = f'{loc.url_prefix}/content-image/{loc_img}' if loc_img else None
+        _ll_top_n = len(linked_locations) if len(linked_locations) <= _CARD_THRESHOLD else _CARD_MAX
+        more_linked_locations = sorted(linked_locations[_ll_top_n:], key=lambda p: p.title)
+        linked_locations = linked_locations[:_ll_top_n]
 
-    # Inspiration image strip for section pages — up to 12 POI images
-    poi_images = []
-    if page.page_type in NAV_TYPES:
+    # For section pages (e.g. day_trips): explicit linked_locations: paths in frontmatter
+    elif page.meta.get('linked_locations'):
+        for loc_path in page.meta['linked_locations']:
+            loc = (load_page_from_revision(loc_path, source_ref, url_revision=url_revision)
+                   if source_ref else load_page(loc_path))
+            if not loc or loc.page_type != 'location':
+                continue
+            loc_img = _image_path(loc, source_ref)
+            loc.image_url = f'{loc.url_prefix}/content-image/{loc_img}' if loc_img else None
+            linked_locations.append(loc)
+
+    # Day-trip cards: linked destinations + any genuine-attraction POIs kept in
+    # the section, rendered together as one card grid.
+    daytrip_cards = None
+    if page.page_type == 'section' and linked_locations:
+        daytrip_cards = [
+            {'url': loc.get_absolute_url(), 'title': loc.title,
+             'image_url': getattr(loc, 'image_url', None), 'snippet': loc.meta.get('snippet', '')}
+            for loc in linked_locations
+        ]
         for poi in pois:
             img_path = _image_path(poi, source_ref)
-            if img_path:
-                href = (poi_context_prefix + poi.slug) if poi_context_prefix else poi.get_absolute_url()
-                poi_images.append({'url': f'{poi.url_prefix}/content-image/{img_path}', 'title': poi.title, 'href': href})
-            if len(poi_images) >= 12:
-                break
+            url = (poi_context_prefix + poi.slug) if poi_context_prefix else poi.get_absolute_url()
+            daytrip_cards.append({
+                'url': url, 'title': poi.title,
+                'image_url': f'{poi.url_prefix}/content-image/{img_path}' if img_path else None,
+                'snippet': poi.meta.get('snippet', '') or '',
+            })
+
 
     # For small city pages (< 8 POIs total): inline sections directly instead of section cards
     inline_sections = None
@@ -390,9 +512,11 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
                 for s, sp in candidate_sections
             ]
 
-    # Map markers: top 9 for initial view, all locations for dynamic zoom filtering
-    markers = _collect_markers(page, nav_pages, top_locations, pois, city_tag_index=city_tag_index)
-    markers_full = _collect_markers(page, nav_pages, locations, pois, city_tag_index=city_tag_index)
+    _all_linked = linked_locations + more_linked_locations
+    _map_top = top_locations + (linked_locations if _all_linked else [])
+    _map_all = locations + (_all_linked if _all_linked else [])
+    markers = _collect_markers(page, nav_pages, _map_top, pois, city_tag_index=city_tag_index)
+    markers_full = _collect_markers(page, nav_pages, _map_all, pois, city_tag_index=city_tag_index)
 
     breadcrumbs = page.breadcrumbs()
 
@@ -428,9 +552,10 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "is_poi": page.page_type == "poi",
         "poi_categories": poi_categories,
         "poi_context_prefix": poi_context_prefix,
-        "poi_images": poi_images,
         "inline_sections": inline_sections,
         "linked_locations": linked_locations,
+        "daytrip_cards": daytrip_cards,
+        "more_linked_locations": more_linked_locations,
         "url_prefix": page.url_prefix,
     })
 
@@ -499,6 +624,207 @@ def tag_index(request, tag):
 
 
 _SIGHT_SLUGS = {"sights", "museums", "attractions", "landmarks", "things_to_do"}
+_META_SLUGS   = {"neighbourhood"}   # organisational tags, not POI categories
+
+
+def _marker_from_page_rich(page, highlight=False):
+    """Extended marker that includes path, tags, and image_url for the explore map."""
+    lat = _safe_float(page.meta.get("latitude"))
+    lng = _safe_float(page.meta.get("longitude"))
+    if lat is None or lng is None:
+        return None
+    m = {
+        "lat": lat, "lng": lng, "name": page.title,
+        "url": page.get_absolute_url(), "path": page.path,
+        "highlight": highlight,
+        "score": float(page.meta.get("score", 0) or 0),
+        "snippet": page.meta.get("snippet", ""),
+        "tags": list(page.meta.get("tags") or []),
+    }
+    img = _image_path(page)
+    if img:
+        m["image_url"] = f"/content-image/{img}"
+    return m
+
+
+def _explore_markers(page):
+    """Return (mode, markers) for the explore view.
+
+    mode='locations' when the page has child city/location pages to browse.
+    mode='city' when we're at city level and should show POIs.
+
+    Primary (sightseeing) POIs come first with highlight=True.
+    Secondary (eating, activities, etc.) follow with highlight=False.
+    Curbside POIs are appended last with curbside=True; the map JS
+    renders them only when zoomed in far enough.
+    """
+    sections, locations, pois = page.children()
+    if locations:
+        markers = [m for m in (_marker_from_page_rich(l) for l in locations) if m]
+        markers.sort(key=lambda m: m["score"], reverse=True)
+        return "locations", markers
+
+    seen = set()
+    primary   = []   # sightseeing
+    secondary = []   # other categories
+    curbside  = []   # curbside layer — shown at high map zoom only
+
+    def _collect(poi, section_slug=None):
+        m = _marker_from_page_rich(poi)
+        if not m:
+            return
+        k = (m["lat"], m["lng"])
+        if k in seen:
+            return
+        seen.add(k)
+        tags = set(poi.meta.get("tags") or [])
+        if "curbside" in tags:
+            m["curbside"] = True
+            curbside.append(m)
+        elif (tags & _SIGHT_SLUGS) or (section_slug in _SIGHT_SLUGS):
+            m["highlight"] = True
+            primary.append(m)
+        elif tags - _META_SLUGS:
+            m["highlight"] = False
+            secondary.append(m)
+
+    for poi in pois:
+        _collect(poi)
+    for nav in sections:
+        for poi in nav.tagged_pois():
+            _collect(poi, section_slug=nav.slug)
+
+    primary.sort(key=lambda m: m["score"], reverse=True)
+    secondary.sort(key=lambda m: m["score"], reverse=True)
+    return "city", primary + secondary + curbside
+
+
+def api_page_content(request, path):
+    """Return rendered body HTML and image for a page — used by the explore drawer."""
+    path = path.strip("/")
+    page = load_page(path)
+    if not page:
+        raise Http404
+    body_html = (
+        _prefix_internal_links(md.markdown(page.body), page.url_prefix)
+        if page.body else ""
+    )
+    data = {
+        "title": page.title,
+        "url": page.get_absolute_url(),
+        "body_html": body_html,
+        "snippet": page.meta.get("snippet", ""),
+    }
+    img = _image_path(page)
+    if img:
+        data["image_url"] = f"/content-image/{img}"
+        data["image_source"] = page.meta.get("image_source", "")
+        data["image_license"] = page.meta.get("image_license", "")
+        data["image_attribution"] = page.meta.get("image_attribution", "")
+    return JsonResponse(data)
+
+
+_CONTINENT_CENTROIDS = {
+    "europe":             (54.0,   15.0),
+    "asia":               (35.0,   90.0),
+    "africa":             ( 0.0,   20.0),
+    "northamerica":       (45.0, -100.0),
+    "southamerica":       (-15.0,  -60.0),
+    "australiaandpacific":(-25.0,  135.0),
+}
+
+
+def _world_markers():
+    """Return markers for all continents (world-level explore)."""
+    markers = []
+    for slug, (lat, lng) in _CONTINENT_CENTROIDS.items():
+        page = load_page(slug)
+        if not page:
+            continue
+        m = {
+            "lat": lat, "lng": lng,
+            "name": page.title,
+            "url": page.get_absolute_url(),
+            "path": page.path,
+            "highlight": True,
+            "score": float(page.meta.get("score", 0) or 0),
+            "snippet": page.meta.get("snippet", ""),
+            "tags": list(page.meta.get("tags") or []),
+        }
+        img = _image_path(page)
+        if img:
+            m["image_url"] = f"/content-image/{img}"
+        markers.append(m)
+    return markers
+
+
+def map_explore_world(request):
+    markers = _world_markers()
+    return render(request, "guide/map_explore.html", {
+        "page": None,
+        "page_title": "World",
+        "parent_title": "",
+        "parent_url": "",
+        "parent_path_json": mark_safe("null"),
+        "mode": "locations",
+        "markers_json": mark_safe(json.dumps(markers)),
+    })
+
+
+def api_explore_world(request):
+    markers = _world_markers()
+    return JsonResponse({
+        "title": "World",
+        "path": "",
+        "url": "/explore",
+        "snippet": "",
+        "mode": "locations",
+        "markers": markers,
+    })
+
+
+def map_explore(request, path):
+    path = path.strip("/")
+    page = load_page(path)
+    if not page:
+        raise Http404
+    mode, markers = _explore_markers(page)
+    # Build parent info: top-level pages (continents) link up to world explore
+    if "/" in page.path:
+        parent = load_page(page.path.rsplit("/", 1)[0])
+        parent_title = parent.title if parent else ""
+        parent_url = parent.get_absolute_url() if parent else ""
+        parent_path = parent.path if parent else ""
+    else:
+        parent_title = "World"
+        parent_url = "/explore"
+        parent_path = ""   # empty string = world root
+    return render(request, "guide/map_explore.html", {
+        "page": page,
+        "page_title": page.title,
+        "parent_title": parent_title,
+        "parent_url": parent_url,
+        "parent_path_json": mark_safe(json.dumps(parent_path)),
+        "mode": mode,
+        "markers_json": mark_safe(json.dumps(markers)),
+    })
+
+
+def api_explore(request, path):
+    path = path.strip("/")
+    page = load_page(path)
+    if not page:
+        raise Http404
+    mode, markers = _explore_markers(page)
+    data = {
+        "title": page.title,
+        "path": page.path,
+        "url": page.get_absolute_url(),
+        "snippet": page.meta.get("snippet", ""),
+        "mode": mode,
+        "markers": markers,
+    }
+    return JsonResponse(data)
 
 
 def _marker_from_page(page, highlight=False):
@@ -512,7 +838,7 @@ def _marker_from_page(page, highlight=False):
     return None
 
 
-def _collect_markers(page, nav_pages, locations, pois, city_tag_index=None):
+def _collect_markers(page, nav_pages, locations, pois, city_tag_index=None, extra_locations=None):
     markers = []
     seen = set()
 
@@ -522,6 +848,11 @@ def _collect_markers(page, nav_pages, locations, pois, city_tag_index=None):
             markers.append(m)
 
     for loc in locations:
+        add(_marker_from_page(loc))
+
+    # Linked destinations (e.g. day-trip locations on a section page) so the
+    # map shows them alongside any genuine-attraction POIs in the section.
+    for loc in extra_locations or []:
         add(_marker_from_page(loc))
 
     page_is_sight = page.slug in _SIGHT_SLUGS

@@ -1,0 +1,23 @@
+---
+done:
+  location_cleanup: '2026-04-09'
+  location_enrich: '2026-05-16'
+latitude: 52.9634
+loc_type: city
+longitude: 0.6395
+score: 7.44
+snippet: North Norfolk Coast village by tidal flats and salt marshes, near Titchwell
+  Marsh and Brancaster Staithe.
+title: Brancaster
+type: location
+image: brancaster.jpg
+image_source: https://commons.wikimedia.org/wiki/File:St_Mary_the_Virgin_Brancaster_Norfolk.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Russ Hamer
+---
+
+Brancaster is a small village on the North Norfolk Coast, sitting between Titchwell to the west and Brancaster Staithe to the east. The coast here is classic north Norfolk — wide tidal flats, salt marshes, and a beach backed by dunes.
+
+Just west of the village, the RSPB's Titchwell Marsh reserve is one of the best birdwatching sites in England. Offshore from Brancaster Staithe lie Scolt Head Island and Barrow Common, accessible by ferry and managed by the National Trust. Brancaster Staithe is also known for its mussels, harvested from the tidal creeks.
+
+The village has a pub, a primary school, and a Royal West Norfolk Golf Club with a championship links course on the beach. The coast road from King's Lynn runs through Brancaster on its way east towards Cromer and Great Yarmouth.

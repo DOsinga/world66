@@ -1,13 +1,15 @@
 ---
-title: "Zeughauskeller"
-type: poi
-latitude: 47.3700
+latitude: 47.37
 longitude: 8.5391
-tags:
-  - eating_out
-  - restaurant
-snippet: "Vast historic beer hall in a 15th-century arsenal, serving the unmissable Zürcher Geschnetzeltes"
 score: 6.3
+snippet: Vast historic beer hall in a 15th-century arsenal, serving the unmissable
+  Zürcher Geschnetzeltes
+tags:
+- eating_out
+- restaurant
+- city_lindenhof
+title: Zeughauskeller
+type: poi
 ---
 
 The Zeughauskeller occupies the converted 15th-century city armoury beside Paradeplatz — a single soaring stone-vaulted hall hung with halberds, cannons and pikes from the old arsenal, with long wooden tables that fill quickly at lunchtime and dinner. It is touristy, busy, and unapologetic, and it is also one of the few places in Zurich where the classic Swiss-German dishes are still done properly and at scale.

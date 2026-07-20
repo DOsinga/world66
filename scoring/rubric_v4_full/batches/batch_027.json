@@ -1,0 +1,588 @@
+[
+  {
+    "embedding_text": "Coca (Puerto Francisco de Orellana), Ecuador, South America",
+    "latitude": -0.4504,
+    "longitude": -76.9993,
+    "name": "Coca (Puerto Francisco de Orellana)",
+    "parent_chain": [
+      "South America",
+      "Ecuador"
+    ],
+    "path": "southamerica/ecuador/coca_puerto_francisco_de_orellana"
+  },
+  {
+    "embedding_text": "Acalayong, Rio Muni, Equatorial Guinea, Africa",
+    "latitude": 1.092698,
+    "longitude": 9.665485,
+    "name": "Acalayong",
+    "parent_chain": [
+      "Africa",
+      "Equatorial Guinea",
+      "Rio Muni"
+    ],
+    "path": "africa/equatorialguinea/riomuni/acalayong"
+  },
+  {
+    "embedding_text": "Vigo, Galicia, Spain, Europe",
+    "latitude": 42.2314,
+    "longitude": -8.7227,
+    "name": "Vigo",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Galicia"
+    ],
+    "path": "europe/spain/galicia/vigo_city"
+  },
+  {
+    "embedding_text": "Yackandandah, Victoria, Australia, Australia, Pacific & Antarctica",
+    "latitude": -36.3299,
+    "longitude": 146.8517,
+    "name": "Yackandandah",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "Victoria"
+    ],
+    "path": "australiaandpacific/australia/victoria/yackandandah"
+  },
+  {
+    "embedding_text": "Hamilton, Waikato, North Island, New Zealand, Australia, Pacific & Antarctica",
+    "latitude": -37.7879,
+    "longitude": 175.2818,
+    "name": "Hamilton",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "New Zealand",
+      "North Island",
+      "Waikato"
+    ],
+    "path": "australiaandpacific/newzealand/north_island/waikato/hamilton"
+  },
+  {
+    "embedding_text": "Great Zimbabwe, Zimbabwe, Africa",
+    "latitude": -20.2709,
+    "longitude": 30.9332,
+    "name": "Great Zimbabwe",
+    "parent_chain": [
+      "Africa",
+      "Zimbabwe"
+    ],
+    "path": "africa/zimbabwe/greatzimbabwe"
+  },
+  {
+    "embedding_text": "Zagora, Morocco, Africa",
+    "latitude": 30.327905,
+    "longitude": -5.836996,
+    "name": "Zagora",
+    "parent_chain": [
+      "Africa",
+      "Morocco"
+    ],
+    "path": "africa/morocco/zagora"
+  },
+  {
+    "embedding_text": "Zottegem, Belgium, Europe",
+    "latitude": 50.8642,
+    "longitude": 3.8103,
+    "name": "Zottegem",
+    "parent_chain": [
+      "Europe",
+      "Belgium"
+    ],
+    "path": "europe/belgium/zottegem"
+  },
+  {
+    "embedding_text": "Tehuacan, Mexico, North America",
+    "latitude": 18.465801,
+    "longitude": -97.397835,
+    "name": "Tehuacan",
+    "parent_chain": [
+      "North America",
+      "Mexico"
+    ],
+    "path": "northamerica/mexico/tehuacan"
+  },
+  {
+    "embedding_text": "Wausau, Wisconsin, United States, North America",
+    "latitude": 44.9598,
+    "longitude": -89.6273,
+    "name": "Wausau",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Wisconsin"
+    ],
+    "path": "northamerica/unitedstates/wisconsin/wausau"
+  },
+  {
+    "embedding_text": "Henry Mountains, Utah, United States, North America",
+    "latitude": 38.018614,
+    "longitude": -110.775178,
+    "name": "Henry Mountains",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Utah"
+    ],
+    "path": "northamerica/unitedstates/utah/henry_mountains"
+  },
+  {
+    "embedding_text": "Andersonville, Georgia, United States, North America",
+    "latitude": 32.195995,
+    "longitude": -84.139909,
+    "name": "Andersonville",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Georgia"
+    ],
+    "path": "northamerica/unitedstates/georgia/andersonville"
+  },
+  {
+    "embedding_text": "Middelburg, Netherlands, Europe",
+    "latitude": 51.499678,
+    "longitude": 3.613737,
+    "name": "Middelburg",
+    "parent_chain": [
+      "Europe",
+      "Netherlands"
+    ],
+    "path": "europe/netherlands/middelburg"
+  },
+  {
+    "embedding_text": "Xishuangbanna, Yunnan Province, China, Asia",
+    "latitude": 22.0099,
+    "longitude": 100.8036,
+    "name": "Xishuangbanna",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Yunnan Province"
+    ],
+    "path": "asia/china/yunnanprovince/xishuangbanna"
+  },
+  {
+    "embedding_text": "Tavira, Algarve, Portugal, Europe",
+    "latitude": 37.126249,
+    "longitude": -7.649912,
+    "name": "Tavira",
+    "parent_chain": [
+      "Europe",
+      "Portugal",
+      "Algarve"
+    ],
+    "path": "europe/portugal/algarve/tavira"
+  },
+  {
+    "embedding_text": "Bracieux, Loire valley, Centre, France, Europe",
+    "latitude": 47.548913,
+    "longitude": 1.542704,
+    "name": "Bracieux",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Centre",
+      "Loire valley"
+    ],
+    "path": "europe/france/centre/loirevalley/bracieux"
+  },
+  {
+    "embedding_text": "Dambulla, Sri Lanka, Asia",
+    "latitude": 7.874203,
+    "longitude": 80.651092,
+    "name": "Dambulla",
+    "parent_chain": [
+      "Asia",
+      "Sri Lanka"
+    ],
+    "path": "asia/srilanka/dambulla"
+  },
+  {
+    "embedding_text": "Cannon Beach, Oregon Coast North, Oregon, United States, North America",
+    "latitude": 45.890028,
+    "longitude": -123.961862,
+    "name": "Cannon Beach",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Oregon",
+      "Oregon Coast North"
+    ],
+    "path": "northamerica/unitedstates/oregon/oregoncoastnorth/cannonbeach"
+  },
+  {
+    "embedding_text": "Tarancon, La Mancha, Spain, Europe",
+    "latitude": 40.008607,
+    "longitude": -3.010224,
+    "name": "Tarancon",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "La Mancha"
+    ],
+    "path": "europe/spain/la_mancha/tarancon"
+  },
+  {
+    "embedding_text": "\u00c6r\u00f8, Denmark, Europe",
+    "latitude": 54.8731,
+    "longitude": 10.3322,
+    "name": "\u00c6r\u00f8",
+    "parent_chain": [
+      "Europe",
+      "Denmark"
+    ],
+    "path": "europe/denmark/aero"
+  },
+  {
+    "embedding_text": "Los Teques, Altos Mirandinos, Venezuela, South America",
+    "latitude": 10.343738,
+    "longitude": -67.045309,
+    "name": "Los Teques",
+    "parent_chain": [
+      "South America",
+      "Venezuela",
+      "Altos Mirandinos"
+    ],
+    "path": "southamerica/venezuela/altos_mirandinos/los_teques"
+  },
+  {
+    "embedding_text": "Barcelona, Catalonia, Spain, Europe",
+    "latitude": 41.38258,
+    "longitude": 2.177073,
+    "name": "Barcelona",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Catalonia"
+    ],
+    "path": "europe/spain/catalonia/barcelona"
+  },
+  {
+    "embedding_text": "Willemstad, Curacao, Netherlands Antilles, North America",
+    "latitude": 12.1696,
+    "longitude": -68.99,
+    "name": "Willemstad",
+    "parent_chain": [
+      "North America",
+      "Netherlands Antilles",
+      "Curacao"
+    ],
+    "path": "northamerica/netherlandsantilles/curacao/willemstad"
+  },
+  {
+    "embedding_text": "Joginder Nagar, Himachal Pradesh, India, Asia",
+    "latitude": 31.988,
+    "longitude": 76.783,
+    "name": "Joginder Nagar",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Himachal Pradesh"
+    ],
+    "path": "asia/india/himachalpradesh/joginder_nagar"
+  },
+  {
+    "embedding_text": "Sligachan, Skye, Scotland, United Kingdom, Europe",
+    "latitude": 57.290059,
+    "longitude": -6.174426,
+    "name": "Sligachan",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "Scotland",
+      "Skye"
+    ],
+    "path": "europe/unitedkingdom/scotland/skye/sligachan"
+  },
+  {
+    "embedding_text": "Hussaini, Gojal Valley, Hunza valley, Pakistan, Asia",
+    "latitude": 36.448,
+    "longitude": 74.9006,
+    "name": "Hussaini",
+    "parent_chain": [
+      "Asia",
+      "Pakistan",
+      "Hunza valley",
+      "Gojal Valley"
+    ],
+    "path": "asia/pakistan/hunzavalley/gojal_valley/hussaini_sisuni"
+  },
+  {
+    "embedding_text": "Keszthely, Lake Balaton, Hungary, Europe",
+    "latitude": 46.7697,
+    "longitude": 17.2481,
+    "name": "Keszthely",
+    "parent_chain": [
+      "Europe",
+      "Hungary",
+      "Lake Balaton"
+    ],
+    "path": "europe/hungary/lakebalaton/keszthely"
+  },
+  {
+    "embedding_text": "Blanes, Spain, Europe",
+    "latitude": 41.675618,
+    "longitude": 2.793239,
+    "name": "Blanes",
+    "parent_chain": [
+      "Europe",
+      "Spain"
+    ],
+    "path": "europe/spain/blanes"
+  },
+  {
+    "embedding_text": "Maun, Botswana, Africa",
+    "latitude": -19.9861,
+    "longitude": 23.4224,
+    "name": "Maun",
+    "parent_chain": [
+      "Africa",
+      "Botswana"
+    ],
+    "path": "africa/botswana/maun"
+  },
+  {
+    "embedding_text": "Albany, New York State, United States, North America",
+    "latitude": 42.6512,
+    "longitude": -73.755,
+    "name": "Albany",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "New York State"
+    ],
+    "path": "northamerica/unitedstates/newyorkstate/albany"
+  },
+  {
+    "embedding_text": "Anyang, Henan Province, China, Asia",
+    "latitude": 36.0956,
+    "longitude": 114.3461,
+    "name": "Anyang",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Henan Province"
+    ],
+    "path": "asia/china/henan_province/anyang"
+  },
+  {
+    "embedding_text": "St. Anton, Austria, Europe",
+    "latitude": 47.13,
+    "longitude": 10.27,
+    "name": "St. Anton",
+    "parent_chain": [
+      "Europe",
+      "Austria"
+    ],
+    "path": "europe/austria/stanton"
+  },
+  {
+    "embedding_text": "Mumbai, Maharashtra, India, Asia",
+    "latitude": 19.054999,
+    "longitude": 72.869203,
+    "name": "Mumbai",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Maharashtra"
+    ],
+    "path": "asia/india/maharashtra/mumbai"
+  },
+  {
+    "embedding_text": "Livingstonia, Malawi, Africa",
+    "latitude": -10.6,
+    "longitude": 34.1167,
+    "name": "Livingstonia",
+    "parent_chain": [
+      "Africa",
+      "Malawi"
+    ],
+    "path": "africa/malawi/livingstonia"
+  },
+  {
+    "embedding_text": "Quezon City, Philippines, Asia",
+    "latitude": 14.651055,
+    "longitude": 121.048625,
+    "name": "Quezon City",
+    "parent_chain": [
+      "Asia",
+      "Philippines"
+    ],
+    "path": "asia/philippines/quezoncity"
+  },
+  {
+    "embedding_text": "Adrar, Algeria, Africa",
+    "latitude": 27.8742,
+    "longitude": -0.2939,
+    "name": "Adrar",
+    "parent_chain": [
+      "Africa",
+      "Algeria"
+    ],
+    "path": "africa/algeria/adrar"
+  },
+  {
+    "embedding_text": "Haderslev, Denmark, Europe",
+    "latitude": 55.250071,
+    "longitude": 9.499787,
+    "name": "Haderslev",
+    "parent_chain": [
+      "Europe",
+      "Denmark"
+    ],
+    "path": "europe/denmark/haderslev"
+  },
+  {
+    "embedding_text": "Agra, Uttar Pradesh, India, Asia",
+    "latitude": 27.175255,
+    "longitude": 78.009816,
+    "name": "Agra",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Uttar Pradesh"
+    ],
+    "path": "asia/india/uttarpradesh/agra"
+  },
+  {
+    "embedding_text": "Mandalay, Myanmar, Asia",
+    "latitude": 21.959683,
+    "longitude": 96.094874,
+    "name": "Mandalay",
+    "parent_chain": [
+      "Asia",
+      "Myanmar"
+    ],
+    "path": "asia/myanmar/mandalay"
+  },
+  {
+    "embedding_text": "Huntington Beach, Orange County, California, United States, North America",
+    "latitude": 33.6783,
+    "longitude": -118.0,
+    "name": "Huntington Beach",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "California",
+      "Orange County"
+    ],
+    "path": "northamerica/unitedstates/california/orangecounty/huntingtonbeach"
+  },
+  {
+    "embedding_text": "La Crosse, Wisconsin, United States, North America",
+    "latitude": 43.812284,
+    "longitude": -91.251435,
+    "name": "La Crosse",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Wisconsin"
+    ],
+    "path": "northamerica/unitedstates/wisconsin/lacrosse"
+  },
+  {
+    "embedding_text": "Douglas, Isle of Man, Europe",
+    "latitude": 54.149774,
+    "longitude": -4.477902,
+    "name": "Douglas",
+    "parent_chain": [
+      "Europe",
+      "Isle of Man"
+    ],
+    "path": "europe/isleofman/douglas"
+  },
+  {
+    "embedding_text": "Guide, Qinghai Province, China, Asia",
+    "latitude": 36.0392,
+    "longitude": 101.4271,
+    "name": "Guide",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Qinghai Province"
+    ],
+    "path": "asia/china/qinghai/guide"
+  },
+  {
+    "embedding_text": "Atar, Mauritania, Africa",
+    "latitude": 20.518194,
+    "longitude": -13.054393,
+    "name": "Atar",
+    "parent_chain": [
+      "Africa",
+      "Mauritania"
+    ],
+    "path": "africa/mauritania/atar"
+  },
+  {
+    "embedding_text": "Esquel, Argentina, South America",
+    "latitude": -42.917305,
+    "longitude": -71.321651,
+    "name": "Esquel",
+    "parent_chain": [
+      "South America",
+      "Argentina"
+    ],
+    "path": "southamerica/argentina/esquel"
+  },
+  {
+    "embedding_text": "Gulbarga, Karnataka, India, Asia",
+    "latitude": 17.3297,
+    "longitude": 76.8343,
+    "name": "Gulbarga",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Karnataka"
+    ],
+    "path": "asia/india/karnataka/gulbarga"
+  },
+  {
+    "embedding_text": "Su Nuraxi di Barumini, Sardinia, Italy, Europe",
+    "latitude": 39.705867,
+    "longitude": 8.990894,
+    "name": "Su Nuraxi di Barumini",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Sardinia"
+    ],
+    "path": "europe/italy/sardinia/sunuraxi"
+  },
+  {
+    "embedding_text": "Massa, Tuscany, Italy, Europe",
+    "latitude": 44.035932,
+    "longitude": 10.139552,
+    "name": "Massa",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Tuscany"
+    ],
+    "path": "europe/italy/tuscany/massa"
+  },
+  {
+    "embedding_text": "Darkhan, Mongolia, Asia",
+    "latitude": 49.492243,
+    "longitude": 105.936161,
+    "name": "Darkhan",
+    "parent_chain": [
+      "Asia",
+      "Mongolia"
+    ],
+    "path": "asia/mongolia/darkhan"
+  },
+  {
+    "embedding_text": "Broken Arrow, Oklahoma, United States, North America",
+    "latitude": 36.052599,
+    "longitude": -95.790819,
+    "name": "Broken Arrow",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Oklahoma"
+    ],
+    "path": "northamerica/unitedstates/oklahoma/broken_arrow"
+  }
+]

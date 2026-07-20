@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-09'
   location_enrich: '2026-05-21'
 latitude: -41.234862
-loc_type: city
+loc_type: region
 longitude: 173.306509
 score: 8.74
 snippet: Sunny South Island region of fruit country, sheltered bays, and trails near

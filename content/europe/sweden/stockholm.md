@@ -2,6 +2,7 @@
 done:
   city_tag_migration: '2026-04-17'
   location_enrich: '2026-05-23'
+  major_city_neighborhoods: '2026-06-25'
   poi_cleanup: '2026-04-20'
 image: stockholm.jpg
 image_attribution: Martin Falbisoner
@@ -10,9 +11,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_of_Stockholm_-_Au
 latitude: 59.325117
 loc_type: city
 longitude: 18.071093
+quick_facts:
+  Archipelago: 30,000 islands beyond
+  Islands: Built on 14
+  Metro: World's longest art gallery
+  Nobel Prizes: Awarded each December
 score: 9.41
 snippet: Island-built Nordic capital where Lake Mälaren meets the Baltic and boats
   open the archipelago.
+tip: Stockholm spreads over 14 islands, so a hop-on boat or a kayak is the way to
+  see it — and the archipelago of 30,000 islands beyond is a summer day-trip dream.
+  Gamla Stan, the old town, is gorgeous but tourist-priced; eat a street hot dog or
+  head to Södermalm. Buy an SL card for the metro, whose stations are painted like
+  an art gallery.
 title: Stockholm
 type: location
 ---

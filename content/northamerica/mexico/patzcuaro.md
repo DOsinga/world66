@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:El_sagrario.jpg
 latitude: 19.5164
 loc_type: city
 longitude: -101.6097
-score: 0.45
+score: 7.22
 snippet: Michoacán lake town of Purépecha culture, whitewashed colonial streets, and
   candlelit Day of the Dead vigils.
 sources:

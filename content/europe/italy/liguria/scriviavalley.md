@@ -6,7 +6,7 @@ image: casella_railway.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Ferrovia_Genova-Casella.jpg
 latitude: 44.55
-loc_type: city
+loc_type: feature
 longitude: 8.97
 score: 7.13
 snippet: Inland Ligurian valley of chestnut woods, small towns, and old routes toward

@@ -1,5 +1,7 @@
 ---
-title: "Day Trips"
+linked_locations:
+- europe/croatia/trsteno_arboretum
+title: Day Trips
 type: section
 ---
 

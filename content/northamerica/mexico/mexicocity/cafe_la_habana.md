@@ -2,7 +2,7 @@
 title: "Café La Habana"
 type: poi
 snippet: "Old-school café where Castro and Che reportedly plotted the revolution"
-tags: [bars_and_cafes, bar]
+tags: [bars_and_cafes, bar, juarez]
 address: "Bucareli 62, Colonia Juárez"
 latitude: 19.4309
 longitude: -99.1521

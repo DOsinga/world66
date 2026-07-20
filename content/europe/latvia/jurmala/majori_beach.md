@@ -1,7 +1,12 @@
 ---
+latitude: 56.9765
+longitude: 23.7985
 score: 8.8
 tags:
 - things_to_do
+- sight
+- beach
+- swimming
 title: Majori and Dubulti Beach
 type: poi
 ---

@@ -11,9 +11,19 @@ image_source: https://commons.wikimedia.org/wiki/File:00_3331_Edinburgh_-_Schott
 latitude: 55.953346
 loc_type: city
 longitude: -3.188375
+quick_facts:
+  Castle Rock: An extinct volcano
+  Inspired: Harry Potter
+  Population: 530,000
+  The Fringe: World's biggest arts festival
 score: 9.92
 snippet: Scottish capital built on volcanic rock, where medieval closes and Georgian
   terraces face across a former loch.
+tip: Edinburgh is built on hills and old volcanoes, so wear real shoes and expect
+  stairs — the steep 'closes' off the Royal Mile are shortcuts locals use. Come in
+  August for the Fringe, the world's biggest arts festival, but book everything months
+  ahead and brace for triple the crowds. Climb Arthur's Seat for the best free view
+  in the city.
 title: Edinburgh
 type: location
 ---
@@ -30,5 +40,5 @@ In August, the city transforms for the **Festivals** — the Fringe, the Interna
 
 ## Destinations in Edinburgh
 
-[New Town](/europe/unitedkingdom/scotland/edinburgh/newtown_1)
+[New Town](/europe/unitedkingdom/scotland/edinburgh/newtown)
 [Stockbridge](/europe/unitedkingdom/scotland/edinburgh/stockbridge)

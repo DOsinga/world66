@@ -52,6 +52,7 @@ However, before getting ready to the travel you should know some specific requir
  
  
  [Persepolis](/asia/iran/persepolis)
+ [Qazvin](/asia/iran/qazvin)
  [Shiraz](/asia/iran/shiraz)
  [Tabriz](/asia/iran/tabriz)
  

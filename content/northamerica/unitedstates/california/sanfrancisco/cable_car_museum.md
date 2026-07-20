@@ -6,6 +6,7 @@ snippet: Free museum inside the working powerhouse that pulls every cable car in
 tags:
 - things_to_do
 - museum
+- nob_hill
 title: Cable Car Museum
 type: poi
 score: 9.0

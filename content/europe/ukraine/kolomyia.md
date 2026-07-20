@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pysanka_Kolomyia_05.JPG
 latitude: 48.5306
 loc_type: city
 longitude: 25.0403
-score: 0.45
+score: 7.22
 snippet: Pokuttia city on the Prut, known for Hutsul craft museums and its giant pysanka.
 sources:
 - https://en.wikipedia.org/wiki/Kolomyia

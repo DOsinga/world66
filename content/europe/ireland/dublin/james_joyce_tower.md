@@ -3,6 +3,10 @@ address: Sandycove Point, Dún Laoghaire, Co. Dublin
 admission: €8 adults, €6 concessions
 done:
   poi_cleanup: '2026-04-19'
+image: james_joyce_tower.jpg
+image_attribution: Rrburke
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:James_Joyce_Tower_and_Museum,_living_area_(1).jpg
 latitude: 53.289345
 longitude: -6.105734
 opening_hours: Apr–Oct daily 10:00–18:00; Nov–Mar Sat–Sun 10:00–17:00
@@ -10,9 +14,9 @@ phone: +353 1 280 9265
 score: 7.4
 snippet: Martello tower where Ulysses opens, now a Joyce museum
 tags:
+- things_to_do
 - sight
 - museum
-- day_trips
 title: James Joyce Tower & Museum
 type: poi
 url: https://www.jamesjoyce.ie/james-joyce-tower-museum

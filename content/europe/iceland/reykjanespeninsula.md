@@ -4,7 +4,7 @@ done:
 latitude: 63.9
 loc_type: feature
 longitude: -22.25
-score: 0.58
+score: 7.66
 snippet: Volcanic peninsula by Keflavík Airport, where lava fields, geothermal vents,
   and the Mid-Atlantic Ridge meet the sea.
 sources:

@@ -1,7 +1,14 @@
 ---
+latitude: -37.8999
+longitude: 145.0894
 score: 7.8
+sources:
+- https://latitude.to/articles-by-country/au/australia/35924/oakleigh-victoria
 tags:
 - eating_out
+- cafe
+- greek
+- pastry
 title: Greek Pastry Shops
 type: poi
 ---

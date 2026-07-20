@@ -3,7 +3,7 @@ latitude: 19.3551
 longitude: -99.1623
 tags:
 - things_to_do
-- coyoacán
+- coyoacan
 - museum
 snippet: "The iconic blue house where Frida lived, painted, and died"
 title: Museo Frida Kahlo

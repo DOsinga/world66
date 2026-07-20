@@ -2,6 +2,7 @@
 address: Snagov Island, Snagov Lake
 latitude: 44.705
 longitude: 26.1864
+score: 7.8
 snippet: Island monastery 40 km north, traditional burial place of Vlad the Impaler
 story: Local tradition holds that Vlad Țepeș was buried here in 1476 after being killed
   in battle against the Ottomans. When his supposed tomb was opened in 1933 it contained

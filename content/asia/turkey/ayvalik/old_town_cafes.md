@@ -1,7 +1,13 @@
 ---
+latitude: 39.319
+longitude: 26.6954
 score: 6.4
+sources:
+- https://time-ok.com/coordinates/ayvalik
 tags:
 - bars_and_cafes
+- cafe
+- old_town
 title: Old Town Cafes
 type: poi
 ---

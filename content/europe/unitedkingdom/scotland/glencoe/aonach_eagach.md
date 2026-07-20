@@ -4,10 +4,15 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 56.6888
 longitude: -5.0501
+score: 9.1
 snippet: The most exposed ridge scramble on the Scottish mainland
+tags:
+- things_to_do
+- sight
+- hiking
+- mountain
 title: Aonach Eagach
 type: poi
-score: 9.1
 ---
 
 The notched ridge running along the north side of the valley is one of the great scrambles on the Scottish mainland. The traverse from the east top to Am Bodach covers about 10 kilometres and is not a walk — there are genuine exposed sections where a slip could be fatal. Do not attempt it with anyone suffering from vertigo, and check conditions carefully before setting out. On a clear day the views down into the glen and across to Bidean nam Bian are exceptional.

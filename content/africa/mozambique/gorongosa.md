@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gorongosa_-_Waterbucks.JPG
 latitude: -18.766
 loc_type: feature
 longitude: 34.5
-score: 0.48
+score: 7.33
 snippet: Central Mozambican national park where floodplains, lions, and long-term
   restoration tell a rare comeback story.
 sources:

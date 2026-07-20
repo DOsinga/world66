@@ -4,7 +4,7 @@ done:
 latitude: 44.3747
 loc_type: city
 longitude: -100.3206
-score: 0.36
+score: 6.9
 snippet: Quiet Missouri River capital with a domed capitol, prairie history, and Fort
   Pierre across the water.
 sources:

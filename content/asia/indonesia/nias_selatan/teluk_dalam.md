@@ -18,4 +18,4 @@ Teluk Dalam is the capital of South Nias and the starting point for everything t
 
 The hilltop village of [Bawömataluo](/asia/indonesia/nias_selatan/teluk_dalam/bawomataluo), about 14 kilometres from Teluk Dalam, is the most impressive of Nias's traditional villages. Reached by climbing a long stone staircase, the village is arranged around a central courtyard lined with massive wooden chiefs' houses raised on stilts. Stone-jumping — young men leaping over a two-metre stone column — was traditionally a rite of passage and is still performed for visitors. The village is a UNESCO tentative site and one of the most remarkable pieces of living architecture in Southeast Asia.
 
-Getting here from [Gunungsitoli](/asia/indonesia/nias_selatan/gunungsitoli) takes about four hours by road. Shared transport runs through the day but dries up by late afternoon, so plan accordingly.
+Getting here from [Gunungsitoli](/asia/indonesia/nias/gununsitoli) takes about four hours by road. Shared transport runs through the day but dries up by late afternoon, so plan accordingly.

@@ -6,6 +6,7 @@ Walks content/ and runs a battery of checks. Reports issues grouped by
 check; some checks have mechanical fixes available via --fix.
 
 Checks:
+  markdown_newlines       markdown uses LF and final newline          [fixable]
   frontmatter_parse        YAML frontmatter fails to load            [fixable]
   duplicate_image_keys     image_* keys repeated in frontmatter      [fixable]
   bad_attribution_quotes   image_attribution with unescaped inner "  [fixable]
@@ -14,16 +15,22 @@ Checks:
   missing_coordinates      type=location without latitude/longitude  [report]
   invalid_loc_type         loc_type not in allowed set               [report]
   invalid_page_type        type field not in allowed set             [report]
+  missing_poi_fields       type=poi missing required frontmatter      [report]
+  day_trip_poi             type=poi tagged day_trips (must be a link) [warn]
+  invalid_poi_score        type=poi score is not 1.0-10.0             [report]
   continent_misplaced      file at content/<X>.md but not continent  [report]
   country_misplaced        continent child but loc_type != country   [report]
   city_has_child_location  city contains a child location page        [report]
   non_canonical_section    section slug not in canonical set         [partial fix]
   broken_link              markdown link to /<path> doesn't resolve  [report]
 
-Exits non-zero if any unfixable issues remain after fixes are applied.
+Exits non-zero if any unfixable blocking issues remain after fixes are
+applied. Checks listed in WARNING_CHECKS are reported but do not fail the
+build (used while a new rule's pre-existing violations are cleaned up).
 """
 
 import argparse
+import os
 import re
 import sys
 import subprocess
@@ -89,6 +96,58 @@ class Issue:
             return str(self.path.relative_to(REPO))
         except ValueError:
             return str(self.path)
+
+
+# ---------------------------------------------------------------------------
+# Raw file checks
+# ---------------------------------------------------------------------------
+
+def _tracked_markdown_files() -> list[Path]:
+    result = subprocess.run(
+        ["git", "ls-files", "-z", "*.md"],
+        cwd=REPO,
+        check=True,
+        stdout=subprocess.PIPE,
+    )
+    return [
+        REPO / os.fsdecode(name)
+        for name in result.stdout.split(b"\0")
+        if name
+    ]
+
+
+def check_markdown_newlines() -> list[Issue]:
+    issues = []
+    for path in _tracked_markdown_files():
+        try:
+            data = path.read_bytes()
+        except FileNotFoundError:
+            # File is tracked in git but deleted from working tree (staged deletion pending)
+            continue
+        problems = []
+        if b"\r\n" in data or b"\r" in data:
+            problems.append("uses CRLF line endings")
+        if data and not data.endswith(b"\n"):
+            problems.append("missing final newline")
+        if problems:
+            issues.append(Issue(
+                path=path,
+                check="markdown_newlines",
+                message=", ".join(problems),
+                fixer=lambda p=path: fix_markdown_newlines(p),
+            ))
+    return issues
+
+
+def fix_markdown_newlines(path: Path) -> bool:
+    data = path.read_bytes()
+    fixed = data.replace(b"\r\n", b"\n").replace(b"\r", b"\n")
+    if fixed and not fixed.endswith(b"\n"):
+        fixed += b"\n"
+    if fixed == data:
+        return False
+    path.write_bytes(fixed)
+    return True
 
 
 # ---------------------------------------------------------------------------
@@ -306,6 +365,75 @@ def check_invalid_page_type(pages: list[Page]) -> list[Issue]:
     return issues
 
 
+def check_missing_poi_fields(pages: list[Page]) -> list[Issue]:
+    issues = []
+    required = ("tags", "latitude", "longitude", "score")
+    for p in pages:
+        if p.page_type != "poi":
+            continue
+        missing = [
+            key for key in required
+            if p.meta.get(key) in (None, "")
+        ]
+        if missing:
+            issues.append(Issue(
+                path=p.path,
+                check="missing_poi_fields",
+                message=f"type=poi without {', '.join(missing)}",
+            ))
+    return issues
+
+
+def check_day_trip_poi(pages: list[Page]) -> list[Issue]:
+    """day_trips entries must be linked locations, not POIs.
+
+    A day trip is a destination in its own right — a town, a larger area, or
+    a natural feature — listed via ``linked_locations`` and pointing at a real
+    location page. A POI carrying the ``day_trips`` tag stands in for such a
+    destination inside the city directory, so flag it: promote it to a
+    ``loc_type: city``/``feature`` page and link it, or drop the tag.
+    """
+    issues = []
+    for p in pages:
+        if p.page_type != "poi":
+            continue
+        tags = p.meta.get("tags") or []
+        if isinstance(tags, str):
+            tags = [tags]
+        if "day_trips" in tags:
+            issues.append(Issue(
+                path=p.path,
+                check="day_trip_poi",
+                message=(
+                    "type=poi tagged day_trips; a day trip must be a linked "
+                    "location (loc_type city/feature), not a POI"
+                ),
+            ))
+    return issues
+
+
+def check_invalid_poi_score(pages: list[Page]) -> list[Issue]:
+    issues = []
+    for p in pages:
+        if p.page_type != "poi" or p.meta.get("score") in (None, ""):
+            continue
+        score = p.meta["score"]
+        if isinstance(score, bool) or not isinstance(score, (int, float)):
+            issues.append(Issue(
+                path=p.path,
+                check="invalid_poi_score",
+                message=f"score={score!r} is not numeric",
+            ))
+            continue
+        if not 1.0 <= score <= 10.0:
+            issues.append(Issue(
+                path=p.path,
+                check="invalid_poi_score",
+                message=f"score={score!r} not in range 1.0-10.0",
+            ))
+    return issues
+
+
 def check_continent_misplaced(pages: list[Page]) -> list[Issue]:
     """Files directly in content/ should be continent locations."""
     issues = []
@@ -341,6 +469,8 @@ def check_country_misplaced(pages: list[Page]) -> list[Issue]:
         if p.path.parent.name == p.path.stem:
             continue
         if p.page_type == "section":
+            continue
+        if p.meta.get("loc_type") == "feature":
             continue
         if p.page_type != "location" or p.meta.get("loc_type") != "country":
             issues.append(Issue(
@@ -510,12 +640,22 @@ CHECKS = [
     check_missing_coordinates,
     check_invalid_loc_type,
     check_invalid_page_type,
+    check_missing_poi_fields,
+    check_day_trip_poi,
+    check_invalid_poi_score,
     check_continent_misplaced,
     check_country_misplaced,
     check_city_has_child_location,
     check_non_canonical_section,
     check_broken_links,
 ]
+
+# Checks that report but do not fail the build. Used to introduce a new rule
+# while its pre-existing violations are still being cleaned up; remove the
+# check's name here to make it blocking once the content is fixed.
+WARNING_CHECKS = {
+    "day_trip_poi",
+}
 
 
 # ---------------------------------------------------------------------------
@@ -566,6 +706,15 @@ def main() -> int:
                     help="Max examples to print per check (default 10)")
     args = ap.parse_args()
 
+    newline_issues = check_markdown_newlines()
+
+    if args.fix and newline_issues:
+        print(f"Applying markdown newline fixes to {len(newline_issues)} files...")
+        for issue in newline_issues:
+            if issue.fixer:
+                issue.fixer()
+        newline_issues = check_markdown_newlines()
+
     parse_issues, pages = collect_parse_issues()
 
     if args.fix and parse_issues:
@@ -592,14 +741,26 @@ def main() -> int:
             for check in CHECKS:
                 structural_issues.extend(check(pages))
 
-    all_issues = parse_issues + structural_issues
+    warning_issues = [i for i in structural_issues if i.check in WARNING_CHECKS]
+    blocking_issues = (
+        newline_issues + parse_issues
+        + [i for i in structural_issues if i.check not in WARNING_CHECKS]
+    )
+
+    all_issues = blocking_issues + warning_issues
     if not all_issues:
         print("Clean — no issues found.")
         return 0
 
     print(f"\n{len(all_issues)} total issues across {len(set(i.check for i in all_issues))} checks:")
     print_issues(all_issues, limit=args.limit)
-    return 1
+
+    if warning_issues:
+        print(
+            f"\n{len(warning_issues)} warning(s) in {sorted(set(i.check for i in warning_issues))} "
+            "do not fail the build (pre-existing violations being cleaned up)."
+        )
+    return 1 if blocking_issues else 0
 
 
 if __name__ == "__main__":

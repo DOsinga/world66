@@ -1,6 +1,7 @@
 ---
 country: Botswana
 done:
+  link_coverage: '2026-06-26'
   wikitravel_coverage: '2026-06-05'
 image: chobenationalpark.jpg
 image_attribution: Diego Delso

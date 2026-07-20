@@ -28,4 +28,5 @@ To the north of the province is Mount Carleton Provincial Park which is particul
 [Moncton](/northamerica/canada/newbrunswick/moncton)
 [Saint John](/northamerica/canada/newbrunswick/saintjohn)
 [St. Andrews](/northamerica/canada/newbrunswick/standrews)
+[Gagetown](/northamerica/canada/newbrunswick/gagetown)
 Fredericton

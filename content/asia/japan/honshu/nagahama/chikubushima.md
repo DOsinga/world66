@@ -1,4 +1,8 @@
 ---
+image: chikubushima.jpg
+image_attribution: KimonBerlin
+image_license: CC BY-SA 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Ducks_resting_on_Chikubu-shima_(2097358828).jpg
 latitude: 35.466
 longitude: 136.1328
 score: 8.5
@@ -8,7 +12,6 @@ tags:
 - things_to_do
 - sight
 - island
-- day_trips
 title: Chikubu-shima
 type: poi
 ---

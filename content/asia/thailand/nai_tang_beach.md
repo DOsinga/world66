@@ -1,8 +1,11 @@
 ---
+latitude: 8.085801
+longitude: 98.304393
 score: 7.4
 tags:
 - beaches
-- sight
+- things_to_do
+- beach
 title: Nai Yang Beach
 type: poi
 ---

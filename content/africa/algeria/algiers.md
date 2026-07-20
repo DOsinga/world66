@@ -11,11 +11,21 @@ image_source: https://commons.wikimedia.org/wiki/File:Algiers_in_the_morning.jpg
 latitude: 36.7538
 loc_type: city
 longitude: 3.0588
+quick_facts:
+  Casbah: A UNESCO hillside maze
+  Founded: 944 AD
+  Nickname: Alger la Blanche (the White)
+  Population: ~3 million
 score: 7.11
-title: Algiers
-type: location
 snippet: Mediterranean capital of white hillside buildings, where the Casbah rises
   above a French colonial centre.
+tip: Algiers tumbles down to the bay in tiers of white French-colonial facades — locals
+  call it 'Alger la Blanche', the white city. Wander the steep, lane-knotted Casbah
+  by day and with a guide; it's a UNESCO site but easy to get lost in. Few people
+  speak English, so a little French goes a long way, and dress modestly away from
+  the seafront.
+title: Algiers
+type: location
 ---
 
 Algeria's capital sprawls along the Mediterranean coast, a city of steep hills and white buildings that earned it the nickname la Blanche — the White City. Close to three million people live here, making it the largest city in the Maghreb.

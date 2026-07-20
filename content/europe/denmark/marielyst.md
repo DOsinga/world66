@@ -2,7 +2,7 @@
 latitude: 54.6644
 longitude: 11.9617
 loc_type: city
-score: 0.4
+score: 7.04
 snippet: Denmark's most popular beach resort, with a long white Baltic sand beach
   backed by pine forest and thousands of summer cottages.
 tags:

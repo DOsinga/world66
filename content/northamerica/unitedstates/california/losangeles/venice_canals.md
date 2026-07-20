@@ -6,9 +6,13 @@ longitude: -118.4661890
 tags:
   - things_to_do
   - sight
+  - architecture
+  - walking
   - venice_beach
 score: 7.0
 snippet: Quiet network of surviving canals with arched footbridges just south of the boardwalk
+source: wikivoyage
+source_url: "https://en.wikivoyage.org/wiki/Abbot_Kinney"
 ---
 
 The last surviving stretch of the canal network that Abbot Kinney dug in 1905 to recreate Venice, Italy — complete, briefly, with imported gondoliers. Most of the sixteen miles were paved over in 1929, but a handful of waterways south of the boardwalk remain, lined with walkways, small arched footbridges, and some of the most coveted houses in the city.

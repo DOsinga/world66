@@ -1,7 +1,14 @@
 ---
+latitude: -37.8995
+longitude: 145.0892
 score: 8.0
+sources:
+- https://latitude.to/articles-by-country/au/australia/35924/oakleigh-victoria
 tags:
 - eating_out
+- restaurant
+- greek
+- souvlaki
 title: Eaton Mall Souvlaki Strip
 type: poi
 ---

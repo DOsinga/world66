@@ -1,0 +1,585 @@
+[
+  {
+    "embedding_text": "Sagres, Algarve, Portugal, Europe",
+    "latitude": 37.007829,
+    "longitude": -8.941924,
+    "name": "Sagres",
+    "parent_chain": [
+      "Europe",
+      "Portugal",
+      "Algarve"
+    ],
+    "path": "europe/portugal/algarve/sagres"
+  },
+  {
+    "embedding_text": "Asansol, West Bengal, India, Asia",
+    "latitude": 23.68713,
+    "longitude": 86.974659,
+    "name": "Asansol",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "West Bengal"
+    ],
+    "path": "asia/india/westbengal/asansol"
+  },
+  {
+    "embedding_text": "Oudenaarde, Belgium, Europe",
+    "latitude": 50.8434,
+    "longitude": 3.6041,
+    "name": "Oudenaarde",
+    "parent_chain": [
+      "Europe",
+      "Belgium"
+    ],
+    "path": "europe/belgium/oudenaarde"
+  },
+  {
+    "embedding_text": "Bushmills, Northern Ireland, United Kingdom, Europe",
+    "latitude": 55.205991,
+    "longitude": -6.523416,
+    "name": "Bushmills",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "Northern Ireland"
+    ],
+    "path": "europe/unitedkingdom/northernireland/bushmills"
+  },
+  {
+    "embedding_text": "Pujols, Dordogne, Midi, France, Europe",
+    "latitude": 44.3864,
+    "longitude": 0.6892,
+    "name": "Pujols",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Midi",
+      "Dordogne"
+    ],
+    "path": "europe/france/midi/dordogne/pujols"
+  },
+  {
+    "embedding_text": "Taketomi Island, Ryukyu islands, Japan, Asia",
+    "latitude": 24.3263,
+    "longitude": 124.089,
+    "name": "Taketomi Island",
+    "parent_chain": [
+      "Asia",
+      "Japan",
+      "Ryukyu islands"
+    ],
+    "path": "asia/japan/ryukyuislands/taketomiisland"
+  },
+  {
+    "embedding_text": "Greymouth, New Zealand, Australia, Pacific & Antarctica",
+    "latitude": -42.45,
+    "longitude": 171.2075,
+    "name": "Greymouth",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "New Zealand"
+    ],
+    "path": "australiaandpacific/newzealand/greymouth"
+  },
+  {
+    "embedding_text": "Machu Picchu, Peru, South America",
+    "latitude": -13.164341,
+    "longitude": -72.545009,
+    "name": "Machu Picchu",
+    "parent_chain": [
+      "South America",
+      "Peru"
+    ],
+    "path": "southamerica/peru/machupicchu"
+  },
+  {
+    "embedding_text": "Itasca State Park, Minnesota, United States, North America",
+    "latitude": 47.188183,
+    "longitude": -95.219606,
+    "name": "Itasca State Park",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Minnesota"
+    ],
+    "path": "northamerica/unitedstates/minnesota/itascastatepark"
+  },
+  {
+    "embedding_text": "Concepci\u00f3n, Paraguay, South America",
+    "latitude": -23.1775,
+    "longitude": -57.1675,
+    "name": "Concepci\u00f3n",
+    "parent_chain": [
+      "South America",
+      "Paraguay"
+    ],
+    "path": "southamerica/paraguay/concepcion"
+  },
+  {
+    "embedding_text": "Echternach, Luxembourg, Europe",
+    "latitude": 49.812096,
+    "longitude": 6.421486,
+    "name": "Echternach",
+    "parent_chain": [
+      "Europe",
+      "Luxembourg"
+    ],
+    "path": "europe/luxembourg/echternach"
+  },
+  {
+    "embedding_text": "Vladivostok, Russia, Europe",
+    "latitude": 43.1151,
+    "longitude": 131.8856,
+    "name": "Vladivostok",
+    "parent_chain": [
+      "Europe",
+      "Russia"
+    ],
+    "path": "europe/russia/vladivostok"
+  },
+  {
+    "embedding_text": "Narragansett, Rhode Island, United States, North America",
+    "latitude": 41.432557,
+    "longitude": -71.457984,
+    "name": "Narragansett",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Rhode Island"
+    ],
+    "path": "northamerica/unitedstates/rhodeisland/narragansett"
+  },
+  {
+    "embedding_text": "Miami, Florida, United States, North America",
+    "latitude": 25.774157,
+    "longitude": -80.193597,
+    "name": "Miami",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Florida"
+    ],
+    "path": "northamerica/unitedstates/florida/miami"
+  },
+  {
+    "embedding_text": "Hof, Bavaria, Germany, Europe",
+    "latitude": 50.318751,
+    "longitude": 11.916299,
+    "name": "Hof",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Bavaria"
+    ],
+    "path": "europe/germany/bavaria/hof"
+  },
+  {
+    "embedding_text": "Mount Shasta, Shasta Cascade, California, United States, North America",
+    "latitude": 41.4093,
+    "longitude": -122.1949,
+    "name": "Mount Shasta",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "California",
+      "Shasta Cascade"
+    ],
+    "path": "northamerica/unitedstates/california/shastacascade/mountshasta"
+  },
+  {
+    "embedding_text": "Chitradurga, Karnataka, India, Asia",
+    "latitude": 14.304917,
+    "longitude": 76.529667,
+    "name": "Chitradurga",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Karnataka"
+    ],
+    "path": "asia/india/karnataka/chitradurga"
+  },
+  {
+    "embedding_text": "Nassau, Bahamas, North America",
+    "latitude": 25.048,
+    "longitude": -77.3554,
+    "name": "Nassau",
+    "parent_chain": [
+      "North America",
+      "Bahamas"
+    ],
+    "path": "northamerica/bahamas/nassau"
+  },
+  {
+    "embedding_text": "Nordingr\u00e5, The High Coast, Sweden, Europe",
+    "latitude": 62.8459,
+    "longitude": 18.6227,
+    "name": "Nordingr\u00e5",
+    "parent_chain": [
+      "Europe",
+      "Sweden",
+      "The High Coast"
+    ],
+    "path": "europe/sweden/the_high_coast/nordingr"
+  },
+  {
+    "embedding_text": "Norfolk, Virginia, United States, North America",
+    "latitude": 36.84937,
+    "longitude": -76.289954,
+    "name": "Norfolk",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Virginia"
+    ],
+    "path": "northamerica/unitedstates/virginia/norfolk"
+  },
+  {
+    "embedding_text": "Bitola, Macedonia, Europe",
+    "latitude": 41.031601,
+    "longitude": 21.330251,
+    "name": "Bitola",
+    "parent_chain": [
+      "Europe",
+      "Macedonia"
+    ],
+    "path": "europe/macedonia/bitola"
+  },
+  {
+    "embedding_text": "Bandiagara, Dogon Country, Mali, Africa",
+    "latitude": 14.3505,
+    "longitude": -3.6113,
+    "name": "Bandiagara",
+    "parent_chain": [
+      "Africa",
+      "Mali",
+      "Dogon Country"
+    ],
+    "path": "africa/mali/dogoncountry/bandiagara"
+  },
+  {
+    "embedding_text": "Leicester, Leicester, Nottingham and East Midlands, England, United Kingdom, Europe",
+    "latitude": 52.6362,
+    "longitude": -1.1332,
+    "name": "Leicester",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "Leicester, Nottingham and East Midlands"
+    ],
+    "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/leicester"
+  },
+  {
+    "embedding_text": "Mackinac Island, Michigan, United States, North America",
+    "latitude": 45.84907,
+    "longitude": -84.619857,
+    "name": "Mackinac Island",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Michigan"
+    ],
+    "path": "northamerica/unitedstates/michigan/mackinac_island"
+  },
+  {
+    "embedding_text": "Puerto El Cuyo, Mexico, North America",
+    "latitude": 21.516438,
+    "longitude": -87.674312,
+    "name": "Puerto El Cuyo",
+    "parent_chain": [
+      "North America",
+      "Mexico"
+    ],
+    "path": "northamerica/mexico/puerto_el_cuyo"
+  },
+  {
+    "embedding_text": "Broadford, Skye, Scotland, United Kingdom, Europe",
+    "latitude": 57.241015,
+    "longitude": -5.90618,
+    "name": "Broadford",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "Scotland",
+      "Skye"
+    ],
+    "path": "europe/unitedkingdom/scotland/skye/broadford"
+  },
+  {
+    "embedding_text": "Dagupan City, Philippines, Asia",
+    "latitude": 16.0433,
+    "longitude": 120.3341,
+    "name": "Dagupan City",
+    "parent_chain": [
+      "Asia",
+      "Philippines"
+    ],
+    "path": "asia/philippines/dagupancity"
+  },
+  {
+    "embedding_text": "Germa, Libya, Africa",
+    "latitude": 26.544,
+    "longitude": 13.064,
+    "name": "Germa",
+    "parent_chain": [
+      "Africa",
+      "Libya"
+    ],
+    "path": "africa/libya/germa"
+  },
+  {
+    "embedding_text": "Rauma, Finland, Europe",
+    "latitude": 61.1289,
+    "longitude": 21.5039,
+    "name": "Rauma",
+    "parent_chain": [
+      "Europe",
+      "Finland"
+    ],
+    "path": "europe/finland/rauma"
+  },
+  {
+    "embedding_text": "Sonora, Gold Country, California, United States, North America",
+    "latitude": 37.9829,
+    "longitude": -120.3822,
+    "name": "Sonora",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "California",
+      "Gold Country"
+    ],
+    "path": "northamerica/unitedstates/california/goldcountry/sonora"
+  },
+  {
+    "embedding_text": "Arbil, Iraq, Asia",
+    "latitude": 36.191174,
+    "longitude": 44.009414,
+    "name": "Arbil",
+    "parent_chain": [
+      "Asia",
+      "Iraq"
+    ],
+    "path": "asia/iraq/arbil"
+  },
+  {
+    "embedding_text": "Diamantina, Brazil, South America",
+    "latitude": -18.244086,
+    "longitude": -43.600649,
+    "name": "Diamantina",
+    "parent_chain": [
+      "South America",
+      "Brazil"
+    ],
+    "path": "southamerica/brazil/diamantina"
+  },
+  {
+    "embedding_text": "Muros, Galicia, Spain, Europe",
+    "latitude": 42.774411,
+    "longitude": -9.057535,
+    "name": "Muros",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Galicia"
+    ],
+    "path": "europe/spain/galicia/muros"
+  },
+  {
+    "embedding_text": "Toraja Highland, Sulawesi, Indonesia, Asia",
+    "latitude": -2.966619,
+    "longitude": 119.875,
+    "name": "Toraja Highland",
+    "parent_chain": [
+      "Asia",
+      "Indonesia",
+      "Sulawesi"
+    ],
+    "path": "asia/indonesia/sulawesi/toraja_highland"
+  },
+  {
+    "embedding_text": "Zhangmu, Tibet, China, Asia",
+    "latitude": 27.973045,
+    "longitude": 85.964383,
+    "name": "Zhangmu",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Tibet"
+    ],
+    "path": "asia/china/tibet/zhangmu"
+  },
+  {
+    "embedding_text": "Tieni-Siabli, Ivory Coast, Africa",
+    "latitude": 7.6833,
+    "longitude": -7.5167,
+    "name": "Tieni-Siabli",
+    "parent_chain": [
+      "Africa",
+      "Ivory Coast"
+    ],
+    "path": "africa/ivorycoast/tienisiabli"
+  },
+  {
+    "embedding_text": "Niagara Falls, Ontario, Canada, North America",
+    "latitude": 43.10656,
+    "longitude": -79.063904,
+    "name": "Niagara Falls",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "Ontario"
+    ],
+    "path": "northamerica/canada/ontario/niagrafalls"
+  },
+  {
+    "embedding_text": "Medina, Saudi Arabia, Asia",
+    "latitude": 24.471153,
+    "longitude": 39.611122,
+    "name": "Medina",
+    "parent_chain": [
+      "Asia",
+      "Saudi Arabia"
+    ],
+    "path": "asia/saudiarabia/medina"
+  },
+  {
+    "embedding_text": "White Sands, New Mexico, United States, North America",
+    "latitude": 32.3838,
+    "longitude": -106.4966,
+    "name": "White Sands",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "New Mexico"
+    ],
+    "path": "northamerica/unitedstates/newmexico/whitesands"
+  },
+  {
+    "embedding_text": "Guadalteba, Andalucia, Spain, Europe",
+    "latitude": 37.012262,
+    "longitude": -4.957831,
+    "name": "Guadalteba",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Andalucia"
+    ],
+    "path": "europe/spain/andalucia/guadalteba"
+  },
+  {
+    "embedding_text": "Tokushima, Shikoku, Japan, Asia",
+    "latitude": 34.066667,
+    "longitude": 134.55,
+    "name": "Tokushima",
+    "parent_chain": [
+      "Asia",
+      "Japan",
+      "Shikoku"
+    ],
+    "path": "asia/japan/shikoku/tokushima"
+  },
+  {
+    "embedding_text": "Baguio, Philippines, Asia",
+    "latitude": 16.4023,
+    "longitude": 120.596,
+    "name": "Baguio",
+    "parent_chain": [
+      "Asia",
+      "Philippines"
+    ],
+    "path": "asia/philippines/baguio"
+  },
+  {
+    "embedding_text": "Nyk\u00f8bing Falster, Denmark, Europe",
+    "latitude": 54.7694,
+    "longitude": 11.8739,
+    "name": "Nyk\u00f8bing Falster",
+    "parent_chain": [
+      "Europe",
+      "Denmark"
+    ],
+    "path": "europe/denmark/nykoebing_falster"
+  },
+  {
+    "embedding_text": "Motta S. Anastasia, Sicily, Italy, Europe",
+    "latitude": 37.4648,
+    "longitude": 14.9355,
+    "name": "Motta S. Anastasia",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Sicily"
+    ],
+    "path": "europe/italy/sicily/motta_s_anastasia"
+  },
+  {
+    "embedding_text": "Chobe National Park, Botswana, Africa",
+    "latitude": -17.85,
+    "longitude": 24.75,
+    "name": "Chobe National Park",
+    "parent_chain": [
+      "Africa",
+      "Botswana"
+    ],
+    "path": "africa/botswana/chobenationalpark"
+  },
+  {
+    "embedding_text": "Hurtigruten, Norway, Europe",
+    "latitude": 68.429137,
+    "longitude": 17.425708,
+    "name": "Hurtigruten",
+    "parent_chain": [
+      "Europe",
+      "Norway"
+    ],
+    "path": "europe/norway/hurtigruten"
+  },
+  {
+    "embedding_text": "Gorski Kotar, Croatia, Europe",
+    "latitude": 44.958411,
+    "longitude": 14.409484,
+    "name": "Gorski Kotar",
+    "parent_chain": [
+      "Europe",
+      "Croatia"
+    ],
+    "path": "europe/croatia/gorski_kotar"
+  },
+  {
+    "embedding_text": "Oropesa, La Mancha, Spain, Europe",
+    "latitude": 39.917514,
+    "longitude": -5.174724,
+    "name": "Oropesa",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "La Mancha"
+    ],
+    "path": "europe/spain/la_mancha/oropesa"
+  },
+  {
+    "embedding_text": "Surat, Gujarat, India, Asia",
+    "latitude": 21.17024,
+    "longitude": 72.831062,
+    "name": "Surat",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Gujarat"
+    ],
+    "path": "asia/india/gujarat/surat"
+  },
+  {
+    "embedding_text": "Tamberma, Togo, Africa",
+    "latitude": 10.0833,
+    "longitude": 1.1333,
+    "name": "Tamberma",
+    "parent_chain": [
+      "Africa",
+      "Togo"
+    ],
+    "path": "africa/togo/tamberma"
+  }
+]

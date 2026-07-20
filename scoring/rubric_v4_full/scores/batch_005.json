@@ -1,0 +1,302 @@
+{
+  "northamerica/thecaribbean/martinique/saintpierre": {
+    "culture": 7,
+    "nature": 8,
+    "leisure": 6,
+    "adventure": 3
+  },
+  "australiaandpacific/australia/newsouthwales/sydney": {
+    "culture": 8,
+    "nature": 6,
+    "leisure": 10,
+    "adventure": 2
+  },
+  "northamerica/unitedstates/arizona/cave_creek": {
+    "culture": 3,
+    "nature": 6,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "northamerica/unitedstates/idaho/salmon_river": {
+    "culture": 3,
+    "nature": 9,
+    "leisure": 3,
+    "adventure": 7
+  },
+  "asia/myanmar/nyangshwe": {
+    "culture": 6,
+    "nature": 8,
+    "leisure": 5,
+    "adventure": 4
+  },
+  "asia/iran/bandareanzali": {
+    "culture": 5,
+    "nature": 6,
+    "leisure": 5,
+    "adventure": 3
+  },
+  "europe/russia/ulyanovsk": {
+    "culture": 5,
+    "nature": 4,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "southamerica/colombia/santamarta": {
+    "culture": 6,
+    "nature": 8,
+    "leisure": 7,
+    "adventure": 4
+  },
+  "northamerica/unitedstates/oregon/corvallis": {
+    "culture": 4,
+    "nature": 6,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "europe/poland/sosnowiec": {
+    "culture": 3,
+    "nature": 2,
+    "leisure": 2,
+    "adventure": 1
+  },
+  "europe/austria/altaussee": {
+    "culture": 4,
+    "nature": 9,
+    "leisure": 7,
+    "adventure": 3
+  },
+  "northamerica/canada/britishcolumbia/salmonarm": {
+    "culture": 3,
+    "nature": 7,
+    "leisure": 5,
+    "adventure": 3
+  },
+  "northamerica/thecaribbean/haiti/caphaitien": {
+    "culture": 8,
+    "nature": 6,
+    "leisure": 3,
+    "adventure": 6
+  },
+  "asia/india/mizoram/aizawl": {
+    "culture": 6,
+    "nature": 7,
+    "leisure": 3,
+    "adventure": 5
+  },
+  "asia/turkey/eskisehir": {
+    "culture": 6,
+    "nature": 4,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "asia/india/andhrapradesh/mangalagiri": {
+    "culture": 5,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 2
+  },
+  "europe/czechrepublic/plzen": {
+    "culture": 7,
+    "nature": 4,
+    "leisure": 6,
+    "adventure": 1
+  },
+  "australiaandpacific/guam/merizo": {
+    "culture": 4,
+    "nature": 7,
+    "leisure": 5,
+    "adventure": 3
+  },
+  "africa/nigeria/portharcourt": {
+    "culture": 6,
+    "nature": 4,
+    "leisure": 3,
+    "adventure": 7
+  },
+  "southamerica/colombia/armenia": {
+    "culture": 5,
+    "nature": 7,
+    "leisure": 5,
+    "adventure": 3
+  },
+  "europe/france/centre/loirevalley/staignan": {
+    "culture": 6,
+    "nature": 5,
+    "leisure": 6,
+    "adventure": 1
+  },
+  "northamerica/unitedstates/hawaii/kauai": {
+    "culture": 5,
+    "nature": 10,
+    "leisure": 8,
+    "adventure": 4
+  },
+  "northamerica/unitedstates/idaho/kellogg": {
+    "culture": 3,
+    "nature": 7,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "europe/unitedkingdom/england/south_east/rochester": {
+    "culture": 6,
+    "nature": 4,
+    "leisure": 4,
+    "adventure": 1
+  },
+  "europe/greece/rhodes/rhodescity": {
+    "culture": 8,
+    "nature": 7,
+    "leisure": 8,
+    "adventure": 2
+  },
+  "australiaandpacific/tuvalu/nukulaelaeatoll": {
+    "culture": 4,
+    "nature": 9,
+    "leisure": 3,
+    "adventure": 7
+  },
+  "europe/portugal/theazores/angra_do_heroismo": {
+    "culture": 8,
+    "nature": 8,
+    "leisure": 6,
+    "adventure": 3
+  },
+  "northamerica/unitedstates/texas/buffalo_gap": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 1
+  },
+  "northamerica/saintvincentandthegrenadines/stvincentisland": {
+    "culture": 5,
+    "nature": 8,
+    "leisure": 6,
+    "adventure": 4
+  },
+  "europe/france/east/champagne/troyes": {
+    "culture": 7,
+    "nature": 4,
+    "leisure": 7,
+    "adventure": 1
+  },
+  "northamerica/dominicanrepublic/puertoplata/cabarete": {
+    "culture": 5,
+    "nature": 8,
+    "leisure": 8,
+    "adventure": 4
+  },
+  "europe/netherlands/friesland/sneek": {
+    "culture": 5,
+    "nature": 5,
+    "leisure": 5,
+    "adventure": 1
+  },
+  "europe/ireland/aranislands/inismor": {
+    "culture": 7,
+    "nature": 8,
+    "leisure": 5,
+    "adventure": 3
+  },
+  "europe/spain/balearicislands/mallorca/palma1": {
+    "culture": 8,
+    "nature": 6,
+    "leisure": 9,
+    "adventure": 2
+  },
+  "northamerica/unitedstates/oregon/sisters": {
+    "culture": 4,
+    "nature": 8,
+    "leisure": 6,
+    "adventure": 3
+  },
+  "northamerica/unitedstates/california/northcoast/sebastopol": {
+    "culture": 4,
+    "nature": 6,
+    "leisure": 7,
+    "adventure": 2
+  },
+  "northamerica/thecaribbean/guadeloupe/basseterre": {
+    "culture": 6,
+    "nature": 8,
+    "leisure": 6,
+    "adventure": 3
+  },
+  "europe/slovenia/maribor": {
+    "culture": 6,
+    "nature": 5,
+    "leisure": 6,
+    "adventure": 2
+  },
+  "europe/germany/lowersaxony/hildesheim": {
+    "culture": 7,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 1
+  },
+  "northamerica/unitedstates/california/solanabeach": {
+    "culture": 3,
+    "nature": 5,
+    "leisure": 7,
+    "adventure": 1
+  },
+  "asia/afghanistan/kandahar": {
+    "culture": 8,
+    "nature": 4,
+    "leisure": 1,
+    "adventure": 9
+  },
+  "europe/portugal/algarve/odelouca": {
+    "culture": 3,
+    "nature": 6,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "africa/mali/dogoncountry/sanga": {
+    "culture": 9,
+    "nature": 8,
+    "leisure": 2,
+    "adventure": 7
+  },
+  "asia/malaysia/kotabharu": {
+    "culture": 7,
+    "nature": 5,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "europe/norway/northcape/skarsvg_the_nort": {
+    "culture": 3,
+    "nature": 9,
+    "leisure": 3,
+    "adventure": 6
+  },
+  "europe/italy/veneto/padua": {
+    "culture": 9,
+    "nature": 4,
+    "leisure": 7,
+    "adventure": 1
+  },
+  "europe/spain/centralspain/salamanca": {
+    "culture": 9,
+    "nature": 4,
+    "leisure": 7,
+    "adventure": 1
+  },
+  "europe/iceland/reykjavik": {
+    "culture": 7,
+    "nature": 8,
+    "leisure": 7,
+    "adventure": 3
+  },
+  "europe/spain/canaryislands/lanzarote/playa_blanca": {
+    "culture": 4,
+    "nature": 8,
+    "leisure": 8,
+    "adventure": 3
+  },
+  "northamerica/unitedstates/ohio/zanesville": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 1
+  }
+}

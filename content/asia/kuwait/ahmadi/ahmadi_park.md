@@ -1,7 +1,11 @@
 ---
+latitude: 29.0928
+longitude: 48.0733
 score: 7.7
 tags:
 - things_to_do
+- sight
+- park
 title: Ahmadi Park
 type: poi
 ---

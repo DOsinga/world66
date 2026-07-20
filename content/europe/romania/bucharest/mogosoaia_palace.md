@@ -2,6 +2,7 @@
 address: Strada Valea Parcului 1, Mogoșoaia
 latitude: 44.4868
 longitude: 25.975
+score: 7.6
 snippet: Brâncovenesc-style palace and gardens 15 km outside Bucharest
 story: Constantin Brâncoveanu, who built the palace in 1702, was beheaded by the Ottomans
   in Constantinople in 1714 along with his four sons because he refused to convert

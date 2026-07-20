@@ -4,13 +4,14 @@ latitude: 35.670521
 longitude: 139.765802
 opening_hours: Mon–Sat lunch and dinner; closed Sun
 price_range: ¥8,000–15,000
+score: 7.3
 snippet: The finest tempura counter in Tokyo, run by a legendary chef
 tags:
 - eating_out
 - restaurant
+- ginza
 title: Tempura Kondo
 type: poi
-score: 7.3
 ---
 
 Fumio Kondo is widely regarded as the greatest tempura chef working today. His restaurant on the ninth floor of a Ginza building has been serving his distinctive style — lighter batter than traditional tempura, longer frying times, a particular focus on vegetables — for decades. The result is tempura that seems to transform each ingredient rather than merely coat it.

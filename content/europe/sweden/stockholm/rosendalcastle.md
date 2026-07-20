@@ -1,7 +1,7 @@
 ---
 address: Djurgården
-latitude: 59.325168
-longitude: 18.121606
+latitude: 59.3289098
+longitude: 18.1173353
 phone: +46 (0)8 402 61 30
 snippet: Intimate 1820s royal palace with original Swedish Empire interiors
 tags:

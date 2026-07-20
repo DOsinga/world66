@@ -1,0 +1,302 @@
+{
+  "northamerica/canada/quebec/montlaurier": {
+    "culture": 3,
+    "nature": 7,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "europe/italy/liguria/portovenere": {
+    "culture": 7,
+    "nature": 7,
+    "leisure": 8,
+    "adventure": 2
+  },
+  "africa/zimbabwe/manapools": {
+    "culture": 3,
+    "nature": 10,
+    "leisure": 4,
+    "adventure": 6
+  },
+  "northamerica/unitedstates/newyorkstate/the_finger_lakes/corning": {
+    "culture": 4,
+    "nature": 5,
+    "leisure": 5,
+    "adventure": 1
+  },
+  "asia/thailand/tarutao": {
+    "culture": 3,
+    "nature": 9,
+    "leisure": 5,
+    "adventure": 4
+  },
+  "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/hawes_and_gayle": {
+    "culture": 5,
+    "nature": 7,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "northamerica/unitedstates/massachusetts/beverly": {
+    "culture": 4,
+    "nature": 4,
+    "leisure": 5,
+    "adventure": 1
+  },
+  "northamerica/unitedstates/apalachiantrail": {
+    "culture": 4,
+    "nature": 9,
+    "leisure": 3,
+    "adventure": 8
+  },
+  "northamerica/greenland/narsaq": {
+    "culture": 4,
+    "nature": 9,
+    "leisure": 2,
+    "adventure": 8
+  },
+  "southamerica/peru/pucallpa": {
+    "culture": 4,
+    "nature": 8,
+    "leisure": 3,
+    "adventure": 6
+  },
+  "asia/india/bihar/bodhgaya": {
+    "culture": 10,
+    "nature": 4,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "asia/japan/honshu/notohanto": {
+    "culture": 6,
+    "nature": 7,
+    "leisure": 6,
+    "adventure": 2
+  },
+  "australiaandpacific/newzealand/south_island/otago/queenstown": {
+    "culture": 5,
+    "nature": 9,
+    "leisure": 9,
+    "adventure": 6
+  },
+  "africa/egypt/mansoura": {
+    "culture": 5,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "southamerica/brazil/blumenal": {
+    "culture": 6,
+    "nature": 5,
+    "leisure": 6,
+    "adventure": 1
+  },
+  "europe/unitedkingdom/england/manchester_liverpool_and_north_west/pendle/downham": {
+    "culture": 5,
+    "nature": 6,
+    "leisure": 4,
+    "adventure": 1
+  },
+  "asia/pakistan/khan_pur": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 4
+  },
+  "australiaandpacific/niue/huvalutropicalrainforest": {
+    "culture": 3,
+    "nature": 9,
+    "leisure": 3,
+    "adventure": 5
+  },
+  "europe/italy/veneto/vodo_di_cadore": {
+    "culture": 4,
+    "nature": 8,
+    "leisure": 5,
+    "adventure": 4
+  },
+  "africa/burkinafaso/tibl": {
+    "culture": 8,
+    "nature": 4,
+    "leisure": 2,
+    "adventure": 5
+  },
+  "australiaandpacific/frenchpolynesia/rangiroa/avatoru": {
+    "culture": 4,
+    "nature": 10,
+    "leisure": 8,
+    "adventure": 4
+  },
+  "northamerica/unitedstates/alabama/lake_martin": {
+    "culture": 2,
+    "nature": 6,
+    "leisure": 6,
+    "adventure": 1
+  },
+  "northamerica/unitedstates/newmexico/espanola": {
+    "culture": 5,
+    "nature": 6,
+    "leisure": 4,
+    "adventure": 2
+  },
+  "europe/germany/bavaria/berchtesgaden": {
+    "culture": 6,
+    "nature": 10,
+    "leisure": 7,
+    "adventure": 4
+  },
+  "europe/italy/tuscany/florenceprovince/florentinearea/pratolino": {
+    "culture": 7,
+    "nature": 5,
+    "leisure": 6,
+    "adventure": 1
+  },
+  "europe/greece/prefecture_of_serres/serres": {
+    "culture": 5,
+    "nature": 5,
+    "leisure": 5,
+    "adventure": 1
+  },
+  "asia/thailand/kohlanta": {
+    "culture": 4,
+    "nature": 8,
+    "leisure": 8,
+    "adventure": 3
+  },
+  "asia/thailand/chiang_dao": {
+    "culture": 4,
+    "nature": 8,
+    "leisure": 5,
+    "adventure": 4
+  },
+  "australiaandpacific/australia/northernterritory/kakadunationalpark": {
+    "culture": 7,
+    "nature": 10,
+    "leisure": 4,
+    "adventure": 6
+  },
+  "southamerica/brazil/sao_luis": {
+    "culture": 8,
+    "nature": 5,
+    "leisure": 6,
+    "adventure": 2
+  },
+  "northamerica/unitedstates/california/inlandempire/ontario": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 5,
+    "adventure": 1
+  },
+  "northamerica/mexico/maruata": {
+    "culture": 4,
+    "nature": 7,
+    "leisure": 5,
+    "adventure": 4
+  },
+  "europe/lithuania/kaunas": {
+    "culture": 7,
+    "nature": 4,
+    "leisure": 6,
+    "adventure": 1
+  },
+  "northamerica/canada/britishcolumbia/duncan": {
+    "culture": 4,
+    "nature": 6,
+    "leisure": 5,
+    "adventure": 1
+  },
+  "northamerica/guatemala/lakeizabal": {
+    "culture": 5,
+    "nature": 8,
+    "leisure": 4,
+    "adventure": 4
+  },
+  "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/stonehenge": {
+    "culture": 10,
+    "nature": 5,
+    "leisure": 4,
+    "adventure": 1
+  },
+  "europe/france/midi/languedoc/toulouse": {
+    "culture": 8,
+    "nature": 4,
+    "leisure": 8,
+    "adventure": 1
+  },
+  "europe/france/midi/basqueregion/stjeandeluz": {
+    "culture": 6,
+    "nature": 6,
+    "leisure": 8,
+    "adventure": 1
+  },
+  "northamerica/unitedstates/utah/south_coyote_butte": {
+    "culture": 2,
+    "nature": 10,
+    "leisure": 2,
+    "adventure": 7
+  },
+  "asia/pakistan/nowshera": {
+    "culture": 4,
+    "nature": 4,
+    "leisure": 2,
+    "adventure": 5
+  },
+  "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/leeds": {
+    "culture": 7,
+    "nature": 3,
+    "leisure": 7,
+    "adventure": 1
+  },
+  "asia/philippines/negrosisland/sagay_city": {
+    "culture": 4,
+    "nature": 6,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "europe/norway/harstad": {
+    "culture": 4,
+    "nature": 8,
+    "leisure": 5,
+    "adventure": 4
+  },
+  "europe/sweden/sveg": {
+    "culture": 3,
+    "nature": 7,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "europe/germany/saxonyanhalt/quedlinburg": {
+    "culture": 8,
+    "nature": 5,
+    "leisure": 6,
+    "adventure": 1
+  },
+  "australiaandpacific/australia/tasmania/eastcoast/st_helens": {
+    "culture": 3,
+    "nature": 8,
+    "leisure": 6,
+    "adventure": 3
+  },
+  "europe/italy/tuscany/san_qurico_d_orci": {
+    "culture": 7,
+    "nature": 7,
+    "leisure": 7,
+    "adventure": 1
+  },
+  "europe/denmark/aarhus": {
+    "culture": 8,
+    "nature": 4,
+    "leisure": 7,
+    "adventure": 1
+  },
+  "europe/armenia/ani": {
+    "culture": 9,
+    "nature": 6,
+    "leisure": 2,
+    "adventure": 6
+  },
+  "europe/france/midi/languedoc/hautlanguedoc_reg/monts_de_lespinouse": {
+    "culture": 4,
+    "nature": 8,
+    "leisure": 3,
+    "adventure": 4
+  }
+}

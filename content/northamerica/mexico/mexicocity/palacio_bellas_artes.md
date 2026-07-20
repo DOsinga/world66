@@ -5,6 +5,7 @@ snippet: Art nouveau opera house with Rivera murals and Tiffany curtain
 tags:
 - things_to_do
 - architecture
+- centro_historico
 title: Palacio de Bellas Artes
 type: poi
 score: 9.0

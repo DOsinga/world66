@@ -1,7 +1,11 @@
 ---
+latitude: 17.5724
+longitude: 120.3891
 score: 6.8
 tags:
 - eating_out
+- restaurant
+- heritage
 title: Café Leona
 type: poi
 ---

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:318_Sciacca_(Ag)_-_Sicily.
 latitude: 37.508
 loc_type: city
 longitude: 13.083
-score: 0.52
+score: 7.46
 snippet: South-coast Sicilian port of ceramics, thermal hills, carnival noise, and
   working fishing boats.
 sources:

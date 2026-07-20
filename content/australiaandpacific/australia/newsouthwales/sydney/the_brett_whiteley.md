@@ -9,6 +9,7 @@ snippet: Preserved studio-gallery of Australia's celebrated modern artist
 tags:
 - things_to_do
 - museum
+- surry_hills
 title: Brett Whiteley Studio
 type: poi
 url: www.artgallery.nsw.gov.au/brett-whiteley-studio

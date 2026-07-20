@@ -1,10 +1,14 @@
 ---
 latitude: -33.867552
 longitude: 151.199562
-snippet: "Waterfront entertainment district with museums and harbour walks"
+score: 7.1
+snippet: Waterfront entertainment district with museums and harbour walks
+tags:
+- things_to_do
+- sight
+- waterfront
 title: Darling Harbour
 type: poi
-score: 7.1
 ---
 
 Darling Harbour is Sydney's major waterfront precinct, transformed in the 1980s from a derelict dockyard into a sprawling entertainment district on the western edge of the CBD. It is a five-minute walk from Town Hall station.

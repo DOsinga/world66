@@ -1,13 +1,14 @@
 ---
-title: "National Garden"
-type: poi
 latitude: 37.9742
 longitude: 23.7378
-tags:
-  - things_to_do
-  - sight
-  - park
 score: 6.2
+tags:
+- things_to_do
+- sight
+- park
+- syntagma
+title: National Garden
+type: poi
 ---
 
 The National Garden is the green heart of central Athens, a 15-hectare park stretching south from the Parliament building behind Syntagma to the Panathenaic Stadium. Queen Amalia commissioned the garden in 1838 — Athens's first public park — and her gardeners planted Mediterranean species from across Greece and the Levant.

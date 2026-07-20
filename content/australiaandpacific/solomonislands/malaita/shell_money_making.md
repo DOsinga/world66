@@ -2,8 +2,9 @@
 score: 8.3
 tags:
 - things_to_do
+- culture
 title: Shell Money Making
-type: poi
+type: theme
 ---
 
 Malaita is the centre of production for tafuliae, the shell money that remains in active use across much of the Solomon Islands for bride price payments and ceremonial exchange. The process is painstaking: shells are broken into rough fragments, then ground by hand against stone into small discs, pierced, and strung in standardised lengths. Red shell discs — produced from a particular species of thorny oyster — are the most valuable, requiring more labour and commanding higher ceremonial worth than the white varieties.

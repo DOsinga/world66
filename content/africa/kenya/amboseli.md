@@ -3,9 +3,9 @@ country: Kenya
 done:
   lp_coverage: '2026-06-05'
 image: amboseli.jpg
-image_attribution: Amoghavarsha JS amoghavarsha.com
-image_license: CC BY-SA 3.0
-image_source: https://commons.wikimedia.org/wiki/File:Elephants_at_Amboseli_national_park_against_Mount_Kilimanjaro.jpg
+image_attribution: Ninaras
+image_license: CC BY 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Amboseli_National_Park_Kenya_07.jpg
 latitude: -2.6527
 loc_type: feature
 longitude: 37.2606

@@ -10,4 +10,4 @@ type: poi
 score: 8.3
 ---
 
-Ko Larn (Coral Island) lies about 7km offshore from Pattaya, reached by speedboat in around 15 minutes or a slower ferry in 45. The water here is cleaner than Pattaya's main beach, and several bays — Hat Tawaen, Hat Tien, Hat Nual — have snorkelling over coral. Glass-bottom boat trips are available. The island gets very busy on weekends with day-trippers; early weekday mornings are quieter. Speedboats depart from Bali Hai pier.
+Ko Larn (Coral Island) lies about 7km offshore from Pattaya and Jomtien Beach, reached by speedboat in around 15 minutes (roughly 300 baht round trip) or a slower public ferry in 45 minutes (around 30 baht). The water here is cleaner than Pattaya's main beach, and several bays — Hat Tawaen, Hat Tien, Hat Nual — have snorkelling over coral. Glass-bottom boat trips are available, and scooters or motorbike-taxis get you between the beaches. The island gets very busy on weekends with day-trippers; early weekday mornings are quieter, and staying overnight gets you the beaches to yourself before the boats arrive. Speedboats and ferries depart from Bali Hai pier.

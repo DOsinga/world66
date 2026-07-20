@@ -21,7 +21,7 @@ Thailand's southern coastline and islands are the reason many people come. The v
 
 ## Diving and Snorkelling
 
-The Andaman Sea has some of Southeast Asia's best diving. The Similan Islands (reachable from Khao Lak, north of Phuket) offer excellent visibility and diverse marine life. The waters around [Koh Tao](/asia/thailand/kohtao) in the Gulf of Thailand are calmer and particularly good for beginners. The diving season follows the weather: Andaman dive sites are best November to April; Gulf of Thailand sites are open most of the year.
+The Andaman Sea has some of Southeast Asia's best diving. The Similan Islands (reachable from [Khao Lak](/asia/thailand/khao_lak), north of Phuket) offer excellent visibility and diverse marine life. The waters around [Koh Tao](/asia/thailand/kohtao) in the Gulf of Thailand are calmer and particularly good for beginners. The diving season follows the weather: Andaman dive sites are best November to April; Gulf of Thailand sites are open most of the year.
 
 ## Khao Yai and the National Parks
 

@@ -21,6 +21,6 @@ Pendle Hill is less than 2,000 feet high but still towers over its immediate are
 
 ## Destinations in Pendle
 
-- [Downham](/europe/unitedkingdom/england/manchester_liverpool_and_north_west/pendle/downham)
-- [Bolton-by-Bowland](/europe/unitedkingdom/england/manchester_liverpool_and_north_west/pendle/bolton__by__bowl)
-- [Sabden](/europe/unitedkingdom/england/manchester_liverpool_and_north_west/pendle/sabden)
+- [Downham](/europe/unitedkingdom/england/north_west/pendle/downham)
+- [Bolton-by-Bowland](/europe/unitedkingdom/england/north_west/pendle/bolton__by__bowl)
+- [Sabden](/europe/unitedkingdom/england/north_west/pendle/sabden)

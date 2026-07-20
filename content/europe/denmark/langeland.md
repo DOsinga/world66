@@ -3,6 +3,7 @@ latitude: 54.83
 loc_type: feature
 longitude: 10.8
 score: 7.29
+snippet: Long, narrow Danish island of quiet coastal roads, rolling farmland, and small Baltic harbours.
 title: Langeland
 type: location
 image: langeland.jpg

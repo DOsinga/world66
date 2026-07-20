@@ -3,6 +3,7 @@ latitude: 43.62244
 loc_type: feature
 longitude: 26.02493
 score: 8.0
+snippet: Ruined medieval Bulgarian stronghold overlooking a bend in the Cherni Lom river.
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Rousse
 tags:

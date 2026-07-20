@@ -1,8 +1,8 @@
 ---
 address: Shtepia e Kultures, kati III
 email: muzeuvushtrri@hotmail.com
-latitude: 42.8231
-longitude: 20.9675
+latitude: 42.8226
+longitude: 20.9681
 opening_hours: 7-15
 phone: 028 573395
 snippet: Local history and ethnography of the Vushtrri region

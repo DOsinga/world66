@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Durdle_Door_Overview.jpg
 latitude: 50.796837
 loc_type: feature
 longitude: -2.344732
-score: 0.72
+score: 7.2
 snippet: Jurassic Coast World Heritage cliffs, chalk downland, market towns, and the
   Purbeck peninsula.
 title: Dorset

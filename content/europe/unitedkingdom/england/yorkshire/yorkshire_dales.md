@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2015_Swaledale_from_Kisdon
 latitude: 54.261643
 loc_type: feature
 longitude: -2.190951
-score: 0.82
+score: 8.2
 snippet: National park of limestone dales, waterfalls, dry-stone walls, and market
   towns from Skipton to Hawes.
 title: Yorkshire Dales

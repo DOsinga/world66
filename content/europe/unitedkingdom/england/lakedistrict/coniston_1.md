@@ -16,7 +16,7 @@ title: Coniston
 type: location
 ---
 
-Coniston is a small slate-grey village at the head of Coniston Water, tucked beneath some of the [Lake District's](/europe/unitedkingdom/england/manchester_liverpool_and_north_west/lakedistrict) finest fells. The lake is inseparable from the memory of Donald Campbell, who died here in 1967 attempting a new water speed record, but Coniston has far more to offer than that single famous tragedy.
+Coniston is a small slate-grey village at the head of Coniston Water, tucked beneath some of the [Lake District's](/europe/unitedkingdom/england/lakedistrict) finest fells. The lake is inseparable from the memory of Donald Campbell, who died here in 1967 attempting a new water speed record, but Coniston has far more to offer than that single famous tragedy.
 
 The village sits at the foot of the Coniston Fells, a compact group of mountains that reward proper exploration. The direct ascent of [Coniston Old Man](/europe/unitedkingdom/england/lakedistrict/coniston_1/coniston_old_man) is popular but predictable. A far better route loops up via Goat's Water and Dow Crag, crosses to the Old Man, then follows the ridge north to Wetherlam with views over the whole southern Lake District.
 

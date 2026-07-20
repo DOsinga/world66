@@ -5,9 +5,9 @@ image: telemark.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Tinn_gaustatoppen_rjukan_IMG_0057.JPG
 latitude: 59.396268
-loc_type: region
+loc_type: feature
 longitude: 8.66266
-score: 0.54
+score: 7.2
 snippet: Inland southern Norwegian county, associated with the Telemark Canal and
   the skiing technique bearing its name.
 title: Telemark

@@ -7,6 +7,7 @@ latitude: 14.2283
 loc_type: feature
 longitude: 74.7953
 score: 9.2
+snippet: Monsoon-fed Western Ghats waterfall where the Sharavathi River plunges 253 metres in four distinct cascades.
 story: Jog Falls was once described as the second highest untiered waterfall in the
   world, though the Linganmakki Dam upstream now controls its flow — the falls only
   thunder at full volume during the monsoon or when Karnataka Power Corporation releases

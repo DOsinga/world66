@@ -3,6 +3,7 @@ latitude: -19.9483
 loc_type: feature
 longitude: -69.6422
 score: 8.7
+snippet: Pre-Columbian anthropomorphic geoglyph stretching 86 metres across a barren hillside in Chile's Atacama Desert.
 story: Carved into a remote hillside near Huara, the 86-metre Atacama Giant is the
   largest anthropomorphic geoglyph in the world. The lines radiating from his head
   are thought to mark the position of the moon at different times of year — an astronomical

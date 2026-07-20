@@ -3,6 +3,7 @@ latitude: 35.5278
 loc_type: feature
 longitude: -113.2244
 score: 6.9
+snippet: Dry limestone cave system beneath Arizona's Route 66, reached by a 65-metre lift descent.
 story: 'In the 1960s the U.S. government stocked the caverns with enough freeze-dried
   food and water for two thousand people, designating them an official fallout shelter
   in the event of nuclear war on the West Coast. The provisions are still down there

@@ -24,7 +24,7 @@ On the top of the dune there is a sun clock. Althought after a recent hurricane 
 
 Parnidis (translated from Lithuanian that means "near Nida") Dune is well visible from the town so you can't miss it.
 
-### [Juodkrante: A Hill of Witches](/europe/lithuania/nidaandtheneringapeninsula/sights/juodkrante_a_hill)
+### [Juodkrante: A Hill of Witches](/europe/lithuania/nidaandtheneringapeninsula/juodkrante_a_hill)
 
 The main tourist attraction in the town of Juodkrante (the second biggest town in Neringa, the first town you will drive into if driving from Klaipeda) is of course the Hill of Witches.
 
@@ -36,9 +36,9 @@ type: general
 
 
 
-[[rate it]](/europe/lithuania/nidaandtheneringapeninsula/sights/juodkrante_a_hill)
+[[rate it]](/europe/lithuania/nidaandtheneringapeninsula/juodkrante_a_hill)
 
-### [Pervalka: The Dead Dunes](/europe/lithuania/nidaandtheneringapeninsula/sights/pervalka_the_dead)
+### [Pervalka: The Dead Dunes](/europe/lithuania/nidaandtheneringapeninsula/pervalka_the_dead)
 
 The Dead Dunes (also called the Gray Dunes or the Pyramidical Dunes) are one of the most fascinating sights in Neringa National Park. 
 
@@ -48,4 +48,4 @@ type: general
 
 
 
-[[rate it]](/europe/lithuania/nidaandtheneringapeninsula/sights/pervalka_the_dead)
+[[rate it]](/europe/lithuania/nidaandtheneringapeninsula/pervalka_the_dead)

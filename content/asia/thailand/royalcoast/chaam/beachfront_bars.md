@@ -4,8 +4,8 @@ type: poi
 tags:
   - bars_and_cafes
   - bar
-latitude: 12.7978
-longitude: 99.9702
+latitude: 12.7984
+longitude: 99.9698
 score: 4.7
 ---
 

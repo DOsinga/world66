@@ -1,26 +1,14 @@
 ---
-address: 31/4 Naresdamri Road, Hua Hin
+title: Seaside Restaurant
+type: poi
 latitude: 12.574585
 longitude: 99.958681
 tags:
 - eating_out
 - restaurant
-title: Seaside Restaurant
-type: poi
-url: www.seaside-restaurant.com
 score: 4.8
+snippet: Thai and international dining in a romantic seaside setting
+address: 31/4 Naresdamri Road, Hua Hin
 ---
 
-At the Seaside Restaurant, Hua Hin, we aim to provide the very best in Thai and
-international cuisine in a romantic seaside setting providing a most exciting
-and memorable dining experience.
-
-type: Thai
-
-
-
-
-
-url: [www.seaside-restaurant.com](http://www.seaside-restaurant.com/seaside-restaurant-menu/)
-
-address: 31/4 Naresdamri Road, Hua Hin
+A romantic seaside restaurant on Naresdamri Road serving a mix of Thai and international dishes, with a setting that leans toward special-occasion dinners rather than a quick casual meal.

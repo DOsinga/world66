@@ -1,21 +1,14 @@
 ---
+title: Oceanside Seafood and Grill
+type: poi
 latitude: 12.5792
 longitude: 99.9604
-phone: 032-531-470
-score: 4.9
 tags:
 - eating_out
 - restaurant
-title: Oceanside Seafood and Grill Restaurant Hua Hin
-type: poi
+- seafood
+score: 4.9
+snippet: Beachfront Thai and international dining opposite Putahracsa Resort
 ---
 
-Thai Cuisine and International Cuisine right by the sea in Hua Hin. Opposite Putahracsa Resort. Fine dining at an excellent location.
-
-type: Thai
-
-
-
-
-
-tel: 032-531-470
+A beachfront restaurant opposite the Putahracsa Resort, serving Thai and international dishes right by the water. A reliable choice for a fine-dining seafood dinner without the price tag of the resort restaurants next door.

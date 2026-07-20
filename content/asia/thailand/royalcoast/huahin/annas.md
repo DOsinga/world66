@@ -1,18 +1,15 @@
 ---
-address: Nabkehad Road Hua Hin
+title: Anna's
+type: poi
 latitude: 12.579
 longitude: 99.9605
-phone: 032-515-787
-price: THB 200 +
-score: 5.7
 tags:
 - eating_out
 - restaurant
 - beach
-title: Anna's
-type: poi
+score: 5.7
+snippet: 1920s-style beachfront restaurant with Thai and Asian fusion cuisine
+address: Nabkehad Road, Hua Hin
 ---
 
-Thai restaurant overlooking the beach just north of the town centre. Excellent Thai and Asia fusion cuisine. Excellent and charming service. The main buildings is circa 1920's style with a large terrace area overlooking the beach. Music is soft and quiet, ideal background. This is a 'must visit' restaurant in Hua Hin Thailand.
-
-type: Thai
+Anna's occupies a 1920s-style building just north of the town centre, with a large terrace overlooking the beach and a quiet, soft-music atmosphere. The kitchen serves Thai and Asian fusion food with charming, attentive service — a step up from the more casual spots along the same stretch.

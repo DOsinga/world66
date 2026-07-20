@@ -3,6 +3,7 @@ latitude: -29.7996
 loc_type: feature
 longitude: -67.8331
 score: 9.4
+snippet: Argentine national park of towering red sandstone canyons preserving a rich Triassic fossil record.
 tags:
 - park
 - nature

@@ -49,7 +49,7 @@ type: Mexican
 
 
 
-[[rate it]](/northamerica/mexico/ixtapazihuatanejo/salvadores)
+[[rate it]](/northamerica/mexico/ixtapazihuatanejo/eating_out/salvadores)
 
 address: Calle Adelita
 
@@ -76,7 +76,7 @@ type: Mexican
 
 
 
-[[rate it]](/northamerica/mexico/ixtapazihuatanejo/tamales_y_atoles_a)
+[[rate it]](/northamerica/mexico/ixtapazihuatanejo/eating_out/tamales_y_atoles_a)
 
 tel: 554-7373
 

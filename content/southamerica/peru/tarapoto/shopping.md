@@ -9,6 +9,6 @@ Most retail stores, pharmacies are on the Plaza de Armas or within close proximi
 
 For souviners, there are three main places to look. (Don´t wait until you are back at the airport where you will have to pay much more for the same items.) One place to look is Mercado #1, another place is the CentroComercial building in the East corner of the Plaza de Armas (opposite corner from IncaFarma), and you will also find artesanias one block off the Plaza on the street that starts as Jr. Ramon Castillo and uphill turns into Jr. Alegria Arias de Morey between Leonce Prado, between Jr. Lima and Jr. Leoncio Prado.
 
-### [Irinita's Net](/southamerica/peru/tarapoto/irinitas_net)
+### [Irinita's Net](/southamerica/peru/tarapoto/shopping/irinitas_net)
 
 Nestled in the new space of the largest ground-level Internet cafe in Tarapoto is an artesenia (local crafts) shop, featuring jewelry made from natural products with local designs and motifs. Necklaces, earrings, bracelets, keychains, coin purses, handpainted pottery, and other handicrafts are constantly rotated through the artesania collection at Irinita's Net. It is the northernmost artesania on a strip of shops that runs from Jr. Lima to Jr. Leoncio Prado on Jr. Alegria Arias de Morey.

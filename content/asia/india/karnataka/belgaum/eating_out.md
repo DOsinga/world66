@@ -10,7 +10,7 @@ type: section
 
 Food is quite Tasty. Make sure you have the Paneer Sashlik.
 
-### [Niyaz Restaurant (Hotel)](/asia/india/karnataka/belgaum/niyaz_restaurant)
+### [Niyaz Restaurant (Hotel)](/asia/india/karnataka/belgaum/eating_out/niyaz_restaurant)
 
 Lovely biryani. Opposite the main bus station in Belgaum. Cant miss it.
 
@@ -20,7 +20,7 @@ type: Indian and Pakistani
 
 
 
-[[rate it]](/asia/india/karnataka/belgaum/niyaz_restaurant)
+[[rate it]](/asia/india/karnataka/belgaum/eating_out/niyaz_restaurant)
 
 accessibility: very easy
 

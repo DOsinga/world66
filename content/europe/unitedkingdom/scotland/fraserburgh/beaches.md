@@ -9,12 +9,12 @@ The beach at Fraserburgh Bay (see photo in the gallery) is one of the finest in 
 **Contributors**
 July 09, 2006
 
-### [Fraserburgh Bay Beach](/europe/unitedkingdom/scotland/fraserburgh/fraseburgh_bay_bea)
+### [Fraserburgh Bay Beach](/europe/unitedkingdom/scotland/fraserburgh/beaches/fraseburgh_bay_bea)
 
 Golden sands extending east from the Broch for about a mile where it meets the waters o' Philorth (local nature reserve). Impressive sand dunes make this beach one of the finest around.
 
 
 
-[[rate it]](/europe/unitedkingdom/scotland/fraserburgh/fraseburgh_bay_bea)
+[[rate it]](/europe/unitedkingdom/scotland/fraserburgh/beaches/fraseburgh_bay_bea)
 
 email: rbmh@mac.com

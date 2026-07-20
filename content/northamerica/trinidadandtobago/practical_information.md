@@ -11,7 +11,7 @@ type: section
 
 Although some hotels, restaurants and shops accept and quote their prices in EUR and USD, most transactions are made in TTD. Major credit cards are accepted, as well as traveler’s cheques, in most mid-range to upper class establishments. There are ATM’s in the main towns.
 
-High season occurs in the dry season, when you should expect prices to go up, especially during [Carnival](/northamerica/trinidadandtobago/carnival)(either February or March). Nevertheless, Trinidad & Tobago remains one of the least expensive destinations in the Caribbean, which makes it a good choice for independent travelers.
+High season occurs in the dry season, when you should expect prices to go up, especially during [Carnival](/northamerica/trinidadandtobago/festivals/carnival)(either February or March). Nevertheless, Trinidad & Tobago remains one of the least expensive destinations in the Caribbean, which makes it a good choice for independent travelers.
 
 **Driving: **Citizens from USA , Canada and some European countries can use their home driver’s license; otherwise, an International Driving Permit is required. Driving is on the *left*. You must be 25 or older and hold a driving license for at least 2 years to rent a car. ****
 

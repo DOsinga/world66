@@ -5,7 +5,7 @@ type: section
 
 A handful of guidebooks and one good history to read before you go.
 
-### [Lonely Planet Berlin](/europe/germany/berlin/lonely_planet_berl)
+### [Lonely Planet Berlin](/europe/germany/berlin/books/lonely_planet_berl)
 
 ### Berlin (Eyewitness Travel Guides)
 

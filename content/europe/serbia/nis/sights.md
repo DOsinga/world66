@@ -32,7 +32,7 @@ address: Bul.Dr Zorana Djindjica bb
 
 email:
 
-### [Nis Concentration Camp](/europe/serbia/nis/nis_concentration)
+### [Nis Concentration Camp](/europe/serbia/nis/sights/nis_concentration)
 
 **Crveni krst** was a concentration camp located in the Serbian city of Niš, and operated by the Nazi Germans during the Second World War.
 

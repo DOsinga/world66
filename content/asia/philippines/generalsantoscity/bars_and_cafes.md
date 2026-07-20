@@ -25,6 +25,6 @@ This is a very good café to go to with family and friends. Its environment is p
 
 You get great seafood here. The tuna is especially fresh and will leave you smacking your lips for more. A must visit for all lovers of seafood.
 
-**[Vanessa](/asia/philippines/generalsantoscity/vanessa)**
+**[Vanessa](/asia/philippines/generalsantoscity/eating_out_1/vanessa)**
 
 One gets decent seafood here as well, although the portions are a bit small. All the cafes in this marvelous city specialize in seafood, especially fresh seafood. Visitors can expect groovy music at most bars. The Filipinos are a friendly people who love to party, and this is reflected in their bars. Most of the bards welcome tourists, and you can safely take a business colleague to any of the bars or cafes that flourish in the city.

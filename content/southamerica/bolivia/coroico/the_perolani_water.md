@@ -13,4 +13,4 @@ Perolani is a mysterious waterfall in the valley behind Tocana. From a distance 
 
 Whether you believe the legends or not, this is genuinely difficult terrain. The waterfall can be seen from the road to Mururata. A side track from the Polo Polo-Tocana road leads to the old Tocana soccer field, the closest accessible viewpoint. If you want to attempt an expedition, go with a guide and leave very early. There is accommodation in Tocana.
 
-For a similar but less risky adventure, try [Supay Punku](/southamerica/bolivia/coroico/supay_punku) instead.
+For a similar but less risky adventure, try [Supay Punku](/southamerica/bolivia/coroico/day_trips/supay_punku) instead.

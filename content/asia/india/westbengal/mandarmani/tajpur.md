@@ -12,7 +12,7 @@ title: Tajpur
 type: location
 ---
 
-Tajpur is a quiet beach in Purba Midnapur district, about four hours by road from [Kolkata](/asia/india/kolkata) and just a few kilometres from [Mandarmani](/asia/india/westbengal/mandarmani). It is less developed and less visited than nearby Digha, which is a strong recommendation in itself. The beach is wide, the sand is clean, and the shoreline is backed by stands of casuarina trees that provide welcome shade.
+Tajpur is a quiet beach in Purba Midnapur district, about four hours by road from [Kolkata](/asia/india/westbengal/kolkata) and just a few kilometres from [Mandarmani](/asia/india/westbengal/mandarmani). It is less developed and less visited than nearby Digha, which is a strong recommendation in itself. The beach is wide, the sand is clean, and the shoreline is backed by stands of casuarina trees that provide welcome shade.
 
 The appeal of Tajpur is its simplicity. This is a place to walk along the [beach](/asia/india/westbengal/mandarmani/tajpur/tajpur_beach), eat fresh seafood at one of the small shacks near the water, and watch the red crabs scuttle across the sand at low tide — the crabs are a distinctive feature of this stretch of coast and make for an unusual sight. The sea is calm enough for swimming most of the year, though the monsoon months bring rough surf.
 

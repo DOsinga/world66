@@ -22,7 +22,7 @@ or display just:
 
 **Show best rated on top** | [Show in alphabetical order](/asia/syria/homs/sights?sort=alpha)
 
-### [Great Mosque of Al Nuri](/asia/syria/homs/great_mosque_of_al)
+### [Great Mosque of Al Nuri](/asia/syria/homs/sights/great_mosque_of_al)
 
 This mosque is said to stand on the site of the Temple of Baal, and a later Church of St. John. The columns used in this mosque are of the oldest objects in this city.
 
@@ -30,11 +30,11 @@ type: Hotspots
 
 
 
-[[rate it]](/asia/syria/homs/great_mosque_of_al)
+[[rate it]](/asia/syria/homs/sights/great_mosque_of_al)
 
-### [Church of St. Elias (Mar Elian)](/asia/syria/homs/church_of_st_elia)
+### [Church of St. Elias (Mar Elian)](/asia/syria/homs/sights/church_of_st_elia)
 
-In 1970 a collection of fine murals were discovered in the crypt beneath a coat of plaster. This church dates ### [The Citadel](/asia/syria/homs/the_citadel)
+In 1970 a collection of fine murals were discovered in the crypt beneath a coat of plaster. This church dates ### [The Citadel](/asia/syria/homs/sights/the_citadel)
 
 Little remains of this citadel, which was destroyed in the 1830s by Ibrahim Pasha. It is located in the southwestern part of the city, on a natural mound surrounded by a moat. The mound is now off-limits. This citadel played an important role in the history of Homs especially under the Nourite, Ayyubite, and Mameluke states, the Ayyubites in particular.
 The very important point that the citadel stands on the site of the Temple of Baal (sun god).
@@ -43,9 +43,9 @@ type: Hotspots
 
 
 
-[[rate it]](/asia/syria/homs/the_citadel)
+[[rate it]](/asia/syria/homs/sights/the_citadel)
 
-### [Carc des Chevaliers (Qal'at al-Hosn)](/asia/syria/homs/carc_des_chevalier)
+### [Carc des Chevaliers (Qal'at al-Hosn)](/asia/syria/homs/sights/carc_des_chevalier)
 
 The most famous medieval citadel in the
 world, Qal'at al-Hosn is 65 km west of Homs .
@@ -62,13 +62,13 @@ type: Castles
 
 
 
-[[rate it]](/asia/syria/homs/carc_des_chevalier)
+[[rate it]](/asia/syria/homs/sights/carc_des_chevalier)
 
 openingHours: 0800 am to 0600pm
 
 address: 65 km west of Homs
 
-### [Zihrawi Palace](/asia/syria/homs/zihrawi_palace)
+### [Zihrawi Palace](/asia/syria/homs/sights/zihrawi_palace)
 
 One of the most famous ancient buildings in Homs is the al Zihrawi
 palace, which has been turned into a museum for popular traditions.
@@ -77,13 +77,13 @@ type: Palaces
 
 
 
-[[rate it]](/asia/syria/homs/zihrawi_palace)
+[[rate it]](/asia/syria/homs/sights/zihrawi_palace)
 
 openingHours: 0800 am to 0500pm
 
-### [Church of Umm Al Zunnar (the Virgin's Girdle)](/asia/syria/homs/church_of_umm_al_z)
+### [Church of Umm Al Zunnar (the Virgin's Girdle)](/asia/syria/homs/sights/church_of_umm_al_z)
 
-In 1953 a textile belt was found here under the altar, it is said to have belonged to the Virgin Mary. The current building only dates ### [Mosque of Khaled Ibn Al-Walid](/asia/syria/homs/mosque_of_khaled_i)
+In 1953 a textile belt was found here under the altar, it is said to have belonged to the Virgin Mary. The current building only dates ### [Mosque of Khaled Ibn Al-Walid](/asia/syria/homs/sights/mosque_of_khaled_i)
 
 The Ottoman style mosque was built directly before the First World War and holds the tomb of the great Muslim leader Khaled Ibn Al Walid.
 
@@ -91,10 +91,10 @@ type: Hotspots
 
 
 
-[[rate it]](/asia/syria/homs/mosque_of_khaled_i)
+[[rate it]](/asia/syria/homs/sights/mosque_of_khaled_i)
 
-### [Souks of Homs](/asia/syria/homs/souks_of_homs)
+### [Souks of Homs](/asia/syria/homs/sights/souks_of_homs)
 
-The souks of Homs are located in the ancient part of the city and occupy a large area. Most parts of the souk were constructed during the Ayyubite, Mameluke, and Ottoman periods. There are a few baths also dating ### [Qattina lake](/asia/syria/homs/qattina_lake)
+The souks of Homs are located in the ancient part of the city and occupy a large area. Most parts of the souk were constructed during the Ayyubite, Mameluke, and Ottoman periods. There are a few baths also dating ### [Qattina lake](/asia/syria/homs/sights/qattina_lake)
 
 The Qattina lake is 15 km from Homs, it is rich in fish, and has the first rainwater dam used in agriculture which dates

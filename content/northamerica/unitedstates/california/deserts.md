@@ -21,7 +21,7 @@ California's deserts are a study in contrasts: Golden eagles and red-tailed hawk
 [Death Valley](/northamerica/unitedstates/california/deserts/deathvalley)
 [Barstow](/northamerica/unitedstates/california/deserts/barstow)
 [Ridgecrest](/northamerica/unitedstates/california/deserts/ridgecrest)
-[Palm Springs](/northamerica/unitedstates/california/deserts/palmsprings)
-[Deserts](/northamerica/unitedstates/california/deserts)
+[Palm Springs](/northamerica/unitedstates/california/deserts/palmsprings/palmsprings)
+[Deserts](/northamerica/unitedstates/california/deserts/deserts)
 This is the Public Domain
 Anza Borrego

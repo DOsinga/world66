@@ -13,7 +13,7 @@ BY CAR - Several Expressways or Parkways will allow motorists to reach various s
 **Contributors**
 April 12, 2008
 
-### [Hamilton Street Railway](/northamerica/canada/ontario/hamilton/hamilton_street_ra)
+### [Hamilton Street Railway](/northamerica/canada/ontario/hamilton/getting_around/hamilton_street_ra)
 
 The Hamilton Street Railway is the primary provider of public transportation for the City of Hamilton and Regional Municipality of Hamilton-Wentworth, including Stoney Creek, Dundas, and Ancaster.
 
@@ -23,11 +23,11 @@ The Hamilton Street Railway also operates semi-regular service into the City of 
 
 
 
-[[rate it]](/northamerica/canada/ontario/hamilton/hamilton_street_ra)
+[[rate it]](/northamerica/canada/ontario/hamilton/getting_around/hamilton_street_ra)
 
 url: [www.myhamilton.ca](http://www.myhamilton.ca/myhamilton/CityandGovernment/CityServices/transit/)
 
-### [Hamilton Airport](/northamerica/canada/ontario/hamilton/hamilton_airport)
+### [Hamilton Airport](/northamerica/canada/ontario/hamilton/getting_around/hamilton_airport)
 
 Located due west of the City of Hamilton, the John Munro International Airport offers air service to a number of Canadian destinations on:
 

@@ -7,7 +7,7 @@ After a tiring day exploring places of interest in [Cologne](/europe/germany/nor
 
 **Café Reichard**
 
-Café Reichard is one of the oldest cafes in the city of Cologne, and it has very much remained an old-fashioned [German](/europe/germany) café throughout the years. The café features elegant and trendy décor, and it offers an excellent view of the Cathedral Square. The waitresses are dressed like traditional German waitresses, with white blouses, black dresses and aprons, and they are very helpful and efficient. You will find a wide range of coffees, teas, cakes and chocolates as well as a salad bar and delectable breakfast and lunch dishes. There is also a good selection of beer and wine on the menu. Café Reichard is located on Unter Fettenhennen, just next to the [Cologne Cathedral](/europe/germany/northrhinewestphalia/sights).
+Café Reichard is one of the oldest cafes in the city of Cologne, and it has very much remained an old-fashioned [German](/europe/germany) café throughout the years. The café features elegant and trendy décor, and it offers an excellent view of the Cathedral Square. The waitresses are dressed like traditional German waitresses, with white blouses, black dresses and aprons, and they are very helpful and efficient. You will find a wide range of coffees, teas, cakes and chocolates as well as a salad bar and delectable breakfast and lunch dishes. There is also a good selection of beer and wine on the menu. Café Reichard is located on Unter Fettenhennen, just next to the [Cologne Cathedral](/europe/germany/northrhinewestphalia/cologne/sights).
 
 **Deutzer Bahnhof**
 

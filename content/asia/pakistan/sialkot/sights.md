@@ -28,7 +28,7 @@ Sikh Shrine (***Bari Sahib***) is located on Zafarwal Road .
 
 **Gulsan i Iqbal Park** , **Sialkot Park, Garrison Park, Alladin Fun House** , ***Company bagh***
 
-### [Myra](/asia/pakistan/sialkot/myra)
+### [Myra](/asia/pakistan/sialkot/sights/myra)
 
 SINBAD (A Theme Park)
 

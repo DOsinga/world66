@@ -3,7 +3,7 @@ title: Day trips
 type: section
 ---
 
-**Soberanía National Park and Pipeline Road** (30 minutes) — The Pipeline Road is the easiest and most rewarding day trip from Panama City; see the [Pipeline Road](/northamerica/panama/panamacity/pipeline_road) listing for detail. Hire a guide, leave early, and you will be back in the city by midday.
+**Soberanía National Park and Pipeline Road** (30 minutes) — The Pipeline Road is the easiest and most rewarding day trip from Panama City; see the [Pipeline Road](/northamerica/panama/panamacity/things_to_do/pipeline_road) listing for detail. Hire a guide, leave early, and you will be back in the city by midday.
 
 **El Valle de Antón** (3 hours west) — A village in the crater of an extinct volcano, with a cooler climate, good walking trails to waterfalls and the famous square trees, a Sunday handicraft market, and a small orchid nursery. A popular weekend escape for Panama City residents; overnight stays are possible if you want to do more walking.
 

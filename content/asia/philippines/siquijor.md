@@ -26,4 +26,4 @@ Siquijor is best reached by ferry from Dumaguete (Negros island) in about 45 min
 
 ## Places in Siquijor
 
-- [San Juan](/asia/philippines/san_juan)
+- [San Juan](/asia/philippines/siquijor/san_juan)

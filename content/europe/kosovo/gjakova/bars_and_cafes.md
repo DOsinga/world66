@@ -13,7 +13,7 @@ Another great meeting place in Gjakova is Pastry Cafe "Royal" Great location in 
 
 
 
-[[rate it]](/europe/serbia/kosovoprovince/gjakova/bars_and_cafes/flamur)
+[[rate it]](/europe/kosovo/gjakova/bars_and_cafes/flamur)
 
 tel: ++(381) 390 323-927
 

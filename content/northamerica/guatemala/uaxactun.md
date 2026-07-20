@@ -7,6 +7,7 @@ latitude: 17.394
 loc_type: feature
 longitude: -89.633
 score: 8.3
+snippet: Ancient Maya city north of Tikal, known for an early astronomical complex aligned with the solstices.
 tags:
 - sight
 - ruin

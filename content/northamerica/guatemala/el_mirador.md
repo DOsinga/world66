@@ -7,6 +7,7 @@ latitude: 17.755
 loc_type: feature
 longitude: -89.918
 score: 9.4
+snippet: Remote Preclassic Maya city deep in Guatemala's Petén jungle, dominated by the colossal La Danta complex.
 story: 'El Mirador was the largest city in the Maya world during the Late Preclassic
   — pre-dating Tikal''s peak by half a millennium and built around La Danta, a complex
   whose volume exceeds the Great Pyramid of Giza. The city collapsed around 150 AD

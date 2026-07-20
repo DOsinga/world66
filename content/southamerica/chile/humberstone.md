@@ -3,6 +3,7 @@ latitude: -20.2042
 loc_type: feature
 longitude: -69.7919
 score: 9.6
+snippet: Abandoned Chilean nitrate town preserved by the Atacama Desert, with streets and industrial buildings still intact.
 story: When Humberstone was abandoned in 1960, workers simply walked away. The desert
   preserved everything — the company shop with stock on its shelves, the school's
   blackboards still with chalk on them, the swimming pool built from a cast-iron ship's

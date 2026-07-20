@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dartmoor_ponies_by_the_B32
 latitude: 50.72414
 loc_type: feature
 longitude: -3.660779
-score: 0.82
+score: 8.2
 snippet: Two coastlines, Dartmoor's granite tors, Exeter's cathedral, and a string
   of seaside towns from Barnstaple to Dartmouth.
 title: Devon
@@ -20,6 +20,6 @@ Inland Devon includes the wild, unpredictable yet enchanting Dartmoor and part o
 
 Its coastal resorts contain Torquay known as the English Riviera in the south of Devon, Ilfracombe and Lynton in the north where the area is relatively untouched by development and very scenic.
 
-Exeter Cathedral is a famous landmark in the region and Exeter's old Customs House is also worth a visit. [Plymouth](/europe/unitedkingdom/england/south_west/devon/plymouth) a bustling and busy port, boasts of a stunning Aquarium, the Plymouth Hoe and good entertainment opportunities in the Pavilions.
+Exeter Cathedral is a famous landmark in the region and Exeter's old Customs House is also worth a visit. [Plymouth](/europe/unitedkingdom/england/south_west/plymouth) a bustling and busy port, boasts of a stunning Aquarium, the Plymouth Hoe and good entertainment opportunities in the Pavilions.
 
 The National Trust areas at Saltram and Killerton are also places of interest, as is and Buckland Abbey on the fringe of Dartmoor, which was owned in different periods by Sir Francis Drake and Sir Richard Grenville.

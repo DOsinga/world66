@@ -22,8 +22,8 @@ wikidata: Q852772
 
 Cirencester is one of the better Cotswold towns to visit if you want more than pretty stone. It was Roman Corinium, once the second-largest town in Roman Britain, and that history still gives the place a sharper edge than the usual market-square stroll.
 
-Start with the [Corinium Museum](/europe/unitedkingdom/england/gloucestershire/cirencester/corinium_museum), which has mosaics, sculpture, and everyday Roman objects found around town. Then walk out to the grassed-over [Roman amphitheatre](/europe/unitedkingdom/england/gloucestershire/cirencester/cirencester_amphitheatre), whose banks are still big enough to make the old city feel real.
+Start with the [Corinium Museum](/europe/unitedkingdom/england/south_west/cirencester/corinium_museum), which has mosaics, sculpture, and everyday Roman objects found around town. Then walk out to the grassed-over [Roman amphitheatre](/europe/unitedkingdom/england/south_west/cirencester/cirencester_amphitheatre), whose banks are still big enough to make the old city feel real.
 
-The modern town is compact and handsome, with the [Parish Church of St John Baptist](/europe/unitedkingdom/england/gloucestershire/cirencester/parish_church_of_st_john_baptist) dominating the market place and small lanes running off toward shops, pubs, and galleries. [New Brewery Arts](/europe/unitedkingdom/england/gloucestershire/cirencester/new_brewery_arts) adds a useful contemporary counterpoint to all the Roman and wool-trade history.
+The modern town is compact and handsome, with the [Parish Church of St John Baptist](/europe/unitedkingdom/england/south_west/cirencester/parish_church_of_st_john_baptist) dominating the market place and small lanes running off toward shops, pubs, and galleries. [New Brewery Arts](/europe/unitedkingdom/england/south_west/cirencester/new_brewery_arts) adds a useful contemporary counterpoint to all the Roman and wool-trade history.
 
 Cirencester is an easy day out from Cheltenham, Gloucester, or the southern Cotswolds. It is not the quietest town in high season, but it earns the crowds better than most.

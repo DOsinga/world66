@@ -3,6 +3,7 @@ latitude: 17.184
 loc_type: feature
 longitude: -89.366
 score: 6.8
+snippet: Remote Classic Maya city where palace ruins and a pyramid remain enclosed by dense Petén jungle.
 tags:
 - sight
 - ruin

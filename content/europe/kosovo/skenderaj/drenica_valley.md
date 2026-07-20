@@ -1,8 +1,8 @@
 ---
 title: "Drenica Valley"
 type: poi
-latitude: 42.7467
-longitude: 20.7889
+latitude: 42.7205
+longitude: 20.7654
 tags:
   - things_to_do
   - sight

@@ -4,8 +4,8 @@ type: poi
 tags:
   - things_to_do
   - sight
-latitude: 42.3803
-longitude: 20.4289
+latitude: 42.3811
+longitude: 20.4298
 story: >
   The Long Bazaar was almost entirely burned by Serbian forces during the Kosovo War in 1999. What stands today is largely a reconstruction, completed in the early 2000s with considerable care for the original Ottoman layout. The cobbled lanes and the rhythm of the small workshops look much as they did before the war — an act of collective memory as much as urban planning.
 score: 8.4

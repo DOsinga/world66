@@ -7,6 +7,7 @@ latitude: 13.8533
 loc_type: feature
 longitude: -89.6233
 score: 9.1
+snippet: El Salvador's highest volcano, with a turquoise acidic crater lake above the surrounding cloud forest.
 story: 'Santa Ana Volcano, known locally as Ilamatepec ("Hill of the Old Woman"),
   is El Salvador''s highest peak at 2,381 metres. The crater holds a turquoise acidic
   lake — one of the few such lakes in the world — and the hike from Cerro Verde takes

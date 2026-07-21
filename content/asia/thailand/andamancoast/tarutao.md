@@ -6,7 +6,7 @@ image: tarutao.jpg
 image_license: CC BY 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Koh_Tarutao,_Thailand,_Rocky_beach.jpg
 latitude: 6.486906
-loc_type: city
+loc_type: feature
 longitude: 99.304808
 score: 8.33
 snippet: Andaman marine park of jungle islands, mangrove creeks, prison ruins, and

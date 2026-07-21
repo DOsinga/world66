@@ -7,7 +7,7 @@ image_attribution: Vyacheslav Argenberg
 image_license: CC BY 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Dramatic_karst_landscape_of_Phang_Nga_Bay,_Thailand.jpg
 latitude: 8.291667
-loc_type: city
+loc_type: feature
 longitude: 98.552773
 quick_facts:
   Hidden Lagoons: Reached by kayak

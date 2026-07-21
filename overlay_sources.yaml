@@ -8,3 +8,7 @@
 # - content_path: asia/thailand/andamancoast/phuket
 #   name: example-supplier
 #   feed_url: https://supplier.example.com/world66-overlay.json
+
+- content_path: asia/thailand/chiangmai
+  name: chiangmai-tours
+  feed_url: https://floral-dream-eae8.richardosinga.workers.dev

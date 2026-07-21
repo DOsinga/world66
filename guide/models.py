@@ -191,10 +191,14 @@ class Page:
 
         # Externally-sourced overlay sections (see guide/overlays.py) attach
         # only to location pages (cities/features/islands), never to nav
-        # pages calling children() on themselves.
+        # pages calling children() on themselves. Overlay slugs share the
+        # same URL namespace as real content at this path (no marker/
+        # supplier prefix, so links look and resolve like native ones) —
+        # real content always wins a slug collision, silently.
         if self.page_type == "location":
             extra_sections, _ = overlays.load_overlay_for_path(self.path)
-            nav_pages.extend(extra_sections)
+            existing_slugs = {p.slug for p in nav_pages + locations + pois}
+            nav_pages.extend(s for s in extra_sections if s.slug not in existing_slugs)
 
         return nav_pages, locations, sorted(pois, key=_score_desc_title_key)
 

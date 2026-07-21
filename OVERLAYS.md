@@ -21,7 +21,13 @@ Add one entry to `overlay_sources.yaml`:
   feed_url: https://supplier.example.com/world66-overlay.json
 ```
 
-`content_path` must exactly match an existing city/feature/island page's own path (no trailing slash). `name` is a short, unique slug for this supplier — it's used to namespace overlay URLs and must not collide with another registered supplier on the same path.
+`content_path` must exactly match an existing city/feature/island page's own path (no trailing slash). `name` is a short label for this supplier (shown nowhere in URLs — see below); it just needs to be unique in the registry.
+
+### URLs
+
+An overlay section gets a URL that looks exactly like a native one: `<content_path>/<section-slug>` (e.g. `asia/thailand/chiangmai/nature_wildlife`). An overlay POI reached from within that section's listing looks like `<content_path>/<section-slug>/<poi-slug>` — the same `city/section/poi` shape native content already uses. There's no supplier name or marker anywhere in the URL.
+
+This means an overlay section or POI slug must not collide with a real one at that `content_path` — real content always wins a collision (the overlay entry is silently dropped, not shown twice), so check for accidental slug clashes before registering. If two suppliers are ever registered against the same `content_path`, their slugs must not collide with each other either — there's no per-supplier namespace to fall back on.
 
 ## Feed schema
 

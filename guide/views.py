@@ -297,9 +297,9 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         page, context_nav = resolve_tag_route(path, source_ref, url_revision)
 
     if not page and not source_ref:
-        # Try overlay routing: <content_path>/__overlay__/<source>/<slug>
+        # Try overlay routing: <content_path>/<slug> or <content_path>/<section>/<poi>
         # (overlays only ever apply to the live tree, never to a preview)
-        page = overlays.resolve_overlay_route(path)
+        page, context_nav = overlays.resolve_overlay_route(path)
 
     if not page:
         raise Http404
@@ -307,10 +307,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     # Derive parent for nav/poi pages
     parent = None
     if page.page_type in NAV_TYPES | {"poi"} and "/" in page.path:
-        parent_path = (
-            overlays.base_path_for_overlay_path(page.path)
-            or page.path.rsplit("/", 1)[0]
-        )
+        parent_path = page.path.rsplit("/", 1)[0]
         parent = (
             load_page_from_revision(parent_path, source_ref, url_revision=url_revision)
             if source_ref else load_page(parent_path)

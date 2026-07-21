@@ -33,10 +33,6 @@ OVERLAY_REGISTRY_PATH = Path(settings.BASE_DIR) / "overlay_sources.yaml"
 # Page types an overlay entry may declare.
 _OVERLAY_PAGE_TYPES = {"poi", "section"}
 
-# Marker used inside a synthetic overlay Page.path:
-#   <content_path>/__overlay__/<source_name>/<slug>
-_OVERLAY_MARKER = "__overlay__"
-
 
 @lru_cache(maxsize=1)
 def _load_registry():
@@ -122,7 +118,16 @@ def _validate_entry(entry, entry_type):
 
 
 def overlay_entry_to_page(entry, entry_type, base_path, source_name):
-    """Build a plain Page from one validated overlay JSON entry."""
+    """Build a plain Page from one validated overlay JSON entry.
+
+    Path is <content_path>/<slug> — the same shape a native section or POI
+    would have — so links into overlay content look and resolve exactly
+    like links into native content. This means an overlay section/POI slug
+    must not collide with a real slug at that content_path (real content
+    always wins; see resolve_overlay_route()), and if two suppliers are
+    ever registered against the same content_path, their slugs must not
+    collide with each other either — there's no per-supplier namespace.
+    """
     from .models import Page  # deferred: models.py imports this module at load time
 
     slug = entry["slug"]
@@ -131,7 +136,7 @@ def overlay_entry_to_page(entry, entry_type, base_path, source_name):
     meta["overlay_source"] = source_name
     return Page(
         slug=slug,
-        path=f"{base_path}/{_OVERLAY_MARKER}/{source_name}/{slug}",
+        path=f"{base_path}/{slug}",
         title=entry["title"],
         page_type=entry_type,
         body=entry.get("body", ""),
@@ -167,37 +172,44 @@ def load_overlay_for_path(content_path):
     return extra_sections, extra_pois
 
 
-def base_path_for_overlay_path(path):
-    """If path is a synthetic overlay path, return its real content_path.
-
-    Returns None for an ordinary (non-overlay) path.
-    """
-    parts = path.split("/")
-    if _OVERLAY_MARKER not in parts:
-        return None
-    return "/".join(parts[: parts.index(_OVERLAY_MARKER)]) or None
-
-
 def resolve_overlay_route(path):
-    """Resolve a synthetic <content_path>/__overlay__/<source>/<slug> URL.
+    """Resolve <content_path>/<slug> or <content_path>/<section_slug>/<poi_slug>
+    for a registered overlay — used as a fallback once load_page() and
+    resolve_tag_route() have both already failed to find a real file.
 
-    Used when a request lands directly on an overlay section or POI's own
-    URL (e.g. get_absolute_url() on a small-city "inline sections" card) —
-    there's no file on disk for load_page() to find, so this is checked as
-    a fallback after the normal page-resolution attempts have failed.
+    Returns (page, context_nav) like resolve_tag_route() — context_nav is
+    the overlay section when a POI was reached via city/section/poi, else
+    None. Matched against the registry directly (not by walking the path
+    upward) since a content_path is always registered exactly, never as
+    a prefix that needs discovering.
     """
-    base_path = base_path_for_overlay_path(path)
-    if not base_path:
-        return None
-    rest = path.split(f"/{_OVERLAY_MARKER}/", 1)[1].split("/")
-    if len(rest) != 2:
-        return None
-    source_name, slug = rest
-    extra_sections, extra_pois = load_overlay_for_path(base_path)
-    for page in extra_sections + extra_pois:
-        if page.meta.get("overlay_source") == source_name and page.slug == slug:
-            return page
-    return None
+    for reg in _load_registry():
+        base_path = reg["content_path"]
+        prefix = base_path + "/"
+        if not path.startswith(prefix):
+            continue
+        rest = path[len(prefix):].split("/")
+        extra_sections, extra_pois = load_overlay_for_path(base_path)
+
+        if len(rest) == 1:
+            slug = rest[0]
+            for page in extra_sections + extra_pois:
+                if page.slug == slug:
+                    return page, None
+
+        elif len(rest) == 2:
+            section_slug, poi_slug = rest
+            section = next((s for s in extra_sections if s.slug == section_slug), None)
+            if not section:
+                continue
+            from .models import build_city_tag_index  # deferred: avoids a cycle
+
+            index = build_city_tag_index(base_path)
+            for poi in index.get(section.nav_tag, []):
+                if poi.slug == poi_slug:
+                    return poi, section
+
+    return None, None
 
 
 def _handle_url_action(action):

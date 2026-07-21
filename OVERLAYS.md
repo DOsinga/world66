@@ -61,6 +61,7 @@ Add one entry to `overlay_sources.yaml`:
 - **`action`** (POIs only) — optional. `type` is a free-form label (`"book"`, `"reserve"`, ...) used as the button's default label if `label` isn't set. `handler.kind` selects how the action is carried out:
   - `"url"` (the only kind implemented today) — `handler.target` is a URL; clicking the button opens it in a new tab. No server-side state, no negotiation.
   - Other `handler.kind` values are reserved for future use (e.g. a server-side webhook proxy) — an unrecognized kind is ignored (the button is simply omitted), never an error.
+- **`show_on_map`** (POIs only) — optional, defaults to `false`. Overlay POIs never contribute a map marker on any map (city page, section page, or the `/explore` view) unless a POI explicitly sets `"show_on_map": true`. The default is off so third-party listings don't clutter a map the guide didn't curate — sections/listings are unaffected either way; this only controls map markers.
 
 ## What overlays are not
 

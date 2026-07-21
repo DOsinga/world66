@@ -649,6 +649,13 @@ _SIGHT_SLUGS = {"sights", "museums", "attractions", "landmarks", "things_to_do"}
 _META_SLUGS   = {"neighbourhood"}   # organisational tags, not POI categories
 
 
+def _skip_overlay_marker(poi):
+    """Overlay POIs are excluded from every map by default (they can clutter
+    the map with third-party listings the guide didn't choose). A supplier
+    opts a specific POI in with `show_on_map: true` in its overlay entry."""
+    return bool(poi.meta.get('is_overlay')) and not poi.meta.get('show_on_map')
+
+
 def _marker_from_page_rich(page, highlight=False):
     """Extended marker that includes path, tags, and image_url for the explore map."""
     lat = _safe_float(page.meta.get("latitude"))
@@ -692,6 +699,8 @@ def _explore_markers(page):
     curbside  = []   # curbside layer — shown at high map zoom only
 
     def _collect(poi, section_slug=None):
+        if _skip_overlay_marker(poi):
+            return
         m = _marker_from_page_rich(poi)
         if not m:
             return
@@ -879,6 +888,8 @@ def _collect_markers(page, nav_pages, locations, pois, city_tag_index=None, extr
 
     page_is_sight = page.slug in _SIGHT_SLUGS
     for poi in pois:
+        if _skip_overlay_marker(poi):
+            continue
         poi_tags = set(poi.meta.get("tags") or [])
         if page.page_type == "location" and not poi_tags & _SIGHT_SLUGS:
             continue
@@ -895,6 +906,8 @@ def _collect_markers(page, nav_pages, locations, pois, city_tag_index=None, extr
             if nav.slug not in _SIGHT_SLUGS:
                 continue
             for poi in nav.tagged_pois(_city_tag_index=city_tag_index):
+                if _skip_overlay_marker(poi):
+                    continue
                 add(_marker_from_page(poi, highlight=True))
 
     return markers

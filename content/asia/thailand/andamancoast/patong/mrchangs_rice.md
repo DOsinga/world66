@@ -4,7 +4,7 @@ longitude: 98.2954
 snippet: Cheap rice bowls and noodles near Patong Beach
 tags:
 - eating_out
-- patong
+- restaurant
 title: Mr. Chang's Rice & Noodles
 type: poi
 score: 4.3

@@ -4,8 +4,8 @@ type: poi
 tags:
   - eating_out
   - market
-latitude: 15.0614
-longitude: 103.7573
+latitude: 14.8914
+longitude: 103.4939
 score: 6.3
 ---
 

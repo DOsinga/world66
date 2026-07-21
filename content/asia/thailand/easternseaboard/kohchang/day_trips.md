@@ -2,8 +2,8 @@
 done:
   poi_cleanup: '2026-04-20'
 linked_locations:
-- asia/thailand/kohchang/koh_kood
-- asia/thailand/kohchang/koh_mak
+- asia/thailand/easternseaboard/koh_kood
+- asia/thailand/easternseaboard/koh_mak
 title: Day Trips
 type: section
 ---

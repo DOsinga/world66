@@ -5,8 +5,8 @@ tags:
   - things_to_do
   - sight
   - river
-latitude: 14.0509
-longitude: 101.3717
+latitude: 14.0524
+longitude: 101.3702
 score: 5.8
 ---
 

@@ -1,4 +1,8 @@
 ---
+image: deepsouth.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Clear_afternoon_landscape_of_Hat_Yai_hills_with_valley_mist.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Taha9009
 latitude: 7.0
 loc_type: region
 longitude: 100.5

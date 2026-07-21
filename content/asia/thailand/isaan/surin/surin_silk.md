@@ -4,8 +4,8 @@ type: poi
 tags:
   - shopping
   - market
-latitude: 15.0618
-longitude: 103.7603
+latitude: 14.8840
+longitude: 103.4920
 score: 6.5
 ---
 

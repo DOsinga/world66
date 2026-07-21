@@ -9,7 +9,7 @@ longitude: 103.4789
 story: >
   Prasat Ta Muen Thom sits directly on the Thai-Cambodian border. During the late 1980s, Thai and Cambodian forces skirmished around the ruins, and land mines were laid in the surrounding forest. The area was only fully cleared and opened to visitors in the early 2000s.
 sources:
-  - https://en.wikipedia.org/wiki/Prasat_Ta_Muen_Thot
+  - https://en.wikipedia.org/wiki/Prasat_Ta_Muen_Thom
 score: 8.0
 ---
 

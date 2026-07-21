@@ -4,8 +4,8 @@ type: poi
 tags:
   - things_to_do
   - museum
-latitude: 15.0620
-longitude: 103.7611
+latitude: 14.848381
+longitude: 103.473744
 sources:
   - https://en.wikipedia.org/wiki/Surin_Province
 score: 7.3

@@ -1,6 +1,6 @@
 ---
-title: "Things to do"
+title: "Things to Do"
 type: section
 ---
 
-If you would like to know what you can do in Sisaket, Isaan, Thailand, you can visit the Sisaket online web directory from **Res24asia.com**. HAve a nice stay in the ISan-region. It can be found at: **www.res24asia.com/Sisaketdirectory.html**
+Sisaket's own sights are modest — a scatter of city temples and the pleasant Somdet Sri Nagarin Park, which fills with the fragrance of lamduan blossoms each March. The town's real draw is what lies beyond it: most visitors use Sisaket as a base for Khao Phra Viharn National Park and the Khmer ruins scattered across the province's southern reaches near the Cambodian border. See Day Trips for details.

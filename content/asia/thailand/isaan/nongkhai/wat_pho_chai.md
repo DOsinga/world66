@@ -7,11 +7,13 @@ tags:
 latitude: 17.8788
 longitude: 102.7434
 story: >
-  The Luangpho Phra Sai Buddha image inside Wat Pho Chai has a singular origin story:
-  it was being transported by barge from Vientiane in the late 18th century when the
-  boat capsized and sank. The image disappeared for years before being recovered from
-  the riverbed — the fact that it survived intact, while two companion images were lost,
-  was taken as a sign of its extraordinary power and sanctity.
+  The Luangpho Phra Sai Buddha image inside Wat Pho Chai has a singular origin story.
+  Tradition holds it was one of three images cast for the daughters of the Lao king
+  Setthathirat, and that it was being moved across the Mekong from Vientiane during the
+  forced resettlements that followed the suppression of the 1827-28 Anouvong rebellion
+  when the barge carrying it capsized and sank. The image disappeared for years before
+  being recovered from the riverbed — the fact that it survived intact, while its two
+  companion images were lost, was taken as a sign of its extraordinary power and sanctity.
 score: 7.9
 ---
 

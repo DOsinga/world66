@@ -7,7 +7,7 @@ tags:
 latitude: 19.5000
 longitude: 98.6500
 story: >
-  The park straddles the ridge between Mae Hong Son and Chiang Mai provinces at elevations above 2,000 metres. The Doi Ang Khang viewpoint within the park offers what is regularly described as one of the best sea-of-clouds views in Thailand — on clear cool mornings between November and February, the valleys fill with white cloud while the peaks remain clear, creating a scene that looks more like the Himalayas than most of Thailand.
+  The park straddles the ridge between Mae Hong Son and Chiang Mai provinces at elevations above 2,000 metres. Its Doi Kiew Lom viewpoint offers what is regularly described as one of the best sea-of-clouds views in Thailand — on clear cool mornings between November and February, the valleys fill with white cloud while the peaks remain clear, creating a scene that looks more like the Himalayas than most of Thailand.
 score: 7.6
 ---
 

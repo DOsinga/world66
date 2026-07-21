@@ -22,4 +22,4 @@ Koh Samui is Thailand's third-largest island, a ring of coral-sand beaches aroun
 
 You do not come to Samui for the sights — you come for the beaches, the food, and the short boat rides out to the islands nearby. **Ang Thong Marine Park**, a forty-two-island archipelago an hour off the west coast, is the must-do day trip: the hidden green saltwater lake on Koh Mae Ko inspired the novel *The Beach*. **Koh Phangan** and its famous full moon parties are a half-hour ferry north; **Koh Tao**, Thailand's best budget diving destination, another hour beyond.
 
-The island runs November through March as the peak season; April is hot and dry; October and November bring the worst of the monsoon.
+High season runs December through February, when the weather is driest and coolest. March through June is hot; October and November bring the worst of the monsoon rains, when boat trips to the outer islands are often cancelled.

@@ -6,9 +6,9 @@ image: surin.jpg
 image_attribution: JJ Harrison (https://www.jjharrison.com.au/)
 image_license: CC BY 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Surin_City_Pillar_Shrine_-_Surin.jpg
-latitude: 15.061014
+latitude: 14.882973
 loc_type: city
-longitude: 103.761312
+longitude: 103.493355
 score: 7.12
 snippet: Isan provincial city near Cambodia, known for elephant traditions, jasmine
   rice, and Khmer temple ruins

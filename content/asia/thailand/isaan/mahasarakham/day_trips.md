@@ -2,8 +2,8 @@
 title: "Day Trips"
 type: section
 linked_locations:
-  - asia/thailand/khonkaen
-  - asia/thailand/roiet
+  - asia/thailand/isaan/khonkaen
+  - asia/thailand/isaan/roi_et
 ---
 
 Mahasarakham sits roughly equidistant between three of Isan's larger provincial capitals: [Khon Kaen](/asia/thailand/isaan/khonkaen) to the north, Roi Et to the east, and Kalasin to the northeast. Each is around an hour by bus and makes a comfortable day excursion. Khon Kaen has the regional museum and a better range of restaurants and shops. Roi Et has a pleasantly compact old centre around its central lake and the tall walking Buddha of Wat Burapha Phiram. Kalasin has the country's most important dinosaur fossil site at Phu Kum Khao, a worthwhile half day for anyone travelling with children.

@@ -23,4 +23,4 @@ The island rewards exploration. [Bottle Beach](/asia/thailand/gulfislands/kohpha
 
 In the mountainous interior, the [Than Sadet Waterfall](/asia/thailand/gulfislands/kohphangan/than_sadet_waterfall) draws visitors to a national park where several Thai kings carved their initials in the rocks. The west coast bays of [Sri Thanu](/asia/thailand/gulfislands/kohphangan/sri_thanu) and [Haad Son](/asia/thailand/gulfislands/kohphangan/haad_son) have developed a yoga and wellness scene that sits comfortably alongside the fishing boats.
 
-Koh Phangan sits about 280 km south of Bangkok, reached by overnight train or bus to Surat Thani and then ferry.
+Koh Phangan sits about 450 km south of Bangkok, reached by overnight train or bus to Surat Thani and then ferry.

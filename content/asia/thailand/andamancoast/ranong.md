@@ -1,4 +1,8 @@
 ---
+image: ranong.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Raksawarin_hot_spring.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Natthaporn3809
 latitude: 9.9619
 loc_type: city
 longitude: 98.6389

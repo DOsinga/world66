@@ -3,6 +3,4 @@ title: "Beaches"
 type: section
 ---
 
-Chumphon Province
-Tambon Pak Klong
-The beautiful beach in Tambon Pak Khlong is more than 5 kilometres long. The highlights of the area consist of different-shaped limestones and seaside villages, parallel to the road and pine tree line, suitable for easy driving or biking. The beach is extended to Bang Boet in Prachuap Khiri Khan, which is presently the area of H.M.the King's project.
+The beach at Tambon Pak Khlong, south of Chumphon town, runs for more than 5 kilometres along a stretch of coast backed by pine trees and studded with oddly-shaped limestone outcrops. A quiet coastal road runs the length of it, parallel to the shore, making it an easy stretch to explore by bicycle or motorbike, with small fishing villages along the way. The beach continues south into Bang Boet in Prachuap Khiri Khan province, part of a royal development project from the reign of King Bhumibol.

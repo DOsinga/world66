@@ -2,7 +2,7 @@
 latitude: 12.9467
 longitude: 100.8849
 score: 7.1
-snippet: Teddy Bear Museum is a museum or cultural collection in or near Pattaya.
+snippet: Small museum of oversized teddy bear dioramas, aimed at families and photos
 sources:
 - http://teddybearmuseumpattaya.com/en/
 - https://en.wikivoyage.org/wiki/Pattaya
@@ -13,6 +13,6 @@ title: Teddy Bear Museum
 type: poi
 ---
 
-Teddy Bear Museum gives Pattaya a focused indoor stop, the kind of place that works best when you want more than a quick photograph. The appeal is in the collection itself and in the local story it tells, whether that is art, technology, regional history, or a specialist subject that rarely gets much space in broader guidebooks. Its location makes it easy to combine with a walk through the surrounding part of Pattaya.
+The Teddy Bear Museum is a small indoor attraction built around oversized teddy bears staged in themed dioramas — a fairy-tale castle, a jungle scene, an ice cave and similar sets. It is aimed squarely at photographs and at families with young children, rather than any serious collection or history.
 
-Allow at least an hour, and more if the displays line up with your interests. Check current opening days before you go; smaller institutions and seasonal attractions can keep irregular hours. It is a good bad-weather option and a useful counterweight to churches, squares, and outdoor viewpoints.
+It is a quick visit; half an hour to an hour covers it. Treat it as a rainy-day filler or a break from the beach and heat rather than a must-see, and combine it with other nearby sights so the stop doesn't need to justify a special trip on its own.

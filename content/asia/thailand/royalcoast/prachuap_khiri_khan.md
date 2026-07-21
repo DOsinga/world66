@@ -5,9 +5,9 @@ done:
 image: prachuap_khiri_khan.jpg
 image_license: Public domain
 image_source: https://commons.wikimedia.org/wiki/File:Prachuap_Khiri_Khan_City_Pillar_Shrine.jpg
-latitude: 12.043267
+latitude: 11.8117
 loc_type: city
-longitude: 99.748723
+longitude: 99.7967
 score: 7.96
 snippet: Quiet Gulf of Thailand province squeezed between limestone mountains and
   the country's narrowest coast
@@ -21,4 +21,4 @@ The province stretches along what Thais call the Sunrise Coast. Most visitors he
 
 Further south, [Bang Saphan](/asia/thailand/royalcoast/bang_saphan) and [Koh Talu Island](/asia/thailand/royalcoast/koh_talu_island) offer quieter beaches. The next major town down the coast is [Chumphon](/asia/thailand/royalcoast/chumphon), the jumping-off point for boats to Koh Tao, Koh Phangan, and Koh Samui. Just north of the province, [Cha Am](/asia/thailand/royalcoast/chaam) sits above Hua Hin.
 
-North of town, [Kuiburi National Park](/asia/thailand/royalcoast/prachuap_khiri_khan/kuiburi_national_park) protects one of Thailand's healthiest wild elephant populations, visible on guided evening drives. Accommodation in Prachuap Khiri Khan town is limited compared to Hua Hin, which is part of the charm — this is an off-the-beaten-track stop where you eat at the [night market](/asia/thailand/royalcoast/prachuap_khiri_khan/prachuap_night_market) alongside locals rather than tourists.
+North of town in [Kui Buri](/asia/thailand/royalcoast/kui_buri), [Kui Buri National Park](/asia/thailand/royalcoast/kui_buri/kui_buri_national_park) protects one of Thailand's healthiest wild elephant populations, visible on guided evening drives. Accommodation in Prachuap Khiri Khan town is limited compared to Hua Hin, which is part of the charm — this is an off-the-beaten-track stop where you eat at the [night market](/asia/thailand/royalcoast/prachuap_khiri_khan/prachuap_night_market) alongside locals rather than tourists.

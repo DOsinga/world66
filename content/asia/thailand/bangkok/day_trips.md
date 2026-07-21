@@ -1,7 +1,7 @@
 ---
 linked_locations:
 - asia/thailand/nonthaburi_2
-- asia/thailand/ayutthaya
+- asia/thailand/centralthailand/ayutthaya
 - asia/thailand/safari_world
 title: Day Trips
 type: section

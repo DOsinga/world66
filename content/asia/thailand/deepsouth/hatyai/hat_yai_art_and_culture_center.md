@@ -15,6 +15,6 @@ title: Hat Yai Art and Culture Center
 type: poi
 ---
 
-Hat Yai Art and Culture Center is an art and culture centre that adds useful depth to a visit to Hat Yai. It is a good stop when you want the local story told through objects, buildings, art, machinery, or archaeology rather than another broad city overview.
+Also known as the Hat Yai City Art Chamber, this small gallery and cultural hall sits within Hat Yai Municipal Park on Phetkasem Road. Traditional Thai architecture houses rotating exhibitions from southern Thai artists, ranging from traditional rural-life paintings to modern installations on environmental themes, alongside displays honouring the late King Bhumibol Adulyadej.
 
-Allow enough time to read the displays instead of treating it as a rain-plan filler. The strongest reason to come is context: after visiting, the surrounding streets and monuments in Hat Yai make more sense, and smaller details are easier to notice.
+It is a quiet, air-conditioned stop rather than a headline attraction — worth combining with the park's other hilltop sights nearby. Open Wednesday to Sunday, 10am–6pm; admission is free.

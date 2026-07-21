@@ -8,6 +8,10 @@ snippet: Quiet Andaman beach town north of Phuket, the main jumping-off point fo
   the Similan Islands
 title: Khao Lak
 type: location
+image: khao_lak.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Khao_Lak_Beach,_Thailand.jpg
+image_license: CC BY 4.0
+image_attribution: Vyacheslav Argenberg
 ---
 
 Khao Lak stretches about three kilometres along the Andaman coast in Phang Nga Province, roughly 80 km north of Phuket Airport. Compared to Phuket, it's quieter and more relaxed — the [beach](/asia/thailand/andamancoast/khao_lak/khao_lak_beach) is backed by casuarina trees, with views out to island rock formations offshore, and the town has none of Patong's nightlife intensity.

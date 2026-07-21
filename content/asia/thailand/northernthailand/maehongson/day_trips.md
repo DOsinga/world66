@@ -2,7 +2,7 @@
 title: "Day Trips from Mae Hong Son"
 type: section
 linked_locations:
-  - asia/thailand/maehongson/soppong
+  - asia/thailand/northernthailand/soppong
 ---
 
 Mae Hong Son sits in a valley surrounded by forested mountains, and some of the best experiences in the province are outside the town itself.

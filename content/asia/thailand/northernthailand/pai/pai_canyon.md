@@ -8,7 +8,7 @@ tags:
 latitude: 19.3120
 longitude: 98.4447
 story: >
-  Pai Canyon formed through centuries of erosion by wind and rain acting on a sandstone ridge, carving a series of narrow fins and gullies above the valley floor. The paths along the ridge — some barely half a metre wide with a steep drop on both sides — are walked without barriers or safety rails. A local man fell to his death here in 2018, yet the place remains unfenced and uncrowded outside sunset hours, which is precisely what makes it so unusual in modern Thailand.
+  Pai Canyon formed through centuries of erosion by wind and rain acting on a sandstone ridge, carving a series of narrow fins and gullies above the valley floor. The paths along the ridge — some barely half a metre wide with a steep drop on both sides — are walked without barriers or safety rails, and tourists have been injured in falls here more than once. The place remains unfenced and uncrowded outside sunset hours, which is precisely what makes it so unusual in modern Thailand.
 score: 8.2
 ---
 

@@ -5,8 +5,8 @@ title: Getting There
 type: section
 ---
 
-The trainn line operates south from Bangkok passing Hua Hin, Prachuap Khiri Khan, Baan Krud and onwards to Chumphon. The line continues south to Surat Thani, it continues to Hat Yai plus a line also to Trang.
+The southern railway line runs from Bangkok through Hua Hin, Prachuap Khiri Khan, and [Ban Krut](/asia/thailand/royalcoast/bang_saphan/ban_krut_beach) before reaching Chumphon, then continues on to Surat Thani, Hat Yai, and Trang.
 
-Ferries operate from Chumphon to Koh Tao, Koh Phangan and Koh Samui. There is an airport but currently no schedukled flights.
+Ferries operate from Chumphon to Koh Tao, Koh Phangan, and Koh Samui. The town has an airport, but there are currently no scheduled flights.
 
-Regular express buses operate from Chumphon north to Bangkok and to destinations South.
+Regular express buses run from Chumphon north to Bangkok and south to destinations further down the peninsula.

@@ -6,7 +6,7 @@ price: B 250+
 snippet: "Relaxed outdoor Thai and Indonesian restaurant on Karon Beach Road"
 tags:
 - eating_out
-- karon
+- restaurant
 title: Bali Thai Restaurant
 type: poi
 score: 4.9

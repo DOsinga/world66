@@ -110,6 +110,8 @@ The todo skill can be used to execute a task defined in the todo folder
 
 The `type` field in frontmatter is the source of truth. Directory filtering in the sidebar uses it: if a directory contains only `poi` type files, it's a section directory (containing POIs), not a sub-location.
 
+- `guide/overlays.py` — external content overlays: third-party suppliers can attach extra POIs/sections (with a bookable "action") to a location without touching `content/`. See [OVERLAYS.md](OVERLAYS.md).
+
 ## Don't
 
 - Don't add accommodation or hotel content (deliberately excluded)

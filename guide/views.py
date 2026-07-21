@@ -13,6 +13,7 @@ from django.views.decorators.clickjacking import xframe_options_exempt
 from django.utils.safestring import mark_safe
 
 from . import github
+from . import overlays
 from .models import (
     CONTENT_DIR, NAV_TYPES, build_city_tag_index, find_tagged_pois, find_locations_tagged,
     load_page, load_page_from_revision, load_tag_index, resolve_tag_route, _find_city_path,
@@ -295,13 +296,21 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         # Try virtual tag-based routing: city/nav-slug/poi-slug
         page, context_nav = resolve_tag_route(path, source_ref, url_revision)
 
+    if not page and not source_ref:
+        # Try overlay routing: <content_path>/__overlay__/<source>/<slug>
+        # (overlays only ever apply to the live tree, never to a preview)
+        page = overlays.resolve_overlay_route(path)
+
     if not page:
         raise Http404
 
     # Derive parent for nav/poi pages
     parent = None
     if page.page_type in NAV_TYPES | {"poi"} and "/" in page.path:
-        parent_path = page.path.rsplit("/", 1)[0]
+        parent_path = (
+            overlays.base_path_for_overlay_path(page.path)
+            or page.path.rsplit("/", 1)[0]
+        )
         parent = (
             load_page_from_revision(parent_path, source_ref, url_revision=url_revision)
             if source_ref else load_page(parent_path)
@@ -378,6 +387,15 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     poi_categories = []
     if page.page_type in NAV_TYPES and pois:
         poi_categories = sorted(set(p.category for p in pois if p.category))
+
+    # Resolve overlay action buttons (e.g. "Book Now") on any POI that
+    # carries an `action` field — currently only ever overlay content.
+    for poi in pois:
+        action = poi.meta.get('action')
+        poi.action_button = overlays.resolve_action(action) if action else None
+    if page.page_type == 'poi':
+        action = page.meta.get('action')
+        page.action_button = overlays.resolve_action(action) if action else None
 
     # Map context
     lat = _safe_float(page.meta.get("latitude"))
@@ -511,6 +529,10 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
                 }
                 for s, sp in candidate_sections
             ]
+            for item in inline_sections:
+                for poi in item['pois']:
+                    action = poi.meta.get('action')
+                    poi.action_button = overlays.resolve_action(action) if action else None
 
     _all_linked = linked_locations + more_linked_locations
     _map_top = top_locations + (linked_locations if _all_linked else [])

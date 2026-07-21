@@ -26,6 +26,7 @@ import frontmatter
 from django.conf import settings
 
 from . import github
+from . import overlays
 
 CONTENT_DIR = Path(settings.BASE_DIR) / "content"
 
@@ -48,6 +49,7 @@ DISPLAY_PROPERTIES = {
     "accessibility": "Accessibility",
     "zipcode": "Zip Code",
     "price_per_night": "Price/Night",
+    "duration": "Duration",
 }
 
 
@@ -158,36 +160,41 @@ class Page:
             return self.children_from_revision()
 
         dir_path = CONTENT_DIR / self.path
-        if not dir_path.is_dir():
-            return [], [], []
-
         nav_pages = []
         locations = []
         pois = []
 
-        for entry in sorted(dir_path.iterdir()):
-            if entry.is_file() and entry.suffix == ".md":
-                if entry.stem == self.slug:
-                    continue
-                if (dir_path / entry.stem).is_dir():
-                    continue
-                page = _load_page_from_file(entry, self.path + "/" + entry.stem)
-                if not page:
-                    continue
-                if page.page_type in NAV_TYPES:
-                    nav_pages.append(page)
-                elif page.page_type == "poi":
-                    pois.append(page)
-                else:
-                    locations.append(page)
+        if dir_path.is_dir():
+            for entry in sorted(dir_path.iterdir()):
+                if entry.is_file() and entry.suffix == ".md":
+                    if entry.stem == self.slug:
+                        continue
+                    if (dir_path / entry.stem).is_dir():
+                        continue
+                    page = _load_page_from_file(entry, self.path + "/" + entry.stem)
+                    if not page:
+                        continue
+                    if page.page_type in NAV_TYPES:
+                        nav_pages.append(page)
+                    elif page.page_type == "poi":
+                        pois.append(page)
+                    else:
+                        locations.append(page)
 
-            elif entry.is_dir():
-                child = load_page(self.path + "/" + entry.name)
-                if child:
-                    if child.page_type == "location":
-                        locations.append(child)
-                    elif child.page_type in NAV_TYPES:
-                        nav_pages.append(child)
+                elif entry.is_dir():
+                    child = load_page(self.path + "/" + entry.name)
+                    if child:
+                        if child.page_type == "location":
+                            locations.append(child)
+                        elif child.page_type in NAV_TYPES:
+                            nav_pages.append(child)
+
+        # Externally-sourced overlay sections (see guide/overlays.py) attach
+        # only to location pages (cities/features/islands), never to nav
+        # pages calling children() on themselves.
+        if self.page_type == "location":
+            extra_sections, _ = overlays.load_overlay_for_path(self.path)
+            nav_pages.extend(extra_sections)
 
         return nav_pages, locations, sorted(pois, key=_score_desc_title_key)
 
@@ -336,38 +343,48 @@ def _find_city_path(path, revision=None, url_revision=None):
 
 
 def build_city_tag_index(city_path, revision=None, url_revision=None):
-    """Scan all POI files under city_path once and return {tag: [Page, ...]}."""
+    """Scan all POI files under city_path once and return {tag: [Page, ...]}.
+
+    Also merges in any externally-sourced overlay POIs registered for this
+    exact content path (see guide/overlays.py) — overlays only ever apply
+    to the live tree, never to a GitHub revision preview.
+    """
     if revision:
         return _build_city_tag_index_from_revision(city_path, revision, url_revision)
 
-    city_dir = CONTENT_DIR / city_path
-    if not city_dir.is_dir():
-        return {}
     index = {}
-    seen = set()
-    for md_file in sorted(city_dir.rglob("*.md")):
-        result = _load_md(md_file)
-        if not result:
-            continue
-        meta, _ = result
-        if meta.get("type") not in ("poi", "neighbourhood", "theme"):
-            continue
-        raw_tags = meta.get("tags", [])
-        if isinstance(raw_tags, str):
-            raw_tags = [t.strip() for t in raw_tags.split(",")]
-        if not raw_tags:
-            continue
-        rel = md_file.relative_to(CONTENT_DIR)
-        parts = list(rel.parts)
-        stem = parts[-1][:-3]
-        url_path = "/".join(parts[:-1] + [stem])
-        if url_path in seen:
-            continue
-        seen.add(url_path)
-        page = _load_page_from_file(md_file, url_path)
-        if page:
-            for t in raw_tags:
-                index.setdefault(t, []).append(page)
+    city_dir = CONTENT_DIR / city_path
+    if city_dir.is_dir():
+        seen = set()
+        for md_file in sorted(city_dir.rglob("*.md")):
+            result = _load_md(md_file)
+            if not result:
+                continue
+            meta, _ = result
+            if meta.get("type") not in ("poi", "neighbourhood", "theme"):
+                continue
+            raw_tags = meta.get("tags", [])
+            if isinstance(raw_tags, str):
+                raw_tags = [t.strip() for t in raw_tags.split(",")]
+            if not raw_tags:
+                continue
+            rel = md_file.relative_to(CONTENT_DIR)
+            parts = list(rel.parts)
+            stem = parts[-1][:-3]
+            url_path = "/".join(parts[:-1] + [stem])
+            if url_path in seen:
+                continue
+            seen.add(url_path)
+            page = _load_page_from_file(md_file, url_path)
+            if page:
+                for t in raw_tags:
+                    index.setdefault(t, []).append(page)
+
+    _, extra_pois = overlays.load_overlay_for_path(city_path)
+    for poi in extra_pois:
+        for t in poi.tags:
+            index.setdefault(t, []).append(poi)
+
     return index
 
 

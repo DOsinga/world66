@@ -143,6 +143,15 @@
 {% block content %}
 <h1 class="{% if hero_image_url or is_continent %}page-title-hidden{% endif %}"><button class="sidebar-toggle" aria-label="Toggle sidebar">&#9776;</button>{{ page.title }}</h1>
 
+{% if page.meta.is_overlay and page.page_type == "poi" %}
+<div class="overlay-partner-row">
+  <span class="overlay-badge">Partner listing</span>
+  {% if page.action_button %}
+  <a href="{{ page.action_button.href }}" target="{{ page.action_button.target }}" rel="noopener noreferrer" class="poi-action-btn">{{ page.action_button.label }}</a>
+  {% endif %}
+</div>
+{% endif %}
+
 {% if page.meta.snippet %}
 <p class="page-snippet">{{ page.meta.snippet }}</p>
 {% endif %}
@@ -216,17 +225,22 @@
   <ul class="poi-list">
     {% for poi in pois %}
     <li data-category="{{ poi.category }}">
-      <a href="{% if poi_context_prefix %}{{ poi_context_prefix }}{{ poi.slug }}{% else %}{{ poi.get_absolute_url }}{% endif %}" class="poi-list-link">
-        <span class="poi-num">{{ forloop.counter|stringformat:"02d" }}</span>
-        <div class="poi-meat">
-          <div class="poi-name">{{ poi.title }}</div>
-          <div class="poi-blurb">{% if poi.meta.snippet %}{{ poi.meta.snippet }}{% elif poi.body %}{{ poi.body|truncatewords:24 }}{% endif %}</div>
-        </div>
-        <div class="poi-tag">
-          {% if poi.category %}{{ poi.category }}{% endif %}
-          {% if poi.meta.neighbourhood %} · {{ poi.meta.neighbourhood }}{% endif %}
-        </div>
-      </a>
+      <div class="poi-list-row">
+        <a href="{% if poi_context_prefix %}{{ poi_context_prefix }}{{ poi.slug }}{% else %}{{ poi.get_absolute_url }}{% endif %}" class="poi-list-link">
+          <span class="poi-num">{{ forloop.counter|stringformat:"02d" }}</span>
+          <div class="poi-meat">
+            <div class="poi-name">{{ poi.title }}{% if poi.meta.is_overlay %}<span class="overlay-badge">Partner</span>{% endif %}</div>
+            <div class="poi-blurb">{% if poi.meta.snippet %}{{ poi.meta.snippet }}{% elif poi.body %}{{ poi.body|truncatewords:24 }}{% endif %}</div>
+          </div>
+          <div class="poi-tag">
+            {% if poi.category %}{{ poi.category }}{% endif %}
+            {% if poi.meta.neighbourhood %} · {{ poi.meta.neighbourhood }}{% endif %}
+          </div>
+        </a>
+        {% if poi.action_button %}
+        <a href="{{ poi.action_button.href }}" target="{{ poi.action_button.target }}" rel="noopener noreferrer" class="poi-action-btn">{{ poi.action_button.label }}</a>
+        {% endif %}
+      </div>
     </li>
     {% endfor %}
   </ul>
@@ -310,14 +324,19 @@
   <ul class="poi-list">
     {% for poi in item.pois %}
     <li>
-      <a href="{{ poi.get_absolute_url }}" class="poi-list-link">
-        <span class="poi-num">{{ forloop.counter|stringformat:"02d" }}</span>
-        <div class="poi-meat">
-          <div class="poi-name">{{ poi.title }}</div>
-          <div class="poi-blurb">{% if poi.meta.snippet %}{{ poi.meta.snippet }}{% elif poi.body %}{{ poi.body|truncatewords:24 }}{% endif %}</div>
-        </div>
-        <div class="poi-tag">{% if poi.category %}{{ poi.category }}{% endif %}</div>
-      </a>
+      <div class="poi-list-row">
+        <a href="{{ poi.get_absolute_url }}" class="poi-list-link">
+          <span class="poi-num">{{ forloop.counter|stringformat:"02d" }}</span>
+          <div class="poi-meat">
+            <div class="poi-name">{{ poi.title }}{% if poi.meta.is_overlay %}<span class="overlay-badge">Partner</span>{% endif %}</div>
+            <div class="poi-blurb">{% if poi.meta.snippet %}{{ poi.meta.snippet }}{% elif poi.body %}{{ poi.body|truncatewords:24 }}{% endif %}</div>
+          </div>
+          <div class="poi-tag">{% if poi.category %}{{ poi.category }}{% endif %}</div>
+        </a>
+        {% if poi.action_button %}
+        <a href="{{ poi.action_button.href }}" target="{{ poi.action_button.target }}" rel="noopener noreferrer" class="poi-action-btn">{{ poi.action_button.label }}</a>
+        {% endif %}
+      </div>
     </li>
     {% endfor %}
   </ul>

@@ -1,0 +1,10 @@
+# External content overlays — see OVERLAYS.md for the full schema.
+#
+# Each entry registers one supplier feed against exactly one content path.
+# The registry (not the feed itself) is the sole authority on which paths a
+# supplier is allowed to attach to — never derive this from the feed's own
+# contents. Add entries via normal PR review.
+#
+# - content_path: asia/thailand/andamancoast/phuket
+#   name: example-supplier
+#   feed_url: https://supplier.example.com/world66-overlay.json

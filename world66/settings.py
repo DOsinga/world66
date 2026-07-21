@@ -33,6 +33,11 @@ GITHUB_REPO = os.environ.get("GITHUB_REPO", "DOsinga/world66")
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 GITHUB_TIMEOUT = int(os.environ.get("GITHUB_TIMEOUT", "10"))
 
+# External content overlays (see guide/overlays.py, overlay_sources.yaml)
+OVERLAY_FETCH_TIMEOUT = int(os.environ.get("OVERLAY_FETCH_TIMEOUT", "10"))
+OVERLAY_CACHE_TTL = int(os.environ.get("OVERLAY_CACHE_TTL", "900"))
+OVERLAY_MAX_RESPONSE_BYTES = int(os.environ.get("OVERLAY_MAX_RESPONSE_BYTES", str(2_000_000)))
+
 
 # Application definition
 

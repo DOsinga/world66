@@ -3343,7 +3343,7 @@ img { max-width: 100%; height: auto; }
   }
 
   /* --- POI list --- */
-  .poi-list-link {
+  .poi-list-row {
     display: flex;
     flex-direction: column;
     gap: 4px;
@@ -3532,28 +3532,80 @@ img { max-width: 100%; height: auto; }
 
 .poi-list li { display: contents; }
 
-.poi-list-link {
+.poi-list-row {
   display: grid;
-  grid-template-columns: 48px 1fr auto;
+  grid-template-columns: 48px 1fr auto auto;
   gap: 24px;
   padding: 22px 0;
   border-top: 1px solid var(--line);
   align-items: baseline;
-  text-decoration: none;
-  color: inherit;
   transition: background 0.12s;
 }
 
-.poi-list li:last-child .poi-list-link {
+.poi-list li:last-child .poi-list-row {
   border-bottom: 1px solid var(--line);
 }
 
-.poi-list-link:hover {
+.poi-list-row:hover {
   background: var(--paper-2);
+}
+
+.poi-list-row:hover .poi-num { color: var(--accent); }
+
+/* The inner link carries no box of its own — its children (num/meat/tag)
+   become direct grid items of .poi-list-row, so a second, separate action
+   link (e.g. an overlay "Book Now" button) can sit alongside it without
+   nesting one <a> inside another. */
+.poi-list-link {
+  display: contents;
+  text-decoration: none;
+  color: inherit;
+}
+
+.poi-action-btn {
+  align-self: center;
+  justify-self: end;
+  padding: 8px 18px;
+  border-radius: 999px;
+  background: var(--accent);
+  color: var(--paper);
+  font-family: var(--label-font);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.poi-action-btn:hover {
+  opacity: 0.85;
   text-decoration: none;
 }
 
-.poi-list-link:hover .poi-num { color: var(--accent); }
+.overlay-badge {
+  display: inline-block;
+  margin-left: 8px;
+  padding: 2px 8px;
+  border-radius: 999px;
+  border: 1px solid var(--line-2);
+  font-family: var(--label-font);
+  font-size: 9px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--mute);
+  vertical-align: middle;
+}
+
+.overlay-partner-row {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 12px;
+}
+
+.overlay-partner-row .overlay-badge {
+  margin-left: 0;
+}
 
 .poi-num {
   font-family: var(--label-font);
@@ -3748,7 +3800,7 @@ img { max-width: 100%; height: auto; }
     padding-right: 16px;
   }
 
-  .poi-list-link {
+  .poi-list-row {
     display: flex;
     flex-direction: column;
     gap: 4px;

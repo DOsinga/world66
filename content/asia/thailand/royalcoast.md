@@ -1,4 +1,7 @@
 ---
+image: royalcoast.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Hua_Hin_hotels.jpg
 latitude: 12.3
 loc_type: region
 longitude: 99.9

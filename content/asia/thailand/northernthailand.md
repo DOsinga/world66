@@ -3,10 +3,14 @@ latitude: 19.0
 loc_type: region
 longitude: 99.3
 score: 0.85
-snippet: Mountainous former Lanna kingdom of temple-filled cities, hill tribes,
-  and jungle trekking near the Myanmar and Laos borders.
+snippet: Mountainous former Lanna kingdom of temple-filled cities, hill tribes, and
+  jungle trekking near the Myanmar and Laos borders.
 title: Northern Thailand
 type: location
+image: northernthailand.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Chiang-Mai_Thailand_Buddhist-monks-installing-lampioons-01.jpg
+image_license: CC BY-SA 3.0
+image_attribution: CEphoto, Uwe Aranas
 ---
 
 Northern Thailand was the independent Lanna kingdom until the late 19th century, and it still feels culturally distinct from the rest of the country — cooler hills, a different dialect, and an architectural style all its own. It's Thailand's trekking and mountain-scenery region, wedged between Myanmar and Laos.

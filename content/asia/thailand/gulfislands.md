@@ -3,10 +3,14 @@ latitude: 9.8
 loc_type: region
 longitude: 99.9
 score: 0.88
-snippet: Palm-fringed Gulf of Thailand islands off Surat Thani, from Full Moon
-  parties to world-class diving.
+snippet: Palm-fringed Gulf of Thailand islands off Surat Thani, from Full Moon parties
+  to world-class diving.
 title: Gulf Islands
 type: location
+image: gulfislands.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ko_Pha_Ngan_Adasi.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Gezginrocker
 ---
 
 The Gulf Islands sit off Thailand's southeastern coast, reached from the mainland hub of [Surat Thani](/asia/thailand/gulfislands/surat_thani). Calmer and shallower than the Andaman Sea on the other side of the peninsula, the Gulf side built its reputation on backpacker beaches and has been steadily upgrading ever since.

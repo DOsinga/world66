@@ -7,6 +7,10 @@ snippet: Thailand's rural northeastern plateau of Khmer temple ruins, sticky-ric
   cooking, and the country's least-touristed cities.
 title: Isaan
 type: location
+image: isaan.jpg
+image_source: https://commons.wikimedia.org/wiki/File:2013_Yasothon_Rocket_Festival_02.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Takeaway
 ---
 
 Isaan is Thailand's northeastern plateau, bordering Laos and Cambodia — a third of the country's land and population, and by far its least-visited region by foreign tourists. It's flatter, poorer, and hotter than the rest of Thailand, with its own language (closely related to Lao), its own food (sticky rice, som tam, grilled chicken), and a very different pace of travel: fewer well-worn circuits, more improvising.

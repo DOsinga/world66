@@ -3,10 +3,14 @@ latitude: 7.9
 loc_type: region
 longitude: 98.7
 score: 0.9
-snippet: Limestone-karst Andaman coastline from Phuket to the Malaysian border,
-  Thailand's most dramatic beach scenery.
+snippet: Limestone-karst Andaman coastline from Phuket to the Malaysian border, Thailand's
+  most dramatic beach scenery.
 title: Andaman Coast
 type: location
+image: andamancoast.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Koh_Tarutao,_Thailand,_Rocks.jpg
+image_license: CC BY 4.0
+image_attribution: Vyacheslav Argenberg
 ---
 
 The Andaman Coast is Thailand's other sea, facing the Indian Ocean along the western side of the southern peninsula — generally clearer water, more dramatic scenery, and a longer high season than the Gulf side, at the cost of a rougher monsoon from May to October.

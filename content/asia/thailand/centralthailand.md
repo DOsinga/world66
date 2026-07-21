@@ -7,6 +7,10 @@ snippet: Thailand's historic heartland of ruined capitals, river towns, and WWII
   within reach of Bangkok.
 title: Central Thailand
 type: location
+image: centralthailand.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ayutthaya_Thailand_2004.jpg
+image_license: Public domain
+image_attribution: Evilarry
 ---
 
 Central Thailand is the country's historic heartland, the flat river plain that produced two of its former capitals and still feeds most of the nation's rice. Almost everything here is an easy day trip or overnight from [Bangkok](/asia/thailand/bangkok), which makes it the most-visited region outside the capital itself without ever feeling as crowded.

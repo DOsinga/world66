@@ -8,7 +8,7 @@ image_attribution: Wanjak Atikomchakorn
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:1062-mu-koh-lanta-national-park-05.jpg
 latitude: 7.573
-loc_type: city
+loc_type: island
 longitude: 99.042
 score: 9.02
 snippet: Laid-back Andaman island of forested hills, west-coast beaches, and a stilted

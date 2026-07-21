@@ -6,7 +6,7 @@ image: kohchang.jpg
 image_license: CC BY 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Panoramic_view_of_the_west_coast_of_Ko_Chang,_Thailand.jpg
 latitude: 12.054617
-loc_type: city
+loc_type: island
 longitude: 102.337343
 score: 8.6
 snippet: Rugged Thai island of jungled mountains, west-coast beaches, and quieter

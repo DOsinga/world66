@@ -7,7 +7,7 @@ image_attribution: Vyacheslav Argenberg
 image_license: CC BY 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Koh_Mak,_Thailand,_Red_sunset_on_the_beach.jpg
 latitude: 11.816
-loc_type: city
+loc_type: island
 longitude: 102.492633
 score: 8.3
 snippet: Quiet Gulf of Thailand island with low-key beaches, coconut plantations,

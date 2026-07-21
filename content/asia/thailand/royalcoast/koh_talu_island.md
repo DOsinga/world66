@@ -2,7 +2,7 @@
 done:
   location_cleanup: '2026-04-09'
 latitude: 11.122436
-loc_type: feature
+loc_type: city
 longitude: 99.486958
 score: 8.19
 snippet: Quiet Gulf of Thailand island off Bang Saphan, centred on beaches, snorkelling,

@@ -1,7 +1,7 @@
 ---
 latitude: 7.3747
 longitude: 99.299
-loc_type: feature
+loc_type: island
 score: 8.6
 snippet: Quiet Trang island known for Emerald Cave, fishing-village lanes, and two
   very different beaches.

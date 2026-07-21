@@ -7,7 +7,7 @@ image_attribution: Visions of Domino
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Thailand_-_Koh_Phayam_(24873552885).jpg
 latitude: 9.7405
-loc_type: city
+loc_type: island
 longitude: 98.4036
 score: 8.7
 snippet: Small Andaman island off Ranong, known for long beaches and a cashew-growing

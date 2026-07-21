@@ -6,7 +6,7 @@ image: kohtao.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Ban_Mae_Haad_Ko_Tao.jpg
 latitude: 10.092182
-loc_type: city
+loc_type: island
 longitude: 99.839536
 score: 9.21
 snippet: Small Gulf of Thailand island known for accessible coral reefs and dive schools.

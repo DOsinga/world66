@@ -7,7 +7,7 @@ image_attribution: Diego Delso
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Isla_Phi_Phi_Lay,_Tailandia,_2013-08-19,_DD_04.JPG
 latitude: 7.737373
-loc_type: city
+loc_type: island
 longitude: 98.770455
 score: 9.23
 snippet: Andaman Sea island group between Phuket and Krabi, known for limestone cliffs

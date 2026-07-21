@@ -150,9 +150,10 @@
     {% csrf_token %}
     <input type="hidden" name="next" value="{{ request.get_full_path }}">
     {% for src in overlay_sources %}
+    <input type="hidden" name="all_sources" value="{{ src.name }}">
     <label class="overlay-prefs-option">
-      <input type="checkbox" name="disable" value="{{ src.name }}"{% if src.name in disabled_overlay_names %} checked{% endif %}>
-      Hide {{ src.display_name }}
+      <input type="checkbox" name="enable" value="{{ src.name }}"{% if src.name not in disabled_overlay_names %} checked{% endif %}>
+      Show {{ src.display_name }}
     </label>
     {% endfor %}
     <button type="submit" class="overlay-prefs-save">Save</button>

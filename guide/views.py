@@ -289,9 +289,17 @@ def set_overlay_prefs(request):
     Session-backed (signed-cookie session engine, no DB) rather than a
     query param, so the choice survives normal browsing without needing
     every internal link on the site to carry it forward.
+
+    The form checks the box for suppliers to SHOW (name="enable") — an
+    unchecked box means hidden. Since an unchecked checkbox sends nothing
+    at all, the form also submits a hidden `all_sources` field per option
+    so we know the full set on offer and can work out which ones were
+    left unchecked (all_sources minus enable = disabled).
     """
     if request.method == "POST":
-        request.session[overlays.SESSION_KEY] = request.POST.getlist("disable")
+        all_sources = request.POST.getlist("all_sources")
+        enabled = set(request.POST.getlist("enable"))
+        request.session[overlays.SESSION_KEY] = [n for n in all_sources if n not in enabled]
     next_url = request.POST.get("next") or request.GET.get("next") or "/"
     if not next_url.startswith("/") or next_url.startswith("//"):
         next_url = "/"

@@ -3607,6 +3607,56 @@ img { max-width: 100%; height: auto; }
   margin-left: 0;
 }
 
+.overlay-prefs {
+  margin-bottom: 16px;
+  font-family: var(--label-font);
+  font-size: 12px;
+}
+
+.overlay-prefs summary {
+  display: inline-block;
+  cursor: pointer;
+  color: var(--mute);
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+
+.overlay-prefs form {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+  margin-top: 10px;
+  padding: 12px 16px;
+  background: var(--paper-2);
+  border-radius: 8px;
+}
+
+.overlay-prefs-option {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--ink);
+  cursor: pointer;
+}
+
+.overlay-prefs-save {
+  padding: 6px 16px;
+  border: none;
+  border-radius: 999px;
+  background: var(--ink);
+  color: var(--paper);
+  font-family: var(--label-font);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+}
+
+.overlay-prefs-save:hover {
+  opacity: 0.85;
+}
+
 .poi-num {
   font-family: var(--label-font);
   font-size: 11px;

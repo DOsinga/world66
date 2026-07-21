@@ -16,6 +16,7 @@ registered against. A supplier feed that is slow, unreachable, or
 malformed silently contributes nothing; it never breaks a page.
 """
 
+import contextvars
 import json
 import logging
 from functools import lru_cache
@@ -33,6 +34,24 @@ OVERLAY_REGISTRY_PATH = Path(settings.BASE_DIR) / "overlay_sources.yaml"
 # Page types an overlay entry may declare.
 _OVERLAY_PAGE_TYPES = {"poi", "section"}
 
+# Which registered supplier names the current visitor has turned off, for
+# this request only. Set once near the top of _location_or_section() from
+# request.session (views.py) — Page.children() and build_city_tag_index()
+# read it indirectly through _registry_entries_for() without needing a
+# request object threaded through every call site. Always explicitly set
+# per request (never left at its default mid-request), so there's no
+# cross-request leakage even when sync views run in a shared thread pool
+# under ASGI.
+_disabled_sources_var = contextvars.ContextVar("disabled_overlay_sources", default=frozenset())
+
+# Session key used to persist a visitor's choice across requests.
+SESSION_KEY = "disabled_overlays"
+
+
+def set_disabled_sources(names):
+    """Mark these registered supplier names as off for the rest of this request."""
+    _disabled_sources_var.set(frozenset(names or ()))
+
 
 @lru_cache(maxsize=1)
 def _load_registry():
@@ -40,6 +59,8 @@ def _load_registry():
 
     Each entry: {content_path, name, feed_url}. content_path is matched
     exactly against the city/feature/island page an overlay attaches to.
+    An optional display_name is shown in the visitor-facing toggle UI
+    instead of the raw name slug, if given.
     """
     if not OVERLAY_REGISTRY_PATH.is_file():
         return []
@@ -62,7 +83,22 @@ def _load_registry():
 
 
 def _registry_entries_for(content_path):
-    return [e for e in _load_registry() if e["content_path"] == content_path]
+    disabled = _disabled_sources_var.get()
+    return [
+        e for e in _load_registry()
+        if e["content_path"] == content_path and e["name"] not in disabled
+    ]
+
+
+def available_sources_for(content_path):
+    """All suppliers registered for content_path, regardless of the current
+    visitor's preference — for building the toggle UI, which needs to show
+    every option (checked or not), not just the currently-enabled ones."""
+    return [
+        {"name": e["name"], "display_name": e.get("display_name") or e["name"]}
+        for e in _load_registry()
+        if e["content_path"] == content_path
+    ]
 
 
 def fetch_overlay_feed(url):

@@ -283,8 +283,27 @@ def location_or_section_at_revision(request, revision, path):
     )
 
 
+def set_overlay_prefs(request):
+    """Persist which registered overlay suppliers a visitor wants turned off.
+
+    Session-backed (signed-cookie session engine, no DB) rather than a
+    query param, so the choice survives normal browsing without needing
+    every internal link on the site to carry it forward.
+    """
+    if request.method == "POST":
+        request.session[overlays.SESSION_KEY] = request.POST.getlist("disable")
+    next_url = request.POST.get("next") or request.GET.get("next") or "/"
+    if not next_url.startswith("/") or next_url.startswith("//"):
+        next_url = "/"
+    return redirect(next_url)
+
+
 def _location_or_section(request, path, source_ref=None, url_revision=""):
     path = path.strip("/")
+
+    # Apply the visitor's overlay on/off preference (session-backed, no DB)
+    # for the rest of this request before anything reads overlay content.
+    overlays.set_disabled_sources(request.session.get(overlays.SESSION_KEY))
 
     page = (
         load_page_from_revision(path, source_ref, url_revision=url_revision)
@@ -539,6 +558,21 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
 
     breadcrumbs = page.breadcrumbs()
 
+    # Let a visitor turn registered overlay suppliers on/off for this
+    # location. Shown whenever any supplier is registered against the
+    # city this page belongs to, regardless of whether the current page
+    # itself has overlay content — overlays never apply to a preview.
+    overlay_sources = []
+    disabled_overlay_names = []
+    if not source_ref:
+        overlay_content_path = (
+            page.path if page.page_type == "location"
+            else _find_city_path(page.path, source_ref, url_revision)
+        )
+        if overlay_content_path:
+            overlay_sources = overlays.available_sources_for(overlay_content_path)
+            disabled_overlay_names = list(request.session.get(overlays.SESSION_KEY) or [])
+
     return render(request, "guide/page.html", {
         "page": page,
         "parent": parent,
@@ -556,6 +590,8 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "nav_siblings": nav_siblings,
         "body_html": body_html,
         "breadcrumbs": breadcrumbs,
+        "overlay_sources": overlay_sources,
+        "disabled_overlay_names": disabled_overlay_names,
         "lat": lat,
         "lng": lng,
         "continent_slug": continent_slug,

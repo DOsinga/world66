@@ -21,7 +21,7 @@ Add one entry to `overlay_sources.yaml`:
   feed_url: https://supplier.example.com/world66-overlay.json
 ```
 
-`content_path` must exactly match an existing city/feature/island page's own path (no trailing slash). `name` is a short label for this supplier (shown nowhere in URLs — see below); it just needs to be unique in the registry.
+`content_path` must exactly match an existing city/feature/island page's own path (no trailing slash). `name` is a short label for this supplier (shown nowhere in URLs — see below); it just needs to be unique in the registry. Optional `display_name` is shown instead of `name` in the visitor-facing toggle described below.
 
 ### URLs
 
@@ -68,6 +68,14 @@ This means an overlay section or POI slug must not collide with a real one at th
   - `"url"` (the only kind implemented today) — `handler.target` is a URL; clicking the button opens it in a new tab. No server-side state, no negotiation.
   - Other `handler.kind` values are reserved for future use (e.g. a server-side webhook proxy) — an unrecognized kind is ignored (the button is simply omitted), never an error.
 - **`show_on_map`** (POIs only) — optional, defaults to `false`. Overlay POIs never contribute a map marker on any map (city page, section page, or the `/explore` view) unless a POI explicitly sets `"show_on_map": true`. The default is off so third-party listings don't clutter a map the guide didn't curate — sections/listings are unaffected either way; this only controls map markers.
+
+## Letting a visitor turn a supplier off
+
+Any page within a city that has a registered overlay shows a small "Partner listings" disclosure with one checkbox per registered supplier (labelled with `display_name`, falling back to `name`). Checking a box and saving hides that supplier's sections and POIs everywhere on the site — the preference is stored in the visitor's session (`django.contrib.sessions`, signed-cookie backend, no database) and applies on every subsequent request until changed again. A fresh visitor with no preference set sees every registered supplier by default (opt-out, not opt-in).
+
+Mechanically: `guide/views.py` reads the session at the top of `_location_or_section()` and calls `overlays.set_disabled_sources()`, which stores the disabled names in a `contextvars.ContextVar` for the rest of that request. `build_city_tag_index()` and `Page.children()` read it indirectly through `_registry_entries_for()` — no request object needs to be threaded through those (or any other) call sites. The toggle form posts to `/overlay-prefs` (CSRF-protected, redirects back to the referring page).
+
+If a visitor hides a supplier and then follows an old link straight to one of that supplier's own section/POI URLs, they'll get a 404 rather than the hidden content — an intentional, honest consequence of them asking not to see it, not a bug.
 
 ## What overlays are not
 

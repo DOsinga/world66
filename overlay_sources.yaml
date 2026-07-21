@@ -7,8 +7,10 @@
 #
 # - content_path: asia/thailand/andamancoast/phuket
 #   name: example-supplier
+#   display_name: Example Supplier   # optional, shown in the visitor toggle UI instead of `name`
 #   feed_url: https://supplier.example.com/world66-overlay.json
 
 - content_path: asia/thailand/chiangmai
   name: sider
+  display_name: Sider Tours
   feed_url: https://content.sider.uk/

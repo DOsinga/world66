@@ -1,6 +1,6 @@
 ---
-latitude: 7.9758
-longitude: 98.2791
+latitude: 7.9764
+longitude: 98.2797
 score: 6.4
 snippet: Decent beach break during the monsoon season, with rental boards available
   on the sand

@@ -1,6 +1,6 @@
 ---
-latitude: 18.7883
-longitude: 98.9853
+latitude: 18.7876
+longitude: 98.9868
 tags:
 - things_to_do
 - cycling

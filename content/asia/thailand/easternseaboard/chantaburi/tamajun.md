@@ -5,8 +5,8 @@ tags:
   - eating_out
   - restaurant
 snippet: "Riverside Thai restaurant with a terrace over the water"
-latitude: 12.6105
-longitude: 102.1095
+latitude: 12.6099
+longitude: 102.1088
 score: 6.3
 ---
 

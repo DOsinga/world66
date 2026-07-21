@@ -1,6 +1,6 @@
 ---
-latitude: 18.7878
-longitude: 98.9933
+latitude: 18.7883
+longitude: 98.9925
 tags:
 - things_to_do
 - sight

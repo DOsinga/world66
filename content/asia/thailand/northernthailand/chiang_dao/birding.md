@@ -1,8 +1,8 @@
 ---
 title: "Chiang Dao Birding"
 type: poi
-latitude: 19.3862
-longitude: 98.9062
+latitude: 19.3856
+longitude: 98.9071
 tags:
   - things_to_do
   - sight

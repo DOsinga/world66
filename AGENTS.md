@@ -111,6 +111,7 @@ The todo skill can be used to execute a task defined in the todo folder
 The `type` field in frontmatter is the source of truth. Directory filtering in the sidebar uses it: if a directory contains only `poi` type files, it's a section directory (containing POIs), not a sub-location.
 
 - `guide/overlays.py` — external content overlays: third-party suppliers can attach extra POIs/sections (with a bookable "action") to a location without touching `content/`. See [OVERLAYS.md](OVERLAYS.md).
+- `guide/action_widgets.py` — external action widgets: third parties who don't supply content but want to add an action to existing content (e.g. "add to trip") register their own hosted script, which is included as-is. World66 renders a generic place-info hook and nothing partner-specific. See [ACTION_WIDGETS.md](ACTION_WIDGETS.md).
 
 ## Don't
 

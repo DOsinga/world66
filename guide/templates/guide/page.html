@@ -1,5 +1,4 @@
 {% extends "guide/base.html" %}
-{% load static %}
 
 {% block title %}
 {{ page.title }}{% if page.page_type == "location" %} Travel Guide{% endif %} - World66
@@ -162,10 +161,8 @@
 </details>
 {% endif %}
 
-{% if trip_stop_eligible %}
-<div class="poi-action-row">
-  <button type="button" class="trip-add-btn" data-path="{{ page.path }}" data-city-path="{{ page.path }}" data-title="{{ page.title }}">+ Add to Trip</button>
-</div>
+{% if page.page_type == "location" %}
+<span class="w66-place" data-path="{{ page.path }}" data-title="{{ page.title }}" data-type="location" data-loc-type="{{ page.meta.loc_type }}" data-parent-path="{{ place_parent_path }}"></span>
 {% endif %}
 
 {% if page.page_type == "poi" %}
@@ -176,7 +173,7 @@
   {% if page.action_button %}
   <a href="{{ page.action_button.href }}" target="{{ page.action_button.target }}" rel="noopener noreferrer" class="poi-action-btn">{{ page.action_button.label }}</a>
   {% endif %}
-  <button type="button" class="trip-add-btn" data-path="{{ page.path }}" data-city-path="{{ stop_city_path }}" data-title="{{ page.title }}">+ Add to Trip</button>
+  <span class="w66-place" data-path="{{ page.path }}" data-title="{{ page.title }}" data-type="poi" data-parent-path="{{ place_parent_path }}"></span>
 </div>
 {% endif %}
 
@@ -268,7 +265,7 @@
         {% if poi.action_button %}
         <a href="{{ poi.action_button.href }}" target="{{ poi.action_button.target }}" rel="noopener noreferrer" class="poi-action-btn">{{ poi.action_button.label }}</a>
         {% endif %}
-        <button type="button" class="trip-add-btn" data-path="{{ poi.path }}" data-city-path="{{ stop_city_path }}" data-title="{{ poi.title }}">+ Add to Trip</button>
+        <span class="w66-place" data-path="{{ poi.path }}" data-title="{{ poi.title }}" data-type="poi" data-parent-path="{{ place_parent_path }}"></span>
       </div>
     </li>
     {% endfor %}
@@ -365,7 +362,7 @@
         {% if poi.action_button %}
         <a href="{{ poi.action_button.href }}" target="{{ poi.action_button.target }}" rel="noopener noreferrer" class="poi-action-btn">{{ poi.action_button.label }}</a>
         {% endif %}
-        <button type="button" class="trip-add-btn" data-path="{{ poi.path }}" data-city-path="{{ stop_city_path }}" data-title="{{ poi.title }}">+ Add to Trip</button>
+        <span class="w66-place" data-path="{{ poi.path }}" data-title="{{ poi.title }}" data-type="poi" data-parent-path="{{ place_parent_path }}"></span>
       </div>
     </li>
     {% endfor %}
@@ -491,37 +488,9 @@
 </div>
 {% endif %}
 
-<dialog id="trip-modal">
-  <button type="button" class="trip-modal-close" aria-label="Close" onclick="document.getElementById('trip-modal').close()">&times;</button>
-  <div class="trip-modal-body">
-    {% csrf_token %}
-    <div class="trip-modal-title">Add to a tab.bi trip</div>
-    <div class="trip-modal-error" id="trip-modal-error" style="display:none"></div>
-
-    <div id="trip-modal-step-passphrase">
-      <input type="text" class="trip-modal-input" id="trip-modal-passphrase" placeholder="Trip passphrase">
-      <div class="trip-modal-actions">
-        <button type="button" class="trip-modal-submit" id="trip-modal-find">Find my trip</button>
-      </div>
-    </div>
-
-    <div id="trip-modal-step-confirm" style="display:none">
-      <div class="trip-modal-plan">Add <strong id="trip-modal-place-title"></strong> to <strong id="trip-modal-plan-title"></strong>?</div>
-      <div class="trip-modal-actions">
-        <button type="button" class="trip-modal-submit" id="trip-modal-confirm">Add to trip</button>
-        <button type="button" class="trip-modal-link" id="trip-modal-not-this-trip">Not this trip?</button>
-      </div>
-    </div>
-
-    <div id="trip-modal-step-success" style="display:none">
-      <div class="trip-modal-plan" id="trip-modal-success-message"></div>
-      <div class="trip-modal-actions">
-        <a class="trip-modal-submit" id="trip-modal-view-link" href="#" target="_blank" rel="noopener noreferrer">View trip</a>
-      </div>
-    </div>
-  </div>
-</dialog>
-<script src="{% static 'js/trip-add.js' %}"></script>
+{% for w in action_widgets %}
+<script src="{{ w.script_url }}" data-w66-widget="{{ w.name }}"></script>
+{% endfor %}
 {% endblock %}
 
 {% block extra_js %}

@@ -1,0 +1,6 @@
+# Site-wide "place action" widgets — third parties who add an action to
+# content that already exists (not who supply content, see
+# overlay_sources.yaml for that). See ACTION_WIDGETS.md for the contract.
+#
+# - name: example-widget
+#   script_url: https://example.com/w66-widget.js

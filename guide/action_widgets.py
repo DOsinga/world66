@@ -21,10 +21,14 @@ logger = logging.getLogger(__name__)
 
 REGISTRY_PATH = Path(settings.BASE_DIR) / "action_widgets.yaml"
 
+# Session key used to persist a visitor's choice of which registered
+# widgets to show, across requests (mirrors overlays.SESSION_KEY).
+SESSION_KEY = "disabled_action_widgets"
+
 
 @lru_cache(maxsize=1)
 def registered_widgets():
-    """Load action_widgets.yaml once per process. Each entry: {name, script_url}."""
+    """Load action_widgets.yaml once per process. Each entry: {name, script_url, display_name}."""
     if not REGISTRY_PATH.is_file():
         return []
     try:
@@ -35,7 +39,13 @@ def registered_widgets():
     if not isinstance(data, list):
         return []
     return [
-        {"name": e["name"], "script_url": e["script_url"]}
+        {"name": e["name"], "script_url": e["script_url"], "display_name": e.get("display_name") or e["name"]}
         for e in data
         if isinstance(e, dict) and e.get("name") and e.get("script_url")
     ]
+
+
+def active_widgets(disabled_names):
+    """registered_widgets(), minus whichever names this visitor has turned off."""
+    disabled = frozenset(disabled_names or ())
+    return [w for w in registered_widgets() if w["name"] not in disabled]

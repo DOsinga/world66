@@ -307,6 +307,24 @@ def set_overlay_prefs(request):
     return redirect(next_url)
 
 
+def set_action_widget_prefs(request):
+    """Persist which registered action widgets a visitor wants turned off.
+
+    Same session-backed shape as set_overlay_prefs above — the form checks
+    the box for widgets to SHOW (name="enable"); an unchecked box means
+    hidden. A hidden `all_widgets` field per option carries the full set on
+    offer, since an unchecked checkbox sends nothing at all.
+    """
+    if request.method == "POST":
+        all_widgets = request.POST.getlist("all_widgets")
+        enabled = set(request.POST.getlist("enable"))
+        request.session[action_widgets.SESSION_KEY] = [n for n in all_widgets if n not in enabled]
+    next_url = request.POST.get("next") or request.GET.get("next") or "/"
+    if not next_url.startswith("/") or next_url.startswith("//"):
+        next_url = "/"
+    return redirect(next_url)
+
+
 def _location_or_section(request, path, source_ref=None, url_revision=""):
     path = path.strip("/")
 
@@ -590,6 +608,13 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         overlay_sources = overlays.available_sources_for(place_parent_path)
         disabled_overlay_names = list(request.session.get(overlays.SESSION_KEY) or [])
 
+    # Let a visitor turn registered action widgets on/off. Site-wide (not
+    # scoped to a content path like overlays), so shown on every page that
+    # has any widget registered at all.
+    all_action_widgets = action_widgets.registered_widgets()
+    disabled_widget_names = list(request.session.get(action_widgets.SESSION_KEY) or [])
+    active_action_widgets = action_widgets.active_widgets(disabled_widget_names)
+
     return render(request, "guide/page.html", {
         "page": page,
         "parent": parent,
@@ -610,7 +635,9 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "overlay_sources": overlay_sources,
         "disabled_overlay_names": disabled_overlay_names,
         "place_parent_path": place_parent_path,
-        "action_widgets": action_widgets.registered_widgets(),
+        "action_widgets": active_action_widgets,
+        "all_action_widgets": all_action_widgets,
+        "disabled_widget_names": disabled_widget_names,
         "lat": lat,
         "lng": lng,
         "continent_slug": continent_slug,

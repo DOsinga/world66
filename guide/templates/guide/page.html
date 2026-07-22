@@ -144,19 +144,37 @@
 <h1 class="{% if hero_image_url or is_continent %}page-title-hidden{% endif %}"><button class="sidebar-toggle" aria-label="Toggle sidebar">&#9776;</button>{{ page.title }}</h1>
 
 {% if overlay_sources %}
-<details class="overlay-prefs">
+<details class="prefs-disclosure">
   <summary>Partner listings</summary>
   <form method="post" action="/overlay-prefs">
     {% csrf_token %}
     <input type="hidden" name="next" value="{{ request.get_full_path }}">
     {% for src in overlay_sources %}
     <input type="hidden" name="all_sources" value="{{ src.name }}">
-    <label class="overlay-prefs-option">
+    <label class="prefs-option">
       <input type="checkbox" name="enable" value="{{ src.name }}"{% if src.name not in disabled_overlay_names %} checked{% endif %}>
       Show {{ src.display_name }}
     </label>
     {% endfor %}
-    <button type="submit" class="overlay-prefs-save">Save</button>
+    <button type="submit" class="prefs-save">Save</button>
+  </form>
+</details>
+{% endif %}
+
+{% if all_action_widgets %}
+<details class="prefs-disclosure">
+  <summary>Place action widgets</summary>
+  <form method="post" action="/action-widget-prefs">
+    {% csrf_token %}
+    <input type="hidden" name="next" value="{{ request.get_full_path }}">
+    {% for w in all_action_widgets %}
+    <input type="hidden" name="all_widgets" value="{{ w.name }}">
+    <label class="prefs-option">
+      <input type="checkbox" name="enable" value="{{ w.name }}"{% if w.name not in disabled_widget_names %} checked{% endif %}>
+      Show {{ w.display_name }}
+    </label>
+    {% endfor %}
+    <button type="submit" class="prefs-save">Save</button>
   </form>
 </details>
 {% endif %}

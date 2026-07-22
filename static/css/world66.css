@@ -3607,13 +3607,13 @@ img { max-width: 100%; height: auto; }
   margin-left: 0;
 }
 
-.overlay-prefs {
+.prefs-disclosure {
   margin-bottom: 16px;
   font-family: var(--label-font);
   font-size: 12px;
 }
 
-.overlay-prefs summary {
+.prefs-disclosure summary {
   display: inline-block;
   cursor: pointer;
   color: var(--mute);
@@ -3621,7 +3621,7 @@ img { max-width: 100%; height: auto; }
   text-decoration-style: dotted;
 }
 
-.overlay-prefs form {
+.prefs-disclosure form {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -3632,7 +3632,7 @@ img { max-width: 100%; height: auto; }
   border-radius: 8px;
 }
 
-.overlay-prefs-option {
+.prefs-option {
   display: flex;
   align-items: center;
   gap: 6px;
@@ -3640,7 +3640,7 @@ img { max-width: 100%; height: auto; }
   cursor: pointer;
 }
 
-.overlay-prefs-save {
+.prefs-save {
   padding: 6px 16px;
   border: none;
   border-radius: 999px;
@@ -3653,7 +3653,7 @@ img { max-width: 100%; height: auto; }
   cursor: pointer;
 }
 
-.overlay-prefs-save:hover {
+.prefs-save:hover {
   opacity: 0.85;
 }
 

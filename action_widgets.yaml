@@ -4,3 +4,4 @@
 #
 # - name: example-widget
 #   script_url: https://example.com/w66-widget.js
+#   display_name: Example Widget   # optional, shown in the visitor toggle UI instead of `name`

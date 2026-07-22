@@ -19,9 +19,10 @@ Add one entry to `action_widgets.yaml`:
 ```yaml
 - name: example-widget
   script_url: https://example.com/w66-widget.js
+  display_name: Example Widget
 ```
 
-`name` just needs to be unique in the registry (used only in the rendered `data-w66-widget` attribute, for a widget to identify its own `<script>` tag if it needs to). `script_url` is included verbatim as a `<script src="...">` — world66 does not fetch, inspect, or cache it.
+`name` just needs to be unique in the registry (used in the rendered `data-w66-widget` attribute, and as the value posted by the visitor toggle described below). `script_url` is included verbatim as a `<script src="...">` — world66 does not fetch, inspect, or cache it. Optional `display_name` is shown instead of `name` in the visitor-facing toggle.
 
 ## The `.w66-place` contract
 
@@ -50,6 +51,10 @@ document.querySelectorAll('.w66-place').forEach(function (el) {
   // render whatever UI you want into/near el, using el.dataset.path etc.
 });
 ```
+
+## Letting a visitor turn a widget off
+
+Any page shows a "Place action widgets" disclosure (next to the equivalent "Partner listings" one for overlay suppliers — see [OVERLAYS.md](OVERLAYS.md)) whenever at least one widget is registered at all, with one checkbox per registered widget (labelled "Show {display_name}"). Unchecking a box and saving stops that widget's `<script>` tag from being included on any subsequent page — the widget's own script never loads, so it can't run at all, rather than world66 asking it to hide itself. The preference is stored in the visitor's session (same signed-cookie mechanism as the overlay toggle, no database) and defaults to every widget shown for a fresh visitor. Mechanically: `guide/action_widgets.py`'s `active_widgets()` filters `registered_widgets()` against `request.session[action_widgets.SESSION_KEY]`; the toggle form posts to `/action-widget-prefs`.
 
 ## What this means for CORS
 

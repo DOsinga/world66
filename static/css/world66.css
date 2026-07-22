@@ -3534,7 +3534,7 @@ img { max-width: 100%; height: auto; }
 
 .poi-list-row {
   display: grid;
-  grid-template-columns: 48px 1fr auto auto;
+  grid-template-columns: 48px 1fr auto auto auto;
   gap: 24px;
   padding: 22px 0;
   border-top: 1px solid var(--line);
@@ -3596,15 +3596,132 @@ img { max-width: 100%; height: auto; }
   vertical-align: middle;
 }
 
-.overlay-partner-row {
+.poi-action-row {
   display: flex;
   align-items: center;
   gap: 16px;
   margin-bottom: 12px;
 }
 
-.overlay-partner-row .overlay-badge {
+.poi-action-row .overlay-badge {
   margin-left: 0;
+}
+
+.trip-add-btn {
+  align-self: center;
+  justify-self: end;
+  padding: 7px 17px;
+  border-radius: 999px;
+  border: 1px solid var(--ink);
+  background: transparent;
+  color: var(--ink);
+  font-family: var(--label-font);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.trip-add-btn:hover {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+#trip-modal {
+  border: none;
+  border-radius: 12px;
+  padding: 0;
+  width: min(360px, calc(100vw - 48px));
+  color: var(--ink);
+  background: var(--paper);
+}
+
+#trip-modal::backdrop {
+  background: rgba(0, 0, 0, 0.4);
+}
+
+.trip-modal-body {
+  padding: 24px;
+  font-family: var(--label-font);
+}
+
+.trip-modal-title {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.trip-modal-close {
+  position: absolute;
+  top: 12px;
+  right: 16px;
+  border: none;
+  background: none;
+  font-size: 18px;
+  line-height: 1;
+  cursor: pointer;
+  color: var(--mute);
+}
+
+.trip-modal-input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px 12px;
+  border: 1px solid var(--line-2);
+  border-radius: 8px;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.trip-modal-error {
+  color: #b00020;
+  font-size: 13px;
+  margin-bottom: 10px;
+}
+
+.trip-modal-plan {
+  font-size: 14px;
+  margin-bottom: 14px;
+  color: var(--mute);
+}
+
+.trip-modal-plan strong {
+  color: var(--ink);
+}
+
+.trip-modal-actions {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.trip-modal-submit {
+  padding: 8px 18px;
+  border: none;
+  border-radius: 999px;
+  background: var(--accent);
+  color: var(--paper);
+  font-family: var(--label-font);
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+}
+
+.trip-modal-submit:hover {
+  opacity: 0.85;
+}
+
+.trip-modal-link {
+  font-size: 13px;
+  color: var(--mute);
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  cursor: pointer;
+  background: none;
+  border: none;
+  padding: 0;
 }
 
 .overlay-prefs {

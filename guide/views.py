@@ -10,10 +10,12 @@ from django.conf import settings
 from django.http import FileResponse, Http404, HttpResponse, JsonResponse
 from django.shortcuts import redirect, render
 from django.views.decorators.clickjacking import xframe_options_exempt
+from django.views.decorators.http import require_POST
 from django.utils.safestring import mark_safe
 
 from . import github
 from . import overlays
+from . import tabbi
 from .models import (
     CONTENT_DIR, NAV_TYPES, build_city_tag_index, find_tagged_pois, find_locations_tagged,
     load_page, load_page_from_revision, load_tag_index, resolve_tag_route, _find_city_path,
@@ -306,6 +308,42 @@ def set_overlay_prefs(request):
     return redirect(next_url)
 
 
+@require_POST
+def tabbi_list_plans(request):
+    """Proxy for the "Add to Trip" modal: look up a visitor's tab.bi trip(s)
+    by passphrase. Proxied server-side (rather than called directly from
+    browser JS) for consistency with tabbi_add_to_trip below, which must
+    be proxied since tab.bi's write endpoint doesn't send CORS headers."""
+    try:
+        body = json.loads(request.body)
+    except (json.JSONDecodeError, UnicodeDecodeError):
+        return JsonResponse({"error": "invalid JSON"}, status=400)
+    passphrase = (body.get("passphrase") or "").strip()
+    if not passphrase:
+        return JsonResponse({"error": "passphrase required"}, status=400)
+    return JsonResponse(tabbi.list_plans(passphrase))
+
+
+@require_POST
+def tabbi_add_to_trip(request):
+    """Proxy for the "Add to Trip" modal: add a world66 POI or place to a
+    tab.bi trip's stop. tab.bi's /api/plan/add-pois doesn't send CORS
+    headers, so this can't be called directly from browser JS."""
+    try:
+        body = json.loads(request.body)
+    except (json.JSONDecodeError, UnicodeDecodeError):
+        return JsonResponse({"error": "invalid JSON"}, status=400)
+    passphrase = (body.get("passphrase") or "").strip()
+    plan_slug = (body.get("plan_slug") or "").strip()
+    city_path = (body.get("city_path") or "").strip()
+    poi_path = (body.get("poi_path") or "").strip()
+    if not passphrase or not plan_slug or not city_path or not poi_path:
+        return JsonResponse(
+            {"error": "passphrase, plan_slug, city_path and poi_path are required"}, status=400
+        )
+    return JsonResponse(tabbi.add_to_trip(passphrase, plan_slug, city_path, poi_path))
+
+
 def _location_or_section(request, path, source_ref=None, url_revision=""):
     path = path.strip("/")
 
@@ -411,6 +449,21 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     poi_categories = []
     if page.page_type in NAV_TYPES and pois:
         poi_categories = sorted(set(p.category for p in pois if p.category))
+
+    # Nearest city/feature/island this page's POIs belong to (or, for a
+    # location page itself, its own path) — used both by the overlay
+    # supplier toggle below and by the "Add to Trip" button (tab.bi has
+    # no concept of a preview, so this never applies to one).
+    stop_city_path = None
+    trip_stop_eligible = False
+    if not source_ref:
+        stop_city_path = (
+            page.path if page.page_type == "location"
+            else _find_city_path(page.path, source_ref, url_revision)
+        )
+        trip_stop_eligible = (
+            page.page_type == "location" and page.meta.get("loc_type") in ("city", "feature", "island")
+        )
 
     # Resolve overlay action buttons (e.g. "Book Now") on any POI that
     # carries an `action` field — currently only ever overlay content.
@@ -572,14 +625,9 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     # itself has overlay content — overlays never apply to a preview.
     overlay_sources = []
     disabled_overlay_names = []
-    if not source_ref:
-        overlay_content_path = (
-            page.path if page.page_type == "location"
-            else _find_city_path(page.path, source_ref, url_revision)
-        )
-        if overlay_content_path:
-            overlay_sources = overlays.available_sources_for(overlay_content_path)
-            disabled_overlay_names = list(request.session.get(overlays.SESSION_KEY) or [])
+    if stop_city_path:
+        overlay_sources = overlays.available_sources_for(stop_city_path)
+        disabled_overlay_names = list(request.session.get(overlays.SESSION_KEY) or [])
 
     return render(request, "guide/page.html", {
         "page": page,
@@ -600,6 +648,8 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "breadcrumbs": breadcrumbs,
         "overlay_sources": overlay_sources,
         "disabled_overlay_names": disabled_overlay_names,
+        "stop_city_path": stop_city_path,
+        "trip_stop_eligible": trip_stop_eligible,
         "lat": lat,
         "lng": lng,
         "continent_slug": continent_slug,

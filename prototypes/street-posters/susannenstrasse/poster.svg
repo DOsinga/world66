@@ -1,0 +1,338 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" role="img" aria-label="Travel poster of Susannenstrasse, Hamburg">
+  <title>Susannenstrasse — Hamburg</title>
+
+  <!--
+    Six inks, no gradients, no filters, no raster. Layers run back to front and
+    are the animation contract: layer-sky, layer-far, layer-mid, layer-near,
+    layer-type. Each shopfront is its own group (shop-1 .. shop-5) so a single
+    shop can be highlighted, and every shop carries data-shop with its name.
+
+      INK    #1E2A2E   PAPER  #F2E6CD   TEAL   #4E8A93
+      BRICK  #C25A3C   OCHRE  #E0A32E   LEAF   #4F7A52
+  -->
+
+  <defs>
+    <clipPath id="clip-awning-1"><path d="M18 754 H362 L348 806 H32 Z"/></clipPath>
+    <clipPath id="clip-awning-3"><path d="M798 754 H1122 L1108 806 H812 Z"/></clipPath>
+    <clipPath id="clip-awning-5"><path d="M1558 754 H1902 L1888 806 H1572 Z"/></clipPath>
+  </defs>
+
+  <!-- ================= SKY ================= -->
+  <g id="layer-sky">
+    <rect x="0" y="0" width="1920" height="1080" fill="#4E8A93"/>
+    <circle cx="1662" cy="152" r="106" fill="#E0A32E"/>
+    <!-- flat lozenge clouds -->
+    <g fill="#F2E6CD" opacity="0.42">
+      <rect x="250" y="78" width="210" height="26" rx="13"/>
+      <rect x="310" y="112" width="150" height="24" rx="12"/>
+      <rect x="600" y="132" width="176" height="24" rx="12"/>
+      <rect x="1180" y="66" width="190" height="26" rx="13"/>
+      <rect x="1236" y="100" width="120" height="22" rx="11"/>
+    </g>
+  </g>
+
+  <!-- ================= FAR: skyline behind the roofline ================= -->
+  <g id="layer-far">
+    <!-- Heinrich-Hertz-Turm, the mast you see over the Schanze rooftops -->
+    <g fill="#1E2A2E" opacity="0.30">
+      <rect x="1446" y="150" width="17" height="118"/>
+      <path d="M1432 214 h45 l-8 30 h-29 Z"/>
+      <ellipse cx="1454.5" cy="208" rx="30" ry="11"/>
+      <rect x="1451" y="96" width="7" height="56"/>
+    </g>
+    <!-- distant gable tops -->
+    <g fill="#1E2A2E" opacity="0.22">
+      <path d="M520 268 l52 -46 52 46 Z"/>
+      <path d="M980 268 l44 -38 44 38 Z"/>
+      <path d="M1300 268 l60 -52 60 52 Z"/>
+    </g>
+  </g>
+
+  <!-- ================= MID: the tenement row ================= -->
+  <g id="layer-mid">
+    <!-- facades -->
+    <g>
+      <rect x="0" y="300" width="380" height="392" fill="#F2E6CD"/>
+      <rect x="380" y="300" width="400" height="392" fill="#F2E6CD"/>
+      <rect x="380" y="300" width="400" height="392" fill="#E0A32E" opacity="0.26"/>
+      <rect x="780" y="300" width="360" height="392" fill="#F2E6CD"/>
+      <rect x="1140" y="300" width="400" height="392" fill="#F2E6CD"/>
+      <rect x="1140" y="300" width="400" height="392" fill="#C25A3C" opacity="0.24"/>
+      <rect x="1540" y="300" width="380" height="392" fill="#F2E6CD"/>
+      <rect x="1540" y="300" width="380" height="392" fill="#4E8A93" opacity="0.18"/>
+    </g>
+
+    <!-- mansard roofs + chimneys -->
+    <g fill="#1E2A2E">
+      <path d="M18 300 L44 256 H336 L362 300 Z"/>
+      <path d="M398 300 L424 250 H736 L762 300 Z"/>
+      <path d="M798 300 L822 260 H1098 L1122 300 Z"/>
+      <path d="M1158 300 L1184 252 H1496 L1522 300 Z"/>
+      <path d="M1558 300 L1584 258 H1876 L1902 300 Z"/>
+      <rect x="120" y="228" width="26" height="32"/>
+      <rect x="620" y="220" width="26" height="34"/>
+      <rect x="900" y="232" width="24" height="30"/>
+      <rect x="1380" y="222" width="26" height="32"/>
+      <rect x="1760" y="228" width="26" height="32"/>
+      <!-- cornice -->
+      <rect x="0" y="292" width="1920" height="14"/>
+      <!-- party walls between houses -->
+      <rect x="376" y="300" width="8" height="392"/>
+      <rect x="776" y="300" width="8" height="392"/>
+      <rect x="1136" y="300" width="8" height="392"/>
+      <rect x="1536" y="300" width="8" height="392"/>
+    </g>
+
+    <!-- windows: three storeys, teal glass, a few lit -->
+    <g stroke="#1E2A2E" stroke-width="7">
+      <g fill="#4E8A93">
+        <rect x="61" y="330" width="61" height="96"/><rect x="160" y="330" width="61" height="96"/><rect x="258" y="330" width="61" height="96"/>
+        <rect x="61" y="450" width="61" height="96"/><rect x="258" y="450" width="61" height="96"/>
+        <rect x="61" y="570" width="61" height="96"/><rect x="160" y="570" width="61" height="96"/><rect x="258" y="570" width="61" height="96"/>
+
+        <rect x="444" y="330" width="64" height="96"/><rect x="548" y="330" width="64" height="96"/><rect x="652" y="330" width="64" height="96"/>
+        <rect x="444" y="450" width="64" height="96"/><rect x="548" y="450" width="64" height="96"/>
+        <rect x="444" y="570" width="64" height="96"/><rect x="548" y="570" width="64" height="96"/><rect x="652" y="570" width="64" height="96"/>
+
+        <rect x="838" y="330" width="58" height="96"/><rect x="931" y="330" width="58" height="96"/><rect x="1025" y="330" width="58" height="96"/>
+        <rect x="838" y="450" width="58" height="96"/><rect x="931" y="450" width="58" height="96"/><rect x="1025" y="450" width="58" height="96"/>
+        <rect x="838" y="570" width="58" height="96"/><rect x="1025" y="570" width="58" height="96"/>
+
+        <rect x="1204" y="330" width="64" height="96"/><rect x="1308" y="330" width="64" height="96"/><rect x="1412" y="330" width="64" height="96"/>
+        <rect x="1204" y="450" width="64" height="96"/><rect x="1412" y="450" width="64" height="96"/>
+        <rect x="1204" y="570" width="64" height="96"/><rect x="1308" y="570" width="64" height="96"/><rect x="1412" y="570" width="64" height="96"/>
+
+        <rect x="1601" y="330" width="61" height="96"/><rect x="1700" y="330" width="61" height="96"/><rect x="1798" y="330" width="61" height="96"/>
+        <rect x="1601" y="450" width="61" height="96"/><rect x="1700" y="450" width="61" height="96"/>
+        <rect x="1601" y="570" width="61" height="96"/><rect x="1700" y="570" width="61" height="96"/><rect x="1798" y="570" width="61" height="96"/>
+      </g>
+      <!-- lit rooms -->
+      <g fill="#E0A32E">
+        <rect x="160" y="450" width="61" height="96"/>
+        <rect x="652" y="450" width="64" height="96"/>
+        <rect x="931" y="570" width="58" height="96"/>
+        <rect x="1308" y="450" width="64" height="96"/>
+        <rect x="1798" y="450" width="61" height="96"/>
+      </g>
+    </g>
+
+    <!-- ironwork balconies on the middle storey -->
+    <g fill="#1E2A2E">
+      <rect x="424" y="548" width="312" height="9"/>
+      <rect x="1184" y="548" width="312" height="9"/>
+      <g opacity="0.85">
+        <rect x="430" y="518" width="6" height="32"/><rect x="470" y="518" width="6" height="32"/><rect x="510" y="518" width="6" height="32"/>
+        <rect x="550" y="518" width="6" height="32"/><rect x="590" y="518" width="6" height="32"/><rect x="630" y="518" width="6" height="32"/>
+        <rect x="670" y="518" width="6" height="32"/><rect x="710" y="518" width="6" height="32"/>
+        <rect x="1190" y="518" width="6" height="32"/><rect x="1230" y="518" width="6" height="32"/><rect x="1270" y="518" width="6" height="32"/>
+        <rect x="1310" y="518" width="6" height="32"/><rect x="1350" y="518" width="6" height="32"/><rect x="1390" y="518" width="6" height="32"/>
+        <rect x="1430" y="518" width="6" height="32"/><rect x="1470" y="518" width="6" height="32"/>
+      </g>
+    </g>
+  </g>
+
+  <!-- ================= NEAR: shopfronts, awnings, pavement, props ================= -->
+  <g id="layer-near">
+
+    <!-- pavement -->
+    <rect x="0" y="900" width="1920" height="180" fill="#F2E6CD"/>
+    <rect x="0" y="900" width="1920" height="180" fill="#1E2A2E" opacity="0.13"/>
+    <rect x="0" y="892" width="1920" height="12" fill="#1E2A2E"/>
+    <!-- paving joints -->
+    <g fill="#1E2A2E" opacity="0.14">
+      <rect x="0" y="962" width="1920" height="5"/>
+      <rect x="0" y="1028" width="1920" height="5"/>
+      <g>
+        <rect x="90" y="904" width="5" height="58"/><rect x="290" y="904" width="5" height="58"/><rect x="490" y="904" width="5" height="58"/>
+        <rect x="690" y="904" width="5" height="58"/><rect x="890" y="904" width="5" height="58"/><rect x="1090" y="904" width="5" height="58"/>
+        <rect x="1290" y="904" width="5" height="58"/><rect x="1490" y="904" width="5" height="58"/><rect x="1690" y="904" width="5" height="58"/>
+        <rect x="190" y="967" width="5" height="61"/><rect x="390" y="967" width="5" height="61"/><rect x="590" y="967" width="5" height="61"/>
+        <rect x="790" y="967" width="5" height="61"/><rect x="990" y="967" width="5" height="61"/><rect x="1190" y="967" width="5" height="61"/>
+        <rect x="1390" y="967" width="5" height="61"/><rect x="1590" y="967" width="5" height="61"/><rect x="1790" y="967" width="5" height="61"/>
+      </g>
+    </g>
+
+    <!-- ---------- shop 1: greengrocer ---------- -->
+    <g id="shop-1" data-shop="Helal Pazar">
+      <rect x="18" y="750" width="344" height="142" fill="#1E2A2E"/>
+      <rect x="34" y="768" width="312" height="124" fill="#4E8A93" opacity="0.55"/>
+      <rect x="18" y="690" width="344" height="60" fill="#1E2A2E"/>
+      <text x="190" y="731" font-family="'Arial Narrow','Helvetica Neue',Helvetica,sans-serif" font-size="31" font-weight="bold" letter-spacing="3" fill="#F2E6CD" text-anchor="middle">HELAL PAZAR</text>
+      <path d="M18 754 H362 L348 806 H32 Z" fill="#F2E6CD"/>
+      <g clip-path="url(#clip-awning-1)">
+        <g fill="#4F7A52">
+          <rect x="18" y="750" width="34" height="60"/><rect x="86" y="750" width="34" height="60"/>
+          <rect x="154" y="750" width="34" height="60"/><rect x="222" y="750" width="34" height="60"/>
+          <rect x="290" y="750" width="34" height="60"/>
+        </g>
+      </g>
+      <path d="M32 806 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 v-6 H32 Z" fill="#4F7A52"/>
+      <!-- produce crates on the pavement -->
+      <g>
+        <rect x="46" y="836" width="104" height="56" fill="#C25A3C"/>
+        <rect x="46" y="836" width="104" height="12" fill="#1E2A2E" opacity="0.35"/>
+        <circle cx="70" cy="828" r="13" fill="#E0A32E"/><circle cx="98" cy="826" r="14" fill="#C25A3C"/><circle cx="126" cy="829" r="12" fill="#4F7A52"/>
+        <rect x="168" y="848" width="96" height="44" fill="#4F7A52"/>
+        <rect x="168" y="848" width="96" height="10" fill="#1E2A2E" opacity="0.35"/>
+        <circle cx="192" cy="840" r="12" fill="#E0A32E"/><circle cx="220" cy="838" r="13" fill="#E0A32E"/><circle cx="248" cy="841" r="11" fill="#C25A3C"/>
+      </g>
+    </g>
+
+    <!-- ---------- shop 2: record shop ---------- -->
+    <g id="shop-2" data-shop="Championship Records">
+      <rect x="398" y="750" width="364" height="142" fill="#1E2A2E"/>
+      <rect x="414" y="768" width="332" height="124" fill="#4E8A93" opacity="0.55"/>
+      <rect x="398" y="690" width="364" height="60" fill="#E0A32E"/>
+      <text x="565" y="731" font-family="'Arial Narrow','Helvetica Neue',Helvetica,sans-serif" font-size="31" font-weight="bold" letter-spacing="3" fill="#1E2A2E" text-anchor="middle">CHAMPIONSHIP</text>
+      <!-- record sleeves racked in the window -->
+      <g>
+        <rect x="436" y="792" width="62" height="62" fill="#C25A3C"/><circle cx="467" cy="823" r="17" fill="#1E2A2E"/><circle cx="467" cy="823" r="5" fill="#F2E6CD"/>
+        <rect x="512" y="792" width="62" height="62" fill="#F2E6CD"/><circle cx="543" cy="823" r="17" fill="#1E2A2E"/><circle cx="543" cy="823" r="5" fill="#E0A32E"/>
+        <rect x="588" y="792" width="62" height="62" fill="#4F7A52"/><circle cx="619" cy="823" r="17" fill="#1E2A2E"/><circle cx="619" cy="823" r="5" fill="#F2E6CD"/>
+        <rect x="664" y="792" width="62" height="62" fill="#E0A32E"/><circle cx="695" cy="823" r="17" fill="#1E2A2E"/><circle cx="695" cy="823" r="5" fill="#C25A3C"/>
+      </g>
+      <!-- crate of second-hand vinyl outside -->
+      <rect x="436" y="856" width="120" height="36" fill="#1E2A2E"/>
+      <g fill="#F2E6CD" opacity="0.8">
+        <rect x="446" y="844" width="8" height="26"/><rect x="460" y="842" width="8" height="28"/><rect x="474" y="845" width="8" height="25"/>
+        <rect x="488" y="843" width="8" height="27"/><rect x="502" y="844" width="8" height="26"/><rect x="516" y="842" width="8" height="28"/>
+        <rect x="530" y="845" width="8" height="25"/>
+      </g>
+    </g>
+
+    <!-- ---------- shop 3: leather goods ---------- -->
+    <g id="shop-3" data-shop="SUSU">
+      <rect x="798" y="750" width="324" height="142" fill="#1E2A2E"/>
+      <rect x="814" y="768" width="292" height="124" fill="#4E8A93" opacity="0.55"/>
+      <rect x="798" y="690" width="324" height="60" fill="#1E2A2E"/>
+      <text x="945" y="731" font-family="'Arial Narrow','Helvetica Neue',Helvetica,sans-serif" font-size="31" font-weight="bold" letter-spacing="3" fill="#F2E6CD" text-anchor="middle">SUSU · LEDER</text>
+      <path d="M798 754 H1122 L1108 806 H812 Z" fill="#C25A3C"/>
+      <g clip-path="url(#clip-awning-3)">
+        <g fill="#F2E6CD">
+          <rect x="830" y="750" width="30" height="60"/><rect x="894" y="750" width="30" height="60"/>
+          <rect x="958" y="750" width="30" height="60"/><rect x="1022" y="750" width="30" height="60"/>
+        </g>
+      </g>
+      <path d="M812 806 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 v-6 H812 Z" fill="#C25A3C"/>
+      <!-- bags hung on a rail -->
+      <rect x="836" y="820" width="252" height="6" fill="#1E2A2E"/>
+      <g>
+        <rect x="852" y="826" width="46" height="40" rx="4" fill="#C25A3C"/><path d="M862 826 a13 10 0 0 1 26 0" fill="none" stroke="#1E2A2E" stroke-width="5"/>
+        <rect x="920" y="826" width="46" height="46" rx="4" fill="#E0A32E"/><path d="M930 826 a13 10 0 0 1 26 0" fill="none" stroke="#1E2A2E" stroke-width="5"/>
+        <rect x="988" y="826" width="46" height="38" rx="4" fill="#F2E6CD"/><path d="M998 826 a13 10 0 0 1 26 0" fill="none" stroke="#1E2A2E" stroke-width="5"/>
+        <rect x="1042" y="826" width="40" height="44" rx="4" fill="#4F7A52"/><path d="M1050 826 a12 10 0 0 1 24 0" fill="none" stroke="#1E2A2E" stroke-width="5"/>
+      </g>
+    </g>
+
+    <!-- ---------- shop 4: flower shop ---------- -->
+    <g id="shop-4" data-shop="Blumen">
+      <rect x="1158" y="750" width="364" height="142" fill="#1E2A2E"/>
+      <rect x="1174" y="768" width="332" height="124" fill="#4E8A93" opacity="0.55"/>
+      <rect x="1158" y="690" width="364" height="60" fill="#4F7A52"/>
+      <text x="1340" y="731" font-family="'Arial Narrow','Helvetica Neue',Helvetica,sans-serif" font-size="31" font-weight="bold" letter-spacing="3" fill="#F2E6CD" text-anchor="middle">BLUMEN</text>
+      <!-- buckets of cut flowers spilling onto the pavement -->
+      <g>
+        <path d="M1196 852 h68 l-9 40 h-50 Z" fill="#1E2A2E"/>
+        <g><rect x="1224" y="806" width="5" height="48" fill="#4F7A52"/><circle cx="1226" cy="802" r="15" fill="#C25A3C"/>
+           <rect x="1206" y="816" width="5" height="38" fill="#4F7A52"/><circle cx="1208" cy="812" r="13" fill="#E0A32E"/>
+           <rect x="1246" y="814" width="5" height="40" fill="#4F7A52"/><circle cx="1248" cy="810" r="13" fill="#F2E6CD"/></g>
+        <path d="M1288 858 h62 l-8 34 h-46 Z" fill="#C25A3C"/>
+        <g><rect x="1312" y="818" width="5" height="42" fill="#4F7A52"/><circle cx="1314" cy="814" r="14" fill="#E0A32E"/>
+           <rect x="1296" y="828" width="5" height="32" fill="#4F7A52"/><circle cx="1298" cy="824" r="12" fill="#C25A3C"/>
+           <rect x="1330" y="826" width="5" height="34" fill="#4F7A52"/><circle cx="1332" cy="822" r="12" fill="#E0A32E"/></g>
+        <path d="M1376 854 h64 l-8 38 h-48 Z" fill="#E0A32E"/>
+        <g><rect x="1400" y="810" width="5" height="46" fill="#4F7A52"/><circle cx="1402" cy="806" r="14" fill="#F2E6CD"/>
+           <rect x="1384" y="820" width="5" height="36" fill="#4F7A52"/><circle cx="1386" cy="816" r="12" fill="#C25A3C"/>
+           <rect x="1418" y="822" width="5" height="34" fill="#4F7A52"/><circle cx="1420" cy="818" r="12" fill="#C25A3C"/></g>
+      </g>
+    </g>
+
+    <!-- ---------- shop 5: fashion ---------- -->
+    <g id="shop-5" data-shop="Fräuleinwunder">
+      <rect x="1558" y="750" width="344" height="142" fill="#1E2A2E"/>
+      <rect x="1574" y="768" width="312" height="124" fill="#4E8A93" opacity="0.55"/>
+      <rect x="1558" y="690" width="344" height="60" fill="#1E2A2E"/>
+      <text x="1730" y="731" font-family="'Arial Narrow','Helvetica Neue',Helvetica,sans-serif" font-size="27" font-weight="bold" letter-spacing="2" fill="#F2E6CD" text-anchor="middle">FRÄULEINWUNDER</text>
+      <path d="M1558 754 H1902 L1888 806 H1572 Z" fill="#F2E6CD"/>
+      <g clip-path="url(#clip-awning-5)">
+        <g fill="#C25A3C">
+          <rect x="1558" y="750" width="34" height="60"/><rect x="1626" y="750" width="34" height="60"/>
+          <rect x="1694" y="750" width="34" height="60"/><rect x="1762" y="750" width="34" height="60"/>
+          <rect x="1830" y="750" width="34" height="60"/>
+        </g>
+      </g>
+      <path d="M1572 806 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 a13 13 0 0 0 26 0 v-6 H1572 Z" fill="#C25A3C"/>
+      <!-- clothes rail on the pavement -->
+      <rect x="1600" y="824" width="230" height="6" fill="#1E2A2E"/>
+      <rect x="1602" y="830" width="6" height="62" fill="#1E2A2E"/>
+      <rect x="1822" y="830" width="6" height="62" fill="#1E2A2E"/>
+      <g>
+        <path d="M1630 832 l-14 54 h28 Z" fill="#E0A32E"/>
+        <path d="M1672 832 l-15 58 h30 Z" fill="#F2E6CD"/>
+        <path d="M1714 832 l-14 52 h28 Z" fill="#C25A3C"/>
+        <path d="M1756 832 l-15 56 h30 Z" fill="#4F7A52"/>
+        <path d="M1798 832 l-14 50 h28 Z" fill="#E0A32E"/>
+      </g>
+    </g>
+
+    <!-- street trees, canopies breaking the roofline -->
+    <g>
+      <g>
+        <rect x="704" y="640" width="20" height="252" fill="#1E2A2E"/>
+        <g fill="#4F7A52">
+          <circle cx="714" cy="596" r="76"/><circle cx="648" cy="628" r="52"/><circle cx="780" cy="628" r="52"/><circle cx="714" cy="674" r="48"/>
+        </g>
+      </g>
+      <g>
+        <rect x="1088" y="668" width="18" height="224" fill="#1E2A2E"/>
+        <g fill="#4F7A52">
+          <circle cx="1097" cy="628" r="64"/><circle cx="1044" cy="656" r="44"/><circle cx="1150" cy="656" r="44"/>
+        </g>
+      </g>
+    </g>
+
+    <!-- the enamel street sign, graffiti-scarred in real life -->
+    <g>
+      <rect x="1470" y="612" width="60" height="9" fill="#1E2A2E"/>
+      <rect x="1494" y="616" width="9" height="66" fill="#1E2A2E"/>
+      <rect x="1372" y="560" width="248" height="56" fill="#F2E6CD" stroke="#1E2A2E" stroke-width="7"/>
+      <text x="1496" y="598" font-family="'Arial Narrow','Helvetica Neue',Helvetica,sans-serif" font-size="27" font-weight="bold" letter-spacing="0.5" fill="#1E2A2E" text-anchor="middle">SUSANNENSTRASSE</text>
+    </g>
+
+    <!-- bike against the wall, two passers-by -->
+    <g>
+      <g stroke="#1E2A2E" stroke-width="8" fill="none">
+        <circle cx="1200" cy="944" r="42"/><circle cx="1320" cy="944" r="42"/>
+        <path d="M1200 944 L1246 890 L1300 890 L1320 944 M1246 890 L1268 944 M1300 890 L1284 866"/>
+      </g>
+      <rect x="1256" y="860" width="46" height="12" rx="6" fill="#1E2A2E"/>
+      <g fill="#1E2A2E">
+        <path d="M1596 962 a26 26 0 1 1 52 0 v70 h-52 Z"/>
+        <circle cx="1622" cy="928" r="21"/>
+        <path d="M1686 972 a24 24 0 1 1 48 0 v60 h-48 Z"/>
+        <circle cx="1710" cy="942" r="19"/>
+      </g>
+    </g>
+
+    <!-- fly-posted bills, the other Schanze wall covering -->
+    <g opacity="0.9">
+      <rect x="1526" y="800" width="26" height="36" fill="#E0A32E"/>
+      <rect x="1526" y="842" width="26" height="30" fill="#F2E6CD"/>
+      <rect x="1126" y="806" width="24" height="34" fill="#C25A3C"/>
+      <rect x="384" y="812" width="24" height="32" fill="#F2E6CD"/>
+      <rect x="384" y="850" width="24" height="28" fill="#4F7A52"/>
+    </g>
+  </g>
+
+  <!-- ================= TYPE ================= -->
+  <g id="layer-type" font-family="'Arial Narrow','Helvetica Neue',Helvetica,sans-serif">
+    <text x="92" y="150" font-size="104" font-weight="bold" letter-spacing="1" fill="#F2E6CD">SUSANNENSTRASSE</text>
+    <rect x="98" y="172" width="646" height="5" fill="#E0A32E"/>
+    <text x="98" y="216" font-size="29" font-weight="bold" letter-spacing="11" fill="#E0A32E">HAMBURG · SCHANZENVIERTEL</text>
+
+    <g fill="#1E2A2E">
+      <text x="92" y="1006" font-size="27" font-weight="bold" letter-spacing="1.5">ONE SHORT BLOCK OF LEATHER, VINYL, FLOWERS AND FRUIT —</text>
+      <text x="92" y="1044" font-size="27" font-weight="bold" letter-spacing="1.5">UNDER AWNINGS THE SCHANZE HAS NEVER SEEN FIT TO REPLACE.</text>
+    </g>
+  </g>
+</svg>

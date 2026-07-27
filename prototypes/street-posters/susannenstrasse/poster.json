@@ -1,0 +1,99 @@
+{
+  "slug": "susannenstrasse",
+  "title": "Susannenstraße",
+  "city": "Hamburg",
+  "country": "Germany",
+  "content_path": "europe/germany/hamburg",
+  "neighbourhood": "schanzenviertel",
+
+  "headline": "Susannenstraße",
+  "kicker": "Hamburg · Schanzenviertel",
+  "deck": "One short block of leather, vinyl, flowers and fruit — under awnings the Schanze has never seen fit to replace.",
+
+  "body": "Susannenstraße runs off the Schulterblatt into the quietest corner of the Schanzenviertel, and it is the street people actually mean when they say they are going shopping in the Schanze. There is no chain anchor and no mall: it is a couple of hundred metres of ground-floor shops under Gründerzeit tenements, most of them small enough that the owner is behind the counter. Leather bags, second-hand vinyl, Scandinavian labels, cut flowers sold by the stem, and a Turkish greengrocer with the fruit stacked out on the pavement. The awnings are old, the walls are fly-posted to the height of a raised arm, and none of it has been tidied up for visitors. Come on a weekday afternoon; half the street keeps its own hours.",
+
+  "shops": [
+    {
+      "id": "shop-1",
+      "name": "Helal Pazar",
+      "kind": "greengrocer",
+      "blurb": "Turkish grocer with the crates out front — the street's clock, open when little else is."
+    },
+    {
+      "id": "shop-2",
+      "name": "Championship Records",
+      "kind": "record shop",
+      "blurb": "Buys and sells vinyl and CDs. The crate by the door is where the cheap end lives."
+    },
+    {
+      "id": "shop-3",
+      "name": "SUSU",
+      "kind": "leather goods",
+      "blurb": "Vegetable-tanned leather bags, handmade. Susannenstraße 3, and the reason a lot of people come."
+    },
+    {
+      "id": "shop-4",
+      "name": "Blumen",
+      "kind": "florist",
+      "blurb": "The unnamed flower shop locals call an institution — cut stems, cheap, buckets on the pavement."
+    },
+    {
+      "id": "shop-5",
+      "name": "Fräuleinwunder",
+      "kind": "fashion",
+      "blurb": "Independent women's fashion at Susannenstraße 13, rail wheeled out when the weather allows."
+    }
+  ],
+
+  "palette": {
+    "ink": "#1E2A2E",
+    "paper": "#F2E6CD",
+    "teal": "#4E8A93",
+    "brick": "#C25A3C",
+    "ochre": "#E0A32E",
+    "leaf": "#4F7A52"
+  },
+
+  "animation": {
+    "canvas": [1920, 1080],
+    "duration_s": 9.0,
+    "layers": [
+      { "id": "layer-sky",  "parallax": 0.05 },
+      { "id": "layer-far",  "parallax": 0.20 },
+      { "id": "layer-mid",  "parallax": 0.55 },
+      { "id": "layer-near", "parallax": 1.00 },
+      { "id": "layer-type", "parallax": 0.00 }
+    ],
+    "beats": [
+      { "t": 0.0, "action": "hold",      "target": null,     "caption": "kicker",
+        "note": "Full frame. Type layer fades up over 0.6s." },
+      { "t": 1.6, "action": "push-in",   "target": "shop-1", "caption": "shops[0].blurb",
+        "note": "Scale 1.35 centred on the shop group; other shops dim to 0.55 opacity." },
+      { "t": 3.0, "action": "pan",       "target": "shop-2", "caption": "shops[1].blurb" },
+      { "t": 4.4, "action": "pan",       "target": "shop-3", "caption": "shops[2].blurb" },
+      { "t": 5.8, "action": "pan",       "target": "shop-4", "caption": "shops[3].blurb" },
+      { "t": 7.2, "action": "pan",       "target": "shop-5", "caption": "shops[4].blurb" },
+      { "t": 8.4, "action": "pull-back", "target": null,     "caption": "deck",
+        "note": "Return to full frame for the handoff to the next highlight." }
+    ]
+  },
+
+  "reference": {
+    "note": "Reference photos were used to derive motifs and hue only. They are not redistributed and no pixel of them appears in the SVG.",
+    "motifs": [
+      "Gründerzeit tenements, five storeys, mansard roofs, stucco in cream and pale ochre",
+      "green and cream striped awnings, scalloped edge",
+      "goods on the pavement: fruit crates, hanging bags, clothes rails, flower buckets",
+      "fly-posted concert bills and tags up to arm height",
+      "plane trees breaking the roofline",
+      "enamel street-name plate, graffiti-scarred",
+      "Heinrich-Hertz-Turm visible over the rooftops"
+    ],
+    "sources": [
+      "https://www.hamburg-tourism.de/shoppen-geniessen/shoppen-in-hamburg/shoppingstrassen/schanzenstrasse-schulterblatt-susannenstrasse/",
+      "https://hamburg.mitvergnuegen.com/2018/11-orte-in-der-schanze-an-denen-ihr-richtig-gut-shoppen-koennt/",
+      "https://www.hamburg-travel.com/blog/shoppingtrip-through-the-schanze/",
+      "https://www.hamburg.de/freizeit/shopping/stadtteile/schanzenviertel"
+    ]
+  }
+}

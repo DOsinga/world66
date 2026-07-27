@@ -1,0 +1,200 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" role="img" aria-label="Travel poster of Susannenstrasse, Hamburg — figure idiom">
+  <title>Susannenstrasse — Hamburg (A: figure)</title>
+
+  <!--
+    Variant A. Roger Broders idiom: one elongated figure dominates, the street
+    is a small continuous terrace behind her, a bottom band carries the name.
+    Fashion-plate proportion, ~10 heads tall, three-quarter turned into frame.
+      INK #16202B  PAPER #EFE3C8  INDIGO #2E4B6B  CORAL #D9583C  OCHRE #E5A93A
+  -->
+
+  <defs>
+    <pattern id="a-dots" width="9" height="9" patternUnits="userSpaceOnUse">
+      <circle cx="2.2" cy="2.2" r="1.5" fill="#16202B"/>
+    </pattern>
+  </defs>
+
+  <g id="layer-sky">
+    <rect width="1920" height="1080" fill="#2E4B6B"/>
+    <circle cx="1432" cy="226" r="132" fill="#E5A93A"/>
+    <rect x="0" y="0" width="1920" height="360" fill="url(#a-dots)" opacity="0.15"/>
+    <!-- flat lobed clouds -->
+    <g fill="#EFE3C8" opacity="0.20">
+      <path d="M940 150 a34 34 0 0 1 68 0 a44 44 0 0 1 88 0 a30 30 0 0 1 60 0 h-216 Z"/>
+      <rect x="940" y="146" width="216" height="16" rx="8"/>
+      <path d="M1600 372 a26 26 0 0 1 52 0 a34 34 0 0 1 68 0 h-120 Z"/>
+      <rect x="1600" y="368" width="120" height="13" rx="6"/>
+    </g>
+  </g>
+
+  <g id="layer-far">
+    <!-- Heinrich-Hertz-Turm over the rooftops -->
+    <g fill="#16202B" opacity="0.34">
+      <rect x="1246" y="404" width="15" height="196"/>
+      <path d="M1233 452 h41 l-7 28 h-27 Z"/>
+      <ellipse cx="1253.5" cy="447" rx="27" ry="10"/>
+      <rect x="1250" y="356" width="7" height="50"/>
+    </g>
+
+    <!-- one continuous terrace, varied heights, flat parapets -->
+    <g transform="translate(-489.6,-244.9) scale(1.255,1.31)">
+      <g fill="#16202B" opacity="0.58">
+        <rect x="900" y="600" width="162" height="190"/>
+        <rect x="1062" y="566" width="140" height="224"/>
+        <rect x="1202" y="612" width="130" height="178"/>
+        <rect x="1332" y="580" width="158" height="210"/>
+        <rect x="1490" y="622" width="132" height="168"/>
+        <rect x="1622" y="590" width="158" height="200"/>
+        <rect x="1780" y="608" width="140" height="182"/>
+      </g>
+      <!-- parapet caps -->
+      <g fill="#16202B" opacity="0.82">
+        <rect x="894" y="592" width="174" height="12"/>
+        <rect x="1056" y="558" width="152" height="12"/>
+        <rect x="1196" y="604" width="142" height="12"/>
+        <rect x="1326" y="572" width="170" height="12"/>
+        <rect x="1484" y="614" width="144" height="12"/>
+        <rect x="1616" y="582" width="170" height="12"/>
+        <rect x="1774" y="600" width="152" height="12"/>
+      </g>
+      <!-- window rhythm, a few rooms lit -->
+      <g fill="#16202B" opacity="0.78">
+        <rect x="924" y="626" width="24" height="34"/><rect x="972" y="626" width="24" height="34"/><rect x="1020" y="626" width="24" height="34"/>
+        <rect x="924" y="688" width="24" height="34"/><rect x="1020" y="688" width="24" height="34"/>
+        <rect x="1086" y="594" width="26" height="36"/><rect x="1140" y="594" width="26" height="36"/>
+        <rect x="1086" y="658" width="26" height="36"/><rect x="1140" y="658" width="26" height="36"/>
+        <rect x="1224" y="638" width="24" height="32"/><rect x="1286" y="638" width="24" height="32"/>
+        <rect x="1224" y="698" width="24" height="32"/>
+        <rect x="1356" y="606" width="26" height="36"/><rect x="1410" y="606" width="26" height="36"/><rect x="1462" y="606" width="20" height="36"/>
+        <rect x="1356" y="670" width="26" height="36"/><rect x="1410" y="670" width="26" height="36"/>
+        <rect x="1512" y="648" width="24" height="32"/><rect x="1570" y="648" width="24" height="32"/>
+        <rect x="1646" y="616" width="26" height="36"/><rect x="1700" y="616" width="26" height="36"/><rect x="1752" y="616" width="20" height="36"/>
+        <rect x="1646" y="680" width="26" height="36"/><rect x="1752" y="680" width="20" height="36"/>
+        <rect x="1804" y="634" width="24" height="34"/><rect x="1862" y="634" width="24" height="34"/>
+        <rect x="1804" y="696" width="24" height="34"/>
+      </g>
+      <g fill="#E5A93A">
+        <rect x="972" y="688" width="24" height="34"/>
+        <rect x="1086" y="722" width="26" height="36"/>
+        <rect x="1286" y="698" width="24" height="32"/>
+        <rect x="1462" y="670" width="20" height="36"/>
+        <rect x="1570" y="704" width="24" height="32"/>
+        <rect x="1700" y="680" width="26" height="36"/>
+        <rect x="1862" y="696" width="24" height="34"/>
+      </g>
+      <!-- continuous shopfront band with awnings -->
+      <rect x="900" y="748" width="1020" height="42" fill="#16202B" opacity="0.9"/>
+      <g fill="#D9583C">
+        <path d="M904 744 h150 l-11 24 h-128 Z"/>
+        <path d="M1206 744 h124 l-10 24 h-104 Z"/>
+        <path d="M1494 744 h124 l-10 24 h-104 Z"/>
+        <path d="M1784 744 h132 l-11 24 h-110 Z"/>
+      </g>
+      <g fill="#EFE3C8" opacity="0.92">
+        <path d="M1066 744 h132 l-11 24 h-110 Z"/>
+        <path d="M1336 744 h150 l-11 24 h-128 Z"/>
+        <path d="M1626 744 h150 l-11 24 h-128 Z"/>
+      </g>
+    </g>
+  </g>
+
+  <g id="layer-mid">
+    <rect x="0" y="790" width="1920" height="160" fill="#EFE3C8"/>
+    <rect x="0" y="785" width="1920" height="7" fill="#16202B"/>
+    <rect x="0" y="874" width="1920" height="3" fill="#16202B" opacity="0.20"/>
+
+    <!-- tiny figures for scale -->
+    <g fill="#16202B" opacity="0.72">
+      <path d="M1146 790 v-36 a7 7 0 0 1 14 0 v36 Z"/><circle cx="1153" cy="748" r="6"/>
+      <path d="M1178 790 v-31 a6 6 0 0 1 12 0 v31 Z"/><circle cx="1184" cy="753" r="5"/>
+      <path d="M1548 790 v-34 a7 7 0 0 1 14 0 v34 Z"/><circle cx="1555" cy="750" r="6"/>
+      <path d="M1856 790 v-30 a6 6 0 0 1 12 0 v30 Z"/><circle cx="1862" cy="754" r="5"/>
+    </g>
+
+    <!-- her shadow, thrown long across the pavement -->
+    <path d="M436 928 L546 928 L1470 892 L1420 906 Z" fill="#16202B" opacity="0.26"/>
+  </g>
+
+  <g id="layer-near">
+    <g id="shopper" transform="translate(-140,-26)">
+    <g id="figure">
+      <!-- legs: long, one forward -->
+      <path d="M590 700 L620 700 L614 930 L592 930 Z" fill="#EFE3C8"/>
+      <path d="M650 700 L680 700 L666 930 L644 930 Z" fill="#EFE3C8"/>
+      <path d="M650 700 L680 700 L676 800 L652 800 Z" fill="#16202B" opacity="0.16"/>
+      <!-- heels -->
+      <path d="M588 930 h30 l14 25 h-48 Z" fill="#16202B"/>
+      <path d="M642 930 h28 l14 25 h-46 Z" fill="#16202B"/>
+
+      <!-- swing coat: shoulders, nipped waist, flared hem -->
+      <path d="M548 292
+               C 526 356, 524 428, 556 474
+               C 518 562, 488 638, 464 706
+               L 750 706
+               C 728 636, 694 560, 652 474
+               C 686 428, 684 356, 662 292
+               Z" fill="#D9583C"/>
+      <!-- form shading down the front, same ink at low opacity -->
+      <path d="M614 292 C 648 360, 660 430, 652 474 C 694 560, 728 636, 750 706 L 640 706 C 654 620, 640 520, 610 452 Z" fill="#16202B" opacity="0.15"/>
+      <path d="M464 706 L750 706 L746 694 L468 694 Z" fill="#16202B" opacity="0.20"/>
+      <!-- shoulder line -->
+      <path d="M548 292 C 578 276, 632 276, 662 292 L 658 306 C 630 292, 580 292, 552 306 Z" fill="#16202B" opacity="0.22"/>
+      <!-- belt at the waist -->
+      <rect x="552" y="466" width="102" height="22" fill="#16202B"/>
+      <rect x="594" y="462" width="26" height="30" fill="#E5A93A"/>
+      <!-- collar, turned -->
+      <path d="M578 288 L606 340 L640 288 L622 280 L606 302 L594 280 Z" fill="#16202B"/>
+      <g fill="#16202B"><circle cx="618" cy="368" r="7"/><circle cx="622" cy="412" r="7"/></g>
+
+      <!-- front arm carrying the bags -->
+      <path d="M652 302 C 700 382, 736 500, 734 610 L 704 614 C 708 506, 674 390, 628 320 Z" fill="#D9583C"/>
+      <path d="M652 302 C 700 382, 736 500, 734 610 L 720 612 C 724 504, 690 388, 642 314 Z" fill="#16202B" opacity="0.18"/>
+      <ellipse cx="719" cy="626" rx="17" ry="21" fill="#16202B"/>
+
+      <!-- neck and three-quarter head facing into frame -->
+      <rect x="596" y="248" width="24" height="46" fill="#EFE3C8"/>
+      <rect x="596" y="248" width="24" height="46" fill="#16202B" opacity="0.20"/>
+      <path d="M576 210
+               C 576 168, 640 168, 640 208
+               C 640 226, 646 232, 641 238
+               C 637 242, 632 241, 631 246
+               C 629 262, 618 272, 602 272
+               C 586 272, 576 258, 576 238
+               Z" fill="#EFE3C8"/>
+      <!-- hair sweeping back -->
+      <path d="M570 214 C 566 168, 648 160, 648 206 C 650 186, 630 176, 606 178 C 582 180, 570 192, 570 214 Z" fill="#16202B"/>
+      <path d="M566 200 C 552 236, 556 282, 574 300 C 562 268, 562 230, 574 208 Z" fill="#16202B"/>
+      <!-- tilted brim hat -->
+      <g transform="rotate(-9 606 186)">
+        <path d="M558 186 C 558 148, 654 148, 654 186 Z" fill="#16202B"/>
+        <ellipse cx="606" cy="188" rx="84" ry="17" fill="#16202B"/>
+        <rect x="558" y="176" width="96" height="11" fill="#D9583C"/>
+      </g>
+    </g>
+
+    <!-- shopping bags -->
+    <g id="bags">
+      <g>
+        <rect x="686" y="642" width="66" height="88" fill="#E5A93A"/>
+        <rect x="686" y="642" width="66" height="11" fill="#16202B" opacity="0.28"/>
+        <path d="M702 642 a17 14 0 0 1 34 0" fill="none" stroke="#16202B" stroke-width="6"/>
+        <rect x="686" y="680" width="66" height="9" fill="#16202B" opacity="0.30"/>
+      </g>
+      <g>
+        <rect x="762" y="658" width="58" height="76" fill="#EFE3C8"/>
+        <path d="M777 658 a15 12 0 0 1 30 0" fill="none" stroke="#16202B" stroke-width="6"/>
+        <rect x="762" y="686" width="58" height="13" fill="#D9583C"/>
+      </g>
+    </g>
+  </g>
+  </g>
+
+  <g id="layer-type" font-family="Futura,'Century Gothic','Avenir Next',sans-serif">
+    <text x="110" y="88" font-size="27" font-weight="bold" letter-spacing="13" fill="#E5A93A">HAMBURG · SCHANZENVIERTEL</text>
+    <rect x="112" y="106" width="470" height="4" fill="#E5A93A"/>
+
+    <rect x="0" y="950" width="1920" height="130" fill="#16202B"/>
+    <text x="110" y="1032" font-size="82" font-weight="bold" letter-spacing="16" fill="#EFE3C8">SUSANNENSTRASSE</text>
+    <text x="1810" y="1030" font-size="25" font-weight="bold" letter-spacing="7" fill="#E5A93A" text-anchor="end">LEDER · VINYL · BLUMEN</text>
+  </g>
+</svg>

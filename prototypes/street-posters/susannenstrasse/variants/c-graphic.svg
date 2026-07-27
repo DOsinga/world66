@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" role="img" aria-label="Travel poster of Susannenstrasse, Hamburg — graphic idiom">
+  <title>Susannenstrasse — Hamburg (C: graphic)</title>
+
+  <!--
+    Variant C. Swiss / Villemot idiom: no scene, one symbol. The awning becomes
+    the hero and fills the top third; the street is reduced to three objects
+    standing on an empty field. Four inks, rigorously horizontal.
+      INK #14181C  PAPER #F2E8D5  SCARLET #D93B2B  MUSTARD #EFB93C
+  -->
+
+  <g id="layer-sky">
+    <rect width="1920" height="1080" fill="#F2E8D5"/>
+  </g>
+
+  <!-- the awning, scaled up until it stops being scenery and becomes the subject -->
+  <g id="layer-far">
+    <g>
+      <rect x="0" y="0" width="120" height="400" fill="#D93B2B"/>
+      <rect x="120" y="0" width="120" height="400" fill="#14181C"/>
+      <rect x="240" y="0" width="120" height="400" fill="#D93B2B"/>
+      <rect x="360" y="0" width="120" height="400" fill="#14181C"/>
+      <rect x="480" y="0" width="120" height="400" fill="#D93B2B"/>
+      <rect x="600" y="0" width="120" height="400" fill="#14181C"/>
+      <rect x="720" y="0" width="120" height="400" fill="#D93B2B"/>
+      <rect x="840" y="0" width="120" height="400" fill="#14181C"/>
+      <rect x="960" y="0" width="120" height="400" fill="#D93B2B"/>
+      <rect x="1080" y="0" width="120" height="400" fill="#14181C"/>
+      <rect x="1200" y="0" width="120" height="400" fill="#D93B2B"/>
+      <rect x="1320" y="0" width="120" height="400" fill="#14181C"/>
+      <rect x="1440" y="0" width="120" height="400" fill="#D93B2B"/>
+      <rect x="1560" y="0" width="120" height="400" fill="#14181C"/>
+      <rect x="1680" y="0" width="120" height="400" fill="#D93B2B"/>
+      <rect x="1800" y="0" width="120" height="400" fill="#14181C"/>
+    </g>
+    <!-- scalloped valance: one lobe per stripe, so the wave and the rhythm agree -->
+    <g>
+      <path d="M0 400 a60 60 0 0 0 120 0 Z" fill="#D93B2B"/>
+      <path d="M120 400 a60 60 0 0 0 120 0 Z" fill="#14181C"/>
+      <path d="M240 400 a60 60 0 0 0 120 0 Z" fill="#D93B2B"/>
+      <path d="M360 400 a60 60 0 0 0 120 0 Z" fill="#14181C"/>
+      <path d="M480 400 a60 60 0 0 0 120 0 Z" fill="#D93B2B"/>
+      <path d="M600 400 a60 60 0 0 0 120 0 Z" fill="#14181C"/>
+      <path d="M720 400 a60 60 0 0 0 120 0 Z" fill="#D93B2B"/>
+      <path d="M840 400 a60 60 0 0 0 120 0 Z" fill="#14181C"/>
+      <path d="M960 400 a60 60 0 0 0 120 0 Z" fill="#D93B2B"/>
+      <path d="M1080 400 a60 60 0 0 0 120 0 Z" fill="#14181C"/>
+      <path d="M1200 400 a60 60 0 0 0 120 0 Z" fill="#D93B2B"/>
+      <path d="M1320 400 a60 60 0 0 0 120 0 Z" fill="#14181C"/>
+      <path d="M1440 400 a60 60 0 0 0 120 0 Z" fill="#D93B2B"/>
+      <path d="M1560 400 a60 60 0 0 0 120 0 Z" fill="#14181C"/>
+      <path d="M1680 400 a60 60 0 0 0 120 0 Z" fill="#D93B2B"/>
+      <path d="M1800 400 a60 60 0 0 0 120 0 Z" fill="#14181C"/>
+    </g>
+    <!-- the rail the awning hangs from -->
+    <rect x="0" y="386" width="1920" height="16" fill="#14181C"/>
+  </g>
+
+  <g id="layer-mid">
+    <!-- one hard ground line; the objects sit on it -->
+    <rect x="150" y="832" width="1620" height="7" fill="#14181C"/>
+    <g fill="#14181C" opacity="0.16">
+      <ellipse cx="700" cy="840" rx="210" ry="17"/>
+      <ellipse cx="1240" cy="840" rx="150" ry="14"/>
+      <ellipse cx="1560" cy="840" rx="115" ry="12"/>
+    </g>
+  </g>
+
+  <g id="layer-near">
+    <!-- leather: the bag the street is actually known for -->
+    <g id="obj-bag">
+      <rect x="520" y="576" width="362" height="256" rx="16" fill="#EFB93C" stroke="#14181C" stroke-width="9"/>
+      <path d="M529 576 h344 v96 a16 16 0 0 1 -16 16 h-312 a16 16 0 0 1 -16 -16 Z" fill="#14181C"/>
+      <path d="M622 580 a79 74 0 0 1 158 0" fill="none" stroke="#14181C" stroke-width="22"/>
+      <rect x="600" y="660" width="34" height="58" rx="5" fill="#14181C"/>
+      <rect x="768" y="660" width="34" height="58" rx="5" fill="#14181C"/>
+      <rect x="606" y="686" width="22" height="9" fill="#EFB93C"/>
+      <rect x="774" y="686" width="22" height="9" fill="#EFB93C"/>
+    </g>
+
+    <!-- vinyl -->
+    <g id="obj-record">
+      <circle cx="1240" cy="690" r="142" fill="#14181C"/>
+      <g fill="none" stroke="#F2E8D5" opacity="0.22" stroke-width="3">
+        <circle cx="1240" cy="690" r="122"/>
+        <circle cx="1240" cy="690" r="104"/>
+        <circle cx="1240" cy="690" r="86"/>
+      </g>
+      <circle cx="1240" cy="690" r="50" fill="#D93B2B"/>
+      <circle cx="1240" cy="690" r="9" fill="#F2E8D5"/>
+    </g>
+
+    <!-- flowers, sold by the stem -->
+    <g id="obj-flowers">
+      <g stroke="#14181C" stroke-width="8" fill="none">
+        <path d="M1560 744 C 1552 690, 1520 650, 1502 620"/>
+        <path d="M1560 744 C 1560 690, 1560 640, 1560 604"/>
+        <path d="M1560 744 C 1570 692, 1600 654, 1620 628"/>
+        <path d="M1560 744 C 1544 706, 1516 686, 1492 674"/>
+        <path d="M1560 744 C 1578 708, 1608 690, 1630 680"/>
+      </g>
+      <circle cx="1500" cy="606" r="31" fill="#D93B2B"/>
+      <circle cx="1560" cy="590" r="35" fill="#EFB93C"/>
+      <circle cx="1624" cy="616" r="29" fill="#D93B2B"/>
+      <circle cx="1487" cy="666" r="25" fill="#EFB93C"/>
+      <circle cx="1636" cy="674" r="24" fill="#EFB93C"/>
+      <g fill="#14181C">
+        <circle cx="1500" cy="606" r="11"/><circle cx="1560" cy="590" r="12"/>
+        <circle cx="1624" cy="616" r="10"/>
+      </g>
+      <!-- bucket -->
+      <path d="M1498 736 h124 l-17 96 h-90 Z" fill="#14181C"/>
+      <rect x="1492" y="726" width="136" height="20" rx="6" fill="#14181C"/>
+    </g>
+  </g>
+
+  <g id="layer-type" font-family="Futura,'Century Gothic','Avenir Next',sans-serif">
+    <!-- no strapline: the three objects already say leather, vinyl and flowers -->
+    <text x="152" y="918" font-size="26" font-weight="bold" letter-spacing="14" fill="#D93B2B">HAMBURG · SCHANZENVIERTEL</text>
+    <text x="146" y="1030" font-size="104" font-weight="bold" letter-spacing="7" fill="#14181C">SUSANNENSTRASSE</text>
+  </g>
+</svg>

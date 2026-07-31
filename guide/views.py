@@ -14,9 +14,9 @@ from django.utils.safestring import mark_safe
 
 from . import github
 from .models import (
-    CONTENT_DIR, DIMENSION_FIELDS, NAV_TYPES, build_city_tag_index, find_tagged_pois,
-    find_similar_by_scores, load_page, load_page_from_revision, load_tag_index,
-    resolve_tag_route, _find_city_path,
+    CONTENT_DIR, DIMENSION_FIELDS, DIMENSION_LABELS, NAV_TYPES, build_city_tag_index,
+    dimension_percentile, find_similar_with_match, find_tagged_pois,
+    load_page, load_page_from_revision, load_tag_index, resolve_tag_route, _find_city_path,
 )
 
 SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
@@ -80,6 +80,10 @@ def _prefixed_url(url, url_prefix):
 
 def about(request):
     return render(request, "guide/about.html")
+
+
+def how_we_score(request):
+    return render(request, "guide/how_we_score.html")
 
 
 def _city_snippet(page):
@@ -475,15 +479,55 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
             loc_img = _image_path(loc, source_ref)
             loc.image_url = f'{loc.url_prefix}/content-image/{loc_img}' if loc_img else None
 
-    # Other destinations with a similar five-dimension score profile, shown as
-    # a compact list inside the travel-profile sidebar card (see
-    # tools/backfill_dimension_scores.py, guide/models.py:find_similar_by_scores).
-    similar_places = []
-    if page.page_type == 'location':
-        for similar_path in find_similar_by_scores(page.path):
+    # Travel-profile sidebar card: dimension rows, a one-line "verdict",
+    # similar-profile chips, and the RANK OF N GUIDES footer count. See
+    # tools/backfill_dimension_scores.py and guide/models.py's dimension
+    # helpers. Blurbs are a mechanical fallback ("X scores N/10, placing
+    # this in the top N% of all destinations") — there's no data source for
+    # genuine per-location editorial reasoning yet.
+    dimension_rows = []
+    verdict_html = None
+    similar_profiles = []
+    if page.page_type == 'location' and all(page.meta.get(f) is not None for f in DIMENSION_FIELDS):
+        scored = sorted(
+            ((f, float(page.meta[f])) for f in DIMENSION_FIELDS),
+            key=lambda pair: pair[1], reverse=True,
+        )
+        for f, value in scored:
+            label = DIMENSION_LABELS[f]
+            pct = dimension_percentile(f, value)
+            percentile_label = f"Top {max(1, round(pct))}%" if pct <= 50 else "—"
+            dimension_rows.append({
+                'field': f,
+                'label': label,
+                'score': f"{value:.1f}",
+                'width_pct': round(value * 10),
+                'percentile_label': percentile_label,
+                'blurb': f"{label} scores {value:.1f}/10, placing {page.title} in the top "
+                         f"{max(1, round(pct))}% of all destinations." if pct <= 50 else
+                         f"{label} scores {value:.1f}/10 for {page.title} — not this destination's strongest suit.",
+            })
+
+        # city_culture and historic_culture are currently the same placeholder
+        # score (see tools/backfill_dimension_scores.py) — treat them as one
+        # "Culture" for the verdict sentence so a culture-led place doesn't
+        # read as "a city culture city first, historic culture second".
+        verdict_dims = [('culture', float(page.meta['city_culture']))] + [
+            (f, float(page.meta[f])) for f in DIMENSION_FIELDS if f not in ('city_culture', 'historic_culture')
+        ]
+        verdict_dims.sort(key=lambda pair: pair[1], reverse=True)
+        noun = 'city' if page.meta.get('loc_type') == 'city' else 'destination'
+        top_two = [name for name, _ in verdict_dims[:2]]
+        verdict_html = mark_safe(
+            f"{page.title} is a <em>{top_two[0]}</em> {noun} first, <em>{top_two[1]}</em> second."
+        )
+
+        for similar_path, match_pct in find_similar_with_match(page.path):
             similar_page = load_page(similar_path)
             if similar_page:
-                similar_places.append(similar_page)
+                similar_profiles.append({'page': similar_page, 'match_pct': match_pct})
+        if len(similar_profiles) < 3:
+            similar_profiles = []
 
     # Inspiration image strip for section pages — up to 12 POI images
     poi_images = []
@@ -563,10 +607,9 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "poi_images": poi_images,
         "inline_sections": inline_sections,
         "linked_locations": linked_locations,
-        "similar_places": similar_places,
-        "dimension_scores_json": mark_safe(json.dumps({
-            field: page.meta[field] for field in DIMENSION_FIELDS
-        })) if all(page.meta.get(f) is not None for f in DIMENSION_FIELDS) else None,
+        "dimension_rows": dimension_rows,
+        "verdict_html": verdict_html,
+        "similar_profiles": similar_profiles,
         "url_prefix": page.url_prefix,
     })
 

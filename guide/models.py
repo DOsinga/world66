@@ -18,6 +18,7 @@ and a page `de_pijp.md` exists with `type: neighbourhood`, that POI appears unde
 A nav page's query tag defaults to its slug; set `tag: <value>` in frontmatter to override.
 """
 
+import bisect
 from dataclasses import dataclass, field
 from functools import lru_cache
 from pathlib import Path
@@ -805,6 +806,17 @@ def load_continents():
 
 
 DIMENSION_FIELDS = ("city_culture", "historic_culture", "nature", "leisure", "adventure")
+DIMENSION_LABELS = {
+    "city_culture": "City Culture",
+    "historic_culture": "Historic Culture",
+    "nature": "Nature",
+    "leisure": "Leisure",
+    "adventure": "Adventure",
+}
+# Theoretical max Euclidean distance between two points in the 5-dim 0-10
+# score space (sqrt(5 * 10**2)) — used to normalize distance into a 0-100
+# "match" percentage for the similar-places chips.
+_MAX_DIMENSION_DISTANCE = (len(DIMENSION_FIELDS) * 10 ** 2) ** 0.5
 
 
 @lru_cache(maxsize=1)
@@ -832,15 +844,49 @@ def load_dimension_index():
     return index
 
 
-def find_similar_by_scores(path, k=6):
-    """Return up to k paths (excluding path itself) with the closest 5-dimension
-    score profile, nearest first, by plain Euclidean distance."""
+@lru_cache(maxsize=1)
+def _sorted_dimension_scores():
+    """One sorted list of scores per dimension field, for percentile lookups."""
+    index = load_dimension_index()
+    return {
+        field: sorted(vector[i] for vector in index.values())
+        for i, field in enumerate(DIMENSION_FIELDS)
+    }
+
+
+def dimension_percentile(field, value):
+    """Return what percent of scored locations this value beats or ties on
+    `field`, as a "top N%" figure (100 = uniquely lowest, ~0 = highest)."""
+    scores = _sorted_dimension_scores()[field]
+    rank_from_bottom = bisect.bisect_left(scores, value)
+    return 100 * (len(scores) - rank_from_bottom) / len(scores)
+
+
+def _ranked_by_distance(path):
+    """[(other_path, distance), ...] sorted nearest-first, excluding path itself."""
     index = load_dimension_index()
     vector = index.get(path)
     if vector is None:
         return []
-    ranked = sorted(
-        (other for other in index if other != path),
-        key=lambda other: sum((a - b) ** 2 for a, b in zip(vector, index[other])),
+    return sorted(
+        (
+            (other, sum((a - b) ** 2 for a, b in zip(vector, index[other])) ** 0.5)
+            for other in index if other != path
+        ),
+        key=lambda pair: pair[1],
     )
-    return ranked[:k]
+
+
+def find_similar_by_scores(path, k=3):
+    """Return up to k paths (excluding path itself) with the closest 5-dimension
+    score profile, nearest first, by plain Euclidean distance."""
+    return [other for other, _ in _ranked_by_distance(path)[:k]]
+
+
+def find_similar_with_match(path, k=3):
+    """Like find_similar_by_scores, but returns (path, match_pct) pairs — the
+    distance normalized against the theoretical max distance in this space."""
+    return [
+        (other, round(100 * (1 - distance / _MAX_DIMENSION_DISTANCE)))
+        for other, distance in _ranked_by_distance(path)[:k]
+    ]

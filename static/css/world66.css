@@ -1305,6 +1305,7 @@ img { max-width: 100%; height: auto; }
 
 .score-profile-similar {
   border-top: 1px solid var(--line);
+  margin-top: 10px;
   padding-top: 10px;
 }
 

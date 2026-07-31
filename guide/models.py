@@ -934,16 +934,25 @@ def _ranked_by_distance(path):
     )
 
 
-def find_similar_by_scores(path, k=3):
-    """Return up to k paths (excluding path itself) with the closest 5-dimension
-    score profile, nearest first, by plain Euclidean distance."""
-    return [other for other, _ in _ranked_by_distance(path)[:k]]
+def _country_path(path):
+    """First two path segments (continent/country) — country pages never
+    nest deeper than that, regions/cities/features are always below."""
+    parts = path.split("/")
+    return "/".join(parts[:2]) if len(parts) >= 2 else path
 
 
-def find_similar_with_match(path, k=3):
-    """Like find_similar_by_scores, but returns (path, match_pct) pairs — the
-    distance normalized against the theoretical max distance in this space."""
-    return [
-        (other, round(100 * (1 - distance / _MAX_DIMENSION_DISTANCE)))
-        for other, distance in _ranked_by_distance(path)[:k]
-    ]
+def find_similar_with_match_grouped(path, k=3):
+    """Like find_similar_by_scores, but split into (same_country, other_country)
+    lists of up to k (path, match_pct) pairs each, nearest-first within each
+    group. match_pct is the distance normalized against the theoretical max
+    distance in this space."""
+    country = _country_path(path)
+    same, other = [], []
+    for other_path, distance in _ranked_by_distance(path):
+        if len(same) >= k and len(other) >= k:
+            break
+        match_pct = round(100 * (1 - distance / _MAX_DIMENSION_DISTANCE))
+        bucket = same if _country_path(other_path) == country else other
+        if len(bucket) < k:
+            bucket.append((other_path, match_pct))
+    return same, other

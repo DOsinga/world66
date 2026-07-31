@@ -14,6 +14,11 @@ snippet: Tiny New Mexico ranching village near Datil Well and the Very Large Arr
   basin.
 title: Datil
 type: location
+nature: 5.5
+leisure: 4.4
+adventure: 5.2
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 A tiny ranching village on US-60 in west central New Mexico. The BLM campground at [Datil Well](/northamerica/unitedstates/newmexico/datil/datil_well_campground) is a pleasant overnight stop -- it marks the spot where cattle were watered on their way to [Magdalena](/northamerica/unitedstates/newmexico/magdalena) and the railroad. If you are driving the lonely stretch between Socorro and [Pie Town](/northamerica/unitedstates/newmexico/pie_town), this is your midpoint.

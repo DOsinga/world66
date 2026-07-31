@@ -14,6 +14,11 @@ snippet: Treasure Coast city opposite Palm Beach, with a walkable waterfront dis
   and the Norton Museum of Art.
 title: West Palm Beach
 type: location
+nature: 5.8
+leisure: 8.3
+adventure: 1.7
+city_culture: 2.7
+historic_culture: 2.7
 ---
 
 **West Palm Beach** is the largest city on Florida's Treasure Coast, sitting across the Intracoastal Waterway from its more famous neighbour, Palm Beach. It has developed its own identity in recent years — the [Clematis Street](/northamerica/unitedstates/florida/westpalmbeach/clematis_street) waterfront district and [Rosemary Square](/northamerica/unitedstates/florida/westpalmbeach/cityplace) (formerly CityPlace) have made the downtown lively and walkable.

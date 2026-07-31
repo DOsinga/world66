@@ -14,6 +14,11 @@ snippet: Conemaugh Valley city east of Pittsburgh, best known for the catastroph
   Johnstown Flood of 1889.
 title: Johnstown
 type: location
+nature: 4.1
+leisure: 5.4
+adventure: 3.8
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Johnstown is a small city about 60 miles east of [Pittsburgh](/northamerica/unitedstates/pennsylvania/pittsburgh), set deep in the Conemaugh Valley. It is best known for its devastating floods — three of them, in 1889, 1936, and 1977.

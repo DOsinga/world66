@@ -14,6 +14,11 @@ snippet: Hilltop Rwandan capital spread across green ridges, known for orderly s
   and the Kigali Genocide Memorial.
 title: Kigali
 type: location
+nature: 4.9
+leisure: 4.6
+adventure: 5.2
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Kigali is one of the cleanest, safest, and most surprising capital cities in Africa. Spread across a series of lush hills and valleys, it has transformed itself remarkably since the 1994 genocide. The streets are spotless (plastic bags are banned nationwide), the roads are good, and the city hums with quiet ambition. It is not a place you pass through — it deserves a few days of your time.

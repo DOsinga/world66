@@ -10,6 +10,11 @@ longitude: 127.4435
 score: 1.75
 title: Wonsan
 type: location
+nature: 6.6
+leisure: 1.0
+adventure: 8.9
+city_culture: 4.0
+historic_culture: 4.0
 ---
 
 Wonsan is a port city on the east coast, facing the Sea of Japan, and has traditionally been one of the few places outside Pyongyang on standard North Korea tours. The beach and coastal setting offer a change of pace from monument-heavy city itineraries.

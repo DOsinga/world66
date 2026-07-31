@@ -9,6 +9,11 @@ title: Songtan
 type: location
 snippet: Pyeongtaek neighbourhood beside Osan Air Base, known for Shin-Jang shopping
   and base-gate nightlife.
+nature: 4.0
+leisure: 5.2
+adventure: 3.9
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Songtan is a neighbourhood within Pyeongtaek, [South Korea](/asia/southkorea), about an hour south of [Seoul](/asia/southkorea/seoul) by car or train. It exists largely because of [Osan Air Base](/asia/southkorea/songtan/osan_air_base), the major American military installation next door, and the area outside the base's main gate has developed into a strip of shops, restaurants, and bars that cater to both service members and Korean locals.

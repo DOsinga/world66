@@ -14,6 +14,11 @@ snippet: Flemish mining city transformed by coal migration, with C-Mine preservi
   its industrial heritage
 title: Genk
 type: location
+nature: 3.4
+leisure: 5.6
+adventure: 3.5
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Genk is the most multicultural city in Flanders, a distinction that came about through hard industrial necessity rather than cosmopolitan planning. When the Belgian coal mines of the Kempen region were at full production in the mid-20th century, labor was recruited from southern Italy and later from Turkey; those communities stayed, built mosques and churches alongside each other, and their children and grandchildren now give the city a character unlike any other in the country. Walking through certain neighborhoods, the languages shift block by block, and the food — Anatolian bakeries, Italian delicatessens, Congolese restaurants — reflects a layered immigration history that spans decades.

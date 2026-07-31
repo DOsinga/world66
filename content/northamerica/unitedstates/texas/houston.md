@@ -9,6 +9,11 @@ snippet: Huge Gulf Coast city of NASA, museums, and one of the United States' mo
   diverse restaurant scenes
 title: Houston
 type: location
+nature: 2.4
+leisure: 7.7
+adventure: 1.7
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 Houston is the largest city in Texas and the fourth-largest in the United States, but it does not feel like a cold metropolis. The people are genuinely friendly, and the city's diversity is staggering, with consulates from 77 nations and a restaurant scene that ranges from Vietnamese pho in Midtown to Nigerian suya in Alief.

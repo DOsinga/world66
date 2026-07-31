@@ -14,6 +14,11 @@ snippet: Small Riviera delle Palme seaside village preserving narrow streets, ol
   houses, and Ligurian baroque San Matteo.
 title: Laigueglia
 type: location
+nature: 4.8
+leisure: 5.2
+adventure: 4.4
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Laigueglia is a small seaside village at the western end of the Baia del Sole, just south of [Alassio](/europe/italy/liguria/italianriviera/rivieradellepalme/alassio) on the Riviera delle Palme. Originally a fishing settlement that swore allegiance to Genoa in 1191, it became an independent commune in the sixteenth century before being absorbed back into the Genoese republic in 1609.

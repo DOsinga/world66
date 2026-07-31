@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/Henry_Cowell_Redwoods_State_Park
 title: Felton
 type: location
+nature: 5.8
+leisure: 5.3
+adventure: 4.2
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 Felton is the southern gateway to the San Lorenzo Valley, where Highway 9 leaves Santa Cruz and slips into the redwoods. It is small, unpolished, and more useful than showy: a place for river walks, forest trails, and a steam train ride rather than a checklist of urban sights.

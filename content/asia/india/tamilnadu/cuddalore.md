@@ -10,6 +10,11 @@ title: Cuddalore
 type: location
 snippet: Bay of Bengal port town south of Pondicherry, near Pichavaram's vast mangrove
   waterways.
+nature: 4.3
+leisure: 4.2
+adventure: 5.0
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Cuddalore is an industrial port town on the Bay of Bengal, about 20 km south of Pondicherry. It has a long history — the Old Town traded with Rome 2,000 years ago, and the town was among the first in southern India to fall under direct European control, passing through Dutch, Portuguese, French, and British hands before independence. The British built [Fort St David](/asia/india/tamilnadu/cuddalore/fort_st_david) here, though little of it survives.

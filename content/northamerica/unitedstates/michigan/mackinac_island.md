@@ -14,6 +14,11 @@ snippet: Car-free Lake Huron island where horses, bicycles, fort walls, and stat
   park trails set the pace
 title: Mackinac Island
 type: location
+nature: 3.5
+leisure: 8.5
+adventure: 1.3
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Mackinac Island sits in Lake Huron just east of the Mackinac Bridge, reachable only by ferry or small plane. Private motor vehicles have been banned since the early twentieth century — everything moves by horse, bicycle, or on foot, and the clip-clop of hooves on the main street sets the pace for the whole island.

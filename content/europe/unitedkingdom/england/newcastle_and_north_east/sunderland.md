@@ -10,6 +10,11 @@ snippet: Northeast England port city where shipbuilding heritage meets glassmaki
   culture on the River Wear.
 title: Sunderland
 type: location
+nature: 4.0
+leisure: 5.5
+adventure: 3.5
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Sunderland sits on the coast of northeast England at the mouth of the River Wear, a former shipbuilding city that has reinvented itself around its waterfront. The city built more ships than anywhere else in the world for much of the nineteenth and twentieth centuries, and that industrial heritage is still visible in the docks and the terraced streets climbing the hills on both sides of the river.

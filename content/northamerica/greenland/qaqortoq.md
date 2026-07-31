@@ -10,6 +10,11 @@ snippet: Southern Greenland town of painted harbour houses, old Danish buildings
   and stone-and-man public art.
 title: Qaqortoq
 type: location
+nature: 9.0
+leisure: 2.1
+adventure: 7.9
+city_culture: 1.5
+historic_culture: 1.5
 ---
 
 Qaqortoq — formerly known by its Danish name Julianehåb — is the largest town in southern Greenland, with a population of around 3,000. It sits at the head of a deep fjord surrounded by hills of dark rock and patches of summer green, and its brightly painted houses clustered around the harbour give it a warmth that surprises visitors expecting a bleaker Arctic settlement.

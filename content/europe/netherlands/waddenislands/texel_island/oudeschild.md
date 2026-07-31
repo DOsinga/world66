@@ -14,6 +14,11 @@ title: Oudeschild
 snippet: Texel harbour village on the Waddenzee, with fishing quays and the maritime
   Museum Kaap Skil.
 type: location
+nature: 4.8
+leisure: 5.4
+adventure: 3.8
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Oudeschild is Texel's harbour village, sitting on the sheltered eastern coast of the island where the Waddenzee laps at the quayside. It's a small, unhurried place — fishing boats unloading, nets drying, the smell of salt and diesel — and a welcome counterpoint to the busier resort atmosphere of De Koog on the other side of the island.

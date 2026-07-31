@@ -14,6 +14,11 @@ snippet: Alpine resort village where Tour de France hairpins climb to a major sk
   area above Bourg-d'Oisans.
 title: Alpe d'Huez
 type: location
+nature: 7.7
+leisure: 6.7
+adventure: 3.4
+city_culture: 1.7
+historic_culture: 1.7
 ---
 
 Alpe d'Huez is one of cycling's sacred mountains. The [21 hairpin bends](/europe/france/alpes/alpdhuez/the_21_hairpins) climbing 1,100 metres from Bourg-d'Oisans to the resort at 1,860 metres have featured in the Tour de France since 1952, and the road is a pilgrimage for anyone who has ever watched the race. Each bend is numbered and named after a stage winner.

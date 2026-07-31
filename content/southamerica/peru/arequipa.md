@@ -13,6 +13,11 @@ title: Arequipa
 type: location
 snippet: Peru's white volcanic-stone city beneath El Misti, with a UNESCO-listed colonial
   centre.
+nature: 5.2
+leisure: 6.0
+adventure: 3.9
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Arequipa is Peru's second city, built from white volcanic stone (*sillar*) quarried from the slopes of El Misti, the 5,822-metre volcano that rises picture-perfectly behind the city. They call it La Ciudad Blanca — the White City — and in the midday sun the colonial centre gleams so brightly it is almost hard to look at. It is one of the finest Spanish colonial cities in South America, a UNESCO World Heritage Site since 2000, and a city that most travellers find more immediately likeable than Lima: compact, walkable, sunny (300+ days a year), and set in a dramatic valley flanked by three volcanoes.

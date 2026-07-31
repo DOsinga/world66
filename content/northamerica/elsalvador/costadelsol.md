@@ -16,6 +16,11 @@ sources:
 - https://istu.gob.sv/parques-recreativos/parque-recreativo-costa-del-sol/
 title: Costa del Sol
 type: location
+nature: 5.0
+leisure: 6.8
+adventure: 2.8
+city_culture: 4.0
+historic_culture: 4.0
 ---
 
 Costa del Sol is El Salvador's easy central-coast escape: a long, developed beach strip in La Paz department, close enough to San Salvador and the international airport for a quick break. It is not a lonely surf beach. It is family houses, beach clubs, seafood restaurants, warm water, and weekend traffic.

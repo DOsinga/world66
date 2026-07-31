@@ -9,6 +9,11 @@ score: 8.97
 loc_type: feature
 snippet: Maine coastal national park of granite mountains, boreal forest, lakes, and
   rocky Atlantic shoreline.
+nature: 5.1
+leisure: 6.9
+adventure: 2.7
+city_culture: 4.0
+historic_culture: 4.0
 ---
 
 Acadia became the first national park east of the Mississippi thanks largely to George B. Dorr, who spent 43 years and his family fortune preserving the landscape. The park encompasses nearly 48,000 acres of granite-domed mountains, woodlands, lakes, and ocean shoreline on the coast of Maine.

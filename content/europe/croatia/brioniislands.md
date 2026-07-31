@@ -14,6 +14,11 @@ snippet: Istrian island national park shaped by Tito's retreat, safari animals, 
   Roman traces.
 title: Brioni Islands
 type: location
+nature: 5.6
+leisure: 7.8
+adventure: 2.2
+city_culture: 3.1
+historic_culture: 3.1
 ---
 
 The Brioni Islands (Brijuni in Croatian) are a small archipelago of two larger and eleven smaller islands off the Istrian coast, a short ferry ride from Fažana. The islands were declared a national park in 1983 and are one of the more unusual destinations in Croatia — partly for the extraordinary wildlife, partly for the history.

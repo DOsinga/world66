@@ -14,6 +14,11 @@ title: Lecce
 type: location
 snippet: Baroque city in Puglia's heel, carved from soft golden limestone into extravagant
   churches and palaces.
+nature: 1.5
+leisure: 8.8
+adventure: 1.1
+city_culture: 8.2
+historic_culture: 8.2
 ---
 
 Lecce is the Florence of the South — a designation it's earned. Located at the heel of Italy's boot, roughly midway between Brindisi and the Adriatic coast, the city had its heyday under Spanish rule in the 17th century when local noblemen, merchants, and religious orders competed to build ever more extravagant palaces and churches. The material was a golden local limestone that proved extraordinarily soft to carve, which led to an architecture of dizzying elaboration: curling volutes, grinning monsters, caryatids, and festoons piled onto every available surface.

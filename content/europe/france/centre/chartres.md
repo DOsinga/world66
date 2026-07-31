@@ -16,6 +16,11 @@ snippet: French cathedral city on the Eure, defined by its medieval Gothic cathe
   and stained glass
 title: Chartres
 type: location
+nature: 2.0
+leisure: 6.7
+adventure: 3.0
+city_culture: 8.8
+historic_culture: 8.8
 ---
 
 Chartres is less than 100 km southwest of [Paris](/europe/france/paris), an easy day trip or a stop on the way to the [Loire Valley](/europe/france/centre/loirevalley). Most people come for the cathedral — and the cathedral alone is worth the journey — but the old town around it is genuinely attractive, with half-timbered houses, steep lanes, and good views from the bridges over the Eure.

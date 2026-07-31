@@ -13,6 +13,11 @@ image: namtso_lake.jpg
 image_source: https://commons.wikimedia.org/wiki/File:NamTso_scene.jpg
 image_license: CC BY 2.0
 image_attribution: Reurinkjan
+nature: 8.6
+leisure: 2.5
+adventure: 7.2
+city_culture: 1.8
+historic_culture: 1.8
 ---
 
 Namtso (Nam-tso) is one of the holiest lakes in Tibet and one of the highest large lakes on earth, sitting at 4,718 metres about four hours northwest of Lhasa. The lake stretches over 70 km, its extraordinary turquoise waters bounded by snow peaks to the east and north — a landscape of austere, breathtaking beauty.

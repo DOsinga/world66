@@ -9,6 +9,11 @@ snippet: Surinamese rainforest reserve on the Coppename River, known for birdlif
   and Voltzberg's granite dome.
 title: Raleighvallen
 type: location
+nature: 7.9
+leisure: 1.7
+adventure: 7.7
+city_culture: 2.3
+historic_culture: 2.3
 ---
 
 Raleighvallen is a nature reserve of 78,170 hectares in central Suriname, straddling the Coppename River and forming part of the Central Suriname Nature Reserve — a UNESCO World Heritage site covering nearly 1.6 million hectares of pristine Guiana Shield rainforest. This is one of the finest birding destinations in South America, with around 400 recorded species: toucans, scarlet macaws, the flamboyant Guiana cock-of-the-rock, and more parrots than you can count. Primates — spider monkeys, howler monkeys, squirrel monkeys — are a common sight, and the reserve holds one of the region's most important harpy eagle nesting populations.

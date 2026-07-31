@@ -14,6 +14,11 @@ snippet: Soviet-built Vakhsh River city beside the towering Nurek Dam and its mo
   reservoir.
 title: Nurek
 type: location
+nature: 8.6
+leisure: 1.6
+adventure: 8.0
+city_culture: 1.7
+historic_culture: 1.7
 ---
 
 Nurek is a small city about 70 km east of Dushanbe on the Vakhsh River, built in the 1960s to house workers constructing the Nurek Dam. The dam, completed in 1980, was the tallest in the world at 300 meters — a title it held for decades. The reservoir behind it stretches back some 70 km and is striking in the arid landscape.

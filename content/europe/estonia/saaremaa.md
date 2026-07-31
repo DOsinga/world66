@@ -16,6 +16,11 @@ sources:
 - https://visitsaaremaa.ee/en/
 title: Saaremaa
 type: location
+nature: 5.1
+leisure: 7.4
+adventure: 2.4
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 Saaremaa is Estonia's largest island and its most rewarding slow-travel escape. It is flat, forested, and quietly maritime, with juniper meadows, stone churches, windmills, spa traditions, and long roads where the next village may be little more than a church, a shop, and a few weathered farmhouses. The island feels close to Estonia and slightly apart from it at the same time.

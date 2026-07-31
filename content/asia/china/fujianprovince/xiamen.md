@@ -13,6 +13,11 @@ snippet: Subtropical Fujian island city with beachside streets, overseas Chinese
   and car-free Gulangyu nearby.
 title: Xiamen
 type: location
+nature: 4.2
+leisure: 6.9
+adventure: 2.9
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Xiamen is the most immediately appealing city in Fujian — a compact island city with a subtropical climate, clean streets, and a genuine beachside personality that sets it apart from most of industrial coastal China. It was one of China's first Special Economic Zones, which brought prosperity and a cosmopolitan air, and its overseas Chinese connections have given it a more outward-looking character than many cities of similar size.

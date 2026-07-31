@@ -10,6 +10,11 @@ title: Toirano
 snippet: Medieval Ligurian village in the Val Varatella, known for karst caves and
   prehistoric finds
 type: location
+nature: 4.8
+leisure: 5.2
+adventure: 4.4
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Toirano is a small medieval village in the Val Varatella, best known for its remarkable caves. The karst landscape around the valley contains over fifty caves, some opening dramatically in the sheer walls of side valleys and in the spectacular Salto del Lupo gorge. The archaeological finds from these caves — including evidence of prehistoric human habitation and cave bear remains — are displayed in the [Museo Preistorico della Val Varatella](/europe/italy/liguria/italianriviera/rivieradellepalme/toirano/museo_preistorico).

@@ -14,6 +14,11 @@ snippet: Quiet Pärnu Bay village with a long sandy beach and major Baltic bird 
   views.
 title: Kabli
 type: location
+nature: 4.7
+leisure: 3.5
+adventure: 5.7
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Kabli is a quiet coastal village on Pärnu Bay in southwest Estonia, known for its long sandy beach and as one of the best birdwatching spots in the Baltics. The beach stretches for several kilometres — shallow, sandy, and uncrowded even in summer.

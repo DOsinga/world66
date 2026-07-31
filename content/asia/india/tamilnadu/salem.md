@@ -14,6 +14,11 @@ image_license: CC BY-SA 3.0
 image_attribution: RAJUKHAN SR RAJESH
 snippet: Industrial Tamil Nadu city ringed by hills, chiefly a gateway to Yercaud
   and the Shevaroy slopes.
+nature: 2.9
+leisure: 5.9
+adventure: 3.6
+city_culture: 7.7
+historic_culture: 7.7
 ---
 
 Salem is a large industrial city in north-central Tamil Nadu, surrounded on three sides by hills. It's a significant steel production centre and a busy transport hub, but most travellers pass through it rather than stopping here.

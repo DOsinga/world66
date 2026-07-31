@@ -13,6 +13,11 @@ sources:
 - https://en.wikipedia.org/wiki/Quezon
 title: Lucena
 type: location
+nature: 5.3
+leisure: 4.7
+adventure: 4.6
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Lucena is the capital of Quezon Province and the transport spine of southern Luzon — a real working city on the shore of Tayabas Bay that most travellers pass through but few stop to explore. That's their loss. The city has a cathedral square the Spanish would recognise, a tangle of public markets selling the coconut products and longganisa sausage the province is famous for, and a port district at Dalahican where ferries push off to the island of Marinduque in an hour.

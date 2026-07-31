@@ -14,6 +14,11 @@ snippet: Texas Hill Country town on the Guadalupe River, with music festivals an
   limestone scenery
 title: Kerrville
 type: location
+nature: 4.2
+leisure: 5.1
+adventure: 4.0
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Kerrville sits on the Guadalupe River in the heart of the [Texas](/northamerica/unitedstates/texas) Hill Country, surrounded by rolling limestone hills and live oak groves. It is the largest town in Kerr County and serves as a base for exploring one of the most scenic parts of central Texas.

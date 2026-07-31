@@ -13,6 +13,11 @@ snippet: Himalayan foothill pilgrimage town where the Ganges, yoga ashrams, and 
   bridges define daily life.
 title: Rishikesh
 type: location
+nature: 3.7
+leisure: 4.8
+adventure: 4.9
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 Rishikesh sits at the foothills of the Himalayas where the Ganges emerges from the mountains into the plains, about 25 kilometres north of Haridwar. It is one of the most important pilgrimage centres in India and has also become one of the world's most popular destinations for yoga and meditation — the Beatles stayed here in 1968 at the [Beatles Ashram](/asia/india/uttarpradesh/rishikesh/beatles_ashram), an act that cemented the town's global reputation.

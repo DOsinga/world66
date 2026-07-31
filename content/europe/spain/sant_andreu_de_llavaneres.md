@@ -16,6 +16,11 @@ image_license: CC BY-SA 3.0
 image_attribution: Araceli Merino
 snippet: Maresme coastal municipality north of Barcelona, set between calm beaches
   and forested hills.
+nature: 4.4
+leisure: 7.4
+adventure: 2.2
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Sant Andreu de Llavaneres is a small coastal municipality in the Maresme comarca, about 35km north of Barcelona along the Costa del Maresme. It sits between the sea and the forested hills of the [Serralada Litoral](/europe/spain/sant_andreu_de_llavaneres/serralada_litoral_trails), giving it a pleasant combination of beach access and green hiking trails nearby.

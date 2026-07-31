@@ -13,6 +13,11 @@ score: 7.53
 snippet: Small Norman village on the Côte Fleurie headland between Honfleur and Deauville.
 title: Villerville
 type: location
+nature: 4.1
+leisure: 6.5
+adventure: 2.8
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Villerville is a small Norman village on the Côte Fleurie, sitting on a headland between [Honfleur](/europe/france/normandybrittany/honfleur) and [Deauville](/europe/france/normandybrittany/deauville). It shares the half-timbered architecture and apple-orchard landscape typical of this stretch of coast, but without the tourist traffic of its famous neighbours.

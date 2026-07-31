@@ -14,6 +14,11 @@ snippet: Grand Bahama's planned free-trade city, a relaxed alternative to Nassau
   broad beaches nearby.
 title: Freeport
 type: location
+nature: 5.1
+leisure: 7.9
+adventure: 1.9
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 Freeport is the main city of Grand Bahama Island and the second largest urban area in the Bahamas after Nassau. It's a more relaxed and less crowded alternative to Nassau — the beaches are cleaner, the people genuinely friendly, and the prices generally better. The city was purpose-built as a free-trade zone in the 1950s and has a planned, modern feel that contrasts with Nassau's colonial character.

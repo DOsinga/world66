@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/King_Fahd_Industrial_Port_(Jubail)
 title: Jubail
 type: location
+nature: 3.6
+leisure: 5.3
+adventure: 3.9
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Jubail is one of the most extraordinary urban projects of the twentieth century — a city of more than 100,000 people built from scratch in the desert on the Arabian Gulf coast, begun in 1975 and still expanding. Before the Royal Commission for Jubail and Yanbu arrived, there was a small fishing village here. Today it is the industrial heartland of Saudi Arabia, home to SABIC, Saudi Aramco, and dozens of downstream petrochemical facilities that together make Jubail one of the largest industrial complexes on earth.

@@ -14,6 +14,11 @@ snippet: Southern Kashmir Valley town on the Jhelum River, near Mughal gardens a
   the Martand Sun Temple.
 title: Anantnag
 type: location
+nature: 4.7
+leisure: 3.7
+adventure: 5.7
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Anantnag is the main town of the southern Kashmir Valley, about 55 km south of [Srinagar](/asia/india/jammuandkashmir/srinagar) on the [Jhelum River](/asia/india/jammuandkashmir/anantnag/jhelum_river). Known also as Islamabad in older maps, it serves as the gateway district for some of Kashmir's most visited sights in the surrounding countryside.

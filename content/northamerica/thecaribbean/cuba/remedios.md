@@ -11,6 +11,11 @@ title: Remedios
 type: location
 snippet: Colonial Cuban town founded in 1514, centered on a square with two facing
   churches.
+nature: 3.8
+leisure: 7.1
+adventure: 2.6
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Remedios is one of Cuba's oldest and best-preserved colonial towns, tucked away on the north coast of Villa Clara province. Founded in 1514, it is among the first seven cities established by the Spanish on the island, yet it has largely escaped the tourist circuit — which is precisely what makes it worth visiting.

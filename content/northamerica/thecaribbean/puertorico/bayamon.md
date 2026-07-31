@@ -9,6 +9,11 @@ snippet: Puerto Rican city beside San Juan, with a science park, historic plaza,
   strong sports culture
 title: Bayamón
 type: location
+nature: 4.4
+leisure: 4.8
+adventure: 4.5
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Bayamon is Puerto Rico's second largest city, sprawling across the metropolitan area just southwest of San Juan. It functions primarily as a residential and commercial suburb, but it has its own identity and a handful of attractions worth seeing if you are based in the San Juan area. The [Parque de las Ciencias Luis A. Ferré](/northamerica/thecaribbean/puertorico/bayamon/parque_de_las_ciencias) is a large science park with a small zoo, a planetarium, and open-air exhibits spread across pleasant grounds -- it is particularly good for families with children.

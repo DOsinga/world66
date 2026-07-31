@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Tonghua
 title: Tonghua
 type: location
+nature: 5.2
+leisure: 4.0
+adventure: 5.2
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Tonghua is not a place people visit for Tonghua itself — the city is frank about this in most travel accounts, and there is a straightforwardness to its modest charms. The hills that ring it are attractive, the renovated riverfront offers pleasant walking, and the modern downtown has the clean, undistinguished quality of a Chinese city that has been rebuilt in the last twenty years without leaving much of its older self behind. What Tonghua does well is function as a base for two things that are worth serious attention in their own right: the Koguryo sites at Ji'an, and access to the southern approaches of Changbaishan.

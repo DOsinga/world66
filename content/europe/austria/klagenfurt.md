@@ -16,6 +16,11 @@ snippet: Carinthian capital of Renaissance courtyards, Lindwurm legend, and an o
   town with Italian proportions
 title: Klagenfurt
 type: location
+nature: 4.7
+leisure: 6.0
+adventure: 3.6
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Klagenfurt is the capital of Carinthia (Kärnten), Austria's southernmost province, and it carries the easy confidence of a city that knows it sits in one of the most beautiful corners of the Alps. Legend says the city was founded after brave townspeople slew the Lindwurm, a dragon that terrorized the moors — the beast still looms large in civic identity, immortalized in a [famous fountain](/europe/austria/klagenfurt/lindwurm_fountain) on the central Neuer Platz.

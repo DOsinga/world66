@@ -15,6 +15,11 @@ title: Oran
 type: location
 snippet: Western Algerian port city on a broad Mediterranean bay, closely tied to
   rai music.
+nature: 4.6
+leisure: 3.2
+adventure: 6.4
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Oran is the most important city of western Algeria and the country's second-largest urban centre, sprawling around a wide Mediterranean bay overlooked by the rugged ridge of Jebel Murdjadjo. With [Tlemcen](/africa/algeria/tlemcen) it is probably the most Moroccan in feel of Algeria's cities — closer culturally to Fez than to Algiers — and its identity is wrapped up in Rai music, the country's signature popular sound. Khaled, Cheb Mami, Cheb Hasni, Cheikha Rimitti — almost every great Rai artist is Oranais.

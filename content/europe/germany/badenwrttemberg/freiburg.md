@@ -14,6 +14,11 @@ snippet: Black Forest university city with a sunny old town, Gothic Münster, an
   medieval lanes.
 title: Freiburg
 type: location
+nature: 2.6
+leisure: 7.7
+adventure: 1.9
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 Freiburg im Breisgau is the sunny southwestern corner of Germany, tucked against the western edge of the Black Forest within sight of France and Switzerland. It is the warmest city in the country, with a Mediterranean feel to its summers, and one of its most pleasant — a compact, walkable old town built around a [single great Gothic cathedral](/europe/germany/badenwrttemberg/freiburg/munster), with 200,000 people, 25,000 students, and very few cars.

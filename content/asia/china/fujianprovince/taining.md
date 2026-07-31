@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Taining
 title: Taining
 type: location
+nature: 4.7
+leisure: 4.2
+adventure: 5.0
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Taining is a county town in Sanming prefecture in the interior of Fujian, surrounded by one of China's most dramatic Danxia landscapes: kilometres of deep-red sandstone cliffs, gorges, and cave systems carved over millions of years and now protected as a UNESCO Global Geopark. It is a long journey from the coast — around three hours from Fuzhou — but the scenery justifies the effort, and the area remains much less crowded than comparable red-rock sites in Guangdong or Zhangjiajie.

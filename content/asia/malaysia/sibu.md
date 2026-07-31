@@ -16,6 +16,11 @@ type: location
 score: 6.62
 snippet: Central Sarawak river town where the Rajang economy and Foochow food culture
   meet.
+nature: 5.4
+leisure: 7.3
+adventure: 2.7
+city_culture: 3.7
+historic_culture: 3.7
 ---
 
 Sibu is the great river town of central Sarawak, built where the Igan River slips away from the broad, brown Rajang. It is not pretty in the easy postcard sense, but it is one of the best places in Malaysian Borneo to feel the river economy at work: express boats nosing up to the wharf, timber-town money in the shophouses, and a Chinese-Foochow food culture that locals defend with real pride.

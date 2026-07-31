@@ -13,6 +13,11 @@ snippet: Ligurian Riviera seaside town with a sandy beach, colourful lanes, and 
   toward protected Bergeggi Island.
 title: Spotorno
 type: location
+nature: 4.7
+leisure: 7.0
+adventure: 2.7
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Spotorno is a small seaside town on the Ligurian Riviera di Ponente, wedged between Noli and Bergeggi along one of the most scenic stretches of coast in northwestern Italy. A long sandy beach backed by colourful houses and a handful of narrow lanes make up the old centre, which still feels more Italian than tourist.

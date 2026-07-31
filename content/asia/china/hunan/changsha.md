@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Changsha
 title: Changsha
 type: location
+nature: 4.0
+leisure: 5.0
+adventure: 4.4
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Changsha, the provincial capital of [Hunan](/asia/china/hunan), has an identity that China's tourism bureaus have spent decades trying to pin down — and the city keeps escaping the frame. It is Mao Zedong's city above all else: he studied here at [Hunan First Normal University](/asia/china/hunan/changsha/hunan_first_normal_university) from 1913 to 1918, converted to communism on these streets, and a colossal sculpture of his young face dominates [Orange Island](/asia/china/hunan/changsha/orange_island) in the middle of the Xiang River. The [Qingshui Tang](/asia/china/hunan/changsha/qingshui_tang) complex preserves both his former residence and the first offices of the Hunan Communist Party. Visitors make the pilgrimage even when they have no particular interest in the Chairman; the giant stone face alone is one of China's more arresting public monuments.

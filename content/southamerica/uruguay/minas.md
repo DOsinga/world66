@@ -18,6 +18,11 @@ sources:
 - https://saltodelpenitente.com/en/before-going/
 title: Minas
 type: location
+nature: 4.7
+leisure: 4.2
+adventure: 5.0
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Minas is the capital of Lavalleja Department and the most useful town in Uruguay's low hill country. It is not dramatic by Andean standards, but in a country of broad plains and beach towns the surrounding sierras feel genuinely different: rocky ridges, eucalyptus groves, mineral springs, and small roads that curl through green valleys.

@@ -11,6 +11,11 @@ image: laesoe.jpg
 image_source: https://commons.wikimedia.org/wiki/File:H%C3%B8jsande_l%C3%A6s%C3%B8.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Unknown
+nature: 5.9
+leisure: 5.4
+adventure: 4.2
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 Læsø is a flat, remote island in the Kattegat, 1.5 hours by ferry from Frederikshavn in northern Jutland. At 118 square kilometres and with a population of around 1,800, it is one of Denmark's least-visited inhabited islands and intentionally so — the pace is slow, the infrastructure is basic, and the appeal is entirely to visitors who want empty beaches, cycling through open heath, and an island that has not been packaged for tourism.

@@ -15,6 +15,11 @@ snippet: French Caribbean half-island of beaches, Marigot markets, and easy bord
   crossings with Sint Maarten.
 title: Saint-Martin
 type: location
+nature: 4.9
+leisure: 8.1
+adventure: 1.9
+city_culture: 3.7
+historic_culture: 3.7
 ---
 
 Saint-Martin is the French half of a 37-square-mile island it shares peacefully with the Dutch territory of Sint Maarten. Together they form the smallest landmass in the world divided between two sovereign nations. The French side is slightly larger — 21 square miles to the Dutch 16 — and holds the capital Marigot and the gastronomic hub of Grand Case.

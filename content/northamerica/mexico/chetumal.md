@@ -13,6 +13,11 @@ score: 7.04
 snippet: Mexican border city on Chetumal Bay, where the southern Yucatán meets Belize.
 title: Chetumal
 type: location
+nature: 5.1
+leisure: 6.0
+adventure: 3.6
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Chetumal ("place of abundant red cedar" in Maya) is the capital of Quintana Roo, founded in 1898 on the shores of the bay that shares its name. The city itself is not a showstopper, but its position at the end of the highway south from the Yucatan Peninsula — right on the border with [Belize](/northamerica/belize) — means plenty of travelers pass through and often end up staying longer than planned.

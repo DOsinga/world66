@@ -14,6 +14,11 @@ snippet: Whitewashed Atlantic town behind Portuguese ramparts, with medina mural
   and sea views from the walls.
 title: Asilah
 type: location
+nature: 3.4
+leisure: 5.5
+adventure: 4.2
+city_culture: 7.4
+historic_culture: 7.4
 ---
 
 Asilah feels more Andalucian than Moroccan — a whitewashed Atlantic town behind [Portuguese ramparts](/africa/morocco/asilah/portuguese_ramparts), quiet and immaculately clean. The medina is small enough to explore in an hour, but the quality of the light and the calm of the narrow alleys will slow you down. Artists discovered the town decades ago, and [murals](/africa/morocco/asilah/medina_murals) painted during the annual arts festival still brighten the walls.

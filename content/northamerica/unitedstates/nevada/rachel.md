@@ -14,6 +14,11 @@ snippet: Tiny Nevada desert settlement on the Extraterrestrial Highway, known fo
   Area 51 lore and dark skies
 title: Rachel
 type: location
+nature: 7.1
+leisure: 4.1
+adventure: 5.5
+city_culture: 2.8
+historic_culture: 2.8
 ---
 
 Rachel is a tiny settlement of about 50 people on Nevada's [Extraterrestrial Highway](/northamerica/unitedstates/nevada/rachel/extraterrestrial_highway), officially State Route 375. The town exists almost entirely because of its proximity to Area 51, the classified US Air Force installation whose secrecy has fuelled decades of UFO speculation. The [Little A'Le'Inn](/northamerica/unitedstates/nevada/rachel/little_aleinn), a bar and motel decorated with alien memorabilia, is the only real business in town and the main reason most visitors stop.

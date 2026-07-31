@@ -14,6 +14,11 @@ snippet: Historic Karabakh highland city at 1,400 metres, prized for its layered
   cultural heritage.
 title: Shusha
 type: location
+nature: 5.3
+leisure: 2.7
+adventure: 7.2
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Shusha (also written Şuşa) is a historic city in the Karabakh highlands of Azerbaijan, perched at around 1,400 metres above sea level. It is culturally significant to both Azerbaijanis and Armenians — both communities consider it central to their heritage — which made it one of the most contested prizes of the Nagorno-Karabakh conflict.

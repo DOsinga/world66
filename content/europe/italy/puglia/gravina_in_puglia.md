@@ -14,6 +14,11 @@ snippet: Limestone ravine town in Puglia, known for cave dwellings and the rock-
   San Michele delle Grotte.
 title: Gravina in Puglia
 type: location
+nature: 3.9
+leisure: 6.1
+adventure: 3.5
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Gravina in Puglia takes its name from the dramatic ravine that borders the town — a deep gorge carved into the limestone, its walls honeycombed with abandoned cave dwellings. The setting is strikingly similar to nearby [Matera](/europe/italy/basilicata/matera), just across the border in Basilicata, but without the crowds or the UNESCO tourist infrastructure.

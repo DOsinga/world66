@@ -15,6 +15,11 @@ snippet: Cypriot coastal town where harbour resorts sit beside Roman mosaics and
   legends.
 title: Paphos
 type: location
+nature: 3.1
+leisure: 8.1
+adventure: 1.7
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Paphos is a coastal town of around 35,000 people in the south-west of Cyprus — the capital of the western district, and the wealthiest of the island's small cities thanks to a steady drip of European package tourists, mostly German, Scandinavian and British.

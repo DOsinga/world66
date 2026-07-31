@@ -13,6 +13,11 @@ snippet: Fortified South Holland harbour town with Dutch Republic naval docks, r
   and a historic dry dock.
 title: Hellevoetsluis
 type: location
+nature: 3.7
+leisure: 5.8
+adventure: 3.3
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Hellevoetsluis is a small fortified town on the island of Voorne-Putten in South Holland, sitting where the Haringvliet meets the North Sea. For centuries it served as the main naval harbour of the Dutch Republic — William III of Orange sailed from here to claim the English throne in 1688. The old fortifications, dry dock, and naval buildings still ring the harbour basin, giving the town centre a character quite unlike the modern suburbs that surround it.

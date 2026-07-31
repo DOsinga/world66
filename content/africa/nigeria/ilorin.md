@@ -10,6 +10,11 @@ title: Ilorin
 snippet: Kwara State capital at Nigeria's north-south crossroads, blending Yoruba-Islamic
   tradition with university energy
 type: location
+nature: 5.2
+leisure: 4.0
+adventure: 5.6
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Ilorin is the capital of Kwara State, sitting at the crossroads between Nigeria's predominantly Muslim north and its Christian south. That position has given the city a distinctive character — the [Emir's Palace](/africa/nigeria/ilorin/emir_palace) anchors a traditional Yoruba-Islamic culture, while the [University of Ilorin](/africa/nigeria/ilorin/university_of_ilorin) campus brings a younger, more cosmopolitan energy.

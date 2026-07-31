@@ -13,6 +13,11 @@ title: Canberra
 snippet: Planned Australian capital of parliament, national museums, and broad lakefront
   avenues below low hills.
 type: location
+nature: 3.7
+leisure: 6.4
+adventure: 2.8
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Canberra is Australia's federal capital. Established as part of Australia's federation in 1901, Canberra houses the national [parliament](/australiaandpacific/australia/australiancapitalterritory/canberra/parliament_house), federal government departments, the [High Court of Australia](/australiaandpacific/australia/australiancapitalterritory/canberra/high_court), the [Australian War Memorial](/australiaandpacific/australia/australiancapitalterritory/canberra/australian_war_memorial), and several other important institutions.

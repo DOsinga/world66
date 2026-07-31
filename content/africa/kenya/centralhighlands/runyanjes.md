@@ -7,6 +7,11 @@ snippet: Central Kenyan market town between Embu and Mount Kenya, rooted in coff
   tea, and weekly trade
 title: Runyenjes
 type: location
+nature: 5.4
+leisure: 2.2
+adventure: 7.1
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Runyenjes is a market town in Embu County, in Kenya's central highlands, sitting in the fertile territory between [Embu](/africa/kenya/centralhighlands/embu) town to the south and the foothills of Mount Kenya to the north. The town takes its name from Chief Runyenje, a colonial-era leader who held authority across the territory between the Thuchi River and Sagana in the early 20th century.

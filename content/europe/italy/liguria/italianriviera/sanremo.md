@@ -19,6 +19,11 @@ sources:
 - https://en.wikipedia.org/wiki/Sanremo_Casino
 title: Sanremo
 type: location
+nature: 3.5
+leisure: 8.3
+adventure: 1.4
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Sanremo is the grand old resort of the Italian Riviera, draped across the hillside between Capo Verde and Capo Nero in an amphitheatre facing the sea. It has been drawing visitors since the 19th century — Russian aristocrats, British wintering parties, and later the Italian establishment — and still carries an air of faded Belle Époque glamour in its seafront hotels, the [Casino Municipale](/europe/italy/liguria/italianriviera/sanremo/casino_municipale), and the [palm-lined promenades](/europe/italy/liguria/italianriviera/sanremo/passeggiata_imperatrice).

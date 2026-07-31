@@ -14,6 +14,11 @@ snippet: Exmoor market town in the River Barle valley, used as a base for moorla
   walks
 title: Dulverton
 type: location
+nature: 5.3
+leisure: 4.9
+adventure: 4.6
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Dulverton is a small market town on the southern edge of Exmoor, tucked into the valley of the River Barle. It serves as the headquarters of the Exmoor National Park Authority and makes an excellent base for walking — the [Barle Valley](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/dulverton/barle_valley_walk), [Tarr Steps](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/dulverton/tarr_steps) (a medieval clapper bridge upstream), and the open moorland above the town are all accessible on foot.

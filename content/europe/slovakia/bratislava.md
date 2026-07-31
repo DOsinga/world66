@@ -13,6 +13,11 @@ snippet: Small Danube capital at Slovakia's western edge, pressed close to Austr
   and Hungary
 title: Bratislava
 type: location
+nature: 2.1
+leisure: 6.5
+adventure: 3.1
+city_culture: 8.3
+historic_culture: 8.3
 ---
 
 Bratislava is one of Europe's smallest and most underrated capitals. Sitting on the Danube where [Slovakia](/europe/slovakia), [Austria](/europe/austria), and [Hungary](/europe/hungary) meet, it spent centuries in the shadow of nearby Vienna — and for much of that time, it was the coronation city of the Hungarian kings.

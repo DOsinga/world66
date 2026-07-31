@@ -17,6 +17,11 @@ snippet: Italian capital where ancient ruins, Renaissance churches, trattorias, 
   everyday street life layer three millennia together
 title: Rome
 type: location
+nature: 1.4
+leisure: 7.7
+adventure: 2.1
+city_culture: 9.0
+historic_culture: 9.0
 ---
 
 The Eternal City needs no introduction, yet it still manages to surprise. Rome layers nearly three thousand years of history into a living, breathing capital where ancient ruins sit beside buzzing trattorias and Renaissance churches share streets with vintage clothing shops. It is chaotic, beautiful, maddening, and utterly addictive.

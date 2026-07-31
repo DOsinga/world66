@@ -14,6 +14,11 @@ title: Mallare
 type: location
 snippet: Bormida valley village with Del Carretto history, medieval churches, and
   Monte Alto rising above farmland.
+nature: 4.7
+leisure: 5.4
+adventure: 3.9
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Mallare is a small agricultural village on the upper Bormida river, set in a valley dominated by Monte Alto (956 m). A possession of the Del Carretto family since the 12th century, it was ceded to the Monferrato in 1393, who then re-invested the Del Carretto with the fief.

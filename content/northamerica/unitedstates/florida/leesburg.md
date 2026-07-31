@@ -13,6 +13,11 @@ sources:
 - https://www.leesburgflorida.gov/activities/recreation/facility_rentals/parks.php
 title: Leesburg
 type: location
+nature: 5.3
+leisure: 5.3
+adventure: 3.9
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Leesburg is a small city in Lake County in central Florida, set among the chain of lakes that gives the county its name. It sits on a narrow strip of land between Lake Harris and Lake Griffin, and the waterfront is its most attractive feature — fishing, boating, and birdwatching are the main draws.

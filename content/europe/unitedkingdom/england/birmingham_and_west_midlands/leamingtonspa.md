@@ -14,6 +14,11 @@ snippet: Regency Warwickshire spa town known for saline springs, white-stucco te
   and riverside Pump Room gardens.
 title: Leamington Spa
 type: location
+nature: 3.2
+leisure: 7.1
+adventure: 2.2
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Royal Leamington Spa is a handsome Regency town in Warwickshire, granted its royal prefix by Queen Victoria in 1838. The town grew around its saline springs in the early nineteenth century, and the legacy of that era is visible everywhere — elegant white-stuccoed terraces, [the Pump Room gardens](/europe/unitedkingdom/england/birmingham_and_west_midlands/leamingtonspa/royal_pump_rooms) along the River Leam, and wide tree-lined avenues that give the centre an air of faded grandeur.

@@ -17,6 +17,11 @@ sources:
 - https://www.parksherts.co.uk/parks/fairlands-valley-park/
 title: Stevenage
 type: location
+nature: 4.1
+leisure: 3.6
+adventure: 5.6
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Stevenage is rarely anyone's picture-postcard Hertfordshire stop, and it is better to be honest about that. It was Britain's first post-war new town, planned for growth after 1946, and much of its centre still has the practical, concrete, pedestrianised confidence of that era.

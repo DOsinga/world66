@@ -10,6 +10,11 @@ snippet: South Nias capital serving as the gateway to Sorake surf breaks and tra
   villages.
 title: Teluk Dalam
 type: location
+nature: 5.6
+leisure: 5.2
+adventure: 4.6
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Teluk Dalam is the capital of South Nias, a small town on the southern coast of [Nias](/asia/indonesia/nias) island. The town itself is unremarkable, but it serves as the gateway to the surf beaches and traditional villages that make southern Nias one of Indonesia's most distinctive destinations.

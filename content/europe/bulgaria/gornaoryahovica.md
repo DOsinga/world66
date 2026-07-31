@@ -16,6 +16,11 @@ sources:
 - https://www.museology.bg/en/museums/i161/historical-museum-gorna-oryahovitsa.html
 title: Gorna Oryahovitsa
 type: location
+nature: 4.8
+leisure: 4.5
+adventure: 4.8
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Gorna Oryahovitsa is the practical neighbour of [Veliko Tarnovo](/europe/bulgaria/velikoturnovo): a railway junction, market town, and small industrial centre on the north side of the old capital. Most travellers know it because trains stop here before shuttle buses or taxis continue to Tarnovo.

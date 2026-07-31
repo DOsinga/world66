@@ -13,6 +13,11 @@ snippet: Eastern Ukrainian university city with monumental Soviet architecture, 
   squares, and a restless cultural life
 title: Kharkiv
 type: location
+nature: 4.3
+leisure: 3.0
+adventure: 6.7
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Kharkiv is Ukraine's second city and cultural capital — a place Ukrainians call the country's "first capital" because it served as the Soviet Ukrainian capital from 1919 to 1934. The city has a distinct character from Kyiv: younger in feel, heavily industrialised during the Soviet era, and home to a large concentration of universities that give it an intellectual energy and a permanently student-heavy street life.

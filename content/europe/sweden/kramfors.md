@@ -14,6 +14,11 @@ snippet: Ångermanland mill town on the Ångermanälven, used as a base for Swed
   High Coast.
 title: Kramfors
 type: location
+nature: 5.6
+leisure: 4.4
+adventure: 4.8
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Kramfors is a small town of about 6,000 people in the province of Ångermanland, close to the Ångermanälven — one of Sweden's largest rivers. The town grew up around saw mills and paper mills, most of which closed in the 1970s, and it has been losing population since.

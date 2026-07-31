@@ -10,6 +10,11 @@ snippet: Northern Peruvian coastal city with a colonial centre and extraordinary
   and Chimú archaeology nearby.
 title: Trujillo
 type: location
+nature: 5.2
+leisure: 4.9
+adventure: 4.8
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Trujillo is the largest city on Peru's northern coast, with about 800,000 people. It was founded by the Spanish in 1534 and retains a handsome colonial centre — pastel-coloured mansions with ornate wooden balconies line the streets around the Plaza de Armas.

@@ -17,6 +17,11 @@ type: location
 score: 9.82
 snippet: Vast northern Tanzanian wildlife reserve known for open plains and the annual
   Great Migration.
+nature: 8.9
+leisure: 4.1
+adventure: 5.8
+city_culture: 1.2
+historic_culture: 1.2
 ---
 
 The Serengeti is Africa's most famous wildlife reserve and one of the oldest ecosystems on earth. The name comes from the Maasai word *siringet*, meaning "the place where the land moves on forever" — and on the open plains in the dry season, that is exactly what it looks like. The park covers nearly 15,000 square kilometres of northern Tanzania, running from the Ngorongoro highlands in the south to the Kenyan border in the north, where it connects with the Masai Mara to form a single continuous ecosystem.

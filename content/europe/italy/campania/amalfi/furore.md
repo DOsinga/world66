@@ -12,6 +12,11 @@ score: 9.02
 title: Furore
 type: location
 snippet: Amalfi Coast village strung along cliffs above a narrow fjord and bridge.
+nature: 4.9
+leisure: 6.0
+adventure: 3.6
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Furore calls itself "the town that doesn't exist" — and technically it's right. Unlike every other village on the Amalfi Coast, Furore has no real centre, no piazza, no cluster of buildings you can point to and say: that's the town. Instead it sprawls in fragments across the steep cliffs between Amalfi and Positano: a scattering of farmhouses on the terraces above, a tiny fishing port hidden in a narrow gorge below.

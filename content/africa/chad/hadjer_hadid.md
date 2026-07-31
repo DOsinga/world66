@@ -10,6 +10,11 @@ snippet: Small eastern Chad village near Sudanese refugee camps, set in a dry la
   that greens during the rains.
 title: Hadjer Hadid
 type: location
+nature: 6.2
+leisure: 1.0
+adventure: 8.8
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Hadjer Hadid is a small village in eastern [Chad](/africa/chad), best known as the location of two large refugee camps — [Bredjing and Treguine](/africa/chad/hadjer_hadid/bredjing_treguine_camps) — housing Sudanese refugees who crossed the border during the Darfur crisis. The camps have been there since 2003, and international organizations including MSF, Oxfam, and IFRC maintain a presence.

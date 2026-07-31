@@ -14,6 +14,11 @@ snippet: Dolomite village in Val di Fassa, beneath Marmolada and linked to the S
   Ronda
 title: Canazei
 type: location
+nature: 6.5
+leisure: 6.6
+adventure: 3.3
+city_culture: 2.6
+historic_culture: 2.6
 ---
 
 Canazei is the uppermost village in [Val di Fassa](/europe/italy/trentinoaltoadige/val_di_fassa), sitting at about 1,460 metres at the foot of the [Marmolada glacier](/europe/italy/trentinoaltoadige/val_di_fassa/canazei/marmolada_glacier) — the highest peak in the Dolomites. It is the valley's main hub for both winter skiing and summer hiking, with lifts connecting to the [Sella Ronda](/europe/italy/trentinoaltoadige/val_di_fassa/canazei/sella_ronda) circuit and the Marmolada glacier ski area. In summer, walkers and via ferrata climbers use it as a base for routes into the Sella group, up to [Sass Pordoi](/europe/italy/trentinoaltoadige/val_di_fassa/canazei/sass_pordoi) and [Piz Boè](/europe/italy/trentinoaltoadige/val_di_fassa/canazei/piz_boe), and toward [Passo Pordoi](/europe/italy/trentinoaltoadige/val_di_fassa/canazei/passo_pordoi).

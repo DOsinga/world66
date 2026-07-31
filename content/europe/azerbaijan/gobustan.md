@@ -14,6 +14,11 @@ snippet: Caspian-side town known for dense prehistoric petroglyphs and mud volca
   southwest of Baku
 title: Gobustan
 type: location
+nature: 3.9
+leisure: 4.5
+adventure: 5.3
+city_culture: 7.4
+historic_culture: 7.4
 ---
 
 Gobustan, about 65 km southwest of [Baku](/europe/azerbaijan/baku), is home to thousands of rock engravings spread over 100 square kilometres — one of the densest concentrations of petroglyphs in the world. The carvings at the [Gobustan Rock Art Reserve](/europe/azerbaijan/gobustan/gobustan_rock_art) depict hunting scenes, dances, ships, constellations, and animals, with the oldest dating from the 12th millennium BC. Later visitors left their marks too: a graffito from Trajan's Roman legionnaires is among the easternmost Latin inscriptions ever found.

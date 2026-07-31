@@ -14,6 +14,11 @@ title: Montserrat
 snippet: Volcanic Caribbean island territory marked by Irish heritage and the buried
   former capital of Plymouth.
 type: location
+nature: 5.8
+leisure: 6.6
+adventure: 3.2
+city_culture: 3.3
+historic_culture: 3.3
 ---
 
 Montserrat is a small British Overseas Territory in the eastern Caribbean, and one of the most unusual islands in the region. It was colonised largely by Irish settlers in the 17th century — an origin that has left a distinctive cultural mark, including shamrocks on the national seal and a [St Patrick's Festival](/northamerica/thecaribbean/monserrat/st_patricks_festival) unique in the Caribbean.

@@ -14,6 +14,11 @@ snippet: Remote New Mexico settlement beside Chaco Canyon, the monumental heart 
   ancestral Puebloan culture.
 title: Nageezi
 type: location
+nature: 5.1
+leisure: 3.5
+adventure: 6.1
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 The main reason to come to Nageezi is Chaco Culture National Historical Park, one of the most impressive archaeological sites in North America. Chaco Canyon was a major center of ancestral Puebloan culture between AD 850 and 1250 -- a hub of ceremony, trade, and administration for the prehistoric Four Corners area, unlike anything before or since.

@@ -10,6 +10,11 @@ snippet: Medieval Basilicata town below Monte Vulture, once the Norman capital o
   southern Italy
 title: Melfi
 type: location
+nature: 4.4
+leisure: 4.8
+adventure: 4.4
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Melfi is a medieval town in northern [Basilicata](/europe/italy/basilicata), set at the foot of the extinct volcano Monte Vulture. It was a Lombard stronghold in the early Middle Ages and later became the first Norman capital in southern Italy — the impressive [Norman castle](/europe/italy/basilicata/melfi/castello_normano) above the town was where Robert Guiscard was proclaimed Duke of Apulia in 1059 and where Frederick II promulgated the Constitutions of Melfi in 1231, one of the most important legal codes of the medieval world.

@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Panauti
 title: Panauti
 type: location
+nature: 7.0
+leisure: 2.7
+adventure: 7.2
+city_culture: 3.7
+historic_culture: 3.7
 ---
 
 Panauti is a small Newar town about 30 kilometres southeast of Kathmandu, reachable in under an hour by bus or taxi. It sits at the sacred confluence of the Rosi and Punyamati rivers — a third river, the Lilamati, is said to be visible only to the wise. The town once straddled two major trade routes and had its own palace, but those days are long past. What remains is a dense cluster of medieval temples, carved wooden architecture, and a pace of life that Kathmandu left behind decades ago.

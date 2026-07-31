@@ -14,6 +14,11 @@ snippet: Tiny Berkshires village of Main Street inns, Norman Rockwell history, a
   leafy New England calm
 title: Stockbridge
 type: location
+nature: 3.5
+leisure: 5.8
+adventure: 3.4
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 Stockbridge is a tiny Berkshires village near the New York State line — basically a single block of Main Street at a T-junction — but it punches well above its weight.

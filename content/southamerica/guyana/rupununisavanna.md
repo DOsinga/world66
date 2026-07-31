@@ -9,6 +9,11 @@ snippet: Southern Guyanese savanna of ranches, Amerindian communities, gallery f
   and exceptional wildlife
 title: Rupununi Savanna
 type: location
+nature: 9.2
+leisure: 1.8
+adventure: 7.8
+city_culture: 0.9
+historic_culture: 0.9
 ---
 
 The Rupununi is a vast tropical savannah in southern Guyana, separated from the Amazon basin by the Kanuku Mountains and stretching to the Brazilian border. It is one of the most biodiverse ecosystems in South America and one of the least visited. The combination of open grassland, gallery forest, and seasonally flooded wetlands supports an extraordinary array of wildlife: giant anteaters, giant river otters, giant armadillos, tapirs, capybaras, caimans, anacondas, and more than 500 species of birds. Jaguars are present and occasionally seen.

@@ -15,6 +15,11 @@ snippet: Bicultural northeast Chinese city where Chinese and Korean language, fo
   and identity meet in Yanbian
 type: location
 score: 6.32
+nature: 5.3
+leisure: 4.2
+adventure: 5.3
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Yanji is the capital of the Yanbian Korean Autonomous Prefecture and sits in a category of its own among cities in northeast China: it is genuinely bicultural in a way that is immediately legible on the street. Shop signs appear in both Chinese characters and Korean hangul. The food running out of the restaurants is Korean — cold buckwheat noodles in icy broth, Korean barbecue, ginseng chicken soup — and the Korean spoken is the Hamgyong dialect, which reflects the origin of most of the community's ancestors in what is now North Korea's northeast. The city has more cafes serving decent coffee than you would expect from a northeastern Chinese city of its size, and a relaxed pace that makes wandering through it genuinely pleasant.

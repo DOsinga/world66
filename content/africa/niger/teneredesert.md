@@ -9,6 +9,11 @@ score: 5.95
 loc_type: feature
 snippet: Remote Saharan desert region north of Agadez, known for vast dune landscapes
   and the Bilma route.
+nature: 8.6
+leisure: 0.9
+adventure: 9.2
+city_culture: 1.9
+historic_culture: 1.9
 ---
 
 The Ténéré is 500 km north of [Agadez](/africa/niger/agadez) and about 300 km north of the [Aïr Mountains](/africa/niger/airmountains). It has incredibly beautiful sand dune areas, and anyone disappointed by their first desert experiences should absolutely come here — this is the real thing.

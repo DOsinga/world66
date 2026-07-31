@@ -10,6 +10,11 @@ snippet: Northern Portuguese border town on the Tâmega, known for Roman baths, 
   meats, and a Trajan bridge
 title: Chaves
 type: location
+nature: 4.3
+leisure: 5.6
+adventure: 3.8
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Chaves sits in the far north of Portugal, in the Trás-os-Montes region just 12 kilometres from the Spanish border. The town straddles the Tâmega river, crossed by a [Roman bridge — the Ponte de Trajano](/europe/portugal/chaves/roman_bridge) — that has stood here since the 2nd century. The Romans came for the [thermal springs](/europe/portugal/chaves/thermal_baths), and people still do: the hot springs in the centre of town are among the hottest in Europe.

@@ -16,6 +16,11 @@ snippet: Northern Thai provincial city on the Nan River, centered on Wat Yai and
   Naresuan history
 title: Phitsanulok
 type: location
+nature: 3.7
+leisure: 5.3
+adventure: 4.1
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 Phitsanulok is a provincial city 380 kilometres north of Bangkok, and one of the more rewarding stops on the route between Bangkok and Chiang Mai for travellers with an interest in Thai history and Buddhism. The city has almost no foreign tourists, which is both its primary charm and a practical reminder that the infrastructure is built for Thais rather than visitors.

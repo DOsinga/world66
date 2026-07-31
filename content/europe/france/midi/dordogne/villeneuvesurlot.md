@@ -14,6 +14,11 @@ sources:
 - https://en.wikipedia.org/wiki/Villeneuve-sur-Lot
 title: Villeneuve-sur-Lot
 type: location
+nature: 3.3
+leisure: 7.1
+adventure: 2.3
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Villeneuve-sur-Lot is the main town of the eastern Lot-et-Garonne, a bastide laid out in 1264 by Alphonse de Poitiers — Louis IX's brother — and still organised around the right-angled grid he ordered. Twenty-three thousand people live here, in red-brick houses on both sides of the Lot, and although it does not draw the crowds that descend on the more photogenic bastides further north, it has its own settled, unpretentious appeal.

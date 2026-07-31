@@ -14,6 +14,11 @@ snippet: Adriatic resort city with Roman landmarks, sandy beaches, and a histori
   centre behind the waterfront.
 title: Rimini
 type: location
+nature: 4.3
+leisure: 6.3
+adventure: 3.2
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 This crowded beach resort on the Adriatic Sea in northeastern Italy is part of a coastal recreation area that stretches 120 km north–south from Porto Garibaldi to [Cattolica](/europe/italy/emiliaromagna/cattolica). The region offers fine sandy beaches, deep-sea fishing, hot springs, mud baths, water sports, good nightlife, and restaurants.

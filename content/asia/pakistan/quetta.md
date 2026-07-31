@@ -16,6 +16,11 @@ title: Quetta
 type: location
 snippet: High Balochistan capital in a mountain bowl, linked to orchards and the Bolan
   Pass.
+nature: 4.7
+leisure: 2.4
+adventure: 7.3
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Quetta is the capital of Balochistan, Pakistan's largest and least-visited province, set in a high bowl 1,690 metres above sea level and ringed by the brooding peaks of Chiltan, Zarghun and Koh-e-Murdar. The light here is sharp, the air thin, and the surrounding rock turns copper-red at dusk before snow dusts the crests in winter. It is a frontier town in the truest sense — a four-hour drive from the Afghan border at Chaman, a long climb up from the deserts of Sindh through the Bolan Pass, and an entry point to one of the wildest stretches of country in South Asia.

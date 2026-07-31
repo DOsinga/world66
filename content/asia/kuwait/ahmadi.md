@@ -10,6 +10,11 @@ snippet: Kuwaiti oil town of tree-lined avenues and garden suburbs, built by the
   Oil Company.
 title: Ahmadi
 type: location
+nature: 4.6
+leisure: 4.2
+adventure: 5.3
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Ahmadi is Kuwait's oil town, built by the Kuwait Oil Company in the 1940s and named after the ruling Emir at the time. It sits about 40 km south of [Kuwait City](/asia/kuwait/kuwaitcity) and feels like a different world -- tree-lined avenues, small houses with gardens, and a quiet, almost suburban atmosphere that is rare in Kuwait.

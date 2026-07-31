@@ -10,6 +10,11 @@ snippet: Anne Arundel County commuter suburb near BWI, with railroad-era village
   and historic farmhouses.
 title: Linthicum
 type: location
+nature: 4.2
+leisure: 4.1
+adventure: 5.1
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Linthicum, officially Linthicum Heights, is a quiet commuter suburb in Anne Arundel County, Maryland, sitting just north of Baltimore-Washington International Thurgood Marshall Airport (BWI). For most travellers it is a place to sleep before an early flight rather than a destination in its own right — but the village has a long history and a couple of genuine corners worth a look.

@@ -17,6 +17,11 @@ snippet: High-altitude Mexican capital built over Tenochtitlan, centred on the Z
   and layered Aztec-colonial history.
 title: Mexico City
 type: location
+nature: 1.4
+leisure: 8.5
+adventure: 1.6
+city_culture: 8.7
+historic_culture: 8.7
 ---
 
 Mexico City sprawls across the floor of a high mountain valley at 2,240 metres, the political and cultural capital of Mexico and one of the largest urban areas on the planet. Roughly 22 million people live in the metropolitan area, on the same ground where the Aztec capital of Tenochtitlan once rose out of a lake. The Spanish razed the Aztec city in 1521 and built their colonial capital directly on top of it, and you can still see both layers from the central square.

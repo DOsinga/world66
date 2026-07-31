@@ -15,6 +15,11 @@ type: location
 score: 8.73
 snippet: Sacred Shandong mountain long climbed by emperors, associated with Taoist
   cosmology and imperial legitimacy.
+nature: 5.7
+leisure: 5.6
+adventure: 4.3
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Tai Shan is not the highest mountain in China — not even close — but it is the most climbed, the most venerated, and by many reckonings the most important. The five sacred Taoist mountains each represent a cardinal direction, and Tai Shan holds the east, which in Chinese cosmology means it represents birth, spring, and the power to confer legitimacy on rulers. Seventy-two emperors made the ascent to perform the feng and shan sacrifices at the summit; so did Confucius, who reportedly observed from the peak that the world below seemed small. The mountain is a UNESCO World Heritage Site, and the stone-paved staircase to the top is lined with inscriptions, archways, temples, and carved prayers accumulated over three millennia.

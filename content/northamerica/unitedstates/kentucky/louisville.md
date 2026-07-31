@@ -14,6 +14,11 @@ image: louisville.jpg
 image_source: https://www.flickr.com/photos/27119975@N00/21535469791
 image_license: CC BY-SA 2.0
 image_attribution: Edsel L on Flickr
+nature: 2.5
+leisure: 7.3
+adventure: 2.2
+city_culture: 7.7
+historic_culture: 7.7
 ---
 
 Louisville sits at the crossroads of the urban north and the rural south, and it feels like both. The largest city in Kentucky, it has a vibrant music scene, a growing arts community, and a bourbon culture that runs deep — this is the gateway to the Kentucky Bourbon Trail, and distilleries line the downtown [Whiskey Row](/northamerica/unitedstates/kentucky/louisville/whiskey_row).

@@ -14,6 +14,11 @@ title: Kintampo
 snippet: Central Ghanaian town near the country's geographic centre, known for waterfalls
   between forest and savanna.
 type: location
+nature: 5.6
+leisure: 4.3
+adventure: 5.4
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Kintampo is a town in the Bono East Region of central Ghana, roughly halfway between Accra and Tamale and positioned near the [geographic centre of the country](/africa/ghana/kintampo/centre_of_ghana). It sits at a transitional zone between the forest belt to the south and the drier savanna to the north, and this in-between character shapes the landscape around it.

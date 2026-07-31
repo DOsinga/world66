@@ -14,6 +14,11 @@ snippet: Southern Austrian crossroads city on the Drau, with Italy and Slovenia 
   enough to feel
 title: Villach
 type: location
+nature: 5.3
+leisure: 6.2
+adventure: 3.6
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 Villach is Austria's seventh-largest city and the relaxed southern counterpart to [Klagenfurt](/europe/austria/klagenfurt). Sitting where the Drau river meets the Gail valley, it has been a crossroads since Roman times — Italy and Slovenia are both less than an hour away, and you can feel the Mediterranean influence in the architecture, the food, and the pace of life.

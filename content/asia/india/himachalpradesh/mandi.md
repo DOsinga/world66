@@ -13,6 +13,11 @@ score: 7.23
 snippet: Historic Himachal trading town on the Beas, known for old stone temples.
 title: Mandi
 type: location
+nature: 4.8
+leisure: 4.6
+adventure: 4.9
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Mandi sits at around 800 metres on the banks of the river Beas, a historic trading town where the plains of Punjab once met the hill kingdoms. Often called the "Varanasi of the Hills," Mandi is said to have 81 old stone temples, many of them built in the Nagari style with intricate carvings depicting scenes from Hindu mythology. The most important is the Bhootnath Temple near the town centre, dedicated to Shiva.

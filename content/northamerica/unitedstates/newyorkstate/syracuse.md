@@ -16,6 +16,11 @@ snippet: Upstate New York university city known for lake-effect snow, salt histo
   and Syracuse University
 title: Syracuse
 type: location
+nature: 2.3
+leisure: 6.7
+adventure: 2.8
+city_culture: 8.2
+historic_culture: 8.2
 ---
 
 Syracuse is the fourth-largest city in [New York State](/northamerica/unitedstates/newyorkstate) and regularly claims the title of snowiest large city in America, averaging over 120 inches per year thanks to lake-effect storms rolling off Lake Ontario. The city grew rich on salt mining in the 19th century -- it was known as "Salt City" -- and later became an industrial center. Today it is primarily a university town, anchored by Syracuse University on the hill above downtown.

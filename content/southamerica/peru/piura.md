@@ -15,6 +15,11 @@ snippet: Dry northern Peruvian city on the Piura River, founded in 1532 and link
   to independence history.
 title: Piura
 type: location
+nature: 5.5
+leisure: 4.7
+adventure: 5.0
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Founded in 1532, Piura is older than [Lima](/southamerica/peru/lima), the capital of Peru, and holds the distinction of being the first city in Peru to declare independence from [Spain](/europe/spain) in 1821. Located on the banks of the Piura River in the dry north, the city is compact and walkable, with colonial buildings and newer construction centred on several pleasant parks.

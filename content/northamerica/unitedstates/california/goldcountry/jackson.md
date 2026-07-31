@@ -10,6 +10,11 @@ longitude: -120.7741
 score: 6.7
 title: Jackson
 type: location
+nature: 4.5
+leisure: 5.2
+adventure: 4.1
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Jackson is the county seat of Amador County in California's Gold Country, a small town in the Sierra Nevada foothills east of Sacramento. The [main street](/northamerica/unitedstates/california/goldcountry/jackson/jackson_downtown_historic_district) has antique shops and a 19th-century feel. The [Amador County Museum](/northamerica/unitedstates/california/goldcountry/jackson/amador_county_museum), housed in a period home, covers the region's mining history, and the [Kennedy Gold Mine](/northamerica/unitedstates/california/goldcountry/jackson/kennedy_gold_mine) on the edge of town was once the deepest gold mine in North America.

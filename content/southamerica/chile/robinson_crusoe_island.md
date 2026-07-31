@@ -14,6 +14,11 @@ snippet: Remote volcanic island in the Juan Fernandez archipelago, linked to Ale
   Selkirk and Defoe's castaway tale.
 title: Robinson Crusoe Island
 type: location
+nature: 9.2
+leisure: 3.1
+adventure: 7.0
+city_culture: 1.4
+historic_culture: 1.4
 ---
 
 Over 500 km west of [Valparaiso](/southamerica/chile/valparaiso), Robinson Crusoe Island is about as remote as it gets in the South Pacific. Part of the Juan Fernandez archipelago, this volcanic speck has rainforest, sheer cliffs, and dry coastal plains, all packed into an island you could walk across in a day. Around 500 people live here, nearly all in the village of [San Juan Bautista](/southamerica/chile/robinson_crusoe_island/san_juan_bautista).

@@ -13,6 +13,11 @@ title: Tenby
 snippet: Walled Pembrokeshire seaside town, with colourful Georgian streets dropping
   to beaches and harbour.
 type: location
+nature: 4.5
+leisure: 7.8
+adventure: 2.1
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Tenby is a walled medieval town on the Pembrokeshire coast of south-west Wales, built on a headland between two sandy beaches. The old town sits inside the well-preserved [Tenby Town Walls](/europe/unitedkingdom/wales/tenby/tenby_town_walls), its streets lined with colourful Georgian and Victorian houses that drop steeply to [Tenby Harbour](/europe/unitedkingdom/wales/tenby/tenby_harbour). It is genuinely pretty in a way that goes beyond the typical British seaside resort, and the combination of good beaches, an intact old town, and Pembrokeshire Coast National Park all around it makes it a strong destination.

@@ -10,6 +10,11 @@ snippet: Ligurian hill village behind Finale Ligure, set among orchards, olive g
   and a tidy medieval core.
 title: Calice Ligure
 type: location
+nature: 4.9
+leisure: 6.3
+adventure: 3.5
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Calice Ligure is a small hill village in the Ligurian hinterland behind Finale Ligure, set in a valley of peach orchards, olive groves, and vineyards at the foot of the Clavarezza hill. It is the kind of place that rewards a slow detour from the coast: no famous sights, but good rural Ligurian landscape and a tidy medieval core.

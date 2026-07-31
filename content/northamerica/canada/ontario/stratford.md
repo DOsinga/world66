@@ -14,6 +14,11 @@ title: Stratford
 type: location
 snippet: Ontario river city known for the Stratford Festival and classical theatre
   on the Avon.
+nature: 3.4
+leisure: 5.4
+adventure: 3.6
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Stratford is a small Ontario city on the [Avon River](/northamerica/canada/ontario/stratford/avon_river), about 150 km west of Toronto. It is best known for the [Stratford Festival](/northamerica/canada/ontario/stratford/stratford_festival), one of the largest and most respected classical theatre festivals in North America. Running from April to October, the festival stages a dozen or more productions each season across four venues — Shakespeare is the anchor, but the programme ranges from musicals to new Canadian plays.

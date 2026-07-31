@@ -14,6 +14,11 @@ snippet: Far-north Greenland town on Inglefield Bredning, rooted in the relocate
   Thule community
 title: Qaanaaq
 type: location
+nature: 8.5
+leisure: 0.6
+adventure: 9.3
+city_culture: 2.0
+historic_culture: 2.0
 ---
 
 Qaanaaq is one of the northernmost towns in the world, a settlement of about 600 people on the shore of Inglefield Bredning in the far northwest of Greenland. The town was established in 1953 when the inhabitants of the original Thule settlement were relocated to make way for the expansion of the American air base at Pituffik (Thule Air Base), about 100 kilometres to the south.

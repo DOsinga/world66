@@ -11,6 +11,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Yandangshan
 title: Yandang Mountains
 type: location
+nature: 7.8
+leisure: 4.7
+adventure: 5.0
+city_culture: 2.5
+historic_culture: 2.5
 ---
 
 The Yandang Mountains rise abruptly from the coastal plain of southern Zhejiang, seventy kilometres north of Wenzhou, a UNESCO-recognised geopark of volcanic peaks, sheer basalt cliffs, and waterfalls dropping hundreds of metres into narrow gorges. The landscape was formed by four phases of eruptions over 120 million years, and the erosion since has carved the rhyolite into extraordinary shapes — pinnacles, natural arches, and towering rock faces with temples tucked into cave openings halfway up the cliff. It is one of eastern China's most dramatic mountain landscapes, and among the least visited by foreign travellers.

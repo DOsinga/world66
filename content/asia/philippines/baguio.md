@@ -14,6 +14,11 @@ snippet: Cordillera hill station above Luzon, cooled by pine forests and a Filip
   summer-capital tradition.
 title: Baguio
 type: location
+nature: 5.3
+leisure: 5.7
+adventure: 4.0
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Baguio is the Philippines' escape from the heat. Perched at 1,500 meters in the Cordillera mountains of northern Luzon, this pine-scented hill station stays cool when the rest of the country swelters, earning it the nickname "Summer Capital." Filipinos have been coming here to breathe since the Americans built Kennon Road up the mountainside in 1905, and the city still draws crowds every dry season.

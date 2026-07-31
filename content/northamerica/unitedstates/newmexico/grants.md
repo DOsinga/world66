@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/El_Malpais_National_Monument
 title: Grants
 type: location
+nature: 6.6
+leisure: 4.0
+adventure: 5.4
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 Grants is the seat of Cibola County, straddling historic Route 66 between [Albuquerque](/northamerica/unitedstates/newmexico/albuquerque) and [Gallup](/northamerica/unitedstates/newmexico/gallup) on the east side of the Continental Divide. It is a working-class highway town that became the unlikely uranium capital of the world in the 1950s and 1960s — a story told at the [New Mexico Mining Museum](/northamerica/unitedstates/newmexico/grants/new_mexico_mining_museum), the only uranium mining museum anywhere.

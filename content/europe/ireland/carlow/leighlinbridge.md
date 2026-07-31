@@ -14,6 +14,11 @@ snippet: Pretty Carlow village on the River Barrow, watched by a Norman castle a
   medieval bridge.
 title: Leighlinbridge
 type: location
+nature: 4.4
+leisure: 4.5
+adventure: 4.5
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Leighlinbridge is one of the prettiest villages in County Carlow, straddling the River Barrow where the nine-arched [Valerian Bridge](/europe/ireland/carlow/leighlinbridge/valerian_bridge) has crossed since medieval times. The ruins of [Leighlinbridge Castle](/europe/ireland/carlow/leighlinbridge/leighlinbridge_castle) — Black Castle, the Norman fortress built in 1181 — watch over the water from a grassy bank, and a small [Sculpture Garden](/europe/ireland/carlow/leighlinbridge/sculpture_garden) runs along the opposite shore. The [River Barrow](/europe/ireland/carlow/leighlinbridge/river_barrow) itself is navigable and popular with kayakers and anglers.

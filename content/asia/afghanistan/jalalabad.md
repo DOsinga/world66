@@ -12,6 +12,11 @@ title: Jalalabad
 type: location
 snippet: Eastern Afghan city on the Kabul-Khyber road, known for its green winter
   climate and orange groves.
+nature: 6.3
+leisure: 0.9
+adventure: 9.2
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 **Note:** Afghanistan has been under Taliban rule since 2021. Travel is not recommended for most foreign nationals. This page documents Jalalabad for historical reference and for future conditions.

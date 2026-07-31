@@ -14,6 +14,11 @@ title: '''Eua'
 type: location
 snippet: Tonga's oldest and most rugged island, with forested hills, sea cliffs, and
   national park trails.
+nature: 8.5
+leisure: 4.5
+adventure: 5.3
+city_culture: 1.7
+historic_culture: 1.7
 ---
 
 'Eua is Tonga's oldest island geologically, and its most rugged. Where the rest of Tonga is flat limestone, 'Eua has real hills — forested, cut through with walking tracks, and edged with sea cliffs that drop directly into the ocean on the east coast. It's 35km long and just 8km wide, and sits about 40km southeast of Tongatapu.

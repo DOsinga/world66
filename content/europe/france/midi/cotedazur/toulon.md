@@ -14,6 +14,11 @@ snippet: Working naval city on the Côte d'Azur, with a rough-edged port and Med
   fleet.
 title: Toulon
 type: location
+nature: 4.0
+leisure: 7.4
+adventure: 2.3
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Toulon is a working naval city on the western edge of the Cote d'Azur, home to France's Mediterranean fleet and refreshingly free of the polished tourism that defines [Nice](/europe/france/midi/cotedazur/nice) and [Cannes](/europe/france/midi/cotedazur/cannes). The old port is lively and a bit rough around the edges — the morning fish market on the Quai Cronstadt is excellent, and the narrow streets behind it are full of small restaurants and bars that cater to locals rather than visitors.

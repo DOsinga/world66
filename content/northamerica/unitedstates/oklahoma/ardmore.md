@@ -10,6 +10,11 @@ snippet: South-central Oklahoma railroad city between Oklahoma City and Dallas, 
   Arbuckle hills, springs, and Lake Murray.
 title: Ardmore
 type: location
+nature: 3.9
+leisure: 5.1
+adventure: 3.9
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Ardmore sits in south-central Oklahoma, roughly halfway between Oklahoma City and Dallas on I-35. Founded in 1887 and named after a town on the Pennsylvania Railroad line, it grew as a railroad and later oil town. Today it serves mainly as a regional center and a base for exploring the surrounding lakes and hills.

@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Acronauplia
 title: Nafplio
 type: location
+nature: 3.8
+leisure: 7.6
+adventure: 2.3
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Nafplio is the most attractive town in the Peloponnese and one of the prettiest small towns in Greece. The setting does most of the work: a neat grid of pastel neoclassical houses pressed between the sea and a sheer rock face, the clifftop [Palamidi Fortress](/europe/greece/nafplio/palamidi_fortress) looking down on it, and the [Bourtzi](/europe/greece/nafplio/bourtzi) — a Venetian water-castle on its own islet — floating in the bay. Everything significant is walkable; the [old town](/europe/greece/nafplio/old_town) is small enough to cover in an afternoon and rewarding enough to stay several days.

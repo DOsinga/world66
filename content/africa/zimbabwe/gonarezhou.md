@@ -18,6 +18,11 @@ sources:
 - https://zimfieldguide.com/masvingo/gonarezhou-national-park
 title: Gonarezhou
 type: location
+nature: 8.7
+leisure: 2.1
+adventure: 7.4
+city_culture: 1.2
+historic_culture: 1.2
 ---
 
 Gonarezhou — the name means "place of many elephants" in Shona — is Zimbabwe's second largest national park and arguably its wildest. Sprawling across 5,000 square kilometres of the southeastern lowveld, it sits at the junction of Zimbabwe, Mozambique, and South Africa, forming part of the vast Great Limpopo Transfrontier Park. It sees a fraction of the visitors that Hwange attracts, which is precisely its appeal.

@@ -13,6 +13,11 @@ image: lugu_lake.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lugu_Lake_from_Lige_Observation_Deck_(20230930180236).jpg
 image_license: CC BY-SA 4.0
 image_attribution: N509FZ
+nature: 7.3
+leisure: 5.3
+adventure: 4.6
+city_culture: 2.9
+historic_culture: 2.9
 ---
 
 Lugu Lake sits high in the mountains on the border between Yunnan and Sichuan provinces, about five hours by road from [Lijiang](/asia/china/yunnanprovince/lijiang). The lake is stunningly beautiful — clear water surrounded by forested mountains — and is home to the Mosuo people, one of the last matrilineal societies in China. Mosuo culture, in which women head the household and inheritance passes through the mother's line, has survived largely intact despite growing outside attention.

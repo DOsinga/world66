@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/Okanogan,_Washington
 title: Okanogan
 type: location
+nature: 6.7
+leisure: 4.2
+adventure: 5.1
+city_culture: 3.2
+historic_culture: 3.2
 ---
 
 Okanogan is the county seat of its vast namesake county in north-central Washington, a small town that serves as the gateway to some of the state's most remote and least-visited landscape. The Okanogan Valley stretches north to the Canadian border, with apple orchards, cattle ranches and open sagebrush hills on either side. The county is enormous — larger than some US states — and its economy still runs on apples, timber and ranching.

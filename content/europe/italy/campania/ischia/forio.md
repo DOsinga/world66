@@ -14,6 +14,11 @@ title: Forio
 snippet: Western Ischia town of whitewashed lanes, watchtowers, beaches, vineyards,
   and sunset views from Soccorso church.
 type: location
+nature: 4.8
+leisure: 6.4
+adventure: 3.2
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Forio is the second-largest town on [Ischia](/europe/italy/campania/ischia), spread along the western coast between two promontories with some of the island's best beaches and vineyards. It has the best-preserved historic centre on the island — a tight network of whitewashed lanes, watchtowers, and churches that has barely changed in centuries.

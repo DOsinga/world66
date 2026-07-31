@@ -10,6 +10,11 @@ title: Livingston
 type: location
 snippet: Boat-only Garífuna town at the Río Dulce mouth, with Caribbean music, food,
   and jungle river approaches.
+nature: 5.8
+leisure: 4.8
+adventure: 4.9
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Livingston is unlike anywhere else in Guatemala. A Garífuna town on the Caribbean coast, it is accessible only by boat — there are no roads in or out — which gives it a pleasantly stranded, tropical atmosphere. The Garífuna are descendants of Afro-Caribbean and indigenous Arawak people, and their culture, language, music, and food are distinct from the rest of the country.

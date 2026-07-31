@@ -14,6 +14,11 @@ snippet: Northern Rajasthan agricultural town near Kalibangan's Indus Valley rui
   and Bhatner Fort.
 title: Hanumangarh
 type: location
+nature: 4.3
+leisure: 4.1
+adventure: 5.2
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Hanumangarh is an agricultural town in northern Rajasthan near the Punjab border. It is best known for the [Kalibangan archaeological site](/asia/india/rajasthan/hanumangarh/kalibangan), one of the most important Indus Valley Civilization excavation sites in India, located about 30 km south of town. The ruins date back to around 3000 BCE and include evidence of the earliest known ploughed field in the world.

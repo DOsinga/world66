@@ -14,6 +14,11 @@ snippet: Sacred Rajasthan town around Pushkar Lake, known for Brahma Temple, gha
   and its camel fair.
 title: Pushkar
 type: location
+nature: 2.6
+leisure: 6.2
+adventure: 3.5
+city_culture: 8.2
+historic_culture: 8.2
 ---
 
 Pushkar is a tiny, atmospheric town built around a sacred [Pushkar Lake](/asia/india/rajasthan/pushkar/pushkar_lake), just 15 km from [Ajmer](/asia/india/rajasthan/ajmer). It is one of the holiest sites in Hinduism, home to the [Brahma Temple](/asia/india/rajasthan/pushkar/brahma_temple) — one of the very few temples in India dedicated to Lord Brahma. Over fifty ghats (stepped bathing areas) line the lake, and the town has a devout, vegetarian character — no meat, eggs, or alcohol are sold in the old town centre.

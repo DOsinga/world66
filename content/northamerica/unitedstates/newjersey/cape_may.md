@@ -13,6 +13,11 @@ snippet: Victorian seaside resort at New Jersey's southern tip, with landmark ho
   and broad Atlantic beaches.
 title: Cape May
 type: location
+nature: 4.4
+leisure: 6.5
+adventure: 3.0
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Cape May sits at the very southern tip of New Jersey, where the Delaware Bay meets the Atlantic. It is one of the oldest seaside resorts in the United States — presidents from Lincoln to Harrison holidayed here — and the entire town is a National Historic Landmark district, packed with elaborate Victorian houses painted in bright colours.

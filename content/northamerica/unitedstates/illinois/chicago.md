@@ -16,6 +16,11 @@ snippet: Major Great Lakes city known for pioneering skyscraper architecture, de
   neighbourhood culture, and a broad Lake Michigan waterfront.
 title: Chicago
 type: location
+nature: 2.1
+leisure: 6.7
+adventure: 3.1
+city_culture: 7.7
+historic_culture: 7.7
 ---
 
 Chicago is one of the great American cities, and unlike New York or Los Angeles, it still feels like a surprise to many visitors. The skyline alone is worth the trip -- this is where the skyscraper was invented, and the downtown Loop remains an open-air museum of architectural ambition from the 1880s to the present day.

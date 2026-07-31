@@ -10,6 +10,11 @@ snippet: Northern Thai market village among karst hills, known for Tham Lot and 
   hilltribe culture.
 title: Soppong
 type: location
+nature: 7.6
+leisure: 4.6
+adventure: 5.3
+city_culture: 2.4
+historic_culture: 2.4
 ---
 
 Soppong (also called Pang Mapha) is a small traditional market village on the road between Pai and Mae Hong Son in northern Thailand. It sits at 750 metres elevation on a small river, surrounded by forested karst hills. Residents are mostly Shan and hilltribe people, and it sees far fewer tourists than nearby Pai while offering more natural attractions.

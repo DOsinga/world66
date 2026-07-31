@@ -14,6 +14,11 @@ snippet: Shannon-side Irish city with a restored medieval core and a confident s
   scene.
 title: Limerick
 type: location
+nature: 3.1
+leisure: 7.0
+adventure: 2.2
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Limerick is Ireland's third-largest city, set on the River Shannon where the river widens toward its estuary on the west coast. Its reputation has rebounded in the last decade or two — from Frank McCourt's bleak memoir *Angela's Ashes*, which the city mostly prefers to forget, to a confident, student-inflected place with a good food scene and a restored medieval heart. It is also the main gateway to the west of Ireland if you're flying into Shannon Airport, and a natural stop between Dublin and Galway or Killarney.

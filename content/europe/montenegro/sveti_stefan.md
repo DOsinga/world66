@@ -13,6 +13,11 @@ snippet: Montenegrin coastal village facing a fortified island joined to shore b
   a narrow sandy causeway
 title: Sveti Stefan
 type: location
+nature: 4.9
+leisure: 7.7
+adventure: 2.3
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Sveti Stefan is the most photographed spot in Montenegro — a turreted medieval village on a small island, connected to the shore by a narrow sandy causeway, with pink-sand beaches on both sides. If you've seen a postcard of Montenegro, this is probably it.

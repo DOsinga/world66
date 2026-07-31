@@ -14,6 +14,11 @@ snippet: Cycladic island of marble villages, ferry harbours, and broad beaches b
   Naxos and Antiparos
 title: Paros
 type: location
+nature: 4.3
+leisure: 8.3
+adventure: 1.7
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Paros is one of the Cyclades islands that manages to sit in a sweet spot: popular enough to have good ferry connections and decent tavernas, but not so overrun as [Mykonos](/europe/greece/mykonos) or [Santorini](/europe/greece/santorini). The island has fine beaches, a handful of genuinely interesting villages, and enough character to hold your attention for several days.

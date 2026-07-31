@@ -10,6 +10,11 @@ snippet: Cumbrian market town near the Lake District, known for limestone lanes 
   Kendal Mint Cake.
 title: Kendal
 type: location
+nature: 4.5
+leisure: 5.7
+adventure: 3.7
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Kendal used to be a major stopping point for traffic heading south to the [Lake District](/europe/unitedkingdom/england/manchester_liverpool_and_north_west/lakedistrict). Now it is bypassed by a major dual carriageway and, being somewhat easier to navigate, can be enjoyed for its own sake.

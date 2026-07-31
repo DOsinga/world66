@@ -7,6 +7,11 @@ snippet: Kosovar mountain-valley city where Ottoman mosques, Byzantine churches,
   stone streets crowd the Lumbardhi River
 title: Prizren
 type: location
+nature: 3.7
+leisure: 4.7
+adventure: 5.0
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Prizren is Kosovo's most beautiful and historically layered city, sitting in a mountain valley in the southwest where the Lumbardhi River cuts through the Šar Mountains. It has been a market town and cultural centre for over a thousand years, and the old city's mix of Ottoman mosques, Byzantine churches, and stone-paved streets is unlike anywhere else in the Western Balkans.

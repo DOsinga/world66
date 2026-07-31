@@ -13,6 +13,11 @@ snippet: Limburg municipality on the Meuse, known for outlet shopping and access
   Hoge Kempen heathland
 title: Maasmechelen
 type: location
+nature: 4.2
+leisure: 4.3
+adventure: 4.8
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Maasmechelen is a municipality in the Belgian province of Limburg, on the Meuse river not far from the Dutch and German borders. The area is best known as a shopping destination — Maasmechelen Village is one of Belgium's major outlet shopping centres, drawing visitors from across the region. Beyond retail, the surrounding Hoge Kempen National Park offers walking and cycling through heathland and forest, making it a reasonable base for outdoor exploration in Belgian Limburg.

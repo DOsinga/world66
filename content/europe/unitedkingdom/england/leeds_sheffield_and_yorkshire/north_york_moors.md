@@ -14,6 +14,11 @@ image: north_york_moors.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cleveland-Way-North-York-Moors.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Kreuzschnabel
+nature: 4.2
+leisure: 4.9
+adventure: 4.7
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 The North York Moors National Park covers roughly 550 square miles of upland moorland, wooded valleys, and dramatic coastline in northeast Yorkshire. It is one of two national parks in Yorkshire — the other being the [Yorkshire Dales](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/yorkshire_dales) — but the two feel quite different. The Moors are wilder and more austere, their heather-blanketed plateaus stretching unbroken to clifftop edges above the North Sea.

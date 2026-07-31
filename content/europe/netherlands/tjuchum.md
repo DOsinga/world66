@@ -9,6 +9,11 @@ snippet: Tiny Groningen village known for an incongruous Lenin statue standing i
   a private garden.
 title: Tjuchem
 type: location
+nature: 4.5
+leisure: 3.5
+adventure: 5.5
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Tjuchem is a tiny village in the Groningen countryside, east of the city of [Groningen](/europe/netherlands/groningen). Its main claim to fame is a nine-metre-high [Lenin Statue](/europe/netherlands/tjuchum/lenin_statue), brought here from eastern Germany after reunification. The statue stands in a private garden, visible from the road, and feels wonderfully incongruous in the flat Dutch farmland. This part of Groningen has had left-wing sympathies for generations — the peat workers and farm labourers of the region were among the earliest supporters of communism in the Netherlands.

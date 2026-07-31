@@ -14,6 +14,11 @@ snippet: Finnish lakeland village near Savonlinna, home to the vast wooden Kerim
   Church.
 title: Kerimaki
 type: location
+nature: 5.2
+leisure: 4.7
+adventure: 4.5
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Kerimäki is a small Finnish village in the Saimaa lake district, a short bus ride from [Savonlinna](/europe/finland/savonlinna). Its claim to fame sounds unlikely — [the world's largest wooden church](/europe/finland/kerimaki/kerimaki_church) — but the building delivers. Completed in 1847 to hold a congregation of 3,000 (the parish was overcrowded and couldn't afford stone), it's an extraordinary piece of carpentry: vast, pale, and austere inside, with a logic to its scale once you understand the history. The fact that nobody quite solved the heating problem back then only adds to the story.

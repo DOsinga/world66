@@ -14,6 +14,11 @@ snippet: Hertfordshire market town with a preserved medieval street plan and han
   Market Place north of London.
 title: Hitchin
 type: location
+nature: 3.6
+leisure: 5.3
+adventure: 3.7
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Hitchin is a well-preserved market town in Hertfordshire, about 35 miles north of London. Its medieval street plan survives largely intact, centred on a handsome [Market Place](/europe/unitedkingdom/england/eastern_england/hitchin/market_place) that still hosts a twice-weekly market under the watch of the Italianate [Corn Exchange](/europe/unitedkingdom/england/eastern_england/hitchin/corn_exchange) clock tower. The town has an active independent shopping scene — coffee shops, bookshops, and delis tucked into buildings that go back centuries — alongside the usual high street chains.

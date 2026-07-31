@@ -13,6 +13,11 @@ score: 7.99
 snippet: Small Dadès Valley town at the mouth of Morocco's red-rock gorge country.
 title: Boumalne Dadès
 type: location
+nature: 7.0
+leisure: 4.5
+adventure: 5.4
+city_culture: 3.1
+historic_culture: 3.1
 ---
 
 Boumalne Dadès sits at the mouth of one of Morocco's most dramatic landscapes: the Dadès Gorge, a canyon of sculpted red rock that cuts north into the High Atlas. The town itself is small and unpretentious — a single main street, a few cheap hotels, and a market square — but its position makes it one of the more rewarding stops on the road between Ouarzazate and Tinghir.

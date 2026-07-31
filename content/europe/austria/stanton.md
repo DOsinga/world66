@@ -13,6 +13,11 @@ snippet: Arlberg ski village with a British tradition and demanding off-piste te
   below the Valluga
 title: St. Anton
 type: location
+nature: 4.3
+leisure: 4.4
+adventure: 4.9
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Non-stop on- and off-slope action in a compact village base. St. Anton has, along with Wengen and Mürren, a strong British tradition. From the 1920s, successive generations learned to ski here, adopting the distinctive feet-together Arlberg style. Sir Arnold Lunn helped start the Kandahar race here in 1928, and the resort has remained a draw for serious British skiers ever since.

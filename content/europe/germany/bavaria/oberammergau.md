@@ -14,6 +14,11 @@ title: Oberammergau
 snippet: Bavarian Alpine village known for its ten-year Passion Play and painted Lüftlmalerei
   facades.
 type: location
+nature: 3.7
+leisure: 5.2
+adventure: 4.4
+city_culture: 7.1
+historic_culture: 7.1
 ---
 
 Oberammergau is a small Bavarian village in the Ammer valley, set among Alpine meadows about 90 km south of Munich. It is known across the world for its [Passion Play](/europe/germany/bavaria/oberammergau/passion_play_theatre), performed every ten years since 1634 when the village made a vow to God after being spared from the plague. About half the population takes part as cast or crew; the production runs from May to October in the play's appointed year and fills the village with visitors from around the world.

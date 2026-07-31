@@ -14,6 +14,11 @@ snippet: Navajo Nation town near the Shiprock pinnacle, with a major annual fair
   Four Corners desert landscapes.
 title: Shiprock
 type: location
+nature: 5.2
+leisure: 3.8
+adventure: 5.7
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 In Navajo it is "Naatʼáanii Néez", or "Tall Leader". Home to a famous annual fair and located near a mythical landmark, Shiprock is a sprawling Navajo Nation community in the four corners region. Plenty of fast food restaurants and service stations await the weary traveler, but there is no lodging, despite years of attempts by the local Navajos to get a motel project constructed. Maybe one day this will happen. Nearby Farmington has plenty of lodging for those interested in staying in the area.

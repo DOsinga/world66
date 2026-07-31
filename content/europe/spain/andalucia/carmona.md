@@ -13,6 +13,11 @@ title: Carmona
 snippet: Andalusian ridge town east of Seville, with Roman and Moorish walls and a
   remarkable necropolis
 type: location
+nature: 3.2
+leisure: 7.0
+adventure: 2.4
+city_culture: 7.0
+historic_culture: 7.0
 ---
 
 Carmona sits on a ridge above the Corbones plain, 33km east of [Seville](/europe/spain/andalucia/seville), and it is one of the most rewarding day trips — or overnight stops — in Andalucía. The old town is compact and unhurried, ringed by sections of Roman and Moorish walls, and largely untouched by the tourist machinery that runs at full speed along the coast.

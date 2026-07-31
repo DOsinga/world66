@@ -14,6 +14,11 @@ snippet: Steep Guerrero silver town of whitewashed lanes, terracotta roofs, and 
   Prisca's baroque church.
 title: Taxco
 type: location
+nature: 3.4
+leisure: 6.5
+adventure: 3.1
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Taxco clings to a steep hillside in the Sierra Madre del Sur, about three hours south of Mexico City. Its narrow cobblestone streets wind past whitewashed buildings with terracotta roofs, all of it cascading down toward the ornate church of Santa Prisca in the central plaza. The town has been producing silver since the colonial era and still calls itself the Silver Capital of Mexico, a claim backed by the hundreds of silver shops lining every street.

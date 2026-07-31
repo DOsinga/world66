@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Dandong
 title: Dandong
 type: location
+nature: 4.3
+leisure: 3.7
+adventure: 5.5
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Dandong occupies one of the strangest positions in Asia: a prosperous, unremarkable Chinese city pressed up against the Yalu River, looking directly across at North Korea. The border is the attraction. From the riverfront promenade you can watch Sinuiju through binoculars — the low buildings, the occasional truck on an empty road, the lights that go out at night — and the contrast with the neon and noise on your side of the water is jarring in a way that no museum can replicate.

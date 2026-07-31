@@ -11,6 +11,11 @@ snippet: Quito-edge Ecuadorian town famous for hand-painted bread dough figurine
   made in family workshops.
 title: Calderón
 type: location
+nature: 6.4
+leisure: 4.6
+adventure: 4.9
+city_culture: 3.2
+historic_culture: 3.2
 ---
 
 Calderón is a small town on the northern outskirts of [Quito](/southamerica/ecuador/quito), famous throughout Ecuador for its [bread dough figurines](/southamerica/ecuador/calderon/bread_dough_figuri) — a craft tradition that goes back centuries and is still very much alive. The figures are made by hand from a dough of flour, salt, and glue, then painted in vivid colours and varnished so they last indefinitely. You will find them everywhere: nativity scenes, miniature musicians, animals, folkloric characters.

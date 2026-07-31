@@ -14,6 +14,11 @@ sources:
 - https://www.travelalaska.com/destinations/cities-towns/wrangell
 title: Ormond Beach
 type: location
+nature: 5.6
+leisure: 5.4
+adventure: 3.9
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 Ormond Beach sits at the north end of the Daytona Beach area on Florida's Atlantic coast, where the Halifax River runs behind the barrier island. It is quieter and more residential than Daytona itself — beach driving is not permitted north of Granada Boulevard, which keeps the northern strand in better shape — and it has a legitimate claim to being a place of historical importance in its own right rather than simply Daytona's northern neighbour.

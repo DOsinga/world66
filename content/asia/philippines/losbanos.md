@@ -13,6 +13,11 @@ snippet: Lakeside Philippine university town at Mount Makiling’s foot, named f
   volcanic hot springs.
 title: Los Banos
 type: location
+nature: 5.0
+leisure: 4.4
+adventure: 4.8
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Los Baños sits about 65 kilometres south of Manila on the south shore of [Laguna de Bay](/asia/philippines/losbanos/laguna_de_bay), nestled at the foot of the dormant volcano [Mount Makiling](/asia/philippines/losbanos/mount_makiling). The name means "The Baths," and the town earns it: numerous spas draw on [thermal springs](/asia/philippines/losbanos/hot_springs) that bubble up from the volcanic ground beneath.

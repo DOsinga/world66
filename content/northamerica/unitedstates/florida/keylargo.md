@@ -13,6 +13,11 @@ title: Key Largo
 snippet: First island of the Florida Keys, known for coral reefs, mangroves, and easy
   mainland access
 type: location
+nature: 5.3
+leisure: 7.9
+adventure: 2.0
+city_culture: 3.3
+historic_culture: 3.3
 ---
 
 Key Largo is the first and largest island in the [Florida Keys](/northamerica/unitedstates/florida/floridakeys), a 120-mile chain of coral and limestone islands stretching southwest from the mainland into the Gulf of Mexico and Atlantic Ocean. Often called the "Diving Capital of the World," Key Largo sits alongside the only living coral barrier reef in the continental United States.

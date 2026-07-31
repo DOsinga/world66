@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Huguenot_Street_Historic_District
 title: New Paltz
 type: location
+nature: 4.0
+leisure: 5.9
+adventure: 3.4
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 New Paltz is a small college town in the Mid-Hudson Valley, about 90 miles north of New York City, with an outsized reputation as an outdoor destination. The [Shawangunk Ridge](/northamerica/unitedstates/newyorkstate/new_paltz/mohonk_preserve) sits directly to the west, offering some of the finest crack climbing in the eastern United States and a network of hiking trails and carriage roads through protected wilderness. [Minnewaska State Park Preserve](/northamerica/unitedstates/newyorkstate/new_paltz/minnewaska_state_park) and [Mohonk Preserve](/northamerica/unitedstates/newyorkstate/new_paltz/mohonk_preserve) together protect tens of thousands of acres of ridge and valley — the kind of landscape that makes people move here and then stay for decades.

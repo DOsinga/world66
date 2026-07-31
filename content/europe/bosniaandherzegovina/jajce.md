@@ -9,6 +9,11 @@ snippet: Medieval Bosnian walled town where the Pliva River waterfall drops belo
   the fortress.
 title: Jajce
 type: location
+nature: 5.2
+leisure: 5.0
+adventure: 4.6
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 About 150 km northwest of [Sarajevo](/europe/bosniaandherzegovina/sarajevo), Jajce is a medieval walled town built around a hilltop fortress where the Pliva River meets the Vrbas. It is best known for two things: a spectacular 20-metre waterfall right in the centre of town, and its role in Yugoslav history — the Socialist Federal Republic of Yugoslavia was formally founded here in 1943 at the Second Session of AVNOJ.

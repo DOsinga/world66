@@ -9,6 +9,11 @@ snippet: Rural Konkan village of laterite houses, coconut palms, rice paddies, a
   monsoon-green hills.
 title: Madhegaon Kond
 type: location
+nature: 6.2
+leisure: 4.5
+adventure: 5.1
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 Madhegaon Kond is a small village in the [Konkan](/asia/india/maharashtra/konkan) coast region of [Maharashtra](/asia/india/maharashtra), set among the green hills and rice paddies that characterize this stretch of western India. The village is typical of rural Konkan — red laterite houses, coconut palms, and a pace of life that makes Mumbai feel like another planet.

@@ -14,6 +14,11 @@ image: churchill.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Belugaschule_1999-07-02.jpg
 image_license: CC BY 2.5
 image_attribution: Ansgar Walk
+nature: 9.2
+leisure: 3.3
+adventure: 6.6
+city_culture: 1.5
+historic_culture: 1.5
 ---
 
 Churchill sits on the western shore of Hudson Bay in northern Manitoba, accessible only by train, plane, or — in winter — ice road. With a population of barely a thousand, it is one of the most remote towns in Canada, but it draws visitors from around the world for three extraordinary wildlife experiences.

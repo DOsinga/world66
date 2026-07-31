@@ -16,6 +16,11 @@ sources:
 title: Exmouth
 type: location
 score: 7.8
+nature: 5.7
+leisure: 5.7
+adventure: 3.9
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 Exmouth is the rough-edged northern base for Ningaloo: a small service town on the North West Cape, closer to reef, red ranges, and empty coastline than to any big city. It has more infrastructure than [Coral Bay](/australiaandpacific/australia/westernaustralia/coral_bay), but it is still remote enough that you feel the distance from Perth in the heat, the prices, and the long roads in every direction.

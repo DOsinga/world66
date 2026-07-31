@@ -14,6 +14,11 @@ snippet: Northeastern Kyushu prefecture known for Beppu's prolific hot springs a
   the Kunisaki Peninsula's temples.
 title: Oita
 type: location
+nature: 3.9
+leisure: 5.6
+adventure: 3.8
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Oita Prefecture occupies the northeastern corner of [Kyushu](/asia/japan/kyushu) and is Japan's hot spring capital. [Beppu](/asia/japan/kyushu/beppu), on the coast, produces more hot spring water than anywhere else in the country — steam rises from drains, hillsides, and hotel lobbies. The "hells" (jigoku) are boiling pools of vivid blue, red, and grey that you look at rather than bathe in, but the city has hundreds of public baths where you can soak for a few hundred yen.

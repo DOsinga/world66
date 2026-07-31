@@ -14,6 +14,11 @@ snippet: Iranian pilgrimage city built around Imam Reza's shrine, the sacred hea
   of Khorasan.
 title: Mashhad
 type: location
+nature: 3.3
+leisure: 4.2
+adventure: 5.6
+city_culture: 7.8
+historic_culture: 7.8
 ---
 
 Mashhad is the holiest city in Iran, tucked into the mountainous northeast corner of the country in the region known as Khorasan. The name means "place of martyrdom" — the martyr in question is Imam Reza, the eighth Shia imam, who was poisoned here in the 9th century. His tomb became a sacred place of pilgrimage, and today millions of Iranians visit the shrine each year, arriving by the tens of thousands daily on flights, trains, and buses.

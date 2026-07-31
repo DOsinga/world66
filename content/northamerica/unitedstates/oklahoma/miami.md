@@ -14,6 +14,11 @@ snippet: Northeastern Oklahoma Route 66 town with Indigenous history and several
   headquarters in Ottawa County.
 title: Miami
 type: location
+nature: 4.6
+leisure: 4.7
+adventure: 4.3
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Miami — pronounced "My-AM-uh" by the locals, not like the Florida city — sits in the far northeast corner of Oklahoma, right on historic Route 66. With a population of around 14,000, it is one of the first Route 66 towns you hit when entering the state from the east, and it carries that roadside heritage proudly.

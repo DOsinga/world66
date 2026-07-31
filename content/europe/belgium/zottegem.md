@@ -14,6 +14,11 @@ snippet: East Flanders town at the edge of the Flemish Ardennes, tied to cycling
   Egmont history.
 title: Zottegem
 type: location
+nature: 4.1
+leisure: 4.6
+adventure: 4.7
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Zottegem is a small town about 25 kilometres south of [Ghent](/europe/belgium/ghent) in East Flanders, at the northern edge of the Flemish Ardennes — the rolling hills that make this part of Belgium a favourite with road cyclists. The spring classics pass through here, and the surrounding lanes are excellent for riding year-round.

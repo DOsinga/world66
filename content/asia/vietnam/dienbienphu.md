@@ -14,6 +14,11 @@ snippet: Northwest Vietnamese valley town known for the 1954 battle that ended F
   colonial rule in Indochina.
 title: Dien Bien Phu
 type: location
+nature: 4.9
+leisure: 4.7
+adventure: 5.0
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Dien Bien Phu is a small town in the northwest corner of Vietnam, set in a beautiful valley near the Laotian border. It is best known as the site of the decisive battle that ended French colonial rule in Indochina. In May 1954, Vietnamese forces besieged and destroyed the French garrison here — a defeat that led directly to the Geneva Accords and the French withdrawal from Indochina. The valley where the battle took place is still dotted with memorials, preserved fortifications, and the remnants of the French positions.

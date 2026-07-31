@@ -14,6 +14,11 @@ title: Scotts Bluff
 type: location
 snippet: Nebraska Panhandle city below a sandstone bluff that marked the Oregon, California,
   and Mormon trails.
+nature: 5.1
+leisure: 4.1
+adventure: 5.1
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Scotts Bluff sits in the western Nebraska Panhandle on the North Platte River, best known for the dramatic sandstone formation that towers 800 feet above the valley and gave both the city and the national monument their names. The bluff was one of the most recognisable landmarks on the 19th-century emigrant trails — the Oregon, California, and Mormon trails all converged here, passing through [Mitchell Pass](/northamerica/unitedstates/nebraska/scottsbluff/mitchell_pass) in its shadow.

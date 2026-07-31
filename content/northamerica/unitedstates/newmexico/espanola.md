@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Espa%C3%B1ola,_New_Mexico
 title: Española
 type: location
+nature: 5.0
+leisure: 5.2
+adventure: 4.2
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 If you have been in New Mexico for any amount of time, you will have heard the cruel jokes locals tell about Española. Ignore them — this is actually a pretty interesting town sitting in a beautiful valley at the [confluence of the Rio Grande and Rio Chama](/northamerica/unitedstates/newmexico/espanola/rio_grande_confluence), surrounded by some of the most historically layered landscape in the American Southwest.

@@ -25,6 +25,11 @@ snippet: Rocky Mountain park town surrounded by Canada's first national park, ho
   springs, elk, and alpine peaks
 type: location
 loc_type: city
+nature: 6.7
+leisure: 7.4
+adventure: 2.6
+city_culture: 2.3
+historic_culture: 2.3
 ---
 
 Banff is the most visited national park in Canada and one of the most spectacular mountain towns in the world. The town of roughly 8,000 permanent residents sits in a wide valley at 1,383 metres (4,537 ft) elevation, surrounded on all sides by the Canadian Rockies. Elk wander the streets in the early morning, bears cross the highway in autumn, and the mountains are never out of sight.

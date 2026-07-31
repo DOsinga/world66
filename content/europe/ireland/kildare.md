@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Irish_National_Stud
 title: Kildare
 type: location
+nature: 3.9
+leisure: 5.7
+adventure: 3.4
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 County Kildare sits just west of [Dublin](/europe/ireland/dublin), close enough to be commuter territory but with a distinctly rural character of its own. This is horse country — the Curragh, a vast expanse of open grassland, is home to Ireland's premier racecourse and the heart of the Irish thoroughbred industry. The Irish National Stud and its beautiful Japanese Gardens in Kildare town are well worth a visit.

@@ -14,6 +14,11 @@ title: Puerto Viejo de Talamanca
 type: location
 snippet: South Caribbean beach town with sandy streets, reggae rhythms, and Afro-Caribbean
   and Bribri roots.
+nature: 5.8
+leisure: 7.3
+adventure: 2.6
+city_culture: 3.1
+historic_culture: 3.1
 ---
 
 Puerto Viejo de Talamanca is the beating heart of Costa Rica's South Caribbean coast, a small, sandy-streeted town where reggae drifts from beach bars and the pace of life matches the slow roll of the waves. The atmosphere is relaxed and multicultural — Afro-Caribbean, indigenous Bribri, and expat communities all mix here.

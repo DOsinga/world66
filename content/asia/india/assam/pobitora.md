@@ -14,6 +14,11 @@ snippet: Compact Assam wildlife sanctuary on Brahmaputra floodplains, noted for 
   one-horned rhinoceros habitat.
 title: Pobitora
 type: location
+nature: 7.8
+leisure: 4.7
+adventure: 5.0
+city_culture: 2.0
+historic_culture: 2.0
 ---
 
 Pobitora Wildlife Sanctuary lies about 50 kilometres east of Guwahati, on the floodplains south of the Brahmaputra. Its roughly 38 square kilometres support what is often described as the highest density of Indian one-horned rhinoceroses in the world — around 100 rhinos in a compact area that makes sightings at the [Pobitora Wildlife Sanctuary](/asia/india/assam/pobitora/pobitora_wildlife_sanctuary) almost guaranteed.

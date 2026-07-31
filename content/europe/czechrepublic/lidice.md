@@ -14,6 +14,11 @@ snippet: Czech village west of Prague, remembered for its 1942 destruction and m
   landscape.
 title: Lidice
 type: location
+nature: 3.7
+leisure: 4.9
+adventure: 4.2
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Lidice is a village about 20 km west of [Prague](/europe/czechrepublic/prague) with one of the most sobering histories in Europe. In May 1942, Czech paratroopers trained in Britain assassinated Reinhard Heydrich, the Nazi Reich Protector of Bohemia and Moravia, in Prague. In reprisal, the Nazis chose Lidice at random for collective punishment. On 10 June 1942, all 173 men and boys over 15 were shot against the wall of the [Horák family farm](/europe/czechrepublic/lidice/horak_farm). The women were sent to Ravensbrück concentration camp. The children were mostly gassed at Chełmno. The village was then burned, the rubble bulldozed, and the ground ploughed over.

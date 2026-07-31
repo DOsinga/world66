@@ -18,6 +18,11 @@ sources:
 - https://en.wikipedia.org/wiki/Charlottenlund_Palace
 title: Gentofte
 type: location
+nature: 3.6
+leisure: 6.1
+adventure: 3.1
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Gentofte is Copenhagen's wealthiest neighbour — an arc of leafy suburbs stretching north along the Øresund coast, home to embassies, old money, and a handful of attractions that genuinely warrant the short S-tog ride from the city centre.

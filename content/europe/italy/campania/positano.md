@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Positano
 title: Positano
 type: location
+nature: 3.4
+leisure: 8.9
+adventure: 1.1
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 *Europe > Italy > Campania > Positano*

@@ -13,6 +13,11 @@ snippet: Casamance beach village near Senegal's southern border, backed by Diola
   and mangrove bolongs
 title: Cap Skirring
 type: location
+nature: 5.5
+leisure: 4.5
+adventure: 5.1
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Cap Skirring is the main beach resort in Senegal's Casamance region, at the southern tip of the country near the Guinea-Bissau border. It has some of the best beaches in West Africa — long, wide stretches of golden sand backed by palm trees, with warm water and reliable sunshine.

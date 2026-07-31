@@ -16,6 +16,11 @@ snippet: Costa Rican valley town east of San José, gateway to Río Pacuare raft
   and Guayabo ruins.
 title: Turrialba
 type: location
+nature: 5.9
+leisure: 5.4
+adventure: 4.2
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 Turrialba is a town in the Central Valley about 60 km east of San José. It sits in a productive agricultural valley and is the main gateway for rafting the [Río Pacuare](/northamerica/costarica/turrialba/rio_pacuare), one of the best whitewater rivers in Central America (Class III–IV rapids through a jungle gorge). For more technical paddlers, the [Río Reventazón](/northamerica/costarica/turrialba/white_water_rafting) nearby offers Class IV–V runs.

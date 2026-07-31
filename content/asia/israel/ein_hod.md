@@ -14,6 +14,11 @@ snippet: Carmel artists' village founded by Marcel Janco, with open studios, hil
   stone lanes, and a Dada museum.
 title: Ein Hod
 type: location
+nature: 6.1
+leisure: 4.5
+adventure: 4.8
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 Ein Hod is a small artists' village tucked into the Carmel mountains south of [Haifa](/asia/israel/haifa). Founded as an artists' colony in 1953 by the Dadaist Marcel Janco, the village is home to painters, sculptors, and craftspeople who live and work in stone houses along winding hillside lanes. Many have their studios open to visitors, and the whole village feels like an open-air gallery.

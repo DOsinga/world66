@@ -13,6 +13,11 @@ snippet: Italian island closer to Tunisia than Sicily, with turquoise coves and 
   turtle beaches.
 title: Lampedusa
 type: location
+nature: 6.6
+leisure: 6.1
+adventure: 3.7
+city_culture: 3.0
+historic_culture: 3.0
 ---
 
 Lampedusa sits closer to Tunisia than to Sicily, and the landscape makes no secret of it. Flat, sun-scorched rock, wild rosemary, and a sea that turns an improbable shade of turquoise — this small island belongs geologically to Africa, even if it flies the Italian flag.

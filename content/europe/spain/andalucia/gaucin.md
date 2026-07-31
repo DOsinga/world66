@@ -13,6 +13,11 @@ snippet: Andalucian hilltop village with whitewashed lanes and clear-day views t
   Gibraltar and Morocco
 title: Gaucin
 type: location
+nature: 3.8
+leisure: 6.3
+adventure: 3.3
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Gaucin is a white hilltop village in the mountains between [Ronda](/europe/spain/andalucia/ronda) and the coast, with views that on a clear day stretch all the way to the Straits of Gibraltar and the Moroccan coast beyond. It is one of the most beautifully situated of Andalucia's pueblos blancos.

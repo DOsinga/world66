@@ -13,6 +13,11 @@ type: location
 score: 5.94
 loc_type: city
 snippet: Highland gateway town to the Aurès Mountains and the Roman ruins of Timgad.
+nature: 5.3
+leisure: 3.2
+adventure: 6.4
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Batna is a gateway town in eastern Algeria, sitting at over 1,000 metres on the northern edge of the [Aurès Mountains](/africa/algeria/batna/aures_mountains). The town itself is functional rather than charming — the French built it as a military camp in 1844 to control the roads running south into the Sahara — but the surroundings are the reason to come.

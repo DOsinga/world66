@@ -10,6 +10,11 @@ longitude: 30.744444
 score: 6.72
 title: Minya
 type: location
+nature: 4.1
+leisure: 3.5
+adventure: 5.9
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Minya is a mid-sized city on the Nile roughly halfway between Cairo and Asyut, and most travelers pass straight through — which is a mistake. The surrounding area contains some of the most vivid ancient Egyptian remains in the country, away from the crowds of Luxor.

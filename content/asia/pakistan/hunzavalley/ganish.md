@@ -14,6 +14,11 @@ snippet: Hunza Valley village on the old Silk Road, preserving stone houses, wat
   and historic mosques
 title: Ganish
 type: location
+nature: 7.9
+leisure: 3.2
+adventure: 6.6
+city_culture: 2.8
+historic_culture: 2.8
 ---
 
 Ganish is the oldest settlement in the Hunza Valley, perched on flat land near the Hunza River at an altitude of about 2,300 metres. The village sits on the ancient Silk Road and has been recognised by UNESCO for its cultural heritage — the historic core of tightly packed stone houses, watchtowers, and mosques is remarkably well preserved.

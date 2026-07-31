@@ -14,6 +14,11 @@ snippet: Slovenian Adriatic fishing town with bilingual streets, a lived-in harb
   and an old island core.
 title: Izola
 type: location
+nature: 4.5
+leisure: 6.5
+adventure: 3.1
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Izola is a small fishing town on Slovenia's short Adriatic coast, wedged between [Koper](/europe/slovenia/koper) and [Piran](/europe/slovenia/piran). It lacks Piran's postcard-perfect Venetian architecture, but that is part of its charm — Izola is quieter, less polished, and more genuinely lived-in. The old town sits on what was once an island (the connecting causeway was filled in centuries ago), and the narrow streets and pastel-coloured houses still have an Italian feel. Italian and Slovene are both official languages here; street signs are in both, and most older locals will switch between them mid-sentence.

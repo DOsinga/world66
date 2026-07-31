@@ -10,6 +10,11 @@ snippet: Catalan cathedral city with a porticoed market square and a rich Romane
   art collection.
 title: Vic
 type: location
+nature: 3.5
+leisure: 5.7
+adventure: 3.4
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Vic is a handsome cathedral city about 60 kilometres north of [Barcelona](/europe/spain/catalonia/barcelona), sitting on a plain ringed by low mountains at the heart of the Osona comarca. It has been an episcopal seat since the 6th century, and the old town is dense with Romanesque and Gothic churches, medieval arcades, and mansions with painted facades.

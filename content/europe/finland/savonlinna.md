@@ -15,6 +15,11 @@ snippet: Lake-district town built on islands, centred on the 15th-century Olavin
   fortress.
 title: Savonlinna
 type: location
+nature: 5.4
+leisure: 5.1
+adventure: 4.5
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Located in Europe's largest lake district, Savonlinna has around 30,000 inhabitants and was built on three islands joined together by bridges. Besides the scenic natural environment the main attraction is [St Olaf's Castle (Olavinlinna)](/europe/finland/savonlinna/olavinlinna). This great looking fortress was founded in 1475 by Erik Axelsson Tott. The castle served to repel attacks from the east and to guarantee control of the Savo region for the Swedish Crown.

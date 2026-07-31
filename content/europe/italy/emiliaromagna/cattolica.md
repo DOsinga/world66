@@ -14,6 +14,11 @@ snippet: Adriatic resort town in Emilia-Romagna, with a fishing port, sheltered 
   and summer Fish Rustida
 title: Cattolica
 type: location
+nature: 4.0
+leisure: 4.5
+adventure: 4.7
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Built in a small bay, Cattolica is favoured by a mild climate perfect for a relaxing holiday. The ancient origin of its port is testified by a paleontological site on the sea floor.

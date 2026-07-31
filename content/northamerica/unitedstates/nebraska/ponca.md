@@ -14,6 +14,11 @@ snippet: Nebraska Missouri River town above free-flowing channels, hardwood bluf
   and Ponca State Park.
 title: Ponca
 type: location
+nature: 4.2
+leisure: 3.8
+adventure: 5.2
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Ponca is a small town in northeastern Nebraska, best known for [Ponca State Park](/northamerica/unitedstates/nebraska/ponca/ponca_state_park) on the bluffs above the Missouri River. The park offers hiking trails through hardwood forest, horseback riding, and excellent views of the Missouri valley — one of the few stretches where the river still flows freely and exhibits its dynamic character of islands, sandbars, and shifting channels.

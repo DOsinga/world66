@@ -16,6 +16,11 @@ snippet: Imperial Russian city of Neva canals, baroque palaces, and the Hermitag
   vast art collections.
 title: St Petersburg
 type: location
+nature: 1.6
+leisure: 7.7
+adventure: 2.1
+city_culture: 8.9
+historic_culture: 8.9
 ---
 
 St Petersburg is Russia's cultural capital and one of Europe's most beautiful cities. Founded in 1703 by Peter the Great as a window to the West, it was designed from scratch on the marshy banks of the Neva delta — a grand experiment in urban planning that produced an extraordinary cityscape of baroque palaces, neoclassical facades, and canals that invite easy comparisons to Venice and Amsterdam.

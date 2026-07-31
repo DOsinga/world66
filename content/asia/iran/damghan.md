@@ -10,6 +10,11 @@ title: Damghan
 type: location
 snippet: Ancient Silk Road city in Semnan province, with early Islamic brick monuments
   and Sasanian roots.
+nature: 4.8
+leisure: 3.0
+adventure: 6.7
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Damghan is one of the oldest continuously inhabited cities in [Iran](/asia/iran), lying on the ancient Silk Road in Semnan province. In the Sasanian era it served as a provincial capital, and its long history has left behind more monuments than you would expect from a city this small.

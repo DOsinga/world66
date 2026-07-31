@@ -11,6 +11,11 @@ type: location
 loc_type: city
 snippet: Sonoma County city anchoring North Coast wine country, with Railroad Square
   and Charles M. Schulz landmarks.
+nature: 4.1
+leisure: 8.1
+adventure: 1.7
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Santa Rosa is the biggest city in Sonoma County and the de facto capital of California's North Coast wine country. It's not a destination most tourists plan around — they come for the vineyards — but the city itself has more going on than people expect. A revitalized downtown with good restaurants, the legacy of Charles M. Schulz (who lived and worked here for decades), and easy access to the Russian River Valley make it worth more than a drive-through.

@@ -14,6 +14,11 @@ snippet: Dusty Mauritanian market town on the trans-desert road, known for weekl
   trade and plastic beads.
 title: Ayoun el-Atrous
 type: location
+nature: 7.0
+leisure: 0.9
+adventure: 8.6
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 Ayoun el-Atrous is a dusty market town in southeastern Mauritania, sitting at the crossroads of the long trans-desert run between Nouakchott and Mali. It is known locally for its trade in plastic beads — not the most compelling reason to detour, but the [lively weekly market](/africa/mauritania/ayounalatrous/weekly_market) gives you a genuine slice of Sahelian commerce. At 800 kilometres from the capital, it is a natural place to break the journey, rest, and take stock before the road pushes on into harder territory. From here, Nema is another 350 kilometres east — a better-equipped base for exploring the surrounding desert or crossing into Mali.

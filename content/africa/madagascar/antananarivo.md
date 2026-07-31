@@ -15,6 +15,11 @@ title: Antananarivo
 snippet: Hillside capital of Madagascar, ringed by rice paddies and crowned by the
   old Rova palace.
 type: location
+nature: 3.8
+leisure: 4.6
+adventure: 5.2
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Antananarivo, thankfully shortened to Tana by tourists and locals alike, is the bustling capital of Madagascar.

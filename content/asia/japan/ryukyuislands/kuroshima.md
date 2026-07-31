@@ -14,6 +14,11 @@ snippet: Flat Yaeyama coral island nicknamed Cow Island, with pastures, quiet be
   and nesting turtles.
 title: Kuroshima
 type: location
+nature: 5.2
+leisure: 4.7
+adventure: 5.0
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Kuroshima is a small, flat coral island in the Yaeyama chain, sitting between [Iriomote Island](/asia/japan/ryukyuislands/iriomoteisland) and [Ishigaki Island](/asia/japan/ryukyuislands/ishigakiisland). The island is famous for having far more cattle than people -- roughly 3,000 cows to a few hundred residents -- earning it the nickname "Cow Island."

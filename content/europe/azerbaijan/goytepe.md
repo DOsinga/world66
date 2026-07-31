@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/G%C3%B6yt%C9%99p%C9%99,_Jalilabad
 title: Goytepe
 type: location
+nature: 5.3
+leisure: 2.5
+adventure: 6.6
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Goytepe — also written Göytəpə, and formerly called Prishib or Prishibinsk by its Russian founders — is a small town in the southern Jalilabad district of Azerbaijan, on the road that leads south toward [Masally](/europe/azerbaijan/masally), [Astara](/europe/azerbaijan/astara), and the Iranian border. It sits about 190 kilometres southwest of Baku.

@@ -9,6 +9,11 @@ snippet: Southern Campania national park where Tyrrhenian coast, Apennine highla
   and ancient Greek cities meet.
 title: Parco Nazionale del Cilento e del Vallo di Diano
 type: location
+nature: 7.3
+leisure: 4.8
+adventure: 4.8
+city_culture: 2.7
+historic_culture: 2.7
 ---
 
 The Cilento and Vallo di Diano National Park covers a vast stretch of southern Campania, from the Tyrrhenian coast into the Apennine highlands. It is one of Italy's largest national parks and a UNESCO World Heritage Site — recognized both for its exceptional biodiversity and its cultural significance as a landscape that shaped the development of Western civilization.

@@ -10,6 +10,11 @@ snippet: Tasman District city near Nelson, set between the Waimea Estuary and su
   orchards.
 title: Richmond
 type: location
+nature: 4.8
+leisure: 5.4
+adventure: 3.9
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Richmond is a small city in the Tasman District at the top of New Zealand's South Island, effectively a suburb of [Nelson](/australiaandpacific/newzealand/nelson) though now large enough to be its own urban centre. It sits on the plain between Nelson and the Waimea Estuary, with the Richmond Hills rising behind. The area is known for its orchards, vineyards, and market gardens — the Waimea Plains produce apples, hops, and grapes. Richmond is a practical, prosperous town that serves the surrounding rural district. Nelson and the [Abel Tasman National Park](/australiaandpacific/newzealand/abeltasmannationalpark) are both within easy reach.

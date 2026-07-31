@@ -14,6 +14,11 @@ snippet: Walled medieval island city where Knights of St. John streets still sha
   a living Old Town.
 title: Rhodes City
 type: location
+nature: 3.6
+leisure: 8.4
+adventure: 1.6
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Rhodes City is one of the finest medieval towns in Europe. The Old Town, enclosed within massive walls built by the Knights of St. John in the fourteenth century, is a living monument -- some 6,000 people still live and work in the same buildings the Knights occupied six centuries ago. UNESCO granted it World Heritage status, and it deserves every bit of the recognition.

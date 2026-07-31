@@ -13,6 +13,11 @@ score: 7.87
 title: Karakol
 type: location
 snippet: Leafy Kyrgyz town on Lake Issyk-Kul, used as a base for Tien Shan trekking.
+nature: 8.5
+leisure: 0.7
+adventure: 9.0
+city_culture: 2.2
+historic_culture: 2.2
 ---
 
 Karakol is the main town on the eastern shore of [Lake Issyk-Kul](/asia/kyrgyzstan/lakeissykkul) and the trekking capital of Kyrgyzstan. With a population of around 80,000, it is a quiet, leafy town that serves as the base for some of the country's best multi-day hikes, including the [Ala-Kul trek](/asia/kyrgyzstan/karakol/ala_kul_trek), [Altyn-Arashan hot springs](/asia/kyrgyzstan/karakol/altyn_arashan) and the [Jeti-Oguz Valley](/asia/kyrgyzstan/karakol/jeti_oguz).

@@ -13,6 +13,11 @@ image: panamacanal.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Agua_Clara_Locks_09_2019_0822.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Mariordo (Mario Roberto Durán Ortiz)
+nature: 5.9
+leisure: 5.6
+adventure: 4.2
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 The Panama Canal is one of the great engineering achievements of the modern world — a 77-kilometre waterway cut through a continent, connecting the Atlantic and Pacific oceans and reshaping global trade. Watching a massive container ship or cruise vessel squeeze through the narrow locks, rising and falling with the churning water, is genuinely awe-inspiring. It never quite looks real.

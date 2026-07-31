@@ -10,6 +10,11 @@ snippet: Prosperous Amsterdam suburb near Schiphol, with restaurant-filled old l
   and carefully planted parks.
 title: Amstelveen
 type: location
+nature: 2.5
+leisure: 7.3
+adventure: 2.0
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 Amstelveen is a prosperous suburb south of [Amsterdam](/europe/netherlands/amsterdam), close to Schiphol Airport. It is not a tourist destination in itself, but it has appeal for visitors staying near the airport or looking for a quieter base than central Amsterdam. The [old village centre](/europe/netherlands/amstelveen/old_village) has been converted largely into restaurants — Argentinian, Indian, French, Italian — and the [Stadshart](/europe/netherlands/amstelveen/stadshart) shopping area is modern and well-stocked.

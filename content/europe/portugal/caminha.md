@@ -13,6 +13,11 @@ snippet: Portuguese border town where the Minho meets the Atlantic, centred on a
   square and fortified clock tower.
 title: Caminha
 type: location
+nature: 4.9
+leisure: 5.8
+adventure: 3.8
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Caminha is the northernmost town on the Portuguese coast, the place where the country runs out and the [Minho river](/europe/portugal/caminha/foz_do_minho) becomes the border with Spanish Galicia. From [Porto](/europe/portugal/porto) the road and the railway both follow the coast and then the river up to this point and stop. There is something appealing about an end-of-the-line town: the square is small and lively, the granite is grey, and the river is broad and slow.

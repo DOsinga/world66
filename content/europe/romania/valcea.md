@@ -10,6 +10,11 @@ snippet: Southern Romanian county along the Olt Valley, known for Brâncoveanu m
   and Horezu pottery.
 title: Valcea
 type: location
+nature: 5.1
+leisure: 5.1
+adventure: 4.4
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Vâlcea is a county in southern Romania where the Olt river cuts through the Carpathian foothills, creating a valley that has been a trade route and a place of retreat for centuries. The main draw is the painted monasteries of the Olt Valley — a string of Orthodox foundations that rival Bucovina's painted churches, though they are far less visited.

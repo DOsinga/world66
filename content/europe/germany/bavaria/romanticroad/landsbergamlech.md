@@ -14,6 +14,11 @@ snippet: Bavarian Romantic Road town on the Lech, with painted facades, river we
   and the Gothic Bayertor.
 title: Landsberg am Lech
 type: location
+nature: 3.5
+leisure: 5.6
+adventure: 3.8
+city_culture: 7.0
+historic_culture: 7.0
 ---
 
 Landsberg am Lech tumbles down a steep hillside to the river, its old town crowned by the Bayertor — one of the most impressive Gothic gate towers in southern Germany. The town has a prosperous, well-kept feel, with painted facades and a handsome main square dominated by a stuccoed town hall designed by Dominikus Zimmermann, the same architect responsible for the Wieskirche.

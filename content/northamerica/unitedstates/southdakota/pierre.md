@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/South_Dakota_State_Capitol
 title: Pierre
 type: location
+nature: 4.7
+leisure: 5.3
+adventure: 4.2
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Pierre is one of America's smallest state capitals, and that is part of its charm. It sits on the Missouri River in the middle of [South Dakota](/northamerica/unitedstates/southdakota), far from interstate traffic and big-city self-importance, with government buildings, river bluffs, fishing boats, and prairie weather all sharing the same stage.

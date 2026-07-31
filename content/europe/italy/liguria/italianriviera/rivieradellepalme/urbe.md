@@ -14,6 +14,11 @@ snippet: Ligurian Apennine village area in the upper Olba valley, known for fore
   and mushroom picking.
 title: Urbe
 type: location
+nature: 5.4
+leisure: 4.9
+adventure: 4.7
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Urbe lies on the northern side of the Ligurian Apennines, scattered across the upper valley of the Olba stream. Once a possession of the Abbey of Tiglieto, it was donated to the Bishop of Acqui in the eleventh century and shared the fortunes of Sassello until 1798.

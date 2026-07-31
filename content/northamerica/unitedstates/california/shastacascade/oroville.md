@@ -10,6 +10,11 @@ snippet: Northern California reservoir town below Lake Oroville Dam, with Feathe
   River fishing and summer boating.
 title: Oroville
 type: location
+nature: 6.5
+leisure: 4.4
+adventure: 5.1
+city_culture: 3.6
+historic_culture: 3.6
 ---
 
 Oroville is a small city in Butte County, Northern California, best known to most Americans for the near-failure of **Lake Oroville Dam** in 2017 — the tallest dam in the United States, whose damaged spillway caused the evacuation of nearly 200,000 people downstream. The repairs were completed, and the dam and reservoir are now open for recreation.

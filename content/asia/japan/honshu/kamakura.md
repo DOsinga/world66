@@ -13,6 +13,11 @@ snippet: Ancient Japanese warrior capital where Zen temples and samurai history 
   between wooded hills and the sea.
 title: Kamakura
 type: location
+nature: 2.3
+leisure: 7.1
+adventure: 2.8
+city_culture: 8.4
+historic_culture: 8.4
 ---
 
 Kamakura is the ancient warrior capital of Japan, a city that ruled the country for nearly a century and a half from its fortified position on the Miura Peninsula south of Tokyo. Ringed on three sides by forested hills and open to the sea on the fourth, it is one of the most naturally defensible cities in Japan — and one of the most beautiful. Samurai history, Zen Buddhism, and excellent coastal scenery combine here in a way found nowhere else.

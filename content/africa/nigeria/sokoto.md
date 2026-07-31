@@ -19,6 +19,11 @@ sources:
 - https://www.nigeriagalleria.com/Nigeria/States_Nigeria/Sokoto/Tomb-of-Usman-Dan-Fodio.html
 title: Sokoto
 type: location
+nature: 3.4
+leisure: 4.5
+adventure: 5.1
+city_culture: 7.4
+historic_culture: 7.4
 ---
 
 Sokoto is the spiritual capital of Muslim northern Nigeria, the city of Usman dan Fodio, Muhammad Bello, and the caliphate that reshaped Hausaland in the 19th century. It sits near the edge of the Sahel, hot and sandy, with a slower rhythm than [Kano](/africa/nigeria/kano) but a deeper sense of religious authority.

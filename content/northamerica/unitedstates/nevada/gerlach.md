@@ -14,6 +14,11 @@ sources:
 - https://en.wikipedia.org/wiki/Burning_Man
 title: Gerlach
 type: location
+nature: 7.9
+leisure: 3.4
+adventure: 6.2
+city_culture: 2.2
+historic_culture: 2.2
 ---
 
 Gerlach is a tiny desert town at the edge of the Black Rock Desert in northern Nevada, home to fewer than 200 people for most of the year. For one week each August it becomes the gateway to Burning Man, when tens of thousands arrive to build a temporary city on the ancient lake bed — but for the other 51 weeks, Gerlach is as remote and unhurried as Nevada gets.

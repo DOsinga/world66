@@ -14,6 +14,11 @@ snippet: Caribbean capital whose Zona Colonial preserves the oldest European cit
   streets in the Americas.
 title: Santo Domingo
 type: location
+nature: 2.0
+leisure: 7.8
+adventure: 2.1
+city_culture: 8.1
+historic_culture: 8.1
 ---
 
 Santo Domingo is the oldest European-founded city in the Americas, and it wears its history proudly. The [Zona Colonial](/northamerica/dominicanrepublic/santodomingo/zona_colonial) — the historic heart — is packed with firsts: the oldest street in the New World ([Calle de las Damas](/northamerica/dominicanrepublic/santodomingo/calle_de_las_damas)), the oldest cathedral ([Catedral Santa María la Menor](/northamerica/dominicanrepublic/santodomingo/catedral_santa_maria)), the first hospital in the Americas (the ruins of San Nicolás de Bari), and the oldest European fortress in the hemisphere ([Fortaleza Ozama](/northamerica/dominicanrepublic/santodomingo/fortaleza_ozama)). The entire colonial district is a UNESCO World Heritage Site.

@@ -15,6 +15,11 @@ snippet: Puerto Rican north-shore city known for Taíno sea caves and the former
   Observatory.
 title: Arecibo
 type: location
+nature: 5.0
+leisure: 5.3
+adventure: 4.4
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Arecibo is the largest municipality by area in Puerto Rico, a coastal city on the island's north shore known for two very different attractions: the [Cueva del Indio](/northamerica/thecaribbean/puertorico/arecibo/cueva_del_indio), a sea cave with pre-Columbian Taíno petroglyphs carved into its walls, and the former [Arecibo Observatory](/northamerica/thecaribbean/puertorico/arecibo/arecibo_observator), once the world's largest single-aperture radio telescope — now a museum after its dish collapsed in 2020.

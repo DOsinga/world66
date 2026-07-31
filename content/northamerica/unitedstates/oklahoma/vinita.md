@@ -10,6 +10,11 @@ snippet: Route 66 Oklahoma town with Cherokee, railroad, and frontier history la
   into its downtown.
 title: Vinita
 type: location
+nature: 4.1
+leisure: 3.8
+adventure: 5.3
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Located on Historic Route 66 in Craig County, Vinita is a small city of around 6,500 people in northeastern Oklahoma's Green Country. It was one of the first towns established in Indian Territory after the Civil War, and that layered history — Cherokee Nation, railroad, Route 66 — gives it more texture than a glance suggests.

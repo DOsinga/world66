@@ -16,6 +16,11 @@ snippet: Red Sea port city and pilgrimage gateway, with coral-stone houses in UN
   Al Balad.
 title: Jeddah
 type: location
+nature: 2.3
+leisure: 5.7
+adventure: 4.1
+city_culture: 8.6
+historic_culture: 8.6
 ---
 
 Jeddah is the gateway to Mecca and Medina and the most cosmopolitan city in Saudi Arabia. For 1,400 years it has been the port of arrival for pilgrims by sea, and the merchant families that grew rich on the hajj trade built tall coral-stone houses, intricate wooden screens, and the most distinctive vernacular architecture in Arabia. Their old town — [Al Balad](/asia/saudiarabia/jeddah/al_balad) — is the only Saudi city to make UNESCO's World Heritage list.

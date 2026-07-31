@@ -14,6 +14,11 @@ snippet: Provençal city defined by exceptionally preserved Roman monuments, fro
   arena to the Maison Carrée.
 title: Nîmes
 type: location
+nature: 2.6
+leisure: 7.6
+adventure: 2.0
+city_culture: 7.6
+historic_culture: 7.6
 ---
 
 Nîmes has some of the best-preserved Roman monuments anywhere in the world. The [Arena of Nîmes](/europe/france/midi/provence/nimes/arena_of_nimes), still used for Provençal-style bullfights, rivals the Colosseum in its state of preservation. The [Maison Carrée](/europe/france/midi/provence/nimes/maison_carree) is an almost perfectly intact Roman temple. The [Tour Magne](/europe/france/midi/provence/nimes/jardins_de_la_fontaine) crowns the hill above town with panoramic views.

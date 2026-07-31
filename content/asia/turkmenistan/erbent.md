@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Tazy_(dog)
 title: Erbent
 type: location
+nature: 6.8
+leisure: 1.7
+adventure: 8.2
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 Erbent oasis lies roughly 156 km north of [Ashgabat](/asia/turkmenistan/ashgabat) in the heart of the Central Karakum desert, one of the few inhabited pockets in an otherwise empty expanse of sand. Getting there requires a hired car across a deteriorating desert road, which keeps visitor numbers low and the atmosphere genuinely remote. Most travelers who make the trip do so because they have heard about the dogs.

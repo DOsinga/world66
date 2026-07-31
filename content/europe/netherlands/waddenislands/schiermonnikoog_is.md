@@ -11,6 +11,11 @@ longitude: 6.2038
 score: 7.76
 snippet: Car-free Dutch Wadden island, mostly national park, with wide beaches and
   migratory-bird tidal flats.
+nature: 5.5
+leisure: 4.9
+adventure: 4.7
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Schiermonnikoog is the smallest inhabited island in the Dutch Wadden chain and arguably the most peaceful. Cars are banned for visitors — you get around by bicycle or on foot, and the silence is striking after the ferry from Lauwersoog docks at the small harbour.

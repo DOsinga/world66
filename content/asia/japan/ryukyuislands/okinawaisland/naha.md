@@ -18,6 +18,11 @@ sources:
 - https://en.wikipedia.org/wiki/Gusuku_Sites_and_Related_Properties_of_the_Kingdom_of_Ryukyu
 title: Naha
 type: location
+nature: 5.7
+leisure: 3.9
+adventure: 5.7
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Naha is Okinawa's capital and by far its largest city, home to about 320,000 people. It is where most visitors arrive and where the island's urban life is concentrated. [Kokusai Street](/asia/japan/ryukyuislands/okinawaisland/naha/kokusai_street) (International Street) is the main drag — a 1.6-kilometre stretch of souvenir shops, restaurants, and izakayas that fills up every evening. Duck into the covered [Makishi Public Market](/asia/japan/ryukyuislands/okinawaisland/naha/makishi_public_market) just off Kokusai for fresh seafood, tropical fruit, and Okinawan specialties like pig's face and sea grapes.

@@ -13,6 +13,11 @@ image: arenal.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Arenal_volcano_(70785p)_(cropped).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Rhododendrites
+nature: 7.3
+leisure: 6.9
+adventure: 3.0
+city_culture: 1.7
+historic_culture: 1.7
 ---
 
 Arenal Volcano is the most famous natural attraction in Costa Rica. The cone-shaped volcano erupted spectacularly in 1968 after 400 years of dormancy, and until 2010 it was constantly active — producing ash columns, explosions, and glowing red lava almost daily. It has been quiet since then, but the landscape of lava fields and rainforest around its base remains dramatic.

@@ -14,6 +14,11 @@ title: Dingle
 type: location
 snippet: Dingle is a County Kerry fishing town known for its working harbour, traditional
   music, and peninsula scenery.
+nature: 3.9
+leisure: 6.3
+adventure: 3.4
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Dingle is a small fishing town at the western tip of the Dingle Peninsula in County Kerry, and it has an outsized reputation for good reason. The harbour is still a working one — trawlers unload their catch most mornings — but the town has long since discovered that its real trade is charm. Brightly painted pubs line the narrow streets, traditional music spills out of doorways most evenings, and the surrounding landscape is so beautiful it borders on unfair: cliffs, beaches, ancient stone forts, and green hills dropping into the Atlantic.

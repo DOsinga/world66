@@ -16,6 +16,11 @@ snippet: Silicon Valley city with orchard roots, tech campuses, and a walkable M
   Avenue downtown
 title: Sunnyvale
 type: location
+nature: 3.5
+leisure: 6.0
+adventure: 3.1
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Sunnyvale is one of the larger cities of Silicon Valley, sitting between Mountain View and Santa Clara on the southern shore of San Francisco Bay. Until the second world war it was orchard country — apricots, prunes, and the world's largest fruit cannery, Libby's, whose painted water tower still stands as a landmark. The semiconductor industry arrived in the 1950s and the orchards gradually became chip fabs, then office parks, then the headquarters of companies like LinkedIn, Yahoo, and Juniper. About 150,000 people now live in the city.

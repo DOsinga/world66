@@ -14,6 +14,11 @@ snippet: Vietnamese province astride the former Demilitarized Zone, with tunnels
   cemeteries, and wartime sites.
 title: Quang Tri
 type: location
+nature: 4.2
+leisure: 3.9
+adventure: 5.6
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Quang Tri province sits astride the old Demilitarized Zone, the line that divided North and South Vietnam from 1954 to 1975. More than almost anywhere else in the country, the landscape here is still shaped by war. The former DMZ is now a kind of open-air history lesson: tunnels, cemeteries, bombed citadels, and a bridge where families were once separated for decades. If you want to understand the Vietnam War beyond the American narrative, this is the place to come.

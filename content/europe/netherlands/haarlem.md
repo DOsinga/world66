@@ -17,6 +17,11 @@ title: Haarlem
 snippet: Compact Dutch city of medieval lanes, courtyard almshouses, and museums a
   short train ride from Amsterdam.
 type: location
+nature: 2.4
+leisure: 7.9
+adventure: 1.5
+city_culture: 7.6
+historic_culture: 7.6
 ---
 
 Haarlem is one of the most satisfying small cities in the Netherlands — a compact medieval centre with a world-class museum, one of the finest organs in Europe, and more hidden courtyard almshouses than anywhere else in the country. It is 20 minutes from Amsterdam by train and absorbs far less tourist pressure, which makes it a pleasure.

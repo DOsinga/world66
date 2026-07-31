@@ -14,6 +14,11 @@ snippet: Victorian dairy village in Humboldt County, lined with ornate butterfat
   and Eel River valley farmland.
 title: Ferndale
 type: location
+nature: 5.0
+leisure: 5.9
+adventure: 3.6
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Ferndale is a beautifully preserved Victorian village in the Eel River valley of Humboldt County. The [Main Street Historic District](/northamerica/unitedstates/california/northcoast/ferndale/main_street_historic_district) is lined with ornate "butterfat palaces" — the grand homes built by prosperous dairy farmers in the late 1800s — and the whole town has the feel of a living museum, without the stuffiness. The [Gingerbread Mansion](/northamerica/unitedstates/california/northcoast/ferndale/gingerbread_mansion) is the most photographed building in town: a Queen Anne Victorian confection painted in apricot and yellow, dripping with carved wooden ornamentation. The [Ferndale Museum](/northamerica/unitedstates/california/northcoast/ferndale/ferndale_museum) provides local history context and houses a working seismograph that has been recording regional earthquakes since 1933.

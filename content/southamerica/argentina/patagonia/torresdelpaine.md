@@ -13,6 +13,11 @@ snippet: Patagonian national park of granite towers, turquoise lakes, wind-bent 
   and multi-day treks.
 title: Torres del Paine
 type: location
+nature: 9.2
+leisure: 4.5
+adventure: 5.6
+city_culture: 1.1
+historic_culture: 1.1
 ---
 
 Torres del Paine National Park, across the border in Chile, is one of the most spectacular wilderness areas in South America. The park covers 935 square miles of staggering variety: wind-bent grasslands give way to turquoise lakes, ancient forests, and the sheer granite towers that give the park its name. The [three Torres](/southamerica/argentina/patagonia/torresdelpaine/torres_viewpoint) — soaring rock pillars that glow pink at dawn — are the iconic image of Patagonia.

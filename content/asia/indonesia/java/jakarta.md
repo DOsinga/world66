@@ -12,6 +12,11 @@ snippet: Indonesian megacity where colonial Batavia, national monuments, canals,
   relentless traffic collide
 title: Jakarta
 type: location
+nature: 2.2
+leisure: 6.3
+adventure: 3.5
+city_culture: 8.3
+historic_culture: 8.3
 ---
 
 Most travelers use Jakarta as a starting or ending point -- catch a flight at Soekarno-Hatta, take a ferry to another island, and spend as little time as possible in between. The city's reputation is chaotic traffic, oppressive heat, and not much to see. This is a shame, because Jakarta has more character than it gets credit for.

@@ -10,6 +10,11 @@ snippet: Tigris city of Abbasid monuments, dominated by Samarra's spiralling Mal
   Minaret and mosque ruins.
 title: Samarra
 type: location
+nature: 3.1
+leisure: 3.1
+adventure: 6.8
+city_culture: 8.1
+historic_culture: 8.1
 ---
 
 Samarra is a city on the Tigris about 125 km north of Baghdad. For most of the 9th century it served as the capital of the Abbasid Caliphate, and from that period survive some extraordinary monuments.

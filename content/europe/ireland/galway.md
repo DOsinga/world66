@@ -13,6 +13,11 @@ snippet: West-coast Irish city on Galway Bay, alive with traditional music, univ
   energy, and colourful streets.
 title: Galway
 type: location
+nature: 2.0
+leisure: 7.7
+adventure: 2.1
+city_culture: 8.0
+historic_culture: 8.0
 ---
 
 Galway is the liveliest city on Ireland's west coast and arguably its most characterful after Dublin. Set on the edge of Galway Bay where the River Corrib meets the Atlantic, it has the energy of a university town, a deep connection to traditional Irish culture, and a pub scene that runs on live music seven nights a week.

@@ -15,6 +15,11 @@ snippet: Hessian Ried town federation near the Rhine, beside floodplain forest a
   oxbow lakes.
 title: Riedstadt
 type: location
+nature: 4.1
+leisure: 5.3
+adventure: 3.7
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Riedstadt is a federation of five once-independent communities — Goddelau, Crumstadt, Erfelden, Leeheim, and Wolfskehlen — spread across the flat Hessian Ried plain south of [Darmstadt](/europe/germany/hessen/darmstadt). It is not a tourist destination in the conventional sense, but nature lovers and birdwatchers will find a compelling reason to visit: the [Kuhkopf-Knoblochsaue](/europe/germany/hessen/riedstadt/kuhkopf_knoblochsaue) nature reserve, the largest protected area in Hessen, lies just across the Rhine.

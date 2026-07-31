@@ -13,6 +13,11 @@ snippet: Cornish resort town and surf capital, centred on Fistral Beach and nort
   sandy bays.
 title: Newquay
 type: location
+nature: 5.4
+leisure: 7.3
+adventure: 2.6
+city_culture: 3.6
+historic_culture: 3.6
 ---
 
 Newquay is Cornwall's largest resort town and England's surf capital. Set on the north coast, it looks out over [Fistral Beach](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/newquay/fistral_beach) — one of the finest surf beaches in Europe — and a string of sandy bays stretching north and south. The town has been drawing visitors since the Victorian era, but its modern identity is built around surfing, beach culture, and a lively summer nightlife.

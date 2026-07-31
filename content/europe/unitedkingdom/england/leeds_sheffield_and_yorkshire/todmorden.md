@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Todmorden
 title: Todmorden
 type: location
+nature: 3.7
+leisure: 5.3
+adventure: 3.7
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Todmorden sits at the far west of West Yorkshire, at a point where the county boundary with Lancashire once ran beneath the town's grand Italianate [town hall](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/todmorden/todmorden_town_hall) — a building that straddles two counties. Now part of [Calderdale](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/calderdale), the town occupies a steep Pennine valley where the River Calder and several tributaries meet, hemmed in by moorland that rises sharply from the mill-era terraces.

@@ -19,6 +19,11 @@ title: Bumthang
 type: location
 snippet: Central Bhutan valley region with some of the kingdom's oldest temples and
   monasteries.
+nature: 6.2
+leisure: 5.5
+adventure: 4.5
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 Bumthang is a valley district in east-central Bhutan, about 250 km from Thimphu — a journey of 9–10 hours by road over mountain passes. It is considered one of the most beautiful areas in Bhutan, with undulating landscapes of fruit trees, apple orchards, and ancient temples. Bumthang is also the spiritual heartland of the country: this is where Buddhism first took hold in Bhutan, and the concentration of sacred sites here is extraordinary.

@@ -15,6 +15,11 @@ type: location
 score: 6.95
 snippet: Coffee Triangle city in Quindío, rebuilt after the 1999 earthquake and ringed
   by coffee farms.
+nature: 5.5
+leisure: 5.9
+adventure: 3.8
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Armenia is the capital of Quindío and the southernmost of the three big cities of Colombia's Coffee Triangle, sitting at around 1,480 metres in the foothills of the Cordillera Central. It is a working city of about 300,000 people rather than a tourist showcase, and the centre — like that of [Pereira](/southamerica/colombia/pereira) and much of [Manizales](/southamerica/colombia/manizales) — was largely rebuilt after the devastating [1999 earthquake](/southamerica/colombia/armenia/earthquake_1999_memorial) that flattened block after block of older buildings.

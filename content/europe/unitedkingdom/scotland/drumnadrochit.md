@@ -16,6 +16,11 @@ image_attribution: Trevor Littlewood
 score: 8.1
 snippet: Loch Ness village where monster lore meets Glen Urquhart walks and ruined
   Urquhart Castle.
+nature: 6.0
+leisure: 5.6
+adventure: 4.0
+city_culture: 3.7
+historic_culture: 3.7
 ---
 
 *Europe > United Kingdom > Scotland > Drumnadrochit*

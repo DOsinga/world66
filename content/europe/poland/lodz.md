@@ -16,6 +16,11 @@ sources:
 - https://en.wikivoyage.org/wiki/%C5%81%C3%B3d%C5%BA
 title: Łódź
 type: location
+nature: 3.0
+leisure: 6.6
+adventure: 2.7
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 Łódź (pronounced roughly "Woodge") is Poland's third-largest city and one of its most underrated, a place that was utterly remade by 19th-century industrial capitalism and is now remaking itself again. In the 1800s, it exploded from a small market town into a massive textile manufacturing centre, drawing German, Jewish, and Russian industrialists alongside tens of thousands of workers to what became known as the "Manchester of Poland." The palaces they built — monumental, ostentatious, occasionally beautiful — still stand along Piotrkowska Street and in the courtyard of what is now the [Manufaktura](/europe/poland/lodz/manufaktura) complex.

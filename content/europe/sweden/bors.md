@@ -14,6 +14,11 @@ snippet: Swedish textile city reinvented around design schools, street sculpture
   museums, and the Viskan river mills.
 title: Borås
 type: location
+nature: 3.7
+leisure: 5.9
+adventure: 3.2
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Borås is a modest-sized city of around 75,000 people in Västra Götaland, about an hour's drive east of Gothenburg and the same distance south-west of Jönköping. For most of its history it was the textile capital of Sweden — the mills along the Viskan river produced the fabric that clothed the country, and the city's identity is still bound up with that heritage, even though the last big mills closed decades ago. What the textile industry left behind is more interesting than the cliché suggests: Borås today is home to some of the strongest design and fashion schools in Scandinavia, a public sculpture collection that includes works by Jim Dine, Pierre Huyghe, and Tony Cragg scattered through the streets — the centrepiece being [*Walking to Borås*](/europe/sweden/bors/walking_to_boras), Dine's nine-metre Pinocchio on the main square — and a downtown area that has reinvented itself around art, cafés, and good shopping.

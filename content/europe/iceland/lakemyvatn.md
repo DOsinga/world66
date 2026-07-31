@@ -13,6 +13,11 @@ image: lakemyvatn.jpg
 image_source: https://commons.wikimedia.org/wiki/File:MyvatnIsland.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Andreas Tille
+nature: 7.9
+leisure: 5.2
+adventure: 4.5
+city_culture: 1.8
+historic_culture: 1.8
 ---
 
 Lake Mývatn sits in northeast Iceland, a shallow volcanic lake ringed by lava fields, pseudocraters, and steaming geothermal vents. The name means "midge lake" in Icelandic, and in summer you'll understand why — but those midges feed one of Europe's richest concentrations of breeding ducks and other waterbirds. The surrounding landscape shifts constantly between otherworldly and serene: the dark lava pillars of Dimmuborgir, the bubbling mud pots of Námaskarð, and the still blue water reflecting whatever the Icelandic sky decides to do that hour.

@@ -14,6 +14,11 @@ snippet: Pakistani mountain valley of rivers, orchards, alpine lakes, and Gandha
   Buddhist ruins around Saidu Sharif.
 title: Swat
 type: location
+nature: 6.0
+leisure: 1.9
+adventure: 7.6
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 The Swat Valley is one of Pakistan's most beautiful destinations — a lush-green valley of rushing torrents, icy lakes, fruit orchards, and flower-covered slopes that earned it the nickname "the Switzerland of the East." It also has a rich historical past: Swat played a pivotal role in the development of Buddhism, and ruins of great stupas, monasteries, and statues are found throughout the valley.

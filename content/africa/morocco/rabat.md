@@ -18,6 +18,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Rabat
 title: Rabat
 type: location
+nature: 2.7
+leisure: 6.3
+adventure: 3.3
+city_culture: 7.8
+historic_culture: 7.8
 ---
 
 Morocco's capital sits where the Bou Regreg river meets the Atlantic, and it is the most liveable of the country's imperial cities. No carpet touts, no maze you cannot escape from — Rabat moves at a human pace. A million people live in the city and neighbouring Salé, but the old medina feels like a small town. That is part of its appeal.

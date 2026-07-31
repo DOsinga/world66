@@ -18,6 +18,11 @@ image: taketomiisland.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Taketomi_Island.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Jordy Meow
+nature: 6.0
+leisure: 6.7
+adventure: 3.2
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 Taketomi is a tiny coral island in the Yaeyama group, ten minutes by ferry from [Ishigaki](/asia/japan/ryukyuislands/ishigakiisland). It covers barely five square kilometres, and the single [village at its centre](/asia/japan/ryukyuislands/taketomiisland/taketomi_village) has been preserved almost unchanged for generations: low coral-stone walls line unpaved sandy lanes, red-tiled roofs are guarded by shisa lion statues, and bougainvillea spills over every gate. The island is small enough to cycle around in an hour and pleasant enough that many visitors wish they had stayed longer.

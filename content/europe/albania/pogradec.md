@@ -13,6 +13,11 @@ snippet: Albanian lakeside town on Lake Ohrid, backed by mountains and known for
   water and koran trout.
 title: Pogradec
 type: location
+nature: 4.5
+leisure: 5.5
+adventure: 4.0
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Pogradec sits on the western shore of Lake Ohrid, one of the oldest and deepest lakes in Europe, shared between [Albania](/europe/albania) and [North Macedonia](/europe/macedonia). The town is backed by the lofty mountains of Kamja and Guri i Topit, giving it an almost alpine setting.

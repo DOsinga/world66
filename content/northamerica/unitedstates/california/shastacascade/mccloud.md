@@ -14,6 +14,11 @@ longitude: -122.139448
 score: 6.76
 title: McCloud
 type: location
+nature: 7.0
+leisure: 5.7
+adventure: 3.9
+city_culture: 2.4
+historic_culture: 2.4
 ---
 
 McCloud is a small historic lumber mill town at the base of Mount Shasta in northern California. It has reinvented itself as a quiet getaway with bed-and-breakfast inns and a handful of shops, set against the spectacular backdrop of the 4,300-metre volcano.

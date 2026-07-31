@@ -14,6 +14,11 @@ snippet: Historic North Carolina rail town with frontier-era roots and a preserv
   downtown core.
 title: Salisbury
 type: location
+nature: 3.6
+leisure: 4.5
+adventure: 4.6
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Salisbury was once the largest city in western North Carolina and the leading edge of the American frontier -- the jumping-off point for pioneers, visionaries, and more than a few scoundrels. As a major center of trade and politics in the eighteenth and early nineteenth centuries, the town played an outsized role in the state's history.

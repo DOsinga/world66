@@ -13,6 +13,11 @@ snippet: Remote Costa Rican national park on the Osa Peninsula, protecting Pacif
   rainforest, beaches, and dense wildlife.
 title: Corcovado National Park
 type: location
+nature: 8.6
+leisure: 5.8
+adventure: 4.1
+city_culture: 1.1
+historic_culture: 1.1
 ---
 
 Corcovado is widely regarded as the most biologically intense place on Earth. The national park covers 424 square kilometers of the Osa Peninsula's southern tip — rainforest, mangrove, wetland, and coastline — and contains more species per square kilometer than almost anywhere else on the planet. This is not a zoo or a nature trail. It's a genuine wilderness.

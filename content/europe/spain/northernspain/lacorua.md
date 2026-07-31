@@ -13,6 +13,11 @@ snippet: Galician Atlantic port on a sea-facing peninsula, wrapped by a long pro
   and the Roman Torre de Hércules.
 title: La Coruña
 type: location
+nature: 4.1
+leisure: 7.3
+adventure: 2.4
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 La Coruña is a port city on the Atlantic coast of [Galicia](/europe/spain/galicia), built on a peninsula that juts into the sea. The old town clusters around the harbour, while the newer city stretches along a magnificent waterfront promenade — the [Paseo Marítimo](/europe/spain/northernspain/lacorua/paseo_maritimo) — that runs for 13 km around the headland, making it one of the longest seaside walks in Europe. The city has a confident, cosmopolitan feel that sets it apart from quieter Galician towns.

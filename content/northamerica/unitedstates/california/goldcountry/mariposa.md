@@ -13,6 +13,11 @@ snippet: Sierra Nevada Gold Rush town and western gateway to Yosemite via the Me
   River canyon.
 title: Mariposa
 type: location
+nature: 5.3
+leisure: 5.1
+adventure: 4.5
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Mariposa is a small Gold Rush town in the Sierra Nevada foothills, best known as the western gateway to Yosemite National Park — the valley is about an hour's drive east on Highway 140. The town makes a practical base for Yosemite visits, particularly in summer when accommodation inside the park fills up fast.

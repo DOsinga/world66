@@ -15,6 +15,11 @@ snippet: Steep medieval Umbrian town of grey stone streets, intact walls, and to
   below Monte Ingino.
 title: Gubbio
 type: location
+nature: 3.2
+leisure: 7.6
+adventure: 2.1
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 Gubbio is the most convincingly medieval town in Umbria — possibly in all of Italy. Its grey stone streets climb steeply up the flank of Monte Ingino, its towers and palaces intact, its walls unbroken. There is no major highway running through, no sprawling suburb to negotiate. You arrive, you walk in, and you are five centuries back.

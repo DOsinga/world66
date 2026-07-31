@@ -12,6 +12,11 @@ snippet: Indonesian industrial island near Singapore, mixing ferry traffic, fact
   resorts, and the Barelang Bridges.
 title: Batam
 type: location
+nature: 4.6
+leisure: 5.7
+adventure: 3.8
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Batam is an industrial island in the Riau Archipelago, just 20 kilometres south of Singapore and reachable by ferry in about an hour. Carved out as a special economic zone in the 1970s and turbo-charged in the 90s, it has spent the last few decades absorbing factories, ports, and weekend Singaporeans escaping the high prices and tight rules of home.

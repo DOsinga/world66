@@ -14,6 +14,11 @@ snippet: Industrial Silesian city best known for Silesian Park, one of Europe's 
   urban parks.
 title: Chorzow
 type: location
+nature: 3.4
+leisure: 4.8
+adventure: 4.2
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Chorzów is best known for the [Silesian Park](/europe/poland/chorzow/silesian_park), one of the largest urban parks in Europe. Spread over 600 hectares between Chorzów and Katowice, it includes a [zoo](/europe/poland/chorzow/silesian_zoological_garden), a [planetarium](/europe/poland/chorzow/silesian_planetarium), an [amusement park](/europe/poland/chorzow/legendia), an [open-air ethnographic museum](/europe/poland/chorzow/upper_silesian_ethnographic_park), and enough green space to forget you are in the middle of Poland's most densely built-up region.

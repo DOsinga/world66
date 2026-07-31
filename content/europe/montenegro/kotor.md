@@ -15,6 +15,11 @@ score: 9.42
 snippet: Walled Venetian old town on the Bay of Kotor, backed by steep limestone mountains.
 title: Kotor
 type: location
+nature: 4.9
+leisure: 7.3
+adventure: 2.7
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Kotor is the most compelling city on the Montenegrin coast — a medieval Venetian town enclosed by 4.5km of walls that climb steeply up the rocky hillside behind it. The old town is a tight maze of marble-paved lanes, Romanesque churches, and small piazzas, with cats lounging on every warm surface (Kotor has taken the stray cat as its unofficial symbol and embraces it fully).

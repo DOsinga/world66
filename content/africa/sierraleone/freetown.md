@@ -16,6 +16,11 @@ title: Freetown
 type: location
 snippet: West African capital on steep Atlantic hills, with Krio heritage centred
   around the Cotton Tree.
+nature: 4.5
+leisure: 4.1
+adventure: 5.6
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Freetown is the capital and by far the largest city in [Sierra Leone](/africa/sierraleone), home to about a third of the country's population. It is not a city you will fall in love with immediately — it is dense, noisy, and congested, built on steep hills running down to the Atlantic, with a geography that makes traffic a constant ordeal. But it has real energy and a distinct Krio character that sets it apart from other West African capitals.

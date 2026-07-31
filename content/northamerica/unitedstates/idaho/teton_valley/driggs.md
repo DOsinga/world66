@@ -17,6 +17,11 @@ sources:
 - https://www.jacksonholenet.com/teton_valley_idaho/driggs_idaho.php
 title: Driggs
 type: location
+nature: 5.7
+leisure: 6.4
+adventure: 3.4
+city_culture: 3.7
+historic_culture: 3.7
 ---
 
 Driggs is the practical centre of [Teton Valley](/northamerica/unitedstates/idaho/teton_valley), a small Idaho town with a large mountain horizon. It has groceries, outfitters, cafes, and enough local services to make it more than a bedroom community for Jackson Hole, though the Wyoming side of the Tetons is never far from the conversation.

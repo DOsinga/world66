@@ -11,6 +11,11 @@ snippet: Northern Rwandan town below the Virunga peaks, used as the main base fo
   Volcanoes National Park
 title: Musanze (Ruhengeri)
 type: location
+nature: 8.6
+leisure: 4.2
+adventure: 5.8
+city_culture: 1.7
+historic_culture: 1.7
 ---
 
 Musanze, still widely known by its former name Ruhengeri, is the main town in northern Rwanda and the base for [gorilla trekking in Volcanoes National Park](/africa/rwanda/ruhengeri/volcanoes_national_park). It sits at around 1,800m altitude in a volcanic landscape, surrounded by the [Virunga peaks](/africa/rwanda/ruhengeri/virunga_views) — Karisimbi, Bisoke, Sabyinyo, and their neighbours form a near-continuous wall of volcanic summits to the north and west.

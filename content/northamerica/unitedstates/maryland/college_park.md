@@ -7,6 +7,11 @@ snippet: Maryland university city with aviation history beside Washington D.C.'s
   corridor.
 title: College Park
 type: location
+nature: 3.3
+leisure: 5.1
+adventure: 3.9
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 College Park is a city in Prince George's County, Maryland, sitting just outside Washington D.C. along the metro line. It is best known as the home of the University of Maryland, whose large campus dominates the northern part of the city and drives much of the local economy and culture.

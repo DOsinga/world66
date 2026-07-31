@@ -16,6 +16,11 @@ snippet: Tyrolean capital in an Alpine valley, with Habsburg landmarks and cable
   access to the Nordkette.
 title: Innsbruck
 type: location
+nature: 5.6
+leisure: 7.9
+adventure: 2.3
+city_culture: 3.6
+historic_culture: 3.6
 ---
 
 Innsbruck is not just a ski town. It is the capital of Tyrol, a proper city of over 100,000 people wedged into a narrow valley beneath some of the most dramatic mountain scenery in the Alps. The [Nordkette](/europe/austria/innsbruck/nordkette) range rises directly behind the [Altstadt](/europe/austria/innsbruck/altstadt), so steep and close it feels like a painted backdrop. You can ride a cable car from the city centre to 2,300 metres in twenty minutes.

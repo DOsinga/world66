@@ -13,6 +13,11 @@ snippet: Polished Vermont village where covered bridges, old inns, and wooded hi
 title: Woodstock
 type: location
 score: 7.94
+nature: 5.8
+leisure: 6.8
+adventure: 3.0
+city_culture: 3.4
+historic_culture: 3.4
 ---
 
 Woodstock is one of Vermont's prettiest villages, and it knows it. The green, covered bridge, white steeples, old inns, and tidy brick storefronts can feel almost too composed, but the surrounding hills keep the place from becoming a stage set.

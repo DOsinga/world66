@@ -19,6 +19,11 @@ sources:
 - https://en.wikipedia.org/wiki/Man-O-War_Cay
 title: Abaco
 type: location
+nature: 5.5
+leisure: 7.8
+adventure: 2.1
+city_culture: 3.1
+historic_culture: 3.1
 ---
 
 The Abaco Islands form a boomerang-shaped chain of cays at the northern tip of the Bahamas, stretching roughly 130 miles from Walker's Cay down to Hole-in-the-Wall. This is sailing country: hundreds of protected anchorages, shallow turquoise flats, and a string of small cay settlements connected by water taxi. Most visitors arrive at Marsh Harbour, the main town on Great Abaco, and spend their time hopping between the cays.

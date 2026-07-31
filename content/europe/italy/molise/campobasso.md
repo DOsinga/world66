@@ -14,6 +14,11 @@ snippet: Molise capital on a hill ridge, with a steep medieval core and the 15th
   Castello Monforte.
 title: Campobasso
 type: location
+nature: 4.1
+leisure: 5.2
+adventure: 3.9
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Campobasso is the capital of Molise, Italy's least-visited region — and that obscurity is precisely what makes it worth the detour. Perched at 701 metres on a ridge between the Biferno and Fortore river valleys, it is a quiet, unhurried hill town with a medieval core, a Lombard castle, and an almost complete absence of other tourists.

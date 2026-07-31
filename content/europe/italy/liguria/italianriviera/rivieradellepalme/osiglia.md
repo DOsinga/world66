@@ -14,6 +14,11 @@ snippet: Small Ligurian Alps village beside Lago di Osiglia, shaped by feudal hi
 title: Osiglia
 todo_location_cleanup: done
 type: location
+nature: 5.0
+leisure: 5.1
+adventure: 4.4
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Osiglia is a small agricultural centre on the Po Valley side of the Ligurian Alps, situated just upstream of the [artificial lake](/europe/italy/liguria/italianriviera/rivieradellepalme/osiglia/lago_di_osiglia) that shares its name. The village has a long feudal history: it belonged successively to the Del Carretto lords of Savona, the marchesi di Monferrato, and finally Spain. Nothing remains of the marquis's castle but a few ruins. The [parish church of Sant'Antonio](/europe/italy/liguria/italianriviera/rivieradellepalme/osiglia/santantonio) is a baroque reconstruction.

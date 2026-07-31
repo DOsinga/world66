@@ -14,6 +14,11 @@ title: Manti
 type: location
 snippet: Manti is a Sanpete Valley town beneath a landmark limestone Latter-day Saint
   temple.
+nature: 5.5
+leisure: 4.7
+adventure: 4.9
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Manti is a small town in the Sanpete Valley of central Utah, founded in 1849 by Mormon pioneers. It sits beneath the striking white limestone [Manti Utah Temple](/northamerica/unitedstates/utah/manti/manti_utah_temple), perched on a hill above town and visible for miles — one of the oldest and most architecturally impressive temples in the state.

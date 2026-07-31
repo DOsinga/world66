@@ -17,6 +17,11 @@ sources:
 - https://www.loirevalleyfrance.net/places/montsoreau.html
 title: Montsoreau
 type: location
+nature: 3.7
+leisure: 6.9
+adventure: 2.7
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Montsoreau is a small Loire village with an enviable address: right where the Vienne meets the Loire, between [Saumur](/europe/france/centre/loirevalley/saumur) and [Chinon](/europe/france/centre/loirevalley/chinon). It is one of the Loire's prettiest low-key stops, all pale tufa stone, river light, and lanes that climb gently above the water.

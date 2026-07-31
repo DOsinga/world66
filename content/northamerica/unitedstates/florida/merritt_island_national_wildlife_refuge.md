@@ -9,6 +9,11 @@ snippet: Florida wildlife refuge beside Kennedy Space Center, protecting estuari
   marshes, dunes, and pine flatwoods.
 title: Merritt Island National Wildlife Refuge
 type: location
+nature: 7.2
+leisure: 4.8
+adventure: 4.6
+city_culture: 2.1
+historic_culture: 2.1
 ---
 
 Located on the John F. Kennedy Space Center, east of [Titusville](/northamerica/unitedstates/florida/titusville), Florida.

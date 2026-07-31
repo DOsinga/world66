@@ -10,6 +10,11 @@ snippet: Planned French town built by Cardinal Richelieu, still laid out on a st
   17th-century grid
 title: Richelieu
 type: location
+nature: 3.1
+leisure: 5.4
+adventure: 3.9
+city_culture: 7.5
+historic_culture: 7.5
 ---
 
 Richelieu is one of France's great planning curiosities — a 17th-century town built from scratch by Cardinal Richelieu to accompany his now-demolished château. Laid out in the 1630s by the architect Jacques Lemercier, it follows a strict classical grid: streets of identical townhouses behind uniform stone façades, grand gateways, and formal axes that still function exactly as designed nearly four centuries later.

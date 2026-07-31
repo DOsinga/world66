@@ -14,6 +14,11 @@ snippet: Bahian beach village across from Porto Seguro, with colourful lanes abo
   low-cliff Atlantic beaches.
 title: Arraial da Ajuda
 type: location
+nature: 4.8
+leisure: 7.4
+adventure: 2.3
+city_culture: 4.0
+historic_culture: 4.0
 ---
 
 Arraial da Ajuda is a beach village on the coast of southern Bahia, across the river from [Porto Seguro](/southamerica/brazil/portoseguro) — the spot where the Portuguese first landed in Brazil over 500 years ago. Despite its proximity to Porto Seguro's package tourism, Arraial has kept its village atmosphere: dirt streets lined with colourful houses, a hilltop church with ocean views, and a string of beautiful beaches backed by low cliffs.

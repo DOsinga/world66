@@ -16,6 +16,11 @@ sources:
 - https://www.atlasobscura.com/places/trullo-di-marziolla
 title: Locorotondo
 type: location
+nature: 3.1
+leisure: 6.8
+adventure: 2.5
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 Locorotondo is one of the prettiest towns in the Valle d'Itria, a whitewashed knot of lanes set on a low hill above vineyards, olive groves, and trulli. The name means “round place”, and the old town still curls in a tidy loop of pale houses, little arches, stairways, and balconies bright with flowers.

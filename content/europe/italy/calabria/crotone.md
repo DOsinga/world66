@@ -18,6 +18,11 @@ sources:
 - https://en.wikipedia.org/wiki/Temple_of_Juno_Lacinia_(Crotone)
 title: Crotone
 type: location
+nature: 4.0
+leisure: 5.8
+adventure: 3.7
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Crotone sits on the ball of Italy's boot, facing the Ionian Sea in a part of Calabria that most travellers skip entirely. That is their loss. The city was founded around 710 BC as the Greek colony of Kroton, and for two centuries it was one of the most powerful cities of Magna Graecia — a place where the mathematician Pythagoras ran his philosophical school and where Olympic athletes were trained to an almost fanatical degree. The ancient city produced more Olympic champions than any other Greek colony, a fact the locals have not forgotten.

@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/G%C3%B6reme_Historical_National_Park
 title: Göreme
 type: location
+nature: 6.3
+leisure: 5.3
+adventure: 4.6
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 Göreme sits in the heart of [Cappadocia](/asia/turkey/cappadocia), surrounded by a moonscape of volcanic tuff carved by millions of years of wind and water into cones, pillars, and the tall phallic columns that Turks politely call peri bacaları — fairy chimneys. The town itself is small and easy to navigate, with most guesthouses and tour agencies clustered along a few streets above the bus station, but the landscape that rings it on every side is extraordinary.

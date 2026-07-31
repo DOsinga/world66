@@ -14,6 +14,11 @@ snippet: Quiet Ligurian hill town on a wooded plateau, with medieval traces and 
   walks
 title: Bardineto
 type: location
+nature: 5.2
+leisure: 5.3
+adventure: 4.3
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Situated on a wooded plateau in the upper valley of the Bormida di Millesimo, Bardineto is a quiet Ligurian hill town with more history than its size suggests. It became a fief of the Del Carretto of Balestrino in the thirteenth century, and in 1795 was the site of a battle between the Austrians and the French under General Masséna.

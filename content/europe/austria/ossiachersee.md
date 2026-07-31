@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Ossiach_Abbey
 title: Ossiacher See
 type: location
+nature: 5.7
+leisure: 7.4
+adventure: 2.4
+city_culture: 3.1
+historic_culture: 3.1
 ---
 
 Ossiacher See is the long, narrow lake northeast of [Villach](/europe/austria/villach), less grand than Wörthersee but often easier to like. The water warms quickly in summer, villages sit close to the shore, and the northern hills rise straight into the Gerlitzen, one of Carinthia's most accessible lookout mountains.

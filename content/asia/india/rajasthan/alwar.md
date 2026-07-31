@@ -14,6 +14,11 @@ snippet: Old Rajasthani city beneath Bala Quila, used as the base for Sariska Ti
   Reserve
 title: Alwar
 type: location
+nature: 4.5
+leisure: 3.7
+adventure: 5.5
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Alwar is one of the oldest cities in Rajasthan, sitting 170 km south of Delhi at the edge of the Aravalli Range. The city has a handsome [City Palace and museum](/asia/india/rajasthan/alwar/city_palace_museum), the ancient [Bala Quila](/asia/india/rajasthan/alwar/bala_quila) fort looming above it on the ridge, and the peaceful [Siliserh Lake](/asia/india/rajasthan/alwar/siliserh_lake) to the southwest. Most visitors, however, come for the [Sariska Tiger Reserve](/asia/india/rajasthan/alwar/sariska_tiger_reserve) just 35 km away.

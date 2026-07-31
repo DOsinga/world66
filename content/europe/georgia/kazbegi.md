@@ -13,6 +13,11 @@ snippet: Caucasus mountain area around Stepantsminda, framed by Mount Kazbek and
   Trinity Church
 title: Kazbegi
 type: location
+nature: 8.3
+leisure: 4.1
+adventure: 5.9
+city_culture: 2.2
+historic_culture: 2.2
 ---
 
 The Kazbegi region — centred on the village of **Stepantsminda** (still widely called Kazbegi) — sits at the foot of [Mount Kazbek](/europe/georgia/kazbegi/mount_kazbek) (5,047 m) near the Russian border. It is one of the most spectacular and accessible mountain landscapes in the Caucasus, reachable in about two and a half hours from Tbilisi by car or marshrutka from Didube bus station along the [Georgian Military Highway](/europe/georgia/kazbegi/georgian_military_highway).

@@ -15,6 +15,11 @@ snippet: French capital on the Seine, defined by historic quartiers, major museu
   and Haussmann boulevards.
 title: Paris
 type: location
+nature: 0.9
+leisure: 8.7
+adventure: 1.3
+city_culture: 9.0
+historic_culture: 9.0
 ---
 
 Paris is the most visited city on earth, and familiarity with its image makes it easy to underestimate. You arrive knowing the Eiffel Tower, Notre-Dame, and the Louvre from a thousand photographs, but the city constantly surprises. The quartiers you didn't plan to visit, the food market you stumbled into, the view down a Haussmann boulevard at dusk — these are what stay with you.

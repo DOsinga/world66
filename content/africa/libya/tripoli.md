@@ -16,6 +16,11 @@ snippet: Mediterranean Libyan capital where an old medina and Roman arch survive
   oil-era concrete sprawl.
 title: Tripoli
 type: location
+nature: 4.6
+leisure: 1.9
+adventure: 7.8
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Tripoli is the capital of Libya and the seat of the internationally recognised Government of National Unity (GNU). It is a city of about 1.2 million people, built at the edge of the Sahara where it meets the Mediterranean. The old town retains genuine character despite the concrete sprawl of the oil-boom decades.

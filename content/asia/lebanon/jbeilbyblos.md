@@ -16,6 +16,11 @@ image_license: CC BY-SA 2.0
 image_attribution: tongeron91 on Flickr
 snippet: Byblos is an ancient Lebanese port city with Phoenician, Roman, Crusader,
   and Ottoman remains.
+nature: 3.5
+leisure: 5.9
+adventure: 3.8
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Byblos (Jbeil in Arabic) is one of the oldest continuously inhabited cities in the world, with a history stretching back over 9,000 years. Located 37 km north of [Beirut](/asia/lebanon/beirut), it has been occupied by Phoenicians, Egyptians, Assyrians, Greeks, Romans, Arabs, Crusaders and Ottomans, each leaving traces that make it one of the richest archaeological sites in the Middle East.

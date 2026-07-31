@@ -14,6 +14,11 @@ title: Delvina
 type: location
 snippet: Southern Albanian hillside town between Saranda and Gjirokastër, near Phoenice
   and Ottoman-era monuments.
+nature: 4.2
+leisure: 4.6
+adventure: 4.9
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Delvina is a small town in southern Albania, set on a hillside between [Saranda](/europe/albania/saranda) and [Gjirokastër](/europe/albania/gjirokaster). It is not a destination in its own right but a convenient stop on the road between the two major southern cities, with enough interesting buildings nearby to justify half a day.

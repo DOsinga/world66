@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Castello,_Cagliari
 title: Cagliari
 type: location
+nature: 2.8
+leisure: 6.5
+adventure: 3.3
+city_culture: 7.3
+historic_culture: 7.3
 ---
 
 Cagliari is the capital and largest city of **Sardinia**, set on a broad bay on the south coast of the island, and has been the island's main harbour since Phoenician times — a line of continuous occupation that runs through the Carthaginians, Romans, Byzantines, Pisans, Aragonese and Spanish, all of whom left their marks on the city. For most travellers it is the main arrival point in Sardinia, either by air (the airport is 8 km from the centre) or by the overnight ferries from the Italian mainland (Civitavecchia, Naples, Palermo, Livorno).

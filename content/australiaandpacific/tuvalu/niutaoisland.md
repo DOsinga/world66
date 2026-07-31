@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Niutao
 title: Niutao Island
 type: location
+nature: 8.4
+leisure: 4.2
+adventure: 5.6
+city_culture: 1.8
+historic_culture: 1.8
 ---
 
 Niutao is a small reef island in the northern part of [Tuvalu](/australiaandpacific/tuvalu), about 240 kilometres north of Funafuti. Unlike most of Tuvalu's other islands it is not a true atoll: there is no central lagoon, only the island itself — roughly two kilometres across, ringed by a steep reef that drops abruptly into deep ocean. Two small landlocked brackish ponds, [Lake Manu'a](/australiaandpacific/tuvalu/niutaoisland/lake_manua) and [Lake Vaiaki](/australiaandpacific/tuvalu/niutaoisland/lake_vaiaki), sit in the interior, surrounded by dense coconut and pandanus.

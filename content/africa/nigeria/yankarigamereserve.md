@@ -7,6 +7,11 @@ snippet: Nigerian savanna wildlife reserve centered on elephants and the warm sp
   waters of Wikki Camp.
 title: Yankari Game Reserve
 type: location
+nature: 8.8
+leisure: 2.8
+adventure: 6.9
+city_culture: 1.3
+historic_culture: 1.3
 ---
 
 Yankari is Nigeria's best-known wildlife reserve, covering around 2,250 square kilometres of Guinea savanna in Bauchi State in the northeast of the country. It is one of the largest and most intact savanna ecosystems in West Africa, and for wildlife watching in Nigeria there is nothing else in the same league. Elephants are the star attraction — a healthy population roams the reserve, most reliably spotted near water during the dry season. Buffalo, hippo, kob, waterbuck, roan antelope, baboons, and various monkey species fill out the cast, along with lions and crocodiles, though large predators are harder to see.

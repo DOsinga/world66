@@ -10,6 +10,11 @@ snippet: Guanajuato industrial city and Mexico's footwear capital, with leather 
   and a compact historic centre
 title: León
 type: location
+nature: 3.0
+leisure: 5.7
+adventure: 4.0
+city_culture: 7.5
+historic_culture: 7.5
 ---
 
 León is the largest city in the state of [Guanajuato](/northamerica/mexico/guanajuato) and the fifth-largest in Mexico. Known as the shoe capital of the world, the city produces around a third of all footwear made in the country, and the [leather goods](/northamerica/mexico/len/leather_market) on sale here are genuinely good value.

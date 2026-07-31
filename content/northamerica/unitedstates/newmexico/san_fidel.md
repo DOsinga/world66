@@ -14,6 +14,11 @@ snippet: Tiny Route 66 hamlet with unrestored roadside relics, a mission church,
   high-desert wine.
 title: San Fidel
 type: location
+nature: 5.3
+leisure: 4.8
+adventure: 4.8
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 On old Route 66 in Cibola County, San Fidel is a tiny hamlet between Albuquerque and Gallup with a couple of things worth stopping for. For Route 66 roadies, there are the ruins of the Whiting Brothers Chief Rancho motel to the west of town, and the [White Arrow Garage](/northamerica/unitedstates/newmexico/san_fidel/white_arrow_garage) in town — authentic, unrestored relics of the old road rather than tourist reconstructions. East of the mission church, a small gallery shows contemporary art. To the north of town, a small winery produces a Riesling from the high desert conditions that is worth a tasting stop.

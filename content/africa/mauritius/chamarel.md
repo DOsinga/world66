@@ -13,6 +13,11 @@ snippet: Mauritian mountain village known for the Seven Coloured Earth and water
   in the island's lush southwest.
 title: Chamarel
 type: location
+nature: 5.9
+leisure: 6.8
+adventure: 3.1
+city_culture: 3.3
+historic_culture: 3.3
 ---
 
 Chamarel is a small village in the hilly southwest of [Mauritius](/africa/mauritius), best known for two of the island's most popular natural attractions: the [Seven Coloured Earth](/africa/mauritius/chamarel/seven_coloured_earth) and the [Chamarel Waterfall](/africa/mauritius/chamarel/chamarel_waterfall). The village sits in a lush, mountainous landscape that feels worlds away from the resort-lined beaches of the north coast.

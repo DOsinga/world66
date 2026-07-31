@@ -14,6 +14,11 @@ snippet: Delaware coastal town founded by the Dutch in 1631, where Delaware Bay 
   the Atlantic.
 title: Lewes
 type: location
+nature: 4.6
+leisure: 6.1
+adventure: 3.1
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Lewes was Delaware's first European settlement, founded by the Dutch in 1631. It sits where the Delaware Bay meets the Atlantic Ocean, and that location has shaped everything about it — from the colonial-era maritime heritage to the beaches that draw visitors today.

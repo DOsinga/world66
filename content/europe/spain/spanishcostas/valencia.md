@@ -16,6 +16,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Valencia
 title: Valencia
 type: location
+nature: 2.2
+leisure: 8.6
+adventure: 1.3
+city_culture: 7.4
+historic_culture: 7.4
 ---
 
 Valencia is Spain's third-largest city but one of its most underrated. It has the Mediterranean climate, the beaches, and the nightlife of Barcelona without the crowds or the prices — and it is the birthplace of paella, which alone is reason enough to visit.

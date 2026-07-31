@@ -14,6 +14,11 @@ snippet: Adriatic coastline south of Ancona where Monte Conero drops steeply to 
   and coves.
 title: Riviera del Conero
 type: location
+nature: 5.4
+leisure: 7.3
+adventure: 2.5
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 The Riviera del Conero is a short stretch of Adriatic coastline south of [Ancona](/europe/italy/marche/riviera_del_conero/ancona) in the [Marche](/europe/italy/marche) region, where [Monte Conero](/europe/italy/marche/riviera_del_conero/monte_conero) drops steeply into the sea. It is one of the most scenic sections of Italy's east coast — a welcome contrast to the flat, developed beaches that line most of the Adriatic.

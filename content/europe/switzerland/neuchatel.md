@@ -13,6 +13,11 @@ snippet: Swiss lakeside city of golden sandstone streets, Jura slopes, and a med
   château above Lake Neuchâtel.
 title: Neuchatel
 type: location
+nature: 4.5
+leisure: 7.4
+adventure: 2.4
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Neuchâtel sits on the northwest shore of [Lake Neuchâtel](/europe/switzerland/neuchatel/lake_neuchatel), the largest lake lying entirely within Switzerland, with the Jura slopes rising behind the city and a wide view south toward the Alps on a clear day. It is compact, handsome, and largely overlooked by tourists — which makes it one of the more pleasant Swiss cities to spend time in. The old town climbs the hillside in layers of golden sandstone, topped by a twelfth-century [château](/europe/switzerland/neuchatel/neuchatel_castle) and collegiate church that together form one of the better-preserved medieval complexes in the country.

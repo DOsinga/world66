@@ -13,6 +13,11 @@ snippet: Etruscan town near Rome, known for the Banditaccia necropolis carved li
   a city of the dead.
 title: Cerveteri
 type: location
+nature: 2.5
+leisure: 4.4
+adventure: 5.2
+city_culture: 8.3
+historic_culture: 8.3
 ---
 
 Cerveteri, ancient Caere, is one of the most important Etruscan sites in Italy and well worth the short detour from [Rome](/europe/italy/lazio/rome) or [Tarquinia](/europe/italy/lazio/tarquinia). The Necropoli della Banditaccia — a vast city of the dead — is where most of the Etruscan objects now filling the museums of Rome and beyond were excavated.

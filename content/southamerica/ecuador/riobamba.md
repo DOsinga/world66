@@ -14,6 +14,11 @@ title: Riobamba
 type: location
 snippet: Andean Ecuadorian town known for Saturday markets, Chimborazo views, and
   train trips through the sierra.
+nature: 4.9
+leisure: 5.1
+adventure: 4.6
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Riobamba is a small town in the Andes. It is mainly popular with travelers because of its Indian markets. The town is filled every Saturday with woolen blankets pigs and produce. The market frequented by Amerindians from the neighboring villages sprawls through several town squares and streets.

@@ -14,6 +14,11 @@ snippet: Tiny Éislek village in wooded northern Luxembourg, close to the Upper 
   Lake
 title: Kaundorf
 type: location
+nature: 4.5
+leisure: 5.8
+adventure: 3.6
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Kaundorf is a small village in the Éislek region of northern Luxembourg, set in hilly, wooded countryside near the [Upper Sûre Lake](/europe/luxembourg/kaundorf/upper_sure_lake). With just a handful of houses clustered around a quiet lane, it is the kind of place where the main activities are walking, cycling, and doing nothing at all -- which is exactly the point.

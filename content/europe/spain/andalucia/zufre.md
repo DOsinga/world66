@@ -13,6 +13,11 @@ snippet: Whitewashed Sierra de Huelva village perched above a gorge, with cliff-
   views from El Paseo.
 title: Zufre
 type: location
+nature: 4.0
+leisure: 6.2
+adventure: 3.0
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Zufre is a small white village in the Sierra de Huelva, clinging to the edge of a gorge above the Rivera de Huelva river. Unlike the famous white towns of Cadiz province, Zufre has not been polished for tourists — there are no souvenir shops, no tour buses, and the village feels genuinely lived-in rather than preserved. The streets are steep, narrow, and quiet, and the houses are whitewashed in the traditional Andalusian style.

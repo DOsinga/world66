@@ -14,6 +14,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Kaili
 title: Kaili
 type: location
+nature: 6.0
+leisure: 4.3
+adventure: 5.3
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Kaili is an industrial city that nobody goes to for the city itself. It exists on the traveller's map as the gateway to the Qiandongnan Miao and Dong Autonomous Prefecture — a region of river valleys and wooden villages where Miao and Dong minority culture has survived with more substance than almost anywhere else in China. The city is the practical base: it has the hotels, the transport connections, and the bus station where you pick up the routes into the surrounding countryside.

@@ -15,6 +15,11 @@ snippet: Northern Thai city in a mountain-fringed river valley, calmer than Chia
   Mai and close to border country.
 title: Chiang Rai
 type: location
+nature: 4.7
+leisure: 5.2
+adventure: 4.4
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Chiang Rai is Thailand's northernmost major city, set in a broad river valley surrounded by forested mountains near the borders with Myanmar and Laos. It is calmer, smaller, and less commercialised than Chiang Mai, with a good night market, pleasant temples, and easy access to some of northern Thailand's most interesting countryside.

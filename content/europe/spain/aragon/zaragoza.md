@@ -16,6 +16,11 @@ snippet: Aragonese capital on the Ebro, layered with Roman ruins, Mudéjar churc
   and Baroque basilicas.
 title: Zaragoza
 type: location
+nature: 2.3
+leisure: 7.1
+adventure: 2.5
+city_culture: 8.1
+historic_culture: 8.1
 ---
 
 Zaragoza is the capital of Aragon and the fifth-largest city in Spain, sitting in the broad Ebro valley halfway between Madrid and Barcelona. It is emphatically Spanish — not much visited by foreign tourists, which is part of its appeal. The city has a compact historic centre with an exceptional density of monuments: Roman ruins, Moorish palaces, Mudéjar churches, and Baroque basilicas within walking distance of each other.

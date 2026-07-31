@@ -12,6 +12,11 @@ snippet: Gloucestershire market town at the Avon-Severn meeting point, watched o
   by a great Norman abbey.
 title: Tewkesbury
 type: location
+nature: 3.3
+leisure: 5.8
+adventure: 3.3
+city_culture: 7.0
+historic_culture: 7.0
 ---
 
 Tewkesbury is a handsome market town in the north of Gloucestershire where the River Avon meets the Severn, surrounded by water meadows and prone to flooding in a spectacular way when both rivers run high. The setting alone makes it worth the detour from the M5, but the town has enough substance to justify a proper visit.

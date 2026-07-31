@@ -11,6 +11,11 @@ snippet: Gran Canaria resort with long beaches, shopping centres, and nightlife 
   the Maspalomas dunes.
 title: Playa del Ingles
 type: location
+nature: 5.0
+leisure: 8.2
+adventure: 1.7
+city_culture: 3.3
+historic_culture: 3.3
 ---
 
 Playa del Inglés is a large resort built almost entirely of hotels, apartment blocks, and shopping centres. The beach stretches several kilometres from Faro de Maspalomas in the west to San Agustín in the east, running seamlessly into the Maspalomas dune system.

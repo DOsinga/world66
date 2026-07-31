@@ -9,6 +9,11 @@ title: Neumünster
 type: location
 snippet: Working Schleswig-Holstein city shaped by textile industry and practical
   postwar rebuilding.
+nature: 3.8
+leisure: 5.6
+adventure: 3.5
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Neumünster sits in the middle of Schleswig-Holstein, roughly halfway between Hamburg and Kiel, and has long been defined by its textile and leather industries. The city took heavy damage in World War II and was rebuilt in a practical rather than picturesque style, so do not come expecting half-timbered charm. What you will find is a straightforward working city with a few genuine points of interest.

@@ -11,6 +11,11 @@ image: baka.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ba%C5%A1ka_krk.jpg
 image_license: CC BY-SA 3.0 de
 image_attribution: Arne Müseler
+nature: 4.5
+leisure: 8.0
+adventure: 1.9
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 The Great Beach is a natural pebble beach, 1800 m long, which can take several thousand swimmers with ease. It's particularly suitable for children and non-swimmers.

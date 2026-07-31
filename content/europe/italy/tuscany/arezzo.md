@@ -13,6 +13,11 @@ snippet: Eastern Tuscan hill city with Etruscan roots and Piero della Francesca'
   great fresco cycle.
 title: Arezzo
 type: location
+nature: 1.6
+leisure: 8.8
+adventure: 1.2
+city_culture: 8.0
+historic_culture: 8.0
 ---
 
 Arezzo is a handsome hilltop city in eastern Tuscany, equidistant from [Florence](/europe/italy/tuscany/florence), [Siena](/europe/italy/tuscany/siena), and [Perugia](/europe/italy/umbria/perugia). In the Middle Ages it rivalled Florence in military power; today it draws visitors with a medieval centre rich in Etruscan, Roman, and Renaissance traces — and far fewer crowds than its more famous neighbours.

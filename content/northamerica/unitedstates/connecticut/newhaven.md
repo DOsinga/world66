@@ -13,6 +13,11 @@ sources:
 - https://en.wikipedia.org/wiki/Yale_University
 title: New Haven
 type: location
+nature: 2.4
+leisure: 6.7
+adventure: 2.6
+city_culture: 7.9
+historic_culture: 7.9
 ---
 
 New Haven is a city defined by Yale University, but it has a character that goes well beyond the campus gates. The university gives the city world-class museums, a lively arts scene, and some genuinely extraordinary architecture, while the surrounding neighbourhoods contribute some of the best pizza in the United States and a gritty urban energy that keeps things real.

@@ -10,6 +10,11 @@ snippet: Alabama port city with French Louisiana roots and America's oldest Mard
   Gras tradition.
 title: Mobile
 type: location
+nature: 3.4
+leisure: 6.2
+adventure: 3.0
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 Mobile is Alabama's only port city and its oldest. It was the original capital of French Louisiana, and that heritage shows -- the city has a distinctly different feel from the rest of the state, part Southern, part Cajun, with wrought-iron balconies and live oaks draped in Spanish moss.

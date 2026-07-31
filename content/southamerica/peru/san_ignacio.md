@@ -15,6 +15,11 @@ longitude: -78.89563
 score: 5.63
 title: San Ignacio
 type: location
+nature: 4.9
+leisure: 5.0
+adventure: 4.8
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 San Ignacio is a small but attractive town in the northernmost province of [Cajamarca](/southamerica/peru/cajamarca), at 1,200 metres in the foothills where the Andes break into the Amazon. For many travellers it is a stopover on the road to or from [Ecuador](/southamerica/ecuador) via Zumba and Vilcabamba; for others it is the entry point to one of Peru's least-visited national protected areas, the [Santuario Nacional Tabaconas Namballe](/southamerica/peru/santuario_nacional_tabaconas_namballe). A lot of people just pass by, but it is a good place to spend a day or even two.

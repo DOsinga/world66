@@ -14,6 +14,11 @@ snippet: Pelješac wine village surrounded by Plavac Mali vineyards on steep Adr
   slopes
 title: Postup
 type: location
+nature: 4.1
+leisure: 5.8
+adventure: 3.5
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Postup is a small village on the southern, sun-facing side of the Pelješac peninsula, surrounded by the [vineyards](/europe/croatia/postup_the_villag/postup_vineyards) that produce one of Croatia's most respected red wines. The Postup appellation — a rich, full-bodied wine made from the Plavac Mali grape — has been protected since 1961, and the steep, rocky slopes above the Adriatic create conditions that concentrate the flavour.

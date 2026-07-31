@@ -14,6 +14,11 @@ snippet: Busy Goan beach resort where a long palm-backed beach meets guesthouses
   restaurants, and souvenir stalls
 title: Calangute
 type: location
+nature: 4.4
+leisure: 7.7
+adventure: 2.1
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Calangute is the busiest beach resort in [Goa](/asia/india/goa), a long strip of sand backed by a chaotic jumble of guesthouses, restaurants, and souvenir shops. It is the default destination for domestic tourists and package holidaymakers, which means weekends and holidays can get overwhelming — that is a good time to escape to [Old Goa](/asia/india/goa/oldgoa) or one of the quieter beaches further north.

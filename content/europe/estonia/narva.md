@@ -16,6 +16,11 @@ sources:
 - https://visitnarva.ee/
 title: Narva
 type: location
+nature: 4.2
+leisure: 5.5
+adventure: 3.6
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Narva is Estonia's easternmost city and one of the most compelling border towns in Europe. The [Narva River](/europe/estonia/narva/narva_river_promenade) divides it from Russia so sharply that you can stand below [Narva Castle](/europe/estonia/narva/narva_castle) and look straight across to Ivangorod Fortress on the opposite bank. Few places make geography feel so political.

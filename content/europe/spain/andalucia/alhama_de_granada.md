@@ -7,6 +7,11 @@ snippet: Andalusian hill town perched above the Río Alhama gorge, with Arab bat
   fed by hot springs.
 title: Alhama de Granada
 type: location
+nature: 4.2
+leisure: 6.5
+adventure: 3.1
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Alhama de Granada sits in a dramatic gorge in the hills southwest of [Granada](/europe/spain/andalucia/granada), about 55 km from the provincial capital. The town is perched above the Río Alhama, which cuts a narrow ravine — the Tajo — through the limestone plateau. From the bridge over the gorge you look straight down into a slot canyon that drops some 30 metres to the river below.

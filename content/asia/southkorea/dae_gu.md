@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Daegu
 title: Daegu
 type: location
+nature: 3.2
+leisure: 5.4
+adventure: 3.8
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 Daegu is South Korea's third-largest city, sitting in a valley in the southeast of the country. The geography traps heat and humidity in summer, making it one of the hottest cities on the mainland — nicknamed "Dafrican" by Koreans — while winters are milder than Seoul. The city is historically a textile and fashion centre and was long known for its apples; today it is a manufacturing and service hub with two universities and a lively youth culture.

@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Shaolin_Monastery
 title: Shaolin Monastery
 type: location
+nature: 2.9
+leisure: 5.3
+adventure: 4.3
+city_culture: 8.0
+historic_culture: 8.0
 ---
 
 The Shaolin Monastery on Mount Song is one of the most famous Buddhist sites in the world, and also one of the most thoroughly commercialised. The monastery was founded in 495 CE; about thirty years later, according to tradition, the Indian monk Bodhidharma arrived and spent nine years meditating in a cave above the complex, establishing the Chan (Zen) school of Buddhism. The thirteen Shaolin monks who helped Tang Emperor Taizong win a civil war are depicted in paintings throughout the monastery, explaining why an ostensibly pacifist institution is associated with the world's most famous fighting style. Whether Bodhidharma actually taught the physical exercises that became Shaolin martial arts is disputed by modern scholars, but nobody disputes that this is where the tradition as it is understood today developed.

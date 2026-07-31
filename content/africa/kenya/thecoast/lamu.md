@@ -13,6 +13,11 @@ snippet: Historic Swahili island town off Kenya's northern coast, with coral-sto
   houses and car-free lanes.
 title: Lamu
 type: location
+nature: 4.9
+leisure: 7.3
+adventure: 2.7
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Lamu is the oldest living town in [Kenya](/africa/kenya), a Swahili settlement on a small island off the northern coast that has barely changed in centuries. The narrow streets are too tight for cars — donkeys and foot traffic are the only transport — and the architecture is a mix of coral stone, carved wooden doors, and whitewashed walls. More than 95 percent of the population is Muslim, and you are as likely to hear Arabic as Kiswahili.

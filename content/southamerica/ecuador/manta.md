@@ -14,6 +14,11 @@ longitude: -80.7162
 score: 7.29
 title: Manta
 type: location
+nature: 4.4
+leisure: 6.5
+adventure: 3.0
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Manta is Ecuador's main Pacific port and the third largest city in the country, with around 250,000 inhabitants spread across the Manabí coast. It's a working port city first and a resort second, which gives it a rougher, more authentic energy than the beach towns further south.

@@ -14,6 +14,11 @@ snippet: Equatorial Borneo river city where Kapuas waterfront kampungs meet West
   sultanate past.
 title: Pontianak
 type: location
+nature: 4.7
+leisure: 5.1
+adventure: 4.4
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Pontianak is the capital of West Kalimantan province on the island of Borneo, sitting almost exactly on the equator. The [Equator Monument](/asia/indonesia/pontianak/equator_monument) (Tugu Khatulistiwa) a few kilometres north of the city centre marks the line, and on the equinoxes in March and September you can watch your shadow disappear entirely at noon.

@@ -13,6 +13,11 @@ image: corrush.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Corrush.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Ermalx
+nature: 4.7
+leisure: 3.5
+adventure: 5.9
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Corrush is a small village in the [Mallakastër](/europe/albania/mallakaster) district of southern [Albania](/europe/albania), set among the dry, rolling hills between the Vjosa river valley and the Adriatic coast. The landscape here is quintessentially southern Albanian — olive groves, scrubby hillsides, and a few scattered stone houses connected by rough roads.

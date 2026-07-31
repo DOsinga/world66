@@ -12,6 +12,11 @@ sources:
 - https://tpwd.texas.gov/state-parks/palo-duro-canyon
 title: Canyon
 type: location
+nature: 4.9
+leisure: 3.7
+adventure: 5.4
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Canyon is the small Panhandle city that gives [Palo Duro Canyon State Park](/northamerica/unitedstates/texas/canyon/palo_duro_canyon_state_park) its practical base. [Amarillo](/northamerica/unitedstates/texas/amarillo) gets the highway traffic and Route 66 nostalgia, but Canyon is closer to the red-rock country that most travelers actually came to see.

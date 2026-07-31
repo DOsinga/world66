@@ -14,6 +14,11 @@ snippet: Eastern Kosovo city in the Morava e Binçës valley, with cafés, shops
   a covered bazaar.
 title: Gjilan
 type: location
+nature: 4.5
+leisure: 3.1
+adventure: 6.0
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Gjilan — Gnjilane in Serbian — is the main city of eastern Kosovo, the administrative centre of the Gjilan region, and the country's third-largest city. It sits in the broad Morava e Binçës valley, surrounded by low hills, close to the border with North Macedonia. It is a quieter and more laid-back place than [Pristina](/europe/serbiaandmontenegro/kosovoprovince/pristina), which is part of its appeal.

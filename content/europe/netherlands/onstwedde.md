@@ -14,6 +14,11 @@ snippet: Old Groningen village with the medieval Juffertoren, St. Nicholas churc
   and traces of Uneswido history.
 title: Onstwedde
 type: location
+nature: 4.4
+leisure: 4.8
+adventure: 4.2
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Onstwedde is a village about 30 kilometres south-east of Groningen, with a history stretching back more than 1,100 years. In early documents it appears as Uneswido — a name that already hints at how old this quiet corner of Groningen really is.

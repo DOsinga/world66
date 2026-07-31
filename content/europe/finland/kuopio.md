@@ -15,6 +15,11 @@ score: 7.5
 snippet: Finnish lake city in the Savo region, known for Puijo hill views and kalakukko.
 title: Kuopio
 type: location
+nature: 5.0
+leisure: 5.2
+adventure: 4.3
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Kuopio is the main city of North Savo, set in the heart of Finland’s lake district. The city sits on a peninsula surrounded by [Lake Kallavesi](/europe/finland/kuopio/lake_kallavesi), and the landscape of water, forest-covered islands, and low hills is quintessential Finnish lakeland.

@@ -14,6 +14,11 @@ score: 7.42
 snippet: West Midlands town dominated by a medieval castle above the River Avon
 title: Warwick
 type: location
+nature: 3.0
+leisure: 6.4
+adventure: 2.9
+city_culture: 7.4
+historic_culture: 7.4
 ---
 
 Warwick is a small town dominated by one of England's finest medieval castles. [Warwick Castle](/europe/unitedkingdom/england/birmingham_and_west_midlands/warwick/warwick_castle) sits on a sandstone bluff above the River Avon, its towers and ramparts largely intact after more than 900 years. The castle is now run as a commercial attraction and can feel theme-park-ish at peak times, but the building itself is magnificent — the view from Guy's Tower alone justifies the entrance fee.

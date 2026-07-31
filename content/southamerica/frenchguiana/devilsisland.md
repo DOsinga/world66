@@ -9,6 +9,11 @@ score: 7.34
 snippet: Former penal island off French Guiana, part of the Iles du Salut prison archipelago.
 title: Devil's Island
 type: location
+nature: 6.5
+leisure: 3.8
+adventure: 6.0
+city_culture: 3.6
+historic_culture: 3.6
 ---
 
 Just off the coast of [Kourou](/southamerica/frenchguiana/kourou) are three islands: Ile Royale, Ile Saint-Joseph, and Ile du Diable (Devil's Island). Together they are known as the Iles du Salut (Salvation Islands).

@@ -14,6 +14,11 @@ snippet: Quiet Algarve river town of scissor rooftops, old churches, and ferry b
   on Ilha de Tavira.
 title: Tavira
 type: location
+nature: 4.1
+leisure: 6.1
+adventure: 3.5
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Tavira is often called the most attractive town in the Algarve. Straddling the Gilao river, connected by an old Roman bridge, it has the kind of quiet beauty that the bigger resorts have traded away. The rooftops are distinctive -- four-sided pyramid shapes called telhados de tesoura that you will not see elsewhere in Portugal.

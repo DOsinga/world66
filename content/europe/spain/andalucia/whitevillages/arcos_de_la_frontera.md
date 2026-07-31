@@ -15,6 +15,11 @@ sources:
 - https://www.spain.info/en/places-of-interest/santa-maria-asuncion-basilica/
 title: Arcos de la Frontera
 type: location
+nature: 4.0
+leisure: 7.3
+adventure: 2.5
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Arcos de la Frontera is one of the most dramatic of the [White Villages](/europe/spain/andalucia/whitevillages), a town balanced along a limestone ridge above the Guadalete River. It looks almost improbable from below: white houses climbing the cliff, church towers on the skyline, and the old town squeezed into a narrow spine of lanes.

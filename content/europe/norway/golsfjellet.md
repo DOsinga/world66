@@ -9,6 +9,11 @@ snippet: Norwegian mountain plateau above Gol, with open ski fields in winter an
   hiking country in summer.
 title: Golsfjellet
 type: location
+nature: 7.6
+leisure: 5.1
+adventure: 4.6
+city_culture: 2.2
+historic_culture: 2.2
 ---
 
 Golsfjellet is a high mountain plateau in Hallingdal, Numedal, rising above the valley town of Gol in central Norway. In winter it's a popular ski destination — Golsfjellet Skisenter has slopes for all levels and draws a steady flow of weekenders from Oslo, about three hours south. The plateau sits above the treeline, giving it wide open snowfields and good cross-country skiing territory when the lifts aren't running.

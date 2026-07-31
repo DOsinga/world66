@@ -13,6 +13,11 @@ sources:
 - https://en.wikipedia.org/wiki/Corvin_Castle
 title: Hunedoara
 type: location
+nature: 2.9
+leisure: 5.4
+adventure: 4.1
+city_culture: 7.8
+historic_culture: 7.8
 ---
 
 Hunedoara is a gritty industrial city in western Transylvania, famous for something thoroughly at odds with its smoky steel mills: one of the finest Gothic castles in Central Europe. Corvin Castle — known in Romanian as Castelul Corvinilor — rises from a rocky outcrop above the town's river, its towers and drawbridge as dramatic as any castle on the continent. Built in the 15th century by John Hunyadi, the castle was later associated with the young Vlad the Impaler, who is said to have been imprisoned here.

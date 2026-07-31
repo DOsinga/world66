@@ -14,6 +14,11 @@ snippet: Former Lanzarote capital of cobbled lanes, whitewashed houses, old chur
   and a Sunday island market
 title: Teguise
 type: location
+nature: 5.1
+leisure: 7.2
+adventure: 2.6
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 Teguise was the capital of Lanzarote for over four hundred years until the seat of government moved to [Arrecife](/europe/spain/canaryislands/lanzarote/arrecife) in the nineteenth century. It is by far the most charming town on the island -- a quiet grid of cobbled streets, whitewashed houses, and a handful of churches and old palaces that hint at its former importance.

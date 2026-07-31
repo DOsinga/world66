@@ -13,6 +13,11 @@ sources:
 - https://en.wikipedia.org/wiki/%C5%9Eahbuz
 title: Shahbuz
 type: location
+nature: 6.0
+leisure: 2.9
+adventure: 6.8
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Shahbuz is a small mountain district in the [Nakhchivan Autonomous Republic](/europe/azerbaijan/naxcivan) of Azerbaijan, bordering Armenia to the north and east. The district takes its name from a medieval watchtower on a nearby peak — the [Shahbuz Tower](/europe/azerbaijan/naxcivan/shahbuz/shahbuz_tower) — which in turn was named for the mountain Shanbuztepe. The toponym is thought to derive from the Persian for "royal falcon."

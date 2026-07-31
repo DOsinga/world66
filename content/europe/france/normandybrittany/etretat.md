@@ -14,6 +14,11 @@ longitude: 0.2032
 score: 8.98
 title: Etretat
 type: location
+nature: 3.7
+leisure: 7.8
+adventure: 1.9
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Etretat is a small resort town on the Normandy coast, about 30 kilometres north of Le Havre. Its famous chalk cliffs — dramatic arches and a needle-like pinnacle jutting from the sea — have been attracting painters since the 19th century, including Monet, who came back several times. The cliffs are best seen at low tide from the [pebble beach](/europe/france/normandybrittany/etretat/plage_galets), or from the clifftop paths above the [Falaise d'Aval](/europe/france/normandybrittany/etretat/falaise_aval) and the [Falaise d'Amont](/europe/france/normandybrittany/etretat/falaise_amont). Walk past the first arch to find the larger [Manneporte](/europe/france/normandybrittany/etretat/manneporte) hidden behind it.

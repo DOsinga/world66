@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Weifang
 title: Weifang
 type: location
+nature: 4.9
+leisure: 4.9
+adventure: 4.6
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Weifang has been the kite-making capital of China for at least five centuries, and the claim is not merely promotional: the city's craftspeople developed distinctive painting styles and structural techniques that influenced kite design across East Asia, and the tradition remains a genuine industry here rather than a heritage performance for tourists. The [World Kite Museum](/asia/china/shandong_province/weifang/world_kite_museum) holds examples from dozens of countries alongside a deep collection of Weifang's own traditional forms. Every April, around the 20th, the [International Kite Festival](/asia/china/shandong_province/weifang/international_kite_festival) draws enthusiasts from across the world to fly kites on a designated field east of the city — an event that manages to be both authentically local and genuinely international.

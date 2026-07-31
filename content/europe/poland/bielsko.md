@@ -16,6 +16,11 @@ image_license: CC BY-SA 4.0
 image_attribution: Marcin Konsek
 snippet: Southern Polish twin city at the Beskid foothills, shaped by textiles, castles,
   and Austro-Hungarian streets.
+nature: 4.6
+leisure: 5.4
+adventure: 4.1
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Bielsko-Biała sits at the foot of the Beskid Mountains in southern Poland, a twin city formed from two towns that grew up on opposite banks of the Biała River. Bielsko was the Silesian side, Biała the Galician one, and the cultural seam between them still gives the place an interesting double character. It is a compact, walkable city with a handsome old town, a castle that has served as the local museum for decades, and a surprisingly rich industrial heritage rooted in wool and textiles.

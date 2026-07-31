@@ -16,6 +16,11 @@ snippet: Central European capital on the Vltava, dense with intact Gothic, Baroq
   and Art Nouveau streetscapes.
 title: Prague
 type: location
+nature: 1.1
+leisure: 8.6
+adventure: 1.4
+city_culture: 8.9
+historic_culture: 8.9
 ---
 
 We think Prague is one of the prettiest cities in the world. Built on seven hills and divided by the Vltava (Moldau) River, this capital of 1.3 million is unique among Central European cities: it survived World War II nearly intact. As a result it has beautiful architecture spanning Romanesque, Gothic, Renaissance, baroque, Art Nouveau, and modernist periods — all within walking distance of each other.

@@ -12,6 +12,11 @@ score: 8.48
 title: La Spezia
 type: location
 snippet: Working Ligurian port and Cinque Terre transport hub with a lively old centre.
+nature: 4.6
+leisure: 7.2
+adventure: 2.6
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 La Spezia is the main transport hub for the Cinque Terre, the string of five cliff-hugging villages that draw visitors from across the world. The city itself is a working port with a gritty, unpretentious character that most travellers overlook in their rush to catch the train north. That's their loss — the old centre around [Via del Prione](/europe/italy/liguria/laspezia/via_del_prione) has good restaurants, a lively market, and a relaxed evening passeggiata.

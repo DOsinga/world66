@@ -7,6 +7,11 @@ snippet: Maharashtra coastal town south of Mumbai, known for beaches and the off
   Kolaba Fort.
 title: Alibag
 type: location
+nature: 3.9
+leisure: 4.3
+adventure: 5.0
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Alibag (also Alibaug) is a coastal town in Maharashtra, about 95 kilometres south of Mumbai by road and roughly an hour by catamaran from the Gateway of India. It has been the default seaside escape for Mumbai residents for decades, and weekend crowds can make it feel like an extension of the city. Come on a weekday and it's much more relaxed.

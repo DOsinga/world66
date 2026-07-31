@@ -13,6 +13,11 @@ snippet: Sicilian Baroque town on a lava cliff above the Ionian Sea, between Cat
   and Taormina
 title: Acireale
 type: location
+nature: 3.9
+leisure: 5.8
+adventure: 3.5
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Acireale is a handsome Baroque town on Sicily's eastern coast, perched on a lava cliff above the Ionian Sea between [Catania](/europe/italy/sicily/catania) and [Taormina](/europe/italy/sicily/taormina). Often overlooked by visitors rushing between those two more famous destinations, it rewards a stop with its ornate churches, its lively piazza, and a genuine small-city atmosphere that feels distinctly un-touristy.

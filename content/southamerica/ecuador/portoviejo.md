@@ -14,6 +14,11 @@ sources:
 - https://allyouneedisecuador.com/portoviejo-ecuador/
 title: Portoviejo
 type: location
+nature: 4.2
+leisure: 4.6
+adventure: 4.6
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Portoviejo is the capital of Manabí province on Ecuador's central Pacific coast — one of the oldest cities in the country, founded in 1535. It sits about 30 km inland from the sea, a hot and purposeful commercial city that most travellers pass through on their way to the coast without stopping. That is a mistake, at least for a night.

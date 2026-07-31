@@ -14,6 +14,11 @@ snippet: Abu Dhabi oasis chain on the Rub al Khali edge, homeland of ruling fami
   and giant dunes.
 title: Liwa
 type: location
+nature: 5.5
+leisure: 4.4
+adventure: 5.2
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Liwa is a string of oasis settlements along the northern edge of the Rub al Khali — the Empty Quarter — in the Western Region of Abu Dhabi. It is the ancestral homeland of the ruling families of both Abu Dhabi and Dubai, and the landscape is as dramatic as anywhere in the [UAE](/asia/unitedarabemirates): enormous orange sand dunes rising to over 300 metres, date palm plantations in the valleys between them, and very little else.

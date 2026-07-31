@@ -15,6 +15,11 @@ snippet: Central-western Jiangxi city used as a base for Fairy Lake and its fore
 title: Xinyu
 type: location
 score: 5.69
+nature: 4.5
+leisure: 3.6
+adventure: 5.6
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Xinyu is a small, unpretentious city in central-western Jiangxi that most travelers pass through without stopping, a pattern they occasionally regret when they learn about [Fairy Lake](/asia/china/jiangxi/xinyu/fairy_lake). The reservoir, about fifteen kilometers from the city center, is improbably scenic: more than two hundred small forested islands rise from the water, and the boat tours that weave between them take a couple of hours and cost very little. On weekdays the crowds are thin, and the contrast between the placid water and the pine-covered hillocks has a quality more associated with Guilin than with an industrial Jiangxi prefecture.

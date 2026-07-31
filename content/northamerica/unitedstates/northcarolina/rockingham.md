@@ -10,6 +10,11 @@ snippet: Sandhills county seat in North Carolina, known for Rockingham Speedway 
   its long NASCAR history.
 title: Rockingham
 type: location
+nature: 4.2
+leisure: 4.8
+adventure: 4.2
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Rockingham is the county seat of Richmond County in the Sandhills region of [North Carolina](/northamerica/unitedstates/northcarolina), named after the Marquis of Rockingham. For nearly 40 years it was known to NASCAR fans as the home of [Rockingham Speedway](/northamerica/unitedstates/northcarolina/rockingham/rockingham_speedway) (formerly the North Carolina Speedway), a notoriously tough one-mile oval that hosted Cup Series races from 1965 until 2004. The speedway still hosts smaller events and remains the town's most recognizable landmark.

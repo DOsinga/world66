@@ -23,6 +23,11 @@ tags:
 - student_city
 title: Utrecht
 type: location
+nature: 1.9
+leisure: 7.8
+adventure: 1.7
+city_culture: 8.4
+historic_culture: 8.4
 ---
 
 Forget about The Hague, forget about Rotterdam, it's Utrecht you are heading for after visiting Amsterdam.

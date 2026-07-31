@@ -10,6 +10,11 @@ snippet: Cape Verdean capital on Santiago, with a compact plateau old quarter ab
   the harbour.
 title: Praia
 type: location
+nature: 5.6
+leisure: 7.2
+adventure: 2.7
+city_culture: 3.4
+historic_culture: 3.4
 ---
 
 Praia is the capital of Cape Verde and the largest city in the archipelago — relaxed by African capital standards, with a compact old quarter (the [Platô](/africa/capeverde/saotiago/praia/plato)) perched on a plateau above the harbour. The colonial Portuguese architecture and the central [Praça Alexandre Albuquerque](/africa/capeverde/saotiago/praia/praca_alexandre_albuquerque) give it more charm than most West African capitals manage.

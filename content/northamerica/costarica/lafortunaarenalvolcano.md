@@ -14,6 +14,11 @@ snippet: Costa Rican volcano town below Arenal, surrounded by hot springs, rainf
   and lake views.
 title: La Fortuna & Arenal Volcano
 type: location
+nature: 6.6
+leisure: 6.5
+adventure: 3.3
+city_culture: 2.6
+historic_culture: 2.6
 ---
 
 La Fortuna de San Carlos is a small town in northern Costa Rica that has built an entire economy around the enormous volcanic cone looming above it. [Arenal Volcano](/northamerica/costarica/lafortunaarenalvolcano/arenal_volcano) — one of the most symmetrical in the world — was intensely active from 1968 to 2010, drawing visitors who came to watch lava flows light up the night sky. It has been quiet since then, but the landscape of lava fields, cloud forest, and thermal springs that volcanic activity created remains spectacular.

@@ -14,6 +14,11 @@ sources:
 - https://en.wikipedia.org/wiki/L%27%C3%89tanche_Abbey,_Lorraine
 title: Hattonchâtel
 type: location
+nature: 4.6
+leisure: 5.4
+adventure: 4.0
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Hattonchâtel is a fortified village perched on a rocky promontory overlooking the Woëvre plain in [Lorraine](/europe/france/east/lorraine). It is named after Hatton, a 9th-century Bishop of Verdun who built a palace here. Cardinal Richelieu had the buildings destroyed in 1634, and the village fell into ruin.

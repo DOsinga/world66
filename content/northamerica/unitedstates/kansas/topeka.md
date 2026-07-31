@@ -16,6 +16,11 @@ title: Topeka
 type: location
 snippet: Kansas capital on the Kansas River, anchored by civil-rights history and
   statehouse politics.
+nature: 3.4
+leisure: 5.3
+adventure: 3.7
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Topeka is the capital of Kansas — a mid-sized city on the Kansas River that doesn't get much attention from travelers passing through the Great Plains, but rewards those who stop. It's a political and administrative city first, which means its most interesting sites tend to be civic and historical rather than culinary or cultural.

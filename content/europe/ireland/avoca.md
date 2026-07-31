@@ -10,6 +10,11 @@ snippet: Wicklow valley village where two rivers meet, known for Avoca Handweave
   and wooded hill scenery.
 title: Avoca
 type: location
+nature: 4.7
+leisure: 5.3
+adventure: 4.2
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Avoca sits in one of the prettiest valleys in County Wicklow, where two rivers meet among wooded hills. The village is small — a handful of streets along the Avoca River — but it draws visitors for the scenery and for [Avoca Handweavers](/europe/ireland/avoca/avoca_handweavers), Ireland's oldest working mill, producing woollen throws and blankets since 1723.

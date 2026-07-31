@@ -14,6 +14,11 @@ snippet: Old Bavarian cathedral city north of Munich, once more important than i
   famous southern neighbour
 title: Freising
 type: location
+nature: 4.2
+leisure: 4.5
+adventure: 4.8
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Freising is a small Bavarian city about 35 kilometres north of Munich and just a few kilometres from Munich Airport — which makes it both easy to reach and surprisingly overlooked. It's one of the oldest cities in Bavaria, with a history stretching back to the early medieval period. The bishop's seat here predates Munich itself, and for centuries Freising mattered more than its famous southern neighbour.

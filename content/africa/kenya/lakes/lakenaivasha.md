@@ -14,6 +14,11 @@ snippet: Freshwater Rift Valley lake northwest of Nairobi, rich with hippos, bir
   flower farms, and nearby Hell's Gate
 title: Lake Naivasha
 type: location
+nature: 7.7
+leisure: 6.6
+adventure: 3.3
+city_culture: 1.7
+historic_culture: 1.7
 ---
 
 Lake Naivasha is one of Kenya's few freshwater lakes, sitting at about 1,880 metres in the Rift Valley northwest of Nairobi. The lake and its shores support a rich concentration of wildlife — [hippos are common in the shallows](/africa/kenya/lakes/lakenaivasha/hippo_watching), and the birdlife is exceptional, with over 400 species recorded in the area.

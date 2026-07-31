@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Zhangjiakou
 title: Zhangjiakou
 type: location
+nature: 4.0
+leisure: 5.4
+adventure: 3.8
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Zhangjiakou sits at one of the natural gateways through the mountains that separate the North China Plain from the Mongolian Plateau, and it has played that geographic role for centuries. The [Dajingmen](/asia/china/hebei/zhangjiakou/dajingmen) gate, built around 1644 at the northern end of the old city, marks the spot where the Great Wall crosses the Mongolian borderland — not a dramatic clifftop section but a working military passage through which enormous quantities of trade goods and livestock moved during the Qing dynasty. By the nineteenth century the city had Russian merchants with permanent warehouses outside the gate, buying tea and silks for the overland route north.

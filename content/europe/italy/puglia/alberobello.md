@@ -14,6 +14,11 @@ snippet: Puglian town famous for trulli, the whitewashed cone-roofed houses of i
   historic centre.
 title: Alberobello
 type: location
+nature: 1.9
+leisure: 7.0
+adventure: 2.8
+city_culture: 8.6
+historic_culture: 8.6
 ---
 
 At first sight, you might think that you ended up in a fairytale and that within ample seconds, several dwarfs and elfs will come out of the white washed little houses with their cone-shaped roofs. When you come to think about it, you know that you’ve arrived in Alberobella.

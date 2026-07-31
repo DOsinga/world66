@@ -9,6 +9,11 @@ snippet: Undeveloped Outer Banks national seashore of barrier islands, wild hors
   shelling, and ferry-only solitude.
 title: Cape Lookout
 type: location
+nature: 6.9
+leisure: 5.4
+adventure: 4.2
+city_culture: 2.7
+historic_culture: 2.7
 ---
 
 Cape Lookout National Seashore is a 56-mile stretch of undeveloped barrier islands along the southern [Outer Banks](/northamerica/unitedstates/northcarolina/outerbanks) of North Carolina, running from Ocracoke Inlet in the northeast to Beaufort Inlet in the southeast. The three islands -- North Core Banks, South Core Banks, and Shackleford Banks -- may look barren from a distance, but they reward visitors with wild horses on Shackleford Banks, excellent shelling, and the kind of solitude that is increasingly rare on the East Coast.

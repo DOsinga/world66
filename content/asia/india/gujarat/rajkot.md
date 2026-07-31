@@ -14,6 +14,11 @@ image: rajkot.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Doordarshan_Kendra_Colony,_GIDC,_Rajkot,_Gujarat,_India_-_panoramio_(1).jpg
 image_license: CC BY-SA 3.0
 image_attribution: Jashu Ram
+nature: 3.5
+leisure: 4.8
+adventure: 4.5
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Rajkot is the main city of the Saurashtra region, a busy commercial centre that served as the capital of a princely state during British rule. Mahatma Gandhi spent part of his childhood here, and the **Kaba Gandhi No Delo**, the house where he lived, is now a small museum.

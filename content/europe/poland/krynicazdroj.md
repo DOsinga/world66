@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Krynica-Zdr%C3%B3j
 title: Krynica-Zdrój
 type: location
+nature: 4.8
+leisure: 7.3
+adventure: 2.5
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Krynica-Zdrój is Poland's largest and best-known spa town, tucked into the Beskid Sądecki mountains in the far south of the country. It has been drawing visitors to its mineral springs since the early 19th century, and the town retains a gentle, slightly old-fashioned spa-resort character — promenade parks, pump rooms, and grand wooden villas on the hillsides.

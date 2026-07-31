@@ -15,6 +15,11 @@ snippet: Small Berber town below the High Atlas, known for its Tuesday souk and 
   access.
 title: Amizmiz
 type: location
+nature: 5.2
+leisure: 4.4
+adventure: 5.3
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Amizmiz is a small Berber town about 55 km south of [Marrakech](/africa/morocco/marrakesh), at the foot of the High Atlas mountains. Most of its inhabitants are Chleuh Berbers who speak Tashelhiyt.

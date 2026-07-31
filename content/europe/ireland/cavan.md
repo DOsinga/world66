@@ -14,6 +14,11 @@ snippet: Irish county town in drumlin country, surrounded by lakes, angling wate
   and Shannon headwaters
 title: Cavan
 type: location
+nature: 4.2
+leisure: 4.0
+adventure: 5.1
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Cavan is the county town of County Cavan, set right in the heart of [Ireland](/europe/ireland)'s drumlin belt — a quietly beautiful landscape of small rounded hills, boggy hollows, and more lakes than you will find in any other county in the country. The town itself is modest and won't detain you long, but the countryside around it is the real draw. Anglers have been coming here for generations, and if you like walking or cycling through gentle, lake-dotted terrain with very few other people around, this is your kind of place.

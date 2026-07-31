@@ -10,6 +10,11 @@ snippet: Tiny Albanian Riviera village around a white-pebble cove backed by oliv
   groves and scrubby hills
 title: Jalë
 type: location
+nature: 5.6
+leisure: 3.4
+adventure: 6.5
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Jalë is a small coastal village on the Albanian Riviera, roughly halfway between [Vlorë](/europe/albania/vlore) and [Sarandë](/europe/albania/saranda), about seven kilometres south of [Himarë](/europe/albania/saranda/himare). The [beach](/europe/albania/jal/jal_beach) here is one of the most beautiful on this stretch of coast — a crescent of white pebbles and clear turquoise water backed by olive groves and scrubby hills.

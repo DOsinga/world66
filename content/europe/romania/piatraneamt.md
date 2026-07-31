@@ -10,6 +10,11 @@ snippet: Moldavian mountain city on the Bistrița River, ringed by monasteries, 
   and medieval court remains
 title: Piatra Neamț
 type: location
+nature: 4.2
+leisure: 5.7
+adventure: 3.8
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Piatra Neamț is the capital of Neamț County in northeast Romania, south of Bukovina. The town sits in a natural amphitheatre of forested mountains along the Bistrița River, and the setting alone makes it worth a stop. Neamț County claims the highest concentration of monasteries per square kilometre in the world, and the painted monasteries of southern Bukovina — though technically in neighbouring Suceava County — are within day-trip distance.

@@ -14,6 +14,11 @@ snippet: Mullerthal village known for paired medieval and Renaissance castles am
   Luxembourg's wooded sandstone gorges.
 title: Beaufort
 type: location
+nature: 4.7
+leisure: 6.0
+adventure: 3.3
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Beaufort is a village in the Mullerthal region of eastern Luxembourg, an area nicknamed "Little Switzerland" for its landscape of wooded gorges, sandstone rock formations, and narrow valleys carved by small rivers. It's one of the most touristed corners of the country, and for good reason.

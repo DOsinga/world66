@@ -14,6 +14,11 @@ snippet: Ancient Swedish cathedral town on the Västgöta plain, surrounded by r
   stones and abbey ruins.
 title: Skara
 type: location
+nature: 3.3
+leisure: 5.5
+adventure: 4.0
+city_culture: 7.3
+historic_culture: 7.3
 ---
 
 Skara is one of the oldest cities in Sweden, with roots stretching back over a thousand years. Its [cathedral](/europe/sweden/skara/skara_cathedral), founded in the 11th century, was the seat of one of the country's first bishoprics, and in medieval times the town sat at the crossroads of trade routes through Västra Götaland.

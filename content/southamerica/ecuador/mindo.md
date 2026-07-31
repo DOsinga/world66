@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Mindo,_Ecuador
 title: Mindo
 type: location
+nature: 6.7
+leisure: 5.3
+adventure: 4.4
+city_culture: 3.1
+historic_culture: 3.1
 ---
 
 Mindo is a small cloud forest town about 90 kilometres northwest of Quito, sitting at 1,250 metres on the western slopes of the Andes where two of the world's most biodiverse ecosystems meet: the Tropical Andes and the Chocoan lowlands. The result is a birdwatcher's paradise of staggering density — over 500 species have been recorded in the immediate area, including hummingbirds in impossible colours, toucans, tanagers, and the extraordinary Andean cock-of-the-rock. More species per square kilometre live here than almost anywhere else on the planet.

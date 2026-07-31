@@ -13,6 +13,11 @@ snippet: Caribbean capital of Curaçao, where Dutch colonial waterfronts line th
   Annabaai in bright island colours.
 title: Willemstad
 type: location
+nature: 4.6
+leisure: 5.8
+adventure: 3.8
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Willemstad is the capital of Curacao and one of the most visually striking cities in the Caribbean. The historic center, a UNESCO World Heritage Site since 1997, is built around the Sint Annabaai, a narrow ocean inlet that splits the city into two halves: [Punda](/northamerica/netherlandsantilles/curacao/willemstad/punda) on the east and [Otrobanda](/northamerica/netherlandsantilles/curacao/willemstad/otrobanda) on the west. The [Handelskade](/northamerica/netherlandsantilles/curacao/willemstad/handelskade) waterfront on the Punda side is the signature view — a row of tall Dutch colonial buildings painted in sherbet shades of pink, yellow, blue, and orange, reflected in the harbor water. The colors are not a modern invention; legend has it that a 19th-century governor claimed the white buildings gave him headaches, and the painting began.

@@ -16,6 +16,11 @@ snippet: Cycladic island of whitewashed lanes, protected architecture, beach clu
   and boat trips to Delos
 title: Mykonos
 type: location
+nature: 3.5
+leisure: 9.1
+adventure: 1.1
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Mykonos is the most famous party island in Greece, but it is also one of the most photogenic. The main town (Chora) is a maze of whitewashed alleys, blue-domed churches, and bougainvillea-draped balconies tumbling down to a harbour where fishing boats and superyachts share the waterfront. The Cycladic architecture is gorgeous and strictly protected — no neon, no tower blocks, everything dazzling white with splashes of colour.

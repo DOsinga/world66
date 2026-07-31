@@ -13,6 +13,11 @@ snippet: Chinese mountain retreat above Poyang Lake, layered with poetry, coloni
   villas, and modern political history.
 title: Lushan
 type: location
+nature: 6.0
+leisure: 4.9
+adventure: 4.7
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Lushan (庐山) is one of China's most celebrated mountains — a UNESCO World Heritage Site that combines dramatic scenery with layers of cultural and political history. The mist-wrapped peaks above Poyang Lake have inspired Chinese painters and poets for two millennia, and the list of historical figures associated with the mountain reads like a compressed tour through Chinese history.

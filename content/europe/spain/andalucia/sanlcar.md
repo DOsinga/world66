@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda
 title: Sanlúcar de Barrameda
 type: location
+nature: 3.1
+leisure: 7.5
+adventure: 2.0
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Sanlúcar de Barrameda sits at the mouth of the Guadalquivir River in Andalucía, right where the river meets the Atlantic and the marshlands of Doñana National Park begin on the opposite bank. It is one of the three towns of the sherry triangle, famous for its [manzanilla](/europe/spain/andalucia/sanlcar/bodegas_manzanilla) — a dry, salty fino sherry that supposedly gets its character from the sea air in the bodegas.

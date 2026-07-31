@@ -14,6 +14,11 @@ snippet: Southern California beach city known for LEGOLAND, spring flower fields
   and a relaxed coastal village.
 title: Carlsbad
 type: location
+nature: 3.9
+leisure: 7.4
+adventure: 2.1
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Carlsbad sits on the Southern California coast between Los Angeles and San Diego, and it punches well above its weight for a mid-size beach city. It is best known as the home of [LEGOLAND California](/northamerica/unitedstates/california/carlsbad/legoland_california) and the [Carlsbad Flower Fields](/northamerica/unitedstates/california/carlsbad/carlsbad_flower_fields) — 50-odd acres of giant ranunculus that bloom in a blaze of red, pink, orange, and white each spring — but there is more to the place than its two signature attractions.

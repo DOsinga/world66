@@ -12,6 +12,11 @@ title: Pindaya
 type: location
 snippet: Small Shan Hills town beside Nattamiekan Lake, known for caves packed with
   thousands of Buddha images.
+nature: 3.4
+leisure: 5.5
+adventure: 4.1
+city_culture: 7.3
+historic_culture: 7.3
 ---
 
 **Pindaya** is a small, unhurried town in the Shan Hills of central Myanmar, set around a lake called Nattamiekan (Angels Lake). It is worth a stop on the route between [Bagan](/asia/myanmar/bagan) or [Mandalay](/asia/myanmar/mandalay) and [Inle Lake](/asia/myanmar/inlelake), and many travellers pass through in a day — though the town rewards an overnight stay.

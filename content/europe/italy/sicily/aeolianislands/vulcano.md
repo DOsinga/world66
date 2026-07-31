@@ -14,6 +14,11 @@ image: vulcano.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_La_Fossa_crater_(Vulcano).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Carsten Steger
+nature: 6.3
+leisure: 6.0
+adventure: 3.9
+city_culture: 3.3
+historic_culture: 3.3
 ---
 
 Vulcano is the southernmost of the [Aeolian Islands](/europe/italy/sicily/aeolianislands) and the one that hits you hardest on arrival: the smell of sulphur drifts across the harbour before you've even stepped off the hydrofoil. The island is technically still active — not in a Stromboli-throwing-lava way, but in a steady, geological grumble of fumaroles, bubbling mud, and geothermally heated sea.

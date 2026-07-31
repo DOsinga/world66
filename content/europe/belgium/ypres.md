@@ -15,6 +15,11 @@ snippet: Small Flemish town rebuilt after World War I, with medieval cloth-trade
   and battlefield memory entwined.
 title: Ypres
 type: location
+nature: 3.1
+leisure: 5.9
+adventure: 3.4
+city_culture: 7.3
+historic_culture: 7.3
 ---
 
 Ypres (locally Ieper) is a small, handsome town in Western Flanders that was completely destroyed during the First World War and painstakingly rebuilt in its original medieval style during the 1920s. The result is a town that looks ancient but is essentially a century old — a living monument to what was lost.

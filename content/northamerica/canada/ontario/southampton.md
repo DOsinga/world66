@@ -14,6 +14,11 @@ snippet: Lake Huron beach town on the Saugeen River, known for sandy sunsets and
   ease.
 title: Southampton
 type: location
+nature: 3.8
+leisure: 6.1
+adventure: 3.0
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Southampton is a small beach town on the eastern shore of Lake Huron, at the mouth of the [Saugeen River](/northamerica/canada/ontario/southampton/saugeen_river), on Ontario's Bruce Peninsula. It has a loyal following among Ontario cottagers and summer visitors who come for the wide sandy beaches and the easy pace of a classic lakeside town.

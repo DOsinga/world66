@@ -10,6 +10,11 @@ snippet: English cathedral city on a river bend, dominated by its Norman cathedr
   castle, and university.
 title: Durham
 type: location
+nature: 2.9
+leisure: 6.5
+adventure: 2.9
+city_culture: 7.5
+historic_culture: 7.5
 ---
 
 It is surprising how many visitors to the UK rush from [London](/europe/unitedkingdom/england/london) to [Scotland](/europe/unitedkingdom/scotland) via [York](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/york) without a thought of Durham. Yet it is a lovely city with a magnificent castle and cathedral and is home to England's third oldest university.

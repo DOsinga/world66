@@ -10,6 +10,11 @@ snippet: Indiana Wabash River college city paired with West Lafayette and domina
   by Purdue University
 title: Lafayette
 type: location
+nature: 3.4
+leisure: 5.3
+adventure: 3.8
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Lafayette and its twin city West Lafayette sit on the Wabash River in central Indiana. West Lafayette is home to [Purdue University](/northamerica/unitedstates/indiana/lafayette/purdue_university), which dominates the local economy and gives the area a college-town energy — good restaurants, decent nightlife during the school year, and a young population funnelled through one of America's top engineering schools.

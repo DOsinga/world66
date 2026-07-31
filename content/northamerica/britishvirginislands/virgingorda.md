@@ -15,6 +15,11 @@ snippet: Granite-and-limestone Caribbean island in the British Virgins, famous f
 title: Virgin Gorda
 type: location
 score: 9.15
+nature: 6.1
+leisure: 8.0
+adventure: 1.9
+city_culture: 2.5
+historic_culture: 2.5
 ---
 
 Virgin Gorda is the third largest of the [British Virgin Islands](/northamerica/britishvirginislands) and the most distinctive — a long, dragon-shaped sliver of granite and limestone running for ten miles from the airport at the south end to North Sound at the top. Christopher Columbus sighted it in 1493 and named it the "fat virgin" because of the round, reclining profile of the central hill (Gorda Peak), which from the sea genuinely does look like a sleeping body. The island is more spacious and less crowded than Tortola and rewards visitors with two of the most extraordinary natural features in the Caribbean.

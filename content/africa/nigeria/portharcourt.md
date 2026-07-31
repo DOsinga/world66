@@ -19,6 +19,11 @@ sources:
 - https://en.wikipedia.org/wiki/Port_Harcourt_Zoo
 title: Port Harcourt
 type: location
+nature: 4.8
+leisure: 2.5
+adventure: 7.3
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Port Harcourt is the capital of Rivers State in southern Nigeria and the centre of the country's oil industry. The city was founded by the British in 1913 as a deep-water port on the Bonny River and named after Lewis Harcourt, Secretary of State for the Colonies; before that, the area was small fishing villages at the edge of the Niger Delta. It is still sometimes called the "Garden City" for its colonial-era planned avenues and green spaces, though the reality of modern Port Harcourt is more sprawling and chaotic than that nickname suggests.

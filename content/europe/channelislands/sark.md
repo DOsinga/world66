@@ -14,6 +14,11 @@ sources:
 - https://en.wikipedia.org/wiki/Sark
 title: Sark
 type: location
+nature: 5.0
+leisure: 6.3
+adventure: 3.4
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Sark is three miles long and one and a half miles wide, and there are no cars. Tractors are used for farming and to haul luggage from the harbour; otherwise everyone gets around by [bicycle](/europe/channelislands/sark/cycling) or horse-drawn carriage. Mobile signal is poor. The pace drops noticeably from the moment you step off the ferry from Guernsey.

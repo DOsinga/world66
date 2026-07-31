@@ -14,6 +14,11 @@ snippet: Mountainous Pacific island region with rainforest, volcanoes, and a dif
   history around the Panguna mine.
 title: Bougainville
 type: location
+nature: 8.2
+leisure: 3.9
+adventure: 5.9
+city_culture: 2.3
+historic_culture: 2.3
 ---
 
 Bougainville is the largest island in the Solomon Islands chain, though politically it belongs to [Papua New Guinea](/asia/papuanewguinea) as an autonomous region. It is a lush, mountainous island with dense tropical rainforest, active volcanoes, and a history as complex and painful as anywhere in the Pacific.

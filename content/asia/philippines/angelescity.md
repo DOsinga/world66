@@ -16,6 +16,11 @@ snippet: Pampanga city near Clark Field, shaped by air-base history, Kapampangan
   and Mount Pinatubo
 title: Angeles City
 type: location
+nature: 3.9
+leisure: 6.3
+adventure: 3.2
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Angeles City sits in the heart of Pampanga province on the island of Luzon, about 80 kilometers north of Manila. For decades it was known primarily for Clark Air Base and the entertainment strip that grew up around it, but the city has been steadily reinventing itself since the Americans left in 1991.

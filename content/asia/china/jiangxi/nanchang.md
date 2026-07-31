@@ -13,6 +13,11 @@ snippet: Jiangxi provincial capital on the Gan River, associated with the 1927 N
   Uprising.
 title: Nanchang
 type: location
+nature: 4.2
+leisure: 5.1
+adventure: 4.2
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Nanchang (南昌), the provincial capital of Jiangxi, calls itself the "Heroes' City" and means it — on 1 August 1927, Communist forces launched the Nanchang Uprising here, firing what Chinese history books call the first shots of the revolution. The [August 1st Uprising Memorial Museum](/asia/china/jiangxi/nanchang/august_1st_uprising_museum) occupies the former headquarters and is genuinely interesting if you want to understand how the People's Republic came to be. [Bayi Square](/asia/china/jiangxi/nanchang/bayi_square), with its towering monument and oversized PLA flag, sits at the city's ceremonial heart.

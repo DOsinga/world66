@@ -14,6 +14,11 @@ snippet: Hebei grassland plateau north of Beijing, where the Yan Mountains flatt
   toward Inner Mongolia.
 type: location
 score: 7.74
+nature: 7.9
+leisure: 4.2
+adventure: 5.5
+city_culture: 2.1
+historic_culture: 2.1
 ---
 
 The Bashang Grasslands in northern Hebei sit at the edge of the Inner Mongolian plateau, where the forested Yan Mountains suddenly flatten into rolling grassland. They are the closest grasslands to Beijing — roughly three to four hours north — which makes them enormously popular with city residents who want steppe landscape without travelling all the way to Inner Mongolia. The terrain looks genuinely Mongolian: broad meadows, distant ridgelines, horse ranches, and sky in all directions. [Horse riding](/asia/china/hebei/bashang_grasslands/horse_riding) is the central activity, with Mongolian-style camps operating across the plateau from July through September.

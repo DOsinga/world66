@@ -13,6 +13,11 @@ snippet: Hessian university city on the Lahn, with surviving old buildings and a
   student character
 title: Giessen
 type: location
+nature: 3.7
+leisure: 5.6
+adventure: 3.4
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Giessen is a city of more than 850 years standing in the middle of Hesse, roughly halfway between [Frankfurt](/europe/germany/hessen/frankfurt) and [Marburg](/europe/germany/hessen/marburg). It sits on the River Lahn and has around 73,000 inhabitants. Though the inner city was largely destroyed in World War II, a few historic buildings survived: the [Old Castle](/europe/germany/hessen/giessen/old_castle) (Altes Schloss), the Burgmannenhaus, and the Zeughaus among them.

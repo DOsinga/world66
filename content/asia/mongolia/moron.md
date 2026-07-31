@@ -14,6 +14,11 @@ snippet: Northern Mongolian provincial town and supply gateway to Lake Khövsgö
   forested mountain basin.
 title: Moron
 type: location
+nature: 6.9
+leisure: 2.8
+adventure: 6.7
+city_culture: 3.4
+historic_culture: 3.4
 ---
 
 Mörön is the capital of Khövsgöl province in northern Mongolia, a small, dusty town that serves as the gateway to Lake Khövsgöl — one of the most beautiful lakes in Asia. The town itself has little to detain you: a market, a few ger camps on the outskirts, and the usual Mongolian provincial-town mix of Soviet apartment blocks and wooden fences. But it is the last significant settlement before the lake, and a good place to organise transport, guides, and supplies. Spare an afternoon for the [Museum of Khövsgöl Province](/asia/mongolia/moron/museum_of_khovsgol) on the central square and the small [Danzandarjaa Monastery](/asia/mongolia/moron/danzandarjaa_monastery) on the western edge of town — both will frame everything you see in the days that follow.

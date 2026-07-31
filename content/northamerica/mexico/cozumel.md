@@ -14,6 +14,11 @@ snippet: Caribbean island off Yucatán, known for reef diving and ancient Maya p
   sites.
 title: Cozumel
 type: location
+nature: 5.4
+leisure: 8.5
+adventure: 1.6
+city_culture: 2.9
+historic_culture: 2.9
 ---
 
 Cozumel is a small island off the coast of [Yucatán](/northamerica/mexico/yucatan), 19 kilometres across the channel from Playa del Carmen. It is one of Mexico's premier dive destinations, with the western shore fringed by the Mesoamerican Barrier Reef — the second-largest reef system in the world — and water clarity that often exceeds 30 metres.

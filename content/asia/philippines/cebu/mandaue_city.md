@@ -13,6 +13,11 @@ snippet: Industrial Metro Cebu city on the Mactan Channel, with old civic buildi
   beside modern bridges.
 title: Mandaue City
 type: location
+nature: 3.8
+leisure: 3.6
+adventure: 5.5
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Mandaue is a highly urbanised city in the province of Cebu, forming part of Metro Cebu — the second-largest conurbation in the Philippines. It occupies a coastal strip on the eastern side of Cebu Island, facing Mactan Island across the Mactan Channel. Two bridges connect the cities: the older Mactan–Mandaue Bridge and the newer [Marcelo Fernan Bridge](/asia/philippines/cebu/mandaue_city/marcelo_fernan_bridge), an extradosed cable-stayed structure opened in 1999.

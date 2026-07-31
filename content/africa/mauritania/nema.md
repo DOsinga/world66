@@ -14,6 +14,11 @@ snippet: Remote Saharan town on Mauritania's eastern edge, with nomadic trade an
   very basic traveller facilities
 title: Nema
 type: location
+nature: 7.0
+leisure: 1.3
+adventure: 8.4
+city_culture: 3.6
+historic_culture: 3.6
 ---
 
 Nema is at the eastern edge of Mauritania, an eternity's drive through desolate Sahara or a quick Air Mauritanie flight — scheduled once a week and almost always overbooked. There is nothing particularly special to see here, but the town has a laid-back atmosphere and gives you a chance to encounter people from different nomadic tribes. Timbuktu is not far away across the border in Mali, though getting there may prove very difficult.

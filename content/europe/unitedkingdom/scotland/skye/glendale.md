@@ -14,6 +14,11 @@ snippet: Remote Skye crofting township tied to land reform history and the sea c
   of Neist Point.
 title: Glendale
 type: location
+nature: 8.1
+leisure: 4.3
+adventure: 5.4
+city_culture: 2.0
+historic_culture: 2.0
 ---
 
 Glendale is a remote crofting township at the western tip of [Skye](/europe/unitedkingdom/scotland/skye), seven miles west of [Dunvegan](/europe/unitedkingdom/scotland/skye/dunvegan) in the Duirinish peninsula. The area is associated with the MacLeod clan and with an 1882 land reform dispute — the "Battle of the Braes" — when local crofters resisted eviction and helped spark the legislation that eventually protected Scottish tenants' rights.

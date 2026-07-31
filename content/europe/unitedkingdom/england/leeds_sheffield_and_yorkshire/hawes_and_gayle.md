@@ -14,6 +14,11 @@ snippet: Yorkshire Dales market town in upper Wensleydale, known for cheese, rop
   and fellside atmosphere.
 title: Hawes and Gayle
 type: location
+nature: 5.3
+leisure: 5.8
+adventure: 3.7
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Hawes is the main market town at the head of Wensleydale in the [Yorkshire Dales](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/yorkshire_dales), and the nearby hamlet of Gayle sits just a few minutes' walk to the south. At 260 metres above sea level, it is one of the highest market towns in England, and on the days when cloud sits on the surrounding fells and the stone buildings darken in the rain, it is also one of the most atmospheric.

@@ -10,6 +10,11 @@ snippet: Dutch university city in Twente, centred on the Oude Markt and rebuilt 
   neighbourhood.
 title: Enschede
 type: location
+nature: 3.5
+leisure: 4.6
+adventure: 4.5
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Enschede is a university city in Twente, the eastern corner of the Netherlands, about two hours by train from Amsterdam. It is the largest city in the region and has a youthful energy driven by the University of Twente and Saxion University of Applied Sciences.

@@ -16,6 +16,11 @@ image: volterra.jpg
 image_source: https://commons.wikimedia.org/wiki/File:%2BFaszinierendes_Beispiel_mittelalterlicher_Stadtarchitektur._01.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Holger Uwe Schmitt
+nature: 3.1
+leisure: 6.7
+adventure: 3.0
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 Volterra sits 545 metres above sea level on a dramatic ridge in the Tuscan hills, looking out over the Cecina and Era valleys. It is less visited than [Siena](/europe/italy/tuscany/siena) or [San Gimignano](/europe/italy/tuscany/sangimignano), which is precisely the point — you can walk its narrow stone streets without feeling like you are in a theme park.

@@ -13,6 +13,11 @@ title: Calpe
 snippet: Costa Blanca town dominated by the Penyal d'Ifac, a limestone rock rising
   from the sea.
 type: location
+nature: 6.1
+leisure: 6.8
+adventure: 3.1
+city_culture: 3.0
+historic_culture: 3.0
 ---
 
 Calpe (Calp in Valencian) is a small coastal town on the Costa Blanca dominated by the [Penyal d'Ifac](/europe/spain/spanishcostas/calpe/penyal_difac), a massive 332-metre limestone rock jutting out of the sea. The rock is a nature reserve and the climb to the top — about an hour each way through a tunnel and along a steep trail — rewards you with views stretching to [Ibiza](/europe/spain/balearicislands/ibiza) on a clear day.

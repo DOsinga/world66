@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Chongzuo
 title: Chongzuo
 type: location
+nature: 5.3
+leisure: 4.1
+adventure: 5.3
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Chongzuo sits in southwestern Guangxi on the Vietnamese border and is the city most travellers pass through without stopping — the [Detian Waterfall](/asia/china/guangxi/detian) to its west and [Nanning](/asia/china/guangxi/nanning) to its east tend to absorb all the attention. This is a mistake of sorts, because the area around Chongzuo has two things worth going out of the way for: the [Huashan cliff murals](/asia/china/guangxi/chongzuo/huashan_cliff_murals), a UNESCO World Heritage Site along the Zuojiang River, and the [Chongzuo Ecology Park](/asia/china/guangxi/chongzuo/chongzuo_ecology_park), one of the better places in China to see the white-headed leaf monkey, a primate endemic to this corner of Guangxi that is genuinely endangered and genuinely striking.

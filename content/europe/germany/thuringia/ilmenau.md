@@ -16,6 +16,11 @@ sources:
 - https://www.ilmenau.de/en/tourism/discover-experience/kickelhahn/
 title: Ilmenau
 type: location
+nature: 4.4
+leisure: 5.6
+adventure: 3.5
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Ilmenau sits where the townscape of [Thuringia](/europe/germany/thuringia) gives way to the Thuringian Forest. It is a university town, a Goethe town, and a practical base for walking up into the wooded hills without having to sleep in a resort village. The centre is small, with a market square, the [St. Jakobus Church](/europe/germany/thuringia/ilmenau/st_jakobus_church), and enough cafes to remind you that the [Technische Universitaet Ilmenau](/europe/germany/thuringia/ilmenau/technische_universitaet_ilmenau) keeps the place young.

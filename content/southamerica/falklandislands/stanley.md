@@ -14,6 +14,11 @@ snippet: Tiny Falkland Islands capital and harbour town, with British-painted ho
   far out in the South Atlantic
 title: Stanley
 type: location
+nature: 7.4
+leisure: 2.0
+adventure: 7.4
+city_culture: 2.8
+historic_culture: 2.8
 ---
 
 Stanley — also called Port Stanley — is the capital and only real town in the Falkland Islands, home to about 2,500 of the territory's 3,500 residents. It sits on a sheltered harbour on the east coast of East Falkland, a huddle of brightly painted houses with corrugated iron roofs that look distinctly British despite being 13,000 km from London.

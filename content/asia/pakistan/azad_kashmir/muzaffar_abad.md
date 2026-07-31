@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/Muzaffarabad
 title: Muzaffarabad
 type: location
+nature: 7.3
+leisure: 3.7
+adventure: 6.2
+city_culture: 2.9
+historic_culture: 2.9
 ---
 
 **Muzaffarabad** is the capital of Azad Kashmir, sitting at the [confluence of the Jhelum and Neelum rivers](/asia/pakistan/azad_kashmir/muzaffar_abad/river_confluence) in a valley surrounded by forested mountains. The setting is spectacular — green hills rising steeply on all sides, the rivers rushing through the centre of town.

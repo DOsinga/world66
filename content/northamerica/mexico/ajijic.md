@@ -13,6 +13,11 @@ snippet: Lakeside town on Lake Chapala, known for cobbled streets, murals, and a
   expatriate community.
 title: Ajijic
 type: location
+nature: 4.5
+leisure: 6.8
+adventure: 2.8
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Ajijic is a small town on the northern shore of Lake Chapala, about an hour south of Guadalajara, and it has the largest community of North American expats in Mexico — estimates vary, but tens of thousands of Americans and Canadians have settled along this stretch of lakeshore. The reasons are obvious: the climate is close to perfect, with warm days, cool nights, and almost no rain from October to May. The setting, with the Sierra Madre mountains rising behind the town and the vast lake stretching to the south, is genuinely beautiful.

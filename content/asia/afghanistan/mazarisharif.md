@@ -10,6 +10,11 @@ snippet: Northern Afghan city centred on the blue-tiled Shrine of Hazrat Ali and
   white doves.
 title: Mazar-i-Sharif
 type: location
+nature: 5.0
+leisure: 1.5
+adventure: 8.2
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Mazar-i-Sharif is Afghanistan's fourth-largest city and the capital of Balkh province in the far north, close to the Uzbek and Turkmen borders. Its name means "Tomb of the Noble One" — a reference to the Blue Mosque at the city's heart, which according to tradition holds the tomb of Ali ibn Abi Talib, cousin and son-in-law of the Prophet Muhammad.

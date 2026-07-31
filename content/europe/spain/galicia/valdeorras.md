@@ -14,6 +14,11 @@ snippet: Galician wine comarca along the Sil and Xares valleys, known especially
   Godello and Mencía.
 title: Valdeorras
 type: location
+nature: 5.3
+leisure: 6.7
+adventure: 3.0
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 Valdeorras is a wine region and comarca in the eastern end of Galicia's Ourense province, along the Sil and Xares river valleys. The DO Valdeorras covers the municipalities of O Barco, A Rúa, Vilamartín, O Bolo, Carballeda de Valdeorras, Larouco, Petín, and Rubiá.

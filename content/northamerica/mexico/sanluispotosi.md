@@ -10,6 +10,11 @@ snippet: Central Mexican colonial city founded as a mining settlement, with baro
   churches and grand plazas.
 title: San Luis Potosí
 type: location
+nature: 3.9
+leisure: 5.2
+adventure: 4.2
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 San Luis Potosí is a colonial city of about a million people in central Mexico, capital of the state of the same name. Founded in the late 1500s as a silver and gold mining settlement at 1,877 metres elevation, it was one of the wealthiest cities in New Spain and its centre shows it: grand plazas, baroque churches of real ambition, and wide pedestrian streets lined with 18th-century buildings.

@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/Costa_Mesa,_California
 title: Costa Mesa
 type: location
+nature: 3.8
+leisure: 7.9
+adventure: 1.7
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Costa Mesa sits in the heart of Orange County, sandwiched between Newport Beach and Irvine, and it punches above its weight in shopping and performing arts. [South Coast Plaza](/northamerica/unitedstates/california/orangecounty/costamesa/south_coast_plaza) is the anchor — one of the largest shopping centres in the United States, with every luxury brand you can name. But Costa Mesa also has [The LAB](/northamerica/unitedstates/california/orangecounty/costamesa/the_lab), a converted warehouse turned alternative shopping complex on Bristol Street that is the anti-mall antidote.

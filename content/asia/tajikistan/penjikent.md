@@ -14,6 +14,11 @@ snippet: Tajik town near Samarkand, with nearby ruins from the old Sogdian centr
   of Ancient Penjikent.
 title: Penjikent
 type: location
+nature: 4.2
+leisure: 4.1
+adventure: 5.8
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 Substantially closer to [Samarkand](/asia/uzbekistan/samarkand) than to Dushanbe, Penjikent was the old centre of the Sogdian empire. Around the modern town and in its museum you will find remains of this pre-Islamic civilisation.

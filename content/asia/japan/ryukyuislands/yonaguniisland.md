@@ -14,6 +14,11 @@ image_license: CC0
 image_attribution: Melkov
 snippet: Japan's westernmost inhabited island, with sea cliffs, wild ponies, hammerhead
   dives, and Taiwan on the horizon.
+nature: 7.0
+leisure: 3.7
+adventure: 6.1
+city_culture: 3.4
+historic_culture: 3.4
 ---
 
 Yonaguni is the westernmost inhabited island in Japan — on a clear day you can see Taiwan, just 111 kilometres away. It is a remote, wind-battered place with dramatic cliffs, wild horses roaming the grasslands, and a population of fewer than 2,000.

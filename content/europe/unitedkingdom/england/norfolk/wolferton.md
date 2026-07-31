@@ -14,6 +14,11 @@ snippet: Tiny Norfolk village on the Sandringham Estate, centred on a former roy
   railway station in secluded woodland
 title: Wolferton
 type: location
+nature: 4.6
+leisure: 6.2
+adventure: 3.0
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Wolferton is a tiny village on the western edge of Norfolk, about 3 miles from [Sandringham House](/europe/unitedkingdom/england/norfolk/wolferton/sandringham_house). It sits within the Sandringham Estate woodland, surrounded by stands of mature trees that give it an unexpectedly secluded feel.

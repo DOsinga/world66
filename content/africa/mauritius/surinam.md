@@ -14,6 +14,11 @@ snippet: South Mauritius village near Souillac, close to basalt waterfalls, quie
   beaches, and exposed coastal cliffs.
 title: Surinam
 type: location
+nature: 4.8
+leisure: 4.4
+adventure: 5.1
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Surinam is a village in the far south of Mauritius, just east of Souillac on the other side of the Savanne River estuary. It's a quiet, largely residential community with a Sunday market and some local cafes.

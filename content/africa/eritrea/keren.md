@@ -14,6 +14,11 @@ snippet: Eritrean market city in a bowl of rocky hills, known for its mixed comm
   and camel market.
 title: Keren
 type: location
+nature: 6.7
+leisure: 1.4
+adventure: 8.5
+city_culture: 4.0
+historic_culture: 4.0
 ---
 
 Keren is Eritrea's second city, sitting in a bowl of rocky hills about 90 km northwest of [Asmara](/africa/eritrea/asmara) at an elevation of 1,390 metres. It is quieter and less visited than the capital, but many travelers who make the trip find it more immediately likeable — a market town that feels genuinely lived in.

@@ -14,6 +14,11 @@ snippet: Sacred Haryana pilgrimage city where tradition places the Mahabharata b
   and Krishna's teaching of the Bhagavad Gita.
 title: Kurukshetra
 type: location
+nature: 3.1
+leisure: 4.5
+adventure: 4.6
+city_culture: 7.4
+historic_culture: 7.4
 ---
 
 Kurukshetra is one of the most sacred sites in Hinduism — the battlefield where the Pandavas and Kauravas fought the war at the heart of the Mahabharata, and where Lord Krishna delivered the Bhagavad Gita to Arjuna. Few places carry such concentrated spiritual weight, and pilgrims arrive from across India to walk ground that ancient tradition regards as the origin of dharma itself.

@@ -14,6 +14,11 @@ snippet: Ancient Syrian city with a citadel, covered souks, and one of the world
   longest urban histories.
 title: Aleppo
 type: location
+nature: 4.4
+leisure: 2.1
+adventure: 7.8
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Aleppo is one of the oldest continuously inhabited cities in the world, with roots stretching back at least eight thousand years. Before the war, it was Syria's largest city and its commercial heart — a place where Ottoman merchants, Armenian craftsmen, and Bedouin traders had done business for centuries in the same covered souks. Then came the siege of 2012–2016, and much of the old city was reduced to rubble.

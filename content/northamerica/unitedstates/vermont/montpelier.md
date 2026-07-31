@@ -15,6 +15,11 @@ title: Montpelier
 snippet: Tiny Vermont capital in a Winooski River valley, centred on a gold-domed
   State House.
 type: location
+nature: 5.2
+leisure: 6.4
+adventure: 3.4
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Montpelier is the smallest state capital in the United States — a distinction that turns out to be one of its greatest charms. With fewer than 10,000 residents, this is a real small city that feels more like an overgrown New England village than a seat of government. The golden dome of the [State House](/northamerica/unitedstates/vermont/montpelier/vermont_state_house) rises above Church Street, surrounded by independent bookshops, good restaurants, and the kind of walkable downtown that larger capitals can only envy.

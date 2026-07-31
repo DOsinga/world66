@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Tianmen_Mountain
 title: Tianmen Mountain
 type: location
+nature: 7.6
+leisure: 4.6
+adventure: 5.3
+city_culture: 2.8
+historic_culture: 2.8
 ---
 
 Tianmen Mountain rises immediately behind the city of [Zhangjiajie](/asia/china/hunan/zhangjiajie) and offers a spectacle quite different from the sandstone columns of [Wulingyuan](/asia/china/hunan/wulingyuan). Its defining feature is the [Heaven Gate Cave](/asia/china/hunan/tianmen_mountain/heaven_gate_cave): a natural arch about 130 metres high and 57 metres wide formed in 263 AD when the back of a cliff cave collapsed, leaving an opening that frames the sky like a window punched through solid rock. The name Tianmen — Heaven's Gate — refers to this arch, and it is visible from the city below, the cable car, and the plateau above, each angle producing a completely different impression.

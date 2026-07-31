@@ -15,6 +15,11 @@ snippet: Original Ardennes spa town where mineral springs, faded elegance, and S
   share the hills.
 title: Spa
 type: location
+nature: 3.8
+leisure: 7.4
+adventure: 2.2
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Spa is the town that named the world. Long before "spa" became a generic word for any wellness centre with a hot tub, it was this small Walloon town in the Ardennes hills that European royalty visited to drink the mineral-rich spring water and restore their constitutions. The word stuck, and it travelled everywhere — but there is only one original.

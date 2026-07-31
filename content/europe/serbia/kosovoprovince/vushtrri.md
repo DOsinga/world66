@@ -7,6 +7,11 @@ snippet: Central Kosovo market city with Ottoman-era remains, a stone bridge, an
   roots reaching back to antiquity.
 title: Vushtrri
 type: location
+nature: 4.5
+leisure: 3.0
+adventure: 6.1
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Vushtrri (also written Vučitrn in Serbian) is a small city in central Kosovo, about 25 kilometres north of Pristina on the road toward Mitrovica. It is an old market town with an Ottoman-era centre — a stone bridge, remnants of a bazaar — and a history stretching back through Byzantine and Roman settlement to Illyrian times.

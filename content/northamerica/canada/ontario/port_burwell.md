@@ -14,6 +14,11 @@ snippet: Quiet Lake Erie town with sandy beaches, a historic lighthouse, and loc
   perch on summer tables.
 title: Port Burwell
 type: location
+nature: 4.8
+leisure: 5.4
+adventure: 3.6
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Port Burwell is a small town on the north shore of Lake Erie in southwestern Ontario, the kind of quiet lakeside community that Canadians escape to on summer weekends. It sits within three hours of [Toronto](/northamerica/canada/ontario/toronto) and is easily reached from Windsor and Niagara Falls.

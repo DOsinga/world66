@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/Oklahoma_State_University%E2%80%93Stillwater
 title: Stillwater
 type: location
+nature: 4.7
+leisure: 3.1
+adventure: 6.1
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Stillwater is Oklahoma's classic college town: orange on game days, quiet in summer, and shaped by Oklahoma State University at almost every turn. It has more personality than its size suggests, partly because the campus, downtown, and old restaurant-and-music haunts sit close enough to feel connected.

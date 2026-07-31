@@ -13,6 +13,11 @@ snippet: Great Southern Plain university city on the Tisza, rebuilt with grand b
   after the 1879 flood.
 title: Szeged
 type: location
+nature: 3.1
+leisure: 6.7
+adventure: 2.6
+city_culture: 7.1
+historic_culture: 7.1
 ---
 
 Szeged is Hungary's third-largest city and the unofficial capital of the Great Southern Plain. It sits on the banks of the Tisza River, close to the Serbian border, and has a distinctly different feel from [Budapest](/europe/hungary/budapest) -- sunnier, more relaxed, and very much a university town. The population swells by tens of thousands during term time, which keeps the cafe and bar scene lively.

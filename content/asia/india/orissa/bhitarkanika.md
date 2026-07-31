@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Gahirmatha_Beach
 title: Bhitarkanika National Park
 type: location
+nature: 5.9
+leisure: 4.1
+adventure: 5.6
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Bhitarkanika National Park protects one of the great mangrove landscapes of eastern India. Rivers, creeks, mudflats, and forested islands spread out behind the Bay of Bengal, creating a quieter, less famous cousin to the Sundarbans. The stars here are saltwater crocodiles, waterbirds, monitor lizards, and the strange stillness of the mangrove channels.

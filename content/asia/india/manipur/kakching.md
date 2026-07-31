@@ -13,6 +13,11 @@ sources:
 - https://kakching.nic.in/places-of-interest/
 title: Kakching
 type: location
+nature: 6.8
+leisure: 1.9
+adventure: 7.8
+city_culture: 3.7
+historic_culture: 3.7
 ---
 
 Kakching is the second largest town in Manipur, situated in the southeastern part of the state about 44 kilometres from [Imphal](/asia/india/manipur/imphal) and 70 kilometres from the border with Myanmar. The town was declared the cleanest city in Northeast India in 2018, and it shows — the streets are unusually well-organized for a town of this size, and the market culture is lively without being chaotic.

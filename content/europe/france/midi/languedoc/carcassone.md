@@ -14,6 +14,11 @@ snippet: Fortified Languedoc city with 52 towers and concentric medieval rampart
   above the Aude River.
 title: Carcassonne
 type: location
+nature: 2.6
+leisure: 7.4
+adventure: 2.2
+city_culture: 7.5
+historic_culture: 7.5
 ---
 
 Carcassonne is the most complete surviving example of a medieval fortified town in Europe — 52 towers, two concentric rings of ramparts, and 3 kilometres of walls encircling [a living Cité](/europe/france/midi/languedoc/carcassone/the_cite) on a hill above the Aude river. The Romans were here first (Colonia Julia Carcasso), then the Visigoths, then the Cathars, then the French Crown, and each left layers in the stone. The 19th-century architect Viollet-le-Duc spent decades restoring it; some of his conical slate-roofed towers are considered over-romanticised by purists, but the overall effect is extraordinary.

@@ -13,6 +13,11 @@ snippet: Sicilian city under Mount Etna, rebuilt in dark lava-stone baroque afte
   the 1693 disaster
 title: Catania
 type: location
+nature: 2.6
+leisure: 7.0
+adventure: 2.7
+city_culture: 7.7
+historic_culture: 7.7
 ---
 
 Catania sits in the shadow of Mount Etna, Sicily's great volcano, and you feel that presence everywhere — in the black lava stone that paves the streets and faces the baroque churches, in the sulphurous haze that sometimes hangs over the city, in the way locals talk about the mountain as if it were a difficult neighbour rather than a natural wonder. The city was almost entirely destroyed by the catastrophic earthquake and eruption of 1693 and then rebuilt in a grand baroque style, mostly by the architect Giovanni Vaccarini. It is darker and rougher than Palermo, but it has a vitality that grows on you.

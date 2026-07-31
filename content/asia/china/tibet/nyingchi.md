@@ -14,6 +14,11 @@ image: nyingchi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gongbo%27gyamda,_Nyingchi,_Tibet,_China_-_panoramio_(19).jpg
 image_license: CC BY-SA 3.0
 image_attribution: ping lin
+nature: 8.7
+leisure: 2.9
+adventure: 7.0
+city_culture: 1.9
+historic_culture: 1.9
 ---
 
 Nyingchi (Linzhi) is the greenest and most lush corner of Tibet, sitting in the lower reaches of the Yarlung Tsangpo River at relatively low elevations compared to the rest of the plateau. Where most of Tibet is barren and high, Nyingchi is forested, mild, and surprisingly verdant — it is sometimes called "the Switzerland of Tibet," and while that overstates things, the contrast with the rest of the region is real.

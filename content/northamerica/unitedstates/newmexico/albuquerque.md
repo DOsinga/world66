@@ -15,6 +15,11 @@ snippet: New Mexico's largest city, spread along the Rio Grande below the Sandia
   and old Route 66.
 title: Albuquerque
 type: location
+nature: 3.7
+leisure: 5.5
+adventure: 4.2
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Albuquerque is New Mexico's largest city and its de facto capital in all but name. Sprawling across the Rio Grande valley at the foot of the Sandia Mountains, it is a city of contrasts -- historic adobe neighborhoods sit alongside strip malls, and ancient petroglyphs share the horizon with suburban sprawl.

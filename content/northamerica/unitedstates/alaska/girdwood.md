@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Crow_Creek_(Alaska)
 title: Girdwood
 type: location
+nature: 8.2
+leisure: 5.4
+adventure: 4.5
+city_culture: 1.6
+historic_culture: 1.6
 ---
 
 Girdwood is a small resort town tucked into a glacial valley off the Turnagain Arm of Cook Inlet, about 60 km southeast of [Anchorage](/northamerica/unitedstates/alaska/anchorage) along the Seward Highway. Officially it is part of the Municipality of Anchorage, which makes Girdwood the southernmost neighbourhood of one of the largest cities by area in the United States. In practice it is a separate village of around 2,000 people, surrounded on three sides by the Chugach Mountains and on the fourth by a tidal mudflat famous for its bore tide.

@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Torriglia
 title: Scrivia Valley
 type: location
+nature: 5.0
+leisure: 5.3
+adventure: 4.3
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 The Scrivia Valley runs inland from [Genoa](/europe/italy/liguria/genoa) through a corridor of hills and chestnut woods toward the Giovi pass, which for centuries marked the boundary between the Ligurian Republic and the Holy Roman Empire. It's a quiet, workaday valley — more weekend retreat for Genoese than international tourist destination — but that's part of its appeal.

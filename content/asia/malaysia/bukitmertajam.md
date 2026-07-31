@@ -14,6 +14,11 @@ snippet: Mainland Penang town with an old trading centre and Chinese temples ben
   Bukit Mertajam hill.
 title: Bukit Mertajam
 type: location
+nature: 4.6
+leisure: 5.4
+adventure: 4.0
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Bukit Mertajam is a town on the mainland side of Penang state, across the channel from [George Town](/asia/malaysia/penang/georgetown). It is rarely on tourist itineraries, but it has a genuine, unhurried character that makes it worth a stop if you are passing through. The town grew around the tin and rubber trades and has a compact old centre with Chinese shophouses, Indian temples, and a lively [morning market](/asia/malaysia/bukitmertajam/morning_market).

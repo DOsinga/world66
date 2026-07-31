@@ -10,6 +10,11 @@ title: Akure
 type: location
 snippet: Ondo State capital in Yoruba cocoa country, with deep royal traditions and
   rainforest nearby.
+nature: 4.9
+leisure: 3.5
+adventure: 6.1
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Akure is the capital of Ondo State in southwestern Nigeria, set in the lush cocoa-growing country of the Yoruba heartland. It is a mid-sized city — busy and functional rather than polished — but it rewards visitors who are interested in Yoruba culture, the surrounding rainforest, and Nigeria off the usual tourist trail.

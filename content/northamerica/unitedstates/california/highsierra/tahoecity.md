@@ -13,6 +13,11 @@ snippet: Northwest Lake Tahoe mountain town at the Truckee River outlet, with be
   trails, and quieter alpine energy.
 title: Tahoe City
 type: location
+nature: 7.1
+leisure: 5.8
+adventure: 4.0
+city_culture: 2.7
+historic_culture: 2.7
 ---
 
 Tahoe City sits on the northwest shore of [Lake Tahoe](/northamerica/unitedstates/california/highsierra/laketahoe), where the Truckee River begins its run toward Nevada. It is the quieter, more laid-back alternative to South Lake Tahoe — a small mountain town with a handful of good restaurants, a pebble beach, and easy access to some of the Sierra's best skiing and hiking.

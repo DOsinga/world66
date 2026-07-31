@@ -10,6 +10,11 @@ snippet: Modern Rio beach district of wide avenues, long surf, shopping malls, a
   Atlantic high-rises.
 title: Barra de Tijuca
 type: location
+nature: 5.5
+leisure: 7.4
+adventure: 2.5
+city_culture: 3.4
+historic_culture: 3.4
 ---
 
 On the south side of [Rio de Janeiro](/southamerica/brazil/riodejaneiro), Barra da Tijuca has wide beaches, a quieter atmosphere, and modern shopping malls. It feels more like a Miami suburb than the rest of Rio — all wide avenues, gated condominiums, and beachfront high-rises. The [beach](/southamerica/brazil/barra_de_tijuca/barra_beach) runs for 18 kilometres along the Atlantic coast, making it the longest in Rio, less crowded than Copacabana or Ipanema and with better surf.

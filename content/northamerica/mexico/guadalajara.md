@@ -16,6 +16,11 @@ image: guadalajara.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Catedral_Guadalajra_IMG_20211017_194154.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Isacdaavid
+nature: 1.9
+leisure: 8.2
+adventure: 1.6
+city_culture: 7.8
+historic_culture: 7.8
 ---
 
 Guadalajara is Mexico's second city and the capital of Jalisco -- the birthplace of mariachi music, tequila, and the wide-brimmed charro hat. It wears its cultural identity proudly, and visitors notice right away: this is a city that feels deeply, unapologetically Mexican.

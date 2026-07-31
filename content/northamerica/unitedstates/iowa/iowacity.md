@@ -14,6 +14,11 @@ snippet: Iowa college town anchored by the Writers’ Workshop, independent book
   and a UNESCO literary identity.
 title: Iowa City
 type: location
+nature: 3.4
+leisure: 5.8
+adventure: 3.3
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Iowa City is a college town with outsized cultural ambitions. Home to the University of Iowa and its legendary [Writers' Workshop](/northamerica/unitedstates/iowa/iowacity/dey_house) — the oldest creative writing program in the country — the city was designated a UNESCO City of Literature in 2008, the first in the Americas.

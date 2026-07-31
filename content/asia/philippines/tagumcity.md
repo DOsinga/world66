@@ -16,6 +16,11 @@ snippet: Mindanao provincial capital serving Davao del Norte's banana plantation
   music festivals, beaches, and Mount Apo approaches.
 title: Tagum City
 type: location
+nature: 4.9
+leisure: 3.9
+adventure: 5.5
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Tagum City is the capital of Davao del Norte province on the southern Philippine island of Mindanao, about an hour north of Davao City by road. It's a fast-growing agricultural and commercial centre of around 300,000 people, serving the surrounding banana and coconut plantations and the mining areas further inland.

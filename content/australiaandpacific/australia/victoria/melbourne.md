@@ -16,6 +16,11 @@ snippet: Australian cultural city of laneways, street art, immigrant food distri
   and intense sporting loyalties
 title: Melbourne
 type: location
+nature: 2.4
+leisure: 7.3
+adventure: 2.4
+city_culture: 7.8
+historic_culture: 7.8
 ---
 
 Melbourne is Australia's second-largest city and its strongest claim to a cultural capital. It is a city that lives in its laneways, where street art covers the walls of [Hosier Lane](/australiaandpacific/australia/victoria/melbourne/hosier_lane), tiny bars hide behind unmarked doors, and some of the country's best restaurants operate from spaces you would walk past without noticing. The waves of immigration since World War II have given Melbourne an extraordinary diversity, from the Italian quarter in [Carlton](/australiaandpacific/australia/victoria/melbourne/carlton) to the Greek precinct of Oakleigh and the Vietnamese restaurants lining [Victoria Street in Richmond](/australiaandpacific/australia/victoria/melbourne/richmond_victoria_street).

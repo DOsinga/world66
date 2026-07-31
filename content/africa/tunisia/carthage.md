@@ -14,6 +14,11 @@ snippet: Ancient coastal city near Tunis, layered with Punic ports, Roman ruins,
   centuries of Mediterranean history.
 title: Carthage
 type: location
+nature: 3.0
+leisure: 4.8
+adventure: 4.9
+city_culture: 7.9
+historic_culture: 7.9
 ---
 
 Carthage needs to be destroyed — so declared the Roman senator Cato, who reportedly ended every speech with that demand. The Romans eventually obliged, flattening the city in 146 BC. Yet Carthage outlasted Rome: its history stretches across nearly twice as many centuries as the Roman Empire's.

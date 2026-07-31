@@ -12,6 +12,11 @@ snippet: Finnish lake city built around industrial rapids, red-brick factories, 
   and converted museum spaces.
 title: Tampere
 type: location
+nature: 3.3
+leisure: 5.2
+adventure: 4.3
+city_culture: 7.0
+historic_culture: 7.0
 ---
 
 Tampere is the largest inland city in the Nordic countries, wedged between two lakes — Näsijärvi and Pyhäjärvi — and built around the Tammerkoski Rapids that once powered Finland's industrial revolution. The old red-brick factories of Tampella and Finlayson have been converted into museums, restaurants, cinemas, and studios, giving the city a creative, slightly gritty edge that sets it apart from polished Helsinki.

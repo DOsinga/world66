@@ -13,6 +13,11 @@ score: 5.83
 title: Bharuch
 snippet: Ancient Gujarat trading port on the Narmada River near the Gulf of Khambhat.
 type: location
+nature: 4.3
+leisure: 4.3
+adventure: 4.9
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Bharuch is one of the oldest trading ports in India, sitting on the banks of the Narmada river where it meets the Gulf of Khambhat. Known in ancient times as Bharakuccha, it was a regular stop on the spice and silk trade routes between East and West -- Greek, Roman, and Arab traders all knew this port.

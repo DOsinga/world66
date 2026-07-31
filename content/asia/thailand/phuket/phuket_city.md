@@ -14,6 +14,11 @@ snippet: Phuket's island capital, with Sino-Portuguese shophouses, Chinese shrin
   and a formidable food scene.
 title: Phuket City
 type: location
+nature: 4.4
+leisure: 8.1
+adventure: 1.9
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Most visitors to [Phuket](/asia/thailand/phuket) head straight for the beaches on the western coast and never see the island's actual capital. Their loss. Phuket City (called Phuket Town until 2005) is the most characterful settlement on the island — a compact old town of Sino-Portuguese shophouses, Chinese shrines, and street art, with a food scene that runs circles around the tourist strips.

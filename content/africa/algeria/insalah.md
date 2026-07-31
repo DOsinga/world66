@@ -14,6 +14,11 @@ title: In Salah
 type: location
 snippet: Deep Sahara oasis town on the Trans-Saharan Highway through one of Algeria's
   hottest regions.
+nature: 4.8
+leisure: 2.8
+adventure: 6.9
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 In Salah is an oasis town deep in the Algerian Sahara, roughly halfway between [Ghardaia](/africa/algeria/ghardaia) to the north and [Tamanrasset](/africa/algeria/tamanrasset) to the south on the Trans-Saharan Highway. It sits in the Tidikelt region, one of the driest and hottest places in the world — summer temperatures regularly exceed 50°C.

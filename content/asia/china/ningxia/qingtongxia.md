@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Qingtongxia
 title: Qingtongxia
 type: location
+nature: 5.2
+leisure: 3.9
+adventure: 5.6
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Qingtongxia is a small city on the Yellow River about 80 kilometres south of Yinchuan, known almost entirely for one extraordinary monument: the [108 Dagobas](/asia/china/ningxia/qingtongxia/108_dagobas), a hillside array of white stupas arranged in a vast triangular formation overlooking the river. The stupas — built during the Yuan dynasty in the 13th or 14th century — are set in concentric rows of varying shapes: some are pyramid-form, some gourd-shaped, some vase-form, covering the terraced slope in a geometric pattern that looks more like an earthwork than a religious site when seen from a distance.

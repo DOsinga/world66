@@ -14,6 +14,11 @@ snippet: Elbe Renaissance town where Martin Luther's theses launched the Reforma
   from the Castle Church.
 title: Wittenberg
 type: location
+nature: 3.1
+leisure: 5.5
+adventure: 3.8
+city_culture: 7.6
+historic_culture: 7.6
 ---
 
 Lutherstadt Wittenberg — to give it its official name — sits on the Elbe in eastern Saxony-Anhalt, roughly halfway between [Berlin](/europe/germany/berlin) (80 km) and [Leipzig](/europe/germany/saxony/leipzig) (70 km). This is where Martin Luther nailed his 95 theses to the door of the Castle Church in 1517 and set the Reformation in motion. The town has been trading on that moment ever since, and the concentration of well-preserved Renaissance buildings makes it a rewarding half-day or day trip.

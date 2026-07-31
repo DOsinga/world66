@@ -14,6 +14,11 @@ snippet: Abruzzo ridge city above the Pescara River, with Roman ruins and mounta
   views.
 title: Chieti
 type: location
+nature: 4.4
+leisure: 5.1
+adventure: 4.5
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Chieti sits on a ridge above the Pescara River in [Abruzzo](/europe/italy/abruzzo), with the Maiella and Gran Sasso mountains as a backdrop and the Adriatic Sea just a few kilometres to the east. The panorama alone is worth a stop.

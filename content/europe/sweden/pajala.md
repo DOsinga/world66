@@ -13,6 +13,11 @@ snippet: Far northern Swedish town on the Torne River, associated with Laestadia
   history.
 title: Pajala
 type: location
+nature: 8.2
+leisure: 3.1
+adventure: 6.5
+city_culture: 1.8
+historic_culture: 1.8
 ---
 
 Pajala is a small town in the far north of Sweden, close to the Finnish border on the [Torne River](/europe/sweden/pajala/torne_river). It sits well above the Arctic Circle, which means midnight sun in summer and deep cold and darkness in winter.

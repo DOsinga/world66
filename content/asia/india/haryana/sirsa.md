@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Ottu,_Sirsa
 title: Sirsa
 type: location
+nature: 3.7
+leisure: 4.1
+adventure: 5.0
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Sirsa sits in far western Haryana, close to the borders with Punjab and Rajasthan. It is a dry, agricultural city rather than a conventional tourist stop, but it has the edge-of-state feel that makes Haryana more varied than the Delhi-Chandigarh highway suggests.

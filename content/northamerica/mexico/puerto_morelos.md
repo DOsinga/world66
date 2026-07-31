@@ -7,6 +7,11 @@ loc_type: city
 latitude: 20.8493
 longitude: -86.8782
 score: 7.91
+nature: 5.2
+leisure: 8.0
+adventure: 1.8
+city_culture: 3.3
+historic_culture: 3.3
 ---
 
 Puerto Morelos sits between [Cancun](/northamerica/mexico/cancun) and [Playa del Carmen](/northamerica/mexico/playadelcarmen) on the Riviera Maya, but feels about a world away from either. It is a small fishing town that has grown into a low-key traveller base — still centred on a modest town square fronting the beach, with a lighthouse that leans slightly to one side thanks to a long-ago hurricane and never got fixed.

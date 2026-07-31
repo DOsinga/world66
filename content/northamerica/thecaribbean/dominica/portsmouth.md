@@ -14,6 +14,11 @@ snippet: Northern Dominican town on Prince Rupert Bay, base for Cabrits National
   and Fort Shirley
 title: Portsmouth
 type: location
+nature: 5.1
+leisure: 5.3
+adventure: 4.2
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Portsmouth is [Dominica's](/northamerica/thecaribbean/dominica) second town, a quiet settlement on [Prince Rupert Bay](/northamerica/thecaribbean/dominica/portsmouth/prince_rupert_bay) in the north of the island. It serves as the base for visiting [Cabrits National Park](/northamerica/thecaribbean/dominica/portsmouth/cabrits_national_park), where the restored [Fort Shirley](/northamerica/thecaribbean/dominica/portsmouth/fort_shirley) — an 18th-century British garrison — sits on a volcanic headland between two beaches.

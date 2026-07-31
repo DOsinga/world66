@@ -13,6 +13,11 @@ snippet: Quiet Thai beach town near Hua Hin, popular with Bangkok weekenders and
   idlers.
 title: Cha Am
 type: location
+nature: 4.7
+leisure: 6.9
+adventure: 2.7
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Cha Am is a quiet coastal town on the Gulf of Thailand, about 160 kilometres south of Bangkok and 20 kilometres north of the busier resort of [Hua Hin](/asia/thailand/huahin). It is popular with Bangkok weekenders — the beach fills up on Saturdays and empties again by Monday — but during the week it has a sleepy, unhurried feel.

@@ -15,6 +15,11 @@ snippet: Dartmoor-edge village with a wooded river gorge, Norman castle, and med
   church above the Lyd.
 title: Lydford
 type: location
+nature: 6.9
+leisure: 5.4
+adventure: 4.4
+city_culture: 2.8
+historic_culture: 2.8
 ---
 
 Lydford is a small village on the north-western edge of [Dartmoor](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor), tucked into a fold of the moor above the River Lyd. It's not a touring base or a destination for a long stay, but it has three things that make it worth the detour: a dramatic river gorge, a well-preserved Norman castle, and a handsome medieval church.

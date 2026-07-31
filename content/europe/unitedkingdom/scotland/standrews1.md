@@ -13,6 +13,11 @@ title: St. Andrews
 type: location
 snippet: Compact Scottish town combining medieval cathedral ruins, university life,
   and famous golf links.
+nature: 3.2
+leisure: 7.6
+adventure: 2.2
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 St. Andrews is a compact Scottish town where medieval history, world-class golf, and a lively university all sit within walking distance of each other. Everything here is close together, and that is a large part of its charm.

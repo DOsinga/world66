@@ -14,6 +14,11 @@ sources:
 - https://en.wikipedia.org/wiki/Djurdjura_National_Park
 title: Tizi Ouzou
 type: location
+nature: 5.0
+leisure: 3.1
+adventure: 6.2
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Tizi Ouzou is the capital of Kabylie — the heartland of Algeria's Berber (Amazigh) people — and a city that wears its identity with fierce pride. Tucked into a mountain valley flanked by the Djurdjura range, it is ringed by dramatic peaks and ancient villages, yet buzzing at its centre with the energy of a major university town. You'll hear Kabyle spoken in the markets, see Amazigh script on storefronts, and sense a cultural confidence that comes from centuries of resisting assimilation.

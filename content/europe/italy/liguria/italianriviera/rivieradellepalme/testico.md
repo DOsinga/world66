@@ -14,6 +14,11 @@ snippet: Quiet Ligurian ridge village with Roman roots, Doria history, and wide 
   over inland valleys.
 title: Testico
 type: location
+nature: 5.0
+leisure: 5.0
+adventure: 4.6
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Testico sits high on a ridge between the Merula and Lerrone valleys, a quiet farming village that has been watching the world go by since Roman times. The views from up here are panoramic and the pace is unhurried — this is deep Ligurian hinterland, far from the beach crowds.

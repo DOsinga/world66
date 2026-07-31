@@ -13,6 +13,11 @@ snippet: English seaside city of Regency terraces, Royal Pavilion fantasy, and a
   pleasure-pier waterfront
 title: Brighton
 type: location
+nature: 3.0
+leisure: 7.5
+adventure: 1.9
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Brighton is Britain's most exciting seaside city. With its cosmopolitan air, superb restaurants, feverish nightlife and abundance of culture, it defies comparison with anywhere else this side of the English Channel. For centuries it has been regarded as a pleasure dome, and that is not about to change.

@@ -15,6 +15,11 @@ longitude: 34.7818
 score: 8.82
 title: Tel Aviv
 type: location
+nature: 1.5
+leisure: 7.5
+adventure: 2.4
+city_culture: 8.7
+historic_culture: 8.7
 ---
 
 Tel Aviv is the most modern and westernised city in Israel, and deliberately, defiantly so. Jerusalem is the religious and political capital; Tel Aviv is the party capital, the beach capital, and the capital of Israeli secular life. Walking the streets at night — past sidewalk cafes, bars running until 5am, and the steady thump from clubs on Lilinblum Street — it is difficult to believe you are in the holy land at all.

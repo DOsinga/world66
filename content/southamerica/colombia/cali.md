@@ -12,6 +12,11 @@ snippet: Hot Cauca Valley city where Colombia's salsa capital spreads below the 
   Cordillera.
 title: Cali
 type: location
+nature: 5.3
+leisure: 3.9
+adventure: 5.9
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Santiago de Cali is Colombia's third city and the undisputed salsa capital of the world. Two and a quarter million people live in this hot, sticky valley between the Andes and the Pacific, and on Friday and Saturday nights it sounds as if every one of them is dancing. Cali doesn't have the colonial good looks of Cartagena or the cool weather of Bogotá. What it has is rhythm, an outdoor life lived under flowering trees, and a sense — still — that it is a city most foreigners haven't quite figured out yet.

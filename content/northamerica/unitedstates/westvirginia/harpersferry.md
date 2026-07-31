@@ -13,6 +13,11 @@ snippet: Potomac-Shenandoah confluence town preserved around John Brown's raid a
   Appalachian Trail history.
 title: Harpers Ferry
 type: location
+nature: 4.7
+leisure: 4.3
+adventure: 5.0
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Harpers Ferry is a small town of about 300 residents wedged into the confluence of the Shenandoah and Potomac Rivers at the eastern tip of the West Virginia panhandle, and it carries more history per square meter than almost anywhere in the eastern United States. The federal armory that stood here made it the strategic prize that John Brown chose to seize in October 1859 in his attempt to spark a slave rebellion — an event that is usually cited as one of the immediate causes of the Civil War. The raid failed, Brown was hanged, and within two years the country was at war.

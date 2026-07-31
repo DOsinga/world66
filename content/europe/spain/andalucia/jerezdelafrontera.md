@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Jerez_de_la_Frontera
 title: Jerez de la Frontera
 type: location
+nature: 2.9
+leisure: 7.3
+adventure: 2.2
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 Jerez de la Frontera is built on sherry, horses, and flamenco — three things that Spain does nowhere better than here. The sherry bodegas fill the city with a particular aroma on damp mornings, and their white-painted walls line whole streets in the older quarters. The city's relationship with fortified wine goes back to Phoenician traders, and today the great names — González Byass, Domecq, Sandeman, Williams & Humbert — are headquartered in buildings that feel more like palaces than factories.

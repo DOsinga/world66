@@ -13,6 +13,11 @@ snippet: Sierra de Guadarrama town built around Philip II's austere royal monast
   and pantheon
 title: El Escorial
 type: location
+nature: 2.2
+leisure: 7.0
+adventure: 2.7
+city_culture: 8.4
+historic_culture: 8.4
 ---
 
 San Lorenzo de El Escorial is a small town in the Sierra de Guadarrama foothills, about 50 kilometres northwest of [Madrid](/europe/spain/centralspain/madrid). It exists because of one building: the [Royal Monastery of San Lorenzo de El Escorial](/europe/spain/centralspain/elescorial/royal_monastery), built by Philip II in the late 16th century as a palace, monastery, church, and mausoleum all in one.

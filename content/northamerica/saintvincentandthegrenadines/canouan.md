@@ -10,6 +10,11 @@ snippet: Small southern Grenadines island with barrier reefs, turquoise lagoons,
   hilltop views toward Mustique.
 title: Canouan
 type: location
+nature: 5.9
+leisure: 7.8
+adventure: 2.1
+city_culture: 2.7
+historic_culture: 2.7
 ---
 
 Canouan is a small island in the southern Grenadines, about five kilometres long and blessed with some of the finest beaches in the Caribbean. A barrier reef wraps around the Atlantic side, creating calm turquoise lagoons, while the hills in the centre rise steeply enough to offer views across to [Mustique](/northamerica/saintvincentandthegrenadines/mustique) and the Tobago Cays.

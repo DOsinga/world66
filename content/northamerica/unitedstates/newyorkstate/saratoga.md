@@ -13,6 +13,11 @@ snippet: Upstate New York spa city known for mineral springs, summer racing, and
   parkland
 title: Saratoga Springs
 type: location
+nature: 3.6
+leisure: 8.2
+adventure: 1.5
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Saratoga Springs is a small city in upstate New York best known for its thoroughbred horse racing — the [Saratoga Race Course](/northamerica/unitedstates/newyorkstate/saratoga/saratoga_race_course), open each August, is one of the oldest and most prestigious tracks in the country. But the city has far more going on than horse racing, and it rewards a visit year-round.

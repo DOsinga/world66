@@ -14,6 +14,11 @@ image: ciudadguayana.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Panor%C3%A1mica_a%C3%A9rea_de_ciudad_Guayana.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Heribert Dezeo
+nature: 5.5
+leisure: 3.9
+adventure: 5.8
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Ciudad Guayana sits at the confluence of the Orinoco and Caroní rivers in Bolívar state. It is an industrial city — planned and built in the 1960s around heavy manufacturing (steel, aluminum, hydropower) — and is not a destination in itself. Most travelers pass through on the way south toward the Gran Sabana and the Brazilian border, or as a connection point for flights and buses to [Ciudad Bolívar](/southamerica/venezuela/ciudadbolivar).

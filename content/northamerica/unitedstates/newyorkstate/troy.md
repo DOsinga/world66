@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Rensselaer_County_Historical_Society
 title: Troy
 type: location
+nature: 3.3
+leisure: 5.8
+adventure: 3.1
+city_culture: 7.0
+historic_culture: 7.0
 ---
 
 Troy sits on the eastern bank of the Hudson River, about ten miles north of Albany, wearing its 19th-century industrial wealth on its sleeve. In the decades before the Civil War, the city rivaled Pittsburgh as an iron-manufacturing centre — its foundries produced stoves, bells, and the iron components that held together much of industrial America. That money built a remarkable downtown: blocks of Italianate brownstones, cast-iron storefronts, and grand civic halls that still stand largely intact, giving the place an architectural density unusual for a city of its size.

@@ -14,6 +14,11 @@ snippet: Solomon Islands' largest island, known for World War II battlefields, j
   ridges, and Iron Bottom Sound
 title: Guadalcanal
 type: location
+nature: 7.4
+leisure: 4.6
+adventure: 5.2
+city_culture: 2.9
+historic_culture: 2.9
 ---
 
 The largest island in the [Solomon Islands](/australiaandpacific/solomonislands), Guadalcanal is best known for the brutal six-month campaign fought here during World War II. The name alone carries weight — it was the first major Allied offensive against Japan in the Pacific, and the island's jungles, ridges, and surrounding waters saw some of the war's fiercest fighting. Today, rusting tanks, crashed aircraft, and scattered memorials mark the landscape, and the waters offshore in Iron Bottom Sound hold the wrecks of dozens of warships.

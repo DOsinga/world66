@@ -14,6 +14,11 @@ snippet: Mesilla Valley city where New Mexico State University sits below the ja
   Organ Mountains.
 title: Las Cruces
 type: location
+nature: 5.9
+leisure: 5.7
+adventure: 3.9
+city_culture: 3.7
+historic_culture: 3.7
 ---
 
 Las Cruces is the second-largest city in New Mexico, sitting in the Mesilla Valley with the jagged [Organ Mountains](/northamerica/unitedstates/newmexico/lascruces/organ_mountains) rising dramatically to the east. The city is a crossroads — geographically between El Paso and Albuquerque, culturally between the American Southwest and Mexico, and economically between its agricultural roots (pecans, chile, cotton) and the university town it has become as home to [New Mexico State University](/northamerica/unitedstates/newmexico/lascruces/new_mexico_state_university).

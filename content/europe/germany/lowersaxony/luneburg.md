@@ -16,6 +16,11 @@ snippet: Medieval north German salt city, with Gothic brick churches and gabled 
   preserved by decline.
 title: Lüneburg
 type: location
+nature: 2.8
+leisure: 7.2
+adventure: 2.1
+city_culture: 7.3
+historic_culture: 7.3
 ---
 
 Lüneburg is one of northern Germany's best-preserved medieval cities, and it owes everything to salt. For centuries, "white gold" mined from beneath the city funded a spectacular run of civic building — Gothic brick churches, merchant warehouses, and gabled townhouses that crowd the old market squares. When the salt ran out in the 19th century, the city had no money to tear things down and rebuild, which turned out to be a piece of extraordinary luck. The result is an Altstadt that feels genuinely old rather than reconstructed.

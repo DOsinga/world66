@@ -9,6 +9,11 @@ snippet: Historic Delaware River town founded as Fort Casimir, with colonial str
   tied to Dutch, Swedish, and British rule.
 title: New Castle
 type: location
+nature: 3.4
+leisure: 5.7
+adventure: 3.3
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 New Castle is one of the oldest settlements in the Delaware Valley, founded in 1651 by Peter Stuyvesant as Fort Casimir to give the Dutch command of river traffic. Its strategic location meant the settlement changed hands constantly — the flags of the Netherlands, Sweden, and Great Britain all flew over New Castle before William Penn came ashore here in 1682 to take possession of his American lands.

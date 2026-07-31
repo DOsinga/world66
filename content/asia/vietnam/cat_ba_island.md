@@ -13,6 +13,11 @@ title: Cat Ba Island
 type: location
 snippet: Halong Bay island with limestone karsts, jungle interior, and an unpretentious
   fishing-town base.
+nature: 7.1
+leisure: 6.6
+adventure: 3.4
+city_culture: 2.1
+historic_culture: 2.1
 ---
 
 Cat Ba is the largest island in [Halong Bay](/asia/vietnam/halongbay), and it gives you something the bay's famous overnight cruises rarely offer: a place to actually stay and explore on your own terms. Most travelers pass through on a tour, but those who linger discover limestone karsts from the water, dense jungle inland, and a small, unpretentious fishing town that has learned to accommodate visitors without entirely losing itself.

@@ -14,6 +14,11 @@ sources:
 - https://en.wikipedia.org/wiki/S%C4%83p%C3%A2n%C8%9Ba-Peri_Monastery
 title: Săpânța
 type: location
+nature: 2.5
+leisure: 4.9
+adventure: 4.8
+city_culture: 8.5
+historic_culture: 8.5
 ---
 
 Săpânța is a small village in Maramureș county, in the far north of [Romania](/europe/romania), near the Ukrainian border. It is famous for one thing: the Merry Cemetery (Cimitirul Vesel), one of the most unusual burial grounds in Europe.

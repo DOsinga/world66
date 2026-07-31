@@ -13,6 +13,11 @@ snippet: Historic Fujian port where Maritime Silk Road temples, mosques, and mer
   streets still shape the city
 title: Quanzhou
 type: location
+nature: 2.8
+leisure: 5.6
+adventure: 4.1
+city_culture: 7.9
+historic_culture: 7.9
 ---
 
 Around a thousand years ago, Quanzhou was arguably the busiest port in the world. Arab, Persian, Indian, and Jewish merchants settled here by the tens of thousands, ships from across the Indian Ocean unloaded silk and loaded spices, and the city Marco Polo called Zaiton — a name that gave English the word "satin" — was the eastern terminus of the Maritime Silk Road. Ibn Battuta passed through in the 14th century and was astonished by the scale of it. In 2021, UNESCO inscribed sixteen Quanzhou sites as "Quanzhou: Emporium of the World in Song-Yuan China."

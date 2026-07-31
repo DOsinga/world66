@@ -14,6 +14,11 @@ title: Mount Abu
 snippet: Rajasthan's only hill station, set high in the Aravalli Range above the desert
   heat.
 type: location
+nature: 5.0
+leisure: 5.4
+adventure: 4.4
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Mount Abu is the only hill station in Rajasthan, perched at around 1,200 meters in the Aravalli Range. After the relentless heat of the desert cities, the cooler air and green surroundings come as a genuine relief. The town is a popular weekend escape for families from Gujarat and Rajasthan, and it can get very crowded during Indian holidays.

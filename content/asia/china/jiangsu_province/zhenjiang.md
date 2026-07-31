@@ -13,6 +13,11 @@ type: location
 score: 6.75
 snippet: Yangtze river city where the Grand Canal meets Jiangsu's mountain parks and
   old streets.
+nature: 3.0
+leisure: 6.4
+adventure: 2.7
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 Zhenjiang (镇江) sits where the Grand Canal meets the Yangtze River — a junction that made it strategically vital for a thousand years and gave it a grandeur that outlasted the trade routes that built it. The city served as Jiangsu's provincial capital until 1949, and while [Nanjing](/asia/china/jiangsu_province/nanjing) has since absorbed its administrative role, Zhenjiang still has the bones of a serious place: a long Yangtze waterfront, several mountain parks rising directly from the city fabric, and old streets that recall its treaty-port heyday.

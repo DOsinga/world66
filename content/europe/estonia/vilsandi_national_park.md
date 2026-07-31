@@ -9,6 +9,11 @@ snippet: Baltic island national park and seabird sanctuary, protecting Vilsandi,
   Saaremaa, and windswept dolomite shores.
 title: Vilsandi National Park
 type: location
+nature: 7.3
+leisure: 4.6
+adventure: 5.0
+city_culture: 2.4
+historic_culture: 2.4
 ---
 
 Vilsandi National Park covers the island of Vilsandi, about 160 smaller islands and islets, and parts of western [Saaremaa](/europe/estonia/saaremaa) including the Harilaid peninsula. It is Estonia's most important seabird sanctuary, with over 250 recorded bird species, 112 of which nest here.

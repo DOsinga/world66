@@ -15,6 +15,11 @@ snippet: Southern Thai province of limestone coasts, Andaman islands, and a food
   capital known for roast pork.
 title: Trang
 type: location
+nature: 4.7
+leisure: 4.6
+adventure: 4.8
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Trang province is southern Thailand's best-kept secret: the same dramatic limestone karsts, white-sand beaches, and turquoise Andaman Sea as Krabi and Phang Nga, but without the crowds. The coastline stretches nearly 200 kilometres and shelters more than 46 islands, many of them barely visited.

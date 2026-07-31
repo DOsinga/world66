@@ -14,6 +14,11 @@ title: Colmar
 snippet: Alsatian wine city of half-timbered lanes, canal quarters, and the Unterlinden
   Museum's Issenheim Altarpiece.
 type: location
+nature: 3.7
+leisure: 5.6
+adventure: 3.8
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Colmar sits in the heart of the Alsatian vineyards and is one of the most photogenic small cities in France. Its historic centre is a vast pedestrian zone of medieval half-timbered houses with carved gables, painted shutters, and doors adorned with lavish woodwork — the kind of place that looks almost too perfect to be real.

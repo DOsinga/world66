@@ -13,6 +13,11 @@ sources:
 - https://en.wikipedia.org/wiki/Moers_Festival
 title: Moers
 type: location
+nature: 3.7
+leisure: 4.7
+adventure: 4.3
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Moers (pronounced roughly "Meurs") is a town on the western edge of the Ruhr area in North Rhine-Westphalia, known primarily for its annual jazz festival. The [Moers Festival](/europe/germany/northrhinewestphalia/moers/moers_festival), held over the Whitsun weekend each year since 1972, is one of the most important festivals for improvised and experimental music in Europe, drawing musicians and audiences from around the world who come specifically for its uncompromising programme.

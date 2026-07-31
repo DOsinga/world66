@@ -14,6 +14,11 @@ snippet: Galyat hill resort near Murree, reached by chairlift and cable car abov
   forested valleys
 title: Patriata
 type: location
+nature: 8.1
+leisure: 2.4
+adventure: 7.3
+city_culture: 2.0
+historic_culture: 2.0
 ---
 
 Patriata is a hill resort about 25 km from [Murree](/asia/pakistan/murree) in the Galyat range. A chairlift and cable car system carries visitors up to Patriata Ridge in two stages from Gulehra Gali — first by chairlift to Patriata Bazaar, then by gondola to the top. The views over the forested hills and valleys of the Pir Panjal foothills are the main reward, and there is a restaurant at the summit.

@@ -9,6 +9,11 @@ snippet: Southern Lithuanian river city divided by the Nemunas valley and linked
   the Bridge of White Rose.
 title: Alytus
 type: location
+nature: 4.0
+leisure: 5.6
+adventure: 3.4
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Alytus straddles the Nemunas, Lithuania's largest river, in the southern part of the country. The city is divided into two halves by the river valley, connected by the [Bridge of White Rose](/europe/lithuania/alytus/bridge_of_white_rose) — one of Lithuania's longest pedestrian bridges — which also serves as the main promenade for evening walks above the forested banks below. It is not a destination that many international travellers seek out, but Alytus has a quiet appeal rooted in its natural setting and its sobering 20th-century history.

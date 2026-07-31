@@ -14,6 +14,11 @@ score: 8.46
 snippet: Kagawa shrine town built around the long stone-step approach to Konpira-san.
 title: Kotohira
 type: location
+nature: 3.5
+leisure: 5.8
+adventure: 3.9
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 Kotohira is a small town in Kagawa prefecture, about an hour southwest of Takamatsu, built almost entirely around one remarkable hilltop shrine. Most visitors come for **Konpira-san** (formally Kotohiragu), one of Japan's most celebrated Shinto sanctuaries, dedicated to the deity of seafarers. The town itself is compact and pleasant — old merchant streets, stone lanterns, and vendors selling the local sweet, *konpeito* — but the shrine is the reason to make the trip.

@@ -13,6 +13,11 @@ title: Jedburgh
 type: location
 snippet: Scottish Borders market town dominated by ruined Jedburgh Abbey and Mary
   Queen of Scots House.
+nature: 4.2
+leisure: 5.0
+adventure: 4.4
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Jedburgh is a small market town in the Scottish Borders, set in a shallow valley carved by the River Jed Water. It is one of the more rewarding stops on the Border Abbeys trail — the ruined 12th-century Jedburgh Abbey dominates the town from its rocky promontory, and in decent light it is genuinely spectacular.

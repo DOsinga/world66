@@ -10,6 +10,11 @@ title: Huntington
 snippet: Ohio River city in western West Virginia, shaped by railroads, river trade,
   and Marshall University.
 type: location
+nature: 4.2
+leisure: 4.5
+adventure: 4.5
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Huntington sits on the Ohio River in the western tip of [West Virginia](/northamerica/unitedstates/westvirginia), where the state meets both Ohio and Kentucky. It was founded in 1871 as a railroad terminus and named after railroad magnate Collis P. Huntington. The city grew around industry and river trade, and while much of that has declined, the riverfront has been revitalised with parks and a walkway along the Ohio.

@@ -14,6 +14,11 @@ snippet: Southern Brazilian industrial city on Babitonga Bay, shaped by immigran
   heritage and dance culture
 title: Joinville
 type: location
+nature: 4.8
+leisure: 5.2
+adventure: 4.1
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Joinville is the largest city in Santa Catarina state and one of the biggest in southern Brazil, sitting at the head of the Babitonga Bay surrounded by Atlantic Forest–covered hills. The city was founded by German, Swiss, and Norwegian immigrants in the 1850s, and traces of that heritage survive in the architecture, the local cuisine, and the [Festival de Dança de Joinville](/southamerica/brazil/joinville/centreventos_cau_hansen), one of the largest dance festivals in the world.

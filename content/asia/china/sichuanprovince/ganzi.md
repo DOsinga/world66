@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Ganzi
 title: Ganzi
 type: location
+nature: 7.2
+leisure: 2.8
+adventure: 6.9
+city_culture: 3.4
+historic_culture: 3.4
 ---
 
 Ganzi (also spelled Garzê) is a rough Tibetan town at 3,400 metres on the high plateau of western Sichuan, and it functions primarily as a staging post for exploring the surrounding region. The bus connections radiate out in all directions — south to Litang, north to Dege, east back to Kangding — and Ganzi sits at the hub of a network of routes through the Kham region, historically one of Tibet's three traditional provinces. It is the kind of place where travellers tend to arrive planning one night and stay three.

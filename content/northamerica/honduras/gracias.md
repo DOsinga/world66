@@ -14,6 +14,11 @@ title: Gracias
 snippet: Western Honduran colonial town below Celaque, the country's highest peak
   and cloud-forest national park.
 type: location
+nature: 6.6
+leisure: 2.6
+adventure: 7.0
+city_culture: 3.6
+historic_culture: 3.6
 ---
 
 Gracias is a quiet colonial town in the mountains of western [Honduras](/northamerica/honduras), founded in 1536 and briefly the capital of all Central America. It sits at the foot of Celaque, the country's highest peak at 2,849 metres, and serves as the gateway to [Parque Nacional Montaña de Celaque](/northamerica/honduras/gracias/parque_nacional_montana_de_celaque) — one of the best cloud forest hikes in Honduras.

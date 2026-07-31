@@ -14,6 +14,11 @@ snippet: Maharashtra hill-fort escape near Mumbai, rising above a compact bird s
   and forest trails
 title: Karnala
 type: location
+nature: 6.6
+leisure: 4.6
+adventure: 4.9
+city_culture: 3.3
+historic_culture: 3.3
 ---
 
 Barely sixty kilometers from Mumbai, Karnala is a compact escape for bird watchers, hikers, picnickers, and rock climbers. The centerpiece is an ancient hill fort rising dramatically from the [Karnala Bird Sanctuary](/asia/india/maharashtra/karnala/karnala_bird_sanctuary) at its base.

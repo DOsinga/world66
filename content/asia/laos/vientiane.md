@@ -16,6 +16,11 @@ snippet: Laid-back Mekong capital of Laos, with French-Lao streets, gilded templ
   and riverside evenings.
 title: Vientiane
 type: location
+nature: 3.3
+leisure: 4.6
+adventure: 4.7
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 Southeast Asia's smallest and most laid-back capital sits on a bend in the Mekong, gazing across the river at Thailand. With around 800,000 people, Vientiane feels more like a large provincial town than a national capital -- and that is its charm. Tree-lined boulevards, crumbling French colonial mansions, and gilded Buddhist temples share space with rice paddies and vegetable gardens that somehow survive within the city limits.

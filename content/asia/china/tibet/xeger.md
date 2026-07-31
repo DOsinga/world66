@@ -10,6 +10,11 @@ snippet: High Tibetan road town below Xegar Dzong, used as a staging point for E
   trips
 title: Xeger
 type: location
+nature: 6.4
+leisure: 2.4
+adventure: 7.4
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 **Xeger** (also spelled Shelkar or New Tingri) is a small town at 4,350 metres in southern Tibet, built at the foot of the ruins of [Xegar Dzong](/asia/china/tibet/xeger/xegar_dzong), an old hilltop fortress. It sits just off the Friendship Highway between [Shigatse](/asia/china/tibet/shigatse) and the Nepalese border.

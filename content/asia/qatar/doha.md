@@ -15,6 +15,11 @@ snippet: Fast-grown Gulf capital with a pearl-diving past, West Bay skyline, and
   cultural museums.
 title: Doha
 type: location
+nature: 2.3
+leisure: 6.8
+adventure: 3.0
+city_culture: 7.6
+historic_culture: 7.6
 ---
 
 Doha has grown up fast. Sixty years ago it was a pearl-diving port of perhaps fifteen thousand people; today it is the capital of one of the richest countries on earth, a city of three million where roughly 90 per cent of residents are foreign workers, and the skyline of West Bay competes with Dubai's and Abu Dhabi's for glossy 21st-century statement.

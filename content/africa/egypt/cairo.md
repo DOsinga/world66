@@ -17,6 +17,11 @@ snippet: Egyptian capital where the Nile meets the Sahara edge, layered with anc
   and Islamic landmarks.
 title: Cairo
 type: location
+nature: 1.7
+leisure: 6.6
+adventure: 3.5
+city_culture: 8.3
+historic_culture: 8.3
 ---
 
 Cairo is one of the great cities of the world — chaotic, overwhelming, beautiful, and ancient all at once. Africa's largest city by population, with somewhere between 20 and 25 million people in the greater metropolitan area, it sits where the Nile meets the edge of the Sahara, and it has been a centre of power for five thousand years. The Pyramids of Giza are technically in the adjacent city of Giza, but you can see them from the city limits, and they are the reason most visitors come.

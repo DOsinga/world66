@@ -13,6 +13,11 @@ snippet: Lanzarote resort town grown from a fishing port, close to the sheltered
   beaches.
 title: Playa Blanca
 type: location
+nature: 5.7
+leisure: 8.0
+adventure: 1.9
+city_culture: 2.8
+historic_culture: 2.8
 ---
 
 Playa Blanca sits on Lanzarote's southern tip and is the quietest of the island's three main resorts. It grew up around a small fishing port, and the old harbour area still has some of that character — a handful of seafood restaurants line the waterfront, and the ferry to Fuerteventura departs from here.

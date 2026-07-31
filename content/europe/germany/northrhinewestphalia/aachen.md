@@ -15,6 +15,11 @@ snippet: German border city of hot springs and Charlemagne's cathedral, once cap
   of his empire.
 title: Aachen
 type: location
+nature: 2.2
+leisure: 7.0
+adventure: 2.6
+city_culture: 8.3
+historic_culture: 8.3
 ---
 
 Aachen is a small city in the northwest corner of Germany, touching the borders of Belgium and the Netherlands at the same time. For centuries its identity was defined by two things: the hot springs that rise through the rock below the old town, and Charlemagne, who built his palace here in the 790s and turned a thermal resort into the capital of an empire that stretched from the Pyrenees to the Elbe.

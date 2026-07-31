@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Nanumea
 title: Nanumea
 type: location
+nature: 8.2
+leisure: 4.2
+adventure: 5.7
+city_culture: 2.1
+historic_culture: 2.1
 ---
 
 Nanumea is the northwesternmost atoll of [Tuvalu](/australiaandpacific/tuvalu), about 480 kilometres from Funafuti and close enough to the equator that the air feels noticeably heavier than in the south. Two main islands, [Nanumea](/australiaandpacific/tuvalu/nanumeaatoll/nanumea_island) (sometimes called Nanumea-Niu) and Lakena, enclose a small, shallow lagoon along with a handful of smaller islets. Around 500 people live on the main island, almost all of them in the village cluster of [Lolua](/australiaandpacific/tuvalu/nanumeaatoll/lolua) on the lagoon shore.

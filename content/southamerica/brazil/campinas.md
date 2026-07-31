@@ -14,6 +14,11 @@ snippet: São Paulo state university and technology city with a strong market, L
   do Taquaral, and Cambuí nightlife
 title: Campinas
 type: location
+nature: 4.5
+leisure: 5.1
+adventure: 4.1
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Campinas is the second-largest city in São Paulo state, a sprawling industrial and university city about 100 km northwest of [São Paulo](/southamerica/brazil/saopaulo). With a metro area of over three million people, it is one of Brazil's most important technology and research centres — the state university (Unicamp) and the national synchrotron laboratory are both here.

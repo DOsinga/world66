@@ -14,6 +14,11 @@ sources:
 - https://en.wikipedia.org/wiki/Pujols,_Lot-et-Garonne
 title: Pujols
 type: location
+nature: 4.0
+leisure: 6.2
+adventure: 3.1
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Pujols sits on a hill three kilometres above [Villeneuve-sur-Lot](/europe/france/midi/dordogne/villeneuvesurlot), looking down on the Lot valley from the ramparts of a fortified medieval village. It is one of the official *Plus Beaux Villages de France*, and unusually for that list it has earned the title without becoming a theme park — most of the houses inside the walls are still lived in, and the place quietens down completely after the day-trippers leave around six.

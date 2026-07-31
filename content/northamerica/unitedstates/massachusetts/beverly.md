@@ -13,6 +13,11 @@ snippet: Historic North Shore city by Beverly Harbor, associated with early nava
   history and Cabot Street theatres.
 title: Beverly
 type: location
+nature: 3.7
+leisure: 6.1
+adventure: 3.0
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Beverly is a small city on the North Shore of Massachusetts, about 18 miles northeast of Boston, sitting where Beverly Harbor meets the Atlantic. Founded in 1626 as part of Salem and incorporated separately in 1668, it is one of the oldest communities in the country. Locals take particular pride in calling it the birthplace of the United States Navy: in 1775, the schooner *Hannah* was outfitted and commissioned in Beverly Harbor, the first vessel placed in service by the Continental Army's navy.

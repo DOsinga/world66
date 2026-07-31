@@ -14,6 +14,11 @@ snippet: Blue Ridge mountain city with an independent arts scene, craft brewerie
   and the sprawling Biltmore Estate nearby.
 title: Asheville
 type: location
+nature: 5.9
+leisure: 6.8
+adventure: 3.2
+city_culture: 3.6
+historic_culture: 3.6
 ---
 
 Asheville feels like a scaled-down San Francisco set against the Blue Ridge Mountains -- creative, independent, and full of surprises. The city has reinvented itself from a quiet mountain town into one of the South's most interesting destinations, with a thriving arts scene, more craft breweries per capita than almost anywhere in America, and the kind of farm-to-table food culture that bigger cities envy.

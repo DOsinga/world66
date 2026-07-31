@@ -16,6 +16,11 @@ image_attribution: 'Paulba.
 
 
   Original uploader was Paulbalegend at en.wikipedia'
+nature: 9.2
+leisure: 3.1
+adventure: 7.0
+city_culture: 1.4
+historic_culture: 1.4
 ---
 
 The Appalachian National Scenic Trail is a 2,175-mile (3,500 km) footpath threading along the ridge crests and across the major valleys of the Appalachian Mountains, from [Katahdin](/northamerica/unitedstates/maine/katahdin) in northern Maine to Springer Mountain in north Georgia. The trail passes through fourteen states — Maine, New Hampshire, Vermont, Massachusetts, Connecticut, New York, New Jersey, Pennsylvania, Maryland, West Virginia, Virginia, Tennessee, North Carolina, and Georgia — and is one of the longest continuously marked footpaths in the world.

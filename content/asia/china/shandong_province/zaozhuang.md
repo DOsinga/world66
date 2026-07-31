@@ -11,6 +11,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Zaozhuang
 title: Zaozhuang
 type: location
+nature: 4.5
+leisure: 4.6
+adventure: 4.6
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Zaozhuang spent most of the 20th century as a coal city — one of the major mining centers of southern Shandong — and it carries that industrial history visibly. The mines have largely been exhausted or closed, and the city is in the middle of the transition that post-coal Chinese cities have been navigating for two decades: tourism, heritage, wetlands. It has made more progress than most, largely because it holds two genuinely distinctive attractions within its administrative boundaries.

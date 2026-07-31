@@ -14,6 +14,11 @@ title: Arouca
 type: location
 snippet: Mountain town east of Porto known for the Paiva gorge suspension bridge and
   giant trilobite fossils.
+nature: 6.8
+leisure: 5.4
+adventure: 4.4
+city_culture: 3.2
+historic_culture: 3.2
 ---
 
 Arouca is a small town in the mountains east of Porto, best known for two things: one of the world's longest pedestrian suspension bridges, and a geopark full of giant trilobite fossils. Neither is especially well-known outside Portugal, which makes the place feel like a genuine discovery.

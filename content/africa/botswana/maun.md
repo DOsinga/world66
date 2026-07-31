@@ -14,6 +14,11 @@ snippet: Botswana safari town on the Thamalakane River, gateway to the Okavango 
   and northern parks.
 title: Maun
 type: location
+nature: 5.3
+leisure: 2.1
+adventure: 7.2
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Maun is Botswana's tourist capital and the gateway to the [Okavango Delta](/africa/botswana/okavangodelta) — the main attraction in the region. A small airport handles daily flights from [Gaborone](/africa/botswana/gaborone), [Victoria Falls](/africa/zimbabwe/victoriafalls), [South Africa](/africa/southafrica), and [Namibia](/africa/namibia), making it the starting point for most safari itineraries in northern Botswana. Within a few hours of travel from Maun, you can reach the [Okavango Delta](/africa/botswana/maun/okavango_delta), [Moremi Game Reserve](/africa/botswana/maun/moremi_game_reserve), and the Chobe–Zambezi area.

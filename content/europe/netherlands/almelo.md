@@ -17,6 +17,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Almelo
 title: Almelo
 type: location
+nature: 4.0
+leisure: 4.5
+adventure: 4.6
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 How did you end up in Almelo in the first place? Mistook the station for Enschede, Twente's largest city? Forgot your passport so you couldn't continue onwards to Germany? Anyway, Almelo is mostly known for its history in textiles. These days it is a not highly remarkable city in the eastern [Netherlands](/europe/netherlands) with only a few interesting sights to offer.

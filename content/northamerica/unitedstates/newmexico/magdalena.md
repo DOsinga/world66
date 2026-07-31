@@ -14,6 +14,11 @@ title: Magdalena
 type: location
 snippet: High-desert New Mexico village once known as the railhead for the old hoof
   highway.
+nature: 5.3
+leisure: 4.5
+adventure: 5.1
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 A high desert semi-ghost town and genuine wild west icon, Magdalena sits in the shadow of the Magdalena Mountains about 27 miles west of Socorro. For decades it was the end of the "hoof highway" from Arizona — a busy railroad shipping point where hundreds of thousands of cattle were sold and loaded onto trains. The 1915 [Santa Fe Depot](/northamerica/unitedstates/newmexico/magdalena/santa_fe_depot) still stands at the heart of the village.

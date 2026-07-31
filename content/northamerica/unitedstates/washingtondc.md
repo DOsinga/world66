@@ -15,6 +15,11 @@ snippet: Purpose-built United States capital on the Potomac, defined by monument
   museums, and federal avenues.
 title: Washington D.C.
 type: location
+nature: 4.0
+leisure: 4.1
+adventure: 5.4
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 The capital of the United States is a city purpose-built for government and now one of the most visited destinations in the country. Washington DC sits on the Potomac River where Maryland and Virginia meet — an artificial district carved from both states in 1790 so the new republic's capital would belong to no single state. The plan was Pierre Charles L'Enfant's: a grid overlaid with diagonal avenues radiating from the Capitol and the White House, designed to be imposing.

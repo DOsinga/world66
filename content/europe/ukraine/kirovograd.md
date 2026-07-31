@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Kropyvnytskyi
 title: Kropyvnytskyi
 type: location
+nature: 4.6
+leisure: 3.8
+adventure: 5.4
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Kropyvnytskyi — known as Kirovograd until 2016 and as Elisavetgrad before the Soviet era — sits near the geographic heart of Ukraine, on the banks of the [Inhul River](/europe/ukraine/kirovograd/inhul_river_promenade) amid open steppe country. With around 220,000 people, it is the capital of Kirovohrad Oblast and one of Ukraine's less-visited regional cities, which is part of its appeal: you are unlikely to be the only foreign visitor, but you are unlikely to be far from one either.

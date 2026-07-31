@@ -14,6 +14,11 @@ snippet: Czech industrial city of coal and steel heritage, now anchored by the L
   Vitkovice cultural complex.
 title: Ostrava
 type: location
+nature: 3.8
+leisure: 5.3
+adventure: 4.1
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Ostrava is not the Czech city you picture first, and that is exactly why it is worth visiting. The country's third-largest city built its identity on coal and steel, and now that the furnaces have gone cold, all that industrial grit has been repurposed into one of Central Europe's most interesting cultural scenes. If Prague is the polished postcard, Ostrava is the city rolling up its sleeves.

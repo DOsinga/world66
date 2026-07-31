@@ -10,6 +10,11 @@ snippet: Silicon Valley city home to Google, NASA Ames, Castro Street, and the C
   History Museum.
 title: Mountain View
 type: location
+nature: 5.2
+leisure: 5.1
+adventure: 4.2
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Mountain View is a mid-sized Silicon Valley city directly south of San Francisco, home to Google's main campus (Googleplex) and a long history of technology companies including NASA Ames Research Center at Moffett Field. Despite its corporate fame, the centre is unexpectedly human-scale: [Castro Street](/northamerica/unitedstates/california/mountainvieuw/castro_street) downtown is a lively strip of cafes, restaurants (heavy on Asian options), and bookshops.

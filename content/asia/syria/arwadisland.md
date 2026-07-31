@@ -10,6 +10,11 @@ snippet: Inhabited Syrian island off Tartus, layered with Phoenician, Roman, and
   traces
 title: Arwad Island
 type: location
+nature: 5.8
+leisure: 4.6
+adventure: 5.1
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 Arwad (also spelled Arwad or Ruad) is a small island just off the coast of [Tartus](/asia/syria/tartus), reachable by boat in about 15 minutes. It is the only permanently inhabited island on the Syrian coast, and one of the oldest continuously occupied islands in the world — Phoenician, Greek, Roman, and Crusader rulers each left their mark.

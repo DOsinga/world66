@@ -14,6 +14,11 @@ snippet: Northern Portuguese city regarded as the country's birthplace, with a U
   medieval centre.
 title: Guimarães
 type: location
+nature: 3.4
+leisure: 6.8
+adventure: 2.8
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Guimarães is known as the birthplace of Portugal — it was here that Afonso Henriques, the first king, was born and raised, and it was from here that the country's independence was launched in the 12th century. The inscription "Aqui Nasceu Portugal" (Portugal Was Born Here) is carved into a medieval tower in the old town, and the locals take the claim seriously.

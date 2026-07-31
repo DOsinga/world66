@@ -10,6 +10,11 @@ snippet: Cape Cod harbour village on Nantucket Sound, with warm south-shore beac
   and a low-key main street.
 title: Harwich Port
 type: location
+nature: 4.1
+leisure: 5.8
+adventure: 3.3
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Harwich Port is a village in the town of Harwich on Cape Cod, Massachusetts, sitting on Nantucket Sound on the Cape's south shore. It is one of the more attractive and low-key of the Cape's many small centres — a modest harbour with fishing and pleasure boats, a pleasant main street, and beaches along the sound that are calmer and generally warmer than the ocean-facing beaches on the north shore.

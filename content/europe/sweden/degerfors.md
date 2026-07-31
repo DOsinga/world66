@@ -14,6 +14,11 @@ snippet: Small Värmland industrial town known for steelworks, football, and the
   dry rapids at Sveafallen.
 title: Degerfors
 type: location
+nature: 4.7
+leisure: 4.7
+adventure: 4.4
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Degerfors sits on the [Stockholm](/europe/sweden/stockholm)–[Oslo](/europe/norway/oslo) road at the eastern edge of Värmland province. It is a small industrial town built on steel, though the mills have been declining for years. The football team, [Degerfors IF](/europe/sweden/degerfors/degerfors_if), has been the more reliable source of local pride — a small-town club with a passionate following and a history of reaching the top division.

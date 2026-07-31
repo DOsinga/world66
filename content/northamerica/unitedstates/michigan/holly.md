@@ -14,6 +14,11 @@ snippet: Small Michigan town with antique-lined streets, Battle Alley, and a sto
   old hotel.
 title: Holly
 type: location
+nature: 4.4
+leisure: 4.9
+adventure: 4.1
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Holly is a small Michigan town that feels like it never left the early 1900s. The downtown is packed with antique shops and local artists, and everybody seems to know everybody. You will find it right off I-75 at exit 102 -- head west into town, or east to [Mt. Holly](/northamerica/unitedstates/michigan/holly/mt_holly_ski) for skiing in winter.

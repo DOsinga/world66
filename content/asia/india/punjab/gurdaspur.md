@@ -13,6 +13,11 @@ sources:
 - https://en.wikipedia.org/wiki/Dera_Baba_Nanak
 title: Gurdaspur
 type: location
+nature: 4.4
+leisure: 4.5
+adventure: 4.6
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Gurdaspur is a border district in northern Punjab, sitting close to the Pakistani frontier and serving historically as a gateway to Kashmir. The district's history runs deep — from ancient habitation through Mughal rule to the Sikh kingdoms and the British Raj. The 1947 Partition cut through it with particular violence; the new border drew families, friends, and communities apart in ways still felt today.

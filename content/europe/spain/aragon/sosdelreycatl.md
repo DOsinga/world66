@@ -13,6 +13,11 @@ snippet: Aragonese medieval town of stone lanes and arcades, birthplace of Ferdi
   the Catholic
 title: Sos del Rey Católico
 type: location
+nature: 4.3
+leisure: 5.0
+adventure: 4.4
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Sos del Rey Católico is a beautifully preserved medieval town in the Aragonese Pyrenean foothills, and one of the most handsome small towns in Spain. Its name commemorates Ferdinand II of Aragon — the Catholic Monarch — who was born here in 1452. Ferdinand later married Isabella of Castile, effectively uniting Spain, and together they sponsored Columbus's voyage to the Americas.

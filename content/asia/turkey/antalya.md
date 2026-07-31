@@ -13,6 +13,11 @@ snippet: Large Turkish Mediterranean city and Turquoise Coast gateway, with Kale
   at its historic core.
 title: Antalya
 type: location
+nature: 4.1
+leisure: 8.1
+adventure: 2.0
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Antalya is the biggest city on the Turkish Mediterranean coast and the gateway to the so-called **Turquoise Coast** — the long stretch of beach resorts, Roman and Lycian ruins, and limestone mountains that runs from Fethiye in the west to Alanya in the east. It is also the fifth-largest city in Turkey, with a metropolitan population of over 2.5 million, and the arrival point for the vast majority of package holidays in southern Turkey. The modern city is sprawling, sun-bleached and unlovely from the highway, but its compact historical core — **Kaleiçi**, the walled Ottoman old town — is one of the most atmospheric quarters in Turkey and reason enough to visit.

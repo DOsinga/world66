@@ -12,6 +12,11 @@ snippet: Cambodian seaside town on the Gulf of Thailand, marked by villa ruins a
   crab markets.
 title: Kep
 type: location
+nature: 4.6
+leisure: 7.2
+adventure: 2.5
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Before the Khmer Rouge, Kep was Cambodia's glamour resort. In the 1960s, Phnom Penh's elite and visiting foreign dignitaries came here for weekends by the sea — the Gulf of Thailand side, sheltered and warm, with whitewashed villas and shaded terraces. Pol Pot's regime drove everyone out and left the buildings to the jungle. The shells are still there: roofless mansions draped in vines, swimming pools filled with nothing, a bullet-pocked Mercedes in a driveway that locals say once belonged to Pol Pot himself. The [Khmer Rouge villa ruins](/asia/cambodia/kep/villa_ruins) are worth an hour's wander on foot.

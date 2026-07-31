@@ -16,6 +16,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Kamianets-Podilskyi
 title: Kamianets-Podilskyi
 type: location
+nature: 4.6
+leisure: 3.5
+adventure: 6.0
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Kamianets-Podilskyi is one of the most dramatic small cities in Ukraine — an old town set on a rocky island formed by a horseshoe bend of the Smotrych River, connected to the mainland by a single narrow bridge, and dominated by a formidable medieval castle at the island's western tip. The combination of the canyon landscape, the castle, and the densely packed old town inside the loop of the river makes it visually extraordinary and very unlike anywhere else in central Europe.

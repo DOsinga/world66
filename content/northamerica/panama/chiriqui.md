@@ -14,6 +14,11 @@ snippet: Panamanian highland province of coffee towns, cloud forests, and Volcá
   the country's highest peak
 title: Chiriquí
 type: location
+nature: 5.3
+leisure: 5.3
+adventure: 4.4
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Chiriquí is Panama's highland province, centred on the country's highest peak — Volcán Barú at 3,475 metres — and home to some of the best coffee, coolest weather, and most spectacular scenery in Central America. While most visitors to Panama head for the beaches or the canal, Chiriquí offers a very different experience: cloud forests, whitewater rivers, hot springs, and highland towns where the pace of life is deliberately slow.

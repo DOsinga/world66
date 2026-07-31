@@ -13,6 +13,11 @@ title: Malé
 type: location
 snippet: Densely packed Maldivian capital on a tiny island, with coral-stone mosques
   and narrow urban streets.
+nature: 6.7
+leisure: 7.4
+adventure: 2.7
+city_culture: 2.2
+historic_culture: 2.2
 ---
 
 Malé is one of the most densely packed capitals on earth — roughly 200,000 people crammed onto an island barely two kilometres across. It is noisy, crowded, and unlike anything you will see on the resort brochures. That is exactly why it is worth a visit.

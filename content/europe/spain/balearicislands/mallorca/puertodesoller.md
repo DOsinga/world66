@@ -14,6 +14,11 @@ snippet: Mallorcan port village on a circular bay, reached by vintage rail and t
   through Sóller.
 title: Puerto de Soller
 type: location
+nature: 4.7
+leisure: 7.5
+adventure: 2.4
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Puerto de Sóller sits at the base of a near-perfect circular bay on Mallorca's northwest coast, surrounded on three sides by the Serra de Tramuntana mountains. The port has a small beach, a promenade lined with restaurants and cafes, and a pleasingly unhurried atmosphere that somehow survives the summer crowds.

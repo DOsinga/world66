@@ -17,6 +17,11 @@ snippet: Malaysian capital at the Klang-Gombak confluence, layered with colonial
   rainforest parks, and glass towers.
 title: Kuala Lumpur
 type: location
+nature: 1.2
+leisure: 9.1
+adventure: 1.0
+city_culture: 8.4
+historic_culture: 8.4
 ---
 
 Kuala Lumpur — KL — is the capital of Malaysia and one of Southeast Asia's most underrated cities. It began as a muddy tin-mining camp at the confluence of the Klang and Gombak rivers in the 1850s (the name means "muddy confluence"), and grew into a colonial administrative centre under the British, and then, after independence in 1957, into the rapidly modernising city you see today. KL is visibly a city of layers: Islamic, Chinese, and Indian communities side by side, colonial mock-Tudor next to glass-skinned skyscrapers, rainforest parks still clinging to the edges of downtown.

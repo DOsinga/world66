@@ -10,6 +10,11 @@ score: 8.03
 loc_type: city
 snippet: Gold Coast hinterland national park protecting rainforest, waterfalls, glow-worm
   caves, and Antarctic beech forest.
+nature: 6.5
+leisure: 5.8
+adventure: 3.7
+city_culture: 2.8
+historic_culture: 2.8
 ---
 
 Springbrook National Park sits in the Gold Coast hinterland, about 45 minutes' drive from Surfers Paradise but feeling like another world entirely. The park protects ancient Antarctic beech forest, subtropical rainforest, waterfalls, and a network of well-maintained walking tracks. Pademelons graze at the forest edges and parrots flash through the canopy overhead.

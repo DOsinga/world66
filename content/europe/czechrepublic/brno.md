@@ -14,6 +14,11 @@ snippet: Moravian capital with university energy, functionalist architecture, an
   a less polished Czech urban rhythm.
 title: Brno
 type: location
+nature: 2.9
+leisure: 6.3
+adventure: 3.1
+city_culture: 7.4
+historic_culture: 7.4
 ---
 
 Brno is Moravia's capital and the Czech Republic's second city, with around 380,000 people. It has a reputation among Czechs as the cooler, less tourist-overrun alternative to Prague — that reputation is largely deserved. The city has a strong university culture, a good food and bar scene, and a genuinely lived-in feel that the more polished capital sometimes lacks.

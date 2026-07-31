@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Mosquito_Lagoon
 title: Canaveral National Seashore
 type: location
+nature: 6.9
+leisure: 5.7
+adventure: 3.8
+city_culture: 2.3
+historic_culture: 2.3
 ---
 
 Canaveral National Seashore protects one of the longest undeveloped stretches of Atlantic coast in Florida, a barrier island caught between ocean, lagoon, and space-age infrastructure. It sits on the northern edge of the Kennedy Space Center landscape, so the view can swing from sea oats and turtle tracks to rocket gantries on the horizon.

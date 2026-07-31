@@ -14,6 +14,11 @@ snippet: Largest US Virgin Island, with Danish colonial towns and quietly strong
   diving.
 title: St. Croix
 type: location
+nature: 5.1
+leisure: 8.1
+adventure: 2.0
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 St. Croix is the largest of the US Virgin Islands, and the most historically layered. Where St. Thomas runs on tourism and St. John on eco-credentials, St. Croix has a quieter confidence — colonial architecture, working towns, and some of the best diving in the Caribbean without the crowds.

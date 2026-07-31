@@ -14,6 +14,11 @@ title: Pankisi Gorge
 type: location
 snippet: Caucasus gorge in Kakheti, home to Kist villages, walnut groves, and treks
   toward Tusheti.
+nature: 6.2
+leisure: 3.7
+adventure: 5.7
+city_culture: 3.7
+historic_culture: 3.7
 ---
 
 The Pankisi Gorge is a narrow valley in the Caucasus mountains of north-eastern Georgia, about 25 km north of the town of Akhmeta in the Kakheti region. It has been in the international news for the wrong reasons — in the years after the Chechen wars it became a refuge for Chechen families fleeing the conflict, and it developed a brief and sensationalised reputation as a no-go zone — but the reality on the ground today is very different. Pankisi is a quiet, strikingly beautiful valley of small villages, terraced fields, and walnut groves, inhabited primarily by the **Kists**, a Georgian Muslim community of Chechen descent who have lived here for more than a century and a half.

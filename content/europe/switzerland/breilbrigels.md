@@ -13,6 +13,11 @@ title: Breil/Brigels
 type: location
 snippet: Romansh-speaking Surselva mountain village with a modest ski area and Rhine
   gorge trails.
+nature: 5.7
+leisure: 5.5
+adventure: 4.3
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 Breil/Brigels is a mountain village in the Surselva district of Graubünden, perched on a sunny terrace at 1,300 metres above the young Rhine River. The village, together with nearby Waltensburg and Andiast, forms a small cluster of traditional Romansh-speaking communities with a distinctly local character. The bilingual name reflects this: Breil is Romansh, Brigels is German.

@@ -13,6 +13,11 @@ snippet: Atlantic city south of Rabat, known for its beach, old kasbah walls, an
   capital-suburb rhythm.
 title: Temara
 type: location
+nature: 4.7
+leisure: 5.2
+adventure: 4.2
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Temara is a coastal city directly south of [Rabat](/africa/morocco/rabat), essentially a southern suburb of the capital. Its main draw for visitors is [Temara Beach](/africa/morocco/temara/temara_beach), a long stretch of Atlantic sand popular with Rabatis on summer weekends. The beach can get crowded but has a relaxed atmosphere and a string of cafes along the promenade.

@@ -14,6 +14,11 @@ snippet: East-central Ontario cottage-country municipality, named for its many s
   lakes and small towns.
 title: Kawartha Lakes
 type: location
+nature: 5.8
+leisure: 6.4
+adventure: 3.2
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 Kawartha Lakes is a sprawling municipality in east-central Ontario that's more countryside than city, despite its official designation. The name comes from the anglicized Anishinaabe word gaa-waategamaag, meaning "shining waters" — and that's exactly what you'll find. Lakes everywhere, most of them ringed with cottages.

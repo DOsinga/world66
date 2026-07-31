@@ -14,6 +14,11 @@ snippet: Luo Nyanza market town near Kogelo, the Obama family's ancestral villag
   in rural western Kenya.
 title: Siaya Town
 type: location
+nature: 5.4
+leisure: 3.5
+adventure: 6.1
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Siaya is a small district headquarters in Luo Nyanza, western Kenya. The town itself is unremarkable — a market, some shops, dusty streets — but the surrounding area has a claim to fame: Kogelo village, about 30 km away, is the ancestral home of the Obama family. Barack Obama's father grew up here, and the village received considerable international attention during his presidency. A small community centre and the Senator Obama Kogelo Secondary School mark the connection.

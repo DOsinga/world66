@@ -14,6 +14,11 @@ snippet: County Wexford ferry town with a long sandy strand and sea links to Wal
   and France.
 title: Rosslare
 type: location
+nature: 5.1
+leisure: 5.1
+adventure: 4.1
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Rosslare is a small seaside town in County Wexford, on Ireland's southeast tip. Most people know it for [Rosslare Europort](/europe/ireland/rosslare/rosslare_europort), the main ferry terminal connecting Ireland with Wales and northern France — Stena Line and Irish Ferries run regular services to Fishguard, Pembroke, and Cherbourg. If you are arriving in Ireland by sea from Britain or the continent, this is likely your first stop.

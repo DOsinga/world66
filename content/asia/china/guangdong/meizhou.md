@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Meizhou
 title: Meizhou
 type: location
+nature: 5.0
+leisure: 5.1
+adventure: 4.3
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Meizhou is the ancestral capital of the Hakka people — the group whose name means "guest families," a reference to their historical migrations southward from the Central Plains over a thousand years ago. The city sits in a river valley in northeastern Guangdong, surrounded by forested hills, and its overseas diaspora is immense: an estimated 1.3 million Meizhou-origin people live abroad, scattered across Southeast Asia, the Americas, and beyond. The [Hakka Museum of China](/asia/china/guangdong/meizhou/hakka_museum), free to enter, gives this history a serious institutional form and is one of the better ethnographic museums in the province.

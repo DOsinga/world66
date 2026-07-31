@@ -14,6 +14,11 @@ snippet: Gambia River village associated with Alex Haley's Roots and the Kunta K
   story.
 title: Juffure
 type: location
+nature: 4.4
+leisure: 4.7
+adventure: 4.9
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Juffure is a small village on the north bank of the Gambia River, about 30 kilometres southeast of [Banjul](/africa/gambia/banjul). It became world-famous through Alex Haley's novel *Roots*, in which he traced his ancestry to this village and to Kunta Kinte, who was captured and sold into slavery in the 18th century.

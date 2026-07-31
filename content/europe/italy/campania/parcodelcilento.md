@@ -9,6 +9,11 @@ snippet: Southern Campania national park of limestone mountains, Greek ruins, ch
   forests, and cave-lined coast.
 title: Parco del Cilento
 type: location
+nature: 6.3
+leisure: 5.0
+adventure: 4.5
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 *Europe > Italy > Campania > Parco del Cilento*

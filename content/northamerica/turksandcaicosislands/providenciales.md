@@ -13,6 +13,11 @@ snippet: Turks and Caicos tourism island centred on Grace Bay's pale sand and cl
   reef waters
 title: Providenciales
 type: location
+nature: 5.5
+leisure: 8.2
+adventure: 1.8
+city_culture: 3.0
+historic_culture: 3.0
 ---
 
 Providenciales — universally called "Provo" — is the main tourist hub of the Turks and Caicos Islands, a British Overseas Territory in the northern Caribbean southeast of the Bahamas. It's best known for [Grace Bay Beach](/northamerica/turksandcaicosislands/providenciales/grace_bay_beach), a 3-km arc of white sand and luminously clear turquoise water that consistently ranks among the best beaches in the world. There's no argument: it's genuinely spectacular.

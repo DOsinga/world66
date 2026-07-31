@@ -14,6 +14,11 @@ snippet: Central Java port city where Dutch colonial quarters, Chinese temples, 
   Lawang Sewu mark the north coast.
 title: Semarang
 type: location
+nature: 3.9
+leisure: 5.3
+adventure: 4.2
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Semarang is the capital of Central Java and a busy port city on the north coast. It rarely features on tourist itineraries, which is a shame — the old Dutch quarter ([Kota Lama](/asia/indonesia/java/semarang/kota_lama)) has atmospheric colonial architecture including the [Blenduk Church](/asia/indonesia/java/semarang/blenduk_church) and the landmark [Lawang Sewu](/asia/indonesia/java/semarang/lawang_sewu) ("Thousand Doors") building. The Chinese temple of [Sam Po Kong](/asia/indonesia/java/semarang/sam_po_kong) is another highlight, and the [Tay Kak Sie Temple](/asia/indonesia/java/semarang/tay_kak_sie_temple) in the Pecinan district is the oldest Chinese temple in the city. [Tugu Muda](/asia/indonesia/java/semarang/tugu_muda) stands at the center of the colonial government quarter. The [Great Mosque of Central Java](/asia/indonesia/java/semarang/great_mosque_central_java), with its retractable courtyard umbrellas, is one of Indonesia's most architecturally inventive modern mosques. Arrivals by train pull into the magnificent [Tawang station](/asia/indonesia/java/semarang/semarang_tawang_station), built in 1914 and one of Java's finest colonial buildings.

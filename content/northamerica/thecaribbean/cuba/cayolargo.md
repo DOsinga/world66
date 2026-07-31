@@ -14,6 +14,11 @@ snippet: Small Cuban resort island off the southern coast, defined by white beac
   reefs, and clear shallow water
 title: Cayo Largo
 type: location
+nature: 6.5
+leisure: 7.1
+adventure: 2.8
+city_culture: 2.4
+historic_culture: 2.4
 ---
 
 Cayo Largo is a small, flat island off the southern coast of [Cuba](/northamerica/thecaribbean/cuba), known almost entirely for its beaches. [Playa Sirena](/northamerica/thecaribbean/cuba/cayolargo/playa_sirena) and [Playa Paraíso](/northamerica/thecaribbean/cuba/cayolargo/playa_paraiso) are routinely named among the best in the Caribbean — long stretches of white sand with warm, shallow, impossibly clear water and almost nobody on them.

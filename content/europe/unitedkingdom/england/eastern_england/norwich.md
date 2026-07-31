@@ -14,6 +14,11 @@ snippet: Medieval East Anglian city with a Norman cathedral, hilltop castle, and
   of surviving churches.
 title: Norwich
 type: location
+nature: 3.1
+leisure: 6.5
+adventure: 2.7
+city_culture: 7.1
+historic_culture: 7.1
 ---
 
 Norwich is the largest city in East Anglia, a medieval city that still wears its history unusually well for England. The old city centre is compact and largely intact, with 32 surviving medieval churches — more than any other city in northern Europe — along with one of the best-preserved Norman cathedrals in England, a castle that has sat on its mound since the twelfth century, and a market that has traded continuously since the eleventh century. The market is one of the largest open-air markets in England and remains genuinely busy and local.

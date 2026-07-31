@@ -13,6 +13,11 @@ snippet: Pernambuco capital built on rivers and islands, with frevo, maracatu, b
   and colonial quarters.
 title: Recife
 type: location
+nature: 4.1
+leisure: 7.1
+adventure: 2.7
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Recife is the capital of Pernambuco State and one of northeast Brazil's most vibrant cities. Built on a network of rivers, islands, and peninsulas where the Atlantic coast meets the Rio Capibaribe, it has a distinctive low-rise colonial skyline and a reputation for strong regional culture — frevo music, maracatu drumming, and the most intense carnival outside of Rio.

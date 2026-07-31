@@ -17,6 +17,11 @@ sources:
 - https://www.andalucia.org/en/vejer-de-la-frontera
 title: Vejer de la Frontera
 type: location
+nature: 3.8
+leisure: 6.5
+adventure: 2.9
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Vejer de la Frontera is one of the great white towns of Cádiz province, a walled hilltop maze above the La Janda countryside and close enough to the Atlantic to smell the sea on a windy day. It is beautiful in the expected Andalusian way - white walls, geraniums, steep alleys - but it also has a strong Moorish shape that makes the old town feel older and tighter than many of its neighbours.

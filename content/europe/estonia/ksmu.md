@@ -14,6 +14,11 @@ snippet: Tiny Estonian captains' village on the Lahemaa coast, edged by forest t
   and boulder shores.
 title: Käsmu
 type: location
+nature: 5.6
+leisure: 6.1
+adventure: 3.4
+city_culture: 4.0
+historic_culture: 4.0
 ---
 
 Käsmu is a tiny coastal village on the Lahemaa coast in northern Estonia, known locally as the "Captains' Village" for its long maritime history. In the 19th and early 20th centuries the village produced a disproportionate number of ship captains, and later became a base for salt and fish smugglers — a heritage the small maritime museum in the village documents with evident pride.

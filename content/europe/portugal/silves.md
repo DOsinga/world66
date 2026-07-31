@@ -7,6 +7,11 @@ snippet: Inland Algarve town above the Arade, crowned by the red sandstone castl
   of Moorish Xelb.
 title: Silves
 type: location
+nature: 4.0
+leisure: 6.4
+adventure: 3.3
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Silves is the historic capital of the Algarve, sitting on a ridge above the River Arade in the hills inland from the coast. Before the Portuguese reconquest in the 13th century, it was Xelb — an important Moorish city of some 30,000 people, larger than Lisbon at the time. That history is visible in the red sandstone castle that dominates the town and in the narrow streets below it.

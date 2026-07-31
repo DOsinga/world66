@@ -13,6 +13,11 @@ snippet: Forested Croatian highland between Kvarner and Karlovac, known for kars
   caves, cool summers, and Risnjak.
 title: Gorski Kotar
 type: location
+nature: 7.0
+leisure: 4.8
+adventure: 4.9
+city_culture: 3.0
+historic_culture: 3.0
 ---
 
 Gorski Kotar is the mountainous interior of [Croatia](/europe/croatia), a densely forested highland region between the Adriatic coast at Kvarner Bay and the lowlands around Karlovac. It is sometimes called "the green lungs of Croatia" — a landscape of beech and fir forests, karst caves, mountain streams, and small towns that feels completely different from the sun-baked coast just an hour's drive away.

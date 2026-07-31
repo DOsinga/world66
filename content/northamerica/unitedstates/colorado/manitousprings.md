@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/Manitou_Springs,_Colorado
 title: Manitou Springs
 type: location
+nature: 3.7
+leisure: 5.1
+adventure: 4.5
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Manitou Springs is a small, artsy town tucked into a narrow valley at the foot of [Pikes Peak](/northamerica/unitedstates/colorado/pikespeak), just west of [Colorado Springs](/northamerica/unitedstates/colorado/coloradosprings). Originally a resort town built around its natural [mineral springs](/northamerica/unitedstates/colorado/manitousprings/mineral_springs) — you can still taste the water at public fountains around town — it has reinvented itself as a bohemian counterpoint to the more conservative Springs next door.

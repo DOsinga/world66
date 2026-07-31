@@ -12,6 +12,11 @@ snippet: Ohio state capital and university city with Scioto riverfronts, neighbo
   food scenes, and civic museums.
 title: Columbus
 type: location
+nature: 3.5
+leisure: 4.4
+adventure: 4.7
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Columbus is the capital and largest city of Ohio, a mid-size Midwestern metropolis of around 900,000 people (about 2.2 million in the metropolitan area) on the Scioto River in the centre of the state. For most of its history it was an unremarkable state-capital and rail junction town, but since the 1990s Columbus has been one of the fastest-growing major cities in the United States — driven by **Ohio State University** (one of the largest single-campus universities in the country, with over 60,000 students), a cluster of Fortune 500 companies in banking and insurance, and a young, diverse population that has given the city an unexpectedly lively food and arts scene. It is not a tourist destination, and most travellers will only spend time here as part of a longer road trip through the Midwest — but it is a reliably pleasant, surprisingly cosmopolitan stopover.

@@ -16,6 +16,11 @@ snippet: Atlantic peninsula capital of Guinea, loud with markets, traffic, and o
   of West Africa's great music scenes.
 title: Conakry
 type: location
+nature: 4.8
+leisure: 4.0
+adventure: 5.7
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Conakry is the capital of [Guinea](/africa/guineeconakry) and sits at the tip of a narrow peninsula jutting into the Atlantic. The city has grown far beyond this peninsula in recent decades, sprawling inland with little planning and heavy traffic. Getting from the center to the outskirts can take hours.

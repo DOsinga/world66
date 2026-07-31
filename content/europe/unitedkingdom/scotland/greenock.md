@@ -18,6 +18,11 @@ image: greenock.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Beacon_Arts_Centre_%26_clock_tower_w.jpg
 image_license: CC BY-SA 4.0
 image_attribution: dave souza
+nature: 5.0
+leisure: 4.5
+adventure: 4.7
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Greenock sits on the south bank of the Firth of Clyde, about 30 kilometres west of Glasgow, where the river widens into something that feels genuinely oceanic. It was one of Scotland's great shipbuilding and maritime towns, and the waterfront still carries that industrial weight — the Custom House, built in 1818, is a fine neoclassical reminder of when Greenock was a significant port handling transatlantic trade and emigration.

@@ -14,6 +14,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Landmannalaugar-pjt.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Pjt56 --- If you use the picture outside Wikipedia I would appreciate
   a short e-mail to pjt56@gmx.net or a message on my discussion page
+nature: 9.2
+leisure: 3.5
+adventure: 6.2
+city_culture: 1.0
+historic_culture: 1.0
 ---
 
 Landmannalaugar sits in Iceland's highlands at around 600 metres, a landscape of obsidian lava fields, steaming hot springs, and rhyolite mountains streaked in rust, yellow, and green. It is the starting point of the Laugavegur trail, a four-day hike through some of the most dramatic scenery on earth. Day hikers come too — the coloured peaks behind the camp are an easy afternoon walk.

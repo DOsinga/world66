@@ -18,6 +18,11 @@ image: kondoa.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kondoa_Irangi_Rock_Paintings_(51506922307).jpg
 image_license: CC BY 2.0
 image_attribution: Nina R from Africa
+nature: 6.0
+leisure: 3.8
+adventure: 5.8
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Kondoa (or Kondoa-Irangi) is a small, quiet town on Tanzania’s Central Plateau, strung along the old caravan route between the Indian Ocean and Lake Tanganyika. Most travellers pass through on the long road between Arusha and Dodoma without stopping. They are missing something. Thirty kilometres north of town, in the granite overhangs of the Irangi Hills, lies one of the most remarkable concentrations of prehistoric rock art in Africa — a UNESCO World Heritage Site that most visitors to Tanzania have never heard of.

@@ -14,6 +14,11 @@ sources:
 - https://www.interpatagonia.com/trelew/bryn-gwyn-paleontological-park.html
 title: Trelew
 type: location
+nature: 6.3
+leisure: 3.9
+adventure: 5.8
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 Trelew is not pretty in the conventional Patagonian way. It is a dry, practical city in the lower Chubut Valley, with traffic, wind, and a working-town feel. But it has two strong claims on a traveller's time: one of South America's best dinosaur museums and a front-row position in Welsh Patagonia.

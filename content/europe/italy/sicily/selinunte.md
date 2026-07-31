@@ -14,6 +14,11 @@ type: location
 score: 8.68
 snippet: Ancient Greek city site on Sicily's southwest coast, with ruined temples
   across two hilltops.
+nature: 2.7
+leisure: 6.1
+adventure: 3.5
+city_culture: 8.0
+historic_culture: 8.0
 ---
 
 Selinunte was one of the most powerful Greek cities in Sicily, founded by colonists from Megara Hyblaea around 650 BC on the southwestern coast of the island. At its peak it had a population of perhaps 100,000 and covered an area larger than ancient Athens. It was destroyed in a catastrophic Carthaginian attack in 409 BC, rebuilt partially, destroyed again in 250 BC, and then abandoned for ever. Today it is one of the largest and most impressive archaeological parks in Europe, its ruined temples scattered across two hilltops above the Mediterranean, largely untouched and very little visited compared to similar sites elsewhere.

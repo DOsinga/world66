@@ -10,6 +10,11 @@ snippet: Hill resort above Rawalakot, centred on Banjosa Lake and surrounding pi
   and oak forest.
 title: Banjosa
 type: location
+nature: 5.8
+leisure: 2.8
+adventure: 6.7
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Banjosa is a hill resort in Azad Kashmir, perched at around 1,980 meters in the forested hills above [Rawalakot](/asia/pakistan/azad_kashmir/rawala_kot). Its centrepiece is the tranquil artificial [Banjosa Lake](/asia/pakistan/azad_kashmir/benjosa/banjosa_lake), ringed by dense pine and oak forest — one of the few genuinely peaceful retreats in this part of Pakistan.

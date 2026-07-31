@@ -14,6 +14,11 @@ title: Mentor
 type: location
 snippet: Lake Erie suburb known for James A. Garfield's Lawnfield and the first front-porch
   presidential campaign.
+nature: 4.1
+leisure: 5.5
+adventure: 3.4
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Mentor is a suburban town on Lake Erie, about 30 km northeast of [Cleveland](/northamerica/unitedstates/ohio/cleveland). The principal reason to visit is the [James A. Garfield National Historic Site](/northamerica/unitedstates/ohio/mentor/garfield_national_historic_site), which preserves the home and property of the 20th President of the United States.

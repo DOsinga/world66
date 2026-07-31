@@ -16,6 +16,11 @@ snippet: Southern California port city where the Queen Mary anchors a beachside 
   and waterfront scene
 title: Long Beach
 type: location
+nature: 3.0
+leisure: 7.6
+adventure: 1.8
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Long Beach sits where Los Angeles meets the Pacific, but it has never been content to play second fiddle to its famous neighbour. California's fifth-largest city has its own personality — part gritty port town, part beachside playground, part cultural hub with a surprisingly good arts scene.

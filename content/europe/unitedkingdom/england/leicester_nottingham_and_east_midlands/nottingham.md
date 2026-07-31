@@ -14,6 +14,11 @@ title: Nottingham
 type: location
 snippet: East Midlands city of Robin Hood folklore, sandstone caves, and a castle
   above the Trent.
+nature: 2.9
+leisure: 5.4
+adventure: 3.6
+city_culture: 7.1
+historic_culture: 7.1
 ---
 
 Nottingham sits in the East Midlands, straddling the River Trent, and punches well above its weight for a city of its size. Most visitors arrive with Robin Hood on their minds — the outlaw is inescapable here, though historians place his exploits mainly in Sherwood Forest to the north and the surrounding Derbyshire hills rather than the city itself. No matter: the castle, the caves, and the folklore make for a genuinely engaging day out.

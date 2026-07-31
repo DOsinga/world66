@@ -14,6 +14,11 @@ snippet: Southeastern Alberta city above the South Saskatchewan River, historica
   shaped by natural gas and ceramics.
 title: Medicine Hat
 type: location
+nature: 4.5
+leisure: 5.2
+adventure: 3.8
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Medicine Hat sits in the dry southeast corner of Alberta, perched above the South Saskatchewan River valley. Rudyard Kipling famously described it as a city "with all hell for a basement" — a reference to the vast natural gas reserves that lie beneath it and gave the city its nickname, the Gas City.

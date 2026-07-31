@@ -7,6 +7,11 @@ longitude: 85.3167
 score: 7.63
 snippet: Vast Odisha brackish lagoon where winter migratory birds gather between rivers
   and the Bay of Bengal.
+nature: 6.5
+leisure: 5.1
+adventure: 4.4
+city_culture: 3.6
+historic_culture: 3.6
 ---
 
 Chilika Lake is Asia's largest brackish water lagoon, stretching across about 1,100 square kilometres along the Odisha coast in eastern India. The lake is separated from the Bay of Bengal by a narrow strip of land and is fed by more than fifty rivers and streams that drain the surrounding hills. Where fresh and salt water mix, the result is one of the richest ecosystems on the subcontinent.

@@ -14,6 +14,11 @@ snippet: Ganges pilgrimage town below the Himalayas, where ashrams, bridges, and
   line the riverbanks.
 title: Rishikesh
 type: location
+nature: 4.4
+leisure: 5.0
+adventure: 4.6
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Rishikesh is where the Ganges descends from the Himalayas into the plains, and the geography explains everything about the place. The river runs cold and powerful from the mountains here, and the town that has grown along its banks is split between two identities that exist in constant, productive tension: ancient pilgrimage centre and modern capital of international yoga tourism. Both are entirely genuine.

@@ -10,6 +10,11 @@ snippet: Ruhr industrial city known for Westfield CentrO and the Gasometer, a va
   former gas tank turned exhibition space.
 title: Oberhausen
 type: location
+nature: 3.2
+leisure: 5.3
+adventure: 3.8
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Oberhausen is an industrial city in the Ruhr, wedged between [Essen](/europe/germany/northrhinewestphalia/essen) and [Duisburg](/europe/germany/northrhinewestphalia/duisburg). Like its neighbours, it grew rich on coal and steel and spent the late 20th century figuring out what to do after the mines closed. The answer, in Oberhausen's case, was shopping and industrial heritage.

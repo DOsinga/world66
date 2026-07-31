@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Virginia_City_Historic_District_(Virginia_City,_Montana)
 title: Virginia City
 type: location
+nature: 4.3
+leisure: 5.2
+adventure: 4.3
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Virginia City, Montana is frozen in time. It was the site of one of the richest gold strikes in the American West — the [Alder Gulch](/northamerica/unitedstates/montana/virginiacity/alder_gulch_gold_panning) discovery of 1863 — and for a brief, furious period it was the most important town in the territory, serving as Montana's first territorial capital. When the gold petered out, there wasn't enough money left to modernize, so the town simply stopped. The Victorian storefronts, the wooden sidewalks, the hotel with its iron beds — all of it survived intact because nobody could afford to tear it down.

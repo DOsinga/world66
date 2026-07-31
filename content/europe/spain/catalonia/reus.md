@@ -13,6 +13,11 @@ snippet: Southern Catalan town known as Antoni Gaudí's birthplace and for its c
   Modernista architecture.
 title: Reus
 type: location
+nature: 4.7
+leisure: 5.4
+adventure: 3.9
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Reus is a prosperous town in southern [Catalonia](/europe/spain/catalonia), about 15 km inland from the beach resorts of the Costa Daurada. It is best known as the birthplace of Antoni Gaudí, and the town has made the most of this connection with the [Gaudí Centre](/europe/spain/catalonia/reus/gaudi_centre) museum and a [Modernista Route](/europe/spain/catalonia/reus/modernista_route) through buildings designed by Gaudí's contemporaries. The concentration of Art Nouveau architecture in the old centre is genuinely impressive — not Barcelona, but far more than you would expect from a town this size. The crown jewel is [Casa Navàs](/europe/spain/catalonia/reus/casa_navas), a Domènech i Montaner building with its original furniture, ceramics, and mosaics intact. On the northern edge of town, the [Institut Pere Mata](/europe/spain/catalonia/reus/institut_pere_mata) is an extraordinary Modernista psychiatric hospital campus by the same architect.

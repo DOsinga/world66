@@ -13,6 +13,11 @@ score: 8.36
 title: Napier
 type: location
 snippet: Hawke's Bay city rebuilt in Art Deco style after the 1931 earthquake.
+nature: 4.9
+leisure: 6.3
+adventure: 3.4
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Napier is the Art Deco capital of the world, and it earned that title the hard way. On 3 February 1931, a magnitude 7.8 earthquake flattened the city and killed 256 people. What rose from the rubble was an entire town centre rebuilt in the architectural style of the moment: clean lines, geometric patterns, sunburst motifs, and pastel facades. No other city has such a concentrated, cohesive collection of 1930s architecture, and the [Art Deco walk](/australiaandpacific/newzealand/north_island/hawkes_bay/napier/art_deco_walk) through the central streets feels like stepping into a beautifully preserved time capsule.

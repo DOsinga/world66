@@ -14,6 +14,11 @@ snippet: Lakeside Alpine town known for its canal-lined old quarter, Savoy castl
   and mountain-framed Lake Annecy.
 title: Annecy
 type: location
+nature: 4.8
+leisure: 8.3
+adventure: 1.9
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 Annecy sits at the northern tip of [Lake Annecy](/europe/france/alpes/annecy/lake_annecy), ringed by mountains that still carry snow well into spring. The [old town](/europe/france/alpes/annecy/vieille_ville) is built around a canal that runs from the lake through cobbled streets lined with pastel-coloured houses — locals call it the Venice of the Alps, and for once the comparison is not entirely absurd.

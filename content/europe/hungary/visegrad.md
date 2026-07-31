@@ -14,6 +14,11 @@ snippet: Danube Bend town below a hilltop citadel and reconstructed medieval roy
   palace
 title: Visegrad
 type: location
+nature: 3.3
+leisure: 5.7
+adventure: 3.6
+city_culture: 7.1
+historic_culture: 7.1
 ---
 
 Visegrad sits on the [Danube Bend](/europe/hungary/visegrad/danube_bend), where the river makes its sharp turn south toward Budapest. The town itself is small and quiet, but the hilltop [Visegrad Citadel](/europe/hungary/visegrad/visegrad_citadel) and the reconstructed [Royal Palace](/europe/hungary/visegrad/royal_palace) below it are the real draw. From the citadel walls you get one of the finest views of the Danube anywhere along its course — the river narrows dramatically between wooded hills before bending south, with the spires of Esztergom visible to the north on a clear day.

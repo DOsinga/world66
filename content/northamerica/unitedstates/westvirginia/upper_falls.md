@@ -13,6 +13,11 @@ title: Upper Falls
 type: location
 snippet: Kanawha County river community named for the Coal River falls that split
   the town.
+nature: 6.5
+leisure: 3.9
+adventure: 5.4
+city_culture: 3.3
+historic_culture: 3.3
 ---
 
 Upper Falls is a small community in Kanawha County, West Virginia, named for the falls of the Coal River that run through it. The Coal River, originally called Walhonde by the Lenape, was explored by John Peter Salley in 1742, who documented these falls on his expedition.

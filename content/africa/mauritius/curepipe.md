@@ -14,6 +14,11 @@ snippet: Central Plateau Mauritian town known for model ships, textile outlets, 
   the Trou aux Cerfs crater.
 title: Curepipe
 type: location
+nature: 4.8
+leisure: 5.2
+adventure: 4.0
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Curepipe is the main commercial town of the central plateau, sitting at 550 metres above sea level — cooler and often cloudier than the coast. It's primarily a shopping town for Mauritians, known for its model ship workshops (a Mauritian craft speciality), textile factories, diamond cutting operations, and the Floreal Knitwear factory shop where you can buy quality wool knitwear at good prices.

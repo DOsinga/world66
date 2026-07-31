@@ -13,6 +13,11 @@ snippet: Rajasthani desert city with a flatland fort, carved havelis, and fewer 
   than the western circuit.
 title: Bikaner
 type: location
+nature: 3.1
+leisure: 5.1
+adventure: 4.5
+city_culture: 7.5
+historic_culture: 7.5
 ---
 
 Bikaner is the overlooked gem of the Rajasthan desert circuit. Founded in 1488 by Rao Bika, this walled city has a magnificent fort, carved havelis, and a fraction of the tourist crowds that clog [Jaisalmer](/asia/india/rajasthan/jaisalmer) and [Jodhpur](/asia/india/rajasthan/jodhpur).

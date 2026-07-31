@@ -13,6 +13,11 @@ image: angelfalls.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Salto_Chur%C3%BAn_Mer%C3%BA.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Heribert Dezeo
+nature: 9.2
+leisure: 2.9
+adventure: 7.1
+city_culture: 1.1
+historic_culture: 1.1
 ---
 
 Angel Falls (Salto Ángel) is the world's highest uninterrupted waterfall at 979 metres (3,212 feet), with a free-falling drop of 807 metres. It plunges off the sheer face of Auyán-tepui, one of the flat-topped table mountains of Canaima National Park. The falls are so high that during the dry season the water partially evaporates into mist before reaching the bottom.

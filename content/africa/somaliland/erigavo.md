@@ -14,6 +14,11 @@ snippet: Highland Somaliland town near Surud Ad, with cooler air, juniper forest
   and Daallo mountain views.
 title: Erigavo
 type: location
+nature: 6.5
+leisure: 0.9
+adventure: 8.9
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 Erigavo (also spelled Ceerigaabo) is a highland town in eastern Somaliland, sitting at around 1,800 metres above sea level near the foot of Surud Ad — the highest point in Somalia at about 2,420 metres. The elevation gives the town and its surroundings a cooler, greener character than the lowland coast, with juniper forests and dramatic mountain views.

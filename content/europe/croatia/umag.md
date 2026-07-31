@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Croatia_Open
 title: Umag
 type: location
+nature: 4.4
+leisure: 7.4
+adventure: 2.3
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Umag is a small harbour town at the very northwestern tip of the Istrian peninsula in [Croatia](/europe/croatia), the first stop on the coast if you are coming from Italy or Slovenia. The [old town](/europe/croatia/umag/old_town) sits on a small promontory, its narrow streets lined with Venetian houses, remnants of medieval walls, and churches — the most notable being the [Church of Saints Hermagoras and Fortunatus](/europe/croatia/umag/church_of_saints_hermagoras_and_fortunatus) at the tip of the peninsula.

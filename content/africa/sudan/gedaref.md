@@ -14,6 +14,11 @@ snippet: Eastern Sudanese agricultural city on the Butana plains, surrounded by 
   sesame, and cotton fields
 title: Gedaref
 type: location
+nature: 6.5
+leisure: 1.1
+adventure: 8.5
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 Gedaref — also known as Al-Qadarif — is the agricultural heartland of eastern Sudan and the country's granary. The city sits on the fertile [Butana plains](/africa/sudan/gedaref/butana_plains), where vast fields of sorghum, sesame, sunflower, peanuts, and cotton stretch across the landscape. Roads connect it to Khartoum to the west, Port Sudan to the northeast, and south to the Ethiopian border town of Galabat, linking Gedaref to the Ethiopian city of Gondar.

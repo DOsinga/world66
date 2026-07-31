@@ -13,6 +13,11 @@ snippet: Tamaulipas border city opposite Laredo, defined by Rio Grande bridges a
   heavy commercial truck traffic.
 title: Nuevo Laredo
 type: location
+nature: 3.9
+leisure: 4.7
+adventure: 4.7
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Nuevo Laredo sits on the south bank of the Rio Grande directly opposite Laredo, Texas, and is one of the busiest commercial border crossings in the Western Hemisphere. Thousands of trucks pass through here daily, and that trade-driven energy defines the city far more than tourism does. This is not a place most travelers visit for pleasure, and you should be honest with yourself about the security situation before planning a trip. Check current advisories carefully.

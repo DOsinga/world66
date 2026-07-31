@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Besan%C3%A7on
 title: Besançon
 type: location
+nature: 3.0
+leisure: 7.4
+adventure: 2.0
+city_culture: 7.0
+historic_culture: 7.0
 ---
 
 Besançon is a city that rewards close attention. The capital of Franche-Comté sits inside an almost perfect meander of the Doubs river, which curves around the old town on three sides before reaching a rocky spur crowned by one of Vauban's most celebrated fortresses. It has the look of a city that knows it is handsome and doesn't feel the need to advertise it loudly.

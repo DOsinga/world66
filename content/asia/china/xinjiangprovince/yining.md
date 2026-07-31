@@ -9,6 +9,11 @@ snippet: Ili Valley city known as Gulja, where Xinjiang deserts give way to mead
   and orchards.
 title: Yining
 type: location
+nature: 5.2
+leisure: 3.7
+adventure: 5.7
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Yining — known in Kazakh as Gulja — is the capital of the Ili Kazakh Autonomous Prefecture and the main city of one of the most beautiful and least visited landscapes in China. The Ili Valley runs east–west along the Ili River, sheltered by the Tianshan Mountains to the north and south. The combination of elevation, moisture, and fertile soil produces something rare in Xinjiang: meadows instead of desert, apple orchards, lavender fields, and rivers that actually flow in summer. It feels like a different country from the Taklamakan.

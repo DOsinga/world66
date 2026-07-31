@@ -14,6 +14,11 @@ snippet: Southeastern Macedonian valley town known for fertile fields, Mastika a
   and monasteries below Belasica mountain.
 title: Strumica
 type: location
+nature: 4.6
+leisure: 4.3
+adventure: 5.1
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Strumica sits in a broad valley in southeastern [Macedonia](/europe/macedonia), close to the borders with Bulgaria and Greece. The surrounding valley is one of the most fertile areas in the country — warm, Mediterranean-influenced climate produces early vegetables, tobacco, poppies, and the aniseed used to make Mastika, Macedonia's national spirit.

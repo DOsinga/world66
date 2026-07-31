@@ -18,6 +18,11 @@ sources:
 - https://zimfieldguide.com/mashonaland-west/mana-pools-national-park-unesco-world-heritage-natural-site
 title: Mana Pools National Park
 type: location
+nature: 9.0
+leisure: 4.7
+adventure: 5.1
+city_culture: 1.1
+historic_culture: 1.1
 ---
 
 Mana Pools is Zimbabwe's great walking-safari wilderness, a lower-Zambezi landscape of floodplain pools, river islands, albida woodland, and the Zambezi escarpment rising blue in the distance. It is remote, hot, and not especially easy to reach, which is part of why it remains so special.

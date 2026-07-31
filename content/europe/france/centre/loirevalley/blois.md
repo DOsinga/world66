@@ -14,6 +14,11 @@ snippet: Loire Valley city above the river, crowned by a royal château tied to 
   Renaissance court.
 title: Blois
 type: location
+nature: 2.2
+leisure: 8.2
+adventure: 1.5
+city_culture: 7.6
+historic_culture: 7.6
 ---
 
 Blois sits halfway between [Orléans](/europe/france/centre/loirevalley/orleans) and [Tours](/europe/france/centre/loirevalley/tours) on the north bank of the Loire. Seen from across the river, the city is a tier of pale houses with red-tile roofs climbing to two hills — one crowned by the cathedral, the other by the royal château.

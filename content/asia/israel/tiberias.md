@@ -16,6 +16,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Tiberias
 title: Tiberias
 type: location
+nature: 4.1
+leisure: 6.4
+adventure: 3.4
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 *Asia > Israel > Tiberias*

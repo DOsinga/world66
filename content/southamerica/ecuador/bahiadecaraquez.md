@@ -10,6 +10,11 @@ snippet: Quiet Ecuadorian coastal city on the Río Chone peninsula, rebuilt arou
   an eco-city identity
 title: Bahia de Caraquez
 type: location
+nature: 5.0
+leisure: 6.1
+adventure: 3.5
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Bahia de Caraquez sits on a narrow peninsula where the Rio Chone meets the Pacific, on Ecuador's central coast. It bills itself as an "eco-city" and has a cleaner, quieter feel than most Ecuadorian coastal towns — palm-lined streets, a [waterfront malecon](/southamerica/ecuador/bahiadecaraquez/malecon), and a relaxed pace. The town was badly damaged by an earthquake in 1998 and a subsequent El Niño flood, and the rebuilding effort led to the eco-city initiative.

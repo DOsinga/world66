@@ -15,6 +15,11 @@ type: location
 score: 5.79
 snippet: Hebei industrial city rebuilt after the 1976 earthquake, now tied to steel
   and disaster memory.
+nature: 4.6
+leisure: 2.9
+adventure: 6.3
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Tangshan is defined, to a degree unusual even by Chinese city standards, by a single event: the 1976 earthquake that killed somewhere between 242,000 and 300,000 people in the space of minutes, flattening 85 percent of the city's buildings. It is the deadliest earthquake in the recorded history of the modern world. The [Earthquake Memorial Museum](/asia/china/hebei/tangshan/earthquake_memorial) and monument in the northern part of the city treat the subject with appropriate gravity, and they are worth visiting for anyone trying to understand how China confronted mass disaster during the Cultural Revolution — a period when the government initially refused international aid and reported the death toll at a fraction of the actual figure for years.

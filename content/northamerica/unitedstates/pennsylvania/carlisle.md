@@ -14,6 +14,11 @@ snippet: South-central Pennsylvania town with Dickinson College and the U.S. Arm
   War College at Carlisle Barracks.
 title: Carlisle
 type: location
+nature: 3.8
+leisure: 5.4
+adventure: 3.7
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Carlisle is a pleasant mid-size town in south-central Pennsylvania, just west of Harrisburg. It is home to both the [U.S. Army War College](/northamerica/unitedstates/pennsylvania/carlisle/carlisle_barracks_and_army_war_college) and [Dickinson College](/northamerica/unitedstates/pennsylvania/carlisle/dickinson_college), giving it an academic and military character unusual for a town of its size. The post that houses the Army War College was historically the site of the [Carlisle Indian Industrial School](/northamerica/unitedstates/pennsylvania/carlisle/carlisle_indian_industrial_school) — a government-run boarding school that operated from 1879 to 1918 and left a complicated and important legacy. The campus also contains the [Hessian Powder Magazine](/northamerica/unitedstates/pennsylvania/carlisle/hessian_powder_magazine), which held Hessian mercenaries during the Revolutionary War.

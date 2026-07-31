@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Armitt_Library
 title: Ambleside
 type: location
+nature: 6.5
+leisure: 6.0
+adventure: 3.8
+city_culture: 3.1
+historic_culture: 3.1
 ---
 
 Ambleside is the Lake District town that best balances scenery with usefulness. It sits just above Waterhead, at the northern end of [Windermere](/europe/unitedkingdom/england/lakedistrict/windermere), with stone streets full of outdoor shops, walkers drying waterproofs in pub corners, and fells rising almost immediately behind the roofs.

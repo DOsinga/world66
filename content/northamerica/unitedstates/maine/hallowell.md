@@ -14,6 +14,11 @@ title: Hallowell
 type: location
 snippet: Kennebec River hillside town with antique shops, artists, pubs, and a compact
   historic main street.
+nature: 4.7
+leisure: 5.9
+adventure: 3.3
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Hallowell is a small town adjacent to [Augusta](/northamerica/unitedstates/maine/augusta) along the Kennebec River, built along a steep hillside. The [Hallowell Historic District](/northamerica/unitedstates/maine/hallowell/hallowell_historic_district) main street is lined with antique shops, bookstores, coffee shops, and restaurants — it has more character per block than most towns ten times its size.

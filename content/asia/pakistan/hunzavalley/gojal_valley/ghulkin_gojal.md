@@ -14,6 +14,11 @@ snippet: Upper Hunza village below the Karakoram Highway, near Ghulkin Glacier a
   bird-rich Borith Lake
 title: Ghulkin Gojal
 type: location
+nature: 8.5
+leisure: 2.4
+adventure: 7.4
+city_culture: 1.9
+historic_culture: 1.9
 ---
 
 Ghulkin is a village in Gojal, upper Hunza, reached by following the Karakoram Highway (KKH) 140 km north of Gilgit — a journey of three to four hours by van. From a turn-off just beyond Gulmit, a winding jeep track climbs 3 km until the ground flattens out and the first houses come into view. The main draws are the [Ghulkin Glacier](/asia/pakistan/hunzavalley/gojal_valley/ghulkin_gojal/ghulkin_glacier), walkable in an hour, and [Borith Lake](/asia/pakistan/hunzavalley/gojal_valley/ghulkin_gojal/borith_lake), a bird-rich saline lake two kilometres north.

@@ -14,6 +14,11 @@ title: Bartica
 snippet: Guyanese river town at the Essequibo, Mazaruni, and Cuyuni confluence, gateway
   to mining country.
 type: location
+nature: 5.5
+leisure: 4.3
+adventure: 5.3
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Bartica sits at the confluence of three great rivers — the Essequibo, the Mazaruni, and the Cuyuni — about 100km southwest of Georgetown. It is the main town of the interior and the traditional jumping-off point for the gold and diamond mining regions further west. As a result it has a rough, frontier quality: busy, noisy, and prosperous in a raw sort of way.

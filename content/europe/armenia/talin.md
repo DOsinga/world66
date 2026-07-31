@@ -14,6 +14,11 @@ snippet: Aragatsotn provincial town west of Yerevan, known for the 7th-century r
 title: Talin
 todo_location_cleanup: done
 type: location
+nature: 5.3
+leisure: 3.3
+adventure: 6.5
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Talin is a small provincial town in the Aragatsotn region of Armenia, west of Yerevan. The main reason to stop is the [Cathedral of Talin](/europe/armenia/talin/cathedral_of_talin), whose impressive 7th-century ruins stand just off the road in a large cemetery. The partially standing walls are closely comparable to the church at Aruch, built under the same dynasty of Armenian nobles. An inscription names the patron as Nerseh, a Byzantine governor and lord of Shirak and Asharunik, who built it for the Holy Mother of God.

@@ -14,6 +14,11 @@ sources:
 - https://en.wikipedia.org/wiki/Tano_River
 title: Techiman
 type: location
+nature: 5.1
+leisure: 3.8
+adventure: 5.7
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Techiman is a market town in the Bono East region of [Ghana](/africa/ghana) and one of the most important commercial centres in the country. Its [six-day market](/africa/ghana/techiman/techiman_market) is among the largest in West Africa, drawing wholesale traders in yams, cassava, plantains, and grain from across Ghana and neighbouring countries. On a major market day the noise and scale of it is genuinely impressive.

@@ -9,6 +9,11 @@ snippet: Vast Zambezi reservoir on Zimbabwe's northern border, where drowned tea
   trees rise from wildlife-rich waters.
 title: Lake Kariba
 type: location
+nature: 7.2
+leisure: 4.9
+adventure: 4.7
+city_culture: 2.4
+historic_culture: 2.4
 ---
 
 Lake Kariba lies on [Zimbabwe's](/africa/zimbabwe) northern border, 365 km from [Harare](/africa/zimbabwe/harare), a vast artificial lake holding back the Zambezi River for 280 km. It covers over 5,000 square kilometres and is one of the largest man-made lakes in the world, created when the Kariba Dam was completed in 1959 as a hydroelectric project.

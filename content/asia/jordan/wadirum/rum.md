@@ -14,6 +14,11 @@ snippet: Bedouin village gateway to Wadi Rum, where jeep and camel trips enter t
   sandstone desert.
 title: Rum
 type: location
+nature: 7.5
+leisure: 4.8
+adventure: 5.1
+city_culture: 2.7
+historic_culture: 2.7
 ---
 
 Rum is the small Bedouin village at the end of the road into [Wadi Rum](/asia/jordan/wadirum), 35 kilometres from the highway. This is where every desert adventure begins — you meet your guide here, pile into a jeep or climb onto a camel, and head out into one of the most extraordinary landscapes on earth.

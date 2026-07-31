@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Guyuan
 title: Guyuan
 type: location
+nature: 5.0
+leisure: 3.1
+adventure: 6.1
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Guyuan is the largest city in the southern half of Ningxia, set in the dry terraced hills of the Loess Plateau near the border with Gansu. It is less visited than Yinchuan or Zhongwei, but the surrounding area contains some of the most historically significant Buddhist art in the northwest: the [Xumi Mountain Grottoes](/asia/china/ningxia/guyuan/xumi_mountain_grottoes), carved into the sandstone flanks of Sumeru Shan about 55 kilometres to the northwest.

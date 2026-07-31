@@ -14,6 +14,11 @@ title: Kissama
 type: location
 snippet: Angolan coastal national park where Kwanza River habitats meet baobab savannah
   and restored wildlife herds.
+nature: 7.5
+leisure: 3.6
+adventure: 6.0
+city_culture: 2.5
+historic_culture: 2.5
 ---
 
 Kissama (Quiçama) National Park is Angola's most accessible big-game reserve, stretching south of the Kwanza River for some 9,600 square kilometres along the Atlantic coast. The park's northern boundary lies about 70 km south of Luanda, putting it in day-trip range of the capital. It covers a striking gradient of habitats — mangrove-lined river mouths, coastal savannah, dense miombo woodland, and stands of ancient baobabs — and forms the easiest wildlife experience for visitors to a country that remains difficult to travel in independently.

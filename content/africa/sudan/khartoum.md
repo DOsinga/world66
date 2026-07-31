@@ -15,6 +15,11 @@ snippet: Sudanese capital where the Blue and White Nile meet beside colonial Kha
   and older Omdurman.
 title: Khartoum
 type: location
+nature: 5.1
+leisure: 1.9
+adventure: 7.8
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Khartoum sits at the [confluence of the Blue Nile and White Nile](/africa/sudan/khartoum/confluenceoftheniles), the spot where two great rivers merge into one. It is one of those rare capitals whose geography you can actually see working — stand on the [Tuti Bridge](/africa/sudan/khartoum/tuti_bridge) at the right time of day and you can watch the darker Blue Nile water push against the lighter White Nile in a visible seam.

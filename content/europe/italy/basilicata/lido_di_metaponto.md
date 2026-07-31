@@ -10,6 +10,11 @@ snippet: Low-key Ionian beach resort in Basilicata, with long sandy shoreline an
   shallow water.
 title: Lido di Metaponto
 type: location
+nature: 4.2
+leisure: 6.6
+adventure: 2.8
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Lido di Metaponto is a low-key beach resort on the Ionian coast of Basilicata, where the flat sandy shoreline stretches for kilometres with clean, shallow water. In summer it fills with Italian families — it's that kind of place: uncrowded, affordable, and genuinely relaxed.

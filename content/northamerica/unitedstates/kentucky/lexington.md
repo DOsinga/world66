@@ -14,6 +14,11 @@ title: Lexington
 snippet: Bluegrass university city surrounded by white-fenced horse farms and Kentucky
   thoroughbred country.
 type: location
+nature: 4.0
+leisure: 5.1
+adventure: 4.2
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Lexington calls itself the "Horse Capital of the World," and it earns the title. The rolling Bluegrass country surrounding the city is some of the most valuable horse-breeding land on earth, with white-fenced farms stretching to the horizon in every direction. But Lexington is more than thoroughbreds — it is also a university town, home to the University of Kentucky and its famously rowdy Wildcat basketball games, and a mid-sized city with a lively downtown that has been quietly coming into its own.

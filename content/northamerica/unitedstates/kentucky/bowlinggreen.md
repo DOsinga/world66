@@ -10,6 +10,11 @@ snippet: South-central Kentucky university city, known for the National Corvette
   and nearby cave country.
 title: Bowling Green
 type: location
+nature: 4.0
+leisure: 3.9
+adventure: 5.1
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Bowling Green is the third-largest city in Kentucky, sitting in the south-central part of the state about an hour north of Nashville, Tennessee. It is a university town (Western Kentucky University sits on a hill above downtown) with a younger population than much of the region and a reasonably active food and arts scene for its size.

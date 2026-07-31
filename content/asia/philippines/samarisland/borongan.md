@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Borongan
 title: Borongan
 type: location
+nature: 5.0
+leisure: 4.8
+adventure: 4.5
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 The capital of Eastern Samar, Borongan is a small, unhurried city on the Pacific coast. [Cabong Beach](/asia/philippines/samarisland/borongan/cabong_beach) has calm waters and fine grey sand ideal for swimming, while [Rawis](/asia/philippines/samarisland/borongan/rawis_beach) has several beach resorts including Pebbles and Sand and Pirate's Cove. The eastern coastline faces open ocean swells, making the area increasingly popular with surfers looking for uncrowded waves.

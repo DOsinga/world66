@@ -17,6 +17,11 @@ title: Toledo
 type: location
 snippet: Medieval Castilian city of three cultures, where cathedral, synagogue, and
   Mudéjar towers share one hill.
+nature: 2.5
+leisure: 6.8
+adventure: 2.8
+city_culture: 8.0
+historic_culture: 8.0
 ---
 
 Toledo is known as the City of the Three Cultures — a name earned by the centuries of coexistence between Christian, Islamic, and Jewish communities that shaped the city's architecture, learning, and identity. It shows. Walking the old city, you pass a Gothic cathedral, a Mudéjar church tower, a medieval synagogue, and a Roman cistern within the space of a single afternoon.

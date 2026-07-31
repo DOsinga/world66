@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Ilulissat_Icefjord
 title: Ilulissat
 type: location
+nature: 9.4
+leisure: 2.7
+adventure: 7.3
+city_culture: 1.2
+historic_culture: 1.2
 ---
 
 Ilulissat — the name means "icebergs" in Greenlandic — is the third-largest town in Greenland and the main gateway to the Disko Bay region. It was founded in 1741 by Danish trader Jakob Severin and long known by its Danish name, Jakobshavn. About 4,500 people live here alongside roughly 3,000 sled dogs, which outnumber the human population for most of the year and are an unmistakable part of the town's character.

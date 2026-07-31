@@ -12,6 +12,11 @@ score: 9.21
 snippet: Small Gulf of Thailand island known for accessible coral reefs and dive schools.
 title: Koh Tao
 type: location
+nature: 7.1
+leisure: 7.6
+adventure: 2.4
+city_culture: 1.7
+historic_culture: 1.7
 ---
 
 Koh Tao — Turtle Island — is a small island in the Gulf of Thailand, about 70 kilometres north of Koh Samui and part of the Chumphon Archipelago. It covers just 21 square kilometres, but its combination of clear warm water, accessible coral reefs, and low cost of living has made it one of the world's most popular destinations for learning to dive. More Open Water PADI certifications are issued here per year than almost anywhere else on earth.

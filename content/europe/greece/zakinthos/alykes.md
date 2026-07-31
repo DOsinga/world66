@@ -14,6 +14,11 @@ snippet: Low-key Zakynthos beach resort named for old salt lakes behind its shal
   sandy shore
 title: Alykes
 type: location
+nature: 4.7
+leisure: 7.2
+adventure: 2.4
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Alykes is a small beach resort on the north coast of Zakynthos, about 16 km from Zakynthos Town. The name comes from the [salt lakes](/europe/greece/zakinthos/alykes/salt_lakes) (alyki) that sat just behind the beach and were worked until 1985 — you can still see the shallow depressions and the old stone bridge that crosses the river Skourtis nearby.

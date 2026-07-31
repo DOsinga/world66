@@ -14,6 +14,11 @@ snippet: Vistula River town known for Renaissance merchant houses, castle ruins,
   hills, and an artists' tradition.
 title: Kazimierz Dolny
 type: location
+nature: 3.1
+leisure: 7.1
+adventure: 2.6
+city_culture: 7.1
+historic_culture: 7.1
 ---
 
 Kazimierz Dolny is a small town on the Vistula River, about two hours south of [Warsaw](/europe/poland/warsaw). It has been a favourite weekend escape for artists and Warsaw residents for over a century — the combination of Renaissance architecture, riverside setting, and wooded hills makes it one of the most picturesque towns in [Poland](/europe/poland).

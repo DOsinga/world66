@@ -14,6 +14,11 @@ title: Kilronan
 type: location
 snippet: Inis Mór harbour village and ferry landing, the main base for exploring the
   Aran Islands.
+nature: 4.3
+leisure: 6.2
+adventure: 3.5
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Kilronan (Cill Rónáin) is the main village on Inis Mór, the largest of the [Aran Islands](/europe/ireland/aranislands). The ferry from Rossaveal or Doolin drops you at the pier here, and this is where you will find the island's few pubs, shops, and B&Bs.

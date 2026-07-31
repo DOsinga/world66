@@ -10,6 +10,11 @@ snippet: Southern Tablelands country city with Victorian streetscapes, rail hist
   and Australia's famous Big Merino.
 title: Goulburn
 type: location
+nature: 4.3
+leisure: 4.5
+adventure: 4.6
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Goulburn is a solid country city in the Southern Tablelands of New South Wales, about 200 km southwest of Sydney on the main road and rail line to Canberra. It bills itself as Australia's first inland city and has a well-preserved Victorian and Edwardian streetscape that makes it more visually interesting than many inland NSW towns. The [Rocky Hill War Memorial](/australiaandpacific/australia/newsouthwales/goulburn/rocky_hill_war_memorial) and its observation tower gives good views over the surrounding pastoral country.

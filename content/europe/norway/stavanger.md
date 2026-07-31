@@ -15,6 +15,11 @@ snippet: Southern Norwegian oil city where white timber lanes overlook a modern 
   Sea energy capital.
 title: Stavanger
 type: location
+nature: 4.1
+leisure: 7.6
+adventure: 2.3
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Stavanger is a charming southern Norwegian city and an exciting mix of old and new. Its proximity to the North Sea oil fields has made it the fast-growing and wealthy oil capital of Norway. But its narrow lanes and white timber houses are all in well-preserved traditional style. It is a modern city with a wide variety of shops, cafes and restaurants — contrast characterises this city, the people who live there, the surrounding landscape, and the weather.

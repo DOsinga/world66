@@ -16,6 +16,11 @@ sources:
 - https://www.schiphol.nl/
 title: Schiphol
 type: location
+nature: 2.7
+leisure: 7.1
+adventure: 2.3
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Schiphol is the Netherlands' main airport and, for many travellers, the first Dutch place they actually use. It sits in the Haarlemmermeer polder southwest of [Amsterdam](/europe/netherlands/amsterdam), close enough to the city that the train from [Schiphol Airport Station](/europe/netherlands/schiphol/schiphol_airport_station) reaches Amsterdam Centraal in about twenty minutes.

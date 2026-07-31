@@ -14,6 +14,11 @@ snippet: Amalfi Coast hill town of aristocratic gardens, medieval villas, and wi
   Gulf of Salerno views.
 title: Ravello
 type: location
+nature: 3.7
+leisure: 8.0
+adventure: 2.0
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 *Europe > Italy > Campania > Ravello*

@@ -10,6 +10,11 @@ snippet: French-German border town at two rivers, historically known for its fai
   ceramics industry.
 title: Sarreguemines
 type: location
+nature: 3.3
+leisure: 5.7
+adventure: 3.3
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 Sarreguemines sits where the Sarre and Blies rivers meet, right on the French-German border — the German town of Kleinblittersdorf is a short walk across the bridge. With around 21,000 residents, it's a quietly confident provincial town that knows what it is: the home of one of France's most famous ceramics traditions.

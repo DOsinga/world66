@@ -16,6 +16,11 @@ snippet: Japan’s old imperial capital, dense with Buddhist temples, Shintō sh
   craft traditions, and geisha quarters
 title: Kyoto
 type: location
+nature: 1.4
+leisure: 8.0
+adventure: 2.0
+city_culture: 9.0
+historic_culture: 9.0
 ---
 
 For more than a thousand years — from 794 until the Meiji Restoration of 1868 — Kyoto was the capital of Japan and the seat of its emperors. It survived the Second World War almost unscathed (the city was famously removed from the atomic-bomb target list on the insistence of the American Secretary of War, who had honeymooned there), and what you see today is the closest thing Japan has to a living museum of its own civilisation. There are over 1,600 **Buddhist temples** and around 400 **Shintō shrines** inside the city limits, along with seventeen UNESCO World Heritage Sites, an intact geisha quarter, and a thriving tradition of traditional crafts — lacquerware, kimono weaving, ceramics, sword-making, tea.

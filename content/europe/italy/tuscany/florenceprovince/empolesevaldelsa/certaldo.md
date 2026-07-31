@@ -14,6 +14,11 @@ snippet: Tuscan Val d'Elsa town split between a lower centre and Boccaccio's med
   Certaldo Alto
 title: Certaldo
 type: location
+nature: 3.3
+leisure: 6.5
+adventure: 3.0
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Certaldo is a small town in the Val d'Elsa, south of [Florence](/europe/italy/tuscany/florence), split between a modern lower town and a beautifully preserved hilltop village — Certaldo Alto — reached by funicular. The upper town is entirely medieval, with brick towers, narrow streets, and views over the Tuscan hills.

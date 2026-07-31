@@ -14,6 +14,11 @@ snippet: Old Zanzibar port town of coral-stone alleys, carved doors, and layered
   trading history.
 title: Stone Town
 type: location
+nature: 3.6
+leisure: 8.1
+adventure: 2.0
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Stone Town is the old heart of [Zanzibar](/africa/tanzania/zanzibar) and one of the most atmospheric towns on the East African coast. Its labyrinth of narrow alleys, carved wooden doors, and coral-stone buildings reflects centuries of Swahili, Arab, Persian, Indian, and European influence — a UNESCO World Heritage Site since 2000.

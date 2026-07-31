@@ -15,6 +15,11 @@ snippet: Balinese cultural town among rice terraces and river gorges, known for 
   painting, and temples
 title: Ubud
 type: location
+nature: 3.0
+leisure: 9.0
+adventure: 1.1
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Ubud is Bali's cultural heart, set in the hills above the southern beach resorts and surrounded by terraced rice paddies and river gorges. If you want to get beyond the sunbed-and-cocktail version of Bali, this is where you come. The town is famous for traditional Balinese arts — dance, painting, woodcarving, silverwork — and for the foreign artists who have settled here, drawn by the landscape and the atmosphere.

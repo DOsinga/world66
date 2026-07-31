@@ -14,6 +14,11 @@ snippet: Tuscan-Romagnan border village in the Senio valley, surrounded by woode
   hills, clear streams, and trails.
 title: Palazzuolo sul Senio
 type: location
+nature: 4.4
+leisure: 6.0
+adventure: 3.6
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Palazzuolo sul Senio is a small village in the Senio valley on the Tuscan-Romagnan border, awarded the title of "Italian Ideal Village" by Airone magazine and the EU. It holds ISO 14001 environmental certification, which says something about the balance between the village and its surroundings.

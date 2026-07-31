@@ -14,6 +14,11 @@ snippet: Croatian national park of terraced karst lakes, waterfalls, and boardwa
   through mineral-bright water
 title: Plitvice Lakes
 type: location
+nature: 7.2
+leisure: 6.7
+adventure: 3.1
+city_culture: 2.5
+historic_culture: 2.5
 ---
 
 Plitvice Lakes National Park is Croatia's most visited natural attraction — a UNESCO World Heritage Site and one of the most spectacular lake systems in Europe. Sixteen terraced lakes descend through a limestone gorge, connected by waterfalls and rapids, their colours shifting from emerald green to deep turquoise depending on the season and the angle of light. The effect is produced by the karst geology: calcium carbonate precipitates out as travertine, forming natural dams that hold the lakes in tiers, and the mineral-rich water takes on colours that don't look real.

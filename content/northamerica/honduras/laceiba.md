@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Pico_Bonito_National_Park
 title: La Ceiba
 type: location
+nature: 5.7
+leisure: 5.4
+adventure: 4.3
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 La Ceiba is Honduras's third-largest city, on the Caribbean coast at the base of the Cordillera Nombre de Dios mountains. It's primarily known as a transit hub — the main departure point for ferries to the Bay Islands of Roatán and Útila — but also has genuine character of its own.

@@ -16,6 +16,11 @@ sources:
 - https://fr.wikipedia.org/wiki/Al%C3%A8s
 title: Alès
 type: location
+nature: 4.5
+leisure: 5.2
+adventure: 3.9
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Alès is the southern gateway to the Cévennes, a working town on the Gardon rather than a polished hill village. It grew on coal, silk, and industry, and that gives it a blunt, useful character: trains, markets, museums, and quick access to the valleys and ridges that make the Cévennes worth the trip.

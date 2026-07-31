@@ -14,6 +14,11 @@ snippet: Thuringian town in the Vogtland, known for princely palaces along the W
   Elster valley
 title: Greiz
 type: location
+nature: 4.1
+leisure: 5.8
+adventure: 3.3
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Greiz calls itself the Pearl of the Vogtland, and for a small Thuringian town it has some substance behind the claim. The [Sommerpalais](/europe/germany/thuringia/greiz/sommerpalais), set in the [Fürstlich Greizer Park](/europe/germany/thuringia/greiz/fuerstlich_park) along the White Elster river, is considered the finest late-Baroque palace in Thuringia and houses a notable collection of satirical art and caricatures — one of the largest in Germany.

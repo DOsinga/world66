@@ -17,6 +17,11 @@ sources:
 - https://en.wikivoyage.org/wiki/P%C3%A9cs
 title: Pécs
 type: location
+nature: 2.9
+leisure: 6.6
+adventure: 2.7
+city_culture: 7.5
+historic_culture: 7.5
 ---
 
 Pécs is the fifth-largest city in Hungary and one of the most rewarding places to visit in the country, sitting at the southern foot of the Mecsek hills close to the Croatian border. It has been inhabited continuously for roughly two thousand years — the Romans called it Sopianae and made it the capital of Lower Pannonia — and the layers of history are unusually visible: Roman burial chambers, Ottoman mosques, Baroque churches, and major modern museums all coexist in a compact old town that takes about half a day to walk.

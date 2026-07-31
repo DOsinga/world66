@@ -9,6 +9,11 @@ score: 7.23
 loc_type: feature
 snippet: Atlantic coastal nature reserve in Suriname, famed for nesting leatherback
   turtles near Kaliña villages.
+nature: 9.1
+leisure: 2.8
+adventure: 6.9
+city_culture: 0.9
+historic_culture: 0.9
 ---
 
 Galibi Nature Reserve lies at the mouth of the Marowijne River on Suriname's Atlantic coast, near the border with French Guiana. It is one of the most important nesting sites for leatherback turtles in the world, and also home to green turtles. The nesting season runs from March to August, with the peak in May and June when hundreds of turtles come ashore at night to lay their eggs.

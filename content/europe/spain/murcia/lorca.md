@@ -9,6 +9,11 @@ snippet: Murcian fortress city whose skyline is dominated by an Islamic-era cast
   above Baroque streets.
 title: Lorca
 type: location
+nature: 3.4
+leisure: 6.2
+adventure: 3.0
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 Lorca sits at the edge of the Guadalentin Valley in southeastern Spain, a city whose skyline is still dominated by the fortress that has watched over it for a thousand years. The [Castillo de Lorca](/europe/spain/murcia/lorca/castle_of_lorca), perched on the hill above the old town, dates back to the Islamic period and remains the city's defining landmark. Below it, the streets are lined with a striking collection of Baroque churches and noble houses that earned Lorca the nickname "the Baroque city" -- the [Colegiata de San Patricio](/europe/spain/murcia/lorca/college_of_saint_patrick), the [Plaza de España](/europe/spain/murcia/lorca/plaza_de_espana), and the [Columna Miliaria](/europe/spain/murcia/lorca/columna_miliaria) all reward a slow wander through the centro histórico.

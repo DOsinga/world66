@@ -10,6 +10,11 @@ snippet: Volcanic North Maluku island once central to the clove trade, beneath G
   Gamalama.
 title: Ternate
 type: location
+nature: 5.0
+leisure: 4.6
+adventure: 5.2
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Ternate is a tiny volcanic island with an outsized place in history. It was one of the four sultanates of North Maluku that were once the world's only source of cloves, drawing traders from China, Arabia and eventually Portugal, Spain and the Dutch East India Company. The competition for control of these islands helped shape the course of European colonialism in Southeast Asia.

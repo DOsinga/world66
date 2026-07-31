@@ -16,6 +16,11 @@ title: Sorrento
 type: location
 snippet: Clifftop town on the Sorrentine Peninsula, overlooking the Bay of Naples
   and Gulf of Salerno.
+nature: 3.5
+leisure: 8.5
+adventure: 1.3
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 *Europe > Italy > Campania > Sorrento*

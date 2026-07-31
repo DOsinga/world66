@@ -9,6 +9,11 @@ snippet: Hat-shaped Philippine island off Camarines Sur, with white sand, clear 
   and near-shore coral.
 title: Sombrero Island
 type: location
+nature: 7.6
+leisure: 5.3
+adventure: 4.5
+city_culture: 2.0
+historic_culture: 2.0
 ---
 
 Sombrero Island is a small, hat-shaped island off the coast of Tinagba in Camarines Sur province, named for its resemblance to a sombrero when seen from a distance. It has a white sand beach, clear water, and the kind of unspoiled quiet that the bigger Philippine resort islands lost years ago.

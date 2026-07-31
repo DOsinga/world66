@@ -13,6 +13,11 @@ snippet: Classic English seaside resort with bracing North Sea beaches, old amus
   arcades, and Butlin's holiday-camp legacy
 title: Skegness
 type: location
+nature: 3.7
+leisure: 7.2
+adventure: 2.2
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Skegness is the classic English seaside resort, the kind of place that divides opinion sharply. The town's famous slogan, "Skegness is SO bracing," coined by the Great Northern Railway in 1908 and illustrated by the [Jolly Fisherman](/europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/skegness/jolly_fisherman_statue) poster, is one of the most enduring pieces of advertising in British history. The bracing part is accurate: the wind comes straight off the North Sea with nothing to stop it, and the [beach](/europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/skegness/skegness_beach), while wide and sandy, is not for the faint-hearted outside of high summer.

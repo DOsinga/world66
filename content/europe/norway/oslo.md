@@ -15,6 +15,11 @@ snippet: Compact Nordic capital where harbour museums and modern architecture si
   minutes from forest trails.
 title: Oslo
 type: location
+nature: 3.3
+leisure: 7.7
+adventure: 2.1
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Oslo is the Nordic capital that most visitors underestimate. Stockholm looks grander, Copenhagen is more charming, Helsinki has the edge in modern design. Oslo is none of those things, but it is the one Nordic capital where you can walk 15 minutes from a high-design museum to a hiking trail into deep forest, and that particular combination of compact city and raw landscape makes it uniquely worth a visit.

@@ -16,6 +16,11 @@ snippet: Côte d'Azur city where grand seafront promenades meet Vieux Nice lanes
   a strong Italian accent
 title: Nice
 type: location
+nature: 5.1
+leisure: 7.6
+adventure: 2.3
+city_culture: 3.7
+historic_culture: 3.7
 ---
 
 Nice is the undisputed capital of the [Cote d'Azur](/europe/france/midi/cotedazur), and it earns that title not just through glamour but through character. The city has a split personality: the wide, formal sweep of the [Promenade des Anglais](/europe/france/midi/cotedazur/nice/promenade) along the seafront, and the tumbling, narrow-laned [Vieux Nice](/europe/france/midi/cotedazur/nice/vieux_nice) behind it, where laundry flaps from sienna-coloured facades and the smell of socca drifts from corner vendors.

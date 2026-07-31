@@ -11,6 +11,11 @@ type: location
 score: 5.99
 snippet: Jiangsu canal city associated with the Grand Canal and the childhood of Zhou
   Enlai.
+nature: 3.7
+leisure: 5.7
+adventure: 3.5
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Huai'an was for centuries one of the most strategically important cities in China, a transit hub on the Grand Canal where grain from the south was transferred northward to feed the imperial capital. That era left behind a layered city of historical monuments, temple complexes, and a culinary tradition — Huaiyang cuisine — that is considered one of China's four great regional cuisines. Today the city is quieter than its imperial heyday, which makes it accessible in a way that more heavily visited places are not.

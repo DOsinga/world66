@@ -13,6 +13,11 @@ sources:
 - https://commons.wikimedia.org/wiki/Category:Tobruk_German_cemetery
 title: Tobruk
 type: location
+nature: 5.4
+leisure: 1.7
+adventure: 7.9
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Tobruk is a port city on Libya's far eastern Mediterranean coast, set around one of the best natural harbours in North Africa. Its name is inseparable from the Second World War, when the town and surrounding desert became a hard-fought hinge in the North African campaign.

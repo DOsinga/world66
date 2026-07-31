@@ -14,6 +14,11 @@ title: Scranton
 type: location
 snippet: Former anthracite coal and railroad city in Pennsylvania's Lackawanna Valley,
   nicknamed the Electric City.
+nature: 4.1
+leisure: 5.4
+adventure: 3.8
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Scranton is a former industrial powerhouse in northeastern Pennsylvania's Lackawanna Valley. Known as the Electric City for its pioneering adoption of electric streetcars in 1886, it boomed on anthracite coal and railroads before fading through much of the 20th century. More recently, it gained unexpected fame as the setting of the American version of *The Office*.

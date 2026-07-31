@@ -12,6 +12,11 @@ snippet: Central Valley capital of Costa Rica, with pre-Columbian museums, busy 
   and a mild highland climate.
 title: San José
 type: location
+nature: 3.3
+leisure: 7.3
+adventure: 2.4
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 San José is the capital and beating heart of Costa Rica, sitting in the fertile Central Valley at around 1,100 metres elevation — high enough to enjoy a mild, spring-like climate year-round. It is inevitably a transit hub for travellers moving between the coasts and the highlands, but the city rewards a day or two in its own right.

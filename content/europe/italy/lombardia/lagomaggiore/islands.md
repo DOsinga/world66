@@ -13,6 +13,11 @@ image: islands.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Isola_Superiore.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Unknown
+nature: 5.1
+leisure: 7.2
+adventure: 2.5
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 The Borromean Islands are the finest thing about Lago Maggiore — three small islands in the middle of the lake, each with its own character, all belonging to the same aristocratic family that has owned them for six centuries. Ferries run regularly from [Stresa](/europe/italy/piemonte/stresa) and Baveno, and a day hopping between the islands is one of the most pleasurable excursions in the Italian Lakes.

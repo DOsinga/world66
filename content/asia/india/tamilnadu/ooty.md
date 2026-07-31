@@ -13,6 +13,11 @@ snippet: Nilgiri hill station in Tamil Nadu, known for cool air, colonial garden
   and the mountain railway.
 title: Ooty
 type: location
+nature: 6.5
+leisure: 6.2
+adventure: 3.6
+city_culture: 3.0
+historic_culture: 3.0
 ---
 
 Ooty (Udhagamandalam) is Tamil Nadu's most famous hill station, at 2,240 metres in the Nilgiri Hills, 90 km northeast of Coimbatore. The British established it as the summer capital of the Madras Presidency in the early 19th century, and it retains something of that heritage in its cottages, botanical gardens, and cool air — though it's now crowded and commercially developed in ways the colonial administrators would not recognise.

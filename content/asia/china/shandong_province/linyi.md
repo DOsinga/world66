@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Linyi
 title: Linyi
 type: location
+nature: 4.3
+leisure: 4.0
+adventure: 5.2
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Linyi is one of the largest cities in China that most Western travelers have never heard of — a prefecture of 11 million people in southeastern Shandong, built on a logistics and manufacturing economy that has made it one of the country's biggest wholesale distribution hubs. The city lacks the imperial monuments of Qufu or the coastal scenery of Qingdao, but it has a genuine claim on Chinese history: this is the region where the calligrapher [Wang Xizhi](/asia/china/shandong_province/linyi/wang_xizhi_former_residence) was born and where [Zhuge Liang](/asia/china/shandong_province/linyi/zhuge_liang_former_residence) spent his early years before becoming the legendary strategist of the Three Kingdoms period. The single most compelling reason to visit is the [Yinqueshan Bamboo Slips Museum](/asia/china/shandong_province/linyi/yinqueshan_bamboo_slips), where you can look at the oldest known copy of Sun Tzu's *Art of War*, written on bamboo strips two millennia ago.

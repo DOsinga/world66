@@ -14,6 +14,11 @@ image_license: CC BY-SA 4.0
 image_attribution: Skoropadsky
 snippet: Compact western Ukrainian city with a Habsburg-era centre and access to the
   Carpathian Mountains.
+nature: 6.5
+leisure: 3.9
+adventure: 6.0
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 Ivano-Frankivsk is a compact, walkable city in western Ukraine that serves as the gateway to the Carpathian Mountains. The centre is anchored by a handsome Rynok Square lined with Habsburg-era buildings, outdoor cafes, and a laid-back atmosphere that feels distinctly Central European.

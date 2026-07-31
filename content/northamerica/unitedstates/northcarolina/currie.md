@@ -14,6 +14,11 @@ snippet: North Carolina village known for Moores Creek National Battlefield and 
   decisive Patriot victory.
 title: Currie
 type: location
+nature: 5.9
+leisure: 4.3
+adventure: 5.0
+city_culture: 4.0
+historic_culture: 4.0
 ---
 
 Currie is best known as the location of the [Moores Creek National Battlefield](/northamerica/unitedstates/northcarolina/currie/moores_creek_national_battlefield), an 88-acre park commemorating the decisive Patriot victory of February 27, 1776. A force of 1,000 Patriots defeated 1,600 Loyalists at the Battle of Moores Creek Bridge, ending Royal Governor Josiah Martin's hopes of reclaiming the colony for the British crown.

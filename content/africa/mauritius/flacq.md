@@ -14,6 +14,11 @@ snippet: Mauritian east-coast market town near Belle Mare beach and the lagoon i
   of Île aux Cerfs
 title: Flacq
 type: location
+nature: 5.9
+leisure: 5.0
+adventure: 4.5
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 Flacq (also written as Centre de Flacq) is the main town on the east coast of Mauritius. It hosts the island's largest outdoor market on Sundays and Wednesdays — the [Flacq Sunday Market](/africa/mauritius/flacq/flacq_market) is a genuine local institution, good for cheap produce, street food, and the kind of atmosphere that disappears inside resort grounds.

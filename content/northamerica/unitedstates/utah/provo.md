@@ -10,6 +10,11 @@ snippet: Utah university city between Utah Lake and the Wasatch, with BYU below 
   Canyon.
 title: Provo
 type: location
+nature: 4.9
+leisure: 5.7
+adventure: 3.8
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Provo is Utah's third largest city, sitting in a broad valley between Utah Lake and the Wasatch Mountains, about 45 miles south of Salt Lake City. It's best known as the home of Brigham Young University (BYU), the largest religious university in the United States, which gives the city a strongly Mormon character — Provo is one of the most religiously homogeneous metropolitan areas in America, with correspondingly low alcohol consumption and a particular family-oriented culture.

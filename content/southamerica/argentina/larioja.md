@@ -10,6 +10,11 @@ snippet: Hot northwestern Argentine city at the Sierra de Velasco, used as a bas
   for Talampaya's red canyons.
 title: La Rioja
 type: location
+nature: 3.9
+leisure: 5.6
+adventure: 3.8
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 La Rioja is the capital of the province of the same name, set at the foot of the Sierra de Velasco in northwestern [Argentina](/southamerica/argentina). It is a hot, dry city — summer temperatures regularly exceed 40°C — and serves as a base for exploring the dramatic desert landscapes of the region.

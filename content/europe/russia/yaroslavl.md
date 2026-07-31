@@ -14,6 +14,11 @@ snippet: Golden Ring city at the Volga and Kotorosl rivers, rich in frescoed 17t
   churches.
 title: Yaroslavl
 type: location
+nature: 2.8
+leisure: 5.5
+adventure: 4.0
+city_culture: 7.9
+historic_culture: 7.9
 ---
 
 Yaroslavl sits at the confluence of the Volga and Kotorosl rivers, about 250 kilometres northeast of Moscow. Said to have been founded in 1010 by Prince Yaroslav the Wise, the historic centre is now a UNESCO World Heritage Site and one of the most rewarding stops on Russia's Golden Ring.

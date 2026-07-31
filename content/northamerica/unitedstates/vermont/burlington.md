@@ -13,6 +13,11 @@ snippet: Small Vermont city on Lake Champlain, facing the Adirondacks from a liv
   downtown waterfront
 title: Burlington
 type: location
+nature: 4.9
+leisure: 7.3
+adventure: 2.6
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 **Burlington** is Vermont's largest city, though at around 45,000 people it hardly feels urban. It sits on the eastern shore of Lake Champlain, with the Adirondack Mountains of New York visible across the water and the Green Mountains rising behind.

@@ -13,6 +13,11 @@ snippet: High Andean village known for geothermal hot springs, trout streams, an
   cold páramo air
 title: Papallacta
 type: location
+nature: 7.9
+leisure: 4.8
+adventure: 5.0
+city_culture: 2.0
+historic_culture: 2.0
 ---
 
 Papallacta is a small Andean village perched at around 3,300 metres, about 65 km east of Quito on the road toward Tena and the Amazon lowlands. It's known for two things: its geothermal hot springs and its fresh trout, raised in the cold mountain streams nearby.

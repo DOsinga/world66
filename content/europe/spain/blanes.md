@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Marimurtra_Botanical_Garden
 title: Blanes
 type: location
+nature: 3.7
+leisure: 5.7
+adventure: 3.8
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Blanes marks the southern gateway to the Costa Brava, where the rocky coastline and pine-backed coves begin in earnest. It is a working fishing town first and a resort second, which gives it a rougher, more authentic feel than the manicured spots further north.

@@ -10,6 +10,11 @@ snippet: Andhra Pradesh coastal district centred on Ongole, with agriculture, te
   and Bay of Bengal beaches.
 title: Prakasham
 type: location
+nature: 4.4
+leisure: 3.3
+adventure: 5.8
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Prakasham is a district in the southern coastal belt of Andhra Pradesh, stretching from the mouth of the Krishna River down toward [Nellore](/asia/india/andhrapradesh/nellore). Its headquarters, **Ongole**, sits about 160 km south of [Vijayawada](/asia/india/andhrapradesh/vijayawada) on the Bay of Bengal coast. The district is largely agricultural — it grows cotton, tobacco, and chilies in quantity — but the coastline and a scattering of temples give it a quiet appeal for travellers passing through this part of the state.

@@ -10,6 +10,11 @@ snippet: Remote Lesotho highland village known for pony treks through sandstone 
   and Basotho mountain settlements
 title: Malealea
 type: location
+nature: 7.3
+leisure: 3.8
+adventure: 6.0
+city_culture: 3.0
+historic_culture: 3.0
 ---
 
 Malealea is a remote village in the highlands of Lesotho, reached through the spectacular [Gates of Paradise Pass](/africa/lesotho/malealea/gates_of_paradise_pass) — a high rock gateway that signals your arrival into a landscape of sandstone cliffs and deep valleys. It's one of the best places in Lesotho to arrange [pony treks](/africa/lesotho/malealea/pony_trekking) into the surrounding mountains, following trails that link remote Basotho villages inaccessible by vehicle.

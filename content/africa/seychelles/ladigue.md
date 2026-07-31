@@ -16,6 +16,11 @@ title: La Digue
 snippet: Small Seychelles island of granite boulder beaches, bicycle lanes, and ox
   carts around La Passe.
 type: location
+nature: 6.4
+leisure: 8.0
+adventure: 2.0
+city_culture: 2.4
+historic_culture: 2.4
 ---
 
 La Digue is the most seductive of the Seychelles islands — small enough to cross by bicycle in an hour, yet varied enough to fill several days without effort. It is the fourth largest of the granitic islands, measuring roughly five kilometres by three, but what it lacks in size it makes up for in beauty. Massive pink granite boulders tumble into turquoise sea, coconut palms line the roads, and ox-carts still share the paths with cyclists.

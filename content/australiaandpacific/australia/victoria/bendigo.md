@@ -13,6 +13,11 @@ snippet: Victorian gold rush city with grand 1850s architecture and the Central 
   Gold Mine
 title: Bendigo
 type: location
+nature: 3.7
+leisure: 5.6
+adventure: 3.5
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Bendigo is one of Victoria's great gold rush towns, about two hours northwest of [Melbourne](/australiaandpacific/australia/victoria/melbourne) by car or a comfortable train ride on the V/Line. Like [Ballarat](/australiaandpacific/australia/victoria/ballarat), it boomed in the 1850s when gold was found at Bendigo Creek, and the wealth still shows in the elaborate Victorian architecture lining Pall Mall and View Street.

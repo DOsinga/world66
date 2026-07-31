@@ -13,6 +13,11 @@ longitude: 1.593807
 score: 5.93
 title: Aneho
 type: location
+nature: 5.6
+leisure: 2.4
+adventure: 7.2
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Aneho sits on a narrow sand spit between a lagoon and the Gulf of Guinea, 45 kilometres east of [Lomé](/africa/togo/lome) along the coastal road. It was the capital of Togo during the German colonial period until 1897, and the faded colonial architecture from that era still defines the town's character. The location near the border with [Benin](/africa/benin) makes it a natural stopping point for travellers crossing between the two countries.

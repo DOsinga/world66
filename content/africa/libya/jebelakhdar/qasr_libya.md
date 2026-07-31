@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/Olbia,_Libya
 title: Qasr Libya
 type: location
+nature: 3.8
+leisure: 2.4
+adventure: 7.3
+city_culture: 7.1
+historic_culture: 7.1
 ---
 
 Qasr Libya is a small village about 45 km west of Al Bayda, in the heart of the [Jebel Akhdar](/africa/libya/jebelakhdar) plateau. Most people who visit come for a single reason: the [Byzantine Museum](/africa/libya/jebelakhdar/qasr_libya/byzantine_museum), which holds one of the finest collections of Byzantine floor mosaics in North Africa. Nearly 50 panels, discovered in two sixth-century churches excavated here in the 1950s, are preserved inside — depicting animals, allegorical figures, personifications of cities, and scenes from classical mythology with vivid colour and remarkable detail. The site was the ancient town of Olbia (later renamed Theodorias), and the mosaics place it firmly in the mainstream of late antique Mediterranean culture.

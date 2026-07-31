@@ -14,6 +14,11 @@ snippet: Slovak town below the High Tatras, serving as a rail gateway to mountai
   resorts.
 title: Poprad
 type: location
+nature: 4.6
+leisure: 6.8
+adventure: 3.0
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Poprad is the gateway city to the High Tatras — the smallest alpine mountain range in Europe and Slovakia's most dramatic landscape. The city itself sits on a plain at about 670 metres, with the jagged Tatra peaks rising sharply to the north. The [Tatra Electric Railway](/europe/slovakia/poprad/tatras_electric_railway) connects Poprad directly to the Tatra resorts of Štrbské Pleso and Starý Smokovec in under an hour.

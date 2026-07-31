@@ -21,6 +21,11 @@ snippet: Harbour city of beaches, ferries, and sandstone headlands around Austra
   most recognisable waterfront.
 title: Sydney
 type: location
+nature: 2.3
+leisure: 9.3
+adventure: 0.8
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Sydney is built around one of the most beautiful natural harbours in the world, and that harbour shapes everything about the city. The [Sydney Opera House](/australiaandpacific/australia/newsouthwales/sydney/opera_house) and [Harbour Bridge](/australiaandpacific/australia/newsouthwales/sydney/harbour_bridge) are the famous landmarks, but the real pleasure is in how water threads through daily life here — ferries crisscrossing the harbour, coastal walks connecting beach after beach, and that particular quality of light bouncing off the Pacific.

@@ -14,6 +14,11 @@ snippet: Rayalaseema trading city on the Papagni River, known for limestone slab
   and Seven Roads junction
 title: Cuddapah
 type: location
+nature: 5.1
+leisure: 3.1
+adventure: 6.1
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Cuddapah (officially Kadapa) is a mid-sized city in the Rayalaseema region of Andhra Pradesh, sitting on the banks of the Papagni River at the foot of the Nallamala Hills. The city is a trading hub for the surrounding district, which produces cotton, tobacco, and the distinctive Cuddapah limestone slabs used across south Indian construction.

@@ -13,6 +13,11 @@ snippet: Ligurian Apennine hill town known for soft amaretti and wooded Beigua P
   valleys.
 title: Sassello
 type: location
+nature: 4.6
+leisure: 5.7
+adventure: 3.9
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Sassello sits in a green valley on the northern slope of the Ligurian Apennines, surrounded by woods and pastures and partly within the [Parco del Beigua](/europe/italy/liguria/italianriviera/rivieradellepalme/sassello/parco_del_beigua). It is a quiet, attractive hill town well off the coastal tourist trail, known above all for its [amaretti](/europe/italy/liguria/italianriviera/rivieradellepalme/sassello/amaretti) — soft macaroons made to a centuries-old recipe that remain the town's most famous product.

@@ -13,6 +13,11 @@ snippet: Kitzbühel Alps market town offering a quieter base for skiing, hiking,
   alpine rail travel.
 title: St. Johann in Tirol
 type: location
+nature: 6.3
+leisure: 6.9
+adventure: 3.2
+city_culture: 2.9
+historic_culture: 2.9
 ---
 
 St. Johann in Tirol is a market town in the Kitzbühel Alps, about ten kilometres east of its more famous neighbour [Kitzbühel](/europe/austria/kitzbuehel). It serves as the commercial centre of the district and offers a more affordable, less glamorous alternative for skiing and hiking in the same mountains.

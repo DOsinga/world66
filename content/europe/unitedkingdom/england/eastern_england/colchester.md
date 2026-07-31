@@ -15,6 +15,11 @@ snippet: Historic Essex town built over Roman Camulodunum, with Norman castle an
   surviving city walls
 title: Colchester
 type: location
+nature: 3.8
+leisure: 5.3
+adventure: 3.8
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Colchester claims to be the oldest recorded town in Britain — it is Camulodunum, the first Roman city established in Britain after the invasion of 43 AD, and is mentioned in Pliny's writings. The Romans built a large temple here, the foundations of which lie beneath the Norman castle, itself the largest Norman keep in Europe. The [Colchester Castle](/europe/unitedkingdom/england/eastern_england/colchester/colchester_castle) houses an excellent museum covering the town's Roman and medieval history, and the [Roman walls](/europe/unitedkingdom/england/eastern_england/colchester/roman_walls) and the great [Balkerne Gate](/europe/unitedkingdom/england/eastern_england/colchester/balkerne_gate) still circle the old town. Just south of the centre lies the only known [Roman chariot-racing circus](/europe/unitedkingdom/england/eastern_england/colchester/roman_circus) in Britain, discovered as recently as 2004.

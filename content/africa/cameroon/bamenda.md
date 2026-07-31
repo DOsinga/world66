@@ -14,6 +14,11 @@ snippet: Anglophone Cameroonian highland city, surrounded by tea hills, crater l
   and traditional chiefdom palaces
 title: Bamenda
 type: location
+nature: 5.4
+leisure: 4.2
+adventure: 5.5
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Bamenda is the main city of the anglophone Northwest Region of [Cameroon](/africa/cameroon), set among the hills of the Bamenda Highlands at around 1,600 metres elevation. The altitude gives it one of the most pleasant climates in West Africa — cool, green and often misty.

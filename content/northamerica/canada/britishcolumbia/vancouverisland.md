@@ -17,6 +17,11 @@ image: vancouverisland.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Campsite_at_Mystic_Beach,_Vancouver_Island,_Canada.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Michal Klajban
+nature: 6.3
+leisure: 7.0
+adventure: 2.8
+city_culture: 3.2
+historic_culture: 3.2
 ---
 
 *North America > Canada > British Columbia > Vancouver Island*

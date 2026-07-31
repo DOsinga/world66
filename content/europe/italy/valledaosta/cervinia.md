@@ -13,6 +13,11 @@ snippet: High Aosta Valley ski resort beneath Monte Cervino, with long sunny pis
   and a cross-border Zermatt link.
 title: Cervinia
 type: location
+nature: 7.4
+leisure: 5.9
+adventure: 4.1
+city_culture: 2.3
+historic_culture: 2.3
 ---
 
 Breuil-Cervinia sits at 2,006 m at the foot of the [Matterhorn](/europe/italy/valledaosta/cervinia/matterhorn) — or Monte Cervino as the Italians call it — and what brought 19th-century climbers to the original village of Breuil is essentially what brings winter sports tourists now: altitude, and the exceptional snow reliability that comes with it. The slopes are gentle and extensive, the sun is generous, and the season runs reliably from November through May.

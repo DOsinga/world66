@@ -14,6 +14,11 @@ snippet: Ligurian seaside town west of Genoa, squeezed between steep green hills
   the coast.
 title: Arenzano
 type: location
+nature: 4.6
+leisure: 7.0
+adventure: 2.6
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Arenzano is a small seaside town on the Ligurian coast west of Genoa, squeezed between the mountains and the sea. Together with neighbouring Cogoleto, it stretches along the coast between Cape Invrea and the cliffs of the Lastroni, where a distinctive rock called the "Aguggia" marks the landscape. [Punta San Martino](/europe/italy/liguria/italianriviera/arenzano/cape_san_martino) divides the two towns, with the small valley of the Lerone stream running behind it.

@@ -10,6 +10,11 @@ score: 5.38
 loc_type: city
 snippet: Ancient Eastern Province oasis city on the Gulf, historically tied to pearl
   diving and Dilmun settlement.
+nature: 3.7
+leisure: 4.4
+adventure: 5.0
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 Qatif is one of the oldest continuously inhabited places in the Eastern Province, with a history of settlement going back several thousand years. It sits on the Arabian Gulf coast north of [Khobar](/asia/saudiarabia/khobar) and has historically been a centre of pearl diving and trade. The mound on which the old fortifications stood has been inhabited since the Dilmun civilisation, and the city remained a key port through the Portuguese, Ottoman, and Saudi eras.

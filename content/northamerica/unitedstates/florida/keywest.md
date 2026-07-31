@@ -13,6 +13,11 @@ snippet: End-of-the-road Florida island city of Old Town porches, Duval Street b
   and Caribbean light.
 title: Key West
 type: location
+nature: 4.5
+leisure: 8.3
+adventure: 1.7
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 Key West is the end of the road — literally. Mile Marker 0 of US Route 1 sits here, at the [southernmost point](/northamerica/unitedstates/florida/keywest/southernmost_point) of the continental United States, closer to Havana than to Miami. The island is just two miles by four miles, but it packs in more character per square foot than most American cities.

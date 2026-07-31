@@ -14,6 +14,11 @@ snippet: Osage County town in Oklahoma, tied to Osage Nation history and the 192
   oil-boom murders.
 title: Fairfax
 type: location
+nature: 3.9
+leisure: 4.0
+adventure: 5.0
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Fairfax is a small town of about 1,500 people in Osage County, in the heart of the Osage Nation. It gained worldwide attention through David Grann's book *Killers of the Flower Moon*, which documents the systematic murders of Osage people during the 1920s oil boom — a dark chapter in American history that unfolded right here. The empty lot where the Smith family home was dynamited in March 1923 is on Main Street; the [Osage Bank of Fairfax](/northamerica/unitedstates/oklahoma/fairfax/osage_bank_of_fairfax), where the chief conspirator William Hale served as cashier and trustee, still stands a block away.

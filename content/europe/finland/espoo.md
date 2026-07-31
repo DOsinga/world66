@@ -14,6 +14,11 @@ snippet: Finnish city beside Helsinki, arranged around distinct district centres
 title: Espoo
 todo_location_cleanup: done
 type: location
+nature: 5.2
+leisure: 5.8
+adventure: 3.6
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Espoo is Finland's second largest city and one of its most unusual in structure: rather than a single urban core, it consists of five distinct district centres spread across a large area, all connected by public transport. The carefully designed garden city of [Tapiola](/europe/finland/espoo/tapiola) is the best known, with its thoughtful blend of modernist architecture, green space, and residential neighbourhoods.

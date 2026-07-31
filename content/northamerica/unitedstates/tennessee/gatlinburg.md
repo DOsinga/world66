@@ -15,6 +15,11 @@ snippet: Smoky Mountains resort town packed into a neon valley at the national p
   entrance.
 title: Gatlinburg
 type: location
+nature: 6.1
+leisure: 6.9
+adventure: 3.1
+city_culture: 3.0
+historic_culture: 3.0
 ---
 
 Most people either love Gatlinburg or they hate it — or both. Thousands of people visit this small mountain town once or several times a year and think it's the neatest place in the world. First-time visitors who expected a quaint Appalachian village arrive to find congested neon and souvenir shops stacked end to end, which can come as quite a shock.

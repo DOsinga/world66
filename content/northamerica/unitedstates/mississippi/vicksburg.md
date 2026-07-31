@@ -10,6 +10,11 @@ snippet: Mississippi river city where the 1863 Civil War siege split the Confede
   and left a vast battlefield park
 title: Vicksburg
 type: location
+nature: 3.8
+leisure: 4.5
+adventure: 4.6
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 Vicksburg is where the Civil War turned. The 47-day siege of 1863, ending with the city's surrender on the Fourth of July, gave the Union control of the Mississippi River and cut the Confederacy in two. The city has never forgotten it — and neither should you, because the [Vicksburg National Military Park](/northamerica/unitedstates/mississippi/vicksburg/vicksburg_national_military_park) is one of the most moving historical sites in the American South.

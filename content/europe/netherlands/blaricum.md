@@ -14,6 +14,11 @@ title: Blaricum
 type: location
 snippet: Gooi village near Amsterdam, where monumental farmhouses sit between heathland
   and polders.
+nature: 3.8
+leisure: 4.8
+adventure: 4.5
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Blaricum is a small, well-heeled village in the Gooi region of North Holland, tucked between heathland and polders about 30 km southeast of Amsterdam. It has the feel of a country retreat that never quite became a town — monumental farmhouses line quiet lanes, and the village center is little more than a church, a few cafes, and a handful of shops.

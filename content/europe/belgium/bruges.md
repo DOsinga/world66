@@ -15,6 +15,11 @@ snippet: Canal city in Flanders whose medieval trading wealth left bridges, guil
   houses, and market squares.
 title: Bruges
 type: location
+nature: 1.3
+leisure: 8.8
+adventure: 1.2
+city_culture: 8.4
+historic_culture: 8.4
 ---
 
 Bruges is one of the most beautiful cities in [Europe](/europe). It rightly deserves the name [Venice](/europe/italy/veneto/venice) of the north — canals, bridges, and old city houses make it a very romantic place to visit, and one that rewards slow exploration on foot.

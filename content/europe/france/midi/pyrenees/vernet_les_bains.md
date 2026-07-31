@@ -10,6 +10,11 @@ snippet: Pyrenean spa town below Canigou, with hot springs, Catalan character, a
   excellent mountain walks
 title: Vernet les Bains
 type: location
+nature: 5.4
+leisure: 5.9
+adventure: 3.8
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 Vernet-les-Bains sits on the eastern flank of the Pyrenees, in the Têt Valley just below the imposing peak of Canigou. It's a small spa town that most guidebooks underrate — the setting is beautiful, the walking is excellent, and it has a genuine unhurried character that makes it a much better base for exploring this corner of Catalonia than its modest profile suggests.

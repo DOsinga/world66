@@ -17,6 +17,11 @@ sources:
 - https://travel2macedonia.com/tourist-attraction/mladost-lake-veles
 title: Veles
 type: location
+nature: 4.3
+leisure: 4.3
+adventure: 5.0
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Veles sits in the middle of North Macedonia on the Vardar, a river city built into hills and long shaped by the road and rail corridor between Skopje, the south, and the Aegean. It is not a polished showpiece, but it has a strong local identity: writers, revolutionaries, pottery, old churches, and a steep urban landscape that feels very different from lakeside [Ohrid](/europe/macedonia/ohrid) or monumental [Skopje](/europe/macedonia/skopje).

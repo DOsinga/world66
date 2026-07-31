@@ -15,6 +15,11 @@ snippet: Southern Italian port city of volcanic bay views, dense historic street
   and unruly urban energy.
 title: Naples
 type: location
+nature: 1.4
+leisure: 8.7
+adventure: 1.2
+city_culture: 8.3
+historic_culture: 8.3
 ---
 
 *Europe > Italy > Campania > Naples*

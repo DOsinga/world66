@@ -15,6 +15,11 @@ image: izborsk.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Izborsk_Fortress._Saint_Nicholas_cathedral_P7190760_2350.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Alexxx1979
+nature: 4.5
+leisure: 4.1
+adventure: 5.1
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Izborsk is a small village west of [Pskov](/europe/russia/pskov), close to the Estonian border, but it carries the weight of a much larger place. It was one of the old fortified settlements of northwestern Rus, and the surviving [Izborsk Fortress](/europe/russia/izborsk/izborsk_fortress) still has the blunt, defensive look of a frontier that expected trouble.

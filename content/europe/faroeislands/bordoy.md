@@ -10,6 +10,11 @@ title: Borðoy
 type: location
 snippet: Northern Faroese island anchored by Klaksvík's fishing harbour, fjords, and
   mountain tunnels.
+nature: 8.0
+leisure: 4.7
+adventure: 5.0
+city_culture: 2.0
+historic_culture: 2.0
 ---
 
 Borðoy is the largest of the six islands of the Norðoyggjar group in the northern Faroe Islands, and home to [Klaksvík](/europe/faroeislands/bordoy/klaksvik), the second-largest town in the archipelago. Where Tórshavn is the political and commercial capital, Klaksvík is the fishing capital — a working harbour town surrounded by dramatic mountains and fjords, dominated by the modernist [Christianskirkjan](/europe/faroeislands/bordoy/christianskirkjan) on the hill and home to the country's oldest brewery, [Föroya Bjór](/europe/faroeislands/bordoy/foroya_bjor).

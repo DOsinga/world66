@@ -14,6 +14,11 @@ snippet: Historic Swaledale market town above the River Swale, dominated by an 1
   Norman castle.
 title: Richmond
 type: location
+nature: 3.3
+leisure: 6.0
+adventure: 3.1
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Richmond is a lovely historic town in Swaledale, one of the most fascinating of the [Yorkshire Dales](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/yorkshire_dales). Not to be confused with its many namesakes — this is the original, perched above a bend in the River Swale.

@@ -14,6 +14,11 @@ snippet: Mountain-valley university city where Montana's literary culture meets 
   breweries, and northern Rockies trails
 title: Missoula
 type: location
+nature: 5.4
+leisure: 5.3
+adventure: 4.5
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Missoula is western Montana's largest city and its cultural centre — a university town in a mountain valley where five rivers converge. The University of Montana gives the place an energy and a literary culture that you would not expect from a city of 75,000 people in the northern Rockies. Norman Maclean set *A River Runs Through It* here, and the town's connection to fly fishing, writing, and the outdoors runs deep.

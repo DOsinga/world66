@@ -14,6 +14,11 @@ snippet: Russian Caucasus republic of deep gorges, alpine meadows, mineral sprin
   and Ossetian mountain culture.
 title: Ossetia
 type: location
+nature: 7.4
+leisure: 2.4
+adventure: 7.5
+city_culture: 3.3
+historic_culture: 3.3
 ---
 
 North Ossetia–Alania is a small republic in the Russian Caucasus, wedged between Georgia to the south and the plains of southern Russia to the north. The landscape is dramatic — snow-capped peaks, deep gorges, alpine meadows, and mineral springs that locals have used for centuries.

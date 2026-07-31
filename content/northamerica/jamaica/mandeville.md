@@ -14,6 +14,11 @@ title: Mandeville
 snippet: Cool highland town in Manchester parish, known for its English character
   and central green.
 type: location
+nature: 5.2
+leisure: 5.7
+adventure: 4.1
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Mandeville sits at about 600 m in the central highlands of Manchester parish, and it shows: the town is noticeably cooler than the coast, with a tidy, prosperous air and a long tradition of attracting Jamaicans who've returned from overseas. It's sometimes called the most English town in Jamaica, a reference to its cool climate and its [green central square](/northamerica/jamaica/mandeville/mandeville_green).

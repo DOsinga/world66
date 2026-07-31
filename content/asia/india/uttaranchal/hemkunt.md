@@ -9,6 +9,11 @@ snippet: High Garhwal Sikh pilgrimage site beside a glacial lake ringed by seven
 type: location
 score: 7.74
 loc_type: feature
+nature: 7.9
+leisure: 4.1
+adventure: 5.6
+city_culture: 2.2
+historic_culture: 2.2
 ---
 
 Hemkund Sahib is a Sikh pilgrimage site at about 4,000 metres in the Garhwal Himalayas of [Uttarakhand](/asia/india/uttaranchal). A glacial lake surrounded by seven peaks, with a Gurudwara and a small Lakshman temple on its shore, it is one of the highest places of worship in the world. The setting is extraordinary — stark mountain walls, cold clear water, and beds of Brahma Kamal, a rare lotus-like flower that grows only at these altitudes.

@@ -14,6 +14,11 @@ snippet: Car-free Ligurian fishing village of pastel houses, rocky swimming cove
   and Gulf of La Spezia views
 title: Tellaro
 type: location
+nature: 4.8
+leisure: 6.9
+adventure: 2.9
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Tellaro is one of the prettiest villages on the Ligurian coast, a tight cluster of pastel houses tumbling down a rocky promontory into the Gulf of La Spezia. There are no cars — you park above and walk down steep steps through narrow caruggi to a tiny piazza overlooking the sea.

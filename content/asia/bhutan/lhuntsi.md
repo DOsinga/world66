@@ -10,6 +10,11 @@ snippet: Remote northeast Bhutan district known for Lhuntse Dzong, Khoma silk we
   and Wangchuck royal ancestry.
 title: Lhuntsi
 type: location
+nature: 6.0
+leisure: 3.0
+adventure: 6.8
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Lhuntsi is one of Bhutan's most remote districts, tucked into the northeast corner of the country amid jagged peaks and deep valleys. Not many visitors make it here — the journey from Thimphu takes about three days — but those who do find a quiet, largely unchanged part of the kingdom.

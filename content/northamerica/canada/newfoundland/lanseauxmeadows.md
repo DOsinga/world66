@@ -14,6 +14,11 @@ snippet: Newfoundland archaeological site preserving a Norse outpost from around
   AD at the island's northern tip
 title: L'Anse aux Meadows
 type: location
+nature: 4.5
+leisure: 5.9
+adventure: 3.9
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 At the very northern tip of [Newfoundland](/northamerica/canada/newfoundland), L'Anse aux Meadows is the earliest known European settlement in the New World — a Norse outpost dating to around 1000 AD, five centuries before Columbus. The site was discovered in 1960 by Norwegian explorers Helge and Anne Stine Ingstad and became a UNESCO World Heritage Site in 1978.

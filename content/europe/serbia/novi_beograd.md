@@ -14,6 +14,11 @@ snippet: Planned New Belgrade municipality of broad socialist boulevards, riverf
   promenades, and floating Sava nightlife.
 title: Novi Beograd
 type: location
+nature: 3.5
+leisure: 5.5
+adventure: 4.0
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 Novi Beograd (New Belgrade) is the modern municipality across the Sava river from Belgrade's old centre. Built largely from the late 1940s onward as a planned socialist city, it is a grid of broad boulevards and monumental residential blocks that has been transformed in recent decades by commercial development — shopping malls, office towers, and the Arena, Belgrade's largest concert and sports venue.

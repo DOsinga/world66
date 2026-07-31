@@ -13,6 +13,11 @@ snippet: Tibetan city in the Yarlung Tsangpo valley, centered on Tashilhunpo Mon
   and Panchen Lama history.
 title: Shigatse
 type: location
+nature: 6.8
+leisure: 4.2
+adventure: 5.8
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Shigatse is the second largest city in Tibet, sitting at an elevation of 3,840 metres in the Yarlung Tsangpo valley. It is the seat of the Panchen Lama, and the [Tashilhunpo Monastery](/asia/china/tibet/shigatse/tashilhunpo_monastery) — built in 1447 — is the reason most travellers come here. At its height the monastery housed more than 4,000 monks; today around 600 remain, and the great gilded [mausoleum halls](/asia/china/tibet/shigatse/panchen_lama_mausoleum) are among the most impressive religious structures in Tibet.

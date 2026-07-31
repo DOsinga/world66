@@ -16,6 +16,11 @@ snippet: Galician fishing port on a deep Atlantic bay, shaped by seafood markets
   shipyards.
 title: Vigo
 type: location
+nature: 2.9
+leisure: 6.8
+adventure: 2.9
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Vigo is the largest city in Galicia and one of the most important fishing ports in Europe, built around a deep bay that George Borrow, travelling through in the 1830s, called incomparable. The combination of natural harbour and maritime industry — fishing fleets, canneries, shipyards — drove its rapid growth from the late 19th century onwards, but the city has not lost the texture of its origins. The old [Berbés fishing quarter](/europe/spain/galicia/vigo_city/berbes_quarter), [O Castro hill](/europe/spain/galicia/vigo_city/o_castro_vantage_point), and the [Pedra market](/europe/spain/galicia/vigo_city/pedra_oyster_market) where women still sell raw oysters from stone counters are all still there.

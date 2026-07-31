@@ -10,6 +10,11 @@ snippet: Old Russian city south of Moscow, associated with Tolstoy, samovars, we
   and gingerbread.
 title: Tula
 type: location
+nature: 4.4
+leisure: 3.4
+adventure: 6.4
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Tula is an old Russian city about 190 km south of Moscow, founded in 1146. It is best known for three things: Tolstoy, samovars, and weapons — an unlikely combination that gives the city real character.

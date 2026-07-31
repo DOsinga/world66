@@ -13,6 +13,11 @@ sources:
 - https://en.wikipedia.org/wiki/Chicamocha_Canyon
 title: Bucaramanga
 type: location
+nature: 4.5
+leisure: 5.1
+adventure: 4.6
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Bucaramanga is the capital of Santander department, perched on a broad plateau in the eastern Andes at around 960 metres. The altitude gives it one of Colombia's most reliably pleasant climates — warm but not oppressive, rarely cold — which earned it the nickname "City of Parks." Wide green plazas punctuate the urban grid, and the air carries the smell of guayaba and roasting corn from street vendors. A large student population from several major universities keeps the city energetic and surprisingly cosmopolitan for its size.

@@ -10,6 +10,11 @@ snippet: Sapphire Coast town surrounded by Wagonga Inlet and the Pacific, with c
   waterways and Montague Island offshore.
 title: Narooma
 type: location
+nature: 6.1
+leisure: 6.9
+adventure: 2.8
+city_culture: 3.0
+historic_culture: 3.0
 ---
 
 Narooma sits on a narrow finger of land almost entirely surrounded by the Wagonga River estuary and the Pacific Ocean, on the New South Wales Sapphire Coast about 300 km south of Sydney. The Aboriginal name means "clear blue water," and the description holds: the waterways here are strikingly beautiful.

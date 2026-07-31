@@ -13,6 +13,11 @@ snippet: Otsego Lake village famous for baseball mythology and the National Base
   Hall of Fame.
 title: Cooperstown
 type: location
+nature: 3.8
+leisure: 6.4
+adventure: 2.8
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Cooperstown is a small village of about 1,800 at the southern end of Otsego Lake in central New York, and it is famous for two things: baseball and James Fenimore Cooper. The [National Baseball Hall of Fame and Museum](/northamerica/unitedstates/newyorkstate/cooperstown/baseball_hall_of_fame) draws half a million visitors a year to a village that could fit inside a large city park. In July, during Hall of Fame induction weekend, the population multiplies by an order of magnitude and every hotel room within 50 kilometers is booked months in advance.

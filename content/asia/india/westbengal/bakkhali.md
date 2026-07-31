@@ -9,6 +9,11 @@ snippet: Remote Bengali beach resort near the Sundarbans, reached by ferry and e
   by delta islands.
 title: Bakkhali
 type: location
+nature: 4.6
+leisure: 3.6
+adventure: 5.7
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Bakkhali is a small beach resort about 132 km south of Kolkata, close to the edge of the Sundarbans. It is more remote than [Digha](/asia/india/westbengal/digha) — reaching it requires a bus from Kolkata to Namkhana, a ferry crossing of the Hatania Doania river, and another bus — which keeps the crowds down. From [Bakkhali beach](/asia/india/westbengal/bakkhali/bakkhali_beach) you can walk to Fraserganj, the small settlement nearby, and take a motor launch to [Jambudwip](/asia/india/westbengal/bakkhali/jambudwip_island), a forested island in the delta managed as a wildlife reserve.

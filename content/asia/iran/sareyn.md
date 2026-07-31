@@ -10,6 +10,11 @@ snippet: Small Iranian spa town in the Alborz foothills, known for mineral sprin
   fed by Mount Sabalan.
 title: Sareyn
 type: location
+nature: 5.2
+leisure: 4.9
+adventure: 4.8
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Sareyn is a small spa town in northwest Iran, about 29 km west of [Ardabil](/asia/iran/ardabil). It sits at altitude in the Alborz foothills and is best known for its hot mineral springs, which draw visitors from across the region for hydrotherapy and relaxation.

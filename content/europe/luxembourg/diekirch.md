@@ -16,6 +16,11 @@ image: diekirch.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Diekirch,_H%C3%B4tel_de_ville_(101).jpg
 image_license: CC BY-SA 4.0
 image_attribution: GilPe
+nature: 3.9
+leisure: 5.8
+adventure: 3.4
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Diekirch is a compact town on the Sauer in northern Luxembourg, useful as a transport stop for [Vianden](/europe/luxembourg/vianden) and better than that sounds. It has a walkable centre, a riverside park, a cluster of museums, and enough old-town texture to reward a slow afternoon.

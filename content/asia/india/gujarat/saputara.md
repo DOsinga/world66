@@ -13,6 +13,11 @@ score: 6.94
 title: Saputara
 type: location
 snippet: Gujarat hill station on a Sahyadri plateau, named for a local serpent shrine.
+nature: 5.7
+leisure: 5.0
+adventure: 4.7
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 Saputara is Gujarat's only hill station, perched on a plateau at about 1,000 metres in the Dang forest area of the Sahyadri Range. The climate is cool even in summer, with temperatures rarely exceeding 28 degrees. The name means "abode of serpents" -- a snake image on the banks of the river Sarpagana is worshipped by the local Adivasi people.

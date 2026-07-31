@@ -12,6 +12,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Mahajanga
 title: Mahajanga
 type: location
+nature: 5.4
+leisure: 4.4
+adventure: 5.3
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Mahajanga, still often called Majunga, is Madagascar's great northwestern port: hot, relaxed, and a little apart from the highland-and-rainforest routes most visitors follow. The light is harsher here, the streets feel drier, and the Mozambique Channel gives the city a broad, salty horizon.

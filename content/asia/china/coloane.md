@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Coloane
 title: Coloane
 type: location
+nature: 5.7
+leisure: 5.4
+adventure: 4.5
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Until 1910 Coloane was a pirates' nest — a Portuguese attempt to clear the island of raiders ended in a battle that is still commemorated by a monument in the village square. Now it is the green escape from [Macau](/asia/china/macau)'s casino towers, with parks, beaches, and hiking trails that feel a world away from the Cotai Strip a few kilometres to the north.

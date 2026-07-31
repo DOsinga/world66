@@ -14,6 +14,11 @@ snippet: Tamil Nadu pilgrimage island where Ramayana legend, Shiva worship, and 
   Pamban Bridge meet
 title: Rameshwaram
 type: location
+nature: 3.1
+leisure: 5.2
+adventure: 4.5
+city_culture: 8.0
+historic_culture: 8.0
 ---
 
 Rameshwaram is one of the four sacred Char Dham pilgrimage sites for Hindus, drawing millions of pilgrims each year. It sits on Pamban Island, connected to the mainland by the striking Pamban Bridge, at the very tip of the Indian peninsula across a narrow strait from Sri Lanka. The mythology runs deep here: according to the Ramayana, this is where Lord Rama built his bridge to Lanka and later prayed to Lord Shiva to absolve himself after defeating Ravana.

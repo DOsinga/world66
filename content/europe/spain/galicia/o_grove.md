@@ -14,6 +14,11 @@ title: O Grove
 snippet: Galician fishing town on the Ría de Arousa, known for shellfish and mussel-farming
   rafts.
 type: location
+nature: 4.9
+leisure: 7.7
+adventure: 2.1
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 O Grove is a small fishing town on a peninsula jutting into the Ría de Arousa in Galicia's Rías Baixas. It is Galicia's seafood capital — the town lives and breathes shellfish, and the Festa do Marisco (Seafood Festival) in October draws huge crowds for ten days of open-air eating along the waterfront.

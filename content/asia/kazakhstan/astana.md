@@ -13,6 +13,11 @@ snippet: Purpose-built Kazakh capital on the steppe, defined by monumental archi
   along the Ishim River.
 title: Astana
 type: location
+nature: 3.0
+leisure: 5.9
+adventure: 3.8
+city_culture: 7.0
+historic_culture: 7.0
 ---
 
 Astana is the capital of Kazakhstan, purpose-built on the vast Kazakh steppe about 1,200 kilometres northwest of Almaty. It became the capital in 1997, and since then an extraordinary building boom has transformed what was a modest provincial city into a showcase of futuristic architecture.

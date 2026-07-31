@@ -13,6 +13,11 @@ image: picdumidi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Picdumidi.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Pascalou petit
+nature: 7.7
+leisure: 5.7
+adventure: 4.1
+city_culture: 1.8
+historic_culture: 1.8
 ---
 
 The Pic du Midi de Bigorre rises to 2,877 metres above the Pyrenean foothills, crowned by an observatory that has been in operation since 1878. What makes it exceptional is not just the altitude but the access: a cable car from La Mongie ski station takes you to the summit in fifteen minutes, delivering one of the most spectacular mountain panoramas in France. On clear days you can see from the Atlantic to the Mediterranean, with the entire chain of the Pyrenees spread out below.

@@ -14,6 +14,11 @@ snippet: Unhurried Abruzzo provincial capital between Gran Sasso and the Adriati
   with Roman ruins in its centre.
 title: Teramo
 type: location
+nature: 4.1
+leisure: 5.7
+adventure: 3.9
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Teramo is the provincial capital of the Teramo province in Abruzzo, sitting in a valley between the Gran Sasso mountain massif and the Adriatic coast. With around 54,000 residents, it's a manageable, unhurried city that most visitors skip in favour of the coast or the mountains — which is partly what makes it worth a stop.

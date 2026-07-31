@@ -12,6 +12,11 @@ score: 9.28
 title: Matera
 type: location
 snippet: Ancient Basilicata cave city where the Sassi dwellings cut into tufa ravines.
+nature: 3.6
+leisure: 5.8
+adventure: 4.0
+city_culture: 7.4
+historic_culture: 7.4
 ---
 
 Matera is one of the most astonishing cities in Italy — a place where people have lived continuously since the Palaeolithic, carving homes, churches, and entire neighbourhoods into the soft tufa rock of two ravines. The result is [the Sassi](/europe/italy/basilicata/matera/the_sassi), a dense labyrinth of cave dwellings, rock-cut churches, and terraced alleyways that earned Matera its place on the UNESCO World Heritage list in 1993. It is also one of Europe's oldest continuously inhabited settlements.

@@ -14,6 +14,11 @@ title: Beira
 type: location
 snippet: Mozambican port city on the Pungwe estuary, long tied to the Beira Corridor
   inland.
+nature: 5.4
+leisure: 2.9
+adventure: 6.7
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Beira is Mozambique’s second city, sprawling across a flat peninsula where the Pungwe River meets the Indian Ocean. It is above all a port — and has been since the Portuguese founded it in 1891 as the main outlet for landlocked Central Africa. The Beira Corridor, a road and rail link running west to [Zimbabwe](/africa/zimbabwe), still carries freight from [Zimbabwe](/africa/zimbabwe), [Malawi](/africa/malawi), and [Zambia](/africa/zambia) to the sea.

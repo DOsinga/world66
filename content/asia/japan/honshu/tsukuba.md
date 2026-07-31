@@ -14,6 +14,11 @@ sources:
 - https://en.wikipedia.org/wiki/Tsukuba,_Ibaraki
 title: Tsukuba
 type: location
+nature: 4.3
+leisure: 5.4
+adventure: 4.0
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Tsukuba is Japan's purpose-built science city, planted on the Kanto Plain about 60 kilometres northeast of Tokyo. The Japanese government moved dozens of national research institutes and universities here in the 1970s, and today the city hosts more than 150 research facilities — including JAXA (the Japan Aerospace Exploration Agency), KEK (the High Energy Accelerator Research Organization), and the National Institute of Advanced Industrial Science and Technology. If you have any interest in science, space, or how Japan thinks about the future, Tsukuba is worth a day trip from Tokyo or even a night.

@@ -14,6 +14,11 @@ longitude: 5.709914
 score: 7.01
 title: Lemmer
 type: location
+nature: 4.8
+leisure: 5.6
+adventure: 3.7
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Lemmer is a small town on the IJsselmeer coast in [Friesland](/europe/netherlands/friesland), popular with sailors and water sports enthusiasts. The harbour fills up in summer with yachts and motor boats exploring the Frisian lakes.

@@ -15,6 +15,11 @@ snippet: Middle Aran Island of Irish-speaking solitude, dry-stone walls, limesto
   fields, and Synge associations.
 title: Inis Meáin
 type: location
+nature: 5.6
+leisure: 6.2
+adventure: 3.4
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Inis Meáin is the middle and least visited of the three Aran Islands, sitting in Galway Bay off Ireland's west coast. About five kilometres long and two and a half wide, it is home to roughly 200 Irish-speaking inhabitants and remains one of the most authentic Gaeltacht communities in the country.

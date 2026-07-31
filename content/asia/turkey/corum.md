@@ -14,6 +14,11 @@ snippet: North-central Turkish city known for roasted chickpeas and access to Ha
   Yazılıkaya, and Alacahöyük.
 title: Corum
 type: location
+nature: 5.1
+leisure: 6.2
+adventure: 3.6
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Çorum sits on the edge of a fertile plain in north-central Turkey, roughly 240 km east of Ankara, where the Black Sea region meets Central Anatolia. It was a historic trading town on the routes between the Anatolian plateau and the coast, and its bazaars once sold hand-spun textiles, copper utensils, and leather goods. Today it's a quiet provincial city best known as the gateway to some of Turkey's most important Hittite sites — and, famously, for its roasted chickpeas.

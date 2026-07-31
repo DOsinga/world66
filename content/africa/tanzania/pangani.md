@@ -14,6 +14,11 @@ title: Pangani
 type: location
 snippet: Quiet Tanzanian river-mouth town with Arab trading history, empty beaches,
   and coconut plantations.
+nature: 5.4
+leisure: 5.3
+adventure: 4.5
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Pangani sits at the mouth of the Pangani River, about 50 km south of [Tanga](/africa/tanzania/tanga) on Tanzania's northeastern coast. It is a small, quiet town with a history that punches well above its weight — for centuries it served as an Arab trading settlement and slave port, and traces of that past are still visible in its carved doors, crumbling German colonial buildings, and old mosques.

@@ -14,6 +14,11 @@ snippet: Historic Yogyakarta district, former Mataram Sultanate centre and long-
   silver-working quarter.
 title: Kotagede
 type: location
+nature: 2.6
+leisure: 4.7
+adventure: 5.0
+city_culture: 8.4
+historic_culture: 8.4
 ---
 
 Kotagede is a historic district on the southeastern edge of Yogyakarta, and the original heart of the Mataram Sultanate before the court moved to its current location. Today it is best known for its [silver workshops](/asia/indonesia/kotagede/silver_workshops), where craftsmen produce intricate filigree and repousse work that you can watch being made and buy directly from the source. The main silver street runs along the road from the old Cinema Palace junction and is well worth an afternoon wander.

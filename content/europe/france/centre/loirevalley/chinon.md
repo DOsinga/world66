@@ -14,6 +14,11 @@ snippet: Loire Valley fortress town on the Vienne, tied to Joan of Arc and Caber
   Franc.
 title: Chinon
 type: location
+nature: 2.9
+leisure: 7.3
+adventure: 2.2
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Chinon sits on the south bank of the Vienne river, its medieval fortress looming over a compact old town of half-timbered houses and tufa-stone mansions. It's one of the most characterful towns in the Loire Valley — small enough to walk across in an hour, substantial enough to fill a full day.

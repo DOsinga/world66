@@ -14,6 +14,11 @@ snippet: Northern Ireland seaside resort on an Atlantic headland, close to Dunlu
   Castle and the Causeway Coast.
 title: Portrush
 type: location
+nature: 4.9
+leisure: 7.1
+adventure: 2.6
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 Portrush is a small seaside resort on a headland jutting into the Atlantic on Northern Ireland's north coast. It has been pulling holidaymakers from Belfast and beyond since the Victorian era, and its two sandy beaches — the West Strand and the East Strand — are among the best in the north.

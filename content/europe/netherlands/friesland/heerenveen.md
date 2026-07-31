@@ -14,6 +14,11 @@ snippet: Frisian town known as the spiritual home of Dutch speed skating and the
   arena
 title: Heerenveen
 type: location
+nature: 4.4
+leisure: 5.4
+adventure: 3.9
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Heerenveen is a town of about 50,000 in central [Friesland](/europe/netherlands/friesland), best known internationally as the spiritual home of Dutch speed skating. The [Thialf](/europe/netherlands/friesland/heerenveen/thialf) arena here is the most famous speed skating venue in the world — World Cup events and Dutch championships are held here regularly, and the atmosphere on race nights is electric.

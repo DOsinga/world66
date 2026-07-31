@@ -14,6 +14,11 @@ snippet: Valparaíso agricultural city in the Aconcagua valley, surrounded by av
   and cherimoya farmland.
 title: Quillota
 type: location
+nature: 5.4
+leisure: 4.3
+adventure: 5.1
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Quillota is a small agricultural city in the Aconcagua River valley, in Chile's Valparaíso region, about 120 km northwest of Santiago and 60 km from Valparaíso. It is the largest city in the valley and the capital of both the Quillota Province and the Quillota commune. The surrounding farmland — including the satellite areas of San Isidro, La Palma, Pocochay, and San Pedro — is known above all for avocado and cherimoya cultivation, and the city functions as the commercial hub for this productive agricultural zone. Quillota is connected to the nearby city of La Calera by the small town of La Cruz.

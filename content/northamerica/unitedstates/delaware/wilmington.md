@@ -13,6 +13,11 @@ title: Wilmington
 type: location
 snippet: Delaware river city shaped by colonial shipping, Brandywine mills, and two
   centuries of DuPont history.
+nature: 3.6
+leisure: 4.8
+adventure: 4.4
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Wilmington is Delaware's largest city, sitting along the I-95 corridor roughly equidistant from Philadelphia, Baltimore, and Washington, DC. Founded in 1731 as Willingtown, it grew around the confluence of the Delaware, Christina, and Brandywine rivers — first as a colonial shipping port, then as a milling centre. The rapid flow of the Brandywine attracted E.I. du Pont, who established his gunpowder mills here in 1802, launching the DuPont company that shaped the city's fortunes for two centuries.

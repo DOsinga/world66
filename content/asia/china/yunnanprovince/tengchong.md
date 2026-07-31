@@ -15,6 +15,11 @@ image_attribution: STW932
 score: 7.85
 snippet: Western Yunnan border town surrounded by dormant volcanoes, hot springs,
   and wetlands.
+nature: 7.4
+leisure: 3.7
+adventure: 6.2
+city_culture: 3.0
+historic_culture: 3.0
 ---
 
 Tengchong sits in the far west of Yunnan, hard against the Myanmar border, and its isolation has given it an unusually layered identity. The town is surrounded by dormant volcanoes — around 70 of them in the nearby hills — and the geothermal forces beneath produce some of the most spectacular hot spring scenery in China. The [Rehai Geothermal Area](/asia/china/yunnanprovince/tengchong/rehai_scenic_area), a short drive from town, features the famous Dagunguo spring where water boils continuously at close to 100 degrees Celsius, sending columns of steam across a landscape of bubbling pools and mineral-stained vents.

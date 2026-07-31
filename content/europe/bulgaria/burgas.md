@@ -10,6 +10,11 @@ snippet: Working Bulgarian Black Sea port set between wetlands, bird-rich lakes,
   a compact old centre
 title: Burgas
 type: location
+nature: 4.4
+leisure: 6.0
+adventure: 3.6
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Burgas is Bulgaria's main Black Sea port — a working industrial and commercial city rather than a resort, which is what makes it worth a stop. The old town is compact and walkable, and the [Archaeological Museum](/europe/bulgaria/burgas/archaeological_museum) gives a solid overview of the area's Thracian, Greek, and Byzantine past. The [Burgas Art Gallery](/europe/bulgaria/burgas/burgas_art_gallery), housed in a former Jewish synagogue, is one of the oldest provincial art galleries in the country.

@@ -14,6 +14,11 @@ snippet: Swabian town east of Stuttgart, with half-timbered streets, medieval ga
   and Stihl industrial heritage
 title: Waiblingen
 type: location
+nature: 4.3
+leisure: 5.0
+adventure: 4.2
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Waiblingen is a town of about 50,000 people in the Rems-Murr district of Baden-Württemberg, roughly 15 km east of Stuttgart. It is the kind of well-preserved Swabian town that the region does well: a medieval core with half-timbered houses around the [Marktplatz](/europe/germany/badenwrttemberg/waiblingen/marktplatz), a [circuit of old city walls](/europe/germany/badenwrttemberg/waiblingen/stadtmauer) with battlements, the 15th-century [Hochwachtturm](/europe/germany/badenwrttemberg/waiblingen/hochwachtturm) watchtower, and the [Beinsteiner Tor](/europe/germany/badenwrttemberg/waiblingen/beinsteiner_tor) town gate dating from 1300.

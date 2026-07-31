@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Zunyi
 title: Zunyi
 type: location
+nature: 5.9
+leisure: 4.8
+adventure: 4.9
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Zunyi is where the Chinese Communist Party saved itself. In January 1935, during the Long March, the Red Army was being destroyed — three-quarters of its original force had been lost to Nationalist attacks and the disastrous frontal assaults ordered by Soviet-advised commanders. The [Zunyi Conference](/asia/china/guizhou/zunyi/zunyi_conference_site) replaced those advisors and elevated Mao Zedong to effective military command. The subsequent Long March strategy — endless movement, guerrilla tactics, avoiding pitched battles — is what allowed the Party to survive. The conference site, a preserved two-storey brick building on the old commercial street, is now a museum and one of the most visited revolutionary sites in China. Whether or not you find this history stirring, it's hard not to appreciate the weight of what happened in those rooms.

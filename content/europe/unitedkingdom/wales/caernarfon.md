@@ -14,6 +14,11 @@ snippet: Walled Welsh town on the Menai Strait, dominated by Edward I’s great 
   castle.
 title: Caernarfon
 type: location
+nature: 4.5
+leisure: 6.3
+adventure: 3.3
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 **Caernarfon** is a small walled town on the Menai Strait in northwest Wales, dominated by one of the most impressive castles in Britain. Edward I built Caernarfon Castle in the late 13th century as a seat of English power in Wales, modelling its banded stonework and polygonal towers on the walls of Constantinople. It is now a UNESCO World Heritage Site.

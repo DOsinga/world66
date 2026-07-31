@@ -16,6 +16,11 @@ sources:
 - https://www.openstreetmap.org/
 title: Kanpur
 type: location
+nature: 3.9
+leisure: 3.6
+adventure: 5.6
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Kanpur is Uttar Pradesh at its most workaday: a big, noisy industrial city on the Ganges, famous for leather, cotton mills, engineering colleges, and the hard edges of old Cawnpore. It is not as beautiful as [Lucknow](/asia/india/uttarpradesh/lucknow) or as sacred as [Varanasi](/asia/india/uttarpradesh/varanasi), but it has a history that matters and a civic character that feels very different from the polished Golden Triangle circuit.

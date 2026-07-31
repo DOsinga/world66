@@ -12,6 +12,11 @@ title: Sargodha
 type: location
 snippet: Punjab agricultural city known as Pakistan's citrus capital, with orange-growing
   plains between two rivers.
+nature: 4.6
+leisure: 2.7
+adventure: 6.5
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Sargodha is a major city in Punjab, [Pakistan](/asia/pakistan), known throughout the country as the citrus capital. The surrounding plains produce vast quantities of oranges, and during the harvest season from December to March the city's markets overflow with the fruit. It is a prosperous agricultural centre with a population of over 600,000, sitting between the Jhelum and Chenab rivers in the fertile Punjab heartland.

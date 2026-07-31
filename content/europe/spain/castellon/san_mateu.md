@@ -14,6 +14,11 @@ snippet: Medieval Valencian town whose Gothic church and arcaded Plaça Major re
   the Order of Montesa.
 title: Sant Mateu
 type: location
+nature: 3.4
+leisure: 5.8
+adventure: 3.3
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Sant Mateu is a small medieval town in the interior of Castellón province in Valencia, Spain. It was once the capital of the Maestrat region and served as the seat of the Order of Montesa — the Valencian successor to the Knights Templar — which explains the grandeur of its [Gothic archpriestal church](/europe/spain/castellon/san_mateu/archpriestal_church) and the scale of its arcaded [Plaça Major](/europe/spain/castellon/san_mateu/placa_major) relative to its modest size today.

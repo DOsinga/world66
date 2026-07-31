@@ -17,6 +17,11 @@ sources:
 - https://www.contreesvertes.com/en/explorer/incontournables-des-contrees-vertes/la-ville-de-tulle/
 title: Tulle
 type: location
+nature: 4.1
+leisure: 5.6
+adventure: 3.6
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Tulle is the capital of Corrèze, but it feels less like an administrative centre than a long, narrow town squeezed into the valley of the Corrèze river. The streets climb sharply from the water, stone houses lean into the slope, and the old quarter still has the slightly workaday feel of a place that was never polished for tourists.

@@ -13,6 +13,11 @@ sources:
 - https://wander-argentina.com/la-plata-places-of-interest/
 title: La Plata
 type: location
+nature: 3.0
+leisure: 5.4
+adventure: 3.6
+city_culture: 7.4
+historic_culture: 7.4
 ---
 
 La Plata is one of the great planned cities of the Americas. Founded in 1882 as the new capital of Buenos Aires province, it was laid out on a perfect grid of broad avenues intersected by diagonal boulevards, with a public park or plaza every six blocks. The result is a city that feels spacious and geometric in a way that Buenos Aires proper never does.

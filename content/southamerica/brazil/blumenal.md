@@ -15,6 +15,11 @@ title: Blumenau
 snippet: Santa Catarina city of deep German heritage, beer halls, and Itajaí-Açu valley
   industry.
 type: location
+nature: 3.5
+leisure: 7.0
+adventure: 2.4
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Blumenau is one of Brazil's most distinctive cities — a place where German heritage runs so deep that the streets, the architecture, and the beer halls could almost convince you that you had somehow landed in Bavaria. Founded in 1850 by German pharmacist Hermann Bruno Otto Blumenau, who led a group of settlers into the Itajaí Valley in what is now Santa Catarina state, the city grew into a thriving industrial and cultural hub that never forgot where it came from.

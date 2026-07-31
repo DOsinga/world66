@@ -16,6 +16,11 @@ snippet: Moroccan imperial city of ochre medina walls, Jemaa el-Fna theatre, and
   Mountain backdrops.
 title: Marrakesh
 type: location
+nature: 2.2
+leisure: 6.3
+adventure: 3.6
+city_culture: 8.0
+historic_culture: 8.0
 ---
 
 Marrakesh is the most visceral of Morocco's imperial cities — an ochre-walled medina at the foot of the snow-capped Atlas Mountains where the medieval and the contemporary collide in spectacularly chaotic fashion. The city has been pulling in visitors for decades, and the tourist infrastructure is well-developed, but the medina retains enough of its original character to reward serious exploration.

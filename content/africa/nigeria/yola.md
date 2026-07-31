@@ -10,6 +10,11 @@ title: Yola
 snippet: Adamawa State capital on the Benue River, where Fulani and Kanuri cultures
   shape old Yola and Jimeta.
 type: location
+nature: 6.8
+leisure: 1.8
+adventure: 7.9
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 Yola is the capital of Adamawa State in northeastern Nigeria, sitting along the Benue River where the Mandara Mountains rise to the east toward the Cameroonian border. It's a quiet administrative city — unhurried by Nigerian standards — with a predominantly Muslim population and a character shaped by the Fulani and Kanuri cultures that dominate this corner of the country.

@@ -14,6 +14,11 @@ title: Rio Lagartos
 snippet: Yucatán fishing village beside Ría Lagartos Biosphere Reserve, known for
   flamingos and mangrove lagoons
 type: location
+nature: 5.9
+leisure: 6.8
+adventure: 2.9
+city_culture: 3.2
+historic_culture: 3.2
 ---
 
 Rio Lagartos is a small fishing village on the north coast of the Yucatan Peninsula, best known for the flamingo colony in the surrounding biosphere reserve. Thousands of Caribbean flamingos breed in the shallow lagoons and salt flats of the [Ría Lagartos Biosphere Reserve](/northamerica/mexico/yucatan/rio_lagartos/ria_lagartos_biosphere_reserve) — [boat tours](/northamerica/mexico/yucatan/rio_lagartos/flamingo_boat_tour) to see them are the main reason visitors come. The reserve also supports over 300 bird species and extensive mangrove habitat.

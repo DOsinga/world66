@@ -14,6 +14,11 @@ snippet: Kalimantan city threaded by canals and rivers, known for stilt houses a
   floating markets.
 title: Banjamarsin
 type: location
+nature: 5.3
+leisure: 3.8
+adventure: 5.7
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Banjamarsin is a city built on water. Its maze of canals and rivers thread through the urban fabric, and life plays out on and around the water — in stilt houses, on wooden boats, and at the famous floating market that draws visitors from across the island. It is the most accessible introduction to Kalimantan and a comfortable base for onward exploration.

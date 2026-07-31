@@ -14,6 +14,11 @@ title: Sanur
 type: location
 snippet: Gentle Bali beach town with reef-sheltered water, a long promenade, and boats
   to nearby islands.
+nature: 3.7
+leisure: 8.2
+adventure: 1.7
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Sanur is one of [Bali](/asia/indonesia/bali)'s oldest resort areas, stretching along the island's southeastern coast about 20 minutes south of [Denpasar](/asia/indonesia/bali/denpasar). Unlike the frenetic energy of [Kuta](/asia/indonesia/bali/kuta) to the south, Sanur moves at a gentler pace. The [beach](/asia/indonesia/bali/sanur/sanur_beach) is calm and sheltered by a reef, making it good for swimming and safe for children. At low tide the reef sits exposed and the water recedes some distance — the beach is best at high tide.

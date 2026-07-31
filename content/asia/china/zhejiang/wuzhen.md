@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Wuzhen
 title: Wuzhen
 type: location
+nature: 3.0
+leisure: 7.3
+adventure: 2.4
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 Wuzhen is China's most famous water town, and it has paid a price for that fame: the canal-side wooden buildings are immaculate, the stone bridges are perfectly lit at night, and admission fees ensure that the crowds are manageable but the atmosphere is controlled. It is, in other words, a theme park of itself — but a very beautiful one. The town sits astride the Beijing-Hangzhou Grand Canal in northern Zhejiang, and the preserved streets along its smaller waterways give a reasonable impression of what this entire region looked like before concrete arrived.

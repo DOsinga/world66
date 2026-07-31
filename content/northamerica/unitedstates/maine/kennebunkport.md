@@ -13,6 +13,11 @@ snippet: Southern Maine fishing port and resort town centred on Dock Square and 
   beaches.
 title: Kennebunkport
 type: location
+nature: 4.0
+leisure: 8.0
+adventure: 1.6
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Kennebunkport is a fishing port and tourist town on Maine's southern coast. The old section is worth a slow walk — shops, galleries, and restaurants line the streets near the harbour around [Dock Square](/northamerica/unitedstates/maine/kennebunkport/things_to_do/dock_square), and several beaches are within easy reach. The town is best known outside Maine as the location of [Walker's Point](/northamerica/unitedstates/maine/kennebunkport/things_to_do/walkers_point), the Bush family summer estate visible from the Ocean Avenue drive.

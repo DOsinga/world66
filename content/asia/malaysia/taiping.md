@@ -14,6 +14,11 @@ snippet: Rainy Perak town with colonial dignity and Malaysia's oldest public gar
   in a former tin-mining landscape.
 title: Taiping
 type: location
+nature: 5.3
+leisure: 5.5
+adventure: 4.2
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Taiping was the capital of Perak before Ipoh took over, and it still carries itself with quiet dignity. This is one of the wettest towns in Peninsular Malaysia, and all that rain has made the [Lake Gardens](/asia/malaysia/taiping/taiping_lake_gardens) — the country's oldest public garden, laid out in 1880 on the site of an abandoned tin mine — impossibly lush, with rain trees so old their canopies touch across the paths.

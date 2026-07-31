@@ -18,6 +18,11 @@ sources:
 - https://en.wikipedia.org/wiki/Main_Ridge_Forest_Reserve
 title: Tobago
 type: location
+nature: 5.7
+leisure: 5.4
+adventure: 4.2
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 Tobago is the quieter, smaller sister island of Trinidad, about 30 km to the northeast. Where Trinidad is bustling and multicultural, Tobago is laidback and beach-focused — a proper Caribbean island with palm-fringed bays, coral reefs, and rainforest-covered hills.

@@ -14,6 +14,11 @@ snippet: Jamaican capital and cultural engine, where reggae, dancehall, museums,
   rough-edged city life converge.
 title: Kingston
 type: location
+nature: 4.2
+leisure: 5.5
+adventure: 4.2
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Kingston is Jamaica's capital and by far its largest city — home to about a third of the island's population. It's the cultural engine of the country: reggae and dancehall were born here, the national museums are here, and the city's creative energy is unlike anywhere else in the Caribbean. Most package tourists never come, which means those who do have the major sights largely to themselves.

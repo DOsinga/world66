@@ -14,6 +14,11 @@ snippet: Dordogne capital where Roman ruins and the domed Cathédrale Saint-Fron
   the Isle riverbank
 title: Périgueux
 type: location
+nature: 2.7
+leisure: 7.2
+adventure: 2.5
+city_culture: 7.6
+historic_culture: 7.6
 ---
 
 Périgueux is the administrative capital of the Dordogne, set on the banks of the river Isle. It is a town of two distinct histories: a Roman city whose ruins still punctuate the modern streets, and a medieval centre that grew up around one of the most distinctive cathedrals in France.

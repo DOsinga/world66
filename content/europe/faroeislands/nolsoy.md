@@ -10,6 +10,11 @@ snippet: Faroese island village near Tórshavn, known for storm petrel colonies 
   ridge walks to Borðan lighthouse.
 title: Nólsoy
 type: location
+nature: 7.3
+leisure: 4.1
+adventure: 5.4
+city_culture: 2.7
+historic_culture: 2.7
 ---
 
 Nólsoy is both an island and its principal settlement, easily reached by ferry from [Tórshavn](/europe/faroeislands/torshavn). The crossing takes about 20 minutes and drops you in a [small village](/europe/faroeislands/nolsoy/nolsoy_village) with a church, a shop, a cafe, and an arch made from the jawbones of a whale.

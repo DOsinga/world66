@@ -10,6 +10,11 @@ snippet: Punjabi industrial city known for pehlwani wrestling akharas and a seri
   kebab-and-tikka food culture.
 title: Gujranwala
 type: location
+nature: 3.9
+leisure: 3.6
+adventure: 5.6
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Gujranwala is Pakistan's fifth-largest city, an industrial centre in Punjab with a population of well over a million. It is known across the country as the "City of Wrestlers" — traditional Punjabi [wrestling (pehlwani)](/asia/pakistan/gujranwala/akhara_visit) has been a local passion for generations, and matches at [Sheranwala Bagh](/asia/pakistan/gujranwala/sheranwala_bagh) draw big crowds.

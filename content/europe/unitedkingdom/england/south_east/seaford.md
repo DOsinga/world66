@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Seaford_Head
 title: Seaford
 type: location
+nature: 4.8
+leisure: 6.1
+adventure: 3.1
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Seaford is the quieter Sussex seaside town at the western end of the Seven Sisters country. It does not have Eastbourne's resort polish or Brighton's noise, and that is a large part of the appeal: a long shingle beach, a practical town centre, and chalk downland rising almost immediately to the east.

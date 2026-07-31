@@ -15,6 +15,11 @@ snippet: Tongan capital on Tongatapu's north shore, centred on the royal palace,
   and waterfront.
 title: Nuku'alofa
 type: location
+nature: 6.0
+leisure: 5.3
+adventure: 4.6
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Nuku'alofa is the capital of Tonga and the only real town in the kingdom. It sits on the north shore of Tongatapu, the main island, and is small enough to walk across in half an hour — but it is the centre of everything: government, commerce, churches, and the waterfront.

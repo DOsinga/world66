@@ -16,6 +16,11 @@ snippet: Polish capital rebuilt after wartime destruction, with a reconstructed 
   Town and layered communist-era cityscape.
 title: Warsaw
 type: location
+nature: 1.2
+leisure: 8.4
+adventure: 1.5
+city_culture: 8.8
+historic_culture: 8.8
 ---
 
 Warsaw is not a beautiful city in the conventional sense. Ninety percent of it was systematically destroyed by the Germans after the 1944 Warsaw Uprising, and much of what you see today was built in the communist period. But it is a fascinating and increasingly dynamic city, with a history so extreme that its traces are everywhere.

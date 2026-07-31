@@ -7,6 +7,11 @@ snippet: Twin Tennessee gateway towns to the Smokies, pairing Dollywood spectacl
   with a compact mountain main street
 title: Pigeon Forge and Gatlinburg
 type: location
+nature: 5.3
+leisure: 7.0
+adventure: 2.9
+city_culture: 3.7
+historic_culture: 3.7
 ---
 
 Pigeon Forge and Gatlinburg sit side by side at the entrance to Great Smoky Mountains National Park in eastern Tennessee, the two towns together forming the main tourist corridor into the Smokies. They are very different in character: Pigeon Forge is a strip of outlet malls, go-cart tracks, and the massive Dollywood theme park, built around country music star Dolly Parton's Tennessee heritage. Gatlinburg is older and more compact, with a traditional main street backed by wooded ridges and a gondola system that runs up into the mountain park above town.

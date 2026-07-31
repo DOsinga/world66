@@ -14,6 +14,11 @@ snippet: Cameroon's hilltop capital, set around 750 metres above sea level in th
   south-central plateau.
 title: Yaoundé
 type: location
+nature: 4.8
+leisure: 3.5
+adventure: 6.1
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Yaoundé is the capital of [Cameroon](/africa/cameroon), a sprawling city of hills and greenery set at around 750 metres altitude in the south-central part of the country. It is quieter and more administrative than the economic capital [Douala](/africa/cameroon/douala), with a calmer pace and a more agreeable climate thanks to the elevation.

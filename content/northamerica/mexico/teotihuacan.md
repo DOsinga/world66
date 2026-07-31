@@ -14,6 +14,11 @@ title: Teotihuacan
 snippet: Ancient Mesoamerican city northeast of Mexico City, defined by vast pyramids
   and the Avenue of the Dead.
 type: location
+nature: 2.7
+leisure: 5.8
+adventure: 4.1
+city_culture: 8.7
+historic_culture: 8.7
 ---
 
 Teotihuacan is one of the most impressive ancient cities in the Americas, located about 50 km northeast of [Mexico City](/northamerica/mexico/mexicocity) — roughly an hour by road. At its peak between the first and seventh century AD, it was the largest city on the continent, home to perhaps 125,000 people, and its influence extended across Mesoamerica.

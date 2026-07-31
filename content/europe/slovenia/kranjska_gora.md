@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Vr%C5%A1i%C4%8D_Pass
 title: Kranjska Gora
 type: location
+nature: 6.2
+leisure: 7.0
+adventure: 3.0
+city_culture: 3.0
+historic_culture: 3.0
 ---
 
 Kranjska Gora is Slovenia's best-known mountain resort, tucked into the far northwest where the Julian Alps press against Austria and Italy. It is busier and more developed than the quieter valleys around [Lake Bohinj](/europe/slovenia/lakebohinj), but it earns that traffic with skiing, walking, cycling, and some of the country's most dramatic road scenery.

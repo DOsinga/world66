@@ -17,6 +17,11 @@ snippet: Imperial Austrian capital of Habsburg palaces, coffee houses, classical
   and vineyards beyond the suburbs.
 title: Vienna
 type: location
+nature: 1.1
+leisure: 9.3
+adventure: 0.8
+city_culture: 8.4
+historic_culture: 8.4
 ---
 
 Vienna is one of Europe's great imperial capitals, a city that spent six centuries as the heart of the Habsburg Empire and has never quite forgotten it. The architecture is monumental, the coffee houses are legendary, and the cultural life — opera, classical music, museums — is among the richest on the continent. It also has an unexpectedly lively contemporary scene, with excellent restaurants, underground clubs, and one of Europe's most inventive wine cultures in the hills just beyond the suburbs.

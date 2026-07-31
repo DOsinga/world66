@@ -10,6 +10,11 @@ title: Sleman
 type: location
 snippet: Yogyakarta regency climbing from city fringes to the volcanic slopes of Mount
   Merapi.
+nature: 4.0
+leisure: 3.9
+adventure: 5.2
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Sleman is a regency on the northwest border of the Yogyakarta Special Region, stretching from the urban fringes of [Yogyakarta](/asia/indonesia/java/yogyakarta) up to the slopes of [Mount Merapi](/asia/indonesia/sleman/mount_merapi). The volcano dominates the northern skyline and shapes daily life — its fertile ash soils support the surrounding rice paddies and villages, and the regency rebuilds itself after each major eruption.

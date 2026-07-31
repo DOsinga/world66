@@ -14,6 +14,11 @@ snippet: Tampa Latin quarter built on cigar factories, with brick balconies and 
   7th Avenue nightlife.
 title: Ybor City
 type: location
+nature: 2.2
+leisure: 8.4
+adventure: 1.2
+city_culture: 7.3
+historic_culture: 7.3
 ---
 
 Ybor City is Tampa's historic Latin quarter, founded in 1885 by cigar manufacturer Vicente Martinez-Ybor. For decades it was the cigar capital of the world, home to Cuban, Spanish, Italian, and Jewish immigrant communities who rolled cigars by hand in massive brick factories. At its peak the neighbourhood produced over 700 million cigars a year.

@@ -17,6 +17,11 @@ sources:
 - https://www.openstreetmap.org/
 title: Montesilvano
 type: location
+nature: 4.6
+leisure: 5.0
+adventure: 4.4
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Montesilvano is the northern extension of the [Pescara](/europe/italy/abruzzo/pescara) beach strip: broad Adriatic sand, long rows of summer lidos, apartment blocks, family hotels, and the flat cycling-friendly coast road. It is not the prettiest town in Abruzzo, but it is practical, sunny, and very easy to use.

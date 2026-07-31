@@ -14,6 +14,11 @@ snippet: Eastern Idaho college city with a strong Mormon character and a dramati
   flood-scarred history.
 title: Rexburg
 type: location
+nature: 4.9
+leisure: 4.5
+adventure: 4.6
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Rexburg is a small city in eastern Idaho, sitting in the Upper Snake River Plain near the Teton Range. It is dominated by Brigham Young University-Idaho, a private university operated by The Church of Jesus Christ of Latter-day Saints, which gives the town a distinctly Mormon character and a young, clean-cut student population.

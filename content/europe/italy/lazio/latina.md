@@ -14,6 +14,11 @@ snippet: Planned Lazio city from the Pontine Marshes, with rationalist piazzas a
   nearby beaches.
 title: Latina
 type: location
+nature: 3.6
+leisure: 5.3
+adventure: 3.8
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Latina is a planned city about 60 kilometres south of [Rome](/europe/italy/lazio/rome), built in 1932 during the draining of the Pontine Marshes. The rationalist architecture of the [city centre](/europe/italy/lazio/latina/piazza_del_popolo) — all clean lines and wide piazzas — gives it a distinctive look quite unlike the older towns around it.

@@ -14,6 +14,11 @@ snippet: Sonoran state capital and desert commercial hub, known for cattle count
   and northern Mexico's beef culture
 title: Hermosillo
 type: location
+nature: 5.1
+leisure: 5.0
+adventure: 4.6
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Hermosillo is the capital of Sonora, a prosperous northern state that feels as much influenced by the American Southwest as by central Mexico. Set in the low desert at about 215 metres above sea level, it is a practical, fast-moving city of around 900,000 people — the industrial and commercial hub of a region known for cattle ranching, wheat farming, car manufacturing, and some of the best beef in Mexico.

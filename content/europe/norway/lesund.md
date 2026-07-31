@@ -13,6 +13,11 @@ snippet: Norwegian coastal town rebuilt in Jugendstil after the 1904 fire, set a
   islands and channels.
 title: Ålesund
 type: location
+nature: 5.3
+leisure: 6.0
+adventure: 3.7
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Ålesund is an anomaly on the Norwegian coast — an entire town built in Art Nouveau style. In January 1904, a catastrophic fire destroyed almost the whole town centre overnight, leaving 10,000 people homeless. International aid poured in (Kaiser Wilhelm II, who loved the area, was a major contributor), and the rebuilding happened fast, in the fashionable Jugendstil of the time. The result is a remarkably coherent townscape of turrets, spires and ornamental facades in a setting of islands and channels. The [Jugendstilsenteret](/europe/norway/lesund/jugendstilsenteret) museum tells the full story of the fire and rebuilding, and the best overview of the whole town is from the [Aksla viewpoint](/europe/norway/lesund/aksla_viewpoint) — 418 steps above the main street.

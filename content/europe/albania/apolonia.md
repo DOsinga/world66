@@ -14,6 +14,11 @@ snippet: Greek archaeological site near Fier, with hilltop ruins, a monastery mu
   and a restored portico
 title: Apolonia
 type: location
+nature: 3.3
+leisure: 4.8
+adventure: 4.7
+city_culture: 7.6
+historic_culture: 7.6
 ---
 
 Apollonia (Apolonia) is one of the most important Greek archaeological sites in Albania, set on a gentle hill with views over the coastal plain near Fier. Founded in the 7th century BC by Greek colonists from Corinth and Corcyra, it grew into a prosperous city and centre of learning — the Roman emperor Augustus sent his nephew Octavian (later Augustus Caesar) to study here.

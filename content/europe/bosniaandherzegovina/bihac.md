@@ -14,6 +14,11 @@ snippet: Una River town in northwest Bosnia, gateway to travertine waterfalls an
   forested Una National Park
 title: Bihać
 type: location
+nature: 4.7
+leisure: 5.4
+adventure: 4.3
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Bihać sits in the far northwest corner of Bosnia and Herzegovina, where the emerald Una River curls through a limestone valley ringed by forested hills. It is one of the country's most scenically blessed towns and the main gateway to Una National Park, where the river drops over a series of spectacular travertine waterfalls and cascades.

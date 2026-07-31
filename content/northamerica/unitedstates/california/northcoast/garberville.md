@@ -14,6 +14,11 @@ title: Garberville
 type: location
 snippet: Small Humboldt County service town at the southern gateway to old-growth
   redwood country.
+nature: 5.8
+leisure: 5.0
+adventure: 4.5
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 Garberville is a small town in Humboldt County on the southern edge of the Redwood region, about 220 miles north of San Francisco on US-101. It serves as a gateway to the Avenue of the Giants, the 31-mile scenic road through some of the finest old-growth coastal redwood forest in the world.

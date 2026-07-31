@@ -25,6 +25,11 @@ snippet: Inland Empire city where Route 66 meets the San Bernardino Mountains an
   desert pass.
 title: San Bernardino
 type: location
+nature: 4.8
+leisure: 4.0
+adventure: 5.3
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 San Bernardino sits at the foot of the San Bernardino Mountains where Route 66 meets the pass between the desert and the coast. The city has a rough-around-the-edges reputation, but it rewards curious visitors with more than 280 acres of parks, lakes, and recreation areas within the city limits.

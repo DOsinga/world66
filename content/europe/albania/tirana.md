@@ -14,6 +14,11 @@ snippet: Compact Albanian capital reshaped from grey post-communist city into on
   of the Balkans' livelier capitals.
 title: Tirana
 type: location
+nature: 3.0
+leisure: 5.1
+adventure: 4.7
+city_culture: 7.7
+historic_culture: 7.7
 ---
 
 Tirana is the capital and by far the largest city in Albania, home to about a third of the country's population. It is compact enough to explore on foot, and in the last two decades has reinvented itself from a grey post-communist city into one of the more energetic capitals in the Balkans.

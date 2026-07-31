@@ -10,6 +10,11 @@ snippet: Northern Sierra mountain town surrounded by Plumas County lakes, stream
   and Feather River canyon country.
 title: Quincy
 type: location
+nature: 6.5
+leisure: 4.6
+adventure: 5.0
+city_culture: 3.2
+historic_culture: 3.2
 ---
 
 Quincy is a small mountain town in Plumas County in the northern Sierra Nevada, surrounded by some of California's most pristine wilderness. The county has more than 50 lakes and nearly 1,000 miles of streams, and the Pacific Crest Trail passes through the [Bucks Lake Wilderness](/northamerica/unitedstates/california/shastacascade/quincy/bucks_lake_wilderness) just to the south.

@@ -14,6 +14,11 @@ snippet: High-altitude capital of the State of Mexico, with a historic centre we
   of Mexico City.
 title: Toluca
 type: location
+nature: 3.7
+leisure: 5.3
+adventure: 3.9
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Toluca is the capital of the State of Mexico, sitting at 2,680 metres above sea level on a high valley — making it one of the highest state capitals in Mexico and notably chilly by Mexican standards. It lies about 65 kilometres west of [Mexico City](/northamerica/mexico/mexicocity) and is often treated as part of the megalopolis sprawl, but it has a distinct character and a genuinely interesting city centre.

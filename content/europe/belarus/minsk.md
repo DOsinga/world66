@@ -12,6 +12,11 @@ snippet: Belarusian capital rebuilt after wartime destruction into broad Stalini
   avenues, monumental squares, and Soviet-era urban theatre
 title: Minsk
 type: location
+nature: 3.7
+leisure: 4.5
+adventure: 4.9
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Minsk, the capital of Belarus, is unlike any other European capital. The city was 80% destroyed in World War II — one of the most complete urban annihilations of the entire conflict — and rebuilt almost entirely from scratch between 1945 and 1955 according to Stalin’s personal vision of what a Soviet city should look like. The result is a masterpiece of Stalinist urban planning: wide ceremonial avenues, monumental neoclassical facades, vast squares, and a scale that is simultaneously impressive and slightly bewildering. The Stalinist city centre was designated a UNESCO World Heritage Site in 2023.

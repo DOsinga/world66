@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Plachkovica
 title: Radovis
 type: location
+nature: 4.8
+leisure: 3.9
+adventure: 5.3
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Radoviš (also spelled Radovis) is a small city of about 14,000 people in eastern North Macedonia, tucked into a fertile valley at the foot of the [Plačkovica mountain range](/europe/macedonia/radovis/plachkovica_mountain). It is one of those places that most travellers never hear of, but it has an agreeable, unhurried character and a history stretching back to Byzantine times.

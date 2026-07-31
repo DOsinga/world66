@@ -20,6 +20,11 @@ sources:
 - https://www.toiran.com/index.php/en/city-semnan
 title: Semnan
 type: location
+nature: 4.3
+leisure: 4.5
+adventure: 4.8
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Semnan sits on the old Tehran-Mashhad corridor at the southern foot of the Alborz, where mountain air gives way to the dry edge of the Dasht-e Kavir. It is the provincial capital, but it feels quieter and more workaday than Iran's famous historic cities.

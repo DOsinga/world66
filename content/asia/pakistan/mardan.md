@@ -12,6 +12,11 @@ title: Mardan
 snippet: Khyber Pakhtunkhwa city on the Peshawar-Swat plain near the Gandhara ruins
   of Takht-i-Bahi.
 type: location
+nature: 5.2
+leisure: 2.7
+adventure: 6.7
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Mardan is a city in Khyber Pakhtunkhwa province, about 70 kilometres northeast of [Peshawar](/asia/pakistan/peshawar) on the Peshawar-Swat road. It is the second-largest city in the province after Peshawar and serves as a commercial hub for the surrounding agricultural plain.

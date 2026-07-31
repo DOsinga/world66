@@ -13,6 +13,11 @@ sources:
 - https://www.el-valle-panama.com/what-to-do/
 title: Anton Valley
 type: location
+nature: 6.5
+leisure: 4.7
+adventure: 4.9
+city_culture: 3.4
+historic_culture: 3.4
 ---
 
 The Anton Valley (El Valle de Antón) sits inside the second-largest inhabited volcanic crater in the world — a six-kilometre-wide caldera that was a lake until its drainage carved the valley floor flat. At 600 metres above sea level, it is meaningfully cooler and less humid than [Panama City](/northamerica/panama/panamacity), which makes it the weekend escape of choice for the capital's residents and a perfectly comfortable base for travellers.

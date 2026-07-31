@@ -14,6 +14,11 @@ snippet: Uzbek capital rebuilt with Soviet boulevards, decorated metro stations,
   pockets of Silk Road history.
 title: Tashkent
 type: location
+nature: 3.7
+leisure: 3.7
+adventure: 6.0
+city_culture: 7.1
+historic_culture: 7.1
 ---
 
 Tashkent is the capital of Uzbekistan but lacks the headline attractions of [Samarkand](/asia/uzbekistan/samarkand) and [Bukhara](/asia/uzbekistan/bukhara). A devastating earthquake in 1966 levelled much of the old city, and the Soviets seized the moment — calling in volunteer workers from across the USSR to rebuild. Thousands came and stayed, turning the ancient Silk Road city into a modern, Soviet, and rather Russian town.

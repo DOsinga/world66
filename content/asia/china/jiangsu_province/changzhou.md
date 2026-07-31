@@ -13,6 +13,11 @@ snippet: Jiangsu canal city between Shanghai and Nanjing, with old lanes survivi
   beside modern industry
 title: Changzhou
 type: location
+nature: 3.5
+leisure: 5.3
+adventure: 3.9
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Changzhou (常州) sits between Shanghai and Nanjing on one of China's busiest rail lines, and most travellers pass through without stopping. That is understandable — Changzhou is not a city built for tourism — but it rewards a day's exploration more than its reputation suggests. It is a working Chinese city of about four million people, compact enough to get around on foot or by metro, with a handful of genuinely interesting sites and without the hordes that follow visitors around Suzhou or Hangzhou.

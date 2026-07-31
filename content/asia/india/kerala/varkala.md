@@ -13,6 +13,11 @@ snippet: Kerala cliff-top beach town where Hindu pilgrimage sites share red late
   bluffs above the Arabian Sea
 title: Varkala
 type: location
+nature: 4.8
+leisure: 7.3
+adventure: 2.4
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Varkala is Kerala's cliff-top beach town, and it looks like nothing else on this coast. A long laterite cliff drops straight down to the Arabian Sea, its red-brown face lined with coconut palms and topped by a path of restaurants, shops, and guesthouses. The beach below — [Papanasam](/asia/india/kerala/varkala/papanasam_beach), the "destroyer of sins" — stretches golden and wide beneath the bluff.

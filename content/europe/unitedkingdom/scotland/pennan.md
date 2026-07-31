@@ -14,6 +14,11 @@ snippet: Aberdeenshire fishing village wedged below cliffs, known for its Local 
   phone box pilgrimage.
 title: Pennan
 type: location
+nature: 5.8
+leisure: 4.8
+adventure: 4.6
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Pennan is one of the most dramatic villages on the Scottish coast — a single row of whitewashed cottages wedged between a towering cliff and the North Sea on the Aberdeenshire coast. There is no room for the village to grow, and no real reason it should: its charm lies entirely in its impossible setting and its stubborn resistance to change.

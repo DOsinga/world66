@@ -14,6 +14,11 @@ snippet: Eastern Bhutan district town built around a hillside dzong above two ri
   valleys.
 title: Trashigang
 type: location
+nature: 6.2
+leisure: 2.5
+adventure: 7.1
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Trashigang is the largest district in eastern Bhutan and its small town is the main settlement in a part of the country that few visitors reach. The valleys here are narrower and steeper than those in the more touristed west around [Paro](/asia/bhutan/paro) and [Thimphu](/asia/bhutan/thimphu), and the remoteness is part of the appeal.

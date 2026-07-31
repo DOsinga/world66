@@ -14,6 +14,11 @@ snippet: Georgia university town with a walkable downtown and a music scene root
   in R.E.M. and the B-52s.
 title: Athens
 type: location
+nature: 3.0
+leisure: 6.1
+adventure: 2.9
+city_culture: 7.0
+historic_culture: 7.0
 ---
 
 Athens is a university town about 65 miles northeast of Atlanta, home to the University of Georgia and a music scene that produced R.E.M. and the B-52s in the late 1970s and '80s. It's an appealing place to spend a day or two — good food, live music venues, and a walkable downtown centered on Broad Street.

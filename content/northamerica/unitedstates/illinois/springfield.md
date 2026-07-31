@@ -15,6 +15,11 @@ title: Springfield
 type: location
 snippet: Illinois state capital where Abraham Lincoln's home, tomb, and political
   legacy dominate the city.
+nature: 4.5
+leisure: 3.7
+adventure: 5.5
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 The state capital of Illinois and, above all, Lincoln country. Springfield is where Abraham Lincoln lived for 24 years before moving to the White House, and his presence is everywhere. The [Abraham Lincoln Presidential Library and Museum](/northamerica/unitedstates/illinois/springfield/abraham_lincoln_presidential_library) is one of the best presidential libraries in the country. The [Lincoln Home National Historic Site](/northamerica/unitedstates/illinois/springfield/lincoln_home) — the only house he ever owned — and the restored [Old State Capitol](/northamerica/unitedstates/illinois/springfield/old_state_capitol) where Lincoln delivered his "House Divided" speech are within easy walking distance of each other downtown. The [Lincoln-Herndon Law Offices](/northamerica/unitedstates/illinois/springfield/lincoln_herndon_law_offices) show the legal career that bankrolled his political ambitions. The [Lincoln Depot](/northamerica/unitedstates/illinois/springfield/lincoln_depot) marks the spot where he gave his farewell address before leaving for Washington — never to return in life. [Lincoln's Tomb](/northamerica/unitedstates/illinois/springfield/lincoln_tomb) at Oak Ridge Cemetery is the final stop on any Lincoln circuit; the nearby [Museum of Funeral Customs](/northamerica/unitedstates/illinois/springfield/museum_of_funeral_customs) covers the extraordinary 12-day funeral train that brought Lincoln's body back to Illinois. The [Illinois State Capitol](/northamerica/unitedstates/illinois/springfield/illinois_state_capitol) — whose dome stands taller than the U.S. Capitol — is also worth a visit. Route 66 runs through town, adding another layer of Americana; the [Cozy Dog Drive In](/northamerica/unitedstates/illinois/springfield/cozy_dog_drive_in) has been serving corn dogs on the old highway since 1949. It is not a big city, but for American history it is hard to beat.

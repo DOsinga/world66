@@ -14,6 +14,11 @@ snippet: Alaskan crossroads town where the Alaska Highway meets the Tok Cut-Off 
   long empty roads.
 title: Tok
 type: location
+nature: 9.4
+leisure: 1.8
+adventure: 7.9
+city_culture: 0.7
+historic_culture: 0.7
 ---
 
 Tok sits at the junction of the [Alaska Highway](/northamerica/unitedstates/alaska/tok/alaska_highway) and the [Tok Cut-Off](/northamerica/unitedstates/alaska/tok/tok_cut_off), making it the first Alaskan town most overland travellers reach when driving up from the Lower 48. It is not a destination in itself — it is a gas station, a meal, and a bed at the crossroads of two long, empty highways.

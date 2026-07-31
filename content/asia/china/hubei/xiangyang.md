@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Xiangyang
 title: Xiangyang
 type: location
+nature: 4.3
+leisure: 4.2
+adventure: 5.0
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Xiangyang sits where the Han River squeezes through a gap between hills in northern Hubei, and for most of Chinese history that geography made it the most strategically important city in central China. Whoever held Xiangyang controlled the corridor between north and south. In the thirteenth century, Kublai Khan's Mongol army spent five years besieging the city before it finally fell — the decisive breach that allowed the Yuan dynasty to complete its conquest of China. The [city walls](/asia/china/hubei/xiangyang/xiangyang_ancient_city_walls) that stand today are largely Han dynasty in origin, 7.3 kilometres of them, surrounded on three sides by water, and they are free to enter and walk.

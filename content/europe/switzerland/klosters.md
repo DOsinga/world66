@@ -13,6 +13,11 @@ snippet: Alpine Prättigau village of wooden chalets and royal ski history, link
   to the Parsenn slopes.
 title: Klosters
 type: location
+nature: 5.8
+leisure: 7.8
+adventure: 2.3
+city_culture: 3.0
+historic_culture: 3.0
 ---
 
 Klosters is a small, unhurried alpine village in the [Prättigau valley](/europe/switzerland/klosters/prättigau_valley), 20 minutes from Davos but a world apart in character. While Davos has grown into a conference city, Klosters has stayed resolutely itself: a scatter of wooden chalets, church steeples, and flower-hung balconies backed by high peaks. The British royal family has been coming here for decades — [Chalet Eugenia](/europe/switzerland/klosters/chalet_eugenia) became famous through decades of royal visits — which says something about the place: quiet, tasteful, and thoroughly alpine.

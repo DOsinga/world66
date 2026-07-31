@@ -15,6 +15,11 @@ snippet: Coastal Mani village backed by the Taygetos mountains, linked to ancien
   legend and Patrick Leigh Fermor.
 title: Kardamili
 type: location
+nature: 4.6
+leisure: 7.4
+adventure: 2.4
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Kardamili is a small coastal village in Exo Mani, about 35 kilometres south of [Kalamata](/europe/greece/kalamata), backed by the grey limestone wall of the Taygetos mountains and fronted by a pebble beach the colour of slate. It is quieter and less developed than [Stoupa](/europe/greece/mani/stoupa) to the south, which is precisely what draws the kind of traveller who finds Stoupa too crowded.

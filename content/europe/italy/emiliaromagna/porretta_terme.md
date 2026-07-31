@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/Porretta_Terme
 title: Porretta Terme
 type: location
+nature: 4.6
+leisure: 5.5
+adventure: 3.9
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Nestled in the foothills of the Apennines and bisected by the [Reno River](/europe/italy/emiliaromagna/porretta_terme/reno_river_valley), Porretta Terme is a bit off the beaten path, west of the main highway that links [Florence](/europe/italy/tuscany/florence) and [Bologna](/europe/italy/emiliaromagna/bologna). If you have time and want a reasonably priced spa experience, this is the place. Accessible by car or train, the town has a long history as a thermal destination — the [Terme di Porretta](/europe/italy/emiliaromagna/porretta_terme/terme_di_porretta) draw visitors who have been coming to take the sulphureous waters since at least Roman times.

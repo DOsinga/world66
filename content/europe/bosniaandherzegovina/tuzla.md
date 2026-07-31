@@ -10,6 +10,11 @@ score: 6.98
 title: Tuzla
 type: location
 snippet: Bosnian city built on salt springs, with Pannonica lakes at its modern centre.
+nature: 4.1
+leisure: 5.0
+adventure: 4.4
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Tuzla is a city built on salt. Its name comes from the Turkish word *tuz* (salt), and its salt springs have drawn settlers continuously for over 6,000 years, making it one of the oldest continuously inhabited places in Europe. Today it is the third-largest city in Bosnia and Herzegovina, after Sarajevo and Banja Luka, and the seat of the Tuzla Canton.

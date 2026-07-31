@@ -13,6 +13,11 @@ title: Avatoru
 type: location
 snippet: Sleepy Rangiroa atoll village stretched across narrow islets between lagoon
   water and open ocean.
+nature: 7.3
+leisure: 7.3
+adventure: 2.8
+city_culture: 1.8
+historic_culture: 1.8
 ---
 
 More a sleepy hamlet than a settlement, Avatoru is a series of islets connected by concrete bridges. It and neighbouring Tiputa are the only populated areas of the Rangiroa atoll, aside from the boat-accessible resort across the main lagoon.

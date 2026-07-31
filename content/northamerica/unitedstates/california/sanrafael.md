@@ -10,6 +10,11 @@ snippet: Marin County seat near San Francisco, known for Frank Lloyd Wright's Ci
   Center and outdoor access.
 title: San Rafael
 type: location
+nature: 4.1
+leisure: 6.5
+adventure: 2.9
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 San Rafael is the county seat of Marin County, just across the Golden Gate Bridge from San Francisco. The town itself is pleasant enough, but the real draw is its position as a base for exploring some of the Bay Area's finest outdoor spaces.

@@ -9,6 +9,11 @@ snippet: Southern Guam waterfall park where tropical pools share the valley with
   Yokoi's wartime cave.
 title: Talofofo Falls
 type: location
+nature: 7.8
+leisure: 5.5
+adventure: 4.3
+city_culture: 1.9
+historic_culture: 1.9
 ---
 
 Talofofo Falls is a set of waterfalls in the Ugum River valley in southern [Guam](/australiaandpacific/guam), now part of a resort park. The main attraction is the two-tiered lower falls, which drop into a pool surrounded by dense tropical vegetation. A cable car takes visitors down into the valley.

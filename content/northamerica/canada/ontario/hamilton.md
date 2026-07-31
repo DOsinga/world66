@@ -15,6 +15,11 @@ score: 6.68
 snippet: Lake Ontario steel city cut by the Niagara Escarpment and ringed with waterfalls.
 title: Hamilton
 type: location
+nature: 2.7
+leisure: 6.8
+adventure: 2.7
+city_culture: 7.5
+historic_culture: 7.5
 ---
 
 Hamilton is a mid-sized city at the western end of Lake Ontario, about an hour from Toronto. It built its identity on steel — Stelco and Dofasco still dominate the eastern waterfront — but has diversified considerably since the industry's decline, with a growing arts scene centred on [James Street North](/northamerica/canada/ontario/hamilton/james_street_north), and a revitalized downtown built around the [Art Gallery of Hamilton](/northamerica/canada/ontario/hamilton/art_gallery), the [Hamilton Farmers' Market](/northamerica/canada/ontario/hamilton/hamilton_farmers_market), and the cafes of [Locke Street](/northamerica/canada/ontario/hamilton/locke_street).

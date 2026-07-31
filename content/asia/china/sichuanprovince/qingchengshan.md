@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Qingchengshan-Dujiangyan_National_Park
 title: Qingcheng Mountain
 type: location
+nature: 5.5
+leisure: 5.8
+adventure: 4.1
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Qingcheng Mountain is one of the birthplaces of Taoism in China, a mist-covered range of forested foothills about 60 kilometres northwest of Chengdu where the religion's early institutional structures were established during the Han Dynasty. The combination of UNESCO World Heritage status — shared with the nearby Dujiangyan irrigation system — bamboo forest, Taoist and Buddhist temples climbing the slopes, and proximity to Chengdu makes it one of the most visited natural sites in Sichuan. Visit on a weekday if possible.

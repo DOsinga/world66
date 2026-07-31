@@ -14,6 +14,11 @@ snippet: Remote south-coast town in Western Australia, base for turquoise beache
   and Cape Le Grand National Park.
 title: Esperance
 type: location
+nature: 7.7
+leisure: 6.2
+adventure: 3.6
+city_culture: 1.7
+historic_culture: 1.7
 ---
 
 Esperance sits on the southern coast of Western Australia, a long way from anywhere — about 700 km southeast of Perth. The reward for getting here is some of the most beautiful coastline in the country. The beaches along the [Great Ocean Drive](/australiaandpacific/australia/westernaustralia/esperance/great_ocean_drive) are startlingly white, the water an intense, almost unreal turquoise, and in the right season you will have long stretches entirely to yourself.

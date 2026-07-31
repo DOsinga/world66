@@ -12,6 +12,11 @@ title: Xalapa
 type: location
 snippet: Veracruz university city in the misty highlands, home to Mexico's major Olmec
   sculpture collection.
+nature: 4.0
+leisure: 6.1
+adventure: 3.5
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Xalapa earns its nickname "the Athens of Veracruz" honestly. The capital of Veracruz state is a university town first and foremost, and the influence of the Universidad Veracruzana gives the city a cultural energy that far exceeds what you might expect from its size. The [Museo de Antropologia de Xalapa](/northamerica/mexico/xalapa/museo_antropologia) is the second most important anthropology museum in Mexico after the one in Mexico City, housing an extraordinary collection of Olmec colossal heads and Totonac sculptures in a beautifully designed modernist building. Do not skip it.

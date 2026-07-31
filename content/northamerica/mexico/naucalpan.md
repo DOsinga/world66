@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Torres_de_Sat%C3%A9lite
 title: Naucalpan
 type: location
+nature: 4.6
+leisure: 5.3
+adventure: 4.1
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Naucalpan de Juárez is one of the largest municipalities in the State of Mexico, sprawling across the northwestern edge of Mexico City's metropolitan area with a population approaching a million. It is primarily a residential and industrial satellite city, home to corporate offices, shopping malls, and the full spectrum of Mexican urban life from wealthy gated communities to working-class neighborhoods climbing the surrounding hills.

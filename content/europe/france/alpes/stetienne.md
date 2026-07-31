@@ -14,6 +14,11 @@ sources:
 - https://en.wikipedia.org/wiki/Stade_Geoffroy-Guichard
 title: Saint-Étienne
 type: location
+nature: 6.0
+leisure: 6.0
+adventure: 3.9
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 Saint-Étienne is a former industrial city in the Loire valley, about 60 km southwest of [Lyon](/europe/france/alpes/lyon). It built its wealth on coal, steel, and arms manufacturing — the city once produced weapons for Napoleon's armies — and the traces of that past are everywhere, from the grid of workers' terraces to the great factory sheds now repurposed as cultural spaces.

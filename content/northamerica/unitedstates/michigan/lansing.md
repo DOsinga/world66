@@ -16,6 +16,11 @@ snippet: Michigan state capital built around a 19th-century capitol, with a stro
   civic and university character.
 title: Lansing
 type: location
+nature: 3.7
+leisure: 4.5
+adventure: 4.5
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Lansing became Michigan's state capital in 1847 almost by accident. The legislature wanted a seat of government far from the Canadian border, away from [Detroit](/northamerica/unitedstates/michigan/detroit) and its perceived vulnerability. They picked a tiny settlement in the woods of Ingham County, and a capital city grew up around the decision.

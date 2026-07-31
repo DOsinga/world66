@@ -16,6 +16,11 @@ type: location
 score: 7.38
 snippet: Ethiopian national park in the Rift Valley, centered on volcanic landscapes,
   hot springs, and the Awash River.
+nature: 9.0
+leisure: 3.7
+adventure: 6.0
+city_culture: 1.1
+historic_culture: 1.1
 ---
 
 Awash National Park is Ethiopia's classic Rift Valley park: acacia scrub, dry savanna, volcanic rock, hot springs, and the Awash River dropping into a gorge before pushing east toward the Afar lowlands. It is much easier to reach than the country's remote parks, sitting on the Addis Ababa-Dire Dawa road, but it still feels properly wild once you leave the highway behind.

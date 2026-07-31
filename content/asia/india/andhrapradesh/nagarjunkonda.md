@@ -14,6 +14,11 @@ snippet: Island archaeological site in Nagarjuna Sagar reservoir, preserving maj
   South Indian Buddhist remains.
 title: Nagarjunakonda
 type: location
+nature: 2.8
+leisure: 4.4
+adventure: 5.2
+city_culture: 8.0
+historic_culture: 8.0
 ---
 
 Nagarjunakonda is an island archaeological site in Nagarjuna Sagar reservoir, about 150 km southeast of Hyderabad in Andhra Pradesh. It preserves the remains of one of the most important Buddhist centres in South India, dating primarily from the 2nd century BC to the 9th century AD.

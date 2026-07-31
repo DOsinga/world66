@@ -10,6 +10,11 @@ snippet: Silver boomtown on Nevada's Comstock Lode, with Victorian boardwalks an
   Mark Twain history.
 title: Virginia City
 type: location
+nature: 3.5
+leisure: 5.6
+adventure: 4.0
+city_culture: 7.0
+historic_culture: 7.0
 ---
 
 Virginia City is the best-preserved silver boomtown in North America and a National Historic Landmark. The Comstock Lode — a vast silver deposit discovered in 1859 on this hillside east of [Carson City](/northamerica/unitedstates/nevada/carsoncity) — produced over $700 million in ore and briefly made Nevada one of the richest places on earth. The mines financed a significant portion of the Union side in the Civil War, and at its peak Virginia City was a serious metropolis: theatres, newspapers, stock exchanges, and more millionaires per block than San Francisco. Mark Twain worked here in the early 1860s for the Territorial Enterprise newspaper, and it was in Virginia City that he first signed his work "Mark Twain."

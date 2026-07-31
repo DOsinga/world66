@@ -14,6 +14,11 @@ title: Newport
 type: location
 snippet: Central Oregon Coast fishing port and beach town, anchored by Yaquina Bay
   and a major aquarium.
+nature: 5.6
+leisure: 6.6
+adventure: 3.0
+city_culture: 3.7
+historic_culture: 3.7
 ---
 
 Newport is the working heart of the central Oregon coast — a town that manages to be both a fishing port and a popular beach destination without feeling like it is trying too hard at either. The [Bayfront](/northamerica/unitedstates/oregon/newport/bayfront) district along Yaquina Bay is the best part: a row of seafood restaurants, chowder houses, and galleries built on the docks where fishing boats and sea lions compete for space.

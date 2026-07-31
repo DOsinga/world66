@@ -13,6 +13,11 @@ snippet: Small Wimmera wheat-belt town in remote northwest Victoria, gateway to 
   National Park.
 title: Rainbow
 type: location
+nature: 5.2
+leisure: 3.4
+adventure: 5.7
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Rainbow is a small wheat-belt town in Victoria's remote northwest Wimmera region, sitting on the edge of vast golden plains about 365 kilometres from Melbourne. It's a genuine outback town with a strong agricultural character, and a useful gateway to the nearby [Wyperfeld National Park](/australiaandpacific/australia/victoria/rainbow/wyperfeld_national_park).

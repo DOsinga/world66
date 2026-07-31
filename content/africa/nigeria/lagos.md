@@ -16,6 +16,11 @@ snippet: Nigeria's largest city sprawls across islands and lagoons, with strong 
   film, food, and market cultures.
 title: Lagos
 type: location
+nature: 4.3
+leisure: 3.0
+adventure: 7.0
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Lagos is one of the fastest-growing cities in the world — some 21 million people now, give or take a few million nobody is sure about — and easily the most exhausting. It sprawls across islands and lagoons at the mouth of the Ogun River, a commercial engine that runs on traffic jams, generator fumes, Nollywood, and Afrobeats. You do not come here for ease. You come because it is the closest thing Africa has to a New York, and because the energy, music, food, and hustle of the place are unlike anywhere else.

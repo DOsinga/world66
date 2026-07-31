@@ -14,6 +14,11 @@ title: Mt Longonot National Park
 type: location
 snippet: Great Rift Valley volcano park with a steep crater-rim hike above a forested
   caldera.
+nature: 8.5
+leisure: 5.0
+adventure: 4.8
+city_culture: 1.3
+historic_culture: 1.3
 ---
 
 Mt Longonot is a dormant stratovolcano rising to 2,886 m above the floor of the Great Rift Valley, about 60 km northwest of Nairobi. The [hike to the crater rim](/africa/kenya/nationalparksandreserves/longonotnp/summit_climb) takes less than an hour, and the full rim circuit adds another two to three hours — with sweeping views across the Rift Valley on one side and straight down into the steep, forested crater on the other. It is one of the most satisfying day hikes in Kenya.

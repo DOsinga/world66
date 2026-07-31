@@ -14,6 +14,11 @@ snippet: Lake Malawi beach village backed by granite hills and protected waters 
   with cichlid fish.
 title: Cape Maclear
 type: location
+nature: 8.4
+leisure: 5.2
+adventure: 4.8
+city_culture: 1.7
+historic_culture: 1.7
 ---
 
 Cape Maclear is Malawi's most famous backpacker beach, strung along a five-kilometre arc of sand on the southwestern shore of Lake Malawi. The lake here is at its most dramatic: crystal-clear, warm, and ringed by granite hills that tumble straight into the water. The National Park designation — [Lake Malawi National Park](/africa/malawi/capemaclear/lake_malawi_national_park), a UNESCO World Heritage Site — has kept development low-key, and the village that lines the beach remains a scatter of guesthouses, bar-restaurants, and fishing boats rather than a resort strip.

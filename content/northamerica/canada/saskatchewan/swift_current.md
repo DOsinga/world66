@@ -10,6 +10,11 @@ snippet: Prairie highway city on the Trans-Canada, known for Speedy Creek, Front
   Days, and Cypress Hills detours.
 title: Swift Current
 type: location
+nature: 4.7
+leisure: 4.6
+adventure: 4.4
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Sometimes called "Speedy Creek," Swift Current sits on the Trans-Canada Highway at the midpoint between [Regina](/northamerica/canada/saskatchewan/regina) and Medicine Hat, making it a natural stopping point when crossing the prairies. The city of about 16,000 has just enough to make a night's stay worthwhile — the [Art Gallery of Swift Current](/northamerica/canada/saskatchewan/swift_current/art_gallery), the [Swift Current Museum](/northamerica/canada/saskatchewan/swift_current/swift_current_museum) with its 72-million-year-old Tylosaur skeleton, and a walking trail along [Swift Current Creek through Riverside Park](/northamerica/canada/saskatchewan/swift_current/riverside_park).

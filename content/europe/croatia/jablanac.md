@@ -13,6 +13,11 @@ snippet: Small Adriatic village below the Velebit mountains, near ferries to Rab
   Zavratnica inlet.
 title: Jablanac
 type: location
+nature: 4.8
+leisure: 5.5
+adventure: 3.9
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Jablanac is a small coastal village on the Adriatic, tucked beneath the Velebit mountains on the mainland side of the Velebit Channel. It is the departure point for [ferries to Rab Island](/europe/croatia/jablanac/rab_ferry) and the nearest settlement to [Zavratnica](/europe/croatia/jablanac/zavratnica), a narrow inlet cutting 900 metres into the karst — one of the most dramatic natural features on the Croatian coast and part of the Northern Velebit National Park.

@@ -14,6 +14,11 @@ snippet: São Paulo interior town on the Jacaré-Pepira river, Brazil's rafting 
   canyoning adventure base.
 title: Brotas
 type: location
+nature: 5.5
+leisure: 6.1
+adventure: 3.5
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 Brotas is a small town in the interior of São Paulo state that has become Brazil's unofficial capital of adventure sports. The Jacaré-Pepira river, with its rapids and waterfalls cutting through the hills, makes for excellent rafting, canyoning, and kayaking. The surrounding countryside has zip lines, mountain biking, and horse trekking too.

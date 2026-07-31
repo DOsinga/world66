@@ -14,6 +14,11 @@ longitude: -4.559665
 score: 8.44
 title: Antequera
 type: location
+nature: 3.0
+leisure: 6.5
+adventure: 3.0
+city_culture: 7.4
+historic_culture: 7.4
 ---
 
 Antequera is near where the main road from Málaga to Granada leaves the Sevilla road after you have come right up the mountains from Málaga. Its bus links with Málaga are excellent and it may serve as an alternative first or last night if you are using Málaga airport. 

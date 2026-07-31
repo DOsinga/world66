@@ -15,6 +15,11 @@ title: Gaoua
 type: location
 snippet: Southwestern Burkina Faso town in Lobi country, known for soukala compounds
   and the Musée de Poni.
+nature: 5.4
+leisure: 2.0
+adventure: 7.3
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Gaoua is the capital of Poni Province in the far southwest of Burkina Faso, about 430 km from Ouagadougou and close to the borders with Ghana and Côte d'Ivoire. Most travellers who make the effort to get here come for one reason: the [Musée de Poni](/africa/burkinafaso/gaoua/musee_de_poni), one of the best ethnographic museums in West Africa. It is absolutely worth the journey.

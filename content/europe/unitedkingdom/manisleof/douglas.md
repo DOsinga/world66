@@ -10,6 +10,11 @@ snippet: Isle of Man capital wrapped around a bay, known for its Victorian prome
   and horse-drawn trams.
 title: Douglas
 type: location
+nature: 4.6
+leisure: 3.8
+adventure: 5.4
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Douglas is the capital of the Isle of Man and home to about a third of the island's population. It wraps around a wide bay on the east coast and is where most visitors arrive, either by ferry or from the airport a few miles to the south.

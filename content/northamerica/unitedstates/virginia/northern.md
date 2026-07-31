@@ -14,6 +14,11 @@ snippet: Potomac-side Virginia region of suburbs, historic towns, and Mount Vern
   just across from Washington DC.
 title: Northern Virginia
 type: location
+nature: 4.2
+leisure: 4.4
+adventure: 4.7
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Northern Virginia — "NoVA" to locals — is the sprawl of suburbs, historic towns, and edge cities across the Potomac from Washington DC. For visitors, it offers affordable accommodation within easy Metro reach of the capital, plus attractions of its own that rival anything on the National Mall.

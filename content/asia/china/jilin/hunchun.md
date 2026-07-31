@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Hunchun
 title: Hunchun
 type: location
+nature: 5.7
+leisure: 4.2
+adventure: 5.3
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Hunchun occupies one of the more unusual geographic positions of any city in China: it sits at the point where China, Russia, and North Korea converge, with North Korean territory a few kilometres to the southwest and the Russian border close to the east. This trilateral proximity gives the city its primary identity as a border trading hub and its most distinctive feature — signage in three languages, Chinese, Russian, and Korean, which appears throughout the city as a matter of practical necessity rather than symbolic gesture. Russian traders come here to buy Chinese goods, Korean-Chinese traders maintain family connections that complicate simple national narratives, and the whole place has the slightly vertiginous feel of somewhere that doesn't quite map onto any single country's version of normal.

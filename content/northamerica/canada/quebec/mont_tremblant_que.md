@@ -13,6 +13,11 @@ snippet: Laurentian resort town north of Montréal, built around eastern Canada'
   ski mountain.
 title: Mont-Tremblant
 type: location
+nature: 6.2
+leisure: 7.7
+adventure: 2.4
+city_culture: 2.7
+historic_culture: 2.7
 ---
 
 Mont-Tremblant is the best ski resort in eastern Canada and one of the top ten in North America. It sits in the Laurentian Mountains about 140km north of [Montréal](/northamerica/canada/quebec/montreal), an easy two-hour drive. The resort has grown from a small ski village into a full year-round destination, with a pedestrian village at the base of the mountain that fills with visitors in both winter and summer.

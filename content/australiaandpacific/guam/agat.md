@@ -14,6 +14,11 @@ snippet: Southwestern Guam village and 1944 landing beach, with War in the Pacif
   sites at Gaan Point.
 title: Agat
 type: location
+nature: 5.3
+leisure: 4.8
+adventure: 4.9
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Agat is a village on the southwestern coast of Guam, best known as one of the two landing beaches where US Marines came ashore in July 1944 during the Battle of Guam to retake the island from Japanese occupation. The War in the Pacific National Historical Park has a unit at Agat — [Gaan Point](/australiaandpacific/guam/agat/gaan_point) — where you can see a preserved tank and read about the assault. It is a quiet, sobering place with good views across the water.

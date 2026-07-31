@@ -14,6 +14,11 @@ snippet: Basilicata hill town of whitewashed houses perched above the eroded cla
   ravines of the calanchi
 title: Pisticci
 type: location
+nature: 4.1
+leisure: 4.6
+adventure: 4.6
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Pisticci is a hilltop town in [Basilicata](/europe/italy/basilicata), perched dramatically above the [calanchi](/europe/italy/basilicata/pisticci/calanchi_di_pisticci) — deeply eroded clay ravines that give the surrounding landscape a stark, lunar beauty. The town has a long history: it flourished under the Normans, and the old centre retains a tangle of narrow streets and white-washed houses.

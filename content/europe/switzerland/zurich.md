@@ -16,6 +16,11 @@ snippet: Switzerland’s largest city, set where the River Limmat leaves Lake Z�
   and shaped by finance and trade.
 title: Zurich
 type: location
+nature: 1.1
+leisure: 9.3
+adventure: 0.7
+city_culture: 8.3
+historic_culture: 8.3
 ---
 
 Zurich is Switzerland's largest city, wrapped around the northern tip of [Lake Zürich](/europe/switzerland/zurich/lake_zurich) and split by the River Limmat that drains it. Founded as a Roman customs post in 15 BC, the city still feels built around that job — a carefully run mercantile town that has been in the business of handling other people's money since Alfred Escher turned it into the country's financial engine in the 19th century. It is consistently rated one of the world's most livable cities, which is a polite way of saying very expensive, very clean, and very efficient.

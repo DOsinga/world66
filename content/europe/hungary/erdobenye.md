@@ -10,6 +10,11 @@ snippet: Tokaj-Hegyalja wine village in the Zemplén hills, with vineyards and c
   around the valley.
 title: Erdőbénye
 type: location
+nature: 4.9
+leisure: 4.7
+adventure: 4.5
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Erdőbénye is a small village of around 1,600 people tucked into a valley in the Zemplén hills, about 20 km north of [Tokaj](/europe/hungary/tokaj), deep in the Tokaj-Hegyalja wine region. Vineyards cover the surrounding slopes and [wine cellars](/europe/hungary/erdobenye/wine_cellars) honeycomb the hillsides — this is one of the production centres for the region's celebrated wines, and you can taste them at several cellars in the village itself.

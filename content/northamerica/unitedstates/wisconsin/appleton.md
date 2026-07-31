@@ -10,6 +10,11 @@ snippet: Fox River college city with Lawrence University, Houdini history, and a
   College Avenue.
 title: Appleton
 type: location
+nature: 4.1
+leisure: 4.6
+adventure: 4.4
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Appleton sits on the Fox River in the heart of northeast Wisconsin's Fox Cities, a cluster of communities that together make up one of the state's most livable metro areas. [Lawrence University](/northamerica/unitedstates/wisconsin/appleton/lawrence_university), a small liberal arts college with a well-regarded conservatory of music, gives the downtown an energy and cultural life you might not expect from a city this size. Appleton is also the birthplace of Harry Houdini, and the [History Museum at the Castle](/northamerica/unitedstates/wisconsin/appleton/history_museum_at_the_castle) keeps that connection very much alive with a substantial permanent exhibition.

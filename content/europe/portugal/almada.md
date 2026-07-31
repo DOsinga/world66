@@ -18,6 +18,11 @@ sources:
 - https://en.wikipedia.org/wiki/Costa_da_Caparica
 title: Almada
 type: location
+nature: 4.1
+leisure: 6.3
+adventure: 2.9
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Almada sits on the south bank of the Tagus estuary, directly across from [Lisbon](/europe/portugal/lisbon). Most visitors know it for the [Cristo Rei](/europe/portugal/almada/cristo_rei) statue — a 28-metre figure of Christ standing on a 75-metre pedestal, arms outstretched towards Lisbon, inspired by the Cristo Redentor in Rio de Janeiro. The viewing platform at the top offers one of the best panoramas of Lisbon, the Tagus, and the [Ponte 25 de Abril](/europe/portugal/almada/ponte_25_de_abril) suspension bridge stretching across the river below.

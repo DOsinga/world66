@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Nusa_Lembongan
 title: Nusa Lembongan
 type: location
+nature: 5.4
+leisure: 7.9
+adventure: 2.1
+city_culture: 3.2
+historic_culture: 3.2
 ---
 
 Nusa Lembongan is the gentler member of Bali's southeastern island trio. It sits between mainland [Bali](/asia/indonesia/bali) and wilder [Nusa Penida](/asia/indonesia/bali/nusapenida), close enough for a day trip from [Sanur](/asia/indonesia/bali/sanur) but better with at least one night. The island is small, dry, and low-slung, with lanes narrow enough to keep traffic slow and a coast that shifts from calm bays to wave-battered cliffs in minutes.

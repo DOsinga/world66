@@ -10,6 +10,11 @@ snippet: Maluku gateway city on Ambon Island, marked by spice-trade forts and ba
   diving.
 title: Ambon
 type: location
+nature: 5.3
+leisure: 4.5
+adventure: 5.2
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Ambon is the largest city in Maluku and the capital of South Maluku province, situated on the island of the same name in eastern Indonesia. Its transport connections — a busy airport, regular ferries, and fast boat services — make it the natural gateway to the wider Maluku archipelago.

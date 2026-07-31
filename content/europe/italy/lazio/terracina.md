@@ -13,6 +13,11 @@ title: Terracina
 type: location
 snippet: Coastal Lazio town where Roman ruins crown a beachside split between seaside
   promenade and hilltop old quarter.
+nature: 4.2
+leisure: 5.4
+adventure: 3.8
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Terracina is a coastal town in southern Lazio, halfway between Rome and Naples along the old Via Appia. It splits into two parts: a modern seaside town along the beach, and the atmospheric upper town (centro storico) built over ancient Roman ruins on the hillside above.

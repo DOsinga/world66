@@ -14,6 +14,11 @@ snippet: Tatarstan capital where Volga riverfront, Islamic minarets, and Russian
   domes share the skyline.
 title: Kazan
 type: location
+nature: 2.5
+leisure: 6.0
+adventure: 3.6
+city_culture: 8.2
+historic_culture: 8.2
 ---
 
 Kazan is the capital of the Republic of Tatarstan, set at the junction of the Volga and Kazanka rivers about 800 kilometres east of Moscow. Founded around 1005 AD, it was the capital of the Kazan Khanate before Ivan the Terrible conquered it in 1552. Today it is one of Russia's most interesting cities — a place where minarets and onion domes share the skyline and Tatar and Russian cultures have coexisted for centuries.

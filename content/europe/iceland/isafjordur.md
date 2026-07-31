@@ -14,6 +14,11 @@ snippet: Westfjords town on a narrow fjord spit, ringed by steep mountains and f
   harbours
 title: Isafjordur
 type: location
+nature: 7.5
+leisure: 4.7
+adventure: 5.1
+city_culture: 2.4
+historic_culture: 2.4
 ---
 
 Isafjordur is the largest town in Iceland's remote Westfjords and about as far off the beaten track as you can get without leaving paved roads entirely. With a population of around 2,600, it sits on a dramatic spit of land jutting into the [Skutulsfjörður](/europe/iceland/isafjordur/skutulsfjordur) fjord, hemmed in on all sides by steep mountains that catch the light in extraordinary ways during the long summer evenings.

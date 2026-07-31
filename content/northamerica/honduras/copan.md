@@ -13,6 +13,11 @@ snippet: Mayan archaeological city in western Honduras, celebrated for finely ca
   stelae and hieroglyphic stairways.
 title: Copán
 type: location
+nature: 3.5
+leisure: 4.0
+adventure: 5.7
+city_culture: 7.5
+historic_culture: 7.5
 ---
 
 Copán is one of the great Mayan cities, and arguably the most artistically accomplished. While [Tikal](/northamerica/guatemala/tikal) in Guatemala may be larger and [Chichén Itzá](/northamerica/mexico/chichenitza) more famous, Copán has the finest sculpture in the Mayan world: 21 stone [stelae](/northamerica/honduras/copan/great_plaza_stelae) carved with extraordinary detail, each a portrait monument to a ruling king. The [Hieroglyphic Stairway](/northamerica/honduras/copan/hieroglyphic_stairway) — the longest known Mayan inscription — is here too.

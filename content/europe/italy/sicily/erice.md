@@ -13,6 +13,11 @@ snippet: Medieval Sicilian hilltop village above Trapani, built on the ancient s
   of Venus Erycina.
 title: Erice
 type: location
+nature: 3.7
+leisure: 7.4
+adventure: 2.4
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Erice is a medieval hilltop village perched 750 metres above Trapani on Sicily's west coast. The views from the top are spectacular, stretching over Trapani, the salt flats, and on clear days all the way to the Egadi Islands and, with exceptional clarity, across to Tunisia.

@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/Santa_Ynez_Valley_AVA
 title: Santa Ynez
 type: location
+nature: 4.9
+leisure: 7.7
+adventure: 2.1
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 Santa Ynez is a small town of about 5,000 people in the Santa Ynez Valley, a long flat basin running east to west through Santa Barbara County, about 45 minutes north of Santa Barbara and three hours from Los Angeles. The valley is better known to most visitors than the town itself — it is one of California's premier wine regions, home to more than forty wineries, and was made internationally famous by the 2004 film *Sideways*.

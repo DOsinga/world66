@@ -16,6 +16,11 @@ title: Agrigento
 type: location
 snippet: Southern Sicilian town above the Valle dei Templi, one of the Mediterranean's
   great Greek sites.
+nature: 2.8
+leisure: 6.1
+adventure: 3.5
+city_culture: 7.8
+historic_culture: 7.8
 ---
 
 Agrigento is a small town on the south coast of Sicily. The beach is good and the small streets of the old town are charming, but what brings you here are the Greek temples just outside of town.

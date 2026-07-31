@@ -14,6 +14,11 @@ title: Cochabamba
 type: location
 snippet: Central Bolivian valley city known for its mild climate, markets, and reputation
   as the country's food capital.
+nature: 4.2
+leisure: 5.0
+adventure: 4.7
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Cochabamba sits in a broad valley in central Bolivia at around 2,500 metres — low enough that the climate is genuinely pleasant year-round, which is why locals call it the "City of Eternal Spring." It's Bolivia's third largest city and its gastronomic capital: Bolivians from La Paz and Santa Cruz make the trip just to eat here.

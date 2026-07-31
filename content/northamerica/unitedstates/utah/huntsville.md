@@ -10,6 +10,11 @@ longitude: -111.7691
 score: 6.42
 title: Huntsville
 type: location
+nature: 7.5
+leisure: 5.2
+adventure: 4.4
+city_culture: 1.9
+historic_culture: 1.9
 ---
 
 Situated in the beautiful Ogden Valley, Huntsville is one of those small Utah towns that punches well above its size. The valley is ringed by mountains and three ski resorts — most notably [Snowbasin](/northamerica/unitedstates/utah/huntsville/snowbasin_ski_resort), which hosted the 2002 Olympic downhill events. [Pineview Reservoir](/northamerica/unitedstates/utah/huntsville/pineview_reservoir) provides boating, fishing, and camping through the summer months. The [Trappist monastery](/northamerica/unitedstates/utah/huntsville/abbey_of_our_lady_of_the_holy_trinity) at the north end of town is a place for solitude and reflection, and sells excellent honey and granola from its gift shop. The [Shooting Star Saloon](/northamerica/unitedstates/utah/huntsville/shooting_star_saloon), open since 1879, is Utah's oldest continuously operating bar and a fine place to get a famous Star Burger.

@@ -14,6 +14,11 @@ title: Mardakan
 type: location
 snippet: Absheron Peninsula town near Baku, known for medieval fortresses and Caspian
   summer houses.
+nature: 5.3
+leisure: 3.9
+adventure: 5.7
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Mardakan is a small town on the Absheron Peninsula, about 30 km north-east of [Baku](/europe/azerbaijan/baku). Named after the ancient tribe of the Mards, it sits among flat-roofed houses and old mansions — many now converted into sanatoria. In summer, Baku residents flock here to escape the city heat, renting dachas and spending long weekends by the Caspian shore.

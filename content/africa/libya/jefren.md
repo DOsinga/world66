@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/Qasr_al-Hajj
 title: Jefren
 type: location
+nature: 6.5
+leisure: 0.9
+adventure: 9.0
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 Jefren, more often written Yafran or Yefren, is a mountain town in western Libya's Nafusa range. It is part of the Amazigh-speaking highlands south-west of [Tripoli](/africa/libya/tripoli), where the air is cooler, the roads climb sharply, and the landscape feels very different from the coastal plain.

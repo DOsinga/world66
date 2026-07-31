@@ -10,6 +10,11 @@ snippet: Western Romanian city on the Mures River, with Austro-Hungarian bouleva
   and the Arad Fortress.
 title: Arad
 type: location
+nature: 4.0
+leisure: 5.3
+adventure: 4.0
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Arad is a handsome city on the Mures River in western Romania, just 50 km from the Hungarian border. It was one of the most prosperous cities of the Austro-Hungarian Empire, and the centre still shows it: wide boulevards lined with Secessionist, Baroque, and Neoclassical facades that rival anything in [Timisoara](/europe/romania/timisoara) or [Budapest](/europe/hungary/budapest).

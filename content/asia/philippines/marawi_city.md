@@ -14,6 +14,11 @@ snippet: Maranao cultural city on Lake Lanao, known as the Philippines' predomin
   Muslim Islamic City.
 title: Marawi City
 type: location
+nature: 4.1
+leisure: 3.0
+adventure: 6.5
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Marawi City sits on the northern shore of [Lake Lanao](/asia/philippines/marawi_city/lake_lanao), the largest lake in Mindanao and one of the oldest in the world. As the capital of Lanao del Sur province, it serves as the cultural heart of the Maranao people and is sometimes called the Islamic City of Marawi — the only city in the Philippines with a predominantly Muslim population.

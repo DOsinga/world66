@@ -14,6 +14,11 @@ snippet: Moroccan Atlantic lagoon town known for calm tidal waters, oysters, and
   shallows.
 title: Oualidia
 type: location
+nature: 5.1
+leisure: 5.4
+adventure: 4.4
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Oualidia is a small lagoon town on the Atlantic coast, midway between [El Jadida](/africa/morocco/eljadida) and [Safi](/africa/morocco/safi). A narrow strip of land separates a calm, sheltered lagoon from the open ocean, and this geography is the whole point of the place: the lagoon is warm enough to swim in when the Atlantic would knock you flat, and its tidal channels have been growing oysters since the 1950s.

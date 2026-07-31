@@ -14,6 +14,11 @@ snippet: Galician Camino town where pilgrimage routes converge amid pulpo halls 
   traditional pastry ovens.
 title: Melide
 type: location
+nature: 3.8
+leisure: 6.7
+adventure: 2.7
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Melide is a small Galician town where two routes of the Camino de Santiago — the French Way and the Primitive Way — converge. Most pilgrims pass through on their way to Santiago de Compostela, about 50 kilometres further west, and the town has grown a lively hospitality scene around them.

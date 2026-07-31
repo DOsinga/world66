@@ -15,6 +15,11 @@ snippet: Canadian capital on the Ottawa River, mixing Parliament Hill, national 
   and canal-side winter life.
 title: Ottawa
 type: location
+nature: 2.5
+leisure: 7.1
+adventure: 2.6
+city_culture: 7.7
+historic_culture: 7.7
 ---
 
 Ottawa is Canada's capital, and one of the most underrated cities in North America. It is smaller and quieter than Toronto or Montreal, but it punches well above its weight: the seat of government, the country's best collection of national museums, and a setting of rivers, canals and parkland that makes the city itself a pleasure to walk through.

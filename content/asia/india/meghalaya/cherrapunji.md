@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Cherrapunji
 title: Cherrapunji
 type: location
+nature: 8.3
+leisure: 4.0
+adventure: 5.7
+city_culture: 2.0
+historic_culture: 2.0
 ---
 
 Cherrapunji (also known as Sohra) holds the record for the world's highest annual rainfall — over 11,000 mm in a typical year, with a single-year record of 22,987 mm. Despite being in [Meghalaya](/asia/india/meghalaya) rather than Assam proper, it is easily visited from Guwahati and frequently included in trips to the northeast.

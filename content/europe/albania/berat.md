@@ -13,6 +13,11 @@ snippet: Ottoman hillside town in Albania, famed for stacked white houses overlo
   the Osum valley.
 title: Berat
 type: location
+nature: 4.0
+leisure: 3.4
+adventure: 6.1
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Berat is one of the most beautiful towns in Albania and, with [Gjirokastër](/europe/albania/gjirokaster), is a UNESCO World Heritage Site for its remarkably well-preserved Ottoman architecture. The nickname "town of a thousand windows" refers to the distinctive Ottoman-era houses of the [Mangalem](/europe/albania/berat/mangalem) quarter, stacked up the hillside in tight rows, each with rows of large windows looking out over the Osum river valley.

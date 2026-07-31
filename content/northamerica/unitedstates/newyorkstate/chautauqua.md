@@ -14,6 +14,11 @@ image: chautauqua.jpg
 image_source: https://commons.wikimedia.org/wiki/File:AthenaeumHotel.jpg
 image_license: Public domain
 image_attribution: Teresa Mitchell, Seaway Trail; color-corrected by Howcheng.
+nature: 4.1
+leisure: 6.1
+adventure: 3.2
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Chautauqua is unlike anywhere else in the United States. Tucked into the southwestern corner of New York State near Lake Erie, it is a gated community built entirely around the life of the mind — a place where lectures, concerts, opera, and religious debate have been the main attractions since 1874.

@@ -10,6 +10,11 @@ title: Nguigmi
 snippet: Dusty eastern Niger frontier town at the end of the road toward Chad and
   Lake Chad
 type: location
+nature: 8.0
+leisure: 0.8
+adventure: 8.8
+city_culture: 2.7
+historic_culture: 2.7
 ---
 
 N’Guigmi sits at the farthest reach of eastern Niger, the last town on the road to Chad, 925 km from Niamey. It is a grey, dusty frontier outpost that feels very much like the end of the road — because it is. The area is primarily populated by nomadic Kanuri and Toubou peoples, and the [camel market](/africa/niger/nguigmi/camel_market) to the south does a substantial trade in livestock and in the distinctive leather and metalwork — sharp knives in colourful red scabbards — that the Toubou are known for.

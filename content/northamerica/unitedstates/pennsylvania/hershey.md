@@ -16,6 +16,11 @@ snippet: Pennsylvania chocolate town built by Milton Hershey, with cocoa-scented
   and lampposts shaped like Kisses.
 title: Hershey
 type: location
+nature: 4.0
+leisure: 5.7
+adventure: 3.5
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Hershey is the town that chocolate built. Milton S. Hershey founded both the chocolate company and the town itself, and the scent of cocoa still drifts through the streets. Even the lampposts are shaped like Hershey Kisses.

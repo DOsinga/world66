@@ -10,6 +10,11 @@ snippet: Historic Massachusetts coastal town where the Pilgrim colony began besi
   Plymouth Rock and the Mayflower story.
 title: Plymouth
 type: location
+nature: 3.3
+leisure: 6.5
+adventure: 2.8
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Plymouth was one of the first European settlements in North America, settled by the Pilgrims in 1620. After a perilous crossing of the Atlantic on the *Mayflower* and a cold first few winters, the colony began to flourish and became the template for the settlements that followed. About an hour south of [Boston](/northamerica/unitedstates/massachusetts/boston) by car or MBTA Commuter Rail, it makes a very good day trip — or a short overnight if you want to take Plimoth Patuxent at a slower pace.

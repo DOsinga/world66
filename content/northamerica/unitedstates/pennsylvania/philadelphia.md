@@ -16,6 +16,11 @@ snippet: Historic American city on the Delaware, central to the Revolution and r
   in neighbourhood culture.
 title: Philadelphia
 type: location
+nature: 1.9
+leisure: 7.3
+adventure: 2.3
+city_culture: 8.4
+historic_culture: 8.4
 ---
 
 Philadelphia, the largest city in Pennsylvania and fifth largest in the country, is located in the southeast part of the state at the junction of the Schuylkill and Delaware Rivers. It is coextensive with Philadelphia County. 

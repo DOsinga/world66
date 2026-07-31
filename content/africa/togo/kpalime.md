@@ -14,6 +14,11 @@ snippet: Western Togolese hill town surrounded by coffee country, waterfalls, fo
   walks, and artisan workshops
 title: Kpalimé
 type: location
+nature: 5.2
+leisure: 3.7
+adventure: 5.9
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Kpalimé sits in the coffee and cocoa-growing hills of western Togo, about two hours northwest of [Lomé](/africa/togo/lome). The surrounding landscape is the greenest and most scenic in the country — lush hills, waterfalls, and dense vegetation that feels a world away from the dry Sahelian north.

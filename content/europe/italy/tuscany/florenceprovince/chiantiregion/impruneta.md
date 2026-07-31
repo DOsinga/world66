@@ -13,6 +13,11 @@ snippet: Chianti hill town south of Florence, long known for red terracotta tile
   pots, and kilns.
 title: Impruneta
 type: location
+nature: 2.5
+leisure: 8.0
+adventure: 1.7
+city_culture: 7.1
+historic_culture: 7.1
 ---
 
 Impruneta is a small town in the Chianti hills, just 13 km south of [Florence](/europe/italy/tuscany/florence). It has been famous for centuries for its [terracotta](/europe/italy/tuscany/florenceprovince/chiantiregion/impruneta/terracotta_workshops) — the distinctive red clay tiles and pots that you see across Tuscany are often made here. The town's kilns have been firing since at least the Renaissance, when Brunelleschi reportedly sourced tiles from Impruneta for the dome of Florence cathedral.

@@ -15,6 +15,11 @@ title: Riga
 type: location
 snippet: Latvian capital with a UNESCO-listed Old Town, Art Nouveau streets, and zeppelin-hangar
   market halls.
+nature: 3.3
+leisure: 5.9
+adventure: 3.6
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Riga is the capital of Latvia and home to around a third of the country's population — a concentration that makes it the undisputed centre of Latvian life. It's one of the most architecturally impressive cities in the Baltic region, and for most visitors it's the reason to come to Latvia in the first place.

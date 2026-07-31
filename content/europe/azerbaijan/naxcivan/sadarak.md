@@ -10,6 +10,11 @@ snippet: Nakhchivan border town near Armenia and Turkey, marked by its fortress 
   frontier railway history
 title: Sadarak
 type: location
+nature: 5.6
+leisure: 1.7
+adventure: 7.5
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Sadarak sits near the point where [Armenia](/europe/armenia), [Turkey](/asia/turkey) and [Nakhchivan](/europe/azerbaijan/naxcivan) converge, just a few kilometres from [Iran](/asia/iran) — a crossroads that has brought the town more trouble than benefit over the centuries.

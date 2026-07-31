@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/Limbe,_Cameroon
 title: Limbe
 type: location
+nature: 6.8
+leisure: 3.4
+adventure: 6.3
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 Limbe is a beach town on Cameroon's Atlantic coast, about an hour by road from [Douala](/africa/cameroon/douala). It fills up at weekends with city dwellers escaping the heat and traffic, but during the week it is a relaxed, low-key place.

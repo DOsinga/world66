@@ -13,6 +13,11 @@ sources:
 - https://en.wikipedia.org/wiki/Indiana_Dunes_State_Park
 title: Porter
 type: location
+nature: 4.5
+leisure: 4.0
+adventure: 5.0
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Porter is a small town on the southern shore of Lake Michigan, about 50 miles southeast of Chicago. Its main claim to interest is its location inside [Indiana Dunes National Park](/northamerica/unitedstates/indiana/porter/indiana_dunes_national_park), which stretches for 25 miles along the lakeshore.

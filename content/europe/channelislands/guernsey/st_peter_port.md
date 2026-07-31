@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Hauteville_House
 title: St Peter Port
 type: location
+nature: 4.7
+leisure: 6.9
+adventure: 2.8
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 St Peter Port is one of the most handsome harbour towns in the British Isles. The capital of Guernsey climbs steeply from a working waterfront lined with yachts and ferry terminals, its lanes of granite townhouses rising toward Castle Cornet, a medieval fortress that has guarded the harbour since the 13th century. Stand on the quayside on a clear day and the French coast is visible on the horizon.

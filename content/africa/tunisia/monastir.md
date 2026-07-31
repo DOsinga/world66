@@ -14,6 +14,11 @@ snippet: Eastern Tunisian coastal resort town with beaches, a historic ribat, an
   a seafront peninsula.
 title: Monastir
 type: location
+nature: 4.1
+leisure: 4.9
+adventure: 4.7
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Monastir is a coastal resort town in eastern Tunisia that manages to combine beach holiday infrastructure with a genuinely historic core. The town occupies a small peninsula with sea on three sides, and at its tip stands the [Ribat of Monastir](/africa/tunisia/monastir/ribat), an 8th-century fortified Islamic monastery that is one of the finest surviving examples of ribat architecture in North Africa.

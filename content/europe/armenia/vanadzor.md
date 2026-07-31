@@ -14,6 +14,11 @@ longitude: 44.482104
 score: 6.37
 title: Vanadzor
 type: location
+nature: 5.3
+leisure: 3.7
+adventure: 5.9
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Armenia's third-largest city sits in a valley where three rivers meet, surrounded by the forested mountains of Lori province. Vanadzor itself is a quiet Soviet-era city without major sights of its own, but it is a terrific base for exploring one of Armenia's most beautiful regions — pristine forests, deep gorges, and long-forgotten Bronze Age, Byzantine, and medieval ruins scattered through the hills.

@@ -11,6 +11,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Para%C3%B1aque
 title: Parañaque
 type: location
+nature: 4.5
+leisure: 3.3
+adventure: 5.9
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Parañaque sits in the southern part of Metro Manila, wedged between the airport and the coast. Most travelers pass through it on the way somewhere else, sitting in traffic on the roads fanning out from Ninoy Aquino International Airport. The city deserves more than that reputation.

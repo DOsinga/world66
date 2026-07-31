@@ -14,6 +14,11 @@ snippet: West Bengal coalfield city and railway junction, long shaped by its bla
   diamond industry.
 title: Asansol
 type: location
+nature: 4.3
+leisure: 3.3
+adventure: 5.8
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Asansol is West Bengal's second-largest city, in the Chota Nagpur coalfields about 200 km northwest of Kolkata. It grew in the 19th century as the British developed the coal seams of the Burdwan district — coal remains the city's defining industry, which locals sometimes call "black diamond." The city has [one of the oldest railway stations](/asia/india/westbengal/asansol/asansol_railway_station) in the state, still an important junction on the Howrah-Delhi main line.

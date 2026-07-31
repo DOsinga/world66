@@ -10,6 +10,11 @@ snippet: Andalucía's white hill-town region, where castle-topped villages sit a
   rolling green landscapes.
 title: White Villages
 type: location
+nature: 4.1
+leisure: 6.9
+adventure: 2.9
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 The pueblos blancos — the white hill towns of Andalucia — and the landscapes surrounding them are among the most spectacular sights in southern Spain. They lie within the triangle formed by the Atlantic coast (the Costa de la Luz) and the Mediterranean (the Costa del Sol) to the south and the Sierra de Algodonales to the north.

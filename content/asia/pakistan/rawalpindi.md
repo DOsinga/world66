@@ -10,6 +10,11 @@ snippet: Old Punjabi twin city of Islamabad, known as Pindi for its crowded baza
   and lively trading streets.
 title: Rawalpindi
 type: location
+nature: 3.6
+leisure: 4.1
+adventure: 5.6
+city_culture: 7.0
+historic_culture: 7.0
 ---
 
 Pindi, as Rawalpindi is referred to by most travelers, is quite different from its twin sister Islamabad. Where Islamabad is modern and clean, Pindi is old and pretty dirty, but also a lot of fun.

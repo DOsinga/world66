@@ -12,6 +12,11 @@ snippet: New England harbour town of yachts, twisting lanes, and Georgian houses
   on fishing wealth
 title: Marblehead
 type: location
+nature: 4.1
+leisure: 5.9
+adventure: 3.4
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Founded in 1649 by fishermen from the Channel Islands, Marblehead is one of the most beautiful coastal towns in New England. The Old Town seems to tumble down to the long harbour, which is filled with yachts and ringed with estates and yacht clubs.

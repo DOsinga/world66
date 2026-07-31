@@ -14,6 +14,11 @@ snippet: Rain-soaked West Coast district where rainforest and rare low-altitude 
   meet the Southern Alps
 title: Westland
 type: location
+nature: 6.6
+leisure: 4.5
+adventure: 4.9
+city_culture: 3.0
+historic_culture: 3.0
 ---
 
 Westland is the southern part of the [West Coast](/australiaandpacific/newzealand/south_island/west_coast), a narrow ribbon of land where the Southern Alps rise almost straight out of the Tasman Sea. The steep mountains force warm moist winds upward, dropping enormous amounts of rain that feed dense rainforests, glacier-fed lakes and rivers, and the occasional swamp.

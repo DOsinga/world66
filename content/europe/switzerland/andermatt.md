@@ -13,6 +13,11 @@ score: 8.29
 snippet: Swiss Alpine resort at the meeting of the Gotthard, Oberalp, and Furka passes.
 title: Andermatt
 type: location
+nature: 5.4
+leisure: 7.4
+adventure: 2.6
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 Andermatt sits at the crossroads of the Swiss Alps, where the Gotthard, Oberalp, and Furka passes meet in the Urseren Valley. For centuries it was a transit point on the route between northern and southern Europe — the old mule track over the Gotthard is still walkable — and that central position now makes it one of the most accessible mountain resorts in Switzerland.

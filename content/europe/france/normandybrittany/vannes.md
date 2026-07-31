@@ -13,6 +13,11 @@ snippet: Breton medieval port with ramparts, half-timbered lanes, and boats into
   Gulf of Morbihan
 title: Vannes
 type: location
+nature: 3.1
+leisure: 6.9
+adventure: 2.5
+city_culture: 7.1
+historic_culture: 7.1
 ---
 
 Vannes is one of the best-preserved medieval towns in Brittany, ringed by [ramparts](/europe/france/normandybrittany/vannes/remparts) that drop down to formal gardens along the river Marle. The old town inside the walls is a tangle of half-timbered houses, cobbled lanes, and small squares, centred on the [Cathédrale Saint-Pierre](/europe/france/normandybrittany/vannes/cathedrale_saint_pierre) with its mix of Romanesque and Gothic stonework.

@@ -10,6 +10,11 @@ score: 7.49
 loc_type: city
 snippet: Wisconsin capital and university city squeezed onto an isthmus between two
   lakes.
+nature: 3.8
+leisure: 5.9
+adventure: 3.3
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Madison is the capital of Wisconsin and the most pleasant small city in the upper Midwest — a university town of about 270,000 people squeezed onto a narrow **isthmus** between two lakes, with the [Wisconsin State Capitol](/northamerica/unitedstates/wisconsin/madison/wisconsin_state_capitol) at one end and the University of Wisconsin at the other. The whole of downtown fits on the isthmus, which makes it unusually walkable, and [State Street](/northamerica/unitedstates/wisconsin/madison/state_street), the pedestrianised mile that links the Capitol to the University, is one of the nicest downtown streets in America — a continuous run of bookshops, coffee places, student bars, ice-cream parlours and live-music venues.

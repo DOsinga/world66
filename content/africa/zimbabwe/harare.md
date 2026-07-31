@@ -12,6 +12,11 @@ snippet: Highland capital of Zimbabwe, with jacaranda avenues, Shona sculpture, 
   central-plateau ease.
 title: Harare
 type: location
+nature: 4.6
+leisure: 2.6
+adventure: 6.9
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Harare is Zimbabwe’s capital and largest city, set at about 1,500 metres on the central plateau. It has been through very difficult times — hyperinflation, political repression, economic collapse — and the city shows the scars. But it remains a surprisingly green and pleasant place, with wide tree-lined avenues, parks, and a more relaxed atmosphere than you might expect.

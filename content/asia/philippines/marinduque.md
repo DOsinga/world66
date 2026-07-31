@@ -14,6 +14,11 @@ snippet: Heart-shaped Philippine island of fishing villages, quiet beaches, and 
   masked Moriones Holy Week festival.
 title: Marinduque
 type: location
+nature: 5.6
+leisure: 5.2
+adventure: 4.5
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 Marinduque is a heart-shaped island in the middle of the Philippine archipelago, small enough to motorcycle around in a day and quiet enough that you might have a beach to yourself on a weekday. It sits between Luzon and Mindoro, reached by ferry from Lucena, and draws only a fraction of the visitors that nearby destinations attract.

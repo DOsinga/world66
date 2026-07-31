@@ -16,6 +16,11 @@ snippet: Compact Goan capital with Portuguese-era lanes in Fontainhas and Mandov
   estuary views.
 title: Panaji
 type: location
+nature: 2.6
+leisure: 7.3
+adventure: 2.5
+city_culture: 7.3
+historic_culture: 7.3
 ---
 
 Panaji (formerly Panjim) is the capital of Goa, a small and manageable town overlooked by the Altinho hill to the south. It lacks the grand monuments of Old Goa a few kilometres upriver, but has a relaxed charm of its own — particularly in the old Latin Quarter of Fontainhas, where narrow lanes wind between colourful Portuguese-era houses with tiled roofs and wrought-iron balconies.

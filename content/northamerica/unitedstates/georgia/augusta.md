@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/Augusta,_Georgia
 title: Augusta
 type: location
+nature: 3.2
+leisure: 6.8
+adventure: 2.4
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Augusta is best known internationally for the Masters golf tournament, held every April at the Augusta National Golf Club. During Masters week the city fills up completely and prices spike enormously; book months in advance if you're coming for the tournament. For the other 51 weeks, Augusta National is closed to the public — you can drive past on Washington Road, but there's no access.

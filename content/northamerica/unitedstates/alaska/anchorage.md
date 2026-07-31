@@ -14,6 +14,11 @@ snippet: Alaskan gateway city between Cook Inlet and the Chugach Mountains, with
   close to downtown.
 title: Anchorage
 type: location
+nature: 6.3
+leisure: 6.0
+adventure: 3.9
+city_culture: 3.6
+historic_culture: 3.6
 ---
 
 Anchorage is Alaska's largest city and the gateway to most of the state's wilderness. It sits between Cook Inlet to the west and the Chugach Mountains to the east, with Denali visible on clear days 130 miles to the north. About 40 percent of Alaska's entire population lives here.

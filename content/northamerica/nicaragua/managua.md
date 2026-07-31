@@ -14,6 +14,11 @@ snippet: Low-rise Nicaraguan capital on Lake Managua, reshaped by the 1972 earth
   and rough urban energy.
 title: Managua
 type: location
+nature: 4.3
+leisure: 3.9
+adventure: 5.6
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Managua is the capital of [Nicaragua](/northamerica/nicaragua), a sprawling, low-rise city of about a million people on the shores of Lake Managua. The devastating earthquake of 1972 destroyed much of the old centre, and the reconstruction that followed never quite brought it back — the city lacks the colonial charm of [Granada](/northamerica/nicaragua/granada) or [Leon](/northamerica/nicaragua/len). But Managua has its own rough energy, and most travellers pass through at least briefly.

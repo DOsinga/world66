@@ -14,6 +14,11 @@ snippet: Compact harbour capital wedged between forested hills, wild coast, parl
   cafes, and relentless wind
 title: Wellington
 type: location
+nature: 3.9
+leisure: 6.6
+adventure: 3.0
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Wellington is the southernmost capital in the world, wedged between a deep harbour and a ring of forested hills. It is a compact, walkable city where you can go from [parliament](/australiaandpacific/newzealand/north_island/greater_wellington/wellington/beehive) to a wild south coast beach in twenty minutes. The wind is relentless — Wellingtonians will tell you that with a mix of pride and resignation.

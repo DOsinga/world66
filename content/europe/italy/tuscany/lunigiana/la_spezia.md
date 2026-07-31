@@ -12,6 +12,11 @@ title: La Spezia
 type: location
 snippet: Ligurian naval city and Cinque Terre gateway, with palm-lined seafront gardens
   and old-town lanes.
+nature: 4.3
+leisure: 5.8
+adventure: 3.9
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 La Spezia is best known as a naval base and a jumping-off point for the Cinque Terre, but the city itself deserves more than a passing glance. Exotic palm-studded gardens line the seafront before giving way to the airy shaded arcades of Via Chiodo and the wide nineteenth-century avenues. The classical architecture feels almost Parisian in places, then gives way abruptly to the narrow lanes of the old town centre, now a pleasant pedestrian area.

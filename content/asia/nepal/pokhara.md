@@ -16,6 +16,11 @@ title: Pokhara
 type: location
 snippet: Lakeside Nepali adventure city beneath the Annapurnas, base for treks, paragliding,
   and Phewa Lake days.
+nature: 5.6
+leisure: 7.6
+adventure: 2.6
+city_culture: 3.6
+historic_culture: 3.6
 ---
 
 If Kathmandu is Nepal's cultural hub, Pokhara is its centre of adventure. The country's second city spreads along the shore of [Phewa Lake](/asia/nepal/pokhara/phewa_lake) in a tranquil valley ringed by forested hills, with the snow wall of the **Annapurnas** and the perfect fish-tail summit of **Machhapuchhre** (6,993 m) rising improbably behind, seemingly close enough to touch. It is one of the most beautiful settings of any town on earth.

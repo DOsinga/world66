@@ -15,6 +15,11 @@ type: location
 score: 6.98
 snippet: Small Qinghai city visited for Kumbum Monastery, a major Gelugpa centre near
   Xining.
+nature: 6.0
+leisure: 4.7
+adventure: 5.0
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 Huangzhong is a small city 28 kilometres southwest of Xining, visited almost entirely for one reason: the [Kumbum Monastery](/asia/china/qinghai/huangzhong/kumbum-monastery), known in Tibetan as Kumbum Jampa Ling and in Chinese as Ta'er Si. The monastery was built in 1583 on the site of a sacred tree that is said to have sprung from a drop of blood when Tsongkhapa — the founder of the Gelug school of Tibetan Buddhism — was born here in 1357. It is now one of the largest and most influential monasteries in the Amdo region of historical Tibet, with around 600 monks in residence.

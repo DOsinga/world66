@@ -9,6 +9,11 @@ score: 7.19
 loc_type: city
 snippet: Skåne coastal town between Helsingborg and Malmö, centered on a 16th-century
   moated citadel.
+nature: 3.8
+leisure: 5.8
+adventure: 3.6
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Landskrona sits on the western coast of Skåne, halfway between [Helsingborg](/europe/sweden/helsingborg) and [Malmö](/europe/sweden/malmo). Its name means "Land's Crown," and the town earns it — this is a compact, walkable place with a 16th-century citadel, leafy parks, and a working harbour that still feels like a real Swedish town rather than a tourist set piece.

@@ -16,6 +16,11 @@ title: Palm Springs
 type: location
 snippet: Desert resort city below the San Jacinto Mountains, shaped by hot springs
   and mid-century modern architecture.
+nature: 5.3
+leisure: 7.3
+adventure: 2.6
+city_culture: 3.6
+historic_culture: 3.6
 ---
 
 Palm Springs sits in the Coachella Valley at the foot of the San Jacinto Mountains — a desert resort city that has drawn visitors since the early 20th century with its reliable sunshine, natural hot springs, and dramatic mountain backdrop. It became a Hollywood playground in the mid-century era, and the legacy shows: the city has one of the finest concentrations of mid-century modern architecture in the United States, from the Kaufmann Desert House to the rows of steel-and-glass estates that line the residential streets.

@@ -14,6 +14,11 @@ snippet: Midwestern county seat south of Indianapolis, anchored by a courthouse 
   and Franklin College.
 title: Franklin
 type: location
+nature: 3.9
+leisure: 4.6
+adventure: 4.4
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Franklin is a small county seat about 20 miles south of Indianapolis, sitting at the heart of Johnson County with the unhurried feel of a classic Midwestern market town. The [Johnson County Courthouse](/northamerica/unitedstates/indiana/franklin/johnson_county_courthouse) anchors the square, and the blocks around it hold independent shops, antique dealers, and the beloved [Artcraft Theater](/northamerica/unitedstates/indiana/franklin/artcraft_theater) — a 1922 movie palace that still runs films and hosts live events.

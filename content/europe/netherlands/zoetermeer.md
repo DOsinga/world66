@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Zoetermeer
 title: Zoetermeer
 type: location
+nature: 3.2
+leisure: 6.1
+adventure: 3.0
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Zoetermeer is one of the Netherlands' youngest cities, a planned new town that grew from a small village of a few thousand into a city of 125,000 in just a few decades. Situated between The Hague and Gouda, it was built to absorb the post-war housing demand of the Randstad, and it shows — the architecture is modern, the infrastructure is efficient, and the green spaces are generous. It is not the kind of place that makes it onto tourist itineraries, but if you find yourself here, it has its charms.

@@ -10,6 +10,11 @@ snippet: Small Bohol Sea coral island with protected dolphin waters and a villag
   history tied to manta-ray hunting.
 title: Pamilacan Island
 type: location
+nature: 5.9
+leisure: 7.6
+adventure: 2.3
+city_culture: 2.9
+historic_culture: 2.9
 ---
 
 Pamilacan is a small coral island in the Bohol Sea, home to about 250 families and surrounded by some of the richest waters in the Visayas. The island's name comes from "pilak," a large hooked implement the islanders once used to catch manta rays and whale sharks. Those days are over — marine mammals are now fully protected by Philippine law — but the jaws and bones of past catches still decorate some village homes.

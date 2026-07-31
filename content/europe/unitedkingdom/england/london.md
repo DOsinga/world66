@@ -17,6 +17,11 @@ snippet: Vast Thames-side world city of layered neighbourhoods, Roman traces, We
   End theatre, markets, and Georgian pubs.
 title: London
 type: location
+nature: 1.3
+leisure: 7.6
+adventure: 2.2
+city_culture: 9.2
+historic_culture: 9.2
 ---
 
 London is one of the great world cities — a place where you can eat Ethiopian in Brixton, see a West End show, walk through a Roman fort, and end the evening in a Georgian pub all in a single day. It is vast, expensive, and occasionally exhausting, but it repays effort in a way that few cities can match.

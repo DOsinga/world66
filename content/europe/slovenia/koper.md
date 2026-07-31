@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Da_Ponte_Fountain
 title: Koper
 type: location
+nature: 3.2
+leisure: 7.8
+adventure: 1.7
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Koper is the largest town on Slovenia's short Adriatic coastline, and one of the country's most underrated cities. Its compact medieval center sits on what was once an island, surrounded by the sea before land reclamation connected it to the mainland. The old town's Venetian-influenced architecture — [Praetorian Palace](/europe/slovenia/koper/praetorian_palace), [Cathedral of the Assumption](/europe/slovenia/koper/cathedral_and_bell_tower), narrow stone streets — makes it a pleasure to walk through, and it rarely draws the crowds that hit nearby Piran.

@@ -16,6 +16,11 @@ sources:
 - https://www.visitsicily.info/en/madonie-2/
 title: Madonie
 type: location
+nature: 6.2
+leisure: 5.0
+adventure: 4.7
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 The Madonie are the mountains that rise behind Cefalu and Palermo's eastern coast, a protected pocket of Sicily where the island suddenly feels alpine. Limestone peaks, beech woods, old mule tracks, and high villages replace the beaches and fishing ports below.

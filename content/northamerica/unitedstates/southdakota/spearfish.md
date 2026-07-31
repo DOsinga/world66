@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Spearfish_Canyon
 title: Spearfish
 type: location
+nature: 5.3
+leisure: 5.0
+adventure: 4.7
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Spearfish sits at the northern edge of the [Black Hills](/northamerica/unitedstates/southdakota/blackhills), where the open prairie suddenly gives way to pine ridges, limestone cliffs, and cold trout water. It is quieter than [Deadwood](/northamerica/unitedstates/southdakota/deadwood) and less single-purpose than [Sturgis](/northamerica/unitedstates/southdakota/sturgis), which makes it one of the easier Black Hills towns to actually settle into for a few days.

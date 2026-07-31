@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Biokovo
 snippet: Baška Voda is a Makarska Riviera seaside town below Biokovo, with pebble
   beaches facing Brač.
+nature: 4.7
+leisure: 7.8
+adventure: 2.0
+city_culture: 4.0
+historic_culture: 4.0
 ---
 
 **Baška Voda** is a small seaside town on the Makarska Riviera, on the Croatian Adriatic coast south of [Split](/europe/croatia/split). It sits at the foot of [Biokovo Nature Park](/europe/croatia/baka_voda/biokovo_nature_park), with pebble beaches facing the island of Brac across a narrow channel.

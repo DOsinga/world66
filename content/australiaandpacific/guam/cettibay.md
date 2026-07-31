@@ -14,6 +14,11 @@ snippet: Rugged Guam bay on the southwest coast, framed by forested hills, reef,
   Chamorro sacred sites.
 title: Cetti Bay
 type: location
+nature: 7.8
+leisure: 5.1
+adventure: 4.5
+city_culture: 2.0
+historic_culture: 2.0
 ---
 
 Cetti Bay is a rugged stretch of the southwestern coast of **Guam**, reached by Route 4 — the scenic coastal road that loops around the southern half of the island. The bay itself is a broad, undeveloped crescent of water ringed by steep forested hills and exposed reef — not a swimming beach (strong currents, exposed reef) but a classic Pacific viewpoint, usually photographed from the [Cetti Bay Overlook](/australiaandpacific/guam/cettibay/cetti_bay_overlook), where a short walk from the car park gives you a sweeping view down over the bay and the Philippine Sea beyond.

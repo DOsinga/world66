@@ -14,6 +14,11 @@ snippet: Limpopo River town near Praia de Xai-Xai, where an offshore reef shelte
   a calm coastal lagoon
 title: Xai-Xai
 type: location
+nature: 5.7
+leisure: 5.1
+adventure: 4.6
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 Xai-Xai is the capital of Gaza province, situated on the Limpopo River about 220 km north of Maputo. The town itself is a sprawling settlement of markets, shops, and fuel stations — useful for a stop but not a destination in itself.

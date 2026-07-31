@@ -14,6 +14,11 @@ snippet: Oslofjord industrial city south of Oslo, known for ferries, galleries, 
   nearby coastal islands.
 title: Moss
 type: location
+nature: 6.7
+leisure: 5.3
+adventure: 4.3
+city_culture: 3.1
+historic_culture: 3.1
 ---
 
 Moss is a small industrial city on the eastern shore of the Oslofjord, about an hour south of [Oslo](/europe/norway/oslo) by train. It is not a typical tourist destination, but it has a few things worth stopping for if you are passing through or exploring the Østfold coast.

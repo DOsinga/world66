@@ -14,6 +14,11 @@ snippet: Quiet Gulf of Thailand island with low-key beaches, coconut plantations
   and bicycle-friendly roads.
 title: Koh Mak
 type: location
+nature: 6.9
+leisure: 7.3
+adventure: 2.6
+city_culture: 2.0
+historic_culture: 2.0
 ---
 
 Koh Mak is a small, quiet island in the Gulf of Thailand, between the better-known islands of [Koh Chang](/asia/thailand/kohchang) and [Koh Kood](/asia/thailand/kohchang/koh_kood). Most of the island is still owned by five families who have lived here for generations, and development has been deliberately kept small-scale — about 20 low-key resorts are spread along the four main beaches.

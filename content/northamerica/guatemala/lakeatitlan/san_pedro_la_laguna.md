@@ -13,6 +13,11 @@ snippet: Lake Atitlán pueblo below Volcán San Pedro, blending Tz’utujil Maya
   with Spanish schools.
 title: San Pedro la Laguna
 type: location
+nature: 6.1
+leisure: 6.7
+adventure: 3.2
+city_culture: 3.1
+historic_culture: 3.1
 ---
 
 Across the lake from [Panajachel](/northamerica/guatemala/lakeatitlan/panajachel), San Pedro la Laguna is a small pueblo that captures the essence of Guatemala in one place. It sits at the base of [Volcán San Pedro](/northamerica/guatemala/lakeatitlan/san_pedro_la_laguna/volcan_san_pedro_hike) on the southwestern shore of [Lake Atitlán](/northamerica/guatemala/lakeatitlan), and attracts the kind of traveller who comes for a week and stays for a month.

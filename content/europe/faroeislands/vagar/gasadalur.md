@@ -13,6 +13,11 @@ title: Gasadalur
 type: location
 snippet: Tiny Vágar village above the Atlantic, known for Múlafossur waterfall and
   its former mountain-only access.
+nature: 8.4
+leisure: 4.0
+adventure: 5.7
+city_culture: 1.6
+historic_culture: 1.6
 ---
 
 Gásadalur is a tiny village of about a dozen residents on the western tip of [Vágar](/europe/faroeislands/vagar), the Faroe Islands' westernmost island. It sits on a plateau high above the sea, ringed by the highest mountains on Vágar — Árnafjall (722 m) to the north and Eysturtindur (715 m) to the east — and overlooking the dramatic strait toward [Mykines](/europe/faroeislands/mykines). Until 2004 it was the only village in the Faroes without a road connection; supplies came by boat, and the postman arrived on foot over the mountain. A tunnel through the rock changed that overnight.

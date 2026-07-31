@@ -9,6 +9,11 @@ snippet: Wyoming roadside feature on Interstate 80, built around a landmark trav
   plaza in high desert country
 title: Little America
 type: location
+nature: 7.0
+leisure: 4.8
+adventure: 4.9
+city_culture: 2.8
+historic_culture: 2.8
 ---
 
 Little America is a roadside stop on Interstate 80 in the high desert of southwestern Wyoming, between Green River and Rock Springs. It is not really a town in the conventional sense — the "community" is essentially a large travel plaza with a motel, restaurant, gas station, and gift shop, operated by the Little America hotel chain. The permanent population is the staff.

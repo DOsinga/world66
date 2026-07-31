@@ -13,6 +13,11 @@ title: Sestri Levante
 type: location
 snippet: Ligurian seaside town on a narrow peninsula, defined by the calm Baia del
   Silenzio.
+nature: 4.4
+leisure: 8.0
+adventure: 1.9
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Sestri Levante is a small Ligurian town on a narrow peninsula, roughly halfway between Genoa and La Spezia. While the [Cinque Terre](/europe/italy/liguria/italianriviera/thecinqueterre) and [Portofino](/europe/italy/liguria/portofino) get most of the attention on this stretch of coast, Sestri has become a favourite with Italians who want the same beauty with slightly less tourist pressure — though on summer weekends the narrow streets fill quickly.

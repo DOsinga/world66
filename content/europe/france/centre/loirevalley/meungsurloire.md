@@ -14,6 +14,11 @@ snippet: Small Loire Valley town centred on a bishops' château, Romanesque-Goth
   church, and Dumas's Three Musketeers opening.
 title: Meung-sur-Loire
 type: location
+nature: 3.2
+leisure: 7.1
+adventure: 2.2
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 The [Château de Meung](/europe/france/centre/loirevalley/meungsurloire/chateau_de_meung) stands right in the heart of this small Loire Valley town. Until the 18th century it served as the residence of the bishops of [Orléans](/europe/france/centre/loirevalley/orleans), and its mix of medieval fortifications and classical facades reflects centuries of renovation and expansion. The castle also has a darker side — its underground rooms were used as a prison, and you can still visit the cells. Literary fans know it as the place where Alexandre Dumas chose to open *The Three Musketeers*, with d'Artagnan arriving on his yellow horse. Just beside the château, the [Collégiale Saint-Liphard](/europe/france/centre/loirevalley/meungsurloire/collegiale_saint_liphard) is a fine Romanesque-Gothic church well worth a quick look.

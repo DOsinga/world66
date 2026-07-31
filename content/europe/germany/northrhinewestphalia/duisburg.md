@@ -18,6 +18,11 @@ title: Duisburg
 snippet: Ruhr city at the Rhine-Ruhr confluence, known for turning industrial sites
   into public spaces.
 type: location
+nature: 3.1
+leisure: 4.9
+adventure: 4.2
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 Duisburg is a Ruhr city that has reinvented its industrial heritage more creatively than most. The standout is [Landschaftspark Duisburg-Nord](/europe/germany/northrhinewestphalia/duisburg/landschaftspark), a former ironworks and blast furnace complex converted into a public park. By day you can climb the ore bunkers and walk through the industrial ruins; by night the whole site is lit up with coloured lights by artist Jonathan Park. The old gasometer has been turned into a diving centre, and rock climbers scale the concrete walls of the ore storage bunkers.

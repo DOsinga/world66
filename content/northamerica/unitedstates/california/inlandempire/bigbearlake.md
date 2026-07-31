@@ -13,6 +13,11 @@ title: Big Bear Lake
 snippet: Southern California mountain lake resort, with ski slopes and summer boating
   high in the San Bernardino Mountains.
 type: location
+nature: 6.8
+leisure: 6.6
+adventure: 3.2
+city_culture: 2.3
+historic_culture: 2.3
 ---
 
 Perched at 7,000 feet in the San Bernardino Mountains, Big Bear Lake is Southern California's favourite mountain getaway. The lakeside resort community offers year-round recreation: boating, kayaking, and fishing in summer; skiing, snowboarding, and snowshoeing in winter. Two ski resorts — [Snow Summit](/northamerica/unitedstates/california/inlandempire/bigbearlake/snow_summit) and [Bear Mountain](/northamerica/unitedstates/california/inlandempire/bigbearlake/bear_mountain) — sit on opposing ridges flanking the valley and share a lift ticket.

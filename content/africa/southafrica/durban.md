@@ -16,6 +16,11 @@ snippet: Indian Ocean port city where Zulu, Indian, English, and Afrikaans cultu
   meet along warm beaches.
 title: Durban
 type: location
+nature: 4.1
+leisure: 7.1
+adventure: 3.0
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Durban is South Africa's third-largest city and its warmest, sprawling along the Indian Ocean in the subtropical heart of KwaZulu-Natal. It's a beach town and a busy industrial port at the same time, and a place where Zulu, Indian, English and Afrikaans cultures live on top of one another in a way you don't quite see anywhere else in the country.

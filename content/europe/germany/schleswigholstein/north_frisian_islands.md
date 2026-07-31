@@ -17,6 +17,11 @@ image: north_frisian_islands.jpg
 image_source: https://commons.wikimedia.org/wiki/File:13-09-29-nordfriesisches-wattenmeer-RalfR-05.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Ralf Roletschek
+nature: 6.3
+leisure: 5.0
+adventure: 4.7
+city_culture: 3.7
+historic_culture: 3.7
 ---
 
 The North Frisian Islands are a chain of islands and halligen (tiny, unfenced marsh islands) off the west coast of Schleswig-Holstein, stretching from the Danish border south to the Eiderstedt peninsula. They form the heart of the Schleswig-Holstein Wadden Sea National Park, a UNESCO World Heritage Site since 2009.

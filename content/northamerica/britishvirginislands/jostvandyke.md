@@ -14,6 +14,11 @@ image_attribution: Legis
 score: 8.83
 snippet: Small British Virgin Island known for sandy bays, beach bars, and hilly coastal
   trails.
+nature: 6.0
+leisure: 8.0
+adventure: 1.9
+city_culture: 2.6
+historic_culture: 2.6
 ---
 
 Jost Van Dyke is the smallest of the four main British Virgin Islands — about 8 km² with fewer than 300 permanent residents — but it punches well above its weight in the Caribbean party department. The [Soggy Dollar Bar](/northamerica/britishvirginislands/jostvandyke/soggy_dollar_bar) in [White Bay](/northamerica/britishvirginislands/jostvandyke/white_bay), reachable only by swimming ashore (hence the name), claims to have invented the Painkiller cocktail. [Foxy's Tamarind Bar](/northamerica/britishvirginislands/jostvandyke/foxys_tamarind_bar) in [Great Harbour](/northamerica/britishvirginislands/jostvandyke/great_harbour) is legendary for its New Year's Eve party, which draws thousands of sailors every 31 December.

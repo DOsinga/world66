@@ -10,6 +10,11 @@ snippet: Traditional Malay state capital on the Terengganu River, gateway to Red
   and Perhentian islands.
 title: Kuala Terengganu
 type: location
+nature: 3.0
+leisure: 7.2
+adventure: 2.6
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Kuala Terengganu is the capital of Terengganu, one of Malaysia's east coast states, standing on the banks of the Terengganu River. It is a quiet, traditional Malay city that serves as the gateway to some of Southeast Asia's best islands — Redang and Perhentian, with their crystal-clear waters and coral gardens, are the main draws.

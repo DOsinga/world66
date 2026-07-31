@@ -14,6 +14,11 @@ snippet: Northern Plains city in South Dakota, a former railroad hub serving a w
   agricultural region.
 title: Aberdeen
 type: location
+nature: 4.0
+leisure: 4.0
+adventure: 5.1
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Aberdeen is the third-largest city in South Dakota, a hub of about 28,000 people on the wide-open plains of the northeast part of the state. Known locally as the "Hub City" for the railroad lines that once converged here, Aberdeen is the commercial center for a vast agricultural region. The town has a genuine small-city warmth and more going on than you might expect from its remote location.

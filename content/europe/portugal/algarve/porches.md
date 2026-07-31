@@ -7,6 +7,11 @@ longitude: -8.3883
 score: 8.02
 snippet: Quiet Algarve village known for hand-painted pottery, set inland from Armação
   de Pêra.
+nature: 4.3
+leisure: 6.7
+adventure: 2.7
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Porches is a small village in the central Algarve, set back a few kilometres from the coast between Lagoa and Armação de Pêra. It is quiet and unhurried in the way that inland Algarve villages tend to be — the resort energy of the coast does not quite reach this far.

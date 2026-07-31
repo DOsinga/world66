@@ -16,6 +16,11 @@ sources:
 - https://www.openstreetmap.org/
 title: Guanaja
 type: location
+nature: 6.9
+leisure: 5.3
+adventure: 4.5
+city_culture: 2.8
+historic_culture: 2.8
 ---
 
 Guanaja is the quiet, awkward, beautiful member of the [Bay Islands](/northamerica/honduras/bayislands). It has the same Caribbean water and reef life that made Roatán and Utila famous, but far less infrastructure, fewer crowds, and a stronger sense that travel here still depends on boats, weather, and local patience.

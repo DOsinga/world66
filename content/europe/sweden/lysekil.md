@@ -14,6 +14,11 @@ snippet: Bohuslän coastal resort on the Stångenäset peninsula, where granite 
   meet the open Skagerrak
 title: Lysekil
 type: location
+nature: 4.4
+leisure: 4.5
+adventure: 4.9
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Lysekil sits at the western tip of the Stångenäset peninsula on Sweden's Bohuslän coast, where the rocky archipelago meets the open Skagerrak. Once a fishing village and home to the shipbuilding works at Scandiaverken, Lysekil has reinvented itself as one of the coast's most popular summer resorts. The [Lysekil Havsbad](/europe/sweden/lysekil/lysekil_havsbad) sea baths draw swimmers, and the town's seafront promenades are lively from June to August. The surrounding waters are good for kayaking and boat tours through the skerries.

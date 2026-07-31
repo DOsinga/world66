@@ -16,6 +16,11 @@ title: Malaga
 snippet: Costa del Sol port city with Moorish fortresses, Picasso roots, and a revived
   Mediterranean waterfront.
 type: location
+nature: 2.8
+leisure: 8.8
+adventure: 1.1
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Málaga is the unsung capital of the Costa del Sol — a working port city with a 3,000-year history, a Moorish fortress on its hill, and Picasso's birthplace on its central square. For decades it was treated as the airport you flew into on the way to the beach resorts. That is changing fast: a string of new museums, a tidied-up old town, and a polished waterfront have turned it into one of the most rewarding short-break cities in southern Spain.

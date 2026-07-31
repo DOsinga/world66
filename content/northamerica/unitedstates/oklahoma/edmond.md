@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/University_of_Central_Oklahoma
 title: Edmond
 type: location
+nature: 3.5
+leisure: 4.9
+adventure: 4.1
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Edmond sits just north of Oklahoma City, close enough to the capital to share its commuting rhythm but old enough to have its own downtown and university life. It began as a stop on the Santa Fe Railway and later became one of the better-known towns along Oklahoma's stretch of Route 66.

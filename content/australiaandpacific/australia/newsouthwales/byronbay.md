@@ -18,6 +18,11 @@ tags:
 - beaches
 title: Byron Bay
 type: location
+nature: 5.4
+leisure: 8.1
+adventure: 2.0
+city_culture: 3.2
+historic_culture: 3.2
 ---
 
 Byron Bay is a small beach town on the far northern coast of New South Wales, right at the easternmost tip of the Australian mainland, and one of the most beloved destinations in the country. It started as a whaling station, then became a hippie retreat in the 1970s, and somehow managed to keep enough of that relaxed, alternative identity through decades of development to still feel unlike anywhere else on the east coast. The combination of sub-tropical climate, long white beaches, surf, and a lingering counterculture has made it both a rite of passage for young backpackers and a weekender's paradise for Sydney-siders — and, increasingly, a playground for celebrities and Instagram influencers who have bought up the hinterland.

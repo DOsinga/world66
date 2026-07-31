@@ -13,6 +13,11 @@ image: algonquin_park.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Algonquin_Cache_Lake_Lookout.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Original uploader was Ptrbnsn at en.wikipedia
+nature: 7.9
+leisure: 5.5
+adventure: 4.3
+city_culture: 1.8
+historic_culture: 1.8
 ---
 
 Algonquin Provincial Park is over 7,600 square kilometres of forest, lake and river in the highlands of [Ontario](/northamerica/canada/ontario) — one of the oldest provincial parks in Canada and one of the best places in the country to experience real wilderness without a bush plane. It sits about three hours north of [Toronto](/northamerica/canada/ontario/toronto) along Highway 60, which cuts across the park’s southern edge and provides access to most of the facilities. Beyond that corridor, the park is roadless.

@@ -14,6 +14,11 @@ snippet: Southern Caribbean island with calm reef-lined shores and one of the re
   strongest shore-diving scenes.
 title: Bonaire
 type: location
+nature: 4.9
+leisure: 7.7
+adventure: 2.3
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 Bonaire is a small, flat island in the southern Caribbean, part of the ABC islands alongside Aruba and Curaçao. It sits just 80km north of Venezuela and well outside the hurricane belt, which keeps its waters calm and its skies reliably clear. The island became a special municipality of the Netherlands in 2010 — technically the closest thing to Dutch soil in the western hemisphere.

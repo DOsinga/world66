@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Dezhou
 title: Dezhou
 type: location
+nature: 3.6
+leisure: 4.6
+adventure: 4.7
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Dezhou guards the northwestern corner of Shandong, where the province meets Hebei on the main rail corridor between Beijing and the south. The city's role as a transit point has defined it for centuries: the Grand Canal passed through here, and later the Beijing-Shanghai railway, and both made Dezhou a place where goods and people changed hands. The name itself comes from an ancient name for the Yellow River, which once flowed through this part of the plain before shifting course.

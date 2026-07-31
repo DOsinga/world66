@@ -14,6 +14,11 @@ snippet: Sussex seaside city west of Brighton, defined by Regency terraces and a
   shingle seafront.
 title: Hove
 type: location
+nature: 3.5
+leisure: 6.6
+adventure: 2.6
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Hove sits immediately west of Brighton along the Sussex coast, separated in administrative terms since the two merged into a single unitary authority in 1997, though most locals still maintain the distinction with some feeling. Where Brighton pitches itself at weekenders seeking nightlife and the Palace Pier, Hove tends quieter and, it must be said, more expensive. The character is set largely by the seafront architecture: long Regency terraces in cream stucco, with columned porches and iron balconies, running west from the border at the Peace Statue toward the marina and beyond. [Brunswick Square and Adelaide Crescent](/europe/unitedkingdom/england/south_east/hove/brunswick_square) are particularly well preserved and rank among the finest examples of early-nineteenth-century seaside town planning in England.

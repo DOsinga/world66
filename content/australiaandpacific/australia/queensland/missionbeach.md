@@ -14,6 +14,11 @@ title: Mission Beach
 type: location
 snippet: Tropical Queensland beach village where Wet Tropics rainforest reaches the
   Coral Sea.
+nature: 6.9
+leisure: 7.1
+adventure: 2.9
+city_culture: 2.0
+historic_culture: 2.0
 ---
 
 Mission Beach is a small, lush coastal village in tropical North Queensland, squeezed between the rainforest and the Coral Sea. It is one of the few places in Australia where the Wet Tropics rainforest grows right down to the beach, and that combination — palm-fringed sand backed by thick jungle — gives it a feel quite different from the more developed resort towns along the coast.

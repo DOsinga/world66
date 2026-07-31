@@ -13,6 +13,11 @@ sources:
 - https://en.wikipedia.org/wiki/St_Mary%27s_Church,_Stafford
 title: Stafford
 type: location
+nature: 3.7
+leisure: 5.4
+adventure: 3.7
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Stafford is the county town of Staffordshire, a working Midlands market town that looks more interesting once you leave the through roads. Its centre still has a tight old street pattern, a proper market-square feel, and enough timber framing and red brick to remind you that this was once a much more important administrative stop.

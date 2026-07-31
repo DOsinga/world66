@@ -13,6 +13,11 @@ snippet: Abruzzo stone hill village restored as an albergo diffuso below the Gra
   Sasso massif.
 title: Santo Stefano di Sessanio
 type: location
+nature: 3.8
+leisure: 6.6
+adventure: 3.1
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Santo Stefano di Sessanio is one of the most beautiful hill villages in Abruzzo, perched at about 1,250 metres on the slopes of the Gran Sasso massif, roughly 30 kilometres from L'Aquila. The village is built almost entirely of pale stone and has been carefully restored -- in places the streets narrow to barely a shoulder's width as they thread between medieval towers and arched passageways.

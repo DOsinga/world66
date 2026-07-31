@@ -9,6 +9,11 @@ snippet: Equator monument complex north of Quito, marking the historic French ge
   survey line.
 title: Mitad del Mundo
 type: location
+nature: 4.4
+leisure: 6.4
+adventure: 3.4
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Just half an hour north of Quito, the Mitad del Mundo marks the location of the equator — or rather, where 18th-century French explorers calculated it to be. The actual equator line sits about 240 metres north, at the smaller Intiñan Solar Museum.

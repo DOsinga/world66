@@ -9,6 +9,11 @@ snippet: Agricultural Ligurian Apennine village on the Bormida plain, surrounded
 type: location
 score: 6.36
 loc_type: city
+nature: 4.6
+leisure: 5.4
+adventure: 4.1
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 An agricultural center on the slopes of the

@@ -14,6 +14,11 @@ snippet: Northern Pakistan transport hub in a dry mountain valley where Karakora
   caravan routes met.
 title: Gilgit
 type: location
+nature: 7.9
+leisure: 3.6
+adventure: 6.4
+city_culture: 2.6
+historic_culture: 2.6
 ---
 
 Gilgit is the capital of **Gilgit-Baltistan**, the administrative region covering Pakistan's northern highlands, and the main transport hub for the Karakoram and the Hindu Kush. The town itself sits in a broad, dry river valley at about 1,500 metres, ringed on all sides by enormous brown peaks; it is unremarkable in itself — dusty, bazaar-centred, with a permanent population of around 200,000 — but it is the place nearly every traveller to the mountains passes through. Gilgit has been a crossroads for as long as anything here has been written down: the old caravan routes from Kashgar over the Khunjerab, from Ladakh via Skardu, and from Chitral over the Shandur all met here.

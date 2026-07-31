@@ -14,6 +14,11 @@ title: Ezulwini Valley
 type: location
 snippet: SiSwati Valley of Heaven, the country's cultural corridor between Mbabane,
   Lobamba, craft markets, and Mlilwane.
+nature: 5.3
+leisure: 4.2
+adventure: 5.5
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 The Ezulwini Valley — *Valley of Heaven* in siSwati — stretches south from [Mbabane](/africa/swaziland/mbabane) toward [Lobamba](/africa/swaziland/lobamba) and is the cultural and tourist heart of the country. The main road (MR103) through the valley is lined with craft markets, hotels, the royal residences, and the entrance to Mlilwane Wildlife Sanctuary.

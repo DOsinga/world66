@@ -14,6 +14,11 @@ snippet: New South Wales coastal town at the Hastings River mouth, known for bea
   and its Koala Hospital.
 title: Port Macquarie
 type: location
+nature: 5.4
+leisure: 7.2
+adventure: 2.5
+city_culture: 3.6
+historic_culture: 3.6
 ---
 
 Port Macquarie sits at the mouth of the Hastings River on the mid-north coast of New South Wales, roughly halfway between Sydney and Brisbane. It began as a penal settlement in 1821 and has grown into a popular holiday town, particularly with families and retirees drawn by the beaches and mild climate.

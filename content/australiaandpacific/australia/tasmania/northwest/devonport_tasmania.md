@@ -10,6 +10,11 @@ snippet: Tasmanian north-coast port city and Spirit of Tasmania ferry terminus, 
   Mersey Bluff nearby.
 title: Devonport
 type: location
+nature: 5.6
+leisure: 4.3
+adventure: 5.0
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Devonport is a small port city on Tasmania's north coast, best known as the terminus of the Spirit of Tasmania ferry from Melbourne. Most visitors pass straight through on their way to Cradle Mountain or the northwest coast, but the town deserves a few hours of its own.

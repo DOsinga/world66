@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Portuguese_Cistern_(Mazagan)
 title: El Jadida
 type: location
+nature: 4.1
+leisure: 6.3
+adventure: 3.4
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 El Jadida, about 100km south of Casablanca on the Atlantic coast, is one of Morocco's most undervisited historic towns. The Portuguese built a fortified settlement here in 1513, naming it Mazagan; the Moroccan sultan Mohammed ben Abdallah captured it in 1769 and renamed it El Jadida ("the new one"). The old Portuguese quarter — the [Cité Portugaise](/africa/morocco/eljadida/cite_portugaise) — was designated a UNESCO World Heritage Site in 2004.

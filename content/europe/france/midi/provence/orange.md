@@ -14,6 +14,11 @@ snippet: Provençal city with an intact Roman theatre wall and a triumphal arch 
   the old road.
 title: Orange
 type: location
+nature: 4.7
+leisure: 7.4
+adventure: 2.4
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Orange is a small Provencal city with two extraordinary Roman monuments. The [Théâtre Antique](/europe/france/midi/provence/orange/theatre_antique) is the only Roman theatre in Europe with its original stage wall still intact — a massive stone facade that looms over the audience. In summer it hosts the [Chorégies d'Orange](/europe/france/midi/provence/orange/choregies), one of France's oldest music festivals. The [Arc de Triomphe](/europe/france/midi/provence/orange/arc_de_triomphe), on the northern edge of town, is a triple-arched monument celebrating Caesar's victories. Together the two are inscribed on the UNESCO World Heritage List.

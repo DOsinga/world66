@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Sanctuary_of_Our_Lady_of_Lourdes
 title: Lourdes
 type: location
+nature: 4.2
+leisure: 7.3
+adventure: 2.6
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Lourdes is a small Pyrenean town of some 15,000 people that attracts five million pilgrims and tourists from 150 countries each year, making it the second most important hotel city in France after Paris, with over 270 hotels and 13 campsites.

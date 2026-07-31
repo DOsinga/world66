@@ -10,6 +10,11 @@ snippet: Kansas plains town best known for Dwight D. Eisenhower's boyhood home a
   presidential library.
 title: Abilene
 type: location
+nature: 3.9
+leisure: 3.8
+adventure: 5.3
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Abilene is a small Kansas town on the plains west of [Topeka](/northamerica/unitedstates/kansas/topeka), best known as the boyhood home of Dwight D. Eisenhower. The [Eisenhower Presidential Library, Museum, and Boyhood Home](/northamerica/unitedstates/kansas/abilene/eisenhower_presidential_library) complex is the main reason to stop — it covers his life from growing up in this modest [clapboard house](/northamerica/unitedstates/kansas/abilene/eisenhower_boyhood_home) to commanding the D-Day invasion and serving two terms as president. He and Mamie are buried in a small chapel on the grounds.

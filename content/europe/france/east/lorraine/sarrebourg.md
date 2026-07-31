@@ -10,6 +10,11 @@ type: location
 score: 6.88
 snippet: Small Lorraine town near Alsace, best known for Marc Chagall's monumental
   stained-glass window.
+nature: 4.2
+leisure: 5.3
+adventure: 3.9
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Sarrebourg is a small town in the Moselle valley of Lorraine, close to the Alsatian border. It's an unhurried place without obvious tourist ambitions — which makes its single great attraction all the more striking. The [Chapelle des Cordeliers](/europe/france/east/lorraine/sarrebourg/chapelle_des_cordeliers) houses a monumental stained-glass window designed by Marc Chagall in 1976: twelve metres wide and ten metres high, in deep blues and purples depicting themes of peace, it's one of the finest examples of 20th-century religious art in France.

@@ -14,6 +14,11 @@ snippet: Small northwest Georgia city near Etowah Indian Mounds and notable down
   museums.
 title: Cartersville
 type: location
+nature: 3.9
+leisure: 5.1
+adventure: 3.8
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Cartersville is a small city about 45 miles northwest of [Atlanta](/northamerica/unitedstates/georgia/atlanta) in Bartow County, a convenient stop between Atlanta and Chattanooga on I-75.

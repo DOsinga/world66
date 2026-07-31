@@ -14,6 +14,11 @@ snippet: Mount Lebanon summer town above Beirut, known for cool air, stone house
   and terrace restaurants
 title: Aley
 type: location
+nature: 6.0
+leisure: 3.7
+adventure: 5.8
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 Aley is a mountain town perched above [Beirut](/asia/lebanon/beirut) in the Mount Lebanon range, popular as a summer retreat when the coastal heat becomes oppressive. The cool mountain air, traditional stone houses and hillside restaurants make it a pleasant escape from the city, just 30 minutes up the winding mountain road.

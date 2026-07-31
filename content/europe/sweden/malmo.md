@@ -12,6 +12,11 @@ snippet: Cosmopolitan Swedish port city on the Öresund, reshaped by shipyard re
   and links to Copenhagen.
 title: Malmo
 type: location
+nature: 2.3
+leisure: 7.8
+adventure: 1.9
+city_culture: 7.6
+historic_culture: 7.6
 ---
 
 Malmo is Sweden's third-largest city and its most cosmopolitan after Stockholm. Sitting on the Oresund strait just 35 minutes by train from [Copenhagen](/europe/denmark/copenhagen), it has long been shaped by its proximity to Denmark and the continent, giving it a more relaxed, outward-looking character than you might expect from a Swedish city of 350,000 people.

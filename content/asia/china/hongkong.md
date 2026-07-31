@@ -19,6 +19,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Hong_Kong
 title: Hong Kong
 type: location
+nature: 0.9
+leisure: 9.3
+adventure: 0.8
+city_culture: 8.6
+historic_culture: 8.6
 ---
 
 Hong Kong is one of the most exhilarating cities on earth — a vertical, electric, relentless place where East and West collide in the most productive possible way. For 156 years a British colony, it was handed back to China in 1997 under a "one country, two systems" arrangement that preserved its common law courts, free press, and capitalist economy. The neon, the harbour, the dim sum, the frantic energy: all of it still very much in place.

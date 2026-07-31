@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/San_Vito_di_Cadore
 title: San Vito di Cadore
 type: location
+nature: 5.7
+leisure: 5.3
+adventure: 4.4
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 San Vito di Cadore is a quiet mountain village tucked into the Dolomites at the head of the Boite valley, just 10 km south of [Cortina d'Ampezzo](/europe/italy/veneto/cortina_dampezzo). It sits at around 1,010 metres, surrounded by the jagged limestone peaks that define the eastern Dolomites, and draws visitors primarily as a base for skiing and hiking in one of the most dramatic mountain landscapes in Europe.

@@ -14,6 +14,11 @@ snippet: Baltic coast city in southeastern Sweden, dominated by its Renaissance 
   and medieval centre.
 title: Kalmar
 type: location
+nature: 4.1
+leisure: 5.3
+adventure: 4.0
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Kalmar is a handsome castle town on Sweden's southeast coast, facing the Baltic island of Öland across a narrow strait. The six-kilometre Öland Bridge — the longest in Scandinavia — connects the two, and most visitors to Kalmar cross over to take advantage of Öland's sun, sandy beaches, and Viking-era sites.

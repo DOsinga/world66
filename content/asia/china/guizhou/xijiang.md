@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Xijiang
 title: Xijiang Miao Village
 type: location
+nature: 4.6
+leisure: 5.9
+adventure: 3.9
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Xijiang is the largest Miao village in China — about 1,200 households and over 5,000 people in a continuous settlement of wooden stilt houses covering an entire hillside and its valleys, within the Leigongshan National Nature Reserve south of Kaili. The scale is what strikes you first: this is not a village of fifty houses preserved as a museum piece, but a living community large enough to have its own geography, its own internal streets, its own centre and periphery. The Miao population is 99.5% of the total, a demographic concentration unusual even in the ethnic minority regions of Guizhou.

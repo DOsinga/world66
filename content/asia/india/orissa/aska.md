@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/Asika
 title: Aska
 type: location
+nature: 4.2
+leisure: 3.8
+adventure: 5.8
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Aska is a town in Ganjam District, Odisha, about 40km from [Berhampur](/asia/india/orissa/berhampur). It is known locally as the "Sugar City," a nickname earned by the [Aska Sugar Mill](/asia/india/orissa/aska/aska_sugar_mill), established here in 1824 and claimed to be one of the oldest sugar mills in Asia.

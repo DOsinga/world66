@@ -15,6 +15,11 @@ snippet: Canal-and-garden city near Shanghai, famed for classical walled gardens
   miniature landscapes.
 title: Suzhou
 type: location
+nature: 2.5
+leisure: 7.3
+adventure: 2.0
+city_culture: 7.7
+historic_culture: 7.7
 ---
 
 An hour by high-speed train from Shanghai, Suzhou has been China's city of gardens for a thousand years. The classical gardens here — ten of them listed as UNESCO World Heritage Sites — are the reason most people come, and they are worth the journey. Packed into small plots behind whitewashed walls, each one is an exercise in illusion: miniature hills, reflecting pools, and moon gates that make a quarter-acre feel like a landscape.

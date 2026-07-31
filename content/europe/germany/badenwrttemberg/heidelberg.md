@@ -15,6 +15,11 @@ snippet: Neckar River university city of baroque lanes, forested slopes, and a r
   ruined castle.
 title: Heidelberg
 type: location
+nature: 2.4
+leisure: 7.8
+adventure: 1.9
+city_culture: 7.8
+historic_culture: 7.8
 ---
 
 Heidelberg is the German city that visitors fall in love with. It sits where the Neckar river emerges from the wooded hills of the Odenwald into the Rhine plain, and the combination of the ruined castle on the hillside, the baroque old town below, the river, the ancient university, and the forested slopes rising on both banks makes it one of the most naturally beautiful urban settings in Europe. Remarkably, it survived the Second World War almost completely intact — the Americans deliberately spared it — which means the old town you see today is genuinely old, not a reconstruction.

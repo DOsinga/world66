@@ -16,6 +16,11 @@ snippet: Car-light Dutch Wadden island with one quiet village, broad dunes, and 
   ferry link from Harlingen.
 title: Vlieland
 type: location
+nature: 6.4
+leisure: 5.5
+adventure: 4.2
+city_culture: 3.2
+historic_culture: 3.2
 ---
 
 In several respects, Vlieland is different from the other Dutch [Wadden islands](/europe/netherlands/waddenislands). It is the furthest removed from the mainland -- 90 minutes by regular ferry from Harlingen harbour, or 45 by fast ferry -- and it has only one village, Oost-Vlieland, a quiet settlement where tree-shaded Dorpsstraat offers cosy shops for everyday holiday needs.

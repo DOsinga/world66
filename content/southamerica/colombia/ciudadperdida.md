@@ -9,6 +9,11 @@ snippet: Sierra Nevada archaeological site of Tairona terraces, reached by a dem
   guided jungle trek.
 title: Ciudad Perdida
 type: location
+nature: 7.1
+leisure: 2.9
+adventure: 7.1
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 Ciudad Perdida (the "Lost City") is a ruined settlement deep in the Sierra Nevada de Santa Marta, built by the Tairona people around 800 AD — some 650 years before Machu Picchu. It was abandoned during the Spanish conquest and not rediscovered until 1972, when tomb raiders stumbled upon its terraces in the jungle.

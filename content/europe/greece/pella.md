@@ -14,6 +14,11 @@ snippet: Ancient Macedonian capital and birthplace of Alexander the Great, with 
   ruins and exceptional pebble mosaics.
 title: Pella
 type: location
+nature: 2.8
+leisure: 5.0
+adventure: 4.4
+city_culture: 8.1
+historic_culture: 8.1
 ---
 
 Pella was the ancient capital of the Kingdom of Macedon and the birthplace of Alexander the Great. Today it is an archaeological site in northern Greece, about 40 kilometres west of Thessaloniki, and it is one of the most impressive Classical-era sites in the country. The ruins spread across a large area and include the remains of the royal palace, agora, and private houses with spectacular in-situ mosaic floors — some of the finest surviving examples of Greek mosaic art.

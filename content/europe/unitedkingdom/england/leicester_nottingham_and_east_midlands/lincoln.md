@@ -14,6 +14,11 @@ title: Lincoln
 type: location
 snippet: Medieval ridge-top city crowned by a Norman castle and a landmark Gothic
   cathedral.
+nature: 3.5
+leisure: 4.5
+adventure: 4.6
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Lincoln is one of England's most striking medieval cities, built on a dramatic limestone ridge that rises sharply above the surrounding flatlands of Lincolnshire. The hilltop is crowned by two buildings that have defined the city for nearly a thousand years: the castle, begun by William the Conqueror in 1068, and the cathedral, whose central tower once made it the tallest structure in the world.

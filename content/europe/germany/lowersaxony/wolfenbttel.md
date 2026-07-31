@@ -14,6 +14,11 @@ title: Wolfenbüttel
 snippet: Lower Saxon town of timber-frame streets, ducal history, and the great Herzog
   August Bibliothek.
 type: location
+nature: 3.6
+leisure: 5.3
+adventure: 3.9
+city_culture: 7.0
+historic_culture: 7.0
 ---
 
 Wolfenbüttel is a small town just south of [Braunschweig](/europe/germany/lowersaxony/braunschweig) in Lower Saxony, with one of the best-preserved timber-frame old towns in northern Germany. Over 600 half-timbered houses line the streets of the centre, many of them dating from the 16th and 17th centuries when Wolfenbüttel served as the residence of the Dukes of Brunswick-Lüneburg. The [Stadtmarkt](/europe/germany/lowersaxony/wolfenbttel/stadtmarkt) is the showpiece, and the canal-side lanes of [Klein Venedig](/europe/germany/lowersaxony/wolfenbttel/klein_venedig) are the most photogenic.

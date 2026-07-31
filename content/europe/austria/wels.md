@@ -13,6 +13,11 @@ sources:
 - https://en.wikipedia.org/wiki/Wels
 title: Wels
 type: location
+nature: 4.5
+leisure: 4.3
+adventure: 4.9
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Wels is a working Upper Austrian city of about 60,000 people on the river Traun, halfway between [Linz](/europe/austria/linz) and Salzburg. The Romans founded it as **Ovilava**, a key trading colony on the road to the Danube — pieces of that history still surface in cellar walls and the layout of the long main square. Today Wels is best known in Austria for the [Messe Wels](https://en.wikipedia.org/wiki/Messezentrum_Wels) trade-fair complex, which keeps the hotels full several weeks a year.

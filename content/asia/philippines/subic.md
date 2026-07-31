@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Subic_Bay
 snippet: Former US naval base on Luzon, remade as a freeport of beaches, jungle, and
   duty-free streets.
+nature: 5.0
+leisure: 4.4
+adventure: 5.0
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Subic Bay Freeport Zone occupies the former US Naval Base on the west coast of Luzon, about two and a half hours' drive north of Manila. The Americans left in 1992 after the Philippine Senate voted not to renew the lease — ending what had been one of the largest US overseas military installations in the world. Since then the base has been converted into a special economic zone combining light industry, duty-free retail, beaches, and family attractions. The result is unlike anywhere else in the Philippines: American-grid streets, English signage, and a residual expat culture layered over a rapidly changing Filipino city.

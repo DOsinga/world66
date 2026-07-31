@@ -14,6 +14,11 @@ snippet: Vast Khmer temple complex whose lotus-bud towers anchor the ancient cit
   of Angkor
 title: Angkor Wat
 type: location
+nature: 3.5
+leisure: 5.8
+adventure: 4.0
+city_culture: 8.0
+historic_culture: 8.0
 ---
 
 Angkor Wat is the largest religious monument ever built and the centerpiece of an archaeological complex that once supported over a million people — the biggest city on earth in its time. The temple itself, with its five lotus-bud towers and nearly two hundred meter moat, is only the beginning. The wider Angkor area covers some four hundred square kilometers of temples, reservoirs, and ruins stretching through the Cambodian forest north of [Siem Reap](/asia/cambodia/siemreap).

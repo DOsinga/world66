@@ -14,6 +14,11 @@ title: Lae
 type: location
 snippet: Industrial Huon Gulf port at the Markham River mouth, Papua New Guinea's
   second city.
+nature: 8.0
+leisure: 2.5
+adventure: 7.4
+city_culture: 2.5
+historic_culture: 2.5
 ---
 
 Lae is the second largest city in [Papua New Guinea](/asia/papuanewguinea), an industrial port at the mouth of the Markham River on the Huon Gulf. It is not a city that tries to charm visitors — the streets are grey, security is a visible concern, and most travellers pass through rather than linger.

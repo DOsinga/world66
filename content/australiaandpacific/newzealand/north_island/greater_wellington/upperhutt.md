@@ -14,6 +14,11 @@ snippet: Hutt Valley suburb where Wellington's northern edge opens into river tr
   and forested ranges.
 title: Upper Hutt
 type: location
+nature: 5.5
+leisure: 5.2
+adventure: 4.0
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Upper Hutt sits at the northern end of the Hutt Valley, about half an hour's drive northeast of downtown [Wellington](/australiaandpacific/newzealand/north_island/greater_wellington/wellington). It is the quieter, more suburban sibling of [Lower Hutt](/australiaandpacific/newzealand/north_island/greater_wellington/lowerhutt), nestled against the hills where the valley narrows toward the Rimutaka Range.

@@ -14,6 +14,11 @@ snippet: Western Belarusian river city with Polish-Lithuanian heritage, baroque 
   synagogues, and twin castles.
 title: Hrodna (Grodno)
 type: location
+nature: 3.2
+leisure: 5.5
+adventure: 3.9
+city_culture: 7.4
+historic_culture: 7.4
 ---
 
 Hrodna — Grodno in Russian — sits on the high right bank of the Nioman river in the far west of Belarus, a stone's throw from the Polish and Lithuanian borders. It is one of the few Belarusian cities to escape wholesale destruction in the Second World War, and as a result it has the richest stock of old architecture in the country: baroque churches, Orthodox cathedrals, a surviving synagogue, and two castles overlooking the river.

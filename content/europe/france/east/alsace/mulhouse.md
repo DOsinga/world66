@@ -14,6 +14,11 @@ snippet: Industrial Alsatian city near three borders, known for automobile, rail
   and textile museums.
 title: Mulhouse
 type: location
+nature: 3.2
+leisure: 6.1
+adventure: 3.2
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Mulhouse is an industrial city in southern Alsace, near the Swiss and German borders, that has reinvented itself as a surprisingly compelling museum destination. The [Cité de l'Automobile](/europe/france/east/alsace/mulhouse/cite_de_lautomobile) houses the Schlumpf Collection — over 400 cars including the world's largest collection of Bugattis — and is one of the finest automobile museums in Europe. The [Cité du Train](/europe/france/east/alsace/mulhouse/cite_du_train), nearby, is the largest railway museum in France.

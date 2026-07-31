@@ -10,6 +10,11 @@ snippet: Western Madhya Pradesh district town known for Pashupatinath Temple and
   plateau opium fields.
 title: Mandsaur
 type: location
+nature: 4.5
+leisure: 3.3
+adventure: 5.8
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Mandsaur is a district town in western Madhya Pradesh with a surprisingly rich archaeological heritage. The main attraction is the [Pashupatinath Temple](/asia/india/madhyapradesh/mandsaur/pashupatinath_temple) on the bank of the Shivna River — its rare eight-faced Shiva idol has a parallel only in the famous Pashupatinath temple in Kathmandu.

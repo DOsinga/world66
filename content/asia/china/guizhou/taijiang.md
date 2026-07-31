@@ -11,6 +11,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Taijiang
 title: Taijiang
 type: location
+nature: 5.5
+leisure: 4.7
+adventure: 4.9
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Taijiang calls itself the first county of Miao nationality in the world, and while the superlative is debatable, the underlying claim is not: the Qingshui River valley around Taijiang is densely settled with Miao communities whose cultural practices have survived more intact than almost anywhere. The county has no airport and no railway station, which until recently kept it off most tourist itineraries, and the result is that the villages here have a working quality absent from the more-visited Miao sites closer to Kaili.

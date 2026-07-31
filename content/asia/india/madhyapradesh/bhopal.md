@@ -10,6 +10,11 @@ score: 6.91
 snippet: Madhya Pradesh capital known for lakes, mosques, and the old city's Taj-ul-Masajid.
 title: Bhopal
 type: location
+nature: 4.3
+leisure: 3.9
+adventure: 5.3
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Bhopal is the capital of Madhya Pradesh, a city of lakes, mosques, and surprising greenery. It is inevitably associated with the 1984 Union Carbide gas disaster, one of the worst industrial catastrophes in history, but the modern city has much more to offer than that painful chapter.

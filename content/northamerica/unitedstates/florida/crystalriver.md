@@ -14,6 +14,11 @@ snippet: Gulf Coast Florida town where warm spring waters draw wintering manatee
   into Kings Bay.
 title: Crystal River
 type: location
+nature: 6.3
+leisure: 6.4
+adventure: 3.3
+city_culture: 2.9
+historic_culture: 2.9
 ---
 
 Crystal River is a small town on Florida's Gulf Coast, about ninety minutes north of Tampa, and one of the few places in the United States where you can legally swim with wild manatees. Hundreds of West Indian manatees gather in the warm spring-fed waters of [Kings Bay](/northamerica/unitedstates/florida/crystalriver/kings_bay) between November and March, and snorkelling tours take visitors out to meet them at close range. [Three Sisters Springs](/northamerica/unitedstates/florida/crystalriver/three_sisters_springs), a crystal-clear pool in the centre of town, is the most famous spot.

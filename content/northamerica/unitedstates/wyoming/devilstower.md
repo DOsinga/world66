@@ -9,6 +9,11 @@ snippet: Wyoming volcanic tower of columned rock rising above the Belle Fourche 
   valley.
 title: Devil's Tower
 type: location
+nature: 7.5
+leisure: 4.6
+adventure: 5.2
+city_culture: 2.6
+historic_culture: 2.6
 ---
 
 Devil's Tower rises 867 feet above the Belle Fourche River valley in northeastern Wyoming, a striking column of igneous rock that was the first designated National Monument in the United States. The tower's distinctive vertical columns — formed as molten rock cooled and fractured into hexagonal pillars — make it one of the most recognizable geological formations in the American West. Sacred to several Native American tribes, it is known as Bear Lodge among the Lakota.

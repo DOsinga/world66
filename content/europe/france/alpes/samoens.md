@@ -16,6 +16,11 @@ image: samoens.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Samo%C3%ABns_Lagrange_hdsr2016_07_28_9999_447.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Hyppolyte de Saint-Rambert
+nature: 6.8
+leisure: 6.4
+adventure: 3.6
+city_culture: 2.7
+historic_culture: 2.7
 ---
 
 Samoëns is one of the more civilised bases in the French Alps: an old stone village in the Giffre valley, with proper shops, a handsome square, and mountains close enough to dominate every street end. It has ski access to the Grand Massif in winter, but it does not feel like a purpose-built resort. That is the charm.

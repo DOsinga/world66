@@ -14,6 +14,11 @@ title: Bregenz
 type: location
 snippet: Vorarlberg capital on Lake Constance, known for its floating summer opera
   stage.
+nature: 4.6
+leisure: 7.4
+adventure: 2.5
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Bregenz is the capital of Vorarlberg, Austria's westernmost province, sitting on the eastern shore of Lake Constance (Bodensee) where the lake meets the alpine foothills. It is a compact, attractive town, and the lake gives it an almost coastal feel — unusual for landlocked Austria.

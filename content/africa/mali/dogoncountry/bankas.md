@@ -10,6 +10,11 @@ title: Bankas
 type: location
 snippet: Small Malian town at the southern Bandiagara Escarpment, starting point for
   Dogon Country treks.
+nature: 6.1
+leisure: 1.2
+adventure: 8.8
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Bankas sits at the southern end of the Bandiagara Escarpment and is one of the better starting points for a trek into [Dogon Country](/africa/mali/dogoncountry). It is smaller and considerably less touristed than [Bandiagara](/africa/mali/dogoncountry/bandiagara), which means the guides here tend to be friendlier and less pushy — a real advantage when you are negotiating a multi-day trek through the cliff villages.

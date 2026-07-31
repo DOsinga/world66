@@ -14,6 +14,11 @@ snippet: Jutland university city with old streets, strong museums, and ARoS’s 
   panorama above town
 title: Aarhus
 type: location
+nature: 2.0
+leisure: 7.9
+adventure: 1.7
+city_culture: 8.1
+historic_culture: 8.1
 ---
 
 Aarhus is Denmark's second city and the capital of Jutland, a university town with a well-preserved old centre, excellent museums, and a lively bar and restaurant scene. It has the cultural weight of a much larger city — [ARoS](/europe/denmark/aarhus/aros), the art museum topped with Olafur Eliasson's rainbow panorama walkway, is genuinely world-class — but keeps the easy, walkable scale of a place where everything is within reach.

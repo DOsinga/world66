@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Omkareshwar_Temple
 title: Omkareshwar
 type: location
+nature: 3.8
+leisure: 5.1
+adventure: 4.5
+city_culture: 7.1
+historic_culture: 7.1
 ---
 
 Omkareshwar is a pilgrimage town on the Narmada, built around Mandhata island and one of the twelve jyotirlinga shrines of Shiva. The setting is the point: bridges, ghats, temple bells, saffron-robed pilgrims, and the river curling around an island that tradition reads as the sacred syllable Om.

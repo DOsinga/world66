@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Fort_of_Santa_Catarina_(Portim%C3%A3o)
 title: Portimao
 type: location
+nature: 4.7
+leisure: 7.9
+adventure: 1.9
+city_culture: 4.0
+historic_culture: 4.0
 ---
 
 Portimão sits on the western Algarve coast where the Arade River meets the sea, a proper working town that has managed to stay real even as the tourist industry has grown up around it. For centuries this was a sardine-fishing port — the canneries that once lined the waterfront have been converted into museums and restaurants, but the boats still go out and the fish market still smells like fish. The long sandy beach at [Praia da Rocha](/europe/portugal/portimao/praia_da_rocha), just a couple of kilometres south, is one of the finest on the Algarve, backed by ochre cliffs and dotted with rock stacks worn into strange shapes by the Atlantic.

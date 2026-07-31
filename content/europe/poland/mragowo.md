@@ -14,6 +14,11 @@ title: Mragowo
 type: location
 snippet: Small Masurian Lake District town between lakes Juno and Czos, known for
   its country music festival.
+nature: 5.2
+leisure: 7.1
+adventure: 2.4
+city_culture: 4.0
+historic_culture: 4.0
 ---
 
 Mragowo is a small town in Poland's Masurian Lake District, wedged between lakes Juno and Czos. It makes a good base for exploring the surrounding countryside of forests and waterways.

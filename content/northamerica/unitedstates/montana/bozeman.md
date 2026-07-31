@@ -13,6 +13,11 @@ title: Bozeman
 type: location
 snippet: Montana college town in the Gallatin Valley, between Bridger Mountain trails
   and Yellowstone access.
+nature: 4.7
+leisure: 4.7
+adventure: 4.6
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Bozeman sits in the Gallatin Valley at the foot of the Bridger Mountains, a college town that has become one of Montana's most visited cities. Home to [Montana State University](/northamerica/unitedstates/montana/bozeman/montana_state_university), it has a lively, outdoorsy character — the kind of place where hikers and skiers share coffee shops with researchers and ranchers.

@@ -14,6 +14,11 @@ snippet: Northwest Argentine city where independence was declared, set amid subt
   hills and empanada culture
 title: Tucuman
 type: location
+nature: 4.8
+leisure: 4.0
+adventure: 5.2
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 San Miguel de Tucumán is Argentina's fifth-largest city and the capital of its smallest province. It is known as the "Garden of the Republic" for its lush subtropical vegetation, and as the place where Argentine independence was declared on 9 July 1816 — the [Casa Histórica de la Independencia](/southamerica/argentina/tucuman/casa_historica_de_la_independencia), now a museum, is the city's most important landmark.

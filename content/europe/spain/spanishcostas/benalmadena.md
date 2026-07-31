@@ -14,6 +14,11 @@ snippet: Costa del Sol resort town with a beach strip, old village, and hilltop 
   views.
 title: Benalmadena
 type: location
+nature: 4.7
+leisure: 7.9
+adventure: 1.9
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 Benalmádena is a resort town on the Costa del Sol between [Torremolinos](/europe/spain/spanishcostas/torremolinos) and [Fuengirola](/europe/spain/spanishcostas/fuengirola), about 20 minutes west of [Málaga](/europe/spain/andalucia/malaga). It divides into three distinct parts: the [pueblo](/europe/spain/spanishcostas/benalmadena/pueblo) (old village) up in the hills, Arroyo de la Miel (the main residential and commercial centre), and the costa (the beachfront strip with hotels, bars, and the marina).

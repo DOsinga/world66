@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Gharyan
 title: Gharyan
 type: location
+nature: 5.8
+leisure: 1.4
+adventure: 8.0
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Gharyan (also Gharian) is the main town of the Nafusa Mountains, about 90 km south of [Tripoli](/africa/libya/tripoli) on the road toward Ghadames. It sits at around 900 metres elevation, which makes it noticeably cooler than the coast in summer.

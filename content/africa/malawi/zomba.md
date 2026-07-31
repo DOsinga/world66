@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Zomba,_Malawi
 title: Zomba
 type: location
+nature: 4.9
+leisure: 4.4
+adventure: 5.1
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Zomba is one of the most attractive cities in Malawi — a former colonial capital draped along the lower slopes of the Zomba Plateau, with broad jacaranda-shaded avenues, half a century of red-brick colonial architecture, and an unusual amount of greenery. It served as Malawi's capital from 1891 through 1974, when the seat of government moved to Lilongwe, and the city has been quietly genteel ever since. The University of Malawi's main campus is here, which keeps it busier and more cosmopolitan than its size would suggest.

@@ -11,6 +11,11 @@ snippet: Historic Essex port where the Mayflower's captain lived, with ferry tra
 title: Harwich
 type: location
 loc_type: city
+nature: 4.4
+leisure: 4.4
+adventure: 4.7
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Harwich sits at the tip of a narrow peninsula where the rivers Stour and Orwell meet the North Sea, and it has been sending ships out into that sea for eight centuries. This is the port where Christopher Jones, captain of the Mayflower, was born and buried; where Drake, Hawkins, and Frobisher fitted out their Elizabethan expeditions; where Samuel Pepys served as MP and took a close interest in the Royal Navy's operations. Today Stena Line runs overnight ferries to the Hook of Holland from here, making Harwich the starting point — or finishing point — for a great many European road trips.

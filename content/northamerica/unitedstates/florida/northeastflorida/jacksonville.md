@@ -10,6 +10,11 @@ snippet: Sprawling Atlantic river city where Jacksonville's arts neighbourhoods 
   between the St. Johns and the beaches.
 title: Jacksonville
 type: location
+nature: 4.0
+leisure: 5.3
+adventure: 3.9
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Jacksonville is the largest city by area in the contiguous United States, sprawling across both sides of the St. Johns River where it empties into the Atlantic. It is a city that rewards the curious — behind the downtown skyline and suburban sprawl, you will find distinct neighbourhoods with real character, a serious arts scene, and easy access to some of northeast Florida's best beaches.

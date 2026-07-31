@@ -16,6 +16,11 @@ type: location
 score: 8.59
 snippet: Ottoman valley town of timber mansions, bazaar lanes, saffron-trading history,
   and UNESCO protection.
+nature: 3.8
+leisure: 5.1
+adventure: 4.6
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Safranbolu is one of the best-preserved Ottoman towns in existence — a UNESCO World Heritage Site since 1994 and one of the rare cases where a designation like that actually describes something real. The old town (Çarşı) is a maze of 18th and 19th-century Ottoman houses with overhanging upper floors, carved wooden interiors, and basement winter quarters, all built into a narrow valley with a stream running through it and a mosque marking the centre. Walk in any direction from the old bazaar and you will stumble onto something that looks like it should be in a museum but is instead someone's home.

@@ -14,6 +14,11 @@ snippet: Working harbour city on Jutland’s west coast, with North Sea industry
   easy access to Ribe.
 title: Esbjerg
 type: location
+nature: 4.2
+leisure: 5.4
+adventure: 3.8
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Esbjerg sits on the west coast of Jutland, Denmark's fifth largest city with around 83,000 inhabitants. It is a working harbour town at heart — the harbour built the city, and today it serves as the base for Denmark's offshore oil and gas industry. But the surroundings are what make it worth a stop: vast sandy beaches stretch along the coast, and Denmark's oldest town, [Ribe](/europe/denmark/ribe), is just 30 kilometres south.

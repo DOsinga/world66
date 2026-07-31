@@ -12,6 +12,11 @@ snippet: Andean valley city known for Kotosh's ancient crossed-hands temple and 
   mild agricultural setting.
 title: Huánuco
 type: location
+nature: 7.9
+leisure: 3.7
+adventure: 6.1
+city_culture: 2.5
+historic_culture: 2.5
 ---
 
 Huánuco sits in a fertile valley on the eastern slopes of the Andes at around 1,800 metres, giving it a mild, pleasant climate that locals proudly call "the best in the world." The city is the capital of the Huánuco region and serves as a market town for the surrounding agricultural areas, which produce coffee, cacao, and tropical fruit. It is not on most tourist itineraries, which means you get an authentic Peruvian highland city without the crowds.

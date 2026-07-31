@@ -13,6 +13,11 @@ snippet: Norwegian coastal city spread across four islands, historically built o
   klippfisk production and harbour trade.
 title: Kristiansund
 type: location
+nature: 5.1
+leisure: 6.4
+adventure: 3.3
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Kristiansund (sometimes written Kristiansund N, to distinguish it from Kristiansand in the south) is a small coastal city in Møre og Romsdal, built across four islands connected by bridges. It has been a fishing and trading town for centuries, and the production of klippfisk (dried and salted cod) was once the economic backbone — the [Klippfiskmuseet](/europe/norway/kristiansund/klippfiskmuseet) in the old town tells that story.

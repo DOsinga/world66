@@ -9,6 +9,11 @@ score: 7.81
 loc_type: feature
 snippet: Southern Malawi massif with high escarpments, cedar forests, and the 3,002-metre
   Sapitwa Peak.
+nature: 9.0
+leisure: 3.4
+adventure: 6.4
+city_culture: 1.5
+historic_culture: 1.5
 ---
 
 Rising dramatically from the flat plains of southern Malawi, the Mulanje Massif — known locally as "the island in the sky" — is one of the most spectacular hiking destinations in Central Africa. At 3,002 metres, Sapitwa Peak is the highest point in the region, and the plateau's sheer escarpments, cedar forests, and sweeping grasslands make the effort of getting up there very much worth it.

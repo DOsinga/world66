@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/Turner_Falls
 title: Davis
 type: location
+nature: 3.8
+leisure: 4.3
+adventure: 4.8
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Davis is a small town in south-central Oklahoma, close enough to I-35 to be easy and close enough to the Arbuckle Mountains to feel like a break from the plains. It is the natural base for [Turner Falls](/northamerica/unitedstates/oklahoma/davis/turner_falls), Oklahoma's tallest waterfall, and for a wider loop through the spring-fed creeks, limestone hills, and Chickasaw history around Sulphur.

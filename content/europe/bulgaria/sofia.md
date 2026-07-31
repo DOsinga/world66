@@ -15,6 +15,11 @@ snippet: Compact Bulgarian capital below Vitosha mountain, layered with Orthodox
   Roman remains, and café culture
 title: Sofia
 type: location
+nature: 2.3
+leisure: 7.4
+adventure: 2.4
+city_culture: 7.7
+historic_culture: 7.7
 ---
 
 Sofia is a compact, walkable capital with a relaxed atmosphere and a quality-of-life that surprises most first-time visitors. It is one of the cheaper European capitals, has good museums, excellent café culture, and easy access to the [Vitosha mountain](/europe/bulgaria/sofia/vitosha_mountain) that rises directly above the southern suburbs.

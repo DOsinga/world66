@@ -11,6 +11,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Taiyuan
 title: Taiyuan
 type: location
+nature: 3.5
+leisure: 4.6
+adventure: 4.5
+city_culture: 7.1
+historic_culture: 7.1
 ---
 
 Taiyuan is the provincial capital of Shanxi and the inevitable gateway into it — high-speed trains from Beijing reach here in under three hours, and from here the province fans out in all directions. The city has been inhabited for over 2,500 years and served as a capital or stronghold for several dynasties; the Tang founders assembled their armies here before marching south to seize the empire. None of that history is easy to see in the modern city, which is heavily industrialised and caked in the coal dust that funds Shanxi's economy, but a day or two spent here rewards the patient traveller.

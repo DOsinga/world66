@@ -13,6 +13,11 @@ image: tagbilaran.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Blood_Compact_Shrine.jpg
 image_license: CC BY 4.0
 image_attribution: AroundBohol
+nature: 5.1
+leisure: 5.1
+adventure: 4.6
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Tagbilaran is the capital of Bohol and the most likely starting point for exploring the island. It is a small, functional city — not a destination in itself, but a convenient base with an airport, the main ferry terminal, and enough services to get you sorted before heading out.

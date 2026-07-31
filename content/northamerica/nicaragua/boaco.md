@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Boaco
 title: Boaco
 type: location
+nature: 6.0
+leisure: 2.9
+adventure: 6.6
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Boaco sits about 90 km northeast of Managua, a hill town that has grown from a quiet mountaintop community into the bustling capital of the Department of Boaco. The city spreads down the flanks of its mountain and out into the surrounding cattle country — it calls itself "La Ciudad de Dos Pisos" (the City of Two Floors) for the way it occupies two distinct levels of the same hillside.

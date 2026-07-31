@@ -15,6 +15,11 @@ image: inlelake.jpg
 image_source: https://commons.wikimedia.org/wiki/File:20160805_-_Inle_Lake,_Myanmar_-_8453_DxO.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Jakub Hałun
+nature: 6.5
+leisure: 6.3
+adventure: 3.5
+city_culture: 3.4
+historic_culture: 3.4
 ---
 
 Inle Lake is one of Myanmar's most captivating destinations — a vast freshwater lake in the Shan Hills where life happens almost entirely on water. Villages stand on stilts, gardens float on the surface, and fishermen balance on one leg while rowing with the other, a technique found nowhere else in the world.

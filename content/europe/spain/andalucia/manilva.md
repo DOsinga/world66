@@ -15,6 +15,11 @@ title: Manilva
 type: location
 snippet: Costa del Sol municipality where inland vineyards meet Sabinillas beaches
   and La Duquesa marina.
+nature: 3.9
+leisure: 6.8
+adventure: 2.6
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Manilva lies at the southwestern edge of Málaga province, where the Costa del Sol meets the border with Cádiz. It is a municipality of three parts: the main town of Manilva, about 2 km inland; the coastal village of Sabinillas (San Luis de Sabinillas); and the small fishing village of Castillo de la Duquesa to the west, with the marina of Puerto de la Duquesa alongside.

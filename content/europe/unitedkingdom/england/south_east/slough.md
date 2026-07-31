@@ -13,6 +13,11 @@ snippet: Diverse Heathrow-corridor town whose trading estate gives it more econo
   energy than charm
 title: Slough
 type: location
+nature: 3.9
+leisure: 4.1
+adventure: 4.9
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Slough has an image problem, immortalized by John Betjeman's poem urging friendly bombs and by Ricky Gervais's portrayal of its soul-crushing office culture in The Office. The reality is more interesting than the caricature. Slough is one of the most ethnically diverse towns in Britain and has a genuine economic energy driven by its trading estate, one of the largest in single private ownership in Europe, and its position on the Heathrow corridor.

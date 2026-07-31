@@ -10,6 +10,11 @@ snippet: Ohio River city with German heritage, Cincinnati chili, and the brick I
   streets of Over-the-Rhine.
 title: Cincinnati
 type: location
+nature: 3.3
+leisure: 4.5
+adventure: 4.6
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Cincinnati sits on the Ohio River where Ohio, Kentucky, and Indiana meet. It's a Midwestern city with a genuine character — German immigrant heritage, a serious food tradition (Cincinnati chili is unlike any chili elsewhere), and a walkable downtown that has bounced back from decades of decline.

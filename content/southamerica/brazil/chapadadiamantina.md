@@ -17,6 +17,11 @@ type: location
 score: 8.73
 snippet: Bahian plateau of quartzite mesas, deep canyons, clear pools, and Brazil's
   old diamond country.
+nature: 7.9
+leisure: 5.0
+adventure: 4.9
+city_culture: 2.3
+historic_culture: 2.3
 ---
 
 Chapada Diamantina is a tableland plateau in the state of Bahia, a landscape of ancient quartzite mesas, deep river canyons, crystal-clear pools, and some of the most dramatic waterfalls in South America. The national park at its heart protects 152,000 hectares of cerrado (savanna), caatinga (dry scrubland), and gallery forest, carved by rivers that have spent millions of years cutting into the sedimentary rock. The result is a landscape of extraordinary variety: from the lunar surface of the high plateau (chapada) to the lush canyon floors where wild orchids and bromeliads cling to the cliff faces.

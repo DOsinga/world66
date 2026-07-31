@@ -14,6 +14,11 @@ snippet: Northwestern Ohio industrial city where locomotive works and oil refini
   shaped a riverfront county seat.
 title: Lima
 type: location
+nature: 3.7
+leisure: 4.3
+adventure: 4.7
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Lima is a midsize city in northwestern Ohio, sitting along Interstate 75 in Allen County, of which it is the county seat. It sits on the banks of the Ottawa River and was founded in 1831 — named, oddly enough, after Lima, Peru, because the quinine bark used to treat malaria in the pioneer days came from there.

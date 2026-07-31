@@ -10,6 +10,11 @@ snippet: Surrey Downs village with chalk walks, woodland, and quick train access
   central London
 title: Woldingham
 type: location
+nature: 4.6
+leisure: 5.0
+adventure: 4.0
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Woldingham sits high on the North Downs in Surrey, about 20 miles south of central London, in an Area of Outstanding Natural Beauty. The village has no pub — an anomaly even by English standards — but it has chalk downland walks, good train access from London Bridge (about 30 minutes to Woldingham station), and a quiet character that makes it a worthwhile half-day escape from the city.

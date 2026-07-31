@@ -10,6 +10,11 @@ snippet: Colorado mountain town where gold-rush history and hot springs meet the
   west from Denver
 title: Idaho Springs
 type: location
+nature: 6.4
+leisure: 5.7
+adventure: 4.1
+city_culture: 3.3
+historic_culture: 3.3
 ---
 
 Idaho Springs is the first mountain town you reach heading west from Denver on Interstate 70, about 35 miles from the city at an elevation of 7,540 feet. It was founded after George Jackson found gold along Chicago Creek in 1859 and grew as a mining and health resort — the geothermal waters were considered curative, and the hot springs are still open at Indian Springs Resort.

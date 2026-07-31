@@ -13,6 +13,11 @@ snippet: Tioman Island's administrative village, where practical services cluste
   beside the island's only paved road
 title: Tekek Village
 type: location
+nature: 7.2
+leisure: 6.3
+adventure: 3.7
+city_culture: 2.2
+historic_culture: 2.2
 ---
 
 Tekek is the administrative heart of [Tioman](/asia/malaysia/tiomanisland). The [airport](/asia/malaysia/tiomanisland/tekekvillage/tioman_airport), police station, hospital, government offices, and mosque are all here, along with a few well-stocked shops and an internet cafe. If you need to sort anything practical on the island, this is where you do it. The whole village sits inside the [Marine Park](/asia/malaysia/tiomanisland/tekekvillage/marine_park_centre), and the entry fee is collected at a small office near the jetty.

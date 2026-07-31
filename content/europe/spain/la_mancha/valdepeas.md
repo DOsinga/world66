@@ -18,6 +18,11 @@ sources:
 - https://en.wikipedia.org/wiki/Gregorio_Prieto
 snippet: La Mancha wine town whose name still marks one of Spain's everyday red-wine
   regions.
+nature: 3.4
+leisure: 6.8
+adventure: 2.5
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Valdepeñas is the wine capital of La Mancha, sitting at the southern edge of the vast Castilian plateau about two hours south of Madrid. The town gives its name to one of Spain's most widely drunk denominations — Valdepeñas wine is the reliable house red in bars across the country, though the best producers here make far more interesting bottles than that reputation suggests.

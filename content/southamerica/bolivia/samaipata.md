@@ -10,6 +10,11 @@ snippet: Andean foothill town near Santa Cruz, known for El Fuerte and cloud-for
   excursions.
 title: Samaipata
 type: location
+nature: 6.6
+leisure: 5.2
+adventure: 4.7
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 Samaipata is a small mountain town in the foothills of the Andes, about 120 km west of [Santa Cruz de la Sierra](/southamerica/bolivia/santacruz), at an altitude of around 1,650 metres. Its agreeable climate — cooler and greener than the lowland heat — makes it a favourite escape for backpackers, and the town's growing community of cafes, guesthouses, and guides gives it an easy, sociable atmosphere.

@@ -16,6 +16,11 @@ title: Xi'an
 type: location
 snippet: Xi’an is a former Chinese capital and Silk Road terminus, famed for the Terracotta
   Warriors.
+nature: 2.6
+leisure: 5.7
+adventure: 4.1
+city_culture: 8.6
+historic_culture: 8.6
 ---
 
 Xi'an was China's capital for eleven dynasties and the eastern terminus of the Silk Road. Today it's a city of 8 million, mostly unremarkable in appearance, but it holds some of the most significant historical sites in Asia. The Terracotta Warriors alone justify the trip.

@@ -13,6 +13,11 @@ snippet: Fiordland fiord of granite walls, dark water, and waterfalls, carved by
   despite its famous sound name.
 title: Milford Sound
 type: location
+nature: 8.5
+leisure: 5.3
+adventure: 4.5
+city_culture: 1.3
+historic_culture: 1.3
 ---
 
 Milford Sound is technically a fiord, not a sound — carved by glaciers rather than rivers — but the Welsh explorer who named it after Milford Haven in Wales did not know the difference in 1823, and the name stuck. Whatever you call it, nothing quite prepares you for the place: towering granite walls rise over a thousand metres from dark water, waterfalls cascade from every hanging valley, and the weather shifts from rain to blazing sunshine in minutes.

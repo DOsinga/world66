@@ -10,6 +10,11 @@ title: Great Barrington
 type: location
 snippet: Southern Berkshires town with a compact Main Street framed by Taconic and
   Berkshire hills.
+nature: 4.6
+leisure: 6.4
+adventure: 3.1
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Great Barrington sits in the southwestern corner of Massachusetts, tucked between the Taconic and Berkshire hills where Connecticut and New York press in from two sides. It's the largest town in the southern Berkshires and functions as the commercial and cultural hub for the region — a compact Main Street lined with good restaurants, galleries, and independent shops, surrounded by serious countryside.

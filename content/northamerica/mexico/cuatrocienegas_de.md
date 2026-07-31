@@ -13,6 +13,11 @@ title: Cuatrocienegas
 type: location
 snippet: Coahuila desert town beside spring-fed pozas with endemic species and living
   stromatolites.
+nature: 8.2
+leisure: 4.0
+adventure: 5.7
+city_culture: 1.9
+historic_culture: 1.9
 ---
 
 Cuatrocienegas sits in a desert valley in the state of Coahuila, surrounded by mountains and home to one of Mexico's most remarkable natural areas. The Cuatrocienegas Protected Area contains hundreds of spring-fed pools — pozas — with startlingly blue water in the middle of the Chihuahuan Desert. The pools support endemic species found nowhere else on earth, including unique turtles and stromatolites, living rock formations similar to some of the earliest life on the planet.

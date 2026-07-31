@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Izumo-taisha
 title: Izumo
 type: location
+nature: 3.1
+leisure: 6.0
+adventure: 3.6
+city_culture: 7.5
+historic_culture: 7.5
 ---
 
 Izumo is a small city in Shimane prefecture, on the Sea of Japan coast of western Honshu. It is best known for [Izumo Taisha](/asia/japan/honshu/izumo/izumo_taisha), one of the oldest and most important Shinto shrines in Japan — according to tradition, the gods of all Japan gather here each October, turning Izumo into the only place in the country where the gods are present while everywhere else they are absent. The shrine's massive shimenawa (sacred rope) and the grand hall are impressive even for casual visitors, and the whole complex has a gravity that distinguishes it from the more decorative shrine circuits of Kyoto or Nara.

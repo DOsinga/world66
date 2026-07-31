@@ -10,6 +10,11 @@ snippet: Finnish inland town on Lake Vanajavesi, built around Häme Castle and J
   Sibelius's childhood home.
 title: Hameenlinna
 type: location
+nature: 4.9
+leisure: 5.4
+adventure: 3.9
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Hämeenlinna is one of [Finland's](/europe/finland) oldest inland towns, built around a red-brick medieval castle on the shore of Lake Vanajavesi, about 100 kilometres north of [Helsinki](/europe/finland/helsinki). [Häme Castle](/europe/finland/hameenlinna/hame_castle) dates from the 13th century and is one of the best-preserved medieval fortifications in the country — its thick walls and courtyard are open to visitors year-round, and the interior houses exhibitions on the castle's history as a fortress, granary, and prison.

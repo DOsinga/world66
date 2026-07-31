@@ -14,6 +14,11 @@ snippet: Bengali pilgrimage city on the Bhagirathi, revered as Chaitanya Mahapra
   Vaishnava birthplace
 title: Nabadwip
 type: location
+nature: 3.9
+leisure: 5.1
+adventure: 4.0
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Nabadwip is a pilgrimage city in Nadia district, 65 km from Kolkata on the Bhagirathi River. It was the medieval capital of the Sena dynasty and for five centuries served as one of Bengal's great centres of Sanskrit learning — the "Oxford of Bengal" in the old descriptions. More importantly for the hundreds of thousands of pilgrims who come each year, it is the birthplace of Chaitanya Mahaprabhu (1486–1533), the saint who transformed Vaishnava devotional practice across Bengal and beyond. His movement, Gaudiya Vaishnavism, has spread worldwide through ISKCON, and the town draws pilgrims from every continent.

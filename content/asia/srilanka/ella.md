@@ -16,6 +16,11 @@ snippet: Small Sri Lankan hill town set around a mountain gap with views toward 
   southern plains.
 title: Ella
 type: location
+nature: 5.3
+leisure: 4.9
+adventure: 4.8
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Ella is a small hill town in Sri Lanka's southern highlands that punches well above its weight. Perched at about 1,000 metres, it sits in a gap in the mountain wall where the land drops away dramatically to the southern plains — a view that on clear days stretches all the way to the coast. The town itself is little more than a single main street, but the setting is extraordinary.

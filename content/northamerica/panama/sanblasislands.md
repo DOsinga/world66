@@ -13,6 +13,11 @@ snippet: Guna Yala archipelago of coral islets governed by the Indigenous Guna a
   Panama's Caribbean coast.
 title: San Blas Islands
 type: location
+nature: 6.8
+leisure: 6.0
+adventure: 4.0
+city_culture: 3.1
+historic_culture: 3.1
 ---
 
 The San Blas Islands — **Guna Yala** in the language of the indigenous people who live there — are an archipelago of around 370 palm-covered coral islets strung along the Caribbean coast of Panama. Only about 50 of them are inhabited. They belong, in any meaningful sense, not to Panama but to the **Guna** (formerly spelled Kuna), the indigenous people who won effective self-government in a 1925 uprising and still run the archipelago as an autonomous *comarca*, with their own laws, their own customs, and a firm control over who can visit and for how long. It is one of the very few remaining places in Latin America where an indigenous people lives something close to the way they did before the Europeans arrived.

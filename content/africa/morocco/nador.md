@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Mount_Gurugu
 title: Nador
 type: location
+nature: 5.3
+leisure: 2.8
+adventure: 6.7
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Nador is not the prettiest town on Morocco's Mediterranean coast, but it is one of the most interesting. It sits beside the broad, shallow [Marchica Lagoon](/africa/morocco/nador/marchica_lagoon), close enough to the Spanish enclave of [Melilla](/europe/spain/melilla) that Spanish, Riffian, Arabic, and ferry-port pragmatism all mix in the streets.

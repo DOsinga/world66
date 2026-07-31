@@ -10,6 +10,11 @@ snippet: Uninhabited Turks and Caicos island of mangrove swamps, limestone caves
   deserted sisal ruins, and empty beaches.
 title: East Caicos
 type: location
+nature: 6.6
+leisure: 5.8
+adventure: 3.8
+city_culture: 2.7
+historic_culture: 2.7
 ---
 
 East Caicos is the largest uninhabited island in the Turks and Caicos, covering about 18 square miles of mangrove swamp, limestone caves, and some of the most pristine beaches in the archipelago. The island's highest point — Flamingo Hill, at a modest 48 metres — is also the highest point in the entire island chain.

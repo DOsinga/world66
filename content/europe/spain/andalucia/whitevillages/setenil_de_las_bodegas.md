@@ -17,6 +17,11 @@ sources:
 - https://www.guiadecadiz.com/es/iglesia-encarnacion-setenil
 title: Setenil de las Bodegas
 type: location
+nature: 3.8
+leisure: 6.4
+adventure: 3.3
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Setenil de las Bodegas is the strangest and most memorable of the [White Villages](/europe/spain/andalucia/whitevillages). Instead of simply climbing a hill, the town burrows into the gorge of the Río Trejo, with houses, bars, and lanes tucked under enormous shelves of limestone. It is not subtle, and it does not need to be.

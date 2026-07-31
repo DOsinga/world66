@@ -11,6 +11,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Hukou_Waterfall
 title: Hukou Waterfall
 type: location
+nature: 7.3
+leisure: 3.9
+adventure: 5.7
+city_culture: 2.6
+historic_culture: 2.6
 ---
 
 The Hukou Waterfall is the largest waterfall on the Yellow River and the second largest in China — not by height, but by the sheer volume and drama of a river 300 metres wide suddenly forcing itself through a gorge only 20 metres across before dropping 30 metres into the gorge below. The name means "flask mouth," and the analogy is apt: the river pours through the constriction with a roar audible a kilometre away, the water below turning white and spray-brown against the yellow loess cliffs. It sits on the Shanxi-Shaanxi provincial border, and the most practical access is from the Shanxi side via Linfen, about 150 km to the east.

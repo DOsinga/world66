@@ -14,6 +14,11 @@ title: Siracusa
 snippet: Ancient Sicilian city where Greek temples, Baroque Ortigia, and Mediterranean
   harbour life overlap.
 type: location
+nature: 2.5
+leisure: 7.1
+adventure: 2.5
+city_culture: 7.9
+historic_culture: 7.9
 ---
 
 Siracusa was for a short period the main rival of Athens, the capital of one of the most powerful states in the ancient Mediterranean. It has been continuously inhabited since, which explains why some of the ancient remains can be hard to spot amid the later layers.

@@ -14,6 +14,11 @@ snippet: Southern Leyte market town on Sogod Bay, serving as the province's main
   hub.
 title: Sogod
 type: location
+nature: 5.8
+leisure: 4.4
+adventure: 5.1
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Sogod is the second-largest town in Southern Leyte, serving as a regional hub for commerce and education in the province. It sits on the western coast of Southern Leyte facing the Sogod Bay, and serves as the main transport hub for moving through the province — travellers between Maasin (the provincial capital) and the northern part of Southern Leyte typically pass through here.

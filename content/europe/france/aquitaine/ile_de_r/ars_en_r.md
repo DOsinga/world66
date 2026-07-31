@@ -14,6 +14,11 @@ snippet: Île de Ré harbour village marked by a black-and-white church steeple 
   salt marshes.
 title: Ars-en-Ré
 type: location
+nature: 4.8
+leisure: 7.7
+adventure: 2.1
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 Ars-en-Ré is one of the most distinctive villages on the Île de Ré, known above all for the black-and-white painted steeple of its Gothic church — a landmark visible from the sea that has guided sailors into port for centuries. The village sits at the northern end of the island, bordered by oyster beds and salt marshes that give it a quieter, less touristed character than the beaches further south.

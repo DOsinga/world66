@@ -14,6 +14,11 @@ snippet: Northern Albanian city with Venetian and Ottoman layers, Rozafa Castle,
   views over Lake Shkodër.
 title: Shkoder
 type: location
+nature: 3.3
+leisure: 4.1
+adventure: 5.4
+city_culture: 7.3
+historic_culture: 7.3
 ---
 
 Shkodër is Albania's fourth-largest city and the cultural capital of the north. It has a distinctive character — more Catholic than the south, with a long history as a trading city under Venetian and Ottoman rule — and a pleasant old centre of narrow lanes and colourful facades.

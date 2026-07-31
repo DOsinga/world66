@@ -15,6 +15,11 @@ snippet: Ancient Burmese plain beside the Ayeyarwady, scattered with more than 2
   temples and pagodas.
 title: Bagan
 type: location
+nature: 3.0
+leisure: 5.0
+adventure: 4.9
+city_culture: 8.4
+historic_culture: 8.4
 ---
 
 Few places in Asia stop you in your tracks the way Bagan does. Spread across a dusty plain beside the Ayeyarwady River, more than 2,000 temples, pagodas, and monasteries rise from the earth — the remains of a city that was once the capital of the first Burmese empire and one of the great cities of medieval Asia.

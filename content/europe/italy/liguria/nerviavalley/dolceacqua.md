@@ -13,6 +13,11 @@ snippet: Medieval Ligurian village in the Nervia Valley, known for its Doria cas
   stone lanes, and Monet-painted bridge.
 title: Dolceacqua
 type: location
+nature: 5.1
+leisure: 5.5
+adventure: 4.2
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Dolceacqua is a beautiful medieval village in the Nervia Valley, a short drive inland from [Ventimiglia](/europe/italy/liguria/italianriviera/ventimiglia). The [old town (Terra)](/europe/italy/liguria/nerviavalley/dolceacqua/terra) climbs up the hillside in a tangle of covered alleyways and stone staircases, topped by the ruins of the [Doria castle](/europe/italy/liguria/nerviavalley/dolceacqua/castello_doria). Below, a [single-arch medieval bridge](/europe/italy/liguria/nerviavalley/dolceacqua/ponte_vecchio) — the one Monet painted in 1884 — spans the river to connect the old quarter with the newer Borgo.

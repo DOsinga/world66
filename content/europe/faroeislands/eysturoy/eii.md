@@ -16,6 +16,11 @@ image: eii.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ei%C3%B0i,_Faroe_Islands.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Erik Christensen, Porkeri (Contact at the Danish Wikipedia)
+nature: 8.3
+leisure: 4.1
+adventure: 5.6
+city_culture: 1.6
+historic_culture: 1.6
 ---
 
 Eiði sits at the north-western edge of [Eysturoy](/europe/faroeislands/eysturoy), looking across the sound toward Streymoy and the blunt northern mountains of the Faroe Islands. The village itself is quiet: turf, sheep, a small harbour, and low houses set beneath the shoulder of Eiðiskollur. The reason to come is the landscape around it.

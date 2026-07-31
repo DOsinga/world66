@@ -16,6 +16,11 @@ snippet: Island-built Nordic capital where Lake Mälaren meets the Baltic and bo
   open the archipelago.
 title: Stockholm
 type: location
+nature: 1.5
+leisure: 9.4
+adventure: 0.8
+city_culture: 7.8
+historic_culture: 7.8
 ---
 
 Stockholm sits on 14 islands where Lake Mälaren meets the Baltic, and the city makes clever use of its geography — the water is clean enough to swim in, and boats connect the archipelago of 30,000 islands stretching east from the city. Called the "Beauty on Water," it is one of the most scenic capitals in Europe.

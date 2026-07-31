@@ -14,6 +14,11 @@ snippet: Colonial Orinoco River city whose pastel historic centre faces Venezuel
   southern wilderness
 title: Ciudad Bolívar
 type: location
+nature: 5.4
+leisure: 2.8
+adventure: 7.0
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Ciudad Bolívar is a colonial city on the southern bank of the Orinoco, and the main jumping-off point for trips to [Angel Falls](/southamerica/venezuela/angelfalls), [Canaima National Park](/southamerica/venezuela/canaima), and [La Gran Sabana](/southamerica/venezuela/lagransabana). Most travelers arrive here by bus from Caracas or by connection from Ciudad Guayana, then book a light-aircraft tour to Canaima.

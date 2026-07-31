@@ -14,6 +14,11 @@ snippet: Saharan oasis chain in northeastern Niger, where salt towns sit below t
   Kawar escarpment
 title: Kawar
 type: location
+nature: 8.5
+leisure: 1.8
+adventure: 7.8
+city_culture: 1.8
+historic_culture: 1.8
 ---
 
 Kawar is a string of oases stretching from Bilma north toward the Libyan border in the remote northeastern corner of Niger. An ancient salt-producing center and the western edge of Toubou territory, these towns are about as far from anywhere as it gets.

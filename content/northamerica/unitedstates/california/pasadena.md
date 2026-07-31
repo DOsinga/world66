@@ -16,6 +16,11 @@ snippet: Leafy Los Angeles city of Craftsman streets, Rose Bowl rituals, and hea
   museums.
 title: Pasadena
 type: location
+nature: 3.7
+leisure: 6.6
+adventure: 2.8
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Pasadena is the cultured, leafy counterpart to the sprawl of greater Los Angeles. While the rest of LA chases the next big thing, Pasadena holds onto its Craftsman bungalows, its tree-lined boulevards, and its world-class institutions with quiet confidence. You probably know it from the Rose Bowl and the Tournament of Roses Parade, but there is far more here than New Year's Day football.

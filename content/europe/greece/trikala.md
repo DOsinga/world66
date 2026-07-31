@@ -14,6 +14,11 @@ title: Trikala
 snippet: Thessaly city south of Meteora, set on ancient Trikka and the birthplace
   traditions of Asclepius.
 type: location
+nature: 4.4
+leisure: 5.8
+adventure: 3.7
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 *Europe > [Greece](/europe/greece) > Trikala*

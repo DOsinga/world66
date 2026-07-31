@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Hpa-an
 title: Hpa-an
 type: location
+nature: 5.5
+leisure: 4.4
+adventure: 5.2
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Hpa-an is the capital of Kayin (Karen) State in southeastern Myanmar, a small, unhurried town on the Thanlwin River with a landscape of limestone karst hills that has made it one of the most visually striking destinations in the country. The surrounding countryside — rice paddies, cave pagodas, dramatic rock formations, and the sacred mountain of Zwegabin — is what people come for, and it delivers at every turn.

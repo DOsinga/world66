@@ -15,6 +15,11 @@ snippet: Ukrainian Carpathian mountain town on the Prut, closest base for hikes 
   Mt. Hoverla
 title: Vorokhta
 type: location
+nature: 8.5
+leisure: 4.2
+adventure: 5.7
+city_culture: 1.9
+historic_culture: 1.9
 ---
 
 Vorokhta is a small mountain resort town in the Ukrainian Carpathians, strung along the Prut River at around 850 metres above sea level. It is best known as the closest town to [Mt. Hoverla](/europe/ukraine/carpathian_mountains/vorokhta/mt_hoverla), the highest peak in Ukraine at 2061 metres, and draws hikers and skiers from across the country.

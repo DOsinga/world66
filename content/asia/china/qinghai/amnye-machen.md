@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Qinghai
 title: Amnye Machen
 type: location
+nature: 8.4
+leisure: 1.7
+adventure: 8.2
+city_culture: 2.1
+historic_culture: 2.1
 ---
 
 Amnye Machen is the holiest mountain in Amdo — the northeastern region of historical Tibet — and one of the most sacred peaks in the entire Tibetan Buddhist world. It rises to 6,282 metres in southeastern Qinghai's Golog Prefecture, a massif of glaciers, steep ridges, and permanent snowfields that dominates a landscape of high grassland and nomad camps. For Tibetan Buddhists, the mountain is the home of the war god Machen Pomra, one of the most powerful protective deities, and the pilgrimage circuit around its base is considered deeply meritorious.

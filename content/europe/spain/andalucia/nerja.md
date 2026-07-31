@@ -14,6 +14,11 @@ snippet: Clifftop Costa del Sol town with whitewashed lanes, small coves, and a 
   cave system nearby.
 title: Nerja
 type: location
+nature: 3.8
+leisure: 8.1
+adventure: 1.6
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Nerja sits at the foot of the Sierra Almijara on cliffs high above the sea, 50 km east of [Málaga](/europe/spain/andalucia/malaga). It is a pretty and still relatively undeveloped corner of real Spain — quite unlike the high-rise resorts elsewhere on the Costa del Sol. The whitewashed lanes of the [Old Town](/europe/spain/andalucia/nerja/old_town_nerja) climb back from the cliff-top [Balcón de Europa](/europe/spain/andalucia/nerja/balcon_de_europa) and its row of cafés and palm trees.

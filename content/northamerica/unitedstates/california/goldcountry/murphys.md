@@ -15,6 +15,11 @@ snippet: Sierra Nevada foothill town with Gold Rush stone buildings, wineries, a
   a storied old hotel.
 title: Murphys
 type: location
+nature: 4.7
+leisure: 5.5
+adventure: 3.8
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Murphys is one of the Gold Country's most appealing small towns — a tree-lined main street of stone buildings, boutique wineries, and a hotel whose guest log once held the signatures of Ulysses S. Grant, Mark Twain, and the outlaw Black Bart. It has just enough to fill a day or two without ever feeling overrun.

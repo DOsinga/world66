@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Mendocino_and_Headlands_Historic_District
 snippet: Mendocino is a North Coast village on Pacific bluffs, noted for New England-style
   architecture.
+nature: 4.9
+leisure: 7.4
+adventure: 2.4
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 Mendocino sits on a dramatic headland where the coastal bluffs drop straight into the Pacific, and the town looks like it was airlifted from Cape Cod and set down on the California coast — which is essentially what happened. New England whalers settled here in the 1850s and built the saltbox houses, white-steepled church, and water towers that still define the skyline. The entire village is on the National Register of Historic Places.

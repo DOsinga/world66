@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Kolon%C3%A1dov%C3%BD_most_(Pie%C5%A1%C5%A5any)
 title: Piešťany
 type: location
+nature: 3.9
+leisure: 7.5
+adventure: 2.0
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Piešťany is Slovakia's classic spa town: genteel, leafy, and built around hot mineral water rather than nightlife. It sits on the Váh River in western Slovakia, with the famous Spa Island tucked between river branches and linked to town by the graceful [Colonnade Bridge](/europe/slovakia/piestany/colonnade_bridge).

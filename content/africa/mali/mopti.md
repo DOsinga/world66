@@ -14,6 +14,11 @@ snippet: Malian river market town where the Niger and Bani meet, long used as a 
   Country gateway.
 title: Mopti
 type: location
+nature: 6.2
+leisure: 1.9
+adventure: 8.1
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Mopti is about halfway from [Bamako](/africa/mali/bamako) to [Timbuktu](/africa/mali/timbuktu), spread across three islands at the junction of the Niger and Bani rivers. Mostly inhabited by Fulani traders, it is a busy, colourful market town where various ethnic groups come to trade fish, salt, cloth, leather goods, masks, jewellery, amber, and intricately woven [Fulani wedding blankets](/africa/mali/mopti/fulani_blankets).

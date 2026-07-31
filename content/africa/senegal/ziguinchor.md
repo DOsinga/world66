@@ -14,6 +14,11 @@ snippet: Main town of Senegal’s Casamance region, set beside the river amid fo
   mangroves, and Diola culture.
 title: Ziguinchor
 type: location
+nature: 4.4
+leisure: 4.7
+adventure: 5.0
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Ziguinchor is the main town of the Casamance region, sitting on the south bank of the Casamance River about 70 km from the Atlantic coast. It is the obvious base for exploring the lush forests, mangroves, and villages of southern Senegal.

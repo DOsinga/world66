@@ -14,6 +14,11 @@ snippet: Sonoran mission city where Padre Kino's crypt anchors a plaza of pilgri
   and political memory
 title: Magdalena de Kino
 type: location
+nature: 5.4
+leisure: 4.2
+adventure: 5.4
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 A prosperous small city of around 25,000 people, Magdalena de Kino sits 80 km south of Nogales and the Arizona border on Mexico's national route 15. Most travelers rush through — a mistake. The town has a genuine and compelling story to tell, one that touches on the colonial mission era, indigenous pilgrimage traditions, and one of modern Mexico's most mourned political tragedies.

@@ -14,6 +14,11 @@ snippet: Papuan port city at the Bird's Head Peninsula, used as the gateway to R
   Ampat.
 title: Sorong
 type: location
+nature: 7.0
+leisure: 4.5
+adventure: 5.4
+city_culture: 3.4
+historic_culture: 3.4
 ---
 
 Sorong sits at the westernmost tip of the Bird's Head Peninsula, a fading oil town with rusting tin roofs stretching along eight kilometres of coastline. It is not a place anyone comes to for its own sake.

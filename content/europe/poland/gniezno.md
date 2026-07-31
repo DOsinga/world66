@@ -16,6 +16,11 @@ snippet: Historic Polish capital east of Poznań, centred on the cathedral and i
   Romanesque bronze doors.
 title: Gniezno
 type: location
+nature: 2.9
+leisure: 6.3
+adventure: 2.7
+city_culture: 7.3
+historic_culture: 7.3
 ---
 
 Gniezno is where Poland began. The country's first historical capital sits on seven low hills about 50 km east of Poznań, and its old town still radiates the quiet gravity of a place that was once the centre of a new kingdom. Duke Mieszko I built his stronghold here in the 10th century, his son Bolesław the Brave was crowned Poland's first king in the cathedral on Lech Hill, and it was here — not Kraków or Warsaw — that the story of Poland started.

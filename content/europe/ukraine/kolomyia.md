@@ -16,6 +16,11 @@ sources:
 - https://www.karpaty.info/en/uk/if/km/kolomyja/sights/
 title: Kolomyia
 type: location
+nature: 5.2
+leisure: 4.0
+adventure: 5.6
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Kolomyia is a western Ukrainian city on the Prut River, halfway in spirit between Pokuttia and the Hutsul villages of the Carpathian foothills. It is not as polished as [Lviv](/europe/ukraine/lviv), but it has something more specific: museums, markets, and old streets tied to mountain craft traditions that are still part of local life.

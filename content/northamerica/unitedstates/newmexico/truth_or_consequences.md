@@ -13,6 +13,11 @@ sources:
 - https://sierracountynewmexico.info/things-to-do/truth-or-consequences-hot-springs/
 title: Truth or Consequences
 type: location
+nature: 5.1
+leisure: 5.7
+adventure: 3.8
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 In local parlance, it's called "T or C", and lies about two hours south of Albuquerque on Interstate 25. The former city of Hot Springs, Truth or Consequences is an interesting little town. Named after the television show of the 1950s, it's one of the more unusual places in the American West. The old bathhouses and hot springs still carry on in the historic downtown district, and the town has developed a genuine art scene alongside the spa trade. Many old buildings have been lovingly restored and now serve as restaurants, delis, bed and breakfast lodges, and galleries.

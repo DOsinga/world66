@@ -12,6 +12,11 @@ title: Tvedestrand
 snippet: Southern Norwegian coastal town of white wooden houses rising from a narrow
   fjord harbour.
 type: location
+nature: 5.3
+leisure: 5.5
+adventure: 3.9
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Tvedestrand is a small coastal town on Norway's southern shore, tucked into a narrow fjord between forested hills. White-painted wooden houses climb steeply from the harbour, and the town has the unhurried feel of a place that peaked as a shipping port in the nineteenth century and has been quietly charming ever since.

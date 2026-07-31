@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Baoting
 title: Baoting
 type: location
+nature: 5.5
+leisure: 7.0
+adventure: 2.8
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 Baoting is a highland county in Hainan's south-central hills, inhabited largely by Li and Miao communities and sitting at a cooler, damper elevation than the coastal resort towns. The landscape is emphatically tropical — dense forest, rushing streams, waterfalls — and the county has packaged much of this into two competing attraction zones that do respectable business drawing day-trippers from Sanya.

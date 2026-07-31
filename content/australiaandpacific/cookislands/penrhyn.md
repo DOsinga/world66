@@ -14,6 +14,11 @@ snippet: Remote northern Cook Islands atoll with a vast lagoon, deepwater harbou
   and fine pandanus weaving tradition.
 title: Penrhyn
 type: location
+nature: 8.9
+leisure: 2.1
+adventure: 7.6
+city_culture: 1.3
+historic_culture: 1.3
 ---
 
 Penrhyn (also known as Tongareva) is the northernmost Cook Island, sitting about 1,300km north of Rarotonga. It is the largest atoll in the Cook Islands by area — a large central lagoon ringed by a string of low islets — and one of the most remote. The population is small, living mainly in Omoka village.

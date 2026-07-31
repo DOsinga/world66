@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/Bagh_District
 title: Bagh
 type: location
+nature: 5.9
+leisure: 2.6
+adventure: 6.9
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Travel Guide

@@ -13,6 +13,11 @@ snippet: Working Caribbean port whose cargo waterfront gives way to Omoa's colon
   fortress and beaches.
 title: Puerto Cortés
 type: location
+nature: 5.6
+leisure: 3.7
+adventure: 6.0
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Puerto Cortes is Honduras's main Caribbean port, handling the majority of the country's international trade through its deep-water harbor. The town has a functional, working character that reflects this role -- container cranes and cargo ships dominate the waterfront rather than palm trees and beach bars. Yet the surrounding coastline holds some pleasant surprises for travelers willing to look beyond the port infrastructure.

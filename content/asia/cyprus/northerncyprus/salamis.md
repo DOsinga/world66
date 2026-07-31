@@ -14,6 +14,11 @@ snippet: Ancient Cypriot city with sprawling Greek and Roman ruins set in sandy 
   north of Famagusta
 title: Salamis
 type: location
+nature: 5.4
+leisure: 5.2
+adventure: 4.5
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Salamis is one of the most important archaeological sites on Cyprus, spread across a large area of sandy ground and scrubby forest about 6 kilometres north of Famagusta in Northern Cyprus. According to tradition, the city was founded by Teucer (Tefkros), a hero of the Trojan War, who named it after his home island of Salamis near Athens.

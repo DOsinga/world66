@@ -9,6 +9,11 @@ snippet: High Pyrenean lake surrounded by granite peaks, alpine meadows, and rou
   up Pic Carlit.
 title: Lac des Bouillouses
 type: location
+nature: 7.7
+leisure: 5.1
+adventure: 4.6
+city_culture: 2.1
+historic_culture: 2.1
 ---
 
 Lac des Bouillouses (Bollosa in Catalan) sits at 2,017 metres in the eastern Pyrenees, a classified natural site since 1976. The dam-created lake is surrounded by alpine meadows dotted with smaller lakes and framed by granite peaks — a landscape that draws hikers, trail runners, and picnicking families throughout the summer months.

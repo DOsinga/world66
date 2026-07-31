@@ -13,6 +13,11 @@ title: Comox Valley
 type: location
 snippet: Vancouver Island valley linking Comox, Courtenay, and Cumberland between
   mountains and the sea.
+nature: 5.9
+leisure: 5.5
+adventure: 4.2
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 The Comox Valley sits halfway up the east coast of [Vancouver Island](/northamerica/canada/britishcolumbia/vancouverisland), a cluster of three small towns — Comox, Courtenay, and Cumberland — nestled between the mountains and the ocean. The geography is what makes it: rolling mountains, alpine meadows, rivers, lakes, and forests, all within a few minutes of each other, with a temperate climate that keeps things green year-round.

@@ -14,6 +14,11 @@ snippet: Northern French market town beside the marais audomarois, a canal wetla
   of working vegetable gardens
 title: St. Omer
 type: location
+nature: 3.3
+leisure: 6.3
+adventure: 2.9
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 Saint-Omer is one of those quietly rewarding French towns that rewards you for stopping rather than driving through. It was a major trading city in the Middle Ages — positioned on the border between Flanders and Artois — and its old market square and the atmospheric ruins of Saint-Bertin Abbey still hint at that former importance. The abbey is where the last Merovingian king died in the late seventh century, which is the kind of historical footnote that makes wandering these streets feel surprisingly weighty.

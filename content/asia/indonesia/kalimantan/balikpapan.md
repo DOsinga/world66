@@ -14,6 +14,11 @@ snippet: East Kalimantan oil port and Borneo air hub, with rainforest reserves a
   the city edge.
 title: Balikpapan
 type: location
+nature: 5.1
+leisure: 3.3
+adventure: 6.1
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Balikpapan is East Kalimantan's main port and air hub, a prosperous oil city with better infrastructure than most of Borneo. Most travelers pass through on the way to [Samarinda](/asia/indonesia/kalimantan/samarinda) and the Mahakam River, but the city itself has real assets worth a day or two: the [Wain River Protected Forest](/asia/indonesia/kalimantan/balikpapan/wain_river_forest) on the northern edge of town shelters orangutans and proboscis monkeys in 10,000 hectares of lowland rainforest, and [Bukit Bangkirai](/asia/indonesia/kalimantan/balikpapan/bukit_bangkirai), 45 minutes out, has a canopy walkway through old-growth dipterocarp forest.

@@ -6,6 +6,11 @@ score: 7.55
 snippet: Quiet Gulf coast beaches far from the tourist trail
 title: Bang Saphan
 type: location
+nature: 5.8
+leisure: 6.5
+adventure: 3.2
+city_culture: 3.4
+historic_culture: 3.4
 ---
 
 Bang Saphan is a quiet beach district on the Gulf of Thailand coast, some 450 kilometres south of Bangkok, where the tourist infrastructure of the more famous resorts gives way to something simpler: long empty beaches, fishing villages, and rice paddies running to the sea. The main beach areas — Bang Saphan proper and the nearby village of Ban Krut to the north — have a handful of small resorts and guesthouses but no bars, nightclubs, or jet-ski operators. People come here specifically to escape those things.

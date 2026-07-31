@@ -16,6 +16,11 @@ image_license: Public domain
 image_attribution: Wordydave
 snippet: Central Coast wine town where hot inland days and cool nights suit Zinfandel
   and Cabernet.
+nature: 4.5
+leisure: 5.6
+adventure: 3.9
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Paso Robles sits in the northern half of San Luis Obispo County, tucked between the Santa Lucia Range and the Cholame Hills. The coastal mountains that separate it from the Pacific beaches — just 20 minutes west — also shield this inland valley from the marine layer, giving it long, hot summers and cool nights that are ideal for growing Zinfandel, Cabernet Sauvignon, and Rhône varieties.

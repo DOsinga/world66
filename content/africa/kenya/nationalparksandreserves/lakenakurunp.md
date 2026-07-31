@@ -13,6 +13,11 @@ image: lakenakurunp.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lake-Nakuru-Baboon-Hill-View.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Bjørn Christian Tørrissen
+nature: 8.1
+leisure: 5.6
+adventure: 4.2
+city_culture: 1.3
+historic_culture: 1.3
 ---
 
 Lake Nakuru is a shallow soda lake in Kenya's Rift Valley, famous for the vast flocks of flamingos that sometimes line its shores — at peak times, the lake can be ringed in pink. The national park surrounding it is compact but rich in wildlife, and it is one of Kenya's most visited parks.

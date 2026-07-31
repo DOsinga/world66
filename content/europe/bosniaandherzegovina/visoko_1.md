@@ -14,6 +14,11 @@ snippet: Bosnian valley town below Visoki fortress, known for medieval royal his
   and pyramid claims
 title: Visoko
 type: location
+nature: 4.5
+leisure: 5.1
+adventure: 4.5
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Visoko sits in the green valley of the Bosna river, roughly halfway between Sarajevo and Zenica in central Bosnia and Herzegovina. It is a small, working town with deep roots -- this was the seat of medieval Bosnian kings, and the fortress of Visoki perched above the town once served as the royal court. Today the old town centre clusters along the river where the Fojnicka flows into the Bosna, overlooked by hills on every side.

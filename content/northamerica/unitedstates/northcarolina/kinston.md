@@ -18,6 +18,11 @@ sources:
 - https://www.atlasobscura.com/places/css-neuse-ii
 title: Kinston
 type: location
+nature: 4.2
+leisure: 4.9
+adventure: 4.2
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Kinston sits roughly halfway between [Raleigh](/northamerica/unitedstates/northcarolina/raleigh) and the coast on Highway 70. This small eastern North Carolina town has gained a reputation that far exceeds its size, largely thanks to [Chef and the Farmer](/northamerica/unitedstates/northcarolina/kinston/chef_and_the_farmer), a nationally acclaimed restaurant on Queen Street that put Kinston on the food map. The restaurant and the surrounding downtown revival were the subject of the PBS series *A Chef's Life*.

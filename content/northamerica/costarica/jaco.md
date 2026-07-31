@@ -7,6 +7,11 @@ snippet: Accessible Costa Rican surf town with a long volcanic-sand beach near S
   José.
 title: Jacó
 type: location
+nature: 5.7
+leisure: 7.0
+adventure: 2.9
+city_culture: 3.3
+historic_culture: 3.3
 ---
 
 Jacó is Costa Rica's most accessible Pacific beach town, about 100 kilometres southwest of San José on the central Pacific coast. The drive takes around 90 minutes, which makes it the default weekend escape for the capital and a popular first stop for international visitors who want sand without a long journey.

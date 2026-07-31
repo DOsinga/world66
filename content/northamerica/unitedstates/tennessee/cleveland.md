@@ -10,6 +10,11 @@ snippet: Southeastern Tennessee college town with a preserved courthouse core an
   nearby Ocoee River rafting
 title: Cleveland
 type: location
+nature: 4.6
+leisure: 4.6
+adventure: 4.5
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Cleveland is a small city in southeastern Tennessee, about 40 km north of [Chattanooga](/northamerica/unitedstates/tennessee/chattanooga) and 130 km south of [Knoxville](/northamerica/unitedstates/tennessee/knoxville). It is the county seat of Bradley County and home to [Lee University](/northamerica/unitedstates/tennessee/cleveland/lee_university) and Cleveland State Community College. Downtown has a compact, well-preserved [historic core](/northamerica/unitedstates/tennessee/cleveland/historic_district) around the courthouse and Ocoee Street, with the elegant 1878 [Craigmiles Hall](/northamerica/unitedstates/tennessee/cleveland/craigmiles_hall) as its centrepiece.

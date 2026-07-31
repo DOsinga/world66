@@ -10,6 +10,11 @@ snippet: Darién Province town near the Pan-American Highway's jungle end, used 
   supplies and onward logistics.
 title: Meteti
 type: location
+nature: 6.2
+leisure: 3.4
+adventure: 6.3
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Meteti is a small town in Panama's Darién Province and effectively the last settlement of any size on the [Pan-American Highway](/northamerica/panama/dariengap/meteti/pan_american_highway_end) before the road gives way to jungle. From here, the pavement continues a bit further to Yaviza, but Meteti is where most travellers heading into the Darién will stop to organise logistics, stock up on supplies at the [market](/northamerica/panama/dariengap/meteti/meteti_market), and arrange transport by boat or on foot into the interior.

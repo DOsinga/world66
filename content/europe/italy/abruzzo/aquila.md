@@ -13,6 +13,11 @@ snippet: Apennine mountain city founded in the 13th century, marked by its recur
   legend of 99.
 title: L’Aquila
 type: location
+nature: 4.5
+leisure: 6.1
+adventure: 3.6
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 L’Aquila sits in a broad valley at 700 metres altitude, ringed by the highest peaks of the Apennines. The city was founded in the 13th century, legend says by the inhabitants of 99 surrounding castles — hence the recurring motif of 99 that runs through the city: 99 churches, 99 piazzas, 99 fountains. The famous [Fontana delle 99 Cannelle](/europe/italy/abruzzo/aquila/fontana_99_cannelle), near the old city walls, has 99 stone-carved faces each spouting water.

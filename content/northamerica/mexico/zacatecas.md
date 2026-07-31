@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Historic_centre_of_Zacatecas
 title: Zacatecas
 type: location
+nature: 3.3
+leisure: 5.9
+adventure: 3.6
+city_culture: 7.0
+historic_culture: 7.0
 ---
 
 Zacatecas is a silver city with drama built into its geography. The historic centre squeezes through a high, dry ravine of pink cantera stone, with church towers, steep lanes, and old mine entrances climbing toward [Cerro de la Bufa](/northamerica/mexico/zacatecas/cerro_de_la_bufa). It feels tougher and less polished than Guanajuato, but just as memorable.

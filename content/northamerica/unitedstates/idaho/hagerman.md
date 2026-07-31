@@ -14,6 +14,11 @@ snippet: Small Snake River Canyon town known for nearby Pliocene fossil beds and
   Hagerman Horse.
 title: Hagerman
 type: location
+nature: 5.5
+leisure: 4.6
+adventure: 4.7
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Hagerman is a small town in the Snake River Canyon in southwestern Idaho, best known for the Hagerman Fossil Beds National Monument just outside town. The fossil beds are one of the richest Pliocene-era fossil deposits in North America — the Hagerman Horse, a prehistoric relative of the modern horse, was found here in large numbers and is now the Idaho state fossil.

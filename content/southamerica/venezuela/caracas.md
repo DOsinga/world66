@@ -15,6 +15,11 @@ snippet: Venezuelan capital stretched through the Río Guaire valley beneath the
   wall of Ávila mountain.
 title: Caracas
 type: location
+nature: 3.8
+leisure: 4.0
+adventure: 5.8
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Caracas is the capital of Venezuela: a Spanish-American city that runs east to west along the narrow valley of the Río Guaire, hemmed in by the green wall of the Ávila mountain to the north and lower hills to the south. The setting is dramatic — 900 metres above sea level, with what locals call the *eternal spring* climate — and the contrast between that natural amphitheatre and the dense, often chaotic city below is the first thing every visitor notices.

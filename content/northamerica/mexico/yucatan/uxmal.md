@@ -13,6 +13,11 @@ image_source: https://commons.wikimedia.org/wiki/File:2006-08-01_uxmal_pyramide.
 image_license: CC BY-SA 4.0
 image_attribution: Matthias Bethke
 score: 8.79
+nature: 3.2
+leisure: 6.1
+adventure: 3.7
+city_culture: 8.2
+historic_culture: 8.2
 ---
 
 Uxmal is the finest Maya archaeological site in the Yucatan and, many archaeologists would argue, one of the most beautiful examples of pre-Columbian architecture anywhere in the Americas. Unlike Chichen Itza, which sits in a flat scrub forest and receives millions of visitors a year, Uxmal remains quieter and more intimate. The buildings are more refined, the decorative work more intricate, and the atmosphere more authentically ancient.

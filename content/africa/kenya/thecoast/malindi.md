@@ -13,6 +13,11 @@ snippet: Kenyan coastal town with Swahili history, Indian Ocean beaches, and acc
   to marine parks.
 title: Malindi
 type: location
+nature: 5.4
+leisure: 6.8
+adventure: 3.0
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 Malindi is a beach town on Kenya's Coral Coast, about 120 km north of Mombasa. It sits on Malindi Bay at the mouth of the Galana River and has been a trading port since the 14th century — Vasco da Gama stopped here in 1498 and erected the [Vasco da Gama Pillar](/africa/kenya/thecoast/malindi/vasco_da_gama_pillar) that still stands on the headland. Today it is a popular beach resort, particularly with Italian visitors, and serves as a gateway to the [Malindi Marine National Park](/africa/kenya/thecoast/malindi/malindi_marine_national_park).

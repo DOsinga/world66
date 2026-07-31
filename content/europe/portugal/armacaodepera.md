@@ -14,6 +14,11 @@ title: Armacao de Pera
 type: location
 snippet: Algarve beach resort beside a broad bay, with old fishing roots and limestone
   sea caves nearby.
+nature: 4.4
+leisure: 8.0
+adventure: 1.7
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Armacao de Pera is a small beach resort on the Algarve, in the municipality of Silves. It sits at the eastern end of one of the longest stretches of sand on Portugal's south coast — a wide, pale beach that curves around a sheltered bay. The old village part, around a [small fortress](/europe/portugal/armacaodepera/forte_de_sao_joao) and chapel on a headland, retains some character, though much of the surrounding area has been built over with holiday apartments and hotels.

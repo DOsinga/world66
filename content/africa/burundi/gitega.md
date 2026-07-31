@@ -14,6 +14,11 @@ snippet: Highland Burundian city around 1,800 metres, known for the National Mus
   and royal drumming traditions
 title: Gitega
 type: location
+nature: 5.4
+leisure: 3.1
+adventure: 6.5
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Gitega became Burundi's political capital in 2019, taking over from [Bujumbura](/africa/burundi/bujumbura), though in practice the larger lakeside city retains most of the country's economic and diplomatic activity. Gitega sits in the hilly center of the country at around 1,800 meters, giving it a cooler, more temperate climate than the lakeshore.

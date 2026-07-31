@@ -17,6 +17,11 @@ image: waterloo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Belgique_Butte_du_Lion_dit_de_Waterloo.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Myrabella
+nature: 1.6
+leisure: 7.7
+adventure: 1.9
+city_culture: 8.6
+historic_culture: 8.6
 ---
 
 Waterloo is famous for a single day: 18 June 1815, when Napoleon's army met the Duke of Wellington's forces on the rolling farmland south of this small [Belgian](/europe/belgium) town. The battle ended Napoleon's rule and reshaped Europe. Today Waterloo is a prosperous commuter suburb of [Brussels](/europe/belgium/brussels), but the battlefield remains largely unchanged.

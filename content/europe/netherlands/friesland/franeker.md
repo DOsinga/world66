@@ -15,6 +15,11 @@ title: Franeker
 snippet: Small Frisian town famed for Eise Eisinga's working living-room planetarium
   and kaatsen tradition.
 type: location
+nature: 3.7
+leisure: 5.7
+adventure: 3.4
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Franeker is a small Frisian town with one extraordinary attraction: the [Eise Eisinga Planetarium](/europe/netherlands/friesland/franeker/eisinga_planetarium), built between 1774 and 1781 by a wool comber who was alarmed by predictions of an imminent planetary collision. He installed a working mechanical model of the solar system in the ceiling of his living room — it is still running on its original mechanism, making it the oldest functioning planetarium in the world.

@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Ram_Raja_Temple
 title: Orchha
 type: location
+nature: 3.7
+leisure: 5.3
+adventure: 4.5
+city_culture: 7.7
+historic_culture: 7.7
 ---
 
 Orchha is the Bundelkhand ruin town that should be far more famous than it is. Set on the Betwa River just over the Madhya Pradesh border from Jhansi, it has palaces, painted temples, riverside cenotaphs, and a compact old settlement where the monuments still feel connected to everyday worship and market life.

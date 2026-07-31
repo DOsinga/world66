@@ -14,6 +14,11 @@ title: Balestrino
 type: location
 snippet: Inland Ligurian village where an abandoned upper hamlet sits below a fortified
   marquis' castle.
+nature: 5.8
+leisure: 3.5
+adventure: 6.1
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Balestrino is a small inland village set among olive groves in the hills behind the Riviera delle Palme. In the upper part of the settlement stands the [castle of the marquis](/europe/italy/liguria/italianriviera/rivieradellepalme/balestrino/castle_of_balestrino), an imposing fortified palace rebuilt in the 17th century with sturdy ramparts and period furnishings.

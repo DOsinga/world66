@@ -14,6 +14,11 @@ snippet: Southern Armenian province of high plateaus, ancient petroglyphs, and m
   Carahunge near the Gates of Syunik.
 title: Syunik
 type: location
+nature: 4.7
+leisure: 3.6
+adventure: 5.7
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 The south marz (province) of Syunik is high plateau, and very ancient. Entered from the west through the Gates of Syunik (don't forget to honk), the road descends past an alpine reservoir on the right, and over a treeless plateau.

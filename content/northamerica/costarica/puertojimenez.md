@@ -16,6 +16,11 @@ sources:
 - https://www.openstreetmap.org/
 title: Puerto Jiménez
 type: location
+nature: 7.8
+leisure: 5.9
+adventure: 3.9
+city_culture: 1.7
+historic_culture: 1.7
 ---
 
 Puerto Jiménez is the main service town on the eastern side of the Osa Peninsula, facing the calm Golfo Dulce rather than the open Pacific. It is dusty, humid, practical, and far more useful than pretty: the place where hikers find guides, boats cross to Golfito, and Corcovado trips become real.

@@ -14,6 +14,11 @@ snippet: Main Yaeyama island, closer to Taiwan than mainland Japan and known for
   reefs.
 title: Ishigaki Island
 type: location
+nature: 6.6
+leisure: 5.7
+adventure: 4.1
+city_culture: 3.2
+historic_culture: 3.2
 ---
 
 Ishigaki is the main island of the Yaeyama Archipelago, a chain of subtropical islands roughly 420 kilometres southwest of Okinawa and closer to Taiwan than to mainland Japan. It is the gateway to some of the finest coral reefs and beaches in the country, and a place where the pace of life runs noticeably slower than anywhere on Honshu.

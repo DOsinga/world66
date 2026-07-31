@@ -16,6 +16,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Collioure
 title: Collioure
 type: location
+nature: 4.4
+leisure: 8.5
+adventure: 1.6
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Collioure is the kind of small town that earns its reputation. A Catalan fishing village on the Côte Vermeille — the vermilion coast where the Pyrenees run down to the Mediterranean — it was painted so often and so well by Matisse, Derain, Braque, and Picasso in the early 20th century that it effectively became one of the birthplaces of Fauvism. "In the whole of France there is no sky as blue as the one above Collioure," Matisse wrote, and he was right about the quality of the light, which is exceptional: intense, clear, and reflected off both the sea and the red-schist rock that gives the coast its distinctive colour.

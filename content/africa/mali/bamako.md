@@ -12,6 +12,11 @@ snippet: Malian capital on the Niger River, ringed by dusty hills and serving as
   main inland gateway.
 title: Bamako
 type: location
+nature: 4.2
+leisure: 3.1
+adventure: 6.8
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Bamako sits in a bowl along the Niger River, ringed by dusty hills, and it moves at its own pace — somewhere between African urban chaos and a mid-sized city that hasn't quite decided what it wants to be. It's the capital and commercial hub of Mali, home to roughly three million people, and the inevitable entry point for anyone travelling deeper into the country.

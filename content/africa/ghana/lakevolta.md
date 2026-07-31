@@ -9,6 +9,11 @@ snippet: Vast man-made lake in eastern Ghana, created by the Akosombo Dam on the
 type: location
 score: 6.77
 loc_type: feature
+nature: 7.0
+leisure: 5.0
+adventure: 4.7
+city_culture: 2.9
+historic_culture: 2.9
 ---
 
 Lake Volta -- or Volta Lake, as Ghanaians call it -- is the largest man-made lake in the world by surface area, covering over 8,500 square kilometres. It was created in 1965 when the Akosombo Dam was built on the Volta River to generate hydroelectric power for Ghana and its neighbours.

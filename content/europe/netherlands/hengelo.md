@@ -13,6 +13,11 @@ snippet: Industrial city in eastern Overijssel, shaped by textiles, metalworking
   and postwar rebuilding near Germany.
 title: Hengelo
 type: location
+nature: 3.4
+leisure: 4.8
+adventure: 4.3
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Hengelo is an industrial city in Overijssel, in the eastern Netherlands near the German border. It grew up around textiles and metalworking in the 19th century, and the legacy of that industrial past is visible in the converted factory buildings and wide working-class neighbourhoods that give the city its no-nonsense character. It is not a tourist destination, but it has more going on than most people expect.

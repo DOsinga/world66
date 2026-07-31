@@ -15,6 +15,11 @@ title: Hamburg
 snippet: Northern German port city of Elbe shipping, red-brick warehouses, Hanseatic
   pride, and lakeside urban life.
 type: location
+nature: 1.2
+leisure: 9.0
+adventure: 0.8
+city_culture: 8.4
+historic_culture: 8.4
 ---
 
 Hamburg is Germany's second city and its great port — a hard-edged northern metropolis built on shipping, trade, and a cheerful disregard for the buttoned-up south. The Elbe brings ocean-going ships a hundred kilometres inland to one of Europe's busiest harbours, and the city's character comes from that maritime traffic: red-brick warehouses, working cranes, ferries crossing the river, and a Hanseatic mercantile pride that has shaped Hamburg for eight centuries.

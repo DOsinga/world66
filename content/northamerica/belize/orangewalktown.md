@@ -10,6 +10,11 @@ snippet: Northern Belize sugar-country town used as the river gateway to the May
   ruins of Lamanai.
 title: Orange Walk Town
 type: location
+nature: 5.5
+leisure: 4.6
+adventure: 4.9
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Orange Walk is the main town in northern Belize, in the heart of sugar cane country. It's an agricultural and commercial hub rather than a tourist attraction, but it's the starting point for one of the more rewarding day trips in the country: the boat trip up the New River to Lamanai.

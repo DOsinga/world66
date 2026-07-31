@@ -14,6 +14,11 @@ title: Magaluf
 snippet: Mallorca beach resort with a loud party strip and a broad sandy bay southwest
   of Palma.
 type: location
+nature: 4.1
+leisure: 8.2
+adventure: 1.5
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Magaluf sits on the southwest coast of [Mallorca](/europe/spain/balearicislands/mallorca), about 15 kilometres from [Palma](/europe/spain/balearicislands/mallorca/palma1). Its reputation as a package-holiday party strip is well earned — the [Punta Ballena strip](/europe/spain/balearicislands/mallorca/magaluf/punta_ballena_strip) of bars and clubs is loud, cheap, and aimed squarely at young British and German holidaymakers. If that is not your scene, you have been warned.

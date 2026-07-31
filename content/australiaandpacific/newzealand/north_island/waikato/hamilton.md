@@ -14,6 +14,11 @@ snippet: Waikato river city and university town, useful as a base for Hobbiton a
   Waitomo Caves.
 title: Hamilton
 type: location
+nature: 6.2
+leisure: 3.7
+adventure: 5.8
+city_culture: 3.7
+historic_culture: 3.7
 ---
 
 Hamilton is [New Zealand](/australiaandpacific/newzealand)'s fourth-largest city, straddling the Waikato River in the heart of the North Island's dairy country. It is not a major tourist destination, but it is a useful base for exploring the Waikato region — the [Waitomo Caves](/australiaandpacific/newzealand/north_island/waikato/waitomo), [Hobbiton](/australiaandpacific/newzealand/matamata), and the Coromandel Peninsula are all within easy driving distance.

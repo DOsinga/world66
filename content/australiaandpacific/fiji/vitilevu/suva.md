@@ -15,6 +15,11 @@ snippet: Fiji's capital and largest South Pacific city outside Australia and New
   set on Viti Levu.
 title: Suva
 type: location
+nature: 5.6
+leisure: 6.7
+adventure: 3.1
+city_culture: 3.7
+historic_culture: 3.7
 ---
 
 Suva is the capital of [Fiji](/australiaandpacific/fiji) and the largest city in the South Pacific outside of Australia and New Zealand. Set on a hilly peninsula on the southeast coast of Viti Levu, it is a more cosmopolitan and urban experience than the resort islands — a working city where you can get a real feel for everyday Fijian life.

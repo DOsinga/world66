@@ -14,6 +14,11 @@ snippet: Barbagia craft town and Gulf of Orosei gateway, near Tiscali, Gorropu, 
   limestone caves.
 title: Dorgali
 type: location
+nature: 5.0
+leisure: 5.1
+adventure: 4.8
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Dorgali sits on the slopes of Monte Bardia in the heart of the Barbagia region, about 15 km south of [Nuoro](/europe/italy/sardinia/nuoro). It's one of the best places in Sardinia to find traditional crafts — the town is known for its leather work, ceramics, and woven textiles, which you can buy directly from artisans' workshops.

@@ -17,6 +17,11 @@ title: Dubrovnik
 type: location
 snippet: Walled Adriatic city whose compact old town rises above cliffs and a historic
   harbour.
+nature: 2.4
+leisure: 9.2
+adventure: 1.0
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Dubrovnik is one of the most visually striking cities in the Mediterranean. A compact old town wrapped in massive stone walls, perched on cliffs above the Adriatic, it has been drawing visitors for centuries and earned its old nickname "the Pearl of the Adriatic" honestly.

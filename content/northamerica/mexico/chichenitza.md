@@ -13,6 +13,11 @@ snippet: Maya archaeological site in Yucatán, dominated by El Castillo and a va
   ceremonial core.
 title: Chichen Itza
 type: location
+nature: 2.7
+leisure: 6.5
+adventure: 3.3
+city_culture: 8.5
+historic_culture: 8.5
 ---
 
 Chichen Itza is one of the largest and most impressive ancient Maya cities, located in the north-central Yucatan peninsula. The site's centrepiece is El Castillo (the Temple of Kukulcán), a step pyramid that dominates the main plaza. At the spring and autumn equinoxes, the play of light and shadow on the northern staircase creates the illusion of a serpent descending the pyramid.

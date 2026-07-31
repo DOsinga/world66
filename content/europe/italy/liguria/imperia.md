@@ -14,6 +14,11 @@ snippet: Western Ligurian Riviera city split between port-side Oneglia and hillt
   Porto Maurizio.
 title: Imperia
 type: location
+nature: 4.6
+leisure: 7.1
+adventure: 2.7
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Imperia is the provincial capital of the western Ligurian Riviera, formed in 1923 by merging two older towns — Oneglia to the east and Porto Maurizio to the west — separated by the Imperia river. The two halves retain distinct characters: Oneglia is the commercial and port side, known for olive oil production and pasta; Porto Maurizio is the historic town, perched on a promontory with a medieval centre, baroque cathedral, and views over the Ligurian Sea.

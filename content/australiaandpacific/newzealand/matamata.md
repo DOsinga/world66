@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Hobbiton_Movie_Set
 title: Matamata
 type: location
+nature: 6.6
+leisure: 5.0
+adventure: 4.7
+city_culture: 3.2
+historic_culture: 3.2
 ---
 
 Matamata is a small Waikato dairy town that would be entirely off the tourist map were it not for one thing: [Hobbiton](/australiaandpacific/newzealand/matamata/hobbiton). The Alexander family's sheep farm on the edge of town was chosen by Peter Jackson as the location for the Shire in The Lord of the Rings, and the set was rebuilt in permanent form for The Hobbit a decade later. It now draws roughly 700,000 visitors a year — more people than live in the entire Waikato region.

@@ -13,6 +13,11 @@ snippet: Estonian university city on the Emajogi, with Toome Hill ruins and a li
   intellectual centre.
 title: Tartu
 type: location
+nature: 3.0
+leisure: 6.4
+adventure: 3.1
+city_culture: 7.4
+historic_culture: 7.4
 ---
 
 Tartu is Estonia's second city and its intellectual capital — home to one of the oldest universities in northern Europe, founded in 1632. The Estonians call it the "Athens on the Emajogi." During Soviet times the city was closed to outsiders because of a military aerodrome, but since independence it has opened up into a lively, walkable university town with a growing café and restaurant scene.

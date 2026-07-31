@@ -16,6 +16,11 @@ sources:
 title: Great Ocean Road
 type: location
 score: 8.8
+nature: 6.0
+leisure: 4.9
+adventure: 4.8
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 The Great Ocean Road is Australia's great coastal drive, running west from Torquay toward Allansford through surf beaches, rainforest, fishing towns, and the battered limestone cliffs of the Shipwreck Coast. It is famous for the [Twelve Apostles](/australiaandpacific/australia/victoria/greatoceanroad/twelve_apostles), but the road is better when you treat them as the climax rather than the only reason to go.

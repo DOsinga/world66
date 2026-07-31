@@ -12,6 +12,11 @@ snippet: South Yorkshire market town with Roman roots and England's oldest class
   horse race.
 title: Doncaster
 type: location
+nature: 4.0
+leisure: 3.7
+adventure: 5.5
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Doncaster is a South Yorkshire market town of around 110,000 people with a history that runs surprisingly deep. The Romans built a fort here — Danum — and the town has been a crossroads ever since, sitting where the Great North Road meets the Don Valley. Today it is best known for horse racing: [Doncaster Racecourse](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/doncaster/doncaster_racecourse) is one of the oldest in England, and the St Leger Stakes, run here every September since 1776, is the world's oldest classic horse race. On race days the town comes alive with a buzz that reaches well beyond the track.

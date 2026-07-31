@@ -9,6 +9,11 @@ longitude: -0.337305
 score: 5.9
 title: Harrow
 type: location
+nature: 3.8
+leisure: 4.0
+adventure: 5.1
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Harrow is an outer London borough that most visitors encounter only as a name on the Metropolitan line. But the hilltop village of [Harrow on the Hill](/europe/unitedkingdom/england/south_east/harrow/harrow_on_the_hill), clustered around [St Mary's Church](/europe/unitedkingdom/england/south_east/harrow/st_marys_church) and the famous [Harrow School](/europe/unitedkingdom/england/south_east/harrow/harrow_school), has a character quite distinct from the suburban sprawl that surrounds it. The views from the churchyard on a clear day stretch across London to the hills of Surrey and Kent, and the cluster of historic buildings around the school gives the village a feel closer to a Cotswolds market town than to Zone 5.

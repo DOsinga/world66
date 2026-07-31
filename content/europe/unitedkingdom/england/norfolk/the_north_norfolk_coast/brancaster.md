@@ -10,6 +10,11 @@ snippet: North Norfolk Coast village by tidal flats and salt marshes, near Titch
   Marsh and Brancaster Staithe.
 title: Brancaster
 type: location
+nature: 5.4
+leisure: 6.5
+adventure: 3.0
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 Brancaster is a small village on the North Norfolk Coast, sitting between Titchwell to the west and Brancaster Staithe to the east. The coast here is classic north Norfolk — wide tidal flats, salt marshes, and a beach backed by dunes.

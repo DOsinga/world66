@@ -15,6 +15,11 @@ snippet: Ancient Ukrainian capital on the Dnieper, layered with Kyivan Rus histo
   and gold-domed Orthodox monasteries.
 title: Kyiv
 type: location
+nature: 2.8
+leisure: 4.8
+adventure: 5.2
+city_culture: 8.0
+historic_culture: 8.0
 ---
 
 Kyiv is one of the oldest cities in Europe, founded in the 5th century and the capital of a medieval state — Kyivan Rus — that shaped the subsequent history of Russia, Ukraine, and Belarus. Today it is the capital of Ukraine, a city of broad boulevards, steep river banks, and a skyline punctuated by the gold and blue domes of Orthodox churches and monasteries. The city stands on the right bank of the Dnieper River, spread across a series of wooded hills.

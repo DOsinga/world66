@@ -17,6 +17,11 @@ sources:
 - https://whc.unesco.org/en/list/1140/
 title: Tamberma
 type: location
+nature: 4.9
+leisure: 2.7
+adventure: 7.2
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Some 65,000 Batammariba people live in the savannahs of northern Togo, just north of [Kara](/africa/togo/kara). They practice subsistence farming, growing millet, sorghum, yams, and a variety of other crops. Domestic goats, cattle, and guinea fowl supply meat, though hunting and fishing also supplement the diet.

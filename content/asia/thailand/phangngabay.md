@@ -14,6 +14,11 @@ snippet: Karst-filled marine bay between Phuket and Krabi, known for limestone t
   and hidden hongs.
 title: Phang Nga Bay
 type: location
+nature: 7.1
+leisure: 6.6
+adventure: 3.3
+city_culture: 2.1
+historic_culture: 2.1
 ---
 
 Phang Nga Bay is one of the most dramatic seascapes in Southeast Asia: dozens of sheer limestone karst towers rise straight out of calm, shallow emerald water between [Phuket](/asia/thailand/phuket) and [Krabi](/asia/thailand/krabi). The bay is part of a national marine park, and most visitors explore it by longtail boat or sea kayak.

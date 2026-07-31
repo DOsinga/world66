@@ -18,6 +18,11 @@ sources:
 - https://www.atlasobscura.com/places/lars-homestead
 title: Nefta
 type: location
+nature: 7.5
+leisure: 1.5
+adventure: 8.1
+city_culture: 3.1
+historic_culture: 3.1
 ---
 
 Nefta is an oasis town in southwestern Tunisia, close to the Algerian border and on the edge of the Chott el-Jerid — the vast salt lake that shimmers and mirages in the desert heat. It is one of the great religious centres of Tunisia, with over 100 mosques and an important Sufi tradition. The [Corbeille](/africa/tunisia/nefta/corbeille), a natural depression at the heart of town filled with thousands of date palms fed by spring water, is one of the most remarkable oases in North Africa: you look down from the rim at a green bowl of palms and mud-brick houses that feels both impossibly lush and deeply ancient.

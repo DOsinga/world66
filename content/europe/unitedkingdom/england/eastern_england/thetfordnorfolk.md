@@ -14,6 +14,11 @@ sources:
 - https://en.wikipedia.org/wiki/Grime%27s_Graves
 title: Thetford
 type: location
+nature: 4.7
+leisure: 5.3
+adventure: 3.9
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Thetford is a market town in the Brecklands of Norfolk, tucked among one of the largest lowland pine forests in Britain. The land around here is as flat as Norfolk gets, but Thetford Forest gives the place a quiet, sheltered character quite unlike the open skies of the coast — and the town itself carries more history than you'd expect for somewhere this size.

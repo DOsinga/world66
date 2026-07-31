@@ -16,6 +16,11 @@ snippet: Arabian Peninsula metropolis known for the Burj Khalifa, engineered isl
   and rapid transformation from trading port.
 title: Dubai
 type: location
+nature: 1.3
+leisure: 9.3
+adventure: 0.9
+city_culture: 8.1
+historic_culture: 8.1
 ---
 
 Dubai is the spectacle of the modern Arabian Peninsula — a trading post that, in the span of a single generation, transformed itself from a small pearl-diving settlement into a global financial centre with the world's tallest building, the busiest international airport by passenger traffic, and enough engineered islands, indoor ski slopes, and seven-star hotels to make Las Vegas look restrained. Love it or hate it, there is no other city quite like it.

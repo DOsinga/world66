@@ -13,6 +13,11 @@ snippet: Colorado plains city where Denver suburbia meets a wide-ranging interna
   dining scene.
 title: Aurora
 type: location
+nature: 3.9
+leisure: 5.2
+adventure: 3.9
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Aurora is Colorado's third-largest city, stretching east from Denver across the high plains. What was once a quiet suburb has become one of the most ethnically diverse cities in the American West, and that diversity shows up most deliciously in its food scene. You can eat exceptional Ethiopian along Colfax Avenue, find outstanding Korean restaurants on Havana Street, and stumble into hole-in-the-wall taquerias that rival anything in Denver proper.

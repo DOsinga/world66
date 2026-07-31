@@ -16,6 +16,11 @@ title: Palo Alto
 type: location
 snippet: Leafy Silicon Valley city anchored by Stanford's sandstone campus and University
   Avenue's student-tech energy.
+nature: 4.1
+leisure: 6.1
+adventure: 3.2
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Palo Alto sits at the heart of Silicon Valley, a prosperous, leafy city of about 65,000 that punches well above its weight in global influence. [Stanford University](/northamerica/unitedstates/california/paloalto/stanford_university) dominates the western edge of town, its sandstone arcades and red-tile roofs anchoring a campus that has launched more startup companies than almost anywhere else on earth. The city that grew up around it has the coffee shops, bookstores, and restaurants to match.

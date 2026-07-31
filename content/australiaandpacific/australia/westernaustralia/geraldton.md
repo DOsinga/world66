@@ -14,6 +14,11 @@ snippet: Batavia Coast port city north of Perth, where working harbour life meet
   strong Indian Ocean winds.
 title: Geraldton
 type: location
+nature: 5.6
+leisure: 5.2
+adventure: 4.3
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Situated 400 kilometres north of [Perth](/australiaandpacific/australia/westernaustralia/perth) on the Batavia Coast, Geraldton is the major regional city of the Midwest and the only deep-water port for a vast stretch of Western Australia's mid-coast. It is a working city — fishing, farming, and mining keep it going — but it has earned a serious reputation among windsurfers and kite-boarders as one of the best spots in the world, thanks to the reliable onshore winds that barrel in off the Indian Ocean almost every afternoon.

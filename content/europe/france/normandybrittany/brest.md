@@ -15,6 +15,11 @@ snippet: Western Brittany naval city rebuilt after 1944, with an Atlantic harbou
 title: Brest
 type: location
 score: 7.71
+nature: 3.6
+leisure: 7.3
+adventure: 2.2
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Brest sits at the far western tip of Brittany, a naval city of considerable strategic importance and a character that is entirely its own. It faces the Atlantic directly, and the weather — changeable, wet, and frequently spectacular — is as much a presence in the city as the port, the military installations, and the wide postwar boulevards that were rebuilt after Allied bombing flattened most of the old town in 1944.

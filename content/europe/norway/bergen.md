@@ -15,6 +15,11 @@ snippet: Hanseatic Norwegian port wedged between seven mountains, fjords, and Br
   timber warehouses.
 title: Bergen
 type: location
+nature: 3.4
+leisure: 7.8
+adventure: 2.2
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Bergen is a 900-year-old Hanseatic city wedged between seven mountains and the sea. For centuries it was Norway's most important trading port — ships brought dried fish from the north and grain from the south, and the German Hanse merchants who ran [Bryggen](/europe/norway/bergen/bryggen) controlled the whole business from their warehouse compound on the harbour. Bergen was at various points the largest city in the Nordic countries and, by some measures, Norway's capital. The citizens of Bergen have never quite let the rest of Norway forget this.

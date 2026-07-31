@@ -14,6 +14,11 @@ snippet: Flat coral island in the British Virgin Islands, ringed by Horseshoe Re
   and long white beaches
 title: Anegada
 type: location
+nature: 6.8
+leisure: 6.5
+adventure: 3.4
+city_culture: 2.3
+historic_culture: 2.3
 ---
 
 Anegada is the odd one out in the [British Virgin Islands](/northamerica/britishvirginislands). While the rest of the chain is volcanic and hilly, Anegada is flat coral and limestone, rising barely eight metres above sea level. It is surrounded by [Horseshoe Reef](/northamerica/britishvirginislands/anegada/horseshoe_reef), one of the largest barrier reefs in the Caribbean, which has claimed hundreds of ships over the centuries and now provides some of the finest snorkelling and diving in the territory.

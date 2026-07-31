@@ -10,6 +10,11 @@ snippet: Ligurian inland village in the Lerrone valley, known for golf, Pigato v
   and quiet walks
 title: Garlenda
 type: location
+nature: 4.7
+leisure: 5.8
+adventure: 3.8
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Garlenda is a quiet village in the Lerrone valley, a few kilometres inland from the Ligurian coast. It is known locally for its 18-hole golf course — unusual for this part of Italy — and for the vineyards that produce Pigato and Rossese, two of Liguria's best white and red wines.

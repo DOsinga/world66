@@ -10,6 +10,11 @@ snippet: New England Tablelands university city with sandstone churches, autumn 
   and gorge country to the east.
 title: Armidale
 type: location
+nature: 4.6
+leisure: 5.3
+adventure: 3.9
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Armidale is a university city on the New England Tablelands of New South Wales, sitting at about 1,000 metres altitude in the highlands between the coast and the inland plains. The University of New England gives the city a livelier cultural life than most regional NSW centres of similar size, with good galleries, theatres, and cafes — the [New England Regional Art Museum](/australiaandpacific/australia/newsouthwales/armidale/new_england_regional_art_museum) holds one of the finest collections of Australian art outside the major cities. The city has an unusually high concentration of cathedrals and churches relative to its size, earning it occasional comparisons with Oxford — an exaggeration, but [St Peter's Cathedral](/australiaandpacific/australia/newsouthwales/armidale/st_peters_cathedral) and the [Cathedral of Saints Mary and Joseph](/australiaandpacific/australia/newsouthwales/armidale/saints_mary_and_joseph_cathedral), along with the sandstone avenues and leafy streets, do have a certain character.

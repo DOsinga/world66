@@ -14,6 +14,11 @@ snippet: Lancashire city on the Ribble, with Victorian civic buildings and deep 
   roots.
 title: Preston
 type: location
+nature: 3.5
+leisure: 5.4
+adventure: 3.7
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Preston sits on the River Ribble in central Lancashire and received city status in 2002 as part of Queen Elizabeth's Golden Jubilee celebrations — one of England's newest cities, though its history stretches back considerably further. The name derives from "Priest's Town" and the city played a role in both the English Civil War and the Jacobite risings.

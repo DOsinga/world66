@@ -17,6 +17,11 @@ type: location
 score: 9.8
 snippet: Eastern Alps mountain range of pale dolomite towers, high meadows, and Italian-German-Ladin
   valleys.
+nature: 7.6
+leisure: 6.3
+adventure: 3.7
+city_culture: 2.0
+historic_culture: 2.0
 ---
 
 The Dolomites are among the most dramatic mountain landscapes in Europe — a compact section of the Eastern Alps where pale limestone towers, needles, and plateaux rise from green valleys in shapes that look more like science fiction than geology. UNESCO inscribed the Dolomites as a World Heritage Site in 2009, recognising not only their extraordinary scenery but the exceptional biodiversity and geological record they preserve. The core of the range spans roughly a hundred kilometres across the provinces of Bolzano, Trento, and Belluno, straddling three Italian regions: South Tyrol, Trentino, and the Veneto.

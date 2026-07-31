@@ -16,6 +16,11 @@ title: Epidaurus
 snippet: Ancient Peloponnese sanctuary site, centred on a theatre famed for its precise
   acoustics.
 type: location
+nature: 2.3
+leisure: 7.0
+adventure: 2.7
+city_culture: 8.2
+historic_culture: 8.2
 ---
 
 Epidaurus is an ancient sanctuary and theatre site on the eastern Peloponnese, about 30 kilometres east of Nafplio. The [theatre](/europe/greece/epidaurus/ancient_theatre) is the reason most people come, and it deserves its reputation: built in the fourth century BC, it seats 14,000 people and has acoustics so precise that a coin dropped on the stage can be heard in the back row. It is the best-preserved ancient Greek theatre in existence and is still used for performances during the Athens and Epidaurus Festival every summer (July and August).

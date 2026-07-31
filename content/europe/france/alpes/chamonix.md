@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Chamonix
 title: Chamonix
 type: location
+nature: 6.8
+leisure: 7.2
+adventure: 3.0
+city_culture: 2.4
+historic_culture: 2.4
 ---
 
 Chamonix sits at the foot of Mont Blanc, western Europe's highest peak, and that location alone makes it one of the most dramatic mountain towns on the continent. Unlike many French ski resorts — purpose-built clusters of high-rise apartments dropped next to a lift station — Chamonix is a real town, with a cosy centre full of good bars, restaurants, and cafes that have been drawing visitors since the 18th century.

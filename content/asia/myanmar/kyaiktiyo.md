@@ -9,6 +9,11 @@ snippet: Buddhist pilgrimage site around the Golden Rock, a gilded boulder balan
   on a cliff-edge.
 title: Kyaiktiyo
 type: location
+nature: 5.2
+leisure: 4.4
+adventure: 5.2
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Kyaiktiyo — the **Golden Rock** — is one of Myanmar's most extraordinary sights: a gold-leafed boulder perched on the very edge of a cliff, seemingly defying gravity, with a small pagoda balanced on top. According to legend, a hair of the Buddha holds the rock in place, given to a hermit monk who requested it be enshrined in a boulder shaped like his own head.

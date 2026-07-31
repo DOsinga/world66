@@ -15,6 +15,11 @@ snippet: Florida Panhandle capital shaped by state politics, major universities,
   a distinctly Southern character.
 title: Tallahassee
 type: location
+nature: 4.0
+leisure: 6.2
+adventure: 3.0
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Florida's state capital sits in the panhandle, far removed — geographically and culturally — from the resort cities of the peninsula. Tallahassee runs on two industries: politics and higher education. Florida State University and Florida A&M University together bring some 45,000 students into a city of roughly 200,000, and the state legislature fills the town with lobbyists and journalists during session. Beyond both, Tallahassee has a distinct Southern character that feels closer to Georgia than to Miami.

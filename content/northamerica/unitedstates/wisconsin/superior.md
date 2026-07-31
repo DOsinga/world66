@@ -14,6 +14,11 @@ snippet: Lake Superior port city with a deep-water harbour, Wisconsin Point beac
   and access to Big Manitou Falls.
 title: Superior
 type: location
+nature: 6.4
+leisure: 5.1
+adventure: 4.5
+city_culture: 3.3
+historic_culture: 3.3
 ---
 
 Superior's spectacular natural setting at the far western end of Lake Superior signals that a visit here holds special delights. The city's deep-water harbor is an international inland ocean port linked to the Atlantic Ocean by the St. Lawrence Seaway. [Wisconsin Point](/northamerica/unitedstates/wisconsin/superior/wisconsin_point), a four-mile-long sand bar in the harbor, affords wonderful bird watching, particularly during the spring and fall migrations. Fine sand beaches and a lighthouse are additional attractions. Outside the city, the unspoiled landscape beckons with 431 lakes and the state's tallest waterfall, 165-foot-high Big Manitou Falls in [Pattison State Park](/northamerica/unitedstates/wisconsin/superior/pattison_state_park), only a 10-mile drive south of Superior.

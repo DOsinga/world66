@@ -14,6 +14,11 @@ snippet: Arctic Alaska city, officially Utqiagvik, where Inupiat whaling culture
   the Chukchi and Beaufort seas.
 title: Barrow
 type: location
+nature: 9.2
+leisure: 1.8
+adventure: 8.0
+city_culture: 1.1
+historic_culture: 1.1
 ---
 
 Barrow -- officially renamed Utqiagvik in 2016, though most people still call it Barrow -- is the northernmost city in the United States, sitting 330 miles above the Arctic Circle where the Chukchi and Beaufort Seas meet. About half of its 5,000 residents are Inupiat, making it the largest Inupiat Eskimo community in the world.

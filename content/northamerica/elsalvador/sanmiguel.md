@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/San_Miguel,_El_Salvador
 title: San Miguel
 type: location
+nature: 4.6
+leisure: 5.6
+adventure: 4.0
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 San Miguel is El Salvador's third-largest city, set in the hot eastern lowlands about 140 km from [San Salvador](/northamerica/elsalvador/sansalvador). It is the commercial capital of eastern El Salvador — a working city of around 250,000 people that functions as the main transit hub for the region. Most travelers pass through, but there is more here than the transit stop reputation suggests.

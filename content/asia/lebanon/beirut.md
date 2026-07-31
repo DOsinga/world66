@@ -14,6 +14,11 @@ snippet: Rocky Mediterranean capital rebuilt through war and crisis, with layere
   districts and a relentless cultural pulse.
 title: Beirut
 type: location
+nature: 2.0
+leisure: 7.1
+adventure: 2.9
+city_culture: 8.4
+historic_culture: 8.4
 ---
 
 Beirut is a city that refuses to stay down. Built on a rocky promontory at the centre of Lebanon's coast, it has been destroyed and rebuilt so many times that resilience is practically its defining characteristic. The civil war (1975-1990) leveled much of the city centre. Reconstruction was well underway when the catastrophic port explosion of August 2020 devastated entire neighbourhoods. Economic collapse, political crisis and the 2024 conflict have all taken their toll. And yet Beirut remains vibrant, compelling and alive in a way few cities can match.

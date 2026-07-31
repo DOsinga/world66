@@ -9,6 +9,11 @@ score: 8.23
 loc_type: feature
 snippet: Shallow Rift Valley soda lake known for flamingos, hot springs, and geysers
   along its western shore.
+nature: 8.4
+leisure: 5.0
+adventure: 4.7
+city_culture: 1.5
+historic_culture: 1.5
 ---
 
 Lake Bogoria is a shallow soda lake in the Rift Valley, north of [Nakuru](/africa/kenya/nakuru). When conditions at Lake Nakuru are not right for flamingos — which happens regularly — the birds move here instead, and the lake can turn pink with hundreds of thousands of lesser flamingos. Even without the flamingos, Lake Bogoria is worth the detour for its hot springs and geysers, which erupt along the western shore with impressive force.

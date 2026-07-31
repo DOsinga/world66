@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Emirate_of_Zazzau
 title: Zaria
 type: location
+nature: 5.2
+leisure: 2.8
+adventure: 6.8
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Zaria is one of the nicest towns to visit in the north of Nigeria. The old section of the city, surrounded by a mud wall, is full of traditional Hausa architecture — stroll through and you will find the old market, a grand mosque, and the palace of the Emir. Artisans work in the market area, and Kufena Hill offers views over the city.

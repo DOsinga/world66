@@ -16,6 +16,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Constan%C8%9Ba
 title: Constanta
 type: location
+nature: 3.2
+leisure: 7.0
+adventure: 2.4
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Constanța is Romania's main port and the gateway to the Black Sea coast. Founded in the 6th century BC by Greek merchants as **Tomis**, it was later developed by the Romans and renamed after Emperor Constantine. The poet **Ovid** was exiled here by Augustus in AD 8 and spent his last years writing elegies about the cold and the barbarians — [his statue](/europe/romania/constanta/ovid_square) still stands in the main square.

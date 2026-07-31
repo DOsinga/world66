@@ -14,6 +14,11 @@ title: Mosul
 type: location
 snippet: Northern Iraqi city on the Tigris, layered over ancient Nineveh and centuries
   of mixed communities.
+nature: 3.9
+leisure: 2.1
+adventure: 7.8
+city_culture: 7.3
+historic_culture: 7.3
 ---
 
 Mosul is Iraq's second-largest city, straddling the Tigris in the far north of the country and long known as the Pearl of the North. It sits on the site of ancient Nineveh, capital of the Assyrian Empire, and for centuries was one of the most cosmopolitan cities in the Middle East — a place where Arab, Kurdish, Assyrian Christian, Turkmen, and Yazidi communities lived side by side.

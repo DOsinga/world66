@@ -14,6 +14,11 @@ snippet: Oklahoma Panhandle town serving High Plains ranch country, known for ca
   feedlots and Pioneer Days Rodeo
 title: Guymon
 type: location
+nature: 4.6
+leisure: 3.5
+adventure: 5.6
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Guymon is the largest town in the Oklahoma Panhandle, with about 12,000 people, and serves as the commercial center for a vast stretch of flat, wind-scoured High Plains. Texas County, despite its name, is firmly in [Oklahoma](/northamerica/unitedstates/oklahoma), and Guymon sits roughly in its middle, surrounded by cattle feedlots and irrigated farmland.

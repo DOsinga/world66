@@ -13,6 +13,11 @@ snippet: Ligurian coastal village above a marine reserve, offshore islet, and Ne
   sea cave.
 title: Bergeggi
 type: location
+nature: 4.8
+leisure: 5.6
+adventure: 4.0
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Bergeggi sits 347 metres above sea level on the Ligurian coast, overlooking the stretch of sea between Capo di Vado and Punta Maiolo. Just offshore lies the islet of Bergeggi, now a nature reserve. On the coast below the town is the Grotta di Bergeggi, a cave 37 metres long and 17 metres wide that was inhabited from the Neolithic period through the Roman era.

@@ -17,6 +17,11 @@ sources:
 title: Sehlabathebe National Park
 type: location
 score: 6.4
+nature: 8.8
+leisure: 4.3
+adventure: 5.4
+city_culture: 1.3
+historic_culture: 1.3
 ---
 
 Sehlabathebe National Park is Lesotho at its wildest: a high, lonely plateau in the far southeast, where sandstone outcrops rise from grassland, clear streams run through rock pools, and weather moves fast across the Maloti Mountains. It is part of the Maloti-Drakensberg World Heritage Site, shared with South Africa's uKhahlamba Drakensberg Park.

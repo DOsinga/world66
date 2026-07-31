@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Yading
 title: Yading Nature Reserve
 type: location
+nature: 9.7
+leisure: 2.0
+adventure: 7.8
+city_culture: 0.7
+historic_culture: 0.7
 ---
 
 Yading is an alpine nature reserve in the remote southern reaches of Ganzi Prefecture, centred on three sacred peaks that Tibetan Buddhism has venerated for centuries as physical manifestations of bodhisattvas. Mount Chianrezig at 6,032 metres, Mount Jambeyang at 5,958 metres, and Mount Chanadorje at 5,958 metres form a triangle around a high plateau above 4,000 metres that contains more than sixty glacial lakes and terrain that most Western visitors have no frame of reference for. It is genuinely extraordinary and genuinely demanding.

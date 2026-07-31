@@ -12,6 +12,11 @@ snippet: Small Napa Valley town at Mount St. Helena, defined by geothermal sprin
   mud baths, and wineries.
 title: Calistoga
 type: location
+nature: 4.6
+leisure: 7.7
+adventure: 2.1
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Calistoga sits at the northern end of the Napa Valley, at the foot of Mount St. Helena. It is a small town — about 5,000 people — with a main street lined with tasting rooms, old storefronts, and a pace noticeably slower than the valley's more polished towns to the south.

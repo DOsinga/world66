@@ -7,6 +7,11 @@ snippet: Small Grenadian sister island with Scottish boatbuilding roots and a se
   village rhythm.
 title: Carriacou
 type: location
+nature: 5.3
+leisure: 7.2
+adventure: 2.6
+city_culture: 3.6
+historic_culture: 3.6
 ---
 
 Carriacou is the largest of Grenada's sister islands, lying about 37 kilometres north of the main island. It is small enough to drive across in twenty minutes, unhurried enough that goats outnumber cars on many roads, and interesting enough to justify staying a few days rather than just passing through. The island has a population of around 8,000 and a character quite distinct from Grenada itself — more Scottish, more African, more self-contained.

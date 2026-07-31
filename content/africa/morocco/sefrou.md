@@ -10,6 +10,11 @@ title: Sefrou
 type: location
 snippet: Middle Atlas foothill town with a working medina, old Mellah, and cooler
   air south of Fes.
+nature: 5.1
+leisure: 5.4
+adventure: 4.4
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Sefrou is a small ancient walled town at the foothills of the Middle Atlas, 28 kilometres south of Fes. Most travellers pass it by — which is exactly what makes it worth stopping for. The medina is well-preserved and almost entirely free of tourist shops, giving you a genuine feel for a working Moroccan town.

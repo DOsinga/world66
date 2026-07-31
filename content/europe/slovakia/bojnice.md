@@ -10,6 +10,11 @@ snippet: Small central Slovak town anchored by a turreted castle, thermal baths,
   the country’s oldest zoo.
 title: Bojnice
 type: location
+nature: 3.4
+leisure: 6.1
+adventure: 3.2
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 Bojnice is a small town in central [Slovakia](/europe/slovakia), adjacent to Prievidza, and one of the country's most popular tourist destinations. The draw is [Bojnice Castle](/europe/slovakia/bojnice/bojnice_castle), a fairy-tale pile of turrets and towers that looks like it belongs in a picture book — it is the most visited castle in Slovakia and regularly hosts a spring festival of ghosts and legends.

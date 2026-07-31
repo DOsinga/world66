@@ -13,6 +13,11 @@ title: Calamba
 type: location
 snippet: Laguna city tied to José Rizal's birthplace, with a shrine reconstructing
   his family home.
+nature: 5.1
+leisure: 5.2
+adventure: 4.2
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Calamba is best known as the birthplace of Jose Rizal, the national hero of the Philippines. The Rizal Shrine, a reconstructed version of the house where he was born in 1861, sits in the town center and is a genuinely worthwhile stop. The museum inside holds original manuscripts, personal effects, and family photographs that bring Rizal's story to life in ways that Manila's larger monuments do not quite manage.

@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/Linden,_Guyana
 title: Linden
 type: location
+nature: 5.5
+leisure: 2.8
+adventure: 6.5
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Linden is Guyana's second-largest town, about 100km south of Georgetown on the [Demerara River](/southamerica/guyana/linden/demerara_river). It grew up around bauxite mining in the early twentieth century and the industry still defines the place: the skyline is dominated by old processing infrastructure, and the reddish laterite soil of the surrounding area gives it a distinctive colour. The [Mackenzie bauxite works](/southamerica/guyana/linden/bauxite_industry) document a century of industrial extraction visible throughout the town.

@@ -9,6 +9,11 @@ snippet: Rural Puerto Rican municipality in the Sierra de Cayey, associated with
   traditional pasillo.
 title: Gurabo
 type: location
+nature: 4.9
+leisure: 5.4
+adventure: 3.9
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Gurabo is a small municipality in the eastern interior of [Puerto Rico](/northamerica/thecaribbean/puertorico), tucked into a valley of the Sierra de Cayey about 30 minutes south of San Juan. Known locally as the "Ciudad del Pasillo" for its association with the traditional Puerto Rican musical form, Gurabo has a distinctly rural, unhurried feel compared to the coastal cities.

@@ -16,6 +16,11 @@ snippet: Burkina Faso's second city, known for its Sudanese-style Grande Mosqué
   shaded streets, and old Kibidwé district.
 title: Bobo-dioulasso
 type: location
+nature: 5.1
+leisure: 4.1
+adventure: 5.5
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Bobo-Dioulasso is Burkina Faso's second city and by most accounts its most pleasant. Where [Ouagadougou](/africa/burkinafaso/ouagadougou) is dusty and bureaucratic, Bobo is green, shaded, and unhurried — a city of wide boulevards, busy market squares, and a relaxed atmosphere that makes it easy to linger.

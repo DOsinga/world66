@@ -15,6 +15,11 @@ snippet: Portuguese hill town of royal palaces and misty forests, 40 minutes by 
   from Lisbon.
 title: Sintra
 type: location
+nature: 4.0
+leisure: 7.6
+adventure: 2.4
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Sintra is a small hill town 40 minutes by train from [Lisbon](/europe/portugal/lisbon), and for centuries it was the summer retreat of the Portuguese royal family. Byron called it "glorious Eden" and devoted verses to its mountains and palaces. The UNESCO World Heritage designation it earned in 1995 is well-deserved: the concentration of extraordinary buildings within the national park is matched by almost nowhere else in Europe.

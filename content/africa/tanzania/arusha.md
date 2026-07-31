@@ -13,6 +13,11 @@ snippet: Highland Tanzanian gateway city to Kilimanjaro climbs and the northern 
   circuit.
 title: Arusha
 type: location
+nature: 5.4
+leisure: 5.4
+adventure: 4.4
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Arusha is the gateway city to Tanzania's northern safari circuit and the base for most climbers heading to Kilimanjaro. Set at 1,400m on the southern slopes of [Mount Meru](/africa/tanzania/arusha/mount_meru), the city has a cooler, more pleasant climate than most of East Africa. It is a transit hub more than a destination in itself, but it has its own character and enough to keep you occupied for a day or two.

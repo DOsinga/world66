@@ -16,6 +16,11 @@ sources:
 - https://www.visitveluwe.com/
 title: Veluwe
 type: location
+nature: 6.0
+leisure: 5.9
+adventure: 3.7
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 The Veluwe is the Netherlands at its least urban: a broad sweep of forest, heath, sand drifts, and old estates in Gelderland. It is not wilderness in the dramatic sense -- roads, villages, and cycle paths are never far away -- but in a country this densely settled, the space feels generous.

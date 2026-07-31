@@ -14,6 +14,11 @@ snippet: Zeeland port city on the Western Scheldt, with a sea boulevard above be
   and Antwerp-bound shipping lanes.
 title: Vlissingen
 type: location
+nature: 3.8
+leisure: 4.7
+adventure: 4.6
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Vlissingen (known in English as Flushing) is a port city on the southwestern tip of the province of Zeeland, where the Western Scheldt estuary meets the North Sea. It has a long maritime history — the sea here is serious, with strong tides and a busy shipping channel carrying container ships and tankers in and out of Antwerp.

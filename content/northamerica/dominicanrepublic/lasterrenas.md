@@ -14,6 +14,11 @@ snippet: Samaná Peninsula beach town where a former fishing village grew into a
   international enclave
 title: Las Terrenas
 type: location
+nature: 5.0
+leisure: 5.7
+adventure: 4.1
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Las Terrenas sits on the north coast of the Samaná Peninsula, a former fishing village that found itself on the map when a road was cut through the mountains in 1946. The French and Italians arrived first, then everyone else. Today it is one of the Dominican Republic's most cosmopolitan small towns — a place where you can eat fresh-caught lobster for lunch and proper French pastries for breakfast.

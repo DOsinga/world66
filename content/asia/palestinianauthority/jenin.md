@@ -10,6 +10,11 @@ snippet: Northern West Bank city set among olive groves, markets, refugee-camp t
   and fertile farmland.
 title: Jenin
 type: location
+nature: 5.0
+leisure: 2.3
+adventure: 7.4
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Jenin is a city in the northern West Bank, set in one of the most fertile parts of Palestine. The surrounding countryside — known as the "breadbasket of Palestine" — is green with olive groves, orchards, and vegetable fields. The city has a busy [central market](/asia/palestinianauthority/jenin/central_market) that draws shoppers from across the region, and on the western edge of town the [Jenin refugee camp](/asia/palestinianauthority/jenin/jenin_refugee_camp), home to the well-known [Freedom Theatre](/asia/palestinianauthority/jenin/freedom_theatre) and the scrap-metal sculpture known as [the Jenin Horse](/asia/palestinianauthority/jenin/jenin_horse).

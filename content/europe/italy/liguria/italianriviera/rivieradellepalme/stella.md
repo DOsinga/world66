@@ -10,6 +10,11 @@ snippet: Inland Ligurian comune of wooded Apennine hamlets above the busy Rivier
   delle Palme.
 title: Stella
 type: location
+nature: 5.0
+leisure: 5.2
+adventure: 4.2
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Stella is a small comune in the Ligurian Apennines, made up of several distinct hamlets: San Giovanni, perched on a small mountain pass; Santa Giustina on the southern slope of the Colle del Giovo (516 m); San Martino; and Corona. Set among lush woodland, it is a quiet and restful corner of inland Liguria, a world apart from the busy coastal Riviera below and almost entirely unknown to the tourists who crowd the beach towns.

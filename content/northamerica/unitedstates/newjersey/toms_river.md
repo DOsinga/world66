@@ -14,6 +14,11 @@ snippet: Jersey Shore town on Barnegat Bay, with a riverfront downtown and barri
   beaches nearby
 title: Toms River
 type: location
+nature: 4.4
+leisure: 4.0
+adventure: 5.1
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Toms River is a town on the central Jersey Shore in Ocean County. It sits on the Toms River where it widens into Barnegat Bay, and serves as the gateway to some of the best beach towns on the coast.

@@ -14,6 +14,11 @@ snippet: Upmarket Balinese beach strip north of Kuta, known for west-facing surf
   boutiques, and restaurants.
 title: Seminyak
 type: location
+nature: 3.0
+leisure: 9.0
+adventure: 1.1
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Seminyak is [Bali](/asia/indonesia/bali)'s upmarket beach strip, running north from [Kuta](/asia/indonesia/bali/kuta) and Legian along the west coast. What was once a quiet township is now the island's centre for boutique shopping, international restaurants, and beach clubs — a world away from Kuta's backpacker scene just down the road.

@@ -10,6 +10,11 @@ snippet: Northern Tuscan town between Apuan Alps and sea, overlooked by a Malasp
   castle.
 title: Massa
 type: location
+nature: 3.8
+leisure: 5.5
+adventure: 4.0
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Massa sits where the Apuan Alps meet the sea in northern [Tuscany](/europe/italy/tuscany), sharing its province with the marble town of Carrara. The setting is striking — rugged mountains drop almost directly to a long sandy coastline, and the Malaspina castle on its hilltop dominates the town below.

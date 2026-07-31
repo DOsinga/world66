@@ -13,6 +13,11 @@ image: capitolreef.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Capitol_Reef_National_Park.jpg
 image_license: CC BY 2.0
 image_attribution: Wolfgang Staudt
+nature: 8.4
+leisure: 4.7
+adventure: 5.1
+city_culture: 1.7
+historic_culture: 1.7
 ---
 
 Capitol Reef is the least-visited of Utah's five national parks, which is exactly what makes it worth going. The centerpiece is the Waterpocket Fold — a 100-mile wrinkle in the earth's crust that tilts rock layers sideways and creates a landscape of domes, canyons, and narrow slot passages that look like they were drawn by someone who had never seen geology work the way it's supposed to.

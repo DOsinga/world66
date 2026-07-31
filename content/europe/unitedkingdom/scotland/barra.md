@@ -16,6 +16,11 @@ tags:
 - things_to_do
 title: Barra
 type: location
+nature: 6.3
+leisure: 4.7
+adventure: 4.8
+city_culture: 3.7
+historic_culture: 3.7
 ---
 
 Barra is the southernmost inhabited island of the Outer Hebrides, a compact place about eight miles by six miles with a character that punches well above its size. [Kisimul Castle](/europe/unitedkingdom/scotland/barra/kisimul_castle) — a medieval fortress sitting on a tiny islet in [Castlebay](/europe/unitedkingdom/scotland/barra/castlebay) harbour — is the ancestral seat of the MacNeil clan and can be reached by small boat from the village.

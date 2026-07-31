@@ -16,6 +16,11 @@ snippet: Long Volga River city formerly called Stalingrad, rebuilt around the me
   of its decisive wartime battle.
 title: Volgograd
 type: location
+nature: 3.5
+leisure: 4.7
+adventure: 5.0
+city_culture: 7.4
+historic_culture: 7.4
 ---
 
 Volgograd is a Russian city of just over one million people, stretched for 80 kilometres along the west bank of the Volga River in the southern Russian steppe. It is known to the world almost entirely by its former name: Stalingrad. The Battle of Stalingrad, fought from August 1942 to February 1943, was the largest and bloodiest battle of the Second World War — an estimated two million casualties on all sides — and the point at which the German advance into the Soviet Union was broken. The city was essentially destroyed in the fighting and rebuilt from rubble after the war.

@@ -14,6 +14,11 @@ title: Hydra
 type: location
 snippet: Greek island of stone mansions and car-free lanes where everything moves
   by foot, donkey, or boat.
+nature: 5.5
+leisure: 7.3
+adventure: 2.6
+city_culture: 3.6
+historic_culture: 3.6
 ---
 
 Hydra is perhaps the most singular of the Greek islands — no cars, no motorbikes, and no scooters are allowed anywhere on the island. Everything moves by donkey, foot, or boat. The [harbour town](/europe/greece/hydra/harbour) is one of the most beautiful in the Aegean: stone mansions built by 18th-century sea captains climb the hillsides above a perfect natural harbour, and the waterfront is lined with cafes and restaurants. Artists and writers have been coming here since the 1950s; [Leonard Cohen](/europe/greece/hydra/leonard_cohen_house) lived here for years and wrote some of his best early work on the island.

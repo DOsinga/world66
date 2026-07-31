@@ -16,6 +16,11 @@ snippet: Baroque Austrian city on an Alpine river, built from salt wealth and Mo
   history.
 title: Salzburg
 type: location
+nature: 2.8
+leisure: 8.6
+adventure: 1.5
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Salzburg is the fourth-largest city in Austria and the country's most improbably perfect baroque ensemble — a UNESCO World Heritage old town of marble fountains, painted churches, and narrow arcaded lanes, wrapped around a fast-flowing Alpine river at the foot of the mountains. For a thousand years, from the 8th century until 1803, Salzburg was not an Austrian city at all but an independent **prince-archbishopric**, ruled by a succession of powerful and ambitious prince-bishops who spent the city's salt revenues on building projects, Italian architects, and the musical establishment that later produced **Mozart**. The name itself means "salt castle", and it was salt mined in the mountains above the city that made the archbishops rich enough to do all this.

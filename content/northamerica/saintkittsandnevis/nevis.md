@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Charlestown,_Nevis
 title: Nevis
 type: location
+nature: 6.1
+leisure: 7.2
+adventure: 2.8
+city_culture: 2.8
+historic_culture: 2.8
 ---
 
 Nevis is a small volcanic island — roughly 36 square miles — that rises from the Caribbean Sea in a single graceful cone. At its centre, [Nevis Peak](/northamerica/saintkittsandnevis/nevis/nevis_peak) climbs to around 985 metres and is usually wrapped in cloud by mid-morning. The island is quieter and less developed than its neighbour [Saint Kitts](/northamerica/saintkittsandnevis/st_kitts), which suits it well.

@@ -15,6 +15,11 @@ snippet: Mediterranean university city with medieval lanes, student energy, and 
   historic medical faculty.
 title: Montpellier
 type: location
+nature: 2.0
+leisure: 8.5
+adventure: 1.4
+city_culture: 7.5
+historic_culture: 7.5
 ---
 
 Montpellier is a lively, walkable Mediterranean city of around 300,000 that punches well above its weight. The university here — founded in 1220 and the oldest continuously operating medical faculty in the Western world — still shapes the city: roughly a quarter of the population are students, which gives the old town its year-round energy, cheap bars, and late-night crowds.

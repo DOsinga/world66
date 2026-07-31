@@ -10,6 +10,11 @@ snippet: Tamil Nadu coastal town defined by Nagore Dargah, a major Sufi pilgrima
   shrine near Nagapattinam
 title: Nagore
 type: location
+nature: 4.2
+leisure: 5.2
+adventure: 3.9
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Nagore is a small coastal town 5 km north of Nagapattinam, almost entirely defined by the **[Nagore Dargah](/asia/india/tamilnadu/nagore/nagore_dargah)** — the shrine of Meeran Sahib (Shahul Hamid Badshah), a 16th-century Sufi saint who travelled from north India and settled here. The dargah is one of the most important Muslim pilgrimage sites in south India and draws pilgrims from across Tamil Nadu, Kerala, and Sri Lanka, including many Hindus.

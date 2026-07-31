@@ -10,6 +10,11 @@ snippet: Northern Sumatra gateway city of Malay palaces, colonial mansions, and 
   routes toward Lake Toba
 title: Medan
 type: location
+nature: 4.4
+leisure: 5.1
+adventure: 4.6
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Medan is the gateway to northern Sumatra. Indonesia's fourth-largest city (population around 2.5 million) is loud, sprawling and chaotic, but most travellers pass through on their way to [Lake Toba](/asia/indonesia/sumatra/laketoba), the immense volcanic lake a few hours south. Give Medan a day before you move on -- it has more character than it gets credit for.

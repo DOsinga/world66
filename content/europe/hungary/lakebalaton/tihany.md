@@ -16,6 +16,11 @@ image: tihany.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Tihany,_Hungary_-_September_2022.jpg
 image_license: CC BY-SA 4.0
 image_attribution: DavidivardiIL
+nature: 4.5
+leisure: 7.4
+adventure: 2.5
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Tihany is the most distinctive place on [Lake Balaton](/europe/hungary/lakebalaton): a volcanic peninsula pushing into the lake, crowned by the twin towers of [Tihany Abbey](/europe/hungary/lakebalaton/tihany/tihany_abbey). It is touristy in summer, no point pretending otherwise, but it earns the attention. The views are broad, the old village has real texture, and the landscape changes quickly from abbey square to reed beds, lavender fields, and quiet inland paths.

@@ -14,6 +14,11 @@ snippet: Rural Nakhchivan district of plains and foothills, home to important Br
   Age Kultepe archaeological sites.
 title: Babek
 type: location
+nature: 5.0
+leisure: 2.5
+adventure: 7.1
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Babek is a rural district in the Nakhchivan Autonomous Republic, wedged between Iran to the south, Armenia to the north, and the [Nakhchivan city](/europe/azerbaijan/naxcivan/nakhchivan_city) area to the east. The landscape is striking: the southern foothills of the Daralayaz chain give way to broad plains fed by the Nakhchivanchay river and its tributaries, with the region's highest point at Mount Buzgov reaching 2,475 metres.

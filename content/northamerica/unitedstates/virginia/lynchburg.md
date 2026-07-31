@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Point_of_Honor
 title: Lynchburg
 type: location
+nature: 4.1
+leisure: 5.6
+adventure: 3.7
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Lynchburg is a mid-sized city of about 80,000 people set on seven hills above the James River in central Virginia. Founded in 1757, it was one of the wealthiest cities in the antebellum South thanks to the tobacco trade, and its hilltop neighborhoods are filled with beautifully preserved 19th-century architecture. The city survived the Civil War largely intact, which means the historic fabric is remarkably complete.

@@ -9,6 +9,11 @@ score: 6.24
 loc_type: feature
 snippet: Marshall Islands atoll marked by US nuclear tests and the concrete Runit
   Dome.
+nature: 9.4
+leisure: 2.2
+adventure: 7.7
+city_culture: 1.0
+historic_culture: 1.0
 ---
 
 Enewetak (also spelled Eniwetok) was the site of 43 US nuclear detonations between 1948 and 1958, including Ivy Mike in 1952 — the world's first hydrogen bomb test. Like the Bikinians, the people of Enewetak were removed from their home atoll before testing began, with promises they could return.

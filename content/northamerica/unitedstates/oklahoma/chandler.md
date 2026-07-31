@@ -13,6 +13,11 @@ score: 5.38
 title: Chandler
 type: location
 snippet: Small Route 66 town in central Oklahoma, with an Art Deco interpretive center.
+nature: 4.9
+leisure: 3.8
+adventure: 5.3
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Chandler is a small town on Route 66 in central [Oklahoma](/northamerica/unitedstates/oklahoma), serving as the county seat of Lincoln County. It is one of the better-preserved stops along the historic highway, with a downtown that still feels like a mid-century road trip.

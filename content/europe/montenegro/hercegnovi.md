@@ -14,6 +14,11 @@ snippet: Bay of Kotor town near Croatia, with layered fortresses and a steep Ott
   old centre.
 title: Herceg Novi
 type: location
+nature: 4.9
+leisure: 6.8
+adventure: 3.0
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Herceg Novi sits at the entrance to the Bay of Kotor, just a few kilometres from the Croatian border. It's the first town you'll reach coming from Dubrovnik, and it makes for a pleasant introduction to Montenegro — less touristed than Kotor, more authentic than Budva.

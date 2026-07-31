@@ -17,6 +17,11 @@ sources:
 - https://www.myswitzerland.com/en-us/destinations/ascona/
 title: Ascona
 type: location
+nature: 5.0
+leisure: 8.0
+adventure: 1.9
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 Ascona is Ticino at its most polished: a small town on Lake Maggiore with pastel houses, palm trees, café terraces, and a waterfront that feels closer to Italy than to Zurich. It is quieter and more graceful than neighbouring [Locarno](/europe/switzerland/locarno), which is exactly the point.

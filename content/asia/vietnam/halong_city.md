@@ -14,6 +14,11 @@ snippet: Vietnamese bay city and main gateway to Halong Bay's limestone islands 
   cruise piers
 title: Halong City
 type: location
+nature: 7.0
+leisure: 7.1
+adventure: 2.9
+city_culture: 2.1
+historic_culture: 2.1
 ---
 
 Halong City (formerly Hon Gai) is the provincial capital of Quang Ninh Province and the main gateway to Halong Bay — the UNESCO World Heritage-listed seascape of karst limestone islands that is one of Vietnam's most famous landscapes. The city sits on the bay's northern shore and is divided into two distinct parts: the eastern industrial and administrative zone (Hon Gai), and the western tourism strip around Bai Chay, where most of the hotels, restaurants, and tour operators are concentrated.

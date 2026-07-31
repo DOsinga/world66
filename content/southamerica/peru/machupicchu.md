@@ -16,6 +16,11 @@ snippet: Inca citadel set high above the Urubamba gorge, with precise stonework 
   cloud-forest drama.
 title: Machu Picchu
 type: location
+nature: 6.6
+leisure: 5.0
+adventure: 5.1
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Machu Picchu is the most visited archaeological site in South America and one of the great human achievements anywhere on earth. Built by the Inca emperor Pachacuti around 1450 CE on a narrow saddle between two mountain peaks, at 2,430 metres above sea level, the citadel was abandoned roughly a hundred years later and remained unknown to the outside world until the American explorer Hiram Bingham reached it in 1911, guided by a local farmer. The photographs he sent back changed the world's understanding of pre-Columbian civilisation overnight.

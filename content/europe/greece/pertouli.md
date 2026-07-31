@@ -10,6 +10,11 @@ title: Pertouli
 type: location
 snippet: Greek Pindus mountain village set among fir forests and high meadows near
   Trikala.
+nature: 7.1
+leisure: 4.7
+adventure: 4.9
+city_culture: 2.7
+historic_culture: 2.7
 ---
 
 Pertouli is a small mountain village in the Pindus range of central Greece, about 45 minutes from [Trikala](/europe/greece/trikala). It sits on high grasslands surrounded by fir forest, at around 1,200 metres altitude, and is one of the more accessible ski areas in the country.

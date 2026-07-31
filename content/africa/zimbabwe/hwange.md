@@ -17,6 +17,11 @@ sources:
 - https://zimfieldguide.com/accommodation/hwange-national-park
 title: Hwange National Park
 type: location
+nature: 7.8
+leisure: 4.4
+adventure: 5.2
+city_culture: 1.8
+historic_culture: 1.8
 ---
 
 Hwange National Park is Zimbabwe's largest and best-known wildlife reserve, stretching across nearly 15,000 square kilometres of Kalahari sand, teak woodland, mopane, fossil riverbeds, and open pans. It is close enough to [Victoria Falls](/africa/zimbabwe/victoriafalls) to be practical, but once you are inside the park the tourist town feels a long way away.

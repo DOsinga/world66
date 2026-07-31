@@ -13,6 +13,11 @@ snippet: Low-key Tanzanian island south of Dar es Salaam, centred on Chole Bay a
   its protected marine park.
 title: Mafia Island
 type: location
+nature: 6.3
+leisure: 6.2
+adventure: 3.7
+city_culture: 3.2
+historic_culture: 3.2
 ---
 
 Mafia Island sits about 130 km south of Dar es Salaam in the Indian Ocean, and it is deliberately, pleasantly off the beaten track. There are no big resort hotels, no nightclubs, and very little tourist infrastructure — which is exactly the point. People come here for the water.

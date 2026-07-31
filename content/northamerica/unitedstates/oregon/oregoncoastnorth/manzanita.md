@@ -13,6 +13,11 @@ snippet: Quiet Oregon beach town backed by Neahkahnie Mountain, with four miles 
   dark sand and coastal trails nearby.
 title: Manzanita
 type: location
+nature: 5.9
+leisure: 5.5
+adventure: 4.0
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 Just south of [Cannon Beach](/northamerica/unitedstates/oregon/oregoncoastnorth/cannonbeach), Manzanita is the quiet, uncommercial alternative to its busier northern neighbour. The town is little more than a few blocks of beach houses, a handful of restaurants, and a long stretch of sand backed by Neahkahnie Mountain — and that simplicity is the whole point.

@@ -15,6 +15,11 @@ snippet: Medieval Tuscan city of brick palaces, contrade rivalries, and the shel
   Piazza del Campo.
 title: Siena
 type: location
+nature: 1.5
+leisure: 8.4
+adventure: 1.6
+city_culture: 8.6
+historic_culture: 8.6
 ---
 
 Siena is the great rival of Florence, and for many visitors the more lovable of the two. It is a medieval city virtually intact — the centre is closed to traffic, the towers and palaces of the 13th and 14th centuries still dominate the skyline, and the Piazza del Campo is one of the most beautiful urban spaces in Europe. It sits in the hills of Tuscany about 55 km south of Florence, surrounded by vineyards producing Chianti Classico.

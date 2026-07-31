@@ -14,6 +14,11 @@ snippet: Normandy village where Claude Monet lived, painted, and designed his fa
   gardens.
 title: Giverny
 type: location
+nature: 3.1
+leisure: 7.8
+adventure: 1.8
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Giverny is a small village halfway between [Paris](/europe/france/paris) and [Rouen](/europe/france/normandybrittany/rouen), and its fame rests almost entirely on one man: Claude Monet lived and painted here for 43 years until his death in 1926. His house and gardens are the reason to come.

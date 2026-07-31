@@ -9,6 +9,11 @@ score: 7.1
 loc_type: feature
 snippet: Northern Basilicata volcanic area around Monte Vulture, known for crater
   lakes and Aglianico del Vulture wine.
+nature: 6.5
+leisure: 3.3
+adventure: 6.5
+city_culture: 4.0
+historic_culture: 4.0
 ---
 
 The Vulture area takes its name from Monte Vulture (1,326 m), an extinct volcano in the north of [Basilicata](/europe/italy/basilicata), near [Melfi](/europe/italy/basilicata/melfi). The fertile lava soils produce some of the best wine in the region — the Aglianico del Vulture is a powerful, age-worthy red with DOC status, grown from vines that thrive on the mineral-rich volcanic earth.

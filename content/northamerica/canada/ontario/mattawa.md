@@ -14,6 +14,11 @@ snippet: Northern Ontario river town where fur-trade history meets canoe routes 
   Canadian Shield wilderness.
 title: Mattawa
 type: location
+nature: 7.0
+leisure: 4.3
+adventure: 5.2
+city_culture: 2.9
+historic_culture: 2.9
 ---
 
 Mattawa is a small town of about 2,000 people at the confluence of the Mattawa and Ottawa rivers in northern Ontario. The name comes from an Algonquin word meaning "meeting of the waters," and that sense of convergence — rivers, wilderness, and history — defines the place.

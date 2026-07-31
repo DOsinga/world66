@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Gumbo_Limbo_Environmental_Complex
 title: Boca Raton
 type: location
+nature: 4.5
+leisure: 7.4
+adventure: 2.1
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Boca Raton is the manicured side of South Florida: red-tile roofs, royal palms, guarded beach parks, and shopping plazas that look as if they were designed by a resort architect with a very strict ruler. It sits between [Delray Beach](/northamerica/unitedstates/florida/delray_beach) and [Fort Lauderdale](/northamerica/unitedstates/florida/fortlauderdale), and it works best as a quieter base for Palm Beach County rather than as a wild nightlife stop.

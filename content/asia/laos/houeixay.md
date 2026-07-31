@@ -10,6 +10,11 @@ title: Huay Xai
 type: location
 snippet: Mekong border town in northwest Laos, starting point for the slow boat to
   Luang Prabang.
+nature: 5.9
+leisure: 4.6
+adventure: 5.2
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 Huay Xai (also spelled Houeixay or Houei Sai) sits on the Mekong in the far northwest of Laos, directly opposite Chiang Khong in [Thailand](/asia/thailand). For most travelers, it serves one purpose: as the starting point for the [two-day slow boat journey](/asia/laos/houeixay/slow_boat_to_luang_prabang) down the Mekong to [Luang Prabang](/asia/laos/luangprabang), one of Southeast Asia's classic river trips.

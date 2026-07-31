@@ -11,6 +11,11 @@ image: als.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Augustenborg-Storegade.jpg
 image_license: CC BY 3.0
 image_attribution: Dguendel
+nature: 3.8
+leisure: 5.2
+adventure: 3.8
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Als is an island in southern Denmark, separated from the Jutland peninsula by the narrow Als Strait and connected by bridge at [Sønderborg](/europe/denmark/sonderborg). At 321 square kilometres it is a substantial island — larger than Langeland and Ærø combined — but it sits in the shadow of Sønderborg and is not widely treated as a destination in itself.

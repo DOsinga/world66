@@ -14,6 +14,11 @@ snippet: Quezon foothill town known for the Pahiyas Festival's colourful kiping 
   and Mount Banahaw setting
 title: Lucban
 type: location
+nature: 4.2
+leisure: 4.0
+adventure: 5.2
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Lucban is a small town in Quezon Province, tucked into the foothills of [Mount Banahaw](/asia/philippines/quezon_province/lucban/mount_banahaw) on the island of Luzon. It is best known for the Pahiyas Festival, held every 15 May in honour of San Isidro Labrador, when houses along the main street are decorated with colourful rice wafers called kiping and displays of fruit, vegetables, and handicrafts. The festival, which centres on [Lucban Church](/asia/philippines/quezon_province/lucban/lucban_church), draws visitors from across the Philippines and is one of the most visually spectacular fiestas in the country.

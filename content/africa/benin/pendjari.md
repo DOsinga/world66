@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Pendjari_National_Park
 title: Pendjari National Park
 type: location
+nature: 8.9
+leisure: 3.4
+adventure: 6.3
+city_culture: 1.2
+historic_culture: 1.2
 ---
 
 Pendjari National Park is the wildlife heart of northern Benin and, alongside neighbouring W National Park in Burkina Faso and Niger, one of the last places in West Africa where the great savanna fauna still hangs on at scale. The park covers nearly 2,755 square kilometres of wooded savanna and gallery forest in the Atakora region, bounded by the Pendjari River to the north (which forms the border with Burkina Faso) and the Atakora escarpment to the south.

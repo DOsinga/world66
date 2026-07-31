@@ -14,6 +14,11 @@ title: Deer Lodge
 type: location
 snippet: Small Montana valley town known for the Old Montana State Prison and Grant-Kohrs
   Ranch.
+nature: 6.5
+leisure: 4.2
+adventure: 5.4
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 **Deer Lodge** sits in a wide valley between the Flint Creek and Highland mountain ranges, a small Montana town with a disproportionately interesting past. It is the county seat of Powell County and home to around 3,000 people.

@@ -13,6 +13,11 @@ snippet: Caribbean national park archipelago of coral reefs, white-sand cays, an
   the small village of Gran Roque.
 title: Los Roques
 type: location
+nature: 6.5
+leisure: 7.2
+adventure: 2.9
+city_culture: 2.6
+historic_culture: 2.6
 ---
 
 Los Roques is a national park archipelago of about 300 islands, cays, and coral reefs in the Caribbean Sea, roughly 160km north of [Caracas](/southamerica/venezuela/caracas). It's one of the most beautiful marine environments in the Caribbean — turquoise water, white sand, healthy coral reefs, and almost no development beyond the small village of Gran Roque.

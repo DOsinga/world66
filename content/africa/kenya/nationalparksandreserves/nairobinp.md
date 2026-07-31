@@ -13,6 +13,11 @@ image: nairobinp.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lions_of_Kenya_02.jpg
 image_license: CC BY 2.0
 image_attribution: flightlog
+nature: 7.3
+leisure: 5.8
+adventure: 3.9
+city_culture: 1.9
+historic_culture: 1.9
 ---
 
 Nairobi National Park is the only national park in the world within sight of a major city's skyline. Opened in 1946 as Kenya's first national park, it covers 117 square kilometres of open grassland, scattered acacia woodland, and a stretch of the Athi river — all just 7 km south of [Nairobi](/africa/kenya/nairobi)'s city centre.

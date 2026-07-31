@@ -14,6 +14,11 @@ snippet: Tiny Aberdeenshire fishing village of shorefront cottages wedged tightl
   between cliff and Moray Firth
 title: Crovie
 type: location
+nature: 5.5
+leisure: 4.7
+adventure: 4.6
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Crovie (pronounced "Crivie") is a single row of cottages wedged between cliff and sea on the Moray Firth coast of Aberdeenshire. Once a busy fishing village, it is now almost entirely holiday homes — but the setting is extraordinary and the peace absolute.

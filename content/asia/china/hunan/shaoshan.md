@@ -15,6 +15,11 @@ type: location
 score: 6.77
 snippet: Small Hunan market town turned Mao Zedong pilgrimage site around his birthplace
   and memorials.
+nature: 4.1
+leisure: 4.6
+adventure: 4.6
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Shaoshan is a small market town in central [Hunan](/asia/china/hunan) that would be entirely unremarkable except for one fact: Mao Zedong was born here on 26 December 1893. Since his death in 1976 it has operated as a pilgrimage site drawing tens of millions of Chinese visitors, making it one of the most-visited destinations in Hunan despite having none of the conventional tourist apparatus — no UNESCO listing, no dramatic scenery, no restaurant scene worth mentioning. What it has is an almost archaeological density of Mao-related sites and the particular atmosphere of a place that an entire country has decided is sacred.

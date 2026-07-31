@@ -14,6 +14,11 @@ snippet: Southern Santa Catarina city near thermal waters and the heritage Maria
   railway.
 title: Tubarão
 type: location
+nature: 4.1
+leisure: 7.4
+adventure: 2.2
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Tubarão sits between the mountains and the sea in southern Santa Catarina, about 130 kilometres south of Florianópolis. The city of around 90,000 people is a regional commercial centre with a strong Italian, German, and Azorean heritage. Most visitors come either for the thermal waters in nearby Gravatal or to take the [Maria Fumaça](/southamerica/brazil/tubaro/maria_fumaca) steam train excursions along one of Brazil's last working heritage railways.

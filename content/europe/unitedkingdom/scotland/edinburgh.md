@@ -16,6 +16,11 @@ snippet: Scottish capital built on volcanic rock, where medieval closes and Geor
   terraces face across a former loch.
 title: Edinburgh
 type: location
+nature: 1.7
+leisure: 8.1
+adventure: 1.8
+city_culture: 8.3
+historic_culture: 8.3
 ---
 
 The capital of Scotland, Edinburgh is one of the world's great cities — a compact, walkable capital built on volcanic rock and Georgian ambition, where the medieval Old Town and the planned New Town face each other across a valley that was once a loch. Few cities pack so much history, architecture, and sheer drama into such a small space.

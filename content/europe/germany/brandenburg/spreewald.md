@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Spree_Forest
 title: Spreewald
 type: location
+nature: 6.1
+leisure: 4.8
+adventure: 4.6
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 The Spreewald is a vast network of canals, meadows, and oak forests south of Berlin — a UNESCO Biosphere Reserve that feels like a different world entirely. The Spree river fans out here into around 300 waterways, and for centuries the local Sorbian people navigated them by punt rather than by road. That tradition is still very much alive, and a [boat ride through the channels](/europe/germany/brandenburg/spreewald/canal_punt_tours) remains the best thing you can do here.

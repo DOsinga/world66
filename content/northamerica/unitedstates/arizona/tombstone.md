@@ -14,6 +14,11 @@ title: Tombstone
 type: location
 snippet: Arizona silver-boom town where the O.K. Corral anchors a preserved Wild West
   historic district.
+nature: 3.8
+leisure: 5.3
+adventure: 4.1
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Tombstone is the most famous Wild West town in America, and it knows it. Founded in 1879 after Ed Schieffelin struck silver in the San Pedro Valley, the town exploded from nothing to 10,000 people in just a few years — making it the largest city between San Francisco and St. Louis. The mines flooded in 1882 and the boom went bust, but unlike most mining towns, Tombstone refused to disappear. Its motto, "The Town Too Tough to Die," is earned.

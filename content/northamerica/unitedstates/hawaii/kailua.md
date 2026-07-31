@@ -14,6 +14,11 @@ snippet: Big Island resort town on the Kona coast, strung along Ali'i Drive belo
   Hualalai volcano
 title: Kailua-Kona
 type: location
+nature: 4.8
+leisure: 8.1
+adventure: 1.9
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 Kailua-Kona is the main tourist town on the Big Island's sunny west coast, a compact strip of shops, restaurants, and historic sites strung along Ali'i Drive with the blue Pacific on one side and the slopes of Hualalai volcano on the other. The weather here is almost absurdly reliable — dry and warm year-round while the east side of the island gets drenched.

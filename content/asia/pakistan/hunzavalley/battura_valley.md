@@ -13,6 +13,11 @@ sources:
 - https://en.wikipedia.org/wiki/Batura_Muztagh
 title: Battura Valley
 type: location
+nature: 8.0
+leisure: 3.9
+adventure: 6.0
+city_culture: 2.5
+historic_culture: 2.5
 ---
 
 Battura Valley — also written Batura — cuts north from the Karakoram Highway near Passu in upper Hunza, and is dominated by the Batura Glacier, one of the longest glaciers outside the polar regions. The glacier stretches for nearly 60 kilometres through the mountains and draws serious trekkers and mountaineers willing to make the journey.

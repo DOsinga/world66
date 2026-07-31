@@ -9,6 +9,11 @@ snippet: Coastal Lazio national park combining a limestone promontory, dunes, ma
 type: location
 score: 8.12
 loc_type: feature
+nature: 7.0
+leisure: 5.6
+adventure: 4.0
+city_culture: 2.4
+historic_culture: 2.4
 ---
 
 Circeo National Park, on the coast south of Rome, packs a remarkable variety of landscapes into a compact strip of land. A limestone promontory juts into the Tyrrhenian Sea, giving the park its name and its most distinctive landmark. Forests of oak cover the inland slopes, while junipers cling to the seaward face. The peak of Circeo reaches 541 metres above sea level and can be reached on foot from [San Felice Circeo](/europe/italy/lazio/san_felice_circeo), which also serves as the main gateway to the park.

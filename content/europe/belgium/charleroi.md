@@ -9,6 +9,11 @@ done:
   location_cleanup: 2026-04-06
 score: 6.03
 loc_type: city
+nature: 3.7
+leisure: 4.3
+adventure: 4.9
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Charleroi is the third biggest city of Belgium, situated in Wallonia, the French-speaking part of Belgium.

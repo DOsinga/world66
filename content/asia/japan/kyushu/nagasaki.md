@@ -14,6 +14,11 @@ title: Nagasaki
 snippet: Harbour city on western Kyushu, shaped by foreign contact and the 1945 atomic
   bombing.
 type: location
+nature: 2.9
+leisure: 5.7
+adventure: 3.7
+city_culture: 7.8
+historic_culture: 7.8
 ---
 
 Nagasaki sits at the head of a long harbour on Kyushu's western coast, and for more than two centuries it was Japan's only window to the outside world. During the Edo period, when the rest of Japan was closed to foreign contact, a tiny artificial island called Dejima in Nagasaki harbour was the sole place where Dutch traders were permitted to operate. Chinese merchants had their own quarter nearby. This long history of foreign contact gives the city a character unlike anywhere else in Japan — European, Chinese, and Japanese influences are layered throughout.

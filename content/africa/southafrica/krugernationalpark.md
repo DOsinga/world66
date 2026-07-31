@@ -14,6 +14,11 @@ snippet: Huge South African game reserve spanning varied habitats between the Li
 title: Kruger National Park
 type: location
 score: 9.44
+nature: 8.4
+leisure: 1.6
+adventure: 8.0
+city_culture: 1.6
+historic_culture: 1.6
 ---
 
 Kruger National Park is the flagship of South African conservation and one of the best places in the world to see the Big Five. At nearly 20,000 square kilometres — roughly the size of Wales — it is one of Africa's largest game reserves, stretching from the Limpopo River in the north to the Crocodile River in the south, and from the Mozambique border in the east to the Drakensberg foothills in the west. The sheer scale of the park means you can drive for hours through different habitats, each supporting different wildlife.

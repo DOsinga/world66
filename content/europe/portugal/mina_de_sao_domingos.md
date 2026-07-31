@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/S%C3%A3o_Domingos_Mine
 title: Mina de São Domingos
 type: location
+nature: 4.6
+leisure: 3.6
+adventure: 5.6
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Mina de São Domingos is a deserted mining village in the Alentejo, deep in the southeast of [Portugal](/europe/portugal) near the Spanish border. The Romans mined here for gold and silver for about four hundred years, and the British reopened the mines in the 19th century to extract copper pyrite, building a railway and an English-style village for the workers.

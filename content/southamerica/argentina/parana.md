@@ -14,6 +14,11 @@ snippet: Entre Ríos capital on a river bluff, with leafy parks, a costanera, an
   architecture
 title: Paraná
 type: location
+nature: 4.5
+leisure: 4.2
+adventure: 5.0
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Paraná is the capital of Entre Ríos province, sitting on a bluff above the river that shares its name. Across the water, connected by the Subfluvial Tunnel, lies the much larger city of Santa Fe. Paraná is the quieter, greener counterpart — a pleasant provincial capital with a long riverside promenade (the Costanera), parks, and a relaxed pace of life.

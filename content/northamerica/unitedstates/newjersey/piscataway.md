@@ -10,6 +10,11 @@ snippet: Central New Jersey township shaped by Rutgers campuses, suburban neighb
   and the Raritan River plain
 title: Piscataway
 type: location
+nature: 3.7
+leisure: 5.0
+adventure: 4.0
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Piscataway is a township in central New Jersey, adjacent to New Brunswick and best known as the home of several Rutgers University campuses — Busch Campus and Livingston Campus are both here, along with the university's football stadium and basketball arena. The area is heavily suburban, dominated by corporate office parks along Route 1 and Hoes Lane.

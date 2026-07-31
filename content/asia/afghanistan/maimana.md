@@ -14,6 +14,11 @@ snippet: Faryab provincial capital in northwestern Afghanistan, set in a fertile
   known for carpet weaving
 title: Maimana
 type: location
+nature: 6.7
+leisure: 1.1
+adventure: 8.7
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 Maimana (also spelled Maymana) is the capital of Faryab Province in northwestern Afghanistan, a predominantly Uzbek and Turkmen city set in a fertile valley between dry hills. It sits well off the main routes through the country and is rarely visited by outsiders, which gives it a character untouched by the tourism infrastructure found elsewhere in Afghanistan.

@@ -14,6 +14,11 @@ snippet: Central Valley coffee town known for mild weather, expat life, and hill
   west of San José.
 title: Atenas
 type: location
+nature: 4.4
+leisure: 7.0
+adventure: 2.8
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Atenas is a small town in [Costa Rica's](/northamerica/costarica) Central Valley, about 30 minutes west of [San José](/northamerica/costarica/sanjose) on the main road toward the Pacific coast. Sitting at around 700 metres elevation in the coffee-growing hills, it has long claimed to have the best climate in the world — warm days, cool nights, and very little humidity. Whether or not that title is deserved, the weather is genuinely pleasant year-round and has attracted a sizable expat community.

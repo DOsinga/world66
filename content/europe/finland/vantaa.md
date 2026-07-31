@@ -9,6 +9,11 @@ title: Vantaa
 type: location
 snippet: Helsinki metropolitan city best known for the airport, with historic parishes
   and open farmland between suburbs.
+nature: 4.5
+leisure: 5.1
+adventure: 4.3
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Vantaa is Finland's fourth-largest city by population, though few visitors would know it — the city blends into the northern edge of the Helsinki metropolitan area so seamlessly that most people pass through without noticing. Helsinki-Vantaa Airport is here, and so are the motorways radiating north from the capital. But look past the infrastructure and Vantaa has more substance than its reputation suggests.

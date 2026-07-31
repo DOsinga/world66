@@ -15,6 +15,11 @@ snippet: Russian capital built around the Kremlin and Red Square, with medieval,
   and Soviet landmarks.
 title: Moscow
 type: location
+nature: 2.2
+leisure: 5.8
+adventure: 4.0
+city_culture: 8.8
+historic_culture: 8.8
 ---
 
 Moscow is the beating heart of the Russian world — a medieval fortress-city that grew into the capital of the tsars, the seat of Soviet power, and today one of the largest and most expensive metropolises on earth. For all its scale, the centre is surprisingly compact, arranged as a series of concentric ring roads radiating out from the [Kremlin](/europe/russia/moscow/the_kremlin) and [Red Square](/europe/russia/moscow/red_square_krasna). An afternoon on foot covers the essentials; a week is not enough for everything the city contains.

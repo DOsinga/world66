@@ -10,6 +10,11 @@ snippet: Costa Brava resort town with a long sandy beach and a medieval Catalan 
   just inland.
 title: Platja d'Aro
 type: location
+nature: 3.9
+leisure: 7.6
+adventure: 1.9
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Platja d'Aro is a Costa Brava resort town on the Catalan coast between Barcelona and the French border, about 110 km north-east of Barcelona. The name translates roughly as "beach of Aro," and the long sandy beach — backed by a promenade and lined with shops and restaurants — is the town's primary attraction. It draws a largely domestic Spanish and French clientele rather than the international package-holiday crowd that dominates other stretches of the Costa Brava.

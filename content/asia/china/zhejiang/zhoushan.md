@@ -15,6 +15,11 @@ type: location
 score: 6.84
 snippet: East China Sea archipelago city of fishing ports, seafood markets, and Buddhist
   Mount Putuo.
+nature: 4.7
+leisure: 5.4
+adventure: 4.3
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Zhoushan is an archipelago of over 1,300 islands scattered across the East China Sea north of Ningbo, and the only prefecture-level city in China made up entirely of islands. The city is the country's most important fishing port, and the [Shenjiamen Fish Market](zhoushan/shenjiamen_fish_market) on Putuo Island runs one of Asia's largest fish markets, busiest at dawn when the trawlers come in. A night market along the waterfront turns the catch into grilled skewers and clay-pot soups, and eating here — surrounded by fishermen and wholesale buyers — is as authentic as Chinese seafood dining gets.

@@ -13,6 +13,11 @@ snippet: Loire Valley town dominated by Talleyrand’s grand Château de Valenç
   its formal gardens.
 title: Valençay
 type: location
+nature: 2.9
+leisure: 7.2
+adventure: 2.2
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 The [Château de Valençay](/europe/france/centre/loirevalley/valencay/chateau_de_valencay) rivals [Chambord](/europe/france/centre/loirevalley/chambord) in scale but draws a fraction of the visitors — a real advantage if you prefer your Loire châteaux without the crowds. The building is a handsome blend of Renaissance and classical styles, set above beautifully designed English-style gardens with formal parterres, a deer park, and a children's playground.

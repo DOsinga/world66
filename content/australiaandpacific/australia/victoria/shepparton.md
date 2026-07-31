@@ -14,6 +14,11 @@ snippet: Goulburn Valley city built on orchards, canneries, migrant communities,
   a famously flat sporting culture.
 title: Shepparton
 type: location
+nature: 4.3
+leisure: 5.3
+adventure: 3.7
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Shepparton calls itself the Food Capital of Australia, and the claim is not entirely tongue-in-cheek. This Goulburn Valley city, about two and a half hours north of Melbourne, is the centre of a major food-processing region. [SPC](/australiaandpacific/australia/victoria/shepparton/spc_visitor_experience) and other manufacturers have long been the backbone of the local economy, drawing migrants from across the world — including a notable Albanian Muslim community — to work in the orchards and canneries.

@@ -14,6 +14,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Wanning
 title: Wanning
 type: location
+nature: 5.6
+leisure: 6.5
+adventure: 3.2
+city_culture: 3.7
+historic_culture: 3.7
 ---
 
 Wanning is the surfing capital of China — a claim that would have seemed absurd twenty years ago but is now essentially accurate. [Riyue Bay](/asia/china/hainanisland/wanning/riyue_bay) (Sun and Moon Bay) on the city's coast hosts the China Surf Open and is studded with surf clubs offering boards, lessons, and the kind of beach-shack atmosphere that Sanya spent years trying and failing to manufacture. The waves are modest by international standards but consistent, the water warm, and the crowd a mix of committed Chinese surfers and curious beginners.

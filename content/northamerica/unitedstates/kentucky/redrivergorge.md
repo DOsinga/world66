@@ -9,6 +9,11 @@ title: Red River Gorge
 type: location
 score: 7.98
 loc_type: feature
+nature: 9.0
+leisure: 3.0
+adventure: 6.6
+city_culture: 1.0
+historic_culture: 1.0
 ---
 
 Red River Gorge is a canyon system in the Daniel Boone National Forest in eastern [Kentucky](/northamerica/unitedstates/kentucky), carved over millions of years by the Red River through the sandstone of the Cumberland Plateau. The gorge contains over a hundred natural stone arches, towering cliff lines and densely forested hollows.

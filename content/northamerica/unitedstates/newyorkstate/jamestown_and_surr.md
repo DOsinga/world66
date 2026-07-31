@@ -14,6 +14,11 @@ snippet: Southwestern New York city on Chautauqua Lake's outlet, best known as L
   Ball's birthplace.
 title: Jamestown
 type: location
+nature: 3.2
+leisure: 6.2
+adventure: 3.1
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 Jamestown is a small city in the southwestern corner of New York State, on the outlet of [Chautauqua Lake](/northamerica/unitedstates/newyorkstate/jamestown_and_surr/chautauqua_lake). It is best known as the birthplace of Lucille Ball — the [National Comedy Center](/northamerica/unitedstates/newyorkstate/jamestown_and_surr/national_comedy_center), opened in 2018, is the main draw and a genuinely engaging museum dedicated to the art and history of comedy. Just up the street, the smaller [Lucy-Desi Museum](/northamerica/unitedstates/newyorkstate/jamestown_and_surr/lucy_desi_museum) tells the personal story of Lucy and Desi Arnaz.

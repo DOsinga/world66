@@ -14,6 +14,11 @@ image: sunshinecoast.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Maroochydore_seen_across_South_Maroochy_River,_Queensland_01_(cropped).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Chris Olszewski
+nature: 5.9
+leisure: 7.8
+adventure: 2.2
+city_culture: 2.8
+historic_culture: 2.8
 ---
 
 The Sunshine Coast stretches about 100 km along the Queensland coast north of Brisbane, from [Caloundra](/australiaandpacific/australia/queensland/sunshinecoast/caloundra) in the south to [Noosa](/australiaandpacific/australia/queensland/noosaheads) in the north. It is the quieter, less developed alternative to the Gold Coast — surf beaches, hinterland rainforest, and small towns that still feel like beach towns rather than resort strips.

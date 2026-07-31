@@ -14,6 +14,11 @@ sources:
 - https://en.wikipedia.org/wiki/McSwain_Theatre
 title: Ada
 type: location
+nature: 4.1
+leisure: 4.6
+adventure: 4.4
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Ada is a city of around 17,000 people and the county seat of Pontotoc County, sitting in the rolling Cross Timbers country of south-central Oklahoma, roughly equidistant between Oklahoma City and Dallas. The Cross Timbers landscape — post oaks and blackjacks giving way to tallgrass meadows — gives the area a character distinct from the Great Plains flatlands to the west.

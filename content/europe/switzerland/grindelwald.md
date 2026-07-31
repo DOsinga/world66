@@ -14,6 +14,11 @@ snippet: Bernese Oberland village beneath the Eiger, Mönch, and Jungfrau, long 
   with Alpine tourism.
 title: Grindelwald
 type: location
+nature: 6.5
+leisure: 7.5
+adventure: 2.6
+city_culture: 2.5
+historic_culture: 2.5
 ---
 
 Grindelwald is a village at 1,050 metres in the Bernese Oberland, set in a valley beneath the Eiger, Mönch, and Jungfrau — three of the most famous peaks in the Alps. The north face of the Eiger, one of mountaineering's great challenges, looms directly above the village. Tourists have been coming here since the 17th century, and it remains one of Switzerland's most popular mountain resorts.

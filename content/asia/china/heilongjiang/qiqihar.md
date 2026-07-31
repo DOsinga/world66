@@ -15,6 +15,11 @@ snippet: Heilongjiang city used as the gateway to Zhalong Nature Reserve, one of
 title: Qiqihar
 type: location
 score: 5.78
+nature: 5.0
+leisure: 4.7
+adventure: 4.7
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Qiqihar is Heilongjiang's second city and, to most visitors, a staging point for something far more compelling: the [Zhalong Nature Reserve](/asia/china/heilongjiang/qiqihar/zhalong_nature_reserve), one of the finest wetland birding sites in all of China. The reserve lies about an hour from the city centre by bus and protects a vast expanse of reedy marshland along the Wuyuer River. Around 260 bird species have been recorded here, including six of the world's fifteen crane species — the red-crowned crane, the rarest and most emblematic, breeds here and can be seen at close range from spring through early autumn. Dawn is the best time, when the cranes move through the reeds in small groups and the flat light makes everything look slightly unreal.

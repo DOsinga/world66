@@ -13,6 +13,11 @@ title: Tinos
 type: location
 snippet: Cycladic island and major Orthodox pilgrimage centre, also known for marble
   villages and craft traditions.
+nature: 3.7
+leisure: 6.1
+adventure: 3.7
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Tinos is one of the most important pilgrimage sites in the Greek Orthodox world. The [Church of Panagia Evangelistria](/europe/greece/tinos/panagia_evangelistria) in Tinos town houses a revered icon of the Virgin Mary, and on the Feast of the Assumption (15 August) thousands of pilgrims crawl on their knees up the main street from the harbour to the church. It is one of the most extraordinary sights in Greece, and one that most foreign visitors know nothing about.

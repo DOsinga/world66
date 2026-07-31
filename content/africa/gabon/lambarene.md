@@ -14,6 +14,11 @@ title: Lambarene
 snippet: Ogooué River town known for Albert Schweitzer's hospital and inland Gabon's
   river life.
 type: location
+nature: 7.4
+leisure: 3.3
+adventure: 6.3
+city_culture: 3.0
+historic_culture: 3.0
 ---
 
 Lambarene was put on the map by Albert Schweitzer, and his [hospital](/africa/gabon/lambarene/albert_schweitzer_hospital) remains the main reason travellers come to this small riverside town. Located about 240 km southeast of [Libreville](/africa/gabon/libreville) on the [Ogooue River](/africa/gabon/lambarene/ogooue_river), Lambarene has a population of around 30,000, making it one of Gabon's larger inland towns.

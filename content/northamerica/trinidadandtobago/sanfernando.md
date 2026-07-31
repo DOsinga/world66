@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/Pitch_Lake
 title: San Fernando
 type: location
+nature: 4.1
+leisure: 5.0
+adventure: 4.3
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 San Fernando is Trinidad's second city, perched on a hill in the island's industrial south. The city grew on the back of the oil and petrochemical industries that dominate this part of Trinidad, and the working rigs visible from the highway on the approach give you a clear sense of what drives the local economy. Yet San Fernando has a vitality and community pride that the oil-town label does not fully capture.

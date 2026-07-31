@@ -10,6 +10,11 @@ snippet: Arkansas River town with a preserved Main Street district and mountain 
   excursions
 title: Van Buren
 type: location
+nature: 4.5
+leisure: 5.2
+adventure: 4.0
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Van Buren sits just across the Arkansas River from [Fort Smith](/northamerica/unitedstates/arkansas/fortsmith), a small town of about 24,000 with a well-preserved historic downtown. The [Main Street Historic District](/northamerica/unitedstates/arkansas/van_buren/main_street_historic_district) is lined with antique shops, collectibles stores, and specialty shops housed in handsome nineteenth-century brick buildings — it is one of the better antique-hunting strips in western Arkansas. The [King Opera House](/northamerica/unitedstates/arkansas/van_buren/king_opera_house) at the end of the district is the architectural highlight.

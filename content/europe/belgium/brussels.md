@@ -16,6 +16,11 @@ snippet: Bilingual Belgian capital and EU seat, centred on the gilded Grand-Plac
   and wry urban contradictions.
 title: Brussels
 type: location
+nature: 1.3
+leisure: 7.9
+adventure: 1.8
+city_culture: 8.9
+historic_culture: 8.9
 ---
 
 Brussels wears two hats. Politically, it is the de facto capital of the European Union — home to the European Commission, the Parliament, the Council, and a vast functional neighbourhood of glass-and-steel around Schuman that lives off EU business. Culturally, it is the bilingual capital of a country that is itself oddly constructed — every sign in French and Flemish, every official bureaucracy duplicated, a layer of dry self-aware humour about the whole arrangement.

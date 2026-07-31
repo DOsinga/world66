@@ -14,6 +14,11 @@ snippet: West Texas twin-city oil hub in the Permian Basin, with petroleum, airc
   and meteor-crater history.
 title: Midland-Odessa
 type: location
+nature: 3.9
+leisure: 4.0
+adventure: 5.2
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Midland and Odessa are twin cities in the heart of the Permian Basin, the engine of West [Texas](/northamerica/unitedstates/texas)' oil industry. The landscape is flat and dry, and the towns are unapologetically working-class — but there are reasons to stop. The [CAF Airpower Museum](/northamerica/unitedstates/texas/midlandodessa/caf_airpower_museum) (formerly the Commemorative Air Force) in Midland houses an impressive collection of flyable World War II aircraft. The [Permian Basin Petroleum Museum](/northamerica/unitedstates/texas/midlandodessa/permian_basin_petroleum_museum) explains the geology and history of the oil boom in surprising depth. Odessa has the [meteor crater](/northamerica/unitedstates/texas/midlandodessa/odessa_meteor_crater) — one of the largest in the US — and a Stonehenge replica, both off the interstate. Two US presidents (father and son Bush) have strong ties to Midland; the [George W. Bush Childhood Home](/northamerica/unitedstates/texas/midlandodessa/george_w_bush_childhood_home) is open for tours.

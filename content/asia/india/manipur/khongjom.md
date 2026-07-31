@@ -10,6 +10,11 @@ snippet: Small Manipur town remembered for the 1891 Battle of Khongjom against B
   forces.
 title: Khongjom
 type: location
+nature: 5.7
+leisure: 3.0
+adventure: 6.6
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Khongjom is a small town in Manipur on the old Indo-Burma road, about 35 km south of Imphal. It holds considerable historical significance for Manipur: it was here, in April 1891, that the Battle of Khongjom was fought — the last stand of Manipur's forces against the advancing British army. Major Paona Brajabashi, one of Manipur's celebrated warriors, died here defending the kingdom. A war memorial stands on the hill where the battle took place.

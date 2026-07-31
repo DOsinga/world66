@@ -14,6 +14,11 @@ snippet: Chhattisgarh capital and commercial gateway to central India's tribal h
   forests, and temple sites
 title: Raipur
 type: location
+nature: 3.9
+leisure: 4.5
+adventure: 4.9
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Raipur is the capital of Chhattisgarh, a state carved out of Madhya Pradesh in 2000. The city itself is a busy, rapidly growing commercial centre without major tourist sights, but it serves as the gateway to some of central India's most interesting destinations — the tribal heartlands, dense forests, and ancient temple complexes of Chhattisgarh.

@@ -14,6 +14,11 @@ snippet: Nias Island port city where ferries arrive and traditional stone-carvin
   culture fills the local museum.
 title: Gunungsitoli
 type: location
+nature: 5.4
+leisure: 4.6
+adventure: 5.1
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Gunungsitoli is the capital of Nias Island, sitting on the northeast coast where ferries arrive from Sibolga on the Sumatran mainland. The town was badly damaged by the March 2005 earthquake and tsunami, but has been rebuilt with wider roads and sturdier buildings. It is not a destination in itself, but virtually every visitor to Nias passes through here.

@@ -16,6 +16,11 @@ title: Bridgeport
 type: location
 snippet: Eastern Sierra ranching town used as a base for Mono Lake, Bodie, and Twin
   Lakes.
+nature: 6.2
+leisure: 4.7
+adventure: 4.9
+city_culture: 3.7
+historic_culture: 3.7
 ---
 
 Bridgeport is a small ranching town in the Eastern Sierra, sitting in a wide valley at around 1,950 metres. It serves as a convenient base for exploring some of the most striking landscapes in California — Mono Lake and the ghost town of Bodie State Historic Park are both an easy drive away.

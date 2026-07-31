@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Hermitage_of_Sant%27Onofrio_al_Morrone
 title: Sulmona
 type: location
+nature: 5.4
+leisure: 5.0
+adventure: 4.7
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Sulmona sits in the Peligna Valley in central [Abruzzo](/europe/italy/abruzzo), ringed by mountains and closer to the wild heart of the Apennines than almost any other Italian town of its size. It is the natural base for exploring the Maiella National Park and the surrounding highlands.

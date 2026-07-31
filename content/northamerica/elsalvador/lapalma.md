@@ -9,6 +9,11 @@ snippet: Mountain town near the Honduran border, known for Fernando Llort-inspir
   folk art and painted woodcrafts.
 title: La Palma
 type: location
+nature: 4.8
+leisure: 3.8
+adventure: 5.5
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 La Palma is a small mountain town about two hours north of San Salvador, close to the Honduran border. It is best known for its distinctive folk art — brightly coloured paintings and handicrafts on wood, featuring geometric patterns and village scenes. The style was developed by artist Fernando Llort in the 1970s, starting with [La Semilla de Dios](/northamerica/elsalvador/lapalma/semilla_de_dios) cooperative workshop, and spread through the town to the point where seemingly half the residents make their living producing it. You will find the work on keychains, trivets, boxes, tiles, and paintings in workshops and stalls throughout town.

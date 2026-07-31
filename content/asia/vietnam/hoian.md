@@ -21,6 +21,11 @@ snippet: Vietnamese trading port with lantern-lit merchant houses, Chinese assem
   halls, and a Japanese covered bridge.
 title: Hoi An
 type: location
+nature: 2.6
+leisure: 9.0
+adventure: 1.1
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Hoi An is a remarkably well-preserved ancient trading port on the central Vietnamese coast, now a UNESCO World Heritage Site. For several centuries it was one of Southeast Asia's most important commercial hubs, drawing merchants from China, Japan, and the West — a history still visible in the architecture of the Old Town, which blends Chinese merchant houses, Japanese covered bridges, and French colonial shopfronts.

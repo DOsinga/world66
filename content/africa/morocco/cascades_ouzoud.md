@@ -10,6 +10,11 @@ snippet: Moroccan waterfall site northeast of Marrakech, dropping through a red-
   gorge amid olive groves.
 title: Cascades d'Ouzoud
 type: location
+nature: 7.4
+leisure: 2.0
+adventure: 7.6
+city_culture: 2.8
+historic_culture: 2.8
 ---
 
 The Cascades d'Ouzoud are Morocco's most spectacular waterfall — a 110-metre drop through a red-rock gorge about 150 km northeast of Marrakech. The falls are hardly secret among Moroccan tourists, but they remain far enough off the main Marrakech–Fès highway that most foreign visitors miss them entirely. That is their loss.

@@ -17,6 +17,11 @@ title: Isla Mujeres
 type: location
 snippet: Narrow Caribbean island off Cancún, known for calm Playa Norte and a slow
   golf-cart pace.
+nature: 5.5
+leisure: 8.2
+adventure: 1.8
+city_culture: 3.0
+historic_culture: 3.0
 ---
 
 Isla Mujeres is a small island off the north-east tip of the Yucatán Peninsula, a short ferry ride from Cancún but a world away from it in character. The island is 8km long and less than 1km wide, and most of what matters is walkable. It has the kind of slow, colourful, golf-cart-and-hammock atmosphere that Cancún's hotel strip utterly lacks.

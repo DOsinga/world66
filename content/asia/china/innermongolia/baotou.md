@@ -15,6 +15,11 @@ type: location
 score: 5.81
 snippet: Baotou is Inner Mongolia’s largest city, an industrial centre on the Yellow
   River near the Yinshan Mountains.
+nature: 5.1
+leisure: 3.9
+adventure: 5.6
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Baotou is Inner Mongolia's largest city by population and its industrial powerhouse — China's principal producer of rare earth elements, with a steel industry large enough to earn it the nickname "Steel City of the Grassland." This sounds unpromising for tourists, and in truth the city centre is not beautiful. But Baotou rewards visitors who look past the industrial infrastructure: the surrounding countryside is excellent, and the city's position on the Yellow River, backed by the Yinshan Mountains, gives it a dramatic physical setting.

@@ -14,6 +14,11 @@ title: Komarom
 type: location
 snippet: Danube border town opposite Slovak Komárno, noted for a vast nineteenth-century
   fortification system.
+nature: 4.1
+leisure: 5.2
+adventure: 4.0
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Komarom sits on the Hungarian bank of the Danube, directly across from its Slovak twin Komarno. The 1920 Treaty of Trianon split what had been a single town in two, and the border still runs along the river — a visible reminder of the region's tangled history. The Hungarian side has around 20,000 inhabitants and feels quietly proud of its layered past.

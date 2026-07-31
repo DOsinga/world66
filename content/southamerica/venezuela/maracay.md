@@ -7,6 +7,11 @@ snippet: Industrial Aragua Valley city and base for trips toward Henri Pittier N
   Park.
 title: Maracay
 type: location
+nature: 5.2
+leisure: 2.8
+adventure: 6.6
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Maracay is an industrial city in north-central Venezuela, in the Aragua Valley about 100 kilometres southwest of Caracas. It sits at around 450 metres elevation, which keeps the climate a little cooler and more bearable than the coast, and serves as the capital of Aragua State. Most travellers pass through on their way to somewhere else, but Maracay makes a reasonable base for reaching one of Venezuela's most appealing stretches of Caribbean coastline.

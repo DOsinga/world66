@@ -10,6 +10,11 @@ snippet: Micronesian island of stone money banks, village dance traditions, mang
   and living customary culture.
 title: Yap
 type: location
+nature: 7.2
+leisure: 4.6
+adventure: 5.2
+city_culture: 3.2
+historic_culture: 3.2
 ---
 
 Yap is the most intriguing island in Micronesia — a place where ancient traditions are not museum pieces but everyday life. The island is famous for its giant stone money discs, some over three metres across, which still sit in stone money banks around the villages. Dance is an art form here: raucous, colourful, and carefully choreographed, with men and women learning from an early age. Through dance, legends are passed down and history is recorded.

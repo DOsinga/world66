@@ -10,6 +10,11 @@ snippet: Black Forest village known for cuckoo-clock making, high pastures, and 
   trail access.
 title: Schönach
 type: location
+nature: 4.7
+leisure: 5.5
+adventure: 3.8
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Schönach im Schwarzwald is a small village in the central Black Forest, surrounded by dark wooded hills, green pastures, and the kind of rolling landscape that makes this corner of Germany so appealing for walkers. The village sits at about 900 metres above sea level, high enough for reliable snow in winter and cool, clear air in summer.

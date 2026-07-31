@@ -16,6 +16,11 @@ type: location
 loc_type: city
 snippet: Yucatán capital built over ancient T'hó, with Maya stones, colonial plazas,
   and warm evening street life.
+nature: 2.4
+leisure: 7.1
+adventure: 2.5
+city_culture: 7.9
+historic_culture: 7.9
 ---
 
 Mérida is the capital of Yucatán state and the largest city on the peninsula, built on the site of the ancient Maya city of T'hó. The Spanish founded their city here in 1542, and the evidence of both civilisations is still visible: the [Cathedral](/northamerica/mexico/merida/catedral_de_merida) on the [Plaza Mayor](/northamerica/mexico/merida/plaza_mayor) was partly built from stones taken from the Maya temples it replaced. The city was named for Mérida in Spain because the Roman ruins there reminded the conquistadors of the Maya structures they were demolishing.

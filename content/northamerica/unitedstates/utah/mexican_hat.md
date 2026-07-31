@@ -10,6 +10,11 @@ snippet: Tiny red-rock river town on the San Juan, named for its balanced sandst
   hat formation
 title: Mexican Hat
 type: location
+nature: 8.3
+leisure: 4.2
+adventure: 5.5
+city_culture: 1.6
+historic_culture: 1.6
 ---
 
 Mexican Hat is one of those mythic southwestern destinations. It's out there in Ed Abbey country, on the [San Juan River](/northamerica/unitedstates/utah/mexican_hat/san_juan_river), among the jumbled red rocks and mesas of southern Utah. Burning hot in the summer, it is a fabulous and fabled little spot. Norm Nevill's old motel is still in operation as the San Juan Inn, perched on the edge of a cliff overlooking the river.

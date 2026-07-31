@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Penglai
 title: Penglai
 type: location
+nature: 3.7
+leisure: 5.8
+adventure: 3.8
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Penglai sits on cliffs above the Bohai Strait and has been associated with Taoist mythology for two thousand years. The Eight Immortals of Chinese legend are said to have crossed to the sea from here, and the city's habit of producing mirages over the water — cold-water currents meeting warm air create convincing false images of distant lands — made it easy for early visitors to believe that fairy islands lay just offshore. The [Penglai Pavilion](/asia/china/shandong_province/penglai/penglai_pavilion), perched on the headland above the sea, was built during the Song Dynasty and is ranked among the Four Great Towers of China; it is genuinely dramatic in its setting, with walls, temples, and a lighthouse all crowded onto the clifftop above the strait.

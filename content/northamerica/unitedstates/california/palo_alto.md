@@ -14,6 +14,11 @@ snippet: San Francisco Peninsula city defined by Stanford University's campus an
   Silicon Valley's early heart.
 title: Palo Alto
 type: location
+nature: 4.0
+leisure: 6.3
+adventure: 3.0
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Palo Alto is a pleasant, leafy city on the San Francisco Peninsula, best known as the home of [Stanford University](/northamerica/unitedstates/california/palo_alto/stanford_university) and the heart of Silicon Valley. The university campus — 8,000 acres of sandstone arcades, palm-lined avenues, and open space — is the main attraction and is freely accessible on foot or by bicycle.

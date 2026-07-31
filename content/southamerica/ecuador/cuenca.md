@@ -14,6 +14,11 @@ image: cuenca.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_la_Inmaculada_Concepci%C3%B3n,_Cuenca.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Bernard Gagnon
+nature: 3.7
+leisure: 6.3
+adventure: 3.5
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Cuenca is Ecuador's third-largest city and, by most accounts, its most beautiful. Set at 2,500 metres in the southern highlands, it was declared a UNESCO World Heritage site in 1999 for its remarkably intact colonial centre — cobblestone streets, whitewashed buildings with ironwork balconies, and churches on seemingly every corner.

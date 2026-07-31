@@ -14,6 +14,11 @@ snippet: Punjabi river city near Alexander's Hydaspes battlefield and the monume
   walls of Rohtas Fort.
 title: Jhelum
 type: location
+nature: 5.5
+leisure: 3.5
+adventure: 6.0
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Jhelum is a city in the Punjab province of Pakistan, on the banks of the Jhelum River — one of the five rivers that give the Punjab its name, and the ancient Hydaspes where Alexander the Great fought his last great battle against the army of the Indian king Porus in 326 BCE. The engagement was the most costly of Alexander's campaigns and marked the eastern limit of his conquests.

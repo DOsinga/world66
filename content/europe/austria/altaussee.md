@@ -14,6 +14,11 @@ snippet: Salzkammergut lakeside village in Styria, set below wooded mountains an
   a green-blue alpine lake
 title: Altaussee
 type: location
+nature: 6.7
+leisure: 7.3
+adventure: 2.6
+city_culture: 2.3
+historic_culture: 2.3
 ---
 
 Altaussee is a small lakeside village in the Salzkammergut, tucked into a high valley between steep wooded mountains in Styria. The [lake](/europe/austria/altaussee/lake_altaussee) — brilliant green-blue and surrounded by meadows — is one of the most beautiful in the region, and the village itself is quiet and uncommercialised compared to the more-visited spots nearby. Artists and writers have been coming here since the 19th century; the place has always had a contemplative quality that the bigger resort towns lack.

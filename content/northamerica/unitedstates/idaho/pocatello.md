@@ -13,6 +13,11 @@ sources:
 - https://idahohighcountry.org/item/bannock-county-historical-museum/
 title: Pocatello
 type: location
+nature: 4.8
+leisure: 4.6
+adventure: 4.8
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Pocatello is not Idaho's prettiest town, but it is one of its most useful. It sits in the southeast of the state, where the high desert, rail lines, and old Oregon Trail routes meet the foothills above the Portneuf Valley. Idaho State University gives it more life than you might expect from a highway stop.

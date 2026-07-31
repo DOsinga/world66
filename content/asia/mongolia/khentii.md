@@ -14,6 +14,11 @@ snippet: Eastern Mongolian province of forested mountains and steppe, revered as
   traditional homeland of Genghis Khan.
 title: Khentii
 type: location
+nature: 6.4
+leisure: 2.4
+adventure: 7.2
+city_culture: 4.0
+historic_culture: 4.0
 ---
 
 Khentii is a vast, sparsely populated province in eastern Mongolia, rolling across forested mountains and open steppe toward the Russian and Chinese borders. It is best known as the birthplace of Genghis Khan — the town of [Dadal](/asia/mongolia/khentii/dadal), near the Onon River, is the traditional site — and that history gives the entire region an outsized significance for anyone interested in the Mongol Empire.

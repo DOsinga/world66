@@ -18,6 +18,11 @@ sources:
 - https://en.wikipedia.org/wiki/Okayama_Station
 title: Okayama
 type: location
+nature: 3.3
+leisure: 6.9
+adventure: 2.6
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Okayama is the calm, practical hinge between western Honshu and Shikoku. Most travellers first meet it as a Shinkansen stop or the place where trains peel south across the Seto Ohashi Bridge, but the city is worth more than a platform change.

@@ -14,6 +14,11 @@ snippet: Quiet Flemish town between Bruges and Ostend, centred on Constant Perme
   former home and studio.
 title: Jabbeke
 type: location
+nature: 4.2
+leisure: 4.9
+adventure: 4.4
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Jabbeke is a small town between Bruges and Ostend, and the main reason to stop here is the [Permeke Museum](/europe/belgium/jabbeke/permeke_museum). Constant Permeke was one of Belgium's greatest expressionist painters and sculptors, and his former home and studio — a sturdy brick farmhouse called De Vier Winden — is preserved much as he left it, surrounded by his monumental sculptures in a quiet garden.

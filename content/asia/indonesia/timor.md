@@ -14,6 +14,11 @@ snippet: Indonesian half of Timor island, a dry savannah region with traditional
   and distinct culture.
 title: Timor
 type: location
+nature: 6.9
+leisure: 3.7
+adventure: 6.1
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 West Timor is the Indonesian half of Timor island, part of East Nusa Tenggara province. Most travellers pass through on their way to or from [East Timor](/asia/easttimor) or Australia, but the region has its own rough appeal — dry savannahs, traditional villages, and a culture quite distinct from the rest of Indonesia.

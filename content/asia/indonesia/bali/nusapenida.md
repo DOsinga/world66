@@ -16,6 +16,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Broken_Beach.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Aaron Rentfrew
 score: 9.37
+nature: 7.4
+leisure: 6.5
+adventure: 3.4
+city_culture: 2.0
+historic_culture: 2.0
 ---
 
 Nusa Penida is [Bali](/asia/indonesia/bali)'s dramatic neighbour — a large limestone island rising from the sea southeast of the main island, reachable in 45 minutes by fast boat from Sanur. Until recently it was largely ignored by tourists, visited mainly by Balinese Hindus making pilgrimage to its temples. Then the Instagram age arrived, and images of [Kelingking Beach](/asia/indonesia/bali/nusapenida/kelingking_beach) — a T-rex-shaped cliff plunging to a white beach completely inaccessible by road — went around the world. The island has been overrun ever since.

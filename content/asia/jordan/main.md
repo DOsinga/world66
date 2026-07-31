@@ -8,6 +8,11 @@ score: 7.59
 snippet: Dead Sea escarpment valley of hot springs and waterfalls southwest of Amman.
 title: Ma'in
 type: location
+nature: 6.5
+leisure: 4.1
+adventure: 5.5
+city_culture: 3.6
+historic_culture: 3.6
 ---
 
 Ma'in is a valley of hot springs and waterfalls about 60 km southwest of Amman, tucked into the dramatic basalt escarpment above the Dead Sea. The springs are fed by rain that seeps through the highland plateau and emerges here at temperatures ranging from 40°C to nearly 60°C, heavy with minerals and sulphur. The result is a string of cascading falls that pour steaming water into pools below — startling and beautiful in the middle of desert rock.

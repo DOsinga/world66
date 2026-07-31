@@ -17,6 +17,11 @@ title: Las Vegas
 snippet: Mojave Desert city built on casino spectacle, neon fantasy, and outsized
   entertainment along the Strip.
 type: location
+nature: 3.7
+leisure: 7.9
+adventure: 1.9
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Viva Las Vegas! Rising like a mirage from the Mojave Desert, Las Vegas is a city built on spectacle. The neon-lit casinos along the Strip -- Roman palaces, Egyptian pyramids, Parisian landmarks -- contrast sharply with the dry, barren landscape surrounding them.

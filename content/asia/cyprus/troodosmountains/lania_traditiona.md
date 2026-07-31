@@ -14,6 +14,11 @@ snippet: Troodos wine village of stone lanes, commandaria traditions, and an old
   wine press.
 title: Lania
 type: location
+nature: 7.1
+leisure: 5.1
+adventure: 4.5
+city_culture: 2.7
+historic_culture: 2.7
 ---
 
 Lania sits on the southern slopes of the Troodos Mountains, about 26 km from [Limassol](/asia/cyprus/limassol), right on the road that climbs from the coast into the highlands. It is one of the traditional wine villages of Cyprus, and it looks the part: stone houses, narrow lanes, flowers spilling from every wall.

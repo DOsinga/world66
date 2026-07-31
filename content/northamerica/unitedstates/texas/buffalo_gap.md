@@ -10,6 +10,11 @@ title: Buffalo Gap
 type: location
 snippet: Tiny West Texas pass town with frontier buildings and some of the state's
   oldest live oaks.
+nature: 3.9
+leisure: 4.1
+adventure: 4.9
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 A tiny oasis of about 500 people in West Texas, Buffalo Gap sits in a pass through the Callahan Divide and is home to some of the oldest [live oak trees](/northamerica/unitedstates/texas/buffalo_gap/old_oak_trees) in the state, several over 800 years old. Three hours from [Dallas](/northamerica/unitedstates/texas/dallas) and [Austin](/northamerica/unitedstates/texas/austin), it makes a rewarding day trip or weekend getaway.

@@ -14,6 +14,11 @@ snippet: Montana mining city whose copper wealth left Victorian streets, miners'
   and the Berkeley Pit.
 title: Butte
 type: location
+nature: 5.3
+leisure: 4.1
+adventure: 5.5
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Butte was once the largest city west of the Mississippi and earned the nickname "the richest hill on earth" — the copper, silver, and gold extracted from its mines powered the growth of industrial America and made fortunes for the Anaconda Company and the copper kings who ran it. At its peak in the early 1900s, the city was home to over 100,000 people from dozens of nationalities, drawn by the mines.

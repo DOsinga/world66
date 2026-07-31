@@ -14,6 +14,11 @@ snippet: Compact Cambodian city on the Siem Reap River, gateway to Angkor’s va
   temple landscape.
 title: Siem Reap
 type: location
+nature: 2.4
+leisure: 8.4
+adventure: 1.6
+city_culture: 7.3
+historic_culture: 7.3
 ---
 
 **Siem Reap** — "Defeat of Siam" — is the gateway to the greatest concentration of medieval monuments on earth. [Angkor Wat](/asia/cambodia/siemreap/angkor_wat), [Angkor Thom](/asia/cambodia/siemreap/angkor_thom), [Ta Prohm](/asia/cambodia/siemreap/ta_prohm), [Preah Khan](/asia/cambodia/siemreap/preah_khan), and a hundred other temples spread across the Angkor Archaeological Park are the reason most people come, and three days is the practical minimum to see the essentials. The city itself is small and walkable, sitting on the Siem Reap River between a canal and the southern edge of the park.

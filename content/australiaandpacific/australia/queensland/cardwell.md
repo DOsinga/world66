@@ -14,6 +14,11 @@ title: Cardwell
 type: location
 snippet: Tropical Queensland coastal town facing Hinchinbrook Island and the wilderness
   Thorsborne Trail.
+nature: 7.1
+leisure: 5.3
+adventure: 4.4
+city_culture: 2.5
+historic_culture: 2.5
 ---
 
 Cardwell is a small coastal town on Queensland's Tropical North coast, sitting between the Pacific Highway and the Coral Sea about halfway between Townsville and Cairns. With a population of around 1,200, it moves at a pace that matches the surrounding tropics.

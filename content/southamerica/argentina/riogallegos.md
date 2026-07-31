@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/R%C3%ADo_Gallegos,_Santa_Cruz
 title: Rio Gallegos
 type: location
+nature: 8.1
+leisure: 4.6
+adventure: 5.2
+city_culture: 2.0
+historic_culture: 2.0
 ---
 
 Rio Gallegos is the capital of Santa Cruz province in Patagonia, sitting at the mouth of the Gallegos River where it meets the Strait of Magellan. It is primarily a transit city — most travellers pass through on their way to El Calafate and the Perito Moreno glacier, or continuing south to Tierra del Fuego. That said, it's a perfectly functional place to spend a night and has a certain austral character to it.

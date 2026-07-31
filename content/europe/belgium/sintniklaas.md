@@ -13,6 +13,11 @@ snippet: Flemish Waasland city with Belgium's vast Grote Markt and a September b
   tradition.
 title: Sint-Niklaas
 type: location
+nature: 2.8
+leisure: 5.2
+adventure: 3.9
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 Sint-Niklaas is the main city of the Waasland region in East Flanders, lying roughly halfway between Ghent and Antwerp. The city's [Grote Markt](/europe/belgium/sintniklaas/grote_markt) — one of the largest market squares in Belgium — dominates the town centre and is a lively focus for market days, events, and the famous September balloon festival. The area is known for its textile and crafts heritage, and the [Mercator Museum](/europe/belgium/sintniklaas/mercator_museum) holds the largest collection of historical globes and maps in Belgium, devoted to the Flemish cartographer Gerard Mercator who grew up in this region.

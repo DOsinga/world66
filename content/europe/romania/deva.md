@@ -14,6 +14,11 @@ snippet: Compact Transylvanian town on the Mureș, overlooked by a ruined citade
   a volcanic hill
 title: Deva
 type: location
+nature: 2.6
+leisure: 4.9
+adventure: 4.8
+city_culture: 8.4
+historic_culture: 8.4
 ---
 
 Deva is a compact town on the Mureș river in western Transylvania, dominated by a volcanic plug topped with the ruins of a medieval citadel. It is not a major tourist destination, but it sits at a useful crossroads — close to Hunedoara's famous Corvin Castle, midway between Timișoara and Sibiu on the main rail corridor, and within striking distance of the Apuseni Mountains to the north.

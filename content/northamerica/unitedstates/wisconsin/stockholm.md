@@ -10,6 +10,11 @@ snippet: Tiny Wisconsin village on Lake Pepin, founded by Swedish immigrants and
   along the Great River Road.
 title: Stockholm
 type: location
+nature: 4.4
+leisure: 5.4
+adventure: 3.7
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Stockholm is a tiny village on the Wisconsin side of the Mississippi River, perched on the shore of Lake Pepin — a 30-mile-long natural widening of the river that is one of the most beautiful stretches of the Upper Mississippi. Highway 35, the Great River Road and Wisconsin's only National Scenic Byway, passes right through.

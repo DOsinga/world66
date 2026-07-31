@@ -16,6 +16,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Trapani
 title: Trapani
 type: location
+nature: 3.7
+leisure: 7.5
+adventure: 2.3
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Trapani is built on a narrow sickle-shaped peninsula on the extreme western tip of Sicily — a city that juts into the sea with water on three sides and the salt pans of Marsala behind it. It was Phoenician before it was Greek, Carthaginian before it was Roman, and Arab before it was Norman, and these successive layers give the old town centre a distinctly non-standard Sicilian character: straight streets laid out on a North African grid, Arab-Norman architecture, and a cuisine built around couscous with fish rather than pasta.

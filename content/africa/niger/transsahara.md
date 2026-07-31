@@ -13,6 +13,11 @@ snippet: Historic trans-Saharan crossing route through Niger, linking Agadez to 
   tracks toward Algeria and Libya.
 title: Trans Sahara
 type: location
+nature: 7.5
+leisure: 1.4
+adventure: 8.3
+city_culture: 3.2
+historic_culture: 3.2
 ---
 
 Crossing the Sahara through Niger is one of the classic overland adventures — or was, until security deteriorated across the region. As of the mid-2020s, both trans-Saharan routes from Niger are effectively closed to independent travelers and extremely dangerous for any traveler. This page documents the routes for historical reference and future research.

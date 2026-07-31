@@ -9,6 +9,11 @@ snippet: River landscape in the Doubs, where Jura limestone gorges frame the Lou
   Lison, Hérisson, and Dessoubre.
 title: Rivers of the Doubs
 type: location
+nature: 5.4
+leisure: 5.3
+adventure: 4.1
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 The Département of Doubs is home to some of the finest river scenery in France. While the [Loue valley](/europe/france/east/franchecomte/loue_valley) deserves its fame, four other rivers cut outstanding gorges through the Jura limestone: the Doubs itself, the Lison, the Hérisson, and the Dessoubre.

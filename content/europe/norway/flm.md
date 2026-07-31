@@ -14,6 +14,11 @@ snippet: Tiny fjord village at the Aurlandsfjord, known for the steep Flåmsbana
   to Myrdal
 title: Flåm
 type: location
+nature: 7.0
+leisure: 7.3
+adventure: 2.6
+city_culture: 2.2
+historic_culture: 2.2
 ---
 
 Flåm is a tiny village at the inner end of the Aurlandsfjord, a branch of the mighty Sognefjord. It is best known for the [Flåmsbana](/europe/norway/flm/flamsbana) — a spectacular railway that climbs 867 metres from the fjord to the mountain station at Myrdal through 20 tunnels and past waterfalls. The line is a marvel of engineering and one of Norway's most popular tourist attractions.

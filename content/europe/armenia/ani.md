@@ -9,6 +9,11 @@ snippet: Medieval Armenian capital near the Turkish border, famed as the city of
   thousand and one churches.
 title: Ani
 type: location
+nature: 5.0
+leisure: 2.8
+adventure: 7.1
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 **Note:** Ani is located in Turkey (Kars province), just across the Akhurian River from the Armenian border. It is not accessible from the Armenian side, as the Turkish-Armenian border remains closed. Visitors must reach it from [Kars](/asia/turkey/kars__ani) in eastern Turkey.

@@ -13,6 +13,11 @@ snippet: Guanacaste service town near Costa Rica's Pacific beaches, with local a
   and regional traditions.
 title: Santa Cruz
 type: location
+nature: 5.5
+leisure: 7.8
+adventure: 2.2
+city_culture: 3.2
+historic_culture: 3.2
 ---
 
 Santa Cruz is the main service town for the Guanacaste province in northwestern Costa Rica. It is not a beach destination itself, but it sits within easy reach of some of the country's best Pacific coast beaches — Playa Junquillal, Playa Tamarindo, and Playa Flamingo are all within 30-50 km. The town provides shopping, banks, and services for a wide area and works well as a base for exploring the Nicoya Peninsula coast.

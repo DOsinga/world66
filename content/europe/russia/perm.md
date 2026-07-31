@@ -10,6 +10,11 @@ snippet: Ural city on the Kama River, historically a Eurasian frontier between E
   Russia and Siberia.
 title: Perm
 type: location
+nature: 8.1
+leisure: 4.2
+adventure: 5.7
+city_culture: 2.1
+historic_culture: 2.1
 ---
 
 **Perm is the most Eastern city of Europe**, and therefore its province is often referred to as Eurasia. Having a population of 1.2 million, Perm is the 5th largest city in Russia and the second largest in the Urals. The city was formerly called Molotov, after the minister of foreign affairs during Joseph Stalin's ruling. The Perm province, "Permskaya Oblast", or "Prikamye", is around two-third the size of the United Kingdom and covers a great area in the very heart of the Ural Mountains.

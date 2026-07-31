@@ -17,6 +17,11 @@ sources:
 - https://ntbg.org/gardens/visitorinfo/
 title: Poipu
 type: location
+nature: 5.0
+leisure: 8.0
+adventure: 1.9
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 Poipu is the sunny, polished face of south Kauai. The coast here is drier than the north shore, the beaches are easy to reach, and the resort strip never quite erases the lava shelves, monk seals, and red dirt that make Kauai feel like Kauai.

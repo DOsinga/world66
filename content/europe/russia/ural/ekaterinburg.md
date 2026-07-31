@@ -14,6 +14,11 @@ snippet: Ural metropolis on the Europe-Asia divide, shaped by mining wealth, Rom
   history, and constructivist architecture
 title: Ekaterinburg
 type: location
+nature: 4.4
+leisure: 4.7
+adventure: 5.0
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Ekaterinburg is where [Europe](/europe) ends and [Asia](/asia) begins — literally. Russia's fourth-largest city straddles the [Ural](/europe/russia/ural) Mountains, and about 40 km west of the centre you can stand with one foot on each continent at the [Europe-Asia border monument](/europe/russia/ural/ekaterinburg/europe_asia_border). But the city itself is the real draw: a gritty, confident metropolis with a dark history, striking architecture, and more energy than you would expect from a place that was closed to foreigners until 1990.

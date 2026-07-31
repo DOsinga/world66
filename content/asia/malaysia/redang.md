@@ -13,6 +13,11 @@ image: redang.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Pulau_Redang_-_White_sandy_beach.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Azreey
+nature: 6.8
+leisure: 7.4
+adventure: 2.5
+city_culture: 2.1
+historic_culture: 2.1
 ---
 
 Pulau Redang is one of the largest and most popular islands off Malaysia's east coast, about 25 km offshore from Kuala Terengganu. It is part of a marine park encompassing the nine islands of the Redang Archipelago, and the main draw is the water — clear, warm, and rich with coral and tropical fish.

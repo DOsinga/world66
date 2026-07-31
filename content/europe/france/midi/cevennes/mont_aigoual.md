@@ -9,6 +9,11 @@ snippet: Cévennes summit with an 1894 meteorological observatory and wide views
   plateau, Alps, and Pyrenees
 title: Mont Aigoual
 type: location
+nature: 7.5
+leisure: 4.7
+adventure: 5.1
+city_culture: 2.5
+historic_culture: 2.5
 ---
 
 Mont Aigoual is the highest point of the Cévennes at 1567 metres, reached by narrow winding roads from Nîmes or Millau. The summit has a meteorological observatory that has been operating continuously since 1894 and is open to visitors. The exhibition inside covers the history of the observatory and the science of weather in an engaging way, with dramatic photographs of storms and extreme weather conditions recorded here over more than a century.

@@ -10,6 +10,11 @@ longitude: 73.9018
 score: 5.49
 title: Kotli
 type: location
+nature: 6.7
+leisure: 3.2
+adventure: 6.3
+city_culture: 3.4
+historic_culture: 3.4
 ---
 
 Kotli is a small district town in Azad Kashmir, tucked into the hills roughly 135 kilometres from Islamabad along a winding road through Sensa and Holar. Its reputation rests on its mosques — locals call it Madina-tul-Masajid, the city of mosques — and on the shrine at nearby Gulhar Sharif, which draws pilgrims from across Pakistan.

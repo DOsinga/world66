@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Monument_of_the_Four_Moors,_Livorno
 title: Livorno
 type: location
+nature: 1.8
+leisure: 8.6
+adventure: 1.1
+city_culture: 7.8
+historic_culture: 7.8
 ---
 
 Livorno is Tuscany's port city, built by the Medici in the late 16th century as a grand commercial harbour and designed from scratch by the architect Bernardo Buontalenti. It has none of the medieval charm of [Florence](/europe/italy/tuscany/florence) or [Siena](/europe/italy/tuscany/siena), but it has character of a different kind — a cosmopolitan, slightly rough-edged trading city with canals, fortresses, and a long history of religious tolerance.

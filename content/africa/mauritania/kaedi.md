@@ -10,6 +10,11 @@ snippet: Senegal River town in southern Mauritania, known for its earthen Hassan
   regional hospital.
 title: Kaedi
 type: location
+nature: 6.6
+leisure: 1.3
+adventure: 8.5
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 Kaedi is a river town on the northern bank of the Senegal River in southern Mauritania, serving as the main crossing point into Senegal in this part of the country. The population is an ethnic mix of Toucouleur, Halpulaar (Fulani), Beidane Arabs and Berbers, and Haratine. It is a quiet, easy-going place with a riverside character and more green vegetation than much of Mauritania.

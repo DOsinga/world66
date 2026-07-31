@@ -16,6 +16,11 @@ snippet: Vast Nile metropolis where Fatimid Cairo, medieval lanes, and the Pyram
   share one horizon
 title: Al Qahera - Cairo
 type: location
+nature: 2.1
+leisure: 5.4
+adventure: 4.4
+city_culture: 8.7
+historic_culture: 8.7
 ---
 
 Cairo is the largest city in Africa and the Arab world, a metropolis of 20 million people built around the point where the Nile emerges from its narrow valley and fans into the Delta. It is simultaneously one of the oldest continuously inhabited cities in the world and one of the most densely crowded. The [Pyramids of Giza](/africa/egypt/al_qahera__cairo/pyramids_of_giza) rise on the western edge of the city, visible from rooftops across the metropolis — ancient Egypt's dead coexisting with one of the world's most alive modern cities.

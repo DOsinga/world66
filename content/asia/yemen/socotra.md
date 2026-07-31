@@ -10,6 +10,11 @@ snippet: Remote Indian Ocean archipelago with dragon blood trees, desert roses, 
   limestone canyons.
 title: Socotra
 type: location
+nature: 8.4
+leisure: 2.5
+adventure: 7.6
+city_culture: 2.2
+historic_culture: 2.2
 ---
 
 Socotra is one of the most alien landscapes on Earth. This remote archipelago in the Indian Ocean, closer to the Horn of Africa than to the Yemeni mainland it technically belongs to, has been isolated long enough to evolve a flora found nowhere else — most famously the dragon blood tree, with its mushroom-shaped canopy, and the bizarre bottle-shaped desert rose.

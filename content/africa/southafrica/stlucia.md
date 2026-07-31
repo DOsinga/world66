@@ -7,6 +7,11 @@ snippet: KwaZulu-Natal estuary town beside iSimangaliso wetlands, where hippos, 
   beaches, and mangroves meet.
 title: St Lucia
 type: location
+nature: 5.7
+leisure: 7.1
+adventure: 2.7
+city_culture: 3.3
+historic_culture: 3.3
 ---
 
 St Lucia is a small town at the southern end of the iSimangaliso Wetland Park in KwaZulu-Natal, South Africa. It sits at the point where the estuary of Lake St Lucia meets the sea, surrounded by one of the most species-rich coastal environments in southern Africa. The park, a UNESCO World Heritage Site, protects hippos, crocodiles, leopards, and a remarkable concentration of birds within easy reach of a beach town.

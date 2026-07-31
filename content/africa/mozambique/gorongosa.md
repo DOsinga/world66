@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Gorongosa_National_Park
 title: Gorongosa National Park
 type: location
+nature: 8.7
+leisure: 3.9
+adventure: 5.8
+city_culture: 1.2
+historic_culture: 1.2
 ---
 
 Gorongosa National Park is one of Africa's great restoration stories. Wildlife was devastated during Mozambique's civil war, but the park has spent decades bringing back buffalo, elephant, lion, hippo, waterbuck, and the ecological balance that once made it famous.

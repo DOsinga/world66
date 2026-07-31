@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Khai_Gala
 title: Khaigala
 type: location
+nature: 8.1
+leisure: 3.0
+adventure: 6.7
+city_culture: 2.2
+historic_culture: 2.2
 ---
 
 Khaigala is a small roadside town in the Poonch District of Azad Kashmir, sitting at around 1,700 metres in the hills between Rawalakot and Hajira. It is one of those places that travellers pass through more often than they stop in — a single bazaar strip, a few tea shops, and a scatter of houses on the surrounding ridges.

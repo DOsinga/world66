@@ -13,6 +13,11 @@ score: 7.47
 snippet: Swedish market city on the Svartån, dominated by a medieval island castle.
 title: Örebro
 type: location
+nature: 4.4
+leisure: 5.2
+adventure: 4.2
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Örebro sits roughly halfway between [Stockholm](/europe/sweden/stockholm) and [Gothenburg](/europe/sweden/gothenburg), at a crossroads that has made it a market town since at least the 13th century. The east-west water route across the great lakes met the north-south land road here, and the town grew up around the traffic.

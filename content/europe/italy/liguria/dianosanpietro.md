@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Diano_San_Pietro
 title: Diano San Pietro
 type: location
+nature: 4.3
+leisure: 6.4
+adventure: 3.0
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Diano San Pietro is a small village in the hills above Diano Marina on the Ligurian coast. The village sits at around 200 metres elevation, offering views over the sea and the coastal strip below, and has the quiet, unhurried character typical of the Ligurian hinterland. It is primarily of interest as a base for walking the local hill trails or as a quieter alternative to staying on the coast itself.

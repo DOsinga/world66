@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Italian_Social_Republic
 title: Salò
 type: location
+nature: 5.6
+leisure: 4.8
+adventure: 4.8
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Salò sits in a sheltered gulf on the western shore of Lake Garda, its mild microclimate nurturing lemon trees and olives in a landscape that feels more Mediterranean than Lombard. Despite its modest size, the town carries enormous historical weight: for nineteen months from 1943 to 1945, it lent its name to Mussolini's last, German-backed republic — though the actual seat of power was scattered among the villas further up the lake.

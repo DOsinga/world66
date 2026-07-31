@@ -12,6 +12,11 @@ snippet: Angolan capital on a broad Atlantic bay, shaped by Portuguese rule, oil
   and seafront bairros.
 title: Luanda
 type: location
+nature: 4.8
+leisure: 2.8
+adventure: 6.9
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Luanda is Angola's capital and largest city, set on a sweeping natural bay on the Atlantic coast. Founded by Portuguese colonists in 1576, it served for centuries as a major hub of the transatlantic slave trade — a history the city confronts honestly at the [National Slavery Museum](/africa/angola/luanda/slavery_museum). The city has grown enormously since independence in 1975 and through the end of the civil war in 2002; today it is one of Africa's larger capitals, a chaotic, energetic place that has rebuilt itself rapidly on oil wealth.

@@ -13,6 +13,11 @@ snippet: South Swedish medieval town with half-timbered streets, Greyfriars Abbe
   and links to Wallander fiction.
 title: Ystad
 type: location
+nature: 4.0
+leisure: 6.4
+adventure: 2.9
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Ystad is a well-preserved medieval town on the south coast of Sweden, facing Denmark across the narrow strait. Its half-timbered houses and cobblestone streets survive in unusually good condition, and the old centre — anchored by [Stortorget](/europe/sweden/ystad/stortorget), [St Mary's Church](/europe/sweden/ystad/st_marys_church), and the medieval [Greyfriars Abbey](/europe/sweden/ystad/greyfriars_abbey) — is pleasant to wander without any particular agenda. The town is best known internationally as the home of Henning Mankell's detective Kurt Wallander, a fact that has spawned a small tourism industry of its own; the [Wallander Walk](/europe/sweden/ystad/wallander_walk) ticks off the locations from the books.

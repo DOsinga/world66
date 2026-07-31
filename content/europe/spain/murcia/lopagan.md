@@ -14,6 +14,11 @@ snippet: Mar Menor resort town known for calm lagoon water, mud baths, and Spani
   seaside routines.
 title: Lo Pagán
 type: location
+nature: 3.8
+leisure: 6.2
+adventure: 3.0
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Lo Pagán is a small resort town on the northern shore of the Mar Menor, the large saltwater lagoon that separates the La Manga strip from the Murcia mainland. The Mar Menor is one of the warmest and calmest bodies of water in Europe — shallow, sheltered, and with a salt concentration that makes floating effortless. Locals have long valued [its mud baths](/europe/spain/murcia/lopagan/las_charcas_mud_baths) for their supposed therapeutic properties, and you will see people caked in dark mud along the waterfront.

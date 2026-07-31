@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Virunga_Mountains
 title: Volcanoes National Park
 type: location
+nature: 9.3
+leisure: 3.9
+adventure: 5.9
+city_culture: 1.0
+historic_culture: 1.0
 ---
 
 Volcanoes National Park in northwestern Rwanda is one of the most important conservation areas in Africa — the home of the mountain gorilla, the subject of Dian Fossey's 18-year study, and one of the few places on earth where an encounter with a great ape in the wild is accessible, if expensive, to any traveller willing to make the journey. The park protects the Rwandan slopes of the Virunga Mountains, a chain of eight volcanoes straddling the borders of Rwanda, the Democratic Republic of Congo, and Uganda. The volcanic peaks visible from the park headquarters at Kinigi — Karisimbi, Bisoke, Muhabura, Gahinga, and Sabyinyo — form a green wall that changes colour from dark jungle to bare volcanic rock as you look upward.

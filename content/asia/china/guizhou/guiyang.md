@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Guiyang
 title: Guiyang
 type: location
+nature: 5.2
+leisure: 5.5
+adventure: 4.1
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Guiyang is the capital of Guizhou and the obligatory transit hub for the province, though most travelers pass through faster than they should. The city sits at around 1,100 metres elevation, which gives it a temperate climate while the rest of subtropical China swelters: cool summers, mild winters, and a near-constant gentle overcast that the locals call "heavenly weather." It's a genuinely liveable city — not a showcase like Chengdu or Chongqing, but honest about what it is.

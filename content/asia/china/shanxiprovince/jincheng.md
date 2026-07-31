@@ -11,6 +11,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Jincheng
 title: Jincheng
 type: location
+nature: 4.3
+leisure: 3.8
+adventure: 5.3
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Jincheng occupies the southeastern corner of Shanxi, squeezed between the Taihang Mountains and the provincial borders with Henan. It is not on most travellers' itineraries, which is partly its appeal — the area around the city contains a cluster of remarkably intact Ming and Qing fortified villages that receive far fewer visitors than the more famous courtyard architecture of Pingyao. The high-speed rail connection to Taiyuan (about 90 minutes) and Zhengzhou makes it accessible as either a day trip or an overnight stop.

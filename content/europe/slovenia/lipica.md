@@ -14,6 +14,11 @@ title: Lipica
 snippet: Karst village near the Italian border, birthplace of the Lipizzan horse and
   its historic stud farm
 type: location
+nature: 4.2
+leisure: 5.9
+adventure: 3.6
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Lipica is a small village in the Karst region of southwestern Slovenia, a few kilometers from the Italian border, best known as the birthplace of the Lipizzan horse — the white horses of the Spanish Riding School in Vienna. The [Lipica Stud Farm](/europe/slovenia/lipica/lipica_stud_farm), founded in 1580 by Archduke Charles II of Austria, is one of the oldest continuously operating stud farms in the world and remains the main reason to visit.

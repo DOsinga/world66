@@ -10,6 +10,11 @@ snippet: Northern Sardinian city of Spanish Gothic lanes, Baroque churches, and 
   archaeological collections
 title: Sassari
 type: location
+nature: 2.6
+leisure: 7.0
+adventure: 2.8
+city_culture: 7.3
+historic_culture: 7.3
 ---
 
 Sassari is Sardinia's second city and the main centre of the island's north. Its history is layered — Genoese, Pisan, Aragonese, and Spanish rulers each left their mark, and the old town still shows it. The architecture mixes Spanish Gothic townhouses with Italian Baroque churches, all crammed into a maze of narrow alleys that are worth wandering for hours.

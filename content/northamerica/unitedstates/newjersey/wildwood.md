@@ -14,6 +14,11 @@ snippet: Classic Jersey Shore boardwalk town with free wide beaches, amusement p
   and Doo Wop motels.
 title: Wildwood
 type: location
+nature: 4.2
+leisure: 6.5
+adventure: 2.8
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Wildwood is a classic Jersey Shore boardwalk town at the southern tip of New Jersey, a few miles north of [Cape May](/northamerica/unitedstates/newjersey/cape_may). The [beaches](/northamerica/unitedstates/newjersey/wildwood/beaches) are wide, white, and free — unusual for the Jersey Shore — and the [Wildwood Boardwalk](/northamerica/unitedstates/newjersey/wildwood/wildwood_boardwalk) stretches for two miles with amusement rides at [Morey's Piers](/northamerica/unitedstates/newjersey/wildwood/moreys_piers), water parks, games, and enough funnel cake to last a lifetime.

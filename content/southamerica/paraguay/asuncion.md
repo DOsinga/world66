@@ -14,6 +14,11 @@ snippet: Paraguayan capital on the east bank of the river, marked by colonial re
   and scruffy charm
 title: Asuncion
 type: location
+nature: 4.4
+leisure: 3.7
+adventure: 5.6
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Asuncion is the capital of [Paraguay](/southamerica/paraguay) and the country's only real city, spread along the east bank of the Paraguay River. It is not a conventionally beautiful capital — decades of unfinished development projects have left an uneven skyline — but it has a scruffy charm, colonial remnants, and a pace of life that is distinctly its own.

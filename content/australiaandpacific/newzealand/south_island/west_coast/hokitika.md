@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Hokitika_Gorge
 title: Hokitika
 type: location
+nature: 7.5
+leisure: 5.3
+adventure: 4.5
+city_culture: 2.4
+historic_culture: 2.4
 ---
 
 Hokitika is a small West Coast town that was once one of New Zealand's busiest ports during the 1860s gold rush. Today it is a quiet place known for its [pounamu (jade) workshops](/australiaandpacific/newzealand/south_island/west_coast/hokitika/pounamu_greenstone) — you can watch carvers at work and buy greenstone jewellery at better prices than in the tourist shops elsewhere.

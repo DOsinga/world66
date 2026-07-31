@@ -18,6 +18,11 @@ sources:
 - https://en.wikipedia.org/wiki/Marine_Biological_Laboratory
 title: Woods Hole
 type: location
+nature: 4.6
+leisure: 5.8
+adventure: 3.6
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Woods Hole is a small village at the southwestern tip of Cape Cod where two very different worlds overlap without friction: the [Woods Hole Oceanographic Institution](/northamerica/unitedstates/massachusetts/woods_hole/whoi) (WHOI) — one of the world's foremost marine research centres — shares the waterfront with the ferry terminal that dispatches thousands of summer visitors to Martha's Vineyard. Nobel laureates and lobstermen coexist here, and somehow both feel at home.

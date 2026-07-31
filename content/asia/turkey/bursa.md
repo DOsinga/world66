@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Green_Mosque,_Bursa
 title: Bursa
 type: location
+nature: 2.2
+leisure: 6.6
+adventure: 3.2
+city_culture: 8.6
+historic_culture: 8.6
 ---
 
 Bursa was the first major capital of the Ottoman Empire, and that origin story still defines the city. The [Green Mosque](/asia/turkey/bursa/green_mosque) and [Green Tomb](/asia/turkey/bursa/green_tomb), with their exquisite Iznik tilework, are among the finest early Ottoman monuments anywhere. The covered market district, the [Koza Han](/asia/turkey/bursa/koza_han) (Silk Bazaar), and the [Grand Mosque](/asia/turkey/bursa/grand_mosque) with its twenty domes are all within walking distance of each other in the old city center.

@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Caloundra
 title: Caloundra
 type: location
+nature: 5.4
+leisure: 7.6
+adventure: 2.1
+city_culture: 3.3
+historic_culture: 3.3
 ---
 
 Caloundra sits at the southern end of Queensland's Sunshine Coast, where the [Pumicestone Passage](/australiaandpacific/australia/queensland/caloundra/pumicestone_passage) separates the mainland from Bribie Island. It is a relaxed seaside town with a string of beaches — from the calm swimming waters of Bulcock Beach in the town centre to the surf breaks at [Kings Beach](/australiaandpacific/australia/queensland/caloundra/kings_beach), Dicky Beach, and [Moffat Beach](/australiaandpacific/australia/queensland/caloundra/moffat_beach) further north.

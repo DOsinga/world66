@@ -10,6 +10,11 @@ snippet: Small Kedah foothill town near the Thai border, best known as the home 
   Universiti Utara Malaysia.
 title: Sintok
 type: location
+nature: 4.3
+leisure: 5.6
+adventure: 3.9
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Sintok is a small town in Kedah state, tucked into the foothills near the Thai-Malaysian border. It is home to [Universiti Utara Malaysia (UUM)](/asia/malaysia/sintok/uum_campus), the country's management university, and most visitors are here on campus business rather than tourism. The university campus itself is attractively set among hills and a large lake, and the surrounding countryside is green paddy fields and rubber plantations.

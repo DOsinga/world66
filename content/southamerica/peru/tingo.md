@@ -14,6 +14,11 @@ sources:
 - https://en.wikipedia.org/wiki/Chachapoyas_culture
 title: Tingo
 type: location
+nature: 6.8
+leisure: 3.8
+adventure: 6.1
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 Tingo sits in the deep Utcubamba valley of northern Peru, at 1,950 metres, where the only reason to come is one of the most remarkable ancient sites in South America. High on the forested ridge above hangs Kuélap — a fortress of the Chachapoyas, the "Warriors of the Clouds," built before the Inca ever arrived and containing more stone than the Great Pyramid of Giza. For most travellers, Tingo is a base and nothing more, and that is perfectly fine: the mountain above rewards every hour you give it.

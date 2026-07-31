@@ -13,6 +13,11 @@ snippet: Silk Road oasis on the Taklamakan's southern edge, famed for jade from 
   Kunlun rivers
 type: location
 score: 5.76
+nature: 5.5
+leisure: 3.7
+adventure: 6.1
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Hotan sits at the southern edge of the Taklamakan Desert, where the rivers flowing down from the Kunlun Mountains bring enough water to sustain an oasis of mulberry trees and vineyards. It was an important city on the southern Silk Road — the main alternative route to the northern one through Turpan and Kuqa — and a place of particular commercial importance because of two things found here and almost nowhere else: jade and fine silk.

@@ -14,6 +14,11 @@ title: Plattsburgh
 snippet: Lake Champlain city near the Canadian border, remembered for a decisive War
   of 1812 naval battle.
 type: location
+nature: 7.0
+leisure: 5.0
+adventure: 4.8
+city_culture: 3.0
+historic_culture: 3.0
 ---
 
 Plattsburgh is a small city on the western shore of Lake Champlain in the northeastern corner of New York State, about 25 kilometres south of the Canadian border and 100 kilometres south of Montreal. It has a history that punches above its size.

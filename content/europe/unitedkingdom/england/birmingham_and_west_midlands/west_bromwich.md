@@ -14,6 +14,11 @@ snippet: Black Country town west of Birmingham, shaped by industry and anchored 
   its football ground.
 title: West Bromwich
 type: location
+nature: 3.1
+leisure: 4.4
+adventure: 4.6
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 West Bromwich grew from a roadside settlement on the main route from the northwest to London into an industrial town shaped by the Black Country's coal seams and iron foundries during the 18th and 19th centuries. Mining is long gone and the steel industry followed, leaving the town with above-average unemployment and a landscape that is more post-industrial than picturesque. It sits in a dense West Midlands conurbation stretching between Birmingham and Wolverhampton.

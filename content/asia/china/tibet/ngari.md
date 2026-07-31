@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Tibet
 title: Ngari
 type: location
+nature: 8.0
+leisure: 1.9
+adventure: 8.0
+city_culture: 2.7
+historic_culture: 2.7
 ---
 
 Ngari — its administrative centre known as Ali or Shiquanhe — is the remote western extremity of Tibet, a cold high desert the size of France with a population of barely 100,000. Most of it sits above 4,500 metres; the landscape is stripped bare of almost everything: few trees, few people, little rain (barely 70mm a year in places), and an arid grandeur that some travellers find more compelling than anything in central Tibet. The G219, the Xinjiang-Tibet Highway, is the main road through the region, running from Kashgar in the north to [Shigatse](/asia/china/tibet/shigatse) in the east — one of the highest and most remote long-distance roads in the world.

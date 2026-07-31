@@ -16,6 +16,11 @@ snippet: Small north Wales university city between Snowdonia and the Menai Strai
   rooted in an ancient cathedral
 title: Bangor, Wales
 type: location
+nature: 5.3
+leisure: 5.6
+adventure: 3.9
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Bangor is one of the smallest cities in the United Kingdom, tucked between the mountains of Snowdonia and the Menai Strait in north Wales. A population of around 20,000 — about a third of them students at Bangor University — gives the place an energy that belies its size.

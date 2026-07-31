@@ -13,6 +13,11 @@ snippet: High Derbyshire spa town with Georgian crescents, thermal springs, and 
   District hills at its doorstep.
 title: Buxton
 type: location
+nature: 4.2
+leisure: 5.9
+adventure: 3.4
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Buxton is a handsome spa town perched at over 300 metres in the Derbyshire Peak District, making it one of the highest market towns in England. The Romans knew about the thermal springs here, and the town's Georgian and Victorian architecture reflects centuries of visitors coming to take the waters. [The Crescent](/europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/buxton/buxton_crescent), a sweeping curve of Georgian townhouses modelled after the Royal Crescent in Bath, has been magnificently restored as a luxury spa hotel, finally completing a renovation that took decades.

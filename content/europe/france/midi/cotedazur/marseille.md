@@ -15,6 +15,11 @@ title: Marseille
 snippet: Mediterranean port city and France's oldest major city, built around the
   Vieux-Port.
 type: location
+nature: 2.7
+leisure: 9.0
+adventure: 0.9
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Marseille is France's oldest and second-largest city, founded by Greek sailors from Phocaea around 600 BCE. It sits in a dramatic setting on the Mediterranean coast, built around the Vieux-Port and climbing up the hills behind it. The golden statue of the Virgin Mary atop [Notre-Dame de la Garde](/europe/france/midi/cotedazur/marseille/notredamedelagarde) watches over the whole city from the highest point.

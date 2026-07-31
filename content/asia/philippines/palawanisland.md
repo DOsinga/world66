@@ -14,6 +14,11 @@ snippet: Long Philippine island whose limestone lagoons and Coron wrecks anchor 
   country's frontier coast.
 title: Palawan Island
 type: location
+nature: 6.3
+leisure: 7.1
+adventure: 2.8
+city_culture: 2.7
+historic_culture: 2.7
 ---
 
 Palawan is a long, slender island 500 km southwest of Manila, often described as the Philippines' last frontier. It remains largely free of mass tourism, with dense jungle, clear waters, and some of the best diving in the country. The island stretches from the regional capital Puerto Princesa in the south to the spectacular karst seascapes of El Nido in the north.

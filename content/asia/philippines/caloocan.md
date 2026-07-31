@@ -14,6 +14,11 @@ snippet: Metro Manila city tied to the Cry of Pugad Lawin and the Philippine Rev
   opening act.
 title: Caloocan
 type: location
+nature: 3.7
+leisure: 3.8
+adventure: 5.3
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Caloocan is one of the oldest cities in Metro Manila, and the one that started a revolution. On 26 August 1896, Andres Bonifacio tore up his cedula — his Spanish colonial registration paper — in what became known as the Cry of Pugad Lawin, the opening act of the Philippine Revolution against Spain. That moment happened here, and Caloocan wears it with pride.

@@ -10,6 +10,11 @@ snippet: Western Oklahoma Route 66 city known for astronaut Thomas Stafford and 
   unusually strong air-and-space museum
 title: Weatherford
 type: location
+nature: 4.1
+leisure: 4.0
+adventure: 5.1
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Weatherford is a small city on Route 66 in western [Oklahoma](/northamerica/unitedstates/oklahoma), home to [Southwestern Oklahoma State University](/northamerica/unitedstates/oklahoma/weatherford/swosu). The main reason to stop is the [Stafford Air and Space Museum](/northamerica/unitedstates/oklahoma/weatherford/stafford_air_space_museum), which honours Weatherford native Thomas P. Stafford — the astronaut who commanded both the Gemini 9 and Apollo 10 missions and later led the American side of the Apollo-Soyuz rendezvous. The museum's collection of aircraft and space hardware is surprisingly extensive for a town this size. The town also sits on a well-preserved stretch of the old [Route 66](/northamerica/unitedstates/oklahoma/weatherford/route_66) and has a small [local history museum](/northamerica/unitedstates/oklahoma/weatherford/heartland_museum).

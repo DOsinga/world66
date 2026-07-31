@@ -13,6 +13,11 @@ snippet: Route 66 town and Grand Canyon Railway terminus on the edge of Kaibab N
   Forest.
 title: Williams
 type: location
+nature: 7.0
+leisure: 4.4
+adventure: 5.3
+city_culture: 2.9
+historic_culture: 2.9
 ---
 
 Williams is a small town on Route 66 in northern Arizona, known as the "Gateway to the Grand Canyon." It sits on the edge of the [Kaibab National Forest](/northamerica/unitedstates/arizona/williams/kaibab_national_forest) and is the southern terminus of the [Grand Canyon Railway](/northamerica/unitedstates/arizona/williams/grand_canyon_railway), a historic steam and diesel train that runs north to the South Rim of the Grand Canyon — about an hour each way and one of the most scenic ways to arrive.

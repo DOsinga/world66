@@ -16,6 +16,11 @@ sources:
 - https://www.gov.uk/foreign-travel-advice/haiti
 title: Mirebalais
 type: location
+nature: 6.2
+leisure: 2.2
+adventure: 7.4
+city_culture: 4.0
+historic_culture: 4.0
 ---
 
 Mirebalais is a Central Plateau town on National Road 3, roughly north-east of Port-au-Prince and historically important as a market and administrative centre for the surrounding agricultural country. It is not a classic sightseeing town, but it sits at a strategic crossroads between the capital, Hinche, the Artibonite valley, and the pilgrimage country around Saut-d'Eau.

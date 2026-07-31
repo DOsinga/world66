@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Mandav
 title: Mandu
 type: location
+nature: 3.7
+leisure: 4.9
+adventure: 4.6
+city_culture: 7.3
+historic_culture: 7.3
 ---
 
 Mandu is one of central India's great ruin fields: a walled plateau above the Nimar plains, full of Afghan palaces, stepwells, tombs, mosques, gateways, and half-forgotten pavilions. It is often described as a romance of stone, and for once the phrase is not too much. The best buildings are severe and elegant rather than over-decorated, and the setting gives them room to breathe.

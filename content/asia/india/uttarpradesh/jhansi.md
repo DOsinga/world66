@@ -14,6 +14,11 @@ image_license: Public domain
 image_attribution: Lala Deen Dayal
 snippet: Uttar Pradesh railway city and fortress stronghold of Rani Lakshmibai's 1857
   rebellion.
+nature: 3.0
+leisure: 4.0
+adventure: 5.3
+city_culture: 7.7
+historic_culture: 7.7
 ---
 
 Jhansi is a railway junction city in southern [Uttar Pradesh](/asia/india/uttarpradesh), best known as the stronghold of Rani Lakshmibai, the warrior queen who led the 1857 revolt against the British and is revered as India's Joan of Arc. Most travellers pass through on the popular Delhi-Agra-Jhansi-Khajuraho-Varanasi circuit, but the city and its surroundings deserve a stop.

@@ -13,6 +13,11 @@ snippet: Idaho's capital where high desert meets foothills, with a river greenbe
   and prominent Basque heritage.
 title: Boise
 type: location
+nature: 5.0
+leisure: 5.5
+adventure: 4.1
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Idaho's capital sits where the high desert meets the foothills of the Rocky Mountains, a mid-sized western city that punches above its weight in livability and outdoor access. The [Boise River Greenbelt](/northamerica/unitedstates/idaho/boise/boise_river_greenbelt) runs 25 miles through the heart of town, and you can be hiking in the [Boise Foothills](/northamerica/unitedstates/idaho/boise/boise_foothills) within minutes of downtown.

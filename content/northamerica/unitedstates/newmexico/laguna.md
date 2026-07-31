@@ -14,6 +14,11 @@ snippet: New Mexico pueblo hill settlement dominated by the 1699 San José de la
   Mission
 title: Laguna
 type: location
+nature: 5.4
+leisure: 4.3
+adventure: 5.1
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Just north of Exit 114 off I-40 in Cibola County, the Pueblo of Laguna sits on a small hill with the [San José de la Laguna Mission](/northamerica/unitedstates/newmexico/laguna/san_jose_de_laguna_mission) church dominating the skyline. Built in 1699, the church is one of the oldest in the United States and contains some of the finest Pueblo-inflected Spanish Colonial art in the Southwest. The feast day on September 19 is a wonderful event, open to respectful visitors. Arts and crafts are available in and around town, and you can check in at the tribal offices to visit the church. Services at the pueblo itself are limited, but Laguna also operates the Dancing Eagle Casino to the west and the larger Route 66 Casino to the east.

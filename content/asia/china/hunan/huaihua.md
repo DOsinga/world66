@@ -15,6 +15,11 @@ type: location
 score: 5.99
 snippet: Western Hunan transport city in mountain minority country, with wartime surrender
   history at Zhijiang.
+nature: 4.8
+leisure: 4.5
+adventure: 4.8
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Huaihua is the main city of western [Hunan](/asia/china/hunan), sitting on the Shanghai-Kunming railway line in a region of mountain valleys inhabited by several ethnic minority groups: Dong, Miao, Tujia, and Yao peoples are all present in significant numbers in the surrounding counties, and the architecture, music, and food of western Hunan reflect this diversity in ways that the more heavily touristed east of the province often does not. The city itself has about 620,000 residents and the character of a regional transport hub — useful, not beautiful, a place to restock and plan the next move.

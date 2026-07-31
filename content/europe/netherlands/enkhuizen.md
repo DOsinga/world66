@@ -14,6 +14,11 @@ snippet: Old Zuiderzee harbour town with Dutch Golden Age trading roots and the 
   Zuiderzee Museum
 title: Enkhuizen
 type: location
+nature: 4.2
+leisure: 4.4
+adventure: 4.9
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Enkhuizen is a handsome old town on the Ijsselmeer (the former Zuiderzee), about an hour from Amsterdam by train via [Hoorn](/europe/netherlands/hoorn). Once one of the most powerful trading cities in the Dutch Golden Age — at its peak in the 17th century it was a major base for the VOC — it is now a quiet, well-preserved harbour town that rewards an easy day trip.

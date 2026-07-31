@@ -9,6 +9,11 @@ snippet: Water-bound national park on the Minnesota-Ontario border, shaped by la
   islands, and fur-trade canoe routes
 title: Voyageurs National Park
 type: location
+nature: 8.0
+leisure: 4.6
+adventure: 5.1
+city_culture: 2.0
+historic_culture: 2.0
 ---
 
 Voyageurs National Park stretches along 55 miles of the Minnesota–Ontario border, a wilderness of lakes, islands, bogs, and boreal forest on some of the oldest exposed rock on the continent. Named for the French-Canadian canoe-men who paddled these waterways in birch-bark canoes during the fur trade era, the park is defined by water — four large lakes and dozens of smaller ones connected by portages and channels.

@@ -7,6 +7,11 @@ snippet: Northern Thai city on the Wang River, known for teak-era streets and Bu
   temples.
 title: Lampang
 type: location
+nature: 4.0
+leisure: 5.9
+adventure: 3.4
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Lampang is a provincial city in northern Thailand, slower and less visited than nearby Chiang Mai, which makes it worth the detour. The old town retains some of its teak-era character, with wooden shophouses and horse-drawn carriages that persist as a local curiosity rather than a tourist gimmick.

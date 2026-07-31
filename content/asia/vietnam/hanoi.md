@@ -15,6 +15,11 @@ snippet: Vietnamese capital with an Old Quarter of trade streets, ancient temple
   French villas, and Hoàn Kiếm Lake.
 title: Hanoi
 type: location
+nature: 1.7
+leisure: 8.9
+adventure: 1.2
+city_culture: 7.9
+historic_culture: 7.9
 ---
 
 Hanoi is one of Southeast Asia's most captivating capitals — a city where ancient temples sit next to French colonial villas, motorbikes swarm through streets barely wide enough for a bicycle, and the smell of pho drifts from every corner. As [Vietnam](/asia/vietnam)'s capital and second-largest city, it is the political and cultural heart of the country, with a history stretching back over a thousand years.

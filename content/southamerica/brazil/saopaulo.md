@@ -12,6 +12,11 @@ snippet: Vast Brazilian megacity where concrete sprawl hides extraordinary immig
   food, music, and nightlife.
 title: São Paulo
 type: location
+nature: 1.8
+leisure: 7.3
+adventure: 2.7
+city_culture: 8.0
+historic_culture: 8.0
 ---
 
 São Paulo is the largest city in the southern hemisphere, the economic engine of Brazil, and — to be honest — not a pretty city. Endless concrete, traffic that holds the world's worst-congestion records, a sprawl that takes hours to cross. What São Paulo lacks in beauty it makes up for in energy and diversity. This is the biggest Japanese city outside Japan, the biggest Italian city outside Italy, and home to over a million Lebanese descendants; the food, the music, and the nightlife draw from all of them.

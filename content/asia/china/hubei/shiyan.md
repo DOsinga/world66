@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Shiyan
 title: Shiyan
 type: location
+nature: 4.6
+leisure: 3.6
+adventure: 5.5
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Shiyan is one of China's more improbable cities — a planned industrial town built almost from scratch in the 1960s and 1970s in a remote Hubei valley to house the Dongfeng Motor Corporation, one of China's largest automobile manufacturers. Before Dongfeng, there was almost nothing here. The city grew out of the factory, not the other way around, which gives it an unusual urban texture: wide Soviet-influenced boulevards, uniform worker housing blocks, and an economy that still revolves around automotive production. The [Dongfeng Museum](/asia/china/hubei/shiyan/dongfeng_museum), housed in the original factory complex, is a genuinely interesting document of twentieth-century Chinese industrial history.

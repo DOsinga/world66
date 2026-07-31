@@ -9,6 +9,11 @@ snippet: Mountain region around Córdoba with lake towns, fresh air, and the UFO
   Cerro Uritorco.
 title: Sierras de Córdoba
 type: location
+nature: 5.2
+leisure: 4.6
+adventure: 4.8
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 The mountains surrounding the city of [Córdoba](/southamerica/argentina/cordoba) are a popular escape for Argentines looking for fresh air, lakes, and outdoor adventure without travelling far. Many day trips are possible from the capital.

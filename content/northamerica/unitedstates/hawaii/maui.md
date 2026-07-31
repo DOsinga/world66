@@ -14,6 +14,11 @@ snippet: Hawaiian island combining beaches, volcanic mountains, small towns, and
   road to Hāna.
 title: Maui
 type: location
+nature: 5.1
+leisure: 8.3
+adventure: 1.8
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 Maui is the second-largest of the Hawaiian islands and, for many travellers, the most rewarding. It is less crowded than **Oʻahu**, more developed than **Kauaʻi** and the **Big Island**, and has a near-perfect mix of beaches, mountains, and small seaside towns. The island's motto — **"Maui Nō Ka ʻOi"**, *Maui is the Best* — is not especially modest, and locals will happily tell you it is justified.

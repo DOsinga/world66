@@ -14,6 +14,11 @@ snippet: Hudson River village and gateway to the Catskill Mountains, tied to Tho
   Cole's landscape painting.
 title: Catskill
 type: location
+nature: 5.9
+leisure: 4.9
+adventure: 4.7
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 Catskill is a small village on the west bank of the Hudson River that serves as the gateway to the Catskill Mountains. It was once the landing point for travellers heading into the mountains by stagecoach, and that role has not changed much — most people still pass through on their way to hiking, skiing, or a quiet weekend in the hills.

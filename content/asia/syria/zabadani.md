@@ -14,6 +14,11 @@ title: Zabadani
 type: location
 snippet: Anti-Lebanon mountain resort town once known for Barada springs, orchards,
   and cool Damascus summers.
+nature: 6.2
+leisure: 1.9
+adventure: 7.8
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Zabadani is a mountain resort town about 45 km northwest of [Damascus](/asia/syria/damascus), sitting at 1,175 metres in the Anti-Lebanon range. Before the civil war it was one of the most popular summer escapes for Damascenes — the air is cool, the surrounding plain is filled with orchards of apples, cherries, plums, and pears, and the source of the Barada river rises here, forming a small lake that was once ringed by cafes and restaurants.

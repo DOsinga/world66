@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Tianshui
 title: Maijishan Grottoes
 type: location
+nature: 4.1
+leisure: 4.8
+adventure: 4.9
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 Maijishan — literally "haystack mountain" — is a sandstone butte forty-five kilometres southeast of [Tianshui](/asia/china/gansu/tianshui) whose near-vertical faces have been colonised by Buddhist art since the late fourth century. Over 194 caves contain 7,200 clay sculptures and approximately 1,000 square metres of murals, the work of craftsmen working under the patronage of the Northern Wei, Western Wei, Northern Zhou, Sui, Tang, Song, and Ming dynasties across more than a thousand years of continuous use.

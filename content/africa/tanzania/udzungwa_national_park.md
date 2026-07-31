@@ -9,6 +9,11 @@ snippet: Highland forest national park in Tanzania, explored on foot rather than
   jeep safari.
 title: Udzungwa National Park
 type: location
+nature: 8.8
+leisure: 4.2
+adventure: 5.6
+city_culture: 1.2
+historic_culture: 1.2
 ---
 
 Udzungwa National Park is unlike most of Tanzania's other national parks: no jeep safaris, no game drives. This is a walking park, deep in dense highland forest, and its rewards are quiet and particular. It sits along the major fault line that delimits the eastern side of the Southern Highlands, where prevailing westerly winds rise, cool, and drop rain almost constantly. The result is continuous forest running from around 200 m altitude up past 2,000 m — an almost unbroken green column rare anywhere in Africa.

@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Sinaia
 title: Sinaia
 type: location
+nature: 5.2
+leisure: 6.9
+adventure: 2.9
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Sinaia is Romania's most celebrated mountain resort, tucked into a valley of the Bucegi Mountains about 120 kilometres north of [Bucharest](/europe/romania/bucharest). It became the summer retreat of the Romanian royal family in the 19th century, and the palace they built here — [Peleș Castle](/europe/romania/sinaia/peles_castle) — is one of the most extraordinary royal residences in Europe: a Neo-Renaissance confection of turrets, carved galleries, and themed interior rooms rising from the Carpathian forest.

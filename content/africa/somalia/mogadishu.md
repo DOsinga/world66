@@ -10,6 +10,11 @@ title: Mogadishu
 type: location
 snippet: Historic Somali port capital on the Indian Ocean, with old trading roots
   and Lido Beach life.
+nature: 5.7
+leisure: 0.9
+adventure: 9.1
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Mogadishu — Xamar in Somali — is Somalia's capital and largest city, with a population of around 2.5 million. It is one of the oldest continuously inhabited cities in East Africa, founded by Arab and Persian traders in the 10th century. By the 13th century it was a wealthy commercial hub trading gold, ivory, and cloth with the Arabian Peninsula and India. The port was later controlled by the sultan of Zanzibar and then the Italian colonial government before Mogadishu became capital of independent Somalia in 1960.

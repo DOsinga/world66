@@ -13,6 +13,11 @@ snippet: Ryukyu island of white coral beaches, clear turquoise water, and bridge
   islets
 title: Miyako Island
 type: location
+nature: 6.2
+leisure: 5.5
+adventure: 4.3
+city_culture: 3.6
+historic_culture: 3.6
 ---
 
 Miyako Island has some of the most beautiful beaches in Japan — white coral sand, turquoise water so clear you can see the bottom from the bridges that connect the island to its smaller neighbours. The island sits about 300 kilometres southwest of Okinawa's main island, far enough south that the water stays warm well into autumn.

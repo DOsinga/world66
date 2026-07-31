@@ -14,6 +14,11 @@ snippet: Eastern Oklahoma city at three rivers, tied to Native history, azalea g
   and a preserved submarine.
 title: Muskogee
 type: location
+nature: 3.6
+leisure: 5.0
+adventure: 4.0
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Located in eastern Oklahoma at the confluence of the Arkansas, Verdigris, and Grand rivers, Muskogee is a city of around 38,000 people with deep ties to Native American history. It served as the capital of the Five Civilized Tribes' Indian Territory before Oklahoma statehood, and the **Five Civilized Tribes Museum** — housed in an 1875 Union Indian Agency building — tells that story well.

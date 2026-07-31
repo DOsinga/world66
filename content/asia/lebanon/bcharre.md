@@ -14,6 +14,11 @@ snippet: Lebanese mountain town above Qadisha Gorge, birthplace of Khalil Gibran
   gateway to cedar forests.
 title: Bcharre
 type: location
+nature: 5.6
+leisure: 4.2
+adventure: 5.5
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Bcharre is a mountain town perched above the eastern end of the Qadisha Gorge, about 65 km northeast of [Beirut](/asia/lebanon/beirut). With its red-tiled roofs, olive groves and mountain backdrop, it has the feel of a Mediterranean hill village.

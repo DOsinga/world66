@@ -14,6 +14,11 @@ snippet: Ohio River city in West Virginia's panhandle, shaped by the National Ro
   and early westward travel
 sources:
 - https://en.wikipedia.org/wiki/Wheeling,_West_Virginia
+nature: 4.5
+leisure: 4.7
+adventure: 4.4
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Wheeling sits in the narrow Northern Panhandle of West Virginia, squeezed between Ohio and Pennsylvania along the Ohio River. In the early 1800s it was the western terminus of the National Road and the site of the first bridge across the Ohio — which made it one of the most important gateways to the American West before the railroads arrived.

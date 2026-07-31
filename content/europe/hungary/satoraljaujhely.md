@@ -14,6 +14,11 @@ snippet: Northern Hungarian town below the volcanic Zemplén Hills, shaped by To
   wine routes and borderland history
 title: Sátoraljaújhely
 type: location
+nature: 4.4
+leisure: 5.2
+adventure: 4.1
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Sátoraljaújhely is Hungary's northernmost town, tucked against the Slovak border at the foot of the volcanic Zemplén Hills. The poet Sándor Petőfi described its setting as "incomparably beautiful," and the hills — often compared by visitors to a miniature Vesuvius — still dominate the view.

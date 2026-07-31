@@ -19,6 +19,11 @@ sources:
 - https://en.wikipedia.org/wiki/Union_Buildings
 title: Pretoria
 type: location
+nature: 4.0
+leisure: 4.8
+adventure: 4.7
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Pretoria is the executive capital of South Africa, the seat of the presidency and the administration, set in the highveld 50 km north of [Johannesburg](/africa/southafrica/johannesburg). It is a quieter, more formal city than Jo’burg — administrative rather than commercial — and more pleasant to navigate, with wide avenues and a compact historic centre around [Church Square](/africa/southafrica/pretoria/church_square).

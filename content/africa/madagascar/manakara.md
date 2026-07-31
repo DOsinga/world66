@@ -12,6 +12,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Manakara
 title: Manakara
 type: location
+nature: 7.0
+leisure: 3.5
+adventure: 6.3
+city_culture: 3.0
+historic_culture: 3.0
 ---
 
 Manakara is the sea-end of the famous Fianarantsoa-Cote Est railway, the narrow-gauge line that drops from the highlands through forested hills to Madagascar's humid southeast coast. Most travellers arrive tired, dusty, and delighted that the train made it at all.

@@ -15,6 +15,11 @@ snippet: Inland Turkish capital chosen by Atatürk, with its old core clustered 
   Ankara Castle.
 title: Ankara
 type: location
+nature: 5.2
+leisure: 4.6
+adventure: 5.1
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Ankara is a very old city that does not have much to show for that fact. Founded around 2000 BCE, it gained its modern prominence in 1923 when Mustafa Kemal Atatürk chose it as the capital of the new Turkish Republic — partly because it was far from the occupied Istanbul, and partly because it was a defensible inland city from which to build a nation.

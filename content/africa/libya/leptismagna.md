@@ -9,6 +9,11 @@ snippet: Mediterranean Roman city ruins in Libya, birthplace of Septimius Severu
   and a monumental UNESCO site.
 title: Leptis Magna
 type: location
+nature: 3.4
+leisure: 2.4
+adventure: 7.4
+city_culture: 7.7
+historic_culture: 7.7
 ---
 
 Even those who have no interest in ruins will be impressed by **Leptis Magna**. The setting alone — a vast Roman city overlooking the Mediterranean — is striking, and the state of preservation rivals anything in Rome itself.

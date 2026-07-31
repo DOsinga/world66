@@ -14,6 +14,11 @@ snippet: Southwestern Turkish resort town in a pine-fringed natural harbour betw
   the Aegean and Mediterranean.
 title: Marmaris
 type: location
+nature: 5.1
+leisure: 7.5
+adventure: 2.3
+city_culture: 3.7
+historic_culture: 3.7
 ---
 
 Marmaris is one of the biggest package-tourism resorts on Turkey's south-western coast, occupying a deep, pine-fringed natural harbour where the Aegean meets the Mediterranean. In the 1980s it was a quiet fishing town of a few thousand people; today it has a permanent population of around 35,000 that swells to several hundred thousand in summer, and a skyline of concrete apartment blocks that locals sometimes joke is why the name sounds so much like *mimari as* — "hang the architect".

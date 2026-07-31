@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/Bay_of_Pigs
 title: Guamá
 type: location
+nature: 5.2
+leisure: 6.1
+adventure: 3.7
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Guamá is a tourist complex built in the late 1960s on a string of small islands in the Laguna del Tesoro — "Treasure Lake" — inside the Zapata wetlands, the largest mangrove and swamp ecosystem in the Caribbean. The lake is reached by a 20-minute boat from Boca de Guamá at the head of the inlet, where the road from the Autopista Nacional ends and the crocodile farm sits at the trailhead.

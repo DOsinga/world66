@@ -18,6 +18,11 @@ image: beijing.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2017-05-07_The_Forbidden_City.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Windmemories
+nature: 2.4
+leisure: 5.2
+adventure: 4.5
+city_culture: 8.7
+historic_culture: 8.7
 ---
 
 Beijing — "Northern Capital" — has been China's political centre for most of the last eight hundred years, and the architecture and atmosphere of the city still reflect that. The [Forbidden City](/asia/china/beijing/forbidden_city) at the heart of the old town, the [Temple of Heaven](/asia/china/beijing/temple_of_heaven) to the south, the [Summer Palace](/asia/china/beijing/summer_palace) to the northwest, and the [Great Wall at Mutianyu](/asia/china/beijing/great_wall_mutianyu) running along the mountains an hour north are the most famous set pieces of imperial China anywhere in the world, and together they fill the better part of a week.

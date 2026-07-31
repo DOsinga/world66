@@ -10,6 +10,11 @@ title: Dhahran
 type: location
 snippet: Saudi Aramco company town in the Eastern Province, laid out as a self-contained
   desert compound.
+nature: 3.6
+leisure: 4.1
+adventure: 5.2
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Dhahran is the headquarters of Saudi Aramco and essentially a company town — most residents are employees or their families, with some contract workers alongside. It is a fenced, access-controlled compound, self-contained in the way a military base is, and visually it looks surprisingly like parts of [Arizona](/northamerica/unitedstates/arizona): low buildings, desert landscaping, wide roads.

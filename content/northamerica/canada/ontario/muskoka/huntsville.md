@@ -14,6 +14,11 @@ snippet: Muskoka lake town north of Toronto, serving as a gateway to Algonquin P
   Park.
 title: Huntsville
 type: location
+nature: 6.3
+leisure: 6.8
+adventure: 2.9
+city_culture: 2.8
+historic_culture: 2.8
 ---
 
 Huntsville is the largest town in Muskoka, about two hours north of Toronto on Highway 11. It sits on the shores of several lakes and serves as the main gateway to [Algonquin Provincial Park](/northamerica/canada/ontario/muskoka/huntsville/algonquin_provincial_park), which begins just to the east.

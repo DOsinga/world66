@@ -15,6 +15,11 @@ snippet: Romanian capital of Belle Époque mansions, brutalist blocks, and stubb
   old-city life around Lipscani.
 title: Bucharest
 type: location
+nature: 1.9
+leisure: 6.8
+adventure: 3.0
+city_culture: 8.6
+historic_culture: 8.6
 ---
 
 Bucharest was once known as the "Little Paris" for its tree-lined boulevards, Belle Époque architecture, and a café culture that rivalled the French capital in the 1930s. The Communist era tried hard to erase that identity — Ceaușescu demolished a fifth of the historic centre to build his grotesque [Parliament Palace](/europe/romania/bucharest/parliament_palace) — but the old city has proven stubbornly resilient.

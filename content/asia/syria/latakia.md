@@ -10,6 +10,11 @@ snippet: Syrian Mediterranean port city with Roman Laodicea remnants and a busy 
   corniche.
 title: Latakia
 type: location
+nature: 5.8
+leisure: 1.5
+adventure: 8.5
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Latakia is Syria's main port and its most relaxed city, strung along the Mediterranean coast with a character noticeably softer than Damascus or Aleppo. It has a sizable Christian minority, and the mixed demographic has always given the city a more open feel — outdoor cafes stay busy into the night, and the waterfront corniche draws an easy mix of families, fishermen, and walkers.

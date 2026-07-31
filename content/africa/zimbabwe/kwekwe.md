@@ -14,6 +14,11 @@ snippet: Zimbabwean mining and steel town midway between Harare and Bulawayo, ro
   in gold history.
 title: Kwekwe
 type: location
+nature: 5.7
+leisure: 2.5
+adventure: 6.9
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Kwekwe (formerly Que Que) is a mining and steel town almost exactly halfway between [Harare](/africa/zimbabwe/harare) and [Bulawayo](/africa/zimbabwe/bulawayo) on Zimbabwe's main road and rail corridor. It exists because of the [Globe and Phoenix Mine](/africa/zimbabwe/kwekwe/globe_and_phoenix_mine), which at its peak in the early 1900s was the biggest gold mine in the world. The mining museum on its premises preserves the Paper House, a wood and reinforced cardboard dwelling on stilts that once served as home to the first mine manager and was slept in by Cecil John Rhodes.

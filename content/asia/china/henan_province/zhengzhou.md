@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Henan_Museum
 title: Zhengzhou
 type: location
+nature: 3.3
+leisure: 5.2
+adventure: 4.4
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 Zhengzhou is the capital of [Henan Province](/asia/china/henan_province), a sprawling transport hub and industrial city that most travellers pass through on the way to somewhere else. The city itself is not beautiful, but it sits at a crossroads of Chinese history — [Shang Dynasty ruins](/asia/china/henan_province/zhengzhou/shang_city_ruins) lie beneath the modern streets, and some of China's most important ancient sites are within day-trip distance.

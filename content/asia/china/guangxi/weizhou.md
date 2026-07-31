@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Weizhou_Island
 title: Weizhou Island
 type: location
+nature: 6.2
+leisure: 5.5
+adventure: 4.1
+city_culture: 3.3
+historic_culture: 3.3
 ---
 
 Weizhou Island sits in the Gulf of Tonkin about 50 kilometres southwest of Beihai, and it is geologically singular: China's youngest volcanic island, shaped by eruptions as recently as seven thousand years ago, its basalt cliffs and columnar rock formations giving the coastline a character entirely different from anywhere else in Guangxi. The island covers about 25 square kilometres and is ringed by coral reefs that rank among the healthiest in the northern South China Sea — the warm, clear water and relative isolation from industrial development have kept them in condition unusual for this part of the world.

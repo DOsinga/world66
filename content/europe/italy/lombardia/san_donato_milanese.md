@@ -13,6 +13,11 @@ sources:
 - https://en.wikipedia.org/wiki/Eni
 title: San Donato Milanese
 type: location
+nature: 2.7
+leisure: 5.9
+adventure: 3.3
+city_culture: 7.3
+historic_culture: 7.3
 ---
 
 San Donato Milanese is a satellite town about 7 kilometres southeast of Milan, primarily known as the global headquarters of ENI, the Italian energy company. For most visitors it is a stopover rather than a destination — the metro connects to central Milan in 15 minutes, Linate Airport is 5 kilometres north, and the town is correspondingly full of business hotels at reasonable prices. But for anyone interested in mid-century Italian architecture and urban planning, San Donato is genuinely worth a half-day of attention.

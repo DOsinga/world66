@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Hermitage_of_El_Roc%C3%ADo
 title: El Rocio
 type: location
+nature: 3.0
+leisure: 6.6
+adventure: 2.8
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 El Rocío is one of the strangest and most compelling villages in Spain. For most of the year it is almost a ghost town — wide sandy streets, rows of whitewashed hermandad houses locked up and waiting, and only a few hundred permanent residents. Then, at Pentecost, a million pilgrims arrive in covered wagons and on horseback for the [Romería de El Rocío](/europe/spain/andalucia/el_rocio/romeria_de_el_rocio), one of the largest religious pilgrimages in the world. The village becomes a city overnight, then empties again within days.

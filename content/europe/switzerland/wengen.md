@@ -13,6 +13,11 @@ snippet: Car-free Bernese Oberland village on a terrace above Lauterbrunnen, rea
   by cog railway.
 title: Wengen
 type: location
+nature: 6.6
+leisure: 7.3
+adventure: 2.8
+city_culture: 2.4
+historic_culture: 2.4
 ---
 
 Wengen is a car-free village perched on a sunny terrace above the Lauterbrunnen Valley in the Bernese Oberland. You reach it by cog railway from Lauterbrunnen — there is no road — and that isolation is part of its charm. The views from the village across to the Jungfrau, the Mönch, and the [Eiger](/europe/switzerland/wengen/eiger_north_face) are among the most famous in [Switzerland](/europe/switzerland).

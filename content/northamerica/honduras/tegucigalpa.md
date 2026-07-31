@@ -14,6 +14,11 @@ snippet: Hilly Honduran capital with colonial churches, major pilgrimage sites, 
   quick access to La Tigra cloud forest.
 title: Tegucigalpa
 type: location
+nature: 5.6
+leisure: 2.7
+adventure: 7.0
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Tegucigalpa — known as Tegus — is the capital of Honduras, a city of around 1.4 million people spread across hilly terrain at about 1000m elevation. It is not a beautiful city, but it has more to offer than its reputation suggests, and as a starting point for exploring the south and centre of the country it serves well enough.

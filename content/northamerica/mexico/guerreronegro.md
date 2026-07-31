@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/El_Vizca%C3%ADno_Biosphere_Reserve
 snippet: Windswept Baja California Sur town beside vast saltworks and the gray-whale
   lagoons of Ojo de Liebre.
+nature: 5.0
+leisure: 5.4
+adventure: 4.1
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Guerrero Negro is a small, windswept town on the Pacific coast of Baja California Sur, right at the border between the two Baja states. It is not much to look at — a flat grid of dusty streets centred around the world's largest salt-evaporation operation, run by [Exportadora de Sal](/northamerica/mexico/guerreronegro/exportadora_de_sal) — but between January and April, it becomes one of the best places on Earth to see gray whales. The whales migrate from Alaska to the warm, shallow lagoons here to breed and nurse their calves, and [Laguna Ojo de Liebre](/northamerica/mexico/guerreronegro/laguna_ojo_de_liebre) just south of town is the main event.

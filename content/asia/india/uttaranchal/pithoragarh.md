@@ -14,6 +14,11 @@ snippet: Hill town in the Kumaon Himalaya overlooking the Soar Valley, with fort
   and trails toward Panchachuli peaks.
 title: Pithoragarh
 type: location
+nature: 7.0
+leisure: 4.6
+adventure: 5.2
+city_culture: 3.2
+historic_culture: 3.2
 ---
 
 Pithoragarh is a hill town in Uttarakhand, sitting at around 1,800 metres in the Kumaon Himalaya close to the borders with Nepal and Tibet. The town overlooks the Soar valley and is framed by snow peaks that give it a reputation as a mini Kashmir — though the comparison flatters the valley's modest scale.

@@ -14,6 +14,11 @@ snippet: Sierra Nevada river town on the Kern, a base for whitewater, camping, a
   mountain back roads.
 title: Kernville
 type: location
+nature: 5.9
+leisure: 5.0
+adventure: 4.7
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 Kernville sits on the North Fork of the Kern River, just above [Isabella Lake](/northamerica/unitedstates/california/centralvalley/kernville/isabella_lake) in the southern Sierra Nevada. The [Sequoia National Forest](/northamerica/unitedstates/california/centralvalley/kernville/sequoia_national_forest) rises to the north, and the whole area is laced with back roads that wind through granite peaks and pine forests.

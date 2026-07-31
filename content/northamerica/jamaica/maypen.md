@@ -15,6 +15,11 @@ snippet: Clarendon parish capital and south-coast road junction, close to the Mi
   River mineral baths
 title: May Pen
 type: location
+nature: 5.5
+leisure: 5.5
+adventure: 4.1
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 May Pen is the capital of Clarendon parish, situated on the south coast highway between Kingston and Mandeville. It's a busy market town and road junction rather than a destination in itself, but it serves as a gateway to the Milk River mineral baths — reportedly the most radioactive therapeutic waters in the world, though the radioactivity level is said to be harmlessly low — and to the scenic Canoe Valley Wetlands, one of Jamaica's important bird areas.

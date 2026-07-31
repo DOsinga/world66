@@ -14,6 +14,11 @@ snippet: Willamette Valley university city with a walkable brick downtown and Or
   State campus energy
 title: Corvallis
 type: location
+nature: 5.0
+leisure: 5.9
+adventure: 3.5
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Corvallis is the home of Oregon State University and the county seat of Benton County — a compact, walkable city of around 50,000 in the heart of the Willamette Valley. The [OSU campus](/northamerica/unitedstates/oregon/corvallis/oregon_state_university) gives it an active café culture and a younger energy than most towns of its size in Oregon.

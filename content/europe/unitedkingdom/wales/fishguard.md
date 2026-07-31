@@ -14,6 +14,11 @@ snippet: Pembrokeshire harbour town with cliff-top streets, a lower old port, an
   Britain's last invasion story.
 title: Fishguard
 type: location
+nature: 4.3
+leisure: 5.8
+adventure: 3.6
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Fishguard is a small harbour town on the north Pembrokeshire coast, best known to most travellers as the ferry port for sailings to Rosslare in Ireland. But it is more interesting than its gateway-town reputation suggests. The town occupies two distinct levels: the main commercial street runs along the top of the cliffs, while [Lower Fishguard](/europe/unitedkingdom/wales/fishguard/lower_fishguard) — a cluster of fishermen's cottages around the old harbour — sits below, quiet enough now that it doubled as Llareggub in the 1971 film of Dylan Thomas's Under Milk Wood.

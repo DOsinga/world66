@@ -15,6 +15,11 @@ snippet: Highland Mexican colonial city of volcanic-stone streets, baroque churc
   Zapotec ruins, and serious food culture.
 title: Oaxaca
 type: location
+nature: 3.0
+leisure: 7.1
+adventure: 3.0
+city_culture: 7.3
+historic_culture: 7.3
 ---
 
 Oaxaca (pronounced "wah-HAH-ka") is the colonial capital of the state of the same name, about 500 km southeast of Mexico City on a high, dry plateau at 1,550 m. With just under 300,000 people in the city and another half-million in the surrounding valley, it is small enough to walk across in an afternoon — and it might be the most beautiful and engaging colonial town in Mexico. The whole historic centre is a UNESCO World Heritage Site, built in warm green and ochre volcanic stone.

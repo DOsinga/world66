@@ -13,6 +13,11 @@ sources:
 - https://en.wikipedia.org/wiki/Collegiate_Church_of_Saint-Vincent,_Soignies
 title: Soignies
 type: location
+nature: 3.9
+leisure: 4.5
+adventure: 4.6
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Soignies is a small Walloon town south of Brussels, best known for its Collegiate Church of St. Vincent — one of the finest Romanesque churches in Belgium. Built in the 10th and 11th centuries, the church is massive and austere, with thick stone walls, round arches, and an interior that has barely changed in a thousand years. It is a striking building, especially if you have been saturated with Gothic in Brussels and Bruges.

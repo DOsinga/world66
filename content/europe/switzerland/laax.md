@@ -13,6 +13,11 @@ snippet: Graubünden ski village sharing a vast lift system with Flims and Faler
   the Vorab glacier.
 title: Laax
 type: location
+nature: 5.7
+leisure: 7.6
+adventure: 2.4
+city_culture: 3.1
+historic_culture: 3.1
 ---
 
 Laax is a village in the Surselva valley of Graubünden, part of the [LAAX ski resort](/europe/switzerland/laax/laax_ski_resort) that shares its lift system with [Flims](/europe/switzerland/flims) and Falera. Together they form the largest connected ski area in central Switzerland, with over 220 kilometres of pistes reaching up to the Vorab glacier at 3,018 metres.

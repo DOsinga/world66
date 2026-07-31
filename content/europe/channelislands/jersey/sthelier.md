@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Elizabeth_Castle
 title: St Helier
 type: location
+nature: 4.7
+leisure: 7.2
+adventure: 2.5
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 St Helier is the capital of [Jersey](/europe/channelislands/jersey) and home to about a third of the island's population. It sits on the south coast around a natural harbour, with [Elizabeth Castle](/europe/channelislands/jersey/sthelier/elizabeth_castle) standing on a tidal island at the entrance — accessible on foot at low tide or by amphibious ferry when the water comes in.

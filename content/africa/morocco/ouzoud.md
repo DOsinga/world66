@@ -9,6 +9,11 @@ score: 8.39
 loc_type: feature
 snippet: Atlas Mountains village beside Morocco's tallest cascades, with Berber lanes
   and waterfall viewpoints.
+nature: 6.9
+leisure: 3.9
+adventure: 5.9
+city_culture: 3.1
+historic_culture: 3.1
 ---
 
 Cascades d'Ouzoud is a gorgeous small village around an hour/hour and a half taxi ride from Afourar (which is South-West of Beni Mellal). Ouzoud has become more of a touristy area, but it is still a wonderful place to experience a small(er) Berber village in the Atlas Mountains . Of course one of the main attractions here are the Cascades. The tallest in Morocco , you can either take in their stunning view from the top or at the very bottom. Although a “no-swimming” sign is highly visible for the tourists protection, you will be sure to see many of the locals swimming and enjoying themselves on the hot summers day.

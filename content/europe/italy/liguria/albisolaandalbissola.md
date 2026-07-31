@@ -7,6 +7,11 @@ snippet: Twin Ligurian coastal towns west of Savona, long associated with cerami
   and tiled public art.
 title: Albisola and Albissola
 type: location
+nature: 3.3
+leisure: 6.8
+adventure: 2.6
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Albisola — actually two distinct municipalities, Albisola Superiore and Albissola Marina — sits on the Ligurian coast just west of [Savona](/europe/italy/liguria/savona). The twin towns are best known across Italy as the centre of Ligurian ceramics: pottery has been made here since at least the fifteenth century, and the tradition is still very much alive. A walk along the marina promenade at Albissola brings you past ceramic tiles embedded into the pavement, a public art project involving some of the most significant Italian artists of the twentieth century, including Lucio Fontana and Aligi Sassu, who worked here in the 1960s.

@@ -14,6 +14,11 @@ snippet: Shan Hills hill station also known as Pyin Oo Lwin, with colonial house
   and botanical gardens.
 title: Maymyo
 type: location
+nature: 4.9
+leisure: 5.0
+adventure: 4.7
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Pyin Oo Lwin (still widely known as Maymyo, its colonial name) is a hill station on a plateau at 1,000 metres in the Shan Hills, about two hours northeast of [Mandalay](/asia/myanmar/mandalay). The British established it as a summer retreat — Colonel May, after whom the town was named, was stationed here in the 1880s — and it still feels markedly different from the lowland cities.

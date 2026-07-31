@@ -14,6 +14,11 @@ snippet: Cook Islands lagoon atoll ringed by motus and shallow turquoise water b
   a quiet green island
 title: Aitutaki
 type: location
+nature: 7.4
+leisure: 6.1
+adventure: 3.8
+city_culture: 2.2
+historic_culture: 2.2
 ---
 
 Aitutaki is the Cook Islands' second most visited island, and for many travellers the highlight of the whole country. The island itself is pleasant — small, green, quiet — but the real draw is the lagoon: a vast, shallow expanse of turquoise water ringed by fifteen small motus (islets), with white sand and coral outcrops scattered across it. It is genuinely one of the most beautiful lagoons in the Pacific.

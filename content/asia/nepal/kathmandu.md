@@ -16,6 +16,11 @@ snippet: High valley capital of Nepal, dense with living temple neighbourhoods b
   the Himalayan rim.
 title: Kathmandu
 type: location
+nature: 3.6
+leisure: 5.3
+adventure: 4.7
+city_culture: 7.7
+historic_culture: 7.7
 ---
 
 Kathmandu is one of the most intense cities you can visit — a crowded, chaotic, endlessly fascinating capital pressed into a valley at 1,400 metres elevation, ringed by hills, and surrounded by some of the highest mountains on earth. The pollution is real and the traffic is maddening, but beneath the noise is a city of extraordinary antiquity and religious depth, where UNESCO World Heritage temples sit in living neighbourhoods, sadhus meander between modern shops, and the smell of incense competes with diesel fumes at every corner.

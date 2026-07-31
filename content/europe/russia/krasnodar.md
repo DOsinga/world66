@@ -14,6 +14,11 @@ snippet: Southern Russian city on the Kuban River, founded as a Cossack fort nea
   the Caucasus.
 title: Krasnodar
 type: location
+nature: 4.1
+leisure: 5.4
+adventure: 4.2
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Krasnodar is the informal capital of southern Russia, a sprawling city of over a million people on the Kuban River. Founded as a Cossack fort in 1793, it serves as the gateway to the Black Sea coast and the Caucasus mountains.

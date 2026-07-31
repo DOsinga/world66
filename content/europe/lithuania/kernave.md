@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Kernav%C4%97
 title: Kernave
 type: location
+nature: 2.9
+leisure: 5.4
+adventure: 4.1
+city_culture: 8.0
+historic_culture: 8.0
 ---
 
 Kernave is the place where Lithuania's deep past suddenly becomes visible. A small modern village sits above the Neris valley, but the reason to come is the UNESCO-listed archaeological reserve: five green hillforts, traces of a medieval town, burial grounds, and a landscape that has been occupied for thousands of years.

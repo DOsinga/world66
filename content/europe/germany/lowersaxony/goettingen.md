@@ -10,6 +10,11 @@ title: Göttingen
 type: location
 snippet: Lower Saxony university town shaped by Georgia Augusta and a compact timber-framed
   old centre.
+nature: 3.3
+leisure: 6.0
+adventure: 3.1
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 Göttingen is a university town in southern Lower Saxony with about 130,000 inhabitants, roughly a third of whom are students. The [Georgia Augusta university](/europe/germany/lowersaxony/goettingen/university), founded in 1737, has shaped the town so thoroughly that the two are almost inseparable — forty-five Nobel Prize winners have worked or studied here, and a [statue of a goose girl](/europe/germany/lowersaxony/goettingen/gaenseliesel) in the market square has been kissed by graduating doctors for generations.

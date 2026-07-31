@@ -16,6 +16,11 @@ type: location
 score: 8.36
 snippet: Douro riverfront city opposite Porto, lined with port wine lodges below the
   Dom Luís I bridge.
+nature: 2.7
+leisure: 8.5
+adventure: 1.1
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Vila Nova de Gaia faces Porto across the Douro, connected to the city by the great iron arches of the Ponte de Dom Luís I. In practical terms it forms a single urban area with Porto — you can walk between them in twenty minutes — but administratively it is a separate municipality, and it has one defining purpose that Porto lacks: this is where port wine is made and stored. The entire riverfront of Gaia is lined with the lodges of the great port houses, their names painted in white on black rooftops: Taylor's, Graham's, Sandeman, Croft, Ramos Pinto. Whatever the weather, this is one of the most distinctive skylines in Portugal.

@@ -17,6 +17,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Montepulciano
 title: Montepulciano
 type: location
+nature: 2.6
+leisure: 8.9
+adventure: 1.1
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Montepulciano is a Renaissance hill town in southern Tuscany, perched on a long narrow ridge between the Val di Chiana and the Val d'Orcia at about 600 metres elevation. The views in every direction are the classic Tuscan rolling-hills panorama that appears on a thousand magazine covers, and the town itself is exceptionally well-preserved — its main street climbs steeply through layers of Renaissance civic architecture to a handsome main square flanked by a Florentine-style palazzo and a seventeenth-century cathedral.

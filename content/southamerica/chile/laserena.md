@@ -13,6 +13,11 @@ score: 7.84
 snippet: Coquimbo Region capital and colonial-era city at the mouth of the Elqui Valley.
 title: La Serena
 type: location
+nature: 3.9
+leisure: 6.2
+adventure: 3.3
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 La Serena is the capital of the Coquimbo Region and Chile's second oldest city, founded by the Spanish in 1544. It sits at the mouth of the Elqui Valley, 470 km north of Santiago, and has a distinctive character shaped by its colonial past and its position in a transitional climate zone between the Atacama and the more temperate south.

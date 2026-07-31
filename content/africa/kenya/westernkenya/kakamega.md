@@ -14,6 +14,11 @@ snippet: Small western Kenyan town and gateway to Kakamega Forest, Kenya's remna
   Guineo-Congolian rainforest.
 title: Kakamega
 type: location
+nature: 7.2
+leisure: 2.7
+adventure: 7.1
+city_culture: 3.1
+historic_culture: 3.1
 ---
 
 Kakamega is a small town in Western Province, about 65 km north of [Kisumu](/africa/kenya/kisumu). It is the base for trips into the [Kakamega Forest](/africa/kenya/westernkenya/kakamega/kakamega_forest), the easternmost remnant of the great Guineo-Congolian rainforest that once stretched across central Africa. The forest is home to over 380 bird species, colobus and blue monkeys, and a remarkable variety of butterflies and plants found nowhere else in Kenya.

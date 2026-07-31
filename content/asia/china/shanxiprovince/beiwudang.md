@@ -11,6 +11,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Shanxi
 title: Beiwudang Mountain
 type: location
+nature: 6.7
+leisure: 4.7
+adventure: 4.9
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 Beiwudang Mountain rises from Fangshan County in Lüliang City, on the western edge of Shanxi above the Yellow River valley. The name means "Northern Wudang," drawing a deliberate parallel to the famous Wudang Mountains in Hubei — both are centres of Taoist practice, both are known for dramatic peaks and cliff-hanging temples, and Beiwudang makes a reasonable claim to being the northern counterpart in terms of religious significance. The mountain is sometimes called "the first mountain in Shanxi" for its 72 peaks and dramatic vertical relief.

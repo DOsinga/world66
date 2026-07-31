@@ -19,6 +19,11 @@ tags:
 tier: 3
 title: Milford Sound
 type: location
+nature: 8.6
+leisure: 5.3
+adventure: 4.5
+city_culture: 1.3
+historic_culture: 1.3
 ---
 
 Milford Sound — Piopiotahi in Māori, meaning "place of the shining cuckoo" — is not actually a sound at all. It is a fjord, carved by glaciers over thousands of years, now sitting deep inside [Fiordland National Park](/australiaandpacific/newzealand/fiordland) on the southwest coast of New Zealand's South Island. Sheer granite walls rise more than a thousand metres straight out of the dark water, draped in rainforest that somehow clings to near-vertical rock. Rudyard Kipling called it the eighth wonder of the world, and for once the hype is not exaggerated.

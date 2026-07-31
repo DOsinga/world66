@@ -15,6 +15,11 @@ snippet: Southwest Serbian mountain plateau and resort town of grasslands, fores
   valleys, and village-tourism traditions.
 title: Zlatibor
 type: location
+nature: 5.8
+leisure: 5.2
+adventure: 4.5
+city_culture: 4.0
+historic_culture: 4.0
 ---
 
 Zlatibor is both a mountain plateau and a resort town in southwest Serbia, about 230 km from Belgrade and 25 km south of Užice. The town itself goes by Partizanske Vode on most maps, but everyone calls the whole area Zlatibor. Serbs have been coming here since the late 19th century, and the place has a well-worn, unhurried feel that keeps them coming back.

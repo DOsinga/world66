@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Fiskardo
 title: Fiskardo
 type: location
+nature: 4.9
+leisure: 7.5
+adventure: 2.4
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 Fiskardo sits on the northernmost tip of Cephalonia, curled around a horseshoe bay. It's the island's most beautiful village, and the only settlement that came through the 1953 earthquake largely intact — its limestone bedrock absorbed the shock that destroyed everywhere else. The old stone buildings that line the [Venetian harbour](/europe/greece/cephalonia/fiskardo/venetian_harbour) have been carefully restored and converted into taverns, cafes, boutiques, and small hotels.

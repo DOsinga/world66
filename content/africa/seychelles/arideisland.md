@@ -9,6 +9,11 @@ snippet: Seychelles nature reserve island with huge seabird colonies, Wright's g
   and granite slopes.
 title: Aride Island
 type: location
+nature: 8.3
+leisure: 5.0
+adventure: 4.7
+city_culture: 1.3
+historic_culture: 1.3
 ---
 
 Aride Island is the northernmost of the granitic Seychelles and arguably the most important seabird nesting site in the western Indian Ocean after Aldabra. The island is managed by the Island Conservation Society as a nature reserve and is open to visitors year-round, weather permitting.

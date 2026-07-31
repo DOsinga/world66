@@ -10,6 +10,11 @@ snippet: West Yorkshire market town known for a royal-prison castle and centurie
 type: location
 score: 6.48
 loc_type: city
+nature: 4.0
+leisure: 5.5
+adventure: 3.7
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Pontefract is a compact market town in West Yorkshire, best known for two things: a ruined castle with a grim royal past and the liquorice sweets that have been made here for centuries. Neither claim to fame is especially glamorous, but both are genuinely distinctive — you won't find many other towns where medieval regicide and confectionery are the twin pillars of local identity.

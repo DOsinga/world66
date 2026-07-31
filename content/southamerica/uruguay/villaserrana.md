@@ -14,6 +14,11 @@ title: Villa Serrana
 type: location
 snippet: Planned Uruguayan hillside village of stone retreats, native forest, and
   granite outcrops in Lavalleja.
+nature: 4.6
+leisure: 3.9
+adventure: 5.4
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Villa Serrana is a small hillside village in the Lavalleja Department, about 145 km from [Montevideo](/southamerica/uruguay/montevideo) and 20 km beyond [Minas](/southamerica/uruguay/minas). Built in the 1940s as a planned retreat in the Sierra de Carapé hills, the village was designed by architect Julio Vilamajó and blends organically into the rocky, wooded landscape — stone walls, low rooflines, and paths rather than streets.

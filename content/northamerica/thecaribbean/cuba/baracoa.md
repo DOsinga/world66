@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/El_Yunque_(Cuba)
 title: Baracoa
 type: location
+nature: 6.0
+leisure: 5.3
+adventure: 4.5
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Baracoa is the oldest Spanish settlement in [Cuba](/northamerica/thecaribbean/cuba), founded in 1511 and cut off from the rest of the island by mountains for centuries. That isolation is part of its appeal — reaching Baracoa means crossing the spectacular [La Farola highway](/northamerica/thecaribbean/cuba/baracoa/la_farola), a winding road carved through the Sierra del Purial that is one of the great drives in the Caribbean.

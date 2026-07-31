@@ -11,6 +11,11 @@ title: Kalimpong
 type: location
 snippet: Kalimpong is a Teesta Valley hill town with Tibetan, Nepali, Bengali, and
   Bhutia influences.
+nature: 6.1
+leisure: 5.1
+adventure: 4.7
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 *Asia > India > West Bengal > Kalimpong*

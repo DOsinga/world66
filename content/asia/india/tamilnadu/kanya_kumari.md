@@ -13,6 +13,11 @@ snippet: Southern tip of India where three seas meet beside temples, memorial ro
   and multicoloured sand.
 title: Kanyakumari
 type: location
+nature: 4.7
+leisure: 6.3
+adventure: 3.4
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Kanyakumari is at the very tip of India, the point where the Bay of Bengal, the Arabian Sea, and the Indian Ocean converge. For Hindus it's a sacred place of pilgrimage; for everyone else it's one of those geographically compelling spots that justifies the journey on its own terms.

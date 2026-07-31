@@ -10,6 +10,11 @@ snippet: Tiny Ligurian commune in the Pennavaire valley, anchored by restored hi
   hamlet Colletta di Castelbianco
 title: Castelbianco
 type: location
+nature: 5.2
+leisure: 5.3
+adventure: 4.3
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Castelbianco is a tiny commune in the lower Pennavaire valley, made up of the hamlets of Colletta, Oresine, Veravo (the municipal seat), and the ruins of Vesallo, which was destroyed by an earthquake in 1887 and never rebuilt. The area was once a possession of the Cepolla family of Albenga before passing to the marquisate of Zuccarello in 1383, then to the Savoy, and finally to the Republic of Genoa.

@@ -13,6 +13,11 @@ image_license: CC BY-SA 2.0
 image_attribution: Joan Rubió
 snippet: Industrial Catalan city north of Barcelona, shaped by wool mills and Modernisme
   factory architecture.
+nature: 3.2
+leisure: 6.2
+adventure: 3.0
+city_culture: 7.0
+historic_culture: 7.0
 ---
 
 Sabadell is an industrial city in the Vallès Occidental comarca, about thirty kilometers north of Barcelona. For centuries it was the center of Catalonia's wool and textile industry, earning comparisons to Manchester. The old factory buildings, many of them striking examples of industrial Modernisme, give parts of the city a distinctive character that is quite different from the surrounding Catalan towns.

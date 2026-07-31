@@ -14,6 +14,11 @@ snippet: Lake Michigan waterfront city with lumber-era history, Victorian homes,
   naval museum ships.
 title: Muskegon
 type: location
+nature: 4.6
+leisure: 5.8
+adventure: 3.6
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Muskegon is a waterfront city on the eastern shore of Lake Michigan, where the Muskegon River flows through Muskegon Lake before emptying into Lake Michigan through a wide channel. It was once called the "Lumber Queen of the World" — in 1887 alone, 47 sawmills surrounding Muskegon Lake cut 665 million board feet of timber — and the grand Victorian homes built during that era are still visible throughout the city.

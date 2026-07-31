@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Cocora_Valley
 title: Salento
 type: location
+nature: 6.3
+leisure: 6.4
+adventure: 3.5
+city_culture: 3.3
+historic_culture: 3.3
 ---
 
 Salento is the most painted, most photographed, and most visited town in Colombia's coffee country — a small grid of streets on a ridge in the western Andes, painted in bright colours, surrounded by mountains and coffee farms, with the extraordinary Valle de Cocora just a short jeep ride away. It earns its popularity. The combination of handsome architecture, good food, and one of the most dramatic landscapes in Colombia within easy reach makes it hard to leave.

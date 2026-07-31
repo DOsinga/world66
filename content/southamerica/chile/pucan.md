@@ -14,6 +14,11 @@ snippet: Lakeside Chilean adventure town below Volcán Villarrica, with hot spri
   rafting, and Araucanía forests
 title: Pucón
 type: location
+nature: 6.0
+leisure: 6.0
+adventure: 3.8
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 Pucón is Chile's adventure capital, a lakeside town in the Araucanía region with the smoking cone of [Volcán Villarrica](/southamerica/chile/pucan/volcan_villarrica) looming directly above it. The volcano is the main event — climbing to the crater is a demanding but achievable day trip, involving a 1,500-metre ascent through forest and then up a glacier to peer into the glowing lava lake at the summit. It is one of the most accessible active volcanoes in the world, and the experience is extraordinary.

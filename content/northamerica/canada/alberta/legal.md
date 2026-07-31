@@ -14,6 +14,11 @@ snippet: Small Alberta town known for outdoor murals celebrating French-Canadian
   Métis heritage.
 title: Legal
 type: location
+nature: 4.6
+leisure: 3.9
+adventure: 5.1
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Legal is a small town about 45 kilometres north of Edmonton, best known for its [outdoor mural program](/northamerica/canada/alberta/legal/outdoor_murals). More than thirty murals painted on buildings throughout town depict the area's French-Canadian and Métis heritage, making an aimless walk through the streets surprisingly rewarding for a place this size.

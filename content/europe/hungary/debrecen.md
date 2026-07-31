@@ -14,6 +14,11 @@ title: Debrecen
 snippet: Eastern Hungarian city with Calvinist roots, centred on the Great Reformed
   Church and college.
 type: location
+nature: 3.3
+leisure: 6.3
+adventure: 2.9
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Debrecen is Hungary's second city, and it has always done things its own way. While [Budapest](/europe/hungary/budapest) looked to Vienna and the Catholic Habsburgs, Debrecen looked east and embraced Calvinism. The Great Reformed Church on Kossuth tér — the largest Protestant church in Hungary — still dominates the city center, and the Reformed College next to it has been a center of Hungarian learning since the sixteenth century. It was in this church that Lajos Kossuth declared Hungarian independence from Austria in 1849, and the city briefly served as the nation's capital.

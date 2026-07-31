@@ -16,6 +16,11 @@ snippet: Taiwanese capital in a mountain-ringed basin, mixing night markets, tem
   and a modern skyline.
 title: Taipei
 type: location
+nature: 2.6
+leisure: 6.6
+adventure: 3.2
+city_culture: 7.6
+historic_culture: 7.6
 ---
 
 Taipei is the capital and by far the largest city in [Taiwan](/asia/taiwan), home to about 2.6 million people in the city proper and around 7 million in the greater metropolitan area. It sits in a basin surrounded by low mountains, with the Danshui River running along its western edge. The city has rebuilt itself almost entirely since 1949 and is thoroughly modern, though older temple districts and Japanese colonial buildings survive in pockets throughout.

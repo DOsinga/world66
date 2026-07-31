@@ -10,6 +10,11 @@ title: Barnstaple
 snippet: North Devon market town on the Taw estuary, anchored by its Pannier Market
   and Tarka Trail.
 type: location
+nature: 5.3
+leisure: 4.9
+adventure: 4.7
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Barnstaple is the main town of North Devon and has been a market town since Saxon times. The covered [Pannier Market](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/barnstaple/pannier_market), built in 1855, still operates several days a week selling local produce, crafts, and antiques. Butchers Row, a line of Victorian shops beside the market, is one of the most photographed streets in Devon. [Queen Anne's Walk](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/barnstaple/queen_annes_walk), the 18th-century merchants' exchange on the riverside, is another landmark worth seeking out.

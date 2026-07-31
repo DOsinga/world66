@@ -14,6 +14,11 @@ snippet: Drenthe brink village with a traditional green, medieval church, and he
   cycling nearby.
 title: Ruinen
 type: location
+nature: 4.1
+leisure: 4.4
+adventure: 4.9
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Ruinen is a traditional brink village in Drenthe, one of those quiet Dutch settlements built around a village green where sheep once grazed. The surrounding landscape is all heathland, forest and cycling paths — this is the kind of place where you come to slow down.

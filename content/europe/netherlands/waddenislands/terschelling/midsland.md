@@ -10,6 +10,11 @@ snippet: Central Terschelling village with Frisian houses, island restaurants, a
   easy cycling to beach and dunes.
 title: Midsland
 type: location
+nature: 5.5
+leisure: 4.8
+adventure: 4.9
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Midsland is the main village on [Terschelling](/europe/netherlands/waddenislands/terschelling), sitting roughly in the centre of the island. It is where most visitors end up — the village has the island's best concentration of restaurants, cafes, and shops, and several campsites are within cycling distance.

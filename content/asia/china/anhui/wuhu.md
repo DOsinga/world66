@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Wuhu
 title: Wuhu
 type: location
+nature: 4.7
+leisure: 5.4
+adventure: 4.0
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Wuhu is a Yangtze port city that has spent most of its modern history in Nanjing's shadow, close enough to the Jiangsu capital (forty minutes by high-speed rail) that it has never quite developed a distinct tourist identity of its own. That proximity cuts both ways: it means Wuhu is well-connected and relatively cosmopolitan for a city of its size, but it also means visitors who could be in either place usually choose Nanjing.

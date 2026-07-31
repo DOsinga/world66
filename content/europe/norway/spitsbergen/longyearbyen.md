@@ -13,6 +13,11 @@ snippet: Arctic settlement and Svalbard gateway, set among glaciers, coal histor
   and polar light
 title: Longyearbyen
 type: location
+nature: 8.7
+leisure: 4.6
+adventure: 5.4
+city_culture: 1.5
+historic_culture: 1.5
 ---
 
 Longyearbyen is the administrative capital of Svalbard and the main gateway for visitors to the archipelago. Named after the American coal magnate John Munro Longyear, who opened the first mine here in 1906, the town sits in the Longyear Valley surrounded by mountains and glaciers. With around 2,500 inhabitants — scientists, miners, tourism workers, and their families — it is the world's northernmost settlement of any real size.

@@ -10,6 +10,11 @@ title: Siguatepeque
 type: location
 snippet: Honduran mountain town between Tegucigalpa and San Pedro Sula, with cool
   air and a lively market street.
+nature: 5.5
+leisure: 3.8
+adventure: 5.7
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Siguatepeque sits in the mountains halfway between [Tegucigalpa](/northamerica/honduras/tegucigalpa) and [San Pedro Sula](/northamerica/honduras/sanpedrosula), often dismissed as a truck stop on the highway between Honduras's two main cities. That is a mistake. The town has a cooler climate than either capital, a lively main street ([Calle 21 de Agosto](/northamerica/honduras/siguatepeque/calle_21_de_agosto), known locally as "Veinte-uno"), and a genuine small-city charm that rewards a stop.

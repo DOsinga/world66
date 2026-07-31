@@ -16,6 +16,11 @@ title: Accra
 snippet: Atlantic Ghanaian capital where Ga fishing roots, colonial forts, markets,
   and modern banking towers collide.
 type: location
+nature: 4.5
+leisure: 5.5
+adventure: 4.3
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 *Africa > Ghana > Accra*

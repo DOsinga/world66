@@ -14,6 +14,11 @@ snippet: Trent River town on the Trent-Severn Waterway, with canal heritage and 
   giant toonie by the water
 title: Campbellford
 type: location
+nature: 4.2
+leisure: 5.2
+adventure: 3.8
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Campbellford is a small town of about 3,500 on the Trent River in Northumberland County, Ontario, roughly midway between Toronto and Ottawa. It sits on the [Trent-Severn Waterway](/northamerica/canada/ontario/campbellford/trent_severn_waterway), the historic canal route that links Lake Ontario to Georgian Bay — a popular route for recreational boaters and canoeists. The town has a pleasant riverside character around [Old Mill Park](/northamerica/canada/ontario/campbellford/old_mill_park), where a [27-foot replica of the Canadian toonie](/northamerica/canada/ontario/campbellford/giant_toonie) commemorates the local artist who designed the coin's polar bear.

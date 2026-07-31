@@ -13,6 +13,11 @@ snippet: Tunisian beach city where a resort-lined Mediterranean shore meets a UN
   medieval Medina
 title: Sousse
 type: location
+nature: 3.9
+leisure: 7.0
+adventure: 2.7
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 **Sousse** is Tunisia's third-largest city and the main beach resort on its central coast — a city of about 270,000 people about 140 km south of Tunis, with a long sandy Mediterranean beach fringed by resort hotels and a **UNESCO-listed medieval Medina** at its heart. It is the easiest beach destination in Tunisia for European travellers (flights direct from several European cities to nearby **Monastir Airport**) and is the country's best combination of classic Mediterranean beach resort and proper Arab-Islamic old town.

@@ -10,6 +10,11 @@ title: Long Beach Peninsula
 snippet: Pacific peninsula between surf and Willapa Bay, known for drivable beach,
   oysters, and Oysterville's old houses.
 type: location
+nature: 5.4
+leisure: 5.7
+adventure: 3.9
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 The Long Beach Peninsula is a 28-mile strip of land in the southwestern corner of Washington State, caught between the Pacific and Willapa Bay. It is one of the longest uninterrupted stretches of drivable beach on the west coast of North America, and at low tide the hard-packed sand makes for easy walking or driving for miles in either direction.

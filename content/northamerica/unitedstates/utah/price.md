@@ -14,6 +14,11 @@ snippet: Eastern Utah coal town near Colorado Plateau canyon country, known for 
   fossils and Nine Mile Canyon rock art.
 title: Price
 type: location
+nature: 7.3
+leisure: 4.3
+adventure: 5.3
+city_culture: 2.2
+historic_culture: 2.2
 ---
 
 Price is a small city in Carbon County in eastern Utah, sitting at the edge of the Colorado Plateau roughly two hours southeast of Salt Lake City. It is a working coal-mining town without much tourist gloss, but it punches above its weight for anyone interested in prehistoric life: the [USU Eastern Prehistoric Museum](/northamerica/unitedstates/utah/price/usu_eastern_museum) holds one of the finest collections of dinosaur fossils in the region, including the fearsome Utahraptor and the long-necked Camarasaurus.

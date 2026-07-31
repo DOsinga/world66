@@ -9,6 +9,11 @@ snippet: Ancient alkaline Sierra Nevada lake where limestone tufa towers rise fr
   mineral-white shores and bird-rich water.
 title: Mono Lake
 type: location
+nature: 7.4
+leisure: 4.8
+adventure: 4.9
+city_culture: 2.4
+historic_culture: 2.4
 ---
 
 Mono Lake is one of the oldest lakes in North America, formed about 700,000 years ago on the eastern side of the Sierra Nevada near the state border with Nevada. It is a strange, beautiful, and slightly eerie place — the white, mineral-encrusted shores and ghostly tufa towers of limestone rising from the alkaline water look like they belong on another planet.

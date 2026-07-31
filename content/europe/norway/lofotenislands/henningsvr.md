@@ -18,6 +18,11 @@ sources:
 - https://en.wikipedia.org/wiki/Henningsv%C3%A6r_Church
 title: Henningsvær
 type: location
+nature: 7.9
+leisure: 5.9
+adventure: 4.0
+city_culture: 1.8
+historic_culture: 1.8
 ---
 
 Henningsvær sits at the foot of Mount Vågakaillen, a cluster of isles and islets scattered across the blue waters of the Vestfjord. With mountains at its back and the sea on every other side, it was a natural hub during the Lofoten winter fishery, and in the 1800s the village prospered into one of the most prominent fishing communities in Lofoten.

@@ -10,6 +10,11 @@ snippet: South Greenland island town surrounded by Arctic granite peaks and colo
   former Royal Greenland trade buildings.
 title: Nanortalik
 type: location
+nature: 9.0
+leisure: 1.9
+adventure: 8.2
+city_culture: 1.5
+historic_culture: 1.5
 ---
 
 Nanortalik (population around 1,300) sits on a small island in the archipelago at the southern tip of Greenland, surrounded by some of the most dramatic granite peaks in the Arctic. The name means "place of polar bears" in Greenlandic, though bears are rarely seen this far south today.

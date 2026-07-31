@@ -14,6 +14,11 @@ snippet: Canary Island of volcanic near-desert, constant wind, and some of Spain
   broadest beaches.
 title: Fuerteventura
 type: location
+nature: 5.6
+leisure: 7.7
+adventure: 2.3
+city_culture: 3.1
+historic_culture: 3.1
 ---
 
 Fuerteventura is the oldest of the Canary Islands and the closest to the African coast, just 100 kilometres from Morocco. It is also the least developed, the least crowded, and the one with the best beaches. If you want turquoise water and white sand without fighting for a towel spot, this is your island.

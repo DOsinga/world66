@@ -16,6 +16,11 @@ sources:
 - https://www.openstreetmap.org/
 title: Palakkad
 type: location
+nature: 4.0
+leisure: 4.3
+adventure: 5.1
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Palakkad is Kerala's inland gateway, sitting in the Palghat Gap where the Western Ghats open toward Tamil Nadu. It is less lush and less tourist-shaped than the coast or the hill stations, but that makes it useful: a real market town with rail connections, temple streets, paddy fields and hot, dry afternoons that feel more Tamil than Keralan.

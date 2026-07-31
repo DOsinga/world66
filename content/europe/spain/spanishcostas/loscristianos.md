@@ -15,6 +15,11 @@ image_source: https://commons.wikimedia.org/wiki/File:Los_Cristianos.jpg
 image_license: CC BY 3.0
 image_attribution: Raenmaen
 score: 7.99
+nature: 5.3
+leisure: 7.3
+adventure: 2.5
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 Los Cristianos began as a fishing village and still has a little more everyday texture than neighbouring Playa de las Américas, though the two now run together along the south Tenerife coast. It is a resort, certainly, but one with a working [port](/europe/spain/spanishcostas/loscristianos/port_of_los_cristianos), ferry passengers, older streets, and a proper town centre behind the beach.

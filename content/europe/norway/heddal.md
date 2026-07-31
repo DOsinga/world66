@@ -14,6 +14,11 @@ snippet: Telemark village known for Heddal Stave Church, Norway's largest surviv
   medieval timber church.
 title: Heddal
 type: location
+nature: 5.0
+leisure: 5.6
+adventure: 3.9
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Heddal is a small village in Telemark, about 150 km southwest of Oslo, known for one thing: the [Heddal Stave Church](/europe/norway/heddal/stave_church), the largest of Norway's surviving stave churches. Built in the early 13th century, the triple-nave structure rises in tiers of dark tarred timber and looks almost impossibly intricate from the outside.

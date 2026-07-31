@@ -7,6 +7,11 @@ snippet: Ancient English forest region of former mining railways, Wye Valley wat
   and family cycling trails
 title: Forest of Dean
 type: location
+nature: 6.6
+leisure: 4.4
+adventure: 5.0
+city_culture: 3.2
+historic_culture: 3.2
 ---
 
 Travel Guide

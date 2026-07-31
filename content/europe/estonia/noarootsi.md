@@ -14,6 +14,11 @@ title: Noarootsi
 snippet: Coastal parish on Estonia's west coast shaped by centuries of Swedish settlement
   and Baltic fishing villages.
 type: location
+nature: 4.7
+leisure: 5.5
+adventure: 3.8
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Noarootsi is a quiet coastal parish on Estonia's west coast, just north of [Haapsalu](/europe/estonia/haapsalu). Known as Nuckö in Swedish, it sits on a low-lying peninsula facing the Baltic, with reed beds, juniper-dotted meadows, and a handful of stone-walled fishing villages that feel far removed from the mainland.

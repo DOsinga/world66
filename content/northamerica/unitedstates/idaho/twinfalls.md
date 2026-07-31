@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Perrine_Bridge
 title: Twin Falls
 type: location
+nature: 6.7
+leisure: 5.1
+adventure: 4.6
+city_culture: 3.0
+historic_culture: 3.0
 ---
 
 Twin Falls sits on the rim of the [Snake River Canyon](/northamerica/unitedstates/idaho/twinfalls/snake_river_canyon) in south-central Idaho, and the scenery here is genuinely dramatic. [Shoshone Falls](/northamerica/unitedstates/idaho/twinfalls/shoshone_falls), just east of town, drops 212 feet, making it higher than Niagara, and on a spring day with full water flow it is spectacular. The falls are best visited between April and July before irrigation draws down the river level. There is a modest park entrance fee, and the viewing platforms give you a good look at the whole cascade.

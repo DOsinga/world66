@@ -18,6 +18,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Shanghai
 title: Shanghai
 type: location
+nature: 0.9
+leisure: 8.9
+adventure: 1.1
+city_culture: 8.6
+historic_culture: 8.6
 ---
 
 "Paris of the Orient" was the name Shanghai earned in the early 20th century, when it was the financial capital of Asia, a haven for adventurers, exiles and gangsters, and the most cosmopolitan city in the world. The Communist victory in 1949 closed the port and stripped the city of its glamour for four decades; the reopening in the 1990s and the explosion of Pudong have made it once again one of the most dynamic places on earth. Today's Shanghai is a city of 25 million people that holds both halves of its history at once.

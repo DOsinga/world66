@@ -14,6 +14,11 @@ snippet: Morelos city of thermal springs and revolutionary history, set southeas
   of Mexico City
 title: Cuautla
 type: location
+nature: 4.2
+leisure: 5.0
+adventure: 4.3
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Cuautla is a city in the state of Morelos, about 75 km southeast of Mexico City. It's best known for its thermal springs — sulphurous balnearios that have drawn visitors for centuries and still fill up with city-dwellers on weekends.

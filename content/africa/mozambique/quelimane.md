@@ -14,6 +14,11 @@ snippet: Mozambican port city in the Bons Sinais delta, with Portuguese-era arch
   and a busy municipal market.
 title: Quelimane
 type: location
+nature: 5.0
+leisure: 3.2
+adventure: 6.2
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Quelimane is the capital of Zambezia province, sitting in the delta of the [Bons Sinais River](/africa/mozambique/quelimane/bons_sinais_river) near the Indian Ocean coast. It's a working port city rather than a tourist destination — most travellers pass through on the way between Beira and Nampula.

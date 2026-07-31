@@ -14,6 +14,11 @@ snippet: Omani lagoon port where traditional dhow builders keep the town's India
   Ocean seafaring history visible.
 title: Sur
 type: location
+nature: 4.8
+leisure: 3.7
+adventure: 6.1
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Sur is one of Oman's oldest port towns, sitting on a sheltered lagoon where the Gulf of Oman meets the Arabian Sea, about 350 km south-east of Muscat. For centuries its fortune was built on the sea — Sur dhows sailed as far as East Africa, India, and the Persian Gulf, and the town still maintains one of the last working [traditional boat-building yards](/asia/oman/sur/dhow_yard) in the Arab world. Watching a craftsman shape a wooden hull using techniques unchanged for generations is reason enough to come.

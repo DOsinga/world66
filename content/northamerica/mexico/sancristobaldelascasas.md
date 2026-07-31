@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas
 title: San Cristóbal de las Casas
 type: location
+nature: 5.1
+leisure: 5.2
+adventure: 4.3
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 San Cristóbal de las Casas sits at 2,200 metres in the cool, forested highlands of Chiapas, and it feels a world apart from the beach resorts and lowland heat of most of Mexico. The cobbled streets, painted colonial houses, and handsome churches give the town a beauty that has made it something of a magnet for travellers, artists, and expats. But the real reason to spend a few days here is the living indigenous culture that surrounds it.

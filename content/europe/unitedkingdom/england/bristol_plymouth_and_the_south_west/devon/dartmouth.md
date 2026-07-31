@@ -16,6 +16,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Dartmouth_(Devon)
 title: Dartmouth
 type: location
+nature: 5.1
+leisure: 5.5
+adventure: 4.1
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 *Europe > United Kingdom > England > Bristol, Plymouth and the South West > Devon > Dartmouth*

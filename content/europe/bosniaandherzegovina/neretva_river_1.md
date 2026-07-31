@@ -9,6 +9,11 @@ snippet: Eastern Adriatic river rising in the Dinaric Alps and defining much of 
   and Herzegovina's landscape.
 title: Neretva River
 type: location
+nature: 5.7
+leisure: 5.2
+adventure: 4.3
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 The Neretva is the largest river of the eastern Adriatic basin and the defining waterway of Bosnia and Herzegovina. It runs 230 km in total — 208 km through Bosnia and Herzegovina, the rest through Croatia — before emptying into the Adriatic Sea. The watershed covers 10,380 km².

@@ -14,6 +14,11 @@ title: Ontinyent
 snippet: Inland Valencian city in the Vall d'Albaida, known for its Moros i Cristians
   festival.
 type: location
+nature: 4.1
+leisure: 5.8
+adventure: 3.8
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Ontinyent is a small city of about 36,000 people in the Valencia region, tucked into the hills of the Vall d'Albaida — a wide inland valley an hour's drive from the coast. It has a compact old quarter rising to a [Moorish-era castle](/europe/spain/ontinyent/castell_ontinyent) with views over the surrounding hills, and a pleasant central square that comes alive in the evenings.

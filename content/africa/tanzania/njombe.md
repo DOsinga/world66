@@ -14,6 +14,11 @@ title: Njombe
 type: location
 snippet: Cool Southern Highlands town in Tanzania, marked by mission history and a
   highland setting.
+nature: 7.1
+leisure: 2.3
+adventure: 7.2
+city_culture: 3.2
+historic_culture: 3.2
 ---
 
 Njombe sits at about 2,000 metres in the Southern Highlands of Tanzania, making it one of the coolest towns in the country — in June to August it can be genuinely cold by East African standards. The climate attracted missionaries in large numbers, and the town's single main street is lined with an unusual concentration of [churches](/africa/tanzania/njombe/diocese_of_njombe).

@@ -16,6 +16,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Falkirk
 title: Falkirk
 type: location
+nature: 5.0
+leisure: 4.3
+adventure: 5.1
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 *Europe > United Kingdom > Scotland > Falkirk*

@@ -9,6 +9,11 @@ snippet: Adriatic island national park of bare limestone islets, steep sea cliff
   and boat-only access.
 title: Kornati National Park
 type: location
+nature: 7.4
+leisure: 5.7
+adventure: 4.1
+city_culture: 2.3
+historic_culture: 2.3
 ---
 
 Kornati National Park is an archipelago of 89 islands, islets, and reefs in the central Adriatic, about 15 nautical miles west of Šibenik. The park covers around 220 square kilometres and has 238 kilometres of coastline — the most indented group of islands in the Mediterranean.

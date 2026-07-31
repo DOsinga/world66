@@ -14,6 +14,11 @@ snippet: Kauai mill town where Hawaii's first commercial sugar plantation began,
   gateway to Poipu.
 title: Koloa
 type: location
+nature: 5.8
+leisure: 7.7
+adventure: 2.3
+city_culture: 3.1
+historic_culture: 3.1
 ---
 
 Koloa is where sugar came to Hawaii. The old mill town on Kauai's sunny south shore was the site of Hawaii's first commercial sugar plantation, founded in 1835, and the remnants of that history — a stone chimney stack, a bronze plaque, a row of monkeypod trees — still anchor the little main street. Today Old Koloa Town is a compact strip of wooden storefronts selling shave ice, surf gear, and Kauai-grown coffee, pleasant enough for an hour's wander but not the reason you are here.

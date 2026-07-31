@@ -15,6 +15,11 @@ snippet: Large Silicon Valley city with Spanish colonial roots, rare Japantown, 
   tech-era museums
 title: San Jose
 type: location
+nature: 3.6
+leisure: 6.4
+adventure: 3.0
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 San Jose is California's oldest city, its original state capital, and the self-proclaimed capital of Silicon Valley. With over a million residents, it is the third largest city in the state — and one of the most ethnically diverse, with residents speaking more than 50 languages.

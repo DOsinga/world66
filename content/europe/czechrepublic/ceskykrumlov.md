@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/%C4%8Cesk%C3%BD_Krumlov
 title: Český Krumlov
 type: location
+nature: 2.3
+leisure: 7.6
+adventure: 2.2
+city_culture: 8.1
+historic_culture: 8.1
 ---
 
 Český Krumlov is one of the most strikingly beautiful small towns in Central Europe. A tight loop of the Vltava river almost completely encircles the old town, and above it rises a vast castle complex — the second largest in the Czech Republic after Prague Castle. The entire historic center is a UNESCO World Heritage Site.

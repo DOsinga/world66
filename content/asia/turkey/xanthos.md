@@ -15,6 +15,11 @@ tags:
 - unesco
 title: Xanthos
 type: location
+nature: 3.7
+leisure: 4.9
+adventure: 4.6
+city_culture: 7.3
+historic_culture: 7.3
 ---
 
 Xanthos, in the Xanthos River valley about 230 km west of Antalya, was the capital of ancient Lycia — one of the most powerful and culturally distinct city-states of the ancient Mediterranean. The city has one of the most dramatic histories of any ancient site in Turkey: besieged twice, its citizens chose mass suicide over surrender, both times gathering their families into the citadel and burning it down before sallying out to die fighting.

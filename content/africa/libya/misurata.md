@@ -10,6 +10,11 @@ snippet: Libyan port city east of Tripoli, marked by Phoenician roots and the 20
   siege
 title: Misurata
 type: location
+nature: 4.7
+leisure: 1.6
+adventure: 8.2
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Misurata is Libya's third largest city, with a population of around 300,000. It sits on the site of an ancient Phoenician trading post, some 200 km east of [Tripoli](/africa/libya/tripoli) and 825 km west of [Benghazi](/africa/libya/benghazi).

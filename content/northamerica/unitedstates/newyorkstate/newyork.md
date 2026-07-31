@@ -17,6 +17,11 @@ snippet: Vast five-borough city of museums, theaters, immigrant neighborhoods, a
   restless street life beside the Hudson.
 title: New York
 type: location
+nature: 2.2
+leisure: 4.8
+adventure: 4.9
+city_culture: 8.8
+historic_culture: 8.8
 ---
 
 New York City is five boroughs, eight million people, and an argument that has never quite been settled. It is overwhelming in the best possible way: dense, loud, expensive, and unlike anywhere else. You can spend weeks here and still feel like you've barely scratched the surface, which is partly the point.

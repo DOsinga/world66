@@ -10,6 +10,11 @@ snippet: Scottish river town and former royal centre, close to Scone Palace and 
   edges
 title: Perth
 type: location
+nature: 4.4
+leisure: 5.6
+adventure: 3.8
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Perth sits on the River Tay at the southern edge of the Highlands, a position that made it one of the most strategically important towns in medieval Scotland. It was a royal residence throughout the Middle Ages and served as the effective capital of Scotland until the 15th century — hence the unofficial title "The Ancient Capital of Scotland." The town centre retains its medieval street pattern, flanked by two large parks (the [North Inch](/europe/unitedkingdom/scotland/perth/north_inch) and South Inch) where clan conflicts and the 1715 Jacobite uprising left their marks.

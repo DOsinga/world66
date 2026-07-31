@@ -17,6 +17,11 @@ snippet: High Andean capital where colonial La Candelaria, street art, and glass
   sit at 2,640 metres
 title: Bogota
 type: location
+nature: 3.2
+leisure: 6.5
+adventure: 3.3
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Bogota sits at 2,640 metres in the eastern Andes, a sprawling capital of eight million people where colonial churches share blocks with glass towers and street art covers every spare wall. The altitude catches newcomers off guard -- the air is thin, the sun surprisingly strong, and the temperature hovers around 14 degrees year-round. Give yourself a day to adjust before tackling the hills.

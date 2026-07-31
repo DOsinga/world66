@@ -13,6 +13,11 @@ title: Newport News
 snippet: James River shipbuilding city on the Virginia Peninsula, known for aircraft
   carriers and maritime history
 type: location
+nature: 3.9
+leisure: 5.7
+adventure: 3.4
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Newport News stretches along the northern shore of the James River on the Virginia Peninsula and has been defined by shipbuilding for over a century. [Newport News Shipbuilding](/northamerica/unitedstates/virginia/newportnews/newport_news_shipbuilding), now part of Huntington Ingalls Industries, is the only yard in the United States that builds nuclear-powered aircraft carriers, and the military presence shapes the city's economy and culture. It is not a tourist town by nature, but it has a couple of attractions that are genuinely worth your time.

@@ -14,6 +14,11 @@ snippet: Mountainous Ionian island known for limestone landscapes, coves, and be
   such as Myrtos.
 title: Kefalonia
 type: location
+nature: 5.0
+leisure: 7.7
+adventure: 2.2
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 Kefalonia is the largest of the Ionian Islands, a mountainous island off the western coast of Greece that gained international fame through Louis de Bernières' novel Captain Corelli's Mandolin. The island was devastated by an earthquake in 1953 that destroyed most of its Venetian-era towns, so the architecture is mostly modern — but the landscape more than compensates: dramatic limestone mountains, hidden coves, and some of the most beautiful beaches in Greece.

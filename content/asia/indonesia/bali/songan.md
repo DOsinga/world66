@@ -14,6 +14,11 @@ snippet: Lakeside Balinese village inside Batur crater, with caldera trails and 
   lake fish.
 title: Songan
 type: location
+nature: 4.5
+leisure: 6.3
+adventure: 3.4
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Located at the north end of [Lake Batur](/asia/indonesia/bali/songan/lake_batur) inside Batur crater, the appeal of Songan is its spectacular location. Following the lake shore to the crater wall, you reach a temple; past it, a short but strenuous trail climbs to the [crater rim](/asia/indonesia/bali/songan/crater_rim_trail), where the view opens in both directions — the caldera with its lake and volcano behind, and the ocean below with Lombok visible on a clear day.

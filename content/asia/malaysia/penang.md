@@ -14,6 +14,11 @@ snippet: Malaysian island state off the northwest coast, linked to the mainland 
   long bridges.
 title: Penang
 type: location
+nature: 3.2
+leisure: 8.5
+adventure: 1.4
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Penang — **Pulau Pinang** in Malay — is a 280 km² island off the north-west coast of **Peninsular Malaysia**, joined to the mainland by the 14-kilometre Penang Bridge and the even longer second bridge at Batu Kawan. It was the first British foothold in Malaya, founded by **Captain Francis Light** in 1786 as a trading post of the East India Company, and the legacy of that history — British, Chinese, Indian, Malay, Peranakan, Siamese, all layered on the same small island — has made Penang the most culturally diverse place in Malaysia. It is also, by almost universal consensus, the best place in the country to eat.

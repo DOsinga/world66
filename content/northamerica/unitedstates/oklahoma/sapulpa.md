@@ -14,6 +14,11 @@ snippet: Route 66 town in Creek County, shaped by railroads, oil, glassmaking, a
   preserved early downtown blocks.
 title: Sapulpa
 type: location
+nature: 4.2
+leisure: 3.8
+adventure: 5.3
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Located on Historic Route 66, Sapulpa is the county seat of Creek County with over 19,000 people. From Indian Territory history to the Glenpool oil strike, from railroad town to glass and pottery manufacturing, Sapulpa has been shaped by diverse influences. The Main Street project has preserved the distinctive downtown district, most of which was built before the 1920s.

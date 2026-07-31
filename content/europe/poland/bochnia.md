@@ -13,6 +13,11 @@ score: 6.92
 title: Bochnia
 snippet: Southern Polish town near Kraków, known for one of Europe's oldest salt mines.
 type: location
+nature: 4.0
+leisure: 5.7
+adventure: 3.6
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Bochnia is a small town in southern Poland, about 40 km east of Kraków, best known for its [salt mine](/europe/poland/bochnia/bochnia_salt_mine) — the oldest in Poland and one of the oldest in Europe, predating even the more famous one at Wieliczka. The mine has been in operation since at least the 13th century and is now a UNESCO World Heritage Site. Underground, you will find carved chambers, a chapel, a health spa, and even a fitness centre — all hewn out of rock salt hundreds of metres below the surface.

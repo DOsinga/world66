@@ -13,6 +13,11 @@ snippet: Hilltop Auvergne village of dark basalt mansions, Renaissance squares, 
   medieval lanes above volcanic countryside.
 title: Salers
 type: location
+nature: 4.1
+leisure: 5.8
+adventure: 3.9
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Salers, situated north and east of Aurillac, is an ancient town at the top of a hill. Visitors park below and walk up — certainly no hardship for the majority.

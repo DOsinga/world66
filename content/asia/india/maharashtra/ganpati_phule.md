@@ -14,6 +14,11 @@ snippet: Konkan coastal town with a crescent beach and the hilltop Swayambhu Gan
   Temple
 title: Ganpatipule
 type: location
+nature: 5.0
+leisure: 6.6
+adventure: 3.0
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Ganpatipule is a small coastal town on Maharashtra's Konkan coast, about 350 kilometres south of Mumbai. It sits on a crescent-shaped bay backed by coconut palms, with a [long sandy beach](/asia/india/maharashtra/ganpati_phule/ganpatipule_beach) that is remarkably clean and uncrowded by Indian standards. The town is best known for the [Swayambhu Ganpati Temple](/asia/india/maharashtra/ganpati_phule/swayambhu_ganpati_temple), a hilltop shrine housing a naturally formed Ganesh idol that draws Hindu pilgrims from across western India.

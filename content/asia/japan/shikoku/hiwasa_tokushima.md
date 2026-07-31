@@ -14,6 +14,11 @@ snippet: Small Shikoku coastal town with Yakuōji Temple, sea turtles, and views
   the Pacific.
 title: Hiwasa
 type: location
+nature: 4.8
+leisure: 5.3
+adventure: 4.1
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 About two hours south of [Tokushima City](/asia/japan/shikoku/tokushima) on the coast, Hiwasa is a small town with a couple of compelling reasons to stop. The train station rents bicycles, but Hiwasa is small enough to explore comfortably on foot.

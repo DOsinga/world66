@@ -14,6 +14,11 @@ title: Namur
 snippet: Walloon capital at the Sambre-Meuse confluence, watched over by a fortress
   citadel and tunnel network.
 type: location
+nature: 2.5
+leisure: 7.1
+adventure: 2.3
+city_culture: 7.7
+historic_culture: 7.7
 ---
 
 Namur sits at the [confluence of the Sambre and the Meuse](/europe/belgium/namur/sambre_meuse_confluence), a strategic position that made it one of the most contested cities in the Low Countries for centuries. The massive [Citadel](/europe/belgium/namur/citadel_of_namur) looming over the rivers is the main reminder of that history — you can walk the ramparts and tour five kilometres of tunnels for views over the city and the wooded valleys below.

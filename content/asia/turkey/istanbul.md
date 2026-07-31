@@ -17,6 +17,11 @@ snippet: Turkish metropolis on the Bosphorus, layered with Byzantine, Ottoman, a
   modern districts across two continents.
 title: Istanbul
 type: location
+nature: 1.1
+leisure: 9.0
+adventure: 1.1
+city_culture: 8.7
+historic_culture: 8.7
 ---
 
 No city in the world has been a capital of two empires for so long, on two continents, straddling a strait that separates Europe from Asia. Istanbul is overwhelming in the best possible sense — the kind of place that makes other cities feel thin.

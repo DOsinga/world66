@@ -13,6 +13,11 @@ snippet: Southern Alps railway town known for Grès d'Annot boulders and medieva
   pressed against stone.
 title: Annot
 type: location
+nature: 5.8
+leisure: 5.2
+adventure: 4.6
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Annot is a small town in the Southern Alps with more accommodation than you would expect for its size, thanks to its position on the scenic [Train des Pignes](/europe/france/midi/southern_alps/train_des_pignes) line. The mountains above the railway are littered with massive sandstone boulders called [Grès d'Annot](/europe/france/midi/southern_alps/annot/the_gres_boulders) — some the size of houses — and the walk between them is short but thrilling.

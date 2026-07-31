@@ -14,6 +14,11 @@ image_license: CC BY-SA 4.0
 image_attribution: MichalPL
 snippet: Upper Silesian industrial city best known for the underground Guido Mine
   heritage museum.
+nature: 3.8
+leisure: 4.7
+adventure: 4.3
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Zabrze is an industrial city in the heart of Upper Silesia, and the main reason to visit is underground. The [Guido Mine](/europe/poland/zabrze/guido_mine), a former coal mine turned museum, takes visitors 320 metres below the surface into tunnels where miners worked until 1996. It is one of the most impressive industrial heritage sites in Europe — the sheer scale of the underground chambers, some of which now host concerts and events, is hard to convey without seeing it.

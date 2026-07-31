@@ -16,6 +16,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Smolensk
 title: Smolensk
 type: location
+nature: 3.5
+leisure: 4.5
+adventure: 5.0
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 Smolensk is one of Russia's oldest cities, sitting on the upper Dnieper River about 360 kilometres west-southwest of Moscow, close to the border with Belarus. Its position on the main east-west route across the European plain has made it a place of strategic importance — and catastrophic destruction — across twelve centuries. Smolensk has been sacked, besieged, burned, and fought over more times than almost any other city in Russia, and this history of violence is embedded in its landscape of fortifications, churches, and memorials.

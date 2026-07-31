@@ -14,6 +14,11 @@ snippet: Liberian capital on the Mesurado River peninsula, founded in 1822 by fr
   American slaves.
 title: Monrovia
 type: location
+nature: 5.4
+leisure: 2.3
+adventure: 7.1
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Monrovia is the capital and largest city of Liberia, founded in 1822 by freed American slaves repatriated under the auspices of the American Colonization Society. It was named after US President James Monroe, who supported the colonization effort. That origin — the oldest republic in Africa, built by formerly enslaved people — gives the city a history unlike anywhere else on the continent.

@@ -15,6 +15,11 @@ snippet: Compact medieval Irish city with Kilkenny Castle, limestone lanes, anci
   churches, and the Medieval Mile.
 title: Kilkenny
 type: location
+nature: 2.1
+leisure: 7.6
+adventure: 2.0
+city_culture: 8.2
+historic_culture: 8.2
 ---
 
 Kilkenny is Ireland's most beautifully preserved medieval city — compact enough to walk end to end in twenty minutes, but rich enough to keep you for several days. Narrow lanes of limestone buildings, a great Anglo-Norman castle, a round tower you can climb, and a string of ancient churches and abbeys make it one of the most satisfying cities to explore on foot anywhere in Ireland.

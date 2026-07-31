@@ -14,6 +14,11 @@ title: London, Ontario
 type: location
 snippet: Southwestern Ontario university city called the Forest City for its parks
   and tree-lined streets.
+nature: 2.7
+leisure: 6.2
+adventure: 3.0
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 London is a city of about 400,000 in southwestern [Ontario](/northamerica/canada/ontario), known as the "Forest City" for its large parks and extensive tree cover. Settled in 1826 and named after its English namesake, it grew into the commercial heart of the region between Kitchener and Chatham that Ontarians call Western Ontario.

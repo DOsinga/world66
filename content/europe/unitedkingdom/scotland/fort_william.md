@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Ben_Nevis
 title: Fort William
 type: location
+nature: 7.0
+leisure: 6.1
+adventure: 3.9
+city_culture: 2.7
+historic_culture: 2.7
 ---
 
 Fort William is a functional, sprawling town on the eastern shore of Loch Linnhe in the west of the Scottish Highlands — the largest settlement for a hundred miles in any direction and, for most visitors, the base from which to explore one of the most spectacular corners of Britain. The town itself has little to commend it beyond the supermarkets, hotels, and outdoor shops that make it a useful stopover. But the position is unbeatable: [Ben Nevis](/europe/unitedkingdom/scotland/fort_william/ben_nevis) rises directly behind the town, Glen Coe lies half an hour south, Loch Ness is an hour north, and the Road to the Isles runs west to Mallaig through some of the finest mountain-and-sea scenery in the country.

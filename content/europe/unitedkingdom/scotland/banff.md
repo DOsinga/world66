@@ -12,6 +12,11 @@ snippet: Historic Moray Firth town with Georgian streets, Duff House, and walks 
   the River Deveron.
 title: Banff
 type: location
+nature: 7.2
+leisure: 5.6
+adventure: 4.2
+city_culture: 2.7
+historic_culture: 2.7
 ---
 
 Banff is a small historic town on the Moray Firth coast of Aberdeenshire, where the River Deveron meets the sea. It received its royal burgh charter in 1372 and still retains a dense collection of 17th and 18th-century townhouses and public buildings, many of them Georgian, that give it a more architecturally distinguished character than most small Scottish coastal towns.

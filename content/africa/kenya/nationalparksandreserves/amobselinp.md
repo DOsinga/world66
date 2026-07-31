@@ -13,6 +13,11 @@ image_attribution: Bijay Chaurasia
 loc_type: feature
 snippet: Kenyan national park where elephants roam open plains beneath the Kilimanjaro
   skyline.
+nature: 7.9
+leisure: 6.3
+adventure: 3.5
+city_culture: 1.4
+historic_culture: 1.4
 ---
 
 Amboseli National Park is probably [Kenya's](/africa/kenya) second most visited park behind [Masai Mara](/africa/kenya/nationalparksandreserves/masaimaranr). The main attraction is its backdrop of Mount Kilimanjaro — if conditions are right you can get stunning shots of elephants or lions with the tallest mountain in Africa rising behind them. The park has more elephants per square kilometre than almost anywhere else, so close encounters with the huge animals are virtually guaranteed.

@@ -14,6 +14,11 @@ snippet: Ohio rubber-era city by Cuyahoga Valley, reinvented around downtown art
   university life, and parks
 title: Akron
 type: location
+nature: 3.3
+leisure: 5.0
+adventure: 4.1
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Akron sits in the foothills of the Cuyahoga Valley about 40 miles south of [Cleveland](/northamerica/unitedstates/ohio/cleveland). Once the rubber capital of the world — Goodyear, Firestone, and B.F. Goodrich were all headquartered here — the city has reinvented itself around its university, a revitalised downtown, and a surprisingly good food scene. [Cuyahoga Valley National Park](/northamerica/unitedstates/ohio/akron/cuyahoga_valley_national_park), which stretches north toward Cleveland, puts hiking trails, waterfalls, and the scenic Cuyahoga Valley Scenic Railroad within easy reach.

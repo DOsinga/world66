@@ -14,6 +14,11 @@ image: cairns.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cairns-marina.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Frances76 at English Wikipedia
+nature: 5.8
+leisure: 6.5
+adventure: 3.3
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 Cairns is tropical North Queensland's gateway city, the jumping-off point for the [Great Barrier Reef](/australiaandpacific/australia/queensland/greatbarrierreef) and the ancient [Daintree Rainforest](/australiaandpacific/australia/queensland/cairns/daintree_rainforest). It is not a pretty city in the conventional sense — there is no beach in the centre, and the mudflats at low tide will not make the postcards — but it has an energy and ease that grows on you fast.

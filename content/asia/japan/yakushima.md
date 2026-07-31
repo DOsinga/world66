@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Yakushima_National_Park
 title: Yakushima
 type: location
+nature: 7.2
+leisure: 5.6
+adventure: 4.2
+city_culture: 3.1
+historic_culture: 3.1
 ---
 
 Yakushima is a round, mountainous island about 60 kilometres south of Kyushu, and it feels like Japan's primeval heart. The interior is dominated by ancient cedar forest — yakusugi trees, some thousands of years old, draped in moss and fern in an atmosphere so damp and green that Hayao Miyazaki reportedly used it as inspiration for Princess Mononoke. UNESCO listed the island as a World Heritage Site in 1993, the same year as Himeji Castle and Horyu-ji — recognition that this island's ecological value ranks with Japan's greatest architectural treasures.

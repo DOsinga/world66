@@ -18,6 +18,11 @@ sources:
 - https://en.wikipedia.org/wiki/St._Michael%27s_Church,_Fulda
 title: Fulda
 type: location
+nature: 3.3
+leisure: 6.2
+adventure: 3.0
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Fulda is one of those German cities that functions as a kind of geographical and historical fulcrum. Located in eastern Hesse roughly equidistant from Frankfurt, Kassel, and Erfurt, it was founded around the Benedictine monastery established by Saint Boniface in 744, and Boniface — the English-born monk who more than any other individual is responsible for the Christianisation of Germany — is buried here. His tomb beneath the cathedral draws Catholic pilgrims from across the German-speaking world.

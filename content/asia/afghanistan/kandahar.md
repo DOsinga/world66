@@ -10,6 +10,11 @@ title: Kandahar
 snippet: Historic Afghan city and Pashtun heartland of pomegranate orchards, mud-walled
   compounds, and Durrani-era memory.
 type: location
+nature: 5.6
+leisure: 1.2
+adventure: 8.9
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Kandahar is Afghanistan's second city and its historical heart — the birthplace of the Pashtun nation, the seat of Ahmad Shah Durrani who founded the Durrani Empire in 1747, and the city from which the Taliban launched their conquest of Afghanistan in the 1990s. It sits in the south on a flat, sun-baked plain ringed by desert, a city of pomegranate orchards, mud-walled compounds, and deep conservatism. Of all Afghan cities, this one bears the most weight of recent history — and the least tolerance for outsiders.

@@ -14,6 +14,11 @@ snippet: Ancient Irish ecclesiastical city where twin St Patrick’s cathedrals 
   across Georgian streets
 title: Armagh
 type: location
+nature: 4.1
+leisure: 4.9
+adventure: 4.2
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Armagh is one of the oldest settlements in Ireland and the ecclesiastical capital of the island. Saint Patrick is said to have built his first stone church here in the fifth century, and the city still has two cathedrals that bear his name — [one Catholic](/europe/unitedkingdom/northernireland/armagh/st_patricks_cathedral_rc), [one Church of Ireland](/europe/unitedkingdom/northernireland/armagh/st_patricks_cathedral_coi) — facing each other from twin hilltops across the city centre.

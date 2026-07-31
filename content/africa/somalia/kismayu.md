@@ -10,6 +10,11 @@ snippet: Southern Somali port near the Kenyan border, tied to Jubba River trade 
   long Indian Ocean beaches.
 title: Kismayu
 type: location
+nature: 6.5
+leisure: 1.2
+adventure: 8.5
+city_culture: 4.0
+historic_culture: 4.0
 ---
 
 Kismayo (also spelled Kismaayo) is a port city in the far south of Somalia, near the Kenyan border. It is the country's second-largest port and the administrative centre of Jubaland state. Founded in 1872 by the Sultan of Zanzibar, it passed to the British, then to Italian Somaliland, then at independence became one of Somalia's busiest commercial ports — known for exporting bananas from the fertile Jubba River valley and for its long, beautiful beaches.

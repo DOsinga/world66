@@ -14,6 +14,11 @@ snippet: Silicon Valley's largest city, with Spanish pueblo origins and the ecce
   Winchester Mystery House.
 title: San Jose
 type: location
+nature: 3.6
+leisure: 6.4
+adventure: 3.0
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 San Jose is the largest city in the San Francisco Bay Area and the capital of Silicon Valley — a sprawling, low-rise city whose significance is technological rather than scenic. The original Spanish pueblo was founded in 1777, making it the oldest civil settlement in California, but almost nothing of colonial San Jose survives.

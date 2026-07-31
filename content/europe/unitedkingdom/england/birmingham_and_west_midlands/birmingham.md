@@ -12,6 +12,11 @@ snippet: Britain’s second city, shaped by industry, canals, multicultural neig
   and the Jewellery Quarter.
 title: Birmingham
 type: location
+nature: 2.5
+leisure: 7.0
+adventure: 2.3
+city_culture: 7.8
+historic_culture: 7.8
 ---
 
 Birmingham is Britain's second city and it has spent the last few decades proving it deserves the title. Built on industry — this is where the Industrial Revolution found its workforce — the city spent much of the twentieth century living down a reputation for concrete brutalism and spaghetti motorways. That era is over. The centre has been transformed, the canal network rivals Venice for total length, and the cultural scene punches well above its weight.

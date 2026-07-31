@@ -15,6 +15,11 @@ image: tuscumbia.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Helen_Keller_Home,_Ivy_Green,_in_Tuscumbia,_Alabama,_2025.jpg
 image_license: CC BY 4.0
 image_attribution: Peter K Burian
+nature: 4.0
+leisure: 5.3
+adventure: 3.8
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Tuscumbia is a small town in the Shoals area of northwest Alabama with a historic downtown full of family-owned shops and buildings that have stood for over a century. It is best known as the birthplace of Helen Keller.

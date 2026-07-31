@@ -11,6 +11,11 @@ snippet: Dublin Bay harbour town with Victorian streets and two long granite pie
   used for seaside walks.
 title: Dun Laoghaire
 type: location
+nature: 4.3
+leisure: 4.3
+adventure: 5.0
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Dun Laoghaire is a large town about 11 km south-east of [Dublin](/europe/ireland/dublin), on the southern curve of Dublin Bay. The name means "fort of King Laoghaire" — the 5th-century king who built a stronghold here. Today it’s a pleasant mix of Victorian terraced houses, a bustling harbour, and one of the easiest escapes from the city.

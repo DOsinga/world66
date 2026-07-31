@@ -14,6 +14,11 @@ title: Kedarnath
 type: location
 snippet: High Himalayan pilgrimage town centered on Kedarnath Temple, one of Shiva's
   twelve Jyotirlingas.
+nature: 7.0
+leisure: 4.0
+adventure: 5.9
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 Kedarnath sits at 3,583 metres in the Garhwal Himalayas and is home to one of the holiest Hindu shrines in India. The [Kedarnath Temple](/asia/india/uttaranchal/kedarnath/kedarnath_temple), dedicated to Lord Shiva, is one of the four Char Dham pilgrimage sites and one of the twelve Jyotirlingas. The stone temple is believed to date from the eighth century and was built by Adi Shankaracharya, whose [memorial samadhi](/asia/india/uttaranchal/kedarnath/shankaracharya_samadhi) stands directly behind it.

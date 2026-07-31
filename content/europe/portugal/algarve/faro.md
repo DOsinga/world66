@@ -15,6 +15,11 @@ snippet: Algarve capital and airport city, with a walled old town and access to 
   Formosa.
 title: Faro
 type: location
+nature: 5.0
+leisure: 8.0
+adventure: 2.1
+city_culture: 3.7
+historic_culture: 3.7
 ---
 
 Faro is the capital of the Algarve and home to the region's international airport, making it the first stop for most visitors. Many people rush straight to the beach resorts, but the town itself deserves at least a day.

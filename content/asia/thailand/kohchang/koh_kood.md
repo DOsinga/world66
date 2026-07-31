@@ -14,6 +14,11 @@ snippet: Quiet island in the Koh Chang archipelago, with palm-backed beaches, wa
   and rubber plantations.
 title: Koh Kood
 type: location
+nature: 6.7
+leisure: 7.4
+adventure: 2.4
+city_culture: 2.0
+historic_culture: 2.0
 ---
 
 The southernmost major island in the Koh Chang archipelago, Koh Kood is quieter and less developed than its bigger neighbor. The beaches are beautiful — long stretches of white sand backed by coconut palms — and the interior has waterfalls and rubber plantations. Most visitors come for a few days of doing very little, which is exactly the point.

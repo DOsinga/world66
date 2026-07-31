@@ -13,6 +13,11 @@ score: 7.77
 snippet: Old Holland merchant city of canals, gabled houses, and toll-rich river history.
 title: Dordrecht
 type: location
+nature: 2.6
+leisure: 6.5
+adventure: 2.6
+city_culture: 7.5
+historic_culture: 7.5
 ---
 
 Dordrecht — Dord to the locals — holds the distinction of being the oldest city in Holland, a merchant town that flourished when the Rhine and Maas rivers converged here and everything passing between the North Sea and the interior had to pay toll. That history left its mark: the historic centre has a compact network of old streets, canals, and gabled merchants' houses that feels entirely different from the purpose-built city centres that came later.

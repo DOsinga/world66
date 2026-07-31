@@ -13,6 +13,11 @@ sources:
 - https://gahc.org/
 title: Davenport
 type: location
+nature: 3.5
+leisure: 4.5
+adventure: 4.7
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Davenport is the largest of the Quad Cities and the main Iowa anchor on this bend of the Mississippi. It is a working river city rather than a polished weekend escape, with bridges, bluffs, old industrial edges, and enough museums to reward a stop.

@@ -15,6 +15,11 @@ image: takamatsu.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Hanazyukai20220729_7a.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Dokudami
+nature: 3.8
+leisure: 5.9
+adventure: 3.6
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Takamatsu is the gateway to Shikoku — the island most visitors reach by rail across the Seto-ohashi Bridge from Okayama. It is the largest city in Kagawa Prefecture and a modern, comfortable base for exploring the island's more remote corners. Largely rebuilt after being flattened by wartime bombing, it lacks old-city atmosphere, but compensates with Japan's finest strolling garden, an abundance of excellent udon, and easy ferry connections to the islands of the Seto Inland Sea.

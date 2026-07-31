@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Sapo_National_Park
 title: Sapo National Park
 type: location
+nature: 9.0
+leisure: 2.5
+adventure: 7.2
+city_culture: 1.3
+historic_culture: 1.3
 ---
 
 *Africa > [Liberia](/africa/liberia) > Sapo National Park*

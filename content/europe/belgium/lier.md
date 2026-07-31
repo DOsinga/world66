@@ -14,6 +14,11 @@ snippet: Quiet Flemish river town with a preserved beguinage and brick lanes nea
   Antwerp.
 title: Lier
 type: location
+nature: 3.7
+leisure: 5.1
+adventure: 4.0
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Lier is a quiet Flemish town about 20 kilometers southeast of [Antwerp](/europe/belgium/antwerp), ringed by the confluence of the Grote and Kleine Nete rivers. It is one of those places that rewards a slow wander — pretty without being precious, historic without making a fuss about it. The [Beguinage](/europe/belgium/lier/beguinage), a UNESCO World Heritage Site, is the main draw: a peaceful enclosure of seventeenth-century brick houses around a courtyard church, still inhabited and remarkably well preserved.

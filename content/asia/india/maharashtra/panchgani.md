@@ -15,6 +15,11 @@ title: Panchgani
 type: location
 snippet: Western Ghats hill station on a five-hill plateau, known for colonial schools
   and strawberry farms.
+nature: 5.0
+leisure: 5.3
+adventure: 4.4
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Panchgani — the name means "five hills" — is a small colonial-era hill station in the Western Ghats of Maharashtra, about 100 km southwest of Pune and 250 km from Mumbai. Set on a plateau at 1,334 m, surrounded by five flat-topped hills and thick forest, it was founded in the 1860s as a summer retreat for British colonials, and the legacy is still visible in the old bungalows, gabled boarding schools — most famously [St Peter's](/asia/india/maharashtra/panchgani/st_peters_school) — and mission churches that line its lanes. Today it is a weekend escape for Mumbai and Pune families, famous above all for its strawberries (April–May is peak season), its jam and syrup factories ([Mapro Garden](/asia/india/maharashtra/panchgani/mapro_garden), [Sherbaug](/asia/india/maharashtra/panchgani/sherbaug)) and the fresh cool air.

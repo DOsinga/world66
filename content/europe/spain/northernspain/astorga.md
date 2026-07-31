@@ -10,6 +10,11 @@ snippet: Compact León province city on the Camino de Santiago, with a cathedral
   Gaudí's Episcopal Palace.
 title: Astorga
 type: location
+nature: 4.8
+leisure: 5.2
+adventure: 4.5
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Astorga is a compact Roman city in the province of León, sitting at the crossroads of the Camino de Santiago. Two monuments dominate the old town: the [Cathedral of Astorga](/europe/spain/northernspain/astorga/catedral_de_astorga), a grand Gothic-to-Baroque hybrid built over several centuries, and the extraordinary [Palacio Episcopal](/europe/spain/northernspain/astorga/palacio_episcopal) designed by Antoni Gaudí in the 1890s — the only major work Gaudí completed outside Catalonia. The palace now houses the Museo de los Caminos, dedicated to the pilgrimage routes through the region.

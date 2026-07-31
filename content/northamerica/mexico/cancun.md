@@ -15,6 +15,11 @@ title: Cancun
 type: location
 snippet: Yucatán resort city on a Caribbean barrier island, known for white beaches
   and offshore reefs.
+nature: 5.0
+leisure: 8.6
+adventure: 1.4
+city_culture: 3.2
+historic_culture: 3.2
 ---
 
 Cancun sits at the northeastern tip of the Yucatan Peninsula, where a long barrier island — the [Hotel Zone](/northamerica/mexico/cancun/hotel_zone) — curves between the Caribbean and a quiet lagoon. The beach is genuinely spectacular: powder-white sand and turquoise water that shifts from pale jade to deep blue. The snorkelling and diving offshore are among the best in the Americas — try the underwater sculpture park at [MUSA](/northamerica/mexico/cancun/musa) — and the island of [Cozumel](/northamerica/mexico/cozumel), easily reached by ferry, has some of the clearest water on earth.

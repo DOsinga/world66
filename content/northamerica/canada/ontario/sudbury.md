@@ -10,6 +10,11 @@ snippet: Northern Ontario nickel city built on an ancient meteorite impact and s
   by hundreds of lakes.
 title: Sudbury
 type: location
+nature: 4.2
+leisure: 5.5
+adventure: 3.7
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Greater Sudbury is a sprawling northern Ontario city built on one of the richest nickel deposits on Earth — a legacy of a meteorite impact some 1.85 billion years ago. The mining history is impossible to ignore: the 9-metre [Big Nickel](/northamerica/canada/ontario/sudbury/big_nickel) towers over the city on Big Nickel Road, the [Superstack](/northamerica/canada/ontario/sudbury/superstack) is visible from highways thirty kilometres away, and the blackened rock outcrops around town are a direct result of decades of smelter emissions that stripped the surrounding landscape bare. Since the 1970s, an ambitious regreening program has replanted millions of trees, and today the countryside around the city is recovering nicely.

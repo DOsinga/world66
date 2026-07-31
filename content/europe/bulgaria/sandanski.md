@@ -14,6 +14,11 @@ snippet: Bulgarian spa town below the Pirin mountains, known for warm climate an
   mineral springs.
 title: Sandanski
 type: location
+nature: 5.0
+leisure: 5.7
+adventure: 3.7
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Sandanski sits in the valley of the Sandanska Bistritsa river at the foot of the Pirin mountains in southwestern [Bulgaria](/europe/bulgaria). It has the warmest climate in the country — mild winters, long autumns, and over 2,400 hours of sunshine a year — and has been known as a health resort since antiquity.

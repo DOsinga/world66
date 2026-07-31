@@ -15,6 +15,11 @@ snippet: Peloponnese city and Messenian capital whose surrounding plain gives it
   name to Kalamata olives
 title: Kalamata
 type: location
+nature: 5.2
+leisure: 6.2
+adventure: 3.6
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Kalamata is the second-largest city in the Peloponnese and the capital of Messenia, a region that has been central to Greek history since the Bronze Age. Most people know the name from the olive — the large, dark Kalamata olive grown in the surrounding plain is exported worldwide and has earned the city a global culinary reputation it doesn't always get credit for as a destination in its own right.

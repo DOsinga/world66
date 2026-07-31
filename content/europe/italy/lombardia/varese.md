@@ -10,6 +10,11 @@ snippet: Lombard city of villas and parks below the Sacro Monte di Varese pilgri
   route.
 title: Varese
 type: location
+nature: 3.9
+leisure: 6.0
+adventure: 3.3
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Varese earns its nickname "the Garden City" from the [Liberty-era villas](/europe/italy/lombardia/varese/villa_liberty) and landscaped parks scattered across its hills, built by Milanese industrialists who escaped the summer heat here. The city sits at the foot of the [Sacro Monte di Varese](/europe/italy/lombardia/varese/sacro_monte), a UNESCO-listed pilgrimage path that climbs through forest past fourteen baroque chapels to a hilltop sanctuary with views across the Po plain to Monte Rosa.

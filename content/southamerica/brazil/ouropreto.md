@@ -13,6 +13,11 @@ snippet: Steep Brazilian colonial town where black-gold wealth survives in baroq
   churches and cobbled hillside streets.
 title: Ouro Preto
 type: location
+nature: 3.2
+leisure: 6.3
+adventure: 3.5
+city_culture: 7.9
+historic_culture: 7.9
 ---
 
 Ouro Preto (formerly Vila Rica — "Rich Town") made its fortune from gold, and then renamed itself after the black gold ore that defined it. The colonial-era wealth is still written across the town in baroque churches, grand mansions, and cobblestone streets that climb steep hillsides to offer views of the surrounding mountains.

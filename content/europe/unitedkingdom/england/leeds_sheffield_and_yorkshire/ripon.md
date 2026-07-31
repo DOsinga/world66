@@ -14,6 +14,11 @@ snippet: Small Yorkshire city with a medieval cathedral, Saxon crypt, and nightl
   Wakeman's horn tradition.
 title: Ripon
 type: location
+nature: 3.7
+leisure: 5.6
+adventure: 3.4
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Ripon is one of England's smallest cities, set on the edge of the Yorkshire Dales. Its main glory is the [cathedral](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/ripon/ripon_cathedral), founded in the 7th century — the Saxon crypt survives, one of the oldest intact structures in England. The rest of the building is mostly 13th century and later, deliberately kept low and modest so as not to attract the attention of Scottish raiders.

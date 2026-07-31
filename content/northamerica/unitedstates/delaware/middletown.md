@@ -10,6 +10,11 @@ snippet: Growing Delaware town on the Delmarva route, with farming roots and nea
   Historic Odessa.
 title: Middletown
 type: location
+nature: 3.9
+leisure: 4.2
+adventure: 4.9
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Middletown is a small but rapidly growing town in New Castle County, southern Delaware — about 50 km south of Wilmington on US Route 301, and one of the fastest-growing municipalities in the state. Historically a 19th-century farming community (the [Middletown Historic District](/northamerica/unitedstates/delaware/middletown/middletown_historic_district) along Main Street is the surviving reminder), it has boomed in recent decades into a commuter suburb for the Wilmington and Philadelphia job markets.

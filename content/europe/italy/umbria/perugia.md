@@ -15,6 +15,11 @@ snippet: Umbrian hill city with Etruscan walls, medieval lanes, and a long unive
   tradition.
 title: Perugia
 type: location
+nature: 3.0
+leisure: 7.9
+adventure: 1.9
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Perugia sits on a high ridge in the heart of Umbria, its medieval streets and arched stairways spilling down the hillside in every direction. The old city is compact and almost entirely pedestrianised, centred on the long corso that runs between Piazza IV Novembre and Piazza Italia — lined with Gothic palaces, medieval towers, and the kind of bars where students and professors share tables without ceremony.

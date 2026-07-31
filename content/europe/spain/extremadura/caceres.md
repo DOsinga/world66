@@ -14,6 +14,11 @@ snippet: Extremaduran hill city with a walled medieval quarter of stone palaces,
   and traffic-free lanes.
 title: Caceres
 type: location
+nature: 3.6
+leisure: 5.2
+adventure: 4.1
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Caceres sits on a hill in Extremadura, its old town a remarkably intact medieval quarter that earned UNESCO World Heritage status in 1986. Walk through the Arco de la Estrella and you step into a city that has barely changed in five centuries — a maze of narrow streets lined with golden stone palaces, fortified towers, and churches, almost entirely free of traffic and modern intrusions.

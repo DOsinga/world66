@@ -10,6 +10,11 @@ snippet: Southern Moroccan market town at the Sahara's edge, long a meeting poin
   for nomads and traders.
 title: Guelmim
 type: location
+nature: 5.8
+leisure: 2.7
+adventure: 6.7
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Guelmim (also spelled Goulimine or Goulimime) sits at the edge of the Sahara in southern [Morocco](/africa/morocco), historically the meeting point between nomadic and settled populations. This is the gateway to the desert south, though you are still far from the dunes — for a real Saharan experience, head to [Merzouga](/africa/morocco/merzouga).

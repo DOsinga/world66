@@ -13,6 +13,11 @@ image: las_medulas.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Medulas_2018006.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Anual
+nature: 6.5
+leisure: 5.4
+adventure: 4.2
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 Las Medulas is one of Spain's most extraordinary landscapes. In the 1st century AD, the Romans began mining gold here on an industrial scale, using a hydraulic technique called *ruina montium* that literally collapsed entire mountainsides. After two centuries of extraction they moved on, leaving behind a surreal terrain of red sandstone pinnacles, eroded cliffs, and chestnut forests that has been a UNESCO World Heritage Site since 1997.

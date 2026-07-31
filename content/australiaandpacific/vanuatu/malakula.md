@@ -14,6 +14,11 @@ snippet: Rugged Vanuatu island of dense jungle and exceptional linguistic divers
   known for Nambas cultures
 title: Malakula
 type: location
+nature: 7.4
+leisure: 4.0
+adventure: 5.9
+city_culture: 3.4
+historic_culture: 3.4
 ---
 
 Malakula is the second largest island in Vanuatu and one of the most culturally rich places in the entire Pacific. Over thirty distinct languages are spoken here, a density of linguistic diversity that reflects centuries of isolated communities separated by the island's rugged interior of dense jungle and steep mountains. For travellers willing to make the effort to get here, Malakula offers an experience of traditional Melanesian culture that has largely disappeared elsewhere in the archipelago.

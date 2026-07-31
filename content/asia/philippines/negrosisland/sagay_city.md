@@ -13,6 +13,11 @@ sources:
 - https://en.wikipedia.org/wiki/Sagay_Marine_Reserve
 title: Sagay City
 type: location
+nature: 5.6
+leisure: 4.8
+adventure: 4.7
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Sagay City occupies the northern tip of Negros Island, facing the Visayan Sea. The city is best known for the [Sagay Marine Reserve](/asia/philippines/negrosisland/sagay_city/sagay_marine_reserve), a protected area covering about 32,000 hectares that encompasses coral reefs, seagrass beds, and mangroves — one of the better-managed marine protected areas in the Philippines.

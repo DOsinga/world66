@@ -14,6 +14,11 @@ snippet: Hilltop Albanian town where Skanderbeg's castle anchors the country's n
   resistance story.
 title: Kruje
 type: location
+nature: 3.9
+leisure: 5.1
+adventure: 4.5
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Krujë is the most important town in Albanian national mythology. It was at the [hilltop castle](/europe/albania/kruje/kruje_castle) that Gjergj Kastrioti — known as Skanderbeg — held off Ottoman forces for over two decades in the mid-15th century, becoming the defining symbol of Albanian resistance. After his death in 1468, the castle fell within a decade, and the Ottomans occupied Albania for more than 400 years.

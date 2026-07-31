@@ -15,6 +15,11 @@ type: location
 score: 8.17
 snippet: Sacred Buddhist island off Zhoushan, devoted to Guanyin and threaded with
   temples and forest paths.
+nature: 4.5
+leisure: 6.3
+adventure: 3.4
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Mount Putuo is the smallest and most accessible of China's four sacred Buddhist mountains, an island of temples and forested paths rising from the East China Sea off the coast of Zhoushan. The mountain itself reaches only 297 metres, but the island is entirely devoted to Guanyin, the bodhisattva of mercy, and has been a pilgrimage site for over a thousand years. Ferries run from Ningbo and Zhoushan, and the island imposes itself immediately: the thirty-three-metre bronze Guanyin statue visible from the harbour is hard to miss.

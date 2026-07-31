@@ -14,6 +14,11 @@ snippet: Suðuroy town on Vágsfjørður, edged by Atlantic cliffs and mountain 
   on the southern Faroes
 title: Vágur
 type: location
+nature: 7.3
+leisure: 3.1
+adventure: 6.5
+city_culture: 2.8
+historic_culture: 2.8
 ---
 
 Vágur is one of the largest towns on Suðuroy, the southernmost island in the Faroes. It sits on the east coast around Vágsfjørður, between the villages of [Porkeri](/europe/faroeislands/suuroy/porkeri) and Lopra. About 1,370 people live here.

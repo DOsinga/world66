@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Jinan
 title: Jinan
 type: location
+nature: 3.7
+leisure: 5.5
+adventure: 3.8
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Jinan earns its nickname "City of Springs" honestly: dozens of artesian wells bubble up through the limestone beneath the city, and for centuries people have organized their lives around them. The water collects in [Daming Lake](/asia/china/shandong_province/jinan/daming_lake), a broad reed-fringed lake in the north of the city center that has been a focal point for poets and painters since the Tang Dynasty. [Baotu Spring](/asia/china/shandong_province/jinan/baotu_spring), the most famous of the wells, has flowed continuously — according to the records — for 2,700 years, and the park around it is one of the few genuinely pleasant urban parks in northern China, full of willows and stone bridges.

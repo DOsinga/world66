@@ -14,6 +14,11 @@ snippet: Quiet Uttarakhand hill station on the Chamba-Mussoorie road, with Garhw
   Himalayan views and deodar forests.
 title: Kanatal
 type: location
+nature: 5.6
+leisure: 3.8
+adventure: 5.6
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Kanatal is a small hill station in Uttarakhand, perched at about 2,600 metres on the Chamba–Mussoorie highway, roughly 300 km (six to seven hours by road) from Delhi. It is a quiet place — barely a village — with views of the snow-covered Garhwal Himalayas and dense forests of deodar and oak.

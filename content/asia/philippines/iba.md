@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Iba_Airfield
 title: Iba
 type: location
+nature: 4.4
+leisure: 5.6
+adventure: 4.1
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Iba is the quiet capital of Zambales province, a small coastal town about 200 km northwest of Manila along the South China Sea. It is not a famous destination, but Filipinos know it for its 12 km of clean, undeveloped grey-sand beaches, its clear, unpolluted waters, and the prized **Dinamulag mangoes** that ripen in April and May — some of the sweetest in the country.

@@ -10,6 +10,11 @@ snippet: Dogon village below the Bandiagara Escarpment, used as a trailhead for 
   trekking
 title: Djiguibombo
 type: location
+nature: 5.6
+leisure: 2.5
+adventure: 7.4
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Djiguibombo is a Dogon village at the base of the Bandiagara Escarpment, easily reached from [Bandiagara](/africa/mali/dogoncountry/bandiagara) and frequently used as a starting point for trekking along the cliff face. The village has basic guesthouses, and the surrounding area is among the most rewarding walking terrain in West Africa.

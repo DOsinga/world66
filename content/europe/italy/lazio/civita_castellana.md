@@ -14,6 +14,11 @@ snippet: Northern Lazio tufa town above a gorge, with Faliscan archaeology and a
   fortress.
 title: Civita Castellana
 type: location
+nature: 3.9
+leisure: 5.9
+adventure: 3.5
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Civita Castellana is a small town in northern [Lazio](/europe/italy/lazio), set on a tufa plateau above a deep gorge carved by the Rio Maggiore. It lies in the heart of the ancient Etruscan territory — the nearby Faliscan settlements date back to the 8th century BC — and has maintained a tradition of ceramic arts for centuries.

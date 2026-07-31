@@ -10,6 +10,11 @@ title: Pontinvrea
 type: location
 snippet: Agricultural Apennine town surrounded by forests, with seventeenth-century
   churches and the d'Invrea palace.
+nature: 5.2
+leisure: 5.5
+adventure: 4.1
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 An agricultural centre on the northern side of the Ligurian Apennines, surrounded by extensive forests that draw lovers of nature and tranquillity. The ancient settlement of Ponte dei Prati formed part of the commune of Pareto until 1606, when the Gonzaga, rulers of Monferrato, gave it in fief to the d'Invrea of Genoa. In 1730 it passed to Austria.

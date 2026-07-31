@@ -10,6 +10,11 @@ title: Öresund
 snippet: Cross-border Nordic strait region linking Malmö and Copenhagen by the Öresund
   Bridge.
 type: location
+nature: 4.9
+leisure: 5.9
+adventure: 3.8
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 The Öresund Region spans the strait that divides Sweden from Denmark, binding together one of northern Europe's most liveable and well-connected urban areas. On the Swedish side sit [Malmö](/europe/sweden/malmo) and Helsingborg; on the Danish side, [Copenhagen](/europe/denmark/copenhagen) and Helsingør. The two coasts are linked by the Öresund Bridge, a combined rail-and-road crossing that opened in 2000 and turned a ferry-hop into a fifteen-minute train ride.

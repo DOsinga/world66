@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/G%C3%B6rlitz_Synagogue
 title: Görlitz
 type: location
+nature: 3.6
+leisure: 4.2
+adventure: 5.0
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Görlitz is Germany's easternmost city, sitting right on the Polish border — the Neisse River separates it from its Polish twin, Zgorzelec. What makes Görlitz extraordinary is that it survived the Second World War almost entirely intact. The result is a town with over 4,000 listed monuments spanning Gothic, Renaissance, Baroque, and Art Nouveau, all in remarkable condition.

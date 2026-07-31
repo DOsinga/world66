@@ -14,6 +14,11 @@ title: Buena Park
 type: location
 snippet: Orange County city known for Knott's Berry Farm and early Southern California
   theme-park history.
+nature: 2.8
+leisure: 7.4
+adventure: 2.0
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Buena Park is a city in northwestern Orange County, California, about 25 miles southeast of downtown Los Angeles. It is best known as the home of [Knott's Berry Farm](/northamerica/unitedstates/california/buena_park/knotts_berry_farm), one of the oldest amusement parks in the United States, which started as a real berry farm and roadside restaurant in the 1920s before growing into a full theme park. The park still serves its famous fried chicken in the original [Mrs. Knott's Chicken Dinner Restaurant](/northamerica/unitedstates/california/buena_park/mrs_knotts_chicken_dinner).

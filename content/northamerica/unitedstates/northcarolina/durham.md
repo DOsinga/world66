@@ -14,6 +14,11 @@ snippet: Research Triangle city remade from tobacco warehouses by Duke Universit
   food culture, and downtown revival.
 title: Durham
 type: location
+nature: 3.2
+leisure: 6.1
+adventure: 2.9
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Durham is the gritty, creative corner of the Research Triangle, forming one of three points alongside [Chapel Hill](/northamerica/unitedstates/northcarolina/chapelhill) and [Raleigh](/northamerica/unitedstates/northcarolina/raleigh). Once known primarily as a tobacco town -- the old Lucky Strike factory still dominates the skyline -- Durham has reinvented itself around Duke University, a booming food scene, and one of the most interesting downtown revivals in the South.

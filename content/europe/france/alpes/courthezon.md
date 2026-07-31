@@ -14,6 +14,11 @@ title: Courthézon
 snippet: Southern Rhône wine village within Châteauneuf-du-Pape country, close to
   Beaucastel and medieval walls
 type: location
+nature: 7.3
+leisure: 5.8
+adventure: 4.1
+city_culture: 2.4
+historic_culture: 2.4
 ---
 
 Courthézon is a small wine village in the Rhône valley between [Orange](/europe/france/midi/provence/orange) and [Avignon](/europe/france/midi/provence/avignon). It sits within the Châteauneuf-du-Pape appellation, making it a natural starting point for exploring the southern Rhône vineyards — Gigondas and Vacqueyras are a short drive to the east. The village is home to [Château de Beaucastel](/europe/france/alpes/courthezon/chateau_beaucastel), one of the appellation's most celebrated estates, and the cooperative [Cellier des Princes](/europe/france/alpes/courthezon/cellier_des_princes), which welcomes drop-in visitors for tastings.

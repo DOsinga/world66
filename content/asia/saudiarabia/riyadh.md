@@ -12,6 +12,11 @@ title: Riyadh
 type: location
 snippet: Saudi Arabia's desert capital, grown from a Najd oasis around the old Masmak
   Fortress.
+nature: 2.7
+leisure: 3.9
+adventure: 5.9
+city_culture: 8.4
+historic_culture: 8.4
 ---
 
 Riyadh is the capital and largest city of Saudi Arabia, sitting at around 600 metres above sea level on the high limestone plateau of the Nejd in the centre of the Arabian Peninsula. The name in Arabic means "gardens," a reference to the date palms and cultivated plots that once made this desert settlement viable. Today it is a sprawling metropolitan area of over seven million people, one of the fastest-growing cities on earth in the latter half of the twentieth century, and a place undergoing a second transformation in the third decade of the twenty-first.

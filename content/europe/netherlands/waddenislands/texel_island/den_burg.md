@@ -14,6 +14,11 @@ snippet: Main village on Texel, with shops and services at the centre of the Wad
   island.
 title: Den Burg
 type: location
+nature: 5.8
+leisure: 5.5
+adventure: 4.1
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 Den Burg is the main village of Texel, the largest of the Dutch Wadden Islands, and the natural hub for anyone exploring the island. It's a compact, unhurried market town built around the [Groeneplaats](/europe/netherlands/waddenislands/texel_island/den_burg/groeneplaats), with a weekly Monday market, several good restaurants, and the [Oudheidkamer](/europe/netherlands/waddenislands/texel_island/den_burg/oudheidkamer), a small local history museum in a leaning seventeenth-century building. The medieval [Hervormde Kerk](/europe/netherlands/waddenislands/texel_island/den_burg/hervormde_kerk) anchors the centre. The village has everything you need — supermarkets, bike rental, a pharmacy — without feeling overbuilt or touristy.

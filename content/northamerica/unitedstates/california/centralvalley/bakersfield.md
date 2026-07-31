@@ -14,6 +14,11 @@ snippet: Central Valley city shaped by oil fields, Basque sheepherders, and the 
   country sound.
 title: Bakersfield
 type: location
+nature: 4.1
+leisure: 4.4
+adventure: 4.8
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Bakersfield sits at the southern end of the San Joaquin Valley, surrounded by oil derricks and agricultural land. It is not a place most travelers seek out, but it has genuine character — particularly its Basque heritage and its outsized role in country music history.

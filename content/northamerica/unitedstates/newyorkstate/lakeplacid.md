@@ -10,6 +10,11 @@ snippet: Adirondack village with 1932 and 1980 Winter Olympic venues around Mirr
   Lake.
 title: Lake Placid
 type: location
+nature: 7.8
+leisure: 5.8
+adventure: 4.1
+city_culture: 1.9
+historic_culture: 1.9
 ---
 
 Lake Placid is a small Adirondack village that twice hosted the Winter Olympics — in 1932 and 1980 — and it has never quite let go of that identity. The Olympic venues are still in use: you can ride the bobsled run at [Mount Van Hoevenberg](/northamerica/unitedstates/newyorkstate/lakeplacid/mt_van_hoevenberg), watch ski jumpers train at the [90-metre towers](/northamerica/unitedstates/newyorkstate/lakeplacid/ski_jumping_complex), and skate on the same oval where Eric Heiden won five gold medals. The [Olympic Center](/northamerica/unitedstates/newyorkstate/lakeplacid/herb_brooks_arena) on Main Street houses the rink where the US hockey team beat the Soviets in the Miracle on Ice; the [Olympic Museum](/northamerica/unitedstates/newyorkstate/lakeplacid/olympic_museum) next door tells the full story.

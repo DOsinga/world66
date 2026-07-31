@@ -14,6 +14,11 @@ snippet: Pennsylvania Great Lakes port city defined by Presque Isle's beaches, b
   and Lake Erie sunsets
 title: Erie
 type: location
+nature: 4.3
+leisure: 6.4
+adventure: 2.9
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Erie is Pennsylvania's only Great Lakes port city, tucked into the northwest corner of the state roughly equidistant from Pittsburgh, Cleveland, and Buffalo. It sits on Lake Erie's southern shore, and that geography defines much of what visitors come for.

@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Courmayeur
 title: Courmayeur
 type: location
+nature: 7.2
+leisure: 6.7
+adventure: 3.3
+city_culture: 2.1
+historic_culture: 2.1
 ---
 
 Courmayeur sits at the foot of Mont Blanc on the Italian side, a compact and attractive Alpine resort that draws weekend crowds from [Milan](/europe/italy/lombardia/milan) and [Turin](/europe/italy/piemonte/turin). It is one of the most fashionable ski towns in the Val d'Aosta, though its appeal has at least as much to do with the setting, the restaurants, and the nightlife as with the skiing itself.

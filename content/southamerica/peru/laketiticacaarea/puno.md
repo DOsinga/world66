@@ -16,6 +16,11 @@ type: location
 score: 8.72
 snippet: High Andean city on Lake Titicaca, used as Peru's main gateway to the lake
   islands.
+nature: 7.8
+leisure: 4.6
+adventure: 5.3
+city_culture: 2.4
+historic_culture: 2.4
 ---
 
 Puno sits at 3,827 metres above sea level on the western shore of Lake Titicaca, the world's highest navigable lake, on the border between Peru and Bolivia. It is a fairly unremarkable Andean city in its own right — functional, concrete, and somewhat battered around the edges — but it is the undisputed gateway to one of South America's most extraordinary landscapes, and travellers who give it more than a single night tend to be rewarded.

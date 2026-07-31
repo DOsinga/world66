@@ -18,6 +18,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Peshawar
 title: Peshawar
 type: location
+nature: 3.9
+leisure: 2.2
+adventure: 7.5
+city_culture: 7.1
+historic_culture: 7.1
 ---
 
 Peshawar is one of the most colourful cities in Pakistan — and that is saying a lot. Twenty kilometres from the mouth of the Khyber Pass, it has been the gateway between South and Central Asia for two thousand years, and that frontier character still runs through its bazaars, its cuisine, and its streets. Pashto is the language of the city. Most men wear the *shalwar kameez* and a *pakol* or turban. The city is proudly Pashtun.

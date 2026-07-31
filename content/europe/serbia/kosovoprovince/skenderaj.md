@@ -10,6 +10,11 @@ snippet: Drenica region city in central Kosovo, closely tied to modern independe
   history and the Adem Jashari memorial.
 title: Skenderaj
 type: location
+nature: 4.7
+leisure: 3.7
+adventure: 5.9
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Skenderaj (known as Srbica in Serbian) is a city in the Drenica region of central Kosovo, the largest settlement in the area. The town is closely tied to recent history — the [Drenica valley](/europe/serbia/kosovoprovince/skenderaj/drenica_valley) was at the heart of the Kosovo conflict in the late 1990s, and the [Adem Jashari Memorial Complex](/europe/serbia/kosovoprovince/skenderaj/adem_jashari_memorial) in nearby Prekaz commemorates the family whose resistance became a symbol of the independence movement.

@@ -14,6 +14,11 @@ snippet: Luberon hill village built from ochre cliffs, with facades in yellow, o
   and red.
 title: Roussillon
 type: location
+nature: 3.9
+leisure: 8.1
+adventure: 1.8
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Roussillon is the most dramatic of the ochre villages in the Luberon, built from and built on the extraordinary deposits of yellow, orange, and red pigment that were mined from the surrounding cliffs for two centuries. The buildings seem to have grown from the rock — the same palette of pale gold to deep burnt sienna runs from the quarry walls to the village facades to the dust on your shoes after an hour of walking. It is 10km from Apt and an easy drive from most of the Luberon.

@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Mons
 title: Mons
 type: location
+nature: 4.2
+leisure: 4.4
+adventure: 5.0
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Mons (Bergen in Flemish) is the capital of Hainaut, the French-speaking province in Belgium's southwest. It sits on a small hill about 50 kilometres from [Brussels](/europe/belgium/brussels), and is one of those Belgian cities that tourists often skip in favour of [Bruges](/europe/belgium/bruges) or [Ghent](/europe/belgium/ghent) — unfairly, because Mons has a beautiful old centre, a rich history, and a cultural scene that earned it the title of European Capital of Culture in 2015.

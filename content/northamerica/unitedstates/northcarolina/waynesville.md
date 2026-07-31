@@ -14,6 +14,11 @@ image_license: CC BY-SA 3.0
 image_attribution: Daniel Hass
 snippet: Waynesville is a Southern Appalachian mountain town with an intact Main Street
   and Blue Ridge setting.
+nature: 5.4
+leisure: 3.5
+adventure: 5.8
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Waynesville is a mountain town just west of [Asheville](/northamerica/unitedstates/northcarolina/asheville), sitting at 2,700 feet in the Southern Appalachians where the Blue Ridge meets the Great Smokies. The [downtown Main Street](/northamerica/unitedstates/northcarolina/waynesville/main_street_downtown) is lined with independent shops, galleries, and restaurants that reward a slow afternoon of browsing — one of the more intact small-town commercial streets in the region.

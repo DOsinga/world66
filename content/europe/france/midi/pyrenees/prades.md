@@ -9,6 +9,11 @@ snippet: Têt Valley market town with a Baroque church, mountain access, and an 
   Catalan feel
 title: Prades
 type: location
+nature: 5.8
+leisure: 6.5
+adventure: 3.4
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 Prades is a small market town in the Têt Valley, about 45 kilometres west of Perpignan in the Pyrénées-Orientales. It has a compact, walkable centre dominated by a magnificent [Baroque church](/europe/france/midi/pyrenees/prades/eglise_saint_pierre), a weekly market, and an unhurried village feel that belies its status as the main town of the valley.

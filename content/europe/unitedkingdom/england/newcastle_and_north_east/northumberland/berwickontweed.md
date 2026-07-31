@@ -13,6 +13,11 @@ snippet: England’s northernmost town, defined by River Tweed bridges and excep
   complete Elizabethan defensive walls.
 title: Berwick-upon-Tweed
 type: location
+nature: 3.8
+leisure: 5.7
+adventure: 3.5
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Berwick-upon-Tweed is England's northernmost town, sitting on the north bank of the River Tweed right on the border with Scotland. It has changed hands between England and Scotland thirteen times in its history — more than any other town in Britain — and this perpetual frontier position has shaped its character and its remarkable defences.

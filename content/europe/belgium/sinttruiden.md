@@ -10,6 +10,11 @@ snippet: Limburg fruit-region town with abbey remains, a vast Grote Markt, and s
   blossom orchards
 title: Sint-Truiden
 type: location
+nature: 3.5
+leisure: 6.0
+adventure: 3.1
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Sint-Truiden sits in the heart of [Haspengouw](/europe/belgium/sinttruiden/haspengouw_orchards), Belgium's fruit-growing region, and in spring the town is surrounded by a sea of cherry and apple blossom. The [Grote Markt](/europe/belgium/sinttruiden/grote_markt_sinttruiden) is one of the largest market squares in Belgium, dominated by the belfry tower, a thirteenth-century abbey gate, and the town hall.

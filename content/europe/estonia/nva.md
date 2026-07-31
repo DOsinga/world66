@@ -13,6 +13,11 @@ snippet: Quiet Estonian coastal village with Swedish heritage, pine forest, sand
   beach, and berry-picking country
 title: Nõva
 type: location
+nature: 5.0
+leisure: 6.9
+adventure: 2.6
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Nõva is a quiet coastal village on the northwest shore of Estonia, roughly halfway between [Haapsalu](/europe/estonia/haapsalu) and Paldiski. The area has a long Swedish heritage — Coastal Swedes settled these shores for centuries, and traces of that history linger in place names and old farmsteads.

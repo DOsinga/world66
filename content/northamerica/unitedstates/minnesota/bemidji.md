@@ -14,6 +14,11 @@ title: Bemidji
 type: location
 snippet: Bemidji is a northern Minnesota lake town known for Paul Bunyan statues and
   surrounding pine forests.
+nature: 4.6
+leisure: 5.0
+adventure: 4.1
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Bemidji sits on the southwest shore of Lake Bemidji in northern Minnesota, a small college town surrounded by pine forests and more than 400 lakes. It is best known for the giant statues of Paul Bunyan and Babe the Blue Ox on the lakeshore — one of the great American roadside attractions, standing here since 1937.

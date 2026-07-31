@@ -14,6 +14,11 @@ snippet: Ancient Peloponnese sanctuary where the Olympic Games began in 776 BC i
   honour of Zeus.
 title: Olympia
 type: location
+nature: 3.1
+leisure: 5.8
+adventure: 3.9
+city_culture: 7.8
+historic_culture: 7.8
 ---
 
 This is where it all started. In 776 BC, athletes gathered in this riverside valley in the western Peloponnese to compete in honour of Zeus, and the Olympic Games were born. For over a thousand years the games drew competitors and spectators from across the Greek world, until a Roman emperor shut them down in 393 AD. The site lay buried under river silt for centuries before archaeologists uncovered it in the 19th century.

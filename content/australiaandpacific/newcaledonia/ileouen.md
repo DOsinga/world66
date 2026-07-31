@@ -16,6 +16,11 @@ sources:
 - https://www.openstreetmap.org/way/281186441
 title: Île Ouen
 type: location
+nature: 7.9
+leisure: 4.0
+adventure: 5.6
+city_culture: 2.0
+historic_culture: 2.0
 ---
 
 Île Ouen lies just south of [Nouméa](/australiaandpacific/newcaledonia/noumea), across the Woodin Canal from Grande Terre. It is close enough to appear in day-trip conversations, but it feels very different from the capital: quieter, more Kanak, and shaped by small boats, reef water, dry hills, and views back toward the Grand Sud.

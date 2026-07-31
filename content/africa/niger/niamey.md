@@ -10,6 +10,11 @@ snippet: Nigerien capital on a bend of the Niger River, where Sahelian trade fil
   open-air markets.
 title: Niamey
 type: location
+nature: 5.4
+leisure: 1.6
+adventure: 8.1
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Niamey is the capital of [Niger](/africa/niger) and its only real city, sprawling along a bend in the Niger River in the far west of the country. It is dusty, hot, and chaotic in the best possible way — a place where Tuareg, Songhai, Fulani, and Hausa traders all converge in open-air markets that are as much theatre as commerce.

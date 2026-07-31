@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Tibet
 title: Chamdo
 type: location
+nature: 7.5
+leisure: 2.2
+adventure: 7.8
+city_culture: 3.1
+historic_culture: 3.1
 ---
 
 Chamdo — also spelled Qamdo, known in Tibetan as Chab-mdo — is Tibet's third largest city, sitting at around 3,240 metres at the confluence of the Dza Chu and Ngom Chu rivers, which together form the upper Mekong. Unusually for Tibet, it is green and well-watered, hemmed in by steep forested ridges that give it a different character from the stark high-plateau cities to the west. The city sits at a historic crossroads between central Tibet, Sichuan, and Yunnan — the Kham cultural region — and its people speak a distinct dialect, Khams Tibetan, that sets them apart from Lhasans.

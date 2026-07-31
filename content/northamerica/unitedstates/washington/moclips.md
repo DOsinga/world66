@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Moclips,_Washington
 title: Moclips
 type: location
+nature: 6.0
+leisure: 5.2
+adventure: 4.4
+city_culture: 3.7
+historic_culture: 3.7
 ---
 
 Moclips is a tiny, windswept beach community on Washington's North Beach peninsula, about 20 miles north of [Ocean Shores](/northamerica/unitedstates/washington/ocean_shores). It sits where the Moclips River meets the Pacific, and the name comes from the Quinault word meaning "a place where young girls go to perform their puberty ceremony." Today it is one of the quietest spots on Washington's coast, attracting beachcombers and people who want to stare at the ocean without a crowd.

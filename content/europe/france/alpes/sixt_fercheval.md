@@ -14,6 +14,11 @@ sources:
 - https://en.wikipedia.org/wiki/Mont_Buet
 title: Sixt-Fer-à-Cheval
 type: location
+nature: 7.9
+leisure: 6.0
+adventure: 3.9
+city_culture: 1.8
+historic_culture: 1.8
 ---
 
 Sixt-Fer-à-Cheval sits at the dead end of a long valley road through [Samoëns](/europe/france/alpes/samoens), deep in the Haute-Savoie — close to [Chamonix](/europe/france/alpes/chamonix) as the crow flies but a world away in atmosphere. Mont Blanc is visible from a tent pitched here, yet the crowds are not. That contrast is precisely the point.

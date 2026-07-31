@@ -14,6 +14,11 @@ snippet: Staffordshire ceramics city known as The Potteries, built from six town
   and famous English porcelain names
 title: Stoke-on-Trent
 type: location
+nature: 3.0
+leisure: 6.1
+adventure: 2.9
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 Stoke-on-Trent — "The Potteries" — is an industrial city in Staffordshire, halfway between Birmingham and Manchester on the M6. It is the historic centre of English ceramics: Wedgwood, Royal Doulton, Spode, and dozens of other famous names all started here, and the pottery industry still defines the city's character. Stoke is unusual in that it is not one place but six — Tunstall, Burslem, Hanley, Stoke, Fenton, and Longton — strung together along the Trent valley and merged into a single city only in 1910.

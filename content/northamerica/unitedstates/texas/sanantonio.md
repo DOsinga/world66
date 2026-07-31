@@ -14,6 +14,11 @@ snippet: Texas city of Spanish missions, Mexican influence, and walkways along t
   San Antonio River.
 title: San Antonio
 type: location
+nature: 2.0
+leisure: 7.8
+adventure: 1.5
+city_culture: 8.0
+historic_culture: 8.0
 ---
 
 San Antonio feels unlike any other American city. A remarkable blend of Native American, German, Mexican, Spanish, and Deep South cultures has created something singular. More than half the population is of Hispanic heritage, and the influence of Spain and Mexico is woven into everyday life, from the architecture to the food to the sound of the streets.

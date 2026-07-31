@@ -14,6 +14,11 @@ longitude: 14.443009
 score: 7.58
 title: Attard
 type: location
+nature: 3.8
+leisure: 6.3
+adventure: 3.1
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Attard is a quiet residential town in the centre of Malta, best known as the location of [San Anton Palace](/europe/malta/attard/san_anton_palace) and its gardens. The palace was built as a summer retreat in the 17th century and is now the official residence of the President of Malta. The [San Anton Gardens](/europe/malta/attard/san_anton_gardens) surrounding it are open to the public and are among the most pleasant gardens on the island, with tropical plants, fountains, and aviaries.

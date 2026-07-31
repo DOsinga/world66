@@ -14,6 +14,11 @@ snippet: Transylvanian town with Saxon roots, a central church tower, and ties t
   Dracula literary lore.
 title: Bistrita
 type: location
+nature: 3.2
+leisure: 5.7
+adventure: 3.8
+city_culture: 7.3
+historic_culture: 7.3
 ---
 
 Bistrița is the town Bram Stoker put on the literary map: Jonathan Harker passes through here on his way to Dracula’s castle, stopping for dinner at what Stoker called the Golden Krone Hotel. That Dracula connection draws curious visitors, but the town stands on its own merits as one of the better-preserved medieval towns in Transylvania.

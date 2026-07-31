@@ -16,6 +16,11 @@ snippet: Southern state capital where country music landmarks sit beside univers
   healthcare, and honky-tonk nightlife.
 title: Nashville
 type: location
+nature: 2.6
+leisure: 6.5
+adventure: 3.0
+city_culture: 7.8
+historic_culture: 7.8
 ---
 
 Nashville is the capital of country music and one of the most visited cities in the American South. The [Broadway](/northamerica/unitedstates/tennessee/nashville/broadway) strip — blocks of honky-tonks, neon signs, and live music spilling out of every door — is the face the city shows to the world. But Nashville is also a college town ([Vanderbilt](/northamerica/unitedstates/tennessee/nashville/vanderbilt_university), Belmont, [Fisk](/northamerica/unitedstates/tennessee/nashville/fisk_university)), a major healthcare hub, and a city that has been reinventing itself for twenty years. [East Nashville](/northamerica/unitedstates/tennessee/nashville/east_nashville), once overlooked, is now dense with restaurants and independent businesses. [The Gulch](/northamerica/unitedstates/tennessee/nashville/the_gulch) has become a polished, walkable neighbourhood of new hotels and good eating. The food scene, long rooted in Southern comfort food and the meat-and-three tradition, has broadened considerably.

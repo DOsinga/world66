@@ -13,6 +13,11 @@ snippet: Luxembourg Moselle wine town on the German border, with riverside terra
   and sparkling wine cellars.
 title: Grevenmacher
 type: location
+nature: 4.0
+leisure: 5.5
+adventure: 3.6
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Grevenmacher is the main town of the Luxembourg Moselle, sitting on the river at the border with Germany. It is a compact and unhurried place: a small historic centre built on a slope above the river, wine cellars cut into the rock beneath the old streets, and a waterfront that turns into a succession of restaurant terraces in summer. For travellers who know Alsace or the Rhineland wine route, the Luxembourg Moselle will feel familiar — the same combination of neat vineyards, half-timbered buildings, and pride in local Riesling — but quieter and less tourist-worn.

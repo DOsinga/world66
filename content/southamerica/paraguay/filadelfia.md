@@ -14,6 +14,11 @@ title: Filadelfia
 type: location
 snippet: Filadelfia is the main town of Paraguay’s Fernheim Mennonite colony in the
   western Chaco.
+nature: 4.7
+leisure: 3.7
+adventure: 5.6
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Filadelfia is the main town of the Fernheim Mennonite colony in the [Gran Chaco](/southamerica/paraguay/granchaco), 480km northwest of Asunción along the Trans-Chaco Highway. It's a tidy, well-organised settlement of around 15,000 people — a striking contrast to the surrounding wilderness. The descendants of Low German-speaking Mennonites who fled Russia and Canada in the 1920s run a successful agricultural [co-operative](/southamerica/paraguay/filadelfia/fernheim_cooperative) here, primarily dairy farming and cattle.

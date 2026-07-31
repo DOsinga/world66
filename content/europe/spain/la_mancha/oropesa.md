@@ -14,6 +14,11 @@ title: Oropesa
 type: location
 snippet: Hilltop Toledo province town dominated by the grand castle of the counts
   of Oropesa.
+nature: 3.6
+leisure: 5.5
+adventure: 3.6
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 Perched on a hilltop in Toledo province, Oropesa is a compact medieval town with a disproportionately grand castle. Its skyline is dominated by the fortified complex of the Álvarez de Toledo family, counts of Oropesa — and the castle's 15th-century keep surveys a sweep of farmland running all the way to the Sierra de Gredos, which rises sharply to the north. Halfway between Toledo and the Portuguese border on the old Roman road linking Toledo with Mérida, the town has been a stopping point for travellers and armies for two thousand years.

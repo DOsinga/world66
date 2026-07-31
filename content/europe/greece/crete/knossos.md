@@ -13,6 +13,11 @@ image: knossos.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Armon_Knossos_P1060093.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Deror_avi
+nature: 2.5
+leisure: 5.7
+adventure: 4.0
+city_culture: 8.4
+historic_culture: 8.4
 ---
 
 Knossos is the largest Bronze Age archaeological site on Crete and one of the most extraordinary places in the Mediterranean. This was the ceremonial heart of Minoan civilization — a culture that flourished here for roughly 1,500 years before the rest of Europe had mastered the wheel. Walking its reconstructed corridors, you get an unsettling sense of how sophisticated these people were, and how completely they vanished.

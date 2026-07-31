@@ -9,6 +9,11 @@ snippet: Puerto Rican municipality east of San Juan, home to Isla Verde beach an
   the main airport.
 title: Carolina
 type: location
+nature: 4.9
+leisure: 6.0
+adventure: 3.6
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Carolina is a large municipality just east of [San Juan](/northamerica/thecaribbean/puertorico/sanjuan), best known as the home of Luis Muñoz Marín International Airport and Isla Verde, the resort beach strip that technically falls within Carolina's borders rather than San Juan's. Most visitors pass through without realizing they have left the capital, but Carolina has its own character worth noting.

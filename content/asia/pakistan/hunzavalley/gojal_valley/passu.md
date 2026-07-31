@@ -13,6 +13,11 @@ snippet: Karakoram Highway village framed by Passu Cathedral, glaciers, and the 
   Hunza River valley.
 title: Passu
 type: location
+nature: 8.3
+leisure: 3.9
+adventure: 5.8
+city_culture: 2.2
+historic_culture: 2.2
 ---
 
 Passu is a small village on the Karakoram Highway in the upper [Gojal Valley](/asia/pakistan/hunzavalley/gojal_valley), about 150 km north of [Gilgit](/asia/pakistan/gilgit). It sits at around 2,500 metres on the west bank of the Hunza River, surrounded by some of the most dramatic mountain scenery on earth — jagged cathedral-like spires, massive glaciers, and the brown-grey immensity of the Karakoram range.

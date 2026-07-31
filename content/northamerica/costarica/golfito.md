@@ -14,6 +14,11 @@ snippet: Rough-edged Pacific port town squeezed between Golfo Dulce and a steep 
   ridge.
 title: Golfito
 type: location
+nature: 5.8
+leisure: 6.7
+adventure: 3.0
+city_culture: 3.3
+historic_culture: 3.3
 ---
 
 Golfito is a long, narrow port town squeezed between the Golfo Dulce and a steep jungle ridge on Costa Rica's far southern Pacific coast. It is not polished — the equatorial heat is relentless, the streets are scruffy, and the banana republic past is visible in every crumbling dock building — but that rough-edged character is precisely what draws travellers who have grown tired of the manicured resort towns up the coast.

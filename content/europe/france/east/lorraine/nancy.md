@@ -13,6 +13,11 @@ snippet: Former ducal city in Lorraine, centered on gilded Place Stanislas and g
   Art Nouveau streets.
 title: Nancy
 type: location
+nature: 3.5
+leisure: 5.9
+adventure: 3.3
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Nancy is one of the finest cities in eastern France, a former ducal capital whose centre is built around the magnificent [Place Stanislas](/europe/france/east/lorraine/nancy/place_stanislas) — a UNESCO World Heritage Site of gilded wrought-iron gates, fountains, and grand neoclassical facades. It is one of the most beautiful squares in Europe, and reason enough to visit.

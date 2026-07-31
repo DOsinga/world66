@@ -18,6 +18,11 @@ image: marstal.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Marstal._%C3%86r%C3%B8.1.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Erik Christensen
+nature: 4.3
+leisure: 4.9
+adventure: 4.4
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Marstal is the working town to Ærøskøbing's museum piece. Its harbour is still active — fishing boats, a small shipyard, and the ferry to Rudkøbing on Langeland all share the basin — and the place has a more practical, less self-consciously pretty feel than its postcard neighbour. The 1841 stone breakwater was famously built by the townspeople themselves, hauling stones into the sea after the state refused to fund it.

@@ -14,6 +14,11 @@ image: payyanur.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Payyannur_Sree_Subrahmanya_swamy_Temple_Pond.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Mithunrajkeekkamkot
+nature: 4.7
+leisure: 4.9
+adventure: 4.7
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Payyanur is a small town in the Kannur district of northern Kerala, sitting between the backwaters of the Kavvayi River and the coastal hill of Ezhimala. Its name derives from the Sri Subrahmanya Swami Temple, an important Subrahmanya shrine that draws pilgrims from across the district.

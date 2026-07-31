@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Gili_Islands
 title: Gili Islands
 type: location
+nature: 6.4
+leisure: 7.1
+adventure: 2.9
+city_culture: 2.7
+historic_culture: 2.7
 ---
 
 Three small coral-fringed islands off the northwest coast of [Lombok](/asia/indonesia/lombok) — Gili Trawangan, Gili Meno, and Gili Air — have become among the most visited destinations in Indonesia, and they've earned it. The Gilis have no motorised vehicles of any kind; the only transport is horse-drawn cidomo carts and bicycles. The result is a rare kind of quiet that you don't find on neighbouring [Bali](/asia/indonesia/bali), even as the restaurants and beach bars stay open until dawn.

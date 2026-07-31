@@ -13,6 +13,11 @@ image: murchison_falls_national_park.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Murchison_Falls_-_by_Boschlech.jpg
 image_license: Public domain
 image_attribution: Boschlech
+nature: 9.2
+leisure: 3.7
+adventure: 6.1
+city_culture: 1.0
+historic_culture: 1.0
 ---
 
 Murchison Falls is Uganda's largest national park and one of the finest wildlife destinations in East Africa. The Nile flows through the centre of the park, and the stretch between the falls and the delta where the river enters Lake Albert is rich with hippos, crocodiles, elephants, giraffes, buffalo and a long list of bird species. A boat trip upstream toward the falls is the best way to see it all.

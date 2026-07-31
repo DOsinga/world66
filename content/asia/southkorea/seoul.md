@@ -16,6 +16,11 @@ snippet: Vast Korean capital on the Han River, where neon districts stand beside
   palaces and mountain walls.
 title: Seoul
 type: location
+nature: 0.9
+leisure: 9.2
+adventure: 0.8
+city_culture: 8.7
+historic_culture: 8.7
 ---
 
 Seoul is one of the biggest, densest, and most relentlessly modern cities in the world. Home to roughly half of South Korea's population in its wider metropolitan area, it is a place of endless neon, twenty-four-hour street food, and 5G on the subway — and yet, tucked between the office towers, it still contains five Joseon-era palaces, a city wall, and the shrines and hanok villages that have been there for six centuries.

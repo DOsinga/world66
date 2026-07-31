@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Garrison_Historic_Area
 title: Bridgetown
 type: location
+nature: 5.1
+leisure: 5.2
+adventure: 4.3
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Bridgetown is the capital of [Barbados](/northamerica/thecaribbean/barbados), a compact Caribbean city whose historic centre — the [Careenage](/northamerica/thecaribbean/barbados/bridgetown/the_careenage) waterfront and the streets around it — was inscribed as a UNESCO World Heritage Site in 2011. It is small enough to walk across in an hour, but dense enough with history that you can spend a satisfying few days here without running out of things to see.

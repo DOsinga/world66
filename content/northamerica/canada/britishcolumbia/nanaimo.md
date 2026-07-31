@@ -14,6 +14,11 @@ snippet: Vancouver Island harbour city known for coal-mining history, waterfront
   and the Nanaimo bar.
 title: Nanaimo
 type: location
+nature: 4.3
+leisure: 7.1
+adventure: 2.6
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Nanaimo is the second-largest city on Vancouver Island, set on the east coast looking across the Strait of Georgia to the mainland. It started as a coal-mining town and still has a slightly rough-around-the-edges feel compared to polished [Victoria](/northamerica/canada/britishcolumbia/victoria) to the south, but that is changing fast — the waterfront has been cleaned up, the old town has good restaurants and breweries, and the harbour is genuinely beautiful.

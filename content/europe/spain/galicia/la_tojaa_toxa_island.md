@@ -13,6 +13,11 @@ snippet: Galician spa island linked to O Grove, known for thermal baths and a sc
   chapel.
 title: La Toja/A Toxa Island
 type: location
+nature: 5.3
+leisure: 6.7
+adventure: 2.9
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 La Toja (A Toxa in Galician) is a small island off the coast of [Galicia](/europe/spain/galicia), connected to the O Grove peninsula by a bridge built in the early 20th century. Together with the Island of Arousa, it is one of the great island spaces in the Rías Baixas.

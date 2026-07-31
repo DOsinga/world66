@@ -14,6 +14,11 @@ sources:
 - https://en.wikipedia.org/wiki/Castres
 title: Castres
 type: location
+nature: 2.8
+leisure: 7.3
+adventure: 2.1
+city_culture: 7.0
+historic_culture: 7.0
 ---
 
 Castres sits in a quiet bend of the Agout river, on the south-western edge of the Tarn department and at the foot of the [Sidobre](/europe/france/midi/languedoc/hautlanguedoc_reg/le_sidobre) granite plateau. With about 41,000 residents it is the second town of the Tarn after [Albi](/europe/france/midi/languedoc/albi), but it sees a fraction of the visitors — most tourists pass straight through on their way between Toulouse and Carcassonne. They miss something worth half a day at least.

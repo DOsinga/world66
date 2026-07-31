@@ -10,6 +10,11 @@ snippet: Tiny Maharashtra hill station above Mumbai, where motor vehicles are ba
   and viewpoints overlook the Western Ghats.
 title: Matheran
 type: location
+nature: 5.4
+leisure: 6.6
+adventure: 3.2
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 Matheran — "forest on top" in Marathi — is a tiny hill station at 800 metres elevation, just 111 km from Mumbai and the nearest escape from the city's heat and noise. What makes it special is that no motorised vehicles are allowed. You arrive by toy train on a narrow-gauge line from Neral (or by taxi to the car park at the edge of town), and from there everything is on foot, by horse, or by hand-pulled cart.

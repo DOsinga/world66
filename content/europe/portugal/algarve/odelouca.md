@@ -14,6 +14,11 @@ snippet: Rural Algarve hill area shaped by the Odelouca Reservoir and quiet inla
   valleys.
 title: Odelouca
 type: location
+nature: 5.3
+leisure: 5.9
+adventure: 3.5
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Odelouca is a rural area in the hills of the central [Algarve](/europe/portugal/algarve), far removed from the package-holiday coast. The [Odelouca Reservoir](/europe/portugal/algarve/odelouca/odelouca_reservoir), completed in 2012, created a large body of water that supplies much of the Algarve's drinking water, and the valley around it has become one of the best birdwatching spots in southern Portugal. Bonelli's eagles, Egyptian vultures, and Iberian azure-winged magpies are all present in the area.

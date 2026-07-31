@@ -20,6 +20,11 @@ tags:
 tier: 4
 title: Grand Canyon
 type: location
+nature: 8.3
+leisure: 5.5
+adventure: 4.3
+city_culture: 1.6
+historic_culture: 1.6
 ---
 
 The Grand Canyon is one of those places that genuinely exceeds expectations. You have seen the photographs, watched the documentaries, and heard people struggle to describe it -- and then you stand on the rim and realize none of it came close. The Colorado River has spent roughly six million years carving through nearly two billion years of rock, and the result is 277 miles of layered geology that changes color with every shift of sunlight.

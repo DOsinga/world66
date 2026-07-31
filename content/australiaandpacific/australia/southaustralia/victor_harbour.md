@@ -10,6 +10,11 @@ snippet: Fleurieu Peninsula holiday town on Encounter Bay, linked to Granite Isl
   and winter whale watching
 title: Victor Harbor
 type: location
+nature: 5.2
+leisure: 7.1
+adventure: 2.4
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 Victor Harbor is the main holiday town on South Australia's Fleurieu Peninsula, about an hour's drive south of [Adelaide](/australiaandpacific/australia/southaustralia/adelaide). The town sits on Encounter Bay, where Matthew Flinders and Nicolas Baudin famously met in 1802, and looks out toward [Granite Island](/australiaandpacific/australia/southaustralia/victor_harbour/granite_island) — connected to the mainland by a wooden causeway that you can cross on foot or by [horse-drawn tram](/australiaandpacific/australia/southaustralia/victor_harbour/horse_drawn_tram).

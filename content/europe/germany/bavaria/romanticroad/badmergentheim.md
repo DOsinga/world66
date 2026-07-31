@@ -13,6 +13,11 @@ sources:
 - https://en.wikipedia.org/wiki/Mergentheim_Palace
 title: Bad Mergentheim
 type: location
+nature: 3.1
+leisure: 7.1
+adventure: 2.2
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 Bad Mergentheim sits at the northern end of the Romantic Road, technically in Baden-Württemberg rather than Bavaria. The town was the seat of the Teutonic Order from 1525 to 1809, and their enormous [Deutschordensschloss](/europe/germany/bavaria/romanticroad/badmergentheim/deutschordensschloss) — the Teutonic Order's palace — still dominates the centre. The castle museum is worth a stop for its collection of medieval armour, Baroque palace church, and the scale model of 18th-century Bad Mergentheim alone.

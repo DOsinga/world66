@@ -13,6 +13,11 @@ title: Ellora
 type: location
 score: 9.05
 loc_type: feature
+nature: 3.2
+leisure: 4.7
+adventure: 5.1
+city_culture: 8.2
+historic_culture: 8.2
 ---
 
 Ellora is home to one of the most extraordinary archaeological sites in India — 34 caves carved into a basalt cliff face over a period of five centuries, from roughly the sixth to the eleventh century. The caves are a UNESCO World Heritage Site and represent three religions side by side: Buddhist monasteries and prayer halls, Hindu temples, and Jain shrines, all cut directly from the living rock.

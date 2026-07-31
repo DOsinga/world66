@@ -14,6 +14,11 @@ snippet: Lowcountry town on Port Royal Island, with antebellum streets, Gullah h
   and a waterfront historic district.
 title: Beaufort
 type: location
+nature: 4.3
+leisure: 6.6
+adventure: 2.7
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Beaufort is one of the loveliest small towns in the American South, sitting on Port Royal Island among the Sea Islands of South Carolina's Lowcountry. Discovered by the Spanish in 1514 and chartered by the British in 1711, it grew wealthy on indigo, rice, and Sea Island cotton, and the antebellum mansions from that era still line the streets — making the historic district one of only three National Historic Landmark Districts in the state.

@@ -9,6 +9,11 @@ snippet: Yorkshire Dales valley of limestone pavement, waterfalls, and the walki
   village of Malham
 title: Malhamdale
 type: location
+nature: 7.3
+leisure: 4.2
+adventure: 5.3
+city_culture: 2.5
+historic_culture: 2.5
 ---
 
 Malham itself is a delightful hamlet when it's allowed to be — which is to say, when it's not bursting at the seams with visitors. It has no church of its own; would-be worshippers and sightseers have to go to nearby Kirkby Malham. There is a National Park information centre and car park, and meals can be had at the Buck Inn or at a local café.

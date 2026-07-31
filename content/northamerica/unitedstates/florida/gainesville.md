@@ -10,6 +10,11 @@ snippet: North-central Florida college town shaped by the University of Florida 
   nearby springs, museums, and wetlands
 title: Gainesville
 type: location
+nature: 4.3
+leisure: 5.8
+adventure: 3.4
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Gainesville is a college town in north-central Florida, home to the [University of Florida](/northamerica/unitedstates/florida/gainesville/university_of_florida) and shaped almost entirely by it. When school is in session the city buzzes with energy; when students leave, it goes noticeably quiet. For visitors, Gainesville offers a pleasant surprise — more culture and nature than you expect from inland Florida.

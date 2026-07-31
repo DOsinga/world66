@@ -13,6 +13,11 @@ snippet: Western Australia’s oldest European settlement, set on King George So
   with whaling and colonial heritage.
 title: Albany
 type: location
+nature: 4.7
+leisure: 5.2
+adventure: 3.9
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Albany is the oldest European settlement in Western Australia, established in 1826 on the shores of King George Sound. Long before that, the Menang Noongar people lived here for tens of thousands of years, and evidence of their presence is still visible, particularly around Oyster Harbour. The town's superb natural harbour made it a thriving whaling port into the 1970s, and a coaling station for steamships travelling between Britain and Australia.

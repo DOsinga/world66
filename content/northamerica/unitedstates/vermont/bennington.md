@@ -17,6 +17,11 @@ sources:
 - https://www.bennington.edu/robert-frost-stone-house-museum
 title: Bennington
 type: location
+nature: 4.9
+leisure: 6.5
+adventure: 2.9
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Bennington is southern Vermont with a revolutionary streak: old houses, a tall stone monument, a compact downtown, and hills rising toward both the Green Mountains and the New York line. It is less polished than Manchester and less bohemian than Brattleboro, which is part of its appeal.

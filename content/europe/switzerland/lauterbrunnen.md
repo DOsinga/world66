@@ -14,6 +14,11 @@ snippet: Alpine valley village below sheer limestone cliffs, where more than 70 
   drop from the rim.
 title: Lauterbrunnen
 type: location
+nature: 7.1
+leisure: 7.2
+adventure: 2.9
+city_culture: 2.0
+historic_culture: 2.0
 ---
 
 Lauterbrunnen is a small town 10 km south of [Interlaken](/europe/switzerland/interlaken), spectacularly sited at the entrance to one of the most dramatic valleys in the Alps. Limestone cliffs rising up to 1,000 metres line both sides, and more than 70 waterfalls drop from the rim — the most visible being the [Staubbach Falls](/europe/switzerland/lauterbrunnen/staubbach_falls), which fall 297 metres directly above the village and dissolve into mist before reaching the ground.

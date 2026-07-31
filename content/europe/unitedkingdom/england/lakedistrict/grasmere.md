@@ -14,6 +14,11 @@ snippet: Lake District village associated with William Wordsworth, Dove Cottage,
   Oswald's churchyard, and local gingerbread.
 title: Grasmere
 type: location
+nature: 6.1
+leisure: 6.5
+adventure: 3.3
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 Grasmere is an attractive village at roughly the geographical centre of the Lake District. It is of particular interest to fans of the poet William Wordsworth, who lived in [Dove Cottage](/europe/unitedkingdom/england/lakedistrict/grasmere/dove_cottage) for about eight years before and after his marriage, until his growing family made the cottage too small. The cottage and attached Wordsworth Museum are well worth a visit. Wordsworth is buried in the churchyard of [St Oswald's Church](/europe/unitedkingdom/england/lakedistrict/grasmere/st_oswalds_church) in the centre of the village, alongside his wife and sister Dorothy.

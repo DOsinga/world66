@@ -14,6 +14,11 @@ snippet: Quiet Yucatán fishing village between Gulf beaches and bird-rich lagoo
   near flamingo habitat.
 title: Puerto El Cuyo
 type: location
+nature: 6.8
+leisure: 5.4
+adventure: 4.3
+city_culture: 2.7
+historic_culture: 2.7
 ---
 
 Puerto El Cuyo is a small fishing village on the northern coast of the Yucatán Peninsula, about two hours from Cancún and Mérida. It sits on a narrow strip of land between the Gulf of Mexico and a series of coastal lagoons, with long, largely empty beaches that stretch in both directions.

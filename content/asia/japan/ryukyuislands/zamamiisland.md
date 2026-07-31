@@ -13,6 +13,11 @@ snippet: Kerama island near Okinawa, with clear coral water, winter whales, and 
   beaches
 title: Zamami Island
 type: location
+nature: 5.3
+leisure: 4.2
+adventure: 5.3
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Zamami is a small island in the Kerama group, about 40 kilometres west of Naha in [Okinawa](/asia/japan/ryukyuislands). It is the kind of place where the water is so clear you can see the coral from the ferry before you even dock.

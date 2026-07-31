@@ -15,6 +15,11 @@ snippet: Emilia-Romagna university city of porticoes, red roofs, medieval towers
   and famously rich food
 title: Bologna
 type: location
+nature: 2.5
+leisure: 6.9
+adventure: 2.7
+city_culture: 7.0
+historic_culture: 7.0
 ---
 
 This fine city merits more than just a one-night visit. Bologna (pop. 422,000) has gardens, museums, parks, fine buildings, churches, and miles of shopping streets -- and don't forget the great food. Sometimes called "Bologna the fat," this city is a great place to indulge yourself.

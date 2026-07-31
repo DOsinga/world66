@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Blackpool_Tower
 title: Blackpool
 type: location
+nature: 3.6
+leisure: 8.2
+adventure: 1.4
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Blackpool is England's great working-class seaside resort: loud, funny, battered in places, and still utterly itself. It grew from a small Fylde coast village into a mass holiday town once the railways brought Lancashire mill workers to the sea, and it has never quite lost that democratic, end-of-the-week energy.

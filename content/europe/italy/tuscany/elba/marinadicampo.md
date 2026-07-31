@@ -16,6 +16,11 @@ snippet: South-coast Elba resort town built around the island's longest sandy be
   and a small fishing harbour.
 title: Marina di Campo
 type: location
+nature: 3.8
+leisure: 6.6
+adventure: 2.8
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Marina di Campo sits on the south coast of [Elba](/europe/italy/tuscany/elba) where a broad, flat-bottomed valley meets the sea, giving the town what the rest of the island mostly lacks: a long sandy beach. At nearly two kilometres of fine golden sand, it is the largest beach on Elba, and that fact drives the town's entire economy. This is the family resort side of the island — busier and more commercial than Portoferraio or Marciana Marina, but hard to argue with when the water is clear turquoise and the beach is this wide.

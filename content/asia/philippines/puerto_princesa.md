@@ -13,6 +13,11 @@ snippet: Palawan capital used for the underground river, Honda Bay islands, and 
   mangrove trips
 title: Puerto Princesa
 type: location
+nature: 5.4
+leisure: 5.7
+adventure: 4.0
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Puerto Princesa is the capital of [Palawan](/asia/philippines/palawanisland), consistently ranked among the cleanest cities in the Philippines. It is the gateway to some of the country's most spectacular natural attractions, including the Puerto Princesa Subterranean River, a UNESCO World Heritage Site that winds through an underground cave system for over 8 km.

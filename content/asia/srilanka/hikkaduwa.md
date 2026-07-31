@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Hikkaduwa_National_Park
 title: Hikkaduwa
 type: location
+nature: 5.4
+leisure: 7.7
+adventure: 2.3
+city_culture: 3.3
+historic_culture: 3.3
 ---
 
 Hikkaduwa is one of Sri Lanka's original beach towns, stretched along the southwest coast between Colombo and Galle. It is busier and brasher than [Unawatuna](/asia/srilanka/unawatuna), with surf schools, dive shops, beach bars, guesthouses, and traffic all pressed close to the sand.

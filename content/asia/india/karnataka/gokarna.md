@@ -14,6 +14,11 @@ image: gokarna.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gokarna,_February,_2018-5.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Alexey Komarov
+nature: 5.4
+leisure: 5.9
+adventure: 3.9
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Gokarna is a small pilgrimage town on the Karnataka coast, 185 km south of Goa. It is sacred to Shiva — the Mahabaleshwara Temple at its centre is one of the most important Shiva temples in southern India, and Hindu pilgrims have been coming here for centuries. In the last few decades it has also become a backpacker destination, drawn by a string of beaches south of the town that remain less developed and less crowded than Goa.

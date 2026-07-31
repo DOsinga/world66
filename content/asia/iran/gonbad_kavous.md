@@ -14,6 +14,11 @@ title: Gonbad-e Kavus
 type: location
 snippet: Turkmen-influenced Iranian city known for the soaring 11th-century Gonbad-e
   Qabus brick tower.
+nature: 3.8
+leisure: 4.1
+adventure: 5.4
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 Gonbad-e Kavus is a city in northeastern Iran's Golestan province, close to the Turkmenistan border. The majority of the population is Turkmen, giving the city a distinctly different character from most Iranian cities. Its remarkable [Gonbad-e Qabus Tower](/asia/iran/gonbad_kavous/gonbad_e_qabus_tower) is a UNESCO World Heritage Site: an extraordinary fired-brick tomb built in 1006 AD, rising 53 metres on a 15-metre mound and considered by many engineers to be one of the most accomplished pre-modern brick structures ever built. The tower tapers to a conical point and is visible for kilometres across the flat plain.

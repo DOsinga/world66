@@ -18,6 +18,11 @@ sources:
 - https://en.wikipedia.org/wiki/Laboe_Naval_Memorial
 title: Kiel
 type: location
+nature: 3.6
+leisure: 5.7
+adventure: 3.4
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Kiel is the state capital of Schleswig-Holstein, a port city of around 250,000 people at the western end of the Baltic Sea. Its position at the mouth of the [Kiel Canal](/europe/germany/schleswigholstein/kiel/kiel_canal) — the world's busiest artificial waterway — has shaped everything about it: the economy, the culture, and the steady flow of ferries heading to Scandinavia and the Baltic states. It is a functional, likeable city without much tourist polish, and most visitors experience it briefly, waiting for a boat north.

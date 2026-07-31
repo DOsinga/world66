@@ -11,6 +11,11 @@ sources:
 - https://en.wikipedia.org/wiki/Feldkirch,_Vorarlberg
 title: Feldkirch
 type: location
+nature: 4.9
+leisure: 5.3
+adventure: 4.4
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Feldkirch is one of Austria's best-preserved small medieval towns, tucked into the western edge of Vorarlberg where Austria nearly touches Switzerland and Liechtenstein at the same time. It is not as famous as Bregenz, but the old town has more immediate charm: arcaded streets, narrow lanes, city gates, and the castle of [Schattenburg](/europe/austria/feldkirch/schattenburg) looking down from the hill.

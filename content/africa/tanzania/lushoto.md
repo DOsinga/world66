@@ -14,6 +14,11 @@ longitude: 38.448023
 score: 7.5
 title: Lushoto
 type: location
+nature: 6.5
+leisure: 5.4
+adventure: 4.4
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 **Lushoto** is a small town in the Usambara Mountains of northeastern [Tanzania](/africa/tanzania), set in a green, hilly landscape at about 1,400 metres. It makes a refreshing break from the heat of the coast — the air is cool, the scenery lush, and the hiking excellent. The town was a German colonial hill station under the name Wilhelmstal, and the [Lutheran church](/africa/tanzania/lushoto/st_eugene_lutheran) on the main street is one of several reminders of the period.

@@ -11,6 +11,11 @@ snippet: Ugandan capital built across hills above Lake Victoria, busy with marke
   matatus, and royal tombs.
 title: Kampala
 type: location
+nature: 4.5
+leisure: 3.9
+adventure: 5.9
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Kampala is Uganda's capital, a sprawling, hilly, noisy city of around 1.7 million people a few miles north of Lake Victoria. Built across seven hills — the colonial-era joke that it was another Rome was taken seriously by town planners — it is the busy, matatu-clogged hub of a country that has rebuilt itself from the wreckage of Idi Amin's rule and the decades of civil war that followed.

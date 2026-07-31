@@ -9,6 +9,11 @@ snippet: Roadless Lake Superior island national park known for wilderness trails
   long-running wolf-moose research.
 title: Isle Royale
 type: location
+nature: 8.5
+leisure: 4.5
+adventure: 5.2
+city_culture: 1.6
+historic_culture: 1.6
 ---
 
 **Isle Royale National Park** is a roadless wilderness island in the northwest corner of Lake Superior, closer to the Canadian shore than to Michigan. It is one of the least-visited national parks in the lower 48, and that isolation is the point — no cars, no roads, no cell service. You get there by ferry or seaplane from Houghton or Copper Harbor, and once you arrive, you walk.

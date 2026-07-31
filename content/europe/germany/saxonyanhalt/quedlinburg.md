@@ -14,6 +14,11 @@ snippet: Medieval Harz-edge town with more than 1,300 half-timbered houses acros
   six centuries.
 title: Quedlinburg
 type: location
+nature: 2.7
+leisure: 7.1
+adventure: 2.6
+city_culture: 7.6
+historic_culture: 7.6
 ---
 
 Quedlinburg is one of the best-preserved medieval towns in Germany, a UNESCO World Heritage Site on the northern edge of the Harz Mountains in Saxony-Anhalt. The old town contains over 1,300 half-timbered houses spanning six centuries, from the 14th to the 19th, making it one of the largest collections of timber-frame architecture in Europe.

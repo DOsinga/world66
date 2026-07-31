@@ -14,6 +14,11 @@ title: Inari
 snippet: Northern Lapland municipality and Sámi cultural centre beside Lake Inari
   and Arctic wilderness areas.
 type: location
+nature: 6.7
+leisure: 4.5
+adventure: 5.2
+city_culture: 3.3
+historic_culture: 3.3
 ---
 
 Inari is a vast, sparsely populated municipality in northern Lapland — in area it's one of the largest municipalities in Finland, but most of it is Arctic wilderness. The small village of Inari itself sits on the southern shore of Lake Inari, Finland's third-largest lake.

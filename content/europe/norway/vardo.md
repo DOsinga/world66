@@ -14,6 +14,11 @@ snippet: Remote Barents Sea town on an island, home to Vardøhus Fortress, the n
   star fort.
 title: Vardø
 type: location
+nature: 7.0
+leisure: 3.8
+adventure: 6.0
+city_culture: 3.3
+historic_culture: 3.3
 ---
 
 Vardø is the easternmost town in Norway — further east than Istanbul and Cairo — perched on an island in the Barents Sea at the far end of the Varangerfjord. It is connected to the mainland by a subsea tunnel. The town is small, windswept, and remote, with a population of around 2,000.

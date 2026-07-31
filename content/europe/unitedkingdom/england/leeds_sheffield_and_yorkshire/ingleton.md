@@ -14,6 +14,11 @@ image_license: CC BY 2.0
 image_attribution: rophotosuk on Flickr
 snippet: Yorkshire Dales village below limestone scenery, known for river gorges and
   the Ingleton Waterfalls Trail.
+nature: 5.1
+leisure: 5.1
+adventure: 4.4
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Ingleton is a compact village on the western edge of the [Yorkshire Dales](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/yorkshire_dales), tucked beneath some of the finest limestone scenery in England. Two rivers, the Twiss and the Doe, converge just outside the village and between them define much of what draws visitors here.

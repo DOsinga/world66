@@ -13,6 +13,11 @@ snippet: Palauan commercial island and dive base beside the limestone Rock Islan
   and turquoise lagoons
 title: Koror
 type: location
+nature: 6.8
+leisure: 6.8
+adventure: 3.3
+city_culture: 2.5
+historic_culture: 2.5
 ---
 
 Koror is Palau's main island and the country's commercial heart — the place where nearly everyone stays, eats, and gears up for the underwater adventures that make Palau famous. It is a compact, walkable town with a mix of Japanese colonial relics, concrete shophouses, and dive shops lining the main road. Don't mistake busyness for charm: Koror is a functional base, not a destination in itself.

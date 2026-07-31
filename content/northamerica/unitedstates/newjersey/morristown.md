@@ -17,6 +17,11 @@ sources:
 - https://www.nps.gov/morr/index.htm
 title: Morristown
 type: location
+nature: 3.6
+leisure: 5.1
+adventure: 3.9
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Morristown is a pleasant New Jersey town about 30 miles west of Manhattan, best known for [Morristown National Historical Park](/northamerica/unitedstates/newjersey/morristown/morristown_national_historical_park) — the sites where George Washington and the Continental Army spent two brutal winters during the Revolutionary War.

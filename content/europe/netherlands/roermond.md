@@ -7,6 +7,11 @@ snippet: Limburg city at the Maas and Roer confluence, with a compact old centre
   cross-border character.
 title: Roermond
 type: location
+nature: 3.5
+leisure: 5.9
+adventure: 3.3
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Roermond is a city in the southeastern Netherlands, in the province of Limburg at the confluence of the Maas and Roer rivers. It sits close to the German and Belgian borders, which gives it a certain crossroads character — Limburg Dutch sounds quite different from Amsterdam Dutch and the Burgundian temperament of the south shows in the food and café culture.

@@ -14,6 +14,11 @@ snippet: Small Bay Islands dive base on the Mesoamerican Barrier Reef, known for
   scuba courses.
 title: Utila
 type: location
+nature: 7.4
+leisure: 7.0
+adventure: 3.0
+city_culture: 1.6
+historic_culture: 1.6
 ---
 
 Utila is the smallest and cheapest of the Bay Islands, 11 km long and sitting about 30 km off the north coast of Honduras. It has a well-earned reputation as one of the best-value places in the world to learn to [scuba dive](/northamerica/honduras/utila/diving) — prices for PADI open-water courses are lower here than almost anywhere comparable — and the diving itself is excellent.

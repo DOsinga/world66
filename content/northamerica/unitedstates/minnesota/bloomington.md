@@ -10,6 +10,11 @@ snippet: Minneapolis suburb home to Mall of America and riverside trails in Minn
   Valley National Wildlife Refuge.
 title: Bloomington
 type: location
+nature: 3.9
+leisure: 4.8
+adventure: 4.4
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Bloomington is a southern suburb of Minneapolis best known as the home of Mall of America, the largest shopping mall in the United States. If mega-malls are your thing, this one delivers — it has an indoor amusement park, an aquarium, and over 500 stores spread across four floors.

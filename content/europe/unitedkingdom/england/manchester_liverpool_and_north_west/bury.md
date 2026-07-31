@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Bury_St_Edmunds_Abbey
 title: Bury St Edmunds
 type: location
+nature: 2.7
+leisure: 6.3
+adventure: 2.8
+city_culture: 7.5
+historic_culture: 7.5
 ---
 
 Bury St Edmunds is one of eastern England's most complete Georgian market towns, and it wears that distinction without much fuss. The street grid laid out by Abbot Baldwin in the 11th century — one of the earliest planned town layouts in medieval England — still determines how the center works, and the buildings that line those streets are overwhelmingly 18th-century brick: gracious, proportionate, and well-maintained. Angel Hill, the broad open space fronting the [Abbey ruins](/europe/unitedkingdom/england/manchester_liverpool_and_north_west/bury/bury_st_edmunds_abbey), is surrounded by Georgian facades of unusual quality, and arriving through the Abbey Gate onto this square for the first time is one of Suffolk's genuinely satisfying architectural moments.

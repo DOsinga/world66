@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Christ_of_the_Abyss
 title: Camogli
 type: location
+nature: 6.3
+leisure: 7.0
+adventure: 2.9
+city_culture: 2.8
+historic_culture: 2.8
 ---
 
 Camogli is one of the most pleasant surprises on the Italian Riviera — a compact fishing village of tall, painted houses crammed together above a small [harbour](/europe/italy/liguria/italianriviera/paradisegulf/camogli/camogli_harbour), tucked between the Portofino headland and the open Ligurian Sea. The houses are famously colourful, their trompe-l'oeil facades a tradition dating back centuries, and the whole town feels like it has been gently compressed into its narrow strip of coast. The [Castello della Dragonara](/europe/italy/liguria/italianriviera/paradisegulf/camogli/castello_della_dragonara) anchors the scene from its rocky promontory above.

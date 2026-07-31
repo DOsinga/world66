@@ -14,6 +14,11 @@ snippet: Tuscan hill town on the Via Francigena, known for thermal springs and V
   countryside.
 title: Gambassi Terme
 type: location
+nature: 3.4
+leisure: 7.6
+adventure: 2.0
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Gambassi Terme is a small Tuscan hill town between Florence and Siena, set among olive groves and copse-covered hills in the Valdelsa. The area has been inhabited since Neolithic times, and in the Middle Ages it was an important stop on the Via Francigena — the medieval pilgrimage route from Canterbury to Rome. The [Romanesque parish church of Santa Maria a Chianni](/europe/italy/tuscany/florenceprovince/empolesevaldelsa/gambassiterme/church_of_santa_maria_a_chianni), just outside town, served those pilgrims.

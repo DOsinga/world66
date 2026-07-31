@@ -14,6 +14,11 @@ title: Slutsk
 type: location
 snippet: Belarusian city south of Minsk, known for the silk Slutsk sashes woven here
   in the 18th century.
+nature: 5.0
+leisure: 4.1
+adventure: 5.1
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Slutsk is a medium-sized city in the Minsk Region of [Belarus](/europe/belarus), about 100 kilometres south of the capital. It is one of the oldest towns in the country, first mentioned in 1116, though centuries of conflict have left little of its medieval heritage standing. The city is best known for the Slutsk sashes — elaborate silk belts woven here in the 18th century that became prestige symbols across the Polish-Lithuanian Commonwealth. Originals now hang in museums across Eastern Europe and fetch extraordinary prices when they occasionally surface at auction.

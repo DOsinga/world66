@@ -14,6 +14,11 @@ snippet: Tajik town near Dushanbe known for a ruined fortress, madrasas, and Buk
   governor history.
 title: Hisar
 type: location
+nature: 4.8
+leisure: 3.8
+adventure: 5.8
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Hisar (also spelled Hissar or Gissar) is a small town about 30 km west of [Dushanbe](/asia/tajikistan/dushanbe), best known for its 18th-century [fortress](/asia/tajikistan/hisar/hisar_fortress). The site was once the residence of the Bukharan regional governor and served as the administrative center of this part of Tajikistan until the Soviet period.

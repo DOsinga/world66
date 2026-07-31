@@ -14,6 +14,11 @@ snippet: Mekong River port city northeast of Phnom Penh, known for Wat Nokor and
   Khmer life.
 title: Kampong Cham
 type: location
+nature: 4.5
+leisure: 4.0
+adventure: 5.4
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Kampong Cham is a port city on the banks of the Mekong River, about 120 kilometres northeast of [Phnom Penh](/asia/cambodia/phnompenh). It is Cambodia's third-largest city and one of the more pleasant provincial towns to spend a day or two — relaxed, walkable, and less visited than the Angkor circuit.

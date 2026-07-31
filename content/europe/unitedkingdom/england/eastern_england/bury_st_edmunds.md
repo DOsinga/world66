@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/St_Edmundsbury_Cathedral
 title: Bury St Edmunds
 type: location
+nature: 2.9
+leisure: 6.2
+adventure: 2.9
+city_culture: 7.3
+historic_culture: 7.3
 ---
 
 Bury St Edmunds is one of Suffolk's best market towns: prosperous without feeling smug, historic without being embalmed. Its centre is compact, handsome, and unusually coherent, with Georgian shopfronts, old coaching inns, a working market, and the smell of brewing never very far away.

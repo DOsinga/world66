@@ -11,6 +11,11 @@ image: saintbartholomy.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Beach_at_the_Anse_de_Grande_Saline_on_St._Barthelemy,_French_West_Indies_-_panoramio.jpg
 image_license: CC BY 3.0
 image_attribution: David Broad
+nature: 4.9
+leisure: 8.4
+adventure: 1.6
+city_culture: 3.7
+historic_culture: 3.7
 ---
 
 Saint Barthélemy (St. Barts) is a French overseas collectivity in the Lesser Antilles — a small, hilly island of around 25 square kilometres with 22 beaches, over 80 restaurants, and a population of about 10,600. It has been a winter destination for the wealthy and famous for decades, and the island knows it: prices are high, the yachts in Gustavia harbour are impressive, and New Year's Eve is one of the Caribbean's more spectacular annual events. None of this makes it less worth visiting if you can afford it.

@@ -14,6 +14,11 @@ title: Warsash
 snippet: River Hamble sailing village with maritime training, mudflats, and a foot
   ferry to Hamble-le-Rice.
 type: location
+nature: 4.3
+leisure: 5.6
+adventure: 3.6
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Warsash is a quiet village at the mouth of the River Hamble, about ten miles east of Southampton. It grew up as a fishing village and has long been a centre for sailing — the Hamble is still crowded with yachts and the [Warsash Maritime School](/europe/unitedkingdom/england/south_east/warsash/warsash_maritime_school) trains Merchant Navy officers here. The hook-shaped shoreline runs into a [nature reserve](/europe/unitedkingdom/england/south_east/warsash/hook_with_warsash_reserve), and the inter-tidal mudflats attract good numbers of wading birds in winter.

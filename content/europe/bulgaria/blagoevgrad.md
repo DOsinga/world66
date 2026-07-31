@@ -14,6 +14,11 @@ snippet: University town in southwestern Bulgaria, with Varosha’s old quarter 
   a lively student atmosphere.
 title: Blagoevgrad
 type: location
+nature: 4.9
+leisure: 4.6
+adventure: 5.0
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Blagoevgrad is a university town about 100 km south of [Sofia](/europe/bulgaria/sofia), home to both the [American University in Bulgaria](/europe/bulgaria/blagoevgrad/things_to_do/aubg) (AUBG) and South-West University. The student population gives the town a livelier atmosphere than you might expect from a mid-sized Bulgarian city.

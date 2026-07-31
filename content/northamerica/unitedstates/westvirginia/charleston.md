@@ -15,6 +15,11 @@ snippet: West Virginia capital at the Kanawha-Elk confluence, marked by Cass Gil
   gold-domed State Capitol.
 title: Charleston
 type: location
+nature: 4.7
+leisure: 4.6
+adventure: 4.6
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Charleston is the capital of [West Virginia](/northamerica/unitedstates/westvirginia) and the state's largest city, sitting at the confluence of the Kanawha and Elk rivers. With a population of around 50,000 in the city proper and 200,000 in the wider metro, it punches above its weight as a regional hub for government, healthcare, and what remains of the chemical industry that defined this valley for most of the 20th century.

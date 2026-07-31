@@ -13,6 +13,11 @@ sources:
 - https://tourisme-meurtheetmoselle.fr/en/accueil/lessentiel/patrimoine/sites-monuments/955000882-chateau-de-cons-la-grandville
 title: Cons-la-Grandville
 type: location
+nature: 4.3
+leisure: 5.6
+adventure: 3.6
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Cons-la-Grandville is a very small Lorraine village southwest of Longwy, close to the Belgian and Luxembourg borders. It would barely register on most itineraries if not for its château, which rises above the Chiers valley with a jumble of medieval, Renaissance, and classical work layered into one compact estate.

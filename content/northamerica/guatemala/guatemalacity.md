@@ -15,6 +15,11 @@ snippet: Highland Central American capital with a mild valley climate and an und
   historic centre
 title: Guatemala City
 type: location
+nature: 4.1
+leisure: 5.5
+adventure: 4.2
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Guatemala City is the capital and by far the largest city in Central America (excluding Mexico), with a metropolitan population over 3 million. It sits in a wide valley at about 1,500 metres elevation, giving it a mild climate year-round.

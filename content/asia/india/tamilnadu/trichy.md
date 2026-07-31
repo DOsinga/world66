@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Ranganathaswamy_Temple,_Srirangam
 title: Trichy
 type: location
+nature: 2.5
+leisure: 5.1
+adventure: 4.4
+city_culture: 8.4
+historic_culture: 8.4
 ---
 
 Trichy, officially Tiruchirappalli, sits where the Kaveri River splits and the temple country of central Tamil Nadu begins to spread toward the delta. It is less polished than [Thanjavur](/asia/india/tamilnadu/thanjavur) and less overwhelming than Madurai, but it has one of South India's great urban skylines: the [Rockfort](/asia/india/tamilnadu/trichy/rockfort) rising abruptly from the city, with temple towers and river islands around it.

@@ -15,6 +15,11 @@ type: location
 score: 7.82
 snippet: Tibetan county town in northwestern Yunnan, gateway to sacred Meili Snow
   Mountain and Kawa Karpo.
+nature: 7.8
+leisure: 2.7
+adventure: 7.1
+city_culture: 2.5
+historic_culture: 2.5
 ---
 
 Deqin is a small Tibetan county town at 3,550 metres in the Hengduan Mountains of northwestern Yunnan, pressed between the Mekong River gorge and the eastern wall of the Himalayas. Around 80 percent of its 55,000 residents are Tibetan, and the town functions as the practical gateway to [Meili Snow Mountain](/asia/china/yunnanprovince/deqin/meili_snow_mountain), a massif of eight peaks above 6,000 metres whose highest summit, Kawa Karpo at 6,740 metres, has never been climbed. A 1991 Japanese-Chinese expedition attempting the summit lost all 17 members to an avalanche; the mountain has been closed to climbing ever since, considered sacred by Tibetan Buddhists.

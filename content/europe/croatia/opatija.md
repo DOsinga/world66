@@ -15,6 +15,11 @@ title: Opatija
 snippet: Grand Kvarner Gulf resort town with Austro-Hungarian villas, formal gardens,
   and a seafront promenade
 type: location
+nature: 3.7
+leisure: 8.3
+adventure: 1.5
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Opatija is Croatia's grandest old resort town, draped across a hillside above the Kvarner Gulf and still wearing its Austro-Hungarian finery with considerable pride. Where Dubrovnik has medieval walls and Split has a Roman palace, Opatija has Belle Epoque villas, formal gardens, and a promenade that once drew emperors and composers. Franz Joseph I, Kaiser Wilhelm II, Gustav Mahler, and Anton Chekhov all came here to take the sea air. [Villa Angiolina](/europe/croatia/opatija/villa_angiolina), the neoclassical house that started the resort, and the [Hotel Kvarner](/europe/croatia/opatija/hotel_kvarner), the first hotel on the Adriatic coast, both still stand. The style they came for survives remarkably intact.

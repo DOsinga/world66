@@ -16,6 +16,11 @@ snippet: Punjab archaeological city where Greek-planned streets, Buddhist monast
   and ancient learning sites overlap.
 title: Taxila
 type: location
+nature: 2.9
+leisure: 4.2
+adventure: 5.5
+city_culture: 8.1
+historic_culture: 8.1
 ---
 
 Taxila is one of South Asia's most important archaeological sites, a UNESCO World Heritage Site sprawling across the Punjab plains about 35 kilometres northwest of Islamabad. For over a thousand years, from roughly the 5th century BC to the 5th century AD, this was a centre of learning, trade, and Buddhist art that rivalled anything in the ancient world.

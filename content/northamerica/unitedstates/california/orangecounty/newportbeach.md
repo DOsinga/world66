@@ -14,6 +14,11 @@ snippet: Southern California beach city built around a large harbour, Balboa Pen
   and oceanfront boardwalks.
 title: Newport Beach
 type: location
+nature: 4.4
+leisure: 8.3
+adventure: 1.6
+city_culture: 4.0
+historic_culture: 4.0
 ---
 
 Newport Beach is one of southern California's wealthiest beach cities, set around a vast natural harbour that holds the largest concentration of pleasure craft on the west coast. The mix is a particular Orange County one: a long sandy peninsula with old beach cottages and bungalows, an inland district of luxury malls and corporate offices, and a string of artificial islands in the harbour itself with some of the most expensive real estate in California.

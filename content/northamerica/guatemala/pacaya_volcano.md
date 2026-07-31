@@ -13,6 +13,11 @@ image: pacaya_volcano.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Pacaya-08.jpg
 image_license: CC BY-SA 2.5
 image_attribution: Rolfcosar
+nature: 7.7
+leisure: 4.4
+adventure: 5.4
+city_culture: 2.5
+historic_culture: 2.5
 ---
 
 Standing at 8,371 feet (2,552 meters), the highly active Pacaya Volcano is perhaps the most climbed volcano in Guatemala.

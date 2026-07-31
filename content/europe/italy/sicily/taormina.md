@@ -14,6 +14,11 @@ score: 9.48
 snippet: Cliffside Sicilian town where a Greek theatre faces Mount Etna and the Mediterranean
 title: Taormina
 type: location
+nature: 3.1
+leisure: 8.3
+adventure: 1.6
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Taormina is so beautifully located that it would not need great sights to attract visitors. The fact that it does have them makes it an absolute must. Perched on a rocky promontory at the foot of Mount Etna and looking out over the azure Mediterranean, the town has drawn visitors for centuries.

@@ -13,6 +13,11 @@ snippet: Ceará beach capital where Atlantic trade winds, craft markets, and nig
   music shape the waterfront
 title: Fortaleza
 type: location
+nature: 4.0
+leisure: 6.1
+adventure: 3.3
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Fortaleza is the capital of Ceará state and one of Brazil's largest cities, with about 2.5 million people, on the Atlantic coast in the northeast. It is primarily a beach city: the urban beaches of [Praia de Iracema](/southamerica/brazil/fortaleza/praia_de_iracema) and [Meireles](/southamerica/brazil/fortaleza/meireles) line the Avenida Beira Mar, which comes alive every evening with food stalls, craft markets, and street performers. The ocean breeze keeps temperatures bearable year-round, and the trade winds make the northeast coast ideal for kitesurfing — especially at [Cumbuco](/southamerica/brazil/fortaleza/cumbuco), 40 km west.

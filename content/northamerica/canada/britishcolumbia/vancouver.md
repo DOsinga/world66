@@ -14,6 +14,11 @@ snippet: Pacific port city where dense downtown neighbourhoods sit between Coast
   forest, and saltwater.
 title: Vancouver
 type: location
+nature: 3.9
+leisure: 8.5
+adventure: 1.7
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Vancouver sits on a peninsula between mountains and the sea, with snow-capped Coast Mountains rising directly from saltwater inlets and forests pushing right up against the downtown core. The combination gives the city a distinctive quality — you can ski in the morning, bike a seawall in the afternoon, and eat some of the best Asian food in North America for dinner. It is consistently ranked among the most liveable cities in the world, and the locals — a high proportion of whom moved here from somewhere else — generally agree.

@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Beauvais_Cathedral
 - https://en.wikipedia.org/wiki/Basse_%C5%92uvre
 - https://en.wikipedia.org/wiki/Mus%C3%A9e_d%C3%A9partemental_de_l%27Oise
+nature: 3.2
+leisure: 6.4
+adventure: 2.8
+city_culture: 7.0
+historic_culture: 7.0
 ---
 
 Most visitors arrive in Beauvais by budget airline and leave on the next bus to Paris, never quite intending to stop. That's a mistake. The city has one genuinely extraordinary thing — the Cathédrale Saint-Pierre de Beauvais — and it is among the most remarkable buildings in France.

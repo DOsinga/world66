@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Tarbet,_Sutherland
 title: Handa Island
 type: location
+nature: 8.1
+leisure: 4.9
+adventure: 4.8
+city_culture: 1.7
+historic_culture: 1.7
 ---
 
 Handa is a small island off the coast of Sutherland, formed of ancient Torridonian sandstone and managed by the Scottish Wildlife Trust as a nature reserve. In summer it holds one of the most impressive seabird colonies in northwest Europe — guillemots, razorbills, kittiwakes, fulmars, puffins, and great skuas all breed here in numbers that can overwhelm the senses.

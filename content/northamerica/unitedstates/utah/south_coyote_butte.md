@@ -14,6 +14,11 @@ snippet: Remote Vermilion Cliffs sandstone area of eroded teepees, fins, and des
   flats near the Utah-Arizona border.
 title: Coyote Buttes South
 type: location
+nature: 9.8
+leisure: 2.3
+adventure: 7.4
+city_culture: 0.6
+historic_culture: 0.6
 ---
 
 Coyote Buttes South is one of the most remote and least-visited parts of the Paria Canyon-Vermilion Cliffs Wilderness, straddling the Utah-Arizona border about 40 miles west of Page, Arizona. It is managed by the Bureau of Land Management, which strictly limits access to 20 visitors per day — a permit is required and must be reserved well in advance.

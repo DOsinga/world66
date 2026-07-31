@@ -14,6 +14,11 @@ snippet: Alpine lake resort with a cliffside castle, island church, and Julian A
   backdrop.
 title: Bled
 type: location
+nature: 5.8
+leisure: 7.8
+adventure: 2.4
+city_culture: 3.2
+historic_culture: 3.2
 ---
 
 A fairytale castle on a cliff, a crystal-clear lake with a tiny island church, snow-capped Julian Alps as a backdrop — Bled looks almost too picturesque to be real. It is Slovenia's most visited resort, about an hour by bus from [Ljubljana](/europe/slovenia/ljubljana), and it earns the attention.

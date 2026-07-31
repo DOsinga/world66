@@ -14,6 +14,11 @@ title: Messina
 type: location
 snippet: Sicilian port city facing Calabria across the strait, rebuilt after the 1908
   earthquake.
+nature: 3.0
+leisure: 7.0
+adventure: 2.6
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 Messina is the gateway to Sicily, the first city you see when crossing the Strait from the mainland by ferry. It sits on one of the most strategically important waterways in the Mediterranean, and has been fought over, shaken, and rebuilt more times than almost any city in Europe. A catastrophic earthquake in 1908 killed tens of thousands and flattened the old city, and Allied bombing in World War II finished what the earthquake started. As a result, Messina lacks the layered historic centre you find in [Palermo](/europe/italy/sicily/palermo) or [Catania](/europe/italy/sicily/catania).

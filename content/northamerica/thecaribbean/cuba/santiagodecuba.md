@@ -10,6 +10,11 @@ title: Santiago de Cuba
 type: location
 snippet: Caribbean Cuban city between Sierra Maestra and sea, known for son music
   and revolutionary memory.
+nature: 3.1
+leisure: 6.3
+adventure: 3.4
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 Santiago de Cuba is Cuba's second city, but it often feels like the real capital — fiercer, louder, and more Caribbean than Havana. Wedged between the Sierra Maestra mountains and the sea, the city climbs steeply through a tangle of narrow streets where Afro-Cuban rhythms pour from open doorways and the heat is relentless.

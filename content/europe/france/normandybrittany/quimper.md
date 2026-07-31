@@ -13,6 +13,11 @@ snippet: Breton cultural city of half-timbered streets, twin-spired cathedral, a
   hand-painted faïence pottery.
 title: Quimper
 type: location
+nature: 3.2
+leisure: 7.1
+adventure: 2.3
+city_culture: 7.0
+historic_culture: 7.0
 ---
 
 Quimper is the cultural capital of Finistère and, many Bretons would argue, of Brittany itself. It sits at the confluence of the Odet and Steir rivers, and its [medieval centre](/europe/france/normandybrittany/quimper/old_town) — half-timbered houses leaning over cobblestoned streets, the twin-spired [Cathédrale Saint-Corentin](/europe/france/normandybrittany/quimper/cathedrale_saint_corentin) rising above it all — is one of the best preserved in western France.

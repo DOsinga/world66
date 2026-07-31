@@ -13,6 +13,11 @@ snippet: County Tyrone market town with a famously long main street aligned towa
   Slieve Gallion
 title: Cookstown
 type: location
+nature: 4.8
+leisure: 4.0
+adventure: 5.2
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Cookstown is a mid-sized town in County Tyrone, [Northern Ireland](/europe/unitedkingdom/northernireland), known for its exceptionally wide and long main street, which runs dead straight for over two kilometres and is aligned on the distant peak of Slieve Gallion. The town was laid out as a plantation settlement in the early 17th century, and that bold linear plan still defines its character.

@@ -14,6 +14,11 @@ snippet: Tiny Humboldt harbour town above Trinidad Bay, with bluff trails and re
   beaches.
 title: Trinidad
 type: location
+nature: 6.1
+leisure: 5.2
+adventure: 4.5
+city_culture: 3.7
+historic_culture: 3.7
 ---
 
 Trinidad is a tiny harbour town on the Humboldt County coast, perched on a bluff above a spectacular bay. It is one of the oldest settlements in California — the Spanish named it on Trinity Sunday in 1775 — and today has a population of barely 300, though the surrounding area draws visitors year-round.

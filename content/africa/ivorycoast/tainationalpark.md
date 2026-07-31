@@ -9,6 +9,11 @@ snippet: West African rainforest national park protecting chimpanzees, pygmy hip
   and the Upper Guinea forest.
 title: Tai national park
 type: location
+nature: 8.7
+leisure: 3.8
+adventure: 5.9
+city_culture: 1.4
+historic_culture: 1.4
 ---
 
 Tai National Park is the largest remaining tract of primary tropical rainforest in West Africa and a UNESCO World Heritage Site. Covering over 3,300 square kilometres in the southwest corner of [Ivory Coast](/africa/ivorycoast), the park protects an ecosystem that has largely disappeared elsewhere in the region. If you want to see what the Upper Guinea forest looked like before logging and farming took most of it, this is the place.

@@ -13,6 +13,11 @@ title: Méribel
 snippet: Savoyard ski resort in Les Trois Vallées, built with wood-and-stone discipline
   above Les Allues.
 type: location
+nature: 6.9
+leisure: 6.8
+adventure: 3.3
+city_culture: 2.4
+historic_culture: 2.4
 ---
 
 Méribel was founded in 1938 by Scottish colonel Peter Lindsay, who built the resort's first lift above the village of Les Allues with the explicit aim of creating a ski resort that remained true to its mountain setting. That architectural discipline has held: all the buildings in Méribel are constructed in the traditional Savoyard style, with wood and stone, making it one of the most visually coherent resorts in France. There are no concrete blocks here.

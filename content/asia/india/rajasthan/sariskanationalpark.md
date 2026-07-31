@@ -7,6 +7,11 @@ score: 7.92
 loc_type: feature
 snippet: Aravalli Hills tiger reserve with dry forest, quieter jeep safaris, and Kankwari
   Fort ruins.
+nature: 6.8
+leisure: 4.6
+adventure: 5.1
+city_culture: 3.2
+historic_culture: 3.2
 ---
 
 Sariska Tiger Reserve sits in the Aravalli Hills about 35 km from [Alwar](/asia/india/rajasthan/alwar) and 200 km from Delhi. It is smaller and far less visited than Ranthambore, which means quieter jeep safaris and a more authentic wilderness feel, though tiger sightings are less predictable.

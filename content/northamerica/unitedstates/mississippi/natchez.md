@@ -10,6 +10,11 @@ snippet: Mississippi River bluff town with a notable concentration of antebellum
   and Natchez Trace history.
 title: Natchez
 type: location
+nature: 3.3
+leisure: 5.6
+adventure: 3.5
+city_culture: 7.0
+historic_culture: 7.0
 ---
 
 Natchez is the oldest settlement on the Mississippi River, perched on a bluff high above the water. It is one of the great antebellum towns of the American South — a place where the wealth of the cotton economy produced an extraordinary concentration of grand houses, many of which survive intact. Few Southern towns have preserved such a rich architectural heritage.

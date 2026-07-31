@@ -7,6 +7,11 @@ snippet: Small southeastern Estonian town in Põlva County, set among rolling fa
   lakes, and forest.
 title: Põlva
 type: location
+nature: 4.2
+leisure: 4.1
+adventure: 5.0
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Põlva is a small town in southeastern Estonia, the administrative centre of Põlva County. It sits in a gently rolling landscape of farmland, lakes, and forest that is typical of this quiet corner of the country. The town is modest in size but has an unexpectedly rich cultural history rooted in the Estonian national awakening of the 19th century — the first Estonian song festivals were held here in 1855 and 1857.

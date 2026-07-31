@@ -17,6 +17,11 @@ sources:
 - https://www.hh.gr/en/destinations/malia/
 title: Malia
 type: location
+nature: 4.4
+leisure: 8.0
+adventure: 1.7
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Malia is two places awkwardly sharing one name. Along the coast it is one of Crete's best-known party resorts, a strip of bars, clubs, fast food, scooter rentals and sunburned holiday energy. A little inland, the old village is quieter, with tavernas and narrow lanes. East of both sits the real reason culturally curious travellers come: the [Minoan Palace of Malia](/europe/greece/crete/malia/minoan_palace_of_malia), one of the major Bronze Age sites of Crete.

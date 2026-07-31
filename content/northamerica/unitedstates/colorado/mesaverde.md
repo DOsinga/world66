@@ -16,6 +16,11 @@ sources:
 - https://www.nps.gov/meve/planyourvisit/placestogo.htm
 title: Mesa Verde National Park
 type: location
+nature: 7.9
+leisure: 4.4
+adventure: 5.5
+city_culture: 2.5
+historic_culture: 2.5
 ---
 
 Mesa Verde National Park protects one of the most astonishing cultural landscapes in North America: mesa tops, canyons, and alcoves where Ancestral Pueblo communities built villages, farms, roads, reservoirs, and cliff dwellings long before Europeans arrived in the region. The famous houses tucked under sandstone ledges are only part of the story; the wider park shows a society adapting with skill and imagination to a dry, demanding place.

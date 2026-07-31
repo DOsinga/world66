@@ -14,6 +14,11 @@ snippet: Nicaraguan university city of colonial churches, revolutionary murals, 
   fierce Leónese pride
 title: León
 type: location
+nature: 5.9
+leisure: 4.0
+adventure: 5.5
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 León is Nicaragua's intellectual and revolutionary heart, a university city of grand colonial churches, political murals, and a fierce local pride that distinguishes it from rival [Granada](/northamerica/nicaragua/granada) to the south. It was the country's capital until the 1850s, and the centro histórico still feels like it — wide streets, heavy-walled colonial houses, and more churches per block than anywhere else in Central America.

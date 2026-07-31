@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Vodo_di_Cadore
 title: Vodo di Cadore
 type: location
+nature: 6.9
+leisure: 5.5
+adventure: 4.3
+city_culture: 2.7
+historic_culture: 2.7
 ---
 
 Vodo di Cadore is a small mountain comune on the SS51 between Pieve di Cadore and [Cortina d'Ampezzo](/europe/italy/veneto/cortina_dampezzo), sitting at the geographical centre of the upper Cadore valley. The village is strung along the valley road for about a kilometre at roughly 900 metres elevation, in the shadow of two of the most striking peaks in the Dolomites: [Monte Antelao](/europe/italy/veneto/san_vito_di_cadore/monte_antelao) to the east and [Monte Pelmo](/europe/italy/veneto/san_vito_di_cadore/monte_pelmo) to the west.

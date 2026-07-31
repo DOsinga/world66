@@ -13,6 +13,11 @@ score: 7.84
 snippet: Windy Chilean port city on the Strait of Magellan, long a gateway to Patagonia
 title: Punta Arenas
 type: location
+nature: 7.7
+leisure: 4.6
+adventure: 5.3
+city_culture: 2.6
+historic_culture: 2.6
 ---
 
 Punta Arenas sits on the edge of the **Strait of Magellan**, at the very bottom of continental Chile, and for most of its history it has been one of the most isolated cities in the world. Founded in 1848 as a Chilean military outpost to secure the strait, it grew rich in the second half of the nineteenth century on sheep, wool and shipping — every vessel from Europe to California came this way before the Panama Canal opened in 1914. That brief golden age left behind an extraordinary collection of belle-époque mansions built by British, Croatian and Spanish estancia owners, and most of the cemetery, bank buildings and central Plaza Muñoz Gamero feel more like a slightly weathered European provincial capital than a Patagonian port.

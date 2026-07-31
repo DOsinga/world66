@@ -16,6 +16,11 @@ snippet: California Gold Rush town of Victorian storefronts, brick buildings, ga
   and Deer Creek hills.
 title: Nevada City
 type: location
+nature: 4.7
+leisure: 5.1
+adventure: 4.4
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Nevada City is one of the best-preserved Gold Rush towns in California — a tight cluster of Victorian storefronts and brick buildings stacked up a hill above Deer Creek, 60 miles northeast of Sacramento. It doesn't feel like a museum piece. The downtown is genuinely alive with restaurants, galleries, and independent shops, and the surrounding hills draw hikers, cyclists, and wine tourists year-round.

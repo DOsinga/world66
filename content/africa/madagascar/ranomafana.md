@@ -16,6 +16,11 @@ sources:
 - https://parcs-madagascar.com/en/parc/ranomafana-2/
 title: Ranomafana
 type: location
+nature: 9.3
+leisure: 3.7
+adventure: 6.0
+city_culture: 1.0
+historic_culture: 1.0
 ---
 
 Ranomafana is both a village and a rainforest destination, but travellers come for the forest. The national park protects a wet, steep, tangled slice of eastern Madagascar where mist hangs in the valleys and lemurs move through bamboo, palms, and mossy trees.

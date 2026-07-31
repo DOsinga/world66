@@ -14,6 +14,11 @@ snippet: Oka River city south of Moscow, founded as a fortress and closely tied 
   Ivan Turgenev
 title: Orel
 type: location
+nature: 4.3
+leisure: 4.5
+adventure: 4.7
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Oryol — written Orel in Russian — sits on the Oka River in western Russia, about 370 kilometres south of Moscow. Ivan the Terrible founded it in 1564 as a defensive fort against Tatar raids from the steppe, and the town grew steadily as the frontier moved south.

@@ -14,6 +14,11 @@ snippet: Rift Valley highland city and Kalenjin centre known for Kenya's distanc
   training culture.
 title: Eldoret
 type: location
+nature: 7.2
+leisure: 4.5
+adventure: 5.5
+city_culture: 2.9
+historic_culture: 2.9
 ---
 
 Eldoret is Kenya's fifth-largest city, an agricultural and trading hub in the Rift Valley highlands at an elevation of around 2,100 metres. It is the centre of Kalenjin country and the heartland of Kenyan distance running — many of the world's greatest marathon runners have trained here, drawn by the altitude, the terrain, and a running culture that goes back generations. The [Kipchoge Keino Stadium](/africa/kenya/theriftvalley/eldoret/kipchoge_keino_stadium) bears the name of the man who started it all.

@@ -16,6 +16,11 @@ sources:
 - https://www.openstreetmap.org/
 title: Bolifushi
 type: location
+nature: 6.5
+leisure: 7.6
+adventure: 2.5
+city_culture: 2.2
+historic_culture: 2.2
 ---
 
 Bolifushi is a small private island in South Malé Atoll, close enough to the airport for a short speedboat or catamaran transfer but far enough from Malé to feel properly lagoon-bound. It is not a village island and it does not have an independent backpacker scene; the island is essentially a single high-end resort set in a shallow reef lagoon.

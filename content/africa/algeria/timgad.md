@@ -14,6 +14,11 @@ snippet: Roman ruin city in Algeria, laid out on Trajan's grid at the edge of th
   Aurès Mountains.
 title: Timgad
 type: location
+nature: 3.1
+leisure: 4.5
+adventure: 5.1
+city_culture: 7.9
+historic_culture: 7.9
 ---
 
 Timgad is one of the finest Roman ruins in Africa — a complete Roman colonial city that was buried under sand for centuries and emerged remarkably intact. Emperor Trajan founded it in AD 100 as a garrison town on the edge of the Aurès Mountains, about 35 km south of Batna. It was designed to keep the Berber tribes in check, though the city that grew up here was thoroughly civilian: forum, theatre, markets, temples, public baths, and thousands of ordinary shops and workshops.

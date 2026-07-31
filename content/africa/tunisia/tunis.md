@@ -16,6 +16,11 @@ snippet: Layered Tunisian capital where a UNESCO medina meets French-built boule
   and nearby Carthage ruins
 title: Tunis
 type: location
+nature: 3.5
+leisure: 4.4
+adventure: 5.1
+city_culture: 7.0
+historic_culture: 7.0
 ---
 
 Tunis is a city of layers. The medina, a UNESCO World Heritage Site, climbs a low hill in a tangle of alleys, covered souks, and centuries-old mosques. At its feet, the French-built Ville Nouvelle stretches along broad, tree-lined avenues with sidewalk cafes and art-deco facades. The contrast between the two is the city's defining quality -- you can step from a 13th-century madrasa into a Parisian-style boulevard in under a minute.

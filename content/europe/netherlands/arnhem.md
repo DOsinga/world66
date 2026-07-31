@@ -15,6 +15,11 @@ title: Arnhem
 type: location
 snippet: Arnhem is a green Dutch Rhine city linked to the 1944 Allied airborne operation
   at its bridge.
+nature: 3.3
+leisure: 6.1
+adventure: 3.2
+city_culture: 7.1
+historic_culture: 7.1
 ---
 
 Arnhem is a mid-sized Dutch city on the Lower Rhine, known internationally as the setting of *A Bridge Too Far* -- the failed Allied airborne operation of September 1944. Today the city wears that history lightly: the [John Frost Bridge](/europe/netherlands/arnhem/john_frost_bridge) renamed for the British commander who held it, the [Airborne Museum Hartenstein](/europe/netherlands/arnhem/airborne_museum_oosterbeek) in nearby Oosterbeek, and a few memorials are all that remain.

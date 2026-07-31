@@ -15,6 +15,11 @@ score: 6.51
 title: Tulsa
 type: location
 snippet: Oklahoma oil city on Route 66 with a strong Art Deco architectural inheritance.
+nature: 3.2
+leisure: 4.9
+adventure: 4.2
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Located northeast of [Oklahoma City](/northamerica/unitedstates/oklahoma/oklahomacity) on Route 66, Tulsa is the second city of the state and a good starting point for exploring Green Country, the lush northeastern corner of Oklahoma.

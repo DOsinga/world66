@@ -14,6 +14,11 @@ snippet: South African coastal city beneath Table Mountain, blending beaches, vi
   colonial history, and post-apartheid complexity.
 title: Cape Town
 type: location
+nature: 4.6
+leisure: 8.2
+adventure: 2.2
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Cape Town has the most beautiful of settings, wedged between the Atlantic and the flat-topped massif of [Table Mountain](/africa/southafrica/capetown/tablemountain). Combine that with a Mediterranean climate, a layered colonial and post-apartheid history, and one of the most varied collections of sights in any African city, and you have one of the world's great travel destinations.

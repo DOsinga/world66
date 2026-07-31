@@ -14,6 +14,11 @@ snippet: Walloon Meuse River town with a hilltop citadel and Notre-Dame's great 
   Rondia rose window
 title: Huy
 type: location
+nature: 4.0
+leisure: 5.0
+adventure: 4.1
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Huy is a small Walloon town on the Meuse River, roughly halfway between [Namur](/europe/belgium/namur) and [Liege](/europe/belgium/liege). It has been a crossroads since Roman times, and the river, the bluffs, and the citadel above make it one of the more attractive stops in the Meuse Valley.

@@ -16,6 +16,11 @@ image: drama.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Agia_Varvara_Park_and_Saint_Barbara_Church_in_Drama.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Мико
+nature: 3.4
+leisure: 6.3
+adventure: 3.1
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Drama is a city in northeastern Greece, in the region of Eastern Macedonia and Thrace, set in a broad plain between the Rhodope mountains to the north and the Kavala plain to the south. It is one of the greenest cities in Greece, with numerous springs and streams running through the city centre, feeding parks and gardens that give it a pleasant, almost alpine character unusual for Greece.

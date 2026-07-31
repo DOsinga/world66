@@ -14,6 +14,11 @@ longitude: 60.597474
 score: 6.73
 title: Yekaterinburg
 type: location
+nature: 4.2
+leisure: 4.7
+adventure: 4.9
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Yekaterinburg is Russia's fourth-largest city and the capital of the Urals, straddling the geographic [boundary between Europe and Asia](/europe/russia/ekaterinoburg/europe_asia_border). A major stop on the Trans-Siberian Railway, it is the place where the last tsar and his family were executed in 1918 — the [Church on Blood](/europe/russia/ekaterinoburg/church_on_blood), built on the site, is the city's most visited landmark. The nearby monastery at [Ganina Yama](/europe/russia/ekaterinoburg/ganina_yama) marks the spot where the bodies were taken afterwards.

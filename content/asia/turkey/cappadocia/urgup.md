@@ -18,6 +18,11 @@ title: Urgup
 type: location
 snippet: Cappadocian base town of hillside stone houses, cave hotels, wine bars, and
   nearby fairy chimneys.
+nature: 5.6
+leisure: 4.5
+adventure: 5.0
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Urgup is one of the main base towns for exploring [Cappadocia](/asia/turkey/cappadocia), along with [Goreme](/asia/turkey/cappadocia/goreme) and Avanos. It has a slightly more upmarket feel than Goreme — the [old stone houses on the hillside](/asia/turkey/cappadocia/urgup/urgup_cave_town) have been converted into boutique hotels carved directly from the volcanic tuff, and the town centre has good restaurants and a lively evening atmosphere anchored by Cappadocia's own [wine bars](/asia/turkey/cappadocia/urgup/urgup_wine).

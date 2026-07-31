@@ -14,6 +14,11 @@ snippet: Southwestern Utah desert city ringed by red rock cliffs, mild winters, 
   nearby canyon parks
 title: St. George
 type: location
+nature: 4.8
+leisure: 4.5
+adventure: 4.8
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 St. George sits in Utah's southwest corner, surrounded by red rock cliffs and desert landscape that feels more like southern Nevada than the rest of the state. With over 300 days of sunshine a year and mild winters, it has become a base for outdoor pursuits and a popular stop on the drive between [Salt Lake City](/northamerica/unitedstates/utah/saltlakecity) and [Las Vegas](/northamerica/unitedstates/nevada/lasvegas).

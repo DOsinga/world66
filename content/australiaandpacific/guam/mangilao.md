@@ -14,6 +14,11 @@ snippet: Guam village and university hub, home to Micronesia’s main campus and
   research collections.
 title: Mangilao
 type: location
+nature: 5.3
+leisure: 4.9
+adventure: 4.8
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Mangilao is a village on the east coast of **Guam**, midway up the island and home to the main campus of the [University of Guam](/australiaandpacific/guam/mangilao/university_of_guam) — the largest higher-education institution in Micronesia — along with its associated [Richard F. Taitano Micronesian Area Research Center](/australiaandpacific/guam/mangilao/micronesian_area_research_center), which holds the most important collection of Chamorro and Micronesian ethnographic and historical material in the region. Beyond the university, Mangilao is mostly a quiet residential area along Route 4, with the dramatic [Pago Bay overlook](/australiaandpacific/guam/mangilao/pago_bay_overlook) at its southern end — one of the best views on the island, across the bay where the Chamorro first met the Spanish in 1565.

@@ -10,6 +10,11 @@ snippet: Small Kenyan coastal town on Kilifi Creek, with Mnarani ruins and quiet
   Ocean beaches nearby.
 title: Kilifi
 type: location
+nature: 5.9
+leisure: 5.5
+adventure: 4.3
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 Kilifi is a small coastal town about halfway between Mombasa and [Malindi](/africa/kenya/thecoast/malindi), set on a beautiful creek that opens into the Indian Ocean. It is quieter and less developed than either of its neighbours, which is part of the appeal — the beach is good, the pace is slow, and the expat community around [Distant Relatives Ecolodge](/africa/kenya/thecoast/kilifi/distant_relatives) has brought a handful of decent restaurants and bars.

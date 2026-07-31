@@ -13,6 +13,11 @@ score: 7.7
 title: Scalea
 snippet: Calabrian seaside town with a hilltop old centre above the Tyrrhenian coast.
 type: location
+nature: 4.5
+leisure: 5.9
+adventure: 3.8
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Scalea sits on the Tyrrhenian coast of northern Calabria, its old town clinging to the heights with the remains of ancient walls and a tower. Below, the Scalea Marina has developed in recent decades with hotels, villas, and long stretches of equipped beach.

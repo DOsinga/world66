@@ -16,6 +16,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Niagara_Falls_(New_York)
 title: Niagara Falls
 type: location
+nature: 5.2
+leisure: 7.4
+adventure: 2.1
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Niagara Falls, New York is the American city that has grown up beside one of the world's most famous natural wonders, and the gap between the spectacle of the falls and the condition of the town is one of the more striking contrasts in North American travel. The falls are overwhelming — the roar and spray of 3,000 tonnes of water per second dropping 57 metres is an experience that justifies the journey. The city itself is a post-industrial rust belt town that has seen better days, though it has genuine history and a handful of worthwhile institutions beyond the falls.

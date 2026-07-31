@@ -10,6 +10,11 @@ title: Zarafshan
 type: location
 snippet: Gold-mining city in Uzbekistan's Kyzyl Kum desert, built around the Muruntau
   deposit.
+nature: 6.2
+leisure: 3.1
+adventure: 6.4
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 Zarafshan is a closed gold-mining city planted in the middle of the [Kyzyl Kum](/asia/uzbekistan/zarafshan/kyzyl_kum_desert) desert in northern Uzbekistan. It exists entirely because of the [Muruntau gold deposit](/asia/uzbekistan/zarafshan/muruntau_mine) nearby — one of the largest open-pit gold mines in the world — and it has essentially no reason to exist otherwise. The city is home to an expat community of miners and engineers, but almost no travelers ever make it here.

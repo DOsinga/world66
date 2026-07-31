@@ -13,6 +13,11 @@ snippet: Western Honshu city rebuilt around peace memorials, with Mazda industry
   nearby Miyajima excursions.
 title: Hiroshima
 type: location
+nature: 2.5
+leisure: 5.9
+adventure: 3.8
+city_culture: 8.3
+historic_culture: 8.3
 ---
 
 When the first atomic bomb exploded over Hiroshima on 6 August 1945, the city became an immediate symbol of the horrors of war. Today, with a population of over a million, Hiroshima has rebuilt itself into a modern industrial city — Mazda's headquarters and main factory are here — but it has not let the world forget what happened.

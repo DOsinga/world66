@@ -14,6 +14,11 @@ snippet: Auvergne city built from dark Volvic lava stone beside the volcanic Cha
   des Puys.
 title: Clermont-Ferrand
 type: location
+nature: 3.7
+leisure: 6.6
+adventure: 2.9
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Clermont-Ferrand sits on a plateau surrounded by the volcanic peaks of the [Chaîne des Puys](/europe/france/centre/auvergne/clermontferrant/chaine_des_puys), a landscape unlike anything else in France. The city itself is built from dark Volvic lava stone, giving it a striking, almost brooding character — especially the [Gothic cathedral](/europe/france/centre/auvergne/clermontferrant/clermont_cathedral), which rises above the old town in deep black basalt.

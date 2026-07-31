@@ -14,6 +14,11 @@ snippet: Eastern Turkish lake city and base for Armenian churches, mountain road
   and Lake Van ferries
 title: Van
 type: location
+nature: 6.0
+leisure: 4.8
+adventure: 5.1
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Van sits on the eastern shore of Lake Van, the largest lake in Turkey and one of the largest endorheic lakes in the world. The city is the main hub for exploring the remote, mountainous far east of the country — a region that sees far fewer visitors than the Aegean and Mediterranean coasts but rewards those who make the journey.

@@ -14,6 +14,11 @@ title: Lancaster
 type: location
 snippet: Historic River Lune city with a Norman castle and easy access to northern
   England's uplands.
+nature: 3.4
+leisure: 6.3
+adventure: 2.9
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Lancaster is a compact, historic city on the River Lune in northwest England, sitting between the Yorkshire Dales to the east and the Lake District to the north. It punches above its weight for history: [Lancaster Castle](/europe/unitedkingdom/england/manchester_liverpool_and_north_west/lancaster/lancaster_castle) has loomed over the city since Norman times and only stopped functioning as a working prison in 2011, making it one of the longest-serving in England. The old quarter around the castle and the [Priory Church](/europe/unitedkingdom/england/manchester_liverpool_and_north_west/lancaster/priory_church) is genuinely handsome, and the city has avoided the worst of modern redevelopment.

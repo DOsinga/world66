@@ -10,6 +10,11 @@ snippet: Northern Kenya frontier town where highlands meet arid country and Samb
   travellers refuel
 title: Isiolo
 type: location
+nature: 7.4
+leisure: 3.8
+adventure: 5.8
+city_culture: 2.7
+historic_culture: 2.7
 ---
 
 Isiolo is a small, cosmopolitan town at the edge of Kenya's northern frontier, about 280 km north of Nairobi. It sits at the transition point between the green Central Highlands and the arid north — effectively the gateway to Samburu, Buffalo Springs, and Shaba national reserves, and to the remote desert country east of Lake Turkana. For travellers heading north, it is typically a refuelling stop or overnight base.

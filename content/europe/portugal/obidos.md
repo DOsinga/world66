@@ -14,6 +14,11 @@ snippet: Medieval Portuguese walled town of whitewashed lanes and walkable battl
   north of Lisbon.
 title: Óbidos
 type: location
+nature: 3.1
+leisure: 7.9
+adventure: 1.9
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Óbidos is a perfectly preserved walled town about an hour north of [Lisbon](/europe/portugal/lisbon), its whitewashed houses and narrow cobblestone streets enclosed by medieval [battlements](/europe/portugal/obidos/city_walls) you can walk along end to end. In high season it gets terribly crowded — believably so, given how photogenic the place is — but visit on a quiet weekday or in winter and you will have its lanes largely to yourself.

@@ -15,6 +15,11 @@ type: location
 score: 5.95
 snippet: Zhejiang trading city known for the world's largest wholesale market for
   small commodities.
+nature: 4.1
+leisure: 5.2
+adventure: 4.1
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Yiwu is one of the stranger cities in China, and that is saying something. About a hundred kilometres south of Hangzhou, it has grown into the world's largest wholesale market for small commodities — the place where almost every cheap item in the world, from plastic keyrings to LED strip lights to artificial Christmas trees, begins its journey outward. The [International Trade City](yiwu/international_trade_city) spans five districts and millions of square metres of stalls, and the sheer scale of it is a spectacle in its own right.

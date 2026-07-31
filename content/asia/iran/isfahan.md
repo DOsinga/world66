@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Naqsh-e_Jahan_Square
 title: Isfahan
 type: location
+nature: 2.8
+leisure: 4.7
+adventure: 5.1
+city_culture: 8.4
+historic_culture: 8.4
 ---
 
 Isfahan — also spelled Esfahan — is one of Iran's great imperial cities, and many Iranians consider it the most beautiful city in the country. The Persian proverb "Isfahan nesf-e jahan ast" — Isfahan is half the world — captures something real: the city's central Naqsh-e Jahan Square alone is one of the largest public squares on earth, and the skyline of turquoise domes and minarets visible from its edges has barely changed since the Safavid era.

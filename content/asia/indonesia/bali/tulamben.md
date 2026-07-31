@@ -16,6 +16,11 @@ image: tulamben.jpg
 image_source: https://commons.wikimedia.org/wiki/File:USAT_Liberty_Wreck_Dive.jpg
 image_license: CC BY-SA 3.0
 image_attribution: G patkar
+nature: 6.7
+leisure: 5.8
+adventure: 4.1
+city_culture: 2.9
+historic_culture: 2.9
 ---
 
 Tulamben is one of the world's great shore dives. The [USAT Liberty wreck](/asia/indonesia/bali/tulamben/usat_liberty_wreck), a US Army cargo ship torpedoed by a Japanese submarine in 1942 and dragged onto the beach after the 1963 eruption of Mount Agung, lies just 30 metres from shore in 3 to 29 metres of water. The wreck is encrusted with coral and swarming with hundreds of fish species, making it accessible to divers of almost any level.

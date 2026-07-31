@@ -15,6 +15,11 @@ snippet: Frisian watersports town on canals and lakes, centred on the Sneekermee
   and Sneekweek regatta
 title: Sneek
 type: location
+nature: 3.9
+leisure: 6.3
+adventure: 3.0
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Sneek — or Snits in Frisian — is one of the larger towns in Friesland and the undisputed capital of Dutch watersports. The town sits at the heart of a vast network of lakes and canals, and in summer it fills with sailors, windsurfers, and boat-trippers making the most of the Frisian lakes. The [Sneekermeer](/europe/netherlands/friesland/sneek/sneekermeer) just east of town is the centrepiece, and the August **Sneekweek** regatta is the largest inland sailing event in Europe.

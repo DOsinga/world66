@@ -15,6 +15,11 @@ snippet: Swiss federal capital with arcaded medieval streets curled inside a ben
   of the Aare.
 title: Bern
 type: location
+nature: 1.4
+leisure: 9.1
+adventure: 1.0
+city_culture: 8.1
+historic_culture: 8.1
 ---
 
 Switzerland’s federal capital (pop. 136,000) is one of the best-preserved medieval city centres in Europe and a UNESCO World Heritage Site. A fire destroyed most of it in 1405, and what was rebuilt in the following century is still largely intact: 6 kilometres of continuous arcaded sandstone walkways, [eleven painted medieval fountains](/europe/switzerland/bern/fountains), and the 100-metre tower of the [Bern Minster](/europe/switzerland/bern/bern_minster) rising from the heart of the peninsula. The [Zytglogge clock tower](/europe/switzerland/bern/zytglogge) — with its mechanical figure show at four minutes before each hour — is the symbolic centre of the city and a pivot in Albert Einstein’s thought experiments about time.

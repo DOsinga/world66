@@ -14,6 +14,11 @@ snippet: Exmoor coastal village with a sheltered beach, long valley setting, and
   unusual Pack o' Cards inn.
 title: Combe Martin
 type: location
+nature: 6.4
+leisure: 5.0
+adventure: 4.5
+city_culture: 3.2
+historic_culture: 3.2
 ---
 
 Combe Martin sits on Exmoor's far western coastal fringe, tucked into one of Devon's longest villages stretching along a narrow valley down to the sea. The coastal scenery is excellent, with dramatic cliffs and a sheltered sandy beach that makes for good swimming at low tide.

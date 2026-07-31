@@ -13,6 +13,11 @@ snippet: Cork commuter town with an 18th-century gunpowder-mill complex preserve
   along the River Lee.
 title: Ballincollig
 type: location
+nature: 4.1
+leisure: 4.6
+adventure: 4.5
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Ballincollig is a large and growing town about 10 km west of [Cork](/europe/ireland/cork) city on the road to Macroom. Its most interesting feature is the [Royal Gunpowder Mills](/europe/ireland/ballincollig/royal_gunpowder_mills), an 18th-century industrial complex now preserved as a regional park with walking trails along the River Lee. The ruins of the mills, workers' cottages, and canal system give a vivid picture of what was once one of the largest gunpowder factories in the British Isles.

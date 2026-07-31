@@ -16,6 +16,11 @@ snippet: High inland Spanish capital of royal squares, late nights, and the Prad
   art triangle
 title: Madrid
 type: location
+nature: 0.8
+leisure: 9.4
+adventure: 0.8
+city_culture: 8.8
+historic_culture: 8.8
 ---
 
 Madrid sits at 650 metres on a high inland plateau and is, by some distance, the highest capital city in Europe. It became Spain's capital relatively late — in 1561, when Philip II moved his court here from Toledo — and grew quickly under the Habsburgs and Bourbons into a city of grand royal architecture, formal squares, and the finest art collection in the world. It is a city of late nights, big meals, and operatic public life: nobody is quite sure when the madrileños actually sleep.

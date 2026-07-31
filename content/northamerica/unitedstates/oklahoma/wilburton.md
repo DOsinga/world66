@@ -10,6 +10,11 @@ snippet: Small southeastern Oklahoma city near Robbers Cave State Park, with a c
   of Eastern Oklahoma State College.
 title: Wilburton
 type: location
+nature: 5.0
+leisure: 3.9
+adventure: 5.2
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Located in Latimer County in southeastern Oklahoma, Wilburton is a city of almost 3,000 people nestled at the end of the San Bois mountain range. It is home to [Eastern Oklahoma State College](/northamerica/unitedstates/oklahoma/wilburton/eastern_oklahoma_state_college), a community college founded in 1908 that gives the small city a lively campus presence.

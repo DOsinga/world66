@@ -14,6 +14,11 @@ snippet: Ishikawa city on the Sea of Japan coast, known for the three historic K
   Onsen hot-spring towns
 title: Kaga
 type: location
+nature: 5.4
+leisure: 4.7
+adventure: 5.0
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Kaga is a city of about 72,000 people in Ishikawa Prefecture, tucked between Komatsu and Fukui on the Sea of Japan coast. It's well off the usual tourist trail, which is part of its appeal — you'll experience everyday Japanese life here without the crowds.

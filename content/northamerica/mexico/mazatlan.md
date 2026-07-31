@@ -14,6 +14,11 @@ image: mazatlan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Isla_de_la_Piedra_1.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Stan Shebs
+nature: 4.3
+leisure: 8.2
+adventure: 1.7
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Mazatlan is one of Mexico's great Pacific coast cities — a working port with a long beach resort strip, but also a genuine old town that most visitors never bother to explore. It sits on a peninsula in the state of Sinaloa, facing some of the best sunsets on the Mexican coast.

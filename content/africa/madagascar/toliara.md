@@ -16,6 +16,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Toliara
 title: Toliara
 type: location
+nature: 6.5
+leisure: 4.7
+adventure: 5.0
+city_culture: 3.6
+historic_culture: 3.6
 ---
 
 Toliara, still widely called Tulear, is the hot, dusty capital of Madagascar's southwest. It is the end of the classic RN7 route from the highlands and the gateway to a very different island: thorn forest, baobabs, Vezo fishing villages, reef lagoons, and huge dry skies.

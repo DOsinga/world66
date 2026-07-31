@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Bwindi_Impenetrable_National_Park
 title: Bwindi Impenetrable Forest
 type: location
+nature: 8.5
+leisure: 5.1
+adventure: 4.7
+city_culture: 1.5
+historic_culture: 1.5
 ---
 
 Bwindi is the reason many people come to Uganda. The forest shelters roughly half the world's remaining mountain gorillas — around 400 of the approximately 800 that still exist on earth — and a permit to spend one hour in the presence of a habituated gorilla family is, for many visitors, the single most powerful wildlife encounter of their lives. There is nothing quite like sitting in dense tropical forest with a silverback a few metres away, making eye contact, and understanding that you are in its home.

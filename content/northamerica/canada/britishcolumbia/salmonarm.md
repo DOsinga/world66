@@ -14,6 +14,11 @@ snippet: Shuswap Lake town in British Columbia, known for houseboating and the A
 title: Salmon Arm
 type: location
 loc_type: city
+nature: 6.2
+leisure: 5.6
+adventure: 4.0
+city_culture: 3.4
+historic_culture: 3.4
 ---
 
 Salmon Arm is the largest town in BC's **Shuswap region**, set on the long crooked finger of Shuswap Lake from which it takes its name. The town has the standard look of a small interior BC settlement — a single main street, a clutch of malls along the highway, the lake glittering at the bottom of a wooded valley — but its setting is the draw: Shuswap is one of British Columbia's great houseboating lakes, and on summer weekends the marinas at Salmon Arm and nearby Sicamous send a steady stream of rentals out into the four arms of the lake.

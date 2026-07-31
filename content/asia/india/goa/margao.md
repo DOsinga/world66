@@ -14,6 +14,11 @@ snippet: South Goa commercial city with a covered market, Catholic quarter, and 
   Portuguese mansions
 title: Margao
 type: location
+nature: 3.5
+leisure: 5.0
+adventure: 4.4
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 Margao — also written Madgaon — is the commercial and administrative capital of South Goa, and the most Goan of Goa's cities. Where Panaji has government buildings and Vasco has the airport industrial sprawl, Margao has the covered market, the old Catholic quarter, the Saturday bazaar, and the kind of unhurried street life that doesn't particularly cater to tourists.

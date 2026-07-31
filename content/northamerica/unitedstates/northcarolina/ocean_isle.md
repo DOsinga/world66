@@ -14,6 +14,11 @@ snippet: Quiet North Carolina barrier-island beach town with gentle surf and a f
   shoreline
 title: Ocean Isle Beach
 type: location
+nature: 5.0
+leisure: 6.6
+adventure: 2.8
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 Ocean Isle Beach is a quiet, unspoiled family beach on the southern North Carolina coast, just north of [Myrtle Beach](/northamerica/unitedstates/southcarolina/myrtlebeach). The island has managed to avoid the heavy commercial development that defines its neighbours, making it a good choice for families looking for a peaceful week by the water.

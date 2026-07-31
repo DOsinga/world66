@@ -18,6 +18,11 @@ sources:
 - https://en.wikipedia.org/wiki/Temple_of_Eshmun
 title: Sidon
 type: location
+nature: 3.7
+leisure: 5.5
+adventure: 4.2
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 Sidon (Saida in Arabic) is the capital of South Lebanon and one of the great ancient Phoenician cities. It sits on the coast about 40 km south of [Beirut](/asia/lebanon/beirut) and is worth visiting for its atmospheric old town, its sea castle and its legendary sweets.

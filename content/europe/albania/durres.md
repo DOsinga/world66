@@ -10,6 +10,11 @@ snippet: Albania's main Adriatic port, founded as Epidamnos and home to a large 
   amphitheatre.
 title: Durres
 type: location
+nature: 4.0
+leisure: 6.2
+adventure: 3.5
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Durrës is Albania's second city and main port, founded by Greek colonists around 627 BC as Epidamnos (later renamed Dyrrachium by the Romans). It sits 38 km west of Tirana on the Adriatic coast and is the first stop for ferries arriving from Italy.

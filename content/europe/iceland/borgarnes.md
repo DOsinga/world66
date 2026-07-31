@@ -14,6 +14,11 @@ snippet: West Iceland town on Borgarfjörður where saga history meets Route 1 r
   practicality.
 title: Borgarnes
 type: location
+nature: 7.0
+leisure: 5.1
+adventure: 4.6
+city_culture: 2.8
+historic_culture: 2.8
 ---
 
 Borgarnes sits on a peninsula in western Iceland's Borgarfjörður, about an hour's drive north of Reykjavík along Route 1. It is a small town of around 1,800 people, but its roots reach deep into Icelandic saga history — this is where Skallagrímur Kveldúlfsson, father of the great poet-warrior Egill, established his farm at Borg after his father's coffin drifted ashore at what was then called Digranes.

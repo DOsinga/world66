@@ -14,6 +14,11 @@ title: San Juan
 snippet: Compact Metro Manila city with outsized historical importance in the Philippine
   revolution.
 type: location
+nature: 3.1
+leisure: 6.3
+adventure: 3.2
+city_culture: 7.3
+historic_culture: 7.3
 ---
 
 San Juan is Metro Manila's smallest city by area, wedged between Mandaluyong, Quezon City, and [Manila](/asia/philippines/manila) itself. Most visitors pass through without stopping, which is their loss — this compact city punches above its weight in historical significance and has a livelier street scene than its modest size suggests.

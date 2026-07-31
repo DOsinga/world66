@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Sanctuary_of_Montallegro
 title: Rapallo
 type: location
+nature: 4.8
+leisure: 6.7
+adventure: 3.0
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Rapallo is the largest town on the Tigullio Gulf, with around 30,000 residents and a long history as a resort. Its symbol is the [Castello di Rapallo](/europe/italy/liguria/italianriviera/tigullio/rapallo/castello_di_rapallo) — a small sixteenth-century fort on a rocky islet just off the promenade, once a defence against Saracen pirates, now a venue for temporary exhibitions with its feet in the sea. The [Lungomare Vittorio Veneto](/europe/italy/liguria/italianriviera/tigullio/rapallo/lungomare) curves around the harbour in the classic Ligurian fashion, all palm trees and pastel-painted hotels.

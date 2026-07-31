@@ -14,6 +14,11 @@ snippet: Vast Congolese capital on the Congo River, driven by street life, music
   markets, and administrative Gombe.
 title: Kinshasa
 type: location
+nature: 5.6
+leisure: 2.6
+adventure: 7.3
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Kinshasa is one of Africa's largest cities, home to over 17 million people and sprawling along the south bank of the Congo River directly across from [Brazzaville](/africa/congobrazzaville/brazzaville). It is loud, chaotic, creative, and exhausting -- sometimes all at once. This is not a city of tourist sights in the conventional sense, but it is a place of enormous energy, and for travelers willing to engage with it, deeply rewarding.

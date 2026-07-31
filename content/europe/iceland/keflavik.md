@@ -13,6 +13,11 @@ sources:
 - https://www.visitreykjanes.is/en/service/the-icelandic-museum-of-rock-n-roll
 title: Keflavík
 type: location
+nature: 6.3
+leisure: 4.7
+adventure: 4.8
+city_culture: 3.4
+historic_culture: 3.4
 ---
 
 Keflavík is the town most visitors to Iceland see first — Keflavík International Airport, which handles most of the country's international flights, is on the Reykjanes Peninsula just outside town. Keflavík itself is a fishing and service town of about 15,000 people, unpretentious and functional.

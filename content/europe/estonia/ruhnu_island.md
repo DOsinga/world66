@@ -10,6 +10,11 @@ title: Ruhnu Island
 type: location
 snippet: Remote Estonian island in the Gulf of Riga, home to wooden churches and a
   tiny year-round community.
+nature: 6.0
+leisure: 4.3
+adventure: 5.3
+city_culture: 4.0
+historic_culture: 4.0
 ---
 
 Ruhnu is Estonia's most remote inhabited island, a tiny speck in the Gulf of Riga closer to Latvia than to the Estonian mainland. About sixty people live here year-round, and the island has the unhurried feel of a place that time has not quite reached.

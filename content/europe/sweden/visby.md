@@ -15,6 +15,11 @@ snippet: Walled medieval city on Gotland, ringed by limestone towers and roofles
   Hanseatic church ruins.
 title: Visby
 type: location
+nature: 2.8
+leisure: 7.9
+adventure: 1.9
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Visby is the best-preserved medieval city in Scandinavia, and one of the most atmospheric in all of Europe. Ringed by a 3.5-kilometre circuit of 13th-century limestone walls — with 44 towers still standing — the old town within feels genuinely frozen in time, in the best possible way. It sits on the western coast of Gotland, Sweden's largest island, an hour's flight or five hours by ferry from Stockholm.

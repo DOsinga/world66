@@ -13,6 +13,11 @@ snippet: Vaud Alps resort village on a sunny terrace above the Rhône valley, wi
   skiing and sanatorium history
 title: Leysin
 type: location
+nature: 6.6
+leisure: 6.9
+adventure: 3.0
+city_culture: 2.4
+historic_culture: 2.4
 ---
 
 Leysin is a mountain resort village in the Vaud Alps, perched on a south-facing terrace at around 1,300 metres above the Rhône valley. It's well-known as a winter [ski destination](/europe/switzerland/leysin/leysin_ski_area), but the summer version — quieter, cheaper, with good walking and mountain biking — is equally rewarding. The dominant landmark is [La Berneuse](/europe/switzerland/leysin/berneuse) (2,048 m), reached by gondola from the village and crowned by a revolving panoramic restaurant; the more demanding [Tour d'Aï](/europe/switzerland/leysin/tour_dai) rises beyond it.

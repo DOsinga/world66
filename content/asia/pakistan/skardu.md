@@ -15,6 +15,11 @@ snippet: Baltistan mountain town on the Indus, gateway to K2, Baltoro Glacier, a
   Karakoram valleys
 title: Skardu
 type: location
+nature: 8.8
+leisure: 3.0
+adventure: 7.0
+city_culture: 1.7
+historic_culture: 1.7
 ---
 
 Skardu, the capital of Baltistan, is situated on the banks of the mighty river Indus, just 8 km above its confluence with the river Shigar. Around it are high peaks, deep gorges and some of the most beautiful mountain scenery on the planet. 

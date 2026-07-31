@@ -13,6 +13,11 @@ snippet: North Alabama city nicknamed Rocket City, anchored by NASA history and 
   Saturn V legacy.
 title: Huntsville
 type: location
+nature: 4.2
+leisure: 5.1
+adventure: 4.1
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Huntsville is the largest city in north Alabama and a surprisingly interesting place to spend a few days. Known as Rocket City, this is where Wernher von Braun and his team built the Saturn V that carried astronauts to the moon. The [U.S. Space and Rocket Center](/northamerica/unitedstates/alabama/huntsville/us_space_and_rocket_center) remains the star attraction -- you can stand beneath an actual Saturn V, walk through Space Shuttle hardware, and try the simulators that put you through astronaut training. It is one of the best space museums in the country.

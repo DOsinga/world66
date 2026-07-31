@@ -14,6 +14,11 @@ snippet: Durham coast port town with a historic quay and the preserved frigate H
   Trincomalee.
 title: Hartlepool
 type: location
+nature: 4.0
+leisure: 5.6
+adventure: 3.5
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Hartlepool is a post-industrial port town on the Durham coast, about 30 kilometres south of Sunderland. It's not a place most visitors to northeast England seek out, but it has a genuinely interesting historic waterfront and makes a reasonable half-day stop if you're exploring the region.

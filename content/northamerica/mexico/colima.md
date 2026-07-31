@@ -13,6 +13,11 @@ snippet: Small Mexican state capital in a green valley between Volcán de Fuego 
   Nevado de Colima.
 title: Colima
 type: location
+nature: 4.9
+leisure: 5.3
+adventure: 4.4
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Colima is the small, relaxed capital of Mexico's smallest state, sitting in a lush valley between two volcanoes -- the active [Volcan de Fuego](/northamerica/mexico/colima/volcan_de_fuego) and the dormant Nevado de Colima. The volcanoes dominate the landscape and the local imagination; on clear days their peaks frame the city beautifully, and Fuego occasionally sends up plumes of smoke as a reminder that nature runs the show here. The city has a well-preserved colonial center with a handsome [cathedral](/northamerica/mexico/colima/cathedral_basilica), shaded portales around the [main plaza](/northamerica/mexico/colima/jardin_libertad), and the kind of unhurried provincial atmosphere that the big Mexican cities have largely lost.

@@ -10,6 +10,11 @@ score: 8.55
 loc_type: city
 snippet: Former Utah silver-mining town turned ski resort, known for Olympic slopes
   and the Sundance Film Festival.
+nature: 5.8
+leisure: 8.0
+adventure: 2.2
+city_culture: 2.9
+historic_culture: 2.9
 ---
 
 Park City is a former silver-mining town turned ski resort about 30 miles east of Salt Lake City. It hosts two major ski areas — [Park City Mountain Resort](/northamerica/unitedstates/utah/parkcity/park_city_mountain_resort) and [Deer Valley](/northamerica/unitedstates/utah/parkcity/deer_valley) — and was a main venue for the 2002 Winter Olympics. In January it becomes the centre of the independent film world when the [Sundance Film Festival](/northamerica/unitedstates/utah/parkcity/sundance_film_festival) takes over the town.

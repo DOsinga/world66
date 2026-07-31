@@ -17,6 +17,11 @@ sources:
 title: Loango National Park
 type: location
 score: 7.5
+nature: 9.4
+leisure: 2.7
+adventure: 7.0
+city_culture: 0.9
+historic_culture: 0.9
 ---
 
 Loango National Park is Gabon's most cinematic wilderness: a place where forest elephants step onto pale Atlantic beaches, hippos wallow near the surf, and blackwater lagoons cut deep into the rainforest. It sits on the wild coast between the Nkomi and Ndogo lagoon systems, a long way from the easy circuits of East and Southern Africa.

@@ -15,6 +15,11 @@ type: location
 score: 6.84
 snippet: West Wales market town with Roman roots, Arthurian claims, and a stubbornly
   practical centre.
+nature: 4.1
+leisure: 5.4
+adventure: 3.8
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Carmarthen (Welsh: *Caerfyrddin*) claims, with a straight face, to be the oldest town in Wales. The Romans built the fort of Moridunum here in around AD 75, the bishopric of St David's ran most of the medieval Welsh church from a priory just outside town, and the local market — held in essentially the same square since the 13th century — is still the biggest in west Wales. None of this makes Carmarthen pretty: the town centre is a workmanlike grid of plain Georgian and Victorian buildings, with a ruined castle on one side and the silty estuary of the Tywi on the other. But it is a good base.

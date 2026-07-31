@@ -14,6 +14,11 @@ snippet: Champagne village above the Marne Valley, linked to Dom Pérignon and s
   wine history.
 title: Hautvillers
 type: location
+nature: 2.5
+leisure: 8.2
+adventure: 1.5
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 **Hautvillers** is a small village in the Champagne vineyards above the Marne Valley, a few kilometres north of [Epernay](/europe/france/east/champagne/epernay). It was here, in the [Benedictine Abbey of Saint-Pierre](/europe/france/east/champagne/hautvillers/hautvillers_abbey), that the monk Dom Perignon is said to have perfected the techniques for making sparkling wine in the late 17th century. His tomb is in the abbey church and remains a pilgrimage site for wine lovers.

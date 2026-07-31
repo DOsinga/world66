@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Ruili
 title: Ruili
 type: location
+nature: 7.9
+leisure: 3.0
+adventure: 6.9
+city_culture: 2.6
+historic_culture: 2.6
 ---
 
 Ruili occupies the far southwestern corner of Yunnan where China presses against Myanmar, and its identity is shaped entirely by that adjacency. The border here is porous in the commercial sense — jade and gems flow across in quantities that have made Ruili one of the world's significant jade trading centres, and the [jade market](/asia/china/yunnanprovince/ruili/jade_market) selling uncut stones, carved pieces, and jewellery attracts buyers from across China and Southeast Asia. For travellers with no interest in jade, this trade still defines the atmosphere: the markets are worth wandering for their sheer strangeness, the buyers bent over stones with ultraviolet torches making decisions worth fortunes.

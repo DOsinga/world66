@@ -16,6 +16,11 @@ snippet: Devon naval city on Plymouth Sound, tied to the Mayflower, Drake, and A
   seafaring.
 title: Plymouth
 type: location
+nature: 4.1
+leisure: 5.6
+adventure: 3.9
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Plymouth is a proud, slightly battered naval city on the Devon coast, looking out across Plymouth Sound toward Cornwall. The Mayflower departed from here in 1620 — the Pilgrim Fathers' last sight of England was the Barbican quayside — and the city has been sending ships into the Atlantic ever since. Sir Francis Drake and Sir Walter Raleigh both called it home.

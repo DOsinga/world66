@@ -16,6 +16,11 @@ title: Visakhapatnam
 snippet: Andhra Pradesh port city between the Eastern Ghats and Bay of Bengal, known
   locally as Vizag.
 type: location
+nature: 4.2
+leisure: 4.3
+adventure: 5.0
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Visakhapatnam — known universally as Vizag — is a port city on the east coast of [Andhra Pradesh](/asia/india/andhrapradesh), squeezed between the Eastern Ghats and the Bay of Bengal. It is the largest city in the state by area and one of the fastest growing in India, yet it retains a relaxed coastal character that bigger Indian cities have long since lost. The combination of beaches, hills, and a working naval port gives it a distinctive feel.

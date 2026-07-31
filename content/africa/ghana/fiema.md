@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Boabeng-Fiema_Monkey_Sanctuary
 title: Fiema
 type: location
+nature: 5.5
+leisure: 3.9
+adventure: 5.7
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 The [Boabeng-Fiema Monkey Sanctuary](/africa/ghana/fiema/boabeng_fiema_monkey_sanctuary), in the Bono East Region between Sunyani and Kintampo, is one of Ghana's most unusual wildlife sites. The villages of Boabeng and Fiema are home to black-and-white colobus monkeys and mona monkeys that live freely among the houses and are considered sacred by the local people, who believe the monkeys carry the spirits of their ancestors.

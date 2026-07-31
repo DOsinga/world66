@@ -14,6 +14,11 @@ snippet: Uttarakhand capital in the green Doon Valley, framed by Himalayan footh
   and old cantonment institutions
 title: Dehradun
 type: location
+nature: 5.0
+leisure: 4.3
+adventure: 5.2
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Dehradun sits in the Doon Valley, a wide, green basin between the Himalayan foothills and the Shivalik range. It is the capital of Uttarakhand and the starting point for trips into the mountains — [Mussoorie](/asia/india/uttaranchal/mussoorie) is just 35 kilometres uphill, and the road to Rishikesh and the high Himalayas passes through.

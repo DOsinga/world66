@@ -13,6 +13,11 @@ title: Puerto Aventuras
 type: location
 snippet: Riviera Maya resort community built around a sheltered marina, calm beach,
   and offshore reef.
+nature: 5.2
+leisure: 7.9
+adventure: 1.9
+city_culture: 3.3
+historic_culture: 3.3
 ---
 
 Puerto Aventuras is a gated resort community on Mexico's Riviera Maya, about 20 km south of Playa del Carmen. Built around a sheltered marina, it is quieter and more manicured than the towns on either side — more condo resort than Mexican beach town.

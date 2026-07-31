@@ -14,6 +14,11 @@ snippet: Sri Lankan coastal town near the international airport, marked by Dutch
   lagoon life, and Catholic churches.
 title: Negombo
 type: location
+nature: 4.1
+leisure: 6.6
+adventure: 2.9
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Negombo sits on the west coast of Sri Lanka, about 35 kilometres north of Colombo and a short tuk-tuk ride from the international airport. Most visitors pass through on their first or last night in the country — and that's not a bad idea. But the town rewards a longer look.

@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Gansu
 title: Qingyang
 type: location
+nature: 5.3
+leisure: 3.5
+adventure: 6.1
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Qingyang is the easternmost city in Gansu, set on the Loess Plateau in a landscape of eroded yellow earth, [cave dwellings cut into cliff faces](/asia/china/gansu/qingyang/loess_plateau_landscapes), and deep ravines carved by seasonal streams. It is a region of considerable antiquity — Chinese legend places the birthplace of the mythological ancestor Xianzu in the Huanxian area of the prefecture — and the loess environment has preserved archaeological sites and traditional building forms with unusual clarity.

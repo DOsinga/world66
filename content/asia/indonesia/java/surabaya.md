@@ -14,6 +14,11 @@ title: Surabaya
 type: location
 snippet: Java's second city, a busy port with colonial quarters, historic mosques,
   and a deep independence legacy.
+nature: 3.5
+leisure: 5.1
+adventure: 4.3
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Most travelers pass through Surabaya on the way to the ferry for [Bali](/asia/indonesia/bali) or [Sulawesi](/asia/indonesia/sulawesi), but Java's second city has more to offer than just its port. With over 3 million people, it has the bustling energy of an Asian megacity, genuine historic character, and excellent food.

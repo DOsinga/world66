@@ -10,6 +10,11 @@ title: Grand-Bassam
 type: location
 snippet: Former colonial capital of Côte d'Ivoire, with a UNESCO-listed quarter between
   ocean and Comoé lagoon.
+nature: 5.1
+leisure: 4.8
+adventure: 4.9
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Grand-Bassam was Côte d'Ivoire's first colonial capital, briefly the seat of French power from 1893 to 1896 before a yellow fever epidemic forced the administration to move to [Bingerville](/africa/ivorycoast/bingerville). The [old colonial quarter](/africa/ivorycoast/grandbassam/historic_town) — a peninsula between the ocean and the [Comoé lagoon](/africa/ivorycoast/grandbassam/comoe_lagoon) — was inscribed as a UNESCO World Heritage Site in 2012. It's one of the best-preserved examples of a late 19th-century colonial trading town in West Africa.

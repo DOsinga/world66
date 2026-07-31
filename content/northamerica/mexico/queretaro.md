@@ -13,6 +13,11 @@ title: Querétaro
 type: location
 snippet: Central Mexican colonial city with a UNESCO old town, baroque churches, and
   independence-era history.
+nature: 2.3
+leisure: 7.4
+adventure: 2.4
+city_culture: 7.8
+historic_culture: 7.8
 ---
 
 **Querétaro** (officially Santiago de Querétaro) is the capital of the small central Mexican state of the same name — a prosperous, increasingly cosmopolitan city of about 900,000 people, roughly 200 km north-west of Mexico City in the Bajío highlands. Founded by the Spanish in 1531 on the site of an Otomí village, it has a compact and extraordinarily well-preserved **colonial old town** that was inscribed as a UNESCO World Heritage Site in 1996 — a grid of pedestrianised streets, baroque churches, and tiled plazas that is arguably the most atmospheric colonial city centre in central Mexico outside of San Miguel de Allende and Guanajuato. In recent years Querétaro has also become one of the most important economic centres in the country, with a big expat community and a rapidly developing restaurant and wine scene.

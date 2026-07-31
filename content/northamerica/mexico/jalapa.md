@@ -10,6 +10,11 @@ title: Xalapa
 snippet: Cool Veracruz state capital in cloud-forest hills, known for its major archaeology
   museum.
 type: location
+nature: 4.1
+leisure: 6.3
+adventure: 3.3
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Xalapa (also spelled Jalapa) is the capital of Veracruz state and one of Mexico's most pleasant surprises. Set at 1,400 metres in the cloud forest zone of the Sierra Madre Oriental, with the snow-capped Pico de Orizaba visible on clear days, it has a cool, misty climate that feels nothing like the sweltering coast below.

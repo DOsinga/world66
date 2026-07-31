@@ -12,6 +12,11 @@ score: 8.05
 title: Sligo
 type: location
 snippet: Northwest Irish market town between Atlantic beaches, Ben Bulben, and Knocknarea.
+nature: 4.4
+leisure: 5.0
+adventure: 4.6
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Sligo is a market town of about 20,000 people in the northwest of Ireland, set between the Atlantic coast and the mountains of [Ben Bulben](/europe/ireland/sligo/benbulben) and [Knocknarea](/europe/ireland/sligo/knocknarea). It combines the services of a regional centre — good restaurants, pubs, and shops — with a compact walkability and a countryside that begins at the edge of town.

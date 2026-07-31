@@ -13,6 +13,11 @@ title: Panama City Beach
 snippet: Florida Panhandle beach resort known for white quartz sand and clear Gulf
   water.
 type: location
+nature: 5.2
+leisure: 8.2
+adventure: 1.7
+city_culture: 3.2
+historic_culture: 3.2
 ---
 
 Panama City Beach sits on Florida's northwest Panhandle, where the Gulf of Mexico meets St. Andrews Bay. The beaches here are genuinely beautiful -- wide stretches of white quartz sand and clear emerald water that look more like the Caribbean than the typical American South. It is a drive-to destination, drawing families from across the southeastern United States and snowbirds from the north.

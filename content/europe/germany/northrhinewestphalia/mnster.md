@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/M%C3%BCnster_Cathedral
 title: Münster
 type: location
+nature: 3.0
+leisure: 5.4
+adventure: 3.7
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 Münster (about 308,000 inhabitants) is an attractive city in the Münsterland, a flat green region dotted with charming little castles and ideal for cycling. If you arrive by train, don't be put off by the unattractive surroundings of the station — move on to the city centre and you'll find a different world entirely.

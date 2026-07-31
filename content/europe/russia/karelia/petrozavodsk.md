@@ -10,6 +10,11 @@ snippet: Karelian lakeside capital founded as Peter the Great's cannon factory a
   gateway to Kizhi Island.
 title: Petrozavodsk
 type: location
+nature: 5.7
+leisure: 4.8
+adventure: 4.8
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Petrozavodsk is the capital of the Republic of Karelia, sitting on the western shore of Lake Onega — the second-largest lake in Europe. Peter the Great founded the city in 1703 as a cannon factory to supply his wars against Sweden, and the name literally means "Peter's factory."

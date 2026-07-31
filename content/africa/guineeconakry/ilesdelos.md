@@ -14,6 +14,11 @@ snippet: Guinean island archipelago off Conakry, offering pirogue crossings, bea
   villages, and quieter Atlantic air.
 title: Iles de Los
 type: location
+nature: 6.4
+leisure: 4.4
+adventure: 5.4
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 The Iles de Los are a small archipelago just south of [Conakry](/africa/guineeconakry/conakry), reachable by pirogue in about 30-45 minutes. The three main islands -- [Tamara](/africa/guineeconakry/ilesdelos/ile_tamara), [Kassa](/africa/guineeconakry/ilesdelos/ile_de_kassa), and [Roume](/africa/guineeconakry/ilesdelos/ile_de_roume) -- offer a welcome escape from the capital's noise and traffic.

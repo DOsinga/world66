@@ -14,6 +14,11 @@ snippet: Norman lace town between Paris and Mont-Saint-Michel, famous for UNESCO
   Alençon point lace
 title: Alençon
 type: location
+nature: 3.6
+leisure: 5.6
+adventure: 3.4
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Alençon sits between Paris and Mont-Saint-Michel, less than two hours from both, making it a convenient stop on the way to the Normandy coast. It is the main town of the Orne department and the gateway to the area known as the Pays d'Alençon, which straddles Normandy and the Pays de Loire.

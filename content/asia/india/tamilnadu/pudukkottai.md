@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Sittanavasal
 title: Pudukkottai
 type: location
+nature: 3.2
+leisure: 4.7
+adventure: 4.7
+city_culture: 7.5
+historic_culture: 7.5
 ---
 
 Pudukkottai is a small town in central Tamil Nadu that was the capital of the Pudukkottai princely state, one of the few in British India that was never directly annexed. The Tondaiman Rajas maintained their independence until 1948.

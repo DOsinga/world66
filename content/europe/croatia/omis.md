@@ -13,6 +13,11 @@ snippet: Dalmatian town at the Cetina River mouth, beneath cliffs once used by l
   pirates.
 title: Omis
 type: location
+nature: 4.9
+leisure: 6.4
+adventure: 3.4
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Omis sits where the [Cetina gorge](/europe/croatia/omis/cetina_gorge) cuts through limestone cliffs and meets the Adriatic, about 25 kilometres south of [Split](/europe/croatia/split). For centuries it was a pirate stronghold — the Omiš pirates terrorised Venetian and Papal shipping from the 12th to the 14th century, using the narrow river canyon as a natural fortress. Two ruined fortresses still cling to the cliffs above town: [Mirabella](/europe/croatia/omis/mirabella_fortress) on its spike of rock and [Starigrad](/europe/croatia/omis/starigrad_fortress) on the wider plateau behind.

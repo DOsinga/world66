@@ -10,6 +10,11 @@ title: Neretva
 type: location
 snippet: Adriatic river valley and wetland delta, green against Croatia's bare limestone
   coast.
+nature: 4.7
+leisure: 6.5
+adventure: 3.1
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 The Neretva Valley is the largest river delta on the eastern Adriatic coast, a lush green contrast to the bare limestone of the surrounding [Croatian](/europe/croatia) coastline. The Neretva rises in the mountains of eastern Bosnia-Herzegovina and forces its way through dramatic canyons in the Dinaric Alps before spreading into a broad wetland south of [Metković](/europe/croatia/neretva/metkovic) and flowing into the Adriatic Sea.

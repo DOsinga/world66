@@ -14,6 +14,11 @@ title: Malahide
 snippet: Seaside town on Dublin's north coast, centred on a medieval castle and harbour
   village.
 type: location
+nature: 4.0
+leisure: 6.1
+adventure: 3.2
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Malahide is an attractive seaside town on the north Dublin coast, about 16 kilometres from the city centre and easily reached by DART train. The centrepiece is Malahide Castle, a medieval tower house set in extensive parklands that has been in near-continuous use since the 12th century — the Talbot family lived here for almost 800 years. The castle grounds include the Talbot Botanic Gardens, a butterfly house, and a model railway exhibition.

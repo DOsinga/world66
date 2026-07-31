@@ -13,6 +13,11 @@ snippet: Tohoku’s largest city, founded by Date Masamune and famous for Zuihod
   Matsushima access, and gyutan
 title: Sendai
 type: location
+nature: 3.4
+leisure: 5.9
+adventure: 3.6
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Sendai is the largest city in the Tohoku region and the natural base for exploring northern Honshu. It sits on the Shinkansen line from Tokyo (about 90 minutes), making it easy to reach, and its size means good accommodation and dining options without the tourist crowds of Kyoto or Tokyo.

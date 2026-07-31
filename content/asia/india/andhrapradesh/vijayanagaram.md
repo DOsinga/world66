@@ -14,6 +14,11 @@ snippet: Northern Andhra town with princely-state colleges, fort walls, and a st
   classical arts legacy.
 title: Vijayanagaram
 type: location
+nature: 3.0
+leisure: 4.1
+adventure: 5.4
+city_culture: 7.7
+historic_culture: 7.7
 ---
 
 Vizianagaram (also spelled Vijayanagaram) is a mid-sized town in the northern part of Andhra Pradesh, situated between Visakhapatnam and the Odisha border. The town was the seat of the Vizianagaram princely state, and the legacy of that era is more substantial than most travellers expect: an 18th-century [fort](/asia/india/andhrapradesh/vijayanagaram/vizianagaram_fort), [Maharajah's College](/asia/india/andhrapradesh/vijayanagaram/maharajahs_college) founded in 1879, and the [Government College of Music and Dance](/asia/india/andhrapradesh/vijayanagaram/college_of_music_and_dance), which has trained Kuchipudi dancers and Carnatic musicians for over a century.

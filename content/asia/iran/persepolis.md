@@ -13,6 +13,11 @@ image: persepolis.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Apadana_palace_persepolis.JPG
 image_license: CC BY-SA 3.0
 image_attribution: درفش کاویانی
+nature: 3.0
+leisure: 3.7
+adventure: 6.1
+city_culture: 8.2
+historic_culture: 8.2
 ---
 
 Persepolis is the ceremonial capital of the Achaemenid Empire, founded by Darius the Great around 518 BC and expanded by his successors Xerxes and Artaxerxes. The ruins lie on a vast stone terrace at the foot of a mountain, about 60 kilometres northeast of [Shiraz](/asia/iran/shiraz), and they remain one of the most impressive archaeological sites in the world.

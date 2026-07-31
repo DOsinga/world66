@@ -11,6 +11,11 @@ type: location
 loc_type: city
 snippet: Pakistan's textile capital, a planned industrial city still shaped by its
   old Lyallpur clock-tower grid.
+nature: 4.4
+leisure: 2.9
+adventure: 6.4
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Faisalabad is Pakistan's third largest city and its textile capital, producing a significant share of the country's cotton and fabric exports. Known historically as Lyallpur (renamed in 1977), it's primarily an industrial and commercial city rather than a tourist destination, but it has an interesting urban form that distinguishes it from other Pakistani cities.

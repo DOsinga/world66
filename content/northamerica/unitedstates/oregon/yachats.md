@@ -14,6 +14,11 @@ snippet: Tiny Oregon Coast town between surf and forested headlands, with tidepo
   at the edge of town
 title: Yachats
 type: location
+nature: 6.7
+leisure: 6.4
+adventure: 3.5
+city_culture: 2.8
+historic_culture: 2.8
 ---
 
 Yachats (pronounced "YAH-hots") calls itself the Gem of the Oregon Coast, and it earns the title. This tiny community, nestled between surf and mountains about 25 miles south of Newport, has the rugged scenery of the coast at its most dramatic — wave-carved tidepools, forested headlands, and a small river meeting the sea at the edge of town.

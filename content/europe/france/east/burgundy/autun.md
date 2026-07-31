@@ -13,6 +13,11 @@ snippet: Burgundian city founded as Augustodunum, where Roman gates and ruins fr
   a medieval cathedral town
 title: Autun
 type: location
+nature: 3.2
+leisure: 6.2
+adventure: 3.4
+city_culture: 7.3
+historic_culture: 7.3
 ---
 
 Autun was founded by Emperor Augustus as Augustodunum and was one of the most important cities in Roman Gaul. Two thousand years later, the Roman legacy is still the first thing you notice: [Porte Saint-André](/europe/france/east/burgundy/autun/porte_saint_andre) and [Porte d'Arroux](/europe/france/east/burgundy/autun/porte_darroux), two monumental Roman gates, still stand at the edges of the old town, and the remains of a vast [Roman theatre](/europe/france/east/burgundy/autun/roman_theatre) — one of the largest in the Western Roman Empire — sit on a hillside above the city. The [Temple of Janus](/europe/france/east/burgundy/autun/temple_of_janus) stands in open fields to the north, and the enigmatic [Pierre de Couhard](/europe/france/east/burgundy/autun/pierre_de_couhard) — a 27-metre pyramidal funerary monument — crowns the ridge above the theatre.

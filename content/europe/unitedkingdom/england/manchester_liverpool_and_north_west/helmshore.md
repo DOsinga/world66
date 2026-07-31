@@ -13,6 +13,11 @@ snippet: Lancashire village in the Rossendale Valley, known for its preserved wo
   textile mills.
 title: Helmshore
 type: location
+nature: 4.1
+leisure: 4.5
+adventure: 4.8
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Helmshore is a small village near Haslingden in the Rossendale Valley, Lancashire. The reason to come here is the [Helmshore Mills Textile Museum](/europe/unitedkingdom/england/manchester_liverpool_and_north_west/helmshore/helmshore_mills_textile_museum), housed in two original mills with working machinery still in its original setting. One mill has huge spinning mules; the other has water-powered fulling machinery that dates to the earliest days of the Industrial Revolution.

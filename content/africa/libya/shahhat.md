@@ -13,6 +13,11 @@ sources:
 - https://whc.unesco.org/en/list/190
 title: Shahhat
 type: location
+nature: 5.1
+leisure: 1.4
+adventure: 8.5
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Shahhat is a modern town in the Jebel Akhdar, but the reason to come is ancient [Cyrene](/africa/libya/shahhat/cyrene_archaeological_site), one of the great Greek and Roman sites of North Africa. The ruins sit just north of town on a ridge above the green folds of Cyrenaica, with the Mediterranean somewhere beyond the hills.

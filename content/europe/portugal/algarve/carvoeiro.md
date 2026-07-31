@@ -16,6 +16,11 @@ image: carvoeiro.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Carvoeiro_Portugal_February_2015_03.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Bengt Nyman
+nature: 5.2
+leisure: 7.8
+adventure: 2.1
+city_culture: 3.4
+historic_culture: 3.4
 ---
 
 Carvoeiro is a small, picturesque resort village built around a sandy cove framed by ochre cliffs. Once a fishing village, it retains a quieter, more laid-back atmosphere than [Albufeira](/europe/portugal/algarve/albufeira) to the east. The beach is compact but sheltered, and the surrounding coastline has some of the best diving in the Algarve.

@@ -13,6 +13,11 @@ sources:
 - https://en.wikipedia.org/wiki/Battle_of_the_Bulge
 title: Bastogne
 type: location
+nature: 3.2
+leisure: 5.6
+adventure: 3.6
+city_culture: 7.3
+historic_culture: 7.3
 ---
 
 Bastogne is best known for its role in the Battle of the Bulge, the last major German offensive of World War II. In December 1944, American forces were encircled here and held out against overwhelming odds — a moment commemorated in [McAuliffe Square](/europe/belgium/bastogne/mcauliffe_square), named for the general whose defiant one-word reply to a German surrender demand has passed into military legend. The [Bastogne War Museum](/europe/belgium/bastogne/bastogne_war_museum) and the [Mardasson Memorial](/europe/belgium/bastogne/mardasson_memorial) together make this one of the most powerful WWII sites in Europe.

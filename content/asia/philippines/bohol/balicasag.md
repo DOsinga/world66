@@ -13,6 +13,11 @@ image: balicasag.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Boats_docked_on_Balicasag_Island.jpg
 image_license: CC BY-SA 4.0
 image_attribution: ACTA314
+nature: 6.2
+leisure: 7.1
+adventure: 2.7
+city_culture: 2.7
+historic_culture: 2.7
 ---
 
 Balicasag Island has long been considered one of the best dive spots in the Philippines. Only 45 minutes by boat from Panglao, the visibility is often extraordinary, the coral cover is excellent, and fish are abundant. Large species found here include barracuda, jacks, parrot fish, and grouper.

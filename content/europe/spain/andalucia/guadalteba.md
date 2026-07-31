@@ -14,6 +14,11 @@ sources:
 - https://en.wikipedia.org/wiki/Cueva_de_Ardales
 title: Guadalteba
 type: location
+nature: 5.6
+leisure: 5.6
+adventure: 4.0
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Guadalteba is an area of outstanding natural beauty tucked into the hills of Málaga province, where a chain of reservoirs lies surrounded by mountains and neat rows of olive trees. The [Embalse del Conde de Guadalhorce](/europe/spain/andalucia/guadalteba/embalse_del_conde_de_guadalhorce) is the most spectacular — a turquoise lake cupped between limestone cliffs — and several restaurants on the hilltops offer views across the whole comarca.

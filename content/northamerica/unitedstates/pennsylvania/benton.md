@@ -14,6 +14,11 @@ snippet: Small Pennsylvania borough beside Ricketts Glen, whose Falls Trail link
   old-growth forest and named waterfalls.
 title: Benton
 type: location
+nature: 4.8
+leisure: 5.2
+adventure: 3.9
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Benton is a small borough in Columbia County, but the real draw is nearby [Ricketts Glen State Park](/northamerica/unitedstates/pennsylvania/benton/ricketts_glen_state_park), home to one of Pennsylvania's most spectacular hiking trails.

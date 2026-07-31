@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Matterhorn_Museum
 title: Zermatt
 type: location
+nature: 5.9
+leisure: 7.6
+adventure: 2.6
+city_culture: 3.2
+historic_culture: 3.2
 ---
 
 Zermatt is the car-free village at the foot of the Matterhorn, one of the most recognizable mountains on earth. At 1,620 metres in the upper Valais, it has been drawing mountaineers since the mid-nineteenth century and skiers since the twentieth. The village itself is small enough to walk end to end in twenty minutes, but the ski area above it is enormous — 360 kilometres of pistes shared with Cervinia across the Italian border, plus summer glacier skiing on Klein Matterhorn that runs year-round.

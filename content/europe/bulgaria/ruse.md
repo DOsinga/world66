@@ -16,6 +16,11 @@ snippet: Danube port city in Bulgaria, known for Baroque facades, Art Nouveau ir
   and grand riverfront squares.
 title: Ruse
 type: location
+nature: 4.6
+leisure: 5.4
+adventure: 4.0
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Ruse is Bulgaria's main Danube port and its most architecturally surprising city. Sitting on the southern bank of the river directly opposite the Romanian city of Giurgiu, it spent the second half of the 19th century rebuilding itself in the Western European styles then fashionable among the Bulgarian elite — Baroque facades, Art Nouveau ironwork, grand central squares. The result earned Ruse the nickname "Little Vienna," which oversells it, but the pedestrianised centre around [Freedom Square](/europe/bulgaria/ruse/freedom_square) does have an elegance you won't find anywhere else in Bulgaria.

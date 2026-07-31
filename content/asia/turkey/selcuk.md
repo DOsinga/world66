@@ -14,6 +14,11 @@ title: Selcuk
 type: location
 snippet: Western Turkish town used as the main base for visiting the Roman ruins of
   Ephesus.
+nature: 3.6
+leisure: 5.5
+adventure: 4.2
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 Selcuk is a small town in western [Turkey](/asia/turkey) that exists, for most visitors, as the base for the ancient city of Ephesus — one of the best-preserved Roman cities in the Mediterranean. The ruins are just 3 km away and include a 25,000-seat theatre, the Library of Celsus, marble-paved streets, and remarkably well-preserved terrace houses with frescoed walls.

@@ -13,6 +13,11 @@ snippet: Cotswold market town on the Fosse Way, centred on a large old sheep-tra
   square
 title: Stow-on-the-Wold
 type: location
+nature: 3.9
+leisure: 5.9
+adventure: 3.5
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Stow-on-the-Wold is one of the most famous of the Cotswold towns, perched at the highest point on the ancient Fosse Way in northeastern Gloucestershire. [The large market square](/europe/unitedkingdom/england/gloucestershire/stowonthewold/the_market_square) — once used for huge sheep fairs that could see twenty thousand animals change hands in a day — is now ringed by antique shops, tea rooms, and honey-coloured stone buildings. The narrow alleys running into it, called "tures," were built to funnel livestock; now they channel tourists.

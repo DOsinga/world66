@@ -10,6 +10,11 @@ snippet: Ionian coastal town beside ancient Sybaris, once the byword for Magna G
   luxury.
 title: Sibari
 type: location
+nature: 3.9
+leisure: 6.4
+adventure: 3.2
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Sibari (historically Sybaris) was the wealthiest and most powerful city of Magna Graecia, so famously luxurious that "sybarite" became a byword for decadence. The ancient city was destroyed in 510 BC and later buried under river silt — preserved, not lost.

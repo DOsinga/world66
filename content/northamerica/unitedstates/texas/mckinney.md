@@ -14,6 +14,11 @@ snippet: Collin County seat with a historic town square, Victorian homes, and tr
   rolling hills.
 title: McKinney
 type: location
+nature: 3.4
+leisure: 4.7
+adventure: 4.4
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 McKinney is the county seat of Collin County. It is characterized by rolling hills, mostly covered with trees, unlike the more southern cities in the county.

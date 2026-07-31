@@ -16,6 +16,11 @@ snippet: Japanese metropolis of street food, entertainment districts, and frank 
   energy
 title: Osaka
 type: location
+nature: 1.2
+leisure: 8.4
+adventure: 1.6
+city_culture: 8.6
+historic_culture: 8.6
 ---
 
 Osaka is Japan's third-largest city and its most extroverted. Where Tokyo is polished and Kyoto is refined, Osaka is loud, friendly, and proud of its food. The local phrase is "kuidaore" — eat until you drop — and the city takes it seriously. [Takoyaki stalls, okonomiyaki restaurants](/asia/japan/honshu/osaka/eating_out), and [kushikatsu bars](/asia/japan/honshu/osaka/yoshimoto_infty) are everywhere.

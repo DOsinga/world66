@@ -15,6 +15,11 @@ snippet: Mumbai-edge Maharashtra city whose surviving lakes give dense urban spr
   its most walkable corners.
 title: Thane
 type: location
+nature: 3.8
+leisure: 4.6
+adventure: 4.9
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Thane sits at the northeastern edge of Mumbai's urban sprawl, separated from the city by Thane Creek and surrounded by a chain of shallow lakes. Once a quiet town and later a dormitory suburb, it has grown into one of Maharashtra's largest cities in its own right — dense, chaotic, and alive with the rhythms of everyday urban India.

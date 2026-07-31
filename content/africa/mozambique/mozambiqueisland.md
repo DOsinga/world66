@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Island_of_Mozambique
 title: Mozambique Island
 type: location
+nature: 4.2
+leisure: 5.6
+adventure: 4.2
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Mozambique Island is one of the great historic places of the Indian Ocean. This narrow coral island was the capital of Portuguese East Africa before Maputo, but its deeper story is Swahili, Arab, Indian, and African as much as Portuguese. The result is a dense, weathered town where coral-stone mansions, mosques, churches, and forts sit within a few walkable kilometres.

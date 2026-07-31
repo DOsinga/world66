@@ -14,6 +14,11 @@ snippet: Riverside southwest London town best known for English rugby and a hand
   stretch of the Thames.
 title: Twickenham
 type: location
+nature: 3.1
+leisure: 5.8
+adventure: 3.4
+city_culture: 7.3
+historic_culture: 7.3
 ---
 
 Twickenham is a prosperous riverside town in southwest London, best known as the home of English rugby. [Twickenham Stadium](/europe/unitedkingdom/england/south_east/twickenham/twickenham_stadium) — "Twickers" — seats 82,000 people and hosts the England national team as well as the Premiership Rugby final and the occasional concert. On match days the town turns into a sea of white shirts and good-natured noise; on quiet days it's a pleasant Thames-side suburb with Georgian houses, a couple of good riverside pubs, and more history than it gets credit for.

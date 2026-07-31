@@ -14,6 +14,11 @@ image: ashbourne.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Acorn_of_Ashbourne_-_geograph.org.uk_-_5499075.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Gerald England
+nature: 3.8
+leisure: 4.7
+adventure: 4.3
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Ashbourne is a handsome market town on the southern edge of the Peak District in Derbyshire. Its long main street, Church Street and St John Street, is lined with Georgian and Tudor buildings, and the whole town has a well-preserved feel that makes it one of the most attractive small towns in the Midlands. The church of [St Oswald](/europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/ashbourne/st_oswalds_church), with its soaring 65-metre spire, is particularly fine — Dr Johnson called it "the most interesting and elegant church in all of England."

@@ -17,6 +17,11 @@ sources:
 - https://www.openstreetmap.org/node/293923708
 title: Wotje Atoll
 type: location
+nature: 7.6
+leisure: 3.9
+adventure: 5.9
+city_culture: 2.4
+historic_culture: 2.4
 ---
 
 Wotje Atoll sits in the northern Ratak Chain, a long arc of low islets around a large lagoon. It has more of a settled outer-island feel than many remote atolls: there is a village, a school serving northern islands, an airstrip, churches, and the usual Marshallese rhythm of fishing, copra, church days, and boat arrivals.

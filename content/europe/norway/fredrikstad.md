@@ -13,6 +13,11 @@ title: Fredrikstad
 type: location
 snippet: Fortress town at the Glomma river mouth, with a preserved 17th-century old
   town.
+nature: 3.9
+leisure: 6.4
+adventure: 2.8
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Fredrikstad is one of the best-preserved fortress towns in Scandinavia, sitting at the mouth of the Glomma river about 90 km south of Oslo. The Old Town — [Gamlebyen](gamlebyen) — was built in the 17th century after the original town was burned by Swedish forces, and its ring of moats, earthen ramparts, and cobbled streets remains remarkably intact. People still live and work inside the old fortifications; a bakery, a café, and a handful of craft shops occupy buildings that have stood since the 1600s.

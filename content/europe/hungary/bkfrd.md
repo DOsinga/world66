@@ -13,6 +13,11 @@ snippet: Western Hungarian spa village built around mineral springs discovered d
   oil drilling
 title: Bükfürdő
 type: location
+nature: 4.7
+leisure: 6.8
+adventure: 2.7
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Bükfürdő is one of Hungary's most popular thermal spa resorts, a purpose-built village around a cluster of mineral-rich springs on the flat country of western Hungary, about 35 km north of Szombathely and just 15 km from the Austrian border. The waters were discovered by accident in 1957 during oil drilling, and within a decade Bükfürdő had been built from scratch as a spa town — today the [Bükfürdő Thermal & Spa](/europe/hungary/bkfrd/bukfurdo_thermal_spa) complex is one of the largest bath facilities in the country, with 34 pools ranging from warm outdoor sunning baths to very hot mineral soaks to rapids, slides, and whirlpools for children.

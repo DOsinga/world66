@@ -14,6 +14,11 @@ snippet: Oklahoma wheat-plains city with huge grain elevators and Cherokee Strip
   history.
 title: Enid
 type: location
+nature: 4.1
+leisure: 3.9
+adventure: 5.2
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Enid sits in the wheat plains of northwestern Oklahoma, the seat of Garfield County and the state's ninth-largest city. It grew up around grain — the massive elevators along the railroad tracks make that clear at a glance — and it remains one of the largest grain storage centres in the United States. The downtown square, anchored by the [Garfield County Courthouse](/northamerica/unitedstates/oklahoma/enid/garfield_county_courthouse), has a quiet, unhurried feel that is typical of small-city Oklahoma.

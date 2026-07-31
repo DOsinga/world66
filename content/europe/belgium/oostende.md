@@ -10,6 +10,11 @@ snippet: Belgian seaside harbour town with a grand North Sea front and James Ens
   artistic legacy.
 title: Oostende
 type: location
+nature: 2.9
+leisure: 7.4
+adventure: 2.1
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Ostend is Belgium's main seaside resort — a proper working harbour town that also happens to have a grand seafront, a [pier](/europe/belgium/oostende/pier) stretching out into the grey North Sea, and a casino that looks like it belongs on the Riviera. The combination of mussels, Belgian beer, and salt air is hard to beat.

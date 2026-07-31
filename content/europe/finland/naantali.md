@@ -14,6 +14,11 @@ snippet: Finnish coastal town near Turku, known for wooden lanes, spa history, a
   Moominworld on Kailo Island
 title: Naantali
 type: location
+nature: 4.2
+leisure: 5.8
+adventure: 3.7
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Naantali is a small coastal town about fifteen minutes west of [Turku](/europe/finland/turku), best known internationally as the home of [Moominworld](/europe/finland/naantali/moominworld) — a theme park built on Kailo Island devoted to Tove Jansson's beloved characters. Families with young children come from all over the Nordic countries for it, and with good reason: it is charming and completely uncommercial in spirit.

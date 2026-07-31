@@ -14,6 +14,11 @@ snippet: Irish visitor town beside lakes and mountains, used as a base for Killa
   National Park
 title: Killarney
 type: location
+nature: 4.8
+leisure: 6.5
+adventure: 3.3
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Killarney is the main base for exploring southwest Ireland's lake and mountain scenery — the [national park](/europe/ireland/killarney/killarney_national_park), the [Gap of Dunloe](/europe/ireland/killarney/gap_of_dunloe), and the Ring of Kerry all start from here. The town itself is not especially beautiful, but it has been hosting visitors for over two hundred years and does it well: there are pubs, restaurants, and places to stay in every price range.

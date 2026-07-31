@@ -15,6 +15,11 @@ title: Dushanbe
 type: location
 snippet: Tajik capital of Soviet boulevards and teahouses, grown from a Monday market
   village.
+nature: 4.7
+leisure: 4.3
+adventure: 5.5
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Dushanbe is one of those capitals that surprises you by being more pleasant than expected. Its name means Monday in Tajik — a reference to the weekly bazaar that once defined the place — and until the Soviet railroad arrived in the 1920s, it was little more than a market village. The Soviets built it into a proper city: wide tree-lined boulevards, grand Stalinist facades, a leafy central park. The bones of that plan are still there, and on a sunny day the city is genuinely agreeable.

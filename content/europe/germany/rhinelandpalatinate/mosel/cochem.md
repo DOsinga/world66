@@ -15,6 +15,11 @@ snippet: Mosel wine town of half-timbered lanes and a hilltop Reichsburg above r
   bends.
 title: Cochem
 type: location
+nature: 4.4
+leisure: 7.9
+adventure: 1.9
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Cochem is one of the most photogenic towns on the [Mosel](/europe/germany/rhinelandpalatinate/mosel) — a compact medieval riverside settlement dominated by a fairy-tale hilltop castle that rises more than 100 metres above the water. The town is small enough to explore on foot in an afternoon, yet substantial enough to hold your interest for a day or two.

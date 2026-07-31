@@ -16,6 +16,11 @@ snippet: Salzkammergut spa town where Habsburg summer life still lingers around 
   Kaiservilla and riverside villas.
 title: Bad Ischl
 type: location
+nature: 5.3
+leisure: 7.1
+adventure: 2.8
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 Bad Ischl is the social and geographic heart of the [Salzkammergut](/europe/austria/salzkammergut), the lake district of Upper Austria that stretches east from Salzburg. It sits at the confluence of the Traun and Ischl rivers, hemmed in by steep forested hills, and for most of the nineteenth century it was one of the most important towns in the Habsburg Empire — not because of any political significance, but because the emperor came here every summer.

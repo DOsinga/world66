@@ -15,6 +15,11 @@ title: Arras
 type: location
 snippet: Northern French city of Flemish baroque squares, rebuilt after war above
   medieval chalk tunnels.
+nature: 2.6
+leisure: 6.1
+adventure: 3.1
+city_culture: 7.8
+historic_culture: 7.8
 ---
 
 Arras is a small city with an outsized sense of place. Its centrepiece is one of the finest Flemish baroque ensembles in France: two vast cobblestone squares — the [Grand'Place](/europe/france/nord/arras/grand_place) and the [Place des Héros](/europe/france/nord/arras/place_des_heros) — ringed by tall gabled facades in honey-coloured stone. It is a deeply French town that looks conspicuously Flemish, a quirk of history that gives it a character unlike anywhere else in the region.

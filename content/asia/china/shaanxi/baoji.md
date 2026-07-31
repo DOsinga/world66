@@ -15,6 +15,11 @@ snippet: Wei River city at Shaanxi's western mountains, rooted in Zhou and Qin b
   history.
 type: location
 score: 6.19
+nature: 4.3
+leisure: 3.7
+adventure: 5.7
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Baoji sits at the western end of the Guanzhong Plain, where the Wei River valley narrows into the mountains, and it claims the longest continuous history of any city in Shaanxi — over 2,700 years as a settled place, with roots in the culture that became the Zhou and then the Qin dynasties. The Qin state developed its distinctive character partly here, in this transitional zone between the fertile plain and the mountain frontier, and the [Bronzeware Museum](/asia/china/shaanxi/baoji/bronzeware_museum) reflects that inheritance with a collection of Zhou-period vessels that are among the finest in China. Admission is free.

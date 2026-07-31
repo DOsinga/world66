@@ -14,6 +14,11 @@ longitude: -8.080456
 score: 7.99
 title: Amarante
 type: location
+nature: 3.8
+leisure: 7.4
+adventure: 2.2
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Amarante is one of northern Portugal's most picturesque small towns, draped along both banks of the Tâmega River about 60 kilometres east of [Porto](/europe/portugal/porto). The town's centrepiece is the [São Gonçalo Bridge](/europe/portugal/amarante/sao_goncalo_bridge), a granite span anchored at one end by the [monastery church](/europe/portugal/amarante/igreja_sao_goncalo) of the same name. The balconied houses [lining the riverbank](/europe/portugal/amarante/tamega_river) make for a scene that is almost impossibly photogenic.

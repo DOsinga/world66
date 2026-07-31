@@ -12,6 +12,11 @@ snippet: Remote Phoenix Islands atoll with aviation history and a place inside K
   vast marine reserve.
 title: Kanton Island
 type: location
+nature: 9.3
+leisure: 0.7
+adventure: 9.3
+city_culture: 1.0
+historic_culture: 1.0
 ---
 
 Kanton Island (also spelled Canton) is a remote coral atoll in the Phoenix Islands group of [Kiribati](/australiaandpacific/kiribati), roughly halfway between Hawaii and Fiji. The atoll is part of the [Phoenix Islands Protected Area](/australiaandpacific/kiribati/kantonisland/phoenix_islands_marine_reserve), one of the largest marine protected areas on earth and a UNESCO World Heritage Site. Only a handful of people live here — government caretakers and the occasional visiting scientist — and there is no tourism infrastructure to speak of.

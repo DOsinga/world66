@@ -16,6 +16,11 @@ snippet: Indian capital and layered megacity where Sultanate, Mughal, British, a
   modern Delhi overlap.
 title: Delhi
 type: location
+nature: 2.4
+leisure: 4.0
+adventure: 5.7
+city_culture: 8.5
+historic_culture: 8.5
 ---
 
 Delhi is India's capital, its second-largest city, and, for a lot of travellers, the most overwhelming introduction to the country. Some people get on the first plane out; others are hooked for good. Either reaction is reasonable. What is certain is that Delhi is one of the great urban palimpsests of the world — seven or eight cities built on top of each other over a thousand years, ruled in turn by Rajputs, Delhi Sultanate dynasties, Mughals, and the British. All of those cities are still standing somewhere in the metropolis, and that is the particular fascination of the place.

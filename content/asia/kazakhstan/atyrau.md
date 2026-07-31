@@ -14,6 +14,11 @@ snippet: Caspian oil city on the Ural River, straddling Kazakhstan's Europe-Asia
   near the Caspian shore
 title: Atyrau
 type: location
+nature: 5.2
+leisure: 4.3
+adventure: 5.4
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Atyrau is Kazakhstan's only seaport, situated on the Caspian Sea at the mouth of the Ural River. Since the development of the massive Kashagan and Tengiz oil fields, it has become the centre of Kazakhstan's petroleum industry and one of the wealthiest cities in Central Asia. Most foreign visitors are here for the oil business.

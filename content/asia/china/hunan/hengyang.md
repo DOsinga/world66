@@ -14,6 +14,11 @@ title: Hengyang
 type: location
 score: 5.91
 snippet: Hunan rail city nicknamed Wild Goose City, used as a base for Mount Heng.
+nature: 4.2
+leisure: 4.8
+adventure: 4.3
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Hengyang is the second-largest city in [Hunan](/asia/china/hunan), situated where the Xiang River turns abruptly northeast in the middle of the province. Its popular nickname, "Wild Goose City," comes from a Confucian-era story that migratory geese flying south stop here because the weather in Hengyang is already warm enough — they go no further. Whether or not geese actually do this, the name has stuck for two thousand years and features in countless classical poems as shorthand for the southernmost point worth reaching. The city itself is a busy rail and industrial hub, with the pleasant [Huiyan Peak](/asia/china/hunan/hengyang/huiyan_peak) rising 98 metres on the southern edge of the urban area and offering views over the river.

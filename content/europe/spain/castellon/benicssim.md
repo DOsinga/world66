@@ -14,6 +14,11 @@ snippet: Costa del Azahar beach town backed by Desert de les Palmes hills and su
   music festivals.
 title: Benicàssim
 type: location
+nature: 3.9
+leisure: 7.3
+adventure: 2.2
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Benicàssim is a small coastal town on the Costa del Azahar — the Coast of Orange Blossoms — between [Valencia](/europe/spain/valencia) and Castellón. Unlike the more heavily developed costas further south, this stretch of coast remains predominantly Spanish in character, with far fewer foreign tourists and a more authentic atmosphere.

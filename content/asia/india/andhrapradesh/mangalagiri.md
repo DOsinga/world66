@@ -14,6 +14,11 @@ snippet: Andhra Pradesh temple town known for Panakala Narasimha Swamy Temple an
   distinctive Mangalagiri handloom cotton
 title: Mangalagiri
 type: location
+nature: 3.8
+leisure: 3.4
+adventure: 5.6
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 Mangalagiri is a temple town between Vijayawada and Guntur on the busy NH-5 highway in Andhra Pradesh. The town is known for two things: the Panakala Narasimha Swamy Temple on the hilltop, where devotees offer jaggery water to the deity, and its handloom weaving — Mangalagiri cotton fabric, with its distinctive border patterns, is recognised across India.

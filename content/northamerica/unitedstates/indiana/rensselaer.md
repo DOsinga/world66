@@ -14,6 +14,11 @@ snippet: Small Iroquois River city between Indianapolis and Chicago, with a cour
   square and Amtrak depot.
 title: Rensselaer
 type: location
+nature: 4.3
+leisure: 3.6
+adventure: 5.4
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Rensselaer is a small city of around 6,000 on the Iroquois River, an easy detour off I-65 between Indianapolis and Chicago. The town takes its name from the New York merchant James Van Rensselaer, who platted it in 1837, and was given a railroad in the 1860s that has stuck around — Amtrak's *Cardinal* still calls at the small brick depot three times a week on its run between New York and Chicago. The county seat sits around a tidy 1898 limestone courthouse, ringed by brick storefronts that make up the Courthouse Square Historic District.

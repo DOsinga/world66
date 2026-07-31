@@ -15,6 +15,11 @@ snippet: Yunnan's high-plateau capital, nicknamed the Spring City for its mild c
   and regional connections.
 title: Kunming
 type: location
+nature: 6.4
+leisure: 4.6
+adventure: 5.2
+city_culture: 3.6
+historic_culture: 3.6
 ---
 
 Kunming, the capital of Yunnan, is the spring city — at 1,890 metres on the high plateau of southwest China, it has a climate of mild winters, cool summers, and almost permanent sunshine. For most travellers it is a way-station on the route into Yunnan proper: north to the Bai and Naxi towns of [Dali](/asia/china/yunnanprovince/dali) and [Lijiang](/asia/china/yunnanprovince/lijiang), south to the tropics of [Xishuangbanna](/asia/china/yunnanprovince/xishuangbanna). It deserves more than a single day in passing.

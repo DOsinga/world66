@@ -14,6 +14,11 @@ snippet: Xinjiang capital and inland crossroads city of Uyghur bazaars, Han boul
   and Tianshan day trips
 title: Ürümqi
 type: location
+nature: 5.2
+leisure: 4.5
+adventure: 5.4
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Ürümqi is the capital of Xinjiang, China's vast northwestern autonomous region. It is the most inland major city in the world — further from the sea than any other city of its size. The population is a mix of Han Chinese, Uyghur, Kazakh, and other Central Asian peoples, and this cultural crossroads gives the city a character quite different from eastern China.

@@ -16,6 +16,11 @@ sources:
 - https://ncc-ccn.gc.ca/places/gatineau-park
 title: Gatineau
 type: location
+nature: 3.7
+leisure: 6.2
+adventure: 3.1
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Gatineau is the Quebec city facing [Ottawa](/northamerica/canada/ontario/ottawa) across the river, and it works best when you think of it as several former towns stitched together. [Hull](/northamerica/canada/quebec/hull) is the urban, museum-heavy sector closest to Parliament Hill. [Aylmer](/northamerica/canada/quebec/aylmer) is quieter and older, with a riverfront village feel. The Gatineau sector itself sprawls east, while the green hills of Gatineau Park rise just to the north.

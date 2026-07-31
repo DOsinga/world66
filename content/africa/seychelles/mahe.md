@@ -14,6 +14,11 @@ snippet: Largest Seychelles island, with granite peaks, tropical forest, Victori
   and more than 75 beaches.
 title: Mahe
 type: location
+nature: 6.1
+leisure: 8.0
+adventure: 1.9
+city_culture: 2.6
+historic_culture: 2.6
 ---
 
 Mahe is the largest island in the [Seychelles](/africa/seychelles), just 27 kilometres long but packed with enough mountains, beaches, and tropical forest to fill a week. The granite peaks of the Morne Seychellois range form the island's spine, rising to 905 metres and draped in dense vegetation. Over 75 beaches ring the coast — many of them empty on any given day.

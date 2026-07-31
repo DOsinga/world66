@@ -16,6 +16,11 @@ sources:
 title: Moc Chau
 type: location
 score: 7.0
+nature: 7.2
+leisure: 5.0
+adventure: 4.8
+city_culture: 2.7
+historic_culture: 2.7
 ---
 
 Moc Chau is a highland pause on the road from [Hoa Binh](/asia/vietnam/hoabinh) toward Son La and [Dien Bien Phu](/asia/vietnam/dienbienphu). It sits around 1,000 metres above sea level, so the air is cooler than Hanoi, the hills are greener, and the pace is less frantic than the lowlands.

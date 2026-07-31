@@ -14,6 +14,11 @@ snippet: Mountainous Society Islands escape with turquoise lagoons, deep bays, a
   easy ferry access from Tahiti
 title: Moorea
 type: location
+nature: 6.4
+leisure: 6.3
+adventure: 3.3
+city_culture: 2.7
+historic_culture: 2.7
 ---
 
 Moorea is the island that makes you understand what all the fuss about the South Pacific is about. Just a 45-minute ferry ride from Pape'ete on [Tahiti](/australiaandpacific/frenchpolynesia/tahiti), it has white sand beaches, turquoise lagoons, and jagged green mountains rising dramatically from the coast. Along with [Bora Bora](/australiaandpacific/frenchpolynesia/borabora), it is considered one of the most beautiful islands in the world — and unlike Bora Bora, it is relatively easy and affordable to reach.

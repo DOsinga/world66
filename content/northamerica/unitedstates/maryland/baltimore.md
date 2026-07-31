@@ -13,6 +13,11 @@ longitude: -76.610759
 score: 6.96
 title: Baltimore
 type: location
+nature: 3.7
+leisure: 4.6
+adventure: 4.7
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Baltimore gets a bad rap, and some of it is earned. But this is a city with serious character — gritty, unpretentious, and fiercely loyal to its own identity. It is not Washington, D.C., and it does not want to be.

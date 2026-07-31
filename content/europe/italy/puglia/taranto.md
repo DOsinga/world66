@@ -15,6 +15,11 @@ type: location
 score: 7.64
 snippet: Ancient Puglia city between Mar Grande and Mar Piccolo, layered with Greek,
   Norman, and industrial history.
+nature: 3.4
+leisure: 6.8
+adventure: 2.6
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Taranto sits at the top of the Gulf of Taranto in southern Puglia, an ancient city built on a narrow peninsula between two bodies of water: the open Mar Grande to the west and the sheltered Mar Piccolo to the east. The city was founded by Spartan colonists in the 8th century BC and flourished as the most powerful city of Magna Graecia. Today it wears its layers of history visibly — Greek temples, a Norman-Aragonese castle, a florid baroque cathedral, and the massive steelworks that have defined (and burdened) the city's modern economy all occupy the same geography.

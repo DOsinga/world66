@@ -14,6 +14,11 @@ snippet: Northwestern Algerian hill city with Moorish architecture, medieval lea
   and Sufi shrine traditions.
 title: Tlemcen
 type: location
+nature: 4.4
+leisure: 3.4
+adventure: 6.2
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Tlemcen sits in the hills of northwestern Algeria, close to the Moroccan border. Historically it had closer cultural ties to [Fez](/africa/morocco/fez) than to other Algerian cities, and that Moorish influence is still visible in its architecture and traditions. The city was the capital of a medieval Berber kingdom and a major centre of Islamic learning.

@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Beagle_Channel
 snippet: Remote South American island of forests, peat bogs, and mountains plunging
   into the Beagle Channel.
+nature: 8.4
+leisure: 3.4
+adventure: 6.6
+city_culture: 1.7
+historic_culture: 1.7
 ---
 
 Tierra del Fuego is the great island at the southern tip of South America, divided between Argentina and Chile along a north-south line. It is one of the most remote and dramatic landscapes on the continent — dense Nothofagus forests, glacial lakes, peat bogs, and mountains that plunge directly into the Beagle Channel. Wind and rain are constants; the light, when it comes, is extraordinary.

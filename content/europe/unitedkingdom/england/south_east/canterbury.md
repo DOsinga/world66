@@ -14,6 +14,11 @@ snippet: Medieval cathedral city of pilgrimage lanes, timber-framed streets, and
   enduring Canterbury Tales associations.
 title: Canterbury
 type: location
+nature: 3.0
+leisure: 6.6
+adventure: 2.6
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 Canterbury has been drawing visitors since the Middle Ages, when pilgrims flocked to the cathedral where Archbishop Thomas Becket was murdered in 1170. Chaucer immortalised those journeys in The Canterbury Tales, and the city still trades on that heritage today, though it has plenty more to offer.

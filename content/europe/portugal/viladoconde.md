@@ -16,6 +16,11 @@ snippet: Atlantic town north of Porto, shaped by shipbuilding history at the mou
   of the River Ave.
 title: Vila do Conde
 type: location
+nature: 3.9
+leisure: 7.7
+adventure: 1.8
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Vila do Conde is a town of around 74,000 people on the Atlantic coast north of Porto, at the mouth of the River Ave. It was one of Portugal's most important shipbuilding centres during the Age of Discovery in the 15th and 16th centuries, and that history is still visible in the town's architecture — particularly the great Monastery of Santa Clara and the long aqueduct that once supplied it.

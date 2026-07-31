@@ -14,6 +14,11 @@ snippet: Greek coastal plain northeast of Athens, remembered for the 490 BC batt
   against Persia.
 title: Marathon
 type: location
+nature: 3.2
+leisure: 4.5
+adventure: 5.1
+city_culture: 7.7
+historic_culture: 7.7
 ---
 
 Marathon is one of those rare places where the name itself has become a word. In 490 BC, a badly outnumbered Athenian army defeated the invading Persians on this coastal plain northeast of Athens, and a messenger ran the roughly 40 kilometers back to the city to announce the victory. That run gave us the marathon race. The battlefield itself is a quiet stretch of farmland and olive groves between the mountains and the sea, and the contrast between the drama of what happened here and the peacefulness of the place today is striking.

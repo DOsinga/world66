@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Guizhou
 title: Lang De
 type: location
+nature: 4.6
+leisure: 3.5
+adventure: 5.7
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Lang De is a Miao village 20 kilometres south of Kaili, set on a hillside above the [Bala River valley](/asia/china/guizhou/lang_de/bala_river_terraces) — [stilt houses](/asia/china/guizhou/lang_de/village_stilt_houses) in dark timber climbing the slope in tiers, rice terraces below, and the river a thread of silver at the valley floor. It occupies the zone between Kaili's accessible day-trip radius and Xijiang's commercial development, which means it has received tourism but has not yet reorganised itself around it. The village has a [welcoming committee](/asia/china/guizhou/lang_de/welcome_ceremony) that performs traditional music and offering-of-wine ceremonies for visitor groups, but the performance is peripheral to the actual settlement, which continues to function on its own terms.

@@ -13,6 +13,11 @@ snippet: Cauvery river island dominated by Sri Ranganathaswamy Temple, a major V
   shrine in South India.
 title: Srirangam
 type: location
+nature: 2.3
+leisure: 4.9
+adventure: 4.8
+city_culture: 8.6
+historic_culture: 8.6
 ---
 
 Srirangam is a river island in the Cauvery near Tiruchirappalli, and almost the entire island is occupied by the [Sri Ranganathaswamy Temple](/asia/india/tamilnadu/srirangam/ranganathaswamy_temple) — one of the largest functioning temple complexes in the world. The temple has seven concentric enclosure walls, the outermost of which is over 4 km in circumference and contains shops, houses, and streets. The innermost sanctum houses the reclining form of Lord Vishnu as Sri Ranganatha, and the site is one of the most sacred Vaishnava shrines in South India.

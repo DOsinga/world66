@@ -19,6 +19,11 @@ sources:
 - https://en.wikipedia.org/wiki/Auckland_War_Memorial_Museum
 title: Auckland
 type: location
+nature: 3.9
+leisure: 8.0
+adventure: 1.9
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Auckland sprawls across a narrow isthmus between two harbours, built on and around some fifty volcanic cones. It is New Zealand's largest city by far, home to roughly a third of the country's population, and the place where most international visitors first set foot in the country. The Sky Tower pierces the skyline from almost anywhere in the city, a useful compass point and the most dramatic viewpoint in the southern hemisphere.

@@ -10,6 +10,11 @@ title: Virginia
 type: location
 snippet: Virginia is a Mesabi Iron Range city shaped by northeastern Minnesota’s taconite
   mining landscape.
+nature: 5.0
+leisure: 5.4
+adventure: 3.8
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Virginia is a small city on the Mesabi Iron Range in northeastern Minnesota, known locally as the "Queen City of the North." It was founded in the 1890s during the iron mining boom, and mining — now mostly taconite — still shapes the local economy and landscape. The [mine viewpoint at the north edge of town](/northamerica/unitedstates/minnesota/virginia/chisholm_mine_view) offers a look into an active pit operation; the Hull-Rust-Mahoning Mine near Hibbing gives an even larger perspective.

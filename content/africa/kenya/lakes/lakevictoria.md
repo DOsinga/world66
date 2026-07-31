@@ -9,6 +9,11 @@ title: Lake Victoria
 type: location
 score: 7.76
 loc_type: feature
+nature: 6.8
+leisure: 4.9
+adventure: 4.7
+city_culture: 3.0
+historic_culture: 3.0
 ---
 
 Lake Victoria is the largest lake in Africa, measuring almost 70,000 square km — roughly the size of Ireland. The Kenyan shore, centred on the city of Kisumu, is Luo country, and the lake has shaped the life and economy of the people here for centuries. Fishing remains central, though the industry has been badly affected by the invasion of water hyacinth, an aquatic weed that chokes waterways and robs fish of oxygen. Bilharzia is prevalent in the lake — do not swim in it, and wear shoes on the banks.

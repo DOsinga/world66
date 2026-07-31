@@ -14,6 +14,11 @@ image_license: CC BY-SA 3.0
 image_attribution: Ghezoart
 snippet: Clifftop Dordogne bastide with honey-stone lanes and rampart views over the
   Périgord river valley.
+nature: 3.7
+leisure: 5.7
+adventure: 3.8
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Domme is a 13th-century bastide perched on a cliff 150 metres above the Dordogne river, and the views from its ramparts are among the finest in the Périgord. On a clear day you can see the river winding through a patchwork of walnut orchards, tobacco fields, and stone villages as far as the eye can follow.

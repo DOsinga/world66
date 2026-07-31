@@ -12,6 +12,11 @@ title: Mechelen
 snippet: Flemish small city between Brussels and Antwerp, with St. Rumbold's Cathedral
   above guild-house streets.
 type: location
+nature: 2.4
+leisure: 6.7
+adventure: 2.4
+city_culture: 7.8
+historic_culture: 7.8
 ---
 
 Mechelen (Malines in French) sits halfway between [Brussels](/europe/belgium/brussels) and [Antwerp](/europe/belgium/antwerp) in Flanders, and is one of Belgium's most rewarding small cities. For centuries it was the ecclesiastical capital of the Low Countries and the seat of the Grand Council, and that history left it with a remarkable concentration of churches, palaces, and guild houses.

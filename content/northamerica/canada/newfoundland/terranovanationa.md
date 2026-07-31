@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Terra_Nova_National_Park
 title: Terra Nova National Park
 type: location
+nature: 8.8
+leisure: 4.7
+adventure: 5.0
+city_culture: 1.2
+historic_culture: 1.2
 ---
 
 *North America > Canada > Newfoundland > Terra Nova National Park*

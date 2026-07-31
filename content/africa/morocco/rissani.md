@@ -14,6 +14,11 @@ snippet: Saharan-edge town in the Ziz Valley, beside the ruins of the medieval t
   city Sijilmassa.
 title: Rissani
 type: location
+nature: 4.2
+leisure: 3.7
+adventure: 5.9
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Rissani sits at the end of the Ziz River valley, where the road runs out and the Sahara begins. Most of its inhabitants still live inside the 18th-century ksar — a maze of narrow, darkened passages that feel genuinely medieval. Five minutes' walk west of town lies the ruined site of Sijilmassa, the first independent Arab and Islamic city in Morocco, founded in the 8th century and powerful through the 14th. Little remains of the structures now, but the setting is atmospheric.

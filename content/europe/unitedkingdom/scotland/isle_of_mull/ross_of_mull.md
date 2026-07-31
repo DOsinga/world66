@@ -9,6 +9,11 @@ snippet: Southern Mull peninsula of shell-sand beaches, single-track roads, and 
   ferry crossing to Iona.
 title: Ross of Mull
 type: location
+nature: 6.8
+leisure: 5.1
+adventure: 4.6
+city_culture: 3.1
+historic_culture: 3.1
 ---
 
 The Ross of Mull is the long, narrow peninsula forming the southern part of the island. You reach it by turning left off the ferry at Craignure and following the single-track road west.

@@ -16,6 +16,11 @@ title: Paderborn
 snippet: Compact Westphalian city built around the Pader springs, with a cathedral
   and medieval old-town core
 type: location
+nature: 3.2
+leisure: 5.7
+adventure: 3.2
+city_culture: 7.0
+historic_culture: 7.0
 ---
 
 Paderborn is a small city of about 100,000 in the Ostwestfalen-Lippe region of [North Rhine-Westphalia](/europe/germany/northrhinewestphalia). People have settled here since pre-Roman times, drawn by the [springs of the Pader](/europe/germany/northrhinewestphalia/paderborn/pader_springs) — one of the shortest rivers in Germany, rising in over 200 springs right in the city centre.

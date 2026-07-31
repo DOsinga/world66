@@ -13,6 +13,11 @@ longitude: 33.4323
 score: 4.49
 title: Shendi
 type: location
+nature: 6.2
+leisure: 1.2
+adventure: 8.7
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Shendi sits on the east bank of the Nile, about 150 km northeast of [Khartoum](/africa/sudan/khartoum), in the heart of the Butana steppe. The town itself is a workaday market place — don't expect much in the way of restaurants, and there is no nightlife to speak of. What draws travellers here are the ruins of Kush scattered across the desert: the Pyramids of Meroë to the north, and the temple complexes of Musawwarat es-Sufra and Naqa to the south.

@@ -10,6 +10,11 @@ snippet: Lithuanian national park of sandy pine forest, clear rivers, old villag
   and mushroom-gathering traditions.
 title: Dzūkija National park
 type: location
+nature: 7.5
+leisure: 4.9
+adventure: 4.7
+city_culture: 2.4
+historic_culture: 2.4
 ---
 
 Dzūkija is Lithuania's largest national park, covering dense pine and mixed forests in the southeast of the country, roughly centred between Druskininkai and Varėna. The landscape is flat and sandy, shaped by glacial outwash — long stretches of old-growth pine, wetlands, and clear rivers cutting through the forest. It feels genuinely remote in a way that few places in the Baltic states still manage.

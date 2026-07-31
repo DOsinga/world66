@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Iber%C3%A1_Wetlands
 title: Iberá Wetlands
 type: location
+nature: 7.6
+leisure: 3.8
+adventure: 5.7
+city_culture: 2.1
+historic_culture: 2.1
 ---
 
 The Esteros del Iberá are one of the world's great wetland wildernesses — a vast mosaic of lakes, floating islands, marshes, and gallery forest covering around 1.3 million hectares of northeastern Argentina. Second in size only to Brazil's Pantanal, the wetlands hold over 4,000 species of plants and animals, including populations of capybara, caiman, marsh deer, and giant anteaters that can be observed at extremely close range from small boats and on foot.

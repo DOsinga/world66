@@ -16,6 +16,11 @@ sources:
 - https://www.openstreetmap.org/
 title: Panajachel
 type: location
+nature: 4.7
+leisure: 3.8
+adventure: 5.5
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Panajachel, usually shortened to Pana, is the working gateway to [Lake Atitlán](/northamerica/guatemala/lakeatitlan). It is not the quietest or prettiest village on the lake, but it is the one where the buses, shuttles, boats, ATMs, tour desks, and souvenir stalls all meet. If you are arriving from [Guatemala City](/northamerica/guatemala/guatemalacity), [Antigua](/northamerica/guatemala/antiguaguatemala), or [Chichicastenango](/northamerica/guatemala/chichicastenango), chances are you will pass through here.

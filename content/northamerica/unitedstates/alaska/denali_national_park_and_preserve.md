@@ -13,6 +13,11 @@ image: denali_national_park_and_preserve.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Every_Road-_Denali_(7945497984).jpg
 image_license: Public domain
 image_attribution: Denali National Park and Preserve
+nature: 9.4
+leisure: 3.9
+adventure: 6.0
+city_culture: 1.1
+historic_culture: 1.1
 ---
 
 Denali National Park and Preserve covers six million acres — roughly the size of Massachusetts — in the heart of Alaska, 237 miles north of Anchorage and 120 miles south of Fairbanks. No park in North America offers so complete a wilderness ecosystem accessible to the average visitor. Grizzly bears, moose, caribou, wolves, Dall sheep, and dozens of other species roam the tundra plains and boreal forests with almost no human infrastructure in the way.

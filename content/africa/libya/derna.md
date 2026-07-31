@@ -18,6 +18,11 @@ sources:
 - https://en.wikipedia.org/wiki/Derna_waterfalls
 title: Derna
 type: location
+nature: 6.4
+leisure: 0.9
+adventure: 9.1
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Derna is one of Libya's most dramatically placed coastal cities, wedged between the Mediterranean, the eastern end of the [Jebel Akhdar](/africa/libya/jebelakhdar) and the cut of [Wadi Derna](/africa/libya/derna/wadi_derna). Before recent disasters, travellers came for its old mosques, mountain-water scenery, sea air and its position on the road between Apollonia, Cyrene and Tobruk.

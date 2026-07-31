@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Jinzhou
 title: Jinzhou
 type: location
+nature: 4.6
+leisure: 4.7
+adventure: 4.6
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Jinzhou guards the western approach to the northeast — the narrow corridor between the Yan Mountains and the Bohai Sea through which armies, traders, and migrants have passed for two thousand years. The city itself is an unassuming place, but it sits at the intersection of significant threads: Liao Dynasty architecture, Jurassic fossil beds, and the decisive battle of the Chinese Civil War all left their mark here.

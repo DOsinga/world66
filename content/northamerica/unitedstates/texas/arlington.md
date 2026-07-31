@@ -14,6 +14,11 @@ snippet: North Texas city defined by a concentrated entertainment district of st
   theme parks, and game-day crowds.
 title: Arlington
 type: location
+nature: 3.7
+leisure: 4.4
+adventure: 4.8
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Arlington sits midway between [Dallas](/northamerica/unitedstates/texas/dallas) and [Fort Worth](/northamerica/unitedstates/texas/fort_worth), and with over 400,000 residents it is anything but a suburb. The city's identity is built almost entirely around its entertainment district — a remarkable concentration of major venues in a single square mile: AT&T Stadium (the Dallas Cowboys), Globe Life Field (the Texas Rangers), Six Flags Over Texas, and the Texas Live dining complex. On game days, the area fills with tailgating crowds and the scale of the whole enterprise becomes clear.

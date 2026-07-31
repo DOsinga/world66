@@ -14,6 +14,11 @@ snippet: Lake Superior settlement at Minnesota's northeastern tip, known for its
   national monument.
 title: Grand Portage
 type: location
+nature: 6.3
+leisure: 4.5
+adventure: 5.0
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 Grand Portage sits on the shore of Lake Superior in the far northeastern corner of Minnesota, about as close to Canada as you can get without crossing the border. The main draw is Grand Portage National Monument, which preserves the site of an 18th-century fur trade headquarters where voyageurs, Ojibwe families, and North West Company agents gathered each summer for a grand rendezvous of trade and negotiation.

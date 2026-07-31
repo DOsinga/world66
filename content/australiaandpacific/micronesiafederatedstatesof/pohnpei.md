@@ -10,6 +10,11 @@ snippet: Rain-soaked Micronesian island of rivers, waterfalls, dense forest, and
   basalt ruins of Nan Madol.
 title: Pohnpei
 type: location
+nature: 7.5
+leisure: 5.0
+adventure: 5.0
+city_culture: 2.8
+historic_culture: 2.8
 ---
 
 Pohnpei is the largest and tallest island in the Federated States of Micronesia, and one of the wettest places on earth — its peaks collect enough rain to feed over 40 rivers and waterfalls that cascade through dense tropical forest. The island is the seat of the national capital, Palikir, but feels anything but urban. This is a place for hikers, divers and anyone drawn to the genuinely remote.

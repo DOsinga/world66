@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Yardimli_District
 title: Yardimli
 type: location
+nature: 4.6
+leisure: 3.7
+adventure: 5.6
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Yardimli is a small town in the Talysh Mountains of southern Azerbaijan, inland from [Masally](/europe/azerbaijan/masally) and [Lenkoran](/europe/azerbaijan/lenkoran). It is not a conventional sightseeing stop. The reason to come is the road, the green mountain scenery, and the sense of being in a quieter, higher corner of the country.

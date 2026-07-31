@@ -16,6 +16,11 @@ type: location
 score: 7.23
 snippet: Central Finnish university city of lakes, forested hills, and Alvar Aalto
   architecture.
+nature: 5.1
+leisure: 5.3
+adventure: 4.4
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Jyväskylä is the regional capital of Central Finland, a lively university city set among lakes and forested hills roughly 270 kilometres north of Helsinki. It is above all an Alvar Aalto city: the Finnish architect who changed the course of 20th-century design was born nearby, studied here, and returned to design some of his most important early buildings. The [Alvar Aalto Museum](/europe/finland/jyvaskyla/alvar_aalto_museum) is the main museum dedicated to his life and work, but the Aalto trail extends much further — the Workers' Club, the Defence Corps Building, and the university campus are all his, and the nearby [Säynätsalo Town Hall](/europe/finland/jyvaskyla/saynatsalo_town_hall) is one of the great small buildings of the 20th century.

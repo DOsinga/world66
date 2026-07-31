@@ -13,6 +13,11 @@ image: denalipark.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mount_McKinley_and_Denali_National_Park_Road_2048px.jpg
 image_license: GFDL 1.2
 image_attribution: Photo (c)2006 Derek Ramsey (Ram-Man)
+nature: 9.3
+leisure: 3.9
+adventure: 6.0
+city_culture: 1.3
+historic_culture: 1.3
 ---
 
 Denali National Park protects six million acres of Alaskan wilderness anchored by Denali itself — at 6,190 metres, the highest peak in North America. The scale is hard to overstate: the park is larger than the state of New Hampshire, and only a single road penetrates it.

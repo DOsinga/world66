@@ -13,6 +13,11 @@ snippet: Navarrese capital of medieval walls and Camino pilgrims, famous for San
   running bulls.
 title: Pamplona
 type: location
+nature: 2.6
+leisure: 8.6
+adventure: 1.4
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Pamplona is the city Hemingway made famous. Every July, the **San Fermin Festival** sends bulls charging through its narrow streets while thousands run ahead of them, and the rest of the world watches in disbelief. But Pamplona is far more than one wild week in summer.

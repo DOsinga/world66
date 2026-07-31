@@ -13,6 +13,11 @@ sources:
 - https://en.wikipedia.org/wiki/Comox_Valley
 title: Courtenay
 type: location
+nature: 7.3
+leisure: 5.5
+adventure: 4.3
+city_culture: 2.3
+historic_culture: 2.3
 ---
 
 Courtenay is the largest community in the Comox Valley, on the east coast of Vancouver Island in British Columbia. Together with its sister town of Comox and the village of Cumberland, it forms the main population centre between Nanaimo and Campbell River.

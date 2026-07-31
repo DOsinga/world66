@@ -14,6 +14,11 @@ snippet: Rural Scenic Rim town in the Logan River valley, used as a gateway to L
   National Park.
 title: Beaudesert
 type: location
+nature: 6.0
+leisure: 5.1
+adventure: 4.3
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 Beaudesert is a small rural town in the **Scenic Rim**, the arc of mountain country south-west of [Brisbane](/australiaandpacific/australia/queensland/brisbane) that traces the New South Wales border. It sits in the Logan River valley with a working cattle-and-dairy hinterland on one side and the basalt walls of the McPherson Range on the other — a landscape of green pastures, fig-lined creeks and old timber farmhouses.

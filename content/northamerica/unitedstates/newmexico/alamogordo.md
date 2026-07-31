@@ -15,6 +15,11 @@ snippet: Southeastern New Mexico town used as the practical base for White Sands
   nearby desert canyons.
 title: Alamogordo
 type: location
+nature: 5.0
+leisure: 4.8
+adventure: 4.4
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Locals call it simply "Alamo," and this southeastern New Mexico town packs more in than you might expect. [White Sands](/northamerica/unitedstates/newmexico/whitesands) is just 15 miles away, making Alamogordo the natural base for visiting the dunes. The zoo is the oldest in the Southwest, and the Old Toy Train Depot makes for a quirky museum stop. Oliver Lee State Park, just south of town, sits in a dramatic canyon that was once the site of battles between Apache tribes and the U.S. Army.

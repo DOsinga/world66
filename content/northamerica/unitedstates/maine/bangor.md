@@ -9,6 +9,11 @@ snippet: Northern Maine city on the Penobscot River, known for lumber history an
   Stephen King associations.
 title: Bangor
 type: location
+nature: 5.1
+leisure: 6.8
+adventure: 2.9
+city_culture: 4.0
+historic_culture: 4.0
 ---
 
 Bangor was the 19th-century lumber capital of the world, and the town hasn't forgotten it -- a 31-foot Paul Bunyan statue stands on Main Street, staking Maine's claim as the lumberjack's true birthplace (sorry, Minnesota). Today Bangor is the commercial center of northern Maine and the last sizable city before the wilderness begins.

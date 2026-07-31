@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/Giusvalla
 title: Giusvalla
 type: location
+nature: 5.2
+leisure: 5.7
+adventure: 3.8
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Giusvalla is a small village on the northern slopes of the Ligurian Apennines, perched above the right bank of the Giusvalletta, a tributary of the Valla. At around 500 metres above sea level, it sits in a quiet fold of the hills where farmland gives way to chestnut and oak forest — the kind of inland Ligurian landscape that most visitors to the coast never reach. The village is compact and unhurried, with the feel of a place that has changed slowly over many centuries.

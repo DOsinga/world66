@@ -15,6 +15,11 @@ snippet: Lake Garda peninsula town entered through a Scaligero castle and edged 
   Roman villa ruins.
 title: Sirmione
 type: location
+nature: 3.8
+leisure: 8.1
+adventure: 1.8
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Sirmione sits on a narrow finger of land that juts three kilometres into Lake Garda from its southern shore. The old town is almost entirely surrounded by water, approached through the gates of a 13th-century Scaligero castle — and for most of the year it is crowded with visitors who've figured out what a good thing looks like. That's fair. The place is genuinely beautiful.

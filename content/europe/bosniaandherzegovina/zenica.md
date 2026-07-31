@@ -14,6 +14,11 @@ snippet: Central Bosnian industrial city on the Bosna River, shaped by steelwork
   and valley geography
 title: Zenica
 type: location
+nature: 4.3
+leisure: 4.7
+adventure: 4.5
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Zenica is Bosnia & Herzegovina's fourth-largest city, an industrial hub sitting in a broad valley along the Bosna River, about 70 km north of Sarajevo. It's not a typical tourist destination — the city's identity was shaped by its massive steelworks, which defined much of the 20th century here — but it has a pleasant old town centre, a handful of museums, and serves as a practical base for exploring central Bosnia.

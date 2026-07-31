@@ -14,6 +14,11 @@ snippet: Southern Tibetan town on the Friendship Highway, known for Pelkor Chöd
   and its Kumbum.
 title: Gyantse
 type: location
+nature: 6.2
+leisure: 4.6
+adventure: 5.3
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Gyantse is a small agricultural town at nearly 4,000 metres in southern [Tibet](/asia/china/tibet), one of the least changed towns on the Friendship Highway between Lhasa and the Nepali border. It was once the third-largest town in Tibet, a major wool-trading centre on the route to India, and it still has a languid, end-of-the-road feel.

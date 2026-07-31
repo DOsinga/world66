@@ -13,6 +13,11 @@ snippet: Compact northern English city on the Tyne, with bold bridges, nightlife
   and Victorian-industrial architecture
 title: Newcastle upon Tyne
 type: location
+nature: 2.4
+leisure: 6.7
+adventure: 2.7
+city_culture: 7.9
+historic_culture: 7.9
 ---
 
 Newcastle is a city that punches well above its weight. Compact enough to walk across in twenty minutes, it packs in more culture, nightlife, and architectural variety than cities twice its size. The [Quayside](/europe/unitedkingdom/england/newcastle_and_north_east/newcastle_upon_tyne/quayside) along the Tyne is the showpiece — the [Gateshead Millennium Bridge](/europe/unitedkingdom/england/newcastle_and_north_east/newcastle_upon_tyne/gateshead_millennium_bridge), the [BALTIC Centre for Contemporary Art](/europe/unitedkingdom/england/newcastle_and_north_east/newcastle_upon_tyne/baltic_centre), and the [Sage Gateshead](/europe/unitedkingdom/england/newcastle_and_north_east/newcastle_upon_tyne/sage_gateshead) concert hall all face each other across the river, with the old bridges and the [castle keep](/europe/unitedkingdom/england/newcastle_and_north_east/newcastle_upon_tyne/newcastle_castle) as backdrop.

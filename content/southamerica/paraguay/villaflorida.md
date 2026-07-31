@@ -13,6 +13,11 @@ snippet: Small Paraguayan town on the Río Tebicuary, known locally for dorado a
   surubí sport fishing.
 title: Villa Florida
 type: location
+nature: 4.8
+leisure: 3.9
+adventure: 5.4
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Villa Florida is a small town on the [Río Tebicuary](/southamerica/paraguay/villaflorida/tebicuary_river), about 160km south of Asunción on the road to [Encarnacion](/southamerica/paraguay/encarnacion). It's known primarily for [sport fishing](/southamerica/paraguay/villaflorida/sport_fishing) — the river here is popular with dorado and surubí anglers, particularly between August and November. Several fishing lodges operate along the river and cater to fishing tourists from Asunción and abroad.

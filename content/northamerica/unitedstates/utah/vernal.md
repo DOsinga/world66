@@ -14,6 +14,11 @@ snippet: Uintah Basin town on Utah's dinosaur frontier, near fossil quarries, re
   canyons, and Flaming Gorge.
 title: Vernal
 type: location
+nature: 6.1
+leisure: 4.2
+adventure: 5.3
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 Vernal is the main town in the Uintah Basin of northeastern Utah, sitting at the edge of some of the state's most spectacular dinosaur country. It is the gateway to Dinosaur National Monument, where a quarry wall exposes over 1,500 dinosaur bones in situ — one of the great fossil sites in North America.

@@ -15,6 +15,11 @@ snippet: Gobi frontier city built around Jiayu Pass, the Ming Great Wall's weste
 title: Jiayuguan
 type: location
 score: 7.96
+nature: 5.2
+leisure: 4.3
+adventure: 5.3
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Jiayuguan was, for most of Chinese imperial history, the end of the world. The fort here — the Jiayu Pass — was the westernmost stronghold of the Ming Great Wall, the last outpost of Chinese civilization before the desert took over. Soldiers posted here who fell out of favour were said to have been "sent beyond the pass." The name means "last fort under heaven." Standing on the ramparts now, with the snow-capped Qilian Mountains behind you and the Gobi stretching ahead, the phrase stops feeling metaphorical.

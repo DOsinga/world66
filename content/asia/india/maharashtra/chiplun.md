@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Gowalkot
 title: Chiplun
 type: location
+nature: 4.5
+leisure: 3.5
+adventure: 5.7
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Chiplun is the main inland town of Ratnagiri district, set on the Vashishti River where the Konkan coast begins to climb toward the Sahyadri hills. It is not a beach town, and that is the point. Chiplun is greener, quieter, and more river-focused than the coast, with mango orchards, temple villages, backwater edges, and monsoon waterfalls close by.

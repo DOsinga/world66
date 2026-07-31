@@ -12,6 +12,11 @@ sources:
 - https://www.openstreetmap.org/
 title: Chandaneshwar
 type: location
+nature: 4.9
+leisure: 3.7
+adventure: 5.6
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Chandaneshwar is a small temple village just across the Odisha border from West Bengal's Digha-Shankarpur coast. Travellers usually come as a short excursion from [Digha](/asia/india/westbengal/digha) or [Shankarpur](/asia/india/westbengal/shankarpur), not as a destination in its own right.

@@ -10,6 +10,11 @@ snippet: North Dakota plains city reshaped by the Bakken oil boom near the Monta
   and Canadian borders
 title: Williston
 type: location
+nature: 5.1
+leisure: 3.2
+adventure: 6.0
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Williston is a town on the plains of far northwestern North Dakota, about 30 km from the Montana state line and 100 km from the Canadian border — long a sleepy farm-and-railroad town of under 15,000 people, and then, in the 2000s and 2010s, the boomtown at the centre of the **Bakken oil shale play**. North America's biggest onshore oil strike in a generation turned Williston into one of the fastest-growing cities in the United States overnight, packing its streets with oil workers, triplex construction sites and hastily built strip malls.

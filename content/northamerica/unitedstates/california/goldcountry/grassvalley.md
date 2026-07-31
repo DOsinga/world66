@@ -14,6 +14,11 @@ longitude: -121.0629
 title: Grass Valley
 type: location
 score: 6.9
+nature: 5.0
+leisure: 5.4
+adventure: 4.0
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Grass Valley is a Gold Rush-era town in Nevada County in California's Sierra Nevada foothills, at an elevation of about 770 metres. It was one of the richest gold mining areas in California, and the [Empire Mine State Historic Park](/northamerica/unitedstates/california/goldcountry/grassvalley/empire_mine_state_historic_park) — which operated from 1850 until 1956 and produced nearly six million ounces of gold — is the best reason to visit. The park preserves the shaft house, stamp mill, and owner's "cottage" (in fact a substantial Victorian house), along with the underground shafts that once extended more than a mile below the surface.

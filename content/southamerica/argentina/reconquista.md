@@ -9,6 +9,11 @@ snippet: Northern Santa Fe city near the Paraná, offering a grounded slice of s
   Argentina
 title: Reconquista
 type: location
+nature: 5.6
+leisure: 3.1
+adventure: 6.1
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Reconquista may not be the big tourist city you would jump at the chance of travelling to. No bright lights, casinos, streets of restaurants or theme parks here. But if you're looking to experience part of "small-town Argentina" while not going too small, Reconquista is a good place to check out.

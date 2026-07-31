@@ -13,6 +13,11 @@ snippet: Chachapoyas mountaintop fortress above the Utcubamba Valley, with massi
   walls and cloud-forest mystery
 title: Kuelap
 type: location
+nature: 6.8
+leisure: 3.6
+adventure: 6.4
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Travel Guide

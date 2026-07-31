@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Zibo
 title: Zibo
 type: location
+nature: 4.0
+leisure: 5.6
+adventure: 3.6
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Zibo was the capital of the ancient state of Qi for over six centuries during the Zhou Dynasty, and the [ruins of the old city](/asia/china/shandong_province/zibo/linzi_ancient_city) — earthen walls, palace foundations, ritual bronzes, and sacrificial horse pits — are substantial enough to anchor a dedicated museum that draws scholars of early Chinese civilization from around the world. The Qi state was one of the dominant powers of the Spring and Autumn and Warring States periods, and its political philosophy — more pragmatic and commercially oriented than Confucius's Zhou orthodoxy — shaped Chinese statecraft in ways that have never fully disappeared. Linzi, the ancient capital district, preserves the old city grid and is distinct from the industrial urban sprawl that most visitors see first.

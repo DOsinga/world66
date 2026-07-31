@@ -14,6 +14,11 @@ title: Uluru-Kata Tjuta National Park
 type: location
 snippet: Red Centre national park jointly managed by Anangu owners, centred on Uluru
   and Kata Tjuta.
+nature: 8.7
+leisure: 4.1
+adventure: 5.9
+city_culture: 1.9
+historic_culture: 1.9
 ---
 
 Uluru-Kata Tjuta National Park is the spiritual heart of Australia's Red Centre, a UNESCO World Heritage site in the southern Northern Territory. The park is jointly managed by its Anangu traditional owners and Parks Australia — Uluru is a deeply sacred site, and visiting it respectfully is part of the experience.

@@ -14,6 +14,11 @@ snippet: Sakha Republic capital on Siberian permafrost, built beside the vast Le
   River.
 title: Yakutsk
 type: location
+nature: 8.2
+leisure: 2.6
+adventure: 7.4
+city_culture: 2.6
+historic_culture: 2.6
 ---
 
 **Yakutsk** is the coldest city on earth. The capital of the Sakha Republic in eastern Siberia, it regularly sees temperatures below minus 40 C in winter, and the surrounding permafrost never fully thaws. Yet nearly 300,000 people live here, and have done for centuries — making it one of the most extraordinary examples of human adaptation anywhere.

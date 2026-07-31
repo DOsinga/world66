@@ -14,6 +14,11 @@ snippet: Malnad city in green Western Ghats country, surrounded by rivers, fores
   and waterfall landscapes.
 title: Shimoga
 type: location
+nature: 4.8
+leisure: 4.9
+adventure: 4.6
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Shimoga — officially renamed Shivamogga — sits in the heart of [Karnataka](/asia/india/karnataka)'s Malnad region, where the Western Ghats tumble eastward into rice paddies and river valleys. This is green, wet, waterfall country, and it feels completely different from the dry Deccan plateau a few hours to the east.

@@ -15,6 +15,11 @@ snippet: Burkina Faso's capital, centered on markets, music, film culture, and b
   Sahelian avenues.
 title: Ouagadougou
 type: location
+nature: 4.7
+leisure: 2.7
+adventure: 6.9
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Ouaga, as the capital of Burkina Faso is generally known, is the home of the Mossi, the largest ethnic group in the nation. Located in the centre of the country, the city has wide tree-lined boulevards and several interesting sights including the [Musée National](/africa/burkinafaso/ouagadougou/musee_national), the [Grand Marché](/africa/burkinafaso/ouagadougou/grand_marche) and the [Moro Naba Palace](/africa/burkinafaso/ouagadougou/moronabapalace).

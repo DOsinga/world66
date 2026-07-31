@@ -14,6 +14,11 @@ snippet: Vestfold coastal town with a whaling past, Viking burial mound, and mar
   fjord waterfront.
 title: Sandefjord
 type: location
+nature: 4.8
+leisure: 5.0
+adventure: 4.2
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Sandefjord is a small coastal town in Vestfold, about 120 km south of [Oslo](/europe/norway/oslo). It was once the whaling capital of Norway — the [Hvalfangstmuseet (Whaling Museum)](/europe/norway/sandefjord/hvalfangstmuseet) in the centre tells that story well — and the town still has a maritime character, with a harbour, marina, and pleasant waterfront.

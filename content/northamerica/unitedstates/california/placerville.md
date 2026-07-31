@@ -14,6 +14,11 @@ sources:
 - https://en.wikipedia.org/wiki/Placerville,_California
 title: Placerville
 type: location
+nature: 4.3
+leisure: 5.0
+adventure: 4.1
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Placerville sits halfway between Sacramento and South Lake Tahoe on Highway 50, and it's a better stop than you might expect. Main Street mixes hip coffee shops, old-fashioned burger joints, and enough historical grit to keep things interesting.

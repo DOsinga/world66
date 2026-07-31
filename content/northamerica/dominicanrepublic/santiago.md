@@ -14,6 +14,11 @@ snippet: Inland Dominican city in the Cibao Valley, shaped by tobacco fields, ma
   and industry.
 title: Santiago
 type: location
+nature: 4.4
+leisure: 4.8
+adventure: 4.7
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Santiago de los Caballeros, the Dominican Republic's second city, sits in the heart of the fertile Cibao Valley surrounded by tobacco fields and low mountains. Founded in 1495, it is the country's major industrial centre and a proud, working city that runs on its own rhythm rather than on tourism.

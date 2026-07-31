@@ -14,6 +14,11 @@ title: Peoria
 snippet: Illinois River city in central Illinois, long known as a bellwether for mainstream
   American taste.
 type: location
+nature: 3.4
+leisure: 4.5
+adventure: 4.5
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Peoria sits on the Illinois River in central Illinois and has long been considered a bellwether for mainstream America — "Will it play in Peoria?" is the classic test of Middle American appeal. With about 115,000 people, it is the largest city in central Illinois and the global headquarters of Caterpillar Inc., the heavy equipment manufacturer whose yellow machines are visible on construction sites worldwide. The city has more going on than its reputation suggests.

@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Schoenenbourg_(grand_cru)
 title: Riquewihr
 type: location
+nature: 2.4
+leisure: 8.7
+adventure: 1.1
+city_culture: 7.0
+historic_culture: 7.0
 ---
 
 Riquewihr is the Alsatian wine-route fantasy in concentrated form: timber-framed houses, a guarded old gate, flower boxes, steep vineyards, and crowds that can be startling for such a small village. It is undeniably pretty, and also undeniably busy in season. Come early or late in the day if you want to see the place rather than the procession.

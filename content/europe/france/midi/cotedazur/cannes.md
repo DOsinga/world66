@@ -13,6 +13,11 @@ title: Cannes
 type: location
 snippet: French Riviera resort city built around La Croisette, the Film Festival,
   and a polished harbourfront.
+nature: 2.9
+leisure: 9.4
+adventure: 0.5
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Cannes is expensive, self-aware, and makes no apologies for it. [La Croisette](/europe/france/midi/cotedazur/cannes/la_croisette) — the wide boulevard running along the beach — is lined with grand hotels and designer boutiques, and the whole town is calibrated around the Film Festival in May and the parade of wealth in the harbour year-round.

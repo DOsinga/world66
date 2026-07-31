@@ -10,6 +10,11 @@ snippet: Quiet southern Indiana village on the White River, with a covered bridg
 title: Williams Dam
 todo_location_cleanup: done
 type: location
+nature: 5.5
+leisure: 4.3
+adventure: 4.8
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Williams Dam is a quiet village on the East Fork of the White River in southern Indiana, population around 400. Once a more substantial community — with a gas station, stores, a twelve-grade school, a hotel and restaurant, a dance hall, and a water-powered generating plant that served the surrounding area — it is now a shadow of its WWII-era peak.

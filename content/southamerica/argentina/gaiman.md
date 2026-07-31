@@ -10,6 +10,11 @@ snippet: Welsh Patagonian town in the Chubut Valley, known for chapels, bilingua
   signs, and tea houses
 title: Gaiman
 type: location
+nature: 3.9
+leisure: 4.4
+adventure: 4.7
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Gaiman is a small town in the Chubut Valley of Patagonia, and one of the most unexpected places in Argentina: a functioning Welsh colony where street signs appear in Welsh, chapels dot the landscape, and the afternoon tradition of a Welsh tea — with homemade cakes, scones, and bread — has been kept alive since the first settlers arrived in 1865.

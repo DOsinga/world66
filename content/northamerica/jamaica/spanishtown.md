@@ -13,6 +13,11 @@ sources:
 - https://en.wikipedia.org/wiki/Phillippo_Baptist_Church
 title: Spanish Town
 type: location
+nature: 3.8
+leisure: 4.2
+adventure: 5.2
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Spanish Town, 20 km west of Kingston along the main highway, was Jamaica's capital for over 300 years — from the Spanish founding in the 1530s until Kingston took over in 1872. Almost no visitors come here, which is a pity.

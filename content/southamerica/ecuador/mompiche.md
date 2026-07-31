@@ -14,6 +14,11 @@ title: Mompiche
 snippet: Northern Ecuador fishing village in a sheltered bay, known for its long left-hand
   surf break.
 type: location
+nature: 5.7
+leisure: 5.4
+adventure: 4.2
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 Mompiche is a small fishing village on Ecuador's northern coast, tucked into a sheltered bay south of the Ensenada de Mompiche in Esmeraldas province. For years it was known mainly to surfers chasing the long left-hand point break, but a growing number of beach bungalows and simple restaurants have turned it into a low-key backpacker stop as well.

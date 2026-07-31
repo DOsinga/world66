@@ -18,6 +18,11 @@ sources:
 - https://historisches-lippstadt.de/stiftsruine/
 title: Lippstadt
 type: location
+nature: 3.9
+leisure: 5.5
+adventure: 3.6
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Lippstadt is a small town in eastern North Rhine-Westphalia, on the Lippe river between [Paderborn](/europe/germany/northrhinewestphalia/paderborn) and Soest. Founded in 1185 by Bernhard II zur Lippe, it is one of the older planned towns in the region and has a compact medieval core threaded by several branches of the river — a network dense enough to earn the town the nickname "Venice of Westphalia."

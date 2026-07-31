@@ -17,6 +17,11 @@ image_attribution: Franzfoto
 score: 4.66
 snippet: Central Saharan oasis town preserving the Garamantian capital that once controlled
   Fezzan caravan routes.
+nature: 6.5
+leisure: 1.4
+adventure: 8.6
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Germa, ancient Garama, is one of the great names of the central Sahara. This was the capital of the Garamantes, the desert kingdom that controlled oases, caravan routes and underground irrigation systems across the Fezzan long before modern Libya existed.

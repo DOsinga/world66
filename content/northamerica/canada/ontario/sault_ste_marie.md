@@ -10,6 +10,11 @@ title: Sault Ste. Marie
 type: location
 snippet: Northern Ontario city at the Superior-Huron narrows, gateway to rail trips
   through Canadian Shield wilderness.
+nature: 6.0
+leisure: 4.8
+adventure: 4.8
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 Sault Ste. Marie — "the Soo" — sits at the narrows between Lake Superior and Lake Huron, connected to its American twin city by the International Bridge. It is a gateway to Northern Ontario's wilderness, and a surprisingly interesting stop in its own right.

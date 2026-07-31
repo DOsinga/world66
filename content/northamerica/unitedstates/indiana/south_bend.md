@@ -10,6 +10,11 @@ snippet: Northern Indiana river city shaped by Notre Dame, industrial history, a
   St. Joseph River neighbourhoods.
 title: South Bend
 type: location
+nature: 3.3
+leisure: 5.6
+adventure: 3.4
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 South Bend sits on the St. Joseph River in northern Indiana, and it punches well above its size. The [University of Notre Dame](/northamerica/unitedstates/indiana/south_bend/notre_dame_campus) is the obvious draw — the golden dome, Touchdown Jesus, and the electricity of a home football weekend make it worth a visit even if you have no strong feelings about college sports. The broader campus is beautiful and open to visitors year-round.

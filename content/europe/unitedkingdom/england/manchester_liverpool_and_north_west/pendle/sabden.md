@@ -14,6 +14,11 @@ title: Sabden
 type: location
 snippet: Lancashire village on Pendle Hill's southern slopes, used as a quiet walking
   base.
+nature: 5.0
+leisure: 5.6
+adventure: 3.7
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 **Sabden** is a quiet village tucked into the southern slopes of [Pendle Hill](/europe/unitedkingdom/england/manchester_liverpool_and_north_west/pendle/sabden/pendle_hill) in Lancashire. It is a good starting point for walking up Pendle Hill from the south — follow the road towards Clitheroe over the [Nick o' Pendle](/europe/unitedkingdom/england/manchester_liverpool_and_north_west/pendle/sabden/nick_o_pendle) and pick up one of the well-marked paths.

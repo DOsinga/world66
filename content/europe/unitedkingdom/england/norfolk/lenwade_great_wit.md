@@ -14,6 +14,11 @@ snippet: Norfolk hamlet near Great Witchingham, known for Dinosaur Adventure and
   Wensum walks
 title: Lenwade
 type: location
+nature: 5.1
+leisure: 5.0
+adventure: 4.1
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Lenwade is a hamlet in central Norfolk, around 12 miles north-west of Norwich on the road to Fakenham. It lies close to Great Witchingham, a larger village that is the centre of the civil parish; the two are often confused.

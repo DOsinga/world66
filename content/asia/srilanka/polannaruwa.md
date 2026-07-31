@@ -14,6 +14,11 @@ snippet: Ancient Sinhalese capital with compact UNESCO ruins, royal citadel rema
   and carved Buddhas across Sri Lanka's Cultural Triangle.
 title: Polonnaruwa
 type: location
+nature: 3.1
+leisure: 4.3
+adventure: 5.5
+city_culture: 8.0
+historic_culture: 8.0
 ---
 
 Polonnaruwa was the second capital of ancient Sinhalese Sri Lanka, thriving from about 1070 to 1300 AD. The ruins are more compact and better preserved than those at Anuradhapura, making them easier to explore in a day. The site is a UNESCO World Heritage Site and one of the highlights of the Cultural Triangle.

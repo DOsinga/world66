@@ -11,6 +11,11 @@ snippet: Wild California coastal corridor where Highway 1 threads Pacific cliffs
 title: Big Sur
 type: location
 loc_type: feature
+nature: 5.2
+leisure: 5.0
+adventure: 4.6
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Big Sur is one of the most dramatic stretches of coastline in the world. Highway 1 clings to cliffs that drop straight into the Pacific, redwood canyons cut down to the sea, and the light on a clear afternoon turns the ocean every shade of blue and green. It is not a town but a 90-mile wild corridor between Carmel in the north and San Simeon in the south, and the landscape is the whole point.

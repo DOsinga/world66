@@ -14,6 +14,11 @@ snippet: Tuscan hill town on the Via Francigena amid the cypress-lined landscape
   of the Val d'Orcia.
 title: San Quirico d'Orcia
 type: location
+nature: 3.9
+leisure: 7.6
+adventure: 2.2
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 San Quirico d'Orcia sits at the heart of the Val d'Orcia, the stretch of southern Tuscany that appears on every postcard and desktop wallpaper you have ever seen of Italy. The rolling hills, lone cypress trees, and golden light are all real, and this small medieval town is one of the best places from which to take them in.

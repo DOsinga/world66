@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Monte_Amaro
 title: Majella
 type: location
+nature: 5.3
+leisure: 4.9
+adventure: 4.7
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 The Majella, often written Maiella in Italian, is the wilder, quieter mountain mass south of the Gran Sasso. From [Pescara](/europe/italy/abruzzo/pescara) it looks close enough to touch on a clear day, but the range quickly becomes serious: high limestone ridges, beech forest, wolf country, deep gorges, and villages that feel very far from the Adriatic beach resorts.

@@ -14,6 +14,11 @@ snippet: Volcanic island town on Pulau Weh, Indonesia's western edge, with colon
   traces and reef diving
 title: Sabang Island
 type: location
+nature: 7.3
+leisure: 5.2
+adventure: 4.6
+city_culture: 2.7
+historic_culture: 2.7
 ---
 
 Sabang is the main town on Pulau Weh (Weh Island), a volcanic island about an hour's fast ferry ride from [Banda Aceh](/asia/indonesia/aceh/banda_aceh). This is the westernmost inhabited point of Indonesia, and it feels like it — the pace is unhurried, the scenery is lush, and the underwater world is outstanding. Sabang town itself has a pleasantly faded centre with a scattering of colonial-era houses, remnants of its past as a coaling station for steamships.

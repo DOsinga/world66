@@ -14,6 +14,11 @@ image_license: CC BY-SA 2.5
 image_attribution: Berserkerus
 snippet: Volga River city and Lenin birthplace, still marked by Soviet memorials and
   Simbirsk merchant streets.
+nature: 4.5
+leisure: 4.1
+adventure: 5.3
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 **Ulyanovsk** sits on the high western bank of the Volga River, about 700 kilometres east of Moscow, and it is a city defined by one fact: Vladimir Lenin was born here in 1870. The Soviet authorities never let anyone forget it. They renamed the city (it was called Simbirsk until 1924), built a vast memorial complex on the bluffs above the river, and preserved [Lenin's childhood home](/europe/russia/ulyanovsk/lenins_childhood_home) with almost religious devotion. The result is a city unlike any other in Russia — a living museum of Soviet ideology, now slowly making peace with a post-Soviet identity.

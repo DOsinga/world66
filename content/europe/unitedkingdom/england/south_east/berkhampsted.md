@@ -14,6 +14,11 @@ snippet: Chiltern market town where England's nobles surrendered to William the 
   in 1066.
 title: Berkhamsted
 type: location
+nature: 3.9
+leisure: 5.6
+adventure: 3.4
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Berkhamsted is a small market town in the Chiltern Hills, half an hour up the line from London Euston. Despite the commuter traffic and the smart restaurants on the High Street, it is a genuinely historic place — and the place where, in December 1066, the **Anglo-Saxon nobility surrendered the kingdom of England to William the Conqueror**. The Normans built a motte-and-bailey castle here within months of the conquest, and the surprisingly large earthworks of [Berkhamsted Castle](/europe/unitedkingdom/england/south_east/berkhampsted/berkhamsted_castle) still stand at the north end of town, with the ruined flint walls of the later stone keep wrapped in two concentric moats.

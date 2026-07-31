@@ -16,6 +16,11 @@ snippet: Hilly Portuguese capital on the Tagus, shaped by Pombaline avenues, Alf
   lanes, and Atlantic light.
 title: Lisbon
 type: location
+nature: 1.2
+leisure: 8.6
+adventure: 1.3
+city_culture: 8.7
+historic_culture: 8.7
 ---
 
 Lisbon is one of Europe's oldest and most beautiful capitals, a city of seven hills falling steeply to the Tagus estuary where the Atlantic begins. The earthquake of 1755 destroyed much of the city, and the rebuilt [Baixa](/europe/portugal/lisbon/baixa) — the grid of elegant Pombaline streets between the [Praça do Comércio](/europe/portugal/lisbon/praca_do_comercio) and [Rossio Square](/europe/portugal/lisbon/rossio) — is a monument to Enlightenment urban planning. But the city that survived the earthquake is the most interesting: the [Alfama](/europe/portugal/lisbon/alfama), Lisbon's oldest neighbourhood, winds up the hill below the [Castelo de São Jorge](/europe/portugal/lisbon/castelo_sao_jorge) in a labyrinth of medieval lanes where fado drifts out of restaurant windows.

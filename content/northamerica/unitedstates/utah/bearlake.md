@@ -17,6 +17,11 @@ sources:
 - https://www.fs.usda.gov/r04/uinta-wasatch-cache/recreation/trails/limber-pine-nature-trail-004
 title: Bear Lake
 type: location
+nature: 6.9
+leisure: 5.6
+adventure: 3.9
+city_culture: 2.4
+historic_culture: 2.4
 ---
 
 Bear Lake is Utah's turquoise surprise, a high mountain lake straddling the Idaho border and glowing a strange, almost Caribbean blue against the sagebrush hills. Locals call it the "Caribbean of the Rockies," which sounds like chamber-of-commerce nonsense until you see the water on a clear afternoon.

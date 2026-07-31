@@ -16,6 +16,11 @@ snippet: Cambodian capital at the Mekong and Tonle Sap confluence, with royal sp
   and French boulevards.
 title: Phnom Penh
 type: location
+nature: 2.7
+leisure: 7.8
+adventure: 2.0
+city_culture: 7.0
+historic_culture: 7.0
 ---
 
 Phnom Penh is one of Southeast Asia's most compelling capitals — a city where gilded spires rise above the confluence of the Mekong and Tonle Sap rivers, and French colonial architecture lines broad boulevards still shaded by tamarind trees. It is chaotic, noisy, and utterly alive.

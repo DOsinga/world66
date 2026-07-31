@@ -13,6 +13,11 @@ snippet: Sikkimese hill capital where monasteries, prayer flags, and Kangchenjun
   views rise above MG Road.
 title: Gangtok
 type: location
+nature: 6.8
+leisure: 5.8
+adventure: 4.1
+city_culture: 3.2
+historic_culture: 3.2
 ---
 
 Gangtok, Sikkim's capital, is a surprisingly lively hill town perched at 1,650 metres in the Himalayan foothills. At first glance it has the noise and bustle of any Indian city, but a little further into town the setting takes over — prayer flags flutter between buildings, monasteries cling to ridges above, and on clear days the massive bulk of Kangchenjunga fills the northern horizon.

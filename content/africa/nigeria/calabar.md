@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Mary_Slessor
 title: Calabar
 type: location
+nature: 5.5
+leisure: 2.9
+adventure: 6.8
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Calabar is a tropical river port in the far south-east of Nigeria, sitting on a ridge above the Calabar River just upstream of the Bight of Biafra. It is by some margin the most pleasant city in Nigeria — green, well-laid-out, cleaner and safer than most of the country, and with a long history as a trading centre stretching back to the 15th century, when Portuguese traders first arrived here. In the 19th century it was the headquarters of the British Niger Coast Protectorate and a major embarkation point for the Atlantic slave trade — an estimated 200,000 enslaved Africans passed through this port. Presbyterian missionaries, most famously the Scot **Mary Slessor**, arrived in the 1870s and eventually helped put a stop to it.

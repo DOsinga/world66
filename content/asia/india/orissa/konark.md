@@ -14,6 +14,11 @@ snippet: Odisha temple town famous for its 13th-century Sun Temple, built as a s
   chariot.
 title: Konark
 type: location
+nature: 3.0
+leisure: 5.1
+adventure: 4.6
+city_culture: 8.2
+historic_culture: 8.2
 ---
 
 **Konark** is famous for its magnificent 13th-century [Sun Temple](/asia/india/orissa/konark/sun_temple), constructed by Narasimha Deva I of the Ganga dynasty. Standing in solitary splendour amongst the sand dunes near the Bay of Bengal, the temple is the most striking example of Kalinga architecture and a UNESCO World Heritage Site.

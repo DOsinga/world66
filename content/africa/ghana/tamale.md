@@ -15,6 +15,11 @@ snippet: Northern Ghanaian capital and transport hub, with Muslim culture, marke
   and routes toward Mole National Park
 title: Tamale
 type: location
+nature: 5.2
+leisure: 3.0
+adventure: 6.6
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Call it "tah-mah-LAY," not "ta-mal-EY" — the latter is a Mexican food. Tamale is the capital of the Northern Region, a hot, dusty, and predominantly Muslim city that feels like a different country from the lush south. It is the main transport hub for northern Ghana and the gateway to [Mole National Park](/africa/ghana/tamale/things_to_do/mole_national_park), about 150 km to the west.

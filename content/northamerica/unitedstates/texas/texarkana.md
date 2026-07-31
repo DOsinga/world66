@@ -9,6 +9,11 @@ score: 5.52
 snippet: Twin-state border city where Texas and Arkansas meet along State Line Avenue.
 title: Texarkana
 type: location
+nature: 3.5
+leisure: 5.1
+adventure: 4.0
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Texarkana is two cities sharing one name — one in Texas, one in Arkansas — divided by [State Line Avenue](/northamerica/unitedstates/texas/texarkana/state_line_avenue) running through the heart of downtown. The oddity is literal: the [United States Post Office and Courthouse](/northamerica/unitedstates/texas/texarkana/post_office_and_courthouse) straddles the state line, making it the only post office in the country that sits in two states at once.

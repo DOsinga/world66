@@ -16,6 +16,11 @@ snippet: Historic Andalusian city below the Alhambra, the great surviving palace
   Moorish Spain.
 title: Granada
 type: location
+nature: 2.2
+leisure: 7.9
+adventure: 1.9
+city_culture: 7.9
+historic_culture: 7.9
 ---
 
 Granada is the last great city of Moorish Spain and one of the most intensely historic places in Europe. When Boabdil surrendered the [Alhambra](/europe/spain/andalucia/granada/alhambra) to Ferdinand and Isabella in 1492, he ended eight centuries of Islamic civilization in Spain and gave the Catholic Monarchs a prize that still draws millions of visitors each year. The palace complex on its hill above the city — the Nasrid Palaces, the Generalife gardens, the Alcazaba fortress — is the finest surviving example of Islamic architecture in the western world.

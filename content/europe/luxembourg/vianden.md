@@ -13,6 +13,11 @@ title: Vianden
 type: location
 snippet: Small Our valley town dominated by Vianden Castle, one of Luxembourg's largest
   medieval fortresses.
+nature: 4.5
+leisure: 7.1
+adventure: 2.7
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Vianden is a small town in northeastern [Luxembourg](/europe/luxembourg), set in a narrow valley of the Our river near the German border. It is dominated by [Vianden Castle](/europe/luxembourg/vianden/vianden_castle), one of the largest fortified castles west of the Rhine, perched on a rocky promontory above the town. The castle dates from the 11th to 14th centuries and has been extensively restored — the interior is open to visitors and the views over the valley are excellent. A [chairlift](/europe/luxembourg/vianden/chairlift) from the town centre takes you to the hilltop above for an even wider panorama.

@@ -14,6 +14,11 @@ snippet: Low-key Côte d'Azur seaside village below Èze, with a pebble beach an
   coastal trains.
 title: Eze-bord-de-mer
 type: location
+nature: 4.8
+leisure: 7.7
+adventure: 2.2
+city_culture: 4.0
+historic_culture: 4.0
 ---
 
 Eze-bord-de-mer is the lower, coastal part of the perched village of Eze — a small stretch of shore along the Grande Corniche between Nice and Monaco. Unlike the hilltop village of Eze proper, the seaside version is quiet and low-key, with a pebble beach and direct train access on the scenic Côte d'Azur line.

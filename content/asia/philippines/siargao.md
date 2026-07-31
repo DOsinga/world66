@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Siargao
 title: Siargao
 type: location
+nature: 6.1
+leisure: 6.9
+adventure: 2.9
+city_culture: 3.0
+historic_culture: 3.0
 ---
 
 Siargao is the surfing capital of the Philippines, a teardrop-shaped island in Surigao del Norte at the northeastern edge of the Visayas. The island sits in the Philippine Sea, facing the Pacific, which delivers the consistent swells that have made it one of Asia's most celebrated surf destinations. Cloud 9 — the barrelling reef break off the eastern coast — put Siargao on the international surf map and still draws pros and beginners alike. But the island long ago outgrew its surf-only reputation.

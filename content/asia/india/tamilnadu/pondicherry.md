@@ -14,6 +14,11 @@ snippet: Bay of Bengal town with a French colonial White Town and the Sri Aurobi
   Ashram.
 title: Pondicherry
 type: location
+nature: 3.3
+leisure: 7.4
+adventure: 2.3
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Pondicherry (Puducherry) is a Union Territory on the Bay of Bengal, 160 km south of Chennai. The French controlled it from 1674 to 1954, and the French quarter around the seafront — the White Town — survives largely intact: yellow colonial buildings, tree-lined streets named after French officers, a promenade along the seafront, and a neighbourhood where you can eat a genuinely good crêpe. It's a small, walkable area and quite unlike anywhere else in south India.

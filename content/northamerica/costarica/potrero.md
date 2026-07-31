@@ -10,6 +10,11 @@ snippet: Guanacaste fishing village on a calm dark-sand Pacific bay, quieter tha
   nearby resort beaches
 title: Potrero
 type: location
+nature: 6.2
+leisure: 6.3
+adventure: 3.3
+city_culture: 3.0
+historic_culture: 3.0
 ---
 
 Potrero is a small fishing village in Guanacaste, on Costa Rica's northern Pacific coast, with a relaxed character that sets it apart from the more developed resorts nearby. Its beach — Playa Potrero — is a calm, dark-sand bay sheltered from the swell that makes it ideal for swimming and kayaking year-round, and the sunsets over the Pacific here are reliably spectacular.

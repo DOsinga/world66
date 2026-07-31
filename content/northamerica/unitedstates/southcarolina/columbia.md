@@ -10,6 +10,11 @@ snippet: South Carolina capital and university city, marked by riverside museums
   Civil War scars on the State House.
 title: Columbia
 type: location
+nature: 4.0
+leisure: 5.0
+adventure: 4.2
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Columbia is the capital of South Carolina, sitting in the centre of the state at the confluence of the Broad and Saluda rivers. It is a university city — the University of South Carolina campus anchors the downtown — with a growing food and arts scene and a Civil War history written in cannon-ball scars on the [State House](/northamerica/unitedstates/southcarolina/columbia/south_carolina_state_house) walls.

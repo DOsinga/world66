@@ -14,6 +14,11 @@ snippet: Southern Leyte coastal town facing the Pacific, with Tahusan Beach and 
   coral islands
 title: Hinunangan
 type: location
+nature: 6.1
+leisure: 5.4
+adventure: 4.1
+city_culture: 3.4
+historic_culture: 3.4
 ---
 
 Hinunangan sits on the eastern seaboard of Southern Leyte, facing the Pacific Ocean. It is the largest municipality in the province by number of barangays, and the most compelling reason to come is the coastline: Hinunangan Bay holds Tahusan Beach, a stretch of fine white sand that sees relatively few visitors compared to more famous Philippine beaches. Just offshore, the white coral islands of St Peter and St Paul make a rewarding boat trip.

@@ -14,6 +14,11 @@ snippet: Former Vietnamese imperial capital on the Perfume River, centred on cit
   walls and royal tombs
 title: Hue
 type: location
+nature: 5.3
+leisure: 6.3
+adventure: 3.5
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Hue was the imperial capital of Vietnam for nearly 150 years under the Nguyen Dynasty, and the city still carries that weight. The [Perfume River](/asia/vietnam/hue/perfume_river) bisects the city — the massive [Imperial Citadel](/asia/vietnam/hue/imperial_citadel) and its Forbidden Purple City sit on the north bank, while the French colonial quarter, markets, and tourist hotels spread along the south. UNESCO declared the complex of monuments a World Heritage Site in 1993, calling Hue "a masterpiece of urban poetry."

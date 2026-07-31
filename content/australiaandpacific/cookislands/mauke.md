@@ -15,6 +15,11 @@ image_attribution: Earth Science and Remote Sensing Unit, Lyndon B. Johnson Spac
   Center
 snippet: Small southern Cook Islands island ringed by raised limestone, with fertile
   villages and cave pools.
+nature: 8.2
+leisure: 3.3
+adventure: 6.5
+city_culture: 2.0
+historic_culture: 2.0
 ---
 
 Mauke is one of the three small islands — along with Mitiaro and Atiu — that form the southern Cook Islands' inner cluster. Like its neighbours, it is ringed by makatea (raised limestone), giving it a rugged coastal character but limiting beach access. The interior is fertile, growing arrowroot, citrus, and taro.

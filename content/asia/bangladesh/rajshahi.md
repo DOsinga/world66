@@ -14,6 +14,11 @@ title: Rajshahi
 snippet: Northwestern Bangladeshi river city known for silk weaving, mangoes, and
   Pala-Sena sculpture.
 type: location
+nature: 4.4
+leisure: 4.1
+adventure: 5.4
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Rajshahi sits on the south bank of the Padma River in northwest Bangladesh, a quieter and greener city than Dhaka. It is the centre of Bangladesh's silk industry — you can visit [weaving workshops](/asia/bangladesh/rajshahi/silk_workshops) and buy silk at prices well below anything in the capital. The city is also known for its mangoes: in season (May–June), the markets overflow with dozens of varieties.

@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Saintes,_Charente-Maritime
 title: Saintes
 type: location
+nature: 2.6
+leisure: 7.0
+adventure: 2.3
+city_culture: 7.6
+historic_culture: 7.6
 ---
 
 Saintes is one of the most historically layered towns in southwest France, but most travellers heading down the Atlantic coast bypass it for [Bordeaux](/europe/france/aquitaine/bordeaux) or the beaches. This is their loss. The Romans called it Mediolanum Santonum and made it the capital of the province of Aquitania Prima; they left behind a triumphal arch, an amphitheatre, and baths substantial enough that the town never quite forgot who it used to be. The Saintonge region that surrounds it carries one of the great Romanesque legacies of France — a style of church decoration found nowhere else, characterised by elaborately carved facades in white limestone.

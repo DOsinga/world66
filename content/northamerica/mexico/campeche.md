@@ -14,6 +14,11 @@ snippet: Fortified Gulf of Mexico city with pastel colonial streets, pirate hist
   and surviving Spanish walls.
 title: Campeche
 type: location
+nature: 5.1
+leisure: 7.2
+adventure: 2.7
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 The Land of Serpents and Ticks, as the Mayas called this place, is an attractive colonial city on the Gulf of Mexico. Campeche's old centre, a UNESCO World Heritage Site, was beautifully restored in the early 2000s — the pastel-coloured buildings, fortified walls, and underground cables give it a clean, photogenic look that is rare in Mexican cities.

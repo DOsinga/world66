@@ -14,6 +14,11 @@ snippet: Snake-Clearwater river town on the Washington-Idaho border, gateway to 
   Hells Canyon.
 title: Clarkston
 type: location
+nature: 4.8
+leisure: 5.0
+adventure: 4.2
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Clarkston sits at the confluence of the Snake and Clearwater rivers on the Washington-Idaho border, directly across from its twin city Lewiston, Idaho. Named for William Clark of the Lewis and Clark expedition, the town is the gateway to Hells Canyon — the deepest river gorge in North America, carved by the Snake River into basalt walls over a mile deep.

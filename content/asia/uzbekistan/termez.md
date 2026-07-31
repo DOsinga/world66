@@ -10,6 +10,11 @@ snippet: Uzbek border city on the Amu Darya, layered with Bactrian, Buddhist, an
   Islamic remains.
 title: Termez
 type: location
+nature: 4.1
+leisure: 3.2
+adventure: 6.4
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Uzbekistan's southernmost city sits right on the Afghan border, where the Amu Darya marks the line between the two countries. Termez is one of the hottest cities in Central Asia — summer temperatures routinely hit 45–50°C — and one of the least visited by travellers, which is genuinely a shame.

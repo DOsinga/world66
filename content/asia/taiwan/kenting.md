@@ -13,6 +13,11 @@ snippet: Southern Taiwan beach area around Kenting National Park, where tropical
   meets coral-fringed sea.
 title: Kenting
 type: location
+nature: 5.6
+leisure: 7.1
+adventure: 2.7
+city_culture: 3.4
+historic_culture: 3.4
 ---
 
 Kenting is at the very southern tip of [Taiwan](/asia/taiwan), where the island narrows and the climate tips into the tropical. Banana trees, sugar cane, and rice paddies line the roads approaching the peninsula; the water is warm enough to swim year-round.

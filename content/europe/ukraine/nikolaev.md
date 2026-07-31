@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Dykyi_Sad_archaeological_site
 title: Mykolaiv
 type: location
+nature: 5.4
+leisure: 1.7
+adventure: 7.8
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 **Mykolaiv** (still widely known by its Russian name **Nikolaev**) is a city of around 480,000 people in southern Ukraine, sitting at the confluence of the **Southern Bug** and **Inhul** rivers, about 65 km inland from the Black Sea coast. Founded in 1789 as a Russian naval shipyard by Prince Grigory Potemkin on the orders of Catherine the Great, it grew throughout the 19th and 20th centuries into one of the world's most important shipbuilding cities. The aircraft carriers of the Soviet Black Sea Fleet were assembled in its yards, and the shipyards here later built most of China's first aircraft carriers too. The city is named after **Saint Nicholas**, the patron saint of sailors — a fitting dedication for a place that shaped naval history.

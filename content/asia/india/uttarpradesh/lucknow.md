@@ -17,6 +17,11 @@ snippet: Nawabi river city of imambaras, Urdu culture, and courtly northern Indi
   refinement.
 title: Lucknow
 type: location
+nature: 2.1
+leisure: 5.9
+adventure: 3.7
+city_culture: 8.7
+historic_culture: 8.7
 ---
 
 Lucknow stretches along the banks of the Gomti River, a city shaped above all by its Nawabi past. It was Nawab Asaf ud Daula who built the Lucknow we see today — the grand gateways, the intricate mosques, the sprawling Imambaras — and it was under Wajid Ali Shah that the city became the cultural capital of northern India, celebrated for Urdu poetry, classical music, and courtly manners so elaborate they became legendary. The British annexation of Awadh in 1856 ended the Nawabi era, but the refinement stuck.

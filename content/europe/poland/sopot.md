@@ -13,6 +13,11 @@ snippet: Baltic resort town in Poland's Trójmiasto, centred on a sandy beach an
   wooden pier.
 title: Sopot
 type: location
+nature: 3.5
+leisure: 8.6
+adventure: 1.1
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Sopot is the smallest of the three cities that make up the [Trójmiasto](https://en.wikipedia.org/wiki/Tricity,_Poland) — the conurbation shared with [Gdańsk](/europe/poland/gdansk) and Gdynia — and it punches well above its weight as a resort town. In summer it fills with visitors from across Poland who come for the beach, the cafes, and the general good-time atmosphere that the other two cities, more serious in their ambitions, don't quite provide.

@@ -14,6 +14,11 @@ snippet: Largest Vanuatu island, with rainforest mountains, blue holes, and Worl
   War II wreck-diving history
 title: Espiritu Santo
 type: location
+nature: 7.5
+leisure: 4.8
+adventure: 5.0
+city_culture: 2.8
+historic_culture: 2.8
 ---
 
 Espiritu Santo is the largest island in [Vanuatu](/australiaandpacific/vanuatu), a rugged, mountainous place covered in dense rainforest. The main town, Luganville, was a massive American military base during World War II — at its peak, over 100,000 troops were stationed here, and the remnants of that era are one of the island's main draws.

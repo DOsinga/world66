@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/Djibouti_City
 title: Djibouti City
 type: location
+nature: 3.9
+leisure: 5.2
+adventure: 4.8
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Two thirds of Djibouti's population lives in the capital, and everything of consequence in the country flows through it. Djibouti City is not a beautiful city — it is hot, dusty, and sprawling — but it has a scruffy energy and serves as the only practical base for exploring the country.

@@ -14,6 +14,11 @@ snippet: Armenian provincial capital in a sun-baked Vayots Dzor valley, close to
   and Areni wine country.
 title: Yeghegnadzor
 type: location
+nature: 6.3
+leisure: 3.3
+adventure: 6.2
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 Yeghegnadzor is the capital of [Vayots Dzor](/europe/armenia/vayots_dzor_marz), Armenia's least populated province, sitting in a sun-baked valley along the main highway that runs south from Yerevan toward the Iranian border. The town itself is modest — Soviet-era apartment blocks, a central park, a few shops and cafes — but its location makes it the natural base for exploring one of Armenia's most rewarding regions.

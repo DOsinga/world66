@@ -15,6 +15,11 @@ snippet: Nabataean sandstone city in Wadi Musa, famous for the Siq approach and 
   Treasury facade.
 title: Petra
 type: location
+nature: 4.3
+leisure: 4.5
+adventure: 5.4
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 Petra belongs on the top of any Jordan itinerary. The Nabataeans carved an entire city out of the red sandstone of the Wadi Musa canyon — temples, tombs, dining halls and processional ways, all out of the living rock — and they did it so well that the place still works as architecture two thousand years later.

@@ -16,6 +16,11 @@ snippet: Central Valley working city tied to farmland, George Lucas, cruising cu
   and the neon Modesto Arch.
 title: Modesto
 type: location
+nature: 3.7
+leisure: 4.2
+adventure: 4.8
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Modesto sits in the heart of California's Central Valley, surrounded by some of the most productive farmland in the world. Almonds, peaches, wine grapes, and dairy all come from this region, and the city's fortunes have long been tied to the harvest. It is a working city — not a postcard — but that honesty is part of what makes it worth a stop.

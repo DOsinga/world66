@@ -15,6 +15,11 @@ title: Ipoh
 type: location
 snippet: Perak capital in the Kinta Valley, built on tin wealth and colonial Old Town
   streets.
+nature: 4.4
+leisure: 7.2
+adventure: 2.6
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Ipoh is the capital of Perak state, halfway between [Kuala Lumpur](/asia/malaysia/kualalumpur) and [Penang](/asia/malaysia/georgetown) on the main highway north. For most of the twentieth century it was one of the richest cities in Southeast Asia, built on the Kinta Valley's enormous tin deposits; locals still sometimes call it the City of Millionaires, and the grand colonial facades of the [Old Town](/asia/malaysia/ipoh/old_town) date from the period when Ipoh's tin barons were the wealthiest Chinese outside China. When the tin price collapsed in 1985 the boom ended, and Ipoh slid into a long, genteel sleep — which turns out to have been a blessing, because the old town has been preserved almost intact. To see how the tin barons actually lived (and gambled, and smoked), the restored Hakka miners' clubhouse at [Han Chin Pet Soo](/asia/malaysia/ipoh/han_chin_pet_soo) is the single best museum in town.

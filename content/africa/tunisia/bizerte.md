@@ -14,6 +14,11 @@ snippet: Northern Tunisian port city with an old harbour, Ottoman kasbah, medina
   and nearby beaches.
 title: Bizerte
 type: location
+nature: 4.4
+leisure: 5.3
+adventure: 4.3
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Bizerte is located in the north of Tunisia, approx. 65 km north of [Tunis](/africa/tunisia/tunis). It is the largest city north of the capital. Bizerte is not on the tourist track so you may actually have a chance to see some real Tunisia here. The main reasons to come are the unspoiled traditional quarter of the [old port](/africa/tunisia/bizerte/old_port), and a couple of good beaches in the area.

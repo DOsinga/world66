@@ -15,6 +15,11 @@ snippet: Northern English industrial city shaped by cotton mills, railways, musi
   football, and grand Victorian civic architecture.
 title: Manchester
 type: location
+nature: 1.3
+leisure: 8.5
+adventure: 1.4
+city_culture: 8.5
+historic_culture: 8.5
 ---
 
 Manchester is the great industrial city of northern England — the place where the modern world, for better and worse, was largely invented. The first passenger railway ran from here to Liverpool in 1830. The first programmable computer was built here in 1948. The cotton mills that powered the Industrial Revolution lined every river and canal in the city, and the wealth they generated built the grand Victorian warehouses, exchanges, and civic buildings that still define the centre. The mills are gone, but Manchester has reinvented itself as successfully as any post-industrial city in Europe: the music scene (Joy Division, The Smiths, Oasis, The Stone Roses), the football (two of the biggest clubs in the world, United and City), and a nightlife that regularly outpaces London's have made it the de facto second city of England.

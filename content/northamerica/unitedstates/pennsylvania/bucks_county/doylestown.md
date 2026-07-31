@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Mercer_Museum
 title: Doylestown
 type: location
+nature: 3.4
+leisure: 6.3
+adventure: 2.7
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Doylestown is the county seat of Bucks County and one of the most rewarding small towns north of Philadelphia. It has a walkable center, good restaurants, and, unusually for a town this size, a trio of major sights tied to one eccentric local genius: Henry Chapman Mercer.

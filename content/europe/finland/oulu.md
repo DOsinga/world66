@@ -14,6 +14,11 @@ snippet: Northern Finnish city on the Gulf of Bothnia, known for technology, cyc
   paths, and waterfront markets.
 title: Oulu
 type: location
+nature: 4.6
+leisure: 5.1
+adventure: 4.5
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Oulu is Finland's sixth-largest city, sitting on the shore of the Gulf of Bothnia where the Oulujoki river meets the sea. It is the main city of northern Finland and has a reputation as a technology and university hub — Nokia and other tech companies have long had a presence here.

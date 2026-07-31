@@ -10,6 +10,11 @@ title: Río Branco
 type: location
 snippet: Small Uruguayan border town where the Yaguarón River and Barón de Mauá bridge
   meet Brazil.
+nature: 4.6
+leisure: 3.2
+adventure: 5.8
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Río Branco is a small border town in northeastern [Uruguay](/southamerica/uruguay), sitting on the Yaguarón River across from the Brazilian city of Jaguarão. The [Barón de Mauá International Bridge](/southamerica/uruguay/rio_branco_urugua/baron_de_maua_bridge) connects the two countries here — 2,113 metres of arches and pilings built between 1927 and 1930, one of the longest bridges in South America at the time and still an impressive piece of engineering to walk across.

@@ -16,6 +16,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Phetchaburi
 title: Petchburi
 type: location
+nature: 3.8
+leisure: 5.5
+adventure: 3.7
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Phetchaburi is one of Thailand's oldest cities, with roots stretching back to the Dvaravati kingdom over a thousand years ago. Unlike the beach towns further south, this is a place where Thai history sits in plain sight -- hilltop palaces, centuries-old cave temples, and monastery murals that rank among the finest in the country.

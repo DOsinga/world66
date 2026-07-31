@@ -12,6 +12,11 @@ snippet: Punjabi trading city between the Chenab and Jhelum, known for blue pott
   and ceiling-fan workshops.
 title: Gujrat
 type: location
+nature: 4.2
+leisure: 3.9
+adventure: 5.4
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Gujrat is a small city in Punjab province, about 120 kilometres southeast of Islamabad on the main road between Lahore and the capital. It sits between the Chenab and Jhelum rivers, the middle of the three great rivers of the Punjab, and has an old agricultural and trading history — it was an important stop on the Grand Trunk Road for centuries.

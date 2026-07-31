@@ -14,6 +14,11 @@ snippet: Northern Malawi plateau city, useful for reaching Nyika, Vwaza Marsh, L
   and Nkhata Bay
 title: Mzuzu
 type: location
+nature: 4.9
+leisure: 3.9
+adventure: 5.5
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Malawi's third-largest city sits at 1,000 metres on a cool, open plateau in the Northern Region, about 370km north of [Lilongwe](/africa/malawi/lilongwe). It's a proper working city — a [university](/africa/malawi/mzuzu/mzuzu_university) town with a functioning airport and a commercial centre that has been growing steadily — rather than a tourist destination in its own right. Most travellers pass through on their way north or south, and that's not a bad instinct: Mzuzu is a useful base, not a highlight.

@@ -13,6 +13,11 @@ snippet: Large transnational waterfall on the China-Vietnam border, surrounded b
   Guangxi karst countryside.
 title: Detian Waterfall
 type: location
+nature: 8.0
+leisure: 4.8
+adventure: 5.0
+city_culture: 2.0
+historic_culture: 2.0
 ---
 
 Detian is the largest transboundary waterfall in Asia and the fourth largest in the world along a national border — a fact that becomes more interesting when you consider what that border is. The [waterfall](/asia/china/guangxi/detian/ban_gioc_detian_falls) straddles China and Vietnam: stand at the viewing area on the Chinese side and you are looking across the cascade at Vietnamese territory. On the Vietnamese side, it is known as Ban Gioc. A bamboo raft ride to the base of the falls will bring you close enough to feel the spray and, if you lean over, technically enter Vietnamese airspace.

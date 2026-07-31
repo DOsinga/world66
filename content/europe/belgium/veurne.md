@@ -14,6 +14,11 @@ snippet: Westhoek town near the French border, centred on one of Flanders' fines
   market squares.
 title: Veurne
 type: location
+nature: 3.8
+leisure: 5.2
+adventure: 4.2
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Veurne is a small, handsome town in the Westhoek, the far western corner of [Belgium](/europe/belgium), about 6km from the coast and close to the French border. The [Grote Markt](/europe/belgium/veurne/grote_markt) is one of the finest town squares in Flanders, lined with step-gabled buildings and the ornate Spanish Pavilion, with the [Stadhuis and Belfry](/europe/belgium/veurne/stadhuis), the [Sint-Walburgakerk](/europe/belgium/veurne/sint_walburgakerk), and the seventeenth-century [Vleeshuis](/europe/belgium/veurne/vleeshuis) all on or around the square.

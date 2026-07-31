@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/Kalamaki,_Zakynthos
 title: Kalamaki
 type: location
+nature: 4.6
+leisure: 7.6
+adventure: 2.1
+city_culture: 4.0
+historic_culture: 4.0
 ---
 
 Kalamaki sits on the southern coast of [Zakynthos](/europe/greece/zakinthos), a quieter alternative to the party strip of neighbouring Laganas. The beach here is part of the nesting ground for loggerhead sea turtles, which means sunbeds are cleared at dusk and lights are kept low at night — a rule that keeps the resort pleasantly low-key.

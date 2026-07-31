@@ -16,6 +16,11 @@ snippet: Syrian capital with an ancient walled old city, covered souks, and the 
   Mosque.
 title: Damascus
 type: location
+nature: 3.0
+leisure: 3.2
+adventure: 6.6
+city_culture: 8.1
+historic_culture: 8.1
 ---
 
 Damascus is the capital of Syria and one of the oldest continuously inhabited cities in the world. It is big, lively, and a little rough around the edges, with a sprawling old centre of narrow winding streets and one of the great covered souks of the Middle East.

@@ -7,6 +7,11 @@ snippet: Pacific causeway linking Panama City to small islands at the entrance t
   the Panama Canal.
 title: Fuerte Amador
 type: location
+nature: 6.2
+leisure: 5.2
+adventure: 4.3
+city_culture: 3.4
+historic_culture: 3.4
 ---
 
 Fuerte Amador is a causeway at the Pacific entrance to the Panama Canal, connecting the mainland of Panama City to a string of small islands — Naos, Culebra, Perico, and Flamenco. It takes its name from Manuel Amador Guerrero, the first president of Panama, and was built from the rock excavated during the Canal's construction. Until 1999 it was a US military base; today it is one of Panama City's main leisure destinations.

@@ -14,6 +14,11 @@ snippet: Palatinate wine-route town with Vauban traces, vineyard hills, and a co
   cafe-lined centre.
 title: Landau
 type: location
+nature: 3.8
+leisure: 6.0
+adventure: 3.2
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Landau in der Pfalz sits at the southern edge of the German Wine Route, surrounded by the vineyards and wooded hills of the Palatinate. It is a pleasant, compact town that makes a good base for exploring one of Germany's warmest and most productive wine regions — the area around here grows excellent Riesling, Pinot Noir, and Gewurztraminer.

@@ -14,6 +14,11 @@ image: lapalma.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Caldera_de_Taburiente_La_Palma.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Luc Viatour
+nature: 5.7
+leisure: 7.8
+adventure: 2.3
+city_culture: 3.0
+historic_culture: 3.0
 ---
 
 La Palma is the steepest island in the world relative to its size, a volcanic spike rising nearly 2,500 metres straight out of the Atlantic. Most of the Canary Islands have been reshaped by tourism; La Palma largely hasn't. It has stayed green, quiet, and agricultural, which is either a reason to go or a reason to go elsewhere, depending on what you're after.

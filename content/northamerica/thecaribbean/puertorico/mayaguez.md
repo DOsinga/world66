@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_Cervecera_de_Puerto_Rico
 title: Mayagüez
 type: location
+nature: 4.0
+leisure: 5.6
+adventure: 3.8
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Mayagüez sits on Puerto Rico's west coast, the largest city on that side of the island and the unofficial capital of the region known as Porta del Sol. It is a university town, a port town, and historically the heart of Puerto Rico's coffee and rum trade. Locals call it the *Sultana del Oeste* — the Sultana of the West — and they are not modest about its place in the island's culture.

@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/J%C3%B6kuls%C3%A1rl%C3%B3n
 title: Jökulsárlón
 type: location
+nature: 8.8
+leisure: 4.8
+adventure: 4.9
+city_culture: 1.0
+historic_culture: 1.0
 ---
 
 Jökulsárlón is a glacial lagoon in southeastern Iceland, fed by icebergs calving from the Breiðamerkurjökull glacier — an outlet of the vast Vatnajökull ice cap. The lagoon has formed within living memory: in 1935 it barely existed; today it is Iceland's deepest lake at over 200 metres and still growing as the glacier retreats. The floating icebergs range from house-sized chunks to smaller pieces worn smooth by waves, and they range in colour from brilliant white to deep blue, with occasional streaks of ash-black from volcanic layers trapped in the ice.

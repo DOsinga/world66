@@ -14,6 +14,11 @@ snippet: Upper Lusatian city split between Sorbian old town heritage and a shrin
   Communist-era Neustadt.
 title: Hoyerswerda
 type: location
+nature: 4.4
+leisure: 4.0
+adventure: 5.1
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Hoyerswerda is a small city in Upper Lusatia, the Sorbian-speaking region of eastern Saxony. It has two distinct halves: the Altstadt, a quiet centre with a fourteenth-century [castle](/europe/germany/saxony/hoyerswerda/hoyerswerda_castle) and half-timbered houses, and the Neustadt, a vast Communist-era housing development built in the 1950s to house workers for the nearby lignite mines.

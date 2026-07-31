@@ -15,6 +15,11 @@ snippet: Bangwato royal village in central Botswana, set below rocky hills and t
   to the Khama dynasty.
 title: Serowe
 type: location
+nature: 5.4
+leisure: 3.4
+adventure: 5.9
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Serowe is one of Botswana's largest traditional villages, set against [rocky hills](/africa/botswana/serowe/serowe_hills) to the east. It was the royal capital of the Bangwato people and home to three of the country's most important leaders: Khama III, Tshekedi Khama, and Seretse Khama, Botswana's first president.

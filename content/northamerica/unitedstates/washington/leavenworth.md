@@ -14,6 +14,11 @@ title: Leavenworth
 type: location
 snippet: Cascade mountain town remade as a Bavarian village, framed by the Wenatchee
   River and Icicle Creek.
+nature: 5.5
+leisure: 7.3
+adventure: 2.5
+city_culture: 3.7
+historic_culture: 3.7
 ---
 
 Leavenworth is a small town in the Cascades of central Washington that reinvented itself in the 1960s as a Bavarian alpine village — lederhosen, gingerbread facades, and all. The transformation is unapologetically artificial and completely effective. More than two million people visit each year, drawn by the mountain scenery, outdoor activities, and a calendar of festivals that includes Oktoberfest, Maifest, and one of the most elaborate Christmas light displays in the Pacific Northwest.

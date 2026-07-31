@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Santa_B%C3%A0rbara_Castle
 title: Alicante
 type: location
+nature: 3.9
+leisure: 8.1
+adventure: 1.8
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Alicante (Valencian: Alacant) is the main city of the Costa Blanca, a busy port and regional capital on Spain's southeastern coast with a genuinely attractive old city behind the tourist facade. The town climbs steeply from the waterfront promenade up to the enormous [Santa Bàrbara Castle](/europe/spain/spanishcostas/alicante/santa_barbara_castle) on Mount Benacantil — that castle, more than anything, is what gives Alicante its distinctive skyline and explains why the city has been fought over for centuries.

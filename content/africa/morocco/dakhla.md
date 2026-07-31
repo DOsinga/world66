@@ -14,6 +14,11 @@ snippet: Atlantic peninsula town in southern Morocco, known for Dakhla Lagoon an
   steady kitesurfing winds.
 title: Dakhla
 type: location
+nature: 7.4
+leisure: 5.0
+adventure: 5.0
+city_culture: 2.5
+historic_culture: 2.5
 ---
 
 About 550 km south of [El Ayoune](/africa/morocco/elayoune) on the Atlantic coast, Dakhla (ed-Dakhla) sits on a long peninsula jutting into the ocean. A former Spanish outpost, it has reinvented itself in recent years as a world-class destination for kitesurfing and windsurfing — the [Dakhla Lagoon](/africa/morocco/dakhla/dakhla_lagoon) on the [Río de Oro Peninsula’s](/africa/morocco/dakhla/rio_de_oro_peninsula) inner side offers flat water and steady trade winds almost year-round.

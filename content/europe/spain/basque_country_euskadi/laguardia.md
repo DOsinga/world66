@@ -14,6 +14,11 @@ sources:
 - https://en.wikipedia.org/wiki/Rioja_Alavesa
 title: Laguardia
 type: location
+nature: 3.2
+leisure: 5.8
+adventure: 3.9
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 Laguardia is a fortified hilltop village in the heart of the Rioja Alavesa wine country, just south of the Basque Country border with La Rioja. The views from its medieval ramparts sweep across vineyards in every direction, with the Sierra de Cantabria rising behind.

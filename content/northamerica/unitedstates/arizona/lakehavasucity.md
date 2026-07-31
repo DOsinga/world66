@@ -13,6 +13,11 @@ score: 6.92
 snippet: Colorado River city on Lake Havasu, known for the relocated 1831 London Bridge.
 title: Lake Havasu City
 type: location
+nature: 5.3
+leisure: 6.2
+adventure: 3.6
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 Lake Havasu City sits on the eastern bank of Lake Havasu, a reservoir on the Colorado River at the Arizona-California border. The city is known primarily for two things: spring break and the London Bridge. The bridge is real — the original 1831 London Bridge was purchased by the city's founder Robert McCulloch in 1968, dismantled stone by stone, and reassembled here. It now spans a channel that was dug beneath it, connecting the mainland to a small island and creating the English Village, a tourist development with shops and restaurants in a vaguely British style.

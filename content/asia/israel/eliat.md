@@ -11,6 +11,11 @@ image: eliat.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Eilat_Blick_von_der_Promenade_in_die_Outskirts_09.JPG
 image_license: CC BY-SA 4.0
 image_attribution: Zairon
+nature: 6.0
+leisure: 5.2
+adventure: 4.5
+city_culture: 3.7
+historic_culture: 3.7
 ---
 
 Eilat is Israel's southernmost city, a resort town wedged into the northern tip of the Red Sea between Jordan to the east and Egypt's Sinai Peninsula to the west. The city exists almost entirely for tourism — beaches, diving, snorkeling, and winter sun. Israelis come for their own holidays, Jordanians cross the border at Aqaba a few kilometres away, and European charter flights arrive throughout the cooler months.

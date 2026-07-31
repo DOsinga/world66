@@ -13,6 +13,11 @@ snippet: Purpose-built Brazilian capital of Niemeyer curves, monumental axes, an
   vast modernist government spaces
 title: Brasilia
 type: location
+nature: 4.1
+leisure: 5.6
+adventure: 4.2
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Brasília is Brazil's purpose-built capital, a city that exists because someone decided it should. Inaugurated in 1960, it was designed by urbanist Lúcio Costa and architect Oscar Niemeyer as a modernist utopia — a city shaped like an aeroplane when seen from above, with monumental government buildings, sweeping concrete curves, and vast open spaces where most capitals would have narrow streets.

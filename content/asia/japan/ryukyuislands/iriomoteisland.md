@@ -14,6 +14,11 @@ snippet: Wild Ryukyu island of rainforest, mangroves, remote rivers, and the end
   Iriomote cat.
 title: Iriomote Island
 type: location
+nature: 5.8
+leisure: 4.1
+adventure: 5.5
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Iriomote is the second-largest island in Japan's Ryukyu chain — and almost entirely wild. Some 90 percent of its land is covered by subtropical rainforest, mangrove swamps, and river valleys that feel genuinely remote. The island is home to the Iriomote cat, a critically endangered wild cat found nowhere else on earth, which is why the whole island is designated a national park.

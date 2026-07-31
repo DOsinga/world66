@@ -12,6 +12,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Dalaba
 title: Dalaba
 type: location
+nature: 5.5
+leisure: 2.1
+adventure: 7.2
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Dalaba is one of the best bases for hiking in the Fouta Djallon and one of the most pleasant towns in Guinea. Set in the highlands at around 1,200 metres, it is noticeably cooler than the coast — a relief after the sweltering heat of [Conakry](/africa/guineeconakry/conakry).

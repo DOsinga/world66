@@ -13,6 +13,11 @@ snippet: Shikoku castle city at the end of the railway, known for its original k
   and fertility shrine
 title: Uwajima
 type: location
+nature: 4.4
+leisure: 4.9
+adventure: 4.5
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Uwajima is a small city in the far south of Ehime prefecture on Shikoku, at the end of a railway line that terminates here after threading through the coastal mountains. It is primarily of interest for two attractions that couldn't be more different in character.

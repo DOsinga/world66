@@ -10,6 +10,11 @@ snippet: Agricultural Somaliland town west of Hargeisa, surrounded by the fertil
   farms of the Dhul-beereed region
 title: Gabiley
 type: location
+nature: 6.3
+leisure: 1.3
+adventure: 8.1
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Gabiley is an agricultural town 54 kilometres west of Hargeisa, the capital of Somaliland. It sits in the fertile "Dhul-beereed" region and is known as the breadbasket of the country — the farms here produce corn, maize, beans, groundnuts, and fruit including papaya, oranges, and watermelon.

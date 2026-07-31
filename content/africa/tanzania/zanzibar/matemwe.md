@@ -13,6 +13,11 @@ snippet: Northeast Zanzibar fishing-village coast, closest to Mnemba Atoll's ree
   and shaped by tides and fringing lagoon
 title: Matemwe
 type: location
+nature: 5.5
+leisure: 7.8
+adventure: 2.2
+city_culture: 3.2
+historic_culture: 3.2
 ---
 
 Matemwe is a string of fishing villages and small lodges along the north-east coast of Unguja, the main island of [Zanzibar](/africa/tanzania/zanzibar). It is the closest beach on the island to **[Mnemba Atoll](/africa/tanzania/zanzibar/matemwe/mnemba_atoll)**, the small private island offshore whose reef offers the best snorkelling and diving on the East African coast, and that proximity has shaped Matemwe's character: a slower, more upmarket and more sea-focused alternative to the bigger resort villages at Nungwi and Kendwa further north.

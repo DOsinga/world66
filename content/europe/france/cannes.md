@@ -14,6 +14,11 @@ type: location
 score: 9.06
 snippet: French Riviera city where film-festival glamour overlays an old Provençal
   fishing quarter.
+nature: 2.6
+leisure: 9.6
+adventure: 0.4
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Cannes is glamour on the French Riviera — a city that built its identity on celebrity, film festivals, and designer shopping, but still has the bones of a Provençal fishing town underneath. The annual [Cannes Film Festival](/europe/france/cannes/cannes_film_festival) turns the [Croisette](/europe/france/cannes/promenade_de_la_croisette) into a global stage every May, but outside those two frantic weeks, Cannes is a surprisingly walkable place with good beaches, fine dining, and easy day trips along the coast.

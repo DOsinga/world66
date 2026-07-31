@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Amed_(Bali)
 title: Amed
 type: location
+nature: 4.2
+leisure: 7.8
+adventure: 2.0
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Amed is not a single neat town so much as a string of fishing villages stretched along Bali's dry northeastern coast. It is the island's antidote to Kuta: black volcanic beaches, outrigger canoes pulled above the tide line, salt pans beside the road, and Mount Agung rising behind everything. The pace is slow, the evenings are dark, and that is the point.

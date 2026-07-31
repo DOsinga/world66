@@ -19,6 +19,11 @@ sources:
 - https://agumberainforest.org/arrs/
 title: Agumbe
 type: location
+nature: 6.5
+leisure: 4.9
+adventure: 4.8
+city_culture: 3.3
+historic_culture: 3.3
 ---
 
 Agumbe is a tiny village in the Western Ghats of Karnataka that receives the highest rainfall in the state — sometimes called the "Cherrapunji of the South." The surrounding rainforest is dense, dripping, and magnificent, and the village served as the filming location for the television adaptation of R.K. Narayan's *Malgudi Days*.

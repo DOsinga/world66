@@ -14,6 +14,11 @@ snippet: Archaeological site east of Bandar Seri Begawan, once the capital of Br
   medieval sultanate
 type: location
 score: 6.67
+nature: 4.3
+leisure: 5.0
+adventure: 4.6
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Kota Batu, meaning "Stone Fort," is an archaeological site a few kilometres east of Bandar Seri Begawan that served as Brunei's ancient capital from the 14th to 17th centuries. The site was the heart of the Brunei Sultanate during its golden age, when the empire extended across much of Borneo and the Philippines. Today it's a quiet place of excavated ruins, old Chinese trade ceramics, and a small museum cluster that makes a good half-day excursion from the capital.

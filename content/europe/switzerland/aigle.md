@@ -16,6 +16,11 @@ sources:
 - https://www.alpesvaudoises.ch/en/P430/aigle/chateau-daigle-vines-wine-and-wine-labels-museum
 title: Aigle
 type: location
+nature: 5.5
+leisure: 5.4
+adventure: 4.2
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Aigle sits in the Rhône valley between Lake Geneva and the Vaud Alps, a useful rail junction that turns out to be much more than a place to change trains. The old town is modest, but the setting is excellent: vineyards climb the slopes above the valley floor, mountain trains leave for [Leysin](/europe/switzerland/leysin), and the towers of [Aigle Castle](/europe/switzerland/aigle/aigle_castle) rise from the vines.

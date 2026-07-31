@@ -14,6 +14,11 @@ title: Baramulla
 type: location
 snippet: Kashmir Valley town on the Jhelum River, set between Srinagar and the road
   to Uri.
+nature: 7.7
+leisure: 2.5
+adventure: 7.4
+city_culture: 2.8
+historic_culture: 2.8
 ---
 
 Baramulla sits on the Jhelum River in the western part of the Kashmir Valley, about 60 km from [Srinagar](/asia/india/jammuandkashmir/srinagar). For centuries it was the gateway to Kashmir, the point where the old Mughal road from the plains entered the valley, and it retains something of that crossroads character. The [old town along the river](/asia/india/jammuandkashmir/baramulla/jhelum_riverfront) has wooden houses with carved balconies in the traditional Kashmiri style, though many have suffered from decades of neglect and conflict.

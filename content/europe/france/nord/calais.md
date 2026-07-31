@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Calais
 title: Calais
 type: location
+nature: 3.9
+leisure: 6.2
+adventure: 3.3
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Calais occupies a peculiar position in the French imagination — it is the busiest passenger port in the world, yet most people who pass through it see only the motorway to or from the ferry terminal. That is a shame. The city has a compact and surprisingly characterful old town, a collection of museums better than you'd expect, and an identity shaped by centuries of belonging to England, siege warfare, and the lace-making trade.

@@ -13,6 +13,11 @@ title: Domburg
 snippet: Old Zeeland seaside resort of wide dunes, refined beach life, and the light
   that drew Mondrian.
 type: location
+nature: 4.1
+leisure: 6.4
+adventure: 3.0
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Domburg is a small seaside resort on the coast of Walcheren in the province of Zeeland, and one of the oldest beach destinations in the Netherlands. People have been coming here to bathe since the early nineteenth century, and the town has a refined, slightly old-fashioned charm that sets it apart from the livelier resorts further north.

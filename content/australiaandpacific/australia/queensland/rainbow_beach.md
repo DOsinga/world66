@@ -14,6 +14,11 @@ title: Rainbow Beach
 snippet: Small Queensland beach town and K'gari gateway, backed by coloured sand cliffs
   and the Carlo Sandblow
 type: location
+nature: 7.1
+leisure: 5.3
+adventure: 4.4
+city_culture: 2.4
+historic_culture: 2.4
 ---
 
 Rainbow Beach is a small coastal town about 75 km north of Noosa, best known as the southern gateway to K'gari (Fraser Island). The barge from Inskip Point, just south of town, makes the crossing in about 10 minutes.

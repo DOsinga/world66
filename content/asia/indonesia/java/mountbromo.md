@@ -14,6 +14,11 @@ snippet: East Java volcano rising from the Tengger caldera's broad sea of volcan
   sand
 title: Mount Bromo
 type: location
+nature: 6.9
+leisure: 5.0
+adventure: 4.8
+city_culture: 3.1
+historic_culture: 3.1
 ---
 
 Mount Bromo is one of the most dramatic landscapes in Indonesia — an active volcano rising from the vast flat floor of the Tengger caldera in East Java, surrounded by a lunar sea of volcanic sand. The caldera is 10 kilometres across; Bromo itself, with its smoking crater, sits at 2,329 metres. Around it stand several other cones, most prominently the perfectly shaped Mount Batok. The whole scene, especially at dawn from the rim of the caldera, looks too theatrical to be real.

@@ -14,6 +14,11 @@ snippet: Small Guadeloupe archipelago where Terre-de-Haut surrounds a turquoise 
   below Fort Napoléon.
 title: Les Saintes
 type: location
+nature: 5.7
+leisure: 7.6
+adventure: 2.3
+city_culture: 3.2
+historic_culture: 3.2
 ---
 
 Les Saintes is a small archipelago of eight islands just south of [Guadeloupe](/northamerica/thecaribbean/guadeloupe), often called the most beautiful bay in the world — a claim that feels less like hyperbole once you arrive. Only two of the islands are inhabited: Terre-de-Haut and Terre-de-Bas, with Terre-de-Haut drawing most visitors.

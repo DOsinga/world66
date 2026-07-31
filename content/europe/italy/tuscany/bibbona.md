@@ -14,6 +14,11 @@ snippet: Medieval Tuscan hill village above the Tyrrhenian coast, paired with a 
   pine-backed beach resort.
 title: Bibbona
 type: location
+nature: 4.6
+leisure: 7.2
+adventure: 2.6
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Bibbona is a small medieval hilltop village in the Livorno province of Tuscany, perched above the coastal plain with views stretching to the Tyrrhenian Sea. The village itself is compact and largely unspoiled — stone streets, a small castle, and the kind of quiet that has mostly been squeezed out of better-known Tuscan hill towns. It sees few tourists, which is part of the appeal.

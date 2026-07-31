@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Miskolc
 title: Miskolc
 type: location
+nature: 3.8
+leisure: 5.4
+adventure: 3.7
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Miskolc is Hungary's third-largest city, tucked into the foothills of the Bükk Mountains in the northeast of the country. It is an industrial city that does not pretend to be a tourist magnet, but the surrounding area has genuine appeal — most notably Miskolctapolca, a suburb where you can swim through a natural cave system fed by thermal springs at the extraordinary [Cave Bath](/europe/hungary/miskolc/cave_bath).

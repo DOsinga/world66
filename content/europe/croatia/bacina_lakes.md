@@ -9,6 +9,11 @@ snippet: Southern Dalmatian lake cluster of turquoise freshwater, swimming spots
   and quiet kayaking near Ploče
 title: Baćina Lakes
 type: location
+nature: 5.4
+leisure: 6.6
+adventure: 3.0
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 The Baćina Lakes are a cluster of six interconnected freshwater lakes near Ploče on the southern Dalmatian coast. They are visible from the coastal road and their colour — an intense turquoise-green — is striking enough to make you pull over.

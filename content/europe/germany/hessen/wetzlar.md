@@ -9,6 +9,11 @@ snippet: Central Hesse city with a preserved Altstadt and strong connections to 
   early literary life.
 score: 7.12
 loc_type: city
+nature: 3.4
+leisure: 5.6
+adventure: 3.4
+city_culture: 7.0
+historic_culture: 7.0
 ---
 
 Wetzlar, in central Hesse, is a city with a remarkably well-preserved Altstadt — an ensemble of half-timbered houses, Baroque facades, and cobbled squares that looks much as it did in the late 18th century. It was here in 1772 that the young Goethe worked as a legal apprentice and fell unhappily in love, an experience that directly inspired *The Sorrows of Young Werther*.

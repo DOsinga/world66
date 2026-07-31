@@ -10,6 +10,11 @@ score: 6.95
 loc_type: city
 snippet: Ashgabat is Turkmenistan’s desert capital, marked by monumental white-marble
   architecture and Soviet-planned avenues.
+nature: 4.3
+leisure: 2.3
+adventure: 7.3
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Ashgabat is one of the world's strangest capitals — a gleaming white marble city marooned in the Karakum desert, built almost entirely to glorify a single man. The late president Saparmurat Niyazov, who renamed himself Turkmenbashi ("Father of All Turkmen"), turned this orderly Soviet garrison town into a monument to his own personality cult. Golden statues of him once rotated to face the sun. Streets were renamed after his mother. The whole city feels less like a place where people live than a stage set for a state that no longer exists.

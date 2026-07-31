@@ -13,6 +13,11 @@ image_source: https://commons.wikimedia.org/wiki/File:00_2269_Geiranger_-_Norway
 image_license: CC BY-SA 4.0
 image_attribution: W. Bulach
 loc_type: feature
+nature: 6.9
+leisure: 7.0
+adventure: 2.9
+city_culture: 2.6
+historic_culture: 2.6
 ---
 
 Geirangerfjord is Norway's most famous fjord and a UNESCO World Heritage Site. The narrow, 15-kilometre-long inlet is flanked by near-vertical cliffs up to 1,400 metres high, with waterfalls cascading directly into the deep blue water below. If you have seen a photograph of a Norwegian fjord, there is a good chance it was this one.

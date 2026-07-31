@@ -14,6 +14,11 @@ snippet: Florentine hillside municipality of olive groves, Chianti vineyards, an
   villages just beyond the Arno.
 title: Bagno a Ripoli
 type: location
+nature: 3.0
+leisure: 7.7
+adventure: 1.8
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Bagno a Ripoli is a quiet municipality on the southeastern edge of [Florence](/europe/italy/tuscany/florence), spread across gentle hills covered in olive groves and vineyards. It sits along the right bank of the Arno, just five kilometres from the city centre, making it an easy escape from the crowds.

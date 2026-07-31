@@ -14,6 +14,11 @@ snippet: Guanacaste beach town built around a broad Pacific bay, consistent surf
   and a busy visitor strip.
 title: Tamarindo
 type: location
+nature: 5.6
+leisure: 7.9
+adventure: 2.1
+city_culture: 3.1
+historic_culture: 3.1
 ---
 
 Tamarindo is one of Costa Rica's most popular beach towns, strung along a wide Pacific bay in the Guanacaste province. It built its reputation on surf — long, consistent waves that draw beginners and experienced riders from around the world — and that reputation has stuck. The town is more developed than most places in Costa Rica, with a busy strip of restaurants, surf shops, and tour operators running parallel to the beach.

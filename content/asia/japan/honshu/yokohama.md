@@ -13,6 +13,11 @@ snippet: Major Japanese port south of Tokyo, with Minato Mirai waterfront sights
   the country's largest Chinatown.
 title: Yokohama
 type: location
+nature: 1.7
+leisure: 8.7
+adventure: 0.8
+city_culture: 7.8
+historic_culture: 7.8
 ---
 
 Only 32 kilometres from [Tokyo](/asia/japan/tokyo), Yokohama is Japan's second-largest city and one of its most cosmopolitan. It was here that Commodore Matthew Perry landed with his Black Ships in 1854 to force Japan to open to foreign trade, and the city has had an international character ever since — growing rapidly into one of Asia's major ports.

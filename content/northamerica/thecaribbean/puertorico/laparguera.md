@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Isla_Magueyes
 title: La Parguera
 type: location
+nature: 5.3
+leisure: 6.7
+adventure: 3.1
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 La Parguera is a fishing village turned weekend getaway on the southwest coast of [Puerto Rico](/northamerica/thecaribbean/puertorico), tucked into the municipality of Lajas between [Guánica](/northamerica/thecaribbean/puertorico/guanica) and [Cabo Rojo](/northamerica/thecaribbean/puertorico/caborojo). The village proper is small — a handful of streets pressed up against the water — but the real action happens offshore, where dozens of mangrove cays form a sheltered lagoon known as the [La Parguera Nature Reserve](/northamerica/thecaribbean/puertorico/laparguera/la_parguera_nature_reserve).

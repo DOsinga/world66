@@ -12,6 +12,11 @@ image_attribution: Diego Delso
 loc_type: feature
 snippet: Volcanic Pacific archipelago where isolation shaped the wildlife that helped
   Darwin understand evolution.
+nature: 8.6
+leisure: 6.2
+adventure: 3.7
+city_culture: 0.8
+historic_culture: 0.8
 ---
 
 The Galápagos Islands are an archipelago of volcanic origin on the equator, about 870 km west of mainland Ecuador. The 13 main islands, six smaller islands, and numerous islets cover a land area of around 8,000 sq km. They became famous through Darwin's observations in 1835, which contributed directly to his theory of evolution by natural selection — the islands' isolation allowed species to evolve independently, producing creatures found nowhere else on earth.

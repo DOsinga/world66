@@ -13,6 +13,11 @@ snippet: Bosnian capital where Ottoman lanes, Habsburg boulevards, and siege mem
   meet in one narrow valley
 title: Sarajevo
 type: location
+nature: 2.7
+leisure: 7.6
+adventure: 2.4
+city_culture: 7.5
+historic_culture: 7.5
 ---
 
 Sarajevo has always been a place where civilisations meet — Ottoman, Austro-Hungarian, Yugoslav, and now Bosnian — and the result is a city unlike any other in Europe. You can walk from a 16th-century Ottoman bazaar to a Habsburg boulevard in five minutes, passing mosques, Catholic churches, Orthodox churches, and a synagogue along the way.

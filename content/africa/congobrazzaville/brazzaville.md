@@ -14,6 +14,11 @@ title: Brazzaville
 type: location
 snippet: Congo River capital facing Kinshasa across Malebo Pool, known for Sainte-Anne
   basilica and Poto-Poto.
+nature: 5.1
+leisure: 2.6
+adventure: 6.8
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Brazzaville sits on the western shore of Malebo Pool, the vast widening of the Congo River, directly across the water from Kinshasa. It is one of only two national capitals in the world that face each other across a river. Compared to its enormous neighbour, Brazzaville is smaller, quieter, and considerably more relaxed.

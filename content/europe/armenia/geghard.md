@@ -14,6 +14,11 @@ snippet: Armenian monastery complex carved into the Azat River Gorge, named for 
   Holy Lance.
 title: Geghard
 type: location
+nature: 4.5
+leisure: 4.8
+adventure: 4.9
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Geghard is a medieval monastery complex built into the walls of the Azat River Gorge, about 40 kilometres east of [Yerevan](/europe/armenia/yerevan). Its name means "spear" in Armenian — a reference to the Holy Lance said to have pierced Christ’s side, which was kept here before being moved to Echmiadzin. The monastery is a UNESCO World Heritage Site and one of the most architecturally remarkable religious buildings in the world.

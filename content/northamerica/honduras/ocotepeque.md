@@ -14,6 +14,11 @@ snippet: Western Honduran highland town near the meeting point of Honduras, Guat
   and El Salvador.
 title: Ocotepeque
 type: location
+nature: 5.4
+leisure: 3.6
+adventure: 5.8
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Nueva Ocotepeque sits at around 900 metres in the far western corner of Honduras, wedged between Guatemala and El Salvador at one of Central America's few genuine three-country meeting points. Most travelers stop here only long enough to change buses or handle paperwork at the border, but the town itself is calm, functional, and underrated as a base for the surrounding highlands.

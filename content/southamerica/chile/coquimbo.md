@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Coquimbo
 title: Coquimbo
 type: location
+nature: 5.9
+leisure: 4.8
+adventure: 4.8
+city_culture: 4.0
+historic_culture: 4.0
 ---
 
 Coquimbo is the port city across the bay from [La Serena](/southamerica/chile/laserena), rougher around the edges and less immediately graceful than its neighbour. That is part of the point. Where La Serena sells colonial calm and beach promenades, Coquimbo gives you working harbour, football, seafood, a jumble of hills, and some odd monuments that could only belong to a port with a long immigrant history.

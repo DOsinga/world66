@@ -14,6 +14,11 @@ snippet: Walled medieval city near Venice, known for canals, arcades, radicchio,
   the origins of tiramisu.
 title: Treviso
 type: location
+nature: 2.4
+leisure: 7.6
+adventure: 2.0
+city_culture: 7.5
+historic_culture: 7.5
 ---
 
 Treviso is a walled medieval city about 30 kilometres north of [Venice](/europe/italy/veneto/venice) that most visitors pass through on the way to somewhere else. That's their loss. The historic centre has canals, arcaded streets, towers, and a [cathedral with frescoes by Titian](/europe/italy/veneto/treviso/duomo_di_treviso) — all on a much more human scale than Venice, without the crowds or the prices.

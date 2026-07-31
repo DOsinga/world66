@@ -10,6 +10,11 @@ snippet: Riviera delle Palme resort town where a medieval hill village overlooks
   broad marina bay.
 title: Andora
 type: location
+nature: 4.8
+leisure: 4.3
+adventure: 5.1
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Andora faces the bay between Capo Mele and Capo Cervo on the Riviera delle Palme. The old hillside settlement of [Borgo Castello](/europe/italy/liguria/italianriviera/rivieradellepalme/andora/borgo_castello) preserves the medieval core: the late Romanesque [church of Santi Giacomo e Filippo](/europe/italy/liguria/italianriviera/rivieradellepalme/andora/santi_giacomo_e_filippo), a gate tower, and on the hilltop the remains of a polygonal castle known as the "Paraxu," the former residence of the Genoese governor. A handsome ten-arched [Romanesque bridge](/europe/italy/liguria/italianriviera/rivieradellepalme/andora/merula_bridge) spans the Merula River below.

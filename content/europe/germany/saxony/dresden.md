@@ -16,6 +16,11 @@ snippet: Saxon Baroque city on the Elbe, rebuilt around royal museums, villas, a
   garden-city experiments.
 title: Dresden
 type: location
+nature: 1.3
+leisure: 8.2
+adventure: 1.6
+city_culture: 8.9
+historic_culture: 8.9
 ---
 
 “Florence of the North” is how Dresden has been called. A southern city in the North, a Baroque metropolis. The city experienced its golden age in the first half of the 18th century under the rule of Augustus the Strong, Elector of Saxony and King of Poland. The Zwinger, the cathedral, the Baroque Königstraße, Pillnitz Palace and not least the countless art treasures of the museums and priceless wealth of the "Green Vault" treasure chamber all testify to this era.

@@ -10,6 +10,11 @@ snippet: South Styrian wine town below Seggau Castle, with vineyard hills and Ro
   ruins at Flavia Solva.
 title: Leibnitz
 type: location
+nature: 4.4
+leisure: 4.9
+adventure: 4.4
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 You can see the wine hills around Seggau castle from far off, and that tells you everything: Leibnitz is the heart of the South Styrian wine country. The town has good outdoor cafes serving local and international dishes alongside the region's excellent wines, and hosts wine celebrations, music and cultural events throughout the year.

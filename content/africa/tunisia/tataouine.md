@@ -14,6 +14,11 @@ snippet: Southern Tunisian city near Berber ksour, whose name inspired Star Wars
   Tatooine.
 title: Tataouine
 type: location
+nature: 6.2
+leisure: 2.2
+adventure: 7.6
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Tataouine is a small city in southern Tunisia that lent its name — slightly mangled — to the desert planet Tatooine in Star Wars. George Lucas filmed nearby and borrowed the name, which has made the town a minor pilgrimage site for fans, though there is nothing Star Wars-related in the town itself.

@@ -13,6 +13,11 @@ sources:
 - https://www.skerriesmills.ie/
 title: Skerries
 type: location
+nature: 4.6
+leisure: 5.3
+adventure: 4.2
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Skerries is a pleasant surprise — a genuine Victorian fishing village that has somehow survived the ham-fisted urban planning that plagues the Dublin commuter belt. It's on the train line from the city, 30km north of Dublin, and the coastline is good for walking. Three offshore islands are visible from the harbour: Shenick's, St. Patrick's, and Colt, giving the view a proper maritime depth.

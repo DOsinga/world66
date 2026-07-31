@@ -14,6 +14,11 @@ snippet: Desert-edge Berber village beside Erg Chebbi's high dunes near the Alge
   border.
 title: Merzouga
 type: location
+nature: 7.3
+leisure: 4.8
+adventure: 5.3
+city_culture: 2.7
+historic_culture: 2.7
 ---
 
 Merzouga is a small Berber village on the western edge of the Erg Chebbi, a 28-kilometre stretch of spectacular sand dunes in southeastern Morocco, close to the Algerian border. The dunes reach up to 150 metres high and shift from pale gold to burnt orange depending on the sun — sunrise and sunset are genuinely unforgettable, and for most visitors Erg Chebbi is one of the single best experiences in Morocco.

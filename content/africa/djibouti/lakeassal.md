@@ -9,6 +9,11 @@ snippet: Volcanic crater lake below sea level, edged with salt crusts in Djibout
   Afar Rift.
 title: Lake Assal
 type: location
+nature: 8.0
+leisure: 2.4
+adventure: 7.2
+city_culture: 2.1
+historic_culture: 2.1
 ---
 
 Lake Assal is the lowest point in Africa and the third lowest on earth, sitting 155 meters below sea level in a volcanic crater at the western end of the Gulf of Tadjoura. The water is ten times saltier than the ocean — only a handful of lakes on the planet are more saline — and the shoreline is encrusted in thick, brilliant white salt that crunches underfoot.

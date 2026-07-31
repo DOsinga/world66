@@ -13,6 +13,11 @@ snippet: Georgian mountain resort on the Trialeti Range, with Soviet-era ski slo
   and spruce forests
 title: Bakuriani
 type: location
+nature: 6.1
+leisure: 5.8
+adventure: 4.1
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 Bakuriani is Georgia's main ski resort, sitting at 1,700 metres on the northern slopes of the Trialeti Range, about 30 kilometres from [Borjomi](/europe/georgia/borjomi). It has been a winter destination since Soviet times, and while the infrastructure is dated and the slopes modest by Alpine standards, the resort has a genuine mountain character and draws Georgian families in both winter and summer.

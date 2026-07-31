@@ -16,6 +16,11 @@ snippet: Pakistani port metropolis on the Arabian Sea, full of colonial landmark
   beaches, and commercial energy
 title: Karachi
 type: location
+nature: 3.3
+leisure: 3.7
+adventure: 6.3
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 Karachi is Pakistan's largest city and its commercial capital, a sprawling metropolis of some 15 million people on the Arabian Sea coast. It is a city of extreme contrasts — immense wealth and deep poverty, a historic old town and vast new suburbs, beaches facing one of the world's busiest shipping lanes. It is not a conventional tourist destination, but travellers who engage with it find a city of enormous energy and genuine hospitality.

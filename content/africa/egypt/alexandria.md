@@ -15,6 +15,11 @@ snippet: Mediterranean Egyptian port city where ancient scholarship, faded Europ
   architecture, and modern corniche life meet.
 title: Alexandria
 type: location
+nature: 2.4
+leisure: 5.0
+adventure: 4.9
+city_culture: 8.6
+historic_culture: 8.6
 ---
 
 Alexandria is Egypt's great Mediterranean city -- a place where ancient history, faded European elegance, and modern Egyptian life collide along a curving seafront corniche. While most visitors to Egypt head south to the temples and tombs, Alexandria rewards those who turn north.

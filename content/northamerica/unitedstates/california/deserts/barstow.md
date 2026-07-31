@@ -14,6 +14,11 @@ snippet: Mojave Desert crossroads town shaped by railroads, mines, and the resto
   Casa del Desierto.
 title: Barstow
 type: location
+nature: 5.6
+leisure: 3.4
+adventure: 5.9
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Barstow sits at the crossroads of Interstates 15 and 40 in the heart of the Mojave Desert — most people blow through on their way to Las Vegas, but the town rewards a stop. It grew up around the railroad and the mines, and the beautifully restored [Casa del Desierto](/northamerica/unitedstates/california/deserts/barstow/casa_del_desierto) (a 1911 Harvey House) at the train station is worth seeing for its architecture alone.

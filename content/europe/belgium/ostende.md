@@ -7,6 +7,11 @@ longitude: 2.9162
 score: 7.49
 snippet: Belgian North Sea resort city with a wide beach, long promenade, and James
   Ensor heritage.
+nature: 3.5
+leisure: 6.7
+adventure: 2.8
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Ostend — in Flemish, Oostende — is Belgium's only large seaside city, a bracing North Sea resort that the Belgians have been coming to since the nineteenth century. Leopold II built his royal villa here and the town retains a faded grandeur that suits its blustery Atlantic character. The wide sandy beach runs for kilometres, the Albert I Promenade behind it offers a traffic-free walk above the waves, and the whole place feels noticeably more relaxed than the crowded summer shores further south.

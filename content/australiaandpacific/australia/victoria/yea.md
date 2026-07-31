@@ -16,6 +16,11 @@ title: Yea
 type: location
 snippet: Quiet Victorian country town in Great Dividing Range foothills, with wetlands
   and pastoral Murrindindi scenery.
+nature: 5.2
+leisure: 5.3
+adventure: 4.1
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 A quiet country town about two hours northeast of [Melbourne](/australiaandpacific/australia/victoria/melbourne), Yea sits at the junction of the Melba and Goulburn Valley highways in the foothills of the Great Dividing Range. The surrounding Murrindindi Shire is pastoral countryside — green rolling hills, cattle farms, and stands of eucalyptus — and the town serves as a natural rest stop for travelers heading to the ski fields or the Victorian High Country.

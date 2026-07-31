@@ -13,6 +13,11 @@ snippet: Brazilian colonial port between Rio and São Paulo, where cobbled stree
   flood gently with the tide.
 title: Paraty
 type: location
+nature: 5.0
+leisure: 7.2
+adventure: 2.8
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Paraty is one of Brazil's finest colonial towns, a UNESCO World Heritage Site sitting on a dramatic stretch of coastline between Rio de Janeiro and São Paulo. Its [historic centre](/southamerica/brazil/paraty/historic_centre) — entirely closed to motor traffic — preserves an extraordinary collection of 17th and 18th century Portuguese architecture, its cobblestone streets flooding at high tide as they always have, letting the sea wash gently through the lower alleys before retreating again.

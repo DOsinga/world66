@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Fukuoka
 title: Fukuoka
 type: location
+nature: 2.2
+leisure: 7.6
+adventure: 1.9
+city_culture: 7.7
+historic_culture: 7.7
 ---
 
 Fukuoka is Japan's sixth-largest city and by some measures its fastest-growing, a young, energetic port city on the northern coast of Kyushu that has developed a distinct identity separate from the more formal culture of Tokyo or Osaka. The city is divided roughly between Hakata — the old commercial and transport hub, home to the shinkansen station and the traditional Kushida Shrine — and Tenjin, the modern shopping and nightlife district to the west. Between them runs the Naka River, and along its central section the entertainment quarter of Nakasu clusters the city's bars, clubs, and yatai street food stalls on a narrow island of reclaimed land.

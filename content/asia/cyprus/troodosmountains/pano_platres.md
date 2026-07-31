@@ -14,6 +14,11 @@ snippet: Troodos mountain resort village with cooler pine forests and walking tr
   to waterfalls and Mount Olympos.
 title: Pano Platres
 type: location
+nature: 7.2
+leisure: 5.8
+adventure: 4.0
+city_culture: 2.7
+historic_culture: 2.7
 ---
 
 Perched on the southern slopes of the Troodos mountains at around 1,100 metres, Pano Platres is the most popular mountain resort in Cyprus. The air is noticeably cooler here than on the coast, and the surrounding pine forests give the village a quite different character from the sun-baked lowlands.

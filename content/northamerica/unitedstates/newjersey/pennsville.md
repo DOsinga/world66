@@ -14,6 +14,11 @@ snippet: Small Delaware River township at the New Jersey end of the Delaware Mem
   Bridge.
 title: Pennsville
 type: location
+nature: 4.3
+leisure: 5.0
+adventure: 4.0
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Pennsville is a small township on the eastern bank of the Delaware River in Salem County, New Jersey. It serves as the southern gateway to the New Jersey Turnpike and sits at the New Jersey end of the Delaware Memorial Bridge, which connects to Wilmington, Delaware.

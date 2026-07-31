@@ -16,6 +16,11 @@ snippet: Galician border town on the Miño, known for lamprey fishing, stone pes
   and Condado de Tea wines.
 title: Arbo
 type: location
+nature: 5.8
+leisure: 5.4
+adventure: 4.2
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Arbo is a small municipality in the southwest of Pontevedra province, on the right bank of the Miño river where it forms the border with Portugal. The economy has traditionally been built on agriculture — corn and wine — and fishing in the Miño, where salmon, shad, lamprey, trout, and carp are caught.

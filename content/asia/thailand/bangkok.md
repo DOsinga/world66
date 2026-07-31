@@ -16,6 +16,11 @@ snippet: Thai capital on the Chao Phraya River, where royal temples, street food
   and canal life crowd together
 title: Bangkok
 type: location
+nature: 0.9
+leisure: 9.4
+adventure: 0.7
+city_culture: 8.6
+historic_culture: 8.6
 ---
 
 Bangkok is one of those cities that overwhelms you on arrival and then slowly wins you over. The heat hits you first, then the noise, then the smells -- exhaust fumes mingling with jasmine garlands and sizzling street food. Give it a day and you will start to feel the rhythm of the place.

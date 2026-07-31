@@ -9,6 +9,11 @@ score: 7.76
 loc_type: city
 snippet: Middle Atlas hill station of Alpine-style villas, cedar forests, winter snow,
   and French-planned streets.
+nature: 5.4
+leisure: 6.2
+adventure: 3.6
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Ifrane is one of the strangest sights in [Morocco](/africa/morocco) — a town of steep-roofed Alpine-style villas, flower gardens, and wide suburban streets planted in the Middle Atlas mountains at 1,650 metres. Built by the French in 1929 as a hill station escape from the summer heat, it looks more like a Swiss village than anything you expect to find in North Africa. It is probably the cleanest city in Morocco, and certainly one of the most expensive.

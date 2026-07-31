@@ -14,6 +14,11 @@ snippet: State-line American metropolis known for barbecue, jazz heritage, and t
   Kansas-Missouri split at its urban core.
 title: Kansas City
 type: location
+nature: 3.0
+leisure: 5.3
+adventure: 3.8
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 Kansas City — "KC" — is an American metropolis with a state line running down the middle of it. Kansas City, Missouri is the larger and better-known half; Kansas City, Kansas (affectionately "KCK") sits just across the border. Dozens of suburbs in both states fill out the metropolitan area.

@@ -14,6 +14,11 @@ snippet: Only incorporated town in the San Juan Islands, with a walkable harbour
   ferry links to Anacortes.
 title: Friday Harbor
 type: location
+nature: 5.2
+leisure: 7.7
+adventure: 2.2
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 Friday Harbor is the only incorporated town in the San Juan Islands, a ferry ride from Anacortes in Washington's Puget Sound. It is a small, walkable place with a harbour full of sailboats, a handful of good restaurants, and a relaxed island pace.

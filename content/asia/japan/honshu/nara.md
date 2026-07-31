@@ -14,6 +14,11 @@ image: nara.jpg
 image_source: https://commons.wikimedia.org/wiki/File:090124_wakakusa_yamayaki.jpg
 image_license: CC BY-SA 3.0
 image_attribution: 名古屋太郎
+nature: 2.5
+leisure: 6.2
+adventure: 3.5
+city_culture: 8.4
+historic_culture: 8.4
 ---
 
 Nara was Japan's first permanent capital, founded in 710 and modelled on the Tang Chinese city of Chang'an. For barely seventy years it served as the seat of imperial power before the court moved to Kyoto — but those decades were enough to produce some of the greatest Buddhist monuments in the country. Today Nara is a compact, manageable city that rewards a day or two's wandering, and it is far less crowded than Kyoto.

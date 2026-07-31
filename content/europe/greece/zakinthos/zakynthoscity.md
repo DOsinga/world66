@@ -14,6 +14,11 @@ image: zakynthoscity.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Zakintos_-_panorama.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Mich973
+nature: 4.4
+leisure: 7.5
+adventure: 2.4
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Zakynthos Town (also called Zante Town) is the capital and main port of the island of Zakynthos, built on the eastern coast where ferries arrive from Killini on the Peloponnese. The town was almost entirely destroyed by the 1953 earthquake that struck the Ionian Islands, and was rebuilt in a neoclassical style that gives the central streets a relatively uniform and orderly look. The harbour esplanade is the most pleasant part — lined with cafes and tavernas, with views across the strait to the Greek mainland.

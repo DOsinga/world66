@@ -14,6 +14,11 @@ snippet: Catalan seaside town where the Pyrenees meet the Mediterranean at the e
   of the Côte Vermeille.
 title: Argeles-sur-Mer
 type: location
+nature: 3.9
+leisure: 8.4
+adventure: 1.3
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Argeles-sur-Mer sits where the Pyrenees meet the Mediterranean, right at the point where long sandy beaches give way to the rocky coves of the Cote Vermeille. It is the last stretch of flat coastline before the mountains tumble into the sea toward Spain.

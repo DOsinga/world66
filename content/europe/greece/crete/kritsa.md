@@ -13,6 +13,11 @@ snippet: Cretan mountain village above Agios Nikolaos, known for whitewashed hil
   houses, weaving, and embroidery traditions.
 title: Kritsa
 type: location
+nature: 3.9
+leisure: 6.9
+adventure: 2.7
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Kritsa is a mountain village about 12 kilometres southwest of Agios Nikolaos, built in amphitheatre fashion on a jutting promontory. The white-washed houses stacked up the hillside make it one of the most photogenic villages in Crete, and you can see it from a distance as you drive up the gorge.

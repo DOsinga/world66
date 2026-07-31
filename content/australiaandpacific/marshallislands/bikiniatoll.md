@@ -10,6 +10,11 @@ score: 7.29
 loc_type: city
 snippet: Marshall Islands atoll and UNESCO site, marked by 23 United States nuclear
   tests.
+nature: 8.0
+leisure: 5.1
+adventure: 4.7
+city_culture: 1.8
+historic_culture: 1.8
 ---
 
 Bikini Atoll is a UNESCO World Heritage site and one of the most consequential places in the Pacific. Between 1946 and 1958, the United States detonated 23 nuclear weapons here, including Castle Bravo in 1954 — the largest US nuclear test ever, a thousand times more powerful than the Hiroshima bomb. The fallout from Castle Bravo drifted over inhabited atolls to the east, contaminating the people of Rongelap and Utrik.

@@ -12,6 +12,11 @@ snippet: Caucasus ski resort village on the Georgian Military Highway, known for
   off-piste terrain
 title: Gudauri
 type: location
+nature: 7.7
+leisure: 5.9
+adventure: 4.0
+city_culture: 2.0
+historic_culture: 2.0
 ---
 
 Gudauri is Georgia's main ski resort, perched at around 2,200 metres on the south-facing slopes of the Greater Caucasus, about two hours' drive north of [Tbilisi](/europe/georgia/tbilisi) along the Georgian Military Highway. The [resort](/europe/georgia/gudauri/gudauri_ski_resort) has runs for all levels — from gentle nursery slopes to serious off-piste terrain — and the snow season typically runs from December to April.

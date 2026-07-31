@@ -14,6 +14,11 @@ snippet: Medieval Saxon city below the Southern Carpathians, with red roofs, Got
   spires, and forested mountains.
 title: Brasov
 type: location
+nature: 3.6
+leisure: 6.5
+adventure: 3.1
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Brasov sits at the foot of the Southern Carpathians, in the geographical centre of Romania — a medieval Saxon town with red-tiled roofs, Gothic spires, and forested mountains rising straight out of the edge of the old city. It is one of the most visited places in Romania, and with good reason: the historic centre is compact, walkable, and genuinely beautiful, and within an hour's drive you can be at Bran Castle, Rasnov fortress, or the ski slopes of [Poiana Brasov](/europe/romania/brasov/poiana_brasov).

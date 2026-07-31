@@ -12,6 +12,11 @@ snippet: Preserved Bulgarian National Revival town in the Sredna Gora mountains,
   of the April Uprising.
 title: Koprivshtitsa
 type: location
+nature: 3.3
+leisure: 6.2
+adventure: 3.4
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 Koprivshtitsa is one of the most beautifully preserved towns in Bulgaria — a village of painted National Revival houses set in a wooded valley in the Sredna Gora mountains, about 100 km east of Sofia. It's on the tourist trail, but lightly enough that the atmosphere remains genuine.

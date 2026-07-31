@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Jiangyong
 title: Jiangyong
 type: location
+nature: 4.6
+leisure: 3.3
+adventure: 5.9
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Jiangyong County, in the deep south of [Hunan](/asia/china/hunan) near the border with Guangxi, is the birthplace of Nüshu — the only writing system in recorded history created and used exclusively by women. The script developed here sometime in the 13th or 14th century, possibly earlier, as a way for women to communicate beyond the surveillance of patriarchal households that denied them access to formal literary education. Using a syllabic system of about 600-700 characters derived from simplified Chinese forms, women wrote to sworn sisters, composed songs of lament, and prepared "third day missives" — cloth-bound booklets given to brides on their wedding day containing poetry, life advice, and expressions of grief at the parting. The last fluent practitioner, Yang Huanyi, died in 2004. The [Nüshu Museum](/asia/china/hunan/jiangyong/nushu_museum) opened in the county in 2002 and houses manuscripts, embroidered cloth, and folding fans inscribed with the script.

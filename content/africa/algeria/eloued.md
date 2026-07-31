@@ -14,6 +14,11 @@ title: El Oued
 type: location
 snippet: Saharan oasis city known for white domed buildings that cool homes in the
   Oued Souf.
+nature: 5.4
+leisure: 2.0
+adventure: 7.2
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 El Oued is known as the City of a Thousand Domes — and when you see it from above, you understand why. Every building in the old town is topped with a small white dome, a traditional design that keeps interiors cool in the fierce Saharan heat. The effect, spreading across the valley of the Oued Souf, is unlike anything else in [Algeria](/africa/algeria) or anywhere else in North Africa.

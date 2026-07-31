@@ -10,6 +10,11 @@ title: Jackson
 type: location
 snippet: Mississippi capital on the Pearl River, shaped by Deep South history and
   civil rights memory.
+nature: 3.4
+leisure: 4.1
+adventure: 5.0
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 Jackson is the capital of Mississippi and, with around 150,000 people, the largest city in one of the smallest and poorest states in America. It sits in the middle of the state on a low bluff above the Pearl River, and its story is in many ways the story of the Deep South in microcosm: a cotton town on the western edge of the Choctaw homeland; a Confederate railhead burned by Sherman in 1863 (the locals nicknamed it "Chimneyville" afterwards, because that was most of what was left); a battleground of the 1960s civil rights movement; and, since then, a slow, complicated attempt at reinvention.

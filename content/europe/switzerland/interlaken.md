@@ -14,6 +14,11 @@ snippet: Swiss resort town between Lake Thun and Lake Brienz, beneath the Eiger,
   and Jungfrau.
 title: Interlaken
 type: location
+nature: 4.4
+leisure: 8.6
+adventure: 1.6
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Interlaken sits on a narrow strip of land between Lake Thun and Lake Brienz, with the Eiger, Monch and Jungfrau towering above. The name literally means "between the lakes," and water defines the place: clear mountain streams tumble off the hills, waterfalls crash through gorges, and the two lakes shimmer in shades of turquoise and deep blue.

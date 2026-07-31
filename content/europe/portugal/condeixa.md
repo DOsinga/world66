@@ -14,6 +14,11 @@ snippet: Central Portuguese town beside Conimbriga, the country's most important
   archaeological site.
 title: Condeixa
 type: location
+nature: 4.6
+leisure: 7.2
+adventure: 2.4
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Condeixa-a-Nova is a small town in central Portugal, about 15 kilometres south of Coimbra and easily reached by regular buses from there. The town itself is unremarkable, but it sits adjacent to the most important Roman archaeological site in Portugal.

@@ -14,6 +14,11 @@ snippet: São Paulo cattle town famous for the Festa do Peão rodeo and interior
   culture.
 title: Barretos
 type: location
+nature: 4.3
+leisure: 4.7
+adventure: 4.6
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Barretos is a cattle town in the interior of São Paulo state, known throughout Brazil for the Festa do Peão de Boiadeiro — one of the largest rodeo festivals in the world. Every August, the town's population roughly doubles as hundreds of thousands of visitors arrive for ten days of bull riding, country music, and what amounts to a giant open-air party.

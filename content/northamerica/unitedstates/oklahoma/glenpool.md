@@ -10,6 +10,11 @@ snippet: Tulsa County city born from the Glenn Pool oilfield, the 1905 strike th
   helped build Tulsa
 title: Glenpool
 type: location
+nature: 4.5
+leisure: 3.6
+adventure: 5.5
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Glenpool is a small city of around 12,000 people in southern Tulsa County, Oklahoma. It owes its existence to oil: the Glenn Pool oilfield discovered here in 1905 was one of the richest strikes of its era and played a significant role in funding the early growth of Tulsa, earning the town its unofficial motto as "the city that made Tulsa famous." A [historical marker at Black Gold Park](/northamerica/unitedstates/oklahoma/glenpool/black_gold_park) marks the actual discovery site.

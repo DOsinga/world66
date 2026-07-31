@@ -14,6 +14,11 @@ snippet: Baltic Finnish capital where harbour markets, neoclassical squares, and
   districts sit within walking distance.
 title: Helsinki
 type: location
+nature: 2.0
+leisure: 8.8
+adventure: 1.3
+city_culture: 7.4
+historic_culture: 7.4
 ---
 
 Helsinki, Finland's capital, sits on a peninsula jutting into the Baltic. It's a compact, walkable city where the harbour and the city centre are essentially the same place. The low, neoclassical architecture of [Senate Square](/europe/finland/helsinki/senate_square), the covered [market halls](/europe/finland/helsinki/old_market_hall), the design shops of the [Punavuori](/europe/finland/helsinki/punavuori) district, and the ferry terminal for [Suomenlinna](/europe/finland/helsinki/suomenlinna) island fortress are all within easy walking distance of each other.

@@ -13,6 +13,11 @@ snippet: Sunshine Coast beach town with a sheltered north-facing beach and a wor
   harbour precinct.
 title: Mooloolaba
 type: location
+nature: 5.3
+leisure: 7.9
+adventure: 1.9
+city_culture: 3.3
+historic_culture: 3.3
 ---
 
 Mooloolaba is one of the Sunshine Coast's most popular beach towns, sitting about 100 km north of Brisbane on Queensland's coast. [Mooloolaba Beach](/australiaandpacific/australia/queensland/mooloolaba/mooloolaba_beach) is a long, sheltered curve of golden sand that faces north, making it calmer than the more exposed surf breaks further up the coast. [The Esplanade](/australiaandpacific/australia/queensland/mooloolaba/the_esplanade) runs behind the beach with a strip of restaurants, cafes, and shops.

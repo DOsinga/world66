@@ -13,6 +13,11 @@ title: Chapel Hill
 type: location
 snippet: North Carolina college town centered on the University of North Carolina
   and its walkable campus streets.
+nature: 3.3
+leisure: 5.9
+adventure: 3.1
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Chapel Hill is a quintessential college town, home to the University of North Carolina -- the nation's first public university. The campus is beautiful, especially in spring when the dogwoods bloom, and the surrounding streets are walkable, lively, and packed with good restaurants.

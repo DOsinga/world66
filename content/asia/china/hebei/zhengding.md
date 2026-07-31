@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Zhengding_County
 title: Zhengding
 type: location
+nature: 4.0
+leisure: 4.5
+adventure: 4.8
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Zhengding is a small walled town just north of Shijiazhuang that spent over a thousand years as one of the most important Buddhist centres in northern China. From the Sui dynasty through the Qing, it was a place of genuine religious significance rather than just administrative convenience, and the physical evidence of that history is still standing in extraordinary concentration. Four distinct pagodas rise above the town's rooflines — Tang, Song, and later structures, each with a different architectural character — and several major temple complexes survive in varying states of preservation.

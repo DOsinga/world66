@@ -13,6 +13,11 @@ snippet: Somerset village on Exmoor’s edge, dominated by Dunster Castle and it
   medieval Yarn Market.
 title: Dunster
 type: location
+nature: 5.1
+leisure: 4.8
+adventure: 4.6
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Dunster is a picture-book village on the edge of Exmoor in Somerset, dominated by the towers of [Dunster Castle](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/exmoor/dunster/dunster_castle) rising above the rooftops. The castle, now run by the National Trust, has been occupied since at least Norman times and sits in terraced gardens with views across to the Bristol Channel.

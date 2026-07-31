@@ -13,6 +13,11 @@ sources:
 - https://en.wikipedia.org/wiki/Mystery_Island_(Vanuatu)
 title: Anatom
 type: location
+nature: 4.9
+leisure: 4.6
+adventure: 5.0
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Anatom (also spelled Aneityum) is the southernmost island in Vanuatu, remote even by the standards of the archipelago. It is a small, mountainous island with dense forest, clear rivers, and fringing reefs that offer good snorkelling and [diving](/australiaandpacific/vanuatu/anatom/diving). The population is tiny — the island was devastated by disease after European contact in the 19th century and has never fully recovered.

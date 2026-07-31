@@ -16,6 +16,11 @@ snippet: Plateau State capital in central Nigeria, set at 1,200 metres on the co
   Jos Plateau.
 title: Jos
 type: location
+nature: 5.9
+leisure: 3.1
+adventure: 6.8
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Jos sits at 1,200 metres on the Jos Plateau in central Nigeria, which makes it noticeably cooler than most of the country — a welcome relief if you've been sweating through the south. The city is the capital of Plateau State and has a relaxed, unhurried atmosphere compared to Lagos or Abuja.

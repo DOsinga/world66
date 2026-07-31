@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Central_BC_Railway_and_Forestry_Museum
 title: Prince George
 type: location
+nature: 6.4
+leisure: 4.9
+adventure: 4.8
+city_culture: 3.3
+historic_culture: 3.3
 ---
 
 Prince George is the largest city in northern [British Columbia](/northamerica/canada/britishcolumbia), sitting at the confluence of the Fraser and Nechako Rivers roughly in the geographic centre of the province. With a population of about 75,000, it is the service hub for a vast region of forests, mountains, and lakes, and an important stop on any drive through the BC interior.

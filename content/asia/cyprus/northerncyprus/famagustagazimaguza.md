@@ -15,6 +15,11 @@ type: location
 score: 8.13
 snippet: Walled eastern Cyprus city layered with Lusignan, Venetian, Ottoman, and
   Gothic architecture.
+nature: 4.0
+leisure: 6.3
+adventure: 3.1
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Famagusta is one of the most historically layered cities in the eastern Mediterranean — a walled medieval city on the eastern coast of Cyprus that has been Lusignan, Venetian, and Ottoman in turn, and that contains the most impressive ensemble of Gothic architecture anywhere in the region outside of France. Walking through the old town is a slightly disorienting experience: Gothic cathedral arches rise above the skyline with Ottoman minarets added later, Venetian palace facades crumble beside Byzantine ruins, and the whole thing is enclosed by walls three kilometres long and in places nine metres thick, built as if the Venetians expected the Ottomans to come — which, in 1571, they did.

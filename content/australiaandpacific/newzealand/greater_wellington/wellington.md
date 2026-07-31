@@ -11,6 +11,11 @@ image: wellington.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Departure_(33950426345).jpg
 image_license: CC BY 2.0
 image_attribution: Simeon W from Wellington, New Zealand
+nature: 3.5
+leisure: 7.1
+adventure: 2.5
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Wellington is the capital of New Zealand and, at the southernmost tip of the North Island, the windiest major city in the world. That wind is a constant presence — locals accept it as part of the city's character — but it doesn't diminish Wellington's appeal as one of the most liveable and culturally rich cities in the southern hemisphere.

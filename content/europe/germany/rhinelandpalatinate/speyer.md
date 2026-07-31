@@ -16,6 +16,11 @@ snippet: Rhine city with an imperial cathedral, Reformation history, and a weigh
   Holy Roman Empire past.
 title: Speyer
 type: location
+nature: 4.1
+leisure: 4.5
+adventure: 4.8
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Speyer is a small Rhine city with an outsized historical legacy. As a free city of the Holy Roman Empire from 1294 until 1779, it hosted over 50 imperial diets and was the seat of the Imperial Chamber Court. The Protestant Reformation itself takes its name from the "Protestation at Speyer" of 1529.

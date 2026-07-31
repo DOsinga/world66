@@ -14,6 +14,11 @@ snippet: German art city on the Fulda, tied to documenta, Bergpark Wilhelmshöhe
   the Brothers Grimm
 title: Kassel
 type: location
+nature: 2.9
+leisure: 5.9
+adventure: 3.4
+city_culture: 7.5
+historic_culture: 7.5
 ---
 
 Kassel is best known for two things: the [documenta](/europe/germany/hessen/kassel/documenta), one of the world's most important contemporary art exhibitions held every five years, and the [Bergpark Wilhelmshöhe](/europe/germany/hessen/kassel/bergpark_wilhelmshohe), a hillside park crowned by the colossal [Herkules](/europe/germany/hessen/kassel/herkules) statue that is the city's landmark. The park is a UNESCO World Heritage Site — its cascading water features, running down the hillside from the Herkules to the palace lake below, are a spectacle that has drawn crowds for centuries.

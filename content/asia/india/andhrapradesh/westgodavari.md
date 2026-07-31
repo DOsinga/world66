@@ -10,6 +10,11 @@ snippet: Andhra Pradesh delta district of rice fields, canal villages, Shiva tem
   and lace-making towns.
 title: West Godavari
 type: location
+nature: 5.5
+leisure: 3.9
+adventure: 5.5
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 West Godavari is a district in [Andhra Pradesh](/asia/india/andhrapradesh) centred on the fertile delta of the Godavari River as it fans out toward the Bay of Bengal. It is one of the most productive rice-growing regions in India, and the landscape is lush and green — a network of canals, palm groves, and temple towns quite different from the drier interior.

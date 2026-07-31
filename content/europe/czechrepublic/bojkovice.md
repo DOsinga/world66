@@ -14,6 +14,11 @@ snippet: Moravian foothill town near Slovakia, watched over by Nový Světlov Ch
   and White Carpathian trails.
 title: Bojkovice
 type: location
+nature: 4.1
+leisure: 5.0
+adventure: 4.0
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Bojkovice is a small town of about 4,000 people in the Zlín Region of eastern Moravia, tucked into the foothills of the White Carpathians near the Slovak border. The town's main landmark is [Nový Světlov Chateau](/europe/czechrepublic/bojkovice/novy_svetlov_chateau), a neo-Gothic castle perched on a wooded hill above the center. Built in the 1850s on the ruins of a medieval fortress, it now serves as a cultural center and hosts exhibitions and events throughout the year.

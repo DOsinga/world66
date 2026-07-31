@@ -14,6 +14,11 @@ snippet: Bay of Bengal pilgrimage city dominated by Jagannath Temple and the cha
   Rath Yatra tradition.
 title: Puri
 type: location
+nature: 3.1
+leisure: 5.5
+adventure: 4.1
+city_culture: 7.8
+historic_culture: 7.8
 ---
 
 Puri sits on the Bay of Bengal in Odisha, dominated by two great forces: the sea and the Jagannath Temple. The temple rises 65 metres above the old town and has been the most important Hindu pilgrimage site in eastern India for over a thousand years. Puri is one of the four sacred *dhams* — alongside Dwarka, Badrinath, and Rameswaram — meaning it draws devout Hindus from across the subcontinent year-round.

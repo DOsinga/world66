@@ -14,6 +14,11 @@ sources:
 - https://en.wikipedia.org/wiki/Caer_Caradoc
 title: Church Stretton
 type: location
+nature: 4.4
+leisure: 5.3
+adventure: 3.9
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Church Stretton sits in a narrow valley between the Long Mynd and the Stretton Hills in south Shropshire, surrounded by some of the best walking country in the English Midlands. The Victorians called it "Little Switzerland" and came for the clean air; today it draws hikers, hang-gliders, and anyone who wants a quiet base in genuinely wild-feeling landscape that is surprisingly close to Birmingham.

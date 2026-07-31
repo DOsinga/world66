@@ -13,6 +13,11 @@ snippet: Historic New Hampshire seaport with colonial streets, brick downtown bl
   and the Strawbery Banke museum
 title: Portsmouth
 type: location
+nature: 3.2
+leisure: 6.9
+adventure: 2.3
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Portsmouth is a small, historic seaport city on the Piscataqua River in southeastern [New Hampshire](/northamerica/unitedstates/newhampshire). Founded in 1623, it is one of the oldest cities in the United States, and its compact downtown is packed with well-preserved colonial and Federal-era architecture. The streets are walkable and full of character — independent bookshops, craft breweries, and some of the best restaurants in northern New England sit shoulder to shoulder in old brick buildings.

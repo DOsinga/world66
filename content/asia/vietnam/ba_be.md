@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Ba_B%E1%BB%83_Lake
 title: Ba Be National Park
 type: location
+nature: 8.7
+leisure: 5.3
+adventure: 4.5
+city_culture: 1.2
+historic_culture: 1.2
 ---
 
 [Ba Be National Park](/asia/vietnam/ba_be/ba_be_national_park) sits in Bac Kan province, about 250 km north of Hanoi, and is built around one of the most striking landscapes in northern Vietnam. At its heart is [Ba Be Lake](/asia/vietnam/ba_be/ba_be_lake) — the name means "three lakes", though the lake is a single continuous body of water 8 km long and up to 800 m wide. At 178 m above sea level, it is Vietnam's only significant natural mountain lake, set among limestone karst peaks that rise above 1,000 m and drop sharply to the water's edge.

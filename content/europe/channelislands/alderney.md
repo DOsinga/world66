@@ -13,6 +13,11 @@ title: Alderney
 type: location
 snippet: Small northern Channel Island with cliff walks, sandy beaches, seabird colonies,
   and wartime fortifications.
+nature: 5.2
+leisure: 5.4
+adventure: 4.3
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Alderney is the most northerly of the main Channel Islands and, at roughly 3.5 miles by 1.5 miles, one of the smallest. It has around 2,200 residents and a pace of life that makes even Guernsey feel busy. There are sandy beaches, dramatic cliff walks, and some of the largest seabird colonies in northwest Europe — gannets, puffins, and auks nest on the surrounding stacks and islets.

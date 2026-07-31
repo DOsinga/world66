@@ -13,6 +13,11 @@ snippet: Tigris capital founded by the Abbasids, once a circular city at the hea
   of the Islamic Golden Age
 title: Baghdad
 type: location
+nature: 4.2
+leisure: 1.6
+adventure: 8.3
+city_culture: 7.0
+historic_culture: 7.0
 ---
 
 Baghdad was once the centre of the world. Founded in 762 CE by the Abbasid Caliph Al-Mansur as a perfectly circular walled city on the banks of the Tigris, it grew within a century into the largest city on earth — a cosmopolitan capital of perhaps a million people where Arab, Persian, Greek, Indian and Chinese scholarship converged in what became known as the Islamic Golden Age. The name alone used to evoke the world of the Arabian Nights: harems, philosophers, astronomers, merchants, and the legendary wealth of the caliphs.

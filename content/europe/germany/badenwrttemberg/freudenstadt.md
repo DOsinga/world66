@@ -16,6 +16,11 @@ snippet: Black Forest spa town built around Germany's largest enclosed market sq
   and Renaissance arcades.
 title: Freudenstadt
 type: location
+nature: 5.1
+leisure: 6.6
+adventure: 3.1
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Freudenstadt sits at around 730 metres in the Northern Black Forest, and its name — "city of joy" — was chosen by Duke Frederick I of Württemberg when he founded the town in 1599. The centrepiece is the [Marktplatz](/europe/germany/badenwrttemberg/freudenstadt/marktplatz), at nearly five hectares the largest enclosed market square in Germany, ringed by Renaissance arcades and anchored by a Lutheran church whose two wings meet at a right angle — a curiosity of Protestant architecture that dates to the same founding moment as the square itself.

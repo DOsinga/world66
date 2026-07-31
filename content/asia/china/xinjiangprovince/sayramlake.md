@@ -11,6 +11,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Sayram_Lake
 title: Sayram Lake
 type: location
+nature: 6.3
+leisure: 5.0
+adventure: 4.8
+city_culture: 3.6
+historic_culture: 3.6
 ---
 
 Sayram Lake lies at 2,073 metres in Bortala Prefecture, near the Kazakhstan border in northwestern Xinjiang, on the main road between Yining and Ürümqi. It is the largest alpine lake in Xinjiang — about 45 kilometres long and brilliantly blue in the manner of high-altitude bodies of water with little suspended sediment. The surrounding landscape is grassland and bare ridgeline with almost no tree cover, giving views across the lake that feel enormous. In early summer, wildflowers fill the margins and the snowfields on the peaks above the western shore are still white against the sky.

@@ -14,6 +14,11 @@ title: Cosenza
 type: location
 snippet: Northern Calabrian city where the Busento and Crati meet below a Norman-Swabian
   hilltop castle.
+nature: 4.1
+leisure: 5.4
+adventure: 4.0
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Cosenza sits at the confluence of the Busento and Crati rivers, the largest city in northern Calabria and capital of its province. It was the chief city of the ancient Brutii before the Romans took it in 204 BC.

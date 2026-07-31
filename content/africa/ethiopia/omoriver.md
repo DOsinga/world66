@@ -9,6 +9,11 @@ score: 6.66
 loc_type: city
 snippet: Remote Ethiopian river valley where the lower Omo holds Indigenous cultures
   and ancient archaeological sites.
+nature: 8.0
+leisure: 1.9
+adventure: 8.0
+city_culture: 2.6
+historic_culture: 2.6
 ---
 
 The Omo River runs from the Ethiopian Highlands south to Lake Turkana on the Kenyan border, carving its way through some of the most remote and culturally rich territory in East Africa. The [lower Omo valley](/africa/ethiopia/omoriver/lower_omo_valley_peoples) is home to several indigenous peoples — the Mursi, Hamer, Karo, Daasanach, and others — who maintain traditions largely unchanged by the outside world. UNESCO recognised the Omo valley as a World Heritage Site in 1980; the region remains one of the most ethnically diverse places on earth.

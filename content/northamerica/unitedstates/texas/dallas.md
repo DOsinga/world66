@@ -10,6 +10,11 @@ snippet: North Texas metropolis of skyline swagger, Arts District culture, barbe
   shopping, and sports.
 title: Dallas
 type: location
+nature: 2.8
+leisure: 6.1
+adventure: 3.3
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Dallas is big, bold, and unapologetic about it. The second-largest city in Texas and seventh-largest in the US, it has the skyline, the sports teams, and the shopping to back up its swagger. This is the birthplace of Neiman Marcus, home to the Dallas Cowboys, Mavericks, and Stars, and a city where people dress up just to go to the grocery store.

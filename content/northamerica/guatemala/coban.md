@@ -14,6 +14,11 @@ title: Cobán
 type: location
 snippet: Cloudy Alta Verapaz capital surrounded by coffee, cardamom hills, and the
   limestone pools of Semuc Champey.
+nature: 5.8
+leisure: 4.7
+adventure: 4.9
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Cobán is the capital of Alta Verapaz, set among cloud-covered hills at 1,320 metres, about four hours north of Guatemala City by bus. The surrounding region is one of the wettest in Guatemala — the clouds rarely lift entirely, giving it a permanently green, misty character that locals call "chipi-chipi" (fine drizzle).

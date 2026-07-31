@@ -14,6 +14,11 @@ snippet: Pennsylvania university town centered on Penn State, football weekends,
   a lively College Avenue.
 title: State College
 type: location
+nature: 3.9
+leisure: 5.6
+adventure: 3.4
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 State College is a university town in the geographic center of Pennsylvania, home to Penn State University and its Nittany Lions. On football weekends in autumn, the population swells as fans descend on [Beaver Stadium](/northamerica/unitedstates/pennsylvania/state_college/beaver_stadium), one of the largest stadiums in the world.

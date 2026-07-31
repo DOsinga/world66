@@ -10,6 +10,11 @@ snippet: Spacious Kyrgyz capital of Soviet boulevards and leafy parks beneath th
   Kyrgyz Ala-Too mountains.
 title: Bishkek
 type: location
+nature: 3.8
+leisure: 4.4
+adventure: 5.5
+city_culture: 7.0
+historic_culture: 7.0
 ---
 
 Bishkek is a classic Soviet-planned city of wide boulevards, marble government buildings and shady parks, sitting at 800 metres on the northern edge of the Kyrgyz Ala-Too mountains. With a population of around one million, it feels spacious and green in summer, though architecturally it won't win any beauty contests.

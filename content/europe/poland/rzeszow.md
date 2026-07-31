@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Rzesz%C3%B3w
 title: Rzeszow
 type: location
+nature: 3.3
+leisure: 5.7
+adventure: 3.3
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Rzeszów is the largest city in southeastern Poland and the capital of the Subcarpathian Voivodeship — a regional centre of about 200,000 people that most travellers blow through on their way to Krakow, the Bieszczady mountains, or the Ukrainian border. That is a small mistake. The city has a pleasant Old Town, a properly grand Lubomirski castle, and a level of energy that comes from being a fast-growing university town with a serious aerospace industry on its outskirts.

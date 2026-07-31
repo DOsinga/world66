@@ -14,6 +14,11 @@ snippet: Steep Cinque Terre fishing village, where colourful houses climb above 
   narrow Ligurian harbour.
 title: Riomaggiore
 type: location
+nature: 3.7
+leisure: 7.9
+adventure: 2.0
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Riomaggiore is the southernmost of the Cinque Terre villages, clustered in a narrow valley where the Rivus Major stream once ran down to the sea. The village stacks up both sides of the gorge in colourful towers — buildings lean against each other across the stepped lanes, with the sea visible at the bottom. It is connected to Manarola to the north by the Via dell'Amore, a cliffside path that was closed for years following landslide damage and reopened in 2024.

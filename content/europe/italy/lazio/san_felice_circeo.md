@@ -14,6 +14,11 @@ snippet: Pontine coast town below Monte Circeo, where wooded sea cliffs meet Hom
   legend.
 title: San Felice Circeo
 type: location
+nature: 5.2
+leisure: 6.9
+adventure: 3.0
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 San Felice Circeo is a small town on the Pontine coast of Lazio, about 100 kilometres south of Rome, built on the lower slopes of Monte Circeo — a rocky promontory that rises sharply from the surrounding flat plain and, seen from the right angle, traces a profile resembling a reclining woman's face.

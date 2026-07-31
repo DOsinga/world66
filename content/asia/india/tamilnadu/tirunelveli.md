@@ -9,6 +9,11 @@ snippet: Southern Tamil Nadu city on the Thamirabarani River, known for Nellaiap
   Temple and wheat halwa.
 title: Tirunelveli
 type: location
+nature: 4.0
+leisure: 4.6
+adventure: 4.8
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Tirunelveli is a city in the far south of Tamil Nadu, about 160 km from the southern tip of India at Kanyakumari. It sits on the Thamirabarani River, one of the few perennial rivers in Tamil Nadu, which keeps the surrounding district unusually green for this dry corner of the state.

@@ -14,6 +14,11 @@ snippet: Vietnamese island in the Gulf of Thailand, split between forested natio
   park and fast-growing beach resorts.
 title: Phu Quoc
 type: location
+nature: 5.9
+leisure: 8.1
+adventure: 1.9
+city_culture: 2.5
+historic_culture: 2.5
 ---
 
 Phu Quoc is Vietnam's largest island, a 50-km-long teardrop of jungle and beaches lying in the Gulf of Thailand near the Cambodian border. Until the late 2000s it was a minor fishing outpost; since then it has been transformed by an airport, luxury resorts, and a casino-packed development zone in the south into one of Southeast Asia's most visited beach destinations. The transformation has been rapid and uneven — the north of the island remains mostly forested national park, the west coast has some excellent beaches, and the south is a construction zone of international hotel brands.

@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Lanciano_Cathedral
 title: Lanciano
 type: location
+nature: 3.0
+leisure: 5.4
+adventure: 4.2
+city_culture: 7.6
+historic_culture: 7.6
 ---
 
 Lanciano is one of those Abruzzo towns that rewards slowing down. It sits inland from the Adriatic, close enough to [Pescara](/europe/italy/abruzzo/pescara) for an easy trip but with a much older feel: brick churches, narrow lanes, sudden views over the Sangro valley, and a centre that still moves at market-town pace.

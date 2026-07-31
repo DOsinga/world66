@@ -14,6 +14,11 @@ snippet: Ancient Phoenician and Roman site in Tunisia, now inland after its harb
   silted up.
 title: Utique
 type: location
+nature: 3.3
+leisure: 3.7
+adventure: 5.8
+city_culture: 7.4
+historic_culture: 7.4
 ---
 
 Utique (Utica in Latin) was one of the oldest Phoenician settlements in North Africa, founded according to tradition around 1100 BC — centuries before Carthage. For a time it was the most important city on the Tunisian coast, and after Rome destroyed Carthage in 146 BC, Utica served as the capital of the new Roman province of Africa. Its fortunes declined as its harbour silted up; the coastline has since shifted several kilometres north, leaving the ruins stranded inland.

@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Kamloops
 title: Kamloops
 type: location
+nature: 6.0
+leisure: 5.6
+adventure: 4.1
+city_culture: 3.7
+historic_culture: 3.7
 ---
 
 Kamloops sits at the confluence of the North and South Thompson Rivers in the dry interior of [British Columbia](/northamerica/canada/britishcolumbia). With over 2,000 hours of sunshine a year, it is one of the warmest and driest cities in Canada, surrounded by sagebrush-covered hills that look more like the American West than most people's idea of BC. The city has a population of about 100,000 and serves as a major transportation hub where the Trans-Canada Highway and the Yellowhead Highway meet.

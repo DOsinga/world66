@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Melilla
 title: Melilla
 type: location
+nature: 4.0
+leisure: 5.8
+adventure: 3.8
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Melilla is one of two Spanish enclaves on the coast of [Morocco](/africa/morocco), a small autonomous city that has been in Spanish hands since 1497. It sits on the eastern edge of the Rif mountains, facing the Mediterranean.

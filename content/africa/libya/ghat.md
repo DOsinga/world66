@@ -16,6 +16,11 @@ sources:
 - https://whc.unesco.org/en/list/287
 title: Ghat
 type: location
+nature: 5.5
+leisure: 1.9
+adventure: 7.4
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Ghat is an oasis town on Libya's far south-western edge, close to Algeria and deep in Tuareg country. It sits where old Sahara caravan routes once threaded between the dunes, the Acacus Mountains, and the Tassili n'Ajjer beyond the border.

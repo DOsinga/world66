@@ -14,6 +14,11 @@ snippet: Baroque Hungarian city at three rivers, with a compact old town between
   and Vienna.
 title: Győr
 type: location
+nature: 3.2
+leisure: 5.7
+adventure: 3.4
+city_culture: 7.0
+historic_culture: 7.0
 ---
 
 Győr (pronounced "djur") is Hungary's third-largest city, sitting at the confluence of three rivers — the Rába, the Rábca, and the Mosoni-Duna — in the northwest of the country between Budapest and Vienna. It is one of Central Europe's better-preserved Baroque cities, and far fewer tourists make it here than to the capital, which makes wandering its historic core a genuine pleasure.

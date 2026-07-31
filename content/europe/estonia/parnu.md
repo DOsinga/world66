@@ -16,6 +16,11 @@ sources:
 - https://visitestonia.com/en/where-to-go/west-estonia/parnu
 title: Pärnu
 type: location
+nature: 3.6
+leisure: 7.5
+adventure: 2.0
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Pärnu is Estonia's summer capital, a low-key resort city on the country's southwest coast where the beach matters more than the skyline. In July, Estonians come for warm shallow water, long evenings, spa treatments, and the easy ritual of walking from the old centre through [Beach Park](/europe/estonia/parnu/beach_park) to [Pärnu Beach](/europe/estonia/parnu/parnu_beach).

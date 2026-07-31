@@ -14,6 +14,11 @@ snippet: Kingston Harbour village built on pirate history, sunken earthquake rui
   and Fort Charles.
 title: Port Royal
 type: location
+nature: 3.4
+leisure: 6.5
+adventure: 3.1
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Port Royal sits at the tip of the Palisadoes spit that encloses Kingston Harbour. In the 17th century it was one of the largest cities in the Americas — a notorious pirate haven and trading post where Henry Morgan and other buccaneers brought their plunder. In 1692 a massive earthquake dropped much of the city into the harbour, killing thousands instantly. The sunken city and its cargo are still down there.

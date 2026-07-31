@@ -10,6 +10,11 @@ title: Naivasha
 type: location
 snippet: Rift Valley town by Lake Naivasha, with boat trips, Crescent Island walks,
   and Hell's Gate nearby.
+nature: 7.4
+leisure: 6.3
+adventure: 3.5
+city_culture: 2.2
+historic_culture: 2.2
 ---
 
 Naivasha is a moderately sized town about 90 km northwest of [Nairobi](/africa/kenya/nairobi), at the foot of the Great Rift Valley escarpment. It is the gateway to several of [Kenya's](/africa/kenya) most accessible natural attractions — and one of the few parts of the country where you can spend a rewarding few days without a safari vehicle.

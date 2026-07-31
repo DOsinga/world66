@@ -10,6 +10,11 @@ snippet: Small Aberdeenshire coastal village with a pink-sand beach, golf links,
   Dracula-linked Slains Castle.
 title: Cruden Bay
 type: location
+nature: 5.2
+leisure: 5.3
+adventure: 4.0
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Cruden Bay is a small coastal village in Aberdeenshire, about 25 miles north of Aberdeen. It has a spectacular sweep of [pink-sand beach](/europe/unitedkingdom/scotland/cruden_bay/cruden_bay_beach), a world-class [golf links](/europe/unitedkingdom/scotland/cruden_bay/cruden_bay_golf_club), and the dramatic clifftop ruins of [Slains Castle](/europe/unitedkingdom/scotland/cruden_bay/slains_castle) — the building widely believed to have inspired Bram Stoker's vision of Castle Dracula. Stoker spent several summers in the village in the 1890s, writing much of the novel here.

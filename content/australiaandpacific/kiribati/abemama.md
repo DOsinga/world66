@@ -14,6 +14,11 @@ snippet: Remote Gilbert Islands atoll known as the Land of Moonlight and Robert 
   Stevenson's Pacific stay.
 title: Abemama
 type: location
+nature: 8.7
+leisure: 3.4
+adventure: 6.5
+city_culture: 1.6
+historic_culture: 1.6
 ---
 
 *[Australia and Pacific](/australiaandpacific) > [Kiribati](/australiaandpacific/kiribati) > Abemama*

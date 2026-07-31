@@ -10,6 +10,11 @@ snippet: Southwestern Hungarian spa town built around mineral-rich thermal water
   while drilling for oil.
 title: Zalakaros
 type: location
+nature: 4.6
+leisure: 7.1
+adventure: 2.5
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Zalakaros is a small spa town in southwestern Hungary, near Lake Balaton. The town's thermal water was discovered by accident in 1962, when drillers searching for oil hit a spring at 2,300 metres depth — the water comes up at 96°C and is rich in minerals.

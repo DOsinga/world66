@@ -13,6 +13,11 @@ title: Lübeck
 type: location
 snippet: Hanseatic brick city with a UNESCO-listed island old town encircled by the
   Trave.
+nature: 2.4
+leisure: 6.9
+adventure: 2.4
+city_culture: 7.9
+historic_culture: 7.9
 ---
 
 Lübeck is the old capital of the **Hanseatic League**, the medieval trading federation that once dominated the Baltic and the North Sea, and for several centuries it was probably the richest and most powerful city in northern Europe. Today it is a UNESCO-listed old town of about 215,000 people in Schleswig-Holstein, an hour from Hamburg by train. The entire medieval core — an egg-shaped island encircled by the Trave river and a moat — was heavily bombed in 1942 (the first significant attack by RAF Bomber Command on a German city) but rebuilt with great care, and much of what you see is the original brick.

@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Berbera
 title: Berbera
 type: location
+nature: 6.5
+leisure: 1.1
+adventure: 8.6
+city_culture: 4.0
+historic_culture: 4.0
 ---
 
 Berbera is a coastal city on the Gulf of Aden in the northwestern corner of Somaliland — hot, port-dominated, and quietly important to the economy of the Horn of Africa. It is not an easy place to visit, but travellers who make the effort find [one of the finest beaches in East Africa](/africa/somaliland/berbera/berbera_beach), a functioning deep-water [port](/africa/somaliland/berbera/berbera_port) that handles a substantial share of landlocked Ethiopia's trade, and [shipwrecks](/africa/somaliland/berbera/berbera_shipwrecks) lying in snorkellable depths just offshore.

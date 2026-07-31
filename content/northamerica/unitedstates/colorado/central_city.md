@@ -14,6 +14,11 @@ snippet: Colorado mining town in the Rockies, where gold-rush Victorian streets 
   share space with casinos.
 title: Central City
 type: location
+nature: 4.9
+leisure: 5.9
+adventure: 3.6
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Central City sits in Gilpin County in the Colorado Rockies, about an hour west of Denver. During the gold rush of the 1850s and 1860s it was known as the "Richest Square Mile on Earth," and the Victorian-era architecture left over from that era still gives the town a distinctive character. The whole streetscape is protected as part of the [Central City/Black Hawk Historic District](/northamerica/unitedstates/colorado/central_city/historic_district), and the [Opera House](/northamerica/unitedstates/colorado/central_city/opera_house) draws audiences from Denver every summer.

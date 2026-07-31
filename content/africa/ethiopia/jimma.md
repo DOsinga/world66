@@ -19,6 +19,11 @@ sources:
 - https://en.wikipedia.org/wiki/Jimma_University
 title: Jimma
 type: location
+nature: 5.5
+leisure: 4.0
+adventure: 5.6
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Jimma is the largest city in southwestern Ethiopia, the historical capital of the Kingdom of Jimma, and the city most closely associated with the origin of coffee. This is not a tourist slogan: the forests around Jimma lie in the Kaffa highlands from which the word "coffee" is thought to derive, and wild Coffea arabica trees still grow here under forest canopy much as they did before anyone thought to cultivate them. The [Coffee Pot Monument](/africa/ethiopia/jimma/coffee_pot_monument) at the city's heart makes the claim explicit, but Jimma earns it.

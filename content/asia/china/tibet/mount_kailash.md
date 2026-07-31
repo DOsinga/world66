@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Mount_Kailash
 title: Mount Kailash
 type: location
+nature: 7.9
+leisure: 2.3
+adventure: 7.7
+city_culture: 2.9
+historic_culture: 2.9
 ---
 
 Mount Kailash — known in Tibetan as Kang Rinpoche, "Precious Snow Mountain" — rises to 6,714 metres in the remote far west of Tibet, near the borders of India and Nepal. It has never been climbed and, under the current rules of the Chinese authorities, it never will be: the mountain is considered too sacred for an ascent, and the nearest permitted approach is the base of its flanks. Within a radius of 30 kilometres, four of Asia's great rivers rise: the Indus, the Sutlej, the Brahmaputra, and the Karnali. In Hindu cosmology it is the throne of Shiva; in Tibetan Buddhism it is the most sacred mountain in the world; Jains believe their first prophet attained liberation on its slopes; and the ancient Bon religion regards it as the axis of the universe. Very few mountains have meant so much to so many for so long.

@@ -14,6 +14,11 @@ title: Palanga
 type: location
 snippet: Baltic seaside resort with long sandy beaches, pine-backed dunes, a pier,
   and a major amber museum.
+nature: 4.0
+leisure: 7.6
+adventure: 1.9
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Palanga is Lithuania's main seaside resort, a small town on the Baltic coast that transforms every summer into a busy holiday destination. The beach stretches for kilometres in both directions — wide, sandy, and backed by dunes and pine forests. The [Palanga Pier](/europe/lithuania/palanga/palanga_pier) extends into the sea and serves as the town's social centre on warm evenings, when half of Palanga gathers there to watch the sunset.

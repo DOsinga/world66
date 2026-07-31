@@ -15,6 +15,11 @@ snippet: Hawaiian capital on Oahu's south shore, where Waikiki high-rises sit be
   the Ko'olau mountains.
 title: Honolulu
 type: location
+nature: 4.1
+leisure: 8.4
+adventure: 1.6
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Honolulu is the capital of Hawaii and the only major city in the state, spread along the southern shore of [Oahu](/northamerica/unitedstates/hawaii/oahu) between the Ko'olau mountains and the Pacific. For most visitors it will be the first place they arrive, and first impressions can be misleading — the high-rise sprawl along Waikiki looks like any resort strip, but the city has real depth and character once you get past the tourist corridor.

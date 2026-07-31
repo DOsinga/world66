@@ -13,6 +13,11 @@ sources:
 - https://en.wikipedia.org/wiki/University_of_New_Hampshire
 title: Durham
 type: location
+nature: 3.8
+leisure: 5.6
+adventure: 3.4
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Durham is a compact college town on the Oyster River in southeastern New Hampshire, built almost entirely around the University of New Hampshire. The campus anchors the centre of town and sets the rhythm of daily life: the population nearly doubles during the academic year, when students fill the coffee shops and bars along Main Street, then drops sharply in summer when things turn quiet and unhurried.

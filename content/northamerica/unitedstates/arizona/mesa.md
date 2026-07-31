@@ -9,6 +9,11 @@ snippet: Sonoran Desert city east of Phoenix, with revived downtown arts and acc
   to Apache Trail country.
 title: Mesa
 type: location
+nature: 4.0
+leisure: 5.7
+adventure: 3.6
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Mesa sits just east of [Phoenix](/northamerica/unitedstates/arizona/phoenix) in the heart of the Sonoran Desert, and while it may not have Phoenix's name recognition, it has carved out its own identity as a genuinely pleasant base for exploring central Arizona. With a population of over half a million, it is the third-largest city in the state.

@@ -14,6 +14,11 @@ title: Azrou
 type: location
 snippet: Middle Atlas town in Morocco, known for cedar forests and Barbary macaques
   nearby.
+nature: 5.3
+leisure: 4.7
+adventure: 4.9
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Azrou is a Berber market town in the Middle Atlas, about 80 km south of [Fez](/africa/morocco/fez), sitting at 1,200 metres between steep wooded hills and a volcanic rock outcrop. The name comes from the Berber word for "rock" — see the [Azrou Rock](/africa/morocco/azrou/azrou_rock) in the centre of the old quarter. After the souk chaos of the imperial cities, it feels like somewhere people actually live.

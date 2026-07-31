@@ -14,6 +14,11 @@ snippet: Small industrial town in southern Tamil Nadu, known locally for kadalai
   peanut brittle.
 title: Kovilpatti
 type: location
+nature: 4.0
+leisure: 4.7
+adventure: 4.4
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Kovilpatti is a small industrial town in southern Tamil Nadu, about 50 km from Thoothukudi (Tuticorin) and 55 km from Tirunelveli. It's known for its [kadalai mittai](/asia/india/tamilnadu/kovilpatti/kadalai_mittai_stalls) — a hard peanut brittle candy that's a local speciality sold at stalls around the town — and as a minor transport junction in the southern districts.

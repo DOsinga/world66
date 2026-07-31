@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Kaiping
 title: Kaiping
 type: location
+nature: 4.2
+leisure: 5.0
+adventure: 4.1
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Kaiping is home to one of the strangest and most compelling landscapes in southern China: a countryside scattered with hundreds of fortified towers, called diaolou, built by returned emigrants in the early twentieth century. The towers are part defensive structure, part status symbol, and entirely the product of a particular historical moment — the years between 1900 and 1940 when Cantonese labourers who had built railways in North America and worked the goldfields of Australia came back with foreign money and foreign ideas. The result is an architecture like nothing else: five- and six-storey watchtowers in baroque, neoclassical, and Moorish styles, rising from rice paddies and lotus ponds, some of them abandoned for decades, their clocks stopped, their rooms still furnished. A UNESCO World Heritage designation in 2007 has formalized the obvious: this is extraordinary.

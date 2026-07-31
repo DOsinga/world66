@@ -13,6 +13,11 @@ snippet: Thuringian city with a largely preserved old town and the inhabited med
   Krämerbrücke.
 title: Erfurt
 type: location
+nature: 3.6
+leisure: 5.9
+adventure: 3.2
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Of all Germany's large cities, Erfurt is the one most redolent of pre-war Germany. Although it lost a couple of important monuments in bombing raids, it was otherwise little damaged in World War II — and its streets of grand turn-of-the-century shopfronts were saved from postwar developers by the fact that the city ended up in East Germany.

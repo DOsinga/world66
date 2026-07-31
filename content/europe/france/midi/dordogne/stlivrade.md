@@ -10,6 +10,11 @@ snippet: Quiet Lot-et-Garonne market town on the Lot, surrounded by orchards and
   country.
 title: Sainte-Livrade-sur-Lot
 type: location
+nature: 3.6
+leisure: 6.6
+adventure: 2.7
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Sainte-Livrade-sur-Lot is a quiet market town on the Lot river, south of [Bergerac](/europe/france/midi/dordogne/bergerac) in the Lot-et-Garonne department. It sits in the heart of fruit-growing country — plums, strawberries, and the famous Agen prunes all come from the surrounding orchards.

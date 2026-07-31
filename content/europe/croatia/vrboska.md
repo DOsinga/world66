@@ -14,6 +14,11 @@ snippet: Small Hvar inlet village where stone bridges and a fortified church fra
   a quieter island harbour.
 title: Vrboska
 type: location
+nature: 5.0
+leisure: 7.9
+adventure: 2.0
+city_culture: 3.6
+historic_culture: 3.6
 ---
 
 Vrboska is the smallest settlement on [Hvar](/europe/croatia/hvar) island, tucked into a narrow, winding inlet that has earned it the nickname "Little Venice." Stone bridges arch over the channel connecting the two halves of the village, and the houses climb the slopes on either side in a tangle of narrow lanes, stone steps, and flowering gardens. It is a quieter, more intimate alternative to the bustle of Hvar Town.

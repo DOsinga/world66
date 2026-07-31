@@ -16,6 +16,11 @@ sources:
 - https://www.musee-ceret.com/
 title: Ceret
 type: location
+nature: 4.4
+leisure: 6.6
+adventure: 3.1
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Ceret is a small Catalan town in the foothills of the Pyrenees, close to the Spanish border but very much its own place. It has plane-shaded streets, a good Saturday market, red-tiled roofs, and one of the best modern art museums in southern France.

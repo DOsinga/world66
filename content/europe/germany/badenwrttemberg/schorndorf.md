@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Schorndorf
 title: Schorndorf
 type: location
+nature: 3.5
+leisure: 5.8
+adventure: 3.3
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Schorndorf is a small town in the Rems Valley east of [Stuttgart](/europe/germany/badenwrttemberg/stuttgart), best known as the birthplace of Gottlieb Daimler, the automotive pioneer. His [birth house on Höllgasse](/europe/germany/badenwrttemberg/schorndorf/gottlieb_daimler_birth_house) is now a small museum. The [old town centre](/europe/germany/badenwrttemberg/schorndorf/altstadt) is well-preserved — half-timbered houses around a market square, the kind of quiet, handsome Swabian town that rarely makes it into guidebooks but rewards a wander.

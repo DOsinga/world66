@@ -12,6 +12,11 @@ snippet: Sri Lankan commercial capital where colonial Fort, Pettah markets, and 
   Face meet the Indian Ocean.
 title: Colombo
 type: location
+nature: 2.8
+leisure: 6.8
+adventure: 3.0
+city_culture: 7.3
+historic_culture: 7.3
 ---
 
 Colombo is Sri Lanka's commercial capital, largest city, and the place most visitors arrive but few stop for long — which is a shame, because in the last decade the city has become genuinely interesting. The war that dragged on until 2009 kept tourism away from the capital, and the scars are still visible in the guarded checkpoints near government buildings. But the post-war years have brought a wave of construction, a lively restaurant scene, and a new confidence that is worth a day or two of anyone's time on the way to the hill country or the beaches.

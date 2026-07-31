@@ -13,6 +13,11 @@ snippet: Elba's fortified harbour capital, ringed by Medici ramparts and stepped
   lanes above the ferry port.
 title: Portoferraio
 type: location
+nature: 3.8
+leisure: 5.6
+adventure: 3.9
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Portoferraio is the capital of [Elba](/europe/italy/tuscany/elba) and where most visitors first set foot on the island — the ferry from Piombino docks right in the harbour. The town wraps around what has long been considered one of the safest natural ports in the Mediterranean, and the Medici fortifications that ring the old centre still give it a dramatic profile from the water.

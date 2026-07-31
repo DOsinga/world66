@@ -9,6 +9,11 @@ score: 5.52
 snippet: Commuter town north of London, named for a surviving medieval Eleanor Cross
 title: Waltham Cross
 type: location
+nature: 4.1
+leisure: 3.9
+adventure: 5.1
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Waltham Cross takes its name from one of the twelve Eleanor Crosses erected by Edward I in 1291 to mark the resting places of his wife's funeral cortege on its journey from Lincoln to London. The [cross](/europe/unitedkingdom/england/eastern_england/walthamcross/eleanor_cross) still stands in the town centre, heavily restored but one of only three originals to survive. It is an extraordinary piece of medieval craftsmanship to find in what is now a busy commuter town on the northern edge of London.

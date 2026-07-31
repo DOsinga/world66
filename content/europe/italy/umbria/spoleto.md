@@ -14,6 +14,11 @@ title: Spoleto
 type: location
 snippet: Umbrian hill town layered with Roman, medieval, and festival history above
   the Tessino valley.
+nature: 3.0
+leisure: 6.7
+adventure: 3.0
+city_culture: 7.4
+historic_culture: 7.4
 ---
 
 Spoleto is a hilltop town in southeastern Umbria that has been accumulating layers of history for nearly three thousand years. Roman remains sit beneath medieval walls, Romanesque churches stand next to baroque palazzi, and the whole thing perches dramatically above the Tessino valley with the Apennines as a backdrop.

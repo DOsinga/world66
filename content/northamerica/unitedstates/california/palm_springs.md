@@ -14,6 +14,11 @@ image: palm_springs.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kaufman_Desert_Home.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Pmeulbroek
+nature: 5.1
+leisure: 7.9
+adventure: 2.0
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 Palm Springs sits in the Coachella Valley, ringed by mountains on all sides and baked by desert sun for 354 days a year. It was a glamorous midcentury retreat — Frank Sinatra, Dean Martin, and the Rat Pack crowd all had homes here — and that era still defines the town's character. The [midcentury modern architecture](/northamerica/unitedstates/california/palm_springs/modernism_architecture) is the best-preserved collection in the United States, and Modernism Week each February draws architecture fans from around the world.

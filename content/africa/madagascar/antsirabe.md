@@ -10,6 +10,11 @@ snippet: Highland market town in Madagascar, known for pousse-pousse transport, 
   and a cool plateau climate.
 title: Antsirabe
 type: location
+nature: 4.7
+leisure: 4.9
+adventure: 4.7
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Antsirabe is a highland town in Madagascar's central plateau, sitting at 1,500 metres elevation about 170 km south of Antananarivo. The altitude gives it a cooler climate than the coast, and Norwegian missionaries established it as a health resort in the 19th century. Today it is one of Madagascar's busiest market towns and an important centre for the [gem trade](/africa/madagascar/antsirabe/gem_market): street vendors and stalls sell precious and semi-precious stones, and in some places you can watch them being cut and polished.

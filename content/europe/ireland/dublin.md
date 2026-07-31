@@ -15,6 +15,11 @@ title: Dublin
 snippet: Compact Irish capital on the Liffey, where literary history still shapes
   the pubs and Georgian streets.
 type: location
+nature: 1.1
+leisure: 8.1
+adventure: 1.7
+city_culture: 9.1
+historic_culture: 9.1
 ---
 
 Dublin is a compact, walkable capital that is easy to underestimate. The city itself is smaller than most European capitals — the old centre can be crossed on foot in twenty minutes — but it has produced four Nobel laureates in literature, three of the most famous pubs in the world, and a cultural life that punches well above its weight. You come for the pubs, the books, and the people; most visitors leave wanting to come back.

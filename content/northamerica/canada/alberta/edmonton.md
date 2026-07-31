@@ -15,6 +15,11 @@ snippet: Northern Alberta capital built around the North Saskatchewan River Vall
   vast urban parkland.
 title: Edmonton
 type: location
+nature: 3.6
+leisure: 5.3
+adventure: 3.9
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Edmonton is the capital city of Alberta and sits further north than Moscow — a fact that shapes everything about it, from the design of its buildings to the particular intensity of its summer festival season. It is a city of about one million people, built on both banks of a deep river valley, with a cultural life that repeatedly surprises visitors who arrive expecting a resource industry town and nothing more.

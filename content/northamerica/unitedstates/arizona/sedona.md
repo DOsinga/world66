@@ -14,6 +14,11 @@ sources:
 - https://en.wikipedia.org/wiki/Sedona,_Arizona
 title: Sedona
 type: location
+nature: 5.8
+leisure: 7.6
+adventure: 2.4
+city_culture: 3.1
+historic_culture: 3.1
 ---
 
 Sedona sits in a red rock canyon in north-central Arizona at the foot of the Colorado Plateau, and it earns the superlatives thrown at it. The formations — [Cathedral Rock](/northamerica/unitedstates/arizona/sedona/cathedral_rock), [Bell Rock](/northamerica/unitedstates/arizona/sedona/bell_rock), Courthouse Butte, the Margs Draw ridgeline — glow red and orange in the morning light with a vividness that feels almost artificial. Oak Creek runs through town and up [Oak Creek Canyon](/northamerica/unitedstates/arizona/sedona/oak_creek_canyon) to the north, adding a strip of green cottonwoods against the red stone.

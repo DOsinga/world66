@@ -9,6 +9,11 @@ snippet: Adirondack lake famed for clear spring-fed water and French and Indian 
   forts between Hudson and Champlain routes.
 title: Lake George
 type: location
+nature: 5.9
+leisure: 7.1
+adventure: 2.6
+city_culture: 3.1
+historic_culture: 3.1
 ---
 
 Thomas Jefferson called Lake George "the most beautiful water I ever saw" when he visited in 1791, and the lake still earns the compliment. Stretching 32 miles through the southern Adirondacks, fed by subterranean springs so clean that lakeside residents drink straight from it, Lake George is one of the clearest large lakes in the eastern United States.

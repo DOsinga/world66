@@ -16,6 +16,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Peel_(Isle_of_Man)
 title: Peel
 type: location
+nature: 5.0
+leisure: 4.1
+adventure: 5.1
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 *Europe > Isle of Man > Peel*

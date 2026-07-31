@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/New_Georgia_Islands
 title: New Georgia
 type: location
+nature: 8.2
+leisure: 4.0
+adventure: 5.7
+city_culture: 2.3
+historic_culture: 2.3
 ---
 
 New Georgia is the largest island in the Western Province of the [Solomon Islands](/australiaandpacific/solomonislands) and the hub of some of the best diving in the Pacific. The island sits at the edge of [Roviana Lagoon](/australiaandpacific/solomonislands/newgeorgia/roviana_lagoon) — a sheltered expanse of turquoise water enclosed by barrier reefs — where pristine coral walls drop into deep blue water teeming with sharks, barracuda, manta rays, and sea turtles. Visibility regularly exceeds 30 metres.

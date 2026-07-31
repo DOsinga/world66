@@ -7,6 +7,11 @@ snippet: Small northern Latvian town on the Salaca River, surrounded by pine for
   and sandstone banks.
 title: Mazsalaca
 type: location
+nature: 4.6
+leisure: 3.5
+adventure: 5.7
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Mazsalaca is a small town in northern Latvia, close to the Estonian border in Valmiera Municipality. The town sits on the Salaca river, which drains into the Gulf of Riga and is known for salmon fishing. It is a quiet, rural place — the kind of small Latvian town that sees very few foreign visitors and is all the more genuine for it.

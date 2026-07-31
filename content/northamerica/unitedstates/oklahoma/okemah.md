@@ -9,6 +9,11 @@ score: 5.44
 snippet: Small Oklahoma town best known as the birthplace of folk singer Woody Guthrie.
 title: Okemah
 type: location
+nature: 4.4
+leisure: 4.4
+adventure: 4.7
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Okemah is a small town of about 3,300 people in Okfuskee County, [Oklahoma](/northamerica/unitedstates/oklahoma). Its main claim to fame is as the birthplace of Woody Guthrie, the folk singer and songwriter who wrote "This Land Is Your Land." A sign on the edge of town once read "a singing town" — though the relationship between Okemah and its most famous son has not always been comfortable. A [bronze statue of Guthrie](/northamerica/unitedstates/oklahoma/okemah/woody_guthrie_statue), unveiled in 2018, now stands on the courthouse square.

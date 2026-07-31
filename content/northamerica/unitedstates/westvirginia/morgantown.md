@@ -14,6 +14,11 @@ sources:
 - https://en.wikipedia.org/wiki/Coopers_Rock_State_Forest
 title: Morgantown
 type: location
+nature: 4.3
+leisure: 4.6
+adventure: 4.6
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Morgantown is West Virginia University's town, and the university shapes everything about it — the energy, the nightlife, the rhythm of the year. Visit during the academic year and you'll find a lively, quasi-bohemian atmosphere that belies the surrounding Appalachian hills. Visit in summer and the place goes quiet. Plan accordingly.

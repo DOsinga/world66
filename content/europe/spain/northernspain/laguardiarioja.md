@@ -14,6 +14,11 @@ snippet: Walled Rioja Alavesa wine town honeycombed with centuries-old cellars b
   pedestrian lanes
 title: Laguardia
 type: location
+nature: 3.7
+leisure: 6.4
+adventure: 3.4
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Laguardia is a small walled town and the capital of Rioja Alavesa, the Basque Country's wine-producing corner. Its name derives from "La Guarda" (The Guardian) — a reference to its strategic hilltop position on the frontier between Navarra and Castilla. The thirteenth-century walls and cobblestone streets are remarkably well-preserved, and the town is entirely pedestrian.

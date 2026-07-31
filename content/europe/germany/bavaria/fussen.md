@@ -13,6 +13,11 @@ title: Füssen
 type: location
 snippet: Bavarian Alpine town near Neuschwanstein, marking the southern end of the
   Romantic Road.
+nature: 4.3
+leisure: 4.5
+adventure: 4.9
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Füssen is a small Bavarian town at the foot of the Alps, right on the Austrian border, and the southern terminus of the Romantic Road. Most visitors come for one reason: the castles. [Neuschwanstein](/europe/germany/bavaria/fussen/neuschwanstein) — Ludwig II's fairy-tale fantasy perched on a crag above the Pöllat gorge — is just four kilometres away and draws over a million visitors a year. Next to it sits [Hohenschwangau](/europe/germany/bavaria/fussen/hohenschwangau), the more modest but arguably more interesting castle where Ludwig grew up. The classic photograph of Neuschwanstein is from the [Marienbrücke](/europe/germany/bavaria/fussen/marienbrucke) bridge above the gorge.

@@ -14,6 +14,11 @@ snippet: Salvadoran highland city below Santa Ana Volcano, with coffee country, 
   and Maya ruins nearby
 title: Santa Ana
 type: location
+nature: 4.7
+leisure: 4.6
+adventure: 4.9
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Santa Ana is El Salvador's second city, about 65 km west of San Salvador. It sits in a fertile valley on the lower slopes of the Santa Ana Volcano, surrounded by coffee and sugar cane plantations. The city is smaller and considerably calmer than the capital, with a well-preserved historic center that rewards an afternoon of walking.

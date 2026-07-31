@@ -14,6 +14,11 @@ snippet: Planned West Bengal steel city on the Damodar River valley, built for i
   India's heavy industry
 title: Durgapur
 type: location
+nature: 4.0
+leisure: 3.8
+adventure: 5.3
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 *Asia > India > West Bengal > Durgapur*

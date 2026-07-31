@@ -21,6 +21,11 @@ sources:
 - https://en.wikipedia.org/wiki/Ford%27s_Hospital
 title: Coventry
 type: location
+nature: 2.7
+leisure: 6.0
+adventure: 3.0
+city_culture: 7.5
+historic_culture: 7.5
 ---
 
 Coventry is a city defined by reinvention. Devastated by German bombing on the night of 14 November 1940, it was rebuilt in a style that mixed modernist ambition with the scars of what was lost. The result is a city that can feel jarring — brutalist concrete next to medieval fragments — but that is part of what makes it interesting.

@@ -13,6 +13,11 @@ snippet: Eastern Polish university town with a quiet market-centre history and t
   18th-century Ogiński Palace.
 title: Siedlce
 type: location
+nature: 4.4
+leisure: 3.9
+adventure: 5.2
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Siedlce is a quiet university town in eastern Poland, roughly halfway between Warsaw and the Belarusian border. It does not appear on many tourist itineraries, but the town has a certain understated charm rooted in its long history as a regional market center. The [Oginski Palace](/europe/poland/siedlce/oginski_palace), an 18th-century residence built for the powerful Oginski family, now houses parts of the local university and anchors the town's compact historic district.

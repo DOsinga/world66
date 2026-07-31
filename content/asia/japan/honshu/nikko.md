@@ -14,6 +14,11 @@ title: Nikkō
 type: location
 snippet: Mountain temple town north of Tokyo, centered on the ornate Tokugawa shogun
   shrine complex.
+nature: 2.8
+leisure: 5.9
+adventure: 3.8
+city_culture: 8.0
+historic_culture: 8.0
 ---
 
 Nikkō is one of Japan's most celebrated historic sites, set in the mountains of Tochigi Prefecture about 140 km north of Tokyo. The shrine and temple complex here, built to enshrine the Tokugawa shoguns, is the most ornate in the country — extraordinary even by Japanese standards, and a UNESCO World Heritage Site.

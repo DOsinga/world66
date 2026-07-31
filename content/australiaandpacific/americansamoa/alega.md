@@ -10,6 +10,11 @@ snippet: Small Tutuila south-coast village with a village-owned beach and one of
   island's snorkeling spots
 title: Alega
 type: location
+nature: 7.8
+leisure: 3.7
+adventure: 5.9
+city_culture: 2.2
+historic_culture: 2.2
 ---
 
 Alega (pronounced Alenga) is a small village on Tutuila's south coast, about 10 kilometres east of Pago Pago. The beach here is one of the better snorkeling spots on the island.

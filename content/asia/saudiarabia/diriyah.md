@@ -14,6 +14,11 @@ snippet: Historic Riyadh-edge oasis town where At-Turaif preserves the mud-brick
   of the First Saudi State
 title: Dir’iyah
 type: location
+nature: 2.3
+leisure: 4.6
+adventure: 5.1
+city_culture: 8.6
+historic_culture: 8.6
 ---
 
 Dir’iyah sits on the outskirts of [Riyadh](/asia/saudiarabia/riyadh) in the Wadi Hanifa valley, and it is where the story of modern Saudi Arabia begins. This was the ancestral home of the Al Saud family and the capital of the First Saudi State in the 18th century, before the Ottomans destroyed it in 1818.

@@ -12,6 +12,11 @@ sources:
 title: Buchanan
 type: location
 score: 4.91
+nature: 6.3
+leisure: 1.8
+adventure: 7.6
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 *Africa > [Liberia](/africa/liberia) > Buchanan*

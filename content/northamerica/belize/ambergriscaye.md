@@ -14,6 +14,11 @@ snippet: Belize's largest caye, centred on San Pedro and reef access at Hol Chan
   Reserve.
 title: Ambergris Caye
 type: location
+nature: 5.6
+leisure: 8.1
+adventure: 2.0
+city_culture: 2.9
+historic_culture: 2.9
 ---
 
 Ambergris Caye is the largest and most visited of Belize's cayes, running 56 km along the northeastern coast. The main town, San Pedro, has grown from a quiet fishing village into Belize's main tourist hub, with resorts, dive shops, restaurants, and bars lining its sandy streets. Golf carts are the primary transport — cars are rare on the island.

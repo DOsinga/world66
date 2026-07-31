@@ -14,6 +14,11 @@ snippet: Abruzzo beach city on the Adriatic, rebuilt as a modern seafront resort
 title: Pescara
 todo_location_cleanup: done
 type: location
+nature: 4.5
+leisure: 6.3
+adventure: 3.4
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Pescara is Abruzzo's largest city and its main beach resort, stretched along more than 20 km of sandy Adriatic coast. It is a modern city — largely rebuilt after heavy bombing in World War II — with little of the medieval character found in nearby towns like [Chieti](/europe/italy/abruzzo/chieti) or [Lanciano](/europe/italy/abruzzo/lanciano). What it offers instead is a lively seafront, warm summer nights, and a beach and nightlife scene that draws Italians from across the region.

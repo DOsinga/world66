@@ -15,6 +15,11 @@ snippet: Colonial Mexican city of tiled churches and mole poblano, framed by Pop
   and Iztaccíhuatl.
 title: Puebla
 type: location
+nature: 2.1
+leisure: 7.5
+adventure: 2.1
+city_culture: 8.1
+historic_culture: 8.1
 ---
 
 Puebla de los Ángeles is one of [Mexico](/northamerica/mexico)'s great colonial cities — a UNESCO World Heritage Site with over 5,000 buildings from the 16th to 19th centuries, all set against the backdrop of the snowcapped volcanoes Popocatépetl and Iztaccíhuatl. The historic centre is a grid of churches, convents and brightly tiled houses that feels more lived-in and less touristic than many of its peers.

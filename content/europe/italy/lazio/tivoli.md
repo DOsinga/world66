@@ -15,6 +15,11 @@ score: 8.9
 snippet: Hill town east of Rome, famed for Hadrian's Villa and Renaissance water gardens.
 title: Tivoli
 type: location
+nature: 3.3
+leisure: 6.0
+adventure: 3.4
+city_culture: 7.1
+historic_culture: 7.1
 ---
 
 Tivoli sits in the hills about 30 kilometres east of [Rome](/europe/italy/lazio/rome) and has been a retreat from the capital's heat and noise since antiquity. The Emperor Hadrian built his enormous villa complex here; Renaissance cardinals followed with the Villa d'Este and its famous water gardens. The town itself is pleasant enough, perched on a ridge above the Aniene river, but the villas are why you come.

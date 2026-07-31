@@ -10,6 +10,11 @@ snippet: Bohemian Nicoya Peninsula beach village of waterfalls, rocky coves, sur
   shops, and jungle wildlife.
 title: Montezuma
 type: location
+nature: 5.8
+leisure: 7.2
+adventure: 2.8
+city_culture: 3.3
+historic_culture: 3.3
 ---
 
 Montezuma is a small, bohemian beach village at the southern tip of Costa Rica's Nicoya Peninsula. It attracts a mix of backpackers, surfers, yoga practitioners, and nature lovers drawn by its waterfalls, rocky coastline, and laid-back atmosphere. The village itself is tiny -- a handful of streets with restaurants, surf shops, and a weekly organic market in the park.

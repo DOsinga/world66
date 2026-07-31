@@ -14,6 +14,11 @@ image: lassithi_plateau.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kreta-Lass%C3%ADthi-Hochebene.jpg
 image_license: Copyrighted free use
 image_attribution: Haloorange
+nature: 5.5
+leisure: 6.1
+adventure: 3.4
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 The Lassithi plateau is a large fertile plain in the northwest part of eastern [Crete](/europe/greece/crete), ringed by the Dikti Mountains. People have lived here since Neolithic times, around 6000 BC, drawn by the rich alluvial soil deposited each spring as snowmelt runs down from the surrounding peaks.

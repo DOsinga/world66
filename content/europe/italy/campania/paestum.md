@@ -14,6 +14,11 @@ title: Paestum
 type: location
 snippet: Ancient Greek city in Campania where three Doric temples stand almost complete
   in open fields.
+nature: 2.2
+leisure: 6.0
+adventure: 3.7
+city_culture: 8.7
+historic_culture: 8.7
 ---
 
 Paestum is an ancient city in the southern Campania plain, about 85 km south of Naples. It was founded as a Greek colony around 600 BC (originally called Posidonia), flourished under Rome, and was then gradually abandoned as the surrounding plain became malarial. The result is that three remarkably complete Doric temples survive in open fields, with little around them to obscure the view.

@@ -13,6 +13,11 @@ snippet: Istrian fishing town facing the Brijuni Islands, with Roman roots and a
   stone old centre.
 title: Fazana
 type: location
+nature: 4.7
+leisure: 7.5
+adventure: 2.3
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Fazana is a small fishing town on the southwestern Istrian coast, 8 kilometres northwest of [Pula](/europe/croatia/pula). It sits on a low stretch of shoreline sheltered from the open sea by the Brijuni Islands, which are visible just offshore — and Fazana is the departure point for boats to [Brijuni National Park](/europe/croatia/fazana/brijuni_national_park).

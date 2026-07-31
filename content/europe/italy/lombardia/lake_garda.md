@@ -14,6 +14,11 @@ snippet: Northern Italian lake of castles, lemon groves, resort towns, and winds
   below alpine cliffs.
 title: Lake Garda
 type: location
+nature: 3.9
+leisure: 8.6
+adventure: 1.5
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Lake Garda is the largest lake in Italy and one of the most beautiful in Europe. Straddling three regions — Lombardy, Veneto, and Trentino — it offers something for almost every taste: medieval castles, Roman ruins, lemon groves, windsurfing beaches, and elegant Belle Époque resort towns.

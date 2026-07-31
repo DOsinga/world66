@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Siguniangshan_National_Parks
 title: Siguniang Mountain
 type: location
+nature: 8.5
+leisure: 3.9
+adventure: 6.0
+city_culture: 1.9
+historic_culture: 1.9
 ---
 
 Siguniang Mountain — Four Girls Mountain in translation, named for the four peaks that dominate its skyline — is a UNESCO World Heritage Site 220 kilometres west of Chengdu in the Qionglai Mountains, offering some of the most dramatic alpine scenery in Sichuan without requiring the multi-day journey that the Tibetan plateau destinations demand. The highest peak reaches 6,250 metres and is one of the more serious technical climbs in China; the surrounding terrain, accessible through three separate valleys, is open to ordinary visitors.

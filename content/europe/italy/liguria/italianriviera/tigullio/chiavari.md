@@ -16,6 +16,11 @@ snippet: Tigullio Gulf town of arcaded Ligurian streets, beaches, and a noted an
   market.
 title: Chiavari
 type: location
+nature: 4.6
+leisure: 5.9
+adventure: 3.7
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Chiavari is the main town of the Tigullio Gulf, a handsome and prosperous city of around 28,000 people squeezed between the mountains and the sea on the eastern Ligurian Riviera. It lacks the celebrity of nearby Portofino or Cinque Terre, which is much of its appeal: this is a real Ligurian town, one where people actually live and work, with an excellent beach, a fine historic centre, and a famous antiques market.

@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Monza
 title: Monza
 type: location
+nature: 4.2
+leisure: 5.3
+adventure: 4.2
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Monza is a prosperous Lombard city 15 kilometres north of Milan, best known internationally for its Formula 1 racing circuit and its Lombard-Gothic cathedral. It is an old city — the Lombard queen Theodelinda made it her residence in the early 7th century and bequeathed to the cathedral a collection of treasures including the famous Iron Crown of Lombardy — but most visitors come either for the motor racing in September or as a day trip from Milan to see the vast [Royal Villa](/europe/italy/lombardia/monza/royal_villa_of_monza) and its enormous surrounding park.

@@ -14,6 +14,11 @@ snippet: Cajun-country city in Louisiana, where Acadian culture shapes the music
   language, and food.
 title: Lafayette
 type: location
+nature: 2.6
+leisure: 6.8
+adventure: 2.4
+city_culture: 7.3
+historic_culture: 7.3
 ---
 
 Lafayette is the capital of Cajun country, a mid-sized Louisiana city where French is still spoken in homes, zydeco and Cajun music fill the dance halls on weeknights, and the food alone justifies the trip. This is where Acadian culture — the descendants of French colonists expelled from Nova Scotia in the 1700s — is most alive and most accessible.

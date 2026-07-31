@@ -16,6 +16,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Trabzon
 title: Trabzon
 type: location
+nature: 4.9
+leisure: 5.7
+adventure: 4.1
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 *Asia > Turkey > Trabzon*

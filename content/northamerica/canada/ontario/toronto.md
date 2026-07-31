@@ -17,6 +17,11 @@ snippet: Lake Ontario metropolis of dense immigrant neighbourhoods, major museum
   and a CN Tower skyline.
 title: Toronto
 type: location
+nature: 1.6
+leisure: 8.6
+adventure: 1.1
+city_culture: 8.2
+historic_culture: 8.2
 ---
 
 Toronto is Canada's largest city and one of the most ethnically diverse on the planet — the United Nations has called it the most multicultural city in the world. It sprawls along the north shore of Lake Ontario, and its skyline is dominated by the CN Tower, which held the title of the world's tallest free-standing structure for decades. The city is a serious metropolis, with excellent museums, a thriving restaurant scene, and a cultural calendar that runs year-round.

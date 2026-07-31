@@ -10,6 +10,11 @@ title: Kitwe
 snippet: Copperbelt city and commercial hub, shaped by Zambia's mining industry and
   its working urban energy.
 type: location
+nature: 5.2
+leisure: 2.5
+adventure: 6.8
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Kitwe is the commercial heart of Zambia's Copperbelt, the second-largest city in the country and the hub of an industry that has shaped the nation's economy for nearly a century. It sits at around 1,300 meters elevation, giving it a surprisingly pleasant climate for a city this close to the equator.

@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Arthur_Rimbaud
 title: Harar
 type: location
+nature: 3.9
+leisure: 2.5
+adventure: 7.2
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 The old walled city of Harar used to be strictly off limits for non-Muslims. It was one of the most holy cities in the country and remains the fourth holiest city in Islam. Today [Jugol](/africa/ethiopia/harar/jugol_walls) — the fortified historic town — is a UNESCO World Heritage Site, its roughly 4-kilometre perimeter wall enclosing 82 mosques, over 100 shrines, and one of the most intact medieval urban fabrics in Africa.

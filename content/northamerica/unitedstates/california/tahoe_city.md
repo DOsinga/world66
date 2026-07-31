@@ -14,6 +14,11 @@ snippet: North Lake Tahoe hub with Truckee River views, lake beaches, and nearby
   Tahoe slopes.
 title: Tahoe City
 type: location
+nature: 6.4
+leisure: 6.8
+adventure: 3.2
+city_culture: 3.0
+historic_culture: 3.0
 ---
 
 Tahoe City is a small lakeside community on the northwestern shore of Lake Tahoe, the main hub for services and accommodation on the California side of the lake's north shore. The [Fanny Bridge](/northamerica/unitedstates/california/tahoe_city/fanny_bridge) over the Truckee River outlet is a popular stop for watching large trout holding in the current below. In winter, [Palisades Tahoe](/northamerica/unitedstates/california/tahoe_city/palisades_tahoe) (formerly Squaw Valley) and Alpine Meadows ski resorts are a short drive away.

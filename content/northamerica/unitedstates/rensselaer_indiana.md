@@ -14,6 +14,11 @@ snippet: Small northern Indiana county town with a courthouse square, Carnegie l
   and unhurried Main Street.
 title: Rensselaer, Indiana
 type: location
+nature: 4.3
+leisure: 3.6
+adventure: 5.4
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Rensselaer is a small city of around 4,000 people in northern Indiana, the seat of Jasper County, sitting along I-65 between [Lafayette](/northamerica/unitedstates/indiana/lafayette) (one hour south) and [Chicago](/northamerica/unitedstates/illinois/chicago) (two to three hours north). It is a quiet county town with a handsome [courthouse](/northamerica/unitedstates/rensselaer_indiana/jasper_county_courthouse), a Catholic college ([Saint Joseph's College](/northamerica/unitedstates/rensselaer_indiana/saint_josephs_college)), a fine [Carnegie library](/northamerica/unitedstates/rensselaer_indiana/rensselaer_carnegie_library), some antique shops, and the kind of unhurried Main Street that characterises the Indiana flatlands.

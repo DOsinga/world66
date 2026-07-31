@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Mount_Qingcheng
 title: Dujiangyan
 type: location
+nature: 3.4
+leisure: 5.4
+adventure: 4.2
+city_culture: 7.4
+historic_culture: 7.4
 ---
 
 Dujiangyan is a city northwest of [Chengdu](/asia/china/sichuanprovince/chengdu), easily reached by high-speed rail in about 30 minutes. It is best known for the [Dujiangyan Irrigation System](/asia/china/sichuanprovince/dujiangyan/dujiangyan_irrigation_system), a UNESCO World Heritage Site built in 256 BC by the governor Li Bing. The system still functions today, channelling the Min River to irrigate the Chengdu Plain and making it one of the most productive agricultural regions in China — one of the great engineering achievements of antiquity.

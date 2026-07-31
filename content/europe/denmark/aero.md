@@ -13,6 +13,11 @@ snippet: Small Danish island of renewable-energy towns, ferry harbours, and pres
   lanes in Ærøskøbing
 title: Ærø
 type: location
+nature: 4.3
+leisure: 4.3
+adventure: 5.0
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Ærø is a small island off the south coast of Funen, quietly doing things the rest of Denmark is still talking about. It runs almost entirely on renewable energy — wind turbines generate most of the island's electricity, and solar collectors feed hot water directly into the district heating system of centuries-old towns, cobblestones and all.

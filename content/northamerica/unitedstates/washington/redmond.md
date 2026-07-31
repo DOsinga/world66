@@ -14,6 +14,11 @@ snippet: Seattle suburb on Lake Sammamish, shaped by Microsoft, Nintendo, and br
   riverside trails.
 title: Redmond
 type: location
+nature: 5.2
+leisure: 5.6
+adventure: 3.9
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Redmond is a suburb of Seattle on the eastern shore of Lake Sammamish, best known as the global headquarters of Microsoft. Nintendo of America is also based here, as is the [DigiPen Institute of Technology](/northamerica/unitedstates/washington/redmond/digipen_institute), one of the world's first and most respected game-development universities. Despite its corporate identity, Redmond has a pleasant core around [Redmond Town Center](/northamerica/unitedstates/washington/redmond/redmond_town_center) and [Marymoor Park](/northamerica/unitedstates/washington/redmond/marymoor_park) — a 640-acre county park on the lake that hosts outdoor concerts, a [velodrome](/northamerica/unitedstates/washington/redmond/velodrome), and the largest dog off-leash area in the Puget Sound region.

@@ -13,6 +13,11 @@ snippet: Travertine-built Marche city between two rivers, ringed by mountains an
   anchored by elegant Piazza del Popolo.
 title: Ascoli Piceno
 type: location
+nature: 3.6
+leisure: 6.3
+adventure: 3.1
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Ascoli Piceno sits where the Tronto river meets the Castellano, ringed by mountains on three sides — the Sibillini to the north, the Monti della Laga to the south. It is one of the most handsome small cities in Italy, and one of the least visited: the entire centre is built from travertine, a pale grey stone quarried from the surrounding hills, which gives the place a quiet, unified elegance that photographs don't quite capture.

@@ -14,6 +14,11 @@ snippet: Lake Ontario town east of Toronto, with a Victorian downtown, sandy bea
   and restored Victoria Hall.
 title: Cobourg
 type: location
+nature: 4.3
+leisure: 6.0
+adventure: 3.1
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Cobourg is a small town on the north shore of Lake Ontario, about 95 km east of Toronto. Its compact [Victorian downtown](/northamerica/canada/ontario/cobourg/king_street_downtown) and sandy waterfront beach make it a popular warm-weather escape from the city. The restored [Victoria Hall](/northamerica/canada/ontario/cobourg/victoria_hall) — an 1860 neoclassical courthouse and concert hall that punches well above its weight for a town of 20,000 — anchors the main street.

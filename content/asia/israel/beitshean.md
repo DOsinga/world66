@@ -14,6 +14,11 @@ snippet: Jordan Valley city where a Roman lower town sits beside a tel of seven 
   years.
 title: Beit Shean
 type: location
+nature: 3.5
+leisure: 4.6
+adventure: 4.8
+city_culture: 7.2
+historic_culture: 7.2
 ---
 
 Beit Shean has been continuously inhabited for seven thousand years, which makes most ancient sites look like newcomers. The tel — the mound of accumulated cities — rises beside the Roman lower city, and together they form one of the most impressive archaeological sites in Israel.

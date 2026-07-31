@@ -13,6 +13,11 @@ title: Tampa
 type: location
 snippet: Tampa is a Gulf Coast city with a deep-water port, historic cigar district,
   and Cuban-Spanish heritage.
+nature: 3.6
+leisure: 7.2
+adventure: 2.3
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Tampa is a city of around 400,000 on Florida's Gulf Coast, the third-largest in the state and the commercial heart of the Tampa Bay metropolitan area. It is a less obvious destination than Miami or Orlando, which is part of the appeal: Tampa is a working city with a deep-water port, a historic cigar-making district, a big university, and a genuine sense of itself. Visitors who come tend to be drawn by the beaches of the bay, by Busch Gardens theme park, or by the Cuban and Spanish heritage of **Ybor City**, the old cigar-factory neighbourhood that is now the centre of Tampa's nightlife.

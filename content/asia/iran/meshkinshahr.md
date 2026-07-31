@@ -10,6 +10,11 @@ snippet: Ardabil highland town below Mount Sabalan, linked to Shahsavan nomads, 
   and Safavid history.
 title: Meshkin-Shahr
 type: location
+nature: 5.7
+leisure: 3.0
+adventure: 6.6
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Meshkin-Shahr sits to the west of Ardebil and north of Mount Sabalan in the Iranian province of Ardabil. The climate is temperate in summer and harsh in winter; the surrounding highlands are the territory of [Shahsavan pastoral nomads](/asia/iran/meshkinshahr/shahsavan_nomads) who migrate seasonally with their flocks between highland summer pastures and lowland winter grazing grounds.

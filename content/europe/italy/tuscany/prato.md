@@ -13,6 +13,11 @@ snippet: Tuscan textile city near Florence, with medieval walls, Filippo Lippi a
   and Italy’s largest Chinese community
 title: Prato
 type: location
+nature: 1.7
+leisure: 8.4
+adventure: 1.5
+city_culture: 8.2
+historic_culture: 8.2
 ---
 
 Prato is a textile city just 17 km from [Florence](/europe/italy/tuscany/florence), so close that the two nearly merge. Most visitors to Tuscany skip it entirely, which is a shame — behind the industrial outskirts lies a walled medieval centre with a [Cathedral of Saint Stephen](/europe/italy/tuscany/prato/cathedral_of_saint_stephen) that rivals anything in Florence, a [Castello dell'Imperatore](/europe/italy/tuscany/prato/castello_dellimperatore) built by Frederick II, and the [Museo di Palazzo Pretorio](/europe/italy/tuscany/prato/museo_di_palazzo_pretorio) with a fine collection of Filippo Lippi paintings. The [Centro Pecci](/europe/italy/tuscany/prato/centro_arte_contemporanea_pecci) is one of Italy's best contemporary art museums.

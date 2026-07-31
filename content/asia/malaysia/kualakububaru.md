@@ -14,6 +14,11 @@ snippet: Foothill town north of Kuala Lumpur, used as a jumping-off point for ra
   waterfalls and rafting
 title: Kuala Kubu Baru
 type: location
+nature: 4.7
+leisure: 5.3
+adventure: 4.4
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Kuala Kubu Baru — KKB to everyone who knows it — is a small town an hour north of Kuala Lumpur, in the foothills of the Titiwangsa range. Almost nobody stops in the town itself, but it is the jumping-off point for some of the best outdoor adventures in central Malaysia. The old 1920s shophouse-lined main street has a faded, colonial-era charm: this was the administrative centre of the district after the original Kuala Kubu was wiped out by floods in 1883, and the new town was laid out on a grid with broad streets and a maidan, which is unusual for the region.

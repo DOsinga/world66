@@ -14,6 +14,11 @@ snippet: Beachside municipality beside Veracruz, known for Gulf seafood, weekend
   and the Jamapa River.
 title: Boca del Rio
 type: location
+nature: 4.1
+leisure: 6.6
+adventure: 2.8
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Boca del Río is a municipality that effectively forms the southern beachside extension of [Veracruz](/northamerica/mexico/veracruz), separated from the city by the Jamapa River. Most of the seafood restaurants, beach clubs, and weekend leisure facilities that serve the Veracruz metropolitan area are actually on the Boca del Río side of the river. For travellers, the two cities are practically one.

@@ -14,6 +14,11 @@ snippet: Transboundary West African national park where Niger River bends frame 
   forest, and big wildlife.
 title: W National Park
 type: location
+nature: 9.7
+leisure: 2.3
+adventure: 7.3
+city_culture: 0.7
+historic_culture: 0.7
 ---
 
 W National Park — named for the double bend the Niger River makes through it — is one of West Africa's finest wildlife reserves and a UNESCO World Heritage Site. It straddles three countries: [Niger](/africa/niger), [Burkina Faso](/africa/burkinafaso), and [Benin](/africa/benin), with the Niger side offering the most accessible entry point and some of the wildest terrain.

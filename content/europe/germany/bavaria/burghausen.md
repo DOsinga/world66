@@ -17,6 +17,11 @@ sources:
 - https://www.germany.travel/en/royal-palaces-castles/burghausen-castle.html
 title: Burghausen
 type: location
+nature: 3.5
+leisure: 7.7
+adventure: 1.8
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Burghausen is the Bavarian border town with the absurdly long castle. The [Burghausen Castle](/europe/germany/bavaria/burghausen/burghausen_castle) ridge runs for more than a kilometre above the Salzach river, all towers, walls, courtyards and small houses, with Austria staring back from the opposite bank. It is one of those places that looks theatrical from a distance and becomes stranger the closer you get.

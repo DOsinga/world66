@@ -9,6 +9,11 @@ snippet: Ancient Worcestershire ridge of pre-Cambrian rock, with long views and 
   above Great Malvern.
 title: Malvern Hills
 type: location
+nature: 4.5
+leisure: 5.5
+adventure: 3.8
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 The Malvern Hills rise sharply from the Worcestershire plain, a nine-mile ridge of ancient pre-Cambrian rock that feels far wilder than its gentle height (the highest point, Worcestershire Beacon, is just 425 metres) might suggest. The walking is excellent — the ridge path runs the full length with panoramic views in every direction, from the Cotswolds to the Black Mountains of Wales.

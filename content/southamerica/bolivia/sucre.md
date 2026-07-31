@@ -13,6 +13,11 @@ snippet: Bolivia's constitutional capital, a whitewashed colonial city central t
   the country's independence history.
 title: Sucre
 type: location
+nature: 3.6
+leisure: 5.6
+adventure: 4.2
+city_culture: 7.1
+historic_culture: 7.1
 ---
 
 Sucre is Bolivia's constitutional capital and one of the most beautiful cities in South America. Founded in 1538 as La Plata and later renamed, it became the seat of the Audiencia de Charcas and played a central role in Bolivian independence — the country's declaration was signed in the [Casa de la Libertad](/southamerica/bolivia/sucre/casa_de_la_libertad) in 1825. In 1991 UNESCO declared the city a World Heritage Site, recognizing its exceptional collection of colonial architecture.

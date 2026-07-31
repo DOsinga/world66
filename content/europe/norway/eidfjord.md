@@ -16,6 +16,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Eidfjord
 title: Eidfjord
 type: location
+nature: 7.7
+leisure: 5.7
+adventure: 4.0
+city_culture: 2.0
+historic_culture: 2.0
 ---
 
 Eidfjord sits at the innermost end of a branch of the Hardangerfjord, where steep green walls, waterfalls, and mountain roads press close around a small village. It is quiet when no cruise ship is in, suddenly busy when one arrives, and still one of the most dramatic gateways to the western edge of [Hardangervidda National Park](/europe/norway/hardangerviddanationalpark).

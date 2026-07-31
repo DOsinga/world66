@@ -13,6 +13,11 @@ snippet: New Mexico mesa town shaped by the Manhattan Project and nearby Bandeli
   ancestral Pueblo canyons.
 title: Los Alamos
 type: location
+nature: 5.3
+leisure: 5.0
+adventure: 4.7
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Los Alamos is best known as the birthplace of the atomic bomb, and the national laboratory still dominates the town. But the real draw for visitors is Bandelier National Monument, located between [Santa Fe](/northamerica/unitedstates/newmexico/santafe) and [Albuquerque](/northamerica/unitedstates/newmexico/albuquerque). Bandelier preserves ancestral Pueblo dwellings in sheer-walled canyons and across forested mesas, with over 23,000 acres of designated wilderness. The Bradbury Science Museum in town covers the Manhattan Project history and is free to visit.

@@ -14,6 +14,11 @@ snippet: Wyoming gateway town to Yellowstone, founded by Buffalo Bill and steepe
   in western showmanship.
 title: Cody
 type: location
+nature: 4.8
+leisure: 4.7
+adventure: 4.7
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Cody is the eastern gateway to Yellowstone National Park and one of the most characterful small towns in Wyoming. It was founded by William F. "Buffalo Bill" Cody in 1896, and the western heritage is not just a marketing gimmick — the [Buffalo Bill Center of the West](/northamerica/unitedstates/wyoming/cody/buffalo_bill_center_of_the_west) is a genuinely outstanding museum complex, with five museums covering western art, natural history, Plains Indians culture, firearms, and Buffalo Bill himself. Plan at least half a day.

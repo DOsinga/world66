@@ -13,6 +13,11 @@ snippet: Northern Costa Rican adventure town at the foot of Arenal Volcano's nea
   cone.
 title: La Fortuna
 type: location
+nature: 6.0
+leisure: 6.2
+adventure: 3.6
+city_culture: 3.3
+historic_culture: 3.3
 ---
 
 La Fortuna is a small town in northern Costa Rica that has become one of the country's top adventure tourism destinations, thanks to the enormous cone of Arenal Volcano looming directly above it. The volcano was highly active from 1968 to 2010, and although it has been quiet since then, it remains an overwhelming physical presence -- on clear days the perfect cone dominates every view in town, and on cloudy days you can feel its mass even when you cannot see it.

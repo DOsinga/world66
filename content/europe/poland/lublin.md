@@ -12,6 +12,11 @@ snippet: Eastern Polish university city with a medieval old town and a layered P
   Ukrainian, and Jewish history.
 title: Lublin
 type: location
+nature: 3.3
+leisure: 5.2
+adventure: 4.3
+city_culture: 7.0
+historic_culture: 7.0
 ---
 
 Lublin is the largest city in eastern Poland, a university town with a substantial medieval old town and a history shaped by its position on the border between Catholic and Orthodox, Polish and Ukrainian, Christian and Jewish worlds. Before the Second World War, over a third of Lublin's population was Jewish; the Nazi occupation annihilated that community and established the Majdanek extermination camp on the city's outskirts, which can still be visited as a memorial.

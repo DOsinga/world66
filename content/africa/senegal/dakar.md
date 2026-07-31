@@ -12,6 +12,11 @@ snippet: West African capital on the Cap-Vert peninsula, alive with markets, mus
   mosques, and Atlantic light
 title: Dakar
 type: location
+nature: 2.6
+leisure: 6.1
+adventure: 3.9
+city_culture: 7.6
+historic_culture: 7.6
 ---
 
 Dakar sits at the very tip of the Cap-Vert peninsula, the westernmost point of mainland Africa. It's a crowded, noisy, thoroughly alive city of over three million people — a French-colonial capital that has spilled out of its old grid of boulevards and filled the peninsula with markets, mosques and improvised neighbourhoods. The pace is fast, the traffic is chaotic, the music is everywhere.

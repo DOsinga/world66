@@ -14,6 +14,11 @@ longitude: -4.285826
 score: 7.39
 title: Guilvinec
 type: location
+nature: 4.8
+leisure: 5.7
+adventure: 3.7
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Guilvinec is not a pretty town. At low tide the harbour is a mudscape of ropes and rusted chains, and the waterfront architecture owes more to function than aesthetics. But none of that matters, because Guilvinec is France's leading artisanal fishing port, and around 4pm on any weekday the place comes alive in a way that no polished resort can match. Trawlers nose into the harbour mouth one after another, dockers haul crates of wriggling langoustines onto the quay, and half the town turns out to watch. The langoustines here are nicknamed 'demoiselles du Guilvinec' and they are superb.

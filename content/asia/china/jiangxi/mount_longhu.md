@@ -13,6 +13,11 @@ type: location
 score: 7.97
 snippet: Sacred Jiangxi mountain and Taoist birthplace, set among red Danxia cliffs
   along the Luxi River.
+nature: 6.3
+leisure: 5.0
+adventure: 4.7
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Mount Longhu (龙虎山, Dragon Tiger Mountain) near Yingtan is the birthplace of Celestial Masters Taoism, the tradition founded by Zhang Daoling in the 2nd century AD. The Shangqing Temple here was once the most powerful Taoist institution in China, and the mountain remains one of the four sacred mountains of Taoism. Most of what you see today is modern reconstruction, but the Taoist atmosphere is genuine and the landscape is spectacular on its own terms.

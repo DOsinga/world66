@@ -14,6 +14,11 @@ snippet: Tanzanian Indian Ocean coastline of Swahili trading towns, carved doors
   coral ruins, and quiet beaches
 title: Swahili Coast
 type: location
+nature: 5.4
+leisure: 6.2
+adventure: 3.7
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Tanzania's Swahili Coast stretches for more than 800 kilometres along the Indian Ocean, from the Kenyan border in the north to the Mozambique border in the south. For centuries it was one of the most cosmopolitan stretches of coastline in the world — a meeting point of African, Arab, Indian, and later Portuguese and German influences — and the evidence is still visible in the architecture, food, and culture of the coastal towns.

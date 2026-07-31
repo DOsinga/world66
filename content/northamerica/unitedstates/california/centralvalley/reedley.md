@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/Reedley,_California
 title: Reedley
 type: location
+nature: 4.4
+leisure: 3.9
+adventure: 5.2
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Reedley is a small farming town in the heart of the San Joaquin Valley, about 25 miles southeast of Fresno. Known locally as the "World's Fruit Basket," it sits at the edge of some of the most productive agricultural land in California — orchards and vineyards covering the surrounding flatlands produce peaches, nectarines, plums, and table grapes that end up in supermarkets across the country.

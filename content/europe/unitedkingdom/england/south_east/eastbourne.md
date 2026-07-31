@@ -14,6 +14,11 @@ snippet: Victorian seaside resort on the Sussex coast, backed by Beachy Head and
   South Downs.
 title: Eastbourne
 type: location
+nature: 4.2
+leisure: 7.2
+adventure: 2.3
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Eastbourne sits on the Sussex coast where the South Downs meet the English Channel, a Victorian seaside resort that still feels like one — in the best possible way. The [seafront](/europe/unitedkingdom/england/south_east/eastbourne/seafront_promenade) is grand: a long promenade, carpet gardens, a bandstand, and a [pier](/europe/unitedkingdom/england/south_east/eastbourne/eastbourne_pier) that has survived fires and storms since 1870.

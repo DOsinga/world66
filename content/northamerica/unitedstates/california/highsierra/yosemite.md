@@ -13,6 +13,11 @@ snippet: Sierra Nevada national park known for Yosemite Valley, waterfalls, gran
   cliffs, meadows, and giant sequoia groves.
 title: Yosemite
 type: location
+nature: 8.0
+leisure: 5.0
+adventure: 4.9
+city_culture: 2.1
+historic_culture: 2.1
 ---
 
 Yosemite National Park embraces a spectacular tract of mountain-and-valley scenery in the Sierra Nevada, set aside as a national park in 1890. The park harbors a grand collection of waterfalls, meadows, and forests that include groves of giant sequoias, the world's largest living things.

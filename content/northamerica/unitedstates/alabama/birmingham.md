@@ -12,6 +12,11 @@ snippet: Alabama city where steel-mill history and landmark civil rights sites s
   within the same valley.
 title: Birmingham
 type: location
+nature: 3.4
+leisure: 6.0
+adventure: 3.1
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 Birmingham is the most important city in the American civil rights story. The Birmingham Civil Rights Institute, the 16th Street Baptist Church where four young girls were killed in a 1963 bombing, and Kelly Ingram Park where fire hoses and police dogs were turned on peaceful protesters -- all stand within a few blocks of each other downtown. No other city in the country puts you so directly in the places where the movement happened.

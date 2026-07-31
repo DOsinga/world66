@@ -14,6 +14,11 @@ snippet: Marshall Islands atoll with German and Japanese colonial remains scatte
   across its southern islets.
 title: Jaluit Atoll
 type: location
+nature: 8.5
+leisure: 3.5
+adventure: 6.4
+city_culture: 1.8
+historic_culture: 1.8
 ---
 
 Jaluit was the administrative capital of the Marshall Islands under both German and Japanese colonial rule, and the remnants of that history are scattered across the atoll. [Japanese fortifications, a seaplane base, and the ruins of the colonial administration](/australiaandpacific/marshallislands/jaluitatoll/japanese_wwii_fortifications) are still visible on the southern islets. During World War II, Jaluit was a major Japanese naval base and was heavily bombed by US forces; the [lagoon](/australiaandpacific/marshallislands/jaluitatoll/jaluit_lagoon) holds a number of wrecks that have barely been explored by divers. The colonial-era history is most concentrated around [Jabwor](/australiaandpacific/marshallislands/jaluitatoll/jabwor_colonial_ruins), the main village, where the German and Japanese administrations both had their headquarters.

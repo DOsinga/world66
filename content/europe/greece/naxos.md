@@ -14,6 +14,11 @@ snippet: Cycladic island town with fertile villages, marble ruins, and a lived-i
   Hora above the harbour
 title: Naxos
 type: location
+nature: 4.4
+leisure: 8.2
+adventure: 1.8
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Naxos is the largest of the Cyclades and arguably the most rewarding. Unlike its neighbours Mykonos and Santorini, tourism is not the main industry here. The island is fertile and green by Greek island standards, producing its own potatoes, cheese, and citron liqueur. You notice the difference immediately: the food is better and cheaper, and the villages feel like places where people actually live.

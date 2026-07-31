@@ -13,6 +13,11 @@ snippet: Piedmont wine country of hilltop villages, castles, Barbera vineyards, 
   Casale Monferrato’s synagogue
 title: Monferrato
 type: location
+nature: 4.1
+leisure: 5.6
+adventure: 3.8
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Monferrato is Piedmont's rolling wine country, a landscape of hilltop villages, fortified castles, and vineyards that stretches between the provinces of [Asti](/europe/italy/piemonte/asti) and Alessandria. The wines here are among Italy's finest -- Barbera d'Asti, Grignolino, and the sweet, fizzy Moscato d'Asti all come from these hills, and the wine cellars are welcoming and unpretentious.

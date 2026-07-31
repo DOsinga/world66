@@ -16,6 +16,11 @@ sources:
 - https://en.wikivoyage.org/wiki/El_Chalten
 title: El Chaltén
 type: location
+nature: 9.2
+leisure: 3.6
+adventure: 6.5
+city_culture: 1.5
+historic_culture: 1.5
 ---
 
 El Chaltén is a small mountain village at the northern end of Los Glaciares National Park in Argentine Patagonia, and it exists almost entirely for hiking. Founded in 1985 as an act of territorial assertion against Chile — the border in this area was disputed, and Argentina needed a settlement — it has grown into one of the premier trekking destinations in South America. The walking is exceptional: trails begin right from the edge of town and within 30 minutes you are in pristine wilderness.

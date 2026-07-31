@@ -10,6 +10,11 @@ snippet: Brittany forest village beside a lake, known for house-sized granite bo
   and river-gorge trails.
 title: Huelgoat
 type: location
+nature: 7.0
+leisure: 4.8
+adventure: 4.9
+city_culture: 3.0
+historic_culture: 3.0
 ---
 
 Many people think of [Brittany](/europe/france/normandybrittany) exclusively for its coasts. That is a mistake, because parts of the interior are just as rewarding. Huelgoat is a delightful village on the edge of a lake, surrounded by one of Brittany's last remaining ancient forests.

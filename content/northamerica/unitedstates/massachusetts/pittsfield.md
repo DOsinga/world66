@@ -18,6 +18,11 @@ sources:
 - https://en.wikipedia.org/wiki/Hancock_Shaker_Village
 title: Pittsfield
 type: location
+nature: 4.6
+leisure: 5.9
+adventure: 3.4
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Pittsfield is the practical capital of the Berkshires, less polished than Stockbridge and less precious than some of the smaller hill towns. That is part of its appeal. It has working-city bones, good cultural institutions, and quick access to the wooded ridges and lakes that make western [Massachusetts](/northamerica/unitedstates/massachusetts) so inviting.

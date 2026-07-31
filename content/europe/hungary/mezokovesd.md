@@ -14,6 +14,11 @@ snippet: Small northeastern Hungarian town and heartland of Matyó folk culture,
   for elaborate floral embroidery.
 title: Mezőkövesd
 type: location
+nature: 4.0
+leisure: 5.2
+adventure: 4.0
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Mezőkövesd is a small town in northeastern Hungary, about 130 km east of [Budapest](/europe/hungary/budapest), and the heartland of Matyó folk culture — a tradition of extraordinarily elaborate embroidery recognised by UNESCO as Intangible Cultural Heritage.

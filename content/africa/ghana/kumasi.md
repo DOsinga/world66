@@ -16,6 +16,11 @@ title: Kumasi
 type: location
 snippet: Ashanti kingdom city in Ghana where Manhyia Palace, kente weaving, and Kejetia
   Market define local life.
+nature: 4.3
+leisure: 4.5
+adventure: 5.3
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Kumasi is the heart of the Ashanti kingdom and Ghana's second city. It is sprawling, busy, and culturally rich -- a place where traditional chieftaincy, gold, and kente cloth are not museum exhibits but part of everyday life.

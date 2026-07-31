@@ -13,6 +13,11 @@ snippet: Puglian port city at the end of the Via Appia, long used for eastern Me
   crossings.
 title: Brindisi
 type: location
+nature: 2.4
+leisure: 7.2
+adventure: 2.3
+city_culture: 7.6
+historic_culture: 7.6
 ---
 
 Most travellers end up in Brindisi because they need a ferry — to Greece, to Albania, or onward to the eastern Mediterranean. The port has been doing this job for over two thousand years: it was the terminus of the Via Appia, and the [Roman column](/europe/italy/puglia/brindisi/roman_column) marking the end of the road still stands on the waterfront.

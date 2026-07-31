@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Oss
 title: Oss
 type: location
+nature: 3.8
+leisure: 4.3
+adventure: 4.9
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Oss is a mid-sized town of around 95,000 in Noord-Brabant, sitting on the Maas river in the southern Netherlands. It is not a place that features prominently in most itineraries, and that is part of the point: it is a working Dutch town with its own distinct identity, a strong carnival tradition, and an industrial past that turned out to be surprisingly consequential.

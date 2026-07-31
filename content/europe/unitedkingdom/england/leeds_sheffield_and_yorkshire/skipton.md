@@ -13,6 +13,11 @@ snippet: Yorkshire market town with a medieval castle, canal towpath, and access
   the Dales.
 title: Skipton
 type: location
+nature: 3.9
+leisure: 5.5
+adventure: 3.9
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Skipton bills itself as the Gateway to the Dales, and it earns the title. This handsome market town sits just south of the [Yorkshire Dales](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/yorkshire_dales), with a medieval castle, a [wide high street that fills with market stalls](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/skipton/skipton_market) four days a week, and the [Leeds-Liverpool Canal](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/skipton/leeds_liverpool_canal) threading through the centre.

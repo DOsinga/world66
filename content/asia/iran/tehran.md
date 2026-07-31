@@ -14,6 +14,11 @@ title: Tehran
 type: location
 snippet: High-plateau Iranian capital backed by the Alborz, where modern political
   life outweighs old-world charm.
+nature: 2.2
+leisure: 5.8
+adventure: 4.1
+city_culture: 8.7
+historic_culture: 8.7
 ---
 
 **Tehran** is the capital of Iran and, with a metropolitan population of around 15 million, one of the largest cities in the Middle East. It sits on a high plateau at about 1,200 metres, backed by the enormous snow-capped **Alborz** range — the 5,671-metre peak of Mount Damavand, Iran's highest mountain, is just 60 km north of the city. The physical setting is extraordinary; the city itself is not. Tehran grew dramatically in the 20th century from a provincial town into a sprawling modern capital, and it looks it. Heavy traffic, air pollution, and a mostly 1960s–70s concrete skyline are what first-time visitors notice. The charm of Iran — the exquisite blue-tiled mosques and covered bazaars of Isfahan, Shiraz and Yazd — is not really to be found here.

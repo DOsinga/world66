@@ -14,6 +14,11 @@ snippet: Southern Kazakh city near the Uzbek border, known for markets and Silk 
   excursions.
 title: Shymkent
 type: location
+nature: 4.9
+leisure: 3.3
+adventure: 6.3
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Shymkent is [Kazakhstan's](/asia/kazakhstan) third-largest city and its southernmost, sitting in the fertile Arys River valley not far from the Uzbek border. It is a sprawling, fast-growing place — more Central Asian bazaar town than the modernist showpiece of Astana — with a large Uzbek population, a thriving market culture, and summers that push well past 40 degrees.

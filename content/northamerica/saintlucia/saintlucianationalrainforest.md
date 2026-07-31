@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/Geography_of_Saint_Lucia
 title: Saint Lucia National Rain Forest
 type: location
+nature: 7.9
+leisure: 5.3
+adventure: 4.4
+city_culture: 1.6
+historic_culture: 1.6
 ---
 
 Saint Lucia's national rainforest is the green, mountainous interior that keeps the island from becoming just another beach destination. The reserve protects steep ridges, wet valleys, giant ferns, orchids, and the habitat of the Saint Lucia parrot, a bird that came perilously close to disappearing.

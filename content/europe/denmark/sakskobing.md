@@ -16,6 +16,11 @@ tags:
 - lolland
 title: Sakskøbing
 type: location
+nature: 3.7
+leisure: 5.8
+adventure: 3.3
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Sakskøbing is a small town on the island of Lolland in southern Denmark, best known for its water tower — a bright yellow sphere painted with a cheerful grinning face that has earned the town its nickname, "the smiling town." The tower is visible from the harbour and has become one of the most photographed landmarks in the Danish islands.

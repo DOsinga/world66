@@ -14,6 +14,11 @@ snippet: Busy Ghanaian port city and oil hub, paired with older Sekondi on the G
   of Guinea
 title: Takoradi
 type: location
+nature: 5.1
+leisure: 4.9
+adventure: 4.9
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Takoradi is a busy port city in the **Western Region** of Ghana, on the Gulf of Guinea about 230 km west of Accra. It forms a twin metropolitan area with the older town of **Sekondi** a few kilometres east — together they are simply called Sekondi-Takoradi by locals — and between them they are home to around 450,000 people, making it Ghana's third-largest urban area after Accra and Kumasi. Sekondi is the administrative capital; Takoradi is the economic heart. Since the discovery of significant offshore oil in the Jubilee Field in 2007, Takoradi has also become Ghana's oil capital, which has brought new money, new traffic, and a noticeable rise in prices.

@@ -10,6 +10,11 @@ snippet: Rhône Valley stopover city with Romanesque churches, Renaissance facad
   and a compact old town.
 title: Valence
 type: location
+nature: 7.3
+leisure: 5.3
+adventure: 4.5
+city_culture: 2.6
+historic_culture: 2.6
 ---
 
 Valence sits on the left bank of the Rhône, roughly halfway between [Lyon](/europe/france/alpes/lyon) and [Marseille](/europe/france/midi/cotedazur/marseille), and most travelers encounter it as a stop on the way south. That's a reasonable way to use it — the TGV pauses here, the autoroute passes just outside, and the old town is compact enough to explore in a few hours. Founded as a Roman colony and later a bishopric of some importance, Valence spent centuries caught between rival powers, which at least left it with decent architecture.

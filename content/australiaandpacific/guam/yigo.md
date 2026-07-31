@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Yigo,_Guam
 title: Yigo
 type: location
+nature: 5.6
+leisure: 5.2
+adventure: 4.5
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Yigo occupies the northern end of Guam, a broad village area shaped by limestone forest, military land, and the long road toward Ritidian Point. It is not a polished tourist base, but it is important if you want to understand the island beyond Tumon and the southern villages.

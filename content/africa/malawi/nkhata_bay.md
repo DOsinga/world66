@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Nkhata_Bay
 title: Nkhata Bay
 type: location
+nature: 6.8
+leisure: 5.3
+adventure: 4.5
+city_culture: 2.9
+historic_culture: 2.9
 ---
 
 Nkhata Bay is the most appealing town on the northern half of Lake Malawi — a string of guesthouses and bars draped over a series of forested coves on the lake's western shore. The setting does most of the work: deep clear water meets steep bush-covered hills, dugout canoes pull in at first light with the night's catch, and the lake stretches uninterrupted to the horizon. It has been backpacker country for decades and shows it, in the friendliest possible way.

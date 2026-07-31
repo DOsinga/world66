@@ -9,6 +9,11 @@ snippet: Small Ligurian nature reserve inland from Ceriale, noted for Pliocene m
 type: location
 score: 7.12
 loc_type: feature
+nature: 5.4
+leisure: 5.7
+adventure: 3.9
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 The Torsero Park is a small natural reserve about 1.5 km inland from Ceriale on the Ligurian coast. It covers roughly one square kilometre along the Torsero River, which has carved through the rock strata to create vertical walls up to 60 metres high.

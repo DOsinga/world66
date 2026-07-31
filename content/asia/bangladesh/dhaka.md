@@ -16,6 +16,11 @@ snippet: Dense delta capital where Puran Dhaka's markets and monuments sit besid
   Louis Kahn modernism.
 title: Dhaka
 type: location
+nature: 2.8
+leisure: 4.2
+adventure: 5.6
+city_culture: 8.0
+historic_culture: 8.0
 ---
 
 Dhaka is one of the most densely populated cities on earth — around 22 million people in a sprawling delta metropolis where traffic moves at a crawl and the streets never fully sleep. It is chaotic, noisy, and genuinely fascinating. Most visitors arriving in Bangladesh pass through Dhaka, and it rewards more time than most people give it.

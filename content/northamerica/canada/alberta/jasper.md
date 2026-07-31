@@ -16,6 +16,11 @@ snippet: Canadian Rockies mountain town inside Jasper National Park, quieter tha
   Banff and surrounded by wilderness
 title: Jasper
 type: location
+nature: 8.1
+leisure: 5.1
+adventure: 4.8
+city_culture: 1.8
+historic_culture: 1.8
 ---
 
 Jasper sits at the heart of the largest national park in the Canadian Rockies, a small mountain town of around 4,500 people surrounded by an almost absurd amount of wilderness. Unlike its busier neighbour Banff to the south, Jasper has kept a quieter, more laid-back character. The town itself is compact and walkable, with most restaurants and shops clustered along Patricia Street and Connaught Drive.

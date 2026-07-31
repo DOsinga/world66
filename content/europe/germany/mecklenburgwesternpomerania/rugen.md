@@ -13,6 +13,11 @@ title: Rügen
 type: location
 snippet: Baltic island of chalk cliffs, beech forest, and seaside resorts linked to
   Caspar David Friedrich.
+nature: 5.9
+leisure: 7.6
+adventure: 2.3
+city_culture: 2.9
+historic_culture: 2.9
 ---
 
 Rügen is [Germany's](/europe/germany) largest island, connected to the mainland by a bridge near Stralsund. Its dramatic white chalk cliffs — the Kreidefelsen, most famously the [Königsstuhl](/europe/germany/mecklenburgwesternpomerania/rugen/koenigsstuhl) — have been famous since Caspar David Friedrich painted them in the early nineteenth century, and they remain the island's most striking sight. [Jasmund National Park](/europe/germany/mecklenburgwesternpomerania/rugen/jasmund_national_park) protects the cliffs and the ancient beech forest behind them, a UNESCO World Heritage Site.

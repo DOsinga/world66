@@ -13,6 +13,11 @@ snippet: Western Romanian city of Baroque squares and revolutionary memory, hist
   tied to Vienna and Budapest.
 title: Timisoara
 type: location
+nature: 2.8
+leisure: 6.4
+adventure: 3.1
+city_culture: 7.6
+historic_culture: 7.6
 ---
 
 Timisoara is the largest city in western [Romania](/europe/romania), historically closer in spirit to Vienna and Budapest than to Bucharest. It was the first city in the world to have electric street lighting (in 1884), the first European city to introduce horse-drawn trams, and — most significantly — the city where the [1989 revolution](/europe/romania/timisoara/revolution_memorial) began that brought down Ceausescu.

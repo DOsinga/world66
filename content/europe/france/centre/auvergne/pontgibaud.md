@@ -10,6 +10,11 @@ snippet: Auvergne village on the Sioule river, watched over by the medieval towe
   of Château Dauphin
 title: Pontgibaud
 type: location
+nature: 4.8
+leisure: 5.5
+adventure: 4.1
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Pontgibaud is a small medieval village about 25 km west of Clermont-Ferrand in the Auvergne, straddling the Sioule river at the edge of the Chaîne des Puys volcanic range.

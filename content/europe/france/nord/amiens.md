@@ -16,6 +16,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Amiens
 title: Amiens
 type: location
+nature: 3.0
+leisure: 6.3
+adventure: 2.8
+city_culture: 7.1
+historic_culture: 7.1
 ---
 
 Amiens is the capital of the Somme department and the largest city in Picardie, sitting on the Somme river about 120 kilometres north of Paris. It is a city defined by two extraordinary things: its cathedral and its hortillonnages. The [Cathédrale Notre-Dame d'Amiens](/europe/france/nord/amiens/cathedrale_notre_dame) is the largest Gothic cathedral in France by interior volume, a UNESCO World Heritage Site of breathtaking scale — its nave rises to 42 metres, making it taller than Notre-Dame de Paris. The hortillonnages are a network of market gardens threaded through channels in the river marshes east of the city, a living medieval landscape that can be explored by flat-bottomed punt.

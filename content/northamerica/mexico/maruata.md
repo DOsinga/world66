@@ -14,6 +14,11 @@ snippet: Tiny Michoacán fishing village with remote Pacific beaches, rock monol
   and sea turtle nesting sites.
 title: Maruata
 type: location
+nature: 6.0
+leisure: 5.2
+adventure: 4.5
+city_culture: 3.7
+historic_culture: 3.7
 ---
 
 Maruata is a tiny fishing village hidden along the Michoacan coast, known mainly to backpackers, campers, and Mexican students willing to trade comfort for one of the most beautiful and remote beaches on the Pacific coast of Mexico.

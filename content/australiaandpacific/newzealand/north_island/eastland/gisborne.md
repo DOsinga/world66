@@ -14,6 +14,11 @@ title: Gisborne
 snippet: East Coast New Zealand city known for early sunrise, surf beaches, and Chardonnay
   vineyards.
 type: location
+nature: 5.5
+leisure: 4.8
+adventure: 4.7
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Gisborne is the first city in the world to see the sunrise each day, sitting on the sunny East Coast of the North Island where Captain Cook made his first New Zealand landfall in 1769. The Maori name for the district, Tairawhiti, means "the coast upon which the sun shines across the water" — and the climate lives up to it, with over 2,200 hours of sunshine a year.

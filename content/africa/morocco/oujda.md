@@ -15,6 +15,11 @@ snippet: Eastern Moroccan border city where Algerian influence and Rai music giv
   it a frontier identity.
 title: Oujda
 type: location
+nature: 4.9
+leisure: 3.5
+adventure: 5.9
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Oujda is the easternmost city in Morocco, pressed up against the Algerian border and culturally closer to Oran than to Casablanca. This is where Rai music — the raw, politically charged Arabic pop that made Cheb Khaled famous — has its Moroccan home. The Algerian influence runs deep, from the music to the food to the way people talk.

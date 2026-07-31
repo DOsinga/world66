@@ -12,6 +12,11 @@ snippet: Northern Ghanaian market town known for Bolga baskets, Sahelian compoun
   and Tongo Hills excursions.
 title: Bolgatanga
 type: location
+nature: 5.6
+leisure: 2.2
+adventure: 7.2
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Bolgatanga -- "Bolga" to everyone -- is the capital of the Upper East Region and the main town in Ghana's far north. It is hot, dusty, and distinctly different from the south, with a strong Muslim influence and Sahelian architecture of flat-roofed mud compounds.

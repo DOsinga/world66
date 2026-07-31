@@ -13,6 +13,11 @@ snippet: Danube port town in northwest Bulgaria, dominated by the riverside medi
   fortress of Baba Vida.
 title: Vidin
 type: location
+nature: 4.7
+leisure: 4.4
+adventure: 5.0
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Vidin is the northwestern corner of Bulgaria, a Danube port town that for centuries was the country's western gate. It sits directly opposite the Romanian town of Calafat — a bridge built in 2013 finally replaced the long-running ferry — and for travellers it is the natural pivot between Bulgaria, Romania, and Serbia.

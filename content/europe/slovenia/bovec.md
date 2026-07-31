@@ -13,6 +13,11 @@ snippet: Soča Valley mountain town in the Julian Alps, known for rafting, canyo
   and emerald river water.
 title: Bovec
 type: location
+nature: 6.0
+leisure: 7.3
+adventure: 2.7
+city_culture: 3.0
+historic_culture: 3.0
 ---
 
 Bovec is a small mountain town in the upper Soča valley in northwestern Slovenia, surrounded by the Julian Alps. It is the adventure-sports capital of the country. The [Soča river](/europe/slovenia/bovec/soča_river) — famous for its extraordinary emerald colour — runs through the valley and is one of the best white-water kayaking and rafting rivers in Europe. Canyoning, zip-lining, and paragliding are all well-established here.

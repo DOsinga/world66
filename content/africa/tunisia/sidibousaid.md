@@ -14,6 +14,11 @@ snippet: Clifftop Tunisian village above the Gulf of Tunis, famous for protected
   architecture.
 title: Sidi bou said
 type: location
+nature: 3.6
+leisure: 6.9
+adventure: 2.8
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Sidi Bou Said is a clifftop village overlooking the Gulf of [Tunis](/africa/tunisia/tunis), famous for its blue-and-white colour scheme that has been protected by law since 1915. Every building is whitewashed, every door and window shutter painted in a distinctive cobalt blue, and the effect against the Mediterranean sky is genuinely striking. It is one of the most photographed places in [Tunisia](/africa/tunisia) and draws visitors from across the country and beyond.

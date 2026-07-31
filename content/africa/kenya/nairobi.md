@@ -17,6 +17,11 @@ snippet: Mile-high Kenyan capital where East African urban life meets wildlife i
   city limits.
 title: Nairobi
 type: location
+nature: 3.3
+leisure: 4.9
+adventure: 5.0
+city_culture: 7.0
+historic_culture: 7.0
 ---
 
 Nairobi is Kenya's capital and the unofficial capital of East Africa — a mile-high city 145 km south of the equator that has grown from an empty patch of swamp at the end of the Uganda Railway in 1899 to a metropolis of nearly five million people. Most travellers pass through on their way to a safari; those who stay a day or two find a livelier, more multicultural city than the reputation suggests, with excellent restaurants, a serious arts and music scene, and something genuinely unusual — a city where lions and rhinos live inside the municipal boundaries.

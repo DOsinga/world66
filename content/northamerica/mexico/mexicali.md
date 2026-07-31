@@ -14,6 +14,11 @@ snippet: Baja California border capital known for Chinese food rooted in early i
   migration
 title: Mexicali
 type: location
+nature: 4.2
+leisure: 5.4
+adventure: 4.3
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Mexicali is the capital of Baja California and one of Mexico's major border cities, sitting directly across from Calexico, California. It is a working city rather than a tourist destination, which gives it an authenticity that the resort towns further south lack.

@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/Dhulikhel
 title: Dhulikhel
 type: location
+nature: 5.9
+leisure: 5.3
+adventure: 4.5
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Dhulikhel is an ancient Newar town perched on the eastern rim of the Kathmandu Valley, about 30 km from the capital. On a clear day, the panorama of Himalayan peaks from Langtang to Everest is one of the best viewpoints in [Nepal](/asia/nepal) — and far quieter than Nagarkot.

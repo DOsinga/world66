@@ -14,6 +14,11 @@ snippet: Lakeside Salzkammergut village where prehistoric salt mines meet Dachst
   cliffs and stacked wooden houses.
 title: Hallstatt
 type: location
+nature: 6.4
+leisure: 6.6
+adventure: 3.2
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 Hallstatt is a small lakeside village in the Salzkammergut region of Upper Austria, dramatically situated between the Hallstätter See and the sheer walls of the Dachstein massif. It is one of the oldest continuously inhabited settlements in Europe — humans have lived and mined salt here for at least 7,000 years — and that prehistoric legacy gives the area its name, Hallstatt being the term archaeologists use to describe the early Iron Age culture centred here.

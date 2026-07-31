@@ -16,6 +16,11 @@ snippet: High Andean capital spilling through a canyon beneath Illimani and El A
   plateau
 title: La Paz
 type: location
+nature: 4.0
+leisure: 5.1
+adventure: 4.7
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 La Paz hits you before you even arrive. The airport sits at 4,061 metres in [El Alto](/southamerica/bolivia/lapaz/el_alto) — a wind-blasted plateau city in its own right — and the descent by road into the canyon below is one of the great urban approaches on earth. The city spills down the slopes in a tangle of red-brick buildings, [cable cars](/southamerica/bolivia/lapaz/teleferico), and market stalls, with the white peak of [Illimani](/southamerica/bolivia/lapaz/illimani_views) hovering behind it all at 6,438 metres.

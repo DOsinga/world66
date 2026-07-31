@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Shantou
 title: Shantou
 type: location
+nature: 4.1
+leisure: 5.7
+adventure: 3.9
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Shantou is the coast-facing half of the Teochew heartland: busier, saltier, and more outward-looking than its elegant neighbour [Chaozhou](/asia/china/guangdong/chaozhou). It was one of China's original treaty ports, and that history still shows around [Small Park](/asia/china/guangdong/shantou/small_park), where arcaded shophouses and old banking facades lean into a web of lanes that feels far older than the city's modern high-rises.

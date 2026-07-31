@@ -14,6 +14,11 @@ title: Soria
 type: location
 snippet: High Castilian province of Romanesque churches, medieval castles, forests,
   and sparsely populated plateau landscapes.
+nature: 3.9
+leisure: 5.5
+adventure: 3.7
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Soria is one of Spain’s best-kept secrets — a high plateau in north-central Castilla y León where medieval castles, Romanesque churches, and timeless villages sit scattered across more than 10,000 square kilometres of forests, nature parks, and open grazing land. The province averages about 1,000 metres above sea level, and the air is noticeably clean and sharp.

@@ -13,6 +13,11 @@ image: tsavoeast.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mudanda_Rock_in_Tsavo_East_National_Park_(edited).jpg
 image_license: CC BY 3.0
 image_attribution: CT Cooper
+nature: 7.8
+leisure: 5.6
+adventure: 4.1
+city_culture: 1.7
+historic_culture: 1.7
 ---
 
 Tsavo East is the open, elemental half of Kenya's largest national park — flat red plains stretching in every direction, enormous herds of elephant, and skies that seem twice as wide as anywhere else in Africa. Where [Tsavo West](/africa/kenya/nationalparksandreserves/tsavonp/tsavowest) has drama and topography, the East has scale and silence.

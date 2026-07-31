@@ -7,6 +7,11 @@ snippet: Ancient Black Sea port in Crimea, known for Genoese walls and Ivan Aiva
   marine paintings.
 title: Feodosia
 type: location
+nature: 5.1
+leisure: 5.5
+adventure: 4.3
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Feodosia is an ancient port city on the southeastern coast of Crimea, founded by Greek colonists around 600 BC and continuously occupied ever since. It was one of the most important trading cities on the Black Sea under the Genoese in the medieval period, and the remains of their fortress still crown the hill above the town. The Genoese tower and walls are the most distinctive monument on the skyline.

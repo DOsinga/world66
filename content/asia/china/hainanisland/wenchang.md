@@ -14,6 +14,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Wenchang
 title: Wenchang
 type: location
+nature: 5.0
+leisure: 5.7
+adventure: 3.8
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Wenchang sits on Hainan's northeast coast and has a strong claim to being the island's cultural capital — the ancestral home of a significant part of the overseas Hainanese diaspora in Southeast Asia, and the seat of what passed for island learning for centuries. The [Wenchang Confucius Temple](/asia/china/hainanisland/wenchang/wenchang_confucius_temple), built in the 11th century, is among the best-preserved historical buildings on Hainan, and the old [qilou arcaded shophouses along Wennan Street](/asia/china/hainanisland/wenchang/wennan_street_qilou) give a flavour of 1920s provincial prosperity that the south coast resort towns have long since bulldozed away.

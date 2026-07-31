@@ -14,6 +14,11 @@ snippet: Thames-side royal town dominated by Windsor Castle, a working residence
   nearly a millennium of history.
 title: Windsor
 type: location
+nature: 3.6
+leisure: 4.9
+adventure: 4.2
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Windsor exists because of its castle, and the castle is reason enough to come. [Windsor Castle](/europe/unitedkingdom/england/south_east/windsor/windsor_castle) is the oldest and largest occupied castle in the world, a royal residence for nearly a thousand years, and it dominates the town from every angle. The State Apartments, [St George's Chapel](/europe/unitedkingdom/england/south_east/windsor/st_georges_chapel) (where Henry VIII is buried alongside Charles I and Jane Seymour), and the changing of the guard are all worth your time.

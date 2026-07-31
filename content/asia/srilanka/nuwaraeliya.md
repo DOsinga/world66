@@ -14,6 +14,11 @@ snippet: Sri Lankan hill-country town of tea estates, cool air, and British colo
   oddities
 title: Nuwara Eliya
 type: location
+nature: 5.9
+leisure: 6.0
+adventure: 3.8
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 Nuwara Eliya sits at nearly 1,900 metres in the central highlands of Sri Lanka, and it is cold. Not cold by Himalayan standards, but cold enough to need a sweater at night, cold enough for log fires in the old colonial hotels, cold enough to explain why the British built a little England here in the middle of a tropical island. They came for the climate, planted tea, built a racecourse and a golf club, and left behind a townscape of mock-Tudor buildings and Victorian post offices that sits incongruously among the rolling green hills of the tea country.

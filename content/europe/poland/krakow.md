@@ -14,6 +14,11 @@ snippet: Former Polish royal capital with an intact medieval Old Town, Wawel Cas
   and Kazimierz.
 title: Krakow
 type: location
+nature: 1.2
+leisure: 8.6
+adventure: 1.4
+city_culture: 8.7
+historic_culture: 8.7
 ---
 
 Krakow was Poland's royal capital for five centuries, and walking its Old Town feels like the intervening years never happened. The vast [Main Market Square](/europe/poland/krakow/rynek_glowny) — one of Europe's largest medieval plazas — is ringed by townhouses and churches that survived the Second World War intact, which puts Krakow in rare company on the continent. [Wawel Castle](/europe/poland/krakow/wawel_castle) looms over the river at the Old Town's southern edge, and the former Jewish quarter of [Kazimierz](/europe/poland/krakow/kazimierz), just a short walk away, has become one of the most atmospheric neighbourhoods in Central Europe.

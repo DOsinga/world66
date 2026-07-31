@@ -14,6 +14,11 @@ title: Anzio
 snippet: Lazio seaside town south of Rome, remembered for wartime landings and still
   centred on its fishing harbour.
 type: location
+nature: 3.8
+leisure: 6.6
+adventure: 2.7
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Anzio is a coastal town about 50 km south of [Rome](/europe/italy/lazio/rome), known both for its beaches and its role in the Second World War. The Allied landings at Anzio in January 1944, intended to outflank the German Gustav Line, led to months of fierce fighting. The [Beach Head War Cemetery](/europe/italy/lazio/anzio/beach_head_war_cemetery) and the larger [Sicily–Rome American Cemetery](/europe/italy/lazio/anzio/sicily_rome_american_cemetery) in neighbouring Nettuno commemorate the fallen.

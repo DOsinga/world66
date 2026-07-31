@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Lake_Trasimeno
 title: Magione
 type: location
+nature: 4.1
+leisure: 6.9
+adventure: 2.8
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Magione is a quiet Umbrian town on the eastern shore of [Lake Trasimeno](/europe/italy/umbria/magione/lago_trasimeno), about 20 kilometres west of Perugia. It is not a major destination, but it earns its place on the map: the lakeside setting is lovely, and the town has genuine medieval bones.

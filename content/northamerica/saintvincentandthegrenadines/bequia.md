@@ -14,6 +14,11 @@ snippet: Small Grenadine island with hilly villages, Admiralty Bay anchorage, an
   a slow Caribbean pace.
 title: Bequia
 type: location
+nature: 5.2
+leisure: 8.0
+adventure: 2.0
+city_culture: 3.3
+historic_culture: 3.3
 ---
 
 Bequia is the largest of the Grenadine islands belonging to St. Vincent, a small, hilly island of about 7 square miles set between the Caribbean Sea to the west and the Atlantic to the east. With a population of around 5,000, it has retained a quiet, unhurried pace that the bigger resort islands have long since lost.

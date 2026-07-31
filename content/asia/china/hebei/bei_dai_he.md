@@ -12,6 +12,11 @@ title: Beidaihe
 type: location
 snippet: Bohai Sea resort district east of Beijing, long used as the capital's summer
   retreat.
+nature: 4.0
+leisure: 7.1
+adventure: 2.3
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Beidaihe is a seaside resort district on the Bohai Sea coast of Hebei province, about 280 kilometres east of Beijing. For over a century it has served as the summer escape for the capital's residents, and for much of the 20th century it served a more exclusive purpose: the leadership of the Chinese Communist Party retreated here each August to make decisions away from Beijing's heat and scrutiny. The annual Beidaihe Conference is not officially acknowledged but has shaped Chinese politics since the 1950s.

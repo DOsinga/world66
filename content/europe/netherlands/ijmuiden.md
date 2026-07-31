@@ -14,6 +14,11 @@ snippet: Industrial Dutch harbour town where the North Sea Canal meets beaches, 
 title: IJmuiden
 type: location
 loc_type: city
+nature: 4.3
+leisure: 5.6
+adventure: 3.7
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 IJmuiden is a working industrial harbour town at the mouth of the North Sea Canal, about 30 kilometres west of Amsterdam, where the flat Dutch landscape meets the North Sea. It is not a conventional tourist destination — the steel mill on its northern edge is one of the largest in Europe, and much of the town exists to service the ships and the industry. But this double-facedness is exactly what makes it interesting: alongside the blast furnaces and the fish quays, there are sweeping beaches, good dune walks into the Zuid-Kennemerland National Park, and some remarkable industrial heritage.

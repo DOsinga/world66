@@ -14,6 +14,11 @@ snippet: Highland Salvadoran capital below San Salvador Volcano, rebuilt around 
   malls, and a compact historic centre
 title: San Salvador
 type: location
+nature: 4.0
+leisure: 5.7
+adventure: 4.0
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 San Salvador is the capital and by far the largest city in El Salvador, home to around two million people in the metropolitan area. It sits at about 650 metres elevation at the foot of the San Salvador Volcano, which gives the city a pleasant climate relative to the coast — warm but not punishing.

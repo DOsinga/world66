@@ -16,6 +16,11 @@ sources:
 - https://mysticaquarium.org/
 title: Mystic
 type: location
+nature: 3.9
+leisure: 7.2
+adventure: 2.2
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Mystic is a small coastal village with a name bigger than its size, split between Groton and Stonington on the Mystic River. It made its money building ships, then reinvented itself as one of New England's most appealing maritime stops: wooden boats, a working drawbridge, clapboard houses, seafood, and enough salt air to make the tourist polish forgivable.

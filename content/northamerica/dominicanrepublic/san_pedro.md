@@ -10,6 +10,11 @@ title: San Pedro de Macorís
 type: location
 snippet: Dominican port city famed for baseball talent and the sugar-era elegance
   of its Malecón.
+nature: 4.6
+leisure: 5.0
+adventure: 4.5
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 San Pedro de Macorís is a port city on the southeastern coast of the Dominican Republic, about 70 kilometres east of [Santo Domingo](/northamerica/dominicanrepublic/santodomingo). It is one of the country's most distinctive cities — a place with a real history, a fierce local pride, and a reputation that reaches far beyond its size.

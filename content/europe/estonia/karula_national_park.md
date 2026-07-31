@@ -9,6 +9,11 @@ snippet: Small Estonian national park of rolling glacial uplands, forest, marshe
   meadows, and scattered lakes.
 title: Karula National Park
 type: location
+nature: 6.7
+leisure: 4.4
+adventure: 4.9
+city_culture: 2.9
+historic_culture: 2.9
 ---
 
 Estonia's smallest national park, established in 1993, covers the rolling Karula uplands in Valgamaa. The landscape was shaped by continental glaciers thousands of years ago and is noted for its rich diversity — marshes, swamp-forests, small lakes, streams, meadows and flower-covered knolls and hills.

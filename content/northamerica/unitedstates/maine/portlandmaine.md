@@ -14,6 +14,11 @@ snippet: Maine coastal city with a brick Old Port, serious seafood, and island f
   across Casco Bay.
 title: Portland Maine
 type: location
+nature: 3.7
+leisure: 7.9
+adventure: 1.6
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Portland is Maine's largest city and its cultural capital. The [Old Port](/northamerica/unitedstates/maine/portlandmaine/old_port) — a compact grid of brick buildings along the waterfront — is packed with restaurants, bars, and independent shops. The food scene here punches well above its weight for a city this size, with a focus on local seafood and farm-to-table cooking.

@@ -10,6 +10,11 @@ snippet: Fishing village north of Fortaleza, known for kitesurfing, sand dunes, 
   Lagoa de Cauipe.
 title: Cumbuco
 type: location
+nature: 5.0
+leisure: 7.8
+adventure: 2.0
+city_culture: 3.6
+historic_culture: 3.6
 ---
 
 Cumbuco is a small fishing village 25 kilometres north of [Fortaleza](/southamerica/brazil/fortaleza), and one of the best kitesurfing destinations in [Brazil](/southamerica/brazil). The setting is dramatic: a long sandy beach with blue sea on one side and towering sand dunes on the other, with palm trees, a small town square, and a football pitch in between.

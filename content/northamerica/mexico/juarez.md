@@ -14,6 +14,11 @@ image_license: CC BY-SA 4.0
 image_attribution: Alejandro Rosales
 snippet: Mexican border city facing El Paso, with mission-era roots beneath its hard-edged
   modern reputation.
+nature: 3.9
+leisure: 4.2
+adventure: 5.6
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Ciudad Juárez sits directly across the Rio Grande from El Paso, Texas, making it one of the busiest border crossings in the Americas. The city has a complicated reputation — the drug violence of the late 2000s and early 2010s made it one of the most dangerous cities in the world, and while security has improved significantly since then, it is still not a place for aimless wandering.

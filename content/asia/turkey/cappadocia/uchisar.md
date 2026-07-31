@@ -14,6 +14,11 @@ snippet: Cappadocian hill village beneath Uçhisar Castle, overlooking fairy chi
   pigeon valleys, and Mount Erciyes.
 title: Uchisar
 type: location
+nature: 5.6
+leisure: 6.1
+adventure: 3.8
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Uçhisar is the highest point in Cappadocia, dominated by a massive volcanic rock riddled with cave rooms that served as dwellings for centuries — the [castle](/asia/turkey/cappadocia/uchisar/uchisar_castle) visible for miles across the plateau. Climbing to the top takes about 20 minutes and rewards you with the best panorama in the region: a sweep of fairy chimneys, pigeon valleys, and the distant snow-capped cone of Mount Erciyes.

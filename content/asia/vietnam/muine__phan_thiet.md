@@ -14,6 +14,11 @@ image: muine__phan_thiet.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mui_Ne_-_Dune_shades.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Tomaswikip
+nature: 5.5
+leisure: 7.9
+adventure: 2.2
+city_culture: 3.1
+historic_culture: 3.1
 ---
 
 Mui Ne Beach stretches along the coast about 300 km northeast of [Ho Chi Minh City](/asia/vietnam/hochiminhcity), reachable only by road. A long strip of soft grey sand backed by low-rise hotels, bamboo bungalows, and coconut palms, it has been developed with more restraint than most Vietnamese beach resorts — good gardens and tree screening give each place a sense of seclusion.

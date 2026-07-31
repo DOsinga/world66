@@ -10,6 +10,11 @@ snippet: Nottinghamshire market town on the edge of Sherwood Forest, used as a b
   for the Dukeries estates
 title: Worksop
 type: location
+nature: 3.9
+leisure: 4.0
+adventure: 5.1
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Worksop is a small Nottinghamshire town on the edge of Sherwood Forest, useful primarily as a base for exploring the Dukeries — the cluster of great country estates that once belonged to some of England's wealthiest families. [Clumber Park](/europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/worksop/clumber_park), the nearest and finest, is a National Trust property with a stunning [Gothic Revival chapel](/europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/worksop/chapel_of_st_mary_the_virgin), a long lake, and miles of cycling and walking trails through ancient woodland.

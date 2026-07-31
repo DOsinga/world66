@@ -14,6 +14,11 @@ snippet: Former Ohio steel city in the Mahoning Valley, marked by deindustrialis
   and American art.
 title: Youngstown
 type: location
+nature: 3.7
+leisure: 4.0
+adventure: 5.0
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Youngstown is a former steel city in the Mahoning Valley of northeastern Ohio, near the Pennsylvania border. The collapse of the steel industry in the late 1970s — "Black Monday" in September 1977, when the Youngstown Sheet and Tube Company shut its Campbell Works — devastated the city, and Youngstown became a national symbol of deindustrialisation. The population has fallen from 170,000 at its peak to around 60,000.

@@ -14,6 +14,11 @@ snippet: Allegheny valley city at the C&O Canal terminus, with rail history and 
   ridgelines
 title: Cumberland
 type: location
+nature: 4.6
+leisure: 4.6
+adventure: 4.6
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Cumberland sits in a narrow river valley in the Allegheny Mountains of western [Maryland](/northamerica/unitedstates/maryland), where Wills Creek meets the North Branch of the Potomac and the ridgelines press in from all sides. It was once one of the most strategically important places in North America — the western terminus of the Chesapeake and Ohio Canal, the birthplace of the National Road (America's first federally funded highway), and a major hub for the Baltimore and Ohio Railroad. For a time in the mid-1800s, Cumberland was the second-largest city in Maryland.

@@ -14,6 +14,11 @@ title: Atar
 type: location
 snippet: Saharan Adrar market town and gateway to Mauritania's plateau oases and caravan
   cities.
+nature: 6.0
+leisure: 1.1
+adventure: 9.0
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Atar is the capital of the Adrar region and the main gateway to one of Mauritania's most rewarding corners. Sitting at the foot of the Adrar plateau, roughly 450 kilometres northeast of Nouakchott, it is the largest town for a very long distance in any direction — a working market town that happens to be the best base for exploring the Saharan landscapes and ancient caravan cities nearby.

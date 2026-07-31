@@ -11,6 +11,11 @@ title: Wargal
 type: location
 snippet: Telangana village known for its hilltop Saraswati Temple, a Deccan centre
   for learning rituals.
+nature: 4.0
+leisure: 3.3
+adventure: 5.7
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Wargal is a small village in Medak District, Telangana, about 60 km from Hyderabad on the Karimnagar-Siddipet highway. It is a quiet rural settlement surrounded by agricultural fields, with no particular urban character. Its significance is entirely religious: Wargal is home to one of the most important Saraswati temples in the Deccan region.

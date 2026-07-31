@@ -14,6 +14,11 @@ longitude: 18.6227
 score: 7.58
 title: Nordingrå
 type: location
+nature: 7.2
+leisure: 5.3
+adventure: 4.2
+city_culture: 2.5
+historic_culture: 2.5
 ---
 
 Nordingrå is a church village at the heart of the [High Coast](/europe/sweden/the_high_coast), the UNESCO-listed stretch of Sweden's Bothnian coastline where post-glacial land uplift has created a dramatic landscape of steep granite hills, sheltered inlets, and old fishing harbours.

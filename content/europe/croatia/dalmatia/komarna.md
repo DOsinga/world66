@@ -14,6 +14,11 @@ snippet: Small Dalmatian coastal village overlooking the Bay of Mali Ston and th
   Pelješac peninsula.
 title: Komarna
 type: location
+nature: 5.3
+leisure: 5.5
+adventure: 4.1
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Komarna is a small village on the mainland coast of Dalmatia, in the Dubrovnik-Neretva region, directly opposite the Pelješac peninsula across the narrow [Bay of Mali Ston](/europe/croatia/dalmatia/komarna/bay_of_mali_ston). It sits on a hillside above a [small harbour](/europe/croatia/dalmatia/komarna/komarna_harbour), looking across to the oyster beds that made Mali Ston and Ston famous throughout Croatia.

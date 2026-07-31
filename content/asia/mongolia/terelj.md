@@ -9,6 +9,11 @@ type: location
 loc_type: feature
 snippet: Steppe national park near Ulaanbaatar, where granite outcrops and ger camps
   line broad valleys.
+nature: 5.6
+leisure: 3.2
+adventure: 6.5
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Terelj is the easiest taste of the Mongolian steppe you can get from Ulaanbaatar. Gorkhi-Terelj National Park starts barely an hour's drive northeast of the capital, and within minutes of leaving the city's concrete edges you are in a landscape of granite outcrops, larch forests, and wide river valleys where herders still move their ger camps with the seasons.

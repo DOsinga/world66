@@ -14,6 +14,11 @@ image: canyonlands.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Canyonlands_by_snowpeak_(1).jpg
 image_license: CC BY 2.0
 image_attribution: snowpeak
+nature: 8.6
+leisure: 4.8
+adventure: 5.1
+city_culture: 1.6
+historic_culture: 1.6
 ---
 
 Canyonlands National Park is one of the great raw landscapes of the American West. The Colorado and Green rivers have carved the Colorado Plateau into a sprawling maze of canyons, mesas, and buttes — 527 square miles of red and orange sandstone in the canyon country of southeast Utah, near Moab.

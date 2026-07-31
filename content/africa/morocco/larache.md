@@ -13,6 +13,11 @@ sources:
 - https://en.wikipedia.org/wiki/Lixus_(ancient_city)
 title: Larache
 type: location
+nature: 4.2
+leisure: 5.4
+adventure: 4.3
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Larache is a relaxed Atlantic coast town where few tourists venture, making it a good place to experience everyday Moroccan life without the hustle of the more popular destinations. The town sits beside an estuary that opens into the Atlantic, with sea cliffs to the west and tangerine and orange groves to the south.

@@ -10,6 +10,11 @@ title: Khorramabad
 type: location
 snippet: Zagros valley capital of Lorestan, dominated by the Sassanid Falak-ol-Aflak
   Castle and Lur heritage.
+nature: 4.8
+leisure: 4.7
+adventure: 5.0
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Khorramabad is the capital of Lorestan Province in western Iran, set in a dramatic mountain valley where the Zagros ranges close in on all sides. The city sits at around 1,100 metres above sea level, which keeps the summers bearable compared to the Iranian lowlands — a relief if you are travelling in July or August.

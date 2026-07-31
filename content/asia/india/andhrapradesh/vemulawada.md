@@ -10,6 +10,11 @@ snippet: Telangana pilgrimage town centred on Sri Raja Rajeshwara Swamy Temple a
   its shared devotional traditions.
 title: Vemulawada
 type: location
+nature: 3.5
+leisure: 4.0
+adventure: 5.1
+city_culture: 7.1
+historic_culture: 7.1
 ---
 
 Vemulawada is a small pilgrimage town in the Rajanna Sircilla district of Telangana, 150km northeast of Hyderabad and 36km from Karimnagar. It is known throughout south India as "Dakshina Kashi" — the Kashi of the South — a title that signals its standing as one of the most important Shiva shrines in the region. The Sri Raja Rajeshwara Swamy Temple is the town's reason for existing, and for most visitors the temple, its large sacred tank, and the ghats surrounding it are the entirety of the visit.

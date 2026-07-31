@@ -9,6 +9,11 @@ snippet: Lake Superior archipelago of 21 protected islands, sandstone cliffs, li
   and quiet national lakeshore.
 title: Apostle Islands
 type: location
+nature: 6.9
+leisure: 5.4
+adventure: 4.3
+city_culture: 2.6
+historic_culture: 2.6
 ---
 
 The Apostle Islands are an archipelago of 21 islands scattered across the southwestern corner of Lake Superior, off the northern tip of Wisconsin. The national lakeshore protects the islands plus 12 miles of mainland shoreline, and it is one of the quieter units in the National Park System.

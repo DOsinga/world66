@@ -13,6 +13,11 @@ snippet: Kerry county town and practical gateway to the Dingle Peninsula, with p
   pubs, and local history.
 title: Tralee
 type: location
+nature: 4.2
+leisure: 5.5
+adventure: 4.0
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Tralee is the county town of Kerry and the main gateway to the [Dingle Peninsula](/europe/ireland/dingle), one of the most spectacular stretches of coastline in Ireland. The town itself is a practical, unpretentious place — not a beauty spot, but a good base with decent pubs, restaurants, and all the services you need.

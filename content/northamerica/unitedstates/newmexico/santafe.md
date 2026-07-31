@@ -16,6 +16,11 @@ snippet: Old adobe state capital where Canyon Road galleries and Pueblo history 
   around the Plaza.
 title: Santa Fe
 type: location
+nature: 2.3
+leisure: 7.6
+adventure: 2.2
+city_culture: 7.9
+historic_culture: 7.9
 ---
 
 Santa Fe is the oldest state capital in the United States, founded in 1610, and it wears those four centuries with effortless style. The entire downtown is built in adobe -- by law -- giving the city a warm, earth-toned character unlike any other American city. Add world-class art galleries on [Canyon Road](/northamerica/unitedstates/newmexico/santafe/canyon_road), the celebrated [Santa Fe Opera](/northamerica/unitedstates/newmexico/santafe/santa_fe_opera), and some of the best restaurants in the Southwest, and you have a place that punches far above its weight.

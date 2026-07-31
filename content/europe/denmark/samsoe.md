@@ -11,6 +11,11 @@ image: samsoe.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Issehoved_(Sams%C3%B8,_Danmark).JPG
 image_license: CC BY-SA 3.0
 image_attribution: Bob Collowan
+nature: 3.9
+leisure: 6.2
+adventure: 3.1
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Samsø is an island in the Kattegat, roughly equidistant between Jutland and Zealand, reached by ferry from Hou south of Aarhus (about an hour) or from Kalundborg on Zealand (about two hours). It is 114 square kilometres, home to around 3,700 people, and has been quietly generating more renewable energy than it consumes since the early 2000s — the wind turbines visible from the ferry are not decorative; they produce enough electricity to export to the mainland.

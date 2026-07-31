@@ -14,6 +14,11 @@ snippet: Lake Togo town where German colonial history and Vodou traditions remai
   central to local identity.
 title: Togoville
 type: location
+nature: 4.4
+leisure: 2.8
+adventure: 6.6
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Togoville sits on the northern shore of Lake Togo and is one of the most historically significant towns in the country — it was here that the German colonial treaty was signed in 1884, giving the territory its name. The town also has deep roots in Vodou: enslaved people from this region carried their spiritual practices to [Haiti](/northamerica/thecaribbean/haiti), and Vodou remains central to daily life here.

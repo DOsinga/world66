@@ -14,6 +14,11 @@ snippet: Small Fejér wine town known for Ezerjó whites and hillside cellar row
   Budapest
 title: Mór
 type: location
+nature: 4.1
+leisure: 5.1
+adventure: 4.0
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Mór is a small Hungarian wine town in the Fejér county foothills, about 70 km southwest of Budapest. It has been producing white wines — particularly from the Ezerjó grape — for centuries, and the local cellars (pincék) are the main reason to visit. The pace is slow and genuinely local; you'll encounter few tourists.

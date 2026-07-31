@@ -16,6 +16,11 @@ snippet: Lake Superior port city of grain elevators, twin-town history, and wild
   at the western Great Lakes.
 title: Thunder Bay
 type: location
+nature: 5.6
+leisure: 5.5
+adventure: 4.2
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 Thunder Bay sits at the western tip of Lake Superior, the largest freshwater lake on earth by surface area, and it wears that geography proudly. The city's skyline is dominated not by towers but by grain elevators — for decades this was the busiest grain-shipping port in the world, funnelling prairie wheat through the Great Lakes to the Atlantic. That industrial past still shapes the place: it is practical, unpretentious, and quietly proud.

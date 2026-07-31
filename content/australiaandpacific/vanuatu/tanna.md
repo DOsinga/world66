@@ -14,6 +14,11 @@ image: tanna.jpg
 image_source: https://commons.wikimedia.org/wiki/File:TannaVolcano.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Andrew J Swann
+nature: 8.4
+leisure: 4.1
+adventure: 5.9
+city_culture: 2.1
+historic_culture: 2.1
 ---
 
 Tanna is an island in southern Vanuatu, and one of the most rewarding destinations in the Pacific for travellers willing to get off the standard tourist circuit. The island's defining feature is [Mount Yasur](/australiaandpacific/vanuatu/tanna/mount_yasur), an active stratovolcano whose crater is one of the most accessible in the world — you can walk to the rim and look directly into the glowing, erupting interior. The volcano erupts frequently (multiple times per hour at peak activity), producing spectacular showers of lava bombs and a continuous deep rumble that you feel as much as hear. Watching Yasur at night, with the crater lit from below, is an experience that people don't forget.

@@ -9,6 +9,11 @@ snippet: Industrial Punjab city known for Hiran Minar, Jahangir's Mughal hunting
   and antelope memorial.
 title: Sheikhupura
 type: location
+nature: 4.5
+leisure: 2.7
+adventure: 6.6
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Sheikhupura is an industrial city in Punjab, about 35 kilometres northwest of [Lahore](/asia/pakistan/lahore). Most travellers pass through rather than linger, but the city holds one genuine attraction: Hiran Minar, a Mughal-era hunting reserve built by Emperor Jahangir in the early 17th century to honour his favourite pet antelope, Mansraj. The complex includes a minaret, a tank, and a pavilion set in landscaped grounds — it is on Pakistan's tentative list for UNESCO World Heritage status.

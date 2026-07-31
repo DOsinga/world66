@@ -15,6 +15,11 @@ image: kuching.jpg
 image_source: https://commons.wikimedia.org/wiki/File:DUN_Sarawak.JPG
 image_license: CC BY-SA 4.0
 image_attribution: Nicky Tay
+nature: 2.9
+leisure: 7.8
+adventure: 2.0
+city_culture: 6.7
+historic_culture: 6.7
 ---
 
 Kuching is the capital of Sarawak, the Malaysian state that occupies the northern third of Borneo, and it is by a considerable margin the most pleasant and interesting city on the island. The name means "cat" in Malay, though the origin of the name is disputed — a fact celebrated by the [Cat Museum](/asia/malaysia/kuching/cat_museum) and the cat fountain in [Padungan](/asia/malaysia/kuching/padungan). The city's character is shaped by its long history as the seat of the Brooke family — the White Rajahs who ruled Sarawak as a private kingdom from 1841 to 1941 — and by its layering of Malay, Chinese, and indigenous Dayak cultures that coexist with unusual ease.

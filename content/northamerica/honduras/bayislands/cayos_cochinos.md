@@ -13,6 +13,11 @@ snippet: Honduran Caribbean archipelago of coral cays, Garifuna village life, an
   a protected reef.
 title: Cayos Cochinos
 type: location
+nature: 8.3
+leisure: 5.3
+adventure: 4.5
+city_culture: 1.4
+historic_culture: 1.4
 ---
 
 Cayos Cochinos (Hog Islands) is a small archipelago of two main islands — [Cayo Grande](/northamerica/honduras/bayislands/cayos_cochinos/cayo_grande) and [Cayo Menor](/northamerica/honduras/bayislands/cayos_cochinos/cayo_menor) — and thirteen coral cays between [Roatan](/northamerica/honduras/bayislands/roatan) and the northern coast of Honduras. The islands are a marine protected area, and the surrounding reef is some of the healthiest in the Caribbean — the coral cover here is notably better than around the more-visited Bay Islands.

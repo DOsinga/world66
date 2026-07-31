@@ -10,6 +10,11 @@ snippet: Galician fishing village on the Ría de Pontevedra, lined with waterfro
   hórreos and cruceiros
 title: Combarro
 type: location
+nature: 4.2
+leisure: 7.1
+adventure: 2.4
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Combarro is a small fishing village on the [Ría de Pontevedra](/europe/spain/galicia/combarro_village/ria_de_pontevedra), a few kilometres west of [Pontevedra](/europe/spain/galicia/pontevedra) city. It's one of the best-preserved examples of traditional Galician coastal architecture in the region, declared a Historic-Artistic Site.

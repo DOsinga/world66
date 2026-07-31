@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Isca_Dumnoniorum
 title: Exeter
 type: location
+nature: 4.4
+leisure: 4.3
+adventure: 5.0
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Exeter is Devon's county town, an ancient city that feels surprisingly lively thanks to its university and central position on the rail line between London and Cornwall. It is not coastal and does not sit in a national park, so it gets fewer tourists than much of Devon, but it deserves more attention than it gets.

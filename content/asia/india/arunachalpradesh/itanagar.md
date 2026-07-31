@@ -13,6 +13,11 @@ sources:
 - https://en.wikipedia.org/wiki/Ita_Fort
 title: Itanagar
 type: location
+nature: 6.0
+leisure: 4.0
+adventure: 5.7
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Itanagar is the capital of Arunachal Pradesh, India's wildest and least-visited northeastern state. The city sits in the foothills of the eastern Himalayas, surrounded by subtropical forest and low mountains. It is small, unhurried, and genuinely off the tourist circuit.

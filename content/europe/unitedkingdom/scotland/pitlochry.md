@@ -14,6 +14,11 @@ title: Pitlochry
 type: location
 snippet: Perthshire town on the River Tummel, known for theatre, forest walks, and
   Highland scenery.
+nature: 6.5
+leisure: 5.2
+adventure: 4.5
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 Pitlochry sits in a green fold of the Perthshire hills, surrounded by forested slopes and the River Tummel. It fills up in summer — particularly during the [Pitlochry Festival Theatre](/europe/unitedkingdom/scotland/pitlochry/pitlochry_festival_theatre)'s season, which runs from May through October and draws audiences from across Scotland for its rotating repertoire of plays.

@@ -22,6 +22,11 @@ snippet: Hilly Pacific port city where fog, Victorian streets, and bay views def
   northern California's imagination
 title: San Francisco
 type: location
+nature: 1.7
+leisure: 8.8
+adventure: 1.3
+city_culture: 7.9
+historic_culture: 7.9
 ---
 
 San Francisco is one of those rare cities that lives up to the hype. Built across forty-two hills at the tip of a peninsula, with the Pacific on one side and the Bay on the other, it is impossibly scenic in ways that still catch you off guard even after you have been there for weeks. The fog rolling through the [Golden Gate](/northamerica/unitedstates/california/sanfrancisco/golden_gate_bridge), the [pastel Victorians](/northamerica/unitedstates/california/sanfrancisco/painted_ladies) stacked up steep hillsides, the glittering Bay stretching out to [Alcatraz](/northamerica/unitedstates/california/sanfrancisco/alcatraz_island) -- it all looks like someone designed it for a postcard, except it is real and people actually live here.

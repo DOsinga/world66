@@ -12,6 +12,11 @@ score: 7.97
 snippet: Former Mongol Empire capital site, now known for the walled Erdene Zuu Monastery.
 title: Karakorum
 type: location
+nature: 7.2
+leisure: 2.3
+adventure: 7.7
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 Karakorum (Kharkhorin in modern Mongolian) was the capital of the Mongol Empire under Ögedei Khan, founded in 1235 at the crossroads of the Silk Road. For a brief period it was the most powerful city on earth, seat of an empire stretching from Korea to Hungary. Marco Polo described it, though by the time he wrote the city had already been eclipsed by Kublai Khan's move to Beijing.

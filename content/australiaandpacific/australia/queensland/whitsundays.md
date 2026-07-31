@@ -16,6 +16,11 @@ sources:
 title: Whitsundays
 type: location
 score: 9.0
+nature: 7.3
+leisure: 7.4
+adventure: 2.6
+city_culture: 1.6
+historic_culture: 1.6
 ---
 
 The Whitsundays are the glossy, island-studded heart of the central Great Barrier Reef: 74 green hills dropped into water that seems almost too blue to be real. Most travellers come for sailing, snorkelling, and the white silica sweep of [Whitehaven Beach](/australiaandpacific/australia/queensland/whitsundays/whitehaven_beach), but the best trips slow down enough to enjoy the empty coves between the famous stops.

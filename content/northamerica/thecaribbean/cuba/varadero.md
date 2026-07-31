@@ -14,6 +14,11 @@ snippet: Cuban beach resort peninsula lined with white sand between the Straits 
   Florida and Bahía de Cárdenas.
 title: Varadero
 type: location
+nature: 4.6
+leisure: 7.8
+adventure: 1.9
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 Varadero is Cuba's principal beach resort — a long, narrow peninsula extending into the Straits of Florida about 140 km east of Havana, with 20 km of white sand beach on one side and the Bahía de Cárdenas on the other. It is almost entirely given over to tourism, with large all-inclusive resorts dominating the landscape. For most visitors, that is precisely the point.

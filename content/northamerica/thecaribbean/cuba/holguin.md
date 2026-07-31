@@ -10,6 +10,11 @@ snippet: Eastern Cuban provincial city of parks and plazas, with beaches and mou
   beyond.
 title: Holguín
 type: location
+nature: 4.7
+leisure: 5.6
+adventure: 4.1
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Holguín province covers the eastern end of [Cuba](/northamerica/thecaribbean/cuba) and is where Columbus first landed in 1492, reportedly declaring it the most beautiful land ever seen by human eyes. The province has some of Cuba's best beaches, dramatic mountain scenery, and a relaxed provincial capital that sees far fewer tourists than [Havana](/northamerica/thecaribbean/cuba/havana) or [Trinidad](/northamerica/thecaribbean/cuba/trinidad).

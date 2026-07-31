@@ -14,6 +14,11 @@ title: Târgoviște
 snippet: Former Wallachian capital northwest of Bucharest, centred on the Princely
   Court of Vlad the Impaler.
 type: location
+nature: 3.8
+leisure: 4.7
+adventure: 4.5
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Târgoviște was the capital of Wallachia from the thirteenth to the seventeenth century, when the princes of this Romanian principality held court here before moving to Bucharest. Today it is a mid-sized city about 80 kilometres northwest of Bucharest, and its history gives it more layers of interest than most Romanian towns of similar size.

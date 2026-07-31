@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Hugo,_Oklahoma
 title: Hugo
 type: location
+nature: 4.4
+leisure: 4.5
+adventure: 4.5
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Known as "Circus City, USA," Hugo is a small town in Choctaw County near the Texas border where several circus families have wintered for generations. The town's unique circus heritage is visible in the [Circus Ring of Fame](/northamerica/unitedstates/oklahoma/hugo/circus_ring_of_fame) on the town square and at [Showmen's Rest](/northamerica/unitedstates/oklahoma/hugo/showmens_rest) — the showmen's section of Mount Olivet Cemetery, where elaborate headstones feature carved elephants and big-top motifs.

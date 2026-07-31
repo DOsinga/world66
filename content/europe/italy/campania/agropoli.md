@@ -14,6 +14,11 @@ snippet: Cilento coast town where a Byzantine promontory fortress guards Campani
   southern shoreline
 title: Agropoli
 type: location
+nature: 3.6
+leisure: 6.3
+adventure: 2.9
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Agropoli is the main town on the southern stretch of Campania coast, at the northern edge of the Cilento National Park (a UNESCO World Heritage Site). The name comes from the Greek *akropolis* — the Byzantine settlers who fortified the promontory were making a direct reference to Athens. Before them came the Greeks, who built a temple to Artemis here; before them, the indigenous Lucanian people.

@@ -16,6 +16,11 @@ snippet: Namibian coastal town where German colonial architecture meets Atlantic
   and the Namib Desert dunes.
 title: Swakopmund
 type: location
+nature: 5.7
+leisure: 6.9
+adventure: 3.1
+city_culture: 3.6
+historic_culture: 3.6
 ---
 
 Swakopmund sits at a collision of worlds: the cold Atlantic on one side, the oldest desert on earth on the other, and in the middle a town that looks as though it was transplanted wholesale from a Bavarian market square. The German colonial architecture — turrets, towers, Jugendstil facades — is not a veneer. It is the bones of the place, and the contrast with the surrounding dunes and fog-draped coast is genuinely strange and genuinely wonderful.

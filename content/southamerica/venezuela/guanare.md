@@ -10,6 +10,11 @@ snippet: Portuguesa state capital on the llanos, known for the Virgen de Coromot
   pilgrimage tradition.
 title: Guanare
 type: location
+nature: 6.0
+leisure: 3.6
+adventure: 5.9
+city_culture: 3.9
+historic_culture: 3.9
 ---
 
 **Guanare** is the capital of Portuguesa state, located on the Venezuelan llanos (plains). It is known as the spiritual capital of Venezuela — the Virgen de Coromoto, the country's patron saint, is said to have appeared here in 1652.

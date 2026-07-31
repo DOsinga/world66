@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Derwent_Valley_Mills
 title: Derby
 type: location
+nature: 3.1
+leisure: 4.7
+adventure: 4.4
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 Derby has a strong claim to being the birthplace of the Industrial Revolution. The [Derby Silk Mill](/europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/derby/derby_silk_mill), built on the River Derwent in 1721, was one of the world's first factories, and the [Derwent Valley Mills](/europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/derby/derwent_valley_mills) stretching north to Cromford are a UNESCO World Heritage Site. Today the city is better known as the home of Rolls-Royce and a gateway to the [Peak District](/europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/peak_district).

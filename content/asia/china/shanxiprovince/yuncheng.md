@@ -11,6 +11,11 @@ snippet: Ancient Shanxi plains city near the Yellow River bend, associated with 
   Shun and Guan Yu
 type: location
 score: 6.49
+nature: 4.0
+leisure: 4.4
+adventure: 4.8
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Yuncheng lies at the far southwestern corner of Shanxi, where the province narrows to a wedge between Henan and Shaanxi. It is one of the oldest continuously settled places in China — the flat plains around the Yellow River bend here were the heartland of several legendary early dynasties, and the city makes much of its association with the semi-mythical Emperor Shun and General Guan Yu, the deified warrior of the Three Kingdoms whose birthplace is nearby. Most visitors come for two things: the Yongle Palace and the Salt Lake.

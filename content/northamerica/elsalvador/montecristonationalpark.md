@@ -7,6 +7,11 @@ longitude: -89.3667
 score: 7.02
 snippet: Cloud forest national park at El Salvador's tri-border highlands, protecting
   Cerro Montecristo's montane habitat.
+nature: 7.9
+leisure: 4.5
+adventure: 5.2
+city_culture: 2.0
+historic_culture: 2.0
 ---
 
 Montecristo National Park occupies the mountainous tri-border zone where El Salvador, Guatemala, and Honduras converge — a cloud forest park of exceptional ecological value in a corner of Central America where genuine wilderness is increasingly rare. The park protects about 2,000 hectares of montane forest, rising to around 2,400 metres at the summit of Cerro Montecristo, and the high-altitude cloud forest here is one of the most biodiverse environments in the region.

@@ -10,6 +10,11 @@ snippet: Lake District base on Windermere, practical for boat trips, piers, and 
   tourism.
 title: Bowness
 type: location
+nature: 6.0
+leisure: 6.9
+adventure: 3.1
+city_culture: 3.2
+historic_culture: 3.2
 ---
 
 More properly called Bowness-on-Windermere, this lakeside town grew up as a tourist centre in the Victorian era when the railway arrived from Kendal. It is not the prettiest settlement in the [Lake District](/europe/unitedkingdom/england/lakedistrict), but it is the most practical base for getting out on the water, and that is really the point of being here.

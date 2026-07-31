@@ -14,6 +14,11 @@ snippet: Brazilian mountain resort near Rio de Janeiro, founded by Swiss emigran
   in the Serra Fluminense.
 title: Nova Friburgo
 type: location
+nature: 5.7
+leisure: 4.9
+adventure: 4.7
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 **Nova Friburgo** is a mountain resort some 2 hours by bus from [Rio de Janeiro](/southamerica/brazil/riodejaneiro) with a peculiar charm. The town was established by Swiss emigrants in the beginning of the 19-th century and is a curious mixture of Central European style buildings and a Brazilian lifestyle. 

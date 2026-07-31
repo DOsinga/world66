@@ -13,6 +13,11 @@ snippet: South Australian wine region north of Adelaide, marked by German settle
   food traditions and cellar doors
 title: Barossa Valley
 type: location
+nature: 5.5
+leisure: 7.4
+adventure: 2.5
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 The Barossa Valley is Australia's most famous wine region, responsible for a significant share of the country's output and home to some of its most celebrated producers — Penfolds, Henschke, Peter Lehmann, Seppeltsfield. It lies about an hour's drive north of Adelaide and is the easiest of South Australia's wine regions to visit.

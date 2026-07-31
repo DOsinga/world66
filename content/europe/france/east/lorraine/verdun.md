@@ -14,6 +14,11 @@ snippet: Meuse River city defined by First World War battlefields, memorials, an
   an older treaty-making history.
 title: Verdun
 type: location
+nature: 3.7
+leisure: 6.1
+adventure: 3.3
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Verdun is a small city on the Meuse River in eastern France, roughly halfway between Paris and Strasbourg. Its name is known worldwide for the devastating battle fought here in 1916 — one of the longest and bloodiest engagements of the First World War, with an estimated 700,000 casualties on both sides. The battlefields and memorials in the hills north of the city are the principal reason to visit.

@@ -13,6 +13,11 @@ snippet: Argentina's Atlantic beach resort city, with long urban beaches and sum
   crowds from Buenos Aires
 title: Mar del Plata
 type: location
+nature: 3.8
+leisure: 5.8
+adventure: 3.5
+city_culture: 6.0
+historic_culture: 6.0
 ---
 
 Mar del Plata is Argentina's biggest beach resort, a city of around 600,000 on the Atlantic coast some 400 kilometres south of Buenos Aires. For over a century it has been where porteños escape the summer heat — the 29 miles of coastline range from packed urban beaches with full resort infrastructure to quieter stretches backed by dunes.

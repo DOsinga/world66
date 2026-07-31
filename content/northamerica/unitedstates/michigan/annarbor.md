@@ -15,6 +15,11 @@ title: Ann Arbor
 snippet: Michigan university city shaped by the University of Michigan and a broad
   cultural life.
 type: location
+nature: 2.7
+leisure: 7.3
+adventure: 2.1
+city_culture: 7.3
+historic_culture: 7.3
 ---
 
 Ann Arbor is Michigan's most intellectually lively city — a university town that has grown into something more than a university town. The University of Michigan, one of the great public research universities in the United States, defines the place: it employs a significant chunk of the population, fills the streets with students, and funds a cultural life that includes a world-class art museum, a film festival, and a music scene with real range.

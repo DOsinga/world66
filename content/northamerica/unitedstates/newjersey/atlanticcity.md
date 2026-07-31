@@ -14,6 +14,11 @@ snippet: New Jersey seaside resort on a barrier island, built around casinos and
   historic wooden boardwalk.
 title: Atlantic City
 type: location
+nature: 2.9
+leisure: 7.3
+adventure: 2.0
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Atlantic City is a seaside resort on the New Jersey shore, about 90 minutes south-east of Philadelphia, built on a flat sandy barrier island that gives the place its famously long boardwalk — at six kilometres the oldest, and until fairly recently the most famous, wooden boardwalk in the world. The city was laid out in 1854 as a weekend escape for the factory workers of Philadelphia, and for a century it was the single biggest summer destination on the east coast. When jet travel opened up Florida and the Caribbean in the 1960s the resort went into a steep decline, and in 1976 New Jersey voters legalised casino gambling here in the hope of reviving it. It half worked. The casinos rebuilt the skyline, the boardwalk and the beach were restored, and Atlantic City had a second life — but the opening of casinos in Pennsylvania and New York in the 2000s cut its customer base in half, several of the big resorts have closed, and today the place has the melancholic air of an empire past its peak.

@@ -10,6 +10,11 @@ snippet: Slovenian university city on the Drava, with riverside Lent and wine-gr
   hills close by.
 title: Maribor
 type: location
+nature: 3.6
+leisure: 6.7
+adventure: 2.8
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Maribor is Slovenia's second city — overlooked by most visitors who rush between Ljubljana and the Slovenian Alps, which is their loss. A university town of around 100,000 on the Drava river in the northeastern corner of the country, it has a relaxed, lived-in quality that the more self-consciously picturesque capital sometimes lacks.

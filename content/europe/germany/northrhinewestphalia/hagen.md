@@ -14,6 +14,11 @@ title: Hagen
 snippet: Southeastern Ruhr city where Karl Ernst Osthaus left an unexpected legacy
   of Jugendstil and modern art
 type: location
+nature: 3.6
+leisure: 5.5
+adventure: 3.5
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Hagen sits at the southeastern edge of the Ruhr, where the industrial conurbation gives way to the wooded hills and river valleys of the Sauerland. It is not a place that appears on most visitors' itineraries, and this is largely a mistake attributable to the shadow cast by its larger neighbors. The city owes its cultural significance almost entirely to one man: Karl Ernst Osthaus, a wealthy industrialist's son who in the early twentieth century used his inheritance to assemble one of the most important collections of modern art in Germany, build a museum designed by Henry van de Velde, and attempt to transform Hagen into a center of the Jugendstil movement.

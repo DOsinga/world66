@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Etar_Architectural-Ethnographic_Complex
 title: Gabrovo
 type: location
+nature: 4.5
+leisure: 5.2
+adventure: 4.1
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Gabrovo sits in the Yantra valley at the foot of the central Balkan Mountains, a practical industrial city with a surprisingly playful self-image. Bulgarians know it as the capital of humour and satire, a reputation built on jokes about Gabrovo thrift and sharpened by the city's excellent [House of Humour and Satire](/europe/bulgaria/gabrovo/house_of_humour_and_satire).

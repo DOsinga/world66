@@ -14,6 +14,11 @@ snippet: Boston-area town where the first shots of the American Revolution were 
   on the green.
 title: Lexington
 type: location
+nature: 3.1
+leisure: 5.8
+adventure: 3.5
+city_culture: 7.4
+historic_culture: 7.4
 ---
 
 Lexington is a prosperous suburb nine miles northwest of Boston, but its fame rests on a single April morning in 1775: this is where the first shots of the American Revolution were fired.

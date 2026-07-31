@@ -14,6 +14,11 @@ snippet: Portuguese border fortress town above the Minho, facing Spain across a 
   river crossing.
 title: Valença do Minho
 type: location
+nature: 4.4
+leisure: 4.3
+adventure: 5.1
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Valença do Minho sits on the northern border of [Portugal](/europe/portugal), perched above the Minho River with [Spain](/europe/spain) visible on the opposite bank. The town is dominated by its massive [double-walled fortress](/europe/portugal/valena_do_minho/fortress), built in the 17th century to defend against Spanish incursions. The fortifications are remarkably intact — you can walk the full circuit of the walls, with views over the river, the Eiffel-designed railway bridge, and the Spanish town of [Tui](/europe/portugal/valena_do_minho/tui_day_trip) across the water.

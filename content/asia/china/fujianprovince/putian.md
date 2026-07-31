@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Putian
 title: Putian
 type: location
+nature: 3.8
+leisure: 5.3
+adventure: 4.2
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Putian sits on the coast midway between Fuzhou and Xiamen, and it occupies an unusual place in world religion: this mid-sized Fujianese city is the birthplace of Mazu, the goddess of the sea, whose cult spread wherever Fujianese and Cantonese sailors went. There are now over three thousand Mazu temples worldwide, from Taiwan and Vietnam to San Francisco and Rotterdam, but the source of the tradition is the small island of Meizhou off Putian's coast. The annual Mazu birthday festival in the third lunar month draws over a hundred thousand pilgrims and is listed as UNESCO intangible cultural heritage.

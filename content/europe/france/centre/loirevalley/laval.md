@@ -14,6 +14,11 @@ snippet: Medieval river town on the Mayenne, with half-timbered lanes and a châ
   linked to Henri Rousseau.
 title: Laval
 type: location
+nature: 3.3
+leisure: 7.0
+adventure: 2.5
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Laval straddles the River Mayenne in western France, a compact medieval town that most travellers pass through without stopping — which is a shame. The old centre clusters around the [Château de Laval](/europe/france/centre/loirevalley/laval/chateau_de_laval), whose 45-metre-high donjon offers wide views over the river valley, and whose interior houses a collection of naïve art, including works by Henri Rousseau, who was born here.

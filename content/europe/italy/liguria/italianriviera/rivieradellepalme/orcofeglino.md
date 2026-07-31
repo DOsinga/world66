@@ -10,6 +10,11 @@ snippet: Liguria hill municipality above Finale Ligure, split between valley ham
   and ridge village below Monte Alto
 title: Orco Feglino
 type: location
+nature: 5.7
+leisure: 4.4
+adventure: 5.3
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Orco Feglino is a municipality in the hinterland of Finale Ligure, on the southern side of Monte Alto. The township of Feglino sits on the floor of the Aquila valley, while Orco is perched on a ridge in a panoramic position. A possession of the Del Carretto family, who built a castle here, it was ruled by Spain from the second half of the sixteenth century until 1713, when it passed to the Republic of Genoa.

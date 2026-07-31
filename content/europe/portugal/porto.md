@@ -14,6 +14,11 @@ title: Porto
 snippet: Granite Douro city of tiled facades, iron bridges, and port-wine cellars
   across the river.
 type: location
+nature: 1.6
+leisure: 9.2
+adventure: 0.8
+city_culture: 7.7
+historic_culture: 7.7
 ---
 
 Porto is Portugal's second city and, in many ways, its most honest one. As the Portuguese saying goes: "Lisbon shows off, Braga prays, Coimbra studies, and Porto works." It is a place that has never tried to be pretty for visitors, yet its unvarnished beauty — crumbling azulejo facades, granite churches, iron bridges spanning the Douro gorge — makes it one of Europe's most rewarding cities.

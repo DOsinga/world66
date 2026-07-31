@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Schauspiel_Bochum
 snippet: Ruhr city remade from coal and steel around universities, theatre, and industrial
   heritage.
+nature: 2.9
+leisure: 6.2
+adventure: 2.8
+city_culture: 7.1
+historic_culture: 7.1
 ---
 
 Bochum is a Ruhr city that ran on coal for over a century, then had to figure out what to do when the mines closed. The last shaft went dark in the 1970s, the steelworks followed, and Bochum spent the 1980s and 1990s rebuilding itself around universities, culture, and a surprisingly vibrant music and theatre scene. It has not become glamorous — this is still a working-class city with a blunt civic pride — but it is livelier and more interesting than its industrial reputation suggests.

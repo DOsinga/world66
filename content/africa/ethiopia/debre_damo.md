@@ -14,6 +14,11 @@ snippet: Flat-topped Tigray mountain crowned by an ancient monastery reached by 
   leather rope climb.
 title: Debre Damo
 type: location
+nature: 6.5
+leisure: 1.8
+adventure: 8.0
+city_culture: 4.2
+historic_culture: 4.2
 ---
 
 Debre Damo is a flat-topped mountain in the Tigray region of northern [Ethiopia](/africa/ethiopia), west of Adigrat, crowned by one of the country's oldest and most dramatic monasteries. The only way up is by climbing a 15-metre leather rope hauled by monks at the top — there are no steps, no path, and no alternative. Women are not permitted to enter (a rule that has held since the monastery's founding in the 6th century).

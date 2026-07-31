@@ -11,6 +11,11 @@ snippet: Paraguayan frontier boomtown at the Triple Frontier, driven by border t
   and nearby Itaipú Dam
 title: Ciudad del Este
 type: location
+nature: 4.5
+leisure: 3.3
+adventure: 5.9
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Ciudad del Este is Paraguay's second city and the strangest place in the country — a chaotic frontier boomtown on the Paraná river, 327 km east of Asunción, where Paraguay, Brazil and Argentina meet at the **Triple Frontier**. It was founded in 1957 to anchor the Paraguayan side of the border, and ballooned in the 1980s and 1990s into one of South America's biggest contraband bazaars. Electronics, knock-off perfume, counterfeit watches and bootleg DVDs pour across the Friendship Bridge from Brazil every day; on a busy Saturday you can barely move on Avenida San Blas.

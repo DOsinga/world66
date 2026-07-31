@@ -14,6 +14,11 @@ title: Vanderhoof
 type: location
 snippet: Small Nechako River town at British Columbia's geographic centre, surrounded
   by ranchland and bird-rich river flats.
+nature: 5.8
+leisure: 4.9
+adventure: 4.3
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 Vanderhoof sits at the geographical centre of British Columbia, a small ranching and forestry town on the Nechako River. It is not a destination in itself, but it makes a useful stop on the drive between Prince George and the lakes district to the west.

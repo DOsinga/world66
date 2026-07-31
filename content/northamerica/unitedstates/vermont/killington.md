@@ -13,6 +13,11 @@ snippet: Vermont mountain town centred on the state's largest ski resort and yea
   outdoor trails.
 title: Killington
 type: location
+nature: 7.1
+leisure: 6.4
+adventure: 3.5
+city_culture: 2.2
+historic_culture: 2.2
 ---
 
 Killington is Vermont's biggest ski resort and one of the largest in the eastern United States, with seven mountain areas, nearly 100 kilometres of trails, and a season that often stretches from October into May. Locals call it "The Beast of the East," and on a busy winter weekend the access road is a slow crawl of ski traffic.

@@ -17,6 +17,11 @@ sources:
 - https://whc.unesco.org/document/192644
 title: Belur
 type: location
+nature: 2.7
+leisure: 4.8
+adventure: 4.8
+city_culture: 8.1
+historic_culture: 8.1
 ---
 
 Belur is a small town with one extraordinary reason to visit: the [Chennakeshava Temple](/asia/india/karnataka/belur/chennakeshava_temple), one of the finest surviving works of Hoysala architecture. The temple was commissioned in 1117 CE by King Vishnuvardhana and is now part of UNESCO's Sacred Ensembles of the Hoysalas, along with Halebidu and Somanathapura.

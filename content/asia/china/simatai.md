@@ -13,6 +13,11 @@ snippet: Steep, largely unrestored Great Wall section northeast of Beijing, with
   on narrow ridges.
 title: Simatai
 type: location
+nature: 5.3
+leisure: 3.9
+adventure: 5.9
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Simatai is one of the few sections of the Great Wall that has been left largely unrestored, and that is exactly its appeal. The wall here is steep and crumbling in places, with watchtowers perched on narrow ridges that drop away sharply on both sides. It feels like the real thing in a way that the polished sections at Badaling never will. Located about 120 kilometres northeast of [Beijing](/asia/china/beijing), in Miyun District, Simatai offers the Great Wall experience that most visitors imagine but rarely find.

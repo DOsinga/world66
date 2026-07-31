@@ -14,6 +14,11 @@ title: Melgaço
 type: location
 snippet: Northern Portuguese border town of granite lanes, Alvarinho vineyards, and
   a medieval castle above the Minho.
+nature: 5.3
+leisure: 5.4
+adventure: 4.0
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Melgaço is the northernmost town in [Portugal](/europe/portugal), reached by a scenic bus ride up the Minho valley from [Valença do Minho](/europe/portugal/valena_do_minho). It sits right on the Spanish border, surrounded by vineyards producing Alvarinho wine — the town claims to be the birthplace of this crisp, aromatic white.

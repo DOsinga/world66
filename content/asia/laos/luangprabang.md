@@ -16,6 +16,11 @@ snippet: Mekong and Nam Khan river city with gilded temples, colonial buildings,
   Lao royal history.
 title: Luang Prabang
 type: location
+nature: 3.1
+leisure: 7.4
+adventure: 2.4
+city_culture: 7.1
+historic_culture: 7.1
 ---
 
 Luang Prabang is quite possibly the most beautiful small city in Southeast Asia. Set on a peninsula where the Nam Khan meets the Mekong, the UNESCO World Heritage old town is a tapestry of gilded temples, French colonial buildings, and traditional wooden houses shaded by frangipani trees.

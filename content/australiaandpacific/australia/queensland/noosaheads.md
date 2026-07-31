@@ -13,6 +13,11 @@ title: Noosa Heads
 snippet: Sunshine Coast beach town with low-rise streets, sheltered surf, and Noosa
   National Park headland.
 type: location
+nature: 6.1
+leisure: 7.9
+adventure: 2.1
+city_culture: 2.5
+historic_culture: 2.5
 ---
 
 Noosa Heads is one of the most popular beach destinations on [Queensland](/australiaandpacific/australia/queensland)'s Sunshine Coast, about 90 minutes north of [Brisbane](/australiaandpacific/australia/queensland/brisbane). Unlike the high-rise sprawl of the Gold Coast, Noosa has kept its development low-rise by local ordinance, and the town sits comfortably among subtropical vegetation with a distinctly relaxed feel. It is expensive, fashionable, and genuinely beautiful.

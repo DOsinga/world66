@@ -14,6 +14,11 @@ snippet: Burgundy wine town inside medieval ramparts, surrounded by Côte de Bea
   vineyards and anchored by the Hospices
 title: Beaune
 type: location
+nature: 1.8
+leisure: 9.3
+adventure: 0.4
+city_culture: 7.4
+historic_culture: 7.4
 ---
 
 Beaune is the wine capital of [Burgundy](/europe/france/east/burgundy) — a compact, beautiful town encircled by medieval ramparts and surrounded on all sides by some of the most celebrated vineyards in the world. The Côte de Beaune to the south produces the great white Burgundies (Meursault, Puligny-Montrachet, Corton-Charlemagne); the Côte de Nuits to the north produces the reds (Gevrey-Chambertin, Vosne-Romanée, Nuits-Saint-Georges).

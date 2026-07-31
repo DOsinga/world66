@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/P%C5%ABkaha_National_Wildlife_Centre
 title: Masterton
 type: location
+nature: 5.3
+leisure: 5.6
+adventure: 3.9
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Masterton is the main town of the [Wairarapa](/australiaandpacific/newzealand/north_island/greater_wellington/wairarapa) and the largest settlement east of the Remutaka Range. It is a quiet, prosperous service town for the surrounding sheep country — the population is just over 20,000 — and has the unhurried, slightly old-fashioned feel of a place that grew up around the wool trade. For most visitors it is a base for the Wairarapa wine country to the south or for trips north to the [Pukaha National Wildlife Centre](/australiaandpacific/newzealand/north_island/greater_wellington/wairarapa/masterton/pukaha_mount_bruce).

@@ -16,6 +16,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Limoges
 title: Limoges
 type: location
+nature: 3.6
+leisure: 6.5
+adventure: 2.7
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Limoges is the kind of French city that tends to be dismissed by travellers in a hurry — a modest prefectural town on the western slopes of the Massif Central, more familiar as an adjective than as a destination. That is their loss. The city has a fine Gothic cathedral, a museum of porcelain that is among the best of its kind in the world, and an old town of real character built on the hinge between two ancient rival settlements.

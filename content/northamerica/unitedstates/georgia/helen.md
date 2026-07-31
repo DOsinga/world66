@@ -10,6 +10,11 @@ snippet: Northeast Georgia mountain town remade as a Bavarian village beside the
   River.
 title: Helen
 type: location
+nature: 6.2
+leisure: 5.0
+adventure: 4.4
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 Helen is a small town in the mountains of northeast Georgia that was reimagined in 1969 as a Bavarian Alpine village — an unlikely transformation that has made it one of the most visited small towns in the state. The mock-Bavarian architecture is kitsch but enthusiastically done, and the setting in a valley along the Chattahoochee River is genuinely beautiful.

@@ -14,6 +14,11 @@ snippet: Quiet Achterhoek town surrounded by forests, estates, heathland, and th
   wooded Lochemse Berg ridge.
 title: Lochem
 type: location
+nature: 4.4
+leisure: 5.3
+adventure: 3.9
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Lochem is a quiet town in the Achterhoek region of the eastern [Netherlands](/europe/netherlands), surrounded by forests, heathland, and country estates. The Achterhoek is one of the greenest corners of the country, and Lochem sits right in the middle of it — a good base for cycling and walking through the wooded landscape. The [Lochemse Berg](/europe/netherlands/lochem/lochemse_berg), the ridge of woods south of the town, is the only meaningful elevation for many miles around.

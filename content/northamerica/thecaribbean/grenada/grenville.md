@@ -13,6 +13,11 @@ sources:
 - https://new.millsarchive.org/mills/index/14474
 title: Grenville
 type: location
+nature: 5.2
+leisure: 5.4
+adventure: 4.1
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Grenville is the east-coast counterweight to St. George's: less polished, more workaday, and far more useful if you want to see how Grenada moves when cruise ships are not setting the rhythm. The town sits on Grenville Bay in Saint Andrew parish, with minibuses, market stalls, fish vendors, and school uniforms giving it the feel of a proper local hub rather than a beach resort.

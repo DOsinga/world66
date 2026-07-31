@@ -14,6 +14,11 @@ snippet: Central Kansas prairie city with a restored opera house, local museum, 
   wheat-country calm.
 title: McPherson
 type: location
+nature: 4.0
+leisure: 4.0
+adventure: 5.1
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 McPherson is a small city in central Kansas, set in the wheat and prairie country along I-135, about midway between Wichita and Salina. It is quiet for much of the year, but has more to it than first appearances suggest.

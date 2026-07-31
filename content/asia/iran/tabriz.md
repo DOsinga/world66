@@ -12,6 +12,11 @@ snippet: Northwestern Iranian city of Azeri culture, Silk Road trade, and a vast
   bazaar.
 title: Tabriz
 type: location
+nature: 3.2
+leisure: 4.6
+adventure: 5.2
+city_culture: 7.8
+historic_culture: 7.8
 ---
 
 Tabriz sits in a broad valley in Iran's northwest, ringed by mountains and close to the Turkish border. It is one of the oldest continuously inhabited cities in the Middle East, and it feels it — this is a place with layers. Once a capital of the Persian and Safavid empires, Tabriz was a major stop on Silk Road trade routes, and its enormous covered [bazaar](/asia/iran/tabriz/grand_bazaar) remains the commercial heart of the city.

@@ -9,6 +9,11 @@ snippet: Ontario university city with limestone Victorian streets, a landmark ba
   and a long-running farmers' market.
 title: Guelph and area
 type: location
+nature: 3.9
+leisure: 5.8
+adventure: 3.2
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Guelph is a university city with a strong arts scene and some of the best-preserved limestone architecture in Ontario. Settled in the 1820s, the downtown still has a handsome Victorian core built in the local grey stone, centred on the [Basilica of Our Lady Immaculate](/northamerica/canada/ontario/guelph_and_area/basilica_of_our_lady) — an imposing neo-Gothic cathedral visible from most of the city. The University of Guelph gives the place energy and keeps the music and gallery scene lively for a city of its size.

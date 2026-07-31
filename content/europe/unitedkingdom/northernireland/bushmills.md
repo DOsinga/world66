@@ -14,6 +14,11 @@ snippet: North Antrim village known for Old Bushmills Distillery, close to the G
   Causeway coast
 title: Bushmills
 type: location
+nature: 4.8
+leisure: 6.6
+adventure: 3.1
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Bushmills is a small village on the north Antrim coast best known for one thing: the [Old Bushmills Distillery](/europe/unitedkingdom/northernireland/bushmills/old_bushmills_distillery), which has been producing Irish whiskey here since 1608, making it the oldest licensed whiskey distillery in the world. The village sits a mile inland from the Giant's Causeway, which makes it an obvious stopping point on any coastal drive.

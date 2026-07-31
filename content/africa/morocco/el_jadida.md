@@ -7,6 +7,11 @@ snippet: Moroccan Atlantic port whose Portuguese-built Mazagan walls and vaulted
   preserve a fortified colonial medina.
 title: El Jadida
 type: location
+nature: 4.0
+leisure: 6.4
+adventure: 3.2
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 El Jadida sits on the Atlantic coast of Morocco about 100 kilometres south of Casablanca, and it has a claim on history that most Moroccan coastal towns lack: the old medina here was built by the Portuguese in the 16th century, and its fortified walls, bastions, and the extraordinary underground cistern they constructed still stand largely intact. The Portuguese called it Mazagan, and the historic centre they built was added to the UNESCO World Heritage List in 2004 — one of the best-preserved examples of early modern Portuguese colonial architecture in the world.

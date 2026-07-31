@@ -13,6 +13,11 @@ title: Ohrid
 type: location
 snippet: Lakeside town in North Macedonia, known for medieval churches and UNESCO-listed
   Lake Ohrid.
+nature: 3.8
+leisure: 6.6
+adventure: 3.1
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Ohrid is North Macedonia's most visited destination, and for good reason. The town sits on the northeastern shore of Lake Ohrid — one of Europe's oldest and deepest lakes, shared with Albania — and the whole area is a UNESCO World Heritage Site for both its cultural and natural value.

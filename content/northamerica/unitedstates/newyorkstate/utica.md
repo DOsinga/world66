@@ -14,6 +14,11 @@ title: Utica
 type: location
 snippet: Mohawk Valley city on the old Erie Canal, reshaped by refugee communities
   and immigrant food.
+nature: 3.2
+leisure: 5.1
+adventure: 4.2
+city_culture: 7.4
+historic_culture: 7.4
 ---
 
 Utica is a small city in the Mohawk Valley of central New York State, once a major hub on the Erie Canal. The city went through hard times as industry left, but has found an unlikely second act as one of the most diverse small cities in the northeast — waves of Bosnian, Burmese, and Somali refugees have revitalised neighbourhoods and brought new restaurants and markets to Bleecker Street.

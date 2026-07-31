@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Harrogate
 title: Harrogate
 type: location
+nature: 3.2
+leisure: 6.3
+adventure: 3.0
+city_culture: 6.5
+historic_culture: 6.5
 ---
 
 Harrogate is a handsome Victorian spa town in North Yorkshire, one of England's most elegant and self-assured small cities. The town grew rich in the 18th and 19th centuries on the strength of its mineral springs — visitors came from across Europe to "take the waters" — and the legacy shows everywhere: in the broad tree-lined avenues, the immaculate public gardens, the confident stone architecture, and a civic pride that keeps everything polished and well-planted.

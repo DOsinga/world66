@@ -13,6 +13,11 @@ snippet: Transylvanian medieval city founded by Saxon settlers, with fortified w
   and three old-town squares.
 title: Sibiu
 type: location
+nature: 2.5
+leisure: 6.0
+adventure: 3.6
+city_culture: 8.3
+historic_culture: 8.3
 ---
 
 Sibiu (Hermannstadt in German) is one of the best-preserved medieval cities in Central Europe, sitting in the foothills of the Southern Carpathians in Transylvania. It was founded by Saxon colonists in the 12th century, grew into a powerful trading centre, and defended itself successfully against repeated Ottoman attacks in the 15th century with [walls, bastions, and towers](/europe/romania/sibiu/city_walls) that still ring the old town.

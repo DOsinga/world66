@@ -14,6 +14,11 @@ snippet: Petite Côte resort town south of Dakar, built around a long sandy beac
   package-holiday hotels.
 title: Saly
 type: location
+nature: 4.6
+leisure: 5.2
+adventure: 4.6
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Saly is Senegal's main package-holiday resort, about ninety minutes south of [Dakar](/africa/senegal/dakar) on the Petite Côte. A string of hotels and apartment complexes lines a long sandy beach, backed by gardens of baobab and eucalyptus. It is a purpose-built resort rather than a town — the atmosphere is closer to a Mediterranean beach complex than to the rest of Senegal.

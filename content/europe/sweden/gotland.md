@@ -14,6 +14,11 @@ snippet: Baltic limestone island of raukar sea stacks, farmland, and Visby's wal
   medieval streets.
 title: Gotland
 type: location
+nature: 4.7
+leisure: 7.1
+adventure: 2.6
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Gotland is Sweden's largest island and one of its most popular summer destinations — a flat limestone plateau in the Baltic Sea with a character quite different from the mainland. The landscape is open farmland, wildflower meadows, and dramatic sea stacks (raukar) along the coast.

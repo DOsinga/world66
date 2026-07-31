@@ -14,6 +14,11 @@ snippet: Prättigau village in Graubünden, set between the Rätikon and Silvret
   below Klosters and Davos
 title: Schiers
 type: location
+nature: 5.3
+leisure: 5.1
+adventure: 4.6
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Schiers is a small village in the Prattigau valley in the Swiss canton of Graubunden, on the road between Landquart and the famous resorts of [Klosters](/europe/switzerland/klosters) and [Davos](/europe/switzerland/davos). The valley is tucked between the Ratikon and Silvretta mountain ranges, and Schiers sits at the western end where the valley is wide and sunny. It is a quiet, affordable alternative to the glamorous resorts further up the road.

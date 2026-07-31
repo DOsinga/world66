@@ -14,6 +14,11 @@ snippet: Two Exmoor hamlets in steep Doone Country valleys, tied to R. D. Blackm
   Lorna Doone.
 title: Brendon and Oare
 type: location
+nature: 5.7
+leisure: 4.4
+adventure: 5.0
+city_culture: 4.1
+historic_culture: 4.1
 ---
 
 **Brendon and Oare** are two tiny hamlets in the steep valleys of northern Exmoor, best known as the setting for R. D. Blackmore's novel *Lorna Doone*. The church at Oare is where Lorna and John Ridd were married in the story, and the surrounding landscape — deep combes, rushing streams, open moorland — is exactly as Blackmore described it.

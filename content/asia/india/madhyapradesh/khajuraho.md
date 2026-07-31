@@ -15,6 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Khajuraho_Group_of_Monuments
 title: Khajuraho
 type: location
+nature: 3.2
+leisure: 5.5
+adventure: 4.2
+city_culture: 7.9
+historic_culture: 7.9
 ---
 
 Khajuraho is one of India's great surprises — a small, dusty town in the middle of Madhya Pradesh that happens to contain one of the most extraordinary groups of medieval temples in the world. The [Khajuraho Group of Monuments](/asia/india/madhyapradesh/khajuraho/khajuraho_group_of_monuments) is a UNESCO World Heritage Site: around 25 surviving temples built by the Chandela dynasty between roughly 950 and 1050 CE, covered in thousands of sculptures including the frankly erotic carvings that have made the site famous worldwide.

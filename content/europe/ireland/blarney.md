@@ -14,6 +14,11 @@ snippet: Irish village outside Cork built around Blarney Castle, its famous ston
   and unexpectedly extensive gardens.
 title: Blarney
 type: location
+nature: 4.2
+leisure: 4.5
+adventure: 4.8
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 Blarney is a small village a few miles northwest of [Cork](/europe/ireland/cork), visited almost entirely for one reason: Blarney Castle and the stone set in its battlements that, according to legend, gives the gift of eloquence to anyone who kisses it. The ritual involves leaning backwards over a sheer drop while a guide holds your legs — undignified, mildly terrifying, and enormously popular.

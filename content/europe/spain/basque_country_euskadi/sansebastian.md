@@ -12,6 +12,11 @@ score: 9.46
 snippet: Elegant Basque bay city of pintxos bars, crescent beaches, and wooded headlands.
 title: San Sebastián
 type: location
+nature: 1.6
+leisure: 9.1
+adventure: 0.9
+city_culture: 7.8
+historic_culture: 7.8
 ---
 
 San Sebastián — Donostia in Basque — is a small, impossibly elegant city on the Bay of Biscay in the north-eastern corner of Spain, just 20 kilometres from the French border. It is widely considered one of the most beautiful small cities in Europe, and unlike most of Europe's prettiest places it has earned the reputation on its own terms rather than for any single monument. The setting is extraordinary: a perfect crescent bay (the Bay of La Concha) bounded by two wooded hills and a small island, an elegant 19th-century city wrapping around it, and a medieval old town (the Parte Vieja) tucked at one end that is widely acknowledged as having the best food per square metre of anywhere in the world.

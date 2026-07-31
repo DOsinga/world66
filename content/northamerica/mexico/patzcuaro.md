@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Lake_P%C3%A1tzcuaro
 title: Pátzcuaro
 type: location
+nature: 3.8
+leisure: 6.4
+adventure: 3.3
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Pátzcuaro is the most atmospheric town in [Michoacán](/northamerica/mexico/michoacan): whitewashed walls, red tile roofs, arcaded plazas, and a Purépecha identity that feels much older than the colonial façades. It sits above [Lake Pátzcuaro](/northamerica/mexico/michoacan/lake_patzcuaro), close enough to smell the damp air off the water but high enough to stay cool in the evenings.

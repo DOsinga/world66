@@ -14,6 +14,11 @@ snippet: Meuse River town squeezed below limestone cliffs, with a citadel, saxop
   history, and Ardennes access
 title: Dinant
 type: location
+nature: 4.1
+leisure: 5.9
+adventure: 3.7
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Dinant sits in a dramatic setting on the Meuse River, squeezed between limestone cliffs and the water. The town is dominated by its [citadel](/europe/belgium/dinant/citadel), perched a hundred metres above the distinctive onion-domed [Collegiate Church of Notre-Dame](/europe/belgium/dinant/collegiate_church), and makes a fine base for exploring the Belgian Ardennes.

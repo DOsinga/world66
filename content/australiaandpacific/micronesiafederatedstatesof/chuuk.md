@@ -9,6 +9,11 @@ snippet: Micronesian lagoon state known for traditional island life and the ship
   dives of Truk Lagoon.
 title: Chuuk
 type: location
+nature: 7.1
+leisure: 3.6
+adventure: 6.3
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 The islands within the Chuuk atoll are crowned with natural beauty. The outer barrier reef is punctuated with idyllic sand spits dotted with coconut palms. The high islands in the central lagoon rise into the blue island skies.

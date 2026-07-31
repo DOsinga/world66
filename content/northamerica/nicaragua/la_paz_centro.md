@@ -14,6 +14,11 @@ snippet: Small Nicaraguan town known for pottery workshops, quesillo vendors, an
   nearby volcanic landscapes.
 title: La Paz Centro
 type: location
+nature: 5.3
+leisure: 2.8
+adventure: 6.6
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 La Paz Centro is a small town in the [León](/northamerica/nicaragua/len) department, in the hot, dry northwest of [Nicaragua](/northamerica/nicaragua). Home to about 10,000 people, the town straddles the continental divide and is surrounded by several small villages known as comarcas.

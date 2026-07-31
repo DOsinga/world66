@@ -14,6 +14,11 @@ image: barbuda.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Barbudan_landscape_A_04.jpg
 image_license: CC BY 4.0
 image_attribution: CROIX
+nature: 5.5
+leisure: 6.6
+adventure: 3.2
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 Barbuda is [Antigua's](/northamerica/antiguaandbarbuda) quieter, flatter, and almost empty sister island, lying about 50 kilometres to the north. Fewer than 2,000 people live here, nearly all of them in the single village of Codrington. The rest of the island is scrubland, lagoons, and some of the most spectacular beaches in the Caribbean.

@@ -14,6 +14,11 @@ snippet: Aveyron valley town beneath the Millau Viaduct, once famous for gloves 
   road traffic.
 title: Millau
 type: location
+nature: 5.1
+leisure: 4.9
+adventure: 4.7
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Millau sits in the valley of the Tarn, a pleasant town in the Aveyron département that was long known for two things: leather glove production and appalling traffic jams on the route south. The second problem was solved spectacularly in 2004 with the opening of the [Millau Viaduct](/europe/france/centre/auvergne/millau/millau_viaduct) — the world's tallest bridge, designed by Norman Foster, its slender cable-stayed pylons rising over 340 metres above the valley floor. It is as much a work of art as a feat of engineering, and worth seeing from below as well as driving across.

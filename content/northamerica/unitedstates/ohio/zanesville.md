@@ -15,6 +15,11 @@ snippet: Ohio river city famous for its Y-shaped bridge over the Muskingum and L
   rivers
 title: Zanesville
 type: location
+nature: 3.9
+leisure: 4.0
+adventure: 5.0
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Zanesville sits on the Muskingum River about 55 miles east of Columbus, and it has a legitimate claim to something no other city in the world can match: a Y-shaped bridge where you can start on one side and end up back on the same side without turning around. The [Y-Bridge](/northamerica/unitedstates/ohio/zanesville/y_bridge) has been a curiosity since 1819, and locals have been watching tourists puzzle over it ever since.

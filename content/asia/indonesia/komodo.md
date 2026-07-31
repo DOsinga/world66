@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Komodo_(island)
 title: Komodo
 type: location
+nature: 6.2
+leisure: 5.1
+adventure: 4.7
+city_culture: 4.0
+historic_culture: 4.0
 ---
 
 Komodo Island is the heart of Komodo National Park, a UNESCO World Heritage site in the eastern Lesser Sundas between Sumbawa and Flores. It gives its name to the Komodo dragon — *Varanus komodoensis* — the world's largest living lizard, which can reach three metres in length and take down a deer or a goat without difficulty. The park protects around 5,700 of them across Komodo, [Rinca Island](/asia/indonesia/komodo/rinca_island), and a few smaller islands.

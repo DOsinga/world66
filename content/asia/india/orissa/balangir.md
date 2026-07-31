@@ -14,6 +14,11 @@ snippet: Western Odisha district of dry hills, Chauhan-era forts, and temple sit
   scattered across fields
 title: Balangir
 type: location
+nature: 4.3
+leisure: 3.2
+adventure: 6.0
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Balangir is a district in western [Odisha](/asia/india/orissa), flanked by the Gandhamardan hills to the northwest and the rocky Mahanadi river to the northeast. It is hot, dry, and deeply historical — the kind of place where ancient temples stand quietly in fields and the past feels close to the surface.

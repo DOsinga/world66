@@ -15,6 +15,11 @@ snippet: Indian Ocean island off Sumatra, known for stone villages, traditional 
   warrior culture, and major surf breaks.
 title: Pulau Nias
 type: location
+nature: 6.6
+leisure: 5.1
+adventure: 4.8
+city_culture: 3.6
+historic_culture: 3.6
 ---
 
 Nias Island sits in the Indian Ocean off the west coast of Sumatra, about 125 kilometres from the mainland. It is one of Indonesia's most remarkable destinations: a place of ancient stone-paved villages, traditional architecture, warrior culture, and some of the finest surf breaks in the world.

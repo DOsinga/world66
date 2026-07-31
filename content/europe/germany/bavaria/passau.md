@@ -14,6 +14,11 @@ snippet: Bavarian river city where the Danube, Inn, and Ilz meet below a Baroque
   town
 title: Passau
 type: location
+nature: 2.9
+leisure: 6.8
+adventure: 2.7
+city_culture: 7.4
+historic_culture: 7.4
 ---
 
 Passau sits at the confluence of three rivers — the Danube, the Inn, and the dark little Ilz — on a narrow peninsula at the eastern tip of Bavaria, just before the Austrian border. Human settlement here dates to prehistoric times; the Romans called it Batavis. For nearly a thousand years it was ruled by prince bishops who made it the seat of the largest diocese in the Holy Roman Empire, and the Baroque city they built after the catastrophic fire of 1662 is one of the most beautiful in Bavaria.

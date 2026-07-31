@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Batalha_Monastery
 title: Batalha
 type: location
+nature: 3.4
+leisure: 6.1
+adventure: 3.4
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Batalha exists for its monastery. The town is otherwise a quiet country place of 7,000 in the Leiria district of central Portugal — a single main square, a couple of cafés, a stretch of low whitewashed houses — but the [Mosteiro da Batalha](/europe/portugal/batalha/batalha_monastery) is one of the great Gothic buildings in Europe. King João I commissioned it in 1386 to thank the Virgin Mary for victory at the Battle of Aljubarrota, fought a few kilometres south the year before. Construction continued for more than 150 years across the reigns of seven Portuguese kings, accumulating layers of Gothic, Manueline, and Renaissance work, none of it finished and all of it extraordinary.

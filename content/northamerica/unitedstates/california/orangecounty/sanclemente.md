@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Casa_Romantica
 title: San Clemente
 type: location
+nature: 4.7
+leisure: 6.7
+adventure: 2.8
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 San Clemente is Orange County's southern edge, a surf-minded city of white stucco, red tile, and ocean-facing hills. It feels less glossy than Laguna Beach and less resort-built than Dana Point, with a real downtown on Avenida Del Mar and a beach culture that still matters.

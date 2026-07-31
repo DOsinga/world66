@@ -13,6 +13,11 @@ snippet: Zambian capital centred on Cairo Road, useful for supplies, documents, 
   onward travel planning.
 title: Lusaka
 type: location
+nature: 4.8
+leisure: 3.2
+adventure: 6.2
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Lusaka is the capital city of Zambia. It doesn't have the headline sights of some African capitals, but it's a sprawling, energetic place that rewards a few days of exploration -- and it's a practical base for sorting out documents and planning onward travel across the region.

@@ -14,6 +14,11 @@ longitude: 86.612273
 score: 5.82
 title: Paradeep
 type: location
+nature: 5.0
+leisure: 3.5
+adventure: 5.6
+city_culture: 5.3
+historic_culture: 5.3
 ---
 
 Paradip (also spelled Paradeep) is a major port city on the coast of Odisha, where the Mahanadi River meets the Bay of Bengal. It is one of India's busiest cargo ports, but it also has a surprisingly pleasant [beach](/asia/india/orissa/paradeep/paradeep_beach) and a marine drive that make it worth a stop if you are travelling the Odisha coast.

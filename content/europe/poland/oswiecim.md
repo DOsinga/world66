@@ -14,6 +14,11 @@ snippet: Polish town in Silesia best known as the location of the Auschwitz-Birk
   State Museum.
 title: Oswiecim
 type: location
+nature: 3.7
+leisure: 4.6
+adventure: 4.8
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 Oswiecim is a mid-sized Polish town in the Silesian region, and it's primarily visited for one reason: it is the location of Auschwitz-Birkenau, the Nazi German concentration and extermination camp where more than a million people — the vast majority of them Jews — were murdered during World War II. The [Auschwitz-Birkenau State Museum](/europe/poland/oswiecim/auschwitz_birkenau_museum) is one of the most visited sites in Poland and a UNESCO World Heritage Site.

@@ -14,6 +14,11 @@ snippet: Central Iraqi pilgrimage city, focused on the Imam Husayn and Al-Abbas 
   of Shia Islam.
 title: Karbala
 type: location
+nature: 4.1
+leisure: 2.0
+adventure: 7.9
+city_culture: 7.1
+historic_culture: 7.1
 ---
 
 Karbala is located in central Iraq, roughly halfway between [Baghdad](/asia/iraq/baghdad) and [An Najaf](/asia/iraq/annajaf). It is one of the holiest places in Shia Islam and a major pilgrimage destination.

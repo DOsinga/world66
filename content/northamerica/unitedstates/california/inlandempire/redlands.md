@@ -16,6 +16,11 @@ snippet: Small Inland Empire city known for citrus-era Victorian homes, museums,
   the long-running Redlands Bowl concerts.
 title: Redlands
 type: location
+nature: 4.5
+leisure: 4.4
+adventure: 4.9
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 Redlands is a charming small city in the foothills east of [San Bernardino](/northamerica/unitedstates/california/inlandempire/sanbernardino), known for its "Marmalade Mansions" -- roughly 300 restored Victorian-era homes built by early residents who became wealthy in the citrus industry. The tree-lined streets and historic downtown give Redlands a distinctly different feel from the rest of the Inland Empire.

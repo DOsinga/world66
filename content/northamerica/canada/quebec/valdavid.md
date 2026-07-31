@@ -14,6 +14,11 @@ title: Val-David
 type: location
 snippet: Laurentian artists' village north of Montréal, with galleries, ski trails,
   gardens, and Rivière du Nord cliffs.
+nature: 7.6
+leisure: 4.8
+adventure: 5.0
+city_culture: 2.4
+historic_culture: 2.4
 ---
 
 Val-David is a small artists' village in the Laurentians, about an hour and a half north of [Montréal](/northamerica/canada/quebec/montreal). The town has a distinctly bohemian feel — the main street, rue de l'Église, is lined with galleries, craft shops, and studios, and several of Québec's most respected potters and sculptors live and work here.

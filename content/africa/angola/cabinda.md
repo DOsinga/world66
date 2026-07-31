@@ -13,6 +13,11 @@ snippet: Angolan exclave at the Congo River mouth, economically shaped by offsho
   oil fields.
 title: Cabinda
 type: location
+nature: 5.5
+leisure: 2.9
+adventure: 6.6
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Cabinda is an exclave of [Angola](/africa/angola), a small wedge of territory separated from the rest of the country by a narrow strip of the Democratic Republic of Congo along the Congo River's mouth. The province punches well above its weight economically — the offshore oil fields here produce the majority of Angola's petroleum output, making this one of the most strategically important patches of land in Central Africa.

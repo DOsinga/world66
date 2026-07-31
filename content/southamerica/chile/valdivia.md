@@ -13,6 +13,11 @@ snippet: Chilean river city in the Lake District, known for its waterfront marke
   and colonial forts.
 title: Valdivia
 type: location
+nature: 5.7
+leisure: 5.7
+adventure: 4.1
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Valdivia is a university city in Chile's Lake District, built where the Calle-Calle and Cruces rivers meet before flowing into the Pacific. The rivers define the city — the [waterfront market](/southamerica/chile/valdivia/waterfront_market) is one of the best in Chile, and the resident colony of sea lions that camps beneath the fish stalls, barking for scraps, is one of the most entertaining urban wildlife spectacles in South America.

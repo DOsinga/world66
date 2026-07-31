@@ -10,6 +10,11 @@ snippet: Northern Indiana lake city where summer boating meets the world's ortho
   manufacturing industry
 title: Warsaw
 type: location
+nature: 4.5
+leisure: 4.8
+adventure: 4.3
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Warsaw is a small city of about 15,000 in northern Indiana's lake country, surrounded by more than 100 lakes. The largest, [Winona Lake](/northamerica/unitedstates/indiana/warsaw/winona_lake) and [Center Lake](/northamerica/unitedstates/indiana/warsaw/center_lake), sit right against the town, and in summer the place revolves around boating, fishing, and swimming.

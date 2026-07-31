@@ -14,6 +14,11 @@ snippet: Sri Lankan hill city and former royal capital, centred on the lakefront
   of the Tooth
 title: Kandy
 type: location
+nature: 2.6
+leisure: 6.4
+adventure: 3.4
+city_culture: 8.3
+historic_culture: 8.3
 ---
 
 Kandy is Sri Lanka's second city and its spiritual heart — a compact, hilly place set around an artificial lake, with the famous Temple of the Tooth Relic sitting right at the water's edge. It was the last capital of the Sinhalese kings before the British arrived in 1815, and that royal history gives it a weight that Colombo, for all its size, lacks. The surrounding hill country is strikingly beautiful: green, cool, and layered with tea plantations.

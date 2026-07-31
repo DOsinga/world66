@@ -12,6 +12,11 @@ title: Harappa
 snippet: Indus Valley archaeological site in Punjab, preserving the type-city of a
   Bronze Age civilisation.
 type: location
+nature: 3.6
+leisure: 2.5
+adventure: 7.4
+city_culture: 7.6
+historic_culture: 7.6
 ---
 
 Harappa is one of the great archaeological sites of the ancient world — the type-site of the Indus Valley Civilization, which flourished roughly 3,000 to 1,500 BC and rivalled the contemporary civilizations of Mesopotamia and Egypt in scale and sophistication. The ruins lie in the Sahiwal district of Punjab, about 25 kilometres southwest of the town of Sahiwal.

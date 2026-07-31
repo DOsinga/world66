@@ -14,6 +14,11 @@ snippet: Historic Odisha city in the Mahanadi delta, known for silver filigree, 
   food, and Barabati Fort.
 title: Cuttack
 type: location
+nature: 3.4
+leisure: 5.2
+adventure: 4.2
+city_culture: 7.3
+historic_culture: 7.3
 ---
 
 Cuttack is one of the oldest cities in Odisha, sitting at the apex of the Mahanadi river delta where the river splits into its distributaries. For centuries it was the state capital, and the old city retains a density and bustle that its more modern neighbour [Bhubaneswar](/asia/india/orissa/bhubaneswar) lacks.

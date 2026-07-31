@@ -14,6 +14,11 @@ snippet: Venezuelan mountain town of German immigrant roots, half-timbered stree
   strawberries, and cool cloud-forest air.
 title: Colonia Tovar
 type: location
+nature: 4.6
+leisure: 4.8
+adventure: 4.8
+city_culture: 5.4
+historic_culture: 5.4
 ---
 
 About 60 km west of Caracas, perched in the cool cloud-forest mountains of the Cordillera de la Costa, Colonia Tovar is one of Venezuela's most unusual towns. It was founded in 1843 by immigrants from Endingen, in the Black Forest region of Germany, and for more than a century it remained largely cut off from the outside world — the road linking it to Caracas wasn't paved until the 1960s. That long isolation preserved a distinctive German character that still marks the town today.

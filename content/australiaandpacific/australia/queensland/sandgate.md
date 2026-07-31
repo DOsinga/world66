@@ -14,6 +14,11 @@ snippet: Bayside Brisbane suburb with Victorian-era shopfronts, a timber pier, a
   Bramble Bay foreshore parks.
 title: Sandgate
 type: location
+nature: 4.6
+leisure: 6.0
+adventure: 3.3
+city_culture: 5.0
+historic_culture: 5.0
 ---
 
 Sandgate is a bayside suburb of Brisbane, about 18 km north of the city centre, with a well-preserved Victorian-era character and a long timber [pier](/australiaandpacific/australia/queensland/sandgate/sandgate_pier) stretching into Bramble Bay. The suburb has escaped the redevelopment that has transformed many Brisbane suburbs, leaving a main street of old shopfronts and a foreshore park that residents use for walking, cycling, and picnics. The pier and beach at low tide are popular with families.

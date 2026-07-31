@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/Lawrence,_New_Zealand
 title: Lawrence
 type: location
+nature: 5.8
+leisure: 5.0
+adventure: 4.6
+city_culture: 4.6
+historic_culture: 4.6
 ---
 
 Lawrence was [Otago](/australiaandpacific/newzealand/south_island/otago)'s first gold-rush town, originally named Tuapeka, and later renamed after the British hero who defended Lucknow during the 1857 Indian Mutiny. At the height of the gold fever its population reached 11,500 — double that of [Dunedin](/australiaandpacific/newzealand/south_island/otago/dunedin) — making it one of the largest communities in the country.

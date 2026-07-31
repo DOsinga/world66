@@ -10,6 +10,11 @@ snippet: New Hampshire seaside resort with a broad Atlantic beach, boardwalk arc
   and summer concerts.
 title: Hampton Beach
 type: location
+nature: 4.3
+leisure: 7.3
+adventure: 2.1
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Hampton Beach is New Hampshire's liveliest stretch of coastline — a compact, old-school beach resort about 15 miles south of [Portsmouth](/northamerica/unitedstates/newhampshire/portsmouth) on the Atlantic. It draws crowds all summer with a wide sandy beach, a boardwalk lined with fried dough stands and souvenir shops, and the kind of seaside carnival atmosphere that bigger resort towns have long since polished away.

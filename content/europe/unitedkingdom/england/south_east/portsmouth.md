@@ -16,6 +16,11 @@ snippet: Naval port city on Portsea Island, home to HMS Victory, the Mary Rose, 
   a historic dockyard
 title: Portsmouth
 type: location
+nature: 3.2
+leisure: 6.7
+adventure: 2.6
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 Portsmouth is Britain's foremost naval city, built on Portsea Island on the Hampshire coast. Its sheltered harbour, protected by the Isle of Wight to the south and [Portsdown Hill](/europe/unitedkingdom/england/south_east/portsmouth/portsdown_hill) to the north, has made it the home of the Royal Navy for centuries.

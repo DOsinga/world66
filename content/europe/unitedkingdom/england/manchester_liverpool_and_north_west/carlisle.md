@@ -12,6 +12,11 @@ snippet: Border city in Cumbria where rivers, castle walls, and centuries of Eng
   conflict meet
 title: Carlisle
 type: location
+nature: 4.4
+leisure: 5.3
+adventure: 4.0
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Carlisle sits at the meeting point of three rivers — the Eden, the Caldew, and the Petteril — and has spent most of its history as a contested border city between England and Scotland. That contested past left it with some of the finest medieval fortifications in northern England: a [castle](/europe/unitedkingdom/england/manchester_liverpool_and_north_west/carlisle/carlisle_castle) that has been besieged more times than almost any other in the country, and a [cathedral](/europe/unitedkingdom/england/manchester_liverpool_and_north_west/carlisle/carlisle_cathedral) that survived centuries of conflict, fire, and Civil War damage.

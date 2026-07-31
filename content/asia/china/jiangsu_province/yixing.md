@@ -15,6 +15,11 @@ type: location
 score: 6.09
 snippet: Jiangsu ceramics city famous for zisha clay and hand-built teapots prized
   by tea drinkers.
+nature: 4.0
+leisure: 4.5
+adventure: 4.8
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Yixing is the source of zisha — purple clay — and has produced the teapots made from it for over five hundred years. The unglazed Yixing teapot is revered by serious tea drinkers across East Asia for its ability to absorb the essence of tea over decades of use, and the craft of making them is both highly skilled and deeply localised: the specific clay deposits, the traditional hand-building techniques, and the firing methods are all particular to this part of the Yangtze Delta. Visiting the [Yixing Ceramics Museum](/asia/china/jiangsu_province/yixing/yixing_ceramics_museum), which is free, and browsing the [teapot workshops](/asia/china/jiangsu_province/yixing/teapot_workshops) around Dingshu Town is a genuine experience for anyone interested in Chinese material culture.

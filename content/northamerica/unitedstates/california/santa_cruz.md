@@ -14,6 +14,11 @@ snippet: Northern Monterey Bay beach city with a historic boardwalk and a strong
   streak.
 title: Santa Cruz
 type: location
+nature: 5.1
+leisure: 7.0
+adventure: 2.9
+city_culture: 4.0
+historic_culture: 4.0
 ---
 
 Santa Cruz is a laid-back beach city on the northern curve of Monterey Bay, about 75 miles south of San Francisco. The [Boardwalk](/northamerica/unitedstates/california/santa_cruz/santa_cruz_beach_boardwalk) — one of the oldest amusement parks on the West Coast — runs along the main beach, with a 1924 wooden roller coaster and a 1911 carousel that are both National Historic Landmarks.

@@ -13,6 +13,11 @@ snippet: Central Portuguese city below a hilltop castle, once a southern outpost
   the early kingdom.
 title: Leiria
 type: location
+nature: 4.3
+leisure: 5.7
+adventure: 3.7
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Located in the centre of Portugal, Leiria is a city with a long history. The town gained prominence in the 12-th century as the southern outpost of the early Portuguese kingdom, in the defence against the Moors. Leiria castle was attacked and destroyed repeatedly.

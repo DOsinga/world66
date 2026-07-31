@@ -14,6 +14,11 @@ snippet: Former Silla capital where royal tombs, Buddhist temples, and palace ru
   fill a living city.
 title: Gyeongju
 type: location
+nature: 2.5
+leisure: 7.0
+adventure: 2.8
+city_culture: 8.2
+historic_culture: 8.2
 ---
 
 Gyeongju was the capital of the Silla Kingdom for nearly a thousand years — from 57 BC to AD 935 — and is often called the 'museum without walls'. The modern city of 250,000 people sits on a landscape so saturated with ancient tombs, temples, shrines, palaces, and Buddhist art that UNESCO has designated the entire historic area a World Heritage Site. It is the closest thing Korea has to a Kyoto or Rome: a living city where daily life takes place among 1,500 years of mostly intact civilization.

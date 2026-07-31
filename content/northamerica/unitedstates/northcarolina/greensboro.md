@@ -14,6 +14,11 @@ snippet: North Carolina Piedmont city where textile history meets the Woolworth 
   civil rights landmark.
 title: Greensboro
 type: location
+nature: 3.6
+leisure: 5.6
+adventure: 3.5
+city_culture: 6.3
+historic_culture: 6.3
 ---
 
 Greensboro sits in the central Piedmont of North Carolina, once the textile capital of the state and now increasingly a center for transportation and education, with five universities calling it home.

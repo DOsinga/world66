@@ -13,6 +13,11 @@ snippet: Northern English city reinvented around art, from The Hepworth Wakefiel
   to nearby Yorkshire Sculpture Park.
 title: Wakefield
 type: location
+nature: 3.0
+leisure: 5.9
+adventure: 3.1
+city_culture: 7.1
+historic_culture: 7.1
 ---
 
 Wakefield has quietly reinvented itself from a coal-and-cloth city into one of the most compelling art destinations in northern England. [The Hepworth Wakefield](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/wakefield/hepworth_wakefield), a stunning David Chipperfield gallery perched on the banks of the River Calder, opened in 2011 and put the city firmly on the cultural map. It houses an extraordinary collection of works by Barbara Hepworth, who was born here, alongside rotating contemporary exhibitions that regularly punch above what you would expect from a city this size.

@@ -14,6 +14,11 @@ snippet: Inland Galician wine region where Sil and Miño gorges hold terraced vi
   and monasteries
 title: Ribeira Sacra
 type: location
+nature: 4.8
+leisure: 5.5
+adventure: 4.3
+city_culture: 5.9
+historic_culture: 5.9
 ---
 
 The Ribeira Sacra is where the Sil and Miño rivers have carved deep gorges through the hills of inland [Galicia](/europe/spain/galicia). Steep canyon walls drop hundreds of metres to green water, terraced vineyards cling to impossible slopes, and medieval monasteries sit on the high ground above — the "sacred banks" that give the region its name.

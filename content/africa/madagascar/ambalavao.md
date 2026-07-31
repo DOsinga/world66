@@ -12,6 +12,11 @@ sources:
 - https://en.wikipedia.org/wiki/Anja_Community_Reserve
 title: Ambalavao
 type: location
+nature: 7.9
+leisure: 3.9
+adventure: 5.9
+city_culture: 2.7
+historic_culture: 2.7
 ---
 
 Ambalavao is a highland town south of [Fianarantsoa](/africa/madagascar/fianarantsoa), where Madagascar's central plateau begins to tilt toward the drier south. It is a useful stop on the RN7, but it has more personality than a simple road break: Betsileo houses, craft workshops, a lively [zebu market](/africa/madagascar/ambalavao/zebu_market), and mountains rising in the distance.

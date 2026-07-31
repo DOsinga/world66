@@ -13,6 +13,11 @@ snippet: Aegean port town with Greek stone houses, olive groves, island restaura
   and Lesbos ferries.
 title: Ayvalik
 type: location
+nature: 5.1
+leisure: 5.8
+adventure: 4.0
+city_culture: 4.8
+historic_culture: 4.8
 ---
 
 Ayvalık is a small Aegean port town on Turkey's northern Aegean coast, about 170 km south of Çanakkale. The town occupies a sheltered bay dotted with small islands, and its old Greek quarter — preserved from before the 1923 population exchange — has narrow cobbled streets lined with stone houses, many converted into boutiques, cafes, and small pensions.

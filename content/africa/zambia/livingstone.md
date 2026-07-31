@@ -17,6 +17,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Livingstone
 title: Livingstone
 type: location
+nature: 5.3
+leisure: 2.0
+adventure: 7.2
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Livingstone is the town that grew up in the shadow of Victoria Falls, and it has never quite been able to compete with the spectacle at its doorstep. That is no criticism — the falls are overwhelming, and few towns could hold their own against one of the world's largest waterfalls. What Livingstone offers is the Zambian side of the experience: a relaxed, functional base for visiting the falls and the surrounding national park, with fewer crowds and lower prices than its glossier neighbour Livingstone (Zimbabwe) across the border.

@@ -13,6 +13,11 @@ score: 7.72
 snippet: Gulf Coast beach city with white sand, calm water, and a lively sunset pier.
 title: Clearwater
 type: location
+nature: 4.6
+leisure: 7.9
+adventure: 1.8
+city_culture: 3.8
+historic_culture: 3.8
 ---
 
 Clearwater sits on Florida's Gulf Coast, just west of Tampa, and is best known for its beaches. [Clearwater Beach](/northamerica/unitedstates/florida/clearwater/clearwater_beach), on a barrier island connected by a causeway, consistently ranks among the best in the United States: wide stretches of fine white sand, calm turquoise water, and reliable sunshine that draws everyone from spring breakers to snowbirds.

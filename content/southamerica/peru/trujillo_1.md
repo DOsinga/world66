@@ -13,6 +13,11 @@ snippet: Northern Peruvian city surrounded by major archaeological sites, includ
   Chan Chan and Huaca de la Luna.
 title: Trujillo
 type: location
+nature: 5.1
+leisure: 5.0
+adventure: 4.7
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Trujillo is Peru's third-largest city, sitting on the northern coastal desert about 560 km north of Lima. It is one of the country's most important archaeological destinations, surrounded by pre-Columbian ruins that span over a thousand years of civilisation.

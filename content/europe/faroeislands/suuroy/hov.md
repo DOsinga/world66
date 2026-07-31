@@ -10,6 +10,11 @@ longitude: -6.755742
 score: 6.37
 title: Hov
 type: location
+nature: 8.1
+leisure: 3.9
+adventure: 5.7
+city_culture: 1.9
+historic_culture: 1.9
 ---
 
 Hov is a village of around 100 people on the east coast of [Suðuroy](/europe/faroeislands/suuroy), the southernmost island of the [Faroe Islands](/europe/faroeislands). It sits between Porkeri and Øravík, connected to the latter by a road tunnel since 2007. Small as it is, Hov has a surprisingly deep history.

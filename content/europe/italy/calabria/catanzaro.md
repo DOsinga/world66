@@ -14,6 +14,11 @@ image_license: CC BY-SA 4.0
 image_attribution: AlMo18
 snippet: Calabrian capital on a ridge above the Fiumarella gorge, linked by viaduct
   and funicular.
+nature: 4.8
+leisure: 5.2
+adventure: 4.2
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Catanzaro is the capital of Calabria, sitting on a dramatic ridge above the Fiumarella gorge in the toe of the Italian boot. The city is bisected by the deep valley and reconnected by the massive [Viadotto Morandi](/europe/italy/calabria/catanzaro/viadotto_morandi) — one of the highest concrete viaducts in southern Italy, completed in 1960. A [funicular railway](/europe/italy/calabria/catanzaro/catanzaro_funicular) dating from 1929 still carries residents between the upper historic centre and the lower commercial quarter, one of the few surviving urban funiculars in the south.

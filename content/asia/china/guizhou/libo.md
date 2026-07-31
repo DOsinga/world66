@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Libo_County
 title: Libo County
 type: location
+nature: 6.5
+leisure: 4.6
+adventure: 5.0
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 Libo County in southern Guizhou contains one of the most visually distinct karst landscapes in China — the "Emerald of the Earth," as it's been marketed, with some justification. The combination of limestone formations, underground rivers, surface waterfalls, and an almost total absence of industry has produced a place of exceptional clarity: the water running through the Xiaoqikong and Daqikong scenic areas is a shade of turquoise that looks manipulated in photographs and isn't.

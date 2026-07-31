@@ -15,6 +15,11 @@ snippet: Mindanao's largest city, where durian markets and Davao Gulf sit below 
   Apo.
 title: Davao
 type: location
+nature: 4.4
+leisure: 5.3
+adventure: 4.4
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Davao is Mindanao's largest city and the gateway to the Philippines' wild south. While Manila gets the headlines and Cebu gets the beach crowds, Davao draws a different kind of traveller — one looking for durian at midnight markets, white-water rafting on jungle rivers, and the country's highest peak looming on the horizon.

@@ -16,6 +16,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Sharjah
 title: Sharjah
 type: location
+nature: 2.7
+leisure: 6.6
+adventure: 3.0
+city_culture: 7.4
+historic_culture: 7.4
 ---
 
 *Asia > United Arab Emirates > Sharjah*

@@ -14,6 +14,11 @@ title: Lleida
 type: location
 snippet: Western Catalan city above the Segre, known for fruit orchards and the Seu
   Vella.
+nature: 4.1
+leisure: 5.3
+adventure: 3.9
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Lleida (Lérida in Spanish) is the westernmost city of Catalonia, sitting on a rise above the Segre river in a broad agricultural plain that produces some of the best fruit in Spain — the orchards around the city turn spectacular in spring blossom. It is often overlooked by travelers rushing between Barcelona and Zaragoza, but those who stop discover a city with a proud history and one outstanding monument.

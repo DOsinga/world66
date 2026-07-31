@@ -15,6 +15,11 @@ snippet: Jordan's only coastal city and seaport, set at the northern tip of the 
   Sea.
 title: Aqaba
 type: location
+nature: 5.2
+leisure: 4.5
+adventure: 5.1
+city_culture: 4.7
+historic_culture: 4.7
 ---
 
 Aqaba is Jordan's only coastal city and the country's sole seaport, at the northern tip of the Red Sea where Jordan, Israel, Egypt, and Saudi Arabia converge. It has a population of around 150,000. The city is the jumping-off point for the south of Jordan — Wadi Rum (65km north) and Petra (130km north) — and a significant destination in its own right for Red Sea diving and snorkelling.

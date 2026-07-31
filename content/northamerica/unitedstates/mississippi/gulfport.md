@@ -14,6 +14,11 @@ title: Gulfport
 type: location
 snippet: Mississippi Gulf Coast city facing Ship Island and the barrier beaches beyond
   the sound.
+nature: 3.6
+leisure: 6.1
+adventure: 3.0
+city_culture: 6.1
+historic_culture: 6.1
 ---
 
 Gulfport is the second-largest city in Mississippi, sitting on the Gulf of Mexico just west of Biloxi. The two cities run together along the coast, sharing a stretch of white sand beach that faces the Mississippi Sound and the barrier islands beyond.

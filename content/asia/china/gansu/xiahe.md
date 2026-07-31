@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Xiahe
 title: Xiahe
 type: location
+nature: 5.4
+leisure: 4.7
+adventure: 5.1
+city_culture: 5.6
+historic_culture: 5.6
 ---
 
 Xiahe is, effectively, a Tibetan town in the Chinese province of Gansu, set at about 2,900 metres in a valley of the Gannan Tibetan Autonomous Prefecture. The centre of everything is [Labrang Monastery](/asia/china/gansu/xiahe/labrang_monastery), founded in 1709, one of the six great monasteries of the Gelukpa school of Tibetan Buddhism — the school to which the Dalai Lama belongs. At its peak the monastery housed over four thousand monks; numbers are lower now but the complex remains enormous, its golden roofs spread along the valley floor, its whitewashed walls encircled by a two-kilometre circuit of prayer wheels that pilgrims turn continuously from dawn to dusk.

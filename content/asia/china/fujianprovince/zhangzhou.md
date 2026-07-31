@@ -15,6 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Zhangzhou
 title: Zhangzhou
 type: location
+nature: 4.5
+leisure: 5.1
+adventure: 4.3
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Zhangzhou is a prefectural city of nearly five million in southwestern Fujian, tucked between the mountains and the sea about an hour's bus ride from Xiamen. It is the kind of place where Chinese tourists come but foreign visitors rarely do, which gives it an unhurried quality that the more-polished cities of the province lack. The old city along the Jiulong River has enough historic temples and tile-roofed lanes to occupy a full day, and the surrounding countryside is some of the most varied in Fujian.

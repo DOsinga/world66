@@ -14,6 +14,11 @@ snippet: Border-straddling waterfall system where subtropical forest drops into 
   roaring Garganta del Diablo.
 title: Iguazu Falls
 type: location
+nature: 8.5
+leisure: 5.0
+adventure: 4.8
+city_culture: 1.3
+historic_culture: 1.3
 ---
 
 Iguazu Falls straddles the border between Argentina and [Brazil](/southamerica/brazil), and can be visited from either side — or even from [Paraguay](/southamerica/paraguay), a short distance away. Despite being heavily visited, the falls remain genuinely spectacular. No amount of tourism infrastructure diminishes the force of standing at the edge of the Garganta del Diablo (Devil's Throat) and looking down into the roaring abyss.

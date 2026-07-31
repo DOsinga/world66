@@ -16,6 +16,11 @@ sources:
 - https://en.wikipedia.org/wiki/Oregon_Dunes_National_Recreation_Area
 title: Florence
 type: location
+nature: 4.9
+leisure: 7.2
+adventure: 2.6
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Florence sits where the Siuslaw River meets the [Oregon](/northamerica/unitedstates/oregon) coast, hemmed in to the south by the largest coastal sand dunes in North America. The Oregon Dunes National Recreation Area begins immediately outside town and stretches 65 kilometres down the coast, with crests that rise over 150 metres and open sand sheets where ATVs carve their tracks between the ridges. Most visitors arrive chasing exactly that — the dunes are the main event.

@@ -13,6 +13,11 @@ sources:
 - https://en.wikipedia.org/wiki/Hudson_Historic_District_(New_York)
 title: Hudson
 type: location
+nature: 4.1
+leisure: 5.4
+adventure: 4.0
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Hudson has one of the more colourful backstories of any small city in New York State. Founded in 1785 by a group of Nantucket whalers looking for a river port safe from British warships, it boomed through the early 19th century as a whaling and trading centre. After the whaling industry collapsed it reinvented itself — rather notoriously — as a semi-official centre for gambling and prostitution that operated openly until a state police raid in 1950. Since then it has transformed once more, this time into one of the most talked-about small cities in the Hudson River Valley.

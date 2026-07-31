@@ -14,6 +14,11 @@ snippet: Dutch media city in the Gooi, with Dudok modernism set between heathlan
   and forest.
 title: Hilversum
 type: location
+nature: 3.1
+leisure: 6.6
+adventure: 2.5
+city_culture: 6.9
+historic_culture: 6.9
 ---
 
 Hilversum is the media capital of the Netherlands — most Dutch television and radio broadcasters are based here, and the broadcasting tower is visible from kilometres around. The town is 30 km southeast of Amsterdam in the Gooi region, in an area of heathland and mixed forest.

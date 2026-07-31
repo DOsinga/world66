@@ -12,6 +12,11 @@ title: Pyongyang
 snippet: Monumental North Korean capital rebuilt along the Taedong River as a showcase
   of socialist state design
 type: location
+nature: 3.3
+leisure: 3.1
+adventure: 6.7
+city_culture: 7.7
+historic_culture: 7.7
 ---
 
 Pyongyang is unlike any other capital city. It was rebuilt from near-total destruction after the Korean War and designed as an advertisement for the socialist state — wide boulevards, monumental plazas, heroic statuary, and apartment blocks in pastel colours arranged along the Taedong River. It works, visually. On a clear day, with the city laid out below you from atop the [Juche Tower](/asia/northkorea/pyongyang/juche_tower), it is genuinely beautiful in a deeply strange way.

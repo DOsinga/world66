@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Truro_Cathedral
 title: Truro
 type: location
+nature: 4.9
+leisure: 5.7
+adventure: 3.9
+city_culture: 4.9
+historic_culture: 4.9
 ---
 
 Truro is the only city in Cornwall and its administrative, commercial, and cultural centre. It sits at the head of the [Truro River](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/truro/truro_river), a tidal estuary that eventually opens into the Carrick Roads, one of the world's largest natural harbours.

@@ -13,6 +13,11 @@ snippet: Busy Balinese capital with the island's strongest museums and modern cu
   institutions
 title: Denpasar
 type: location
+nature: 3.1
+leisure: 7.3
+adventure: 2.4
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Denpasar is the capital of **Bali** and its largest city, a busy, traffic-choked metropolis of around 750,000 people in the south of the island. For most travellers it is the place you transit through rather than stay in — the airport (now officially called Ngurah Rai International) is technically in neighbouring Tuban, and the backpacker district of **Kuta** and the upmarket resorts of **Seminyak**, **Canggu** and **Sanur** are a short drive away. Denpasar itself has none of the rice-paddy charm that people come to Bali for, and few visitors give it more than a couple of hours.

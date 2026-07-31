@@ -16,6 +16,11 @@ snippet: Konkan port town where the Kali River meets the Arabian Sea, linked to 
   Tagore.
 title: Karwar
 type: location
+nature: 5.4
+leisure: 4.8
+adventure: 4.8
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Karwar sits at the mouth of the Kali River where it meets the Arabian Sea, a small port town on Karnataka's northern coast that has been a crossroads of trade and culture for centuries. Arabs, Dutch, Portuguese, French, and British all left their mark here, and the town's layered history gives it a character that goes well beyond its modest size.

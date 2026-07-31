@@ -14,6 +14,11 @@ snippet: Busy Mexican border city beside San Diego, known for street tacos, craf
   beer, and Avenida Revolución.
 title: Tijuana
 type: location
+nature: 3.0
+leisure: 6.0
+adventure: 3.9
+city_culture: 6.8
+historic_culture: 6.8
 ---
 
 Tijuana is Mexico's busiest border city, pressed up against San Diego with one of the most crossed international borders in the world. For decades it was known primarily as a day-trip destination for cheap drinks and curios, but the city has undergone a genuine transformation. A thriving food scene — especially the street tacos and the craft beer movement centered on the Zona Río and Avenida Revolución — has put Tijuana on the culinary map.

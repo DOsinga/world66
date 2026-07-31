@@ -10,6 +10,11 @@ snippet: Central Angolan coastal town between Benguela and Lobito, set along the
   River.
 title: Catumbela
 type: location
+nature: 5.9
+leisure: 2.2
+adventure: 7.1
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Catumbela sits between [Benguela](/africa/angola/benguela) and [Lobito](/africa/angola/lobito) on Angola's central coast, straddling the river that shares its name. Originally called Quitumbela after a local soba (traditional leader), the town has always had better water and a friendlier climate than its neighbours -- in 1650 there was even talk of moving the provincial capital here from Benguela.

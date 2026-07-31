@@ -14,6 +14,11 @@ snippet: Quiet Estonian island between the mainland and Saaremaa, with windmills
   juniper meadows, and old limestone villages.
 title: Muhu Island
 type: location
+nature: 5.4
+leisure: 5.8
+adventure: 3.9
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Muhu is the third largest island in Estonia and the stepping stone between the mainland and [Saaremaa](/europe/estonia/kuressaare). The causeway to Saaremaa means most visitors pass straight through, which is a shame — the island rewards those who stop.

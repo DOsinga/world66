@@ -15,6 +15,11 @@ snippet: Georgia's capital and the largest city in the American South, with majo
   museums and civil-rights landmarks.
 title: Atlanta
 type: location
+nature: 2.3
+leisure: 7.1
+adventure: 2.6
+city_culture: 7.5
+historic_culture: 7.5
 ---
 
 Atlanta is the capital of Georgia and the largest city in the American South, a sprawling, car-dependent metropolis with a surprisingly good cultural centre. Downtown holds the [Georgia Aquarium](/northamerica/unitedstates/georgia/atlanta/georgia_aquarium), the [World of Coca-Cola](/northamerica/unitedstates/georgia/atlanta/world_of_coca_cola) museum, and [Centennial Olympic Park](/northamerica/unitedstates/georgia/atlanta/centennial_olympic_park), remnant of the 1996 Games. [Midtown](/northamerica/unitedstates/georgia/atlanta/midtown) has the [High Museum of Art](/northamerica/unitedstates/georgia/atlanta/high_museum_of_art) and the [Atlanta Botanical Garden](/northamerica/unitedstates/georgia/atlanta/atlanta_botanical_garden). The [Martin Luther King Jr. National Historical Park](/northamerica/unitedstates/georgia/atlanta/mlk_historic_site) in [Sweet Auburn](/northamerica/unitedstates/georgia/atlanta/sweet_auburn) is one of the more affecting memorial sites in the country.

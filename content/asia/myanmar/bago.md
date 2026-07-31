@@ -14,6 +14,11 @@ snippet: Ancient Mon capital near Yangon, known for enormous pagodas, reclining 
   and old royal monasteries.
 title: Bago
 type: location
+nature: 4.2
+leisure: 4.0
+adventure: 5.5
+city_culture: 6.2
+historic_culture: 6.2
 ---
 
 Bago is one of those places most travellers pass through on their way to the Golden Rock pagoda at Kyaiktiyo, but if you slow down, this ancient Mon capital rewards a full day of exploring. Founded in 573 AD by the Mon brothers Thamala and Wimala, Bago served as a royal capital for centuries before King Alaungpaya destroyed it in 1757. The city never fully recovered its former grandeur, but the temples and monasteries that remain are some of the finest in Myanmar.

@@ -15,6 +15,11 @@ snippet: Major German city on the Main, combining a financial skyline with museu
   opera, and nightlife.
 title: Frankfurt
 type: location
+nature: 1.7
+leisure: 8.3
+adventure: 1.1
+city_culture: 8.1
+historic_culture: 8.1
 ---
 
 Frankfurt am Main — "Mainhattan" to the Germans, "Bankfurt" when they are feeling uncharitable — is a rich, restless city of 750,000 on the banks of the Main river in the centre of Germany. For a lot of overseas travellers it is the first thing they see of Europe, because of the airport: one of the busiest in the world and the hub of Lufthansa. That reputation as a stopover is unfair. Frankfurt is a compact, surprising, and far more liveable place than its glass towers suggest.

@@ -14,6 +14,11 @@ sources:
 - https://en.wikipedia.org/wiki/Auburn,_Washington
 - https://en.wikipedia.org/wiki/White_River_Valley_Museum
 - https://en.wikipedia.org/wiki/Emerald_Downs
+nature: 4.4
+leisure: 5.0
+adventure: 4.0
+city_culture: 5.5
+historic_culture: 5.5
 ---
 
 Auburn is a city of around 80,000 in the Green River Valley, roughly halfway between Seattle and Tacoma. It sits at the edge of the Cascade foothills, which puts outdoor activities — hiking, skiing, and river sports — within easy reach. Crystal Mountain and The Summit at Snoqualmie are under an hour away, and Mount Rainier National Park is about 60 miles southeast.

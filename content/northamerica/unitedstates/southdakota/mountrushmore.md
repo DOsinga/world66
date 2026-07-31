@@ -13,6 +13,11 @@ image: mountrushmore.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mount_Rushmore_detail_view_(100MP).jpg
 image_license: CC BY-SA 3.0
 image_attribution: Thomas Wolf, www.foto-tw.de
+nature: 5.0
+leisure: 4.4
+adventure: 5.4
+city_culture: 5.8
+historic_culture: 5.8
 ---
 
 Mount Rushmore is one of those places that manages to be both exactly what you expect and more impressive than you imagined. The four presidential faces — Washington, Jefferson, Roosevelt, and Lincoln — carved into the granite of the Black Hills by Gutzon Borglum and his son are enormous up close, and the setting in the South Dakota wilderness adds to the impact.

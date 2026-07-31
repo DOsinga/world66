@@ -9,6 +9,11 @@ snippet: Karakalpak desert fortress route of ancient mud-brick qalas scattered a
 type: location
 score: 5.56
 loc_type: feature
+nature: 4.6
+leisure: 3.0
+adventure: 6.8
+city_culture: 6.6
+historic_culture: 6.6
 ---
 
 Scattered across the Kyzyl Kum desert and the Karakalpak Republic in western Uzbekistan, the qalas are ancient mud-brick fortresses that once served as citadels for the warlords and rulers of the Silk Road. There are hundreds of ruins out here, and very few tourists ever make the journey — which is precisely the appeal.

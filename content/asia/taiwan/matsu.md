@@ -16,6 +16,11 @@ sources:
 title: Matsu
 type: location
 score: 7.5
+nature: 5.4
+leisure: 5.7
+adventure: 4.0
+city_culture: 4.5
+historic_culture: 4.5
 ---
 
 Matsu is Taiwan at its most windblown and frontier-like: a scattered archipelago closer to the Chinese mainland than to Taipei, with granite villages, military tunnels, sea cliffs, and a strong Fujianese character. It is officially Lienchiang County, but everyone calls the islands Matsu.

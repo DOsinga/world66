@@ -13,6 +13,11 @@ snippet: Medieval Catalan town above the Fluvià, entered by a fortified Romanes
   bridge and old Jewish quarter
 title: Besalú
 type: location
+nature: 4.1
+leisure: 5.2
+adventure: 4.3
+city_culture: 6.4
+historic_culture: 6.4
 ---
 
 Besalú is one of Catalonia's finest medieval towns — almost entirely intact, clustered on a rise above the Fluvià river. The moment you cross its fortified Romanesque bridge into the old quarter, it feels less like a tourist attraction than a place where the 12th century simply hasn't been cleared away.

@@ -17,6 +17,11 @@ sources:
 - https://en.wikipedia.org/wiki/Karmana
 title: Navoi
 type: location
+nature: 5.2
+leisure: 2.8
+adventure: 6.6
+city_culture: 5.2
+historic_culture: 5.2
 ---
 
 Navoi is the most Soviet city in Uzbekistan — and that is saying something. Built from scratch in the 1950s as an industrial centre, it was administered directly from Moscow rather than Tashkent, and supplied with goods unavailable anywhere else in Central Asia. The [Soviet town centre](/asia/uzbekistan/navoi/soviet_town_centre) — wide boulevards, rectangular apartment blocks, and geometrically perfect parks — is a textbook of Soviet urban planning, dropped into the desert between [Samarkand](/asia/uzbekistan/samarkand) and [Bukhara](/asia/uzbekistan/bukhara).

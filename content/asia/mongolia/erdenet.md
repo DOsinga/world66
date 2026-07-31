@@ -7,6 +7,11 @@ snippet: Planned Mongolian industrial city built around one of the world's large
   copper and molybdenum deposits.
 title: Erdenet
 type: location
+nature: 5.9
+leisure: 2.9
+adventure: 6.4
+city_culture: 4.4
+historic_culture: 4.4
 ---
 
 Erdenet is Mongolia's second-largest city, a planned industrial town built from scratch in the late 1970s around one of the world's largest copper and molybdenum deposits. The city itself is compact and walkable — you can cross it in twenty minutes on foot — and has a distinctly Soviet flavour in its layout and apartment blocks, a reminder that it was built as a joint Soviet-Mongolian project. Despite this utilitarian origin, Erdenet has settled into a comfortable modern city with a functioning centre, parks, and the kind of everyday Mongolian life that large tour groups rarely see.

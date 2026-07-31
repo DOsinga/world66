@@ -13,6 +13,11 @@ snippet: Quiet Bioko port near Malabo, with white-sand beaches and forest trails
   the island’s southern coast.
 title: Luba
 type: location
+nature: 7.3
+leisure: 1.6
+adventure: 8.3
+city_culture: 3.4
+historic_culture: 3.4
 ---
 
 Less than 50 km from the capital [Malabo](/africa/equatorialguinea/malabo), Luba is the second-largest town on Bioko Island and a useful base for exploring the island's southern coast. The town itself is a quiet port with a small fishing community, but its surroundings are the real draw.

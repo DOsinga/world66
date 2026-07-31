@@ -10,6 +10,11 @@ snippet: Western Uttar Pradesh city known for Aligarh Muslim University and Indi
   lock-making industry.
 title: Aligarh
 type: location
+nature: 3.2
+leisure: 4.0
+adventure: 5.1
+city_culture: 7.1
+historic_culture: 7.1
 ---
 
 Aligarh is a city in western Uttar Pradesh, about 130 km southeast of Delhi and an easy side trip from [Agra](/asia/india/uttarpradesh/agra). It is best known as the home of [Aligarh Muslim University](/asia/india/uttarpradesh/aligarh/aligarh_muslim_university), one of the most important educational institutions in South Asia, founded in 1875 by Sir Syed Ahmad Khan. The campus is worth visiting for its red-brick Indo-Saracenic buildings and the Jama Masjid at its centre.

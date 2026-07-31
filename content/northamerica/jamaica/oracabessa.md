@@ -10,6 +10,11 @@ score: 7.67
 loc_type: city
 snippet: Small north-coast town near GoldenEye, where Ian Fleming wrote the James
   Bond novels.
+nature: 5.7
+leisure: 6.8
+adventure: 3.0
+city_culture: 3.5
+historic_culture: 3.5
 ---
 
 Oracabessa is a small town in St Mary parish, about 16 km east of Ocho Rios on the north coast. Its Spanish name — Oracabeza, or "Golden Head" — refers to the quality of the light that falls on the bay in the afternoons.

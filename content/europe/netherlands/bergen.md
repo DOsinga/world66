@@ -14,6 +14,11 @@ snippet: North Holland artist village near dunes and polders, shaped by the Berg
   School and a century of creative life.
 title: Bergen
 type: location
+nature: 2.4
+leisure: 7.3
+adventure: 2.3
+city_culture: 7.7
+historic_culture: 7.7
 ---
 
 Bergen is the artist village of North Holland — a green, quiet place where trees outnumber houses and the dunes and polders are always a short walk away. Located just a few kilometres from [Alkmaar](/europe/netherlands/alkmaar), famous for its cheese market, Bergen has attracted painters, poets, and musicians for over a century. The Bergen School of expressionist painters made their name here in the early 20th century, and the creative atmosphere hasn't faded.

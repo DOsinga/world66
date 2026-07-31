@@ -16,6 +16,11 @@ sources:
 - https://erlebnisregion-mythen.ch/en/civic-structure/museum-of-the-swiss-charters-of-confederation
 title: Schwyz
 type: location
+nature: 5.5
+leisure: 5.7
+adventure: 4.0
+city_culture: 4.3
+historic_culture: 4.3
 ---
 
 Schwyz is one of those Swiss names that turns out to be bigger than the town itself. The canton helped give Switzerland its name, and the town still feels close to the country's founding myths: compact, orderly, framed by steep green slopes and the twin Mythen peaks.

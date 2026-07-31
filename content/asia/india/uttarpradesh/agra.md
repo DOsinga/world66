@@ -15,6 +15,11 @@ snippet: North Indian city on the Yamuna, home to the Taj Mahal, Agra Fort, and 
   gardens.
 title: Agra
 type: location
+nature: 2.6
+leisure: 4.1
+adventure: 5.5
+city_culture: 8.2
+historic_culture: 8.2
 ---
 
 People come to Agra for one thing: the [Taj Mahal](/asia/india/uttarpradesh/agra/tajmahal). The mausoleum that Shah Jahan built for his wife Mumtaz Mahal — twenty years of work, twenty thousand craftsmen, a building of white marble that seems to change colour with the hour — is the single most famous monument in India and one of the few that lives up to every expectation. See it once at dawn, once at sunset, and you will not regret coming.

@@ -14,6 +14,11 @@ snippet: Seaside Wicklow town below Bray Head, linked to Dublin by DART and a cl
   path to Greystones.
 title: Bray
 type: location
+nature: 4.9
+leisure: 5.0
+adventure: 4.2
+city_culture: 5.1
+historic_culture: 5.1
 ---
 
 Bray is a seaside town on the coast of County Wicklow, just south of Dublin and reachable in about 30 minutes by DART train. The town sits at the foot of Bray Head, a prominent headland that offers one of the best coastal walks near the capital — the cliff path from Bray to Greystones takes about an hour and the views along the way are superb.

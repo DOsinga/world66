@@ -15,6 +15,11 @@ snippet: Danube city in Baden-Württemberg, known for Ulm Minster and the world�
   church spire.
 title: Ulm
 type: location
+nature: 2.7
+leisure: 7.3
+adventure: 2.3
+city_culture: 7.5
+historic_culture: 7.5
 ---
 
 Ulm sits on the Danube in Baden-Württemberg, right where southern Germany feels most itself. The city is best known for its [Minster](/europe/germany/badenwrttemberg/ulm/ulmmunster), whose spire at 161.5 metres is the tallest church tower in the world. Climb the 768 steps for a view that stretches to the Alps on a clear day.

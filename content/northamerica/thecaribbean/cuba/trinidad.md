@@ -10,6 +10,11 @@ snippet: Cuban colonial town of cobblestoned lanes, sugar mansions, music nights
   and pastel houses around Plaza Mayor.
 title: Trinidad
 type: location
+nature: 4.3
+leisure: 6.0
+adventure: 3.7
+city_culture: 5.7
+historic_culture: 5.7
 ---
 
 Trinidad is Cuba's best-preserved colonial town and a UNESCO World Heritage Site — the kind of place where the 18th century feels close enough to touch. Cobblestoned streets climb the hill past pastel-painted houses with red tile roofs, wrought-iron grilles, and heavy wooden doors that open onto cool interior courtyards. At the top sits the [Plaza Mayor](/northamerica/thecaribbean/cuba/trinidad/plaza_mayor), flanked by former sugar baron mansions now turned into museums.

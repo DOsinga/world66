@@ -7,6 +7,11 @@ snippet: Twin Pacific coast destination pairing planned Ixtapa resorts with Zihu
   working fishing bay.
 title: Ixtapa-Zihuatanejo
 type: location
+nature: 4.6
+leisure: 8.1
+adventure: 1.8
+city_culture: 4.0
+historic_culture: 4.0
 ---
 
 Ixtapa and Zihuatanejo sit side by side on Mexico's Pacific coast in Guerrero state, about 225 km north of Acapulco. They are two very different places sharing the same stretch of coastline. Zihuatanejo is the original fishing village — a crescent bay lined with small hotels, seafood restaurants, and the daily theatre of the fishing fleet heading out and returning. Ixtapa, a few kilometres north, was purpose-built as a resort in the 1970s: hotel towers along a wide beach, a golf course, a marina, and the full apparatus of packaged tourism.

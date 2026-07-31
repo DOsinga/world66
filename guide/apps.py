@@ -8,10 +8,11 @@ class GuideConfig(AppConfig):
         import threading
         def warm():
             try:
-                from .models import load_featured_cities, load_story_pois, load_continents
+                from .models import load_featured_cities, load_story_pois, load_continents, load_dimension_index
                 load_featured_cities()
                 load_story_pois()
                 load_continents()
+                load_dimension_index()
             except Exception:
                 pass
         threading.Thread(target=warm, daemon=True).start()

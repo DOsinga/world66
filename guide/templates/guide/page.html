@@ -63,10 +63,22 @@
   {% endif %}
 
   {% if dimension_scores_json %}
-  <div class="sidebar-scores-card">
-    <div class="sidebar-scores-title">Travel Profile</div>
-    <div id="score-radar"></div>
-  </div>
+  <details class="sidebar-scores-card">
+    <summary>Travel Profile</summary>
+    <div class="sidebar-scores-body">
+      <div id="score-radar"></div>
+      {% if similar_places %}
+      <div class="score-similar-list">
+        <div class="score-similar-label">Similar Places</div>
+        <ul>
+          {% for loc in similar_places %}
+          <li><a href="{{ loc.get_absolute_url }}">{{ loc.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+    </div>
+  </details>
   <script src="{% static 'js/score-radar.js' %}"></script>
   <script>
     initScoreRadar('score-radar', {{ dimension_scores_json }});
@@ -397,25 +409,6 @@
     {% endfor %}
   </div>
   {% endif %}
-</div>
-{% endif %}
-
-{% if similar_places %}
-<div class="wide-block destinations-section">
-  <span class="section-kicker">Travel Profile</span>
-  <h2 class="section-block-heading">Similar Places</h2>
-  <div class="dest-grid">
-    {% for loc in similar_places %}
-    <a href="{{ loc.get_absolute_url }}" class="dest-card{% if not loc.image_url %} dest-card--no-image{% endif %}">
-      {% if loc.image_url %}<img src="{{ loc.image_url }}" alt="{{ loc.title }}">{% endif %}
-      <div class="dest-veil"></div>
-      <div class="dest-txt">
-        <div class="dest-idx">{{ forloop.counter|stringformat:"02d" }}</div>
-        <div class="dest-name">{{ loc.title }}</div>
-      </div>
-    </a>
-    {% endfor %}
-  </div>
 </div>
 {% endif %}
 

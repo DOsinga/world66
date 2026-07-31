@@ -475,17 +475,15 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
             loc_img = _image_path(loc, source_ref)
             loc.image_url = f'{loc.url_prefix}/content-image/{loc_img}' if loc_img else None
 
-    # Other destinations with a similar five-dimension score profile
-    # (see tools/backfill_dimension_scores.py, guide/models.py:find_similar_by_scores).
+    # Other destinations with a similar five-dimension score profile, shown as
+    # a compact list inside the travel-profile sidebar card (see
+    # tools/backfill_dimension_scores.py, guide/models.py:find_similar_by_scores).
     similar_places = []
     if page.page_type == 'location':
         for similar_path in find_similar_by_scores(page.path):
             similar_page = load_page(similar_path)
-            if not similar_page:
-                continue
-            similar_img = _image_path(similar_page, source_ref)
-            similar_page.image_url = f'{similar_page.url_prefix}/content-image/{similar_img}' if similar_img else None
-            similar_places.append(similar_page)
+            if similar_page:
+                similar_places.append(similar_page)
 
     # Inspiration image strip for section pages — up to 12 POI images
     poi_images = []

@@ -62,29 +62,6 @@
   </div>
   {% endif %}
 
-  {% if dimension_scores_json %}
-  <details class="sidebar-scores-card">
-    <summary>Travel Profile</summary>
-    <div class="sidebar-scores-body">
-      <div id="score-radar"></div>
-      {% if similar_places %}
-      <div class="score-similar-list">
-        <div class="score-similar-label">Similar Places</div>
-        <ul>
-          {% for loc in similar_places %}
-          <li><a href="{{ loc.get_absolute_url }}">{{ loc.title }}</a></li>
-          {% endfor %}
-        </ul>
-      </div>
-      {% endif %}
-    </div>
-  </details>
-  <script src="{% static 'js/score-radar.js' %}"></script>
-  <script>
-    initScoreRadar('score-radar', {{ dimension_scores_json }});
-  </script>
-  {% endif %}
-
   {% if markers_full_json != "[]" or lat and lng %}
   <div class="sidebar-map-card" id="sidebar-map-card">
     <div class="sidebar-map-head">
@@ -93,6 +70,56 @@
     </div>
     <div class="sidebar-map-canvas" id="sidebar-map"></div>
   </div>
+  {% endif %}
+
+  {% if dimension_rows %}
+  <div class="score-profile-card" id="score-profile-card">
+    <div class="score-profile-eyebrow">Travel Profile</div>
+    <div class="score-profile-verdict">{{ verdict_html|safe }}</div>
+
+    <button type="button" class="score-profile-toggle" id="score-profile-toggle"
+            aria-expanded="false" aria-controls="score-profile-body">
+      <span class="score-profile-toggle-label" data-collapsed-label="See the five dimensions" data-expanded-label="Hide the five dimensions">See the five dimensions</span>
+      <span class="score-profile-toggle-glyph" aria-hidden="true">+</span>
+    </button>
+
+    <div class="score-profile-body" id="score-profile-body">
+      <div class="score-profile-rows">
+        {% for row in dimension_rows %}
+        <div class="score-profile-row" tabindex="0" data-blurb="{{ row.blurb }}">
+          <div class="score-profile-row-head">
+            <span class="score-profile-row-name">{{ row.label }}</span>
+            <span class="score-profile-row-meta">
+              <span class="score-profile-row-rank">{{ row.percentile_label }}</span>
+              <span class="score-profile-row-score">{{ row.score }}</span>
+            </span>
+          </div>
+          <div class="score-profile-bar-track">
+            <div class="score-profile-bar-fill" style="width: {{ row.width_pct }}%"></div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+
+      <div class="score-profile-note" id="score-profile-note">Hover a dimension for the reasoning behind its score.</div>
+
+      {% if similar_profiles %}
+      <div class="score-profile-similar">
+        <div class="score-profile-similar-label">Similar Profiles</div>
+        <div class="score-profile-chips">
+          {% for item in similar_profiles %}
+          <a href="{{ item.page.get_absolute_url }}" class="score-profile-chip">{{ item.page.title }} <span class="score-profile-chip-match">{{ item.match_pct }}%</span></a>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+
+      <div class="score-profile-footer">
+        <a href="/how-we-score">HOW WE SCORE</a>
+      </div>
+    </div>
+  </div>
+  <script src="{% static 'js/score-profile.js' %}"></script>
   {% endif %}
 
   {% if parent_sections|length > 1 %}

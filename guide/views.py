@@ -15,7 +15,7 @@ from django.utils.safestring import mark_safe
 from . import github
 from .models import (
     CONTENT_DIR, DIMENSION_FIELDS, DIMENSION_LABELS, NAV_TYPES, build_city_tag_index,
-    dimension_percentile, find_similar_with_match, find_tagged_pois,
+    dimension_percentile, find_similar_with_match_grouped, find_tagged_pois,
     load_page, load_page_from_revision, load_tag_index, resolve_tag_route, _find_city_path,
 )
 
@@ -487,7 +487,9 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     # genuine per-location editorial reasoning yet.
     dimension_rows = []
     verdict_html = None
-    similar_profiles = []
+    similar_in_country = []
+    similar_elsewhere = []
+    country_title = ''
     if page.page_type == 'location' and all(page.meta.get(f) is not None for f in DIMENSION_FIELDS):
         scored = sorted(
             ((f, float(page.meta[f])) for f in DIMENSION_FIELDS),
@@ -522,12 +524,23 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
             f"{page.title} is a <em>{top_two[0]}</em> {noun} first, <em>{top_two[1]}</em> second."
         )
 
-        for similar_path, match_pct in find_similar_with_match(page.path):
+        same_country, other_country = find_similar_with_match_grouped(page.path)
+        for similar_path, match_pct in same_country:
             similar_page = load_page(similar_path)
             if similar_page:
-                similar_profiles.append({'page': similar_page, 'match_pct': match_pct})
-        if len(similar_profiles) < 3:
-            similar_profiles = []
+                similar_in_country.append({'page': similar_page, 'match_pct': match_pct})
+        for similar_path, match_pct in other_country:
+            similar_page = load_page(similar_path)
+            if similar_page:
+                similar_elsewhere.append({'page': similar_page, 'match_pct': match_pct})
+        if len(similar_in_country) < 3:
+            similar_in_country = []
+        if len(similar_elsewhere) < 3:
+            similar_elsewhere = []
+        if similar_in_country:
+            country_path = "/".join(page.path.split('/')[:2])
+            country_page = load_page(country_path)
+            country_title = country_page.title if country_page else ''
 
     # Inspiration image strip for section pages — up to 12 POI images
     poi_images = []
@@ -609,7 +622,9 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "linked_locations": linked_locations,
         "dimension_rows": dimension_rows,
         "verdict_html": verdict_html,
-        "similar_profiles": similar_profiles,
+        "similar_in_country": similar_in_country,
+        "similar_elsewhere": similar_elsewhere,
+        "country_title": country_title,
         "url_prefix": page.url_prefix,
     })
 

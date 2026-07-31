@@ -103,11 +103,22 @@
 
       <div class="score-profile-note" id="score-profile-note">Hover a dimension for the reasoning behind its score.</div>
 
-      {% if similar_profiles %}
+      {% if similar_in_country %}
       <div class="score-profile-similar">
-        <div class="score-profile-similar-label">Similar Profiles</div>
+        <div class="score-profile-similar-label">Similar in {{ country_title }}</div>
         <div class="score-profile-chips">
-          {% for item in similar_profiles %}
+          {% for item in similar_in_country %}
+          <a href="{{ item.page.get_absolute_url }}" class="score-profile-chip">{{ item.page.title }} <span class="score-profile-chip-match">{{ item.match_pct }}%</span></a>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+
+      {% if similar_elsewhere %}
+      <div class="score-profile-similar">
+        <div class="score-profile-similar-label">Similar Elsewhere</div>
+        <div class="score-profile-chips">
+          {% for item in similar_elsewhere %}
           <a href="{{ item.page.get_absolute_url }}" class="score-profile-chip">{{ item.page.title }} <span class="score-profile-chip-match">{{ item.match_pct }}%</span></a>
           {% endfor %}
         </div>

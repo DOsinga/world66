@@ -14,8 +14,9 @@ from django.utils.safestring import mark_safe
 
 from . import github
 from .models import (
-    CONTENT_DIR, NAV_TYPES, build_city_tag_index, find_tagged_pois,
-    load_page, load_page_from_revision, load_tag_index, resolve_tag_route, _find_city_path,
+    CONTENT_DIR, DIMENSION_FIELDS, NAV_TYPES, build_city_tag_index, find_tagged_pois,
+    find_similar_by_scores, load_page, load_page_from_revision, load_tag_index,
+    resolve_tag_route, _find_city_path,
 )
 
 SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
@@ -474,6 +475,18 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
             loc_img = _image_path(loc, source_ref)
             loc.image_url = f'{loc.url_prefix}/content-image/{loc_img}' if loc_img else None
 
+    # Other destinations with a similar five-dimension score profile
+    # (see tools/backfill_dimension_scores.py, guide/models.py:find_similar_by_scores).
+    similar_places = []
+    if page.page_type == 'location':
+        for similar_path in find_similar_by_scores(page.path):
+            similar_page = load_page(similar_path)
+            if not similar_page:
+                continue
+            similar_img = _image_path(similar_page, source_ref)
+            similar_page.image_url = f'{similar_page.url_prefix}/content-image/{similar_img}' if similar_img else None
+            similar_places.append(similar_page)
+
     # Inspiration image strip for section pages — up to 12 POI images
     poi_images = []
     if page.page_type in NAV_TYPES:
@@ -552,6 +565,10 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "poi_images": poi_images,
         "inline_sections": inline_sections,
         "linked_locations": linked_locations,
+        "similar_places": similar_places,
+        "dimension_scores_json": mark_safe(json.dumps({
+            field: page.meta[field] for field in DIMENSION_FIELDS
+        })) if all(page.meta.get(f) is not None for f in DIMENSION_FIELDS) else None,
         "url_prefix": page.url_prefix,
     })
 

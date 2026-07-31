@@ -887,6 +887,55 @@ img { max-width: 100%; height: auto; }
   color: var(--mute);
 }
 
+/* Score radar card in sidebar */
+.sidebar-scores-card {
+  background: var(--paper-2);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  padding: 14px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.sidebar-scores-title {
+  font-family: var(--label-font);
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: var(--mute);
+  margin-bottom: 8px;
+}
+
+.score-radar-svg {
+  display: block;
+  overflow: visible;
+}
+
+.score-radar-grid {
+  fill: none;
+  stroke: var(--line);
+  stroke-width: 1;
+}
+
+.score-radar-axis {
+  stroke: var(--line);
+  stroke-width: 1;
+}
+
+.score-radar-label {
+  font-family: var(--label-font);
+  font-size: 9px;
+  fill: var(--mute);
+}
+
+.score-radar-shape {
+  fill: var(--accent);
+  fill-opacity: 0.35;
+  stroke: var(--accent);
+  stroke-width: 1.5;
+}
+
 /* Sidebar toggle — hidden on desktop */
 .sidebar-toggle {
   display: none;

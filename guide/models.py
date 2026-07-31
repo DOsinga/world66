@@ -859,3 +859,45 @@ def load_continents():
                 _, locations, _ = loc.children()
                 continents.append((loc, locations))
     return continents
+
+
+DIMENSION_FIELDS = ("city_culture", "historic_culture", "nature", "leisure", "adventure")
+
+
+@lru_cache(maxsize=1)
+def load_dimension_index():
+    """Scan all content files and return {path: (5 dimension scores)} for every
+    location that has all five (see tools/backfill_dimension_scores.py)."""
+    index = {}
+    for md_file in sorted(CONTENT_DIR.rglob("*.md")):
+        result = _load_md(md_file)
+        if not result:
+            continue
+        meta, _ = result
+        if meta.get("type") != "location":
+            continue
+        if any(meta.get(field) is None for field in DIMENSION_FIELDS):
+            continue
+        rel = md_file.relative_to(CONTENT_DIR)
+        parts = list(rel.parts)
+        stem = parts[-1][:-3]
+        if len(parts) >= 2 and stem == parts[-2]:
+            url_path = "/".join(parts[:-1])
+        else:
+            url_path = "/".join(parts[:-1] + [stem]) if len(parts) > 1 else stem
+        index[url_path] = tuple(float(meta[field]) for field in DIMENSION_FIELDS)
+    return index
+
+
+def find_similar_by_scores(path, k=6):
+    """Return up to k paths (excluding path itself) with the closest 5-dimension
+    score profile, nearest first, by plain Euclidean distance."""
+    index = load_dimension_index()
+    vector = index.get(path)
+    if vector is None:
+        return []
+    ranked = sorted(
+        (other for other in index if other != path),
+        key=lambda other: sum((a - b) ** 2 for a, b in zip(vector, index[other])),
+    )
+    return ranked[:k]

@@ -1,0 +1,352 @@
+{
+  "africa/centralafricanrepublic/bangui": {
+    "adventure": 8,
+    "heritage": 4,
+    "leisure": 2,
+    "nature": 5,
+    "vibrancy": 4
+  },
+  "africa/guineabissau/bafata": {
+    "adventure": 7,
+    "heritage": 4,
+    "leisure": 2,
+    "nature": 6,
+    "vibrancy": 3
+  },
+  "africa/mauritania/ayounalatrous": {
+    "adventure": 7,
+    "heritage": 3,
+    "leisure": 2,
+    "nature": 6,
+    "vibrancy": 2
+  },
+  "asia/bangladesh/coxsbazar": {
+    "adventure": 4,
+    "heritage": 3,
+    "leisure": 8,
+    "nature": 6,
+    "vibrancy": 8
+  },
+  "asia/china/fujianprovince/ningde": {
+    "adventure": 5,
+    "heritage": 4,
+    "leisure": 4,
+    "nature": 7,
+    "vibrancy": 4
+  },
+  "asia/china/guangdong/shenzhen": {
+    "adventure": 4,
+    "heritage": 3,
+    "leisure": 7,
+    "nature": 5,
+    "vibrancy": 9
+  },
+  "asia/china/jiangxi/jiujiang": {
+    "adventure": 4,
+    "heritage": 5,
+    "leisure": 4,
+    "nature": 6,
+    "vibrancy": 4
+  },
+  "asia/cyprus/limassol": {
+    "adventure": 4,
+    "heritage": 6,
+    "leisure": 7,
+    "nature": 6,
+    "vibrancy": 7
+  },
+  "asia/india/uttaranchal/rishikesh": {
+    "adventure": 7,
+    "heritage": 8,
+    "leisure": 6,
+    "nature": 8,
+    "vibrancy": 7
+  },
+  "asia/laos/patong": {
+    "adventure": 4,
+    "heritage": 2,
+    "leisure": 3,
+    "nature": 5,
+    "vibrancy": 3
+  },
+  "asia/pakistan/islamabad": {
+    "adventure": 5,
+    "heritage": 5,
+    "leisure": 5,
+    "nature": 7,
+    "vibrancy": 6
+  },
+  "asia/turkey/amasya": {
+    "adventure": 4,
+    "heritage": 9,
+    "leisure": 5,
+    "nature": 6,
+    "vibrancy": 5
+  },
+  "asia/turkey/dogubeyazit": {
+    "adventure": 7,
+    "heritage": 7,
+    "leisure": 4,
+    "nature": 8,
+    "vibrancy": 4
+  },
+  "australiaandpacific/australia/newsouthwales/perisher": {
+    "adventure": 8,
+    "heritage": 2,
+    "leisure": 7,
+    "nature": 8,
+    "vibrancy": 5
+  },
+  "australiaandpacific/australia/northernterritory/kakadunationalpark": {
+    "adventure": 8,
+    "heritage": 9,
+    "leisure": 6,
+    "nature": 10,
+    "vibrancy": 1
+  },
+  "australiaandpacific/australia/southaustralia/moonta": {
+    "adventure": 3,
+    "heritage": 7,
+    "leisure": 5,
+    "nature": 5,
+    "vibrancy": 4
+  },
+  "australiaandpacific/australia/victoria/port_campbell": {
+    "adventure": 5,
+    "heritage": 3,
+    "leisure": 6,
+    "nature": 9,
+    "vibrancy": 3
+  },
+  "australiaandpacific/australia/westernaustralia/mandurah": {
+    "adventure": 4,
+    "heritage": 3,
+    "leisure": 6,
+    "nature": 7,
+    "vibrancy": 5
+  },
+  "australiaandpacific/newzealand/north_island/greater_wellington/wairarapa": {
+    "adventure": 5,
+    "heritage": 4,
+    "leisure": 7,
+    "nature": 7,
+    "vibrancy": 4
+  },
+  "europe/denmark/fanoe": {
+    "adventure": 5,
+    "heritage": 4,
+    "leisure": 7,
+    "nature": 8,
+    "vibrancy": 4
+  },
+  "europe/finland/kotka": {
+    "adventure": 3,
+    "heritage": 5,
+    "leisure": 5,
+    "nature": 6,
+    "vibrancy": 4
+  },
+  "europe/france/normandybrittany/falaise": {
+    "adventure": 2,
+    "heritage": 8,
+    "leisure": 4,
+    "nature": 4,
+    "vibrancy": 4
+  },
+  "europe/france/provence/roussillon": {
+    "adventure": 3,
+    "heritage": 7,
+    "leisure": 7,
+    "nature": 7,
+    "vibrancy": 5
+  },
+  "europe/germany/saxony/pirna": {
+    "adventure": 6,
+    "heritage": 6,
+    "leisure": 5,
+    "nature": 8,
+    "vibrancy": 4
+  },
+  "europe/italy/lombardia/milan": {
+    "adventure": 4,
+    "heritage": 9,
+    "leisure": 9,
+    "nature": 3,
+    "vibrancy": 9
+  },
+  "europe/italy/veneto/lidodijesolo": {
+    "adventure": 3,
+    "heritage": 3,
+    "leisure": 8,
+    "nature": 5,
+    "vibrancy": 7
+  },
+  "europe/norway/ndalsnes": {
+    "adventure": 8,
+    "heritage": 4,
+    "leisure": 6,
+    "nature": 9,
+    "vibrancy": 4
+  },
+  "europe/russia/cherepovets": {
+    "adventure": 2,
+    "heritage": 3,
+    "leisure": 3,
+    "nature": 4,
+    "vibrancy": 3
+  },
+  "europe/spain/la_mancha/consuegra": {
+    "adventure": 3,
+    "heritage": 8,
+    "leisure": 5,
+    "nature": 5,
+    "vibrancy": 4
+  },
+  "europe/spain/northernspain/picosdeeuropa": {
+    "adventure": 9,
+    "heritage": 5,
+    "leisure": 6,
+    "nature": 10,
+    "vibrancy": 3
+  },
+  "europe/ukraine/kherson": {
+    "adventure": 4,
+    "heritage": 4,
+    "leisure": 3,
+    "nature": 5,
+    "vibrancy": 3
+  },
+  "europe/unitedkingdom/england/east_of_england/the_north_norfolk_coast/brancaster": {
+    "adventure": 3,
+    "heritage": 4,
+    "leisure": 6,
+    "nature": 8,
+    "vibrancy": 3
+  },
+  "europe/unitedkingdom/england/south_west/barnstaple": {
+    "adventure": 4,
+    "heritage": 6,
+    "leisure": 5,
+    "nature": 6,
+    "vibrancy": 5
+  },
+  "europe/unitedkingdom/england/south_west/dartmoor/princetown": {
+    "adventure": 7,
+    "heritage": 6,
+    "leisure": 4,
+    "nature": 9,
+    "vibrancy": 2
+  },
+  "europe/unitedkingdom/england/south_west/otterystmary": {
+    "adventure": 2,
+    "heritage": 6,
+    "leisure": 4,
+    "nature": 5,
+    "vibrancy": 4
+  },
+  "europe/unitedkingdom/scotland/perth": {
+    "adventure": 3,
+    "heritage": 6,
+    "leisure": 5,
+    "nature": 6,
+    "vibrancy": 5
+  },
+  "northamerica/canada/newbrunswick/caraquet": {
+    "adventure": 3,
+    "heritage": 6,
+    "leisure": 5,
+    "nature": 6,
+    "vibrancy": 5
+  },
+  "northamerica/canada/ontario/oakville": {
+    "adventure": 3,
+    "heritage": 3,
+    "leisure": 7,
+    "nature": 6,
+    "vibrancy": 5
+  },
+  "northamerica/mexico/maruata": {
+    "adventure": 7,
+    "heritage": 2,
+    "leisure": 5,
+    "nature": 8,
+    "vibrancy": 2
+  },
+  "northamerica/mexico/sanluispotosi": {
+    "adventure": 5,
+    "heritage": 8,
+    "leisure": 6,
+    "nature": 5,
+    "vibrancy": 7
+  },
+  "northamerica/unitedstates/california/centralcoast/oxnard": {
+    "adventure": 4,
+    "heritage": 3,
+    "leisure": 5,
+    "nature": 6,
+    "vibrancy": 4
+  },
+  "northamerica/unitedstates/california/goldcountry/mariposa": {
+    "adventure": 8,
+    "heritage": 7,
+    "leisure": 5,
+    "nature": 9,
+    "vibrancy": 4
+  },
+  "northamerica/unitedstates/connecticut/new_london": {
+    "adventure": 3,
+    "heritage": 6,
+    "leisure": 4,
+    "nature": 5,
+    "vibrancy": 4
+  },
+  "northamerica/unitedstates/missouri/buckner": {
+    "adventure": 1,
+    "heritage": 1,
+    "leisure": 2,
+    "nature": 3,
+    "vibrancy": 1
+  },
+  "northamerica/unitedstates/missouri/kansascity": {
+    "adventure": 4,
+    "heritage": 6,
+    "leisure": 7,
+    "nature": 5,
+    "vibrancy": 7
+  },
+  "northamerica/unitedstates/southdakota/spearfish": {
+    "adventure": 6,
+    "heritage": 4,
+    "leisure": 4,
+    "nature": 8,
+    "vibrancy": 3
+  },
+  "northamerica/unitedstates/washington/enumclaw": {
+    "adventure": 7,
+    "heritage": 3,
+    "leisure": 4,
+    "nature": 8,
+    "vibrancy": 3
+  },
+  "southamerica/brazil/barra_de_tijuca": {
+    "adventure": 5,
+    "heritage": 2,
+    "leisure": 7,
+    "nature": 6,
+    "vibrancy": 7
+  },
+  "southamerica/brazil/caldas_novas": {
+    "adventure": 3,
+    "heritage": 2,
+    "leisure": 9,
+    "nature": 6,
+    "vibrancy": 5
+  },
+  "southamerica/guyana/mabarumba": {
+    "adventure": 6,
+    "heritage": 3,
+    "leisure": 2,
+    "nature": 7,
+    "vibrancy": 2
+  }
+}

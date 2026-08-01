@@ -51,6 +51,7 @@ Scoring is self-contained under `scoring/`:
 scoring/
   SCORING.md
   sample_locations.py
+  score_batches.py
   generate_embeddings.py
   train_latent_model.py
   predict_locations.py
@@ -74,12 +75,15 @@ python3 scoring/sample_locations.py sample --n 2000 --seed 67 --out scoring/data
 
 ### 2. Label locations
 
-Create batches and ask agents to score them with the LLM Scoring Guidelines above.
+Create batches and score them with the LLM Scoring Guidelines above.
 
 ```bash
 python3 scoring/sample_locations.py batches \
   --sample scoring/data/sample_2000.json \
   --size 50
+
+python3 scoring/score_batches.py \
+  --model gpt-5-mini
 ```
 
 Agent outputs are merged into:
@@ -92,14 +96,16 @@ The raw batch files live in `scoring/data/batches/`; the scored batch files live
 
 ### 3. Generate embeddings
 
-Generate `text-embedding-3-large` embeddings for the labeled sample:
+Export all eligible locations and generate `text-embedding-3-large` embeddings once. The training script filters this file down to labeled paths.
 
 ```bash
+python3 scoring/sample_locations.py export-locations --out scoring/data/all_locations.json
+
 python3 scoring/generate_embeddings.py \
-  --sample scoring/data/sample_2000.json \
+  --sample scoring/data/all_locations.json \
   --model text-embedding-3-large \
-  --out scoring/data/location_embeddings_large.npz \
-  --meta-out scoring/data/location_embeddings_large_meta.json
+  --out scoring/data/all_location_embeddings_large.npz \
+  --meta-out scoring/data/all_location_embeddings_large_meta.json
 ```
 
 The generator uses `OPENAI_API_KEY` from the environment or from `.env`. Use `--env-file <path>` if needed.
@@ -110,7 +116,7 @@ Validate the current production architecture:
 
 ```bash
 python3 scoring/train_latent_model.py \
-  --embeddings scoring/data/location_embeddings_large.npz \
+  --embeddings scoring/data/all_location_embeddings_large.npz \
   --scores scoring/data/scored_2000.json \
   --out-dir scoring/data/models_validation \
   --weight-decay 0.1 \
@@ -126,7 +132,7 @@ Train the production model on all 2000 labels:
 
 ```bash
 python3 scoring/train_latent_model.py \
-  --embeddings scoring/data/location_embeddings_large.npz \
+  --embeddings scoring/data/all_location_embeddings_large.npz \
   --scores scoring/data/scored_2000.json \
   --out-dir scoring/data \
   --weight-decay 0.1 \
@@ -140,17 +146,9 @@ The production model is stored as `scoring/data/latent_model.pt`.
 
 ### 5. Apply the latent model to all locations
 
-Export all eligible locations for embedding, embed them, and predict the five LLM training labels plus the 12 hidden dimensions:
+Predict the five LLM training labels plus the 12 hidden dimensions for all locations:
 
 ```bash
-python3 scoring/sample_locations.py export-locations --out scoring/data/all_locations.json
-
-python3 scoring/generate_embeddings.py \
-  --sample scoring/data/all_locations.json \
-  --model text-embedding-3-large \
-  --out scoring/data/all_location_embeddings_large.npz \
-  --meta-out scoring/data/all_location_embeddings_large_meta.json
-
 python3 scoring/predict_locations.py \
   --embeddings scoring/data/all_location_embeddings_large.npz \
   --model scoring/data/latent_model.pt \

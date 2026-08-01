@@ -1,0 +1,352 @@
+{
+  "africa/kenya/lakes/laketurkana": {
+    "adventure": 9,
+    "heritage": 7,
+    "leisure": 1,
+    "nature": 9,
+    "vibrancy": 2
+  },
+  "africa/kenya/northernkenya/lodwar": {
+    "adventure": 8,
+    "heritage": 4,
+    "leisure": 1,
+    "nature": 7,
+    "vibrancy": 3
+  },
+  "africa/morocco/taroudant": {
+    "adventure": 3,
+    "heritage": 8,
+    "leisure": 5,
+    "nature": 3,
+    "vibrancy": 7
+  },
+  "africa/tanzania/iringa": {
+    "adventure": 5,
+    "heritage": 4,
+    "leisure": 4,
+    "nature": 6,
+    "vibrancy": 5
+  },
+  "asia/china/hainanisland/danzhou": {
+    "adventure": 2,
+    "heritage": 2,
+    "leisure": 4,
+    "nature": 5,
+    "vibrancy": 3
+  },
+  "asia/china/hunan/dehang": {
+    "adventure": 5,
+    "heritage": 2,
+    "leisure": 5,
+    "nature": 8,
+    "vibrancy": 2
+  },
+  "asia/china/ningxia/yongning": {
+    "adventure": 2,
+    "heritage": 3,
+    "leisure": 2,
+    "nature": 3,
+    "vibrancy": 2
+  },
+  "asia/china/sichuanprovince/jiuzhaigou": {
+    "adventure": 5,
+    "heritage": 3,
+    "leisure": 6,
+    "nature": 10,
+    "vibrancy": 2
+  },
+  "asia/india/andhrapradesh/vijayawada": {
+    "adventure": 3,
+    "heritage": 5,
+    "leisure": 4,
+    "nature": 4,
+    "vibrancy": 7
+  },
+  "asia/india/maharashtra/mahabaleshwar": {
+    "adventure": 6,
+    "heritage": 4,
+    "leisure": 6,
+    "nature": 8,
+    "vibrancy": 5
+  },
+  "asia/japan/honshu/echizen": {
+    "adventure": 2,
+    "heritage": 6,
+    "leisure": 6,
+    "nature": 5,
+    "vibrancy": 4
+  },
+  "asia/laos/vangvieng": {
+    "adventure": 8,
+    "heritage": 2,
+    "leisure": 5,
+    "nature": 8,
+    "vibrancy": 7
+  },
+  "asia/malaysia/perak": {
+    "adventure": 4,
+    "heritage": 6,
+    "leisure": 5,
+    "nature": 7,
+    "vibrancy": 6
+  },
+  "asia/mongolia/gungaluut": {
+    "adventure": 7,
+    "heritage": 3,
+    "leisure": 4,
+    "nature": 9,
+    "vibrancy": 2
+  },
+  "asia/mongolia/khovd": {
+    "adventure": 7,
+    "heritage": 5,
+    "leisure": 3,
+    "nature": 8,
+    "vibrancy": 3
+  },
+  "asia/pakistan/rawalpindi": {
+    "adventure": 5,
+    "heritage": 4,
+    "leisure": 3,
+    "nature": 2,
+    "vibrancy": 6
+  },
+  "asia/southkorea/gimcheon": {
+    "adventure": 2,
+    "heritage": 3,
+    "leisure": 3,
+    "nature": 4,
+    "vibrancy": 3
+  },
+  "asia/uzbekistan/bukhara": {
+    "adventure": 2,
+    "heritage": 10,
+    "leisure": 6,
+    "nature": 1,
+    "vibrancy": 7
+  },
+  "australiaandpacific/guam/cettibay": {
+    "adventure": 6,
+    "heritage": 1,
+    "leisure": 2,
+    "nature": 7,
+    "vibrancy": 1
+  },
+  "europe/bosniaandherzegovina/trebinje": {
+    "adventure": 3,
+    "heritage": 7,
+    "leisure": 6,
+    "nature": 5,
+    "vibrancy": 6
+  },
+  "europe/croatia/pasman_island/mrljane": {
+    "adventure": 2,
+    "heritage": 2,
+    "leisure": 6,
+    "nature": 6,
+    "vibrancy": 4
+  },
+  "europe/faroeislands/suuroy/hvalba": {
+    "adventure": 7,
+    "heritage": 4,
+    "leisure": 2,
+    "nature": 9,
+    "vibrancy": 1
+  },
+  "europe/germany/bavaria/bamberg": {
+    "adventure": 2,
+    "heritage": 10,
+    "leisure": 6,
+    "nature": 5,
+    "vibrancy": 6
+  },
+  "europe/germany/bavaria/rosenheim": {
+    "adventure": 3,
+    "heritage": 6,
+    "leisure": 5,
+    "nature": 6,
+    "vibrancy": 5
+  },
+  "europe/greece/dion": {
+    "adventure": 6,
+    "heritage": 8,
+    "leisure": 3,
+    "nature": 8,
+    "vibrancy": 2
+  },
+  "europe/greece/patras": {
+    "adventure": 3,
+    "heritage": 6,
+    "leisure": 5,
+    "nature": 5,
+    "vibrancy": 7
+  },
+  "europe/hungary/szeged": {
+    "adventure": 2,
+    "heritage": 6,
+    "leisure": 6,
+    "nature": 3,
+    "vibrancy": 7
+  },
+  "europe/ireland/westport": {
+    "adventure": 6,
+    "heritage": 5,
+    "leisure": 5,
+    "nature": 7,
+    "vibrancy": 5
+  },
+  "europe/italy/liguria/riomaggiore": {
+    "adventure": 6,
+    "heritage": 7,
+    "leisure": 7,
+    "nature": 8,
+    "vibrancy": 7
+  },
+  "europe/italy/sardinia/costasmeralda": {
+    "adventure": 5,
+    "heritage": 4,
+    "leisure": 10,
+    "nature": 8,
+    "vibrancy": 7
+  },
+  "europe/italy/sicily/pelagianislands": {
+    "adventure": 5,
+    "heritage": 3,
+    "leisure": 8,
+    "nature": 8,
+    "vibrancy": 3
+  },
+  "europe/netherlands/harlingen": {
+    "adventure": 2,
+    "heritage": 5,
+    "leisure": 4,
+    "nature": 7,
+    "vibrancy": 4
+  },
+  "europe/portugal/dourovalley": {
+    "adventure": 4,
+    "heritage": 7,
+    "leisure": 9,
+    "nature": 8,
+    "vibrancy": 6
+  },
+  "europe/russia/yakutsk": {
+    "adventure": 8,
+    "heritage": 5,
+    "leisure": 2,
+    "nature": 8,
+    "vibrancy": 3
+  },
+  "europe/spain/cantabria/santillana_del_mar": {
+    "adventure": 2,
+    "heritage": 9,
+    "leisure": 6,
+    "nature": 4,
+    "vibrancy": 5
+  },
+  "europe/sweden/stersund": {
+    "adventure": 5,
+    "heritage": 5,
+    "leisure": 5,
+    "nature": 7,
+    "vibrancy": 5
+  },
+  "europe/switzerland/ascona": {
+    "adventure": 2,
+    "heritage": 5,
+    "leisure": 9,
+    "nature": 7,
+    "vibrancy": 6
+  },
+  "northamerica/canada/ontario/niagara_on_the_lake": {
+    "adventure": 2,
+    "heritage": 7,
+    "leisure": 8,
+    "nature": 5,
+    "vibrancy": 6
+  },
+  "northamerica/grenada/grandetangforestreserve": {
+    "adventure": 6,
+    "heritage": 1,
+    "leisure": 5,
+    "nature": 8,
+    "vibrancy": 1
+  },
+  "northamerica/unitedstates/alaska/unalaska": {
+    "adventure": 8,
+    "heritage": 5,
+    "leisure": 2,
+    "nature": 8,
+    "vibrancy": 3
+  },
+  "northamerica/unitedstates/arkansas/littlerock": {
+    "adventure": 2,
+    "heritage": 6,
+    "leisure": 5,
+    "nature": 4,
+    "vibrancy": 6
+  },
+  "northamerica/unitedstates/colorado/leadville": {
+    "adventure": 7,
+    "heritage": 7,
+    "leisure": 5,
+    "nature": 8,
+    "vibrancy": 4
+  },
+  "northamerica/unitedstates/florida/tampabayarea/pinellastrail": {
+    "adventure": 2,
+    "heritage": 1,
+    "leisure": 7,
+    "nature": 5,
+    "vibrancy": 5
+  },
+  "northamerica/unitedstates/nevada/redrockcanyon": {
+    "adventure": 8,
+    "heritage": 1,
+    "leisure": 5,
+    "nature": 9,
+    "vibrancy": 2
+  },
+  "northamerica/unitedstates/newyorkstate/troy": {
+    "adventure": 2,
+    "heritage": 6,
+    "leisure": 4,
+    "nature": 3,
+    "vibrancy": 5
+  },
+  "northamerica/unitedstates/oklahoma/shawnee": {
+    "adventure": 1,
+    "heritage": 2,
+    "leisure": 2,
+    "nature": 2,
+    "vibrancy": 3
+  },
+  "northamerica/unitedstates/pennsylvania/bucks_county/doylestown": {
+    "adventure": 1,
+    "heritage": 6,
+    "leisure": 5,
+    "nature": 3,
+    "vibrancy": 5
+  },
+  "northamerica/unitedstates/pennsylvania/punxsutawney": {
+    "adventure": 1,
+    "heritage": 4,
+    "leisure": 3,
+    "nature": 2,
+    "vibrancy": 3
+  },
+  "northamerica/unitedstates/southdakota/bellefourche": {
+    "adventure": 4,
+    "heritage": 2,
+    "leisure": 2,
+    "nature": 5,
+    "vibrancy": 2
+  },
+  "southamerica/venezuela/maracaibolake": {
+    "adventure": 7,
+    "heritage": 3,
+    "leisure": 2,
+    "nature": 9,
+    "vibrancy": 2
+  }
+}

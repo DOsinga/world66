@@ -15,6 +15,7 @@ DATA_DIR = SCORING_DIR / "data"
 EMBEDDINGS_FILE = DATA_DIR / "location_embeddings_large.npz"
 SCORED_FILE = DATA_DIR / "scored_2000.json"
 MODEL_DIR = DATA_DIR / "models_validation"
+DIMENSIONS = ("heritage", "vibrancy", "nature", "leisure", "adventure")
 
 
 class DirectModel(nn.Module):
@@ -86,6 +87,8 @@ def set_seed(seed):
 
 def score_dimensions(scores):
     first_scores = next(iter(scores.values()))
+    if all(dimension in first_scores for dimension in DIMENSIONS):
+        return DIMENSIONS
     return tuple(first_scores)
 
 
@@ -94,14 +97,16 @@ def load_data(embeddings_path, scores_path):
     scores = json.loads(scores_path.read_text())
     dimensions = score_dimensions(scores)
 
-    paths = embeddings["paths"].tolist()
+    all_paths = embeddings["paths"].tolist()
+    keep = [index for index, path in enumerate(all_paths) if path in scores]
+    if not keep:
+        raise SystemExit("no embedding paths have scores")
+
+    paths = [all_paths[index] for index in keep]
     latitudes = embeddings["latitudes"].astype(np.float32)[:, None] / 90.0
     longitudes = embeddings["longitudes"].astype(np.float32)[:, None] / 180.0
-    x = np.concatenate([embeddings["embeddings"].astype(np.float32), latitudes, longitudes], axis=1)
-
-    missing = [path for path in paths if path not in scores]
-    if missing:
-        raise SystemExit(f"missing scores for {len(missing)} paths, first: {missing[0]}")
+    x_all = np.concatenate([embeddings["embeddings"].astype(np.float32), latitudes, longitudes], axis=1)
+    x = x_all[keep]
 
     y = np.array(
         [[scores[path][dimension] / 10.0 for dimension in dimensions] for path in paths],

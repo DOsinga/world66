@@ -14,6 +14,7 @@ LOCATIONS_FILE = DATA_DIR / "all_locations.json"
 HIDDEN_FILE = DATA_DIR / "all_location_hidden_12.npz"
 SCORING_EXPLORER_OUT = PROJECT_DIR / "static" / "widgets" / "scoring-explorer.json"
 SCORE_COMPOSER_OUT = PROJECT_DIR / "static" / "widgets" / "score-composer.json"
+DIMENSIONS = ("heritage", "vibrancy", "nature", "leisure", "adventure")
 
 
 def load_json(path):
@@ -44,7 +45,8 @@ def main():
 
     scores = load_json(args.scores)
     all_locations = load_json(args.locations)
-    dimensions = list(next(iter(scores.values())))
+    first_scores = next(iter(scores.values()))
+    dimensions = [dimension for dimension in DIMENSIONS if dimension in first_scores]
 
     locations = []
     for location in all_locations:

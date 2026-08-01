@@ -1,0 +1,7 @@
+{
+  "count": 9164,
+  "dimensions": 3072,
+  "model": "text-embedding-3-large",
+  "output": "scoring/data/all_location_embeddings_large.npz",
+  "source": "scoring/data/all_locations.json"
+}

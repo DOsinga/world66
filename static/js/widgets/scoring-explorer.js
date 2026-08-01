@@ -18,15 +18,14 @@
     var embedCopy = root.querySelector('[data-score-embed-copy]');
     if (!svg || !list) return null;
 
-    var dims = ['heritage', 'vibrancy', 'nature', 'leisure', 'adventure'];
+    var dims = ['heritage', 'vibrancy', 'nature', 'adventure'];
     var labels = {
       heritage: 'Heritage',
       vibrancy: 'Vibrancy',
       nature: 'Nature',
-      leisure: 'Leisure',
       adventure: 'Adventure'
     };
-    var weights = { heritage: 1, vibrancy: 1, nature: 1, leisure: 1, adventure: 1 };
+    var weights = { heritage: 1, vibrancy: 1, nature: 1, adventure: 1 };
     var locations = [];
     var markerLayer = null;
     var hoverCard = null;

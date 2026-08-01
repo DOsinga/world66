@@ -31,7 +31,7 @@ CONTINENTS = {
     "southamerica",
 }
 SCORABLE_LOC_TYPES = {"city", "feature", "island"}
-DIMENSIONS = ("heritage", "vibrancy", "nature", "leisure", "adventure")
+DIMENSIONS = ("heritage", "vibrancy", "nature", "adventure")
 
 
 def content_path_for(md_file):
@@ -158,17 +158,17 @@ def cmd_export_locations(args):
 
 def cmd_batches(args):
     sample = json.loads(args.sample.read_text())
-    BATCH_DIR.mkdir(parents=True, exist_ok=True)
-    for old_batch in BATCH_DIR.glob("batch_*.json"):
+    args.out_dir.mkdir(parents=True, exist_ok=True)
+    for old_batch in args.out_dir.glob("batch_*.json"):
         old_batch.unlink()
 
     count = 0
     for i in range(0, len(sample), args.size):
         batch = sample[i : i + args.size]
-        write_json(BATCH_DIR / f"batch_{count:03d}.json", batch)
+        write_json(args.out_dir / f"batch_{count:03d}.json", batch)
         count += 1
 
-    print(f"Wrote {count} batches to {BATCH_DIR.relative_to(PROJECT_DIR)}")
+    print(f"Wrote {count} batches to {args.out_dir.resolve().relative_to(PROJECT_DIR)}")
 
 
 def cmd_rescore_batches(args):
@@ -223,11 +223,11 @@ def clean_scores(path, scores):
 
 def cmd_merge(args):
     merged = {}
-    if SCORED_FILE.exists() and not args.fresh:
-        merged = json.loads(SCORED_FILE.read_text())
+    if args.out.exists() and not args.fresh:
+        merged = json.loads(args.out.read_text())
 
-    AGENT_SCORE_DIR.mkdir(parents=True, exist_ok=True)
-    for score_file in sorted(AGENT_SCORE_DIR.glob("batch_*.json")):
+    args.scores_dir.mkdir(parents=True, exist_ok=True)
+    for score_file in sorted(args.scores_dir.glob("batch_*.json")):
         scores = clean_scores(score_file, load_agent_scores(score_file))
         overlap = sorted(set(merged) & set(scores))
         if overlap and not args.replace:
@@ -235,13 +235,13 @@ def cmd_merge(args):
             raise ValueError(f"{score_file} overlaps existing scores: {joined}")
         merged.update(scores)
 
-    write_json(SCORED_FILE, dict(sorted(merged.items())))
-    print(f"Wrote {len(merged)} scored locations to {SCORED_FILE.relative_to(PROJECT_DIR)}")
+    write_json(args.out, dict(sorted(merged.items())))
+    print(f"Wrote {len(merged)} scored locations to {args.out.resolve().relative_to(PROJECT_DIR)}")
 
 
 def cmd_validate(args):
     sample = {item["path"] for item in json.loads(args.sample.read_text())}
-    scored = clean_scores(SCORED_FILE, json.loads(SCORED_FILE.read_text()))
+    scored = clean_scores(args.scored, json.loads(args.scored.read_text()))
     unknown = sorted(set(scored) - sample)
     if unknown:
         raise ValueError(f"scored.json contains paths outside sample: {', '.join(unknown[:5])}")
@@ -322,6 +322,7 @@ def main():
     batches = sub.add_parser("batches")
     batches.add_argument("--sample", type=Path, default=SAMPLE_FILE)
     batches.add_argument("--size", type=int, default=50)
+    batches.add_argument("--out-dir", type=Path, default=BATCH_DIR)
     batches.set_defaults(func=cmd_batches)
 
     rescore_batches = sub.add_parser("rescore-batches")
@@ -334,10 +335,13 @@ def main():
     merge = sub.add_parser("merge")
     merge.add_argument("--fresh", action="store_true")
     merge.add_argument("--replace", action="store_true")
+    merge.add_argument("--scores-dir", type=Path, default=AGENT_SCORE_DIR)
+    merge.add_argument("--out", type=Path, default=SCORED_FILE)
     merge.set_defaults(func=cmd_merge)
 
     validate = sub.add_parser("validate")
     validate.add_argument("--sample", type=Path, default=SAMPLE_FILE)
+    validate.add_argument("--scored", type=Path, default=SCORED_FILE)
     validate.set_defaults(func=cmd_validate)
 
     compare = sub.add_parser("compare")

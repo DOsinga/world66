@@ -15,7 +15,7 @@ DATA_DIR = PROJECT_DIR / "scoring" / "data"
 BATCH_DIR = DATA_DIR / "batches"
 SCORE_DIR = DATA_DIR / "agent_scores"
 SCORING_DOC = PROJECT_DIR / "scoring" / "SCORING.md"
-DIMENSIONS = ("heritage", "vibrancy", "nature", "leisure", "adventure")
+DIMENSIONS = ("heritage", "vibrancy", "nature", "adventure")
 
 
 def scoring_guidelines():
@@ -84,7 +84,7 @@ def score_batch(client, model, batch):
         "instructions": scoring_guidelines(),
         "output_format": {
             "type": "object",
-            "description": "JSON object keyed by location id as a string. Each value has integer scores for heritage, vibrancy, nature, leisure, adventure.",
+            "description": "JSON object keyed by location id as a string. Each value has integer scores for heritage, vibrancy, nature, adventure.",
         },
         "locations": compact_batch(batch),
     }

@@ -12,7 +12,7 @@ ANCHORS_FILE = DATA_DIR / "anchors.json"
 HIDDEN_FILE = DATA_DIR / "all_location_hidden_12.npz"
 MODEL_OUT = DATA_DIR / "anchor_score_regression.json"
 SCORES_OUT = DATA_DIR / "location_scores.json"
-DIMENSIONS = ("heritage", "vibrancy", "nature", "leisure", "adventure")
+DIMENSIONS = ("heritage", "vibrancy", "nature", "adventure")
 
 
 def fit_ridge(x, y, alpha):

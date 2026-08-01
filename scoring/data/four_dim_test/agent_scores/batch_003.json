@@ -1,0 +1,302 @@
+{
+  "africa/eritrea/senafe": {
+    "adventure": 7,
+    "heritage": 4,
+    "nature": 6,
+    "vibrancy": 2
+  },
+  "africa/kenya/thecoast/kilifi": {
+    "adventure": 3,
+    "heritage": 4,
+    "nature": 7,
+    "vibrancy": 5
+  },
+  "africa/mauritania/zouerate": {
+    "adventure": 8,
+    "heritage": 1,
+    "nature": 6,
+    "vibrancy": 1
+  },
+  "africa/tanzania/moshi": {
+    "adventure": 8,
+    "heritage": 3,
+    "nature": 8,
+    "vibrancy": 6
+  },
+  "asia/china/guizhou/chishui": {
+    "adventure": 5,
+    "heritage": 4,
+    "nature": 7,
+    "vibrancy": 3
+  },
+  "asia/china/tibet/ngari": {
+    "adventure": 10,
+    "heritage": 7,
+    "nature": 10,
+    "vibrancy": 1
+  },
+  "asia/india/maharashtra/bhandardhara": {
+    "adventure": 5,
+    "heritage": 2,
+    "nature": 7,
+    "vibrancy": 2
+  },
+  "asia/indonesia/bali/kuta": {
+    "adventure": 4,
+    "heritage": 3,
+    "nature": 7,
+    "vibrancy": 8
+  },
+  "asia/indonesia/irianjaya/asmat": {
+    "adventure": 9,
+    "heritage": 9,
+    "nature": 8,
+    "vibrancy": 6
+  },
+  "asia/japan/honshu/hagi": {
+    "adventure": 2,
+    "heritage": 8,
+    "nature": 4,
+    "vibrancy": 4
+  },
+  "asia/papuanewguinea/goroka": {
+    "adventure": 8,
+    "heritage": 8,
+    "nature": 6,
+    "vibrancy": 7
+  },
+  "asia/philippines/negrosisland/silay": {
+    "adventure": 2,
+    "heritage": 8,
+    "nature": 5,
+    "vibrancy": 6
+  },
+  "asia/saudiarabia/diriyah": {
+    "adventure": 3,
+    "heritage": 9,
+    "nature": 1,
+    "vibrancy": 5
+  },
+  "asia/srilanka/dambulla": {
+    "adventure": 3,
+    "heritage": 8,
+    "nature": 5,
+    "vibrancy": 4
+  },
+  "asia/turkey/edirne": {
+    "adventure": 2,
+    "heritage": 9,
+    "nature": 3,
+    "vibrancy": 6
+  },
+  "asia/unitedarabemirates/liwa": {
+    "adventure": 9,
+    "heritage": 5,
+    "nature": 9,
+    "vibrancy": 2
+  },
+  "australiaandpacific/antarctica/esperanza_base": {
+    "adventure": 10,
+    "heritage": 2,
+    "nature": 10,
+    "vibrancy": 1
+  },
+  "australiaandpacific/australia/queensland/charters_towers": {
+    "adventure": 5,
+    "heritage": 6,
+    "nature": 4,
+    "vibrancy": 4
+  },
+  "australiaandpacific/newzealand/mangawhaiheads": {
+    "adventure": 3,
+    "heritage": 4,
+    "nature": 7,
+    "vibrancy": 4
+  },
+  "australiaandpacific/newzealand/north_island/northland/rawene": {
+    "adventure": 4,
+    "heritage": 6,
+    "nature": 7,
+    "vibrancy": 3
+  },
+  "europe/belgium/mol": {
+    "adventure": 2,
+    "heritage": 3,
+    "nature": 5,
+    "vibrancy": 3
+  },
+  "europe/france/aquitaine/angouleme": {
+    "adventure": 2,
+    "heritage": 7,
+    "nature": 4,
+    "vibrancy": 6
+  },
+  "europe/germany/bavaria/schongau": {
+    "adventure": 2,
+    "heritage": 7,
+    "nature": 5,
+    "vibrancy": 4
+  },
+  "europe/greece/antiparos": {
+    "adventure": 3,
+    "heritage": 4,
+    "nature": 6,
+    "vibrancy": 5
+  },
+  "europe/hungary/godollo": {
+    "adventure": 1,
+    "heritage": 7,
+    "nature": 3,
+    "vibrancy": 4
+  },
+  "europe/italy/marche/loreto": {
+    "adventure": 2,
+    "heritage": 8,
+    "nature": 3,
+    "vibrancy": 5
+  },
+  "europe/italy/piemonte/asti": {
+    "adventure": 2,
+    "heritage": 7,
+    "nature": 6,
+    "vibrancy": 6
+  },
+  "europe/italy/valledaosta/courmayeur": {
+    "adventure": 9,
+    "heritage": 5,
+    "nature": 9,
+    "vibrancy": 6
+  },
+  "europe/poland/poznan": {
+    "adventure": 2,
+    "heritage": 7,
+    "nature": 3,
+    "vibrancy": 7
+  },
+  "europe/poland/warsaw": {
+    "adventure": 2,
+    "heritage": 8,
+    "nature": 5,
+    "vibrancy": 8
+  },
+  "europe/portugal/alandroal": {
+    "adventure": 2,
+    "heritage": 6,
+    "nature": 5,
+    "vibrancy": 2
+  },
+  "europe/romania/sfantu_gheorghe": {
+    "adventure": 3,
+    "heritage": 6,
+    "nature": 6,
+    "vibrancy": 5
+  },
+  "europe/romania/vama_veche": {
+    "adventure": 3,
+    "heritage": 2,
+    "nature": 5,
+    "vibrancy": 7
+  },
+  "europe/spain/balearicislands/mallorca/portocristo": {
+    "adventure": 3,
+    "heritage": 4,
+    "nature": 7,
+    "vibrancy": 6
+  },
+  "europe/spain/canaryislands/grancanaria/maspalomas/playa_del_ingles": {
+    "adventure": 2,
+    "heritage": 2,
+    "nature": 6,
+    "vibrancy": 8
+  },
+  "europe/sweden/norrkping": {
+    "adventure": 2,
+    "heritage": 6,
+    "nature": 4,
+    "vibrancy": 6
+  },
+  "europe/unitedkingdom/england/east_midlands/melton_mowbray": {
+    "adventure": 1,
+    "heritage": 5,
+    "nature": 3,
+    "vibrancy": 4
+  },
+  "europe/unitedkingdom/scotland/aberdeen": {
+    "adventure": 3,
+    "heritage": 6,
+    "nature": 6,
+    "vibrancy": 6
+  },
+  "europe/unitedkingdom/scotland/orkneys/kirkwall": {
+    "adventure": 4,
+    "heritage": 8,
+    "nature": 7,
+    "vibrancy": 5
+  },
+  "northamerica/canada/alberta/stony_plain": {
+    "adventure": 1,
+    "heritage": 3,
+    "nature": 4,
+    "vibrancy": 2
+  },
+  "northamerica/canada/ontario/uxbridge": {
+    "adventure": 2,
+    "heritage": 4,
+    "nature": 5,
+    "vibrancy": 3
+  },
+  "northamerica/mexico/reynosa": {
+    "adventure": 1,
+    "heritage": 1,
+    "nature": 1,
+    "vibrancy": 2
+  },
+  "northamerica/unitedstates/california/hermosabeach": {
+    "adventure": 4,
+    "heritage": 2,
+    "nature": 6,
+    "vibrancy": 7
+  },
+  "northamerica/unitedstates/california/orangecounty/lagunabeach": {
+    "adventure": 3,
+    "heritage": 3,
+    "nature": 7,
+    "vibrancy": 7
+  },
+  "northamerica/unitedstates/indiana/corydon": {
+    "adventure": 1,
+    "heritage": 5,
+    "nature": 4,
+    "vibrancy": 3
+  },
+  "northamerica/unitedstates/michigan/detroit": {
+    "adventure": 3,
+    "heritage": 8,
+    "nature": 4,
+    "vibrancy": 7
+  },
+  "northamerica/unitedstates/minnesota/moorhead": {
+    "adventure": 1,
+    "heritage": 2,
+    "nature": 3,
+    "vibrancy": 3
+  },
+  "northamerica/unitedstates/missouri/branson": {
+    "adventure": 2,
+    "heritage": 2,
+    "nature": 5,
+    "vibrancy": 7
+  },
+  "northamerica/unitedstates/montana/littlebighorn": {
+    "adventure": 3,
+    "heritage": 7,
+    "nature": 5,
+    "vibrancy": 2
+  },
+  "northamerica/unitedstates/vermont/montpelier": {
+    "adventure": 2,
+    "heritage": 5,
+    "nature": 6,
+    "vibrancy": 5
+  }
+}

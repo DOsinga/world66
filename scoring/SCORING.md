@@ -44,9 +44,9 @@ High leisure scores mean cultivated pleasure: taste, beauty, style, indulgence, 
 
 High adventure scores mean edge, discovery, and commitment. The score should reflect how much a trip asks from the visitor: nerve, effort, uncertainty, difficult logistics, perceived danger, unfamiliar systems, remoteness, or physical challenge. The highest scores go to places where the ordinary journey feels bold and story-worthy.
 
-### Calibration Anchors
+### Calibration Examples
 
-Use these anchors to keep the dimensions separate:
+Use these examples to keep the dimensions separate while labeling. They are prompt references, not training data for the anchor regression.
 
 | Destination | Heritage | Vibrancy | Nature | Leisure | Adventure |
 |---|---:|---:|---:|---:|---:|
@@ -198,7 +198,7 @@ python3 scoring/predict_locations.py \
 
 `latent_label_scores.json` is not the public score output. It is the five-label model output used to train and inspect the latent space.
 
-### 6. Seed and edit anchors
+### 6. Seed and edit regression anchors
 
 Seed `scoring/data/anchors.json` from important steering places:
 
@@ -206,7 +206,7 @@ Seed `scoring/data/anchors.json` from important steering places:
 python3 scoring/seed_anchors.py
 ```
 
-The seed values are only a starting point. Humans edit `anchors.json` directly over the five public dimensions:
+The seed values are only a starting point. Humans edit `anchors.json` directly over the five public dimensions. These are the actual hand-tuned anchors used by `train_anchor_regression.py`:
 
 ```json
 {

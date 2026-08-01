@@ -85,6 +85,14 @@ def set_seed(seed):
     torch.manual_seed(seed)
 
 
+def display_path(path):
+    resolved = path.resolve()
+    try:
+        return resolved.relative_to(PROJECT_DIR)
+    except ValueError:
+        return resolved
+
+
 def score_dimensions(scores):
     first_scores = next(iter(scores.values()))
     if all(dimension in first_scores for dimension in DIMENSIONS):
@@ -333,7 +341,7 @@ def main():
     metrics_name = "latent_model_metrics.json" if args.train_all else "metrics.json"
     metrics_path = (args.out_dir / metrics_name).resolve()
     metrics_path.write_text(json.dumps(all_metrics, indent=2, sort_keys=True) + "\n")
-    print(f"Wrote metrics to {metrics_path.relative_to(PROJECT_DIR)}")
+    print(f"Wrote metrics to {display_path(metrics_path)}")
 
 
 if __name__ == "__main__":

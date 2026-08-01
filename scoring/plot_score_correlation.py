@@ -13,6 +13,14 @@ OUT_FILE = DATA_DIR / "correlation_matrix.svg"
 DIMENSIONS = ("heritage", "vibrancy", "nature", "adventure")
 
 
+def display_path(path):
+    resolved = path.resolve()
+    try:
+        return resolved.relative_to(PROJECT_DIR)
+    except ValueError:
+        return resolved
+
+
 def color(value):
     value = max(-1.0, min(1.0, float(value)))
     if value < 0:
@@ -78,7 +86,7 @@ def main():
 
     args.out.parent.mkdir(parents=True, exist_ok=True)
     write_svg(args.out, dimensions, corr)
-    print(f"Wrote {args.out.resolve().relative_to(PROJECT_DIR)}")
+    print(f"Wrote {display_path(args.out)}")
     print(json.dumps({dimension: corr[index].round(3).tolist() for index, dimension in enumerate(dimensions)}, indent=2))
 
 

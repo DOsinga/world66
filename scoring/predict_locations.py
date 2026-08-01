@@ -18,6 +18,14 @@ OUT_FILE = DATA_DIR / "latent_label_scores.json"
 HIDDEN_OUT = DATA_DIR / "all_location_hidden_12.npz"
 
 
+def display_path(path):
+    resolved = path.resolve()
+    try:
+        return resolved.relative_to(PROJECT_DIR)
+    except ValueError:
+        return resolved
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--embeddings", type=Path, default=EMBEDDINGS_FILE)
@@ -59,8 +67,8 @@ def main():
     args.out.parent.mkdir(parents=True, exist_ok=True)
     args.out.write_text(json.dumps(output, indent=2, sort_keys=True) + "\n")
     np.savez_compressed(args.hidden_out, paths=np.array(paths, dtype=object), hidden=hidden)
-    print(f"Wrote {len(paths)} predictions to {args.out.resolve().relative_to(PROJECT_DIR)}")
-    print(f"Wrote hidden vectors to {args.hidden_out.resolve().relative_to(PROJECT_DIR)}")
+    print(f"Wrote {len(paths)} predictions to {display_path(args.out)}")
+    print(f"Wrote hidden vectors to {display_path(args.hidden_out)}")
 
 
 if __name__ == "__main__":

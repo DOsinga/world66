@@ -168,7 +168,7 @@ def cmd_batches(args):
         write_json(args.out_dir / f"batch_{count:03d}.json", batch)
         count += 1
 
-    print(f"Wrote {count} batches to {args.out_dir.resolve().relative_to(PROJECT_DIR)}")
+    print(f"Wrote {count} batches to {display_path(args.out_dir)}")
 
 
 def cmd_rescore_batches(args):

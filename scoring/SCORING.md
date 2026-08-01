@@ -25,11 +25,11 @@ Keep the scores separate. The same destination can be high on several dimensions
 
 ### Heritage
 
-High heritage scores mean visible historic depth. The score should reflect old built fabric, ruins, monuments, museums, architecture, long traditions, and layered human memory that a traveler can actually experience. Places that remind you of past glory.
+High heritage scores mean visible historic depth, places that remind one of a past glory. The score should reflect old built fabric, ruins, monuments, museums, architecture, long traditions, and layered human memory that a traveler can actually experience.
 
 ### Vibrancy
 
-High vibrancy scores mean contemporary human energy. The score should reflect street life, food scenes, markets, nightlife, neighborhoods, creative life, density, movement, and surprise. But also access to the finer things in life, dining, art galleries.
+High vibrancy scores mean exciting places to be because of human acitivity. A mere busy city isn't enough. The score should reflect street life, food scenes, markets, nightlife, neighborhoods, creative life, density, movement, and surprise. But also access to the finer things in life, dining, art galleries.
 
 ### Nature
 
@@ -38,6 +38,9 @@ High nature scores mean the non-human world is a main reason to go. Score the st
 ### Adventure
 
 High adventure scores mean the journey takes guts. Score what the trip asks from the traveler: nerve, effort, uncertainty, hard logistics, perceived danger, unfamiliar systems, physical challenge, commitment, and crossing into less managed territory. The score comes from the mode of travel and the edge of the experience, not from scenery alone. The highest scores go to places where a normal visit feels bold, exploratory, exposed, and story-worthy. Off the beaten track without the physical remoteness necesarily being the key driver.
+
+### Further instructions
+Read these scoring rubricks and reflect on how they express different dimensions for a traveller; Heritage is not Vibrancy, Nature is not Adventure even if they are sometimes found together in the same place.
 
 ## Files
 

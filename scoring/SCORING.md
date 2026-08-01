@@ -78,27 +78,12 @@ scoring/
   old_score_regression.py
 
   data/
-    sample_2000.json
-    scored_2000.json
-    location_embeddings_large.npz
-    location_embeddings_large_meta.json
-    all_location_embeddings_large.npz
-    all_location_embeddings_large_meta.json
-    all_locations.json
     anchors.json
-    latent_label_scores.json
-    all_location_hidden_12.npz
-    latent_model.pt
-    latent_model_metrics.json
-    anchor_score_regression.json
-    location_scores.json
-    batches/
-    scores/
 ```
 
-Scripts live directly in `scoring/`. Data, model artifacts, and human-edited anchors live in `scoring/data/`. We can regenerate most of this, but finished run artifacts stay in git because the anchor layer is hand-tuned and we want reproducible scoring.
+Scripts live directly in `scoring/`. Human-edited anchors live in `scoring/data/anchors.json`.
 
-`location_scores.json` is the final public score output. `anchor_score_regression.json` is the model that produces it.
+Generated files also go in `scoring/data/`, but old runs should not be kept around once the scoring definitions change. After a complete five-score rerun, commit the finished artifacts needed to reproduce the current production scores.
 
 ## Pipeline
 

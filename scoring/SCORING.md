@@ -33,11 +33,11 @@ High vibrancy scores mean contemporary human energy. The score should reflect st
 
 ### Nature
 
-High nature scores mean the non-human world is a main reason to go. Animal life, plants, ecosystems, landforms, water, sky, scale, rarity, and beauty can all carry the score. The highest scores go to places where nature feels vivid, alive, abundant, strange, grand, or deeply restorative.
+High nature scores mean the non-human world is a main reason to go. Score the strength of the natural payoff: animal life, green life, ecological richness, beauty, scale, rarity, and the feeling of being in a place shaped by forces larger than people. A destination can score very high when nature is vivid, abundant, beautiful, strange, gentle, grand, or restorative, even when the visit is easy and well managed.
 
 ### Adventure
 
-High adventure scores mean the journey takes guts. The score should reflect nerve, effort, uncertainty, hard logistics, remoteness, perceived danger, unfamiliar systems, physical challenge, commitment, and the feeling that the traveler is crossing into less managed territory. The highest scores go to places where the ordinary journey feels bold, edgy, exploratory, and story-worthy.
+High adventure scores mean the journey takes guts. Score what the trip asks from the traveler: nerve, effort, uncertainty, hard logistics, perceived danger, unfamiliar systems, physical challenge, commitment, and crossing into less managed territory. The score comes from the mode of travel and the edge of the experience, not from scenery alone. The highest scores go to places where a normal visit feels bold, exploratory, exposed, and story-worthy.
 
 ## Files
 

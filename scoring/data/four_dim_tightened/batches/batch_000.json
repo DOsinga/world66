@@ -1,0 +1,785 @@
+[
+  {
+    "embedding_text": "Cederberg Wilderness Area, South Africa, Africa",
+    "lat": -32.365037,
+    "latitude": -32.365037,
+    "lng": 19.112816,
+    "longitude": 19.112816,
+    "name": "Cederberg Wilderness Area",
+    "parent": "Africa, South Africa",
+    "parent_chain": [
+      "Africa",
+      "South Africa"
+    ],
+    "path": "africa/southafrica/cederberg_wilderness_area",
+    "url": "/africa/southafrica/cederberg_wilderness_area/"
+  },
+  {
+    "embedding_text": "Kushinagar, Uttar Pradesh, India, Asia",
+    "lat": 26.741,
+    "latitude": 26.741,
+    "lng": 83.888,
+    "longitude": 83.888,
+    "name": "Kushinagar",
+    "parent": "Asia, India, Uttar Pradesh",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Uttar Pradesh"
+    ],
+    "path": "asia/india/uttarpradesh/kushinagar",
+    "url": "/asia/india/uttarpradesh/kushinagar/"
+  },
+  {
+    "embedding_text": "Xanthos, Turkey, Asia",
+    "lat": 36.3559,
+    "latitude": 36.3559,
+    "lng": 29.3188,
+    "longitude": 29.3188,
+    "name": "Xanthos",
+    "parent": "Asia, Turkey",
+    "parent_chain": [
+      "Asia",
+      "Turkey"
+    ],
+    "path": "asia/turkey/xanthos",
+    "url": "/asia/turkey/xanthos/"
+  },
+  {
+    "embedding_text": "Dezhou, Shandong Province, China, Asia",
+    "lat": 37.451,
+    "latitude": 37.451,
+    "lng": 116.31,
+    "longitude": 116.31,
+    "name": "Dezhou",
+    "parent": "Asia, China, Shandong Province",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Shandong Province"
+    ],
+    "path": "asia/china/shandong_province/dezhou",
+    "url": "/asia/china/shandong_province/dezhou/"
+  },
+  {
+    "embedding_text": "Postojna Caves, Slovenia, Europe",
+    "lat": 45.7828,
+    "latitude": 45.7828,
+    "lng": 14.2043,
+    "longitude": 14.2043,
+    "name": "Postojna Caves",
+    "parent": "Europe, Slovenia",
+    "parent_chain": [
+      "Europe",
+      "Slovenia"
+    ],
+    "path": "europe/slovenia/postojnacaves",
+    "url": "/europe/slovenia/postojnacaves/"
+  },
+  {
+    "embedding_text": "Sejny, Poland, Europe",
+    "lat": 54.1,
+    "latitude": 54.1,
+    "lng": 23.35,
+    "longitude": 23.35,
+    "name": "Sejny",
+    "parent": "Europe, Poland",
+    "parent_chain": [
+      "Europe",
+      "Poland"
+    ],
+    "path": "europe/poland/sejny",
+    "url": "/europe/poland/sejny/"
+  },
+  {
+    "embedding_text": "San Andr\u00e9s, San Andr\u00e9s and Providencia, Colombia, South America",
+    "lat": 12.58301,
+    "latitude": 12.58301,
+    "lng": -81.697568,
+    "longitude": -81.697568,
+    "name": "San Andr\u00e9s",
+    "parent": "South America, Colombia, San Andr\u00e9s and Providencia",
+    "parent_chain": [
+      "South America",
+      "Colombia",
+      "San Andr\u00e9s and Providencia"
+    ],
+    "path": "southamerica/colombia/sanandresandprovidencia/sanandres",
+    "url": "/southamerica/colombia/sanandresandprovidencia/sanandres/"
+  },
+  {
+    "embedding_text": "Thunder Bay, Ontario, Canada, North America",
+    "lat": 48.382,
+    "latitude": 48.382,
+    "lng": -89.2502,
+    "longitude": -89.2502,
+    "name": "Thunder Bay",
+    "parent": "North America, Canada, Ontario",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "Ontario"
+    ],
+    "path": "northamerica/canada/ontario/thunder_bay",
+    "url": "/northamerica/canada/ontario/thunder_bay/"
+  },
+  {
+    "embedding_text": "Susanville, Shasta Cascade, California, United States, North America",
+    "lat": 40.416284,
+    "latitude": 40.416284,
+    "lng": -120.653006,
+    "longitude": -120.653006,
+    "name": "Susanville",
+    "parent": "North America, United States, California, Shasta Cascade",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "California",
+      "Shasta Cascade"
+    ],
+    "path": "northamerica/unitedstates/california/shastacascade/susanville",
+    "url": "/northamerica/unitedstates/california/shastacascade/susanville/"
+  },
+  {
+    "embedding_text": "Santiago Atitlan, Lake Atitl\u00e1n, Guatemala, North America",
+    "lat": 14.6434,
+    "latitude": 14.6434,
+    "lng": -91.2268,
+    "longitude": -91.2268,
+    "name": "Santiago Atitlan",
+    "parent": "North America, Guatemala, Lake Atitl\u00e1n",
+    "parent_chain": [
+      "North America",
+      "Guatemala",
+      "Lake Atitl\u00e1n"
+    ],
+    "path": "northamerica/guatemala/lakeatitlan/santiago_atitlan",
+    "url": "/northamerica/guatemala/lakeatitlan/santiago_atitlan/"
+  },
+  {
+    "embedding_text": "Zamora de Hidalgo, Michoac\u00e1n, Mexico, North America",
+    "lat": 19.985,
+    "latitude": 19.985,
+    "lng": -102.283,
+    "longitude": -102.283,
+    "name": "Zamora de Hidalgo",
+    "parent": "North America, Mexico, Michoac\u00e1n",
+    "parent_chain": [
+      "North America",
+      "Mexico",
+      "Michoac\u00e1n"
+    ],
+    "path": "northamerica/mexico/michoacan/zamora_de_hidalgo",
+    "url": "/northamerica/mexico/michoacan/zamora_de_hidalgo/"
+  },
+  {
+    "embedding_text": "Arlington, Texas, United States, North America",
+    "lat": 32.7356,
+    "latitude": 32.7356,
+    "lng": -97.1071,
+    "longitude": -97.1071,
+    "name": "Arlington",
+    "parent": "North America, United States, Texas",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Texas"
+    ],
+    "path": "northamerica/unitedstates/texas/arlington",
+    "url": "/northamerica/unitedstates/texas/arlington/"
+  },
+  {
+    "embedding_text": "Eidfjord, Norway, Europe",
+    "lat": 60.4675,
+    "latitude": 60.4675,
+    "lng": 7.0719,
+    "longitude": 7.0719,
+    "name": "Eidfjord",
+    "parent": "Europe, Norway",
+    "parent_chain": [
+      "Europe",
+      "Norway"
+    ],
+    "path": "europe/norway/eidfjord",
+    "url": "/europe/norway/eidfjord/"
+  },
+  {
+    "embedding_text": "Honda, Colombia, South America",
+    "lat": 5.210419,
+    "latitude": 5.210419,
+    "lng": -74.736192,
+    "longitude": -74.736192,
+    "name": "Honda",
+    "parent": "South America, Colombia",
+    "parent_chain": [
+      "South America",
+      "Colombia"
+    ],
+    "path": "southamerica/colombia/honda",
+    "url": "/southamerica/colombia/honda/"
+  },
+  {
+    "embedding_text": "San Jose del Cabo, Mexico, North America",
+    "lat": 23.059836,
+    "latitude": 23.059836,
+    "lng": -109.702515,
+    "longitude": -109.702515,
+    "name": "San Jose del Cabo",
+    "parent": "North America, Mexico",
+    "parent_chain": [
+      "North America",
+      "Mexico"
+    ],
+    "path": "northamerica/mexico/sanjosedelcabo",
+    "url": "/northamerica/mexico/sanjosedelcabo/"
+  },
+  {
+    "embedding_text": "Iba, Philippines, Asia",
+    "lat": 15.326461,
+    "latitude": 15.326461,
+    "lng": 119.980104,
+    "longitude": 119.980104,
+    "name": "Iba",
+    "parent": "Asia, Philippines",
+    "parent_chain": [
+      "Asia",
+      "Philippines"
+    ],
+    "path": "asia/philippines/iba",
+    "url": "/asia/philippines/iba/"
+  },
+  {
+    "embedding_text": "Kincardine, Ontario, Canada, North America",
+    "lat": 44.1774,
+    "latitude": 44.1774,
+    "lng": -81.6345,
+    "longitude": -81.6345,
+    "name": "Kincardine",
+    "parent": "North America, Canada, Ontario",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "Ontario"
+    ],
+    "path": "northamerica/canada/ontario/kincardine",
+    "url": "/northamerica/canada/ontario/kincardine/"
+  },
+  {
+    "embedding_text": "Pitlochry, Scotland, United Kingdom, Europe",
+    "lat": 56.701969,
+    "latitude": 56.701969,
+    "lng": -3.730685,
+    "longitude": -3.730685,
+    "name": "Pitlochry",
+    "parent": "Europe, United Kingdom, Scotland",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "Scotland"
+    ],
+    "path": "europe/unitedkingdom/scotland/pitlochry",
+    "url": "/europe/unitedkingdom/scotland/pitlochry/"
+  },
+  {
+    "embedding_text": "Xingcheng, Liaoning Province, China, Asia",
+    "lat": 40.6148,
+    "latitude": 40.6148,
+    "lng": 120.7283,
+    "longitude": 120.7283,
+    "name": "Xingcheng",
+    "parent": "Asia, China, Liaoning Province",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Liaoning Province"
+    ],
+    "path": "asia/china/liaoning/xingcheng",
+    "url": "/asia/china/liaoning/xingcheng/"
+  },
+  {
+    "embedding_text": "Sudbury, Ontario, Canada, North America",
+    "lat": 46.49272,
+    "latitude": 46.49272,
+    "lng": -80.991211,
+    "longitude": -80.991211,
+    "name": "Sudbury",
+    "parent": "North America, Canada, Ontario",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "Ontario"
+    ],
+    "path": "northamerica/canada/ontario/sudbury",
+    "url": "/northamerica/canada/ontario/sudbury/"
+  },
+  {
+    "embedding_text": "Parma, Emilia-Romagna, Italy, Europe",
+    "lat": 44.8015,
+    "latitude": 44.8015,
+    "lng": 10.3279,
+    "longitude": 10.3279,
+    "name": "Parma",
+    "parent": "Europe, Italy, Emilia-Romagna",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Emilia-Romagna"
+    ],
+    "path": "europe/italy/emiliaromagna/parma",
+    "url": "/europe/italy/emiliaromagna/parma/"
+  },
+  {
+    "embedding_text": "Yanbu, Saudi Arabia, Asia",
+    "lat": 24.089019,
+    "latitude": 24.089019,
+    "lng": 38.068708,
+    "longitude": 38.068708,
+    "name": "Yanbu",
+    "parent": "Asia, Saudi Arabia",
+    "parent_chain": [
+      "Asia",
+      "Saudi Arabia"
+    ],
+    "path": "asia/saudiarabia/yanbu",
+    "url": "/asia/saudiarabia/yanbu/"
+  },
+  {
+    "embedding_text": "Otaki, New Zealand, Australia, Pacific & Antarctica",
+    "lat": -40.758537,
+    "latitude": -40.758537,
+    "lng": 175.147015,
+    "longitude": 175.147015,
+    "name": "Otaki",
+    "parent": "Australia, Pacific & Antarctica, New Zealand",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "New Zealand"
+    ],
+    "path": "australiaandpacific/newzealand/otaki",
+    "url": "/australiaandpacific/newzealand/otaki/"
+  },
+  {
+    "embedding_text": "Ormoc City, Leyte island, Philippines, Asia",
+    "lat": 11.009,
+    "latitude": 11.009,
+    "lng": 124.6094,
+    "longitude": 124.6094,
+    "name": "Ormoc City",
+    "parent": "Asia, Philippines, Leyte island",
+    "parent_chain": [
+      "Asia",
+      "Philippines",
+      "Leyte island"
+    ],
+    "path": "asia/philippines/leyteisland/ormoc_city",
+    "url": "/asia/philippines/leyteisland/ormoc_city/"
+  },
+  {
+    "embedding_text": "Tytuv\u0117nai, Lithuania, Europe",
+    "lat": 55.6,
+    "latitude": 55.6,
+    "lng": 23.2,
+    "longitude": 23.2,
+    "name": "Tytuv\u0117nai",
+    "parent": "Europe, Lithuania",
+    "parent_chain": [
+      "Europe",
+      "Lithuania"
+    ],
+    "path": "europe/lithuania/tytuvenai",
+    "url": "/europe/lithuania/tytuvenai/"
+  },
+  {
+    "embedding_text": "Sint-Niklaas, Belgium, Europe",
+    "lat": 51.164668,
+    "latitude": 51.164668,
+    "lng": 4.139512,
+    "longitude": 4.139512,
+    "name": "Sint-Niklaas",
+    "parent": "Europe, Belgium",
+    "parent_chain": [
+      "Europe",
+      "Belgium"
+    ],
+    "path": "europe/belgium/sintniklaas",
+    "url": "/europe/belgium/sintniklaas/"
+  },
+  {
+    "embedding_text": "Sackets Harbor, New York State, United States, North America",
+    "lat": 43.945,
+    "latitude": 43.945,
+    "lng": -76.12,
+    "longitude": -76.12,
+    "name": "Sackets Harbor",
+    "parent": "North America, United States, New York State",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "New York State"
+    ],
+    "path": "northamerica/unitedstates/newyorkstate/sackets_harbor",
+    "url": "/northamerica/unitedstates/newyorkstate/sackets_harbor/"
+  },
+  {
+    "embedding_text": "Ordubad, Nakhchivan, Azerbaijan, Europe",
+    "lat": 39.076,
+    "latitude": 39.076,
+    "lng": 45.9228,
+    "longitude": 45.9228,
+    "name": "Ordubad",
+    "parent": "Europe, Azerbaijan, Nakhchivan",
+    "parent_chain": [
+      "Europe",
+      "Azerbaijan",
+      "Nakhchivan"
+    ],
+    "path": "europe/azerbaijan/naxcivan/ordubad",
+    "url": "/europe/azerbaijan/naxcivan/ordubad/"
+  },
+  {
+    "embedding_text": "Gili Trawangan, Gili Islands, Lombok, Indonesia, Asia",
+    "lat": -8.3485,
+    "latitude": -8.3485,
+    "lng": 116.0425,
+    "longitude": 116.0425,
+    "name": "Gili Trawangan",
+    "parent": "Asia, Indonesia, Lombok, Gili Islands",
+    "parent_chain": [
+      "Asia",
+      "Indonesia",
+      "Lombok",
+      "Gili Islands"
+    ],
+    "path": "asia/indonesia/lombok/giliislands/gili_trawangan",
+    "url": "/asia/indonesia/lombok/giliislands/gili_trawangan/"
+  },
+  {
+    "embedding_text": "Labuan Bajo, Flores, Indonesia, Asia",
+    "lat": -8.5,
+    "latitude": -8.5,
+    "lng": 119.883333,
+    "longitude": 119.883333,
+    "name": "Labuan Bajo",
+    "parent": "Asia, Indonesia, Flores",
+    "parent_chain": [
+      "Asia",
+      "Indonesia",
+      "Flores"
+    ],
+    "path": "asia/indonesia/flores/labuan_bajo",
+    "url": "/asia/indonesia/flores/labuan_bajo/"
+  },
+  {
+    "embedding_text": "Enniskillen, Northern Ireland, United Kingdom, Europe",
+    "lat": 54.34,
+    "latitude": 54.34,
+    "lng": -7.63,
+    "longitude": -7.63,
+    "name": "Enniskillen",
+    "parent": "Europe, United Kingdom, Northern Ireland",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "Northern Ireland"
+    ],
+    "path": "europe/unitedkingdom/northernireland/enniskillen",
+    "url": "/europe/unitedkingdom/northernireland/enniskillen/"
+  },
+  {
+    "embedding_text": "Ledu, Qinghai Province, China, Asia",
+    "lat": 36.4796,
+    "latitude": 36.4796,
+    "lng": 102.3991,
+    "longitude": 102.3991,
+    "name": "Ledu",
+    "parent": "Asia, China, Qinghai Province",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Qinghai Province"
+    ],
+    "path": "asia/china/qinghai/ledu",
+    "url": "/asia/china/qinghai/ledu/"
+  },
+  {
+    "embedding_text": "Dresden, Saxony, Germany, Europe",
+    "lat": 51.049329,
+    "latitude": 51.049329,
+    "lng": 13.738144,
+    "longitude": 13.738144,
+    "name": "Dresden",
+    "parent": "Europe, Germany, Saxony",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Saxony"
+    ],
+    "path": "europe/germany/saxony/dresden",
+    "url": "/europe/germany/saxony/dresden/"
+  },
+  {
+    "embedding_text": "Loughborough, East Midlands, England, United Kingdom, Europe",
+    "lat": 52.772386,
+    "latitude": 52.772386,
+    "lng": -1.207798,
+    "longitude": -1.207798,
+    "name": "Loughborough",
+    "parent": "Europe, United Kingdom, England, East Midlands",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "East Midlands"
+    ],
+    "path": "europe/unitedkingdom/england/east_midlands/loughborough",
+    "url": "/europe/unitedkingdom/england/east_midlands/loughborough/"
+  },
+  {
+    "embedding_text": "Dar es Salaam, Tanzania, Africa",
+    "lat": -6.7924,
+    "latitude": -6.7924,
+    "lng": 39.2083,
+    "longitude": 39.2083,
+    "name": "Dar es Salaam",
+    "parent": "Africa, Tanzania",
+    "parent_chain": [
+      "Africa",
+      "Tanzania"
+    ],
+    "path": "africa/tanzania/daressalaam",
+    "url": "/africa/tanzania/daressalaam/"
+  },
+  {
+    "embedding_text": "Wuyuan, Jiangxi, China, Asia",
+    "lat": 29.248026,
+    "latitude": 29.248026,
+    "lng": 117.861824,
+    "longitude": 117.861824,
+    "name": "Wuyuan",
+    "parent": "Asia, China, Jiangxi",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Jiangxi"
+    ],
+    "path": "asia/china/jiangxi/wuyuan",
+    "url": "/asia/china/jiangxi/wuyuan/"
+  },
+  {
+    "embedding_text": "Salem, Tamil Nadu, India, Asia",
+    "lat": 11.646962,
+    "latitude": 11.646962,
+    "lng": 78.210696,
+    "longitude": 78.210696,
+    "name": "Salem",
+    "parent": "Asia, India, Tamil Nadu",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Tamil Nadu"
+    ],
+    "path": "asia/india/tamilnadu/salem",
+    "url": "/asia/india/tamilnadu/salem/"
+  },
+  {
+    "embedding_text": "Vrboska, Croatia, Europe",
+    "lat": 43.181718,
+    "latitude": 43.181718,
+    "lng": 16.671232,
+    "longitude": 16.671232,
+    "name": "Vrboska",
+    "parent": "Europe, Croatia",
+    "parent_chain": [
+      "Europe",
+      "Croatia"
+    ],
+    "path": "europe/croatia/vrboska",
+    "url": "/europe/croatia/vrboska/"
+  },
+  {
+    "embedding_text": "Windhoek, Namibia, Africa",
+    "lat": -22.57761,
+    "latitude": -22.57761,
+    "lng": 17.077274,
+    "longitude": 17.077274,
+    "name": "Windhoek",
+    "parent": "Africa, Namibia",
+    "parent_chain": [
+      "Africa",
+      "Namibia"
+    ],
+    "path": "africa/namibia/windhoek",
+    "url": "/africa/namibia/windhoek/"
+  },
+  {
+    "embedding_text": "Hinunangan, Southern Leyte, Philippines, Asia",
+    "lat": 10.39404,
+    "latitude": 10.39404,
+    "lng": 125.200194,
+    "longitude": 125.200194,
+    "name": "Hinunangan",
+    "parent": "Asia, Philippines, Southern Leyte",
+    "parent_chain": [
+      "Asia",
+      "Philippines",
+      "Southern Leyte"
+    ],
+    "path": "asia/philippines/southern_leyte/hinunangan",
+    "url": "/asia/philippines/southern_leyte/hinunangan/"
+  },
+  {
+    "embedding_text": "Sarpi, Georgia, Europe",
+    "lat": 41.521898,
+    "latitude": 41.521898,
+    "lng": 41.548918,
+    "longitude": 41.548918,
+    "name": "Sarpi",
+    "parent": "Europe, Georgia",
+    "parent_chain": [
+      "Europe",
+      "Georgia"
+    ],
+    "path": "europe/georgia/sarpi",
+    "url": "/europe/georgia/sarpi/"
+  },
+  {
+    "embedding_text": "Sarrebourg, Lorraine, France, Europe",
+    "lat": 48.7342,
+    "latitude": 48.7342,
+    "lng": 7.0557,
+    "longitude": 7.0557,
+    "name": "Sarrebourg",
+    "parent": "Europe, France, Lorraine",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Lorraine"
+    ],
+    "path": "europe/france/lorraine/sarrebourg",
+    "url": "/europe/france/lorraine/sarrebourg/"
+  },
+  {
+    "embedding_text": "Sz\u00e9kesfeh\u00e9rv\u00e1r, Hungary, Europe",
+    "lat": 47.191017,
+    "latitude": 47.191017,
+    "lng": 18.410811,
+    "longitude": 18.410811,
+    "name": "Sz\u00e9kesfeh\u00e9rv\u00e1r",
+    "parent": "Europe, Hungary",
+    "parent_chain": [
+      "Europe",
+      "Hungary"
+    ],
+    "path": "europe/hungary/szekesfehervar",
+    "url": "/europe/hungary/szekesfehervar/"
+  },
+  {
+    "embedding_text": "Yeosu, South Korea, Asia",
+    "lat": 34.7604,
+    "latitude": 34.7604,
+    "lng": 127.6622,
+    "longitude": 127.6622,
+    "name": "Yeosu",
+    "parent": "Asia, South Korea",
+    "parent_chain": [
+      "Asia",
+      "South Korea"
+    ],
+    "path": "asia/southkorea/yeosu",
+    "url": "/asia/southkorea/yeosu/"
+  },
+  {
+    "embedding_text": "Lebanon, Indiana, United States, North America",
+    "lat": 40.0484,
+    "latitude": 40.0484,
+    "lng": -86.4694,
+    "longitude": -86.4694,
+    "name": "Lebanon",
+    "parent": "North America, United States, Indiana",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Indiana"
+    ],
+    "path": "northamerica/unitedstates/indiana/lebanon",
+    "url": "/northamerica/unitedstates/indiana/lebanon/"
+  },
+  {
+    "embedding_text": "Kullu, Himachal Pradesh, India, Asia",
+    "lat": 31.957897,
+    "latitude": 31.957897,
+    "lng": 77.108923,
+    "longitude": 77.108923,
+    "name": "Kullu",
+    "parent": "Asia, India, Himachal Pradesh",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Himachal Pradesh"
+    ],
+    "path": "asia/india/himachalpradesh/kullu",
+    "url": "/asia/india/himachalpradesh/kullu/"
+  },
+  {
+    "embedding_text": "Toru\u0144, Poland, Europe",
+    "lat": 53.010272,
+    "latitude": 53.010272,
+    "lng": 18.604809,
+    "longitude": 18.604809,
+    "name": "Toru\u0144",
+    "parent": "Europe, Poland",
+    "parent_chain": [
+      "Europe",
+      "Poland"
+    ],
+    "path": "europe/poland/torun",
+    "url": "/europe/poland/torun/"
+  },
+  {
+    "embedding_text": "L\u00fcbeck, Schleswig-Holstein, Germany, Europe",
+    "lat": 53.866444,
+    "latitude": 53.866444,
+    "lng": 10.684738,
+    "longitude": 10.684738,
+    "name": "L\u00fcbeck",
+    "parent": "Europe, Germany, Schleswig-Holstein",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Schleswig-Holstein"
+    ],
+    "path": "europe/germany/schleswigholstein/lubeck",
+    "url": "/europe/germany/schleswigholstein/lubeck/"
+  },
+  {
+    "embedding_text": "Rio Gallegos, Argentina, South America",
+    "lat": -51.6215,
+    "latitude": -51.6215,
+    "lng": -69.215,
+    "longitude": -69.215,
+    "name": "Rio Gallegos",
+    "parent": "South America, Argentina",
+    "parent_chain": [
+      "South America",
+      "Argentina"
+    ],
+    "path": "southamerica/argentina/riogallegos",
+    "url": "/southamerica/argentina/riogallegos/"
+  },
+  {
+    "embedding_text": "Yankton, South Dakota, United States, North America",
+    "lat": 42.8711,
+    "latitude": 42.8711,
+    "lng": -97.3973,
+    "longitude": -97.3973,
+    "name": "Yankton",
+    "parent": "North America, United States, South Dakota",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "South Dakota"
+    ],
+    "path": "northamerica/unitedstates/southdakota/yankton",
+    "url": "/northamerica/unitedstates/southdakota/yankton/"
+  }
+]

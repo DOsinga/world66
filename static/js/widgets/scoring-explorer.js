@@ -18,14 +18,15 @@
     var embedCopy = root.querySelector('[data-score-embed-copy]');
     if (!svg || !list) return null;
 
-    var dims = ['culture', 'nature', 'leisure', 'adventure'];
+    var dims = ['heritage', 'vibrancy', 'nature', 'leisure', 'adventure'];
     var labels = {
-      culture: 'Culture',
+      heritage: 'Heritage',
+      vibrancy: 'Vibrancy',
       nature: 'Nature',
       leisure: 'Leisure',
       adventure: 'Adventure'
     };
-    var weights = { culture: 1, nature: 1, leisure: 1, adventure: 1 };
+    var weights = { heritage: 1, vibrancy: 1, nature: 1, leisure: 1, adventure: 1 };
     var locations = [];
     var markerLayer = null;
     var hoverCard = null;
@@ -257,7 +258,9 @@
         '<strong>' + escapeHtml(item.name) + '</strong>' +
         '<small>' + escapeHtml(item.parent) + '</small>' +
         '<span>Score ' + row.score.toFixed(1) + '</span>' +
-        '<span>C/N/L/A ' + item.culture.toFixed(1) + ' / ' + item.nature.toFixed(1) + ' / ' + item.leisure.toFixed(1) + ' / ' + item.adventure.toFixed(1) + '</span>';
+        '<span>' + dims.map(function(dim) {
+          return labels[dim] + ' ' + item[dim].toFixed(1);
+        }).join(' / ') + '</span>';
       root.appendChild(hoverCard);
       var x = (point.x - viewBox.x) / viewBox.width * svg.clientWidth;
       var y = (point.y - viewBox.y) / viewBox.height * svg.clientHeight;

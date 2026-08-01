@@ -27,9 +27,10 @@
     if (!svg || !list || !sliders || !dimensionSelect) return null;
 
     var storageKey = 'world66.scoreComposer.profiles';
-    var dims = ['culture', 'nature', 'leisure', 'adventure'];
+    var dims = ['heritage', 'vibrancy', 'nature', 'leisure', 'adventure'];
     var labels = {
-      culture: 'Culture',
+      heritage: 'Heritage',
+      vibrancy: 'Vibrancy',
       nature: 'Nature',
       leisure: 'Leisure',
       adventure: 'Adventure'
@@ -362,8 +363,8 @@
       var ranked = visibleRankedLocations();
       var top = ranked.slice(0, 50);
       var dim = selectedDim();
-      if (summary) summary.textContent = 'Example regression · bias ' + state[dim].bias.toFixed(2) + ' · 12 weights';
-      if (listSummary) listSummary.textContent = labels[dim] + ' from examples · top ' + top.length + ' of ' + ranked.length + ' visible destinations';
+      if (summary) summary.textContent = 'Anchor regression · bias ' + state[dim].bias.toFixed(2) + ' · 12 weights';
+      if (listSummary) listSummary.textContent = labels[dim] + ' from anchors · top ' + top.length + ' of ' + ranked.length + ' visible destinations';
       renderList(top);
       renderMarkers(ranked);
       exportState();
@@ -379,6 +380,14 @@
 
     function writeProfiles(profiles) {
       window.localStorage.setItem(storageKey, JSON.stringify(profiles));
+    }
+
+    function mergeProfileDimensions(profileDimensions) {
+      var merged = clone(defaults);
+      dims.forEach(function(dim) {
+        if (profileDimensions[dim]) merged[dim] = clone(profileDimensions[dim]);
+      });
+      return merged;
     }
 
     function renderProfiles() {
@@ -409,7 +418,7 @@
       } else {
         var profile = readProfiles()[Number(selected)];
         if (profile && profile.dimensions) {
-          state = clone(profile.dimensions);
+          state = mergeProfileDimensions(profile.dimensions);
           if (nameInput) nameInput.value = profile.name || 'Working set';
         }
       }

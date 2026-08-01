@@ -173,7 +173,7 @@ This writes:
 
 ### 7. Old score diagnostic
 
-`scoring/old_score_regression.py` is a diagnostic, not the public scoring path. It checks how well the latent labels and hidden dimensions can mimic the existing one-number `score` field.
+`scoring/old_score_regression.py` fits the existing one-number `score` field from the four public component scores plus the 12 hidden dimensions. It writes the fitted model, the combined score predictions, and `scoring/data/location_scores.json`, which contains the combined score and all four components for every scored location.
 
 The old v4-vector regression predicted the current score with about `0.57` validation MAE.
 

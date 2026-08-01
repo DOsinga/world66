@@ -15,6 +15,16 @@ DIMENSIONS_FILE = DATA_DIR / "latent_label_scores.json"
 HIDDEN_FILE = DATA_DIR / "all_location_hidden_12.npz"
 MODEL_OUT = DATA_DIR / "old_score_regression.json"
 PREDICTIONS_OUT = DATA_DIR / "old_score_predictions.json"
+LOCATION_SCORES_OUT = DATA_DIR / "location_scores.json"
+DIMENSIONS = ("heritage", "vibrancy", "nature", "off_the_beaten_track")
+
+
+def display_path(path):
+    resolved = path.resolve()
+    try:
+        return resolved.relative_to(PROJECT_DIR)
+    except ValueError:
+        return resolved
 
 
 def md_path_for(content_path):
@@ -77,7 +87,7 @@ def metrics(pred, y):
 
 def score_dimensions(dimensions):
     first_scores = next(iter(dimensions.values()))
-    return tuple(first_scores)
+    return tuple(dimension for dimension in DIMENSIONS if dimension in first_scores)
 
 
 def main():
@@ -86,6 +96,7 @@ def main():
     parser.add_argument("--hidden", type=Path, default=HIDDEN_FILE)
     parser.add_argument("--model-out", type=Path, default=MODEL_OUT)
     parser.add_argument("--predictions-out", type=Path, default=PREDICTIONS_OUT)
+    parser.add_argument("--location-scores-out", type=Path, default=LOCATION_SCORES_OUT)
     parser.add_argument("--seed", type=int, default=66)
     parser.add_argument("--val-fraction", type=float, default=0.2)
     parser.add_argument("--alpha", type=float, default=10.0)
@@ -129,7 +140,18 @@ def main():
     all_x = (all_x - mean) / std
     all_pred = np.clip(predict(all_x, coef), 1.0, 10.0)
     predictions = {path: round(float(value), 3) for path, value in zip(paths, all_pred)}
+    location_scores = {
+        path: {
+            "score": predictions[path],
+            **{
+                dimension: round(float(dimensions[path][dimension]), 3)
+                for dimension in score_names
+            },
+        }
+        for path in paths
+    }
 
+    args.model_out.parent.mkdir(parents=True, exist_ok=True)
     args.model_out.write_text(
         json.dumps(
             {
@@ -150,9 +172,11 @@ def main():
         + "\n"
     )
     args.predictions_out.write_text(json.dumps(predictions, indent=2, sort_keys=True) + "\n")
+    args.location_scores_out.write_text(json.dumps(location_scores, indent=2, sort_keys=True) + "\n")
     print(f"train: {train_metrics}")
     print(f"val:   {val_metrics}")
-    print(f"Wrote {len(predictions)} predictions to {args.predictions_out.resolve().relative_to(PROJECT_DIR)}")
+    print(f"Wrote {len(predictions)} predictions to {display_path(args.predictions_out)}")
+    print(f"Wrote {len(location_scores)} location scores to {display_path(args.location_scores_out)}")
 
 
 if __name__ == "__main__":

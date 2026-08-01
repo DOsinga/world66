@@ -27,12 +27,12 @@
     if (!svg || !list || !sliders || !dimensionSelect) return null;
 
     var storageKey = 'world66.scoreComposer.profiles';
-    var dims = ['heritage', 'vibrancy', 'nature', 'adventure'];
+    var dims = ['heritage', 'vibrancy', 'nature', 'off_the_beaten_track'];
     var labels = {
       heritage: 'Heritage',
       vibrancy: 'Vibrancy',
       nature: 'Nature',
-      adventure: 'Adventure'
+      off_the_beaten_track: 'Off the beaten track'
     };
     var defaults = {};
     var state = {};

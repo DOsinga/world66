@@ -1,24 +1,22 @@
 {
   "deep_128_32_hidden_12": {
-    "best_epoch": 215,
+    "best_epoch": 208,
     "hidden_dim": 12,
     "model_type": "deep_regularized",
-    "parameters": 398189,
+    "parameters": 398176,
     "train_mae": {
-      "adventure": 0.255,
-      "heritage": 0.224,
-      "leisure": 0.232,
-      "nature": 0.242,
-      "vibrancy": 0.231
+      "heritage": 0.212,
+      "nature": 0.259,
+      "off_the_beaten_track": 0.231,
+      "vibrancy": 0.202
     },
-    "train_mse": 0.00106,
+    "train_mse": 0.00102,
     "val_mae": {
-      "adventure": 1.082,
-      "heritage": 1.159,
-      "leisure": 0.977,
-      "nature": 0.964,
-      "vibrancy": 0.97
+      "heritage": 1.328,
+      "nature": 1.069,
+      "off_the_beaten_track": 0.898,
+      "vibrancy": 1.264
     },
-    "val_mse": 0.01774
+    "val_mse": 0.0208
   }
 }

@@ -15,7 +15,7 @@ DATA_DIR = SCORING_DIR / "data"
 EMBEDDINGS_FILE = DATA_DIR / "location_embeddings_large.npz"
 SCORED_FILE = DATA_DIR / "scored_2000.json"
 MODEL_DIR = DATA_DIR / "models_validation"
-DIMENSIONS = ("heritage", "vibrancy", "nature", "adventure")
+DIMENSIONS = ("heritage", "vibrancy", "nature", "off_the_beaten_track")
 
 
 class DirectModel(nn.Module):

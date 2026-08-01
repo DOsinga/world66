@@ -3,14 +3,13 @@
     "epochs": 250,
     "hidden_dim": 12,
     "model_type": "deep_regularized",
-    "parameters": 398189,
+    "parameters": 398176,
     "train_mae": {
-      "adventure": 0.248,
-      "heritage": 0.22,
-      "leisure": 0.229,
-      "nature": 0.232,
-      "vibrancy": 0.233
+      "heritage": 0.204,
+      "nature": 0.213,
+      "off_the_beaten_track": 0.195,
+      "vibrancy": 0.192
     },
-    "train_mse": 0.00101
+    "train_mse": 0.00078
   }
 }

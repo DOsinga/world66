@@ -18,14 +18,14 @@
     var embedCopy = root.querySelector('[data-score-embed-copy]');
     if (!svg || !list) return null;
 
-    var dims = ['heritage', 'vibrancy', 'nature', 'adventure'];
+    var dims = ['heritage', 'vibrancy', 'nature', 'off_the_beaten_track'];
     var labels = {
       heritage: 'Heritage',
       vibrancy: 'Vibrancy',
       nature: 'Nature',
-      adventure: 'Adventure'
+      off_the_beaten_track: 'Off the beaten track'
     };
-    var weights = { heritage: 1, vibrancy: 1, nature: 1, adventure: 1 };
+    var weights = { heritage: 1, vibrancy: 1, nature: 1, off_the_beaten_track: 1 };
     var locations = [];
     var markerLayer = null;
     var hoverCard = null;

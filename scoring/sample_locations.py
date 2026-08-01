@@ -31,7 +31,7 @@ CONTINENTS = {
     "southamerica",
 }
 SCORABLE_LOC_TYPES = {"city", "feature", "island"}
-DIMENSIONS = ("heritage", "vibrancy", "nature", "adventure")
+DIMENSIONS = ("heritage", "vibrancy", "nature", "off_the_beaten_track")
 
 
 def content_path_for(md_file):

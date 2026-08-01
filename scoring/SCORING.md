@@ -7,13 +7,13 @@ World66 location scoring has two main phases:
 
 The model learns from destination identity captured by the embeddings for the name, parent chain, and lat/lng.
 
-The current dimensions are `heritage`, `vibrancy`, `nature`, and `adventure`.
+The current dimensions are `heritage`, `vibrancy`, `nature`, and `off_the_beaten_track`.
 
 ## Scoring Guidelines
 
 Send this section to scoring agents verbatim. Do not paraphrase the dimensions in agent prompts.
 
-Score each destination from `0` to `10` for `heritage`, `vibrancy`, `nature`, and `adventure`. Use only the destination name, parent chain, and coordinates from the batch. Score the ordinary visitor experience, not page quality, page text, POIs, or the most extreme optional activity nearby.
+Score each destination from `0` to `10` for `heritage`, `vibrancy`, `nature`, and `off_the_beaten_track`. Use only the destination name, parent chain, and coordinates from the batch. Score the ordinary visitor experience, not page quality, page text, POIs, or the most extreme optional activity nearby.
 
 Scores mean:
 
@@ -35,12 +35,12 @@ High vibrancy scores mean exciting places to be because of human acitivity. A me
 
 High nature scores mean the non-human world is a main reason to go. Score the strength of the natural payoff: animal life, green life, ecological richness, beauty, scale, and the feeling of being in a place shaped by forces larger than people. A destination can score very high when nature is vivid, abundant, beautiful, gentle, grand, or restorative, even when the visit is easy and well managed. Mountains, beaches and national parks.
 
-### Adventure
+### Off The Beaten Track
 
-High adventure scores mean the journey takes guts. Score what the trip asks from the traveler: nerve, effort, uncertainty, hard logistics, perceived danger, unfamiliar systems, physical challenge, commitment, and crossing into less managed territory. The score comes from the mode of travel and the edge of the experience, not from scenery alone. The highest scores go to places where a normal visit feels bold, exploratory, exposed, and story-worthy. Off the beaten track without the physical remoteness necesarily being the key driver.
+High off-the-beaten-track scores mean the journey takes guts. Score what the trip asks from the traveler: nerve, effort, uncertainty, hard logistics, perceived danger, unfamiliar systems, physical challenge, commitment, and crossing into less managed territory. The score comes from the mode of travel and the edge of the experience, not from scenery alone. The highest scores go to places where a normal visit feels bold, exploratory, exposed, and story-worthy. Physical remoteness can matter, but it is not the only driver.
 
 ### Further instructions
-Read these scoring rubrics and reflect on how they express different dimensions for a traveler. Heritage is not vibrancy. Nature is not adventure.
+Read these scoring rubrics and reflect on how they express different dimensions for a traveler. Heritage is not vibrancy. Nature is not off the beaten track.
 
 ## Files
 
@@ -196,7 +196,7 @@ The neural network is good for broad coverage, but we should not expect it to or
 
 The runoff process is:
 
-1. Pick a recipe, such as `heritage`, `vibrancy`, `nature`, `adventure`, `heritage + vibrancy`, or a personalized vector.
+1. Pick a recipe, such as `heritage`, `vibrancy`, `nature`, `off_the_beaten_track`, `heritage + vibrancy`, or a personalized vector.
 2. Pull the top 50 to 100 candidates from the neural model. The current default is top 75.
 3. Ask an agent to score only the target category or recipe, using the public score definitions above.
 4. Store runoff scores separately from base model scores.

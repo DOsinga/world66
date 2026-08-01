@@ -9,7 +9,7 @@ DATA_DIR = PROJECT_DIR / "scoring" / "data"
 LATENT_LABEL_SCORES = DATA_DIR / "latent_label_scores.json"
 LOCATIONS_FILE = DATA_DIR / "all_locations.json"
 ANCHORS_OUT = DATA_DIR / "anchors.json"
-DIMENSIONS = ("heritage", "vibrancy", "nature", "adventure")
+DIMENSIONS = ("heritage", "vibrancy", "nature", "off_the_beaten_track")
 
 ANCHOR_PATHS = [
     "europe/france/paris",

@@ -10,7 +10,7 @@ PROJECT_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = PROJECT_DIR / "scoring" / "data"
 SCORES_FILE = DATA_DIR / "latent_label_scores.json"
 OUT_FILE = DATA_DIR / "correlation_matrix.svg"
-DIMENSIONS = ("heritage", "vibrancy", "nature", "adventure")
+DIMENSIONS = ("heritage", "vibrancy", "nature", "off_the_beaten_track")
 
 
 def display_path(path):

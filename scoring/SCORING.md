@@ -1,10 +1,9 @@
 # Location Scoring Model
 
-World66 location scoring has three layers:
+World66 location scoring has two main phases:
 
-1. A broad LLM-labeled training layer over five travel scores.
-2. A neural model that maps destination embeddings into a 12-dimensional travel space.
-3. A human-steered anchor layer that turns the 12 latent dimensions into final public scores.
+1. Ask LLMs to score sampled locations on five travel dimensions, using the text descriptions below.
+2. Train a neural model that maps destination embeddings into a 12-dimensional travel space and predicts those five scores.
 
 The model learns from destination identity captured by the embeddings for the name, parent chain, and lat/lng.
 
@@ -44,23 +43,6 @@ High leisure scores mean cultivated pleasure: taste, beauty, style, indulgence, 
 
 High adventure scores mean edge, discovery, and commitment. The score should reflect how much a trip asks from the visitor: nerve, effort, uncertainty, difficult logistics, perceived danger, unfamiliar systems, remoteness, or physical challenge. The highest scores go to places where the ordinary journey feels bold and story-worthy.
 
-### Calibration Examples
-
-Use these examples to keep the dimensions separate while labeling. They are prompt references, not training data for the anchor regression.
-
-| Destination | Heritage | Vibrancy | Nature | Leisure | Adventure |
-|---|---:|---:|---:|---:|---:|
-| Tokyo | 7 | 10 | 2 | 9 | 2 |
-| Paris | 10 | 9 | 3 | 10 | 1 |
-| New York | 7 | 10 | 3 | 8 | 3 |
-| Hawaii resort coast | 4 | 5 | 9 | 9 | 2 |
-| Yellowstone standard visit | 3 | 2 | 10 | 5 | 2 |
-| Serengeti safari | 3 | 2 | 10 | 6 | 5 |
-| Bwindi gorilla trekking | 3 | 2 | 10 | 4 | 8 |
-| Karakoram Highway | 5 | 2 | 9 | 2 | 10 |
-| Lagos | 5 | 9 | 3 | 4 | 8 |
-| Damascus | 9 | 5 | 2 | 1 | 9 |
-
 ## Files
 
 Scoring is self-contained under `scoring/`:
@@ -76,14 +58,9 @@ scoring/
   train_anchor_regression.py
   build_widget_data.py
   old_score_regression.py
-
-  data/
-    anchors.json
 ```
 
-Scripts live directly in `scoring/`. Human-edited anchors live in `scoring/data/anchors.json`.
-
-Generated files also go in `scoring/data/`, but old runs should not be kept around once the scoring definitions change. After a complete five-score rerun, commit the finished artifacts needed to reproduce the current production scores.
+Scripts live directly in `scoring/`. Generated files go in `scoring/data/`, but old runs should not be kept around once the scoring definitions change. After a complete five-score rerun, commit the finished artifacts needed to reproduce the current production scores.
 
 ## Pipeline
 
@@ -181,55 +158,9 @@ python3 scoring/predict_locations.py \
   --hidden-out scoring/data/all_location_hidden_12.npz
 ```
 
-`latent_label_scores.json` is not the public score output. It is the five-label model output used to train and inspect the latent space.
+`latent_label_scores.json` is the current score output. It is produced from the five text-described dimensions above.
 
-### 6. Seed and edit regression anchors
-
-Seed `scoring/data/anchors.json` from important steering places:
-
-```bash
-python3 scoring/seed_anchors.py
-```
-
-The seed values are only a starting point. Humans edit `anchors.json` directly over the five public dimensions. These are the actual hand-tuned anchors used by `train_anchor_regression.py`:
-
-```json
-{
-  "path": "northamerica/unitedstates/newyorkstate/newyork",
-  "name": "New York",
-  "parent": "North America, United States, New York State",
-  "scores": {
-    "heritage": 8.0,
-    "vibrancy": 10.0,
-    "nature": 3.0,
-    "leisure": 8.5,
-    "adventure": 3.0
-  }
-}
-```
-
-The current seed file has fewer than 100 anchors. Grow it by adding famous places, edge cases, and places that separate dimensions cleanly.
-
-### 7. Train final public scores
-
-Train the final public scoring layer from:
-
-```text
-hidden_12 -> heritage, vibrancy, nature, leisure, adventure
-```
-
-```bash
-python3 scoring/train_anchor_regression.py \
-  --anchors scoring/data/anchors.json \
-  --hidden scoring/data/all_location_hidden_12.npz \
-  --model-out scoring/data/anchor_score_regression.json \
-  --scores-out scoring/data/location_scores.json \
-  --alpha 25
-```
-
-`anchor_score_regression.json` is the learned model. `location_scores.json` is the final score output for all locations.
-
-### 8. Build widget data
+### 6. Build widget data
 
 Refresh the JSON used by the scoring widgets:
 
@@ -240,13 +171,27 @@ python3 scoring/build_widget_data.py
 This writes:
 
 - `static/widgets/scoring-explorer.json`
-- `static/widgets/score-composer.json`
 
-### 9. Old score diagnostic
+`static/widgets/score-composer.json` is only refreshed when a later steering regression exists.
+
+### 7. Old score diagnostic
 
 `scoring/old_score_regression.py` is a diagnostic, not the public scoring path. It checks how well the latent labels and hidden dimensions can mimic the existing one-number `score` field.
 
 The old v4-vector regression predicted the current score with about `0.57` validation MAE.
+
+## Later Human Steering
+
+After the first full five-score run, we can create a steering file from the model's initial scores for a small set of important destinations. Humans can then edit those scores directly and train a small regression from `hidden_12` to the human-edited five scores.
+
+That steering file should be created from the current model output when we are ready to tune it. It should not exist before the first five-score run, and it should not be mixed with the scoring instructions above.
+
+The helper scripts for that one-off pass are:
+
+```bash
+python3 scoring/seed_anchors.py
+python3 scoring/train_anchor_regression.py
+```
 
 ## Agent Runoffs
 

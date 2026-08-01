@@ -8,7 +8,7 @@ import numpy as np
 
 PROJECT_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = PROJECT_DIR / "scoring" / "data"
-SCORES_FILE = DATA_DIR / "location_scores.json"
+SCORES_FILE = DATA_DIR / "latent_label_scores.json"
 REGRESSION_FILE = DATA_DIR / "anchor_score_regression.json"
 LOCATIONS_FILE = DATA_DIR / "all_locations.json"
 HIDDEN_FILE = DATA_DIR / "all_location_hidden_12.npz"
@@ -43,20 +43,13 @@ def main():
     args = parser.parse_args()
 
     scores = load_json(args.scores)
-    regression = load_json(args.regression)
     all_locations = load_json(args.locations)
-    hidden_data = np.load(args.hidden, allow_pickle=True)
-    hidden_by_path = {
-        path: row.tolist()
-        for path, row in zip(hidden_data["paths"].tolist(), hidden_data["hidden"])
-    }
-    dimensions = regression["dimensions"]
+    dimensions = list(next(iter(scores.values())))
 
     locations = []
-    composer_locations = []
     for location in all_locations:
         path = location["path"]
-        if path not in scores or path not in hidden_by_path:
+        if path not in scores:
             continue
         score_row = scores[path]
         locations.append(
@@ -70,22 +63,11 @@ def main():
                 **{dimension: score_row[dimension] for dimension in dimensions},
             }
         )
-        composer_locations.append(
-            {
-                "path": path,
-                "name": location["name"],
-                "parent": location["parent"],
-                "url": location["url"],
-                "lat": location["lat"],
-                "lng": location["lng"],
-                "hidden": hidden_by_path[path],
-            }
-        )
 
     args.scoring_explorer_out.write_text(
         json.dumps(
             {
-                "source": "scoring/data/location_scores.json",
+                "source": str(args.scores),
                 "dimensions": dimensions,
                 "locations": locations,
             },
@@ -93,23 +75,47 @@ def main():
         )
         + "\n"
     )
-    args.score_composer_out.write_text(
-        json.dumps(
-            {
-                "source": "scoring/data/all_location_hidden_12.npz",
-                "model": "scoring/data/anchor_score_regression.json",
-                "dimensions": dimensions,
-                "latentLabels": [f"Latent {index + 1}" for index in range(len(regression["features"]))],
-                "defaults": composer_defaults(regression),
-                "locations": composer_locations,
-            },
-            separators=(",", ":"),
+
+    if args.regression.exists() and args.hidden.exists():
+        regression = load_json(args.regression)
+        hidden_data = np.load(args.hidden, allow_pickle=True)
+        hidden_by_path = {
+            path: row.tolist()
+            for path, row in zip(hidden_data["paths"].tolist(), hidden_data["hidden"])
+        }
+        composer_locations = []
+        for location in all_locations:
+            path = location["path"]
+            if path not in scores or path not in hidden_by_path:
+                continue
+            composer_locations.append(
+                {
+                    "path": path,
+                    "name": location["name"],
+                    "parent": location["parent"],
+                    "url": location["url"],
+                    "lat": location["lat"],
+                    "lng": location["lng"],
+                    "hidden": hidden_by_path[path],
+                }
+            )
+
+        args.score_composer_out.write_text(
+            json.dumps(
+                {
+                    "source": str(args.hidden),
+                    "model": str(args.regression),
+                    "dimensions": regression["dimensions"],
+                    "latentLabels": [f"Latent {index + 1}" for index in range(len(regression["features"]))],
+                    "defaults": composer_defaults(regression),
+                    "locations": composer_locations,
+                },
+                separators=(",", ":"),
+            )
+            + "\n"
         )
-        + "\n"
-    )
 
     print(f"Wrote {len(locations)} locations to {args.scoring_explorer_out.resolve().relative_to(PROJECT_DIR)}")
-    print(f"Wrote {len(composer_locations)} locations to {args.score_composer_out.resolve().relative_to(PROJECT_DIR)}")
 
 
 if __name__ == "__main__":

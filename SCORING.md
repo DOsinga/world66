@@ -1,13 +1,34 @@
 # Location Scoring Model
 
-World66 location scoring is built around four travel dimensions:
+World66 location scoring has two layers:
+
+1. A broad LLM-labeled training layer that teaches the neural model a travel-specific latent space.
+2. A small human-steered anchor layer that turns the 12 latent dimensions into the public scores.
+
+The model learns from destination identity captured by the embeddings for the name, parent chain, and lat/lng.
+
+The current LLM-labeled run used four broad dimensions:
 
 - `culture`: human meaning, history, art, architecture, food, street life, identity, and living traditions.
 - `nature`: wildness, ecosystems, animals, plants, seascapes, landscapes, geology, and outdoor beauty.
 - `leisure`: the finer things in life: comfort, beauty, pleasure, taste, style, service, shopping, fine dining, wellness, and resorts.
 - `adventure`: edge and discovery: off-the-beaten-track routes, remote regions, hard logistics, uncertainty, perceived danger, and frontier feeling.
 
-The model learns from destination identity captured by the embeddings for the (name, parent chain, lat/lng)
+Those labels are useful for training the bottleneck model, but they are not the final public scoring language.
+
+## Public Score Design
+
+The public scoring layer should use five dimensions:
+
+- `heritage`: historic depth, older built fabric, ruins, museums, monuments, architecture, and traditions that a traveler can actually experience.
+- `vibrancy`: street life, food scenes, nightlife, markets, neighborhoods, contemporary creativity, density, energy, and surprise.
+- `nature`: the non-human world as a reason to travel, especially wildlife, ecosystems, landforms, water, climate, scale, rarity, and natural beauty.
+- `leisure`: cultivated pleasure: taste, beauty, style, indulgence, sensuality, service, shopping, fine dining, wellness, resorts, and ease.
+- `adventure`: edge, discovery, commitment, nerve, uncertainty, difficult logistics, perceived danger, remoteness, unfamiliar systems, and physical challenge.
+
+The old `culture` dimension should be split because it mixes two different travel pleasures. New York, Tokyo, Lagos, and Bangkok should be able to score very high for vibrancy without needing to look like Rome or Kyoto. Rome, Kyoto, Angkor, Samarkand, and Florence should be able to score very high for heritage without needing the same contemporary urban charge.
+
+Do not keep `cultural significance` as a separate public factor. A place can be important to a culture or religion and still not be especially interesting to most travelers if that importance is not visible, accessible, vibrant, or historic in the visitor experience.
 
 ## Scoring Guidelines
 
@@ -169,7 +190,7 @@ This is much better than the previous nature/adventure correlation of `0.765`, b
 
 ### 6. Calibrate dimensions with examples
 
-The neural model produces 12 hidden travel dimensions. The public four scores can be calibrated from examples instead of hand-picked slider weights.
+The neural model produces 12 hidden travel dimensions. The current widget calibrates public scores from examples instead of hand-picked slider weights.
 
 Put examples in:
 
@@ -193,7 +214,52 @@ python3 tools/train_score_examples.py \
 
 The script fits one ridge regression per public dimension from the 12 hidden values. It fails if an example path is not present in the widget data. The current default uses `alpha=25` to keep sparse examples from flattening too many destinations to `10`.
 
-### 7. Predict the old general score
+This positive/negative example format is useful for quick exploration. The production steering layer should move to scored anchors.
+
+### 7. Score human steering anchors
+
+Pick about 100 important travel places that are good steering opportunities. These should be famous places, edge cases, and places that separate dimensions cleanly. The goal is not a random sample; it is maximum steering value per human score.
+
+Good anchors include:
+
+- globally important cities: Paris, New York, Tokyo, London, Rome, Istanbul, Cairo, Bangkok.
+- high-vibrancy cities: Lagos, Mexico City, Berlin, Mumbai, Seoul.
+- high-heritage places: Kyoto, Florence, Angkor Wat, Samarkand, Varanasi, Teotihuacan.
+- nature and wildlife anchors: Serengeti, Bwindi, Yellowstone, Galapagos, Torres del Paine.
+- leisure anchors: Dubai, Miami, Cannes, Maldives, Las Vegas, Bora Bora.
+- adventure anchors: Karakoram Highway, Djanet, Tenere Desert, Damascus, Everest Base Camp.
+- confusing or failure-prone cases: Mecca, Big Sur, Denali, Hawaii resort coast, Venice, Singapore.
+
+Seed each anchor with the model's current best guess, then let a human edit the values. The human should not start from a blank form.
+
+The anchor file should look like:
+
+```json
+[
+  {
+    "path": "northamerica/unitedstates/newyorkstate/newyork",
+    "name": "New York",
+    "parent": "North America, United States, New York State",
+    "scores": {
+      "heritage": 8.0,
+      "vibrancy": 10.0,
+      "nature": 3.0,
+      "leisure": 8.5,
+      "adventure": 3.0
+    }
+  }
+]
+```
+
+Train the final public scoring layer from:
+
+```text
+hidden_12 -> heritage, vibrancy, nature, leisure, adventure
+```
+
+Use a simple regularized regression first. The input has only 12 values, so 100 strong anchors should be enough to steer the model. If the top lists still look wrong, improve the anchor set before trying a more complex model.
+
+### 8. Predict the old general score
 
 To mimic the old `score` field, train a ridge regression over the four predicted dimensions plus the 12 hidden dimensions:
 

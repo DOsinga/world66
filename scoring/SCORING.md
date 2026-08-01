@@ -40,7 +40,7 @@ High nature scores mean the non-human world is a main reason to go. Score the st
 High adventure scores mean the journey takes guts. Score what the trip asks from the traveler: nerve, effort, uncertainty, hard logistics, perceived danger, unfamiliar systems, physical challenge, commitment, and crossing into less managed territory. The score comes from the mode of travel and the edge of the experience, not from scenery alone. The highest scores go to places where a normal visit feels bold, exploratory, exposed, and story-worthy. Off the beaten track without the physical remoteness necesarily being the key driver.
 
 ### Further instructions
-Read these scoring rubricks and reflect on how they express different dimensions for a traveller; Heritage is not Vibrancy, Nature is not Adventure even if they are sometimes found together in the same place.
+Read these scoring rubrics and reflect on how they express different dimensions for a traveler. Heritage is not vibrancy. Nature is not adventure.
 
 ## Files
 

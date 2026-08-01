@@ -12,9 +12,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Beauty_Of_Egypt.JPG
 latitude: 30.044388
 loc_type: city
 longitude: 31.235726
+quick_facts:
+  Egyptian Museum: Tutankhamun's gold
+  Founded: 969 AD
+  Metro Population: 22 million
+  Nickname: City of a Thousand Minarets
 score: 9.45
 snippet: Egyptian capital where the Nile meets the Sahara edge, layered with ancient
   and Islamic landmarks.
+tip: Cairo is chaotic, vast and wonderful — the Pyramids of Giza are technically a
+  separate suburb, so plan transport. The Egyptian Museum (and the new Grand Egyptian
+  Museum) hold Tutankhamun's treasures, so go early. Traffic is anarchic and crossing
+  the road is an art; follow a local. Haggle everywhere, and tip ('baksheesh') for
+  everything.
 title: Cairo
 type: location
 ---

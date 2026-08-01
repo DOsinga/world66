@@ -8,9 +8,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Planalto_Central_(cropped)
 latitude: -15.7939
 loc_type: city
 longitude: -47.8828
+quick_facts:
+  Built In: Just 41 months (1956–60)
+  Niemeyer: Designed its white landmarks
+  Population: ~3 million
+  Shaped Like: An aeroplane from above
 score: 7.79
 snippet: Purpose-built Brazilian capital of Niemeyer curves, monumental axes, and
   vast modernist government spaces
+tip: Brasília was built from nothing in just 41 months and inaugurated in 1960 — a
+  modernist capital laid out, from the air, in the shape of an aeroplane or bird.
+  Oscar Niemeyer's sweeping white government buildings are the reason to come; the
+  UNESCO-listed Pilot Plan is best appreciated by car. It's spread out and car-centric,
+  with little street life.
 title: Brasilia
 type: location
 ---

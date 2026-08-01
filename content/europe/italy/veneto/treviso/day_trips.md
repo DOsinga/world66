@@ -3,7 +3,7 @@ title: "Day Trips"
 type: section
 linked_locations:
   - europe/italy/veneto/venice
-  - europe/italy/veneto/padova
+  - europe/italy/veneto/padua
   - europe/italy/veneto/vicenza
   - europe/italy/veneto/asolo
 ---

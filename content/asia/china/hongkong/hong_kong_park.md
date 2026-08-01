@@ -5,7 +5,6 @@ longitude: 114.1615
 score: 7.8
 snippet: Lush urban park with walk-in aviary and colonial tea museum
 tags:
-- hongkongisland
 - central
 - things_to_do
 - landmark

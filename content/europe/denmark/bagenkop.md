@@ -3,6 +3,7 @@ latitude: 54.7527
 longitude: 10.6831
 loc_type: city
 score: 6.97
+snippet: Remote fishing village at Langeland's southern tip, centred on a small harbour beside the Baltic.
 tags:
 - langeland
 title: Bagenkop

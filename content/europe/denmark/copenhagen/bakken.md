@@ -8,7 +8,7 @@ story: Bakken opened in 1583 — more than 250 years before Tivoli — making it
   grew up to serve the visitors who came to take the waters. The spring stopped flowing
   in the 19th century but the park outlasted it by several centuries.
 tags:
-- day_trips
+- things_to_do
 title: Bakken
 type: poi
 ---

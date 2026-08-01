@@ -14,6 +14,8 @@ snippet: Dolomite mountain village near Cortina, used as a quiet base for skiing
   hiking
 sources:
 - https://en.wikipedia.org/wiki/San_Vito_di_Cadore
+tags:
+- dolomites
 title: San Vito di Cadore
 type: location
 ---

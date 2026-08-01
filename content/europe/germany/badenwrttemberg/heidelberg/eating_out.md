@@ -11,7 +11,8 @@ A major part of restaurants you will find in Old Town, or adjacent to popular si
 
 **Am Flu&szlig;**
 
-Traditional German food in nice atmosphere, beergarden outside.** Anonymous:** Reasonable prized italian restaurant next to the famous Law Department of University of Heidelberg . Try the pasta specialties! 
+Traditional German food in nice atmosphere,
+ beergarden outside.** Anonymous:** Reasonable prized italian restaurant next to the famous Law Department of University of Heidelberg . Try the pasta specialties! 
 
 address: Neckarm&uuml;nzplatz 1
 
@@ -27,7 +28,9 @@ tel: 06221/602805
 
 **Schlossrestaurant Schönmehl Schlossweinstube**
 
-This is one of the restaurants in the castle, and serves higher-priced palatinate specialties. 
+This is one of the restaurants in the castle,
+ and serves higher-priced palatinate specialties.
+ 
 
 address: Im Schlosshof
 
@@ -43,7 +46,9 @@ tel: 06221/184520
 
 **Zum roten Ochsen**
 
-This historical student's restarurant serves regional dishes, as well as seasonal specialties, and venison.
+This historical student's restarurant
+ serves regional dishes, as well as seasonal
+ specialties, and venison.
 
 address: Hauptstr. 217
 

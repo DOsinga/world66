@@ -6,7 +6,7 @@ longitude: 4.9010
 tags:
 - things_to_do
 - museum
-- waterlooplein
+- rembrandtplein
 story: >
   Founded in 1616 by Sephardic Jews who had fled the Spanish and Portuguese Inquisitions,
   Ets Haim ("Tree of Life") is a UNESCO Memory of the World site. Its collection

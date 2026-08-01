@@ -5,9 +5,18 @@ done:
 latitude: 13.5127
 loc_type: city
 longitude: 2.1128
+quick_facts:
+  Among Earth's Hottest: Cities by average temperature
+  Hippos: Upstream from the city
+  On the River: The Niger
+  Population: ~1.3 million
 score: 5.62
 snippet: Nigerien capital on a bend of the Niger River, where Sahelian trade fills
   open-air markets.
+tip: Niamey is a low-slung capital on the Niger River, where pirogues drift past and
+  hippos sometimes surface upstream. It is one of the hottest cities on earth, so
+  move at the local pace and rest through midday. The Grand Marché and the riverside
+  are the social hubs. Check security advisories carefully before any travel in Niger.
 title: Niamey
 type: location
 ---

@@ -3,6 +3,7 @@ title: "Pasteur Street Brewing"
 type: poi
 tags:
   - bars_and_cafes
+  - french_quarter
   - bar
 latitude: 21.0283
 longitude: 105.8492

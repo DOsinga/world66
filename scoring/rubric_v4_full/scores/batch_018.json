@@ -1,0 +1,302 @@
+{
+  "africa/tunisia/tataouine": {
+    "culture": 6,
+    "nature": 6,
+    "leisure": 2,
+    "adventure": 6
+  },
+  "europe/moldova/soroca": {
+    "culture": 5,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 2
+  },
+  "asia/philippines/caloocan": {
+    "culture": 3,
+    "nature": 1,
+    "leisure": 3,
+    "adventure": 2
+  },
+  "northamerica/unitedstates/texas/brazosportarea": {
+    "culture": 2,
+    "nature": 5,
+    "leisure": 4,
+    "adventure": 2
+  },
+  "southamerica/brazil/ja_nacional_park": {
+    "culture": 2,
+    "nature": 10,
+    "leisure": 2,
+    "adventure": 8
+  },
+  "europe/germany/rhinelandpalatinate/landau": {
+    "culture": 5,
+    "nature": 4,
+    "leisure": 5,
+    "adventure": 1
+  },
+  "europe/unitedkingdom/wales/anglesey/din_lligwy": {
+    "culture": 7,
+    "nature": 5,
+    "leisure": 3,
+    "adventure": 2
+  },
+  "northamerica/netherlandsantilles/stmaarten": {
+    "culture": 5,
+    "nature": 7,
+    "leisure": 9,
+    "adventure": 3
+  },
+  "northamerica/thecaribbean/haiti/gonaveisland": {
+    "culture": 3,
+    "nature": 7,
+    "leisure": 2,
+    "adventure": 7
+  },
+  "europe/albania/apolonia": {
+    "culture": 8,
+    "nature": 4,
+    "leisure": 3,
+    "adventure": 2
+  },
+  "northamerica/unitedstates/louisiana/newiberia": {
+    "culture": 6,
+    "nature": 4,
+    "leisure": 5,
+    "adventure": 1
+  },
+  "europe/azerbaijan/aqsu": {
+    "culture": 3,
+    "nature": 4,
+    "leisure": 2,
+    "adventure": 3
+  },
+  "northamerica/unitedstates/idaho/boise": {
+    "culture": 5,
+    "nature": 6,
+    "leisure": 5,
+    "adventure": 3
+  },
+  "europe/ireland/ballincollig": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 1
+  },
+  "northamerica/unitedstates/nebraska/minden": {
+    "culture": 2,
+    "nature": 2,
+    "leisure": 2,
+    "adventure": 1
+  },
+  "europe/russia/karelia/kizhi": {
+    "culture": 9,
+    "nature": 7,
+    "leisure": 3,
+    "adventure": 4
+  },
+  "europe/russia/kazan": {
+    "culture": 8,
+    "nature": 4,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "africa/somalia/gendershe": {
+    "culture": 3,
+    "nature": 4,
+    "leisure": 1,
+    "adventure": 9
+  },
+  "northamerica/unitedstates/california/northcoast/ferndale": {
+    "culture": 5,
+    "nature": 6,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "africa/tanzania/mikindanimtwara": {
+    "culture": 5,
+    "nature": 6,
+    "leisure": 3,
+    "adventure": 5
+  },
+  "northamerica/unitedstates/california/centralvalley/modesto": {
+    "culture": 3,
+    "nature": 2,
+    "leisure": 3,
+    "adventure": 1
+  },
+  "southamerica/brazil/angradosreis": {
+    "culture": 4,
+    "nature": 8,
+    "leisure": 8,
+    "adventure": 3
+  },
+  "northamerica/canada/ontario/mississauga": {
+    "culture": 4,
+    "nature": 2,
+    "leisure": 4,
+    "adventure": 1
+  },
+  "northamerica/unitedstates/colorado/aurora": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 1
+  },
+  "europe/germany/lowersaxony/hannover": {
+    "culture": 6,
+    "nature": 4,
+    "leisure": 5,
+    "adventure": 1
+  },
+  "australiaandpacific/newzealand/north_island/northland/ninety_mile_beach": {
+    "culture": 4,
+    "nature": 8,
+    "leisure": 5,
+    "adventure": 5
+  },
+  "northamerica/unitedstates/georgia/atlanta": {
+    "culture": 7,
+    "nature": 3,
+    "leisure": 7,
+    "adventure": 2
+  },
+  "europe/germany/lowersaxony/east_frisian_islands/juist": {
+    "culture": 4,
+    "nature": 7,
+    "leisure": 7,
+    "adventure": 2
+  },
+  "asia/pakistan/karachi": {
+    "culture": 7,
+    "nature": 2,
+    "leisure": 4,
+    "adventure": 7
+  },
+  "australiaandpacific/australia/queensland/sunshinecoast": {
+    "culture": 4,
+    "nature": 8,
+    "leisure": 8,
+    "adventure": 4
+  },
+  "northamerica/unitedstates/newmexico/pie_town": {
+    "culture": 3,
+    "nature": 4,
+    "leisure": 2,
+    "adventure": 3
+  },
+  "europe/unitedkingdom/scotland/crovie": {
+    "culture": 4,
+    "nature": 6,
+    "leisure": 3,
+    "adventure": 2
+  },
+  "europe/germany/badenwrttemberg/donaueschingen": {
+    "culture": 5,
+    "nature": 4,
+    "leisure": 4,
+    "adventure": 1
+  },
+  "asia/china/guangxi/yangshuo": {
+    "culture": 5,
+    "nature": 9,
+    "leisure": 6,
+    "adventure": 5
+  },
+  "europe/sweden/uppsala": {
+    "culture": 7,
+    "nature": 4,
+    "leisure": 5,
+    "adventure": 1
+  },
+  "asia/southkorea/chonju": {
+    "culture": 7,
+    "nature": 3,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "europe/croatia/island_iovo": {
+    "culture": 4,
+    "nature": 7,
+    "leisure": 7,
+    "adventure": 3
+  },
+  "southamerica/frenchguiana/cayenne": {
+    "culture": 5,
+    "nature": 7,
+    "leisure": 4,
+    "adventure": 5
+  },
+  "europe/sweden/vemdalen": {
+    "culture": 3,
+    "nature": 8,
+    "leisure": 6,
+    "adventure": 5
+  },
+  "northamerica/unitedstates/westvirginia/huntington": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 1
+  },
+  "northamerica/costarica/ciudadquesada": {
+    "culture": 3,
+    "nature": 7,
+    "leisure": 4,
+    "adventure": 4
+  },
+  "europe/spain/spanishcostas/valencia": {
+    "culture": 8,
+    "nature": 5,
+    "leisure": 8,
+    "adventure": 2
+  },
+  "asia/philippines/olongapocity": {
+    "culture": 4,
+    "nature": 5,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "europe/azerbaijan/goytepe": {
+    "culture": 2,
+    "nature": 3,
+    "leisure": 1,
+    "adventure": 3
+  },
+  "europe/greece/ammoudia": {
+    "culture": 3,
+    "nature": 6,
+    "leisure": 6,
+    "adventure": 2
+  },
+  "southamerica/ecuador/manta": {
+    "culture": 4,
+    "nature": 5,
+    "leisure": 6,
+    "adventure": 2
+  },
+  "europe/bosniaandherzegovina/jajce": {
+    "culture": 7,
+    "nature": 7,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "asia/iraq/baghdad": {
+    "culture": 9,
+    "nature": 2,
+    "leisure": 1,
+    "adventure": 9
+  },
+  "northamerica/mexico/doloreshidalgo": {
+    "culture": 7,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 1
+  },
+  "northamerica/unitedstates/pennsylvania/bucks_county/doylestown": {
+    "culture": 5,
+    "nature": 4,
+    "leisure": 5,
+    "adventure": 1
+  }
+}

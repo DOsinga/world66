@@ -1,0 +1,302 @@
+{
+  "northamerica/dominicanrepublic/la_romana": {
+    "culture": 4,
+    "nature": 7,
+    "leisure": 8,
+    "adventure": 2
+  },
+  "asia/china/shaanxi/yulin": {
+    "culture": 5,
+    "nature": 5,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "europe/unitedkingdom/england/south_east/seaford": {
+    "culture": 4,
+    "nature": 6,
+    "leisure": 5,
+    "adventure": 1
+  },
+  "europe/austria/innsbruck": {
+    "culture": 7,
+    "nature": 9,
+    "leisure": 8,
+    "adventure": 4
+  },
+  "asia/thailand/kohtao": {
+    "culture": 3,
+    "nature": 9,
+    "leisure": 8,
+    "adventure": 4
+  },
+  "europe/estonia/parnu": {
+    "culture": 5,
+    "nature": 5,
+    "leisure": 7,
+    "adventure": 1
+  },
+  "asia/china/xinjiangprovince/urumqi": {
+    "culture": 7,
+    "nature": 6,
+    "leisure": 4,
+    "adventure": 5
+  },
+  "africa/kenya/nationalparksandreserves/amobselinp": {
+    "culture": 3,
+    "nature": 10,
+    "leisure": 6,
+    "adventure": 4
+  },
+  "europe/spain/galicia/ria_of_vigo": {
+    "culture": 5,
+    "nature": 7,
+    "leisure": 6,
+    "adventure": 2
+  },
+  "europe/russia/ryazan": {
+    "culture": 7,
+    "nature": 4,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "northamerica/unitedstates/southdakota/deadwood": {
+    "culture": 6,
+    "nature": 6,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "asia/taiwan/matsu": {
+    "culture": 6,
+    "nature": 7,
+    "leisure": 5,
+    "adventure": 3
+  },
+  "asia/china/gansu/zhangye_danxia": {
+    "culture": 4,
+    "nature": 10,
+    "leisure": 4,
+    "adventure": 4
+  },
+  "europe/georgia/gori": {
+    "culture": 7,
+    "nature": 5,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "southamerica/venezuela/coro": {
+    "culture": 8,
+    "nature": 5,
+    "leisure": 4,
+    "adventure": 4
+  },
+  "northamerica/unitedstates/washington/leavenworth": {
+    "culture": 5,
+    "nature": 8,
+    "leisure": 7,
+    "adventure": 2
+  },
+  "asia/kazakhstan/astana": {
+    "culture": 6,
+    "nature": 3,
+    "leisure": 6,
+    "adventure": 3
+  },
+  "asia/india/gujarat/morbi": {
+    "culture": 5,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 2
+  },
+  "africa/niger/koure": {
+    "culture": 3,
+    "nature": 8,
+    "leisure": 2,
+    "adventure": 5
+  },
+  "europe/france/nord/bercksurmer": {
+    "culture": 3,
+    "nature": 5,
+    "leisure": 6,
+    "adventure": 1
+  },
+  "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/cornwall/zennor": {
+    "culture": 5,
+    "nature": 7,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "northamerica/unitedstates/mississippi/tupelo": {
+    "culture": 5,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 1
+  },
+  "europe/unitedkingdom/scotland/rattray_head": {
+    "culture": 3,
+    "nature": 7,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "asia/india/karnataka/hampi": {
+    "culture": 10,
+    "nature": 7,
+    "leisure": 5,
+    "adventure": 3
+  },
+  "europe/france/normandybrittany/honfleur": {
+    "culture": 7,
+    "nature": 5,
+    "leisure": 8,
+    "adventure": 1
+  },
+  "europe/italy/liguria/nerviavalley/pigna": {
+    "culture": 6,
+    "nature": 6,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "europe/russia/nizhnynovgorod": {
+    "culture": 7,
+    "nature": 4,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "europe/norway/vardo": {
+    "culture": 5,
+    "nature": 8,
+    "leisure": 3,
+    "adventure": 6
+  },
+  "northamerica/canada/britishcolumbia/gold_river_britis": {
+    "culture": 3,
+    "nature": 9,
+    "leisure": 3,
+    "adventure": 5
+  },
+  "asia/indonesia/sulawesi/manado": {
+    "culture": 5,
+    "nature": 8,
+    "leisure": 6,
+    "adventure": 4
+  },
+  "northamerica/unitedstates/oklahoma/elk_city": {
+    "culture": 3,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 1
+  },
+  "europe/germany/saxony/pirna": {
+    "culture": 7,
+    "nature": 6,
+    "leisure": 6,
+    "adventure": 1
+  },
+  "asia/pakistan/moenjodaro": {
+    "culture": 10,
+    "nature": 4,
+    "leisure": 2,
+    "adventure": 5
+  },
+  "asia/kyrgyzstan/lakeissykkul": {
+    "culture": 5,
+    "nature": 9,
+    "leisure": 5,
+    "adventure": 5
+  },
+  "europe/greece/crete/malia": {
+    "culture": 4,
+    "nature": 6,
+    "leisure": 8,
+    "adventure": 2
+  },
+  "southamerica/venezuela/barquisimeto": {
+    "culture": 5,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 4
+  },
+  "northamerica/unitedstates/newmexico/truth_or_consequences": {
+    "culture": 4,
+    "nature": 6,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "europe/netherlands/alkmaar": {
+    "culture": 6,
+    "nature": 4,
+    "leisure": 6,
+    "adventure": 1
+  },
+  "asia/pakistan/azad_kashmir/hajira": {
+    "culture": 4,
+    "nature": 7,
+    "leisure": 2,
+    "adventure": 5
+  },
+  "northamerica/unitedstates/arizona/flagstaff": {
+    "culture": 5,
+    "nature": 8,
+    "leisure": 6,
+    "adventure": 3
+  },
+  "europe/malta/naxxar": {
+    "culture": 6,
+    "nature": 4,
+    "leisure": 5,
+    "adventure": 1
+  },
+  "northamerica/saintvincentandthegrenadines/mayreau": {
+    "culture": 3,
+    "nature": 8,
+    "leisure": 7,
+    "adventure": 3
+  },
+  "europe/italy/liguria/rivieradellepalme/casanovalerrone": {
+    "culture": 4,
+    "nature": 5,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "europe/italy/emiliaromagna/bellaria": {
+    "culture": 3,
+    "nature": 4,
+    "leisure": 8,
+    "adventure": 1
+  },
+  "northamerica/unitedstates/oklahoma/del_city": {
+    "culture": 2,
+    "nature": 2,
+    "leisure": 3,
+    "adventure": 1
+  },
+  "northamerica/canada/britishcolumbia/vancouver": {
+    "culture": 8,
+    "nature": 8,
+    "leisure": 9,
+    "adventure": 2
+  },
+  "northamerica/canada/quebec/longueuil": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 5,
+    "adventure": 1
+  },
+  "europe/germany/thuringia/sonneberg": {
+    "culture": 5,
+    "nature": 5,
+    "leisure": 4,
+    "adventure": 1
+  },
+  "asia/srilanka/jaffna": {
+    "culture": 8,
+    "nature": 5,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "europe/germany/northrhinewestphalia/witten": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 4,
+    "adventure": 1
+  }
+}

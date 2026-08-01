@@ -8,9 +8,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Torres_del_Paine,_Chile_by
 latitude: -50.9423
 loc_type: city
 longitude: -73.4068
+quick_facts:
+  Four Seasons: In a single day
+  National Park Since: '1959'
+  Pumas: Roam the park
+  The Towers: 2,500 m granite spires
 score: 9.44
 snippet: Patagonian national park of granite towers, turquoise lakes, wind-bent steppe,
   and multi-day treks.
+tip: Torres del Paine is Patagonian wilderness — the weather flips from sun to gale
+  in minutes, so layer up and pack for all four seasons in a day. The 'W' trek takes
+  four or five days; book refugios or campsites months ahead. Even day-trippers should
+  start early for the towers at dawn. The wind can literally knock you over, so hold
+  on.
 title: Torres del Paine
 type: location
 ---

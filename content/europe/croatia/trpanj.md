@@ -19,4 +19,4 @@ Trpanj is a quiet little harbour town on the north-western tip of the [Pelješac
 
 The town's beaches are pebbly and clear, sheltered by the peninsula's hills. Just outside town, the [Blace](/europe/croatia/trpanj/blace_lagoon) inlet is known locally for its sulphurous sea-mud, which people have used for rheumatic ailments for generations — an unusual find on a Dalmatian coastline otherwise devoted to swimming and sunbathing. A short drive west, [Divna Beach](/europe/croatia/trpanj/divna_beach) is one of the loveliest undeveloped beaches in southern Dalmatia.
 
-Trpanj is a good base for exploring the [Pelješac wine country](/europe/croatia/trpanj/peljesac_vineyards) inland — the Dingač and Postup vineyards are within easy reach — or for crossing by ferry to [Ploče](https://en.wikipedia.org/wiki/Plo%C4%8De) on the mainland.
+Trpanj is a good base for exploring the [Pelješac wine country](/europe/croatia/peljesac) inland — the Dingač and Postup vineyards are within easy reach — or for crossing by ferry to [Ploče](https://en.wikipedia.org/wiki/Plo%C4%8De) on the mainland.

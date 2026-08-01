@@ -18,3 +18,5 @@ The Jordaan is best entered without a plan. Wander south from the Noorderkerk al
 At the southern end, the Westerkerk's tower — the tallest church tower in Amsterdam — gives the neighbourhood its landmark and its orientation point. Anne Frank and Rembrandt are buried here. The church bells ring every quarter hour and can be heard across much of the western city. The tower is open to climb in summer and the view from the top across the canal ring is worth the effort.
 
 The neighbourhood has resisted full gentrification better than most: there are still brown cafes where locals drink jenever at the bar and working antique dealers mixed among the boutique shops. The Saturday Noordermarkt, around the Noorderkerk, draws the city's best Saturday farmers' market in the morning and a flea market through the afternoon.
+
+On the Jordaan's eastern edge, where it meets the canal ring, [Negen Straatjes](/europe/netherlands/amsterdam/negen_straatjes) — the Nine Streets — packs independent boutiques, vintage shops, and good cafes into a few compact blocks between the three main canals. It's a natural extension of a Jordaan walk rather than a separate trip.

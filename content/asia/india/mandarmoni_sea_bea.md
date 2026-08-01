@@ -3,6 +3,7 @@ latitude: 21.6686
 loc_type: feature
 longitude: 87.7126
 score: 6.2
+snippet: Long West Bengal beach resort known for hard-packed sand, red crabs, and weekend crowds from Kolkata.
 tags:
 - beaches
 - sight

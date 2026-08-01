@@ -1,0 +1,302 @@
+{
+  "asia/pakistan/chichawatni": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 3
+  },
+  "africa/seychelles/ladigue": {
+    "culture": 4,
+    "nature": 10,
+    "leisure": 9,
+    "adventure": 3
+  },
+  "northamerica/unitedstates/california/santaclara": {
+    "culture": 3,
+    "nature": 2,
+    "leisure": 5,
+    "adventure": 1
+  },
+  "northamerica/unitedstates/maryland/rock_hall": {
+    "culture": 3,
+    "nature": 5,
+    "leisure": 5,
+    "adventure": 1
+  },
+  "africa/nigeria/jos": {
+    "culture": 6,
+    "nature": 6,
+    "leisure": 3,
+    "adventure": 7
+  },
+  "europe/italy/tuscany/bagno_vignoni": {
+    "culture": 6,
+    "nature": 6,
+    "leisure": 8,
+    "adventure": 2
+  },
+  "northamerica/unitedstates/michigan/detroit": {
+    "culture": 7,
+    "nature": 3,
+    "leisure": 5,
+    "adventure": 3
+  },
+  "northamerica/canada/the_yukon_territory/carcross": {
+    "culture": 5,
+    "nature": 9,
+    "leisure": 3,
+    "adventure": 6
+  },
+  "asia/bangladesh/rajshahi": {
+    "culture": 6,
+    "nature": 4,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "asia/india/tamilnadu/chennai": {
+    "culture": 8,
+    "nature": 4,
+    "leisure": 6,
+    "adventure": 3
+  },
+  "europe/russia/pyatigorsk": {
+    "culture": 6,
+    "nature": 7,
+    "leisure": 5,
+    "adventure": 3
+  },
+  "europe/italy/lombardia/lagodigarda/lazise": {
+    "culture": 5,
+    "nature": 7,
+    "leisure": 8,
+    "adventure": 2
+  },
+  "europe/finland/vaasa": {
+    "culture": 4,
+    "nature": 5,
+    "leisure": 4,
+    "adventure": 2
+  },
+  "asia/laos/vangvieng": {
+    "culture": 5,
+    "nature": 9,
+    "leisure": 6,
+    "adventure": 5
+  },
+  "europe/switzerland/neuchatel": {
+    "culture": 6,
+    "nature": 7,
+    "leisure": 7,
+    "adventure": 2
+  },
+  "asia/china/guangdong/zhaoqing": {
+    "culture": 6,
+    "nature": 7,
+    "leisure": 5,
+    "adventure": 3
+  },
+  "northamerica/unitedstates/utah/moab": {
+    "culture": 4,
+    "nature": 10,
+    "leisure": 5,
+    "adventure": 7
+  },
+  "asia/thailand/cha_am": {
+    "culture": 4,
+    "nature": 6,
+    "leisure": 7,
+    "adventure": 2
+  },
+  "europe/greece/lamia": {
+    "culture": 5,
+    "nature": 5,
+    "leisure": 4,
+    "adventure": 2
+  },
+  "northamerica/saintvincentandthegrenadines/canouan": {
+    "culture": 3,
+    "nature": 8,
+    "leisure": 8,
+    "adventure": 3
+  },
+  "asia/kazakhstan/kyzylorda": {
+    "culture": 4,
+    "nature": 5,
+    "leisure": 2,
+    "adventure": 5
+  },
+  "asia/thailand/phuket/phuket_city": {
+    "culture": 6,
+    "nature": 7,
+    "leisure": 8,
+    "adventure": 2
+  },
+  "europe/germany/hamburg": {
+    "culture": 8,
+    "nature": 3,
+    "leisure": 8,
+    "adventure": 1
+  },
+  "africa/tanzania/zanzibar/stonetown": {
+    "culture": 9,
+    "nature": 7,
+    "leisure": 8,
+    "adventure": 3
+  },
+  "europe/bulgaria/varna": {
+    "culture": 6,
+    "nature": 6,
+    "leisure": 7,
+    "adventure": 2
+  },
+  "northamerica/unitedstates/florida/hollywood_beach": {
+    "culture": 3,
+    "nature": 5,
+    "leisure": 7,
+    "adventure": 1
+  },
+  "asia/india/orissa/bhubaneswar": {
+    "culture": 8,
+    "nature": 4,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "europe/france/normandybrittany/nantes": {
+    "culture": 7,
+    "nature": 4,
+    "leisure": 7,
+    "adventure": 1
+  },
+  "asia/india/orissa/chilika": {
+    "culture": 5,
+    "nature": 8,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "northamerica/costarica/tamarindo": {
+    "culture": 4,
+    "nature": 8,
+    "leisure": 8,
+    "adventure": 3
+  },
+  "asia/kazakhstan/karagandy": {
+    "culture": 4,
+    "nature": 4,
+    "leisure": 3,
+    "adventure": 4
+  },
+  "asia/india/andhrapradesh/wargal": {
+    "culture": 5,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 2
+  },
+  "europe/spain/aragon/hecho": {
+    "culture": 5,
+    "nature": 8,
+    "leisure": 4,
+    "adventure": 4
+  },
+  "asia/philippines/generalsantoscity": {
+    "culture": 5,
+    "nature": 5,
+    "leisure": 4,
+    "adventure": 3
+  },
+  "northamerica/unitedstates/michigan/apostleislands": {
+    "culture": 3,
+    "nature": 8,
+    "leisure": 5,
+    "adventure": 4
+  },
+  "africa/chad/ndjamena": {
+    "culture": 6,
+    "nature": 3,
+    "leisure": 2,
+    "adventure": 8
+  },
+  "northamerica/unitedstates/washington/okanogan": {
+    "culture": 3,
+    "nature": 7,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "asia/china/liaoning/anshan": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 3,
+    "adventure": 2
+  },
+  "europe/spain/la_mancha/mota_del_cuervo": {
+    "culture": 5,
+    "nature": 4,
+    "leisure": 4,
+    "adventure": 2
+  },
+  "europe/france/midi/languedoc/beziers": {
+    "culture": 6,
+    "nature": 5,
+    "leisure": 6,
+    "adventure": 2
+  },
+  "northamerica/unitedstates/florida/largo": {
+    "culture": 2,
+    "nature": 4,
+    "leisure": 5,
+    "adventure": 1
+  },
+  "southamerica/chile/puntaarenas": {
+    "culture": 5,
+    "nature": 9,
+    "leisure": 4,
+    "adventure": 6
+  },
+  "northamerica/unitedstates/vermont/manchester": {
+    "culture": 4,
+    "nature": 7,
+    "leisure": 7,
+    "adventure": 2
+  },
+  "asia/china/jilin/liaoyuan": {
+    "culture": 3,
+    "nature": 4,
+    "leisure": 2,
+    "adventure": 2
+  },
+  "europe/romania/tirgumures": {
+    "culture": 6,
+    "nature": 5,
+    "leisure": 4,
+    "adventure": 2
+  },
+  "europe/unitedkingdom/england/eastern_england/mersea_island_esse": {
+    "culture": 3,
+    "nature": 6,
+    "leisure": 5,
+    "adventure": 2
+  },
+  "asia/india/maharashtra/jalgaon": {
+    "culture": 5,
+    "nature": 4,
+    "leisure": 3,
+    "adventure": 3
+  },
+  "europe/spain/spanishcostas/alicante": {
+    "culture": 6,
+    "nature": 6,
+    "leisure": 8,
+    "adventure": 2
+  },
+  "southamerica/argentina/trelew": {
+    "culture": 4,
+    "nature": 7,
+    "leisure": 3,
+    "adventure": 5
+  },
+  "asia/thailand/nonthaburi_2": {
+    "culture": 4,
+    "nature": 3,
+    "leisure": 5,
+    "adventure": 1
+  }
+}

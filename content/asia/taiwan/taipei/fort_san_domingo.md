@@ -1,12 +1,16 @@
 ---
 address: 1 Lane 28, Zhongzheng Road, Tamsui District, New Taipei
+image: fort_san_domingo.jpg
+image_attribution: Ralff Nestor Nacor
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:Fort_Santo_Domingo,_New_Taipei,_Jan_2025_(3).jpg
 latitude: 25.1756
 longitude: 121.4329
 score: 7.8
 snippet: Colonial-era fortress in Tamsui with Spanish, Dutch, and British layers
 tags:
+- things_to_do
 - sight
-- day_trips
 title: Fort San Domingo
 type: poi
 ---

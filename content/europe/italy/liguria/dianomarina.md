@@ -12,6 +12,8 @@ longitude: 8.080364
 score: 8.0
 snippet: Riviera di Ponente seaside town with a long sandy beach, mild microclimate,
   and Roman-era local finds.
+tags:
+- italianriviera
 title: Diano Marina
 type: location
 ---

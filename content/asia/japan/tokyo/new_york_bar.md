@@ -8,6 +8,7 @@ snippet: The Tokyo bar made famous by Lost in Translation, 52 floors above Shinj
 tags:
 - bars_and_cafes
 - bar
+- shinjuku
 title: New York Bar
 type: poi
 url: www.hyatt.com

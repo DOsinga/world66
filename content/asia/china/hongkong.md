@@ -12,11 +12,20 @@ image_source: https://commons.wikimedia.org/wiki/File:Hong_Kong_Harbour_Night_20
 latitude: 22.3193
 loc_type: city
 longitude: 114.1694
+quick_facts:
+  Octopus Card: Even buys snacks
+  Population: 7.5 million
+  Protected Land: 40% country parks
+  Skyscrapers: 500+, most on Earth
 score: 9.5
 snippet: Vertical harbour city where dense towers, dim sum, and ferries frame Hong
   Kong Island and Kowloon
 sources:
 - https://en.wikivoyage.org/wiki/Hong_Kong
+tip: Get an Octopus card — it pays for the metro, ferries, buses and even convenience
+  stores. The Star Ferry across the harbour costs cents and beats any paid cruise.
+  Ride the world's longest outdoor escalator up through Central, and take the 'ding
+  ding' tram along Hong Kong Island. Dodge the Peak Tram queue by taking a bus up.
 title: Hong Kong
 type: location
 ---
@@ -27,6 +36,6 @@ The territory divides into four main areas. [Hong Kong Island](/asia/china/hongk
 
 What catches most first-timers off guard is the nature. Nearly 70 percent of Hong Kong's land area is country park or undeveloped. You can be on [Dragon's Back](/asia/china/hongkong/dragons_back_trail) ridge with panoramic views over the South China Sea in twenty minutes from Central. The contrast — skyscraper, then hillside, then sea — is one of the world's great urban landscapes.
 
-Food is the other great reason to come. Hong Kong is arguably the best place in the world to eat Chinese food, and the competition between restaurants is fierce. Cantonese [dim sum](/asia/china/hongkong/dim_sum_breakfast), [wonton noodle soup](/asia/china/hongkong/wonton_noodle_soup), Chiu Chow braised goose, clay-pot rice, roast goose from Yung Kee — these are not tourist concessions but serious institutions that locals argue about with genuine passion. For live seafood, [Lei Yue Mun](/asia/china/hongkong/tai_chi_lei_yue_mun) on the eastern harbour shore is where you pick your fish from tanks and have it cooked to order.
+Food is the other great reason to come. Hong Kong is arguably the best place in the world to eat Chinese food, and the competition between restaurants is fierce. Cantonese [dim sum](/asia/china/hongkong/dim_sum_breakfast), wonton noodle soup, Chiu Chow braised goose, clay-pot rice, roast goose from Yung Kee — these are not tourist concessions but serious institutions that locals argue about with genuine passion. For live seafood, [Lei Yue Mun](/asia/china/hongkong/tai_chi_lei_yue_mun) on the eastern harbour shore is where you pick your fish from tanks and have it cooked to order.
 
 Getting around is easy. The MTR (Mass Transit Railway) is fast, cheap, and air-conditioned. The [Star Ferry](/asia/china/hongkong/star_ferry) crossing between Tsim Sha Tsui and Central costs almost nothing and remains one of the best views in Asia. Octopus card covers buses, trams, ferries, and the MTR — pick one up at any MTR station. At 8pm, the [Symphony of Lights](/asia/china/hongkong/symphony_of_lights) turns the harbour skyline into a choreographed light show visible from the Tsim Sha Tsui waterfront.

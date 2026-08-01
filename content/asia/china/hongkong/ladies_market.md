@@ -5,9 +5,9 @@ score: 5.6
 snippet: Mong Kok's street market for cheap clothes, accessories, and souvenirs
 tags:
 - things_to_do
-- kowloon
 - shopping
 - market
+- mong_kok
 title: Ladies' Market
 type: poi
 ---

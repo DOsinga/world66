@@ -1,51 +1,16 @@
 ---
-title: "Day Trips"
+linked_locations:
+- northamerica/unitedstates/louisiana/batonrouge
+- northamerica/unitedstates/louisiana/st_francisville
+- northamerica/unitedstates/louisiana/barataria_preserve
+title: Day Trips
 type: section
-address: "Baton Rouge Area Chamber of Commerce, 564 Laurel Street, Baton Rouge LA, 70801"
-email: "info@brac.org"
-phone: "225-381-7125"
-url: "www.brac.org"
 ---
 
-If you're looking for a change of pace for a day during your New Orleans vacation, a side trip from The Big Easy is your best bet. Many visitors get so caught up in exploring the most popular attractions, such as the French Quarter, they forget that the entire state of Louisiana has so much history and beauty to offer. Just a few excellent New Orleans excursions include: Cajun Country, Oak Alley, and Baton Rouge -- each with it's own mystique and distinctive attractions. Continue reading through the listings to learn about more side trips from New Orleans.
+Louisiana rewards exploration beyond the French Quarter. Within a two-hour drive of New Orleans, you can reach two very different places that show a side of the state the city doesn't.
 
-**Contributors**
-June 07, 2008
+[Baton Rouge](/northamerica/unitedstates/louisiana/batonrouge), the state capital, is 80 miles upriver on I-10 — about 90 minutes each way. The 34-storey Art Deco New State Capitol, built under Governor Huey Long and still bearing the bullet holes from his 1935 assassination, is the tallest state capitol in the US and worth the detour alone. The Old State Capitol, the USS Kidd museum ship on the riverfront, and the LSU Rural Life Museum fill out a full day.
 
-### [Baton Rouge](/northamerica/unitedstates/louisiana/neworleans/day_trips/baton_rouge)
+[St. Francisville](/northamerica/unitedstates/louisiana/st_francisville), 110 miles northwest, is a small antebellum town with an extraordinary concentration of plantation houses. Rosedown Plantation has formal gardens considered among the finest surviving nineteenth-century examples in the South. Oakley House is where Audubon painted many of the birds in *Birds of America*. The Myrtles, famous as one of America's most haunted houses, runs evening ghost tours worth timing your visit around. Allow a full day if you plan to tour more than one house.
 
-If you can manage it, please do visit the State Capitol -- Baton Rouge, during your visit to New Orleans. Located roughly 80 miles northwest of New Orleans, Baton Rouge features beautiful state capitol grounds and an educational planetarium to explore, the Louisiana State Museum, the *USS Kidd*, the Old State Capitol, the Shaw Center for the Arts, Rural Life Museum and Windrush Gardens, and much more. If you're planning an overnight visit, the Marriot Baton Rouge (www.marriott.com) and Embassy Suites (www.embassysuites.com) are excellent places to stay.
-
-
-
-tel: 225-381-7125
-
-url: [www.brac.org](http://www.brac.org)
-
-address: Baton Rouge Area Chamber of Commerce, 564 Laurel Street, Baton Rouge LA, 70801
-
-email: info@brac.org
-
-### [St. Francisville](/northamerica/unitedstates/louisiana/neworleans/day_trips/st_francisville)
-
-Located in St. Francisville, roughly 25 miles north of Baton Rouge and *roughly* 110 miles from New Orleans, is a collection of plantation homes that must be seen to be believed. Some visitors spend the night here and others come here for the day to explore the Rosedown Plantation and Gardens, the Myrtles (also home to a B&B), Oakley House and Audubon State Historic Site and Butler Greenwood Plantation. Antique shopping is popular here as well as a number of historic walking tours. If you want to check out something kind of weird (and maybe a little spooky), the Myrtles is widely billed as one of the most haunted houses in America — the evening ghost tour is worth the detour.
-
-
-
-tel: 225-635-6717
-
-url: [www.stfrancisvillechamber.com](http://www.stfrancisvillechamber.com)
-
-address: St. Francisville Chamber of Commerce, West Feliciana Parish, LA
-
-### [Destrehan Plantation](/northamerica/unitedstates/louisiana/neworleans/day_trips/destrehan_plantati)
-
-Located in the lower Mississippi Valley and around 23 miles from New Orleans is the 1787 plantation house of Destrehan Plantation. In addition to lively 45-minue tours of the plantation house, the plantation also hosts period demonstrations and a fall festival featuring food, music, and crafts during the month of November. In addition to the main house and the immaculate grounds, visitors are also free to explore several smaller structures onsite. Hours: 9:00 a.m.-4:00 p.m. daily.
-
-
-
-tel: 985-764-9315
-
-url: [www.destrehanplantation.org](http://www.destrehanplantation.org)
-
-address: 13034 River Road, Destrehan LA
+Closer to the city, [Destrehan Plantation](/northamerica/unitedstates/louisiana/neworleans/destrehan_plantati) sits just 23 miles upriver on River Road — a half-day excursion to the oldest documented plantation house in the lower Mississippi Valley.

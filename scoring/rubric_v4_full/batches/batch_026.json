@@ -1,0 +1,583 @@
+[
+  {
+    "embedding_text": "Gaoua, Burkina Faso, Africa",
+    "latitude": 10.3303,
+    "longitude": -3.1796,
+    "name": "Gaoua",
+    "parent_chain": [
+      "Africa",
+      "Burkina Faso"
+    ],
+    "path": "africa/burkinafaso/gaoua"
+  },
+  {
+    "embedding_text": "Ghat, Libya, Africa",
+    "latitude": 24.9626,
+    "longitude": 10.1797,
+    "name": "Ghat",
+    "parent_chain": [
+      "Africa",
+      "Libya"
+    ],
+    "path": "africa/libya/ghat"
+  },
+  {
+    "embedding_text": "Abydos, Egypt, Africa",
+    "latitude": 26.185,
+    "longitude": 31.9189,
+    "name": "Abydos",
+    "parent_chain": [
+      "Africa",
+      "Egypt"
+    ],
+    "path": "africa/egypt/abydos"
+  },
+  {
+    "embedding_text": "Doncaster, Leeds, Sheffield and Yorkshire, England, United Kingdom, Europe",
+    "latitude": 53.5228,
+    "longitude": -1.1335,
+    "name": "Doncaster",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "Leeds, Sheffield and Yorkshire"
+    ],
+    "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/doncaster"
+  },
+  {
+    "embedding_text": "Blarney, Ireland, Europe",
+    "latitude": 51.932463,
+    "longitude": -8.568097,
+    "name": "Blarney",
+    "parent_chain": [
+      "Europe",
+      "Ireland"
+    ],
+    "path": "europe/ireland/blarney"
+  },
+  {
+    "embedding_text": "Cur\u00fa National Wildlife Refuge, Costa Rica, North America",
+    "latitude": 9.7833,
+    "longitude": -84.9167,
+    "name": "Cur\u00fa National Wildlife Refuge",
+    "parent_chain": [
+      "North America",
+      "Costa Rica"
+    ],
+    "path": "northamerica/costarica/cur_national_par"
+  },
+  {
+    "embedding_text": "Pankisi Gorge, Georgia, Europe",
+    "latitude": 42.1343,
+    "longitude": 45.2894,
+    "name": "Pankisi Gorge",
+    "parent_chain": [
+      "Europe",
+      "Georgia"
+    ],
+    "path": "europe/georgia/pankisi"
+  },
+  {
+    "embedding_text": "Dun Laoghaire, Ireland, Europe",
+    "latitude": 53.2929,
+    "longitude": -6.136,
+    "name": "Dun Laoghaire",
+    "parent_chain": [
+      "Europe",
+      "Ireland"
+    ],
+    "path": "europe/ireland/dun_laoghaire"
+  },
+  {
+    "embedding_text": "San Mart\u00edn de los Andes, Argentina, South America",
+    "latitude": -40.1569,
+    "longitude": -71.3526,
+    "name": "San Mart\u00edn de los Andes",
+    "parent_chain": [
+      "South America",
+      "Argentina"
+    ],
+    "path": "southamerica/argentina/sanmartindelosandes"
+  },
+  {
+    "embedding_text": "Qaanaaq, Greenland, North America",
+    "latitude": 77.4686,
+    "longitude": -69.2223,
+    "name": "Qaanaaq",
+    "parent_chain": [
+      "North America",
+      "Greenland"
+    ],
+    "path": "northamerica/greenland/qaanaaq"
+  },
+  {
+    "embedding_text": "Boca Raton, Florida, United States, North America",
+    "latitude": 26.3778,
+    "longitude": -80.1139,
+    "name": "Boca Raton",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Florida"
+    ],
+    "path": "northamerica/unitedstates/florida/bocaraton"
+  },
+  {
+    "embedding_text": "Dededo, Guam, Australia, Pacific & Antarctica",
+    "latitude": 13.519054,
+    "longitude": 144.837839,
+    "name": "Dededo",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Guam"
+    ],
+    "path": "australiaandpacific/guam/dededo"
+  },
+  {
+    "embedding_text": "Train des Pignes, Southern Alps, Midi, France, Europe",
+    "latitude": 43.530965,
+    "longitude": 6.467668,
+    "name": "Train des Pignes",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Midi",
+      "Southern Alps"
+    ],
+    "path": "europe/france/midi/southern_alps/train_des_pignes"
+  },
+  {
+    "embedding_text": "V\u00f5su, Estonia, Europe",
+    "latitude": 59.5765,
+    "longitude": 25.9554,
+    "name": "V\u00f5su",
+    "parent_chain": [
+      "Europe",
+      "Estonia"
+    ],
+    "path": "europe/estonia/vsu"
+  },
+  {
+    "embedding_text": "Arlington, Virginia, United States, North America",
+    "latitude": 38.8816,
+    "longitude": -77.091,
+    "name": "Arlington",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Virginia"
+    ],
+    "path": "northamerica/unitedstates/virginia/arlington"
+  },
+  {
+    "embedding_text": "Nexo, Denmark, Europe",
+    "latitude": 55.065014,
+    "longitude": 15.130727,
+    "name": "Nexo",
+    "parent_chain": [
+      "Europe",
+      "Denmark"
+    ],
+    "path": "europe/denmark/nexo"
+  },
+  {
+    "embedding_text": "Princetown, Dartmoor, Devon, Bristol, Plymouth and the South-West, England, United Kingdom, Europe",
+    "latitude": 50.544391,
+    "longitude": -3.991498,
+    "name": "Princetown",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "Bristol, Plymouth and the South-West",
+      "Devon",
+      "Dartmoor"
+    ],
+    "path": "europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/dartmoor/princetown"
+  },
+  {
+    "embedding_text": "Filadelfia, Paraguay, South America",
+    "latitude": -22.35254,
+    "longitude": -60.035171,
+    "name": "Filadelfia",
+    "parent_chain": [
+      "South America",
+      "Paraguay"
+    ],
+    "path": "southamerica/paraguay/filadelfia"
+  },
+  {
+    "embedding_text": "Oxford, South East, England, United Kingdom, Europe",
+    "latitude": 51.752013,
+    "longitude": -1.25785,
+    "name": "Oxford",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "South East"
+    ],
+    "path": "europe/unitedkingdom/england/south_east/oxford"
+  },
+  {
+    "embedding_text": "Palmerston North, New Zealand, Australia, Pacific & Antarctica",
+    "latitude": -40.356317,
+    "longitude": 175.611239,
+    "name": "Palmerston North",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "New Zealand"
+    ],
+    "path": "australiaandpacific/newzealand/palmerstonnorth"
+  },
+  {
+    "embedding_text": "Sal\u00f2, Lago di Garda, Lombardia, Italy, Europe",
+    "latitude": 45.605677,
+    "longitude": 10.520069,
+    "name": "Sal\u00f2",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Lombardia",
+      "Lago di Garda"
+    ],
+    "path": "europe/italy/lombardia/lagodigarda/salo"
+  },
+  {
+    "embedding_text": "Foz do Igua\u00e7u, Brazil, South America",
+    "latitude": -25.5398,
+    "longitude": -54.5818,
+    "name": "Foz do Igua\u00e7u",
+    "parent_chain": [
+      "South America",
+      "Brazil"
+    ],
+    "path": "southamerica/brazil/fozdoiguacu"
+  },
+  {
+    "embedding_text": "Mooresville, North Carolina, United States, North America",
+    "latitude": 35.58486,
+    "longitude": -80.810072,
+    "name": "Mooresville",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "North Carolina"
+    ],
+    "path": "northamerica/unitedstates/northcarolina/mooresville"
+  },
+  {
+    "embedding_text": "Warrington, Manchester, Liverpool and North West, England, United Kingdom, Europe",
+    "latitude": 53.401858,
+    "longitude": -2.568022,
+    "name": "Warrington",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "Manchester, Liverpool and North West"
+    ],
+    "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/warrington"
+  },
+  {
+    "embedding_text": "Mount Rushmore, South Dakota, United States, North America",
+    "latitude": 43.879403,
+    "longitude": -103.459805,
+    "name": "Mount Rushmore",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "South Dakota"
+    ],
+    "path": "northamerica/unitedstates/southdakota/mountrushmore"
+  },
+  {
+    "embedding_text": "Cerveteri, Lazio, Italy, Europe",
+    "latitude": 41.9983,
+    "longitude": 12.0992,
+    "name": "Cerveteri",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Lazio"
+    ],
+    "path": "europe/italy/lazio/cerveteri"
+  },
+  {
+    "embedding_text": "Kruger National Park, South Africa, Africa",
+    "latitude": -23.9884,
+    "longitude": 31.5547,
+    "name": "Kruger National Park",
+    "parent_chain": [
+      "Africa",
+      "South Africa"
+    ],
+    "path": "africa/southafrica/krugernationalpark"
+  },
+  {
+    "embedding_text": "Xiis, Somaliland, Africa",
+    "latitude": 10.896318,
+    "longitude": 46.919332,
+    "name": "Xiis",
+    "parent_chain": [
+      "Africa",
+      "Somaliland"
+    ],
+    "path": "africa/somaliland/xiis"
+  },
+  {
+    "embedding_text": "Helmshore, Manchester, Liverpool and North West, England, United Kingdom, Europe",
+    "latitude": 53.68878,
+    "longitude": -2.328581,
+    "name": "Helmshore",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "Manchester, Liverpool and North West"
+    ],
+    "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/helmshore"
+  },
+  {
+    "embedding_text": "Karakol, Kyrgyzstan, Asia",
+    "latitude": 42.491744,
+    "longitude": 78.396857,
+    "name": "Karakol",
+    "parent_chain": [
+      "Asia",
+      "Kyrgyzstan"
+    ],
+    "path": "asia/kyrgyzstan/karakol"
+  },
+  {
+    "embedding_text": "Speyer, Rhineland-Palatinate, Germany, Europe",
+    "latitude": 49.316555,
+    "longitude": 8.433615,
+    "name": "Speyer",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Rhineland-Palatinate"
+    ],
+    "path": "europe/germany/rhinelandpalatinate/speyer"
+  },
+  {
+    "embedding_text": "Ramallah, Palestinian Authority, Asia",
+    "latitude": 31.9038,
+    "longitude": 35.2034,
+    "name": "Ramallah",
+    "parent_chain": [
+      "Asia",
+      "Palestinian Authority"
+    ],
+    "path": "asia/palestinianauthority/ramallah"
+  },
+  {
+    "embedding_text": "Dandong, Liaoning Province, China, Asia",
+    "latitude": 40.1167,
+    "longitude": 124.3833,
+    "name": "Dandong",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Liaoning Province"
+    ],
+    "path": "asia/china/liaoning/dandong"
+  },
+  {
+    "embedding_text": "Gardenstown, Scotland, United Kingdom, Europe",
+    "latitude": 57.6714,
+    "longitude": -2.5393,
+    "name": "Gardenstown",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "Scotland"
+    ],
+    "path": "europe/unitedkingdom/scotland/gardenstown"
+  },
+  {
+    "embedding_text": "Qasr Libya, Jebel Akhdar, Libya, Africa",
+    "latitude": 32.6144,
+    "longitude": 21.3995,
+    "name": "Qasr Libya",
+    "parent_chain": [
+      "Africa",
+      "Libya",
+      "Jebel Akhdar"
+    ],
+    "path": "africa/libya/jebelakhdar/qasr_libya"
+  },
+  {
+    "embedding_text": "Lublin, Poland, Europe",
+    "latitude": 51.250559,
+    "longitude": 22.570102,
+    "name": "Lublin",
+    "parent_chain": [
+      "Europe",
+      "Poland"
+    ],
+    "path": "europe/poland/lublin"
+  },
+  {
+    "embedding_text": "Tsumeb, Gateway to the North and Etosha, Namibia, Africa",
+    "latitude": -19.2512,
+    "longitude": 17.7178,
+    "name": "Tsumeb, Gateway to the North and Etosha",
+    "parent_chain": [
+      "Africa",
+      "Namibia"
+    ],
+    "path": "africa/namibia/tsumeb_gateway_to_the_north_and_etosha"
+  },
+  {
+    "embedding_text": "Ruinen, Netherlands, Europe",
+    "latitude": 52.764154,
+    "longitude": 6.360008,
+    "name": "Ruinen",
+    "parent_chain": [
+      "Europe",
+      "Netherlands"
+    ],
+    "path": "europe/netherlands/ruinen"
+  },
+  {
+    "embedding_text": "Maputo, Mozambique, Africa",
+    "latitude": -25.966213,
+    "longitude": 32.56745,
+    "name": "Maputo",
+    "parent_chain": [
+      "Africa",
+      "Mozambique"
+    ],
+    "path": "africa/mozambique/maputo"
+  },
+  {
+    "embedding_text": "Stillwater, Oklahoma, United States, North America",
+    "latitude": 36.116,
+    "longitude": -97.059,
+    "name": "Stillwater",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Oklahoma"
+    ],
+    "path": "northamerica/unitedstates/oklahoma/stillwater"
+  },
+  {
+    "embedding_text": "San Ignacio, Belize, North America",
+    "latitude": 17.1562,
+    "longitude": -89.0706,
+    "name": "San Ignacio",
+    "parent_chain": [
+      "North America",
+      "Belize"
+    ],
+    "path": "northamerica/belize/sanignacio"
+  },
+  {
+    "embedding_text": "Recklinghausen, North Rhine-Westphalia, Germany, Europe",
+    "latitude": 51.614382,
+    "longitude": 7.197855,
+    "name": "Recklinghausen",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "North Rhine-Westphalia"
+    ],
+    "path": "europe/germany/northrhinewestphalia/recklinghausen"
+  },
+  {
+    "embedding_text": "Cabo Rojo, Puerto Rico, The Caribbean, North America",
+    "latitude": 18.0868,
+    "longitude": -67.1497,
+    "name": "Cabo Rojo",
+    "parent_chain": [
+      "North America",
+      "The Caribbean",
+      "Puerto Rico"
+    ],
+    "path": "northamerica/thecaribbean/puertorico/caborojo"
+  },
+  {
+    "embedding_text": "Vengurla, Maharashtra, India, Asia",
+    "latitude": 15.862,
+    "longitude": 73.6322,
+    "name": "Vengurla",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Maharashtra"
+    ],
+    "path": "asia/india/maharashtra/vengurla"
+  },
+  {
+    "embedding_text": "Grand Erg Oriental, Algeria, Africa",
+    "latitude": 31.281471,
+    "longitude": 7.906614,
+    "name": "Grand Erg Oriental",
+    "parent_chain": [
+      "Africa",
+      "Algeria"
+    ],
+    "path": "africa/algeria/granderg"
+  },
+  {
+    "embedding_text": "Magnetic Island, Queensland, Australia, Australia, Pacific & Antarctica",
+    "latitude": -19.1421,
+    "longitude": 146.8335,
+    "name": "Magnetic Island",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "Queensland"
+    ],
+    "path": "australiaandpacific/australia/queensland/magnetic_island"
+  },
+  {
+    "embedding_text": "Sundsvall, Sweden, Europe",
+    "latitude": 62.390755,
+    "longitude": 17.307102,
+    "name": "Sundsvall",
+    "parent_chain": [
+      "Europe",
+      "Sweden"
+    ],
+    "path": "europe/sweden/sundsvall"
+  },
+  {
+    "embedding_text": "Mons, Belgium, Europe",
+    "latitude": 50.455,
+    "longitude": 3.952,
+    "name": "Mons",
+    "parent_chain": [
+      "Europe",
+      "Belgium"
+    ],
+    "path": "europe/belgium/mons"
+  },
+  {
+    "embedding_text": "Linz, Austria, Europe",
+    "latitude": 48.3069,
+    "longitude": 14.2858,
+    "name": "Linz",
+    "parent_chain": [
+      "Europe",
+      "Austria"
+    ],
+    "path": "europe/austria/linz"
+  },
+  {
+    "embedding_text": "Pingxiang, Jiangxi, China, Asia",
+    "latitude": 27.63,
+    "longitude": 113.85,
+    "name": "Pingxiang",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Jiangxi"
+    ],
+    "path": "asia/china/jiangxi/pingxiang"
+  }
+]

@@ -1,11 +1,11 @@
 ---
-tags:
-- day_trips
-title: Pitfour Observatory
-type: poi
 latitude: 57.5282
 longitude: -1.9539
 score: 5.9
+tags:
+- things_to_do
+title: Pitfour Observatory
+type: poi
 ---
 
 Pitfour Observatory was built in 1845 by Admiral Sir George Ferguson, fifth Laird of Pitfour, so that he and his guests could watch horse racing from an elevated vantage point. The Laird had constructed a four-and-a-half-mile private racecourse on his estate — exactly 50 feet wide and levelled using rock from local quarries — and nicknamed it the “Ascot of the North.” The observatory gave spectators a panoramic view of the whole course.

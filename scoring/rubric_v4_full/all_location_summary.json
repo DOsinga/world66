@@ -1,0 +1,41 @@
+{
+  "correlation": {
+    "adventure": {
+      "adventure": 1.0,
+      "culture": -0.12,
+      "leisure": -0.459,
+      "nature": 0.546
+    },
+    "culture": {
+      "adventure": -0.12,
+      "culture": 1.0,
+      "leisure": 0.206,
+      "nature": -0.203
+    },
+    "leisure": {
+      "adventure": -0.459,
+      "culture": 0.206,
+      "leisure": 1.0,
+      "nature": 0.232
+    },
+    "nature": {
+      "adventure": 0.546,
+      "culture": -0.203,
+      "leisure": 0.232,
+      "nature": 1.0
+    }
+  },
+  "count": 7289,
+  "means": {
+    "adventure": 3.037,
+    "culture": 4.963,
+    "leisure": 4.686,
+    "nature": 5.507
+  },
+  "std": {
+    "adventure": 1.667,
+    "culture": 1.644,
+    "leisure": 1.75,
+    "nature": 1.886
+  }
+}

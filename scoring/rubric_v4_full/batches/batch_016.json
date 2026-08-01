@@ -1,0 +1,591 @@
+[
+  {
+    "embedding_text": "Rolla, Missouri, United States, North America",
+    "latitude": 37.950932,
+    "longitude": -91.770808,
+    "name": "Rolla",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Missouri"
+    ],
+    "path": "northamerica/unitedstates/missouri/rolla"
+  },
+  {
+    "embedding_text": "Paro, Bhutan, Asia",
+    "latitude": 27.464637,
+    "longitude": 89.318341,
+    "name": "Paro",
+    "parent_chain": [
+      "Asia",
+      "Bhutan"
+    ],
+    "path": "asia/bhutan/paro"
+  },
+  {
+    "embedding_text": "Bagan, Myanmar, Asia",
+    "latitude": 21.1717,
+    "longitude": 94.8585,
+    "name": "Bagan",
+    "parent_chain": [
+      "Asia",
+      "Myanmar"
+    ],
+    "path": "asia/myanmar/bagan"
+  },
+  {
+    "embedding_text": "La Coru\u00f1a, Northern Spain, Spain, Europe",
+    "latitude": 43.37097,
+    "longitude": -8.395943,
+    "name": "La Coru\u00f1a",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Northern Spain"
+    ],
+    "path": "europe/spain/northernspain/lacorua"
+  },
+  {
+    "embedding_text": "Dokkum, Friesland, Netherlands, Europe",
+    "latitude": 53.324351,
+    "longitude": 5.999231,
+    "name": "Dokkum",
+    "parent_chain": [
+      "Europe",
+      "Netherlands",
+      "Friesland"
+    ],
+    "path": "europe/netherlands/friesland/dokkum"
+  },
+  {
+    "embedding_text": "Isla Mujeres, Mexico, North America",
+    "latitude": 21.237191,
+    "longitude": -86.735,
+    "name": "Isla Mujeres",
+    "parent_chain": [
+      "North America",
+      "Mexico"
+    ],
+    "path": "northamerica/mexico/islamujeres"
+  },
+  {
+    "embedding_text": "Urbe, Riviera delle Palme, Italian Riviera, Liguria, Italy, Europe",
+    "latitude": 44.477256,
+    "longitude": 8.631393,
+    "name": "Urbe",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Liguria",
+      "Italian Riviera",
+      "Riviera delle Palme"
+    ],
+    "path": "europe/italy/liguria/italianriviera/rivieradellepalme/urbe"
+  },
+  {
+    "embedding_text": "Ngapali, Myanmar, Asia",
+    "latitude": 18.4333,
+    "longitude": 94.3167,
+    "name": "Ngapali",
+    "parent_chain": [
+      "Asia",
+      "Myanmar"
+    ],
+    "path": "asia/myanmar/ngapali"
+  },
+  {
+    "embedding_text": "Sadarak, Nakhchivan, Azerbaijan, Europe",
+    "latitude": 39.672741,
+    "longitude": 44.913874,
+    "name": "Sadarak",
+    "parent_chain": [
+      "Europe",
+      "Azerbaijan",
+      "Nakhchivan"
+    ],
+    "path": "europe/azerbaijan/naxcivan/sadarak"
+  },
+  {
+    "embedding_text": "McKinney, Texas, United States, North America",
+    "latitude": 33.19765,
+    "longitude": -96.615447,
+    "name": "McKinney",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Texas"
+    ],
+    "path": "northamerica/unitedstates/texas/mckinney"
+  },
+  {
+    "embedding_text": "Sint-Niklaas, Belgium, Europe",
+    "latitude": 51.164668,
+    "longitude": 4.139512,
+    "name": "Sint-Niklaas",
+    "parent_chain": [
+      "Europe",
+      "Belgium"
+    ],
+    "path": "europe/belgium/sintniklaas"
+  },
+  {
+    "embedding_text": "Certaldo, Empolese Valdelsa, Florence Province, Tuscany, Italy, Europe",
+    "latitude": 43.547704,
+    "longitude": 11.040954,
+    "name": "Certaldo",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Tuscany",
+      "Florence Province",
+      "Empolese Valdelsa"
+    ],
+    "path": "europe/italy/tuscany/florenceprovince/empolesevaldelsa/certaldo"
+  },
+  {
+    "embedding_text": "Dir\u2019iyah, Saudi Arabia, Asia",
+    "latitude": 24.732996,
+    "longitude": 46.573384,
+    "name": "Dir\u2019iyah",
+    "parent_chain": [
+      "Asia",
+      "Saudi Arabia"
+    ],
+    "path": "asia/saudiarabia/diriyah"
+  },
+  {
+    "embedding_text": "Phong Nha - Ke Bang, Vietnam, Asia",
+    "latitude": 17.5553,
+    "longitude": 106.1123,
+    "name": "Phong Nha - Ke Bang",
+    "parent_chain": [
+      "Asia",
+      "Vietnam"
+    ],
+    "path": "asia/vietnam/phong_nha__ke_ban"
+  },
+  {
+    "embedding_text": "Xingyi, Guizhou Province, China, Asia",
+    "latitude": 25.091,
+    "longitude": 104.9011,
+    "name": "Xingyi",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Guizhou Province"
+    ],
+    "path": "asia/china/guizhou/xingyi"
+  },
+  {
+    "embedding_text": "Kayseri, Turkey, Asia",
+    "latitude": 38.721901,
+    "longitude": 35.487321,
+    "name": "Kayseri",
+    "parent_chain": [
+      "Asia",
+      "Turkey"
+    ],
+    "path": "asia/turkey/kayseri"
+  },
+  {
+    "embedding_text": "Cedars of Lebanon, Lebanon, Asia",
+    "latitude": 34.2467,
+    "longitude": 36.0631,
+    "name": "Cedars of Lebanon",
+    "parent_chain": [
+      "Asia",
+      "Lebanon"
+    ],
+    "path": "asia/lebanon/cedarsoflebanon"
+  },
+  {
+    "embedding_text": "Volterra, Tuscany, Italy, Europe",
+    "latitude": 43.4003,
+    "longitude": 10.86,
+    "name": "Volterra",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Tuscany"
+    ],
+    "path": "europe/italy/tuscany/volterra"
+  },
+  {
+    "embedding_text": "Bentonville, Arkansas, United States, North America",
+    "latitude": 36.372861,
+    "longitude": -94.208787,
+    "name": "Bentonville",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Arkansas"
+    ],
+    "path": "northamerica/unitedstates/arkansas/bentonville"
+  },
+  {
+    "embedding_text": "Greenville, Liberia, Africa",
+    "latitude": 5.01111,
+    "longitude": -9.03889,
+    "name": "Greenville",
+    "parent_chain": [
+      "Africa",
+      "Liberia"
+    ],
+    "path": "africa/liberia/greenville"
+  },
+  {
+    "embedding_text": "Derby, Leicester, Nottingham and East Midlands, England, United Kingdom, Europe",
+    "latitude": 52.923301,
+    "longitude": -1.476549,
+    "name": "Derby",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "Leicester, Nottingham and East Midlands"
+    ],
+    "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/derby"
+  },
+  {
+    "embedding_text": "Jinja, Uganda, Africa",
+    "latitude": 0.4244,
+    "longitude": 33.2041,
+    "name": "Jinja",
+    "parent_chain": [
+      "Africa",
+      "Uganda"
+    ],
+    "path": "africa/uganda/jinja"
+  },
+  {
+    "embedding_text": "State College, Pennsylvania, United States, North America",
+    "latitude": 40.79445,
+    "longitude": -77.861639,
+    "name": "State College",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Pennsylvania"
+    ],
+    "path": "northamerica/unitedstates/pennsylvania/state_college"
+  },
+  {
+    "embedding_text": "Waynoka, Oklahoma, United States, North America",
+    "latitude": 36.582256,
+    "longitude": -98.879814,
+    "name": "Waynoka",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Oklahoma"
+    ],
+    "path": "northamerica/unitedstates/oklahoma/waynoka"
+  },
+  {
+    "embedding_text": "Langkawi, Malaysia, Asia",
+    "latitude": 6.370039,
+    "longitude": 99.792863,
+    "name": "Langkawi",
+    "parent_chain": [
+      "Asia",
+      "Malaysia"
+    ],
+    "path": "asia/malaysia/langkawi"
+  },
+  {
+    "embedding_text": "Taunggyi, Myanmar, Asia",
+    "latitude": 20.787011,
+    "longitude": 97.038726,
+    "name": "Taunggyi",
+    "parent_chain": [
+      "Asia",
+      "Myanmar"
+    ],
+    "path": "asia/myanmar/taunggyi"
+  },
+  {
+    "embedding_text": "Madeira, Portugal, Europe",
+    "latitude": 32.75175,
+    "longitude": -16.981749,
+    "name": "Madeira",
+    "parent_chain": [
+      "Europe",
+      "Portugal"
+    ],
+    "path": "europe/portugal/madeira"
+  },
+  {
+    "embedding_text": "Glendale, Skye, Scotland, United Kingdom, Europe",
+    "latitude": 57.448286,
+    "longitude": -6.709385,
+    "name": "Glendale",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "Scotland",
+      "Skye"
+    ],
+    "path": "europe/unitedkingdom/scotland/skye/glendale"
+  },
+  {
+    "embedding_text": "Igaliku, Greenland, North America",
+    "latitude": 60.9891,
+    "longitude": -45.421,
+    "name": "Igaliku",
+    "parent_chain": [
+      "North America",
+      "Greenland"
+    ],
+    "path": "northamerica/greenland/igaliku"
+  },
+  {
+    "embedding_text": "Santa Cruz, California, United States, North America",
+    "latitude": 36.974363,
+    "longitude": -122.029467,
+    "name": "Santa Cruz",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "California"
+    ],
+    "path": "northamerica/unitedstates/california/santa_cruz"
+  },
+  {
+    "embedding_text": "Magdeburg, Saxony-Anhalt, Germany, Europe",
+    "latitude": 52.131478,
+    "longitude": 11.640079,
+    "name": "Magdeburg",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Saxony-Anhalt"
+    ],
+    "path": "europe/germany/saxonyanhalt/magdeburg"
+  },
+  {
+    "embedding_text": "Bequia, Saint Vincent and the Grenadines, North America",
+    "latitude": 13.0087,
+    "longitude": -61.2327,
+    "name": "Bequia",
+    "parent_chain": [
+      "North America",
+      "Saint Vincent and the Grenadines"
+    ],
+    "path": "northamerica/saintvincentandthegrenadines/bequia"
+  },
+  {
+    "embedding_text": "Churchill, Manitoba, Canada, North America",
+    "latitude": 58.7693,
+    "longitude": -94.1737,
+    "name": "Churchill",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "Manitoba"
+    ],
+    "path": "northamerica/canada/manitoba/churchill"
+  },
+  {
+    "embedding_text": "Delta, British Columbia, Canada, North America",
+    "latitude": 49.084626,
+    "longitude": -123.057938,
+    "name": "Delta",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "British Columbia"
+    ],
+    "path": "northamerica/canada/britishcolumbia/delta"
+  },
+  {
+    "embedding_text": "Baku, Azerbaijan, Europe",
+    "latitude": 40.375588,
+    "longitude": 49.832801,
+    "name": "Baku",
+    "parent_chain": [
+      "Europe",
+      "Azerbaijan"
+    ],
+    "path": "europe/azerbaijan/baku"
+  },
+  {
+    "embedding_text": "Jamnagar, Gujarat, India, Asia",
+    "latitude": 22.473242,
+    "longitude": 70.05521,
+    "name": "Jamnagar",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Gujarat"
+    ],
+    "path": "asia/india/gujarat/jamnagar"
+  },
+  {
+    "embedding_text": "Carriacou, Grenada, The Caribbean, North America",
+    "latitude": 12.475,
+    "longitude": -61.45,
+    "name": "Carriacou",
+    "parent_chain": [
+      "North America",
+      "The Caribbean",
+      "Grenada"
+    ],
+    "path": "northamerica/thecaribbean/grenada/carriacou"
+  },
+  {
+    "embedding_text": "Vushtrri, Kosovo, Serbia, Europe",
+    "latitude": 42.8231,
+    "longitude": 20.9675,
+    "name": "Vushtrri",
+    "parent_chain": [
+      "Europe",
+      "Serbia",
+      "Kosovo"
+    ],
+    "path": "europe/serbia/kosovoprovince/vushtrri"
+  },
+  {
+    "embedding_text": "\u00d6stersund, Sweden, Europe",
+    "latitude": 63.1794,
+    "longitude": 14.6357,
+    "name": "\u00d6stersund",
+    "parent_chain": [
+      "Europe",
+      "Sweden"
+    ],
+    "path": "europe/sweden/stersund"
+  },
+  {
+    "embedding_text": "Cairngorms, Scotland, United Kingdom, Europe",
+    "latitude": 57.0833,
+    "longitude": -3.6667,
+    "name": "Cairngorms",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "Scotland"
+    ],
+    "path": "europe/unitedkingdom/scotland/cairngorms"
+  },
+  {
+    "embedding_text": "Gjilan, Kosovo, Serbia, Europe",
+    "latitude": 42.4633,
+    "longitude": 21.4694,
+    "name": "Gjilan",
+    "parent_chain": [
+      "Europe",
+      "Serbia",
+      "Kosovo"
+    ],
+    "path": "europe/serbia/kosovoprovince/gjilan"
+  },
+  {
+    "embedding_text": "Yushu, Qinghai Province, China, Asia",
+    "latitude": 32.9955,
+    "longitude": 97.0082,
+    "name": "Yushu",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Qinghai Province"
+    ],
+    "path": "asia/china/qinghai/yushu"
+  },
+  {
+    "embedding_text": "Xidi, Anhui Province, China, Asia",
+    "latitude": 29.9044,
+    "longitude": 117.9875,
+    "name": "Xidi",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Anhui Province"
+    ],
+    "path": "asia/china/anhui/xidi"
+  },
+  {
+    "embedding_text": "Tombstone, Arizona, United States, North America",
+    "latitude": 31.7129,
+    "longitude": -110.0676,
+    "name": "Tombstone",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Arizona"
+    ],
+    "path": "northamerica/unitedstates/arizona/tombstone"
+  },
+  {
+    "embedding_text": "Magaluf, Mallorca, Balearic islands, Spain, Europe",
+    "latitude": 39.509568,
+    "longitude": 2.535724,
+    "name": "Magaluf",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Balearic islands",
+      "Mallorca"
+    ],
+    "path": "europe/spain/balearicislands/mallorca/magaluf"
+  },
+  {
+    "embedding_text": "Nagano, Honshu, Japan, Asia",
+    "latitude": 36.6456,
+    "longitude": 138.1885,
+    "name": "Nagano",
+    "parent_chain": [
+      "Asia",
+      "Japan",
+      "Honshu"
+    ],
+    "path": "asia/japan/honshu/nagano"
+  },
+  {
+    "embedding_text": "San Felice Circeo, Lazio, Italy, Europe",
+    "latitude": 41.232617,
+    "longitude": 13.089398,
+    "name": "San Felice Circeo",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Lazio"
+    ],
+    "path": "europe/italy/lazio/san_felice_circeo"
+  },
+  {
+    "embedding_text": "Samo\u00ebns, French Alps, France, Europe",
+    "latitude": 46.0847,
+    "longitude": 6.7281,
+    "name": "Samo\u00ebns",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "French Alps"
+    ],
+    "path": "europe/france/alpes/samoens"
+  },
+  {
+    "embedding_text": "Amritsar, Punjab, India, Asia",
+    "latitude": 31.634,
+    "longitude": 74.8723,
+    "name": "Amritsar",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Punjab"
+    ],
+    "path": "asia/india/punjab/amritsar"
+  },
+  {
+    "embedding_text": "Takamatsu, Shikoku, Japan, Asia",
+    "latitude": 34.3428,
+    "longitude": 134.0466,
+    "name": "Takamatsu",
+    "parent_chain": [
+      "Asia",
+      "Japan",
+      "Shikoku"
+    ],
+    "path": "asia/japan/shikoku/takamatsu"
+  }
+]

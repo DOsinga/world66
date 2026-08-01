@@ -11,9 +11,20 @@ image_source: https://commons.wikimedia.org/wiki/File:Bangkok_-_Rama_VIII_Bridge
 latitude: 13.7563
 loc_type: city
 longitude: 100.5018
+quick_facts:
+  World's Longest Place Name: Krung Thep Mahanakhon Amon Rattanakosin Mahinthara Ayuthaya
+    Mahadilok Phop Noppharat Ratchathani Burirom Udomratchaniwet Mahasathan Amon Piman
+    Awatan Sathit Sakkathattiya Witsanukam Prasit
+  Locals Just Say: Krung Thep — 'City of Angels'
+  Founded: '1782'
+  Metro Population: ~11 million
 score: 9.73
 snippet: Thai capital on the Chao Phraya River, where royal temples, street food,
   and canal life crowd together
+tip: Beat the legendary traffic with the BTS Skytrain, the MRT metro and the Chao
+  Phraya express boats instead of taxis. Tuk-tuks are for fun, not value — agree the
+  price first. The street food is the best food; eat where the locals queue. Cover
+  knees and shoulders for the temples.
 title: Bangkok
 type: location
 ---

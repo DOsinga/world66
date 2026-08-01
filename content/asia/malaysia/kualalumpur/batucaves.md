@@ -1,14 +1,18 @@
 ---
 done:
   poi_cleanup: '2026-04-20'
+image: batucaves.jpg
+image_attribution: Shahnoor Habib Munmun
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Batu_Cave_Kualalumpur_Malaysia_(2).JPG
 latitude: 3.237796
 longitude: 101.681376
+score: 8.9
 snippet: Limestone caves with a towering golden statue, 13 km north of KL
 tags:
-- day_trips
+- things_to_do
 title: Batu Caves
 type: poi
-score: 8.9
 ---
 
 A series of limestone caves 13 km north of KL, Batu Caves is Malaysia's most visited Hindu shrine and one of the country's most striking natural landmarks. The golden statue of Lord Murugan at the base stands 42 metres tall. From there, a climb of 272 steps — painted in rainbow colours — leads to the Temple Cave, a vast cathedral-like cavern filled with shrines and statues. A separate cave houses elaborately painted murals depicting Hindu mythology.

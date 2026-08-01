@@ -11,11 +11,20 @@ image_source: https://commons.wikimedia.org/wiki/File:Fort_Thornton_-_Freetown_-
 latitude: 8.479
 loc_type: city
 longitude: -13.268
+quick_facts:
+  Beaches: Among West Africa's best
+  Cotton Tree: A centuries-old landmark
+  Founded: 1792, for freed slaves
+  Population: ~1.2 million
 score: 6.16
-title: Freetown
-type: location
 snippet: West African capital on steep Atlantic hills, with Krio heritage centred
   around the Cotton Tree.
+tip: Freetown was founded as a home for freed slaves, and its hills drop straight
+  to some of West Africa's best beaches — River No. 2 and Tokeh are stunning. The
+  Cotton Tree was the historic heart of the city for centuries. It is humid and the
+  rains are heavy; roads can be rough, so allow extra time and keep cash handy.
+title: Freetown
+type: location
 ---
 
 Freetown is the capital and by far the largest city in [Sierra Leone](/africa/sierraleone), home to about a third of the country's population. It is not a city you will fall in love with immediately — it is dense, noisy, and congested, built on steep hills running down to the Atlantic, with a geography that makes traffic a constant ordeal. But it has real energy and a distinct Krio character that sets it apart from other West African capitals.

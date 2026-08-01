@@ -9,11 +9,21 @@ image_source: https://commons.wikimedia.org/wiki/File:205kei_train_in_JR_Nikko_l
 latitude: 36.7198
 loc_type: city
 longitude: 139.6981
+quick_facts:
+  Cedar Avenue: 35 km, world's longest
+  Shogun's Tomb: Tokugawa Ieyasu
+  Three Wise Monkeys: The original carving
+  Tōshō-gū Built: '1617'
 score: 9.42
-title: Nikkō
-type: location
 snippet: Mountain temple town north of Tokyo, centered on the ornate Tokugawa shogun
   shrine complex.
+tip: Nikko's lavishly carved Tōshō-gū shrine — burial place of the shogun Tokugawa
+  Ieyasu and home to the original 'see/hear/speak no evil' monkeys — is the draw,
+  set in a forest of giant cedars. Go beyond the shrines up into the mountains for
+  Lake Chūzenji and Kegon Falls. It's a long but doable day trip from Tokyo; start
+  early.
+title: Nikkō
+type: location
 ---
 
 Nikkō is one of Japan's most celebrated historic sites, set in the mountains of Tochigi Prefecture about 140 km north of Tokyo. The shrine and temple complex here, built to enshrine the Tokugawa shoguns, is the most ornate in the country — extraordinary even by Japanese standards, and a UNESCO World Heritage Site.

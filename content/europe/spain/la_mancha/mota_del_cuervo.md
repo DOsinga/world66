@@ -22,6 +22,6 @@ The windmills date to the 18th century. Three are open to visit. El Gigante, reb
 
 Down in town, the Pottery Museum in the Las Canteras neighbourhood documents a craft that was long a source of income for local women: they made the pitchers and bowls, the men fired and sold them. The last pitcher kiln in town still stands at the museum entrance and gets used once a year. It's a modest collection but specific and unhurried.
 
-Belmonte, 15 km west, has one of the best-preserved castles in Castilla — a Gothic-Mudéjar fortress from 1456 that you can walk through properly, not just photograph from outside. Campo de Criptana, with its own cluster of windmills, is 30 km to the southwest. Either makes a natural combination with a stop here.
+Belmonte, 15 km west, has one of the best-preserved castles in Castilla — a Gothic-Mudéjar fortress from 1456 that you can walk through properly, not just photograph from outside. [Campo de Criptana](/europe/spain/la_mancha/campo_de_criptana), with its own cluster of windmills, is 30 km to the southwest. Either makes a natural combination with a stop here.
 
 Mota del Cuervo is small and not set up for tourism in any heavy way, which is part of its appeal. Come for the windmills and the view, stay long enough to look around, and head on.

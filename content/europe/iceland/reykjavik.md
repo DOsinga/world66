@@ -11,9 +11,19 @@ image_source: https://commons.wikimedia.org/wiki/File:2006,_graveyard_in_Reykjav
 latitude: 64.1466
 loc_type: city
 longitude: -21.9426
+quick_facts:
+  Baby Names: A committee must approve
+  Distinction: World's northernmost capital
+  Geothermal Heat: Warms the whole city
+  Population: 140,000
 score: 9.52
 snippet: Compact Icelandic capital of corrugated-iron houses, a working harbour, and
   hilltop Hallgrímskirkja.
+tip: Reykjavik is the base, not the sight — most of Iceland's wonders are day trips
+  (the Golden Circle, the South Coast, the Blue Lagoon). The tap water is glacial
+  and perfect, so never buy bottled. Northern Lights need dark, clear winter nights
+  and luck. Everything is pricey, alcohol especially; locals stock up at duty-free
+  on arrival.
 title: Reykjavik
 type: location
 ---

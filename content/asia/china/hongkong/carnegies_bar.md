@@ -7,7 +7,6 @@ score: 5.2
 snippet: Late-night Wan Chai pub with dancing on the bar
 tags:
 - bars_and_cafes
-- hongkongisland
 - wan_chai
 title: Carnegie's Bar
 type: poi

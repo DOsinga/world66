@@ -1,15 +1,24 @@
 ---
-title: Tavolara Island
-type: poi
-tags:
-  - day_trips
-  - sight
-  - nature
+image: tavolara_island.jpg
+image_attribution: miguel son mi
+image_license: CC BY 2.0
+image_source: https://commons.wikimedia.org/wiki/File:Sardinia._Archipelago_of_Tavolara._Isle_of_Molara.jpg
 latitude: 40.9085
 longitude: 9.6851
-snippet: A limestone monolith rising 560m from the sea, with crystal-clear water and a tiny permanent population
-story: Tavolara was once technically a kingdom — a family named Bertoleoni reportedly received a grant from the King of Sardinia in the 19th century, and Queen Victoria supposedly visited and confirmed the arrangement. The 'royal family' still lives there, running the only restaurant on the island. The island's summit is off-limits as a NATO radar station.
 score: 8.8
+snippet: A limestone monolith rising 560m from the sea, with crystal-clear water and
+  a tiny permanent population
+story: Tavolara was once technically a kingdom — a family named Bertoleoni reportedly
+  received a grant from the King of Sardinia in the 19th century, and Queen Victoria
+  supposedly visited and confirmed the arrangement. The 'royal family' still lives
+  there, running the only restaurant on the island. The island's summit is off-limits
+  as a NATO radar station.
+tags:
+- things_to_do
+- sight
+- nature
+title: Tavolara Island
+type: poi
 ---
 
 Tavolara is one of the most dramatic natural features visible from the Olbia coast — a massive limestone ridge rising 560 metres straight out of the sea, its flanks nearly vertical and its flat top shrouded in cloud on cooler days. The island is only about 5km long and barely inhabited, with a tiny community at the western end near the landing beach.

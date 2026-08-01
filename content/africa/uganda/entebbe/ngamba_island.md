@@ -1,14 +1,22 @@
 ---
-title: Ngamba Island Chimpanzee Sanctuary
-type: poi
-tags:
-  - things_to_do
-  - nature
-  - day_trips
+image: ngamba_island.jpg
+image_attribution: A.Hannz 1996
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:The_World%E2%80%99s_2nd_Largest_Lake%E2%80%9CL.Victoria%E2%80%9D_in_Uganda_%26_it%E2%80%99s_Surroundings._03.jpg
 latitude: -0.0167
 longitude: 32.5833
-story: All of the chimpanzees at Ngamba Island were orphaned by the bush meat trade or illegal wildlife trafficking — most were confiscated as infants from people attempting to sell them as pets. The sanctuary cannot release them back to the wild because they were removed from their mothers too young to have learned the social behaviours and food knowledge that wild chimpanzees acquire from their parents over years of observation.
 score: 5.1
+story: All of the chimpanzees at Ngamba Island were orphaned by the bush meat trade
+  or illegal wildlife trafficking — most were confiscated as infants from people attempting
+  to sell them as pets. The sanctuary cannot release them back to the wild because
+  they were removed from their mothers too young to have learned the social behaviours
+  and food knowledge that wild chimpanzees acquire from their parents over years of
+  observation.
+tags:
+- things_to_do
+- nature
+title: Ngamba Island Chimpanzee Sanctuary
+type: poi
 ---
 
 Ngamba Island, about 23 km southeast of Entebbe on Lake Victoria, is a 100-acre forested island that serves as a sanctuary for rescued and orphaned chimpanzees managed by the Chimpanzee Sanctuary and Wildlife Conservation Trust. Around 50 chimpanzees live here, all of them rescued from the illegal wildlife trade.

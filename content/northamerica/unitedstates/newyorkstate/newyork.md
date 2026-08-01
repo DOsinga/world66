@@ -12,9 +12,18 @@ image_source: https://commons.wikimedia.org/wiki/File:New_York_City_(New_York,_U
 latitude: 40.712728
 loc_type: city
 longitude: -74.006015
+quick_facts:
+  Languages Spoken: 800+
+  Pizza Principle: A slice ≈ a subway fare
+  Population: 8.3 million
+  Subway: 472 stations, 24/7
 score: 9.89
 snippet: Vast five-borough city of museums, theaters, immigrant neighborhoods, and
   restless street life beside the Hudson.
+tip: 'Glance at Times Square once, then avoid it like locals do. Get OMNY/contactless
+  and ride the subway — it runs 24/7 and beats a cab stuck in Manhattan traffic. The
+  best Manhattan views are free: the Staten Island Ferry passes the Statue of Liberty
+  for nothing. Tip 18–20% on every restaurant bill; it''s not optional here.'
 title: New York
 type: location
 ---

@@ -2,7 +2,7 @@
 title: "Day Trips"
 type: section
 linked_locations:
-  - europe/italy/liguria/cinqueterre
+  - europe/italy/liguria/cinque_terre
   - europe/italy/liguria/portovenere
 ---
 

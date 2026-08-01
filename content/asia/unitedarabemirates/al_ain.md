@@ -2,10 +2,10 @@
 done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-05-11'
-image: al_ain_oasis.jpg
-image_attribution: Wikimedia Commons
-image_license: CC BY-SA 4.0
-image_source: https://commons.wikimedia.org/wiki/File:Al_Ain_Oasis_falaj.jpg
+image: al_ain.jpg
+image_attribution: Bin Al Stroker
+image_license: CC BY 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Industrial_Area_-_Al_Ain_-_United_Arab_Emirates_-_panoramio_(9).jpg
 latitude: 24.2075
 loc_type: city
 longitude: 55.7447

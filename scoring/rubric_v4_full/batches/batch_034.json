@@ -1,0 +1,590 @@
+[
+  {
+    "embedding_text": "Mentor, Ohio, United States, North America",
+    "latitude": 41.666478,
+    "longitude": -81.339977,
+    "name": "Mentor",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Ohio"
+    ],
+    "path": "northamerica/unitedstates/ohio/mentor"
+  },
+  {
+    "embedding_text": "Malaita, Solomon Islands, Australia, Pacific & Antarctica",
+    "latitude": -8.955169,
+    "longitude": 160.951441,
+    "name": "Malaita",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Solomon Islands"
+    ],
+    "path": "australiaandpacific/solomonislands/malaita"
+  },
+  {
+    "embedding_text": "Petr\u00f3polis, Brazil, South America",
+    "latitude": -22.388,
+    "longitude": -43.175259,
+    "name": "Petr\u00f3polis",
+    "parent_chain": [
+      "South America",
+      "Brazil"
+    ],
+    "path": "southamerica/brazil/petropolis"
+  },
+  {
+    "embedding_text": "Preston, Manchester, Liverpool and North West, England, United Kingdom, Europe",
+    "latitude": 53.759336,
+    "longitude": -2.699272,
+    "name": "Preston",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "Manchester, Liverpool and North West"
+    ],
+    "path": "europe/unitedkingdom/england/manchester_liverpool_and_north_west/preston"
+  },
+  {
+    "embedding_text": "Kuelap, Peru, South America",
+    "latitude": -6.423103,
+    "longitude": -77.910721,
+    "name": "Kuelap",
+    "parent_chain": [
+      "South America",
+      "Peru"
+    ],
+    "path": "southamerica/peru/kuelap"
+  },
+  {
+    "embedding_text": "Latakia, Syria, Asia",
+    "latitude": 35.5799,
+    "longitude": 35.9773,
+    "name": "Latakia",
+    "parent_chain": [
+      "Asia",
+      "Syria"
+    ],
+    "path": "asia/syria/latakia"
+  },
+  {
+    "embedding_text": "Paros, Greece, Europe",
+    "latitude": 37.0853,
+    "longitude": 25.1522,
+    "name": "Paros",
+    "parent_chain": [
+      "Europe",
+      "Greece"
+    ],
+    "path": "europe/greece/paros"
+  },
+  {
+    "embedding_text": "Sarasota, Florida, United States, North America",
+    "latitude": 27.3364,
+    "longitude": -82.5307,
+    "name": "Sarasota",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Florida"
+    ],
+    "path": "northamerica/unitedstates/florida/sarasota"
+  },
+  {
+    "embedding_text": "L\u00fcneburg, Lower Saxony, Germany, Europe",
+    "latitude": 53.2489,
+    "longitude": 10.4083,
+    "name": "L\u00fcneburg",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Lower Saxony"
+    ],
+    "path": "europe/germany/lowersaxony/luneburg"
+  },
+  {
+    "embedding_text": "Cambados, Galicia, Spain, Europe",
+    "latitude": 42.5144,
+    "longitude": -8.8138,
+    "name": "Cambados",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Galicia"
+    ],
+    "path": "europe/spain/galicia/cambados"
+  },
+  {
+    "embedding_text": "Lagos, Nigeria, Africa",
+    "latitude": 6.455057,
+    "longitude": 3.394179,
+    "name": "Lagos",
+    "parent_chain": [
+      "Africa",
+      "Nigeria"
+    ],
+    "path": "africa/nigeria/lagos"
+  },
+  {
+    "embedding_text": "Borrego Springs, Deserts, California, United States, North America",
+    "latitude": 33.2567,
+    "longitude": -116.3783,
+    "name": "Borrego Springs",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "California",
+      "Deserts"
+    ],
+    "path": "northamerica/unitedstates/california/deserts/borregosprings"
+  },
+  {
+    "embedding_text": "Dwarka, Gujarat, India, Asia",
+    "latitude": 22.2442,
+    "longitude": 68.9685,
+    "name": "Dwarka",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Gujarat"
+    ],
+    "path": "asia/india/gujarat/dwarka"
+  },
+  {
+    "embedding_text": "Avignon, Provence, Midi, France, Europe",
+    "latitude": 43.949249,
+    "longitude": 4.805901,
+    "name": "Avignon",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Midi",
+      "Provence"
+    ],
+    "path": "europe/france/midi/provence/avignon"
+  },
+  {
+    "embedding_text": "Greenville Junction, Maine, United States, North America",
+    "latitude": 45.4609,
+    "longitude": -69.6162,
+    "name": "Greenville Junction",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Maine"
+    ],
+    "path": "northamerica/unitedstates/maine/greenville_junction"
+  },
+  {
+    "embedding_text": "Merced, Central Valley, California, United States, North America",
+    "latitude": 37.164154,
+    "longitude": -120.76786,
+    "name": "Merced",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "California",
+      "Central Valley"
+    ],
+    "path": "northamerica/unitedstates/california/centralvalley/merced"
+  },
+  {
+    "embedding_text": "Koh Phayam, Thailand, Asia",
+    "latitude": 9.7405,
+    "longitude": 98.4036,
+    "name": "Koh Phayam",
+    "parent_chain": [
+      "Asia",
+      "Thailand"
+    ],
+    "path": "asia/thailand/koh_phayam"
+  },
+  {
+    "embedding_text": "Temecula, Inland Empire, California, United States, North America",
+    "latitude": 33.4947,
+    "longitude": -117.1473,
+    "name": "Temecula",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "California",
+      "Inland Empire"
+    ],
+    "path": "northamerica/unitedstates/california/inlandempire/temecula"
+  },
+  {
+    "embedding_text": "St. John's, Antigua and Barbuda, North America",
+    "latitude": 17.1175,
+    "longitude": -61.8456,
+    "name": "St. John's",
+    "parent_chain": [
+      "North America",
+      "Antigua and Barbuda"
+    ],
+    "path": "northamerica/antiguaandbarbuda/stjohns"
+  },
+  {
+    "embedding_text": "Galveston, Texas, United States, North America",
+    "latitude": 29.3012,
+    "longitude": -94.7977,
+    "name": "Galveston",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Texas"
+    ],
+    "path": "northamerica/unitedstates/texas/galveston"
+  },
+  {
+    "embedding_text": "Arouca, Portugal, Europe",
+    "latitude": 40.9289,
+    "longitude": -8.2442,
+    "name": "Arouca",
+    "parent_chain": [
+      "Europe",
+      "Portugal"
+    ],
+    "path": "europe/portugal/arouca"
+  },
+  {
+    "embedding_text": "Mirebalais, Haiti, The Caribbean, North America",
+    "latitude": 18.8333,
+    "longitude": -72.1053,
+    "name": "Mirebalais",
+    "parent_chain": [
+      "North America",
+      "The Caribbean",
+      "Haiti"
+    ],
+    "path": "northamerica/thecaribbean/haiti/mirebalais"
+  },
+  {
+    "embedding_text": "Opelousas, Louisiana, United States, North America",
+    "latitude": 30.53353,
+    "longitude": -92.081509,
+    "name": "Opelousas",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Louisiana"
+    ],
+    "path": "northamerica/unitedstates/louisiana/opelousas"
+  },
+  {
+    "embedding_text": "Guanica, Puerto Rico, The Caribbean, North America",
+    "latitude": 17.9714,
+    "longitude": -66.9081,
+    "name": "Guanica",
+    "parent_chain": [
+      "North America",
+      "The Caribbean",
+      "Puerto Rico"
+    ],
+    "path": "northamerica/thecaribbean/puertorico/guanica"
+  },
+  {
+    "embedding_text": "Zufre, Andalucia, Spain, Europe",
+    "latitude": 37.8339,
+    "longitude": -6.338874,
+    "name": "Zufre",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Andalucia"
+    ],
+    "path": "europe/spain/andalucia/zufre"
+  },
+  {
+    "embedding_text": "Naxos, Greece, Europe",
+    "latitude": 37.1036,
+    "longitude": 25.3762,
+    "name": "Naxos",
+    "parent_chain": [
+      "Europe",
+      "Greece"
+    ],
+    "path": "europe/greece/naxos"
+  },
+  {
+    "embedding_text": "Stone Forest (Shilin), Yunnan Province, China, Asia",
+    "latitude": 24.82,
+    "longitude": 103.32,
+    "name": "Stone Forest (Shilin)",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Yunnan Province"
+    ],
+    "path": "asia/china/yunnanprovince/shilin"
+  },
+  {
+    "embedding_text": "Paphos, Cyprus, Asia",
+    "latitude": 34.774399,
+    "longitude": 32.423159,
+    "name": "Paphos",
+    "parent_chain": [
+      "Asia",
+      "Cyprus"
+    ],
+    "path": "asia/cyprus/paphos"
+  },
+  {
+    "embedding_text": "Lake Nakuru National Park, National Parks and Reserves, Kenya, Africa",
+    "latitude": -0.3667,
+    "longitude": 36.0833,
+    "name": "Lake Nakuru National Park",
+    "parent_chain": [
+      "Africa",
+      "Kenya",
+      "National Parks and Reserves"
+    ],
+    "path": "africa/kenya/nationalparksandreserves/lakenakurunp"
+  },
+  {
+    "embedding_text": "Carmel, California, United States, North America",
+    "latitude": 36.5552,
+    "longitude": -121.9233,
+    "name": "Carmel",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "California"
+    ],
+    "path": "northamerica/unitedstates/california/carmel"
+  },
+  {
+    "embedding_text": "Anuradhapura, Sri Lanka, Asia",
+    "latitude": 8.3368,
+    "longitude": 80.4082,
+    "name": "Anuradhapura",
+    "parent_chain": [
+      "Asia",
+      "Sri Lanka"
+    ],
+    "path": "asia/srilanka/anuradapura"
+  },
+  {
+    "embedding_text": "Skegness, Leicester, Nottingham and East Midlands, England, United Kingdom, Europe",
+    "latitude": 53.142547,
+    "longitude": 0.340523,
+    "name": "Skegness",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "Leicester, Nottingham and East Midlands"
+    ],
+    "path": "europe/unitedkingdom/england/leicester_nottingham_and_east_midlands/skegness"
+  },
+  {
+    "embedding_text": "Vulcano, Aeolian Islands, Sicily, Italy, Europe",
+    "latitude": 38.4044,
+    "longitude": 14.9618,
+    "name": "Vulcano",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Sicily",
+      "Aeolian Islands"
+    ],
+    "path": "europe/italy/sicily/aeolianislands/vulcano"
+  },
+  {
+    "embedding_text": "Piren\u00f3polis, Brazil, South America",
+    "latitude": -15.8501,
+    "longitude": -49.0297,
+    "name": "Piren\u00f3polis",
+    "parent_chain": [
+      "South America",
+      "Brazil"
+    ],
+    "path": "southamerica/brazil/pirenopolis"
+  },
+  {
+    "embedding_text": "Grado, Friuli Venezia Giulia, Italy, Europe",
+    "latitude": 45.6781,
+    "longitude": 13.3979,
+    "name": "Grado",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Friuli Venezia Giulia"
+    ],
+    "path": "europe/italy/friuliveneziagiulia/grado"
+  },
+  {
+    "embedding_text": "Dieppe, New Brunswick, Canada, North America",
+    "latitude": 46.09668,
+    "longitude": -64.735735,
+    "name": "Dieppe",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "New Brunswick"
+    ],
+    "path": "northamerica/canada/newbrunswick/dieppe"
+  },
+  {
+    "embedding_text": "Lake Turkana, The Lakes, Kenya, Africa",
+    "latitude": 3.5259,
+    "longitude": 36.0743,
+    "name": "Lake Turkana",
+    "parent_chain": [
+      "Africa",
+      "Kenya",
+      "The Lakes"
+    ],
+    "path": "africa/kenya/lakes/laketurkana"
+  },
+  {
+    "embedding_text": "Mount Hood, Oregon, United States, North America",
+    "latitude": 45.373513,
+    "longitude": -121.695878,
+    "name": "Mount Hood",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Oregon"
+    ],
+    "path": "northamerica/unitedstates/oregon/mounthood"
+  },
+  {
+    "embedding_text": "Rodrigues, Mauritius, Africa",
+    "latitude": -19.7092,
+    "longitude": 63.4426,
+    "name": "Rodrigues",
+    "parent_chain": [
+      "Africa",
+      "Mauritius"
+    ],
+    "path": "africa/mauritius/rodrigues"
+  },
+  {
+    "embedding_text": "Bethlehem, Palestinian Authority, Asia",
+    "latitude": 31.7054,
+    "longitude": 35.2024,
+    "name": "Bethlehem",
+    "parent_chain": [
+      "Asia",
+      "Palestinian Authority"
+    ],
+    "path": "asia/palestinianauthority/bethlehem"
+  },
+  {
+    "embedding_text": "Lassithi plateau, Crete, Greece, Europe",
+    "latitude": 35.1809,
+    "longitude": 25.4679,
+    "name": "Lassithi plateau",
+    "parent_chain": [
+      "Europe",
+      "Greece",
+      "Crete"
+    ],
+    "path": "europe/greece/crete/lassithi_plateau"
+  },
+  {
+    "embedding_text": "Ribe, Denmark, Europe",
+    "latitude": 55.328404,
+    "longitude": 8.764784,
+    "name": "Ribe",
+    "parent_chain": [
+      "Europe",
+      "Denmark"
+    ],
+    "path": "europe/denmark/ribe"
+  },
+  {
+    "embedding_text": "Sintra, Portugal, Europe",
+    "latitude": 38.835545,
+    "longitude": -9.352237,
+    "name": "Sintra",
+    "parent_chain": [
+      "Europe",
+      "Portugal"
+    ],
+    "path": "europe/portugal/sintra"
+  },
+  {
+    "embedding_text": "Limoges, Limousin, Centre, France, Europe",
+    "latitude": 45.8305,
+    "longitude": 1.2608,
+    "name": "Limoges",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Centre",
+      "Limousin"
+    ],
+    "path": "europe/france/centre/limousin/limoges"
+  },
+  {
+    "embedding_text": "Antiparos, Greece, Europe",
+    "latitude": 36.994353,
+    "longitude": 25.048208,
+    "name": "Antiparos",
+    "parent_chain": [
+      "Europe",
+      "Greece"
+    ],
+    "path": "europe/greece/antiparos"
+  },
+  {
+    "embedding_text": "Keighley, Leeds, Sheffield and Yorkshire, England, United Kingdom, Europe",
+    "latitude": 53.868402,
+    "longitude": -1.902046,
+    "name": "Keighley",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "Leeds, Sheffield and Yorkshire"
+    ],
+    "path": "europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/keighley"
+  },
+  {
+    "embedding_text": "Jabrin, Oman, Asia",
+    "latitude": 22.9167,
+    "longitude": 57.2333,
+    "name": "Jabrin",
+    "parent_chain": [
+      "Asia",
+      "Oman"
+    ],
+    "path": "asia/oman/jabrin"
+  },
+  {
+    "embedding_text": "Palm Cove, Queensland, Australia, Australia, Pacific & Antarctica",
+    "latitude": -16.7472,
+    "longitude": 145.6685,
+    "name": "Palm Cove",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "Queensland"
+    ],
+    "path": "australiaandpacific/australia/queensland/palmcove"
+  },
+  {
+    "embedding_text": "Rabat, Morocco, Africa",
+    "latitude": 34.021845,
+    "longitude": -6.840893,
+    "name": "Rabat",
+    "parent_chain": [
+      "Africa",
+      "Morocco"
+    ],
+    "path": "africa/morocco/rabat"
+  },
+  {
+    "embedding_text": "Sharm el-Sheikh, Egypt, Africa",
+    "latitude": 27.864442,
+    "longitude": 34.295447,
+    "name": "Sharm el-Sheikh",
+    "parent_chain": [
+      "Africa",
+      "Egypt"
+    ],
+    "path": "africa/egypt/sharmelsheikh"
+  }
+]

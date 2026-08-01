@@ -1,0 +1,10 @@
+---
+title: "Things to Do"
+type: section
+---
+
+Wolverhampton's standout attraction is its [art gallery](/europe/unitedkingdom/england/west_midlands/staffordshire/wolverhampton/wolverhampton_art_gallery), which is free and genuinely excellent — one of the best reasons to visit the city. The historic centre around [St Peter's Church](/europe/unitedkingdom/england/west_midlands/staffordshire/wolverhampton/st_peters_church) rewards a short wander, particularly for the Anglo-Saxon pillar in the churchyard. The curious [Bargain Stone](/europe/unitedkingdom/england/west_midlands/staffordshire/wolverhampton/bargain_stone) in the churchyard wall is easy to miss but worth finding. For performing arts, the [Grand Theatre](/europe/unitedkingdom/england/west_midlands/staffordshire/wolverhampton/grand_theatre) and the [Civic Hall](/europe/unitedkingdom/england/west_midlands/staffordshire/wolverhampton/civic_hall) cover everything from touring West End shows to major music acts.
+
+[Molineux Stadium](/europe/unitedkingdom/england/west_midlands/staffordshire/wolverhampton/molineux_stadium) — home to Wolverhampton Wanderers — is just north of the centre and can be visited on a stadium tour or on matchday. The [Old Town Hall](/europe/unitedkingdom/england/west_midlands/staffordshire/wolverhampton/old_town_hall) is a fine Victorian civic building worth a look in passing.
+
+The biggest day-trip asset is [Wightwick Manor](/europe/unitedkingdom/england/west_midlands/staffordshire/wolverhampton/wightwick_manor), a National Trust property just a couple of miles west — an extraordinary Arts and Crafts house stuffed with Pre-Raphaelite art, William Morris wallpapers, and De Morgan tiles. [Bilston](/europe/unitedkingdom/england/west_midlands/staffordshire/wolverhampton/bilston), a few miles south-east, has historical interest for fans of the Black Country's industrial craft heritage.

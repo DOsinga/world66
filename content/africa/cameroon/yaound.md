@@ -9,9 +9,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Symphonie_de_couleur_Place
 latitude: 3.868987
 loc_type: city
 longitude: 11.521334
+quick_facts:
+  Built On: Seven hills
+  Elevation: ~750 m, cooler than the coast
+  Population: ~4 million
+  Reunification Monument: A spiralling landmark
 score: 6.14
 snippet: Cameroon's hilltop capital, set around 750 metres above sea level in the
   south-central plateau.
+tip: Yaoundé is Cameroon's hilly capital, spread over seven forested hills at a cooler
+  altitude than steamy Douala. It is greener and calmer than its coastal rival. See
+  the Reunification Monument and the excellent Blackitude and National museums. Taxis
+  are shared and cheap — flag one going your direction and pay per seat.
 title: Yaoundé
 type: location
 ---

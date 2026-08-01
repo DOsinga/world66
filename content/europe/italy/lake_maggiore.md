@@ -1,0 +1,21 @@
+---
+done:
+  location_cleanup: 2026-04-04
+image: lake_maggiore.jpg
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:LagoMaggiore.jpg
+latitude: 45.951094
+loc_type: feature
+longitude: 8.634165
+score: 8.8
+snippet: Long Alpine lake between Italy and Switzerland, known for gardens, ferries,
+  and Borromean Islands villages
+title: Lake Maggiore
+type: location
+---
+
+Lago Maggiore is Italy's second-largest lake, a long sliver of blue water stretching 65 kilometres from the Swiss border south to the plains of [Lombardia](/europe/italy/lombardia). Sheltered by the Alps, the lake enjoys a mild climate that produces extraordinary gardens -- azaleas, camellias, and subtropical palms flourish on the Borromean Islands as if the latitude were several hundred kilometres further south.
+
+The lakeside villages are almost impossibly pretty. [Stresa](/europe/italy/piemonte/stresa) on the western shore is the classic base: an old fishing village turned genteel resort with direct ferry access to the [Borromean Islands](/europe/italy/piemonte/borromeanislands) — the three Borromeo family islands that are the lake's main draw. [Verbania](/europe/italy/piemonte/verbania), just north of Stresa, holds the celebrated Villa Taranto botanical gardens, with one of the finest plant collections in Italy. Baveno, [Cannobio](/europe/italy/piemonte/cannobio), and Cannero Riviera each have their own character along the western shore, while the northern end of the lake crosses into [Switzerland](/europe/switzerland), where Locarno and Ascona add a different flavour.
+
+Ferries and hydrofoils connect the main towns along the lake, and the train line from Milan to Domodossola stops at several points on the western shore. The water itself draws sailors, windsurfers, and swimmers, while the surrounding mountains offer trekking and hang gliding. Hemingway set the lake escape in *A Farewell to Arms* here, and the combination of mountain scenery, island gardens, and lakeside restaurants still makes it one of the most rewarding corners of northern Italy.

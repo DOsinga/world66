@@ -11,9 +11,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Melbourne_(AU),_Melbourne_
 latitude: -37.8142
 loc_type: city
 longitude: 144.9632
+quick_facts:
+  Free Tram Zone: In the city centre
+  Laneways: Cafés and street art hide here
+  MCG: Holds 100,000 spectators
+  Population: ~5 million
 score: 9.32
 snippet: Australian cultural city of laneways, street art, immigrant food districts,
   and intense sporting loyalties
+tip: 'Melbourne is Australia''s coffee-and-culture capital, and its secret is the
+  laneways — narrow alleys hiding tiny espresso bars, street art and hidden restaurants.
+  Trams crisscross the city, and the central loop is free. The weather is famously
+  fickle (''four seasons in one day''), so carry a layer. It''s sports-mad: the MCG,
+  the Australian Open and the Spring racing carnival.'
 title: Melbourne
 type: location
 ---
@@ -22,4 +32,4 @@ Melbourne is Australia's second-largest city and its strongest claim to a cultur
 
 Sport is almost a religion here. The AFL dominates winter conversation, the Melbourne Cup stops the nation each November, and the Formula 1 Grand Prix roars around [Albert Park](/australiaandpacific/australia/victoria/melbourne/albert_park) Lake every March. The [Melbourne Cricket Ground](/australiaandpacific/australia/victoria/melbourne/melbourne_cricket_ground) — one of the largest stadiums in the world — is the spiritual home of both cricket and Australian rules football. If there is not a major sporting event on, there is almost certainly a festival, a comedy show, or a gallery opening to fill the gap.
 
-The city centre is compact and best explored on foot or by tram. [Federation Square](/australiaandpacific/australia/victoria/melbourne/federation_square) and [Flinders Street Station](/australiaandpacific/australia/victoria/melbourne/flinders_street_station) anchor the cultural heart of the CBD. The [National Gallery of Victoria](/australiaandpacific/australia/victoria/melbourne/national_gallery_of_victoria), [Melbourne Museum](/australiaandpacific/australia/victoria/melbourne/melbourne_museum), and [State Library of Victoria](/australiaandpacific/australia/victoria/melbourne/state_library_of_victoria) are among the finest institutions of their kind in the country. Beyond the CBD, the inner suburbs each have their own character: bohemian [Fitzroy](/australiaandpacific/australia/victoria/melbourne/fitzroy), beachside [St Kilda](/australiaandpacific/australia/victoria/melbourne/st_kilda), and creative [Collingwood](/australiaandpacific/australia/victoria/melbourne/collingwood). When you have had enough of the city, Melbourne is perfectly positioned for day trips to the Great Ocean Road, [Phillip Island's](/australiaandpacific/australia/victoria/melbourne/phillip_island) penguin parade, the [Yarra Valley](/australiaandpacific/australia/victoria/melbourne/yarra_valley) wineries, or the gold rush towns of [Ballarat](/australiaandpacific/australia/victoria/ballarat) and [Bendigo](/australiaandpacific/australia/victoria/bendigo).
+The city centre is compact and best explored on foot or by tram. [Federation Square](/australiaandpacific/australia/victoria/melbourne/federation_square) and [Flinders Street Station](/australiaandpacific/australia/victoria/melbourne/flinders_street_station) anchor the cultural heart of the CBD. The [National Gallery of Victoria](/australiaandpacific/australia/victoria/melbourne/national_gallery_of_victoria), [Melbourne Museum](/australiaandpacific/australia/victoria/melbourne/melbourne_museum), and [State Library of Victoria](/australiaandpacific/australia/victoria/melbourne/state_library_of_victoria) are among the finest institutions of their kind in the country. Beyond the CBD, the inner suburbs each have their own character: bohemian [Fitzroy](/australiaandpacific/australia/victoria/melbourne/fitzroy), beachside [St Kilda](/australiaandpacific/australia/victoria/melbourne/st_kilda), and creative [Collingwood](/australiaandpacific/australia/victoria/melbourne/collingwood). When you have had enough of the city, Melbourne is perfectly positioned for day trips to the [Great Ocean Road](/australiaandpacific/australia/victoria/greatoceanroad), [Phillip Island's](/australiaandpacific/australia/victoria/phillipisland) penguin parade, the [Yarra Valley](/australiaandpacific/australia/victoria/yarravalley) wineries, or the gold rush towns of [Ballarat](/australiaandpacific/australia/victoria/ballarat) and [Bendigo](/australiaandpacific/australia/victoria/bendigo).

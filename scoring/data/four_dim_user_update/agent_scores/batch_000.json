@@ -1,0 +1,302 @@
+{
+  "africa/namibia/windhoek": {
+    "adventure": 6,
+    "heritage": 5,
+    "nature": 5,
+    "vibrancy": 5
+  },
+  "africa/southafrica/cederberg_wilderness_area": {
+    "adventure": 8,
+    "heritage": 6,
+    "nature": 9,
+    "vibrancy": 3
+  },
+  "africa/tanzania/daressalaam": {
+    "adventure": 4,
+    "heritage": 4,
+    "nature": 6,
+    "vibrancy": 7
+  },
+  "asia/china/jiangxi/wuyuan": {
+    "adventure": 3,
+    "heritage": 8,
+    "nature": 7,
+    "vibrancy": 4
+  },
+  "asia/china/liaoning/xingcheng": {
+    "adventure": 2,
+    "heritage": 6,
+    "nature": 5,
+    "vibrancy": 4
+  },
+  "asia/china/qinghai/ledu": {
+    "adventure": 7,
+    "heritage": 5,
+    "nature": 7,
+    "vibrancy": 2
+  },
+  "asia/china/shandong_province/dezhou": {
+    "adventure": 1,
+    "heritage": 3,
+    "nature": 2,
+    "vibrancy": 4
+  },
+  "asia/india/himachalpradesh/kullu": {
+    "adventure": 8,
+    "heritage": 4,
+    "nature": 9,
+    "vibrancy": 5
+  },
+  "asia/india/tamilnadu/salem": {
+    "adventure": 3,
+    "heritage": 5,
+    "nature": 4,
+    "vibrancy": 4
+  },
+  "asia/india/uttarpradesh/kushinagar": {
+    "adventure": 2,
+    "heritage": 8,
+    "nature": 2,
+    "vibrancy": 5
+  },
+  "asia/indonesia/flores/labuan_bajo": {
+    "adventure": 9,
+    "heritage": 4,
+    "nature": 10,
+    "vibrancy": 6
+  },
+  "asia/indonesia/lombok/giliislands/gili_trawangan": {
+    "adventure": 5,
+    "heritage": 2,
+    "nature": 8,
+    "vibrancy": 8
+  },
+  "asia/philippines/iba": {
+    "adventure": 5,
+    "heritage": 3,
+    "nature": 7,
+    "vibrancy": 3
+  },
+  "asia/philippines/leyteisland/ormoc_city": {
+    "adventure": 5,
+    "heritage": 3,
+    "nature": 6,
+    "vibrancy": 4
+  },
+  "asia/philippines/southern_leyte/hinunangan": {
+    "adventure": 5,
+    "heritage": 2,
+    "nature": 7,
+    "vibrancy": 2
+  },
+  "asia/saudiarabia/yanbu": {
+    "adventure": 5,
+    "heritage": 5,
+    "nature": 6,
+    "vibrancy": 4
+  },
+  "asia/southkorea/yeosu": {
+    "adventure": 5,
+    "heritage": 5,
+    "nature": 7,
+    "vibrancy": 6
+  },
+  "asia/turkey/xanthos": {
+    "adventure": 2,
+    "heritage": 8,
+    "nature": 4,
+    "vibrancy": 3
+  },
+  "australiaandpacific/newzealand/otaki": {
+    "adventure": 4,
+    "heritage": 3,
+    "nature": 6,
+    "vibrancy": 3
+  },
+  "europe/azerbaijan/naxcivan/ordubad": {
+    "adventure": 6,
+    "heritage": 7,
+    "nature": 5,
+    "vibrancy": 2
+  },
+  "europe/belgium/sintniklaas": {
+    "adventure": 1,
+    "heritage": 6,
+    "nature": 2,
+    "vibrancy": 5
+  },
+  "europe/croatia/vrboska": {
+    "adventure": 3,
+    "heritage": 5,
+    "nature": 7,
+    "vibrancy": 3
+  },
+  "europe/france/lorraine/sarrebourg": {
+    "adventure": 2,
+    "heritage": 6,
+    "nature": 4,
+    "vibrancy": 3
+  },
+  "europe/georgia/sarpi": {
+    "adventure": 4,
+    "heritage": 3,
+    "nature": 6,
+    "vibrancy": 3
+  },
+  "europe/germany/saxony/dresden": {
+    "adventure": 2,
+    "heritage": 9,
+    "nature": 4,
+    "vibrancy": 7
+  },
+  "europe/germany/schleswigholstein/lubeck": {
+    "adventure": 1,
+    "heritage": 9,
+    "nature": 3,
+    "vibrancy": 6
+  },
+  "europe/hungary/szekesfehervar": {
+    "adventure": 1,
+    "heritage": 7,
+    "nature": 3,
+    "vibrancy": 4
+  },
+  "europe/italy/emiliaromagna/parma": {
+    "adventure": 2,
+    "heritage": 9,
+    "nature": 3,
+    "vibrancy": 7
+  },
+  "europe/lithuania/tytuvenai": {
+    "adventure": 1,
+    "heritage": 7,
+    "nature": 4,
+    "vibrancy": 2
+  },
+  "europe/norway/eidfjord": {
+    "adventure": 7,
+    "heritage": 4,
+    "nature": 9,
+    "vibrancy": 3
+  },
+  "europe/poland/sejny": {
+    "adventure": 2,
+    "heritage": 5,
+    "nature": 4,
+    "vibrancy": 3
+  },
+  "europe/poland/torun": {
+    "adventure": 2,
+    "heritage": 9,
+    "nature": 3,
+    "vibrancy": 6
+  },
+  "europe/slovenia/postojnacaves": {
+    "adventure": 3,
+    "heritage": 4,
+    "nature": 9,
+    "vibrancy": 5
+  },
+  "europe/unitedkingdom/england/east_midlands/loughborough": {
+    "adventure": 1,
+    "heritage": 4,
+    "nature": 3,
+    "vibrancy": 4
+  },
+  "europe/unitedkingdom/northernireland/enniskillen": {
+    "adventure": 3,
+    "heritage": 6,
+    "nature": 6,
+    "vibrancy": 4
+  },
+  "europe/unitedkingdom/scotland/pitlochry": {
+    "adventure": 5,
+    "heritage": 6,
+    "nature": 8,
+    "vibrancy": 5
+  },
+  "northamerica/canada/ontario/kincardine": {
+    "adventure": 3,
+    "heritage": 4,
+    "nature": 6,
+    "vibrancy": 3
+  },
+  "northamerica/canada/ontario/sudbury": {
+    "adventure": 4,
+    "heritage": 4,
+    "nature": 6,
+    "vibrancy": 3
+  },
+  "northamerica/canada/ontario/thunder_bay": {
+    "adventure": 6,
+    "heritage": 4,
+    "nature": 8,
+    "vibrancy": 4
+  },
+  "northamerica/guatemala/lakeatitlan/santiago_atitlan": {
+    "adventure": 5,
+    "heritage": 7,
+    "nature": 7,
+    "vibrancy": 6
+  },
+  "northamerica/mexico/michoacan/zamora_de_hidalgo": {
+    "adventure": 2,
+    "heritage": 7,
+    "nature": 3,
+    "vibrancy": 5
+  },
+  "northamerica/mexico/sanjosedelcabo": {
+    "adventure": 5,
+    "heritage": 5,
+    "nature": 7,
+    "vibrancy": 7
+  },
+  "northamerica/unitedstates/california/shastacascade/susanville": {
+    "adventure": 3,
+    "heritage": 3,
+    "nature": 5,
+    "vibrancy": 2
+  },
+  "northamerica/unitedstates/indiana/lebanon": {
+    "adventure": 1,
+    "heritage": 3,
+    "nature": 3,
+    "vibrancy": 2
+  },
+  "northamerica/unitedstates/newyorkstate/sackets_harbor": {
+    "adventure": 3,
+    "heritage": 6,
+    "nature": 6,
+    "vibrancy": 3
+  },
+  "northamerica/unitedstates/southdakota/yankton": {
+    "adventure": 4,
+    "heritage": 4,
+    "nature": 5,
+    "vibrancy": 3
+  },
+  "northamerica/unitedstates/texas/arlington": {
+    "adventure": 1,
+    "heritage": 2,
+    "nature": 2,
+    "vibrancy": 6
+  },
+  "southamerica/argentina/riogallegos": {
+    "adventure": 6,
+    "heritage": 3,
+    "nature": 7,
+    "vibrancy": 3
+  },
+  "southamerica/colombia/honda": {
+    "adventure": 5,
+    "heritage": 6,
+    "nature": 5,
+    "vibrancy": 4
+  },
+  "southamerica/colombia/sanandresandprovidencia/sanandres": {
+    "adventure": 4,
+    "heritage": 3,
+    "nature": 8,
+    "vibrancy": 6
+  }
+}

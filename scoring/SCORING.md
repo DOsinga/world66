@@ -25,19 +25,19 @@ Keep the scores separate. The same destination can be high on several dimensions
 
 ### Heritage
 
-High heritage scores mean visible historic depth. The score should reflect old built fabric, ruins, monuments, museums, architecture, long traditions, and layered human memory that a traveler can actually experience.
+High heritage scores mean visible historic depth. The score should reflect old built fabric, ruins, monuments, museums, architecture, long traditions, and layered human memory that a traveler can actually experience. Places that remind you of past glory.
 
 ### Vibrancy
 
-High vibrancy scores mean contemporary human energy. The score should reflect street life, food scenes, markets, nightlife, neighborhoods, creative life, density, movement, and surprise.
+High vibrancy scores mean contemporary human energy. The score should reflect street life, food scenes, markets, nightlife, neighborhoods, creative life, density, movement, and surprise. But also access to the finer things in life, dining, art galleries.
 
 ### Nature
 
-High nature scores mean the non-human world is a main reason to go. Score the strength of the natural payoff: animal life, green life, ecological richness, beauty, scale, rarity, and the feeling of being in a place shaped by forces larger than people. A destination can score very high when nature is vivid, abundant, beautiful, strange, gentle, grand, or restorative, even when the visit is easy and well managed.
+High nature scores mean the non-human world is a main reason to go. Score the strength of the natural payoff: animal life, green life, ecological richness, beauty, scale, and the feeling of being in a place shaped by forces larger than people. A destination can score very high when nature is vivid, abundant, beautiful, gentle, grand, or restorative, even when the visit is easy and well managed. Mountains, beaches and national parks.
 
 ### Adventure
 
-High adventure scores mean the journey takes guts. Score what the trip asks from the traveler: nerve, effort, uncertainty, hard logistics, perceived danger, unfamiliar systems, physical challenge, commitment, and crossing into less managed territory. The score comes from the mode of travel and the edge of the experience, not from scenery alone. The highest scores go to places where a normal visit feels bold, exploratory, exposed, and story-worthy.
+High adventure scores mean the journey takes guts. Score what the trip asks from the traveler: nerve, effort, uncertainty, hard logistics, perceived danger, unfamiliar systems, physical challenge, commitment, and crossing into less managed territory. The score comes from the mode of travel and the edge of the experience, not from scenery alone. The highest scores go to places where a normal visit feels bold, exploratory, exposed, and story-worthy. Off the beaten track without the physical remoteness necesarily being the key driver.
 
 ## Files
 

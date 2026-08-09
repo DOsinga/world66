@@ -8,7 +8,7 @@ PROJECT_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = PROJECT_DIR / "scoring" / "data"
 SCORES_FILE = DATA_DIR / "latent_label_scores.json"
 LOCATIONS_FILE = DATA_DIR / "all_locations.json"
-OUT_FILE = DATA_DIR / "steering_scores.json"
+OUT_DIR = DATA_DIR / "steering"
 DIMENSIONS = ("heritage", "vibrancy", "nature", "off_the_beaten_track")
 
 ALWAYS_INCLUDE = (
@@ -51,70 +51,51 @@ def ranked_paths(scores, dimension):
     ]
 
 
+def line_for(path, location, scores, dimension, rank):
+    return "\t".join(
+        [
+            path,
+            f"{scores[path][dimension]:.3f}",
+            str(rank),
+            location["name"],
+            location["parent"],
+        ]
+    )
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--scores", type=Path, default=SCORES_FILE)
     parser.add_argument("--locations", type=Path, default=LOCATIONS_FILE)
-    parser.add_argument("--out", type=Path, default=OUT_FILE)
+    parser.add_argument("--out-dir", type=Path, default=OUT_DIR)
     parser.add_argument("--top-n", type=int, default=100)
-    parser.add_argument("--target-top", type=int, default=50)
     args = parser.parse_args()
 
     scores = load_json(args.scores)
     locations = {item["path"]: item for item in load_json(args.locations)}
+    args.out_dir.mkdir(parents=True, exist_ok=True)
 
-    ranks = {}
-    selected = set()
     for dimension in DIMENSIONS:
-        for index, path in enumerate(ranked_paths(scores, dimension), start=1):
-            ranks.setdefault(path, {})[dimension] = index
-            if index <= args.top_n:
-                selected.add(path)
+        ranked = ranked_paths(scores, dimension)
+        selected = ranked[: args.top_n]
+        for path in ALWAYS_INCLUDE:
+            if path in scores and path not in selected:
+                selected.append(path)
 
-    for path in ALWAYS_INCLUDE:
-        if path in scores:
-            selected.add(path)
+        lines = [
+            "# Copy this file to "
+            f"{dimension}_out.txt, then reorder/delete/add rows to express the desired top list.",
+            "# Format: path<TAB>model_score<TAB>model_rank<TAB>name<TAB>parent",
+            "# Only the path is read from *_out.txt; the other columns are for humans.",
+            "",
+        ]
+        rank_by_path = {path: index for index, path in enumerate(ranked, start=1)}
+        for path in selected:
+            lines.append(line_for(path, locations[path], scores, dimension, rank_by_path[path]))
 
-    candidates = []
-    for path in sorted(selected):
-        location = locations[path]
-        target_top_50 = {}
-        for dimension in DIMENSIONS:
-            rank = ranks.get(path, {}).get(dimension)
-            if rank is None or rank > args.top_n:
-                target_top_50[dimension] = None
-            else:
-                target_top_50[dimension] = rank <= args.target_top
-
-        candidates.append(
-            {
-                "path": path,
-                "name": location["name"],
-                "parent": location["parent"],
-                "candidate_for": [
-                    dimension
-                    for dimension in DIMENSIONS
-                    if ranks.get(path, {}).get(dimension, args.top_n + 1) <= args.top_n
-                ],
-                "model_rank": {
-                    dimension: ranks.get(path, {}).get(dimension)
-                    for dimension in DIMENSIONS
-                },
-                "model_scores": {
-                    dimension: round(scores[path][dimension], 2)
-                    for dimension in DIMENSIONS
-                },
-                "target_scores": {
-                    dimension: round(scores[path][dimension], 1)
-                    for dimension in DIMENSIONS
-                },
-                "target_top_50": target_top_50,
-            }
-        )
-
-    args.out.parent.mkdir(parents=True, exist_ok=True)
-    args.out.write_text(json.dumps(candidates, indent=2, sort_keys=True) + "\n")
-    print(f"Wrote {len(candidates)} steering candidates to {display_path(args.out)}")
+        out = args.out_dir / f"{dimension}_in.txt"
+        out.write_text("\n".join(lines) + "\n")
+        print(f"Wrote {len(selected)} {dimension} candidates to {display_path(out)}")
 
 
 if __name__ == "__main__":

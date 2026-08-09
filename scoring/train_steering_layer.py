@@ -10,7 +10,7 @@ from torch import nn
 
 PROJECT_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = PROJECT_DIR / "scoring" / "data"
-STEERING_FILE = DATA_DIR / "steering_scores.json"
+STEERING_DIR = DATA_DIR / "steering"
 HIDDEN_FILE = DATA_DIR / "all_location_hidden_12.npz"
 BASE_SCORES_FILE = DATA_DIR / "latent_label_scores.json"
 LATENT_MODEL_FILE = DATA_DIR / "latent_model.pt"
@@ -54,66 +54,68 @@ def init_from_latent_head(model, latent_model_path):
     model.output.bias.data.copy_(state["output.bias"])
 
 
-def load_steering(path, path_to_index):
-    rows = load_json(path)
-    seen = set()
-    for row in rows:
-        row_path = row["path"]
-        if row_path in seen:
-            raise ValueError(f"Duplicate steering row: {row_path}")
-        if row_path not in path_to_index:
-            raise ValueError(f"Steering row is missing hidden values: {row_path}")
-        seen.add(row_path)
-    return rows
+def read_paths(path):
+    paths = []
+    for line in path.read_text().splitlines():
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        paths.append(line.split("\t", 1)[0].strip())
+    return paths
 
 
-def target_score_tensors(rows, path_to_index):
-    indices = []
-    targets = []
-    mask = []
-    for row in rows:
-        row_targets = []
-        row_mask = []
-        for dimension in DIMENSIONS:
-            value = row.get("target_scores", {}).get(dimension)
-            row_targets.append(0.0 if value is None else float(value))
-            row_mask.append(value is not None)
-        if any(row_mask):
-            indices.append(path_to_index[row["path"]])
-            targets.append(row_targets)
-            mask.append(row_mask)
-    return (
-        torch.tensor(indices, dtype=torch.long),
-        torch.tensor(targets, dtype=torch.float32),
-        torch.tensor(mask, dtype=torch.bool),
-    )
+def load_dimension_lists(steering_dir, path_to_index):
+    lists = {}
+    missing = []
+    for dimension in DIMENSIONS:
+        in_file = steering_dir / f"{dimension}_in.txt"
+        out_file = steering_dir / f"{dimension}_out.txt"
+        if not in_file.exists():
+            raise FileNotFoundError(f"Missing steering input file: {display_path(in_file)}")
+        if not out_file.exists():
+            missing.append(display_path(out_file))
+            continue
+
+        candidates = read_paths(in_file)
+        desired = read_paths(out_file)
+        for path in candidates + desired:
+            if path not in path_to_index:
+                raise ValueError(f"{path} is missing hidden values")
+        if len(desired) != len(set(desired)):
+            raise ValueError(f"{display_path(out_file)} contains duplicate paths")
+        lists[dimension] = {
+            "candidates": candidates,
+            "desired": desired,
+        }
+
+    if missing:
+        missing_list = "\n".join(f"- {path}" for path in missing)
+        raise SystemExit(f"Create edited *_out.txt files before training:\n{missing_list}")
+    return lists
 
 
-def ranking_pairs(rows, path_to_index, max_pairs):
+def ranking_pairs(lists, path_to_index, target_top, max_pairs):
     pairs = []
     for dimension_index, dimension in enumerate(DIMENSIONS):
-        positives = []
-        negatives = []
-        for row in rows:
-            target = row.get("target_top_50", {}).get(dimension)
-            if target is True:
-                positives.append(path_to_index[row["path"]])
-            elif target is False:
-                negatives.append(path_to_index[row["path"]])
-        for positive in positives:
-            for negative in negatives:
-                pairs.append((dimension_index, positive, negative))
+        candidates = lists[dimension]["candidates"]
+        desired = lists[dimension]["desired"]
+        desired_set = set(desired)
+        omitted = [path for path in candidates if path not in desired_set]
+
+        for left_index, left_path in enumerate(desired):
+            for right_path in desired[left_index + 1 :]:
+                pairs.append((dimension_index, path_to_index[left_path], path_to_index[right_path]))
+
+        top_paths = desired[:target_top]
+        for positive_path in top_paths:
+            for negative_path in omitted:
+                pairs.append((dimension_index, path_to_index[positive_path], path_to_index[negative_path]))
 
     if len(pairs) > max_pairs:
         rng = np.random.default_rng(71)
         keep = rng.choice(len(pairs), size=max_pairs, replace=False)
         pairs = [pairs[index] for index in keep]
     return torch.tensor(pairs, dtype=torch.long)
-
-
-def masked_mse(pred, target, mask):
-    diff = pred - target
-    return ((diff[mask]) ** 2).mean()
 
 
 def metrics(pred, target):
@@ -126,7 +128,7 @@ def metrics(pred, target):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--steering", type=Path, default=STEERING_FILE)
+    parser.add_argument("--steering-dir", type=Path, default=STEERING_DIR)
     parser.add_argument("--hidden", type=Path, default=HIDDEN_FILE)
     parser.add_argument("--base-scores", type=Path, default=BASE_SCORES_FILE)
     parser.add_argument("--latent-model", type=Path, default=LATENT_MODEL_FILE)
@@ -135,9 +137,9 @@ def main():
     parser.add_argument("--epochs", type=int, default=1500)
     parser.add_argument("--lr", type=float, default=0.01)
     parser.add_argument("--distill-weight", type=float, default=0.08)
-    parser.add_argument("--score-weight", type=float, default=1.0)
     parser.add_argument("--rank-weight", type=float, default=0.35)
     parser.add_argument("--rank-margin", type=float, default=0.2)
+    parser.add_argument("--target-top", type=int, default=50)
     parser.add_argument("--max-pairs", type=int, default=50000)
     args = parser.parse_args()
 
@@ -148,9 +150,8 @@ def main():
 
     base_scores = load_json(args.base_scores)
     base_y = torch.tensor(score_matrix(base_scores, paths), dtype=torch.float32)
-    rows = load_steering(args.steering, path_to_index)
-    target_indices, target_y, target_mask = target_score_tensors(rows, path_to_index)
-    pairs = ranking_pairs(rows, path_to_index, args.max_pairs)
+    lists = load_dimension_lists(args.steering_dir, path_to_index)
+    pairs = ranking_pairs(lists, path_to_index, args.target_top, args.max_pairs)
 
     model = ScoreHead(hidden.shape[1], len(DIMENSIONS))
     init_from_latent_head(model, args.latent_model)
@@ -160,9 +161,6 @@ def main():
         optimizer.zero_grad()
         pred = model(hidden)
         loss = args.distill_weight * nn.functional.mse_loss(pred, base_y)
-        if len(target_indices):
-            target_pred = pred[target_indices]
-            loss = loss + args.score_weight * masked_mse(target_pred, target_y, target_mask)
         if len(pairs):
             dim = pairs[:, 0]
             positive = pred[pairs[:, 1], dim]
@@ -188,10 +186,10 @@ def main():
             {
                 "dimensions": list(DIMENSIONS),
                 "features": [f"hidden_{index}" for index in range(hidden.shape[1])],
-                "steering_count": len(rows),
+                "steering_dir": str(args.steering_dir),
                 "pair_count": int(len(pairs)),
+                "target_top": args.target_top,
                 "distill_weight": args.distill_weight,
-                "score_weight": args.score_weight,
                 "rank_weight": args.rank_weight,
                 "rank_margin": args.rank_margin,
                 "base_vs_final": metrics(pred, base_np),

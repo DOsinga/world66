@@ -206,7 +206,7 @@ python3 scoring/predict_locations.py \
 
 The latent model is the broad travel feature extractor. For final visible rankings, freeze the model up to `all_location_hidden_12.npz` and train only the last mapping from those 12 latent values to the four public scores.
 
-First seed an editable steering file from the current top candidates:
+First seed editable text files from the current top candidates:
 
 ```bash
 python3 scoring/seed_steering_candidates.py
@@ -215,16 +215,22 @@ python3 scoring/seed_steering_candidates.py
 This writes:
 
 ```text
-scoring/data/steering_scores.json
+scoring/data/steering/heritage_in.txt
+scoring/data/steering/vibrancy_in.txt
+scoring/data/steering/nature_in.txt
+scoring/data/steering/off_the_beaten_track_in.txt
 ```
 
-The file contains the top 100 candidates for each public dimension, plus a few globally important places that should always be available for review. Each row includes:
+Each file contains the top 100 candidates for that public dimension, plus a few globally important places that should always be available for review. Each line starts with the destination path, followed by model score, model rank, name, and parent. Only the path is read by the trainer; the other columns are for humans.
 
-- `model_scores`: the current base model scores.
-- `target_scores`: editable score targets, initially copied from the base model.
-- `target_top_50`: editable ranking targets for each dimension. `true` means the place should belong in that dimension's top 50, `false` means it should not, and `null` means no top-50 opinion.
+For each dimension, copy the input file to an output file and edit the output file:
 
-Humans edit `target_scores` and `target_top_50`. Then train the final head:
+```text
+scoring/data/steering/vibrancy_in.txt
+scoring/data/steering/vibrancy_out.txt
+```
+
+Reorder rows to express the desired order. Delete rows that should not be in the reviewed top list. Add rows by path when an obvious destination is missing. Then train the final head:
 
 ```bash
 python3 scoring/train_steering_layer.py
@@ -237,7 +243,7 @@ scoring/data/steering_layer.json
 scoring/data/final_scores.json
 ```
 
-The trainer initializes from the current neural model's final layer. It keeps the new scores close to the base model globally, while giving stronger weight to edited score targets and top-50 ranking constraints. Do not treat an unedited steering run as an improvement; without human edits, it mostly preserves the current top lists.
+The trainer initializes from the current neural model's final layer. It keeps the new scores close to the base model globally, while giving stronger weight to the edited ordering. Do not treat copied-but-unedited output files as an improvement; without human edits, the steering layer mostly preserves the current top lists.
 
 ### 7. Build widget data
 

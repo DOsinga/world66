@@ -1,0 +1,104 @@
+# Copy this file to vibrancy_out.txt, then reorder/delete/add rows to express the desired top list.
+# Format: path<TAB>model_score<TAB>model_rank<TAB>name<TAB>parent
+# Only the path is read from *_out.txt; the other columns are for humans.
+
+asia/india/kolkata	8.668	1	Kolkata	Asia, India
+northamerica/unitedstates/illinois/chicago	8.600	2	Chicago	North America, United States, Illinois
+europe/sweden/stockholm	8.598	3	Stockholm	Europe, Sweden
+asia/turkey/asianpart	8.585	4	Asian Side (Kadıköy)	Asia, Turkey
+europe/spain/catalonia/barcelona	8.580	5	Barcelona	Europe, Spain, Catalonia
+northamerica/unitedstates/florida/miami	8.572	6	Miami	North America, United States, Florida
+asia/china/shanghai	8.571	7	Shanghai	Asia, China
+asia/turkey/istanbul	8.550	8	Istanbul	Asia, Turkey
+australiaandpacific/australia/newsouthwales/sydney	8.541	9	Sydney	Australia, Pacific & Antarctica, Australia, New South Wales
+asia/malaysia/kualalumpur	8.539	10	Kuala Lumpur	Asia, Malaysia
+asia/taiwan/taipei	8.529	11	Taipei	Asia, Taiwan
+asia/southkorea/seoul	8.516	12	Seoul	Asia, South Korea
+europe/germany/bavaria/munich	8.509	13	Munich	Europe, Germany, Bavaria
+northamerica/unitedstates/newyorkstate/newyork	8.494	14	New York	North America, United States, New York State
+europe/netherlands/amsterdam	8.489	15	Amsterdam	Europe, Netherlands
+europe/unitedkingdom/england/london	8.474	16	London	Europe, United Kingdom, England
+asia/thailand/bangkok	8.471	17	Bangkok	Asia, Thailand
+asia/japan/tokyo	8.465	18	Tokyo	Asia, Japan
+europe/france/paris	8.461	19	Paris	Europe, France
+europe/spain/madrid	8.460	20	Madrid	Europe, Spain
+europe/italy/lombardia/milan	8.453	21	Milan	Europe, Italy, Lombardia
+asia/india/westbengal/calcutta	8.445	22	Calcutta	Asia, India, West Bengal
+southamerica/argentina/buenosaires	8.412	23	Buenos Aires	South America, Argentina
+europe/russia/moscow	8.391	24	Moscow	Europe, Russia
+asia/china/beijing	8.383	25	Beijing	Asia, China
+europe/austria/vienna	8.373	26	Vienna	Europe, Austria
+asia/israel/telaviv	8.361	27	Tel Aviv	Asia, Israel
+europe/portugal/porto	8.346	28	Porto	Europe, Portugal
+northamerica/canada/quebec/montreal	8.312	29	Montreal	North America, Canada, Québec
+asia/india/maharashtra/mumbai	8.310	30	Mumbai	Asia, India, Maharashtra
+europe/czechrepublic/prague	8.309	31	Prague	Europe, Czech Republic
+asia/malaysia/penang	8.287	32	Penang	Asia, Malaysia
+northamerica/unitedstates/california/sanfrancisco	8.286	33	San Francisco	North America, United States, California
+europe/italy/emiliaromagna/bologna	8.227	34	Bologna	Europe, Italy, Emilia-Romagna
+northamerica/unitedstates/tennessee/nashville	8.206	35	Nashville	North America, United States, Tennessee
+europe/unitedkingdom/scotland/edinburgh	8.197	36	Edinburgh	Europe, United Kingdom, Scotland
+europe/portugal/oporto	8.191	37	Oporto	Europe, Portugal
+asia/iran/tehran	8.179	38	Tehran	Asia, Iran
+northamerica/mexico/mexicocity	8.133	39	Mexico City	North America, Mexico
+northamerica/unitedstates/florida/miamibeach	8.108	40	Miami Beach	North America, United States, Florida
+asia/india/tamilnadu/chennai	8.096	41	Chennai	Asia, India, Tamil Nadu
+europe/spain/spanishcostas/valencia	8.082	42	Valencia	Europe, Spain, Spanish Costas
+europe/france/cotedazur/cannes	8.077	43	Cannes	Europe, France, Cote d'Azur
+europe/italy/campania/naples	8.048	44	Naples	Europe, Italy, Campania
+europe/spain/andalucia/seville	8.047	45	Seville	Europe, Spain, Andalucia
+europe/hungary/budapest	8.046	46	Budapest	Europe, Hungary
+europe/italy/tuscany/florence	8.043	47	Florence	Europe, Italy, Tuscany
+asia/unitedarabemirates/dubai	8.032	48	Dubai	Asia, United Arab Emirates
+asia/india/karnataka/bangalore	8.016	49	Bangalore	Asia, India, Karnataka
+europe/switzerland/zurich	8.013	50	Zurich	Europe, Switzerland
+asia/southkorea/pusan	8.007	51	Busan	Asia, South Korea
+europe/germany/berlin	8.007	52	Berlin	Europe, Germany
+southamerica/colombia/cartagena	8.007	53	Cartagena	South America, Colombia
+australiaandpacific/australia/victoria/melbourne	8.006	54	Melbourne	Australia, Pacific & Antarctica, Australia, Victoria
+asia/japan/honshu/osaka	8.004	55	Osaka	Asia, Japan, Honshu
+europe/greece/athens	7.995	56	Athens	Europe, Greece
+northamerica/unitedstates/louisiana/neworleans	7.977	57	New Orleans	North America, United States, Louisiana
+europe/unitedkingdom/england/south_west/bristol	7.964	58	Bristol	Europe, United Kingdom, England, South West England
+europe/france/cotedazur/marseille	7.963	59	Marseille	Europe, France, Cote d'Azur
+southamerica/colombia/bogota	7.963	60	Bogota	South America, Colombia
+europe/portugal/lisbon	7.960	61	Lisbon	Europe, Portugal
+europe/ireland/dublin	7.955	62	Dublin	Europe, Ireland
+asia/malaysia/georgetown	7.940	63	Georgetown	Asia, Malaysia
+europe/italy/veneto/venice	7.935	64	Venice	Europe, Italy, Veneto
+europe/georgia/tbilisi	7.924	65	Tbilisi	Europe, Georgia
+asia/turkey/thebosphorus	7.903	66	The Bosphorus	Asia, Turkey
+southamerica/brazil/saopaulo	7.902	67	São Paulo	South America, Brazil
+asia/indonesia/bali/ubud	7.879	68	Ubud	Asia, Indonesia, Bali
+europe/unitedkingdom/scotland/glasgow	7.876	69	Glasgow	Europe, United Kingdom, Scotland
+europe/netherlands/rotterdam	7.870	70	Rotterdam	Europe, Netherlands
+europe/ukraine/kyiv	7.860	71	Kyiv	Europe, Ukraine
+europe/switzerland/basel	7.854	72	Basel	Europe, Switzerland
+europe/greece/mykonos	7.849	73	Mykonos	Europe, Greece
+northamerica/canada/alberta/calgary	7.837	74	Calgary	North America, Canada, Alberta
+europe/serbia/belgrade	7.835	75	Belgrade	Europe, Serbia
+asia/india/delhi	7.833	76	Delhi	Asia, India
+asia/lebanon/beirut	7.831	77	Beirut	Asia, Lebanon
+europe/poland/krakow	7.823	78	Krakow	Europe, Poland
+europe/germany/hamburg	7.822	79	Hamburg	Europe, Germany
+europe/unitedkingdom/england/north_west/manchester	7.820	80	Manchester	Europe, United Kingdom, England, North West England
+asia/china/hongkong	7.807	81	Hong Kong	Asia, China
+northamerica/unitedstates/georgia/atlanta	7.802	82	Atlanta	North America, United States, Georgia
+northamerica/canada/ontario/toronto	7.798	83	Toronto	North America, Canada, Ontario
+asia/indonesia/bali/seminyak	7.794	84	Seminyak	Asia, Indonesia, Bali
+africa/egypt/cairo	7.781	85	Cairo	Africa, Egypt
+northamerica/unitedstates/nevada/blackrockcity	7.781	86	Black Rock City	North America, United States, Nevada
+southamerica/brazil/florianopolis	7.750	87	Florianópolis	South America, Brazil
+europe/unitedkingdom/wales/cardiff	7.744	88	Cardiff	Europe, United Kingdom, Wales
+europe/france/alsace/strasbourg	7.739	89	Strasbourg	Europe, France, Alsace
+northamerica/unitedstates/southcarolina/charleston	7.728	90	Charleston	North America, United States, South Carolina
+europe/italy/sicily/palermo	7.726	91	Palermo	Europe, Italy, Sicily
+northamerica/unitedstates/california/westhollywood	7.719	92	West Hollywood	North America, United States, California
+asia/pakistan/lahore	7.715	93	Lahore	Asia, Pakistan
+northamerica/unitedstates/washingtondc	7.708	94	Washington D.C.	North America, United States
+europe/switzerland/geneva	7.699	95	Geneva	Europe, Switzerland
+northamerica/unitedstates/california/losangeles	7.698	96	Los Angeles	North America, United States, California
+europe/spain/balearicislands/mallorca/magaluf	7.686	97	Magaluf	Europe, Spain, Balearic islands, Mallorca
+europe/spain/balearicislands/mallorca/palma1	7.683	98	Palma	Europe, Spain, Balearic islands, Mallorca
+europe/italy/lazio/rome	7.677	99	Rome	Europe, Italy, Lazio
+australiaandpacific/australia/newsouthwales/byronbay	7.650	100	Byron Bay	Australia, Pacific & Antarctica, Australia, New South Wales

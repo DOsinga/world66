@@ -89,8 +89,8 @@ scoring/
   generate_embeddings.py
   train_latent_model.py
   predict_locations.py
-  seed_anchors.py
-  train_anchor_regression.py
+  seed_steering_candidates.py
+  train_steering_layer.py
   build_widget_data.py
   old_score_regression.py
 ```
@@ -200,9 +200,46 @@ python3 scoring/predict_locations.py \
   --hidden-out scoring/data/all_location_hidden_12.npz
 ```
 
-`latent_label_scores.json` is the current score output. It is produced from the four text-described dimensions above.
+`latent_label_scores.json` is the base score output. It is produced from the four text-described dimensions above.
 
-### 6. Build widget data
+### 6. Steer the final score head
+
+The latent model is the broad travel feature extractor. For final visible rankings, freeze the model up to `all_location_hidden_12.npz` and train only the last mapping from those 12 latent values to the four public scores.
+
+First seed an editable steering file from the current top candidates:
+
+```bash
+python3 scoring/seed_steering_candidates.py
+```
+
+This writes:
+
+```text
+scoring/data/steering_scores.json
+```
+
+The file contains the top 100 candidates for each public dimension, plus a few globally important places that should always be available for review. Each row includes:
+
+- `model_scores`: the current base model scores.
+- `target_scores`: editable score targets, initially copied from the base model.
+- `target_top_50`: editable ranking targets for each dimension. `true` means the place should belong in that dimension's top 50, `false` means it should not, and `null` means no top-50 opinion.
+
+Humans edit `target_scores` and `target_top_50`. Then train the final head:
+
+```bash
+python3 scoring/train_steering_layer.py
+```
+
+This writes:
+
+```text
+scoring/data/steering_layer.json
+scoring/data/final_scores.json
+```
+
+The trainer initializes from the current neural model's final layer. It keeps the new scores close to the base model globally, while giving stronger weight to edited score targets and top-50 ranking constraints. Do not treat an unedited steering run as an improvement; without human edits, it mostly preserves the current top lists.
+
+### 7. Build widget data
 
 Refresh the JSON used by the scoring widgets:
 
@@ -214,26 +251,13 @@ This writes:
 
 - `static/widgets/scoring-explorer.json`
 
-`static/widgets/score-composer.json` is only refreshed when a later steering regression exists.
+The scoring explorer uses `scoring/data/final_scores.json` when it exists. Otherwise it falls back to `scoring/data/latent_label_scores.json`. `static/widgets/score-composer.json` is only refreshed when `scoring/data/steering_layer.json` exists.
 
-### 7. Old score diagnostic
+### 8. Old score diagnostic
 
 `scoring/old_score_regression.py` fits the existing one-number `score` field from the four public component scores plus the 12 hidden dimensions. It writes the fitted model, the combined score predictions, and `scoring/data/location_scores.json`, which contains the combined score and all four components for every scored location.
 
-The old v4-vector regression predicted the current score with about `0.57` validation MAE.
-
-## Later Human Steering
-
-After the first full four-score run, we can create a steering file from the model's initial scores for a small set of important destinations. Humans can then edit those scores directly and train a small regression from `hidden_12` to the human-edited four scores.
-
-That steering file should be created from the current model output when we are ready to tune it. It should not exist before the first four-score run, and it should not be mixed with the scoring instructions above.
-
-The helper scripts for that one-off pass are:
-
-```bash
-python3 scoring/seed_anchors.py
-python3 scoring/train_anchor_regression.py
-```
+The old-score regression is a diagnostic only. Recent validation runs predict the current score with about `0.64` MAE.
 
 ## Agent Runoffs
 

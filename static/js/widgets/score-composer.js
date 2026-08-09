@@ -362,8 +362,8 @@
       var ranked = visibleRankedLocations();
       var top = ranked.slice(0, 50);
       var dim = selectedDim();
-      if (summary) summary.textContent = 'Anchor regression · bias ' + state[dim].bias.toFixed(2) + ' · 12 weights';
-      if (listSummary) listSummary.textContent = labels[dim] + ' from anchors · top ' + top.length + ' of ' + ranked.length + ' visible destinations';
+      if (summary) summary.textContent = 'Steering layer · bias ' + state[dim].bias.toFixed(2) + ' · 12 weights';
+      if (listSummary) listSummary.textContent = labels[dim] + ' from steering layer · top ' + top.length + ' of ' + ranked.length + ' visible destinations';
       renderList(top);
       renderMarkers(ranked);
       exportState();

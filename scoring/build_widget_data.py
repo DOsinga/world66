@@ -8,8 +8,9 @@ import numpy as np
 
 PROJECT_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = PROJECT_DIR / "scoring" / "data"
-SCORES_FILE = DATA_DIR / "latent_label_scores.json"
-REGRESSION_FILE = DATA_DIR / "anchor_score_regression.json"
+SCORES_FILE = DATA_DIR / "final_scores.json"
+FALLBACK_SCORES_FILE = DATA_DIR / "latent_label_scores.json"
+REGRESSION_FILE = DATA_DIR / "steering_layer.json"
 LOCATIONS_FILE = DATA_DIR / "all_locations.json"
 HIDDEN_FILE = DATA_DIR / "all_location_hidden_12.npz"
 SCORING_EXPLORER_OUT = PROJECT_DIR / "static" / "widgets" / "scoring-explorer.json"
@@ -22,13 +23,14 @@ def load_json(path):
 
 
 def composer_defaults(regression):
-    coef = regression["coef"]
+    weights = regression["weight"]
+    bias = regression["bias"]
     defaults = {}
     for index, dimension in enumerate(regression["dimensions"]):
         defaults[dimension] = {
-            "bias": round(float(coef[0][index]), 6),
-            "weights": [round(float(row[index]), 6) for row in coef[1:]],
-            "activation": "linear_clamped",
+            "bias": round(float(bias[index]), 6),
+            "weights": [round(float(row[index]), 6) for row in weights],
+            "activation": "sigmoid_0_10",
         }
     return defaults
 
@@ -36,6 +38,7 @@ def composer_defaults(regression):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--scores", type=Path, default=SCORES_FILE)
+    parser.add_argument("--fallback-scores", type=Path, default=FALLBACK_SCORES_FILE)
     parser.add_argument("--regression", type=Path, default=REGRESSION_FILE)
     parser.add_argument("--locations", type=Path, default=LOCATIONS_FILE)
     parser.add_argument("--hidden", type=Path, default=HIDDEN_FILE)
@@ -43,7 +46,8 @@ def main():
     parser.add_argument("--score-composer-out", type=Path, default=SCORE_COMPOSER_OUT)
     args = parser.parse_args()
 
-    scores = load_json(args.scores)
+    scores_path = args.scores if args.scores.exists() else args.fallback_scores
+    scores = load_json(scores_path)
     all_locations = load_json(args.locations)
     first_scores = next(iter(scores.values()))
     dimensions = [dimension for dimension in DIMENSIONS if dimension in first_scores]
@@ -69,7 +73,7 @@ def main():
     args.scoring_explorer_out.write_text(
         json.dumps(
             {
-                "source": str(args.scores),
+                "source": str(scores_path),
                 "dimensions": dimensions,
                 "locations": locations,
             },

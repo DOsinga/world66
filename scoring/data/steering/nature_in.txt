@@ -1,7 +1,3 @@
-# Copy this file to nature_out.txt, then reorder/delete/add rows to express the desired top list.
-# Format: path<TAB>model_score<TAB>model_rank<TAB>name<TAB>parent
-# Only the path is read from *_out.txt; the other columns are for humans.
-
 southamerica/argentina/patagonia/elchalten	9.172	1	El Chaltén	South America, Argentina, Patagonia
 southamerica/ecuador/galapagosislands/theislands	9.140	2	The Galápagos Islands	South America, Ecuador, Galapagos Islands
 northamerica/unitedstates/montana/glaciernp	9.106	3	Glacier National Park	North America, United States, Montana
@@ -102,16 +98,3 @@ northamerica/unitedstates/maine/katahdin	8.736	97	Katahdin	North America, United
 europe/sweden/abisko_and_bjorkliden	8.733	98	Abisko and Björkliden	Europe, Sweden
 asia/japan/hokkaido/niseko	8.731	99	Niseko	Asia, Japan, Hokkaido
 australiaandpacific/newzealand/south_island/west_coast/okarito	8.731	100	Okarito	Australia, Pacific & Antarctica, New Zealand, South Island, West Coast
-europe/france/paris	3.548	7336	Paris	Europe, France
-northamerica/unitedstates/newyorkstate/newyork	4.813	5520	New York	North America, United States, New York State
-asia/japan/tokyo	4.625	5782	Tokyo	Asia, Japan
-europe/unitedkingdom/england/london	4.434	6032	London	Europe, United Kingdom, England
-asia/thailand/bangkok	3.551	7330	Bangkok	Asia, Thailand
-asia/turkey/istanbul	4.579	5836	Istanbul	Asia, Turkey
-northamerica/mexico/mexicocity	3.629	7223	Mexico City	North America, Mexico
-asia/india/maharashtra/mumbai	3.451	7448	Mumbai	Asia, India, Maharashtra
-asia/china/shanghai	3.285	7632	Shanghai	Asia, China
-asia/china/beijing	4.281	6237	Beijing	Asia, China
-europe/germany/berlin	3.699	7137	Berlin	Europe, Germany
-northamerica/unitedstates/illinois/chicago	4.233	6310	Chicago	North America, United States, Illinois
-europe/sweden/stockholm	6.593	2365	Stockholm	Europe, Sweden

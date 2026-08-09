@@ -1,7 +1,3 @@
-# Copy this file to off_the_beaten_track_out.txt, then reorder/delete/add rows to express the desired top list.
-# Format: path<TAB>model_score<TAB>model_rank<TAB>name<TAB>parent
-# Only the path is read from *_out.txt; the other columns are for humans.
-
 australiaandpacific/marshallislands/jaluitatoll	9.015	1	Jaluit Atoll	Australia, Pacific & Antarctica, Marshall Islands
 africa/libya/agedabia	8.977	2	Agedabia	Africa, Libya
 africa/mali/kidal	8.977	3	Kidal	Africa, Mali
@@ -102,16 +98,3 @@ africa/centralafricanrepublic/berberati	8.245	97	Berbérati	Africa, Central Afri
 asia/yemen/hadramawt	8.243	98	Hadramawt	Asia, Yemen
 asia/afghanistan/mazarisharif	8.239	99	Mazar-i-Sharif	Asia, Afghanistan
 asia/japan/ryukyuislands/yonaguniisland	8.236	100	Yonaguni Island	Asia, Japan, Ryukyu islands
-europe/france/paris	1.370	8509	Paris	Europe, France
-northamerica/unitedstates/newyorkstate/newyork	1.616	8070	New York	North America, United States, New York State
-asia/japan/tokyo	1.238	8750	Tokyo	Asia, Japan
-europe/unitedkingdom/england/london	1.297	8653	London	Europe, United Kingdom, England
-asia/thailand/bangkok	1.108	8931	Bangkok	Asia, Thailand
-asia/turkey/istanbul	1.382	8486	Istanbul	Asia, Turkey
-northamerica/mexico/mexicocity	1.500	8275	Mexico City	North America, Mexico
-asia/india/maharashtra/mumbai	1.168	8846	Mumbai	Asia, India, Maharashtra
-asia/china/shanghai	1.032	9005	Shanghai	Asia, China
-asia/china/beijing	1.306	8634	Beijing	Asia, China
-europe/germany/berlin	1.229	8757	Berlin	Europe, Germany
-northamerica/unitedstates/illinois/chicago	1.105	8933	Chicago	North America, United States, Illinois
-europe/sweden/stockholm	1.792	7662	Stockholm	Europe, Sweden

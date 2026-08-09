@@ -1,7 +1,3 @@
-# Copy this file to vibrancy_out.txt, then reorder/delete/add rows to express the desired top list.
-# Format: path<TAB>model_score<TAB>model_rank<TAB>name<TAB>parent
-# Only the path is read from *_out.txt; the other columns are for humans.
-
 asia/india/kolkata	8.668	1	Kolkata	Asia, India
 northamerica/unitedstates/illinois/chicago	8.600	2	Chicago	North America, United States, Illinois
 europe/sweden/stockholm	8.598	3	Stockholm	Europe, Sweden

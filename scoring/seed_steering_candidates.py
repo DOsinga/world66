@@ -11,22 +11,6 @@ LOCATIONS_FILE = DATA_DIR / "all_locations.json"
 OUT_DIR = DATA_DIR / "steering"
 DIMENSIONS = ("heritage", "vibrancy", "nature", "off_the_beaten_track")
 
-ALWAYS_INCLUDE = (
-    "europe/france/paris",
-    "northamerica/unitedstates/newyorkstate/newyork",
-    "asia/japan/tokyo",
-    "europe/unitedkingdom/england/london",
-    "asia/thailand/bangkok",
-    "asia/turkey/istanbul",
-    "northamerica/mexico/mexicocity",
-    "asia/india/maharashtra/mumbai",
-    "asia/china/shanghai",
-    "asia/china/beijing",
-    "europe/germany/berlin",
-    "northamerica/unitedstates/illinois/chicago",
-    "europe/sweden/stockholm",
-)
-
 
 def load_json(path):
     return json.loads(path.read_text())
@@ -78,17 +62,7 @@ def main():
     for dimension in DIMENSIONS:
         ranked = ranked_paths(scores, dimension)
         selected = ranked[: args.top_n]
-        for path in ALWAYS_INCLUDE:
-            if path in scores and path not in selected:
-                selected.append(path)
-
-        lines = [
-            "# Copy this file to "
-            f"{dimension}_out.txt, then reorder/delete/add rows to express the desired top list.",
-            "# Format: path<TAB>model_score<TAB>model_rank<TAB>name<TAB>parent",
-            "# Only the path is read from *_out.txt; the other columns are for humans.",
-            "",
-        ]
+        lines = []
         rank_by_path = {path: index for index, path in enumerate(ranked, start=1)}
         for path in selected:
             lines.append(line_for(path, locations[path], scores, dimension, rank_by_path[path]))

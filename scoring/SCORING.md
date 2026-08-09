@@ -221,7 +221,7 @@ scoring/data/steering/nature_in.txt
 scoring/data/steering/off_the_beaten_track_in.txt
 ```
 
-Each file contains the top 100 candidates for that public dimension, plus a few globally important places that should always be available for review. Each line starts with the destination path, followed by model score, model rank, name, and parent. Only the path is read by the trainer; the other columns are for humans.
+Each file contains the top 100 candidates for that public dimension. Each line starts with the destination path, followed by model score, model rank, name, and parent. Only the path is read by the trainer; the other columns are for humans.
 
 For each dimension, copy the input file to an output file and edit the output file:
 
@@ -230,7 +230,7 @@ scoring/data/steering/vibrancy_in.txt
 scoring/data/steering/vibrancy_out.txt
 ```
 
-Reorder rows to express the desired order. Delete rows that should not be in the reviewed top list. Add rows by path when an obvious destination is missing. Then train the final head:
+Reorder rows to express the desired order and keep the 50 places that should define the visible top list. Delete rows that should not be in the reviewed top list. Add rows by path when an obvious destination is missing. Then train the final head:
 
 ```bash
 python3 scoring/train_steering_layer.py

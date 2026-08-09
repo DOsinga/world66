@@ -2,13 +2,13 @@
   "africa/egypt/khargaoasis": {
     "heritage": 6,
     "nature": 7,
-    "off_the_beaten_track": 6,
-    "vibrancy": 2
+    "off_the_beaten_track": 7,
+    "vibrancy": 1
   },
   "africa/egypt/suez": {
     "heritage": 4,
     "nature": 2,
-    "off_the_beaten_track": 3,
+    "off_the_beaten_track": 2,
     "vibrancy": 3
   },
   "asia/china/fujianprovince/fuzhou": {
@@ -18,46 +18,46 @@
     "vibrancy": 5
   },
   "asia/china/jiangxi/mount_sanqingshan": {
-    "heritage": 6,
+    "heritage": 5,
     "nature": 8,
-    "off_the_beaten_track": 4,
-    "vibrancy": 2
+    "off_the_beaten_track": 3,
+    "vibrancy": 1
   },
   "asia/china/sichuanprovince/panzhihua": {
     "heritage": 2,
     "nature": 4,
-    "off_the_beaten_track": 3,
-    "vibrancy": 3
+    "off_the_beaten_track": 4,
+    "vibrancy": 2
   },
   "asia/india/manipur/khongjom": {
-    "heritage": 5,
-    "nature": 4,
+    "heritage": 6,
+    "nature": 3,
     "off_the_beaten_track": 6,
-    "vibrancy": 2
+    "vibrancy": 1
   },
   "asia/indonesia/bali/medewi": {
     "heritage": 3,
     "nature": 6,
-    "off_the_beaten_track": 4,
+    "off_the_beaten_track": 5,
     "vibrancy": 3
   },
   "asia/indonesia/timor": {
-    "heritage": 4,
+    "heritage": 3,
     "nature": 7,
-    "off_the_beaten_track": 7,
+    "off_the_beaten_track": 8,
     "vibrancy": 2
   },
   "asia/iran/binalud": {
-    "heritage": 1,
-    "nature": 7,
+    "heritage": 2,
+    "nature": 6,
     "off_the_beaten_track": 6,
-    "vibrancy": 2
+    "vibrancy": 1
   },
   "asia/japan/kyushu/beppu": {
     "heritage": 6,
-    "nature": 6,
+    "nature": 5,
     "off_the_beaten_track": 2,
-    "vibrancy": 7
+    "vibrancy": 6
   },
   "asia/philippines/las_pinas_city": {
     "heritage": 4,
@@ -66,32 +66,32 @@
     "vibrancy": 4
   },
   "asia/turkey/koprulu_canyon": {
-    "heritage": 4,
-    "nature": 7,
-    "off_the_beaten_track": 3,
-    "vibrancy": 4
+    "heritage": 5,
+    "nature": 8,
+    "off_the_beaten_track": 4,
+    "vibrancy": 3
   },
   "asia/turkey/sardis": {
     "heritage": 8,
     "nature": 3,
-    "off_the_beaten_track": 4,
+    "off_the_beaten_track": 3,
     "vibrancy": 2
   },
   "australiaandpacific/australia/newsouthwales/lightning_ridge": {
-    "heritage": 4,
-    "nature": 6,
+    "heritage": 5,
+    "nature": 4,
     "off_the_beaten_track": 7,
-    "vibrancy": 3
+    "vibrancy": 2
   },
   "australiaandpacific/australia/southaustralia/barossa_valley": {
-    "heritage": 4,
+    "heritage": 6,
     "nature": 5,
     "off_the_beaten_track": 2,
-    "vibrancy": 6
+    "vibrancy": 7
   },
   "australiaandpacific/cookislands/penrhyn": {
-    "heritage": 3,
-    "nature": 8,
+    "heritage": 4,
+    "nature": 9,
     "off_the_beaten_track": 9,
     "vibrancy": 1
   },
@@ -102,81 +102,81 @@
     "vibrancy": 6
   },
   "australiaandpacific/newcaledonia/poindimie": {
-    "heritage": 3,
+    "heritage": 4,
     "nature": 7,
-    "off_the_beaten_track": 5,
-    "vibrancy": 3
+    "off_the_beaten_track": 6,
+    "vibrancy": 2
   },
   "australiaandpacific/vanuatu/efate": {
-    "heritage": 4,
+    "heritage": 5,
     "nature": 8,
     "off_the_beaten_track": 4,
-    "vibrancy": 4
+    "vibrancy": 5
   },
   "europe/bosniaandherzegovina/vlasenica": {
-    "heritage": 3,
-    "nature": 4,
+    "heritage": 4,
+    "nature": 5,
     "off_the_beaten_track": 4,
     "vibrancy": 2
   },
   "europe/croatia/trsteno_arboretum": {
     "heritage": 6,
     "nature": 6,
-    "off_the_beaten_track": 3,
-    "vibrancy": 3
+    "off_the_beaten_track": 2,
+    "vibrancy": 2
   },
   "europe/denmark/falster": {
     "heritage": 4,
     "nature": 5,
-    "off_the_beaten_track": 2,
+    "off_the_beaten_track": 3,
     "vibrancy": 2
   },
   "europe/france/alpes/annecy": {
-    "heritage": 8,
-    "nature": 9,
-    "off_the_beaten_track": 3,
+    "heritage": 7,
+    "nature": 8,
+    "off_the_beaten_track": 2,
     "vibrancy": 7
   },
   "europe/france/alsace/ungersheim": {
     "heritage": 6,
     "nature": 4,
     "off_the_beaten_track": 2,
-    "vibrancy": 3
+    "vibrancy": 2
   },
   "europe/georgia/zugdidi": {
-    "heritage": 4,
+    "heritage": 5,
     "nature": 4,
-    "off_the_beaten_track": 4,
+    "off_the_beaten_track": 3,
     "vibrancy": 3
   },
   "europe/germany/bavaria/munich": {
     "heritage": 7,
     "nature": 5,
     "off_the_beaten_track": 1,
-    "vibrancy": 8
+    "vibrancy": 9
   },
   "europe/germany/northrhinewestphalia/moers": {
     "heritage": 4,
     "nature": 3,
-    "off_the_beaten_track": 1,
+    "off_the_beaten_track": 2,
     "vibrancy": 3
   },
   "europe/ireland/monaghan": {
     "heritage": 4,
     "nature": 5,
-    "off_the_beaten_track": 2,
+    "off_the_beaten_track": 3,
     "vibrancy": 3
   },
   "europe/italy/campania/amalfi": {
-    "heritage": 8,
+    "heritage": 7,
     "nature": 8,
-    "off_the_beaten_track": 3,
+    "off_the_beaten_track": 2,
     "vibrancy": 7
   },
   "europe/lithuania/marijampole": {
-    "heritage": 3,
+    "heritage": 4,
     "nature": 3,
-    "off_the_beaten_track": 1,
+    "off_the_beaten_track": 2,
     "vibrancy": 3
   },
   "europe/portugal/viseu": {
@@ -189,10 +189,10 @@
     "heritage": 7,
     "nature": 4,
     "off_the_beaten_track": 1,
-    "vibrancy": 7
+    "vibrancy": 8
   },
   "europe/unitedkingdom/england/south_east/basingstoke": {
-    "heritage": 3,
+    "heritage": 2,
     "nature": 3,
     "off_the_beaten_track": 1,
     "vibrancy": 3
@@ -204,13 +204,13 @@
     "vibrancy": 2
   },
   "northamerica/belize/dangriga": {
-    "heritage": 6,
-    "nature": 7,
-    "off_the_beaten_track": 3,
+    "heritage": 7,
+    "nature": 6,
+    "off_the_beaten_track": 4,
     "vibrancy": 5
   },
   "northamerica/canada/novascotia/digby": {
-    "heritage": 5,
+    "heritage": 4,
     "nature": 6,
     "off_the_beaten_track": 3,
     "vibrancy": 3
@@ -225,7 +225,7 @@
     "heritage": 3,
     "nature": 7,
     "off_the_beaten_track": 4,
-    "vibrancy": 3
+    "vibrancy": 2
   },
   "northamerica/unitedstates/georgia/plains": {
     "heritage": 4,
@@ -234,21 +234,21 @@
     "vibrancy": 2
   },
   "northamerica/unitedstates/louisiana/natchitoches": {
-    "heritage": 6,
+    "heritage": 7,
     "nature": 4,
     "off_the_beaten_track": 2,
     "vibrancy": 5
   },
   "northamerica/unitedstates/ohio/columbus": {
-    "heritage": 4,
-    "nature": 4,
+    "heritage": 5,
+    "nature": 3,
     "off_the_beaten_track": 1,
     "vibrancy": 7
   },
   "northamerica/unitedstates/oregon/pendleton": {
-    "heritage": 4,
+    "heritage": 5,
     "nature": 5,
-    "off_the_beaten_track": 2,
+    "off_the_beaten_track": 3,
     "vibrancy": 3
   },
   "northamerica/unitedstates/tennessee/greeneville": {
@@ -265,26 +265,26 @@
   },
   "northamerica/unitedstates/williams_dam": {
     "heritage": 1,
-    "nature": 3,
+    "nature": 2,
     "off_the_beaten_track": 1,
     "vibrancy": 1
   },
   "southamerica/brazil/barretos": {
     "heritage": 3,
-    "nature": 3,
-    "off_the_beaten_track": 2,
-    "vibrancy": 5
+    "nature": 2,
+    "off_the_beaten_track": 3,
+    "vibrancy": 6
   },
   "southamerica/brazil/mariana": {
-    "heritage": 8,
+    "heritage": 7,
     "nature": 4,
     "off_the_beaten_track": 3,
-    "vibrancy": 5
+    "vibrancy": 3
   },
   "southamerica/brazil/sao_lourenco": {
     "heritage": 4,
     "nature": 6,
-    "off_the_beaten_track": 2,
+    "off_the_beaten_track": 3,
     "vibrancy": 4
   },
   "southamerica/peru/chiclayo": {
@@ -296,7 +296,7 @@
   "southamerica/peru/huaraz": {
     "heritage": 5,
     "nature": 9,
-    "off_the_beaten_track": 5,
+    "off_the_beaten_track": 6,
     "vibrancy": 6
   }
 }

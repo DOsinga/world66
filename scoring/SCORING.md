@@ -43,12 +43,12 @@ Calibration examples:
 
 ### Vibrancy
 
-High vibrancy scores mean exciting places to be because of human activity. A mere busy city isn't enough. The score should reflect street life, food scenes, markets, nightlife, neighborhoods, creative life, density, movement, and surprise. But also access to the finer things in life, dining, art galleries.
+High vibrancy scores mean urban electricity at a global travel scale: many-layered human activity, dense street life, strong food and night scenes, creative energy, distinctive neighborhoods, money, style, conversation, movement, and surprise. A 9 or 10 should feel like a complete urban world with depth across many scenes. Mid-high scores belong to memorable but narrower places: a great music city, party island, resort nightlife strip, regional food city, or city with one especially famous scene.
 
 Calibration examples:
 
 - `10`: Tokyo, New York, Bangkok, London, Paris.
-- `7`: Budapest, Lisbon, Montreal, Taipei, Rio de Janeiro.
+- `7`: Budapest, Lisbon, Montreal, Taipei, strong regional cities with real energy and a few famous scenes.
 - `4`: Bergen, Boise, smaller provincial cities with pleasant restaurants and some nightlife.
 - `1`: quiet resort villages, commuter towns, remote service settlements.
 

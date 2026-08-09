@@ -5,11 +5,11 @@
     "model_type": "deep_regularized",
     "parameters": 398176,
     "train_mae": {
-      "heritage": 0.182,
-      "nature": 0.194,
-      "off_the_beaten_track": 0.188,
-      "vibrancy": 0.187
+      "heritage": 0.192,
+      "nature": 0.207,
+      "off_the_beaten_track": 0.197,
+      "vibrancy": 0.215
     },
-    "train_mse": 0.0007
+    "train_mse": 0.00079
   }
 }

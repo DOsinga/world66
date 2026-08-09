@@ -23,21 +23,51 @@ Scores mean:
 
 Keep the scores separate. The same destination can be high on several dimensions, but each high score needs its own reason.
 
+Use the calibration examples below to keep scores on a global scale, not relative to the other places in the batch. They are scale references, not extra locations to score.
+
 ### Heritage
 
 High heritage scores mean visible historic depth, places that remind one of a past glory. The score should reflect old built fabric, ruins, monuments, museums, architecture, long traditions, and layered human memory that a traveler can actually experience.
 
+Calibration examples:
+
+- `10`: Rome, Kyoto, Angkor, Luxor.
+- `7`: Boston, Istanbul's modern districts, Lisbon, Fez.
+- `4`: Calgary, Brisbane, Cancun, modern resort towns with some older fabric.
+- `1`: Las Vegas suburbs, airport towns, new beach developments.
+
 ### Vibrancy
 
-High vibrancy scores mean exciting places to be because of human acitivity. A mere busy city isn't enough. The score should reflect street life, food scenes, markets, nightlife, neighborhoods, creative life, density, movement, and surprise. But also access to the finer things in life, dining, art galleries.
+High vibrancy scores mean exciting places to be because of human activity. A mere busy city isn't enough. The score should reflect street life, food scenes, markets, nightlife, neighborhoods, creative life, density, movement, and surprise. But also access to the finer things in life, dining, art galleries.
+
+Calibration examples:
+
+- `10`: Tokyo, New York, Bangkok, London, Paris.
+- `7`: Budapest, Lisbon, Montreal, Taipei, Rio de Janeiro.
+- `4`: Bergen, Boise, smaller provincial cities with pleasant restaurants and some nightlife.
+- `1`: quiet resort villages, commuter towns, remote service settlements.
 
 ### Nature
 
 High nature scores mean the non-human world is a main reason to go. Score the strength of the natural payoff: animal life, green life, ecological richness, beauty, scale, and the feeling of being in a place shaped by forces larger than people. A destination can score very high when nature is vivid, abundant, beautiful, gentle, grand, or restorative, even when the visit is easy and well managed. Mountains, beaches and national parks.
 
+Calibration examples:
+
+- `10`: Serengeti, Galapagos, Great Barrier Reef, Torres del Paine.
+- `7`: Amalfi Coast, Scottish Highlands, Lake District, Bali rice terraces.
+- `4`: Paris parks, ordinary countryside, pleasant city beaches.
+- `1`: dense urban cores with little natural appeal.
+
 ### Off The Beaten Track
 
 High off-the-beaten-track scores mean the journey takes guts. Score what the trip asks from the traveler: nerve, effort, uncertainty, hard logistics, perceived danger, unfamiliar systems, physical challenge, commitment, and crossing into less managed territory. The score comes from the mode of travel and the edge of the experience, not from scenery alone. The highest scores go to places where a normal visit feels bold, exploratory, exposed, and story-worthy. Physical remoteness can matter, but it is not the only driver.
+
+Calibration examples:
+
+- `10`: Trans Sahara, rural Afghanistan, Danakil Depression, remote Papua highlands.
+- `7`: trekking for gorillas in Bwindi, Pamir Highway, Socotra, Timbuktu.
+- `4`: Marrakech, Naples, Guatemala highlands, lightly managed national parks.
+- `1`: Tokyo, Paris, Singapore, Disney resort areas.
 
 ### Further instructions
 Read these scoring rubrics and reflect on how they express different dimensions for a traveler. Heritage is not vibrancy. Nature is not off the beaten track.

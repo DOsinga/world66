@@ -1,352 +1,302 @@
 {
   "africa/burkinafaso/tibl": {
-    "adventure": 6,
-    "heritage": 8,
-    "leisure": 2,
+    "heritage": 7,
     "nature": 4,
+    "off_the_beaten_track": 6,
     "vibrancy": 3
   },
   "africa/libya/al_khums": {
-    "adventure": 7,
-    "heritage": 9,
-    "leisure": 3,
-    "nature": 5,
+    "heritage": 8,
+    "nature": 3,
+    "off_the_beaten_track": 9,
     "vibrancy": 2
   },
   "africa/nigeria/warri": {
-    "adventure": 4,
-    "heritage": 3,
-    "leisure": 2,
+    "heritage": 2,
     "nature": 3,
-    "vibrancy": 4
+    "off_the_beaten_track": 5,
+    "vibrancy": 2
   },
   "asia/china/henan_province/yuzhou": {
-    "adventure": 2,
-    "heritage": 4,
-    "leisure": 3,
+    "heritage": 3,
     "nature": 2,
+    "off_the_beaten_track": 2,
     "vibrancy": 3
   },
   "asia/china/shandong_province/jining": {
-    "adventure": 2,
-    "heritage": 4,
-    "leisure": 3,
+    "heritage": 5,
     "nature": 2,
-    "vibrancy": 4
+    "off_the_beaten_track": 2,
+    "vibrancy": 3
   },
   "asia/india/andhrapradesh/lepakshi": {
-    "adventure": 2,
-    "heritage": 8,
-    "leisure": 3,
+    "heritage": 7,
     "nature": 3,
+    "off_the_beaten_track": 3,
     "vibrancy": 2
   },
   "asia/india/himachalpradesh/nako": {
-    "adventure": 7,
-    "heritage": 6,
-    "leisure": 3,
+    "heritage": 5,
     "nature": 7,
+    "off_the_beaten_track": 7,
     "vibrancy": 1
   },
   "asia/india/uttaranchal/valley_of_flowers": {
-    "adventure": 8,
     "heritage": 2,
-    "leisure": 6,
-    "nature": 10,
+    "nature": 8,
+    "off_the_beaten_track": 7,
     "vibrancy": 2
   },
   "asia/japan/honshu/niigata": {
-    "adventure": 3,
-    "heritage": 5,
-    "leisure": 5,
-    "nature": 5,
+    "heritage": 4,
+    "nature": 4,
+    "off_the_beaten_track": 2,
     "vibrancy": 5
   },
   "asia/kazakhstan/tamgaly_petroglyphs": {
-    "adventure": 4,
-    "heritage": 8,
-    "leisure": 2,
+    "heritage": 7,
     "nature": 5,
+    "off_the_beaten_track": 6,
     "vibrancy": 1
   },
   "asia/mongolia/ulaanbaatar": {
-    "adventure": 5,
     "heritage": 5,
-    "leisure": 4,
     "nature": 4,
+    "off_the_beaten_track": 5,
     "vibrancy": 6
   },
   "asia/turkey/karaman": {
-    "adventure": 2,
     "heritage": 5,
-    "leisure": 3,
     "nature": 3,
-    "vibrancy": 3
+    "off_the_beaten_track": 4,
+    "vibrancy": 2
   },
   "asia/vietnam/aroundhue/tamgianglagoon": {
-    "adventure": 4,
-    "heritage": 3,
-    "leisure": 4,
-    "nature": 8,
-    "vibrancy": 3
+    "heritage": 5,
+    "nature": 6,
+    "off_the_beaten_track": 4,
+    "vibrancy": 2
   },
   "australiaandpacific/australia/victoria/lakes_entrance": {
-    "adventure": 5,
     "heritage": 3,
-    "leisure": 6,
     "nature": 7,
+    "off_the_beaten_track": 3,
     "vibrancy": 4
   },
   "europe/azerbaijan/quba": {
-    "adventure": 4,
     "heritage": 5,
-    "leisure": 4,
-    "nature": 6,
-    "vibrancy": 4
+    "nature": 5,
+    "off_the_beaten_track": 4,
+    "vibrancy": 3
   },
   "europe/finland/hameenlinna": {
-    "adventure": 2,
     "heritage": 6,
-    "leisure": 5,
-    "nature": 6,
-    "vibrancy": 4
+    "nature": 4,
+    "off_the_beaten_track": 2,
+    "vibrancy": 3
   },
   "europe/germany/bavaria/fuerth": {
-    "adventure": 2,
     "heritage": 6,
-    "leisure": 5,
     "nature": 3,
+    "off_the_beaten_track": 1,
     "vibrancy": 5
   },
   "europe/germany/bavaria/tegernsee": {
-    "adventure": 4,
-    "heritage": 5,
-    "leisure": 8,
-    "nature": 8,
+    "heritage": 4,
+    "nature": 7,
+    "off_the_beaten_track": 2,
     "vibrancy": 4
   },
   "europe/germany/lowersaxony/walsrode": {
-    "adventure": 2,
     "heritage": 3,
-    "leisure": 6,
-    "nature": 7,
-    "vibrancy": 3
+    "nature": 4,
+    "off_the_beaten_track": 2,
+    "vibrancy": 2
   },
   "europe/poland/siedlce": {
-    "adventure": 1,
-    "heritage": 4,
-    "leisure": 3,
-    "nature": 3,
-    "vibrancy": 3
+    "heritage": 3,
+    "nature": 2,
+    "off_the_beaten_track": 2,
+    "vibrancy": 2
   },
   "europe/poland/zakopane": {
-    "adventure": 8,
-    "heritage": 6,
-    "leisure": 7,
-    "nature": 9,
-    "vibrancy": 6
+    "heritage": 5,
+    "nature": 8,
+    "off_the_beaten_track": 4,
+    "vibrancy": 5
   },
   "europe/romania/bucharest": {
-    "adventure": 3,
-    "heritage": 7,
-    "leisure": 6,
+    "heritage": 6,
     "nature": 3,
-    "vibrancy": 7
+    "off_the_beaten_track": 2,
+    "vibrancy": 6
   },
   "europe/russia/kaliningrad": {
-    "adventure": 3,
-    "heritage": 8,
-    "leisure": 4,
-    "nature": 5,
+    "heritage": 7,
+    "nature": 4,
+    "off_the_beaten_track": 3,
     "vibrancy": 5
   },
   "europe/spain/galicia/ferrol": {
-    "adventure": 2,
-    "heritage": 5,
-    "leisure": 4,
-    "nature": 5,
+    "heritage": 4,
+    "nature": 4,
+    "off_the_beaten_track": 2,
     "vibrancy": 3
   },
   "europe/sweden/landskrona": {
-    "adventure": 2,
-    "heritage": 5,
-    "leisure": 4,
-    "nature": 5,
+    "heritage": 4,
+    "nature": 4,
+    "off_the_beaten_track": 2,
     "vibrancy": 3
   },
   "europe/switzerland/lauterbrunnen": {
-    "adventure": 9,
-    "heritage": 5,
-    "leisure": 8,
-    "nature": 10,
-    "vibrancy": 6
+    "heritage": 4,
+    "nature": 9,
+    "off_the_beaten_track": 2,
+    "vibrancy": 5
   },
   "europe/ukraine/crimea/feodosia": {
-    "adventure": 3,
-    "heritage": 7,
-    "leisure": 6,
+    "heritage": 6,
     "nature": 5,
-    "vibrancy": 5
+    "off_the_beaten_track": 4,
+    "vibrancy": 4
   },
   "europe/unitedkingdom/england/east_midlands/derby": {
-    "adventure": 2,
     "heritage": 5,
-    "leisure": 4,
     "nature": 3,
-    "vibrancy": 5
+    "off_the_beaten_track": 1,
+    "vibrancy": 4
   },
   "europe/unitedkingdom/england/east_midlands/kenilworth": {
-    "adventure": 2,
-    "heritage": 7,
-    "leisure": 4,
+    "heritage": 6,
     "nature": 3,
+    "off_the_beaten_track": 2,
     "vibrancy": 3
   },
   "europe/unitedkingdom/england/south_west/cheltenham": {
-    "adventure": 2,
-    "heritage": 7,
-    "leisure": 7,
-    "nature": 4,
-    "vibrancy": 6
+    "heritage": 6,
+    "nature": 3,
+    "off_the_beaten_track": 1,
+    "vibrancy": 5
   },
   "europe/unitedkingdom/england/yorkshire/robin_hoods_bay": {
-    "adventure": 3,
-    "heritage": 6,
-    "leisure": 6,
-    "nature": 7,
-    "vibrancy": 4
+    "heritage": 5,
+    "nature": 6,
+    "off_the_beaten_track": 3,
+    "vibrancy": 3
   },
   "europe/unitedkingdom/england/yorkshire/york": {
-    "adventure": 2,
-    "heritage": 10,
-    "leisure": 6,
+    "heritage": 9,
     "nature": 3,
+    "off_the_beaten_track": 1,
     "vibrancy": 7
   },
   "northamerica/canada/ontario/thunder_bay": {
-    "adventure": 6,
     "heritage": 4,
-    "leisure": 5,
-    "nature": 8,
-    "vibrancy": 4
+    "nature": 7,
+    "off_the_beaten_track": 3,
+    "vibrancy": 3
   },
   "northamerica/cuba/remedios": {
-    "adventure": 3,
     "heritage": 7,
-    "leisure": 4,
     "nature": 3,
-    "vibrancy": 5
+    "off_the_beaten_track": 3,
+    "vibrancy": 6
   },
   "northamerica/unitedstates/colorado/ouray": {
-    "adventure": 8,
-    "heritage": 5,
-    "leisure": 7,
-    "nature": 9,
+    "heritage": 4,
+    "nature": 8,
+    "off_the_beaten_track": 4,
     "vibrancy": 5
   },
   "northamerica/unitedstates/iowa/ames": {
-    "adventure": 1,
     "heritage": 3,
-    "leisure": 3,
     "nature": 3,
+    "off_the_beaten_track": 1,
     "vibrancy": 4
   },
   "northamerica/unitedstates/iowa/davenport": {
-    "adventure": 2,
-    "heritage": 4,
-    "leisure": 4,
-    "nature": 2,
-    "vibrancy": 5
+    "heritage": 3,
+    "nature": 3,
+    "off_the_beaten_track": 1,
+    "vibrancy": 3
   },
   "northamerica/unitedstates/maine/bethel": {
-    "adventure": 6,
     "heritage": 3,
-    "leisure": 4,
-    "nature": 7,
+    "nature": 6,
+    "off_the_beaten_track": 3,
     "vibrancy": 2
   },
   "northamerica/unitedstates/maine/greenville_junction": {
-    "adventure": 7,
     "heritage": 2,
-    "leisure": 4,
-    "nature": 8,
+    "nature": 6,
+    "off_the_beaten_track": 4,
     "vibrancy": 1
   },
   "northamerica/unitedstates/massachusetts/bolton": {
-    "adventure": 1,
     "heritage": 3,
-    "leisure": 3,
     "nature": 4,
+    "off_the_beaten_track": 1,
     "vibrancy": 2
   },
   "northamerica/unitedstates/newyorkstate/sackets_harbor": {
-    "adventure": 2,
     "heritage": 6,
-    "leisure": 4,
-    "nature": 5,
+    "nature": 4,
+    "off_the_beaten_track": 2,
     "vibrancy": 3
   },
   "northamerica/unitedstates/ohio/newark": {
-    "adventure": 2,
-    "heritage": 6,
-    "leisure": 3,
+    "heritage": 2,
     "nature": 2,
-    "vibrancy": 3
+    "off_the_beaten_track": 1,
+    "vibrancy": 2
   },
   "northamerica/unitedstates/oregon/sunriver": {
-    "adventure": 6,
     "heritage": 2,
-    "leisure": 8,
-    "nature": 7,
-    "vibrancy": 4
-  },
-  "northamerica/unitedstates/texas/kilgore": {
-    "adventure": 1,
-    "heritage": 3,
-    "leisure": 2,
-    "nature": 2,
+    "nature": 6,
+    "off_the_beaten_track": 2,
     "vibrancy": 3
   },
+  "northamerica/unitedstates/texas/kilgore": {
+    "heritage": 3,
+    "nature": 2,
+    "off_the_beaten_track": 1,
+    "vibrancy": 2
+  },
   "northamerica/unitedstates/wisconsin/viroqua": {
-    "adventure": 3,
-    "heritage": 4,
-    "leisure": 5,
+    "heritage": 3,
     "nature": 5,
-    "vibrancy": 6
+    "off_the_beaten_track": 2,
+    "vibrancy": 4
   },
   "northamerica/unitedstates/wyoming/windrivercanyon": {
-    "adventure": 6,
     "heritage": 2,
-    "leisure": 3,
-    "nature": 8,
+    "nature": 7,
+    "off_the_beaten_track": 3,
     "vibrancy": 1
   },
   "southamerica/brazil/canoa_quebrada": {
-    "adventure": 6,
     "heritage": 2,
-    "leisure": 7,
-    "nature": 7,
+    "nature": 6,
+    "off_the_beaten_track": 3,
     "vibrancy": 6
   },
   "southamerica/paraguay/concepcion": {
-    "adventure": 2,
     "heritage": 4,
-    "leisure": 2,
     "nature": 3,
-    "vibrancy": 3
+    "off_the_beaten_track": 3,
+    "vibrancy": 2
   },
   "southamerica/peru/kuelap": {
-    "adventure": 7,
-    "heritage": 9,
-    "leisure": 3,
+    "heritage": 8,
     "nature": 7,
-    "vibrancy": 1
+    "off_the_beaten_track": 6,
+    "vibrancy": 2
   },
   "southamerica/peru/manunationalpark": {
-    "adventure": 9,
     "heritage": 1,
-    "leisure": 6,
     "nature": 10,
+    "off_the_beaten_track": 8,
     "vibrancy": 1
   }
 }

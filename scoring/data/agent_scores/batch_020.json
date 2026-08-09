@@ -1,352 +1,302 @@
 {
   "africa/chad/lakechad": {
-    "adventure": 8,
     "heritage": 2,
-    "leisure": 1,
-    "nature": 8,
+    "nature": 6,
+    "off_the_beaten_track": 9,
     "vibrancy": 1
   },
   "africa/southafrica/grahamstown": {
-    "adventure": 3,
     "heritage": 6,
-    "leisure": 4,
-    "nature": 5,
-    "vibrancy": 6
+    "nature": 3,
+    "off_the_beaten_track": 2,
+    "vibrancy": 5
   },
   "asia/china/yunnanprovince/kunming": {
-    "adventure": 4,
-    "heritage": 6,
-    "leisure": 6,
-    "nature": 7,
-    "vibrancy": 7
+    "heritage": 5,
+    "nature": 6,
+    "off_the_beaten_track": 2,
+    "vibrancy": 6
   },
   "asia/malaysia/georgetown": {
-    "adventure": 4,
     "heritage": 9,
-    "leisure": 7,
     "nature": 5,
+    "off_the_beaten_track": 2,
     "vibrancy": 9
   },
   "asia/mongolia/arkhangai/tsetserleg": {
-    "adventure": 7,
     "heritage": 5,
-    "leisure": 3,
     "nature": 7,
-    "vibrancy": 3
+    "off_the_beaten_track": 6,
+    "vibrancy": 2
   },
   "asia/nepal/khumbu": {
-    "adventure": 10,
-    "heritage": 8,
-    "leisure": 4,
+    "heritage": 6,
     "nature": 10,
-    "vibrancy": 5
+    "off_the_beaten_track": 9,
+    "vibrancy": 2
   },
   "asia/philippines/camiguinisland": {
-    "adventure": 7,
     "heritage": 4,
-    "leisure": 6,
     "nature": 8,
+    "off_the_beaten_track": 5,
     "vibrancy": 3
   },
   "asia/thailand/ubon_ratchathani": {
-    "adventure": 4,
     "heritage": 6,
-    "leisure": 4,
-    "nature": 5,
-    "vibrancy": 6
+    "nature": 4,
+    "off_the_beaten_track": 3,
+    "vibrancy": 5
   },
   "asia/turkey/cankiri": {
-    "adventure": 3,
     "heritage": 5,
-    "leisure": 2,
-    "nature": 3,
-    "vibrancy": 3
+    "nature": 2,
+    "off_the_beaten_track": 4,
+    "vibrancy": 2
   },
   "asia/turkey/gebze": {
-    "adventure": 2,
-    "heritage": 3,
-    "leisure": 2,
-    "nature": 2,
-    "vibrancy": 3
+    "heritage": 2,
+    "nature": 1,
+    "off_the_beaten_track": 1,
+    "vibrancy": 2
   },
   "asia/turkmenistan/turkmenbashi": {
-    "adventure": 6,
-    "heritage": 3,
-    "leisure": 2,
-    "nature": 4,
-    "vibrancy": 3
+    "heritage": 2,
+    "nature": 3,
+    "off_the_beaten_track": 7,
+    "vibrancy": 2
   },
   "australiaandpacific/australia/newsouthwales/lord_howe_island": {
-    "adventure": 8,
     "heritage": 3,
-    "leisure": 8,
     "nature": 10,
+    "off_the_beaten_track": 7,
     "vibrancy": 2
   },
   "australiaandpacific/australia/northernterritory/darwin": {
-    "adventure": 6,
-    "heritage": 5,
-    "leisure": 5,
-    "nature": 7,
-    "vibrancy": 7
+    "heritage": 3,
+    "nature": 6,
+    "off_the_beaten_track": 4,
+    "vibrancy": 5
   },
   "australiaandpacific/australia/northernterritory/tennant_creek": {
-    "adventure": 6,
-    "heritage": 4,
-    "leisure": 2,
+    "heritage": 3,
     "nature": 4,
-    "vibrancy": 3
-  },
-  "australiaandpacific/australia/queensland/paluma": {
-    "adventure": 6,
-    "heritage": 2,
-    "leisure": 4,
-    "nature": 8,
+    "off_the_beaten_track": 6,
     "vibrancy": 2
   },
+  "australiaandpacific/australia/queensland/paluma": {
+    "heritage": 2,
+    "nature": 8,
+    "off_the_beaten_track": 5,
+    "vibrancy": 1
+  },
   "australiaandpacific/australia/victoria/maryborough_victoria": {
-    "adventure": 2,
-    "heritage": 6,
-    "leisure": 4,
-    "nature": 4,
-    "vibrancy": 4
+    "heritage": 5,
+    "nature": 3,
+    "off_the_beaten_track": 2,
+    "vibrancy": 3
   },
   "europe/azerbaijan/agdam": {
-    "adventure": 7,
-    "heritage": 5,
-    "leisure": 0,
+    "heritage": 3,
     "nature": 2,
-    "vibrancy": 0
+    "off_the_beaten_track": 8,
+    "vibrancy": 1
   },
   "europe/bulgaria/sofia": {
-    "adventure": 3,
-    "heritage": 8,
-    "leisure": 6,
-    "nature": 6,
-    "vibrancy": 7
+    "heritage": 7,
+    "nature": 4,
+    "off_the_beaten_track": 2,
+    "vibrancy": 6
   },
   "europe/croatia/plitvice": {
-    "adventure": 5,
     "heritage": 4,
-    "leisure": 6,
     "nature": 10,
+    "off_the_beaten_track": 3,
     "vibrancy": 3
   },
   "europe/estonia/muhu_island": {
-    "adventure": 4,
     "heritage": 6,
-    "leisure": 4,
-    "nature": 7,
-    "vibrancy": 3
+    "nature": 6,
+    "off_the_beaten_track": 5,
+    "vibrancy": 2
   },
   "europe/france/aquitaine/arcachon": {
-    "adventure": 4,
-    "heritage": 5,
-    "leisure": 8,
+    "heritage": 4,
     "nature": 8,
+    "off_the_beaten_track": 3,
     "vibrancy": 6
   },
   "europe/germany/lowersaxony/east_frisian_islands/wangerooge": {
-    "adventure": 3,
     "heritage": 3,
-    "leisure": 6,
     "nature": 7,
-    "vibrancy": 4
+    "off_the_beaten_track": 4,
+    "vibrancy": 3
   },
   "europe/germany/mecklenburgwesternpomerania/rugen": {
-    "adventure": 4,
     "heritage": 6,
-    "leisure": 7,
     "nature": 8,
-    "vibrancy": 6
+    "off_the_beaten_track": 4,
+    "vibrancy": 5
   },
   "europe/isleofman/peel": {
-    "adventure": 3,
     "heritage": 6,
-    "leisure": 5,
-    "nature": 6,
-    "vibrancy": 4
+    "nature": 5,
+    "off_the_beaten_track": 3,
+    "vibrancy": 3
   },
   "europe/italy/abruzzo/vasto": {
-    "adventure": 2,
-    "heritage": 7,
-    "leisure": 6,
-    "nature": 6,
-    "vibrancy": 5
+    "heritage": 6,
+    "nature": 5,
+    "off_the_beaten_track": 2,
+    "vibrancy": 4
   },
   "europe/italy/veneto/treviso": {
-    "adventure": 2,
     "heritage": 6,
-    "leisure": 6,
     "nature": 3,
-    "vibrancy": 6
-  },
-  "europe/poland/czestochowa": {
-    "adventure": 2,
-    "heritage": 9,
-    "leisure": 3,
-    "nature": 3,
-    "vibrancy": 6
-  },
-  "europe/poland/kalisz": {
-    "adventure": 1,
-    "heritage": 6,
-    "leisure": 3,
-    "nature": 3,
+    "off_the_beaten_track": 1,
     "vibrancy": 5
   },
-  "europe/portugal/algarve/albufeira": {
-    "adventure": 5,
+  "europe/poland/czestochowa": {
+    "heritage": 8,
+    "nature": 2,
+    "off_the_beaten_track": 2,
+    "vibrancy": 4
+  },
+  "europe/poland/kalisz": {
     "heritage": 5,
-    "leisure": 8,
+    "nature": 2,
+    "off_the_beaten_track": 2,
+    "vibrancy": 3
+  },
+  "europe/portugal/algarve/albufeira": {
+    "heritage": 4,
     "nature": 7,
-    "vibrancy": 8
+    "off_the_beaten_track": 2,
+    "vibrancy": 7
   },
   "europe/russia/karelia/kizhi": {
-    "adventure": 4,
-    "heritage": 10,
-    "leisure": 3,
+    "heritage": 9,
     "nature": 6,
+    "off_the_beaten_track": 6,
     "vibrancy": 2
   },
   "europe/russia/kursk": {
-    "adventure": 2,
-    "heritage": 6,
-    "leisure": 2,
+    "heritage": 5,
     "nature": 3,
+    "off_the_beaten_track": 2,
     "vibrancy": 3
   },
   "europe/sweden/stockholm": {
-    "adventure": 4,
     "heritage": 9,
-    "leisure": 8,
-    "nature": 8,
-    "vibrancy": 9
+    "nature": 7,
+    "off_the_beaten_track": 1,
+    "vibrancy": 8
   },
   "europe/sweden/vemdalen": {
-    "adventure": 7,
     "heritage": 2,
-    "leisure": 7,
-    "nature": 8,
-    "vibrancy": 5
+    "nature": 7,
+    "off_the_beaten_track": 3,
+    "vibrancy": 3
   },
   "europe/switzerland/interlaken": {
-    "adventure": 9,
-    "heritage": 6,
-    "leisure": 8,
+    "heritage": 5,
     "nature": 9,
+    "off_the_beaten_track": 3,
     "vibrancy": 7
   },
   "europe/unitedkingdom/england/east_midlands/buxton": {
-    "adventure": 4,
     "heritage": 6,
-    "leisure": 6,
-    "nature": 7,
-    "vibrancy": 5
+    "nature": 6,
+    "off_the_beaten_track": 3,
+    "vibrancy": 4
   },
   "europe/unitedkingdom/england/north_west/helmshore": {
-    "adventure": 1,
-    "heritage": 5,
-    "leisure": 3,
-    "nature": 5,
+    "heritage": 4,
+    "nature": 4,
+    "off_the_beaten_track": 2,
     "vibrancy": 2
   },
   "europe/unitedkingdom/england/yorkshire/hawes_and_gayle": {
-    "adventure": 5,
-    "heritage": 6,
-    "leisure": 5,
+    "heritage": 5,
     "nature": 7,
-    "vibrancy": 4
-  },
-  "northamerica/canada/quebec/aylmer": {
-    "adventure": 2,
-    "heritage": 4,
-    "leisure": 4,
-    "nature": 6,
+    "off_the_beaten_track": 3,
     "vibrancy": 3
   },
-  "northamerica/cuba/baracoa": {
-    "adventure": 6,
-    "heritage": 7,
-    "leisure": 6,
-    "nature": 8,
-    "vibrancy": 6
-  },
-  "northamerica/haiti/saintmarc": {
-    "adventure": 5,
-    "heritage": 4,
-    "leisure": 2,
+  "northamerica/canada/quebec/aylmer": {
+    "heritage": 5,
     "nature": 4,
+    "off_the_beaten_track": 1,
+    "vibrancy": 4
+  },
+  "northamerica/cuba/baracoa": {
+    "heritage": 6,
+    "nature": 8,
+    "off_the_beaten_track": 6,
     "vibrancy": 5
   },
-  "northamerica/mexico/tijuana": {
-    "adventure": 5,
-    "heritage": 4,
-    "leisure": 6,
+  "northamerica/haiti/saintmarc": {
+    "heritage": 3,
     "nature": 4,
+    "off_the_beaten_track": 6,
+    "vibrancy": 3
+  },
+  "northamerica/mexico/tijuana": {
+    "heritage": 4,
+    "nature": 3,
+    "off_the_beaten_track": 2,
     "vibrancy": 8
   },
   "northamerica/unitedstates/arizona/sierra_vista": {
-    "adventure": 5,
     "heritage": 3,
-    "leisure": 4,
-    "nature": 7,
-    "vibrancy": 4
+    "nature": 6,
+    "off_the_beaten_track": 4,
+    "vibrancy": 3
   },
   "northamerica/unitedstates/california/highsierra/bishop": {
-    "adventure": 8,
     "heritage": 3,
-    "leisure": 5,
-    "nature": 8,
-    "vibrancy": 5
+    "nature": 9,
+    "off_the_beaten_track": 6,
+    "vibrancy": 3
   },
   "northamerica/unitedstates/california/orangecounty/newportbeach": {
-    "adventure": 3,
     "heritage": 2,
-    "leisure": 8,
-    "nature": 5,
+    "nature": 6,
+    "off_the_beaten_track": 1,
     "vibrancy": 6
   },
   "northamerica/unitedstates/california/orangecounty/sanclemente": {
-    "adventure": 4,
-    "heritage": 4,
-    "leisure": 7,
+    "heritage": 2,
     "nature": 6,
-    "vibrancy": 6
+    "off_the_beaten_track": 1,
+    "vibrancy": 4
   },
   "northamerica/unitedstates/newmexico/truth_or_consequences": {
-    "adventure": 5,
-    "heritage": 4,
-    "leisure": 6,
+    "heritage": 3,
     "nature": 5,
-    "vibrancy": 4
+    "off_the_beaten_track": 4,
+    "vibrancy": 3
   },
   "northamerica/unitedstates/oklahoma/muskogee": {
-    "adventure": 2,
-    "heritage": 5,
-    "leisure": 3,
-    "nature": 3,
-    "vibrancy": 4
+    "heritage": 3,
+    "nature": 2,
+    "off_the_beaten_track": 1,
+    "vibrancy": 3
   },
   "southamerica/bolivia/amboro_national_park": {
-    "adventure": 8,
-    "heritage": 3,
-    "leisure": 4,
+    "heritage": 2,
     "nature": 9,
+    "off_the_beaten_track": 7,
     "vibrancy": 1
   },
   "southamerica/colombia/bogota": {
-    "adventure": 5,
     "heritage": 7,
-    "leisure": 7,
-    "nature": 6,
-    "vibrancy": 9
+    "nature": 5,
+    "off_the_beaten_track": 2,
+    "vibrancy": 8
   },
   "southamerica/peru/northern_pacific_t/jan": {
-    "adventure": 6,
-    "heritage": 5,
-    "leisure": 3,
-    "nature": 7,
-    "vibrancy": 5
+    "heritage": 4,
+    "nature": 6,
+    "off_the_beaten_track": 5,
+    "vibrancy": 3
   }
 }

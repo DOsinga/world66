@@ -9,11 +9,16 @@ The model learns from destination identity captured by the embeddings for the na
 
 The current dimensions are `heritage`, `vibrancy`, `nature`, and `off_the_beaten_track`.
 
+There are two sample sizes:
+
+- `scoring/data/sampled.json` and `scoring/data/sampled_scored.json` contain 200 locations for rubric inspection and quick visual checks only. Do not train production models from this file.
+- `scoring/data/sample_2000.json` and `scoring/data/scored_2000.json` are the training set for the latent model. When the rubric changes, rerun this 2000-location set before treating model output as production-quality.
+
 ## Scoring Guidelines
 
 Send this section to scoring agents verbatim. Do not paraphrase the dimensions in agent prompts.
 
-Score each destination from `0` to `10` for `heritage`, `vibrancy`, `nature`, and `off_the_beaten_track`. Use only the destination name, parent chain, and coordinates from the batch. Score the ordinary visitor experience, not page quality, page text, POIs, or the most extreme optional activity nearby.
+Score each destination from `0` to `10` for `heritage`, `vibrancy`, `nature`, and `off_the_beaten_track`. Use only the destination name, parent chain, and coordinates from the batch. Score the ordinary visitor experience, not page quality, page text, POIs, or the most extreme optional activity nearby. Use a global travel scale, not a scale relative to the other places in the batch.
 
 Scores mean:
 
@@ -96,7 +101,17 @@ Scripts live directly in `scoring/`. Generated files go in `scoring/data/`, but 
 
 ### 1. Sample locations
 
-Eligible locations are exported from the filesystem content tree. The current training sample has 2000 locations.
+Eligible locations are exported from the filesystem content tree.
+
+Use a 200-location sample only for rubric inspection and quick visual checks:
+
+```bash
+python3 scoring/sample_locations.py sample --n 200 --seed 71 --out scoring/data/sampled.json
+```
+
+`sampled.json`, `sampled.txt`, and `sampled_scored.json` are not training data. They exist so we can cheaply inspect whether the rubric and global calibration examples are producing sensible direct LLM labels.
+
+Use a 2000-location sample for the latent model training run:
 
 ```bash
 python3 scoring/sample_locations.py sample --n 2000 --seed 67 --out scoring/data/sample_2000.json
@@ -104,7 +119,7 @@ python3 scoring/sample_locations.py sample --n 2000 --seed 67 --out scoring/data
 
 ### 2. Label locations
 
-Create batches and score them with the LLM Scoring Guidelines above.
+Create batches from the 2000-location training sample and score them with the LLM Scoring Guidelines above. The prompt must include the full Scoring Guidelines section, including the global-scale calibration examples.
 
 ```bash
 python3 scoring/sample_locations.py batches \
@@ -115,13 +130,13 @@ python3 scoring/score_batches.py \
   --model gpt-5-mini
 ```
 
-Agent outputs are merged into:
+Training agent outputs are merged into:
 
 ```text
 scoring/data/scored_2000.json
 ```
 
-The raw batch files live in `scoring/data/batches/`; the scored batch files live in `scoring/data/scores/`.
+The raw batch files live in `scoring/data/batches/`; the scored batch files live in `scoring/data/agent_scores/`.
 
 ### 3. Generate embeddings
 

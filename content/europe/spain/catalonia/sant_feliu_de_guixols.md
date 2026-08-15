@@ -9,11 +9,13 @@ latitude: 41.783883
 loc_type: city
 longitude: 3.028319
 score: 8.29
-sources:
-- https://en.wikipedia.org/wiki/Sant_Feliu_de_Gu%C3%ADxols
-title: Sant Feliu de Guíxols
 snippet: Old Costa Brava port town with cork-trade roots, a working harbour, and a
   Romanesque monastery
+sources:
+- https://en.wikipedia.org/wiki/Sant_Feliu_de_Gu%C3%ADxols
+tags:
+- costa_brava
+title: Sant Feliu de Guíxols
 type: location
 ---
 

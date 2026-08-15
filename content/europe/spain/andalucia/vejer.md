@@ -15,6 +15,9 @@ sources:
 - https://en.wikipedia.org/wiki/Vejer_de_la_Frontera
 - https://www.guiadecadiz.com/turismo-cultural-detalle/iglesia-del-divino-salvador-vejer
 - https://www.andalucia.org/en/vejer-de-la-frontera
+tags:
+- costa_de_la_luz
+- whitevillages
 title: Vejer de la Frontera
 type: location
 ---

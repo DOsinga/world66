@@ -18,4 +18,4 @@ The [beach of Rodeira](/europe/spain/galicia/cangas/playa_rodeira), just at the 
 
 The town itself rewards a wander. Cangas has been settled since ancient times — the Romans were here, and before them others — and its old streets have a weathered, lived-in quality that Vigo, just across the water, has largely lost to development. Come on market day and the waterfront fills up with stalls and locals.
 
-The [ferry from Vigo](/europe/spain/galicia/cangas/ferry_to_vigo) takes about 30 minutes and runs frequently; it's the nicest way to arrive. From Cangas you can also reach [Vigo](/europe/spain/galicia/vigo) and the [Cíes Islands](/europe/spain/galicia/vigo/cies_islands) by boat in summer.
+The [ferry from Vigo](/europe/spain/galicia/cangas/ferry_to_vigo) takes about 30 minutes and runs frequently; it's the nicest way to arrive. From Cangas you can also reach [Vigo](/europe/spain/galicia/vigo) and the [Cíes Islands](/europe/spain/galicia/cies_islands) by boat in summer.

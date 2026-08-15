@@ -12,6 +12,8 @@ longitude: 3.275216
 score: 8.96
 snippet: Whitewashed Costa Brava fishing village tied to Salvador Dalí and the rocky
   Cap de Creus coast.
+tags:
+- costa_brava
 title: Cadaqués
 type: location
 ---

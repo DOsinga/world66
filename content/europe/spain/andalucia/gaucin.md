@@ -11,6 +11,8 @@ longitude: -5.317754
 score: 7.89
 snippet: Andalucian hilltop village with whitewashed lanes and clear-day views to
   Gibraltar and Morocco
+tags:
+- whitevillages
 title: Gaucin
 type: location
 ---

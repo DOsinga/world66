@@ -10,10 +10,12 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Cadiz_Spain.jpg
 latitude: 36.529744
 loc_type: city
-snippet: Ancient Andalusian port city on a peninsula, with Atlantic ramparts and 18th-century
-  merchant architecture
 longitude: -6.292898
 score: 8.82
+snippet: Ancient Andalusian port city on a peninsula, with Atlantic ramparts and 18th-century
+  merchant architecture
+tags:
+- costa_de_la_luz
 title: Cadiz
 type: location
 ---

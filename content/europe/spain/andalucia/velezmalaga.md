@@ -12,6 +12,8 @@ longitude: -4.09881
 score: 7.44
 snippet: Axarquía market town above the Costa del Sol, with Moorish remains and Muscat
   wine country nearby.
+tags:
+- costa_del_sol
 title: Velez Malaga
 type: location
 ---

@@ -562,12 +562,14 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
 
         noun = 'city' if page.meta.get('loc_type') == 'city' else 'destination'
         top_two = [DIMENSION_LABELS[f].lower() for f, _ in scored[:2]]
-        sentence = f"{page.title} is a <em>{top_two[0]}</em> {noun} first, <em>{top_two[1]}</em> second."
 
-        # Add one real, computed achievement clause about the top dimension,
-        # when there's a genuinely notable one — never fabricated, and each
+        # A real, computed achievement claim about the top dimension, when
+        # there's a genuinely notable one — never fabricated, and each
         # lookup is an O(1)/O(log n) cache hit (see guide/models.py), not a
-        # per-request scan, so this stays cheap regardless of traffic.
+        # per-request scan, so this stays cheap regardless of traffic. When
+        # one exists, lead with it instead of "a X city first" (which would
+        # otherwise repeat the same dimension twice back to back) and only
+        # mention the second dimension as a lighter aside.
         top_field, top_value = scored[0]
         top_label = DIMENSION_LABELS[top_field].lower()
         worldwide_pct = dimension_percentile(top_field, top_value)
@@ -575,14 +577,16 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
 
         achievement = None
         if worldwide_pct <= 1:
-            achievement = f"One of the world's best for <em>{top_label}</em>."
+            achievement = f"{page.title} is one of the world's best for <em>{top_label}</em>."
         elif total >= 5 and rank == 1:
-            achievement = f"The top <em>{top_label}</em> destination in {country_title}."
+            achievement = f"{page.title} is the top <em>{top_label}</em> destination in {country_title}."
         elif total >= 5 and rank is not None and rank <= 3:
-            achievement = f"One of {country_title}'s top three for <em>{top_label}</em>."
+            achievement = f"{page.title} is one of {country_title}'s top three for <em>{top_label}</em>."
 
         if achievement:
-            sentence += f" {achievement}"
+            sentence = f"{achievement} Also worth exploring for its <em>{top_two[1]}</em>."
+        else:
+            sentence = f"{page.title} is a <em>{top_two[0]}</em> {noun} first, <em>{top_two[1]}</em> second."
         verdict_html = mark_safe(sentence)
 
         same_country, _ = find_similar_with_match_grouped(page.path)

@@ -9,6 +9,12 @@ tags:
 title: Oriel Chambers
 type: poi
 score: 8.0
+lists:
+- europe/unitedkingdom/england/north_west/liverpool/quiet_world_records_in_liverpools_skyline
+image: oriel_chambers.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Oriel_Chambers,_Liverpool_34.jpg
+image_license: CC BY-SA 4.0
+image_attribution: XeresNelro
 ---
 
 A modest-looking office building on Water Street that occupies an outsized place in architectural history: completed in 1864 to a design by Peter Ellis, it is widely credited as the world's first building with a metal frame supporting a "curtain wall" of glass — a structural concept that would later define skyscraper architecture in Chicago and New York.

@@ -13,6 +13,8 @@ score: 6.2
 sources:
 - http://wikimapia.org/20926390/Purdown-Hill-HAA-Battery
 - https://en.wikivoyage.org/wiki/Bristol
+lists:
+- europe/unitedkingdom/england/south_west/bristol/hidden_bristol_relics
 ---
 
 Purdown AA Battery preserves the remains of a Second World War anti-aircraft site on high ground above Bristol. The concrete structures are stark, but they make the city's wartime geography tangible in a way central plaques often do not.

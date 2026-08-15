@@ -5,21 +5,29 @@ latitude: 53.4853
 longitude: -2.2447
 phone: 0161 834 7961
 tags:
-  - things_to_do
-  - museum
-  - sight
+- things_to_do
+- museum
+- sight
 type: poi
-snippet: The oldest free public library in the English-speaking world, where Marx and Engels worked
-story: >
-  Karl Marx and Friedrich Engels used Chetham's Library regularly during the
-  1840s while Marx was researching what would become Das Kapital. Their
-  preferred alcove — a bay window in the reading room overlooking Long Millgate —
-  still exists, with a small plaque marking where the two men sat. The library
-  has been in continuous operation since 1653, making it the oldest free public
-  library in the English-speaking world.
+snippet: The oldest free public library in the English-speaking world, where Marx
+  and Engels worked
+story: 'Karl Marx and Friedrich Engels used Chetham''s Library regularly during the
+  1840s while Marx was researching what would become Das Kapital. Their preferred
+  alcove — a bay window in the reading room overlooking Long Millgate — still exists,
+  with a small plaque marking where the two men sat. The library has been in continuous
+  operation since 1653, making it the oldest free public library in the English-speaking
+  world.
+
+  '
 sources:
-  - https://en.wikipedia.org/wiki/Chetham%27s_Library
+- https://en.wikipedia.org/wiki/Chetham%27s_Library
 score: 9.2
+lists:
+- europe/unitedkingdom/england/north_west/manchester/places_where_manchester_defied_authority
+image: chethams_library.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Chetham%27s_Library_-_geograph.org.uk_-_5445835.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Anthony O'Neil
 ---
 
 Chetham's Library occupies a medieval fortified house immediately adjacent to Manchester Cathedral, and it feels as though nothing much has changed inside since the 17th century. The building dates from around 1421 and still has its original dark-oak reading bays, chained books, and the atmosphere of a place that has outlasted every change in the city around it.

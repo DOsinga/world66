@@ -1,6 +1,6 @@
 ---
 address: 2-6 Egerton Street, Liverpool, L8 7LY
-latitude: 53.3990
+latitude: 53.399
 longitude: -2.9663
 snippet: Mid-Victorian pub of richly decorated snug rooms, near the Anglican Cathedral
 tags:
@@ -10,6 +10,13 @@ tags:
 title: Peter Kavanagh's
 type: poi
 score: 8.2
+lists:
+- europe/unitedkingdom/england/north_west/liverpool/liverpool_interiors_hiding_a_secret
+- europe/unitedkingdom/england/north_west/liverpool/liverpool_best_pubs
+image: peter_kavanaghs.jpg
+image_source: https://commons.wikimedia.org/wiki/File:PETERS_KAVANAGH,S_TOXTETH_LIVERPOOL_DEC_2012_(8347757722).jpg
+image_license: CC BY-SA 2.0
+image_attribution: calflier001
 ---
 
 A famously characterful Victorian pub on a Georgian terrace south of the Anglican Cathedral. The interior is a warren of small snug rooms, each with carved wood panelling, etched glass, oil paintings, and elaborately painted murals — much of it painted by a former landlord who refused to pay his decorators in cash and gave them free drinks for life instead.

@@ -2,19 +2,26 @@
 title: Curzon Street Station
 type: poi
 tags:
-  - things_to_do
-  - sight
-  - architecture
+- things_to_do
+- sight
+- architecture
 latitude: 52.4829
 longitude: -1.8904
-story: >
-  When Curzon Street Station opened in 1837, it was the world terminus of the first
-  intercity railway — the London and Birmingham Railway. The architect Philip Hardwick
-  designed the grand Ionic portico to announce the arrival of rail travel with suitable
-  magnificence. The London end of the same line had a matching portico at Euston, which
-  was demolished in 1962; Curzon Street survives as the only remaining monument to
-  that inaugural railway age.
+story: 'When Curzon Street Station opened in 1837, it was the world terminus of the
+  first intercity railway — the London and Birmingham Railway. The architect Philip
+  Hardwick designed the grand Ionic portico to announce the arrival of rail travel
+  with suitable magnificence. The London end of the same line had a matching portico
+  at Euston, which was demolished in 1962; Curzon Street survives as the only remaining
+  monument to that inaugural railway age.
+
+  '
 score: 5.6
+lists:
+- europe/unitedkingdom/england/west_midlands/birmingham/birmingham_forgot_to_demolish
+image: curzon_street_station.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Curzon_Street_railway_station-3July2009.jpg
+image_license: CC BY 2.0
+image_attribution: Tony Hisgett
 ---
 
 The oldest surviving railway terminus building in the world, designed by Philip Hardwick and opened in 1837 as the Birmingham terminus of the London and Birmingham Railway. The building is a Grade I listed structure — a grand neoclassical portico with six Ionic columns — that has been empty and increasingly derelict since the railway moved to New Street in 1854. It stands on the edge of Digbeth, east of the city centre.

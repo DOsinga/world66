@@ -15,6 +15,12 @@ tags:
 title: Buckland Abbey
 type: poi
 url: http://www.nationaltrust.org.uk
+lists:
+- europe/unitedkingdom/england/devon/devons_strangest_traditions
+image: buckland_abbey.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Buckland_Abbey-04-2004-gje.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Gerd Eichmann
 ---
 
 A 13th-century Cistercian monastery set on the southern edge of Dartmoor near Yelverton. After the dissolution it was converted into a house and owned by Sir Richard Grenville and then Sir Francis Drake, who kept it until his death in 1596. The building has been extended and altered many times since Tudor days. The National Trust now runs it as a museum — Drake's drum is here, along with exhibits on the abbey's monastic origins and its naval connections. Also easy to visit from [Tavistock](/europe/unitedkingdom/england/bristol_plymouth_and_the_south_west/devon/tavistock).

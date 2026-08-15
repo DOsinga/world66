@@ -14,6 +14,12 @@ tags:
 title: Leadenhall Market
 type: poi
 url: leadenhallmarket.co.uk
+image: leadenhall_market.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Leadenhall_Market_In_London_-_Feb_2006.jpg
+image_license: CC BY 2.5
+image_attribution: Diliff
+lists:
+- europe/unitedkingdom/england/london/best_london_markets
 ---
 
 Tucked into a narrow lane off Gracechurch Street, Leadenhall is a covered Victorian arcade of dark green cast iron, gold lettering, and cobbled floors — built in 1881 on the site of a Roman forum that lay 18 feet below the present street level. The roof, painted maroon and gold, gives the place the look of a Christmas card year-round.

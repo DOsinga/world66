@@ -7,8 +7,17 @@ tags:
 - things_to_do
 - sight
 snippet: The world's first tilting bridge, opened in 2001
-story: The bridge does not lift like Tower Bridge or swing like a railway bridge — it rotates as a single steel arch, the deck pivoting upwards in unison so that a 30-metre yacht can pass beneath in four minutes. Locally it is called the Blinking Eye for the way it appears to slowly open and close from a distance.
+story: The bridge does not lift like Tower Bridge or swing like a railway bridge —
+  it rotates as a single steel arch, the deck pivoting upwards in unison so that a
+  30-metre yacht can pass beneath in four minutes. Locally it is called the Blinking
+  Eye for the way it appears to slowly open and close from a distance.
 score: 8.5
+lists:
+- europe/unitedkingdom/england/north_east/newcastle_upon_tyne/newcastle_world_firsts
+image: gateshead_millennium_bridge.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Gateshead_Millennium_Bridge_-_geograph.org.uk_-_7610897.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Carroll Pierce
 ---
 
 The 21st-century symbol of Newcastle-Gateshead — a 105-metre pedestrian and cycle bridge that tilts open like an eyelid when boats need to pass. The mechanism opens and closes a few times a day to a published schedule (and on demand for ships); the operation takes about four minutes and is genuinely worth waiting for.

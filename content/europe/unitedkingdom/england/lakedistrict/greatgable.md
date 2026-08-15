@@ -10,6 +10,12 @@ tags:
 title: Great Gable
 type: poi
 score: 9.2
+lists:
+- europe/unitedkingdom/england/lakedistrict/lake_districts_best_fell_walks
+image: greatgable.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Great_gable_and_sty_head.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Doug Sim
 ---
 
 Great Gable is one of the most striking and most popular mountains in the Lake District. The eastern slopes, rising from Styhead pass between Borrowdale and Wasdale, form the most frequently used route up the mountain. The National Trust, who own the mountain, have laid a pitched path through the eroded scree.

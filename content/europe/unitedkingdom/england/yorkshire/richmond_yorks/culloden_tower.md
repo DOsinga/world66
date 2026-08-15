@@ -15,6 +15,12 @@ tags:
 - viewpoint
 title: Culloden Tower
 type: poi
+lists:
+- europe/unitedkingdom/england/eccentric_english_follies
+image: culloden_tower.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Culloden_Tower_from_the_SW_01.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Kognos
 ---
 
 Culloden Tower stands above Richmond as one of Yorkshire's stranger and more handsome follies. It was built in the 18th century to commemorate the Duke of Cumberland's victory at Culloden, a political message now more uncomfortable than triumphant. Architecturally it is still a treat: part Gothic flourish, part classical tower, looking out over the Swale and the edge of the Dales.

@@ -12,6 +12,12 @@ tags:
 - nature
 title: Leigh Woods
 type: poi
+lists:
+- europe/unitedkingdom/england/south_west/bristol/best_bristol_viewpoints
+image: leigh_woods.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bristol_MMB_%C2%ABD0_Avon_Gorge.jpg
+image_license: CC BY-SA 3.0
+image_attribution: mattbuck (category)
 ---
 
 Leigh Woods gives Bristol a useful outdoor counterweight to streets, shops, and museums. Paths, open space, and local landscape are the draw here, with enough room to slow down and see how residents use the edge of the city.

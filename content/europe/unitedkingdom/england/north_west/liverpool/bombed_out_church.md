@@ -9,6 +9,12 @@ tags:
 title: St Luke's (Bombed-Out Church)
 type: poi
 score: 8.1
+lists:
+- europe/unitedkingdom/england/north_west/liverpool/liverpool_interiors_hiding_a_secret
+image: bombed_out_church.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Church_of_St_Luke_(Bombed_Out_Church)_Liverpool.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Stowarzyszeniedt
 ---
 
 The shell of St Luke's Church, gutted by a German firebomb on the night of 5 May 1941 and deliberately left as a permanent memorial to those who died in the Liverpool Blitz. The neogothic walls and tower are intact; the roof, pews and interior are gone, replaced by an open-air courtyard with grass, trees and pop-up bars.

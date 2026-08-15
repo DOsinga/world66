@@ -9,6 +9,12 @@ tags:
 - ouseburn
 snippet: Whisky-bottling-plant-turned-music-venue in the Ouseburn
 score: 7.5
+lists:
+- europe/unitedkingdom/england/north_east/newcastle_upon_tyne/best_newcastle_pubs
+image: cluny.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Thecluny.JPG
+image_license: CC BY-SA 3.0
+image_attribution: Bagnelli
 ---
 
 The most reliable music venue in Newcastle for new bands and the slightly bigger names that have not quite outgrown a 300-capacity room. Touring acts in folk, indie, post-rock, and Americana cycle through more or less every night of the week. The bar is open through the day for coffee, beer, and decent pub food.

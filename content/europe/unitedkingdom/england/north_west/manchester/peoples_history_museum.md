@@ -5,20 +5,28 @@ latitude: 53.4808
 longitude: -2.2528
 phone: 0161 838 9190
 tags:
-  - things_to_do
-  - museum
+- things_to_do
+- museum
 type: poi
-snippet: Two centuries of British working-class and labour movement history, free entry
-story: >
-  The museum holds one of the world's largest collections of trade union banners —
-  elaborate silk panels hand-embroidered with political imagery and carried on
-  demonstrations from the 1830s onward. The Peterloo massacre of 1819, when
-  cavalry charged a peaceful crowd of 60,000 people gathered on St Peter's Field
-  to demand parliamentary reform, is documented here with particular power: the
-  museum stands a short walk from where it happened.
+snippet: Two centuries of British working-class and labour movement history, free
+  entry
+story: 'The museum holds one of the world''s largest collections of trade union banners
+  — elaborate silk panels hand-embroidered with political imagery and carried on demonstrations
+  from the 1830s onward. The Peterloo massacre of 1819, when cavalry charged a peaceful
+  crowd of 60,000 people gathered on St Peter''s Field to demand parliamentary reform,
+  is documented here with particular power: the museum stands a short walk from where
+  it happened.
+
+  '
 sources:
-  - https://en.wikipedia.org/wiki/People%27s_History_Museum
+- https://en.wikipedia.org/wiki/People%27s_History_Museum
 score: 8.9
+lists:
+- europe/unitedkingdom/england/north_west/manchester/places_where_manchester_defied_authority
+image: peoples_history_museum.jpg
+image_source: https://commons.wikimedia.org/wiki/File:People%27s_History_Museum_from_Salford.JPG
+image_license: CC BY-SA 4.0
+image_attribution: Patyo1994
 ---
 
 The People's History Museum tells the story of British democracy and the labour movement from the 1780s to the present, and it does so with unexpected flair. The building itself — an Edwardian pump house beside the River Irwell — has been dramatically refitted, and the exhibition design is engaging rather than worthy. Free entry.

@@ -7,8 +7,17 @@ tags:
 - things_to_do
 - sight
 snippet: The largest independent library outside London, since 1825
-story: The Literary and Philosophical Society of Newcastle upon Tyne was founded in 1793, making it the oldest independent library outside London. In 1879 it became the first public building in the world to be lit by Joseph Swan's incandescent lightbulb — three years before any equivalent demonstration in the United States.
+story: The Literary and Philosophical Society of Newcastle upon Tyne was founded in
+  1793, making it the oldest independent library outside London. In 1879 it became
+  the first public building in the world to be lit by Joseph Swan's incandescent lightbulb
+  — three years before any equivalent demonstration in the United States.
 score: 8.9
+lists:
+- europe/unitedkingdom/england/north_east/newcastle_upon_tyne/newcastle_world_firsts
+image: lit_and_phil.jpg
+image_source: https://commons.wikimedia.org/wiki/File:SIR_JAMES_KNOTT_ROOM_(14059228470).jpg
+image_license: CC BY 2.0
+image_attribution: summonedbyfells
 ---
 
 A first-floor library opposite Central Station, free to enter and one of the loveliest reading rooms in Britain. The 1825 building, by John Green, has a barrel-vaulted ceiling, two galleries, and a soft, library-quiet atmosphere that survives intact. The 170,000-volume collection is open-shelf and browsable; tea is served on the gallery for a few pounds in the afternoons.

@@ -1,18 +1,24 @@
 ---
-title: "Cheese Lane Shot Tower"
+title: Cheese Lane Shot Tower
 type: poi
 latitude: 51.4537
 longitude: -2.58574
-snippet: "Brutalist Bristol shot tower tied to the citys lead-shot industry"
+snippet: Brutalist Bristol shot tower tied to the citys lead-shot industry
 tags:
-  - things_to_do
-  - sight
-  - industrial_heritage
-  - architecture
+- things_to_do
+- sight
+- industrial_heritage
+- architecture
 score: 6.7
 sources:
-  - "https://en.wikivoyage.org/wiki/Bristol"
-  - "https://en.wikipedia.org/wiki/Cheese_Lane_Shot_Tower"
+- https://en.wikivoyage.org/wiki/Bristol
+- https://en.wikipedia.org/wiki/Cheese_Lane_Shot_Tower
+lists:
+- europe/unitedkingdom/england/south_west/bristol/hidden_bristol_relics
+image: cheese_lane_shot_tower.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Cheese_Lane_Shot_Tower_-_geograph.org.uk_-_8302115.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Peter M
 ---
 
 Cheese Lane Shot Tower is a blunt industrial landmark on Bristol's Floating Harbour, built in 1969 to replace an earlier tower linked to the invention of the shot-tower process. Its concrete form is not pretty in the conventional sense, but it is memorable.

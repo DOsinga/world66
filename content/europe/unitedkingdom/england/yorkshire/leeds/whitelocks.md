@@ -4,10 +4,16 @@ address: Turk's Head Yard, Leeds LS1 6HB
 latitude: 53.7972
 longitude: -1.5431
 tags:
-  - bars_and_cafes
-  - bar
+- bars_and_cafes
+- bar
 type: poi
 score: 7.8
+lists:
+- europe/unitedkingdom/england/yorkshire/leeds/leeds_strangest_survivors
+image: whitelocks.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Whitelock%27s_Ale_House_off_Boar_Lane,_Leeds_-_geograph.org.uk_-_6901089.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Ian S
 ---
 
 Leeds's oldest pub, tucked down a narrow alleyway off Briggate, Whitelock's has been serving beer since 1715. The Victorian bar fittings — copper bar tops, stained glass, ornate mirrors, and tiled walls — are largely original, and the long narrow room still operates much as it always has. It serves a rotating selection of well-kept real ales alongside straightforward pub food.

@@ -13,6 +13,12 @@ tags:
 - religious_site
 title: Shree Geeta Bhawan
 type: poi
+lists:
+- europe/unitedkingdom/england/west_midlands/birmingham/birmingham_places_of_worship
+image: shree_geeta_bhawan.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Shree_Geeta_Bhawan,_Handsworth,_Birmingham_-_2022-04-22_-_Andy_Mabbett_-_01.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Andy Mabbett
 ---
 
 Shree Geeta Bhawan is one of those local religious buildings that rewards a quiet look rather than a rushed checklist visit. It adds texture to Birmingham: architecture, community life, and the long habit of building sacred places in the middle of ordinary neighbourhoods. Its location makes it easy to combine with a walk through the surrounding part of Birmingham.

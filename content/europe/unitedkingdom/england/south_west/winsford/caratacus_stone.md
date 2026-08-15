@@ -1,11 +1,22 @@
 ---
-title: "Caratacus Stone"
+title: Caratacus Stone
 type: poi
 latitude: 51.090527
 longitude: -3.586698
-tags: [things_to_do, sight]
-story: "The Caratacus Stone has stood on Winsford Hill for at least 1,500 years, carved with the inscription CARAACI NEPVS — 'kinsman of Caratacus' — referring to the British chieftain who led resistance against the Roman invasion in the first century. Local lore once held that anyone who moved the stone would be in for terrible luck."
+tags:
+- things_to_do
+- sight
+story: The Caratacus Stone has stood on Winsford Hill for at least 1,500 years, carved
+  with the inscription CARAACI NEPVS — 'kinsman of Caratacus' — referring to the British
+  chieftain who led resistance against the Roman invasion in the first century. Local
+  lore once held that anyone who moved the stone would be in for terrible luck.
 score: 5.7
+lists:
+- europe/unitedkingdom/england/exmoor/exmoors_strangest_sights
+image: caratacus_stone.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Winsford_,_Caratacus_Stone_-_geograph.org.uk_-_6930953.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Lewis Clarke
 ---
 
 The Caratacus Stone is a four-foot pillar of weathered slate standing on open moorland on Winsford Hill, sheltered now under a small Victorian canopy of stone slabs. The inscription is faint and difficult to read, but the connection to one of the most famous figures of early British history makes the stone a small but evocative monument.

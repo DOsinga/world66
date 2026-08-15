@@ -17,4 +17,6 @@ type: section
 
 **Lonely Planet Croatia** remains the most practical current guidebook for on-the-ground detail. The Rough Guide to Croatia is a good alternative.
 
-For fiction, **The Ministry of Pain** by Dubravka Ugrešić follows Croatian exiles in Amsterdam grappling with the loss of Yugoslavia — unsettling and very good.
+For fiction, **The Ministry of Pain** by Dubravka Ugrešić follows Croatian exiles in Amsterdam grappling with the loss of Yugoslavia — unsettling and very good. **On the Edge of Reason** by Miroslav Krleža is an older but essential Croatian novel, a satirical account of a man's breakdown under the pressures of provincial bourgeois society between the wars.
+
+**The Practical Guide to Croatia's Archaeological Sites** by Ante Šušnjara covers Illyrian hillforts, Greek colonies, Roman amphitheatres, and Celtic settlements across the country, pairing modern place names with their ancient equivalents and including underwater sites along the Adriatic. Useful if you want to go beyond Diocletian's Palace and explore lesser-visited ruins.

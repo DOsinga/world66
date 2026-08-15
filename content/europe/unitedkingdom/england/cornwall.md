@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:St_Michael%27s_Mount_View.
 latitude: 50.26
 loc_type: feature
 longitude: -5.05
-score: 0.88
+score: 8.8
 snippet: 'England''s rugged Celtic peninsula: Atlantic surf beaches, cliff-top fishing
   villages, moorland, and world-class art.'
 title: Cornwall

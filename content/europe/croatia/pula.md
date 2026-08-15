@@ -13,6 +13,8 @@ longitude: 13.845531
 score: 9.09
 snippet: Istrian port city with an extraordinary Roman amphitheatre and monuments
   woven through the old town.
+tags:
+- istria
 title: Pula
 type: location
 ---

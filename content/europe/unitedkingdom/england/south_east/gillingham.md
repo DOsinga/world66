@@ -16,7 +16,7 @@ title: Gillingham
 type: location
 ---
 
-Gillingham is one of the Medway towns in north Kent, sitting between [Rochester](/europe/unitedkingdom/england/rochester) and Chatham on the south bank of the River Medway estuary. It is a working town rather than a visitor destination, and most travellers passing through are heading to Rochester for the castle and cathedral, or to the Historic Dockyard at Chatham.
+Gillingham is one of the Medway towns in north Kent, sitting between [Rochester](/europe/unitedkingdom/england/south_east/rochester) and Chatham on the south bank of the River Medway estuary. It is a working town rather than a visitor destination, and most travellers passing through are heading to Rochester for the castle and cathedral, or to the Historic Dockyard at Chatham.
 
 That said, Gillingham has its own points of interest. The [Royal Engineers Museum](/europe/unitedkingdom/england/south_east/gillingham/royal_engineers_museum) on Prince Arthur Road is one of the best military museums in Britain, with exhibits covering the history of the Corps of Royal Engineers from the Norman Conquest to the present day. [The Strand](/europe/unitedkingdom/england/south_east/gillingham/the_strand) is a pleasant riverside area with a small beach and views across the estuary, pleasant on a fine afternoon. Gillingham FC's [Priestfield Stadium](/europe/unitedkingdom/england/south_east/gillingham/priestfield_stadium) is one of the older Football League grounds in the country.
 

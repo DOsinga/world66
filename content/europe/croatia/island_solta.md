@@ -4,12 +4,14 @@ done:
   location_cleanup: '2026-04-07'
 latitude: 43.369525
 longitude: 16.324983
-score: 0.56
+score: 7.9
 snippet: Quiet Dalmatian island near Split, with olive groves, stone villages, and
   a slower local summer rhythm.
-title: Island Šolta
+tags:
+- dalmatia
+title: Šolta Island
 type: location
-loc_type: region
+loc_type: island
 image: island_solta.jpg
 image_source: https://commons.wikimedia.org/wiki/File:%C5%A0olta_Maslinica_Hrvatska_Hafen_2012_d.jpg
 image_license: CC BY-SA 3.0 at

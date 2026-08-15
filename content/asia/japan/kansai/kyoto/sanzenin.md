@@ -1,18 +1,18 @@
 ---
+image: sanzenin.jpg
+image_attribution: 663highland
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:200828_Sanzen-in_Kyoto_Japan01s3.jpg
 latitude: 35.1196
 longitude: 135.8328
 score: 8.0
 snippet: Mountain temple in Ōhara, surrounded by moss gardens and quiet cedar forest
 tags:
-- day_trips
+- things_to_do
 - temple
 - sight
 title: Sanzen-in
 type: poi
-image: sanzenin.jpg
-image_source: https://commons.wikimedia.org/wiki/File:200828_Sanzen-in_Kyoto_Japan01s3.jpg
-image_license: CC BY-SA 4.0
-image_attribution: 663highland
 ---
 
 Sanzen-in sits in the village of Ōhara in a mountain valley about an hour north of central Kyoto, and is one of the most beautiful escapes from the city. The temple was founded in the ninth century, moved repeatedly, and settled in its current location in 1118; it is one of the rare *monzeki* temples — historically headed by imperial princes. The complex is small and compact, but the surrounding moss garden and the wooden walkways through the temple buildings combine to a particularly serene visit.

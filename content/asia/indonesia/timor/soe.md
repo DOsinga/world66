@@ -1,6 +1,7 @@
 ---
 title: Soe
-type: poi
+loc_type: city
+type: location
 tags:
   - things_to_do
   - sight

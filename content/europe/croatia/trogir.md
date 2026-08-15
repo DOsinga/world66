@@ -11,6 +11,8 @@ longitude: 16.249716
 score: 9.1
 snippet: UNESCO-listed Adriatic town with a preserved Romanesque-Gothic core on a
   small island near Split.
+tags:
+- dalmatia
 title: Trogir
 type: location
 ---

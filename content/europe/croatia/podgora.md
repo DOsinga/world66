@@ -12,6 +12,8 @@ longitude: 17.075071
 score: 7.91
 snippet: Dalmatian coastal town below Biokovo, with pebble beaches and the Seagull's
   Wings monument.
+tags:
+- makarskariviera
 title: Podgora
 type: location
 ---

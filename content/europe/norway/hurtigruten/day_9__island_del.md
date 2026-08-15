@@ -5,7 +5,7 @@ latitude: 68.4291
 longitude: 17.4257
 snippet: Harstad to Stamsund through Vesterålen, Trollsfjord, and the Lofotens
 tags:
-- sights
+- things_to_do
 title: Day 9 - Island delight!
 type: poi
 score: 9.3

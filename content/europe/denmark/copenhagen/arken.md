@@ -5,7 +5,7 @@ longitude: 12.3874
 score: 8.1
 snippet: Ship-shaped modern art museum on the coast south of Copenhagen, opened 1996
 tags:
-- day_trips
+- things_to_do
 title: ARKEN
 type: poi
 ---

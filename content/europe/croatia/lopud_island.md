@@ -2,11 +2,13 @@
 done:
   location_cleanup: '2026-04-10'
 latitude: 42.685867
-loc_type: region
+loc_type: island
 longitude: 17.950775
-score: 0.6
+score: 7.7
 snippet: Car-free Elafiti island near Dubrovnik, known for Šunj Beach, monastery ruins,
   and a palm-lined waterfront.
+tags:
+- dalmatia
 title: Lopud Island
 type: location
 image: lopud_island.jpg

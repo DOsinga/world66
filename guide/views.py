@@ -15,9 +15,9 @@ from django.utils.safestring import mark_safe
 from . import github
 from .models import (
     CONTENT_DIR, DIMENSION_FIELDS, DIMENSION_LABELS, NAV_TYPES, build_city_tag_index,
-    dimension_percentile, find_dimension_alternatives, find_locations_tagged,
-    find_similar_with_match_grouped, find_tagged_pois, load_page, load_page_from_revision,
-    load_tag_index, resolve_tag_route, _find_city_path,
+    dimension_country_rank, dimension_percentile, find_dimension_alternatives,
+    find_locations_tagged, find_similar_with_match_grouped, find_tagged_pois, load_page,
+    load_page_from_revision, load_tag_index, resolve_tag_route, _find_city_path,
 )
 
 SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
@@ -515,12 +515,10 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
                 'snippet': poi.meta.get('snippet', '') or '',
             })
 
-    # Travel-profile sidebar card: dimension rows, a one-line "verdict",
-    # similar-profile chips, and the RANK OF N GUIDES footer count. See
-    # tools/backfill_dimension_scores.py and guide/models.py's dimension
-    # helpers. Blurbs are a mechanical fallback ("X scores N/10, placing
-    # this in the top N% of all destinations") — there's no data source for
-    # genuine per-location editorial reasoning yet.
+    # Travel-profile sidebar card: dimension rows (each with a nearby
+    # higher-scoring alternative, if any), a one-line "verdict", and
+    # similar-profile chips. See scoring/backfill_dimension_scores.py and
+    # guide/models.py's dimension helpers.
     dimension_rows = []
     verdict_html = None
     similar_in_country = []
@@ -535,6 +533,10 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         if '/' in page.path:
             parent_page = load_page(page.path.rsplit('/', 1)[0])
             parent_title = parent_page.title if parent_page else ''
+
+        country_path = "/".join(page.path.split('/')[:2])
+        country_page = load_page(country_path)
+        country_title = country_page.title if country_page else ''
 
         alternatives_by_field = find_dimension_alternatives(page.path)
         for f, value in scored:
@@ -554,18 +556,34 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
                 'score': f"{value:.1f}",
                 'width_pct': round(value * 10),
                 'percentile_label': percentile_label,
-                'blurb': f"{label} scores {value:.1f}/10, placing {page.title} in the top "
-                         f"{max(1, round(pct))}% of all destinations." if pct <= 50 else
-                         f"{label} scores {value:.1f}/10 for {page.title} — not this destination's strongest suit.",
                 'alternatives': alternatives,
                 'parent_title': parent_title,
             })
 
         noun = 'city' if page.meta.get('loc_type') == 'city' else 'destination'
         top_two = [DIMENSION_LABELS[f].lower() for f, _ in scored[:2]]
-        verdict_html = mark_safe(
-            f"{page.title} is a <em>{top_two[0]}</em> {noun} first, <em>{top_two[1]}</em> second."
-        )
+        sentence = f"{page.title} is a <em>{top_two[0]}</em> {noun} first, <em>{top_two[1]}</em> second."
+
+        # Add one real, computed achievement clause about the top dimension,
+        # when there's a genuinely notable one — never fabricated, and each
+        # lookup is an O(1)/O(log n) cache hit (see guide/models.py), not a
+        # per-request scan, so this stays cheap regardless of traffic.
+        top_field, top_value = scored[0]
+        top_label = DIMENSION_LABELS[top_field].lower()
+        worldwide_pct = dimension_percentile(top_field, top_value)
+        rank, total = dimension_country_rank(page.path, top_field)
+
+        achievement = None
+        if worldwide_pct <= 1:
+            achievement = f"One of the world's best for <em>{top_label}</em>."
+        elif total >= 5 and rank == 1:
+            achievement = f"The top <em>{top_label}</em> destination in {country_title}."
+        elif total >= 5 and rank is not None and rank <= 3:
+            achievement = f"One of {country_title}'s top three for <em>{top_label}</em>."
+
+        if achievement:
+            sentence += f" {achievement}"
+        verdict_html = mark_safe(sentence)
 
         same_country, _ = find_similar_with_match_grouped(page.path)
         for similar_path, match_pct in same_country:
@@ -574,10 +592,6 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
                 similar_in_country.append({'page': similar_page, 'match_pct': match_pct})
         if len(similar_in_country) < 3:
             similar_in_country = []
-        if similar_in_country:
-            country_path = "/".join(page.path.split('/')[:2])
-            country_page = load_page(country_path)
-            country_title = country_page.title if country_page else ''
 
 
     # For small city pages (< 8 POIs total): inline sections directly instead of section cards

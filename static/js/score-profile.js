@@ -1,15 +1,13 @@
-/* Travel profile widget — collapsible dimension rows with hover/focus reasoning */
+/* Travel profile widget — collapsible dimension rows with row highlight */
 (function () {
   var card = document.getElementById('score-profile-card');
   if (!card) return;
 
   var toggle = document.getElementById('score-profile-toggle');
   var body = document.getElementById('score-profile-body');
-  var note = document.getElementById('score-profile-note');
   var toggleLabel = toggle.querySelector('.score-profile-toggle-label');
   var toggleGlyph = toggle.querySelector('.score-profile-toggle-glyph');
   var rows = card.querySelectorAll('.score-profile-row');
-  var idleNote = note.textContent;
 
   function setExpanded(expanded) {
     toggle.setAttribute('aria-expanded', expanded ? 'true' : 'false');
@@ -32,13 +30,10 @@
 
   for (var i = 0; i < rows.length; i++) {
     (function (row) {
-      var blurb = row.getAttribute('data-blurb');
-      function show() { highlight(row, true); note.textContent = blurb; }
-      function hide() { highlight(row, false); note.textContent = idleNote; }
-      row.addEventListener('mouseenter', show);
-      row.addEventListener('mouseleave', hide);
-      row.addEventListener('focus', show);
-      row.addEventListener('blur', hide);
+      row.addEventListener('mouseenter', function () { highlight(row, true); });
+      row.addEventListener('mouseleave', function () { highlight(row, false); });
+      row.addEventListener('focus', function () { highlight(row, true); });
+      row.addEventListener('blur', function () { highlight(row, false); });
     })(rows[i]);
   }
 })();

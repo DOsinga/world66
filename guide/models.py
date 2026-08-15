@@ -940,6 +940,34 @@ def _country_path(path):
     return "/".join(parts[:2]) if len(parts) >= 2 else path
 
 
+@lru_cache(maxsize=1)
+def _country_dimension_ranks():
+    """{path: {field: (rank, total)}} — 1-based rank within the same country
+    (see _country_path) for each dimension. Computed once per process from
+    the already-loaded dimension index (grouping + sorting ~9k in-memory
+    entries), not a filesystem scan, so it's cheap even without warming —
+    warmed anyway in guide/apps.py alongside load_dimension_index()."""
+    index = load_dimension_index()
+    by_country = {}
+    for path, vector in index.items():
+        by_country.setdefault(_country_path(path), []).append((path, vector))
+
+    ranks = {}
+    for entries in by_country.values():
+        total = len(entries)
+        for i, field in enumerate(DIMENSION_FIELDS):
+            ranked = sorted(entries, key=lambda e: e[1][i], reverse=True)
+            for rank, (p, _) in enumerate(ranked, start=1):
+                ranks.setdefault(p, {})[field] = (rank, total)
+    return ranks
+
+
+def dimension_country_rank(path, field):
+    """1-based (rank, total) for path within its own country on field, or
+    (None, 0) if path isn't in the scored index at all."""
+    return _country_dimension_ranks().get(path, {}).get(field, (None, 0))
+
+
 def find_similar_with_match_grouped(path, k=3):
     """Like find_similar_by_scores, but split into (same_country, other_country)
     lists of up to k (path, match_pct) pairs each, nearest-first within each

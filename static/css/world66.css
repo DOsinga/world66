@@ -1297,22 +1297,18 @@ img { max-width: 100%; height: auto; }
   margin-top: 8px;
 }
 
-.score-profile-row-alts .score-profile-similar-label {
+.score-profile-row-alts-label {
+  font-family: var(--label-font);
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--mute);
   margin-bottom: 4px;
 }
 
 .score-profile-row-alts .score-profile-chips {
   margin-top: 0;
-}
-
-.score-profile-note {
-  height: 62px;
-  overflow: hidden;
-  padding-top: 10px;
-  font-family: var(--display-font);
-  font-size: 13.5px;
-  line-height: 1.45;
-  color: var(--ink);
 }
 
 .score-profile-similar {
@@ -1327,7 +1323,7 @@ img { max-width: 100%; height: auto; }
   font-weight: 600;
   letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: var(--mute);
+  color: var(--accent);
 }
 
 .score-profile-chips {
@@ -1351,6 +1347,15 @@ img { max-width: 100%; height: auto; }
 .score-profile-chip:hover {
   border-color: var(--accent);
   color: var(--accent);
+}
+
+.score-profile-chip--static {
+  cursor: default;
+}
+
+.score-profile-chip--static:hover {
+  border-color: var(--line-2);
+  color: var(--ink);
 }
 
 .score-profile-chip-match {

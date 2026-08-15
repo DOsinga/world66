@@ -9,7 +9,7 @@ tags:
 - things_to_do
 - sight
 - architecture
-- latin_quarter
+- ile_de_la_cite
 title: Notre-Dame Cathedral
 type: poi
 story: "All road distances in France are measured from a bronze octagonal marker set in the pavement in front of Notre-Dame — the Point Zéro des Routes de France. The cathedral took 170 years to build, from 1163 to 1345, and was so massive that all of Paris's medieval streets were oriented around it."

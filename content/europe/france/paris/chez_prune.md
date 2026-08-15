@@ -1,13 +1,14 @@
 ---
 address: 36 Rue Beaurepaire, 75010 Paris
-latitude: 48.869218
-longitude: 2.362791
+latitude: 48.8716184
+longitude: 2.3645623
 opening_hours: Mon–Sat 8am–2am; Sun 10am–2am
 price_range: €4–8 drinks
-snippet: The original canal-side cafe that made the Canal Saint-Martin fashionable
+snippet: Original canal-side cafe that made the Canal Saint-Martin fashionable
 tags:
 - bars_and_cafes
 - bar
+- canal_saint_martin
 title: Chez Prune
 type: poi
 score: 6.5

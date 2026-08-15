@@ -1,18 +1,20 @@
 ---
 title: The Wiltern
 type: poi
+latitude: 34.0614963
+longitude: -118.3089080
+tags:
+  - things_to_do
+  - landmark
+  - architecture
+  - theatre
+  - koreatown
+score: 6.5
+snippet: Turquoise Art Deco theatre at Wilshire and Western, now a prized concert venue
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Los_Angeles/Koreatown
-latitude: 34.0613
-longitude: -118.3086
-score: 7.0
-tags:
-- things_to_do
-- architecture
-- theatre
-- koreatown
 ---
 
-The Wiltern anchors the corner of Wilshire and Western with one of Los Angeles's great Art Deco facades. Its green-tiled tower and restored auditorium make it more than just another concert hall.
+A 1931 Art Deco landmark at the corner of Wilshire and Western — the source of the portmanteau name — clad in striking blue-green glazed terracotta. Originally a vaudeville and film palace, it was saved from demolition in the 1980s and now operates as one of the city's best mid-sized concert halls, with a lush Zigzag Moderne interior.
 
-It is still a working venue, hosting touring bands and other live shows. Even if you are not going inside, the building is worth noticing while exploring Koreatown or riding the Wilshire corridor.
+There is nothing to see inside outside of show times, but the exterior is one of the finest pieces of Art Deco in Los Angeles and worth a look on any walk through Koreatown. Check the listings — catching a gig here is the proper way to experience the room.

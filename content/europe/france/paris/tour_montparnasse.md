@@ -1,17 +1,20 @@
 ---
 title: Tour Montparnasse
 type: poi
+latitude: 48.8421098
+longitude: 2.3219721
 tags:
-  - things_to_do
-  - viewpoint
-  - architecture
-latitude: 48.84211
-longitude: 2.32198
-score: 7.5
+- things_to_do
+- sight
+- viewpoint
+- architecture
+- montparnasse
+score: 6.8
+snippet: Lone 1970s skyscraper whose rooftop gives the best Eiffel Tower-inclusive city view
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Paris/15th
 ---
 
-Tour Montparnasse is the tall office tower south of Saint-Germain with one of the clearest public views over Paris. Elevators run to the 56th-floor observation level, with an open rooftop terrace above it.
+The single black skyscraper that breaks the Paris skyline, the 210-metre Tour Montparnasse was finished in 1973 and so disliked that the city banned further high-rises in the centre two years later. Parisians have never forgiven it — the running joke is that its observation deck offers the most beautiful view in Paris precisely because it is the one viewpoint from which you cannot see the tower itself.
 
-The view is the reason to go: from here the Eiffel Tower, Invalides, Sacre-Coeur, and the dense centre of Paris line up in a way they cannot from the Eiffel Tower itself. It is especially useful when Eiffel Tower queues are long or you want a skyline view that includes the tower.
+Jokes aside, the 56th-floor deck and open-air rooftop terrace give a genuinely superb 360-degree panorama, with the Eiffel Tower, Sacré-Cœur, and the sweep of the boulevards laid out below — and far shorter queues than the Eiffel Tower. It is at its best toward sunset. A major renovation of the tower's exterior has been underway in recent years.

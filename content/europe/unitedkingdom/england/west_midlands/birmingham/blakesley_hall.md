@@ -13,6 +13,12 @@ tags:
 - architecture
 title: Blakesley Hall
 type: poi
+lists:
+- europe/unitedkingdom/england/west_midlands/birmingham/birmingham_forgot_to_demolish
+image: blakesley_hall.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Blakesley_Hall_(1).jpg
+image_license: CC BY 2.0
+image_attribution: Tony Hisgett
 ---
 
 Blakesley Hall is a survivor from a Birmingham that mostly vanished: a late Tudor, timber-framed house standing in what is now suburban Yardley. Its black-and-white exterior, garden, and furnished rooms give a domestic counterpoint to the city's better-known industrial and civic sights.

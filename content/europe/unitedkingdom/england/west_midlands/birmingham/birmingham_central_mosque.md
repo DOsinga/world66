@@ -13,6 +13,12 @@ tags:
 - religion
 title: Birmingham Central Mosque
 type: poi
+lists:
+- europe/unitedkingdom/england/west_midlands/birmingham/birmingham_places_of_worship
+image: birmingham_central_mosque.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Birmingham_Central_Mosque.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Oosoom
 ---
 
 Birmingham Central Mosque is an important landmark of the city's postwar religious and social history. Its dome and minaret mark a different Birmingham from the Victorian civic core, pointing to the communities that reshaped the city in the late twentieth century.

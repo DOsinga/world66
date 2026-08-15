@@ -17,6 +17,12 @@ tags:
 - park
 title: Valley of Rocks
 type: poi
+lists:
+- europe/unitedkingdom/england/exmoor/exmoors_strangest_sights
+image: valley_of_rocks.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Valley_of_Rocks_-_geograph.org.uk_-_6004367.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Ian Capper
 ---
 
 A dry valley running parallel to the coast about one kilometre west of Lynton, the Valley of Rocks is the most striking landscape in the immediate area. Its ridgeline is occupied by jagged rock formations — Castle Rock, Rugged Jack, the White Lady — that rise directly from moorland and look nothing like the smooth green hills surrounding them. Feral goats have colonised the outcrops and are completely indifferent to visitors.

@@ -2,15 +2,27 @@
 title: Widecombe Fair
 type: poi
 tags:
-  - things_to_do
-  - sight
-latitude: 50.5760
-longitude: -3.8120
-story: >
-  The song "Widecombe Fair" — known to every English schoolchild — tells the story of old Tom Cobley and his friends borrowing a grey mare to ride to the fair, killing the horse with the weight of seven riders, and being haunted by its ghost. The song dates to at least the early 19th century, though the fair itself goes back centuries earlier. A real Tom Cobley lived in the nearby village of Spreyton in the 18th century and is buried there.
+- things_to_do
+- sight
+latitude: 50.576
+longitude: -3.812
+story: 'The song "Widecombe Fair" — known to every English schoolchild — tells the
+  story of old Tom Cobley and his friends borrowing a grey mare to ride to the fair,
+  killing the horse with the weight of seven riders, and being haunted by its ghost.
+  The song dates to at least the early 19th century, though the fair itself goes back
+  centuries earlier. A real Tom Cobley lived in the nearby village of Spreyton in
+  the 18th century and is buried there.
+
+  '
 sources:
-  - https://en.wikipedia.org/wiki/Widecombe_Fair
+- https://en.wikipedia.org/wiki/Widecombe_Fair
 score: 7.8
+lists:
+- europe/unitedkingdom/england/devon/devons_strangest_traditions
+image: widecombe_fair.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Widecombe_in_the_Moor,_Village_Green_-_geograph.org.uk_-_2649535.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Mr Eugene Birchall
 ---
 
 Widecombe Fair takes place on the second Tuesday of September each year and has done so for centuries, attracting farmers, traders, and visitors from across Devon and beyond. It is primarily an agricultural fair — livestock, produce, and crafts — but the fun fair, the morris dancers, and the general festive chaos make it a proper event rather than a solemn agricultural show.

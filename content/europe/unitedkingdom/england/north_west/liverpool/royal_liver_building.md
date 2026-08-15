@@ -11,6 +11,12 @@ tags:
 title: Royal Liver Building
 type: poi
 score: 8.2
+lists:
+- europe/unitedkingdom/england/north_west/liverpool/quiet_world_records_in_liverpools_skyline
+image: royal_liver_building.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Royal--Liver--Building--Liverpool.jpg
+image_license: CC BY 4.0
+image_attribution: Acediscovery
 ---
 
 The middle and most famous of the Three Graces, completed in 1911 by Walter Aubrey Thomas for the Royal Liver Assurance group. At 90 metres it was the tallest building in Britain at the time of completion and a pioneering use of reinforced concrete on such a scale. The two clock faces are larger than Big Ben's.

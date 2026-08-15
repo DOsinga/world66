@@ -9,6 +9,12 @@ tags:
 - camden_town
 title: The Roundhouse
 type: poi
+lists:
+- europe/unitedkingdom/england/london/london_buildings_second_lives
+image: roundhouse.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Roundhouse,_Chalk_Farm_-_geograph.org.uk_-_5020975.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Jim Osley
 ---
 
 The Roundhouse is one of London's great performance spaces, built in 1847 as a railway engine turntable shed and converted in the 1960s into a venue that has hosted everyone from Pink Floyd and Jimi Hendrix to contemporary touring acts. The circular brick drum is unmistakable, and the main space — a steeply raked auditorium under the original iron columns and roof — is a fine place to see a gig.

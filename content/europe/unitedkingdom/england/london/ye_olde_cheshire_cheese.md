@@ -1,5 +1,8 @@
 ---
 latitude: 51.5136
+lists:
+- europe/unitedkingdom/quirky_uk_pubs
+- europe/unitedkingdom/england/london/historic_london_pubs
 longitude: -0.105
 score: 8.1
 snippet: Historic pub off Fleet Street, rebuilt after the Great Fire
@@ -12,6 +15,10 @@ tags:
 - the_city
 title: Ye Olde Cheshire Cheese
 type: poi
+image: ye_olde_cheshire_cheese.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ye_Olde_Cheshire_Cheese,_Fleet_Street,_EC4.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Ewan-M
 ---
 
 One of London's oldest pubs, rebuilt after the Great Fire of 1666 and hidden down a narrow alley off Fleet Street. Dark, low-ceilinged, and arranged over several rooms and levels, it feels genuinely unchanged. The atmosphere is exceptional in the evenings. Fuller's ales on tap; the food is standard but the surroundings make up for it.

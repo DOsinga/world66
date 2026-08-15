@@ -1,13 +1,20 @@
 ---
 latitude: 53.9607
+lists:
+- europe/unitedkingdom/quirky_uk_pubs
 longitude: -1.0823
+score: 7.2
+snippet: One of the oldest licensed pubs in York, accessed via a covered passageway
+  off Stonegate, licensed since 1644
 tags:
 - bars_and_cafes
 - pub
 title: Ye Olde Starre Inn
 type: poi
-snippet: "One of the oldest licensed pubs in York, accessed via a covered passageway off Stonegate, licensed since 1644"
-score: 7.2
+image: ye_olde_starre_inn.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Inscription_Ye_Olde_Starre_Inne_York_2.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Chabe01
 ---
 
 Ye Olde Starre Inn is reached through a covered galleried passageway off Stonegate — easy to miss if you don't know it's there, which is part of the point. The pub has been licensed since at least 1644, which makes it one of the oldest in York. Low ceilings, uneven floors, and a fire in winter complete the picture. It is by any measure a tourist pub — in a tourist city, on the most tourist-heavy street — but the building itself is genuine and the atmosphere is better than the setting might suggest.

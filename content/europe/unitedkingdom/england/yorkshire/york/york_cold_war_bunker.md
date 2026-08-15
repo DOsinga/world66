@@ -6,8 +6,15 @@ tags:
 - museum
 title: York Cold War Bunker
 type: poi
-snippet: "A 1960s government nuclear monitoring bunker preserved intact, operated by English Heritage"
+snippet: A 1960s government nuclear monitoring bunker preserved intact, operated by
+  English Heritage
 score: 7.1
+lists:
+- europe/unitedkingdom/england/strangest_underground_places_in_england
+image: york_cold_war_bunker.jpg
+image_source: https://commons.wikimedia.org/wiki/File:York_Cold_War_Bunker.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Photograph by Mike Peel (www.mikepeel.net).
 ---
 
 The York Cold War Bunker is one of a network of underground monitoring posts built by the UK government in the 1960s to track nuclear explosions and measure fallout patterns following a Soviet attack. This one, operated by the Royal Observer Corps, was in use from 1961 until 1991 and has been preserved largely intact. English Heritage took it over and opened it to the public, which means you can descend into a two-storey underground structure still equipped with its original instruments, communications equipment, and cramped crew quarters.

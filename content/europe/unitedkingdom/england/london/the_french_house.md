@@ -11,6 +11,12 @@ tags:
 - soho
 title: The French House
 type: poi
+image: the_french_house.jpg
+image_source: https://commons.wikimedia.org/wiki/File:The_French_House,_Soho_2025-04-01.jpg
+image_license: CC BY 2.0
+image_attribution: Matt Brown
+lists:
+- europe/unitedkingdom/england/london/historic_london_pubs
 ---
 
 The French House on Dean Street has been the meeting place of London's bohemian intelligentsia since the 1930s. Brendan Behan, Francis Bacon, Lucian Freud, and Dylan Thomas all drank here — Thomas famously left the manuscript of Under Milk Wood on the bar and had to be telephoned to come back for it. The Free French under de Gaulle used it as a base during the war.

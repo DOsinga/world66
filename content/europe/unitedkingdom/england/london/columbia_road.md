@@ -11,6 +11,12 @@ tags:
 title: Columbia Road Flower Market
 type: poi
 score: 7.5
+image: columbia_road.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Bethnal_Green_,_flower_market,_Columbia_Road_-_geograph.org.uk_-_8043185.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Jim Osley
+lists:
+- europe/unitedkingdom/england/london/best_london_markets
 ---
 
 Columbia Road in Shoreditch operates as a flower market on Sunday mornings — a single street lined with stalls selling cut flowers, plants, shrubs, and bulbs, impossibly crowded and completely atmospheric. The market operates since the 1860s and the Victorian shopfronts along the street now house independent boutiques, galleries, and cafes that open only on market days.

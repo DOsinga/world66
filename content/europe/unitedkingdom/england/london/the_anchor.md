@@ -12,6 +12,12 @@ tags:
 - south_bank
 title: The Anchor Bankside
 type: poi
+image: the_anchor.jpg
+image_source: https://commons.wikimedia.org/wiki/File:The_Anchor_Bank_End_Bankside_Southwark_London_England.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Acabashi
+lists:
+- europe/unitedkingdom/england/london/historic_london_pubs
 ---
 
 The Anchor on Bankside is one of London's great riverside pubs — a rambling 18th-century building on the south bank directly opposite the Tate Modern, with views of St Paul's Cathedral from its terrace. Samuel Johnson drank here. Samuel Pepys watched the Great Fire of London from this spot in 1666.

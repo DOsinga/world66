@@ -1,12 +1,26 @@
 ---
-title: "Culbone Church"
+title: Culbone Church
 type: poi
-tags: [things_to_do, sight, architecture]
+tags:
+- things_to_do
+- sight
+- architecture
 latitude: 51.2213
-longitude: -3.6590
-snippet: "Said to be the smallest complete parish church in England — reached only on foot"
-story: "It was in a farmhouse near Culbone, in 1797, that Samuel Taylor Coleridge dreamed and composed Kubla Khan after taking opium for dysentery. Famously interrupted by 'a person from Porlock' — believed to be a debt collector — he was unable to finish the poem, and the surviving fragment ends mid-line. The actual identity of the visitor has been debated for two centuries."
+longitude: -3.659
+snippet: Said to be the smallest complete parish church in England — reached only
+  on foot
+story: It was in a farmhouse near Culbone, in 1797, that Samuel Taylor Coleridge dreamed
+  and composed Kubla Khan after taking opium for dysentery. Famously interrupted by
+  'a person from Porlock' — believed to be a debt collector — he was unable to finish
+  the poem, and the surviving fragment ends mid-line. The actual identity of the visitor
+  has been debated for two centuries.
 score: 8.3
+lists:
+- europe/unitedkingdom/england/exmoor/exmoors_strangest_sights
+image: culbone_church.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Culbone_Church_-_geograph.org.uk_-_5844427.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Bill Boaden
 ---
 
 Saint Beuno's Church at Culbone is said to be the smallest complete parish church in England — barely 11 metres long and 4 metres wide, seating perhaps thirty people. It sits in a wooded clearing on the steep coastal slope, three kilometres from the nearest road. It can only be reached on foot, by walking the South West Coast Path west from Porlock Weir for about an hour through ancient oak woodland.

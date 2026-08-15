@@ -7,10 +7,12 @@ score: 6.4
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Avonmouth
 tags:
-  - things_to_do
-  - sight
-  - cemetery
-  - history
+- things_to_do
+- sight
+- cemetery
+- history
+lists:
+- europe/unitedkingdom/england/south_west/bristol/slavery_reckoning
 ---
 
 The Quakers Burial Ground is one of Bristol's quieter reminders of the city's religious and trading history. It was the original burial ground for the Society of Friends, whose members formed a close community in Bristol during the 18th century.

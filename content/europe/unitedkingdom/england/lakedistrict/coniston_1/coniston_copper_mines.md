@@ -2,11 +2,17 @@
 latitude: 54.377551
 longitude: -3.095199
 tags:
-  - things_to_do
-  - sight
+- things_to_do
+- sight
 title: Coniston Copper Mines
 type: poi
 score: 8.2
+lists:
+- europe/unitedkingdom/england/lakedistrict/lake_districts_industrial_secrets
+image: coniston_copper_mines.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Looking_across_Coppermines_Valley_-_geograph.org.uk_-_7901007.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Alec MacKinnon
 ---
 
 The slopes of Coniston Old Man and the fells around it were mined for copper from at least Roman times through to the late nineteenth century. At their peak in the 1850s, the Coniston mines employed several hundred men and produced some of the highest-quality copper ore in Britain. The landscape of the upper valley is still marked by the workings: spoil heaps, collapsed adits, ruined processing buildings, and the distinctive blue-green staining on the rocks from copper oxide.

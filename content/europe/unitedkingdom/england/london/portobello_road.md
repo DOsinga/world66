@@ -14,6 +14,12 @@ tags:
 - notting_hill
 title: Portobello Road Market
 type: poi
+image: portobello_road.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Portobello.market.london.arp.jpg
+image_license: Public domain
+image_attribution: Unknown
+lists:
+- europe/unitedkingdom/england/london/best_london_markets
 ---
 
 Portobello Road is London's most famous market street, running from Notting Hill Gate north to Ladbroke Grove. Saturday is the main event for antiques — hundreds of dealers spread across stalls and shops from early morning, selling silverware, ceramics, vintage clothing, prints, and improbable objects. The pricing is generally tourist-facing so bargaining or turning up late in the afternoon can help.

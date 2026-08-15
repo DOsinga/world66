@@ -2,13 +2,26 @@
 title: Tar Barrels of Ottery St Mary
 type: poi
 tags:
-  - things_to_do
-  - sight
+- things_to_do
+- sight
 latitude: 50.7524
 longitude: -3.2785
-story: >
-  The custom is believed to predate the Gunpowder Plot of 1605 that Guy Fawkes' Night ostensibly commemorates — some historians place its origins in pagan fire festivals associated with the end of the harvest season, adapted into the Bonfire Night calendar in the 17th century. Whatever its origins, the barrel-running cannot be insured, cannot be supervised by health and safety protocols, and has continued every 5 November without interruption for as long as anyone can document — making it one of the most stubbornly traditional folk customs in England.
+story: 'The custom is believed to predate the Gunpowder Plot of 1605 that Guy Fawkes''
+  Night ostensibly commemorates — some historians place its origins in pagan fire
+  festivals associated with the end of the harvest season, adapted into the Bonfire
+  Night calendar in the 17th century. Whatever its origins, the barrel-running cannot
+  be insured, cannot be supervised by health and safety protocols, and has continued
+  every 5 November without interruption for as long as anyone can document — making
+  it one of the most stubbornly traditional folk customs in England.
+
+  '
 score: 9.1
+lists:
+- europe/unitedkingdom/england/devon/devons_strangest_traditions
+image: tar_barrels.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ottery_St_Mary_,_Tar_Barrels_-_geograph.org.uk_-_5190341.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Lewis Clarke
 ---
 
 On 5 November each year, the men (and some women) of Ottery St Mary perform an act of collective recklessness that has no parallel in the English calendar: they hoist burning barrels of tar onto their shoulders and run through the packed streets of the town. Each barrel weighs between 30 and 60 kilograms and burns at close to 1,000°C. The barrel-carriers wear thick gloves but are otherwise unprotected. The crowds are dense and the streets are narrow. It is as dangerous and spectacular as it sounds.

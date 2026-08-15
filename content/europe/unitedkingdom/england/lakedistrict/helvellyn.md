@@ -8,6 +8,12 @@ tags:
 title: Helvellyn
 type: poi
 score: 9.5
+lists:
+- europe/unitedkingdom/england/lakedistrict/lake_districts_best_fell_walks
+image: helvellyn.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Descending_Helvellyn_-_geograph.org.uk_-_4346985.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Michael Graham
 ---
 
 At 950 metres, Helvellyn is England's third-highest peak and probably its most popular serious walk. The summit plateau is broad and unspectacular on its own, but the two ridges flanking the eastern corrie — Striding Edge and Swirral Edge — make the standard circuit from [Glenridding](/europe/unitedkingdom/england/lakedistrict/glenridding) one of the finest mountain days in the country.

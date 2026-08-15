@@ -11,6 +11,12 @@ tags:
 title: Liverpool Cathedral
 type: poi
 score: 9.6
+lists:
+- europe/unitedkingdom/england/north_west/liverpool/quiet_world_records_in_liverpools_skyline
+image: liverpool_cathedral.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Liverpool_Anglican_Cathedral_from_Hope_Street.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Rodhullandemu
 ---
 
 The largest cathedral in Britain and the fifth largest in the world, built from red sandstone over 74 years (1904--1978) to a design by Giles Gilbert Scott, who was just 22 when he won the competition. The interior is cavernous and the tower offers sweeping views across the city, the Mersey and into North Wales on a clear day. Free to enter; a small charge for the tower.

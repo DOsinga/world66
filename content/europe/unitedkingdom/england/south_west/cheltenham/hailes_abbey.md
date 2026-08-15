@@ -11,6 +11,12 @@ tags:
 - sight
 title: Hailes Abbey
 type: poi
+lists:
+- europe/unitedkingdom/england/cotswolds/cotswolds_strangest_stories
+image: hailes_abbey.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Hailes_Abbey_Landscape.jpg
+image_license: CC BY-SA 3.0
+image_attribution: Saffron Blaze
 ---
 
 Hailes Abbey is a Cistercian ruin in the countryside north-east of Cheltenham, once an important pilgrimage site because of a relic believed to be the Holy Blood. The monastery was dissolved under Henry VIII, leaving arches, foundations, and enough stonework to suggest the scale of the place.

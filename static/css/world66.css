@@ -1615,7 +1615,7 @@ img { max-width: 100%; height: auto; }
 
 /* Sections wrap — "Explore" heading + card grid */
 .sections-row-wrap {
-  padding-top: 48px;
+  padding-top: 24px;
   padding-bottom: 0;
 }
 
@@ -1974,6 +1974,226 @@ img { max-width: 100%; height: auto; }
 .dest-card-children-more {
   opacity: 0.45 !important;
   font-style: italic;
+}
+
+/* --- Lists: a curated "top N" page (type: list) --- */
+
+.list-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 14px;
+  margin-bottom: 32px;
+}
+
+.list-card {
+  position: relative;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  border-radius: 4px;
+  background: var(--paper-2);
+  text-decoration: none;
+  display: block;
+}
+
+.list-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.4s ease;
+}
+
+.list-card:hover img {
+  transform: scale(1.04);
+}
+
+.list-card-veil {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, transparent 40%, rgba(0,0,0,0.65) 100%);
+}
+
+.list-card--no-image .list-card-veil {
+  background: linear-gradient(180deg, transparent 50%, rgba(0,0,0,0.25) 100%);
+}
+
+.list-card--no-image .list-card-txt {
+  color: var(--ink);
+}
+
+.list-card-rank {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  font-family: var(--display-font);
+  font-style: italic;
+  font-weight: 700;
+  font-size: 34px;
+  color: #fff;
+  line-height: 1;
+  text-shadow: 0 1px 6px rgba(0,0,0,0.4);
+}
+
+.list-card--no-image .list-card-rank {
+  color: var(--accent);
+  opacity: 0.6;
+  text-shadow: none;
+}
+
+.list-card-txt {
+  position: absolute;
+  bottom: 16px;
+  left: 16px;
+  right: 16px;
+  color: #fff;
+}
+
+.list-card-name {
+  font-family: var(--display-font);
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.15;
+}
+
+.list-card-snippet {
+  margin-top: 5px;
+  font-size: 12px;
+  line-height: 1.35;
+  opacity: 0.85;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+@media (max-width: 768px) {
+  .list-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* --- Lists: featured-list callout on a location page --- */
+
+.featured-list-section {
+  margin-top: 40px;
+  margin-bottom: 32px;
+}
+
+.featured-list-carousel {
+  position: relative;
+  aspect-ratio: 21 / 9;
+  min-height: 180px;
+  border-radius: 8px;
+  overflow: hidden;
+  background: var(--ink);
+}
+
+.featured-list-card {
+  position: absolute;
+  inset: 0;
+  display: block;
+  text-decoration: none;
+  background: var(--ink);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 500ms ease;
+  z-index: 0;
+}
+
+.featured-list-card.is-active {
+  opacity: 1;
+  visibility: visible;
+  z-index: 1;
+}
+
+.featured-list-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.featured-list-veil {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, rgba(0,0,0,0.78) 0%, rgba(0,0,0,0.35) 55%, transparent 100%);
+}
+
+.featured-list-txt {
+  position: absolute;
+  bottom: 20px;
+  left: 24px;
+  right: 24px;
+  color: #fff;
+  max-width: 560px;
+}
+
+.featured-list-kicker {
+  font: 700 11px var(--label-font);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+  opacity: 0.95;
+}
+
+.featured-list-name {
+  font-family: var(--display-font);
+  font-weight: 500;
+  font-size: clamp(22px, 3vw, 32px);
+  line-height: 1.15;
+  margin-top: 4px;
+}
+
+.featured-list-snippet {
+  margin-top: 6px;
+  font-size: 14px;
+  line-height: 1.4;
+  opacity: 0.85;
+}
+
+.featured-list-dots {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.featured-list-dot {
+  width: 8px;
+  height: 8px;
+  padding: 0;
+  border: none;
+  border-radius: 50%;
+  background: var(--line-2);
+  cursor: pointer;
+  transition: background 150ms ease, transform 150ms ease;
+}
+
+.featured-list-dot:hover {
+  background: var(--mute);
+}
+
+.featured-list-dot.is-active {
+  background: var(--accent);
+  transform: scale(1.2);
+}
+
+/* --- Lists: "featured on" badge on a POI/location page --- */
+
+.poi-lists-badge {
+  margin-top: 18px;
+  font-size: 13px;
+  color: var(--mute);
+}
+
+.poi-lists-badge-label {
+  font-weight: 600;
+  color: var(--ink);
+  margin-right: 6px;
+}
+
+.poi-lists-badge a {
+  color: var(--accent);
 }
 
 .dest-more {
@@ -3339,7 +3559,7 @@ img { max-width: 100%; height: auto; }
   }
 
   .sections-row-wrap {
-    padding-top: 32px;
+    padding-top: 20px;
   }
 
   /* --- POI list --- */

@@ -178,6 +178,8 @@ class Page:
                     nav_pages.append(page)
                 elif page.page_type == "poi":
                     pois.append(page)
+                elif page.page_type == "list":
+                    pass  # lists are found separately via find_lists(), not part of this triad
                 else:
                     locations.append(page)
 
@@ -223,6 +225,8 @@ class Page:
                 nav_pages.append(page)
             elif page.page_type == "poi":
                 pois.append(page)
+            elif page.page_type == "list":
+                pass
             else:
                 locations.append(page)
 
@@ -252,10 +256,35 @@ class Page:
                 nav_pages.append(page)
             elif page.page_type == "poi":
                 pois.append(page)
+            elif page.page_type == "list":
+                pass
             else:
                 locations.append(page)
 
         return nav_pages, locations, pois
+
+    def find_lists(self):
+        """Return type: list pages living directly in this page's own directory.
+
+        Lists are curated by hand (an explicit `items:` path list in their own
+        frontmatter) rather than aggregated by tag, so finding them is just a
+        directory scan, not a site-wide search.
+        """
+        if self.source_ref:
+            return []  # revision-pinned previews don't need this for now
+        dir_path = CONTENT_DIR / self.path
+        if not dir_path.is_dir():
+            return []
+        results = []
+        for entry in sorted(dir_path.iterdir()):
+            if not (entry.is_file() and entry.suffix == ".md"):
+                continue
+            if entry.stem == self.slug:
+                continue
+            page = _load_page_from_file(entry, self.path + "/" + entry.stem)
+            if page and page.page_type == "list":
+                results.append(page)
+        return sorted(results, key=lambda p: float(p.meta.get("score", 0) or 0), reverse=True)
 
     def tagged_pois(self, _city_tag_index=None):
         """Return POIs tagged with this nav page's tag, found anywhere in the city.

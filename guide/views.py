@@ -393,6 +393,12 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     hero_image_url = f'{page.url_prefix}/content-image/{image_path}' if image_path else None
     hero_image_source = page.meta.get('image_source', '') if image_path else ''
     hero_image_license = page.meta.get('image_license', '') if image_path else ''
+    if not hero_image_url and page.page_type == "list":
+        cover = _list_cover_image(page, source_ref, url_revision=url_revision)
+        if cover:
+            hero_image_url = cover["url"]
+            hero_image_source = cover["source"]
+            hero_image_license = cover["license"]
 
     # Attach image_url to each neighbourhood for card display
     for nb in neighbourhoods:
@@ -518,6 +524,54 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     markers = _collect_markers(page, nav_pages, _map_top, pois, city_tag_index=city_tag_index)
     markers_full = _collect_markers(page, nav_pages, _map_all, pois, city_tag_index=city_tag_index)
 
+    # Lists: a type=list page names its own members explicitly via `items:`
+    # (POIs or locations, mixed freely, in display order) — no query, no
+    # aggregation, just resolving paths the same way linked_locations does.
+    list_items = None
+    if page.page_type == "list":
+        list_items = []
+        list_item_pages = []
+        for i, item_path in enumerate(page.meta.get("items") or []):
+            item = (load_page_from_revision(item_path, source_ref, url_revision=url_revision)
+                    if source_ref else load_page(item_path))
+            if not item:
+                continue
+            list_item_pages.append(item)
+            item_img = _image_path(item, source_ref)
+            list_items.append({
+                "rank": i + 1,
+                "url": item.get_absolute_url(),
+                "title": item.title,
+                "image_url": f"{item.url_prefix}/content-image/{item_img}" if item_img else None,
+                "snippet": item.meta.get("snippet", "") or "",
+            })
+        markers = markers_full = [m for m in (_marker_from_page(p) for p in list_item_pages) if m]
+
+    # A location page (city/region/country/feature) may have one or more
+    # type=list pages living in its own directory. A single list gets a
+    # static callout; more than one autoplays as a carousel, best-scored
+    # first — every slide needs its own resolved cover image, not just the
+    # top one.
+    location_lists = []
+    if page.page_type == "location":
+        for found in page.find_lists():
+            img = _image_path(found, source_ref)
+            if img:
+                found.image_url = f"{found.url_prefix}/content-image/{img}"
+            else:
+                cover = _list_cover_image(found, source_ref, url_revision=url_revision)
+                found.image_url = cover["url"] if cover else None
+            location_lists.append(found)
+
+    # "Featured on" back-references: purely for display, manually kept in
+    # sync with the list's own items: — not derived from anything.
+    poi_lists = []
+    for list_path in page.meta.get("lists") or []:
+        list_page = (load_page_from_revision(list_path, source_ref, url_revision=url_revision)
+                     if source_ref else load_page(list_path))
+        if list_page:
+            poi_lists.append(list_page)
+
     breadcrumbs = page.breadcrumbs()
 
     return render(request, "guide/page.html", {
@@ -557,6 +611,9 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "daytrip_cards": daytrip_cards,
         "more_linked_locations": more_linked_locations,
         "url_prefix": page.url_prefix,
+        "list_items": list_items,
+        "location_lists": location_lists,
+        "poi_lists": poi_lists,
     })
 
 
@@ -907,6 +964,24 @@ def _image_path(page, source_ref=None):
                 return candidate
         elif (CONTENT_DIR / candidate).is_file():
             return candidate
+    return None
+
+
+def _list_cover_image(list_page, source_ref=None, url_revision=None):
+    """A list page has no image of its own — borrow one from the first of
+    its items: that has one, rather than sourcing a dedicated image per list."""
+    for item_path in list_page.meta.get("items") or []:
+        item = (load_page_from_revision(item_path, source_ref, url_revision=url_revision)
+                if source_ref else load_page(item_path))
+        if not item:
+            continue
+        img = _image_path(item, source_ref)
+        if img:
+            return {
+                "url": f"{item.url_prefix}/content-image/{img}",
+                "source": item.meta.get("image_source", ""),
+                "license": item.meta.get("image_license", ""),
+            }
     return None
 
 

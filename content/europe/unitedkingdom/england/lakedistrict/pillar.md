@@ -8,6 +8,12 @@ tags:
 title: Pillar
 type: poi
 score: 8.6
+lists:
+- europe/unitedkingdom/england/lakedistrict/lake_districts_best_fell_walks
+image: pillar.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Pillar_in_close_quarters_(7281726284).jpg
+image_license: CC BY 2.0
+image_attribution: Peer Lawther from Leeds, United Kingdom
 ---
 
 Pillar is one of the Lake District's most rewarding fells. At 892 metres it ranks among the highest in Ennerdale, and its northern face is steep and craggy, dominated by the great pinnacle of Pillar Rock — a separate summit significant enough to appear in most lists of Lakeland two-thousanders, though not in the Marilyn list.

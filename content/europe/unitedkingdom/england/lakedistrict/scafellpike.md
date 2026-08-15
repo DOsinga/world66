@@ -9,6 +9,12 @@ tags:
 title: Scafell Pike
 type: poi
 score: 9.4
+lists:
+- europe/unitedkingdom/england/lakedistrict/lake_districts_best_fell_walks
+image: scafellpike.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Scafell_Pike_-_geograph.org.uk_-_2879640.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Michael Graham
 ---
 
 The highest point of England is somewhat harder to reach than its Scottish and Welsh counterparts. Ben Nevis has a tourist path and Snowdon has a train, but Scafell Pike is relatively remote from any valley base and requires a modicum of navigational expertise.

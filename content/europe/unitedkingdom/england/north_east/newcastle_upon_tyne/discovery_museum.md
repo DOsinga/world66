@@ -8,8 +8,17 @@ tags:
 - sight
 - museum
 snippet: Newcastle's industrial story, with Turbinia at the centre
-story: The centerpiece of the Discovery Museum is Charles Parsons's Turbinia, the first turbine-driven steamship in the world. Parsons crashed her uninvited into the 1897 Spithead Naval Review at 34 knots — twice the speed of any Royal Navy ship — to demonstrate his invention. The Admiralty placed orders within a year.
+story: The centerpiece of the Discovery Museum is Charles Parsons's Turbinia, the
+  first turbine-driven steamship in the world. Parsons crashed her uninvited into
+  the 1897 Spithead Naval Review at 34 knots — twice the speed of any Royal Navy ship
+  — to demonstrate his invention. The Admiralty placed orders within a year.
 score: 8.4
+lists:
+- europe/unitedkingdom/england/north_east/newcastle_upon_tyne/newcastle_world_firsts
+image: discovery_museum.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Discovery_Museum_Newcastle_Tyne_1.jpg
+image_license: CC BY-SA 4.0
+image_attribution: Chabe01
 ---
 
 The story of Tyneside industry — shipbuilding, locomotives, glass, armaments — told in a converted Edwardian Co-operative warehouse a few blocks west of the centre. The main hall is dominated by Turbinia, the 1894 prototype steam-turbine ship that revolutionised naval propulsion. Above her, four floors of fashion, science, and military galleries cover the city's last 200 years in detail.

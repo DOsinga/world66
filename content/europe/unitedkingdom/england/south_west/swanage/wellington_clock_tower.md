@@ -2,11 +2,17 @@
 title: Wellington Clock Tower
 type: poi
 tags:
-  - things_to_do
-  - sight
+- things_to_do
+- sight
 latitude: 50.6075
 longitude: -1.9479
 score: 5.2
+lists:
+- europe/unitedkingdom/england/dorset/dorsets_strangest_uses_of_stone
+image: wellington_clock_tower.jpg
+image_source: https://commons.wikimedia.org/wiki/File:View_across_Swanage_Bay,_with_Wellington_Clock_Tower_-_geograph.org.uk_-_7758332.jpg
+image_license: CC BY-SA 2.0
+image_attribution: David Martin
 ---
 
 The Wellington Clock Tower is a small Gothic Revival tower on the cliff path above Peveril Point, dramatically out of place on its windswept clifftop. It was built in 1854 on the south bank of the Thames in London as a memorial to the Duke of Wellington, and re-erected here in Swanage in 1867 after it had been condemned in London as a nuisance to traffic. The clock was removed when the structure moved — it has been a clock-less clock-tower for over 150 years.

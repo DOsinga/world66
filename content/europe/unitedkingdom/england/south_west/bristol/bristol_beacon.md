@@ -2,13 +2,25 @@
 title: Bristol Beacon
 type: poi
 tags:
-  - things_to_do
-  - sight
+- things_to_do
+- sight
 latitude: 51.4546
 longitude: -2.5981
-story: >
-  The hall was originally called Colston Hall, named after Edward Colston, the Bristol merchant and philanthropist who was also one of the most significant figures in the transatlantic slave trade. In 2020, the same year that protestors pulled down Colston's statue in the city centre, the hall was renamed Bristol Beacon. The renaming coincided with a major renovation programme that also significantly improved the hall's acoustic quality.
+story: 'The hall was originally called Colston Hall, named after Edward Colston, the
+  Bristol merchant and philanthropist who was also one of the most significant figures
+  in the transatlantic slave trade. In 2020, the same year that protestors pulled
+  down Colston''s statue in the city centre, the hall was renamed Bristol Beacon.
+  The renaming coincided with a major renovation programme that also significantly
+  improved the hall''s acoustic quality.
+
+  '
 score: 8.0
+lists:
+- europe/unitedkingdom/england/south_west/bristol/slavery_reckoning
+image: bristol_beacon.jpg
+image_source: https://commons.wikimedia.org/wiki/File:At_Bristol_Beacon_(1)_-_geograph.org.uk_-_7990100.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Anthony O'Neil
 ---
 
 Bristol Beacon is the city's main concert hall and one of the best mid-sized venues in England, with a 2022 renovation that transformed the acoustics while preserving the Grade II listed Victorian building on Colston Street. The hall presents a wide programme from classical orchestral concerts — the BBC National Orchestra of Wales is a regular — to jazz, pop, and world music.

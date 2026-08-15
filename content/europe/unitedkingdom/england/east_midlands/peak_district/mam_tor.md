@@ -1,17 +1,24 @@
 ---
-title: "Mam Tor"
+title: Mam Tor
 type: poi
 tags:
-  - things_to_do
-  - sight
-  - hiking
-  - viewpoint
-  - hillfort
+- things_to_do
+- sight
+- hiking
+- viewpoint
+- hillfort
 latitude: 53.3492
 longitude: -1.8097
 score: 8.4
 source: wikivoyage
-source_url: "https://en.wikivoyage.org/wiki/Castleton"
+source_url: https://en.wikivoyage.org/wiki/Castleton
+lists:
+- europe/unitedkingdom/england/east_midlands/peak_district/peak_districts_rebellious_streaks
+- europe/unitedkingdom/england/east_midlands/peak_district/peak_districts_best_viewpoints
+image: mam_tor.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Looking_over_Mam_Farm_towards_Mam_Tor_-_geograph.org.uk_-_2911126.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Chris Morgan
 ---
 
 Mam Tor rises above Castleton with one of the Peak District's classic views: the Hope Valley on one side, Edale on the other, and a ridge path that makes the climb feel bigger than it is. The summit earthworks are the remains of an Iron Age hillfort, though most visitors come for the walk and the wind.

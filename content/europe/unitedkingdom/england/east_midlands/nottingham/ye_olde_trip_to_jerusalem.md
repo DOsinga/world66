@@ -1,15 +1,24 @@
 ---
+address: Brewhouse Yard, Nottingham NG1 6AD
+latitude: 52.9503
+lists:
+- europe/unitedkingdom/quirky_uk_pubs
+longitude: -1.1512
+score: 8.4
+snippet: A pub built into the caves under Nottingham Castle, claiming to be England's
+  oldest.
+story: The pub's name refers to the legend that crusaders stopped here for a pint
+  on the way to the Holy Land in the 12th century. The cave system the pub occupies
+  certainly dates back that far; the building above it is mostly 17th-century.
+tags:
+- bars_and_cafes
+- bar
 title: Ye Olde Trip to Jerusalem
 type: poi
-latitude: 52.9503
-longitude: -1.1512
-address: Brewhouse Yard, Nottingham NG1 6AD
-tags:
-  - bars_and_cafes
-  - bar
-snippet: A pub built into the caves under Nottingham Castle, claiming to be England's oldest.
-story: "The pub's name refers to the legend that crusaders stopped here for a pint on the way to the Holy Land in the 12th century. The cave system the pub occupies certainly dates back that far; the building above it is mostly 17th-century."
-score: 8.4
+image: ye_olde_trip_to_jerusalem.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Ye_Olde_Trip_To_Jerusalem_-_geograph.org.uk_-_3752599.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Chris Morgan
 ---
 
 The Trip — as everyone calls it — is built directly into the sandstone cliff beneath Nottingham Castle, with a frontage of low, white-washed beams and several of its rooms carved straight into the rock. The pub claims a date of 1189 and disputes the title of "oldest inn in England" with several other contenders; the cave rooms certainly feel as old as anything in the city.

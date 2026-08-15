@@ -1,14 +1,24 @@
 ---
-latitude: 51.2020
+latitude: 51.202
 longitude: -4.0291
 snippet: 17th-century inn built to the proportions of a card deck
-story: Squire George Ley reputedly won his fortune in a single card game and decided to commemorate it in stone — the house went up around 1690 with 52 windows (one per card), 13 doors (one per card in each suit), four floors (suits) and four turrets (aces). It has had a slightly precarious 300 years since then, surviving fire, restoration and conversion to a hotel, but the symbolism still fits.
+story: Squire George Ley reputedly won his fortune in a single card game and decided
+  to commemorate it in stone — the house went up around 1690 with 52 windows (one
+  per card), 13 doors (one per card in each suit), four floors (suits) and four turrets
+  (aces). It has had a slightly precarious 300 years since then, surviving fire, restoration
+  and conversion to a hotel, but the symbolism still fits.
 tags:
 - things_to_do
 - landmark
 title: The Pack o' Cards
 type: poi
 score: 7.5
+lists:
+- europe/unitedkingdom/england/exmoor/exmoors_strangest_sights
+image: pack_o_cards.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Combe_Martin_,_Pack_o%27_Cards_Inn_-_geograph.org.uk_-_6766284.jpg
+image_license: CC BY-SA 2.0
+image_attribution: Lewis Clarke
 ---
 
 The Pack o' Cards is a Grade II*-listed early-Georgian house in the centre of Combe Martin, instantly recognisable by its tiered profile of four shrinking floors stacked one on top of the other. The building's iconography is unmistakable: 52 windows for the cards in a deck, 13 doors for the cards in each suit, four floors for the suits, and four turrets for the aces. It was built around 1690 by Squire George Ley, supposedly from a card-game windfall.

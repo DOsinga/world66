@@ -14,6 +14,10 @@ snippet: Quiet Extremaduran capital built over Roman Augusta Emerita, with a the
   amphitheatre, aqueducts, and Guadiana bridge.
 title: Mérida
 type: location
+heritage: 8.0
+vibrancy: 3.8
+nature: 4.3
+off_the_beaten_track: 2.5
 ---
 
 Mérida punches well above its weight. A quiet provincial capital of around 60,000 people in the heart of [Extremadura](/europe/spain/extremadura), it sits on top of what was once one of the most important cities in Roman Spain — Augusta Emerita, founded in 25 BC as a retirement colony for veteran legionaries. The ruins left behind are extraordinary: a [theatre](/europe/spain/extremadura/merida/teatro_romano) that still hosts performances each summer, an [amphitheatre](/europe/spain/extremadura/merida/anfiteatro_romano), two aqueducts, a [Roman bridge](/europe/spain/extremadura/merida/puente_romano) across the Guadiana that remained in daily use until the 1990s, and [temples](/europe/spain/extremadura/merida/templo_de_diana) scattered through the modern town. UNESCO added it to the World Heritage List in 1993.

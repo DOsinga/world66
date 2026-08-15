@@ -13,6 +13,10 @@ sources:
 - https://travel.state.gov/en/international-travel/travel-advisories/burma.html
 title: Moreh
 type: location
+heritage: 3.9
+vibrancy: 2.2
+nature: 5.5
+off_the_beaten_track: 6.0
 ---
 
 Moreh is Manipur's border town at the end of NH102, where the road from [Imphal](/asia/india/manipur/imphal) and [Tengnoupal](/asia/india/manipur/tengnoupal) drops toward Myanmar's Kabaw Valley. It is a trading town first and a tourist town only in a very limited sense: markets, checkpoints, border traffic, mixed communities, and the feeling of being at the edge of India.

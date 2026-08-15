@@ -16,6 +16,10 @@ title: Kano
 type: location
 snippet: Ancient Hausa trading city in northern Nigeria, centered on a walled Old
   City and Sahel markets.
+heritage: 5.1
+vibrancy: 2.3
+nature: 2.4
+off_the_beaten_track: 7.3
 ---
 
 Kano is one of the most compelling cities to visit in Nigeria. It has been a major trading hub for the Hausa people for centuries — their empire dominated northern Nigeria in the 18th and 19th centuries, and their cultural influence remains enormous. The Old City, ringed by mud walls with 16 gates, is the reason most travellers come.

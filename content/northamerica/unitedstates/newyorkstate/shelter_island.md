@@ -7,8 +7,10 @@ longitude: -72.35
 score: 7.4
 snippet: Quiet island between Long Island's forks, defined by ferries, preserves,
   old houses, and bay beaches.
-original_overview: >
-  Shelter Island is an island and town in Suffolk County, New York, between the two forks of Long Island, reached by ferry from Greenport or North Haven.
+original_overview: 'Shelter Island is an island and town in Suffolk County, New York,
+  between the two forks of Long Island, reached by ferry from Greenport or North Haven.
+
+  '
 sources:
 - https://en.wikivoyage.org/wiki/Shelter_Island
 - https://en.wikipedia.org/wiki/Shelter_Island,_New_York
@@ -17,6 +19,10 @@ image: shelter_island.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bay_on_Shelter_Island.jpg
 image_license: CC BY 2.0
 image_attribution: evan p. cordes
+heritage: 3.2
+vibrancy: 1.8
+nature: 5.6
+off_the_beaten_track: 2.4
 ---
 
 Shelter Island sits between the North and South Forks of Long Island, close to the Hamptons but quieter in almost every way. You arrive by ferry, and that short crossing does a lot of work: traffic thins, the villages feel small, and the island's best pleasures are preserves, bay beaches, old houses, and cycling between them.

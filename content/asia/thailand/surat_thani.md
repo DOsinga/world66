@@ -10,6 +10,10 @@ title: Surat Thani
 type: location
 score: 7.45
 loc_type: city
+heritage: 2.1
+vibrancy: 4.9
+nature: 5.1
+off_the_beaten_track: 2.1
 ---
 
 Surat Thani is a provincial capital on the Gulf of Thailand coast, best known as the jumping-off point for the Samui Archipelago. If you are heading to [Ko Samui](/asia/thailand/kohsamui), Ko Pha-Ngan, or [Ko Tao](/asia/thailand/kohtao), you will most likely pass through here to catch a ferry or a combined bus-ferry ticket from Bangkok.

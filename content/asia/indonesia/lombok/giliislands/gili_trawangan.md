@@ -12,6 +12,10 @@ image: gili_trawangan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gili_Trawangan.jpeg
 image_license: CC BY-SA 3.0
 image_attribution: Mrmerry35
+heritage: 1.3
+vibrancy: 4.5
+nature: 7.5
+off_the_beaten_track: 1.5
 ---
 
 Gili Trawangan is the largest of the three Gili Islands and the one that most travellers arrive on first. The east-facing main beach is lined with restaurants, dive shops, and bars. The party scene is real — the reggae bars stay loud well past midnight, and the Friday night market draws people from all three islands — but the northwest shore of the island, five minutes' walk from the main strip, is entirely deserted: white sand, a reef you can snorkel from the beach, and nobody else around.

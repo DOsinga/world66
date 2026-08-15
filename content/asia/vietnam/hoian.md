@@ -31,6 +31,10 @@ tip: Hoi An glows with thousands of silk lanterns at night and is mostly car-fre
   kills the electric lights.
 title: Hoi An
 type: location
+heritage: 7.6
+vibrancy: 4.8
+nature: 2.2
+off_the_beaten_track: 2.2
 ---
 
 Hoi An is a remarkably well-preserved ancient trading port on the central Vietnamese coast, now a UNESCO World Heritage Site. For several centuries it was one of Southeast Asia's most important commercial hubs, drawing merchants from China, Japan, and the West — a history still visible in the architecture of the Old Town, which blends Chinese merchant houses, Japanese covered bridges, and French colonial shopfronts.

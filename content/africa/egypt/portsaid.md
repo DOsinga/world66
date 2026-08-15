@@ -14,6 +14,10 @@ snippet: Suez Canal port city at the Mediterranean entrance, built around the ca
   nineteenth-century opening.
 title: Port Said
 type: location
+heritage: 3.5
+vibrancy: 2.0
+nature: 1.4
+off_the_beaten_track: 4.5
 ---
 
 Port Said sits at the Mediterranean entrance to the Suez Canal, the city that was built to make the canal possible. Founded in 1859 when construction began, it grew quickly into a cosmopolitan port town where Africa meets Asia and the Mediterranean meets the Red Sea route to the Indian Ocean.

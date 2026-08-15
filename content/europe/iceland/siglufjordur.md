@@ -17,6 +17,10 @@ image: siglufjordur.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Siglufj%C3%B6r%C3%B0ur_(2024).jpg
 image_license: CC BY-SA 4.0
 image_attribution: ThibautRe
+heritage: 2.9
+vibrancy: 2.3
+nature: 6.4
+off_the_beaten_track: 5.0
 ---
 
 Siglufjörður is one of northern Iceland's most atmospheric small towns: a former herring boomtown squeezed between the sea and the steep mountains of the Tröllaskagi peninsula. For much of the 20th century it was Iceland's herring capital, noisy with boats, salting stations, and seasonal workers. When the herring vanished, the town went quiet.

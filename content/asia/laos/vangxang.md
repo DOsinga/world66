@@ -12,6 +12,10 @@ score: 5.9
 snippet: Weathered 11th-century Mon-period Buddha statues by the roadside
 title: Vang Xang
 type: location
+heritage: 4.9
+vibrancy: 2.0
+nature: 4.2
+off_the_beaten_track: 5.3
 ---
 
 The ruins of this Mon-period temple sit beside the road from Vientiane to Luang Prabang, about 66 kilometres from the capital. Built in the 11th century when Buddhist Mon and Hindu Khmer cultures held sway over Southeast Asia, the site retains five weathered Buddha statues. According to local legend, they stand on the site of a former elephant cemetery. It makes a worthwhile stop if you are driving between Vientiane and Vang Vieng.

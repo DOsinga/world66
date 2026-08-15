@@ -9,6 +9,10 @@ snippet: Keralan temple city around Thekkinkadu Maidan, famous for the elephant 
   of Thrissur Pooram.
 title: Thrissur
 type: location
+heritage: 5.4
+vibrancy: 5.4
+nature: 3.4
+off_the_beaten_track: 1.8
 ---
 
 Thrissur is the cultural capital of Kerala, sitting roughly in the geographical centre of the state. The city is built around an oval hillock called the Thekkinkadu Maidan, crowned by the [Vadakkunnathan Temple](/asia/india/kerala/thrissur/vadakkunnathan_temple), one of the oldest Shiva temples in Kerala.

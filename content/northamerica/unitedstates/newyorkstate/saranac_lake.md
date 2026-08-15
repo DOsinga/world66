@@ -14,6 +14,10 @@ snippet: Adirondack mountain village shaped by cure cottages, cold lakes, and a 
   outdoor culture.
 title: Saranac Lake
 type: location
+heritage: 3.8
+vibrancy: 4.0
+nature: 7.7
+off_the_beaten_track: 4.1
 ---
 
 Saranac Lake is a village in the heart of the Adirondack Mountains, surrounded by pristine lakes, evergreen forest, and modest peaks that reward hikers with wide views. It has a year-round mountain-town character that many Adirondack communities lose once the leaves fall.

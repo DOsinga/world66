@@ -14,6 +14,10 @@ title: Dahlak Islands
 type: location
 snippet: Red Sea archipelago off Eritrea, known for coral reefs, sandy islands, and
   long trading history.
+heritage: 3.9
+vibrancy: 1.1
+nature: 7.9
+off_the_beaten_track: 8.7
 ---
 
 An archipelago of some 200 islands scattered across the southern Red Sea, the Dahlak Islands are one of East Africa's best-kept diving secrets. Only four are inhabited, with a total population of around 2,500 people — most of them on Dahlak el Kebir — who still live by fishing, herding goats and camels, much as their ancestors did for centuries.

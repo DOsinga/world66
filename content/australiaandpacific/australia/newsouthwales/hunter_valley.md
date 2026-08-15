@@ -14,6 +14,10 @@ snippet: Australian wine region, the country's oldest, known for Semillon, Shira
   and cellar doors around Pokolbin
 title: Hunter Valley
 type: location
+heritage: 7.8
+vibrancy: 6.4
+nature: 5.6
+off_the_beaten_track: 3.3
 ---
 
 The Hunter Valley is Australia's oldest wine region, about two hours' drive north of Sydney and 40 minutes from Newcastle. The lower Hunter is best known for its Semillon — some of the finest in the world — and Shiraz, while the upper Hunter adds Chardonnay to the mix. More than 150 wineries are scattered across the rolling green hills, most with cellar doors open for tastings.

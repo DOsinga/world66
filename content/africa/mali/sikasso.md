@@ -14,6 +14,10 @@ snippet: Southern Malian city in green border country, anchored by Kénédougou 
   and a busy regional market
 title: Sikasso
 type: location
+heritage: 3.8
+vibrancy: 3.0
+nature: 4.7
+off_the_beaten_track: 6.9
 ---
 
 Sikasso is Mali's second-largest city, in the far south near the borders with Burkina Faso and Côte d'Ivoire. It sits in one of the greenest parts of Mali — the Sikasso region is relatively wet by Sahelian standards and produces mangoes, cotton, and vegetables.

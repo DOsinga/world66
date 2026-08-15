@@ -16,6 +16,10 @@ snippet: Hausa trading city in Niger with a sultan's palace, old quarters, and a
   market
 title: Zinder
 type: location
+heritage: 1.1
+vibrancy: 2.3
+nature: 5.8
+off_the_beaten_track: 7.1
 ---
 
 Zinder was founded in the early 17th century by Hausa tradesmen from [Kano](/africa/nigeria/kano) and grew into a major trading hub on the route between Nigeria and [Agadez](/africa/niger/agadez). When the French arrived, they made it their administrative capital until 1926, when it was replaced by [Niamey](/africa/niger/niamey). Zinder is still Niger's second-largest city, and it has the best market in the country.

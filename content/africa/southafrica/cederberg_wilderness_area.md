@@ -9,6 +9,10 @@ snippet: Rugged South African mountain wilderness of sandstone formations, cedar
   and dense San rock art.
 title: Cederberg Wilderness Area
 type: location
+heritage: 2.4
+vibrancy: 1.0
+nature: 7.9
+off_the_beaten_track: 5.8
 ---
 
 The Cederberg Wilderness Area takes its name from the rare Clanwilliam cedar tree, once nearly extinct and now slowly recovering. It is a vast, rugged mountain landscape of sandstone formations, waterfalls, crystal-clear streams, and some of the richest concentrations of San (Bushman) rock art in the world.

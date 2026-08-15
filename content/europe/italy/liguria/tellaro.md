@@ -16,6 +16,10 @@ tags:
 - italianriviera
 title: Tellaro
 type: location
+heritage: 4.4
+vibrancy: 2.7
+nature: 6.4
+off_the_beaten_track: 2.9
 ---
 
 Tellaro is one of the prettiest villages on the Ligurian coast, a tight cluster of pastel houses tumbling down a rocky promontory into the Gulf of La Spezia. There are no cars — you park above and walk down steep steps through narrow caruggi to a tiny piazza overlooking the sea.

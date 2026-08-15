@@ -11,6 +11,10 @@ image: small_carpathians.jpg
 image_source: https://commons.wikimedia.org/wiki/File:MAL%C3%89_KARPATY_A_ICH_ZRKADLOV%C3%9D_ODRAZ_-_SMALL_CARPATHIANS_AND_THEIR_MIRROR_IMAGE_-_panoramio.jpg
 image_license: CC BY-SA 3.0
 image_attribution: ANDREJ NEUHERZ
+heritage: 4.1
+vibrancy: 1.5
+nature: 5.8
+off_the_beaten_track: 3.3
 ---
 
 The Small Carpathians (Malé Karpaty) are a low, wooded mountain range that begins right at the northern edge of [Bratislava](/europe/slovakia/bratislava) and runs northeast toward Trnava. They are gentle hills rather than serious mountains — vineyards on the lower slopes, oak and beech forest above — but their real fame comes from what grows on them. This is one of the only places in Europe where a proper wine country starts within 20 km of a capital city's centre.

@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Falls_Park_on_the_Reedy
 title: Greenville
 type: location
+heritage: 3.9
+vibrancy: 5.3
+nature: 4.2
+off_the_beaten_track: 1.9
 ---
 
 Greenville sits at the edge of the Blue Ridge foothills in upstate South Carolina, about 100 miles northwest of [Columbia](/northamerica/unitedstates/southcarolina/columbia). What was once a mill city has become one of the American South's most striking downtown revivals — the sort of place that surprises visitors who weren't expecting much and ends up keeping them longer than planned.

@@ -11,6 +11,10 @@ image: meru_national_park.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Meru_National_Park,_Kenya_-_31661019755.jpg
 image_license: CC BY 2.0
 image_attribution: Nina R
+heritage: 1.5
+vibrancy: 0.7
+nature: 7.8
+off_the_beaten_track: 5.0
 ---
 
 Meru National Park is one of Kenya's less-visited but more rewarding parks, set about 80 kilometres east of Meru town in a lower, hotter, drier landscape than the highlands. The Tana River and its tributaries run through it, supporting an ecology quite different from the more famous savanna parks — riverine forest, doum palm groves, papyrus swamp, and wide open plains laced with red volcanic soil.

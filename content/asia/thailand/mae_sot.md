@@ -2,12 +2,17 @@
 latitude: 16.7167
 loc_type: city
 longitude: 98.5667
-snippet: Thai border town shaped by Myanmar trade, migrant communities, markets, and temples
+snippet: Thai border town shaped by Myanmar trade, migrant communities, markets, and
+  temples
 sources:
-  - https://en.wikivoyage.org/wiki/Mae_Sot
-  - https://en.wikipedia.org/wiki/Mae_Sot
+- https://en.wikivoyage.org/wiki/Mae_Sot
+- https://en.wikipedia.org/wiki/Mae_Sot
 title: Mae Sot
 type: location
+heritage: 1.7
+vibrancy: 2.5
+nature: 4.6
+off_the_beaten_track: 4.3
 ---
 
 **Mae Sot** sits in western Thailand, close to the Moei River and the border with Myanmar. Many people pass through on their way to Myawaddy, but the town is more than a crossing point. Its markets, food, languages, and temples all show how long this border has pulled people and goods in both directions.

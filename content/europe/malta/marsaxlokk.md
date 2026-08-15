@@ -14,6 +14,10 @@ snippet: Maltese fishing village on a sheltered bay, lined with painted luzzu bo
   and seafood stalls
 title: Marsaxlokk
 type: location
+heritage: 4.9
+vibrancy: 3.0
+nature: 6.2
+off_the_beaten_track: 2.1
 ---
 
 Marsaxlokk is Malta's most photogenic fishing village — a sheltered bay on the southeast coast lined with [brightly painted *luzzu*](/europe/malta/marsaxlokk/luzzu_harbour), the traditional wooden boats with Eyes of Osiris on their prows. The harbour has been in use since Phoenician times, and fishing is still the main business here.

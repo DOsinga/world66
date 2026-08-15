@@ -3,7 +3,8 @@ latitude: 5.2852
 loc_type: feature
 longitude: 115.2478
 score: 7.1
-snippet: Malaysian island territory off Borneo with wartime memorials, wreck diving, and coal-era relics.
+snippet: Malaysian island territory off Borneo with wartime memorials, wreck diving,
+  and coal-era relics.
 sources:
 - https://en.wikivoyage.org/wiki/Labuan
 - https://labuantourism.my/landmarks/
@@ -12,6 +13,10 @@ sources:
 title: Labuan
 type: location
 wikidata: Q214504
+heritage: 4.8
+vibrancy: 4.1
+nature: 5.9
+off_the_beaten_track: 5.4
 ---
 
 Labuan sits just off the northwest coast of Borneo, close to Brunei, and feels different from Malaysia's larger island destinations. It is part duty-free port, part offshore business centre, part quiet island, but its strongest travel identity comes from war memory, coal history, and the sea around it.

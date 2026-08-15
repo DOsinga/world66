@@ -14,6 +14,10 @@ snippet: Mississippi River town best known as Mark Twain's boyhood home and the 
   behind his fiction.
 title: Hannibal
 type: location
+heritage: 3.6
+vibrancy: 1.7
+nature: 2.5
+off_the_beaten_track: 3.4
 ---
 
 Hannibal is a small town on the Mississippi River, about 90 minutes north of St Louis. It is best known as the boyhood home of Mark Twain, and the town leans into the connection with enthusiasm — you can visit the [house where Samuel Clemens grew up](/northamerica/unitedstates/missouri/hanibal_missouri/mark_twain_boyhood_home), explore the [caves](/northamerica/unitedstates/missouri/hanibal_missouri/mark_twain_cave) that inspired *The Adventures of Tom Sawyer*, and walk streets that still feel like they belong in one of his novels.

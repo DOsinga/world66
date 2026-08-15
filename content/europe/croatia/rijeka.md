@@ -13,6 +13,10 @@ snippet: Croatia's main port on the Kvarner Gulf, with Austro-Hungarian architec
   and a layered maritime history.
 title: Rijeka
 type: location
+heritage: 5.4
+vibrancy: 4.4
+nature: 4.0
+off_the_beaten_track: 2.9
 ---
 
 Rijeka is Croatia's third city and its main port, set at the head of the Kvarner Gulf where the Adriatic cuts deepest into the continent. It is a working city rather than a tourist showcase, which gives it a character quite different from the polished coastal towns further south. The Austro-Hungarian architecture, the industrial waterfront, and the gritty energy of the Korzo — the main pedestrian street — recall Trieste more than Dubrovnik.

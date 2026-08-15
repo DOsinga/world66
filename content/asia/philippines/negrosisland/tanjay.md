@@ -14,6 +14,10 @@ snippet: Old Negros Oriental coastal city with a Spanish-era church, plaza, and 
   across Tañon Strait.
 title: Tanjay
 type: location
+heritage: 2.9
+vibrancy: 3.2
+nature: 4.8
+off_the_beaten_track: 2.4
 ---
 
 Tanjay is a small city on the northeastern coast of [Negros Island](/asia/philippines/negrosisland), one of the oldest settlements in Negros Oriental. Founded by Spanish colonists in 1580, it served as the administrative centre for a large stretch of the eastern coast long before [Dumaguete](/asia/philippines/dumaguetecity) grew to prominence.

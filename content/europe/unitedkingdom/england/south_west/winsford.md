@@ -12,6 +12,10 @@ tags:
 - exmoor
 title: Winsford
 type: location
+heritage: 4.9
+vibrancy: 2.4
+nature: 2.2
+off_the_beaten_track: 1.9
 ---
 
 Winsford is widely considered the prettiest village on [Exmoor](/europe/unitedkingdom/england/exmoor), set in a hollow where the River Exe meets the Winn Brook. Thatched cottages cluster around a ford, the [Royal Oak Inn](/europe/unitedkingdom/england/south_west/winsford/royal_oak) sits at its heart, and the village feels remarkably unvisited despite being within easy reach of the moor's main roads.

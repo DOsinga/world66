@@ -3,9 +3,14 @@ latitude: 41.54
 loc_type: feature
 longitude: 2.3833
 score: 7.3
-snippet: Pine-and-oak coastal range behind the Maresme, with marked trails and a ruined hilltop castle.
+snippet: Pine-and-oak coastal range behind the Maresme, with marked trails and a ruined
+  hilltop castle.
 title: Serralada Litoral
 type: location
+heritage: 2.3
+vibrancy: 2.2
+nature: 6.0
+off_the_beaten_track: 2.2
 ---
 
 The Serralada Litoral is the low coastal range that runs the length of the Maresme, a green strip of pine and holm-oak woodland rising between the towns of the shoreline and the inland plain. Much of it is protected as the Parc de la Serralada Litoral, a regional park threaded with marked walking trails that climb out of the wooded valleys to ridgelines with long views down to the Mediterranean — on a clear day you can trace the coast from Barcelona to Blanes.

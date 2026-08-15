@@ -5,10 +5,15 @@ loc_type: city
 latitude: 26.0128
 longitude: -111.3433
 score: 8.0
-snippet: Quiet Baja mission town on the Sea of Cortez, backed by desert mountains and island-rich waters.
+snippet: Quiet Baja mission town on the Sea of Cortez, backed by desert mountains
+  and island-rich waters.
 sources:
-  - https://en.wikivoyage.org/wiki/Loreto_(Baja_California)
-  - https://whc.unesco.org/en/list/1182/
+- https://en.wikivoyage.org/wiki/Loreto_(Baja_California)
+- https://whc.unesco.org/en/list/1182/
+heritage: 3.9
+vibrancy: 2.4
+nature: 5.6
+off_the_beaten_track: 4.6
 ---
 
 Loreto is the Baja town that still feels like a town. It sits between the Sea of Cortez and the Sierra de la Giganta, with a low waterfront, a mission square, fishing boats, and islands just offshore in the national marine park.

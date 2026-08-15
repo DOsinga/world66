@@ -10,6 +10,10 @@ snippet: Compact Slovak city of medieval walls and baroque churches, nicknamed t
   Slovak Rome.
 title: Trnava
 type: location
+heritage: 6.3
+vibrancy: 2.9
+nature: 2.7
+off_the_beaten_track: 2.1
 ---
 
 Trnava is a compact, walkable city about 50 km northeast of [Bratislava](/europe/slovakia/bratislava), often called the "Slovak Rome" for its concentration of churches — there are more than a dozen within the old town walls. The historic centre is ringed by well-preserved [medieval fortifications](/europe/slovakia/trnava/city_walls) and filled with baroque and renaissance facades that rival anything in western Slovakia.

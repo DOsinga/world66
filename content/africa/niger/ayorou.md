@@ -3,12 +3,17 @@ latitude: 14.7308
 loc_type: city
 longitude: 0.9181
 score: 5.9
-snippet: Niger River market town where island villages, pirogues, and hippo country meet the Sahel.
+snippet: Niger River market town where island villages, pirogues, and hippo country
+  meet the Sahel.
 sources:
-  - https://en.wikivoyage.org/wiki/Ayorou
-  - https://en.wikipedia.org/wiki/Ayorou
+- https://en.wikivoyage.org/wiki/Ayorou
+- https://en.wikipedia.org/wiki/Ayorou
 title: Ayorou
 type: location
+heritage: 1.2
+vibrancy: 2.2
+nature: 5.7
+off_the_beaten_track: 7.1
 ---
 
 Ayorou is a small Niger River town near the Mali border, north-west of Niamey and Tillaberi. It is not polished, and it is not a place to come for conventional sightseeing. The reason to come is the river: broad, slow, and alive with pirogues, island villages, market boats, and the chance of seeing hippos in the shallows.

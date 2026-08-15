@@ -14,6 +14,10 @@ title: Gloucester
 snippet: Severn Vale city with a Norman cathedral and restored Victorian docks near
   the historic centre.
 type: location
+heritage: 5.5
+vibrancy: 5.3
+nature: 4.9
+off_the_beaten_track: 2.5
 ---
 
 Gloucester is the county town of Gloucestershire, set in the flat Severn Vale. It is a working city rather than a showpiece, but it has two extraordinary assets: a Norman cathedral and a set of Victorian docks that have been restored intelligently rather than sanitised.

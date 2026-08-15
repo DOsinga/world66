@@ -23,6 +23,10 @@ tip: Lake Bled's island church is reached by a traditional hand-rowed pletna boa
   the local cream cake. Come early or late to dodge the day-trip crowds.
 title: Bled
 type: location
+heritage: 5.6
+vibrancy: 4.8
+nature: 6.2
+off_the_beaten_track: 2.5
 ---
 
 A fairytale castle on a cliff, a crystal-clear lake with a tiny island church, snow-capped Julian Alps as a backdrop — Bled looks almost too picturesque to be real. It is Slovenia's most visited resort, about an hour by bus from [Ljubljana](/europe/slovenia/ljubljana), and it earns the attention.

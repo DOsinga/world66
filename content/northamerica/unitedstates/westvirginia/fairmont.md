@@ -10,6 +10,10 @@ snippet: North-central West Virginia river city known for Italian-American peppe
   rolls and frontier history.
 title: Fairmont
 type: location
+heritage: 3.6
+vibrancy: 3.0
+nature: 6.1
+off_the_beaten_track: 2.8
 ---
 
 Fairmont sits at the confluence of the Monongahela, Tygart Valley, and West Fork rivers in the rolling hills of north-central West Virginia. It is the county seat of Marion County and a small, pleasant town of about 20,000 people with an outsized contribution to American food history.

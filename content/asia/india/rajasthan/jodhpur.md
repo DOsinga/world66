@@ -16,6 +16,10 @@ snippet: Rajasthani fortress city where Mehrangarh rises above blue-painted lane
   bazaars, and the Thar Desert edge.
 title: Jodhpur
 type: location
+heritage: 7.1
+vibrancy: 5.2
+nature: 3.7
+off_the_beaten_track: 1.7
 ---
 
 Jodhpur is dominated by the Mehrangarh Fort, one of the most impressive in India. Perched on a 125-metre cliff above the city, its massive walls seem to grow directly from the rock. The fort alone could fill a day, with its ornate palaces, an excellent museum, and sweeping views of the old city below -- a dense cluster of houses painted in shades of blue, originally a Brahmin tradition that the whole neighbourhood eventually adopted. Seen from the ramparts at sunset, it really does look like a sea of indigo.

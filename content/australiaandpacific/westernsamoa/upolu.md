@@ -11,6 +11,10 @@ sources:
 - https://en.wikipedia.org/wiki/Upolu
 title: Upolu
 type: location
+heritage: 4.6
+vibrancy: 1.1
+nature: 7.3
+off_the_beaten_track: 6.5
 ---
 
 Upolu is the busier and more visited of Samoa's two main islands. It holds the capital, Apia, the international airport, most government offices, and the easiest circuit of beaches, waterfalls, villages, and inland forest. That makes it the practical starting point for almost every trip to Samoa.

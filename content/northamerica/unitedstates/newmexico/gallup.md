@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Gallup_Commercial_Historic_District
 title: Gallup
 type: location
+heritage: 5.2
+vibrancy: 2.5
+nature: 4.2
+off_the_beaten_track: 2.9
 ---
 
 Gallup bills itself as the Indian Jewelry Capital of the World, and it is not exaggerating. With over 70 retail and wholesale outlets dealing in Native American jewelry, baskets, pottery, rugs, and paintings, the town is the place to come for the arts of the Southwest's tribal nations. The [annual Inter-Tribal Ceremonial](/northamerica/unitedstates/newmexico/gallup/inter_tribal_ceremonial) in August brings together dozens of Indian Nations from across the country for several days of dancing, competitions, and one of the region's largest Native American art markets.

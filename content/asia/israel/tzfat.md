@@ -10,6 +10,10 @@ title: Tzfat
 type: location
 snippet: Galilee holy city of Kabbalah, steep stone lanes, ancient synagogues, and
   an artists' quarter.
+heritage: 7.2
+vibrancy: 5.1
+nature: 3.6
+off_the_beaten_track: 2.1
 ---
 
 Tzfat (Safed) sits high in the mountains of the Upper Galilee, at around 900 meters — cool in summer, occasionally snowy in winter. It has been one of the four holy cities of Judaism for centuries and was the center of Jewish mysticism (Kabbalah) in the 16th century, when Rabbi Joseph Karo compiled the Shulchan Aruch here and the mystic Isaac Luria developed Kabbalistic doctrine that spread across the Jewish world.

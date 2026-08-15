@@ -13,6 +13,10 @@ image: chapmans_peak.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cape_Town,_Chapman%27s_Peak_Drive,_South_Africa.jpg
 image_license: CC BY-SA 2.0
 image_attribution: dconvertini
+heritage: 2.7
+vibrancy: 3.4
+nature: 7.4
+off_the_beaten_track: 1.9
 ---
 
 Chapman's Peak Drive snakes for nine kilometres along the cliff edge between [Hout Bay](/africa/southafrica/houtbay) and Noordhoek, the Atlantic dropping away to one side and sheer sandstone cliffs rising on the other. It is the centrepiece of any Cape Peninsula day-trip, and one of the most spectacular coastal drives in the world.

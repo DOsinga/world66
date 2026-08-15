@@ -14,6 +14,10 @@ snippet: Karkonosze gateway city in southwestern Poland, with an arcaded old squ
   and mountain trails nearby.
 title: Jelenia Góra
 type: location
+heritage: 4.5
+vibrancy: 3.0
+nature: 4.8
+off_the_beaten_track: 1.7
 ---
 
 Jelenia Góra sits in the Jelenia Góra Valley in southwestern Poland, surrounded by the Karkonosze Mountains — the highest range in the Sudetes. The town serves as the main gateway to Karkonosze National Park and makes a comfortable base for hiking in summer and skiing in winter.

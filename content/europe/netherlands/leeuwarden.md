@@ -16,6 +16,10 @@ tags:
 - friesland
 title: Leeuwarden
 type: location
+heritage: 6.3
+vibrancy: 4.5
+nature: 3.1
+off_the_beaten_track: 1.5
 ---
 
 Leeuwarden (Ljouwert in Frisian) is the capital of Friesland, the northernmost province of the Netherlands, and one of the Netherlands' smaller but more characterful provincial capitals. The city sits in the middle of a flat landscape of polders, canals, and farmland, and its compact historic centre — a grid of canals flanked by tall brick gables — has the feel of a Dutch city that most tourists never reach.

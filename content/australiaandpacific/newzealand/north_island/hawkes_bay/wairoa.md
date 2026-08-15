@@ -9,6 +9,10 @@ score: 6.43
 snippet: Northern Hawke’s Bay river town where the Wairoa River meets the sea.
 title: Wairoa
 type: location
+heritage: 3.6
+vibrancy: 1.9
+nature: 5.0
+off_the_beaten_track: 3.9
 ---
 
 Wairoa is a quiet river town in northern Hawke’s Bay, set where the Wairoa River meets the sea. It is not a tourist hub, but it is a useful base for some of the best trout fishing in New Zealand and for reaching the wild Mahia Peninsula.

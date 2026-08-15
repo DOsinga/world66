@@ -13,6 +13,10 @@ snippet: Mile-high Rocky Mountain city where Colorado's urban museums and food s
   meet fast access to the Front Range.
 title: Denver
 type: location
+heritage: 6.7
+vibrancy: 6.5
+nature: 7.6
+off_the_beaten_track: 1.6
 ---
 
 Denver sits at the base of the Rocky Mountains at exactly one mile above sea level, a fact marked by a step on the west side of the [State Capitol](/northamerica/unitedstates/colorado/denver/colorado_state_capitol) building. The city has reinvented itself over the past two decades from a quiet cowtown into a genuinely interesting place to spend time, with a strong food scene, good museums, and easy access to the mountains.

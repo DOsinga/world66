@@ -5,11 +5,16 @@ loc_type: city
 latitude: 45.44
 longitude: 141.82
 score: 7.0
-snippet: Japan's northernmost city, facing Sakhalin across cold straits and serving as a ferry base for remote islands.
+snippet: Japan's northernmost city, facing Sakhalin across cold straits and serving
+  as a ferry base for remote islands.
 sources:
-  - https://en.wikivoyage.org/wiki/Wakkanai
-  - https://en.wikipedia.org/wiki/Wakkanai
-  - https://en.wikipedia.org/wiki/North_Breakwater_Dome
+- https://en.wikivoyage.org/wiki/Wakkanai
+- https://en.wikipedia.org/wiki/Wakkanai
+- https://en.wikipedia.org/wiki/North_Breakwater_Dome
+heritage: 3.2
+vibrancy: 2.5
+nature: 5.5
+off_the_beaten_track: 5.4
 ---
 
 Wakkanai is the end of the line in northern Hokkaido: Japan's northernmost city, a windy port facing Sakhalin across the Soya Strait. The city is practical and a little bleak, but that is part of its appeal. You come here for edges, ferries, cold seas, and the odd feeling of being closer to Russia than to Sapporo.

@@ -14,6 +14,10 @@ snippet: Harz mountain market town of half-timbered lanes, steam trains, and a c
   above the square.
 title: Wernigerode
 type: location
+heritage: 7.2
+vibrancy: 4.4
+nature: 4.8
+off_the_beaten_track: 2.5
 ---
 
 Wernigerode is one of the most attractive towns in the Harz mountains, a medieval market town of half-timbered houses that survived the 20th century largely intact. The neo-Gothic castle on the hill above the old town and the ornate [Rathaus](/europe/germany/saxonyanhalt/wernigerode/rathaus) on the [Marktplatz](/europe/germany/saxonyanhalt/wernigerode/marktplatz) are the headline attractions, but it is the dense concentration of timber-frame houses in the lanes around the square that gives the town its real character — some of the houses here date from the 16th and 17th centuries and are painted in warm ochres and reds that brighten even a grey Harz day.

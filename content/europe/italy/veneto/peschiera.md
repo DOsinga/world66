@@ -15,6 +15,10 @@ tags:
 - lake_garda
 title: Peschiera del Garda
 type: location
+heritage: 4.0
+vibrancy: 3.9
+nature: 5.5
+off_the_beaten_track: 2.0
 ---
 
 Peschiera del Garda sits at the point where Lake Garda drains into the Mincio river, its old town ringed by star-shaped [Venetian walls](/europe/italy/veneto/peschiera/venetian_walls) that are now a UNESCO World Heritage Site. With around 10,000 inhabitants, it is one of the smaller towns on the lake, but its position at the southern tip — just 25 km from Verona — makes it a practical and genuinely pleasant base.

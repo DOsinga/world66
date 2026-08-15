@@ -19,6 +19,10 @@ image: yamaguchi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:140720_Jouei-ji_Yamaguchi_Yamaguchi_pref_Japan13s3.jpg
 image_license: CC BY-SA 4.0
 image_attribution: 663highland
+heritage: 4.3
+vibrancy: 3.1
+nature: 5.9
+off_the_beaten_track: 2.4
 ---
 
 Yamaguchi is an understated city at the western end of [Honshu](/asia/japan/honshu), once rich enough under the Ouchi clan to be called the Kyoto of the West. It still has that older cultural thread: temple precincts, garden stones, quiet streets, and a famous pagoda that feels far removed from the faster cities on the Sanyo corridor.

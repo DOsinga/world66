@@ -16,6 +16,10 @@ image: birmingham.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Birmingham_UK_Panorama.jpg
 image_license: CC BY-SA 2.0
 image_attribution: John Gilbert
+heritage: 6.6
+vibrancy: 5.7
+nature: 2.3
+off_the_beaten_track: 1.5
 ---
 
 Birmingham is Britain's second city and it has spent the last few decades proving it deserves the title. Built on industry — this is where the Industrial Revolution found its workforce — the city spent much of the twentieth century living down a reputation for concrete brutalism and spaghetti motorways. That era is over. The centre has been transformed, the canal network rivals Venice for total length, and the cultural scene punches well above its weight.

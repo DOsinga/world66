@@ -15,6 +15,10 @@ image: alliance.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Carhenge.JPG
 image_license: CC BY-SA 4.0
 image_attribution: Jacob C. Kamholz
+heritage: 2.5
+vibrancy: 1.5
+nature: 3.0
+off_the_beaten_track: 2.5
 ---
 
 Alliance sits in the western Nebraska Panhandle, surrounded by long grassland horizons and railroad history. Its famous stop is [Carhenge](/northamerica/unitedstates/nebraska/alliance/carhenge), a full-scale Stonehenge made from old cars, but the town has enough local texture to make it more than a one-photo detour.

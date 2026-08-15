@@ -12,6 +12,10 @@ tags:
 - rivieradellepalme
 title: Cengio
 type: location
+heritage: 5.3
+vibrancy: 1.4
+nature: 5.9
+off_the_beaten_track: 3.3
 ---
 
 Cengio is a small hill town in the Bormida di Millesimo valley, where the Ligurian Alps begin to flatten toward the Po plain. The nearby [Cadibona Pass](/europe/italy/liguria/cengio/cadibona_pass) marks the geographical boundary between the Alps and the Apennines. From the 12th century Cengio was a fief of the Del Carretto family, who built a large castle; the Spanish attempted to take it in 1648 and destroyed much of the medieval fabric, and little remains beyond [some ruins](/europe/italy/liguria/cengio/del_carretto_ruins) and the characteristic stone houses built against the valley walls.

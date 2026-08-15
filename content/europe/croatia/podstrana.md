@@ -14,6 +14,10 @@ snippet: Dalmatian seaside community south of Split, strung along pebble beaches
   pine woods and low hills.
 title: Podstrana
 type: location
+heritage: 3.0
+vibrancy: 3.4
+nature: 5.8
+off_the_beaten_track: 1.9
 ---
 
 Podstrana is a small community on the Dalmatian coast just south of [Split](/europe/croatia/split), stretching for about 6 kilometres between the Zrnovnica stream and the Mutogras hill. The seafront is lined with accessible shingle and pebble beaches backed by Mediterranean pine woods and tamarisk trees, making it a popular escape from the city — you can be on the beach within 20 minutes of Split's old town.

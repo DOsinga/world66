@@ -8,6 +8,10 @@ score: 7.0
 snippet: County Meath town whose abbey once guarded the Book of Kells.
 source: Wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Kells
+heritage: 8.0
+vibrancy: 2.4
+nature: 3.6
+off_the_beaten_track: 3.4
 ---
 
 *Europe > Ireland > Kells*

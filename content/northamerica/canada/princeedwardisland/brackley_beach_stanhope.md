@@ -16,6 +16,10 @@ image: brackley_beach_stanhope.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Brackley_Beach,_PEI_(10482934994).jpg
 image_license: CC BY 2.0
 image_attribution: Larry from Charlottetown, PEI, Canada
+heritage: 2.2
+vibrancy: 2.0
+nature: 5.5
+off_the_beaten_track: 1.9
 ---
 
 Brackley Beach-Stanhope is a loose north-shore stretch of Prince Edward Island rather than a single town. Brackley, Stanhope, Covehead and the lanes between them sit behind dunes, cottages, small farms and the protected beach country of Prince Edward Island National Park.

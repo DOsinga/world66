@@ -15,6 +15,10 @@ snippet: Mountain Sardinian city at the heart of Barbagia, with literary legacy 
   interior traditions intact.
 title: Nuoro
 type: location
+heritage: 6.9
+vibrancy: 5.8
+nature: 5.6
+off_the_beaten_track: 3.3
 ---
 
 Nuoro is the real Sardinia. Tucked into the mountainous heartland of the island, far from the coastal resorts, it is the capital of the Barbagia — a rugged interior region where Sardo is still spoken, traditional festivals survive intact, and the landscape has a spare, almost austere beauty.

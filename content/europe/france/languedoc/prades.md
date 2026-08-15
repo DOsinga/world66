@@ -15,6 +15,10 @@ image: prades.jpg
 image_source: https://commons.wikimedia.org/wiki/File:France_Occitanie_66_Prades_01.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Calips
+heritage: 4.1
+vibrancy: 4.2
+nature: 7.0
+off_the_beaten_track: 3.9
 ---
 
 Prades is a small market town in the Têt Valley, about 45 kilometres west of Perpignan in the Pyrénées-Orientales. It has a compact, walkable centre dominated by a magnificent [Baroque church](/europe/france/languedoc/prades/eglise_saint_pierre), a weekly market, and an unhurried village feel that belies its status as the main town of the valley.

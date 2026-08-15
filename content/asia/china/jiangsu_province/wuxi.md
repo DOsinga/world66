@@ -9,6 +9,10 @@ type: location
 score: 7.35
 snippet: Jiangsu canal city on Lake Tai, known for shoreline gardens, bridges, and
   silk-trade wealth.
+heritage: 4.3
+vibrancy: 5.7
+nature: 2.8
+off_the_beaten_track: 1.5
 ---
 
 Wuxi is a canal city on the southern shore of [Lake Tai](/asia/china/jiangsu_province/wuxi/lake_tai) (Taihu), sitting between Shanghai and Nanjing on one of China's busiest rail corridors. The lake — one of the largest freshwater lakes in the country — defines the city's character: it is a place of water, willow-shaded bridges, and classical gardens, with a pace noticeably slower than the two great cities that bracket it on either side.

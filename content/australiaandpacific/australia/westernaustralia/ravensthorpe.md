@@ -14,6 +14,10 @@ snippet: Small Western Australian town amid ancient ranges, known for spring wil
   and the Ravensthorpe Range.
 title: Ravensthorpe
 type: location
+heritage: 2.5
+vibrancy: 1.4
+nature: 5.7
+off_the_beaten_track: 4.7
 ---
 
 Ravensthorpe is a small town in Western Australia, roughly 550 km southeast of Perth, 290 km east of Albany, and 187 km west of Esperance. It sits among ancient ranges, rocky hills, and rugged river valleys, with bushland rich in geology, native flora, and fauna.

@@ -15,6 +15,10 @@ snippet: Oklahoma state capital reshaped by Bricktown, oil history, cowboy cultu
   and the National Memorial
 title: Oklahoma City
 type: location
+heritage: 1.6
+vibrancy: 2.2
+nature: 2.2
+off_the_beaten_track: 1.2
 ---
 
 Oklahoma City is the state capital and by far the largest city, with a metropolitan population of over 1.4 million. It has transformed itself from a sprawling oil town into a city with genuine character, largely through investment in its inner-city districts.

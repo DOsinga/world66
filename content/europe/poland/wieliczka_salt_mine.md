@@ -23,6 +23,10 @@ tags:
 - sight
 title: Wieliczka Salt Mine
 type: location
+heritage: 7.8
+vibrancy: 3.5
+nature: 3.2
+off_the_beaten_track: 2.4
 ---
 
 Fifteen kilometres southeast of Krakow, the Wieliczka Salt Mine has been extracting salt from beneath the Carpathian foothills since the 13th century and is one of the oldest industrial enterprises in Europe. The mine was a crucial source of Poland's royal revenue for centuries — "white gold" — and the inscribed UNESCO World Heritage Site status reflects both its historical significance and the extraordinary spaces the miners created underground.

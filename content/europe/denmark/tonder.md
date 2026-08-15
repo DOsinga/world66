@@ -14,6 +14,10 @@ snippet: Southern Jutland market town of gabled streets, lace heritage, marshlan
   and the Tønder Festival.
 title: Tonder
 type: location
+heritage: 1.8
+vibrancy: 1.8
+nature: 4.1
+off_the_beaten_track: 3.5
 ---
 
 Tønder is [Denmark's](/europe/denmark) oldest market town, sitting right on the German border in the flat, windswept marshlands of southern Jutland. For centuries it was famous for its lace — Tønder lace was exported across Europe, and the [town museum](/europe/denmark/tonder/tonder_museum) still has a definitive collection. Today it is a quiet, well-preserved town of [old gabled houses and cobbled streets](/europe/denmark/tonder/old_town), pleasant to walk around but not heavily touristed.

@@ -7,9 +7,14 @@ longitude: -72.5438
 score: 7.0
 wikidata: Q44012
 sources:
-  - https://en.wikivoyage.org/wiki/Trois-Rivi%C3%A8res
-  - https://en.wikipedia.org/wiki/Trois-Rivi%C3%A8res
-snippet: Old St. Lawrence city between Montréal and Québec City with iron, prison, and paper history.
+- https://en.wikivoyage.org/wiki/Trois-Rivi%C3%A8res
+- https://en.wikipedia.org/wiki/Trois-Rivi%C3%A8res
+snippet: Old St. Lawrence city between Montréal and Québec City with iron, prison,
+  and paper history.
+heritage: 3.9
+vibrancy: 3.7
+nature: 5.2
+off_the_beaten_track: 2.3
 ---
 
 Trois-Rivières sits on the St. Lawrence between [Montréal](/northamerica/canada/quebec/montreal) and [Québec City](/northamerica/canada/quebec/quebeccity), and it is much more than a fuel stop between the two. Founded in 1634, it is one of the oldest cities in Québec, with a small old quarter, a working-class river identity, and several museums that do not feel generic.

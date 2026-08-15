@@ -15,6 +15,10 @@ image: castle_of_rocca_calascio.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Calascio_-_Castello_di_Rocca_Calascio_-_2025-09-03_20-35-56_001.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Maurizio Moro5153
+heritage: 6.9
+vibrancy: 1.4
+nature: 7.3
+off_the_beaten_track: 5.8
 ---
 
 The Castle of Rocca Calascio is one of Abruzzo's most dramatic ruins, a small stone fortress perched high above the Gran Sasso landscape. Its walls and towers are stark rather than ornate, but the setting makes the place unforgettable.

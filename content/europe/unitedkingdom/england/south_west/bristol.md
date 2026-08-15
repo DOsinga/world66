@@ -15,6 +15,10 @@ snippet: Southwest England's largest city, a historic port linked to Brunel, Cab
   and the Clifton Suspension Bridge.
 title: Bristol
 type: location
+heritage: 8.2
+vibrancy: 7.1
+nature: 3.8
+off_the_beaten_track: 2.1
 ---
 
 Bristol is the largest city in southwest England, with around half a million people, and it has more character than most British cities twice its size. Historically a county in its own right, it sits between Somerset and Gloucestershire and made its fortune as a major trading port — first in wine and spirits, then in shipping and engineering.

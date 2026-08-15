@@ -10,6 +10,10 @@ snippet: Southern Pomeranian region of pine forests, glacial lakes, rivers, and 
   market town of Chojnice.
 title: Ziemia Chojnicka
 type: location
+heritage: 6.0
+vibrancy: 1.9
+nature: 3.5
+off_the_beaten_track: 2.8
 ---
 
 Ziemia Chojnicka — the Chojnice Region — sits in the southern corner of Pomerania, a landscape of pine forests, clean rivers, and glacial lakes that most visitors to Poland never find. That obscurity is the point. There are no crowds here, and the water is quiet.

@@ -25,6 +25,10 @@ tip: Addis Ababa is one of the highest capitals on earth at 2,355 m, so take the
   markets — and visit Lucy, the 3.2-million-year-old hominid, at the National Museum.
 title: Addis Ababa
 type: location
+heritage: 3.7
+vibrancy: 5.5
+nature: 1.8
+off_the_beaten_track: 4.2
 ---
 
 Addis Ababa sits at 2,500 metres in the Ethiopian highlands, a city that feels perpetually spring-like despite being just a few degrees from the equator. Founded in 1886 by Emperor Menelik II, its name means "New Flower" in Amharic, and the city has been growing restlessly ever since. Today it is home to over five million people and serves as the diplomatic capital of Africa, hosting the African Union and dozens of embassies.

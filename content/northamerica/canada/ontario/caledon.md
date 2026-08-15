@@ -5,10 +5,15 @@ loc_type: city
 latitude: 43.8667
 longitude: -80.0
 score: 6.9
-snippet: Rural Greater Toronto town where the Credit River cuts through escarpment parks and villages.
+snippet: Rural Greater Toronto town where the Credit River cuts through escarpment
+  parks and villages.
 sources:
-  - https://en.wikivoyage.org/wiki/Caledon_(Ontario)
-  - https://en.wikipedia.org/wiki/Caledon,_Ontario
+- https://en.wikivoyage.org/wiki/Caledon_(Ontario)
+- https://en.wikipedia.org/wiki/Caledon,_Ontario
+heritage: 2.5
+vibrancy: 2.9
+nature: 5.6
+off_the_beaten_track: 1.9
 ---
 
 Caledon is the green, rural edge of the Greater Toronto Area: not one tight town centre, but a spread of villages, farms, conservation lands, and Credit River valleys. The Niagara Escarpment runs through it, which is why the landscape changes so sharply from ordinary commuter country to red badlands, wooded gorges, and small waterfalls.

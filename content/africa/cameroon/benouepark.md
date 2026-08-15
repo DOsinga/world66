@@ -9,6 +9,10 @@ snippet: Northern Cameroon game reserve along the Benoue River, with dry-season 
   viewing and compulsory guides.
 title: Benoue Park
 type: location
+heritage: 1.9
+vibrancy: 1.8
+nature: 7.3
+off_the_beaten_track: 4.4
 ---
 
 Benoue National Park is Cameroon's second-largest game reserve, stretching across the Benoue River valley between Ngaoundere and Garoua in the north of the country. It is part of the W-Arly-Pendjari complex, a network of protected areas shared with Nigeria that supports one of the few remaining elephant populations in West and Central Africa.

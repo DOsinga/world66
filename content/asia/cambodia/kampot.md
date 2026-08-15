@@ -15,6 +15,10 @@ snippet: Cambodian riverside town known for French colonial architecture, Bokor 
   views, and Kampot pepper.
 title: Kampot
 type: location
+heritage: 4.2
+vibrancy: 4.2
+nature: 5.0
+off_the_beaten_track: 3.4
 ---
 
 Kampot is a slow, beautiful riverside town on the Praek Tuek Chhu river, about three hours southwest of Phnom Penh and a short drive from the sea. It has become one of the most popular destinations in Cambodia for travellers who want to linger — the river, the French colonial architecture, the night market, the mountains in the background — but it has managed so far to keep some of the unhurried quality that makes it worth staying longer than planned.

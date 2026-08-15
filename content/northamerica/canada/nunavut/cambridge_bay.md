@@ -15,6 +15,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Cambridge_Bay.jpg
 image_license: Public domain
 image_attribution: No machine-readable author provided. CambridgeBayWeather assumed
   (based on copyright claims).
+heritage: 3.1
+vibrancy: 1.0
+nature: 6.6
+off_the_beaten_track: 6.6
 ---
 
 Cambridge Bay, or Iqaluktuuttiaq, is the main settlement on Victoria Island and the practical hub of western Nunavut's Kitikmeot region. It sits on the Northwest Passage, but this is not a cruise-polished Arctic stop. It is a working northern community where the wind, the supply plane, the sea ice, and the price of groceries are part of the story.

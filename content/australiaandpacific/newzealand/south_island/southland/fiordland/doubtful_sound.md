@@ -14,6 +14,10 @@ image: doubtful_sound.jpg
 image_source: https://commons.wikimedia.org/wiki/File:00_1409_New_Zealand,_Fiordland_National_Park_-_Doubtful_Sound_(Tour_boat).jpg
 image_license: CC BY-SA 4.0
 image_attribution: W. Bulach
+heritage: 1.5
+vibrancy: 1.0
+nature: 7.8
+off_the_beaten_track: 6.0
 ---
 
 Doubtful Sound is three times longer and ten times less visited than [Milford Sound](/australiaandpacific/newzealand/milfordsound), and many people who have seen both quietly prefer it. Captain Cook named it Doubtful Harbour in 1770 because he was uncertain whether the winds would let him sail out again once he had sailed in — so he never entered. It stayed one of the last explored fiords in New Zealand well into the twentieth century, and even now it keeps that sense of remoteness.

@@ -18,6 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Los_Morrillos_Lighthouse
 title: Cabo Rojo
 type: location
+heritage: 3.0
+vibrancy: 2.8
+nature: 6.1
+off_the_beaten_track: 1.8
 ---
 
 Cabo Rojo sits at the southwestern tip of Puerto Rico, where the island tapers into a jagged coastline of salt flats, mangroves, and wind-scoured cliffs. It is one of the less-touristed corners of the island — quieter than the east coast resorts, and all the better for it.

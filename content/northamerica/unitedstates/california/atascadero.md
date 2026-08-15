@@ -14,6 +14,10 @@ snippet: Central Coast city founded as a utopian colony, with a domed Italianate
   hall at its core.
 title: Atascadero
 type: location
+heritage: 2.5
+vibrancy: 3.1
+nature: 4.2
+off_the_beaten_track: 2.0
 ---
 
 Atascadero is a city of about 30,000 midway along California's Central Coast, between San Luis Obispo and Paso Robles in San Luis Obispo County. The downtown has a strong architectural centrepiece in the [Atascadero City Hall](/northamerica/unitedstates/california/atascadero/atascadero_city_hall) (1918), a domed Italianate building designed by the city's founder, E.G. Lewis, who intended Atascadero as a utopian colony. The [Charles Paddock Zoo](/northamerica/unitedstates/california/atascadero/charles_paddock_zoo), a small but well-regarded zoo for its size, sits in [Atascadero Lake Park](/northamerica/unitedstates/california/atascadero/atascadero_lake_park) on the south side of town.

@@ -10,6 +10,10 @@ snippet: Menorcan fishing village on a sheltered bay known for watersports and c
   de llagosta.
 title: Fornells
 type: location
+heritage: 3.2
+vibrancy: 4.3
+nature: 4.8
+off_the_beaten_track: 2.4
 ---
 
 Fornells is a small fishing village on the Bay of Fornells on the north coast of Menorca. The bay is large, sheltered, and almost landlocked — perfect conditions for windsurfing and kayaking, and the reason Fornells has become a hub for water sports. The village itself is pretty, with whitewashed houses lining a waterfront that fills with yachts and pleasure craft in summer.

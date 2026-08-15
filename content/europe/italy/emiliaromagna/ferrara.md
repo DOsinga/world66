@@ -15,6 +15,10 @@ snippet: Renaissance city in Emilia-Romagna where palaces and medieval lanes fil
   a UNESCO-listed centre.
 title: Ferrara
 type: location
+heritage: 7.5
+vibrancy: 5.2
+nature: 2.1
+off_the_beaten_track: 1.7
 ---
 
 Ferrara is a wonderful Renaissance city in [Emilia-Romagna](/europe/italy/emiliaromagna) on the banks of the river Po. Its history can be seen in both the sumptuous palazzos and the narrow medieval streets. The entire city centre is a UNESCO World Heritage Site.

@@ -5,9 +5,14 @@ loc_type: city
 latitude: 49.5136
 longitude: -115.7686
 score: 6.5
-snippet: East Kootenay service city with railway history, mountain trails, and Fort Steele close by.
+snippet: East Kootenay service city with railway history, mountain trails, and Fort
+  Steele close by.
 sources:
-  - https://en.wikivoyage.org/wiki/Cranbrook
+- https://en.wikivoyage.org/wiki/Cranbrook
+heritage: 2.3
+vibrancy: 2.2
+nature: 6.5
+off_the_beaten_track: 2.4
 ---
 
 Cranbrook is the main city of the East Kootenays, set between dry interior valleys and the western edge of the Rockies. Many travellers meet it as a highway stop, but it has more than fuel and supplies if you give it a day.

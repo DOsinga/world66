@@ -14,6 +14,10 @@ snippet: Nebraska capital and university city with an Art Deco capitol tower and
   football culture
 title: Lincoln
 type: location
+heritage: 3.6
+vibrancy: 3.9
+nature: 4.7
+off_the_beaten_track: 1.3
 ---
 
 Lincoln is Nebraska's capital and its second-largest city, home to roughly 300,000 people and the University of Nebraska — which means the city has a pulse that most plains capitals lack. The Cornhuskers' [Memorial Stadium](/northamerica/unitedstates/nebraska/lincoln/memorial_stadium) seats nearly 90,000 fans on game days and briefly becomes Nebraska's third-largest city; the din carries for blocks.

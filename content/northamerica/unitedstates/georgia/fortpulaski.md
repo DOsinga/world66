@@ -9,6 +9,10 @@ score: 8.2
 snippet: Civil War fort where rifled cannon ended the age of masonry
 title: Fort Pulaski
 type: location
+heritage: 4.8
+vibrancy: 2.0
+nature: 3.9
+off_the_beaten_track: 2.3
 ---
 
 Fort Pulaski National Monument sits about 15 miles east of [Savannah](/northamerica/unitedstates/georgia/savannah), on the way to Tybee Island — an easy half-day trip from the city.

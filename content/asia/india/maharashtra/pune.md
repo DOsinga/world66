@@ -14,6 +14,10 @@ title: Pune
 type: location
 snippet: Maharashtra college city on the Deccan Plateau, with Maratha history and
   a cooler inland climate.
+heritage: 4.4
+vibrancy: 5.4
+nature: 4.7
+off_the_beaten_track: 1.8
 ---
 
 Pune is the cultural capital of [Maharashtra](/asia/india/maharashtra) and India's great college town -- a sprawling, energetic city of four million that manages to feel more livable than [Mumbai](/asia/india/maharashtra/mumbai), just three hours down the expressway. Perched on the Deccan Plateau at 560 meters, it enjoys a climate that stays pleasant when much of India is sweltering, and the green Western Ghats rise dramatically to its west.

@@ -3,9 +3,14 @@ latitude: 19.165278
 loc_type: city
 longitude: 99.903611
 score: 7.4
-snippet: Quiet northern Thai lake town with Lanna temples and sunset views across Kwan Phayao.
+snippet: Quiet northern Thai lake town with Lanna temples and sunset views across
+  Kwan Phayao.
 title: Phayao
 type: location
+heritage: 5.0
+vibrancy: 3.9
+nature: 3.9
+off_the_beaten_track: 3.5
 ---
 
 Phayao sits on the eastern shore of Kwan Phayao, a broad freshwater lake ringed by low mountains. It is quieter than Chiang Mai or Chiang Rai, and that is the main reason to come: the town has a slow lakeside rhythm, good evening light, and enough Lanna history to make a day here feel well spent.

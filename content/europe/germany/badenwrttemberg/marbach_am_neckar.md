@@ -7,6 +7,10 @@ snippet: Schiller's birthplace on the Neckar, home to the German Literature Arch
   and a well-kept timber-framed old town.
 title: Marbach am Neckar
 type: location
+heritage: 4.6
+vibrancy: 3.0
+nature: 4.5
+off_the_beaten_track: 1.8
 ---
 
 Marbach am Neckar is a small town on the river about ten minutes north of Ludwigsburg by train, best known as the birthplace of Friedrich Schiller, born here in 1759. The compact old town sits on a rise above the Neckar, ringed by stretches of medieval wall and gateways, with steep lanes of half-timbered houses that have survived largely intact.

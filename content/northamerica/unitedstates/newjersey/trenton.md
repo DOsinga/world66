@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Trenton,_New_Jersey
 - https://en.wikipedia.org/wiki/Battle_of_Trenton
 - https://en.wikipedia.org/wiki/John_A._Roebling%27s_Sons_Company
+heritage: 3.4
+vibrancy: 2.2
+nature: 1.9
+off_the_beaten_track: 1.4
 ---
 
 Trenton is the capital of New Jersey, sitting on the Delaware River halfway between New York and Philadelphia. Most people pass through it on Amtrak without a second thought. They are missing one of the most historically layered small cities in the United States.

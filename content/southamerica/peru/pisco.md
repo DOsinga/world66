@@ -14,6 +14,10 @@ title: Pisco
 type: location
 snippet: Peruvian coastal city near the Paracas Peninsula, associated with pisco brandy
   and Ballestas Islands trips.
+heritage: 5.0
+vibrancy: 5.2
+nature: 6.5
+off_the_beaten_track: 3.7
 ---
 
 Pisco is a small port city on Peru's southern Pacific coast, best known as the namesake of the country's national spirit and as the gateway to the [Paracas](/southamerica/peru/paracas) National Reserve and the Islas Ballestas. The city was heavily damaged by a magnitude 8.0 earthquake in 2007, and while much has been rebuilt, parts of Pisco still show the scars — crumbled colonial facades and empty lots where buildings once stood. The main plaza and cathedral have been reconstructed, and the town has a scrappy, resilient feel.

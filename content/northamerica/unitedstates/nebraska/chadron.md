@@ -5,12 +5,17 @@ loc_type: city
 latitude: 42.82944
 longitude: -103.0
 score: 6.8
-snippet: Nebraska Panhandle college town with fur-trade history, High Plains museums, and Pine Ridge parkland nearby.
+snippet: Nebraska Panhandle college town with fur-trade history, High Plains museums,
+  and Pine Ridge parkland nearby.
 sources:
-  - https://en.wikivoyage.org/wiki/Chadron
-  - https://en.wikipedia.org/wiki/Chadron,_Nebraska
-  - https://www.furtrade.org/
-  - https://sandozcenter.com/About-Us/
+- https://en.wikivoyage.org/wiki/Chadron
+- https://en.wikipedia.org/wiki/Chadron,_Nebraska
+- https://www.furtrade.org/
+- https://sandozcenter.com/About-Us/
+heritage: 1.1
+vibrancy: 1.5
+nature: 5.5
+off_the_beaten_track: 3.8
 ---
 
 Chadron sits in the Nebraska Panhandle, where the flat Great Plains begin to wrinkle into the Pine Ridge. It is a small college town and service centre, but it has more travel weight than that suggests: fur-trade history, High Plains literature, fossils, and Nebraska's first state park all cluster close enough for a good spare day.

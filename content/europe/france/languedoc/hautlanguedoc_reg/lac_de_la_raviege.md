@@ -7,6 +7,10 @@ snippet: Largest lake in the Haut-Languedoc park, a forest-fringed reservoir for
   sailing, and kayaking.
 title: Lac de la Raviège
 type: location
+heritage: 3.3
+vibrancy: 1.6
+nature: 6.6
+off_the_beaten_track: 2.6
 ---
 
 The Lac de la Raviège is the largest lake in the Parc Naturel Régional du Haut-Languedoc and the most accessible swimming destination in the area. It was created in 1959 by damming the Agout river to supply drinking water to the growing cities of the Languedoc lowlands; the reservoir flooded a number of farms and a hamlet, and at low water the receding shoreline still reveals traces of the former landscape. Today the lake does double duty as a water supply and a leisure spot, ringed by chestnut forest and rarely crowded outside high summer.

@@ -17,6 +17,10 @@ sources:
 title: Villa La Angostura
 type: location
 wikidata: Q106096
+heritage: 6.6
+vibrancy: 6.1
+nature: 6.9
+off_the_beaten_track: 4.1
 ---
 
 Villa La Angostura sits on the north shore of Lago Nahuel Huapi, smaller and quieter than [Bariloche](/southamerica/argentina/bariloche) but with the same Patagonian mix of cold blue water, forested mountains, and timber lodges. It is not a town of grand monuments. The reason to come is the landscape right on its doorstep.

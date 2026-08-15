@@ -10,6 +10,10 @@ snippet: Saharan oasis town in western Libya, famous for mud-brick lanes, roofto
   passages, and desert-edge architecture.
 title: Ghadames
 type: location
+heritage: 6.7
+vibrancy: 2.0
+nature: 2.9
+off_the_beaten_track: 7.4
 ---
 
 Ghadames is one of the most remarkable places in Libya — a UNESCO World Heritage oasis town on the edge of the Sahara, near the point where the Libyan, Algerian, and Tunisian borders meet. It's about 600 km southwest of Tripoli.

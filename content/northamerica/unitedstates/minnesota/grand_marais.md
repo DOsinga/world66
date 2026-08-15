@@ -14,6 +14,10 @@ snippet: Lake Superior harbor town with a working waterfront, lighthouse, and No
   Shore wilderness close by.
 title: Grand Marais
 type: location
+heritage: 1.3
+vibrancy: 4.5
+nature: 6.4
+off_the_beaten_track: 4.2
 ---
 
 Grand Marais is a small harbor town on the north shore of Lake Superior, in Cook County, Minnesota, about 110 miles northeast of Duluth. It is the last significant town before the Canadian border at Grand Portage and the most appealing stop on the entire North Shore Drive.

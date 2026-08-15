@@ -13,6 +13,10 @@ image: reguengos_de_monsaraz.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Monsaraz_January_2020-2.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Alvesgaspar
+heritage: 4.5
+vibrancy: 3.5
+nature: 5.1
+off_the_beaten_track: 2.0
 ---
 
 Reguengos de Monsaraz lies in the Alentejo near the Guadiana River and the Spanish border. The municipality links the workaday town of Reguengos with Monsaraz, a tiny walled village on a hill above the Alqueva reservoir, plus a scattering of prehistoric sites in the dry country around it.

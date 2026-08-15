@@ -14,6 +14,10 @@ snippet: Bhutanese mountain capital in the Wang Chhu valley, with dzongs, market
   and no traffic lights.
 title: Thimphu
 type: location
+heritage: 6.8
+vibrancy: 5.8
+nature: 7.4
+off_the_beaten_track: 8.8
 ---
 
 Thimphu is the capital and largest city of Bhutan, situated at about 2,300 metres in the Wang Chhu river valley in the western part of the country. It is one of the world's smallest and most unusual capitals: there are no traffic lights (a policeman directs vehicles at the main intersection), all new construction must conform to traditional Bhutanese architectural styles, and the population of around 100,000 gives it the pace of a large town rather than a city.

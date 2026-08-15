@@ -11,6 +11,10 @@ type: location
 score: 5.91
 snippet: Qinghai valley city near Xining, known for Qutan Monastery's Ming-era murals
   and imperial layout.
+heritage: 2.3
+vibrancy: 1.2
+nature: 6.8
+off_the_beaten_track: 5.5
 ---
 
 Ledu is a district city in Haidong Prefecture about 60 kilometres east of Xining, sitting in the valley of the Huangshui River on the main rail and road corridor toward Gansu. It is a quiet, largely agricultural city that sees few tourists, but it contains two cultural sites that justify the short trip from the capital.

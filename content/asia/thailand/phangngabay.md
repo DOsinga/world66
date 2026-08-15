@@ -24,6 +24,10 @@ tip: Phang Nga Bay's limestone karsts rise straight out of emerald water near Ph
   the famous spots.
 title: Phang Nga Bay
 type: location
+heritage: 2.7
+vibrancy: 5.1
+nature: 7.4
+off_the_beaten_track: 2.3
 ---
 
 Phang Nga Bay is one of the most dramatic seascapes in Southeast Asia: dozens of sheer limestone karst towers rise straight out of calm, shallow emerald water between [Phuket](/asia/thailand/phuket) and [Krabi](/asia/thailand/krabi). The bay is part of a national marine park, and most visitors explore it by longtail boat or sea kayak.

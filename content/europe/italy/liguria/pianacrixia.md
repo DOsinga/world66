@@ -18,6 +18,10 @@ tags:
 - rivieradellepalme
 title: Piana Crixia
 type: location
+heritage: 3.7
+vibrancy: 2.0
+nature: 3.9
+off_the_beaten_track: 3.6
 ---
 
 Piana Crixia sits on the northern slope of the Ligurian Apennines in the valley of the Bormida di Spigno, well inland from the coast. The main reason to come here is the [Fungo di Piana Crixia](/europe/italy/liguria/pianacrixia/fungo_di_piana_crixia) — a striking mushroom-shaped rock formation created by an unusual process of erosion, now protected as a natural monument.

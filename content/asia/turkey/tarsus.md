@@ -14,6 +14,10 @@ image: tarsus.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Tarsus,_Cilicia,_Turkey_(23777155148).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Carole Raddato from FRANKFURT, Germany
+heritage: 7.2
+vibrancy: 3.4
+nature: 2.9
+off_the_beaten_track: 2.9
 ---
 
 Tarsus lies on the Cilician plain between Mersin and Adana, modern and industrial at first glance but very old underneath. Hittites, Persians, Romans, Arabs, Byzantines, Armenians, Crusaders, and Ottomans all passed through or ruled here, because the city controlled routes between the Mediterranean coast and the passes inland.

@@ -10,6 +10,10 @@ title: Phalaborwa
 type: location
 snippet: South African town bordering Kruger National Park, with a gate at the edge
   of town.
+heritage: 1.5
+vibrancy: 1.6
+nature: 6.3
+off_the_beaten_track: 2.5
 ---
 
 Phalaborwa is the only town in South Africa that shares a direct border with [Kruger National Park](/africa/southafrica/krugernationalpark) — the [Phalaborwa Gate](/africa/southafrica/phalaborwa/phalaborwa_gate) is literally at the edge of town. That alone makes it worth knowing about. Most visitors use it as a base for entering Kruger's northern section, which is quieter and wilder than the busy south.

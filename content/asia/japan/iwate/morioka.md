@@ -17,6 +17,10 @@ image: morioka.jpg
 image_source: https://commons.wikimedia.org/wiki/File:171103_Morioka_Castle_Morioka_Iwate_pref_Japan19s3.jpg
 image_license: CC BY-SA 4.0
 image_attribution: 663highland
+heritage: 3.5
+vibrancy: 2.7
+nature: 5.3
+off_the_beaten_track: 3.0
 ---
 
 Morioka is the capital of Iwate, a compact Tohoku city where three rivers meet under the long shape of Mount Iwate. It is often treated as a rail stop between Tokyo, Akita, and Hokkaido, but that sells it short. The old castle walls, temple district, modern art museum, and noodle shops easily fill a day.

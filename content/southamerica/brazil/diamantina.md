@@ -14,6 +14,10 @@ longitude: -43.600649
 score: 8.08
 title: Diamantina
 type: location
+heritage: 8.2
+vibrancy: 4.3
+nature: 4.6
+off_the_beaten_track: 3.3
 ---
 
 Diamantina is a UNESCO World Heritage town in the mountains of northern Minas Gerais, less visited than its famous neighbour Ouro Preto but arguably more rewarding for it. The town grew rich on diamond mining in the 18th century and has preserved its colonial centre remarkably well — steep cobbled streets, brightly painted houses with carved wooden balconies, and baroque churches tucked into every hillside.

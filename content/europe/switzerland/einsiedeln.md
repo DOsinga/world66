@@ -12,6 +12,10 @@ title: Einsiedeln
 type: location
 snippet: Einsiedeln is a Schwyz town dominated by its Benedictine abbey and Black
   Madonna pilgrimage site.
+heritage: 6.1
+vibrancy: 2.4
+nature: 7.3
+off_the_beaten_track: 3.2
 ---
 
 Einsiedeln is a small town in the canton of Schwyz, sitting at about 880 meters in a broad valley below the Pre-Alps. It is about an hour from [Zurich](/europe/switzerland/zurich) by train, but feels a world away — quiet, green, and dominated by one of the most impressive baroque churches in Switzerland.

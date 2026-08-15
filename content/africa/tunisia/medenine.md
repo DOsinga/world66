@@ -13,6 +13,10 @@ snippet: Southeastern Tunisian transit town anchored by a surviving ksar of vaul
   Berber granary cells.
 title: Medenine
 type: location
+heritage: 4.9
+vibrancy: 1.9
+nature: 3.2
+off_the_beaten_track: 4.7
 ---
 
 Medenine is the regional capital of southeastern Tunisia, sitting on the main road between **[Gabes](/africa/tunisia/gabes)** and the Libyan border. It is a working transit town of around 80,000 people, not a destination in itself — but it is the natural pivot point for anyone exploring the **ksour country** of the south. The old town was once a remarkable concentration of **ksour** — fortified Berber granaries built of stacked vaulted cells called ghorfas — and although most were demolished in the 1960s to make way for modern housing, the partial survival of the central ksar gives a sense of what was lost.

@@ -13,6 +13,10 @@ snippet: Rugged Ligurian coastal region where five fishing villages cling to ter
   cliffs.
 title: Cinque Terre
 type: location
+heritage: 5.9
+vibrancy: 4.9
+nature: 7.3
+off_the_beaten_track: 2.8
 ---
 
 The Cinque Terre — "the five lands" — is a stretch of rugged Ligurian coastline between Levanto and La Spezia, where five tiny fishing villages cling impossibly to cliffs above the sea. Monterosso, Vernazza, Corniglia, Manarola, and Riomaggiore were isolated by geography for most of their history: no roads reached them until the last century, and even today the easiest way between them is still the train, the ferry, or the walking paths cut into the terraces. The whole coast is a national park and a UNESCO World Heritage site, and it has become one of the most photographed places in Italy — pastel houses stacked on the rock above turquoise coves, olive trees, and the terraced vineyards that have produced the local white wine for a thousand years.

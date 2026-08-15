@@ -9,6 +9,10 @@ snippet: Mining town in central Slovakia, set among wooded hills and Renaissance
   wealth.
 title: Banská Stiavnica
 type: location
+heritage: 7.4
+vibrancy: 3.6
+nature: 5.0
+off_the_beaten_track: 2.9
 ---
 
 Banská Štiavnica is one of the most beautiful towns in [Slovakia](/europe/slovakia), a small mining city set in the wooded hills of central Slovakia that has been a UNESCO World Heritage Site since 1993. For centuries this was one of the richest mining towns in the Kingdom of Hungary, producing silver and gold, and that wealth built the Renaissance and Baroque townhouses, churches, and mining works that fill the town today.

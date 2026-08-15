@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Kasbah_Amridil
 title: Skoura
 type: location
+heritage: 6.2
+vibrancy: 2.4
+nature: 5.5
+off_the_beaten_track: 4.2
 ---
 
 Skoura is a small oasis town in the Draa Valley, about 42 km east of [Ouarzazate](/africa/morocco/ouarzazate), famous for its dense [palm grove](/africa/morocco/skoura/skoura_palm_grove) and the ancient kasbahs scattered within it. The town itself is unremarkable, but the palm grove that surrounds it — thousands of palm trees, olive groves, rose gardens, and ancient irrigation channels — is the point: a labyrinth of mud walls and shaded paths that rewards unhurried exploration.

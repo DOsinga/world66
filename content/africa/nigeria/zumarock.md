@@ -14,6 +14,10 @@ image: zumarock.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Zuma_rock_niger_state_3(_on_transit_).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Saadah 4469
+heritage: 2.4
+vibrancy: 1.7
+nature: 5.2
+off_the_beaten_track: 5.8
 ---
 
 [Zuma Rock](/africa/nigeria/zumarock/zuma_rock_monolith) is a 725-metre monolith that rises abruptly from the savannah just north of [Abuja](/africa/nigeria/abuja), right off the main highway to [Kaduna](/africa/nigeria/kaduna). The rock's sheer face, visible for kilometres, carries a natural pattern that locals call "the face of God" — a shadowy human-like visage that appears on the south side. It features on Nigeria's hundred-naira note.

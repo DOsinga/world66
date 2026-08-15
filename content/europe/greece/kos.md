@@ -14,6 +14,10 @@ longitude: 27.2882
 score: 8.98
 title: Kos
 type: location
+heritage: 5.9
+vibrancy: 6.1
+nature: 6.0
+off_the_beaten_track: 2.2
 ---
 
 Kos is one of the most popular Dodecanese islands, second only to Rhodes in visitor numbers. The main town, also called Kos, sits on the eastern tip of the island with a harbour dominated by the [Castle of the Knights of St John](/europe/greece/kos/knights_castle). Despite the heavy tourist industry, the town has genuine historical depth — the ancient city's ruins spread through the centre, the [Tree of Hippocrates](/europe/greece/kos/tree_of_hippocrates) stands in the main square, and the [Asklepion](/europe/greece/kos/asklepion), the most important medical school of antiquity, is just a few kilometres away.

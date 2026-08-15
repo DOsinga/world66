@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Aurangabad,_Maharashtra
 title: Aurangabad
 type: location
+heritage: 6.5
+vibrancy: 4.9
+nature: 3.0
+off_the_beaten_track: 1.9
 ---
 
 Aurangabad is a mid-sized city in northern Maharashtra, about 370 km east of Mumbai, and the base for visiting two of the most extraordinary UNESCO World Heritage sites in India: the rock-cut cave temples of **Ajanta** and **Ellora**. Almost everyone who comes here comes for the caves, and rightly so — but the city itself has enough Mughal history and atmosphere to reward a day of its own.

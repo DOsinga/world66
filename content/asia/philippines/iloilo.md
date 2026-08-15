@@ -13,6 +13,10 @@ snippet: Western Visayas port city with colonial churches, Calle Real facades, a
   a celebrated food scene.
 title: Iloilo
 type: location
+heritage: 4.4
+vibrancy: 4.8
+nature: 5.0
+off_the_beaten_track: 3.1
 ---
 
 Iloilo City sits at the southern tip of Panay island in the Western Visayas, a university town and regional capital that most travelers pass through on their way to Guimaras or Boracay. That is a mistake. Iloilo has genuine character — crumbling colonial churches, a lively waterfront, and what many Filipinos consider the best food scene outside Manila.

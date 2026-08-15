@@ -13,6 +13,10 @@ snippet: Small Cretan port town with a relaxed waterfront and a Venetian fortres
   above the harbour.
 title: Sitia
 type: location
+heritage: 6.0
+vibrancy: 4.2
+nature: 6.0
+off_the_beaten_track: 2.5
 ---
 
 Sitia is a small port town on the far eastern end of Crete, less visited than the island's western resorts and all the more pleasant for it. The [waterfront promenade](/europe/greece/crete/sitia/sitia_waterfront) is lined with tavernas and kafeneions where locals actually outnumber tourists for much of the year. The town has a relaxed, unfussy character — good seafood, ordinary prices, and no particular agenda beyond being a agreeable place to stop. The Venetian [Kazarma fortress](/europe/greece/crete/sitia/kazarma_fortress) on the hill above and the small but exceptional [Archaeological Museum](/europe/greece/crete/sitia/archaeological_museum) are the two things to see in town itself.

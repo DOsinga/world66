@@ -14,6 +14,10 @@ snippet: Lake Michigan state park with steep sand dunes, broad beaches, and beec
   forest trails.
 title: Warren Dunes
 type: location
+heritage: 1.9
+vibrancy: 2.0
+nature: 7.3
+off_the_beaten_track: 2.7
 ---
 
 Warren Dunes State Park, on the Lake Michigan shore in the southwest corner of the state, has some of the finest sand beaches in Michigan. The dunes rise steeply from the water — Tower Hill reaches about 80 metres — and the views from the top stretch across the lake. It is a popular summer destination for beachgoers from Chicago, about 90 minutes away.

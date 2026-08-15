@@ -14,6 +14,10 @@ image: ashikaga.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ashikaga_Flower_Park_03.jpg
 image_license: CC BY 3.0
 image_attribution: Σ64
+heritage: 6.0
+vibrancy: 2.5
+nature: 2.7
+off_the_beaten_track: 2.2
 ---
 
 Ashikaga is a compact city in Tochigi Prefecture, near the Gunma border and close enough to [Tokyo](/asia/japan/tokyo) for a long day trip. It has far more history than its size suggests: the Ashikaga clan helped shape medieval Japan, and their temples, gardens, and scholarly traditions still give the old town a quiet dignity.

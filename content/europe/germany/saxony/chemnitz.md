@@ -14,6 +14,10 @@ snippet: Saxon industrial city marked by Karl-Marx-Stadt history and a colossal 
   Marx monument downtown.
 title: Chemnitz
 type: location
+heritage: 6.2
+vibrancy: 3.7
+nature: 3.6
+off_the_beaten_track: 2.7
 ---
 
 Chemnitz is Saxony's third largest city, and it carries its history more conspicuously than most. From 1953 to 1990 it was called Karl-Marx-Stadt, and while the name reverted after reunification, the 7-metre bronze head of Karl Marx that dominates the city centre — the largest such monument outside the former Soviet Union — stayed put. It's one of the most striking pieces of public sculpture in Germany, and worth seeing for that alone.

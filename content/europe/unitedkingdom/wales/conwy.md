@@ -13,6 +13,10 @@ snippet: Medieval walled town in north Wales, still encircled by Edward I's cast
   defenses
 title: Conwy
 type: location
+heritage: 7.2
+vibrancy: 2.9
+nature: 5.7
+off_the_beaten_track: 1.8
 ---
 
 Conwy is one of the best-preserved medieval walled towns in Britain. The [town walls](/europe/unitedkingdom/wales/conwy/town_walls), built by Edward I in the 1280s as part of his ring of fortresses across north Wales, still encircle the old town almost completely — you can walk the full circuit of the battlements and look down into the streets below. [Conwy Castle](/europe/unitedkingdom/wales/conwy/conwy_castle) itself is an impressive hulk of towers and great halls perched above the estuary, and along with the walls it forms a UNESCO World Heritage Site.

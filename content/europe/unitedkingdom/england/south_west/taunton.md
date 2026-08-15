@@ -14,6 +14,10 @@ snippet: Somerset county town in the Vale of Taunton Deane, between the Quantock
   Blackdown hills.
 title: Taunton
 type: location
+heritage: 4.9
+vibrancy: 4.2
+nature: 5.5
+off_the_beaten_track: 2.3
 ---
 
 Taunton is the county town of Somerset, set in the Vale of Taunton Deane between the [Quantock Hills](/europe/unitedkingdom/england/south_west/taunton/quantock_hills) and the Blackdown Hills, both designated Areas of Outstanding Natural Beauty. It is a market town at heart, with a history stretching back to Saxon times, and its compact centre has a pleasant mix of independent shops, old pubs, and the remains of a [Norman castle](/europe/unitedkingdom/england/south_west/taunton/taunton_castle) that now houses the [Museum of Somerset](/europe/unitedkingdom/england/south_west/taunton/museum_of_somerset).

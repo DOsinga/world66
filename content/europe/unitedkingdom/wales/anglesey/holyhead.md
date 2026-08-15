@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/South_Stack
 title: Holyhead
 type: location
+heritage: 5.3
+vibrancy: 4.8
+nature: 6.2
+off_the_beaten_track: 2.8
 ---
 
 Holyhead — Caergybi in Welsh — sits at the far western tip of Anglesey, and most people pass through on their way to the Irish ferries. But there's reason to linger.

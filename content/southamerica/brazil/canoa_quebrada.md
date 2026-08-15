@@ -5,9 +5,14 @@ loc_type: city
 latitude: -4.528333
 longitude: -37.692778
 score: 6.7
-snippet: Ceara beach village set below red sandstone cliffs, with dunes, jangadas, and kitesurfing.
+snippet: Ceara beach village set below red sandstone cliffs, with dunes, jangadas,
+  and kitesurfing.
 source: Wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Canoa_Quebrada
+heritage: 2.6
+vibrancy: 5.3
+nature: 5.7
+off_the_beaten_track: 3.3
 ---
 
 Canoa Quebrada is a small beach village in Ceara, about 160 km southeast of [Fortaleza](/southamerica/brazil/fortaleza). It sits below red sandstone cliffs, with dunes behind town and a long, windy beach in front. The old hippie reputation is still part of the story, even though Canoa is now firmly on the northeast Brazil beach circuit.

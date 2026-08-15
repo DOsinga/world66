@@ -15,6 +15,10 @@ image: jepara.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Jepara_monument.jpg
 image_license: CC BY 3.0
 image_attribution: Midori
+heritage: 3.2
+vibrancy: 1.9
+nature: 1.9
+off_the_beaten_track: 2.0
 ---
 
 Jepara sits on Java's north coast, northeast of [Semarang](/asia/indonesia/java/semarang), and has a clearer identity than many towns along this busy shore. It is Indonesia's best-known centre for carved teak furniture, the birthplace of women's education pioneer R.A. Kartini, and one of the mainland ports for boats to [Karimunjawa](/asia/indonesia/java/karimunjawa).

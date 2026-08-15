@@ -14,6 +14,10 @@ image: pacitan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gambrit_Cave,_Pacitan,_East_Java,_Indonesia.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Denysya Farid
+heritage: 4.3
+vibrancy: 2.3
+nature: 4.9
+off_the_beaten_track: 4.3
 ---
 
 Pacitan sits on the south coast of [Java](/asia/indonesia/java), far enough from the island's main rail and highway corridors to feel like a different rhythm. The coast here faces the Indian Ocean, with surf beaches, fishing villages, limestone hills, and caves tucked into the karst country inland.

@@ -15,6 +15,10 @@ image: beddgelert.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Beddgelert_-_1.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Necrothesp at English Wikipedia
+heritage: 5.0
+vibrancy: 2.4
+nature: 8.3
+off_the_beaten_track: 3.4
 ---
 
 Beddgelert is one of Snowdonia's prettiest small bases, a stone village where the Glaslyn and Colwyn rivers meet below Moel Hebog. It has enough charm for a slow hour, but the real reason to come is how much good walking and railway scenery starts almost at the bridge.

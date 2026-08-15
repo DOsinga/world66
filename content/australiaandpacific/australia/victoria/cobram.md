@@ -14,6 +14,10 @@ snippet: Murray River town known for sandy inland beaches, red gum shade, and fr
   country.
 title: Cobram
 type: location
+heritage: 3.2
+vibrancy: 2.1
+nature: 3.0
+off_the_beaten_track: 2.0
 ---
 
 A quiet Murray River town near the New South Wales border, Cobram is popular with families for its sandy river beaches and relaxed country atmosphere. [Thompsons Beach](/australiaandpacific/australia/victoria/cobram/thompsons_beach), a stretch of white sand along the Murray, is the main attraction and one of the best inland beaches in [Victoria](/australiaandpacific/australia/victoria) — warm, shallow water surrounded by red gum forest, with barbecue facilities and plenty of shade. In summer, it feels more like a coastal holiday than a country town.

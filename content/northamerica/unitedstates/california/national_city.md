@@ -14,6 +14,10 @@ snippet: Historic San Diego County city with Victorian heritage and a rare survi
   transcontinental railroad terminus.
 title: National City
 type: location
+heritage: 1.5
+vibrancy: 2.3
+nature: 2.4
+off_the_beaten_track: 1.3
 ---
 
 National City is the second oldest incorporated city in San Diego County, founded in 1887 on land that was once part of the 26,000-acre El Rancho de la Nación. Frank Kimball and his brothers Warren and Levi purchased the ranch in 1868, cleared lands, built roads, constructed the city's first wharf, and brought the railroad to town.

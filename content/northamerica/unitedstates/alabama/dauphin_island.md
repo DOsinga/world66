@@ -14,6 +14,10 @@ snippet: Quiet Gulf barrier island south of Mobile, noted for birding, beaches, 
   Fort Gaines.
 title: Dauphin Island
 type: location
+heritage: 1.8
+vibrancy: 2.1
+nature: 6.5
+off_the_beaten_track: 2.9
 ---
 
 Dauphin Island is a quiet barrier island in the Gulf of Mexico, just off the coast south of [Mobile](/northamerica/unitedstates/alabama/mobile). It is a low-key alternative to the busier beaches at Gulf Shores, and one of the best birding destinations in the country.

@@ -11,6 +11,10 @@ image: hrisey.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2014-04-29_10-07-01_Iceland_-_Hr%C3%ADsey_Litli-%C3%81rsk%C3%B3gssandur.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Hansueli Krapf  This   file was uploaded  with Com
+heritage: 1.9
+vibrancy: 1.3
+nature: 7.6
+off_the_beaten_track: 5.1
 ---
 
 Hrísey sits in the middle of Eyjafjörður, sheltered from Atlantic storms by the mainland on either side, which gives it an unusually mild microclimate for this latitude. The island is reached by a short ferry from Árskógssandur, about 20 km south of Dalvík; the crossing takes around 15 minutes and runs frequently through the summer. It is a quiet, low-lying place — Iceland's second-largest island, but with only a small village clustered near the harbour.

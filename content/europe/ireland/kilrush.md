@@ -14,6 +14,10 @@ snippet: West Clare market town on the Shannon Estuary, gateway to Scattery Isla
   and Loop Head.
 title: Kilrush
 type: location
+heritage: 4.7
+vibrancy: 3.4
+nature: 4.3
+off_the_beaten_track: 3.9
 ---
 
 Kilrush is a small market town on the Shannon Estuary in west Clare, the kind of place you pass through on the way to Loop Head and then wish you had stopped longer. The town has a wide main street, a handful of good pubs, and a [marina](/europe/ireland/kilrush/kilrush_marina) that serves as the departure point for [Scattery Island](/europe/ireland/kilrush/scattery_island) — a monastic settlement in the estuary with a well-preserved round tower and the ruins of six churches, all deserted and atmospheric.

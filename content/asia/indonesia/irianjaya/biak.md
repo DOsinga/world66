@@ -14,6 +14,10 @@ snippet: Papuan island town in Cenderawasih Bay, with WWII caves, coral beaches,
   regional flight connections.
 title: Biak
 type: location
+heritage: 1.5
+vibrancy: 1.4
+nature: 7.8
+off_the_beaten_track: 6.7
 ---
 
 Biak is both an island and a town off the north coast of Papua, sitting in Cenderawasih Bay. The town itself is compact and not especially scenic, but Biak is one of the main transport hubs for the region, with regular flights to Jayapura and Jakarta.

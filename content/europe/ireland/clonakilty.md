@@ -3,11 +3,16 @@ latitude: 51.6219
 loc_type: city
 longitude: -8.8864
 score: 7.2
-snippet: West Cork market town tied to Michael Collins, black pudding, beaches, and music.
+snippet: West Cork market town tied to Michael Collins, black pudding, beaches, and
+  music.
 sources:
-  - https://en.wikivoyage.org/wiki/Clonakilty
+- https://en.wikivoyage.org/wiki/Clonakilty
 title: Clonakilty
 type: location
+heritage: 3.7
+vibrancy: 4.8
+nature: 6.1
+off_the_beaten_track: 2.0
 ---
 
 Clonakilty is a West Cork town with enough local pride to fill its colourful streets without becoming smug about it. It has a shallow harbour, a farming hinterland, beaches close by, and one famous son: Michael Collins, the revolutionary leader born just outside town.

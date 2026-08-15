@@ -14,6 +14,10 @@ image: magog.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cherry_River_in_Magog_2.JPG
 image_license: CC BY 3.0
 image_attribution: Jean-Philippe Boulet
+heritage: 4.0
+vibrancy: 3.9
+nature: 6.0
+off_the_beaten_track: 2.9
 ---
 
 Magog is a small resort town in Quebec's Eastern Townships, set where the Magog River leaves long, narrow Lake Memphremagog. It has enough old brick, waterside paths, cafes, and summer theatre to feel like more than a lakefront suburb, and the wooded bulk of Mont Orford gives the town a proper mountain backdrop.

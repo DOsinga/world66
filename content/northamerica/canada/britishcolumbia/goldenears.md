@@ -10,6 +10,10 @@ snippet: British Columbia provincial park east of Vancouver, named for the twin 
   of Mount Blanshard.
 title: Golden Ears
 type: location
+heritage: 2.3
+vibrancy: 1.6
+nature: 6.3
+off_the_beaten_track: 2.3
 ---
 
 Golden Ears Provincial Park is one of the largest parks in British Columbia, about an hour's drive east of [Vancouver](/northamerica/canada/britishcolumbia/vancouver). The park takes its name from the twin peaks of Mount Blanshard, which catch the sunlight and glow gold in the right conditions.

@@ -16,6 +16,10 @@ tags:
 - rivieradellepalme
 title: Cosseria
 type: location
+heritage: 3.9
+vibrancy: 2.4
+nature: 4.4
+off_the_beaten_track: 3.9
 ---
 
 Cosseria is a small agricultural commune on the northern slope of the Ligurian Apennines, sitting on the ridge between the upper valleys of the two Bormidas rivers. The territory is sparsely settled, with the economy based on vegetables and cattle.

@@ -11,6 +11,10 @@ image: tararua_forest_park.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Tararua_Forest_Park,_New_Zealand,_06.JPG
 image_license: CC BY-SA 4.0
 image_attribution: Michal Klajban
+heritage: 1.5
+vibrancy: 0.7
+nature: 7.8
+off_the_beaten_track: 5.1
 ---
 
 The Tararua Forest Park protects the bulk of the Tararua Ranges, the steep, bush-clad mountains that run down the spine of the lower North Island between the Kapiti Coast and the Wairarapa. Rising sharply east of Ōtaki, the park is reached most easily from the Ōtaki Forks area, about 18 kilometres up Ōtaki Forks Road from the town, where several walking tracks begin where the bush meets the river flats.

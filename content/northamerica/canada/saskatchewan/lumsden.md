@@ -5,12 +5,17 @@ loc_type: city
 latitude: 50.6463
 longitude: -104.8676
 score: 6.2
-snippet: Qu'Appelle Valley town near Regina, with prairie orchards, marsh trails, and fur-trade history.
+snippet: Qu'Appelle Valley town near Regina, with prairie orchards, marsh trails,
+  and fur-trade history.
 sources:
-  - https://en.wikivoyage.org/wiki/Lumsden_(Saskatchewan)
-  - https://en.wikipedia.org/wiki/Lumsden,_Saskatchewan
-  - https://www.tourismsaskatchewan.com/listings/1886/lumsden-historical-museum
-  - https://www.tourismsaskatchewan.com/provincialpark/1010/last-mountain-house-provincial-historic-park
+- https://en.wikivoyage.org/wiki/Lumsden_(Saskatchewan)
+- https://en.wikipedia.org/wiki/Lumsden,_Saskatchewan
+- https://www.tourismsaskatchewan.com/listings/1886/lumsden-historical-museum
+- https://www.tourismsaskatchewan.com/provincialpark/1010/last-mountain-house-provincial-historic-park
+heritage: 2.0
+vibrancy: 1.5
+nature: 4.8
+off_the_beaten_track: 4.6
 ---
 
 Lumsden sits in the Qu'Appelle Valley northwest of [Regina](/northamerica/canada/saskatchewan/regina), close enough for an easy afternoon but different enough to feel like you have left the city behind. The prairie drops into a green river valley here, and that shift in landscape is the town's best asset.

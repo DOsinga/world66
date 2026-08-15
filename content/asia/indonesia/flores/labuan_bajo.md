@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Komodo_International_Airport
 title: Labuan Bajo
 type: location
+heritage: 3.2
+vibrancy: 1.0
+nature: 7.8
+off_the_beaten_track: 7.0
 ---
 
 Labuan Bajo used to be a dusty fishing town at the western tip of [Flores](/asia/indonesia/flores). It is still dusty in places, but the harbour now has dive shops, rooftop bars, tour offices, and more boat traffic than the old streets were built to handle. This is the gateway to [Komodo National Park](/asia/indonesia/komodo), and almost everyone passing through is here for dragons, reefs, or a few nights on a liveaboard.

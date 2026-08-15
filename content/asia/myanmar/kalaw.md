@@ -16,6 +16,10 @@ image: kalaw.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Shan_Hills,_Myanmar,_Rice_paddies_in_rural_Myanmar_between_Inle_lake_and_Kalaw_mountain_range.jpg
 image_license: CC BY 4.0
 image_attribution: Vyacheslav Argenberg
+heritage: 4.5
+vibrancy: 3.7
+nature: 7.2
+off_the_beaten_track: 5.0
 ---
 
 "If we could take Kalaw with us, we would!" the British are reported to have said when leaving Myanmar. This old hill station sits on the rim of the Shan Plateau at around 1,300 metres, keeping it pleasantly cool even in the hottest months. The mock-Tudor colonial bungalows, the pine forests, and the crisp highland air give Kalaw a character quite unlike anything else in Myanmar.

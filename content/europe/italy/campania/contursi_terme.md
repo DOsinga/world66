@@ -9,6 +9,10 @@ snippet: Sele Valley spa town where sulphurous springs feed a practical Italian 
   tradition.
 title: Contursi Terme
 type: location
+heritage: 5.3
+vibrancy: 3.5
+nature: 5.7
+off_the_beaten_track: 1.6
 ---
 
 Contursi Terme is a small spa town in the Sele valley, about 75 km southeast of Naples, where sulphurous and bicarbonate springs have been exploited for therapeutic use since antiquity. Several thermal hotels and spa facilities cluster here — the [Terme di Contursi](/europe/italy/campania/contursi_terme/terme_di_contursi) being the main draw — attracting Italians seeking treatment for skin, respiratory, and digestive conditions. The atmosphere is resolutely Italian-therapeutic rather than international-luxury: think rubber flip-flops and a serious attitude toward cura thermale.

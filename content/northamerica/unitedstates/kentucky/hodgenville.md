@@ -3,14 +3,19 @@ latitude: 37.5711
 loc_type: city
 longitude: -85.7386
 score: 6.35
-snippet: Small Kentucky town where Abraham Lincoln's birthplace and boyhood sites anchor a compact Lincoln trail.
+snippet: Small Kentucky town where Abraham Lincoln's birthplace and boyhood sites
+  anchor a compact Lincoln trail.
 sources:
-  - https://en.wikivoyage.org/wiki/Hodgenville
-  - https://www.nps.gov/abli/index.htm
-  - https://visithodgenville.com/attractions-hodgenville/
-  - https://www.lincolnmuseum-ky.org/
+- https://en.wikivoyage.org/wiki/Hodgenville
+- https://www.nps.gov/abli/index.htm
+- https://visithodgenville.com/attractions-hodgenville/
+- https://www.lincolnmuseum-ky.org/
 title: Hodgenville
 type: location
+heritage: 3.8
+vibrancy: 2.2
+nature: 2.0
+off_the_beaten_track: 1.6
 ---
 
 Hodgenville is a small town in central Kentucky whose travel case rests almost entirely on Abraham Lincoln. That sounds narrow, but it works: the town square, the farm where Lincoln was born, and the Knob Creek farm of his early childhood make a clear, easy loop through the first years of the man who later became the United States' 16th president.

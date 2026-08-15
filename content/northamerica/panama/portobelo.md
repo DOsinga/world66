@@ -15,6 +15,10 @@ title: Portobelo
 type: location
 snippet: Caribbean port town where Spanish treasure-route forts still guard a rainforest-backed
   bay.
+heritage: 6.6
+vibrancy: 4.5
+nature: 4.7
+off_the_beaten_track: 3.2
 ---
 
 Portobelo is a small Caribbean town on Panama's north coast, about 100 km east of Panama City. It was once one of the most important ports in the Americas — the terminus of the Spanish treasure route, where the silver of Peru and Bolivia was loaded onto galleons for Seville. The ruined forts that defended the bay are a UNESCO World Heritage Site and a vivid reminder of that colonial history.

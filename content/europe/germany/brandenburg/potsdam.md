@@ -13,6 +13,10 @@ snippet: Brandenburg capital and Prussian royal residence, surrounded by UNESCO-
   palaces, parks, and gardens.
 title: Potsdam
 type: location
+heritage: 7.0
+vibrancy: 4.3
+nature: 3.6
+off_the_beaten_track: 1.5
 ---
 
 Potsdam is the capital of Brandenburg and the most elegant small city near Berlin — about 25 minutes by S-Bahn from the centre of the capital, but a world apart in feel. It was the summer residence of the Prussian kings and German emperors from the early 18th century, and the palaces, parks, and gardens they built here are collectively a UNESCO World Heritage Site and one of the finest royal landscapes in Europe.

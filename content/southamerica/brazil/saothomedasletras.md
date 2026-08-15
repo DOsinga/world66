@@ -18,6 +18,10 @@ image: saothomedasletras.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Sao_Thome_das_Letras_-_Brazil_(12).JPG
 image_license: CC BY-SA 3.0
 image_attribution: Silvioldcoelho
+heritage: 4.0
+vibrancy: 3.6
+nature: 7.3
+off_the_beaten_track: 5.3
 ---
 
 São Thomé das Letras sits high in the quartzite hills of southern Minas Gerais, a small stone-built town with a reputation much larger than its size. It mixes old Mineiro religion, waterfall weekends, rough-edged backpacker energy, and a long-running taste for mysticism.

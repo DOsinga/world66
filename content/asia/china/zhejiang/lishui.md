@@ -7,7 +7,8 @@ latitude: 28.46763
 loc_type: city
 longitude: 119.922796
 score: 6.34
-snippet: Mountain-ringed Zhejiang city used as a base for river villages, pagodas, and green hill walks.
+snippet: Mountain-ringed Zhejiang city used as a base for river villages, pagodas,
+  and green hill walks.
 sources:
 - https://en.wikivoyage.org/wiki/Lishui
 - https://en.wikipedia.org/wiki/Lishui
@@ -15,6 +16,10 @@ sources:
 title: Lishui
 type: location
 wikidata: Q58294
+heritage: 3.8
+vibrancy: 3.6
+nature: 4.1
+off_the_beaten_track: 1.5
 ---
 
 Lishui sits in southern Zhejiang, where the province turns hillier, greener, and slower than the Hangzhou-Shaoxing corridor. The city itself is not a polished showpiece, but it works well as a base for the Ou River countryside, Ming-era pagodas, and scenic villages that give this corner of Zhejiang its appeal.

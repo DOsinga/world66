@@ -14,6 +14,10 @@ image: broadford.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Rainbow_at_Broadford_-_geograph.org.uk_-_7320543.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Hugh Venables
+heritage: 3.8
+vibrancy: 1.7
+nature: 7.6
+off_the_beaten_track: 5.1
 ---
 
 Broadford is the second-largest settlement on [Skye](/europe/unitedkingdom/scotland/skye), spread along the shore of Broadford Bay on the southeastern coast of the island. It is not a pretty village in the picture-postcard sense, but it is a practical and well-located base for exploring southern Skye, the Sleat peninsula, and the spectacular road to Elgol.

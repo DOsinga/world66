@@ -15,6 +15,10 @@ title: Pitigliano
 type: location
 snippet: Dramatic southern Tuscan town built on volcanic tuff cliffs above wooded
   Etruscan valleys.
+heritage: 7.2
+vibrancy: 4.3
+nature: 6.0
+off_the_beaten_track: 2.3
 ---
 
 Pitigliano sits on a narrow spur of volcanic tuff in the deep south of Tuscany, three hundred metres above the surrounding valleys, its buildings clinging to the cliff edge so closely that from the road below the town and the rock appear to be a single formation. It is one of the most dramatic townscapes in central Italy, and it is still largely unknown outside the region.

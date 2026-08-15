@@ -10,6 +10,10 @@ snippet: Konkan Coast district in Maharashtra, known for Alphonso mangoes betwee
   the Sahyadri hills and Arabian Sea.
 title: Ratnagiri
 type: location
+heritage: 4.7
+vibrancy: 3.2
+nature: 4.3
+off_the_beaten_track: 4.9
 ---
 
 Ratnagiri district stretches along the Konkan coast of Maharashtra, wedged between the Sahyadri hills and the Arabian Sea. This is mango country -- the source of India's prized Alphonso (Hapus) mangoes -- but it is also a coastline of surprising beauty, with long empty beaches, temple-topped headlands, and quiet fishing villages that feel a world away from Mumbai.

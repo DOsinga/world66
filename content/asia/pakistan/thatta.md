@@ -14,6 +14,10 @@ snippet: Lower Indus city of blue-tiled mosques and Makli tombs, once a capital 
   Sindh.
 title: Thatta
 type: location
+heritage: 2.7
+vibrancy: 2.9
+nature: 6.1
+off_the_beaten_track: 6.5
 ---
 
 Thatta lies about 100 kilometres east of Karachi in the lower Indus plain, and for centuries it was the capital of Sindh. Four Muslim dynasties ruled from here between the 14th and 18th centuries, and the city was a centre of Islamic learning and arts long before it slipped into obscurity after the capital moved elsewhere in 1739.

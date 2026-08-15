@@ -18,6 +18,10 @@ sources:
 title: Campbellton
 type: location
 wikidata: Q1030568
+heritage: 2.0
+vibrancy: 1.5
+nature: 5.9
+off_the_beaten_track: 3.7
 ---
 
 Campbellton sits on the Restigouche River at the northern edge of New Brunswick, looking across to Quebec and backed by the rounded mass of Sugarloaf Mountain. It is not a polished resort town, but the setting is strong: river, bridge, mountain, and a waterfront that reminds you how much of the town's story comes from salmon.

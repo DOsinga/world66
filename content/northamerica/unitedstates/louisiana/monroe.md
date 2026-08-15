@@ -15,6 +15,10 @@ snippet: Northeast Louisiana city on the Ouachita River, linked to early Delta A
   Lines and Coca-Cola bottling history.
 title: Monroe
 type: location
+heritage: 3.0
+vibrancy: 3.1
+nature: 3.8
+off_the_beaten_track: 1.2
 ---
 
 Monroe sits on the Ouachita River in northeast Louisiana, a mid-sized city with a surprisingly rich history. It was here that [Delta Air Lines took flight](/northamerica/unitedstates/louisiana/monroe/delta_airlines_heritage) — literally — as the first scheduled passenger airline service in the United States launched from Monroe in 1929. The city also claims the world's first Coca-Cola bottling plant, opened in 1894 by Joseph Biedenharn; the [Biedenharn Museum and Gardens](/northamerica/unitedstates/louisiana/monroe/biedenharn_museum) on Riverside Drive tells both the Coca-Cola story and showcases his daughter's exceptional Bible collection.

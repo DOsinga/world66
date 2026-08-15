@@ -15,6 +15,10 @@ tags:
 - cevennes
 title: Le Puy en Velay
 type: location
+heritage: 6.6
+vibrancy: 5.1
+nature: 5.0
+off_the_beaten_track: 2.6
 ---
 
 Le Puy-en-Velay is one of the most visually striking towns in France. The old city rises from the volcanic plain of the Auvergne on a cluster of rocky outcrops, with a Romanesque cathedral perched on the largest of them and two dramatic volcanic plugs rising nearby — one topped by a giant red statue of the Virgin, the other by an 11th-century chapel accessible by a steep staircase cut into the rock itself.

@@ -17,6 +17,10 @@ image: streaky_bay.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Streaky_Bay_Jetty,_2017_(03).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Bahnfrend
+heritage: 2.8
+vibrancy: 2.2
+nature: 4.9
+off_the_beaten_track: 3.8
 ---
 
 Streaky Bay is a small fishing and farming town on the west coast of the [Eyre Peninsula](/australiaandpacific/australia/southaustralia), far enough from Adelaide to feel like the coast has loosened its grip on the usual holiday circuit. The town faces a calm, pale-blue bay, but the country around it quickly turns wilder: limestone cliffs, surf beaches, low scrub, saltbush, and long roads that run through wheat and sheep country.

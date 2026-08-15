@@ -14,6 +14,10 @@ snippet: Northeastern Lesbos village known for wood-fired pottery workshops and 
   monastery of Taxiarchis
 title: Mandamados
 type: location
+heritage: 4.4
+vibrancy: 3.5
+nature: 5.2
+off_the_beaten_track: 5.3
 ---
 
 Mandamados is a small village in the northeastern part of [Lesbos](/europe/greece/lesbos), about 35 km from Mytilini. It sits in hilly country inland from the north coast, surrounded by olive groves and pine forest, and has two things that draw visitors from all over the island: its pottery and its monastery.

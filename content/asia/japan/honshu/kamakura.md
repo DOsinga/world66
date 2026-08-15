@@ -22,6 +22,10 @@ tip: Kamakura's Great Buddha sits in the open air — its wooden hall was washed
   alternative to Kyoto's. Hike the old trails between temples to escape the crowds.
 title: Kamakura
 type: location
+heritage: 7.6
+vibrancy: 4.6
+nature: 3.9
+off_the_beaten_track: 1.8
 ---
 
 Kamakura is the ancient warrior capital of Japan, a city that ruled the country for nearly a century and a half from its fortified position on the Miura Peninsula south of Tokyo. Ringed on three sides by forested hills and open to the sea on the fourth, it is one of the most naturally defensible cities in Japan — and one of the most beautiful. Samurai history, Zen Buddhism, and excellent coastal scenery combine here in a way found nowhere else.

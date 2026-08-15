@@ -14,6 +14,10 @@ snippet: Southwest Colorado mountain town in the Animas River Valley, framed by 
   San Juan Mountains.
 title: Durango
 type: location
+heritage: 3.1
+vibrancy: 4.9
+nature: 7.1
+off_the_beaten_track: 3.8
 ---
 
 Durango sits in the Animas River Valley in southwest Colorado, surrounded by the San Juan Mountains. It is one of the best outdoor towns in the state — the kind of place where you can raft the Animas in the morning, mountain bike in the afternoon, and eat well downtown in the evening.

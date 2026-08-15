@@ -23,6 +23,10 @@ tip: See both sides. The Argentine side puts walkways right over the water and t
   buses and catch rainbows in the morning mist.
 title: Iguazu Falls
 type: location
+heritage: 3.6
+vibrancy: 1.5
+nature: 8.0
+off_the_beaten_track: 5.0
 ---
 
 Iguazu Falls straddles the border between Argentina and [Brazil](/southamerica/brazil), and can be visited from either side — or even from [Paraguay](/southamerica/paraguay), a short distance away. Despite being heavily visited, the falls remain genuinely spectacular. No amount of tourism infrastructure diminishes the force of standing at the edge of the Garganta del Diablo (Devil's Throat) and looking down into the roaring abyss.

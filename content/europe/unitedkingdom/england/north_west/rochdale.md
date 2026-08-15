@@ -13,6 +13,10 @@ score: 5.84
 snippet: Pennine mill town where the modern cooperative movement began on Toad Lane.
 title: Rochdale
 type: location
+heritage: 4.8
+vibrancy: 3.9
+nature: 5.1
+off_the_beaten_track: 1.8
 ---
 
 Rochdale sits in the foothills of the Pennines north of Manchester, a mill town whose past is woven into the history of the Industrial Revolution and the labour movement simultaneously. It is best known internationally as the birthplace of the modern cooperative movement — the [Rochdale Pioneers](/europe/unitedkingdom/england/north_west/rochdale/rochdale_pioneers_museum) opened their store on Toad Lane in 1844, establishing the principles of democratic consumer ownership that spread across the world. The original shop is now a museum.

@@ -14,6 +14,10 @@ snippet: Hungarian town above a flooded karst cave, where visitors row beneath t
   old centre.
 title: Tapolca
 type: location
+heritage: 4.2
+vibrancy: 3.9
+nature: 5.5
+off_the_beaten_track: 2.2
 ---
 
 The old town of Tapolca, nestling behind [Szent György-hegy](/europe/hungary/tapolca/szent_gyorgy_hegy), holds an extraordinary natural attraction: the [Cave Lake](/europe/hungary/tapolca/cave_lake). Hot karst water gouged out a labyrinth of winding corridors and halls in the limestone beneath the town, which were then flooded by crystal-clear groundwater. Rowing through the mysteriously lit, twisting waterway feels like being ferried across some mythological underworld — except there is a way back.

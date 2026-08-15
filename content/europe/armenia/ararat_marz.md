@@ -13,6 +13,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Ararat_city_entrance_from_
 image_license: CC BY-SA 4.0
 image_attribution: Armineaghayan
 snippet: Armenian province in the Arax valley, framed by views of Mount Ararat.
+heritage: 5.3
+vibrancy: 3.2
+nature: 5.1
+off_the_beaten_track: 5.0
 ---
 
 Ararat Marz is the province that dominates the view from Yerevan: a broad, hot, flat valley carved by the Arax river, with the double peak of Mount Ararat — now just across the border in Turkey — looming over everything on a clear day, impossibly large and impossibly close. The mountain gave the region its name even though Armenians can only look at it.

@@ -1,14 +1,15 @@
 ---
 latitude: 4.8531
 loc_type: city
-longitude: 31.6000
+longitude: 31.6
 quick_facts:
   Capital Since: '2011'
   Newest Nation: World's youngest country
   On the White Nile: Near three borders
   Population: ~500,000
 score: 6.8
-snippet: Young South Sudanese capital on the White Nile, raw, expensive, and politically charged.
+snippet: Young South Sudanese capital on the White Nile, raw, expensive, and politically
+  charged.
 sources:
 - https://en.wikivoyage.org/wiki/Juba
 - https://en.wikipedia.org/wiki/Juba
@@ -19,6 +20,10 @@ tip: Juba is a base, not a sightseeing city — most foreigners here are working
   simple pleasures; a cold drink watching the White Nile is the best of it.
 title: Juba
 type: location
+heritage: 5.0
+vibrancy: 1.5
+nature: 2.1
+off_the_beaten_track: 7.7
 ---
 
 Juba is South Sudan's capital and the only real urban base for anyone who ends up travelling in the country. It is not an easy city and it is not a conventional leisure stop. Security is volatile, infrastructure is rough, prices are high, and most foreign visitors are here for work, reporting, aid, research, or diplomacy.

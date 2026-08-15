@@ -18,6 +18,10 @@ title: Nevşehir
 snippet: Cappadocia transport hub and provincial capital shaped by Damat İbrahim Paşa's
   Ottoman-era rebuilding.
 type: location
+heritage: 8.1
+vibrancy: 7.2
+nature: 6.8
+off_the_beaten_track: 7.2
 ---
 
 Nevşehir is the provincial capital and the main transport hub for [Cappadocia](/asia/turkey/cappadocia), the extraordinary landscape of volcanic rock formations, underground cities, and cave churches that draws visitors from across the world. The city itself is functional rather than picturesque — most travellers pass through quickly on their way to [Göreme](/asia/turkey/cappadocia/goreme), [Ürgüp](/asia/turkey/cappadocia/urgup), or [Avanos](/asia/turkey/cappadocia/avanos) — but it deserves more than a cursory transit stop.

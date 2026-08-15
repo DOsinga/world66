@@ -13,6 +13,10 @@ image: baie_sainte_catherine.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Baie_Sainte_Catherine.jpg
 image_license: CC BY-SA 3.0
 image_attribution: BARILLET-PORTAL David , Bordeaux, Gironde, France
+heritage: 3.3
+vibrancy: 1.7
+nature: 7.1
+off_the_beaten_track: 3.9
 ---
 
 Baie-Sainte-Catherine sits where the Saguenay River opens into the St. Lawrence, a small Charlevoix village with an outsized view. It is quieter than nearby Tadoussac, but it shares the same great reason to come: cold, rich water where belugas, minkes, fins and sometimes blue whales feed through the summer.

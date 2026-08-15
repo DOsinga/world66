@@ -14,6 +14,10 @@ image: gorontalo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Benteng_Ulupahu.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Hendrik Saleh
+heritage: 5.1
+vibrancy: 4.0
+nature: 7.0
+off_the_beaten_track: 5.9
 ---
 
 Gorontalo is a low-key port city on the north coast of Sulawesi, far less visited than [Manado](/asia/indonesia/sulawesi/manado) but with a sharper local identity than most transit towns. It is Gorontaloan rather than Minahasan, Muslim rather than mainly Christian, and close to mangroves, lake country, old forts, and one of Indonesia's more unusual wildlife encounters.

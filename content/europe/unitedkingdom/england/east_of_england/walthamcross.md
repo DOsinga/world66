@@ -13,6 +13,10 @@ image: walthamcross.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Eleanor_Cross_Road,_Waltham_Cross_-_geograph.org.uk_-_7030487.jpg
 image_license: CC BY-SA 2.0
 image_attribution: David Howard
+heritage: 3.6
+vibrancy: 2.1
+nature: 1.8
+off_the_beaten_track: 1.7
 ---
 
 Waltham Cross takes its name from one of the twelve Eleanor Crosses erected by Edward I in 1291 to mark the resting places of his wife's funeral cortege on its journey from Lincoln to London. The [cross](/europe/unitedkingdom/england/east_of_england/walthamcross/eleanor_cross) still stands in the town centre, heavily restored but one of only three originals to survive. It is an extraordinary piece of medieval craftsmanship to find in what is now a busy commuter town on the northern edge of London.

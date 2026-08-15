@@ -13,6 +13,10 @@ image: paradisegulf.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Golfo_Paradiso-IMG_0108.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Davide Papalini
+heritage: 2.9
+vibrancy: 2.3
+nature: 7.1
+off_the_beaten_track: 2.9
 ---
 
 The Golfo Paradiso -- Paradise Gulf -- is the stretch of Ligurian coast between Genoa and Portofino, a string of small fishing towns backed by steep green hills dropping straight into the sea. The name is not an exaggeration: the light here is extraordinary, the water is clean, and the little harbours still feel like working places rather than stage sets.

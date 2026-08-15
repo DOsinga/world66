@@ -7,7 +7,8 @@ latitude: 42.098687
 loc_type: city
 longitude: -75.917974
 score: 6.18
-snippet: Southern Tier river city with ornate mansions, antique carousels, Rod Serling roots, and spiedies.
+snippet: Southern Tier river city with ornate mansions, antique carousels, Rod Serling
+  roots, and spiedies.
 sources:
 - https://en.wikivoyage.org/wiki/Binghamton
 - https://www.binghamton-ny.gov/community/recreation/city-carousels
@@ -15,6 +16,10 @@ sources:
 title: Binghamton
 type: location
 wikidata: Q213814
+heritage: 3.1
+vibrancy: 3.3
+nature: 5.2
+off_the_beaten_track: 1.7
 ---
 
 Binghamton sits where the Susquehanna and Chenango rivers meet, a small upstate city with more personality than its highway exits suggest. It was once rich from cigars, shoes, railroads, and early technology, and that money left a downtown of Romanesque blocks, old banks, and elaborate houses that earned it the nickname "Parlor City."

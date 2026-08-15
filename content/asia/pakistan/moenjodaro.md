@@ -14,6 +14,10 @@ snippet: Indus Valley archaeological city with brick streets, ancient drainage, 
   the monumental Great Bath.
 title: Moenjodaro
 type: location
+heritage: 7.5
+vibrancy: 1.5
+nature: 1.9
+off_the_beaten_track: 4.3
 ---
 
 Moenjodaro is one of the great archaeological sites of the world — a 4,500-year-old city that was contemporary with ancient Egypt and Mesopotamia, and far larger than most people expect. The ruins sit in the flat plains of Sindh province, beside the Indus River, quietly extraordinary in their scale and sophistication.

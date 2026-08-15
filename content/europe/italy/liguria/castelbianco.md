@@ -12,6 +12,10 @@ tags:
 - rivieradellepalme
 title: Castelbianco
 type: location
+heritage: 3.6
+vibrancy: 1.4
+nature: 6.8
+off_the_beaten_track: 4.6
 ---
 
 Castelbianco is a tiny commune in the lower Pennavaire valley, made up of the hamlets of Colletta, Oresine, Veravo (the municipal seat), and the ruins of Vesallo, which was destroyed by an earthquake in 1887 and never rebuilt. The area was once a possession of the Cepolla family of Albenga before passing to the marquisate of Zuccarello in 1383, then to the Savoy, and finally to the Republic of Genoa.

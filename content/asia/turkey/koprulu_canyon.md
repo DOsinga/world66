@@ -14,6 +14,10 @@ image: koprulu_canyon.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kr%C3%BCper%27s_Nuthatch,_K%C3%B6pr%C3%BCl%C3%BC_Canyon_NP,_Antalya,_Turkey_1.jpg
 image_license: CC BY 4.0
 image_attribution: borhammere
+heritage: 4.5
+vibrancy: 3.1
+nature: 8.0
+off_the_beaten_track: 3.9
 ---
 
 Köprülü Canyon cuts through the western Taurus Mountains about 50km north of Side, where the Köprü River has carved a gorge with walls reaching 400 metres in places. The national park that surrounds it is the main white-water rafting destination in the Antalya region, and on a summer day the river fills with bright rafts and the riverbank with operators handing out helmets and paddles. The lower section is gentle enough for first-timers and families; the upper stretches have rapids that ask for a bit more nerve.

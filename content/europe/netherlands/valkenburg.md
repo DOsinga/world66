@@ -14,6 +14,10 @@ title: Valkenburg
 type: location
 snippet: Small Limburg hill town built around a ruined castle, cave systems, and the
   Cauberg cycling climb.
+heritage: 5.1
+vibrancy: 3.5
+nature: 4.7
+off_the_beaten_track: 2.0
 ---
 
 Valkenburg aan de Geul is a small tourist town in the hilly south of the Netherlands (Limburg province), 10 km east of Maastricht. It is the only town in the Netherlands with a significant hill — the [Cauberg](/europe/netherlands/valkenburg/cauberg) — which has made it a regular finish in the Tour de France and Amstel Gold Race. Cycling fans come specifically to ride the climb.

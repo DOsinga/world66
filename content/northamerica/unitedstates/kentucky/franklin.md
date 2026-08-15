@@ -10,6 +10,10 @@ title: Franklin
 type: location
 snippet: Small Kentucky border town with Octagon Hall, country music ties, and an
   all-turf racetrack.
+heritage: 2.0
+vibrancy: 2.0
+nature: 2.7
+off_the_beaten_track: 1.5
 ---
 
 Franklin is a small agricultural town of around 8,000 people in Simpson County, just a few miles north of the Tennessee state line and about 45 miles north of Nashville. It's the kind of quietly proud Southern town that surprises visitors — home to a genuine oddity in Octagon Hall, a beloved golf course designed by a hometown pro, and the unlikely setting for one of country music's most famous weddings.

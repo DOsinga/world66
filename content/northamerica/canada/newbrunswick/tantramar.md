@@ -2,10 +2,15 @@
 title: Tantramar
 type: location
 loc_type: city
-latitude: 45.9000
+latitude: 45.9
 longitude: -64.3667
 score: 0.32
-snippet: New Brunswick border town of Acadian forts, university galleries, and marshland birding.
+snippet: New Brunswick border town of Acadian forts, university galleries, and marshland
+  birding.
+heritage: 3.9
+vibrancy: 1.8
+nature: 5.3
+off_the_beaten_track: 4.0
 ---
 
 Tantramar is the new municipal name for the Sackville-Dorchester-Aulac area at the New Brunswick-Nova Scotia border. It is a small place, but it has a sharper identity than many towns its size: salt marshes, Acadian frontier history, Mount Allison University, and a string of modest but worthwhile museums.

@@ -10,6 +10,10 @@ snippet: Sacramento Valley farm town in rice country, close to a major wintering
   refuge
 title: Willows
 type: location
+heritage: 1.6
+vibrancy: 2.1
+nature: 3.4
+off_the_beaten_track: 2.0
 ---
 
 Willows is a small agricultural town in California's Sacramento Valley, about halfway between Sacramento and Redding on Interstate 5. With a population around 6,000, it functions mostly as a rest stop and service point for travelers driving the length of the Central Valley. The surrounding land is some of California's most productive rice country, and you'll see flooded paddies stretching to the horizon in winter and spring.

@@ -14,6 +14,10 @@ snippet: Red River city opposite Grand Forks, reshaped by flood recovery into gr
   and riverfront parks
 title: East Grand Forks
 type: location
+heritage: 1.5
+vibrancy: 2.3
+nature: 3.0
+off_the_beaten_track: 1.5
 ---
 
 East Grand Forks is a small city in northwestern Minnesota, sitting on the east bank of the Red River directly across from Grand Forks, North Dakota. The two cities function as a single metropolitan area, connected by several bridges, but East Grand Forks has its own distinct character -- quieter, more residential, and with a few draws that bring people across the river from North Dakota.

@@ -13,6 +13,10 @@ image: ledbury.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ledbury_Town,_Herefordshire._Main_Street.JPG
 image_license: Public domain
 image_attribution: Alf Beard
+heritage: 5.9
+vibrancy: 2.8
+nature: 3.9
+off_the_beaten_track: 1.9
 ---
 
 Ledbury is one of the prettiest market towns in Herefordshire, with a remarkable concentration of black-and-white timber-framed buildings lining its streets. Church Lane, a narrow cobbled passage running from the high street up to the church, is the most photographed spot — a tunnel of overhanging medieval buildings that looks like it has not changed in centuries.

@@ -14,6 +14,10 @@ snippet: Walled Adriatic town at Italy's heel, layered with Greek, Byzantine, No
   and Ottoman history.
 title: Otranto
 type: location
+heritage: 6.4
+vibrancy: 4.7
+nature: 4.9
+off_the_beaten_track: 2.9
 ---
 
 Otranto sits at the very tip of Italy's heel, on the Adriatic coast of Puglia — closer to Albania across the channel than to Rome. It is one of the most historically layered towns in southern Italy: Greek colonists founded it, Byzantines fortified it, Normans conquered it, and in 1480 Ottoman forces under Mehmet II sacked the city and massacred its inhabitants. The bones of the 800 martyrs killed that year still line the walls of the [cathedral](/europe/italy/puglia/otranto/cathedral) in one of the most striking ossuary displays in Europe.

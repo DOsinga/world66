@@ -15,6 +15,10 @@ type: location
 score: 8.68
 snippet: Yunnan karst landscape near Kunming, famed for tall limestone pillars known
   as the Stone Forest.
+heritage: 4.0
+vibrancy: 1.5
+nature: 7.6
+off_the_beaten_track: 3.5
 ---
 
 Shilin — the Stone Forest — is one of those landscapes that photographs badly precisely because nothing prepares you for the scale. About 90 kilometres southeast of Kunming, the park protects an extraordinary karst field where ancient limestone has been dissolved and carved into a maze of towering grey columns, some reaching 30 metres, separated by narrow gullies carpeted with moss. A UNESCO World Heritage site since 2007, it shares that designation with several other karst areas across southern China, but Shilin's stone is older and stranger than most — the formations here are Permian, meaning they were ancient long before dinosaurs.

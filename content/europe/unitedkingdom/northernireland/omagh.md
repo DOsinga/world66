@@ -10,6 +10,10 @@ snippet: Tyrone market town where two rivers meet, with Sperrin Mountain trails 
   Ulster emigrant history nearby.
 title: Omagh
 type: location
+heritage: 4.2
+vibrancy: 2.8
+nature: 6.1
+off_the_beaten_track: 2.1
 ---
 
 Omagh is the county town of Tyrone, set in the rolling green hills where the rivers Drumragh and Camowen meet to form the Strule. It is a quiet, pleasant market town that serves as a good base for exploring the Sperrins, the largest mountain range in Northern Ireland, whose heather-covered slopes and lonely valleys lie just to the north.

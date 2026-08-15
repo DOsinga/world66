@@ -14,6 +14,10 @@ snippet: Suðuroy harbour town at the head of Trongisvágsfjørður, a deep fjor
   island's east coast.
 title: Tvøroyri
 type: location
+heritage: 4.1
+vibrancy: 0.7
+nature: 7.8
+off_the_beaten_track: 7.0
 ---
 
 Tvøroyri is one of the largest settlements on Suðuroy, the southernmost island in the [Faroe Islands](/europe/faroeislands). The town sits at the head of [Trongisvágsfjørður](/europe/faroeislands/suuroy/tvroyri/trongisvagsfjoerdur), a deep fjord cutting into the island's east coast.

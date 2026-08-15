@@ -19,6 +19,10 @@ image: peach_springs.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2014,_Looking_East,_Peach_Springs,_AZ_-_panoramio.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Chris English
+heritage: 3.1
+vibrancy: 2.3
+nature: 5.3
+off_the_beaten_track: 2.1
 ---
 
 *North America > United States > Arizona > Peach Springs*

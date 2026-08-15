@@ -3,13 +3,18 @@ latitude: -33.835
 loc_type: city
 longitude: 148.6925
 score: 7.24
-snippet: Central West NSW town shaped by Japanese-Australian reconciliation after the 1944 Cowra Breakout.
+snippet: Central West NSW town shaped by Japanese-Australian reconciliation after
+  the 1944 Cowra Breakout.
 sources:
 - https://en.wikivoyage.org/wiki/Cowra
 - https://www.visitcowra.com.au/
 - https://www.cowracouncil.com.au/Facilities/Tourism-and-history/POW-Camp
 title: Cowra
 type: location
+heritage: 3.5
+vibrancy: 2.6
+nature: 4.4
+off_the_beaten_track: 3.1
 ---
 
 Cowra is a quiet Central West town with one of Australia's strongest stories of wartime memory turning into reconciliation. The 1944 Cowra Breakout, when more than a thousand Japanese prisoners of war tried to escape from the local POW camp, could have left the town with only a grim footnote. Instead, Cowra has built a whole peace precinct around the event, with gardens, cemeteries, memorials, and a bell that make the story feel human rather than abstract.

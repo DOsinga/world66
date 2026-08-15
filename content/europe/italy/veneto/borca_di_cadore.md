@@ -17,6 +17,10 @@ tags:
 - dolomites
 title: Borca di Cadore
 type: location
+heritage: 4.3
+vibrancy: 1.8
+nature: 6.4
+off_the_beaten_track: 3.4
 ---
 
 Borca di Cadore is a small comune in the Boite valley of the eastern Dolomites, sitting at about 940 metres between [San Vito di Cadore](/europe/italy/veneto/san_vito_di_cadore) to the north and [Vodo di Cadore](/europe/italy/veneto/vodo_di_cadore) to the south. The village itself is unremarkable — a handful of stone houses, a parish church, the usual cluster of valley-floor shops — but Borca holds one of the most unusual architectural complexes in the Italian Alps, and that is why people come.

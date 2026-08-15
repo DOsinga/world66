@@ -13,6 +13,10 @@ image: futuroscope.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Futuroscope,_France.JPG
 image_license: CC BY-SA 4.0
 image_attribution: Joseolgon
+heritage: 3.8
+vibrancy: 3.5
+nature: 4.7
+off_the_beaten_track: 1.2
 ---
 
 Futuroscope is a theme park near Poitiers dedicated to multimedia, cinematographic futurism, and audiovisual techniques. Opened in 1987, it was one of Europe's first technology-focused parks and the buildings themselves — all sharp angles, glass spheres, and crystalline geometry — are as much of an attraction as the shows inside.

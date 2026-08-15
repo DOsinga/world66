@@ -14,6 +14,10 @@ title: Almagro
 snippet: Renaissance town in La Mancha, known for Spain's preserved Golden Age courtyard
   theatre.
 type: location
+heritage: 6.0
+vibrancy: 3.6
+nature: 3.5
+off_the_beaten_track: 2.6
 ---
 
 Almagro is a small Renaissance town in the heart of La Mancha, best known for its extraordinary [Plaza Mayor](/europe/spain/la_mancha/almagro/plaza_mayor_almagro) — which at one end contains the [Corral de Comedias](/europe/spain/la_mancha/almagro/corral_de_comedias), the only fully preserved open-air courtyard theatre from Spain's Golden Age, still in use for performances today. The arcade along both sides of the square has distinctive green-painted wooden shutters, a Flemish touch that arrived with the Habsburg connections of the Knights of Calatrava. It's the kind of place that stops you in your tracks.

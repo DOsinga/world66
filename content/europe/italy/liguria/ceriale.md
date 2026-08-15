@@ -16,6 +16,10 @@ tags:
 - rivieradellepalme
 title: Ceriale
 type: location
+heritage: 2.4
+vibrancy: 2.0
+nature: 4.8
+off_the_beaten_track: 2.5
 ---
 
 Ceriale is a small seaside town on the **Riviera delle Palme**, the western Ligurian coast between **Albenga** and Savona, with a permanent population of about 5,500 that swells several times over in high summer. The town itself is an unremarkable modern Italian beach resort — wide sandy beach, long promenade, parasols in neat rows from June to September — but its setting is pretty: behind the beach, the steep green hills of the Arroscia and Pennavaire valleys rise towards Monte Croce, and in front lies the characteristic curving Ligurian coast with **Gallinara** — the small uninhabited island known in ancient times as an exile destination for early Christians — visible offshore.

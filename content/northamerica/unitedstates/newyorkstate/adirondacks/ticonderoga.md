@@ -17,6 +17,10 @@ image: ticonderoga.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Fort_Ticonderoga,_Ticonderoga,_NY.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Mwanner
+heritage: 5.4
+vibrancy: 2.0
+nature: 6.6
+off_the_beaten_track: 3.4
 ---
 
 Ticonderoga stands at one of the great old pinch points of North American travel: the short portage between Lake George and Lake Champlain. Armies, traders, and travellers all cared about this gap, which is why a small Adirondack town carries a name far larger than its size.

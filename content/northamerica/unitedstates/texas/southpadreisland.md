@@ -7,6 +7,10 @@ snippet: Texas barrier-island beach resort on the Gulf, calmer outside its famou
   Spring Break rush.
 title: South Padre Island
 type: location
+heritage: 0.6
+vibrancy: 7.2
+nature: 5.8
+off_the_beaten_track: 1.0
 ---
 
 South Padre Island is a barrier island on the Gulf of Mexico in the far south of Texas, separated from the mainland by the Laguna Madre. It is Texas's only true beach resort, and it earns the title: the Gulf water is warm, the beach is wide, and the pace of life is deliberately unhurried for most of the year. In March, the island turns into one of the biggest Spring Break destinations in the country, with Coca Cola Beach filling up with university students and the bars and clubs running around the clock. For the other eleven months, it reverts to a more accessible family destination.

@@ -12,6 +12,10 @@ snippet: East Javan highland city of cooler air, Dutch boulevards, and routes to
   Mount Bromo.
 title: Malang
 type: location
+heritage: 4.5
+vibrancy: 4.2
+nature: 4.3
+off_the_beaten_track: 2.5
 ---
 
 Malang is a highland city in East [Java](/asia/indonesia/java) that offers cooler temperatures, cleaner air, and a more relaxed pace than [Surabaya](/asia/indonesia/java/surabaya), about two hours to the north. Set at around 500 metres, the city has an attractive compact centre with Dutch colonial architecture — wide boulevards lined with art deco buildings, a leafy town square (Alun-Alun), and a sense of faded elegance that rewards a day or two of wandering.

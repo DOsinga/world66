@@ -14,6 +14,10 @@ snippet: Planned Slovenian border city facing Italian Gorizia, with vineyards, m
   avenues, and Europe Square.
 title: Nova Gorica
 type: location
+heritage: 2.1
+vibrancy: 2.5
+nature: 3.2
+off_the_beaten_track: 1.6
 ---
 
 Nova Gorica is a young city by European standards, built after 1947 when the old town of Gorizia was assigned to Italy and Yugoslavia needed a new settlement on its side of the border. The result is a planned modernist city of broad avenues and socialist-era architecture, pressed right up against the Italian border — you can literally step from one country to the other across [Europe Square](/europe/slovenia/nova_gorica/europe_square) (Trg Evrope), which the two cities now share.

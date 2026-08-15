@@ -15,6 +15,10 @@ snippet: White Andalusian mountain village in a rainy sierra of Spanish fir fore
   and limestone trails
 title: Grazalema
 type: location
+heritage: 4.6
+vibrancy: 3.4
+nature: 6.2
+off_the_beaten_track: 3.9
 ---
 
 Grazalema is one of the most picturesque white towns of Andalucía, perched at 825m in the [Sierra de Grazalema Natural Park](/europe/spain/andalucia/grazalema/sierra_de_grazalema_natural_park) about 120km east of Cádiz. The village is a maze of narrow whitewashed streets, baroque churches, and flower-filled balconies, focused on the [Plaza de España](/europe/spain/andalucia/grazalema/plaza_de_espana) and the [Iglesia de Nuestra Señora de la Aurora](/europe/spain/andalucia/grazalema/iglesia_de_la_aurora). It also receives more rain than anywhere else in Spain, which explains why the surrounding mountains are so dramatically lush.

@@ -13,6 +13,10 @@ image: wellsboro.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Wellsboro,_Pennsylvania_(5656953537).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Doug Kerr from Albany, NY, United States
+heritage: 3.5
+vibrancy: 2.8
+nature: 4.7
+off_the_beaten_track: 2.9
 ---
 
 Wellsboro is the neat old county town that makes the Pennsylvania Grand Canyon easy to visit without camping. Its gas-lit Main Street has a courthouse square, brick storefronts, and enough restaurants and cafes to feel like a real base rather than a highway stop.

@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Bhutanatha_group_of_temples,_Badami
 title: Badami
 type: location
+heritage: 8.0
+vibrancy: 4.5
+nature: 3.7
+off_the_beaten_track: 2.7
 ---
 
 Badami is one of Karnataka's great small heritage towns, set in a red-sandstone gorge around Agastya Lake. It was once Vatapi, capital of the Early Chalukyas, and the setting still feels theatrical: cliffs, fort walls, shrines, water, and carved cave temples all packed into a walkable bowl of rock.

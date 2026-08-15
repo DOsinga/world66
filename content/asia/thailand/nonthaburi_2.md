@@ -16,6 +16,10 @@ image_license: CC BY-SA 4.0
 image_attribution: Sgroey
 snippet: Riverside city just north of Bangkok, greener and slower around Chao Phraya
   piers and canals.
+heritage: 3.8
+vibrancy: 3.6
+nature: 1.7
+off_the_beaten_track: 1.0
 ---
 
 Nonthaburi sits just north of Bangkok on the west bank of the Chao Phraya River, close enough to the capital to feel like an extension of the city but distinct enough to reward a visit of its own. Fruit orchards and flower plantations edge up against the canal network, giving the province a greener, slower character than the Bangkok sprawl just south.

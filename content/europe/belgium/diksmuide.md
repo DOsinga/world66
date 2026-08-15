@@ -12,6 +12,10 @@ title: Diksmuide
 type: location
 snippet: Flemish market town in West Flanders, rebuilt around some of Belgium's most
   affecting WWI sites.
+heritage: 6.1
+vibrancy: 2.6
+nature: 2.6
+off_the_beaten_track: 2.8
 ---
 
 Diksmuide is a small Flemish market town in the flat polder landscape of West Flanders, about 20 km inland from the North Sea coast. It would be unremarkable were it not for what happened here between 1914 and 1918: the front line ran straight through this area for four years, and Diksmuide was almost entirely destroyed. The town was rebuilt after the war, but the real draws are the preserved WWI sites on its outskirts — among the most affecting on the Western Front.

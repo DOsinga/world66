@@ -13,6 +13,10 @@ snippet: Family-oriented resort on Zakynthos' northeast coast, centred on a long
   Ionian beach.
 title: Tsilivi
 type: location
+heritage: 1.9
+vibrancy: 4.9
+nature: 6.3
+off_the_beaten_track: 2.2
 ---
 
 Tsilivi is a popular family resort on the northeast coast of Zakynthos, about ten minutes from Zakynthos Town. Despite growing as a holiday destination, it retains plenty of traditional Greek tavernas alongside the newer bars and restaurants.

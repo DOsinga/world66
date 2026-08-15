@@ -14,6 +14,10 @@ image: kabankalan_city.jpg
 image_source: https://commons.wikimedia.org/wiki/File:New_Kabankalan_Cathedral.jpg
 image_license: CC BY 4.0
 image_attribution: Lightningscale
+heritage: 1.9
+vibrancy: 2.0
+nature: 4.9
+off_the_beaten_track: 3.0
 ---
 
 Kabankalan is the second largest city in Negros Occidental, sitting in the southern part of the island about two hours by bus from Bacolod. It's a working agricultural city rather than a tourist hub — the surrounding lowlands are blanketed in sugarcane, and the mountains to the east shelter communities of the Bukidnon people. Most travelers pass through en route to the [Kanlaon Natural Park](/asia/philippines/negrosisland/kabankalan_city/kanlaon_natural_park) or the mountain barangays, but the city itself has a genuine unhurried charm and a useful base of services.

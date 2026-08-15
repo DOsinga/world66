@@ -14,6 +14,10 @@ snippet: Brazilian island archipelago of Atlantic Forest, waterfalls, beaches, a
   São Paulo's sailing culture.
 title: Ilhabela
 type: location
+heritage: 1.2
+vibrancy: 5.4
+nature: 6.3
+off_the_beaten_track: 4.4
 ---
 
 Ilhabela is an archipelago off the northern coast of São Paulo state, about 210 km from the capital. The main island is the largest in Brazil's Atlantic coast and draws visitors with its beaches, waterfalls, and steady winds that have made it the sailing capital of the state.

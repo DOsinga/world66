@@ -10,6 +10,10 @@ title: Jupiter
 type: location
 snippet: Palm Beach County coastal town where the Loxahatchee River meets the Atlantic
   at a red-brick lighthouse.
+heritage: 1.7
+vibrancy: 2.9
+nature: 4.8
+off_the_beaten_track: 1.8
 ---
 
 Jupiter is a coastal town in Palm Beach County where the Loxahatchee River meets the Atlantic. It is quieter and more laid-back than the bigger towns down the coast, with a strong outdoors culture built around the water — kayaking, paddleboarding, fishing, and diving are all part of daily life here.

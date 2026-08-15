@@ -14,6 +14,10 @@ image: puerto_natales.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2019-03-12_01_CNS_PUERTO_NATALES_LSG-1617_%E2%80%93_Puerto_Natales,_Chile.jpg
 image_license: CC BY 4.0
 image_attribution: Gordon Leggett
+heritage: 6.0
+vibrancy: 5.2
+nature: 8.1
+off_the_beaten_track: 5.6
 ---
 
 Puerto Natales sits on Última Esperanza Sound, backed by bare hills and the long weather of Chilean Patagonia. Most travellers know it as the staging point for Torres del Paine, but it is more than a bus stop with gear shops. The waterfront, fishing boats, corrugated houses, and sudden views across the sound give it a frontier mood that is quieter and more human-scaled than [Punta Arenas](/southamerica/chile/puntaarenas).

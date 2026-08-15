@@ -14,6 +14,10 @@ snippet: Moroccan coastal city between Casablanca and Rabat, with a relaxed corn
   and sandy beaches
 title: Mohammedia
 type: location
+heritage: 4.2
+vibrancy: 4.0
+nature: 4.9
+off_the_beaten_track: 1.9
 ---
 
 Mohammedia is a coastal city midway between [Casablanca](/africa/morocco/casablanca) (30 km south) and [Rabat](/africa/morocco/rabat) (60 km north). It began as a small Portuguese trading post and was known as Fedala until Moroccan independence. Today it serves largely as a beach getaway for Casablanca residents, with a long sandy coastline and a more relaxed pace than its larger neighbour.

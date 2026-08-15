@@ -17,6 +17,10 @@ sources:
 - https://heritageireland.ie/places-to-visit/ilnacullin-garinish-island/
 title: Glengarriff
 type: location
+heritage: 4.3
+vibrancy: 1.9
+nature: 6.9
+off_the_beaten_track: 2.4
 ---
 
 Glengarriff is a tiny West Cork village with a setting that does most of the work for it. Bantry Bay lies in front, the Caha Mountains rise behind, and the N71 road squeezes through a glen of oak, birch, and rhododendron before dropping toward the harbour.

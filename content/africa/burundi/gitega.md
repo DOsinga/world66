@@ -23,6 +23,10 @@ tip: Gitega became Burundi's political capital in 2019, taking over from Bustlin
   Gishora is the real draw, where drummers perform a thunderous, dancing ritual.
 title: Gitega
 type: location
+heritage: 3.7
+vibrancy: 3.2
+nature: 4.4
+off_the_beaten_track: 3.2
 ---
 
 Gitega became Burundi's political capital in 2019, taking over from [Bujumbura](/africa/burundi/bujumbura), though in practice the larger lakeside city retains most of the country's economic and diplomatic activity. Gitega sits in the hilly center of the country at around 1,800 meters, giving it a cooler, more temperate climate than the lakeshore.

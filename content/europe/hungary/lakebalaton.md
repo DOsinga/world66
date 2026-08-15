@@ -13,6 +13,10 @@ image: lakebalaton.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Balaton_Hungary_Landscape.jpg
 image_license: CC BY 2.0
 image_attribution: txd
+heritage: 4.2
+vibrancy: 4.8
+nature: 6.5
+off_the_beaten_track: 1.9
 ---
 
 Lake Balaton is Hungary's inland sea and its most beloved summer playground. Stretching 80 kilometres from east to west and up to 15 kilometres wide, it is the largest lake in Central Europe — warm, shallow, and impossibly popular from June through August. Hungarians have built their own version of a Mediterranean culture along these shores, and they do it with considerable conviction.

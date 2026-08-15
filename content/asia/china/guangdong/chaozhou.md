@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Chaozhou
 title: Chaozhou
 type: location
+heritage: 5.9
+vibrancy: 4.3
+nature: 2.9
+off_the_beaten_track: 3.2
 ---
 
 Chaozhou is the cultural heartland of the Teochew people, a city that has been sending emigrants to Southeast Asia for centuries while preserving, at home, one of the most distinctive cultures in southern China. The old city is compact and remarkably intact: a 2.6-kilometre stretch of Song-dynasty walls, narrow lanes of shop-houses, and temples layered with centuries of carved woodwork and gilded ornament. The diaspora communities of Bangkok, Phnom Penh, and Singapore are, in large measure, an extension of this place — and many of them still come back.

@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Danakil_Desert
 title: Danakil Depression
 type: location
+heritage: 5.4
+vibrancy: 1.0
+nature: 7.1
+off_the_beaten_track: 7.2
 ---
 
 The Danakil Depression is the extreme northeastern lowland shared by Eritrea, Ethiopia, and Djibouti: salt, lava, sulphur, heat, and a horizon that seems to have given up on being hospitable. Eritrea's part is often called Dankalia or Dancalia, and it runs down toward Assab and the Red Sea coast. It is one of the hottest inhabited landscapes on earth, and that is not travel-brochure exaggeration.

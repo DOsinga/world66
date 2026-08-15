@@ -13,6 +13,10 @@ image: coppercanyon.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Rio_urique_kupferschlucht.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Unknown
+heritage: 3.8
+vibrancy: 1.1
+nature: 7.9
+off_the_beaten_track: 6.1
 ---
 
 Copper Canyon — Barranca del Cobre — is not one canyon but a network of more than 20, carved into the Sierra Madre Occidental in the state of Chihuahua. Together they cover a vast area, deeper and four times larger than the Grand Canyon in the United States. The name comes from the greenish copper colour of the canyon walls.

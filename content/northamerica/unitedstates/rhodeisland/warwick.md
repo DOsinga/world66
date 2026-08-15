@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Rocky_Point_State_Park
 title: Warwick
 type: location
+heritage: 3.0
+vibrancy: 2.3
+nature: 3.3
+off_the_beaten_track: 1.2
 ---
 
 Warwick is not as showy as [Providence](/northamerica/unitedstates/rhodeisland/providence) or [Newport](/northamerica/unitedstates/rhodeisland/newport), but it has a very Rhode Island mix of shoreline, old villages, coves, and practical usefulness. The state's main airport is here, and so are several quiet pieces of Narragansett Bay that locals use more than visitors do.

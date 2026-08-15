@@ -17,6 +17,10 @@ image: smithers.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Smithers_(108194936).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Shawn from Airdrie, Canada
+heritage: 4.3
+vibrancy: 2.0
+nature: 6.2
+off_the_beaten_track: 5.4
 ---
 
 Smithers is a small Bulkley Valley town with a big mountain backdrop. Main Street leans hard into an alpine look, but the setting earns it: Hudson Bay Mountain rises west of town, waterfalls drop out of Glacier Gulch, and the surrounding country is built for skiing, hiking, fishing, and long northern drives.

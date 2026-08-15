@@ -14,6 +14,10 @@ snippet: Sierra Leone island in the Sherbro estuary, marked by Bonthe's colonial
   and mangrove channels.
 title: Sherbro Island
 type: location
+heritage: 5.5
+vibrancy: 1.0
+nature: 6.8
+off_the_beaten_track: 7.1
 ---
 
 Sherbro Island sits in the mouth of the Sherbro River in southern Sierra Leone, separated from the mainland by a broad estuary. It is one of the larger islands off the West African coast and has been inhabited for centuries by the Sherbro people, who gave it their name. The island has a history intertwined with the [slave trade](/africa/sierraleone/sherbroisland/bonthe_slave_trade_history) — it was a major transit point for enslaved people in the 18th and early 19th centuries, and the town of Bonthe on the island was once a significant colonial settlement.

@@ -17,6 +17,10 @@ image: lac_brome.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Brome_Lake_20190823_154004.jpg
 image_license: CC BY-SA 4.0
 image_attribution: NewtonCourt
+heritage: 3.1
+vibrancy: 2.2
+nature: 5.8
+off_the_beaten_track: 2.4
 ---
 
 Lac-Brome is the kind of Eastern Townships place that works best at a slow pace: a lake, a ring of small villages, wooded roads, vineyards, and the old Loyalist centre of Knowlton. It is not a big-ticket destination, but it has enough texture for a satisfying day if you are already in southern Quebec.

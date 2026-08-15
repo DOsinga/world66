@@ -14,6 +14,10 @@ snippet: Kansas's largest city, rooted in aviation manufacturing and set where t
   Arkansas and Little Arkansas rivers meet.
 title: Wichita
 type: location
+heritage: 3.9
+vibrancy: 5.0
+nature: 3.5
+off_the_beaten_track: 1.3
 ---
 
 Wichita is the largest city in Kansas and has long been called the "Air Capital of the World" — Cessna, Beechcraft, Learjet, and Spirit AeroSystems all have roots here, and aviation still dominates the economy. The city sits where the Arkansas and Little Arkansas rivers meet, and the riverfront has been redeveloped into a pleasant area for walking and cycling.

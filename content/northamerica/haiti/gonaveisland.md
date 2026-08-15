@@ -10,6 +10,10 @@ snippet: Large Haitian island in the Gulf of Gonâve, isolated between fishing v
   and dry hills.
 title: Gonâve Island
 type: location
+heritage: 2.8
+vibrancy: 1.6
+nature: 5.5
+off_the_beaten_track: 6.4
 ---
 
 Gonâve Island is a large island in the Gulf of Gonâve, about 60 km west of Port-au-Prince. Roughly 65 km long, it is one of Haiti's most isolated regions — poor, largely deforested, and home to around 100,000 people living mainly by fishing and subsistence farming.

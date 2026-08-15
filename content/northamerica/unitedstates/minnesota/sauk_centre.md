@@ -17,6 +17,10 @@ image: sauk_centre.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Original_Main_Street_HD.jpg
 image_license: CC BY-SA 4.0
 image_attribution: McGhiever
+heritage: 2.4
+vibrancy: 2.4
+nature: 3.9
+off_the_beaten_track: 1.7
 ---
 
 Sauk Centre is a small central [Minnesota](/northamerica/unitedstates/minnesota) town with a literary chip on its shoulder. Sinclair Lewis was born here, used the town as the raw material for Gopher Prairie in *Main Street*, and left behind enough friction that the place is more interesting than a standard freeway stop.

@@ -17,6 +17,10 @@ image: beatty.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Beatty,_Nevada_1989_01.jpg
 image_license: CC BY-SA 4.0
 image_attribution: LBM1948
+heritage: 1.8
+vibrancy: 1.8
+nature: 2.4
+off_the_beaten_track: 2.2
 ---
 
 Beatty is a small desert town on US-95, close to the Nevada edge of [Death Valley](/northamerica/unitedstates/california/deserts/deathvalley). It is often treated as a fuel stop or motel base, but the country just west of town gives it a stronger claim: the ruins of [Rhyolite](/northamerica/unitedstates/nevada/beatty/rhyolite_historic_area), the strange sculptures of [Goldwell Open Air Museum](/northamerica/unitedstates/nevada/beatty/goldwell_open_air_museum), and a stark road over Daylight Pass into the national park.

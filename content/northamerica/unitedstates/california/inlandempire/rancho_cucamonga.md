@@ -18,6 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Rancho_Cucamonga,_California
 - https://en.wikipedia.org/wiki/Cucamonga_Valley_AVA
 - https://en.wikipedia.org/wiki/Victoria_Gardens_(Rancho_Cucamonga)
+heritage: 2.7
+vibrancy: 3.1
+nature: 4.2
+off_the_beaten_track: 1.4
 ---
 
 Rancho Cucamonga sits at the base of the San Gabriel Mountains along historic Route 66, about 37 miles east of downtown Los Angeles. The city blends orderly suburban living with echoes of a wine-country past that was, by the 1940s, bigger than Napa and Sonoma combined. Post-war sprawl ate almost all the vineyards, but the bones of the old Cucamonga Valley wine district still show: century-old vine stumps in backyard lots, the restored 1915 [Cucamonga Service Station](/northamerica/unitedstates/california/inlandempire/rancho_cucamonga/cucamonga_service_station) on Foothill Boulevard, and a handful of family wineries holding on nearby.

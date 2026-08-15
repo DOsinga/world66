@@ -3,12 +3,17 @@ latitude: -34.7322
 loc_type: city
 longitude: 135.8586
 score: 7.5
-snippet: Seafood port on Boston Bay, known for shark cage diving, tuna fleets, and wild Eyre Peninsula coast.
+snippet: Seafood port on Boston Bay, known for shark cage diving, tuna fleets, and
+  wild Eyre Peninsula coast.
 sources:
-  - https://en.wikivoyage.org/wiki/Port_Lincoln
-  - https://southaustralia.com/destinations/eyre-peninsula/places/port-lincoln
+- https://en.wikivoyage.org/wiki/Port_Lincoln
+- https://southaustralia.com/destinations/eyre-peninsula/places/port-lincoln
 title: Port Lincoln
 type: location
+heritage: 4.5
+vibrancy: 3.6
+nature: 5.7
+off_the_beaten_track: 4.4
 ---
 
 Port Lincoln is a working seafood town on Boston Bay, near the southern tip of the Eyre Peninsula. It has grain silos, fishing boats, tuna money, and a marina full of serious charter vessels, but the reason travellers make the long haul from [Adelaide](/australiaandpacific/australia/southaustralia/adelaide) is the coast around it.

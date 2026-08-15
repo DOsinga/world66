@@ -18,6 +18,10 @@ image: willits.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Skunk_Train_Depot_-_Willits_California.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Ian Poellet
+heritage: 3.8
+vibrancy: 2.4
+nature: 5.8
+off_the_beaten_track: 5.1
 ---
 
 Willits sits inland from the Mendocino coast, where Highway 101 meets the road west to [Fort Bragg](/northamerica/unitedstates/california/northcoast/fortbragg). It calls itself the Heart of Mendocino County, which is partly geography and partly attitude: logging-town roots, old rail equipment, small museums, and a main street that still feels like a road-trip pause rather than a manufactured destination.

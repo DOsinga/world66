@@ -17,6 +17,10 @@ image: bracebridge.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bracebridge_Falls_and_bridge.jpg
 image_license: CC BY-SA 2.0
 image_attribution: John Vetterli
+heritage: 4.3
+vibrancy: 2.4
+nature: 6.6
+off_the_beaten_track: 2.3
 ---
 
 Bracebridge is the administrative heart of Muskoka, but it feels more like a river town than a county seat. The North Branch Muskoka River cuts through the centre, dropping over falls beside old brick buildings, bridges, and the power works that helped shape the town.

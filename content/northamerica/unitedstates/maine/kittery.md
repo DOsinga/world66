@@ -10,6 +10,10 @@ snippet: Historic Maine gateway town where outlet strips give way to navy-yard h
   and Piscataqua coast.
 title: Kittery
 type: location
+heritage: 3.1
+vibrancy: 2.8
+nature: 5.8
+off_the_beaten_track: 1.8
 ---
 
 Kittery is the gateway to Maine -- the first town you hit after crossing the Piscataqua Bridge from New Hampshire. Most visitors know it for one thing: outlet shopping. Over 120 retail stores line Route 1, and Bostonians flock here on weekends (Massachusetts plates outnumber Maine plates as a rule).

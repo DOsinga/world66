@@ -16,6 +16,10 @@ image: carlisle.jpg
 image_source: https://commons.wikimedia.org/wiki/File:United_Reformed_Church,_West_Walls,_Carlisle_-_geograph.org.uk_-_6313197.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Bill Harrison
+heritage: 6.6
+vibrancy: 4.4
+nature: 5.8
+off_the_beaten_track: 2.8
 ---
 
 Carlisle sits at the meeting point of three rivers — the Eden, the Caldew, and the Petteril — and has spent most of its history as a contested border city between England and Scotland. That contested past left it with some of the finest medieval fortifications in northern England: a [castle](/europe/unitedkingdom/england/north_west/carlisle/carlisle_castle) that has been besieged more times than almost any other in the country, and a [cathedral](/europe/unitedkingdom/england/north_west/carlisle/carlisle_cathedral) that survived centuries of conflict, fire, and Civil War damage.

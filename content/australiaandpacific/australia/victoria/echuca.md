@@ -10,6 +10,10 @@ longitude: 144.7517
 score: 7.54
 title: Echuca
 type: location
+heritage: 4.9
+vibrancy: 3.3
+nature: 4.3
+off_the_beaten_track: 2.4
 ---
 
 Echuca is a Victorian river town on the Murray that wears its history proudly. In the 1870s it was Australia's largest inland port, its wharves stacked with wool and timber hauled down from the hinterland on the backs of paddlesteamers. That era is gone but not forgotten — the restored [historic port precinct](/australiaandpacific/australia/victoria/echuca/port_of_echuca) is one of the best-preserved examples of 19th-century river trade in the country, and the [PS Adelaide](/australiaandpacific/australia/victoria/echuca/ps_adelaide) — the oldest wooden-hulled paddlesteamer still operating in the world — still churns up and down the Murray most days.

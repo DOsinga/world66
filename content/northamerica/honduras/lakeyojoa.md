@@ -9,6 +9,10 @@ score: 7.42
 loc_type: feature
 snippet: Honduras's largest natural lake, set between national parks and noted for
   birdwatching.
+heritage: 3.9
+vibrancy: 2.0
+nature: 7.4
+off_the_beaten_track: 5.4
 ---
 
 Lake Yojoa is Honduras's largest natural lake, set in a lush valley between two national parks. The surrounding area is one of the best birdwatching destinations in Central America, with over 480 species recorded around the lake's shores and forested hillsides.

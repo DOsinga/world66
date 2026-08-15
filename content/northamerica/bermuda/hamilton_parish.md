@@ -14,6 +14,10 @@ image: hamilton_parish.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Crystal_Cave_Bermuda_1.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Captain-tucker
+heritage: 4.8
+vibrancy: 3.9
+nature: 5.8
+off_the_beaten_track: 3.3
 ---
 
 Hamilton Parish occupies Bermuda's north-eastern middle, wrapped around Harrington Sound and split between quiet residential lanes, caves, small bays, and Flatts Village. It should not be confused with the City of Hamilton; this is a parish, not the capital.

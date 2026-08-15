@@ -14,6 +14,10 @@ snippet: Wet Tropics township known for Paronella Park, a jungle castle beside M
   Creek waterfall.
 title: Mena Creek
 type: location
+heritage: 4.1
+vibrancy: 1.9
+nature: 6.2
+off_the_beaten_track: 3.7
 ---
 
 Mena Creek is a small township in the wet tropics of North Queensland, about 90 kilometres south of Cairns on the Pacific Coast Highway. It would be entirely unremarkable except for **Paronella Park** — one of Queensland's most unusual and atmospheric attractions.

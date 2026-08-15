@@ -13,6 +13,10 @@ image: otaru.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Otaru-overview.JPG
 image_license: CC BY-SA 3.0
 image_attribution: ja:user:Umidori
+heritage: 5.3
+vibrancy: 5.1
+nature: 4.9
+off_the_beaten_track: 1.6
 ---
 
 Otaru is a port city on Hokkaido's Sea of Japan coast, close enough to [Sapporo](/asia/japan/hokkaido/sapporo) for an easy day trip but different enough to feel like a proper change of scene. Its old canal, stone warehouses, glass shops, and steep streets give it a softer, more historic face than the modern capital nearby.

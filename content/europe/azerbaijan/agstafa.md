@@ -9,6 +9,10 @@ snippet: Azerbaijani railway town near the Georgian border, founded where routes
   Baku once split north and west.
 title: Agstafa
 type: location
+heritage: 2.5
+vibrancy: 1.5
+nature: 3.3
+off_the_beaten_track: 6.3
 ---
 
 Small provincial town located near the Georgian and Armenian borders, Agstafa was founded in 1914 as Elisavetinka, mainly as a railway junction. In Agstafa the railway coming from Baku splits in two: one going north to Tblisi via Rustavi and another going east to Yerevan via Qazax and Dilizhan. The collapse of the Soviet Union and the conflict with Armenia made Agstafa's role less important, as the rail and road connections to Armenia have been closed. 

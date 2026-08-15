@@ -25,6 +25,10 @@ tip: Bern, not Zurich or Geneva, is Switzerland's capital — a perfectly preser
   while living here.
 title: Bern
 type: location
+heritage: 6.6
+vibrancy: 7.1
+nature: 6.3
+off_the_beaten_track: 2.1
 ---
 
 Switzerland’s federal capital (pop. 136,000) is one of the best-preserved medieval city centres in Europe and a UNESCO World Heritage Site. A fire destroyed most of it in 1405, and what was rebuilt in the following century is still largely intact: 6 kilometres of continuous arcaded sandstone walkways, [eleven painted medieval fountains](/europe/switzerland/bern/fountains), and the 100-metre tower of the [Bern Minster](/europe/switzerland/bern/bern_minster) rising from the heart of the peninsula. The [Zytglogge clock tower](/europe/switzerland/bern/zytglogge) — with its mechanical figure show at four minutes before each hour — is the symbolic centre of the city and a pivot in Albert Einstein’s thought experiments about time.

@@ -13,6 +13,10 @@ snippet: Native wildlife park with koalas, platypus, and raptor shows
 title: Healesville Sanctuary
 type: location
 url: www.zoo.org.au
+heritage: 3.1
+vibrancy: 2.7
+nature: 7.9
+off_the_beaten_track: 3.2
 ---
 
 One of Australia's best wildlife parks, set in beautiful bushland in the Yarra Valley foothills about an hour from Melbourne. You can get close to koalas, kangaroos, wombats, dingoes, and the elusive platypus across 200 native species. The Birds of Prey show is a must, with wedge-tailed eagles swooping inches above your head. Aboriginal-guided bush walks offer a deeper understanding of the landscape.

@@ -8,8 +8,9 @@ loc_type: city
 longitude: 15.007
 score: 6.6
 tags:
-  - siljan_area
-snippet: Dalarna village above Lake Siljan, known for red timber houses and midsummer tradition.
+- siljan_area
+snippet: Dalarna village above Lake Siljan, known for red timber houses and midsummer
+  tradition.
 sources:
 - https://en.wikivoyage.org/wiki/T%C3%A4llberg
 - https://www.visitdalarna.se/en/do/attractions/tallberg-village
@@ -18,6 +19,10 @@ sources:
 title: Tällberg
 type: location
 wikidata: Q2763404
+heritage: 3.1
+vibrancy: 2.1
+nature: 5.4
+off_the_beaten_track: 1.9
 ---
 
 Tällberg is a small Dalarna village on the slope above Lake Siljan, between Leksand and Rättvik. It is not a place of major monuments. Its value is more local and atmospheric: red timber houses, lake views, craft shops, old farm buildings, and a strong midsummer tradition in one of Sweden's most self-consciously traditional regions.

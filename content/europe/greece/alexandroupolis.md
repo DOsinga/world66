@@ -16,6 +16,10 @@ image: alexandroupolis.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Alexandroupolis-sunset.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Texniths
+heritage: 4.7
+vibrancy: 4.0
+nature: 4.8
+off_the_beaten_track: 3.3
 ---
 
 Alexandroupolis sits in the far northeast of [Greece](/europe/greece), close to Turkey and the Evros Delta. It is a port city first, not a polished resort, but that is part of its appeal: ferries to Samothrace, a long waterfront, Balkan borderland energy, and one of the country's most recognisable lighthouses.

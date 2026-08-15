@@ -10,6 +10,10 @@ title: Rockville
 type: location
 snippet: Maryland county-seat city north of Washington, D.C., with a revived historic
   town centre.
+heritage: 4.4
+vibrancy: 4.6
+nature: 4.6
+off_the_beaten_track: 1.4
 ---
 
 Rockville is the county seat of Montgomery County, Maryland, just north of Washington, D.C. It is primarily a suburban city, but the historic town centre has some character — the area around the courthouse and along East Montgomery Avenue has been revitalised with restaurants and shops centred on [Rockville Town Square](/northamerica/unitedstates/maryland/montgomerycounty/rockville/rockville_town_square).

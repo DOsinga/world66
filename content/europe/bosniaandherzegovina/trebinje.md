@@ -14,6 +14,10 @@ snippet: Southern Bosnian city near Dubrovnik, set along the Trebišnjica River 
   low hills.
 title: Trebinje
 type: location
+heritage: 6.4
+vibrancy: 4.5
+nature: 4.6
+off_the_beaten_track: 2.8
 ---
 
 Trebinje is the southernmost city in Bosnia and Herzegovina, sitting in a fertile valley surrounded by low hills just 20 kilometres from [Dubrovnik](/europe/croatia/dubrovnik). It is a small, handsome place — about 36,000 people — with a relaxed Mediterranean feel that sets it apart from the rest of the country.

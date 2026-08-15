@@ -15,6 +15,10 @@ image: bawean.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gili_Noko,_Bawean_Islands.jpg
 image_license: Public domain
 image_attribution: Regency Government of Gresik
+heritage: 2.0
+vibrancy: 1.1
+nature: 7.4
+off_the_beaten_track: 4.5
 ---
 
 Bawean is a small island in the Java Sea, about 150 km north of [Surabaya](/asia/indonesia/java/surabaya). It is still more local than polished: ferries set the pace, motorbikes are the usual way around, and most of the island is a knot of green volcanic hills rising above fishing villages and narrow beaches.

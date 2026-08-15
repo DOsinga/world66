@@ -13,6 +13,10 @@ snippet: Mediterranean resort town east of Antalya, set around a rocky promontor
   crowned by a Seljuk fortress.
 title: Alanya
 type: location
+heritage: 4.9
+vibrancy: 6.2
+nature: 6.9
+off_the_beaten_track: 2.1
 ---
 
 Alanya is one of Turkey's most popular Mediterranean resort towns, perched on a dramatic rocky promontory about 150 km east of [Antalya](/asia/turkey/antalya). Where many Turkish coastal resorts are interchangeable strips of concrete, Alanya has something most of them lack: a genuine old town crowned by a massive Seljuk fortress, with history going back to the Romans and beyond.

@@ -13,6 +13,10 @@ image: wigan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Wig_Election_Results.png
 image_license: CC BY-SA 4.0
 image_attribution: Cal3000000
+heritage: 3.7
+vibrancy: 3.1
+nature: 3.1
+off_the_beaten_track: 1.3
 ---
 
 Wigan is a town in Greater Manchester that most people know from George Orwell's 1937 book "The Road to Wigan Pier," a searing account of working-class life in industrial England. The pier itself, such as it was, was a coal-loading jetty on the Leeds and Liverpool Canal, not the seaside boardwalk the name implies. The area around it has been redeveloped into the [Wigan Pier Quarter](/europe/unitedkingdom/england/north_west/wigan/wigan_pier), a pleasant waterside heritage precinct built around Trencherfield Mill and its extraordinary original steam engine.

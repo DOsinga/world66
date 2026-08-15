@@ -17,6 +17,10 @@ image: hachinohe.jpg
 image_source: https://commons.wikimedia.org/wiki/File:TanesashiBeachFromAshigezakiObservatory.JPG
 image_license: CC BY 3.0
 image_attribution: Ippukucho
+heritage: 3.8
+vibrancy: 5.4
+nature: 5.9
+off_the_beaten_track: 2.9
 ---
 
 Hachinohe is a working port on Aomori's Pacific side, far enough from the usual Tohoku route to feel like its own world. It is known for seafood, morning markets, summer festivals, and a coast where grassy headlands and fishing villages lead into Sanriku Fukko National Park.

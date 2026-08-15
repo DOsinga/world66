@@ -5,11 +5,16 @@ loc_type: city
 latitude: 38.7018
 longitude: -7.4037
 score: 5.9
-snippet: Quiet Alentejo frontier town with marble country, border castles, and whitewashed villages.
+snippet: Quiet Alentejo frontier town with marble country, border castles, and whitewashed
+  villages.
 sources:
-  - https://en.wikivoyage.org/wiki/Alandroal
-  - https://en.wikipedia.org/wiki/Alandroal
+- https://en.wikivoyage.org/wiki/Alandroal
+- https://en.wikipedia.org/wiki/Alandroal
 wikidata: Q826307
+heritage: 4.5
+vibrancy: 3.5
+nature: 5.2
+off_the_beaten_track: 3.9
 ---
 
 Alandroal is a small Alentejo town east of Évora, close to the Spanish border and the Guadiana. It is not polished, and that is part of the appeal: the streets are whitewashed and slow, the castle sits right in the town, and the surrounding countryside is a dry pattern of olive groves, cork oaks, marble quarries, and reservoir water.

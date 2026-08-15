@@ -3,12 +3,17 @@ latitude: 39.9086
 longitude: 41.2769
 loc_type: city
 score: 7.5
-snippet: High eastern Anatolian city of Seljuk monuments, cold winters, cağ kebab, and Palandöken skiing.
+snippet: High eastern Anatolian city of Seljuk monuments, cold winters, cağ kebab,
+  and Palandöken skiing.
 sources:
-  - https://en.wikivoyage.org/wiki/Erzurum
-  - https://en.wikipedia.org/wiki/Erzurum
+- https://en.wikivoyage.org/wiki/Erzurum
+- https://en.wikipedia.org/wiki/Erzurum
 title: Erzurum
 type: location
+heritage: 3.9
+vibrancy: 5.6
+nature: 6.5
+off_the_beaten_track: 4.9
 ---
 
 Erzurum is one of eastern Anatolia's great highland cities. It sits at about 1,900 metres, cold in winter and crisp even in summer evenings, with mountains close enough to shape the skyline. For travellers crossing eastern Turkey, it is more than a transport stop: the centre has a tight cluster of Seljuk and Ottoman monuments, and Palandöken rises just south of town.

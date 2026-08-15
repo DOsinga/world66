@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Luberon
 title: Luberon
 type: location
+heritage: 5.8
+vibrancy: 4.1
+nature: 7.0
+off_the_beaten_track: 2.9
 ---
 
 The Luberon is a long ridge of limestone hills running roughly east–west across the Vaucluse department of Provence, and the regional natural park that surrounds it. Peter Mayle put it on the English-speaking world's radar in the early 1990s, and the hills have never quite lost the gentle celebrity that came with that. The villages here — perched, ochre-coloured, smelling of lavender and rosemary — are exactly as beautiful as the books describe. They are also, in high summer, extremely busy.

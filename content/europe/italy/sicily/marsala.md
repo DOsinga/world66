@@ -13,6 +13,10 @@ title: Marsala
 snippet: Western Sicilian port city known for fortified Marsala wine and Garibaldi's
   1860 landing.
 type: location
+heritage: 6.3
+vibrancy: 4.8
+nature: 6.7
+off_the_beaten_track: 3.7
 ---
 
 Marsala is the second city of the Province of [Trapani](/europe/italy/sicily/trapani), on the western tip of [Sicily](/europe/italy/sicily). It is best known for its famous fortified wine, which was "discovered" in 1773 by the English trader John Woodhouse, who realised that adding spirits to the local wine preserved it perfectly for the long sea voyage to England.

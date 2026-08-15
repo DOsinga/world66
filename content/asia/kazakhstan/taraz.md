@@ -17,6 +17,10 @@ image: taraz.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aisha-bibi_%26_Babazhi-khatun_mausoleums.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Дмитрий Кошелев
+heritage: 3.6
+vibrancy: 3.0
+nature: 3.3
+off_the_beaten_track: 5.0
 ---
 
 Taraz is one of Kazakhstan's oldest cities, sitting on the Talas River near the Kyrgyz border. It is not polished in the way Almaty is, but it has something rarer: a real Silk Road past still visible in brick, tile, shrine courtyards, and the exposed foundations of the old city.

@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Mytilene
 title: Mytilini
 type: location
+heritage: 6.8
+vibrancy: 5.0
+nature: 6.2
+off_the_beaten_track: 3.0
 ---
 
 Mytilini (also spelled Mytilene) is the capital and main port of Lesbos, the third-largest Greek island, sitting close enough to the Turkish coast that on a clear day you can see the hills of Anatolia from the waterfront. The city wraps around two ancient harbours divided by a rocky headland topped by a Byzantine-Genoese castle, and the view arriving by ferry — castle above, neoclassical facades along the promenade, a dome and bell tower catching the light — is one of the better arrivals in the Aegean.

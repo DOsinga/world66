@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Abbey_of_San_Martino_delle_Scale
 title: Monreale
 type: location
+heritage: 8.2
+vibrancy: 5.9
+nature: 6.8
+off_the_beaten_track: 1.3
 ---
 
 The [cathedral of Monreale](/europe/italy/sicily/monreale/cathedral) is one of the great attractions of Sicily and one of the finest examples of Norman-Arab-Byzantine architecture anywhere in the world. The 12th-century mosaics covering almost every surface of the interior are breathtaking: more than 6,000 square metres of shimmering gold depicting scenes from the Old and New Testaments, created by Byzantine craftsmen under Norman patronage. The [cloisters](/europe/italy/sicily/monreale/cloisters), with their 228 paired columns — each pair different, carved with extraordinary detail — are equally beautiful.

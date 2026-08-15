@@ -10,6 +10,10 @@ snippet: Southern Oregon arts city near California, anchored by the long-running
   Shakespeare Festival.
 title: Ashland
 type: location
+heritage: 3.7
+vibrancy: 5.0
+nature: 7.2
+off_the_beaten_track: 3.9
 ---
 
 Ashland is a small, culturally ambitious city in southern Oregon, about 25km north of the California border on Interstate 5. Its reputation rests on the [Oregon Shakespeare Festival](/northamerica/unitedstates/oregon/ashland/oregon_shakespeare_festival) — one of the largest and oldest theatre festivals in the United States — which runs from late February to October and presents Shakespeare alongside contemporary plays in three venues: the outdoor Elizabethan Theatre, the Angus Bowmer Theatre, and the intimate New Theatre. Nine other theatre groups add to the cultural density. Opera, bluegrass, folk, and chamber music fill the calendar.

@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Shaoxing
 title: Shaoxing
 type: location
+heritage: 5.2
+vibrancy: 4.8
+nature: 4.1
+off_the_beaten_track: 2.2
 ---
 
 Shaoxing is the most literary city in Zhejiang, a place that has produced writers, reformers, and philosophers for two millennia and wears its cultural heritage with quiet confidence. The city sits on a web of canals southeast of Hangzhou, and its traditional black-awning wooden boats — [punted rather than rowed](/asia/china/zhejiang/shaoxing/wupeng_boats) — are a sight still worth seeking out in the older quarters. The streets of the preserved historic district are lined with whitewashed walls and dark roof tiles in the Jiangnan style that inspired every generic "water town" in the province, and its [ancient canal bridges](/asia/china/zhejiang/shaoxing/ancient_canal_bridges) — over a thousand of them — give the city more stone arches than Venice.

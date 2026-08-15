@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Nimba_County
 title: Sanniquellie
 type: location
+heritage: 4.9
+vibrancy: 2.2
+nature: 6.3
+off_the_beaten_track: 8.8
 ---
 
 *Africa > [Liberia](/africa/liberia) > Sanniquellie*

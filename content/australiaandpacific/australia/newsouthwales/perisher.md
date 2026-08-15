@@ -16,6 +16,10 @@ image: perisher.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Australia_perisher_pleasant_valley.jpg
 image_license: Public domain
 image_attribution: 'User: (WT-shared) Inas at  wts wikivoyage'
+heritage: 1.4
+vibrancy: 2.9
+nature: 7.1
+off_the_beaten_track: 5.0
 ---
 
 Perisher is the big snow address in New South Wales: a spread of alpine villages, lifts, and ski fields inside [Kosciuszko National Park](/australiaandpacific/australia/newsouthwales/nationalparks). In winter it is the largest ski resort in the Southern Hemisphere, joining Perisher Valley, Smiggin Holes, Guthega, and Blue Cow into one broad resort area.

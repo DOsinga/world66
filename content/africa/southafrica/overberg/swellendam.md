@@ -3,15 +3,20 @@ latitude: -34.0167
 loc_type: city
 longitude: 20.4333
 score: 7.2
-snippet: Historic Overberg town below the Langeberg, with Cape Dutch buildings and mountain reserves.
+snippet: Historic Overberg town below the Langeberg, with Cape Dutch buildings and
+  mountain reserves.
 sources:
-  - https://en.wikivoyage.org/wiki/Swellendam
-  - https://www.drostdymuseum.com/
-  - https://www.sanparks.org/parks/bontebok
-  - https://www.capenature.co.za/reserves/marloth-nature-reserve
+- https://en.wikivoyage.org/wiki/Swellendam
+- https://www.drostdymuseum.com/
+- https://www.sanparks.org/parks/bontebok
+- https://www.capenature.co.za/reserves/marloth-nature-reserve
 title: Swellendam
 type: location
 wikidata_id: Q1023257
+heritage: 4.8
+vibrancy: 2.2
+nature: 6.3
+off_the_beaten_track: 3.4
 ---
 
 Swellendam is one of South Africa's old inland towns, sitting below the Langeberg mountains on the N2 between Cape Town and the Garden Route. It has enough Cape Dutch architecture, mountain air, and nearby protected land to be more than a fuel stop.

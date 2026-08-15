@@ -16,6 +16,10 @@ image: orizaba.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Orizaba,_Veracruz_03.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Isaacvp
+heritage: 3.6
+vibrancy: 3.9
+nature: 7.5
+off_the_beaten_track: 4.4
 ---
 
 Orizaba sits in the cool highlands of Veracruz, halfway in mood between colonial mountain city and busy regional centre. Rivers cut through town, churches and Porfirian buildings fill the centre, and the volcano that shares its name rises beyond the valley. It is one of those Mexican cities that rewards a full day on foot.

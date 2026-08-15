@@ -25,6 +25,10 @@ tip: Tunis pairs a labyrinthine medieval medina with a French-built 'Ville Nouve
   the world's finest Roman mosaics. The medina is a UNESCO site; haggle politely.
 title: Tunis
 type: location
+heritage: 3.6
+vibrancy: 4.7
+nature: 1.5
+off_the_beaten_track: 4.3
 ---
 
 Tunis is a city of layers. The medina, a UNESCO World Heritage Site, climbs a low hill in a tangle of alleys, covered souks, and centuries-old mosques. At its feet, the French-built Ville Nouvelle stretches along broad, tree-lined avenues with sidewalk cafes and art-deco facades. The contrast between the two is the city's defining quality -- you can step from a 13th-century madrasa into a Parisian-style boulevard in under a minute.

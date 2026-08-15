@@ -5,15 +5,20 @@ loc_type: city
 latitude: 38.0025
 longitude: 140.6197
 score: 7.0
-snippet: Miyagi castle town with samurai traces, kokeshi craft, foxes, and quick shinkansen access.
+snippet: Miyagi castle town with samurai traces, kokeshi craft, foxes, and quick shinkansen
+  access.
 image: shiroishi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Shiroishi_Castle_with_Cherry_blossom.jpg
 image_license: CC0 1.0
 image_attribution: Kirin7739
 sources:
-  - https://en.wikivoyage.org/wiki/Shiroishi
-  - https://en.wikivoyage.org/wiki/Miyagi
-  - https://en.wikipedia.org/wiki/Shiroishi,_Miyagi
+- https://en.wikivoyage.org/wiki/Shiroishi
+- https://en.wikivoyage.org/wiki/Miyagi
+- https://en.wikipedia.org/wiki/Shiroishi,_Miyagi
+heritage: 3.2
+vibrancy: 3.1
+nature: 6.2
+off_the_beaten_track: 3.0
 ---
 
 *Asia > Japan > Honshu > Shiroishi*

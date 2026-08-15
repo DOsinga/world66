@@ -16,6 +16,10 @@ tags:
 - dordogne
 title: Périgueux
 type: location
+heritage: 5.8
+vibrancy: 4.8
+nature: 5.6
+off_the_beaten_track: 2.2
 ---
 
 Périgueux is the administrative capital of the Dordogne, set on the banks of the river Isle. It is a town of two distinct histories: a Roman city whose ruins still punctuate the modern streets, and a medieval centre that grew up around one of the most distinctive cathedrals in France.

@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Longmen_Grottoes
 title: Longmen Grottoes
 type: location
+heritage: 7.4
+vibrancy: 2.1
+nature: 3.0
+off_the_beaten_track: 2.9
 ---
 
 The Longmen Grottoes rank among the supreme achievements of Chinese Buddhist sculpture. Cut into the limestone cliffs on either side of the Yi River 13 kilometres south of Luoyang, the site contains over 2,100 cave-temples and more than 100,000 individual statues, ranging from figures a few centimetres tall to a seated Vairocana Buddha 17 metres high. Work began in 494 CE when the Northern Wei emperor moved his capital to Luoyang, and continued intermittently for the next four centuries, with the Tang dynasty producing the most ambitious and artistically accomplished pieces. UNESCO inscribed the site in 2000 as one of the outstanding examples of Chinese stone carving.

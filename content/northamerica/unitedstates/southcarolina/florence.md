@@ -10,6 +10,10 @@ snippet: Pee Dee crossroads city with railroad history, a revived downtown, and 
   War memory sites
 title: Florence
 type: location
+heritage: 2.9
+vibrancy: 2.6
+nature: 1.7
+off_the_beaten_track: 1.2
 ---
 
 Florence sits at the intersection of I-95 and I-20 in the Pee Dee region of South Carolina, roughly halfway between New York and Miami. Most visitors encounter it as a stop on the interstate, but there is enough here to make it more than a fuel break.

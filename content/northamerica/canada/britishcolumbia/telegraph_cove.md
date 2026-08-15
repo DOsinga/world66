@@ -20,6 +20,10 @@ image: telegraph_cove.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Telegraph_Cove.jpg
 image_license: CC BY 2.0
 image_attribution: David Stanley
+heritage: 4.0
+vibrancy: 1.0
+nature: 8.0
+off_the_beaten_track: 6.3
 ---
 
 Telegraph Cove is a tiny boardwalk village on the east coast of northern [Vancouver Island](/northamerica/canada/britishcolumbia/vancouverisland), tucked around a sheltered harbour facing Johnstone Strait. It is small enough to walk end to end in minutes, but in summer it becomes one of British Columbia's best launch points for whales, kayaking, fishing, and the Broughton Archipelago.

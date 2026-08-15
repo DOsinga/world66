@@ -13,6 +13,10 @@ image: yonezawa.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Uesugi_Shrine,_Yonezawa_castle.jpg
 image_license: CC0
 image_attribution: Syced
+heritage: 3.6
+vibrancy: 2.5
+nature: 3.7
+off_the_beaten_track: 2.9
 ---
 
 Yonezawa is a small castle town in southern Yamagata Prefecture, tucked into the mountains of Tohoku. It is best known for the Uesugi clan, whose shrines, graves, and museum give the town more historical weight than its quiet streets first suggest.

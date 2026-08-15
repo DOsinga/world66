@@ -14,6 +14,10 @@ snippet: Turquoise Coast harbour town below Lycian rock tombs, with gulets, mark
   and islands offshore
 title: Fethiye
 type: location
+heritage: 4.7
+vibrancy: 7.0
+nature: 7.0
+off_the_beaten_track: 4.0
 ---
 
 Fethiye is one of the most appealing towns on Turkey's Turquoise Coast, set at the foot of pine-covered mountains around a wide, island-studded bay. The ancient Lycians called it Telmessos, and their rock-cut tombs still stare down from the cliffs above the harbour. Below them, the modern town is a busy, likeable place — a working harbour full of gulets, a good fish market, and a maze of old-town streets lined with carpet shops and tea gardens.

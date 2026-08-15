@@ -15,6 +15,10 @@ image: furano.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Countryside_around_Furano_-_Hokkaido_-_Japan_-_01_(48012303582).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Adam Jones from Kelowna, BC, Canada
+heritage: 2.3
+vibrancy: 1.8
+nature: 8.0
+off_the_beaten_track: 4.6
 ---
 
 Furano is one of central [Hokkaido](/asia/japan/hokkaido)'s easiest places to like. In summer the surrounding fields are striped with lavender and other flowers, while in winter the same mountain basin becomes a serious ski destination with dry powder and long groomed runs.

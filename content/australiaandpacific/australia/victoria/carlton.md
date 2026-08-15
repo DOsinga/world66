@@ -14,6 +14,10 @@ snippet: Melbourne neighbourhood shaped by Italian migration, with Lygon Street 
   its dining spine.
 title: Carlton
 type: location
+heritage: 3.9
+vibrancy: 4.3
+nature: 3.4
+off_the_beaten_track: 1.4
 ---
 
 Carlton is [Melbourne](/australiaandpacific/australia/victoria/melbourne)'s Italian quarter, a neighbourhood shaped by the wave of post-war migration that turned [Lygon Street](/australiaandpacific/australia/victoria/carlton/lygon_street) into one of Australia's most famous eating strips. The restaurants and gelato shops are still there — some of them tourist traps, others genuinely good — and on a warm evening the pavement tables fill up from Grattan Street all the way to Elgin Street. The named intersection of Lygon and Grattan, [Borsari's Corner](/australiaandpacific/australia/victoria/carlton/borsaris_corner), marks the symbolic heart of the strip.

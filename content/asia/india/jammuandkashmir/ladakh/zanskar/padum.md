@@ -8,6 +8,10 @@ snippet: Remote Zanskar valley town and trekking base, set where the Stod and Lu
   rivers meet
 title: Padum
 type: location
+heritage: 7.2
+vibrancy: 0.5
+nature: 8.0
+off_the_beaten_track: 6.6
 ---
 
 Padum is the administrative headquarters of the Zanskar district — a small, unprepossessing town of whitewashed buildings and rough lanes that serves primarily as a base for trekkers and a supply point for the surrounding villages. It sits at the junction of the Stod and Lungnak rivers in the heart of the Zanskar valley, at around 3,640 metres, with the Karsha Monastery visible on the cliffs to the northwest across the river.

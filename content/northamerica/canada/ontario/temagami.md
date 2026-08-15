@@ -2,15 +2,20 @@
 title: Temagami
 type: location
 loc_type: city
-latitude: 47.0620
+latitude: 47.062
 longitude: -79.7897
 wikidata: Q368855
 score: 7.2
-snippet: Northern Ontario lake town known for old-growth pine, canoe routes, and a fire-tower view.
+snippet: Northern Ontario lake town known for old-growth pine, canoe routes, and a
+  fire-tower view.
 sources:
 - https://en.wikivoyage.org/wiki/Temagami
 - https://en.wikipedia.org/wiki/Temagami
 - https://www.ontarioparks.ca/park/finlaysonpoint
+heritage: 3.8
+vibrancy: 1.4
+nature: 8.0
+off_the_beaten_track: 5.3
 ---
 
 Temagami is a small Highway 11 town with a much larger wilderness behind it. The settlement itself is modest, but it sits beside Lake Temagami, old canoe country, and some of Ontario's last stands of old red and white pine.

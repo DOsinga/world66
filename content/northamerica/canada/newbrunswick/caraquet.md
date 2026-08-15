@@ -18,6 +18,10 @@ sources:
 title: Caraquet
 type: location
 wikidata: Q1035422
+heritage: 4.6
+vibrancy: 3.9
+nature: 6.0
+off_the_beaten_track: 2.8
 ---
 
 Caraquet calls itself the capital of Acadia, and for once the slogan has some bite. This is not a large town, but it sits on a long, open sweep of Chaleur Bay where fishing boats, Acadian flags, seafood restaurants, and French-speaking Maritime life all meet in one place.

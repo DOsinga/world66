@@ -21,6 +21,10 @@ tags:
 - sight
 title: Auschwitz-Birkenau Memorial and Museum
 type: location
+heritage: 7.7
+vibrancy: 2.9
+nature: 3.4
+off_the_beaten_track: 2.5
 ---
 
 Auschwitz-Birkenau, 70 kilometres west of Krakow, is the preserved site of the largest Nazi concentration and extermination camp. It is not a museum in any ordinary sense — it is a memorial to more than a million people murdered here, and a direct encounter with the physical reality of industrial genocide. The visit is demanding, sobering, and essential.

@@ -10,6 +10,10 @@ snippet: Central Alberta resort town on Sylvan Lake, known for its broad beach a
   waterfront strip.
 title: Sylvan Lake
 type: location
+heritage: 1.2
+vibrancy: 1.4
+nature: 6.5
+off_the_beaten_track: 3.0
 ---
 
 Sylvan Lake is a resort town on the shores of Sylvan Lake, about 25 kilometres west of Red Deer in central Alberta. In summer it is one of the most popular beach destinations in the province — the lake is warm enough for swimming, [the sandy beach](/northamerica/canada/alberta/sylvan_lake/sylvan_lake_park) is broad, and the [main strip of waterfront restaurants and amusements](/northamerica/canada/alberta/sylvan_lake/waterfront_strip) has a lively, unpretentious holiday feel.

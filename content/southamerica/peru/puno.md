@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Puno
 title: Puno
 type: location
+heritage: 5.3
+vibrancy: 5.1
+nature: 6.2
+off_the_beaten_track: 3.5
 ---
 
 Puno is Peru's gateway to [Lake Titicaca](/southamerica/peru/laketiticacaarea) and the country's most prominent altiplano city, spread across the steep slopes that rise from the western shore of the lake at 3,830 metres above sea level. It is not a beautiful city — the streets are dusty, the buildings utilitarian, the climate raw — but it is the practical base for almost every trip onto the Peruvian side of the lake, and it carries a strong cultural identity as the heart of southern Peru's Aymara world.

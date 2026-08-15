@@ -17,6 +17,10 @@ tip: Naypyidaw is a curiosity more than a destination — come to see the surrea
   carefully before any visit.
 title: Naypyidaw
 type: location
+heritage: 1.7
+vibrancy: 2.0
+nature: 2.7
+off_the_beaten_track: 3.4
 ---
 
 Naypyidaw — also spelt Nay Pyi Taw, 'abode of kings' — is Myanmar's purpose-built capital, conjured out of scrubland in the centre of the country. In November 2005 the military government abruptly announced it was moving the seat of power here from Yangon, and convoys of civil servants were ordered to relocate within days to a city that barely existed. The result is one of the strangest capitals on earth.

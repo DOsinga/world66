@@ -14,6 +14,10 @@ snippet: Ruhr city synonymous with Borussia Dortmund football, beer halls, and p
   German grit.
 title: Dortmund
 type: location
+heritage: 5.5
+vibrancy: 5.7
+nature: 4.1
+off_the_beaten_track: 1.7
 ---
 
 Dortmund is the largest city in the Ruhr and synonymous with two things: football and beer. Borussia Dortmund's [Signal Iduna Park](/europe/germany/northrhinewestphalia/dortmund/signal_iduna_park) (the Westfalenstadion) holds over 80,000 fans and the "Yellow Wall" south stand is the largest standing terrace in European football. Even if you are not a football fan, the atmosphere on a match day is something.

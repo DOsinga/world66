@@ -17,6 +17,10 @@ sources:
 title: Berhampore
 type: location
 wikidata: Q633530
+heritage: 5.0
+vibrancy: 2.9
+nature: 3.8
+off_the_beaten_track: 2.9
 ---
 
 Berhampore, also written Baharampur, is the working city beside the old Nawabi landscape of Murshidabad. It is not as atmospheric as the palace quarter upriver, but it is the practical base for exploring the Bhagirathi's mix of Indo-Islamic monuments, Armenian and Dutch traces, and faded river-port wealth.

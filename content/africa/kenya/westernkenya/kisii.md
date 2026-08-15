@@ -14,6 +14,10 @@ snippet: Gusii Highlands market town in cool tea-and-coffee country, known for n
   Tabaka soapstone carving.
 title: Kisii
 type: location
+heritage: 7.4
+vibrancy: 2.6
+nature: 7.3
+off_the_beaten_track: 5.5
 ---
 
 Kisii is the main town of the Gusii Highlands in southwestern [Kenya](/africa/kenya), a busy commercial centre serving the surrounding tea and coffee country. It sits at around 1,700 metres, which gives it a cooler, greener climate than much of Kenya — the hills around town are intensely cultivated, with terraced fields climbing the slopes in every direction.

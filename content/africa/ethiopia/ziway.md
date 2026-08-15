@@ -17,6 +17,10 @@ image: ziway.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lake_Ziway_Wharf_(11398504093).jpg
 image_license: CC BY 2.0
 image_attribution: David Stanley from Nanaimo, Canada
+heritage: 3.6
+vibrancy: 3.0
+nature: 5.4
+off_the_beaten_track: 4.9
 ---
 
 Ziway, also called Batu, sits on the western shore of Lake Ziway, one of Ethiopia's freshwater Rift Valley lakes. The town is a working roadside stop on the Addis Ababa-Hawassa road, but the lake gives it a reason to pause: papyrus boats, fishing skiffs, waterbirds around the jetty, and occasional hippos further out on the water.

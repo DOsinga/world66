@@ -13,6 +13,10 @@ snippet: Perth’s port city, where Victorian streets, weekend markets, and a wo
   fishing harbour meet
 title: Fremantle
 type: location
+heritage: 5.6
+vibrancy: 5.5
+nature: 5.3
+off_the_beaten_track: 2.3
 ---
 
 Fremantle — "Freo" to locals — is Perth's port city, sitting at the mouth of the Swan River where it meets the Indian Ocean. The city was transformed for the 1987 America's Cup defence, and the restored Victorian and Edwardian streetscapes, the [Cappuccino Strip along South Terrace](/australiaandpacific/australia/westernaustralia/fremantle/south_terrace), and the working [fishing harbour](/australiaandpacific/australia/westernaustralia/fremantle/fishing_boat_harbour) give it a character quite distinct from Perth itself.

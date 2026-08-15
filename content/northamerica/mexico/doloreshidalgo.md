@@ -14,6 +14,10 @@ title: Dolores Hidalgo
 snippet: Mexican independence town where Miguel Hidalgo's 1810 Grito began the revolt
   against Spanish rule
 type: location
+heritage: 6.9
+vibrancy: 4.2
+nature: 3.3
+off_the_beaten_track: 3.0
 ---
 
 Dolores Hidalgo is where Mexican independence began. On the morning of 16 September 1810, the parish priest Miguel Hidalgo rang the bell of the [Parroquia](/northamerica/mexico/doloreshidalgo/parroquia) and delivered his Grito — the cry for freedom from Spanish rule — to a crowd of largely indigenous villagers. The ragged army that formed that day marched to San Miguel, then Celaya, Salamanca and finally [Guanajuato](/northamerica/mexico/guanajuato), growing to 20,000 men along the way. Hidalgo was eventually captured, executed and beheaded; his head hung for years from a corner of the Alhóndiga de Granaditas in Guanajuato. A colossal statue at the outskirts of town now greets visitors in his honour.

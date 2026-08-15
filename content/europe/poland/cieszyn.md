@@ -17,6 +17,10 @@ image: cieszyn.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Poland_2025_152A_Cieszyn_View_-_Mickiewicz_Theatre.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Scotch Mist
+heritage: 5.4
+vibrancy: 2.4
+nature: 2.6
+off_the_beaten_track: 2.3
 ---
 
 Cieszyn sits on the Olza River in southern [Poland](/europe/poland), pressed directly against the Czech border. For centuries it was one town; since the 20th century it has been split, with Polish Cieszyn on one bank and Czech Český Těšín on the other. That border story gives the place more texture than its small size suggests.

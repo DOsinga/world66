@@ -10,6 +10,10 @@ snippet: Andhra Pradesh town centred on the Sri Lakshmi Narasimha Swamy Temple a
   Vijayanagara-era traditions.
 title: Kadiri
 type: location
+heritage: 2.3
+vibrancy: 1.7
+nature: 1.6
+off_the_beaten_track: 3.7
 ---
 
 Kadiri is a small town in the Anantapur district of Andhra Pradesh, about 100 kilometres from the district headquarters. Its name comes from the Sanskrit word *khadri*, meaning a tree. Most travellers come here for one reason: the ancient [Sri Lakshmi Narasimha Swamy Temple](/asia/india/andhrapradesh/kadiri/sri_lakshmi_narasimha_swamy_temple), one of the most venerated Vaishnava shrines in the region.

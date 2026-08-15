@@ -10,6 +10,10 @@ snippet: Small Haitian fishing village where southern coast life turns around th
   sea and morning market
 title: Petite Rivière de Nippes
 type: location
+heritage: 1.9
+vibrancy: 1.7
+nature: 4.7
+off_the_beaten_track: 5.6
 ---
 
 Petite Rivière de Nippes is a small fishing village on Haiti's southern coast, in the Nippes department. Far from the capital's noise and from the main tourist circuit, life here moves at the pace of the sea and the market day.

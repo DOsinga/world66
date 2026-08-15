@@ -10,6 +10,10 @@ title: Biloxi
 type: location
 snippet: Mississippi Gulf Coast city on a narrow peninsula, known for casinos, seafood,
   and the Biloxi Lighthouse.
+heritage: 2.4
+vibrancy: 4.7
+nature: 4.0
+off_the_beaten_track: 1.3
 ---
 
 Biloxi sits on a narrow peninsula between the Mississippi Sound and Back Bay, a Gulf Coast city that has reinvented itself several times over. It started as a French colonial capital, became a playground for New Orleans weekenders, was nearly wiped off the map by Hurricane Katrina in 2005, and rebuilt around its casino industry.

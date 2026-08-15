@@ -14,6 +14,10 @@ tags:
 - rivieradellepalme
 title: Giusvalla
 type: location
+heritage: 3.9
+vibrancy: 2.6
+nature: 5.3
+off_the_beaten_track: 4.1
 ---
 
 Giusvalla is a small village on the northern slopes of the Ligurian Apennines, perched above the right bank of the Giusvalletta, a tributary of the Valla. At around 500 metres above sea level, it sits in a quiet fold of the hills where farmland gives way to chestnut and oak forest — the kind of inland Ligurian landscape that most visitors to the coast never reach. The village is compact and unhurried, with the feel of a place that has changed slowly over many centuries.

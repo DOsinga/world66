@@ -16,6 +16,10 @@ sources:
 - https://www.atitlanreserva.com/en
 title: Panajachel
 type: location
+heritage: 4.2
+vibrancy: 5.6
+nature: 7.3
+off_the_beaten_track: 3.9
 ---
 
 Panajachel, usually shortened to Pana, is the front door to [Lake Atitlán](/northamerica/guatemala/lakeatitlan). It sits on the north shore where the road from Guatemala City and Antigua drops to the water, so almost everyone passes through at least once. The town is busy, convenient, commercial, and better than its transit-hub reputation suggests.

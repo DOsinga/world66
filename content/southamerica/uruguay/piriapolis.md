@@ -5,11 +5,16 @@ loc_type: city
 latitude: -34.8629
 longitude: -55.2747
 score: 7.4
-snippet: Old Uruguayan resort town where a planned Belle Epoque seaside dream meets low hills and beaches.
+snippet: Old Uruguayan resort town where a planned Belle Epoque seaside dream meets
+  low hills and beaches.
 wikidata: Q1006155
 sources:
-  - https://en.wikivoyage.org/wiki/Piriapolis
-  - https://en.wikipedia.org/wiki/Piri%C3%A1polis
+- https://en.wikivoyage.org/wiki/Piriapolis
+- https://en.wikipedia.org/wiki/Piri%C3%A1polis
+heritage: 3.1
+vibrancy: 4.1
+nature: 5.5
+off_the_beaten_track: 1.7
 ---
 
 Piriapolis is Uruguay's older, quieter answer to [Punta del Este](/southamerica/uruguay/puntadeleste). It was laid out by the entrepreneur Francisco Piria as a seaside resort of the future, with a grand hotel, a rambla, a castle, and hills used like stage scenery behind the beach.

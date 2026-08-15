@@ -15,6 +15,10 @@ sources:
 - https://www.openstreetmap.org/relation/18526680
 title: Arrowtown
 type: location
+heritage: 4.8
+vibrancy: 4.0
+nature: 8.2
+off_the_beaten_track: 2.7
 ---
 
 Arrowtown is the prettiest of the old Central Otago gold towns, tucked beside the Arrow River twenty minutes from [Queenstown](/australiaandpacific/newzealand/south_island/otago/queenstown). It began as a rough mining camp after gold was found here in 1862, then settled into a small stone-and-timber town that somehow escaped the worst of modern resort sprawl.

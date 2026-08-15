@@ -10,6 +10,10 @@ snippet: Historic Massachusetts town where Revolutionary battlefields sit beside
   homes of Emerson, Thoreau, Hawthorne, and Alcott.
 title: Concord
 type: location
+heritage: 6.5
+vibrancy: 3.6
+nature: 3.8
+off_the_beaten_track: 1.3
 ---
 
 Scene of the first battle of the American Revolution and home to four of the greatest writers in American literature, Concord carries more history per square mile than almost anywhere in the United States. The town is a wonderful day trip from [Boston](/northamerica/unitedstates/massachusetts/boston) — roughly 45 minutes by commuter rail or car — and a full day can be spent here without running short of things to do.

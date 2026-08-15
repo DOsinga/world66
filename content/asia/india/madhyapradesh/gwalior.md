@@ -17,6 +17,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Gwalior
 title: Gwalior
 type: location
+heritage: 5.9
+vibrancy: 4.4
+nature: 3.1
+off_the_beaten_track: 2.8
 ---
 
 Gwalior is one of central India's great fortress cities, dominated by a long sandstone ridge that rises abruptly above the plain. The fort is visible from half the city and still feels like the place's organising fact: palaces, temples, Jain carvings and ramparts all sit on or around that dramatic slab of rock.

@@ -14,6 +14,10 @@ image: ko_muk.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2016_Prowincja_Trang,_Ko_Muk_(03).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Marcin Konsek
+heritage: 1.2
+vibrancy: 1.0
+nature: 7.0
+off_the_beaten_track: 4.2
 ---
 
 Ko Muk is the Trang island with one famous trick and a lot of quiet charm around it. The trick is [Emerald Cave](/asia/thailand/ko_muk/emerald_cave), a sea cave that opens into a hidden beach inside a collapsed limestone chamber. It is one of the best day trips in the Trang islands, but Ko Muk is better if you stay long enough to see it after the tour boats leave.

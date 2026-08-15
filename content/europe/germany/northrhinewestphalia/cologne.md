@@ -14,6 +14,10 @@ snippet: Rhine city founded as a Roman colony, dominated by its Gothic cathedral
   convivial Kölsch beer culture
 title: Cologne
 type: location
+heritage: 5.8
+vibrancy: 6.0
+nature: 3.2
+off_the_beaten_track: 1.3
 ---
 
 Cologne is one of Germany’s oldest cities, founded as a Roman colony in 50 AD, and it has been important ever since. The [Cologne Cathedral](/europe/germany/northrhinewestphalia/cologne/cologne_cathedral) dominates the skyline with its twin Gothic spires — at 157 metres it is still the tallest in the world — and the museum cluster between the Dom and the Rhine contains some of the finest collections in the country. But Cologne is not a museum city: it is a living, noisy, convivial place where the Kölsch beer flows freely and the annual Carnival turns the streets into one of the great street parties of Europe.

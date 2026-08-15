@@ -17,6 +17,10 @@ tags:
 - sight
 title: Letoon
 type: location
+heritage: 7.4
+vibrancy: 2.1
+nature: 3.8
+off_the_beaten_track: 3.3
 ---
 
 Letoon is a UNESCO World Heritage Site about 60 km south of Fethiye, near the village of Kumluova. It was the federal sanctuary of the Lycian League, a remarkably sophisticated ancient democratic federation, and the site of the cult of Leto. Three temples stand here — to Leto, to Artemis, and to Apollo — their foundations well-preserved though roofless, with mosaic floors visible in some sections.

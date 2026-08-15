@@ -16,6 +16,10 @@ snippet: Northern Portuguese fishing town and summer resort, with Bairro Sul boa
   long beaches, and a seafront casino
 title: Póvoa de Varzim
 type: location
+heritage: 4.0
+vibrancy: 4.1
+nature: 4.6
+off_the_beaten_track: 1.7
 ---
 
 Situated 30 km north of [Porto](/europe/portugal/porto), Póvoa de Varzim is both a traditional fishing town and a cosmopolitan summer resort for northern Portugal. At one end is the port and the [Bairro Sul](/europe/portugal/pvoa_de_varzim/bairro_sul) fishermen's quarter, where brightly-painted boats line the harbour. The northern end is a lively strip of beach-side cafés and the [Casino da Póvoa](/europe/portugal/pvoa_de_varzim/casino_da_povoa) on the [Passeio Alegre](/europe/portugal/pvoa_de_varzim/passeio_alegre) seafront. The town's long sandy beach is good for bathing and surfing.

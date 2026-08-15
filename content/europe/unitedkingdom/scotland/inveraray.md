@@ -5,9 +5,14 @@ loc_type: city
 latitude: 56.2308
 longitude: -5.0733
 score: 7.2
-snippet: Planned Loch Fyne town dominated by a Gothic Revival castle and old county jail.
+snippet: Planned Loch Fyne town dominated by a Gothic Revival castle and old county
+  jail.
 source: Wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Inveraray
+heritage: 4.7
+vibrancy: 2.0
+nature: 6.5
+off_the_beaten_track: 4.2
 ---
 
 Inveraray is a small town on Loch Fyne with a carefully staged look. The Duke of Argyll rebuilt it in the late 18th century, leaving a planned town of whitewashed buildings, a church on a traffic island, and a castle that still dominates the view.

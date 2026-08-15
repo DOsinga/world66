@@ -13,6 +13,10 @@ snippet: Temple town in the Cauvery Delta, centred on the large Rajagopalaswamy 
   and its Haridra Nadhi tank.
 title: Mannargudi
 type: location
+heritage: 3.8
+vibrancy: 1.8
+nature: 2.6
+off_the_beaten_track: 3.3
 ---
 
 Mannargudi is a temple town in the Cauvery Delta, 45 km from Kumbakonam, built around the **Rajagopalaswamy Temple** — a large Vishnu temple with a 60-metre gopuram and a significant tank, the Haridra Nadhi. The temple is one of the larger Vaishnavite pilgrimage centres in Tamil Nadu and is active year-round. The annual Brahmotsavam festival in the Tamil month of Panguni (March-April) draws large crowds.

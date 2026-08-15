@@ -14,6 +14,10 @@ snippet: New Ireland port town with a superb harbour and access to wreck diving 
   reef walls
 title: Kavieng
 type: location
+heritage: 3.5
+vibrancy: 1.1
+nature: 8.1
+off_the_beaten_track: 6.9
 ---
 
 Kavieng is the capital of New Ireland Province, a small port town set on a sublime [harbour](/asia/papuanewguinea/newireland/kavieng/kavieng_harbour) at the northern tip of the island. It is one of Papua New Guinea's most popular spots for [diving](/asia/papuanewguinea/newireland/kavieng/dive_sites) — the waters around Kavieng offer World War II wrecks, pristine coral walls, and big pelagic fish, with very few other divers in sight. Surfing and game fishing are also excellent.

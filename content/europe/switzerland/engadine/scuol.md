@@ -5,11 +5,16 @@ loc_type: city
 latitude: 46.7961
 longitude: 10.2994
 score: 7.34
-snippet: Lower Engadine spa town of mineral springs, Romansh houses, and mountains above the Inn.
+snippet: Lower Engadine spa town of mineral springs, Romansh houses, and mountains
+  above the Inn.
 wikidata: Q69079
 sources:
-  - https://en.wikivoyage.org/wiki/Scuol
-  - https://en.wikipedia.org/wiki/Scuol
+- https://en.wikivoyage.org/wiki/Scuol
+- https://en.wikipedia.org/wiki/Scuol
+heritage: 6.4
+vibrancy: 1.2
+nature: 7.8
+off_the_beaten_track: 5.9
 ---
 
 Scuol is the main town of the Lower Engadine, set above the Inn River in Switzerland's far eastern Graubunden. It is a spa town, a ski base, and a Romansh-speaking village all at once, with painted Engadine houses, mineral springs, and mountains close enough to make the railway terminus feel like the start of the trail.

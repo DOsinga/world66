@@ -15,6 +15,10 @@ image: bento_goncalves.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bento_Gon%C3%A7alves_-_RS,_Brazil_-_panoramio.jpg
 image_license: CC BY 3.0
 image_attribution: Gervacio Rosales
+heritage: 4.2
+vibrancy: 3.7
+nature: 5.2
+off_the_beaten_track: 2.7
 ---
 
 Bento Gonçalves, about 120 kilometres north of Porto Alegre in the Serra Gaúcha, is the capital of Brazilian wine — a declaration that would have been laughable thirty years ago and is now defensible with a straight face. The town was settled by Italian immigrants in the late 19th century, and the legacy is everywhere: in the vineyards covering the surrounding hills, in the cantinas serving pasta and cured meats, and in the local bread called pão colonial that you will find at every farm.

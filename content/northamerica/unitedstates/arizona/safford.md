@@ -17,6 +17,10 @@ image: safford.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Safford,_Arizona.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Ken Lund
+heritage: 1.7
+vibrancy: 1.4
+nature: 5.5
+off_the_beaten_track: 4.8
 ---
 
 Safford sits in Arizona's Gila Valley, below the Pinaleño Mountains and the long rise of Mount Graham. The town itself is practical and low-key, but the surrounding desert and mountains give it enough substance for a real stop between [Tucson](/northamerica/unitedstates/arizona/tucson), the White Mountains, and the New Mexico line.

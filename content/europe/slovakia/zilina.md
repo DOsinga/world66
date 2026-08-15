@@ -14,6 +14,10 @@ image: zilina.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Budat%C3%ADn_hrad_-_by_Pudelek.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Pudelek
+heritage: 5.1
+vibrancy: 3.7
+nature: 5.0
+off_the_beaten_track: 2.1
 ---
 
 Žilina is the main city of northwestern Slovakia, set in a valley where the Váh and Kysuca rivers meet, with the Beskydy mountains visible on the eastern horizon. With around 80,000 people, it's Slovakia's third-largest city — a regional industrial and university centre that sees relatively few foreign visitors.

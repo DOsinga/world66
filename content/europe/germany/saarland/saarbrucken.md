@@ -14,6 +14,10 @@ snippet: Saarland capital on the River Saar, known for French influences and Ste
   baroque architecture.
 title: Saarbrücken
 type: location
+heritage: 6.5
+vibrancy: 4.3
+nature: 2.9
+off_the_beaten_track: 2.6
 ---
 
 Saarbrücken is the capital of the **Saarland**, Germany's smallest and most French-leaning state, tucked into the country's western corner against the French border. It is a city of around 180,000 people on the River Saar, prosperous, walkable and surprisingly cosmopolitan given its size — the proximity of France means everyone here speaks at least some French, the bakeries sell as many croissants as they do Brötchen, and the food and wine are noticeably more Gallic than in the rest of Germany.

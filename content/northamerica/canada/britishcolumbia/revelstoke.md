@@ -14,6 +14,10 @@ image: revelstoke.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Revelstoke_from_Mount_Revelstoke.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Darren Kirby
+heritage: 2.6
+vibrancy: 3.1
+nature: 7.4
+off_the_beaten_track: 3.9
 ---
 
 Revelstoke is a small mountain town in British Columbia's Columbia Mountains, hemmed in between the Selkirk and Monashee ranges on the banks of the Columbia River. For over a century it was a railroad town — the Canadian Pacific Railway pushed through here in the 1880s — but today it draws visitors for skiing, hiking, and its unpretentious mountain-town atmosphere.

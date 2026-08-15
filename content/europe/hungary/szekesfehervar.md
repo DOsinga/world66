@@ -14,6 +14,10 @@ snippet: Medieval Hungarian coronation city with baroque streets wrapped around 
   basilica ruins.
 title: Székesfehérvár
 type: location
+heritage: 6.4
+vibrancy: 3.7
+nature: 3.1
+off_the_beaten_track: 2.2
 ---
 
 Székesfehérvár was the coronation city of medieval Hungary — for five centuries, kings were crowned and buried here. That history is still visible in the compact old town, where baroque façades line pedestrianised streets and the [ruins of the royal basilica](/europe/hungary/szekesfehervar/medieval_basilica_ruins) sit in an open-air archaeological garden right in the centre.

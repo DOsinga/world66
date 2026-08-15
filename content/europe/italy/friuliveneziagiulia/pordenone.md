@@ -14,6 +14,10 @@ snippet: Elegant Friuli city with porticoed Corso Vittorio Emanuele and frescoed
   facades.
 title: Pordenone
 type: location
+heritage: 5.1
+vibrancy: 3.7
+nature: 3.6
+off_the_beaten_track: 2.8
 ---
 
 Pordenone is a small, elegant city in Friuli Venezia Giulia, overshadowed by its neighbours Udine and Trieste but worth a stop in its own right. The [Corso Vittorio Emanuele II](/europe/italy/friuliveneziagiulia/pordenone/corso_vittorio_emanuele), the main street, is one of the prettiest in the region — a long porticoed avenue of frescoed palaces and Gothic and Renaissance facades that gives the city centre an almost Venetian refinement.

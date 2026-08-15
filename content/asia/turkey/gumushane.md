@@ -14,6 +14,10 @@ image: gumushane.jpg
 image_source: https://commons.wikimedia.org/wiki/File:29150_Kale_Buca%C4%9F%C4%B1-G%C3%BCm%C3%BC%C5%9Fhane_Merkez-G%C3%BCm%C3%BC%C5%9Fhane,_Turkey_-_panoramio.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Ben Bender
+heritage: 5.7
+vibrancy: 4.5
+nature: 5.1
+off_the_beaten_track: 4.2
 ---
 
 Gümüşhane is a mountain city inland from the Black Sea, tucked into the Harşit valley between [Trabzon](/asia/turkey/trabzon) and [Erzincan](/asia/turkey/erzincan). Its name means "silver house", a reminder of the mines and smelters that once made this valley important and also left it with a harder industrial history than the green hills first suggest.

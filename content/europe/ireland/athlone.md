@@ -13,6 +13,10 @@ title: Athlone
 type: location
 snippet: Irish Shannon crossing town in the country's middle, with a castle and market-town
   pace.
+heritage: 4.6
+vibrancy: 3.2
+nature: 4.6
+off_the_beaten_track: 2.1
 ---
 
 Athlone sits in the geographical middle of Ireland, where the main road and rail line from Dublin to Galway crosses the River Shannon. The name comes from Áth Luain, "the ford of Luan" — the crossing point that made the town strategically important for as long as anyone has been fighting over Ireland. Today it is a pleasant, unhurried market town of about 25,000 people, and for anyone driving across the country it makes a genuine reason to stop for a few hours rather than push through.

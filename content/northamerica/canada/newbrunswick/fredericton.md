@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Fredericton
 title: Fredericton
 type: location
+heritage: 4.0
+vibrancy: 3.9
+nature: 5.8
+off_the_beaten_track: 2.5
 ---
 
 *North America > Canada > New Brunswick > Fredericton*

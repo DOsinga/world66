@@ -17,6 +17,10 @@ sources:
 - https://whc.unesco.org/en/list/1042
 title: Acre
 type: location
+heritage: 7.5
+vibrancy: 4.5
+nature: 3.5
+off_the_beaten_track: 2.6
 ---
 
 Acre (Akko) is one of the oldest continuously inhabited cities in the world, and its old city is a UNESCO World Heritage Site of remarkable density: Crusader vaults, Ottoman mosques, Bahá'í gardens, and a working Arab fishing harbour all coexist within the old walls. It is about 20 km north of [Haifa](/asia/israel/haifa) and 130 km from [Jerusalem](/asia/israel/jerusalem).

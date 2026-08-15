@@ -15,6 +15,10 @@ image: semporna.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bohey_Dulang_from_Above_(17287121525).jpg
 image_license: CC BY 2.0
 image_attribution: Amri HMS
+heritage: 3.0
+vibrancy: 3.6
+nature: 7.6
+off_the_beaten_track: 4.1
 ---
 
 Semporna is not a pretty town in the usual sense. It is a working port on the east coast of [Sabah](/asia/malaysia/sabah), busy with dive shops, seafood stalls, boatmen, market noise, and travellers trying to get out to the islands as early as possible. Its reason to exist for visitors is the sea.

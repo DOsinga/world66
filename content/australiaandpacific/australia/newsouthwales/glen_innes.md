@@ -5,15 +5,20 @@ loc_type: city
 latitude: -29.7349
 longitude: 151.7385
 score: 6.8
-snippet: New England high-country town with Celtic stones, sapphire fossicking, and rainforest drives
+snippet: New England high-country town with Celtic stones, sapphire fossicking, and
+  rainforest drives
 sources:
-  - https://en.wikivoyage.org/wiki/Glen_Innes
-  - https://en.wikipedia.org/wiki/Glen_Innes,_New_South_Wales
-  - https://www.visitnsw.com/destinations/country-nsw/glen-innes-and-inverell-area/glen-innes
+- https://en.wikivoyage.org/wiki/Glen_Innes
+- https://en.wikipedia.org/wiki/Glen_Innes,_New_South_Wales
+- https://www.visitnsw.com/destinations/country-nsw/glen-innes-and-inverell-area/glen-innes
 image: glen_innes.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Australian_Standing_Stones_Glen_Innes-1_(33594752084).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Sheba_Also
+heritage: 3.5
+vibrancy: 2.3
+nature: 4.8
+off_the_beaten_track: 2.2
 ---
 
 Glen Innes sits high in New England, where cold winters, granite country, and old pastoral streets make it feel different from the coast. The town leans hard into its Celtic ancestry, but the surrounding country is the real reward: sapphire creeks, waterfall roads, and rainforest on the run east toward Grafton.

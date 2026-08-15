@@ -13,6 +13,10 @@ snippet: Planned Oregon resort community on the Deschutes River, laced with car-
   paths below Mount Bachelor.
 title: Sunriver
 type: location
+heritage: 1.4
+vibrancy: 2.7
+nature: 5.8
+off_the_beaten_track: 2.4
 ---
 
 Sunriver is a planned resort community about 15 miles south of [Bend](/northamerica/unitedstates/oregon/bend) on the eastern flank of the Cascade Range in central Oregon. It sits along the [Deschutes River](/northamerica/unitedstates/oregon/sunriver/deschutes_river) with views of Mount Bachelor and the surrounding volcanic peaks. The permanent population is small — around 1,700 — but at any given time there may be several times that number of vacationers renting houses and condos.

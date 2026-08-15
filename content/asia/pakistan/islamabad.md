@@ -25,6 +25,10 @@ tip: Islamabad is Pakistan's purpose-built capital from the 1960s — green, ord
   the Margalla trails for city views, and use it as a calm base for the northern mountains.
 title: Islamabad
 type: location
+heritage: 6.6
+vibrancy: 6.1
+nature: 5.5
+off_the_beaten_track: 3.5
 ---
 
 Islamabad is Pakistan's capital, planned from scratch in the 1960s and built at the foot of the Margalla Hills on the northern edge of the Potohar Plateau. In contrast to its chaotic twin city [Rawalpindi](/asia/pakistan/rawalpindi) — the old garrison town 15 km to the south — Islamabad is green, spacious, quiet, and rigidly gridded. Most travellers find themselves there briefly to handle bureaucratic errands: embassies, visas for onward travel to China or Iran, or permits for the Northern Areas. Few stay longer than they have to, but the city has more to offer than the utilitarian reputation suggests.

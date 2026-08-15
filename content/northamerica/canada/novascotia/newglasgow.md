@@ -16,6 +16,10 @@ image: newglasgow.jpg
 image_source: https://commons.wikimedia.org/wiki/File:New_Glasgow,_Nova_Scotia,_Canada.jpg
 image_license: CC BY 4.0
 image_attribution: Quintin Soloviev
+heritage: 2.6
+vibrancy: 2.4
+nature: 4.5
+off_the_beaten_track: 2.3
 ---
 
 New Glasgow sits on the East River of Pictou, inland from Nova Scotia's Northumberland Shore. It is a small service town, but not a blank one: coal, shipbuilding, railways and Scottish settlement shaped the valley, and the surrounding towns still feel like a connected industrial county rather than a single postcard stop.

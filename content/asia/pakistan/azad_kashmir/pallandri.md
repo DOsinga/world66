@@ -13,6 +13,10 @@ image: pallandri.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Sudhnoti_Azad_Kashmir.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Ali Sudhozai
+heritage: 1.6
+vibrancy: 1.2
+nature: 7.7
+off_the_beaten_track: 7.0
 ---
 
 Pallandri is the administrative capital of Sudhnoti District in Azad Kashmir, sitting at around 1,500 metres in a valley of pine and cedar forests. It's a small, quiet hill town that sees few foreign visitors but offers the kind of forested mountain scenery that draws Pakistanis from the lowland cities in summer, when the temperature stays mild while the plains swelter.

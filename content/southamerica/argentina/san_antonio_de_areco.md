@@ -18,6 +18,10 @@ image: san_antonio_de_areco.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Caminando_por_San_Antonio_de_Areco,_Argentina_(2361243430).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Carlos Adampol Galindo from DF, México
+heritage: 5.6
+vibrancy: 4.3
+nature: 3.9
+off_the_beaten_track: 2.6
 ---
 
 San Antonio de Areco is the classic gaucho day out from [Buenos Aires](/southamerica/argentina/buenosaires), close enough for a long excursion but rural enough to feel like the pampa has taken over. The town sits on the Areco River, with low houses, old pulperias, saddle shops, and silversmiths that still work in the criollo style.

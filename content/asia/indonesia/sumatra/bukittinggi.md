@@ -14,6 +14,10 @@ snippet: West Sumatran mountain town with Minangkabau markets, canyon views, and
   landmarks
 title: Bukittinggi
 type: location
+heritage: 6.8
+vibrancy: 5.5
+nature: 6.2
+off_the_beaten_track: 4.2
 ---
 
 Bukittinggi is a laid-back mountain town in the Minangkabau highlands of West [Sumatra](/asia/indonesia/sumatra), sitting at about 930 metres above sea level. It has been popular with travellers since the 1970s and remains the most convenient base for exploring the surrounding highlands.

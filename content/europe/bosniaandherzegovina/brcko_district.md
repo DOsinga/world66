@@ -14,6 +14,10 @@ snippet: Self-governing Bosnian district on the Sava River, distinct from both m
   post-Dayton entities.
 title: Brcko District
 type: location
+heritage: 3.5
+vibrancy: 1.6
+nature: 2.6
+off_the_beaten_track: 3.7
 ---
 
 Brcko District is the third, and least known, entity of Bosnia and Herzegovina — distinct from both the Federation and Republika Srpska, and administered under a UN mandate since the Dayton Agreement couldn't resolve which entity it should belong to. The result is a quirky political status that has, unexpectedly, worked out rather well: the business climate is more transparent, politicians more accountable, and the mix of Bosniaks, Serbs, and Croats live and work together with less friction than in much of the country.

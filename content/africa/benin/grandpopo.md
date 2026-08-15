@@ -13,6 +13,10 @@ score: 6.3
 snippet: Quiet Beninese beach town where wild Atlantic shore meets living Vodun culture.
 title: Grand popo
 type: location
+heritage: 6.6
+vibrancy: 2.3
+nature: 3.1
+off_the_beaten_track: 4.5
 ---
 
 Grand-Popo is a quiet beach town on Benin's coast, close to the Togolese border. [The beach](/africa/benin/grandpopo/grand_popo_beach) is long and wild — crashing Atlantic surf, coconut palms, and almost no one on it. Swimming can be dangerous because of the undertow, but the atmosphere is wonderful.

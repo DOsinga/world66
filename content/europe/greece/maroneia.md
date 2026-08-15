@@ -1,15 +1,20 @@
 ---
-title: "Maroneia"
+title: Maroneia
 type: location
 loc_type: city
-latitude: 40.9170
-longitude: 25.5140
+latitude: 40.917
+longitude: 25.514
 score: 7.1
-snippet: Thracian village below Mount Ismaros, ringed by ancient ruins, Homeric wine stories, and quiet beaches.
+snippet: Thracian village below Mount Ismaros, ringed by ancient ruins, Homeric wine
+  stories, and quiet beaches.
 sources:
-  - https://en.wikivoyage.org/wiki/Maroneia
-  - https://en.wikipedia.org/wiki/Maroneia
-  - https://topostext.org/place/409255PMar
+- https://en.wikivoyage.org/wiki/Maroneia
+- https://en.wikipedia.org/wiki/Maroneia
+- https://topostext.org/place/409255PMar
+heritage: 5.0
+vibrancy: 1.6
+nature: 5.1
+off_the_beaten_track: 3.8
 ---
 
 Maroneia is a small village in Western Thrace with a much larger ancient shadow. In classical times it was one of the richest Greek colonies in the region, protected by long walls that climbed from the Aegean coast toward Mount Ismaros. Today the ruins sit among olive groves, rough tracks, low hills, and beaches that still feel half out of sight.

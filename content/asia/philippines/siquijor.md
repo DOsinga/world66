@@ -14,6 +14,10 @@ snippet: Small Visayan island province with coral reefs, forested hills, and a l
   folk-healing reputation
 title: Siquijor
 type: location
+heritage: 4.5
+vibrancy: 3.4
+nature: 6.7
+off_the_beaten_track: 4.8
 ---
 
 Siquijor is the third-smallest province in the Philippines, an island of around 340 square kilometres in the Visayas region, encircled by coral reefs and largely carpeted in forest. For centuries it was known to Filipinos as "the island of fire" — early Spanish sailors reportedly saw it glowing with bioluminescent plankton in the sea around it — and its reputation for sorcery, faith healers, and traditional healing rituals persists, giving the island an atmosphere distinct from the beach-resort routine of its neighbours.

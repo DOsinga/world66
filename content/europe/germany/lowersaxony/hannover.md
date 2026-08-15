@@ -12,6 +12,10 @@ snippet: Lower Saxony capital known for major trade fairs and the baroque Herren
   Gardens.
 title: Hannover
 type: location
+heritage: 5.1
+vibrancy: 4.1
+nature: 3.0
+off_the_beaten_track: 1.5
 ---
 
 Hannover is a working city, and proud of it. The capital of Lower Saxony of around 530,000 people, it earns its keep as Germany's trade-fair capital — the [Hannover Messe](/europe/germany/lowersaxony/hannover/messegelaende) and (in its day) CeBIT brought hundreds of thousands of business visitors a year. That history shapes the place: efficient, well-connected, often pragmatic, occasionally accused of being dull. Travellers tend to use it as a stopover. They are missing something.

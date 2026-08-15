@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Knysna
 title: Knysna
 type: location
+heritage: 3.5
+vibrancy: 3.6
+nature: 8.0
+off_the_beaten_track: 3.6
 ---
 
 Knysna (the K is silent — "Nyss-na") is one of the most popular stops on the Garden Route, draped around a lagoon that is guarded at its mouth by two dramatic sandstone cliffs called [The Heads](/africa/southafrica/gardenroute/knysna/the_heads). The views from the Eastern Head are spectacular, and the lagoon itself — with its oyster farms and houseboats — is the town's defining feature.

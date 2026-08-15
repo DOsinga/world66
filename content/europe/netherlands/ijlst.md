@@ -15,6 +15,10 @@ tags:
 - friesland
 title: IJlst
 type: location
+heritage: 3.5
+vibrancy: 2.4
+nature: 3.6
+off_the_beaten_track: 1.8
 ---
 
 IJlst is one of the eleven historic Frisian cities, though it is barely more than a village — one of the smallest of the eleven, pipped only by [Sloten](/europe/netherlands/sloten). It sits on the river Geeuw, practically touching [Sneek](/europe/netherlands/sneek) but stubbornly holding on to its own city rights since 1268.

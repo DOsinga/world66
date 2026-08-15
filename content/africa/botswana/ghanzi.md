@@ -14,6 +14,10 @@ snippet: Central Kalahari ranching town, used as a gateway to San cultural walks
   art centres.
 title: Ghanzi
 type: location
+heritage: 3.5
+vibrancy: 1.8
+nature: 7.1
+off_the_beaten_track: 5.8
 ---
 
 Ghanzi is a small ranching town in the central Kalahari of Botswana, the kind of place where cattle outnumber people and the horizon is flat in every direction. The town itself is basic — a few shops, a fuel station, somewhere to eat — but it is the gateway to San (Bushman) cultural experiences that offer a window into one of the oldest continuous cultures on earth.

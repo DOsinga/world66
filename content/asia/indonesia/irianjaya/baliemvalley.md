@@ -13,6 +13,10 @@ title: Baliem Valley
 type: location
 snippet: Papuan highland valley of Dani villages, Wamena markets, and treks through
   steep cultivated mountains.
+heritage: 3.0
+vibrancy: 0.7
+nature: 7.4
+off_the_beaten_track: 7.2
 ---
 
 Home of the Dani people, the Baliem Valley is the prime destination in Papua. The valley was unknown to the outside world until 1938, when an American expedition flew over it and discovered a thriving agricultural civilization in the highlands. Today it remains one of the most extraordinary places you can visit in Indonesia.

@@ -9,6 +9,10 @@ snippet: Shallow Sahelian lake of reed beds, islands, and fishing communities sh
   by four countries.
 title: Lake Chad
 type: location
+heritage: 1.7
+vibrancy: 1.6
+nature: 3.5
+off_the_beaten_track: 8.3
 ---
 
 Lake Chad once ranked among the largest lakes in Africa. Since the 1960s it has lost roughly 90% of its surface area, a combination of climate change, drought, and upstream irrigation. What remains is a shallow, marshy expanse of open water, reed beds, and islands, shared between [Chad](/africa/chad), Cameroon, Nigeria, and Niger.

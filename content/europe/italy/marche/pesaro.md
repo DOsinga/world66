@@ -14,6 +14,10 @@ snippet: Adriatic city in the Marche, defined by Rossini heritage, beach life, a
   a handsome medieval centre
 title: Pesaro
 type: location
+heritage: 4.3
+vibrancy: 4.4
+nature: 4.8
+off_the_beaten_track: 2.5
 ---
 
 Pesaro is an Adriatic city in the Marche region, best known as the birthplace of Gioachino Rossini (1792–1868), the composer of The Barber of Seville and William Tell. The city takes its connection to Rossini seriously: [Casa Rossini](/europe/italy/marche/pesaro/casa_rossini), the house where he was born, is a museum, and the Rossini Opera Festival held every August at the [Teatro Rossini](/europe/italy/marche/pesaro/teatro_rossini) is one of the most important bel canto festivals in Italy, drawing singers and opera lovers from across Europe.

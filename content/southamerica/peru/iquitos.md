@@ -14,6 +14,10 @@ title: Iquitos
 type: location
 snippet: Peruvian Amazon city reachable only by river or air, shaped by rubber-boom
   mansions and rainforest trade.
+heritage: 2.3
+vibrancy: 4.0
+nature: 6.8
+off_the_beaten_track: 4.8
 ---
 
 Iquitos is the largest city in the world that cannot be reached by road — the only access is by river or air. It sits on the west bank of the Amazon in the heart of the Peruvian rainforest, and serves as the main gateway to the Peruvian Amazon. In the late 19th century it was the centre of a rubber boom that made it briefly one of the richest cities on the continent; the ornate mansions and the [Iron House](/southamerica/peru/iquitos/iron_house) on the Plaza de Armas — prefabricated in France by Eiffel's company and shipped upriver — are the most visible legacy. The [Ayapua Boat Museum](/southamerica/peru/iquitos/ayapua_boat_museum) nearby houses a working river steamer from 1906 that hauled rubber for decades.

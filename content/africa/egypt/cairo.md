@@ -27,6 +27,10 @@ tip: Cairo is chaotic, vast and wonderful — the Pyramids of Giza are technical
   everything.
 title: Cairo
 type: location
+heritage: 7.3
+vibrancy: 7.4
+nature: 0.0
+off_the_beaten_track: 3.4
 ---
 
 Cairo is one of the great cities of the world — chaotic, overwhelming, beautiful, and ancient all at once. Africa's largest city by population, with somewhere between 20 and 25 million people in the greater metropolitan area, it sits where the Nile meets the edge of the Sahara, and it has been a centre of power for five thousand years. The Pyramids of Giza are technically in the adjacent city of Giza, but you can see them from the city limits, and they are the reason most visitors come.

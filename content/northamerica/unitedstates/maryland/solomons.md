@@ -6,12 +6,17 @@ latitude: 38.3364
 longitude: -76.4642
 wikidata: Q753730
 score: 6.9
-snippet: Chesapeake waterfront town at the Patuxent River mouth, anchored by a strong marine museum.
+snippet: Chesapeake waterfront town at the Patuxent River mouth, anchored by a strong
+  marine museum.
 sources:
-  - https://en.wikivoyage.org/wiki/Solomons
-  - https://www.calvertmarinemuseum.com/
-  - https://www.calvertcountymd.gov/3284/Museums
-  - https://www.annmariegarden.org/
+- https://en.wikivoyage.org/wiki/Solomons
+- https://www.calvertmarinemuseum.com/
+- https://www.calvertcountymd.gov/3284/Museums
+- https://www.annmariegarden.org/
+heritage: 2.3
+vibrancy: 2.6
+nature: 4.8
+off_the_beaten_track: 2.0
 ---
 
 *North America > United States > Maryland > Solomons*

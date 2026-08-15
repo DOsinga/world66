@@ -18,6 +18,10 @@ image: mora.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Vasaloppssp%C3%A5ret_Mora_01.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Hans Lindqvist
+heritage: 3.0
+vibrancy: 2.6
+nature: 4.5
+off_the_beaten_track: 1.7
 ---
 
 Mora sits on the western shore of Lake Siljan and is the practical anchor of the whole Siljan area — the biggest of its lakeside towns, and the one with an airport, a real high street, and a name known well beyond Dalarna thanks to a ski race. Every first Sunday in March, the finish line of the [Vasaloppet](/europe/sweden/mora/vasaloppet_finish) — the world's largest cross-country ski race, 90 km from [Sälen](/europe/sweden/slen) — draws around 15,000 skiers into town, and the finish portal stands year-round as a quiet local landmark the rest of the year. The [Vasaloppet Museum](/europe/sweden/mora/vasaloppsmuseet) covers the race's century of history.

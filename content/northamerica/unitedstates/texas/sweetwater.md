@@ -19,6 +19,10 @@ image: sweetwater.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Wind_turbine_Sweetwater_Texas_2652367828_01d4a129f7_o.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Drew Stephens from San Mateo, CA
+heritage: 1.0
+vibrancy: 1.7
+nature: 5.6
+off_the_beaten_track: 2.4
 ---
 
 Sweetwater is a small West Texas city on I-20, halfway between Abilene and the rolling edge of the Panhandle. At first glance it looks like a practical highway stop, but it has a stranger and more specific identity than most towns its size: wartime women pilots, wind farms on the horizon, and one of Texas's most peculiar annual festivals.

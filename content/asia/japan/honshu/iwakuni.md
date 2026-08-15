@@ -15,6 +15,10 @@ image: iwakuni.jpg
 image_source: https://commons.wikimedia.org/wiki/File:20100724_Iwakuni_5235.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Jakub Hałun
+heritage: 4.9
+vibrancy: 2.8
+nature: 3.7
+off_the_beaten_track: 3.1
 ---
 
 Iwakuni sits on the Nishiki River in eastern Yamaguchi, close enough to [Hiroshima](/asia/japan/honshu/hiroshima) to work as a day trip but with a very different rhythm. Its draw is concentrated around the Kintai Bridge, a beautiful wooden structure of five steep arches that has become one of western Honshu's classic views.

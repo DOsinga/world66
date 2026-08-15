@@ -15,6 +15,10 @@ tags:
 - rivieradellepalme
 title: Sassello
 type: location
+heritage: 4.0
+vibrancy: 2.1
+nature: 5.5
+off_the_beaten_track: 3.5
 ---
 
 Sassello sits in a green valley on the northern slope of the Ligurian Apennines, surrounded by woods and pastures and partly within the [Parco del Beigua](/europe/italy/liguria/sassello/parco_del_beigua). It is a quiet, attractive hill town well off the coastal tourist trail, known above all for its [amaretti](/europe/italy/liguria/sassello/amaretti) — soft macaroons made to a centuries-old recipe that remain the town's most famous product.

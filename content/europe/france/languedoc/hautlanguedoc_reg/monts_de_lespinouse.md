@@ -13,6 +13,10 @@ image: monts_de_lespinouse.jpg
 image_source: https://commons.wikimedia.org/wiki/File:273_Corniche_des_C%C3%A9vennes_Panorama_Col_des_Faisses.JPG
 image_license: CC BY-SA 4.0
 image_attribution: Henri MOREAU
+heritage: 5.1
+vibrancy: 1.4
+nature: 7.0
+off_the_beaten_track: 4.0
 ---
 
 The Monts de l'Espinouse form the most dramatic part of the Parc Naturel Régional du Haut-Languedoc, rising sharply from the garrigue plains to form a brooding limestone plateau. The scenery is rougher and wilder than the wine country to the south — all chestnut forest, moor, and wind-scoured ridge.

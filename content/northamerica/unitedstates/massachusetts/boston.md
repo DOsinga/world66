@@ -16,6 +16,10 @@ snippet: Compact New England city of Revolutionary sites, universities, old neig
   and waterfront culture
 title: Boston
 type: location
+heritage: 6.8
+vibrancy: 5.6
+nature: 5.1
+off_the_beaten_track: 1.3
 ---
 
 Boston is where American history began, and the city has never let anyone forget it. The Freedom Trail threads past the sites of the Boston Massacre, the Boston Tea Party, and Paul Revere's midnight ride, all within a walkable two-and-a-half-mile loop. But Boston is much more than a history lesson -- it is a modern, cosmopolitan city with world-class museums, a thriving food scene, and some of the best universities on the planet.

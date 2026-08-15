@@ -5,12 +5,17 @@ loc_type: city
 latitude: 44.7667
 longitude: -79.9333
 score: 7.0
-snippet: Bilingual Georgian Bay harbour town with War of 1812 naval history and old French-Ontarian roots.
+snippet: Bilingual Georgian Bay harbour town with War of 1812 naval history and old
+  French-Ontarian roots.
 wikidata: Q972255
 sources:
 - https://en.wikivoyage.org/wiki/Penetanguishene
 - https://en.wikipedia.org/wiki/Penetanguishene
 - https://www.penetanguishene.ca/
+heritage: 4.8
+vibrancy: 2.9
+nature: 6.4
+off_the_beaten_track: 2.1
 ---
 
 Penetanguishene sits at the south end of Georgian Bay, close to Midland but with a personality of its own. It has marinas and cottage-country traffic, but its deeper story is older: Huron-Wendat presence, French translators and traders, a British naval base after the War of 1812, and a French-Ontarian community that never disappeared.

@@ -12,6 +12,10 @@ snippet: Armenia's second city, a proud high-plateau cultural centre rebuilt aro
   black and orange tufa streets
 title: Gyumri
 type: location
+heritage: 7.3
+vibrancy: 4.3
+nature: 4.1
+off_the_beaten_track: 3.2
 ---
 
 Armenia's second city sits on a high plateau in the northwest of the country, close to the Turkish border. Gyumri has a character quite distinct from Yerevan — darker, grittier, and deeply proud. The city was devastated by the 1988 earthquake that killed tens of thousands of people, and the scars are still visible in some neighbourhoods. But Gyumri has rebuilt itself with stubborn determination, and what you find today is a city with genuine warmth, sharp humour, and a cultural life that punches well above its weight.

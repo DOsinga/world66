@@ -18,6 +18,10 @@ image: reefton.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Broadway_(SH_7),_Reefton,_New_Zealand.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Ulrich Lange, Bochum, Germany
+heritage: 3.9
+vibrancy: 1.6
+nature: 7.9
+off_the_beaten_track: 5.1
 ---
 
 Reefton is a small inland town on the [West Coast](/australiaandpacific/newzealand/south_island/west_coast) of New Zealand's South Island, set in the Inangahua River valley between forested hills. It made its money from quartz-reef gold mining, and it still wears that history well: old commercial buildings, mining relics, a School of Mines, and a local habit of telling stories properly.

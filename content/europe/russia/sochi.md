@@ -5,18 +5,23 @@ loc_type: city
 latitude: 43.585278
 longitude: 39.720278
 score: 7.2
-snippet: Russia's Black Sea resort city, stretched between subtropical coast and Caucasus mountains.
+snippet: Russia's Black Sea resort city, stretched between subtropical coast and Caucasus
+  mountains.
 wikidata: Q39420
 sources:
-  - https://en.wikivoyage.org/wiki/Sochi
-  - https://www.wikidata.org/wiki/Q39420
-  - https://en.wikipedia.org/wiki/Sochi
-  - https://dendrarium.ru/
-  - https://visitrussia.com/citiesguide/sochi/places/sochi_port
+- https://en.wikivoyage.org/wiki/Sochi
+- https://www.wikidata.org/wiki/Q39420
+- https://en.wikipedia.org/wiki/Sochi
+- https://dendrarium.ru/
+- https://visitrussia.com/citiesguide/sochi/places/sochi_port
 image: sochi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BE%D1%87%D0%B8-%D0%BA%D0%BE%D0%BB%D0%BB%D0%B0%D0%B61.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Georgy Dolgopsky
+heritage: 3.8
+vibrancy: 5.4
+nature: 5.9
+off_the_beaten_track: 2.1
 ---
 
 Sochi is Russia's great Black Sea resort, a long subtropical city squeezed between the water and the western Caucasus. It is not a single neat beach town: Greater Sochi runs for more than 100 kilometres along the coast, with old spa districts, railway stations, beaches, sanatorium parks, Olympic venues, and mountain resorts all folded into the name.

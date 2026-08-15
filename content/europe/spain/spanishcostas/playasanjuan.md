@@ -14,6 +14,10 @@ snippet: Tenerife fishing village with a working harbour, dark-sand beach, and q
   southwest-coast rhythm.
 title: Playa San Juan
 type: location
+heritage: 2.1
+vibrancy: 6.0
+nature: 6.6
+off_the_beaten_track: 1.6
 ---
 
 Playa San Juan is a small fishing village on the southwest coast of Tenerife, between [Los Gigantes](/europe/spain/spanishcostas/losgigantes) and [Playa de las Américas](/europe/spain/spanishcostas/lasamericas). It has managed to keep much of its local character while the rest of the coast was swallowed by resort development. The [harbour](/europe/spain/spanishcostas/playasanjuan/harbour) still has working fishing boats, and the seafood restaurants along the waterfront serve what came in that morning.

@@ -21,6 +21,10 @@ tags:
 - bornholmisland
 title: Nexo
 type: location
+heritage: 3.7
+vibrancy: 3.8
+nature: 3.2
+off_the_beaten_track: 1.3
 ---
 
 Nexø is the second-largest town on [Bornholm](/europe/denmark/bornholmisland), a working fishing port on the island's east coast. It lacks the half-timbered charm of Gudhjem or Svaneke, but it has an honest, unpolished character — the harbour is full of actual fishing boats rather than pleasure craft, and the fish you eat here came out of the Baltic that morning.

@@ -3,9 +3,14 @@ latitude: 50.5396
 loc_type: feature
 longitude: -2.4341
 score: 8.5
-snippet: Stark limestone peninsula jutting into the English Channel, quarried for centuries and fiercely independent from the Dorset mainland.
+snippet: Stark limestone peninsula jutting into the English Channel, quarried for
+  centuries and fiercely independent from the Dorset mainland.
 title: Isle of Portland
 type: location
+heritage: 5.0
+vibrancy: 3.3
+nature: 6.6
+off_the_beaten_track: 3.8
 ---
 
 A stark limestone peninsula jutting south into the English Channel, connected to [Weymouth](/europe/unitedkingdom/england/south_west/weymouth) by the narrow neck of Chesil Beach. Portland is unlike anywhere else in Dorset: flat-topped, windswept, quarried down to bare rock in places, with a fierce sense of its own identity. Portlanders have traditionally regarded themselves as separate from the mainland — historically they referred to anyone from beyond the causeway as a kimberlite or "kimberlin," a term still used with mild affection today.

@@ -16,6 +16,10 @@ image: ijevan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ijevan_2021.jpg
 image_license: CC0
 image_attribution: Simiyan
+heritage: 3.2
+vibrancy: 1.9
+nature: 4.8
+off_the_beaten_track: 3.6
 ---
 
 Ijevan is the more workaday cousin of nearby Dilijan: less resort polish, more river town, market traffic, Soviet buildings, and everyday Tavush life. It sits in a green valley on the Aghstev River, with forested hills close enough to make the town feel cooler and softer than much of Armenia.

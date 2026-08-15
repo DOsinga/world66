@@ -14,6 +14,10 @@ snippet: Saaremaa's capital, a small Baltic island town with cobbled streets and
   medieval castle.
 title: Kuressaare
 type: location
+heritage: 6.2
+vibrancy: 4.0
+nature: 6.5
+off_the_beaten_track: 3.2
 ---
 
 Kuressaare is the capital of [Saaremaa](/europe/estonia/saaremaa), Estonia's largest island, and the kind of small town that rewards slow travel. It sits on the southern coast of the island, facing Livonia Bay, with a population of around 13,000 — quiet, unhurried, and genuinely pretty. Its cobbled streets are lined with low wooden houses painted in faded pastels, the pace is easy, and the medieval castle at the edge of town is one of the best-preserved in the entire Baltic region.

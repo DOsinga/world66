@@ -14,6 +14,10 @@ title: Astoria
 type: location
 snippet: Columbia River port city at Oregon's northwest tip, known for maritime history
   and Victorian houses.
+heritage: 3.6
+vibrancy: 3.7
+nature: 7.6
+off_the_beaten_track: 2.6
 ---
 
 **Astoria** sits at the mouth of the Columbia River in the far northwest corner of Oregon, where the river meets the Pacific. It is the oldest American settlement west of the Rockies, established as a fur trading post by John Jacob Astor's Pacific Fur Company in 1811.

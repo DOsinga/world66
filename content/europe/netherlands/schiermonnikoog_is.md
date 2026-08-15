@@ -13,6 +13,10 @@ tags:
 - waddenislands
 title: Schiermonnikoog
 type: location
+heritage: 3.8
+vibrancy: 2.0
+nature: 6.3
+off_the_beaten_track: 3.6
 ---
 
 Schiermonnikoog is the smallest inhabited island in the Dutch Wadden chain and arguably the most peaceful. Cars are banned for visitors — you get around by bicycle or on foot, and the silence is striking after the ferry from Lauwersoog docks at the small harbour.

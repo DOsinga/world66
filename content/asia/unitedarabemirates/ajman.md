@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Emirate_of_Ajman
 title: Ajman
 type: location
+heritage: 1.8
+vibrancy: 2.8
+nature: 2.8
+off_the_beaten_track: 1.1
 ---
 
 Ajman is the smallest of the seven [UAE](/asia/unitedarabemirates) emirates, squeezed between Sharjah and Umm Al Quwain along the Gulf coast. It has a fraction of the glitz of [Dubai](/asia/unitedarabemirates/dubai) — no towering skyscrapers or mega-malls — and that is precisely its appeal for visitors looking for a quieter, more affordable base.

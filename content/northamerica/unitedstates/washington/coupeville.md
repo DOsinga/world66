@@ -15,6 +15,10 @@ image: coupeville.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Coupeville_and_Penn_Cove,_Whidbey_Island_-_2707429941.jpg
 image_license: CC BY-SA 2.0
 image_attribution: brewbooks
+heritage: 4.4
+vibrancy: 2.6
+nature: 6.5
+off_the_beaten_track: 2.6
 ---
 
 Coupeville is a small seaport on Penn Cove, halfway up Whidbey Island, and one of Washington's most rewarding small-town stops. It sits inside Ebey's Landing National Historical Reserve, where old farms, prairie bluffs, military forts, and a Victorian waterfront have been protected as one lived-in landscape rather than a sealed museum.

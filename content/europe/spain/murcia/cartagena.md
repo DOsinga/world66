@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Cartagena,_Spain
 title: Cartagena
 type: location
+heritage: 6.8
+vibrancy: 6.1
+nature: 6.3
+off_the_beaten_track: 1.6
 ---
 
 Cartagena is the coastal surprise of Murcia: a working naval port with an old centre built on top of Phoenician, Carthaginian, Roman, Byzantine, and modern layers. It is not polished in the way Spain's obvious city-break names are polished, and that is part of the appeal. Ships, cranes, archaeological sites, modernist facades, and cafe terraces all press into the same small bowl of harbour.

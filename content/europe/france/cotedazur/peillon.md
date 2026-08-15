@@ -16,6 +16,10 @@ image: peillon.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Peillon_Landscape.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Mark Fischer
+heritage: 3.5
+vibrancy: 1.7
+nature: 2.9
+off_the_beaten_track: 2.2
 ---
 
 Peillon is a small perched village in the hills north of Nice and Monaco, set on a rocky spur above the Paillon valley. It is close to the coast on the map, but the mood is inland and old: stone houses stacked on the slope, vaulted passages, steep stairways, and no traffic in the old village.

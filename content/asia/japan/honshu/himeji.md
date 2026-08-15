@@ -14,6 +14,10 @@ snippet: Hyogo city dominated by White Heron Castle, one of Japan's original sur
   feudal keeps.
 title: Himeji
 type: location
+heritage: 8.6
+vibrancy: 5.1
+nature: 7.8
+off_the_beaten_track: 2.5
 ---
 
 Himeji is a city in Hyogo Prefecture, about 90 minutes west of Osaka by Shinkansen, and it has one of the finest castles in Japan. [Himeji Castle](/asia/japan/honshu/himeji/himeji_castle) — also called White Heron Castle for its gleaming white plaster walls — is a UNESCO World Heritage site and one of only twelve original castles in the country to have survived intact, never destroyed or rebuilt.

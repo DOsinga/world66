@@ -13,6 +13,10 @@ snippet: Alentejo hill city and UNESCO site, with Roman, medieval, and Portugues
   golden-age architecture.
 title: Évora
 type: location
+heritage: 8.0
+vibrancy: 4.6
+nature: 3.1
+off_the_beaten_track: 2.3
 ---
 
 Évora is the finest city in Portugal's Alentejo region and a UNESCO World Heritage Site — described by UNESCO as "the finest example of a city of the golden age of Portugal after the destruction of Lisbon by the earthquake of 1755." The description is apt. Walking through Évora's walled centre feels like stepping into a museum of Portuguese history, except that it is a living city with a university, good restaurants, and a thriving market.

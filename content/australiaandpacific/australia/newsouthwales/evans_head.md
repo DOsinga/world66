@@ -18,6 +18,10 @@ image: evans_head.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Evans_Head.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Gladiator-Citizen
+heritage: 2.2
+vibrancy: 1.7
+nature: 5.6
+off_the_beaten_track: 2.7
 ---
 
 Evans Head is a small Northern Rivers beach town south of Ballina, quieter and less polished than [Byron Bay](/australiaandpacific/australia/newsouthwales/byronbay). Its appeal is the setting: the Evans River, a surf coast, broad beaches, and national park land pressing close on both sides.

@@ -13,6 +13,10 @@ snippet: Working Arno valley town near Florence, with a Romanesque collegiate ch
   and surprisingly rich Renaissance art museum.
 title: Empoli
 type: location
+heritage: 6.9
+vibrancy: 4.0
+nature: 3.8
+off_the_beaten_track: 1.7
 ---
 
 Empoli is a working town in the Arno valley about 30 km west of Florence. It is not a tourist destination in the usual sense, but it has a compact historic centre organised around Piazza Farinata degli Uberti that rewards a short visit.

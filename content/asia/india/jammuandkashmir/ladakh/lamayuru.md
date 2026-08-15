@@ -5,11 +5,16 @@ loc_type: city
 latitude: 34.2819
 longitude: 76.7749
 score: 7.6
-snippet: High Ladakhi village below an ancient monastery and eroded lunar-looking hills.
+snippet: High Ladakhi village below an ancient monastery and eroded lunar-looking
+  hills.
 sources:
-  - https://en.wikivoyage.org/wiki/Lamayuru
-  - https://leh.nic.in/tourist-place/lamayuru/
-  - https://en.wikipedia.org/wiki/Lamayuru_Monastery
+- https://en.wikivoyage.org/wiki/Lamayuru
+- https://leh.nic.in/tourist-place/lamayuru/
+- https://en.wikipedia.org/wiki/Lamayuru_Monastery
+heritage: 9.1
+vibrancy: 1.6
+nature: 7.0
+off_the_beaten_track: 6.0
 ---
 
 Lamayuru is a small village on the Srinagar-Leh highway, about 115 km west of [Leh](/asia/india/jammuandkashmir/ladakh/leh), but it feels less like a road stop than a place the landscape has deliberately staged. The village sits below [Lamayuru Monastery](/asia/india/jammuandkashmir/ladakh/lamayuru/lamayuru_monastery), with pale, eroded ridges behind it that have earned the tourist nickname "Moonland".

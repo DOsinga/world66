@@ -10,6 +10,10 @@ snippet: Scioto Valley town and former Ohio capital, beside major Hopewell earth
   and mound complexes
 title: Chillicothe
 type: location
+heritage: 3.5
+vibrancy: 2.1
+nature: 3.0
+off_the_beaten_track: 1.7
 ---
 
 Chillicothe sits in the Scioto Valley about an hour south of [Columbus](/northamerica/unitedstates/ohio/columbus). It served as Ohio's first state capital from 1803 to 1810 and again briefly in 1812, and the small downtown still has a serious 19th-century brick-and-limestone confidence about it. The bigger draw is older: the surrounding valley was the heart of the prehistoric Hopewell culture, and the mound complexes of the [Hopewell Culture National Historical Park](/northamerica/unitedstates/ohio/chillicothe/hopewell_culture_park) — inscribed on the UNESCO World Heritage list in 2023 — are one of the most important archaeological landscapes in North America.

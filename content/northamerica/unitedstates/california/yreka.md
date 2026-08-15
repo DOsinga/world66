@@ -18,6 +18,10 @@ sources:
 title: Yreka
 type: location
 wikidata: Q2565455
+heritage: 2.7
+vibrancy: 2.4
+nature: 5.0
+off_the_beaten_track: 4.7
 ---
 
 Yreka is a small far-northern California town with more history than its I-5 exit first suggests. Gold brought miners here in 1851, and the old commercial core along West Miner Street still gives the place a frontier-county-seat feel.

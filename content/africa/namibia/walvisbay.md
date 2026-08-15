@@ -10,6 +10,10 @@ snippet: Namibian deep-water port on a sheltered lagoon famous for flamingos, sa
   pans, and desert coast excursions.
 title: Walvis Bay
 type: location
+heritage: 2.0
+vibrancy: 3.3
+nature: 7.0
+off_the_beaten_track: 3.5
 ---
 
 Walvis Bay is Namibia's main port and the only deep-water harbour on the country's coastline. The town sits on a [sheltered lagoon](/africa/namibia/walvisbay/walvis_bay_lagoon) that attracts enormous flocks of flamingos — sometimes tens of thousands at a time — along with pelicans, terns and other seabirds. The lagoon and the adjacent [salt pans](/africa/namibia/walvisbay/salt_works) are a Ramsar wetland site and one of the most important coastal bird habitats in southern Africa.

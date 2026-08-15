@@ -15,6 +15,10 @@ tags:
 - dorset
 title: Swanage
 type: location
+heritage: 4.7
+vibrancy: 2.5
+nature: 6.7
+off_the_beaten_track: 3.5
 ---
 
 Swanage is a small seaside town on the Dorset coast at the eastern end of the Jurassic Coast, a UNESCO World Heritage Site whose cliffs tell 185 million years of geological history. The town itself is a classic English resort, with a [sandy beach](/europe/unitedkingdom/england/south_west/swanage/swanage_beach), a [Victorian pier](/europe/unitedkingdom/england/south_west/swanage/swanage_pier), and rows of ice cream shops, but the landscape surrounding it is genuinely spectacular.

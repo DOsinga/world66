@@ -10,6 +10,10 @@ snippet: Denver-area suburban city between Boulder and the capital, with trails,
   space, and the Butterfly Pavilion.
 title: Westminster
 type: location
+heritage: 2.7
+vibrancy: 3.7
+nature: 5.2
+off_the_beaten_track: 1.3
 ---
 
 Westminster is a suburban city of about 115,000 people in the Denver metropolitan area, sitting between [Denver](/northamerica/unitedstates/colorado/denver) and [Boulder](/northamerica/unitedstates/colorado/boulder) in Adams and Jefferson counties. It has grown rapidly since the 1990s and is now one of Colorado's larger cities, though it functions primarily as a suburb rather than a destination in its own right. The city's main attraction is its location: Denver is 15 minutes south, Boulder 20 minutes north, and Rocky Mountain National Park is about an hour away.

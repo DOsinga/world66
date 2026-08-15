@@ -10,6 +10,10 @@ snippet: South-shore Montréal city with Vieux-Longueuil restaurants, skyline vi
   and metro access to downtown.
 title: Longueuil
 type: location
+heritage: 2.7
+vibrancy: 2.7
+nature: 3.1
+off_the_beaten_track: 1.2
 ---
 
 Longueuil sits on the south shore of the St. Lawrence River, directly across from [Montréal](/northamerica/canada/quebec/montreal). Connected to the island by the Jacques-Cartier Bridge and a metro line, it functions as both a bedroom community and a destination in its own right.

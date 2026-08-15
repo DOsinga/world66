@@ -5,7 +5,12 @@ loc_type: city
 latitude: 51.5583
 longitude: 13.0042
 score: 7.1
-snippet: Elbe town of Reformation history, Renaissance power, and the 1945 east-west meeting.
+snippet: Elbe town of Reformation history, Renaissance power, and the 1945 east-west
+  meeting.
+heritage: 6.3
+vibrancy: 2.8
+nature: 2.8
+off_the_beaten_track: 2.1
 ---
 
 Torgau is one of those German towns whose calm streets hide a surprising amount of history. It was a residence of the Ernestine electors of Saxony, a major place in the early Reformation, and later the town where American and Soviet troops met on the Elbe in April 1945.

@@ -15,6 +15,10 @@ snippet: Quiet Bohai beach resort south of Beidaihe, with broad sand and calmer 
   rhythms.
 type: location
 score: 6.42
+heritage: 2.4
+vibrancy: 2.6
+nature: 3.2
+off_the_beaten_track: 2.2
 ---
 
 Nandaihe sits on the Bohai coast just south of the better-known Beidaihe resort, and its main appeal is precisely that it is the quieter option. Where Beidaihe has been crowded since the 1890s and carries generations of resort infrastructure and summer-party energy, Nandaihe developed later and more gently. The beach is broad and sandy, the water is calm and shallow enough for children, and the pace is slower than its neighbour to the north.

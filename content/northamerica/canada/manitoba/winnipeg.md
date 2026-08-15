@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Canadian_Museum_for_Human_Rights
 title: Winnipeg
 type: location
+heritage: 4.5
+vibrancy: 5.3
+nature: 3.9
+off_the_beaten_track: 1.6
 ---
 
 Winnipeg sits almost exactly at the longitudinal centre of North America, at the confluence of the Red and Assiniboine Rivers — a meeting place used by Indigenous peoples for at least six thousand years before the Hudson's Bay Company built Fort Gibraltar nearby in 1738. Today it is the capital of Manitoba, a prairie city of 750,000, and the point where the Canadian Shield meets the Great Plains.

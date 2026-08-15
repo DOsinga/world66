@@ -13,6 +13,10 @@ snippet: Simbruini Mountains town near Rome, shaped by Nero's retreat and Saint 
   cliffside monasteries.
 title: Subiaco
 type: location
+heritage: 7.8
+vibrancy: 3.8
+nature: 5.5
+off_the_beaten_track: 2.1
 ---
 
 Subiaco is a small town about 70 km east of [Rome](/europe/italy/lazio/rome), tucked into a valley of the Simbruini Mountains. It has been a favourite retreat for more than two millennia: Nero built himself a villa here after the fire of Rome, and Saint Benedict came here to live as a hermit in the sixth century, founding the monastic tradition that would shape medieval Europe.

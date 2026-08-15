@@ -14,6 +14,10 @@ snippet: Plateau town in Xieng Khouang, used as the base for visiting the Plain 
   Jars.
 title: Phonsavan
 type: location
+heritage: 4.1
+vibrancy: 1.5
+nature: 5.9
+off_the_beaten_track: 6.1
 ---
 
 Phonsavan is a small, chilly town on the Xieng Khouang Plateau, rebuilt after the original provincial capital ([Muang Khoun](/asia/laos/phonesavanh/muang_khoun)) was destroyed by bombing during the Vietnam War. The town itself is unremarkable, but it is the base for visiting the mysterious Plain of Jars — one of Southeast Asia's most enigmatic archaeological sites.

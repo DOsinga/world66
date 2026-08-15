@@ -16,6 +16,10 @@ snippet: Northern Haitian port city with colonial streets, visual art, and acces
   to Citadelle Laferrière.
 title: Cap-Haïtien
 type: location
+heritage: 7.8
+vibrancy: 3.1
+nature: 4.1
+off_the_beaten_track: 5.7
 ---
 
 Cap-Haïtien is located on historic ground: Columbus made landfall nearby and celebrated the first Christmas in the New World in 1492. Today it is Haiti's second city, a port town of around 300,000 people with a well-preserved colonial street grid and a more relaxed atmosphere than Port-au-Prince.

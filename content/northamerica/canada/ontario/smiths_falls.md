@@ -16,6 +16,10 @@ image: smiths_falls.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bascule_Bridge,_Smiths_Falls.jpg
 image_license: CC BY-SA 3.0
 image_attribution: D. Gordon E. Robertson
+heritage: 3.3
+vibrancy: 2.0
+nature: 5.3
+off_the_beaten_track: 2.6
 ---
 
 Smiths Falls is a small eastern Ontario town on the Rideau Canal, about an hour from Ottawa by car and on the rail line toward Toronto. It is not a grand destination, but it has enough canal and railway history to justify a spare day if you like working waterways, old stations, and towns built around transport.

@@ -16,6 +16,10 @@ image: burdur.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Burdur_manzara_-_panoramio.jpg
 image_license: CC BY 3.0
 image_attribution: Nihat1988
+heritage: 5.1
+vibrancy: 4.0
+nature: 5.4
+off_the_beaten_track: 3.9
 ---
 
 Burdur is a quiet market town in Turkey's Lakes District, about 130 kilometres inland from Antalya. It has never been a showpiece city. Earthquakes removed much of the older fabric, the castle has vanished, and the centre is practical rather than pretty. What makes Burdur worth considering is the landscape and archaeology around it.

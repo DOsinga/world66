@@ -14,6 +14,10 @@ snippet: Dalmatian island settlement linked by bridge to the mainland, with boat
   running toward Kornati National Park.
 title: Murter
 type: location
+heritage: 3.8
+vibrancy: 3.9
+nature: 6.3
+off_the_beaten_track: 2.8
 ---
 
 Murter is a small island off the Dalmatian coast, connected to the mainland by a bascule bridge at the village of [Tisno](/europe/croatia/murter/tisno). It gives its name to both the island and its main settlement, and it serves as the gateway to the [Kornati National Park](/europe/croatia/murter/kornati_national_park) — an archipelago of 89 mostly uninhabited islands that draws sailors and divers from across the Adriatic.

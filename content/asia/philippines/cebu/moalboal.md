@@ -3,13 +3,17 @@ latitude: 9.95
 loc_type: city
 longitude: 123.4
 score: 7.82
-snippet: West Cebu dive town where reef walls, sardine schools, turtles, and beaches sit
-  close to shore.
+snippet: West Cebu dive town where reef walls, sardine schools, turtles, and beaches
+  sit close to shore.
 sources:
-  - https://en.wikivoyage.org/wiki/Moalboal
-  - https://en.wikipedia.org/wiki/Moalboal
+- https://en.wikivoyage.org/wiki/Moalboal
+- https://en.wikipedia.org/wiki/Moalboal
 title: Moalboal
 type: location
+heritage: 1.6
+vibrancy: 2.3
+nature: 7.0
+off_the_beaten_track: 2.8
 ---
 
 Moalboal is the west-coast Cebu town that proves a resort strip can still be worth a page when the water is good enough. The town centre is inland and ordinary; the traveler life is at Panagsama Beach and White Beach, where dive shops, small bars, guesthouses, and motorbike rentals cluster along the shore.

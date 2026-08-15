@@ -13,6 +13,10 @@ title: Ptuj
 snippet: Oldest town in Slovenia, clustered below a castle above medieval lanes and
   wine cellars.
 type: location
+heritage: 6.7
+vibrancy: 3.9
+nature: 3.7
+off_the_beaten_track: 2.6
 ---
 
 Ptuj is the oldest town in Slovenia, with town rights dating back to 977, and it wears that age well. The compact historic centre clusters beneath a hilltop castle and is filled with the kind of detail that rewards slow walking: carved stone doorways, wrought-iron window grills, and patrician houses lining quiet streets.

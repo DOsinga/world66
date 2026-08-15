@@ -15,6 +15,10 @@ snippet: Long Adriatic island near Split, known for lavender fields, Plavac Mali
   and Venetian Hvar Town.
 title: Hvar
 type: location
+heritage: 4.7
+vibrancy: 6.2
+nature: 6.9
+off_the_beaten_track: 2.5
 ---
 
 South of [Brač](/europe/croatia/brac) and easily reached from [Split](/europe/croatia/split), Hvar is the longest island in the Adriatic and one of the sunniest places in Croatia. The island is covered with vineyards, olive groves, and [lavender fields](/europe/croatia/hvar/lavender_fields) that scent the summer air — a crop that has shaped the island's economy and identity since the early 20th century. The local [Plavac Mali wine](/europe/croatia/hvar/hvar_wine) is among the best in Dalmatia.

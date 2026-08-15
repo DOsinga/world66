@@ -9,6 +9,10 @@ snippet: Basilicata hilltop town above the Bradano valley, centred on an 11th-ce
   Benedictine abbey.
 title: Montescaglioso
 type: location
+heritage: 5.3
+vibrancy: 3.6
+nature: 6.3
+off_the_beaten_track: 4.1
 ---
 
 Montescaglioso is a hilltop town in [Basilicata](/europe/italy/basilicata), perched above the Bradano valley about 20 km south of [Matera](/europe/italy/basilicata/matera). It is one of the more rewarding stops in a region that rewards detours.

@@ -10,6 +10,10 @@ snippet: Small Mekong provincial capital near the Lao border, used as a stop bet
   Laos and Cambodia.
 title: Stung Treng
 type: location
+heritage: 2.3
+vibrancy: 2.0
+nature: 3.4
+off_the_beaten_track: 4.0
 ---
 
 Stung Treng is a small provincial capital on the Mekong in northeastern Cambodia, close to the Lao border. Most travellers pass through on their way between Laos and the rest of Cambodia, but it is worth a stop.

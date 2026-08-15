@@ -12,6 +12,10 @@ title: Tournai
 snippet: Ancient Belgian city on the Scheldt, anchored by a five-towered cathedral
   and deep Frankish history.
 type: location
+heritage: 7.5
+vibrancy: 5.0
+nature: 2.5
+off_the_beaten_track: 1.5
 ---
 
 Tournai is one of the oldest cities in Belgium, sitting on the Scheldt River just 10 km from the French border. The Romans established it on the road from Cologne to Gaul, and the Merovingian Franks later chose it as the seat of their kingdom — Clovis, founder of the Frankish state, was born here in the fifth century.

@@ -17,6 +17,10 @@ image: salisbury.jpg
 image_source: https://commons.wikimedia.org/wiki/File:View_across_water_meadows_to_Salisbury_Cathedral_-_geograph.org.uk_-_4097134.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Philip Halling
+heritage: 7.9
+vibrancy: 4.9
+nature: 3.7
+off_the_beaten_track: 1.9
 ---
 
 Salisbury is a compact cathedral city in Wiltshire where the medieval skyline still belongs entirely to the church. The spire of Salisbury Cathedral rises to 123 metres — the tallest in England — and is visible for miles across the surrounding chalk downland. On a clear day you can see it from Old Sarum, the Iron Age hillfort north of town where the original settlement stood before the city moved to its present site in the thirteenth century.

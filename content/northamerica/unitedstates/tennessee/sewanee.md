@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Sewanee_Perimeter_Trail
 title: Sewanee
 type: location
+heritage: 5.8
+vibrancy: 3.4
+nature: 7.0
+off_the_beaten_track: 3.1
 ---
 
 Sewanee is a small unincorporated community perched on the Cumberland Plateau in southern Tennessee, defined almost entirely by the University of the South — a private Episcopal liberal arts college whose Gothic sandstone buildings rise improbably from the Tennessee woodland. The university owns the surrounding 13,000-acre "Domain," a vast forested plateau rimmed by bluffs, making Sewanee feel less like a town and more like an English university set down in the American South.

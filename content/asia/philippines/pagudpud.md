@@ -14,6 +14,10 @@ image: pagudpud.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Patapat_Bridge_LVS.jpg
 image_license: CC BY 3.0
 image_attribution: Luke Vlog Series
+heritage: 2.3
+vibrancy: 4.0
+nature: 7.6
+off_the_beaten_track: 3.4
 ---
 
 Pagudpud is the far-north beach escape of Luzon, a long way from Manila and all the better for it. The town sits where Ilocos Norte runs into the Cordillera's last coastal hills, so beaches, cliffs, waterfalls, wind farms, and the road to Cagayan all crowd into a small corner of the map.

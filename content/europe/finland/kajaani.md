@@ -10,6 +10,10 @@ snippet: Quiet Kainuu town on Lake Oulujarvi, with castle ruins, wooden houses, 
   Kalevala literary associations.
 title: Kajaani
 type: location
+heritage: 3.7
+vibrancy: 2.7
+nature: 6.5
+off_the_beaten_track: 2.7
 ---
 
 Kajaani sits on the shore of Lake Oulujarvi in the Kainuu region of eastern Finland, a quiet town that still carries the rural character of the surrounding forests and lakes. It is small enough to walk around in an afternoon but has a few things worth stopping for.

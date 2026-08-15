@@ -14,6 +14,10 @@ snippet: Arunachal valley town between Bomdila and Tawang, known for Monpa house
   orchards, and winter cranes
 title: Dirang
 type: location
+heritage: 4.4
+vibrancy: 1.6
+nature: 7.1
+off_the_beaten_track: 5.7
 ---
 
 Dirang is a small valley town in western Arunachal Pradesh, sitting at about 1,500 metres between Bomdila and Tawang on the road that climbs toward the Tibetan border. Most travelers pass through on their way to Tawang, but Dirang deserves more than a fuel stop.

@@ -14,6 +14,10 @@ snippet: Wiltshire market town where the Kennet and Avon Canal climbs through th
   29-lock Caen Hill flight.
 title: Devizes
 type: location
+heritage: 6.5
+vibrancy: 3.6
+nature: 3.2
+off_the_beaten_track: 2.8
 ---
 
 Devizes is a market town in the heart of Wiltshire, surrounded by chalk downland and sitting at a crossroads that has been important since the Normans built a castle here. The town's real draw is the Kennet and Avon Canal, which climbs through Devizes on the Caen Hill flight — a staircase of 29 locks rising 72 metres in just over three kilometres. Watching narrowboats work their way up the flight is mesmerising, and the towpath walk is one of the best in southern England.

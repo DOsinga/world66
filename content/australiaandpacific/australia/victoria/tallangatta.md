@@ -5,13 +5,17 @@ longitude: 147.176
 score: 5.4
 snippet: Small Lake Hume town rebuilt in the 1950s after its old site was flooded.
 sources:
-  - https://en.wikivoyage.org/wiki/Tallangatta
-  - https://en.wikipedia.org/wiki/Tallangatta
-  - https://www.wikidata.org/wiki/Q595043
-  - https://www.victorianplaces.com.au/tallangatta
+- https://en.wikivoyage.org/wiki/Tallangatta
+- https://en.wikipedia.org/wiki/Tallangatta
+- https://www.wikidata.org/wiki/Q595043
+- https://www.victorianplaces.com.au/tallangatta
 title: Tallangatta
 type: location
 wikidata: Q595043
+heritage: 3.0
+vibrancy: 1.9
+nature: 5.1
+off_the_beaten_track: 3.7
 ---
 
 Tallangatta is a small town on the Mitta Arm of Lake Hume in northeast [Victoria](/australiaandpacific/australia/victoria). Its odd claim to fame is that it moved. When the Hume Dam was enlarged in the 1950s, the old town site was flooded and Tallangatta was rebuilt several kilometres west on higher ground.

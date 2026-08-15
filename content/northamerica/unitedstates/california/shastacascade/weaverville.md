@@ -18,6 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Trinity_Lake
 title: Weaverville
 type: location
+heritage: 3.4
+vibrancy: 2.7
+nature: 5.5
+off_the_beaten_track: 3.3
 ---
 
 Weaverville is a small mountain town in Trinity County, about an hour west of Redding on Highway 299. It sits at around 2,000 feet in the Trinity Alps, surrounded by thick forest and clear rivers. The town has been here since the Gold Rush and still has the look of a well-preserved 19th-century mining settlement, with a compact historic downtown of brick and wood-frame buildings.

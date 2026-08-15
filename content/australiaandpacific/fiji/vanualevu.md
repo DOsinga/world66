@@ -14,6 +14,10 @@ title: Vanua Levu
 type: location
 snippet: Fiji's second-largest island, with rainforest interiors, Savusavu harbour,
   and notable diving along the south coast.
+heritage: 6.0
+vibrancy: 2.7
+nature: 7.2
+off_the_beaten_track: 5.5
 ---
 
 Vanua Levu is Fiji's second largest island, roughly half the size of Viti Levu but with a fraction of the tourists. If you want to see Fiji without the resort crowds, this is where to come. The island is lush and mountainous, with dense rainforest in the interior and some of the best diving in the South Pacific along its southern coast.

@@ -18,6 +18,10 @@ tags:
 - south_pennines
 title: Todmorden
 type: location
+heritage: 3.8
+vibrancy: 2.2
+nature: 5.2
+off_the_beaten_track: 2.8
 ---
 
 Todmorden sits at the far west of West Yorkshire, at a point where the county boundary with Lancashire once ran beneath the town's grand Italianate [town hall](/europe/unitedkingdom/england/yorkshire/todmorden/todmorden_town_hall) — a building that straddles two counties. Now part of [Calderdale](/europe/unitedkingdom/england/yorkshire/calderdale), the town occupies a steep Pennine valley where the River Calder and several tributaries meet, hemmed in by moorland that rises sharply from the mill-era terraces.

@@ -13,6 +13,10 @@ score: 6.5
 title: Tamanrasset
 snippet: Saharan town and Tuareg hub for Algeria's Hoggar Mountains and Assekrem plateau.
 type: location
+heritage: 4.9
+vibrancy: 1.9
+nature: 6.9
+off_the_beaten_track: 6.5
 ---
 
 Tamanrasset — usually just called "Tam" — is the main town of the deep Algerian Sahara, sitting at about 1,400 metres on the edge of the Hoggar Mountains. It is the travel hub of the south: the starting point for expeditions into the [Hoggar Mountains](/africa/algeria/tamanrasset/hoggar_mountains) volcanic plateau, the Tassili du Hoggar, and the ergs beyond.

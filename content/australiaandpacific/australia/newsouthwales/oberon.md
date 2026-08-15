@@ -17,6 +17,10 @@ sources:
 title: Oberon
 type: location
 wikidata: Q3348059
+heritage: 1.8
+vibrancy: 1.7
+nature: 5.2
+off_the_beaten_track: 4.5
 ---
 
 Oberon sits on the cold western side of the Blue Mountains, where the country opens into pine forest, trout streams, sheep paddocks, and high granite ridges. It is a practical little town rather than a polished resort, but the surrounding landscape gives it a stronger travel case than its size suggests.

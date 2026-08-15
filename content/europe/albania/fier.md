@@ -13,6 +13,10 @@ title: Fier
 type: location
 snippet: Southwestern Albanian city used as a base for Apolonia's ruins and the Monastery
   of Ardenica.
+heritage: 4.6
+vibrancy: 2.3
+nature: 5.0
+off_the_beaten_track: 5.5
 ---
 
 Fier is a mid-sized city in southwestern Albania, best known to travellers as the nearest town to the ancient ruins of [Apolonia](/europe/albania/apolonia) (about 12 km away) and the [Monastery of Ardenica](/europe/albania/fier/ardenica_monastery). The city itself is industrial and not a destination in its own right, but it is a practical base if you're combining visits to those two sites.

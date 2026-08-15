@@ -15,6 +15,10 @@ image: valdez.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Valdez,_Alaska_Harbor_Panorama.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Srvora at English Wikipedia
+heritage: 2.0
+vibrancy: 1.6
+nature: 7.3
+off_the_beaten_track: 5.2
 ---
 
 Valdez sits at the head of a deep fjord in Prince William Sound, boxed in by the Chugach Mountains and approached through one of Alaska's most dramatic road corridors. It is a working port, the southern terminus of the Trans-Alaska Pipeline, and a town whose modern story is marked by the 1964 earthquake and the 1989 Exxon Valdez oil spill.

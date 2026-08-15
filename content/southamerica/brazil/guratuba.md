@@ -10,6 +10,10 @@ snippet: Paraná coastal town where Atlantic beaches, Guaratuba Bay, mangroves, 
   forested hills meet.
 title: Guaratuba
 type: location
+heritage: 1.8
+vibrancy: 3.6
+nature: 6.7
+off_the_beaten_track: 2.4
 ---
 
 Guaratuba is a small coastal town in Paraná state, about 90 minutes from [Curitiba](/southamerica/brazil/curitiba) by car. It sits on the edge of a wide bay backed by well-preserved Atlantic Forest, making it a popular weekend escape for Curitibanos who want beach, boat rides, and quiet.

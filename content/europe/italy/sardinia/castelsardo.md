@@ -14,6 +14,10 @@ title: Castelsardo
 type: location
 snippet: Medieval Sardinian headland town climbing to a Doria castle above the Gulf
   of Asinara.
+heritage: 5.7
+vibrancy: 5.2
+nature: 7.5
+off_the_beaten_track: 4.0
 ---
 
 Castelsardo is a small medieval town on a dramatic headland in the northwest of Sardinia, about 30 km northeast of [Sassari](/europe/italy/sardinia/sassari). The old town climbs steeply up to a castle built by the Doria family in the 12th century, and the walk around the castle walls to the Cathedral of Sant'Antonio Abate is one of the best short urban walks on the island — views across the Gulf of Asinara are exceptional.

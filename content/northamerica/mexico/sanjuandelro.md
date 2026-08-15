@@ -13,6 +13,10 @@ snippet: Querétaro colonial city in a fertile valley, known for opal mining, ge
   and vineyards.
 title: San Juan del Río
 type: location
+heritage: 4.7
+vibrancy: 4.3
+nature: 5.5
+off_the_beaten_track: 2.8
 ---
 
 San Juan del Río is a colonial city of about 240,000 in the state of Querétaro, sitting in a fertile valley about an hour southeast of the state capital. It is one of Mexico's centers for opal mining and gem cutting — the region produces beautiful fire opals in shades of orange and red, and you can visit workshops and mines in the surrounding hills to watch the stones being extracted and polished. The prices are significantly better here than in tourist-oriented shops elsewhere in Mexico.

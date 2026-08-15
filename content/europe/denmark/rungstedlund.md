@@ -15,6 +15,10 @@ snippet: Coastal Danish estate north of Copenhagen, best known as Karen Blixen's
   home.
 title: Rungstedlund
 type: location
+heritage: 4.3
+vibrancy: 1.7
+nature: 2.7
+off_the_beaten_track: 2.1
 ---
 
 Rungstedlund is a historic estate on the coast of the Oresund, about 25 kilometres north of [Copenhagen](/europe/denmark/copenhagen) in the affluent suburb of Rungsted. It is best known as the lifelong home of Karen Blixen, the Danish author who wrote under the pen name Isak Dinesen and whose memoir "Out of Africa" became one of the most celebrated works of 20th-century travel writing.

@@ -9,6 +9,10 @@ snippet: Santa Clarita Valley community with Old West film history and the Walk 
   Western Stars.
 title: Newhall
 type: location
+heritage: 1.8
+vibrancy: 2.2
+nature: 2.1
+off_the_beaten_track: 1.2
 ---
 
 Newhall is a community in the Santa Clarita Valley, about 35 miles north of downtown [Los Angeles](/northamerica/unitedstates/california/losangeles) via Interstate 5. It is the oldest settlement in the Santa Clarita area and has a historic Main Street that retains some of its Old West character — fitting, since this area was a major filming location for early Western movies. The [Walk of Western Stars](/northamerica/unitedstates/california/newhall/walk_of_western_stars), embedded in the sidewalks along Main Street, honours actors and filmmakers who shaped the genre.

@@ -17,6 +17,10 @@ sources:
 - https://aroundus.com/p/11881390-grand-marche-de-maradi
 title: Maradi
 type: location
+heritage: 1.8
+vibrancy: 1.6
+nature: 2.6
+off_the_beaten_track: 7.1
 ---
 
 Maradi is Niger's great Hausa trading city, a hot, dusty, energetic place close to the Nigerian border and tied by commerce to [Kano](/africa/nigeria/kano), Katsina, and [Zinder](/africa/niger/zinder). It is the second-largest city in Niger, but it feels less like an administrative capital than a market organism: trucks, livestock, grain, textiles, and cross-border traders all feeding the same daily rhythm.

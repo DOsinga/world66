@@ -10,6 +10,10 @@ snippet: Syrian desert oasis city, once a wealthy caravan hub under Queen Zenobi
   and Roman colonnades.
 title: Palmyra
 type: location
+heritage: 8.1
+vibrancy: 1.5
+nature: 3.0
+off_the_beaten_track: 5.9
 ---
 
 Approaching Palmyra by road through the Syrian desert, you turn a corner and suddenly see a vast expanse of columns and arches rising from a green oasis. It is one of those moments that stops you cold.

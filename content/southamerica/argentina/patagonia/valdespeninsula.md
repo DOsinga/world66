@@ -13,6 +13,10 @@ image: valdespeninsula.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Robben-001.jpg
 image_license: CC BY-SA 2.0 de
 image_attribution: Reinhard Jahn, Mannheim (nanosmile)
+heritage: 5.1
+vibrancy: 1.6
+nature: 8.3
+off_the_beaten_track: 6.4
 ---
 
 Miles and miles of unspoiled beaches and some of the richest marine wildlife in South America -- that is what Valdes Peninsula offers. Since it is often too cold and windy to sunbathe, you are probably here to watch the animals, and on that front it delivers spectacularly.

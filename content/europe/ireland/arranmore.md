@@ -19,6 +19,10 @@ image: arranmore.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Arranmore,_Co._Donegal_(Aerial_2007).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Mike Knell
+heritage: 3.3
+vibrancy: 2.5
+nature: 6.2
+off_the_beaten_track: 5.4
 ---
 
 Arranmore is a Donegal island close enough for an easy ferry crossing, but far enough offshore to feel like a proper Atlantic escape. It is a Gaeltacht community, with Irish still part of daily life, and the mood is more working island than polished resort.

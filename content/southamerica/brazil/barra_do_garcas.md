@@ -5,11 +5,16 @@ loc_type: city
 latitude: -15.89
 longitude: -52.256667
 score: 7.0
-snippet: Araguaia River city of cerrado waterfalls, hot springs, river beaches, and UFO folklore.
+snippet: Araguaia River city of cerrado waterfalls, hot springs, river beaches, and
+  UFO folklore.
 sources:
-  - https://en.wikivoyage.org/wiki/Barra_do_Gar%C3%A7as
-  - https://en.wikipedia.org/wiki/Barra_do_Gar%C3%A7as
-  - https://turismo.barradogarcas.mt.gov.br/
+- https://en.wikivoyage.org/wiki/Barra_do_Gar%C3%A7as
+- https://en.wikipedia.org/wiki/Barra_do_Gar%C3%A7as
+- https://turismo.barradogarcas.mt.gov.br/
+heritage: 3.5
+vibrancy: 3.2
+nature: 6.0
+off_the_beaten_track: 5.5
 ---
 
 Barra do Garças sits where the Garças River meets the Araguaia, on the Mato Grosso side of the border with Goiás. It has the practical feel of a regional city, but the setting is the point: cerrado hills rise behind town, river beaches appear in the dry season, and waterfalls cut through Serra Azul State Park.

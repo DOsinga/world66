@@ -16,6 +16,10 @@ image: angers.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Angers_-_Logis_Barrault_(2).jpg
 image_license: CC BY-SA 3.0
 image_attribution: Selbymay
+heritage: 7.2
+vibrancy: 5.2
+nature: 4.4
+off_the_beaten_track: 1.6
 ---
 
 Angers sits on the banks of the Maine river, halfway between [Tours](/europe/france/loirevalley/tours) and [Nantes](/europe/france/normandybrittany/nantes), and it is one of the most rewarding cities in the Loire Valley. The medieval château of the Dukes of Anjou is the centrepiece — a fortress of seventeen towers enclosing the greatest medieval tapestry in the world, the 14th-century Tapestry of the Apocalypse — but Angers has more depth than a single monument.

@@ -14,6 +14,10 @@ title: Zug
 type: location
 snippet: Small Swiss lake city and prosperous canton, with a compact old town and
   cherry orchards.
+heritage: 4.8
+vibrancy: 3.6
+nature: 5.9
+off_the_beaten_track: 1.4
 ---
 
 Zug is one of Switzerland's smallest cantons and its most prosperous. The city sits on the northeastern shore of Lake Zug, with the Alps rising clearly to the south and the rolling hills of the Mittelland stretching north. It is wealthy in a quiet, understated way — low taxes have drawn banks, commodity traders, and pharmaceutical companies here for decades — but the old town along the lake still feels like the medieval market settlement it once was.

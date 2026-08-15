@@ -5,11 +5,16 @@ loc_type: city
 latitude: 67.1083
 longitude: 27.5167
 score: 6.9
-snippet: Sparse Lapland municipality of preserved river villages, aapa mires, and Winter War memory.
+snippet: Sparse Lapland municipality of preserved river villages, aapa mires, and
+  Winter War memory.
 sources:
-  - https://en.wikivoyage.org/wiki/Pelkosenniemi
-  - https://en.wikipedia.org/wiki/Pelkosenniemi
-  - https://en.wikipedia.org/wiki/Kairala,_Pelkosenniemi
+- https://en.wikivoyage.org/wiki/Pelkosenniemi
+- https://en.wikipedia.org/wiki/Pelkosenniemi
+- https://en.wikipedia.org/wiki/Kairala,_Pelkosenniemi
+heritage: 2.2
+vibrancy: 1.1
+nature: 7.6
+off_the_beaten_track: 5.0
 ---
 
 Pelkosenniemi is a very small place in central [Finnish Lapland](/europe/finland/lapland), where the Kitinen River, old villages, open mires, and war history matter more than the parish centre itself. Many travellers pass through on the way to [Pyhä](/europe/finland/lapland/pyha), but the municipality has enough of its own texture to reward a slow day.

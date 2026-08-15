@@ -13,6 +13,10 @@ image: redrockcanyon.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Red_Rock_Canyon,_Nevada_-_Aerial_(49394827296).jpg
 image_license: CC BY-SA 2.0
 image_attribution: formulanone
+heritage: 1.6
+vibrancy: 1.3
+nature: 7.1
+off_the_beaten_track: 2.7
 ---
 
 Red Rock Canyon National Conservation Area lies just 17 miles west of the Las Vegas Strip, a striking landscape of red and cream sandstone formations rising from the Mojave Desert. The 13-mile scenic loop drive is the easiest way to take it in, with pull-offs at viewpoints and trailheads along the way.

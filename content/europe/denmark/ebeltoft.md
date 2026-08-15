@@ -14,6 +14,10 @@ image: ebeltoft.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ebeltoft_Adelgade.jpg
 image_license: CC BY 4.0
 image_attribution: Corradox
+heritage: 4.8
+vibrancy: 2.6
+nature: 4.2
+off_the_beaten_track: 2.0
 ---
 
 Ebeltoft is one of Denmark's prettiest small harbour towns, tucked into the Djursland peninsula east of [Aarhus](/europe/denmark/aarhus). Its old centre is all crooked cobbles, half-timbered houses, hollyhocks, and low merchant buildings, with the sea never far away.

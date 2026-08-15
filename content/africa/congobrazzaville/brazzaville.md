@@ -23,6 +23,10 @@ tip: Brazzaville is the calmer of the two capitals staring at each other across 
   is essential, and a ferry — when running — links the two capitals in minutes.
 title: Brazzaville
 type: location
+heritage: 3.8
+vibrancy: 3.8
+nature: 4.7
+off_the_beaten_track: 6.0
 ---
 
 Brazzaville sits on the western shore of Malebo Pool, the vast widening of the Congo River, directly across the water from Kinshasa. It is one of only two national capitals in the world that face each other across a river. Compared to its enormous neighbour, Brazzaville is smaller, quieter, and considerably more relaxed.

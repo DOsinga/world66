@@ -14,6 +14,10 @@ snippet: Central Florida town among citrus groves and lakes, best known for Bok 
   Gardens.
 title: Lake Wales
 type: location
+heritage: 4.1
+vibrancy: 2.4
+nature: 4.7
+off_the_beaten_track: 1.7
 ---
 
 Lake Wales sits in the rolling hills of central Florida's Polk County, surrounded by the citrus groves and lake-dotted landscape that defined this part of the state long before the theme parks arrived to the north. The town's main draw is [Bok Tower Gardens](/northamerica/unitedstates/florida/lake_wales/bok_tower_gardens), where a 205-foot Art Deco carillon tower rises from Iron Mountain — one of the highest points on the Florida peninsula — set in a Frederick Law Olmsted Jr.-designed garden that's genuinely peaceful.

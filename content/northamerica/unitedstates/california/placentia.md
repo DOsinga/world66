@@ -14,6 +14,10 @@ snippet: Orange County suburb with Valencia orange roots and historic ranch hous
   from California’s citrus era.
 title: Placentia
 type: location
+heritage: 1.7
+vibrancy: 2.2
+nature: 2.0
+off_the_beaten_track: 1.2
 ---
 
 Placentia is a small suburban city in Orange County, California, southeast of Los Angeles, with a population of around 50,000. The name comes from the Latin for "a pleasant place," bestowed in 1879.

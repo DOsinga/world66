@@ -14,6 +14,10 @@ image: palmdale.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Palmdale,_CA.jpg
 image_license: CC0
 image_attribution: G-BDXH
+heritage: 1.6
+vibrancy: 2.9
+nature: 4.3
+off_the_beaten_track: 1.7
 ---
 
 Palmdale is a desert city in the Antelope Valley, north of [Los Angeles](/northamerica/unitedstates/california/losangeles) and separated from the basin by the San Gabriel Mountains. It is spread out, car-oriented, and not especially romantic at first glance, but it has one real claim to fame: aerospace. Military aircraft have been built, tested, and watched from here for decades.

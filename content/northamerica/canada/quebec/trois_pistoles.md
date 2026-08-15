@@ -5,10 +5,15 @@ loc_type: city
 latitude: 48.1215
 longitude: -69.1768
 score: 6.2
-snippet: Small Bas-Saint-Laurent river town with literary ties, sea kayaking, and a big parish church.
+snippet: Small Bas-Saint-Laurent river town with literary ties, sea kayaking, and
+  a big parish church.
 sources:
-  - https://en.wikivoyage.org/wiki/Trois-Pistoles
-  - https://en.wikipedia.org/wiki/Trois-Pistoles
+- https://en.wikivoyage.org/wiki/Trois-Pistoles
+- https://en.wikipedia.org/wiki/Trois-Pistoles
+heritage: 4.1
+vibrancy: 2.6
+nature: 5.5
+off_the_beaten_track: 4.6
 ---
 
 Trois-Pistoles is a small town on the south shore of the St. Lawrence, in Quebec's Bas-Saint-Laurent region. It is best known outside Quebec for its French immersion program, but the town is more than a summer classroom.

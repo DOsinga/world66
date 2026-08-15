@@ -16,6 +16,10 @@ image: pipestone.jpg
 image_source: https://commons.wikimedia.org/wiki/File:MainPipestoneMN.jpg
 image_license: GFDL 1.2
 image_attribution: Jonathunder
+heritage: 3.5
+vibrancy: 1.6
+nature: 3.3
+off_the_beaten_track: 2.4
 ---
 
 Pipestone is a small prairie town in far southwestern Minnesota, but it has more weight than its size suggests. Its name comes from the red pipestone, or catlinite, quarried just north of town for ceremonial pipes by Indigenous peoples from across North America.

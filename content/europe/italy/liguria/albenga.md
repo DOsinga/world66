@@ -17,6 +17,10 @@ tags:
 - rivieradellepalme
 title: Albenga
 type: location
+heritage: 4.6
+vibrancy: 4.1
+nature: 5.3
+off_the_beaten_track: 1.8
 ---
 
 Albenga has one of the best-preserved medieval centres on the Ligurian coast. Founded as a Roman town on the [Via Julia Augusta](/europe/italy/liguria/albenga/viajuliaaugusta), it retains its compact layout of narrow streets and towers — a miniature version of the kind of urban fabric you find in [Genoa](/europe/italy/liguria/genoa), but quieter and easier to explore.

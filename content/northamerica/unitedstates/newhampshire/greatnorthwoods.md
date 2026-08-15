@@ -8,6 +8,10 @@ score: 6.94
 loc_type: feature
 snippet: Northern New Hampshire forest region near Canada, centred on Colebrook, Pittsburg,
   and the Connecticut Lakes.
+heritage: 2.5
+vibrancy: 0.9
+nature: 8.0
+off_the_beaten_track: 5.6
 ---
 
 The Great North Woods is the name given to the northernmost region of New Hampshire, stretching up to the Canadian border and the borders with Vermont and Maine. About 84% of the state is forested today, and nowhere does the forest dominate the landscape more completely than here.

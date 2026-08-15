@@ -6,6 +6,10 @@ latitude: 52.8615
 longitude: 9.5926
 score: 0.34
 snippet: Luneberg Heath town known for a world-class bird park and old heathland museums.
+heritage: 2.9
+vibrancy: 2.1
+nature: 5.6
+off_the_beaten_track: 2.1
 ---
 
 Walsrode is a small town on the Luneberg Heath, roughly between Hannover, Bremen, and Hamburg. The centre is pleasant enough, with an old abbey quarter and a local museum, but the reason travellers notice the name is Weltvogelpark Walsrode, one of Europe's great bird parks.

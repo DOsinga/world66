@@ -15,6 +15,10 @@ image: puycelsi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:MaisonPuycelsi.jpg
 image_license: CC BY-SA 2.0 fr
 image_attribution: KaTeznik
+heritage: 5.8
+vibrancy: 2.1
+nature: 3.8
+off_the_beaten_track: 3.0
 ---
 
 Puycelsi is a fortified hill village in the Tarn, perched above the Vère valley and the vast Grésigne forest. It is small, but it has the old southern French trick of making a short walk feel like an arrival: ramparts, stone lanes, tiled roofs, and long views over woodland.

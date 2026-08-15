@@ -3,15 +3,19 @@ title: Tamworth
 type: location
 loc_type: city
 latitude: -31.0927
-longitude: 150.9320
+longitude: 150.932
 score: 7.1
 snippet: New England regional city known as Australia's country music capital.
 wikidata: Q1434796
 sources:
-  - https://en.wikivoyage.org/wiki/Tamworth_(New_South_Wales)
-  - https://www.wikidata.org/wiki/Q1434796
-  - https://en.wikipedia.org/wiki/Tamworth,_New_South_Wales
-  - https://www.tamworthregion.com.au/explore/tamworth/
+- https://en.wikivoyage.org/wiki/Tamworth_(New_South_Wales)
+- https://www.wikidata.org/wiki/Q1434796
+- https://en.wikipedia.org/wiki/Tamworth,_New_South_Wales
+- https://www.tamworthregion.com.au/explore/tamworth/
+heritage: 4.0
+vibrancy: 4.4
+nature: 3.1
+off_the_beaten_track: 1.9
 ---
 
 Tamworth is the big inland city of northern New South Wales' New England country, and it has one identity that travels far beyond the region: country music. For most of the year it is a practical regional centre on the Peel River. In January, during the Tamworth Country Music Festival, it becomes Australia's main stage for country, folk, buskers, awards nights, and people in wide-brimmed hats.

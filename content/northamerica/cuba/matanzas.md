@@ -14,6 +14,10 @@ snippet: Cuban bay city and former sugar port, known for Afro-Cuban music and 19
   theatre.
 title: Matanzas
 type: location
+heritage: 5.5
+vibrancy: 3.9
+nature: 4.3
+off_the_beaten_track: 3.4
 ---
 
 Matanzas is the capital of Matanzas province, about 90 kilometres east of Havana and 30 minutes from [Varadero](/northamerica/cuba/varadero). The city sits on a [deep bay](/northamerica/cuba/matanzas/bahia_de_matanzas) where three rivers meet and was once a prosperous sugar port; its 19th-century wealth is still visible in the [Teatro Sauto](/northamerica/cuba/matanzas/teatro_sauto), one of the finest small opera houses in the Americas, and in the [Palacio de Junco](/northamerica/cuba/matanzas/museo_historico_provincial) that now houses the provincial history museum.

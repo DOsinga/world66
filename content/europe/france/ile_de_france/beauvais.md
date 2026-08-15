@@ -19,6 +19,10 @@ image: beauvais.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Beauvais_Cathedral_Exterior_1,_Picardy,_France_-_Diliff.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Diliff
+heritage: 6.9
+vibrancy: 3.2
+nature: 2.6
+off_the_beaten_track: 2.3
 ---
 
 Most visitors arrive in Beauvais by budget airline and leave on the next bus to Paris, never quite intending to stop. That's a mistake. The city has one genuinely extraordinary thing — the Cathédrale Saint-Pierre de Beauvais — and it is among the most remarkable buildings in France.

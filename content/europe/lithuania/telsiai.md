@@ -15,6 +15,10 @@ image: telsiai.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Panorama_of_Tel%C5%A1iai_centre.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Zidikai1
+heritage: 5.7
+vibrancy: 3.1
+nature: 5.1
+off_the_beaten_track: 2.4
 ---
 
 Telšiai is the unofficial capital of Samogitia, the stubborn western Lithuanian region with its own dialect, flag, and bear symbol. The town sits on low hills above Lake Mastis, and its centre is compact enough to see on foot without turning the day into a route march.

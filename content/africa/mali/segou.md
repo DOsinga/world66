@@ -15,6 +15,10 @@ snippet: Niger River city and historic Bambara capital known for woven textiles 
   slow riverfront life.
 title: Segou
 type: location
+heritage: 4.9
+vibrancy: 3.7
+nature: 5.7
+off_the_beaten_track: 6.1
 ---
 
 Segou is the historic capital of the Bambara people, a calm, tree-lined city of about 65,000 on the banks of the Niger River, some 235 kilometres northeast of [Bamako](/africa/mali/bamako). After the dust and congestion of the capital, Segou feels like a deep breath — wide streets, friendly people, and a pace of life that invites you to slow down.

@@ -5,9 +5,14 @@ loc_type: city
 latitude: 47.423333
 longitude: -120.325278
 score: 7.3
-snippet: Sunny Columbia River city known for apples, basalt hills, gardens, and Cascade access.
+snippet: Sunny Columbia River city known for apples, basalt hills, gardens, and Cascade
+  access.
 sources:
-  - https://en.wikivoyage.org/wiki/Wenatchee
+- https://en.wikivoyage.org/wiki/Wenatchee
+heritage: 3.2
+vibrancy: 2.7
+nature: 5.9
+off_the_beaten_track: 1.8
 ---
 
 Wenatchee sits where the Wenatchee River meets the Columbia, on the sunny side of the Cascades. It calls itself the Apple Capital of the World, and the orchards are not just branding: fruit stands, packing houses, and dry hills around town shape the place.

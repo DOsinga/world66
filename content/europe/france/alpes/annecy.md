@@ -24,6 +24,10 @@ tip: Annecy's old town is laced with canals around a turquoise lake said to be a
   to Geneva or Chamonix.
 title: Annecy
 type: location
+heritage: 5.6
+vibrancy: 5.7
+nature: 5.4
+off_the_beaten_track: 1.9
 ---
 
 Annecy sits at the northern tip of [Lake Annecy](/europe/france/alpes/annecy/lake_annecy), ringed by mountains that still carry snow well into spring. The [old town](/europe/france/alpes/annecy/vieille_ville) is built around a canal that runs from the lake through cobbled streets lined with pastel-coloured houses — locals call it the Venice of the Alps, and for once the comparison is not entirely absurd.

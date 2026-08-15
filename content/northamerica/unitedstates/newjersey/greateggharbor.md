@@ -12,6 +12,10 @@ title: Great Egg Harbor
 type: location
 snippet: Pinelands river destination in southern New Jersey, protected for paddling,
   wetlands, and rare wildlife habitat.
+heritage: 2.0
+vibrancy: 2.4
+nature: 4.0
+off_the_beaten_track: 1.8
 ---
 
 The Great Egg Harbor River is one of the best [paddling destinations](/northamerica/unitedstates/newjersey/greateggharbor/great_egg_harbor_river_paddling) in New Jersey, running through the heart of the Pinelands Reserve on its way to the Atlantic Ocean. A National Wild and Scenic River since 1992, it passes through undisturbed freshwater and tidal wetlands that support a surprising array of wildlife given the population density of southern New Jersey.

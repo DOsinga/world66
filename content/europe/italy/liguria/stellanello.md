@@ -12,6 +12,10 @@ tags:
 - rivieradellepalme
 title: Stellanello
 type: location
+heritage: 1.7
+vibrancy: 1.6
+nature: 6.6
+off_the_beaten_track: 3.3
 ---
 
 Stellanello is a small hill village above the Riviera delle Palme, perched in the mountains between Capo Mele and Capo Cervo. It is a quiet, largely agricultural place where olives are pressed into oil and peaches are grown in the valley patches. In the twelfth century it was a fief of the Del Carretto family, later passing to the Doria; it had its own statutes as early as 1305.

@@ -13,6 +13,10 @@ snippet: Karoo ostrich town whose feather boom left grand sandstone palaces in a
   valley.
 title: Oudtshoorn
 type: location
+heritage: 4.9
+vibrancy: 4.9
+nature: 6.3
+off_the_beaten_track: 4.4
 ---
 
 Oudtshoorn built its wealth on ostrich feathers. In the early twentieth century, when European fashion demanded feathers for hats and boas, this Karoo town boomed so spectacularly it earned the name "Feather Capital of the World." The legacy is visible in the [feather palaces](/africa/southafrica/oudtshoorn/feather_palaces) that the ostrich barons built — absurdly grand sandstone houses in a semi-desert town. The [CP Nel Museum](/africa/southafrica/oudtshoorn/cp_nel_museum) covers the whole strange story well.

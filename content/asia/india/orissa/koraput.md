@@ -5,14 +5,19 @@ loc_type: city
 latitude: 18.8135
 longitude: 82.7123
 score: 7.05
-snippet: Eastern Ghats town with tribal culture, forest roads, waterfalls, and Odisha's highest peak nearby.
+snippet: Eastern Ghats town with tribal culture, forest roads, waterfalls, and Odisha's
+  highest peak nearby.
 wikidata: Q2090260
 sources:
-  - https://en.wikivoyage.org/wiki/Koraput
-  - https://en.wikipedia.org/wiki/Koraput
-  - https://www.wikidata.org/wiki/Q2090260
-  - https://www.incredibleindia.gov.in/en/trips/trip-listing/four-days-of-awe-koraput-expedition
-  - https://odishatourism.gov.in/content/tourism/en/blog-details/koraput-a-cornucopia-of-majestic-hills-and-waterfalls-culture-and-aromatic-coffee.html
+- https://en.wikivoyage.org/wiki/Koraput
+- https://en.wikipedia.org/wiki/Koraput
+- https://www.wikidata.org/wiki/Q2090260
+- https://www.incredibleindia.gov.in/en/trips/trip-listing/four-days-of-awe-koraput-expedition
+- https://odishatourism.gov.in/content/tourism/en/blog-details/koraput-a-cornucopia-of-majestic-hills-and-waterfalls-culture-and-aromatic-coffee.html
+heritage: 4.0
+vibrancy: 1.2
+nature: 6.9
+off_the_beaten_track: 6.4
 ---
 
 Koraput is a hill town in southern [Odisha](/asia/india/orissa), close to the borders with Andhra Pradesh and Chhattisgarh. The town itself is a practical base rather than a beauty spot, but the surrounding country is one of Odisha's strongest inland travel areas: forested roads, Adivasi culture, broad reservoirs, waterfalls, and high Eastern Ghats scenery.

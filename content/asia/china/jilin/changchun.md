@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Changchun
 title: Changchun
 type: location
+heritage: 2.5
+vibrancy: 3.3
+nature: 2.9
+off_the_beaten_track: 1.2
 ---
 
 Changchun is Jilin's capital, and its history is stranger and more layered than almost any city in northeast China. From 1932 to 1945 it was Hsinking, the capital of Manchukuo — the Japanese puppet state — and the seat of Puyi, China's last emperor, who nominally ruled under Japanese supervision while having no real power at all. The [Museum of the Imperial Palace of Manchukuo](/asia/china/jilin/changchun/manchukuo_imperial_palace) sits where Puyi lived and worked, and it is one of the most sobering colonial-era sites in China: the buildings are grand in a peculiar hybrid Japanese-Chinese neoclassical style, and the exhibits document both the theatre of imperial pretension and the brutal reality underneath it. The [Eight Former Manchukuo Government Buildings](/asia/china/jilin/changchun/eight_grand_ministries), repurposed as university campuses after 1949, are scattered around the city and easy to stumble across.

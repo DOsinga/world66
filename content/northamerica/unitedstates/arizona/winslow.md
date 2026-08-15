@@ -17,6 +17,10 @@ image: winslow.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gym_Lous_Winslow_Theater_Winslow_AZ_2026-04-06_12-28-46.jpg
 image_license: CC BY 4.0
 image_attribution: G. Edward Johnson
+heritage: 5.4
+vibrancy: 1.7
+nature: 5.5
+off_the_beaten_track: 3.3
 ---
 
 Winslow is a Route 66 town in northern Arizona, east of Flagstaff and close to the edge of Hopi country. It is famous for one line in an Eagles song, but the better reason to stop is the mix behind the photo: Santa Fe Railway history, Fred Harvey architecture, desert light, and archaeological sites just outside town.

@@ -14,6 +14,10 @@ snippet: Rocky Hainan peninsula near Sanya, named for a Li deer legend and crown
   by sunset viewpoints.
 title: Luhuitou
 type: location
+heritage: 2.7
+vibrancy: 1.7
+nature: 8.2
+off_the_beaten_track: 3.5
 ---
 
 Luhuitou is a small rocky peninsula on the southern tip of Hainan Island, just outside Sanya. The name means "deer turning its head" and comes from a local Li legend: a young hunter chased a deer to the edge of a cliff, where it transformed into a beautiful woman. A statue of the moment stands at the entrance to Luhuitou Park, which covers the forested hilltop of the peninsula. A small herd of Hainan deer — the island's native species — lives in the park grounds.

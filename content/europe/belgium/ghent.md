@@ -15,6 +15,10 @@ snippet: Historic Belgian city with medieval towers, canals, lively student life
   and the van Eyck Ghent Altarpiece.
 title: Ghent
 type: location
+heritage: 6.8
+vibrancy: 5.8
+nature: 2.5
+off_the_beaten_track: 1.4
 ---
 
 Ghent was one of the biggest cities in Western Europe at the end of the Middle Ages. Today it is the third biggest city of Belgium and one of the most beautiful ones. Nearby [Bruges](/europe/belgium/bruges) may be cuter, but Ghent is more of a real city, with better museums, better nightlife and restaurants, and far fewer tourist crowds.

@@ -14,6 +14,10 @@ sources:
 - https://travelwrangell.com/petroglyph-beach
 title: Wrangell
 type: location
+heritage: 6.3
+vibrancy: 1.9
+nature: 7.5
+off_the_beaten_track: 5.6
 ---
 
 Wrangell is one of Alaska's oldest and least-visited towns, sitting on the northern tip of Wrangell Island in the Inside Passage. It is the only place in Alaska to have flown three flags — Russian, British, and American — and it was built on land the Tlingit people had occupied for centuries before any of them arrived. The [Stikine River](/northamerica/unitedstates/alaska/wrangell/stikine_river), one of the fastest-flowing navigable rivers in North America, empties into the sea nearby and provides access deep into the wilderness interior of British Columbia.

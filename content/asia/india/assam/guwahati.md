@@ -14,6 +14,10 @@ title: Guwahati
 type: location
 snippet: Brahmaputra river city and northeast India's gateway, anchored by the hilltop
   Kamakhya Temple.
+heritage: 4.1
+vibrancy: 5.4
+nature: 4.0
+off_the_beaten_track: 2.4
 ---
 
 Guwahati sprawls along the southern bank of the Brahmaputra at the point where the great river narrows between the Khasi hills and the Himalayan foothills. It is the largest city in northeast India, the gateway through which nearly every traveller bound for Assam, Meghalaya, Arunachal Pradesh, Nagaland, Manipur or Mizoram has to pass — and a destination in its own right, with a Tantric pilgrimage shrine that draws several million people a year and a working river port still active with country boats.

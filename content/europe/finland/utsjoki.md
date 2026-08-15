@@ -16,6 +16,10 @@ sources:
 title: Utsjoki
 type: location
 wikidata: Q581920
+heritage: 3.7
+vibrancy: 0.9
+nature: 7.8
+off_the_beaten_track: 6.8
 ---
 
 Utsjoki is Finland's northernmost municipality and one of the few places in the country where Sami culture is not a museum subject but daily life. The village sits on the Teno River, with Norway directly across the water and treeless fells rising behind the houses.

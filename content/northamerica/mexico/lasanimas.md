@@ -10,6 +10,10 @@ image: lasanimas.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Paseo_de_las_%C3%A1nimas_01.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Giovanny Gonzalez
+heritage: 4.4
+vibrancy: 4.2
+nature: 4.6
+off_the_beaten_track: 3.7
 ---
 
 Las Ánimas is a small beach village on the southern shore of Banderas Bay, reachable only by boat. There is no road in: water taxis run from Boca de Tomatlán roughly every half hour through the day, and the 15-minute crossing past jungle-covered headlands is half the appeal. The beach is a long stretch of soft white sand backed by a line of palapa restaurants serving grilled fish and cold beer, with calm water that is gentle enough for kids.

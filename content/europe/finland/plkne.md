@@ -10,6 +10,10 @@ snippet: Small Finnish lakeside municipality near Tampere, shaped by Pälkäneve
   Mallasvesi, and Great Northern War history.
 title: Pälkäne
 type: location
+heritage: 3.1
+vibrancy: 2.1
+nature: 4.7
+off_the_beaten_track: 2.1
 ---
 
 Pälkäne is a small lakeside municipality in the [Tampere](/europe/finland/tampere) region of southern Finland, with around 4,300 inhabitants. The landscape is dominated by lakes — [Pälkänevesi and Mallasvesi](/europe/finland/plkne/palkane_lakes) are the largest — connected by the Kostianvirta channel, which formed suddenly in 1604 when the water broke through between the two lake basins.

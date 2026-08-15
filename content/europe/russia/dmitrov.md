@@ -14,6 +14,10 @@ image: dmitrov.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Dmitrov_Nikolskye_Gate_2023-09-23_8697.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Mike1979 Russia
+heritage: 2.6
+vibrancy: 2.3
+nature: 3.6
+off_the_beaten_track: 2.2
 ---
 
 Dmitrov is one of the older towns north of [Moscow](/europe/russia/moscow), founded in the 12th century and still arranged around a walkable historic core. It does not have the spectacle of [Sergiev Posad](/europe/russia/sergievposad), but it has enough for a good day: kremlin earthworks, churches, a monastery, small museums, and the last home of anarchist thinker Peter Kropotkin.

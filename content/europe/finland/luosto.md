@@ -17,6 +17,10 @@ image: luosto.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Outalampi_at_Luosto,_Sodankyl%C3%A4,_Lapland,_Finland,_2021_September.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Ximonic (Simo Räsänen)
+heritage: 2.5
+vibrancy: 1.0
+nature: 7.9
+off_the_beaten_track: 6.0
 ---
 
 Luosto is a small fell resort in Finnish Lapland, about 70 kilometres south of Kemijärvi and right against Pyhä-Luosto National Park. It is a quiet place, more forest and snow than village, with a handful of hotels and cabins gathered below the slopes of Luostotunturi.

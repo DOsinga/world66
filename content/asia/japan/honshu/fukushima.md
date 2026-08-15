@@ -17,6 +17,10 @@ image: fukushima.jpg
 image_source: https://commons.wikimedia.org/wiki/File:20100418%E8%8A%B1%E8%A6%8B%E5%B1%B1%E5%85%AC%E5%9C%92%E5%85%A8%E6%99%AF.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Original uploader was BehBeh at ja.wikipedia
+heritage: 4.7
+vibrancy: 4.8
+nature: 3.0
+off_the_beaten_track: 2.8
 ---
 
 Fukushima is a modest Tohoku capital in a broad inland basin, better known to many travellers for the prefecture's name than for the city itself. That is a shame. The city has spring flower hills, old onsen towns, a good art museum, volcanic scenery on its western edge, and orchards that make peaches feel like a civic obsession.

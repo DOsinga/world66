@@ -14,6 +14,10 @@ snippet: Historic Telangana city of Kakatiya temples, carved pillars, and the ru
   fort of a Deccan capital.
 title: Warangal
 type: location
+heritage: 6.3
+vibrancy: 4.2
+nature: 2.5
+off_the_beaten_track: 4.0
 ---
 
 Warangal is the most important historic city in the Telangana region, once the capital of the Kakatiya dynasty that ruled much of the Deccan from the 12th to 14th centuries. The Kakatiyas were devoted Shaivites, and the temples they built — particularly at Ramappa and Hanamkonda — are among the finest examples of medieval South Indian architecture, with intricately carved pillars and bracket figures that rival anything in Karnataka or Tamil Nadu.

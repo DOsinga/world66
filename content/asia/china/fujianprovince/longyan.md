@@ -15,6 +15,10 @@ type: location
 score: 6.62
 snippet: Western Fujian city and Hakka gateway to Yongding's earthen Tulou roundhouses
   and villages.
+heritage: 3.0
+vibrancy: 2.1
+nature: 5.3
+off_the_beaten_track: 3.4
 ---
 
 Longyan is a mid-sized inland city in western Fujian, the principal urban centre of Hakka-speaking territory and the most practical gateway to the Tulou clusters of Yongding County. It is not a polished tourist destination — English is rarely spoken, sights are limited, and the city has the functional character of a regional administrative hub rather than a travel showcase — but that is also part of its appeal for visitors who want to see non-coastal Chinese urban life without the tourist infrastructure that now smothers most heritage sites.

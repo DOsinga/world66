@@ -14,6 +14,10 @@ snippet: Tiny Saharan village below the Erg Chebbi dunes, known for Gnawa music 
   desert-edge life
 title: Khamlia
 type: location
+heritage: 4.2
+vibrancy: 1.6
+nature: 7.4
+off_the_beaten_track: 6.6
 ---
 
 Khamlia is a tiny Saharan village about 7 km south of Merzouga, sitting in the shadow of the Erg Chebbi dunes — the great sea of orange sand that rises to over 150 metres on Morocco's eastern edge. The village is small: around 30 households, a few hundred people, a handful of small shops and a school. Life here moves slowly, and that is much of the point.

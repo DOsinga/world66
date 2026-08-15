@@ -15,6 +15,10 @@ snippet: Modern Greek city beside ancient Corinth's ruins and the fortress rock 
   Acrocorinth.
 title: Corinth
 type: location
+heritage: 7.2
+vibrancy: 4.0
+nature: 3.8
+off_the_beaten_track: 2.1
 ---
 
 Ancient Corinth was one of the most powerful cities in the Greek world — a wealthy trading hub that sat astride the narrow isthmus connecting mainland Greece to the Peloponnese. Today's city is a modern Greek town rebuilt after a devastating earthquake in 1928, pleasant but unremarkable. What draws visitors is the archaeology: the [Ancient Corinth archaeological zone](/europe/greece/corinth/ancient_corinth_site) with its seven surviving Doric columns of the [Temple of Apollo](/europe/greece/corinth/temple_of_apollo), the [Fountain of Peirene](/europe/greece/corinth/fountain_of_peirene) where Bellerophon is said to have caught Pegasus, and above all the great rock fortress of [Acrocorinth](/europe/greece/corinth/acrocorinth) looming over everything.

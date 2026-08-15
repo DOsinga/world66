@@ -14,6 +14,10 @@ snippet: Historic Castilla y León city that served as Spain's early 17th-centur
   capital.
 title: Valladolid
 type: location
+heritage: 7.8
+vibrancy: 4.8
+nature: 3.5
+off_the_beaten_track: 2.1
 ---
 
 Valladolid is the de facto capital of Castilla y León and one of the great historic cities of Spain's central plateau. It served as the capital of the Spanish Empire under Philip III in the early 17th century, and both Columbus and [Cervantes](/europe/spain/centralspain/valladolid/casa_de_cervantes) lived here. The city still carries that weight — grand plazas, ornate churches, and the imposing [National Museum of Sculpture](/europe/spain/centralspain/valladolid/national_museum_of_sculpture) housed in the Colegio de San Gregorio, one of the finest examples of Isabelline Gothic in the country.

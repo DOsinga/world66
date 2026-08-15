@@ -13,6 +13,10 @@ snippet: Green Coast port town used as the boat gateway to Ilha Grande and islan
   bays.
 title: Angra dos Reis
 type: location
+heritage: 2.8
+vibrancy: 5.1
+nature: 7.7
+off_the_beaten_track: 2.2
 ---
 
 Angra dos Reis sits on a spectacular stretch of Brazil's Green Coast, surrounded by hundreds of islands and countless beaches. The town itself is not the main attraction — it is the jumping-off point for [Ilha Grande](/southamerica/brazil/ilhagrande) and the dozens of smaller islands scattered across the bay, many of them fringed with white sand and accessible only by boat.

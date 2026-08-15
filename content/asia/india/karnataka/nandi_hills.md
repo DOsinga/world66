@@ -15,6 +15,10 @@ image: nandi_hills.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Nandi_Hills_Trekking_Path.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Wise Droid
+heritage: 3.7
+vibrancy: 4.1
+nature: 5.3
+off_the_beaten_track: 2.4
 ---
 
 Nandi Hills is the classic early-morning escape from [Bangalore](/asia/india/karnataka/bangalore): a steep, fortified hill station where the plains fall away into mist, wind, and sunrise light. It is close enough for a half-day trip, but it has more identity than a simple viewpoint.

@@ -14,6 +14,10 @@ snippet: North Iceland town at the head of Eyjafjörður, base for Mývatn and A
   culture.
 title: Akureyri
 type: location
+heritage: 3.5
+vibrancy: 4.7
+nature: 7.7
+off_the_beaten_track: 3.1
 ---
 
 Akureyri is Iceland’s second-largest town, known to Icelanders as the Capital of the North. It sits at the head of Eyjafjörður, the longest fjord in Iceland, about 380 km by road from Reykjavík — though a short domestic flight makes it easily accessible. Despite having only around 20,000 people, Akureyri has a disproportionately active cultural life: the [Akureyri Art Museum](/europe/iceland/akureyri/akureyri_art_museum), the [Akureyri Museum](/europe/iceland/akureyri/akureyri_museum), a [botanical garden](/europe/iceland/akureyri/akureyri_botanical_garden) (at 65°N, one of the world’s most northerly), and a theatre company that runs through the winter.

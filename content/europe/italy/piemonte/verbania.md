@@ -13,6 +13,10 @@ image: verbania.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Botanical_gardens,_Villa_Taranto.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Dolly442
+heritage: 4.5
+vibrancy: 4.1
+nature: 7.2
+off_the_beaten_track: 2.0
 ---
 
 Verbania is the main town on the western shore of [Lake Maggiore](/europe/italy/lake_maggiore), a merger of several old settlements — principally Pallanza and Intra — that together make up the largest municipality on the Italian part of the lake. Pallanza, on a gentle promontory facing the [Borromean Islands](/europe/italy/piemonte/borromeanislands), is the more graceful half: Liberty-style villas, a lakefront promenade, and a wide piazza give it the unhurried feel of a classic Italian resort.

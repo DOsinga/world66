@@ -6,12 +6,17 @@ latitude: 49.7833
 longitude: 22.7667
 wikidata: Q208473
 score: 7.4
-snippet: Historic Polish frontier city on the San River, ringed by Austro-Hungarian fortress ruins.
+snippet: Historic Polish frontier city on the San River, ringed by Austro-Hungarian
+  fortress ruins.
 sources:
-  - https://en.wikivoyage.org/wiki/Przemy%C5%9Bl
-  - https://visit.przemysl.pl/en/
-  - https://podkarpackie.travel/en/product/przemysl-fortress
-  - https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/poland-travel-advisory.html
+- https://en.wikivoyage.org/wiki/Przemy%C5%9Bl
+- https://visit.przemysl.pl/en/
+- https://podkarpackie.travel/en/product/przemysl-fortress
+- https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/poland-travel-advisory.html
+heritage: 6.5
+vibrancy: 2.3
+nature: 2.7
+off_the_beaten_track: 2.2
 ---
 
 *Europe > Poland > Przemyśl*

@@ -15,6 +15,10 @@ snippet: Northern Italian business and fashion capital where the Duomo anchors a
   of Renaissance art and design.
 title: Milan
 type: location
+heritage: 4.1
+vibrancy: 9.4
+nature: 0.4
+off_the_beaten_track: 0.3
 ---
 
 Milan is the economic capital of Italy and one of the major financial and fashion centres of Europe. It is a city of contradictions: brutally efficient in business, yet possessed of some of the country’s finest art and architecture. The [Duomo di Milano](/europe/italy/lombardia/milan/duomo_di_milano) — the Gothic cathedral that took five centuries to complete — dominates the centre and sets the tone: ambitious, elaborate, and absolutely serious.

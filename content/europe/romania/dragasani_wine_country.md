@@ -7,6 +7,10 @@ snippet: Romania's oldest wine region on the rolling hills south of Vâlcea, pro
   whites from native grape varieties largely unknown outside the country.
 title: Drăgășani Wine Country
 type: location
+heritage: 5.0
+vibrancy: 3.5
+nature: 5.0
+off_the_beaten_track: 3.7
 ---
 
 Drăgășani, about 50km south of Râmnicu Vâlcea along the Olt Valley, is one of Romania's oldest and most distinctive wine regions — its vineyards documented since the 14th century and its wines praised by Ottoman chroniclers in the 17th. The region produces whites from native varieties that are largely unknown outside Romania: Crâmpoșie Selecționată, with its clean minerality; Tămâioasă Românească, an aromatic, sometimes lightly sweet wine from the Muscat family; and Fetească Regală, a delicate white with a long finish. These are not international varieties marketed for export — they are wines that taste of this particular stretch of river valley and reward an afternoon's exploration.

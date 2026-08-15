@@ -24,6 +24,10 @@ tip: Lauterbrunnen sits in a sheer valley with 72 waterfalls — Staubbach plung
   up.
 title: Lauterbrunnen
 type: location
+heritage: 5.7
+vibrancy: 6.3
+nature: 7.7
+off_the_beaten_track: 5.2
 ---
 
 Lauterbrunnen is a small town 10 km south of [Interlaken](/europe/switzerland/interlaken), spectacularly sited at the entrance to one of the most dramatic valleys in the Alps. Limestone cliffs rising up to 1,000 metres line both sides, and more than 70 waterfalls drop from the rim — the most visible being the [Staubbach Falls](/europe/switzerland/lauterbrunnen/staubbach_falls), which fall 297 metres directly above the village and dissolve into mist before reaching the ground.

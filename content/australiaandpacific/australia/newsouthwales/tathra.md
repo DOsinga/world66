@@ -5,11 +5,16 @@ loc_type: city
 latitude: -36.731
 longitude: 149.973
 score: 7.0
-snippet: Sapphire Coast beach town with a historic sea wharf, surf, and national parks at both ends.
+snippet: Sapphire Coast beach town with a historic sea wharf, surf, and national parks
+  at both ends.
 wikidata: Q3516028
 sources:
-  - https://en.wikivoyage.org/wiki/Tathra
-  - https://www.sapphirecoast.com.au/tathra
+- https://en.wikivoyage.org/wiki/Tathra
+- https://www.sapphirecoast.com.au/tathra
+heritage: 1.3
+vibrancy: 1.3
+nature: 6.4
+off_the_beaten_track: 3.2
 ---
 
 Tathra is a small beach town on the Sapphire Coast, between Bermagui and Merimbula. It has the easy shape of a south-coast holiday: one long surf beach, a headland, a working-looking old wharf, and forests running close to the water.

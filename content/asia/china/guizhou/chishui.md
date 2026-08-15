@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Chishui,_Guizhou
 title: Chishui
 type: location
+heritage: 3.1
+vibrancy: 1.8
+nature: 6.0
+off_the_beaten_track: 4.0
 ---
 
 Chishui occupies the far north of Guizhou where the province meets Sichuan, at a lower elevation than most of the plateau — subtropical rather than temperate, and wet enough to support bamboo on a scale that turns the landscape green in a way that the limestone karst country further south doesn't. The city administers a UNESCO World Heritage landscape, the Chishui component of the China Danxia designation, which covers around 27,000 hectares of red sandstone formations cut through by river gorges and waterfall systems.

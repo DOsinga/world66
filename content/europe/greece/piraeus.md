@@ -14,6 +14,10 @@ snippet: Working port city of Athens, with island ferries, seafood harbours, and
   views over the Saronic Gulf.
 title: Piraeus
 type: location
+heritage: 7.2
+vibrancy: 5.8
+nature: 4.5
+off_the_beaten_track: 1.8
 ---
 
 Piraeus is Athens's port — sprawling, industrial, and very much a working city rather than a tourist destination, yet worth knowing if you're catching a ferry to the Greek islands or simply want to eat excellent seafood away from the crowds. It has been Athens's main harbour since antiquity and today handles a huge volume of ferry traffic to the Aegean and Ionian islands.

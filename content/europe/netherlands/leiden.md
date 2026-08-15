@@ -14,6 +14,10 @@ title: Leiden
 snippet: Dutch university city of canals, old brick streets, and the country's oldest
   university, founded in 1575.
 type: location
+heritage: 7.5
+vibrancy: 5.4
+nature: 2.6
+off_the_beaten_track: 1.6
 ---
 
 Leiden is one of the most charming cities in the Netherlands, a compact university town halfway between [Amsterdam](/europe/netherlands/amsterdam) and [The Hague](/europe/netherlands/thehague). The oldest university in the country was founded here in 1575, and the student population gives the city a lively, youthful energy that belies its centuries of history.

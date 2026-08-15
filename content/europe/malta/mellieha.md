@@ -13,6 +13,10 @@ snippet: Northern Maltese hill town above the island's broadest sandy beach and 
   routes to Gozo
 title: Mellieha
 type: location
+heritage: 4.2
+vibrancy: 4.4
+nature: 5.9
+off_the_beaten_track: 2.1
 ---
 
 Mellieha sits on a ridge at the northern tip of Malta, the town climbing steeply up a limestone hill with views out over the sea in almost every direction. It is the most northerly town of any size on the island, and it matters for one reason above all others: [Mellieha Bay](/europe/malta/mellieha/mellieha_bay), the longest and widest sandy beach in Malta, stretches out below the ridge in a shallow curve facing Gozo. By Maltese standards — where most beaches are rocky coves — it is exceptional.

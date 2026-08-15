@@ -3,9 +3,14 @@ latitude: 59.257
 loc_type: city
 longitude: 17.224
 score: 7.8
-snippet: Lakeside town on Mälaren with a Renaissance castle and a summer steamboat from Stockholm.
+snippet: Lakeside town on Mälaren with a Renaissance castle and a summer steamboat
+  from Stockholm.
 title: Mariefred
 type: location
+heritage: 6.7
+vibrancy: 2.1
+nature: 4.6
+off_the_beaten_track: 2.2
 ---
 
 Mariefred is a small town on the southern shore of Lake Mälaren, about an hour west of Stockholm, and one of the easiest and most rewarding day trips from the capital. The streets near the water are lined with low wooden houses painted in falu red and ochre, and they fill in summer with cafes, antique shops, and people in no particular hurry. The town grew up around a Carthusian monastery — the name means "Mary's Peace" — and it has kept a quiet, slightly old-fashioned air ever since.

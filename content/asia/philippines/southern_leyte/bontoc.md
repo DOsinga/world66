@@ -17,6 +17,10 @@ sources:
 - https://www.bitsorg.info/lgubontocwebsite/public/tourism/bontocattractions
 title: Bontoc
 type: location
+heritage: 3.3
+vibrancy: 2.6
+nature: 5.2
+off_the_beaten_track: 4.9
 ---
 
 Bontoc is a small town on the western side of [Southern Leyte](/asia/philippines/southern_leyte), where the coast bends into Sogod Bay and the mountains rise quickly behind the road. It is not a classic sightseeing town. Its appeal is quieter: a waterfront, a working port, river scenery, and easy access to the rural middle of the province.

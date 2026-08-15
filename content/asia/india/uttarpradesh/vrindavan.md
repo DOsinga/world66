@@ -6,11 +6,16 @@ latitude: 27.5727
 longitude: 77.6933
 wikidata: Q688281
 score: 8.5
-snippet: Sacred Yamuna pilgrimage town where Krishna devotion fills temples, ghats, lanes, and festival crowds.
+snippet: Sacred Yamuna pilgrimage town where Krishna devotion fills temples, ghats,
+  lanes, and festival crowds.
 sources:
-  - https://en.wikivoyage.org/wiki/Vrindavan
-  - https://uptourism.gov.in/en/page/mathura-vrindavan
-  - https://www.bihariji.org/
+- https://en.wikivoyage.org/wiki/Vrindavan
+- https://uptourism.gov.in/en/page/mathura-vrindavan
+- https://www.bihariji.org/
+heritage: 7.9
+vibrancy: 4.4
+nature: 2.0
+off_the_beaten_track: 2.6
 ---
 
 Vrindavan is one of the great Krishna pilgrimage towns of North India, a sacred place on the Yamuna where devotion is not a museum piece but the daily noise of the streets. Temple bells, rickshaw horns, flower sellers, monkeys, chanting pilgrims, and narrow lanes all press together here.

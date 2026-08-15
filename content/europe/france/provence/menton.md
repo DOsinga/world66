@@ -13,6 +13,10 @@ snippet: Riviera border town with pastel hillside streets, lemon gardens, and an
   mild coastal climate
 title: Menton
 type: location
+heritage: 5.7
+vibrancy: 4.4
+nature: 6.8
+off_the_beaten_track: 2.2
 ---
 
 Menton sits on the last stretch of French coastline before [Italy](/europe/italy), squeezed between the mountains and the sea with [Monaco](/europe/monaco) just to the west. It has the mildest climate on the Riviera, which is why it became a winter retreat for European royalty and aristocracy in the 19th century — Queen Victoria, the Tsar, and the man who built the Suez Canal all kept houses here.

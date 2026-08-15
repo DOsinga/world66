@@ -16,6 +16,10 @@ snippet: Mainland Venice city with normal Italian street life around Piazza Ferr
   just beyond the lagoon.
 title: Mestre
 type: location
+heritage: 7.2
+vibrancy: 4.7
+nature: 3.2
+off_the_beaten_track: 1.8
 ---
 
 Mestre is the mainland half of Venice -- a working Italian city where locals actually live and go about their business, rather than a museum piece preserved in amber. It sits just across the Liberty Bridge from the lagoon, and most visitors pass through without a second glance. That is a mistake.

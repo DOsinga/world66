@@ -16,6 +16,10 @@ image: akjoujt.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Akjoujt_City.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Akjoujtcity
+heritage: 0.5
+vibrancy: 1.9
+nature: 5.5
+off_the_beaten_track: 7.4
 ---
 
 Akjoujt is a small mining town in western [Mauritania](/africa/mauritania), set on the long paved road between [Nouakchott](/africa/mauritania/nouakchott) and [Atar](/africa/mauritania/atar). Most travellers see it through a dusty windscreen: a fuel stop, a place to buy water, and a sign that the capital's sprawl has finally given way to the open Sahara.

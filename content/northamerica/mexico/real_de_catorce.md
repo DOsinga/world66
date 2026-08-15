@@ -7,13 +7,18 @@ latitude: 23.7
 loc_type: city
 longitude: -100.9
 score: 7.85
-snippet: High desert silver ghost town reached through a one-lane tunnel in San Luis Potosi.
+snippet: High desert silver ghost town reached through a one-lane tunnel in San Luis
+  Potosi.
 sources:
-  - https://en.wikivoyage.org/wiki/Real_de_Catorce
-  - https://en.wikipedia.org/wiki/Real_de_Catorce
-  - https://www.wikidata.org/wiki/Q1027749
+- https://en.wikivoyage.org/wiki/Real_de_Catorce
+- https://en.wikipedia.org/wiki/Real_de_Catorce
+- https://www.wikidata.org/wiki/Q1027749
 title: Real de Catorce
 type: location
+heritage: 6.4
+vibrancy: 4.3
+nature: 5.2
+off_the_beaten_track: 5.3
 ---
 
 Real de Catorce is one of Mexico's stranger old mining towns: a near-ghost town high in the Sierra de Catorce, reached through the narrow [Ogarrio Tunnel](/northamerica/mexico/real_de_catorce/ogarrio_tunnel) and set among ruins, cobbled lanes, and cold desert light. Silver made it rich in the 19th century; falling prices hollowed it out after 1900.

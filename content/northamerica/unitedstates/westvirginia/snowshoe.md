@@ -2,10 +2,11 @@
 title: Snowshoe
 type: location
 loc_type: feature
-latitude: 38.4090
-longitude: -79.9940
+latitude: 38.409
+longitude: -79.994
 score: 7.1
-snippet: High Allegheny Mountain resort area for skiing, biking, and remote Pocahontas County trips.
+snippet: High Allegheny Mountain resort area for skiing, biking, and remote Pocahontas
+  County trips.
 sources:
 - https://en.wikivoyage.org/wiki/Snowshoe
 - https://www.snowshoemtn.com/
@@ -13,6 +14,10 @@ sources:
 - https://mountainrailwv.com/legacy/
 - https://greenbankobservatory.org/
 wikidata: Q7548711
+heritage: 3.5
+vibrancy: 1.7
+nature: 7.9
+off_the_beaten_track: 5.8
 ---
 
 Snowshoe is a mountaintop resort area in the Allegheny Mountains of eastern West Virginia. It is not a traditional town, and that matters: come expecting a compact resort village, lift-served slopes, and a remote mountain setting rather than courthouse-square street life.

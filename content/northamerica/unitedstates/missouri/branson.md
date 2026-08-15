@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Titanic_Museum_(Branson,_Missouri)
 title: Branson
 type: location
+heritage: 1.8
+vibrancy: 4.1
+nature: 6.1
+off_the_beaten_track: 1.8
 ---
 
 Branson is Missouri's loud, busy, unapologetic Ozarks resort town: live shows, family attractions, outlet malls, lake weekends, and enough neon along Highway 76 to make subtlety feel like a foreign language. It is easy to mock and easier to underestimate.

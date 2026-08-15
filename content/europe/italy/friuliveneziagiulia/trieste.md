@@ -15,6 +15,10 @@ snippet: Adriatic port city where Italian, Slovenian, and Habsburg cultures meet
   the Carso plateau.
 title: Trieste
 type: location
+heritage: 5.2
+vibrancy: 5.1
+nature: 4.6
+off_the_beaten_track: 1.9
 ---
 
 Trieste is the most northerly port of Italy, perched on the Adriatic where the Mediterranean meets Mitteleuropa. For two centuries it was the great seaport of the Habsburgs — a free port grafted onto the Austrian Empire — and it still feels less Italian than Central European, with a Slovenian hinterland on its doorstep and the limestone Carso plateau looming above the harbour. The city has a faded grandeur and a literary, melancholy atmosphere that has attracted writers from James Joyce and Italo Svevo to Jan Morris.

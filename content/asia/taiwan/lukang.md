@@ -11,6 +11,10 @@ image: lukang.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lukang_Longshan_Temple,_Five-Entrance_Shrine,_Lukang_(Taiwan).jpg
 image_license: CC BY-SA 3.0
 image_attribution: Mk2010
+heritage: 6.2
+vibrancy: 2.7
+nature: 4.2
+off_the_beaten_track: 2.1
 ---
 
 Lukang, an hour south-west of Taichung in Changhua County, is one of the best-preserved old towns on the island. It was Taiwan's second-largest port in the late eighteenth century, when the strait between here and Fujian carried most of the island's trade, and the original wealth still shows in the temples and merchant houses lining the old streets. The harbour silted up long ago, which is exactly why so much survives — the town slipped out of the modern economy and was never rebuilt over.

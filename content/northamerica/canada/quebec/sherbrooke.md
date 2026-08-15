@@ -13,6 +13,10 @@ image: sherbrooke.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Brompton,_Sherbrooke,_QC,_Canada_-_panoramio_(1).jpg
 image_license: CC BY-SA 3.0
 image_attribution: Mario Hains
+heritage: 4.6
+vibrancy: 4.7
+nature: 5.1
+off_the_beaten_track: 3.8
 ---
 
 Sherbrooke is the main city of Quebec's [Eastern Townships](/northamerica/canada/quebec), set where the Magog and Saint-Francois rivers meet. It is French-speaking, practical, and more regional capital than postcard town, but the centre has enough old brick, church towers, riverside paths, and student energy to reward a stop.

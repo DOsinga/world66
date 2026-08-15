@@ -17,6 +17,10 @@ image: traben_trarbach.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Moselle_in_Traben-Trarbach_(view_from_the_south).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Carsten Steger
+heritage: 5.6
+vibrancy: 4.3
+nature: 4.9
+off_the_beaten_track: 1.9
 ---
 
 *Europe > Germany > Rhineland-Palatinate > Mosel > Traben-Trarbach*

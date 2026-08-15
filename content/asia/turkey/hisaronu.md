@@ -10,6 +10,10 @@ snippet: Resort village in pine-covered hills above Ölüdeniz, used as a base f
   and trails.
 title: Hisaronu
 type: location
+heritage: 5.2
+vibrancy: 5.5
+nature: 7.0
+off_the_beaten_track: 2.5
 ---
 
 Hisaronu is a small resort village in the hills above Oludeniz, about 8 kilometres from [Fethiye](/asia/turkey/fethiye) in southwestern Turkey. It sits in the pine-covered slopes of the Taurus Mountains, close enough to the famous blue lagoon at [Oludeniz](/asia/turkey/hisaronu/oludeniz_lagoon) to use it as a base without being on the beach itself.

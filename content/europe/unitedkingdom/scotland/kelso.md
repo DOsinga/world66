@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Kelso,_Scottish_Borders
 title: Kelso
 type: location
+heritage: 4.8
+vibrancy: 2.5
+nature: 3.4
+off_the_beaten_track: 2.1
 ---
 
 Kelso is one of the most appealing towns in the Scottish Borders, built at the confluence of the Tweed and Teviot rivers. [The Square](/europe/unitedkingdom/scotland/kelso/the_square) — a broad cobbled space fed by four streets and lined with Georgian and Victorian stone buildings — feels genuinely lived-in rather than preserved for tourists. Walter Scott, who attended school here as a boy, called it the most beautiful in Scotland.

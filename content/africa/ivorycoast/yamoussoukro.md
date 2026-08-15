@@ -26,6 +26,10 @@ tip: Yamoussoukro is a planned political capital built in the home village of fo
   the presidential palace.
 title: Yamoussoukro
 type: location
+heritage: 4.3
+vibrancy: 3.9
+nature: 2.0
+off_the_beaten_track: 5.7
 ---
 
 Yamoussoukro is one of Africa's great political curiosities — a city built almost from scratch to satisfy the ego of a president, then largely abandoned by the government it was meant to house. In 1983, President Félix Houphouët-Boigny declared his home village the official capital of Côte d'Ivoire, and poured national oil revenues into transforming it. Today you find eight-lane highways with almost no cars on them, grand government buildings that stand half-empty, and at the centre of it all, the [largest church in the world](/africa/ivorycoast/yamoussoukro/basilique_notre_dame).

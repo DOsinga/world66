@@ -16,6 +16,10 @@ title: Shanhaiguan
 type: location
 snippet: Historic fortress town where the Great Wall reaches the Bohai Sea at Old
   Dragon's Head.
+heritage: 7.2
+vibrancy: 2.7
+nature: 3.6
+off_the_beaten_track: 2.6
 ---
 
 Shanhaiguan is the eastern terminus of the Great Wall, where the fortifications march down from the mountains and plunge straight into the Bohai Sea at a spot called [Old Dragon's Head](/asia/china/hebei/shanhaiguan/old_dragons_head). The walled town itself, with its massive east gate inscribed [First Pass Under Heaven](/asia/china/hebei/shanhaiguan/first_pass), was one of the most strategically important fortresses in Chinese history — the pass between the mountains and the sea that controlled access to the northeastern plains.

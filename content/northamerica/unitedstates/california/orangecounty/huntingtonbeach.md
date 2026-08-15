@@ -14,6 +14,10 @@ image_license: CC BY-SA 3.0
 image_attribution: Don Ramey Logan
 snippet: Southern California surf city with a long beach, landmark pier, and Bolsa
   Chica wetlands.
+heritage: 1.7
+vibrancy: 7.5
+nature: 7.4
+off_the_beaten_track: 1.2
 ---
 
 Huntington Beach bills itself as "Surf City USA" and backs the claim with thirteen kilometres of unbroken beach, the [International Surfing Museum](/northamerica/unitedstates/california/orangecounty/huntingtonbeach/international_surfing_museum), the Surfers' Hall of Fame plaques set into the sidewalk on Main Street, and some of the most consistent waves in Southern California. The long concrete [pier](/northamerica/unitedstates/california/orangecounty/huntingtonbeach/huntington_beach_pier) — the longest on the California coast — is the centre of the action, with surf competitions, concerts at the amphitheatre, and a boardwalk that fills up at sunset.

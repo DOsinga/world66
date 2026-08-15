@@ -12,6 +12,10 @@ snippet: Inland southern Norwegian county, associated with the Telemark Canal an
   the skiing technique bearing its name.
 title: Telemark
 type: location
+heritage: 4.1
+vibrancy: 2.8
+nature: 7.2
+off_the_beaten_track: 5.1
 ---
 
 Telemark is a large inland county in southern Norway, best known abroad for two things: the canal that once linked its mountain valleys to the sea, and the skiing technique that carries its name. Both are worth your time.

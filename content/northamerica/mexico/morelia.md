@@ -14,6 +14,10 @@ snippet: Michoacán capital of pink cantera arcades, baroque churches, and a UNE
   colonial centre.
 title: Morelia
 type: location
+heritage: 5.2
+vibrancy: 5.5
+nature: 6.5
+off_the_beaten_track: 2.3
 ---
 
 Morelia is the capital of Michoacan state and one of Mexico's most handsome colonial cities. Its historic centre, built almost entirely from pink cantera stone, was declared a UNESCO World Heritage Site in 1991, and walking through it you can see why — block after block of arcaded buildings, baroque churches, and stately plazas, all in that warm rose colour that glows in the late afternoon sun.

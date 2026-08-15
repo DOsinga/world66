@@ -13,6 +13,10 @@ snippet: Akuapem Ridge town above Accra, known for botanical gardens, cooler air
   and woodcarving workshops
 title: Aburi
 type: location
+heritage: 4.0
+vibrancy: 4.1
+nature: 6.1
+off_the_beaten_track: 4.5
 ---
 
 Aburi sits in the Akuapem Ridge hills about 35 km north of [Accra](/africa/ghana/accra), and the main reason to come here is the [Aburi Botanical Gardens](/africa/ghana/aburi/aburi_botanical_gardens). Established by the British in 1890, the gardens cover 65 hectares of tropical plants, towering palms, and shaded walkways. It is a cool, green escape from the heat and noise of Accra, and makes an easy half-day trip from the capital.

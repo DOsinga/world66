@@ -5,13 +5,18 @@ loc_type: city
 latitude: -36.8407
 longitude: 175.8058
 score: 7.35
-snippet: Small Coromandel beach village at the walking and kayaking approach to Cathedral Cove.
+snippet: Small Coromandel beach village at the walking and kayaking approach to Cathedral
+  Cove.
 sources:
-  - https://en.wikivoyage.org/wiki/Hahei
-  - https://en.wikipedia.org/wiki/Hahei
-  - https://www.wikidata.org/wiki/Q5638873
-  - https://www.doc.govt.nz/parks-and-recreation/places-to-go/coromandel/places/hahei-area/te-whanganui-o-hei-cathedral-cove-marine-reserve/
+- https://en.wikivoyage.org/wiki/Hahei
+- https://en.wikipedia.org/wiki/Hahei
+- https://www.wikidata.org/wiki/Q5638873
+- https://www.doc.govt.nz/parks-and-recreation/places-to-go/coromandel/places/hahei-area/te-whanganui-o-hei-cathedral-cove-marine-reserve/
 wikidata: Q5638873
+heritage: 2.1
+vibrancy: 2.2
+nature: 7.4
+off_the_beaten_track: 2.7
 ---
 
 Hahei is a small seaside settlement on Mercury Bay, on the eastern side of the [Coromandel Peninsula](/australiaandpacific/newzealand/coromandelpeninsula). It is tiny most of the year, then swells in summer when Aucklanders and overseas travellers come for the beach, the marine reserve, and the walk or kayak route to [Cathedral Cove](/australiaandpacific/newzealand/coromandelpeninsula/hahei/cathedral_cove).

@@ -14,6 +14,10 @@ snippet: Northern UAE emirate of Hajar mountains, mangrove coasts, and pre-Islam
   history beyond the skyscraper circuit.
 title: Ras Al Khaimah
 type: location
+heritage: 4.7
+vibrancy: 5.3
+nature: 5.6
+off_the_beaten_track: 3.4
 ---
 
 Ras Al Khaimah is the northernmost of the seven United Arab Emirates, and the one least defined by skyscrapers and shopping malls. Where Dubai and Abu Dhabi compete for superlatives, RAK — as residents call it — trades on rugged mountains, mangrove-lined coasts, and a history that predates Islam.

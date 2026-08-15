@@ -14,6 +14,10 @@ snippet: Route 66 city west of Oklahoma City, marked by Czech heritage and roads
   flour-mill signs
 title: Yukon
 type: location
+heritage: 1.7
+vibrancy: 1.7
+nature: 2.0
+off_the_beaten_track: 1.7
 ---
 
 Yukon is a small city of around 27,000 people on the western edge of the [Oklahoma City](/northamerica/unitedstates/oklahoma/oklahomacity) metro area, sitting squarely on historic Route 66. For road-trippers driving the Mother Road, Yukon is a reliable stop with a couple of genuine Route 66 landmarks and a friendly, unhurried atmosphere.

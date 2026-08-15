@@ -9,6 +9,10 @@ snippet: Ozark foothills town known for Pea Ridge National Military Park and its
   War battlefield.
 title: Pea Ridge
 type: location
+heritage: 4.5
+vibrancy: 1.7
+nature: 2.1
+off_the_beaten_track: 2.2
 ---
 
 Pea Ridge is a small town in the Ozark foothills of northwestern Arkansas, best known as the site of one of the Civil War's decisive western battles. Most visitors come for the battlefield — and it's worth it.

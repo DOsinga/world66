@@ -14,6 +14,10 @@ snippet: Yucatán colonial city between Mérida and Cancún, with cenotes, conve
   and Caste War history
 title: Valladolid
 type: location
+heritage: 7.9
+vibrancy: 4.7
+nature: 4.1
+off_the_beaten_track: 2.6
 ---
 
 Valladolid is a small colonial city halfway between [Mérida](/northamerica/mexico/merida) and [Cancún](/northamerica/mexico/cancun), and one of the most pleasant stops on the [Yucatán](/northamerica/mexico/yucatan) peninsula. The pace is slow, the architecture is handsome, and the town has not yet been overwhelmed by tourism.

@@ -14,6 +14,10 @@ snippet: Anatolian university city with restored Odunpazarı houses, student caf
   and a lively arts scene
 title: Eskişehir
 type: location
+heritage: 4.7
+vibrancy: 5.1
+nature: 2.8
+off_the_beaten_track: 2.1
 ---
 
 Eskişehir is one of Turkey's most pleasant surprises: a lively, progressive university city in the middle of the Anatolian steppe that feels nothing like the conservative heartland surrounding it. Two large universities fill the city with students, and the result is a cafe culture, a nightlife scene, and a creative energy that rival Istanbul or Izmir on a smaller, more walkable scale.

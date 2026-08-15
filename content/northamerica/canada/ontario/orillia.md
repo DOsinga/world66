@@ -18,6 +18,10 @@ image: orillia.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Orillia_ON.JPG
 image_license: CC BY-SA 3.0
 image_attribution: P199
+heritage: 3.8
+vibrancy: 2.9
+nature: 6.3
+off_the_beaten_track: 1.9
 ---
 
 Orillia sits between Lake Couchiching and Lake Simcoe, close enough to Toronto for an easy break but far enough north to feel like the start of cottage country. It is not grand, but it has a real day out in it: a lakefront boardwalk, a good small museum scene, a handsome opera house, and the memory of Stephen Leacock's fictional Mariposa.

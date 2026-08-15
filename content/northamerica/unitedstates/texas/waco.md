@@ -5,10 +5,15 @@ loc_type: city
 latitude: 31.5514
 longitude: -97.1558
 score: 6.8
-snippet: Central Texas college city where Dr Pepper, Baylor, mammoth fossils, and Brazos River parks meet.
+snippet: Central Texas college city where Dr Pepper, Baylor, mammoth fossils, and
+  Brazos River parks meet.
 sources:
-  - https://en.wikivoyage.org/wiki/Waco
-  - https://en.wikipedia.org/wiki/Waco,_Texas
+- https://en.wikivoyage.org/wiki/Waco
+- https://en.wikipedia.org/wiki/Waco,_Texas
+heritage: 3.7
+vibrancy: 3.5
+nature: 2.3
+off_the_beaten_track: 1.4
 ---
 
 Waco sits halfway between [Dallas](/northamerica/unitedstates/texas/dallas) and [Austin](/northamerica/unitedstates/texas/austin), close enough to both that many travelers only see the freeway exits. That is a mistake if you like Texas with a bit of odd local flavor. This is the home of Baylor University, Dr Pepper, a riverside suspension bridge from the cattle-drive era, and one of the more surprising fossil sites in the United States.

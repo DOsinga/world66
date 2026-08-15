@@ -15,6 +15,10 @@ image: katsuyama.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Katsuyama_2016-07-18.jpg
 image_license: CC BY-SA 2.0
 image_attribution: papatomom
+heritage: 2.1
+vibrancy: 2.2
+nature: 4.4
+off_the_beaten_track: 3.0
 ---
 
 Katsuyama is a small city in Fukui Prefecture, inland from the Sea of Japan and close to the mountains that rise toward Hakusan. It is not a polished old capital, but it has a surprisingly strong set of sights for its size.

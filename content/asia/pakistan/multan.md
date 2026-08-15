@@ -15,6 +15,10 @@ snippet: Ancient Punjabi city of Sufi shrines, hot bazaars, and monumental brick
   mausoleums.
 title: Multan
 type: location
+heritage: 4.7
+vibrancy: 3.3
+nature: 1.9
+off_the_beaten_track: 6.2
 ---
 
 Multan is one of the oldest cities in South Asia and one of the most important in Pakistan — a place whose history runs continuously from the bronze age to the present day. It was conquered by Alexander the Great in 326 BCE, by the Umayyad general Muhammad bin Qasim in 712 CE (making it one of the earliest Islamic cities of the subcontinent), by Mahmud of Ghazni, the Mughals, the Sikhs, and finally the British. Every one of them left its mark. Today it is a busy, hot, dusty city of around two million people on the Chenab River in southern Punjab, known across Pakistan as the **"City of Saints"** (*Madinat-ul-Awliya*) — a reference to the dozens of Sufi shrines that dot its skyline.

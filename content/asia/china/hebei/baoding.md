@@ -14,6 +14,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Baoding
 title: Baoding
 type: location
+heritage: 3.2
+vibrancy: 2.4
+nature: 1.4
+off_the_beaten_track: 1.5
 ---
 
 Baoding was the administrative heart of Hebei for most of the Qing dynasty, home to the Viceroy of Zhili, the most powerful provincial governor in the empire. The [Viceroy of Zhili Office](/asia/china/hebei/baoding/viceroy_of_zhili_office) survives in remarkable condition — the best-preserved Qing-era governor's residence in China, a complex of audience halls, gardens, and residential quarters that gives a concrete sense of how the dynasty actually ran its territories. The building is central, accessible, and overlooked by most tourists heading straight to Beijing or Xi'an.

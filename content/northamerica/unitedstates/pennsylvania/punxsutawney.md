@@ -17,6 +17,10 @@ sources:
 title: Punxsutawney
 type: location
 wikidata: Q732342
+heritage: 2.9
+vibrancy: 3.1
+nature: 2.6
+off_the_beaten_track: 1.6
 ---
 
 Punxsutawney is a small borough in western Pennsylvania that has managed to turn one February morning into a national ritual. The town is home to Punxsutawney Phil, the groundhog whose shadow is supposed to forecast the rest of winter, and the whole place leans into the joke with admirable seriousness.

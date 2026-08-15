@@ -16,6 +16,10 @@ snippet: Egyptian Red Sea resort city where a former fishing village fronts reef
   dive boats, and El Dahar.
 title: Hurghada
 type: location
+heritage: 3.1
+vibrancy: 5.4
+nature: 7.3
+off_the_beaten_track: 2.9
 ---
 
 Hurghada was a small fishing village on the Egyptian Red Sea coast until the 1980s, when developers noticed the water. Today it is Egypt's largest beach resort, a 30 km strip of hotels, dive centers, and tourist infrastructure stretching along one of the world's great reef systems. The transformation was fast and not always elegant — large stretches of the coast are dominated by all-inclusive resorts, and the resort zone has little to do with Egyptian life — but the sea is genuinely spectacular and the diving is among the best in the world.

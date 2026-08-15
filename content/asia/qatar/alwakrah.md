@@ -14,6 +14,10 @@ snippet: Restored Qatari fishing town south of Doha, with a quieter souq and wor
   dhow harbour.
 title: Al Wakrah
 type: location
+heritage: 1.9
+vibrancy: 2.7
+nature: 5.3
+off_the_beaten_track: 2.2
 ---
 
 Al Wakrah is a fishing town about 15 km south of central Doha — close enough to reach easily, different enough to feel like somewhere else. For most of Qatar's oil-era growth it was ignored, but the old waterfront quarter has been carefully restored and now has a small, pleasant souq that most Doha tourists miss entirely.

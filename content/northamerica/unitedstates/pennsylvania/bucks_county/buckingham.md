@@ -17,6 +17,10 @@ image: buckingham.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Peddler%27s_Village_in_Bucks_County,_Pennsylvania.jpg
 image_license: CC0
 image_attribution: Staniulis
+heritage: 5.1
+vibrancy: 3.8
+nature: 3.9
+off_the_beaten_track: 1.4
 ---
 
 Buckingham is the largest township in Bucks County, covering 33 square miles of rolling farmland east of Doylestown. Settled by English Quakers around 1700, it remains largely rural and residential, with stone farmhouses, horse properties, and country roads lined with old trees. The Quaker influence is still visible — the [Buckingham Friends Meeting House](/northamerica/unitedstates/pennsylvania/bucks_county/buckingham/buckingham_friends_meeting_house) on Route 202 has been in continuous use since 1768 — and the township was an important stop on the Underground Railroad.

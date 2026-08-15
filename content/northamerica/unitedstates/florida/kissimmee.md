@@ -13,6 +13,10 @@ image: kissimmee.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kissimmee_Trail_over_N_John_Young_Pkwy.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Michael Rivera
+heritage: 2.5
+vibrancy: 5.8
+nature: 5.6
+off_the_beaten_track: 1.1
 ---
 
 Kissimmee sits just south of [Orlando](/northamerica/unitedstates/florida/orlando) and serves as the budget-friendly gateway to Walt Disney World, whose main entrance is minutes away. Most visitors come for the theme parks, and the strip along US-192 (Irlo Bronson Memorial Highway) is lined with motels, restaurants, and tourist shops that cater to families looking to save on accommodation.

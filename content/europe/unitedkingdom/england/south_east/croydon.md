@@ -13,6 +13,10 @@ image: croydon.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Boxpark_Croydon.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Eagleash
+heritage: 2.0
+vibrancy: 2.6
+nature: 1.9
+off_the_beaten_track: 1.0
 ---
 
 Croydon is one of London's largest boroughs, a major commercial center in South London that has long been the butt of jokes from snobbier parts of the city. That reputation is increasingly unfair. While Croydon's skyline of 1960s office towers and concrete shopping centers will never win beauty prizes, the borough has developed a genuinely interesting cultural scene, driven in part by the artists and musicians priced out of inner London.

@@ -17,6 +17,10 @@ sources:
 title: Bonifacio
 type: location
 wikidata: Q204051
+heritage: 6.0
+vibrancy: 5.3
+nature: 7.5
+off_the_beaten_track: 4.5
 ---
 
 Bonifacio is the dramatic finish to southern [Corsica](/europe/france/corsica): a harbour tucked into a narrow inlet, then a medieval upper town balanced on white limestone cliffs. It is one of those places where the setting does half the work before you have even entered a church or museum.

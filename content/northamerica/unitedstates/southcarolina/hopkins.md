@@ -14,6 +14,10 @@ title: Hopkins
 type: location
 snippet: Small community southeast of Columbia, best known as the gateway to Congaree
   National Park.
+heritage: 2.5
+vibrancy: 1.8
+nature: 2.5
+off_the_beaten_track: 1.9
 ---
 
 Hopkins is a small community about 15 miles southeast of [Columbia](/northamerica/unitedstates/southcarolina/columbia), best known as the gateway to [Congaree National Park](/northamerica/unitedstates/southcarolina/hopkins/congaree_national_park). The park preserves the largest intact tract of old-growth bottomland hardwood forest in the United States — not technically a swamp, but a seasonally flooded river floodplain on the Congaree River.

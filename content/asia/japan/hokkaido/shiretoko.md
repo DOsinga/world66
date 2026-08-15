@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Shiretoko_National_Park
 title: Shiretoko
 type: location
+heritage: 3.0
+vibrancy: 1.5
+nature: 8.7
+off_the_beaten_track: 6.6
 ---
 
 Shiretoko is a narrow peninsula jutting northeast from Hokkaido into the Sea of Okhotsk, and it is as wild as Japan gets. The name comes from the Ainu word for "the end of the earth," and the peninsula still earns that description — a rugged ridge of volcanoes running to a tip that can only be reached by sea or on foot. UNESCO listed Shiretoko as a World Heritage Site in 2005, recognising its extraordinary mixing of marine and terrestrial ecosystems at the meeting point of the world's southernmost drift ice.

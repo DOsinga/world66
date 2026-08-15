@@ -14,6 +14,10 @@ snippet: West Yorkshire mill town at the Worth and Aire rivers, gateway to Bront
   moors by steam railway.
 title: Keighley
 type: location
+heritage: 5.2
+vibrancy: 3.8
+nature: 3.9
+off_the_beaten_track: 1.2
 ---
 
 Keighley is a former mill town in West Yorkshire, now part of the Bradford Metropolitan District but still very much its own place. It sits at the confluence of the River Worth and the River Aire, on the edge of the moors that inspired the Brontës just a few miles up the road in Haworth.

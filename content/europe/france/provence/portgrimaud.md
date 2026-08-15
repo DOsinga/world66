@@ -13,6 +13,10 @@ score: 8.26
 snippet: Planned canal village on the Gulf of Saint-Tropez, built as a Provençal Venice.
 title: Port Grimaud
 type: location
+heritage: 3.9
+vibrancy: 5.6
+nature: 5.8
+off_the_beaten_track: 1.9
 ---
 
 Port Grimaud is a purpose-built waterfront village on the Gulf of Saint-Tropez, designed in the 1960s by architect Francois Spoerry. The idea was audacious: create a lakeside Venice from scratch on a mosquito-infested swamp. The result — a network of canals, arched bridges, and colourful Provencal-style houses, each with its own mooring — divides opinion. Some find it kitsch; others think it is one of the most successful planned communities in Europe. Either way, it is undeniably pleasant to wander.

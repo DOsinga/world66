@@ -13,6 +13,10 @@ snippet: North Goa beach village shaped by hippie-trail parties, flea markets, a
   the Chapora coast.
 title: Anjuna
 type: location
+heritage: 6.5
+vibrancy: 6.9
+nature: 7.1
+off_the_beaten_track: 1.7
 ---
 
 [Anjuna Beach](/asia/india/goa/anjuna/anjuna_beach) is one of the most popular beach villages in north [Goa](/asia/india/goa), known since the 1960s as a gathering point for the international hippie trail. The all-night beach parties with trance music still draw a diverse crowd from around the world, though the scene has mellowed considerably from its wilder days — [Shiva Valley](/asia/india/goa/anjuna/shivas_bar) at the south end of the beach is the most consistent of the survivors.

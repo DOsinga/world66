@@ -16,6 +16,10 @@ snippet: Dutch town on the Veluwe’s western edge, close to Hoge Veluwe Nationa
   and the Kröller-Müller Museum.
 title: Ede
 type: location
+heritage: 2.2
+vibrancy: 2.1
+nature: 2.3
+off_the_beaten_track: 1.4
 ---
 
 Ede is a quiet Dutch town of around 120,000 people on the western edge of the **Veluwe**, the largest area of woodland and heath in the Netherlands. Most visitors do not come for the town itself — Ede is pleasant, tidy, and unexceptional, as Dutch provincial towns often are — but for what lies just to the east. A few kilometres from the town centre begins the **Hoge Veluwe National Park**, 5,500 hectares of pine forest, heather moor, drift sand and small lakes, with red deer, wild boar, moufflon, and a kind of landscape you don't really expect to find in the Netherlands.

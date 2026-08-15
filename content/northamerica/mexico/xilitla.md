@@ -17,6 +17,10 @@ image: xilitla.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Las_Pozas,_Xilitla,_Mexico_(6177173419).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Rod Waddington from Kergunyah, Australia
+heritage: 6.1
+vibrancy: 3.9
+nature: 7.2
+off_the_beaten_track: 3.7
 ---
 
 Xilitla is a misty town in the Huasteca Potosina, folded into green mountains and coffee country. Its name is now tied to [Las Pozas](/northamerica/mexico/xilitla/las_pozas), the surrealist jungle garden built by the English patron Edward James, but the town has enough atmosphere to make the trip feel larger than one attraction.

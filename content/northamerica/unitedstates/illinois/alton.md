@@ -14,6 +14,10 @@ snippet: Mississippi River bluff city with Lincoln-Douglas history, limestone vi
   and a 19th-century river-town core.
 title: Alton
 type: location
+heritage: 4.2
+vibrancy: 1.9
+nature: 4.9
+off_the_beaten_track: 2.8
 ---
 
 Alton is a small city perched on limestone bluffs above the Mississippi River, about 15 miles north of downtown St. Louis. The setting is dramatic — the river bends sharply here, and the town climbs up the bluffs in tiers of 19th-century brick buildings. It has the feel of a river town that has seen better days economically but retains genuine character, with a growing arts scene and a lively restaurant strip along Broadway.

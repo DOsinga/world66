@@ -14,6 +14,10 @@ snippet: Walled Castilian city near Portugal, with medieval streets enclosed by 
   stone defences
 title: Ciudad Rodrigo
 type: location
+heritage: 4.9
+vibrancy: 2.3
+nature: 2.6
+off_the_beaten_track: 2.9
 ---
 
 Ciudad Rodrigo is a compact walled city in western Castile, about 90 km southwest of [Salamanca](/europe/spain/castillaylon/salamanca) and close to the Portuguese border. It makes an excellent half-day or day trip from Salamanca, offering genuine medieval atmosphere without the tourist crowds.

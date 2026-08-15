@@ -17,6 +17,10 @@ image: siuntio.jpg
 image_source: https://commons.wikimedia.org/wiki/File:MG_6913-2.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Kiisla Oy (kiisla.fi)
+heritage: 3.8
+vibrancy: 1.9
+nature: 4.6
+off_the_beaten_track: 2.2
 ---
 
 Siuntio is a rural municipality west of Helsinki, close enough for a day trip but quieter than the capital's usual orbit. Its appeal is old Uusimaa: medieval stone, manor houses, church villages, and the literary memory of Aleksis Kivi.

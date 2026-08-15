@@ -26,6 +26,10 @@ tip: Tripoli's walled Old City (the Medina) hides Roman arches, Ottoman mosques 
   careful local arrangement.
 title: Tripoli
 type: location
+heritage: 8.2
+vibrancy: 2.5
+nature: 2.6
+off_the_beaten_track: 7.1
 ---
 
 Tripoli is the capital of Libya and the seat of the internationally recognised Government of National Unity (GNU). It is a city of about 1.2 million people, built at the edge of the Sahara where it meets the Mediterranean. The old town retains genuine character despite the concrete sprawl of the oil-boom decades.

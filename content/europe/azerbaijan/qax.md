@@ -17,6 +17,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Qax
 title: Qax
 type: location
+heritage: 2.6
+vibrancy: 1.9
+nature: 5.1
+off_the_beaten_track: 4.7
 ---
 
 Qax is a pleasant, tranquil provincial town in northwestern Azerbaijan, at the base of an appendix of Azerbaijani territory that juts into Georgia and Dagestan. It sits northwest of [Sheki](/europe/azerbaijan/saki) and about 400 km from Baku.

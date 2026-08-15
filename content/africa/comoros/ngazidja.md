@@ -14,6 +14,10 @@ snippet: Largest Comoros island, dominated by Mount Karthala volcano and the cap
   Moroni.
 title: Ngazidja
 type: location
+heritage: 2.3
+vibrancy: 2.5
+nature: 7.2
+off_the_beaten_track: 6.5
 ---
 
 Known to the French as Grande Comore, Ngazidja is the largest and most populous of the Comoros islands, home to around 400,000 people and to Moroni, the national capital. It is the island most visitors see first, and for many it is the only one -- which is a pity, because the other islands are equally compelling. But Ngazidja has enough to justify several days.

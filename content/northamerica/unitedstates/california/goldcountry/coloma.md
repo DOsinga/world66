@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Marshall_Gold_Discovery_State_Historic_Park
 title: Coloma
 type: location
+heritage: 6.1
+vibrancy: 3.1
+nature: 4.3
+off_the_beaten_track: 1.9
 ---
 
 Coloma is where the California Gold Rush began. On 24 January 1848, James W. Marshall spotted gold flakes in the tailrace of a sawmill he was building for John Sutter on the American River. Within a year, tens of thousands of prospectors had flooded into California.

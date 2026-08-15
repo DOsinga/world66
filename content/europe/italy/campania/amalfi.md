@@ -16,6 +16,10 @@ tags:
 - amalfi_coast
 title: Amalfi
 type: location
+heritage: 5.8
+vibrancy: 4.6
+nature: 5.4
+off_the_beaten_track: 1.1
 ---
 
 *Europe > Italy > Campania > Amalfi*

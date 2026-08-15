@@ -12,6 +12,10 @@ sources:
 - https://mauritiusattractions.com/pereybere-i-390.html
 title: Pereybere
 type: location
+heritage: 1.8
+vibrancy: 4.1
+nature: 6.0
+off_the_beaten_track: 1.9
 ---
 
 Pereybere is a compact beach village on the north coast of [Mauritius](/africa/mauritius), squeezed between busy [Grand Baie](/africa/mauritius/grandbaie) and quieter Cap Malheureux. It is not remote or undiscovered, but it gets the balance right: a proper public beach, small restaurants and snack counters, and enough village life to keep it from feeling like a resort compound.

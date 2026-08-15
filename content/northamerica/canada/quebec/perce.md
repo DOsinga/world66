@@ -18,6 +18,10 @@ image: perce.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Perc%C3%A9,_Quebec,_Canada_1.jpg
 image_license: CC BY 4.0
 image_attribution: Hayden Soloviev
+heritage: 4.5
+vibrancy: 4.0
+nature: 7.3
+off_the_beaten_track: 2.6
 ---
 
 Percé is the showpiece village of the Gaspé Peninsula, stretched along the Gulf of St. Lawrence with [Percé Rock](/northamerica/canada/quebec/perce/perce_rock) just offshore. It is touristy in summer, sometimes shamelessly so, but the setting earns the attention: cliffs, sea birds, fishing history, and one of Québec's most recognisable natural landmarks.

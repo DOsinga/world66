@@ -14,6 +14,10 @@ snippet: Ancient Syrian city on the Orontes River, famous for its enormous woode
   norias.
 title: Hama
 type: location
+heritage: 5.5
+vibrancy: 6.4
+nature: 4.4
+off_the_beaten_track: 9.7
 ---
 
 Hama is an ancient city on the Orontes River in central Syria, roughly 180 kilometres north of [Damascus](/asia/syria/damascus). It has been inhabited for at least 4,000 years, though much of the old city was destroyed in the devastating 1982 government crackdown on the Muslim Brotherhood, in which an estimated 20,000 people were killed.

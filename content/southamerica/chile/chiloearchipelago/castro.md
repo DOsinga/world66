@@ -17,6 +17,10 @@ image: castro.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Castro_desde_Tent%C3%A9n.jpg
 image_license: CC BY 2.0
 image_attribution: Joanna (JCardinal18) from Washington, DC, USA
+heritage: 2.5
+vibrancy: 1.4
+nature: 8.1
+off_the_beaten_track: 5.6
 ---
 
 Castro is the capital of Chiloé Province and the archipelago's main town, a compact city of wooden houses cascading down steep hills to the fjord below. It is rainy, practical, and visually memorable: fishing boats in the bay, wooden shingles on old houses, and bright palafitos standing on stilts over the tide.

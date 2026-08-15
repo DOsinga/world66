@@ -9,6 +9,10 @@ score: 7.65
 loc_type: feature
 snippet: Offshore Bahia archipelago protecting South Atlantic reefs in Brazil's first
   marine national park.
+heritage: 2.9
+vibrancy: 1.1
+nature: 7.9
+off_the_beaten_track: 6.3
 ---
 
 The Abrolhos Archipelago is a group of five small volcanic islands about 70 km off the coast of southern Bahia, protected within the Parque Nacional Marinho dos Abrolhos — Brazil's first marine national park. The surrounding waters hold the largest coral reefs in the South Atlantic and are among the most biodiverse marine environments in the country.

@@ -15,6 +15,10 @@ image: fort_walton_beach.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Sound_Park_Fort_Walton_Beach.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Fvcrew22
+heritage: 1.6
+vibrancy: 3.9
+nature: 5.0
+off_the_beaten_track: 1.3
 ---
 
 Fort Walton Beach sits on the Emerald Coast between Pensacola and Destin, with Choctawhatchee Bay on one side and the white sand of Okaloosa Island on the other. It is less polished than Destin and less spring-break loud than parts of Panama City Beach, which is part of the appeal: the city still feels like a year-round Panhandle town with a beach attached.

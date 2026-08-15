@@ -13,6 +13,10 @@ snippet: Northern Sierra Leone town below the Wara Wara Mountains, used for trip
   toward Mount Bintumani.
 title: Kabala
 type: location
+heritage: 4.4
+vibrancy: 3.1
+nature: 5.6
+off_the_beaten_track: 6.5
 ---
 
 Kabala is the main town in the Koinadugu district of northern [Sierra Leone](/africa/sierraleone), sitting at the foot of the Wara Wara Mountains close to the Guinean border. It is one of the highest towns in the country and the air is noticeably cooler than on the coast — a relief after the humidity of [Freetown](/africa/sierraleone/freetown).

@@ -16,6 +16,10 @@ image: rochebrune.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Grand_rochebrune.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Anthospace
+heritage: 2.1
+vibrancy: 1.1
+nature: 6.6
+off_the_beaten_track: 4.9
 ---
 
 Rochebrune is a tiny commune in the Drôme department of southeastern France, tucked into the foothills of the Baronnies Provençales between the Ouvèze valley and the pre-Alpine ridges. The main draw is the [Château de Rochebrune](/europe/france/centre/rochebrune/chateau_de_rochebrune), seat of the Lords of Chabanais since the eleventh century, set in woodland that makes this corner of France feel a long way from anywhere. The castle is privately owned but occasionally opens for visits during the Journées du Patrimoine in September.

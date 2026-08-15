@@ -10,6 +10,10 @@ title: Teluk Dalam
 type: location
 snippet: South Nias gateway town for Lagundri Bay surf, megalithic villages, and empty
   beaches.
+heritage: 3.6
+vibrancy: 2.2
+nature: 5.9
+off_the_beaten_track: 4.5
 ---
 
 Teluk Dalam is the capital of South Nias and the starting point for everything that makes the island worth visiting: world-class surf, ancient megalithic villages, and empty beaches. The town itself is small, dusty, and functional — a single main street with shops, a market, and a few basic losmen — but you are not here for the town.

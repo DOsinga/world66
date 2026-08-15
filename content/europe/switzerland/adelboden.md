@@ -13,6 +13,10 @@ snippet: Bernese Oberland alpine village with wooden chalets, Engstlige valley v
   and Chuenisbärgli ski racing.
 title: Adelboden
 type: location
+heritage: 2.9
+vibrancy: 3.3
+nature: 8.1
+off_the_beaten_track: 2.5
 ---
 
 Adelboden is a classic Swiss alpine village that punches well above its weight. Tucked into the Engstlige valley in the Bernese Oberland at 1,350 metres, it draws serious skiers in winter and hikers in summer without ever feeling like a theme park. The village has kept its wooden chalets and church steeple intact while building a genuinely impressive lift network that connects to Lenk and the wider Saanenland ski area.

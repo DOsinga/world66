@@ -14,6 +14,10 @@ image: engelberg.jpg
 image_source: https://commons.wikimedia.org/wiki/File:.00_1061_F%C3%BCrenalp_(Engelberg).jpg
 image_license: CC BY-SA 4.0
 image_attribution: W. Bulach
+heritage: 3.4
+vibrancy: 5.7
+nature: 7.6
+off_the_beaten_track: 2.5
 ---
 
 Engelberg sits at the end of a valley south of [Lucerne](/europe/switzerland/lucerne), ringed by big Central Swiss mountains and watched over by its Benedictine abbey. The name means "mountain of angels", which sounds fanciful until the cloud lifts and the cliffs above the village suddenly appear.

@@ -14,6 +14,10 @@ image: gongju.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Pavilion_in_Gongsanseong_Fortress.jpg
 image_license: CC0
 image_attribution: Bernard Gagnon
+heritage: 6.2
+vibrancy: 2.6
+nature: 4.5
+off_the_beaten_track: 2.1
 ---
 
 Gongju is one of the best places in Korea to understand Baekje, the southwestern kingdom that shaped early Korean culture and sent ideas, artists, and Buddhism across the water to Japan. It was the Baekje capital in the 5th and 6th centuries, before power moved south to Buyeo, and the old royal core still sits close enough together to explore on foot.

@@ -15,6 +15,10 @@ snippet: Mountain town in Colorado's Collegiate Peaks, with Arkansas River rafti
   and hot springs below the fourteeners
 title: Buena Vista
 type: location
+heritage: 3.4
+vibrancy: 3.8
+nature: 7.3
+off_the_beaten_track: 3.7
 ---
 
 Buena Vista sits in the heart of Colorado's Collegiate Peaks, surrounded by some of the state's highest fourteeners and the San Isabel National Forest. Originally a brawling mining supply town — it had 68 bars before its first church was built in 1879 — it has settled into a picturesque base for outdoor pursuits. The [Arkansas River](/northamerica/unitedstates/colorado/buenavista/arkansas_river_rafting) running through the valley offers some of Colorado's best whitewater rafting.

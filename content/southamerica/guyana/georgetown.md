@@ -16,6 +16,10 @@ snippet: Guyanese capital below sea level, marked by wooden colonial architectur
   and Dutch-engineered canals.
 title: Georgetown
 type: location
+heritage: 7.8
+vibrancy: 5.4
+nature: 5.4
+off_the_beaten_track: 3.2
 ---
 
 Georgetown is unlike any other capital in South America. It sits below sea level — protected by a seawall and a Dutch-engineered canal system — and its architecture is almost entirely wooden, a legacy of colonial-era construction that gives the city an improbable, slightly ramshackle elegance. Victorian Gothic churches, colonial government buildings, and merchants' houses raised on stilts above the flood line line broad, palm-shaded boulevards. Much of it needs paint, and some of it is actively falling apart, but the bones are extraordinary.

@@ -12,6 +12,10 @@ snippet: Long Alpine lake between Italy and Switzerland, known for gardens, ferr
   and Borromean Islands villages
 title: Lake Maggiore
 type: location
+heritage: 5.0
+vibrancy: 6.7
+nature: 6.8
+off_the_beaten_track: 2.5
 ---
 
 Lago Maggiore is Italy's second-largest lake, a long sliver of blue water stretching 65 kilometres from the Swiss border south to the plains of [Lombardia](/europe/italy/lombardia). Sheltered by the Alps, the lake enjoys a mild climate that produces extraordinary gardens -- azaleas, camellias, and subtropical palms flourish on the Borromean Islands as if the latitude were several hundred kilometres further south.

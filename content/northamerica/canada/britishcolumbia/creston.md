@@ -17,6 +17,10 @@ image: creston.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Creston_Valley_1996_05.jpg
 image_license: CC BY-SA 4.0
 image_attribution: LBM1948
+heritage: 2.7
+vibrancy: 1.8
+nature: 6.4
+off_the_beaten_track: 4.2
 ---
 
 Creston sits in a broad valley in southeastern British Columbia, between the Selkirk and Purcell mountains and just north of the Idaho border. It is a small town, but not a blank one: wetlands, orchards, farms, wineries, a brewery, and the Crowsnest Highway give it a clear Kootenay identity.

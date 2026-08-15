@@ -14,6 +14,10 @@ snippet: Small colonial river town where Magdalena boats once met mule trains bo
   for Bogotá
 title: Honda
 type: location
+heritage: 4.2
+vibrancy: 3.4
+nature: 4.9
+off_the_beaten_track: 3.4
 ---
 
 Honda is a small colonial town in central Colombia, in the department of Tolima. Sitting on the banks of the Magdalena River, it was once one of the country's most important trading ports — the point where goods were transferred between river boats and mule trains heading to Bogotá.

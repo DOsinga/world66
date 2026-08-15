@@ -13,6 +13,10 @@ image: villettabarrea.jpg
 image_source: https://commons.wikimedia.org/wiki/File:AbrVillettaBarrea.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Ziegler175
+heritage: 5.4
+vibrancy: 2.0
+nature: 7.3
+off_the_beaten_track: 4.4
 ---
 
 Villetta Barrea sits at the western end of Lake Barrea, the artificial lake created in the 1950s that now forms one of the most photographed stretches of the southern park. The village is small and unpretentious, with a waterfront that makes it pleasant for an evening stroll and a handful of restaurants and rooms to rent.

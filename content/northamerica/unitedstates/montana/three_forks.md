@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Missouri_Headwaters_State_Park
 title: Three Forks
 type: location
+heritage: 3.4
+vibrancy: 3.2
+nature: 6.5
+off_the_beaten_track: 3.4
 ---
 
 Three Forks is a small town in Gallatin County, [Montana](/northamerica/unitedstates/montana), named for its location near the point where the Jefferson, Madison, and Gallatin rivers converge to form the Missouri River. Meriwether Lewis named the three rivers in July 1805 for President Jefferson, Secretary of State Madison, and Treasury Secretary Gallatin.

@@ -7,6 +7,10 @@ snippet: Plus Beaux Village climbing a spur above the Jaur, with a medieval Devi
   bridge and a watchtower-turned-belfry.
 title: Olargues
 type: location
+heritage: 7.1
+vibrancy: 2.0
+nature: 7.0
+off_the_beaten_track: 3.2
 ---
 
 Olargues is generally reckoned the most beautiful village in the Haut-Languedoc, and it carries the official Plus Beaux Villages de France label to prove it — a designation given to fewer than 160 communes in the whole country, and only to those that meet strict tests of architectural quality and historic character. The medieval core climbs a steep spur above a loop of the Jaur, a knot of narrow lanes and stone houses crowned by an eleventh-century tower that now serves as the church belfry. From below, the village stacks up the hillside in a way that has been photographed a thousand times and still rewards another look.

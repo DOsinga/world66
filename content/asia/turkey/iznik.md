@@ -5,9 +5,14 @@ loc_type: city
 latitude: 40.43
 longitude: 29.72
 score: 8.0
-snippet: Lakeside Turkish town on ancient Nicaea, with Roman walls, Byzantine churches, and Ottoman tilework.
+snippet: Lakeside Turkish town on ancient Nicaea, with Roman walls, Byzantine churches,
+  and Ottoman tilework.
 sources:
-  - https://en.wikivoyage.org/wiki/Iznik
+- https://en.wikivoyage.org/wiki/Iznik
+heritage: 7.0
+vibrancy: 2.4
+nature: 2.5
+off_the_beaten_track: 2.7
 ---
 
 Iznik is the modern Turkish town on the site of ancient Nicaea, a name that still carries real weight. Two early Christian councils met here, Byzantine and Ottoman layers sit almost on top of each other, and the old town is still held inside a Roman street plan and long runs of city wall.

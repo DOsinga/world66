@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Dededo,_Guam
 title: Dededo
 type: location
+heritage: 3.3
+vibrancy: 1.6
+nature: 5.7
+off_the_beaten_track: 2.6
 ---
 
 Dededo is the most populous village in Guam, occupying the northern part of the island above the tourist corridor of Tumon Bay. It is primarily a residential area, home to a large proportion of Guam's population including many of the military families associated with the US bases on the island. Visitors rarely come here to stay, but the northern tip of the island that Dededo opens up is worth the drive.

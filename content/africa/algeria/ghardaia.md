@@ -10,6 +10,10 @@ title: Ghardaia
 type: location
 snippet: Northern Saharan city anchoring the M'zab Valley's fortified Mozabite ksour
   south of Algiers.
+heritage: 7.0
+vibrancy: 2.6
+nature: 4.3
+off_the_beaten_track: 4.8
 ---
 
 Ghardaïa is the main city of the [M'zab Valley](/africa/algeria/ghardaia/mzab_valley_overview), a UNESCO World Heritage site in the northern Sahara about 600 km south of Algiers. The valley contains five fortified cities (ksour) built by the Ibadi Mozabites over a thousand years ago, and they are among the most extraordinary urban landscapes in Africa — tiered clusters of pastel-coloured houses rising to a minaret at the summit of each hill, all designed with a strict religious and social logic that Le Corbusier studied and admired.

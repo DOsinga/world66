@@ -14,6 +14,10 @@ snippet: Isan college town whose universities give a young energy to otherwise u
   central Thailand.
 title: Mahasarakham
 type: location
+heritage: 1.8
+vibrancy: 1.9
+nature: 1.9
+off_the_beaten_track: 1.9
 ---
 
 Mahasarakham is an Isan college town that few foreign visitors see. With seven institutions of higher learning — led by Mahasarakham University and its 30,000 students — it has the energy and cheap prices that come with a young population, without any of the tourist infrastructure. If you want to see a real central Isan town rather than a polished destination, this is a good place to do it.

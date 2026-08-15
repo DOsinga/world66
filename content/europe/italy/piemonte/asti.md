@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Torre_Troyana
 title: Asti
 type: location
+heritage: 5.4
+vibrancy: 4.9
+nature: 4.7
+off_the_beaten_track: 2.0
 ---
 
 Asti is Piedmont without Turin’s polish or Alba’s gourmet mythology: a compact brick city of towers, churches, wine shops, and porticoed streets set among the hills that produce Barbera d'Asti and Moscato d'Asti. It is busy enough to feel alive, small enough to cross on foot, and much more rewarding than its low international profile suggests.

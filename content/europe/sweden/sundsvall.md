@@ -14,6 +14,10 @@ snippet: Northern Swedish coastal city rebuilt in stone after the 1888 fire, cre
   its Stenstan centre.
 title: Sundsvall
 type: location
+heritage: 3.9
+vibrancy: 2.8
+nature: 5.8
+off_the_beaten_track: 2.1
 ---
 
 Sundsvall sits on the coast of northern Sweden, squeezed between two forested hills — [Norra Stadsberget](/europe/sweden/sundsvall/norra_stadsberget) and [Södra Stadsberget](/europe/sweden/sundsvall/sodra_stadsberget) — with the Gulf of Bothnia stretching east. The town burned to the ground in 1888 and was rebuilt entirely in stone, giving the centre an unusually grand look for a city of its size. Locals call it [Stenstan](/europe/sweden/sundsvall/stenstan), the Stone City.

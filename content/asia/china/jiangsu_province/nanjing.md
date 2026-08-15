@@ -14,6 +14,10 @@ snippet: Historic Yangtze capital city ringed by Ming walls and forested Purple 
   tombs.
 title: Nanjing
 type: location
+heritage: 5.0
+vibrancy: 6.1
+nature: 2.5
+off_the_beaten_track: 1.2
 ---
 
 Nanjing (南京), the "Southern Capital," has served as the capital of China during several dynastic periods and was the seat of the Republic of China government until 1949. The city sits on the Yangtze River surrounded by forested hills, and its scale and historical weight make it one of the most important cities in eastern China.

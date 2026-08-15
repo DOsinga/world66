@@ -14,6 +14,10 @@ snippet: Northern Mozambican bay city on the Indian Ocean, known for clear water
   coral reefs, and Quirimbas access
 title: Pemba
 type: location
+heritage: 2.5
+vibrancy: 2.3
+nature: 7.5
+off_the_beaten_track: 6.5
 ---
 
 Pemba sits at the mouth of one of the largest natural bays in the world, a deep curve of the Indian Ocean on Mozambique's northern coast. The city is the capital of Cabo Delgado province, and for travelers willing to make the journey north, it rewards with some of the finest beaches and diving conditions in eastern Africa.

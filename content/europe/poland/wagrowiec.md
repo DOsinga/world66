@@ -16,6 +16,10 @@ image: wagrowiec.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ko%C5%9Bci%C3%B3%C5%82_parafialny_pw._%C5%9Bw._Jakuba_Aposto%C5%82a_z_3._%C4%87w._XV_w._-_FARA.jpg
 image_license: CC BY-SA 3.0 pl
 image_attribution: Szymon Śliwiński
+heritage: 4.4
+vibrancy: 2.2
+nature: 3.6
+off_the_beaten_track: 1.7
 ---
 
 Wągrowiec is a small town in Greater Poland, northeast of [Poznan](/europe/poland/poznan), where the Wełna River meets Durowskie Lake. It is not one of Poland's big-name stops, but it has enough odd and specific sights for a slow day: Cistercian remains, lakeside paths, and a rare river bifurcation where two waterways cross.

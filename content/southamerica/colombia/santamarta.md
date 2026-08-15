@@ -16,6 +16,10 @@ image: santamarta.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2018_Santa_Marta_(Colombia)_-_Casa_amarilla_en_la_esquina_de_la_calle_18_con_carrera_4.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Felipe Restrepo Acosta
+heritage: 4.6
+vibrancy: 7.2
+nature: 6.8
+off_the_beaten_track: 4.5
 ---
 
 Santa Marta is South America's oldest surviving city, founded in 1525 on a bay where the Sierra Nevada de Santa Marta drops steeply to the Caribbean. That collision of mountain and sea defines the place: snow-capped peaks loom behind tropical beaches, and the surrounding national parks hold some of Colombia's most spectacular landscapes.

@@ -6,7 +6,8 @@ latitude: 18.8442
 longitude: -99.6753
 wikidata: Q2018330
 score: 6.8
-snippet: Mexican spa town of mineral waters, colonial streets, and caves south of Toluca.
+snippet: Mexican spa town of mineral waters, colonial streets, and caves south of
+  Toluca.
 sources:
 - https://en.wikivoyage.org/wiki/Ixtapan_de_la_Sal
 - https://en.wikipedia.org/wiki/Ixtapan_de_la_Sal
@@ -17,6 +18,10 @@ image: ixtapan_de_la_sal.jpg
 image_source: https://commons.wikimedia.org/wiki/File:PlazaChurchIxtapan.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Thelmadatter
+heritage: 3.6
+vibrancy: 3.4
+nature: 5.5
+off_the_beaten_track: 1.9
 ---
 
 Ixtapan de la Sal is a small spa town in the State of Mexico, south of Toluca on the old road toward Taxco. Its name points to salt and water, and that is still the reason to come: mineral springs, public baths, family water parks, and a slow colonial centre around the parish church.

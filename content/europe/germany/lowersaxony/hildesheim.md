@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/St._Michael%27s_Church,_Hildesheim
 title: Hildesheim
 type: location
+heritage: 8.2
+vibrancy: 4.5
+nature: 2.8
+off_the_beaten_track: 2.3
 ---
 
 Hildesheim is a mid-sized city in [Lower Saxony](/europe/germany/lowersaxony) whose two Romanesque churches — [St. Michael's](/europe/germany/lowersaxony/hildesheim/st_michaels_church) and the [Cathedral of the Assumption](/europe/germany/lowersaxony/hildesheim/hildesheim_cathedral) — are UNESCO World Heritage Sites. Both date to around 1000 AD and contain remarkable art, including the famous [Bernward Doors](/europe/germany/lowersaxony/hildesheim/bernward_doors) and the Bernward Column in the cathedral.

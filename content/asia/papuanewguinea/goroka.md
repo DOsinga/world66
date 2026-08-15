@@ -6,16 +6,21 @@ latitude: -6.083333
 longitude: 145.383333
 wikidata: Q498192
 score: 6.8
-snippet: Eastern Highlands town known for coffee country, the Goroka Show, and Asaro Mudmen.
+snippet: Eastern Highlands town known for coffee country, the Goroka Show, and Asaro
+  Mudmen.
 sources:
-  - https://en.wikivoyage.org/wiki/Goroka
-  - https://papuanewguinea.travel/eastern-highlands-province/
-  - https://papuanewguinea.travel/events/goroka-show/
-  - https://en.wikipedia.org/wiki/Goroka
+- https://en.wikivoyage.org/wiki/Goroka
+- https://papuanewguinea.travel/eastern-highlands-province/
+- https://papuanewguinea.travel/events/goroka-show/
+- https://en.wikipedia.org/wiki/Goroka
 image: goroka.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Goroka.JPG
 image_license: CC BY 3.0
 image_attribution: Manuel Hetzel
+heritage: 3.5
+vibrancy: 4.6
+nature: 6.2
+off_the_beaten_track: 6.9
 ---
 
 Goroka is the capital of Papua New Guinea's Eastern Highlands, sitting around 1,600 metres above sea level in coffee country. The climate is cooler than the coast, the mountains press close, and the town is one of the more manageable bases for travellers trying to understand the highlands without going immediately remote.

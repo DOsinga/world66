@@ -14,6 +14,10 @@ snippet: Luxembourg abbey town founded by St Willibrord, with medieval streets a
   a famous dancing procession.
 title: Echternach
 type: location
+heritage: 7.4
+vibrancy: 4.5
+nature: 3.7
+off_the_beaten_track: 2.1
 ---
 
 Echternach is the oldest town in Luxembourg, founded around a Benedictine abbey established by the Anglo-Saxon missionary St Willibrord in 698 AD. The town was badly damaged during the Second World War — the [Basilica of St Willibrord](/europe/luxembourg/echternach/basilica_of_st_willibrord) and much of the centre were rebuilt after 1944 — but reconstruction has been successful and the historic core has recovered well. The narrow streets, [medieval ramparts](/europe/luxembourg/echternach/medieval_ramparts), and the arcaded [Place du Marché](/europe/luxembourg/echternach/place_du_marche) under the late-Gothic Denzelt town hall have considerable charm.

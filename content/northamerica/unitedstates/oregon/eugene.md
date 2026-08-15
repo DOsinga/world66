@@ -14,6 +14,10 @@ snippet: Oregon university city in the Willamette Valley, with a strong running 
   rooted at Hayward Field.
 title: Eugene
 type: location
+heritage: 3.2
+vibrancy: 5.6
+nature: 5.6
+off_the_beaten_track: 2.1
 ---
 
 Eugene is Oregon's second city, with around 175,000 people, sitting in the Willamette Valley where the McKenzie River joins the Willamette. It is a university town — the [University of Oregon](/northamerica/unitedstates/oregon/eugene/university_of_oregon) is its heart — and the culture reflects that: progressive, outdoors-oriented, with good live music and a strong running tradition. The legendary long-distance runner Steve Prefontaine trained here under Bill Bowerman, who went on to co-found Nike, and [Hayward Field](/northamerica/unitedstates/oregon/eugene/hayward_field) remains one of the finest track venues in the world.

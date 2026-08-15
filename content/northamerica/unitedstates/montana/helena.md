@@ -16,6 +16,10 @@ snippet: Montana capital in Rocky Mountain foothills, born from gold and ringed 
   pine-covered trails.
 title: Helena
 type: location
+heritage: 4.9
+vibrancy: 5.5
+nature: 5.9
+off_the_beaten_track: 3.9
 ---
 
 Helena is Montana's state capital — and an easy place to underestimate. It sits in a fold of the Rocky Mountain foothills at about 1,250 meters, surrounded by pines and granite. Most travelers pass through on the way to Glacier or Yellowstone, which puts Helena roughly equidistant between the two parks. That's worth pausing on: Helena is an excellent base for a two-park road trip, and it has more going for it than its small size suggests.

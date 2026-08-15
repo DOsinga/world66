@@ -3,15 +3,20 @@ title: Port Alberni
 type: location
 loc_type: city
 latitude: 49.2339
-longitude: -124.8050
+longitude: -124.805
 score: 6.72
-snippet: Vancouver Island mill town turned mountain-and-inlet base at the head of Alberni Inlet.
+snippet: Vancouver Island mill town turned mountain-and-inlet base at the head of
+  Alberni Inlet.
 tags:
-  - vancouverisland
+- vancouverisland
 sources:
-  - https://en.wikivoyage.org/wiki/Port_Alberni
-  - https://en.wikipedia.org/wiki/Port_Alberni
-  - https://albernivalleytourism.com/
+- https://en.wikivoyage.org/wiki/Port_Alberni
+- https://en.wikipedia.org/wiki/Port_Alberni
+- https://albernivalleytourism.com/
+heritage: 3.2
+vibrancy: 2.6
+nature: 6.7
+off_the_beaten_track: 3.3
 ---
 
 *North America > Canada > British Columbia > Port Alberni*

@@ -14,6 +14,10 @@ snippet: Roman city in Languedoc, defined by an intact amphitheatre, Maison Carr
   and warm southern street life.
 title: Nîmes
 type: location
+heritage: 7.0
+vibrancy: 5.5
+nature: 2.8
+off_the_beaten_track: 1.6
 ---
 
 Nîmes has some of the best-preserved Roman monuments anywhere in the former empire. The [Arena](/europe/france/languedoc/nimes/arenes_de_nimes), a first-century amphitheatre that once held 24,000 spectators, still hosts concerts and bullfights. The [Maison Carrée](/europe/france/languedoc/nimes/maison_carree) is the most intact Roman temple in existence — a small, elegant building that inspired Thomas Jefferson's design for the Virginia State Capitol. The Pont du Gard, the spectacular Roman aqueduct that carried water to the city, is about 25 kilometres northeast.

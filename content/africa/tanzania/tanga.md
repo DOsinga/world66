@@ -14,6 +14,10 @@ snippet: Quiet Tanzanian port city with faded German colonial architecture and a
   northern-coast rhythm.
 title: Tanga
 type: location
+heritage: 4.5
+vibrancy: 3.6
+nature: 5.4
+off_the_beaten_track: 4.3
 ---
 
 Tanga is a quiet port city on Tanzania's northern coast, about 185 km north of [Dar es Salaam](/africa/tanzania/daressalaam) and roughly halfway to the Kenyan border. It was once one of the most important towns in German East Africa, and the colonial architecture along the waterfront and main streets still gives it a faded grandeur that Dar es Salaam has long since demolished.

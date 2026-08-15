@@ -14,6 +14,10 @@ snippet: Axarquía market town above the Costa del Sol, with Moorish remains and
   wine country nearby.
 title: Velez Malaga
 type: location
+heritage: 3.9
+vibrancy: 3.2
+nature: 5.5
+off_the_beaten_track: 2.5
 ---
 
 Vélez-Málaga is the capital of the Axarquía comarca, lying about 35 km east of Málaga city in the foothills above the Costa del Sol. It's a working Andalusian market town with a Moorish castle, a 15th-century church on its site, and a lively weekly market. The Axarquía region is increasingly popular with walkers exploring the inland villages and vineyards — the area produces Málaga wine from the Muscat grape. The coast nearby, including Torre del Mar, is the town's beach strip, but the old town up the hill is what makes Vélez-Málaga worth a stop.

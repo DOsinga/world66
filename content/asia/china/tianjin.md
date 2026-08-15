@@ -18,6 +18,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Tianjin
 title: Tianjin
 type: location
+heritage: 2.5
+vibrancy: 3.7
+nature: 2.2
+off_the_beaten_track: 1.2
 ---
 
 Tianjin is Beijing's coastal neighbour — a port city of fifteen million people about half an hour south-east of the capital on the bullet train. It doesn't try to compete with Beijing for sights, and doesn't need to. What Tianjin has instead is an unexpected European pedigree: the foreign concessions carved out after the Opium Wars left whole neighbourhoods of British, French, Italian, Russian and German buildings, many of them immaculately restored. Walking the Italian Concession on the north bank of the Hai River feels like stumbling onto a small piece of Verona.

@@ -18,6 +18,10 @@ image: sleepy_hollow.jpg
 image_source: https://commons.wikimedia.org/wiki/File:SleepyHollowRiverWalk.jpg
 image_license: CC BY 4.0
 image_attribution: Irina S.B.
+heritage: 4.3
+vibrancy: 2.2
+nature: 3.4
+off_the_beaten_track: 1.4
 ---
 
 Sleepy Hollow sits on the east bank of the Hudson River, just north of Tarrytown and close enough to [New York City](/northamerica/unitedstates/newyorkstate/newyork) for an easy day trip. Its name is doing a lot of work: Washington Irving set **The Legend of Sleepy Hollow** in this low valley of old Dutch farms, churchyards, and wooded roads.

@@ -14,6 +14,10 @@ snippet: Small Massachusetts town known for Old Sturbridge Village and early New
   history
 title: Sturbridge
 type: location
+heritage: 5.3
+vibrancy: 2.7
+nature: 3.1
+off_the_beaten_track: 1.7
 ---
 
 Sturbridge is a small town in south-central Massachusetts, best known as the home of Old Sturbridge Village — a living history museum that recreates life in an early 19th-century New England community. Costumed interpreters demonstrate period crafts, farming, and domestic life across a 200-acre site with nearly 40 original buildings. It's one of the most visited outdoor history museums in New England.

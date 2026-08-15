@@ -15,6 +15,10 @@ image: kawagoe.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Alley_in_Kawagoe.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Collin Grady
+heritage: 6.4
+vibrancy: 4.5
+nature: 3.6
+off_the_beaten_track: 1.4
 ---
 
 Kawagoe is a compact old merchant city in [Saitama](/asia/japan), close enough to [Tokyo](/asia/japan/tokyo) for an easy day trip but different enough to feel like a break from the capital. It made its money supplying Edo, and its best streets still carry the heavy clay-walled storehouses, tiled roofs, and wooden shop fronts that gave it the nickname **Koedo**, or Little Edo.

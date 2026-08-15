@@ -5,10 +5,15 @@ loc_type: city
 latitude: -7.2167
 longitude: 107.9
 score: 6.7
-snippet: Sundanese highland town near volcanoes, hot springs, leather workshops, and Cangkuang temple.
+snippet: Sundanese highland town near volcanoes, hot springs, leather workshops, and
+  Cangkuang temple.
 sources:
-  - https://en.wikivoyage.org/wiki/Garut
-  - https://www.indonesia.travel/gb/en/travel-ideas/adventure/explore-the-enchanting-landscapes-of-garut-a-guide-to-west-javas-hidden-gem
+- https://en.wikivoyage.org/wiki/Garut
+- https://www.indonesia.travel/gb/en/travel-ideas/adventure/explore-the-enchanting-landscapes-of-garut-a-guide-to-west-javas-hidden-gem
+heritage: 2.8
+vibrancy: 2.6
+nature: 6.0
+off_the_beaten_track: 3.4
 ---
 
 *Asia > Indonesia > Java > Garut*

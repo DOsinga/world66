@@ -5,12 +5,17 @@ loc_type: city
 latitude: 48.95
 longitude: -88.2833
 score: 6.0
-snippet: Tiny Lake Superior township with cliff trails, Nipigon Bay views, and a working marina.
+snippet: Tiny Lake Superior township with cliff trails, Nipigon Bay views, and a working
+  marina.
 sources:
 - https://en.wikivoyage.org/wiki/Red_Rock_(Ontario)
 - https://en.wikipedia.org/wiki/Red_Rock,_Ontario
 - https://superiorcountry.ca/communities/red-rock/
 - https://parks.canada.ca/amnc-nmca/on/super/activ/experiences/randonnees-hiking/redrock
+heritage: 1.4
+vibrancy: 1.5
+nature: 6.0
+off_the_beaten_track: 4.3
 ---
 
 Red Rock is a very small [Ontario](/northamerica/canada/ontario) township on Nipigon Bay, the kind of Lake Superior stop that makes sense only if you care about the outdoors. The old paper mill is gone, but the cliffs, cold water, forested ridges, and marina still give the place a clear reason to exist for travellers.

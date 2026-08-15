@@ -13,6 +13,10 @@ snippet: Dominican resort zone on the southeastern coast, known for long palm-li
   beaches and calm reef-protected water.
 title: Punta Cana
 type: location
+heritage: 2.1
+vibrancy: 6.1
+nature: 7.1
+off_the_beaten_track: 1.8
 ---
 
 Punta Cana is the Dominican Republic's premier resort zone, occupying the country's southeastern tip where the Atlantic Ocean meets the Caribbean Sea. The combination — palm-lined beaches stretching for 50 km, a coral reef close enough to the shore to keep the waters calm, warm year-round temperatures, and an international airport that brings direct flights from Europe and North America — makes it one of the most visited places in the Caribbean.

@@ -10,6 +10,10 @@ title: Zinga
 snippet: Oubangui River settlement south of Bangui, where wooden houses and fishing
   pirogues line the border waterway.
 type: location
+heritage: 0.6
+vibrancy: 1.6
+nature: 3.3
+off_the_beaten_track: 7.0
 ---
 
 Zinga is a small riverside settlement south of [Bangui](/africa/centralafricanrepublic/bangui) on the [Oubangui River](/africa/centralafricanrepublic/zinga/oubangui_river), which forms the border with the Democratic Republic of Congo. Wooden houses line the bank, fishing pirogues cross to the Congolese side, and daily life revolves entirely around the water. It makes a natural stop on a river journey — the [Lobaye River confluence](/africa/centralafricanrepublic/zinga/lobaye_confluence) is a few kilometres downstream.

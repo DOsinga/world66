@@ -14,6 +14,10 @@ snippet: Mohawk River city in upstate New York, marked by faded carpet-mill gran
   and canal-era streets
 title: Amsterdam
 type: location
+heritage: 3.7
+vibrancy: 4.7
+nature: 4.2
+off_the_beaten_track: 1.1
 ---
 
 Amsterdam is a small city on the Mohawk River in upstate New York, about 30 miles northwest of Albany. Once a prosperous carpet-manufacturing centre, it has the faded-grandeur look common to former mill towns in the Northeast — handsome 19th-century commercial buildings alongside empty lots. The castellated [Amsterdam Castle](/northamerica/unitedstates/newyorkstate/amsterdam/amsterdam_castle) on Florida Avenue and the award-winning [Mohawk Valley Gateway Overlook](/northamerica/unitedstates/newyorkstate/amsterdam/gateway_overlook) pedestrian bridge over the river are the two stand-out pieces of civic architecture.

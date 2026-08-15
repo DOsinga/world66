@@ -10,6 +10,10 @@ title: Flint
 snippet: Eastern Michigan industrial city where General Motors roots still frame downtown
   museums and Art Deco buildings.
 type: location
+heritage: 3.0
+vibrancy: 2.5
+nature: 4.2
+off_the_beaten_track: 2.5
 ---
 
 Flint is a working-class city in eastern Michigan that was once the birthplace of General Motors and the heart of American automobile manufacturing. The boom years built grand Art Deco buildings downtown and a cultural infrastructure — museums, theatres, a university — that still anchors the city today.

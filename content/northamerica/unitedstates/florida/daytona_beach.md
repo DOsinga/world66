@@ -15,6 +15,10 @@ snippet: Florida beach city where hard-packed sand and stock-car racing shaped a
   of speed.
 title: Daytona Beach
 type: location
+heritage: 2.1
+vibrancy: 4.5
+nature: 5.2
+off_the_beaten_track: 1.3
 ---
 
 Daytona Beach is Florida's racing capital and one of the East Coast's most famous beach resort towns. The [23-mile stretch of hard-packed sand](/northamerica/unitedstates/florida/daytona_beach/the_beach) is wide enough to drive on — and for much of the 20th century, people did, setting land speed records here before the races moved to purpose-built tracks. Today the beach is still open to vehicles (with a fee), which gives it a lively, slightly anarchic atmosphere unlike any other Florida resort.

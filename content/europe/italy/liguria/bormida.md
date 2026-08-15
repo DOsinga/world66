@@ -16,6 +16,10 @@ tags:
 - rivieradellepalme
 title: Bormida
 type: location
+heritage: 2.4
+vibrancy: 1.7
+nature: 4.8
+off_the_beaten_track: 4.5
 ---
 
 Bormida is a small commune in the upper valley of the Bormida di Pallare river, in the Ligurian hinterland. Its precise origins are uncertain, but it is documented from 1549, when Marchese Alfonso Del Carretto granted privileges to its inhabitants. The village subsequently passed under Spanish rule and was transferred to the Republic of Genoa in 1713, before being badly damaged in Napoleon's campaign of 1796.

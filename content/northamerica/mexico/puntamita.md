@@ -11,6 +11,10 @@ image: puntamita.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Casa_Tesoro_in_Punta_Mito_Mexico.jpg
 image_license: CC BY-SA 4.0
 image_attribution: interentals.com
+heritage: 2.2
+vibrancy: 3.9
+nature: 6.0
+off_the_beaten_track: 1.8
 ---
 
 Punta Mita is the narrow peninsula at the northern tip of Banderas Bay, about 45 minutes north of central [Puerto Vallarta](/northamerica/mexico/puertovallarta). The point itself was a humble fishing village called Corral del Risco until the 1990s, when most of the surrounding land was sold off to luxury resorts — the Four Seasons, the St Regis — and gated golf communities. The original village still survives at the eastern edge, where palapa restaurants serve the fishermen's daily catch and the atmosphere is far more down-to-earth than the resort gates suggest.

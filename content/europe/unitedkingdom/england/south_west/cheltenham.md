@@ -16,6 +16,10 @@ tags:
 - cotswolds
 title: Cheltenham
 type: location
+heritage: 5.7
+vibrancy: 4.9
+nature: 3.9
+off_the_beaten_track: 1.3
 ---
 
 Cheltenham is the most sophisticated town in the county and the obvious base for exploring the [Cotswolds](/europe/unitedkingdom/england/cotswolds). It became fashionable after George III took the waters here in 1788, and the Regency building boom that followed left it with wide tree-lined streets, ornate ironwork balconies, and a sense of confident elegance that has worn well.

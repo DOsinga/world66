@@ -10,6 +10,10 @@ title: Kuala Belait
 snippet: Quiet Bruneian river-mouth town near Sarawak, shaped by oil wealth and Belait
   district life.
 type: location
+heritage: 3.7
+vibrancy: 4.0
+nature: 5.2
+off_the_beaten_track: 2.3
 ---
 
 Kuala Belait is a small, quiet town at the mouth of the Belait River in the southwest of [Brunei](/asia/brunei) — the last stop before the border crossing into Sarawak, Malaysia. The town exists largely because of the oil industry; Shell has had a presence in the region since the 1930s and the surrounding district is the centre of Brunei's petroleum wealth.

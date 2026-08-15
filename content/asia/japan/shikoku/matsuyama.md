@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Matsuyama
 title: Matsuyama
 type: location
+heritage: 6.1
+vibrancy: 3.5
+nature: 5.4
+off_the_beaten_track: 2.5
 ---
 
 Shikoku's largest city is also arguably its most interesting. Matsuyama has one of Japan's handful of original feudal castles still standing on its hilltop, a historic hot spring resort practically attached to the city limits, and a strong literary identity rooted in haiku — the poet [Masaoka Shiki](/asia/japan/shikoku/matsuyama/masaoka_shiki_memorial_museum) was born here, and his influence is still felt.

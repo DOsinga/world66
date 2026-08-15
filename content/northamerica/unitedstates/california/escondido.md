@@ -14,6 +14,10 @@ snippet: Inland San Diego County city known for the Safari Park and Queen Califi
   sculpture garden.
 title: Escondido
 type: location
+heritage: 2.3
+vibrancy: 2.8
+nature: 3.8
+off_the_beaten_track: 1.6
 ---
 
 Escondido — Spanish for "hidden" — sits inland from the San Diego coast in a broad valley between rolling hills of chaparral and avocado orchards. Thirty miles north of downtown San Diego, it is best known as the gateway to the [San Diego Zoo Safari Park](/northamerica/unitedstates/california/escondido/san_diego_zoo_safari_park), the 1,800-acre open-range wildlife preserve that is one of the most impressive animal parks in the United States. Most visitors arrive for the Safari Park and leave the same day, which is understandable but misses the point.

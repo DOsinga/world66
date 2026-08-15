@@ -18,6 +18,10 @@ sources:
 - https://culturemap.kz/en/object/pavlodarskiiy-oblastnoiy-istoriko-kraevedcheskiiy-muzeiy
 title: Pavlodar
 type: location
+heritage: 2.1
+vibrancy: 1.5
+nature: 2.4
+off_the_beaten_track: 5.3
 ---
 
 Pavlodar sits on the Irtysh River in north-eastern Kazakhstan, closer in mood to Siberia than to the mountains and bazaars of the south. It is an industrial and university city, not an obvious postcard stop, but it has a broad riverfront, a handsome central mosque, good regional museums, and a strong sense of the northern steppe.

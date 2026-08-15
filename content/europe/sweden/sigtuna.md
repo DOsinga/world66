@@ -15,6 +15,10 @@ title: Sigtuna
 type: location
 snippet: Lake Mälaren town with Viking-age roots, rune stones, and Sweden's oldest-town
   claim.
+heritage: 7.8
+vibrancy: 3.8
+nature: 4.2
+off_the_beaten_track: 1.8
 ---
 
 Sigtuna claims to be Sweden's oldest town, founded around 980 AD as a royal stronghold on the shores of Lake Mälaren. Whether the claim is strictly accurate or not, the town feels ancient — [Stora Gatan](/europe/sweden/sigtuna/stora_gatan), the single main street of low wooden houses, handicraft shops, and cafes, leads past ruined medieval churches to the tiny [Sigtuna Rådhus](/europe/sweden/sigtuna/sigtuna_radhus), said to be Sweden's smallest city hall.

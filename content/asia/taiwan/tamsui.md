@@ -11,6 +11,10 @@ image: tamsui.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Tamsui_skyline,_New_Taipei,_Taiwan_20160213.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Ludovic Lubeigt
+heritage: 4.3
+vibrancy: 4.2
+nature: 5.3
+off_the_beaten_track: 1.4
 ---
 
 Tamsui sits at the mouth of the Tamsui River, an hour from central Taipei at the end of the red MRT line. For most of its history it was northern Taiwan's principal port, and the foreign powers who traded here — Spanish, Dutch, and finally British — each left their mark on the bluff above the river. Today it is the city's classic half-day outing: a broad, lively riverfront promenade, a string of historic buildings on the hillside, and a sunset over the Taiwan Strait that draws crowds every clear evening.

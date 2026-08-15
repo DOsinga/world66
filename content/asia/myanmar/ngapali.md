@@ -13,6 +13,10 @@ snippet: Low-key Myanmar beach village with white sand, coconut palms, fishing h
   and offshore snorkelling trips.
 title: Ngapali
 type: location
+heritage: 2.3
+vibrancy: 3.0
+nature: 6.3
+off_the_beaten_track: 4.4
 ---
 
 Ngapali Beach is one of the most beautiful stretches of coast in [Myanmar](/asia/myanmar) — kilometres of unspoilt white sand fringed with coconut palms and backed by the blue hills of Rakhine State. Unlike the overdeveloped beaches of Southeast Asia, Ngapali remains quiet and low-key, with a handful of small resorts and local fishing villages along the shore.

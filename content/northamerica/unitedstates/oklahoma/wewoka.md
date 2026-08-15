@@ -14,6 +14,10 @@ snippet: Central Oklahoma prairie city and Seminole Nation capital, named for ba
   water and shaped by tribal history.
 title: Wewoka
 type: location
+heritage: 1.8
+vibrancy: 1.9
+nature: 2.1
+off_the_beaten_track: 1.5
 ---
 
 Wewoka is the capital of the Seminole Nation of Oklahoma, a small city in the rolling prairie of central Oklahoma. The name means "barking water" in the Seminole language, a reference to the sound of a nearby creek cascading over rocks.

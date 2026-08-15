@@ -13,6 +13,10 @@ image: pullman.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Martin_Stadium_Aerial,_Pullman_WA,_March_2024.jpg
 image_license: CC0
 image_attribution: Spicypepper999
+heritage: 3.4
+vibrancy: 3.4
+nature: 4.0
+off_the_beaten_track: 3.7
 ---
 
 Pullman is the main city of Washington's Palouse and the home of Washington State University. It is a college town first: steep streets, red-brick campus buildings, game-day traffic, student bars, and a population that rises and falls with the academic calendar.

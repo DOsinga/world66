@@ -14,6 +14,10 @@ image: dongguan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:KE_YUAN,_DONGGUAN,_CHINA_(13).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Dinkun Chen
+heritage: 1.9
+vibrancy: 3.1
+nature: 2.4
+off_the_beaten_track: 1.1
 ---
 
 Dongguan sits between [Guangzhou](/asia/china/guangdong/guangzhou) and [Shenzhen](/asia/china/guangdong/shenzhen), and for many travellers that is exactly the problem: it is easy to treat the city as the industrial blur outside the train window. That misses the oddness of the place. Dongguan is a huge manufacturing city, but it also contains Humen, where Lin Zexu's destruction of imported opium helped trigger the First Opium War.

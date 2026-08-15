@@ -15,6 +15,10 @@ snippet: Historic Brandenburg town north of Berlin, with medieval gates and a la
   Bauhaus trade union school
 title: Bernau bei Berlin
 type: location
+heritage: 4.9
+vibrancy: 2.5
+nature: 3.1
+off_the_beaten_track: 1.9
 ---
 
 Bernau bei Berlin is a small historic town about 25km north of Berlin, easily reached by S-Bahn (line S2). It has a well-preserved medieval centre, including three of its original town gates — the [Steintor](bernau_bei_berlin/steintor), the [Werdertor](bernau_bei_berlin/werdertor), and the [Mühlentor](bernau_bei_berlin/muehlentor) — and a history dating back to the 13th century. It makes an excellent half-day or full-day trip from Berlin for anyone interested in Brandenburg's medieval past and in one of the finest Bauhaus buildings in Germany.

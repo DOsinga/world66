@@ -5,11 +5,16 @@ loc_type: city
 latitude: 49.701
 longitude: -123.1583
 score: 8.0
-snippet: Sea to Sky mountain town at Howe Sound, famous for granite cliffs and outdoor sports.
+snippet: Sea to Sky mountain town at Howe Sound, famous for granite cliffs and outdoor
+  sports.
 sources:
-  - https://en.wikivoyage.org/wiki/Squamish
-  - https://www.exploresquamish.com/things-to-do/activities-adventures/sea-to-sky-gondola/
-  - https://bcparks.ca/shannon-falls-park/
+- https://en.wikivoyage.org/wiki/Squamish
+- https://www.exploresquamish.com/things-to-do/activities-adventures/sea-to-sky-gondola/
+- https://bcparks.ca/shannon-falls-park/
+heritage: 3.3
+vibrancy: 5.3
+nature: 7.5
+off_the_beaten_track: 2.8
 ---
 
 Squamish sits at the head of Howe Sound, where the Sea to Sky Highway squeezes between dark water, rainforest, and granite. It is close enough to [Vancouver](/northamerica/canada/britishcolumbia/vancouver) for a day trip, but it has a different mood: less city escape than outdoor workshop.

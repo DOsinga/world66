@@ -13,6 +13,10 @@ snippet: Spanish colonial city in Luzon, preserving Calle Crisologo's stone-and-
   houses and capiz windows
 title: Vigan
 type: location
+heritage: 6.4
+vibrancy: 4.1
+nature: 4.4
+off_the_beaten_track: 2.3
 ---
 
 Vigan is a colonial town on the northwest coast of Luzon in the [Philippines](/asia/philippines), and one of the best-preserved examples of a Spanish colonial town in Asia. The old quarter, Calle Crisologo, is a cobblestone street lined with ancestral houses — two-storey stone-and-wood buildings with capiz shell windows that glow amber at sunset. UNESCO listed the historic centre as a World Heritage Site in 1999.

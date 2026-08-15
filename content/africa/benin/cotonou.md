@@ -13,6 +13,10 @@ snippet: Benin's commercial city and transport hub, centred on Dantokpa Market, 
   lagoon, and Boulevard de la Marina.
 title: Cotonou
 type: location
+heritage: 5.2
+vibrancy: 5.0
+nature: 3.3
+off_the_beaten_track: 4.9
 ---
 
 Cotonou is the most important city of Benin. [Porto-Novo](/africa/benin/portonovo) is the official capital, but in economic activity Cotonou takes the first place. It is the country's commercial engine, its transport hub, and the place to arrange visas and onward travel.

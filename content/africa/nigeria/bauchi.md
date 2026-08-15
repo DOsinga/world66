@@ -5,11 +5,16 @@ loc_type: city
 latitude: 10.3158
 longitude: 9.8442
 score: 6.0
-snippet: Northern Nigerian state capital with emirate architecture and Tafawa Balewa independence history.
+snippet: Northern Nigerian state capital with emirate architecture and Tafawa Balewa
+  independence history.
 wikidata: Q811144
 sources:
-  - https://en.wikivoyage.org/wiki/Bauchi
-  - https://en.wikipedia.org/wiki/Bauchi
+- https://en.wikivoyage.org/wiki/Bauchi
+- https://en.wikipedia.org/wiki/Bauchi
+heritage: 3.2
+vibrancy: 2.2
+nature: 2.7
+off_the_beaten_track: 5.6
 ---
 
 Bauchi is a northern Nigerian state capital with an older identity than its government offices suggest. Before British rule it was the seat of the Bauchi Emirate, founded in the early 19th century, and the city's most interesting sights still sit around that emirate and early Nigerian independence history.

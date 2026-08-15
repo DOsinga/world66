@@ -11,6 +11,10 @@ image: howth.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Howth_Cliff_Path._Howth,_Dublin,_Ireland.jpg
 image_license: CC0
 image_attribution: Chemistry&amp;art
+heritage: 4.6
+vibrancy: 3.2
+nature: 6.1
+off_the_beaten_track: 3.9
 ---
 
 Howth is a fishing village and rocky headland about 15 kilometres northeast of Dublin city centre, sitting at the northern arm of Dublin Bay. It is one of the easiest escapes from the capital — half an hour on the DART train drops you right at the harbour, and you can be walking a clifftop in the time it would take to cross town. The village grew up around its working harbour, and trawlers still land their catch here, which is why the seafood is as good as it is.

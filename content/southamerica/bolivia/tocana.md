@@ -16,6 +16,10 @@ image: tocana.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Carrers_de_Toca%C3%B1a.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Pitxiquin
+heritage: 1.6
+vibrancy: 1.8
+nature: 3.9
+off_the_beaten_track: 5.6
 ---
 
 Tocaña is a small Afro-Bolivian village about fifteen kilometres south of [Coroico](/southamerica/bolivia/coroico), set deep in the cloudforest of the Nor Yungas. Together with a handful of neighbouring communities, it is home to most of Bolivia's small Afro-descendant population — the descendants of enslaved Africans brought to the colonial silver mines at Potosí and later moved down to the warmer Yungas to grow coca and coffee. Many residents still speak with a distinctive accent and keep their own music and dance traditions alive.

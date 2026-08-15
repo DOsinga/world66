@@ -14,6 +14,10 @@ snippet: Galician sea inlet guarded by the Cíes Islands, with fishing ports and
   platforms along its shores.
 title: Ría de Vigo
 type: location
+heritage: 4.3
+vibrancy: 4.0
+nature: 7.1
+off_the_beaten_track: 2.7
 ---
 
 The Ría de Vigo is the southernmost of Galicia's great sea inlets — an unusual one, because it narrows at Rande before widening again into the inner San Simón Bay, giving it a more complex shape than the other rías. At the entrance stand the [Cíes Islands](/europe/spain/galicia/ria_of_vigo/cies_islands), a protected natural park of dramatic cliffs and white-sand beaches, reachable by ferry from Vigo. The Spanish government has described the Cíes beaches as some of the finest in the world, and in summer access is limited by permit to protect the ecosystem.

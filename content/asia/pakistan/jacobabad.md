@@ -10,6 +10,10 @@ snippet: Northern Sindh district capital founded by General John Jacob and linke
   to 19th-century irrigation works.
 title: Jacobabad
 type: location
+heritage: 2.3
+vibrancy: 1.5
+nature: 1.8
+off_the_beaten_track: 4.5
 ---
 
 Jacobabad is a district capital in northern Sindh, near the Balochistan border. Founded in the 19th century by General John Jacob, a British military engineer who built irrigation canals and established the town as an administrative center, it remains one of the hottest inhabited places on earth — summer temperatures regularly exceed 50°C, and readings of 52°C have been recorded. This is not a place to visit in June, July, or August unless you have a very good reason.

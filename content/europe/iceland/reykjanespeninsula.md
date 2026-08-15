@@ -17,6 +17,10 @@ image: reykjanespeninsula.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Reykjanesviti,_Reykjanes,_Iceland,_20230430_1330_3606.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Jakub Hałun
+heritage: 2.9
+vibrancy: 1.5
+nature: 7.6
+off_the_beaten_track: 2.8
 ---
 
 The Reykjanes Peninsula is the first piece of Iceland most international travellers touch, but too many hurry through it between Keflavík Airport and [Reykjavik](/europe/iceland/reykjavik). That is a mistake. This is one of the most geologically blunt landscapes in the country: black lava, steaming vents, fissures, lighthouses, power plants, and rough Atlantic edges packed into a compact half-day loop.

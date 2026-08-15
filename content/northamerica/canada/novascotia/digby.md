@@ -16,6 +16,10 @@ image: digby.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Digby_Nova_Scotia.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Aconcagua
+heritage: 4.5
+vibrancy: 2.9
+nature: 6.0
+off_the_beaten_track: 2.9
 ---
 
 Digby is a small working town on the Bay of Fundy, best known for scallops and the ferry from Saint John. It is not polished, and that helps: the waterfront still belongs to boats, weather, and restaurants selling the catch that made the town famous.

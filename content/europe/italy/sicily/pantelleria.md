@@ -14,6 +14,10 @@ title: Pantelleria
 type: location
 snippet: Volcanic Sicilian island closer to Tunisia than Sicily, known for black lava
   cliffs and caper terraces.
+heritage: 4.3
+vibrancy: 2.0
+nature: 6.3
+off_the_beaten_track: 5.0
 ---
 
 Pantelleria is the strange and beautiful volcanic island that sits in the Strait of Sicily, closer to Tunisia than to Sicily itself. Black lava cliffs, almost no beaches, hot springs that steam up from the sea floor, dry-stone walls dividing terraces of zibibbo vines and capers — it has a singular landscape that has very little in common with the rest of Italy. The wind blows almost constantly, and the name, from the Arabic *Bint al-riyāḥ*, means "daughter of the wind."

@@ -24,6 +24,10 @@ tip: 'Lilongwe is a quiet, low-rise capital split in two: the modern City Centre
   heart of Africa''.'
 title: Lilongwe
 type: location
+heritage: 3.2
+vibrancy: 4.0
+nature: 4.8
+off_the_beaten_track: 2.6
 ---
 
 Lilongwe is the capital of Malawi and a city of sharp contrasts: a quiet, green, planned capital of wide avenues and government buildings on one side, and a busy, dusty African market town on the other, with about three kilometres of highway between the two. Most visitors to Malawi pass through it without lingering — Lilongwe is a practical stopover rather than a destination in its own right — but if you have a day or two to fill, it rewards a little exploration.

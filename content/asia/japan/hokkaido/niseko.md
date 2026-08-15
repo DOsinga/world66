@@ -16,6 +16,10 @@ image: niseko.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mt-nisekoannupuri-summer.jpg
 image_license: Public domain
 image_attribution: Oga~commonswiki
+heritage: 2.5
+vibrancy: 6.3
+nature: 7.3
+off_the_beaten_track: 5.5
 ---
 
 Niseko is Hokkaido's best-known international ski town, spread around the lower slopes of Mount Annupuri with Mount Yotei standing across the valley like a smaller Fuji. The appeal is simple: cold Siberian weather drops dry powder on a linked set of ski areas, then the day ends in hot spring baths instead of a long drive back to a city.

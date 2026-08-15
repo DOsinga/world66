@@ -12,6 +12,10 @@ image: pelabuhan_ratu.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Fishing_Boats_at_Pelabuhan_Ratu,_Sukabumi,_West_Java,_Indonesia.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Hiroshi sanjuro
+heritage: 2.2
+vibrancy: 2.0
+nature: 5.5
+off_the_beaten_track: 4.0
 ---
 
 Pelabuhan Ratu is a fishing port and beach town on the south coast of West Java, facing the Indian Ocean. Its name means "Port of the Queen", a reference locals connect with Nyai Roro Kidul, the Queen of the Southern Sea in Sundanese mythology.

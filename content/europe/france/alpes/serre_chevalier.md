@@ -17,6 +17,10 @@ image: serre_chevalier.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Alps_location_map.png
 image_license: CC BY-SA 3.0
 image_attribution: Lencer
+heritage: 3.6
+vibrancy: 2.0
+nature: 7.6
+off_the_beaten_track: 5.1
 ---
 
 Serre-Chevalier is not a single village so much as a long, high Alpine playground in the Guisane valley. It runs from the fortified town of Briancon through Chantemerle and Villeneuve to Le Monetier-les-Bains, with ski lifts climbing the sunny slopes above the valley and the wild edge of the Ecrins close by.

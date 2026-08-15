@@ -10,6 +10,10 @@ snippet: Coastal Karnataka fishing town remembered for Abbakka Rani and backed b
   long casuarina beaches.
 title: Ullal
 type: location
+heritage: 4.4
+vibrancy: 3.9
+nature: 5.3
+off_the_beaten_track: 3.7
 ---
 
 Ullal is a small coastal town about 10 km south of [Mangalore](/asia/india/karnataka/konkan_coast/mangalore), where the Netravathi and Gurpur rivers meet the Arabian Sea. It is still primarily a fishing village — boats go out at night, the catch comes in at dawn — but it sits close enough to Mangalore to draw visitors looking for a quieter stretch of coast.

@@ -13,6 +13,10 @@ snippet: Southwest Virginia town at the I-77 and I-81 junction, named for signer
   Wythe.
 title: Wytheville
 type: location
+heritage: 3.9
+vibrancy: 2.4
+nature: 3.7
+off_the_beaten_track: 2.9
 ---
 
 Wytheville is a small town in the Blue Ridge Highlands of southwest Virginia, sitting at the junction of Interstates 77 and 81 — which makes it one of the most passed-through towns in the state. Most travelers stop for gas; the smarter ones stop for longer.

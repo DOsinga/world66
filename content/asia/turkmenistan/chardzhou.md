@@ -13,6 +13,10 @@ snippet: Amu Darya border city and eastern Turkmenistan transport hub, also know
   as Türkmenabat.
 title: Chardzhou
 type: location
+heritage: 1.7
+vibrancy: 1.4
+nature: 2.7
+off_the_beaten_track: 6.5
 ---
 
 Chardzhou — now officially known as Türkmenabat — is [Turkmenistan](/asia/turkmenistan)'s second-largest city, sitting on the banks of the Amu Darya river close to the Uzbekistan border. With a population of around 250,000, it is the main urban centre of eastern Turkmenistan and the country's most important border crossing point.

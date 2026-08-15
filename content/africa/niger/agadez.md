@@ -18,6 +18,10 @@ sources:
 - https://whc.unesco.org/en/list/1268
 title: Agadez
 type: location
+heritage: 2.5
+vibrancy: 2.0
+nature: 3.4
+off_the_beaten_track: 7.2
 ---
 
 Agadez is the desert capital of Niger and one of the great Saharan crossroads cities, comparable in history and atmosphere to [Timbuktu](/africa/mali/timbuktu) in Mali. Founded as a trans-Saharan trading post in the 11th century, it reached its peak in the 16th century when 30,000 people lived here and caravans carrying gold, salt, and slaves connected sub-Saharan Africa with the Mediterranean. The [old city](/africa/niger/agadez/old_city) is a UNESCO World Heritage Site, a labyrinth of mud-brick houses and narrow alleys essentially unchanged in form for five centuries.

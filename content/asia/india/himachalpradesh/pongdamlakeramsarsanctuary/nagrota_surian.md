@@ -14,6 +14,10 @@ snippet: Small Himachal town on Pong Dam Lake, a practical base for Ramsar wetla
   birdwatching.
 title: Nagrota Surian
 type: location
+heritage: 1.6
+vibrancy: 1.4
+nature: 6.2
+off_the_beaten_track: 3.9
 ---
 
 Nagrota Surian is a small town on the edge of the [Pong Dam Lake wetlands](/asia/india/himachalpradesh/pongdamlakeramsarsanctuary/pong_dam_lake), and the most practical base for exploring this Ramsar-designated bird sanctuary. The lake and its surrounding marshes attract hundreds of thousands of migratory birds between November and March, including bar-headed geese, ruddy shelducks, and various species of wader. The lake is also one of the best places in the western Himalayas for [mahseer fishing](/asia/india/himachalpradesh/pongdamlakeramsarsanctuary/pong_dam_fishing).

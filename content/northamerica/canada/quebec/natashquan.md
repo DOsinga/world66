@@ -17,6 +17,10 @@ image: natashquan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Les_Galets_de_Natashquan_02.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Cephas
+heritage: 2.2
+vibrancy: 0.7
+nature: 7.9
+off_the_beaten_track: 7.3
 ---
 
 Natashquan sits near the end of the long road along Québec's Côte-Nord, where the Gulf of St. Lawrence, Innu country, Acadian fishing history, and Québec song all meet in a small place. It is remote enough that arrival still feels like an event.

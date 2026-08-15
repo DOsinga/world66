@@ -13,6 +13,10 @@ image: bengkulu.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bengkulu_City_and_Fort_Marlborough.jpg
 image_license: CC BY-SA 2.0
 image_attribution: sbamueller
+heritage: 4.4
+vibrancy: 3.5
+nature: 5.2
+off_the_beaten_track: 4.3
 ---
 
 Bengkulu is a slow coastal capital on Sumatra's west coast, far from the busier overland route through Medan, Bukittinggi, and Padang. It was once the British pepper outpost of Bencoolen, held by the East India Company before being swapped for Malacca in 1824, and that odd colonial history still gives the city its most memorable landmark.

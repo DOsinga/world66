@@ -17,6 +17,10 @@ image: havre_saint_pierre.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Havre-Saint-Pierre.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Cephas
+heritage: 2.8
+vibrancy: 0.8
+nature: 8.1
+off_the_beaten_track: 6.4
 ---
 
 Havre-Saint-Pierre is a small harbour town on Quebec's far North Shore, where the Gulf of St Lawrence feels wide, cold, and very alive. It is remote by southern Quebec standards, but not vague: fishing boats, Acadian family names, Innu culture, and the pale limestone islands offshore give it a clear sense of place.

@@ -25,6 +25,10 @@ tip: Conakry stretches along a narrow peninsula and the Îles de Los lie just of
   one of Africa's largest, are the main sights. French is essential.
 title: Conakry
 type: location
+heritage: 5.7
+vibrancy: 4.7
+nature: 4.5
+off_the_beaten_track: 4.6
 ---
 
 Conakry is the capital of [Guinea](/africa/guineeconakry) and sits at the tip of a narrow peninsula jutting into the Atlantic. The city has grown far beyond this peninsula in recent decades, sprawling inland with little planning and heavy traffic. Getting from the center to the outskirts can take hours.

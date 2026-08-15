@@ -18,6 +18,10 @@ image: cadereyta.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cadereyta,_Queretaro_(5760820423).jpg
 image_license: CC BY 2.0
 image_attribution: Amante Darmanin from Malta
+heritage: 4.2
+vibrancy: 1.9
+nature: 2.9
+off_the_beaten_track: 3.6
 ---
 
 Cadereyta de Montes is a dry-country Pueblo Magico east of [Querétaro](/northamerica/mexico/queretaro), sitting where the Bajio begins to lean toward the Sierra Gorda. It is not the prettiest colonial town in the state, and it should not be sold that way. Its appeal is more particular: cactus gardens, a working semi-desert landscape, old churches, and roads that quickly leave the plateau for canyons and reservoirs.

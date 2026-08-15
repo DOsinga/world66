@@ -14,6 +14,10 @@ title: Aalst
 type: location
 snippet: Flemish city on the Dender known for irreverent carnival satire and a medieval
   town hall.
+heritage: 5.1
+vibrancy: 4.2
+nature: 3.5
+off_the_beaten_track: 1.6
 ---
 
 Aalst is a mid-sized Flemish city on the Dender river, halfway between [Brussels](/europe/belgium/brussels) and [Ghent](/europe/belgium/ghent). It lives somewhat in the shadow of its more famous neighbours, but it has genuine character and one of the most remarkable carnival traditions in [Belgium](/europe/belgium).

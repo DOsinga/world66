@@ -16,6 +16,10 @@ snippet: Istrian coastal town with a Roman street grid and the mosaic-filled Eup
   Basilica.
 title: Porec
 type: location
+heritage: 3.5
+vibrancy: 4.4
+nature: 5.3
+off_the_beaten_track: 1.4
 ---
 
 Porec sits halfway up the western coast of [Istria](/europe/croatia/istria), a small town built on a narrow peninsula that juts into the Adriatic. Its Roman street grid is still intact -- you can walk the original [Decumanus](/europe/croatia/porec/decumanus), the main east-west street, and Cardo Maximus crossing it at right angles, just as they were laid out two thousand years ago.

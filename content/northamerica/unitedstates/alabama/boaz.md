@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Boaz,_Alabama
 title: Boaz
 type: location
+heritage: 2.7
+vibrancy: 1.8
+nature: 2.6
+off_the_beaten_track: 2.3
 ---
 
 Boaz is a small town in the foothills of northeastern Alabama, best known as a factory [outlet shopping](/northamerica/unitedstates/alabama/boaz/outlet_shopping) destination that draws bargain hunters from across the region. With hundreds of outlet stores clustered along the main highway, Boaz bills itself as the "Outlet Capital of Alabama" — and for shoppers who make the trip, the prices often justify the claim.

@@ -10,6 +10,10 @@ snippet: Central Coast beach town between Tuggerah Lake and the Pacific, known f
   easy sands north of Sydney.
 title: The Entrance
 type: location
+heritage: 2.5
+vibrancy: 4.6
+nature: 5.2
+off_the_beaten_track: 1.3
 ---
 
 The Entrance sits on a narrow strip of land between Tuggerah Lake and the Pacific Ocean on the New South Wales Central Coast, about an hour and a half north of Sydney. It is a low-key beach town that makes a good alternative to the crowded city beaches -- the sand is just as good and you will have far more of it to yourself.

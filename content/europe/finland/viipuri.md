@@ -14,6 +14,10 @@ snippet: Historically Finnish Baltic city around Vyborg Castle, Alvar Aalto's li
   and Monrepos Park.
 title: Viipuri (Vyborg)
 type: location
+heritage: 6.3
+vibrancy: 2.9
+nature: 2.7
+off_the_beaten_track: 2.6
 ---
 
 Vyborg — *Viipuri* in Finnish — was Finland's second-largest city until it was ceded to the Soviet Union in 1944 at the end of the Continuation War. Today it is part of Russia's Leningrad Oblast, about 70 km west of St Petersburg. For Finns it remains a city of profound loss and memory; for travellers arriving from Russia, it is one of the most historically layered small towns in northern Europe.

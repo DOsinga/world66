@@ -12,6 +12,10 @@ snippet: Cosmopolitan Swedish port city on the Öresund, reshaped by shipyard re
   and links to Copenhagen.
 title: Malmö
 type: location
+heritage: 4.6
+vibrancy: 5.4
+nature: 4.8
+off_the_beaten_track: 1.1
 ---
 
 Malmö is Sweden's third-largest city and its most cosmopolitan after Stockholm. Sitting on the Öresund strait just 35 minutes by train from [Copenhagen](/europe/denmark/copenhagen), it has long been shaped by its proximity to Denmark and the continent, giving it a more relaxed, outward-looking character than you might expect from a Swedish city of 350,000 people.

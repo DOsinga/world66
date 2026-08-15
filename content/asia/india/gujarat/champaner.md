@@ -16,6 +16,10 @@ snippet: Ruined Gujarati Sultanate capital below sacred Pavagadh Hill, with mosq
 title: Champaner-Pavagadh
 type: location
 score: 7.8
+heritage: 6.9
+vibrancy: 2.5
+nature: 4.6
+off_the_beaten_track: 3.6
 ---
 
 Champaner-Pavagadh is one of Gujarat's great surprises: a ruined Sultanate capital at the foot of a sacred volcanic hill, with mosques, stepwells, gateways, palaces, fortifications, and pilgrimage paths scattered through fields and forest. It is a UNESCO World Heritage Site, but it still feels less manicured than many better-known Indian monuments.

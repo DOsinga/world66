@@ -16,6 +16,10 @@ image: heilbronn.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Heilbronn_Kilianskirche_20050828.jpg
 image_license: CC BY-SA 3.0
 image_attribution: K. Jähne
+heritage: 6.7
+vibrancy: 3.9
+nature: 3.1
+off_the_beaten_track: 2.5
 ---
 
 Heilbronn sits on the Neckar in northern Baden-Württemberg, surrounded by vineyards and rebuilt city streets. It was heavily bombed in 1944, so you do not come here for a perfectly preserved old town. You come for the pieces that survived or were rebuilt with care, and for a city that still knows it is a wine town.

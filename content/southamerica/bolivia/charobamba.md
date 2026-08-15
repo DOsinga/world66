@@ -10,6 +10,10 @@ image: charobamba.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Los_Yungas_La_Paz_-_Bolivia.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Elias Bizannes from Sydney, Australia
+heritage: 5.8
+vibrancy: 1.5
+nature: 6.5
+off_the_beaten_track: 5.3
 ---
 
 Charobamba is a small village set in magnificent cloudforest a short distance from [Coroico](/southamerica/bolivia/coroico), and its main interest is a remarkable piece of history. In the late 1930s Bolivia was one of the very few countries that accepted Jewish refugees fleeing Nazi Germany, on condition that they work the land as farmers. A small agricultural community was founded near Coroico, and Charobamba became one of its centres.

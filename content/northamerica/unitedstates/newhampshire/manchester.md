@@ -14,6 +14,10 @@ snippet: New Hampshire mill city on the Merrimack River, shaped by the vast Amos
   textile works
 title: Manchester
 type: location
+heritage: 3.9
+vibrancy: 5.1
+nature: 4.5
+off_the_beaten_track: 1.4
 ---
 
 Manchester is the largest city in New Hampshire and the largest city in New England north of Boston — a fact that surprises people who picture the region as nothing but small college towns and ski resorts. It sits on the Merrimack River, and the river is the reason it exists.

@@ -14,6 +14,10 @@ snippet: Eastern Crete harbour town built around Lake Voulismeni and a small Ven
   waterfront.
 title: Agios Nikolaos
 type: location
+heritage: 4.2
+vibrancy: 6.1
+nature: 6.1
+off_the_beaten_track: 1.7
 ---
 
 Agios Nikolaos is the capital of eastern [Crete](/europe/greece/crete)'s Lassithi region, a pleasant town of about 10,000 people built around a small lake and a Venetian harbour. It became Crete's first real tourist resort in the early 1970s and was once known for noisy nightlife, but has since settled into a more relaxed, upmarket identity. The recent addition of a large marina has added sailing regattas to the summer calendar.

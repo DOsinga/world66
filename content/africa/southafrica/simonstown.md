@@ -13,6 +13,10 @@ image: simonstown.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Simons_Town_South_Afrika_S%C3%BCdafrika_(34436719644).jpg
 image_license: CC BY-SA 2.0
 image_attribution: FLASHPACKER TRAVELGUIDE
+heritage: 3.8
+vibrancy: 4.1
+nature: 7.1
+off_the_beaten_track: 2.8
 ---
 
 Simon's Town sits on the False Bay side of the Cape Peninsula, about 40 km south of [Cape Town](/africa/southafrica/capetown) and an easy drive or train ride along the shore. It has been a naval town for more than two centuries — first a British Royal Navy base and, since the dockyard was handed over in 1957, the main base of the South African Navy. Grey warships and frigates still fill the harbour, and the Victorian main street curves above the water lined with naval-themed pubs, antique shops and small museums.

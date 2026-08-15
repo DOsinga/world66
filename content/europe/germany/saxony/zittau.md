@@ -5,11 +5,16 @@ loc_type: city
 latitude: 50.8978
 longitude: 14.8076
 score: 7.1
-snippet: Upper Lusatian border town with rare Lenten cloths, an old centre, and steam trains.
+snippet: Upper Lusatian border town with rare Lenten cloths, an old centre, and steam
+  trains.
 sources:
-  - https://en.wikivoyage.org/wiki/Zittau
-  - https://visitsaxony.com/cities-towns-regions/cities-towns/historic-towns/zittau
-  - https://www.zittauer-schmalspurbahn.de/en/home/
+- https://en.wikivoyage.org/wiki/Zittau
+- https://visitsaxony.com/cities-towns-regions/cities-towns/historic-towns/zittau
+- https://www.zittauer-schmalspurbahn.de/en/home/
+heritage: 6.3
+vibrancy: 3.2
+nature: 5.3
+off_the_beaten_track: 2.2
 ---
 
 Zittau sits in Saxony's far southeast, close enough to Poland and the Czech Republic that the borderland feeling is part of the visit. It was once a wealthy Upper Lusatian trading town, and the old centre still has enough churches, squares, fountains, and civic buildings to make a good day on foot.

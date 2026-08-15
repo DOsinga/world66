@@ -10,6 +10,10 @@ snippet: Ogun State capital defined by sacred Olumo Rock and the Egba adire clot
   tradition.
 title: Abeokuta
 type: location
+heritage: 6.6
+vibrancy: 5.0
+nature: 5.3
+off_the_beaten_track: 5.1
 ---
 
 Abeokuta, the capital of Ogun State, takes its name — "Under the Rock" — from [Olumo Rock](/africa/nigeria/abeokuta/olumo_rock), a massive granite outcrop that rises 137 metres above the city. The rock is sacred to the Egba people, who found refuge in its caves during the inter-tribal wars of the 19th century. It stands as both a monument of faith in unity and the city's defining landmark.

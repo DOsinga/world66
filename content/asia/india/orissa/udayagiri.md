@@ -14,6 +14,10 @@ snippet: Odisha Buddhist monastic complex with stupas, monasteries, inscriptions
   and hilltop rock-cut sculptures
 title: Udayagiri
 type: location
+heritage: 5.8
+vibrancy: 1.5
+nature: 2.9
+off_the_beaten_track: 3.6
 ---
 
 Udayagiri is the largest Buddhist monastic complex in Odisha, identified through recent excavations as Madhavapura Mahavihara. The site contains a brick stupa, two monasteries (one still unexcavated), a beautiful stepped stone well with inscriptions, and rock-cut sculptures at the hilltop.

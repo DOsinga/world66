@@ -1,14 +1,19 @@
 ---
-latitude: -33.0000
+latitude: -33.0
 loc_type: city
-longitude: 27.9000
+longitude: 27.9
 score: 6.9
-snippet: Eastern Cape port city with surf beaches, a natural harbour, and a quietly good museum.
+snippet: Eastern Cape port city with surf beaches, a natural harbour, and a quietly
+  good museum.
 sources:
-  - https://en.wikivoyage.org/wiki/East_London
-  - https://www.elmuseum.za.org/
+- https://en.wikivoyage.org/wiki/East_London
+- https://www.elmuseum.za.org/
 title: East London
 type: location
+heritage: 4.2
+vibrancy: 4.0
+nature: 5.6
+off_the_beaten_track: 3.0
 ---
 
 East London is a working Eastern Cape port city with a better coastline than its name prepares you for. The centre can feel worn, but the city has long beaches, surf breaks, river mouths and a natural harbour, all wrapped into the daily life of Buffalo City.

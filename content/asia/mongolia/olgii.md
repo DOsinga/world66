@@ -17,6 +17,10 @@ image: olgii.jpg
 image_source: https://commons.wikimedia.org/wiki/File:%C3%96lgii_Mosque.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Nahcamuk
+heritage: 5.4
+vibrancy: 2.6
+nature: 8.3
+off_the_beaten_track: 8.3
 ---
 
 Ölgii sits far out in western Mongolia, close to the borders with China, Russia, and Kazakhstan. It is not a polished city, and that is part of the point: the streets feel practical and wind-scoured, the mountains sit close, and Kazakh culture is more visible here than almost anywhere else in Mongolia.

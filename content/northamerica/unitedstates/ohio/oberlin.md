@@ -17,6 +17,10 @@ image: oberlin.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Oberlin_College_-_Bosworth_Hall.jpg
 image_license: Public domain
 image_attribution: Daderot
+heritage: 4.4
+vibrancy: 4.3
+nature: 3.4
+off_the_beaten_track: 1.1
 ---
 
 Oberlin is a small college town west of [Cleveland](/northamerica/unitedstates/ohio/cleveland), but it has more cultural weight than its size suggests. Oberlin College and its conservatory shape the place: leafy streets, a walkable centre, free or low-cost concerts, and one of the strongest college art museums in the United States.

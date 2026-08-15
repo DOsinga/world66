@@ -18,6 +18,10 @@ sources:
 title: Teslic
 type: location
 wikidata: Q180753
+heritage: 4.8
+vibrancy: 2.2
+nature: 4.7
+off_the_beaten_track: 3.7
 ---
 
 Teslic is a small town in northern Bosnia's Republika Srpska, set in the Usora valley west of Doboj. On its own it is quiet, but it has a real identity as a spa base, with [Banja Vrucica](/europe/bosniaandherzegovina/teslic/banja_vrucica) just outside town and wooded Borja mountain rising to the west.

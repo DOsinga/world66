@@ -9,6 +9,10 @@ snippet: Eastern Saudi oasis city of date palms, natural springs, Ottoman forts,
   ancient Hofuf markets.
 title: Al-Ahsa
 type: location
+heritage: 4.9
+vibrancy: 3.9
+nature: 5.4
+off_the_beaten_track: 4.5
 ---
 
 Al-Ahsa (also Al-Hasa) in the Eastern Province is the world's largest oasis — a sprawling complex of date palm gardens, ancient forts, and historic towns fed by natural springs in the middle of the desert. It was inscribed as a UNESCO World Heritage Site in 2018, a recognition of both its agricultural landscape and its 7,000 years of continuous human settlement.

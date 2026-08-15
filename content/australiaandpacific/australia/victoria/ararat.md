@@ -18,6 +18,10 @@ image: ararat.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ararat_Court_House_001.JPG
 image_license: CC BY 3.0
 image_attribution: Mattinbgn
+heritage: 4.9
+vibrancy: 3.2
+nature: 4.3
+off_the_beaten_track: 3.7
 ---
 
 Ararat is a western Victorian goldfields town with a sharper identity than most highway stops between Ballarat and the Grampians. Its foundation story runs through Chinese miners heading inland during the 1850s gold rush, and its darker nineteenth-century buildings later became some of Victoria's most unsettling institutional heritage.

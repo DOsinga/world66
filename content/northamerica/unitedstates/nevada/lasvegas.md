@@ -27,6 +27,10 @@ tip: Las Vegas rose from the Mojave Desert and runs 24 hours — there are no cl
   range.
 title: Las Vegas
 type: location
+heritage: 0.1
+vibrancy: 6.1
+nature: 3.4
+off_the_beaten_track: 0.4
 ---
 
 Viva Las Vegas! Rising like a mirage from the Mojave Desert, Las Vegas is a city built on spectacle. The neon-lit casinos along the Strip -- Roman palaces, Egyptian pyramids, Parisian landmarks -- contrast sharply with the dry, barren landscape surrounding them.

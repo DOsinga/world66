@@ -18,6 +18,10 @@ image: cazenovia.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Hubbard_Hall_-_panoramio.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Idawriter
+heritage: 4.1
+vibrancy: 2.5
+nature: 4.3
+off_the_beaten_track: 1.9
 ---
 
 Cazenovia is a handsome village east of Syracuse, set by a long lake and surrounded by rolling farm country. It is small, but it has more depth than a quick glance suggests: early American houses, a preserved estate, an outdoor art park, and one of central New York's better waterfall walks close by.

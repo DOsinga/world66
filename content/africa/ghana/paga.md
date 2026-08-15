@@ -10,6 +10,10 @@ snippet: Upper East Ghana border town known for sacred crocodile ponds and Kasse
   painted houses.
 title: Paga
 type: location
+heritage: 3.1
+vibrancy: 2.4
+nature: 4.9
+off_the_beaten_track: 6.1
 ---
 
 Paga is a small town in Ghana's Upper East Region, right on the border with Burkina Faso. It is famous across Ghana for its [sacred crocodile ponds](/africa/ghana/paga/sacred_crocodile_ponds), where large Nile crocodiles live in shallow pools and are considered sacred by the local Kassena people. For a small fee, a guide will summon a crocodile from the water with a live chicken — visitors can sit on its back for photographs. The tradition dates back centuries and the crocodiles, well-fed and habituated to people, are remarkably docile.

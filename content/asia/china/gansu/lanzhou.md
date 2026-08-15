@@ -16,6 +16,10 @@ snippet: Gansu capital in a Yellow River valley, serving as a Silk Road transpor
   hub toward Xinjiang and Qinghai.
 title: Lanzhou
 type: location
+heritage: 4.0
+vibrancy: 4.5
+nature: 4.7
+off_the_beaten_track: 3.5
 ---
 
 *Asia > China > Lanzhou*

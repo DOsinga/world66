@@ -14,6 +14,10 @@ snippet: Asturian working port with a central sandy beach, cider bars, and the h
   quarter of Cimadevilla.
 title: Gijón
 type: location
+heritage: 5.2
+vibrancy: 4.5
+nature: 5.8
+off_the_beaten_track: 2.1
 ---
 
 Gijón is the largest city in Asturias and a genuine working port that also happens to have a fine sandy beach in the middle of town. It does not have the tourist polish of San Sebastián or Santander, but that is part of the appeal — this is a real Spanish city where the seafood is superb, the cider flows freely, and visitors are a pleasant surprise rather than an industry.

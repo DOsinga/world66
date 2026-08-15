@@ -5,11 +5,16 @@ loc_type: city
 latitude: 65.9333
 longitude: 26.5167
 score: 6.8
-snippet: Southern Lapland forest town known for arctic wildlife, cloudberries, lakes, and heavy snow.
+snippet: Southern Lapland forest town known for arctic wildlife, cloudberries, lakes,
+  and heavy snow.
 sources:
-  - https://en.wikivoyage.org/wiki/Ranua
-  - https://en.wikipedia.org/wiki/Ranua
-  - https://en.wikipedia.org/wiki/Ranua_Resort
+- https://en.wikivoyage.org/wiki/Ranua
+- https://en.wikipedia.org/wiki/Ranua
+- https://en.wikipedia.org/wiki/Ranua_Resort
+heritage: 1.7
+vibrancy: 0.8
+nature: 7.8
+off_the_beaten_track: 4.5
 ---
 
 Ranua sits in southern Finnish Lapland, far enough from Rovaniemi to feel rural but close enough for a proper day trip. The town is small and plain; the surrounding municipality is the interesting part, a flat world of bogs, low forest, lakes, reindeer country, and deep winter snow.

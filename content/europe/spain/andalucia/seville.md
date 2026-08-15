@@ -24,6 +24,10 @@ tip: Seville is brutally hot from June to September — locals vanish for a midd
   for a man on horseback. Book the Alcázar and Cathedral online.
 title: Seville
 type: location
+heritage: 7.5
+vibrancy: 8.2
+nature: 7.4
+off_the_beaten_track: 1.6
 ---
 
 Seville is the capital of Andalucía and the most purely, exuberantly Andalucían city in Spain. Where Barcelona is cosmopolitan and Madrid is national, Seville is intensely local — obsessed with its own traditions, its own rhythms, and its own calendar. Flamenco was born here. The April Fair, the most famous feria in Spain, happens here. Semana Santa transforms the streets every spring into the most theatrical religious event in Europe. If you want to understand what makes southern Spain different from the rest of the country, this is where to come.

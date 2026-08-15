@@ -10,6 +10,10 @@ title: Grand Erg Oriental
 type: location
 snippet: Vast Saharan sand sea of high dunes stretching across eastern Algeria into
   southern Tunisia.
+heritage: 2.8
+vibrancy: 1.0
+nature: 7.7
+off_the_beaten_track: 7.4
 ---
 
 The Grand Erg Oriental is one of the world's great sand seas — a vast ocean of dunes covering around 192,000 square kilometres across eastern Algeria and into southern Tunisia. This is the Sahara at its most cinematic: enormous undulating dunes, some reaching 150 metres high, that change colour through the day from gold to orange to deep red as the light shifts. At the fringes of the erg, the dunes thin out into hammada (rocky desert) and the occasional oasis town.

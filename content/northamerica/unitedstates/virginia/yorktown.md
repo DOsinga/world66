@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Colonial_National_Historical_Park
 title: Yorktown
 type: location
+heritage: 7.5
+vibrancy: 3.3
+nature: 4.4
+off_the_beaten_track: 2.0
 ---
 
 Yorktown is the quietest point of Virginia's Historic Triangle, but it carries the heaviest ending. This small town on the York River is where the 1781 siege forced Lord Cornwallis to surrender, effectively deciding the American Revolution. [Williamsburg](/northamerica/unitedstates/virginia/williamsburg) has the restored colonial capital and [Jamestown](/northamerica/unitedstates/virginia/jamestown) has the first English settlement; Yorktown has the battlefield, the riverfront, and the moment when the war finally turned.

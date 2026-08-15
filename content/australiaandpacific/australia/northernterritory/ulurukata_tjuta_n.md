@@ -24,6 +24,10 @@ tip: Climbing Uluru is now banned out of respect for the Anangu traditional owne
   more water than you think.
 title: Uluru-Kata Tjuta National Park
 type: location
+heritage: 9.9
+vibrancy: 1.5
+nature: 8.4
+off_the_beaten_track: 6.6
 ---
 
 Uluru-Kata Tjuta National Park is the spiritual heart of Australia's Red Centre, a UNESCO World Heritage site in the southern Northern Territory. The park is jointly managed by its Anangu traditional owners and Parks Australia — Uluru is a deeply sacred site, and visiting it respectfully is part of the experience.

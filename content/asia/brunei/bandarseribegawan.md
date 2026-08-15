@@ -13,6 +13,10 @@ snippet: Quiet Bruneian capital on the river, defined by golden mosques and the 
   houses of Kampong Ayer.
 title: Bandar Seri Begawan
 type: location
+heritage: 3.9
+vibrancy: 5.0
+nature: 4.8
+off_the_beaten_track: 2.4
 ---
 
 Bandar Seri Begawan -- BSB to everyone who lives here -- is the capital of Brunei and one of the quietest capital cities in Southeast Asia. There are no noisy bars, no backpacker strips, no touts hassling you on the street. Instead you get golden mosques reflected in still lagoons, a sprawling water village of 30,000 people, and streets so clean you could eat off them.

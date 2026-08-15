@@ -14,6 +14,10 @@ title: Adrar
 type: location
 snippet: Saharan oasis town on the Tidikelt plateau, known for ancient foggara water
   channels beneath its palms.
+heritage: 4.9
+vibrancy: 1.5
+nature: 7.0
+off_the_beaten_track: 7.4
 ---
 
 Adrar is a Saharan oasis town in southwestern Algeria, sitting at the edge of the Tidikelt plateau. It is a functional desert town rather than a scenic one — the kind of place you pass through on long hauls through the western Sahara rather than a destination in itself.

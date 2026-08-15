@@ -15,6 +15,10 @@ title: Paracas
 type: location
 snippet: Small Peruvian coastal town serving the Ballestas Islands and Paracas National
   Reserve.
+heritage: 5.7
+vibrancy: 2.1
+nature: 4.6
+off_the_beaten_track: 3.0
 ---
 
 Paracas is a small coastal town south of [Pisco](/southamerica/peru/pisco), used mainly as a jumping-off point for two of Peru's best natural attractions: the [Islas Ballestas](/southamerica/peru/paracas/islas_ballestas) and the [Paracas National Reserve](/southamerica/peru/paracas/paracas_reserve).

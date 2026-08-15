@@ -14,6 +14,10 @@ snippet: Armenian plateau village above the Debed gorge, known for its early med
   basilica
 title: Odzun
 type: location
+heritage: 6.0
+vibrancy: 1.9
+nature: 4.8
+off_the_beaten_track: 3.6
 ---
 
 Odzun (Օձուն) is a village on a dissected plateau above the Debed gorge, just above [Alaverdi](/europe/armenia/alaverdi). Unlike [Sanahin](/europe/armenia/sanahin_1) and [Haghpat](/europe/armenia/haghpat), it sits on the left bank of the gorge.

@@ -14,6 +14,10 @@ snippet: Sierra de Aracena village crowned by a medieval castle above oak-covere
   Huelva hills.
 title: Cortegana
 type: location
+heritage: 4.7
+vibrancy: 3.4
+nature: 5.7
+off_the_beaten_track: 4.3
 ---
 
 Cortegana is one of the prettiest villages in the Sierra de [Aracena](/europe/spain/andalucia/aracena), a hilly, wooded corner of northern Huelva province that feels a world away from the Costa de la Luz. The village is large enough to have a few shops and bars, and the climb to the top rewards you with [a well-preserved medieval castle](/europe/spain/andalucia/cortegana/castillo_de_cortegana) dating from 1253 and views over the surrounding oak-covered hills. The 14th-century [Iglesia del Divino Salvador](/europe/spain/andalucia/cortegana/iglesia_divino_salvador), with its Gothic-Mudejar tower, stands at the heart of the village below.

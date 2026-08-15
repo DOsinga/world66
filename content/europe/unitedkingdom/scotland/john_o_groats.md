@@ -16,6 +16,10 @@ image: john_o_groats.jpg
 image_source: https://commons.wikimedia.org/wiki/File:The_John_O%27Groats_Signpost_-_geograph.org.uk_-_6979188_(cropped_etc).jpg
 image_license: CC BY-SA 2.0
 image_attribution: David Dixon
+heritage: 4.7
+vibrancy: 2.6
+nature: 6.3
+off_the_beaten_track: 4.8
 ---
 
 John o'Groats is a small village on the far north coast of mainland Scotland, famous as the traditional road-end opposite Land's End. The signpost is tourist theatre, and the village itself is modest, but the surrounding Caithness coast gives the place more bite than the souvenir shops suggest.

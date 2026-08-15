@@ -11,6 +11,10 @@ image: xinchang.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Xinchang,_Shaoxing,_Zhejiang,_China_-_panoramio.jpg
 image_license: CC BY 3.0
 image_attribution: song songroov
+heritage: 2.8
+vibrancy: 2.1
+nature: 3.8
+off_the_beaten_track: 2.9
 ---
 
 Xinchang (新场) is a water town that most visitors to Shanghai never reach, which is precisely its appeal. It sits in the southern reaches of the Pudong New Area, close enough to be a genuine day trip and far enough from the famous canal towns of the western suburbs to have escaped their crowds, their ticket gates, and their souvenir uniformity. The town grew up around the salt trade during the Yuan and Ming dynasties, when this stretch of low coastal plain produced much of the salt that made the region wealthy, and the merchant houses and stone bridges that money built are still standing.

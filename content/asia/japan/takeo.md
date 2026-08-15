@@ -5,11 +5,16 @@ loc_type: city
 latitude: 33.2
 longitude: 130.0167
 score: 7.2
-snippet: Saga hot-spring town with a thousand-year onsen, a volcanic garden, and a sacred camphor tree.
+snippet: Saga hot-spring town with a thousand-year onsen, a volcanic garden, and a
+  sacred camphor tree.
 sources:
 - https://en.wikivoyage.org/wiki/Takeo
 - https://en.wikipedia.org/wiki/Takeo,_Saga
 - https://www.wikidata.org/wiki/Q847554
+heritage: 5.7
+vibrancy: 2.5
+nature: 5.6
+off_the_beaten_track: 5.1
 ---
 
 Takeo is a small Saga Prefecture city that earns its stop with water, gardens, and one very old tree. It is not a big Kyushu headline, but the Nishi Kyushu Shinkansen has made it easier to fold into a trip between Nagasaki, Saga, and Fukuoka.

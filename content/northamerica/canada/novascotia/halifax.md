@@ -12,6 +12,10 @@ snippet: Nova Scotia capital on a major natural harbour, long shaped by naval an
   commercial trade.
 title: Halifax
 type: location
+heritage: 7.1
+vibrancy: 6.1
+nature: 5.7
+off_the_beaten_track: 2.2
 ---
 
 Halifax is the largest city in Atlantic Canada and the capital of Nova Scotia. Built on a harbour that ranks among the finest natural ports in the world, it has been a naval and commercial hub since its founding in 1749.

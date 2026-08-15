@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Queen_Charlotte_Sound_/_T%C5%8Dtaranui
 title: Picton
 type: location
+heritage: 4.9
+vibrancy: 4.3
+nature: 5.9
+off_the_beaten_track: 3.7
 ---
 
 Picton is the small ferry port at the head of Queen Charlotte Sound, the northern entry point to the [South Island](/australiaandpacific/newzealand/south_island). It is a town of fewer than 3,000 people that handles around a million ferry passengers a year, and most South Island road trips begin or end with the Interislander or Bluebridge sliding through the deep, sheltered water of the Sounds and tying up at the Picton wharf. The arrival is one of the great travel moments anywhere — three hours of forested fjord-like channels delivers you to a tidy waterfront town surrounded by hills.

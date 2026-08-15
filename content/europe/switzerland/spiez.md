@@ -16,6 +16,10 @@ sources:
 - https://www.myswitzerland.com/en-us/destinations/spiez/
 title: Spiez
 type: location
+heritage: 4.5
+vibrancy: 3.9
+nature: 8.2
+off_the_beaten_track: 2.2
 ---
 
 Spiez is the gentle side of the Bernese Oberland: a small town on a sheltered bay of Lake Thun, with vineyards on the slope, a castle above the water, and the pyramid of the [Niesen](/europe/switzerland/spiez/niesen) rising behind. It is prettier than its role as a railway junction suggests.

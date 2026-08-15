@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/V%C3%A1gar_Airport
 title: Sørvágur
 type: location
+heritage: 2.2
+vibrancy: 1.1
+nature: 8.0
+off_the_beaten_track: 7.0
 ---
 
 Sørvágur is a quiet village of around 1,000 people on the western coast of [Vágar](/europe/faroeislands/vagar), but its surroundings are among the most dramatic in the entire [Faroe Islands](/europe/faroeislands). The Faroes' only airport sits on the edge of town. The harbour is the departure point for ferries to [Mykines](/europe/faroeislands/mykines), the wildest of the island chain. And within a short walk lies the entrance to the trail that leads to Sørvágsvatn — the lake that appears, impossibly, to float above the sea.

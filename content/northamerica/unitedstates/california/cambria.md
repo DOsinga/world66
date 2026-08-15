@@ -3,12 +3,17 @@ latitude: 35.564
 loc_type: city
 longitude: -121.081
 score: 7.42
-snippet: Central Coast village of Monterey pines, rocky beaches, folk-art oddities, and blufftop walks near San Simeon.
+snippet: Central Coast village of Monterey pines, rocky beaches, folk-art oddities,
+  and blufftop walks near San Simeon.
 sources:
 - https://en.wikivoyage.org/wiki/Cambria_(California)
 - https://en.wikipedia.org/wiki/Cambria,_California
 title: Cambria
 type: location
+heritage: 3.1
+vibrancy: 2.5
+nature: 5.2
+off_the_beaten_track: 2.2
 ---
 
 Cambria is a small Central Coast village where Monterey pines run down toward rocky coves and the Pacific does most of the talking. It sits on Highway 1 between Morro Bay and San Simeon, but it is more than a place to sleep before Hearst Castle. The town has its own rhythm: galleries and cafes inland, sea air along Moonstone Beach, and a few eccentric local landmarks that could only have happened in coastal California.

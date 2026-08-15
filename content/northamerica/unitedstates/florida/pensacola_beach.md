@@ -13,6 +13,10 @@ snippet: Florida barrier-island beach community with white quartz sand and prote
   Gulf Islands National Seashore stretches.
 title: Pensacola Beach
 type: location
+heritage: 1.8
+vibrancy: 5.7
+nature: 6.5
+off_the_beaten_track: 1.2
 ---
 
 Pensacola Beach is a tiny unincorporated strip of barrier island near [Pensacola](/northamerica/unitedstates/florida/pensacola), on the Gulf Islands National Seashore. Originally owned by the Army, the land was handed to the state of Florida in 1947 on condition that none of it be sold, so all occupants hold long-term leases. A large section is now protected as one of the ten National Seashores in the United States.

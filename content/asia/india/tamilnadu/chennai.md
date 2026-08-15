@@ -15,6 +15,10 @@ snippet: Capital city of Tamil Nadu, founded around Fort St George and a hub for
   the state.
 title: Chennai
 type: location
+heritage: 7.7
+vibrancy: 8.2
+nature: 3.0
+off_the_beaten_track: 1.7
 ---
 
 Formerly known as Madras, Chennai is the capital of 

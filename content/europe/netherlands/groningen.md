@@ -16,6 +16,10 @@ snippet: Northern Dutch university city with canal-ring fragments, medieval land
   and a stubbornly independent character
 title: Groningen
 type: location
+heritage: 5.3
+vibrancy: 4.7
+nature: 3.0
+off_the_beaten_track: 1.7
 ---
 
 Groningen is the unofficial capital of the north — a compact, busy university city set in flat farmland an hour above the rest of the Netherlands. The historic centre was scarred by Allied bombing in 1945 and the patchy rebuilding that followed, but the medieval core survives in fragments and the surrounding canals still trace the lines of the 17th-century fortifications.

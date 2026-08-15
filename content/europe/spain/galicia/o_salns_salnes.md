@@ -16,6 +16,10 @@ snippet: Galician wine region along the Ría de Arousa, known for Albariño vine
   and coastal villages.
 title: O Salnes
 type: location
+heritage: 3.9
+vibrancy: 2.4
+nature: 5.4
+off_the_beaten_track: 3.3
 ---
 
 O Salnes is the wine country of Galicia's Rias Baixas, a valley stretching along the southern shore of the Ria de Arousa where the Albarino grape reaches its finest expression. The landscape is a patchwork of small vineyards, granite villages, and misty green hills rolling down to the coast.

@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Bellaria-Igea_Marina
 title: Bellaria
 type: location
+heritage: 2.0
+vibrancy: 3.2
+nature: 3.6
+off_the_beaten_track: 1.6
 ---
 
 Bellaria-Igea Marina is a seaside resort on the Adriatic coast between Rimini and Cesenatico. It began as a fishing village and still has some of that character, though today it is firmly a beach holiday town -- long stretches of sand, family-friendly facilities, and a summer calendar packed with events.

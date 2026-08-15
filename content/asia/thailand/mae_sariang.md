@@ -10,6 +10,10 @@ snippet: Mae Hong Son valley town on the Yuam River, surrounded by forested hill
   and border country
 title: Mae Sariang
 type: location
+heritage: 1.5
+vibrancy: 2.0
+nature: 5.1
+off_the_beaten_track: 4.5
 ---
 
 **Mae Sariang** is one of seven districts in [Mae Hong Son](/asia/thailand/maehongson) province, and one of the most rewarding to linger in. Often overlooked by tourists moving between Chiang Mai and Mae Hong Son, it has real character and plenty to explore.

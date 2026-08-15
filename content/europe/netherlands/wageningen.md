@@ -14,6 +14,10 @@ snippet: Dutch Rhine-side university town shaped by agricultural research and th
   end of the Second World War in Europe.
 title: Wageningen
 type: location
+heritage: 4.0
+vibrancy: 3.6
+nature: 4.2
+off_the_beaten_track: 1.6
 ---
 
 **Wageningen** is a small university town of about 40,000 people on the north bank of the **Rhine** river in the Dutch province of Gelderland, about 85 km south-east of Amsterdam and 30 km west of Arnhem. It sits at the southern edge of the **Veluwe**, the large forested heath area that contains the Hoge Veluwe National Park, and is surrounded by agricultural polders and river flood plains. The town has two distinct identities — as Europe's leading agricultural research centre and as the place where the Second World War in Europe effectively ended.

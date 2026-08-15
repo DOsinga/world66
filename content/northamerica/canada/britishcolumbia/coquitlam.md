@@ -15,6 +15,10 @@ sources:
 title: Coquitlam
 type: location
 loc_type: city
+heritage: 2.7
+vibrancy: 2.7
+nature: 5.7
+off_the_beaten_track: 1.7
 ---
 
 Coquitlam is one of the largest of the Vancouver suburbs — a city of around 150,000 people set against the foothills of the Coast Mountains, about 25 km east of downtown Vancouver. The name comes from the Halkomelem language of the Kwikwetlem First Nation and refers to the red salmon that once spawned in vast numbers in the local rivers. There is no historical core to speak of: Coquitlam grew up in the 20th century as a mill town and a railway junction, and the 1960s and 70s converted it into the planned suburb that most visitors see today.

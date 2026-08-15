@@ -10,6 +10,10 @@ snippet: Colonial town north of Bogotá, famous for its underground cathedral ca
   from salt mine walls
 title: Zipaquira
 type: location
+heritage: 7.3
+vibrancy: 3.4
+nature: 3.8
+off_the_beaten_track: 2.1
 ---
 
 Zipaquirá is a colonial town about 50 km north of [Bogotá](/southamerica/colombia/bogota) and one of the most popular day trips from the capital. The main attraction is the [Catedral de Sal](/southamerica/colombia/zipaquira/catedral_de_sal), an underground cathedral carved entirely out of the walls of an active salt mine. The mine has been worked since pre-Columbian times by the Muisca people, and the current cathedral — the second on the site — was completed in 1995, some 180 metres below the surface. The scale is dramatic: a full-sized nave, side aisles, and an enormous cross carved in relief from the rock face, all illuminated in coloured light.

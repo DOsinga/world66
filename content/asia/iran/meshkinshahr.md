@@ -14,6 +14,10 @@ image: meshkinshahr.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Meshkin_shahr_-_Historical_hill_(About_8000_years_ago)_-_panoramio_(6).jpg
 image_license: CC BY 3.0
 image_attribution: Alireza Javaheri
+heritage: 4.2
+vibrancy: 2.6
+nature: 5.6
+off_the_beaten_track: 6.3
 ---
 
 Meshkin-Shahr sits to the west of Ardebil and north of Mount Sabalan in the Iranian province of Ardabil. The climate is temperate in summer and harsh in winter; the surrounding highlands are the territory of [Shahsavan pastoral nomads](/asia/iran/meshkinshahr/shahsavan_nomads) who migrate seasonally with their flocks between highland summer pastures and lowland winter grazing grounds.

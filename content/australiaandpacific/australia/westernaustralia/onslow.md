@@ -5,10 +5,15 @@ loc_type: city
 latitude: -21.6383
 longitude: 115.1126
 score: 6.4
-snippet: Remote Pilbara coast town with moonlit tidal flats, old ruins, and Mackerel Islands reefs offshore.
+snippet: Remote Pilbara coast town with moonlit tidal flats, old ruins, and Mackerel
+  Islands reefs offshore.
 sources:
-  - https://en.wikivoyage.org/wiki/Onslow
-  - https://www.westernaustralia.com/en/places/Onslow/56b267b67b935fbe730e6f40
+- https://en.wikivoyage.org/wiki/Onslow
+- https://www.westernaustralia.com/en/places/Onslow/56b267b67b935fbe730e6f40
+heritage: 2.5
+vibrancy: 2.1
+nature: 5.0
+off_the_beaten_track: 5.3
 ---
 
 Onslow is a small Pilbara port on a lonely stretch of Western Australia's northwest coast. It is not pretty in the lush sense; the appeal is harsher and more elemental, with salt flats, red earth, wide beaches, and a horizon that feels enormous.

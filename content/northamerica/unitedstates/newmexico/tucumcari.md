@@ -14,6 +14,10 @@ title: Tucumcari
 type: location
 snippet: High-plains New Mexico railroad town with Route 66 neon and Tucumcari Mountain
   legends.
+heritage: 2.4
+vibrancy: 1.8
+nature: 2.9
+off_the_beaten_track: 2.3
 ---
 
 Boasting one of the most interesting names of any city in the United States, Tucumcari is located in the high plains country of east central New Mexico. It's a former railroad town that began life as "Six-Shooter Siding", and was home to several railroads in the 19th century. Route 66 brought neon motels and mother road culture in the 20th century. Today Tucumcari still preserves much of its Route 66 heritage.

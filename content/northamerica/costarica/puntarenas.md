@@ -16,6 +16,10 @@ title: Puntarenas
 type: location
 snippet: Pacific port city on a sandy Gulf of Nicoya peninsula, with ferries to the
   Nicoya Peninsula.
+heritage: 2.7
+vibrancy: 4.0
+nature: 6.6
+off_the_beaten_track: 2.8
 ---
 
 Puntarenas is a port city on [Costa Rica](/northamerica/costarica)'s Pacific coast, built on a narrow sandy peninsula that juts out into the Gulf of Nicoya. For decades it was the country's main Pacific port and a popular weekend beach destination for families from the Central Valley. The port has since moved to nearby Caldera, and Puntarenas has settled into a quieter rhythm — a working town with a long waterfront promenade, fish markets, and the slightly faded charm of a place that has seen busier days.

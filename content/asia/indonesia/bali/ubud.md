@@ -24,6 +24,10 @@ tip: Ubud is Bali's cultural heart, not a beach town — come for rice terraces,
   and water bottles, so hold tight. Watch a fire-lit Kecak dance at sunset.
 title: Ubud
 type: location
+heritage: 6.0
+vibrancy: 7.3
+nature: 5.4
+off_the_beaten_track: 2.5
 ---
 
 Ubud is Bali's cultural heart, set in the hills above the southern beach resorts and surrounded by terraced rice paddies and river gorges. If you want to get beyond the sunbed-and-cocktail version of Bali, this is where you come. The town is famous for traditional Balinese arts — dance, painting, woodcarving, silverwork — and for the foreign artists who have settled here, drawn by the landscape and the atmosphere.

@@ -13,6 +13,10 @@ image: innamincka.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Innamincka_trading_post.jpg
 image_license: CC0
 image_attribution: PookieFugglestein
+heritage: 2.4
+vibrancy: 1.5
+nature: 5.9
+off_the_beaten_track: 6.6
 ---
 
 Innamincka is a speck of a settlement in the far northeast of [South Australia](/australiaandpacific/australia/southaustralia), surrounded by gibber plains, dry channels, and the wide Cooper Creek system. It is not a town in the usual sense so much as a fuel stop, pub, airstrip, and base camp for serious outback travel.

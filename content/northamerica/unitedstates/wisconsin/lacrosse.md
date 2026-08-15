@@ -14,6 +14,10 @@ image: lacrosse.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Grand_Dad_Bluff_180_pano_aerial_(cropped).jpg
 image_license: CC0
 image_attribution: Wikideas1
+heritage: 3.0
+vibrancy: 5.1
+nature: 6.2
+off_the_beaten_track: 1.9
 ---
 
 La Crosse sits where the Black River and the La Crosse River empty into the Mississippi, a natural confluence that has shaped the city's character for centuries. It's a small city of around 55,000 people in southwest Wisconsin — big enough to have real universities, a lively riverfront, and genuine Oktoberfest celebrations, small enough that the bluffs above town still feel wild.

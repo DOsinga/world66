@@ -16,6 +16,10 @@ snippet: Northern Nevada casino city with a scrappy arts scene and easy access t
   the Sierra Nevada
 title: Reno
 type: location
+heritage: 1.9
+vibrancy: 5.7
+nature: 6.4
+off_the_beaten_track: 1.8
 ---
 
 Reno calls itself 'The Biggest Little City in the World,' and the famous [arch](/northamerica/unitedstates/nevada/reno/reno_arch) over Virginia Street backs up that claim. This is a gambling town in northern Nevada, smaller and scrappier than Las Vegas, with a growing arts scene and easy access to the Sierra Nevada mountains.

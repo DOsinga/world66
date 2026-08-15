@@ -12,6 +12,10 @@ image: issoudun.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Issoudun-L%C3%A9trieix_bourg.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Père Igor
+heritage: 3.8
+vibrancy: 1.8
+nature: 1.7
+off_the_beaten_track: 2.3
 ---
 
 Issoudun is a small town in Berry, between [Bourges](/europe/france/centre/bourges) and Châteauroux, with more to reward a spare afternoon than its plain first impression suggests. The old centre is compact: the [White Tower](/europe/france/centre/issoudun/white_tower) rises from the former castle quarter, [Saint-Cyr Church](/europe/france/centre/issoudun/saint_cyr_church) keeps the town's religious memory alive, and narrow lanes around the belfry still show the shape of medieval Issoudun.

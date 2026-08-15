@@ -17,6 +17,10 @@ image: muriwai.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Muriwai_Beach_gannet_colony.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Follash
+heritage: 2.2
+vibrancy: 1.8
+nature: 6.6
+off_the_beaten_track: 2.8
 ---
 
 Muriwai is Auckland's wilder west-coast beach: black iron sand, hard Tasman surf, wind-bent grass, and cliffs full of nesting gannets. It is close enough to [Auckland](/australiaandpacific/newzealand/north_island/auckland_region/auckland) for a half-day escape, but it feels much less tame than the city beaches on the harbour.

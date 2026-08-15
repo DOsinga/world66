@@ -14,6 +14,10 @@ snippet: Skye hamlet at Glen Sligachan, the classic walking gateway into the Bla
   Cuillin.
 title: Sligachan
 type: location
+heritage: 5.1
+vibrancy: 1.1
+nature: 7.8
+off_the_beaten_track: 5.9
 ---
 
 Sligachan is a small hamlet at the northern end of [Glen Sligachan](/europe/unitedkingdom/scotland/skye/sligachan/glen_sligachan), at the junction of the main Skye roads. It is the classic starting point for walks into the Black Cuillin. The [Sligachan Hotel](/europe/unitedkingdom/scotland/skye/sligachan/sligachan_hotel), with its large outdoor beer garden, has been welcoming climbers and walkers since the Victorian era. The [Old Sligachan Bridge](/europe/unitedkingdom/scotland/skye/sligachan/old_sligachan_bridge) over the river is a well-known photographic subject, framed by the spike of [Sgurr nan Gillean](/europe/unitedkingdom/scotland/skye/sligachan/sgurr_nan_gillean) and the cone of [Glamaig](/europe/unitedkingdom/scotland/skye/sligachan/glamaig).

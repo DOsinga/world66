@@ -10,6 +10,10 @@ snippet: Guatemala's highland second city, a K'iche' cultural capital better kno
   locally as Xela.
 title: Quetzaltenango (Xela)
 type: location
+heritage: 4.4
+vibrancy: 6.1
+nature: 7.3
+off_the_beaten_track: 4.6
 ---
 
 Quetzaltenango — universally called Xela (SHEH-la), from its original K'iche' name Xelajú — is Guatemala's second city and, for many travelers, a more authentic and rewarding base than Antigua. Sitting at 2,333 metres in the western highlands, it is the cultural and commercial capital of K'iche' Maya Guatemala.

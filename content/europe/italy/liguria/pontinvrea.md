@@ -12,6 +12,10 @@ tags:
 - rivieradellepalme
 title: Pontinvrea
 type: location
+heritage: 3.5
+vibrancy: 1.4
+nature: 6.0
+off_the_beaten_track: 3.7
 ---
 
 An agricultural centre on the northern side of the Ligurian Apennines, surrounded by extensive forests that draw lovers of nature and tranquillity. The ancient settlement of Ponte dei Prati formed part of the commune of Pareto until 1606, when the Gonzaga, rulers of Monferrato, gave it in fief to the d'Invrea of Genoa. In 1730 it passed to Austria.

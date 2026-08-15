@@ -10,6 +10,10 @@ snippet: Westmeath market town in Ireland's lakeland midlands, used as a base fo
   Lough Owel and Lough Ennell.
 title: Mullingar
 type: location
+heritage: 3.8
+vibrancy: 2.8
+nature: 4.3
+off_the_beaten_track: 1.5
 ---
 
 Mullingar is the county town of Westmeath, sitting at the heart of Ireland's lakeland midlands — a region of limestone plains, bogland, and dark, fish-rich lakes that attract anglers from across Europe. The town itself is a busy market centre with a working cathedral and an unhurried character that hasn't been touched by tourism. It's not a postcard destination, but it's a decent base for the surrounding countryside.

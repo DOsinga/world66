@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Lake_Tarpon
 title: Palm Harbor
 type: location
+heritage: 1.9
+vibrancy: 2.7
+nature: 4.1
+off_the_beaten_track: 1.7
 ---
 
 Palm Harbor sits north of [Clearwater](/northamerica/unitedstates/florida/clearwater) on the quieter side of Pinellas County, close to [Tarpon Springs](/northamerica/unitedstates/florida/tarpon_springs), Dunedin, and the Gulf barrier islands. It is suburban and spread out, but not without character: old village pockets, live oaks, bayou water, golf courses, and easy access to some of the better parks on the county's north coast.

@@ -14,6 +14,10 @@ snippet: Eastern Algarve beach settlement backed by umbrella pines, salt-pan wet
   and a long quiet shore.
 title: Praia Verde
 type: location
+heritage: 2.1
+vibrancy: 5.0
+nature: 6.8
+off_the_beaten_track: 1.7
 ---
 
 Praia Verde is one of the most beautiful beaches in the Algarve. Located in the eastern Algarve, about one kilometre from [Monte Gordo](/europe/portugal/algarve/monto_gordo) and ten kilometres from [Vila Real](/europe/portugal/algarve/vilareal) on the Spanish border, the [beach](/europe/portugal/algarve/praia_verde/praia_verde_beach) sits inside an environmentally protected area within a forest of umbrella pines.

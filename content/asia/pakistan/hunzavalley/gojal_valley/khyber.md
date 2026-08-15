@@ -9,6 +9,10 @@ snippet: Wakhi village in Upper Hunza, set among apricot terraces along the Kara
   Highway
 title: Khyber
 type: location
+heritage: 0.6
+vibrancy: 0.4
+nature: 7.7
+off_the_beaten_track: 7.3
 ---
 
 Khyber is a small Wakhi village in Gojal, sitting along the Karakoram Highway between Gulmit and Sost at around 2,700 metres. It is one of the lesser-known stops in Upper Hunza — most travellers pass through without stopping — but it has its own quiet charm and a couple of reasons to break the journey.

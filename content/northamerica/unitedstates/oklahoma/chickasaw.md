@@ -14,6 +14,10 @@ snippet: Oklahoma recreation area of mineral springs, streams, and lakes in the 
   foothills.
 title: Chickasaw
 type: location
+heritage: 1.8
+vibrancy: 2.1
+nature: 2.1
+off_the_beaten_track: 1.3
 ---
 
 Springs, streams, and lakes are the attractions at Chickasaw National Recreation Area, the first national park in Oklahoma. Visitors find camping, boating, fishing, swimming, hiking and nature walks. The [Travertine Nature Center](/northamerica/unitedstates/oklahoma/chickasaw/travertine_nature_center) and its adjacent environmental study area offer exhibits and ranger-led programs, and the wider [Chickasaw Cultural Center](/northamerica/unitedstates/oklahoma/chickasaw/chickasaw_cultural_center) just outside the park is the best place to understand the nation that gives the area its name.

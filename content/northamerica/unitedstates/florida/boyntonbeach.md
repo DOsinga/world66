@@ -10,6 +10,10 @@ snippet: Southeast Florida beach city where the Gulf Stream brings drift-diving 
   to shore.
 title: Boynton Beach
 type: location
+heritage: 2.7
+vibrancy: 3.6
+nature: 4.2
+off_the_beaten_track: 1.3
 ---
 
 Boynton Beach is a mid-sized city on Florida's southeast coast, wedged between West Palm Beach to the north and Delray Beach to the south. It is less flashy than its neighbours but has a pleasant stretch of public beach and a growing downtown with restaurants and breweries around the marina.

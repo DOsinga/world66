@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Gaeta
 title: Gaeta
 type: location
+heritage: 5.4
+vibrancy: 4.0
+nature: 4.8
+off_the_beaten_track: 1.3
 ---
 
 Gaeta sits on a rocky peninsula jutting into the Tyrrhenian Sea, about halfway between [Rome](/europe/italy/lazio/rome) and [Naples](/europe/italy/campania/naples). The coast here was described by Homer and Virgil — the stretch from Gaeta south to Sperlonga is still called the Riviera di Ulisse — and the town has been a strategic harbour since Roman times.

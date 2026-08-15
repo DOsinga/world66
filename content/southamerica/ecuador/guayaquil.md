@@ -12,6 +12,10 @@ title: Guayaquil
 snippet: River port city on the Guayas, with a revived waterfront and Ecuador's largest
   urban energy.
 type: location
+heritage: 4.6
+vibrancy: 5.1
+nature: 4.5
+off_the_beaten_track: 3.1
 ---
 
 Guayaquil will probably not become your favourite place in Ecuador, but it deserves more than the quick pass-through most travellers give it. Ecuador's largest city sits on the Guayas River near the head of the Gulf of Guayaquil, and its waterfront has been transformed over the past two decades by the [Malecón 2000](/southamerica/ecuador/guayaquil/malecon_2000) project — a 2.5-kilometre riverside promenade that converted what was previously a decayed portside into a genuine civic space with gardens, museums, and restaurants.

@@ -17,6 +17,10 @@ image: riogrande.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Rio_Grande.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Roger Amaral Scheridon de Moraes
+heritage: 3.2
+vibrancy: 3.0
+nature: 3.9
+off_the_beaten_track: 1.9
 ---
 
 Rio Grande is the old maritime end of southern [Brazil](/southamerica/brazil), a port city where Lagoa dos Patos drains toward the Atlantic. It was the first capital of Rio Grande do Sul, and the centre still has churches, customs houses, and civic buildings from a time when shipping gave the city its weight.

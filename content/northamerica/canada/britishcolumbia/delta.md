@@ -11,6 +11,10 @@ snippet: Fraser River delta municipality of Ladner, Tsawwassen, and North Delta,
   for ferries and birdwatching.
 title: Delta
 type: location
+heritage: 2.0
+vibrancy: 2.5
+nature: 5.5
+off_the_beaten_track: 1.9
 ---
 
 Delta is a municipality on the Fraser River delta, about 22km south of Vancouver, made up of three distinct communities: Ladner, Tsawwassen, and North Delta. For most travellers, Delta comes up because of Tsawwassen, where BC Ferries runs frequent services to Victoria and Nanaimo on Vancouver Island.

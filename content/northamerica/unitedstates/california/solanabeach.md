@@ -14,6 +14,10 @@ image: solanabeach.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Solana_Beach_bluffs.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Timeforkindergarten (talk)
+heritage: 2.1
+vibrancy: 3.9
+nature: 6.2
+off_the_beaten_track: 1.8
 ---
 
 Solana Beach is a small coastal city in the northern [San Diego](/northamerica/unitedstates/california/sandiego) area, known for its bluff-top setting and laid-back surf culture. The beaches here are less crowded than those further south, and in winter you can spot migrating California gray whales from the clifftops.

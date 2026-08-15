@@ -14,6 +14,10 @@ snippet: Ibaraki capital known for Kairakuen, a hillside garden of thousands of 
   trees.
 title: Mito
 type: location
+heritage: 3.1
+vibrancy: 2.2
+nature: 4.5
+off_the_beaten_track: 2.3
 ---
 
 Mito is the capital of Ibaraki Prefecture, 125 kilometres north of Tokyo on the eastern side of Honshu. It is best known for [Kairakuen](/asia/japan/honshu/mito/kairakuen), one of Japan's three great gardens, which is spectacular during the plum blossom season in February and March — over 3,000 plum trees of 100 varieties bloom across the hillside, followed by cherry blossoms in April.

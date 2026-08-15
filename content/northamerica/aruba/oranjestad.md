@@ -18,6 +18,10 @@ title: Oranjestad
 type: location
 snippet: Dutch Caribbean capital of Aruba, with pastel colonial facades and a working
   waterfront.
+heritage: 2.8
+vibrancy: 6.0
+nature: 6.7
+off_the_beaten_track: 1.3
 ---
 
 Oranjestad (pop. 35,000) is Aruba's compact Dutch Caribbean capital, and the most rewarding part of the island for anyone interested in something beyond beach and resort. The waterfront is the city's heart: [Venezuelan trading schooners](/northamerica/aruba/oranjestad/oranjestad_waterfront) dock along the quay selling fresh fish, tropical fruit, and spices, while colourful Dutch colonial facades — pastel pinks, yellows, and greens with stepped gables — line the streets behind. It is a vivid and genuine scene, different in character from the hotel strip a few kilometres north.

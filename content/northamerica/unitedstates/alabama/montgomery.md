@@ -10,6 +10,10 @@ title: Montgomery
 snippet: Alabama capital where Confederate history and the civil rights movement meet
   in a compact Southern city.
 type: location
+heritage: 5.4
+vibrancy: 5.1
+nature: 3.6
+off_the_beaten_track: 1.6
 ---
 
 Montgomery is Alabama's capital and one of the most historically significant cities in the American South. It was the first capital of the Confederacy, and a century later it became a cradle of the civil rights movement. Rosa Parks was arrested here in 1955 for refusing to give up her bus seat, sparking the Montgomery Bus Boycott led by a young Martin Luther King Jr. from the [Dexter Avenue Baptist Church](/northamerica/unitedstates/alabama/montgomery/dexter_avenue_baptist_church).

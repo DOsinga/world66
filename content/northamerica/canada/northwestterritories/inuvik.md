@@ -14,6 +14,10 @@ snippet: Northwest Territories town on the Mackenzie River Delta at the end of t
   Dempster Highway.
 title: Inuvik
 type: location
+heritage: 5.1
+vibrancy: 2.0
+nature: 7.0
+off_the_beaten_track: 5.7
 ---
 
 Inuvik sits at the end of the Dempster Highway in Canada's Northwest Territories — the northernmost point you can reach by public road in North America until you turn onto the [Tuktoyaktuk Highway](/northamerica/canada/northwestterritories/inuvik/tuktoyaktuk_highway) and continue another two hours to the Arctic Ocean. It is a small town of about 3,000 people on the [Mackenzie River Delta](/northamerica/canada/northwestterritories/inuvik/mackenzie_delta), built in the 1950s as an administrative centre and now serving as the main hub for the western Arctic.

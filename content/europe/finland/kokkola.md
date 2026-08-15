@@ -14,6 +14,10 @@ image_license: CC BY 2.0
 image_attribution: Ninara on Flickr
 snippet: Bilingual Finnish coastal city on the Gulf of Bothnia, with a preserved wooden
   old town.
+heritage: 3.8
+vibrancy: 3.0
+nature: 5.3
+off_the_beaten_track: 2.0
 ---
 
 Kokkola is one of those small Finnish coastal cities that most travellers blow past on the train between Vaasa and Oulu. That is a mistake. This bilingual city on the Gulf of Bothnia has a beautifully preserved wooden old town, a surprisingly lively cultural scene, and the kind of quiet charm that rewards anyone willing to slow down.

@@ -14,6 +14,10 @@ snippet: One-square-mile Hudson River city facing Manhattan, with brownstones an
   skyline views.
 title: Hoboken
 type: location
+heritage: 3.7
+vibrancy: 6.2
+nature: 2.8
+off_the_beaten_track: 1.3
 ---
 
 Hoboken is a one-square-mile city on the New Jersey side of the Hudson River, directly across from Manhattan's west side. It has one of the best skyline views in the New York area — stand on the waterfront promenade at dusk and the whole of midtown lights up in front of you.

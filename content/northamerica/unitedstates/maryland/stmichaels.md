@@ -14,6 +14,10 @@ snippet: Preserved Chesapeake harbour town with crab boats, colonial streets, an
   a major maritime museum.
 title: St. Michaels
 type: location
+heritage: 6.0
+vibrancy: 4.5
+nature: 5.1
+off_the_beaten_track: 2.8
 ---
 
 St. Michaels is a small, well-preserved harbour town on [Maryland](/northamerica/unitedstates/maryland)'s Eastern Shore, sitting between the Miles River and Broad Creek on the Chesapeake Bay. It dates from the colonial era and still has the feel of a working waterfront town, with crabbers and oystermen going out in the morning and tourists filling the restaurants by evening.

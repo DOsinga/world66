@@ -16,6 +16,10 @@ image: kudus.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Masjid_Menara_Kudus_Dari_Arah_Timur_Di_Kab.Kudus_Prop.Jateng_Indonesia.jpg
 image_license: CC BY-SA 4.0
 image_attribution: SATELITBM
+heritage: 4.8
+vibrancy: 3.2
+nature: 4.0
+off_the_beaten_track: 2.7
 ---
 
 Kudus is a compact city on the north side of Central Java, east of [Semarang](/asia/indonesia/java/semarang), with a stronger identity than its size suggests. It is one of Java's old Islamic towns, closely tied to Sunan Kudus and the Wali Songo saints who helped spread Islam across the island. It is also the place most Indonesians associate with kretek, the clove-scented cigarette that became one of the country's most distinctive mass products.

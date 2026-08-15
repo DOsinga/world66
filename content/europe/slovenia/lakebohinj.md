@@ -16,6 +16,10 @@ longitude: 13.864531
 score: 9.07
 title: Lake Bohinj
 type: location
+heritage: 3.8
+vibrancy: 1.7
+nature: 8.2
+off_the_beaten_track: 4.3
 ---
 
 [Lake Bohinj](/europe/slovenia/lakebohinj/lake_bohinj) sits in the Julian Alps of northwestern Slovenia, not far from the more famous [Lake Bled](/europe/slovenia/bled) but a world apart in atmosphere. Where Bled caters to coach tours, Bohinj is quieter, wilder, and surrounded by proper mountains — Triglav, Slovenia's highest peak, rises just to the north.

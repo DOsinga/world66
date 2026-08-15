@@ -12,8 +12,12 @@ image_source: https://commons.wikimedia.org/wiki/File:1_glenrowan_aerial_panoram
 image_license: CC BY-SA 4.0
 image_attribution: Chensiyuan
 sources:
-  - https://en.wikivoyage.org/wiki/Glenrowan
-  - https://en.wikipedia.org/wiki/Glenrowan,_Victoria
+- https://en.wikivoyage.org/wiki/Glenrowan
+- https://en.wikipedia.org/wiki/Glenrowan,_Victoria
+heritage: 5.3
+vibrancy: 2.4
+nature: 4.5
+off_the_beaten_track: 3.5
 ---
 
 Glenrowan is tiny, but it owns one of Australia's best-known outlaw stories. This was where Ned Kelly and his gang made their last stand in June 1880, after a failed plan to derail a police train and a siege at the Glenrowan Inn.

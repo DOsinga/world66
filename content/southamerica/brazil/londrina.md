@@ -16,6 +16,10 @@ title: Londrina
 snippet: Northern Paraná city founded as a coffee boomtown, with British roots and
   a large Japanese-Brazilian community.
 type: location
+heritage: 3.1
+vibrancy: 4.5
+nature: 3.4
+off_the_beaten_track: 1.7
 ---
 
 Londrina is northern Paraná's largest city, a planned agricultural boomtown that grew with extraordinary speed from a patch of Atlantic forest. It was founded in 1929 by a British land company — the name means "Little London" in Portuguese — which sold parcels of the fertile red soil to thousands of European and Japanese immigrants who came to grow coffee. For several decades in the mid-20th century it was one of the fastest-growing cities in South America.

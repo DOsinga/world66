@@ -11,6 +11,10 @@ image: christiansfeld.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Christiansfeld_br%C3%B8dremenighedskirken_31_maj_2015_crop.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Villy Fink Isaksen
+heritage: 6.5
+vibrancy: 2.0
+nature: 2.2
+off_the_beaten_track: 2.5
 ---
 
 Christiansfeld is a planned town founded in 1773 by the Moravian Brethren — the Herrnhuter Brüdergemeine — a Protestant community with roots in Bohemia that spread across Europe in the 18th century. The settlement was listed as a UNESCO World Heritage Site in 2015, one of seven Moravian settlements worldwide to receive the designation.

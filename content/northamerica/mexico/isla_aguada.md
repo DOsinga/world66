@@ -13,6 +13,10 @@ image: isla_aguada.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Colorful_Sea_Side_-_Isla_Aguada_Campeche.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Bernard DUPONT
+heritage: 1.5
+vibrancy: 1.7
+nature: 6.4
+off_the_beaten_track: 3.1
 ---
 
 Isla Aguada is a small fishing town on the Gulf side of Campeche, where the road between Ciudad del Carmen and Campeche crosses the edge of Laguna de Terminos. It is quiet, flat, and coastal: a place of boats, pelicans, seafood, and long beaches rather than big resort infrastructure.

@@ -5,10 +5,15 @@ loc_type: city
 latitude: 45.046
 longitude: -73.587
 score: 6.5
-snippet: Borderland Quebec village surrounded by apple orchards, cideries, and a safari park.
+snippet: Borderland Quebec village surrounded by apple orchards, cideries, and a safari
+  park.
 sources:
-  - https://en.wikivoyage.org/wiki/Hemmingford
-  - https://en.wikipedia.org/wiki/Hemmingford,_Quebec
+- https://en.wikivoyage.org/wiki/Hemmingford
+- https://en.wikipedia.org/wiki/Hemmingford,_Quebec
+heritage: 2.8
+vibrancy: 1.9
+nature: 4.2
+off_the_beaten_track: 3.2
 ---
 
 Hemmingford is a small village and township south of Montreal, close to the New York border. The village itself is quiet, but the surrounding countryside has a clear day-trip identity: apple orchards, ice cider, a big family safari park, and outdoor trails at Saint-Bernard.

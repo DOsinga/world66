@@ -14,6 +14,10 @@ snippet: Planned Jutland fortress town encircled by intact star-shaped ramparts 
   Danish military memory.
 title: Fredericia
 type: location
+heritage: 5.3
+vibrancy: 2.6
+nature: 3.2
+off_the_beaten_track: 2.1
 ---
 
 Fredericia is a fortified town on the eastern coast of the Jutland peninsula in Denmark, built from scratch in the 17th century as a planned military stronghold. King Frederick III founded it in 1650 — hence the name — and laid it out on a [strict grid plan](/europe/denmark/fredericia/old_town) enclosed by star-shaped ramparts. Those [ramparts](/europe/denmark/fredericia/the_ramparts) are still intact, forming a green ring around the old town that residents use for walking and cycling.

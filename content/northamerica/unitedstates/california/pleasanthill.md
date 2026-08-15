@@ -7,10 +7,15 @@ longitude: -122.060797
 phone: 944-0402
 price: $2-12
 score: 5.8
-snippet: Suburban East Bay city northeast of Oakland, centred on a compact downtown in the Diablo Valley.
+snippet: Suburban East Bay city northeast of Oakland, centred on a compact downtown
+  in the Diablo Valley.
 title: Pleasant Hill
 type: location
 url: www.nibblerseatery.com
+heritage: 2.6
+vibrancy: 2.2
+nature: 2.6
+off_the_beaten_track: 1.4
 ---
 
 ### Nibblers Eatery & Wine Bar

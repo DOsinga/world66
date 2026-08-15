@@ -16,6 +16,10 @@ tags:
 - north_york_moors
 title: Scarborough
 type: location
+heritage: 5.0
+vibrancy: 4.7
+nature: 4.9
+off_the_beaten_track: 2.5
 ---
 
 Scarborough is a classic seaside resort on the east coast of Yorkshire. The old town is built around a massive headland that juts out into the North Sea, dividing the town into a north side and a south side — each with its own character and its own beach.

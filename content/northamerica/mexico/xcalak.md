@@ -5,12 +5,17 @@ loc_type: city
 latitude: 18.2739
 longitude: -87.8352
 score: 7.4
-snippet: Remote Costa Maya fishing village with reef snorkelling, diving, and quiet Caribbean water.
+snippet: Remote Costa Maya fishing village with reef snorkelling, diving, and quiet
+  Caribbean water.
 sources:
-  - https://en.wikivoyage.org/wiki/Xcalak
-  - https://en.wikipedia.org/wiki/Xcalak
-  - https://www.unesco.org/en/mab/banco-chinchorro
+- https://en.wikivoyage.org/wiki/Xcalak
+- https://en.wikipedia.org/wiki/Xcalak
+- https://www.unesco.org/en/mab/banco-chinchorro
 wikidata: Q1916616
+heritage: 3.2
+vibrancy: 1.5
+nature: 8.2
+off_the_beaten_track: 5.4
 ---
 
 Xcalak sits near the Belize border at the far southern end of Mexico's Caribbean coast. It is quieter and more remote than Mahahual, with a fishing-village feel, sandy roads, and reef water close enough offshore to shape nearly everything visitors do.

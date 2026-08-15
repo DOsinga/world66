@@ -14,6 +14,10 @@ snippet: Lake County community north of Chicago, with a compact downtown, colleg
   events, and nearby forest preserves
 title: Grayslake
 type: location
+heritage: 1.5
+vibrancy: 2.7
+nature: 3.1
+off_the_beaten_track: 1.3
 ---
 
 Grayslake is a small community in Lake County, about 40 miles north of Chicago. It sits in the chain of suburbs between Waukegan and the Fox River Valley, but retains a more small-town feel than many of its neighbours, with a compact downtown and a slower pace. The College of Lake County and the Lake County Fairgrounds keep the town busy with events year-round, from the county fair in late July to craft shows and concerts.

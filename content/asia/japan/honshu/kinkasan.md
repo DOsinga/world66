@@ -20,6 +20,10 @@ image: kinkasan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kinkasan_in_Sanriku_Fukko_National_Park.jpg
 image_license: CC BY-SA 4.0
 image_attribution: ブルーノ・プラス
+heritage: 2.8
+vibrancy: 2.0
+nature: 4.8
+off_the_beaten_track: 3.1
 ---
 
 Kinkasan is a small, steep island off the Oshika Peninsula in Miyagi, sacred enough that the whole island feels like an extension of its shrine. The ferry lands below [Koganeyama Shrine](/asia/japan/honshu/kinkasan/koganeyama_shrine), a gold-coloured Shinto sanctuary tied to Japan's first gold production and to a stubborn promise of good fortune for anyone who returns three years in a row.

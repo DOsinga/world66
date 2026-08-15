@@ -13,6 +13,10 @@ snippet: Dniester-side city of Soviet-era boulevards, Lenin statues, local roubl
 type: location
 score: 6.71
 loc_type: city
+heritage: 5.1
+vibrancy: 2.0
+nature: 2.1
+off_the_beaten_track: 6.9
 ---
 
 Tiraspol is the capital of Transnistria, the unrecognized breakaway republic that declared independence from Moldova in 1990 and has maintained a frozen existence since. The city sits on the east bank of the Dniester, about 70 km from [Chisinau](/europe/moldova/chisinau).

@@ -14,6 +14,10 @@ snippet: Loyalty Islands coral atoll with a 25-kilometre white beach and Kanak c
   north-east of Nouméa.
 title: Ouvea
 type: location
+heritage: 3.2
+vibrancy: 0.7
+nature: 7.6
+off_the_beaten_track: 7.1
 ---
 
 Ouvéa is the northernmost of the Loyalty Islands in New Caledonia, a narrow coral atoll about 130 kilometres north-east of Nouméa. The island's western shore has one of the most striking beaches in the Pacific — a 25-kilometre stretch of white sand and turquoise water that runs almost the full length of the island.

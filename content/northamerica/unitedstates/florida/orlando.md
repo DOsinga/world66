@@ -16,6 +16,10 @@ image: orlando.jpg
 image_source: https://commons.wikimedia.org/wiki/File:ICON_Park_green_overview.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Kiran891
+heritage: 1.6
+vibrancy: 7.8
+nature: 8.1
+off_the_beaten_track: 0.9
 ---
 
 Orlando is the theme park capital of the world. [Walt Disney World](/northamerica/unitedstates/florida/orlando/disney_world) and [Universal Orlando](/northamerica/unitedstates/florida/orlando/universal_orlando) anchor a sprawling entertainment district south-west of the actual city, with [SeaWorld](/northamerica/unitedstates/florida/orlando/seaworld), [Gatorland](/northamerica/unitedstates/florida/orlando/gatorland), and a string of smaller attractions filling the gaps. On any given day there are more visitors inside the parks than there are residents of downtown Orlando.

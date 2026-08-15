@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Star_Valley_Wyoming_Temple
 title: Star Valley (Afton)
 type: location
+heritage: 1.7
+vibrancy: 1.1
+nature: 7.6
+off_the_beaten_track: 3.3
 ---
 
 Star Valley is a long, fertile valley in western Wyoming, flanked by the Salt River Range to the east and the Wyoming Range to the west. A string of small towns runs down its length — Thayne, Auburn, Grover, Afton, Smoot — with Afton serving as the valley's commercial hub and largest town. The valley floor sits at around 1,900 metres and is ringed by peaks that hold snow into June, keeping the air clean and the summers short.

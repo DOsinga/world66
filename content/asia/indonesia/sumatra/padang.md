@@ -14,6 +14,10 @@ snippet: West Sumatran capital and Minangkabau gateway, with waterfront Chinatow
   beach sunsets, and rich food culture.
 title: Padang
 type: location
+heritage: 5.3
+vibrancy: 4.9
+nature: 4.5
+off_the_beaten_track: 3.8
 ---
 
 Padang is the capital of West Sumatra and the main gateway to the Minangkabau highlands. Most travellers pass through on the way to or from the Mentawai Islands or the hill towns of Bukittinggi and Lake Maninjau, but the city rewards a longer look.

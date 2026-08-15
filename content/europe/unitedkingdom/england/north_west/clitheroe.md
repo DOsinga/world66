@@ -14,6 +14,10 @@ snippet: Lancashire market town beneath Pendle Hill, with a Norman castle and vi
   across the Ribble Valley.
 title: Clitheroe
 type: location
+heritage: 4.0
+vibrancy: 4.6
+nature: 5.1
+off_the_beaten_track: 1.8
 ---
 
 Clitheroe is a small market town in the Ribble Valley, sheltering beneath the looming presence of [Pendle Hill](/europe/unitedkingdom/england/north_west/clitheroe/pendle_hill). The town is one of the oldest in Lancashire, with a [castle](/europe/unitedkingdom/england/north_west/clitheroe/clitheroe_castle) dating from the 12th century perched on a limestone crag above the centre. The views from the castle grounds stretch across the valley to the Forest of Bowland.

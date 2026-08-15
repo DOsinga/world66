@@ -16,6 +16,10 @@ tags:
 - devon
 title: Ashburton
 type: location
+heritage: 4.0
+vibrancy: 2.3
+nature: 5.6
+off_the_beaten_track: 2.7
 ---
 
 Ashburton is a small town on the southeastern edge of Dartmoor in Devon, one of the four historic stannary towns where tin was weighed and taxed in the Middle Ages. It sits in a valley where the open moor gives way to green farmland, and it has more character than its size suggests.

@@ -15,6 +15,10 @@ image: robe.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mundy_Terrace,_Robe_20230214_1.jpg
 image_license: CC BY-SA 4.0
 image_attribution: DXR
+heritage: 3.6
+vibrancy: 2.2
+nature: 5.1
+off_the_beaten_track: 4.0
 ---
 
 Robe is a small Limestone Coast town that still feels like a port, even though its busiest shipping days are long gone. Stone buildings, a customs house, fishing boats, Norfolk pines, and the red-and-white obelisk on the headland give it more character than most holiday towns of its size.

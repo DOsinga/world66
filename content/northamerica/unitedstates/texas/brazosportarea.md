@@ -14,6 +14,10 @@ snippet: Brazoria County Gulf Coast cluster with Surfside beaches, wetlands, and
   closest ocean sand.
 title: Brazosport Area
 type: location
+heritage: 2.3
+vibrancy: 2.2
+nature: 2.4
+off_the_beaten_track: 1.5
 ---
 
 Brazosport is the collective name for a cluster of small cities south of [Houston](/northamerica/unitedstates/texas/houston) in Brazoria County, including Lake Jackson, Clute, Angleton, Freeport, and the beach communities of Surfside and Quintana. If you want Gulf Coast beach time without the crowds and commercial sprawl of Galveston, this is where to go. Surfside Beach is the closest ocean beach to Houston proper, and on a weekday you can have long stretches of sand mostly to yourself.

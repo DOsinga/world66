@@ -10,6 +10,10 @@ longitude: -94.208787
 score: 6.82
 title: Bentonville
 type: location
+heritage: 1.4
+vibrancy: 2.4
+nature: 3.0
+off_the_beaten_track: 1.3
 ---
 
 Bentonville is the corporate hometown of Walmart, the world's largest retailer — and that fact shapes almost everything about the place. The original five-and-dime that Sam Walton opened on the city square in 1945 is now the **Walmart Museum**, a surprisingly engaging place that traces the rise of a small Arkansas merchant into a global empire. The adjacent square is pleasant and walkable.

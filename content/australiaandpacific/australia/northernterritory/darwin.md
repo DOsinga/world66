@@ -15,6 +15,10 @@ snippet: Tropical Northern Territory capital shaped by Asian food, wartime scars
   monsoon seasons, and Top End access.
 title: Darwin
 type: location
+heritage: 4.3
+vibrancy: 5.8
+nature: 6.2
+off_the_beaten_track: 4.2
 ---
 
 Darwin is the capital of Australia’s Northern Territory and the country’s most northerly city. It sits closer to Bali than to Sydney, and it shows — the food is heavily Southeast Asian, the population is unusually cosmopolitan, and the wet season brings monsoonal downpours that make the Top End’s dry season feel like a different world. Darwin is not a city most Australians know well, which means it surprises visitors who expect a dusty frontier town and find instead a functioning, lively city with good museums, strong food, and easy access to some of the most remarkable landscapes on earth.

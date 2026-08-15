@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Fongafale
 title: Funafuti
 type: location
+heritage: 1.3
+vibrancy: 2.4
+nature: 7.2
+off_the_beaten_track: 6.7
 ---
 
 Funafuti is the capital atoll of [Tuvalu](/australiaandpacific/tuvalu) and the only place in the country with anything resembling infrastructure. It is a thin ribbon of coral and palm strung around a wide turquoise lagoon — roughly 25 kilometres long, with thirty-three named islets, of which [Fongafale](/australiaandpacific/tuvalu/funafutiisland/fongafale) is by far the largest and the only one with permanent settlement. Around 6,000 people live here, more than half of Tuvalu's total population, and almost everything that happens in the country — government, banking, the single high school, the one paved road — happens on this strip of land.

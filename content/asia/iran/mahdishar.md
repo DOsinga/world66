@@ -18,6 +18,10 @@ sources:
 - https://www.showcaves.com/english/ir/showcaves/Darband.html
 title: Mahdishar
 type: location
+heritage: 2.5
+vibrancy: 1.0
+nature: 2.2
+off_the_beaten_track: 6.2
 ---
 
 Mahdishahr — also known by its older name Sangesar — is a small city in Semnan Province, sitting on the southern slopes of the Alborz mountains about 20 kilometres west of [Semnan](/asia/iran/semnan). At roughly 1,630 metres above sea level, it is a cool retreat from the lowland heat, with cold winters and heavy snowfall but mild summers. To the north the Alborz ridgeline marks the border with Mazandaran Province; to the south, the land drops away into the vast salt desert of Dasht-e Kavir.

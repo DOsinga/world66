@@ -13,6 +13,10 @@ snippet: Walled Silk Road city in Uzbekistan, preserving Itchan Kala's mud-brick
   minarets, and madrassas
 title: Khiva
 type: location
+heritage: 8.8
+vibrancy: 2.9
+nature: 1.4
+off_the_beaten_track: 3.7
 ---
 
 Khiva's walled inner city, the [Itchan Kala](/asia/uzbekistan/khiva/itchan_kala), is the best-preserved medieval town in Central Asia — a UNESCO World Heritage Site of minarets, madrassas, and turquoise-tiled palaces packed within mud-brick walls. It can feel like a museum rather than a living town, and in some ways it is: the Soviets relocated most residents outside the walls, and tourism now dominates. But in the early morning or late afternoon, when the tour groups thin out and the light turns golden on the clay walls, Khiva is extraordinary.

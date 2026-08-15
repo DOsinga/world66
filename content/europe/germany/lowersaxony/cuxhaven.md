@@ -3,11 +3,15 @@ title: Cuxhaven
 type: location
 loc_type: city
 latitude: 53.86756
-longitude: 8.69860
+longitude: 8.6986
 score: 7.3
 snippet: North Sea resort and fishing port where the Elbe opens into the Wadden Sea.
 sources:
-  - https://en.wikivoyage.org/wiki/Cuxhaven
+- https://en.wikivoyage.org/wiki/Cuxhaven
+heritage: 4.2
+vibrancy: 2.8
+nature: 5.3
+off_the_beaten_track: 2.5
 ---
 
 Cuxhaven sits at the mouth of the Elbe, where river traffic, North Sea wind, beaches, and tidal flats all meet. It is one of Germany's big seaside resorts, but it still feels like a working fishing and harbour town rather than a polished beach escape.

@@ -14,6 +14,10 @@ snippet: Belle Époque spa town on the Allier, inseparable from France's wartime
   history.
 title: Vichy
 type: location
+heritage: 5.2
+vibrancy: 3.0
+nature: 5.9
+off_the_beaten_track: 2.5
 ---
 
 Vichy occupies a peculiar and layered position in French consciousness. It is, on one hand, a handsome Belle Époque spa town on the Allier river, full of grand hotels, ornate casinos, and manicured parks built to accommodate the fashionable patients who came to take the waters in the nineteenth century. On the other, it is the city whose name became synonymous with collaboration: from 1940 to 1944 the resort's hotels served as government ministries, and the regime that operated here passed some of the darkest legislation in French history. Both realities coexist in the same streets, and the city has in recent decades worked seriously to confront rather than suppress the second.

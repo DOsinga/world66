@@ -10,6 +10,10 @@ snippet: Schuylkill Valley city with a working-class core and a red Japanese-sty
   pagoda above Mount Penn
 title: Reading
 type: location
+heritage: 2.7
+vibrancy: 2.4
+nature: 2.2
+off_the_beaten_track: 1.3
 ---
 
 Reading is a mid-sized city in the Schuylkill Valley of eastern Pennsylvania, roughly halfway between Philadelphia and Harrisburg. It's a working-class city with a large Latino population — one of the largest proportionally in the US — and an economy that has seen better days since its industrial manufacturing base declined. But it has a genuine character and a few things worth knowing about.

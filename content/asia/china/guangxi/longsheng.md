@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Longsheng
 title: Longsheng
 type: location
+heritage: 5.8
+vibrancy: 2.2
+nature: 7.3
+off_the_beaten_track: 4.2
 ---
 
 Longsheng is the town most visitors use as a base for the [Dragon's Backbone Rice Terraces](/asia/china/guangxi/longsheng/dragon_backbone_terraces) — a system of cascading paddies carved into steep mountain slopes by the Zhuang and Yao minorities over several centuries. The terraces are genuinely spectacular, particularly in late May when the flooded fields catch the sky and create reflections that compound the dizzying geometry of the hillsides. The name comes from the pattern they make: from the high viewpoints the terraces do look like scales on a dragon's back.

@@ -14,6 +14,10 @@ snippet: Somerset seaside town at Exmoor's edge and the start of the South West 
   Path.
 title: Minehead
 type: location
+heritage: 4.0
+vibrancy: 2.7
+nature: 5.9
+off_the_beaten_track: 2.0
 ---
 
 Minehead is a small seaside town on the north Somerset coast, sitting at the edge of [Exmoor](/europe/unitedkingdom/england/exmoor) National Park. It is the [starting point of the South West Coast Path](/europe/unitedkingdom/england/south_west/minehead/south_west_coast_path_start), England's longest waymarked trail, which runs 630 miles to Poole in Dorset. The town has a pleasant [harbour](/europe/unitedkingdom/england/south_west/minehead/harbour), a long sandy beach and the charming old village of Higher Town climbing the hillside behind, crowned by the medieval [Church of St Michael](/europe/unitedkingdom/england/south_west/minehead/church_of_st_michael).

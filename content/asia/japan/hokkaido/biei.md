@@ -16,6 +16,10 @@ image: biei.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bibaushi,_Biei,_Kamikawa_District,_Hokkaido_Prefecture_071-0471,_Japan_-_panoramio_(4).jpg
 image_license: CC BY-SA 3.0
 image_attribution: 肖红军
+heritage: 2.3
+vibrancy: 1.2
+nature: 8.1
+off_the_beaten_track: 4.4
 ---
 
 Biei is the softer, hillier neighbour of [Furano](/asia/japan/hokkaido/furano), set in central [Hokkaido](/asia/japan/hokkaido) between Asahikawa and the Tokachi volcanic range. It is famous for rolling farm fields that look almost planned for photographers: wheat, potatoes, flowers, and windbreak trees laid out in long strips over low hills.

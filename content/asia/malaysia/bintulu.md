@@ -14,6 +14,10 @@ snippet: Industrial Sarawak coastal town built on LNG, used as the jump-off for 
   National Park.
 title: Bintulu
 type: location
+heritage: 1.6
+vibrancy: 2.5
+nature: 3.9
+off_the_beaten_track: 2.2
 ---
 
 Bintulu is an industrial town on the coast of Sarawak in Malaysian Borneo, built on oil and gas money. The Petronas LNG complex just outside town is one of the largest in the world, and the town's rapid growth shows — modern buildings, wide roads, and a transient expat population give it a different feel from the more characterful towns of Sarawak.

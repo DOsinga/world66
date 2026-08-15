@@ -5,12 +5,17 @@ loc_type: city
 latitude: 19.1833
 longitude: -100.1333
 score: 7.5
-snippet: Lakeside Pueblo Magico west of Mexico City, known for sailing, paragliding, waterfalls, and monarch butterflies.
+snippet: Lakeside Pueblo Magico west of Mexico City, known for sailing, paragliding,
+  waterfalls, and monarch butterflies.
 sources:
-  - https://en.wikivoyage.org/wiki/Valle_de_Bravo
-  - https://visitmexico.com/es/destino/1993/valle-de-bravo
-  - https://turismo.edomex.gob.mx/valle_bravo
-  - https://escapadas.mexicodesconocido.com.mx/atractivos/cascada-velo-de-novia-en-valle-de-bravo/
+- https://en.wikivoyage.org/wiki/Valle_de_Bravo
+- https://visitmexico.com/es/destino/1993/valle-de-bravo
+- https://turismo.edomex.gob.mx/valle_bravo
+- https://escapadas.mexicodesconocido.com.mx/atractivos/cascada-velo-de-novia-en-valle-de-bravo/
+heritage: 3.2
+vibrancy: 4.0
+nature: 7.1
+off_the_beaten_track: 3.0
 ---
 
 Valle de Bravo is a lakeside mountain town west of [Mexico City](/northamerica/mexico/mexicocity), where whitewashed streets and red-tile roofs drop toward Lake Avandaro. It is popular with weekend visitors from the capital, but the setting is strong enough to survive the crowds: water, pine-covered hills, waterfalls, and high launch points for paragliders.

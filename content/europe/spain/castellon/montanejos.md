@@ -14,6 +14,10 @@ image: montanejos.jpg
 image_source: https://commons.wikimedia.org/wiki/File:La_Fuente_de_los_Ba%C3%B1os_de_Montanejos.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Juan Emilio Prades Bel
+heritage: 4.4
+vibrancy: 2.0
+nature: 6.0
+off_the_beaten_track: 4.1
 ---
 
 Montanejos is a small inland spa village in [Castellon](/europe/spain/castellon), set where the Mijares River cuts through pale limestone hills. It is not a polished resort, and that is part of the point: the village is a base for warm river bathing, canyon walks, climbing, and a little Moorish and 19th-century heritage.

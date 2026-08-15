@@ -14,6 +14,10 @@ title: Woodinville
 type: location
 snippet: Washington wine town northeast of Seattle, with tasting rooms clustered in
   the Warehouse District and Hollywood Hill.
+heritage: 1.9
+vibrancy: 2.0
+nature: 6.3
+off_the_beaten_track: 2.3
 ---
 
 Woodinville is Washington State's wine country in miniature, tucked into a valley just 30 minutes northeast of Seattle. Over a hundred wineries and tasting rooms cluster along two main strips — the [Warehouse District](/northamerica/unitedstates/washington/woodinville/woodinville_warehouse_district) and the Hollywood Hill corridor — most of them pouring wines made from grapes grown in the dry eastern half of the state.

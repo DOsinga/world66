@@ -17,6 +17,10 @@ image: mukutmanipur.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Evening_View_from_Mukutmanipur_Dam.jpg
 image_license: CC BY-SA 4.0
 image_attribution: ARI
+heritage: 4.4
+vibrancy: 1.6
+nature: 6.3
+off_the_beaten_track: 4.1
 ---
 
 Mukutmanipur is not a town you come to for streets and monuments. It is a reservoir landscape in Bankura district, where the Kangsabati and Kumari rivers are held back by a long earthen dam and the water spreads between red earth, sal forest, and low hills.

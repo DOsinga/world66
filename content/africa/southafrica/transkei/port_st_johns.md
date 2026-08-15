@@ -6,11 +6,16 @@ latitude: -31.62
 longitude: 29.54
 wikidata: Q2604557
 score: 7.1
-snippet: Wild Coast river-mouth town between sandstone peaks, beaches, forest reserves, and rough-road waterfalls.
+snippet: Wild Coast river-mouth town between sandstone peaks, beaches, forest reserves,
+  and rough-road waterfalls.
 sources:
-  - https://en.wikivoyage.org/wiki/Port_St_Johns
-  - https://en.wikipedia.org/wiki/Port_St._Johns
-  - https://bookonline.ecpta.co.za/?q=node%2F48
+- https://en.wikivoyage.org/wiki/Port_St_Johns
+- https://en.wikipedia.org/wiki/Port_St._Johns
+- https://bookonline.ecpta.co.za/?q=node%2F48
+heritage: 4.4
+vibrancy: 1.1
+nature: 7.7
+off_the_beaten_track: 6.4
 ---
 
 Port St Johns is the Wild Coast in concentrated form: a small Xhosa coastal town squeezed between the Mzimvubu River, green hills, sandstone peaks, and the Indian Ocean. It is rough around the edges, sometimes chaotic, and far more memorable than the neat beach towns farther down the coast.

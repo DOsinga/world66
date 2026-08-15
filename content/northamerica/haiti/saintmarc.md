@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Saint-Marc_Arrondissement
 title: Saint-Marc
 type: location
+heritage: 4.6
+vibrancy: 3.4
+nature: 5.3
+off_the_beaten_track: 6.2
 ---
 
 Saint-Marc is a port city of around 250,000 people on Haiti's western coast, the gateway to the Artibonite department and the main town between Port-au-Prince and Gonaïves. It sits where the Rivière de Saint-Marc meets the sea, and historically owed its importance to the rice and sugar grown in the broad Artibonite valley behind it.

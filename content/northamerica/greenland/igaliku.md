@@ -14,6 +14,10 @@ snippet: Southern Greenland sheep-farming village on Norse Gardar's cathedral ru
   set among fjord and mountain views.
 title: Igaliku
 type: location
+heritage: 1.9
+vibrancy: 0.6
+nature: 7.9
+off_the_beaten_track: 7.4
 ---
 
 Igaliku is one of the most beautiful spots in southern [Greenland](/northamerica/greenland) — a tiny farming village of brightly painted houses in a sheltered valley surrounded by mountains, with views across the fjord. The setting alone justifies the trip, but this place also carries a thousand years of Norse history.

@@ -5,11 +5,15 @@ longitude: -64.7686
 score: 6.95
 snippet: Tiny North Shore fishing village named for waterfalls that roar like thunder.
 sources:
-  - https://en.wikivoyage.org/wiki/Rivi%C3%A8re-au-Tonnerre
-  - https://www.tourismecote-nord.com/en/riviere-au-tonnerre/municipalities/
-  - https://www.quebecmaritime.ca/en/blog/5-good-reasons-to-visit-minganie
+- https://en.wikivoyage.org/wiki/Rivi%C3%A8re-au-Tonnerre
+- https://www.tourismecote-nord.com/en/riviere-au-tonnerre/municipalities/
+- https://www.quebecmaritime.ca/en/blog/5-good-reasons-to-visit-minganie
 title: Rivière-au-Tonnerre
 type: location
+heritage: 3.2
+vibrancy: 0.9
+nature: 8.1
+off_the_beaten_track: 6.0
 ---
 
 Rivière-au-Tonnerre is a tiny fishing village on Québec's North Shore, far enough east that the road itself starts to feel like an expedition. It is not a polished destination, and that is the appeal: crab boats, rocky coves, big Gulf of St. Lawrence skies, and a river whose falls gave the village its thunderous name.

@@ -14,6 +14,10 @@ image: strahan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:130131_7000_Foreshore_walk_Strahan_Tas_Australia.jpg
 image_license: CC BY-SA 3.0
 image_attribution: 夏目・龍之介
+heritage: 3.8
+vibrancy: 1.1
+nature: 7.8
+off_the_beaten_track: 6.2
 ---
 
 Strahan is the small harbour town where Tasmania's west coast becomes accessible without becoming tame. It sits on Macquarie Harbour, a huge sheet of dark water cut off from the Southern Ocean by the narrow, dangerous entrance of Hells Gates.

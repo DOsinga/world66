@@ -13,6 +13,10 @@ title: Lucca
 type: location
 snippet: Walled Tuscan city whose Renaissance ramparts now form a tree-lined promenade
   around the medieval centre.
+heritage: 7.6
+vibrancy: 6.1
+nature: 2.9
+off_the_beaten_track: 1.5
 ---
 
 Lucca is a compact, walled city on the Tuscan plain between Pisa and Florence — and for many people who know Tuscany well, the pick of the three. Where Pisa has the tower and Florence has the Uffizi, Lucca has something rarer: it is still a real, working, lived-in Italian town rather than a tourist backdrop. The medieval centre is almost entirely surrounded by a thick Renaissance wall, four kilometres long, built in the 16th and 17th centuries against Florentine attack and never actually used. Today the top of the ramparts has been turned into a broad elm-lined promenade — arguably the most pleasant urban park in Italy — where you can walk, jog, or (much better) rent a bicycle and cycle right around the top of the city in about 40 minutes.

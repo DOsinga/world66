@@ -17,6 +17,10 @@ image: jardin.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Casa_antioque%C3%B1a_en_la_Plaza_Principal_del_Municipio_el_Jard%C3%ADn._Antioquia._Colombia.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Kamilokardona
+heritage: 3.4
+vibrancy: 2.8
+nature: 5.7
+off_the_beaten_track: 3.8
 ---
 
 Jardín is one of the prettiest towns in Antioquia's coffee country, set in a green bowl of mountains about three hours from Medellín. The central square is the showpiece: painted balconies, leather chairs outside cafes, horses clopping past, and the stone basilica rising above it all.

@@ -14,6 +14,10 @@ snippet: Chouf Mountain palace town centred on Beiteddine's courtyards, mosaics,
   Emir Bashir's 19th-century residence.
 title: Beiteddine
 type: location
+heritage: 6.5
+vibrancy: 4.1
+nature: 6.6
+off_the_beaten_track: 3.6
 ---
 
 The [Palace of Beiteddine](/asia/lebanon/beiteddine/beiteddine_palace) is one of Lebanon's finest sights and makes one of the most popular day trips from [Beirut](/asia/lebanon/beirut). The road up through the Chouf Mountains is beautiful in itself, with sweeping views over terraced hillsides and deep valleys.

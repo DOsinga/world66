@@ -16,6 +16,10 @@ snippet: Swedish university city where Viking burial mounds, Uppsala Cathedral, 
   student life share the Fyris River.
 title: Uppsala
 type: location
+heritage: 6.7
+vibrancy: 5.9
+nature: 3.7
+off_the_beaten_track: 1.2
 ---
 
 Uppsala is Sweden's ancient spiritual and intellectual capital, a city where Viking burial mounds and a medieval cathedral sit alongside one of Europe's oldest universities. With a population of around 175,000, it is Sweden's fourth largest city, yet it has the feel of a small town — compact, walkable, and shaped by its 30,000 students.

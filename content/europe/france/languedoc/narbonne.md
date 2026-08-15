@@ -15,6 +15,10 @@ snippet: Roman Languedoc city on the Canal de la Robine, with markets, Gothic st
   and ancient roads
 title: Narbonne
 type: location
+heritage: 6.8
+vibrancy: 3.6
+nature: 3.2
+off_the_beaten_track: 2.4
 ---
 
 Narbonne is one of the oldest Roman towns in France — founded in 118 BC as Narbo Martius, it was once the capital of Gallia Narbonensis and a major Mediterranean port. The sea has long since retreated, but the city retains a quiet confidence that comes from knowing it has been important for two thousand years.

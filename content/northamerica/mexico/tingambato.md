@@ -10,6 +10,10 @@ title: Tingambato
 type: location
 snippet: Michoacán avocado-country village with a small Teotihuacan-influenced archaeological
   site beyond the plaza.
+heritage: 5.0
+vibrancy: 2.8
+nature: 5.4
+off_the_beaten_track: 5.1
 ---
 
 Tingambato is a small village in the heart of avocado country in [Michoacán](/northamerica/mexico/michoacan), on the free road between [Uruapan](/northamerica/mexico/uruapan) and Pátzcuaro.

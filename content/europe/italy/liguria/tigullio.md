@@ -13,6 +13,10 @@ image: tigullio.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Il_golfo_del_Tigullio_-_Santa_Margherita_Ligure_-_panoramio.jpg
 image_license: CC BY-SA 3.0
 image_attribution: patano
+heritage: 3.6
+vibrancy: 2.7
+nature: 6.0
+off_the_beaten_track: 2.3
 ---
 
 The Golfo del Tigullio is one of the most beautiful stretches of the Italian Riviera — a wide arc of coastline east of Genoa where fishing villages and resort towns crowd the hillsides above a calm, brilliantly blue sea. The name comes from the ancient Ligurian Tigullii tribe, but today it is best known as a summer playground for northern Italians and an increasingly popular destination for visitors from further afield.

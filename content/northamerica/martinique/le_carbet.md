@@ -13,6 +13,10 @@ snippet: Small Martinique coastal town below Mont Pelée, with dark-sand beaches
   early colonial landmarks.
 title: Le Carbet
 type: location
+heritage: 4.9
+vibrancy: 4.2
+nature: 5.5
+off_the_beaten_track: 3.6
 ---
 
 Le Carbet is a small coastal town on the Caribbean side of [Martinique](/northamerica/martinique), tucked between the sea and the green slopes of Mont Pelée. A [marker on the pier](/northamerica/martinique/le_carbet/columbus_landing_marker) commemorates Columbus's landing here in 1502 — though the Carib people who were already there might have had a different view of the occasion.

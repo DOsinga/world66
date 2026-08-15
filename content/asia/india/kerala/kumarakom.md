@@ -13,6 +13,10 @@ snippet: Kerala backwater village on Vembanad Lake, surrounded by lagoons, rice 
   and coconut groves
 title: Kumarakom
 type: location
+heritage: 5.3
+vibrancy: 4.8
+nature: 7.7
+off_the_beaten_track: 4.0
 ---
 
 Kumarakom is a cluster of small islands on the eastern shore of [Vembanad Lake](/asia/india/kerala/kumarakom/vembanad_lake), about 16 km from [Kottayam](/asia/india/kerala/kottayam). It is one of the most popular backwater destinations in Kerala, and for good reason: the setting is beautiful, with quiet lagoons, rice paddies and coconut groves all around.

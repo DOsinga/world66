@@ -14,6 +14,10 @@ title: Vung Tau
 type: location
 snippet: Vietnamese beach city on a South China Sea peninsula, mixing Saigon weekenders
   with offshore oil money.
+heritage: 4.3
+vibrancy: 4.6
+nature: 5.1
+off_the_beaten_track: 3.5
 ---
 
 Vung Tau is a beach resort city on a small peninsula jutting into the South China Sea, about 120 kilometres southeast of [Ho Chi Minh City](/asia/vietnam/hochiminhcity). It's the closest seaside escape for Saigon residents, and on weekends the beaches fill up with day-trippers. During the week it's quieter and more manageable.

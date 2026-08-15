@@ -10,6 +10,10 @@ snippet: Tiny Loch Ness village on the quieter southeast shore, known for the wo
   Falls of Foyers.
 title: Foyers
 type: location
+heritage: 4.5
+vibrancy: 3.7
+nature: 5.1
+off_the_beaten_track: 4.1
 ---
 
 Most traffic along Loch Ness takes the busy A82 on the northwest shore, racing between Fort William and Inverness. Foyers sits on the quieter southeast side, reached by a single-track road that offers lovely views across the water without the lorries.

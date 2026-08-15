@@ -5,13 +5,18 @@ loc_type: feature
 latitude: 60.15
 longitude: -1.083
 score: 7.0
-snippet: Accessible Shetland island of crofts, lighthouses, cliff walks, and the seabird cliffs of Noss.
+snippet: Accessible Shetland island of crofts, lighthouses, cliff walks, and the seabird
+  cliffs of Noss.
 wikidata: Q565640
 sources:
-  - https://en.wikivoyage.org/wiki/Bressay
-  - https://www.shetland.org/visit/areas/bressay-noss
-  - https://www.bressay.org/visit
-  - https://www.nature.scot/enjoying-outdoors/visit-our-nature-reserves/noss-national-nature-reserve
+- https://en.wikivoyage.org/wiki/Bressay
+- https://www.shetland.org/visit/areas/bressay-noss
+- https://www.bressay.org/visit
+- https://www.nature.scot/enjoying-outdoors/visit-our-nature-reserves/noss-national-nature-reserve
+heritage: 4.3
+vibrancy: 1.7
+nature: 6.8
+off_the_beaten_track: 5.0
 ---
 
 Bressay sits just across the harbour from [Lerwick](/europe/unitedkingdom/scotland/shetland), close enough that the ferry crossing feels almost casual. That is the trick of the place. A few minutes after leaving town you are among crofts, lochs, ponies, ruined settlements, and roads that climb into open moor.

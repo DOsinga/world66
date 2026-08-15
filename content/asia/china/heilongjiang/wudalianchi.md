@@ -13,6 +13,10 @@ snippet: Volcanic lake landscape in Heilongjiang, where 18th-century lava flows 
   five linked lakes.
 title: Wudalianchi
 type: location
+heritage: 3.7
+vibrancy: 2.6
+nature: 6.6
+off_the_beaten_track: 4.0
 ---
 
 Wudalianchi — the Five Linked Lakes — is one of the strangest landscapes in China. In 1719–1720, two volcanoes erupted and their lava flows dammed the Bai River, creating a chain of five interconnected lakes in a sea of black basalt. UNESCO designated the area a World Geopark in 2004, and it is easy to see why: the combination of volcanic geology, mineral springs, and the eerie black lava fields is unlike anything else in the northeast.

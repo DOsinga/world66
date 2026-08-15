@@ -10,6 +10,10 @@ snippet: Small coastal settlement south of Doha, with a little-visited nineteent
   shoreline fort.
 title: Waqra
 type: location
+heritage: 2.0
+vibrancy: 1.9
+nature: 4.4
+off_the_beaten_track: 5.3
 ---
 
 Waqra (also spelled Wukair) is a small coastal settlement south of Doha, between the capital and Al Wakrah. It has a little-visited fort — Al Waqra Fort — that sits quietly on the shoreline, built in the 19th century and used as a pearl trading post. The fort is in reasonable condition and worth a stop if you are making the drive south.

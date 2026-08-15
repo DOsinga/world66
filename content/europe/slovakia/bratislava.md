@@ -22,6 +22,10 @@ tip: Bratislava is one of Europe's smallest, most walkable capitals — and the 
   hilltop castle overlooks the Danube. It is an easy hour by boat or train from Vienna.
 title: Bratislava
 type: location
+heritage: 6.7
+vibrancy: 5.3
+nature: 3.3
+off_the_beaten_track: 1.4
 ---
 
 Bratislava is one of Europe's smallest and most underrated capitals. Sitting on the Danube where [Slovakia](/europe/slovakia), [Austria](/europe/austria), and [Hungary](/europe/hungary) meet, it spent centuries in the shadow of nearby Vienna — and for much of that time, it was the coronation city of the Hungarian kings.

@@ -14,6 +14,10 @@ title: Sagres
 type: location
 snippet: Algarve town at Europe's southwestern tip, associated with Atlantic navigation
   and Cabo de São Vicente.
+heritage: 4.9
+vibrancy: 3.3
+nature: 6.8
+off_the_beaten_track: 2.9
 ---
 
 Sagres sits at the southwestern tip of Europe, where early navigators believed the land ended and the ocean dropped off into nothingness. This is where Prince Henry the Navigator established his school of navigation and looked out over the Atlantic, wondering if there was a sea route to the Indies.

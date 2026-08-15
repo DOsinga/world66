@@ -14,6 +14,10 @@ snippet: Historic West African town where slave-trade memory and Vodun practice 
   the streets and shoreline.
 title: Ouidah
 type: location
+heritage: 7.7
+vibrancy: 4.0
+nature: 0.8
+off_the_beaten_track: 3.9
 ---
 
 Ouidah is one of the most historically charged towns in West Africa. For nearly two centuries it was the principal port through which enslaved people were shipped to the Americas — estimates suggest more than a million people left from its shore. That history is inescapable here, and it lends the town a weight that few other places in the region carry.

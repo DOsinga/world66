@@ -12,6 +12,10 @@ sources:
 - https://www.belarus.by/en/travel/top-guide-belarus/what-to-see-in-pinsk-jesuit-college-the-oldest-pipe-organ-and-other-attractions_i_0000122921.html
 title: Pinsk
 type: location
+heritage: 3.4
+vibrancy: 2.0
+nature: 4.6
+off_the_beaten_track: 4.2
 ---
 
 Pinsk sits in the flat, watery country of Polesia, where the Pina River threads toward the Pripyat marshes. It is one of Belarus's more rewarding smaller cities: old enough to have a real street plan, quiet enough to walk without hurry, and still marked by the Catholic, Orthodox, Polish, Jewish, and Belarusian layers that shaped this borderland.

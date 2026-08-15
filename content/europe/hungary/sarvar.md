@@ -10,6 +10,10 @@ snippet: Western Hungarian spa town with a Renaissance castle, thermal baths, an
   arboretum beside the Gyöngyös.
 title: Sárvár
 type: location
+heritage: 4.3
+vibrancy: 2.4
+nature: 3.5
+off_the_beaten_track: 2.0
 ---
 
 Sárvár is a small town in western Hungary known for its castle and its thermal baths. The [Nádasdy Castle](/europe/hungary/sarvar/nadasdy_castle) sits at the centre of town, reached by a long stone bridge that once crossed a moat. The five-sided Renaissance fortress served as both a military stronghold and an aristocratic residence from the 16th century, and its lavishly decorated interior now houses the Ferenc Nádasdy Museum — one of Hungary's finest castle museums, with exhibitions on the town's history, Hungarian Hussars, and a rich collection of applied art.

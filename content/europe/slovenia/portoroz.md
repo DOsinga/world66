@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Se%C4%8Dovlje_Saltpans_Natural_Park
 title: Portorož
 type: location
+heritage: 2.8
+vibrancy: 4.9
+nature: 5.3
+off_the_beaten_track: 1.6
 ---
 
 Portoroz is Slovenia's main seaside resort, tucked into a sheltered bay on the country's short strip of Adriatic coastline in the Istrian peninsula. The name means "port of roses" in Slovenian — a fitting image for a town that trades on mild Mediterranean air, spa hotels, and a long sandy beach that draws visitors from across Central Europe every summer.

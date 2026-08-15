@@ -10,6 +10,10 @@ snippet: Western Cuban city near tobacco valleys, limestone mogotes, and the cav
   country around Viñales
 title: Pinar del Río
 type: location
+heritage: 3.6
+vibrancy: 3.3
+nature: 5.8
+off_the_beaten_track: 4.6
 ---
 
 Pinar del Río sits about 200 kilometres west of Havana, and most visitors treat it as a base rather than a destination in itself. The city is pleasant enough — colonial architecture lines the main boulevard, and it has a low-key charm — but it can't compete with swinging Havana for atmosphere. What it does offer is access to some of Cuba's most spectacular countryside.

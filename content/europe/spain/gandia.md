@@ -5,13 +5,18 @@ loc_type: city
 latitude: 38.9667
 longitude: -0.1822
 score: 7.0
-snippet: Valencian coastal city where Borgia history and a real working town sit behind the beach.
+snippet: Valencian coastal city where Borgia history and a real working town sit behind
+  the beach.
 sources:
-  - https://en.wikivoyage.org/wiki/Gand%C3%ADa
-  - https://www.spain.info/en/places-of-interest/palace-ducal-borja/
-  - https://www.colegiatagandia.org/cultural-visit/
-  - https://turisme.dival.es/en/propuestas/experience-the-beach-and-nightlife-of-gandia/
+- https://en.wikivoyage.org/wiki/Gand%C3%ADa
+- https://www.spain.info/en/places-of-interest/palace-ducal-borja/
+- https://www.colegiatagandia.org/cultural-visit/
+- https://turisme.dival.es/en/propuestas/experience-the-beach-and-nightlife-of-gandia/
 wikidata: Q33532
+heritage: 4.5
+vibrancy: 4.9
+nature: 5.1
+off_the_beaten_track: 3.0
 ---
 
 Gandía is often sold as a beach town, but the better reason to come is the split personality. The wide sand and apartment blocks sit a few kilometres from a proper Valencian city, with everyday shops, orange-country wealth, and one of the strongest Borgia monuments in Spain.

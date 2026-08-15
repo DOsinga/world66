@@ -14,6 +14,10 @@ image: san_pedro_y_san_pablo_teposcolula.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Convento_San_pedro_y_san_Pablo_Teposcolula.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Gerardo Corona Alarcón
+heritage: 4.5
+vibrancy: 2.3
+nature: 3.7
+off_the_beaten_track: 3.1
 ---
 
 San Pedro y San Pablo Teposcolula, usually shortened to Teposcolula, is a small Mixtec town in the mountains northwest of [Oaxaca](/northamerica/mexico/oaxaca). It is quiet by Mexican Pueblo Magico standards, but it has one exceptional reason to come: a huge 16th-century Dominican complex with one of the finest open chapels in Oaxaca.

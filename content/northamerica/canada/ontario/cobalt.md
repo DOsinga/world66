@@ -17,6 +17,10 @@ image: cobalt.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cobalt_ON_3.jpg
 image_license: CC BY-SA 3.0
 image_attribution: P199
+heritage: 2.1
+vibrancy: 2.0
+nature: 4.3
+off_the_beaten_track: 5.2
 ---
 
 Cobalt is a small northern Ontario town with a big industrial story. In the early 1900s, silver discoveries here triggered one of Canada's great mining rushes, and the town still carries the hard edges of that boom: headframes, mine buildings, steep streets, and old commercial blocks squeezed into rocky ground.

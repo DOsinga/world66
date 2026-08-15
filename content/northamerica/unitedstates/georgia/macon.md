@@ -10,6 +10,10 @@ snippet: Central Georgia city with deep Southern music roots and the ancient mou
   of Ocmulgee nearby
 title: Macon
 type: location
+heritage: 3.2
+vibrancy: 3.2
+nature: 2.9
+off_the_beaten_track: 1.3
 ---
 
 Macon sits at the geographic center of Georgia, about 80 miles south of Atlanta on I-75. It's a mid-size city with a well-preserved historic downtown and a surprisingly rich musical heritage — Macon was the home of Otis Redding, Little Richard, and the Allman Brothers Band. The [Allman Brothers Band Museum at the Big House](/northamerica/unitedstates/georgia/macon/allman_brothers_big_house) on Vineville Avenue is a pilgrimage site for fans, and [Capricorn Sound Studio](/northamerica/unitedstates/georgia/macon/capricorn_studios) — where the band and dozens of other Southern rock acts recorded — has been restored and is open for tours.

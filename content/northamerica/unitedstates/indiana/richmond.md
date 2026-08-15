@@ -10,6 +10,10 @@ snippet: Eastern Indiana city on the old National Road, known for Underground Ra
   and early jazz history.
 title: Richmond
 type: location
+heritage: 4.4
+vibrancy: 2.6
+nature: 3.9
+off_the_beaten_track: 1.7
 ---
 
 Richmond is a small city in eastern Indiana, the county seat of Wayne County, founded by Quakers from North Carolina who settled along the [Whitewater Gorge](/northamerica/unitedstates/indiana/richmond/whitewater_gorge) in the early nineteenth century. It sits on the old National Road (US 40), the first federally funded highway, which brought a steady flow of pioneers heading west.

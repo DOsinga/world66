@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Auyuittuq_National_Park
 title: Auyuittuq National Park
 type: location
+heritage: 2.4
+vibrancy: 0.3
+nature: 7.4
+off_the_beaten_track: 7.3
 ---
 
 *North America > Canada > Nunavut > Auyuittuq National Park*

@@ -15,6 +15,10 @@ tags:
 - tigullio
 title: Sestri Levante
 type: location
+heritage: 3.8
+vibrancy: 4.1
+nature: 5.7
+off_the_beaten_track: 1.9
 ---
 
 Sestri Levante is a small Ligurian town on a narrow peninsula, roughly halfway between Genoa and La Spezia. While the [Cinque Terre](/europe/italy/liguria/cinque_terre) and [Portofino](/europe/italy/liguria/portofino) get most of the attention on this stretch of coast, Sestri has become a favourite with Italians who want the same beauty with slightly less tourist pressure — though on summer weekends the narrow streets fill quickly.

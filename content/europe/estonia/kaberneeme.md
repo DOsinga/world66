@@ -14,6 +14,10 @@ snippet: Estonian coastal village on a pine-edged peninsula, known for quiet bea
   and glacial dunes.
 title: Kaberneeme
 type: location
+heritage: 3.0
+vibrancy: 1.2
+nature: 6.5
+off_the_beaten_track: 2.9
 ---
 
 Kaberneeme is a small coastal village in northern [Estonia](/europe/estonia), about 40 km east of Tallinn on the Kaberneeme peninsula. The village is known for its long, quiet beach — roughly 2 km of sand with pine forest edging right up to the shore. It is a popular summer escape for locals but rarely visited by foreign travellers.

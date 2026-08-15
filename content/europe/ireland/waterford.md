@@ -10,6 +10,10 @@ snippet: Ireland's oldest city, founded by Vikings and anchored by Reginald's To
   on the River Suir.
 title: Waterford
 type: location
+heritage: 7.2
+vibrancy: 3.8
+nature: 3.0
+off_the_beaten_track: 2.4
 ---
 
 Waterford is Ireland's oldest city, founded by Vikings in 914 AD, and it still carries that long history in its medieval street pattern, surviving city walls, and the sturdy 12th-century Reginald's Tower at the waterfront. The city sits on the River Suir with some of the most scenic river landscapes in the southeast, and until the 17th century it was Ireland's second city after Dublin. It retains the best-preserved city walls in Ireland after Derry.

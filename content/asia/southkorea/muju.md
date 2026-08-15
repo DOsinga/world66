@@ -5,12 +5,17 @@ loc_type: city
 latitude: 36.0068
 longitude: 127.6607
 score: 7.5
-snippet: Mountain county in central Korea, known for Deogyusan, taekwondo, skiing, and fireflies.
+snippet: Mountain county in central Korea, known for Deogyusan, taekwondo, skiing,
+  and fireflies.
 sources:
-  - https://en.wikivoyage.org/wiki/Muju
-  - https://en.wikipedia.org/wiki/Muju_County
-  - https://en.wikipedia.org/wiki/Deogyusan
-  - https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=76259
+- https://en.wikivoyage.org/wiki/Muju
+- https://en.wikipedia.org/wiki/Muju_County
+- https://en.wikipedia.org/wiki/Deogyusan
+- https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=76259
+heritage: 2.6
+vibrancy: 3.0
+nature: 5.5
+off_the_beaten_track: 2.0
 ---
 
 Muju sits in the Sobaek Mountains of central South Korea, far enough from the big cities to feel like a real mountain break. It is best known for Deogyusan National Park, winter skiing, taekwondo, and a firefly festival that turns its clean rivers and fields into a point of local pride.

@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Tequesta,_Florida
 title: Tequesta
 type: location
+heritage: 4.9
+vibrancy: 3.3
+nature: 4.9
+off_the_beaten_track: 1.9
 ---
 
 Tequesta is a small residential village at the northern tip of Palm Beach County, where the Loxahatchee River meets the Jupiter Inlet. Named after the Tequesta people who once inhabited the area, the village was developed in the 1950s and retains a quiet, small-town feel compared to its more built-up neighbours.

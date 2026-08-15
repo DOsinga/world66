@@ -10,6 +10,10 @@ snippet: Ohio river city named for the Cuyahoga's rapids and cascades between Ak
   and Cleveland.
 title: Cuyahoga Falls
 type: location
+heritage: 3.4
+vibrancy: 2.7
+nature: 4.8
+off_the_beaten_track: 1.7
 ---
 
 Cuyahoga Falls sits on the Cuyahoga River between Akron and Cleveland, where the river drops through a series of [rapids and cascades](/northamerica/unitedstates/ohio/cuyahoga_falls/cuyahoga_river_rapids) that extend for about two miles — a longer total drop than Niagara Falls. The falls gave the city its name and its history: Native Americans portaged around the rough water on what is now Portage Trail, and by 1840 the river powered more varied manufacturing than any other Ohio settlement.

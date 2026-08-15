@@ -5,12 +5,17 @@ loc_type: city
 latitude: 21.2167
 longitude: -99.4725
 score: 7.4
-snippet: Sierra Gorda town with UNESCO mission churches, Huastec ruins, and mountain-road isolation.
+snippet: Sierra Gorda town with UNESCO mission churches, Huastec ruins, and mountain-road
+  isolation.
 sources:
 - https://en.wikivoyage.org/wiki/Jalpan
 - https://en.wikipedia.org/wiki/Jalpan_de_Serra
 - https://en.wikipedia.org/wiki/Franciscan_Missions_in_the_Sierra_Gorda_of_Quer%C3%A9taro
 - https://en.wikipedia.org/wiki/Tancama
+heritage: 4.6
+vibrancy: 2.1
+nature: 5.3
+off_the_beaten_track: 3.4
 ---
 
 Jalpan, usually written in full as Jalpan de Serra, is the main town of Queretaro's Sierra Gorda. It sits deep in green mountain country, far enough from the state capital that the road in feels like part of the visit.

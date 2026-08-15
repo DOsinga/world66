@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/%C5%A0pindler%C5%AFv_Ml%C3%BDn
 title: Špindlerův Mlýn
 type: location
+heritage: 3.5
+vibrancy: 4.8
+nature: 7.6
+off_the_beaten_track: 3.6
 ---
 
 Špindlerův Mlýn is the largest ski resort in the Czech Republic, located in the [Krkonoše National Park](/europe/czechrepublic/spindleruvmlyn/krkonose_national_park) (Giant Mountains) in northeastern Bohemia, close to the Polish border. The area is a national park, and the landscape is rewarding even outside the ski season — excellent hiking in summer, cross-country skiing in winter, and one of Central Europe's finest subalpine environments year-round.

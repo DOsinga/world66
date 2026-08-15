@@ -5,11 +5,16 @@ loc_type: city
 latitude: 42.2158
 longitude: 75.7556
 score: 7.1
-snippet: Kyrgyz mountain-market town and practical base for Song-Kul, jailoo trips, and felt craft.
+snippet: Kyrgyz mountain-market town and practical base for Song-Kul, jailoo trips,
+  and felt craft.
 sources:
-  - https://en.wikivoyage.org/wiki/Kochkor
-  - https://en.wikipedia.org/wiki/Kochkor
-  - https://kyrgyzstan-tourism.com/sights/kochkor/
+- https://en.wikivoyage.org/wiki/Kochkor
+- https://en.wikipedia.org/wiki/Kochkor
+- https://kyrgyzstan-tourism.com/sights/kochkor/
+heritage: 3.2
+vibrancy: 1.1
+nature: 8.0
+off_the_beaten_track: 6.9
 ---
 
 Kochkor is a large village with the job of a mountain crossroads. Travelers pass through on the way to Song-Kul, Kol-Ukok, and the summer jailoos of central Kyrgyzstan, but the place is better than a pure transit stop. It has a real livestock market, a compact centre, and one of the country's best-known felt-carpet cooperatives.

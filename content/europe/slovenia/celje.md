@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Celje_Castle
 title: Celje
 type: location
+heritage: 5.6
+vibrancy: 3.0
+nature: 3.4
+off_the_beaten_track: 2.1
 ---
 
 Celje is Slovenia's third-largest city, set on the Savinja River in the Savinja Basin about an hour's drive northeast of [Ljubljana](/europe/slovenia/ljubljana). The Romans knew it as Celeia, and the city's history stretches back further still — but its greatest period came in the 14th and 15th centuries under the Counts of Celje, the most powerful feudal dynasty in the Slovenian lands, whose ambitions reached all the way to the Holy Roman Imperial throne before the dynasty died out in 1456.

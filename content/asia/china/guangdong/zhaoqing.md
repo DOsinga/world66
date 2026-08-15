@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Zhaoqing
 title: Zhaoqing
 type: location
+heritage: 4.4
+vibrancy: 3.6
+nature: 4.9
+off_the_beaten_track: 2.1
 ---
 
 Zhaoqing is often compared to Guilin, and the comparison is fair: both cities are built around a landscape of karst peaks rising from water, and both offer a version of the southern Chinese scenic ideal that inspired landscape painters for centuries. But Zhaoqing is less famous, less crowded, and two hours from Guangzhou by bullet train, which means it functions as a genuine weekend escape for Pearl River Delta residents rather than a tick-the-box destination for international tour groups. The seven rocky crags of [Star Lake](/asia/china/guangdong/zhaoqing/star_lake), arranged in a pattern that mirrors the Big Dipper constellation, sit in the middle of a lake surrounded by temples and pavilions; walking the causeways between the peaks at dawn, with the mist not yet burned off the water, is as good as the brochure photographs suggest.

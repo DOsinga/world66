@@ -15,6 +15,10 @@ type: location
 score: 6.81
 snippet: Dongting Lake city famed for Yueyang Tower, a landmark of classical Chinese
   political writing.
+heritage: 2.8
+vibrancy: 2.2
+nature: 3.7
+off_the_beaten_track: 2.4
 ---
 
 Yueyang occupies the north shore of Dongting Lake, once China's largest freshwater lake before twentieth-century drainage works reduced it to second place. The city's great monument is [Yueyang Tower](/asia/china/hunan/yueyang/yueyang_tower), one of the "Three Great Towers of Jiangnan" and the oldest of the three, rebuilt multiple times over fourteen centuries and currently presenting a Song-dynasty silhouette on a promontory above the lake. Its permanent place in Chinese cultural memory was secured by Fan Zhongyan's 1046 essay, which used the view from the tower as a meditation on public service and coined a phrase — "first to bear hardship, last to enjoy comfort" — that became a moral touchstone in Chinese politics and remains in circulation today.

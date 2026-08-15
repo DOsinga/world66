@@ -9,6 +9,10 @@ snippet: Central Oklahoma town southwest of Oklahoma City, where ranch country m
   a commuter community
 title: Tuttle
 type: location
+heritage: 1.6
+vibrancy: 1.7
+nature: 2.0
+off_the_beaten_track: 1.4
 ---
 
 Tuttle is a small but fast-growing town southwest of [Oklahoma City](/northamerica/unitedstates/oklahoma/oklahomacity), sitting along State Highway 37 in Grady County. Once a quiet farming community, it has become a bedroom community for people working in the metro area, though it still has the feel of a small Oklahoma town with wide streets and open sky.

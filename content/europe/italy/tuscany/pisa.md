@@ -12,6 +12,10 @@ longitude: 10.679791
 score: 9.07
 title: Pisa
 type: location
+heritage: 8.3
+vibrancy: 6.0
+nature: 3.4
+off_the_beaten_track: 1.7
 ---
 
 Pisa is a small Tuscan city of about 90,000 people on the River Arno, 80 km west of Florence and just inland from the Ligurian Sea. For most of the 11th, 12th and 13th centuries it was one of the four great maritime republics of Italy, along with Venice, Genoa and Amalfi, and the extraordinary ensemble of buildings on the **Campo dei Miracoli** (the "Field of Miracles") dates from the height of that power — a glittering assembly of white marble cathedral, baptistery, bell tower and cemetery on a single lawn, each one a first-rank masterpiece of Italian Romanesque architecture.

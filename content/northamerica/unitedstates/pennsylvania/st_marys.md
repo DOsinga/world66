@@ -17,6 +17,10 @@ image: st_marys.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Straub_Brewery.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Dincher
+heritage: 2.1
+vibrancy: 2.5
+nature: 4.0
+off_the_beaten_track: 1.9
 ---
 
 St. Marys sits in the Pennsylvania Wilds, a small city with German Catholic roots and a practical, working-town feel. Its appeal is not one grand sight, but a cluster of local stories: a long-running family brewery, one of the country's smallest chapels, and museums that keep the town's immigrant and industrial history visible.

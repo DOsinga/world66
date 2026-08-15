@@ -16,6 +16,10 @@ snippet: Lake Erie city of music museums, serious cultural institutions, and nei
   food scenes from Ohio City to Little Italy.
 title: Cleveland
 type: location
+heritage: 5.3
+vibrancy: 5.1
+nature: 3.6
+off_the_beaten_track: 1.2
 ---
 
 Cleveland sits on the southern shore of Lake Erie, a city that punches well above its weight in culture, food, and music. It is home to the **Rock and Roll Hall of Fame**, one of the most visited museums in the Midwest, and its cultural institutions in University Circle rival those of cities twice its size.

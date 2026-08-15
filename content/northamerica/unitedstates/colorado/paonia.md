@@ -14,6 +14,10 @@ image: paonia.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Paonia.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Cobun Keegan
+heritage: 3.2
+vibrancy: 3.5
+nature: 7.5
+off_the_beaten_track: 4.6
 ---
 
 Paonia sits in Colorado's North Fork Valley, a small town surrounded by orchards, vineyards and the dry mesas below the West Elk Mountains. It is not a resort town in the Aspen or Telluride sense. Its appeal is quieter: fruit country, farm roads, small wineries, a real arts scene and mountain views that appear at the end of ordinary streets.

@@ -7,6 +7,10 @@ snippet: Gilded Age resort town with a 21-mile lakeshore path and year-round esc
   from Chicago
 title: Lake Geneva
 type: location
+heritage: 3.6
+vibrancy: 3.9
+nature: 6.3
+off_the_beaten_track: 1.5
 ---
 
 A favorite weekend escape for Chicagoans since the Gilded Age, when wealthy families built summer estates along the lakeshore and the town became the Newport of the Midwest. The drive from Chicago takes about 90 minutes. The lake itself — Geneva Lake — covers nearly 5,000 acres and stays remarkably clear, ringed by old-money cottages, working boathouses, and the kind of mature trees that take a century to grow.

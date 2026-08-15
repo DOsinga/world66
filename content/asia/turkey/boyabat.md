@@ -16,6 +16,10 @@ image: boyabat.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Boyabat_Castle_Turkey_2023.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Muhsin Kadıoğlu
+heritage: 3.1
+vibrancy: 1.7
+nature: 5.6
+off_the_beaten_track: 5.6
 ---
 
 Boyabat sits inland from Sinop in the Gokirmak valley, a farm town watched over by a fortress on a sheer rock. It is not a polished tourist stop, but it has a strong sense of place: rice fields in the valley, brick and tile workshops, old houses below the castle, and market streets that still serve the villages around it.

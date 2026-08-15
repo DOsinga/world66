@@ -13,6 +13,10 @@ snippet: Tiny car-free Grenadine island where one hilltop village overlooks both
   and Caribbean waters.
 title: Mayreau
 type: location
+heritage: 3.2
+vibrancy: 2.1
+nature: 7.8
+off_the_beaten_track: 6.4
 ---
 
 Mayreau is the smallest inhabited island in the Grenadines, home to fewer than 300 people and no cars. The entire settlement, [Station Hill](/northamerica/saintvincentandthegrenadines/mayreau/station_hill), sits on a single hilltop, and from the small Catholic church at the top you can see both the Atlantic and the Caribbean at once.

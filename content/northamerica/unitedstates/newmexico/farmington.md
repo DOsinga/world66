@@ -14,6 +14,10 @@ title: Farmington
 type: location
 snippet: Northwestern New Mexico city at three rivers, shaped by Navajo trade and
   nearby red-rock landscapes.
+heritage: 4.3
+vibrancy: 3.9
+nature: 5.4
+off_the_beaten_track: 4.4
 ---
 
 Farmington is the largest city in New Mexico's northwest corner, sitting at the confluence of three rivers — the San Juan, the La Plata, and the Animas. It started as an agricultural town supplying mining communities in the San Juan Mountains and has grown steadily with oil and gas development and an influx of retirees drawn to the high desert climate.

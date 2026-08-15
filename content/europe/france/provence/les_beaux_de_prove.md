@@ -15,6 +15,10 @@ snippet: Fortified Provençal village on a limestone ridge, crowned by castle ru
   above the olive groves of Les Alpilles.
 title: Les Baux-de-Provence
 type: location
+heritage: 7.4
+vibrancy: 4.1
+nature: 5.1
+off_the_beaten_track: 2.5
 ---
 
 Few villages in France announce themselves quite so dramatically as Les Baux-de-Provence. The entire settlement — ruined castle, medieval streets, and all — sits on a narrow limestone ridge rising abruptly from the olive groves of Les Alpilles, its cliffs dropping sheer on three sides. In the Middle Ages that made it one of the most powerful strongholds in the south. Today it makes it one of the most photogenic.

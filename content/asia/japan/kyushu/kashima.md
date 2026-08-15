@@ -16,6 +16,10 @@ image: kashima.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Yutoku_Inari_Shrine.jpg
 image_license: CC BY 3.0
 image_attribution: LemonadeNWWW
+heritage: 5.0
+vibrancy: 2.3
+nature: 3.8
+off_the_beaten_track: 2.6
 ---
 
 Kashima sits in southern Saga Prefecture, between low hills and the tidal flats of the Ariake Sea. It is easy to confuse with the more famous Kashima in Ibaraki, but this one has its own strong mix: a spectacular Inari shrine, an old sake-brewing district, and a local willingness to turn mud into a festival.

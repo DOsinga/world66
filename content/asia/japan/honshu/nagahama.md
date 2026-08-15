@@ -14,6 +14,10 @@ snippet: Lake Biwa city with machiya streets, glass workshops, and a reconstruct
   castle above the shore
 title: Nagahama
 type: location
+heritage: 5.0
+vibrancy: 2.8
+nature: 3.5
+off_the_beaten_track: 1.7
 ---
 
 **Nagahama** sits on the northeastern shore of Lake Biwa in Shiga prefecture, a compact city with one of the best collections of traditional architecture in the region. Streets east of the train station are lined with *machiya* (townhouses) and *kura* (storehouses), many now converted into shops, galleries, and cafes.

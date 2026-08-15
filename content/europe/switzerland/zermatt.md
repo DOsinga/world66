@@ -26,6 +26,10 @@ tip: Zermatt is car-free — park in Täsch and take the train up. The Matterhor
   you can ski on the glacier.
 title: Zermatt
 type: location
+heritage: 3.1
+vibrancy: 2.1
+nature: 7.6
+off_the_beaten_track: 4.2
 ---
 
 Zermatt is the car-free village at the foot of the Matterhorn, one of the most recognizable mountains on earth. At 1,620 metres in the upper Valais, it has been drawing mountaineers since the mid-nineteenth century and skiers since the twentieth. The village itself is small enough to walk end to end in twenty minutes, but the ski area above it is enormous — 360 kilometres of pistes shared with Cervinia across the Italian border, plus summer glacier skiing on Klein Matterhorn that runs year-round.

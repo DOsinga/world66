@@ -14,6 +14,10 @@ title: Green Bay
 type: location
 snippet: Lake Michigan bay city known for the community-owned Packers and Lambeau
   Field football culture.
+heritage: 3.2
+vibrancy: 4.4
+nature: 4.9
+off_the_beaten_track: 1.2
 ---
 
 Green Bay is known above all as the home of the Green Bay Packers, the NFL franchise that is uniquely owned by its community rather than a private owner. On game days the city transforms, and [Lambeau Field](/northamerica/unitedstates/wisconsin/greenbay/lambeau_field) is a pilgrimage site for football fans year-round — the Packers Hall of Fame attached to the stadium is worth visiting even for the casually curious.

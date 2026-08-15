@@ -14,6 +14,10 @@ snippet: Quiet Sologne village near Chambord, with an old market hall and easy a
   to Loire châteaux
 title: Bracieux
 type: location
+heritage: 5.3
+vibrancy: 2.7
+nature: 3.8
+off_the_beaten_track: 1.9
 ---
 
 Bracieux is a quiet village about 15 km south of [Blois](/europe/france/loirevalley/blois), on the edge of the [Chambord](/europe/france/loirevalley/chambord) estate and at the northern boundary of the Sologne — the vast forested and lake-dotted countryside south of the Loire. It makes a good base for visiting several of the best Loire châteaux without staying in a larger, busier town.

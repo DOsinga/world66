@@ -15,6 +15,10 @@ title: Tours
 snippet: Loire Valley city at the Cher confluence, with half-timbered lanes and château-country
   access.
 type: location
+heritage: 8.0
+vibrancy: 4.9
+nature: 3.6
+off_the_beaten_track: 2.0
 ---
 
 Tours sits at the confluence of the Loire and the Cher, the largest city in the valley and a natural base for exploring the chateaux country. The old centre on the south bank of the Loire is compact and largely pedestrian — a tight grid of half-timbered houses, Romanesque and Gothic churches, and lively café terraces that fills with students from the university during term time.

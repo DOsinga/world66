@@ -14,6 +14,10 @@ longitude: -98.996697
 score: 5.05
 title: Washita
 type: location
+heritage: 2.0
+vibrancy: 1.1
+nature: 2.7
+off_the_beaten_track: 3.6
 ---
 
 Washita Battlefield National Historic Site protects and interprets the site of the Southern Cheyenne village of Peace Chief Black Kettle, attacked by the 7th U.S. Cavalry under Lt. Col. George A. Custer just before dawn on November 27, 1868.

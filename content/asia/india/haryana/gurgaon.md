@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Sultanpur_National_Park
 title: Gurgaon
 type: location
+heritage: 3.6
+vibrancy: 5.0
+nature: 2.4
+off_the_beaten_track: 1.9
 ---
 
 Gurgaon, officially Gurugram, is the city that shows what happened when Delhi's edge met private capital at full speed. Glass office parks, gated towers, shopping malls, expressways, and metro stations sit beside old village lanes, devotional shrines, and dusty Haryana fields that have not quite disappeared.

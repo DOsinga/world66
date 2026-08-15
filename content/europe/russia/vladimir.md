@@ -10,6 +10,10 @@ snippet: Ancient Russian city east of Moscow, rich in white-stone cathedrals fro
   medieval Rus'.
 title: Vladimir
 type: location
+heritage: 7.9
+vibrancy: 5.8
+nature: 3.7
+off_the_beaten_track: 2.6
 ---
 
 Vladimir is one of the oldest and most historically important cities in Russia. Founded in 990, it served as the capital of medieval Rus' in the 12th and 13th centuries, before Moscow took over that role. Today it is a mid-sized city of around 350,000 people, about 180 kilometres east of Moscow on the main road to Nizhny Novgorod — an easy day trip from the capital by train.

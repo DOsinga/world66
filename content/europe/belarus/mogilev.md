@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Mogilev_Oblast
 title: Mogilev
 type: location
+heritage: 3.1
+vibrancy: 1.6
+nature: 2.2
+off_the_beaten_track: 4.0
 ---
 
 Mogilev, also written Mahilyow, is Belarus's big eastern city on the Dnieper. It is less polished than [Minsk](/europe/belarus/minsk) and less romantic than [Hrodna](/europe/belarus/hrodna_grodno), but it has real weight: old trade routes, Polish-Lithuanian town rights, Russian imperial layers, Soviet industry, and a wartime history that still presses hard on the city.

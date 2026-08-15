@@ -14,6 +14,10 @@ image: emmaville.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Emmaville_(5).JPG
 image_license: CC BY-SA 3.0
 image_attribution: Cgoodwin
+heritage: 3.6
+vibrancy: 1.6
+nature: 6.3
+off_the_beaten_track: 6.1
 ---
 
 *Australia and Pacific > Australia > New South Wales > Emmaville*

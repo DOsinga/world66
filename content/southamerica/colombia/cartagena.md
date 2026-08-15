@@ -16,6 +16,10 @@ snippet: Caribbean port city with a walled colonial old town, UNESCO status, and
   Getsemaní district.
 title: Cartagena
 type: location
+heritage: 4.6
+vibrancy: 8.0
+nature: 3.5
+off_the_beaten_track: 2.1
 ---
 
 Cartagena de Indias (pop. 888,000) is Colombia's most visited city and one of the finest colonial towns in the Americas. It divides neatly into two parts: the walled Ciudad Antigua, a UNESCO World Heritage Site of cobbled streets, baroque churches, and colourful balconied houses, and the modern beach resort of Bocagrande to the south, all high-rise hotels and Caribbean sand. A third district worth knowing is [Getsemaní](/southamerica/colombia/cartagena/getsemani), just outside the walls, which has become the city's most interesting neighbourhood for nightlife and street art.

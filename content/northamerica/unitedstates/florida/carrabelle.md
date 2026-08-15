@@ -5,9 +5,14 @@ loc_type: city
 latitude: 29.853889
 longitude: -84.665833
 score: 7.0
-snippet: Forgotten Coast fishing town with white-sand beaches, a lighthouse, wartime history, and wild state forest.
+snippet: Forgotten Coast fishing town with white-sand beaches, a lighthouse, wartime
+  history, and wild state forest.
 sources:
-  - https://en.wikivoyage.org/wiki/Carrabelle
+- https://en.wikivoyage.org/wiki/Carrabelle
+heritage: 2.6
+vibrancy: 2.3
+nature: 5.3
+off_the_beaten_track: 2.4
 ---
 
 Carrabelle is a small fishing town on Florida's Forgotten Coast, where US 98 follows a quiet run of Gulf shoreline, marsh, pine forest, and low-key beach communities. It is also the eastern end of the Gulf Intracoastal Waterway, so boats are part of the town's everyday rhythm.

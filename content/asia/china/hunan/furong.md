@@ -14,6 +14,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Hunan
 title: Furong
 type: location
+heritage: 3.5
+vibrancy: 2.3
+nature: 4.2
+off_the_beaten_track: 2.2
 ---
 
 Furong — ancient name Wangcun, current official name Furong Ancient Town — sits on cliff faces above a waterfall that drops into the You River in Yongshun County, northwestern [Hunan](/asia/china/hunan). The town was renamed after the 1986 film "Hibiscus Town" (Furong Zhen), directed by Xie Jin and starring Liu Xiaoqing and Jiang Wen, which used the setting as a backdrop for a story about ordinary lives destroyed and rebuilt across the upheavals of Maoist-era campaigns. The film is one of the most important Chinese works of the reform era and brought international attention to a town that had previously been known mainly to people who lived near it.

@@ -10,6 +10,10 @@ snippet: Illinois suburb beside Cahokia Mounds, the great Mississippian city sit
   east of St. Louis
 title: Collinsville
 type: location
+heritage: 3.9
+vibrancy: 2.1
+nature: 2.5
+off_the_beaten_track: 1.7
 ---
 
 Collinsville is a modest suburb east of St. Louis, but it sits at the edge of one of the most remarkable archaeological sites in North America: [Cahokia Mounds State Historic Site](https://cahokiamounds.org/), a UNESCO World Heritage Site and the most important remnant of the Mississippian mound-building culture.

@@ -13,6 +13,10 @@ snippet: Oldest fishing village in Lofoten, where Kabelvåg's commercial cod fis
   developed over a millennium ago.
 title: Kabelvåg
 type: location
+heritage: 3.6
+vibrancy: 2.3
+nature: 7.6
+off_the_beaten_track: 4.7
 ---
 
 Kabelvåg is the oldest fishing village in Lofoten and it was here

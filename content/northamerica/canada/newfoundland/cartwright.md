@@ -1,19 +1,24 @@
 ---
-title: "Cartwright"
+title: Cartwright
 type: location
 loc_type: city
 latitude: 53.7078
 longitude: -57.0161
 score: 7.0
-snippet: "Remote Labrador fishing village at Sandwich Bay, near the Mealy Mountains and the Wonderstrands."
+snippet: Remote Labrador fishing village at Sandwich Bay, near the Mealy Mountains
+  and the Wonderstrands.
 image: cartwright.jpg
 image_attribution: Cephas
 image_source: https://commons.wikimedia.org/wiki/File:Cartwright_Labrador_04.jpg
 image_license: CC BY-SA 4.0
 sources:
-  - "https://en.wikivoyage.org/wiki/Cartwright_(Labrador)"
-  - "https://en.wikipedia.org/wiki/Cartwright,_Newfoundland_and_Labrador"
-  - "https://www.wikidata.org/wiki/Q2940694"
+- https://en.wikivoyage.org/wiki/Cartwright_(Labrador)
+- https://en.wikipedia.org/wiki/Cartwright,_Newfoundland_and_Labrador
+- https://www.wikidata.org/wiki/Q2940694
+heritage: 2.8
+vibrancy: 1.5
+nature: 5.4
+off_the_beaten_track: 6.4
 ---
 
 Cartwright is a tiny coastal village on Sandwich Bay in southern Labrador. It is not an easy place to reach, and that is most of the point: this is an end-of-the-road settlement where the Trans-Labrador Highway gives way to sea routes, gravel distances, fishing history, and wide empty country.

@@ -18,6 +18,10 @@ sources:
 title: Waihi Beach
 type: location
 wikidata: Q1520662
+heritage: 3.0
+vibrancy: 2.7
+nature: 5.9
+off_the_beaten_track: 2.5
 ---
 
 Waihi Beach is a small Bay of Plenty holiday town where the appeal is simple and mostly outdoors: a long white-sand beach, a surf-town village, and walking tracks at both ends of the coast. It sits north of Tauranga Harbour, where the Bay of Plenty begins to lean toward the Coromandel.

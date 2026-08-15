@@ -14,6 +14,10 @@ image: bowness.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ardrossan%27s_fan_club._-_panoramio.jpg
 image_license: CC BY 3.0
 image_attribution: grumpylumixuser
+heritage: 5.2
+vibrancy: 3.3
+nature: 8.1
+off_the_beaten_track: 2.3
 ---
 
 More properly called Bowness-on-Windermere, this lakeside town grew up as a tourist centre in the Victorian era when the railway arrived from Kendal. It is not the prettiest settlement in the [Lake District](/europe/unitedkingdom/england/lakedistrict), but it is the most practical base for getting out on the water, and that is really the point of being here.

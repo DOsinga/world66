@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Angra_do_Hero%C3%ADsmo
 title: Terceira
 type: location
+heritage: 4.2
+vibrancy: 2.8
+nature: 6.7
+off_the_beaten_track: 3.6
 ---
 
 Terceira is the third-largest island of the Azores and, in many ways, the most layered. Its capital, [Angra do Heroísmo](/europe/portugal/theazores/angra_do_heroismo), is a UNESCO World Heritage city — the streets of 15th and 16th century merchant houses, convents, and fortresses were designated in 1983, making Angra one of the earliest World Heritage cities on Atlantic soil. The island itself is a volcanic plateau ringed by dramatic sea cliffs, with a green interior punctuated by calderas, lava caves, and pasture.

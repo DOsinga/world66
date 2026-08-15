@@ -17,6 +17,10 @@ image: middleburg.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Middleburg,_Virginia_(6044577732).jpg
 image_license: CC BY-SA 2.0
 image_attribution: La Citta Vita
+heritage: 5.4
+vibrancy: 3.1
+nature: 4.2
+off_the_beaten_track: 2.2
 ---
 
 Middleburg is a small town with a very clear sense of itself: horses, hunt-country estates, Virginia wine, and a main street that still feels like a coach stop between Washington and the Blue Ridge. It is close enough to the capital for a day trip, but it is not trying to be suburban.

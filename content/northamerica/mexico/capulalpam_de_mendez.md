@@ -14,6 +14,10 @@ image: capulalpam_de_mendez.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Capulalpam24.JPG
 image_license: CC BY-SA 3.0
 image_attribution: AlejandroLinaresGarcia
+heritage: 5.2
+vibrancy: 4.3
+nature: 6.3
+off_the_beaten_track: 4.0
 ---
 
 Capulalpam de Méndez is a small Zapotec village high in Oaxaca's Sierra Norte, usually shortened to Capulalpam. It has fewer than 1,500 residents, a cool mountain climate, and the kind of zócalo where sitting still for half an hour feels like part of the trip.

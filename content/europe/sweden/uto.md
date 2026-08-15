@@ -3,9 +3,14 @@ latitude: 58.947593
 loc_type: feature
 longitude: 18.262304
 score: 7.9
-snippet: Stockholm archipelago island with sandy beaches, granite cliffs, old iron mines, and good restaurants.
+snippet: Stockholm archipelago island with sandy beaches, granite cliffs, old iron
+  mines, and good restaurants.
 title: Utö
 type: location
+heritage: 3.9
+vibrancy: 1.7
+nature: 7.2
+off_the_beaten_track: 4.0
 ---
 
 Utö is an island in the southern reaches of the Stockholm archipelago, reached in about two and a half hours from the city by a combination of commuter train and ferry — the boat leaves from Årsta Brygga, itself a short hop on the commuter rail from Stockholm Central. The journey is longer than the quick run out to Vaxholm, but it carries you well beyond the inner suburbs into open archipelago landscape.

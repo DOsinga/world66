@@ -15,6 +15,10 @@ image: moyobamba.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Moyobamba,_Peru,_2018.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Aleksei M.
+heritage: 2.3
+vibrancy: 1.9
+nature: 6.9
+off_the_beaten_track: 4.9
 ---
 
 Moyobamba sits in Peru's upper Amazon, warm and green but higher and less heavy than the lowland jungle. It calls itself the City of Orchids, and for once the nickname is not empty: orchid gardens, hummingbirds, and birding lodges are part of the town's real travel identity.

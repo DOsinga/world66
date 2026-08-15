@@ -10,6 +10,10 @@ sources:
 - https://www.nature.scot/forvie-national-nature-reserve
 title: Forvie Nature Reserve
 type: location
+heritage: 1.9
+vibrancy: 1.0
+nature: 7.6
+off_the_beaten_track: 4.2
 ---
 
 Forvie National Nature Reserve stretches along the Aberdeenshire coast between the mouth of the River Ythan and the small harbour village of Collieston, about 15 miles north of Aberdeen. The reserve is dominated by vast sand dune systems — some of the most extensive in Britain — that earned it the nickname the "Northern Sahara." The dunes were shaped by wind and sea after the last ice age some 15,000 years ago, and the present landform is thought to be around 2,000 years old: ancient, unstable-looking terrain that somehow feels permanent.

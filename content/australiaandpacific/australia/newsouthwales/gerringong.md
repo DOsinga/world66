@@ -5,11 +5,16 @@ loc_type: city
 latitude: -34.7462
 longitude: 150.8279
 score: 7.2
-snippet: South Coast dairy-and-surf town where green Illawarra hills drop straight to the Pacific.
+snippet: South Coast dairy-and-surf town where green Illawarra hills drop straight
+  to the Pacific.
 sources:
-  - https://en.wikivoyage.org/wiki/Gerringong
-  - https://www.visitnsw.com/destinations/south-coast/kiama-area/gerringong
-  - https://kiama.com.au/experience/nature-walks-wildlife/kiama-coast-walk
+- https://en.wikivoyage.org/wiki/Gerringong
+- https://www.visitnsw.com/destinations/south-coast/kiama-area/gerringong
+- https://kiama.com.au/experience/nature-walks-wildlife/kiama-coast-walk
+heritage: 2.9
+vibrancy: 2.1
+nature: 6.3
+off_the_beaten_track: 2.6
 ---
 
 Gerringong sits on the New South Wales South Coast, just south of Kiama, where dairy country falls sharply to beaches and headlands. It is small, pretty, and easy to underestimate if you only see the highway turnoff. The appeal is the combination: green hills behind town, surf below it, and a stretch of coast walk that feels wilder than the map suggests.

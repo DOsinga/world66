@@ -14,6 +14,10 @@ snippet: Friulian city between Alps and Adriatic, with Venetian squares and Tiep
   palaces.
 title: Udine
 type: location
+heritage: 5.0
+vibrancy: 4.0
+nature: 3.4
+off_the_beaten_track: 1.9
 ---
 
 Udine is the main city of the Friuli region, set on the plain between the Alps and the Adriatic with views of both on a clear day. It is less visited than Venice and less talked about than [Trieste](/europe/italy/friuliveneziagiulia/trieste), which makes it one of the more pleasant surprises in northeastern Italy. The historic centre is compact and largely car-free, built around the 16th-century [Piazza della Libertà](/europe/italy/friuliveneziagiulia/udine/piazza_della_liberta) — widely considered one of the most harmonious squares in Italy — with its Venetian Gothic [Loggia del Lionello](/europe/italy/friuliveneziagiulia/udine/loggia_del_lionello) and the [clock tower](/europe/italy/friuliveneziagiulia/udine/torre_dell_orologio) modelled on Venice's own.

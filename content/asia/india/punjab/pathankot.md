@@ -18,6 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Ranjit_Sagar_Dam
 title: Pathankot
 type: location
+heritage: 2.7
+vibrancy: 1.7
+nature: 1.6
+off_the_beaten_track: 3.6
 ---
 
 Pathankot is a transport junction in northern Punjab, the gateway to the hill stations and mountain valleys of Himachal Pradesh and [Jammu and Kashmir](/asia/india/jammuandkashmir). Most travellers pass through rather than linger, but it serves as a useful staging point for journeys to [Dalhousie](/asia/india/himachalpradesh/dalhousie), [Kangra](/asia/india/himachalpradesh/kangra), Chamba, and the deeper Himalayas.

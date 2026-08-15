@@ -11,6 +11,10 @@ snippet: Rayalaseema city on the Tungabhadra River, used as a base for forts and
   sites.
 title: Kurnool
 type: location
+heritage: 3.4
+vibrancy: 2.5
+nature: 2.7
+off_the_beaten_track: 3.3
 ---
 
 Kurnool is a city in the Rayalaseema region of Andhra Pradesh, on the Tungabhadra River. It was the state capital of Andhra State from 1953 to 1956, before the capital was moved to Hyderabad. Today it is a busy commercial and administrative centre, but for most travellers it serves primarily as a base for exploring the surrounding region — which contains some of the most significant natural and religious sites in Andhra Pradesh.

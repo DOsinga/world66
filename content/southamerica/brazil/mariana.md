@@ -14,6 +14,10 @@ snippet: Colonial Minas Gerais city and former state capital, centred on one of 
   finest baroque squares.
 title: Mariana
 type: location
+heritage: 6.1
+vibrancy: 3.1
+nature: 3.8
+off_the_beaten_track: 2.7
 ---
 
 Mariana was the first capital of Minas Gerais and the first city in the state to receive its charter, in 1745. It sits just 12 kilometres east of [Ouro Preto](/southamerica/brazil/ouropreto) in the hills of central Minas, and the two are often visited together — but Mariana is quieter, less touristy, and arguably more charming.

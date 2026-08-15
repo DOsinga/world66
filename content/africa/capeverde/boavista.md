@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Boa_Vista,_Cape_Verde
 title: Boa Vista
 type: location
+heritage: 2.9
+vibrancy: 2.6
+nature: 7.1
+off_the_beaten_track: 3.6
 ---
 
 Boa Vista is the flattest and most desert-like of the Cape Verde islands. Where São Vicente has at least some scrubby vegetation, Boa Vista is largely sand and gravel, punctuated by a few volcanic peaks and some extraordinary dune fields. The sparse, sunbaked landscape has a harsh beauty that is quite different from the more mountainous islands.

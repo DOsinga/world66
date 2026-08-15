@@ -10,6 +10,10 @@ snippet: Small fell village in Finnish Lapland, gateway to Urho Kekkonen Nationa
   Park above the Arctic Circle.
 title: Saariselkä
 type: location
+heritage: 3.3
+vibrancy: 4.9
+nature: 7.3
+off_the_beaten_track: 4.0
 ---
 
 **Saariselka** is a small fell village in Finnish Lapland, well above the Arctic Circle. It is the main gateway to the [Urho Kekkonen National Park](/europe/finland/saariselk/urho_kekkonen_national_park), one of Finland's largest wilderness areas — a vast expanse of fells, forests, and rivers stretching all the way to the Russian border.

@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Ranthambore_National_Park
 title: Ranthambore National Park
 type: location
+heritage: 1.7
+vibrancy: 0.8
+nature: 8.1
+off_the_beaten_track: 5.4
 ---
 
 Ranthambore is the most celebrated tiger reserve in India, and arguably the best place in the world to see a wild Bengal tiger. The park covers roughly 1,334 square kilometres of dry deciduous forest in eastern Rajasthan, where the Aravalli and Vindhya ranges meet. Tigers here are unusually habituated to jeeps and can sometimes be seen lying in the open beside lakes or walking along forest roads in broad daylight — an experience that, once had, makes every other wildlife sighting feel ordinary.

@@ -14,6 +14,10 @@ snippet: Prince Edward Island capital and Confederation birthplace, with a compa
   Victorian downtown and harbour.
 title: Charlottetown
 type: location
+heritage: 5.7
+vibrancy: 3.6
+nature: 4.9
+off_the_beaten_track: 1.2
 ---
 
 Charlottetown is the capital of Prince Edward Island and the birthplace of Canadian Confederation. With around 35,000 residents, it is a small city by any measure, but it punches well above its weight in restaurants, culture, and walkability. The historic downtown is compact enough to explore on foot in an afternoon, lined with Victorian buildings in bright paint and independent shops that have somehow held off the chains.

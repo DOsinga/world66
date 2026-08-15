@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/York_(Western_Australia)
 title: York
 type: location
+heritage: 4.7
+vibrancy: 5.2
+nature: 5.6
+off_the_beaten_track: 4.8
 ---
 
 Western Australia's oldest inland town, York was founded in 1831 and has barely put a foot wrong architecturally since. The main street, Avon Terrace, runs along the Avon River and is lined with well-preserved Victorian and Federation buildings that today house antique dealers, art galleries, and cafes. It is 97 kilometres east of Perth — close enough for a day trip, quiet enough to feel like a genuine escape.

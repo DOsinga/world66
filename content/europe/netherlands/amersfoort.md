@@ -23,6 +23,10 @@ tags:
 - day_trip
 title: Amersfoort
 type: location
+heritage: 5.2
+vibrancy: 2.9
+nature: 3.1
+off_the_beaten_track: 1.5
 ---
 
 Amersfoort is one of the Netherlands' best-kept secrets — a proper medieval city half an hour by train from [Amsterdam](/europe/netherlands/amsterdam) and just ten minutes from [Utrecht](/europe/netherlands/utrecht), yet largely ignored by tourists. Their loss.

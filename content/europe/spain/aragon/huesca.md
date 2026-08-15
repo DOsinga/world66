@@ -13,6 +13,10 @@ title: Huesca
 snippet: Provincial Pyrenean foothill city with a preserved old town and Gothic cathedral
   anchoring the centre.
 type: location
+heritage: 5.9
+vibrancy: 4.5
+nature: 4.5
+off_the_beaten_track: 2.8
 ---
 
 Huesca is a modest provincial capital sitting in the foothills of the Pyrenees, an easy stopover between Zaragoza and the mountain passes to the north. It's not a place most people put on their itinerary, but if you find yourself here you'll discover a well-preserved old town with real depth.

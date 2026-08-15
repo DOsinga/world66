@@ -14,6 +14,10 @@ title: De Panne
 snippet: Belgian coast resort on the French border, set apart by wide beaches and
   protected dunes.
 type: location
+heritage: 1.8
+vibrancy: 3.4
+nature: 4.0
+off_the_beaten_track: 1.6
 ---
 
 De Panne sits at the far western end of the Belgian coast, right on the French border, and it feels different from the other North Sea resorts. Where most Belgian beach towns have built up every inch of seafront, De Panne kept its dunes. A third of all the dunes in Belgium are here, 340 hectares of protected nature reserves that give the town its nickname: the green pearl of the coast.

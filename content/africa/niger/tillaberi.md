@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Tillabéri
 title: Tillaberi
 type: location
+heritage: 0.5
+vibrancy: 1.9
+nature: 4.9
+off_the_beaten_track: 7.4
 ---
 
 Tillaberi is located on the road from [Niamey](/africa/niger/niamey) to [Gao](/africa/mali/gao). Most travellers stopping here are hurrying from one to the other, and there are not many reasons to stay longer than necessary. The main draw is the possibility of spotting wild giraffes on the [Niger River banks](/africa/niger/tillaberi/niger_river) south of town — though the main West African giraffe herd has largely shifted to the area around [Koure](/africa/niger/koure) further south. Ask locally whether any have been seen nearby recently.

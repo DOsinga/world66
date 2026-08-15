@@ -5,9 +5,14 @@ loc_type: city
 latitude: 32.2167
 longitude: 130.75
 score: 7.4
-snippet: Kumamoto hot-spring river town known for castle ruins, ghost stories, shochu, and sweetfish.
+snippet: Kumamoto hot-spring river town known for castle ruins, ghost stories, shochu,
+  and sweetfish.
 sources:
-  - https://en.wikivoyage.org/wiki/Hitoyoshi
+- https://en.wikivoyage.org/wiki/Hitoyoshi
+heritage: 3.6
+vibrancy: 2.1
+nature: 4.8
+off_the_beaten_track: 3.7
 ---
 
 Hitoyoshi sits in southern Kumamoto Prefecture on the Kuma River, a small hot-spring city with more personality than its size suggests. River fog, ayu sweetfish, kuma shochu, castle walls, and old temples give it a clear identity.

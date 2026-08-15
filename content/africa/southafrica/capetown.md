@@ -23,6 +23,10 @@ tip: Cable-car or climb Table Mountain on a clear morning — the 'tablecloth' c
   after dark and don't flash valuables.
 title: Cape Town
 type: location
+heritage: 4.6
+vibrancy: 7.3
+nature: 6.7
+off_the_beaten_track: 2.2
 ---
 
 Cape Town has the most beautiful of settings, wedged between the Atlantic and the flat-topped massif of [Table Mountain](/africa/southafrica/capetown/tablemountain). Combine that with a Mediterranean climate, a layered colonial and post-apartheid history, and one of the most varied collections of sights in any African city, and you have one of the world's great travel destinations.

@@ -16,6 +16,10 @@ image: framlingham.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Framlingham_-_Framlingham_Castle_-_20210501122859.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Balon Greyjoy
+heritage: 5.6
+vibrancy: 2.0
+nature: 2.6
+off_the_beaten_track: 2.1
 ---
 
 Framlingham is a small Suffolk market town that has one outstanding reason to visit: [Framlingham Castle](/europe/unitedkingdom/england/east_of_england/framlingham/framlingham_castle), a huge ring of flint walls and towers rising above the town and its mere.

@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Stara_Sava
 title: Jesenice
 type: location
+heritage: 3.9
+vibrancy: 2.7
+nature: 4.9
+off_the_beaten_track: 3.2
 ---
 
 Jesenice is not the pretty face of the Slovenian Alps, and it is more interesting for admitting that. This is a working Upper Sava town shaped by iron, railways, and the steep wall of the Karawanks, sitting between [Bled](/europe/slovenia/bled), [Kranjska Gora](/europe/slovenia/kranjska_gora), and the Austrian border.

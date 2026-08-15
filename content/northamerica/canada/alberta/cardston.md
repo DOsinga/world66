@@ -17,6 +17,10 @@ image: cardston.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cardston_Alberta_Mormon_Temple_2011.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Matthias Süßen
+heritage: 5.2
+vibrancy: 1.8
+nature: 2.7
+off_the_beaten_track: 2.7
 ---
 
 Cardston is a small southern Alberta town close to the Montana border and the road to Waterton Lakes. It was founded by Latter-day Saint settlers in the late 19th century, and that history is still visible in the great pale mass of the [Cardston Alberta Temple](/northamerica/canada/alberta/cardston/cardston_alberta_temple) above town.

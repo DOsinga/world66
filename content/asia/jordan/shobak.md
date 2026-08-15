@@ -13,6 +13,10 @@ snippet: King's Highway village below Montreal Castle, a Crusader fortress on a 
   hill south of Karak
 title: Shobak
 type: location
+heritage: 8.3
+vibrancy: 2.1
+nature: 3.1
+off_the_beaten_track: 5.3
 ---
 
 Shobak lies on the King's Highway between [Karak](/asia/jordan/karak) and [Petra](/asia/jordan/petra), about 250 km south of [Amman](/asia/jordan/amman). The reason to come is [Montreal Castle](/asia/jordan/shobak/montreal_castle) — as the Franks called it — built by Baldwin I of Jerusalem around 1115 and captured by Saladin in 1189 after a two-year siege.

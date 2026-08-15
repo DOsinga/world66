@@ -17,6 +17,10 @@ tags:
 - nerviavalley
 title: Castelvittorio
 type: location
+heritage: 3.8
+vibrancy: 1.9
+nature: 5.6
+off_the_beaten_track: 5.0
 ---
 
 Castelvittorio is a tiny hilltop village in the upper [Nervia Valley](/europe/italy/liguria/nerviavalley), perched on a ridge a couple of kilometres south of [Pigna](/europe/italy/liguria/pigna). It is the kind of place most visitors find by accident — there is no real reason to drive up here unless you are exploring the valley properly — but the layout of the old village is unusually well preserved, and the views down into the Nervia gorge are exceptional.

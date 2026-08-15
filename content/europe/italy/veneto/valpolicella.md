@@ -12,6 +12,10 @@ snippet: Veneto wine region north of Verona, producing Amarone among cherry orch
   and stone villages.
 title: Valpolicella
 type: location
+heritage: 5.6
+vibrancy: 5.2
+nature: 5.1
+off_the_beaten_track: 3.4
 ---
 
 Valpolicella is the wine country north of [Verona](/europe/italy/veneto/verona) — a landscape of soft hills, cherry orchards and stone villages where some of Italy's most distinctive red wines are produced. The name covers a cluster of valleys (Negrar, Marano, Fumane and several smaller ones) that descend from the 1,500-metre heights of Corno d'Aquilio to the fertile plains of the Adige valley.

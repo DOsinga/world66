@@ -16,6 +16,10 @@ image: tongyeong.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Korea-Tongyeong-Port_and_ships-01.jpg
 image_license: CC BY-SA 3.0
 image_attribution: by Junho Jung at Flickr from South Korea
+heritage: 4.2
+vibrancy: 4.3
+nature: 6.4
+off_the_beaten_track: 3.8
 ---
 
 *Asia > South Korea > Tongyeong*

@@ -5,15 +5,20 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:ThursdayIsland.JPG
 latitude: -10.5789
 loc_type: city
-longitude: 142.2200
+longitude: 142.22
 score: 7.0
-snippet: Torres Strait island town with Kaurareg country, pearling history, and colonial defences.
+snippet: Torres Strait island town with Kaurareg country, pearling history, and colonial
+  defences.
 sources:
-  - https://en.wikivoyage.org/wiki/Thursday_Island
-  - https://www.wikidata.org/wiki/Q556632
-  - https://en.wikipedia.org/wiki/Thursday_Island
+- https://en.wikivoyage.org/wiki/Thursday_Island
+- https://www.wikidata.org/wiki/Q556632
+- https://en.wikipedia.org/wiki/Thursday_Island
 title: Thursday Island
 type: location
+heritage: 5.6
+vibrancy: 0.9
+nature: 7.3
+off_the_beaten_track: 6.6
 ---
 
 Thursday Island, or Waiben, is the main settlement and administrative centre of the Torres Strait Islands. It is small, hot, and practical, but it has a sharper identity than many tropical transit points: Kaurareg country, Torres Strait Islander culture, pearling history, and the old colonial fear of invasion all meet on one compact island.

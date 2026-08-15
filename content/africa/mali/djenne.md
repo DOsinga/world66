@@ -13,6 +13,10 @@ snippet: Mud-brick city on the Bani River floodplain, centred on the Great Mosqu
   of Djenné.
 title: Djenné
 type: location
+heritage: 7.4
+vibrancy: 1.4
+nature: 4.7
+off_the_beaten_track: 6.9
 ---
 
 Djenné is one of the oldest cities in sub-Saharan Africa and one of the most visually striking. The entire [Old Town](/africa/mali/djenne/old_town) is a UNESCO World Heritage Site, a dense cluster of mud-brick buildings on an island in the Bani River floodplain. At its centre stands the [Great Mosque of Djenné](/africa/mali/djenne/great_mosque), the largest mud-brick structure in the world — an extraordinary building whose soaring towers and palm-wood scaffolding have become an icon of West African architecture. Non-Muslims cannot enter, but the exterior is magnificent.

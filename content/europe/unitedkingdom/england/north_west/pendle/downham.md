@@ -14,6 +14,10 @@ title: Downham
 snippet: Lancashire village on Pendle Hill's western slopes, preserved by estate rules
   and witch-trial history.
 type: location
+heritage: 4.5
+vibrancy: 2.2
+nature: 4.6
+off_the_beaten_track: 2.8
 ---
 
 Downham is one of the prettiest villages in Lancashire, tucked onto the western slopes of Pendle Hill in an area forever linked with the Pendle Witch trials of 1612. The village green, stone cottages, and absence of television aerials (banned by the local estate) give it an almost impossibly preserved character — which is why it has appeared in numerous films and television dramas over the years.

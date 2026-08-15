@@ -11,6 +11,10 @@ image: gawthorpe_hall.jpg
 image_source: https://commons.wikimedia.org/wiki/File:The_Great_Barn_and_coach_House,_Gawthorpe_Hall-geograph-3101023-by-K--A.jpg
 image_license: CC BY-SA 2.0
 image_attribution: K A
+heritage: 5.3
+vibrancy: 1.6
+nature: 3.9
+off_the_beaten_track: 3.1
 ---
 
 Gawthorpe Hall sits at Padiham, near Burnley. It was home to the Kaye-Shuttleworths, a family connected to the great textile inventions, and is now owned by the National Trust.

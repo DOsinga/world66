@@ -14,6 +14,10 @@ snippet: West Yorkshire moorland of textile mill valleys, gritstone edges, and d
   satanic hills from Hebden Bridge to Todmorden.
 title: South Pennines
 type: location
+heritage: 5.1
+vibrancy: 1.4
+nature: 7.4
+off_the_beaten_track: 4.3
 ---
 
 The South Pennines is a landscape where the ruins of the textile industry — cotton around Todmorden, wool everywhere else — dissolve into steep moorland valleys and mill-side streams. Spanning the municipal boroughs of Bradford, Calderdale and Kirklees in West Yorkshire, it feels like a place caught between eras: handsome stone towns, derelict mill towers, and some of the best walking in northern England.

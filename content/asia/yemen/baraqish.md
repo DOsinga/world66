@@ -10,6 +10,10 @@ snippet: Ancient hilltop Yemeni city enclosed by high walls and Ma'in temple rui
   near Marib.
 title: Baraqish
 type: location
+heritage: 8.8
+vibrancy: 2.3
+nature: 2.8
+off_the_beaten_track: 8.1
 ---
 
 Baraqish is an ancient city close to [Marib](/asia/yemen/marib) and can be visited as a day trip from there. Located in the semi-arid area on the road to Hazm Al-Jawf, about 125 km from [Sana'a](/asia/yemen/sanaa), Baraqish stands on top of a lofty hill enclosed by a highly fortified wall up to 8 metres high in places. The wall has 57 towers and two gates — one east, one west — and large sections remain intact.

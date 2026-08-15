@@ -25,6 +25,10 @@ tip: Seoul's subway is one of the world's best — clean, cheap, signed in Engli
   Korean BBQ is best where it's smoky and crowded.
 title: Seoul
 type: location
+heritage: 5.9
+vibrancy: 9.5
+nature: 5.0
+off_the_beaten_track: 0.7
 ---
 
 Seoul is one of the biggest, densest, and most relentlessly modern cities in the world. Home to roughly half of South Korea's population in its wider metropolitan area, it is a place of endless neon, twenty-four-hour street food, and 5G on the subway — and yet, tucked between the office towers, it still contains five Joseon-era palaces, a city wall, and the shrines and hanok villages that have been there for six centuries.

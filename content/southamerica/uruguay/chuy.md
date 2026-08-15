@@ -17,6 +17,10 @@ sources:
 - https://turismorocha.gub.uy/en/attractions/historical/san-miguel-fort-historical-monument-of-rocha-uruguay
 title: Chuy
 type: location
+heritage: 1.9
+vibrancy: 2.2
+nature: 1.8
+off_the_beaten_track: 3.0
 ---
 
 Chuy is Uruguay's oddest border town: half practical shopping stop, half geographic curiosity. The city runs straight into Brazilian Chuí along [Avenida Internacional](/southamerica/uruguay/chuy/avenida_internacional), a dry border where you can cross countries by stepping across the street. On one side prices are in Uruguayan pesos and the conversation is Spanish; on the other, the signs tilt into Portuguese and Brazil begins without ceremony.

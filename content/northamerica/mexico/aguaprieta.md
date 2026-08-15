@@ -10,6 +10,10 @@ snippet: Sonoran border city opposite Douglas, Arizona, shaped by mining, railro
   and everyday cross-border commerce.
 title: Agua Prieta
 type: location
+heritage: 1.5
+vibrancy: 2.4
+nature: 1.9
+off_the_beaten_track: 2.0
 ---
 
 Agua Prieta is a border city in the Mexican state of Sonora, sitting directly across from Douglas, Arizona. The mining industry drove its early growth in the early 1900s, and the town still has the pragmatic, hard-working character of a frontier community built around commerce and cross-border movement.

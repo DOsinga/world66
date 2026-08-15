@@ -14,6 +14,10 @@ snippet: Long, narrow Bahamian island known for pink-sand beaches, quiet settlem
   and Out Islands calm.
 title: Eleuthera
 type: location
+heritage: 2.0
+vibrancy: 1.1
+nature: 8.1
+off_the_beaten_track: 6.4
 ---
 
 Eleuthera is a long, narrow island in the Bahamas, stretching about 180 km from north to south but rarely more than 2 km wide. It's one of the Out Islands — quieter and less developed than Nassau or the resort towns of the Exumas — and known for some of the finest pink-sand beaches in the Caribbean.

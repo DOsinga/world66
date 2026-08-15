@@ -16,6 +16,10 @@ longitude: -6.292898
 score: 8.82
 title: Cadiz
 type: location
+heritage: 6.7
+vibrancy: 5.2
+nature: 3.6
+off_the_beaten_track: 1.7
 ---
 
 On the southern tip of Spain the port city of Cadiz (pronounced CA-deeth) has

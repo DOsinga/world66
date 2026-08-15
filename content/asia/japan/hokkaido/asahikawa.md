@@ -2,15 +2,20 @@
 title: Asahikawa
 type: location
 loc_type: city
-latitude: 43.7690
-longitude: 142.3650
+latitude: 43.769
+longitude: 142.365
 wikidata: Q200740
 score: 7.4
-snippet: Central Hokkaido city of river walks, winter ice sculpture, sake, and Japan's famous Asahiyama Zoo.
+snippet: Central Hokkaido city of river walks, winter ice sculpture, sake, and Japan's
+  famous Asahiyama Zoo.
 sources:
-  - https://en.wikivoyage.org/wiki/Asahikawa
-  - https://www.japan.travel/en/spot/470/
-  - https://www.city.asahikawa.hokkaido.jp/asahiyamazoo/
+- https://en.wikivoyage.org/wiki/Asahikawa
+- https://www.japan.travel/en/spot/470/
+- https://www.city.asahikawa.hokkaido.jp/asahiyamazoo/
+heritage: 3.1
+vibrancy: 5.7
+nature: 6.0
+off_the_beaten_track: 2.1
 ---
 
 Asahikawa is [Hokkaido](/asia/japan/hokkaido)'s second city, set inland where several rivers meet below the Daisetsuzan mountains. It is colder, quieter, and less polished than [Sapporo](/asia/japan/hokkaido/sapporo), but it has enough of its own character to be more than a transfer stop.

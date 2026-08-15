@@ -14,6 +14,10 @@ title: Round Rock
 type: location
 snippet: Austin-area suburb named for a Chisholm Trail creek crossing and shaped by
   Dell's tech economy.
+heritage: 1.5
+vibrancy: 2.8
+nature: 2.4
+off_the_beaten_track: 1.2
 ---
 
 Round Rock sits just north of [Austin](/northamerica/unitedstates/texas/austin) and has grown from a small limestone-quarry town into one of Texas's fastest-expanding suburbs. Dell Technologies has its headquarters here, and the tech economy has reshaped the city over the past two decades.

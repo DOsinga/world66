@@ -5,7 +5,8 @@ loc_type: city
 latitude: 41.4833
 longitude: -7.1833
 score: 6.4
-snippet: Trás-os-Montes river city known for its Tua bridge, olive oil, and alheira sausage.
+snippet: Trás-os-Montes river city known for its Tua bridge, olive oil, and alheira
+  sausage.
 image: mirandela.jpg
 image_attribution: Raquel N. Rodrigues
 image_license: CC BY-SA 3.0
@@ -14,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Mirandela
 - https://vive.eixoatlantico.com/en/recurso/ponte-velha-ou-ponte-sobre-o-tua/
 - https://www.visitportugal.com/en/content/museu-da-oliveira-e-do-azeite
+heritage: 2.6
+vibrancy: 1.8
+nature: 3.5
+off_the_beaten_track: 4.1
 ---
 
 Mirandela is a small city in Trás-os-Montes, set on a broad bend of the Tua River. It is not a blockbuster stop, but it has a good northern Portuguese rhythm: old granite, hot summers, riverside walks, olive oil, and the famous alheira sausage that carries the town's name across Portugal.

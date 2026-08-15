@@ -14,6 +14,10 @@ title: Hammamet
 snippet: Tunisian resort town on the Gulf of Hammamet, anchored by beaches and a walled
   medina.
 type: location
+heritage: 5.8
+vibrancy: 4.6
+nature: 4.7
+off_the_beaten_track: 3.1
 ---
 
 Hammamet is a coastal resort town on the Gulf of Hammamet, about 60 km south of Tunis. It was among the first places on the Tunisian coast to be developed for European tourism in the 1960s and remains one of the country's busiest beach destinations. The long sandy beach and warm water are the main draw; the hotel strip runs for several kilometres south of the old town.

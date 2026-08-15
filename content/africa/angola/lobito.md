@@ -18,6 +18,10 @@ title: Lobito
 snippet: Angolan port city built around the Restinga sandbar and its sheltered Atlantic
   harbour.
 type: location
+heritage: 0.8
+vibrancy: 2.0
+nature: 4.3
+off_the_beaten_track: 7.0
 ---
 
 Lobito is Angola's most important port city, built on a remarkable natural feature: a thin sandbar spit called the Restinga that juts 5 km into the Atlantic, sheltering one of the finest natural harbours on the West African coast. The city grew up around this harbour in the early twentieth century, and the harbour remains its reason for being.

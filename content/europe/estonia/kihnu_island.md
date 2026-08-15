@@ -14,6 +14,10 @@ snippet: Small Estonian island known for a distinctive living culture of folk so
   crafts, and seafaring.
 title: Kihnu Island
 type: location
+heritage: 6.2
+vibrancy: 1.5
+nature: 7.2
+off_the_beaten_track: 5.9
 ---
 
 Kihnu is a tiny island off the southwest coast of [Estonia](/europe/estonia), home to one of the most distinctive living cultures in Europe. The society is essentially matriarchal: the women guard the cultural traditions — hand-woven skirts, folk songs, handicrafts — while the men go to sea and fish. UNESCO has proclaimed the Kihnu cultural space a Masterpiece of the Oral and Intangible Heritage of Humanity.

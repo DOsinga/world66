@@ -3,10 +3,14 @@ latitude: 46.3836
 loc_type: city
 longitude: 6.2388
 score: 7.4
-snippet: Medieval walled village on the French shore of Lake Geneva, reached by
-  boat from Nyon in twenty minutes.
+snippet: Medieval walled village on the French shore of Lake Geneva, reached by boat
+  from Nyon in twenty minutes.
 title: Yvoire
 type: location
+heritage: 6.2
+vibrancy: 4.6
+nature: 7.8
+off_the_beaten_track: 2.8
 ---
 
 Yvoire sits on a small promontory on the French side of Lac Léman, about twenty kilometres south-west of Geneva. It is one of the most intact medieval villages in the French Alps: the 14th-century walls are largely complete, the streets within them are narrow and cobbled, and the stone houses have not been rebuilt into something unrecognisable. In summer it draws visitors from across the region, but arrive on a weekday morning in spring or autumn and you have much of the place to yourself.

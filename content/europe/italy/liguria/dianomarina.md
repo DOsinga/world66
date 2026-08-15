@@ -16,6 +16,10 @@ tags:
 - italianriviera
 title: Diano Marina
 type: location
+heritage: 3.6
+vibrancy: 4.1
+nature: 5.8
+off_the_beaten_track: 1.8
 ---
 
 Diano Marina is a small seaside town on the Riviera di Ponente in western Liguria, between Imperia and Alassio. It has a long sandy beach, a mild microclimate, and the quiet, slightly old-fashioned atmosphere of a town that has been welcoming Italian holidaymakers for over a century without ever becoming flashy.

@@ -14,6 +14,10 @@ snippet: Marmara port city in Turkish Thrace, known for rakı, köfte, and surro
   vineyard country.
 title: Tekirdağ
 type: location
+heritage: 4.6
+vibrancy: 2.9
+nature: 3.8
+off_the_beaten_track: 2.5
 ---
 
 Tekirdağ is a provincial capital on the northern shore of the Sea of Marmara, about 150 km west of Istanbul in Thrace, the European part of Turkey. It is best known for two things: [Tekirdağ Rakısı](/asia/turkey/tekirdag/raki_distillery), considered the finest rakı in Turkey and sold across the country, and [Tekirdağ köfte](/asia/turkey/tekirdag/kofte_restaurants), a distinctive local meatball that draws visitors from Istanbul on weekends.

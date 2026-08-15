@@ -13,6 +13,10 @@ snippet: Historic Mississippi settlement with French colonial sites, including H
   Family church and the old courthouse.
 title: Cahokia
 type: location
+heritage: 7.6
+vibrancy: 2.1
+nature: 3.6
+off_the_beaten_track: 3.6
 ---
 
 One of the earliest European settlements on the central Mississippi, dating to 1699 when French missionaries built a log church here. By the 1740s Cahokia was a thriving trading post, but the French and Indian War scattered much of the population to St. Louis and Ste. Genevieve. It later became the first seat of St. Clair County and served as an administrative center reaching all the way to the Canadian border.

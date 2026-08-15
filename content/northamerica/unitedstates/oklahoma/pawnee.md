@@ -10,6 +10,10 @@ snippet: Small north-central Oklahoma town tied to Pawnee Bill, Wild West histor
   and the Pawnee Nation.
 title: Pawnee
 type: location
+heritage: 1.8
+vibrancy: 1.8
+nature: 2.1
+off_the_beaten_track: 1.7
 ---
 
 Pawnee is a small town in north-central Oklahoma with an outsized connection to the Wild West. The **Pawnee Bill Ranch** preserves the home and grounds of Gordon "Pawnee Bill" Lillie, a showman who ran his own Wild West show and later partnered with Buffalo Bill Cody. The ranch is a state historic site with a museum, the original ranch house, and a herd of bison, longhorns, and draft horses. On summer weekends, the ranch hosts a Wild West show with trick riding and roping.

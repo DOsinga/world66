@@ -14,6 +14,10 @@ image: antonina.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Antonina-PR_passeio_p%C3%BAblico_-_panoramio.jpg
 image_license: CC BY-SA 3.0
 image_attribution: caetano051068
+heritage: 5.0
+vibrancy: 4.2
+nature: 3.3
+off_the_beaten_track: 3.2
 ---
 
 Antonina is one of the old port towns of coastal Parana, tucked between Paranagua Bay and the green wall of the Serra do Mar. It is quieter than nearby Morretes and Paranagua, but that is part of the appeal: a waterfront, colonial churches, tiled houses, and mountains that press close behind town.

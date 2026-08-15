@@ -15,6 +15,10 @@ tags:
 - exmoor
 title: Dunster
 type: location
+heritage: 5.7
+vibrancy: 2.8
+nature: 6.0
+off_the_beaten_track: 3.4
 ---
 
 Dunster is a picture-book village on the edge of Exmoor in Somerset, dominated by the towers of [Dunster Castle](/europe/unitedkingdom/england/south_west/dunster/dunster_castle) rising above the rooftops. The castle, now run by the National Trust, has been occupied since at least Norman times and sits in terraced gardens with views across to the Bristol Channel.

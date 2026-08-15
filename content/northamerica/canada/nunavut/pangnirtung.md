@@ -16,6 +16,10 @@ image: pangnirtung.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Approaching_Pangnirtung_by_air.jpg
 image_license: CC BY 2.0
 image_attribution: Mike Beauregard from Nunavut, Canada
+heritage: 4.2
+vibrancy: 0.9
+nature: 6.9
+off_the_beaten_track: 7.3
 ---
 
 Pangnirtung, usually shortened to Pang, sits on a fiord below hard Arctic mountains on Baffin Island. It is fly-in, expensive, weather-bound, and not a casual place to add to a Canadian itinerary. That is exactly why it feels so distinct.

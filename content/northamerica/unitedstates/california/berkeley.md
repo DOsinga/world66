@@ -11,6 +11,10 @@ snippet: Bay Area university city known for UC Berkeley, left-wing politics, boo
   and hilltop views.
 title: Berkeley
 type: location
+heritage: 3.5
+vibrancy: 5.9
+nature: 4.7
+off_the_beaten_track: 1.3
 ---
 
 Berkeley sits on the eastern shore of San Francisco Bay, dominated by the University of California campus and by a political culture that has been left-of-centre for so long it has become a self-parody — but an endearing one. The university brings intellectual life, good bookshops, and excellent food. The hills behind the city offer some of the best bay views in the region.

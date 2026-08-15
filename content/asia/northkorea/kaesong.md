@@ -11,6 +11,10 @@ title: Kaesong
 type: location
 snippet: Historic city near the Korean Demilitarized Zone, known for Koryo-era sites
   and ginseng.
+heritage: 5.5
+vibrancy: 2.0
+nature: 2.1
+off_the_beaten_track: 6.1
 ---
 
 Kaesong is the most historically interesting destination in North Korea after Pyongyang, and the easiest to justify on purely cultural grounds. The city was the capital of the Koryo dynasty (918–1392), which unified the Korean peninsula and gave the country its name — "Korea" is a Western rendering of Koryo.

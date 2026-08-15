@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Galveston
 title: Galveston
 type: location
+heritage: 3.1
+vibrancy: 3.6
+nature: 5.6
+off_the_beaten_track: 1.8
 ---
 
 Galveston sits on a barrier island in the Gulf of Mexico, 50 miles southeast of Houston, and it wears its complicated history openly. In 1900, a hurricane — still the deadliest natural disaster in American history, killing an estimated 6,000 to 12,000 people — flattened much of the city. What was rebuilt on top of a raised seawall became a remarkably intact Victorian townscape, and today Galveston has one of the finest concentrations of 19th-century architecture in the American South.

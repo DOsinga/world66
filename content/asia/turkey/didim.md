@@ -5,15 +5,20 @@ latitude: 37.3756
 loc_type: city
 longitude: 27.2678
 score: 6.9
-snippet: Aegean resort town with the colossal oracle temple of ancient Didyma beside its beaches.
+snippet: Aegean resort town with the colossal oracle temple of ancient Didyma beside
+  its beaches.
 sources:
-  - https://en.wikivoyage.org/wiki/Didim
-  - https://muze.gov.tr/Language/Index/EN?url=%2Fmuze-detay%3FDistId%3DDDM%26SectionId%3DDDM01
-  - https://turkisharchaeonews.net/site/temple-apollo-didyma
-  - https://whc.unesco.org/en/tentativelists/6348/
+- https://en.wikivoyage.org/wiki/Didim
+- https://muze.gov.tr/Language/Index/EN?url=%2Fmuze-detay%3FDistId%3DDDM%26SectionId%3DDDM01
+- https://turkisharchaeonews.net/site/temple-apollo-didyma
+- https://whc.unesco.org/en/tentativelists/6348/
 title: Didim
 type: location
 wikidata: Q958144
+heritage: 4.4
+vibrancy: 5.5
+nature: 6.0
+off_the_beaten_track: 2.8
 ---
 
 Didim is an Aegean beach town with one ancient sight big enough to pull it above the normal resort-strip crowd. The modern town sprawls around Altinkum's sand and promenade, but a short walk inland brings you to the Temple of Apollo at Didyma, one of the great unfinished monuments of Ionian antiquity.

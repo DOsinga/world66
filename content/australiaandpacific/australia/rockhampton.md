@@ -14,6 +14,10 @@ snippet: Central Queensland city on the Fitzroy River, known for beef country an
   Quay Street heritage buildings.
 title: Rockhampton
 type: location
+heritage: 3.2
+vibrancy: 3.0
+nature: 5.4
+off_the_beaten_track: 2.8
 ---
 
 Rockhampton sits astride the Tropic of Capricorn on the Fitzroy River, about 40 km inland from the Capricorn Coast. It is Queensland's beef capital — the region runs more cattle than most Australian states — and the [Tropic of Capricorn marker](/australiaandpacific/australia/rockhampton/tropic_of_capricorn_marker) on the highway makes it a popular photo stop for travellers heading north.

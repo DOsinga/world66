@@ -5,12 +5,17 @@ loc_type: city
 latitude: 47.5683
 longitude: -56.7417
 score: 6.9
-snippet: Roadless Newfoundland outport in a steep south-coast fjord, reached only by ferry or boat.
+snippet: Roadless Newfoundland outport in a steep south-coast fjord, reached only
+  by ferry or boat.
 sources:
-  - https://en.wikivoyage.org/wiki/Francois
-  - https://en.wikipedia.org/wiki/Francois,_Newfoundland_and_Labrador
-  - https://www.newfoundlandlabrador.com/trip-ideas/travel-stories/francois-essay
-  - https://www.adventurecanada.com/newfoundland-and-labrador/francois-newfoundland-small-town-big-spirit
+- https://en.wikivoyage.org/wiki/Francois
+- https://en.wikipedia.org/wiki/Francois,_Newfoundland_and_Labrador
+- https://www.newfoundlandlabrador.com/trip-ideas/travel-stories/francois-essay
+- https://www.adventurecanada.com/newfoundland-and-labrador/francois-newfoundland-small-town-big-spirit
+heritage: 1.7
+vibrancy: 1.0
+nature: 7.0
+off_the_beaten_track: 7.2
 ---
 
 Francois is a tiny south-coast Newfoundland outport at the head of a narrow fjord, cut off from the road system and reached by coastal ferry from Burgeo via Grey River. The name is usually said "Franceway", and the place feels as far from the island's highways as that pronunciation suggests.

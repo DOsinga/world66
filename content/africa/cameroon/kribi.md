@@ -14,6 +14,10 @@ snippet: Cameroonian beach town where palm-fringed Gulf of Guinea sand meets the
   Falls.
 title: Kribi
 type: location
+heritage: 2.1
+vibrancy: 3.8
+nature: 7.0
+off_the_beaten_track: 2.9
 ---
 
 Kribi is Cameroon's beach town, a small coastal settlement about 150 km south of [Douala](/africa/cameroon/douala) where palm-fringed sand meets the Gulf of Guinea. It is the closest thing Cameroon has to a resort destination, popular with Douala residents on weekends and with the small number of foreign travelers who make it to this part of West Africa.

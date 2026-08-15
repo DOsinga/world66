@@ -9,6 +9,10 @@ tags:
 - sight
 title: Cedar Point
 type: location
+heritage: 2.1
+vibrancy: 3.6
+nature: 3.9
+off_the_beaten_track: 1.6
 ---
 
 Cedar Point, on a peninsula jutting into Lake Erie near Sandusky, Ohio, has more record-breaking roller coasters than any other park in the world and a passionate fanbase that travels specifically for the rides. Steel Vengeance, Millennium Force, Top Thrill 2, Maverick, and Magnum XL-200 are among the headline coasters; the park has added major new rides nearly every decade since the 1970s. The lakefront setting gives the place a genuinely scenic backdrop that most amusement parks lack.

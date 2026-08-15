@@ -14,6 +14,10 @@ snippet: Tamil Sri Lankan cultural capital on the northern peninsula, known for 
   temples and spicy food.
 title: Jaffna
 type: location
+heritage: 6.7
+vibrancy: 5.3
+nature: 4.9
+off_the_beaten_track: 4.1
 ---
 
 Jaffna is the cultural capital of Tamil Sri Lanka, a city that spent decades cut off by civil war but has roared back to life since 2009. The northern peninsula feels distinctly different from the rest of the island -- the food is spicier, the temples more ornate, and the pace of life has its own rhythm. You will find a city proud of its Tamil heritage and genuinely happy to see visitors.

@@ -10,11 +10,15 @@ score: 7.03
 snippet: Treasure Coast beach city with barrier-island parks, art, gardens, and access
   to Pelican Island.
 sources:
-  - https://en.wikivoyage.org/wiki/Vero_Beach
-  - https://www.fws.gov/refuge/pelican-island
-  - https://en.wikipedia.org/wiki/Vero_Beach,_Florida
+- https://en.wikivoyage.org/wiki/Vero_Beach
+- https://www.fws.gov/refuge/pelican-island
+- https://en.wikipedia.org/wiki/Vero_Beach,_Florida
 title: Vero Beach
 type: location
+heritage: 2.2
+vibrancy: 4.0
+nature: 5.2
+off_the_beaten_track: 1.6
 ---
 
 Vero Beach is a quieter slice of Florida's Treasure Coast, split between a mainland town, barrier-island beaches, and the Indian River Lagoon. It is not as old as St. Augustine, not as glossy as Palm Beach, and not as wild as the Everglades. Its case is more modest: good Atlantic beaches, a serious botanical garden, a better-than-expected art museum, and one of the most important bird refuges in the United States just up the coast.

@@ -5,11 +5,16 @@ loc_type: city
 latitude: -36.235
 longitude: 149.1258
 score: 6.3
-snippet: Monaro town tied to the Snowy Mountains, ski traffic, hydro engineering, and cold inland winters.
+snippet: Monaro town tied to the Snowy Mountains, ski traffic, hydro engineering,
+  and cold inland winters.
 wikidata: Q1129726
 sources:
-  - https://en.wikivoyage.org/wiki/Cooma
-  - https://en.wikipedia.org/wiki/Cooma
+- https://en.wikivoyage.org/wiki/Cooma
+- https://en.wikipedia.org/wiki/Cooma
+heritage: 3.6
+vibrancy: 2.2
+nature: 5.4
+off_the_beaten_track: 3.6
 ---
 
 Cooma is the main service town on the Monaro road to the Snowy Mountains. Most travelers meet it while driving between Canberra and the ski fields, but it has enough odd local substance to reward a deliberate stop.

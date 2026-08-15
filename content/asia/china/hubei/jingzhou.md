@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Jingzhou
 title: Jingzhou
 type: location
+heritage: 5.8
+vibrancy: 2.6
+nature: 2.8
+off_the_beaten_track: 2.8
 ---
 
 Jingzhou is one of those Chinese cities where the weight of history is impossible to ignore. For nearly four centuries, from around 689 BCE, this was Ying — capital of the State of Chu, one of the great powers of the Warring States period. The Chu left behind five city sites, over eight hundred ancient tombs, and a culture so distinct that modern archaeologists still treat it as a separate civilizational strand within ancient China. The [Jingzhou Museum](/asia/china/hubei/jingzhou/jingzhou_museum) puts the best of it in front of you: Han-era silk garments woven with impossible delicacy, lacquerware from the Warring States period in near-perfect condition, and a two-thousand-year-old male corpse recovered from a Han tomb, preserved in enough detail to read the expression on his face.

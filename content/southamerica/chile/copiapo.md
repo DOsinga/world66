@@ -14,6 +14,10 @@ snippet: Atacama mining city in a green river valley surrounded by some of Chile
   driest desert.
 title: Copiapó
 type: location
+heritage: 3.1
+vibrancy: 3.1
+nature: 5.2
+off_the_beaten_track: 5.2
 ---
 
 Copiapó is a mining city in the Atacama Desert of northern Chile, the capital of Atacama Region. It sits in a green river valley carved through one of the driest landscapes on earth — the Río Copiapó is the only river in the desert that reaches the sea, and the contrast between the irrigated valley and the barren hills around it is stark.

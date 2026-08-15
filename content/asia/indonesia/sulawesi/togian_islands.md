@@ -16,6 +16,10 @@ image_attribution: 'LawrieM (talk).
 
 
   Original uploader was LawrieM at en.wikipedia'
+heritage: 3.4
+vibrancy: 1.1
+nature: 7.9
+off_the_beaten_track: 7.0
 ---
 
 The Togian Islands are a remote archipelago scattered across the Tomini Bay, off the northern arm of [Sulawesi](/asia/indonesia/sulawesi). Largely bypassed by mainstream tourism, they offer some of the best diving in Indonesia — rich coral reefs, abundant marine life, and clear water without the crowds. The islands are also one of the last refuges in Indonesia for the saltwater crocodile and the enormous coconut crab.

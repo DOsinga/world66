@@ -14,6 +14,10 @@ title: Malabo
 type: location
 snippet: Equatorial Guinea capital on Bioko Island, framed by Pico Basile and Spanish
   colonial streets.
+heritage: 3.8
+vibrancy: 3.6
+nature: 6.6
+off_the_beaten_track: 6.8
 ---
 
 Malabo is the capital of [Equatorial Guinea](/africa/equatorialguinea), set on the northern tip of Bioko Island between the cloud-capped peak of Pico Basile and the open waters of the Gulf of Guinea. It is one of the smallest and least-visited capitals in Africa — and one of the wealthiest on paper, thanks to offshore oil revenues that have transformed the skyline but done little for most of the population.

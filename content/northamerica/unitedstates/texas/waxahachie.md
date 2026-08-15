@@ -14,6 +14,10 @@ snippet: North Texas cotton town known for Victorian architecture, courthouse sq
   and film-ready period streetscapes.
 title: Waxahachie
 type: location
+heritage: 3.9
+vibrancy: 3.4
+nature: 1.9
+off_the_beaten_track: 1.4
 ---
 
 Waxahachie is a small Texas town about 45 minutes south of Dallas, best known for its remarkably well-preserved collection of Victorian and Edwardian buildings. The name comes from a Native American word meaning "cow creek." The town grew rich on cotton in the late nineteenth century, and the wealth shows in the architecture — particularly the ornate [Ellis County Courthouse](/northamerica/unitedstates/texas/waxahachie/ellis_county_courthouse) (1897), one of the finest Romanesque Revival buildings in the state.

@@ -15,6 +15,10 @@ image: stanstead.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Haskell_Free_Library_and_Opera_House_-_Vermont_Quebec_(4943771118).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Doug Kerr
+heritage: 2.5
+vibrancy: 2.5
+nature: 4.3
+off_the_beaten_track: 2.3
 ---
 
 Stanstead is a border town in Quebec's [Eastern Townships](/northamerica/canada/quebec), made up of Stanstead, Rock Island, and Beebe Plain. Its identity is unusually literal: the United States line cuts through streets, old houses, and the famous Haskell Free Library and Opera House. You do not come for a long list of sights. You come because the border has shaped the town in ways you can see on the pavement.

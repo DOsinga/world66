@@ -14,6 +14,10 @@ snippet: Wyoming capital on the Great Plains edge, known for rail history and we
   heritage.
 title: Cheyenne
 type: location
+heritage: 2.6
+vibrancy: 4.6
+nature: 7.5
+off_the_beaten_track: 2.1
 ---
 
 Cheyenne is the capital and largest city of Wyoming, sitting at the edge of the Great Plains where they bump up against the Laramie Range. At around 6,000 feet elevation, it's a windswept, working city that wears its western heritage without pretense. The Wyoming State Capitol anchors downtown, and the annual Frontier Days rodeo — one of the oldest and largest in the world — turns the city into a genuine celebration every July.

@@ -14,6 +14,10 @@ snippet: Hampshire town near London, mostly rebuilt after the 1960s and useful f
   countryside day trips.
 title: Basingstoke
 type: location
+heritage: 1.8
+vibrancy: 2.9
+nature: 2.6
+off_the_beaten_track: 1.2
 ---
 
 Basingstoke sits in the centre of Hampshire, about 50 minutes by train from London Waterloo. It is not a destination most travellers seek out, but it serves as a practical base for exploring the surrounding Hampshire countryside.

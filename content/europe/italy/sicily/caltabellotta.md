@@ -13,6 +13,10 @@ snippet: High Sicilian hill village near Sciacca, perched on rugged ledges with 
   ruins.
 title: Caltabellotta
 type: location
+heritage: 5.6
+vibrancy: 2.0
+nature: 5.3
+off_the_beaten_track: 3.7
 ---
 
 Caltabellotta is one of the highest villages in Sicily, perched on a rugged hilltop near [Sciacca](/europe/italy/sicily/sciacca) on the south coast. The bus ride up from Sciacca winds right up the mountainside and is half the fun. The village itself is crammed onto every available ledge below the crest.

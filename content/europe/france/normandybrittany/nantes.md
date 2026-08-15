@@ -14,6 +14,10 @@ image: nantes.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_des_Ducs_de_Bretagne_%C3%A0_Nantes.jpg
 image_license: Public domain
 image_attribution: Olga.Mach
+heritage: 6.6
+vibrancy: 5.8
+nature: 3.6
+off_the_beaten_track: 1.8
 ---
 
 **Nantes** is the sixth-largest city in France, a prosperous and unexpectedly creative metropolis of about 320,000 people (650,000 in the metropolitan area) on the **Loire** river, 50 km from the Atlantic. Historically it was the capital of the **Duchy of Brittany** and for centuries the richest port in France — it made its fortune in the 18th century on the slave trade, a history the city has more recently confronted through one of the most serious memorial projects of its kind in Europe. Administratively, Nantes is no longer in Brittany (it was moved to the Pays de la Loire region in 1955, a decision locals have never entirely forgiven) but culturally the Breton identity is still strong.

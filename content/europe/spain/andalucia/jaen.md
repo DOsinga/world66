@@ -14,6 +14,10 @@ snippet: Andalusian provincial capital beneath Santa Catalina castle, surrounded
   extensive olive groves.
 title: Jaén
 type: location
+heritage: 6.4
+vibrancy: 4.7
+nature: 5.3
+off_the_beaten_track: 1.8
 ---
 
 Jaén is one of Andalusia's least-visited provincial capitals, and that is precisely its appeal. While tourists crowd Seville and Granada, Jaén goes about its business — pressing olive oil (this province produces more of it than any other on earth), climbing its steep streets, and living in the shadow of a magnificent Arab fortress that towers over everything from the top of Santa Catalina hill.

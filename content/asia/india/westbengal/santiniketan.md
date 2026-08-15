@@ -5,11 +5,16 @@ loc_type: city
 latitude: 23.6833
 longitude: 87.6833
 score: 8.0
-snippet: Tagore's West Bengal university town, where art, open-air learning, and Bengali culture shaped a UNESCO landscape.
+snippet: Tagore's West Bengal university town, where art, open-air learning, and Bengali
+  culture shaped a UNESCO landscape.
 sources:
-  - https://en.wikivoyage.org/wiki/Santiniketan
-  - https://en.wikipedia.org/wiki/Shantiniketan
-  - https://whc.unesco.org/en/list/1375/
+- https://en.wikivoyage.org/wiki/Santiniketan
+- https://en.wikipedia.org/wiki/Shantiniketan
+- https://whc.unesco.org/en/list/1375/
+heritage: 7.3
+vibrancy: 3.0
+nature: 3.0
+off_the_beaten_track: 3.1
 ---
 
 Santiniketan is the university town Rabindranath Tagore made famous: a place of open-air classes, murals, red earth, music, seasonal festivals, and quiet experiments in how education might live with nature. It sits near Bolpur in West Bengal, close enough to Kolkata for a long day trip, but better with a night if you want the pace to slow down.

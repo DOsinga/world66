@@ -25,6 +25,10 @@ tip: The Pyramids sit right at the edge of Cairo's sprawl, not in empty desert â
   inside. Agree camel or horse prices in writing first, or skip them.
 title: Giza
 type: location
+heritage: 7.5
+vibrancy: 4.6
+nature: 1.6
+off_the_beaten_track: 2.1
 ---
 
 Giza is the western half of greater Cairo â€” a teeming city in its own right of over eight million people, sprawling up to the desert edge where the **[Great Pyramids](/africa/egypt/giza/great_pyramid)** stand on their plateau. The pyramids are what everyone comes for, and they deserve it: these are the last surviving Wonder of the ancient world, the **Pyramid of Khufu** (Cheops) alone containing more than two million limestone blocks and older than almost anything else still standing on earth. The [Great Sphinx](/africa/egypt/giza/sphinx) crouches just below, weather-eaten and half the height of its pyramid, staring east toward the Nile.

@@ -15,6 +15,10 @@ image: clifden.jpg
 image_source: https://commons.wikimedia.org/wiki/File:20140616-IMG_1729-Clifden_IRE.jpg
 image_license: CC BY-SA 4.0
 image_attribution: JoachimKohlerBremen
+heritage: 4.8
+vibrancy: 3.5
+nature: 6.5
+off_the_beaten_track: 3.5
 ---
 
 Clifden is the nearest thing Connemara has to a capital: a small, slate-roofed town where the roads from Galway, Westport, Ballyconneely and the western headlands all meet. It grew as a planned 19th-century market town, and the centre still has that slightly formal look, with pubs, shops and guesthouses gathered around the square.

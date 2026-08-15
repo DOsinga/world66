@@ -10,6 +10,10 @@ snippet: Central Queensland industrial port and main departure point for Heron I
   and the southern Great Barrier Reef.
 title: Gladstone
 type: location
+heritage: 3.0
+vibrancy: 2.2
+nature: 4.0
+off_the_beaten_track: 2.1
 ---
 
 Gladstone is an industrial port city on the central Queensland coast, about six hours north of [Brisbane](/australiaandpacific/australia/queensland/brisbane). It is not a tourist town — alumina refineries and coal terminals dominate the harbour — but it serves as the main departure point for Heron Island and the southern Great Barrier Reef.

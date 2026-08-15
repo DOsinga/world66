@@ -13,6 +13,10 @@ snippet: Small Bay of Bengal fishing village with an unspoiled beach and working
   east of Digha.
 title: Shankarpur
 type: location
+heritage: 3.7
+vibrancy: 2.5
+nature: 6.3
+off_the_beaten_track: 3.5
 ---
 
 *Asia > India > West Bengal > Shankarpur*

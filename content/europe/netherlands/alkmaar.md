@@ -14,6 +14,10 @@ snippet: North Holland canal town known for its ritual cheese market, stepped ga
   and historic hofjes.
 title: Alkmaar
 type: location
+heritage: 5.7
+vibrancy: 5.2
+nature: 3.7
+off_the_beaten_track: 1.2
 ---
 
 Alkmaar is a handsome old town about half an hour north of Amsterdam by train, best known for its cheese market. The market runs on Friday mornings from spring to autumn and is a genuine spectacle: porters in white uniforms carry wheels of Gouda on ornamental wooden barrows, buyers and sellers seal deals with ritual hand-clapping, and the whole thing is over by noon. It is touristy, but it is also real — this is how cheese was traded here for over four centuries.

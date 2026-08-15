@@ -15,6 +15,10 @@ image: arroyo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Faro_de_Punta_de_las_Figuras_south_-_Arroyo_Puerto_Rico.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Ian Poellet
+heritage: 2.8
+vibrancy: 2.0
+nature: 5.7
+off_the_beaten_track: 2.6
 ---
 
 Arroyo is a small seaside town on Puerto Rico's south coast, just east of Guayama. It is not a polished resort town, and that is part of its appeal. The waterfront is local, the beaches are low-key, and the town's history turns up in odd places: an old customs house, sugar ruins, and a monument to Samuel Morse, who helped introduce the telegraph to Puerto Rico here in the 1850s.

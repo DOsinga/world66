@@ -14,6 +14,10 @@ snippet: Armenian plateau village above Debed Gorge, centred on the medieval San
   Monastery complex.
 title: Sanahin
 type: location
+heritage: 6.9
+vibrancy: 1.8
+nature: 6.4
+off_the_beaten_track: 4.8
 ---
 
 Sanahin — the name means "older than the other one," probably a reference to nearby [Haghpat](/europe/armenia/haghpat) — is a village perched on the dissected plateau high above the Debed gorge, now officially a suburb of Alaverdi but feeling very much like its own place. You can reach it by a cable car from Alaverdi (check schedules — hours are irregular) or by a steep, winding road.

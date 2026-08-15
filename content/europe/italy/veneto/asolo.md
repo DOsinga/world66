@@ -15,6 +15,10 @@ snippet: Veneto hill town of cypress-framed horizons, artistic exiles, and Queen
   Cornaro's court.
 title: Asolo
 type: location
+heritage: 5.8
+vibrancy: 4.5
+nature: 6.2
+off_the_beaten_track: 3.4
 ---
 
 Asolo is one of the most beautiful small towns in the Veneto, a walled hill town perched between cypresses and olive groves roughly halfway between [Venice](/europe/italy/veneto/venice) and [Vicenza](/europe/italy/veneto/vicenza). The Italians call it "the city of a hundred horizons" for its views across the foothills to the Dolomites and the Venetian plain.

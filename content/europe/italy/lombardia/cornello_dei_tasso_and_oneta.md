@@ -13,6 +13,10 @@ image_license: CC0
 image_attribution: 'Museo dei Tasso e della storia postale
 
   '
+heritage: 5.5
+vibrancy: 1.9
+nature: 3.4
+off_the_beaten_track: 2.9
 ---
 
 Two tiny medieval villages in the Brembana Valley, each with a surprising claim to fame, make one of the more atmospheric day trips out of Bergamo.

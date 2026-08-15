@@ -14,6 +14,10 @@ image_license: CC BY-SA 3.0
 image_attribution: Tilman2007
 snippet: Franconian town shaped by margravial baroque, with a lavish Residenz and
   formal Hofgarten at its centre.
+heritage: 6.5
+vibrancy: 3.9
+nature: 2.5
+off_the_beaten_track: 2.2
 ---
 
 Ansbach is a quiet Franconian town best known for its baroque [Residenz](/europe/germany/bavaria/ansbach/ansbach_residenz), the former palace of the Margraves of Brandenburg-Ansbach. The palace's 27 state rooms are lavishly decorated and the [Hofgarten](/europe/germany/bavaria/ansbach/hofgarten) behind it is one of the finest baroque garden ensembles in Bavaria.

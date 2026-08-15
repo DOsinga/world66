@@ -15,6 +15,10 @@ snippet: Moroccan commercial capital where Mauresque Art Deco gives the downtown
   strongest identity.
 title: Casablanca
 type: location
+heritage: 6.1
+vibrancy: 5.6
+nature: 2.8
+off_the_beaten_track: 1.8
 ---
 
 Casablanca is Morocco’s commercial capital and its largest city, home to around five million people. It does not have Marrakesh’s medinas or Fez’s labyrinthine old city — but it has something those cities lack: the feeling of a real, functioning metropolis with a coherent identity. That identity is largely architectural. In the 1920s and 30s, French planners invented a style called Mauresque — Art Deco merged with Islamic motifs — and built a downtown that remains one of the most distinctive examples of colonial urbanism in North Africa.

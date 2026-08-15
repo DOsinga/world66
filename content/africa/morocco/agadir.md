@@ -15,6 +15,10 @@ snippet: Planned Moroccan Atlantic resort city rebuilt after 1960, defined by a 
   sheltered beach
 title: Agadir
 type: location
+heritage: 4.2
+vibrancy: 5.6
+nature: 5.7
+off_the_beaten_track: 2.4
 ---
 
 Agadir is Morocco's principal beach resort, a planned city rebuilt from scratch after a catastrophic earthquake in 1960 killed around 15,000 people and flattened the old town in seconds. The result is a city of wide boulevards, concrete hotels, and almost no traditional architecture — which is precisely what distinguishes it from everywhere else in Morocco. If you come expecting a medina, you will be disappointed. If you come for the beach, you will not be.

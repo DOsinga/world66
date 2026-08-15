@@ -15,6 +15,10 @@ snippet: Historic Malaysian port city layered with Portuguese, Dutch, British, C
   Malay, and Indian influences.
 title: Melaka
 type: location
+heritage: 7.9
+vibrancy: 6.3
+nature: 5.4
+off_the_beaten_track: 1.5
 ---
 
 Melaka (also spelled Malacca) is one of Malaysia's most historically rich cities — a place where Portuguese, Dutch, British, Chinese, Malay, and Indian cultures have layered on top of each other for over five centuries. Founded as a trading port around 1400 by a Malay prince fleeing from Temasek (present-day Singapore), it became within decades the most important emporium in Southeast Asia. Control of Melaka was control of the spice trade between East and West.

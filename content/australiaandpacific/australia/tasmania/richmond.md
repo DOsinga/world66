@@ -14,6 +14,10 @@ snippet: Georgian Tasmanian village in the Coal River Valley, centred on Austral
   oldest stone bridge.
 title: Richmond
 type: location
+heritage: 4.5
+vibrancy: 2.5
+nature: 5.9
+off_the_beaten_track: 4.4
 ---
 
 Richmond is a small Georgian village in the Coal River Valley, about 25 kilometres northeast of [Hobart](/australiaandpacific/australia/tasmania/hobart). It is one of the best-preserved colonial settlements in Australia, and its main street of sandstone buildings looks much as it did in the 1830s.

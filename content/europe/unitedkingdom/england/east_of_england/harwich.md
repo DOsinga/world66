@@ -15,6 +15,10 @@ image: harwich.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Harwich_Green_and_Harwich_Low_Lighthouse_-_geograph.org.uk_-_6707203.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Christopher Hilton
+heritage: 5.7
+vibrancy: 3.2
+nature: 4.0
+off_the_beaten_track: 1.6
 ---
 
 Harwich sits at the tip of a narrow peninsula where the rivers Stour and Orwell meet the North Sea, and it has been sending ships out into that sea for eight centuries. This is the port where Christopher Jones, captain of the Mayflower, was born and buried; where Drake, Hawkins, and Frobisher fitted out their Elizabethan expeditions; where Samuel Pepys served as MP and took a close interest in the Royal Navy's operations. Today Stena Line runs overnight ferries to the Hook of Holland from here, making Harwich the starting point — or finishing point — for a great many European road trips.

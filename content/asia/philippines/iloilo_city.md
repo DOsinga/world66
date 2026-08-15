@@ -13,6 +13,10 @@ snippet: Western Visayas port city where Spanish-era districts, ancestral houses
   and Ilonggo cooking carry strong local identity.
 title: Iloilo City
 type: location
+heritage: 4.5
+vibrancy: 4.6
+nature: 4.8
+off_the_beaten_track: 2.5
 ---
 
 Iloilo City is the regional capital of Western Visayas and one of the most historically rich cities in the Philippines — a place where Spanish colonial architecture, strong regional identity, and genuine culinary pride distinguish it from the generic urban centres elsewhere in the archipelago.

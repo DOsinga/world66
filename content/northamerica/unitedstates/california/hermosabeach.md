@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Hermosa_Beach_Pier
 title: Hermosa Beach
 type: location
+heritage: 2.3
+vibrancy: 6.7
+nature: 6.7
+off_the_beaten_track: 1.3
 ---
 
 Hermosa Beach is the livelier, less polished middle child of the South Bay beach towns, squeezed between [Manhattan Beach](/northamerica/unitedstates/california/manhattan_beach) and Redondo Beach. It has a short downtown, a broad strand of sand, and enough bars around Pier Avenue to make it feel younger than its neighbours.

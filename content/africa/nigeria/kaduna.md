@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Lugard_Hall
 title: Kaduna
 type: location
+heritage: 2.9
+vibrancy: 1.6
+nature: 2.0
+off_the_beaten_track: 5.7
 ---
 
 Kaduna sits on the river that shares its name, a sprawling city that once served as the capital of Northern Nigeria under British rule and kept that role through the early years of independence. The colonial legacy is still visible in the wide boulevards and the old administrative buildings — particularly [Lugard Hall](/africa/nigeria/kaduna/lugard_hall), the former seat of the Northern Nigerian legislature, which still functions as the state assembly and is one of the most significant political buildings in the country.

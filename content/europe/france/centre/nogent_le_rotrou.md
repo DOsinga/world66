@@ -18,6 +18,10 @@ image: nogent_le_rotrou.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gare_de_Nogent-le-Rotrou_(28).JPG
 image_license: CC BY-SA 3.0
 image_attribution: Florian Pépellin (Floflo)
+heritage: 4.8
+vibrancy: 1.9
+nature: 2.7
+off_the_beaten_track: 2.0
 ---
 
 Nogent-le-Rotrou is a small town in the Perche, west of [Chartres](/europe/france/centre/chartres) and east of Le Mans. It was once the capital of the Counts of Perche, and the old power still shows in the castle that sits above the Huisne valley.

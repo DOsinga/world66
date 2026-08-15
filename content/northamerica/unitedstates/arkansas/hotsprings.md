@@ -14,6 +14,10 @@ snippet: Arkansas spa city built around thermal springs, Bathhouse Row, and a na
   park downtown
 title: Hot Springs
 type: location
+heritage: 3.8
+vibrancy: 2.7
+nature: 6.0
+off_the_beaten_track: 1.7
 ---
 
 Hot Springs is built around the thermal waters that give it its name — 47 springs flowing from the western slope of Hot Springs Mountain at a constant 62°C. The city grew up as a resort town in the 19th century, and [Bathhouse Row](/northamerica/unitedstates/arkansas/hotsprings/bathhouse_row), a line of ornate spa buildings along Central Avenue, is now a National Historic Landmark within [Hot Springs National Park](/northamerica/unitedstates/arkansas/hotsprings/hot_springs_national_park).

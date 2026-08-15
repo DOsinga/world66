@@ -12,6 +12,10 @@ snippet: San Juan beachfront neighbourhood of high-rise hotels, Ashford Avenue r
   and Atlantic surf.
 title: Condado
 type: location
+heritage: 2.7
+vibrancy: 5.7
+nature: 7.6
+off_the_beaten_track: 2.0
 ---
 
 Condado is San Juan's glitzy beachfront neighborhood, a strip of high-rise hotels, condominiums, and restaurants lining Ashford Avenue between the Condado Lagoon and the Atlantic Ocean. It occupies a narrow peninsula that was developed in the early 20th century as Puerto Rico's answer to Miami Beach, and it still plays that role -- this is where San Juan goes to see and be seen, with upscale shopping, rooftop bars, and a beach scene that runs from morning joggers to late-night cocktails.

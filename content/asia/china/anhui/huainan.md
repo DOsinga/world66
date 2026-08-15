@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Huainan
 title: Huainan
 type: location
+heritage: 2.8
+vibrancy: 2.3
+nature: 1.8
+off_the_beaten_track: 2.0
 ---
 
 Huainan is an industrial city in north-central Anhui — coal, chemicals, electricity, and pharmaceuticals are its economic foundations, and it makes no great effort to disguise this. The landscape along the railway reflects the city's history: processing plants, cooling towers, and the flat agricultural plain that stretches across the Huaihe valley. Most travelers pass through without stopping, which is not unreasonable.

@@ -14,6 +14,10 @@ title: Beverley
 snippet: East Yorkshire market town anchored by Beverley Minster and a medieval street
   plan of unusual grace.
 type: location
+heritage: 6.4
+vibrancy: 2.8
+nature: 2.6
+off_the_beaten_track: 2.0
 ---
 
 Beverley is one of the finest small towns in the north of England — compact, handsome, and easy to underestimate. It served for centuries as the county town of the East Riding of Yorkshire, and the medieval bones of that importance are still very much on show.

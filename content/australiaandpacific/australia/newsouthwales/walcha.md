@@ -18,6 +18,10 @@ image: walcha.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Walcha_NSW_-_aerial.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Cgoodwin
+heritage: 3.2
+vibrancy: 2.2
+nature: 4.9
+off_the_beaten_track: 5.0
 ---
 
 Walcha is a small New England Tablelands town with more bite than its size suggests. It sits high, cold by Australian standards, and close to gorge country where rivers drop hard off the plateau into Oxley Wild Rivers National Park.

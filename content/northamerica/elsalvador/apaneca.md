@@ -16,6 +16,10 @@ sources:
 - https://www.visitcentroamerica.com/en/visit/route-of-the-flowers/
 title: Apaneca
 type: location
+heritage: 3.6
+vibrancy: 3.1
+nature: 5.6
+off_the_beaten_track: 4.0
 ---
 
 Apaneca is the highest town on El Salvador's [Ruta de las Flores](/northamerica/elsalvador/rutadelasflores), a cool coffee-country stop between Ahuachapan and Juayua. It is less polished than nearby Ataco and less food-focused than Juayua, which is part of its appeal: the town still feels like a working highland place rather than a weekend stage set.

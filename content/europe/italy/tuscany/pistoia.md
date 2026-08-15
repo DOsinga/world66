@@ -13,6 +13,10 @@ title: Pistoia
 type: location
 snippet: Tuscan city with a compact medieval centre and a cathedral square spared
   from heavier tourist crowds.
+heritage: 6.5
+vibrancy: 3.9
+nature: 4.1
+off_the_beaten_track: 2.0
 ---
 
 Pistoia is a handsome Tuscan city that sits in the shadow of its famous neighbours — [Florence](/europe/italy/tuscany/florence) is 35 km east, [Lucca](/europe/italy/tuscany/lucca) 45 km west — and benefits from the relative neglect. The historic centre is compact and almost entirely medieval, built around the [Piazza del Duomo](/europe/italy/tuscany/pistoia/piazza_del_duomo), one of the finest squares in Tuscany.

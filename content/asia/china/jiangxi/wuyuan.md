@@ -13,6 +13,10 @@ snippet: Ancient Jiangxi village cluster of Huizhou houses, tea fields, and spri
   rapeseed valleys.
 title: Wuyuan
 type: location
+heritage: 4.6
+vibrancy: 1.8
+nature: 5.9
+off_the_beaten_track: 4.4
 ---
 
 Wuyuan (婺源) is the most photographed corner of Jiangxi — a cluster of ancient [Huizhou-style villages](/asia/china/jiangxi/wuyuan/huizhou_architecture) with whitewashed walls, grey tile roofs, and carved wooden interiors, set among tea fields and forested hills. In spring, [rapeseed fields](/asia/china/jiangxi/wuyuan/rapeseed_fields) turn the valley floors a violent yellow, and the combination of blossoms and old architecture draws enormous crowds of Chinese photographers and tour groups. If you're going in March or April, accept the crowds or don't go.

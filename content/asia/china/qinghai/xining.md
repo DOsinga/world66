@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Xining
 title: Xining
 type: location
+heritage: 5.1
+vibrancy: 4.6
+nature: 5.8
+off_the_beaten_track: 4.3
 ---
 
 Xining is the capital of Qinghai province and the largest city on the Tibetan Plateau, sitting at 2,270 metres in the valley of the Huangshui River. For most travellers it is primarily a transit point — the start of the Qinghai-Tibet Railway toward Lhasa and the departure hub for the rest of the province — but it is a city worth spending two or three days in its own right, a place where Han, Hui Muslim, and Tibetan cultures converge in a way that is specific to this edge of the plateau.

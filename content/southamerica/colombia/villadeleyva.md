@@ -13,6 +13,10 @@ snippet: Colombian colonial town north of Bogotá, centred on a vast cobbled Pla
   Mayor and fossil-rich countryside.
 title: Villa de Leyva
 type: location
+heritage: 5.6
+vibrancy: 4.7
+nature: 5.8
+off_the_beaten_track: 3.1
 ---
 
 Villa de Leyva is one of the finest colonial towns in Colombia, and it earns that distinction without effort. Its [Plaza Mayor](/southamerica/colombia/villadeleyva/plaza_mayor) — one of the largest cobblestoned squares in South America — is surrounded by whitewashed buildings with orange-tiled roofs, and the whole ensemble has been protected as a national monument since 1954. About 160 kilometres north of Bogotá, it draws Colombians who want to escape the city, and foreign visitors who want to understand what Andean colonial life looked like.

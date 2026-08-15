@@ -17,6 +17,10 @@ image: yuli.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Landscape_of_rice_paddy_field_in_Yuli.jpg
 image_license: CC BY 2.0
 image_attribution: billy1125
+heritage: 3.9
+vibrancy: 3.1
+nature: 3.7
+off_the_beaten_track: 1.9
 ---
 
 Yuli is a small township in Taiwan's East Rift Valley, where rice fields sit between the Central Range and the Coastal Range. It is not flashy, and that is part of the appeal: you come here for a slower east-coast day built around cycling, water, and mountain edges.

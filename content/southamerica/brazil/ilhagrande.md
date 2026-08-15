@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Ilha_Grande_State_Park
 title: Ilha Grande
 type: location
+heritage: 4.1
+vibrancy: 4.5
+nature: 7.3
+off_the_beaten_track: 4.2
 ---
 
 Ilha Grande is a 193 km² island of Atlantic Forest, granite peaks, and unreasonably beautiful beaches, set in the great bay of [Angra dos Reis](/southamerica/brazil/angradosreis) on Brazil's Green Coast. There are no roads on the island, no cars, no banks, and almost no street lighting; visitors get around on foot, by boat, or — in the village — by handcart. It is one of those rare destinations that arrived in the twenty-first century as a working ecological reserve rather than as a resort, and the result is a place where the rainforest comes right down to the sand.

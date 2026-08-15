@@ -18,6 +18,10 @@ image: omsk.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Irtish_v_Omsk.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Petar Milošević
+heritage: 5.3
+vibrancy: 3.9
+nature: 4.3
+off_the_beaten_track: 4.8
 ---
 
 Omsk is one of Siberia's great old cities, spread along the Irtysh near the mouth of the Om. It began as an 18th-century fortress, became the administrative capital of Western Siberia, and later grew into a major rail, river, and industrial city. It does not have the polish of St Petersburg or the easy prettiness of Tomsk, but it has weight.

@@ -26,6 +26,10 @@ tip: Accra is friendly, hot and humid, strung along the Gulf of Guinea. English 
   Makola Market.
 title: Accra
 type: location
+heritage: 6.1
+vibrancy: 5.0
+nature: 3.9
+off_the_beaten_track: 4.4
 ---
 
 *Africa > Ghana > Accra*

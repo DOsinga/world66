@@ -17,6 +17,10 @@ image: birdsville.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Birdsville_Hotel.jpg
 image_license: Public domain
 image_attribution: Stuart Edwards
+heritage: 3.1
+vibrancy: 1.7
+nature: 6.4
+off_the_beaten_track: 6.1
 ---
 
 Birdsville is one of those Australian places whose name is bigger than the town. It sits in the far south-west corner of Queensland, near the South Australian border, where the Birdsville Track meets the eastern edge of the Simpson Desert and the flood country of the Diamantina.

@@ -14,6 +14,10 @@ snippet: Black Sea port below the Kaçkar Mountains, at the heart of Turkey's st
   green tea country.
 title: Rize
 type: location
+heritage: 7.3
+vibrancy: 1.0
+nature: 7.5
+off_the_beaten_track: 6.6
 ---
 
 Rize sits on the Black Sea coast at the foot of the Kaçkar Mountains, about 70 km east of Trabzon airport and 90 km from the Georgian border. It is the heart of [Turkey](/asia/turkey)'s tea country — the steep green hillsides above the town are covered in tea plantations, and the drink is a matter of fierce local pride. You will be offered tea constantly, and it would be rude to refuse. Rize serves as the main gateway to the northern approaches of the [Kaçkar](/asia/turkey/kackar) range.

@@ -6,14 +6,19 @@ latitude: 67.9583
 longitude: 23.6833
 wikidata: Q302717
 score: 6.7
-snippet: Lapland border town on the Muonio River, with fell trails, Sami sacred sites, and long Arctic light.
+snippet: Lapland border town on the Muonio River, with fell trails, Sami sacred sites,
+  and long Arctic light.
 image: muonio.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Muonio_Church_corrected.jpg
 image_license: Public domain
 image_attribution: Jvuollo; derivative work by Ikiwaner
 sources:
-  - https://en.wikivoyage.org/wiki/Muonio
-  - https://en.wikipedia.org/wiki/Muonio
+- https://en.wikivoyage.org/wiki/Muonio
+- https://en.wikipedia.org/wiki/Muonio
+heritage: 3.8
+vibrancy: 1.0
+nature: 7.5
+off_the_beaten_track: 6.6
 ---
 
 Muonio sits in western [Finnish Lapland](/europe/finland/lapland), on the Muonio River and the Swedish border. The village is small, but the municipality reaches into serious fell country: Pallas-Yllastunturi National Park, Särkitunturi, old fishing grounds, and lakes that still carry Sami sacred stories.

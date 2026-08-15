@@ -3,9 +3,14 @@ latitude: 53.06
 loc_type: feature
 longitude: -108.39
 score: 6.8
-snippet: Sand beach, boreal-edge forest, and Jackfish Lake fishing, 40 km north of North Battleford.
+snippet: Sand beach, boreal-edge forest, and Jackfish Lake fishing, 40 km north of
+  North Battleford.
 title: Battlefords Provincial Park
 type: location
+heritage: 1.9
+vibrancy: 1.6
+nature: 5.2
+off_the_beaten_track: 3.1
 ---
 
 Battlefords Provincial Park sits on the south shore of Jackfish Lake, about 40 km north of North Battleford. The park's headline is its sand beach — 4 km of it, long and soft, and on warm summer afternoons crowded with day visitors from across northwestern Saskatchewan, all the way out to Lloydminster on the Alberta border. It is the most accessible piece of waterfront for a wide stretch of farming country, and it earns its popularity.

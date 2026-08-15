@@ -14,6 +14,10 @@ snippet: KwaZulu-Natal coastal town on the Sapphire Coast, with warm Indian Ocea
   beaches south of Durban.
 title: Amanzimtoti
 type: location
+heritage: 1.8
+vibrancy: 3.1
+nature: 5.8
+off_the_beaten_track: 2.1
 ---
 
 Amanzimtoti is a coastal town on the KwaZulu-Natal South Coast, about 25 kilometres south of Durban. The name is Zulu, reportedly given by Shaka when he tasted the sweet water of the river here. The area stretches along the Sapphire Coast and encompasses several beach settlements — Umbogintwini, Doonside, Warner Beach, Winkle Spruit, and Illovo Beach among them.

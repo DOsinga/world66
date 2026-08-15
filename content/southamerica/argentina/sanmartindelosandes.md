@@ -17,6 +17,10 @@ sources:
 - https://www.swoop-patagonia.com/argentina/lake-district/san-martin
 title: San Martín de los Andes
 type: location
+heritage: 5.1
+vibrancy: 5.1
+nature: 7.4
+off_the_beaten_track: 5.0
 ---
 
 San Martín de los Andes is the quieter, better-groomed cousin of Bariloche: a low-rise Andean town of timber buildings, mountain light, and cold blue water at the eastern end of Lago Lacar. It is touristy, certainly, but it has kept a village scale that makes it easier to like than many resort towns.

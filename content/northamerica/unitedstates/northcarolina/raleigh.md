@@ -14,6 +14,10 @@ snippet: North Carolina capital in the Research Triangle, with leafy parks, univ
   and free state museums.
 title: Raleigh
 type: location
+heritage: 5.0
+vibrancy: 5.7
+nature: 3.8
+off_the_beaten_track: 1.2
 ---
 
 Raleigh is the state capital and one of the most livable cities in the American South. The unofficial motto is "Trees, Tees, and PhDs" — a nod to its 150-plus parks, excellent golf courses, and the concentration of universities in the Research Triangle.

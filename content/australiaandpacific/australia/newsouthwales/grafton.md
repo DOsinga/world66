@@ -18,6 +18,10 @@ image: grafton.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Clarence_River_in_Grafton,_New_South_Wales,_Australia,_2021,_06.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Chris Olszewski
+heritage: 3.2
+vibrancy: 3.1
+nature: 3.7
+off_the_beaten_track: 1.4
 ---
 
 Grafton is the Clarence Valley's old river city, set on broad streets and wrapped around the Clarence River. It is most famous in spring, when jacarandas turn the avenues purple and the annual festival gives the town a reason to show off.

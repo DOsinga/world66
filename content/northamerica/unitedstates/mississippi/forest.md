@@ -14,6 +14,10 @@ title: Forest
 snippet: Small Mississippi county seat near Bienville National Forest, known locally
   for its Wing Dang Doodle Festival.
 type: location
+heritage: 1.7
+vibrancy: 1.8
+nature: 4.9
+off_the_beaten_track: 2.5
 ---
 
 Forest is a small town in Scott County, [Mississippi](/northamerica/unitedstates/mississippi), sitting off I-20 about halfway between Jackson and Meridian. It is primarily an agricultural community and the county seat.

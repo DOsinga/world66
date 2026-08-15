@@ -14,6 +14,10 @@ image: devils_lake.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Downtown_Devils_Lake.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Andrew Filer
+heritage: 1.7
+vibrancy: 1.8
+nature: 5.6
+off_the_beaten_track: 2.4
 ---
 
 Devils Lake is a small city in northern [North Dakota](/northamerica/unitedstates/northdakota), but the name really belongs to the water beside it. The lake is the largest natural lake in the state, with a ragged shoreline, big skies and a reputation for excellent walleye, pike and perch fishing.

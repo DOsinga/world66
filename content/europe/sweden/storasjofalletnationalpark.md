@@ -7,6 +7,10 @@ snippet: Swedish Lapland national park of mountain plateaus, glacial valleys, an
   Sami traditional lands.
 title: Stora Sjöfallet National Park
 type: location
+heritage: 7.3
+vibrancy: 1.4
+nature: 8.8
+off_the_beaten_track: 6.6
 ---
 
 Stora Sjöfallet (Stuor Muorkke in Sami) is one of Sweden's oldest and largest national parks, covering some 1,278 square kilometres of mountain wilderness in Swedish Lapland, about 200 kilometres north of the Arctic Circle. The nearest town is Gällivare, about 200 kilometres to the east. This is remote country — one of the last truly wild areas in Europe, comparable in character to interior Alaska without the remoteness of Siberia.

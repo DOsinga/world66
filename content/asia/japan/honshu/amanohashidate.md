@@ -13,6 +13,10 @@ snippet: Pine-covered sand spit across Miyazu Bay, counted among Japan's traditi
   Three Great Views.
 title: Amanohashidate
 type: location
+heritage: 6.1
+vibrancy: 2.9
+nature: 7.4
+off_the_beaten_track: 1.8
 ---
 
 Amanohashidate — the "Bridge to Heaven" — is one of the Nihon Sankei, the Three Great Views of [Japan](/asia/japan). It is a 3.6 km pine-covered [sand spit](/asia/japan/honshu/amanohashidate/the_sandbar) stretching across Miyazu Bay on the northern coast of Kyoto Prefecture.

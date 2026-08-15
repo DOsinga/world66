@@ -17,6 +17,10 @@ image: aphrodisias.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Afrodisias_408.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Viault
+heritage: 9.0
+vibrancy: 2.9
+nature: 3.7
+off_the_beaten_track: 3.8
 ---
 
 Aphrodisias is one of Turkey's great ancient sites, but it feels quieter than that status suggests. It sits inland from the Aegean coast near modern Geyre, surrounded by fields and low hills rather than cruise buses and souvenir streets. The old city made its name from marble: nearby quarries supplied the stone, and its sculptors became famous across the Roman world.

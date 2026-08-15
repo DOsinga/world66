@@ -17,6 +17,10 @@ image: tumbler_ridge.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kinuseo_Falls.jpg
 image_license: Public domain
 image_attribution: Urban Walnut
+heritage: 1.7
+vibrancy: 1.1
+nature: 6.9
+off_the_beaten_track: 5.4
 ---
 
 *North America > Canada > British Columbia > Tumbler Ridge*

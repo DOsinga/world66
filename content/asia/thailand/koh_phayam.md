@@ -14,6 +14,10 @@ snippet: Small Andaman island off Ranong, known for long beaches and a cashew-gr
   interior.
 title: Koh Phayam
 type: location
+heritage: 2.2
+vibrancy: 2.9
+nature: 6.1
+off_the_beaten_track: 3.6
 ---
 
 Koh Phayam is a small island in the Andaman Sea off the coast of Ranong province, in southern [Thailand](/asia/thailand). It is less developed and far quieter than the big-name Thai islands — no ATMs until recently, limited electricity, and a pace of life set by the tides and the cashew harvest.

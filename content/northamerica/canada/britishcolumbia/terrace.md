@@ -13,6 +13,10 @@ snippet: Skeena River hub in northwestern British Columbia, shaped by railways, 
   and nearby First Nations communities
 title: Terrace
 type: location
+heritage: 3.9
+vibrancy: 2.6
+nature: 6.6
+off_the_beaten_track: 3.8
 ---
 
 Terrace is the largest city in northwestern British Columbia, sitting on a flat bench above the Skeena River about midway between the inland ranges and the Pacific port of Prince Rupert. Around 12,000 people live in the city itself, with another 25,000 in the wider Skeena valley. It's the regional hub for shopping, services, and transport — anything you can't find in the surrounding villages, you'll find in Terrace.

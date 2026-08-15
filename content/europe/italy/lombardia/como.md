@@ -16,6 +16,10 @@ snippet: Compact Lombard lake city with medieval streets, Romanesque churches, n
   villas, and Alessandro Volta heritage.
 title: Como
 type: location
+heritage: 8.3
+vibrancy: 5.7
+nature: 6.5
+off_the_beaten_track: 1.4
 ---
 
 Como occupies the southern tip of the lake that bears its name, a compact city wedged between water and steep wooded hills. Most visitors treat it as a launching pad for the lake — an understandable mistake. The city itself has a rich historic centre that rewards a day's exploration: narrow medieval streets, a cathedral four centuries in the making, two magnificent Romanesque basilicas, and a lakefront promenade lined with neoclassical villas.

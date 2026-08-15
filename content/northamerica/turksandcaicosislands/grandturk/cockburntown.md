@@ -14,6 +14,10 @@ snippet: Sleepy Turks and Caicos capital on Grand Turk, lined with Bermudan-styl
   salt-era houses.
 title: Cockburn Town
 type: location
+heritage: 3.6
+vibrancy: 5.2
+nature: 7.2
+off_the_beaten_track: 4.3
 ---
 
 Cockburn Town is the sleepy administrative capital of the Turks and Caicos Islands, spread along the western shore of Grand Turk. Despite its status as the country's seat of government, it feels less like a capital than a well-preserved colonial village — which is precisely its appeal.

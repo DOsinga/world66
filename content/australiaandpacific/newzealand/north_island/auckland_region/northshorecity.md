@@ -14,6 +14,10 @@ title: North Shore City
 type: location
 snippet: Auckland harbour suburb of Gulf-facing beaches, Devonport villas, and bush
   reserves across the bridge.
+heritage: 2.2
+vibrancy: 2.6
+nature: 5.2
+off_the_beaten_track: 2.0
 ---
 
 North Shore City sits across the Waitemata Harbour from Auckland's CBD, connected by the Harbour Bridge and a network of ferries. Once an independent city, it merged into Auckland Council in 2010 but retains its own character — quieter and more suburban than central Auckland, with long beaches facing the Hauraki Gulf and bush-clad reserves running along the coast.

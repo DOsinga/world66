@@ -16,6 +16,10 @@ image: calistoga.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Frank_Patterson_14C13_-_Calistoga,_the_gateway_to_Clear_Lake.jpg
 image_license: Public domain
 image_attribution: Frank Patterson
+heritage: 2.9
+vibrancy: 5.0
+nature: 6.4
+off_the_beaten_track: 1.9
 ---
 
 Calistoga sits at the northern end of the Napa Valley, at the foot of Mount St. Helena. It is a small town — about 5,000 people — with a main street lined with tasting rooms, old storefronts, and a pace noticeably slower than the valley's more polished towns to the south.

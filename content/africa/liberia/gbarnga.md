@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Bong_County
 title: Gbarnga
 type: location
+heritage: 3.4
+vibrancy: 2.2
+nature: 3.9
+off_the_beaten_track: 6.7
 ---
 
 *Africa > [Liberia](/africa/liberia) > Gbarnga*

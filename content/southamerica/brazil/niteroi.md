@@ -19,6 +19,10 @@ sources:
 - https://en.wikipedia.org/wiki/Niter%C3%B3i_Contemporary_Art_Museum
 title: Niteroi
 type: location
+heritage: 4.0
+vibrancy: 5.3
+nature: 3.9
+off_the_beaten_track: 1.5
 ---
 
 Niterói sits across Guanabara Bay from Rio de Janeiro, connected by the striking 13-kilometer Ponte Rio-Niterói. Most visitors to Rio never make the crossing, which is a shame. The city has one of the most dramatic museum buildings on earth, a string of wild oceanic beaches, and views back toward Rio that rival anything you will see from the other side.

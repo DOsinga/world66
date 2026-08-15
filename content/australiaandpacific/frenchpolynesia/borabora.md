@@ -32,6 +32,10 @@ tip: Bora Bora is expensive and there's no way around it, so go for the lagoon, 
   reef-safe sunscreen; the coral is the show.
 title: Bora Bora
 type: location
+heritage: 3.8
+vibrancy: 4.3
+nature: 9.5
+off_the_beaten_track: 2.2
 ---
 
 Bora Bora is an almost absurdly beautiful island in French Polynesia, roughly 230 kilometres northwest of Tahiti. A jagged volcanic core — dominated by the extinct peaks of [Mount Otemanu](/australiaandpacific/frenchpolynesia/borabora/mount_otemanu) and [Mount Pahia](/australiaandpacific/frenchpolynesia/borabora/mount_pahia) — rises sharply from a lagoon of implausible turquoise, enclosed by a coral reef and a string of low sandy motu. The combination of lush mountain interior and luminous lagoon is genuinely hard to better anywhere in the Pacific.

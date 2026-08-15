@@ -5,12 +5,17 @@ loc_type: city
 latitude: 41.3833
 longitude: 33.7833
 score: 7.4
-snippet: Inland Black Sea city with Candarid mosques, Ottoman mansions, and a rare wooden UNESCO mosque nearby.
+snippet: Inland Black Sea city with Candarid mosques, Ottoman mansions, and a rare
+  wooden UNESCO mosque nearby.
 wikidata: Q155915
 sources:
-  - https://en.wikivoyage.org/wiki/Kastamonu
-  - https://en.wikipedia.org/wiki/Kastamonu
-  - https://www.wikidata.org/wiki/Q155915
+- https://en.wikivoyage.org/wiki/Kastamonu
+- https://en.wikipedia.org/wiki/Kastamonu
+- https://www.wikidata.org/wiki/Q155915
+heritage: 5.5
+vibrancy: 3.4
+nature: 4.6
+off_the_beaten_track: 4.9
 ---
 
 *Asia > Turkey > Kastamonu*

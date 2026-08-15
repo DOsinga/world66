@@ -15,6 +15,10 @@ type: location
 score: 8.31
 snippet: Sumatran rainforest national park where orangutans, tigers, elephants, and
   rhinos share a UNESCO landscape.
+heritage: 1.0
+vibrancy: 0.6
+nature: 8.3
+off_the_beaten_track: 6.9
 ---
 
 Gunung Leuser is one of the largest national parks in Southeast Asia — almost 8,000 square kilometres of rainforest, mountains and rivers spanning the border between Aceh and North Sumatra. With Kerinci Seblat and Bukit Barisan Selatan it forms the Tropical Rainforest Heritage of Sumatra, a UNESCO World Heritage Site, and it is one of the last places on earth where Sumatran orangutans, tigers, elephants and rhinos still share the same forest.

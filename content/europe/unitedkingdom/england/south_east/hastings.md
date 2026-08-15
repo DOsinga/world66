@@ -14,6 +14,10 @@ image: hastings.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Hastings_beach.jpg
 image_license: CC BY-SA 4.0
 image_attribution: kallerna
+heritage: 5.2
+vibrancy: 3.2
+nature: 4.2
+off_the_beaten_track: 1.4
 ---
 
 Hastings is best known for the battle that changed English history in 1066, though that actually took place six miles inland at what is now called Battle. The town itself is an ancient Sussex seaside settlement, nestled in the folds of the High Weald as it meets the sea.

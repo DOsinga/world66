@@ -25,6 +25,10 @@ tip: Kyiv is one of the oldest and grandest cities in eastern Europe, the cradle
   as a bomb shelter.
 title: Kyiv
 type: location
+heritage: 6.8
+vibrancy: 7.3
+nature: 3.0
+off_the_beaten_track: 1.5
 ---
 
 Kyiv is one of the oldest cities in Europe, founded in the 5th century and the capital of a medieval state — Kyivan Rus — that shaped the subsequent history of Russia, Ukraine, and Belarus. Today it is the capital of Ukraine, a city of broad boulevards, steep river banks, and a skyline punctuated by the gold and blue domes of Orthodox churches and monasteries. The city stands on the right bank of the Dnieper River, spread across a series of wooded hills.

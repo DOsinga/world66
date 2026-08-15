@@ -14,6 +14,10 @@ image: pangandaran.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Pantai_Pangandaran.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Hahnsaja
+heritage: 2.5
+vibrancy: 1.9
+nature: 7.7
+off_the_beaten_track: 4.8
 ---
 
 Pangandaran is a relaxed beach town on the south coast of [Java](/asia/indonesia/java), popular with Indonesian families but still far from the international beach crowds of Bali. The sand is dark, the sea can be rough, and the town has a simple resort feel: guesthouses, seafood stalls, surfboards, and becaks waiting near the bus terminal.

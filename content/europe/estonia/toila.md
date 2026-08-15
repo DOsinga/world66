@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Toila
 title: Toila
 type: location
+heritage: 3.8
+vibrancy: 2.1
+nature: 5.2
+off_the_beaten_track: 4.1
 ---
 
 Toila is a small seaside resort on the cliffs of northeast [Estonia](/europe/estonia), about 40 kilometres west of Narva and 10 kilometres from Jõhvi. It is a popular weekend escape for Estonians — a quiet, green place set above a dramatic stretch of coastline where the [North Estonian Klint](/europe/estonia/toila/north_estonian_klint) drops sharply to the sea.

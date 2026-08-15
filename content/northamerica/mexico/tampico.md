@@ -5,11 +5,16 @@ loc_type: city
 latitude: 22.255278
 longitude: -97.868611
 score: 7.2
-snippet: Gulf port city of Huastec traces, wrought-iron plazas, crocodile lagoons, and seafood.
+snippet: Gulf port city of Huastec traces, wrought-iron plazas, crocodile lagoons,
+  and seafood.
 country: Mexico
 sources:
-  - https://en.wikivoyage.org/wiki/Tampico
-  - https://en.wikipedia.org/wiki/Tampico
+- https://en.wikivoyage.org/wiki/Tampico
+- https://en.wikipedia.org/wiki/Tampico
+heritage: 3.5
+vibrancy: 2.8
+nature: 3.1
+off_the_beaten_track: 2.3
 ---
 
 Tampico is a Gulf port with more character than its industrial reputation suggests. Oil, river trade, Huastec history, old banking houses, seafood, humidity, and crocodiles all sit close together, which makes the city feel rough-edged but memorable.

@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Lidk%C3%B6ping
 title: Lidköping
 type: location
+heritage: 3.9
+vibrancy: 2.6
+nature: 2.9
+off_the_beaten_track: 1.4
 ---
 
 Lidköping is a small city on the southern shore of Lake Vänern — Sweden's largest lake — at the mouth of the River Lidan. It is a pleasant, unhurried place with a tidy town centre and decent connections to the surrounding countryside.

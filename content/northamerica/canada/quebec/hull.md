@@ -14,6 +14,10 @@ snippet: Historic Gatineau district across the Ottawa River, known for Quebec ni
   and the Canadian Museum of History.
 title: Gatineau (Hull)
 type: location
+heritage: 3.3
+vibrancy: 3.2
+nature: 4.2
+off_the_beaten_track: 1.3
 ---
 
 Hull is the historic name for what is now part of **Gatineau**, the Quebec city directly across the Ottawa River from Canada's capital. The merger of Hull and several surrounding municipalities into Gatineau in 2002 means the name Hull lives on mainly in local usage and older maps — but the neighbourhood retains a distinct identity.

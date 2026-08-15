@@ -15,6 +15,10 @@ image: el_fuerte.jpg
 image_source: https://commons.wikimedia.org/wiki/File:El_fuerte,_Sinaloa,_M%C3%A9xico.jpg
 image_license: CC BY 2.0
 image_attribution: Danny
+heritage: 7.6
+vibrancy: 4.2
+nature: 4.4
+off_the_beaten_track: 5.2
 ---
 
 El Fuerte is a small colonial city in northern Sinaloa, set by the Río Fuerte and best known to travelers as a more appealing Chepe railway stop than Los Mochis. It has a shaded plaza, old mansions, a fort museum, Yoreme Mayo cultural roots, and enough history to stand on its own rather than simply acting as a Copper Canyon gateway.

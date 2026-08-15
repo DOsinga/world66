@@ -11,6 +11,10 @@ image: inhotim.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lydinstallation_ARoS.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Villy Fink Isaksen
+heritage: 3.2
+vibrancy: 1.4
+nature: 6.8
+off_the_beaten_track: 4.2
 ---
 
 A day trip out to Inhotim, the open-air contemporary art park 60 km west of the city, is the single most rewarding excursion for most cultural visitors to Belo Horizonte. The park covers 140 hectares of botanic garden punctuated by 23 individual gallery pavilions; allow a full day and consider a second.

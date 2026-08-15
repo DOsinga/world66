@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Donetsk_Metro
 title: Donetsk
 type: location
+heritage: 4.6
+vibrancy: 4.6
+nature: 3.4
+off_the_beaten_track: 5.7
 ---
 
 > **Warning:** Since 2014, Donetsk has been under the control of Russian-backed separatist forces and, since 2022, under full Russian military occupation. The city is not accessible to ordinary travellers. All information on this page reflects the city as it was before the conflict.

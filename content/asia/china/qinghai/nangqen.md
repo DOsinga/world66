@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Nangqen
 title: Nangqen
 type: location
+heritage: 5.6
+vibrancy: 0.8
+nature: 7.3
+off_the_beaten_track: 7.2
 ---
 
 Nangqen is a remote county town in southern Qinghai's Yushu Prefecture, close to the borders of Sichuan and Tibet and about 150 kilometres south of Yushu itself. It sits at high altitude on the Tibetan Plateau, in a landscape of river gorges, grasslands, and monastery-dotted hillsides. Few foreign travellers come here; those who do tend to be heading for the monasteries and wilderness areas of southern Yushu Prefecture.

@@ -13,6 +13,10 @@ snippet: Adelaide Hills town and Australia's oldest surviving German settlement,
   with heritage pubs and bakeries.
 title: Hahndorf
 type: location
+heritage: 5.3
+vibrancy: 4.4
+nature: 4.4
+off_the_beaten_track: 1.9
 ---
 
 Hahndorf is Australia's oldest surviving German settlement, nestled in the Adelaide Hills about 25 minutes' drive from the city centre. The [main street](/australiaandpacific/australia/southaustralia/handorf/main_street) is lined with heritage buildings, craft shops, bakeries and German-style pubs, and the town draws steady weekend traffic from [Adelaide](/australiaandpacific/australia/southaustralia/adelaide).

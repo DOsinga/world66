@@ -15,6 +15,10 @@ title: Marib
 snippet: Ancient Yemeni city and Sabaean capital, anchored by incense-route ruins
   and the Great Dam of Marib
 type: location
+heritage: 8.0
+vibrancy: 2.3
+nature: 2.6
+off_the_beaten_track: 8.5
 ---
 
 Marib is the most important archaeological site in Yemen and one of the great ancient cities of the Arabian Peninsula. Capital of the Sabaean kingdom from roughly the 8th century BCE, it sat at the crossroads of the incense trade routes that linked the Arabian Sea coast to the Mediterranean world. The [Great Dam of Marib](/asia/yemen/marib/greatmaribdam), an engineering marvel that irrigated the surrounding desert for over a millennium, was famous enough to be mentioned in the Quran.

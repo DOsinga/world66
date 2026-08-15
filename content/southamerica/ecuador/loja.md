@@ -10,6 +10,10 @@ snippet: Southern Ecuadorian highland city known for music, cloud forests, and a
   valley near Peru.
 title: Loja
 type: location
+heritage: 4.3
+vibrancy: 4.9
+nature: 5.5
+off_the_beaten_track: 4.1
 ---
 
 Loja is a quiet university city in Ecuador's southern highlands, close to the Peruvian border. It sits in a fertile valley at about 2,100 metres, surrounded by green hills and some of the country's most biodiverse cloud forests. The city has long been known as the music capital of Ecuador — you will hear live performances in plazas and parks, and the local conservatory has produced many of the country's best-known musicians.

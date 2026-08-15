@@ -5,10 +5,15 @@ loc_type: city
 latitude: 36.45
 longitude: 34.15
 score: 7.6
-snippet: Small Mediterranean village below Cilician caves, castles, mosaics, and karst chasms.
+snippet: Small Mediterranean village below Cilician caves, castles, mosaics, and karst
+  chasms.
 sources:
-  - https://en.wikivoyage.org/wiki/Narl%C4%B1kuyu
-  - https://en.wikipedia.org/wiki/Narl%C4%B1kuyu
+- https://en.wikivoyage.org/wiki/Narl%C4%B1kuyu
+- https://en.wikipedia.org/wiki/Narl%C4%B1kuyu
+heritage: 2.6
+vibrancy: 1.6
+nature: 5.9
+off_the_beaten_track: 2.8
 ---
 
 Narlıkuyu is a small village on Turkey's Mediterranean coast between Mersin and Silifke. It would be easy to mistake it for another seafood stop on the D400, but the limestone hills behind the bay hold some of the most memorable sights on this part of the Cilician coast.

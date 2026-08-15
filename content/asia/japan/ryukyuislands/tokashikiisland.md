@@ -13,6 +13,10 @@ snippet: Kerama island near Okinawa, known for white-sand beaches, clear reefs, 
   winter humpback whales.
 title: Tokashiki Island
 type: location
+heritage: 6.5
+vibrancy: 0.9
+nature: 7.6
+off_the_beaten_track: 6.9
 ---
 
 Tokashiki is the largest of the Kerama Islands, a chain of small islands about 30 kilometres west of Naha in Okinawa. The island is known for its clear water, coral reefs, and white-sand beaches — [Aharen Beach](/asia/japan/ryukyuislands/tokashikiisland/aharen_beach) on the south coast and [Tokashiku Beach](/asia/japan/ryukyuislands/tokashikiisland/tokashiku_beach) on the west are the main draws.

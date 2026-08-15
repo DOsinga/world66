@@ -14,6 +14,10 @@ snippet: Small Somaliland crossroads on the Hawd plateau, opening onto camel-her
   country south of Hargeisa.
 title: BaliGubadle
 type: location
+heritage: 2.3
+vibrancy: 1.8
+nature: 5.0
+off_the_beaten_track: 7.3
 ---
 
 Baligubadle is a small town in the Maroodi Jeex region of [Somaliland](/africa/somaliland), about 90 km south of [Hargeisa](/africa/somaliland/hargeisa) on the road to the Ethiopian border at Wajaale. It sits on the edge of the [Hawd plateau](/africa/somaliland/baligubadle/hawd_plateau) — a wide expanse of semi-arid grazing land that stretches deep into eastern Ethiopia and is one of the great pastoral landscapes of the Horn of Africa.

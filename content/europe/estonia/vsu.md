@@ -13,6 +13,10 @@ sources:
 - https://visitlahemaa.com/en/
 title: Võsu
 type: location
+heritage: 4.5
+vibrancy: 1.6
+nature: 6.0
+off_the_beaten_track: 3.3
 ---
 
 Võsu is a small beach village on the north coast of [Estonia](/europe/estonia), inside Lahemaa National Park. It has been a summer resort since the 19th century, and remains one of the most popular seaside spots in the country — Estonians from Tallinn drive out for weekends, but it never feels crowded.

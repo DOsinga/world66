@@ -5,9 +5,13 @@ longitude: 131.3
 score: 8.8
 snippet: Mountain town in Miyazaki known for a basalt gorge and Shinto creation myths.
 sources:
-  - https://en.wikivoyage.org/wiki/Takachiho
+- https://en.wikivoyage.org/wiki/Takachiho
 title: Takachiho
 type: location
+heritage: 5.4
+vibrancy: 2.4
+nature: 8.2
+off_the_beaten_track: 4.2
 ---
 
 Takachiho is a mountain town in north-western Miyazaki where landscape and myth meet neatly. Its gorge is one of Kyushu's classic sights, a narrow cut of dark volcanic rock, green water, and the Minai Waterfall dropping into the Gokase River.

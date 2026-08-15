@@ -5,10 +5,15 @@ loc_type: city
 latitude: 37.75
 longitude: -100.0167
 score: 6.9
-snippet: Western Kansas cow town whose frontier legend still shapes its museums, streets, and summer events.
+snippet: Western Kansas cow town whose frontier legend still shapes its museums, streets,
+  and summer events.
 sources:
-  - https://en.wikivoyage.org/wiki/Dodge_City
-  - https://en.wikipedia.org/wiki/Dodge_City,_Kansas
+- https://en.wikivoyage.org/wiki/Dodge_City
+- https://en.wikipedia.org/wiki/Dodge_City,_Kansas
+heritage: 4.4
+vibrancy: 3.4
+nature: 2.6
+off_the_beaten_track: 3.0
 ---
 
 Dodge City is one of the few Old West names that still lands before you arrive. The modern city is a working western Kansas town, with meatpacking plants, highways, and a large Latino community, but the tourist core is built around the cattle-trail years when Dodge was the "Queen of the Cow Towns."

@@ -14,6 +14,10 @@ snippet: Hanseatic Weser city with a UNESCO Rathaus and Roland statue anchoring 
   historic Marktplatz
 title: Bremen
 type: location
+heritage: 6.3
+vibrancy: 4.9
+nature: 3.7
+off_the_beaten_track: 1.6
 ---
 
 Bremen is one of Germany's oldest Hanseatic cities, set on the Weser River about 60 km from the North Sea. The Altstadt survived the Second World War better than many comparable German cities, and the area around the [Marktplatz](/europe/germany/bremen/bremen_roland) — with the [Renaissance Rathaus](/europe/germany/bremen/rathaus), the [Gothic Dom](/europe/germany/bremen/dom_st_petri), and the [Roland statue](/europe/germany/bremen/bremen_roland) — is arguably the finest medieval market square in northern Germany. Both the Rathaus and Roland are UNESCO World Heritage Sites.

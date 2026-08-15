@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Warren,_New_Hampshire
 title: Warren
 type: location
+heritage: 3.1
+vibrancy: 2.2
+nature: 5.0
+off_the_beaten_track: 2.4
 ---
 
 Warren is a small White Mountains town at the foot of Mt Moosilauke on the western edge of the range. The [Appalachian Trail](/northamerica/unitedstates/westvirginia/harpersferrytheeasternpanhandle/appalachian_trail) passes through, and snowmelt from Moosilauke feeds the Baker River, which winds through town and offers a string of good swimming holes in summer. In winter, Corridor 5 snowmobile trail brings riders through on their way north toward the Canadian border, and ATV traffic follows in the warmer months.

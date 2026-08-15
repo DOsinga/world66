@@ -17,6 +17,10 @@ image: molene.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Paysage_(%C3%8Ele-Mol%C3%A8ne)_(2).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Gzen92
+heritage: 4.4
+vibrancy: 3.2
+nature: 6.5
+off_the_beaten_track: 4.2
 ---
 
 Molène is a speck of inhabited land in the Iroise Sea, west of Brest and Le Conquet. The island is small enough to walk around without thinking about transport, and exposed enough that the Atlantic always feels close: reefs, low stone houses, sea birds, and boats threading through the archipelago.

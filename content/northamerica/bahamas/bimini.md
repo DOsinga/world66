@@ -10,6 +10,10 @@ snippet: Western Bahamas island chain near Miami, shaped by big-game fishing, bl
   holes, and Alice Town's harbour life.
 title: Bimini
 type: location
+heritage: 3.4
+vibrancy: 5.0
+nature: 7.2
+off_the_beaten_track: 4.0
 ---
 
 Bimini is the westernmost district of the [Bahamas](/northamerica/bahamas), a chain of low-lying islands just 80 kilometres east of Miami. It is famous for [big-game fishing](/northamerica/bahamas/bimini/big_game_fishing) — Ernest Hemingway spent long summers here in the 1930s, and the marlin and tuna fishing remains world-class — but the islands have a relaxed, end-of-the-road feel that goes beyond the sportfishing crowd.

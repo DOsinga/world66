@@ -18,6 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Kaole
 title: Bagamoyo
 type: location
+heritage: 4.9
+vibrancy: 3.0
+nature: 4.6
+off_the_beaten_track: 3.8
 ---
 
 Bagamoyo is a historic coastal town about 75 km north of [Dar es Salaam](/africa/tanzania/daressalaam). Founded in the late 1700s by families related to the ruler of [Oman](/asia/oman), it grew into one of the most important towns on the East African coast during the 19th century as the terminus of the slave and ivory trade route from Lake Tanganyika. The name itself — Bagamoyo, "lay down your heart" in Swahili — is said to be what enslaved people muttered as they were marched onto the beach to be shipped across to [Zanzibar](/africa/tanzania/zanzibar).

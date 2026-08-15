@@ -6,6 +6,10 @@ score: 5.5
 snippet: Irish pilgrimage town centred on the Marian shrine at Knock.
 title: Sights in Knock
 type: location
+heritage: 7.9
+vibrancy: 3.0
+nature: 4.1
+off_the_beaten_track: 3.1
 ---
 
 Sights in Knock around Ireland's National Marian Shrine.

@@ -27,6 +27,10 @@ tip: Hire a bike on your first full day. Every neighbourhood is within 20 minute
   even expensive locks get cut.
 title: Amsterdam
 type: location
+heritage: 6.7
+vibrancy: 9.6
+nature: 3.1
+off_the_beaten_track: 0.4
 ---
 
 Amsterdam is one of the most walkable cities in Europe, and the canal ring at its centre is genuinely as beautiful as advertised. Seventeen canals, 1,200 bridges, and rows of narrow gabled houses built during the 17th-century Golden Age when this was the wealthiest city on earth — it adds up to a place that rewards slow wandering more than any itinerary can capture.

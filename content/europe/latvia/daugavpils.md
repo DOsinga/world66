@@ -10,6 +10,10 @@ score: 6.82
 loc_type: city
 snippet: Latvia's second-largest city, centred on a vast 19th-century fortress and
   the Mark Rothko Art Centre.
+heritage: 5.3
+vibrancy: 2.8
+nature: 3.3
+off_the_beaten_track: 2.5
 ---
 
 Daugavpils is Latvia's second-largest city, sitting in the southeastern corner of the country near the borders with Lithuania, Belarus, and Russia. It's a predominantly Russian-speaking city — a legacy of Soviet-era settlement — and feels markedly different from Riga: less polished, more post-industrial, with a pace and atmosphere of its own.

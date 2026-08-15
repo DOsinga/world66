@@ -14,6 +14,10 @@ snippet: Historic Polish university city where Cathedral Island origins meet a c
   Old Market Square.
 title: Poznan
 type: location
+heritage: 7.2
+vibrancy: 4.5
+nature: 2.6
+off_the_beaten_track: 1.7
 ---
 
 Poznan is one of Poland's oldest and most important cities, the birthplace of the Polish nation and a place where history and a youthful university energy coexist in a way that feels entirely natural. The [Old Market Square](/europe/poland/poznan/old_market_square), one of the largest in Europe, is ringed by colourful merchant houses and anchored by the Renaissance Town Hall, where every day at noon two mechanical goats butt heads from the clock tower. It is worth timing your visit for.

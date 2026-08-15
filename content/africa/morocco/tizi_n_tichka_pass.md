@@ -11,6 +11,10 @@ image: tizi_n_tichka_pass.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Top_of_Tizi_n%27Tichka_pass,_High_Atlas_mountains_-_Flickr_-_gailhampshire.jpg
 image_license: CC BY 2.0
 image_attribution: gailhampshire from Cradley, Malvern, U.K
+heritage: 2.3
+vibrancy: 1.3
+nature: 6.8
+off_the_beaten_track: 4.8
 ---
 
 The Tizi n'Tichka, at 2260 metres, is the highest paved road pass in North Africa and the main link between [Marrakesh](/africa/morocco/marrakesh) and the desert south. The road leaves the plain near [Ait Ourir](/africa/morocco/aitourir) and begins its real climb almost at once — switchback after switchback through walnut groves, then bare red rock, then snowfields in winter. The drive from Ait Ourir to the summit takes about an hour and a half if you don't stop, but you will want to stop, often, at the laybys where vendors sell rough amethyst and fossils and the view drops away across ridge after ridge of mountain.

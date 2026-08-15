@@ -14,6 +14,10 @@ title: Mostar
 snippet: Herzegovinian city on the Neretva, defined by Ottoman stone lanes and the
   rebuilt Stari Most.
 type: location
+heritage: 8.3
+vibrancy: 4.1
+nature: 5.0
+off_the_beaten_track: 3.7
 ---
 
 Mostar is the largest city in Herzegovina and one of the most striking in the Balkans. The old town is built along the emerald-green Neretva River, its Ottoman-era stone houses and mosques climbing the steep banks on either side. At its heart is the [Stari Most](/europe/bosniaandherzegovina/mostar/stari_most), the Old Bridge — a single-arch stone span originally built in 1566 by the Ottoman architect Mimar Hayruddin, destroyed by shelling in 1993 during the Bosnian War, and painstakingly rebuilt and reopened in 2004. The bridge and the old town around it are a UNESCO World Heritage Site.

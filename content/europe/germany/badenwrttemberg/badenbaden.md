@@ -14,6 +14,10 @@ snippet: Black Forest spa town with Roman hot springs, grand Kurhaus, casino, an
   Lichtentaler Allee promenade.
 title: Baden-Baden
 type: location
+heritage: 5.7
+vibrancy: 3.5
+nature: 5.9
+off_the_beaten_track: 1.7
 ---
 
 Baden-Baden is one of Europe's grand spa towns, built on a series of hills at the northern edge of the Black Forest in southwestern [Germany](/europe/germany). The Romans discovered the hot springs here two thousand years ago, and the town has been drawing visitors ever since — Russian aristocrats, European royalty, and writers from Dostoevsky to Mark Twain all came to take the waters.

@@ -14,6 +14,10 @@ snippet: Small Zealand town below the Goose Tower, last remnant of a major medie
   royal fortress.
 title: Vordingborg
 type: location
+heritage: 5.5
+vibrancy: 2.1
+nature: 3.3
+off_the_beaten_track: 2.2
 ---
 
 Vordingborg is a small historic town on the southern tip of Zealand, looking across to the island of Farø and the Storstrøm Bridge. The town's most distinctive feature is the [Goose Tower (Gåsetårnet)](/europe/denmark/vordingborg/goose_tower), the last standing tower of the medieval Vordingborg Castle, which was once one of the most powerful fortresses in medieval Scandinavia — Valdemar Atterdag used it as his main royal residence in the 14th century. The [Denmark's Borgcenter](/europe/denmark/vordingborg/denmarks_borgcenter) museum, built around the castle ruins, gives good context to the whole period. A free [botanical garden](/europe/denmark/vordingborg/vordingborg_botanical_garden) occupies the old castle grounds alongside the ruins.

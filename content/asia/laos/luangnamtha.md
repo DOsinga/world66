@@ -17,6 +17,10 @@ type: location
 score: 7.77
 snippet: Northern Lao mountain town beside Nam Ha forests and ethnic trekking routes
   near the Chinese border.
+heritage: 4.4
+vibrancy: 1.3
+nature: 7.7
+off_the_beaten_track: 6.8
 ---
 
 Luang Namtha is the capital of Laos's northernmost province, sitting at 551 metres in a valley surrounded by forested mountains near the Chinese and Myanmar borders. The town is modest — a central market, a handful of guesthouses, a long main street — but it serves as the gateway to the Nam Ha National Protected Area, one of the most significant ecotourism destinations in Southeast Asia.

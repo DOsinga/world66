@@ -7,6 +7,10 @@ snippet: Bulgarian mountain city below the Vratsa Balkan, gateway to limestone g
   and climbing routes.
 title: Vratsa
 type: location
+heritage: 4.9
+vibrancy: 2.7
+nature: 3.6
+off_the_beaten_track: 4.0
 ---
 
 Vratsa is a Bulgarian city of around 60,000 people tucked against the foothills of the Vratsa Balkan, a steep limestone range that rises dramatically behind the city centre. It sits in northwestern Bulgaria, about 110 kilometres north of Sofia on the road toward Vidin and the Danube. The mountain backdrop is not decorative — it is the reason most visitors come here.

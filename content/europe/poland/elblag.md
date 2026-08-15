@@ -16,6 +16,10 @@ image: elblag.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Elbl%C4%85g_-_Stare_Miasto.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Paweł Sutkowski
+heritage: 5.4
+vibrancy: 3.0
+nature: 3.9
+off_the_beaten_track: 1.9
 ---
 
 Elbląg sits near the Vistula Lagoon between [Gdańsk](/europe/poland/gdansk), Malbork, and the lakes of Warmia-Masuria. It is old by Polish standards, with a Hanseatic trading past, but the centre tells a more complicated story: the Old Town was badly destroyed in 1945 and has been rebuilt in a careful, modern version of brick Gothic and merchant-town streets.

@@ -10,6 +10,10 @@ snippet: Tiny Lakshadweep capital island ringed by lagoons, mosques, and carved 
   details.
 title: Kavaratti
 type: location
+heritage: 3.0
+vibrancy: 1.2
+nature: 7.9
+off_the_beaten_track: 7.0
 ---
 
 Kavaratti is the administrative capital of [Lakshadweep](/asia/india/lakshadweep), India's smallest union territory -- a scattering of coral islands in the Arabian Sea about 400 km off the Kerala coast. The island is small enough to walk across in an hour, fringed by white sand and shallow turquoise [lagoons](/asia/india/lakshadweep/kavaratti/kavaratti_lagoon).

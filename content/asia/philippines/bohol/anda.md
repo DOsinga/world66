@@ -14,6 +14,10 @@ image: anda.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Andabeach.jpg
 image_license: CC BY 2.5
 image_attribution: pinay06
+heritage: 1.9
+vibrancy: 2.4
+nature: 5.9
+off_the_beaten_track: 3.8
 ---
 
 Anda sits on the quieter eastern side of [Bohol](/asia/philippines/bohol), well away from the busier Panglao-Tagbilaran circuit. It is a small coastal town, but the beach is a real prize: pale sand, clear water, and a simple village setting rather than a strip of large resorts.

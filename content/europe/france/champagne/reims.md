@@ -16,6 +16,10 @@ snippet: Champagne city where French kings were crowned and chalk tunnels store 
 title: Reims
 type: location
 image_attribution: Adam Jones
+heritage: 8.5
+vibrancy: 5.4
+nature: 2.9
+off_the_beaten_track: 1.9
 ---
 
 Reims is the principal city of the Champagne region and one of the most important historic cities in France. For a thousand years — from Clovis in 496 to Charles X in 1825 — it was the coronation city of French kings, and the Gothic cathedral built to mark that tradition is among the greatest in Europe. It is also the centre of the champagne industry: beneath the city, more than 250 kilometres of chalk tunnels (crayères) were dug by the Romans and later adopted by champagne houses to store their bottles. Tours and tastings are available at most of the major houses.

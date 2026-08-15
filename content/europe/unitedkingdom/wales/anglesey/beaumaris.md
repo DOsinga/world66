@@ -13,6 +13,10 @@ snippet: Welsh seaside town on the Menai Strait, anchored by Edward I's unfinish
   concentric castle.
 title: Beaumaris
 type: location
+heritage: 7.8
+vibrancy: 2.7
+nature: 5.9
+off_the_beaten_track: 2.5
 ---
 
 Beaumaris is a handsome little town on the eastern shore of [Anglesey](/europe/unitedkingdom/wales/anglesey), facing the [Menai Strait](/europe/unitedkingdom/wales/anglesey/beaumaris/menai_strait) and the mountains of Snowdonia beyond. Its crowning glory is [Beaumaris Castle](/europe/unitedkingdom/wales/anglesey/beaumaris/beaumaris_castle), the last and largest of the castles built by Edward I of England to subdue Wales in the late thirteenth century. Though never completed, it is considered the most technically perfect example of concentric castle design in Britain and is a UNESCO World Heritage Site.

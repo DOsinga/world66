@@ -3,12 +3,17 @@ latitude: -0.5908
 loc_type: feature
 longitude: -91.0228
 score: 9.0
-snippet: Largest Galapagos island, with active volcanoes, tortoises, lava tunnels, and quiet Puerto Villamil.
+snippet: Largest Galapagos island, with active volcanoes, tortoises, lava tunnels,
+  and quiet Puerto Villamil.
 sources:
-  - https://en.wikivoyage.org/wiki/Isabela_(Ecuador)
-  - https://en.wikipedia.org/wiki/Isabela_Island_(Gal%C3%A1pagos)
+- https://en.wikivoyage.org/wiki/Isabela_(Ecuador)
+- https://en.wikipedia.org/wiki/Isabela_Island_(Gal%C3%A1pagos)
 title: Isabela
 type: location
+heritage: 1.7
+vibrancy: 5.3
+nature: 5.9
+off_the_beaten_track: 4.3
 ---
 
 Isabela is the largest island in the Galapagos, bigger than the rest of the archipelago put together. It feels less polished than Santa Cruz and less official than San Cristobal: the main settlement, Puerto Villamil, is still a sandy, low-rise beach town where sea lions, marine iguanas and travellers share the same slow rhythm.

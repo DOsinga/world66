@@ -14,6 +14,10 @@ image: bastrop.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bastrop_tx_city_hall_2014.jpg
 image_license: CC BY 4.0
 image_attribution: Larry D. Moore
+heritage: 3.6
+vibrancy: 2.5
+nature: 5.1
+off_the_beaten_track: 3.3
 ---
 
 Bastrop sits about 30 miles east of [Austin](/northamerica/unitedstates/texas/austin), where the Colorado River bends past an old Texas town square and an isolated forest of loblolly pines. Those pines are the reason to pay attention. The "Lost Pines" are separated by more than a hundred miles from the pine forests of East Texas, giving Bastrop a landscape that feels slightly misplaced in the best way.

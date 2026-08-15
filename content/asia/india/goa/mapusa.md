@@ -9,6 +9,10 @@ snippet: North Goa market town and administrative hub, best known for its busy F
   Market.
 title: Mapusa
 type: location
+heritage: 7.3
+vibrancy: 6.0
+nature: 5.7
+off_the_beaten_track: 2.1
 ---
 
 Mapusa is the administrative headquarters of North Goa and the main market town for the northern part of the state. It doesn't have the beach-resort feel of the coastal villages, but it is one of the most practical towns in Goa for getting things done — buses, pharmacies, banks, and supplies are all here.

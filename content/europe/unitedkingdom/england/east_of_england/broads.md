@@ -13,6 +13,10 @@ image: broads.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2014_Fields_Swaledale_Gunnerside.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Kreuzschnabel
+heritage: 4.3
+vibrancy: 2.7
+nature: 4.2
+off_the_beaten_track: 1.6
 ---
 
 The Norfolk and Suffolk Broads form England’s largest protected wetland — over 300 km of navigable waterways winding through reed beds, grazing marshes, and ancient woodland. The area has status equivalent to a National Park, managed by the Broads Authority, though it feels nothing like one: this is flat, quiet, watery country where the horizon is always wide and the light is always changing.

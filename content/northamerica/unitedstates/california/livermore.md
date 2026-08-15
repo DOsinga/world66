@@ -14,6 +14,10 @@ snippet: Bay Area valley city where old California wineries sit beside major fed
   research labs.
 title: Livermore
 type: location
+heritage: 1.9
+vibrancy: 2.5
+nature: 2.6
+off_the_beaten_track: 1.2
 ---
 
 Livermore sits at the eastern edge of the San Francisco Bay Area, in a sun-baked valley that feels a world away from the fog and tech campuses to the west. It is best known for two things: wine and science. The [Livermore Valley](/northamerica/unitedstates/california/livermore/livermore_valley_wine) is one of California's oldest wine regions, with dozens of wineries open for tastings along Tesla Road and Mines Road — anchored by [Wente](/northamerica/unitedstates/california/livermore/wente_vineyards) and [Concannon](/northamerica/unitedstates/california/livermore/concannon_vineyard), both founded in 1883. Less crowded and less expensive than Napa.

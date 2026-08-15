@@ -10,6 +10,10 @@ snippet: Sacramento Valley college city anchored by Bidwell Park and Sierra Neva
   Brewing Company
 title: Chico
 type: location
+heritage: 3.0
+vibrancy: 3.4
+nature: 6.6
+off_the_beaten_track: 4.2
 ---
 
 Chico is a mid-sized city in the Sacramento Valley at the foot of the Sierra Nevada foothills, about 90 miles north of Sacramento. It is best known as a college town — California State University, Chico anchors the [downtown](/northamerica/unitedstates/california/shastacascade/chico/downtown_chico) — which gives the city an unpretentious energy and a lively bar and restaurant scene that belies its size.

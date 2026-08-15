@@ -14,6 +14,10 @@ snippet: Baltic port city in Poland's Tri-City, built in the 1920s around modern
   streets and a working harbour.
 title: Gdynia
 type: location
+heritage: 4.3
+vibrancy: 4.3
+nature: 4.3
+off_the_beaten_track: 1.1
 ---
 
 Gdynia is the youngest of the Tri-City trio — together with [Gdańsk](/europe/poland/gdansk) and [Sopot](/europe/poland/sopot), it forms a continuous urban strip along the Bay of Gdańsk on Poland's Baltic coast. While Gdańsk has medieval streets and Sopot has its seaside promenade, Gdynia's identity is rooted in the 20th century. The city was built almost from scratch in the 1920s after Poland regained independence and needed its own port. The result is a city with a striking collection of [modernist architecture](/europe/poland/gdynia/swietojanska) and a harbour that still feels like the engine of the place.

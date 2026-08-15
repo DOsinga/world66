@@ -6,15 +6,20 @@ latitude: 35.9833
 longitude: 126.7167
 wikidata: Q42074
 score: 6.8
-snippet: West-coast Korean port city with rare Japanese-colonial architecture and island beaches offshore.
+snippet: West-coast Korean port city with rare Japanese-colonial architecture and
+  island beaches offshore.
 image: gunsan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Dongguksa.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Minseong Kim
 sources:
-  - https://en.wikivoyage.org/wiki/Gunsan
-  - https://en.wikipedia.org/wiki/Gunsan
-  - https://www.wikidata.org/wiki/Q42074
+- https://en.wikivoyage.org/wiki/Gunsan
+- https://en.wikipedia.org/wiki/Gunsan
+- https://www.wikidata.org/wiki/Q42074
+heritage: 2.2
+vibrancy: 2.0
+nature: 2.4
+off_the_beaten_track: 1.7
 ---
 
 Gunsan is a west-coast port in North Jeolla, about an hour from [Jeonju](/asia/southkorea/chonju). It is not pretty in the usual Korean city way, but it has one of the country's clearest collections of early-20th-century colonial buildings: old banks, warehouses, a Japanese-style temple, and streets that still carry the mood of a trading port.

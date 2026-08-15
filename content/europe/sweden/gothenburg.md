@@ -16,6 +16,10 @@ title: Gothenburg
 snippet: Sweden's canal-laced second city, shaped by Dutch planning, maritime trade,
   and a working harbour
 type: location
+heritage: 5.5
+vibrancy: 6.0
+nature: 4.9
+off_the_beaten_track: 1.6
 ---
 
 Gothenburg is Sweden's second city and has a character quite different from [Stockholm](/europe/sweden/stockholm). Founded in 1621 and built by Dutch immigrants, it still has gabled houses and an Amsterdam-style canal around the old centre. The harbour -- Sweden's only one that does not freeze in winter -- remains central to the city's identity and atmosphere.

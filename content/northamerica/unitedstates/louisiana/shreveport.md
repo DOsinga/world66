@@ -14,6 +14,10 @@ title: Shreveport
 type: location
 snippet: Red River city in northwest Louisiana, tied to steamboats, music halls, roses,
   and riverboat casinos.
+heritage: 3.2
+vibrancy: 5.2
+nature: 3.4
+off_the_beaten_track: 1.4
 ---
 
 Shreveport sits on the Red River in the northwest corner of Louisiana, paired with Bossier City on the opposite bank. Together they form the cultural and commercial hub of the Ark-La-Tex region, where Louisiana, Arkansas, and Texas meet.

@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Etosha_National_Park
 title: Etosha National Park
 type: location
+heritage: 1.2
+vibrancy: 0.6
+nature: 7.5
+off_the_beaten_track: 4.9
 ---
 
 Etosha is one of Africa's great wildlife parks, and arguably the easiest on the continent in which to see large animals. The entire park centres on the Etosha Pan — a vast, flat saltpan covering roughly 5,000 square kilometres — and the animals come to you. In the dry season (May through October), every waterhole becomes a theatre: elephants, rhinos, lions, cheetahs, zebras, and dozens of antelope species converge on the same muddy pools within sight of your car. You don't need to track anything. You wait, and Africa arrives.

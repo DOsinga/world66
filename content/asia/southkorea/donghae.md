@@ -15,6 +15,10 @@ image: donghae.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Samhwasa_and_murung_velley.jpg
 image_license: CC BY 2.0
 image_attribution: eimoberg
+heritage: 2.1
+vibrancy: 3.3
+nature: 6.2
+off_the_beaten_track: 1.7
 ---
 
 Donghae is a working port city on South Korea's east coast, where the Taebaek Mountains press close to the sea. It is not polished like a resort town, and that helps: fishing harbours, rail lines, beaches, caves and mountain valleys all sit within the same compact city.

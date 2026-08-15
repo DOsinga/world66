@@ -13,6 +13,10 @@ snippet: Mauritian fishing town on Grand Port Bay, with a lively waterfront and 
   of Grand Port history.
 title: Mahébourg
 type: location
+heritage: 3.9
+vibrancy: 4.3
+nature: 5.6
+off_the_beaten_track: 2.6
 ---
 
 Mahébourg is a fishing town on the southwest shore of Grand Port Bay, close to the international airport. It's one of the more authentic towns on the island — not heavily touristed, with a lively waterfront market and a real neighbourhood feel.

@@ -16,6 +16,10 @@ image: cherbourg_en_cotentin.jpg
 image_source: https://commons.wikimedia.org/wiki/File:La_Cit%C3%A9_de_la_Mer_Cherbourg_Tourisme.JPG
 image_license: CC BY-SA 4.0
 image_attribution: Office de Tourisme Cherbourg Cotentin
+heritage: 5.6
+vibrancy: 4.1
+nature: 4.9
+off_the_beaten_track: 1.9
 ---
 
 Cherbourg-en-Cotentin is the big port at the northern tip of the Cotentin peninsula, facing the Channel with its back to the Norman bocage. Ferries, naval works, Atlantic liners, and submarine stories have all left their mark here, so the city feels more maritime than picturesque.

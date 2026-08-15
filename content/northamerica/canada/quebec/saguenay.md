@@ -18,6 +18,10 @@ image: saguenay.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cap_Trinit%C3%A9,_Saguenay_(Qu%C3%A9bec).jpg
 image_license: Public domain
 image_attribution: Unknown author
+heritage: 4.2
+vibrancy: 3.4
+nature: 6.2
+off_the_beaten_track: 3.7
 ---
 
 Saguenay is the main city of the Saguenay-Lac-Saint-Jean region, formed from Chicoutimi, Jonquiere, La Baie, and several smaller communities along the Saguenay River. It is not a postcard town; it is a spread-out northern Quebec city with working districts, hydroelectric history, and a dramatic fjord close enough to shape the way the place feels.

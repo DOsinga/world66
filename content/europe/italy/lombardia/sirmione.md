@@ -17,6 +17,10 @@ tags:
 - lake_garda
 title: Sirmione
 type: location
+heritage: 6.2
+vibrancy: 4.9
+nature: 6.3
+off_the_beaten_track: 1.5
 ---
 
 Sirmione sits on a narrow finger of land that juts three kilometres into Lake Garda from its southern shore. The old town is almost entirely surrounded by water, approached through the gates of a 13th-century Scaligero castle — and for most of the year it is crowded with visitors who've figured out what a good thing looks like. That's fair. The place is genuinely beautiful.

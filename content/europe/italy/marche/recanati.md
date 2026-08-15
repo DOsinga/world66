@@ -14,6 +14,10 @@ snippet: Marche hilltop town known as the birthplace of poet Giacomo Leopardi an
   tenor Beniamino Gigli.
 title: Recanati
 type: location
+heritage: 5.7
+vibrancy: 3.5
+nature: 3.9
+off_the_beaten_track: 4.9
 ---
 
 Recanati is a hilltop town in the Marche region of central Italy, overlooking the Adriatic coast from a ridge above the province of Macerata. It is best known as the birthplace of Giacomo Leopardi (1798–1837), one of the greatest Italian poets, whose brooding verse on mortality, infinity, and the indifference of nature made him a towering figure in European Romanticism. The house where he was born and spent much of his melancholy life is now a museum, with his extraordinary private library of 20,000 volumes preserved in the rooms where he read and wrote by candlelight.

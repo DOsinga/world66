@@ -14,6 +14,10 @@ snippet: Southern Palau island marked by WWII battlefields, jungle ruins, and on
   of the Pacific War's hardest fights.
 title: Peleliu
 type: location
+heritage: 3.6
+vibrancy: 0.7
+nature: 7.5
+off_the_beaten_track: 7.3
 ---
 
 Peleliu is a small island in the southern part of Palau, best known for one of the most brutal battles of the Pacific War. In September 1944, US Marines and Army troops fought a month-long battle against a deeply entrenched Japanese garrison. The battle cost over 10,000 Allied casualties and nearly the entire Japanese force of 11,000 men. The island remains one of the most poignant WWII battlefield sites in the Pacific.

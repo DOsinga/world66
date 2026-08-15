@@ -10,6 +10,10 @@ snippet: Southwestern Haitian port known as the city of poets, with remote Grand
   beaches and green hills.
 title: Jérémie
 type: location
+heritage: 4.0
+vibrancy: 2.9
+nature: 5.8
+off_the_beaten_track: 6.4
 ---
 
 Jérémie is the capital of the Grand'Anse department on Haiti's southwestern peninsula, known as the city of poets for the unusual number of writers and intellectuals it has produced. The area around Jérémie has some of Haiti's most beautiful and remote coastline, with excellent beaches and lush hillsides that receive more rainfall than the rest of the country.

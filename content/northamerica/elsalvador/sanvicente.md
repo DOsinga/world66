@@ -16,6 +16,10 @@ sources:
 - https://elsalvador.travel/destination/apastepeque-lagoon/en/
 title: San Vicente
 type: location
+heritage: 3.7
+vibrancy: 3.6
+nature: 5.5
+off_the_beaten_track: 3.7
 ---
 
 San Vicente is a central Salvadoran city that most travellers pass on the highway without stopping. That is a shame, because it has one of the country's most distinctive town centres: the white [Torre Vicentina](/northamerica/elsalvador/sanvicente/torre_vicentina) standing beside the cathedral, with [Volcán San Vicente](/northamerica/elsalvador/sanvicente/volcan_san_vicente) rising to the south.

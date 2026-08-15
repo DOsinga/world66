@@ -26,6 +26,10 @@ tip: Chicago is the birthplace of the skyscraper, and the best way to grasp it i
   hot dog (never with ketchup).
 title: Chicago
 type: location
+heritage: 8.9
+vibrancy: 9.1
+nature: 4.4
+off_the_beaten_track: 0.9
 ---
 
 Chicago is one of the great American cities, and unlike New York or Los Angeles, it still feels like a surprise to many visitors. The skyline alone is worth the trip -- this is where the skyscraper was invented, and the downtown Loop remains an open-air museum of architectural ambition from the 1880s to the present day.

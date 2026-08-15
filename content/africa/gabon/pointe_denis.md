@@ -14,6 +14,10 @@ image_attribution: 'U.S. Department of Defense Current Photos
 
 
   Staff S'
+heritage: 1.1
+vibrancy: 1.2
+nature: 7.8
+off_the_beaten_track: 7.0
 ---
 
 Pointe Denis is the long sandy spit that reaches out across the Gabon Estuary from Libreville, and it is the city's easiest and most popular escape. The crossing takes around thirty minutes by speedboat or pirogue from the city port, and on the far side the capital simply dissolves: the estuary-facing shore is calm and warm for swimming, while the Atlantic side is rougher and wilder. A handful of low-key beach lodges and restaurants are scattered along the spit, busy at weekends and very quiet midweek.

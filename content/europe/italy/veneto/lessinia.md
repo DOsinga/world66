@@ -14,6 +14,10 @@ snippet: Limestone plateau north of Verona, where Valpolicella vineyards give wa
   to alpine pastures and fossil beds
 title: Lessinia
 type: location
+heritage: 4.8
+vibrancy: 1.7
+nature: 6.7
+off_the_beaten_track: 4.1
 ---
 
 Lessinia is the mountainous area immediately north of [Verona](/europe/italy/veneto/verona), a limestone plateau cut by deep valleys that slopes gradually down toward the Po plain. It is part of the Veronese Pre-Alps and includes the Lessinia Regional Natural Park.

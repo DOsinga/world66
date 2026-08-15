@@ -9,6 +9,10 @@ snippet: Forest-and-lake isthmus between the Gulf of Finland and Lake Ladoga, hi
   contested with Finland
 title: Karelian Isthmus
 type: location
+heritage: 4.0
+vibrancy: 1.6
+nature: 3.9
+off_the_beaten_track: 4.0
 ---
 
 The Karelian Isthmus is the strip of land between the Gulf of Finland and Lake Ladoga, now part of [Russia](/europe/russia) but historically Finnish — the border has shifted back and forth through centuries of war. The Finnish rallying cry "Karjalan takaisin!" (Karelia back!) still echoes in Finnish culture, though the territory was ceded to the Soviet Union after the Winter War of 1939–40.

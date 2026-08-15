@@ -14,6 +14,10 @@ image: fort_payne.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Fort_Payne,_AL,_USA_-_panoramio_(1).jpg
 image_license: CC BY-SA 3.0
 image_attribution: Rick Shu
+heritage: 2.7
+vibrancy: 2.3
+nature: 4.8
+off_the_beaten_track: 2.3
 ---
 
 Fort Payne sits in the northeastern corner of Alabama and is the gateway to [Little River Canyon National Preserve](/northamerica/unitedstates/alabama/fort_payne/little_river_canyon). The Little River flows for most of its length atop Lookout Mountain before dropping into a dramatic canyon system — forested uplands, waterfalls, sandstone cliffs, and boulder-strewn pools that are spectacular in any season. The canyon rim drive offers overlooks of the gorge, and trails lead down to swimming holes and the base of DeSoto Falls.

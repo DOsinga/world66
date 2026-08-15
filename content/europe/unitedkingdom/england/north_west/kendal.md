@@ -14,6 +14,10 @@ image: kendal.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kendal_Mint_Cake.jpeg
 image_license: CC0
 image_attribution: Cnbrb
+heritage: 5.0
+vibrancy: 3.1
+nature: 7.0
+off_the_beaten_track: 3.0
 ---
 
 Kendal used to be a major stopping point for traffic heading south to the [Lake District](/europe/unitedkingdom/england/lakedistrict). Now it is bypassed by a major dual carriageway and, being somewhat easier to navigate, can be enjoyed for its own sake.

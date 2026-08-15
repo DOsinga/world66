@@ -16,6 +16,10 @@ image_attribution: Gareth James
 score: 8.11
 snippet: Welsh Dee Valley town with canal aqueducts, a ruined hilltop castle, and
   riverside abbey ruins.
+heritage: 5.5
+vibrancy: 4.2
+nature: 6.1
+off_the_beaten_track: 2.9
 ---
 
 *Europe > United Kingdom > Wales > Llangollen*

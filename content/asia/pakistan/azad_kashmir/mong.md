@@ -9,6 +9,10 @@ score: 4.76
 snippet: Hillside Poonch town in Azad Kashmir, with valley views and a local war memorial.
 title: Mong
 type: location
+heritage: 0.8
+vibrancy: 1.3
+nature: 7.5
+off_the_beaten_track: 7.2
 ---
 
 Mong is a small town in Poonch District of Azad Kashmir, perched on a hillside with views across the surrounding valleys. The town is known locally for its war memorial (Yaadgar), which commemorates soldiers from the region, and serves as a market centre for the villages scattered through the hills around it.

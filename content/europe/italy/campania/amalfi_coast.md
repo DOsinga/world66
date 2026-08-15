@@ -12,6 +12,10 @@ image: amalfi_coast.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Amalfi_Coast_(Italy,_October_2020)_-_75_(50558355441).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Bruno Rijsman
+heritage: 5.7
+vibrancy: 5.7
+nature: 4.8
+off_the_beaten_track: 1.3
 ---
 
 The Amalfi Coast stretches about 50 kilometres along the southern side of the Sorrentine Peninsula, from Positano in the west to Vietri sul Mare in the east. The coastal road (SS163) is an experience in itself — carved into sheer cliffs with hairpin turns and views that make passengers forget about the driving.

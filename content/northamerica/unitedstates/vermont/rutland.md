@@ -14,6 +14,10 @@ snippet: Green Mountains city with marble-quarry history and practical access to
   Vermont skiing.
 title: Rutland
 type: location
+heritage: 4.0
+vibrancy: 4.3
+nature: 5.5
+off_the_beaten_track: 2.9
 ---
 
 Rutland is Vermont's third-largest city, set in a valley in the Green Mountains at the intersection of Routes 4 and 7. It built its prosperity on marble quarrying — the surrounding area contains some of the world's highest-quality marble deposits, used in the Lincoln Memorial and other landmark buildings — and later became a key railroad junction.

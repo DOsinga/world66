@@ -14,6 +14,10 @@ snippet: Southern Odisha commercial city known for Berhampuri Patta silk and the
   Yatra.
 title: Berhampur
 type: location
+heritage: 5.1
+vibrancy: 2.6
+nature: 3.0
+off_the_beaten_track: 3.0
 ---
 
 Berhampur (also called Brahmapur) is the largest city in southern Odisha and a major commercial centre. It greets visitors arriving from the south and serves as a gateway to several interesting destinations. The city is known for its [silk bazaars](/asia/india/orissa/berhampur/silk_bazaar), where the Berhampuri Patta variety with its distinctive temple-style border is highly prized, and for the biennial [Thakurani Yatra](/asia/india/orissa/berhampur/thakurani_temple) festival that turns the streets into a month-long fair.

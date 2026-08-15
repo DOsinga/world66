@@ -17,6 +17,10 @@ title: Manokwari
 type: location
 snippet: West Papua bay city backed by forested hills at the edge of the Bird's Head
   Peninsula.
+heritage: 5.0
+vibrancy: 1.1
+nature: 8.0
+off_the_beaten_track: 7.0
 ---
 
 Manokwari is the capital of West Papua province, set on a bay surrounded by forested hills at the northern edge of the Bird's Head Peninsula. It is a small, pleasant city that sees few tourists but rewards those who come.

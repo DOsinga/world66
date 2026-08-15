@@ -14,6 +14,10 @@ longitude: 14.5238
 score: 8.25
 title: Vittoriosa
 type: location
+heritage: 8.1
+vibrancy: 4.4
+nature: 4.5
+off_the_beaten_track: 2.5
 ---
 
 Vittoriosa, known locally as Birgu, sits on one of the two promontories extending toward [Valletta](/europe/malta/valletta) across the Grand Harbour. It is the second oldest town in Malta after Mdina, and the first seat of the Knights of St. John when they arrived in 1530. [Fort St. Angelo](/europe/malta/cottonera_or_three/vittoriosa/fort_st_angelo), at the tip of the peninsula, was the Knights' headquarters during the Great Siege of 1565 and remains the town's most commanding landmark.

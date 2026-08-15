@@ -16,6 +16,10 @@ image: coffin_bay.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Coffin_Bay_Channel_South_Australia.JPG
 image_license: CC BY 3.0
 image_attribution: Jack Stradling
+heritage: 4.3
+vibrancy: 2.8
+nature: 6.3
+off_the_beaten_track: 4.3
 ---
 
 Coffin Bay is a small Eyre Peninsula town with a big name in Australian oysters. It sits on sheltered water west of Port Lincoln, with fishing boats, oyster leases, pelicans, and low holiday houses giving it a slow coastal rhythm.

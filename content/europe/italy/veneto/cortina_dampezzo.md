@@ -17,6 +17,10 @@ tags:
 - dolomites
 title: Cortina d'Ampezzo
 type: location
+heritage: 2.5
+vibrancy: 5.1
+nature: 7.9
+off_the_beaten_track: 1.7
 ---
 
 Cortina d'Ampezzo sits in a broad alpine valley surrounded by the jagged peaks of the Dolomites, and it earns its title as the "Queen of the Dolomites." The town hosted the 1956 Winter Olympics, will co-host the 2026 Winter Olympics, and has been a playground for Italian aristocrats and European celebrities ever since. The setting is genuinely dramatic — the Tofane, Cristallo, and Faloria massifs ring the valley on all sides, and at sunset the pale rock glows pink and orange in the phenomenon the Ladins call enrosadira. Photographs never quite capture it.

@@ -14,6 +14,10 @@ snippet: Oklahoma city and Muscogee Nation capital centred on Creek history and 
   preserved council house.
 title: Okmulgee
 type: location
+heritage: 2.6
+vibrancy: 1.8
+nature: 2.1
+off_the_beaten_track: 1.9
 ---
 
 Okmulgee is the capital of the Muscogee (Creek) Nation, a distinction that gives this small city of about 13,000 people an outsized cultural significance. The [Creek Council House Museum](/northamerica/unitedstates/oklahoma/okmulgee/creek_council_house) downtown occupies the 1878 Creek national capitol building and traces the tribe's history from the Southeast through the Trail of Tears to Indian Territory. The Muscogee Nation's modern government complex is also located here, along with the [College of the Muscogee Nation](/northamerica/unitedstates/oklahoma/okmulgee/college_of_muscogee_nation) on the eastern edge of town.

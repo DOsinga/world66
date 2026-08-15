@@ -17,6 +17,10 @@ image: romo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:13-09-29-nordfriesisches-wattenmeer-RalfR-06.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Ralf Roletschek
+heritage: 2.1
+vibrancy: 1.7
+nature: 6.0
+off_the_beaten_track: 2.8
 ---
 
 Rømø is the southernmost of Denmark's Wadden Sea islands, tied to the mainland by a long causeway and facing the North Sea with an absurd amount of sand. The beaches are the reason most people come: hard, flat, and so wide that cars, horses, kites, beach sailors, and walkers can all seem lost in their own private weather system.

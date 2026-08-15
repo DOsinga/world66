@@ -18,6 +18,10 @@ tags:
 - paradisegulf
 title: Camogli
 type: location
+heritage: 4.2
+vibrancy: 5.3
+nature: 7.2
+off_the_beaten_track: 1.9
 ---
 
 Camogli is one of the most pleasant surprises on the Italian Riviera — a compact fishing village of tall, painted houses crammed together above a small [harbour](/europe/italy/liguria/camogli/camogli_harbour), tucked between the Portofino headland and the open Ligurian Sea. The houses are famously colourful, their trompe-l'oeil facades a tradition dating back centuries, and the whole town feels like it has been gently compressed into its narrow strip of coast. The [Castello della Dragonara](/europe/italy/liguria/camogli/castello_della_dragonara) anchors the scene from its rocky promontory above.

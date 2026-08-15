@@ -17,6 +17,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Aizawl_de_nuit.jpg
 image_license: CC BY 2.0
 image_attribution: Joe Fanai from Aizawl, India
 score: 6.36
+heritage: 5.9
+vibrancy: 5.8
+nature: 6.5
+off_the_beaten_track: 4.2
 ---
 
 Aizawl is a hill capital in the most literal sense: the city runs along a steep ridge, with houses clinging to slopes and views opening suddenly between lanes. It is the practical base for [Mizoram](/asia/india/mizoram), but it also gives the best first taste of Mizo life: church bells, tidy markets, traffic squeezing around impossible bends, and green hills in every direction.

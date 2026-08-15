@@ -14,6 +14,10 @@ snippet: Quiet Gujarat town with Bohra mansions, temple ruins, and traces of for
   regional grandeur
 title: Siddhpur
 type: location
+heritage: 5.4
+vibrancy: 3.5
+nature: 3.3
+off_the_beaten_track: 2.7
 ---
 
 Not popular with tourists, this quiet little town was once a capital of Gujarat. Its past grandeur is visible in the **Rudra Mahalaya**, now in ruins but once said to have been a seven-storey structure of stone and wood. The monument is not officially open, but you can usually walk inside with the guard's informal permission.

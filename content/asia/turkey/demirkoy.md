@@ -5,12 +5,17 @@ loc_type: city
 latitude: 41.8239
 longitude: 27.7646
 score: 6.7
-snippet: Forest-edge Thracian town near Ottoman ironworks, Dupnisa Cave, and İğneada wetlands.
+snippet: Forest-edge Thracian town near Ottoman ironworks, Dupnisa Cave, and İğneada
+  wetlands.
 wikidata: Q1023149
 sources:
-  - https://en.wikivoyage.org/wiki/Demirk%C3%B6y
-  - https://en.wikipedia.org/wiki/Demirk%C3%B6y%2C_K%C4%B1rklareli
-  - https://www.ktb.gov.tr/EN-99374/caves-of-kirklareli.html
+- https://en.wikivoyage.org/wiki/Demirk%C3%B6y
+- https://en.wikipedia.org/wiki/Demirk%C3%B6y%2C_K%C4%B1rklareli
+- https://www.ktb.gov.tr/EN-99374/caves-of-kirklareli.html
+heritage: 3.8
+vibrancy: 1.6
+nature: 3.2
+off_the_beaten_track: 4.4
 ---
 
 Demirköy is a small town in Turkish Thrace, backed by the wooded Strandzha mountains and close enough to the Black Sea wetlands at İğneada to make a varied day. The town itself is quiet, but the district has a strong identity: iron, forest, caves, and floodplain lakes.

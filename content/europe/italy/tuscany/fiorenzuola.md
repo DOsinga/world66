@@ -19,6 +19,10 @@ tags:
 - mugello
 title: Firenzuola
 type: location
+heritage: 4.7
+vibrancy: 2.1
+nature: 5.4
+off_the_beaten_track: 3.4
 ---
 
 Firenzuola is a small Apennine town on the northern edge of Tuscany, closer in spirit to mountain passes and stone quarries than to postcard Florence. The name means "little Florence", but do not come expecting Renaissance polish. Come for pietra serena, chestnut woods, wartime scars, and a colder, rougher Tuscan landscape.

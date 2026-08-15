@@ -7,6 +7,10 @@ snippet: Largest river swamp in the United States, a million-acre wilderness of 
   black water, and still-active swamp Cajun culture
 title: Atchafalaya Basin
 type: location
+heritage: 1.7
+vibrancy: 1.1
+nature: 6.8
+off_the_beaten_track: 4.9
 ---
 
 The Atchafalaya Basin is the largest river swamp in the United States — roughly a million acres of bald cypress, water tupelo, backwater lakes, and slow black channels spreading across south-central Louisiana between the Mississippi and the Gulf. It is one of the most biologically productive freshwater ecosystems in North America, and one of the last places where swamp Cajun culture remains genuinely alive rather than merely commemorated.

@@ -9,13 +9,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Fernie_downtown.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Holger Steinhaus
 score: 7.2
-snippet: Rocky Mountain coal town with a brick heritage centre and serious powder skiing above the Elk Valley.
+snippet: Rocky Mountain coal town with a brick heritage centre and serious powder
+  skiing above the Elk Valley.
 sources:
-  - https://en.wikivoyage.org/wiki/Fernie
-  - https://tourismfernie.com/
-  - https://ferniemuseum.com/fernies-historic-downtown/
-  - https://skifernie.com/discover-fernie/mountain-stats/
-  - https://www.islandlakelodge.com/hiking-trails
+- https://en.wikivoyage.org/wiki/Fernie
+- https://tourismfernie.com/
+- https://ferniemuseum.com/fernies-historic-downtown/
+- https://skifernie.com/discover-fernie/mountain-stats/
+- https://www.islandlakelodge.com/hiking-trails
+heritage: 1.9
+vibrancy: 1.7
+nature: 7.9
+off_the_beaten_track: 4.1
 ---
 
 Fernie sits in the Elk Valley of southeastern British Columbia, with the Three Sisters ridge rising above a compact brick downtown. It began as a coal town, burned almost completely in 1904 and again in 1908, then rebuilt in brick and stone. That accident of fire gives the centre much of its charm today: old bank buildings, the courthouse, the museum, and a main street that still feels like a working mountain town rather than a resort mall.

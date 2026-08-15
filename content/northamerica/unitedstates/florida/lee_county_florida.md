@@ -14,6 +14,10 @@ snippet: Southwest Florida Gulf Coast county, anchored by Fort Myers and the she
   beaches of Sanibel and Captiva.
 title: Lee County
 type: location
+heritage: 2.0
+vibrancy: 2.4
+nature: 3.8
+off_the_beaten_track: 1.8
 ---
 
 Lee County covers the southwest corner of Florida's Gulf Coast, anchored by Fort Myers and extending out to Sanibel and Captiva islands. It is less flashy than Miami and less theme-parked than Orlando, which is part of the appeal — this is where Floridians themselves come to fish, shell, and slow down.

@@ -15,6 +15,10 @@ image: maldon.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Maldon,_view_from_hill.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Scottius11
+heritage: 3.1
+vibrancy: 1.9
+nature: 5.2
+off_the_beaten_track: 2.9
 ---
 
 Maldon is a small goldfields town in central [Victoria](/australiaandpacific/australia/victoria), about 16km from Castlemaine and 40km from [Bendigo](/australiaandpacific/australia/victoria/bendigo). It is not a big place, but it has one of the most intact 19th-century townscapes in regional Australia: verandah-fronted shops, stone gutters, old hotels, and mining relics sitting close enough together to make the story easy to read on foot.

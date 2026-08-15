@@ -14,6 +14,10 @@ snippet: Wooden Swedish lake town where Lake Vättern opens into islands and Tiv
   forest.
 title: Askersund
 type: location
+heritage: 2.7
+vibrancy: 2.3
+nature: 4.8
+off_the_beaten_track: 1.9
 ---
 
 Askersund is a small wooden town at the northern tip of Lake Vättern in the province of Närke. It grew up around iron mining — nails and scythes were the local speciality — and the [old centre](/europe/sweden/askersund/wooden_town) still has the charm of painted timber houses and a handful of cafes along the [harbour](/europe/sweden/askersund/askersund_harbour).

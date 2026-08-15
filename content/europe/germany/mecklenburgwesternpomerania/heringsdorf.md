@@ -5,10 +5,15 @@ loc_type: city
 latitude: 53.9539
 longitude: 14.1689
 score: 7.3
-snippet: Baltic spa resort on Usedom, known for imperial villas, piers, and a long sandy beach.
+snippet: Baltic spa resort on Usedom, known for imperial villas, piers, and a long
+  sandy beach.
 sources:
-  - https://en.wikivoyage.org/wiki/Heringsdorf
-  - https://en.wikipedia.org/wiki/Heringsdorf
+- https://en.wikivoyage.org/wiki/Heringsdorf
+- https://en.wikipedia.org/wiki/Heringsdorf
+heritage: 3.9
+vibrancy: 4.7
+nature: 5.5
+off_the_beaten_track: 2.0
 ---
 
 Heringsdorf is the most polished of Usedom's old Kaiserbäder, the Baltic spa resorts where Berliners came for sea air, promenades, and villa architecture. It is really three resort districts in one: Bansin in the west, Heringsdorf in the centre, and Ahlbeck by the Polish border.

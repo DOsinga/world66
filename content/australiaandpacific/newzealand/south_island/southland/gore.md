@@ -17,6 +17,10 @@ image: gore.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gore_New_Zealand.JPG
 image_license: CC BY 2.5
 image_attribution: Mr Bungle
+heritage: 1.8
+vibrancy: 0.9
+nature: 8.0
+off_the_beaten_track: 4.5
 ---
 
 Gore sits on the Mataura River in eastern Southland, halfway between Dunedin and Invercargill on State Highway 1. It is a farming service town first, but it has two claims that give it more character than most small highway stops: Gore calls itself the world capital of brown trout fishing, and it is New Zealand's country music capital.

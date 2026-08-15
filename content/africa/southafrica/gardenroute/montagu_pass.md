@@ -11,6 +11,10 @@ image: montagu_pass.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Montagu_Pass_George_to_Oudtshoorn_._1847._Oldest,_unaltered_Pass_in_South_Africa._01.jpg
 image_license: CC BY-SA 3.0
 image_attribution: A3alb
+heritage: 4.0
+vibrancy: 1.7
+nature: 7.8
+off_the_beaten_track: 3.1
 ---
 
 Montagu Pass is the original mountain road over the [Outeniqua](/africa/southafrica/gardenroute/george) range, climbing out of [George](/africa/southafrica/gardenroute/george) into the Klein Karoo. Built by convict labour and opened in 1847 under the direction of engineer Andrew Bain — the same man responsible for several of the Western Cape's great mountain passes — it was for almost a century the main route over the mountains until the modern Outeniqua Pass replaced it in 1951. Today it survives as a preserved heritage route, a gravel road that almost no one is in a hurry to drive.

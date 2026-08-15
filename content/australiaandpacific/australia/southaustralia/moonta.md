@@ -17,6 +17,10 @@ image: moonta.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Hughes_Enginehouse,_Moonta_Mines,_Southwest_view_20230210_1.jpg
 image_license: CC BY-SA 4.0
 image_attribution: DXR
+heritage: 5.3
+vibrancy: 3.7
+nature: 4.6
+off_the_beaten_track: 4.2
 ---
 
 Moonta is the most interesting of the Copper Coast towns on South Australia's Yorke Peninsula. It grew fast after copper was found in the 1860s, drawing Cornish miners, Methodist chapels, engine houses, and a hard-working culture that still gives the town its nickname: "Australia's Little Cornwall."

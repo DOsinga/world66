@@ -14,6 +14,10 @@ snippet: Western Odisha town associated with Sambalpuri handloom weaving and the
   open-air Dhanu Jatra festival
 title: Bargarh
 type: location
+heritage: 4.0
+vibrancy: 2.7
+nature: 5.2
+off_the_beaten_track: 4.3
 ---
 
 Bargarh is a small district town in western Odisha (Orissa), on the national highway between Mumbai and Kolkata, and almost no one visits it. Two things give the town a claim on travellers' attention. The first is the Sambalpuri handloom — the ikat-dyed cotton and silk fabrics woven in the [villages around Bargarh](/asia/india/orissa/bargarh/barpali_weaving_villages) have been produced here for centuries and are among the finest in India. The second is [Dhanu Yatra](/asia/india/orissa/bargarh/dhanu_yatra), an eleven-day open-air theatre festival held every November or December that Guinness has recognised as the largest open-air theatrical performance in the world: the entire town becomes the set of a dramatisation of the life of Krishna and the defeat of the demon king Kansa, and the whole community takes part.

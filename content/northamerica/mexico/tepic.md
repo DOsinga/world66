@@ -3,14 +3,19 @@ latitude: 21.5083
 loc_type: city
 longitude: -104.8931
 score: 6.3
-snippet: Nayarit state capital with shaft-tomb ceramics, Huichol culture, and a green valley setting.
+snippet: Nayarit state capital with shaft-tomb ceramics, Huichol culture, and a green
+  valley setting.
 sources:
-  - https://en.wikivoyage.org/wiki/Tepic
-  - https://visitnayarit.travel/en/destinations/tepic-nayarit/
-  - https://sailingstonetravel.com/a-guide-to-tepic/
+- https://en.wikivoyage.org/wiki/Tepic
+- https://visitnayarit.travel/en/destinations/tepic-nayarit/
+- https://sailingstonetravel.com/a-guide-to-tepic/
 wikidata: Q207972
 title: Tepic
 type: location
+heritage: 5.0
+vibrancy: 3.0
+nature: 2.9
+off_the_beaten_track: 3.1
 ---
 
 Tepic is not one of Mexico's showy colonial cities, and it should not be sold as one. It is the capital of Nayarit, a workaday regional city in a green valley between the Sierra Madre Occidental and the Pacific coast. Most travelers pass through on the way to San Blas, Sayulita, or Puerto Vallarta.

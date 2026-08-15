@@ -25,6 +25,10 @@ tip: Split's old town is built inside a Roman emperor's retirement palace — pe
   the view.
 title: Split
 type: location
+heritage: 4.1
+vibrancy: 6.3
+nature: 5.7
+off_the_beaten_track: 1.7
 ---
 
 Split is Croatia's second city and the capital of the Dalmatian coast — a working port that doubles, almost incidentally, as one of the best-preserved Roman sites in Europe. The city has grown up inside and around the walls of [Diocletian's Palace](/europe/croatia/split/diocletians_palace), an enormous 3rd-century imperial retirement complex that is still fully inhabited. Around 3,000 people live inside the palace walls today; the rest of the city has spread along the coast and up the hills behind.

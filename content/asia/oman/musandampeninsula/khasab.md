@@ -13,6 +13,10 @@ snippet: Quiet Omani town on the Musandam Peninsula, base for dhow cruises throu
   limestone khors.
 title: Khasab
 type: location
+heritage: 9.3
+vibrancy: 2.5
+nature: 7.6
+off_the_beaten_track: 6.0
 ---
 
 Khasab is the main town of the Musandam Peninsula, Oman's dramatic northern exclave separated from the rest of the country by the United Arab Emirates. Often called the "Norway of Arabia," the Musandam coast is a series of deep fjord-like inlets — khors — flanked by sheer limestone cliffs that drop straight into the turquoise waters of the Strait of Hormuz.

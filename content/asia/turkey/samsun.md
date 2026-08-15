@@ -15,6 +15,10 @@ image: samsun.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Embankment_in_Samsun,_Turkey.jpg
 image_license: CC0
 image_attribution: Vsatinet
+heritage: 3.7
+vibrancy: 3.9
+nature: 4.3
+off_the_beaten_track: 2.5
 ---
 
 Samsun is Turkey's biggest city on the Black Sea, a long coastal port with trams, apartment blocks, sea air, and a very serious sense of republican history. Mustafa Kemal Ataturk landed here on 19 May 1919, and the city treats that moment not as a footnote but as its central identity.

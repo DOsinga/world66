@@ -10,6 +10,10 @@ snippet: Victorian-era Dominican port city with gingerbread houses, Fort San Fel
   and a seafront Malecón.
 title: Puerto Plata City
 type: location
+heritage: 4.3
+vibrancy: 6.2
+nature: 5.9
+off_the_beaten_track: 1.9
 ---
 
 Puerto Plata city is a Victorian-era port town that most resort visitors skip entirely — which is exactly why it's worth a half-day. The centre has genuine character: gingerbread wooden houses, a handsome central park with a gazebo, and a Malecón seafront promenade lined with restaurants and cafes. It feels like a real Dominican town, not a curated tourist experience.

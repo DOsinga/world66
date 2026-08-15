@@ -13,6 +13,10 @@ snippet: Metro Manila city between Makati and San Juan, dominated by malls, offi
   and condominium towers
 title: Mandaluyong
 type: location
+heritage: 2.9
+vibrancy: 3.2
+nature: 2.3
+off_the_beaten_track: 1.4
 ---
 
 Mandaluyong is one of the sixteen cities that make up Metro Manila, wedged between Makati and San Juan. Known locally as the "Tiger City of the Philippines," it has transformed over the past two decades from a largely residential area into a commercial hub dominated by shopping malls, BPO offices, and condominium towers. For most visitors, the main reason to come here is shopping, specifically at [SM Megamall](/asia/philippines/mandaluyong/sm_megamall) and [Shangri-La Plaza](/asia/philippines/mandaluyong/shangri_la_plaza), two of the largest malls in a country that takes its mall culture very seriously.

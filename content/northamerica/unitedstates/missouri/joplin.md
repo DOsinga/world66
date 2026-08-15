@@ -10,6 +10,10 @@ title: Joplin
 type: location
 snippet: Southwest Missouri city with mining-era architecture, Route 66 traces, and
   nearby Grand Falls.
+heritage: 1.5
+vibrancy: 2.1
+nature: 2.7
+off_the_beaten_track: 1.8
 ---
 
 Joplin sits in the far southwest corner of [Missouri](/northamerica/unitedstates/missouri), right where the state meets Kansas and Oklahoma. The city grew up on lead and zinc mining in the late nineteenth century, and traces of that boom era survive in the ornate [downtown buildings](/northamerica/unitedstates/missouri/joplin/joplin_downtown_historic_district) and the grand houses along Sergeant Avenue. [Route 66](/northamerica/unitedstates/missouri/joplin/route_66_murals) ran straight through town, and a stretch of the original road is still marked with murals and signage for those tracing the old highway.

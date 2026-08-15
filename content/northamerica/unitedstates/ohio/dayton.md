@@ -14,6 +14,10 @@ snippet: Ohio city central to aviation history, with Wright brothers sites and t
   National Museum of the United States Air Force.
 title: Dayton
 type: location
+heritage: 4.7
+vibrancy: 3.9
+nature: 3.1
+off_the_beaten_track: 1.6
 ---
 
 Dayton is the birthplace of aviation — Orville and Wilbur Wright built and tested their aircraft here, and the city has never stopped reminding visitors of that fact. The [National Museum of the United States Air Force](/northamerica/unitedstates/ohio/dayton/national_museum_of_the_us_air_force) at Wright-Patterson Air Force Base is the world's largest and oldest military aviation museum, with over 350 aircraft and missiles on display across four enormous hangars. It is free to enter and easily worth a full day.

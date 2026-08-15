@@ -14,6 +14,10 @@ image: gwangju.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gwangju,_South_Korea_-_2015_(DSC01577).jpg
 image_license: CC0
 image_attribution: 최광모
+heritage: 6.7
+vibrancy: 5.0
+nature: 3.0
+off_the_beaten_track: 1.6
 ---
 
 Gwangju is South Korea's city of conscience: proud, political, artistic, and very serious about food. It is the largest city in the Honam southwest, but it feels different from Seoul or Busan. The pace is easier, the streets are less frantic, and the local identity is unusually strong.

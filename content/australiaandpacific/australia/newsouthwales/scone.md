@@ -5,12 +5,17 @@ loc_type: city
 latitude: -32.05021
 longitude: 150.86846
 score: 6.9
-snippet: Upper Hunter horse town with equine culture, warbirds, and a smouldering mountain nearby.
+snippet: Upper Hunter horse town with equine culture, warbirds, and a smouldering
+  mountain nearby.
 wikidata: Q1026207
 sources:
-  - https://en.wikivoyage.org/wiki/Scone
-  - https://upperhuntercountry.com/towns/scone/
-  - https://www.visitnsw.com/destinations/hunter/upper-hunter/scone
+- https://en.wikivoyage.org/wiki/Scone
+- https://upperhuntercountry.com/towns/scone/
+- https://www.visitnsw.com/destinations/hunter/upper-hunter/scone
+heritage: 3.1
+vibrancy: 1.6
+nature: 5.6
+off_the_beaten_track: 4.0
 ---
 
 Scone is the Upper Hunter town that calls itself the Horse Capital of Australia, and for once the slogan is not empty. Thoroughbred studs, equine events, the Australian Stock Horse Society, and the annual horse festival give the place a sharper identity than most highway towns of its size.

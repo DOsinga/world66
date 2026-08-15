@@ -14,6 +14,10 @@ snippet: Orkney capital and harbour town centred on red-and-yellow St Magnus Cat
   and Norse history.
 title: Kirkwall
 type: location
+heritage: 5.9
+vibrancy: 4.3
+nature: 6.4
+off_the_beaten_track: 3.2
 ---
 
 Kirkwall is the capital of [Orkney](/europe/unitedkingdom/scotland/orkneys) and home to about ten thousand people — more than a third of the archipelago's entire population. It sits on a narrow neck of land on Mainland, the largest island, with a natural harbour that has made it a trading post since Norse times.

@@ -14,6 +14,10 @@ title: Bondoukou
 type: location
 snippet: Bondoukou is a historic trading town near Ghana, known for old mosques and
   masquerade traditions.
+heritage: 3.7
+vibrancy: 4.0
+nature: 5.0
+off_the_beaten_track: 5.3
 ---
 
 Bondoukou is one of the oldest trading towns in West Africa, sitting close to the Ghana border in the northeast of Côte d'Ivoire. It was a major crossroads on the trans-Saharan caravan routes and grew rich on kola nuts, gold, and cloth. That mercantile past is still visible in the town's architecture and in the makeup of its population — Dyula Muslim traders have been here for centuries, living alongside the Kulango, the original inhabitants of the region.

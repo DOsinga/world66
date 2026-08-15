@@ -16,6 +16,10 @@ tags:
 - rivieradellepalme
 title: Arnasco
 type: location
+heritage: 2.6
+vibrancy: 1.8
+nature: 5.0
+off_the_beaten_track: 4.5
 ---
 
 Arnasco is a small village on the right side of the Neva valley, in the hills behind Albenga on the Ligurian coast. It is an agricultural settlement surrounded by olive groves and vineyards, with a quiet, rural character.

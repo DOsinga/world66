@@ -16,6 +16,10 @@ image: savannah.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Forsyth_fountain_2019.jpeg
 image_license: CC BY-SA 4.0
 image_attribution: Seasider53
+heritage: 5.2
+vibrancy: 5.5
+nature: 5.0
+off_the_beaten_track: 1.7
 ---
 
 Savannah is one of the most beautiful cities in the American South. Its historic district — a grid of 22 shaded squares framed by live oaks and Spanish moss, surrounded by Federal and Regency townhouses — has remained remarkably intact since the 19th century. The city was spared during Sherman's March to the Sea in 1864, which accounts for why it still looks the way it does.

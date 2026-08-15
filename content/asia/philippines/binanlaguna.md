@@ -14,6 +14,10 @@ snippet: Laguna industrial city south of Manila, with Spanish-era landmarks and 
   Makiling on the horizon.
 title: Binan, Laguna
 type: location
+heritage: 2.9
+vibrancy: 2.3
+nature: 4.1
+off_the_beaten_track: 2.0
 ---
 
 Binan is one of the three cities in the province of Laguna, about 40 kilometres south of Manila on the island of Luzon. It started as a Spanish colonial settlement in 1571 and grew into one of the country's major industrial and export processing zones, but the old town centre still holds centuries-old landmarks that recall its past.

@@ -16,6 +16,10 @@ title: Manama
 type: location
 snippet: Bahraini capital with a lively suq, dhow port, and Gulf-island commercial
   heart.
+heritage: 6.3
+vibrancy: 4.8
+nature: 2.3
+off_the_beaten_track: 3.0
 ---
 
 Manama is arabic for 'sleepy place', but this name does not do the capital of Bahrain justice. Manama (pop. 152 000) contains the country’s major hotels, best nightlife, nicest shopping and primary tourist attractions. 

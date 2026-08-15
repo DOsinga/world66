@@ -17,6 +17,10 @@ sources:
 - https://azerbaijan.travel/cultural-program-in-lankaran
 title: Lenkoran
 type: location
+heritage: 1.5
+vibrancy: 1.4
+nature: 3.0
+off_the_beaten_track: 4.8
 ---
 
 Lenkoran, more often written Lankaran, is the main city of Azerbaijan's far south: a humid Caspian port backed by the green Talysh Mountains and tea-growing lowlands. It feels different from dry, windswept [Baku](/europe/azerbaijan/baku). The air is softer, the landscape is greener, and the Iranian border is close enough to shape the food, language, and trade.

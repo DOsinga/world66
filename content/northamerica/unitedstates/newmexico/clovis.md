@@ -14,6 +14,10 @@ snippet: Eastern New Mexico plains town near Cannon Air Force Base and the Black
   Draw archaeological site.
 title: Clovis
 type: location
+heritage: 4.0
+vibrancy: 2.0
+nature: 3.4
+off_the_beaten_track: 2.8
 ---
 
 Clovis is a town of about 32,000 near the Texas border, surrounded by cattle ranches and open plains. It is not a prime tourist destination, but it works as a stopover between New Mexico's northern mountains and its southern deserts. Clovis is also home to Cannon Air Force Base, and the town that gave the Clovis archaeological culture its name — some of the earliest evidence of human habitation in North America was found at [Blackwater Draw](/northamerica/unitedstates/newmexico/clovis/blackwater_draw), twenty miles to the south.

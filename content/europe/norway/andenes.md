@@ -18,6 +18,10 @@ image: andenes.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Andenes_fyr_and_the_sea.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Wolfgang Hägele
+heritage: 2.6
+vibrancy: 1.5
+nature: 8.0
+off_the_beaten_track: 5.2
 ---
 
 Andenes sits at the northern tip of Andøya, the outermost island of Vesterålen, where a deep submarine canyon runs close to shore. That canyon is the reason the town exists as a destination at all: it draws squid, and squid draw sperm whales, which feed here year-round rather than passing through seasonally as they do almost everywhere else whales are watched. For a town this small and this far north, that's an unusual claim to fame.

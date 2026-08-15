@@ -17,6 +17,10 @@ image: lizard.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lizard_Point_from_Kynance_Cliff_(8083).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Nilfanion
+heritage: 4.7
+vibrancy: 2.8
+nature: 7.0
+off_the_beaten_track: 3.8
 ---
 
 The Lizard is the dramatic southern tip of [Cornwall](/europe/unitedkingdom/england/cornwall), a peninsula of dark cliffs, bright coves, rare heath, and serpentine rock. It is not really a town destination, despite Lizard village giving the area its practical centre. The point is the coast.

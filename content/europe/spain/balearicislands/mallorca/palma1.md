@@ -14,6 +14,10 @@ snippet: Mallorcan capital where a vast Gothic cathedral rises above the harbour
   old city walls.
 title: Palma
 type: location
+heritage: 7.0
+vibrancy: 7.5
+nature: 4.8
+off_the_beaten_track: 1.6
 ---
 
 Palma de Mallorca presents itself first and most dramatically from the sea. Arriving by ferry or approaching along the coastal road, the city reveals itself as a long arc of pale stone buildings above a harbor, dominated by the cathedral rising directly from the waterfront on its platform of ancient walls. [La Seu](/europe/spain/balearicislands/mallorca/palma1/palma_cathedral) is one of the great Gothic buildings of the Mediterranean: begun in the fourteenth century, its sheer bulk and the extraordinary verticality of its nave — the second tallest in Europe — make it unlike anything else on the island. Gaudí worked on the interior in the early twentieth century and his modifications, which some find eccentric and others find brilliant, add another layer to a building that repays multiple visits.

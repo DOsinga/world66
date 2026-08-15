@@ -13,6 +13,10 @@ snippet: Small Indre market town on the Creuse, beside the wetlands and birdlife
   Brenne regional nature park.
 title: Le Blanc
 type: location
+heritage: 4.4
+vibrancy: 2.8
+nature: 4.8
+off_the_beaten_track: 2.3
 ---
 
 Le Blanc is a small market town in the southern Indre department, straddling the River Creuse on the edge of the [Brenne regional nature park](/europe/france/loirevalley/le_blanc/brenne_natural_park). The town itself is pleasant and unhurried, with a medieval old quarter climbing up from the river and a lively [Saturday market](/europe/france/loirevalley/le_blanc/saturday_market) where local producers sell goat cheese, honey, and seasonal fruit.

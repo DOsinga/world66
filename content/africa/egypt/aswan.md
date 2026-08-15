@@ -15,6 +15,10 @@ snippet: Southern Nile city and gateway to Nubia, set among granite hills, islan
   and palm-lined riverbanks.
 title: Aswan
 type: location
+heritage: 6.7
+vibrancy: 2.9
+nature: 4.8
+off_the_beaten_track: 5.5
 ---
 
 Aswan is the southernmost city in [Egypt](/africa/egypt) and the gateway to ancient Nubia. It sits on the east bank of the Nile where the river cuts through granite hills, and the landscape here feels markedly different from the rest of the country — more African, warmer, slower. The Nile is at its most beautiful in Aswan, dotted with feluccas and islands, its banks lined with palm groves rather than concrete.

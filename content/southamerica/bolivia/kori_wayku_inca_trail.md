@@ -6,6 +6,10 @@ score: 7.9
 snippet: Cliff-carved Inca highway through a wild forested canyon near Coroico
 title: Kori Wayku Inca Trail
 type: location
+heritage: 2.8
+vibrancy: 0.7
+nature: 8.2
+off_the_beaten_track: 6.8
 ---
 
 The Kori Wayku is the most attractive valley in the area around [Coroico](/southamerica/bolivia/coroico) — completely forested, wild, and largely untouched. Its river joins the San Juan to form the Yolosa river, and through the valley the Incas built one of their great stone highways. Parts of the trail have been washed away by the river over the centuries, but the surviving stretches are spectacular, in places carved directly into the cliff wall.

@@ -13,6 +13,10 @@ image: winchcombe.jpg
 image_source: https://commons.wikimedia.org/wiki/File:North_Street,_Winchcombe_-_geograph.org.uk_-_3464841.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Ian S
+heritage: 6.0
+vibrancy: 2.8
+nature: 4.1
+off_the_beaten_track: 2.0
 ---
 
 Winchcombe is a quiet stone town in the Cotswold escarpment, less visited than the more famous villages but with genuine substance. Its position at the foot of the high wolds makes it an excellent walking base: the Cotswold Way passes through the town, Cleeve Hill — the highest point in the Cotswolds — is 3 miles to the south-west, and the surrounding country is crossed by a good network of footpaths.

@@ -13,6 +13,10 @@ image: nordlingen.jpg
 image_source: https://commons.wikimedia.org/wiki/File:N%C3%B6rdlingen_mit_N%C3%B6rdlinger_Ries.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Markus Schäfer
+heritage: 7.5
+vibrancy: 4.0
+nature: 2.3
+off_the_beaten_track: 2.3
 ---
 
 Nördlingen is one of the most distinctive stops on the [Romantic Road](/europe/germany/bavaria/romanticroad). The old town sits inside a complete medieval wall, but its real oddity is geological: the whole place lies in the Nördlinger Ries, a 25 km-wide meteor impact crater formed about 15 million years ago.

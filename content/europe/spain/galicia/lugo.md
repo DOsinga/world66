@@ -15,6 +15,10 @@ snippet: Galician city enclosed by an unbroken Roman wall, recognised by UNESCO 
   a World Heritage Site.
 title: Lugo
 type: location
+heritage: 7.8
+vibrancy: 4.7
+nature: 5.0
+off_the_beaten_track: 2.1
 ---
 
 Lugo is one of Spain's most undervisited Roman cities, anchored by the finest surviving

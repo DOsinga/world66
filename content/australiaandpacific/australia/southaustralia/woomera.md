@@ -6,16 +6,21 @@ latitude: -31.1998
 longitude: 136.8261
 wikidata: Q11068811
 score: 6.6
-snippet: Outback defence village built around rockets, test ranges, missile displays, and desert sky.
+snippet: Outback defence village built around rockets, test ranges, missile displays,
+  and desert sky.
 image: woomera.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Woomera.jpg
 image_license: Public domain
 image_attribution: Diceman
 sources:
-  - https://en.wikivoyage.org/wiki/Woomera
-  - https://en.wikipedia.org/wiki/Woomera,_South_Australia
-  - https://flindersandoutback.com.au/towns/woomera/
-  - https://www.defence.gov.au/bases-locations/sa/woomera/about
+- https://en.wikivoyage.org/wiki/Woomera
+- https://en.wikipedia.org/wiki/Woomera,_South_Australia
+- https://flindersandoutback.com.au/towns/woomera/
+- https://www.defence.gov.au/bases-locations/sa/woomera/about
+heritage: 3.6
+vibrancy: 1.5
+nature: 3.4
+off_the_beaten_track: 7.4
 ---
 
 Woomera is a strange little outback town with a huge backstory. It was built for the Anglo-Australian rocket and weapons program, and the surrounding Woomera Prohibited Area remains one of the largest land-based test ranges in the western world.

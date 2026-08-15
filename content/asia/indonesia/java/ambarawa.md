@@ -16,6 +16,10 @@ snippet: Central Java town remembered for the Battle of Ambarawa and its heritag
   railway museum.
 title: Ambarawa
 type: location
+heritage: 3.8
+vibrancy: 2.1
+nature: 3.2
+off_the_beaten_track: 1.8
 ---
 
 A small town on the junction of the national road between [Yogyakarta](/asia/indonesia/java/yogyakarta) and [Semarang](/asia/indonesia/java/semarang), Ambarawa is mostly forgotten today but played an important role during the Indonesian independence struggle — the Battle of Ambarawa, commemorated at the [Palagan Ambarawa Monument](/asia/indonesia/java/ambarawa/palagan_monument), is still remembered every 15 December as Hari Juang Kartika.

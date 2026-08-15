@@ -14,6 +14,10 @@ image: sarreguemines.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Sarreguemines-56-Bruecke-2013-gje.jpg
 image_license: CC BY 4.0
 image_attribution: Gerd Eichmann
+heritage: 4.5
+vibrancy: 1.9
+nature: 1.4
+off_the_beaten_track: 2.2
 ---
 
 Sarreguemines sits where the Sarre and Blies rivers meet, right on the French-German border — the German town of Kleinblittersdorf is a short walk across the bridge. With around 21,000 residents, it's a quietly confident provincial town that knows what it is: the home of one of France's most famous ceramics traditions.

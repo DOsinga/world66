@@ -12,6 +12,10 @@ snippet: Two coastlines, Dartmoor's granite tors, Exeter's cathedral, and a stri
   of seaside towns from Barnstaple to Dartmouth.
 title: Devon
 type: location
+heritage: 5.4
+vibrancy: 3.5
+nature: 6.5
+off_the_beaten_track: 3.6
 ---
 
 Devon is situated in southern England and is a very beautiful county, famous for many picturesque and varied environments in both coastline and countryside.

@@ -15,6 +15,10 @@ image: norden_norddeich.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Norddeich,_Germany_-_panoramio_(12).jpg
 image_license: CC BY-SA 3.0
 image_attribution: Foto Fitti
+heritage: 2.4
+vibrancy: 2.8
+nature: 4.9
+off_the_beaten_track: 2.0
 ---
 
 Norden-Norddeich is really two linked moods of East Frisia. Norden is the old inland town, with a broad market square, brick churches, and tea culture taken seriously. Norddeich is the North Sea edge: harbour, sea air, mudflats, seal station, and ferries out to [Norderney](/europe/germany/lowersaxony/east_frisian_islands/norderney) and Juist.

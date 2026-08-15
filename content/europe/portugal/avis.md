@@ -5,8 +5,13 @@ loc_type: city
 latitude: 39.0569
 longitude: -7.8911
 score: 6.9
-snippet: Whitewashed Alentejo town tied to the medieval Order of Avis and the Maranhão reservoir.
+snippet: Whitewashed Alentejo town tied to the medieval Order of Avis and the Maranhão
+  reservoir.
 source_url: https://en.wikivoyage.org/wiki/Avis
+heritage: 4.5
+vibrancy: 4.6
+nature: 4.9
+off_the_beaten_track: 1.7
 ---
 
 Avis is a small hill town in the Alto Alentejo, quiet enough that it would be easy to pass by without realising how much history is packed into the walls. The old town was the seat of the Military Order of Avis, whose name later passed to Portugal's second royal dynasty, and the remaining [castle](/europe/portugal/avis/castle_of_avis) towers still frame the upper streets.

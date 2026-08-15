@@ -5,10 +5,15 @@ loc_type: feature
 latitude: 53.6134
 longitude: -10.2068
 score: 0.42
-snippet: Low Atlantic island off Connemara with beaches, walking loops, and Cromwellian ruins.
+snippet: Low Atlantic island off Connemara with beaches, walking loops, and Cromwellian
+  ruins.
 sources:
-  - https://www.galwaytourism.ie/inishbofin-island/
-  - https://www.discoverireland.ie/galway/inishbofin-heritage-museum-gift-shop
+- https://www.galwaytourism.ie/inishbofin-island/
+- https://www.discoverireland.ie/galway/inishbofin-heritage-museum-gift-shop
+heritage: 5.6
+vibrancy: 1.0
+nature: 7.8
+off_the_beaten_track: 6.1
 ---
 
 Inishbofin Island sits off the Connemara coast, far enough out to feel like a real crossing but close enough for a long day from Cleggan. It is a low, wind-bright island of beaches, stone walls, old monastic traces, and a small harbour village shaped by ferry times.

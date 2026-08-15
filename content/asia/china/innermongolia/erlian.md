@@ -11,6 +11,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Erlian
 title: Erlian
 type: location
+heritage: 3.2
+vibrancy: 1.9
+nature: 5.5
+off_the_beaten_track: 4.7
 ---
 
 Erlian (Erenhot in Mongolian,二连浩特 in Chinese) is a small desert border town at the northern tip of Inner Mongolia, the last stop on Chinese territory before the Trans-Mongolian Railway crosses into Mongolia proper. Most visitors pass through in transit — the border crossing at Erlian connects to Zamiin-Uud on the Mongolian side, where the carriages are lifted and their bogies changed to match the wider Mongolian gauge — but the town has enough character and a strong enough claim on geological history to justify a short stay.

@@ -16,6 +16,10 @@ image: cholpon_ata.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Petroglyph_Museum_of_Cholpon-Ata_02.jpg
 image_license: CC0
 image_attribution: Bgag
+heritage: 3.3
+vibrancy: 1.6
+nature: 8.2
+off_the_beaten_track: 6.2
 ---
 
 Cholpon-Ata is the north shore's main resort town on [Lake Issyk-Kul](/asia/kyrgyzstan/lakeissykkul). In July and August it fills with Kyrgyz, Kazakh, and Russian holidaymakers who come for the high-altitude sun, pebbly beaches, and sanatorium-era lake culture. Outside the short summer rush, it feels looser and stranger: half beach town, half archaeological stop, half Soviet holiday memory.

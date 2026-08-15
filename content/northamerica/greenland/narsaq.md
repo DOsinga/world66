@@ -14,6 +14,10 @@ snippet: South Greenland village backed by mountains, icebergs, local stone work
   and Henrik Lund history.
 title: Narsaq
 type: location
+heritage: 2.2
+vibrancy: 0.4
+nature: 7.4
+off_the_beaten_track: 7.5
 ---
 
 Narsaq is a small village of around 1,900 people in South Greenland, set against a dramatic mountain backdrop. It is a quiet, unhurried place — but one with a surprisingly specific set of attractions for the curious traveler.

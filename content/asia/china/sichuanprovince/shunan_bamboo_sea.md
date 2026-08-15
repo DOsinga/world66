@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Shunan_Zhuhai_National_Park
 title: Shunan Bamboo Sea
 type: location
+heritage: 1.9
+vibrancy: 1.1
+nature: 7.6
+off_the_beaten_track: 3.8
 ---
 
 The Shunan Bamboo Sea covers 120 square kilometres of southern Sichuan near Yibin, entirely carpeted in bamboo of a density and scale that has few equivalents anywhere. The same bamboo-canopy scenery was used as a filming location for Ang Lee's Crouching Tiger, Hidden Dragon, and the association has not harmed visitor numbers. But the forest is the thing itself, not its cinematic reputation: walking through it on a windy day, when the canopy moves in waves and the light filters green through overlapping stems, is a specific and memorable experience.

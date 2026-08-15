@@ -13,6 +13,10 @@ title: Mahabaleshwar
 type: location
 snippet: Western Ghats hill station on a high plateau above the Krishna valley, long
   favoured for cool air.
+heritage: 3.5
+vibrancy: 3.8
+nature: 7.5
+off_the_beaten_track: 2.9
 ---
 
 Mahabaleshwar is a hill station in the Sahyadri range of the Western Ghats, about 120 km south-west of Pune and a long-time favourite weekend escape for sweltering Mumbaikars. At 1,353 metres it is cool, green, and dramatically set on a high plateau whose edges fall away in sheer cliffs to the Krishna river valley below. It has been a hill station since 1829, when the British established it as a summer retreat for the Bombay Presidency, and the old colonial-era villas, churches, and the parade-ground feel of the Bazaar Road give the town some of the quiet elegance of Shimla or Ooty.

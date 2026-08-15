@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Nyk%C3%B6ping_Castle
 title: Nyköping
 type: location
+heritage: 4.8
+vibrancy: 3.1
+nature: 5.0
+off_the_beaten_track: 2.0
 ---
 
 Nyköping is one of Sweden's oldest towns, founded in the 12th century on the estuary of the Nyköpingsån river where it meets the Baltic. It was briefly a royal seat — and the scene of one of medieval Scandinavia's most chilling betrayals: in 1317 King Birger invited his two brothers, Duke Erik and Duke Valdemar, to a Christmas feast at [Nyköping Castle](/europe/sweden/nykping/nykoeping_castle), then had them thrown into the dungeon and starved to death. The castle's round keep, Kungstornet, still stands as a reminder.

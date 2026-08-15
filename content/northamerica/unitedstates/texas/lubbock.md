@@ -5,13 +5,18 @@ loc_type: city
 latitude: 33.5779
 longitude: -101.8552
 score: 7.2
-snippet: High Plains college city where Buddy Holly, ranching history, windmills, and Texas wine meet.
+snippet: High Plains college city where Buddy Holly, ranching history, windmills,
+  and Texas wine meet.
 source: Wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Lubbock
 sources:
-  - https://en.wikivoyage.org/wiki/Lubbock
-  - https://visitlubbock.org/
-  - https://en.wikipedia.org/wiki/Lubbock,_Texas
+- https://en.wikivoyage.org/wiki/Lubbock
+- https://visitlubbock.org/
+- https://en.wikipedia.org/wiki/Lubbock,_Texas
+heritage: 3.3
+vibrancy: 5.3
+nature: 3.0
+off_the_beaten_track: 1.2
 ---
 
 Lubbock is the big city of the South Plains, a flat, windy part of [Texas](/northamerica/unitedstates/texas) where cotton fields, college football, and big skies set the tone. It is not a polished tourist town, but it has a real identity: Buddy Holly was born here, Texas Tech gives the city much of its energy, and the surrounding High Plains grow a large share of the grapes used in Texas wine.

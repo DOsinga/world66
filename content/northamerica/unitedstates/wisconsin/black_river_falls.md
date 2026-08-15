@@ -15,6 +15,10 @@ snippet: Small Wisconsin city on Interstate 94, gateway to Black River State For
   trails and wetlands.
 title: Black River Falls
 type: location
+heritage: 2.4
+vibrancy: 1.4
+nature: 6.0
+off_the_beaten_track: 2.9
 ---
 
 Black River Falls is a small city in Jackson County, west-central Wisconsin, sitting on Interstate 94 between Minneapolis and Madison. It's the county seat and the main gateway to the [Black River State Forest](/northamerica/unitedstates/wisconsin/black_river_falls/black_river_state_forest), a 68,000-acre expanse of mixed forest and wetlands that's the primary reason most visitors stop here.

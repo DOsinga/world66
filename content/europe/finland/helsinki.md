@@ -24,6 +24,10 @@ tip: Helsinki is a clean, design-obsessed Baltic capital built across a peninsul
   church are highlights.
 title: Helsinki
 type: location
+heritage: 6.3
+vibrancy: 5.9
+nature: 4.7
+off_the_beaten_track: 1.2
 ---
 
 Helsinki, Finland's capital, sits on a peninsula jutting into the Baltic. It's a compact, walkable city where the harbour and the city centre are essentially the same place. The low, neoclassical architecture of [Senate Square](/europe/finland/helsinki/senate_square), the covered [market halls](/europe/finland/helsinki/old_market_hall), the design shops of the [Punavuori](/europe/finland/helsinki/punavuori) district, and the ferry terminal for [Suomenlinna](/europe/finland/helsinki/suomenlinna) island fortress are all within easy walking distance of each other.

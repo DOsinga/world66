@@ -14,6 +14,10 @@ snippet: Lower Saxon university city where Westphalia's peace was signed amid Go
   civic halls and compact old streets.
 title: Osnabrück
 type: location
+heritage: 5.2
+vibrancy: 4.0
+nature: 3.5
+off_the_beaten_track: 3.2
 ---
 
 Osnabrück is a university city in southwestern Lower Saxony, best known as one of the two cities where the Peace of Westphalia was signed in 1648, ending the Thirty Years' War. The [Rathaus (town hall)](/europe/germany/lowersaxony/osnabrck/osnabrueck_town_hall) where the negotiations took place still stands in the old centre and is one of the finest Gothic civic buildings in northern Germany — the Hall of Peace inside, with its original wood-panelled walls and portraits of the negotiators, is worth seeing.

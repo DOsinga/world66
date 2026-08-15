@@ -14,6 +14,10 @@ image: cooch_behar.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Front_view_of_Cooch_Behar_Palace,_WB,_IN_09.jpg
 image_license: CC BY 4.0
 image_attribution: Kingshuk Mondal
+heritage: 4.3
+vibrancy: 3.1
+nature: 4.1
+off_the_beaten_track: 4.5
 ---
 
 *Asia > India > West Bengal > Cooch Behar*

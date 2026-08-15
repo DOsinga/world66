@@ -14,6 +14,10 @@ snippet: Sri Lankan pilgrimage hill traditionally linked to the island's first r
   conversion to Buddhism
 title: Mihintale
 type: location
+heritage: 7.5
+vibrancy: 2.3
+nature: 5.3
+off_the_beaten_track: 3.4
 ---
 
 Mihintale is widely regarded as the cradle of Buddhism in Sri Lanka. According to tradition, the Indian Emperor Ashoka's son Mahinda arrived here in 247 BC and converted King Devanampiyatissa of Anuradhapura during a royal hunt on the hill. The site marks the moment the island became Buddhist — a status it has largely maintained ever since.

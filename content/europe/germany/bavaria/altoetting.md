@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Shrine_of_Our_Lady_of_Alt%C3%B6tting
 title: Altötting
 type: location
+heritage: 7.0
+vibrancy: 2.6
+nature: 3.1
+off_the_beaten_track: 2.5
 ---
 
 Altötting is one of Germany's great Catholic pilgrimage towns, small in size but heavy with devotion. Everything turns around the Kapellplatz, a broad square ringed by churches, arcades, votive chapels, and shops selling candles and rosaries. The focus is the [Chapel of Grace](/europe/germany/bavaria/altoetting/chapel_of_grace), a tiny octagonal shrine that holds a Black Madonna venerated here since the late Middle Ages.

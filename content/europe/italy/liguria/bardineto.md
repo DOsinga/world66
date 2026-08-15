@@ -16,6 +16,10 @@ tags:
 - rivieradellepalme
 title: Bardineto
 type: location
+heritage: 2.2
+vibrancy: 1.4
+nature: 5.7
+off_the_beaten_track: 3.8
 ---
 
 Situated on a wooded plateau in the upper valley of the Bormida di Millesimo, Bardineto is a quiet Ligurian hill town with more history than its size suggests. It became a fief of the Del Carretto of Balestrino in the thirteenth century, and in 1795 was the site of a battle between the Austrians and the French under General Masséna.

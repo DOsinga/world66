@@ -14,6 +14,10 @@ image: island_vis.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Adriatic_Sea_at_Stiniva_Bay_on_Vis_island_in_Croatia_(48608804397).jpg
 image_license: CC BY 2.0
 image_attribution: dronepicr
+heritage: 4.6
+vibrancy: 4.2
+nature: 7.4
+off_the_beaten_track: 3.1
 ---
 
 Vis is the most remote of [Croatia's](/europe/croatia) major Adriatic islands, lying about two hours by ferry from [Split](/europe/croatia/split). For decades it was a Yugoslav military base, closed to foreigners until 1989, and that enforced isolation is precisely what makes it special today. While closer islands like [Hvar](/europe/croatia/hvar) and [Brac](/europe/croatia/brac) have been heavily developed for tourism, Vis retains a quiet, unhurried character that feels like the Dalmatian coast of thirty years ago.

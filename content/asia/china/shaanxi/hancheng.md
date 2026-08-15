@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Shaanxi
 title: Hancheng
 type: location
+heritage: 7.6
+vibrancy: 3.0
+nature: 2.5
+off_the_beaten_track: 3.3
 ---
 
 Hancheng is a small city on the Yellow River in eastern Shaanxi with a claim to historical significance disproportionate to its size: this is where Sima Qian was born. Sima Qian, the Han Dynasty historian who completed the Shiji — Records of the Grand Historian — is considered the father of Chinese historiography; his work, covering Chinese history from the Yellow Emperor to his own time, set the template for every dynastic history that followed. The [Sima Qian Memorial Temple](/asia/china/shaanxi/hancheng/sima_qian_memorial), in the hills above the city, is a major pilgrimage destination for scholars and students.

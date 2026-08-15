@@ -14,6 +14,10 @@ snippet: University city in Minas Gerais hills, with coffee-era architecture and
   milder Zona da Mata climate.
 title: Juiz de Fora
 type: location
+heritage: 4.4
+vibrancy: 4.9
+nature: 5.4
+off_the_beaten_track: 3.7
 ---
 
 Juiz de Fora is a university city in the hills of Minas Gerais, about 180 kilometres north of Rio de Janeiro. It sits at around 700 metres elevation in the Zona da Mata region, which gives it a milder climate than the coastal lowlands — cool enough in winter for locals to pull out their jackets with visible enthusiasm.

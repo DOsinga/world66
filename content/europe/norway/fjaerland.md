@@ -5,17 +5,22 @@ loc_type: city
 latitude: 61.4022
 longitude: 6.7386
 score: 7.8
-snippet: Tiny Sognefjord book village below Jostedalsbreen glaciers and steep green mountains.
+snippet: Tiny Sognefjord book village below Jostedalsbreen glaciers and steep green
+  mountains.
 wikidata: Q992420
 sources:
-  - https://en.wikivoyage.org/wiki/Fj%C3%A6rland
-  - https://www.fjaerland.org/things-to-do
-  - https://www.visitnorway.com/things-to-do/art-culture/literature/book-towns/
-  - https://www.wikidata.org/wiki/Q992420
+- https://en.wikivoyage.org/wiki/Fj%C3%A6rland
+- https://www.fjaerland.org/things-to-do
+- https://www.visitnorway.com/things-to-do/art-culture/literature/book-towns/
+- https://www.wikidata.org/wiki/Q992420
 image: fjaerland.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Fj%C3%A6rlandsfjorden2.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Aqwis
+heritage: 3.9
+vibrancy: 1.9
+nature: 7.8
+off_the_beaten_track: 3.8
 ---
 
 Fjærland is a small village at the end of Fjærlandsfjord, where the Sognefjord system narrows toward the ice of Jostedalsbreen. The setting is almost theatrical: dark water, green walls of mountain, white glacier tongues, and a little settlement gathered around the old Mundal shore.

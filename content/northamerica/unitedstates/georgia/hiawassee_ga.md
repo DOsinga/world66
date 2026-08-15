@@ -14,6 +14,10 @@ title: Hiawassee
 snippet: Blue Ridge mountain town on Lake Chatuge, close to Brasstown Bald and Appalachian
   Trail hikes.
 type: location
+heritage: 3.7
+vibrancy: 4.2
+nature: 7.5
+off_the_beaten_track: 3.1
 ---
 
 Hiawassee is a small mountain town in the Blue Ridge Mountains of northern Georgia, sitting at around 1,900 feet on the shores of Lake Chatuge. It serves as the seat of Towns County and draws visitors for its mountain scenery, outdoor recreation, and the Georgia Mountain Fair — a summer event that's been running since 1949. Brasstown Bald, the highest point in Georgia at 4,784 feet, is just a short drive away.

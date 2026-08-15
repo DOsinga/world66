@@ -14,6 +14,10 @@ image: melton_mowbray.jpg
 image_source: https://commons.wikimedia.org/wiki/File:AnneMeltonRH.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Russ Hamer
+heritage: 5.4
+vibrancy: 2.9
+nature: 4.0
+off_the_beaten_track: 2.0
 ---
 
 Melton Mowbray is a Leicestershire market town with one claim that is not trying to be fashionable: this is pork pie and Stilton country. The town calls itself the Rural Capital of Food, and for once the label has some weight. Its best day out is a mix of food shops, a handsome parish church, a small museum that takes local trades seriously, and countryside close enough to reach without much planning.

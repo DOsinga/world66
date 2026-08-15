@@ -7,13 +7,18 @@ latitude: -32.85
 loc_type: city
 longitude: 135.15
 score: 6.15
-snippet: Eyre Peninsula wheatbelt town used as a base for Pildappa and Tcharkuldu granite rocks.
+snippet: Eyre Peninsula wheatbelt town used as a base for Pildappa and Tcharkuldu
+  granite rocks.
 sources:
-  - https://en.wikivoyage.org/wiki/Minnipa
-  - https://en.wikipedia.org/wiki/Minnipa,_South_Australia
-  - https://www.wikidata.org/wiki/Q6868857
+- https://en.wikivoyage.org/wiki/Minnipa
+- https://en.wikipedia.org/wiki/Minnipa,_South_Australia
+- https://www.wikidata.org/wiki/Q6868857
 title: Minnipa
 type: location
+heritage: 2.4
+vibrancy: 1.4
+nature: 3.8
+off_the_beaten_track: 3.9
 ---
 
 Minnipa is a tiny wheatbelt town on the Eyre Highway, useful mainly because it sits beside some of the best granite outcrops on northern Eyre Peninsula. The town itself is plain, but the surrounding country has rounded pink rock, old water-catchment walls, and big dry-sky silence.

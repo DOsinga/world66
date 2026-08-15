@@ -5,13 +5,18 @@ loc_type: feature
 latitude: 67.019
 longitude: 27.253
 score: 7.45
-snippet: Lapland fell resort beside Pyhä-Luosto National Park, known for ravines, skiing, and Sami sacred sites.
+snippet: Lapland fell resort beside Pyhä-Luosto National Park, known for ravines,
+  skiing, and Sami sacred sites.
 wikidata: Q837158
 sources:
-  - https://en.wikivoyage.org/wiki/Pyh%C3%A4
-  - https://www.nationalparks.fi/pyha-luostonp
-  - https://www.pyha.fi/en
-  - https://www.wikidata.org/wiki/Q837158
+- https://en.wikivoyage.org/wiki/Pyh%C3%A4
+- https://www.nationalparks.fi/pyha-luostonp
+- https://www.pyha.fi/en
+- https://www.wikidata.org/wiki/Q837158
+heritage: 3.4
+vibrancy: 1.2
+nature: 7.7
+off_the_beaten_track: 5.8
 ---
 
 Pyhä is a compact fell resort in Finnish Lapland, on the edge of [Pyhä-Luosto National Park](/europe/finland/kemijarvi/pyha_luosto_national_park). It is a ski village, but not just a strip of lifts and cabins: the Pyhätunturi fells are old Sami sacred ground, the ravines are dramatic, and the national park begins almost at the door.

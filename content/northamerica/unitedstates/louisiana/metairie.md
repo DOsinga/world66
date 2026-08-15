@@ -9,6 +9,10 @@ snippet: New Orleans suburb along Lake Pontchartrain, known locally for restaura
   and Metairie Cemetery.
 title: Metairie
 type: location
+heritage: 3.2
+vibrancy: 2.7
+nature: 3.2
+off_the_beaten_track: 1.4
 ---
 
 Metairie is the largest community in Jefferson Parish and the most populous suburb of New Orleans, sprawling along the southern shore of Lake Pontchartrain. It is not a destination in its own right for most travelers, but if you are visiting New Orleans, you may well find yourself here for the food. Many locals will tell you that some of the best restaurants in the metro area are actually in Metairie, where rents are lower and parking is easier.

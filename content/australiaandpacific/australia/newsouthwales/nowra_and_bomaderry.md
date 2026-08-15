@@ -16,6 +16,10 @@ image: nowra_and_bomaderry.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Nowra_Shoalhaven_RIver_Hang._Roc._Look..jpg
 image_license: CC BY-SA 4.0
 image_attribution: MrActiniuM
+heritage: 2.9
+vibrancy: 2.8
+nature: 5.0
+off_the_beaten_track: 3.0
 ---
 
 Nowra and Bomaderry face each other across the Shoalhaven River, with Bomaderry as the railhead and Nowra as the main South Coast service town. This is not the beach fantasy of nearby Jervis Bay, but it has a useful mix of river scenery, heritage, and easy side trips.

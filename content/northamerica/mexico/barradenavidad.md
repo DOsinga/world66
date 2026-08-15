@@ -18,6 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Costalegre
 title: Barra De Navidad
 type: location
+heritage: 3.0
+vibrancy: 3.1
+nature: 6.2
+off_the_beaten_track: 5.2
 ---
 
 Barra de Navidad is a small fishing town on Mexico's Pacific coast, sitting on a narrow sandbar between the open ocean and a mangrove-fringed lagoon. It is about an hour north of Manzanillo and four hours south of Puerto Vallarta, on a stretch of coast — the Costalegre, or "Coast of Joy" — that has never been developed into the resort strip that characterises the towns on either side of it.

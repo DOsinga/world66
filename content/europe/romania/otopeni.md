@@ -14,6 +14,10 @@ title: Otopeni
 type: location
 snippet: Small town north of Bucharest best known as the site of Romania's main international
   airport.
+heritage: 3.8
+vibrancy: 3.1
+nature: 2.5
+off_the_beaten_track: 1.5
 ---
 
 Otopeni is a small town in Ilfov County, 15 kilometres north of [Bucharest](/europe/romania/bucharest) on the road to Ploiești. Most travellers know it only for the [Henri Coandă International Airport](/europe/romania/otopeni/henri_coanda_airport), Romania's busiest airport and the main gateway to the capital. There is little reason to linger in Otopeni itself — Bucharest is easily reached by express train (about 25 minutes to Gara de Nord) or the 780 bus.

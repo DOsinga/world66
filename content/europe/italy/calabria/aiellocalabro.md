@@ -13,6 +13,10 @@ image: aiellocalabro.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Palazzo_Cybo_Aiello.JPG
 image_license: Public domain
 image_attribution: Del Carretto
+heritage: 3.3
+vibrancy: 1.3
+nature: 4.0
+off_the_beaten_track: 5.8
 ---
 
 Aiello Calabro sits on a ridge above the lower Savuto valley, looking out over terraced olive groves toward the Tyrrhenian coast. The town was founded in the Norman period and grew under the Ruffo di Calabria family, who built the castle whose ruins still dominate the upper town. The Chiesa Madre di Sant'Angelo has a Renaissance portal in Aragonese style, and the narrow lanes of the centro storico have the densely-built character of a town that never had much space to expand.

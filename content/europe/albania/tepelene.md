@@ -14,6 +14,10 @@ snippet: Southern Albanian river town known for Ali Pasha's fortress and a drama
   Vjosa-Drino setting.
 title: Tepelena
 type: location
+heritage: 5.8
+vibrancy: 3.4
+nature: 5.7
+off_the_beaten_track: 3.0
 ---
 
 Tepelena is a small town in southern Albania at the confluence of the [Vjosa](/europe/albania/tepelene/tepelena/vjosa_river) and Drino rivers, best known as [the birthplace of Ali Pasha of Ioannina](/europe/albania/tepelene/tepelena/ali_pasha_birthplace), the powerful Ottoman governor who ruled much of Albania and Greece in the early 19th century. Lord Byron visited in 1809 and described the experience in Childe Harold's Pilgrimage.

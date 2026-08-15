@@ -17,6 +17,10 @@ image: osthammar.jpg
 image_source: https://commons.wikimedia.org/wiki/File:%C3%96regrunds_hamn_WNW.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Jan Ainali
+heritage: 3.1
+vibrancy: 1.7
+nature: 5.4
+off_the_beaten_track: 3.1
 ---
 
 Östhammar is a small town on the northern Roslagen coast, east of Uppsala and north of Stockholm. It is quiet for much of the year, then becomes more obviously coastal in summer, when boats, beaches, and nearby Öregrund pull Stockholm and Uppsala visitors toward the Baltic.

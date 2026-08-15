@@ -16,6 +16,10 @@ image_license: CC BY-SA 4.0
 image_attribution: Tahsin Shah
 snippet: Southern Punjab city on the edge of the Cholistan Desert, shaped by its former
   princely-state palaces.
+heritage: 2.4
+vibrancy: 1.6
+nature: 2.3
+off_the_beaten_track: 3.0
 ---
 
 Bahawalpur is a historic city in southern Punjab, Pakistan, on the edge of the Cholistan Desert near the Indian border. It was the capital of a princely state ruled by the Nawabs of Bahawalpur until Pakistan's independence, and their legacy is visible in the city's ornate palaces and public buildings — several built in an Indo-Saracenic style in the late 19th and early 20th centuries.

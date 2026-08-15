@@ -12,6 +12,10 @@ tags:
 - rivieradellepalme
 title: Murialdo
 type: location
+heritage: 2.6
+vibrancy: 1.5
+nature: 5.0
+off_the_beaten_track: 4.0
 ---
 
 Murialdo is a scattered commune in the upper valley of the Bormida di Millesimo, made up of several small villages -- Isola Grande, Piano, Ponte, Riofreddo, and Valle -- connected by narrow roads through chestnut and beech woods.

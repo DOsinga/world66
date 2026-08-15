@@ -14,6 +14,10 @@ image: boissevain.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Boissevain,_Manitoba_(29035488887).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Ken Lund from Reno, Nevada, USA
+heritage: 2.2
+vibrancy: 1.8
+nature: 4.4
+off_the_beaten_track: 3.6
 ---
 
 Boissevain is a small prairie town in southwestern Manitoba, close to the North Dakota border. It is not large, but it has a clearer travel identity than many towns its size: painted murals, local museums, a giant turtle, and easy access to the International Peace Garden and Turtle Mountain.

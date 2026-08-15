@@ -13,6 +13,10 @@ snippet: Lake Erie border town across from Buffalo, with beaches and Niagara Pen
   history.
 title: Fort Erie
 type: location
+heritage: 4.3
+vibrancy: 2.3
+nature: 3.8
+off_the_beaten_track: 1.7
 ---
 
 Fort Erie sits at the southern tip of the Niagara Peninsula, directly across the Peace Bridge from Buffalo, New York. It is a small town in the shadow of its bigger neighbours — Niagara Falls to the north, Buffalo across the river — but has its own quiet identity as a lakeside community with good beaches and a border-town character that sets it apart from the rest of Ontario.

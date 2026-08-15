@@ -14,6 +14,10 @@ image: crawford.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Crawford,_Nebraska_2nd_St_from_Main.JPG
 image_license: Public domain
 image_attribution: Ammodramus
+heritage: 1.6
+vibrancy: 1.8
+nature: 4.3
+off_the_beaten_track: 3.4
 ---
 
 *North America > United States > Nebraska > Crawford*

@@ -14,6 +14,10 @@ snippet: Compact Irish market town near the Northern Ireland border, centred on 
   diamond-shaped Ulster square.
 title: Monaghan
 type: location
+heritage: 4.4
+vibrancy: 3.1
+nature: 5.2
+off_the_beaten_track: 3.3
 ---
 
 Monaghan is the county town of County Monaghan in the Republic of Ireland, sitting close to the Northern Ireland border in the drumlin-scattered landscape of the Ulster midlands. It is a compact market town built around [The Diamond](/europe/ireland/monaghan/the_diamond), a diamond-shaped central square — a layout common to Ulster plantation towns — with the 19th-century Gothic Revival [St Macartan's Cathedral](/europe/ireland/monaghan/st_macartans_cathedral) dominating the skyline from its hill. The town itself is quiet and unpretentious, the kind of place where the locals still do their shopping in the old streets.

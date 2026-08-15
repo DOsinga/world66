@@ -17,6 +17,10 @@ image: wilno.jpg
 image_source: https://commons.wikimedia.org/wiki/File:St_Mary%27s_Church_Our_Lady_of_Cz%C4%99stochowa_Queen_of_Poland_in_Wilno,_Ontario.jpg
 image_license: CC BY 3.0
 image_attribution: Hans-Jürgen Hübner
+heritage: 3.6
+vibrancy: 2.8
+nature: 4.7
+off_the_beaten_track: 4.2
 ---
 
 Wilno is a tiny village in the Madawaska Valley, but it has a sharper identity than many larger Ontario towns. It is the heart of Canada's oldest Polish Kashubian settlement, founded by immigrants from the Baltic region who arrived in the 1850s and named the place for Wilno, now Vilnius.

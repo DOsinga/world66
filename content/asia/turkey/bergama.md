@@ -5,11 +5,16 @@ loc_type: city
 latitude: 39.1167
 longitude: 27.1833
 score: 8.7
-snippet: Turkish Aegean city below Pergamon's acropolis, Asclepion, Red Basilica, and steep ancient theatre.
+snippet: Turkish Aegean city below Pergamon's acropolis, Asclepion, Red Basilica,
+  and steep ancient theatre.
 sources:
-  - https://en.wikivoyage.org/wiki/Bergama
-  - https://en.wikipedia.org/wiki/Bergama
-  - https://whc.unesco.org/en/list/1457/
+- https://en.wikivoyage.org/wiki/Bergama
+- https://en.wikipedia.org/wiki/Bergama
+- https://whc.unesco.org/en/list/1457/
+heritage: 7.4
+vibrancy: 2.4
+nature: 3.3
+off_the_beaten_track: 2.8
 ---
 
 Bergama is the modern town below ancient Pergamon, one of the great archaeological landscapes of the Turkish Aegean. It sits inland from the coast north of Izmir, with ordinary market streets at the base and a Hellenistic acropolis high above the valley.

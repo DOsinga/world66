@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Bucks_County_Playhouse
 title: New Hope
 type: location
+heritage: 5.1
+vibrancy: 4.9
+nature: 4.7
+off_the_beaten_track: 1.8
 ---
 
 New Hope is the Bucks County river town that turns a simple walk into a full afternoon. It sits on the Pennsylvania side of the Delaware, directly across the bridge from [Lambertville](/northamerica/unitedstates/newjersey/lambertville), with a compact main street of galleries, old stone buildings, small theatres, antiques, and enough weekend traffic to remind you that [Philadelphia](/northamerica/unitedstates/pennsylvania/philadelphia) is not far away.

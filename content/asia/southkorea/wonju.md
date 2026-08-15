@@ -6,12 +6,17 @@ latitude: 37.3421
 longitude: 127.9198
 wikidata: Q42131
 score: 7.1
-snippet: Inland Gangwon city known for mountain temples, hanji paper culture, and Tadao Ando's Museum SAN.
+snippet: Inland Gangwon city known for mountain temples, hanji paper culture, and
+  Tadao Ando's Museum SAN.
 sources:
-  - https://en.wikivoyage.org/wiki/Wonju
-  - https://www.wonju.go.kr/english/index.do
-  - https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=45438
-  - https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=64457
+- https://en.wikivoyage.org/wiki/Wonju
+- https://www.wonju.go.kr/english/index.do
+- https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=45438
+- https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=64457
+heritage: 3.7
+vibrancy: 3.8
+nature: 5.2
+off_the_beaten_track: 2.7
 ---
 
 *Asia > South Korea > Wonju*

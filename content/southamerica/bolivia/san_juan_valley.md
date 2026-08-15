@@ -10,6 +10,10 @@ image: san_juan_valley.jpg
 image_source: https://commons.wikimedia.org/wiki/File:San_Juan_Valley.jpg
 image_license: CC0
 image_attribution: Wilfredor
+heritage: 2.5
+vibrancy: 1.2
+nature: 7.6
+off_the_beaten_track: 5.5
 ---
 
 The San Juan Valley is a broad sweep of cloudforest west of [Coroico](/southamerica/bolivia/coroico), mixed with coffee and coca smallholdings and best explored slowly on foot. It is one of the most rewarding day-walking areas in the Yungas, with a network of old footpaths, river crossings and ridgeline trails that link a string of small communities.

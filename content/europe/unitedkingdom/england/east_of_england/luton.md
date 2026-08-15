@@ -14,6 +14,10 @@ snippet: Bedfordshire transit town north of London, with a major airport and ove
   hat-making heritage
 title: Luton
 type: location
+heritage: 1.9
+vibrancy: 2.2
+nature: 1.9
+off_the_beaten_track: 1.3
 ---
 
 Luton is a large town of about 220,000 people in Bedfordshire, 30 miles north of London. It is primarily a transit hub — Luton Airport handles around 18 million passengers a year, serving many budget carriers — but the town itself has more to it than its reputation suggests.

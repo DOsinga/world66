@@ -12,6 +12,10 @@ score: 8.5
 snippet: Faroese village named for its basalt cleft, below Slaettaratindur on Eysturoy.
 title: Gjogv
 type: location
+heritage: 5.2
+vibrancy: 0.7
+nature: 7.8
+off_the_beaten_track: 6.9
 ---
 
 In Faroese, gjogv means cleft, and it could not be more obvious how this village got its name. [The gorge](/europe/faroeislands/eysturoy/gjogv/the_gorge) cuts deep into the basalt, and it is from stone steps at the bottom that boats set out for fishing and trips around the headland.

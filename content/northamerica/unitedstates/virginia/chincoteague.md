@@ -16,6 +16,10 @@ image: chincoteague.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Chincoteague_National_Wildlife_Refuge_1.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Leonard J. DeFrancisci
+heritage: 3.1
+vibrancy: 2.7
+nature: 5.9
+off_the_beaten_track: 2.1
 ---
 
 Chincoteague is the Virginia Eastern Shore's soft-edged island town, all marsh light, seafood shacks, pony lore, and bicycles heading toward Assateague. The town itself is low-key, but it sits beside one of the best wildlife-and-beach combinations on the Mid-Atlantic coast.

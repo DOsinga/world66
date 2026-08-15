@@ -5,11 +5,16 @@ loc_type: city
 latitude: 47.0525
 longitude: -67.735
 score: 5.8
-snippet: Bilingual Saint John River town built around New Brunswick's most dramatic inland gorge.
+snippet: Bilingual Saint John River town built around New Brunswick's most dramatic
+  inland gorge.
 sources:
-  - https://en.wikivoyage.org/wiki/Grand_Falls
-  - https://en.wikipedia.org/wiki/Grand_Falls,_New_Brunswick
-  - https://geonames.nrcan.gc.ca/search-place-names/unique?id=DAICU
+- https://en.wikivoyage.org/wiki/Grand_Falls
+- https://en.wikipedia.org/wiki/Grand_Falls,_New_Brunswick
+- https://geonames.nrcan.gc.ca/search-place-names/unique?id=DAICU
+heritage: 3.1
+vibrancy: 1.7
+nature: 5.6
+off_the_beaten_track: 2.7
 ---
 
 Grand Falls, or Grand-Sault, is a small bilingual town in northwestern New Brunswick where the Saint John River suddenly drops through a tight rock gorge. The town is not large, but the falls and canyon sit right in the middle of it, which gives the place more punch than most service towns of this size.

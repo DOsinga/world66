@@ -16,6 +16,10 @@ image: koyasan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Danjogaran_Koyasan23n3200.jpg
 image_license: CC BY 2.5
 image_attribution: 663highland
+heritage: 9.0
+vibrancy: 4.5
+nature: 6.0
+off_the_beaten_track: 3.4
 ---
 
 Koyasan — Mount Koya — is the headquarters of Shingon Buddhism and one of the most spiritually charged places in Japan. The monk Kukai, posthumously known as Kobo Daishi, founded a monastic settlement here in 816 after returning from training in Tang Dynasty China, and the mountain has been a pilgrimage destination ever since. Today around 50 temples remain active on the plateau, and it is possible to sleep inside them.

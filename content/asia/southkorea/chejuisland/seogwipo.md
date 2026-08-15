@@ -15,6 +15,10 @@ image: seogwipo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Seogwipo,_Jeju_Island,_South_Korea_November_2021_-_Dusk.jpg
 image_license: CC BY 2.0
 image_attribution: Sharon Hahn Darlin
+heritage: 3.9
+vibrancy: 5.4
+nature: 7.5
+off_the_beaten_track: 2.7
 ---
 
 Seogwipo is Jeju Island's second city, on the south coast directly below Hallasan. It is quieter and less developed than Jeju City and makes an excellent alternative base, especially if you care more about coast walks than nightlife. The city has two waterfalls within walking distance of the centre: [Cheonjiyeon](/asia/southkorea/chejuisland/seogwipo/cheonjiyeon_waterfall) in a green ravine and [Jeongbang](/asia/southkorea/chejuisland/seogwipo/jeongbang_waterfall) dropping almost straight to the sea.

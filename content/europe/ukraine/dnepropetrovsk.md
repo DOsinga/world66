@@ -16,6 +16,10 @@ snippet: Ukrainian industrial river city once closed for Soviet missile and spac
   rocket production.
 title: Dnipro
 type: location
+heritage: 4.4
+vibrancy: 4.5
+nature: 3.5
+off_the_beaten_track: 2.0
 ---
 
 Dnipro (officially renamed from Dnepropetrovsk in 2016, as part of Ukraine's post-Maidan decommunisation) is Ukraine's fourth-largest city, sitting on a wide bend in the Dnieper River in the country's industrial heartland. With a population of around one million, it is the economic and administrative capital of the surrounding Dnipropetrovsk Oblast — a region defined by heavy industry, steel, and, for decades, an extraordinary secret: Dnipro was the city where the Soviet Union built its ballistic missiles.

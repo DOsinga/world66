@@ -5,11 +5,16 @@ loc_type: city
 latitude: 19.6169
 longitude: -98.1179
 score: 6.8
-snippet: Tlaxcala Pueblo Magico of maguey fields, baroque churches, woodcraft, cheese, and cool highland air.
+snippet: Tlaxcala Pueblo Magico of maguey fields, baroque churches, woodcraft, cheese,
+  and cool highland air.
 wikidata: Q19824930
 sources:
 - https://en.wikivoyage.org/wiki/Tlaxco
 - https://tortillalandmexico.com/sites-to-see-in-the-magical-town-of-tlaxco-tlaxcala/
+heritage: 5.0
+vibrancy: 2.4
+nature: 4.6
+off_the_beaten_track: 5.0
 ---
 
 Tlaxco is a highland town in northern Tlaxcala, set between forest, maguey fields, and old hacienda country. It is one of those Pueblos Magicos where the appeal is not a single blockbuster monument, but the way the town, the countryside, and the local crafts fit together.

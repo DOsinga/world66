@@ -10,6 +10,10 @@ snippet: West-central New Mexico ranching village near radio telescopes, lava fi
   and Gila wilderness.
 title: Quemado
 type: location
+heritage: 2.2
+vibrancy: 1.7
+nature: 4.9
+off_the_beaten_track: 4.5
 ---
 
 Quemado is a tiny ranching community on US-60 in west-central New Mexico, the kind of place where you stop because there is nothing else for fifty miles in any direction. The town has a gas station, a couple of small motels, and a cafe or two -- just enough to keep a traveler going. Its name means "burned" in Spanish, reportedly a reference to a fire-scarred tree that once stood nearby.

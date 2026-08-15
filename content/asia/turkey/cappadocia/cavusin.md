@@ -14,6 +14,10 @@ snippet: Cappadocian cave village built around a cliff face of abandoned dwellin
   and early frescoed churches.
 title: Çavuşin
 type: location
+heritage: 6.4
+vibrancy: 3.6
+nature: 7.2
+off_the_beaten_track: 3.7
 ---
 
 **Çavuşin** is one of the oldest settlements in [Cappadocia](/asia/turkey/cappadocia), a small village on the road between Goreme and Avanos. It is built around a [dramatic cliff face](/asia/turkey/cappadocia/cavusin/old_village) riddled with cave dwellings that were inhabited until rockfalls forced evacuation in the 1960s.

@@ -13,6 +13,10 @@ snippet: Madhya Pradesh city dominated by Bir Singh Deo Palace, a seven-storey R
   landmark above town.
 title: Datia
 type: location
+heritage: 2.8
+vibrancy: 1.2
+nature: 7.1
+off_the_beaten_track: 6.4
 ---
 
 Datia is a small city in Madhya Pradesh caught between two more famous neighbours — [Gwalior](/asia/india/madhyapradesh/gwalior) to the west and Jhansi across the Uttar Pradesh border to the east — but it has one thing they don't: the Bir Singh Deo Palace, one of the finest examples of early 17th-century Rajput architecture anywhere in India. The seven-storey palace rises from a rocky hill above the old town and its reflection in the Lala Ka Talab lake below is one of those compositions that rewards the effort of getting here.

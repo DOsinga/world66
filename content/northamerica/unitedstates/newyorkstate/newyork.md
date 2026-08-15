@@ -26,6 +26,10 @@ tip: 'Glance at Times Square once, then avoid it like locals do. Get OMNY/contac
   for nothing. Tip 18–20% on every restaurant bill; it''s not optional here.'
 title: New York
 type: location
+heritage: 7.2
+vibrancy: 10.0
+nature: 4.4
+off_the_beaten_track: 1.4
 ---
 
 New York City is five boroughs, eight million people, and an argument that has never quite been settled. It is overwhelming in the best possible way: dense, loud, expensive, and unlike anywhere else. You can spend weeks here and still feel like you've barely scratched the surface, which is partly the point.

@@ -13,6 +13,10 @@ snippet: Romantic Road village known for the rococo Wieskirche and a 12th-centur
   monastery church
 title: Steingaden
 type: location
+heritage: 6.7
+vibrancy: 1.9
+nature: 5.2
+off_the_beaten_track: 2.4
 ---
 
 Steingaden is a small village at the point where the Romantic Road crosses the Deutsche Alpenstrasse. The village itself is quiet, but two churches make it an essential stop.

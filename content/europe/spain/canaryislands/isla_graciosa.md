@@ -14,6 +14,10 @@ snippet: Car-free Canary island north of Lanzarote, with volcanic sand tracks an
   Chinijo Archipelago beaches.
 title: La Graciosa
 type: location
+heritage: 2.0
+vibrancy: 2.4
+nature: 7.1
+off_the_beaten_track: 3.8
 ---
 
 La Graciosa is the smallest inhabited island in the Canary archipelago, floating just north of [Lanzarote](/europe/spain/canaryislands/lanzarote) across a narrow strait called El Río. There are no paved roads, no cars to speak of, and only two settlements — Caleta de Sebo, where the ferry arrives, and the even smaller Pedro Barba. You get around on foot or by bicycle, and that is much of the appeal.

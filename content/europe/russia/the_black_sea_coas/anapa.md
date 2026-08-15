@@ -10,6 +10,10 @@ snippet: Russian Black Sea resort town with broad sandy beaches and ancient Gree
   Gorgippia remains.
 title: Anapa
 type: location
+heritage: 3.6
+vibrancy: 5.0
+nature: 7.4
+off_the_beaten_track: 3.3
 ---
 
 Anapa sits at the northern end of Russia's Black Sea coast, where the flat Kuban steppe meets the first foothills of the Caucasus. It has wide sandy beaches — some stretching 600 metres deep — that are considered the best on the northern coast, and the shallow, warm water makes it Russia's most popular family resort.

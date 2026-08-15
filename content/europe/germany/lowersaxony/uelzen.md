@@ -17,6 +17,10 @@ image: uelzen.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bahnhof_Uelzen_(2017).jpg
 image_license: CC BY-SA 4.0
 image_attribution: JoachimKohler-HB
+heritage: 3.4
+vibrancy: 1.9
+nature: 2.3
+off_the_beaten_track: 2.2
 ---
 
 Uelzen is a small Lower Saxony town that would be easy to miss if its station had not been transformed by Friedensreich Hundertwasser. That station is the reason most travellers notice Uelzen, and it is odd enough to justify a stop if you are moving between Hamburg, Hanover, and the Lueneburg Heath.

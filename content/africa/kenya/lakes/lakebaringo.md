@@ -9,6 +9,10 @@ score: 7.81
 loc_type: feature
 snippet: Rift Valley freshwater lake with papyrus shores, island boat trips, and more
   than 450 recorded bird species.
+heritage: 5.4
+vibrancy: 1.1
+nature: 7.6
+off_the_beaten_track: 6.2
 ---
 
 Lake Baringo is a large, shallow freshwater lake in the Rift Valley, north of Marigat and roughly 270 kilometres northwest of [Nairobi](/africa/kenya/nairobi). Once a productive fishing lake, it has been heavily overfished in recent years, but remains one of Kenya's premier birdwatching destinations — over 450 species have been recorded here. The many islands and papyrus-fringed shoreline make boat trips a highlight.

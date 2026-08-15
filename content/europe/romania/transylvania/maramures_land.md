@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Maramure%C8%99
 title: Maramures Land
 type: location
+heritage: 5.6
+vibrancy: 1.7
+nature: 6.0
+off_the_beaten_track: 5.1
 ---
 
 Maramureș is the corner of Romania where the 21st century has barely arrived. Tucked against the Ukrainian border in northern Transylvania, this is a landscape of steep-sided valleys, hay meadows cut by hand, and villages where horse-drawn carts still outnumber cars on the road. People here build in wood — houses, gates, barns, spoons, everything — and have done so for centuries.

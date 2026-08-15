@@ -10,6 +10,10 @@ snippet: Dogon plateau village above the Bandiagara Escarpment, starting point f
   guided cliff-country treks
 title: Sanga
 type: location
+heritage: 2.4
+vibrancy: 1.5
+nature: 4.7
+off_the_beaten_track: 6.5
 ---
 
 Sanga is the main village on the Bandiagara Escarpment, 40 km northeast of [Bandiagara](/africa/mali/dogoncountry/bandiagara). It sits at the top of the plateau, perched above the dramatic sandstone cliffs that drop 500 metres to the plains below. More visitors pass through Sanga than any other point on the escarpment, and the community is well accustomed to tourism. It is the starting point for the [trek routes](/africa/mali/dogoncountry/sanga/bandiagara_escarpment_treks) along the cliff — the Petit Tour (one day), the Moyen Tour (two to three days), and the Grand Tour (four to five days) — all of which require a local guide.

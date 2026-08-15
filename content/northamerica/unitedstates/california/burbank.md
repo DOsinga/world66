@@ -10,6 +10,10 @@ title: Burbank
 type: location
 snippet: Los Angeles studio city where American film and television are made behind
   the Hollywood facade.
+heritage: 2.8
+vibrancy: 4.1
+nature: 2.5
+off_the_beaten_track: 0.8
 ---
 
 Burbank is the working heart of Hollywood — not the tourist-facing side, but the place where much of American film and television is actually made. NBC, Disney, Warner Bros. and dozens of smaller production companies are all based here, spread along Olive Avenue and the surrounding blocks. If you care about how the entertainment industry operates day to day, Burbank is more interesting than the Hollywood Walk of Fame.

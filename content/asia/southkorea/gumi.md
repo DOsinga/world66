@@ -17,6 +17,10 @@ image: gumi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gumi_nature.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Kmonsoor
+heritage: 1.9
+vibrancy: 3.4
+nature: 3.1
+off_the_beaten_track: 2.0
 ---
 
 *Asia > South Korea > Gumi*

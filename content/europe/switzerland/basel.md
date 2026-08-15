@@ -15,6 +15,10 @@ snippet: Rhine city at Switzerland's three-country corner, known for dense museu
   and red-sandstone old town landmarks.
 title: Basel
 type: location
+heritage: 7.4
+vibrancy: 7.3
+nature: 3.1
+off_the_beaten_track: 1.0
 ---
 
 Basel, the second largest city of Switzerland, sits at the point where the Rhine bends north and three countries — Switzerland, France, and Germany — share a border. It is known as a pharmaceutical and financial centre, but that tells only part of the story. This is an intensely cultured city, and its long patronage of the arts has produced a remarkable concentration of museums and galleries for a place of under 200,000 people.

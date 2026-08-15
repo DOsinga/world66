@@ -13,6 +13,10 @@ snippet: Burgundy hilltop village crowned by Vézelay's Romanesque basilica on t
   old pilgrimage road
 title: Vézelay
 type: location
+heritage: 8.3
+vibrancy: 4.8
+nature: 3.9
+off_the_beaten_track: 2.4
 ---
 
 Vézelay is a hilltop village in northern Burgundy, crowned by the [Basilique Sainte-Marie-Madeleine](/europe/france/burgundy/vezelay/basilique_sainte_marie_madeleine), a masterpiece of Romanesque architecture and a UNESCO World Heritage Site. Richard the Lionheart and Philippe-Auguste of France gathered here in 1190 to set out on the Third Crusade. Before that, it was one of the great pilgrimage staging points on the route to Santiago de Compostela.

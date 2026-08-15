@@ -15,6 +15,10 @@ image: geneva_on_the_lake.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Geneva_On_The_Lake_Downtown_-_panoramio_(1).jpg
 image_license: CC BY-SA 3.0
 image_attribution: Michael A. Orlando
+heritage: 2.5
+vibrancy: 4.5
+nature: 6.6
+off_the_beaten_track: 1.5
 ---
 
 Geneva-on-the-Lake is a small Lake Erie resort village in far northeastern Ohio. It is proudly old-fashioned: arcades, grills, doughnuts, mini-golf, lake views, and summer crowds moving slowly along the Strip.

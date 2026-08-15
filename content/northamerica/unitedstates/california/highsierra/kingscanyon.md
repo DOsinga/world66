@@ -13,6 +13,10 @@ image: kingscanyon.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Copper_Creek_Trail.jpg
 image_license: CC BY 2.0
 image_attribution: Tom Hilton
+heritage: 3.1
+vibrancy: 1.2
+nature: 8.1
+off_the_beaten_track: 5.3
 ---
 
 Kings Canyon National Park, adjacent to Sequoia National Park in the southern Sierra Nevada, contains some of California's most dramatic mountain scenery — deep glacier-carved canyons, towering granite walls, and groves of giant sequoias, the largest trees on earth.

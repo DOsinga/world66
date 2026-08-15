@@ -11,6 +11,10 @@ image: anamalai_tiger_reserve.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Female_Sambar_Rusa_unicolor_Anamalai_Tiger_Reserve,_Tamil_Nadu,_India_DSCN9187.jpg
 image_license: CC BY 4.0
 image_attribution: Rohitjahnavi
+heritage: 1.4
+vibrancy: 0.7
+nature: 7.9
+off_the_beaten_track: 5.7
 ---
 
 The Anamalai Tiger Reserve covers 958 square kilometres of Western Ghats forest straddling the border of Tamil Nadu and Kerala, beginning about 50 km south of Coimbatore. It holds tigers, elephants, leopards, gaurs, and an exceptional range of birdlife, and is one of the better places in India to see wild Asian elephants moving through open forest. The road in, from Coimbatore through Pollachi and up into the hills, is itself part of the pleasure, climbing past tea and coffee estates before the forest closes in.

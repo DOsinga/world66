@@ -14,6 +14,10 @@ snippet: Hypersaline desert lake below sea level where mineral cliffs frame Jord
   famously buoyant shore.
 title: Dead Sea
 type: location
+heritage: 5.3
+vibrancy: 4.8
+nature: 5.9
+off_the_beaten_track: 4.2
 ---
 
 The Dead Sea is one of the world's most extraordinary natural phenomena — a vast, hypersaline lake sitting more than 400 metres below sea level, making it the lowest point on Earth's surface. Fed by the Jordan River but with no outflow, the water is nearly ten times saltier than the ocean, creating a density so high that anyone who enters simply floats. Lying back on the glassy surface, newspaper in hand if you choose the cliché, is a genuinely surreal experience.

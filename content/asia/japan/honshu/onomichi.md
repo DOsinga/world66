@@ -7,7 +7,8 @@ latitude: 34.408875
 loc_type: city
 longitude: 133.205026
 score: 7.42
-snippet: Seto Inland Sea port town of hillside temples, literary paths, ramen, and Shimanami cycling.
+snippet: Seto Inland Sea port town of hillside temples, literary paths, ramen, and
+  Shimanami cycling.
 sources:
 - https://en.wikivoyage.org/wiki/Onomichi
 - https://www.japan.travel/en/itineraries/cycling-the-shimanami-kaido/
@@ -15,6 +16,10 @@ sources:
 title: Onomichi
 type: location
 wikidata: Q696694
+heritage: 5.7
+vibrancy: 4.9
+nature: 6.1
+off_the_beaten_track: 2.9
 ---
 
 Onomichi is a small port city on the Seto Inland Sea, squeezed between shipyards, island channels, and steep temple hills. It is famous in Japan for literature, film, cats, narrow lanes, and the views from Senkoji Park. It also happens to be the classic starting point for the Shimanami Kaido cycling route to Shikoku.

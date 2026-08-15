@@ -18,6 +18,10 @@ tags:
 - sight
 title: Tlos
 type: location
+heritage: 7.3
+vibrancy: 2.1
+nature: 5.0
+off_the_beaten_track: 4.1
 ---
 
 Tlos is one of the great Lycian sites and one of the most visually impressive — a massive acropolis rising from a crag above a wide valley, scattered with rock-cut tombs, an agora, baths, a theatre, and the remains of an Ottoman fortress built over the ancient citadel. The site is large and requires some scrambling to explore properly.

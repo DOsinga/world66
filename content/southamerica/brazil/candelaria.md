@@ -5,7 +5,12 @@ loc_type: city
 latitude: -29.6689
 longitude: -52.7889
 score: 6.4
-snippet: Rio Grande do Sul town known for Triassic fossils, German roots, and Botucaraí hills.
+snippet: Rio Grande do Sul town known for Triassic fossils, German roots, and Botucaraí
+  hills.
+heritage: 6.8
+vibrancy: 3.8
+nature: 3.8
+off_the_beaten_track: 2.9
 ---
 
 Candelária is a small city in Rio Grande do Sul with a stronger identity than its size suggests. It sits on the Paleorrota, the fossil-rich belt of southern Brazil where Triassic rocks have produced early dinosaur and mammal-line remains.

@@ -13,6 +13,10 @@ tags:
 - dordogne
 title: Les Eyzies de Tayac
 type: location
+heritage: 7.3
+vibrancy: 4.1
+nature: 5.7
+off_the_beaten_track: 2.9
 ---
 
 Les Eyzies de Tayac sits in the Vézère Valley in the Dordogne, in the limestone country of southwestern France, and it claims the title of "world capital of prehistory" without much argument. The cliffs above the village are riddled with caves and rock shelters used by humans for more than 250,000 years, and the valley as a whole contains more recognised UNESCO prehistoric sites than anywhere else on Earth.

@@ -14,6 +14,10 @@ image_license: CC BY-SA 3.0 pl
 image_attribution: Mkos
 snippet: Industrial Silesian city in the Dąbrowa Basin, marked by coal, textiles,
   palaces, and multicultural traces.
+heritage: 2.8
+vibrancy: 2.0
+nature: 1.6
+off_the_beaten_track: 2.2
 ---
 
 Sosnowiec is a working industrial city in the heart of the Dąbrowa Basin, tucked into the eastern edge of Upper Silesia's dense urban sprawl. It grew fast in the 19th century on the back of coal mining and textile manufacturing, and the bones of that era — tenement blocks, factory chimneys, grand bourgeois palaces — are still visible throughout the city.

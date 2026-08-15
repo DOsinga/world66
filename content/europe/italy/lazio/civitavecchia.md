@@ -14,6 +14,10 @@ title: Civitavecchia
 type: location
 snippet: Rome's working port city, where cruise docks sit beside Forte Michelangelo
   and scattered Roman remains.
+heritage: 4.7
+vibrancy: 3.1
+nature: 4.8
+off_the_beaten_track: 1.4
 ---
 
 Civitavecchia — Latin *Centumcellae*, "the hundred cells" — is the port of Rome, and for most travellers it is exactly that and nothing more: a place to board a cruise ship to the Mediterranean or a ferry to Sardinia, Sicily or Tunisia. The town was bombed flat by Allied air raids in 1943-44, so most of what stands today is post-war and unremarkable. But the genuine pieces of the old city that survived — and a few Roman remains in the hinterland — are worth a couple of hours if you have a long wait between connections.

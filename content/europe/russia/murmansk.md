@@ -14,6 +14,10 @@ snippet: Arctic Circle port city on the Barents Sea, kept ice-free by warm Atlan
   currents.
 title: Murmansk
 type: location
+heritage: 5.6
+vibrancy: 3.2
+nature: 7.2
+off_the_beaten_track: 6.0
 ---
 
 Murmansk is the largest city above the Arctic Circle, a major Russian seaport on the Barents Sea coast of the Kola Peninsula. Founded in 1916 as Romanov-on-Murman (renamed after the Revolution), the city owes its existence to the warm currents of the Gulf Stream, which keep the harbour ice-free year-round — an unusual feature at this latitude.

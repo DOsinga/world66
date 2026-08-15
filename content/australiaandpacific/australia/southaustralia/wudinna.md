@@ -7,8 +7,12 @@ longitude: 135.45
 score: 6.2
 snippet: Eyre Highway wheatbelt town in South Australia's granite country.
 sources:
-  - https://en.wikivoyage.org/wiki/Wudinna
-  - https://en.wikipedia.org/wiki/Wudinna,_South_Australia
+- https://en.wikivoyage.org/wiki/Wudinna
+- https://en.wikipedia.org/wiki/Wudinna,_South_Australia
+heritage: 1.7
+vibrancy: 1.7
+nature: 4.4
+off_the_beaten_track: 4.8
 ---
 
 Wudinna is a small service town on the Eyre Highway, but the country around it is not ordinary. This is South Australia's granite country, where bare pink-grey domes rise from wheat fields and mallee scrub, making natural viewpoints, picnic stops, and short walks that break up the long drive across the Eyre Peninsula.

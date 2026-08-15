@@ -14,6 +14,10 @@ image: meiringen.jpg
 image_source: https://commons.wikimedia.org/wiki/File:6004_-_Meiringen_-_Bahnhofstrasse.JPG
 image_license: CC BY-SA 2.5
 image_attribution: Thisisbossi
+heritage: 3.5
+vibrancy: 2.2
+nature: 8.2
+off_the_beaten_track: 4.2
 ---
 
 Meiringen is a mountain village in the Haslital, the upper Aare valley east of [Interlaken](/europe/switzerland/interlaken). Several Alpine routes meet here, which once made it a market stop and now makes it a useful base for walks, trains, buses, and passes through the Bernese Oberland.

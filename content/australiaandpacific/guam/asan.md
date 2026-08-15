@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/War_in_the_Pacific_National_Historical_Park
 title: Asan
 type: location
+heritage: 3.1
+vibrancy: 2.2
+nature: 5.0
+off_the_beaten_track: 5.1
 ---
 
 Asan is a small village on Guam's western coast, just west of [Hagatna](/australiaandpacific/guam/agana), and one of the most important places on the island for understanding the 1944 Battle of Guam. The broad grass and beach between Asan Point and Adelup Point look peaceful now, but this was the northern landing area where American forces came ashore to retake Guam from Japanese occupation.

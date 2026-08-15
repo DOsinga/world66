@@ -14,6 +14,10 @@ snippet: Northern Namibian town with German colonial traces and supplies for Eto
   Anderson Gate.
 title: Outjo
 type: location
+heritage: 5.3
+vibrancy: 0.8
+nature: 7.6
+off_the_beaten_track: 7.2
 ---
 
 Outjo is a small, dusty town in northern [Namibia](/africa/namibia) that serves as the main gateway to [Etosha National Park](/africa/namibia/etosha). Most travellers pass through on their way to the park's Anderson Gate, about 100 kilometres to the north, but Outjo is worth a stop in its own right — if only to stock up on supplies and get a feel for small-town Namibian life.

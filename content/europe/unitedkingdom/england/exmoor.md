@@ -12,6 +12,10 @@ snippet: National park of open moorland, wooded valleys, red deer, and a dramati
   cliff-backed coast on the Bristol Channel.
 title: Exmoor
 type: location
+heritage: 5.7
+vibrancy: 2.2
+nature: 7.2
+off_the_beaten_track: 3.7
 ---
 
 Unlike [Dartmoor](/europe/unitedkingdom/england/south_west/dartmoor), which is exclusively in Devon, Exmoor National Park lies mostly in Somerset but partly in Devon.

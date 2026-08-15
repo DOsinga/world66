@@ -17,6 +17,10 @@ image: st_francis.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Luchtfoto_St_Francisbaai.jpg
 image_license: Public domain
 image_attribution: Servien at Dutch Wikipedia
+heritage: 3.1
+vibrancy: 3.7
+nature: 7.1
+off_the_beaten_track: 2.4
 ---
 
 St Francis Bay is a small Eastern Cape holiday town where the coast keeps changing character. One side is white thatched houses and canals on the Kromme River estuary; another is [Port St Francis](/africa/southafrica/st_francis/port_st_francis), a working squid harbour; farther out, Cape St Francis turns wilder, windier, and better for surf.

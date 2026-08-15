@@ -19,6 +19,10 @@ image: chiang_saen.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2014_Chiang_Saen_city_wall.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Takeaway
+heritage: 6.4
+vibrancy: 4.5
+nature: 6.3
+off_the_beaten_track: 3.5
 ---
 
 Chiang Saen is an old Lanna town on the Mekong River, north of [Chiang Rai](/asia/thailand/chiangrai) and close to the point where Thailand, Laos, and Myanmar nearly meet. It is quieter than the Golden Triangle name suggests: riverfront restaurants, temple ruins, and a low old-city wall rather than border-town drama.

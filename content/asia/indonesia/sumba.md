@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Sumba
 title: Sumba
 type: location
+heritage: 6.4
+vibrancy: 2.4
+nature: 6.8
+off_the_beaten_track: 5.3
 ---
 
 Sumba is one of Indonesia's most compelling islands — and one of its least visited. While Bali draws the crowds, Sumba has remained a place where traditional life persists in a way that feels neither staged nor frozen. Villages of thatched clan houses face each other across courtyards dominated by massive stone tombs, and the people who live in them still practise the animist religion of Marapu.

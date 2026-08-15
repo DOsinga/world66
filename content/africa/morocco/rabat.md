@@ -28,6 +28,10 @@ tip: Rabat is Morocco's calm, elegant capital — far more relaxed than Marrakes
   simple.
 title: Rabat
 type: location
+heritage: 6.0
+vibrancy: 5.3
+nature: 2.5
+off_the_beaten_track: 1.8
 ---
 
 Morocco's capital sits where the Bou Regreg river meets the Atlantic, and it is the most liveable of the country's imperial cities. No carpet touts, no maze you cannot escape from — Rabat moves at a human pace. A million people live in the city and neighbouring Salé, but the old medina feels like a small town. That is part of its appeal.

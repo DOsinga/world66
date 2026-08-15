@@ -17,6 +17,10 @@ image: aldeburgh.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aldeburgh_beach_-_Scallop.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Sumit Surai
+heritage: 5.0
+vibrancy: 4.0
+nature: 5.4
+off_the_beaten_track: 3.8
 ---
 
 Aldeburgh is a small town on the Suffolk coast, set behind a long shingle beach where fishing boats still sell the day's catch from huts above the tide line. It has the old-fashioned look of an English seaside town, but its identity is sharper than that: music, sea wind, good fish, and a constant awareness that the North Sea has taken bites out of the coast before.

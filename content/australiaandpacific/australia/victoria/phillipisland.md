@@ -12,6 +12,10 @@ image: phillipisland.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Nobbies_zz.JPG
 image_license: CC BY-SA 4.0
 image_attribution: Chensiyuan
+heritage: 2.1
+vibrancy: 4.5
+nature: 6.0
+off_the_beaten_track: 2.0
 ---
 
 Phillip Island is a wild, surf-battered island about 90 minutes southeast of Melbourne, reached via the Bass Highway and a short bridge crossing. It is best known for the nightly Penguin Parade at Summerland Beach, where hundreds of little penguins waddle ashore at dusk to their burrows in the dunes — book ahead, as it draws crowds.

@@ -9,6 +9,10 @@ snippet: Developed Gulf Coast island where resort beaches meet the mangrove maze
   the Ten Thousand Islands.
 title: Marco Island
 type: location
+heritage: 2.1
+vibrancy: 3.7
+nature: 6.2
+off_the_beaten_track: 1.7
 ---
 
 Marco Island is the largest of the Ten Thousand Islands, the maze of mangrove keys that drape the southwest Gulf coast of Florida between Naples and the Everglades. It is also the most developed by a wide margin: the north end of the island is wall-to-wall high-rise condos and beach resorts along **Crescent Beach**, a four-mile sweep of fine white shell sand that is the main reason most visitors come.

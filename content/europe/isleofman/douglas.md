@@ -14,6 +14,10 @@ title: Douglas
 type: location
 snippet: Isle of Man capital on a broad bay, with a Victorian promenade and horse-drawn
   trams.
+heritage: 4.9
+vibrancy: 5.0
+nature: 6.1
+off_the_beaten_track: 4.0
 ---
 
 Douglas is the capital of the Isle of Man, a self-governing Crown dependency in the Irish Sea between England and Ireland. The town curves around a wide bay, with a Victorian promenade running the length of the seafront and the [horse-drawn trams](/europe/isleofman/douglas/horse_trams) that have been clopping along it since 1876 — the oldest surviving horse-drawn tram service in the world. The [Tower of Refuge](/europe/isleofman/douglas/tower_of_refuge), a small gothic folly on a reef in the bay, is visible from anywhere along the front.

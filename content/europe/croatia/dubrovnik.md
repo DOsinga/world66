@@ -26,6 +26,10 @@ tip: Walk the full city walls early morning or near sunset — at midday they're
   flood the gates at once.
 title: Dubrovnik
 type: location
+heritage: 5.9
+vibrancy: 6.7
+nature: 6.3
+off_the_beaten_track: 2.1
 ---
 
 Dubrovnik is one of the most visually striking cities in the Mediterranean. A compact old town wrapped in massive stone walls, perched on cliffs above the Adriatic, it has been drawing visitors for centuries and earned its old nickname "the Pearl of the Adriatic" honestly.

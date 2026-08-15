@@ -14,6 +14,10 @@ title: Keningau
 type: location
 snippet: Interior Sabah town where Kadazan-Dusun, Murut, Chinese, and Malay communities
   meet at the Sunday tamu.
+heritage: 4.0
+vibrancy: 3.2
+nature: 5.5
+off_the_beaten_track: 4.1
 ---
 
 Keningau is a small town in the interior of Sabah, in Malaysian Borneo, set on a wide plateau in the Crocker Range and reached by a spectacularly windy road over the mountains from Kota Kinabalu. It is the administrative centre of the Interior Division and home to an ethnically mixed population of Kadazan-Dusun, Murut, Chinese and Malay — the Sunday [tamu](/asia/malaysia/keningau/keningau_tamu) (open-air market) is the best place in the state to see all four communities trading fresh jungle produce, dried river fish, smoked meats and handicrafts under the same roof.

@@ -18,6 +18,10 @@ image: dauphin.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Dauphin_Canadian_National_Railway_Station_-_Optimism_Statue.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Beinder
+heritage: 1.5
+vibrancy: 1.5
+nature: 5.4
+off_the_beaten_track: 4.2
 ---
 
 Dauphin is a small prairie city in western Manitoba, set below Riding Mountain and far enough from Winnipeg to feel like its own regional capital. It is not a polished sightseeing town, but it has a strong identity: Ukrainian settlement, rail history, summer festivals, grain-country streets, and the wooded rise of Riding Mountain just to the south.

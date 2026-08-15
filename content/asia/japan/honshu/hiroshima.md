@@ -23,6 +23,10 @@ tip: Hiroshima is sober and moving — the Peace Memorial Park and Museum around
   with noodles.
 title: Hiroshima
 type: location
+heritage: 6.2
+vibrancy: 4.8
+nature: 2.2
+off_the_beaten_track: 2.5
 ---
 
 When the first atomic bomb exploded over Hiroshima on 6 August 1945, the city became an immediate symbol of the horrors of war. Today, with a population of over a million, Hiroshima has rebuilt itself into a modern industrial city — Mazda's headquarters and main factory are here — but it has not let the world forget what happened.

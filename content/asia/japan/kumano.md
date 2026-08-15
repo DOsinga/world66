@@ -5,11 +5,16 @@ loc_type: city
 latitude: 33.8833
 longitude: 136.1
 score: 7.9
-snippet: Remote Mie coast city of pilgrimage paths, sea cliffs, shrines, and terraced rice fields.
+snippet: Remote Mie coast city of pilgrimage paths, sea cliffs, shrines, and terraced
+  rice fields.
 sources:
-  - https://en.wikivoyage.org/wiki/Kumano
-  - https://en.wikipedia.org/wiki/Kumano,_Mie
-  - https://www.japan.travel/en/destinations/tokai/mie/kumano-area/
+- https://en.wikivoyage.org/wiki/Kumano
+- https://en.wikipedia.org/wiki/Kumano,_Mie
+- https://www.japan.travel/en/destinations/tokai/mie/kumano-area/
+heritage: 5.0
+vibrancy: 2.5
+nature: 6.8
+off_the_beaten_track: 4.6
 ---
 
 Kumano is a small city on the southern Mie coast, where the Kii Peninsula begins to feel remote even by Japanese standards. It has Pacific surf, old pilgrimage paths, rock formations, shrines, terraced rice fields, and enough quiet to make the famous name feel local again.

@@ -12,6 +12,10 @@ sources:
 - https://www.openstreetmap.org/
 title: Bacalar
 type: location
+heritage: 5.8
+vibrancy: 4.8
+nature: 7.5
+off_the_beaten_track: 4.4
 ---
 
 Bacalar sits beside a long freshwater lagoon in southern Quintana Roo, close enough to [Chetumal](/northamerica/mexico/chetumal) to make an easy escape but different enough to feel like another trip. The water is the reason to come: shallow, clear, and famously streaked with blues and greens where sandbars, cenotes, and deeper channels change the colour under the sun.

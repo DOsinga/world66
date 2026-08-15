@@ -17,6 +17,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Lunenburg
 title: Lunenburg
 type: location
+heritage: 5.5
+vibrancy: 2.5
+nature: 5.9
+off_the_beaten_track: 3.1
 ---
 
 *North America > Canada > Nova Scotia > Lunenburg*

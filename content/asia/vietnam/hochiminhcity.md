@@ -15,6 +15,10 @@ snippet: Vietnam's commercial capital, a fast-moving city of markets, motorbikes
   and French colonial landmarks.
 title: Ho Chi Minh City
 type: location
+heritage: 6.8
+vibrancy: 6.0
+nature: 1.7
+off_the_beaten_track: 2.1
 ---
 
 Ho Chi Minh City — still called Saigon by almost everyone who lives there — is the commercial heart of Vietnam. It is louder, hotter, and more chaotic than the capital [Hanoi](/asia/vietnam/hanoi) a thousand kilometres to the north, and that is most of its appeal. Ten million people, an ocean of motorbikes (crossing the street is genuinely a learned skill), and a rate of economic change that has rebuilt whole districts in the last decade while leaving French-colonial arcades, Chinese pagodas, and war-era buildings still standing in between.

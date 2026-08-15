@@ -11,6 +11,10 @@ image: fanoe.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Buildings_at_Nordby,_Fan%C3%B8_(33175).jpg
 image_license: CC BY-SA 4.0
 image_attribution: KaZoria
+heritage: 4.3
+vibrancy: 2.3
+nature: 6.0
+off_the_beaten_track: 3.2
 ---
 
 Fanø is a small island lying just off the coast of Esbjerg, reached by a twelve-minute ferry crossing from Esbjerg harbour. At 56 square kilometres it is one of the smaller Danish islands, but it has a character that belies its size — a combination of wide western beaches, a protected Wadden Sea coast, and two towns with very different personalities.

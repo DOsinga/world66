@@ -13,6 +13,10 @@ snippet: Swedish lakeside city on Mälaren, mixing Viking roots, medieval church
   and modern industrial heritage
 title: Västerås
 type: location
+heritage: 4.6
+vibrancy: 4.5
+nature: 4.8
+off_the_beaten_track: 1.3
 ---
 
 Västerås sits on the northern shore of Lake Mälaren, about an hour west of [Stockholm](/europe/sweden/stockholm) by train. It is one of Sweden's oldest cities, with roots stretching back to Viking times, and today it is the country's sixth largest -- a mix of medieval history, industrial heritage, and modern lakeside living.

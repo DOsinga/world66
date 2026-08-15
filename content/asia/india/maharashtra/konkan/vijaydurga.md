@@ -17,6 +17,10 @@ image: vijaydurga.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Vijaydurga.JPG
 image_license: CC BY-SA 3.0
 image_attribution: AdiDat
+heritage: 4.6
+vibrancy: 2.1
+nature: 5.6
+off_the_beaten_track: 4.3
 ---
 
 Vijaydurga takes its name from the imposing fort that dominates the coastline here. Originally known as Gheriya, the fort was renamed by Shivaji Maharaj, the great Maratha warrior king. The town was once a busy fishing port, thriving when the Mumbai-Goa ferry service still ran.

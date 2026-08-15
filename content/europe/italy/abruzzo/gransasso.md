@@ -17,6 +17,10 @@ sources:
 - https://www.italia.it/en/abruzzo/things-to-do/gran-sasso-monti-della-laga-national-park
 title: Gran Sasso
 type: location
+heritage: 4.0
+vibrancy: 1.3
+nature: 8.1
+off_the_beaten_track: 5.4
 ---
 
 Gran Sasso is the great mountain wall of Abruzzo, rising north-east of [L'Aquila](/europe/italy/abruzzo/aquila) and forming the highest part of the Apennines. Its summit, [Corno Grande](/europe/italy/abruzzo/gransasso/corno_grande), reaches 2,912 metres, high enough to feel genuinely alpine even though Rome is only a couple of hours away.

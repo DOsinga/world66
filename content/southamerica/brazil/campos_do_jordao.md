@@ -20,6 +20,10 @@ image: campos_do_jordao.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Araucaia_Campos_do_Jord%C3%A3o.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Sérgio Valle Duarte
+heritage: 2.6
+vibrancy: 4.1
+nature: 7.7
+off_the_beaten_track: 2.7
 ---
 
 Campos do Jordão is Brazil's mountain-resort version of a winter town, high in the Serra da Mantiqueira north-east of São Paulo. Brazilians come for cool air, fondue, chalet-like architecture, and the novelty of wearing a coat in a country better known abroad for beaches.

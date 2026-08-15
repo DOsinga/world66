@@ -13,6 +13,10 @@ image: northfield.jpg
 image_source: https://commons.wikimedia.org/wiki/File:DowntownNorthfield1.JPG
 image_license: CC BY 3.0
 image_attribution: 123dieinafire of English Wikipedia
+heritage: 5.4
+vibrancy: 3.2
+nature: 3.6
+off_the_beaten_track: 1.9
 ---
 
 Northfield is a small college town on the Cannon River, about 40 miles south of [Minneapolis](/northamerica/unitedstates/minnesota/minneapolis) and [St. Paul](/northamerica/unitedstates/minnesota/stpaul). It is best known for two things: Carleton College and St. Olaf College, and the 1876 bank raid where townspeople fought off the James-Younger Gang.

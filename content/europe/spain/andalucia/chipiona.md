@@ -14,6 +14,10 @@ snippet: Atlantic beach town near the Guadalquivir mouth, known for seafood and 
   tallest lighthouse.
 title: Chipiona
 type: location
+heritage: 2.7
+vibrancy: 2.3
+nature: 5.2
+off_the_beaten_track: 4.2
 ---
 
 Chipiona is a simple, unpretentious beach resort on the Atlantic coast of [Andalucia](/europe/spain/andalucia), near the mouth of the Guadalquivir River. It has two spectacular beaches and great seafood restaurants — this is a place where you can eat fried fish and local prawns for very little money. Outside August, you can largely escape the crowds and experience a typical Spanish seaside town.

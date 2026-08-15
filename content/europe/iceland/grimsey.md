@@ -11,6 +11,10 @@ image: grimsey.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gr%C3%ADmsey_Iceland.JPG
 image_license: CC BY-SA 2.5
 image_attribution: MosheA
+heritage: 1.7
+vibrancy: 1.1
+nature: 7.2
+off_the_beaten_track: 4.8
 ---
 
 Grímsey is Iceland's northernmost inhabited point, a small island roughly 40 kilometres off the north coast where the Arctic Circle crosses the land. It is the only part of Iceland that lies on the circle itself, and the line does not sit still — the slow wobble of the Earth's axial tilt drags it about 15 metres northward each year. A concrete globe, moved annually to track the real position of the circle, marks the crossing. Arrive by sea and the locals will issue you an Arctic Circle certificate.

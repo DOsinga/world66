@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Pentecost_(island)
 title: Pentecost
 type: location
+heritage: 6.7
+vibrancy: 4.2
+nature: 7.1
+off_the_beaten_track: 5.3
 ---
 
 Pentecost is a long, mountainous island in the eastern arc of [Vanuatu](/australiaandpacific/vanuatu), about 250 kilometres north of Port Vila. It is famous for one thing above all: the [Naghol](/australiaandpacific/vanuatu/pentecost/naghol_land_dive), the land dive performed each year in the southern villages between April and June. Men build vertiginous wooden towers up to thirty metres high, tie vines to their ankles, and throw themselves off head-first to brush the cleared earth below. It is the ritual that gave the modern world bungee jumping — A. J. Hackett saw it on Pentecost in the 1980s and commercialised the idea — and it remains one of the most extraordinary living ceremonies in the Pacific.

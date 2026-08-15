@@ -14,6 +14,10 @@ snippet: North Wales city with coal-and-steel roots, St Giles' tower, and a glob
   football story.
 title: Wrexham
 type: location
+heritage: 6.4
+vibrancy: 4.2
+nature: 3.9
+off_the_beaten_track: 2.1
 ---
 
 Wrexham became Wales's newest city in 2022, a recognition long overdue for the largest town in north Wales and a place with more claim to urban grit than most of the country's cities. A former coal and steel town, it has reinvented itself as a busy commercial centre — and, since 2020, as an unlikely global football sensation.

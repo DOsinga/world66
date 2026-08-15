@@ -18,6 +18,10 @@ image: owen_sound.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Inglis_falls,_Owen_Sound,_Ontario.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Peter K Burian
+heritage: 4.6
+vibrancy: 5.2
+nature: 6.5
+off_the_beaten_track: 2.7
 ---
 
 Owen Sound sits at the head of a long inlet of Georgian Bay, where harbour, limestone escarpment, and small-city Ontario meet. It is not as famous as the Bruce Peninsula towns to the north, but it has enough of its own shape to reward a spare day: waterfalls above town, a working waterfront, and a strong link to Canadian landscape painter Tom Thomson.

@@ -15,6 +15,10 @@ type: location
 score: 6.88
 snippet: Shandong coastal city facing Korea, with Liugong Island history and a visible
   Korean cultural presence.
+heritage: 3.8
+vibrancy: 4.7
+nature: 4.8
+off_the_beaten_track: 1.7
 ---
 
 Weihai sits at the far eastern tip of the Shandong Peninsula, the nearest Chinese city to South Korea — only 94 nautical miles separate it from the Korean coast — and its character reflects that proximity. The Korean influence is tangible: the [Korean District](/asia/china/shandong_province/weihai/korean_district) near the city center is effectively a Korean neighborhood, with Korean-language signage, authentic restaurants, cafes, and a night market frequented by the substantial Korean expat and student population. It feels less like a themed tourist zone than a genuine cultural overlap, and the food alone makes it worth the detour.

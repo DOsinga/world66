@@ -12,6 +12,10 @@ sources:
 - https://www.wikidata.org/wiki/Q181276
 - https://en.wikipedia.org/wiki/Szolnok
 - https://www.reptar.hu/en/muzeumunk.html
+heritage: 3.8
+vibrancy: 2.6
+nature: 3.7
+off_the_beaten_track: 1.8
 ---
 
 Szolnok sits where the Zagyva meets the Tisza, out on the Great Hungarian Plain. It is a county seat and a railway town, but it has more character than that sounds: river walks, an old artists' colony, a former synagogue used as a gallery, and one of Hungary's best aviation museums.

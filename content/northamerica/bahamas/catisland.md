@@ -14,6 +14,10 @@ title: Cat Island
 type: location
 score: 7.92
 loc_type: city
+heritage: 2.0
+vibrancy: 1.4
+nature: 7.4
+off_the_beaten_track: 6.2
 ---
 
 Cat Island is one of the least developed islands in the Bahamas, and that is precisely its appeal. There are no cruise ship crowds here, no mega-resorts, and very few tourists. What you get instead are empty pink-sand beaches, tiny settlements, and a pace of life that the rest of the Bahamas lost decades ago.

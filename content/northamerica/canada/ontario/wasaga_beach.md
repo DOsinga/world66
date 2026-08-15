@@ -15,6 +15,10 @@ image: wasaga_beach.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Tourist_cabins_at_Wasaga_Beach_1949.jpg
 image_license: Public domain
 image_attribution: National Film Board of Canada
+heritage: 2.2
+vibrancy: 4.5
+nature: 6.5
+off_the_beaten_track: 1.7
 ---
 
 Wasaga Beach is not subtle. It is an Ontario summer town stretched along Georgian Bay, with a sandy freshwater beach so long that the numbered beach areas feel like a small geography lesson. On a hot July weekend it can be busy, loud, and unapologetically beachy.

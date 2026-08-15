@@ -14,6 +14,10 @@ snippet: Central Coast agricultural city known for red-oak tri-tip barbecue and 
   Maria Valley wine country.
 title: Santa Maria
 type: location
+heritage: 3.6
+vibrancy: 5.3
+nature: 5.8
+off_the_beaten_track: 2.6
 ---
 
 Santa Maria sits in a broad agricultural valley on California's Central Coast, halfway between Los Angeles and San Francisco along Highway 101. The town is best known for its barbecue tradition — [Santa Maria-style tri-tip](/northamerica/unitedstates/california/centralcoast/santamaria/santa_maria_style_bbq) and pinquito beans cooked over red oak coals, a style that dates back to the nineteenth-century rancho era and remains the centrepiece of local cooking.

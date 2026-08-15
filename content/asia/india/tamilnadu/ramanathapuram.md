@@ -9,6 +9,10 @@ score: 5.96
 snippet: Tamil Nadu town with Sethupati palace history on the mainland route to Rameshwaram
 title: Ramanathapuram
 type: location
+heritage: 4.6
+vibrancy: 3.6
+nature: 4.4
+off_the_beaten_track: 3.8
 ---
 
 Ramanathapuram is the district headquarters of the district that contains Rameshwaram, and most travellers pass through it on their way to that far more famous island. The town itself has a quiet, faded grandeur from its time as the seat of the Sethupati Rajas, a dynasty that controlled this coastal region for several centuries and whose alliance with the Rameshwaram temple brought them great prestige.

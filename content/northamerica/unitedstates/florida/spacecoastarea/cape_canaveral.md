@@ -16,6 +16,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_in_Cape_Canaveral,_F
 image_license: CC BY 2.0
 image_attribution: Ricymar Photography (Thanks to all the fans!!!!) from KISSIMMEE,
   US
+heritage: 3.2
+vibrancy: 3.3
+nature: 5.9
+off_the_beaten_track: 1.5
 ---
 
 Cape Canaveral is the working, salty side of Florida's Space Coast. Cruise ships leave from Port Canaveral, rockets rise from the launch complexes to the north, and beach parks sit between condo blocks and the Atlantic.

@@ -15,6 +15,10 @@ image_license: CC BY-SA 4.0
 image_attribution: Bob T
 sources:
 - https://en.wikipedia.org/wiki/Launceston,_Tasmania
+heritage: 4.5
+vibrancy: 4.4
+nature: 6.2
+off_the_beaten_track: 2.9
 ---
 
 Launceston is [Tasmania](/australiaandpacific/australia/tasmania)'s second city, founded in 1805 by free settlers from across Bass Strait — a commercial town from the start, without Hobart's convict origins. It sits 70 kilometres inland along the Tamar River, surrounded by hills that give it cold, foggy winter mornings and the nickname "foggy hollow."

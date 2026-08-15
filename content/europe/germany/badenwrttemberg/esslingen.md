@@ -14,6 +14,10 @@ snippet: Medieval Neckar town east of Stuttgart, with half-timbered streets and 
   oldest Sekt producer.
 title: Esslingen
 type: location
+heritage: 7.5
+vibrancy: 4.7
+nature: 2.7
+off_the_beaten_track: 2.1
 ---
 
 Esslingen am Neckar is one of the best-preserved medieval towns in southern Germany, sitting just east of Stuttgart along the Neckar river. Founded in 777, it somehow escaped the worst of the wartime bombing that flattened much of the region, and its half-timbered old town feels remarkably intact.

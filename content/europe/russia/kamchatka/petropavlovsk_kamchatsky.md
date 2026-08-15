@@ -12,6 +12,10 @@ image: petropavlovsk_kamchatsky.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Koryaksky_volcano_Petropavlovsk-Kamchatsky_oct-2005.jpg
 image_license: Public domain
 image_attribution: Tatyana Rashidova
+heritage: 3.9
+vibrancy: 5.6
+nature: 6.6
+off_the_beaten_track: 4.1
 ---
 
 Petropavlovsk-Kamchatsky is the capital of [Kamchatka](/europe/russia/kamchatka) and the only practical gateway to one of Russia's wildest regions. The city sits on Avacha Bay, backed by snow-capped volcanoes that make even ordinary streets feel dramatic when the weather clears.

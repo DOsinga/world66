@@ -16,6 +16,10 @@ snippet: Belize's largest city and main transport hub, where the Belize River me
   the Caribbean Sea.
 title: Belize City
 type: location
+heritage: 4.4
+vibrancy: 5.0
+nature: 7.4
+off_the_beaten_track: 2.6
 ---
 
 Belize City is the largest city in the country and its main transport hub, sitting where the Belize River meets the Caribbean Sea. Most international flights land here, and the water taxi and bus terminals are the departure points for the cayes and the interior.

@@ -13,6 +13,10 @@ image: padstow.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Padstow_(Cornwall).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Otto Domes
+heritage: 4.8
+vibrancy: 4.5
+nature: 6.7
+off_the_beaten_track: 3.0
 ---
 
 Padstow is one of the most visited small towns in Cornwall — a fishing village on the Camel Estuary that has reinvented itself as a food destination. Rick Stein opened his first Padstow restaurant here in the 1970s and the town has since become shorthand for upscale Cornish seafood, spawning a cluster of fish restaurants and food shops around the harbour that draw visitors year-round.

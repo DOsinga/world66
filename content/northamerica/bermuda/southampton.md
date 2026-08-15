@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Horseshoe_Bay,_Bermuda
 title: Southampton
 type: location
+heritage: 4.0
+vibrancy: 4.4
+nature: 6.3
+off_the_beaten_track: 2.7
 ---
 
 Southampton is the westernmost parish of Bermuda, strung along the South Shore with some of the island's finest beaches. The parish is quiet and residential compared to Hamilton or St. George's, but the coastline is the reason to come.

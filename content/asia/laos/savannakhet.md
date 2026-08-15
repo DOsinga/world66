@@ -14,6 +14,10 @@ snippet: Sleepy Mekong city opposite Thailand, marked by French colonial buildin
   and cross-border transit.
 title: Savannakhet
 type: location
+heritage: 2.8
+vibrancy: 1.8
+nature: 5.7
+off_the_beaten_track: 6.2
 ---
 
 Savannakhet is the second-largest city in Laos and the capital of its most populous province. Sitting on the Mekong opposite the Thai town of Mukdahan, it has a sleepy charm with crumbling French colonial buildings in its old quarter, a handful of Chinese shophouses, and a Vietnamese-influenced Mahayana Buddhist temple alongside the usual Lao wats.

@@ -16,6 +16,10 @@ type: location
 score: 7.8
 snippet: Yukon capital on the Alaska Highway, serving as the main hub for northern
   wilderness trips.
+heritage: 5.9
+vibrancy: 2.9
+nature: 7.3
+off_the_beaten_track: 5.1
 ---
 
 *North America > Canada > The Yukon Territory > Whitehorse*

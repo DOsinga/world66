@@ -16,6 +16,10 @@ tags:
 - rivieradellepalme
 title: Magliolo
 type: location
+heritage: 3.1
+vibrancy: 1.5
+nature: 5.6
+off_the_beaten_track: 4.6
 ---
 
 Magliolo is a quiet rural village inland from [Pietra Ligure](/europe/italy/liguria/pietraligure), sitting on the left bank of the stream that shares its name. The economy runs on agriculture and forestry, much as it has for centuries.

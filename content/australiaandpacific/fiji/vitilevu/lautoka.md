@@ -13,6 +13,10 @@ snippet: Fiji's Sugar City on western Viti Levu, built around cane fields, a mil
   and a busy market
 title: Lautoka
 type: location
+heritage: 3.8
+vibrancy: 4.8
+nature: 5.7
+off_the_beaten_track: 2.4
 ---
 
 Lautoka is Fiji's second city, sitting on the western coast of [Viti Levu](/australiaandpacific/fiji/vitilevu) in the shadow of the Koroyanitu mountain range. Known as the Sugar City, it grew up around the sugar mill that still dominates the waterfront — during crushing season the sweet smell of processed cane hangs over the town.

@@ -12,6 +12,10 @@ sources:
 - https://www.nps.gov/jica/index.htm
 title: Plains
 type: location
+heritage: 3.3
+vibrancy: 1.8
+nature: 2.6
+off_the_beaten_track: 1.9
 ---
 
 Plains is a town of about 600 people in southwest Georgia, surrounded by peanut fields and pine. It would be entirely unremarkable except that it produced a President of the United States, who lived here before, during, and for forty-four years after his term in office. Jimmy Carter was born in Plains in 1924, ran his peanut farm here, was elected governor of Georgia and then president from here, and returned here in 1981 to teach Sunday school at the Maranatha Baptist Church until his death in 2024. Rosalynn Carter, who grew up next door, died in 2023. They are buried together at the family home.

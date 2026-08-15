@@ -14,6 +14,10 @@ snippet: Southern Haitian port town known for ironwork houses, papier-mâché ca
   masks, and waterfall pools nearby.
 title: Jacmel
 type: location
+heritage: 4.9
+vibrancy: 4.0
+nature: 5.1
+off_the_beaten_track: 5.1
 ---
 
 Jacmel is a coastal town on Haiti's southern coast, about four hours from Port-au-Prince by road. It is one of the most charming towns in the country — a port with a well-preserved [historic centre](/northamerica/haiti/jacmel/historic_centre) of Victorian-era ironwork houses, a lively [iron market](/northamerica/haiti/jacmel/marche_en_fer), and a thriving arts scene centered on [papier-mâché workshops](/northamerica/haiti/jacmel/papier_mache_workshops), carved wood animals, and painting.

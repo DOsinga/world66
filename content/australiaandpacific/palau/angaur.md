@@ -14,6 +14,10 @@ snippet: Small southern Palauan island with World War II remnants, strong-curren
   reefs, and a quiet local population.
 title: Angaur
 type: location
+heritage: 6.5
+vibrancy: 0.6
+nature: 7.9
+off_the_beaten_track: 7.3
 ---
 
 Angaur is the southernmost inhabited island of Palau, a small flat island of about 8 square kilometres sitting apart from the main Palauan island chain. It is one of Palau's least-visited destinations, with a small resident population and no significant tourist infrastructure.

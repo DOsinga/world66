@@ -14,6 +14,10 @@ title: Cherepovets
 type: location
 snippet: Industrial city in Vologda Oblast, dominated by steelworks and linked to
   painter Vasily Vereshchagin.
+heritage: 1.8
+vibrancy: 1.6
+nature: 2.4
+off_the_beaten_track: 4.0
 ---
 
 Cherepovets is an industrial city in Russia's Vologda Oblast, built around one of the country's largest steel plants. The Severstal steelworks dominate the skyline and the local economy, and the city has the no-nonsense character of a place that works for a living. It is not a conventional tourist destination, but travellers passing through the Vologda region may find it a useful stop.

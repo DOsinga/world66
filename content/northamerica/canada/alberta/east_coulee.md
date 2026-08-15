@@ -17,6 +17,10 @@ sources:
 title: East Coulee
 type: location
 wikidata: Q5328176
+heritage: 1.7
+vibrancy: 1.5
+nature: 3.8
+off_the_beaten_track: 4.7
 ---
 
 East Coulee is a small former coal town east of Drumheller, set in the bare, striped badlands of the Red Deer River valley. It is not a polished destination, and that is the point: the old school, the mine buildings, and the dry coulee walls make the coal history feel close rather than packaged.

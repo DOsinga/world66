@@ -17,6 +17,10 @@ image: ngwe_saung.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ngwe_Saung_Beach_from_Lovers_island.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Win win thant
+heritage: 2.1
+vibrancy: 3.2
+nature: 6.4
+off_the_beaten_track: 3.7
 ---
 
 Ngwe Saung is Myanmar's easier-going beach escape from Yangon: a long run of pale sand, a small village at the northern end, and a line of resorts that still feels loose rather than overbuilt. It is less polished than Ngapali and quieter than Chaung Tha, which is exactly the appeal if you want a few slow days by the Bay of Bengal.

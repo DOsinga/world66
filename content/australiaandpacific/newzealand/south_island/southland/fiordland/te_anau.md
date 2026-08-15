@@ -14,6 +14,10 @@ snippet: Fiordland lakeside town and walking base for Milford Track, Kepler Trac
   and glowworm caves.
 title: Te Anau
 type: location
+heritage: 6.6
+vibrancy: 6.2
+nature: 9.2
+off_the_beaten_track: 4.8
 ---
 
 Te Anau is a small town on the eastern shore of [Lake Te Anau](/australiaandpacific/newzealand/south_island/southland/fiordland/te_anau/lake_te_anau), the gateway to [Fiordland National Park](/australiaandpacific/newzealand/south_island/southland/fiordland) and one of the most spectacular wilderness areas in New Zealand. It sits roughly halfway between [Queenstown](/australiaandpacific/newzealand/south_island/otago/queenstown) and [Milford Sound](/australiaandpacific/newzealand/milfordsound), about two hours' drive from each.

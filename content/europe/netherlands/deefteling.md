@@ -13,6 +13,10 @@ snippet: Dutch fairy-tale amusement park near Kaatsheuvel, rooted in Anton Pieck
   woodland Sprookjesbos
 title: De Efteling
 type: location
+heritage: 3.5
+vibrancy: 4.4
+nature: 3.2
+off_the_beaten_track: 0.9
 ---
 
 De Efteling is the Netherlands' most-visited amusement park, drawing over 5 million visitors a year. It is located near Kaatsheuvel in the province of Noord-Brabant, not far from [Den Bosch](/europe/netherlands/denbosch).

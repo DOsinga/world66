@@ -13,6 +13,10 @@ longitude: 75.99
 score: 8.36
 title: Kashgar
 type: location
+heritage: 6.6
+vibrancy: 4.9
+nature: 3.7
+off_the_beaten_track: 7.4
 ---
 
 The oasis of Kashgar, with a view of the last peaks of the western Himalayas, is the last stop in China on the Silk Road. From here you can cross to [Pakistan](/asia/pakistan) over the [Karakoram Highway](/asia/china/xinjiangprovince/kashgar/karakoram_highway) or to [Kyrgyzstan](/asia/kyrgyzstan) over the Torugart Pass.

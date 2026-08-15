@@ -14,6 +14,10 @@ snippet: Franconian city beside Nuremberg, known for independent character and G
   first railway terminus
 title: Fürth
 type: location
+heritage: 5.4
+vibrancy: 3.9
+nature: 3.1
+off_the_beaten_track: 1.3
 ---
 
 Fürth lives in the shadow of its bigger neighbour [Nuremberg](/europe/germany/bavaria/nuremberg), just seven kilometres to the east, but has its own distinct character. The two cities have grown together physically — the U1 U-Bahn connects them in 15 minutes — yet Fürth feels quieter, more residential, and proudly independent.

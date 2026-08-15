@@ -18,6 +18,10 @@ image: tapachula.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_de_Izapa.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Dianapaugallegos
+heritage: 4.3
+vibrancy: 4.9
+nature: 5.9
+off_the_beaten_track: 4.4
 ---
 
 Tapachula is the big, hot, restless city of Mexico's far southern Pacific coast, close to Guatemala but not quite on the border. It is the capital of the Soconusco, a humid strip of cacao, banana, mango, and coffee country squeezed between the ocean and the Sierra Madre de Chiapas.

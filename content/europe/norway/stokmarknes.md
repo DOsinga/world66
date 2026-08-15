@@ -14,9 +14,13 @@ score: 7.6
 snippet: Small Vesterålen town on Hadseløya, birthplace of the Hurtigruten coastal
   steamer service.
 tags:
-  - vesteralen
+- vesteralen
 title: Stokmarknes
 type: location
+heritage: 3.5
+vibrancy: 3.8
+nature: 7.4
+off_the_beaten_track: 3.2
 ---
 
 Stokmarknes is a small town on the island of Hadseløya in the Vesterålen archipelago, well above the Arctic Circle in northern Norway. It is best known as the birthplace of the Hurtigruten coastal steamer service, which has connected ports along the Norwegian coast since 1893. For most visitors, the town is a brief stop on the [Bergen](/europe/norway/bergen)–[Kirkenes](/europe/norway/kirkenes) Hurtigruten route.

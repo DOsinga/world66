@@ -14,6 +14,10 @@ image: sapa.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Rice_terraces_in_Sapa,_Vietnam.jpg
 image_license: CC0
 image_attribution: Eerin25
+heritage: 4.2
+vibrancy: 5.2
+nature: 7.4
+off_the_beaten_track: 4.7
 ---
 
 Sapa is a hill station in the far north-west of Vietnam, set at 1,600 metres in a spectacular valley surrounded by the Hoang Lien Son mountains — the highest range in Indochina, culminating in [Fansipan](/asia/vietnam/sapa/fansipan) (3,143 m), Vietnam's tallest peak. The French built it as a mountain retreat in the 1920s, and the remnants of their stone villas — crumbling, moss-covered, atmospheric — still dot the hillside above the town. Today Sapa is Vietnam's main trekking base and a window onto the hill-tribe cultures of the northern highlands.

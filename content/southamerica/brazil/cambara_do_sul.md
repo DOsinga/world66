@@ -3,9 +3,14 @@ latitude: -29.0574
 loc_type: city
 longitude: -50.0876
 score: 7.1
-snippet: Small highland village on the Serra Gaúcha escarpment, the main base for visiting Aparados da Serra and the Itaimbezinho canyon.
+snippet: Small highland village on the Serra Gaúcha escarpment, the main base for
+  visiting Aparados da Serra and the Itaimbezinho canyon.
 title: Cambará do Sul
 type: location
+heritage: 2.6
+vibrancy: 1.7
+nature: 7.5
+off_the_beaten_track: 4.1
 ---
 
 Cambará do Sul sits at around 1,000 metres on the southern edge of the Serra Gaúcha plateau, where the basalt cliffs fall away into spectacular canyons. It is a small, rural village with little to offer beyond a couple of restaurants and a handful of pousadas — but its position puts it within easy reach of some of the most dramatic scenery in southern Brazil.

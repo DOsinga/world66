@@ -17,6 +17,10 @@ image: royan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:00_2632_Royan-Plage.jpg
 image_license: CC BY-SA 4.0
 image_attribution: W. Bulach
+heritage: 4.4
+vibrancy: 3.3
+nature: 5.2
+off_the_beaten_track: 1.7
 ---
 
 Royan is one of the more unusual seaside towns on the French Atlantic coast. It has beaches, a marina and the holiday rhythm of the Côte de Beauté, but its real character comes from catastrophe and rebuilding: much of the town was destroyed in 1945, then rebuilt with a confident, sometimes startling, 1950s modernism.

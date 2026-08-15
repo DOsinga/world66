@@ -26,6 +26,10 @@ tip: Warsaw's Old Town looks medieval but was painstakingly rebuilt from rubble 
   The Chopin and Uprising museums are superb.
 title: Warsaw
 type: location
+heritage: 7.1
+vibrancy: 6.3
+nature: 1.6
+off_the_beaten_track: 1.3
 ---
 
 Warsaw is not a beautiful city in the conventional sense. Ninety percent of it was systematically destroyed by the Germans after the 1944 Warsaw Uprising, and much of what you see today was built in the communist period. But it is a fascinating and increasingly dynamic city, with a history so extreme that its traces are everywhere.

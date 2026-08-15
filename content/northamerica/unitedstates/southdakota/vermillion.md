@@ -17,6 +17,10 @@ image: vermillion.jpg
 image_source: https://commons.wikimedia.org/wiki/File:VermilionSD_Downtown.jpg
 image_license: CC BY-SA 4.0
 image_attribution: User:Magicpiano
+heritage: 3.0
+vibrancy: 2.7
+nature: 4.2
+off_the_beaten_track: 1.6
 ---
 
 Vermillion is a small college town above the Missouri River in southeastern South Dakota. The University of South Dakota gives it a steadier cultural pulse than many towns its size, but the real surprise is how quickly the town opens onto prairie, river bluffs, and Lewis and Clark country.

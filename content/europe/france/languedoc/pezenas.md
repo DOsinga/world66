@@ -14,6 +14,10 @@ snippet: Historic Hérault town where Renaissance mansions and Molière memories
   a preserved 17th-century centre.
 title: Pézenas
 type: location
+heritage: 6.6
+vibrancy: 4.3
+nature: 4.2
+off_the_beaten_track: 2.7
 ---
 
 Pézenas is a small historic town in the Hérault, roughly halfway between Montpellier and Béziers. Its old town is exceptionally well-preserved — Renaissance and Baroque hôtels particuliers line narrow streets that haven't changed much since the 17th century, when Molière spent time here performing for the local governor. The playwright's brief residency is commemorated enthusiastically, but the town's real charm is simply in wandering: elaborate carved doorways, glimpses into shaded courtyards, and a high concentration of artists' workshops and antique dealers.

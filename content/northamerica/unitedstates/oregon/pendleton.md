@@ -17,6 +17,10 @@ image: pendleton.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Happy_Canyon_Hall_of_Fame_(Pendleton,_Oregon).jpg
 image_license: CC BY-SA 3.0
 image_attribution: Visitor7
+heritage: 5.0
+vibrancy: 3.4
+nature: 5.3
+off_the_beaten_track: 2.9
 ---
 
 Pendleton is the sort of Eastern Oregon town that explains itself slowly. From the highway it can look like a service stop in dry wheat country, but the old centre has real weight: brick storefronts, saddle shops, a famous woollen mill, and a rodeo tradition that still fills the town every September.

@@ -25,6 +25,10 @@ tip: Chamonix sits under Mont Blanc, the Alps' highest peak. Ride the Aiguille d
   the staircase down to it grows longer each year. Summer hiking rivals winter skiing.
 title: Chamonix
 type: location
+heritage: 3.9
+vibrancy: 2.0
+nature: 7.6
+off_the_beaten_track: 4.3
 ---
 
 Chamonix sits at the foot of Mont Blanc, western Europe's highest peak, and that location alone makes it one of the most dramatic mountain towns on the continent. Unlike many French ski resorts — purpose-built clusters of high-rise apartments dropped next to a lift station — Chamonix is a real town, with a cosy centre full of good bars, restaurants, and cafes that have been drawing visitors since the 18th century.

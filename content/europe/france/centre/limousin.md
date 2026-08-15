@@ -13,6 +13,10 @@ image: limousin.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Limoges_cath%C3%A9drale_Saint-%C3%89tienne_3.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Croquant
+heritage: 4.4
+vibrancy: 3.5
+nature: 5.4
+off_the_beaten_track: 4.4
 ---
 
 The Limousin is one of the least visited and least populated regions of France, spread across the western slopes of the Massif Central. For travellers in search of unspoiled countryside — rolling green meadows, deep river gorges, ancient village churches, and very few tourists — it is hard to beat.

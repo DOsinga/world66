@@ -16,6 +16,10 @@ image: lake_tekapo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lake_Tekapo,_Canterbury,_New_Zealand_01.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Michal Klajban
+heritage: 2.0
+vibrancy: 1.1
+nature: 7.9
+off_the_beaten_track: 3.4
 ---
 
 Lake Tekapo is a small village beside a startling turquoise glacial lake in the Mackenzie Basin, 225 kilometres southwest of Christchurch on State Highway 8. The lake's colour comes from rock flour carried down from the Southern Alps, and on clear days the water and mountains make the place feel much larger than the village itself.

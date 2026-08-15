@@ -14,6 +14,10 @@ snippet: Small rural Vermont town of farms and schoolhouse heritage, known for p
   hillside Jenne Farm.
 title: Reading
 type: location
+heritage: 2.1
+vibrancy: 1.7
+nature: 5.9
+off_the_beaten_track: 2.8
 ---
 
 Reading is a small Vermont town with a population of around 700, situated in the eastern central part of the state on Route 106 between Woodstock and Springfield. It is quiet and agricultural, with the unhurried feel of rural southern Vermont.

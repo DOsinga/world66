@@ -10,6 +10,10 @@ snippet: High-plains university town in southeastern Wyoming, with frontier stor
   and Snowy Range access nearby.
 title: Laramie
 type: location
+heritage: 2.8
+vibrancy: 4.7
+nature: 7.4
+off_the_beaten_track: 2.1
 ---
 
 Laramie sits at 7,200 feet on the high plains of southeastern Wyoming, a university town with a frontier past and more character than you would expect from a place this small. The University of Wyoming gives it a lively feel — good coffee shops, a decent bookstore, and a surprisingly strong art museum on campus.

@@ -11,6 +11,10 @@ snippet: Lithuanian spa resort among Nemunas pine forests, built around mineral 
   baths, and quiet borderland air.
 title: Druskininkai
 type: location
+heritage: 4.2
+vibrancy: 2.7
+nature: 6.0
+off_the_beaten_track: 2.7
 ---
 
 Druskininkai is Lithuania's main spa resort, set among pine forests on the Nemunas river in the southwest corner of the country, close to the borders with Belarus and Poland. It has been a health destination since the 19th century, when Russian imperial doctors prescribed its mineral springs. The town is compact, quiet, and well-maintained — a relaxing contrast to the pace of Vilnius.

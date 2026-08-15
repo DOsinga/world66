@@ -5,14 +5,19 @@ latitude: -33.022
 loc_type: city
 longitude: 138.003
 score: 6.2
-snippet: Spencer Gulf port village defined by South Australia's longest wooden jetty and huge tides.
+snippet: Spencer Gulf port village defined by South Australia's longest wooden jetty
+  and huge tides.
 sources:
-  - https://en.wikivoyage.org/wiki/Port_Germein
-  - https://portgermein.com.au/
-  - https://en.wikipedia.org/wiki/Port_Germein,_South_Australia
+- https://en.wikivoyage.org/wiki/Port_Germein
+- https://portgermein.com.au/
+- https://en.wikipedia.org/wiki/Port_Germein,_South_Australia
 title: Port Germein
 type: location
 wikidata: Q21884512
+heritage: 2.6
+vibrancy: 1.8
+nature: 5.2
+off_the_beaten_track: 3.7
 ---
 
 Port Germein is a tiny Spencer Gulf town with one outsized reason to stop: its long wooden jetty, built for shallow water and wheat ships, still pushes far out across the tidal flats. At low tide the sea can feel almost absent; at high tide the same foreshore becomes a fishing, crabbing, and sunset place.

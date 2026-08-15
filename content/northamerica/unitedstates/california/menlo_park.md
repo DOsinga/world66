@@ -14,6 +14,10 @@ snippet: Affluent Peninsula city where Silicon Valley research history meets a c
   Santa Cruz Avenue downtown.
 title: Menlo Park
 type: location
+heritage: 1.6
+vibrancy: 3.0
+nature: 2.3
+off_the_beaten_track: 1.2
 ---
 
 Menlo Park is a small, affluent city on the San Francisco Peninsula, wedged between Palo Alto and Redwood City. It is best known as the headquarters of Meta (formerly Facebook) — the [Meta campus](/northamerica/unitedstates/california/menlo_park/meta_campus) at 1 Hacker Way is one of the largest single-floor offices in the world — but long before that it was home to [SRI International](/northamerica/unitedstates/california/menlo_park/sri_international), the research institute where the computer mouse was invented and the first ARPANET message was sent. [Kepler's Books](/northamerica/unitedstates/california/menlo_park/keplers_books), a beloved independent bookstore on El Camino Real since 1955, and [Cafe Barrone](/northamerica/unitedstates/california/menlo_park/cafe_barrone) next door anchor the most active corner of the downtown.

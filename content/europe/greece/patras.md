@@ -14,6 +14,10 @@ snippet: Greek port city linking the Peloponnese with Italy, known for carnival 
   a hilltop castle.
 title: Patras
 type: location
+heritage: 5.3
+vibrancy: 5.2
+nature: 3.9
+off_the_beaten_track: 2.0
 ---
 
 Patras is Greece's third largest city and the gateway to the west. Its busy port connects the Peloponnese to Italy, and for many travelers it is just the place where they get on or off a ferry. That is a shame, because Patras has genuine character if you give it a few hours. The city climbs steeply from the waterfront to a medieval castle, with a tangle of neoclassical buildings, pedestrian streets, and lively squares in between.

@@ -14,6 +14,10 @@ snippet: Red River plains city with frontier history, prairie winters, and a gro
   downtown arts scene.
 title: Fargo
 type: location
+heritage: 3.3
+vibrancy: 3.5
+nature: 3.6
+off_the_beaten_track: 1.8
 ---
 
 Fargo is far more interesting than its reputation suggests. The largest city in [North Dakota](/northamerica/unitedstates/northdakota) sits on the Red River across from Moorhead, [Minnesota](/northamerica/unitedstates/minnesota), and has grown into a genuinely lively mid-sized city — one that punches well above its weight in dining, nightlife, and arts for a place this far from anywhere.

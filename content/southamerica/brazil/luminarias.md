@@ -14,6 +14,10 @@ image: luminarias.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cachoeira_em_Lumin%C3%A1rias.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Pampamlucinda
+heritage: 4.5
+vibrancy: 4.0
+nature: 4.4
+off_the_beaten_track: 3.2
 ---
 
 Luminarias is a small town in southern [Minas Gerais](/southamerica/brazil), set among quartzite hills, caves, waterfalls, and quiet rural roads. It is the kind of place that makes sense if you are already exploring the inland mountains between Lavras, Carrancas, and Sao Thome das Letras and want a less polished nature base.

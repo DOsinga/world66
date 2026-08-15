@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Bakau
 title: Bakau
 type: location
+heritage: 2.8
+vibrancy: 1.9
+nature: 5.7
+off_the_beaten_track: 3.9
 ---
 
 Bakau is a compact town on the Atlantic coast, about 12 kilometres from [Banjul](/africa/gambia/banjul), and one of the main centres of tourist activity in The Gambia. It is walkable, well-served by local taxis, and has better infrastructure than most of the country -- paved roads, reliable electricity, and a decent range of shops and services.

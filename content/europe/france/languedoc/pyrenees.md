@@ -12,6 +12,10 @@ snippet: French mountain region along the Spanish border, with high passes, ski 
   and Tour de France cols.
 title: Pyrenees
 type: location
+heritage: 5.0
+vibrancy: 5.1
+nature: 6.9
+off_the_beaten_track: 4.0
 ---
 
 The French Pyrenees stretch from the Atlantic to the Mediterranean along the Spanish border, offering some of the most dramatic mountain scenery in Europe. The Hautes-Pyrénées département is the heart of it — high peaks, ski resorts in winter, and superb hiking and cycling in summer. The Pic du Midi de Bigorre, accessible by cable car, has an observatory at its summit and panoramic views across the range.

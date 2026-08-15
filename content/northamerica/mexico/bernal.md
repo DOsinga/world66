@@ -16,6 +16,10 @@ image: bernal.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bernal,_Quer%C3%A9taro.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Juan Carlos Fonseca Mata
+heritage: 4.0
+vibrancy: 3.0
+nature: 6.1
+off_the_beaten_track: 2.9
 ---
 
 Bernal is a small village in Querétaro that lives in the shadow of the Peña de Bernal, a huge volcanic plug rising straight above the tiled roofs and church towers. The rock gives the place its drama. You see it from almost every street, and the walk toward its lower chapel is the reason most travellers come.

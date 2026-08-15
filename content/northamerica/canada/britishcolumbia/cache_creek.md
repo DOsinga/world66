@@ -7,16 +7,21 @@ latitude: 50.8119
 loc_type: city
 longitude: -121.3233
 score: 6.18
-snippet: Tiny British Columbia crossroads town beside Cariboo ranch history, desert parks, and fossil beds.
+snippet: Tiny British Columbia crossroads town beside Cariboo ranch history, desert
+  parks, and fossil beds.
 sources:
-  - https://en.wikivoyage.org/wiki/Cache_Creek
-  - https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=2856&pid=0
-  - https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=19023
-  - https://bcparks.ca/juniper-beach-park/
-  - https://bcparks.ca/marble-canyon-park/
+- https://en.wikivoyage.org/wiki/Cache_Creek
+- https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=2856&pid=0
+- https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=19023
+- https://bcparks.ca/juniper-beach-park/
+- https://bcparks.ca/marble-canyon-park/
 title: Cache Creek
 type: location
 wikidata: Q986003
+heritage: 2.2
+vibrancy: 1.6
+nature: 6.5
+off_the_beaten_track: 5.0
 ---
 
 Cache Creek is a small highway town in the dry Thompson country of British Columbia. On first sight it looks like a fuel-and-food stop between Kamloops, the Cariboo, and the Fraser Canyon, and in a practical sense that is exactly what it is. The reason to give it more time is the landscape around it: sagebrush hills, old wagon-road ranches, fossil beds, and small desert parks.

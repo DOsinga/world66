@@ -14,6 +14,10 @@ image: paracho.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Entrance_to_Paracho_Jan_2020.jpg
 image_license: CC0
 image_attribution: Kevin Read
+heritage: 4.3
+vibrancy: 3.6
+nature: 5.2
+off_the_beaten_track: 4.1
 ---
 
 Paracho de Verduzco, usually just called Paracho, is a Purépecha town in the highlands of [Michoacán](/northamerica/mexico/michoacan), north of Uruapan. It is famous across Mexico for guitars: workshops, small shops, and family luthiers fill the centre with classical guitars, vihuelas, guitarrones, bajo sextos, and other stringed instruments.

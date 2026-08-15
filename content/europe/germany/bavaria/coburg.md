@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Schloss_Ehrenburg
 title: Coburg
 type: location
+heritage: 6.3
+vibrancy: 3.6
+nature: 3.2
+off_the_beaten_track: 2.9
 ---
 
 Coburg sits at the northern edge of Bavaria, close to the Thuringian border — a quietly impressive town that most visitors to Germany skip entirely. That's their loss. The [Veste Coburg](/europe/germany/bavaria/coburg/veste_coburg), the massive hilltop fortress looming over the town, is one of the best-preserved medieval castles in Germany and houses a significant art collection including works by Cranach and Dürer. Down in the town centre, [Schloss Ehrenburg](/europe/germany/bavaria/coburg/schloss_ehrenburg) served as the ducal palace of the House of Saxe-Coburg, whose descendants ended up on the thrones of Britain, Belgium, Portugal, and Bulgaria — Coburg's royal connections are genuinely surprising for a town this size.

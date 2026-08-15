@@ -13,6 +13,10 @@ image: sainshand.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Danzanravjaa_Museum_of_Sainshand-4.jpg
 image_license: CC BY 2.0
 image_attribution: David Berkowitz
+heritage: 3.1
+vibrancy: 1.5
+nature: 7.2
+off_the_beaten_track: 6.8
 ---
 
 Sainshand is the capital of Dornogovi province, a small Gobi city on the Trans-Mongolian Railway between [Ulaanbaatar](/asia/mongolia/ulaanbaatar) and the Chinese border at Zamiin-Uud. It is dry, windswept and practical, the kind of place where the railway station is as important as the main square.

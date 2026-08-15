@@ -7,6 +7,10 @@ snippet: Northern Andorran parish in the Valira del Nord valley, quieter than th
   duty-free south
 title: Ordino
 type: location
+heritage: 2.1
+vibrancy: 1.9
+nature: 6.2
+off_the_beaten_track: 5.6
 ---
 
 Ordino is a small parish in the northern part of [Andorra](/europe/andorra), quieter and less developed than the commercial centres closer to the Spanish border. It sits in a valley of the Valira del Nord river at around 1,300 metres, backed by forested slopes that rise toward some of the highest peaks in the Pyrenees. The pace here is noticeably slower than in Andorra la Vella — there are no duty-free hypermarkets, just a handsome stone village, a scattering of traditional Andorran farmhouses, and a cluster of small museums that make it worth a half-day.

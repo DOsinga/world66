@@ -14,6 +14,10 @@ image: prairie_du_rocher.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Prairie_du_Rocher,_Illinois,_French_colonial_style_house.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Markkaempfer
+heritage: 5.8
+vibrancy: 2.0
+nature: 2.9
+off_the_beaten_track: 2.8
 ---
 
 This small town in the Mississippi bottomlands contains the remains of [Fort de Chartres](/northamerica/unitedstates/illinois/prairie_du_rocher/fort_de_chartres), the French seat of government in colonial Illinois and the last French possession surrendered to the British after the French and Indian War. The fort has been partially reconstructed to its 1750s appearance and includes a small museum on the French colony in Illinois.

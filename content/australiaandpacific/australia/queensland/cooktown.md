@@ -14,6 +14,10 @@ image: cooktown.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cooktown_1986_IMG_0067.jpg
 image_license: CC BY-SA 4.0
 image_attribution: John Robert McPherson
+heritage: 4.0
+vibrancy: 3.4
+nature: 6.6
+off_the_beaten_track: 4.7
 ---
 
 Cooktown is a small tropical town on the Endeavour River in far north Queensland. It feels very different from the resort towns farther south: less polished, more isolated, with rainforest, reef, outback roads, and Cape York country all close at hand.

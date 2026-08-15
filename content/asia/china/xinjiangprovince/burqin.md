@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Burqin_County
 title: Burqin
 type: location
+heritage: 1.8
+vibrancy: 0.8
+nature: 7.8
+off_the_beaten_track: 6.9
 ---
 
 Burqin is the service town for northern Xinjiang's mountain country, the place where travellers fill up on fuel, noodles, and sleep before pushing on to Kanas, Hemu, or the Altay valleys. It sits near the Irtysh River, closer in feeling to Kazakhstan, Mongolia, and Siberia than to the desert cities most people imagine when they hear Xinjiang.

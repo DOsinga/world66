@@ -15,6 +15,10 @@ type: location
 score: 5.89
 snippet: Former steel city in Liaoning, now known for forested mountains and boatable
   limestone water caves.
+heritage: 2.4
+vibrancy: 2.1
+nature: 3.9
+off_the_beaten_track: 2.0
 ---
 
 Benxi spent much of the twentieth century as one of northern China's most polluted cities, its air thick with emissions from iron and steel works that burned around the clock. The industry has largely wound down, and the city that emerged from the cleanup is a pleasant, unhurried place surrounded by forested mountains — a transformation dramatic enough that Benxi now markets itself as an eco-tourism destination, which would have been unimaginable thirty years ago.

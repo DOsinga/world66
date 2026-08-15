@@ -12,6 +12,10 @@ score: 9.02
 snippet: Cycladic island of steep rock, deep blue water, and a cliff-hung white monastery
 title: Amorgos
 type: location
+heritage: 5.5
+vibrancy: 6.6
+nature: 6.3
+off_the_beaten_track: 2.0
 ---
 
 Amorgos is the easternmost island of the Cyclades, a long narrow ridge of rock and scrub rising steeply from the Aegean. It is quieter and less developed than the big-name Greek islands, and it has stayed that way partly because it takes a while to get here — ferries from [Naxos](/europe/greece/naxos) or Piraeus are not quick.

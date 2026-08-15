@@ -13,6 +13,10 @@ snippet: Lithuanian lake town known for its island castle and the Karaim communi
   wooden houses.
 title: Trakai
 type: location
+heritage: 7.2
+vibrancy: 2.6
+nature: 3.2
+off_the_beaten_track: 2.6
 ---
 
 Trakai is Lithuania's postcard town, built on a chain of lakes about 30 kilometres west of Vilnius. The star attraction is the [Trakai Island Castle](/europe/lithuania/trakai/trakai_island_castle), sitting on a spit of land in [Lake Galvė](/europe/lithuania/trakai/lake_galve) and connected to the shore by a wooden footbridge. Originally built in the 14th century and painstakingly restored in the Soviet era, it is the only island castle in Eastern Europe and looks spectacular from every angle, especially on a still day when the lake mirrors the towers.

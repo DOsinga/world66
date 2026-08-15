@@ -14,6 +14,10 @@ snippet: Tiny São Miguel crater village between the blue and green lakes of Lag
   das Sete Cidades.
 title: Sete Cidades
 type: location
+heritage: 3.7
+vibrancy: 1.5
+nature: 7.5
+off_the_beaten_track: 5.7
 ---
 
 **Sete Cidades** is a tiny village sitting inside a volcanic crater in the western part of São Miguel, between the twin lakes of [Lagoa das Sete Cidades](/europe/portugal/theazores/so_miguel/sete_cidades/lagoa_das_sete_cidades) — Lagoa Azul and Lagoa Verde. It is one of the most photographed spots in the Azores, and for good reason — the view from the crater rim down to the blue and green lakes is extraordinary.

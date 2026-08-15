@@ -15,6 +15,10 @@ image: wymondham.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Abbey_from_meadow_2.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Abbeygarth
+heritage: 5.5
+vibrancy: 2.3
+nature: 2.5
+off_the_beaten_track: 1.9
 ---
 
 Wymondham is a small Norfolk market town southwest of [Norwich](/europe/unitedkingdom/england/east_of_england/norwich), pronounced "Windham" and best approached at a walking pace. Its centre has the right old-East-Anglian ingredients: narrow streets, independent shops, timber-framed buildings, a market place, and an abbey whose twin towers dominate the low skyline.

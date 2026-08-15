@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/B%C4%83l%C8%9Bi
 title: Baltsi
 type: location
+heritage: 5.2
+vibrancy: 2.0
+nature: 4.1
+off_the_beaten_track: 5.9
 ---
 
 Baltsi (Bălți) is Moldova's second city, with a population of around 100,000 in the northern part of the country, roughly 120 km from [Chisinau](/europe/moldova/chisinau). It is primarily an industrial and commercial centre rather than a tourist destination, but it serves as a useful base for exploring northern Moldova — including the monasteries of Saharna and Curchi, and the fortress town of [Soroca](/europe/moldova/soroca).

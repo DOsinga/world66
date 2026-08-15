@@ -15,6 +15,10 @@ image: kirkjubaejarklaustur.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kirkjub%C3%A6jarklaustur-Lavafeld-22-2018-gje.jpg
 image_license: CC BY 4.0
 image_attribution: Gerd Eichmann
+heritage: 2.5
+vibrancy: 1.2
+nature: 8.0
+off_the_beaten_track: 5.5
 ---
 
 Kirkjubæjarklaustur, usually shortened to Klaustur, is a small Ring Road village that works better than its size suggests. The name points back to a medieval convent, but the appeal now is the immediate landscape: waterfall, basalt pavement, cliffs, mossy lava, and the long empty run between Vik and Skaftafell.

@@ -14,6 +14,10 @@ snippet: Southeastern Belarusian city with old fort-town roots and a classicist 
   from its 19th-century rebuilding.
 title: Gomel
 type: location
+heritage: 4.0
+vibrancy: 2.5
+nature: 2.1
+off_the_beaten_track: 3.5
 ---
 
 Gomel, the second-largest city after [Minsk](/europe/belarus/minsk), is located in the south-eastern part of Belarus, in the same area that was once the centre of the atomic energy disaster at [Chernobyl](/europe/ukraine/chernobyl). It is one of the oldest towns in the country, and although it served as a fortified military stronghold in the 15th and 16th centuries, it is not of great historical importance. At the beginning of the 19th century many of its original wooden houses were replaced by brick ones, leaving only a few remnants of the classicist architectural influence, such as the [Rumyantsev-Paskevich Palace](/europe/belarus/gomel/rumyantsev_paskevich_palace).

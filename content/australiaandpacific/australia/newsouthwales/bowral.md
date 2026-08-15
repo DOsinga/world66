@@ -11,6 +11,10 @@ title: Bowral
 type: location
 snippet: Southern Highlands town southwest of Sydney, known for cool-climate gardens
   and Don Bradman's cricket legacy.
+heritage: 3.5
+vibrancy: 3.6
+nature: 5.1
+off_the_beaten_track: 1.4
 ---
 
 Bowral is the commercial center of the Southern Highlands — the cool, green tableland about 130 kilometers southwest of Sydney that has been drawing city-dwellers for a weekend escape since the railway arrived in the 1860s. The town sits at around 700 meters elevation, which gives it genuinely cool summers and cold winters by NSW standards, and the climate supports the lush gardens and deciduous trees that give it a vaguely English character.

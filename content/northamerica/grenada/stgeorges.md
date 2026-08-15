@@ -14,6 +14,10 @@ snippet: Grenadian capital wrapped around the Carenage, with pastel Georgian war
   and steep harbour lanes.
 title: St. George's
 type: location
+heritage: 4.6
+vibrancy: 5.3
+nature: 5.5
+off_the_beaten_track: 3.4
 ---
 
 St. George's is one of the most attractive capitals in the Caribbean. It sits around the Carenage, a horseshoe-shaped inner harbour lined with Georgian warehouses painted in faded pastels, small fishing boats, and the occasional cruise ship tender. The city climbs the hills above the harbour in a jumble of steep lanes, red-roofed buildings, and old churches.

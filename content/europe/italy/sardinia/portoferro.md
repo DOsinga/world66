@@ -10,6 +10,10 @@ title: Porto Ferro
 type: location
 snippet: Sheltered bay on Sardinia's northwest coast, known for reddish sand and Spanish
   watchtowers.
+heritage: 2.0
+vibrancy: 2.1
+nature: 6.1
+off_the_beaten_track: 2.5
 ---
 
 Porto Ferro is a small, sheltered bay on Sardinia's northwest coast, about 10 km north of [Alghero](/europe/italy/sardinia/alghero). The beach has a distinctive reddish tinge from the iron-rich sand. At each end, two old Spanish watchtowers — [Torre Negra](/europe/italy/sardinia/portoferro/torre_negra) and [Torre di Bantine Sale](/europe/italy/sardinia/portoferro/torre_di_bantine_sale) — frame the cove. The northern tower, Torre Negra, is one of the best-preserved on the island.

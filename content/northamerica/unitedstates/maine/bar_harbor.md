@@ -14,6 +14,10 @@ snippet: Mount Desert Island town and main gateway to Acadia National Park, with
   tidal walk to Bar Island.
 title: Bar Harbor
 type: location
+heritage: 3.7
+vibrancy: 5.8
+nature: 7.5
+off_the_beaten_track: 3.0
 ---
 
 Bar Harbor is the main gateway to [Acadia National Park](/northamerica/unitedstates/maine/acadia) and the social hub of Mount Desert Island. The town fills with visitors every summer, drawn by the park, the [whale watching](/northamerica/unitedstates/maine/bar_harbor/whale_watching) tours, and the fresh seafood restaurants along the waterfront.

@@ -14,6 +14,10 @@ snippet: Bay of Naples island defined by thermal springs, beaches, and an extinc
   volcano.
 title: Ischia
 type: location
+heritage: 5.6
+vibrancy: 5.6
+nature: 6.4
+off_the_beaten_track: 2.1
 ---
 
 *Europe > Italy > Campania > Ischia*

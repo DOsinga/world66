@@ -14,6 +14,10 @@ snippet: Hilltop Roman site in northern Tunisia, where temples, baths, streets, 
   houses overlook olive-covered valleys
 title: Dougga
 type: location
+heritage: 6.2
+vibrancy: 1.9
+nature: 3.0
+off_the_beaten_track: 4.8
 ---
 
 Dougga sits on a hillside in northern Tunisia, roughly 110 km southwest of Tunis, and it rewards the journey handsomely. This is arguably the finest Roman site in North Africa — not because it is the largest, but because it is so complete. Wandering its streets, you pass intact temples, latrines, baths, and private houses in a state that most Mediterranean ruins can only hint at. The hilltop setting adds to the drama: the ruins spill down a slope above a valley of olive trees, and on a clear morning the light over the Medjerda hills is extraordinary.

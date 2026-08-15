@@ -14,6 +14,10 @@ snippet: Sacred Hindu temple complex on Kathmandu's Bagmati River, centred on Sh
   worship and cremation ghats
 title: Pashupatinath
 type: location
+heritage: 6.9
+vibrancy: 5.8
+nature: 6.5
+off_the_beaten_track: 6.2
 ---
 
 Pashupatinath is Nepal's most sacred Hindu temple complex, spread along the banks of the Bagmati River on the eastern edge of [Kathmandu](/asia/nepal/kathmandu). It is to Nepali Hindus what Varanasi is to Indian Hindus — the holiest place to be cremated, with the belief that having your ashes scattered in the Bagmati (which flows into the Ganges) releases you from the cycle of rebirth.

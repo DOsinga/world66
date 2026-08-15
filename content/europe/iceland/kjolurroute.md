@@ -13,6 +13,10 @@ image: kjolurroute.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kjolur-voldesert.jpg
 image_license: CC BY 3.0
 image_attribution: Algkalv (talk)
+heritage: 1.6
+vibrancy: 0.9
+nature: 7.6
+off_the_beaten_track: 4.7
 ---
 
 The Kjölur Route (Kjölvegur, Road 35) is one of Iceland's great highland traversals — a 200-kilometre gravel track that cuts straight through the interior from Gullfoss in the south to Blönduós on the north coast. Unlike the more famous Sprengisandur route, Kjölur runs between two glacier systems — Langjökull to the west and Hofsjökull to the east — so the landscape is never simply barren. Hot springs steam from the ground, rivers need fording, and the plateau opens out into broad moorland where the wind has full authority.

@@ -15,6 +15,10 @@ tags:
 - rivieradellepalme
 title: Plodio
 type: location
+heritage: 2.7
+vibrancy: 1.7
+nature: 5.4
+off_the_beaten_track: 4.5
 ---
 
 Plodio is a small agricultural commune in the Ligurian Alps near the Colle di Cadibona, on the ridge separating the upper valleys of the two Bormida rivers. [Prehistoric rock carvings](/europe/italy/liguria/plodio/prehistoric_rock_carvings) on the surrounding hills attest to ancient human habitation. The village had a complex feudal history: it belonged to the Del Carretto marchesi of Millesimo in the 12th and 13th centuries, was briefly occupied by Savoy in 1639, became a free commune toward the end of the 17th century, and was finally annexed to the Kingdom of Sardinia in 1735.

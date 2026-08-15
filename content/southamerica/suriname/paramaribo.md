@@ -19,6 +19,10 @@ sources:
 - https://en.wikipedia.org/wiki/Paramaribo
 - https://en.wikipedia.org/wiki/Waterkant_(Paramaribo)
 - https://en.wikipedia.org/wiki/Fort_Zeelandia_(Paramaribo)
+heritage: 4.7
+vibrancy: 5.0
+nature: 5.1
+off_the_beaten_track: 3.6
 ---
 
 Paramaribo is one of the most unusual capitals in the Americas — a Dutch colonial city transplanted into the tropics, where wooden plantation houses line broad avenues and the sound of church bells, mosque calls, and Hindu temple music can all be heard from the same street corner. The historic inner city, a UNESCO World Heritage Site, is a testament to Suriname's improbable mix of cultures: Dutch, Creole, Javanese, Hindustani, Chinese, and indigenous communities have coexisted here for centuries, and the architecture, food, and faces of the city reflect every one of them.

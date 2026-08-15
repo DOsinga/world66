@@ -14,6 +14,10 @@ snippet: Small Driftless Region town amid coulees and bluffs, with farms, galler
   and a historic Main Street.
 title: Viroqua
 type: location
+heritage: 3.3
+vibrancy: 4.1
+nature: 5.4
+off_the_beaten_track: 2.7
 ---
 
 Viroqua is a small town of about 5,000 people in the heart of Wisconsin's Driftless Region — the southwest corner of the state that was never flattened by glaciers. The result is a landscape of winding coulees, sandstone bluffs, spring-fed streams, and valleys that look like nowhere else in the Midwest.

@@ -17,6 +17,10 @@ image: abbotsford.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Abbotsford_Tulip_Festival_2017.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Dllu
+heritage: 3.5
+vibrancy: 2.9
+nature: 5.6
+off_the_beaten_track: 2.1
 ---
 
 Abbotsford sits in the Fraser Valley east of [Vancouver](/northamerica/canada/britishcolumbia/vancouver), where the suburbs give way to berry farms, dairy fields, and the lower slopes of Sumas Mountain. It is not a polished city-break destination, but it has more substance than a highway stop: Sikh pioneer history, a preserved company village, and good local trails all sit within a short drive of each other.

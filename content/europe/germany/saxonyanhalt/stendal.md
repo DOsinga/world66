@@ -15,6 +15,10 @@ image: stendal.jpg
 image_source: https://commons.wikimedia.org/wiki/File:20030501080NR_Stendal_Breite_Stra%C3%9Fe.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Jörg Blobelt
+heritage: 6.0
+vibrancy: 3.0
+nature: 3.3
+off_the_beaten_track: 1.8
 ---
 
 Stendal is the main town of the Altmark, the quiet northern part of Saxony-Anhalt where brick Gothic churches and old Hanseatic towns sit between the Elbe and the flat North German plain. It is not a grand German showpiece, but it has enough real substance for a slow day: two surviving medieval gates, a handsome market square, serious churches, and a museum devoted to Johann Joachim Winckelmann, the Stendal-born scholar who helped shape European Neoclassicism.

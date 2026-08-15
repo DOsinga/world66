@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Chernihiv
 title: Chernihiv
 type: location
+heritage: 6.6
+vibrancy: 3.2
+nature: 2.5
+off_the_beaten_track: 4.7
 ---
 
 Chernihiv is one of the oldest cities in Ukraine — older than Kyiv in the archaeological record, and the capital of a powerful medieval principality before the Mongol destruction of 1239. Today it is a quiet regional city of about 280,000 people on the Desna River, 130 kilometres north of Kyiv, but it contains a concentration of pre-Mongol architecture that is extraordinary: four churches from the 11th and 12th centuries still stand, making Chernihiv one of the best places in Eastern Europe to see medieval Rus construction.

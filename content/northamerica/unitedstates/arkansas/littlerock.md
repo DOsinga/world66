@@ -14,6 +14,10 @@ snippet: Arkansas capital on the Arkansas River, with civil-rights history and a
   riverfront district.
 title: Little Rock
 type: location
+heritage: 5.6
+vibrancy: 4.5
+nature: 3.1
+off_the_beaten_track: 2.3
 ---
 
 Little Rock is the capital of [Arkansas](/northamerica/unitedstates/arkansas) and the state's largest city, sitting on the south bank of the Arkansas River at roughly the geographic center of the state. It is a compact, walkable city that punches above its weight culturally — home to a presidential library, a serious art museum, and a historic district that survived urban renewal largely intact.

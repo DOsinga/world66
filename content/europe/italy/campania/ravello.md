@@ -16,6 +16,10 @@ tags:
 - amalfi_coast
 title: Ravello
 type: location
+heritage: 4.8
+vibrancy: 5.7
+nature: 6.8
+off_the_beaten_track: 1.5
 ---
 
 *Europe > Italy > Campania > Ravello*

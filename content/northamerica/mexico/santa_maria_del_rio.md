@@ -6,10 +6,15 @@ latitude: 21.8037
 longitude: -100.7348
 wikidata: Q3846862
 score: 6.4
-snippet: San Luis Potosi Pueblo Mágico known for rebozo weaving, colonial plazas, hot springs, and nearby waterfalls.
+snippet: San Luis Potosi Pueblo Mágico known for rebozo weaving, colonial plazas,
+  hot springs, and nearby waterfalls.
 sources:
-  - https://en.wikivoyage.org/wiki/Santa_Mar%C3%ADa_del_R%C3%ADo
-  - https://visitmexico.com/en/destino/2028/santa-maria-del-rio
+- https://en.wikivoyage.org/wiki/Santa_Mar%C3%ADa_del_R%C3%ADo
+- https://visitmexico.com/en/destino/2028/santa-maria-del-rio
+heritage: 5.0
+vibrancy: 3.6
+nature: 5.2
+off_the_beaten_track: 4.4
 ---
 
 Santa María del Río is a small town south of [San Luis Potosi](/northamerica/mexico/sanluispotosi) with one strong identity: the rebozo. The shawls woven here are among Mexico's best-known textile traditions, and the town is serious enough about them to support a dedicated museum, artisan market, and August fair.

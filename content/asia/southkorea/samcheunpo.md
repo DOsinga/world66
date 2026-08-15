@@ -14,6 +14,10 @@ snippet: South Korean port town below rocky cliffs, known for shoreline dinosaur
   at Sangjokam.
 title: Samcheunpo
 type: location
+heritage: 3.1
+vibrancy: 2.7
+nature: 5.8
+off_the_beaten_track: 3.6
 ---
 
 Samcheunpo (now part of Sacheon City) is a small port town on the southern coast of South Korea, tucked between high rocky cliffs. Its residents used to boast of living in "the smallest city in Korea" — the city with the bare minimum population to qualify as such.

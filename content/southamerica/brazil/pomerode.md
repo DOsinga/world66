@@ -14,6 +14,10 @@ snippet: Santa Catarina city of Pomeranian roots, half-timbered houses, and Braz
   strongest German-speaking community.
 title: Pomerode
 type: location
+heritage: 6.0
+vibrancy: 4.7
+nature: 3.6
+off_the_beaten_track: 2.1
 ---
 
 Pomerode is a small city in the Itajaí Valley of Santa Catarina state, 32 km north of Blumenau, founded by German immigrants from Pomerania in the 19th century. It has the distinction of being the city with the highest percentage of German speakers in Brazil — around 70% of the population still use the language or its dialects in daily life. Walking around the town you'll see half-timbered (enxaimel) buildings that would not look out of place in rural Germany.

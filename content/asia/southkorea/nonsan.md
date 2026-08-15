@@ -7,18 +7,23 @@ latitude: 36.203889
 loc_type: city
 longitude: 127.084722
 score: 6.46
-snippet: Quiet Korean city of Confucian academies, Baekje memory, strawberries, and old temple stonework.
+snippet: Quiet Korean city of Confucian academies, Baekje memory, strawberries, and
+  old temple stonework.
 sources:
-  - https://en.wikivoyage.org/wiki/Nonsan
-  - https://www.wikidata.org/wiki/Q42088
-  - https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=95051
-  - https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=61966
-  - https://whc.unesco.org/en/list/1498/
-  - https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34223
-  - https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=195587
+- https://en.wikivoyage.org/wiki/Nonsan
+- https://www.wikidata.org/wiki/Q42088
+- https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=95051
+- https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=61966
+- https://whc.unesco.org/en/list/1498/
+- https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34223
+- https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=195587
 title: Nonsan
 type: location
 wikidata: Q42088
+heritage: 1.6
+vibrancy: 1.8
+nature: 2.4
+off_the_beaten_track: 1.9
 ---
 
 Nonsan sits in the inland farm country of South Chungcheong, south of [Daejeon](/asia/southkorea/daejeon). It is not a polished city break, but it has enough old Korea to reward a spare day: a giant Goryeo stone Buddha, one of the UNESCO-listed seowon academies, lake walks, and a few odd modern detours.

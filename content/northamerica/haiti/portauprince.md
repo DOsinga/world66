@@ -20,6 +20,10 @@ tip: Port-au-Prince has endured earthquakes, hurricanes and deep instability; ch
   visit needs serious local support.
 title: Port-au-Prince
 type: location
+heritage: 4.6
+vibrancy: 5.3
+nature: 2.9
+off_the_beaten_track: 5.0
 ---
 
 Port-au-Prince is Haiti's capital and by far its largest city, with well over two million people in the metropolitan area. Despite its size, much of it feels like an overgrown market town — low-slung buildings climbing steep hillsides, tap-taps threading through traffic, street vendors on every corner.

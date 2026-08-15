@@ -14,6 +14,10 @@ snippet: Jordanian hilltop town on the King's Highway, dominated by the massive 
   fortress of Kerak.
 title: Karak
 type: location
+heritage: 7.0
+vibrancy: 3.3
+nature: 2.8
+off_the_beaten_track: 2.8
 ---
 
 Karak is a hilltop town in central Jordan, about 140 km south of [Amman](/asia/jordan/amman) on the King's Highway. It is dominated by one of the largest and best-preserved Crusader castles in the Middle East — [Kerak Castle](/asia/jordan/karak/kerak_castle), built in the 1140s by the Franks and later strengthened by Saladin and the Mamluks.

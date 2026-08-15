@@ -20,6 +20,10 @@ tip: Ashgabat holds the world record for the most white-marble buildings in one 
   carefully.
 title: Ashgabat
 type: location
+heritage: 6.2
+vibrancy: 3.1
+nature: 3.4
+off_the_beaten_track: 7.0
 ---
 
 Ashgabat is one of the world's strangest capitals — a gleaming white marble city marooned in the Karakum desert, built almost entirely to glorify a single man. The late president Saparmurat Niyazov, who renamed himself Turkmenbashi ("Father of All Turkmen"), turned this orderly Soviet garrison town into a monument to his own personality cult. Golden statues of him once rotated to face the sun. Streets were renamed after his mother. The whole city feels less like a place where people live than a stage set for a state that no longer exists.

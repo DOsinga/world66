@@ -17,6 +17,10 @@ image: port_hedland.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Dampier_Salt_evaporation_flats,_Port_Hedland,_2023,_02.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Kgbo
+heritage: 3.1
+vibrancy: 3.0
+nature: 5.6
+off_the_beaten_track: 5.8
 ---
 
 Port Hedland is an industrial port on the Pilbara coast of Western Australia, roughly halfway between [Karratha](/australiaandpacific/australia/westernaustralia/karratha) and [Broome](/australiaandpacific/australia/westernaustralia/broome) in distance rather than comfort. It exports iron ore on a huge scale: long freight trains run in from the inland mines, salt flats edge the road, and bulk carriers queue offshore.

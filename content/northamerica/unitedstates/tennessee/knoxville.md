@@ -14,6 +14,10 @@ snippet: East Tennessee university city on the Tennessee River, backed by the Gr
   Smoky Mountains foothills
 title: Knoxville
 type: location
+heritage: 3.2
+vibrancy: 5.4
+nature: 4.6
+off_the_beaten_track: 2.0
 ---
 
 Knoxville sits in the foothills of the Great Smoky Mountains, at the point where the Tennessee River bends south before heading toward Chattanooga. It is not a glamorous city, but it is an honest one — a working-class university town that has spent the last couple of decades rediscovering its own centre after decades of suburban drift.

@@ -10,6 +10,10 @@ snippet: Galician fishing town on the Ría de Vigo, with granite hills and beach
   facing the Cíes Islands.
 title: Cangas
 type: location
+heritage: 4.2
+vibrancy: 2.6
+nature: 7.6
+off_the_beaten_track: 3.9
 ---
 
 Cangas sits at the mouth of the Ría de Vigo, a short ferry ride from the city but a world apart in pace and feel. Fishing boats work the harbor, granite hills roll behind the town, and nearly 40 beaches are scattered across the municipality — from busy family strands to wild, car-free coves that take a walk through a pine forest to reach.

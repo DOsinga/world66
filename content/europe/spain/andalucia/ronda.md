@@ -16,6 +16,10 @@ image: ronda.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Panorama_of_Ronda.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Tesla Delacroix
+heritage: 7.1
+vibrancy: 4.8
+nature: 5.2
+off_the_beaten_track: 2.0
 ---
 
 Ronda is split in half by a sheer river gorge that drops 120 metres — one of the most dramatic townscapes in Spain. The [Puente Nuevo](/europe/spain/andalucia/ronda/puente_nuevo), a spectacular arched bridge spanning the chasm, connects the old Moorish town to the newer districts and offers dizzying views of the valley below. The gorge walls are near-vertical, with the white houses of the old city perched right at the edge.

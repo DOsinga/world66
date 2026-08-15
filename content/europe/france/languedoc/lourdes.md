@@ -19,6 +19,10 @@ tags:
 - pyrenees
 title: Lourdes
 type: location
+heritage: 7.2
+vibrancy: 4.9
+nature: 3.8
+off_the_beaten_track: 2.2
 ---
 
 Lourdes is a small Pyrenean town of some 15,000 people that attracts five million pilgrims and tourists from 150 countries each year, making it the second most important hotel city in France after Paris, with over 270 hotels and 13 campsites.

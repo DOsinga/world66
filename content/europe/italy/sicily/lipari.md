@@ -16,6 +16,10 @@ tags:
 - aeolianislands
 title: Lipari
 type: location
+heritage: 6.3
+vibrancy: 7.0
+nature: 7.2
+off_the_beaten_track: 3.6
 ---
 
 Lipari is the largest and most developed of the [Aeolian Islands](/europe/italy/sicily/aeolianislands), and for most visitors the first port of call. The main town, also called Lipari, climbs from a [harbour](/europe/italy/sicily/lipari/marina_lunga) up to an imposing [castle-fortress](/europe/italy/sicily/lipari/castle_and_acropolis) on a rocky promontory between two bays. The [archaeological museum](/europe/italy/sicily/lipari/aeolian_museum) inside the castle is one of the best in southern Italy, with a superb collection of Greek theatrical masks and prehistoric obsidian tools. The 17th-century [cathedral](/europe/italy/sicily/lipari/cathedral) sits on the same rock.

@@ -14,6 +14,10 @@ snippet: Zagros valley city near Iraq, gateway to Sassanid rock reliefs and the 
   inscription.
 title: Kermanshah
 type: location
+heritage: 5.9
+vibrancy: 3.0
+nature: 4.0
+off_the_beaten_track: 6.3
 ---
 
 Kermanshah is one of the oldest cities in western Iran, set in a broad valley in the Zagros Mountains near the Iraqi border. The city itself is a sprawling provincial capital, but the real draws lie just outside it.

@@ -13,6 +13,10 @@ snippet: Medieval Tuscan hill town above the Val di Chiana, with Etruscan walls 
   wide views.
 title: Cortona
 type: location
+heritage: 6.2
+vibrancy: 4.7
+nature: 5.3
+off_the_beaten_track: 1.9
 ---
 
 Cortona is a compact medieval hill town in eastern [Tuscany](/europe/italy/tuscany), perched on a steep slope with sweeping views over the Val di Chiana to Lake Trasimeno. It became internationally famous as the setting for Frances Mayes' memoir *Under the Tuscan Sun*, but the town's appeal long predates the book — the [Etruscans built walls here](/europe/italy/tuscany/cortona/etruscan_walls) that still stand.

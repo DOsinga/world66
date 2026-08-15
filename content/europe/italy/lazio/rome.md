@@ -27,6 +27,10 @@ tip: Rome rewards early starts and late dinners. See the Colosseum or Vatican Mu
   mountain water on nearly every corner.
 title: Rome
 type: location
+heritage: 8.9
+vibrancy: 7.1
+nature: 1.3
+off_the_beaten_track: 1.4
 ---
 
 The Eternal City needs no introduction, yet it still manages to surprise. Rome layers nearly three thousand years of history into a living, breathing capital where ancient ruins sit beside buzzing trattorias and Renaissance churches share streets with vintage clothing shops. It is chaotic, beautiful, maddening, and utterly addictive.

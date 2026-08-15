@@ -14,6 +14,10 @@ snippet: Silk Road oasis town between Gobi gravel and Kumtag dunes, famed for th
   Mogao Caves.
 title: Dunhuang
 type: location
+heritage: 7.4
+vibrancy: 4.9
+nature: 3.8
+off_the_beaten_track: 2.6
 ---
 
 Dunhuang sits in the wild, wild west of China: a good 2,000 kilometres west of [Beijing](/asia/china/beijing), in the far west of Gansu Province, right on the Silk Road that caravans took from China to the Middle East for the better part of two thousand years. The town is an oasis — a thin green strip of poplar and farmland squeezed between the gravel desert of the Gobi to the north and the dunes of the Kumtag to the south — and the contrast is its defining feature. You can stand at the edge of town and watch the irrigated fields end abruptly in a wall of yellow sand.

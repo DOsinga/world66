@@ -14,6 +14,10 @@ snippet: Hill town above Florence with Etruscan origins, Roman ruins, and wide A
   valley views.
 title: Fiesole
 type: location
+heritage: 7.7
+vibrancy: 5.4
+nature: 4.6
+off_the_beaten_track: 2.1
 ---
 
 Fiesole sits on a hill above [Florence](/europe/italy/tuscany/florence), an Etruscan settlement that predates its famous neighbour by centuries. The views from Piazza Mino down across the Arno valley to Florence's dome and towers are among the best in Tuscany, and the air up here is noticeably cooler in summer.

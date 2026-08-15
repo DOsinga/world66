@@ -10,6 +10,10 @@ snippet: San Diego coastal town known for sandy beaches, ocean bluffs, and thoro
   racing
 title: Del Mar
 type: location
+heritage: 2.2
+vibrancy: 5.1
+nature: 6.0
+off_the_beaten_track: 1.4
 ---
 
 Del Mar is a small, affluent beach community on the coast north of [San Diego](/northamerica/unitedstates/california/sandiego). The [wide sandy beach](/northamerica/unitedstates/california/delmar/del_mar_beach) draws sun-worshippers year-round, and in winter migrating California grey whales can be spotted from the bluffs.

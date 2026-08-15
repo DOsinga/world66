@@ -18,6 +18,10 @@ image: monmouth.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Monmouth_-_Monnow_Bridge.jpg
 image_license: CC BY 2.0
 image_attribution: Bob Crowther
+heritage: 6.0
+vibrancy: 2.5
+nature: 5.2
+off_the_beaten_track: 3.1
 ---
 
 Monmouth sits at the meeting of the Wye, Monnow, and Trothy rivers, close enough to England that the border feels like part of the town's daily geography. It is a compact Welsh market town rather than a grand destination, but it has a good one-day rhythm: a medieval bridge, a Georgian square, castle remains, river walks, and a steep climb to one of the best views over the lower Wye Valley.

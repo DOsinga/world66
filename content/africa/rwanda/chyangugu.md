@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Rusizi_District
 title: Cyangugu
 type: location
+heritage: 3.2
+vibrancy: 3.5
+nature: 7.6
+off_the_beaten_track: 4.1
 ---
 
 Cyangugu (officially renamed Rusizi, though the old name persists in everyday conversation) sits at the southern tip of Lake Kivu on Rwanda's border with the Democratic Republic of Congo. It is a small, unhurried border town with a genuinely lovely position — the lake gleaming to the north, the steep forested hills closing in from the east, and the Congolese city of Bukavu visible just across the Ruzizi River.

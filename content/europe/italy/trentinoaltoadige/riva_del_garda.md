@@ -17,6 +17,10 @@ tags:
 title: Riva del Garda
 type: location
 wikidata: Q194136
+heritage: 4.8
+vibrancy: 3.7
+nature: 7.2
+off_the_beaten_track: 1.9
 ---
 
 Riva del Garda, at the northern tip of the lake where the mountains crowd most tightly, is one of the most beautifully situated towns in Italy. The setting is almost vertiginous: peaks rise thousands of metres directly behind the town, the lake stretches south for 52 kilometres, and the persistent winds that funnel down from the Alps make it one of the best windsurfing and kitesurfing spots in Europe.

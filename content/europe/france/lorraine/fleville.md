@@ -14,6 +14,10 @@ snippet: Small Lorraine commune south of Nancy, defined by the Renaissance Chât
   de Fléville.
 title: Fléville
 type: location
+heritage: 3.6
+vibrancy: 1.9
+nature: 2.7
+off_the_beaten_track: 1.8
 ---
 
 Fléville-devant-Nancy is a small commune just south of Nancy, best known for the [Château de Fléville](/europe/france/lorraine/fleville/chateau_de_fleville) — one of the finest Renaissance castles in eastern France. The château has been in private ownership for nearly two centuries and is open to visitors.

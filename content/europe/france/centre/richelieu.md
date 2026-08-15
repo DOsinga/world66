@@ -14,6 +14,10 @@ image: richelieu.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Canon_Richelieu_Brest.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Duch.seb
+heritage: 4.0
+vibrancy: 1.6
+nature: 2.7
+off_the_beaten_track: 2.2
 ---
 
 Richelieu is one of France's great planning curiosities — a 17th-century town built from scratch by Cardinal Richelieu to accompany his now-demolished château. Laid out in the 1630s by the architect Jacques Lemercier, it follows a strict classical grid: streets of identical townhouses behind uniform stone façades, grand gateways, and formal axes that still function exactly as designed nearly four centuries later.

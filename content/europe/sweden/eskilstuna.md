@@ -16,6 +16,10 @@ image: eskilstuna.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Eskilstuna_flygbild1js-1.jpg
 image_license: CC BY 3.0
 image_attribution: Joakim Serrander
+heritage: 4.5
+vibrancy: 3.2
+nature: 4.0
+off_the_beaten_track: 1.6
 ---
 
 Eskilstuna is an old industrial city on the river between Lake Hjälmaren and Lake Mälaren. It began as a religious centre around Saint Eskil, then grew into one of Sweden's great metalworking towns, known as Stålstaden, the Steel City.

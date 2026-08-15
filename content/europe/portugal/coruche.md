@@ -17,6 +17,10 @@ image: coruche.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Coruche_(Portugal)_(88965550).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Vitor Oliveira from Torres Vedras, PORTUGAL
+heritage: 3.6
+vibrancy: 3.0
+nature: 5.3
+off_the_beaten_track: 4.2
 ---
 
 Coruche sits on the Sorraia River at the southern edge of Ribatejo, in a landscape of cork oak woods, bull-breeding estates, and flat agricultural country. It calls itself the world capital of cork, which sounds grand for a quiet town, but the claim makes sense once you see how closely the surrounding montado landscape is tied to local work and identity.

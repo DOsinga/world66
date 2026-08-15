@@ -16,6 +16,10 @@ title: Swansea
 snippet: Welsh port city on Swansea Bay, balancing industrial edges with the beaches
   and cliffs of nearby Gower.
 type: location
+heritage: 5.6
+vibrancy: 5.7
+nature: 4.9
+off_the_beaten_track: 1.8
 ---
 
 Swansea — Abertawe in Welsh — is pretty and pretty ugly at the same time. The old industrial port and the bombed-out 1950s reconstruction sit alongside a revived [Maritime Quarter](/europe/unitedkingdom/wales/swansea/maritimequarter), a long stretch of sand at [Swansea Bay](/europe/unitedkingdom/wales/swansea/swansea_bay), and the wide-open hills and cliffs of the Gower Peninsula a few miles further west.

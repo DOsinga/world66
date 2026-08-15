@@ -17,6 +17,10 @@ tags:
 title: Tetbury
 type: location
 wikidata: Q1248924
+heritage: 5.9
+vibrancy: 2.9
+nature: 4.9
+off_the_beaten_track: 2.6
 ---
 
 Tetbury is a compact Cotswold market town with steep lanes, antique shops, and more serious sights nearby than its size suggests. Its streets have the usual warm limestone and old coaching-town feel, but the town is not just pretty stonework. Highgrove, Chavenage House, Westonbirt Arboretum, and the Market House give it a real day-trip spine.

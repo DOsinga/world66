@@ -13,6 +13,10 @@ snippet: Small Finnish Lapland town on Lake Kemijärvi, at the northern end of r
   passenger rail.
 title: Kemijärvi
 type: location
+heritage: 2.5
+vibrancy: 2.3
+nature: 6.9
+off_the_beaten_track: 2.8
 ---
 
 Kemijärvi is a small town in Finnish Lapland, set on the shores of a beautifully typical Finnish lake. The town centre is compact — a scattering of restaurants and pubs, a good selection of supermarkets, and not much else. That is the point: you come here for the [lake](/europe/finland/kemijarvi/lake_kemijarvi), the forest, and the silence.

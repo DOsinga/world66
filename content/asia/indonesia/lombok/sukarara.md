@@ -9,6 +9,10 @@ snippet: Central Lombok weaving village where Sasak handloom cloth is still made
   household workshops.
 title: Sukarara
 type: location
+heritage: 5.0
+vibrancy: 2.1
+nature: 4.7
+off_the_beaten_track: 5.1
 ---
 
 Sukarara is a village in central Lombok, about 25 km southeast of [Mataram](/asia/indonesia/lombok/mataram) and a short drive from Praya and the airport. It is the island's main centre for traditional Sasak handloom weaving — almost every household has a backstrap loom under the eaves, and visitors can watch women at work and buy directly from the weavers. Together with the pottery village of [Banyumulek](/asia/indonesia/lombok/banyumulek), it makes the standard craft circuit for travellers based in Mataram or stopping over en route to [Kuta Lombok](/asia/indonesia/lombok/kuta_lombok).

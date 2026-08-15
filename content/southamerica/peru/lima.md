@@ -24,6 +24,10 @@ tip: Lima is a sprawling coastal capital perched on cliffs above the Pacific, an
   but it rarely rains.
 title: Lima
 type: location
+heritage: 5.9
+vibrancy: 6.3
+nature: 3.8
+off_the_beaten_track: 2.1
 ---
 
 Lima is a vast, grey, fog-shrouded metropolis of around 10 million people spread along the Pacific coast — almost a third of Peru's population lives here. Founded by Francisco Pizarro in 1535 on the Day of the Epiphany and named **La Ciudad de los Reyes** ("The City of Kings"), it was the capital of Spanish South America for three centuries, and the riches of the Viceroyalty of Peru flowed through it on their way back to Madrid. Earthquakes and modern sprawl have disguised most of that history, and for years Lima had a reputation as a place to pass through on the way to the Inca sites. That has changed. Over the past two decades the city has been quietly rediscovering itself — through its food, above all — and it now has one of the most interesting restaurant scenes in the world.

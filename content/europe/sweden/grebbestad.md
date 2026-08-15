@@ -14,6 +14,10 @@ title: Grebbestad
 type: location
 snippet: Bohuslän fishing village among granite inlets, famous for cold-water oysters
   and summer seafood life.
+heritage: 3.9
+vibrancy: 3.0
+nature: 7.4
+off_the_beaten_track: 2.9
 ---
 
 Grebbestad is a small fishing village on the northern Bohuslan coast of Sweden, picturesquely set among smooth granite cliffs and sheltered inlets. It has about 1,300 year-round residents, but in summer the population swells as Swedes flock here for the coast.

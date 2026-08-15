@@ -9,6 +9,10 @@ snippet: Costa Rican mountain park protecting Cerro Chirripó, páramo grassland
   forest, and glacial lakes
 title: Chirripó
 type: location
+heritage: 1.9
+vibrancy: 0.9
+nature: 8.2
+off_the_beaten_track: 6.0
 ---
 
 Chirripó National Park, about 150 km south of [San José](/northamerica/costarica/sanjose), is home to Costa Rica's highest peak — Cerro Chirripó at 3,820 metres. The park protects a dramatic landscape of cloud forest, páramo grasslands and glacial lakes, and is one of the country's top highlights for hikers.

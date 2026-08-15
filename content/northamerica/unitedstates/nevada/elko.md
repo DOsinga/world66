@@ -13,6 +13,10 @@ snippet: High-desert Nevada city with Basque roots, ranching culture, and the Na
   Cowboy Poetry Gathering.
 title: Elko
 type: location
+heritage: 2.0
+vibrancy: 2.3
+nature: 4.3
+off_the_beaten_track: 2.6
 ---
 
 Elko sits in the high desert of northeast Nevada, roughly halfway between Salt Lake City and Reno on Interstate 80. It is one of the more surprising small cities in the American West: a mining and ranching town with a strong Basque heritage, world-class helicopter skiing on its doorstep, and a peculiar claim to fame as the home of the National Cowboy Poetry Gathering.

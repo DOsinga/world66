@@ -13,6 +13,10 @@ score: 6.35
 snippet: Cajun Country city on Bayou Teche, close to Avery Island and Tabasco history.
 title: New Iberia
 type: location
+heritage: 3.4
+vibrancy: 2.6
+nature: 3.0
+off_the_beaten_track: 1.5
 ---
 
 New Iberia sits in the heart of Cajun Country, along Bayou Teche in southern Louisiana. It is a small, unhurried city where the French-speaking Acadian heritage still runs deep -- in the food, the music, and the easygoing pace of life along the bayou.

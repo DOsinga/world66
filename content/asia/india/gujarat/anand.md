@@ -14,6 +14,10 @@ title: Anand
 type: location
 snippet: Gujarat dairy city where Amul and India's cooperative milk revolution began
   in 1946.
+heritage: 4.0
+vibrancy: 2.8
+nature: 2.5
+off_the_beaten_track: 2.0
 ---
 
 Anand sits between [Ahmedabad](/asia/india/gujarat/ahmedabad) and [Vadodara](/asia/india/gujarat/vadodara) on the main railway line, about 65 km from Ahmedabad. It is known as the Milk Capital of India — this is where Dr Verghese Kurien established the cooperative dairy movement that became Amul and transformed India's dairy industry. The story begins in Anand in 1946, when farmers in the Kaira district organised against exploitative private contractors, and within a generation had built one of the world's most successful agricultural cooperatives.

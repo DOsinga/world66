@@ -14,6 +14,10 @@ snippet: Pamir mountain town on the Karakoram Highway, named for its ancient sto
   fortress.
 title: Tashkorgan
 type: location
+heritage: 1.7
+vibrancy: 1.1
+nature: 7.8
+off_the_beaten_track: 6.6
 ---
 
 Tashkorgan (also spelled Tashkurgan) is a small town at about 3,100 metres in the Pamir Mountains of Xinjiang, roughly 300 kilometres up the [Karakoram Highway](/asia/china/xinjiangprovince/tashkorgan/karakoram_highway) from [Kashgar](/asia/china/kashgar). The name means "Stone Fortress," and the town has been a strategic waypoint on the Silk Road for some 2,000 years — tracks to the Indian Subcontinent and Central Asia all passed through here.

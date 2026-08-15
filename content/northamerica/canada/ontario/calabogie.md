@@ -14,6 +14,10 @@ image: calabogie.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Calabogie_Lake_DSCN0811r.jpg
 image_license: CC0
 image_attribution: Petersent
+heritage: 1.8
+vibrancy: 1.7
+nature: 6.4
+off_the_beaten_track: 2.7
 ---
 
 Calabogie is a small Ottawa Valley village that has made itself useful in every season. It sits on Calabogie Lake, below low forested hills, about an hour west of Ottawa by car. The village itself is tiny, but the surrounding area has enough specific draws to justify a day away from the capital.

@@ -14,6 +14,10 @@ snippet: East Fjords harbour town of bright timber houses, tucked below mountain
   at the end of Seyðisfjörður
 title: Seydisfjordur
 type: location
+heritage: 3.5
+vibrancy: 2.2
+nature: 7.5
+off_the_beaten_track: 5.0
 ---
 
 Seyðisfjörður is one of Iceland's most striking small towns, tucked at the end of a long fjord in the East Fjords region and reached by a dramatic mountain road that drops in hairpin bends from the highland plateau. The town is small — around 700 people — but punches well above its weight for culture and atmosphere.

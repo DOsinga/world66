@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/%C5%A0ari%C5%A1_Castle
 title: Prešov
 type: location
+heritage: 5.6
+vibrancy: 2.7
+nature: 3.1
+off_the_beaten_track: 2.1
 ---
 
 Prešov is Slovakia's third-largest city, but it feels more provincial and easier-going than that ranking suggests. It is the centre of the old Šariš region, north of [Košice](/europe/slovakia/kosice), with a long historic core, mixed Latin and Greek Catholic heritage, and a Rusyn cultural thread that gives the city its own flavour.

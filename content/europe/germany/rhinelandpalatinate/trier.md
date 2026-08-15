@@ -14,6 +14,10 @@ snippet: Roman-founded German city on the Moselle, dense with imperial ruins and
   Christian monuments
 title: Trier
 type: location
+heritage: 5.9
+vibrancy: 4.2
+nature: 3.8
+off_the_beaten_track: 2.0
 ---
 
 Trier is Germany’s oldest city, founded by the Romans around 17 BC and so important to the empire that it was called "Roma Secunda" — the second Rome. It was home to six Roman emperors at various points and served as the effective capital of the Western Empire in the 4th century. Nowhere else in Germany are Roman times so tangibly present: eight UNESCO World Heritage Sites are clustered within the old city, including the [Porta Nigra](/europe/germany/rhinelandpalatinate/trier/portanigra), the [Aula Palatina](/europe/germany/rhinelandpalatinate/trier/aula_palatina), the [Roman Baths](/europe/germany/rhinelandpalatinate/trier/romanbaths), and the [Amphitheatre](/europe/germany/rhinelandpalatinate/trier/amphitheatre).

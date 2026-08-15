@@ -26,6 +26,10 @@ tip: Buenos Aires is the most European-feeling city in South America — grand b
   late, after 9pm.
 title: Buenos Aires
 type: location
+heritage: 6.0
+vibrancy: 9.4
+nature: 4.1
+off_the_beaten_track: 1.0
 ---
 
 Buenos Aires likes to call itself the Paris of South America. It is more accurate to say that it is the most European of South American cities — and the least European of European ones. The architecture is Haussmann-adjacent, the politics baroque, the national self-image a combination of European pretension and Latin American melancholy, and the result is one of the more fascinating cities on the continent.

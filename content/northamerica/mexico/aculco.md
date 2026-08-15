@@ -14,6 +14,10 @@ image: aculco.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aculco_Kiosco.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Armando Olivo Martín del Campo
+heritage: 5.1
+vibrancy: 2.6
+nature: 4.4
+off_the_beaten_track: 2.8
 ---
 
 Aculco is a small mountain town in Mexico State, northwest of Mexico City, with whitewashed streets, stone lanes, and a quieter feel than the better-known colonial towns. It is one of Mexico's Pueblos Magicos and sits on the old Camino Real de Tierra Adentro, the historic inland route that linked Mexico City with the northern silver towns.

@@ -10,6 +10,10 @@ title: Hrazdan
 snippet: Kotayk Marz administrative town in the Hrazdan River gorge, shaped by Soviet-era
   industry.
 type: location
+heritage: 4.1
+vibrancy: 2.7
+nature: 5.4
+off_the_beaten_track: 3.6
 ---
 
 Hrazdan is the administrative centre of Kotayk Marz, about 45 km north of Yerevan in the Hrazdan River gorge. With a population of around 40,000, it was a Soviet-era industrial town — a cement factory and hydroelectric station were its backbone — and the post-Soviet economic collapse hit it hard. The town itself offers little to the visitor, but it sits in a region with several worthwhile destinations nearby.

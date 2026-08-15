@@ -14,6 +14,10 @@ title: Monnickendam
 type: location
 snippet: Historic Waterland town on the Markermeer, with canal houses and a quieter
   pace than Volendam.
+heritage: 4.5
+vibrancy: 2.6
+nature: 3.9
+off_the_beaten_track: 1.5
 ---
 
 Monnickendam (often misspelled Monickendam) is a quiet historic town just north of Amsterdam on the shores of the Markermeer. It received its city rights around 650 years ago and has retained much of its old character — canal houses, narrow streets, and a relaxed pace that is increasingly rare in the towns of the Waterland region.

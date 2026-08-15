@@ -13,6 +13,10 @@ snippet: Northwestern Hungarian industrial city, overlooked by the huge Turul Mo
   above the Tatabánya basin.
 title: Tatabánya
 type: location
+heritage: 2.7
+vibrancy: 2.2
+nature: 1.7
+off_the_beaten_track: 1.5
 ---
 
 Tatabánya is the capital of Komárom-Esztergom county in northwestern Hungary, a city of about 65,000 that grew up around coal mining and heavy industry in the twentieth century. It is not a conventional tourist destination, but it has one genuinely impressive sight: the [Turul Monument](/europe/hungary/tatabanya/turul_monument) on the hilltop above the city, a massive bronze bird of prey with a wingspan of fourteen metres, one of the largest bird statues in Europe. The views from up there across the Tatabánya basin and the [Gerecse Hills](/europe/hungary/tatabanya/gerecse_hills) are worth the climb.

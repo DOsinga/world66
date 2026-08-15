@@ -14,6 +14,10 @@ snippet: Eastern Sudanese city beside the Eritrean border, backed by the dramati
   Taka Mountains.
 title: Kassala
 type: location
+heritage: 0.5
+vibrancy: 1.7
+nature: 3.9
+off_the_beaten_track: 7.1
 ---
 
 Kassala sits in the east of Sudan, some 600 km from [Khartoum](/africa/sudan/khartoum) and practically on the border with Eritrea. It used to be one of the touristic highlights of the country and is still popular with Sudanese newlyweds who come here to honeymoon. The cool climate and the spectacular scenery — particularly the [Taka Mountains](/africa/sudan/kassala/taka_mountains) rising straight out of the plain — are the main attractions.

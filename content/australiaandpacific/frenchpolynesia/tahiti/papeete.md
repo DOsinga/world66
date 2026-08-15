@@ -14,6 +14,10 @@ title: Papeete
 snippet: French Polynesian capital on Tahiti's northwest coast, serving as the territory's
   main transit hub.
 type: location
+heritage: 4.3
+vibrancy: 5.5
+nature: 7.3
+off_the_beaten_track: 2.2
 ---
 
 Papeete is the capital of **French Polynesia**, a low-rise waterfront city of about 130,000 people on the north-west coast of **Tahiti**. It is not a beautiful city — the harbour is industrial, the centre is dominated by concrete offices and a cruise-ship terminal, and for many travellers it is mostly a transit point on the way to Bora Bora, Moorea, or the Marquesas. That said, nearly every visitor to French Polynesia passes through here at some point, and a day or two is enough to see what there is of it.

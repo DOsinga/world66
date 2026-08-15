@@ -25,6 +25,10 @@ tip: Sofia is one of Europe's oldest cities, sitting at the foot of Vitosha moun
   fill bottles at.
 title: Sofia
 type: location
+heritage: 5.9
+vibrancy: 5.3
+nature: 2.5
+off_the_beaten_track: 1.8
 ---
 
 Sofia is a compact, walkable capital with a relaxed atmosphere and a quality-of-life that surprises most first-time visitors. It is one of the cheaper European capitals, has good museums, excellent café culture, and easy access to the [Vitosha mountain](/europe/bulgaria/sofia/vitosha_mountain) that rises directly above the southern suburbs.

@@ -14,6 +14,10 @@ snippet: Whitewashed Costa Brava fishing village tied to Salvador Dalí and the 
   Cap de Creus coast.
 title: Cadaqués
 type: location
+heritage: 4.3
+vibrancy: 5.3
+nature: 7.0
+off_the_beaten_track: 2.6
 ---
 
 Cadaqués is one of the most beautiful villages on the Catalan Costa Brava — a whitewashed fishing port tucked into a rocky bay on the Cap de Creus peninsula. Its relative inaccessibility (a winding mountain road with no train connection) kept it from the worst of coastal overdevelopment and gave it a character that larger resorts have lost.

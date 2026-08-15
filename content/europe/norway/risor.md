@@ -17,6 +17,10 @@ image: risor.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ris%C3%B8r_Krantoppen_august_2017_(2).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Peulle
+heritage: 4.7
+vibrancy: 3.5
+nature: 6.1
+off_the_beaten_track: 1.9
 ---
 
 Risør is often called the best-preserved of Sørlandet's white towns, and it earns the title. The old town wraps tightly around a narrow, sheltered harbour, its 18th- and 19th-century wooden houses — built for the sea captains and shipowners who made Risør rich on timber and shipping — packed close along impossibly narrow lanes with no room for cars. Wander without a plan; the town is small enough that you can't really get lost, and every turn opens onto another whitewashed row leaning down to the water.

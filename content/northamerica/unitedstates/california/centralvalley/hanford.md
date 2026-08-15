@@ -16,6 +16,10 @@ snippet: Central Valley town with a preserved China Alley, historic courthouse s
   and restored Fox Theater.
 title: Hanford
 type: location
+heritage: 2.3
+vibrancy: 1.7
+nature: 2.4
+off_the_beaten_track: 2.1
 ---
 
 Hanford is a small Central Valley city that punches well above its weight in historic interest. The main draw is [China Alley](/northamerica/unitedstates/california/centralvalley/hanford/china_alley), a remarkably preserved enclave from the late 19th century when Chinese railroad workers settled here after the transcontinental lines were complete. The 1893 [Taoist Temple](/northamerica/unitedstates/california/centralvalley/hanford/taoist_temple) on China Alley still stands, and you can visit it by reservation — it is one of the oldest Chinese temples in the American West.

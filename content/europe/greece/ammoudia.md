@@ -14,6 +14,10 @@ snippet: Quiet Ionian village at the Acheron River mouth, near wetlands and the 
   Necromanteion.
 title: Ammoudia
 type: location
+heritage: 3.6
+vibrancy: 3.0
+nature: 5.9
+off_the_beaten_track: 2.7
 ---
 
 Ammoudia is a small village on the Ionian coast of northwestern [Greece](/europe/greece), at the mouth of the [Acheron River](/europe/greece/ammoudia/acheron_river) — the river that in Greek mythology led to the underworld. A boat trip up the Acheron passes through a gorge of striking natural beauty, with rare plant and bird species protected in the [Acheron Delta wetland](/europe/greece/ammoudia/acheron_delta_wetland) under the Natura 2000 programme.

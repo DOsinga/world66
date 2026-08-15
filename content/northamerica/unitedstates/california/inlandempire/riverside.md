@@ -10,6 +10,10 @@ snippet: Inland Empire city known as California's citrus birthplace and home to 
   Mission Inn.
 title: Riverside
 type: location
+heritage: 4.9
+vibrancy: 4.2
+nature: 3.6
+off_the_beaten_track: 1.2
 ---
 
 Riverside is the birthplace of California's citrus industry and the cultural heart of the Inland Empire. The city's crown jewel is the Mission Inn, a sprawling Mission Revival and Spanish Colonial masterpiece filled with alcoves, wooden beams, stained glass, and antiques. Even if you do not stay the night, walk through the public areas and have a meal.

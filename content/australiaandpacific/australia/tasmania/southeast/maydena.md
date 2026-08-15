@@ -16,6 +16,10 @@ image: maydena.jpg
 image_source: https://commons.wikimedia.org/wiki/File:IMG_2146_Tasmania_Highlands_Center_Maydena_Village_(5214917646).jpg
 image_license: CC BY 2.0
 image_attribution: DANIEL JULIE from Paris, France
+heritage: 1.9
+vibrancy: 1.1
+nature: 7.6
+off_the_beaten_track: 4.1
 ---
 
 Maydena is a tiny forestry village west of Hobart, close to the rainforest and karst country around Mount Field. It is not a polished resort town, and that is part of the point: a few streets, wet forest, mountain air, and enough oddball activity to justify the drive if you like the outdoors.

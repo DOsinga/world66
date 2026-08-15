@@ -10,6 +10,10 @@ snippet: Dalarna lake region of red farmhouses, craft villages, and a 360-millio
   meteorite crater.
 title: Siljan area
 type: location
+heritage: 3.1
+vibrancy: 2.1
+nature: 5.7
+off_the_beaten_track: 2.3
 ---
 
 Lake Siljan has given its name to the heart of Dalarna, the province in central Sweden that Swedes themselves regard as the most classically Swedish. The lake sits inside a vast impact crater formed by a meteorite some 360 million years ago — the landscape gentle and ancient-feeling. The villages around it have preserved traditional Swedish rural culture more stubbornly than almost anywhere else in the country. Farmhouses are built of logs and painted in the deep red oxide pigment from the copper mine at Falun, and many are several hundred years old, some with painted interiors that have never been updated.

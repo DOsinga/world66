@@ -13,6 +13,10 @@ image: huang_shan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:20160422_CHINA_1321.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Nicolascornet
+heritage: 8.4
+vibrancy: 4.6
+nature: 8.0
+off_the_beaten_track: 4.5
 ---
 
 Huang Shan (Yellow Mountain) is one of China’s most celebrated landscapes — a 72-peak granite range in Anhui province, about 400km south-west of Shanghai, that has been inspiring Chinese painters and poets for over a thousand years. The mountain range is famous for four sights: the sea of clouds that forms below the peaks, the twisted pines growing from the cliff faces, the peculiarly shaped granite formations, and the hot springs at the base.

@@ -14,6 +14,10 @@ snippet: Po Delta abbey complex where Guido d'Arezzo developed modern musical no
   in the Middle Ages.
 title: Pomposa
 type: location
+heritage: 6.7
+vibrancy: 3.3
+nature: 3.5
+off_the_beaten_track: 1.9
 ---
 
 Pomposa is a beautiful old Benedictine abbey in the Po Delta, about 50 km north of [Ravenna](/europe/italy/emiliaromagna/ravenna). Founded in the sixth century, the abbey became one of the most important centres of learning in medieval Italy. It was here that the monk Guido d'Arezzo developed the modern system of musical notation in the eleventh century, giving the world the do-re-mi scale that is still used today.

@@ -10,6 +10,10 @@ snippet: Mozambican reservoir town beside Massingir Dam, with access to Parque N
   do Limpopo.
 title: Massingir
 type: location
+heritage: 3.9
+vibrancy: 1.6
+nature: 5.8
+off_the_beaten_track: 5.3
 ---
 
 Massingir is a small town in Gaza Province, [Mozambique](/africa/mozambique), best known as the gateway to the Parque Nacional do Limpopo. The park forms part of the Great Limpopo Transfrontier Park, linking with South Africa's Kruger and Zimbabwe's Gonarezhou.

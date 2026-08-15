@@ -13,6 +13,10 @@ snippet: Alpine Lombardy town at old Swiss passes, known for stone palazzi and n
   crotti cellars.
 title: Chiavenna
 type: location
+heritage: 4.0
+vibrancy: 3.0
+nature: 7.1
+off_the_beaten_track: 3.0
 ---
 
 Chiavenna is a small alpine town in the Valchiavenna, at the junction of the Mera and Liro rivers in northernmost Lombardy, close to the Swiss border. It sits at the foot of the Maloja and Splügen passes, which means it has been a transit point between northern Italy and Switzerland for thousands of years — long enough for the Romans to establish a station here, and long enough for the medieval trading economy to leave its mark in the form of handsome stone palazzi lining the old town streets.

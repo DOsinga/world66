@@ -5,13 +5,18 @@ loc_type: city
 latitude: -36.15
 longitude: 146.6
 score: 6.58
-snippet: Preserved High Country gold town beside box-ironbark forest and old newspaper offices
+snippet: Preserved High Country gold town beside box-ironbark forest and old newspaper
+  offices
 wikidata: Q2963640
 sources:
-  - https://en.wikivoyage.org/wiki/Chiltern
-  - https://en.wikipedia.org/wiki/Chiltern,_Victoria
-  - https://www.wikidata.org/wiki/Q2963640
-  - https://www.parks.vic.gov.au/places-to-see/parks/chiltern-mt-pilot-national-park
+- https://en.wikivoyage.org/wiki/Chiltern
+- https://en.wikipedia.org/wiki/Chiltern,_Victoria
+- https://www.wikidata.org/wiki/Q2963640
+- https://www.parks.vic.gov.au/places-to-see/parks/chiltern-mt-pilot-national-park
+heritage: 2.4
+vibrancy: 2.0
+nature: 5.2
+off_the_beaten_track: 2.6
 ---
 
 Chiltern is a small goldfields town in north-eastern [Victoria](/australiaandpacific/australia/victoria), between Wangaratta and Wodonga. It is not a grand destination, but it has a clear reason to stop: a well-kept 19th-century streetscape, several National Trust properties, and the dry box-ironbark forest of Chiltern-Mt Pilot National Park just outside town.

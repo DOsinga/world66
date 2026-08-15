@@ -25,6 +25,10 @@ tip: The medina is a maze and the 'helpful' boys offering directions expect paym
   circus at dusk. Stay in a riad — a courtyard house hidden behind a blank wall.
 title: Marrakesh
 type: location
+heritage: 6.7
+vibrancy: 5.0
+nature: 2.3
+off_the_beaten_track: 1.9
 ---
 
 Marrakesh is the most visceral of Morocco's imperial cities — an ochre-walled medina at the foot of the snow-capped Atlas Mountains where the medieval and the contemporary collide in spectacularly chaotic fashion. The city has been pulling in visitors for decades, and the tourist infrastructure is well-developed, but the medina retains enough of its original character to reward serious exploration.

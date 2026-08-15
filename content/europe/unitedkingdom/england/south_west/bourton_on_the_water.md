@@ -13,6 +13,10 @@ image: bourton_on_the_water.jpg
 image_source: https://commons.wikimedia.org/wiki/File:April_day_-_Bourton_on_the_Water,_Gloucestershire_-_geograph.org.uk_-_6254844.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Martin Richard Phelan
+heritage: 5.9
+vibrancy: 3.2
+nature: 6.0
+off_the_beaten_track: 1.5
 ---
 
 Bourton-on-the-Water is the Cotswolds at its most visited: a village where the River Windrush flows through the centre of the high street in a shallow, reed-lined channel crossed by a series of low stone footbridges. The combination of the flowing water, the mellow stone buildings, and the village green makes it genuinely attractive. It also makes it one of the most crowded places in the Cotswolds, with summer weekends bringing numbers that strain the narrow streets.

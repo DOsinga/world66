@@ -11,6 +11,10 @@ snippet: Ohio River city in West Virginia, tied to Blennerhassett Island and Aar
   Burr's western conspiracy
 title: Parkersburg
 type: location
+heritage: 2.9
+vibrancy: 2.4
+nature: 4.2
+off_the_beaten_track: 1.9
 ---
 
 Parkersburg sits on the Ohio River in the far northwest corner of [West Virginia](/northamerica/unitedstates/westvirginia), where the Little Kanawha River joins the Ohio. It is a small industrial city with an outsized piece of American history anchored in the river beside it.

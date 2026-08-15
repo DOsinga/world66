@@ -14,6 +14,10 @@ snippet: Prosperous Emilia-Romagna city known for motor heritage, balsamic vineg
   and a UNESCO Romanesque cathedral.
 title: Modena
 type: location
+heritage: 6.4
+vibrancy: 5.1
+nature: 2.5
+off_the_beaten_track: 1.5
 ---
 
 Modena is best known for its industrial prowess, particularly in the Italian motor industry — Ferrari, Maserati, and Lamborghini all have roots here. But the old city in the centre is truly monumental, with one of Italy's finest Romanesque cathedrals and its impressive 88-metre [Ghirlandina bell tower](/europe/italy/emiliaromagna/modena/duomo_di_modena), both UNESCO World Heritage Sites. Modena is also the birthplace of balsamic vinegar and the late tenor Luciano Pavarotti.

@@ -16,6 +16,10 @@ tags:
 - yorkshire_dales
 title: Richmond
 type: location
+heritage: 6.8
+vibrancy: 3.4
+nature: 4.6
+off_the_beaten_track: 2.2
 ---
 
 Richmond is a lovely historic town in Swaledale, one of the most fascinating of the [Yorkshire Dales](/europe/unitedkingdom/england/yorkshire/yorkshire_dales). Not to be confused with its many namesakes — this is the original, perched above a bend in the River Swale.

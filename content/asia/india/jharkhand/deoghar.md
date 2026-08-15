@@ -3,13 +3,18 @@ latitude: 24.48
 loc_type: city
 longitude: 86.7
 score: 7.18
-snippet: Hindu pilgrimage city in Jharkhand centred on the Baidyanath Jyotirlinga shrine.
+snippet: Hindu pilgrimage city in Jharkhand centred on the Baidyanath Jyotirlinga
+  shrine.
 sources:
 - https://en.wikivoyage.org/wiki/Deoghar
 - https://deoghar.nic.in/tourist-places/
 - https://tourism.jharkhand.gov.in/how-to-reach/53/1
 title: Deoghar
 type: location
+heritage: 7.0
+vibrancy: 3.9
+nature: 3.0
+off_the_beaten_track: 2.9
 ---
 
 Deoghar is one of eastern India's great pilgrimage towns, a small Jharkhand city whose name means "abode of the gods." The reason to come is **[Baba Baidyanath Dham](/asia/india/jharkhand/deoghar/baba_baidyanath_dham)**, one of the twelve Jyotirlinga shrines sacred to Shiva and the centre of the town's daily life.

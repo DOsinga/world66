@@ -13,6 +13,10 @@ snippet: Ivorian Atlantic port city built around cocoa exports, with coconut-fri
   beaches and rainforest access
 title: San-Pédro
 type: location
+heritage: 3.7
+vibrancy: 4.5
+nature: 4.8
+off_the_beaten_track: 3.5
 ---
 
 San-Pédro is the second-largest port city in Ivory Coast, a bustling Atlantic town of around 200,000 people on the country's southwestern coast. Built up in the 1970s around a [deep-water port](/africa/ivorycoast/sanpedro/port_de_san_pedro) to export cocoa, timber, and rubber, it has a more modern feel than many Ivorian cities, with wide boulevards and a grid layout that makes it easy to navigate. The port remains the economic engine, but the real attraction for visitors is the coastline — long stretches of sandy beach fringed by coconut palms, with warm water and relatively few people.

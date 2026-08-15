@@ -5,11 +5,16 @@ loc_type: city
 latitude: 47.0735
 longitude: -55.8278
 score: 6.7
-snippet: Burin Peninsula fishing town beside a globally important Precambrian-Cambrian boundary.
+snippet: Burin Peninsula fishing town beside a globally important Precambrian-Cambrian
+  boundary.
 sources:
-  - https://en.wikivoyage.org/wiki/Fortune
-  - https://en.wikipedia.org/wiki/Fortune_Head
-  - https://www.gov.nl.ca/eccc/natural-areas/wer/r-fhe/
+- https://en.wikivoyage.org/wiki/Fortune
+- https://en.wikipedia.org/wiki/Fortune_Head
+- https://www.gov.nl.ca/eccc/natural-areas/wer/r-fhe/
+heritage: 3.7
+vibrancy: 1.1
+nature: 7.3
+off_the_beaten_track: 5.4
 ---
 
 Fortune is a small fishing town on the Burin Peninsula, best known to travellers as the ferry port for Saint Pierre and Miquelon. That alone would make it a useful stop, but the reason to give it a day is just west of town at Fortune Head.

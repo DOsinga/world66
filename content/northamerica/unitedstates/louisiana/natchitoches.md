@@ -19,6 +19,10 @@ image: natchitoches.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Downtown_Natchitoches_Lousiana_10_July_2021.jpg
 image_license: CC BY 2.0
 image_attribution: amanderson2
+heritage: 6.6
+vibrancy: 4.8
+nature: 3.7
+off_the_beaten_track: 2.0
 ---
 
 *North America > United States > Louisiana > Natchitoches*

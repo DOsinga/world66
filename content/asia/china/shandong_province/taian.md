@@ -14,6 +14,10 @@ snippet: Shandong city at the foot of Mount Tai, one of China's most venerated s
   mountains.
 title: Tai'an
 type: location
+heritage: 5.0
+vibrancy: 4.3
+nature: 3.6
+off_the_beaten_track: 2.8
 ---
 
 Tai'an exists for one reason: [Mount Tai](/asia/china/shandong_province/taian/mount_tai). Taishan is the most revered of China's Five Sacred Mountains and a UNESCO World Heritage Site, and the city at its base has served pilgrims, emperors, and travellers for thousands of years. The climb begins at [Dai Temple](/asia/china/shandong_province/taian/dai_temple) in the centre of town, a sprawling complex that is itself worth a visit before you start the ascent.

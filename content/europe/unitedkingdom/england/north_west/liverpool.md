@@ -15,6 +15,10 @@ title: Liverpool
 type: location
 snippet: Mersey port city shaped by maritime history, music, sharp humour, and a revived
   waterfront.
+heritage: 6.7
+vibrancy: 6.1
+nature: 3.8
+off_the_beaten_track: 1.4
 ---
 
 Liverpool is one of the liveliest cities in England, shaped by its port, its people, and its music. The Mersey waterfront was a UNESCO World Heritage Site until 2021 and remains the city's calling card, but the real draw is the energy of the place: irreverent, creative, and fiercely proud of where it comes from.

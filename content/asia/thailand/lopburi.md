@@ -15,6 +15,10 @@ image: lopburi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Chantharaphisan_Hall_in_the_Ratchaniwet_Palace,_Lopburi,_Thailand,_2018.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Chris Baker
+heritage: 6.8
+vibrancy: 4.8
+nature: 2.4
+off_the_beaten_track: 1.2
 ---
 
 Lopburi is one of Thailand's oldest cities, a manageable rail trip north of Bangkok and a good antidote to polished heritage towns. Its old centre mixes Khmer towers, Ayutthaya-era royal remains, working streets, and macaques that have made themselves far too comfortable around the ruins.

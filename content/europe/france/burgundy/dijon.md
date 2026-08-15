@@ -13,6 +13,10 @@ title: Dijon
 snippet: Burgundian regional capital with a protected old town shaped by the Dukes
   of Burgundy.
 type: location
+heritage: 6.9
+vibrancy: 5.5
+nature: 2.1
+off_the_beaten_track: 1.7
 ---
 
 Once the proud capital of the Dukes of Burgundy — Jean sans Peur, Philippe le Bon, and Charles le Téméraire were all born here — Dijon is now a comfortable regional capital between [Lyon](/europe/france/alpes/lyon) and [Paris](/europe/france/paris). The old town is small, dense, and largely intact: 97 hectares of protected monuments, glazed rooftops in the Burgundian style, half-timbered houses leaning into the pedestrianised streets, hôtels particuliers from the 17th and 18th centuries hidden behind discreet courtyards.

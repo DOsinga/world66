@@ -14,6 +14,10 @@ snippet: Pennsylvania battlefield town centered on Civil War memory, military pa
   and Lincoln's famous address.
 title: Gettysburg
 type: location
+heritage: 6.8
+vibrancy: 3.5
+nature: 3.5
+off_the_beaten_track: 1.6
 ---
 
 Just one of the historic cities in Pennsylvania, Gettysburg was the site of one of the most famous battles in Civil War history. Much of the town is filled with tourists, local folk in period dress, and students visiting the abundance of museums and shops. The big draws are the [National Military Park](/northamerica/unitedstates/pennsylvania/gettysburg/military_park) and battlefield, the [Cyclorama](/northamerica/unitedstates/pennsylvania/gettysburg/cyclorama) painting of Pickett's Charge, and the [Soldiers' National Cemetery](/northamerica/unitedstates/pennsylvania/gettysburg/national_cemetery) where Lincoln gave his famous address.

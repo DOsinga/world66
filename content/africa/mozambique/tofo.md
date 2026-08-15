@@ -10,6 +10,10 @@ snippet: Mozambican beach village near Inhambane, known for whale shark diving a
   manta ray encounters.
 title: Tofo
 type: location
+heritage: 2.9
+vibrancy: 2.1
+nature: 7.6
+off_the_beaten_track: 5.7
 ---
 
 Tofo Beach, about 22 km east of [Inhambane](/africa/mozambique/inhambane), is one of Mozambique's most visited destinations and the undisputed capital of whale shark diving. The beach is a broad crescent of white sand, the surf is consistent, and the marine life in the bay is extraordinary.

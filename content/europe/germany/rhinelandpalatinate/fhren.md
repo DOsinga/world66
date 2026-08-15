@@ -10,6 +10,10 @@ snippet: Mosel wine village near Trier, set among vineyards and anchored by Schl
   Föhren.
 title: Föhren
 type: location
+heritage: 1.9
+vibrancy: 2.0
+nature: 2.8
+off_the_beaten_track: 1.5
 ---
 
 Föhren is a small village in Rhineland-Palatinate, set among vineyards a few kilometres from [Trier](/europe/germany/rhinelandpalatinate/trier). It sits in the Mosel wine country, and the gentle landscape of river, slopes, and vines that characterises this part of Germany is at its best in the area around Föhren.

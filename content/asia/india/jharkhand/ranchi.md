@@ -7,13 +7,18 @@ latitude: 23.3441
 loc_type: city
 longitude: 85.3096
 score: 7.35
-snippet: Jharkhand capital on the Chota Nagpur Plateau, known for hill viewpoints and waterfalls.
+snippet: Jharkhand capital on the Chota Nagpur Plateau, known for hill viewpoints
+  and waterfalls.
 sources:
 - https://en.wikivoyage.org/wiki/Ranchi
 - https://ranchi.nic.in/tourist-places/
 - https://en.wikipedia.org/wiki/Ranchi
 title: Ranchi
 type: location
+heritage: 3.2
+vibrancy: 3.0
+nature: 3.1
+off_the_beaten_track: 3.3
 ---
 
 Ranchi is the capital of [Jharkhand](/asia/india/jharkhand), set high on the Chota Nagpur Plateau rather than down in the hotter Gangetic plains. That elevation gives it cooler evenings, red soil, patches of forest, and a very different feel from the bigger cities of eastern India.

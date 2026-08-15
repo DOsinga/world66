@@ -5,16 +5,21 @@ loc_type: city
 latitude: 20.1667
 longitude: 99.6333
 score: 8.0
-snippet: Mountain tea village in northern Thailand, shaped by Yunnanese KMT settlers and misty oolong plantations.
+snippet: Mountain tea village in northern Thailand, shaped by Yunnanese KMT settlers
+  and misty oolong plantations.
 wikidata: Q652473
 sources:
-  - https://en.wikivoyage.org/wiki/Mae_Salong
-  - https://en.wikipedia.org/wiki/Mae_Salong
-  - https://www.wikidata.org/wiki/Q652473
+- https://en.wikivoyage.org/wiki/Mae_Salong
+- https://en.wikipedia.org/wiki/Mae_Salong
+- https://www.wikidata.org/wiki/Q652473
 image: mae_salong.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2014_0601_Mae_Salong_tea_plantations.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Takeaway
+heritage: 1.7
+vibrancy: 2.2
+nature: 5.1
+off_the_beaten_track: 3.8
 ---
 
 Mae Salong, officially Santikhiri, is a mountain village in far northern Thailand with a history unlike anywhere else in the country. It was settled by Kuomintang soldiers who fled Yunnan after the Chinese Civil War, then stayed on the Thai frontier through the Cold War and the opium years.

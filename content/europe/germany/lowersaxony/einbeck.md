@@ -17,6 +17,10 @@ image: einbeck.jpg
 image_source: https://commons.wikimedia.org/wiki/File:B%C3%BCrgerh%C3%A4user_(ca._1600)_in_Einbeck_IMG_3608.jpg
 image_license: CC BY-SA 3.0
 image_attribution: losch
+heritage: 5.8
+vibrancy: 2.7
+nature: 3.0
+off_the_beaten_track: 2.0
 ---
 
 Einbeck is a small town in southern Lower Saxony with a surprisingly clear identity: half-timbered streets, strong brewing history, and one of Germany's best collections of historic vehicles. It is not as grand as nearby [Goslar](/europe/germany/lowersaxony/goslar) or [Hildesheim](/europe/germany/lowersaxony/hildesheim), but it rewards a slow day on foot.

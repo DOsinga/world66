@@ -14,6 +14,10 @@ image: danyang.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Danyang,_South_Korea,_Gosu_cave.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Olga Lipunova
+heritage: 2.4
+vibrancy: 2.6
+nature: 3.8
+off_the_beaten_track: 2.0
 ---
 
 *Asia > South Korea > Danyang*

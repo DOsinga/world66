@@ -15,6 +15,10 @@ snippet: Austrian Alpine spa town stacked above a waterfall, with Belle Époque 
   and thermal waters
 title: Bad Gastein
 type: location
+heritage: 4.3
+vibrancy: 3.5
+nature: 8.0
+off_the_beaten_track: 2.2
 ---
 
 **Bad Gastein** is a thermal spa town draped across the steep walls of the Gasteinertal in the Austrian Alps, about 90 kilometres south of [Salzburg](/europe/austria/salzburg). It is not a typical ski resort — it is something stranger and more interesting. The town hangs on near-vertical cliffs above a river, the streets connected by stairs and footbridges, a thundering [waterfall](/europe/austria/bad_gastein/gasteiner_ache_waterfall) crashing straight through the centre. Belle Époque grand hotels cling to the hillside above it all, a reminder that Empress Elisabeth of Austria, Kaiser Wilhelm II and half the crowned heads of Europe once came here to take the waters.

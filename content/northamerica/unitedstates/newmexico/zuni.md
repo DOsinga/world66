@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/A:shiwi_A:wan_Museum_and_Heritage_Center
 snippet: New Mexico pueblo community beside Dowa Yalanne mesa, deeply tied to Zuni
   history and craft.
+heritage: 5.2
+vibrancy: 2.3
+nature: 6.0
+off_the_beaten_track: 3.1
 ---
 
 The Pueblo of Zuni is the largest of the New Mexico pueblos, home to a community that has lived in this corner of the Southwest for thousands of years. It sits in a landscape of juniper- and piñon-studded mesas southwest of Grants and due south of Gallup, with the sacred [Dowa Yalanne mesa](/northamerica/unitedstates/newmexico/zuni/dowa_yalanne) rising nearby — a place deeply tied to Zuni history and identity.

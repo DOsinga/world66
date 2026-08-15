@@ -12,6 +12,10 @@ snippet: Texas Panhandle city on old Route 66, known for high-plains skies and r
   Americana
 title: Amarillo
 type: location
+heritage: 2.4
+vibrancy: 3.5
+nature: 2.7
+off_the_beaten_track: 1.2
 ---
 
 Amarillo is the largest city in the Texas Panhandle, a flat stretch of high plains where the sky dominates and the wind is almost always blowing. It sits squarely on old Route 66, and the ghost of that highway still shapes the city — you can find neon-lit diners, vintage motels, and roadside Americana all along old 6th Street and Amarillo Boulevard.

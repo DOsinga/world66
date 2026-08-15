@@ -15,6 +15,10 @@ image: cley_next_the_sea.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cley_windmill,_from_Beach_Road,_Cley_next_the_Sea_-_geograph.org.uk_-_3005259_(cropped).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Julian Dowse
+heritage: 4.2
+vibrancy: 1.6
+nature: 6.0
+off_the_beaten_track: 3.1
 ---
 
 Cley next the Sea is one of the most atmospheric villages on the [North Norfolk Coast](/europe/unitedkingdom/england/east_of_england/the_north_norfolk_coast). It sits slightly inland from the sea now, behind marshes and shingle, but its tight lanes, flint cottages, windmill, and old harbour tell you it was once a busy port.

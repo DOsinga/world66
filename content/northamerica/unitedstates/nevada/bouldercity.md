@@ -14,6 +14,10 @@ snippet: Nevada dam town built for Hoover Dam workers, with historic downtown st
   and no casino gambling.
 title: Boulder City
 type: location
+heritage: 3.1
+vibrancy: 3.8
+nature: 5.4
+off_the_beaten_track: 1.6
 ---
 
 Boulder City was built in the 1930s to house the workers constructing [Hoover Dam](/northamerica/unitedstates/nevada/bouldercity/hoover_dam), and it has kept its small-town character ever since — it is the only city in Nevada where gambling is illegal. The [historic downtown](/northamerica/unitedstates/nevada/bouldercity/boulder_city_historic_district) has a pleasant main street with diners, antique shops, and a small museum about the dam's construction. The [Boulder Dam Hotel](/northamerica/unitedstates/nevada/bouldercity/boulder_dam_hotel), a handsome Dutch Colonial building from 1933, still operates.

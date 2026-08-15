@@ -14,6 +14,10 @@ snippet: Catalan lake town between the Costa Brava and Pyrenees, known for rowin
   and karst-fed waters.
 title: Banyoles
 type: location
+heritage: 4.3
+vibrancy: 3.0
+nature: 6.6
+off_the_beaten_track: 2.6
 ---
 
 Banyoles is a small Catalan town best known for its lake — a large, spring-fed natural lake that hosted the rowing events of the 1992 Barcelona Olympics. The town sits on a wide plain midway between the Costa Brava and the Pyrenees, an hour's drive north of Barcelona.

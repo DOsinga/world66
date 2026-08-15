@@ -14,6 +14,10 @@ snippet: Western Australian capital on the Swan River, with ocean beaches, Kings
   and Fremantle close by.
 title: Perth
 type: location
+heritage: 4.4
+vibrancy: 5.7
+nature: 7.6
+off_the_beaten_track: 2.8
 ---
 
 Perth is the capital of Western Australia, it's situated along the banks of the Swan River. The river twists through the city and ends at the port of Fremantle where you can enjoy a coffee on the 'cappaccino' strip, or go down to the harbour to see the boats come in.

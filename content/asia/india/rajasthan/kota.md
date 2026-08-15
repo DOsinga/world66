@@ -14,6 +14,10 @@ snippet: Chambal River industrial city known for coaching schools, palace sights
   and nearby gharial waters.
 title: Kota
 type: location
+heritage: 7.1
+vibrancy: 5.2
+nature: 3.7
+off_the_beaten_track: 2.3
 ---
 
 Kota is an industrial city on the Chambal River, better known today as India's coaching capital -- hundreds of thousands of students come here each year to prepare for engineering and medical entrance exams. For travelers, it is mainly a transit point, but the City Palace and Jagmandir (a palace on an island in Kishore Sagar lake) are worth a stop if you are passing through.

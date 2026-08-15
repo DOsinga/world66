@@ -15,6 +15,10 @@ snippet: Wasatch railroad city with rough-edged 25th Street and quick access to 
   trails.
 title: Ogden
 type: location
+heritage: 2.7
+vibrancy: 3.4
+nature: 8.0
+off_the_beaten_track: 2.4
 ---
 
 Ogden sits where the Wasatch Mountains meet the Great Basin, a railroad town that grew up rough and never quite smoothed out all its edges. For decades it was the junction where transcontinental trains changed crews, and that history of movement and commerce still shapes the place. [Historic 25th Street](/northamerica/unitedstates/utah/ogden/historic_25th_street), once notorious for its saloons and gambling dens, is now lined with restaurants, brewpubs, and shops — but the old brick buildings still have character the suburbs cannot match.

@@ -16,6 +16,10 @@ image: yamba.jpg
 image_source: https://commons.wikimedia.org/wiki/File:A_female_surfer_in_Yamba,_New_South_Wales_paddling_out.jpg
 image_license: CC BY 2.0
 image_attribution: Mike van Dalen from Australia
+heritage: 2.5
+vibrancy: 4.2
+nature: 7.2
+off_the_beaten_track: 2.5
 ---
 
 Yamba sits where the Clarence River meets the Pacific, a small North Coast town with more salt air than polish. It has the beaches and cafes you expect from this stretch of New South Wales, but it is not just another resort strip: the river mouth, headland, old lighthouse and Angourie pools give it a clear shape and a good day's worth of wandering.

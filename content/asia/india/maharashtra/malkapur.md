@@ -10,6 +10,10 @@ snippet: Small Maharashtra rail town used as a base for Lonar Crater and its anc
   lakeside temples.
 title: Malkapur
 type: location
+heritage: 2.5
+vibrancy: 1.6
+nature: 3.4
+off_the_beaten_track: 3.2
 ---
 
 Malkapur is a small town in the Buldhana district of Maharashtra, on the Central Railway line between Bhusawal and Akola. The town itself is unremarkable, but it serves as the practical base for travellers heading to the [Lonar Crater](/asia/india/maharashtra/malkapur/lonar_crater) — one of only a handful of hypervelocity meteorite impact craters on Earth, and the only one formed in basalt rock. The crater is roughly 50,000 years old and contains a saline soda lake surrounded by 12th-century Hemadanti temples — the most striking is the [Daitya Sudan Temple](/asia/india/maharashtra/malkapur/daitya_sudan_temple) — and a surprising concentration of wildlife inside the [protected sanctuary](/asia/india/maharashtra/malkapur/lonar_wildlife_sanctuary): peafowl, monitor lizards, chinkaras and langurs.

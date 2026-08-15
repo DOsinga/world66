@@ -14,6 +14,10 @@ snippet: South Goa beach village on a sheltered crescent bay, quieter than the s
   northern resorts.
 title: Palolem
 type: location
+heritage: 5.1
+vibrancy: 7.0
+nature: 7.8
+off_the_beaten_track: 1.7
 ---
 
 [Palolem](/asia/india/goa/palolim/palolem_beach) is a crescent-shaped beach in south [Goa](/asia/india/goa), about 40 km from [Margao](/asia/india/goa/margao). It is widely considered one of Goa's best beaches — the sand is clean, the water is calm, and the crowd is a fraction of what you will find at the busier northern beaches.

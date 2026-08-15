@@ -13,6 +13,10 @@ snippet: Historic French city on a rocky promontory, prized for Romanesque churc
   and layered battlefield history.
 title: Poitiers
 type: location
+heritage: 7.3
+vibrancy: 3.8
+nature: 3.0
+off_the_beaten_track: 2.1
 ---
 
 Poitiers is one of the great historic cities of France, though it is surprisingly little visited. Set on a rocky promontory between two rivers in west-central France, it has been a crossroads since Roman times — Charles Martel turned back the Moorish advance here in 732, and the Black Prince captured the French king nearby in 1356.

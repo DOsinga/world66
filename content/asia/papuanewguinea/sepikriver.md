@@ -14,6 +14,10 @@ title: Sepik River
 type: location
 snippet: Papua New Guinean river region of rainforest villages, haus tambaran, and
   extraordinary woodcarving traditions.
+heritage: 3.5
+vibrancy: 0.7
+nature: 7.5
+off_the_beaten_track: 7.0
 ---
 
 Perhaps no region in [Papua New Guinea](/asia/papuanewguinea) is as beautiful and fascinating as the Sepik. The river itself — 1,126 kilometres of oily brown water meandering through dense lowland rainforest — is one of the great waterways of the Pacific, and the communities along its banks produce some of the most extraordinary art in the world. The spirit houses (haus tambaran) of the Middle Sepik villages are stunning, decorated with carved figures, painted masks, and intricate wood panels that hold deep spiritual significance.

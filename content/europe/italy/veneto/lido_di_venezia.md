@@ -3,9 +3,14 @@ latitude: 45.4094
 loc_type: feature
 longitude: 12.3646
 score: 7.5
-snippet: Venice's barrier island — wide sandy beaches, Liberty villas, and the world's oldest film festival
+snippet: Venice's barrier island — wide sandy beaches, Liberty villas, and the world's
+  oldest film festival
 title: Lido di Venezia
 type: location
+heritage: 4.3
+vibrancy: 5.2
+nature: 5.1
+off_the_beaten_track: 1.4
 ---
 
 The Lido is the long, narrow barrier island that separates the Venice lagoon from the Adriatic — eleven kilometres of sand, pine trees, and Liberty-style architecture, reachable in fifteen minutes by vaporetto from San Marco. It feels like a different world from Venice: wide streets where cars actually drive, garden hedges hiding elegant villas, and a proper sandy beach facing the open sea.

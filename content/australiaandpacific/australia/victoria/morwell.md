@@ -10,6 +10,10 @@ snippet: Latrobe Valley coal town in Gippsland, with koala habitat in nearby Mor
   National Park
 title: Morwell
 type: location
+heritage: 2.8
+vibrancy: 2.5
+nature: 4.6
+off_the_beaten_track: 2.4
 ---
 
 Morwell sits in the Latrobe Valley in Gippsland, the heart of Victoria's brown coal country. It is not a tourist destination in the conventional sense — the open-cut mines and power stations that dominate the valley are a stark reminder of industrial Australia — but the town has an unexpected natural asset on its doorstep.

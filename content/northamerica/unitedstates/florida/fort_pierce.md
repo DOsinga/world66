@@ -14,6 +14,10 @@ image: fort_pierce.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Fort_Pierce_Inlet_State_Park.jpg
 image_license: CC BY-SA 4.0
 image_attribution: JonathanPuello
+heritage: 2.1
+vibrancy: 2.3
+nature: 4.3
+off_the_beaten_track: 1.9
 ---
 
 *North America > United States > Florida > Fort Pierce*

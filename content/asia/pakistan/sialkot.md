@@ -7,6 +7,10 @@ longitude: 74.5229
 score: 5.53
 snippet: Punjab industrial city near the Indian border, known for footballs, surgical
   instruments, and Iqbal heritage.
+heritage: 3.0
+vibrancy: 2.0
+nature: 1.6
+off_the_beaten_track: 3.8
 ---
 
 Sialkot is a city in the Punjab province of northeastern Pakistan, about 125 km north of Lahore near the Indian border. It is one of Pakistan's most prosperous industrial cities, and its prosperity is built on a remarkable specialisation: Sialkot produces roughly half of the world's hand-stitched footballs, a large share of its surgical instruments, and much of its field hockey equipment. The factories and workshops are the main reason visitors come — the Sialkot Chamber of Commerce can arrange visits to local manufacturing units.

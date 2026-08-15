@@ -2,14 +2,19 @@
 title: Collie
 type: location
 loc_type: city
-latitude: -33.3630
-longitude: 116.1560
+latitude: -33.363
+longitude: 116.156
 score: 6.8
-snippet: Western Australian coal town remaking itself around dam murals, forest pools, and mining history.
+snippet: Western Australian coal town remaking itself around dam murals, forest pools,
+  and mining history.
 sources:
-  - https://en.wikivoyage.org/wiki/Collie
-  - https://en.wikipedia.org/wiki/Collie,_Western_Australia
-  - https://www.westernaustralia.com/us/attraction/collie-mural-trail/6200836798b7fbed7efebde2
+- https://en.wikivoyage.org/wiki/Collie
+- https://en.wikipedia.org/wiki/Collie,_Western_Australia
+- https://www.westernaustralia.com/us/attraction/collie-mural-trail/6200836798b7fbed7efebde2
+heritage: 3.0
+vibrancy: 1.9
+nature: 6.8
+off_the_beaten_track: 4.1
 ---
 
 Collie is an old coal town in the jarrah country east of [Bunbury](/australiaandpacific/australia/westernaustralia/bunbury), and it is more interesting than that description sounds. Mining still shapes the place, but the surrounding forest, river pools, reservoirs, and a bold mural trail give travelers several reasons to turn inland.

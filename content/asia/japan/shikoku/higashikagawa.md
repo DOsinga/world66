@@ -18,6 +18,10 @@ image: higashikagawa.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Hiketa_06s3200.jpg
 image_license: CC BY-SA 3.0
 image_attribution: 663highland
+heritage: 5.8
+vibrancy: 3.7
+nature: 4.9
+off_the_beaten_track: 3.2
 ---
 
 Higashikagawa sits at the eastern edge of Kagawa prefecture, where Shikoku narrows toward Tokushima and the Seto Inland Sea. It is not a shrine town like [Kotohira](/asia/japan/shikoku/kotohira) or a big-city base like [Takamatsu](/asia/japan/shikoku/takamatsu), but it has a clear local character: old port streets, glove workshops, puppet theatre, and a small zoo that families in Kagawa know well.

@@ -3,9 +3,14 @@ latitude: 59.6693
 loc_type: city
 longitude: 9.65149
 score: 7.8
-snippet: Former Norwegian silver-mining town with deep mine tours, baroque church, and mountain edges.
+snippet: Former Norwegian silver-mining town with deep mine tours, baroque church,
+  and mountain edges.
 title: Kongsberg
 type: location
+heritage: 5.4
+vibrancy: 4.6
+nature: 6.1
+off_the_beaten_track: 2.1
 ---
 
 Kongsberg was built on silver. The town was founded in 1624 after ore was found in the surrounding hills, and for a time it was one of the most important places in Norway. That mining past still gives Kongsberg its shape: a compact town centre, a monumental church, and mine tunnels running deep into the mountain west of town.

@@ -15,6 +15,10 @@ snippet: Tuscan hill town on the Via Francigena, famous for its surviving mediev
   towers.
 title: San Gimignano
 type: location
+heritage: 8.3
+vibrancy: 5.5
+nature: 3.4
+off_the_beaten_track: 1.9
 ---
 
 San Gimignano in Tuscany is famous for its towers. The city gained its promenance due to its location rising from the hills of the Upper Elsa Valley, facing the land of Volterra and positioned right on one of the most important stretches of the mediaeval Via Francigena, is famous all over the world. A similar renown can also be claimed by its Vernaccia wine, recently awarded the D.O.C.G., the highest acknowledgement and guarantee for quality in Italian oenology. 

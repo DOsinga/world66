@@ -18,6 +18,10 @@ sources:
 - https://whc.unesco.org/en/list/32
 title: Wieliczka
 type: location
+heritage: 7.7
+vibrancy: 3.5
+nature: 3.7
+off_the_beaten_track: 2.2
 ---
 
 Wieliczka is a small town just 14 kilometres southeast of [Kraków](/europe/poland/krakow), and its fame rests almost entirely on what lies beneath it: a vast, centuries-old salt mine that descends nine levels into the earth and stretches for over 300 kilometres of tunnels. The [Wieliczka Salt Mine](/europe/poland/wieliczka/wieliczka_salt_mine) is a UNESCO World Heritage Site and one of Poland's most visited attractions — and for good reason.

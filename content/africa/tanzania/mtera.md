@@ -14,6 +14,10 @@ snippet: Rural Tanzanian reservoir stop on the Ruaha River, known for quiet wetl
   and rich birdlife near Mtera Dam.
 title: Mtera
 type: location
+heritage: 1.5
+vibrancy: 2.0
+nature: 5.1
+off_the_beaten_track: 5.7
 ---
 
 Mtera is not a destination in itself so much as a reason to detour off the Iringa–Dodoma highway. The Mtera reservoir, created when a dam was built across the Ruaha River in 1981, flooded a small village and created one of Tanzania's best and least-visited birdwatching sites.

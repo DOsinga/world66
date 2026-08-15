@@ -10,6 +10,10 @@ snippet: Fezzan desert town and Sahara crossroads, anchored by Fort Elena and a 
   old souk.
 title: Sebha
 type: location
+heritage: 6.3
+vibrancy: 2.1
+nature: 5.9
+off_the_beaten_track: 10.0
 ---
 
 Sebha is the main town of the Fezzan, the vast desert region that makes up southwestern [Libya](/africa/libya). It serves as a base for exploring the Sahara and as a stopping point on the route between [Ghadhames](/africa/libya/ghadhames) and the south, towards [Chad](/africa/chad) and [Niger](/africa/niger).

@@ -6,12 +6,17 @@ latitude: -6.7167
 longitude: 111.35
 wikidata: Q2210615
 score: 6.4
-snippet: North-coast Java town tied to Kartini, teak-built Lasem heritage, and relaxed Java Sea beaches.
+snippet: North-coast Java town tied to Kartini, teak-built Lasem heritage, and relaxed
+  Java Sea beaches.
 sources:
-  - https://en.wikivoyage.org/wiki/Rembang
-  - https://www.indonesia.travel/us/en/destination/java/central-java/ra-kartini-rembang-museum/
-  - https://visitjawatengah.jatengprov.go.id/en/regency/kabupaten-rembang/destinations
-  - https://visitjawatengah.jatengprov.go.id/en/article/visiting-karang-jahe-beach-in-rembang
+- https://en.wikivoyage.org/wiki/Rembang
+- https://www.indonesia.travel/us/en/destination/java/central-java/ra-kartini-rembang-museum/
+- https://visitjawatengah.jatengprov.go.id/en/regency/kabupaten-rembang/destinations
+- https://visitjawatengah.jatengprov.go.id/en/article/visiting-karang-jahe-beach-in-rembang
+heritage: 3.2
+vibrancy: 2.6
+nature: 4.8
+off_the_beaten_track: 2.5
 ---
 
 Rembang is a working town on the north coast of Central Java, east of [Semarang](/asia/indonesia/java/semarang) and west of Tuban. It is not polished, but it has a useful place on a slow Pantura route: Kartini history in the town centre, Java Sea beaches just east of town, and Lasem's old Chinese-Javanese quarter close enough for the same day.

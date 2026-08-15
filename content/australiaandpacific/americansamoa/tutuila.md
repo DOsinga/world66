@@ -13,6 +13,10 @@ snippet: Main American Samoa island with Pago Pago's caldera harbour and rainfor
   protected by the national park.
 title: Tutuila
 type: location
+heritage: 5.2
+vibrancy: 0.9
+nature: 7.4
+off_the_beaten_track: 7.0
 ---
 
 Tutuila is the largest of American Samoa's seven islands and the main base for travelers. Nearly all flights arrive here, and Pago Pago — the capital — is on Tutuila's south coast, inside the deep [harbor](/australiaandpacific/americansamoa/tutuila/pago_pago_harbor) carved by a collapsed volcanic caldera.

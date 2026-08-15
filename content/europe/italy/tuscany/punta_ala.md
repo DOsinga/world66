@@ -13,6 +13,10 @@ snippet: Tuscan seaside resort on a pine-covered promontory, with a marina and l
   Tyrrhenian beaches.
 title: Punta Ala
 type: location
+heritage: 3.0
+vibrancy: 3.8
+nature: 6.3
+off_the_beaten_track: 1.9
 ---
 
 Punta Ala is one of Tuscany's most exclusive seaside resorts, a manicured promontory jutting into the Tyrrhenian Sea with views toward the Island of Elba. Unlike the crowded Versilia coast further north, Punta Ala feels contained and unhurried — a place of pine-shaded paths, a well-kept marina, and long sandy beaches backed by Mediterranean scrub.

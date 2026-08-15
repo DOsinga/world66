@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Barranquilla_Carnival
 title: Barranquilla
 type: location
+heritage: 5.7
+vibrancy: 5.5
+nature: 2.9
+off_the_beaten_track: 3.3
 ---
 
 Barranquilla is Colombia's fourth-largest city, a sprawling Caribbean port at the mouth of the Magdalena River. It lacks the colonial beauty of Cartagena or the mountain cool of Bogotá, but it has a raw, unpretentious energy and the country's greatest carnival — the Carnaval de Barranquilla, a UNESCO Masterpiece of the Oral and Intangible Heritage of Humanity, second only to Rio in scale and every bit as exuberant.

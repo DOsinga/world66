@@ -10,6 +10,10 @@ snippet: Upper Galilee border town on a northern ridge, with waterfall trails an
   views toward Mount Hermon.
 title: Metula
 type: location
+heritage: 4.3
+vibrancy: 3.5
+nature: 4.9
+off_the_beaten_track: 4.4
 ---
 
 Metula is Israel's northernmost town, a tiny settlement of around 2,000 people perched on a finger of land that juts into Lebanon. Founded in 1896 as one of the earliest Jewish agricultural colonies, the town sits at about 500 metres elevation with views north into the Litani River valley and east toward Mount Hermon.

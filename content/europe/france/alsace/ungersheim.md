@@ -14,6 +14,10 @@ image: ungersheim.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ungersheim,_Mairie.jpg
 image_license: Public domain
 image_attribution: Rauenstein
+heritage: 6.3
+vibrancy: 2.4
+nature: 3.7
+off_the_beaten_track: 2.1
 ---
 
 Ungersheim is a small village in the Alsace plain near Mulhouse, best known as the home of the Écomusée d'Alsace — one of the largest open-air museums in France. The museum has reconstructed over 70 authentic Alsatian buildings moved from their original locations across the region, including farmhouses, a forge, a schoolhouse, and a working stork sanctuary.

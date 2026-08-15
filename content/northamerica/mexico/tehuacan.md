@@ -14,6 +14,10 @@ title: Tehuacan
 snippet: Puebla valley city known for mineral water and the cactus-rich Tehuacán-Cuicatlán
   landscape.
 type: location
+heritage: 4.6
+vibrancy: 4.0
+nature: 5.5
+off_the_beaten_track: 4.6
 ---
 
 Tehuacan is a mid-sized city in the southeastern corner of Puebla state, sitting in a dry valley at around 1,700 metres. It is best known across Mexico for two things: the mineral water that bubbles up from the local springs — "agua de Tehuacan" is shorthand throughout the country for sparkling water — and the [Tehuacan-Cuicatlán Valley](/northamerica/mexico/tehuacan/tehuacan_cuicatlan_valley), a UNESCO World Heritage Site whose cactus-studded desert landscape stretches south into Oaxaca.

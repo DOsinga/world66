@@ -14,6 +14,10 @@ snippet: Former Ottoman capital near Turkey's European borders, dominated by Sin
   Selimiye Mosque
 title: Edirne
 type: location
+heritage: 7.7
+vibrancy: 4.4
+nature: 1.8
+off_the_beaten_track: 2.5
 ---
 
 Edirne sits in the far north-west of [Turkey](/asia/turkey), near the borders with Greece and Bulgaria. The ancient Hadrianopolis, founded by the Roman Emperor Hadrian in 125 AD, served as the capital of the Ottoman Empire from 1363 until the conquest of Constantinople in 1453. That century of imperial attention left behind some of the finest Ottoman architecture anywhere.

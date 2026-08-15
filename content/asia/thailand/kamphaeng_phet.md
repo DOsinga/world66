@@ -14,6 +14,10 @@ image: kamphaeng_phet.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kamphaeng_Phet_Historical_Park.jpg
 image_license: CC BY 4.0
 image_attribution: Chainfoto
+heritage: 5.2
+vibrancy: 2.7
+nature: 2.2
+off_the_beaten_track: 2.8
 ---
 
 Kamphaeng Phet is the Sukhothai-era city that most travellers miss. It sits on the Ping River in lower northern Thailand, midway between the better-known historic sites of [Sukhothai](/asia/thailand/sukhothai) and central Thailand, and its old name, Chakangrao, belonged to a fortified frontier town of the Sukhothai kingdom.

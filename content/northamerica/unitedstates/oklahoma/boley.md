@@ -13,6 +13,10 @@ snippet: Central Oklahoma town founded as an all-Black community, with a nationa
   significant historic district.
 title: Boley
 type: location
+heritage: 1.9
+vibrancy: 2.1
+nature: 1.9
+off_the_beaten_track: 1.4
 ---
 
 Located on Highway 62 in Okfuskee County in central Oklahoma, Boley is a town of about 1,100 people and one of the most significant towns in Black American history. Established on September 22, 1904, Boley is one of the few surviving towns originally founded as an all-Black community.

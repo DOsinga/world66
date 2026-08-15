@@ -14,6 +14,10 @@ snippet: Inland Campanian city with Samnite, Roman, and Lombard layers, includin
   the remarkably intact Arch of Trajan.
 title: Benevento
 type: location
+heritage: 7.1
+vibrancy: 3.9
+nature: 3.1
+off_the_beaten_track: 2.2
 ---
 
 Benevento is an inland city in northern Campania, about 55 km northeast of Naples. It is largely overlooked by tourists despite having one of the most significant collections of ancient remains in southern Italy. The city was an important Samnite town, later a major Roman city on the Appian Way, and the capital of a Lombard duchy in the early medieval period.

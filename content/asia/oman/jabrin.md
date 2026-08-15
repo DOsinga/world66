@@ -14,6 +14,10 @@ title: Jabrin
 type: location
 snippet: Small Omani oasis town known for its richly decorated 17th-century fort and
   surrounding date palms.
+heritage: 4.1
+vibrancy: 0.9
+nature: 6.9
+off_the_beaten_track: 5.8
 ---
 
 Jabrin is a small oasis town in the interior of Oman, about 45 kilometres southwest of Nizwa, best known for its 17th-century fort — one of the most impressive in the country. Built by Imam Bil'arab bin Sultan in the 1670s, [Jabrin Fort](jabrin/jabrin_fort) served as both a royal palace and a centre of Islamic learning. Unlike the more military forts at Nizwa and Bahla, Jabrin has elaborately painted ceilings, carved stucco, and rooms that feel like they were actually lived in. Entrance costs 0.5 Rial and on most days you can wander the chambers and rooftop largely on your own. The surrounding [date palm oasis](jabrin/jabrin_oasis) is irrigated by a UNESCO-listed falaj water system.

@@ -13,6 +13,10 @@ snippet: Southern Sri Lankan coastal city with Dutch forts, fish markets, and be
   toward Dondra Head.
 title: Matara
 type: location
+heritage: 4.4
+vibrancy: 3.6
+nature: 4.6
+off_the_beaten_track: 3.1
 ---
 
 Matara is a busy coastal city at the southern tip of Sri Lanka, where the old [Dutch fort](/asia/srilanka/matara/matara_fort) sits on a narrow headland between the sea and the Nilwala River. It is less polished than nearby [Galle](/asia/srilanka/galle) but has its own appeal — the fort area is atmospheric, the fish market is lively, and it serves as a practical base for exploring the deep south coast.

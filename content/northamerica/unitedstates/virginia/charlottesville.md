@@ -13,6 +13,10 @@ title: Charlottesville
 snippet: Blue Ridge foothills city defined by Thomas Jefferson, the University of
   Virginia, and Albemarle wine country.
 type: location
+heritage: 7.2
+vibrancy: 5.2
+nature: 4.1
+off_the_beaten_track: 1.5
 ---
 
 Charlottesville is a small city of about 50,000 in the foothills of the Blue Ridge Mountains in central Virginia. It is defined, in roughly equal parts, by Thomas Jefferson's legacy, the University of Virginia he founded, and the wine country that has developed across Albemarle County in the decades since. The Downtown Mall — a pedestrianised stretch of East Main Street lined with independent shops, restaurants, and bars — is one of the finest of its kind in the American South: long enough to wander, compact enough to know well after a day or two.

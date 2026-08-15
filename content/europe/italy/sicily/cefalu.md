@@ -12,6 +12,10 @@ snippet: Norman Sicilian beach town squeezed between golden sand, a mosaic-fille
   cathedral, and a sheer limestone rock.
 title: Cefalù
 type: location
+heritage: 8.1
+vibrancy: 6.0
+nature: 7.6
+off_the_beaten_track: 1.7
 ---
 
 Cefalù is a small Norman town on Sicily's north coast, squeezed between a vast golden-sand beach and a sheer limestone rock that drops almost vertically into the sea. It sits roughly halfway between Palermo and Messina — compact, walkable, and largely free of the heavy industry that scars other Sicilian port towns.

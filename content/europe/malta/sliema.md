@@ -14,6 +14,10 @@ snippet: Northeast Malta resort and shopping district with a long waterfront pro
   facing Valletta.
 title: Sliema
 type: location
+heritage: 3.6
+vibrancy: 5.7
+nature: 5.0
+off_the_beaten_track: 1.1
 ---
 
 Sliema is the main resort and shopping district on Malta's northeast coast, sitting on a promontory between [Valletta](/europe/malta/valletta) and [St Julian's](/europe/malta/stjulian). It is where many visitors base themselves — close to the capital's historic sights, within walking distance of St Julian's nightlife, and well served by buses to the rest of the island.

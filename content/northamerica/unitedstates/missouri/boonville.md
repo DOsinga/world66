@@ -10,6 +10,10 @@ snippet: Missouri River county seat with Santa Fe Trail roots and a preserved 19
   Main Street
 title: Boonville
 type: location
+heritage: 2.3
+vibrancy: 2.2
+nature: 3.2
+off_the_beaten_track: 1.6
 ---
 
 Boonville sits on the south bank of the Missouri River in the rolling hills of central [Missouri](/northamerica/unitedstates/missouri), a quiet county seat with deep roots in westward expansion and the Civil War. The town was named for Daniel Boone's sons and served as a jumping-off point for settlers heading to the Santa Fe Trail. In 1861 it saw one of the war's earliest skirmishes, when Union forces scattered the Missouri State Guard in what became known as the [Battle of Boonville](/northamerica/unitedstates/missouri/boonville/battle_of_boonville_site).

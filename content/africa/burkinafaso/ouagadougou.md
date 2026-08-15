@@ -24,6 +24,10 @@ tip: Everyone shortens Ouagadougou to 'Ouaga'. It punches above its weight cultu
   especially in the Harmattan season; drink far more water than you think you need.
 title: Ouagadougou
 type: location
+heritage: 2.5
+vibrancy: 5.7
+nature: 2.0
+off_the_beaten_track: 6.0
 ---
 
 Ouaga, as the capital of Burkina Faso is generally known, is the home of the Mossi, the largest ethnic group in the nation. Located in the centre of the country, the city has wide tree-lined boulevards and several interesting sights including the [Musée National](/africa/burkinafaso/ouagadougou/musee_national), the [Grand Marché](/africa/burkinafaso/ouagadougou/grand_marche) and the [Moro Naba Palace](/africa/burkinafaso/ouagadougou/moronabapalace).

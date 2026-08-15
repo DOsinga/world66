@@ -13,6 +13,10 @@ snippet: Sri Lankan gateway town to the Cultural Triangle, known for its mural-f
   cave temple
 title: Dambulla
 type: location
+heritage: 7.0
+vibrancy: 3.7
+nature: 4.5
+off_the_beaten_track: 2.3
 ---
 
 Dambulla sits at the gateway to Sri Lanka's Cultural Triangle, the cluster of ancient capitals and sacred sites in the island's dry-zone interior. The town itself is unremarkable, but the reason to stop here is on the massive granite outcrop that looms above it: the [Dambulla Cave Temple](/asia/srilanka/dambulla/dambulla_cave_temple), a UNESCO World Heritage Site containing five caves filled with Buddhist murals and more than 150 statues, including a 14-metre reclining Buddha carved from the rock. The paintings date back as far as the 1st century BC and are the most extensive and best-preserved cave temple art in Sri Lanka.

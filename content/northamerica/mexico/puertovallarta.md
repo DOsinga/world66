@@ -16,6 +16,10 @@ snippet: Pacific resort city in Jalisco, with cobblestone streets, colonial roof
   beaches, and a broad bay.
 title: Puerto Vallarta
 type: location
+heritage: 5.4
+vibrancy: 7.4
+nature: 6.9
+off_the_beaten_track: 1.5
 ---
 
 Puerto Vallarta is located in the western part of the state of Jalisco in central México, overlooking the Pacific Ocean. The second-most visited resort in all of México, Puerto Vallarta attracts over 2 million tourists per year. You will find great beaches, and lots of bars, pubs, and restaurants along the bay. Luxury hotels, all-inclusive resorts, golf courses, and upscale shops have opened at a rapid pace in recent years.

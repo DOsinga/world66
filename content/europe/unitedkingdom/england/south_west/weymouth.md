@@ -16,6 +16,10 @@ tags:
 - dorset
 title: Weymouth
 type: location
+heritage: 5.1
+vibrancy: 4.9
+nature: 5.2
+off_the_beaten_track: 3.2
 ---
 
 Weymouth is a seaside town on the Dorset coast with a sweeping Georgian esplanade, a working harbour, and easy access to the Jurassic Coast. King George III put it on the map when he came here to bathe in the 1780s, and the town has been drawing visitors ever since — though these days the crowd is more bucket-and-spade than royal.

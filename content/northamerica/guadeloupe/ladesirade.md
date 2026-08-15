@@ -10,6 +10,10 @@ snippet: Quiet Guadeloupe island with empty beaches, steep Atlantic cliffs, and 
   protected iguana reserve.
 title: La Désirade
 type: location
+heritage: 2.4
+vibrancy: 1.7
+nature: 7.2
+off_the_beaten_track: 5.9
 ---
 
 La Désirade is a small, quiet island about fifteen kilometres east of Grande-Terre, the easternmost point of Guadeloupe. It draws far fewer visitors than the main islands, which is precisely the appeal — empty beaches, unhurried villages, and a pace of life that the rest of the Caribbean lost decades ago.

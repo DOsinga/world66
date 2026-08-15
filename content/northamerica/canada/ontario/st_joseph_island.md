@@ -5,10 +5,15 @@ loc_type: feature
 latitude: 46.2197
 longitude: -83.9464
 score: 6.85
-snippet: Lake Huron island of maple farms, War of 1812 ruins, and quiet Algoma shore roads.
+snippet: Lake Huron island of maple farms, War of 1812 ruins, and quiet Algoma shore
+  roads.
 sources:
-  - https://en.wikivoyage.org/wiki/St._Joseph_Island
-  - https://en.wikipedia.org/wiki/St._Joseph_Island_(Ontario)
+- https://en.wikivoyage.org/wiki/St._Joseph_Island
+- https://en.wikipedia.org/wiki/St._Joseph_Island_(Ontario)
+heritage: 2.8
+vibrancy: 1.3
+nature: 5.7
+off_the_beaten_track: 4.6
 ---
 
 St. Joseph Island sits in the north channel of Lake Huron, southeast of Sault Ste. Marie, with a bridge to the mainland but a mood that still feels insular. It is cottage country, farm country, and maple syrup country: quiet roads loop through hardwoods, shoreline villages, and old family farms.

@@ -10,6 +10,10 @@ snippet: Northeast Chinese industrial metropolis with Qing imperial roots and a 
   older than Beijing’s rule.
 title: Shenyang
 type: location
+heritage: 4.2
+vibrancy: 4.9
+nature: 3.0
+off_the_beaten_track: 1.4
 ---
 
 Shenyang is the largest city in northeast China — a sprawling industrial metropolis that most travelers skip on the way to Beijing or Harbin. That's a mistake. Beneath the Soviet-era blocks and factory districts lies a city with an unexpected historical weight: this was the capital of the Qing dynasty before Beijing, and it still carries two UNESCO World Heritage Sites to prove it.

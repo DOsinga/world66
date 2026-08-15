@@ -9,6 +9,10 @@ snippet: Mountain town below the Beartooths, serving as the eastern Yellowstone 
   via the Beartooth Highway.
 title: Red Lodge
 type: location
+heritage: 4.1
+vibrancy: 2.9
+nature: 6.2
+off_the_beaten_track: 5.2
 ---
 
 Red Lodge is a small mountain town at the base of the Beartooth Mountains in south-central Montana, sitting at 1,700m elevation with a well-preserved main street of brick storefronts. It is the eastern gateway to Yellowstone via the Beartooth Highway — US 212 — which climbs over the 3,350m Beartooth Pass. President Franklin Roosevelt called it "the most beautiful drive in America," and the claim is hard to dispute: the road switchbacks above the treeline onto a high plateau of tundra, glacial lakes, and granite pinnacles before dropping down into Cooke City and the Yellowstone backcountry.

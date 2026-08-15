@@ -14,6 +14,10 @@ snippet: Northern Nevada ranching and mining town on Interstate 80, distinguishe
   by its Basque community.
 title: Winnemucca
 type: location
+heritage: 2.3
+vibrancy: 2.2
+nature: 4.0
+off_the_beaten_track: 4.1
 ---
 
 Winnemucca is a small ranching and mining town on Interstate 80 in northern Nevada, roughly halfway between Reno and Elko. It is the kind of place most people pass through on a long desert drive, but it has more character than the average highway stop.

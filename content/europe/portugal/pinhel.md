@@ -18,6 +18,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Pinhel.JPG
 image_license: CC BY 2.5
 image_attribution: No machine-readable author provided. Vitor107~commonswiki assumed
   (based on copyright claims).
+heritage: 4.9
+vibrancy: 3.2
+nature: 4.3
+off_the_beaten_track: 2.9
 ---
 
 Pinhel is a small hill town in Portugal's Beira Interior, close to the Coa valley and the Spanish borderlands. It calls itself Cidade Falcao, the Falcon City, and the name fits: the castle towers over the historic centre, and the town has leaned into its falcon symbol with a new falconry centre beside the walls.

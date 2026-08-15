@@ -5,11 +5,16 @@ loc_type: feature
 latitude: 34.9897
 longitude: 126.4714
 score: 6.6
-snippet: Southwest Korean county of tidal flats, lotus ponds, octopus festivals, and low coastal hills.
+snippet: Southwest Korean county of tidal flats, lotus ponds, octopus festivals, and
+  low coastal hills.
 sources:
-  - https://en.wikivoyage.org/wiki/Muan
-  - https://en.wikipedia.org/wiki/Muan_County
-  - https://en.wikipedia.org/wiki/Muan_Tideland
+- https://en.wikivoyage.org/wiki/Muan
+- https://en.wikipedia.org/wiki/Muan_County
+- https://en.wikipedia.org/wiki/Muan_Tideland
+heritage: 2.0
+vibrancy: 2.0
+nature: 4.9
+off_the_beaten_track: 2.9
 ---
 
 Muan is a low, spread-out county on South Korea's southwest coast, more rural than urban and more about landscape than monuments. It sits between Mokpo, Sinan's islands, and the inland Jeolla plain, with mudflats, lotus ponds, onion fields, and small markets giving it a quiet regional identity.

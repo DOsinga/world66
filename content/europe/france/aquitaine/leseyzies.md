@@ -13,6 +13,10 @@ snippet: Dordogne village in the Vézère valley, surrounded by caves and rock s
   of prehistoric Europe.
 title: Les Eyzies
 type: location
+heritage: 7.9
+vibrancy: 4.5
+nature: 5.6
+off_the_beaten_track: 2.5
 ---
 
 Les Eyzies-de-Tayac is the self-proclaimed "capital of prehistory," and the claim is justified. This small village in the Vezere valley of the [Dordogne](/europe/france/aquitaine) sits at the centre of one of the densest concentrations of prehistoric sites in the world. The limestone cliffs that line the valley are riddled with caves and rock shelters that have been occupied by humans for over 250,000 years.

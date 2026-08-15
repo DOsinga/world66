@@ -16,6 +16,10 @@ title: Kansas City
 type: location
 snippet: Missouri River city known for barbecue, jazz heritage, fountains, and art
   deco architecture.
+heritage: 6.3
+vibrancy: 6.1
+nature: 3.4
+off_the_beaten_track: 1.7
 ---
 
 Kansas City sits on the Missouri River at the point where [Missouri](/northamerica/unitedstates/missouri) and [Kansas](/northamerica/unitedstates/kansas) meet, though the Missouri side has long been the cultural heart of the metro area. It is a city that does several things extraordinarily well: barbecue, jazz, fountains, and art deco architecture. None of these is a minor footnote — Kansas City takes them seriously, and so should you.

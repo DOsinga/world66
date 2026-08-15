@@ -16,6 +16,10 @@ image: sete_lagoas.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cana%C3%A3,_Sete_Lagoas_-_MG,_Brazil_-_panoramio_(2).jpg
 image_license: CC BY-SA 3.0
 image_attribution: wanderley santos vieira
+heritage: 2.4
+vibrancy: 4.1
+nature: 4.9
+off_the_beaten_track: 2.1
 ---
 
 Sete Lagoas is a workaday Minas Gerais city about an hour north of [Belo Horizonte](/southamerica/brazil/belohorizonte), but it has more to offer than the industrial outskirts suggest. Its name means "seven lagoons", and the central lakes still give the city its easiest rhythm: evening walks, bars around the water, and families gathering on the shore after the heat drops.

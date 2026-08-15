@@ -5,12 +5,17 @@ loc_type: city
 latitude: -21.9772
 longitude: -44.9328
 score: 6.8
-snippet: Southern Minas Gerais spa town centred on mineral springs, old parkland, and hill views.
+snippet: Southern Minas Gerais spa town centred on mineral springs, old parkland,
+  and hill views.
 sources:
-  - https://en.wikivoyage.org/wiki/Caxambu
-  - https://en.wikivoyage.org/wiki/Southern_Minas_Gerais
-  - https://www.turismo.caxambu.mg.gov.br/pagina/12/morro-caxambu
-  - https://www.turismo.caxambu.mg.gov.br/pagina/19/igreja-santa-isabel-da-hungria
+- https://en.wikivoyage.org/wiki/Caxambu
+- https://en.wikivoyage.org/wiki/Southern_Minas_Gerais
+- https://www.turismo.caxambu.mg.gov.br/pagina/12/morro-caxambu
+- https://www.turismo.caxambu.mg.gov.br/pagina/19/igreja-santa-isabel-da-hungria
+heritage: 4.2
+vibrancy: 3.1
+nature: 5.0
+off_the_beaten_track: 2.0
 ---
 
 Caxambu is one of the old hydromineral spa towns of southern Minas Gerais, in the same water-circuit tradition as [São Lourenço](/southamerica/brazil/sao_lourenco). Its rhythm is gentle: people come to walk under trees, taste mineral waters, ride the chairlift, and enjoy a mountain-town pace that belongs more to health resorts than to beach Brazil.

@@ -3,14 +3,19 @@ latitude: 14.0167
 loc_type: city
 longitude: -16.7667
 score: 7.0
-snippet: Sereer village string between Atlantic beach and Saloum Delta mangroves, salt pools, and birdlife.
+snippet: Sereer village string between Atlantic beach and Saloum Delta mangroves,
+  salt pools, and birdlife.
 sources:
-  - https://en.wikivoyage.org/wiki/Palmarin
-  - https://www.damcp.gouv.sn/content/r%C3%A9serve-naturelle-communautaire-de-palmarin
-  - https://www.equatorinitiative.org/2017/06/27/reserve-naturelle-communautaire-de-palmarin/
+- https://en.wikivoyage.org/wiki/Palmarin
+- https://www.damcp.gouv.sn/content/r%C3%A9serve-naturelle-communautaire-de-palmarin
+- https://www.equatorinitiative.org/2017/06/27/reserve-naturelle-communautaire-de-palmarin/
 title: Palmarin
 type: location
 wikidata: Q3361563
+heritage: 2.2
+vibrancy: 1.3
+nature: 7.7
+off_the_beaten_track: 6.2
 ---
 
 Palmarin is a quiet run of Sereer villages stretched along a narrow peninsula between the Atlantic and the Sine-Saloum Delta. It is not a resort strip in the Saly sense. The reward here is the mix of beach, mangrove, salt pans, shell mounds, fishing villages, and slow village life.

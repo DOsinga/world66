@@ -15,6 +15,10 @@ tags:
 - exmoor
 title: Watchet
 type: location
+heritage: 5.4
+vibrancy: 3.7
+nature: 5.3
+off_the_beaten_track: 2.7
 ---
 
 Watchet is a small harbour town on the Somerset coast at the eastern edge of Exmoor. Its ancient [harbour](/europe/unitedkingdom/england/south_west/watchet/harbour), now supplemented by a modern marina, has been in use since Saxon times. The town is said to be where Samuel Taylor Coleridge was inspired to write "The Rime of the Ancient Mariner" — a [statue of the mariner](/europe/unitedkingdom/england/south_west/watchet/ancient_mariner_statue) stands on the esplanade.

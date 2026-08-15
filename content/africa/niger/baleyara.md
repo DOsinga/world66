@@ -10,6 +10,10 @@ snippet: Western Niger market town where Djerma, Hausa, and Bella Tuareg communi
   meet on a busy crossroads
 title: Baleyara
 type: location
+heritage: 0.8
+vibrancy: 1.2
+nature: 1.4
+off_the_beaten_track: 7.3
 ---
 
 Baleyara is a market town in western Niger, north of Niamey along the road to Filingué. The town sits in the transition zone between the Djerma-speaking south and the Hausa-speaking areas to the north, and the surrounding bush country holds many villages of [Bella Tuareg](/africa/niger/baleyara/bella_tuareg_villages) — former slaves of the Tuareg who formed their own communities after emancipation.

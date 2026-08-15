@@ -13,6 +13,10 @@ title: Tokushima
 snippet: Shikoku city on the northeast coast, best known for the August Awa Odori
   dance festival.
 type: location
+heritage: 5.8
+vibrancy: 5.4
+nature: 5.9
+off_the_beaten_track: 3.9
 ---
 
 The first major city beyond the Akashi Kaikyo-Ohashi bridge, Tokushima is a small but modern city on the northeast coast of Shikoku. It is best known for the **Awa-Odori** festival, held during the Obon period in mid-August and sometimes called Japan's Mardi Gras. For three days the city's population explodes — during the day it is quiet, but once dusk comes, thousands of people pour into the streets to drink, dance, and watch the dancing groups called *ren*. Hotel rooms are impossible to find during the festival, so book well in advance.

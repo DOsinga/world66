@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Gorakhpur_Junction_railway_station
 title: Gorakhpur
 type: location
+heritage: 3.0
+vibrancy: 2.3
+nature: 2.2
+off_the_beaten_track: 3.2
 ---
 
 Gorakhpur is an important railway junction in eastern Uttar Pradesh, close to the Nepal border. Most travellers pass through on their way to the border crossing at Sunauli, but the city has more to offer than its transit reputation suggests.

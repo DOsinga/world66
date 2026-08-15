@@ -13,6 +13,10 @@ snippet: Medieval Georgian monastery near Kutaisi, founded by David the Builder 
   both monastery and academy.
 title: Gelati Monastery
 type: location
+heritage: 6.9
+vibrancy: 2.6
+nature: 5.5
+off_the_beaten_track: 4.9
 ---
 
 The Gelati Monastery sits in the forested hills about 10 kilometres northeast of [Kutaisi](/europe/georgia/kutaisi), and is one of the most important medieval sites in Georgia. It was founded in 1106 by King David IV (David the Builder) and served not just as a monastery but as an academy — a centre of learning intended to rival Constantinople, where Georgian theologians, philosophers, and scientists gathered to teach.

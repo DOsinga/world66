@@ -15,6 +15,10 @@ tags:
 - yorkshire_dales
 title: Malhamdale
 type: location
+heritage: 4.6
+vibrancy: 1.5
+nature: 7.5
+off_the_beaten_track: 4.9
 ---
 
 Malham itself is a delightful hamlet when it's allowed to be — which is to say, when it's not bursting at the seams with visitors. It has no church of its own; would-be worshippers and sightseers have to go to nearby Kirkby Malham. There is a National Park information centre and car park, and meals can be had at the Buck Inn or at a local café.

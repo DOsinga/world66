@@ -13,6 +13,10 @@ snippet: West Sardinian provincial town with a medieval Arborean centre and the 
   horse festival Sa Sartiglia.
 title: Oristano
 type: location
+heritage: 5.0
+vibrancy: 5.3
+nature: 5.6
+off_the_beaten_track: 3.1
 ---
 
 Oristano sits on the flat Campidano plain facing the Gulf of Oristano on Sardinia's west coast. It's a provincial town with a relaxed pace and an impressive medieval centre — less touristy than [Cagliari](/europe/italy/sardinia/cagliari) or [Alghero](/europe/italy/sardinia/alghero) and none the worse for it.

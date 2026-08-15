@@ -11,7 +11,7 @@ sources:
   - https://newlanark.org/
 ---
 
-Lanark is a modest market town in the upper Clyde Valley, and by itself it would be easy to pass over. Its strength is what lies just below and around it: [New Lanark](/europe/unitedkingdom/scotland/lanark/new_lanark), a preserved 18th-century mill village and UNESCO World Heritage Site, and the [Falls of Clyde](/europe/unitedkingdom/scotland/lanark/falls_of_clyde), where the river drops through wooded ravines.
+Lanark is a modest market town in the upper Clyde Valley, and by itself it would be easy to pass over. Its strength is what lies just below and around it: [New Lanark](/europe/unitedkingdom/scotland/new_lanark), a preserved 18th-century mill village and UNESCO World Heritage Site, and the [Falls of Clyde](/europe/unitedkingdom/scotland/new_lanark/falls_of_clyde), where the river drops through wooded ravines.
 
 That combination makes Lanark a real day from [Glasgow](/europe/unitedkingdom/scotland/glasgow) rather than just another commuter town. Start with the mill village, walk up beside the Clyde to the falls, and leave time for the smaller town sights: the old churchyard, Castlebank Park, the odd rooftop dog on Castlegate, and Thomas Telford's high bridge over Mouse Water.
 

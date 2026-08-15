@@ -1,4 +1,5 @@
 import json
+import random
 import re
 import sqlite3
 import subprocess
@@ -159,6 +160,27 @@ def home(request, source_ref=None, url_revision=""):
     ]
     city_cards = _globe_city_data(source_ref, url_revision)
     cities_json = json.dumps(city_cards)
+
+    # Homepage magazine: a sitewide "discover" sample, reusing the imaged
+    # cities already gathered for the globe. Capped before re-loading pages
+    # for a real (uncropped) teaser, so this stays cheap.
+    _magazine_source = [c for c in city_cards if c.get('image')]
+    random.shuffle(_magazine_source)
+    _magazine_source = _magazine_source[:60]
+    magazine_cards = []
+    for c in _magazine_source:
+        mpage = (
+            load_page_from_revision(c['path'], source_ref, url_revision=url_revision)
+            if source_ref else load_page(c['path'])
+        )
+        teaser, teaser_from_body = _magazine_teaser(mpage, full=True) if mpage else (c['snippet'], False)
+        breadcrumbs = [{'title': t, 'url': f'/{p}'} for t, p in mpage.breadcrumbs()[:-1]] if mpage else []
+        magazine_cards.append({
+            'path': c['path'], 'url': c['url'], 'title': c['title'], 'image_url': c['image'],
+            'teaser': teaser, 'teaser_from_body': teaser_from_body, 'breadcrumbs': breadcrumbs,
+        })
+    magazine_available = len(magazine_cards) >= 5
+
     globe_autoplay_embed_url = request.build_absolute_uri("/widgets/globe-explore?mode=autoplay")
     globe_explore_embed_url = request.build_absolute_uri("/widgets/globe-explore?mode=explore")
     photo_map_embed_url = request.build_absolute_uri("/widgets/photo-map")
@@ -168,6 +190,8 @@ def home(request, source_ref=None, url_revision=""):
         'cities_json': cities_json,
         'featured_city_count': f"{len(city_cards):,}",
         'search_page_count': f"{count_content_pages():,}",
+        'magazine_cards': magazine_cards,
+        'magazine_available': magazine_available,
         'url_prefix': url_prefix,
         'globe_autoplay_embed_url': globe_autoplay_embed_url,
         'globe_explore_embed_url': globe_explore_embed_url,
@@ -441,6 +465,34 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     top_locations = locations[:_top_n]
     more_locations = sorted(locations[_top_n:], key=lambda loc: loc.title)
 
+    # Magazine view: a full-screen, image-led browsing mode (see
+    # static/js/magazine-view.js), toggled from the persistent top nav. If
+    # this page has no qualifying pool of its own (POIs, sections, small
+    # locations), fall back to the nearest ancestor location that does, so
+    # the nav toggle doesn't just disappear while browsing.
+    magazine_cards, magazine_available = _magazine_cards_for(page, source_ref, neighbourhoods, locations)
+    if not magazine_available:
+        ancestor_path = page.path
+        while not magazine_available and "/" in ancestor_path:
+            ancestor_path = ancestor_path.rsplit("/", 1)[0]
+            ancestor = (
+                load_page_from_revision(ancestor_path, source_ref, url_revision=url_revision)
+                if source_ref else load_page(ancestor_path)
+            )
+            if ancestor and ancestor.page_type == "location":
+                magazine_cards, magazine_available = _magazine_cards_for(ancestor, source_ref)
+
+    # Wherever the deck of cards actually came from, open the overlay
+    # already scrolled to whichever card represents where the reader
+    # currently is — a POI/section's own city, or the page itself when
+    # it's a location — rather than landing on an unrelated spread.
+    if page.page_type == "location":
+        magazine_current_path = page.path
+    elif parent and parent.page_type == "location":
+        magazine_current_path = parent.path
+    else:
+        magazine_current_path = None
+
     # For feature pages: cities/locations that tag into this feature via tags: [feature_slug]
     linked_locations = []
     more_linked_locations = []
@@ -528,6 +580,9 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "top_locations": top_locations,
         "more_locations": more_locations,
         "neighbourhood_items": neighbourhoods,
+        "magazine_cards": magazine_cards,
+        "magazine_available": magazine_available,
+        "magazine_current_path": magazine_current_path,
         "pois": pois,
         "parent_sections": parent_nav,   # sibling nav pages (section/poi sidebar)
         "parent_locations": parent_locations,
@@ -626,6 +681,60 @@ def tag_index(request, tag):
 _SIGHT_SLUGS = {"sights", "museums", "attractions", "landmarks", "things_to_do"}
 _META_SLUGS   = {"neighbourhood"}   # organisational tags, not POI categories
 
+# A "few restaurants, maybe a bar" — guaranteed flavour slots for the
+# magazine's "Top things to do" grid (see _select_magazine_pois), keyed by
+# the section/category tags LOCATIONS.md defines for eating & drinking.
+_MAGAZINE_FLAVOR_QUOTAS = (
+    ({"eating_out", "restaurant"}, "Restaurant", 2),
+    ({"bars_and_cafes", "bar"}, "Bar", 1),
+    ({"shopping"}, "Shopping", 1),
+)
+
+
+def _magazine_poi_category(page):
+    """A short, human category label for a magazine POI tile."""
+    if page.category:
+        return page.category
+    tags = set(page.tags)
+    for wanted_tags, label, _ in _MAGAZINE_FLAVOR_QUOTAS:
+        if tags & wanted_tags:
+            return label
+    return "Sight"
+
+
+def _select_magazine_pois(pois, small_threshold=12, curated_limit=9):
+    """Pick a magazine-worthy spread of POIs from an already score-sorted list.
+
+    A destination with few POIs to begin with just gets all of them — the
+    complete package a smaller place deserves on one page. Otherwise, the
+    single best pick leads as the "cover story", followed by a guaranteed
+    taste of food/drink/shopping (even if raw score wouldn't otherwise
+    surface any) so the spread reads as a curated mix, not one flat ranking
+    dominated by whichever category happens to score highest.
+    """
+    if len(pois) <= small_threshold:
+        return list(pois)
+
+    selected = [pois[0]]
+    seen = {pois[0].path}
+    for wanted_tags, _, quota in _MAGAZINE_FLAVOR_QUOTAS:
+        added = 0
+        for p in pois:
+            if added >= quota:
+                break
+            if p.path in seen or not (set(p.tags) & wanted_tags):
+                continue
+            selected.append(p)
+            seen.add(p.path)
+            added += 1
+    for p in pois:
+        if len(selected) >= curated_limit:
+            break
+        if p.path not in seen:
+            selected.append(p)
+            seen.add(p.path)
+    return selected[:curated_limit]
+
 
 def _marker_from_page_rich(page, highlight=False):
     """Extended marker that includes path, tags, and image_url for the explore map."""
@@ -700,7 +809,8 @@ def _explore_markers(page):
 
 
 def api_page_content(request, path):
-    """Return rendered body HTML and image for a page — used by the explore drawer."""
+    """Return rendered body HTML, top POIs, and map data for a page — used by
+    the explore drawer and the magazine article view."""
     path = path.strip("/")
     page = load_page(path)
     if not page:
@@ -721,6 +831,96 @@ def api_page_content(request, path):
         data["image_source"] = page.meta.get("image_source", "")
         data["image_license"] = page.meta.get("image_license", "")
         data["image_attribution"] = page.meta.get("image_attribution", "")
+
+    lat = _safe_float(page.meta.get("latitude"))
+    lng = _safe_float(page.meta.get("longitude"))
+    if lat is not None and lng is not None:
+        data["lat"] = lat
+        data["lng"] = lng
+
+    # Country locator: the first two path segments are always
+    # continent/country (true for a direct city, a region-drilled-down
+    # city, or a neighbourhood alike). Skip it when the page itself is
+    # at country depth or shallower — there's no meaningful "country" to
+    # locate it within.
+    path_parts = page.path.split("/")
+    if len(path_parts) > 2:
+        country_page = load_page("/".join(path_parts[:2]))
+        if country_page:
+            c_lat = _safe_float(country_page.meta.get("latitude"))
+            c_lng = _safe_float(country_page.meta.get("longitude"))
+            if c_lat is not None and c_lng is not None:
+                data["country"] = {"name": country_page.title, "lat": c_lat, "lng": c_lng}
+
+    # Top POIs: nav pages (sections/neighbourhoods) collect by tag; a
+    # location page's own children() already returns its flat POI files
+    # sorted by score (POIs live flat in the city/feature directory).
+    nav_pages, child_locations, pois = page.children()
+    if page.page_type == "section_group":
+        pois = []
+    elif page.page_type in NAV_TYPES:
+        pois = sorted(page.tagged_pois(), key=lambda p: float(p.meta.get("score", 0) or 0), reverse=True)
+
+    # A city with a real neighbourhood structure (>=3 imaged districts —
+    # the same gate the magazine's cover deck uses to decide this) behaves
+    # like a continent/country page does with its cities: it recommends
+    # those places first, even when the city also has POIs directly under
+    # it. Drilling into neighbourhoods is the better browse — a flat POI
+    # list would skip past the city's actual shape.
+    neighbourhoods = [
+        p for p in nav_pages
+        if p.page_type == "neighbourhood" and not p.meta.get("hide_from_city") and _image_path(p)
+    ]
+
+    top_pois = []
+    recommend_source = recommend_heading = None
+    if len(neighbourhoods) >= 3:
+        recommend_source, recommend_heading = neighbourhoods, "Explore the neighbourhoods"
+    else:
+        for p in _select_magazine_pois(pois):
+            m = _marker_from_page_rich(p)
+            if not m:
+                continue
+            # Many POIs have no snippet field; fall back to a short excerpt
+            # of the body itself rather than leaving the list blank.
+            if not m.get("snippet"):
+                m["snippet"] = _magazine_teaser(p, limit=110)[0]
+            m["category"] = _magazine_poi_category(p)
+            top_pois.append(m)
+        if not top_pois and child_locations:
+            # A continent/country/region page has no POIs of its own —
+            # recommend the real destinations underneath it instead.
+            recommend_source, recommend_heading = child_locations, "Recommended cities"
+
+    if top_pois:
+        data["pois"] = top_pois
+    elif recommend_source:
+        # Both neighbourhoods and child locations have actual photography
+        # (unlike POIs), so they render as image-led cards, not
+        # typography-only tiles.
+        cities = []
+        for loc in sorted(recommend_source, key=lambda l: float(l.meta.get("score", 0) or 0), reverse=True):
+            img = _image_path(loc)
+            if not img:
+                continue
+            teaser, _ = _magazine_teaser(loc, limit=140)
+            c_lat = _safe_float(loc.meta.get("latitude"))
+            c_lng = _safe_float(loc.meta.get("longitude"))
+            cities.append({
+                "name": loc.title,
+                "url": loc.get_absolute_url(),
+                "path": loc.path,
+                "image_url": f"/content-image/{img}",
+                "snippet": teaser,
+                "lat": c_lat,
+                "lng": c_lng,
+            })
+            if len(cities) >= 9:
+                break
+        if cities:
+            data["cities"] = cities
+            data["cities_heading"] = recommend_heading
+
     return JsonResponse(data)
 
 
@@ -908,6 +1108,95 @@ def _image_path(page, source_ref=None):
         elif (CONTENT_DIR / candidate).is_file():
             return candidate
     return None
+
+
+MD_INLINE_STRIP_RE = re.compile(r'\[([^\]]*)\]\([^)]*\)|[*_`#]')
+
+
+def _magazine_teaser(page, limit=220, full=False):
+    """An editorial hook for magazine-view cards, and whether it's the
+    article's own opening words (as opposed to unrelated teaser/snippet text).
+
+    Prefers a hand-written `magazine_teaser`, then the first paragraph of the
+    page body (markdown syntax stripped), then the plain `snippet`. With
+    `full=True` the body-derived case is returned whole rather than
+    character-truncated — callers that continue straight into the real
+    article (the magazine cover) need the true, complete opening paragraph,
+    cropped only visually by CSS, so scrolling into the article continues it
+    rather than repeating a truncated echo of it. Returns (text, from_body).
+    """
+    teaser = page.meta.get('magazine_teaser')
+    if teaser:
+        return teaser.strip(), False
+
+    first_para = next((p.strip() for p in page.body.split('\n\n') if p.strip()), '') if page.body else ''
+    if first_para:
+        first_para = MD_INLINE_STRIP_RE.sub(lambda m: m.group(1) if m.group(1) is not None else '', first_para)
+        first_para = ' '.join(first_para.split())
+        if not full and len(first_para) > limit:
+            first_para = first_para[:limit].rsplit(' ', 1)[0] + '…'
+        return first_para, True
+
+    return page.meta.get('snippet', '') or '', False
+
+
+def _magazine_cards_for(page, source_ref, neighbourhoods=None, locations=None):
+    """Build shuffled magazine cards + availability for `page`.
+
+    Neighbourhoods (already gated to >=3 with real images) take priority on
+    city pages; otherwise fall back to locations with a real (non-word-cloud)
+    image — a magazine needs actual photography. Pass already-computed
+    `neighbourhoods`/`locations` (with `.image_url` attached) to reuse work
+    the caller already did for the current page; omit them to compute fresh
+    for an ancestor consulted only as a magazine-view fallback.
+    """
+    if neighbourhoods is None and locations is None:
+        nav_pages, locations, _ = page.children()
+        neighbourhoods = [
+            p for p in nav_pages
+            if p.page_type == "neighbourhood" and not p.meta.get("hide_from_city")
+        ]
+        for nb in neighbourhoods:
+            nb_img = _image_path(nb, source_ref)
+            nb.image_url = f'{nb.url_prefix}/content-image/{nb_img}' if nb_img else None
+        if sum(1 for nb in neighbourhoods if nb.image_url) < 3:
+            neighbourhoods = []
+        for loc in locations:
+            loc_img = _image_path(loc, source_ref)
+            loc.image_url = f'{loc.url_prefix}/content-image/{loc_img}' if loc_img else None
+
+    _pool = neighbourhoods or [loc for loc in locations if loc.image_url]
+    if not neighbourhoods:
+        # Countries big enough to use a region layer (LOCATIONS.md) would
+        # otherwise only ever surface region pages ("California") instead of
+        # the actual cities/features inside them ("San Francisco", "Yosemite")
+        # — drill one level deeper into any region so the magazine has real,
+        # specific destinations to show, not just administrative buckets.
+        for loc in locations:
+            if loc.meta.get('loc_type') != 'region':
+                continue
+            _, region_children, _ = loc.children()
+            for child in region_children:
+                child_img = _image_path(child, source_ref)
+                child.image_url = f'{child.url_prefix}/content-image/{child_img}' if child_img else None
+                if child.image_url:
+                    _pool.append(child)
+
+    cards = []
+    for item in _pool:
+        teaser, teaser_from_body = _magazine_teaser(item, full=True)
+        cards.append({
+            'path': item.path,
+            'url': item.get_absolute_url(),
+            'title': item.title,
+            'image_url': item.image_url,
+            'teaser': teaser,
+            'teaser_from_body': teaser_from_body,
+            'breadcrumbs': [{'title': t, 'url': f'/{p}'} for t, p in item.breadcrumbs()[:-1]],
+        })
+    random.shuffle(cards)
+    cards = cards[:60]  # keep the DOM sane on big countries; a fresh sample each load
+    return cards, len(cards) >= 5
 
 
 def content_image(request, path):

@@ -14,6 +14,8 @@ heritage: 1.8
 vibrancy: 1.6
 nature: 3.0
 off_the_beaten_track: 8.1
+profile_verdict: 'Lasanod''s real draw is remoteness: this contested town on the Somaliland-Puntland
+  border has seen serious clashes in recent years, and travel here requires real caution.'
 ---
 
 Lasanod (Laascaanood) — the name means "the milky stream" — is the capital of the Sool region in eastern [Somaliland](/africa/somaliland). The town sits in the Nugal Valley between two low mountain ranges, at the crossroads of some of the Horn of Africa's best grazing land. The town is in a territory long contested between Somaliland and Puntland. In early 2023 it was the site of serious fighting when Somaliland forces clashed with local clan militias that had declared allegiance to the Somali federal government.

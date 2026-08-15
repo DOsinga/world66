@@ -29,6 +29,9 @@ heritage: 5.8
 vibrancy: 5.4
 nature: 6.4
 off_the_beaten_track: 2.0
+profile_verdict: 'Nice''s charm is a pleasant Mediterranean coastline paired with
+  real cultural life: the Matisse and Chagall museums, market stalls, and the seafront
+  promenade.'
 ---
 
 Nice is the undisputed capital of the [Cote d'Azur](/europe/france/cotedazur), and it earns that title not just through glamour but through character. The city has a split personality: the wide, formal sweep of the [Promenade des Anglais](/europe/france/cotedazur/nice/promenade) along the seafront, and the tumbling, narrow-laned [Vieux Nice](/europe/france/cotedazur/nice/vieux_nice) behind it, where laundry flaps from sienna-coloured facades and the smell of socca drifts from corner vendors.

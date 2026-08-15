@@ -18,6 +18,9 @@ heritage: 6.6
 vibrancy: 1.8
 nature: 2.3
 off_the_beaten_track: 8.5
+profile_verdict: 'Awjila is one of the world''s best for going off the beaten track:
+  a mudbrick oasis deep in Libya''s eastern desert, home to the endangered Awjila
+  language and few visitors.'
 ---
 
 Awjila (also written Awjilah, Aujila, or Augila) is a historic oasis deep in the Libyan desert, about 260 km south of [Agedabia](/africa/libya/agedabia). For centuries it sat at the crossroads of the great east-west North African caravan routes and the north-south routes from the coast into sub-Saharan Africa, making it one of the most important stops in the Saharan trade network.

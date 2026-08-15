@@ -17,6 +17,8 @@ heritage: 3.1
 vibrancy: 4.5
 nature: 7.1
 off_the_beaten_track: 8.8
+profile_verdict: 'Huaraz is one of the world''s best bases for getting off the beaten
+  track: gateway to the Cordillera Blanca, Laguna 69, and the Santa Cruz trek.'
 ---
 
 Huaraz is the trekking capital of Peru and the gateway to the Cordillera Blanca, the highest tropical mountain range in the world. At 3,050 metres above sea level, it sits in a broad valley flanked by snow-capped peaks that turn pink at sunset — a sight that never gets old, even after a week of sore legs and altitude headaches.

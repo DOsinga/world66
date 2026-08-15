@@ -27,6 +27,8 @@ heritage: 4.4
 vibrancy: 2.9
 nature: 5.9
 off_the_beaten_track: 0.4
+profile_verdict: 'Maui''s strength is nature, with real if modest Hawaiian heritage
+  alongside it: Haleakala''s crater, the Road to Hana, and historic Lahaina town.'
 ---
 
 Maui is the second-largest of the Hawaiian islands and, for many travellers, the most rewarding. It is less crowded than **Oʻahu**, more developed than **Kauaʻi** and the **Big Island**, and has a near-perfect mix of beaches, mountains, and small seaside towns. The island's motto — **"Maui Nō Ka ʻOi"**, *Maui is the Best* — is not especially modest, and locals will happily tell you it is justified.

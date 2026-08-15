@@ -31,6 +31,9 @@ heritage: 9.0
 vibrancy: 9.2
 nature: 4.8
 off_the_beaten_track: 1.4
+profile_verdict: 'Mumbai is one of the world''s best for both heritage and vibrancy:
+  Victorian Gothic railway stations, Art Deco Marine Drive, and round-the-clock energy
+  matched by few cities.'
 ---
 
 Mumbai is India's commercial and financial capital, a city of roughly 20 million people built on a peninsula that juts into the Arabian Sea. It was the British-era Bombay — a name still in common use — and the transformation from colonial port to global megacity happened faster here than almost anywhere. The result is a city of extremes: extraordinary wealth alongside [Dharavi](/asia/india/maharashtra/mumbai/dharavi), Art Deco apartments along [Marine Drive](/asia/india/maharashtra/mumbai/marine_drive) beside Victorian Gothic railway stations, a cosmopolitan energy that makes it feel like no other city in India.

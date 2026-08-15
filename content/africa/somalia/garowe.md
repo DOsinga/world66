@@ -18,6 +18,9 @@ heritage: 1.6
 vibrancy: 1.4
 nature: 1.1
 off_the_beaten_track: 7.8
+profile_verdict: 'Garowe''s real draw is off the beaten track: it''s the capital of
+  Puntland, a relatively stable corner of Somalia that still sees almost no independent
+  tourism.'
 ---
 
 Garowe is the capital of Puntland, Somalia's semi-autonomous northeastern region. It sits in the [Nugal Valley](/africa/somalia/garowe/nugal_valley) at around 500 m elevation, which makes it cooler than the coastal cities. The city has grown from a small settlement into a functioning regional capital since Puntland was established in 1998, and it serves as the seat of the Puntland government — home to the [presidential palace](/africa/somalia/garowe/puntland_presidential_palace), parliament, and the main government ministries.

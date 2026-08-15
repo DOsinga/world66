@@ -16,6 +16,9 @@ heritage: 3.1
 vibrancy: 1.5
 nature: 8.1
 off_the_beaten_track: 4.7
+profile_verdict: 'Mount Buller''s real draw is nature: Victoria''s alpine high country
+  delivers snow-covered slopes for skiing in winter and open ridge walks once the
+  snow melts.'
 ---
 
 Mount Buller is Victoria's easiest alpine escape from [Melbourne](/australiaandpacific/australia/victoria/melbourne): a compact mountain village wrapped around ski lifts, snow gums, and broad High Country views. In winter it is all about snow, with the state's largest lift network and a busy day-trip scene. In summer it becomes a cooler mountain playground for hiking, mountain biking, road cycling, and views.

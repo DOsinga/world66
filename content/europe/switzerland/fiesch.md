@@ -15,6 +15,8 @@ heritage: 2.9
 vibrancy: 2.0
 nature: 8.2
 off_the_beaten_track: 4.0
+profile_verdict: 'Fiesch''s real draw is nature: a cable car climbs straight from
+  the village to views over the Aletsch Glacier, the longest ice river in the Alps.'
 ---
 
 Fiesch is a small Valais village with one big trick: the lift from the railway station climbs straight into the Aletsch Arena, giving easy access to the [Eggishorn](/europe/switzerland/fiesch/eggishorn) and one of the best views of the Great Aletsch Glacier.

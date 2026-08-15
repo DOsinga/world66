@@ -17,6 +17,9 @@ heritage: 5.9
 vibrancy: 4.4
 nature: 7.5
 off_the_beaten_track: 7.8
+profile_verdict: 'Shigatse''s real draw is remoteness: Tibet''s second city sits in
+  the Yarlung Tsangpo valley around Tashilhunpo Monastery, seat of the Panchen Lama,
+  far from the tourist trail.'
 ---
 
 Shigatse is the second largest city in Tibet, sitting at an elevation of 3,840 metres in the Yarlung Tsangpo valley. It is the seat of the Panchen Lama, and the [Tashilhunpo Monastery](/asia/china/tibet/shigatse/tashilhunpo_monastery) — built in 1447 — is the reason most travellers come here. At its height the monastery housed more than 4,000 monks; today around 600 remain, and the great gilded [mausoleum halls](/asia/china/tibet/shigatse/panchen_lama_mausoleum) are among the most impressive religious structures in Tibet.

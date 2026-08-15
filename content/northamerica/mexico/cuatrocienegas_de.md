@@ -17,6 +17,9 @@ heritage: 2.4
 vibrancy: 1.0
 nature: 8.2
 off_the_beaten_track: 5.7
+profile_verdict: 'Cuatrocienegas'' real draw is nature: desert pools here host ancient
+  stromatolites and endemic species found nowhere else, a strange oasis in the Chihuahuan
+  desert.'
 ---
 
 Cuatrocienegas sits in a desert valley in the state of Coahuila, surrounded by mountains and home to one of Mexico's most remarkable natural areas. The Cuatrocienegas Protected Area contains hundreds of spring-fed pools — pozas — with startlingly blue water in the middle of the Chihuahuan Desert. The pools support endemic species found nowhere else on earth, including unique turtles and stromatolites, living rock formations similar to some of the earliest life on the planet.

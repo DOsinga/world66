@@ -19,6 +19,9 @@ heritage: 4.7
 vibrancy: 5.7
 nature: 9.1
 off_the_beaten_track: 9.4
+profile_verdict: 'Khorugh is one of the world''s best for nature and remoteness: the
+  Pamir Highway starts here amid 6,000-metre peaks, with one of the highest botanical
+  gardens on Earth.'
 ---
 
 Khorugh is the Pamir town where the long road east starts to feel properly high and remote. It sits in a steep valley at the meeting of the Gunt and Panj rivers, with Afghanistan just across the water and bare mountains rising fast above the streets.

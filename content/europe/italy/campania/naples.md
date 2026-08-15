@@ -19,6 +19,9 @@ heritage: 6.8
 vibrancy: 7.9
 nature: 7.3
 off_the_beaten_track: 1.2
+profile_verdict: 'Naples'' real draw is vibrancy: chaotic street life, the birthplace
+  of pizza, and a historic center that feels lived-in and loud rather than polished
+  for visitors.'
 ---
 
 *Europe > Italy > Campania > Naples*

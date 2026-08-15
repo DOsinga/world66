@@ -18,6 +18,9 @@ heritage: 8.9
 vibrancy: 3.2
 nature: 3.9
 off_the_beaten_track: 7.5
+profile_verdict: 'Shibam is one of the world''s best for heritage: 16th-century mudbrick
+  towers, the ''Manhattan of the desert,'' rising eight storeys over Wadi Hadramawt
+  in a Yemen few now reach.'
 ---
 
 Shibam is known as the "Manhattan of the Desert" — and when you first see it rising from the floor of the [Hadramawt](/asia/yemen/hadramawt) valley, the nickname makes sense. Hundreds of mud-brick tower houses, some up to eight storeys tall, are packed tightly together within a defensive wall, their brown facades glowing in the desert light. Manhattan is taller, but it was not built a thousand years ago.

@@ -17,6 +17,9 @@ heritage: 8.3
 vibrancy: 2.1
 nature: 3.1
 off_the_beaten_track: 5.3
+profile_verdict: 'Shobak''s real draw is heritage: the hilltop castle here, built
+  by the Crusader king Baldwin I in 1115, once guarded the desert caravan routes to
+  Egypt.'
 ---
 
 Shobak lies on the King's Highway between [Karak](/asia/jordan/karak) and [Petra](/asia/jordan/petra), about 250 km south of [Amman](/asia/jordan/amman). The reason to come is [Montreal Castle](/asia/jordan/shobak/montreal_castle) — as the Franks called it — built by Baldwin I of Jerusalem around 1115 and captured by Saladin in 1189 after a two-year siege.

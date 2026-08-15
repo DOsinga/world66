@@ -18,6 +18,9 @@ heritage: 5.0
 vibrancy: 3.9
 nature: 8.2
 off_the_beaten_track: 2.5
+profile_verdict: 'Chur''s real draw is nature: Switzerland''s oldest town sits ringed
+  by the peaks of Graubünden, with Rhaetian Railway mountain routes running right
+  through its center.'
 ---
 
 Chur claims the title of oldest city in Switzerland, with evidence of settlement stretching back more than 5,000 years. Tucked into the Rhine valley at the foot of the Alps, it is the capital of Graubünden, the country's largest and most sparsely populated canton. The [old town](/europe/switzerland/chur/chur_altstadt) is small enough to walk in an hour, but dense with crooked lanes, painted facades, and quiet squares that reward a slower pace.

@@ -18,6 +18,8 @@ heritage: 5.0
 vibrancy: 4.4
 nature: 8.4
 off_the_beaten_track: 1.8
+profile_verdict: 'Sun Moon Lake''s real draw is nature: Taiwan''s largest lake mirrors
+  Jade Mountain in still water before the morning mist burns off.'
 ---
 
 Sun Moon Lake is Taiwan's largest lake and its most celebrated inland beauty spot. The clear water and surrounding tea-covered hills draw a steady stream of Taiwanese honeymooners and weekenders; whether this lives up to the hype depends partly on the weather. On a clear morning, with Jade Mountain reflected in the still water before the mist burns off, it earns every superlative.

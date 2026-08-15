@@ -28,6 +28,8 @@ heritage: 6.8
 vibrancy: 7.2
 nature: 5.9
 off_the_beaten_track: 2.2
+profile_verdict: 'Taormina pairs a lively scene with real history: boutique-lined
+  Corso Umberto buzzes below a Greek theatre framing Mount Etna.'
 ---
 
 Taormina is so beautifully located that it would not need great sights to attract visitors. The fact that it does have them makes it an absolute must. Perched on a rocky promontory at the foot of Mount Etna and looking out over the azure Mediterranean, the town has drawn visitors for centuries.

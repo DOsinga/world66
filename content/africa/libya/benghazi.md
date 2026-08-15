@@ -17,6 +17,9 @@ heritage: 6.7
 vibrancy: 2.8
 nature: 3.0
 off_the_beaten_track: 8.9
+profile_verdict: 'Benghazi''s extreme off-the-beaten-track score is no accident: this
+  eastern Libyan city was ravaged by civil war and remains gripped by instability,
+  keeping almost all travelers away.'
 ---
 
 Benghazi is Libya's second city and the capital of the east. It has a different feel from Tripoli — more Middle Eastern in character, more conservative, with its own distinct commercial and political identity. The city sits on the Gulf of Sirte, about 1,000 km east of Tripoli.

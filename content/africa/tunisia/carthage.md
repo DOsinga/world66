@@ -18,6 +18,8 @@ heritage: 8.6
 vibrancy: 2.7
 nature: 1.8
 off_the_beaten_track: 4.4
+profile_verdict: 'Carthage is one of the world''s best for heritage: Punic ruins,
+  Roman Antonine Baths, and Byrsa Hill tell 3,000 years of empire and conquest.'
 ---
 
 Carthage needs to be destroyed — so declared the Roman senator Cato, who reportedly ended every speech with that demand. The Romans eventually obliged, flattening the city in 146 BC. Yet Carthage outlasted Rome: its history stretches across nearly twice as many centuries as the Roman Empire's.

@@ -19,6 +19,9 @@ heritage: 5.9
 vibrancy: 8.6
 nature: 5.6
 off_the_beaten_track: 1.0
+profile_verdict: 'Munich is one of the world''s best for vibrancy: beer halls and
+  gardens run year-round, not just during Oktoberfest, and the English Garden hums
+  with life daily.'
 ---
 
 Sometimes called the "Village of One Million" Munich is a southern city located near the Alps. This wonderfully charming 800-year-old city is the capital of [Bavaria](/europe/germany/bavaria) and the home of the world-famous Oktoberfest. Despite its name, events starts in late September and spills into the first week of October — dancing oompah bands and food dominate. Be prepared not only to drink but also to eat: You’ll have your fill of sausages that is for sure but experiment a bit — whole oxen for instance are cooked on giant spits. While the food is good, fest goers never let it distract from the main focus of the festival: beer. The city is filled with thousands of casual and committed beer drinkers guzzling foamy brew for days on end. If this sounds like heaven by all means go and enjoy it but if it doesn’t avoid Munich at all costs during this time. Book accommodation well in advance for Oktoberfest. But don’t think Oktoberfest is the only time Munich celebrates. The pre-Lenten celebration of Fasching is equally popular. It goes on for days with all sorts of costumed parties and festivities.

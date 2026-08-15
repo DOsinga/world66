@@ -17,6 +17,9 @@ heritage: 9.1
 vibrancy: 2.0
 nature: 3.8
 off_the_beaten_track: 5.9
+profile_verdict: 'Lalibela is one of the world''s best for heritage: its eleven medieval
+  churches were carved down into solid rock, including the cross-shaped Bete Giyorgis,
+  still an active pilgrimage site today.'
 ---
 
 Missing Lalibela would be like going to Egypt and not seeing a pyramid. This small town in the Lasta mountains, 340 km north of Addis Ababa, holds 11 Orthodox churches carved out of solid red rock in the 12th century — some of the greatest architectural marvels on earth.

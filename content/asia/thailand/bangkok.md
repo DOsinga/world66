@@ -31,6 +31,8 @@ heritage: 6.2
 vibrancy: 10.0
 nature: 2.2
 off_the_beaten_track: 0.5
+profile_verdict: 'Bangkok is one of the world''s best for vibrancy: street food, rooftop
+  bars, and traffic-snarled energy that never really stops.'
 ---
 
 Bangkok is one of those cities that overwhelms you on arrival and then slowly wins you over. The heat hits you first, then the noise, then the smells -- exhaust fumes mingling with jasmine garlands and sizzling street food. Give it a day and you will start to feel the rhythm of the place.

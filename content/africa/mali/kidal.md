@@ -14,6 +14,9 @@ heritage: 5.9
 vibrancy: 1.6
 nature: 7.4
 off_the_beaten_track: 10.0
+profile_verdict: 'Kidal ranks among the remotest places on Earth, but not by charming
+  isolation: ongoing conflict and militant activity across northern Mali make it dangerous
+  and largely off-limits to travelers.'
 ---
 
 Kidal is the most remote of [Mali](/africa/mali)'s regions, a vast stretch of Sahara desert in the far northeast with almost no infrastructure. There are no paved roads, and the sparse population is primarily Tamashek (Tuareg), who have historically had a tense relationship with the government in Bamako.

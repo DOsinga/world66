@@ -18,6 +18,9 @@ heritage: 2.1
 vibrancy: 1.6
 nature: 8.3
 off_the_beaten_track: 7.6
+profile_verdict: 'Gilgit''s real draw is its position deep in the Karakoram: snow-capped
+  8,000-metre peaks ring the valley, and reaching them still means a long, remote
+  overland journey.'
 ---
 
 Gilgit is the capital of **Gilgit-Baltistan**, the administrative region covering Pakistan's northern highlands, and the main transport hub for the Karakoram and the Hindu Kush. The town itself sits in a broad, dry river valley at about 1,500 metres, ringed on all sides by enormous brown peaks; it is unremarkable in itself — dusty, bazaar-centred, with a permanent population of around 200,000 — but it is the place nearly every traveller to the mountains passes through. Gilgit has been a crossroads for as long as anything here has been written down: the old caravan routes from Kashgar over the Khunjerab, from Ladakh via Skardu, and from Chitral over the Shandur all met here.

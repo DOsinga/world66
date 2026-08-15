@@ -18,6 +18,9 @@ heritage: 5.8
 vibrancy: 7.6
 nature: 6.7
 off_the_beaten_track: 3.9
+profile_verdict: 'The Douro Valley''s real draw is vibrancy: terraced vineyards tumbling
+  to the river, port-wine quintas open for tastings, and harvest season energy that
+  pulls crowds each September.'
 ---
 
 The Douro Valley is Portugal's great wine country — a steep, terraced landscape carved by the Douro River as it runs east toward the Spanish border. The schist hillsides are covered in quintas (wine estates) producing the grapes that become port wine, as well as increasingly respected table wines. The valley is a UNESCO World Heritage Site.

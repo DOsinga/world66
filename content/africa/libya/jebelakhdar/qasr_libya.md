@@ -16,6 +16,9 @@ heritage: 6.6
 vibrancy: 0.8
 nature: 5.4
 off_the_beaten_track: 7.7
+profile_verdict: 'Qasr Libya''s real draw is being off the beaten track: this remote
+  site of rare Byzantine floor mosaics sees few visitors, partly because Libya''s
+  instability keeps most travelers away.'
 ---
 
 Qasr Libya is a small village about 45 km west of Al Bayda, in the heart of the [Jebel Akhdar](/africa/libya/jebelakhdar) plateau. Most people who visit come for a single reason: the [Byzantine Museum](/africa/libya/jebelakhdar/qasr_libya/byzantine_museum), which holds one of the finest collections of Byzantine floor mosaics in North Africa. Nearly 50 panels, discovered in two sixth-century churches excavated here in the 1950s, are preserved inside — depicting animals, allegorical figures, personifications of cities, and scenes from classical mythology with vivid colour and remarkable detail. The site was the ancient town of Olbia (later renamed Theodorias), and the mosaics place it firmly in the mainstream of late antique Mediterranean culture.

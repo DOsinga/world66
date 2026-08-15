@@ -19,6 +19,9 @@ heritage: 10.0
 vibrancy: 2.2
 nature: 7.2
 off_the_beaten_track: 4.4
+profile_verdict: 'Hampi is one of the world''s best for heritage: a ruined Vijayanagara
+  Empire capital scattered across boulders, its stone chariot and Virupaksha Temple
+  among Asia''s most extraordinary ruins.'
 ---
 
 Hampi is one of the great ruined cities of the medieval world. At its height in the 15th century, Vijayanagara — the city of which Hampi was the heart — had a population of half a million and was probably the second-largest city on earth after Beijing. In 1565 a coalition of Muslim sultans defeated the Vijayanagara king at the Battle of Talikota, then spent five months sacking and burning the capital. What they left behind, strewn across a dramatic landscape of granite boulders and the Tungabhadra River, was declared a UNESCO World Heritage Site in 1986.

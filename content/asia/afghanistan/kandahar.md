@@ -14,6 +14,9 @@ heritage: 8.7
 vibrancy: 2.6
 nature: 2.7
 off_the_beaten_track: 9.1
+profile_verdict: 'Kandahar is one of the world''s best for heritage and off-the-beaten-track
+  travel: an ancient Pashtun stronghold, though decades of war make it one of the
+  most dangerous places to visit.'
 ---
 
 Kandahar is Afghanistan's second city and its historical heart — the birthplace of the Pashtun nation, the seat of Ahmad Shah Durrani who founded the Durrani Empire in 1747, and the city from which the Taliban launched their conquest of Afghanistan in the 1990s. It sits in the south on a flat, sun-baked plain ringed by desert, a city of pomegranate orchards, mud-walled compounds, and deep conservatism. Of all Afghan cities, this one bears the most weight of recent history — and the least tolerance for outsiders.

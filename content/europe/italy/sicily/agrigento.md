@@ -20,6 +20,9 @@ heritage: 9.0
 vibrancy: 4.4
 nature: 6.8
 off_the_beaten_track: 2.8
+profile_verdict: 'Agrigento is one of the world''s best for heritage: the Valle dei
+  Templi''s 5th-century BC Greek temples, especially the near-perfectly preserved
+  Temple of Concordia, rank among the finest anywhere.'
 ---
 
 Agrigento is a small town on the south coast of Sicily. The beach is good and the small streets of the old town are charming, but what brings you here are the Greek temples just outside of town.

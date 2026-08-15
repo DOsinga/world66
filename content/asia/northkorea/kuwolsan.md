@@ -14,6 +14,9 @@ heritage: 0.9
 vibrancy: 1.8
 nature: 4.8
 off_the_beaten_track: 7.6
+profile_verdict: 'Kuwolsan''s real draw is how far off the beaten track it is: a scenic
+  mountain in North Korea that almost no independent traveler can simply show up and
+  see.'
 ---
 
 Kuwolsan (Nine Moon Mountain) is a rugged coastal range on the west coast of North Korea, where the Taedong River meets the sea. The mountains rise sharply from the shoreline and offer hiking trails through forest, past waterfalls, and to the remains of an old fortress and several former Buddhist shrines.

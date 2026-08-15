@@ -17,6 +17,9 @@ heritage: 2.9
 vibrancy: 1.5
 nature: 8.2
 off_the_beaten_track: 6.2
+profile_verdict: 'Bukit Lawang''s real draw is nature: wild orangutans still swing
+  through the rainforest canopy of Gunung Leuser National Park right at the edge of
+  town.'
 ---
 
 Bukit Lawang is a small riverside village on the edge of [Gunung Leuser National Park](/asia/indonesia/sumatra/gununglesuer), best known as the site of a long-running orangutan rehabilitation program. Semi-wild orangutans still roam the forest here and can be encountered on guided treks — it's one of the most accessible places in the world to see these animals.

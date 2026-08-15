@@ -30,6 +30,8 @@ heritage: 7.2
 vibrancy: 10.0
 nature: 4.4
 off_the_beaten_track: 1.4
+profile_verdict: 'New York is one of the world''s best for vibrancy: Broadway, nightlife
+  that never stops, and real heritage at the Statue of Liberty and Ellis Island.'
 ---
 
 New York City is five boroughs, eight million people, and an argument that has never quite been settled. It is overwhelming in the best possible way: dense, loud, expensive, and unlike anywhere else. You can spend weeks here and still feel like you've barely scratched the surface, which is partly the point.

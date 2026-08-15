@@ -26,6 +26,8 @@ heritage: 5.4
 vibrancy: 4.5
 nature: 8.1
 off_the_beaten_track: 2.6
+profile_verdict: 'Hakone''s pull is pure nature: a volcanic caldera, geothermal steam,
+  and Lake Ashi laid out beneath Mount Fuji.'
 ---
 
 Hakone is Japan's most celebrated hot spring resort and, on a clear day, one of the finest places in the country to view Mount Fuji. Nestled inside a collapsed volcanic caldera in the mountains west of Tokyo, the town is essentially a giant natural spa: geothermal steam rises from hillside vents, the lake at the caldera's centre reflects the sky, and every ryokan (traditional inn) seems to have hot spring water piped directly into the bath.

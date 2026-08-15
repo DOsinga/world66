@@ -17,6 +17,8 @@ heritage: 4.3
 vibrancy: 2.5
 nature: 4.2
 off_the_beaten_track: 8.2
+profile_verdict: 'Duhok''s real draw is remoteness: a mountain city in Iraqi Kurdistan,
+  safer than the rest of Iraq but still far off most travelers'' maps.'
 ---
 
 Duhok is the capital of Duhok Governorate in northern Iraqi Kurdistan, near the Turkish border. The city has grown rapidly since the 1990s, when the creation of the Kurdish safe haven brought stability, and now has a population of around 500,000.

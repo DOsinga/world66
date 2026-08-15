@@ -19,6 +19,9 @@ heritage: 5.0
 vibrancy: 2.4
 nature: 8.3
 off_the_beaten_track: 3.4
+profile_verdict: 'Beddgelert''s draw is pure nature: the village sits where two rivers
+  meet in Snowdonia, with the Aberglaslyn Pass and Gelert''s legendary grave close
+  by.'
 ---
 
 Beddgelert is one of Snowdonia's prettiest small bases, a stone village where the Glaslyn and Colwyn rivers meet below Moel Hebog. It has enough charm for a slow hour, but the real reason to come is how much good walking and railway scenery starts almost at the bridge.

@@ -28,6 +28,8 @@ heritage: 10.0
 vibrancy: 2.0
 nature: 5.8
 off_the_beaten_track: 3.8
+profile_verdict: 'Petra is one of the world''s best for heritage: the Treasury and
+  Nabatean tombs carved straight into rock, a wonder unlike anywhere else.'
 ---
 
 Petra belongs on the top of any Jordan itinerary. The Nabataeans carved an entire city out of the red sandstone of the Wadi Musa canyon — temples, tombs, dining halls and processional ways, all out of the living rock — and they did it so well that the place still works as architecture two thousand years later.

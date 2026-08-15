@@ -18,6 +18,9 @@ heritage: 9.0
 vibrancy: 4.2
 nature: 1.0
 off_the_beaten_track: 6.3
+profile_verdict: 'Babylon is one of the world''s best for heritage: this is ancient
+  Mesopotamia, home to Hammurabi''s laws, Nebuchadnezzar''s empire, and the legendary
+  Ishtar Gate.'
 ---
 
 The name still carries weight. Babylon was the capital of no fewer than ten Mesopotamian dynasties over two thousand years, and at the height of its power in the 6th century BC under Nebuchadnezzar II it was the largest city in the world. The [Hanging Gardens](/asia/iraq/babylon/hanging_gardens) were one of the Seven Wonders of the ancient world; the [Ishtar Gate](/asia/iraq/babylon/ishtar_gate) — with its brilliant blue-glazed bricks and procession of dragons and bulls — still astonishes, though the original is in Berlin and what stands here is a reconstruction.

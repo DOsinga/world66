@@ -20,6 +20,9 @@ heritage: 6.0
 vibrancy: 7.7
 nature: 6.6
 off_the_beaten_track: 1.3
+profile_verdict: 'Ayia Napa''s real draw is vibrancy: Cyprus''s party capital, a strip
+  of superclubs and beach bars that turns this small resort into an all-night playground
+  each summer.'
 ---
 
 Ayia Napa sits on the southeastern tip of Cyprus, a former fishing village that transformed into one of Europe's most famous party destinations. In summer the population swells from under a thousand to tens of thousands, drawn by turquoise water, white sand beaches, and a nightlife scene that rivals Ibiza.

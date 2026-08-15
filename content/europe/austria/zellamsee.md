@@ -19,6 +19,8 @@ heritage: 4.3
 vibrancy: 3.7
 nature: 8.2
 off_the_beaten_track: 2.3
+profile_verdict: 'Zell am See''s real draw is nature: an Alpine lake town ringed by
+  mountains, with the Kitzsteinhorn glacier for skiing well into summer.'
 ---
 
 Zell am See is an Austrian resort town in Salzburgerland, set between the [Schmittenhöhe](/europe/austria/zellamsee/schmittenhoe) ski mountain and the clear waters of [Zeller See](/europe/austria/zellamsee/zeller_see) lake. The medieval [old town](/europe/austria/zellamsee/old_town) — largely traffic-free since a bypass tunnel was built — sits on a peninsula jutting into the lake, with good mountain views in all directions. Unlike many purpose-built ski resorts, it has genuine historic character: the town was founded by monks from Salzburg in the 8th century, and the [Church of St Hippolytus](/europe/austria/zellamsee/church_of_st_hippolytus) at its centre dates from the Romanesque period.

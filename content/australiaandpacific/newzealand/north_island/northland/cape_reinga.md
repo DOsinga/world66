@@ -17,6 +17,8 @@ heritage: 6.7
 vibrancy: 0.8
 nature: 8.3
 off_the_beaten_track: 6.3
+profile_verdict: 'Cape Reinga''s real draw is nature: New Zealand''s dramatic northern
+  tip, where the Tasman Sea visibly collides with the Pacific below a solitary lighthouse.'
 ---
 
 Cape Reinga is the northernmost accessible point of the North Island, and one of the most dramatic places in New Zealand. Standing at the [lighthouse](/australiaandpacific/newzealand/north_island/northland/cape_reinga/lighthouse), you can watch the Pacific Ocean and the Tasman Sea collide — a visible white line of churning water stretching out toward the horizon where the two bodies of water meet.

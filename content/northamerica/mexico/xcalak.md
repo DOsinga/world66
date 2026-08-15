@@ -16,6 +16,9 @@ heritage: 3.2
 vibrancy: 1.5
 nature: 8.2
 off_the_beaten_track: 5.4
+profile_verdict: 'Xcalak''s real draw is nature: reef so close offshore it shapes
+  daily life, plus day trips to Banco Chinchorro, one of the region''s great reef
+  systems.'
 ---
 
 Xcalak sits near the Belize border at the far southern end of Mexico's Caribbean coast. It is quieter and more remote than Mahahual, with a fishing-village feel, sandy roads, and reef water close enough offshore to shape nearly everything visitors do.

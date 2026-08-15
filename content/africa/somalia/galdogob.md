@@ -14,6 +14,9 @@ heritage: 0.8
 vibrancy: 1.4
 nature: 5.5
 off_the_beaten_track: 7.5
+profile_verdict: 'Galdogob''s real draw is being off the beaten track: a remote town
+  in Somalia''s interior that sees almost no foreign visitors, partly due to the region''s
+  ongoing instability.'
 ---
 
 Galdogob is a town in the Mudug region of central Somalia, near the Ethiopian border. It is a livestock trading center, with camels, sheep, goats, and cattle passing through for domestic sale and export to Gulf markets during the Hajj season.

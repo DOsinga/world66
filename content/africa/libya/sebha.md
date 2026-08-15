@@ -14,6 +14,9 @@ heritage: 6.3
 vibrancy: 2.1
 nature: 5.9
 off_the_beaten_track: 10.0
+profile_verdict: 'Sebha ranks among the most off-the-beaten-track places on earth:
+  a Saharan garrison town deep in Libya''s Fezzan region, gripped by militia conflict
+  and effectively off-limits to travelers now.'
 ---
 
 Sebha is the main town of the Fezzan, the vast desert region that makes up southwestern [Libya](/africa/libya). It serves as a base for exploring the Sahara and as a stopping point on the route between [Ghadhames](/africa/libya/ghadhames) and the south, towards [Chad](/africa/chad) and [Niger](/africa/niger).

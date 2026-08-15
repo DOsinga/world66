@@ -20,6 +20,9 @@ heritage: 9.0
 vibrancy: 4.5
 nature: 6.0
 off_the_beaten_track: 3.4
+profile_verdict: 'Koyasan is one of the world''s best for heritage: the mountain monastery
+  town founded by Kobo Daishi centers on Okunoin, a moss-covered cemetery of thousands
+  of lanterns and tombstones.'
 ---
 
 Koyasan — Mount Koya — is the headquarters of Shingon Buddhism and one of the most spiritually charged places in Japan. The monk Kukai, posthumously known as Kobo Daishi, founded a monastic settlement here in 816 after returning from training in Tang Dynasty China, and the mountain has been a pilgrimage destination ever since. Today around 50 temples remain active on the plateau, and it is possible to sleep inside them.

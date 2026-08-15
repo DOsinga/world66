@@ -29,6 +29,8 @@ heritage: 1.5
 vibrancy: 1.4
 nature: 7.4
 off_the_beaten_track: 4.1
+profile_verdict: 'Jasper''s draw is pure nature: Icefields Parkway glaciers, Maligne
+  Lake, Athabasca Falls, and a Dark Sky Preserve for stargazing.'
 ---
 
 Jasper sits at the heart of the largest national park in the Canadian Rockies, a small mountain town of around 4,500 people surrounded by an almost absurd amount of wilderness. Unlike its busier neighbour Banff to the south, Jasper has kept a quieter, more laid-back character. The town itself is compact and walkable, with most restaurants and shops clustered along Patricia Street and Connaught Drive.

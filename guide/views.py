@@ -560,34 +560,41 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
                 'parent_title': parent_title,
             })
 
-        noun = 'city' if page.meta.get('loc_type') == 'city' else 'destination'
-        top_two = [DIMENSION_LABELS[f].lower() for f, _ in scored[:2]]
-
-        # A real, computed achievement claim about the top dimension, when
-        # there's a genuinely notable one — never fabricated, and each
-        # lookup is an O(1)/O(log n) cache hit (see guide/models.py), not a
-        # per-request scan, so this stays cheap regardless of traffic. When
-        # one exists, lead with it instead of "a X city first" (which would
-        # otherwise repeat the same dimension twice back to back) and only
-        # mention the second dimension as a lighter aside.
-        top_field, top_value = scored[0]
-        top_label = DIMENSION_LABELS[top_field].lower()
-        worldwide_pct = dimension_percentile(top_field, top_value)
-        rank, total = dimension_country_rank(page.path, top_field)
-
-        achievement = None
-        if worldwide_pct <= 1:
-            achievement = f"{page.title} is one of the world's best for <em>{top_label}</em>."
-        elif total >= 5 and rank == 1:
-            achievement = f"{page.title} is the top <em>{top_label}</em> destination in {country_title}."
-        elif total >= 5 and rank is not None and rank <= 3:
-            achievement = f"{page.title} is one of {country_title}'s top three for <em>{top_label}</em>."
-
-        if achievement:
-            sentence = f"{achievement} Also worth exploring for its <em>{top_two[1]}</em>."
+        # A hand-written verdict always wins over the computed fallback below
+        # — it names the actual thing that earns the score instead of just
+        # naming the dimension.
+        custom_verdict = page.meta.get('profile_verdict')
+        if custom_verdict:
+            verdict_html = mark_safe(custom_verdict)
         else:
-            sentence = f"{page.title} is a <em>{top_two[0]}</em> {noun} first, <em>{top_two[1]}</em> second."
-        verdict_html = mark_safe(sentence)
+            noun = 'city' if page.meta.get('loc_type') == 'city' else 'destination'
+            top_two = [DIMENSION_LABELS[f].lower() for f, _ in scored[:2]]
+
+            # A real, computed achievement claim about the top dimension, when
+            # there's a genuinely notable one — never fabricated, and each
+            # lookup is an O(1)/O(log n) cache hit (see guide/models.py), not a
+            # per-request scan, so this stays cheap regardless of traffic. When
+            # one exists, lead with it instead of "a X city first" (which would
+            # otherwise repeat the same dimension twice back to back) and only
+            # mention the second dimension as a lighter aside.
+            top_field, top_value = scored[0]
+            top_label = DIMENSION_LABELS[top_field].lower()
+            worldwide_pct = dimension_percentile(top_field, top_value)
+            rank, total = dimension_country_rank(page.path, top_field)
+
+            achievement = None
+            if worldwide_pct <= 1:
+                achievement = f"{page.title} is one of the world's best for <em>{top_label}</em>."
+            elif total >= 5 and rank == 1:
+                achievement = f"{page.title} is the top <em>{top_label}</em> destination in {country_title}."
+            elif total >= 5 and rank is not None and rank <= 3:
+                achievement = f"{page.title} is one of {country_title}'s top three for <em>{top_label}</em>."
+
+            if achievement:
+                sentence = f"{achievement} Also worth exploring for its <em>{top_two[1]}</em>."
+            else:
+                sentence = f"{page.title} is a <em>{top_two[0]}</em> {noun} first, <em>{top_two[1]}</em> second."
+            verdict_html = mark_safe(sentence)
 
         same_country, _ = find_similar_with_match_grouped(page.path)
         for similar_path, match_pct in same_country:

@@ -32,6 +32,9 @@ heritage: 8.9
 vibrancy: 8.2
 nature: 4.7
 off_the_beaten_track: 1.3
+profile_verdict: 'Hong Kong is one of the world''s best for heritage and vibrancy:
+  colonial-era streets fused with Chinese temples, now running full tilt on neon and
+  dim sum.'
 ---
 
 Hong Kong is one of the most exhilarating cities on earth — a vertical, electric, relentless place where East and West collide in the most productive possible way. For 156 years a British colony, it was handed back to China in 1997 under a "one country, two systems" arrangement that preserved its common law courts, free press, and capitalist economy. The neon, the harbour, the dim sum, the frantic energy: all of it still very much in place.

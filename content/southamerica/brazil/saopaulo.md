@@ -26,6 +26,9 @@ heritage: 3.9
 vibrancy: 7.6
 nature: 2.4
 off_the_beaten_track: 1.6
+profile_verdict: 'São Paulo''s real draw is vibrancy: the biggest Japanese and Italian
+  communities outside their home countries, extraordinary food and nightlife, and
+  traffic and crime that keep it honest.'
 ---
 
 São Paulo is the largest city in the southern hemisphere, the economic engine of Brazil, and — to be honest — not a pretty city. Endless concrete, traffic that holds the world's worst-congestion records, a sprawl that takes hours to cross. What São Paulo lacks in beauty it makes up for in energy and diversity. This is the biggest Japanese city outside Japan, the biggest Italian city outside Italy, and home to over a million Lebanese descendants; the food, the music, and the nightlife draw from all of them.

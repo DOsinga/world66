@@ -18,6 +18,8 @@ heritage: 3.1
 vibrancy: 0.7
 nature: 7.3
 off_the_beaten_track: 7.5
+profile_verdict: 'Khaplu''s draw is sheer remoteness: a Baltistan valley town with
+  a restored 19th-century royal palace, deep in Karakoram trekking country near K2.'
 ---
 
 Khaplu sits at the confluence of the Hushe and Shyok rivers in Baltistan, a green oasis in an otherwise stark mountain landscape. It was once the capital of a small Balti kingdom, and the legacy shows in the beautifully restored Chaqchan Mosque — one of the oldest in the region, dating to the 14th century — and the Khaplu Palace, a grand timber-and-stone residence perched above the town with views across the valley to the Karakoram peaks.

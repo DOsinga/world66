@@ -27,6 +27,8 @@ heritage: 5.5
 vibrancy: 7.8
 nature: 5.5
 off_the_beaten_track: 1.2
+profile_verdict: 'Porto''s energy is its strength: francesinhas, wine bars and Dom
+  Luís bridge nightlife keep the city buzzing long after dark.'
 ---
 
 Porto is Portugal's second city and, in many ways, its most honest one. As the Portuguese saying goes: "Lisbon shows off, Braga prays, Coimbra studies, and Porto works." It is a place that has never tried to be pretty for visitors, yet its unvarnished beauty — crumbling azulejo facades, granite churches, iron bridges spanning the Douro gorge — makes it one of Europe's most rewarding cities.

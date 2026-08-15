@@ -29,6 +29,8 @@ heritage: 3.1
 vibrancy: 4.2
 nature: 8.0
 off_the_beaten_track: 2.5
+profile_verdict: 'Foz do Iguaçu exists for its nature: the thundering curtain of Iguazu
+  Falls, among the world''s greatest waterfalls, dwarfs the town itself.'
 ---
 
 Foz do Iguaçu is a Brazilian border city whose entire reason for existing is one of the great natural spectacles of the Americas. The city itself is a sprawling, functional place of around 260,000 people in the far west of Paraná state, sitting at the point where Brazil, Argentina, and Paraguay meet — a convergence known as the Triple Frontier. Most visitors pass through quickly, but those who stay longer discover that Foz has more to offer than its famous falls.

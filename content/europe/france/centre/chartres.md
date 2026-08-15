@@ -20,6 +20,9 @@ heritage: 8.5
 vibrancy: 5.0
 nature: 2.7
 off_the_beaten_track: 2.0
+profile_verdict: 'Chartres is one of the world''s best for heritage: its Gothic cathedral,
+  a UNESCO site, holds the world''s finest surviving medieval stained glass and a
+  floor labyrinth pilgrims still walk.'
 ---
 
 Chartres is less than 100 km southwest of [Paris](/europe/france/paris), an easy day trip or a stop on the way to the [Loire Valley](/europe/france/loirevalley). Most people come for the cathedral — and the cathedral alone is worth the journey — but the old town around it is genuinely attractive, with half-timbered houses, steep lanes, and good views from the bridges over the Eure.

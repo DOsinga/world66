@@ -20,6 +20,8 @@ heritage: 1.9
 vibrancy: 0.7
 nature: 8.3
 off_the_beaten_track: 6.6
+profile_verdict: 'Eiði''s draw is raw nature: the village faces the Risin og Kellingin
+  sea stacks, dramatic basalt cliffs rising straight out of the North Atlantic.'
 ---
 
 Eiði sits at the north-western edge of [Eysturoy](/europe/faroeislands/eysturoy), looking across the sound toward Streymoy and the blunt northern mountains of the Faroe Islands. The village itself is quiet: turf, sheep, a small harbour, and low houses set beneath the shoulder of Eiðiskollur. The reason to come is the landscape around it.

@@ -18,6 +18,9 @@ heritage: 5.7
 vibrancy: 3.1
 nature: 8.2
 off_the_beaten_track: 2.9
+profile_verdict: 'Killarney''s real draw is nature: its national park strings together
+  lakes and oak woods beneath the jagged peaks of Macgillycuddy''s Reeks, Ireland''s
+  highest mountains.'
 ---
 
 Killarney is the main base for exploring southwest Ireland's lake and mountain scenery — the [national park](/europe/ireland/killarney/killarney_national_park), the [Gap of Dunloe](/europe/ireland/killarney/gap_of_dunloe), and the Ring of Kerry all start from here. The town itself is not especially beautiful, but it has been hosting visitors for over two hundred years and does it well: there are pubs, restaurants, and places to stay in every price range.

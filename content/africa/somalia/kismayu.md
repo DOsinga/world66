@@ -14,6 +14,9 @@ heritage: 4.2
 vibrancy: 1.8
 nature: 4.5
 off_the_beaten_track: 9.0
+profile_verdict: Kismayo ranks among the most off-the-beaten-track places on earth,
+  but that's because ongoing conflict and insecurity in Somalia keep almost all travelers
+  away.
 ---
 
 Kismayo (also spelled Kismaayo) is a port city in the far south of Somalia, near the Kenyan border. It is the country's second-largest port and the administrative centre of Jubaland state. Founded in 1872 by the Sultan of Zanzibar, it passed to the British, then to Italian Somaliland, then at independence became one of Somalia's busiest commercial ports — known for exporting bananas from the fertile Jubba River valley and for its long, beautiful beaches.

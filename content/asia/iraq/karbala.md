@@ -18,6 +18,9 @@ heritage: 9.2
 vibrancy: 2.2
 nature: 2.8
 off_the_beaten_track: 6.1
+profile_verdict: 'Karbala is one of the world''s best for heritage: the golden-domed
+  shrines of Imam Hussain and Abbas draw millions of Shia pilgrims each year, especially
+  during the mass Arbaeen walk.'
 ---
 
 Karbala is located in central Iraq, roughly halfway between [Baghdad](/asia/iraq/baghdad) and [An Najaf](/asia/iraq/annajaf). It is one of the holiest places in Shia Islam and a major pilgrimage destination.

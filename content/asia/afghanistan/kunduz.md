@@ -18,6 +18,9 @@ heritage: 5.7
 vibrancy: 1.7
 nature: 1.8
 off_the_beaten_track: 7.6
+profile_verdict: 'Kunduz sits far off any beaten track: a northern Afghan city that
+  has seen heavy fighting in recent decades, and one most travelers should approach
+  with real caution.'
 ---
 
 Kunduz is a major city in northeastern Afghanistan, sitting on the fertile plains where the Kunduz River flows toward the Amu Darya. Historically it was a prosperous trading centre on the routes between Central Asia and the Hindu Kush, and the surrounding area has significant archaeological sites from the Kushan and Greco-Buddhist periods.

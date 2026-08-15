@@ -19,6 +19,9 @@ heritage: 7.7
 vibrancy: 8.2
 nature: 3.0
 off_the_beaten_track: 1.7
+profile_verdict: 'Chennai''s real draw is vibrancy: Kollywood film sets, Carnatic
+  music season, and Marina Beach''s evening crowds give it constant, restless energy,
+  backed by real temple-town heritage.'
 ---
 
 Formerly known as Madras, Chennai is the capital of 

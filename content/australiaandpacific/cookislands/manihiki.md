@@ -18,6 +18,9 @@ heritage: 4.0
 vibrancy: 1.1
 nature: 7.5
 off_the_beaten_track: 8.7
+profile_verdict: 'Manihiki is one of the world''s best for genuine remoteness: a Cook
+  Islands atoll of black-pearl farms and a few villages ringing a lagoon, reached
+  only by occasional flights.'
 ---
 
 Manihiki is a remote atoll in the northern Cook Islands, about 1,200km north of Rarotonga. It consists of roughly 40 small islets ringing a large central [lagoon](/australiaandpacific/cookislands/manihiki/manihiki_lagoon), and the population of a few hundred lives in two villages: [Tukao](/australiaandpacific/cookislands/manihiki/tukao_village) on the northern rim and [Tauhunu](/australiaandpacific/cookislands/manihiki/tauhunu_village) on the southern side.

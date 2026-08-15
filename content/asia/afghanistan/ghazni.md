@@ -18,6 +18,9 @@ heritage: 8.6
 vibrancy: 2.1
 nature: 2.9
 off_the_beaten_track: 6.6
+profile_verdict: 'Ghazni is one of the world''s best for heritage: the 12th-century
+  twin minarets of this former Ghaznavid capital still stand, though decades of conflict
+  have made visiting Afghanistan hard.'
 ---
 
 Conveniently close to [Kabul](/asia/afghanistan/kabul), Ghazni was once the capital of a vast empire. In the 11th century, Sultan Mahmud of Ghazni launched raids as far as Delhi and brought back the spoils to build a court that attracted the finest poets, musicians and scientists in the region. The city was one of the great cultural centers of the Islamic world.

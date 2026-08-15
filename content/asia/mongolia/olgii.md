@@ -21,6 +21,9 @@ heritage: 5.4
 vibrancy: 2.6
 nature: 8.3
 off_the_beaten_track: 8.3
+profile_verdict: 'Ölgii''s real draw is nature and remoteness: Kazakh eagle hunters,
+  the high Altai mountains, and a golden eagle festival reached by rough, far-flung
+  roads.'
 ---
 
 Ölgii sits far out in western Mongolia, close to the borders with China, Russia, and Kazakhstan. It is not a polished city, and that is part of the point: the streets feel practical and wind-scoured, the mountains sit close, and Kazakh culture is more visible here than almost anywhere else in Mongolia.

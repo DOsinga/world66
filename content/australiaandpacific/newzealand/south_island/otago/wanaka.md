@@ -17,6 +17,8 @@ heritage: 2.6
 vibrancy: 4.4
 nature: 8.1
 off_the_beaten_track: 2.2
+profile_verdict: 'Wanaka''s real draw is nature: a glacial lake ringed by the Southern
+  Alps, with hiking and skiing minutes from town and that famous lone lakeside tree.'
 ---
 
 Wanaka sits on the southern shore of [Lake Wānaka](/australiaandpacific/newzealand/south_island/otago/wanaka/lake_wanaka) in Central Otago, surrounded by mountains that reflect in the lake with unreasonable clarity. It has long been described as the quieter alternative to [Queenstown](/australiaandpacific/newzealand/south_island/otago/queenstown), an hour's drive south — and while it has grown considerably as a destination, it still feels more human-scaled and less frantic than its famous neighbour.

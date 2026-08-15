@@ -18,6 +18,9 @@ heritage: 5.2
 vibrancy: 2.1
 nature: 4.4
 off_the_beaten_track: 7.8
+profile_verdict: 'Kisangani''s real draw is how far off the beaten track it sits:
+  a Congo River city reachable mainly by boat or unreliable flights, with a rough
+  recent history of war.'
 ---
 
 Known in colonial times as Stanleyville, Kisangani sits on the Congo River over 1,700 km upstream from [Kinshasa](/africa/congokinshasa/kinshasa), deep in the equatorial forest. It is a city of fading colonial architecture, dense humidity, and an atmosphere that feels genuinely remote from the rest of the world.

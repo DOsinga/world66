@@ -17,6 +17,8 @@ heritage: 3.4
 vibrancy: 3.5
 nature: 8.2
 off_the_beaten_track: 1.5
+profile_verdict: 'Fontainebleau''s real draw is nature: a forest of sandstone boulders
+  that draws climbers from across the world, right at the edge of a royal palace town.'
 ---
 
 Fontainebleau is a small town about 60 km south of [Paris](/europe/france/paris), surrounded by one of the largest and most beautiful forests in the Ile-de-France. It is an easy day trip from the capital and a welcome escape from the city's intensity.

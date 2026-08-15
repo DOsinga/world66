@@ -20,6 +20,8 @@ heritage: 8.3
 vibrancy: 4.5
 nature: 7.1
 off_the_beaten_track: 4.1
+profile_verdict: 'Trabzon''s real draw is heritage: Byzantine churches and Silk Road
+  port history cling to a Black Sea coastline backed by mountain monasteries.'
 ---
 
 *Asia > Turkey > Trabzon*

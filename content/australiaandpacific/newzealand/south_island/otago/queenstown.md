@@ -29,6 +29,9 @@ heritage: 4.8
 vibrancy: 6.0
 nature: 7.5
 off_the_beaten_track: 3.2
+profile_verdict: Queenstown's real strength is nature — Lake Wakatipu beneath the
+  jagged Remarkables, bungy jumping born at Kawarau Bridge — backed by lakefront bars
+  that fill nightly with backpackers.
 ---
 
 Queenstown sits at the edge of [Lake Wakatipu](/australiaandpacific/newzealand/south_island/otago/queenstown/lake_wakatipu) on New Zealand's South Island, ringed by the jagged [Remarkables](/australiaandpacific/newzealand/south_island/otago/queenstown/the_remarkables) mountain range. It is the country's undisputed adventure capital — the place where [bungy jumping](/australiaandpacific/newzealand/south_island/otago/queenstown/bungy_jumping) was commercialised, and where the adrenaline industry has never looked back.

@@ -28,6 +28,9 @@ heritage: 9.9
 vibrancy: 1.5
 nature: 8.4
 off_the_beaten_track: 6.6
+profile_verdict: 'Uluru-Kata Tjuta is one of the world''s best for heritage and nature:
+  a sacred, glowing red monolith, ancient Anangu rock art, and the lesser-known Kata
+  Tjuta domes.'
 ---
 
 Uluru-Kata Tjuta National Park is the spiritual heart of Australia's Red Centre, a UNESCO World Heritage site in the southern Northern Territory. The park is jointly managed by its Anangu traditional owners and Parks Australia — Uluru is a deeply sacred site, and visiting it respectfully is part of the experience.

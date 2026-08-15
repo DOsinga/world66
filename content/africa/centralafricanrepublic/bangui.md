@@ -24,6 +24,8 @@ heritage: 2.4
 vibrancy: 1.7
 nature: 2.8
 off_the_beaten_track: 8.2
+profile_verdict: 'Bangui''s real draw is how far off the map it sits: decades of conflict
+  and poor infrastructure mean few travelers ever make it here.'
 ---
 
 Bangui is the capital of the Central African Republic, set on the western bank of the Oubangui River with the Democratic Republic of the Congo visible on the opposite shore. The city developed around a French military post established in 1889 and served as the administrative centre of the territory of Ubangi-Chari before independence in 1960.

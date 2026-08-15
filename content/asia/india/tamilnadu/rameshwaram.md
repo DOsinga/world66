@@ -18,6 +18,9 @@ heritage: 8.8
 vibrancy: 4.4
 nature: 2.7
 off_the_beaten_track: 2.4
+profile_verdict: 'Rameshwaram is one of the world''s best for heritage: the Ramanathaswamy
+  Temple''s corridor, among the longest anywhere, anchors a Hindu pilgrimage site
+  tied to the Ramayana''s bridge to Lanka.'
 ---
 
 Rameshwaram is one of the four sacred Char Dham pilgrimage sites for Hindus, drawing millions of pilgrims each year. It sits on Pamban Island, connected to the mainland by the striking Pamban Bridge, at the very tip of the Indian peninsula across a narrow strait from Sri Lanka. The mythology runs deep here: according to the Ramayana, this is where Lord Rama built his bridge to Lanka and later prayed to Lord Shiva to absolve himself after defeating Ravana.

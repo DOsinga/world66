@@ -30,6 +30,8 @@ heritage: 4.7
 vibrancy: 6.0
 nature: 7.0
 off_the_beaten_track: 1.8
+profile_verdict: 'Riomaggiore''s appeal is nature and setting: cliffside Cinque Terre
+  trails and terraced vineyards stacked straight above the Ligurian Sea.'
 ---
 
 Riomaggiore is the southernmost of the Cinque Terre villages, clustered in a narrow valley where the Rivus Major stream once ran down to the sea. The village stacks up both sides of the gorge in colourful towers — buildings lean against each other across the stepped lanes, with the sea visible at the bottom. It is connected to Manarola to the north by the Via dell'Amore, a cliffside path that was closed for years following landslide damage and reopened in 2024.

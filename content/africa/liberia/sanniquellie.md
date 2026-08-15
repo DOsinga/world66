@@ -20,6 +20,9 @@ heritage: 4.9
 vibrancy: 2.2
 nature: 6.3
 off_the_beaten_track: 8.8
+profile_verdict: 'Sanniquellie is one of the world''s best for getting off the beaten
+  track: a remote Nimba County town on Liberia''s borders with Guinea and Côte d''Ivoire,
+  rebuilding after civil war.'
 ---
 
 *Africa > [Liberia](/africa/liberia) > Sanniquellie*

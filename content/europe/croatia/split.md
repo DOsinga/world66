@@ -29,6 +29,8 @@ heritage: 4.1
 vibrancy: 6.3
 nature: 5.7
 off_the_beaten_track: 1.7
+profile_verdict: 'Split''s charm is its buzz and setting: the Riva promenade''s bars
+  and ferry crowds sit right below Marjan hill and the nearby islands.'
 ---
 
 Split is Croatia's second city and the capital of the Dalmatian coast — a working port that doubles, almost incidentally, as one of the best-preserved Roman sites in Europe. The city has grown up inside and around the walls of [Diocletian's Palace](/europe/croatia/split/diocletians_palace), an enormous 3rd-century imperial retirement complex that is still fully inhabited. Around 3,000 people live inside the palace walls today; the rest of the city has spread along the coast and up the hills behind.

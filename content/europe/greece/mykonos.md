@@ -29,6 +29,9 @@ heritage: 6.7
 vibrancy: 7.4
 nature: 6.3
 off_the_beaten_track: 1.0
+profile_verdict: 'Mykonos is Greece''s party island: beach clubs and nightlife running
+  noon to dawn, set against protected Cycladic architecture and the ancient ruins
+  of Delos.'
 ---
 
 Mykonos is the most famous party island in Greece, but it is also one of the most photogenic. The main town (Chora) is a maze of whitewashed alleys, blue-domed churches, and bougainvillea-draped balconies tumbling down to a harbour where fishing boats and superyachts share the waterfront. The Cycladic architecture is gorgeous and strictly protected — no neon, no tower blocks, everything dazzling white with splashes of colour.

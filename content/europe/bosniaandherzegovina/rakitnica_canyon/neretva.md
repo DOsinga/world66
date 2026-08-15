@@ -16,6 +16,9 @@ heritage: 3.4
 vibrancy: 1.1
 nature: 8.2
 off_the_beaten_track: 4.8
+profile_verdict: 'Neretva''s real draw is nature: the river runs an almost impossible
+  emerald green through a steep limestone canyon that rewards the effort to reach
+  it.'
 ---
 
 The village of Neretva sits in the upper Rakitnica Canyon area of Bosnia and Herzegovina, tucked into the rugged limestone landscape of the central Dinaric Alps. It takes its name from the [Neretva River](/europe/bosniaandherzegovina/rakitnica_canyon/neretva/neretva_headwaters), which rises nearby in the mountains above Zelengora.

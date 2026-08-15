@@ -18,6 +18,9 @@ heritage: 8.4
 vibrancy: 1.1
 nature: 6.3
 off_the_beaten_track: 7.2
+profile_verdict: 'Banteay Chhmar''s real draw is heritage: a sprawling Jayavarman
+  VII temple with face-towers like the Bayon''s, tucked near the Thai border and still
+  mostly overgrown, without Angkor''s crowds.'
 ---
 
 Banteay Chhmar is a village and temple complex in northwestern [Cambodia](/asia/cambodia), close to the Thai border and well beyond the easy Angkor circuit. The ruins date from the Angkorian period, but the mood is very different from [Siem Reap](/asia/cambodia/siemreap): fewer visitors, more silence, and a stronger sense that the jungle is still negotiating with the stone.

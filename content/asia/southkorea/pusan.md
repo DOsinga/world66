@@ -18,6 +18,9 @@ heritage: 8.6
 vibrancy: 8.2
 nature: 3.9
 off_the_beaten_track: 1.1
+profile_verdict: 'Busan is one of the world''s best for heritage and vibrancy: centuries
+  as a port city meet beach clubs, Jagalchi fish market, and a major international
+  film festival.'
 ---
 
 Busan is South Korea's second city — a sprawling port of nearly four million people wedged between steep hills and the sea. It's louder, saltier, and more working-class than Seoul: container ships crowd the horizon, the fish market starts before dawn, and the mountains drop so abruptly into the coastline that entire neighbourhoods cling to the cliffs.

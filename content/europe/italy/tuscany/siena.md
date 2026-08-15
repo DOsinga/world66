@@ -28,6 +28,9 @@ heritage: 7.3
 vibrancy: 7.1
 nature: 8.3
 off_the_beaten_track: 1.5
+profile_verdict: 'Siena''s setting is the real draw: rolling Chianti vineyards and
+  Tuscan hills around an intact medieval centre, the Duomo, Palazzo Pubblico, and
+  Piazza del Campo.'
 ---
 
 Siena is the great rival of Florence, and for many visitors the more lovable of the two. It is a medieval city virtually intact — the centre is closed to traffic, the towers and palaces of the 13th and 14th centuries still dominate the skyline, and the Piazza del Campo is one of the most beautiful urban spaces in Europe. It sits in the hills of Tuscany about 55 km south of Florence, surrounded by vineyards producing Chianti Classico.

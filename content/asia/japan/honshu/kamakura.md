@@ -26,6 +26,9 @@ heritage: 7.6
 vibrancy: 4.6
 nature: 3.9
 off_the_beaten_track: 1.8
+profile_verdict: 'Kamakura''s strength is heritage: the Great Buddha and Tsurugaoka
+  Hachimangu shrine give this seaside town real historic weight beyond its modest
+  size.'
 ---
 
 Kamakura is the ancient warrior capital of Japan, a city that ruled the country for nearly a century and a half from its fortified position on the Miura Peninsula south of Tokyo. Ringed on three sides by forested hills and open to the sea on the fourth, it is one of the most naturally defensible cities in Japan — and one of the most beautiful. Samurai history, Zen Buddhism, and excellent coastal scenery combine here in a way found nowhere else.

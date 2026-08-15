@@ -20,6 +20,9 @@ heritage: 4.4
 vibrancy: 7.5
 nature: 8.2
 off_the_beaten_track: 1.1
+profile_verdict: 'Playa del Carmen''s real draw is the coast: turquoise Caribbean
+  water, easy access to reef diving and cenotes, plus a beach-town nightlife scene
+  that keeps the strip buzzing after dark.'
 ---
 
 Playa del Carmen is the main town of the Riviera Maya, about 68 km south of Cancun along the Caribbean coast of the Yucatan Peninsula. It started as a small fishing village and departure point for ferries to Cozumel, and while it has grown considerably since the 1990s, it retains a more manageable scale than Cancun. The [beach](/northamerica/mexico/playadelcarmen/playa_del_carmen_beach) is excellent — long, white-sand, with clear water — and the reef offshore is part of the Great Maya Reef, the second-largest in the world.

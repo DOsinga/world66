@@ -18,6 +18,9 @@ heritage: 1.7
 vibrancy: 0.6
 nature: 7.9
 off_the_beaten_track: 7.6
+profile_verdict: 'Qaanaaq sits far off any beaten track: one of the world''s northernmost
+  towns, reachable only by small plane or boat, where Inuit hunting life still shapes
+  the year.'
 ---
 
 Qaanaaq is one of the northernmost towns in the world, a settlement of about 600 people on the shore of Inglefield Bredning in the far northwest of Greenland. The town was established in 1953 when the inhabitants of the original Thule settlement were relocated to make way for the expansion of the American air base at Pituffik (Thule Air Base), about 100 kilometres to the south.

@@ -18,6 +18,9 @@ heritage: 9.1
 vibrancy: 2.8
 nature: 2.7
 off_the_beaten_track: 6.7
+profile_verdict: 'Herat is one of the world''s best for heritage: a Silk Road city
+  of Timurid minarets and the tiled Friday Mosque, though war and Taliban rule complicate
+  any visit.'
 ---
 
 Herat is the third city of Afghanistan and its most cultured. Close to the Iranian border, it has always looked west — the architecture is Persian, the language is Dari, and the atmosphere feels more like Isfahan than Kabul. In the 1970s it was the gateway for hippies entering Afghanistan overland from Iran.

@@ -17,6 +17,9 @@ heritage: 3.5
 vibrancy: 2.4
 nature: 8.3
 off_the_beaten_track: 5.4
+profile_verdict: 'Koror''s real draw is nature: gateway to the limestone Rock Islands,
+  turquoise lagoons, and Jellyfish Lake, with diving and snorkeling that draw visitors
+  from across the Pacific.'
 ---
 
 Koror is Palau's main island and the country's commercial heart — the place where nearly everyone stays, eats, and gears up for the underwater adventures that make Palau famous. It is a compact, walkable town with a mix of Japanese colonial relics, concrete shophouses, and dive shops lining the main road. Don't mistake busyness for charm: Koror is a functional base, not a destination in itself.

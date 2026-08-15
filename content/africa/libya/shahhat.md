@@ -17,6 +17,9 @@ heritage: 6.7
 vibrancy: 2.5
 nature: 4.1
 off_the_beaten_track: 8.9
+profile_verdict: 'Shahhat is one of the world''s most off-the-beaten-track places:
+  it sits amid the ruins of ancient Cyrene, reachable only through a Libya still gripped
+  by instability.'
 ---
 
 Shahhat is a modern town in the Jebel Akhdar, but the reason to come is ancient [Cyrene](/africa/libya/shahhat/cyrene_archaeological_site), one of the great Greek and Roman sites of North Africa. The ruins sit just north of town on a ridge above the green folds of Cyrenaica, with the Mediterranean somewhere beyond the hills.

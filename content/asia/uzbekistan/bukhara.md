@@ -18,6 +18,9 @@ heritage: 10.0
 vibrancy: 5.0
 nature: 1.1
 off_the_beaten_track: 8.5
+profile_verdict: 'Bukhara is one of the world''s best for heritage: this Silk Road
+  city''s old town holds the soaring Kalyan Minaret, the ancient Ark fortress, and
+  madrasas dating back centuries.'
 ---
 
 Bukhara is one of the most famous cities on the ancient Silk Road. [Samarkand](/asia/uzbekistan/samarkand) is maybe a bit more famous, but Bukhara wins hands down when it comes to atmosphere. This city is alive.

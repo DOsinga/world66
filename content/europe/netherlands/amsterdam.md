@@ -31,6 +31,8 @@ heritage: 6.7
 vibrancy: 9.6
 nature: 3.1
 off_the_beaten_track: 0.4
+profile_verdict: 'Amsterdam is one of the world''s best for vibrancy: cycling culture,
+  coffeeshops, and nightlife that spills along every canal.'
 ---
 
 Amsterdam is one of the most walkable cities in Europe, and the canal ring at its centre is genuinely as beautiful as advertised. Seventeen canals, 1,200 bridges, and rows of narrow gabled houses built during the 17th-century Golden Age when this was the wealthiest city on earth — it adds up to a place that rewards slow wandering more than any itinerary can capture.

@@ -27,6 +27,9 @@ heritage: 9.4
 vibrancy: 6.0
 nature: 8.3
 off_the_beaten_track: 2.6
+profile_verdict: 'Siem Reap is one of the world''s best for heritage: Angkor''s temples
+  form the greatest concentration of medieval monuments on earth, set among jungle-strangled
+  ruins like Ta Prohm.'
 ---
 
 **Siem Reap** — "Defeat of Siam" — is the gateway to the greatest concentration of medieval monuments on earth. [Angkor Wat](/asia/cambodia/siemreap/angkor_wat), [Angkor Thom](/asia/cambodia/siemreap/angkor_thom), [Ta Prohm](/asia/cambodia/siemreap/ta_prohm), [Preah Khan](/asia/cambodia/siemreap/preah_khan), and a hundred other temples spread across the Angkor Archaeological Park are the reason most people come, and three days is the practical minimum to see the essentials. The city itself is small and walkable, sitting on the Siem Reap River between a canal and the southern edge of the park.

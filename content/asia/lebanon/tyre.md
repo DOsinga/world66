@@ -17,6 +17,9 @@ heritage: 9.2
 vibrancy: 3.4
 nature: 5.7
 off_the_beaten_track: 4.3
+profile_verdict: 'Tyre is one of the world''s best for heritage: this ancient Phoenician
+  port holds one of the best-preserved Roman hippodromes on earth, still standing
+  beside the Mediterranean.'
 ---
 
 Tyre (Sour in Arabic) was one of the great cities of the ancient world -- a Phoenician powerhouse that defied Nebuchadnezzar for 13 years and held out against Alexander the Great for seven months before he built a causeway from the shore to the island fortress. That causeway silted up over the centuries, turning the island into a peninsula. In 1980, UNESCO designated Tyre a World Heritage site for its impressive Roman and Phoenician remains.

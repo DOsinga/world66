@@ -14,6 +14,9 @@ heritage: 9.5
 vibrancy: 2.2
 nature: 3.6
 off_the_beaten_track: 6.1
+profile_verdict: 'Samarra is one of the world''s best for heritage: the spiral minaret
+  of the ninth-century Great Mosque towers over an Abbasid capital, though sectarian
+  violence and security risks shadow visits.'
 ---
 
 Samarra is a city on the Tigris about 125 km north of Baghdad. For most of the 9th century it served as the capital of the Abbasid Caliphate, and from that period survive some extraordinary monuments.

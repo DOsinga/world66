@@ -18,6 +18,8 @@ heritage: 6.0
 vibrancy: 7.3
 nature: 8.5
 off_the_beaten_track: 1.3
+profile_verdict: 'Seminyak''s version of nature is its beach: a wide, west-facing
+  sweep of sand with reliable surf and some of Bali''s best sunsets.'
 ---
 
 Seminyak is [Bali](/asia/indonesia/bali)'s upmarket beach strip, running north from [Kuta](/asia/indonesia/bali/kuta) and Legian along the west coast. What was once a quiet township is now the island's centre for boutique shopping, international restaurants, and beach clubs — a world away from Kuta's backpacker scene just down the road.

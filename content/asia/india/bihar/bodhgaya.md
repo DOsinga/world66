@@ -17,6 +17,8 @@ heritage: 8.5
 vibrancy: 4.4
 nature: 3.0
 off_the_beaten_track: 2.7
+profile_verdict: 'Bodh Gaya is one of the world''s best for heritage: the Mahabodhi
+  Temple and the sacred Bodhi tree mark the spot where the Buddha reached enlightenment.'
 ---
 
 Bodh Gaya is where Siddhartha Gautama sat beneath a pipal tree and became the Buddha. That single event, some 2,500 years ago, made this small town in Bihar one of the most important pilgrimage sites in the world. Today it draws thousands of Buddhist monks, nuns, and pilgrims from across Asia, alongside a steady stream of curious travelers.

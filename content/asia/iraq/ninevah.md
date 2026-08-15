@@ -18,6 +18,9 @@ heritage: 8.7
 vibrancy: 2.3
 nature: 1.6
 off_the_beaten_track: 5.5
+profile_verdict: 'Nineveh is one of the world''s best for heritage: this ancient Assyrian
+  capital near Mosul once rivaled Babylon, though war and looting have devastated
+  much of what survived.'
 ---
 
 Nineveh was once the greatest city in the world — capital of the Assyrian Empire at its height, home to perhaps half a million people, and the political and cultural hub of the ancient Near East. At its peak under Sennacherib (704–681 BC), the city enclosed an area of roughly 750 hectares within walls twelve kilometres in circumference, pierced by fifteen gates each named after an Assyrian deity. It fell in 612 BC when a coalition of Medes and Babylonians sacked and burned it, fulfilling the prophecies that had made its name synonymous with pride before a fall.

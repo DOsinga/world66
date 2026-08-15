@@ -17,6 +17,9 @@ heritage: 8.5
 vibrancy: 3.8
 nature: 3.9
 off_the_beaten_track: 4.3
+profile_verdict: 'Palenque is one of the world''s best for heritage: this Maya city
+  rises from Chiapas jungle, its Temple of the Inscriptions holding the tomb of King
+  Pakal.'
 ---
 
 Palenque sits in the foothills of the Sierra Madre de Chiapas, where the highlands drop towards the Gulf Coast lowlands and the jungle gets thick and wet. Most travellers come for the ruins — the ancient Maya city of Palenque, set into a forested hillside at the edge of the modern town, is one of the finest archaeological sites in the Americas.

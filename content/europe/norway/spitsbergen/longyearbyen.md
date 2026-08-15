@@ -17,6 +17,9 @@ heritage: 5.0
 vibrancy: 2.3
 nature: 8.6
 off_the_beaten_track: 8.1
+profile_verdict: 'Longyearbyen is one of the world''s best for nature and famously
+  remote: the northernmost town on earth, ringed by glaciers, polar bears, and permanent
+  snow.'
 ---
 
 Longyearbyen is the administrative capital of Svalbard and the main gateway for visitors to the archipelago. Named after the American coal magnate John Munro Longyear, who opened the first mine here in 1906, the town sits in the Longyear Valley surrounded by mountains and glaciers. With around 2,500 inhabitants — scientists, miners, tourism workers, and their families — it is the world's northernmost settlement of any real size.

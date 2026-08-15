@@ -17,6 +17,9 @@ heritage: 5.4
 vibrancy: 6.0
 nature: 10.0
 off_the_beaten_track: 4.7
+profile_verdict: 'El Calafate is the world''s best for nature, full stop: it''s the
+  gateway to the Perito Moreno Glacier, a wall of ice you can watch calve into Lago
+  Argentino.'
 ---
 
 El Calafate is the gateway town for Los Glaciares National Park, sitting on the shore of Lago Argentino about an hour's drive from the glaciers. The town itself is small and tourist-oriented, but you are not here for the town -- you are here for the ice.

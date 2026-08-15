@@ -14,6 +14,9 @@ heritage: 5.7
 vibrancy: 2.5
 nature: 4.6
 off_the_beaten_track: 9.4
+profile_verdict: 'Burao is one of the world''s most off-the-beaten-track cities: a
+  dusty livestock-trading hub in Somaliland''s interior, with almost no tourist infrastructure
+  and rare, generous hospitality for those who make it.'
 ---
 
 Burao is the second largest city in [Somaliland](/africa/somaliland) and the capital of the Togdheer region, sitting in the dry central plains roughly halfway between Hargeisa and the coast. It is a major [livestock market](/africa/somaliland/burao/livestock_market) — the trade in camels, goats, and sheep is the economic backbone of the city and the surrounding pastoral communities.

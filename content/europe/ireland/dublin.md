@@ -29,6 +29,9 @@ heritage: 7.8
 vibrancy: 7.9
 nature: 6.4
 off_the_beaten_track: 0.9
+profile_verdict: 'Dublin''s real draw is vibrancy: legendary pub culture around Temple
+  Bar, live trad music most nights, and a literary heritage running from Joyce to
+  Wilde.'
 ---
 
 Dublin is a compact, walkable capital that is easy to underestimate. The city itself is smaller than most European capitals — the old centre can be crossed on foot in twenty minutes — but it has produced four Nobel laureates in literature, three of the most famous pubs in the world, and a cultural life that punches well above its weight. You come for the pubs, the books, and the people; most visitors leave wanting to come back.

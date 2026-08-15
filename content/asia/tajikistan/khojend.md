@@ -18,6 +18,9 @@ heritage: 2.8
 vibrancy: 4.5
 nature: 8.3
 off_the_beaten_track: 9.2
+profile_verdict: 'Khujand is one of the world''s best for off-the-beaten-track travel
+  and nature: an ancient Silk Road city on the Syr Darya, ringed by the wild Fann
+  Mountains.'
 ---
 
 Khujand (also spelled Khojend or Khudjand) is Tajikistan's second city and the capital of the northern Sughd province. It sits in the Fergana Valley, a fertile lowland shared with Uzbekistan and Kyrgyzstan, and has a more relaxed and prosperous feel than Dushanbe. The population is around 180,000.

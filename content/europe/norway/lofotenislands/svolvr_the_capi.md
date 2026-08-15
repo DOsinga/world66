@@ -18,6 +18,9 @@ heritage: 2.2
 vibrancy: 2.4
 nature: 9.3
 off_the_beaten_track: 8.5
+profile_verdict: Svolvær is one of the world's best for nature — jagged Lofoten peaks,
+  the sheer Svolværgeita spire, fjords under the midnight sun — and getting here still
+  takes real effort.
 ---
 
 Svolvær is the regional centre of the Lofoten Islands, a small but lively town of around 4,500 people strung along the waterfront beneath dramatic peaks. It is the natural base for exploring the archipelago — the only place in Lofoten with a proper airport, and a port of call for the Hurtigruten coastal steamer and express ferry services.

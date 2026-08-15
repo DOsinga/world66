@@ -18,6 +18,9 @@ heritage: 3.1
 vibrancy: 1.5
 nature: 8.3
 off_the_beaten_track: 6.3
+profile_verdict: 'Bougainville''s real draw is nature: dense rainforest, active volcanoes,
+  and coastline that''s stayed remote and undeveloped, partly a legacy of the island''s
+  decade-long civil war.'
 ---
 
 Bougainville is the largest island in the Solomon Islands chain, though politically it belongs to [Papua New Guinea](/asia/papuanewguinea) as an autonomous region. It is a lush, mountainous island with dense tropical rainforest, active volcanoes, and a history as complex and painful as anywhere in the Pacific.

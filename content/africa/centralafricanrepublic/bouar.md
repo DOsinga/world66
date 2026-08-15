@@ -14,6 +14,9 @@ heritage: 3.0
 vibrancy: 2.1
 nature: 3.9
 off_the_beaten_track: 8.6
+profile_verdict: 'Bouar is one of the world''s most off-the-beaten-track destinations:
+  a remote town in Central African Republic, one of the poorest and least-visited
+  countries on earth, near scattered prehistoric standing stones.'
 ---
 
 Located close to the major border crossing with Cameroon, Bouar is a common stop for overland travellers passing through the [Central African Republic](/africa/centralafricanrepublic). The town is a bit run down, but thanks to its altitude — around 1,000 metres — the climate is more pleasant than in the lowlands.

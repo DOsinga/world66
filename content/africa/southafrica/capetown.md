@@ -27,6 +27,9 @@ heritage: 4.6
 vibrancy: 7.3
 nature: 6.7
 off_the_beaten_track: 2.2
+profile_verdict: 'Cape Town pairs vibrancy and nature well: a strong bar and restaurant
+  scene by the V&A Waterfront, with Table Mountain and penguins at Boulders Beach
+  close by.'
 ---
 
 Cape Town has the most beautiful of settings, wedged between the Atlantic and the flat-topped massif of [Table Mountain](/africa/southafrica/capetown/tablemountain). Combine that with a Mediterranean climate, a layered colonial and post-apartheid history, and one of the most varied collections of sights in any African city, and you have one of the world's great travel destinations.

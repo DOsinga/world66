@@ -18,6 +18,8 @@ heritage: 6.0
 vibrancy: 7.6
 nature: 7.2
 off_the_beaten_track: 1.2
+profile_verdict: 'Cozumel''s real draw is vibrancy: a lively cruise-port buzz around
+  the malecón and San Miguel''s plaza, with bars filling up every time a ship docks.'
 ---
 
 Cozumel is a small island off the coast of [Yucatán](/northamerica/mexico/yucatan), 19 kilometres across the channel from Playa del Carmen. It is one of Mexico's premier dive destinations, with the western shore fringed by the Mesoamerican Barrier Reef — the second-largest reef system in the world — and water clarity that often exceeds 30 metres.

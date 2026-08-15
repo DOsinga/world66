@@ -29,6 +29,8 @@ heritage: 8.3
 vibrancy: 5.6
 nature: 0.8
 off_the_beaten_track: 2.3
+profile_verdict: 'Agra is essential Mughal history: the Taj Mahal, Agra Fort, and
+  Fatehpur Sikri, unmatched sights in an otherwise busy, traffic-choked city.'
 ---
 
 People come to Agra for one thing: the [Taj Mahal](/asia/india/uttarpradesh/agra/tajmahal). The mausoleum that Shah Jahan built for his wife Mumtaz Mahal — twenty years of work, twenty thousand craftsmen, a building of white marble that seems to change colour with the hour — is the single most famous monument in India and one of the few that lives up to every expectation. See it once at dawn, once at sunset, and you will not regret coming.

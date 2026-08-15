@@ -18,6 +18,9 @@ heritage: 4.0
 vibrancy: 1.6
 nature: 8.3
 off_the_beaten_track: 6.4
+profile_verdict: 'Hopkins'' real draw is nature: a Garifuna beach village with calm
+  swimmable water, a reef a short boat ride out, and snorkeling trips to Glover''s
+  Reef.'
 ---
 
 Hopkins is a Garifuna fishing village on the southern coast, about 45 km south of Dangriga. It's one of the best places in Belize to slow down, eat well, and experience Garifuna culture without the package-resort crowds.

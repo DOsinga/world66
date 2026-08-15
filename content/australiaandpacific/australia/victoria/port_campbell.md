@@ -15,6 +15,8 @@ heritage: 2.8
 vibrancy: 2.6
 nature: 8.1
 off_the_beaten_track: 2.8
+profile_verdict: 'Port Campbell''s real draw is nature: it''s the base for the Twelve
+  Apostles, the dramatic limestone sea stacks along Victoria''s Great Ocean Road.'
 ---
 
 Port Campbell is the small coastal town at the centre of the Shipwreck Coast's most famous scenery. It would be easy to treat it as just a bed near the [Twelve Apostles](/australiaandpacific/australia/victoria/port_campbell/twelve_apostles), but the setting is better than that: a sheltered bay, a little jetty, cliff walks, and limestone formations close enough to revisit when the light changes.

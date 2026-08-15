@@ -18,6 +18,9 @@ heritage: 2.4
 vibrancy: 1.5
 nature: 1.2
 off_the_beaten_track: 7.5
+profile_verdict: 'Aleppo''s off-the-beaten-track ranking reflects hard reality: years
+  of civil war devastated its ancient citadel and souks, and safe, straightforward
+  travel there still isn''t guaranteed.'
 ---
 
 Aleppo is one of the oldest continuously inhabited cities in the world, with roots stretching back at least eight thousand years. Before the war, it was Syria's largest city and its commercial heart — a place where Ottoman merchants, Armenian craftsmen, and Bedouin traders had done business for centuries in the same covered souks. Then came the siege of 2012–2016, and much of the old city was reduced to rubble.

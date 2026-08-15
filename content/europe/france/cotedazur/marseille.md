@@ -19,6 +19,9 @@ heritage: 7.9
 vibrancy: 7.5
 nature: 6.2
 off_the_beaten_track: 2.5
+profile_verdict: 'Marseille''s real draw is vibrancy: a raw, unpolished port city
+  of North African, Comorian, and Italian communities, fresh bouillabaisse on the
+  Vieux-Port, and street life that never plays it safe.'
 ---
 
 Marseille is France's oldest and second-largest city, founded by Greek sailors from Phocaea around 600 BCE. It sits in a dramatic setting on the Mediterranean coast, built around the Vieux-Port and climbing up the hills behind it. The golden statue of the Virgin Mary atop [Notre-Dame de la Garde](/europe/france/cotedazur/marseille/notredamedelagarde) watches over the whole city from the highest point.

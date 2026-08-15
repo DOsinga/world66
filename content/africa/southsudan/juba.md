@@ -24,6 +24,9 @@ heritage: 5.0
 vibrancy: 1.5
 nature: 2.1
 off_the_beaten_track: 7.7
+profile_verdict: 'Juba''s real draw is off the beaten track: it''s the capital of
+  the world''s newest country, still rebuilding after civil war, with almost no tourist
+  infrastructure.'
 ---
 
 Juba is South Sudan's capital and the only real urban base for anyone who ends up travelling in the country. It is not an easy city and it is not a conventional leisure stop. Security is volatile, infrastructure is rough, prices are high, and most foreign visitors are here for work, reporting, aid, research, or diplomacy.

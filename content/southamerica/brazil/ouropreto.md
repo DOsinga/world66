@@ -18,6 +18,9 @@ heritage: 8.9
 vibrancy: 3.1
 nature: 3.3
 off_the_beaten_track: 3.1
+profile_verdict: 'Ouro Preto is one of the world''s best for heritage: a colonial
+  gold-mining town of gilded baroque churches, Aleijadinho''s sculpture, and cobbled
+  streets that plotted Brazil''s first bid for independence.'
 ---
 
 Ouro Preto (formerly Vila Rica — "Rich Town") made its fortune from gold, and then renamed itself after the black gold ore that defined it. The colonial-era wealth is still written across the town in baroque churches, grand mansions, and cobblestone streets that climb steep hillsides to offer views of the surrounding mountains.

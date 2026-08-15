@@ -20,6 +20,9 @@ heritage: 6.0
 vibrancy: 3.1
 nature: 8.5
 off_the_beaten_track: 2.4
+profile_verdict: 'Ambleside is one of the world''s best for nature: gateway to the
+  Lake District''s fells, Windermere''s shores, and classic walks like the Fairfield
+  Horseshoe.'
 ---
 
 Ambleside is the Lake District town that best balances scenery with usefulness. It sits just above Waterhead, at the northern end of [Windermere](/europe/unitedkingdom/england/lakedistrict/windermere), with stone streets full of outdoor shops, walkers drying waterproofs in pub corners, and fells rising almost immediately behind the roofs.

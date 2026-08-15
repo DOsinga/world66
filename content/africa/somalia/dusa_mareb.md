@@ -14,6 +14,9 @@ heritage: 4.1
 vibrancy: 1.7
 nature: 5.3
 off_the_beaten_track: 9.4
+profile_verdict: 'Dhuusamarreeb ranks among the world''s most remote travel destinations:
+  a semi-arid central Somali state capital in a country still rebuilding after decades
+  of conflict.'
 ---
 
 Dhuusamarreeb (also spelled Dusa Mareb) is the capital of the Galmudug federal state in central Somalia. It sits in the semi-arid interior, roughly midway between Mogadishu and Garowe. The town has been a contested flashpoint in clan conflicts and al-Shabaab activity, and the federal government has struggled to maintain control of the surrounding Galguduud region.

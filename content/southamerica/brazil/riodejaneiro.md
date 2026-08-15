@@ -30,6 +30,9 @@ heritage: 6.8
 vibrancy: 8.0
 nature: 6.6
 off_the_beaten_track: 1.2
+profile_verdict: 'Rio''s vibrancy and heritage carry it: Copacabana nights, samba,
+  and Carnival''s century-old traditions, with Christ the Redeemer watching over it
+  all.'
 ---
 
 Rio de Janeiro is one of the most spectacular cities in the world. A natural harbour ringed by steep green mountains, with golden beaches curving along the coast and the iconic Christ the Redeemer statue presiding over it all from the peak of Corcovado. No photograph does it justice — you have to stand on Sugar Loaf Mountain and take in the 360-degree panorama of Guanabara Bay, the city sprawling between jungle-covered peaks, and the Atlantic stretching to the horizon.

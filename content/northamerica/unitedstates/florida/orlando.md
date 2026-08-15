@@ -20,6 +20,8 @@ heritage: 1.6
 vibrancy: 7.8
 nature: 8.1
 off_the_beaten_track: 0.9
+profile_verdict: 'Orlando''s real draw is vibrancy: Walt Disney World and Universal''s
+  theme parks generate a nonstop, family-fueled buzz that few other cities can match.'
 ---
 
 Orlando is the theme park capital of the world. [Walt Disney World](/northamerica/unitedstates/florida/orlando/disney_world) and [Universal Orlando](/northamerica/unitedstates/florida/orlando/universal_orlando) anchor a sprawling entertainment district south-west of the actual city, with [SeaWorld](/northamerica/unitedstates/florida/orlando/seaworld), [Gatorland](/northamerica/unitedstates/florida/orlando/gatorland), and a string of smaller attractions filling the gaps. On any given day there are more visitors inside the parks than there are residents of downtown Orlando.

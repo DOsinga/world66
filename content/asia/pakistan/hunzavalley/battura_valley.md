@@ -17,6 +17,8 @@ heritage: 2.4
 vibrancy: 0.5
 nature: 7.7
 off_the_beaten_track: 7.5
+profile_verdict: 'Battura Valley''s draw is sheer remoteness: it''s home to the Batura
+  Glacier, one of the longest ice rivers outside the polar regions, deep in the Karakoram.'
 ---
 
 Battura Valley — also written Batura — cuts north from the Karakoram Highway near Passu in upper Hunza, and is dominated by the Batura Glacier, one of the longest glaciers outside the polar regions. The glacier stretches for nearly 60 kilometres through the mountains and draws serious trekkers and mountaineers willing to make the journey.

@@ -28,6 +28,9 @@ heritage: 5.6
 vibrancy: 5.7
 nature: 5.4
 off_the_beaten_track: 1.9
+profile_verdict: 'Annecy''s charm is a lively lakeside pace: summer festivals, an
+  11th-century Savoy castle, and the canal-bound Palais de l''Île around a clean Alpine
+  lake.'
 ---
 
 Annecy sits at the northern tip of [Lake Annecy](/europe/france/alpes/annecy/lake_annecy), ringed by mountains that still carry snow well into spring. The [old town](/europe/france/alpes/annecy/vieille_ville) is built around a canal that runs from the lake through cobbled streets lined with pastel-coloured houses — locals call it the Venice of the Alps, and for once the comparison is not entirely absurd.

@@ -14,6 +14,9 @@ heritage: 2.4
 vibrancy: 0.5
 nature: 7.5
 off_the_beaten_track: 7.5
+profile_verdict: 'Khatgal''s real draw is remoteness: a lakeside outpost on the edge
+  of Siberia where horse treks reach some of the last nomadic reindeer herders in
+  the region.'
 ---
 
 Khatgal is a small settlement at the southern tip of [Lake Khövsgöl](/asia/mongolia/khovsgol/khatgal/lake_khovsgol), the gateway to one of Mongolia's most beautiful landscapes. The lake — often called the "Blue Pearl of Mongolia" — sits at 1,645 metres, holds nearly 70 percent of the country's fresh water, and is so clear you can see the bottom in places several metres deep.

@@ -24,6 +24,7 @@ from functools import lru_cache
 from pathlib import Path
 
 import frontmatter
+import numpy as np
 from django.conf import settings
 
 from . import github
@@ -869,16 +870,31 @@ DIMENSION_LABELS = {
     "nature": "Nature",
     "off_the_beaten_track": "Off The Beaten Track",
 }
-# Theoretical max Euclidean distance between two points in the N-dim 0-10
-# score space (sqrt(N * 10**2)) — used to normalize distance into a 0-100
-# "match" percentage for the similar-places chips.
-_MAX_DIMENSION_DISTANCE = (len(DIMENSION_FIELDS) * 10 ** 2) ** 0.5
+HIDDEN_VECTORS_FILE = Path(settings.BASE_DIR) / "scoring" / "data" / "all_location_hidden_12.npz"
+# Hidden values are tanh-bounded to [-1, 1] (verified against the actual data),
+# so the theoretical max Euclidean distance between two 12-dim points is
+# sqrt(12 * 2**2) — used to normalize distance into a 0-100 "match" percentage.
+_MAX_HIDDEN_DISTANCE = (12 * 2 ** 2) ** 0.5
+
+
+@lru_cache(maxsize=1)
+def _load_hidden_vectors():
+    """Load the scoring model's raw 12-dim hidden vectors per location (see
+    scoring/SCORING.md's pipeline) as (paths list, N x 12 float32 matrix,
+    {path: row index}). This is the model's own internal representation
+    used for "similar places" — richer than the 4 public dimensions, but
+    un-curated (produced before the human-edited steering/calibration step)
+    and not visible/interpretable anywhere on the page itself."""
+    data = np.load(HIDDEN_VECTORS_FILE, allow_pickle=True)
+    paths = [str(p) for p in data["paths"]]
+    matrix = data["hidden"]
+    return paths, matrix, {p: i for i, p in enumerate(paths)}
 
 
 @lru_cache(maxsize=1)
 def load_dimension_index():
-    """Scan all content files and return {path: (5 dimension scores)} for every
-    location that has all five (see tools/backfill_dimension_scores.py)."""
+    """Scan all content files and return {path: (4 dimension scores)} for every
+    location that has all four (see scoring/backfill_dimension_scores.py)."""
     index = {}
     for md_file in sorted(CONTENT_DIR.rglob("*.md")):
         result = _load_md(md_file)
@@ -919,18 +935,17 @@ def dimension_percentile(field, value):
 
 
 def _ranked_by_distance(path):
-    """[(other_path, distance), ...] sorted nearest-first, excluding path itself."""
-    index = load_dimension_index()
-    vector = index.get(path)
-    if vector is None:
+    """[(other_path, distance), ...] sorted nearest-first, excluding path itself.
+    Vectorized over the 12-dim hidden-vector matrix (one subtraction + norm +
+    argsort over ~9k rows), not a per-pair Python loop — stays fast regardless
+    of traffic."""
+    paths, matrix, index_by_path = _load_hidden_vectors()
+    row = index_by_path.get(path)
+    if row is None:
         return []
-    return sorted(
-        (
-            (other, sum((a - b) ** 2 for a, b in zip(vector, index[other])) ** 0.5)
-            for other in index if other != path
-        ),
-        key=lambda pair: pair[1],
-    )
+    distances = np.linalg.norm(matrix - matrix[row], axis=1)
+    order = np.argsort(distances)
+    return [(paths[i], float(distances[i])) for i in order if paths[i] != path]
 
 
 def _country_path(path):
@@ -978,7 +993,7 @@ def find_similar_with_match_grouped(path, k=3):
     for other_path, distance in _ranked_by_distance(path):
         if len(same) >= k and len(other) >= k:
             break
-        match_pct = round(100 * (1 - distance / _MAX_DIMENSION_DISTANCE))
+        match_pct = round(100 * (1 - distance / _MAX_HIDDEN_DISTANCE))
         bucket = same if _country_path(other_path) == country else other
         if len(bucket) < k:
             bucket.append((other_path, match_pct))

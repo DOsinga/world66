@@ -97,8 +97,15 @@
           <div class="score-profile-bar-track">
             <div class="score-profile-bar-fill" style="width: {{ row.width_pct }}%"></div>
           </div>
-          {% if row.alternative %}
-          <a href="{{ row.alternative.page.get_absolute_url }}" class="score-profile-row-alt">{{ row.alternative.page.title }} scores higher ({{ row.alternative.score }})</a>
+          {% if row.alternatives %}
+          <div class="score-profile-row-alts">
+            <div class="score-profile-similar-label">Higher in {{ row.parent_title }}</div>
+            <div class="score-profile-chips">
+              {% for alt in row.alternatives %}
+              <a href="{{ alt.page.get_absolute_url }}" class="score-profile-chip">{{ alt.page.title }} <span class="score-profile-chip-match">{{ alt.score }}</span></a>
+              {% endfor %}
+            </div>
+          </div>
           {% endif %}
         </div>
         {% endfor %}
@@ -111,17 +118,6 @@
         <div class="score-profile-similar-label">Similar in {{ country_title }}</div>
         <div class="score-profile-chips">
           {% for item in similar_in_country %}
-          <a href="{{ item.page.get_absolute_url }}" class="score-profile-chip">{{ item.page.title }} <span class="score-profile-chip-match">{{ item.match_pct }}%</span></a>
-          {% endfor %}
-        </div>
-      </div>
-      {% endif %}
-
-      {% if similar_elsewhere %}
-      <div class="score-profile-similar">
-        <div class="score-profile-similar-label">Similar Elsewhere</div>
-        <div class="score-profile-chips">
-          {% for item in similar_elsewhere %}
           <a href="{{ item.page.get_absolute_url }}" class="score-profile-chip">{{ item.page.title }} <span class="score-profile-chip-match">{{ item.match_pct }}%</span></a>
           {% endfor %}
         </div>

@@ -957,27 +957,28 @@ def find_similar_with_match_grouped(path, k=3):
     return same, other
 
 
-def find_dimension_alternatives(path):
-    """For each dimension, the highest-scoring "nearby" location (one that
-    shares this path's immediate parent directory — the same region/country
-    it actually sits in, not just the same country broadly) that beats it on
-    that dimension. Returns {field: (other_path, other_score) or None}; None
-    when nothing under the same parent scores higher (including when there
-    are no other scored siblings at all)."""
+def find_dimension_alternatives(path, k=3):
+    """For each dimension, up to k "nearby" locations (sharing this path's
+    immediate parent directory — the region/country it actually sits in, not
+    just the same country broadly) that beat it on that dimension, highest
+    first. Returns {field: [(other_path, other_score), ...]} — an empty list
+    when nothing under the same parent scores higher, including when there
+    are no other scored siblings at all."""
     index = load_dimension_index()
     vector = index.get(path)
-    best = {field: None for field in DIMENSION_FIELDS}
+    candidates = {field: [] for field in DIMENSION_FIELDS}
     if vector is None or "/" not in path:
-        return best
+        return candidates
 
     parent = path.rsplit("/", 1)[0]
     for other_path, other_vector in index.items():
         if other_path == path or other_path.rsplit("/", 1)[0] != parent:
             continue
         for i, field in enumerate(DIMENSION_FIELDS):
-            if other_vector[i] <= vector[i]:
-                continue
-            current = best[field]
-            if current is None or other_vector[i] > current[1]:
-                best[field] = (other_path, other_vector[i])
-    return best
+            if other_vector[i] > vector[i]:
+                candidates[field].append((other_path, other_vector[i]))
+
+    return {
+        field: sorted(items, key=lambda pair: pair[1], reverse=True)[:k]
+        for field, items in candidates.items()
+    }

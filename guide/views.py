@@ -524,25 +524,29 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     dimension_rows = []
     verdict_html = None
     similar_in_country = []
-    similar_elsewhere = []
     country_title = ''
     if page.page_type == 'location' and all(page.meta.get(f) is not None for f in DIMENSION_FIELDS):
         scored = sorted(
             ((f, float(page.meta[f])) for f in DIMENSION_FIELDS),
             key=lambda pair: pair[1], reverse=True,
         )
-        alternatives = find_dimension_alternatives(page.path)
+
+        parent_title = ''
+        if '/' in page.path:
+            parent_page = load_page(page.path.rsplit('/', 1)[0])
+            parent_title = parent_page.title if parent_page else ''
+
+        alternatives_by_field = find_dimension_alternatives(page.path)
         for f, value in scored:
             label = DIMENSION_LABELS[f]
             pct = dimension_percentile(f, value)
             percentile_label = f"Top {max(1, round(pct))}%" if pct <= 50 else "—"
 
-            alternative = None
-            alt = alternatives.get(f)
-            if alt:
-                alt_page = load_page(alt[0])
+            alternatives = []
+            for alt_path, alt_score in alternatives_by_field.get(f, []):
+                alt_page = load_page(alt_path)
                 if alt_page:
-                    alternative = {'page': alt_page, 'score': f"{alt[1]:.1f}"}
+                    alternatives.append({'page': alt_page, 'score': f"{alt_score:.1f}"})
 
             dimension_rows.append({
                 'field': f,
@@ -553,7 +557,8 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
                 'blurb': f"{label} scores {value:.1f}/10, placing {page.title} in the top "
                          f"{max(1, round(pct))}% of all destinations." if pct <= 50 else
                          f"{label} scores {value:.1f}/10 for {page.title} — not this destination's strongest suit.",
-                'alternative': alternative,
+                'alternatives': alternatives,
+                'parent_title': parent_title,
             })
 
         noun = 'city' if page.meta.get('loc_type') == 'city' else 'destination'
@@ -562,19 +567,13 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
             f"{page.title} is a <em>{top_two[0]}</em> {noun} first, <em>{top_two[1]}</em> second."
         )
 
-        same_country, other_country = find_similar_with_match_grouped(page.path)
+        same_country, _ = find_similar_with_match_grouped(page.path)
         for similar_path, match_pct in same_country:
             similar_page = load_page(similar_path)
             if similar_page:
                 similar_in_country.append({'page': similar_page, 'match_pct': match_pct})
-        for similar_path, match_pct in other_country:
-            similar_page = load_page(similar_path)
-            if similar_page:
-                similar_elsewhere.append({'page': similar_page, 'match_pct': match_pct})
         if len(similar_in_country) < 3:
             similar_in_country = []
-        if len(similar_elsewhere) < 3:
-            similar_elsewhere = []
         if similar_in_country:
             country_path = "/".join(page.path.split('/')[:2])
             country_page = load_page(country_path)
@@ -654,7 +653,6 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "dimension_rows": dimension_rows,
         "verdict_html": verdict_html,
         "similar_in_country": similar_in_country,
-        "similar_elsewhere": similar_elsewhere,
         "country_title": country_title,
         "url_prefix": page.url_prefix,
     })

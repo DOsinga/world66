@@ -37,6 +37,8 @@ heritage: 6.0
 vibrancy: 9.2
 nature: 6.0
 off_the_beaten_track: 1.0
+profile_verdict: 'Barcelona is one of the world''s best for vibrancy: La Rambla, tapas
+  bars, beach clubs, and nightlife that runs straight through till dawn.'
 ---
 
 Barcelona is one of those rare cities that genuinely lives up to its reputation. The capital of Catalonia sprawls along the Mediterranean coast, hemmed in by hills and sea, and packs more architectural spectacle, street life and sheer creative energy into its neighbourhoods than most countries manage in their entirety.

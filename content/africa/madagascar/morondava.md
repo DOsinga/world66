@@ -11,6 +11,9 @@ heritage: 2.3
 vibrancy: 1.3
 nature: 8.3
 off_the_beaten_track: 4.9
+profile_verdict: 'Morondava''s real draw is nature: the Avenue of the Baobabs, a dirt
+  road lined with centuries-old giants, turns fiery orange at sunset just outside
+  town.'
 ---
 
 Morondava is a coastal town on Madagascar's west coast, 700 km south of Antananarivo. It is the main base for visiting the Avenue of the Baobabs — the famous dirt road flanked by giant baobab trees (Adansonia grandidieri) that have become Madagascar's most photographed landscape. The trees, some over 30 metres tall and up to 800 years old, glow gold in the late afternoon light before sunset. Most visitors plan their arrival around dusk.

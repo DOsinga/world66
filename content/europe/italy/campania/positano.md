@@ -31,6 +31,8 @@ heritage: 6.2
 vibrancy: 8.2
 nature: 5.8
 off_the_beaten_track: 2.3
+profile_verdict: 'Positano''s real draw is its vibrancy: chic boutiques, beach clubs
+  and Michelin tables give this cliffside town a stylish, buzzing energy.'
 ---
 
 Positano is the most-photographed town on the Amalfi Coast — pastel buildings stacked up an almost vertical cliff face, a small beach wedged between rocks at the bottom, and the sea below it all. The images are accurate. It is genuinely beautiful and genuinely crowded in July and August, when the narrow streets become difficult to navigate and the beach fills entirely.

@@ -17,6 +17,9 @@ heritage: 6.8
 vibrancy: 2.9
 nature: 8.7
 off_the_beaten_track: 6.1
+profile_verdict: 'Gulmarg is one of the world''s best for nature: a Himalayan meadow
+  ringed by pine forest and snow peaks, with a gondola that carries you above the
+  clouds.'
 ---
 
 Gulmarg ("meadow of flowers") sits at 2,690 m in the Baramulla district, 55 km west of Srinagar. In summer it is a broad green meadow ringed by peaks and home to what is claimed to be the world's highest golf course. In winter it becomes India's premier ski resort.

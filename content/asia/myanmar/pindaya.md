@@ -16,6 +16,9 @@ heritage: 8.7
 vibrancy: 3.9
 nature: 4.9
 off_the_beaten_track: 3.5
+profile_verdict: 'Pindaya is one of the world''s best for heritage: its limestone
+  cave holds more than 8,000 gilded Buddha images, one of Myanmar''s most remarkable
+  religious sites.'
 ---
 
 **Pindaya** is a small, unhurried town in the Shan Hills of central Myanmar, set around a lake called Nattamiekan (Angels Lake). It is worth a stop on the route between [Bagan](/asia/myanmar/bagan) or [Mandalay](/asia/myanmar/mandalay) and [Inle Lake](/asia/myanmar/inlelake), and many travellers pass through in a day — though the town rewards an overnight stay.

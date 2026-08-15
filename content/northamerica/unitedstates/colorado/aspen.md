@@ -17,6 +17,8 @@ heritage: 4.0
 vibrancy: 6.6
 nature: 9.0
 off_the_beaten_track: 0.4
+profile_verdict: 'Aspen is one of the world''s best for nature: four dramatic peaks
+  ring a Rocky Mountain valley, with renowned skiing and the iconic Maroon Bells nearby.'
 ---
 
 Aspen sits at 2,400 meters in the upper Roaring Fork Valley, surrounded by some of Colorado's most dramatic peaks. It started as a silver mining town in the 1880s, went bust, and reinvented itself as a ski resort after World War II. Today it is one of America's wealthiest small towns, and the prices reflect it.

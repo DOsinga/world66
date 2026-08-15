@@ -14,6 +14,9 @@ heritage: 3.1
 vibrancy: 0.9
 nature: 8.4
 off_the_beaten_track: 5.5
+profile_verdict: 'Dzūkija''s real draw is nature: Lithuania''s largest national park,
+  a quiet expanse of pine forest along the Nemunas and Merkys rivers where locals
+  still forage mushrooms and berries each autumn.'
 ---
 
 Dzūkija is Lithuania's largest national park, covering dense pine and mixed forests in the southeast of the country, roughly centred between Druskininkai and Varėna. The landscape is flat and sandy, shaped by glacial outwash — long stretches of old-growth pine, wetlands, and clear rivers cutting through the forest. It feels genuinely remote in a way that few places in the Baltic states still manage.

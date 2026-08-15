@@ -19,6 +19,9 @@ heritage: 8.0
 vibrancy: 9.2
 nature: 4.1
 off_the_beaten_track: 1.5
+profile_verdict: 'Tel Aviv is one of the world''s best for vibrancy: all-night beach
+  bars, a thriving LGBTQ scene, and Bauhaus streets that keep buzzing despite the
+  region''s recurring tensions.'
 ---
 
 Tel Aviv is the most modern and westernised city in Israel, and deliberately, defiantly so. Jerusalem is the religious and political capital; Tel Aviv is the party capital, the beach capital, and the capital of Israeli secular life. Walking the streets at night — past sidewalk cafes, bars running until 5am, and the steady thump from clubs on Lilinblum Street — it is difficult to believe you are in the holy land at all.

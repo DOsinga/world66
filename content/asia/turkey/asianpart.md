@@ -18,6 +18,9 @@ heritage: 8.6
 vibrancy: 8.4
 nature: 3.7
 off_the_beaten_track: 1.2
+profile_verdict: 'Kadıköy is one of the world''s best for both heritage and vibrancy:
+  Ottoman-era Haydarpaşa station, the bustling Tuesday market, and Barlar Sokağı''s
+  nightlife make Istanbul''s Asian side endlessly alive.'
 ---
 
 Istanbul is famously spread across two continents, and crossing the Bosphorus from the European shore to the Asian side is more than a ferry ride — it is a genuine shift in character. The slogan Istanbul used when bidding for the 2000 Olympics was *"Meet where the continents meet,"* and the difference between the two halves of the city runs deeper than geography.

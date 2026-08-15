@@ -28,6 +28,9 @@ heritage: 6.5
 vibrancy: 6.2
 nature: 7.0
 off_the_beaten_track: 1.7
+profile_verdict: Takayama pairs a beautifully preserved Edo-era old town with a mountain
+  setting, from the Sanmachi-suji streets and Takayama Jin'ya to day trips into the
+  Hida highlands.
 ---
 
 Takayama (often called Hida-Takayama) is a beautifully preserved castle town deep in the mountains of Gifu Prefecture, sometimes called "Little Kyoto" for its Edo-period merchant streets and traditional atmosphere. It deserves the comparison — the old town is among the best-preserved in Japan.

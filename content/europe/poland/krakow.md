@@ -18,6 +18,9 @@ heritage: 8.9
 vibrancy: 7.5
 nature: 0.7
 off_the_beaten_track: 1.1
+profile_verdict: Krakow is one of the world's best for heritage — Wawel Castle, the
+  vast Rynek Główny square, Kazimierz's synagogues — with a student nightlife scene
+  lively enough to match.
 ---
 
 Krakow was Poland's royal capital for five centuries, and walking its Old Town feels like the intervening years never happened. The vast [Main Market Square](/europe/poland/krakow/rynek_glowny) — one of Europe's largest medieval plazas — is ringed by townhouses and churches that survived the Second World War intact, which puts Krakow in rare company on the continent. [Wawel Castle](/europe/poland/krakow/wawel_castle) looms over the river at the Old Town's southern edge, and the former Jewish quarter of [Kazimierz](/europe/poland/krakow/kazimierz), just a short walk away, has become one of the most atmospheric neighbourhoods in Central Europe.

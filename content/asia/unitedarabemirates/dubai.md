@@ -30,6 +30,9 @@ heritage: 8.2
 vibrancy: 8.3
 nature: 6.1
 off_the_beaten_track: 1.0
+profile_verdict: 'Dubai''s real draw is vibrancy: a round-the-clock city of rooftop
+  bars, souks, and a skyline that never seems to stop climbing, though the summer
+  heat is brutal.'
 ---
 
 Dubai is the spectacle of the modern Arabian Peninsula — a trading post that, in the span of a single generation, transformed itself from a small pearl-diving settlement into a global financial centre with the world's tallest building, the busiest international airport by passenger traffic, and enough engineered islands, indoor ski slopes, and seven-star hotels to make Las Vegas look restrained. Love it or hate it, there is no other city quite like it.

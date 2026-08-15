@@ -21,6 +21,9 @@ heritage: 8.7
 vibrancy: 4.9
 nature: 3.1
 off_the_beaten_track: 2.3
+profile_verdict: 'Belur is one of the world''s best for heritage: its 12th-century
+  Chennakeshava Temple, built by the Hoysala kings, is carved top to bottom with dancers,
+  gods, and mythical beasts.'
 ---
 
 Belur is a small town with one extraordinary reason to visit: the [Chennakeshava Temple](/asia/india/karnataka/belur/chennakeshava_temple), one of the finest surviving works of Hoysala architecture. The temple was commissioned in 1117 CE by King Vishnuvardhana and is now part of UNESCO's Sacred Ensembles of the Hoysalas, along with Halebidu and Somanathapura.

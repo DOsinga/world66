@@ -19,6 +19,9 @@ heritage: 6.8
 vibrancy: 8.9
 nature: 0.7
 off_the_beaten_track: 0.6
+profile_verdict: 'Bologna is one of the world''s best for vibrancy: home to Europe''s
+  oldest university, mile after mile of covered porticoes, and food (tortellini, ragu)
+  that locals take fiercely seriously.'
 ---
 
 This fine city merits more than just a one-night visit. Bologna (pop. 422,000) has gardens, museums, parks, fine buildings, churches, and miles of shopping streets -- and don't forget the great food. Sometimes called "Bologna the fat," this city is a great place to indulge yourself.

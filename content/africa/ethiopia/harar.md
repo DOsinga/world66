@@ -20,6 +20,9 @@ heritage: 8.7
 vibrancy: 7.7
 nature: 0.2
 off_the_beaten_track: 9.1
+profile_verdict: 'Harar is one of the world''s best for off-the-beaten-track heritage:
+  a walled holy city of 82 mosques and 100+ shrines, plus the nightly hyena feeding
+  found nowhere else.'
 ---
 
 The old walled city of Harar used to be strictly off limits for non-Muslims. It was one of the most holy cities in the country and remains the fourth holiest city in Islam. Today [Jugol](/africa/ethiopia/harar/jugol_walls) — the fortified historic town — is a UNESCO World Heritage Site, its roughly 4-kilometre perimeter wall enclosing 82 mosques, over 100 shrines, and one of the most intact medieval urban fabrics in Africa.

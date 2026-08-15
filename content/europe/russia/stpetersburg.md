@@ -29,6 +29,9 @@ heritage: 6.6
 vibrancy: 6.9
 nature: 4.4
 off_the_beaten_track: 1.4
+profile_verdict: 'St Petersburg''s strengths are heritage and vibrancy: the Hermitage
+  and Peter and Paul Fortress from its 1703 imperial founding, plus canal-side nightlife
+  through the White Nights.'
 ---
 
 St Petersburg is Russia's cultural capital and one of Europe's most beautiful cities. Founded in 1703 by Peter the Great as a window to the West, it was designed from scratch on the marshy banks of the Neva delta — a grand experiment in urban planning that produced an extraordinary cityscape of baroque palaces, neoclassical facades, and canals that invite easy comparisons to Venice and Amsterdam.

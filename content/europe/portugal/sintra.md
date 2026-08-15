@@ -28,6 +28,8 @@ heritage: 7.3
 vibrancy: 3.9
 nature: 5.9
 off_the_beaten_track: 1.5
+profile_verdict: 'Sintra''s pull is heritage: Pena Palace, Quinta da Regaleira and
+  a Moorish hilltop castle rise from wooded hills that add real scenic drama.'
 ---
 
 Sintra is a small hill town 40 minutes by train from [Lisbon](/europe/portugal/lisbon), and for centuries it was the summer retreat of the Portuguese royal family. Byron called it "glorious Eden" and devoted verses to its mountains and palaces. The UNESCO World Heritage designation it earned in 1995 is well-deserved: the concentration of extraordinary buildings within the national park is matched by almost nowhere else in Europe.

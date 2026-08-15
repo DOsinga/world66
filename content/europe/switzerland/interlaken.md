@@ -27,6 +27,8 @@ heritage: 4.6
 vibrancy: 5.8
 nature: 7.5
 off_the_beaten_track: 3.1
+profile_verdict: 'Interlaken''s draw is pure nature: wedged between Lake Thun and
+  Lake Brienz, with the Eiger and Jungfrau rising right behind town.'
 ---
 
 Interlaken sits on a narrow strip of land between Lake Thun and Lake Brienz, with the Eiger, Monch and Jungfrau towering above. The name literally means "between the lakes," and water defines the place: clear mountain streams tumble off the hills, waterfalls crash through gorges, and the two lakes shimmer in shades of turquoise and deep blue.

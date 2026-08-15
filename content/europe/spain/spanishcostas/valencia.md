@@ -20,6 +20,9 @@ heritage: 6.8
 vibrancy: 8.2
 nature: 4.2
 off_the_beaten_track: 1.4
+profile_verdict: 'Valencia''s real draw is vibrancy: birthplace of paella, home to
+  Las Fallas each March when giant sculptures burn in the streets amid nonstop fireworks
+  and fiestas.'
 ---
 
 Valencia is Spain's third-largest city but one of its most underrated. It has the Mediterranean climate, the beaches, and the nightlife of Barcelona without the crowds or the prices — and it is the birthplace of paella, which alone is reason enough to visit.

@@ -6,6 +6,7 @@ from guide import views
 urlpatterns = [
     path("", views.home, name="home"),
     path("about", views.about, name="about"),
+    path("how-we-score", views.how_we_score, name="how_we_score"),
     path("search", views.search, name="search"),
     path("api/search", views.search_api, name="search_api"),
     path("tags/<str:tag>", views.tag_index, name="tag_index"),

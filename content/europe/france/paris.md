@@ -29,6 +29,8 @@ heritage: 5.7
 vibrancy: 10.0
 nature: 1.8
 off_the_beaten_track: 0.6
+profile_verdict: 'Paris is one of the world''s best for vibrancy: cafe culture, fashion,
+  nightlife, and a food scene that never really settles down.'
 ---
 
 Paris is the most visited city on earth, and familiarity with its image makes it easy to underestimate. You arrive knowing the Eiffel Tower, Notre-Dame, and the Louvre from a thousand photographs, but the city constantly surprises. The quartiers you didn't plan to visit, the food market you stumbled into, the view down a Haussmann boulevard at dusk — these are what stay with you.

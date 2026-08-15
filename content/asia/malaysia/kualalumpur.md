@@ -30,6 +30,9 @@ heritage: 7.1
 vibrancy: 9.3
 nature: 2.1
 off_the_beaten_track: 0.7
+profile_verdict: 'Kuala Lumpur is one of the world''s best for vibrancy: the twin
+  Petronas Towers preside over Bukit Bintang''s nightlife and Jalan Alor''s street-food
+  stalls that fill up long after dark.'
 ---
 
 Kuala Lumpur — KL — is the capital of Malaysia and one of Southeast Asia's most underrated cities. It began as a muddy tin-mining camp at the confluence of the Klang and Gombak rivers in the 1850s (the name means "muddy confluence"), and grew into a colonial administrative centre under the British, and then, after independence in 1957, into the rapidly modernising city you see today. KL is visibly a city of layers: Islamic, Chinese, and Indian communities side by side, colonial mock-Tudor next to glass-skinned skyscrapers, rainforest parks still clinging to the edges of downtown.

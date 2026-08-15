@@ -29,6 +29,9 @@ heritage: 8.8
 vibrancy: 8.4
 nature: 1.5
 off_the_beaten_track: 1.1
+profile_verdict: 'Florence is one of the world''s best for heritage and vibrancy:
+  the Uffizi, the Duomo, Ponte Vecchio, and packed trattorias in a buzzy, compact
+  old center.'
 ---
 
 Florence is a small city with an outsized claim on Western civilization. In the 15th and 16th centuries, the Medici-funded Renaissance concentrated more art and architecture here than almost anywhere else on earth, and the results are still on view in a compact historic centre that you can walk across in twenty minutes. The [Uffizi Gallery](/europe/italy/tuscany/florence/uffizi_gallery) holds the world's greatest collection of Renaissance painting. The [Galleria dell'Accademia](/europe/italy/tuscany/florence/galleria_dellaccademia) has Michelangelo's David. The [Duomo](/europe/italy/tuscany/florence/duomo_florence), designed by Brunelleschi with an engineering audacity that was unmatched for a century, still dominates the skyline. The [Baptistery](/europe/italy/tuscany/florence/baptistery) opposite it has Ghiberti's Gates of Paradise and a mosaic ceiling of ten million tesserae.

@@ -18,6 +18,9 @@ heritage: 5.7
 vibrancy: 4.1
 nature: 8.3
 off_the_beaten_track: 2.6
+profile_verdict: 'Alishan''s real draw is nature: a narrow-gauge mountain railway
+  climbs through cypress forest and tea plantations to catch the sunrise above a sea
+  of clouds.'
 ---
 
 Alishan is a mountain resort area in Chiayi County, known throughout [Taiwan](/asia/taiwan) for its sea of clouds, ancient cypress forests, and the narrow-gauge forest railway that climbs through three climate zones to reach it. The area sits at around 2,200 metres and the air is noticeably cooler and cleaner than on the plains below.

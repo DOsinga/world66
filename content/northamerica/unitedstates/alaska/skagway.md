@@ -17,6 +17,9 @@ heritage: 6.1
 vibrancy: 6.7
 nature: 7.5
 off_the_beaten_track: 7.5
+profile_verdict: 'Skagway''s real draw is how far off the beaten track it still feels
+  once the cruise ships leave: a preserved 1898 gold-rush town backed by glaciers
+  and the Chilkoot Trail.'
 ---
 
 Skagway sits at the head of the Lynn Canal, the deepest fjord in North America, and it exists because of gold. In 1897, tens of thousands of prospectors poured through here on their way to the Klondike goldfields, turning a mudflat into a boomtown overnight. The gold rush lasted barely two years, but Skagway kept the buildings.

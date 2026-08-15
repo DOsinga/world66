@@ -29,6 +29,9 @@ heritage: 7.7
 vibrancy: 8.7
 nature: 5.6
 off_the_beaten_track: 5.4
+profile_verdict: 'Kotor packs real energy into medieval Venetian walls: cruise crowds
+  fill the maze by day, cats and cafés take over at dusk beneath Saint Tryphon''s
+  Cathedral.'
 ---
 
 Kotor is the most compelling city on the Montenegrin coast — a medieval Venetian town enclosed by 4.5km of walls that climb steeply up the rocky hillside behind it. The old town is a tight maze of marble-paved lanes, Romanesque churches, and small piazzas, with cats lounging on every warm surface (Kotor has taken the stray cat as its unofficial symbol and embraces it fully).

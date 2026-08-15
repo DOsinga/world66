@@ -14,6 +14,9 @@ heritage: 2.4
 vibrancy: 0.4
 nature: 7.9
 off_the_beaten_track: 7.5
+profile_verdict: 'The Chatham Islands'' real draw is being off the beaten track: a
+  remote archipelago near the date line, with Moriori history, black robins, and no
+  tourist infrastructure.'
 ---
 
 The Chatham Islands sit about 800 km east of Christchurch, closer to the International Date Line than to most of New Zealand. They are among the first inhabited places on Earth to see each new day. That remoteness is the whole point: this is where you go to get very far away.

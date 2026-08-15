@@ -30,6 +30,8 @@ heritage: 6.4
 vibrancy: 9.1
 nature: 4.7
 off_the_beaten_track: 1.5
+profile_verdict: 'Stockholm is one of the world''s best for vibrancy: boats link 14
+  islands, world-class museums, and buzzing Södermalm nightlife define the city.'
 ---
 
 Stockholm sits on 14 islands where Lake Mälaren meets the Baltic, and the city makes clever use of its geography — the water is clean enough to swim in, and boats connect the archipelago of 30,000 islands stretching east from the city. Called the "Beauty on Water," it is one of the most scenic capitals in Europe.

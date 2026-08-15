@@ -20,6 +20,8 @@ heritage: 4.5
 vibrancy: 3.9
 nature: 8.2
 off_the_beaten_track: 2.2
+profile_verdict: 'Spiez''s draw is nature: a lakeside town on Lake Thun with vineyards
+  climbing the hills behind its medieval castle and the Bernese Alps beyond.'
 ---
 
 Spiez is the gentle side of the Bernese Oberland: a small town on a sheltered bay of Lake Thun, with vineyards on the slope, a castle above the water, and the pyramid of the [Niesen](/europe/switzerland/spiez/niesen) rising behind. It is prettier than its role as a railway junction suggests.

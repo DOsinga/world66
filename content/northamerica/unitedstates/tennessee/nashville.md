@@ -20,6 +20,8 @@ heritage: 7.9
 vibrancy: 7.7
 nature: 2.5
 off_the_beaten_track: 1.9
+profile_verdict: 'Nashville''s real draw is vibrancy: honky-tonks line Broadway with
+  live country music pouring out of every open door, day and night.'
 ---
 
 Nashville is the capital of country music and one of the most visited cities in the American South. The [Broadway](/northamerica/unitedstates/tennessee/nashville/broadway) strip — blocks of honky-tonks, neon signs, and live music spilling out of every door — is the face the city shows to the world. But Nashville is also a college town ([Vanderbilt](/northamerica/unitedstates/tennessee/nashville/vanderbilt_university), Belmont, [Fisk](/northamerica/unitedstates/tennessee/nashville/fisk_university)), a major healthcare hub, and a city that has been reinventing itself for twenty years. [East Nashville](/northamerica/unitedstates/tennessee/nashville/east_nashville), once overlooked, is now dense with restaurants and independent businesses. [The Gulch](/northamerica/unitedstates/tennessee/nashville/the_gulch) has become a polished, walkable neighbourhood of new hotels and good eating. The food scene, long rooted in Southern comfort food and the meat-and-three tradition, has broadened considerably.

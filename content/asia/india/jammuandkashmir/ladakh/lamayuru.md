@@ -15,6 +15,9 @@ heritage: 9.1
 vibrancy: 1.6
 nature: 7.0
 off_the_beaten_track: 6.0
+profile_verdict: 'Lamayuru is one of the world''s best for heritage: its ancient monastery,
+  one of Ladakh''s oldest and most important gompas, rises above the eroded "Moonland"
+  landscape.'
 ---
 
 Lamayuru is a small village on the Srinagar-Leh highway, about 115 km west of [Leh](/asia/india/jammuandkashmir/ladakh/leh), but it feels less like a road stop than a place the landscape has deliberately staged. The village sits below [Lamayuru Monastery](/asia/india/jammuandkashmir/ladakh/lamayuru/lamayuru_monastery), with pale, eroded ridges behind it that have earned the tourist nickname "Moonland".

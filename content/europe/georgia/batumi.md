@@ -19,6 +19,8 @@ heritage: 6.8
 vibrancy: 7.6
 nature: 5.0
 off_the_beaten_track: 1.8
+profile_verdict: 'Batumi''s real draw is vibrancy: a Black Sea resort city of casinos,
+  beach clubs and a neon skyline that fills up with holidaymakers every summer.'
 ---
 
 Batumi is Georgia's Black Sea city — a subtropical port that mixes Soviet-era boulevard architecture with a recent wave of boldly designed towers and squares. It sits 350km from [Tbilisi](/europe/georgia/tbilisi), close to the Turkish border, in the Adjara region, where the climate is warmer and wetter than the Georgian interior: palms, bamboo, eucalyptus, and magnolia line the streets.

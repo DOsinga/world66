@@ -18,6 +18,9 @@ heritage: 1.0
 vibrancy: 8.7
 nature: 5.1
 off_the_beaten_track: 0.9
+profile_verdict: 'S''Arenal is one of the world''s best for vibrancy: the beach strip
+  known as Ballermann, where German and British package tourists have partied for
+  decades.'
 ---
 
 S'Arenal (also known as El Arenal) is a beach resort on the southern coast of [Mallorca](/europe/spain/balearicislands/mallorca), straddling the boundary between the municipalities of Palma and Llucmajor. It sits at the eastern end of the [Platja de Palma](/europe/spain/balearicislands/mallorca/playa_de_palma), a wide sandy beach stretching some seven kilometres to Ca'n Pastilla, backed by a flat promenade ideal for walking and cycling.

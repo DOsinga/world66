@@ -30,6 +30,9 @@ heritage: 6.4
 vibrancy: 9.6
 nature: 3.6
 off_the_beaten_track: 0.6
+profile_verdict: 'Madrid is one of the world''s best for vibrancy: tapas-bar hopping
+  in La Latina, flamenco in Lavapiés, and a nightlife scene that barely pauses before
+  sunrise.'
 ---
 
 Madrid sits at 650 metres on a high inland plateau and is, by some distance, the highest capital city in Europe. It became Spain's capital relatively late — in 1561, when Philip II moved his court here from Toledo — and grew quickly under the Habsburgs and Bourbons into a city of grand royal architecture, formal squares, and the finest art collection in the world. It is a city of late nights, big meals, and operatic public life: nobody is quite sure when the madrileños actually sleep.

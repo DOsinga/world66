@@ -20,6 +20,8 @@ heritage: 3.3
 vibrancy: 1.6
 nature: 8.2
 off_the_beaten_track: 6.2
+profile_verdict: 'Cholpon-Ata''s real draw is nature: it sits on Issyk-Kul, one of
+  the world''s largest alpine lakes, ringed by the snow-capped Tian Shan mountains.'
 ---
 
 Cholpon-Ata is the north shore's main resort town on [Lake Issyk-Kul](/asia/kyrgyzstan/lakeissykkul). In July and August it fills with Kyrgyz, Kazakh, and Russian holidaymakers who come for the high-altitude sun, pebbly beaches, and sanatorium-era lake culture. Outside the short summer rush, it feels looser and stranger: half beach town, half archaeological stop, half Soviet holiday memory.

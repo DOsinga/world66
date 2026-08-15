@@ -13,6 +13,8 @@ heritage: 2.0
 vibrancy: 1.5
 nature: 1.5
 off_the_beaten_track: 7.5
+profile_verdict: 'Agdam''s real distinction is how far off the beaten track it is:
+  a town emptied by war in 1993, stripped to ruins, and only now being slowly rebuilt.'
 ---
 
 Agdam is a ghost town in western Azerbaijan, about 340 km west of Baku. Once home to 150,000 people, it was abandoned in 1993 when Azerbaijani forces withdrew during the Nagorno-Karabakh war and Armenian forces took control. The population fled east. The city was then systematically stripped — buildings gutted for materials, streets emptied, the mosque left standing as the one intact structure among ruins.

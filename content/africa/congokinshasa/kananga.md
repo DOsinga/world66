@@ -13,6 +13,8 @@ heritage: 6.1
 vibrancy: 1.8
 nature: 4.1
 off_the_beaten_track: 8.2
+profile_verdict: 'Kananga''s real draw is remoteness: a million-person Congolese provincial
+  capital that sees almost no foreign visitors and has barely any tourism infrastructure.'
 ---
 
 Kananga is the capital of the Kasai-Central province in the Democratic Republic of the Congo, a sprawling city of roughly a million people that sees very few foreign visitors. The city grew rapidly after independence, when it was still called Luluabourg, and it remains an important administrative and commercial center for the Kasai region.

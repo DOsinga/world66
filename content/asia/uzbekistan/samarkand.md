@@ -19,6 +19,9 @@ heritage: 9.4
 vibrancy: 3.5
 nature: 1.4
 off_the_beaten_track: 5.0
+profile_verdict: 'Samarkand is one of the world''s best for heritage: the turquoise
+  domes of the Registan, Bibi-Khanym Mosque, and Timur''s own mausoleum at Gur-e-Amir
+  make it Silk Road royalty.'
 ---
 
 The Registan is the reason most people come to Samarkand, and rightly so. Three massive madrasas face each other across a single square, their facades covered in tile work so intricate it stops you in your tracks. It is one of the finest pieces of Islamic architecture anywhere, on par with the Alhambra or the Blue Mosque.

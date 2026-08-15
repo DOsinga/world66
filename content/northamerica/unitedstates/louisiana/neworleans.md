@@ -26,6 +26,9 @@ heritage: 7.6
 vibrancy: 7.9
 nature: 4.2
 off_the_beaten_track: 0.9
+profile_verdict: 'New Orleans''s real draw is vibrancy: brass bands spilling out of
+  bars on Frenchmen Street, second-line parades, and a food and music culture unlike
+  anywhere else in the US.'
 ---
 
 New Orleans is unlike any other city in the United States: part French, part Spanish, part African, part Caribbean, and entirely itself. It is a city of above-ground cemeteries, brass bands, voodoo, Mardi Gras, and Creole cuisine — a place where the past is not preserved behind glass but still operating in the streets. [Jackson Square](/northamerica/unitedstates/louisiana/neworleans/jackson_square) and [St. Louis Cathedral](/northamerica/unitedstates/louisiana/neworleans/st_louis_cathedral) define the heart of the [French Quarter](/northamerica/unitedstates/louisiana/neworleans/french_quarter); [Frenchmen Street](/northamerica/unitedstates/louisiana/neworleans/frenchmen_street) in the [Faubourg Marigny](/northamerica/unitedstates/louisiana/neworleans/marigny) is where the music actually lives.

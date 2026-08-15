@@ -21,6 +21,8 @@ heritage: 2.3
 vibrancy: 2.1
 nature: 8.1
 off_the_beaten_track: 3.5
+profile_verdict: 'Coles Bay''s real draw is nature: pink granite peaks and sheltered
+  water frame Wineglass Bay, one of Tasmania''s classic coastal walks.'
 ---
 
 Coles Bay is a small village on Tasmania's east coast, wrapped around sheltered water and backed by the pink granite peaks of the Hazards. The settlement itself is quiet: a jetty, a few shops, holiday houses, and kayaks pulled up near the shore. Its importance is simple. This is the front door to Freycinet National Park.

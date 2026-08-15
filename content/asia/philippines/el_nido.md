@@ -13,6 +13,8 @@ heritage: 2.5
 vibrancy: 9.5
 nature: 7.4
 off_the_beaten_track: 4.5
+profile_verdict: 'El Nido is one of the world''s best for vibrancy: a beach town buzzing
+  with backpacker bars, live music, and island-hopping tour touts along Bacuit Bay.'
 ---
 
 El Nido is the small northern Palawan town that opens onto Bacuit Bay, one of the great seascapes of Southeast Asia. Limestone cliffs rise straight from turquoise water, hiding lagoons, beaches, caves, and reefs among dozens of islands.

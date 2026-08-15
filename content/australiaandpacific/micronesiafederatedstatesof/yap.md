@@ -14,6 +14,9 @@ heritage: 9.2
 vibrancy: 1.0
 nature: 8.3
 off_the_beaten_track: 6.8
+profile_verdict: 'Yap is one of the world''s best for heritage and nature: giant stone
+  rai money still carries real value here, and its reefs are famous for manta ray
+  dives.'
 ---
 
 Yap is the most intriguing island in Micronesia — a place where ancient traditions are not museum pieces but everyday life. The island is famous for its giant stone money discs, some over three metres across, which still sit in stone money banks around the villages. Dance is an art form here: raucous, colourful, and carefully choreographed, with men and women learning from an early age. Through dance, legends are passed down and history is recorded.

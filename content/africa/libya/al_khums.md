@@ -13,6 +13,9 @@ heritage: 8.6
 vibrancy: 2.8
 nature: 3.0
 off_the_beaten_track: 9.1
+profile_verdict: 'Al Khums is one of the world''s best for heritage and for being
+  off the beaten track: it sits beside Leptis Magna, one of the best-preserved Roman
+  cities on Earth.'
 ---
 
 Al Khums is a small coastal town about 130 km east of [Tripoli](/africa/libya/tripoli), and for most visitors it exists for one reason: [Leptis Magna](/africa/libya/al_khums/leptis_magna), the spectacular Roman city just 3 km to the east. As the nearest town to arguably the best-preserved Roman ruins in the Mediterranean, Al Khums serves as the practical base for anyone visiting the site.

@@ -18,6 +18,9 @@ heritage: 4.2
 vibrancy: 2.0
 nature: 5.8
 off_the_beaten_track: 9.3
+profile_verdict: 'Erigavo is one of the world''s best for going off the beaten track:
+  a remote highland town in Somaliland''s Cal Madow mountains that almost no foreign
+  travelers ever reach.'
 ---
 
 Erigavo (also spelled Ceerigaabo) is a highland town in eastern Somaliland, sitting at around 1,800 metres above sea level near the foot of Surud Ad — the highest point in Somalia at about 2,420 metres. The elevation gives the town and its surroundings a cooler, greener character than the lowland coast, with juniper forests and dramatic mountain views.

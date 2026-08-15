@@ -15,6 +15,9 @@ heritage: 3.4
 vibrancy: 2.6
 nature: 8.3
 off_the_beaten_track: 3.8
+profile_verdict: 'Mineral del Chico''s real draw is nature: pine-oak forest, huge
+  rock outcrops, and Mexico''s oldest national park right at the edge of this old
+  mining town.'
 ---
 
 *North America > Mexico > Mineral del Chico*

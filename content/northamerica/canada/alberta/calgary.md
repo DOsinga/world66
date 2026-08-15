@@ -20,6 +20,9 @@ heritage: 7.4
 vibrancy: 7.5
 nature: 4.2
 off_the_beaten_track: 1.7
+profile_verdict: 'Calgary''s real draw is vibrancy: a boomtown skyline that turns
+  into a ten-day cowboy party every July for the Calgary Stampede, the world''s largest
+  rodeo.'
 ---
 
 Calgary sits where the prairies meet the foothills of the Canadian Rockies, with the Bow River running through a downtown of glass towers and pedestrian bridges. It is a prosperous, outdoorsy city — the oil industry wealth shows, but so does the proximity to the mountains. Banff National Park is ninety minutes west; the ski fields of Lake Louise and Sunshine Village are similarly close. The city is younger and more spread out than most Canadian cities of its size, and the pace is unhurried.

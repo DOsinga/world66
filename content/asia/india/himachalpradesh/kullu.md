@@ -17,6 +17,8 @@ heritage: 8.3
 vibrancy: 3.5
 nature: 7.8
 off_the_beaten_track: 5.1
+profile_verdict: 'Kullu''s real draw is heritage: wooden temples across the Valley
+  of Gods culminate each October in the Dussehra festival''s mass pilgrim processions.'
 ---
 
 The Kullu Valley is one of the loveliest stretches of the Himalayas, a broad green corridor carved by the Beas River and flanked by densely forested ridges. Known as the *Valley of Gods*, it is studded with wooden temples dedicated to local deities, and the surrounding hills are terraced with apple orchards that turn the landscape pink each spring.

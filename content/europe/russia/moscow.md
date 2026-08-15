@@ -29,6 +29,9 @@ heritage: 5.4
 vibrancy: 9.5
 nature: 2.2
 off_the_beaten_track: 0.9
+profile_verdict: 'Moscow is one of the world''s best for vibrancy: round-the-clock
+  energy, a metro system that doubles as an art gallery, and nightlife running from
+  grand theatres to underground clubs.'
 ---
 
 Moscow is the beating heart of the Russian world — a medieval fortress-city that grew into the capital of the tsars, the seat of Soviet power, and today one of the largest and most expensive metropolises on earth. For all its scale, the centre is surprisingly compact, arranged as a series of concentric ring roads radiating out from the [Kremlin](/europe/russia/moscow/the_kremlin) and [Red Square](/europe/russia/moscow/red_square_krasna). An afternoon on foot covers the essentials; a week is not enough for everything the city contains.

@@ -28,6 +28,8 @@ heritage: 4.3
 vibrancy: 5.3
 nature: 5.7
 off_the_beaten_track: 1.2
+profile_verdict: 'Honolulu''s best asset is its nature: Diamond Head''s crater, Manoa''s
+  rainforest falls, and North Shore''s surf breaks, all within reach of the city.'
 ---
 
 Honolulu is the capital of Hawaii and the only major city in the state, spread along the southern shore of [Oahu](/northamerica/unitedstates/hawaii/oahu) between the Ko'olau mountains and the Pacific. For most visitors it will be the first place they arrive, and first impressions can be misleading — the high-rise sprawl along Waikiki looks like any resort strip, but the city has real depth and character once you get past the tourist corridor.

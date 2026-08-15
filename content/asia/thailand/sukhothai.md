@@ -18,6 +18,9 @@ heritage: 8.4
 vibrancy: 4.0
 nature: 3.1
 off_the_beaten_track: 2.9
+profile_verdict: 'Sukhothai''s real draw is heritage: the ruined capital of Thailand''s
+  first kingdom, its brick temple spires and giant Buddhas spread across a quiet,
+  moated UNESCO park.'
 ---
 
 **Sukhothai** — the name literally means "the Dawn of Happiness" in Pali — was the first capital of the Thai kingdom, founded in **1238** and flourishing for about 120 years before being absorbed by the later kingdom of Ayutthaya. During its golden age under King **Ramkhamhaeng** in the late 13th century, it was the political and cultural heart of what is now central Thailand, and is often considered the birthplace of Thai civilisation: the Thai script is said to have been invented here, and the distinctive classical style of Thai sculpture and architecture reached its most refined form in Sukhothai's Buddha images — walking Buddhas with flame-tipped heads and the half-smile that would define Thai Buddhist art for centuries after.

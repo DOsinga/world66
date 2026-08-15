@@ -18,6 +18,9 @@ heritage: 9.1
 vibrancy: 4.0
 nature: 5.0
 off_the_beaten_track: 3.5
+profile_verdict: 'Lumbini is one of the world''s best for heritage: the birthplace
+  of the Buddha, marked by the Maya Devi Temple, an Ashokan pillar, and monasteries
+  built by Buddhist nations worldwide.'
 ---
 
 Lumbini is the birthplace of Siddhartha Gautama — the Buddha — and one of the most sacred sites in the Buddhist world. It lies in the flat Terai lowlands of southern Nepal, near the border with India, in what was once a garden between the ancient kingdoms of Kapilavastu and Devadaha.

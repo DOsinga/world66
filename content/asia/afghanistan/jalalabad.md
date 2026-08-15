@@ -16,6 +16,9 @@ heritage: 7.0
 vibrancy: 3.1
 nature: 2.7
 off_the_beaten_track: 8.4
+profile_verdict: 'Jalalabad sits far off any beaten track: an old garden city near
+  the Khyber Pass whose Silk Road history is real, but whose security situation keeps
+  most travelers away.'
 ---
 
 **Note:** Afghanistan has been under Taliban rule since 2021. Travel is not recommended for most foreign nationals. This page documents Jalalabad for historical reference and for future conditions.

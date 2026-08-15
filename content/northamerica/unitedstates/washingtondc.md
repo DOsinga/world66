@@ -29,6 +29,9 @@ heritage: 7.3
 vibrancy: 7.5
 nature: 6.5
 off_the_beaten_track: 1.0
+profile_verdict: 'Washington D.C.''s real draw is vibrancy: seventeen free Smithsonian
+  museums line the Mall, while neighborhoods beyond the monuments hum with live music
+  and food scenes.'
 ---
 
 The capital of the United States is a city purpose-built for government and now one of the most visited destinations in the country. Washington DC sits on the Potomac River where Maryland and Virginia meet — an artificial district carved from both states in 1790 so the new republic's capital would belong to no single state. The plan was Pierre Charles L'Enfant's: a grid overlaid with diagonal avenues radiating from the Capitol and the White House, designed to be imposing.

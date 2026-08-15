@@ -20,6 +20,8 @@ heritage: 4.0
 vibrancy: 1.4
 nature: 8.5
 off_the_beaten_track: 4.0
+profile_verdict: 'Lanai is one of the world''s best for nature: red-rock formations
+  at Garden of the Gods and coral reefs off Hulopoe Bay, all on a tiny island.'
 ---
 
 For nearly 70 years, Lanai — dubbed the "Pineapple Island" — was operated as a plantation by the Dole Company. In its heyday it was the world's largest source of pineapple, grown on more than 16,000 acres, until the industry began to falter. By 1993 pineapple was phased out in favour of resort development, ranching, and other agriculture.

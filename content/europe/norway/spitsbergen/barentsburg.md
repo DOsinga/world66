@@ -18,6 +18,9 @@ heritage: 1.1
 vibrancy: 0.7
 nature: 8.2
 off_the_beaten_track: 6.8
+profile_verdict: 'Barentsburg''s real draw is nature: a Russian coal-mining outpost
+  on Svalbard, ringed by Arctic fjords, glaciers and the ever-present chance of polar
+  bears.'
 ---
 
 Barentsburg is the Russian mining settlement on [Spitsbergen](/europe/norway/spitsbergen), set on the shore of Grønfjorden under Arctic mountains. It is small, strange, and memorable: Soviet-era slogans, coal infrastructure, painted apartment blocks, and a dramatic view across the fjord all packed into a settlement you can cross on foot.

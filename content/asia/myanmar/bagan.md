@@ -19,6 +19,9 @@ heritage: 10.0
 vibrancy: 2.0
 nature: 4.3
 off_the_beaten_track: 4.8
+profile_verdict: 'Bagan is one of the world''s best for heritage: over 2,000 Buddhist
+  temples and pagodas, built between the 11th and 13th centuries, still scatter this
+  dusty plain along the Irrawaddy.'
 ---
 
 Few places in Asia stop you in your tracks the way Bagan does. Spread across a dusty plain beside the Ayeyarwady River, more than 2,000 temples, pagodas, and monasteries rise from the earth — the remains of a city that was once the capital of the first Burmese empire and one of the great cities of medieval Asia.

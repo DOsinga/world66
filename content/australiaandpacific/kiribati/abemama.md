@@ -18,6 +18,9 @@ heritage: 3.7
 vibrancy: 0.7
 nature: 7.1
 off_the_beaten_track: 7.5
+profile_verdict: 'Abemama''s real draw is remoteness: a low coral atoll in Kiribati''s
+  Gilbert Islands, reachable only by infrequent flights or boat, once visited by Robert
+  Louis Stevenson.'
 ---
 
 *[Australia and Pacific](/australiaandpacific) > [Kiribati](/australiaandpacific/kiribati) > Abemama*

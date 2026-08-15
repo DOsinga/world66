@@ -20,6 +20,9 @@ heritage: 9.2
 vibrancy: 6.9
 nature: 3.9
 off_the_beaten_track: 2.5
+profile_verdict: 'Kutná Hora is one of the world''s best for heritage: a silver-rich
+  medieval mint town with a soaring Gothic cathedral and a chapel decorated with the
+  bones of 40,000 people.'
 ---
 
 Kutná Hora sits about 70 kilometres east of Prague on a ridge above the Vrchlice river, and for about a century in the late medieval period it was the second most important city in the Bohemian Kingdom — wealthy, powerful, and architecturally ambitious in a way that has left a remarkable legacy. The riches came from silver: a rich seam discovered in the 13th century made the town effectively the mint of Central Europe, and kings and princes fought over control of it. The silver ran thin by the 16th century, but the buildings remained.

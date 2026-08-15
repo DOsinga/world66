@@ -20,6 +20,9 @@ heritage: 8.8
 vibrancy: 3.4
 nature: 6.6
 off_the_beaten_track: 3.9
+profile_verdict: 'Amasya is one of the world''s best for heritage: rock-cut tombs
+  of Pontic kings loom over the Yeşilırmak river, above an old town of timbered Ottoman
+  houses.'
 ---
 
 Amasya is one of Turkey's most rewarding small cities, and one of its least visited by outsiders. Tucked into a dramatic gorge carved by the Yeşilırmak River, it is bookended by rock-cut royal tombs on one side and Ottoman timber mansions reflected in the water on the other. It feels like a place that has made peace with its own improbability.

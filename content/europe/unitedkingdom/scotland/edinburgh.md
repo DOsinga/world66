@@ -30,6 +30,9 @@ heritage: 7.2
 vibrancy: 8.1
 nature: 7.8
 off_the_beaten_track: 1.1
+profile_verdict: 'Edinburgh mixes vibrancy and nature well: Fringe Festival crowds
+  and a lively pub scene alongside real wild hills at Arthur''s Seat and Holyrood
+  Park.'
 ---
 
 The capital of Scotland, Edinburgh is one of the world's great cities — a compact, walkable capital built on volcanic rock and Georgian ambition, where the medieval Old Town and the planned New Town face each other across a valley that was once a loch. Few cities pack so much history, architecture, and sheer drama into such a small space.

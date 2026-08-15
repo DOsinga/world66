@@ -29,6 +29,9 @@ heritage: 7.4
 vibrancy: 8.6
 nature: 6.3
 off_the_beaten_track: 1.5
+profile_verdict: 'Prague''s strengths are vibrancy and heritage: cheap beer and Žižkov''s
+  pub crawls fuel the nightlife, while Prague Castle and Charles Bridge survived WWII
+  intact.'
 ---
 
 We think Prague is one of the prettiest cities in the world. Built on seven hills and divided by the Vltava (Moldau) River, this capital of 1.3 million is unique among Central European cities: it survived World War II nearly intact. As a result it has beautiful architecture spanning Romanesque, Gothic, Renaissance, baroque, Art Nouveau, and modernist periods — all within walking distance of each other.

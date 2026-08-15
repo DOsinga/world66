@@ -22,6 +22,9 @@ heritage: 8.7
 vibrancy: 6.3
 nature: 1.0
 off_the_beaten_track: 7.5
+profile_verdict: 'Peshawar is one of the world''s best for heritage: one of South
+  Asia''s oldest cities, a Gandhara-era crossroads whose Qissa Khwani bazaar once
+  hosted caravans bound for the Khyber Pass.'
 ---
 
 Peshawar is one of the most colourful cities in Pakistan — and that is saying a lot. Twenty kilometres from the mouth of the Khyber Pass, it has been the gateway between South and Central Asia for two thousand years, and that frontier character still runs through its bazaars, its cuisine, and its streets. Pashto is the language of the city. Most men wear the *shalwar kameez* and a *pakol* or turban. The city is proudly Pashtun.

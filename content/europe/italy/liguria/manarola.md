@@ -29,6 +29,9 @@ heritage: 6.2
 vibrancy: 5.3
 nature: 6.7
 off_the_beaten_track: 2.1
+profile_verdict: Manarola pairs the oldest Cinque Terre village, terraced with centuries-old
+  dry-stone walls, with a steep ravine stacked above vineyards and rocky swimming
+  coves.
 ---
 
 Manarola is the most photogenic of the five Cinque Terre villages — the one you have seen on every postcard, with stacked pastel houses tumbling down a steep ravine to a tiny harbour. It sits between [Riomaggiore](/europe/italy/liguria/riomaggiore) and [Corniglia](/europe/italy/liguria/corniglia) on the Ligurian coast, connected to both by train and by the coastal hiking path.

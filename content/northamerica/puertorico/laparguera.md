@@ -20,6 +20,9 @@ heritage: 2.4
 vibrancy: 1.8
 nature: 8.1
 off_the_beaten_track: 3.5
+profile_verdict: 'La Parguera''s real draw is nature: a mangrove-fringed bay on Puerto
+  Rico''s southwest coast where boats head out after dark to see the water glow with
+  bioluminescence.'
 ---
 
 La Parguera is a fishing village turned weekend getaway on the southwest coast of [Puerto Rico](/northamerica/puertorico), tucked into the municipality of Lajas between [Guánica](/northamerica/puertorico/guanica) and [Cabo Rojo](/northamerica/puertorico/caborojo). The village proper is small — a handful of streets pressed up against the water — but the real action happens offshore, where dozens of mangrove cays form a sheltered lagoon known as the [La Parguera Nature Reserve](/northamerica/puertorico/laparguera/la_parguera_nature_reserve).

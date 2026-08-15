@@ -18,6 +18,9 @@ heritage: 9.0
 vibrancy: 3.3
 nature: 6.9
 off_the_beaten_track: 4.0
+profile_verdict: 'Vaishno Devi ranks among the world''s most significant heritage
+  sites: the cave shrine in the Trikuta hills draws millions of Hindu pilgrims a year
+  up a steep mountain trek.'
 ---
 
 **Vaishno Devi** — more fully Mata Vaishno Devi — is one of the holiest Hindu pilgrimage sites in India, a shrine to the goddess dedicated in a cave at 1,585 metres on the slopes of the **Trikuta Mountains** in Jammu and Kashmir. It draws around **8–10 million pilgrims every year** — the second most-visited Hindu pilgrimage site in India after Tirupati — and on the busiest festival days the number of pilgrims climbing the mountain in a single day can exceed 30,000. For Indian Hindus, a visit here is a major life event; foreign travellers are rare.

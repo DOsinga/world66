@@ -18,6 +18,9 @@ heritage: 3.9
 vibrancy: 1.1
 nature: 7.9
 off_the_beaten_track: 8.7
+profile_verdict: 'The Dahlak Islands are one of the world''s best for off-the-beaten-track
+  travel: 200-plus coral islands in the Red Sea, mostly uninhabited and rarely visited,
+  since Eritrea restricts tourism tightly.'
 ---
 
 An archipelago of some 200 islands scattered across the southern Red Sea, the Dahlak Islands are one of East Africa's best-kept diving secrets. Only four are inhabited, with a total population of around 2,500 people — most of them on Dahlak el Kebir — who still live by fishing, herding goats and camels, much as their ancestors did for centuries.

@@ -22,6 +22,9 @@ heritage: 6.6
 vibrancy: 3.2
 nature: 3.7
 off_the_beaten_track: 10.0
+profile_verdict: 'Derna ranks among the world''s most off-the-beaten-track cities:
+  a Libyan port still scarred by the catastrophic 2023 dam-collapse flood, with essentially
+  no tourism and real safety risks.'
 ---
 
 Derna is one of Libya's most dramatically placed coastal cities, wedged between the Mediterranean, the eastern end of the [Jebel Akhdar](/africa/libya/jebelakhdar) and the cut of [Wadi Derna](/africa/libya/derna/wadi_derna). Before recent disasters, travellers came for its old mosques, mountain-water scenery, sea air and its position on the road between Apollonia, Cyrene and Tobruk.

@@ -18,6 +18,9 @@ heritage: 6.0
 vibrancy: 1.5
 nature: 8.3
 off_the_beaten_track: 10.0
+profile_verdict: 'Jaluit is the single most off-the-beaten-track place we cover: a
+  barely visited atoll of WWII wrecks, crumbling colonial ruins, and reef diving reached
+  only by occasional field-trip ship.'
 ---
 
 Jaluit was the administrative capital of the Marshall Islands under both German and Japanese colonial rule, and the remnants of that history are scattered across the atoll. [Japanese fortifications, a seaplane base, and the ruins of the colonial administration](/australiaandpacific/marshallislands/jaluitatoll/japanese_wwii_fortifications) are still visible on the southern islets. During World War II, Jaluit was a major Japanese naval base and was heavily bombed by US forces; the [lagoon](/australiaandpacific/marshallislands/jaluitatoll/jaluit_lagoon) holds a number of wrecks that have barely been explored by divers. The colonial-era history is most concentrated around [Jabwor](/australiaandpacific/marshallislands/jaluitatoll/jabwor_colonial_ruins), the main village, where the German and Japanese administrations both had their headquarters.

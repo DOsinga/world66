@@ -30,6 +30,8 @@ heritage: 6.0
 vibrancy: 9.4
 nature: 4.1
 off_the_beaten_track: 1.0
+profile_verdict: 'Buenos Aires is one of the world''s best for vibrancy: a city that
+  eats dinner at midnight, dances tango till dawn, and lives football like religion.'
 ---
 
 Buenos Aires likes to call itself the Paris of South America. It is more accurate to say that it is the most European of South American cities — and the least European of European ones. The architecture is Haussmann-adjacent, the politics baroque, the national self-image a combination of European pretension and Latin American melancholy, and the result is one of the more fascinating cities on the continent.

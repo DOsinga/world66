@@ -14,6 +14,9 @@ heritage: 5.3
 vibrancy: 2.5
 nature: 4.9
 off_the_beaten_track: 8.4
+profile_verdict: 'Harper''s real draw is its isolation: a faded former capital of
+  freed American settlers in Liberia''s far southeast, still cut off by roads that
+  wash out every rainy season.'
 ---
 
 Harper is the capital of Maryland County, perched on [Cape Palmas](/africa/liberia/harper/cape_palmas) at Liberia's southeastern tip where the coast turns from west-facing to south-facing. It was founded in 1834 as the capital of the independent Republic of Maryland, a colony of free African Americans, before merging with Liberia in 1857. That history is still visible in the [crumbling Americo-Liberian architecture](/africa/liberia/harper/americo_liberian_architecture) scattered around the cape.

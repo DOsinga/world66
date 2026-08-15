@@ -19,6 +19,9 @@ heritage: 4.8
 vibrancy: 1.8
 nature: 7.9
 off_the_beaten_track: 9.5
+profile_verdict: 'Skardu is one of the world''s best for being off the beaten track:
+  this remote valley in Pakistan''s Karakoram is the gateway to K2 and its wild, high-altitude
+  wilderness.'
 ---
 
 Skardu, the capital of Baltistan, is situated on the banks of the mighty river Indus, just 8 km above its confluence with the river Shigar. Around it are high peaks, deep gorges and some of the most beautiful mountain scenery on the planet. 

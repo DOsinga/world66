@@ -17,6 +17,8 @@ heritage: 9.1
 vibrancy: 2.6
 nature: 5.1
 off_the_beaten_track: 6.1
+profile_verdict: 'Bodnath is one of the world''s best for heritage: Nepal''s largest
+  stupa anchors one of the most important Tibetan Buddhist centres outside Tibet.'
 ---
 
 Bodnath (also spelled Boudhanath) is a suburb just northeast of Kathmandu and easily reached by taxi or shared vehicle. Although the area is small, it contains the [largest stupa in Nepal](/asia/nepal/bodnath/boudha_stupa) — a massive white dome topped with a golden spire and the watchful eyes of the Buddha, surrounded by hundreds of prayer wheels and lines of fluttering prayer flags.

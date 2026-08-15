@@ -18,6 +18,9 @@ heritage: 4.6
 vibrancy: 1.6
 nature: 5.3
 off_the_beaten_track: 9.4
+profile_verdict: 'Kufra is one of the world''s best for getting off the beaten track:
+  a remote Saharan oasis near the Sudanese border, reachable only with serious desert
+  logistics.'
 ---
 
 Kufra is as remote as it gets in Libya — an oasis cluster in the far southeast, near the Egyptian and Sudanese borders, closer to Khartoum than to Tripoli. There are no tourist facilities here, and reaching it requires serious preparation. This is a destination for serious desert travellers, not casual visitors.

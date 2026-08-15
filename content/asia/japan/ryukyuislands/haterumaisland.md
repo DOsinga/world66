@@ -18,6 +18,8 @@ heritage: 4.3
 vibrancy: 1.1
 nature: 8.4
 off_the_beaten_track: 5.8
+profile_verdict: 'Hateruma''s real draw is nature: Japan''s southernmost inhabited
+  island, ringed by the powder-white sand and turquoise water of Nishihama beach.'
 ---
 
 Hateruma is Japan's southernmost inhabited island, a tiny coral atoll in the Yaeyama chain about an hour by ferry from Ishigaki. It is well known for its views of the Southern Cross from the [Southern Cross Observatory](/asia/japan/ryukyuislands/haterumaisland/southern_cross_observatory) on the southern coast — one of the very few places in Japan where you can see it.

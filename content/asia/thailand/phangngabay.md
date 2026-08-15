@@ -28,6 +28,8 @@ heritage: 2.7
 vibrancy: 5.1
 nature: 7.4
 off_the_beaten_track: 2.3
+profile_verdict: 'Phang Nga Bay is all nature: limestone karsts rising dramatically
+  from turquoise water, best seen threading between them by boat.'
 ---
 
 Phang Nga Bay is one of the most dramatic seascapes in Southeast Asia: dozens of sheer limestone karst towers rise straight out of calm, shallow emerald water between [Phuket](/asia/thailand/phuket) and [Krabi](/asia/thailand/krabi). The bay is part of a national marine park, and most visitors explore it by longtail boat or sea kayak.

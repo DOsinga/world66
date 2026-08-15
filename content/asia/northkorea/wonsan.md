@@ -14,6 +14,9 @@ heritage: 1.3
 vibrancy: 1.7
 nature: 3.2
 off_the_beaten_track: 7.5
+profile_verdict: 'Wonsan''s off-the-beaten-track ranking is really about access: this
+  coastal city, home to the state''s Masikryong ski resort, can only be visited on
+  a tightly guided North Korean tour.'
 ---
 
 Wonsan is a port city on the east coast, facing the Sea of Japan, and has traditionally been one of the few places outside Pyongyang on standard North Korea tours. The beach and coastal setting offer a change of pace from monument-heavy city itineraries.

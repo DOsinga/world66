@@ -16,6 +16,8 @@ heritage: 2.0
 vibrancy: 1.1
 nature: 8.2
 off_the_beaten_track: 5.7
+profile_verdict: 'Bagh''s real draw is nature: pine-forested mountains and valleys
+  in Azad Kashmir that see far fewer travelers than the more famous parts of Pakistan.'
 ---
 
 Travel Guide

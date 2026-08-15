@@ -18,6 +18,9 @@ heritage: 2.2
 vibrancy: 0.5
 nature: 8.2
 off_the_beaten_track: 7.2
+profile_verdict: 'Patriata''s real draw is nature: a chairlift rises through pine
+  forest to viewpoints over the Kashmir hills, a cooler, quieter alternative to nearby
+  Murree.'
 ---
 
 Patriata is a hill resort about 25 km from [Murree](/asia/pakistan/murree) in the Galyat range. A chairlift and cable car system carries visitors up to Patriata Ridge in two stages from Gulehra Gali — first by chairlift to Patriata Bazaar, then by gondola to the top. The views over the forested hills and valleys of the Pir Panjal foothills are the main reward, and there is a restaurant at the summit.

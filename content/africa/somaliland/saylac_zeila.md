@@ -18,6 +18,9 @@ heritage: 1.6
 vibrancy: 1.4
 nature: 1.6
 off_the_beaten_track: 7.5
+profile_verdict: 'Saylac''s real draw is how far off the beaten track it is: an ancient
+  port battered by civil war, its reefs and mangroves reachable only via a rough desert
+  road.'
 ---
 
 Saylac — known historically as Zeila — is one of the oldest port towns on the Horn of Africa, sitting on a small peninsula on the Gulf of Aden coast in Somaliland's Awdal Region. Surrounded by sea on three sides and by desert inland, it is about 170 miles northwest of Berbera and close to the Djibouti border.

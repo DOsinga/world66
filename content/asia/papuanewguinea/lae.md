@@ -18,6 +18,9 @@ heritage: 3.8
 vibrancy: 5.8
 nature: 7.2
 off_the_beaten_track: 8.5
+profile_verdict: 'Lae''s real draw is off-the-beaten-track appeal: Papua New Guinea''s
+  rough-edged second city is the trailhead for the wartime Black Cat Track, and Amelia
+  Earhart''s last stop before vanishing.'
 ---
 
 Lae is the second largest city in [Papua New Guinea](/asia/papuanewguinea), an industrial port at the mouth of the Markham River on the Huon Gulf. It is not a city that tries to charm visitors — the streets are grey, security is a visible concern, and most travellers pass through rather than linger.

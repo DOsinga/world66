@@ -17,6 +17,8 @@ heritage: 7.3
 vibrancy: 5.1
 nature: 7.3
 off_the_beaten_track: 8.4
+profile_verdict: 'Lamu''s real draw is how far off the beaten track it feels: a UNESCO-listed
+  Swahili stone town with no cars, only donkeys and dhows, on Kenya''s coast.'
 ---
 
 Lamu is the oldest living town in [Kenya](/africa/kenya), a Swahili settlement on a small island off the northern coast that has barely changed in centuries. The narrow streets are too tight for cars — donkeys and foot traffic are the only transport — and the architecture is a mix of coral stone, carved wooden doors, and whitewashed walls. More than 95 percent of the population is Muslim, and you are as likely to hear Arabic as Kiswahili.

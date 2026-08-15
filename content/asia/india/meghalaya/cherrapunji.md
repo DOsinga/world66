@@ -20,6 +20,9 @@ heritage: 2.3
 vibrancy: 1.0
 nature: 8.2
 off_the_beaten_track: 6.2
+profile_verdict: 'Cherrapunji''s real draw is nature: one of the wettest places on
+  earth, its hills laced with waterfalls and living root bridges grown by hand over
+  generations.'
 ---
 
 Cherrapunji (also known as Sohra) holds the record for the world's highest annual rainfall — over 11,000 mm in a typical year, with a single-year record of 22,987 mm. Despite being in [Meghalaya](/asia/india/meghalaya) rather than Assam proper, it is easily visited from Guwahati and frequently included in trips to the northeast.

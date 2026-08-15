@@ -1,4 +1,5 @@
 {% extends "guide/base.html" %}
+{% load static %}
 
 {% block title %}
 {{ page.title }}{% if page.page_type == "location" %} Travel Guide{% endif %} - World66
@@ -69,6 +70,70 @@
     </div>
     <div class="sidebar-map-canvas" id="sidebar-map"></div>
   </div>
+  {% endif %}
+
+  {% if dimension_rows %}
+  <div class="score-profile-card" id="score-profile-card">
+    <div class="score-profile-eyebrow">Travel Profile</div>
+    <div class="score-profile-verdict">{{ verdict_html|safe }}</div>
+
+    <button type="button" class="score-profile-toggle" id="score-profile-toggle"
+            aria-expanded="false" aria-controls="score-profile-body">
+      <span class="score-profile-toggle-label" data-collapsed-label="See the four dimensions" data-expanded-label="Hide the four dimensions">See the four dimensions</span>
+      <span class="score-profile-toggle-glyph" aria-hidden="true">+</span>
+    </button>
+
+    <div class="score-profile-body" id="score-profile-body">
+      <div class="score-profile-rows">
+        {% for row in dimension_rows %}
+        <div class="score-profile-row" tabindex="0">
+          <div class="score-profile-row-head">
+            <span class="score-profile-row-name">{{ row.label }}</span>
+            <span class="score-profile-row-meta">
+              <span class="score-profile-row-rank">{{ row.percentile_label }}</span>
+              <span class="score-profile-row-score">{{ row.score }}</span>
+            </span>
+          </div>
+          <div class="score-profile-bar-track">
+            <div class="score-profile-bar-fill" style="width: {{ row.width_pct }}%"></div>
+          </div>
+          {% if row.alternatives %}
+          <div class="score-profile-row-alts">
+            <div class="score-profile-row-alts-label">Higher in {{ row.parent_title }}</div>
+            <div class="score-profile-chips">
+              {% for alt in row.alternatives %}
+              <a href="{{ alt.page.get_absolute_url }}" class="score-profile-chip">{{ alt.page.title }} <span class="score-profile-chip-match">{{ alt.score }}</span></a>
+              {% endfor %}
+            </div>
+          </div>
+          {% elif row.parent_title %}
+          <div class="score-profile-row-alts">
+            <div class="score-profile-chips">
+              <span class="score-profile-chip score-profile-chip--static">Highest in {{ row.parent_title }}</span>
+            </div>
+          </div>
+          {% endif %}
+        </div>
+        {% endfor %}
+      </div>
+
+      {% if similar_in_country %}
+      <div class="score-profile-similar">
+        <div class="score-profile-similar-label">Similar in {{ country_title }}</div>
+        <div class="score-profile-chips">
+          {% for item in similar_in_country %}
+          <a href="{{ item.page.get_absolute_url }}" class="score-profile-chip">{{ item.page.title }} <span class="score-profile-chip-match">{{ item.match_pct }}%</span></a>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+
+      <div class="score-profile-footer">
+        <a href="/how-we-score">HOW WE SCORE</a>
+      </div>
+    </div>
+  </div>
+  <script src="{% static 'js/score-profile.js' %}"></script>
   {% endif %}
 
   {% if parent_sections|length > 1 %}

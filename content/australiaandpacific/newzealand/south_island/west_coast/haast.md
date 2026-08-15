@@ -19,6 +19,9 @@ heritage: 4.6
 vibrancy: 1.1
 nature: 8.3
 off_the_beaten_track: 6.0
+profile_verdict: 'Haast''s real draw is nature: rainforest tumbles straight down from
+  glaciers to the Tasman Sea here, and the remote West Coast drive in is half the
+  reason to come.'
 ---
 
 Haast is not really one town but a loose scatter of Haast Junction, Haast township, and Haast Beach at the wild southern end of New Zealand's [West Coast](/australiaandpacific/newzealand/south_island/west_coast). It sits where State Highway 6 leaves the rainforest and rivers of the Haast Pass and reaches the Tasman Sea.

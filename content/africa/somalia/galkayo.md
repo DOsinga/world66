@@ -14,6 +14,9 @@ heritage: 1.7
 vibrancy: 1.5
 nature: 1.7
 off_the_beaten_track: 7.5
+profile_verdict: 'Galkayo''s real draw is its extreme remoteness: a divided central
+  Somali city split between rival administrations, rarely visited by outsiders and
+  shadowed by ongoing clan tension.'
 ---
 
 Galkayo is a divided city straddling the administrative boundary between Puntland in the north and the Galmudug region in the south. The two halves operate under different administrations and have at times been separated by checkpoints and inter-clan tension. The northern, Puntland-administered half is the more stable side.

@@ -14,6 +14,9 @@ heritage: 8.7
 vibrancy: 2.2
 nature: 7.6
 off_the_beaten_track: 5.4
+profile_verdict: 'Galichnik is one of the world''s best for heritage: this near-empty
+  mountain village in Macedonia bursts to life every July for its centuries-old traditional
+  communal wedding festival.'
 ---
 
 Galichnik is a mountain village perched on the slopes of Bistra in western [Macedonia](/europe/macedonia), slowly emptying out like so many Balkan highland settlements but brought back to life once a year for its famous wedding festival.

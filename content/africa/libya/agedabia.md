@@ -21,6 +21,9 @@ heritage: 6.6
 vibrancy: 2.4
 nature: 7.2
 off_the_beaten_track: 10.0
+profile_verdict: 'Agedabia is about as far off the beaten track as travel gets: a
+  crossroads town in eastern Libya that has seen real fighting and isn''t easy to
+  visit.'
 ---
 
 Agedabia, more often written Ajdabiya, is the hard-working crossroads of eastern Libya. It sits near the head of the Gulf of Sidra, where the coastal road between [Tripoli](/africa/libya/tripoli) and [Benghazi](/africa/libya/benghazi) meets the desert road south to [Awjila](/africa/libya/awjila), Jalu and [Kufra](/africa/libya/kufra).

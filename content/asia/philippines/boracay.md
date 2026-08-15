@@ -19,6 +19,8 @@ heritage: 2.5
 vibrancy: 7.5
 nature: 4.9
 off_the_beaten_track: 0.5
+profile_verdict: 'Boracay''s draw is pure vibrancy: White Beach''s powder-white sand,
+  sunset bars, and nonstop nightlife made it one of Asia''s busiest party islands.'
 ---
 
 Travel Guide

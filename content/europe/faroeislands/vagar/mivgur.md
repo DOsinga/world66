@@ -21,6 +21,8 @@ heritage: 2.4
 vibrancy: 1.1
 nature: 8.2
 off_the_beaten_track: 6.1
+profile_verdict: 'Miðvágur''s real draw is nature: it sits right on Sørvágsvatn, the
+  lake that seems to float above the ocean, near the dramatic Trælanípa cliffs.'
 ---
 
 Miðvágur is one of the larger settlements on Vágar island in the [Faroe Islands](/europe/faroeislands), home to about a thousand people. The village sits on the shore of Sørvágsfjørður and makes a practical, quieter base than [Sørvágur](/europe/faroeislands/vagar/srvgur) for exploring Vágar's most dramatic scenery.

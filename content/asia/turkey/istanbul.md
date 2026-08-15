@@ -30,6 +30,8 @@ heritage: 5.4
 vibrancy: 9.7
 nature: 5.6
 off_the_beaten_track: 0.7
+profile_verdict: 'Istanbul is one of the world''s best for vibrancy: the Grand Bazaar,
+  Bosphorus nightlife, and a city that genuinely barely sleeps.'
 ---
 
 No city in the world has been a capital of two empires for so long, on two continents, straddling a strait that separates Europe from Asia. Istanbul is overwhelming in the best possible sense — the kind of place that makes other cities feel thin.

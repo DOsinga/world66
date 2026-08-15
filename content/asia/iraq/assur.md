@@ -13,6 +13,9 @@ heritage: 9.7
 vibrancy: 2.6
 nature: 4.5
 off_the_beaten_track: 7.2
+profile_verdict: 'Assur is one of the world''s best for heritage: the ruined first
+  capital of the Assyrian Empire, a UNESCO site endangered by instability and a proposed
+  dam.'
 ---
 
 Assur (also written Ashur) was the first capital of the Assyrian empire and the religious center of Assyrian civilization for over two thousand years. The site lies on a rocky promontory above the west bank of the Tigris, about 100 km south of Mosul. It is a UNESCO World Heritage Site.

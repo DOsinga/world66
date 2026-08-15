@@ -24,6 +24,8 @@ heritage: 5.9
 vibrancy: 2.0
 nature: 4.2
 off_the_beaten_track: 9.3
+profile_verdict: 'Mogadishu''s real draw is how far off the beaten track it is: decades
+  of conflict have kept tourists away, and safety concerns remain very real for visitors.'
 ---
 
 Mogadishu — Xamar in Somali — is Somalia's capital and largest city, with a population of around 2.5 million. It is one of the oldest continuously inhabited cities in East Africa, founded by Arab and Persian traders in the 10th century. By the 13th century it was a wealthy commercial hub trading gold, ivory, and cloth with the Arabian Peninsula and India. The port was later controlled by the sultan of Zanzibar and then the Italian colonial government before Mogadishu became capital of independent Somalia in 1960.

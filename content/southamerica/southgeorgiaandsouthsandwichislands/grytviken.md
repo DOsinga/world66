@@ -14,6 +14,9 @@ heritage: 2.8
 vibrancy: 0.5
 nature: 7.7
 off_the_beaten_track: 7.5
+profile_verdict: 'Grytviken''s real draw is remoteness: a derelict whaling station
+  on sub-Antarctic South Georgia, reachable only by boat, where Ernest Shackleton
+  is buried within sight of rusting factory ruins.'
 ---
 
 Grytviken is a former whaling station on South Georgia, set in King Edward Cove beneath bare hills and often visited by expedition ships on their way to or from Antarctica. It has no ordinary town life now, but it is one of the most memorable landings in the South Atlantic: half industrial ruin, half polar shrine, with seals and penguins taking back the ground between rusted tanks and old boats.

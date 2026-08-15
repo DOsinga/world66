@@ -18,6 +18,9 @@ heritage: 8.3
 vibrancy: 3.9
 nature: 4.1
 off_the_beaten_track: 2.6
+profile_verdict: 'Hiraizumi''s real draw is heritage: this former seat of the 12th-century
+  Northern Fujiwara clan holds the gold-leafed Konjikido hall and the Pure Land gardens
+  of Motsu-ji temple.'
 ---
 
 Hiraizumi is a small town in Iwate with a past far larger than its present. In the 12th century, the Northern Fujiwara built a Buddhist city here that was meant to rival Kyoto. Most of that splendour is gone, but enough remains for Hiraizumi to feel like one of northern Honshu's most moving historical stops.

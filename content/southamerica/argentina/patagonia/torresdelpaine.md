@@ -27,6 +27,9 @@ heritage: 5.3
 vibrancy: 1.5
 nature: 9.4
 off_the_beaten_track: 6.6
+profile_verdict: 'Torres del Paine is one of the world''s best for nature: granite
+  towers, turquoise lakes, glaciers, guanacos, and roaming pumas across genuinely
+  remote Patagonia.'
 ---
 
 Torres del Paine National Park, across the border in Chile, is one of the most spectacular wilderness areas in South America. The park covers 935 square miles of staggering variety: wind-bent grasslands give way to turquoise lakes, ancient forests, and the sheer granite towers that give the park its name. The [three Torres](/southamerica/argentina/patagonia/torresdelpaine/torres_viewpoint) — soaring rock pillars that glow pink at dawn — are the iconic image of Patagonia.

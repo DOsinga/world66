@@ -30,6 +30,9 @@ heritage: 7.0
 vibrancy: 10.0
 nature: 5.6
 off_the_beaten_track: 1.0
+profile_verdict: 'London is one of the world''s best for vibrancy and heritage: West
+  End theatre, Shoreditch nightlife, and two thousand years of history, from Roman
+  walls to Wren''s churches.'
 ---
 
 London is one of the great world cities — a place where you can eat Ethiopian in Brixton, see a West End show, walk through a Roman fort, and end the evening in a Georgian pub all in a single day. It is vast, expensive, and occasionally exhausting, but it repays effort in a way that few cities can match.

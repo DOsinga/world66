@@ -19,6 +19,9 @@ heritage: 9.1
 vibrancy: 3.3
 nature: 4.1
 off_the_beaten_track: 3.6
+profile_verdict: 'Jaisalmer is one of the world''s best for heritage: a honey-gold
+  sandstone fort rising from the Thar Desert that''s still lived in, one of the few
+  ''living forts'' left anywhere.'
 ---
 
 Jaisalmer rises from the Thar Desert like a sandcastle come to life. The massive fort, built of golden-yellow sandstone, is a living citadel -- about a quarter of the old city's population still lives within its walls, along with Jain temples, havelis, and guest houses. Seen from a distance across the desert, especially at sunset, it is one of the most striking sights in India.

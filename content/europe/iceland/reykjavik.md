@@ -30,6 +30,8 @@ heritage: 3.9
 vibrancy: 5.4
 nature: 7.7
 off_the_beaten_track: 2.5
+profile_verdict: 'Reykjavik''s real strength is nature just beyond city limits: the
+  Golden Circle, glaciers, and the Northern Lights overhead.'
 ---
 
 Reykjavik is the world's northernmost capital and one of its smallest — about 140,000 people live in the city itself, around two-thirds of the country's entire population. It is also one of the youngest, having spent most of its history as a fishing village before stepping into a capital's role only in the late nineteenth century. The result is a city that feels more like an unusually cosmopolitan small town: brightly painted corrugated-iron houses, a working harbour, and a centre you can walk across in twenty minutes.

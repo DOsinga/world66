@@ -14,6 +14,9 @@ heritage: 5.2
 vibrancy: 7.2
 nature: 0.2
 off_the_beaten_track: 8.5
+profile_verdict: 'Nablus''s real draw is going somewhere few tourists do: this West
+  Bank city is known for its knafeh pastry and olive-oil soap, though checkpoints
+  can make travel unpredictable.'
 ---
 
 Nablus is one of the most interesting cities in the northern West Bank, set in a valley between Mount Gerizim and Mount Ebal 63 kilometres north of [Jerusalem](/asia/israel/jerusalem). Founded in 72 AD by the Roman Emperor Titus as Flavia Neapolis, it remained under that name until the Arab conquest in 636 AD.

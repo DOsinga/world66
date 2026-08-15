@@ -15,6 +15,9 @@ heritage: 4.3
 vibrancy: 3.3
 nature: 7.3
 off_the_beaten_track: 7.5
+profile_verdict: 'Gagra''s real draw is its off-the-map remoteness: a Soviet-era Black
+  Sea resort in Abkhazia, a breakaway region still shadowed by unresolved conflict
+  and tricky to reach.'
 ---
 
 Gagra is the old resort face of [Abkhazia](/europe/georgia/abkhazia): a narrow Black Sea strip backed almost immediately by the Caucasus foothills. Palms, cypresses, sea air, and decaying imperial-resort architecture give it a mood very different from inland Georgia. Old Gagra, around the park and fortress, is the part worth your time.

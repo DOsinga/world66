@@ -19,6 +19,9 @@ heritage: 7.5
 vibrancy: 9.5
 nature: 0.1
 off_the_beaten_track: 1.8
+profile_verdict: 'Calcutta is one of the world''s best for vibrancy: a city of poets,
+  protest, and Durga Puja crowds, where street food, trams, and endless conversation
+  never really stop.'
 ---
 
 Kolkata -- still called Calcutta by most of its residents and all of its admirers -- is unlike any other Indian city. It is crumbling and grand, intellectual and chaotic, desperately poor and culturally wealthy. As the capital of British India until 1911, it accumulated some of the subcontinent's finest colonial architecture, and as the hometown of Rabindranath Tagore, Satyajit Ray, and Mother Teresa, it holds an outsized place in India's cultural life.

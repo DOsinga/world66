@@ -18,11 +18,13 @@ and a page `de_pijp.md` exists with `type: neighbourhood`, that POI appears unde
 A nav page's query tag defaults to its slug; set `tag: <value>` in frontmatter to override.
 """
 
+import bisect
 from dataclasses import dataclass, field
 from functools import lru_cache
 from pathlib import Path
 
 import frontmatter
+import numpy as np
 from django.conf import settings
 
 from . import github
@@ -859,3 +861,167 @@ def load_continents():
                 _, locations, _ = loc.children()
                 continents.append((loc, locations))
     return continents
+
+
+DIMENSION_FIELDS = ("heritage", "vibrancy", "nature", "off_the_beaten_track")
+DIMENSION_LABELS = {
+    "heritage": "Heritage",
+    "vibrancy": "Vibrancy",
+    "nature": "Nature",
+    "off_the_beaten_track": "Off The Beaten Track",
+}
+HIDDEN_VECTORS_FILE = Path(settings.BASE_DIR) / "scoring" / "data" / "all_location_hidden_12.npz"
+# Hidden values are tanh-bounded to [-1, 1] (verified against the actual data),
+# so the theoretical max Euclidean distance between two 12-dim points is
+# sqrt(12 * 2**2) — used to normalize distance into a 0-100 "match" percentage.
+_MAX_HIDDEN_DISTANCE = (12 * 2 ** 2) ** 0.5
+
+
+@lru_cache(maxsize=1)
+def _load_hidden_vectors():
+    """Load the scoring model's raw 12-dim hidden vectors per location (see
+    scoring/SCORING.md's pipeline) as (paths list, N x 12 float32 matrix,
+    {path: row index}). This is the model's own internal representation
+    used for "similar places" — richer than the 4 public dimensions, but
+    un-curated (produced before the human-edited steering/calibration step)
+    and not visible/interpretable anywhere on the page itself."""
+    data = np.load(HIDDEN_VECTORS_FILE, allow_pickle=True)
+    paths = [str(p) for p in data["paths"]]
+    matrix = data["hidden"]
+    return paths, matrix, {p: i for i, p in enumerate(paths)}
+
+
+@lru_cache(maxsize=1)
+def load_dimension_index():
+    """Scan all content files and return {path: (4 dimension scores)} for every
+    location that has all four (see scoring/backfill_dimension_scores.py)."""
+    index = {}
+    for md_file in sorted(CONTENT_DIR.rglob("*.md")):
+        result = _load_md(md_file)
+        if not result:
+            continue
+        meta, _ = result
+        if meta.get("type") != "location":
+            continue
+        if any(meta.get(field) is None for field in DIMENSION_FIELDS):
+            continue
+        rel = md_file.relative_to(CONTENT_DIR)
+        parts = list(rel.parts)
+        stem = parts[-1][:-3]
+        if len(parts) >= 2 and stem == parts[-2]:
+            url_path = "/".join(parts[:-1])
+        else:
+            url_path = "/".join(parts[:-1] + [stem]) if len(parts) > 1 else stem
+        index[url_path] = tuple(float(meta[field]) for field in DIMENSION_FIELDS)
+    return index
+
+
+@lru_cache(maxsize=1)
+def _sorted_dimension_scores():
+    """One sorted list of scores per dimension field, for percentile lookups."""
+    index = load_dimension_index()
+    return {
+        field: sorted(vector[i] for vector in index.values())
+        for i, field in enumerate(DIMENSION_FIELDS)
+    }
+
+
+def dimension_percentile(field, value):
+    """Return what percent of scored locations this value beats or ties on
+    `field`, as a "top N%" figure (100 = uniquely lowest, ~0 = highest)."""
+    scores = _sorted_dimension_scores()[field]
+    rank_from_bottom = bisect.bisect_left(scores, value)
+    return 100 * (len(scores) - rank_from_bottom) / len(scores)
+
+
+def _ranked_by_distance(path):
+    """[(other_path, distance), ...] sorted nearest-first, excluding path itself.
+    Vectorized over the 12-dim hidden-vector matrix (one subtraction + norm +
+    argsort over ~9k rows), not a per-pair Python loop — stays fast regardless
+    of traffic."""
+    paths, matrix, index_by_path = _load_hidden_vectors()
+    row = index_by_path.get(path)
+    if row is None:
+        return []
+    distances = np.linalg.norm(matrix - matrix[row], axis=1)
+    order = np.argsort(distances)
+    return [(paths[i], float(distances[i])) for i in order if paths[i] != path]
+
+
+def _country_path(path):
+    """First two path segments (continent/country) — country pages never
+    nest deeper than that, regions/cities/features are always below."""
+    parts = path.split("/")
+    return "/".join(parts[:2]) if len(parts) >= 2 else path
+
+
+@lru_cache(maxsize=1)
+def _country_dimension_ranks():
+    """{path: {field: (rank, total)}} — 1-based rank within the same country
+    (see _country_path) for each dimension. Computed once per process from
+    the already-loaded dimension index (grouping + sorting ~9k in-memory
+    entries), not a filesystem scan, so it's cheap even without warming —
+    warmed anyway in guide/apps.py alongside load_dimension_index()."""
+    index = load_dimension_index()
+    by_country = {}
+    for path, vector in index.items():
+        by_country.setdefault(_country_path(path), []).append((path, vector))
+
+    ranks = {}
+    for entries in by_country.values():
+        total = len(entries)
+        for i, field in enumerate(DIMENSION_FIELDS):
+            ranked = sorted(entries, key=lambda e: e[1][i], reverse=True)
+            for rank, (p, _) in enumerate(ranked, start=1):
+                ranks.setdefault(p, {})[field] = (rank, total)
+    return ranks
+
+
+def dimension_country_rank(path, field):
+    """1-based (rank, total) for path within its own country on field, or
+    (None, 0) if path isn't in the scored index at all."""
+    return _country_dimension_ranks().get(path, {}).get(field, (None, 0))
+
+
+def find_similar_with_match_grouped(path, k=3):
+    """Like find_similar_by_scores, but split into (same_country, other_country)
+    lists of up to k (path, match_pct) pairs each, nearest-first within each
+    group. match_pct is the distance normalized against the theoretical max
+    distance in this space."""
+    country = _country_path(path)
+    same, other = [], []
+    for other_path, distance in _ranked_by_distance(path):
+        if len(same) >= k and len(other) >= k:
+            break
+        match_pct = round(100 * (1 - distance / _MAX_HIDDEN_DISTANCE))
+        bucket = same if _country_path(other_path) == country else other
+        if len(bucket) < k:
+            bucket.append((other_path, match_pct))
+    return same, other
+
+
+def find_dimension_alternatives(path, k=3):
+    """For each dimension, up to k "nearby" locations (sharing this path's
+    immediate parent directory — the region/country it actually sits in, not
+    just the same country broadly) that beat it on that dimension, highest
+    first. Returns {field: [(other_path, other_score), ...]} — an empty list
+    when nothing under the same parent scores higher, including when there
+    are no other scored siblings at all."""
+    index = load_dimension_index()
+    vector = index.get(path)
+    candidates = {field: [] for field in DIMENSION_FIELDS}
+    if vector is None or "/" not in path:
+        return candidates
+
+    parent = path.rsplit("/", 1)[0]
+    for other_path, other_vector in index.items():
+        if other_path == path or other_path.rsplit("/", 1)[0] != parent:
+            continue
+        for i, field in enumerate(DIMENSION_FIELDS):
+            if other_vector[i] > vector[i]:
+                candidates[field].append((other_path, other_vector[i]))
+
+    return {
+        field: sorted(items, key=lambda pair: pair[1], reverse=True)[:k]
+        for field, items in candidates.items()
+    }

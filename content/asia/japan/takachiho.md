@@ -12,6 +12,8 @@ heritage: 5.4
 vibrancy: 2.4
 nature: 8.2
 off_the_beaten_track: 4.2
+profile_verdict: 'Takachiho''s real draw is nature: a narrow gorge of sheer volcanic
+  cliffs and a waterfall you can row a boat right up to, tied to old Shinto myth.'
 ---
 
 Takachiho is a mountain town in north-western Miyazaki where landscape and myth meet neatly. Its gorge is one of Kyushu's classic sights, a narrow cut of dark volcanic rock, green water, and the Minai Waterfall dropping into the Gokase River.

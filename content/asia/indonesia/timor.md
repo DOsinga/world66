@@ -18,6 +18,8 @@ heritage: 5.8
 vibrancy: 2.4
 nature: 7.1
 off_the_beaten_track: 7.6
+profile_verdict: 'Timor''s real draw is how far off the beaten track it sits: dry
+  savannah, traditional villages, and a culture far removed from Bali''s crowds.'
 ---
 
 West Timor is the Indonesian half of Timor island, part of East Nusa Tenggara province. Most travellers pass through on their way to or from [East Timor](/asia/easttimor) or Australia, but the region has its own rough appeal — dry savannahs, traditional villages, and a culture quite distinct from the rest of Indonesia.

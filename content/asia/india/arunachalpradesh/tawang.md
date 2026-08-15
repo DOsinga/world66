@@ -17,6 +17,8 @@ heritage: 8.8
 vibrancy: 1.6
 nature: 7.5
 off_the_beaten_track: 6.2
+profile_verdict: 'Tawang is one of the world''s best for heritage: its 17th-century
+  monastery, the largest in India, sits high in the Himalayas near the Tibetan border.'
 ---
 
 Situated at over 3,000 metres in the far northwest of Arunachal Pradesh, Tawang is renowned for its 400-year-old Buddhist monastery — the largest in India and second only to the Potala Palace in Lhasa. The [Tawang Monastery](/asia/india/arunachalpradesh/tawang/tawang_monastery), also known as Galden Namgyal Lhatse, was founded by Mera Lama, a contemporary of the fifth Dalai Lama. The sixth Dalai Lama was born at nearby [Urgelling Monastery](/asia/india/arunachalpradesh/tawang/urgelling_monastery).

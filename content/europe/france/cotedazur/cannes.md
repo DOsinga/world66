@@ -18,6 +18,9 @@ heritage: 8.3
 vibrancy: 8.5
 nature: 5.3
 off_the_beaten_track: 0.7
+profile_verdict: 'Cannes is one of the world''s best for vibrancy: for two weeks each
+  May its Croisette turns into the center of the film world, all yachts, red carpets,
+  and flashbulbs.'
 ---
 
 Cannes is glamour on the French Riviera — a city that built its identity on celebrity, film festivals, and designer shopping, but still has the bones of a Provençal fishing town underneath. The annual [Cannes Film Festival](/europe/france/cotedazur/cannes/cannes_film_festival) turns the [Croisette](/europe/france/cotedazur/cannes/promenade_de_la_croisette) into a global stage every May, but outside those two frantic weeks, Cannes is a surprisingly walkable place with good beaches, fine dining, and easy day trips along the coast.

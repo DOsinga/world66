@@ -16,6 +16,9 @@ heritage: 8.8
 vibrancy: 1.9
 nature: 3.2
 off_the_beaten_track: 5.5
+profile_verdict: 'Great Zimbabwe is one of the world''s best for heritage: its massive
+  dry-stone walls, built without mortar centuries ago, form the largest ancient structure
+  in sub-Saharan Africa.'
 ---
 
 Great Zimbabwe is the largest stone ruin in sub-Saharan Africa south of the Sahara, and one of the most important archaeological sites on the continent. Built between the eleventh and fifteenth centuries, it was the capital of a wealthy Shona trading state that controlled gold and ivory routes between the interior and the Indian Ocean coast. The name Zimbabwe — "houses of stone" — gave the modern country its name at independence in 1980.

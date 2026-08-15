@@ -18,6 +18,9 @@ heritage: 8.2
 vibrancy: 0.9
 nature: 8.7
 off_the_beaten_track: 6.3
+profile_verdict: 'L''Anse aux Meadows is one of the world''s best for nature: windswept
+  headlands and drifting icebergs frame the earliest known Norse settlement in the
+  New World.'
 ---
 
 At the very northern tip of [Newfoundland](/northamerica/canada/newfoundland), L'Anse aux Meadows is the earliest known European settlement in the New World — a Norse outpost dating to around 1000 AD, five centuries before Columbus. The site was discovered in 1960 by Norwegian explorers Helge and Anne Stine Ingstad and became a UNESCO World Heritage Site in 1978.

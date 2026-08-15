@@ -28,6 +28,9 @@ heritage: 7.5
 vibrancy: 8.2
 nature: 7.4
 off_the_beaten_track: 1.6
+profile_verdict: 'Seville pairs real vibrancy with deep heritage: flamenco in neighborhood
+  bars, not just tourist tablaos, beneath the Moorish Alcázar and the world''s largest
+  Gothic cathedral.'
 ---
 
 Seville is the capital of Andalucía and the most purely, exuberantly Andalucían city in Spain. Where Barcelona is cosmopolitan and Madrid is national, Seville is intensely local — obsessed with its own traditions, its own rhythms, and its own calendar. Flamenco was born here. The April Fair, the most famous feria in Spain, happens here. Semana Santa transforms the streets every spring into the most theatrical religious event in Europe. If you want to understand what makes southern Spain different from the rest of the country, this is where to come.

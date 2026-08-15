@@ -28,6 +28,8 @@ heritage: 7.9
 vibrancy: 4.4
 nature: 4.6
 off_the_beaten_track: 2.2
+profile_verdict: 'Cuzco''s heritage is the whole point: Inca stonework forms the base
+  of Spanish colonial walls at nearly every turn.'
 ---
 
 **Cuzco** was the capital of the Inca empire and is Peru's undisputed tourist capital today, thanks to a heritage unmatched anywhere in the Americas. Many streets in the city centre are lined with buildings that incorporate whole sections of ancient Inca walls — the Spanish built their colonial city directly on the foundations of the Inca one, and both layers are still visible everywhere you look.

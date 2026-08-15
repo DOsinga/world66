@@ -17,6 +17,9 @@ heritage: 9.5
 vibrancy: 2.6
 nature: 3.7
 off_the_beaten_track: 4.0
+profile_verdict: 'Jerash is one of the world''s best for heritage: a stunningly complete
+  Roman provincial city, with its oval forum, colonnaded Cardo, and hilltop theatres
+  intact.'
 ---
 
 Jerash is a must-see. Hidden under a Circassian farming town until excavations began in the 1920s, the ruins of ancient Gerasa turned out to be among the best-preserved Greco-Roman provincial cities in the world — sometimes called the "Pompeii of the East."

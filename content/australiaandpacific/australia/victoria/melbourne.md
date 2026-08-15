@@ -30,6 +30,9 @@ heritage: 6.8
 vibrancy: 8.1
 nature: 3.1
 off_the_beaten_track: 1.4
+profile_verdict: 'Melbourne''s real draw is vibrancy: hidden laneway bars, a fierce
+  coffee culture, prolific street art, and a live-music scene that rivals any city
+  in the southern hemisphere.'
 ---
 
 Melbourne is Australia's second-largest city and its strongest claim to a cultural capital. It is a city that lives in its laneways, where street art covers the walls of [Hosier Lane](/australiaandpacific/australia/victoria/melbourne/hosier_lane), tiny bars hide behind unmarked doors, and some of the country's best restaurants operate from spaces you would walk past without noticing. The waves of immigration since World War II have given Melbourne an extraordinary diversity, from the Italian quarter in [Carlton](/australiaandpacific/australia/victoria/melbourne/carlton) to the Greek precinct of Oakleigh and the Vietnamese restaurants lining [Victoria Street in Richmond](/australiaandpacific/australia/victoria/melbourne/richmond_victoria_street).

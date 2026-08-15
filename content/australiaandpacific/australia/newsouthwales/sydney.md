@@ -29,6 +29,9 @@ heritage: 8.9
 vibrancy: 9.1
 nature: 4.2
 off_the_beaten_track: 1.1
+profile_verdict: 'Sydney is one of the world''s best for heritage and vibrancy: the
+  Rocks'' convict-era streets and the Opera House alongside Bondi''s beach culture
+  and harbourside nightlife.'
 ---
 
 Sydney is built around one of the most beautiful natural harbours in the world, and that harbour shapes everything about the city. The [Sydney Opera House](/australiaandpacific/australia/newsouthwales/sydney/opera_house) and [Harbour Bridge](/australiaandpacific/australia/newsouthwales/sydney/harbour_bridge) are the famous landmarks, but the real pleasure is in how water threads through daily life here — ferries crisscrossing the harbour, coastal walks connecting beach after beach, and that particular quality of light bouncing off the Pacific.

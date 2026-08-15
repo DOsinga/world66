@@ -20,6 +20,9 @@ heritage: 4.6
 vibrancy: 1.6
 nature: 7.7
 off_the_beaten_track: 9.0
+profile_verdict: 'Chitral is one of the world''s most off-the-beaten-track valleys:
+  a Hindu Kush corridor beneath 7,708-metre Tirich Mir, home to the animist Kalash
+  and their vivid, rarely-seen festivals.'
 ---
 
 Chitral is one of Pakistan's most remote and extraordinary valleys — a 322-kilometre corridor hemmed in by Afghanistan on three sides and separated from Tajikistan only by the narrow Wakhan strip. At its heart sits [Tirich Mir](/asia/pakistan/chitral/tirich_mir), the highest peak of the Hindu Kush at 7,708 metres, presiding over a landscape that draws mountaineers, trekkers, anglers and anthropologists alike.

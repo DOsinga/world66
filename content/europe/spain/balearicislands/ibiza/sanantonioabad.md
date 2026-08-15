@@ -14,6 +14,9 @@ heritage: 1.8
 vibrancy: 5.7
 nature: 8.5
 off_the_beaten_track: 1.5
+profile_verdict: 'San Antonio Abad is one of the world''s best for nature: Ibiza''s
+  famous west-coast sunsets over the bay, plus the pine-backed coves of Cala Comte
+  nearby.'
 ---
 
 San Antonio Abad — known simply as San An to most visitors — is Ibiza's second town, sitting on the west coast around a broad bay. It is unambiguously a package resort: the waterfront is lined with apartment blocks and hotels, the bars cater to cheap-drinks crowds, and the beach fills up in summer with sunbathers from across Europe. If you are hoping for the boutique calm of Ibiza Town, you will not find it here.

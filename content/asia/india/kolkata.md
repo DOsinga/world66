@@ -15,6 +15,9 @@ heritage: 3.4
 vibrancy: 9.6
 nature: 0.1
 off_the_beaten_track: 1.3
+profile_verdict: 'Kolkata is one of the world''s best cities for vibrancy: colonial
+  architecture, tram bells, College Street''s book stalls, and Durga Puja crowds fill
+  every street.'
 ---
 
 Kolkata (formerly Calcutta) is one of India's great and complicated cities — a former imperial capital that still carries the grandeur and the wounds of that history in equal measure. It sits in the Ganges delta in West Bengal, and its position as the East India Company's main port made it the richest city in Asia for a century before Delhi took over as the British administrative centre in 1911. The old wealth shows in the colonial architecture along the Strand and around Dalhousie Square, and the relative decline since then shows everywhere else.

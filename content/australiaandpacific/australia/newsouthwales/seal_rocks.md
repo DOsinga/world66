@@ -13,6 +13,9 @@ heritage: 1.8
 vibrancy: 1.0
 nature: 8.1
 off_the_beaten_track: 6.0
+profile_verdict: 'Seal Rocks'' real draw is nature: a tiny village on the New South
+  Wales coast built around one of Australia''s best dive sites, home to grey nurse
+  sharks.'
 ---
 
 Seal Rocks is a small, stubbornly unpolished beach village on the New South Wales Mid-North Coast. It sits on a steep little peninsula between surf beaches, rocky headlands, and the edge of Myall Lakes National Park.

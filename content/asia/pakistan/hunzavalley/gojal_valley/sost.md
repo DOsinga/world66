@@ -18,6 +18,9 @@ heritage: 1.7
 vibrancy: 0.5
 nature: 7.6
 off_the_beaten_track: 7.5
+profile_verdict: 'Sost''s real draw is remoteness: it''s the last town in Pakistan
+  on the Karakoram Highway, a customs post before the road climbs to Khunjerab Pass
+  and China.'
 ---
 
 Sost is the last town in Pakistan on the Karakoram Highway before the Chinese border at the [Khunjerab Pass](/asia/pakistan/hunzavalley/gojal_valley/sost/khunjerab_pass) (4,693 metres). It sits in the Gojal Valley of Gilgit-Baltistan, a narrow settlement stretched along the road in a dramatic canyon landscape of rock and snow.

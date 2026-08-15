@@ -30,6 +30,9 @@ heritage: 7.1
 vibrancy: 9.2
 nature: 7.1
 off_the_beaten_track: 0.9
+profile_verdict: 'Vienna is one of the world''s best for vibrancy: coffee-house culture,
+  world-class opera, and underground clubs, all layered over six centuries of Habsburg
+  heritage.'
 ---
 
 Vienna is one of Europe's great imperial capitals, a city that spent six centuries as the heart of the Habsburg Empire and has never quite forgotten it. The architecture is monumental, the coffee houses are legendary, and the cultural life — opera, classical music, museums — is among the richest on the continent. It also has an unexpectedly lively contemporary scene, with excellent restaurants, underground clubs, and one of Europe's most inventive wine cultures in the hills just beyond the suburbs.

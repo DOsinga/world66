@@ -18,6 +18,8 @@ heritage: 4.1
 vibrancy: 2.8
 nature: 9.1
 off_the_beaten_track: 7.9
+profile_verdict: 'Nybyen is one of the world''s best for nature: polar bears, calving
+  glaciers, and the Arctic wilderness of Spitsbergen begin right at its snowy edge.'
 ---
 
 Nybyen sits at the southern end of Longyear Valley, at the foot of the Longyear Glacier. Store Norske Spitsbergen Kulkompani built this tiny settlement after the Second World War to house its miners — eight solid timber houses, a bathhouse, a laundry, a shop, and a canteen known as Stormessa ("the big mess").

@@ -27,6 +27,8 @@ heritage: 3.6
 vibrancy: 1.5
 nature: 8.0
 off_the_beaten_track: 5.0
+profile_verdict: 'Iguazu Falls is defined by nature: hundreds of waterfalls, rainforest,
+  and toucans and coatis roaming the trails through the surrounding jungle.'
 ---
 
 Iguazu Falls straddles the border between Argentina and [Brazil](/southamerica/brazil), and can be visited from either side — or even from [Paraguay](/southamerica/paraguay), a short distance away. Despite being heavily visited, the falls remain genuinely spectacular. No amount of tourism infrastructure diminishes the force of standing at the edge of the Garganta del Diablo (Devil's Throat) and looking down into the roaring abyss.

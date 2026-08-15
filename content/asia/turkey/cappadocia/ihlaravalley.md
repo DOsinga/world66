@@ -18,6 +18,9 @@ heritage: 8.6
 vibrancy: 4.1
 nature: 7.7
 off_the_beaten_track: 4.4
+profile_verdict: 'Ihlara Valley is one of the world''s best for heritage: around 100
+  rock-cut Byzantine churches with frescoes lining a dramatic gorge cut by the Melendiz
+  River.'
 ---
 
 Ihlara Valley is arguably the most spectacular scenery in [Cappadocia](/asia/turkey/cappadocia). The gorge runs for 16 km, cut by the [Melendiz river](/asia/turkey/cappadocia/ihlaravalley/melendiz_river) through volcanic rock, with steep walls rising up to 150 metres on either side. It lies somewhat apart from the main Cappadocian tourist circuit — getting here takes a bit more effort — but it rewards the trip with an atmosphere that's noticeably quieter than Göreme or Ürgüp.

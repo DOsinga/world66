@@ -29,6 +29,9 @@ heritage: 7.6
 vibrancy: 8.0
 nature: 4.7
 off_the_beaten_track: 1.0
+profile_verdict: Osaka is loud, friendly vibrancy first — Dotonbori's neon food scene
+  — backed by real heritage at Osaka Castle and Shitennoji, one of Japan's oldest
+  temples.
 ---
 
 Osaka is Japan's third-largest city and its most extroverted. Where Tokyo is polished and Kyoto is refined, Osaka is loud, friendly, and proud of its food. The local phrase is "kuidaore" — eat until you drop — and the city takes it seriously. [Takoyaki stalls, okonomiyaki restaurants](/asia/japan/honshu/osaka/eating_out), and [kushikatsu bars](/asia/japan/honshu/osaka/yoshimoto_infty) are everywhere.

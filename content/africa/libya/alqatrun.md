@@ -17,6 +17,9 @@ heritage: 6.1
 vibrancy: 2.2
 nature: 4.0
 off_the_beaten_track: 9.1
+profile_verdict: 'Al Qatrun is about as off the beaten track as it gets: a remote
+  Saharan outpost in southern Libya, reached across desert amid the country''s ongoing
+  instability.'
 ---
 
 Al Qatrun (also Al Gatrun) is a small desert oasis in the Fezzan, close to the borders of Niger and Chad. It is largely a transit point for southward travel rather than a destination in itself, with a fuel station, basic supplies, and a Niger consulate that was historically used by travelers crossing into Niger.

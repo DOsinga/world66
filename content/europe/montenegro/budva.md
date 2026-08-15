@@ -19,6 +19,8 @@ heritage: 6.1
 vibrancy: 7.9
 nature: 6.5
 off_the_beaten_track: 2.5
+profile_verdict: 'Budva''s real draw is vibrancy: a walled Old Town packed against
+  beach clubs, all-night bars, and boats out to Sveti Stefan along the coast.'
 ---
 
 Budva is Montenegro's main beach resort and its most touristy town. In July and August it is very busy — packed beaches, thumping nightclubs, and hotel prices that would make you wince. Come in May, June, or September and it's a genuinely enjoyable place: a small [walled old town](/europe/montenegro/budva/old_town) on a rocky peninsula surrounded by water, warm sea, and a relaxed pace.

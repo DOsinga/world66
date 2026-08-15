@@ -30,6 +30,9 @@ heritage: 7.0
 vibrancy: 5.3
 nature: 6.2
 off_the_beaten_track: 1.2
+profile_verdict: 'Copenhagen''s strength is its history: Nyhavn''s canal houses and
+  Rosenborg Castle anchor centuries of royal heritage, softened by watery, laid-back
+  charm.'
 ---
 
 Copenhagen began as a tiny fishing village called Havn in the 12th century. Bishop Absalon of Roskilde fortified it, traders followed, and by 1417 it was the capital of Denmark. Today it is one of Europe's most livable cities, a place where old royal palaces sit comfortably alongside bold modern architecture, and where nearly half the population commutes by bicycle.

@@ -18,6 +18,9 @@ heritage: 2.5
 vibrancy: 0.5
 nature: 7.3
 off_the_beaten_track: 7.5
+profile_verdict: '''Eua''s real draw is off the beaten track: a rugged, rarely visited
+  Tongan island of rainforest, sea caves, and cliffside trails, reachable only by
+  small boat or plane from Tongatapu.'
 ---
 
 'Eua is Tonga's oldest island geologically, and its most rugged. Where the rest of Tonga is flat limestone, 'Eua has real hills — forested, cut through with walking tracks, and edged with sea cliffs that drop directly into the ocean on the east coast. It's 35km long and just 8km wide, and sits about 40km southeast of Tongatapu.

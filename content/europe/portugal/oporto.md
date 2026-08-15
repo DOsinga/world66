@@ -19,6 +19,9 @@ heritage: 6.1
 vibrancy: 8.1
 nature: 8.2
 off_the_beaten_track: 1.4
+profile_verdict: 'Porto''s real draw is its riverside vibrancy and nature: port wine
+  lodges in Vila Nova de Gaia, tiled Ribeira alleys, and the terraced Douro Valley
+  just upstream.'
 ---
 
 Porto (or Oporto) is the capital of northern Portugal, built steep and dense above the right bank of the Douro river. It is Portugal's second city and its working heart — less polished than Lisbon, more industrial in character, and proud of it. The Portuguese saying goes: "Lisbon shows off, Braga prays, Coimbra studies and Porto works."

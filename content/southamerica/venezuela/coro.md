@@ -16,6 +16,10 @@ sources:
 - https://whc.unesco.org/en/list/658
 title: Coro
 type: location
+heritage: 3.9
+vibrancy: 3.5
+nature: 5.2
+off_the_beaten_track: 5.2
 ---
 
 Santa Ana de Coro is the second-oldest city in Venezuela — founded in 1527, three years after [Cumaná](/southamerica/venezuela/cumana) — and the country's only continental UNESCO World Heritage Site. The old town is a quiet grid of low whitewashed houses, ochre-painted churches, mud-walled colonial mansions, and shaded patios; behind it the strange, surf-shaped landscape of the [Médanos de Coro](/southamerica/venezuela/coro/medanos_de_coro) sand dunes rolls toward the Caribbean. For a few decades in the 16th century, Coro was the capital of the German Welser colony — bankers who took Venezuela as security on a loan to Charles V and ran it from here.

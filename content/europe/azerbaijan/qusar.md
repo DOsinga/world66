@@ -13,6 +13,10 @@ snippet: Caucasus foothill town and Lezgin heartland beneath Mount Shahdag in no
   Azerbaijan
 title: Qusar
 type: location
+heritage: 3.3
+vibrancy: 3.0
+nature: 5.0
+off_the_beaten_track: 3.8
 ---
 
 Qusar sits in the northeastern corner of Azerbaijan, pressed against the foothills of the Greater Caucasus under the shadow of Mount Shahdag (4,243m). It is the cultural heartland of the Lezgin people, a Caucasian minority who straddle the border between Azerbaijan and Russia. The town stretches along the Qusar River in a rough east-west line, with the busy bazaar and bus station at the eastern end and the central square — anchored by the [Lezgin National Theatre](/europe/azerbaijan/qusar/lezgin_theatre), post office, and hotel — toward the middle.

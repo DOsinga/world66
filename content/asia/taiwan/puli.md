@@ -5,13 +5,18 @@ loc_type: city
 latitude: 23.9667
 longitude: 120.9667
 score: 7.25
-snippet: Central Taiwanese basin town known for water, paper-making, temples, and mountain access.
+snippet: Central Taiwanese basin town known for water, paper-making, temples, and
+  mountain access.
 wikidata: Q706544
 sources:
-  - https://en.wikivoyage.org/wiki/Puli
-  - https://en.wikipedia.org/wiki/Puli,_Nantou
-  - https://www.wikidata.org/wiki/Q706544
-  - https://eng.taiwan.net.tw/m1.aspx?id=5261&sno=0000208
+- https://en.wikivoyage.org/wiki/Puli
+- https://en.wikipedia.org/wiki/Puli,_Nantou
+- https://www.wikidata.org/wiki/Q706544
+- https://eng.taiwan.net.tw/m1.aspx?id=5261&sno=0000208
+heritage: 4.5
+vibrancy: 4.4
+nature: 5.4
+off_the_beaten_track: 2.1
 ---
 
 Puli sits almost exactly in the middle of Taiwan, in a green basin between the western plains and the Central Mountain Range. Many travellers pass through on the way to [Sun Moon Lake](/asia/taiwan/sunmoonlake), but the town has enough of its own character to reward a day: clear spring water, paper workshops, Buddhist architecture, and low hills on every side.

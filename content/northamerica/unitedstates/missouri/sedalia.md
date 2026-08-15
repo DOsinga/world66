@@ -14,6 +14,10 @@ snippet: West-central Missouri city known for the Missouri State Fair and Scott 
   ragtime years
 title: Sedalia
 type: location
+heritage: 2.9
+vibrancy: 2.5
+nature: 2.8
+off_the_beaten_track: 1.4
 ---
 
 Sedalia is a small city in west-central Missouri, roughly halfway between Kansas City and St. Louis on US-50. It is best known as the home of the Missouri State Fair, held every August, which draws hundreds of thousands of visitors for livestock shows, carnival rides, and concerts.

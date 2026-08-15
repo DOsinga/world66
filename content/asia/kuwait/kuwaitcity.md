@@ -11,6 +11,10 @@ snippet: Kuwaiti capital on Kuwait Bay, where oil-era towers replaced a mud-bric
   pearl-diving town.
 title: Kuwait City
 type: location
+heritage: 3.0
+vibrancy: 6.0
+nature: 2.6
+off_the_beaten_track: 1.5
 ---
 
 Kuwait City is the capital and the only real city in Kuwait. It sits on the southern shore of Kuwait Bay, a modern skyline of glass towers rising from what was, just seventy years ago, a small walled town of mud-brick houses and pearl-diving dhows.

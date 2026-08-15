@@ -14,6 +14,10 @@ snippet: Walled Valencian hill town in Els Ports, crowned by a castle above a co
   medieval core.
 title: Morella
 type: location
+heritage: 7.8
+vibrancy: 3.9
+nature: 4.8
+off_the_beaten_track: 3.0
 ---
 
 Morella is one of the best-preserved medieval walled cities in Spain, a fortified hilltop town of about 2,500 people rising dramatically from the Els Ports highlands of the Valencian Community. The entire old town sits within its original [circuit of walls](/europe/spain/castellon/morella/town_walls), crowned by a ruined [castle](/europe/spain/castellon/morella/castle) perched on a near-vertical crag that dominates the skyline for miles around. Walking the walls and climbing to the castle is the obvious first move, and the views over the surrounding hills and plains are worth every step.

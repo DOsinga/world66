@@ -14,6 +14,10 @@ snippet: Medieval Campanian hill town known for layered pastel streets and a cen
   ceramics tradition.
 title: Calitri
 type: location
+heritage: 5.2
+vibrancy: 2.4
+nature: 3.1
+off_the_beaten_track: 3.2
 ---
 
 *Europe > Italy > Campania > Calitri*

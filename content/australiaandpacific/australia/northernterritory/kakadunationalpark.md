@@ -17,6 +17,10 @@ sources:
 title: Kakadu National Park
 type: location
 score: 8.8
+heritage: 9.9
+vibrancy: 1.4
+nature: 8.5
+off_the_beaten_track: 6.7
 ---
 
 Kakadu National Park is the great wilderness east of [Darwin](/australiaandpacific/australia/northernterritory/darwin): a huge World Heritage landscape of floodplains, sandstone escarpments, monsoon forest, crocodile rivers, and Aboriginal rock art. It is not a quick zoo-style nature stop. Distances are long, seasons matter, and the park rewards travellers who give it time.

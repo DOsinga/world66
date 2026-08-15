@@ -9,6 +9,10 @@ score: 8.6
 loc_type: feature
 snippet: Rugged New Hampshire range anchored by Mount Washington and the White Mountain
   National Forest.
+heritage: 3.2
+vibrancy: 1.3
+nature: 7.7
+off_the_beaten_track: 5.5
 ---
 
 The White Mountains are the dominant geographical feature of New Hampshire and one of the most popular outdoor destinations in the northeastern United States. The range runs roughly 140 kilometres through the northern part of the state, encompassing the White Mountain National Forest and some of the most rugged terrain east of the Rockies.

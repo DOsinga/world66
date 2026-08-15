@@ -14,6 +14,10 @@ image: demir_kapija.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Demir_Kapija_115.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Rašo
+heritage: 7.7
+vibrancy: 2.4
+nature: 4.1
+off_the_beaten_track: 3.4
 ---
 
 Demir Kapija is a small town in southern [Macedonia](/europe/macedonia), where the Vardar River squeezes through the Iron Gate gorge. The town itself is quiet, but the setting is strong: limestone cliffs, caves, old tracks through the canyon, and vineyards that make this one of the country's better wine stops.

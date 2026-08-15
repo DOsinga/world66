@@ -14,6 +14,10 @@ snippet: Industrial city southwest of Taipei, best known for Taiwan Taoyuan Inte
   Airport and Daxi Old Street.
 title: Taoyuan
 type: location
+heritage: 3.8
+vibrancy: 4.4
+nature: 3.9
+off_the_beaten_track: 1.2
 ---
 
 Taoyuan is a sprawling industrial and residential city southwest of [Taipei](/asia/taiwan/taipei), best known to travellers as the location of Taiwan Taoyuan International Airport. Most people pass through without stopping, which is fair — there isn't much to hold you.

@@ -13,6 +13,10 @@ title: South of Mombasa
 type: location
 score: 7.62
 loc_type: city
+heritage: 4.4
+vibrancy: 5.7
+nature: 7.8
+off_the_beaten_track: 2.7
 ---
 
 The coastline south of Mombasa is Kenya's classic beach stretch — a long run of white coral-sand beaches fringed by casuarina trees, with the Indian Ocean warm and clear on the other side of the reef. From Likoni, the short ferry crossing from Mombasa, the coast road heads south past three distinct beaches: Shelly, Tiwi, and Diani. Each has its own character, and together they make up the most visited beach destination in Kenya.

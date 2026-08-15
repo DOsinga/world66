@@ -12,6 +12,10 @@ image: nam_ngum.jpg
 image_source: https://commons.wikimedia.org/wiki/File:ISS022-E-50280_-_View_of_Laos.jpg
 image_license: Public domain
 image_attribution: Earth Science and Remote Sensing Unit, Lyndon B. J
+heritage: 2.1
+vibrancy: 1.7
+nature: 3.8
+off_the_beaten_track: 3.4
 ---
 
 Nam Ngum is a sprawling artificial lake about 90 kilometres north of Vientiane, formed when the Nam Ngum River was dammed in the 1970s for what became one of Laos's first and most important hydroelectric projects. The reservoir flooded a wide valley, and the drowned forest left behind gives the lake its strange, memorable character: hundreds of small islands rise from the water, and bleached tree trunks still jut from the surface in the shallower reaches. It is the easiest big-landscape day trip from the capital, and on a clear day the combination of green hills, open water, and floating timber is genuinely striking.

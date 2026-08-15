@@ -14,6 +14,10 @@ snippet: Sauerland castle town where the world's first youth hostel opened insid
   Burg Altena.
 title: Altena
 type: location
+heritage: 4.2
+vibrancy: 2.0
+nature: 5.1
+off_the_beaten_track: 2.5
 ---
 
 Altena is a small town in the wooded hills of the Sauerland, but it holds an outsized place in travel history: [Burg Altena](/europe/germany/northrhinewestphalia/altena/burg_altena), the medieval castle above town, is where Richard Schirrmann opened the world's first youth hostel in 1914. The original hostel rooms have been preserved as a museum inside the castle, complete with period dormitories and Schirrmann's office, and the idea he started here grew into the global Hostelling International network with 4,000 hostels worldwide.

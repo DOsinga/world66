@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Sesimbra
 title: Sesimbra
 type: location
+heritage: 3.4
+vibrancy: 4.8
+nature: 5.7
+off_the_beaten_track: 2.3
 ---
 
 Sesimbra is a fishing town on the south side of the Serra da Arrábida, about an hour south of [Lisbon](/europe/portugal/lisbon). For most of its history it lived off the Atlantic — the harbour still launches the daily fleet at five in the morning and lands swordfish and amberjack at lunchtime — but since the 1960s it has also become the closest proper beach town for Lisboetas, who pour in on summer weekends. Out of season it relaxes back into being a working port with a long curve of beach attached.

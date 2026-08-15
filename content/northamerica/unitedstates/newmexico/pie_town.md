@@ -10,6 +10,10 @@ snippet: Remote New Mexico settlement on US 60, known for pie and the Continenta
   Divide Trail.
 title: Pie Town
 type: location
+heritage: 3.3
+vibrancy: 2.4
+nature: 5.1
+off_the_beaten_track: 4.8
 ---
 
 It is not the end of the world, but you can see it from here. Remote Pie Town, on US 60 in west-central New Mexico, can claim one of the most entertaining place names anywhere. And yes, they do serve pie here — come for the [annual Pie Town Pie Festival](/northamerica/unitedstates/newmexico/pie_town/pie_town_festival) in September, when the town's population temporarily multiplies and the pies flow freely.

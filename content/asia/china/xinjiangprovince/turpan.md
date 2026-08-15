@@ -13,6 +13,10 @@ title: Turpan
 type: location
 snippet: Silk Road oasis city in Xinjiang, surrounded by desert ruins, vineyards,
   and the Emin Minaret.
+heritage: 9.0
+vibrancy: 3.7
+nature: 6.0
+off_the_beaten_track: 4.6
 ---
 
 Turpan was one of the most important oasis cities on the Silk Road — a key stopping point on the route between China and Central Asia. Today it is a small, unhurried town where donkey carts still share the streets with cars, and the surrounding desert landscape is extraordinary.

@@ -23,6 +23,10 @@ title: Rotterdam
 snippet: Architecturally daring Dutch port city rebuilt after wartime destruction
   into a modernist skyline of bridges and towers
 type: location
+heritage: 4.4
+vibrancy: 7.4
+nature: 3.0
+off_the_beaten_track: 1.4
 ---
 
 Rotterdam is the Netherlands' second city and its most architecturally daring. Levelled by German bombing in 1940 — an event commemorated in [Zadkine's anguished bronze](/europe/netherlands/rotterdam/destroyed_city) at the Leuvehoofd — it rebuilt itself as a modernist experiment: a skyline of bold towers, avant-garde housing, and bridges that have made it a pilgrimage site for architecture fans worldwide. The line the bombing left behind is marked into the pavement of the city as the [Brandgrens](/europe/netherlands/rotterdam/brandgrens).

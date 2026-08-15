@@ -18,6 +18,10 @@ image: weston.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Trans-Allegheny_Lunatic_Asylum_2017_-11.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Taber Andrew Bain
+heritage: 3.8
+vibrancy: 2.0
+nature: 6.6
+off_the_beaten_track: 4.9
 ---
 
 Weston is a small town in central [West Virginia](/northamerica/unitedstates/westvirginia), just off I-79, with one sight so large and strange that it changes the scale of the place. The [Trans-Allegheny Lunatic Asylum](/northamerica/unitedstates/westvirginia/weston/trans_allegheny_lunatic_asylum) rises over town in long sandstone wings, a Civil War-era psychiatric hospital now open for history tours, ghost tours, and patient-art exhibits.

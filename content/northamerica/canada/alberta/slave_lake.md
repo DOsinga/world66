@@ -16,6 +16,10 @@ image: slave_lake.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lesser_Slave_Lake,_Alberta_photograph.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Bulliver
+heritage: 1.5
+vibrancy: 1.5
+nature: 6.0
+off_the_beaten_track: 5.3
 ---
 
 Slave Lake is a small northern Alberta town on the southeast shore of Lesser Slave Lake, about 255 km northwest of Edmonton. The town itself is practical rather than pretty, but the lake beside it changes the calculation: long sand beaches, boreal forest, bird migration, and big northern skies are all close at hand.

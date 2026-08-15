@@ -14,6 +14,10 @@ snippet: Tiny Utah ranching town on Scenic Byway 12, near Kodachrome Basin and P
   Canyon
 title: Cannonville
 type: location
+heritage: 2.2
+vibrancy: 1.5
+nature: 7.6
+off_the_beaten_track: 4.6
 ---
 
 Cannonville is a tiny ranching settlement in Garfield County, Utah, sitting along the famous [Scenic Byway 12](/northamerica/unitedstates/utah/cannonville/scenic_byway_12) between Bryce Canyon and Escalante. The town itself is minimal, but its location makes it a practical stop — [Kodachrome Basin State Park](/northamerica/unitedstates/utah/cannonville/kodachrome_basin) is just a few miles south, and the [Paria River canyon system](/northamerica/unitedstates/utah/cannonville/paria_canyon) begins nearby, attracting hikers and photographers.

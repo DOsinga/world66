@@ -13,6 +13,10 @@ image: dormitor.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Nacionalni_park_Durmitor_01.jpg
 image_license: CC BY-SA 4.0
 image_attribution: FrDr
+heritage: 2.4
+vibrancy: 1.0
+nature: 8.1
+off_the_beaten_track: 5.8
 ---
 
 Durmitor is Montenegro's mountain showpiece — a high limestone plateau in the northwest of the country, declared a UNESCO World Heritage Site in 1980. The park has around 50 peaks over 2000 metres, 18 glacial lakes (the "mountain eyes"), and the Tara Canyon, which at 1300 metres deep is the deepest gorge in Europe.

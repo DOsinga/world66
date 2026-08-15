@@ -14,6 +14,10 @@ snippet: Kenai Peninsula fishing town on Kachemak Bay, with a bohemian arts scen
   and working Spit.
 title: Homer
 type: location
+heritage: 5.2
+vibrancy: 4.0
+nature: 6.8
+off_the_beaten_track: 4.8
 ---
 
 Homer sits at the end of Sterling Highway on the south shore of the Kenai Peninsula, where the land runs out into Kachemak Bay. Locals call it "the cosmic hamlet by the sea" and also "a drinking town with a fishing problem" — both are accurate. The town has a bohemian streak unusual for Alaska, a serious arts scene, and more espresso cafes per capita than you might expect this far north.

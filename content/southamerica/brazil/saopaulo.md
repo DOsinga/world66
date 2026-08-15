@@ -22,6 +22,10 @@ tip: São Paulo is the biggest city in the southern hemisphere — a sprawling c
   and the energy. The traffic is legendary.
 title: São Paulo
 type: location
+heritage: 3.9
+vibrancy: 7.6
+nature: 2.4
+off_the_beaten_track: 1.6
 ---
 
 São Paulo is the largest city in the southern hemisphere, the economic engine of Brazil, and — to be honest — not a pretty city. Endless concrete, traffic that holds the world's worst-congestion records, a sprawl that takes hours to cross. What São Paulo lacks in beauty it makes up for in energy and diversity. This is the biggest Japanese city outside Japan, the biggest Italian city outside Italy, and home to over a million Lebanese descendants; the food, the music, and the nightlife draw from all of them.

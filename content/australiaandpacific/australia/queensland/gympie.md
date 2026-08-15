@@ -14,6 +14,10 @@ snippet: Queensland gold-rush town whose 1867 discovery helped pull the colony f
   financial trouble
 title: Gympie
 type: location
+heritage: 4.6
+vibrancy: 2.9
+nature: 5.3
+off_the_beaten_track: 3.9
 ---
 
 Gympie is a gold-rush town in the hinterland of Queensland's Sunshine Coast, about 170 km north of Brisbane. The town owes its existence to gold discovered here in 1867 by James Nash — the find arguably saved the then-struggling colony of Queensland from bankruptcy. Gold mining continued until the mid-20th century, and Gympie still celebrates its heritage at the [Gold Mining and Historical Museum](/australiaandpacific/australia/queensland/gympie/gold_mining_museum).

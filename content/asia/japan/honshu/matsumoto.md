@@ -14,6 +14,10 @@ snippet: Japanese Alps city in Nagano, centred on a black-walled original 16th-c
   castle
 title: Matsumoto
 type: location
+heritage: 4.4
+vibrancy: 4.0
+nature: 7.4
+off_the_beaten_track: 2.2
 ---
 
 Matsumoto is a compact, appealing city in the Japanese Alps of Nagano Prefecture, best known for its original sixteenth-century [castle](/asia/japan/honshu/matsumoto/matsumoto_castle) — one of just twelve in Japan with a surviving keep. The black-walled fortress reflected in its moat, with the Northern Alps rising behind it, is one of the most photographed sights in central Japan.

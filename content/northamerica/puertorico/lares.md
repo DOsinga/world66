@@ -15,6 +15,10 @@ image: lares.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Entrando_a_Lares_%22Ciudad_del_Grito%22,_Puerto_Rico.jpg
 image_license: CC BY-SA 4.0
 image_attribution: The Eloquent Peasant
+heritage: 5.1
+vibrancy: 1.8
+nature: 5.1
+off_the_beaten_track: 3.1
 ---
 
 Lares is a mountain town in western [Puerto Rico](/northamerica/puertorico), wrapped in coffee country and remembered as the birthplace of Puerto Rican nationalism. The 1868 Grito de Lares uprising failed militarily, but it still gives the town a political charge that ordinary mountain towns do not have.

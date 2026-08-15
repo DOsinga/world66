@@ -14,6 +14,10 @@ snippet: Northern Mexican industrial city and railway hub in the Laguna region b
   Coahuila and Durango.
 title: Torreón
 type: location
+heritage: 2.1
+vibrancy: 2.0
+nature: 3.7
+off_the_beaten_track: 3.7
 ---
 
 Torreón is the largest city in the Laguna region, straddling the border between Coahuila and Durango in northern Mexico. It grew rapidly in the late 19th century as a railway hub and cotton-processing centre, and today it's a busy industrial and commercial city with a population of around one million. It lacks the colonial architecture of older Mexican cities, but it's a useful stopping point on the route between Chihuahua and Zacatecas.

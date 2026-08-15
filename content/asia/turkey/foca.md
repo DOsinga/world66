@@ -15,6 +15,10 @@ image: foca.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Foca_%C4%B0zmir.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Ersoytoptas
+heritage: 4.9
+vibrancy: 5.4
+nature: 6.2
+off_the_beaten_track: 3.5
 ---
 
 Foça is an old Aegean harbour town north of [Izmir](/asia/turkey/izmir), close enough for a long day trip but much quieter in spirit. The old town, usually called Eski Foça, curves around two small bays, with fishing boats, stone houses, seafood restaurants, and the castle walls of ancient Phocaea still holding the headland.

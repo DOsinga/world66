@@ -10,6 +10,10 @@ snippet: Neckar valley town near Heidelberg, with half-timbered lanes at the woo
   confluence of two rivers.
 title: Neckargemünd
 type: location
+heritage: 6.8
+vibrancy: 2.8
+nature: 5.8
+off_the_beaten_track: 1.8
 ---
 
 Neckargemünd is a small town on the Neckar river, about 12 kilometres upstream from [Heidelberg](/europe/germany/badenwrttemberg/heidelberg). It sits at the confluence of the Neckar and the smaller Elsenz river, in a wooded valley that feels surprisingly rural given how close you are to the Heidelberg-Mannheim urban area. The old town is compact and well-preserved, with half-timbered houses, a Gothic church, and a couple of pleasant squares where you can sit with a coffee and watch the boats pass.

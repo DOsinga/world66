@@ -14,6 +14,10 @@ snippet: Southeastern Albanian plateau city of icons, beer, Ottoman bazaar lanes
   and the country's first Albanian-language school.
 title: Korce
 type: location
+heritage: 5.2
+vibrancy: 4.8
+nature: 6.5
+off_the_beaten_track: 3.9
 ---
 
 Korçë is the largest city in southeastern Albania, set on a plateau at 869 m with a cooler climate than the coast. It has a reputation as one of the more culturally refined cities in Albania — the first Albanian-language school was founded here in 1887, and it was briefly the centre of a French protectorate during World War I.

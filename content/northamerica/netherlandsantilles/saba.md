@@ -14,6 +14,10 @@ snippet: Steep Dutch Caribbean island of volcanic slopes, cloud-forest hikes, an
   reef diving without resort beaches.
 title: Saba
 type: location
+heritage: 3.9
+vibrancy: 3.0
+nature: 6.1
+off_the_beaten_track: 3.3
 ---
 
 Saba is the Caribbean at its most improbable — a single volcanic peak rising straight out of the sea, five square miles of near-vertical terrain, no beaches to speak of, and a permanent population of about 2,000. If you came looking for a resort island, you have landed on the wrong rock. If you came to hike through cloud forest, dive pristine reefs, and stay in a place where everybody knows your name by the second day, Saba is perfect.

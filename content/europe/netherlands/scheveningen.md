@@ -14,6 +14,10 @@ snippet: Dutch seaside district of The Hague, with North Sea beach, pier, harbou
   and Kurhaus grandeur.
 title: Scheveningen
 type: location
+heritage: 2.5
+vibrancy: 4.3
+nature: 5.0
+off_the_beaten_track: 1.2
 ---
 
 Scheveningen is The Hague's seaside district and one of the most popular beach resorts in the Netherlands. What was once a small fishing village is now a long stretch of sandy beach backed by a boulevard of restaurants, bars, and hotels — but it still has more character than most Dutch beach towns.

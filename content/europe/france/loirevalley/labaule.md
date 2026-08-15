@@ -14,6 +14,10 @@ snippet: Elegant Atlantic resort town with a nine-kilometre sandy bay, Belle Ép
   villas, and pine-shaded promenades.
 title: La Baule
 type: location
+heritage: 3.8
+vibrancy: 3.8
+nature: 5.5
+off_the_beaten_track: 1.9
 ---
 
 La Baule claims to have the finest beach in Europe, and while that is a bold assertion, the nine-kilometre sweep of sand curving along the [Baie de la Baule](/europe/france/loirevalley/labaule/baie_de_la_baule) is genuinely impressive. This is the French Atlantic coast at its most elegant — a long boulevard of Belle Époque villas, grand hotels, and pine-shaded promenades facing a broad, gently shelving beach.

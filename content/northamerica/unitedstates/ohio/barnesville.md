@@ -13,6 +13,10 @@ image: barnesville.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Downtown_view_east.jpg
 image_license: CC BY 3.0
 image_attribution: Bwsmith84 (talk)
+heritage: 2.2
+vibrancy: 1.2
+nature: 2.9
+off_the_beaten_track: 3.2
 ---
 
 Barnesville is a small village in southeast Ohio, west of Wheeling and close to Interstate 70. Most of the year it is quiet, but it has enough odd pieces to reward a detour: a restored Victorian mansion, a railroad depot, prehistoric petroglyphs, and a working cattle ranch that leans hard into horned breeds.

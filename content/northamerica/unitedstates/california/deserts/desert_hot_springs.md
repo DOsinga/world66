@@ -17,6 +17,10 @@ image: desert_hot_springs.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cabots-Pueblo-Museum.jpg
 image_license: CC0
 image_attribution: Jllm06
+heritage: 1.4
+vibrancy: 2.0
+nature: 4.1
+off_the_beaten_track: 2.0
 ---
 
 Desert Hot Springs sits north of Palm Springs, on the quieter side of the Coachella Valley, where the San Bernardino Mountains rise above a grid of low desert streets. Its identity is simple: hot mineral water without the sulfur smell, pulled from aquifers that made the town a spa colony.

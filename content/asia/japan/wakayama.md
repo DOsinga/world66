@@ -15,6 +15,10 @@ image: wakayama.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Wakayama_Castle19nt3200.jpg
 image_license: CC BY 2.5
 image_attribution: 663highland
+heritage: 5.2
+vibrancy: 4.7
+nature: 6.2
+off_the_beaten_track: 3.6
 ---
 
 Wakayama sits south of Osaka on the Kii Channel, close enough for a day trip but different in mood from the big Kansai cities. It has a reconstructed hilltop castle, old Kishu Tokugawa associations, sea-facing shrines, and a working local food scene built around ramen, shirasu, and red sea bream.

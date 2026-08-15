@@ -13,6 +13,10 @@ snippet: Utah border town beside the Bonneville Salt Flats, known for stark dese
   horizons and speed racing.
 title: Wendover
 type: location
+heritage: 1.8
+vibrancy: 1.5
+nature: 6.7
+off_the_beaten_track: 3.2
 ---
 
 Wendover is a small community on the Utah–Nevada border, sitting at the edge of the Great Salt Lake Desert in one of the most desolate and strangely beautiful landscapes in North America. The town's twin across the state line, West Wendover in Nevada, is a casino strip that draws Utahns looking for gambling, but the real draw here is the salt flats.

@@ -17,6 +17,10 @@ image: burford.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cotswold_Stone_Buildings,_Burford_High_Street_-_geograph.org.uk_-_300527.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Colin Smith
+heritage: 5.8
+vibrancy: 3.3
+nature: 4.0
+off_the_beaten_track: 2.1
 ---
 
 Burford is one of the Cotswolds' classic first impressions: a steep high street of honey-coloured stone houses dropping toward the River Windrush, with small shops, old inns, and church towers in the background. It is popular, but it still has enough real town texture to reward a slow visit.

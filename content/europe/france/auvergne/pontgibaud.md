@@ -14,6 +14,10 @@ image: pontgibaud.jpg
 image_source: https://commons.wikimedia.org/wiki/File:France_Auvergne_Rhone_Alpes_63_Pontgibaud_Chateau_Dauphin_06.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Calips
+heritage: 4.8
+vibrancy: 1.5
+nature: 6.8
+off_the_beaten_track: 4.0
 ---
 
 Pontgibaud is a small medieval village about 25 km west of Clermont-Ferrand in the Auvergne, straddling the Sioule river at the edge of the Chaîne des Puys volcanic range.

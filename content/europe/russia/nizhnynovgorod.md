@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Nizhny_Novgorod
 title: Nizhny Novgorod
 type: location
+heritage: 5.7
+vibrancy: 4.5
+nature: 2.6
+off_the_beaten_track: 3.0
 ---
 
 Nizhny Novgorod sits at the confluence of the Volga and Oka rivers, about 400 kilometres east of Moscow, and the view from the kremlin walls over both rivers is one of the finest in Russia. Founded in 1221, it grew to become one of the great trading cities of the empire — the Nizhny Novgorod Fair, held annually on the floodplain below the citadel, was once the largest in the world, attracting merchants from Central Asia, Persia, and Western Europe.

@@ -5,10 +5,15 @@ loc_type: city
 latitude: 38.5022
 longitude: 42.2814
 score: 6.4
-snippet: Lake Van ferry town below Nemrut volcano, with crater lakes and eastern Anatolian views.
+snippet: Lake Van ferry town below Nemrut volcano, with crater lakes and eastern Anatolian
+  views.
 sources:
-  - https://en.wikivoyage.org/wiki/Tatvan
-  - https://en.wikivoyage.org/wiki/Eastern_Anatolia
+- https://en.wikivoyage.org/wiki/Tatvan
+- https://en.wikivoyage.org/wiki/Eastern_Anatolia
+heritage: 3.8
+vibrancy: 2.2
+nature: 5.5
+off_the_beaten_track: 4.2
 ---
 
 *Asia > Turkey > Tatvan*

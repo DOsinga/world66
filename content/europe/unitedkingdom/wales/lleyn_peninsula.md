@@ -18,6 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Ffestiniog_Railway
 title: Lleyn Peninsula
 type: location
+heritage: 5.3
+vibrancy: 3.3
+nature: 7.0
+off_the_beaten_track: 4.2
 ---
 
 The Llŷn Peninsula (pronounced "Hlin") is a narrow arm of land extending 50 km westward from Snowdonia into the Irish Sea, one of Wales's most beautiful and least-spoiled coastal regions. It is narrow enough that you can drive from the north coast to the south in minutes, but the two coasts have quite different characters: the north is more exposed and dramatic, the south more sheltered.

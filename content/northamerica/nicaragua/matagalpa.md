@@ -14,6 +14,10 @@ title: Matagalpa
 type: location
 snippet: Nicaraguan highland city known for coffee plantations, cooler mountain air,
   and a neoclassical cathedral.
+heritage: 3.4
+vibrancy: 2.5
+nature: 4.5
+off_the_beaten_track: 3.7
 ---
 
 Matagalpa is Nicaragua's coffee capital, a highland city at about 700 metres in the cool, green mountains 130 km north of Managua. The surrounding hills are covered in shade-grown coffee plantations with evocative names — [Selva Negra](/northamerica/nicaragua/matagalpa/selva_negra), Hammonia, Bavaria — legacies of the German colonists who planted the region's first coffee in the 1850s and built an industry that still defines the area.

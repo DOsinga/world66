@@ -3,7 +3,7 @@ title: Leksand
 type: location
 loc_type: city
 tags:
-  - siljan_area
+- siljan_area
 latitude: 60.73333
 longitude: 15.0
 score: 7.0
@@ -18,6 +18,10 @@ image: leksand.jpg
 image_source: https://commons.wikimedia.org/wiki/File:J%C3%A4rnv%C3%A4gsbro_Leksand_May_2018_01.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Arild Vågen
+heritage: 3.8
+vibrancy: 2.6
+nature: 6.3
+off_the_beaten_track: 2.2
 ---
 
 *Europe > Sweden > Leksand*

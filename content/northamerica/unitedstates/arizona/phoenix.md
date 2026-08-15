@@ -16,6 +16,10 @@ title: Phoenix
 type: location
 snippet: Sprawling Arizona capital in the Sonoran Desert, with Southwestern food and
   desert trails on every edge.
+heritage: 3.3
+vibrancy: 6.4
+nature: 5.3
+off_the_beaten_track: 1.3
 ---
 
 Phoenix is the capital and largest city of Arizona, sprawling across the Sonoran Desert in a vast metropolitan area known as the Valley of the Sun. The city draws winter visitors by the thousands, offering reliably warm days while the rest of the country shivers. But Phoenix is more than a snowbird refuge. It has grown into a genuine metropolis with world-class resorts, a lively food scene rooted in Mexican and Southwestern traditions, and easy access to some of the most dramatic desert landscapes in the American West.

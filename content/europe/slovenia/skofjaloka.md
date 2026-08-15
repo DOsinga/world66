@@ -16,6 +16,10 @@ sources:
 - https://www.openstreetmap.org/
 title: Škofja Loka
 type: location
+heritage: 7.1
+vibrancy: 3.5
+nature: 4.9
+off_the_beaten_track: 2.8
 ---
 
 Škofja Loka is one of Slovenia's loveliest old towns, close enough to [Ljubljana](/europe/slovenia/ljubljana) for an easy day trip but with a different, more enclosed character. The town sits where the Selca and Poljane Sora rivers meet, with a castle above, bridges below, and a compact medieval centre that still feels like a real place rather than a museum set.

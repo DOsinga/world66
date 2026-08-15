@@ -15,6 +15,10 @@ image: omey_island.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Fahy_Lake,_Omey_Island,_Connemara.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Markbriggs
+heritage: 6.7
+vibrancy: 1.5
+nature: 7.3
+off_the_beaten_track: 5.7
 ---
 
 Omey Island is one of Connemara's oddest small detours: an island you reach by walking or driving across the seabed. At low tide, the strand opens from Claddaghduff and a marked route leads over the sand. A few hours later the Atlantic covers the road again, and the island feels far more remote than its 600 metres from the mainland suggest.

@@ -10,6 +10,10 @@ snippet: High-desert community straddling the New Mexico-Texas border just north
   El Paso.
 title: Chaparral
 type: location
+heritage: 1.9
+vibrancy: 1.7
+nature: 5.1
+off_the_beaten_track: 4.2
 ---
 
 Chaparral is a small unincorporated community straddling the New Mexico-Texas border, sitting in the high desert just north of El Paso. It is not a destination in itself, but its location along US-54 makes it a practical stopping point for travelers heading north toward [White Sands](/northamerica/unitedstates/newmexico/whitesands) or [Las Cruces](/northamerica/unitedstates/newmexico/lascruces).

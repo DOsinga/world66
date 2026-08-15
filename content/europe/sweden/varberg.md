@@ -5,13 +5,18 @@ loc_type: city
 latitude: 57.1167
 longitude: 12.2167
 score: 7.1
-snippet: Swedish west-coast spa and fortress town with beaches, bird wetlands, and a UNESCO radio station.
+snippet: Swedish west-coast spa and fortress town with beaches, bird wetlands, and
+  a UNESCO radio station.
 sources:
-  - https://en.wikivoyage.org/wiki/Varberg
-  - https://whc.unesco.org/en/list/1134/
-  - https://grimeton.org/en/
-  - https://museumhalland.se/en/the-bocksten-man/
-  - https://www.naturumgetteron.se/english/
+- https://en.wikivoyage.org/wiki/Varberg
+- https://whc.unesco.org/en/list/1134/
+- https://grimeton.org/en/
+- https://museumhalland.se/en/the-bocksten-man/
+- https://www.naturumgetteron.se/english/
+heritage: 4.2
+vibrancy: 2.8
+nature: 5.2
+off_the_beaten_track: 1.8
 ---
 
 Varberg is a west-coast town in Halland, south of [Gothenburg](/europe/sweden/gothenburg), with enough history and sea air to feel like more than a beach resort. Its shoreline mixes sandy bays, cold baths, summer restaurants, and old spa culture, while the centre is watched over by a fortress that has seen the long tug-of-war between Denmark and Sweden.

@@ -11,6 +11,10 @@ tags:
 - rivieradellepalme
 title: Dego
 type: location
+heritage: 5.3
+vibrancy: 4.5
+nature: 4.8
+off_the_beaten_track: 3.0
 ---
 
 An agricultural center on the slopes of the

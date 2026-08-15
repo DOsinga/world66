@@ -13,6 +13,10 @@ snippet: Remote northern Peruvian mountain town known for curanderos, sacred lak
   and the rough road from Piura.
 title: Huancabamba
 type: location
+heritage: 2.6
+vibrancy: 2.5
+nature: 6.5
+off_the_beaten_track: 6.5
 ---
 
 When it comes to isolation, few towns beat Huancabamba. A small city in the northern Andes of Peru, it has a bus connection to one city — [Piura](/southamerica/peru/piura) — on one terrifying road. Best known for the [shamans](/southamerica/peru/huancabamba/curanderismo) who live higher up the mountain and the [sacred lakes](/southamerica/peru/huancabamba/lagunas_de_huancabamba) (lagunas) used for ritual bathing, the town makes a good base for exploring a remote and beautiful region. Huancabamba sits in a lush green valley full of small plots and eucalyptus trees, livelier than its isolation would suggest thanks to domestic tourism and mototaxi traffic.

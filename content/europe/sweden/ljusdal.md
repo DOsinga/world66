@@ -16,6 +16,10 @@ image: ljusdal.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ljusdal,_Stavs%C3%A4ter_-_panoramio.jpg
 image_license: CC BY-SA 3.0
 image_attribution: stillee
+heritage: 2.5
+vibrancy: 1.5
+nature: 6.1
+off_the_beaten_track: 3.0
 ---
 
 Ljusdal sits in western Halsingland, where the Ljusnan river cuts through forest, farms, and old parish villages. The town itself is small and practical, but the surrounding municipality has one of Sweden's most distinctive rural landscapes: painted timber farmhouses, summer pastures, riverside settlements, and long roads into deep forest.

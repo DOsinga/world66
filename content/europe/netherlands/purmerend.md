@@ -14,6 +14,10 @@ snippet: North Holland market town near Amsterdam, set among flat polder cycling
   and old trading squares
 title: Purmerend
 type: location
+heritage: 2.9
+vibrancy: 2.2
+nature: 3.1
+off_the_beaten_track: 1.4
 ---
 
 Purmerend is a medium-sized Dutch town about 20 kilometres north of Amsterdam, in the flat polder landscape of North Holland. It was a prosperous market town in the seventeenth century — the weekly cheese and cattle markets drew traders from across the region — and some of that compact historic centre survives around the Kaasmarkt square and the Gothic church.

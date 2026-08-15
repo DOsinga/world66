@@ -14,6 +14,10 @@ snippet: Small Murgia hills town near Bari, known for Slow Food-recognised Mando
   di Toritto almonds
 title: Toritto
 type: location
+heritage: 5.3
+vibrancy: 3.5
+nature: 5.4
+off_the_beaten_track: 2.3
 ---
 
 Toritto is a small town in the Murgia hills about 20 minutes by train from [Bari](/europe/italy/puglia/bari), known above all for its almonds. The [Mandorla di Toritto](/europe/italy/puglia/toritto/mandorla_filippo_cea), a local variety recognised by Slow Food as a Presidium product, is considered among the finest in Italy — ground into paste for pastries, roasted, or pressed into oil.

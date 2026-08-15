@@ -29,6 +29,10 @@ tip: Everyone crowds Oia for sunset until it's a crush — watch it from Imerovi
   car queues are long, so time your cruise tender carefully.
 title: Santorini
 type: location
+heritage: 4.7
+vibrancy: 5.9
+nature: 4.8
+off_the_beaten_track: 1.3
 ---
 
 Santorini is unlike anywhere else in Greece. The island is the remnant of a massive volcanic caldera — the eruption around 1600 BC was one of the largest in human history, and it left behind a crescent of steep cliffs, black and red sand beaches, and a flooded crater that forms one of the most dramatic natural harbors in the Mediterranean. The main towns of Fira and Oia cling to the caldera rim, their white-cube houses stacked up the cliff face above a drop of several hundred metres to the sea.

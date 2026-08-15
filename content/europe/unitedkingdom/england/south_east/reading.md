@@ -14,6 +14,10 @@ snippet: Thames Valley town known for its music festival, ruined medieval abbey,
   fast London rail links
 title: Reading
 type: location
+heritage: 3.1
+vibrancy: 2.3
+nature: 1.9
+off_the_beaten_track: 1.2
 ---
 
 Reading is a large town west of London, about 25 minutes by fast train from Paddington. It is best known for the Reading Festival, one of the UK's biggest rock and indie music festivals, held every August bank holiday weekend at Richfield Avenue.

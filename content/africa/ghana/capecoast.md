@@ -10,6 +10,10 @@ snippet: Ghanaian coastal city dominated by Cape Coast Castle and the painful At
   slave-trade history it preserves.
 title: Cape Coast
 type: location
+heritage: 8.0
+vibrancy: 5.4
+nature: 5.4
+off_the_beaten_track: 3.8
 ---
 
 Cape Coast is the historical heart of Ghana and the place most visitors find hardest to forget. The town is dominated by [Cape Coast Castle](/africa/ghana/capecoast/cape_coast_castle), a UNESCO World Heritage Site that served as one of the main holding points for enslaved Africans before they were shipped across the Atlantic. A guided tour through the dungeons and out through the [Door of No Return](/africa/ghana/capecoast/door_of_no_return) is devastating and essential, and the [West African Historical Museum](/africa/ghana/capecoast/west_african_historical_museum) on the upper floor is one of the best small museums in the region.

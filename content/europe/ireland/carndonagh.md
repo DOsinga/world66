@@ -15,6 +15,10 @@ image: carndonagh.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Carndonagh_Donagh_Church_2016_09_05.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Andreas F. Borchert
+heritage: 2.8
+vibrancy: 1.9
+nature: 4.9
+off_the_beaten_track: 5.3
 ---
 
 Carndonagh is the main market town in northern Inishowen, the Donegal peninsula that pushes toward the most northerly point of mainland Ireland. The town itself is modest, but it works well as a base for a day of early Christian stonework, Atlantic beaches, famine history, ruined castles, and the hard edge of [Malin Head](/europe/ireland/carndonagh/malin_head).

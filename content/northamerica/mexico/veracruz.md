@@ -10,6 +10,10 @@ snippet: Gulf port city where Cortés founded Spanish Mexico and son jarocho fil
   the plazas.
 title: Veracruz
 type: location
+heritage: 4.9
+vibrancy: 4.9
+nature: 5.2
+off_the_beaten_track: 3.9
 ---
 
 Veracruz is where Mexican history begins. This is the spot where Hernán Cortés landed in 1519 and founded the first Spanish settlement on the American mainland, and the city has never stopped being a crossroads. Today it is Mexico's oldest and busiest port, sprawling along the Gulf coast with a waterfront energy that feels more Caribbean than Central Highlands.

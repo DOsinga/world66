@@ -9,6 +9,10 @@ score: 8.12
 loc_type: feature
 snippet: Lake Onega island with UNESCO-listed wooden churches, onion domes, and open-air
   Karelian architecture.
+heritage: 6.7
+vibrancy: 2.4
+nature: 5.2
+off_the_beaten_track: 3.4
 ---
 
 Kizhi is a small island in Lake Onega, about 70 kilometres northeast of [Petrozavodsk](/europe/russia/karelia/petrozavodsk), and it holds one of the most extraordinary collections of wooden architecture anywhere in the world. The island is a UNESCO World Heritage Site, and deservedly so.

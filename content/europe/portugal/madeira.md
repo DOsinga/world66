@@ -14,6 +14,10 @@ snippet: Volcanic Atlantic island of steep ravines, cloud-touched peaks, levada 
   and Funchal's hillside harbour.
 title: Madeira
 type: location
+heritage: 5.1
+vibrancy: 5.8
+nature: 7.5
+off_the_beaten_track: 3.5
 ---
 
 Madeira is a volcanic island rising steeply from the Atlantic, roughly 1,000 km southwest of Lisbon and closer to Morocco than to mainland Portugal. Its dramatic terrain — deep ravines, vertiginous cliffs, and peaks that disappear into cloud — makes it unlike any other Portuguese destination. The capital, [Funchal](/europe/portugal/madeira/funchal), clings to an amphitheatre of hills above the south coast and is where most visitors base themselves.

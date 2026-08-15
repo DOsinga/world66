@@ -7,6 +7,10 @@ snippet: Medieval Wallachian town in the Argeș valley, remembered for Romania's
   cathedral and first capital
 title: Curtea de Arges
 type: location
+heritage: 6.4
+vibrancy: 2.7
+nature: 3.5
+off_the_beaten_track: 3.3
 ---
 
 Curtea de Arges is a small medieval town in southern Romania, about 150 kilometres northwest of Bucharest in the foothills of the Carpathians along the Arges River valley. It was the first capital of Wallachia — the principality established by Basarab I around 1330 — and it retains a quiet dignity appropriate to that history. The town is visited primarily for two exceptional monuments.

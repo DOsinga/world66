@@ -25,6 +25,10 @@ tip: Lomé hugs the coast right on the Ghana border, with a long palm-fringed be
   of West African voodoo. The beach has strong currents, so swim with care.
 title: Lome
 type: location
+heritage: 3.7
+vibrancy: 2.8
+nature: 4.8
+off_the_beaten_track: 6.2
 ---
 
 Lomé is one of West Africa's most approachable capitals. It is small enough to walk across, set right on the coast with sandy [beaches](/africa/togo/lome/lome_beach) stretching from the city centre, and carries the relaxed energy of a town that has never quite tried to be anything other than itself. The [Grand Marché](/africa/togo/lome/grand_marche) dominates the commercial heart of the city, a sprawling market run almost entirely by women — the famous Nana Benz — where you can find everything from Dutch wax prints to traditional medicines.

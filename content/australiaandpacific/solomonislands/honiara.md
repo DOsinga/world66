@@ -14,6 +14,10 @@ snippet: Solomon Islands capital on Guadalcanal, ringed by Pacific war relics an
   major wreck-diving sites.
 title: Honiara
 type: location
+heritage: 7.0
+vibrancy: 2.3
+nature: 7.0
+off_the_beaten_track: 5.7
 ---
 
 Honiara is the capital of the Solomon Islands, a sprawling, low-rise town on the north coast of Guadalcanal. It is not conventionally attractive — dusty, humid, and chaotic — but it is the gateway to one of the Pacific's most fascinating and least-visited island nations.

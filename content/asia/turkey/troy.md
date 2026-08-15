@@ -13,6 +13,10 @@ snippet: Legendary Aegean archaeological mound where nine layers of Troy reveal 
   Age walls behind Homer's story.
 title: Troy
 type: location
+heritage: 7.6
+vibrancy: 2.1
+nature: 3.2
+off_the_beaten_track: 3.6
 ---
 
 Troy — Troia, to the Turks who live nearby — is the archaeological site of the city whose sack by the Achaeans forms the spine of Homer's *Iliad*. It sits on a low mound called Hisarlık, about 30 km south-west of Çanakkale and a few kilometres from the Aegean coast, and for most of history it was thought to be a myth. Then, in the 1870s, the German businessman and self-taught archaeologist Heinrich Schliemann, armed with his copy of Homer and an obsessive certainty, began digging into the mound and to his and the world's astonishment, found the ruins of not one but nine successive cities, stacked on top of each other over some three and a half thousand years.

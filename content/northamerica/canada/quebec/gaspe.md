@@ -18,6 +18,10 @@ image: gaspe.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gasp%C3%A9,_Quebec,_Canada.jpg
 image_license: CC BY 4.0
 image_attribution: Hayden Soloviev
+heritage: 4.4
+vibrancy: 3.7
+nature: 6.5
+off_the_beaten_track: 2.5
 ---
 
 Gaspé sits at the far eastern end of the Gaspé Peninsula, where the St Lawrence opens into the Gulf and the land starts to feel more maritime than mainland. It is a working town, not a polished resort, but that suits it: fishing boats, cliffs, spruce forest, long light on the bay, and the sense that the road has finally run out.

@@ -14,6 +14,10 @@ image: sareyn.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Honeycombs_for_Sale_-_Saraeyn_-_Iranian_Azerbaijan_-_Iran_(7421128352).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Adam Jones from Kelowna, BC, Canada
+heritage: 1.9
+vibrancy: 1.3
+nature: 2.0
+off_the_beaten_track: 4.5
 ---
 
 Sareyn is a small spa town in northwest Iran, about 29 km west of [Ardabil](/asia/iran/ardabil). It sits at altitude in the Alborz foothills and is best known for its hot mineral springs, which draw visitors from across the region for hydrotherapy and relaxation.

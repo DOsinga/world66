@@ -7,7 +7,8 @@ latitude: 13.8136
 loc_type: feature
 longitude: -89.6333
 score: 7.6
-snippet: Bare volcanic cone in western El Salvador, once known to sailors as the Lighthouse of the Pacific.
+snippet: Bare volcanic cone in western El Salvador, once known to sailors as the Lighthouse
+  of the Pacific.
 story: 'Izalco earned the name "Lighthouse of the Pacific" because it erupted so frequently
   from 1770 to 1958 that sailors used it as a navigational landmark. Almost perfectly
   symmetrical and almost entirely bare of vegetation, it looks less like a Central
@@ -20,6 +21,10 @@ tags:
 - sight
 title: Izalco Volcano
 type: location
+heritage: 1.8
+vibrancy: 1.9
+nature: 5.9
+off_the_beaten_track: 4.4
 ---
 
 Izalco is visible from the rim of Cerro Verde National Park and makes a formidable visual impression — a stark, ash-grey cone rising above the surrounding forest, looking actively hostile even in repose. The hike to the summit of Izalco is steeper and more demanding than the Santa Ana Volcano trail, with loose volcanic rock making the ascent tiring.

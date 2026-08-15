@@ -10,6 +10,10 @@ snippet: Walled Northern Irish city where complete 17th-century ramparts encircl
   the old centre above the Bogside.
 title: Derry / Londonderry
 type: location
+heritage: 6.9
+vibrancy: 4.9
+nature: 5.4
+off_the_beaten_track: 3.8
 ---
 
 Known as Londonderry in Britain and Derry in Ireland — the name you use tends to signal your politics — this is the second city of Northern Ireland and one of the finest walled cities in Europe. The [seventeenth-century walls](/europe/unitedkingdom/northernireland/londonderry/city_walls) are still complete, measuring 1.5 kilometres in circumference and standing six metres high in places. You can walk the full circuit for free, looking down over both the old city within and the Bogside below.

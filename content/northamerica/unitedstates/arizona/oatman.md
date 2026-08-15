@@ -17,6 +17,10 @@ image: oatman.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Oatman,_Arizona_(1)_(4355601674).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Ken Lund from Reno, Nevada, USA
+heritage: 4.1
+vibrancy: 2.5
+nature: 5.2
+off_the_beaten_track: 3.4
 ---
 
 Oatman is a tiny old mining town on one of Arizona's most memorable stretches of Route 66. It is touristy, loud in the middle of the day, and not subtle at all. That is part of the point.

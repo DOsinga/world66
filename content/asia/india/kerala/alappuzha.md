@@ -14,6 +14,10 @@ snippet: Kerala backwater town of canals, lagoons, houseboats, and faded colonia
   waterfront trade.
 title: Alappuzha
 type: location
+heritage: 5.5
+vibrancy: 4.8
+nature: 5.0
+off_the_beaten_track: 3.1
 ---
 
 Alappuzha, also known as Alleppey, is the gateway to Kerala's backwaters and one of the most atmospheric towns in the state. A network of canals, lagoons and lakes thread through the town and surrounding countryside, earning it the nickname "Venice of the East."

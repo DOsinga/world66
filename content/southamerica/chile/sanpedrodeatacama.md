@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/San_Pedro_de_Atacama
 title: San Pedro de Atacama
 type: location
+heritage: 3.1
+vibrancy: 5.4
+nature: 7.4
+off_the_beaten_track: 4.0
 ---
 
 San Pedro de Atacama is a small oasis town in the driest desert on earth, sitting at 2,400 metres on the altiplano of northern Chile, surrounded by salt flats, volcanoes, and landscapes that look like nothing else on the planet. It is the base for exploring the [Atacama Desert](/southamerica/chile/atacamadesert), and most travellers spend several days here doing exactly that — heading out each day to a different corner of this extraordinary terrain and returning in the evening to eat, debrief, and recover.

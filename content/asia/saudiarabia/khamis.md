@@ -14,6 +14,10 @@ snippet: Highland Asir city named for its Thursday market, where mountain trader
   gather with produce and honey.
 title: Khamis
 type: location
+heritage: 2.2
+vibrancy: 1.4
+nature: 2.2
+off_the_beaten_track: 5.6
 ---
 
 Khamis Mushait is a large city in the [Asir](/asia/saudiarabia/asir) region of southwest Saudi Arabia, close to [Abha](/asia/saudiarabia/khamis/abha) and effectively part of the same urban area. It is best known for its [Thursday market](/asia/saudiarabia/khamis/thursday_market) — one of the most lively traditional markets in the country, drawing traders and farmers from the surrounding mountains with produce, livestock, Asiri honey, silver jewellery, and traditional goods. The market gives the city its name: Khamis means Thursday in Arabic.

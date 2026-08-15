@@ -14,6 +14,10 @@ snippet: Papuan bay city and transport gateway, layered with Dutch, Indonesian, 
   local histories
 title: Jayapura
 type: location
+heritage: 3.8
+vibrancy: 2.5
+nature: 7.8
+off_the_beaten_track: 6.5
 ---
 
 Jayapura is the capital of Papua province, a city of around 250,000 people spread along the shores of Yos Sudarso Bay — still known to many by its Dutch colonial name, Humboldt Bay. The city has accumulated names like rings on a tree: Hollandia under the Dutch from 1910, then Kotabaru and Sukarnopura after Indonesian integration, before finally becoming Jayapura in 1969.

@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Pittsburgh
 title: Pittsburgh
 type: location
+heritage: 6.7
+vibrancy: 6.7
+nature: 3.6
+off_the_beaten_track: 1.7
 ---
 
 Pittsburgh sits at the confluence of three rivers in the southwest corner of Pennsylvania — the Allegheny and Monongahela flowing together to form the Ohio — and the triangular wedge of downtown between them has been called the Golden Triangle since the 18th century. The city grew from a French and then British fort into one of the great industrial centres of America, producing most of the steel that built the country. It was also, for much of the 20th century, one of its most polluted. Pittsburgh has spent the past forty years remaking itself, and the reinvention has gone better than almost anyone predicted.

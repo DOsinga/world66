@@ -13,6 +13,10 @@ snippet: Victorian seaside resort on the north Welsh coast, with a long promenad
   between Llandudno and Conwy.
 title: Colwyn Bay
 type: location
+heritage: 3.1
+vibrancy: 3.4
+nature: 5.9
+off_the_beaten_track: 1.6
 ---
 
 Colwyn Bay (Welsh: *Bae Colwyn*) is a Victorian seaside resort on the north Welsh coast, sitting between [Llandudno](/europe/unitedkingdom/wales/llandudno) and the Conwy estuary. It grew up in the 1860s when the railway arrived, and a long row of guesthouses and bay-windowed villas still gives the town its character. The promenade has been overhauled with a new sea wall and a sandy beach has been re-laid, making it a more attractive place to walk along the front than it was a decade ago.

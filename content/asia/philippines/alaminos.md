@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Hundred_Islands_National_Park
 title: Alaminos
 type: location
+heritage: 2.1
+vibrancy: 2.1
+nature: 5.6
+off_the_beaten_track: 4.0
 ---
 
 Alaminos City in [Pangasinan](/asia/philippines/pangasinan) province is the gateway to the [Hundred Islands National Park](/asia/philippines/alaminos/hundred_islands_national_park), a scattering of 123 limestone islands and islets in the Lingayen Gulf. Most visitors come for the island-hopping — you hire a bangka outrigger boat from [Lucap Wharf](/asia/philippines/alaminos/lucap_wharf) and spend the day snorkelling, kayaking and scrambling up to viewpoints over the surrounding gulf.

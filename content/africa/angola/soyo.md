@@ -14,6 +14,10 @@ snippet: Northern Angolan city where the Congo River meets the Atlantic, dominat
   by the Kwanda oil base.
 title: Soyo
 type: location
+heritage: 2.4
+vibrancy: 1.5
+nature: 2.1
+off_the_beaten_track: 5.9
 ---
 
 Small city in the far north of Angola, in Zaire province, where the Congo River meets the Atlantic Ocean. You can reach Soyo by plane on TAAG or by car from [Luanda](/africa/angola/luanda) — the first stretch to Caxito is paved, but the remaining stretch north is unpaved and rough. It is an adventure either way.

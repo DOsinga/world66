@@ -17,6 +17,10 @@ image: corydon.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Corydon_old_capitol.jpg
 image_license: CC BY-SA 3.0
 image_attribution: W.marsh
+heritage: 2.3
+vibrancy: 1.9
+nature: 2.4
+off_the_beaten_track: 1.6
 ---
 
 Corydon is small, but it has one of Indiana's clearest origin stories. This was the state capital before Indianapolis, and the old limestone capitol still sits in the middle of town with a few blocks of 19th-century storefronts around it.

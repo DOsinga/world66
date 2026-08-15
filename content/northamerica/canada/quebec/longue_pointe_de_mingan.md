@@ -15,6 +15,10 @@ image: longue_pointe_de_mingan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Longue-Pointe-de-Mingan.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Cephas
+heritage: 3.2
+vibrancy: 1.3
+nature: 6.3
+off_the_beaten_track: 3.7
 ---
 
 Longue-Pointe-de-Mingan is a small village on Quebec's far North Shore, stretched along a sandy point facing the Gulf of St Lawrence. It is quieter than [Havre-Saint-Pierre](/northamerica/canada/quebec/havre_saint_pierre), but it has its own reason to stop: whales, puffins, beaches, and the western end of the Mingan island world.

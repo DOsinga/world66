@@ -14,6 +14,10 @@ image: naivasha.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Flooded_hotel_on_Lake_Naivasha,_Kenya.jpg
 image_license: CC0
 image_attribution: GiveMeMollusks
+heritage: 5.3
+vibrancy: 3.8
+nature: 7.9
+off_the_beaten_track: 4.3
 ---
 
 Naivasha is a moderately sized town about 90 km northwest of [Nairobi](/africa/kenya/nairobi), at the foot of the Great Rift Valley escarpment. It is the gateway to several of [Kenya's](/africa/kenya) most accessible natural attractions — and one of the few parts of the country where you can spend a rewarding few days without a safari vehicle.

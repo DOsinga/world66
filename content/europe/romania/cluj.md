@@ -14,6 +14,10 @@ snippet: Lively Transylvanian university city with Austro-Hungarian squares, Got
   churches, and a busy cafe culture.
 title: Cluj-Napoca
 type: location
+heritage: 7.0
+vibrancy: 6.9
+nature: 3.7
+off_the_beaten_track: 2.2
 ---
 
 Cluj-Napoca is the unofficial capital of Transylvania and Romania's liveliest university city. With around 70,000 students in a city of 400,000, the energy is palpable — the cafes stay full, the cultural calendar never stops, and the old center hums well past midnight.

@@ -16,6 +16,10 @@ sources:
 - https://en.visitzwolle.com/
 title: Zwolle
 type: location
+heritage: 5.3
+vibrancy: 4.8
+nature: 2.7
+off_the_beaten_track: 1.7
 ---
 
 Zwolle is the capital of Overijssel and one of the Netherlands' more rewarding second-tier cities. It has a compact old centre ringed by canals, enough medieval fabric to reward wandering, and a calmer tempo than the big western cities.

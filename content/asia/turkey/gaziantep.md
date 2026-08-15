@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Gaziantep
 title: Gaziantep
 type: location
+heritage: 5.9
+vibrancy: 4.0
+nature: 1.3
+off_the_beaten_track: 4.6
 ---
 
 *Asia > Turkey > Gaziantep*

@@ -26,6 +26,10 @@ tip: Nairobi is the only capital on earth with a national park on its doorstep �
   is brutal, so plan around it, and stay alert with valuables in the centre.
 title: Nairobi
 type: location
+heritage: 7.2
+vibrancy: 7.1
+nature: 4.3
+off_the_beaten_track: 4.1
 ---
 
 Nairobi is Kenya's capital and the unofficial capital of East Africa — a mile-high city 145 km south of the equator that has grown from an empty patch of swamp at the end of the Uganda Railway in 1899 to a metropolis of nearly five million people. Most travellers pass through on their way to a safari; those who stay a day or two find a livelier, more multicultural city than the reputation suggests, with excellent restaurants, a serious arts and music scene, and something genuinely unusual — a city where lions and rhinos live inside the municipal boundaries.

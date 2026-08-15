@@ -13,6 +13,10 @@ snippet: Seven-mile Gulf Coast barrier island with low-rise beach towns, quiet s
   and old-Florida character.
 title: Anna Maria Island
 type: location
+heritage: 2.9
+vibrancy: 3.7
+nature: 7.3
+off_the_beaten_track: 1.6
 ---
 
 Anna Maria Island is a seven-mile barrier island off the coast of Manatee County, just south of the mouth of Tampa Bay. It has managed to resist the high-rise development that dominates much of the Florida Gulf coast, and the result is a low-key, old-Florida atmosphere of beach cottages, small restaurants, and quiet streets.

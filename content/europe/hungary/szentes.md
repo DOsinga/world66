@@ -14,6 +14,10 @@ snippet: Great Hungarian Plain market town on the Kurca, with thermal baths and 
   agricultural countryside.
 title: Szentes
 type: location
+heritage: 2.6
+vibrancy: 2.0
+nature: 3.0
+off_the_beaten_track: 1.7
 ---
 
 Szentes is a quiet market town on the Great Hungarian Plain, about 30 km north of [Szeged](/europe/hungary/szeged). It sits on the banks of the Kurca, a small tributary of the Tisza, and has the unhurried feel of a town where agriculture is still the main business. The surrounding countryside is flat as a table — fields of sunflowers, wheat, and paprika stretching to the horizon.

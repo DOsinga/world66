@@ -13,6 +13,10 @@ snippet: Remote Anatolian mountaintop where toppled stone gods guard Antiochus I
   ancient tumulus.
 title: Nemrut Dagi
 type: location
+heritage: 7.7
+vibrancy: 0.7
+nature: 6.6
+off_the_beaten_track: 6.6
 ---
 
 On a remote mountaintop in southeastern Turkey, a megalomaniac king built his own monument to eternity. Two thousand years later, the giant stone heads of gods and kings sit scattered across the summit of Nemrut Dagi, toppled by earthquakes but still staring out across the Mesopotamian plain. It is one of the most extraordinary archaeological sites in the world.

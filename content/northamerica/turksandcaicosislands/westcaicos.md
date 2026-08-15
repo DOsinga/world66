@@ -11,6 +11,10 @@ sources:
 - https://en.wikipedia.org/wiki/West_Caicos
 title: West Caicos
 type: location
+heritage: 1.0
+vibrancy: 1.1
+nature: 7.6
+off_the_beaten_track: 7.2
 ---
 
 West Caicos is an uninhabited island in the southwest of the Turks and Caicos archipelago, twenty kilometres southwest of [Providenciales](/northamerica/turksandcaicosislands/providenciales) across the Caicos Bank. It is about ten kilometres long, a low limestone wedge of scrub, salinas and mangrove, fringed by white beaches and ringed by some of the most dramatic diving in the Caribbean.

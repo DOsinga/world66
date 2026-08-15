@@ -17,6 +17,10 @@ image: nakhon_si_thammarat.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Wat_Phra_Mahathat_Woramahawihan,_Nakhon_Si_Thammarat.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Preecha.MJ
+heritage: 5.1
+vibrancy: 4.3
+nature: 3.9
+off_the_beaten_track: 4.6
 ---
 
 Nakhon Si Thammarat is one of southern Thailand's great old cities, though it does not shout for attention like the beach towns around it. It was once the centre of the Kingdom of Ligor, and the long, straight roads of the modern city still run past temples, fragments of wall, markets, and old ritual sites.

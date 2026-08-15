@@ -14,6 +14,10 @@ title: Zhovkva
 type: location
 snippet: Renaissance-planned Ukrainian town north of Lviv, arranged around castle,
   churches, and market square.
+heritage: 6.7
+vibrancy: 1.9
+nature: 2.9
+off_the_beaten_track: 3.7
 ---
 
 Zhovkva is a small town about 30 kilometres north of [Lviv](/europe/ukraine/lviv), built in the late 16th century as an ideal Renaissance city by the Polish hetman Stanislaw Zolkiewski. The planned layout is still clearly visible: a central market square with arcaded buildings, a castle, and churches arranged with a geometric precision unusual for Ukrainian towns.

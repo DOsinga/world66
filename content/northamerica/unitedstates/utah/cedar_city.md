@@ -14,6 +14,10 @@ image: cedar_city.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cedar_City_Utah_02.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Unknown
+heritage: 2.0
+vibrancy: 3.3
+nature: 6.6
+off_the_beaten_track: 2.5
 ---
 
 Cedar City sits on I-15 in southern Utah, high enough for cold winters and close enough to the canyon country to be useful without feeling like a pure gateway town. It is a college town, a theatre town, and a practical base for the Markagunt Plateau.

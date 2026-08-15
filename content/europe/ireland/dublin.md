@@ -25,6 +25,10 @@ tip: Dublin is compact and walkable, best explored on foot between its literary 
   Bring a rain jacket, always.
 title: Dublin
 type: location
+heritage: 7.8
+vibrancy: 7.9
+nature: 6.4
+off_the_beaten_track: 0.9
 ---
 
 Dublin is a compact, walkable capital that is easy to underestimate. The city itself is smaller than most European capitals — the old centre can be crossed on foot in twenty minutes — but it has produced four Nobel laureates in literature, three of the most famous pubs in the world, and a cultural life that punches well above its weight. You come for the pubs, the books, and the people; most visitors leave wanting to come back.

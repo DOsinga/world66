@@ -14,6 +14,10 @@ image: staignan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:St_Aignan_church_in_Beaune-d%27Allier_(1).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Krzysztof Golik
+heritage: 5.3
+vibrancy: 2.1
+nature: 2.8
+off_the_beaten_track: 1.8
 ---
 
 St. Aignan is a small town in the Loir-et-Cher department, sitting on the south bank of the Cher river in the heart of the Loire Valley. The old town climbs the hill above the river in a series of narrow lanes lined with Renaissance and medieval houses, giving it a more authentic feel than the larger chateau towns nearby.

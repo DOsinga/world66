@@ -14,6 +14,10 @@ title: Alva
 type: location
 snippet: Northwestern Oklahoma college town on the Great Plains, home to Northwestern
   Oklahoma State University.
+heritage: 1.6
+vibrancy: 1.7
+nature: 1.9
+off_the_beaten_track: 1.5
 ---
 
 Alva is the county seat of Woods County in northwestern [Oklahoma](/northamerica/unitedstates/oklahoma), a quiet town of about 5,300 people on the edge of the Great Plains. The town is best known as the home of [Northwestern Oklahoma State University](/northamerica/unitedstates/oklahoma/alva/northwestern_oklahoma_state_university), which gives Alva a bit more energy than the surrounding wheat-and-cattle communities.

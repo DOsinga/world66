@@ -10,6 +10,10 @@ snippet: Forested southeastern Guinean city and regional market gateway to Mount
   country.
 title: Nzerekore
 type: location
+heritage: 2.9
+vibrancy: 1.3
+nature: 7.5
+off_the_beaten_track: 6.5
 ---
 
 Nzerekore is the largest city in Guinea's forested southeast, a region that feels quite different from the rest of the country. The landscape here is dense tropical forest and rolling hills, and the ethnic groups -- Manon, Kono, and Guerze -- have distinct cultures from the Malinke and Fulani of the north.

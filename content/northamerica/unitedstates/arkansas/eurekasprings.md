@@ -13,6 +13,10 @@ title: Eureka Springs
 snippet: Victorian resort town in the Ozarks, with a preserved hillside downtown built
   around healing springs.
 type: location
+heritage: 5.1
+vibrancy: 4.9
+nature: 6.1
+off_the_beaten_track: 2.6
 ---
 
 Eureka Springs is a quirky Victorian resort town tucked into the Ozark Mountains of northwest Arkansas. The entire [historic downtown](/northamerica/unitedstates/arkansas/eurekasprings/historic_downtown) is on the National Register of Historic Places — winding streets follow the contours of the hills, lined with ornate Victorian buildings that house galleries, restaurants, and shops. There are no traffic lights in town.

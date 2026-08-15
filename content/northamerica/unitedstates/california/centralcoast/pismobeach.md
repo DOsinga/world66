@@ -16,6 +16,10 @@ image: pismobeach.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Pismo_Beach_(California,_USA),_Beach_--_2012_--_3.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Dietmar Rabich
+heritage: 3.0
+vibrancy: 3.9
+nature: 6.0
+off_the_beaten_track: 2.0
 ---
 
 Pismo Beach is the classic easy-going Central Coast beach town, halfway between Los Angeles and San Francisco and close enough to [San Luis Obispo](/northamerica/unitedstates/california/centralcoast/sanluisobispo) for a relaxed day out. The beach, pier, and promenade are the centre of gravity: surfers work the breaks, families drift between sand and seafood, and the sunset crowd gathers at the railings with very little ceremony.

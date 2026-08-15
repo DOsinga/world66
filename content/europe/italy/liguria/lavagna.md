@@ -11,6 +11,10 @@ tags:
 - tigullio
 title: Lavagna
 type: location
+heritage: 5.0
+vibrancy: 3.0
+nature: 4.6
+off_the_beaten_track: 2.8
 ---
 
 Lavagna sits on the eastern bank of the Entella river, directly across from [Chiavari](/europe/italy/liguria/chiavari) and effectively its quieter twin. The town developed along a main street running perpendicular to the shore — typical of Ligurian coastal settlements that grew to service a harbour rather than a beach.

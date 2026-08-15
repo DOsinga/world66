@@ -10,6 +10,10 @@ title: Delaware
 type: location
 snippet: Central Ohio college city with Greek Revival streets, Rutherford B. Hayes
   history, and harness racing.
+heritage: 3.6
+vibrancy: 3.0
+nature: 2.6
+off_the_beaten_track: 1.2
 ---
 
 Delaware is a small city about half an hour north of Columbus, Ohio. It has a [handsome downtown](/northamerica/unitedstates/ohio/delaware/downtown_delaware) of nineteenth-century buildings in Greek Revival and Victorian styles, several streets of stately homes on the National Register of Historic Places, and the kind of quiet charm that rewards a slow walk.

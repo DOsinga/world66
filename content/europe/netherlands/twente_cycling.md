@@ -3,10 +3,14 @@ latitude: 52.265873
 loc_type: feature
 longitude: 6.792405
 score: 7.5
-snippet: Cycling network through the gently hilly Twente countryside of Saxon
-  farmsteads, heath, and woodland in eastern Overijssel.
+snippet: Cycling network through the gently hilly Twente countryside of Saxon farmsteads,
+  heath, and woodland in eastern Overijssel.
 title: Twente Cycling
 type: location
+heritage: 3.4
+vibrancy: 2.9
+nature: 4.5
+off_the_beaten_track: 1.7
 ---
 
 The Twente landscape is unusual for the Netherlands — gently hilly rather than flat, with Saxon farmsteads, heath, and woodland instead of the polders that define the western part of the country. The region was shaped by glacial action rather than by drainage, and cycling through it you encounter a countryside that feels closer to the German Münsterland across the border than to Amsterdam. It is some of the best easy cycling in the Netherlands, and the cities of Twente make natural bases for it.

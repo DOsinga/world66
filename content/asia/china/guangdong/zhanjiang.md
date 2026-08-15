@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Zhanjiang
 title: Zhanjiang
 type: location
+heritage: 2.4
+vibrancy: 3.5
+nature: 4.3
+off_the_beaten_track: 1.5
 ---
 
 Zhanjiang sits at the southern tip of the Leizhou Peninsula, a long finger of land pointing toward Hainan Island across the strait. It is primarily a transit city — the main land gateway to Hainan by road, rail, and ferry — but one with an unusual colonial history and a seafood culture that local residents defend with the same seriousness that people elsewhere in Guangdong reserve for dim sum. The French occupied the port from 1899 to 1946, renaming it Fort Bayard, and a scatter of colonial-era buildings survives in the older parts of the city: the [Cathedral of Saint Victor](/asia/china/guangdong/zhanjiang/cathedral_of_saint_victor) (1903), the former legation building, and the old police station, now a museum, give the waterfront a faintly Indochinese atmosphere that distinguishes it from every other port city in the province.

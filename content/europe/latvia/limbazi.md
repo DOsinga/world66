@@ -15,6 +15,10 @@ image: limbazi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Limba%C5%BEi,_Burtnieku_iela_8.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Egilus
+heritage: 6.3
+vibrancy: 2.3
+nature: 3.4
+off_the_beaten_track: 2.4
 ---
 
 Limbaži is a small town in Latvia's Vidzeme region, north of [Riga](/europe/latvia/riga) and west of [Cesis](/europe/latvia/cesis). It is not as immediately dramatic as the Gauja Valley towns, but it has enough history and local character to reward a slow half-day or day if you are travelling through northern Latvia.

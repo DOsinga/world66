@@ -5,12 +5,17 @@ loc_type: city
 latitude: 55.0701
 longitude: -3.6108
 score: 7.1
-snippet: Southwest Scottish market town tied to Robert Burns, Peter Pan, and the Nith valley.
+snippet: Southwest Scottish market town tied to Robert Burns, Peter Pan, and the Nith
+  valley.
 sources:
 - https://en.wikivoyage.org/wiki/Dumfries
 - https://www.burnsdumfries.co.uk/
 - https://www.dgculture.co.uk/venue/robert-burns-house/
 - https://www.moatbrae.org/
+heritage: 4.9
+vibrancy: 4.0
+nature: 5.8
+off_the_beaten_track: 3.3
 ---
 
 Dumfries is the main town of southwest Scotland, set on the River Nith and surrounded by soft lowland country. It is often passed through on the way to the Galloway coast, but that sells it short. The town has a real literary pull: Robert Burns spent his final years here, and J. M. Barrie's childhood games at Moat Brae helped feed the world of Peter Pan.

@@ -17,6 +17,10 @@ snippet: Rwanda's old intellectual capital, shaped by the university, national m
   and quieter southern rhythms
 type: location
 score: 6.48
+heritage: 4.0
+vibrancy: 5.3
+nature: 6.5
+off_the_beaten_track: 4.6
 ---
 
 Butare, officially Huye, is Rwanda's old intellectual capital: quieter than Kigali, greener than it first appears, and still shaped by the university and the national museum. It is the kind of place where you slow down for a day, read labels properly, drink coffee under trees, and remember that Rwanda is more than gorilla permits and genocide memorials.

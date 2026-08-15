@@ -6,12 +6,17 @@ latitude: 47.0167
 longitude: -70.9333
 wikidata: Q141927
 score: 7.0
-snippet: Small St. Lawrence pilgrimage town centred on one of North America's great Catholic shrines.
+snippet: Small St. Lawrence pilgrimage town centred on one of North America's great
+  Catholic shrines.
 sources:
-  - https://en.wikivoyage.org/wiki/Sainte-Anne-de-Beaupr%C3%A9
-  - https://www.wikidata.org/wiki/Q141927
-  - https://en.wikipedia.org/wiki/Sainte-Anne-de-Beaupr%C3%A9
-  - https://www.quebec-cite.com/en/businesses/sainte-anne-de-beaupre-shrine
+- https://en.wikivoyage.org/wiki/Sainte-Anne-de-Beaupr%C3%A9
+- https://www.wikidata.org/wiki/Q141927
+- https://en.wikipedia.org/wiki/Sainte-Anne-de-Beaupr%C3%A9
+- https://www.quebec-cite.com/en/businesses/sainte-anne-de-beaupre-shrine
+heritage: 7.9
+vibrancy: 3.8
+nature: 4.4
+off_the_beaten_track: 2.3
 ---
 
 Sainte-Anne-de-Beaupré is a small town on the north shore of the St. Lawrence, about 35 km northeast of [Quebec City](/northamerica/canada/quebec/quebeccity). It exists in the travel imagination because of the [Basilica of Sainte-Anne-de-Beaupré](/northamerica/canada/quebec/sainte_anne_de_beaupre/basilica_of_sainte_anne_de_beaupre), a major Catholic pilgrimage site that gives the town a seriousness out of proportion to its size.

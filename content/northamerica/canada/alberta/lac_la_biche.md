@@ -18,6 +18,10 @@ image: lac_la_biche.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Lac_La_Biche,_Alberta,_taken_from_a_Thomas_Cook_Airlines_Airbus_A330_en-route_from_Edmonton_to_London_Gatwick.jpg
 image_license: CC BY 3.0
 image_attribution: SempreVolando
+heritage: 1.8
+vibrancy: 1.7
+nature: 5.7
+off_the_beaten_track: 4.0
 ---
 
 *North America > Canada > Alberta > Lac La Biche*

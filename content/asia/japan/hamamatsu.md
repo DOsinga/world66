@@ -5,10 +5,15 @@ loc_type: city
 latitude: 34.7108
 longitude: 137.7261
 score: 7.4
-snippet: Japanese lakeside city of musical instruments, Tokugawa history, eel, and Pacific sand dunes.
+snippet: Japanese lakeside city of musical instruments, Tokugawa history, eel, and
+  Pacific sand dunes.
 sources:
-  - https://en.wikivoyage.org/wiki/Hamamatsu
-  - https://en.wikipedia.org/wiki/Hamamatsu
+- https://en.wikivoyage.org/wiki/Hamamatsu
+- https://en.wikipedia.org/wiki/Hamamatsu
+heritage: 3.1
+vibrancy: 3.4
+nature: 2.2
+off_the_beaten_track: 2.1
 ---
 
 Hamamatsu sits between the Pacific and Lake Hamana, west of Shizuoka city. It is a working Japanese city rather than a polished showpiece, but that is part of the appeal: Yamaha, Kawai, and Roland give it a real musical-instrument identity, Tokugawa Ieyasu gives it historical weight, and the coast breaks into a broad belt of sand dunes.

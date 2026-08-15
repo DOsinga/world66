@@ -5,11 +5,16 @@ loc_type: city
 latitude: 46.4256
 longitude: -72.9657
 score: 5.8
-snippet: Mauricie village made famous by Quebec storytelling, wooded lakes, and a theatrical village mythology.
+snippet: Mauricie village made famous by Quebec storytelling, wooded lakes, and a
+  theatrical village mythology.
 sources:
-  - https://en.wikivoyage.org/wiki/Saint-%C3%89lie-de-Caxton
-  - https://en.wikipedia.org/wiki/Saint-%C3%89lie-de-Caxton
-  - https://www.wikidata.org/wiki/Q251178
+- https://en.wikivoyage.org/wiki/Saint-%C3%89lie-de-Caxton
+- https://en.wikipedia.org/wiki/Saint-%C3%89lie-de-Caxton
+- https://www.wikidata.org/wiki/Q251178
+heritage: 3.0
+vibrancy: 1.9
+nature: 3.6
+off_the_beaten_track: 1.6
 ---
 
 Saint-Elie-de-Caxton is a small Mauricie village with an outsized place in Quebec's imagination. Storyteller and musician Fred Pellerin set many of his tales here, and the village has leaned into that reputation with a culture garage, guided walks, and a gently theatrical sense of local myth.

@@ -13,6 +13,10 @@ image: roscommon.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bank_of_Ireland,_Roscommon_-_geograph.org.uk_-_7790848.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Gordon Hatton
+heritage: 4.2
+vibrancy: 2.3
+nature: 4.6
+off_the_beaten_track: 3.9
 ---
 
 Roscommon is the county town of County Roscommon, a small place in Ireland's midlands west of Lough Ree. It is not a showy town, but it has the kind of layered history that rewards a slow walk: a ruined castle, a Dominican friary, an old gaol facade and a square that still feels like the centre of local life.

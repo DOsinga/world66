@@ -14,6 +14,10 @@ snippet: Small Swiss ski village with direct access to the cross-border Portes d
   Soleil pistes
 title: Les Crosets
 type: location
+heritage: 3.3
+vibrancy: 4.6
+nature: 7.7
+off_the_beaten_track: 2.9
 ---
 
 Les Crosets is a small ski village in the [Portes du Soleil](/europe/switzerland/lescrosets/portes_du_soleil), the vast cross-border ski area that links the Swiss and French Alps. Sitting at about 1,670 metres in the Val-d'Illiez, it offers direct access to over 600 kilometres of linked pistes stretching from Switzerland into France.

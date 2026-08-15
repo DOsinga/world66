@@ -15,6 +15,10 @@ snippet: Small inland capital of Belize, purpose-built after Hurricane Hattie da
   low-lying Belize City
 title: Belmopan
 type: location
+heritage: 4.3
+vibrancy: 3.1
+nature: 6.3
+off_the_beaten_track: 2.5
 ---
 
 Belmopan became Belize's capital in 1970, after Hurricane Hattie nearly destroyed Belize City in 1961. The government relocated inland to higher ground, but most of the population stayed put. The result is a small, quiet administrative town that still feels purpose-built rather than organically grown — centred on the [National Assembly Building](/northamerica/belize/belmopan/national_assembly_building), which was deliberately styled to evoke a Mayan temple.

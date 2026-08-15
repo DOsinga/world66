@@ -11,6 +11,10 @@ image: torghabeh.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Torghabeh,_Khorasan_Razavi,_Iran_-_panoramio.jpg
 image_license: CC BY 3.0
 image_attribution: ‫سید محمود جوادی‬‎
+heritage: 2.7
+vibrancy: 1.3
+nature: 2.7
+off_the_beaten_track: 4.9
 ---
 
 Torghabeh is a small mountain town about 30 km west of [Mashhad](/asia/iran/mashhad), and for centuries it has been the city's favourite hot-weather escape. The setting does the work: cool, green foothills of the [Binalud range](/asia/iran/binalud), with poplar groves and orchards running along the river, a noticeable few degrees cooler than the dusty city below.

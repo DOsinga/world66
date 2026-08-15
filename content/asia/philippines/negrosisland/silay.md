@@ -14,6 +14,10 @@ title: Silay
 type: location
 snippet: Negros sugar-baron city with heritage mansions from the Visayas' late colonial
   boom years.
+heritage: 4.0
+vibrancy: 3.7
+nature: 4.3
+off_the_beaten_track: 3.4
 ---
 
 Silay City sits 14 kilometres north of Bacolod on the island of Negros, and is the best-preserved sugar-baron town in the Visayas. Known as the "Paris of Negros" in its heyday, the city retains more than thirty heritage houses from the late nineteenth and early twentieth century — grand wooden and stone mansions built on sugar wealth, several of which are now open to visitors as museums.

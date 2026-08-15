@@ -14,6 +14,10 @@ snippet: Atlantic French island of dunes, oyster beds, surf beaches, and fishing
   linked by bridge to Charente.
 title: Ile d'Oleron
 type: location
+heritage: 3.9
+vibrancy: 4.4
+nature: 5.5
+off_the_beaten_track: 1.9
 ---
 
 The Ile d'Oleron is the largest French island on the Atlantic coast, connected to the mainland by a toll-free bridge. It is enormously popular with French holidaymakers in summer but still largely unknown to international visitors — which is part of its charm.

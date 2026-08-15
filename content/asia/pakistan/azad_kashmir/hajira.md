@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Devi_Gali
 title: Hajira
 type: location
+heritage: 1.6
+vibrancy: 1.4
+nature: 7.8
+off_the_beaten_track: 6.7
 ---
 
 Hajira is a tehsil headquarters in Poonch District of Azad Kashmir, set among forested hills at a moderate elevation. The [Line of Control](/asia/pakistan/azad_kashmir/hajira/line_of_control) with Indian-administered Kashmir lies only a few kilometres to the east, giving the area a frontier quality — military checkpoints are visible, and the political geography is never far from conversation.

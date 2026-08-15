@@ -6,12 +6,17 @@ latitude: 35.318889
 longitude: 126.983889
 wikidata: Q50240
 score: 7.12
-snippet: South Jeolla bamboo town known for forest walks, scholar gardens, and slow local food.
+snippet: South Jeolla bamboo town known for forest walks, scholar gardens, and slow
+  local food.
 sources:
 - https://en.wikivoyage.org/wiki/Damyang
 - https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=93987
 - https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=89007
 - https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=110586
+heritage: 4.1
+vibrancy: 3.3
+nature: 6.0
+off_the_beaten_track: 3.0
 ---
 
 *Asia > South Korea > Damyang*

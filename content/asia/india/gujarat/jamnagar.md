@@ -14,6 +14,10 @@ snippet: Gulf of Kutch city known for bandhani textiles, nearby Marine National 
   and bird sanctuaries.
 title: Jamnagar
 type: location
+heritage: 3.0
+vibrancy: 2.6
+nature: 2.1
+off_the_beaten_track: 2.7
 ---
 
 Jamnagar is a city on the Gulf of Kutch known for its bandhani (tie-dye) textiles — this is one of the best places in Gujarat to buy authentic bandhani saris, particularly under the arcades of the [Willingdon Crescent](/asia/india/gujarat/jamnagar/willingdon_crescent) in the old city. The city also sits near the [Marine National Park](/asia/india/gujarat/jamnagar/marine_national_park), India's first marine sanctuary, where low tide reveals coral reefs, colourful sponges, and sea life you can explore on foot. East of town, the [Khijadiya Bird Sanctuary](/asia/india/gujarat/jamnagar/khijadiya_bird_sanctuary) draws flamingos, pelicans, and a long list of migratory birds in winter.

@@ -14,6 +14,10 @@ image: abiquiu.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ghost_Ranch_redrock_cliffs.jpg
 image_license: CC BY 2.0
 image_attribution: Artotem from Here, There, and...
+heritage: 3.5
+vibrancy: 1.5
+nature: 7.8
+off_the_beaten_track: 5.0
 ---
 
 Abiquiu is a small village in northern New Mexico, but the landscape around it is anything but modest. Red cliffs, pale desert flats, the Chama River, and the blue line of Pedernal make the area feel instantly familiar if you know Georgia O'Keeffe's paintings. She lived here for decades, and it is still hard to separate the place from her eye.

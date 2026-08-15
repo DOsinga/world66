@@ -11,6 +11,10 @@ image: prizren.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Puente_de_Piedra,_Prizren,_Kosovo,_2014-04-16,_DD_08.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Diego Delso
+heritage: 7.5
+vibrancy: 5.2
+nature: 4.0
+off_the_beaten_track: 3.3
 ---
 
 Prizren is Kosovo's most beautiful and historically layered city, sitting in a mountain valley in the southwest where the Lumbardhi River cuts through the Šar Mountains. It has been a market town and cultural centre for over a thousand years, and the old city's mix of Ottoman mosques, Byzantine churches, and stone-paved streets is unlike anywhere else in the Western Balkans.

@@ -16,6 +16,10 @@ image: sao_joao_del_rei.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Apreciando_S%C3%A3o_Jo%C3%A3o_del_Rei_1.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Daniel Raposo
+heritage: 5.1
+vibrancy: 4.4
+nature: 5.0
+off_the_beaten_track: 3.7
 ---
 
 São João del Rei is one of the great historic towns of Minas Gerais, but it feels more lived-in than museum-polished. Baroque churches rise above a working town centre, bells still mark the day, and stone bridges and steep lanes keep the old colonial shape visible.

@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Hunan
 title: Dehang
 type: location
+heritage: 5.1
+vibrancy: 1.9
+nature: 7.1
+off_the_beaten_track: 4.1
 ---
 
 Dehang is a Miao minority village set in a gorge about an hour north of [Fenghuang](/asia/china/hunan/fenghuang) in western [Hunan](/asia/china/hunan). Where Fenghuang has been polished into a heavily visited riverside showpiece, Dehang retains something closer to functional village life alongside its tourism facilities: people grow rice on the terraced slopes above the gorge, the silversmithing and embroidery sold in the market are produced locally rather than imported from factories, and the hiking trails lead into terrain that requires genuine effort to reach. It is a useful corrective to the more choreographed experience downstream.

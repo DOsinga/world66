@@ -18,6 +18,10 @@ title: Clonmel
 type: location
 snippet: River Suir market town in County Tipperary, associated with medieval walls
   and cider-making.
+heritage: 4.5
+vibrancy: 3.7
+nature: 4.5
+off_the_beaten_track: 2.7
 ---
 
 Clonmel is the largest town in County Tipperary, set in the Suir Valley with the [Comeragh Mountains](/europe/ireland/clonmel/comeragh_mountains) rising to the south. The name comes from the Irish "Cluain Meala" — meadow of honey — and the setting lives up to it: if you arrive from the direction of Cashel, the town rolls out below in one of the most panoramic views of green Irish landscape you will find.

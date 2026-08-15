@@ -16,6 +16,10 @@ tags:
 - aeolianislands
 title: Vulcano
 type: location
+heritage: 4.5
+vibrancy: 3.7
+nature: 7.2
+off_the_beaten_track: 4.7
 ---
 
 Vulcano is the southernmost of the [Aeolian Islands](/europe/italy/sicily/aeolianislands) and the one that hits you hardest on arrival: the smell of sulphur drifts across the harbour before you've even stepped off the hydrofoil. The island is technically still active — not in a Stromboli-throwing-lava way, but in a steady, geological grumble of fumaroles, bubbling mud, and geothermally heated sea.

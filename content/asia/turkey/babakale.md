@@ -5,15 +5,20 @@ loc_type: city
 latitude: 39.4797
 longitude: 26.0646
 score: 6.7
-snippet: Tiny Aegean village at the westernmost point of mainland Asia, watched over by an Ottoman castle.
+snippet: Tiny Aegean village at the westernmost point of mainland Asia, watched over
+  by an Ottoman castle.
 sources:
-  - https://en.wikivoyage.org/wiki/Babakale
-  - https://en.wikipedia.org/wiki/Babakale,_Ayvac%C4%B1k
-  - https://www.wikidata.org/wiki/Q797565
+- https://en.wikivoyage.org/wiki/Babakale
+- https://en.wikipedia.org/wiki/Babakale,_Ayvac%C4%B1k
+- https://www.wikidata.org/wiki/Q797565
 image: babakale.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Babakale_Castle_1.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Leon petrosyan
+heritage: 4.1
+vibrancy: 2.1
+nature: 4.4
+off_the_beaten_track: 3.8
 ---
 
 Babakale is a small fishing village at the far western tip of mainland Asia, where the Troad runs out into the Aegean. It is not a polished resort, and that is part of its appeal: a castle wall, a working harbour, tea houses, knife makers, and the open water toward Lesvos.

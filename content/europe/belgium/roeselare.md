@@ -12,6 +12,10 @@ title: Roeselare
 type: location
 snippet: West Flemish city with cycling roots, First World War scars, and the KOERS
   museum.
+heritage: 3.3
+vibrancy: 2.7
+nature: 2.3
+off_the_beaten_track: 1.7
 ---
 
 Roeselare — known as Roulers in French — is a West Flemish city of about 65,000 that most travelers pass through without stopping, which is a shame. The town has deep roots in Belgium's cycling culture: it is the hometown of several professional cyclists, and the surrounding flat Flemish countryside offers some of the same roads used in classic spring races. The local cycling museum, KOERS, is an excellent modern museum that tells the story of Belgian road cycling with real bikes, memorabilia, and interactive exhibits, and it alone justifies a detour.

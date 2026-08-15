@@ -2,15 +2,20 @@
 title: Saparua
 type: location
 loc_type: feature
-latitude: -3.5730
-longitude: 128.6530
+latitude: -3.573
+longitude: 128.653
 wikidata: Q1584814
 score: 7.6
-snippet: Lease Islands escape from Ambon, with Pattimura history, old villages, beaches, and coral.
+snippet: Lease Islands escape from Ambon, with Pattimura history, old villages, beaches,
+  and coral.
 sources:
-  - https://en.wikivoyage.org/wiki/Saparua
-  - https://en.wikipedia.org/wiki/Saparua
-  - https://www.east-indonesia.info/regions/maluku-travel-information-saparua.html
+- https://en.wikivoyage.org/wiki/Saparua
+- https://en.wikipedia.org/wiki/Saparua
+- https://www.east-indonesia.info/regions/maluku-travel-information-saparua.html
+heritage: 1.4
+vibrancy: 1.5
+nature: 6.7
+off_the_beaten_track: 6.4
 ---
 
 Saparua is the largest of the Lease Islands east of Ambon, close enough for a determined day trip but better with a night or two. It has the classic Maluku mix: clove-era history, Christian and Muslim villages, bright water, and tourism that still feels small-scale.

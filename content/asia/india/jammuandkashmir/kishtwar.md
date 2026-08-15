@@ -16,6 +16,10 @@ snippet: High Chenab valley town in Jammu and Kashmir, surrounded by deodar fore
   and serious mountain peaks.
 title: Kishtwar
 type: location
+heritage: 5.1
+vibrancy: 1.1
+nature: 7.6
+off_the_beaten_track: 6.7
 ---
 
 Kishtwar sits on a high ridge above the Chenab River, roughly 232 km from Jammu and tucked into a deep valley where the mountains start to get serious. At around 1,600 m it is cool even in summer, and the peaks above — Nun Kun, Brahma, Barnaj — push past 6,000 m. For most travellers, this is genuine off-the-beaten-track territory: the road from Jammu is long, the infrastructure basic, and the rewards proportional.

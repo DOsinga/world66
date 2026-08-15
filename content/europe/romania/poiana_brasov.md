@@ -14,6 +14,10 @@ snippet: Carpathian ski resort village above Brașov, founded as a mountain reso
   in 1895.
 title: Poiana Brașov
 type: location
+heritage: 3.1
+vibrancy: 4.2
+nature: 6.0
+off_the_beaten_track: 2.0
 ---
 
 Poiana Brașov is Romania's best-known ski resort, a compact mountain village at about 1,000 metres in the Carpathians, just 12 km from the medieval city of [Brașov](/europe/romania/brasov). Founded as a resort in 1895, it hosted the Winter International Olympic Games for Universities in 1951 and remains an inexpensive winter destination by European standards.

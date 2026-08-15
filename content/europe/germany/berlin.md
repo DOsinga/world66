@@ -26,6 +26,10 @@ tip: Berlin is a sprawling, gritty, endlessly creative capital where history is 
   and starts very late.
 title: Berlin
 type: location
+heritage: 8.3
+vibrancy: 8.4
+nature: 6.1
+off_the_beaten_track: 1.1
 ---
 
 Berlin is a city that lives in the present tense — but it can't escape its past, and it doesn't try to. The [Brandenburg Gate](/europe/germany/berlin/brandenburger_tor), the remnants of the Wall (the [East Side Gallery](/europe/germany/berlin/east_side_gallery) runs 1.3 km along the Spree), the [Holocaust Memorial](/europe/germany/berlin/holocaust_memorial), [Checkpoint Charlie](/europe/germany/berlin/museum_checkpoint_charlie), the [Reichstag](/europe/germany/berlin/reichstag) with its glass dome open to the public: the 20th century is embedded in the city's fabric at every turn. What's remarkable is that this history doesn't weigh the city down. Berlin is restless, creative, and genuinely alive in a way that most European capitals have long since traded away for comfort.

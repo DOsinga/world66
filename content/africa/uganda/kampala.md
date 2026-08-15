@@ -20,6 +20,10 @@ tip: Kampala is a green, hilly, hectic city — originally built on seven hills 
   Boda-boda motorbike taxis are fast but risky; agree the fare and hold on.
 title: Kampala
 type: location
+heritage: 5.5
+vibrancy: 6.5
+nature: 3.0
+off_the_beaten_track: 3.7
 ---
 
 Kampala is Uganda's capital, a sprawling, hilly, noisy city of around 1.7 million people a few miles north of Lake Victoria. Built across seven hills — the colonial-era joke that it was another Rome was taken seriously by town planners — it is the busy, matatu-clogged hub of a country that has rebuilt itself from the wreckage of Idi Amin's rule and the decades of civil war that followed.

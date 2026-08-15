@@ -9,6 +9,10 @@ title: Yinchuan
 type: location
 snippet: Ningxia capital by the Yellow River, framed by the Helan Mountains and Western
   Xia tombs.
+heritage: 4.7
+vibrancy: 2.9
+nature: 3.0
+off_the_beaten_track: 3.3
 ---
 
 Yinchuan is the capital of the Ningxia Hui Autonomous Region, a city of around a million people on the edge of the Yellow River with the Helan Mountains rising to the west. Most travellers heading between Lanzhou and Inner Mongolia pass straight through — which is a mistake. Spend a few days and Yinchuan earns its keep.

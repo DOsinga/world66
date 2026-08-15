@@ -16,6 +16,10 @@ image: loudonville.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Downtown_Loudonville.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Chris Light (talk)
+heritage: 1.7
+vibrancy: 2.0
+nature: 2.6
+off_the_beaten_track: 1.4
 ---
 
 Loudonville is a small town in north-central Ohio, just north of the wooded gorge country of Mohican State Park. Its downtown is modest, but the surrounding Mohican area gives it a clear travel identity: canoe liveries, forest trails, a restored grist mill, and one of Ohio's more interesting literary farms all sit within an easy drive.

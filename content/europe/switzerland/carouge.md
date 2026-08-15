@@ -10,6 +10,10 @@ snippet: Geneva-area commune planned by Sardinian rulers, known for colourful st
   and artisan workshops.
 title: Carouge
 type: location
+heritage: 6.7
+vibrancy: 6.0
+nature: 3.9
+off_the_beaten_track: 1.6
 ---
 
 Carouge is Geneva's bohemian quarter — technically a separate commune, but in practice the city's most characterful neighbourhood. It was planned in the 18th century by the King of Sardinia as a rival to Calvinist Geneva, and the difference shows: where Geneva is orderly and restrained, Carouge is relaxed, colourful, and full of independent shops, artisan workshops, and small restaurants.

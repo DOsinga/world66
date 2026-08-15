@@ -3,12 +3,17 @@ latitude: -8.092
 loc_type: city
 longitude: 111.96
 score: 6.4
-snippet: East Java marble town and regency base for south-coast beaches and Majapahit temple remains.
+snippet: East Java marble town and regency base for south-coast beaches and Majapahit
+  temple remains.
 sources:
-  - https://en.wikivoyage.org/wiki/Tulungagung
-  - https://en.wikivoyage.org/wiki/East_Java
+- https://en.wikivoyage.org/wiki/Tulungagung
+- https://en.wikivoyage.org/wiki/East_Java
 title: Tulungagung
 type: location
+heritage: 4.8
+vibrancy: 4.0
+nature: 5.8
+off_the_beaten_track: 4.2
 ---
 
 Tulungagung is a town and regency in southern East [Java](/asia/indonesia/java), inland from a rough stretch of Indian Ocean coast. It is known inside Indonesia for marble, but the better reason for travellers to pause here is the mix of remote beaches, small Majapahit-era temple remains, and a more local feel than the better-known East Java stops.

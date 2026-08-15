@@ -16,6 +16,10 @@ snippet: Walkable Los Angeles beach city with a landmark pier, oceanfront promen
   and compact civic centre
 title: Santa Monica
 type: location
+heritage: 2.7
+vibrancy: 7.1
+nature: 7.2
+off_the_beaten_track: 1.1
 ---
 
 Santa Monica sits at the western edge of Los Angeles, where the Santa Monica Mountains meet the Pacific. It is its own incorporated city within the greater metropolitan sprawl, with about 90,000 residents and a character distinct from its surroundings: more walkable, more compact, politically progressive, and oriented relentlessly toward the ocean.

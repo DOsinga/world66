@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Lake_Turkana
 title: Lodwar
 type: location
+heritage: 5.7
+vibrancy: 1.0
+nature: 6.6
+off_the_beaten_track: 7.2
 ---
 
 Lodwar is the main town in Turkana County and the gateway to [Lake Turkana](/africa/kenya/northernkenya/lodwar/lake_turkana) from the west. It's a small, poor, dusty place — temperatures regularly exceed 40°C — but it's the essential overnight stop if you're heading to the lake. Expect persistent attention from vendors and children; it comes with the territory.

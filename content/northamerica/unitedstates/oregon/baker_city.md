@@ -14,6 +14,10 @@ image: baker_city.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bakermainstreet.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Finetooth
+heritage: 3.3
+vibrancy: 2.2
+nature: 5.4
+off_the_beaten_track: 3.9
 ---
 
 Baker City is a small eastern Oregon town with more substance than its size suggests. It grew rich on mining, ranching, and the traffic of the Oregon Trail, and its downtown still has a run of handsome brick buildings from the late nineteenth and early twentieth centuries.

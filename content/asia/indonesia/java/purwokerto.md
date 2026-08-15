@@ -14,6 +14,10 @@ title: Purwokerto
 type: location
 snippet: Central Java university city below Mount Slamet, used as a gateway to Dieng
   and Cilacap.
+heritage: 3.0
+vibrancy: 3.0
+nature: 4.5
+off_the_beaten_track: 2.5
 ---
 
 A mid-sized city in the western part of Central Java, Purwokerto is a transit point for travelers heading to the scenic Dieng Plateau or the south coast beaches around Cilacap. The surrounding countryside is lush and green, with rice terraces and the slopes of [Mount Slamet](/asia/indonesia/java/purwokerto/mount_slamet) — Java's second highest volcano — providing a dramatic backdrop.

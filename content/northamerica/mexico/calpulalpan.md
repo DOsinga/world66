@@ -17,6 +17,10 @@ image: calpulalpan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Air_view_of_Calpulalpan,_Tlaxcala.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Isaacvp
+heritage: 3.5
+vibrancy: 1.7
+nature: 2.0
+off_the_beaten_track: 2.9
 ---
 
 Calpulalpan sits in western Tlaxcala, close to the border with the State of Mexico and the old routes between the central highlands and the Gulf. It is a modest city, but it has a sharper historical identity than its size suggests: pre-Hispanic trade routes, Franciscan-era religious buildings, and the nearby archaeological site of [Tecoaque](/northamerica/mexico/calpulalpan/tecoaque).

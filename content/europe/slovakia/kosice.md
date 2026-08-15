@@ -17,6 +17,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Ko%C5%A1ice
 title: Košice
 type: location
+heritage: 6.8
+vibrancy: 3.9
+nature: 3.4
+off_the_beaten_track: 2.3
 ---
 
 Košice is Slovakia's second city, a substantial regional capital of about 240,000 people in the far east of the country, close to the Hungarian and Ukrainian borders. It is the largest city in eastern Slovakia and in many ways feels like a different country from Bratislava — more Central European in character, with a strong Hungarian cultural tradition (the city was known as Kassa under Hungarian rule) and a historic centre that is larger and better preserved than most visitors expect.

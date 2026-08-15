@@ -16,6 +16,10 @@ tags:
 - rivieradellepalme
 title: Urbe
 type: location
+heritage: 5.3
+vibrancy: 5.2
+nature: 5.4
+off_the_beaten_track: 2.0
 ---
 
 Urbe lies on the northern side of the Ligurian Apennines, scattered across the upper valley of the Olba stream. Once a possession of the Abbey of Tiglieto, it was donated to the Bishop of Acqui in the eleventh century and shared the fortunes of Sassello until 1798.

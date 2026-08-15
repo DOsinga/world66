@@ -16,6 +16,10 @@ snippet: Central Massachusetts city rebuilt around colleges, medicine, and a liv
   Shrewsbury Street restaurant strip.
 title: Worcester
 type: location
+heritage: 4.8
+vibrancy: 4.8
+nature: 3.4
+off_the_beaten_track: 1.9
 ---
 
 Worcester is the largest city in central [Massachusetts](/northamerica/unitedstates/massachusetts) and the second largest in New England, sitting about 45 miles west of [Boston](/northamerica/unitedstates/massachusetts/boston). It has a scrappier, less polished feel than the capital — an old industrial city that has reinvented itself through education and medicine rather than finance or tech.

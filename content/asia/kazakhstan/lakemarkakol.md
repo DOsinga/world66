@@ -9,6 +9,10 @@ score: 6.7
 loc_type: feature
 snippet: Remote Altai mountain lake in eastern Kazakhstan, set in a forested reserve
   near China.
+heritage: 2.7
+vibrancy: 0.8
+nature: 7.3
+off_the_beaten_track: 7.4
 ---
 
 Lake Markakol is a remote mountain lake in Eastern Kazakhstan, set at about 1,450 metres in the Altai Mountains near the Chinese border. The lake sits in a nature reserve — a quiet, forested basin of pine and fir surrounded by steep mountain slopes. If you can get here, the scenery is extraordinary.

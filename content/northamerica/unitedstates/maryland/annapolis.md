@@ -13,6 +13,10 @@ title: Annapolis
 type: location
 snippet: Maryland capital and colonial port city dominated by the State House and
   Naval Academy waterfront.
+heritage: 6.8
+vibrancy: 4.7
+nature: 3.7
+off_the_beaten_track: 1.8
 ---
 
 Annapolis is the capital of [Maryland](/northamerica/unitedstates/maryland) and one of the best-preserved colonial towns in the United States. The city served briefly as the nation's capital in 1783-84, and its compact [historic district](/northamerica/unitedstates/maryland/annapolis/colonial_historic_district) -- centred on the [Maryland State House](/northamerica/unitedstates/maryland/annapolis/maryland_state_house), the oldest state capitol still in continuous legislative use -- is a pleasure to walk through. Brick row houses, narrow streets, and church steeples give the downtown a scale and character that feels more European than American.

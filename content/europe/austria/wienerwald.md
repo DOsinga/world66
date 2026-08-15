@@ -12,6 +12,10 @@ image: wienerwald.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Vienna_Woods_in_winter.jpg
 image_license: Public domain
 image_attribution: KF at en.wikipedia
+heritage: 3.5
+vibrancy: 2.7
+nature: 7.1
+off_the_beaten_track: 2.8
 ---
 
 The Wienerwald is the wooded range of low limestone hills that wraps around the west and north of Vienna — roughly 1,000 square kilometres of beech and oak forest, meadows, vineyards, and small spa towns, declared a UNESCO Biosphere Reserve in 2005. It is the city's green lung and weekend playground: where the Viennese walk, cycle, ride, and end the afternoon at a Heuriger wine tavern. For a forest that begins at the end of a tram line, it is remarkably wild, with marked trails that climb out of the suburbs and within an hour leave the city behind entirely.

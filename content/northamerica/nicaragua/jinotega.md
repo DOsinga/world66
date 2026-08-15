@@ -10,6 +10,10 @@ snippet: Nicaraguan highland city of coffee farms, cool mist, and mountains nort
   of Managua.
 title: Jinotega
 type: location
+heritage: 3.8
+vibrancy: 2.8
+nature: 6.1
+off_the_beaten_track: 5.6
 ---
 
 Jinotega sits at nearly 1,000 metres in the northern Nicaraguan highlands, ringed by mountains that rise to 1,500 metres and kept cool by altitude — a welcome contrast to the sweltering lowlands. Known as the "City of Mists" for the clouds that roll through its valleys, it is the heart of Nicaragua's coffee country and a base for exploring some of the most dramatic highland scenery in Central America.

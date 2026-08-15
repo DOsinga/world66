@@ -11,6 +11,10 @@ image: forestofdean.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Into_the_Forest_of_Dean,_Gloucestershire_-_geograph.org.uk_-_7632280.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Jaggery
+heritage: 4.0
+vibrancy: 1.4
+nature: 6.7
+off_the_beaten_track: 3.1
 ---
 
 Travel Guide

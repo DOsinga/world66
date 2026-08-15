@@ -14,6 +14,10 @@ snippet: Congo River city deep in equatorial forest, near Boyoma Falls and Wagen
   fishing traditions.
 title: Kisangani
 type: location
+heritage: 5.2
+vibrancy: 2.1
+nature: 4.4
+off_the_beaten_track: 7.8
 ---
 
 Known in colonial times as Stanleyville, Kisangani sits on the Congo River over 1,700 km upstream from [Kinshasa](/africa/congokinshasa/kinshasa), deep in the equatorial forest. It is a city of fading colonial architecture, dense humidity, and an atmosphere that feels genuinely remote from the rest of the world.

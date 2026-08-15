@@ -14,6 +14,10 @@ snippet: Charleston barrier-island beach town with surf, fishing, Center Street 
   and views toward Morris Island Lighthouse.
 title: Folly Beach
 type: location
+heritage: 2.5
+vibrancy: 4.2
+nature: 6.3
+off_the_beaten_track: 1.5
 ---
 
 Folly Beach is a small barrier island community just twenty minutes south of [Charleston](/northamerica/unitedstates/southcarolina/charleston), and it wears its reputation as "the Edge of America" with pride. This is Charleston's laid-back counterpoint — a six-mile stretch of sand where surfers, fishermen, and beach bums have been coming for generations. The vibe is deliberately unhurried, with locally owned shops and restaurants lining Center Street and a conspicuous absence of high-rise development.

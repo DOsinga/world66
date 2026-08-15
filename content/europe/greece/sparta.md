@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Sparta_(modern_city)
 title: Sparta
 type: location
+heritage: 7.7
+vibrancy: 5.0
+nature: 3.6
+off_the_beaten_track: 2.1
 ---
 
 Modern Sparta is the small administrative capital of Laconia, a quiet town of around 16,000 people in the broad Eurotas valley between the [Taygetos](/europe/greece/sparta/taygetos_mountains) and Parnon mountain ranges. It exists almost entirely on a grid laid out by a Bavarian town planner in the 1830s on the site of the ancient city, and you should arrive with calibrated expectations: there are essentially no above-ground remains of classical Sparta to speak of. As Thucydides predicted in the fifth century BC, future generations would find it hard to believe such an unimpressive site had once held one of the most feared powers in the Greek world.

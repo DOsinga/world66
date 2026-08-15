@@ -13,6 +13,10 @@ image: fabulous_rivers.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Besan%C3%A7on,_le_Doubs_et_la_citadelle.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Wikipedro
+heritage: 4.2
+vibrancy: 1.6
+nature: 6.8
+off_the_beaten_track: 4.2
 ---
 
 The Département of Doubs is home to some of the finest river scenery in France. While the [Loue valley](/europe/france/franchecomte/loue_valley) deserves its fame, four other rivers cut outstanding gorges through the Jura limestone: the Doubs itself, the Lison, the Hérisson, and the Dessoubre.

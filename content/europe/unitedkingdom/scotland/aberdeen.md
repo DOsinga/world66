@@ -15,6 +15,10 @@ snippet: Granite Scottish port city with compact museums, floral parks, and a lo
   North Sea maritime life.
 title: Aberdeen
 type: location
+heritage: 5.8
+vibrancy: 5.9
+nature: 3.7
+off_the_beaten_track: 1.4
 ---
 
 With a proud and fascinating history, the City of Aberdeen presents a modern cosmopolitan image to visitors who are often surprised by the many diverse attractions which the regional capital of Grampian Highlands offers.

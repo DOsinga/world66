@@ -11,6 +11,10 @@ image: golden.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Golden_(5)_(54488008338).jpg
 image_license: CC BY 2.0
 image_attribution: Michael Stokes
+heritage: 4.1
+vibrancy: 4.1
+nature: 7.0
+off_the_beaten_track: 1.5
 ---
 
 Golden sits twenty minutes west of [Denver](/northamerica/unitedstates/colorado/denver), wedged in the gap where Clear Creek leaves the mountains and the Front Range begins to climb. For a small foothills town it carries a lot of history: it was briefly the territorial capital of Colorado in the 1860s, before the seat moved to Denver, and the old main street along Washington Avenue is still one block of red brick that survives largely intact from the 1880s. A welcome arch spanning the street announces, with no irony, "Howdy Folks, Welcome to Golden."

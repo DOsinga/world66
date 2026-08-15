@@ -3,7 +3,8 @@ latitude: 34.6667
 loc_type: city
 longitude: 137.2667
 score: 6.75
-snippet: Aichi peninsula city where Cape Irago faces the Pacific, Mikawa Bay, and Ise Bay.
+snippet: Aichi peninsula city where Cape Irago faces the Pacific, Mikawa Bay, and
+  Ise Bay.
 sources:
 - https://en.wikivoyage.org/wiki/Tahara
 - https://en.wikipedia.org/wiki/Tahara,_Aichi
@@ -16,6 +17,10 @@ image: tahara.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Irago_Lighthouse_s2.JPG
 image_license: CC BY-SA 4.0
 image_attribution: Bariston
+heritage: 3.0
+vibrancy: 2.1
+nature: 3.9
+off_the_beaten_track: 2.1
 ---
 
 Tahara takes up the Atsumi Peninsula, the long southern arm of Aichi that divides Mikawa Bay from the Pacific before ending at Cape Irago. It is technically a city, but the reason to come is the coast: white lighthouse, wind-cut rocks, surf beaches, flower fields, and wide water on three sides.

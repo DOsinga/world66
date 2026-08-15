@@ -13,6 +13,10 @@ snippet: North Bali beach village string, known for black sand, calm water, and 
   dolphin boats
 title: Lovina
 type: location
+heritage: 1.9
+vibrancy: 3.1
+nature: 6.8
+off_the_beaten_track: 2.5
 ---
 
 Lovina is a string of small coastal villages along the north coast of [Bali](/asia/indonesia/bali), stretching several kilometres either side of the main settlement of Kalibukbuk. It is the north coast's main tourist area, but feels like a different world from the south — quieter, cheaper, and more laid-back.

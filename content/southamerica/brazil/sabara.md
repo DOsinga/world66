@@ -11,6 +11,10 @@ image: sabara.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Centro,_Sabar%C3%A1_-_MG,_Brazil_-_panoramio_(2).jpg
 image_license: CC BY-SA 3.0
 image_attribution: wanderley santos vie…
+heritage: 6.1
+vibrancy: 3.6
+nature: 3.4
+off_the_beaten_track: 3.1
 ---
 
 Sabará sits just 20 km east of [Belo Horizonte](/southamerica/brazil/belohorizonte), where the modern city's sprawl finally gives way to the wooded hills of the Rio das Velhas valley. It is the easiest of the historic Minas Gerais mining towns to reach — close enough to be swallowed almost into the metropolitan area, yet old enough to predate Belo Horizonte by nearly two centuries. Gold made it: founded around 1700 as one of the first settlements of the Minas gold rush, it was briefly one of the wealthiest places in colonial Brazil.

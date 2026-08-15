@@ -16,6 +16,10 @@ tags:
 - rivieradellepalme
 title: Massimino
 type: location
+heritage: 4.4
+vibrancy: 2.9
+nature: 5.7
+off_the_beaten_track: 3.2
 ---
 
 Massimino is the smallest commune in Liguria, a village in the upper valley of the Tanaro with a long history that belies its size. It appears in a diploma of Otto I in 967, and over the following centuries passed from the Marchesi di Ceva to the Del Carretto of Finale, then to Spain in 1598, and finally to Genoa in 1713 — acquired for its strategic position controlling the Via dei Giovetti mountain pass.

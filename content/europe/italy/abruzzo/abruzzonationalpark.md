@@ -17,6 +17,10 @@ sources:
 - https://www.parks.it/parco.nazionale.abruzzo/Epar.php
 title: Abruzzo, Lazio and Molise National Park
 type: location
+heritage: 4.5
+vibrancy: 1.1
+nature: 8.3
+off_the_beaten_track: 5.8
 ---
 
 Abruzzo, Lazio and Molise National Park is one of Italy's oldest and most important protected areas, spread across the central Apennines where Abruzzo meets Lazio and Molise. It is bear country first of all: the rare Marsican brown bear survives here, along with Apennine wolves, deer, wild boar, and the local chamois.

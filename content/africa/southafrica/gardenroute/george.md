@@ -10,6 +10,10 @@ snippet: Garden Route town below the Outeniqua Mountains, with nearby forests, p
   and beaches.
 title: George
 type: location
+heritage: 4.2
+vibrancy: 5.2
+nature: 7.6
+off_the_beaten_track: 3.1
 ---
 
 George is the largest town on the Garden Route and the commercial hub of the southern Western Cape. The Outeniqua Mountains rise dramatically behind the town to the north, while the coastline — some of the finest beaches in South Africa — lies just a short drive to the south.

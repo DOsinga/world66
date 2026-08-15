@@ -14,6 +14,10 @@ snippet: Atlantic port city in Morocco, famed for blue-and-white pottery from th
   Colline des Potiers.
 title: Safi
 type: location
+heritage: 4.0
+vibrancy: 3.1
+nature: 7.0
+off_the_beaten_track: 4.6
 ---
 
 Safi is Morocco's pottery capital, a working Atlantic port city where craft and industry sit side by side. The [Colline des Potiers](/africa/morocco/safi/colline_des_potiers) — an entire hillside neighborhood of kilns, workshops, and showrooms — produces the distinctive blue-and-white glazed ceramics sold across Morocco. You can buy directly from the potters here at prices well below what you'd pay in Marrakech or Fez.

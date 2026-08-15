@@ -14,6 +14,10 @@ image_license: CC BY 2.0
 image_attribution: mariaflorine on Flickr
 snippet: Ecuadorian highland market city known for its February flower-and-fruit festival
   and Tungurahua views.
+heritage: 5.0
+vibrancy: 5.0
+nature: 5.4
+off_the_beaten_track: 4.0
 ---
 
 Ambato is the capital of Tungurahua province, sitting at about 2,500 metres in Ecuador's central highlands. It is a busy, commercial city — not immediately obvious as a tourist stop, but useful as a base for exploring the surrounding sierra and as a window into everyday Ecuadorian life away from the gringo trail.

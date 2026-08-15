@@ -9,6 +9,10 @@ snippet: Minnesota-Wisconsin riverway following the St. Croix and Namekagon rive
   protected for paddling and scenic bluffs.
 title: Saint Croix River
 type: location
+heritage: 3.2
+vibrancy: 3.1
+nature: 6.5
+off_the_beaten_track: 2.0
 ---
 
 The St. Croix National Scenic Riverway follows the Namekagon and St. Croix rivers for 252 miles along the Minnesota-Wisconsin border. It was one of the first rivers protected under the Wild and Scenic Rivers Act of 1968, and it remains one of the best paddling destinations in the upper Midwest.

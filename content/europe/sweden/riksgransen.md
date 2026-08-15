@@ -15,6 +15,10 @@ image: riksgransen.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Riksgr%C3%A4nsen,_2020-05-16.jpg
 image_license: CC0
 image_attribution: Ojan
+heritage: 3.6
+vibrancy: 1.3
+nature: 7.5
+off_the_beaten_track: 5.5
 ---
 
 Riksgränsen is Sweden's far-north border resort, wedged against Norway on the railway between Kiruna and Narvik. It is small, seasonal, and very much a ski place, but it has a stronger identity than an ordinary resort strip: this is one of the northernmost lift-served ski areas in the world, with a season that runs toward the midnight sun.

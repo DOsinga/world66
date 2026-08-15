@@ -10,6 +10,10 @@ snippet: Northern Andhra Pradesh district town near Kalinga history, Buddhist ru
   and Arasavalli Sun Temple.
 title: Srikakulam
 type: location
+heritage: 1.9
+vibrancy: 2.5
+nature: 2.9
+off_the_beaten_track: 2.9
 ---
 
 Srikakulam is the northernmost district of [Andhra Pradesh](/asia/india/andhrapradesh), tucked between the Bay of Bengal to the east and [Odisha](/asia/india/orissa) to the north. Once part of the ancient Kalinga kingdom, the district carries layers of history that most visitors to India never encounter — Buddhist ruins, sun temples, and crumbling colonial ports, all largely free of crowds.

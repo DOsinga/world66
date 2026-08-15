@@ -14,6 +14,10 @@ snippet: Dry northwestern Venezuelan state of trade-wind beaches, desert scrub, 
   the colonial city of Coro.
 title: Falcón
 type: location
+heritage: 3.5
+vibrancy: 3.1
+nature: 5.2
+off_the_beaten_track: 5.0
 ---
 
 Falcón state occupies the northwestern corner of Venezuela, a dry, wind-swept peninsula that feels completely different from the rest of the country. The coastline here is arguably Venezuela's finest, with long stretches of white sand backed by desert scrub and cactus rather than the tropical greenery found further east. The beaches around [Adicora](/southamerica/venezuela/falcn/adicora) and [Chichiriviche](/southamerica/venezuela/chichiriviche) draw kitesurfers and windsurfers who come for the reliable trade winds.

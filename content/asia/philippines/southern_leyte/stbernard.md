@@ -16,6 +16,10 @@ sources:
 - https://southernleyte.gov.ph/saint-bernard/saint-bernard-tourism/
 title: St Bernard
 type: location
+heritage: 2.5
+vibrancy: 1.2
+nature: 6.0
+off_the_beaten_track: 5.3
 ---
 
 St Bernard sits on the eastern side of [Southern Leyte](/asia/philippines/southern_leyte), between the mountains and the coast road that runs toward Silago. It is a quiet municipal town, but it carries one of the province's heaviest modern memories: the 2006 Guinsaugon landslide, which buried a village after weeks of rain.

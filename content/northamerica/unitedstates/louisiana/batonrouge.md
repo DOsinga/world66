@@ -15,6 +15,10 @@ snippet: Louisiana capital on the Mississippi, shaped by LSU, river industry, an
   Huey Long's Art Deco capitol.
 title: Baton Rouge
 type: location
+heritage: 5.3
+vibrancy: 4.5
+nature: 4.5
+off_the_beaten_track: 2.1
 ---
 
 Baton Rouge is Louisiana's state capital and second-largest city, sitting on the east bank of the Mississippi River about 80 miles northwest of New Orleans. It's a working city — the River Road chemical plants and oil refineries that line the Mississippi here are the industrial backbone of Louisiana's economy — but it has a distinct character, especially around the LSU campus and the old downtown.

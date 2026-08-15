@@ -3,7 +3,8 @@ latitude: -51.617
 loc_type: city
 longitude: -59.5
 score: 6.96
-snippet: Remote West Falkland sheep-farm settlement with war history, sea-trout rivers, and open hill walks.
+snippet: Remote West Falkland sheep-farm settlement with war history, sea-trout rivers,
+  and open hill walks.
 sources:
 - https://en.wikivoyage.org/wiki/Port_Howard
 - https://en.wikipedia.org/wiki/Port_Howard
@@ -11,6 +12,10 @@ sources:
 - https://www.falklandislands.com/things-to-do/port-howard-museum-p674161
 title: Port Howard
 type: location
+heritage: 1.3
+vibrancy: 1.2
+nature: 8.0
+off_the_beaten_track: 6.5
 ---
 
 Port Howard is less a town than a working sheep-farm settlement on West Falkland, with a few dozen people, a jetty, an airstrip, and a large amount of weather. That is the point. If [Stanley](/southamerica/falklandislands/stanley) is the islands' public face, Port Howard is a better glimpse of camp life: practical, remote, and tied to sheep, wind, ferries, and wide empty land.

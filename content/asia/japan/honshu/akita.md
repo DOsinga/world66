@@ -16,6 +16,10 @@ image: akita.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Akita_Kanto_Festival_2019.jpg
 image_license: CC BY-SA 4.0
 image_attribution: 掬茶
+heritage: 4.9
+vibrancy: 3.6
+nature: 5.0
+off_the_beaten_track: 2.1
 ---
 
 Akita is the main city on the Sea of Japan side of northern Tohoku, a practical rail hub with a more interesting centre than many travellers expect. Around Senshu Park, the old Kubota Castle grounds give the city a green heart, while the museums and galleries nearby make it easy to spend a full day without rushing.

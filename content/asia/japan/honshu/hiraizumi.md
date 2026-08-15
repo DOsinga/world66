@@ -14,6 +14,10 @@ image: hiraizumi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:230728_Chusonji_Hiraizumi_Iwate_pref_Japan01s3.jpg
 image_license: CC BY-SA 4.0
 image_attribution: 663highland
+heritage: 8.3
+vibrancy: 3.9
+nature: 4.1
+off_the_beaten_track: 2.6
 ---
 
 Hiraizumi is a small town in Iwate with a past far larger than its present. In the 12th century, the Northern Fujiwara built a Buddhist city here that was meant to rival Kyoto. Most of that splendour is gone, but enough remains for Hiraizumi to feel like one of northern Honshu's most moving historical stops.

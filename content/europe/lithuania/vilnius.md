@@ -15,6 +15,10 @@ snippet: Lithuanian capital of Baroque church spires, cobbled old-town courtyard
   and layered Baltic history.
 type: location
 score: 8.85
+heritage: 5.3
+vibrancy: 5.4
+nature: 4.6
+off_the_beaten_track: 2.2
 ---
 
 Vilnius is a city that reveals itself slowly. The Lithuanian capital has one of the largest surviving medieval old towns in Europe — a UNESCO World Heritage Site since 1994 — and yet it remains far less visited than its Baltic neighbours Tallinn and Riga. That relative obscurity is part of its appeal.

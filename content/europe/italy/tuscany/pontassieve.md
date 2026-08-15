@@ -14,6 +14,10 @@ snippet: Tuscan wine town at the Arno-Sieve confluence, anchored by a Medici bri
   and Chianti Rufina.
 title: Pontassieve
 type: location
+heritage: 6.5
+vibrancy: 4.9
+nature: 5.6
+off_the_beaten_track: 1.8
 ---
 
 Pontassieve sits at the confluence of the Arno and the Sieve, fourteen kilometres east of Florence. The name says everything: it is the bridge — the [Medici Bridge](/europe/italy/tuscany/pontassieve/medici_bridge) — over the Sieve, built in 1555 by order of Cosimo I and still in use. The town that grew up around it is the entry point to the Sieve valley and the heart of the small but prestigious Chianti Rufina wine zone.

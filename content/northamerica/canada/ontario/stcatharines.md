@@ -14,6 +14,10 @@ snippet: Niagara region city on Lake Ontario, where Welland Canal locks meet nea
   wine country.
 title: St. Catharines
 type: location
+heritage: 2.8
+vibrancy: 3.9
+nature: 5.5
+off_the_beaten_track: 1.5
 ---
 
 St. Catharines is the largest city in the Niagara region of [Ontario](/northamerica/canada/ontario), sitting on the shore of Lake Ontario at the northern end of the Welland Canal. Most travellers pass through on their way to [Niagara Falls](/northamerica/canada/ontario/niagrafalls), but the city makes a decent base for exploring the wider peninsula.

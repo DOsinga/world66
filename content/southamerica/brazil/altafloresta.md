@@ -17,6 +17,10 @@ image: altafloresta.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Parque_Estadual_Cristalino_por_THEREZA_COLLOR_HALBREICH_(01).jpg
 image_license: CC BY-SA 4.0
 image_attribution: THEREZA COLLOR HALBREICH
+heritage: 2.0
+vibrancy: 1.7
+nature: 7.0
+off_the_beaten_track: 6.0
 ---
 
 Alta Floresta is a frontier city in northern Mato Grosso, set where cattle country, old gold-rush history, and the southern edge of the Amazon meet. The city itself is functional and spread out, but it is one of Brazil's better access points for serious rainforest travel without starting in Manaus or Belem.

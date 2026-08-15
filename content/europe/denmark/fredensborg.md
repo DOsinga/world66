@@ -16,6 +16,10 @@ sources:
 - https://denkongeligesamling.dk/en/fredensborg-palace/tickets/
 title: Fredensborg
 type: location
+heritage: 5.4
+vibrancy: 2.1
+nature: 3.8
+off_the_beaten_track: 1.9
 ---
 
 Fredensborg is a quiet North Zealand town built around [Fredensborg Palace](/europe/denmark/fredensborg/fredensborg_palace), the Danish royal family's most lived-in country residence. It is less showy than [Frederiksborg Castle](/europe/denmark/hillerod/frederiksborg_castle) in nearby [Hillerød](/europe/denmark/hillerod), but that is the point: this is a working royal retreat, with a broad baroque garden, long gravel avenues, and a lakeside setting that feels more intimate than grand.

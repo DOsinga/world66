@@ -12,6 +12,10 @@ snippet: Southern Thai old town on a peninsula between Songkhla Lake and the Gul
   rich in Sino-Portuguese streets.
 title: Songkhla
 type: location
+heritage: 4.7
+vibrancy: 3.0
+nature: 4.0
+off_the_beaten_track: 4.8
 ---
 
 Songkhla is one of southern Thailand's most atmospheric old towns — a quietly historic city perched on a narrow peninsula between the Gulf of Thailand and the vast Songkhla Lake. About 950 km south of Bangkok and just north of the Malaysian border, it sits at the edge of the deep south where Thai, Chinese, and Malay cultures have blended for centuries.

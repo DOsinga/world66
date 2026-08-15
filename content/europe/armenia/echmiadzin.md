@@ -15,6 +15,10 @@ snippet: Armenian spiritual capital where the Mother See anchors seventeen centu
   of Apostolic Church history.
 title: Echmiadzin
 type: location
+heritage: 7.8
+vibrancy: 4.3
+nature: 4.2
+off_the_beaten_track: 2.5
 ---
 
 Echmiadzin — officially Vagharshapat, the country's fourth-largest city — is the spiritual capital of Armenia. The seat of the Supreme Catholicos sits here, and the [Mother See of Holy Etchmiadzin](/europe/armenia/echmiadzin/etchmiadzin_cathedral) has been the headquarters of the Armenian Apostolic Church for more than seventeen centuries.

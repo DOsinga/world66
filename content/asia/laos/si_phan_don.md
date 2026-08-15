@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Don_Det
 title: Si Phan Don (4,000 Islands)
 type: location
+heritage: 2.4
+vibrancy: 1.4
+nature: 7.7
+off_the_beaten_track: 7.0
 ---
 
 Si Phan Don — "four thousand islands" in Lao — is where the Mekong, approaching the Cambodian border, spreads across a vast delta of islands, channels, and rapids. At the peak of the dry season the river is 14 kilometres wide here. The landscape is one of the most dramatic in Southeast Asia: multiple waterfalls, braided channels between forested islands, rice paddies, fishing villages, and an atmosphere so unhurried that it has a reputation for extending intended stays by days or weeks.

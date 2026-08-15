@@ -14,6 +14,10 @@ image: lheus.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Centro_de_Ilh%C3%A9us.jpg
 image_license: CC0
 image_attribution: Leandro M800
+heritage: 6.6
+vibrancy: 5.5
+nature: 6.2
+off_the_beaten_track: 4.0
 ---
 
 Ilhéus is the capital of Bahia's cacao coast — a languid, sun-baked city where the boom years of the early twentieth century left behind a scatter of Art Nouveau mansions, grand churches, and the kind of stories that made Jorge Amado one of Brazil's most celebrated writers. His novel *Gabriela, Cravo e Canela* is set here, and you can still visit the [Bar Vesúvio](/southamerica/brazil/lheus/bar_vesuvio) and the Cabaret Bataclan that appear in its pages, both now restored as tourist landmarks in the Bloco Jorge Amado. The [Casa de Jorge Amado](/southamerica/brazil/lheus/casa_jorge_amado) is the former home of the novelist himself, now a museum.

@@ -13,6 +13,10 @@ snippet: Clifftop Krk Island town known for Žlahtina wine, stone lanes, and Gla
   heritage
 title: Vrbnik
 type: location
+heritage: 4.9
+vibrancy: 4.1
+nature: 6.0
+off_the_beaten_track: 2.7
 ---
 
 Vrbnik is a hilltop town perched on a cliff above the eastern coast of [Krk Island](/europe/croatia/krkisland), overlooking the narrow Vinodol Channel. The setting is dramatic — stone houses cluster along a ridge that drops steeply to the sea on one side.

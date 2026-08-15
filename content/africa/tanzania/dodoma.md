@@ -23,6 +23,10 @@ tip: Dodoma is Tanzania's official capital, chosen for its central location, tho
   Mosque are landmarks. Most travellers pass through en route to the safari parks.
 title: Dodoma
 type: location
+heritage: 4.3
+vibrancy: 4.1
+nature: 5.4
+off_the_beaten_track: 4.9
 ---
 
 Dodoma is Tanzania's official capital, though in practice [Dar es Salaam](/africa/tanzania/daressalaam) remains the country's commercial and administrative heart. Parliament meets here, but most ministries and government offices stay on the coast. The decision to relocate the capital was made under Nyerere in the 1970s — Dar es Salaam was considered too geographically peripheral — and the move has been inching forward ever since.

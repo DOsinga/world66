@@ -9,6 +9,10 @@ snippet: Outdoorsy northern California town beneath a massive volcanic cone that
   the Shasta Cascade skyline.
 title: Mount Shasta
 type: location
+heritage: 6.8
+vibrancy: 2.0
+nature: 7.4
+off_the_beaten_track: 5.8
 ---
 
 The city of Mount Shasta sits at the foot of one of California's most dramatic landmarks — a massive volcanic cone that towers over the surrounding forest and dominates the skyline for a hundred miles in every direction. The mountain itself is a serious wilderness destination, drawing hikers, skiers, and mountaineers year-round. The small city at its base is a quiet, outdoorsy town with just enough amenities to serve as a comfortable base.

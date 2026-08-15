@@ -14,6 +14,10 @@ snippet: Red Sea port city in the Hejaz, split between petrochemical industry an
   reef-rich diving waters
 title: Yanbu
 type: location
+heritage: 2.5
+vibrancy: 1.6
+nature: 2.4
+off_the_beaten_track: 4.6
 ---
 
 Yanbu is a Red Sea port city in the Hejaz, about 300 kilometres north of [Jeddah](/asia/saudiarabia/jeddah). Like Jubail on the Gulf coast, it has been heavily developed as an industrial and petrochemical centre since the 1970s, and the industrial city and the older historic town ([Al-Balad](/asia/saudiarabia/yanbu/old_town)) are separate areas separated both physically and in character.

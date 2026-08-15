@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Xinxiang
 title: Xinxiang
 type: location
+heritage: 3.0
+vibrancy: 2.6
+nature: 2.1
+off_the_beaten_track: 1.5
 ---
 
 Xinxiang is a medium-sized city in northern Henan straddling the southern edge of the Taihang Mountains, close enough to Zhengzhou to be part of its metropolitan orbit but distinct enough in character to merit its own visit. The city's name dates to the Sui dynasty, when officials combined the characters from two older county names, and it has spent the fourteen centuries since as a quiet agricultural and trading centre. What draws visitors today is not the city itself but the mountain scenery immediately to its north, where Huixian County rises abruptly into the Taihang escarpment.

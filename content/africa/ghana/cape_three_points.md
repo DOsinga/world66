@@ -16,6 +16,10 @@ sources:
 title: Cape Three Points
 type: location
 score: 6.3
+heritage: 3.4
+vibrancy: 1.6
+nature: 6.0
+off_the_beaten_track: 4.5
 ---
 
 Cape Three Points is the end-of-the-road corner of Ghana's Western Region, a small peninsula where forest, fishing villages, and rough Atlantic surf meet at the country's southernmost tip. It is often described as the land closest to Null Island, the imaginary 0 degrees latitude and 0 degrees longitude point far out in the Gulf of Guinea.

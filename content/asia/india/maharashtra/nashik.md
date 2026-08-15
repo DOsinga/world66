@@ -15,6 +15,10 @@ score: 7.08
 snippet: Holy city on the Godavari River, known for Kumbh Mela ghats and nearby vineyards.
 title: Nashik
 type: location
+heritage: 5.3
+vibrancy: 4.8
+nature: 4.8
+off_the_beaten_track: 2.4
 ---
 
 Nashik is one of Hinduism's holiest cities, 170 kilometres northeast of Mumbai in the foothills of the Western Ghats. The Godavari River rises in the nearby hills and flows through the city's ghats, and this is one of the four sites where the Kumbh Mela — the world's largest religious gathering — takes place every twelve years. Even in quieter years, the ghats are busy with pilgrims bathing, priests performing rituals, and ashes being scattered.

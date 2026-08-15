@@ -13,6 +13,10 @@ title: Folgaria
 type: location
 snippet: Trentino plateau town with Habsburg echoes, ski slopes, and summer trails
   above the Adige Valley.
+heritage: 3.8
+vibrancy: 3.0
+nature: 6.8
+off_the_beaten_track: 2.6
 ---
 
 Folgaria sits on a sunny plateau at 1,168 metres above sea level, looking out over the Adige Valley toward the Lavarone mountain range in the southern Dolomites. With its onion-domed [Chiesa di San Lorenzo](/europe/italy/trentinoaltoadige/folgaria/chiesa_di_san_lorenzo), coffee houses, and Austrian-flavoured architecture, it is a reminder that this part of Trentino was Habsburg territory until 1918.

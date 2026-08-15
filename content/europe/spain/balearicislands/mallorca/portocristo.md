@@ -14,6 +14,10 @@ snippet: Mallorca east-coast harbour resort, known for Coves del Drac and a sand
   inlet beach
 title: Porto Cristo
 type: location
+heritage: 2.3
+vibrancy: 5.8
+nature: 4.8
+off_the_beaten_track: 1.6
 ---
 
 Set on a hillside overlooking a small natural harbour on [Mallorca's](/europe/spain/balearicislands/mallorca) east coast, Porto Cristo is a pretty resort with genuine old-world charm. The tree-lined esplanade along the waterfront is lined with bars and cafes, and a sandy beach sits at the head of the inlet.

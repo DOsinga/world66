@@ -10,6 +10,10 @@ snippet: Paraguay River border city and southern Pantanal gateway, with colonial
   houses and wetland wildlife access.
 title: Corumbá
 type: location
+heritage: 4.7
+vibrancy: 4.3
+nature: 6.5
+off_the_beaten_track: 6.2
 ---
 
 Corumbá sits on the western bank of the Paraguay River at the Bolivian border and calls itself the capital of the Pantanal — not an empty boast. The town is the main gateway into the southern Pantanal, the vast flooded wetland that is one of the world's great wildlife habitats. Jaguars, giant otters, capybaras, and hundreds of bird species live in the surrounding floodplains.

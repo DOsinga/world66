@@ -14,6 +14,10 @@ title: Hormuz Island
 type: location
 snippet: Strait of Hormuz island with red and yellow mineral soils, lunar beaches,
   and a Portuguese fort.
+heritage: 3.3
+vibrancy: 2.1
+nature: 3.9
+off_the_beaten_track: 5.3
 ---
 
 Hormuz is a small island in the Strait of Hormuz, a short boat ride from [Bandar Abbas](/asia/iran/bandar_e_abbas) on the Iranian mainland. It is a genuinely strange and beautiful place — the landscape is almost lunar, with vivid red, orange, and yellow soil that locals use as spice (the "red earth" is edible and used in cooking). The beaches on the south side of the island shimmer with mineral colours unlike anything you have seen before.

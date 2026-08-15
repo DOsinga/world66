@@ -7,6 +7,10 @@ snippet: Northern Karnataka city where Kannada, Marathi, Urdu, and colonial laye
   meet on the Deccan Plateau
 title: Belgaum
 type: location
+heritage: 5.8
+vibrancy: 4.8
+nature: 4.7
+off_the_beaten_track: 3.3
 ---
 
 Belgaum (also known as Belagavi) is a large city in northern Karnataka, sitting on the Deccan Plateau near the borders of Goa and Maharashtra. It has historically been a meeting point of cultures — the city has significant Kannada-, Marathi-, and Urdu-speaking populations, and the architecture reflects layers of Hindu, Muslim, and colonial influence. The old fort, built by the Chalukyas and extended under the Bahmani Sultans, encloses two mosques and a Jain temple within its walls.

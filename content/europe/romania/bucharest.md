@@ -25,6 +25,10 @@ tip: Bucharest is a city of grand, faded boulevards — once 'Little Paris', it 
   of surprises.
 title: Bucharest
 type: location
+heritage: 4.6
+vibrancy: 5.9
+nature: 2.1
+off_the_beaten_track: 1.7
 ---
 
 Bucharest was once known as the "Little Paris" for its tree-lined boulevards, Belle Époque architecture, and a café culture that rivalled the French capital in the 1930s. The Communist era tried hard to erase that identity — Ceaușescu demolished a fifth of the historic centre to build his grotesque [Parliament Palace](/europe/romania/bucharest/parliament_palace) — but the old city has proven stubbornly resilient.

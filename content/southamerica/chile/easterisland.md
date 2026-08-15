@@ -22,6 +22,10 @@ tip: 'Rapa Nui is one of the most remote inhabited places on Earth — flights a
   Rano Raraku quarry, where unfinished moai still lie in the hillside.'
 title: Easter Island
 type: location
+heritage: 8.2
+vibrancy: 1.2
+nature: 8.1
+off_the_beaten_track: 6.8
 ---
 
 Easter Island — Rapa Nui, to the people who live there — is the most remote inhabited place on Earth. It sits alone in the south Pacific, 3,700 kilometres off the coast of Chile and more than 2,000 kilometres from the nearest other inhabited island. To get there you fly five hours from Santiago on the only airline that makes the trip. And when you land on the small triangular volcanic island, you find yourself surrounded by nearly a thousand giant stone heads — the moai — left behind by the Polynesian society that lived here between about 1200 and the 17th century, and that became one of the most famous cautionary tales in human history.

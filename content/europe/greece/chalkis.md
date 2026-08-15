@@ -10,6 +10,10 @@ snippet: Euboean capital on the Euripus Strait, where the tidal current famously
   direction.
 title: Chalkis
 type: location
+heritage: 6.6
+vibrancy: 3.0
+nature: 3.9
+off_the_beaten_track: 2.1
 ---
 
 Chalkis (also spelled Chalcis or Halkida) is the capital of Euboea, Greece's second-largest island, connected to the mainland by a bridge so short that most people don't realize they've crossed to an island. The city sits on the narrow [Euripus Strait](/europe/greece/chalkis/euripus_strait), where one of the most baffling natural phenomena in the Mediterranean occurs: the current reverses direction multiple times each day, sometimes surging so fast it's impossible to swim across. The philosopher Aristotle is said to have been so frustrated by his inability to explain the phenomenon that he threw himself into the strait — a story almost certainly apocryphal, but telling.

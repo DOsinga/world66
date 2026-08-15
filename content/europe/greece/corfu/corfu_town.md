@@ -5,10 +5,15 @@ loc_type: city
 latitude: 39.6243
 longitude: 19.9217
 score: 8.4
-snippet: Venetian Ionian capital of arcaded squares, twin fortresses, and dense old-town lanes.
+snippet: Venetian Ionian capital of arcaded squares, twin fortresses, and dense old-town
+  lanes.
 sources:
-  - https://en.wikivoyage.org/wiki/Corfu_Town
-  - https://whc.unesco.org/en/list/978/
+- https://en.wikivoyage.org/wiki/Corfu_Town
+- https://whc.unesco.org/en/list/978/
+heritage: 5.5
+vibrancy: 5.7
+nature: 5.2
+off_the_beaten_track: 1.8
 ---
 
 Corfu Town, or Kerkyra, is the handsome capital of [Corfu](/europe/greece/corfu) and the island's strongest argument for leaving the beach. Four centuries of Venetian rule shaped the old town more deeply than almost anywhere else in Greece: tall ochre houses, laundry-strung lanes, arched passageways, little squares, and fortifications built to keep the Ottomans out of the Adriatic.

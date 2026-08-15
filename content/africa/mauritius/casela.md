@@ -9,6 +9,10 @@ snippet: West-coast Mauritius nature and leisure park that began as a bird park 
   rare species.
 title: Casela
 type: location
+heritage: 2.5
+vibrancy: 2.1
+nature: 7.7
+off_the_beaten_track: 2.7
 ---
 
 Casela World of Adventures is a nature and leisure park on the west coast, in the Rivière Noire district between Tamarin and Flic en Flac. The original attraction was a bird park hosting some 140 species of birds from around the world, including the Mauritian Pink Pigeon — one of the rarest birds on earth, still clawing back from near-extinction after a serious conservation effort.

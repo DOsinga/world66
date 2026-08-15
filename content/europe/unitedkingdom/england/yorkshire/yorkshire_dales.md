@@ -12,6 +12,10 @@ snippet: National park of limestone dales, waterfalls, dry-stone walls, and mark
   towns from Skipton to Hawes.
 title: Yorkshire Dales
 type: location
+heritage: 6.4
+vibrancy: 2.3
+nature: 8.4
+off_the_beaten_track: 3.7
 ---
 
 The Yorkshire Dales National Park covers a stretch of the Pennine hills in northern England — a landscape of broad green valleys (the dales), limestone pavements, waterfalls, and stone-walled fields dotted with sheep. It is one of the most popular walking destinations in England, easily accessible from Leeds, Manchester, or the A1, and filled with small market towns that offer good pubs and reasonably priced accommodation.

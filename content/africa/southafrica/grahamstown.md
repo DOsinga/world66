@@ -6,11 +6,16 @@ latitude: -33.3106
 longitude: 26.5256
 wikidata: Q951161
 score: 7.3
-snippet: Eastern Cape university town of churches, museums, frontier history, and South Africa's big arts festival.
+snippet: Eastern Cape university town of churches, museums, frontier history, and
+  South Africa's big arts festival.
 sources:
 - https://en.wikivoyage.org/wiki/Grahamstown
 - https://en.wikipedia.org/wiki/Makhanda,_Eastern_Cape
 - https://nationalartsfestival.co.za/
+heritage: 5.2
+vibrancy: 4.5
+nature: 3.1
+off_the_beaten_track: 2.0
 ---
 
 Grahamstown, officially Makhanda, is a small Eastern Cape city with an outsized cultural life. It has the feel of an old university town: stone churches, museum buildings, students, festival posters, and a complicated frontier history that still needs to be read with care.

@@ -6,12 +6,17 @@ latitude: -38.2678
 longitude: 144.6608
 score: 6.9
 wikidata: Q3359425
-snippet: Historic Bellarine Peninsula port town guarding the entrance to Port Phillip Bay.
+snippet: Historic Bellarine Peninsula port town guarding the entrance to Port Phillip
+  Bay.
 sources:
-  - https://en.wikivoyage.org/wiki/Queenscliff
-  - https://www.queenscliffe.vic.gov.au/Discover
-  - https://fortqueenscliff.com.au/
-  - https://bellarinerailway.com.au/
+- https://en.wikivoyage.org/wiki/Queenscliff
+- https://www.queenscliffe.vic.gov.au/Discover
+- https://fortqueenscliff.com.au/
+- https://bellarinerailway.com.au/
+heritage: 4.6
+vibrancy: 4.2
+nature: 6.0
+off_the_beaten_track: 3.0
 ---
 
 *Australia and Pacific > Australia > Victoria > Queenscliff*

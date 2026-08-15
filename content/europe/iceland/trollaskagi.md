@@ -11,6 +11,10 @@ image: trollaskagi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mountains_of_Tr%C3%B6llaskagi_in_Northern_Iceland,_from_the_Stephan_G._Stephansson_monument,_20240715_1359_0872.jpg
 image_license: CC BY 4.0
 image_attribution: Jakub Hałun
+heritage: 2.0
+vibrancy: 0.8
+nature: 8.1
+off_the_beaten_track: 5.5
 ---
 
 Tröllaskagi — "Troll's Peninsula" — is the dramatic wedge of land between Skagafjörður and Eyjafjörður, holding some of the highest and most rugged mountains in northern Iceland. The peaks rise straight from the sea, and the valleys between them, including Fljót and Skíðadalur, stayed essentially inaccessible by road until the late 20th century. It is the reason to linger in Dalvík rather than push straight on to Akureyri.

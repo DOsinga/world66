@@ -11,6 +11,10 @@ tags:
 - rivieradellepalme
 title: Vado Ligure
 type: location
+heritage: 3.1
+vibrancy: 2.4
+nature: 5.1
+off_the_beaten_track: 2.3
 ---
 
 Vado Ligure is a small industrial port town on the Riviera delle Palme, just west of Savona. It is not a typical tourist stop, but its Roman origins and handful of historic fortifications give it more character than the commercial port suggests.

@@ -14,6 +14,10 @@ snippet: South Devon market town and transport hub for Dartmoor, the Teign Valle
   and Torbay.
 title: Newton Abbot
 type: location
+heritage: 2.8
+vibrancy: 2.7
+nature: 4.3
+off_the_beaten_track: 1.7
 ---
 
 Newton Abbot is a market town in South Devon, inland from Torbay and sitting at the head of the Teign estuary. It is primarily a commercial and transport hub for the surrounding area — the railway junction was historically important, and the town still serves as a practical base for exploring [Dartmoor](/europe/unitedkingdom/england/south_west/dartmoor), the Teign Valley, and the Torbay coast.

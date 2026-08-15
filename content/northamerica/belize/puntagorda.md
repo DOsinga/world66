@@ -13,6 +13,10 @@ score: 7.34
 snippet: Quiet southern Belize port with Maya and Garifuna roots, deep in traditional
   Toledo District.
 loc_type: city
+heritage: 2.9
+vibrancy: 3.2
+nature: 8.0
+off_the_beaten_track: 3.8
 ---
 
 Punta Gorda — "PG" to locals — is the southernmost town in Belize, a quiet port in the Toledo district with a strong Maya and Garifuna presence. It's off most tourist itineraries, which is exactly why some travelers seek it out.

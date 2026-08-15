@@ -18,6 +18,10 @@ image: marfa.jpg
 image_source: https://commons.wikimedia.org/wiki/File:MarfaTX_Downtown_15Aug2012.jpg
 image_license: CC BY 2.0
 image_attribution: Mathieu Lebreton from Paris, France
+heritage: 3.6
+vibrancy: 5.8
+nature: 6.1
+off_the_beaten_track: 4.7
 ---
 
 Marfa sits alone in the high desert of West Texas, a small ranching and railroad town that became one of the strangest art destinations in the United States. The landscape does half the work: empty roads, old brick storefronts, mountains on the horizon, and a sky that makes even plain buildings look deliberate.

@@ -8,13 +8,17 @@ wikidata: Q427422
 score: 6.5
 snippet: Lake Vänern town with a cathedral old quarter and easy archipelago access.
 sources:
-  - https://en.wikivoyage.org/wiki/Mariestad
-  - https://www.vastsverige.com/en/mariestad/artiklar/welcome-to-mariestad/
-  - https://en.wikipedia.org/wiki/Mariestad
+- https://en.wikivoyage.org/wiki/Mariestad
+- https://www.vastsverige.com/en/mariestad/artiklar/welcome-to-mariestad/
+- https://en.wikipedia.org/wiki/Mariestad
 image: mariestad.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Tidan,_V%C3%A4nern,_Domkyrka,_Mariestad_-_20250329_-_08.jpg
 image_license: CC BY-SA 4.0
 image_attribution: AleWi
+heritage: 5.0
+vibrancy: 3.3
+nature: 5.0
+off_the_beaten_track: 2.1
 ---
 
 Mariestad is a small Swedish lake town where the old centre, cathedral, and harbour sit close enough together to make an easy, satisfying day. The town stands where the Tidan river meets Lake Vänern, and its best views mix red roofs, water, and the cathedral tower above the old quarter.

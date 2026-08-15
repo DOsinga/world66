@@ -14,6 +14,10 @@ snippet: Sacred north Indian city at the Triveni Sangam, known for Kumbh Mela an
   colonial-era history.
 title: Allahabad
 type: location
+heritage: 5.1
+vibrancy: 4.9
+nature: 1.9
+off_the_beaten_track: 2.2
 ---
 
 Allahabad (officially renamed Prayagraj in 2018) is one of the most sacred cities in India, situated at the [Triveni Sangam](/asia/india/uttarpradesh/allahabad/triveni_sangam) — the confluence of the Ganges, the Yamuna, and the mythical underground Saraswati rivers. For Hindus, bathing at the Sangam is an act of enormous spiritual significance, and the city draws pilgrims year-round.

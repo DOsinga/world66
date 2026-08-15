@@ -19,6 +19,10 @@ image: lochbuie.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lochbuie.JPG
 image_license: CC BY 3.0
 image_attribution: W. L. Tarbert
+heritage: 3.8
+vibrancy: 2.2
+nature: 5.5
+off_the_beaten_track: 3.4
 ---
 
 Lochbuie is a small, tucked-away corner of southeast Mull where the road ends in a glen of cattle fields, sea air, and old MacLaine history. It is not a village in the usual sense. It is a place you come to walk: from [Moy Castle](/europe/unitedkingdom/scotland/isle_of_mull/lochbuie/moy_castle) to the beach, from the old chapel-mausoleum to the stone circle, with Ben Buie rising behind everything like a blunt pyramid.

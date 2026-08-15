@@ -14,6 +14,10 @@ snippet: Shenandoah Valley city packed with Civil War battlefields, George Washi
   sites, and a walkable historic downtown
 title: Winchester
 type: location
+heritage: 5.8
+vibrancy: 3.6
+nature: 4.0
+off_the_beaten_track: 2.1
 ---
 
 Winchester sits at the top of the Shenandoah Valley, a small city with a disproportionate amount of American history packed into its streets. George Washington got his start here — surveying, building forts, winning his first election — and during the Civil War the town changed hands between Union and Confederate forces so many times that locals lost count. Six battles were fought in and around Winchester, and the city is said to have changed flags around 70 times over four years.

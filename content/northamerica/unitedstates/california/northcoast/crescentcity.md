@@ -12,6 +12,10 @@ snippet: Far northern California fishing town on a crescent bay, beside redwoods
   Battery Point Lighthouse.
 title: Crescent City
 type: location
+heritage: 2.3
+vibrancy: 2.1
+nature: 7.2
+off_the_beaten_track: 3.9
 ---
 
 Crescent City sits at the far northern end of the California coast, just 20 miles from the Oregon border and right at the doorstep of Redwood National and State Parks. It is a small, no-frills fishing town — the kind of place where the working harbor still smells of brine and diesel, and the fog rolls in thick enough to soften everything.

@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Zhuzhou
 title: Zhuzhou
 type: location
+heritage: 1.9
+vibrancy: 1.8
+nature: 2.1
+off_the_beaten_track: 2.0
 ---
 
 Zhuzhou, 45 kilometres southeast of [Changsha](/asia/china/hunan/changsha), describes itself as "the city pulled by the train," a phrase that captures its entire character. The Beijing-Guangzhou and Shanghai-Kunming railways cross here, making it one of the five busiest rail junctions in China, and the city grew around that function rather than around any natural advantage or historical distinction. It is an industrial city, functional and prosperous, without the cultural weight of most other Hunan cities — which is, in a way, exactly what makes it interesting to a certain kind of traveller.

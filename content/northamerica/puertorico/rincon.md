@@ -14,6 +14,10 @@ snippet: Puerto Rican surf town at the island's western tip, facing winter swell
   and Mona Passage sunsets.
 title: Rincon
 type: location
+heritage: 3.3
+vibrancy: 2.2
+nature: 6.1
+off_the_beaten_track: 3.5
 ---
 
 Rincón is Puerto Rico's surf town, sitting at the island's westernmost point where the Atlantic meets the Caribbean. It earned its international reputation in 1968 when it hosted the World Surfing Championships, and surfers have been showing up ever since. The winter swells (November to April) bring consistent waves at spots like [Domes Beach](/northamerica/puertorico/rincon/domes_beach) and [Tres Palmas](/northamerica/puertorico/rincon/tres_palmas_marine_reserve) — the last a protected marine reserve with a reef break that ranks among the best in the Caribbean.

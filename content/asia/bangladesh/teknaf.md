@@ -16,6 +16,10 @@ image: teknaf.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Teknaf_Ghat.JPG
 image_license: Public domain
 image_attribution: Shmunmun
+heritage: 1.7
+vibrancy: 1.1
+nature: 7.9
+off_the_beaten_track: 5.9
 ---
 
 Teknaf is the last mainland town in far southeastern [Bangladesh](/asia/bangladesh), squeezed between the Bay of Bengal, the Naf River, and the hills along the Myanmar border. It is dusty, remote, and rough around the edges, but the setting is one of the most dramatic in the country.

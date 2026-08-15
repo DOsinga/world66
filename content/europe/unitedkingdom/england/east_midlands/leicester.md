@@ -14,6 +14,10 @@ image: leicester.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aerial-Leicester_2.017.jpg
 image_license: CC0
 image_attribution: DougPR
+heritage: 5.7
+vibrancy: 4.8
+nature: 3.5
+off_the_beaten_track: 2.0
 ---
 
 Leicester is a Midlands city with a lot more going on than its industrial reputation suggests. Founded as a Roman settlement (Ratae Coritanorum), it has a long layered history visible in everything from a chunk of [Roman wall](/europe/unitedkingdom/england/east_midlands/leicester/jewry_wall_museum) in the city centre to the [medieval castle and guildhall](/europe/unitedkingdom/england/east_midlands/leicester/leicester_guildhall). Then in 2012, archaeologists discovered the remains of King Richard III under a car park — the most dramatic archaeological find in Britain in living memory. He's now interred in [Leicester Cathedral](/europe/unitedkingdom/england/east_midlands/leicester/leicester_cathedral), and the [Richard III Visitor Centre](/europe/unitedkingdom/england/east_midlands/leicester/richard_iii_visitor_centre) is genuinely excellent.

@@ -2,16 +2,21 @@
 title: Changwon
 type: location
 loc_type: city
-latitude: 35.2280
+latitude: 35.228
 longitude: 128.6819
 wikidata: Q243327
 score: 7.2
-snippet: Planned South Gyeongsang city with Jinhae cherry blossoms, Masan seafood, and wetland birdlife.
+snippet: Planned South Gyeongsang city with Jinhae cherry blossoms, Masan seafood,
+  and wetland birdlife.
 sources:
-  - https://en.wikivoyage.org/wiki/Changwon
-  - https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=93625
-  - https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=104830
-  - https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=215505
+- https://en.wikivoyage.org/wiki/Changwon
+- https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=93625
+- https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=104830
+- https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=215505
+heritage: 4.9
+vibrancy: 5.1
+nature: 4.1
+off_the_beaten_track: 1.2
 ---
 
 *Asia > South Korea > Changwon*

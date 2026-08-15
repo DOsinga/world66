@@ -13,6 +13,10 @@ title: Kurunegala
 type: location
 snippet: North Western Province city and former Sinhalese capital, ringed by animal-named
   granite outcrops.
+heritage: 3.6
+vibrancy: 2.2
+nature: 3.7
+off_the_beaten_track: 3.7
 ---
 
 Kurunegala is a mid-sized city in the North Western Province of Sri Lanka, about 100 kilometres north of Colombo. It was a medieval capital of the Sinhalese kingdom in the 13th and 14th centuries, and the large rocky outcrops that surround the town were given the names of animals — [Elephant Rock](/asia/srilanka/kurunegala/ethagala), [Tortoise Rock](/asia/srilanka/kurunegala/ibbagala) — that still serve as local landmarks. A large white Buddha statue now crowns the highest summit.

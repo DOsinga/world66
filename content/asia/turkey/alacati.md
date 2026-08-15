@@ -18,6 +18,10 @@ sources:
 title: Alaçatı
 type: location
 wikidata: Q941328
+heritage: 6.3
+vibrancy: 6.8
+nature: 5.8
+off_the_beaten_track: 3.1
 ---
 
 Alaçatı is the prettiest town on the Çeşme Peninsula: a former Greek settlement of pale stone houses, narrow cobbled lanes, courtyard restaurants, and old windmills on the rise above town. It is now fashionable, expensive, and busy in summer, but the old centre still has enough texture to justify the fuss.

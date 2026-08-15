@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Chilo%C3%A9_Island
 title: Chiloé
 type: location
+heritage: 3.0
+vibrancy: 2.4
+nature: 7.6
+off_the_beaten_track: 4.9
 ---
 
 Chiloé is Chile with the weather turned inward: green, wet, wooden, and full of stories. The Isla Grande lies just beyond [Puerto Montt](/southamerica/chile/puertomontt), but the short ferry crossing over the Chacao Channel feels like a proper threshold. On the other side are shingled houses, fishing coves, foggy pastures, and a culture that has always looked both to the sea and to its own legends.

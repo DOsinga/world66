@@ -14,6 +14,10 @@ snippet: Western Australian estuary city south of Perth, shaped by Peel Inlet wa
   and blue manna crabs.
 title: Mandurah
 type: location
+heritage: 2.9
+vibrancy: 3.9
+nature: 7.5
+off_the_beaten_track: 2.8
 ---
 
 Mandurah is Western Australia's second-largest city and one of the fastest-growing, sitting on the [Peel Inlet and Harvey Estuary](/australiaandpacific/australia/westernaustralia/mandurah/peel_inlet) about 75 km south of Perth. The estuary system is the city's defining feature — a large, calm body of water that supports the dolphins which are commonly seen in the [canals](/australiaandpacific/australia/westernaustralia/mandurah/mandurah_canals) and waterways threading through the suburbs. [Crab fishing](/australiaandpacific/australia/westernaustralia/mandurah/crabbing) is a local obsession, and blue manna crabs are caught in season throughout the estuary.

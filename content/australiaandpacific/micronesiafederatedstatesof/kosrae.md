@@ -10,6 +10,10 @@ snippet: Remote Micronesian island of jungle, citrus groves, coral reefs, and th
   ancient Leluh ruins.
 title: Kosrae
 type: location
+heritage: 2.0
+vibrancy: 0.3
+nature: 7.3
+off_the_beaten_track: 7.4
 ---
 
 Kosrae is the easternmost of the four states of the Federated States of Micronesia, and one of the most remote inhabited islands in the Pacific. Covered in dense jungle, flowering trees, and citrus groves, it feels genuinely untouched — there are no resorts, no cruise ships, and very few tourists. The island is small enough to drive around in an hour, but rich enough to keep you busy for a week.

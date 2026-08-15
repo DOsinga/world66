@@ -13,6 +13,10 @@ title: Belfast
 type: location
 snippet: Northern Irish capital where shipyard heritage, political murals, and Victorian
   architecture define the cityscape.
+heritage: 7.7
+vibrancy: 6.2
+nature: 5.1
+off_the_beaten_track: 2.3
 ---
 
 Belfast has transformed itself from a city defined by conflict to one of the most interesting destinations in the British Isles. The Troubles left deep scars — the [peace walls](/europe/unitedkingdom/northernireland/belfast/murals_and_peace_walls), the murals, the sectarian geography — but they also gave Belfast a resilience and dark humour that makes it unlike anywhere else in the UK or Ireland.

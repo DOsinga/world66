@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Dornier_Museum_Friedrichshafen
 title: Friedrichshafen
 type: location
+heritage: 5.2
+vibrancy: 4.1
+nature: 4.5
+off_the_beaten_track: 2.6
 ---
 
 Friedrichshafen sits on the north shore of Lake Constance (Bodensee), about 160 km southwest of Munich, looking south across the water to the Swiss Alps. It has a relaxed lakeside character in summer, with a long promenade and regular steamer connections to Switzerland and Austria.

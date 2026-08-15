@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Qiandaohu
 title: Qiandao Lake
 type: location
+heritage: 4.3
+vibrancy: 3.7
+nature: 7.5
+off_the_beaten_track: 1.8
 ---
 
 Qiandao Lake — the Thousand Islands Lake — is one of the more melancholy landscapes in China, though it does not immediately look it. The reservoir was created in 1959 when the Xin'an River valley was flooded for the first large dam built in the People's Republic, submerging two ancient county towns and several hundred villages in the process. What remains above water is an emerald expanse dotted with 1,078 forested islands, the drowned hilltops of what was once a densely populated valley. The water is startlingly clear — it supplies much of Hangzhou's drinking water — and the islands are almost entirely cloaked in green.

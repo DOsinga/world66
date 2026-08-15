@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Nicodemus_National_Historic_Site
 title: Nicodemus
 type: location
+heritage: 2.4
+vibrancy: 1.6
+nature: 1.7
+off_the_beaten_track: 2.5
 ---
 
 On the rolling shortgrass prairie of north-central Kansas, Nicodemus stands as one of the most quietly powerful places in America. Founded on April 18, 1877, by a group of six Black and one white Kansans, it became the first and only remaining western town established by African Americans during the Reconstruction era. The people who came here — many of them former enslaved people and their children, part of the wave of "Exodusters" fleeing the post-Reconstruction South — broke sod, built churches, and proved that freedom could take root even on the unforgiving Great Plains.

@@ -16,6 +16,10 @@ snippet: Ancient Sri Lankan capital and Buddhist sacred city, spread with dagoba
   monastic ruins, and forested pools
 title: Anuradhapura
 type: location
+heritage: 8.2
+vibrancy: 3.6
+nature: 4.2
+off_the_beaten_track: 3.1
 ---
 
 Anuradhapura was the first great capital of Sri Lanka, a city that flourished for over 1,400 years — from around 380 BC until the late 10th century AD — and rivalled the greatest urban centres of the ancient world. At its height it received ambassadors from China, Rome, and Persia, and sustained monastic communities of up to 5,000 monks each. Today the ancient city is a UNESCO World Heritage Site and one of the most sacred places in the Buddhist world.

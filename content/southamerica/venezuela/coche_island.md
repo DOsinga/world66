@@ -14,6 +14,10 @@ snippet: Small Caribbean island off Venezuela, known for calm beaches, fishing v
   salt flats, and steady trade winds.
 title: Coche Island
 type: location
+heritage: 2.3
+vibrancy: 2.4
+nature: 5.7
+off_the_beaten_track: 6.1
 ---
 
 Coche is a small, flat island in the Caribbean Sea, part of Venezuela's Nueva Esparta state along with Margarita and Cubagua. It is quieter and less developed than Margarita, with a handful of resort hotels along the southern coast and a fishing village at [San Pedro de Coche](/southamerica/venezuela/coche_island/san_pedro_de_coche), the island's capital and ferry port.

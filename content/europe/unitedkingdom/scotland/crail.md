@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/East_Neuk
 title: Crail
 type: location
+heritage: 4.3
+vibrancy: 3.0
+nature: 5.2
+off_the_beaten_track: 4.1
 ---
 
 Crail is one of the prettiest villages in the East Neuk of Fife, a compact former royal burgh gathered around a small harbour and a curve of stone houses facing the North Sea. It is quieter than St Andrews and less famous than Anstruther, which is exactly why it works.

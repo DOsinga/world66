@@ -13,6 +13,10 @@ snippet: Industrial satellite city east of Delhi, linked by Metro and shaped by 
   commuter life
 title: Ghaziabad
 type: location
+heritage: 2.5
+vibrancy: 3.3
+nature: 1.9
+off_the_beaten_track: 1.1
 ---
 
 Ghaziabad is one of the fastest-growing cities in the Delhi National Capital Region, sprawling east of the Yamuna River in Uttar Pradesh. It is primarily an industrial and residential satellite city, and most of its nearly two million residents commute to [Delhi](/asia/india/delhi) or work in local manufacturing. The city is connected to Delhi by the Metro, which has made it an increasingly popular place to live for people priced out of the capital.

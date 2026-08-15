@@ -12,6 +12,10 @@ snippet: Tiny Liechtenstein capital below the prince's castle, with museums and 
   Valley views.
 title: Vaduz
 type: location
+heritage: 6.6
+vibrancy: 3.9
+nature: 4.4
+off_the_beaten_track: 2.1
 ---
 
 Vaduz is the capital of Liechtenstein and the focus of most visits to the country. It is not a large place — the population is around 5,500 — but it has good museums, a pleasant pedestrian zone, and the royal castle looming above it all on a cliff.

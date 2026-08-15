@@ -13,6 +13,10 @@ snippet: West-coast Vancouver Island town of beaches, surf, rainforest, and acce
   to Clayoquot Sound.
 title: Tofino
 type: location
+heritage: 3.1
+vibrancy: 5.2
+nature: 7.1
+off_the_beaten_track: 3.5
 ---
 
 Tofino sits at the far western edge of Vancouver Island, where the road runs out and the Pacific begins. It is one of Canada's most dramatic coastal settings: ancient temperate rainforest, massive swells rolling in from the open ocean, and wide sandy beaches that attract surfers from around the world. [Long Beach](/northamerica/canada/britishcolumbia/tofino/long_beach), within Pacific Rim National Park, is one of the longest beaches in Canada and the centre of the surf scene.

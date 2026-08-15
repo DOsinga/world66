@@ -14,6 +14,10 @@ title: Oakdale
 type: location
 snippet: Central Valley agricultural town calling itself the Cowboy Capital, with
   rodeo traditions and Sierra foothill access.
+heritage: 1.7
+vibrancy: 2.1
+nature: 2.4
+off_the_beaten_track: 1.4
 ---
 
 Oakdale is a small agricultural town in Stanislaus County, about 25 km northeast of Modesto in California's Central Valley. It calls itself the "Cowboy Capital of the World" and hosts one of the state's biggest amateur rodeos every April. The town sits at the edge of the Sierra Nevada foothills and serves as a gateway to the Stanislaus River canyon and the recreational areas around Knights Ferry, where river rafting and kayaking are popular in summer.

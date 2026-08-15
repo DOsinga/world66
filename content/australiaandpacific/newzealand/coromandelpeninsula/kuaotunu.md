@@ -17,6 +17,10 @@ image: kuaotunu.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Otama_Beach_130628_-_01.JPG
 image_license: CC BY-SA 4.0
 image_attribution: L-Bit
+heritage: 2.9
+vibrancy: 1.4
+nature: 7.8
+off_the_beaten_track: 4.2
 ---
 
 Kūaotunu is a small beach village on the east coast of the [Coromandel Peninsula](/australiaandpacific/newzealand/coromandelpeninsula), north of Whitianga. It is not a resort strip, and that is the point: a line of sand, a few houses, a campground, a good local food scene, and back roads leading over the hill to quieter coves.

@@ -5,14 +5,19 @@ loc_type: city
 latitude: 47.1053
 longitude: -104.7125
 score: 6.7
-snippet: Eastern Montana badlands town beside Makoshika State Park and Hell Creek dinosaur country.
+snippet: Eastern Montana badlands town beside Makoshika State Park and Hell Creek
+  dinosaur country.
 wikidata: Q967324
 sources:
-  - https://en.wikivoyage.org/wiki/Glendive
-  - https://www.wikidata.org/wiki/Q967324
-  - https://fwp.mt.gov/makoshika
-  - https://visitmt.com/listing/frontier-gateway-museum-192
-  - https://mtdinotrail.org/frontier-gateway-museum/
+- https://en.wikivoyage.org/wiki/Glendive
+- https://www.wikidata.org/wiki/Q967324
+- https://fwp.mt.gov/makoshika
+- https://visitmt.com/listing/frontier-gateway-museum-192
+- https://mtdinotrail.org/frontier-gateway-museum/
+heritage: 2.1
+vibrancy: 2.0
+nature: 4.6
+off_the_beaten_track: 4.9
 ---
 
 *North America > United States > Montana > Glendive*

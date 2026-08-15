@@ -14,6 +14,10 @@ snippet: La Mancha provincial capital with a quiet old centre, vineyards, and Do
   Quixote country around it.
 title: Ciudad Real
 type: location
+heritage: 2.1
+vibrancy: 2.4
+nature: 2.0
+off_the_beaten_track: 1.5
 ---
 
 Ciudad Real is the capital of the province of the same name, set in the flat plains of La Mancha in central Spain — the landscape that inspired Cervantes' Don Quixote. It's a quiet regional city with a well-preserved old centre, surrounded by vineyards that produce some of Spain's most prolific wine output.

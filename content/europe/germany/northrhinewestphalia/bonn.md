@@ -16,6 +16,10 @@ title: Bonn
 type: location
 snippet: Rhineland university city and former West German capital, still rich in museums
   and Beethoven history.
+heritage: 4.9
+vibrancy: 4.9
+nature: 3.5
+off_the_beaten_track: 2.2
 ---
 
 Bonn spent half a century as West Germany's unlikely capital -- a small Rhineland city thrust into the spotlight after the war, then quietly returned to civilian life when the government moved to Berlin in 1999. The result is a place with outsized cultural institutions and a relaxed university-town feel that catches visitors off guard.

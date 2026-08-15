@@ -14,6 +14,10 @@ title: Uzgen
 snippet: Silk Road town in southern Kyrgyzstan, known for Karakhanid brick mausoleums,
   a minaret, and its bazaar.
 type: location
+heritage: 7.2
+vibrancy: 2.5
+nature: 3.2
+off_the_beaten_track: 5.2
 ---
 
 Uzgen is a small town on the old Silk Road in southern Kyrgyzstan, between Jalal-Abad and [Osh](/asia/kyrgyzstan/osh). It is worth a stop for two things: its 12th-century Karakhanid monuments and its bazaar.

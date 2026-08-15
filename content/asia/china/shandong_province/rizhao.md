@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Rizhao
 title: Rizhao
 type: location
+heritage: 3.7
+vibrancy: 4.2
+nature: 4.2
+off_the_beaten_track: 2.1
 ---
 
 Rizhao means "first light of the rising sun," a name that explains both its geography — on the southeast Shandong coast, facing east across the Yellow Sea — and its marketing identity as a beach destination. The city sits about 100 kilometers south of Qingdao on a coastline that is less famous but not appreciably less attractive: [Wanpingkou Beach](/asia/china/shandong_province/rizhao/wanpingkou_beach) runs for five kilometers along a sandy shore that is substantially less crowded than Qingdao's No. 1 Bathing Beach in summer, and the water quality here is consistently ranked among the best in northern China.

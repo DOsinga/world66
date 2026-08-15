@@ -14,6 +14,10 @@ title: Deadwood
 type: location
 snippet: Black Hills gold-rush town where Wild Bill Hickok and Calamity Jane became
   frontier legends.
+heritage: 6.6
+vibrancy: 4.4
+nature: 4.8
+off_the_beaten_track: 4.6
 ---
 
 Deadwood is a historic gold-rush town tucked into a gulch in the Black Hills of South Dakota. The gold rush began in 1876 and the town quickly became notorious — Wild Bill Hickok was shot dead at a card table here that same year, and Calamity Jane made it her base. Both are buried in [Mount Moriah Cemetery](/northamerica/unitedstates/southdakota/deadwood/mount_moriah_cemetery), which overlooks the town.

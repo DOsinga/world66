@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Falkirk
 title: Falkirk
 type: location
+heritage: 5.1
+vibrancy: 2.2
+nature: 4.4
+off_the_beaten_track: 3.1
 ---
 
 *Europe > United Kingdom > Scotland > Falkirk*

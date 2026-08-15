@@ -16,6 +16,10 @@ snippet: French-speaking island city on the St. Lawrence, mixing old stone stree
   with terrasses and winter underground life.
 title: Montreal
 type: location
+heritage: 6.6
+vibrancy: 8.6
+nature: 5.3
+off_the_beaten_track: 1.1
 ---
 
 Montreal is the beating heart of French-speaking North America and one of the most culturally rich cities on the continent. Built on an island in the St. Lawrence River, it blends European charm with North American energy in a way no other city quite manages. The locals call it *joie de vivre* -- joy of living -- and you will feel it in the packed terrasses on summer evenings, the [underground city](/northamerica/canada/quebec/montreal/underground_city) humming through winter, and the seemingly endless cycle of festivals that keeps the streets alive year-round.

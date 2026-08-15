@@ -14,6 +14,10 @@ snippet: Moldovan market town on the Răut River, often used as the gateway to O
   Vechi.
 title: Orhei
 type: location
+heritage: 7.7
+vibrancy: 3.0
+nature: 3.9
+off_the_beaten_track: 4.4
 ---
 
 Orhei is a small regional town about 45 km north of Chisinau. Most travelers pass through it on the way to [Orheiul Vechi](/europe/moldova/orheiul_vechi_2), the remarkable cave monastery complex that lies another 18 km beyond. Orhei itself has a modest centre with [a tree-lined park](/europe/moldova/orhei/central_park) along the Răut River, a market, the 1632 [St Dumitru Church](/europe/moldova/orhei/st_dumitru_church) — one of the oldest buildings in Moldova — and the regional [history and ethnography museum](/europe/moldova/orhei/orhei_history_museum).

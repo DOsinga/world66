@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Ploutonion_at_Hierapolis
 title: Pamukkale
 type: location
+heritage: 8.0
+vibrancy: 3.3
+nature: 4.3
+off_the_beaten_track: 3.1
 ---
 
 Pamukkale — "cotton castle" in Turkish — is one of Turkey's most extraordinary natural sights: a hillside of brilliant white [travertine terraces](/asia/turkey/gallipoli_troy/pamukkale/travertine_terraces) formed over millennia by calcium-rich thermal springs. The warm, mineral-laden water flows down the slope, depositing limestone as it goes, creating a cascade of shallow turquoise pools that look like something from another planet.

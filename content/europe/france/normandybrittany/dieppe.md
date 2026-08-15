@@ -13,6 +13,10 @@ snippet: Normandy port town facing England, shaped by ferries, fishing, Channel 
   and painterly seaside history.
 title: Dieppe
 type: location
+heritage: 6.0
+vibrancy: 3.7
+nature: 4.2
+off_the_beaten_track: 2.2
 ---
 
 Dieppe is a working port and seaside town on the Normandy coast, the closest point of France to England. Ferries still cross to [Newhaven](/europe/unitedkingdom/england/south_east/brighton) as they have for centuries, making Dieppe a natural gateway — though it rewards a few days' stay rather than a quick transit.

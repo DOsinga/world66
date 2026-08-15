@@ -10,6 +10,10 @@ snippet: Sussex County seat in southern Delaware, laid out around the historic C
   and its 1837 courthouse.
 title: Georgetown
 type: location
+heritage: 7.1
+vibrancy: 4.1
+nature: 3.5
+off_the_beaten_track: 1.8
 ---
 
 Georgetown is the county seat of Sussex County in southern Delaware, a small working town rather than a tourist destination. It was laid out in 1791 from a central square — [the Circle](/northamerica/unitedstates/delaware/georgetown/sussex_county_courthouse) — which remains the heart of town and is listed on the National Register of Historic Places. The original design placed the courthouse on the southeastern side of the square, and the present 1837 courthouse still stands there.

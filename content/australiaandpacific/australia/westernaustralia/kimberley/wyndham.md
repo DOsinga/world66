@@ -17,6 +17,10 @@ image: wyndham.jpg
 image_source: https://commons.wikimedia.org/wiki/File:00_2077_Wyndham,_Western_Australia.jpg
 image_license: CC BY-SA 4.0
 image_attribution: W. Bulach
+heritage: 3.6
+vibrancy: 2.0
+nature: 6.9
+off_the_beaten_track: 4.1
 ---
 
 Wyndham feels like the end of a very long road, which in a practical sense it is. This small Kimberley port sits near the mouths of five rivers, below the Bastion Range, with mudflats, mangroves, boab trees, crocodile warnings, and a history tied to gold rush supply lines and cattle.

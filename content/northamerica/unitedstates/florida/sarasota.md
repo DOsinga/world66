@@ -16,6 +16,10 @@ snippet: Gulf Coast city where Florida beaches meet Ringling-era art, theatre, a
   a real downtown.
 title: Sarasota
 type: location
+heritage: 2.7
+vibrancy: 5.6
+nature: 4.2
+off_the_beaten_track: 1.3
 ---
 
 Sarasota sits on Florida's Gulf Coast about an hour south of Tampa, and it punches well above its weight for a city of around 60,000. It has something rare for a Florida beach town: an actual cultural life. [The Ringling](/northamerica/unitedstates/florida/sarasota/ringling_museum) — John Ringling of circus fame built his winter estate here — is one of the best art museums in the American South. The [Asolo Repertory Theatre](/northamerica/unitedstates/florida/sarasota/asolo_repertory_theatre) has been staging professional productions since the 1960s. There's a real downtown with independent restaurants and bars, not just chain hotels and souvenir shops.

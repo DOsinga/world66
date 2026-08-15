@@ -14,6 +14,10 @@ snippet: Dalmatian hinterland market town known for the Sinjska Alka joust and C
   karst plain.
 title: Sinj
 type: location
+heritage: 5.3
+vibrancy: 4.7
+nature: 5.4
+off_the_beaten_track: 3.4
 ---
 
 Sinj is a market town in the Dalmatian hinterland, set on a fertile karst plain through which the river Cetina flows, ringed by the mountains Svilaja, Dinara, Kamešnica and Visoka. It sits about 30 km northeast of Split, but feels very different from the coast — the climate is harsher, the landscape more austere, and the mood more emphatically Croatian.

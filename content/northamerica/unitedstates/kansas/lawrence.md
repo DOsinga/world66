@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Lawrence,_Kansas
 title: Lawrence
 type: location
+heritage: 4.9
+vibrancy: 4.6
+nature: 4.1
+off_the_beaten_track: 1.2
 ---
 
 Lawrence is a university town in eastern [Kansas](/northamerica/unitedstates/kansas), home to the University of Kansas and one of the most charming small cities in the state. The National Trust for Historic Preservation once named it among America's "Dozen Most Distinctive Destinations," and the praise is deserved.

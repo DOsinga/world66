@@ -18,6 +18,10 @@ image: saint_joachim.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Saint-Joachim_-_Eglise_01.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Concierge.2C
+heritage: 3.6
+vibrancy: 1.8
+nature: 5.4
+off_the_beaten_track: 4.2
 ---
 
 Saint-Joachim is a small village on the Côte-de-Beaupré east of [Québec City](/northamerica/canada/quebec/quebeccity), where the St. Lawrence flats meet the Laurentian escarpment. It is not a town of urban sights, but its setting is strong: marshes, cliffs, old farms, and the great shoulder of Cap Tourmente rising above the river.

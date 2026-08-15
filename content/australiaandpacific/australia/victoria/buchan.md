@@ -16,6 +16,10 @@ image: buchan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Buchan_Caves_Victoria.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Amanda m wilson
+heritage: 2.4
+vibrancy: 1.6
+nature: 5.6
+off_the_beaten_track: 4.1
 ---
 
 Buchan is a small East Gippsland town that would be easy to miss if the ground beneath it were not so extraordinary. The streets are quiet, the hills are dry and open, and a few minutes from the centre the limestone drops into a cave system formed by underground rivers hundreds of millions of years ago.

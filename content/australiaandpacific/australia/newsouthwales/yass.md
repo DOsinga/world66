@@ -18,6 +18,10 @@ image: yass.jpg
 image_source: https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_11532_Yass_New_South_Wales.jpg
 image_license: CC BY 3.0
 image_attribution: Nick Pitsas, CSIRO
+heritage: 2.8
+vibrancy: 4.4
+nature: 7.4
+off_the_beaten_track: 4.0
 ---
 
 Yass is a Southern Tablelands town whose old highway role has left it with more heritage than the bypass suggests. It has a preserved nineteenth-century main street, a courthouse grand enough for a bigger town, and the story of explorer Hamilton Hume just outside the centre at Cooma Cottage.

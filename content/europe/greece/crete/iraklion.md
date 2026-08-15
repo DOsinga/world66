@@ -17,6 +17,10 @@ snippet: Cretan port capital with Minoan treasures, Venetian walls, and the pala
   of Knossos nearby
 title: Iraklion
 type: location
+heritage: 6.4
+vibrancy: 5.2
+nature: 4.6
+off_the_beaten_track: 1.6
 ---
 
 Iraklion (Heraklion) is the capital of Crete and the largest city on the island — a working port city of 150,000 people that most visitors pass through on their way somewhere prettier. Don't make that mistake. Iraklion has the best Minoan collection in the world, a still-functioning Venetian harbour with a hulking sea fortress, an excellent street market, and a central square with a 17th-century fountain that has been the heart of the city for four centuries.

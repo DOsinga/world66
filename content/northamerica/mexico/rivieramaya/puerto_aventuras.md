@@ -13,6 +13,10 @@ title: Puerto Aventuras
 type: location
 snippet: Gated Riviera Maya resort community built around a quiet marina south of
   Playa del Carmen.
+heritage: 2.4
+vibrancy: 5.9
+nature: 7.1
+off_the_beaten_track: 1.5
 ---
 
 Puerto Aventuras is a gated resort community on the Riviera Maya about 20 km south of Playa del Carmen, built in the 1990s around a man-made [marina](/northamerica/mexico/rivieramaya/puerto_aventuras/marina). It is self-contained and unusually quiet by local standards — a cluster of villas, condos and mid-sized hotels, a 9-hole golf course, a couple of dive shops, and a marina with a (controversial) dolphin enclosure in the middle. There is no "town" to speak of, just the resort and its services; most people who stay here do so as a base for day trips to the Maya ruins at Tulum and Cobá, the [cenotes](/northamerica/mexico/rivieramaya/puerto_aventuras/cenotes), and snorkelling at [Akumal](/northamerica/mexico/rivieramaya/puerto_aventuras/akumal_beach), which is famous for its nesting sea turtles.

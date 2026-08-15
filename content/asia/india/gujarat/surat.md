@@ -13,6 +13,10 @@ snippet: Gujarat port city and diamond-cutting capital, with textile markets and
   European trading quarters.
 title: Surat
 type: location
+heritage: 3.7
+vibrancy: 4.0
+nature: 1.6
+off_the_beaten_track: 1.1
 ---
 
 Surat is Gujarat's second-largest city and the diamond capital of the world -- the vast majority of the world's diamonds are cut and polished here. It is also a major centre for the textile industry, particularly synthetic fabrics and embroidered saris.

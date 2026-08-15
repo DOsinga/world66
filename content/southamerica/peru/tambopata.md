@@ -14,6 +14,10 @@ snippet: Amazon reserve in Madre de Dios, famed for biodiversity and macaws gath
   at clay licks.
 title: Tambopata
 type: location
+heritage: 1.9
+vibrancy: 1.1
+nature: 7.9
+off_the_beaten_track: 6.0
 ---
 
 Tambopata National Reserve lies in the department of Madre de Dios, deep in Peru's southeastern Amazon basin. The biodiversity is staggering: 1,234 species of butterfly, 592 species of bird, 127 amphibians, 103 mammals, and 13 endangered species including the jaguar, giant otter, ocelot, and harpy eagle.

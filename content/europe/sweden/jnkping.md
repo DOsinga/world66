@@ -14,6 +14,10 @@ snippet: Swedish lakefront city at the southern tip of Vättern, birthplace of t
   modern safety match.
 title: Jönköping
 type: location
+heritage: 4.0
+vibrancy: 3.5
+nature: 4.5
+off_the_beaten_track: 1.2
 ---
 
 Jönköping sits at the southern tip of Lake Vättern, Sweden's second-largest lake, in south-central Sweden. The lake dominates the town's character: sunsets over Vättern from the city pier are famously beautiful, and in summer the long beach promenade along the waterfront becomes the focus of local life.

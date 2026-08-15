@@ -14,6 +14,10 @@ snippet: Inland Mallorcan town below the Tramuntana, known for cobbled streets a
   the Calvari staircase.
 title: Pollensa
 type: location
+heritage: 2.6
+vibrancy: 5.9
+nature: 4.1
+off_the_beaten_track: 1.9
 ---
 
 Pollença is a small inland town in the northeastern corner of Mallorca, set at the foot of the Tramuntana mountains. It has the feel of a genuinely lived-in Mallorcan town rather than a resort — cobbled streets, a [Roman bridge](/europe/spain/balearicislands/mallorca/pollensa/roman_bridge), a large [plane-tree-shaded main square](/europe/spain/balearicislands/mallorca/pollensa/placa_major), and a weekly Sunday market that attracts both locals and visitors.

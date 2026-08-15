@@ -16,6 +16,10 @@ image: saint_emilion.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Chateau_canon_low.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Cyril5555
+heritage: 5.2
+vibrancy: 4.9
+nature: 5.6
+off_the_beaten_track: 2.3
 ---
 
 Saint-Émilion is the vineyard day trip from [Bordeaux](/europe/france/aquitaine/bordeaux) that actually lives up to the fuss. The town sits on a limestone hill above a sea of vines, with steep lanes, Romanesque stone, wine shops, and cellars cut into the rock. It is polished, yes, but not empty; wine has shaped this place for nearly two thousand years.

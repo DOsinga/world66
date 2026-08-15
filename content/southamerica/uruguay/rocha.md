@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Laguna_de_Rocha
 title: Rocha
 type: location
+heritage: 4.0
+vibrancy: 3.6
+nature: 5.7
+off_the_beaten_track: 4.0
 ---
 
 Rocha is the inland capital of Uruguay's most appealing coastal department. The city itself is quiet, workaday, and short on spectacle, but it is useful: buses converge here, shops stay open when beach villages go sleepy, and the Atlantic coast is close enough for day trips.

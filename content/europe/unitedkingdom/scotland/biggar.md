@@ -7,12 +7,17 @@ latitude: 55.6221
 loc_type: city
 longitude: -3.5158
 score: 6.28
-snippet: Small Scottish market town with a preserved gasworks, local museums, and a serious puppet theatre.
+snippet: Small Scottish market town with a preserved gasworks, local museums, and
+  a serious puppet theatre.
 sources:
-  - https://en.wikivoyage.org/wiki/Biggar_(Scotland)
-  - https://en.wikipedia.org/wiki/Biggar,_South_Lanarkshire
+- https://en.wikivoyage.org/wiki/Biggar_(Scotland)
+- https://en.wikipedia.org/wiki/Biggar,_South_Lanarkshire
 title: Biggar
 type: location
+heritage: 4.4
+vibrancy: 2.0
+nature: 5.2
+off_the_beaten_track: 2.4
 ---
 
 Biggar is a small market town in the upper Clyde country, between Edinburgh, Glasgow, and the Borders. It is not grand, but it has an odd and rather likeable mix of attractions: Scotland's surviving town gasworks, a strong local museum, a puppet theatre, and the art garden of Little Sparta in the hills to the north.

@@ -14,6 +14,10 @@ title: Riccione
 type: location
 snippet: Adriatic resort town south of Rimini, known for beach clubs, shopping streets,
   and thermal baths.
+heritage: 2.8
+vibrancy: 5.3
+nature: 5.7
+off_the_beaten_track: 1.6
 ---
 
 Riccione, known as the Green Pearl of the Adriatic, is a small but lively resort on the coast south of [Rimini](/europe/italy/emiliaromagna/rimini).

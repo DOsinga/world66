@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Borre_mound_cemetery
 title: Tønsberg
 type: location
+heritage: 6.8
+vibrancy: 3.0
+nature: 3.7
+off_the_beaten_track: 1.8
 ---
 
 Tønsberg is Norway's oldest city, and it wears its age openly. Founded around 871 AD and mentioned in the Sagas as a base for Viking expeditions and royal power, the city sits at the mouth of a narrow channel off the Oslofjord, surrounded by low hills and water. On Slottsfjellet — the rocky hill that rises above the town centre — the ruins of Tunsberghus fortress stand alongside a 19th-century tower, and from the top you can see across the fjord to the islands beyond. It is a good place to start.

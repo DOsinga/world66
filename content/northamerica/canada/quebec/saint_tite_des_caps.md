@@ -5,14 +5,21 @@ loc_type: city
 latitude: 47.1333
 longitude: -70.7667
 score: 6.5
-snippet: Côte-de-Beaupré village at the edge of Charlevoix, known for river-view hiking and winter trails.
+snippet: Côte-de-Beaupré village at the edge of Charlevoix, known for river-view hiking
+  and winter trails.
 sources:
-  - https://en.wikivoyage.org/wiki/Saint-Tite-des-Caps
-  - https://www.sentierdescaps.com/en/activites/randonnees/
-  - https://www.bonjourquebec.com/en-us/listing/to-see-and-do/sentier-des-caps-de-charlevoix/0nq5
-original_overview: >
-  Wikivoyage presents Saint-Tite-des-Caps as a Côte-de-Beaupré municipality covering
-  Sault-au-Cochon, valued for Sentier des Caps, forest, mountain, river views, and winter recreation.
+- https://en.wikivoyage.org/wiki/Saint-Tite-des-Caps
+- https://www.sentierdescaps.com/en/activites/randonnees/
+- https://www.bonjourquebec.com/en-us/listing/to-see-and-do/sentier-des-caps-de-charlevoix/0nq5
+original_overview: 'Wikivoyage presents Saint-Tite-des-Caps as a Côte-de-Beaupré municipality
+  covering Sault-au-Cochon, valued for Sentier des Caps, forest, mountain, river views,
+  and winter recreation.
+
+  '
+heritage: 4.0
+vibrancy: 2.1
+nature: 5.3
+off_the_beaten_track: 3.2
 ---
 
 Saint-Tite-des-Caps sits east of [Québec City](/northamerica/canada/quebec/quebeccity), where the Côte-de-Beaupré begins to feel like Charlevoix. The village is small, but its setting is strong: forested caps above the St. Lawrence, winter snow trails, farm roads, and glimpses of the river between the mountains.

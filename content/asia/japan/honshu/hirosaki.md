@@ -14,6 +14,10 @@ image: hirosaki.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cherry_blossoms_along_the_moat_of_Hirosaki_Castle_at_night_20260420g.jpg
 image_license: CC BY-SA 4.0
 image_attribution: 掬茶
+heritage: 4.3
+vibrancy: 3.6
+nature: 4.8
+off_the_beaten_track: 1.9
 ---
 
 Hirosaki is a castle town in Aomori Prefecture, in the snowy north of [Honshu](/asia/japan/honshu). It was the seat of the Tsugaru clan, and it still has a stronger historic atmosphere than many larger cities in Tohoku: castle gates, temple lanes, old houses, and festival traditions survive alongside a modern apple-growing city.

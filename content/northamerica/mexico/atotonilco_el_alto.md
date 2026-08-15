@@ -13,7 +13,12 @@ image: atotonilco_el_alto.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Atotonilco_el_Alto.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Noé González-Gallegos
-original_overview: Atotonilco is a small town in the mountains that surround the Tequila Valley in Jalisco, Mexico.
+original_overview: Atotonilco is a small town in the mountains that surround the Tequila
+  Valley in Jalisco, Mexico.
+heritage: 4.2
+vibrancy: 2.9
+nature: 5.6
+off_the_beaten_track: 3.2
 ---
 
 Atotonilco El Alto sits in the highlands east of Guadalajara, in the Los Altos side of Jalisco's tequila country. The town is closely tied to premium tequila: Don Julio began here, Patron has a large hacienda on the edge of town, and Siete Leguas still works with traditional methods that serious tequila drinkers care about.

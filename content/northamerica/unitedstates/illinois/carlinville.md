@@ -1,17 +1,22 @@
 ---
 latitude: 39.2814
 loc_type: city
-longitude: -89.8810
+longitude: -89.881
 score: 6.34
-snippet: Small Illinois courthouse town with extravagant civic architecture and a rare Sears kit-home district.
+snippet: Small Illinois courthouse town with extravagant civic architecture and a
+  rare Sears kit-home district.
 sources:
-  - https://en.wikivoyage.org/wiki/Carlinville
-  - https://www.carlinville.com/historical-carlinville
-  - https://www.carlinville.com/sears-homes
-  - https://macoupincountyil.gov/tourism/courthouse-history/
+- https://en.wikivoyage.org/wiki/Carlinville
+- https://www.carlinville.com/historical-carlinville
+- https://www.carlinville.com/sears-homes
+- https://macoupincountyil.gov/tourism/courthouse-history/
 title: Carlinville
 type: location
 wikidata: Q575129
+heritage: 3.2
+vibrancy: 2.0
+nature: 2.8
+off_the_beaten_track: 1.7
 ---
 
 Carlinville is a small central Illinois town whose best sights come from moments when local ambition outran common sense. The courthouse square is the main event: a grand 1870 limestone courthouse that cost so much it became known as the [Million Dollar Courthouse](/northamerica/unitedstates/illinois/carlinville/macoupin_county_courthouse), paired with a Gothic old jail built to stop escapes by hiding Civil War cannonballs inside the walls.

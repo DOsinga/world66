@@ -13,6 +13,10 @@ score: 7.69
 loc_type: feature
 snippet: Shenandoah National Park mountain known for a boulder-scramble ridge and
   Blue Ridge views.
+heritage: 7.4
+vibrancy: 3.1
+nature: 8.1
+off_the_beaten_track: 5.3
 ---
 
 Old Rag Mountain is one of the most popular and rewarding day hikes in the eastern United States, a 9-mile loop in Shenandoah National Park that culminates in a memorable boulder scramble along the summit ridge. The peak rises to 3,284 feet and the views over the Blue Ridge are exceptional — on a clear day you can see for miles across the Virginia piedmont. The scramble section, which involves squeezing through rock crevices and pulling yourself up granite faces, is exhilarating rather than technically demanding, but you do need a reasonable level of fitness and sure-footedness. Trekking poles are more hindrance than help once the rocks begin.

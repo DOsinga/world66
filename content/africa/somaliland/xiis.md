@@ -13,6 +13,10 @@ score: 1.37
 snippet: Remote Gulf of Aden town in Somaliland, set below the dry mountains of Sanaag.
 title: Xiis
 type: location
+heritage: 1.7
+vibrancy: 1.6
+nature: 4.5
+off_the_beaten_track: 7.3
 ---
 
 Xiis (also spelled Heis) is a small coastal town in Somaliland's Sanaag region, perched on the Gulf of Aden shore where the dry mountains drop down to the sea. The town is ancient — archaeological sites in the area include cairns, ruins, and rock art that point to centuries of trade connections across the Gulf.

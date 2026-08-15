@@ -25,6 +25,10 @@ tip: Moscow is monumental in scale — Red Square, the Kremlin and the candy-col
   so visit in summer if you can.
 title: Moscow
 type: location
+heritage: 5.4
+vibrancy: 9.5
+nature: 2.2
+off_the_beaten_track: 0.9
 ---
 
 Moscow is the beating heart of the Russian world — a medieval fortress-city that grew into the capital of the tsars, the seat of Soviet power, and today one of the largest and most expensive metropolises on earth. For all its scale, the centre is surprisingly compact, arranged as a series of concentric ring roads radiating out from the [Kremlin](/europe/russia/moscow/the_kremlin) and [Red Square](/europe/russia/moscow/red_square_krasna). An afternoon on foot covers the essentials; a week is not enough for everything the city contains.

@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Xianyang
 title: Xianyang
 type: location
+heritage: 6.9
+vibrancy: 2.5
+nature: 2.0
+off_the_beaten_track: 2.4
 ---
 
 Xianyang was the capital of the Qin Empire — the city from which the First Emperor unified China in 221 BC and from which he ruled until his death in 210 BC. Almost nothing of that capital remains above ground; the city was burned by the incoming Han armies in 206 BC, and subsequent rebuilding buried the Qin layer deep. But the district around modern Xianyang, now effectively merged into the greater Xi'an metropolitan area, contains one of the densest concentrations of imperial tombs in the world: Han Dynasty mausoleums for nine emperors are scattered across the plateau north of the city.

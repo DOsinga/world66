@@ -13,6 +13,10 @@ snippet: Coral island archipelago southwest of Cartagena, protected within a Col
   Caribbean national park.
 title: Islas del Rosario
 type: location
+heritage: 1.7
+vibrancy: 2.2
+nature: 7.4
+off_the_beaten_track: 3.7
 ---
 
 The Islas del Rosario are an archipelago of about 30 small coral islands lying roughly 45 km southwest of [Cartagena](/southamerica/colombia/cartagena), protected within the Parque Nacional Natural Corales del Rosario y San Bernardo. The waters are clear and the reefs are among the best accessible from the Colombian Caribbean coast.

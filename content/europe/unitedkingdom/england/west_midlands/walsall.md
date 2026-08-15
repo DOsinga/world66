@@ -14,6 +14,10 @@ snippet: West Midlands market town known for saddlery, leatherwork, and the New 
   Gallery Walsall
 title: Walsall
 type: location
+heritage: 4.8
+vibrancy: 3.0
+nature: 2.4
+off_the_beaten_track: 1.5
 ---
 
 Walsall is a market town in the West Midlands, six miles north of Birmingham, that made its name and its money in leather. For two centuries it was one of the most important centres of the British saddlery and leatherwork trade, and while the industry has shrunk considerably, the town still has a handful of working leather workshops and a [market that dates back to the 13th century](/europe/unitedkingdom/england/west_midlands/walsall/walsall_market).

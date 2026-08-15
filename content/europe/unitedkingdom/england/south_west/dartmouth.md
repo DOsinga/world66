@@ -18,6 +18,10 @@ tags:
 - devon
 title: Dartmouth
 type: location
+heritage: 5.3
+vibrancy: 4.6
+nature: 5.9
+off_the_beaten_track: 3.2
 ---
 
 *Europe > United Kingdom > England > Bristol, Plymouth and the South West > Devon > Dartmouth*

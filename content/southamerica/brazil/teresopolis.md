@@ -13,6 +13,10 @@ longitude: -42.864641
 score: 7.56
 title: Teresópolis
 type: location
+heritage: 3.8
+vibrancy: 2.8
+nature: 7.9
+off_the_beaten_track: 4.2
 ---
 
 Teresópolis is a mountain town about 90 kilometers northeast of Rio de Janeiro, sitting at around 870 meters in the Serra do Mar range. It has long served as a cool-weather escape for Cariocas fleeing the coastal humidity, and the temperature difference from Rio can be ten degrees or more. The town takes its name from Empress Teresa Cristina and retains some of the alpine pretensions that Brazilian mountain resorts tend to cultivate, with fondue restaurants and Swiss-style architecture mixed in with the usual Brazilian bustle.

@@ -17,6 +17,10 @@ image: mihara.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mihara-STA_Gate.jpg
 image_license: CC BY-SA 4.0
 image_attribution: MaedaAkihiko
+heritage: 2.7
+vibrancy: 1.9
+nature: 2.8
+off_the_beaten_track: 1.8
 ---
 
 Mihara is a small Seto Inland Sea city that earns its page through a few strong, local anchors rather than a long checklist. It was a castle town, a port, and a rail junction, and the strange sight of the station sitting inside the old castle grounds gives the centre an identity you remember.

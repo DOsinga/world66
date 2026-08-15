@@ -17,6 +17,10 @@ image: hakuba.jpg
 image_source: https://commons.wikimedia.org/wiki/File:780a_Hakuba_-_Nagano_Japan_1971_(51401889536).jpg
 image_license: CC BY 2.0
 image_attribution: wilford peloquin
+heritage: 2.5
+vibrancy: 4.8
+nature: 7.1
+off_the_beaten_track: 3.6
 ---
 
 Hakuba is one of Japan's great mountain villages, set below the Northern Japan Alps in western Nagano Prefecture. In winter it is all snow, shuttle buses, gear shops, and international skiers chasing the powder across the Hakuba Valley resorts. In summer the same lifts carry hikers toward alpine ponds, flower meadows, and big views over ridges that feel far removed from the cities below.

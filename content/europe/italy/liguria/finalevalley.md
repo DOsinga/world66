@@ -13,6 +13,10 @@ image: finalevalley.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Finalborgo,_Italy_(52404658808).jpg
 image_license: CC0
 image_attribution: Mustang Joe
+heritage: 3.5
+vibrancy: 1.7
+nature: 7.8
+off_the_beaten_track: 4.3
 ---
 
 The Finale valley on the Ligurian coast is one of the best-kept secrets of the Italian Riviera. Composed of several distinct centres — Finale Marina on the seafront, the medieval walled town of Finalborgo, and Finale Pia further inland — the area has a layered history stretching back to prehistoric times, and some of the best rock climbing in southern Europe.

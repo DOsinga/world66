@@ -10,6 +10,10 @@ snippet: West Flemish border town on the Lys, with a long history as Belgium's t
   capital
 title: Wervik
 type: location
+heritage: 4.3
+vibrancy: 1.8
+nature: 1.9
+off_the_beaten_track: 2.1
 ---
 
 Wervik is a small town in southern West Flanders, sitting right on the French border — the river Lys runs through town and marks the boundary. It has long been known as the tobacco capital of [Belgium](/europe/belgium), and the National Tobacco Museum in the town centre tells the story of that industry, which thrived here from the 17th century onward.

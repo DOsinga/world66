@@ -6,11 +6,16 @@ latitude: 47.8911
 longitude: -69.9079
 wikidata: Q3463385
 score: 6.9
-snippet: Charlevoix river village near coves, ferry crossings, and the rocky St. Lawrence shore.
+snippet: Charlevoix river village near coves, ferry crossings, and the rocky St. Lawrence
+  shore.
 sources:
-  - https://en.wikivoyage.org/wiki/Saint-Sim%C3%A9on
-  - https://www.tourisme-charlevoix.com/en/charlevoix/saint-simeon-baie-sainte-catherine
-  - https://plusbeauxvillages.ca/en/villages/port-aux-persil/
+- https://en.wikivoyage.org/wiki/Saint-Sim%C3%A9on
+- https://www.tourisme-charlevoix.com/en/charlevoix/saint-simeon-baie-sainte-catherine
+- https://plusbeauxvillages.ca/en/villages/port-aux-persil/
+heritage: 4.3
+vibrancy: 2.7
+nature: 6.2
+off_the_beaten_track: 2.3
 ---
 
 Saint-Siméon sits on the north shore of the St. Lawrence, east of La Malbaie and west of Baie-Sainte-Catherine. It is a small Charlevoix village rather than a resort town, but the surrounding shore has enough beauty for a spare day if you are already travelling the coast.

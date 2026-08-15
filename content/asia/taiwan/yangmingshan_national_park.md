@@ -12,6 +12,10 @@ image: yangmingshan_national_park.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Yangmingshan_National_Park_JimX3070r2.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Jim X
+heritage: 5.2
+vibrancy: 1.9
+nature: 7.3
+off_the_beaten_track: 2.5
 ---
 
 Yangmingshan is a substantial volcanic national park covering the mountains immediately north of Taipei — close enough to reach by city bus, yet a wholly different world of craters, steaming vents, and high meadows. The landscape is dominated by **Mt. Cising** (1,120 m), a dormant volcano whose summit and crater are reachable by a popular two-hour hike. Lower down are fumaroles, sulphur vents, and steaming hot-spring streams, and the whole park is criss-crossed by good walking trails that range from easy boardwalks to all-day ridge walks.

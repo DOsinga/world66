@@ -18,6 +18,10 @@ title: Ajaccio
 type: location
 snippet: Corsican port capital and Napoleon's birthplace, with an old quarter facing
   the Gulf of Ajaccio.
+heritage: 5.7
+vibrancy: 5.4
+nature: 6.8
+off_the_beaten_track: 3.3
 ---
 
 Ajaccio is the capital of Corsica and, to most visitors, synonymous with one name: Napoleon Bonaparte was born here in 1769, one year after France acquired the island from Genoa. The connection is everywhere — in the street names, in the museums, in the slightly self-satisfied air of a city that knows it produced someone important. But Ajaccio is more than a Napoleon pilgrimage. It is a genuinely pleasant Mediterranean port town with a handsome old quarter, good seafood, and the spectacular Gulf of Ajaccio at its feet.

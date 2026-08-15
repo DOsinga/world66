@@ -13,6 +13,10 @@ snippet: Michoacán highland city of avocado country, Cupatitzio springs, and th
   lava-field excursion.
 title: Uruapan
 type: location
+heritage: 5.3
+vibrancy: 4.1
+nature: 4.2
+off_the_beaten_track: 3.1
 ---
 
 Uruapan sits in the lush highlands of Michoacán and proudly calls itself the avocado capital of the world — a title that is hard to argue with, given that the surrounding region produces a staggering share of Mexico's avocado crop. The city itself, home to about 300,000 people, is a pleasant surprise: the [Parque Nacional Barranca del Cupatitzio](/northamerica/mexico/uruapan/parque_nacional_barranca_del_cupatitzio), right at the edge of town, is a beautiful riverside park where the Cupatitzio River springs from the earth through mossy rocks and tropical vegetation. It is one of the loveliest urban parks in all of Mexico.

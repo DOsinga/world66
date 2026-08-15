@@ -16,6 +16,10 @@ tags:
 - lake_garda
 title: Gardone
 type: location
+heritage: 5.0
+vibrancy: 2.9
+nature: 5.7
+off_the_beaten_track: 2.3
 ---
 
 Gardone sits just north of Salò on the western shore of Lake Garda. It is a small and rather charming place, quieter than the busier resort towns further north.

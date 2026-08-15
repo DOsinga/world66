@@ -14,6 +14,10 @@ snippet: Tiny Adriatic fishing village in a sheltered cove near the Neum corrido
   between Split and Dubrovnik.
 title: Klek
 type: location
+heritage: 5.8
+vibrancy: 2.9
+nature: 4.6
+off_the_beaten_track: 2.9
 ---
 
 Klek is a tiny coastal village tucked into a sheltered cove on the Adriatic, roughly halfway between Split and Dubrovnik. It sits right on the Neum corridor — the short stretch of Bosnian coastline that splits Croatia's coast in two — so you'll likely pass through a border crossing to get here.

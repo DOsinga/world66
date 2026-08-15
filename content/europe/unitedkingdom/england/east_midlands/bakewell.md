@@ -13,6 +13,10 @@ image: bakewell.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bakewell_-_geograph.org.uk_-_5493856.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Peter McDermott
+heritage: 5.2
+vibrancy: 2.7
+nature: 3.8
+off_the_beaten_track: 2.4
 ---
 
 Bakewell is the largest town within the Peak District National Park and its natural centre of gravity — a stone-built market town on the River Wye that has served the surrounding villages and farms since the Norman conquest. The Monday market, one of the oldest in England, still draws people from across the Peak.

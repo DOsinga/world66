@@ -13,6 +13,10 @@ snippet: Tidal granite island on the Normandy-Brittany border, crowned by a medi
   Benedictine abbey.
 title: Mont-Saint-Michel
 type: location
+heritage: 7.5
+vibrancy: 5.2
+nature: 8.2
+off_the_beaten_track: 2.7
 ---
 
 Mont-Saint-Michel is one of the most recognisable sights in Europe — a granite island topped by a medieval abbey, rising from vast tidal flats on the border of [Normandy](/europe/france/normandybrittany) and Brittany. At high tide the mount becomes an island; at low tide, the sea retreats to reveal kilometres of sand.

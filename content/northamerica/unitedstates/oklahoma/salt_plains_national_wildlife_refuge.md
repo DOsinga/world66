@@ -7,6 +7,10 @@ snippet: Vast salt flats where visitors dig for hourglass selenite crystals, wit
   world-class migratory birding on the Central Flyway.
 title: Salt Plains National Wildlife Refuge
 type: location
+heritage: 1.0
+vibrancy: 1.2
+nature: 6.2
+off_the_beaten_track: 3.5
 ---
 
 About 40 miles southeast of [Alva](/northamerica/unitedstates/oklahoma/alva), the Salt Plains National Wildlife Refuge protects a 32,000-acre expanse of salt flat, mudflat, marsh, and reservoir along the Salt Fork of the Arkansas River. The salt crust is a remnant of an ancient inland sea; on a clear summer morning the surface is blindingly white and you can see for miles in every direction.

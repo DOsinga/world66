@@ -14,6 +14,10 @@ snippet: Sonoran beach town on the Sea of Cortez, where Arizona crowds meet shri
   boats and desert estuaries.
 title: Puerto Peñasco
 type: location
+heritage: 2.1
+vibrancy: 4.4
+nature: 5.7
+off_the_beaten_track: 1.6
 ---
 
 Puerto Peñasco — known to most visitors as Rocky Point — is Mexico's closest beach town to the US Southwest. Just four hours from Phoenix or Tucson, it sits at the northern tip of the Sea of Cortez where the desert meets the water in the most abrupt and dramatic way: one moment you are in the Sonoran Desert, the next you are standing on a broad sandy beach watching pelicans circle over turquoise shallows.

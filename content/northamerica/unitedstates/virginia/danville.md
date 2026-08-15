@@ -14,6 +14,10 @@ image: danville.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Danville,_VA_aerial.jpg
 image_license: CC0
 image_attribution: Designism
+heritage: 4.6
+vibrancy: 3.0
+nature: 4.5
+off_the_beaten_track: 2.1
 ---
 
 Danville sits on the Dan River just above the North Carolina line, a former tobacco and textile city with more history than its modest size suggests. It was briefly the last capital of the Confederacy, later a major mill town, and now a place trying to turn old warehouses and riverfront land into something visitors can use.

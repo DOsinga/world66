@@ -16,6 +16,10 @@ snippet: Saskatchewan prairie capital built around Wascana Centre, with the RCMP
   depot on its edge.
 title: Regina
 type: location
+heritage: 3.4
+vibrancy: 2.3
+nature: 3.0
+off_the_beaten_track: 1.7
 ---
 
 Regina sits on the flat, open prairie of southern Saskatchewan, the provincial capital and home to around 225,000 people. It's a planned city — there was nothing here when the Canadian Pacific Railway rolled through in 1882 — built around [Wascana Centre](/northamerica/canada/saskatchewan/regina/wascana_centre), a large artificial lake at the centre of town. That park is Regina's saving grace: 930 hectares of green space with the [Legislative Building](/northamerica/canada/saskatchewan/regina/legislative_building), the [Royal Saskatchewan Museum](/northamerica/canada/saskatchewan/regina/royal_saskatchewan_museum), and the [MacKenzie Art Gallery](/northamerica/canada/saskatchewan/regina/mackenzie_art_gallery) all clustered around the water.

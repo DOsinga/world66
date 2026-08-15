@@ -13,6 +13,10 @@ title: Linköping
 snippet: Östergötland university city shaped by medieval churches, aerospace engineering,
   and the SAAB aircraft industry
 type: location
+heritage: 4.7
+vibrancy: 4.0
+nature: 4.6
+off_the_beaten_track: 1.1
 ---
 
 Linköping is an old university city in the heart of Östergötland, Sweden's seventh-largest and the place where SAAB builds its fighter jets. The aerospace industry gives the town a surprisingly international feel for a mid-sized Swedish city.

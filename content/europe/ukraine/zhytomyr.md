@@ -14,6 +14,10 @@ image: zhytomyr.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Korolev-museum-zhytomyr.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Texnik
+heritage: 4.9
+vibrancy: 3.1
+nature: 3.9
+off_the_beaten_track: 3.0
 ---
 
 Zhytomyr is a regional capital about 150 km west of [Kyiv](/europe/ukraine/kyiv), set in the wooded north of central [Ukraine](/europe/ukraine). It is an old city with Polish, Jewish, Russian imperial, and Ukrainian layers, but it rarely feels like a museum piece. It is a working provincial centre, with broad streets, churches, markets, and parks above the Teteriv River.

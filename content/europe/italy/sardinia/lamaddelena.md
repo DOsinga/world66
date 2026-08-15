@@ -14,6 +14,10 @@ snippet: Sardinian archipelago national park of granite islands and clear coves 
   the island's northeastern tip.
 title: La Maddalena
 type: location
+heritage: 3.5
+vibrancy: 4.1
+nature: 5.5
+off_the_beaten_track: 1.7
 ---
 
 The La Maddalena Archipelago is a national park comprising around 60 islands and islets off the northeastern tip of Sardinia, a short ferry crossing from Palau. The two largest islands are La Maddalena (where the main town is) and Caprera, connected by a causeway.

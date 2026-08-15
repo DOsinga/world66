@@ -13,6 +13,10 @@ image: parcodelcilento.jpg
 image_source: https://commons.wikimedia.org/wiki/File:PUNTA_DEL_TELEGRAFO_-_ASCEA_-_Parco_Nazionale_del_Cilento_Alburni_e_Vallo_di_Diano.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Alexelea
+heritage: 3.1
+vibrancy: 1.8
+nature: 6.5
+off_the_beaten_track: 2.4
 ---
 
 *Europe > Italy > Campania > Parco del Cilento*

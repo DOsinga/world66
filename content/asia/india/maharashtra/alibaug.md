@@ -13,6 +13,10 @@ snippet: Konkan beach town near Mumbai, with palm-lined sand, seafood villages, 
   an offshore Maratha fort
 title: Alibaug
 type: location
+heritage: 3.3
+vibrancy: 5.3
+nature: 6.5
+off_the_beaten_track: 2.4
 ---
 
 Alibaug is a small coastal town on the Konkan coast of [Maharashtra](/asia/india/maharashtra), about 100 km south of [Mumbai](/asia/india/maharashtra/mumbai) and reachable in an hour by ferry across the harbour. It is the headquarters of Raigad district and has become Mumbai's favourite weekend beach escape — a stretch of palm-lined sand, a remarkable sea fort, and a string of villages with old Konkani houses and seafood shacks.

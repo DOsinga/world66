@@ -14,6 +14,10 @@ snippet: Florida Panhandle bay city with a working waterfront, modest downtown, 
   easy St. Andrews access
 title: Panama City
 type: location
+heritage: 1.1
+vibrancy: 3.2
+nature: 5.2
+off_the_beaten_track: 1.4
 ---
 
 Panama City is the county seat of Bay County in Florida's Panhandle, sitting on the northern shore of St. Andrews Bay. Most visitors blow straight past it on their way to the beaches, which is a shame — the city has a modest downtown, a working waterfront, and a quieter character than its famous neighbour six miles to the south.

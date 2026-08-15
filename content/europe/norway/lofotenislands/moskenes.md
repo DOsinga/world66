@@ -14,6 +14,10 @@ snippet: Southern Lofoten municipality of sheer mountains, fishing harbours, and
   Lofoten's highest peak.
 title: Moskenes
 type: location
+heritage: 5.3
+vibrancy: 2.9
+nature: 7.6
+off_the_beaten_track: 5.1
 ---
 
 Moskenes municipality covers the southern part of Moskenes Island in the Lofoten archipelago, where glaciers and elemental forces have sculpted the landscape into one of the wildest and most dramatic corners of Norway. Hermannsdalstind at 1,029 metres is the highest peak in western Lofoten, and mountain lakes dot the terrain, offering excellent freshwater fishing.

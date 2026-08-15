@@ -15,6 +15,10 @@ snippet: Chinese megacity across from Hong Kong, grown from fishing village to S
   Economic Zone and tech hub.
 title: Shenzhen
 type: location
+heritage: 2.1
+vibrancy: 8.3
+nature: 7.9
+off_the_beaten_track: 1.0
 ---
 
 Shenzhen is China's most dramatic urban story. Forty years ago it was a fishing village across the border from Hong Kong. Today it's a megacity of more than seventeen million people — the country's first Special Economic Zone, its manufacturing powerhouse, and increasingly its tech and design capital. Nothing in the city is older than 1980 and it shows: the skyline is a forest of shining towers, the metro keeps extending, and the place has the restless energy of somewhere constantly reinventing itself.

@@ -10,6 +10,10 @@ snippet: Anglesey county town with a Welsh-speaking market centre and the Oriel 
   Môn museum.
 title: Llangefni
 type: location
+heritage: 5.8
+vibrancy: 3.4
+nature: 5.3
+off_the_beaten_track: 2.3
 ---
 
 Llangefni is the county town of Anglesey, sitting quietly at the island's centre away from the coastal tourism that draws most visitors. It's a Welsh-speaking market town without much to detain you, but it has one genuinely good reason to stop: [Oriel Ynys Môn](/europe/unitedkingdom/wales/llangefni/oriel_ynys_mon), a museum and gallery that covers the history and art of the island from prehistoric times to the present. The permanent collection includes work by Charles Tunnicliffe, the wildlife artist who lived on Anglesey for decades, and there are good temporary exhibitions throughout the year.

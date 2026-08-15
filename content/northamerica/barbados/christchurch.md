@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Oistins
 title: Christ Church
 type: location
+heritage: 7.6
+vibrancy: 4.5
+nature: 3.6
+off_the_beaten_track: 2.4
 ---
 
 Christ Church is the most visited parish in Barbados, stretching along the island's south coast from the outskirts of Bridgetown to Grantley Adams International Airport. The calm, turquoise Caribbean Sea here is gentler than the Atlantic surf on the east coast, making it the island's natural choice for swimming, snorkelling, and watersports of every kind.

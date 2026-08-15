@@ -13,6 +13,10 @@ score: 7.1
 title: Nieuwpoort
 type: location
 snippet: Belgian seaside town at the IJzer mouth, known for its marina and grey shrimp.
+heritage: 4.5
+vibrancy: 3.2
+nature: 4.6
+off_the_beaten_track: 3.1
 ---
 
 Nieuwpoort is a small Belgian seaside town at the mouth of the IJzer (Yser) river, where it meets the North Sea. It is home to Belgium's largest marina, with hundreds of sailing boats and yachts lining the harbour, and it has long been famous for its fresh grey shrimp — the local *garnalen* are some of the best you will find on the Belgian coast. The town has a pleasant, compact centre and a wide sandy beach that stays surprisingly quiet outside of peak summer weekends.

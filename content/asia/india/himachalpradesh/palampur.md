@@ -11,6 +11,10 @@ image: palampur.jpg
 image_source: https://commons.wikimedia.org/wiki/File:A_view_of_Palampur_Himachal_Pradesh_India.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Sumeet Jain from San Francisco, USA
+heritage: 3.1
+vibrancy: 3.1
+nature: 7.5
+off_the_beaten_track: 4.3
 ---
 
 Palampur sits at around 1,200 m in the Kangra Valley, about 24 km from McLeodganj along a zigzag mountain road that runs through the Dhauladhar foothills. It is best known as the tea capital of north India: the slopes around town are carpeted in tea gardens first planted in the 19th century, and the cool, well-watered climate that suits the bushes also makes the place a pleasant escape from the heat of the plains.

@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Jiaxing
 title: Jiaxing
 type: location
+heritage: 3.4
+vibrancy: 3.4
+nature: 3.7
+off_the_beaten_track: 1.2
 ---
 
 Jiaxing sits in the flat, watery plain north of Hangzhou, in the heart of the Jiangnan region that for centuries fed and clothed the Chinese empire with its silk, rice, and fish. The city itself is understated — less than an hour from Shanghai by high-speed train, it functions as a secondary stop on a circuit that usually begins elsewhere — but it rewards attention. [South Lake](/asia/china/zhejiang/jiaxing/south_lake) is the city's centrepiece, with a pavilion set on a mid-lake island that is one of the more pleasant classical garden views in northern Zhejiang. Jiaxing is also famous throughout China for its *zongzi*, glutinous rice parcels wrapped in bamboo or lotus leaves and filled with pork belly, a food so associated with the city that chain shops selling them have spread across the country.

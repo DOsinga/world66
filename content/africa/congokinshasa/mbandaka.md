@@ -13,6 +13,10 @@ snippet: Equatorial Congo River city with colonial boulevards, botanical gardens
   and dawn riverfront trade
 title: Mbandaka
 type: location
+heritage: 5.0
+vibrancy: 2.1
+nature: 4.1
+off_the_beaten_track: 7.7
 ---
 
 Mbandaka sits almost exactly on the equator, on the banks of the Congo River in the northwestern DRC. It is one of the few Congolese cities accessible by river, and the journey upriver from Kinshasa, while slow and uncomfortable, is one of the great African travel experiences for those with the time and temperament for it.

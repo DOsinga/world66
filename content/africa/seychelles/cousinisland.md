@@ -14,6 +14,10 @@ title: Cousin Island
 type: location
 snippet: Tiny Seychelles nature reserve southwest of Praslin, dense with seabirds
   and rare island wildlife.
+heritage: 1.5
+vibrancy: 0.7
+nature: 7.9
+off_the_beaten_track: 6.0
 ---
 
 A few kilometres southwest of [Praslin](/africa/seychelles/praslin), Cousin Island is one of the finest nature reserves in the Indian Ocean. At just 27 hectares, it punches well above its weight: this tiny granitic island hosts extraordinary densities of seabirds and is home to several species found nowhere else on Earth.

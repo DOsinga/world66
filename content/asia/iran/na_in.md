@@ -14,6 +14,10 @@ image: na_in.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Jame0000001.jpg
 image_license: CC BY-SA 3.0
 image_attribution: NAINTOUR
+heritage: 4.1
+vibrancy: 1.7
+nature: 4.9
+off_the_beaten_track: 4.4
 ---
 
 Na'in is an old desert town between [Isfahan](/asia/iran/isfahan) and Yazd, close enough to the main route that it is easy to miss and good enough that you should not. Its historic quarter holds one of Iran's oldest mosques, a ruined pre-Islamic castle, traditional houses, a bazaar, and traces of the qanat system that made settlement here possible.

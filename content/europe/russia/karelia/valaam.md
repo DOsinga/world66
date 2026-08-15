@@ -14,6 +14,10 @@ snippet: Lake Ladoga archipelago in Karelia, centred on the historic Valaam Mona
   and wooded islands.
 title: Valaam
 type: location
+heritage: 6.1
+vibrancy: 2.8
+nature: 6.0
+off_the_beaten_track: 3.9
 ---
 
 Valaam is an archipelago of rocky wooded islands in the northern part of Lake Ladoga, Europe's largest lake, in the Russian Republic of Karelia. The main island gives its name to a famous Orthodox monastery founded in the 14th century — one of the most important in the Russian church.

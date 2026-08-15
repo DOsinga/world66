@@ -16,6 +16,10 @@ snippet: Slender Swedish Baltic island of limestone alvar, windmills, wildflower
   and long summer roads.
 title: Öland
 type: location
+heritage: 6.1
+vibrancy: 2.1
+nature: 6.7
+off_the_beaten_track: 2.6
 ---
 
 Öland is a long, slender island off the southeast coast of Sweden, connected to the mainland by a 6 km bridge. On the other side of that bridge is [Kalmar](/europe/sweden/kalmar), the nearest city. The island stretches about 137 km from north to south but rarely exceeds 16 km across, which makes it easy to explore by bicycle or car along the single main road.

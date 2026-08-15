@@ -15,6 +15,10 @@ image: arkaroola.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Arkaroola_Sunset,_South_Australia_(49849951657).jpg
 image_license: CC BY 2.0
 image_attribution: John Morton from Adelaide
+heritage: 5.0
+vibrancy: 0.6
+nature: 7.5
+off_the_beaten_track: 7.5
 ---
 
 Arkaroola is the wild northern end of the [Flinders Ranges](/australiaandpacific/australia/southaustralia/flindersranges): a private wilderness sanctuary of ragged red ridges, dry creekbeds, hot springs, and hard desert light. It is not a town in the usual sense. It is a remote base for people who have come for geology, 4WD tracks, bushwalking, wallabies, and night skies.

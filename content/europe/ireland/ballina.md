@@ -16,6 +16,10 @@ image: ballina.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ballina_town_centre.jpg
 image_license: CC BY-SA 4.0
 image_attribution: RyanIRL
+heritage: 4.6
+vibrancy: 3.6
+nature: 5.9
+off_the_beaten_track: 3.1
 ---
 
 Ballina sits on the River Moy in north County Mayo, close to the river's estuary and the Atlantic coast. It is a working west-of-Ireland town rather than a polished resort, but it has enough history, river life, and nearby ruins to reward a day if you are moving between Sligo, Westport, and the north Mayo coast.

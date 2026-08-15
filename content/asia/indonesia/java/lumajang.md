@@ -7,7 +7,8 @@ latitude: -8.1335
 loc_type: city
 longitude: 113.2248
 score: 7.1
-snippet: East Java regency town used for Semeru foothill waterfalls and quieter Bromo viewpoints.
+snippet: East Java regency town used for Semeru foothill waterfalls and quieter Bromo
+  viewpoints.
 sources:
 - https://en.wikivoyage.org/wiki/Lumajang
 - https://www.wikidata.org/wiki/Q11087
@@ -16,6 +17,10 @@ sources:
 title: Lumajang
 type: location
 wikidata: Q11087
+heritage: 2.1
+vibrancy: 1.6
+nature: 6.9
+off_the_beaten_track: 4.6
 ---
 
 Lumajang is not one of Java's polished tourist towns. Its centre is practical and spread out, but the regency around it holds some of East Java's strongest volcanic scenery: huge waterfalls dropping from the Semeru foothills, farming villages on cool high slopes, and back-door views toward the Bromo caldera.

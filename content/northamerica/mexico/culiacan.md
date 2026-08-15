@@ -11,6 +11,10 @@ title: Culiacan
 type: location
 snippet: Sinaloa's capital sits where two rivers meet, with strong food traditions
   from its fertile valley.
+heritage: 2.3
+vibrancy: 2.6
+nature: 2.7
+off_the_beaten_track: 4.2
 ---
 
 Culiacan is the capital of Sinaloa and a city most travelers pass through rather than linger in. That is understandable — it lacks the colonial charm of nearby Mazatlan or the beach appeal of the Pacific coast — but the city has more going on than its reputation suggests. The food alone is worth a stop. Sinaloa is one of Mexico's agricultural powerhouses, and Culiacan eats exceptionally well as a result.

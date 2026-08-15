@@ -14,6 +14,10 @@ snippet: Southern Gold Country town with a Mexican-miner name, historic downtown
   and Columbia nearby.
 title: Sonora
 type: location
+heritage: 5.6
+vibrancy: 4.0
+nature: 5.4
+off_the_beaten_track: 1.7
 ---
 
 Sonora is the seat of Tuolumne County and the main town in the southern part of California's Gold Country. Founded during the Gold Rush by Mexican miners from the state of Sonora, it has an appealing historic downtown of early-California adobes, Victorian homes, and a main street lined with shops and restaurants.

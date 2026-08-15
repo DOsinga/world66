@@ -16,6 +16,10 @@ snippet: Negros Occidental capital known for MassKara masks, sugar-country histo
   and chicken inasal
 title: Bacolod
 type: location
+heritage: 2.9
+vibrancy: 4.7
+nature: 4.8
+off_the_beaten_track: 3.4
 ---
 
 Bacolod is the capital of Negros Occidental province and one of the Philippines' most likeable cities, with a population of around 600,000. Known as the "City of Smiles," the nickname earns its keep every October during MassKara Festival, when the city fills with painted masks, street dancing, and an atmosphere of genuine celebration that rivals Cebu's Sinulog for energy. The festival grew out of the sugar industry's economic crisis in the 1980s as a deliberate act of collective resilience, which gives it a more interesting backstory than most.

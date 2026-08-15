@@ -9,11 +9,15 @@ longitude: 17.8833
 score: 6.7
 snippet: Namaqualand copper town and wildflower base in a dry valley of granite hills.
 sources:
-  - https://en.wikivoyage.org/wiki/Springbok
-  - https://en.wikipedia.org/wiki/Springbok,_South_Africa
+- https://en.wikivoyage.org/wiki/Springbok
+- https://en.wikipedia.org/wiki/Springbok,_South_Africa
 title: Springbok
 type: location
 wikidata: Q2301363
+heritage: 4.3
+vibrancy: 2.3
+nature: 6.8
+off_the_beaten_track: 4.4
 ---
 
 Springbok is the practical capital of Namaqualand, but its appeal is not just fuel, groceries, and the N7 north to Namibia. The town sits in a dry bowl of granite hills, and in good flower years the empty-looking veld around it turns suddenly bright after winter rain.

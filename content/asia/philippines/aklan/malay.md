@@ -14,6 +14,10 @@ snippet: Aklan municipality on Panay's northwest tip, serving as the mainland ga
   to Boracay.
 title: Malay
 type: location
+heritage: 3.8
+vibrancy: 3.1
+nature: 5.6
+off_the_beaten_track: 3.4
 ---
 
 Malay is a municipality on the northwestern tip of Panay Island in Aklan province, and for most travellers it means one thing: the gateway to [Boracay](/asia/philippines/boracay). The [Caticlan Jetty Port](/asia/philippines/aklan/malay/caticlan_jetty_port), where boats depart for the ten-minute crossing to the island, is in Malay's Caticlan barangay.

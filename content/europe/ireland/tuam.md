@@ -5,14 +5,19 @@ latitude: 53.5167
 loc_type: city
 longitude: -8.85
 score: 6.6
-snippet: County Galway ecclesiastical town centred on two cathedrals, a high cross, and medieval ruins.
+snippet: County Galway ecclesiastical town centred on two cathedrals, a high cross,
+  and medieval ruins.
 sources:
-  - https://en.wikivoyage.org/wiki/Tuam
-  - https://www.galwaytourism.ie/towns/tuam/
-  - https://en.wikipedia.org/wiki/Tuam
+- https://en.wikivoyage.org/wiki/Tuam
+- https://www.galwaytourism.ie/towns/tuam/
+- https://en.wikipedia.org/wiki/Tuam
 title: Tuam
 type: location
 wikidata: Q996691
+heritage: 5.3
+vibrancy: 2.5
+nature: 4.4
+off_the_beaten_track: 3.0
 ---
 
 Tuam is a small County Galway town whose best reason for existing as a travel stop is its church history. It was an early ecclesiastical centre under St Jarlath and, for a time in the 12th century, important enough to be associated with Rory O'Connor, the last native High King of Ireland.

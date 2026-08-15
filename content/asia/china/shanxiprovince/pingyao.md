@@ -13,6 +13,10 @@ snippet: Shanxi walled city whose Ming-era old town preserves historic banks, co
   and defensive walls.
 title: Pingyao
 type: location
+heritage: 8.4
+vibrancy: 3.3
+nature: 3.0
+off_the_beaten_track: 3.2
 ---
 
 Pingyao is the best-preserved walled city in China — a compact Ming-era trading town in the middle of **Shanxi Province**, about 90 km south of the provincial capital **Taiyuan**, whose entire old town has survived almost unchanged since the 14th century. The 6.4 km **city wall**, built in its present form in 1370 but standing on foundations a thousand years older, still runs the complete perimeter of the old city; inside, a grid of narrow streets is lined with single-storey tiled-roof courtyard houses, banks, temples and shops almost entirely of Ming and Qing date. The whole thing is a UNESCO World Heritage Site, and more importantly, a working town — real families live in most of the old houses, and the streets are busy with bicycles and hawkers rather than tour buses.

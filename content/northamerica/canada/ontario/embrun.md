@@ -7,6 +7,10 @@ loc_type: city
 latitude: 45.2667
 longitude: -75.2833
 score: 5.04
+heritage: 3.3
+vibrancy: 2.0
+nature: 5.5
+off_the_beaten_track: 3.3
 ---
 
 Embrun is a small francophone town in eastern Ontario, about 35 kilometres southeast of Ottawa along Highway 417. It is not a tourist destination in any conventional sense — there is no major attraction and no reason to go out of your way — but it functions as a comfortable bedroom community for the capital with a distinctly French-Canadian character that sets it apart from its anglophone surroundings.

@@ -6,11 +6,16 @@ latitude: 18.2269
 longitude: -66.3911
 wikidata: Q2624345
 score: 7.0
-snippet: Puerto Rican mountain town of ziplines, roadside waterfalls, and Cordillera Central views.
+snippet: Puerto Rican mountain town of ziplines, roadside waterfalls, and Cordillera
+  Central views.
 sources:
-  - https://en.wikivoyage.org/wiki/Orocovis
-  - https://en.wikipedia.org/wiki/Orocovis%2C_Puerto_Rico
-  - https://www.discoverpuertorico.com/article/things-to-do-orocovis
+- https://en.wikivoyage.org/wiki/Orocovis
+- https://en.wikipedia.org/wiki/Orocovis%2C_Puerto_Rico
+- https://www.discoverpuertorico.com/article/things-to-do-orocovis
+heritage: 3.9
+vibrancy: 1.7
+nature: 6.7
+off_the_beaten_track: 3.2
 ---
 
 Orocovis sits high in Puerto Rico's Cordillera Central, far enough from the coast that the island feels different: cooler air, tight mountain roads, roadside waterfalls, and small restaurants built around longaniza and slow afternoons.

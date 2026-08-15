@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Ia%C8%99i
 title: Iași
 type: location
+heritage: 5.7
+vibrancy: 4.0
+nature: 3.6
+off_the_beaten_track: 2.9
 ---
 
 Iași is the cultural capital of Romanian Moldavia, a lively university city in the northeast of the country, close to the border with the Republic of Moldova. It served as the capital of the Principality of Moldavia for centuries and remains the intellectual heart of the region.

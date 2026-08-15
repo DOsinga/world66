@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Drammen
 title: Drammen
 type: location
+heritage: 4.6
+vibrancy: 3.6
+nature: 5.5
+off_the_beaten_track: 2.9
 ---
 
 Drammen sits where the Drammenselva river empties into the Drammensfjord, about forty minutes southwest of Oslo by train. For decades it had a reputation as an industrial town best driven past, but a sustained effort to clean up the riverfront and invest in public spaces has turned it into a surprisingly pleasant place. The river promenade, the pedestrian [Ypsilon Bridge](/europe/norway/drammen/ypsilon_bridge), and the revitalised [Papirbredden](/europe/norway/drammen/papirbredden) waterfront area are genuinely attractive.

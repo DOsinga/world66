@@ -17,6 +17,10 @@ sources:
 title: Baie-Trinité
 type: location
 wikidata: Q2879389
+heritage: 3.4
+vibrancy: 1.9
+nature: 5.6
+off_the_beaten_track: 4.5
 ---
 
 Baie-Trinité is a small Côte-Nord village on Route 138, the kind of place that only makes sense if you are already following the north shore of the St. Lawrence. It is too quiet to be a detour from Québec City or Montréal, but on the Côte-Nord it has a real identity: lighthouse history, salmon water, and a big, exposed shoreline.

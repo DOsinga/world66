@@ -11,6 +11,10 @@ tags:
 - nationalparks
 title: Curú National Wildlife Refuge
 type: location
+heritage: 1.4
+vibrancy: 0.7
+nature: 7.8
+off_the_beaten_track: 5.6
 ---
 
 The Curú National Wildlife Refuge sits on the southern tip of the Nicoya Peninsula, covering 208 acres of mangrove swamps, hills, beaches and tropical forest. It feels genuinely cut off from the mainland — a small, quiet place where the wildlife outnumbers the visitors.

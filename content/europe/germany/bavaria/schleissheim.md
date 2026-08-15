@@ -14,6 +14,10 @@ snippet: Bavarian town north of Munich, known for the Schleissheim palace comple
   and its baroque gardens.
 title: Schleissheim
 type: location
+heritage: 6.9
+vibrancy: 3.8
+nature: 2.8
+off_the_beaten_track: 1.9
 ---
 
 Schleissheim is a small town just north of Munich, easily reached by S-Bahn and well worth half a day. It is best known for its palaces: the grand [Neues Schloss Schleissheim](/europe/germany/bavaria/schleissheim/neues_schloss) — a Baroque palace commissioned by Elector Max Emanuel and filled with outstanding Flemish painting — and [Schloss Lustheim](/europe/germany/bavaria/schleissheim/schloss_lustheim) at the far end of the formal gardens, which holds one of Europe's finest Meissen porcelain collections. Together they make up one of Bavaria's more impressive royal ensembles, without the tourist crowds of Munich's city centre.

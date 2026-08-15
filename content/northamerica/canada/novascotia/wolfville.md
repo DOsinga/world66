@@ -15,6 +15,10 @@ sources:
 title: Wolfville
 type: location
 wikidata: Q475953
+heritage: 4.1
+vibrancy: 3.8
+nature: 5.4
+off_the_beaten_track: 2.7
 ---
 
 **Wolfville** is a small Annapolis Valley town with more personality than its size suggests. Acadia University gives it a bookish, energetic centre, while the farms and vineyards around town sit on land shaped by some of the highest tides in the world.

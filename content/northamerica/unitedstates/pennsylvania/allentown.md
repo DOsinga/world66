@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Allentown_Art_Museum
 title: Allentown
 type: location
+heritage: 4.0
+vibrancy: 4.7
+nature: 3.6
+off_the_beaten_track: 1.4
 ---
 
 Allentown is the largest city in Pennsylvania's Lehigh Valley, a place with old manufacturing bones, a revived downtown arena district, and a surprising Revolutionary War footnote. It is not as polished as Philadelphia or as postcard-pretty as some small Pennsylvania towns, but it has enough museums, parks, and working-city texture to reward a stop.

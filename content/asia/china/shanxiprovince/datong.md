@@ -13,6 +13,10 @@ snippet: Northern Shanxi frontier city on a dry plateau, known for the 5th-centu
   Yungang Grottoes
 title: Datong
 type: location
+heritage: 6.9
+vibrancy: 2.4
+nature: 2.7
+off_the_beaten_track: 3.2
 ---
 
 Datong sits on the dry, windy plateau of northern Shanxi, close to the Mongolian border and far from the polished tourist circuits of eastern China. For centuries it was a frontier garrison town, and the landscape still has that stark, edge-of-empire feel.

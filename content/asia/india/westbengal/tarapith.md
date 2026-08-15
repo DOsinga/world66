@@ -14,6 +14,10 @@ snippet: Bengal pilgrimage town centred on the Tantric Tara temple and cremation
   associated with Bamakhepa.
 title: Tarapith
 type: location
+heritage: 7.4
+vibrancy: 3.3
+nature: 2.7
+off_the_beaten_track: 3.3
 ---
 
 Tarapith is a small town in Birbhum district, about 230 km from Kolkata, built around one of the most significant Tantric temples in Bengal. The [Tara temple](/asia/india/westbengal/tarapith/tara_temple) is dedicated to goddess Tara, a fierce Tantric form of the divine mother, and draws pilgrims practising the Shakta tradition from across eastern India.

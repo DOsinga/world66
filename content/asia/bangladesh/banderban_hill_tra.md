@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Shoilo_Propat
 title: Bandarban
 type: location
+heritage: 3.2
+vibrancy: 2.4
+nature: 7.0
+off_the_beaten_track: 5.8
 ---
 
 Bandarban is the most remote and scenic of the three Chittagong Hill Tracts districts. The town sits in a valley surrounded by forested ridges, and the surrounding hills are home to several indigenous peoples — the Mro, Bawm, Khumi, and others — whose villages can be reached on foot or by motorbike.

@@ -16,6 +16,10 @@ snippet: Alsatian Rhine city blending French and German influences around its is
   old town.
 title: Strasbourg
 type: location
+heritage: 8.1
+vibrancy: 7.4
+nature: 3.6
+off_the_beaten_track: 0.9
 ---
 
 Strasbourg sits on the Rhine, on the border with [Germany](/europe/germany), and it shows: the language, the food, the architecture, and the beer all carry a German imprint, yet the city is unmistakably French. The Alsatian capital has changed hands between France and Germany several times over the centuries, and that dual identity is part of what makes it so interesting.

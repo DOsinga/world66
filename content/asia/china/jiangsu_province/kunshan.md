@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Kunshan
 title: Kunshan
 type: location
+heritage: 2.1
+vibrancy: 2.9
+nature: 2.3
+off_the_beaten_track: 1.3
 ---
 
 Kunshan occupies a strategic gap between Shanghai (50 km east) and Suzhou (37 km west), and its extraordinary economic growth over the past thirty years is a direct consequence of that location. It has one of the highest concentrations of Taiwanese-owned manufacturing in mainland China, and the business-traveller economy has produced a well-developed hotel and restaurant scene relative to its modest size. For leisure visitors, though, the main reason to come is [Zhouzhuang](/asia/china/jiangsu_province/kunshan/zhouzhuang), the ancient water town that lies 15 km to the south and is technically within Kunshan's administrative jurisdiction.

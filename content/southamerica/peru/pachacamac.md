@@ -18,6 +18,10 @@ image: pachacamac.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Adobitos_en_Pachacamac.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Wasiwatana
+heritage: 7.3
+vibrancy: 2.2
+nature: 4.3
+off_the_beaten_track: 3.7
 ---
 
 Forty kilometres south of central Lima on the dry coastal plain, **Pachacámac** is a vast sanctuary that served as the central Andes' most important oracle for more than a thousand years before the arrival of the Spanish. The site stretches over 600 hectares and contains the **Temple of Pachacámac** (the painted pyramid), the Inca **Temple of the Sun**, the **Acllawasi** ("House of the Chosen Women"), the great plaza of pilgrims, and a string of lesser shrines.

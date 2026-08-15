@@ -14,6 +14,10 @@ title: Arlit
 type: location
 snippet: Saharan uranium town in northern Niger, serving as a rough waypoint on the
   Algeria route.
+heritage: 0.4
+vibrancy: 1.6
+nature: 3.5
+off_the_beaten_track: 7.0
 ---
 
 Arlit is a Saharan boomtown built on uranium. The French mining company Areva has operated here since the 1970s, and the town owes its entire existence to the ore beneath the surrounding desert. It has a recently-thrown-together look and feel that's entirely appropriate for what it is.

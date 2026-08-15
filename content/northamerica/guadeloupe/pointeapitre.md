@@ -17,6 +17,10 @@ sources:
 - https://en.guadeloupe-tourisme.com/222/place-de-la-victoire-pointeapitre/
 title: Pointe-à-Pitre
 type: location
+heritage: 4.5
+vibrancy: 5.5
+nature: 5.5
+off_the_beaten_track: 3.2
 ---
 
 Pointe-à-Pitre is Guadeloupe's commercial pulse: loud, practical, Creole-French, and far more urban than the beach towns along Grande-Terre's south coast. It sits near the narrow join between Grande-Terre and Basse-Terre, which makes it the natural ferry hub for the outer islands and the place where travellers come to shop, transfer, eat, and get their bearings.

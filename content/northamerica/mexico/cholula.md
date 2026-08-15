@@ -16,6 +16,10 @@ sources:
 - https://www.openstreetmap.org/
 title: Cholula
 type: location
+heritage: 4.3
+vibrancy: 4.1
+nature: 5.4
+off_the_beaten_track: 3.0
 ---
 
 Cholula is the old city just west of [Puebla](/northamerica/mexico/puebla), now folded into the metropolitan area but still distinct in character. It is famous for one astonishing image: the [Great Pyramid of Cholula](/northamerica/mexico/cholula/great_pyramid_of_cholula), mostly hidden under a grassy hill, crowned by the yellow [Iglesia de Nuestra Señora de los Remedios](/northamerica/mexico/cholula/iglesia_de_los_remedios) and backed on clear days by Popocatépetl.

@@ -14,6 +14,10 @@ snippet: Volcanic Cycladic island of white pumice coastlines, sea caves, hot spr
   and the Venus de Milo.
 title: Milos
 type: location
+heritage: 4.5
+vibrancy: 6.0
+nature: 6.7
+off_the_beaten_track: 2.2
 ---
 
 Milos is a volcanic island in the Cyclades, famous for its extraordinary variety of beach landscapes — coloured rock formations, sea caves, white sand coves, and the extraordinary lunar-looking coastline around [Sarakiniko](/europe/greece/milos/sarakiniko), where wind-eroded white pumice looks like a moonscape dropped into the Aegean. The [Venus de Milo](/europe/greece/milos/venus_de_milo_site), now in the Louvre, was found here in 1820.

@@ -10,6 +10,10 @@ snippet: Montana river city named for the Missouri waterfalls that forced Lewis 
   Clark's hardest portage
 title: Great Falls
 type: location
+heritage: 4.5
+vibrancy: 3.6
+nature: 7.5
+off_the_beaten_track: 2.7
 ---
 
 Great Falls earns its name from the series of [five waterfalls on the Missouri River](/northamerica/unitedstates/montana/great_falls/great_falls_of_the_missouri) that stopped Lewis and Clark in their tracks. In June 1805, the expedition spent 31 gruelling days portaging around them -- one of the hardest stretches of their entire journey. Two sections of that portage route survive as the Great Falls Portage National Historic Landmark, and the [Lewis and Clark Interpretive Center](/northamerica/unitedstates/montana/great_falls/lewis_and_clark_interpretive_center) on the river bluffs tells the story well.

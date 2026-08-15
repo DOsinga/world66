@@ -18,6 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Johnny_Cay
 title: San Andrés
 type: location
+heritage: 3.1
+vibrancy: 5.1
+nature: 8.0
+off_the_beaten_track: 2.4
 ---
 
 San Andrés is a Caribbean island belonging to Colombia, sitting closer to Nicaragua than to the Colombian mainland. The sea around the island is famous for its "seven colours" — bands of turquoise, aquamarine, and deep blue created by the varying depth of the coral reef — and the snorkelling and diving are outstanding.

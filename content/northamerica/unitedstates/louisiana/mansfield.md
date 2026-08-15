@@ -15,6 +15,10 @@ image: mansfield.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Episcopal_Church_in_Mansfield,_Louisiana,_2009.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Wikified
+heritage: 2.3
+vibrancy: 1.8
+nature: 4.1
+off_the_beaten_track: 2.8
 ---
 
 Mansfield is a small northwest Louisiana town whose travel interest is tightly focused on history. It is not a broad destination, but Civil War travellers and anyone tracing the Red River Campaign will find one of Louisiana's more important battlefield sites just outside town.

@@ -7,6 +7,10 @@ snippet: Rainforest river corridor on Costa Rica's Caribbean slope, known for Pa
   rafting and jungle lodges.
 title: Pacuare Protected Zone
 type: location
+heritage: 1.3
+vibrancy: 0.6
+nature: 7.9
+off_the_beaten_track: 5.8
 ---
 
 The Pacuare Protected Zone is a stretch of rainforest along the Pacuare River on Costa Rica's Caribbean slope, one of the country's most biologically rich and scenically dramatic river corridors. The river drops through a series of gorges and Class III–IV rapids, making it one of the top white-water rafting destinations in Central America.

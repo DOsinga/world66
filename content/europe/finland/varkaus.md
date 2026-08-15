@@ -5,10 +5,15 @@ loc_type: city
 latitude: 62.3167
 longitude: 27.8917
 score: 6.3
-snippet: North Savonian industrial lake town with canals, mechanical music, and Saimaa waterway views.
+snippet: North Savonian industrial lake town with canals, mechanical music, and Saimaa
+  waterway views.
 sources:
-  - https://en.wikivoyage.org/wiki/Varkaus
-  - https://en.wikipedia.org/wiki/Varkaus
+- https://en.wikivoyage.org/wiki/Varkaus
+- https://en.wikipedia.org/wiki/Varkaus
+heritage: 4.3
+vibrancy: 2.8
+nature: 4.6
+off_the_beaten_track: 2.7
 ---
 
 Varkaus is an industrial town in Finnish Lakeland, built around waterways, paper mills, and the narrow passages between lakes. It is not one of Finland's pretty wooden towns, and that is part of the point: Varkaus has a working, slightly odd character of its own.

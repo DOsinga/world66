@@ -6,11 +6,16 @@ latitude: 27.4924
 longitude: 77.6737
 wikidata: Q200311
 score: 8.2
-snippet: Sacred Yamuna city revered as Krishna's birthplace and the centre of Braj devotion.
+snippet: Sacred Yamuna city revered as Krishna's birthplace and the centre of Braj
+  devotion.
 sources:
-  - https://en.wikivoyage.org/wiki/Mathura
-  - https://uptourism.gov.in/en/page/mathura-vrindavan
-  - https://en.wikipedia.org/wiki/Mathura
+- https://en.wikivoyage.org/wiki/Mathura
+- https://uptourism.gov.in/en/page/mathura-vrindavan
+- https://en.wikipedia.org/wiki/Mathura
+heritage: 7.6
+vibrancy: 5.0
+nature: 2.0
+off_the_beaten_track: 1.8
 ---
 
 Mathura is one of the great pilgrimage cities of northern India, revered as the birthplace of Krishna and the heart of the Braj region. It sits on the Yamuna, close enough to Agra to be tempting as a side trip, but the mood is completely different: temple bells, river ghats, milk sweets, and streets thick with devotional traffic.

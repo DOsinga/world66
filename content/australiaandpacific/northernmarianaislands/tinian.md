@@ -10,6 +10,10 @@ snippet: Northern Mariana island where quiet beaches share space with major Seco
   World War history
 title: Tinian
 type: location
+heritage: 5.4
+vibrancy: 0.9
+nature: 7.4
+off_the_beaten_track: 6.5
 ---
 
 Tinian is a small island in the Northern Mariana Islands, just south of Saipan, and one of the most historically significant — and least visited — Pacific islands. It was from Tinian's North Field that the Enola Gay took off on 6 August 1945 to drop the atomic bomb on Hiroshima, and the bomb pits where both Little Boy and Fat Man were loaded are preserved as a National Historic Landmark. The site is sobering and important.

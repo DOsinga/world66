@@ -3,7 +3,8 @@ latitude: 47.6375
 loc_type: city
 longitude: -55.2153
 score: 6.7
-snippet: Roadless Fortune Bay outport where ferries, footpaths, ATVs, and salt water still set the pace.
+snippet: Roadless Fortune Bay outport where ferries, footpaths, ATVs, and salt water
+  still set the pace.
 sources:
 - https://en.wikivoyage.org/wiki/Rencontre_East
 - https://en.wikipedia.org/wiki/Rencontre_East
@@ -11,6 +12,10 @@ sources:
 - https://www.newfoundlandlabrador.com/plan-and-book/tours/33594090
 title: Rencontre East
 type: location
+heritage: 5.7
+vibrancy: 0.7
+nature: 6.9
+off_the_beaten_track: 7.1
 ---
 
 Rencontre East is a tiny Newfoundland outport on Fortune Bay, with no road connection and a population small enough that the ferry arrival still feels like an event. The town motto, "Isolated and Loving It", is not a tourism slogan so much as a useful warning: this is not a place for a quick drive-through or a full menu of services. You come by passenger ferry from Bay L'Argent or Pool's Cove, walk the dirt lanes, and adjust to a village where ATVs do the work that cars do elsewhere.

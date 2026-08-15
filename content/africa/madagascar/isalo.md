@@ -9,6 +9,10 @@ snippet: Sandstone national park in southwestern Madagascar, carved into canyons
   cliffs, pools, and lemur-filled forests
 title: Isalo
 type: location
+heritage: 1.5
+vibrancy: 0.8
+nature: 8.3
+off_the_beaten_track: 6.2
 ---
 
 Isalo National Park (pronounced "eeshall") is a rugged sandstone massif in southwestern [Madagascar](/africa/madagascar), about 250 km from Toliara. Wind and rain have carved the plateau into a landscape of canyons, gorges, cliffs, and natural swimming pools that feels more like the American Southwest than tropical Africa.

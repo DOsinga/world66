@@ -11,6 +11,10 @@ image: modra.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Modra_German_and_Slovak_Lutheran_Church_01.jpg
 image_license: Public domain
 image_attribution: feťour
+heritage: 4.2
+vibrancy: 2.9
+nature: 4.8
+off_the_beaten_track: 1.9
 ---
 
 Modra is a small wine town about 35 km northeast of [Bratislava](/europe/slovakia/bratislava), tucked against the eastern slopes of the [Small Carpathians](/europe/slovakia/small_carpathians). It is best known for two things, both of which it has been doing for centuries: making wine and making pottery. The combination makes it one of the most satisfying half-day trips from the capital — you can taste a local Frankovka, watch a potter at the wheel, and be back in Bratislava for dinner.

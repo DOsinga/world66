@@ -13,6 +13,10 @@ snippet: Central Norwegian valley route linking Geilo, Ål, Gol, and mountain ac
   to Hardangervidda.
 title: Hallingdal
 type: location
+heritage: 3.1
+vibrancy: 1.4
+nature: 6.2
+off_the_beaten_track: 4.1
 ---
 
 Hallingdal is a long, broad valley in central Norway that stretches roughly 150 kilometres from the mountains around Geilo down to the lake at Krøderen. The Hallingdalselva river runs its entire length, and the valley has been a natural travel route between eastern and western Norway for centuries.

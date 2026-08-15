@@ -13,6 +13,10 @@ snippet: Ghanaian fishing village on the western coast, with a sheltered surf be
   and forts within walking distance.
 title: Busua
 type: location
+heritage: 3.7
+vibrancy: 2.9
+nature: 6.5
+off_the_beaten_track: 4.5
 ---
 
 Busua is a small fishing village on Ghana's western coast, about 30 kilometres from Takoradi. It has one of the best beaches in the country — a long sweep of golden sand sheltered by a rocky headland, with waves strong enough for surfing but calm enough for swimming closer to shore.

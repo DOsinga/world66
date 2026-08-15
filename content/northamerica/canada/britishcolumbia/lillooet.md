@@ -10,6 +10,10 @@ title: Lillooet
 type: location
 snippet: Dry British Columbia interior town where the Bridge and Fraser rivers meet
   below sagebrush benchlands.
+heritage: 3.3
+vibrancy: 1.5
+nature: 8.0
+off_the_beaten_track: 5.1
 ---
 
 Lillooet sits in the dry interior of British Columbia where the Bridge and Fraser rivers meet, surrounded by steep mountains and sagebrush-covered benchlands. The landscape is strikingly different from the wet coastal ranges to the west — hot in summer, cold in winter, and sparsely populated. The town itself has about 2,300 people.

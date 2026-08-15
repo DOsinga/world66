@@ -14,6 +14,10 @@ snippet: Puget Sound peninsula county shaped by ferries, naval shipyards, and Ol
   Mountain views.
 title: Kitsap County
 type: location
+heritage: 3.7
+vibrancy: 2.0
+nature: 5.8
+off_the_beaten_track: 2.3
 ---
 
 Kitsap County occupies a peninsula in Puget Sound, directly across the water from [Seattle](/northamerica/unitedstates/washington/seattle) and reachable by the Washington State Ferry system. The hour-long ferry ride from downtown Seattle to Bremerton is one of the best cheap boat trips in the Pacific Northwest, with views of the Olympic Mountains and the Seattle skyline.

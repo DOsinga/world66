@@ -17,6 +17,10 @@ sources:
 - https://irishheritage.ie/
 title: Wexford Town
 type: location
+heritage: 5.0
+vibrancy: 3.9
+nature: 5.0
+off_the_beaten_track: 1.9
 ---
 
 Wexford Town sits near the mouth of the River Slaney, where a shallow harbour, narrow medieval lanes, and a surprisingly serious opera tradition meet. It is not as polished as Kilkenny or as busy as Cork, but it has a lived-in southeast character and one of Ireland's best cultural surprises.

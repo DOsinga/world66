@@ -14,6 +14,10 @@ snippet: Tiny New Mexico hot-springs hamlet where mineral pools sit below ancest
   Tewa pueblo ruins
 title: Ojo Caliente
 type: location
+heritage: 4.3
+vibrancy: 1.3
+nature: 6.5
+off_the_beaten_track: 3.8
 ---
 
 The name means "hot springs" in Spanish, and that is exactly what brings people to this tiny hamlet north of [Espanola](/northamerica/unitedstates/newmexico/espanola). The [Ojo Caliente Mineral Springs](/northamerica/unitedstates/newmexico/ojo_caliente/ojo_caliente_mineral_springs) resort is one of the grooviest hot springs spots anywhere -- intimate, unhurried, and thoroughly off the beaten track. Five distinct geothermal pools with different mineral compositions emerge from the volcanic hillside, and the surrounding high desert landscape adds to the sense of being somewhere timeless.

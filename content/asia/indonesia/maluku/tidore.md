@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Tidore
 title: Tidore
 type: location
+heritage: 4.9
+vibrancy: 1.6
+nature: 6.2
+off_the_beaten_track: 6.1
 ---
 
 Tidore is a small volcanic island in [North Maluku](/asia/indonesia/maluku), separated from [Ternate](/asia/indonesia/maluku/ternate) by a narrow strait. The two islands look almost like twins — each dominated by the perfect cone of a volcano rising straight from the sea — and for several hundred years they were the rival capitals of the world's clove trade. Where Ternate allied itself with the Dutch, Tidore took the Spanish side, and the contest between the two sultanates shaped European involvement in this corner of the archipelago.

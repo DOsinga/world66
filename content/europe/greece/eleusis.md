@@ -19,6 +19,10 @@ sources:
 - https://en.wikipedia.org/wiki/Eleusinian_Mysteries
 - https://en.wikipedia.org/wiki/Telesterion
 - https://en.wikipedia.org/wiki/Archaeological_Museum_of_Eleusis
+heritage: 7.5
+vibrancy: 3.7
+nature: 3.1
+off_the_beaten_track: 2.5
 ---
 
 Eleusis, modern Elefsina, is one of the most important sacred sites of the ancient world, and also one of the most jarring to visit. For nearly two thousand years, pilgrims walked from Athens to be initiated into the Eleusinian Mysteries, secret rites honoring Demeter and Persephone that promised a blessed afterlife. The secrecy was so well kept that we still do not know exactly what happened during the initiation. Today the archaeological site sits in the middle of an industrial port town, surrounded by refineries and cement works, which makes the experience surreal rather than serene.

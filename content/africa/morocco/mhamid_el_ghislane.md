@@ -12,6 +12,10 @@ score: 7.48
 snippet: Saharan road-end village in the Draa Valley, gateway to Erg Chegaga's dunes.
 title: M'Hamid el Ghislane
 type: location
+heritage: 4.7
+vibrancy: 0.8
+nature: 7.8
+off_the_beaten_track: 6.8
 ---
 
 M'Hamid el Ghislane is where the road ends and the Sahara begins. This small settlement at the southern tip of the Draa Valley was once a major crossroads for caravans carrying gold, salt, and slaves from sub-Saharan Africa. The closure of the Algerian border has long since put an end to the caravan trade, but the desert is still very much alive — and M'Hamid is the best base in Morocco for reaching it without the crowds of Merzouga.

@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Villahermosa
 title: Villahermosa
 type: location
+heritage: 6.1
+vibrancy: 4.9
+nature: 4.6
+off_the_beaten_track: 2.9
 ---
 
 Villahermosa is the capital of Tabasco, a state on Mexico's Gulf coast that gets overlooked by most travellers but contains one of the country's most important archaeological sites. The city sits in the humid lowlands where two major rivers meet, surrounded by a landscape of lagoons, swamp, and tropical forest — the same watery terrain that allowed the Olmec civilisation to flourish here over three thousand years ago.

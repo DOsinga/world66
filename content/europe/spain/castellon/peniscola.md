@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Peniscola_Castle
 title: Peñíscola
 type: location
+heritage: 5.8
+vibrancy: 4.6
+nature: 4.6
+off_the_beaten_track: 3.0
 ---
 
 Peñíscola is a small fishing village turned popular resort on the Costa del Azahar, dominated by a rocky promontory that juts into the Mediterranean. The medieval [castle](/europe/spain/castellon/peniscola/castle) and [walled old town](/europe/spain/castellon/peniscola/old_town) perched on the headland make it one of the most visually striking towns on Spain's east coast — and one of the most photographed.

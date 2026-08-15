@@ -2,16 +2,21 @@
 title: Sakata
 type: location
 loc_type: city
-latitude: 38.9200
-longitude: 139.8300
+latitude: 38.92
+longitude: 139.83
 score: 7.0
-snippet: Sea of Japan port city shaped by rice warehouses, merchant wealth, and Shonai seafood.
+snippet: Sea of Japan port city shaped by rice warehouses, merchant wealth, and Shonai
+  seafood.
 wikidata: Q504690
 sources:
-  - https://en.wikivoyage.org/wiki/Sakata
-  - https://sakatacity.com/
-  - https://www.japan.travel/en/spot/1785/
-  - https://www.japan-guide.com/e/e7994.html
+- https://en.wikivoyage.org/wiki/Sakata
+- https://sakatacity.com/
+- https://www.japan.travel/en/spot/1785/
+- https://www.japan-guide.com/e/e7994.html
+heritage: 3.0
+vibrancy: 2.4
+nature: 2.6
+off_the_beaten_track: 1.7
 ---
 
 Sakata is a Sea of Japan port in Yamagata, where the Mogami River meets the coast and old merchant wealth still shows in warehouses, gardens, and pleasure-quarter buildings. It is not as famous as nearby mountain temple country, but it has a strong identity of its own: rice, seafood, river trade, and the old Kitamaebune shipping routes.

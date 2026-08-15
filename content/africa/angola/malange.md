@@ -15,6 +15,10 @@ snippet: Interior Angolan provincial capital used as the base for Kalandula Fall
   and Pungo Andongo's black rocks.
 title: Malange
 type: location
+heritage: 2.0
+vibrancy: 1.7
+nature: 5.1
+off_the_beaten_track: 6.5
 ---
 
 Malanje is a provincial capital in Angola's interior, about 400 km east of Luanda. The city itself is modest and still bears marks of the civil war, but it is the base for visiting [Kalandula Falls](/africa/angola/malange/kalandula_falls) — one of the largest waterfalls in Africa by volume, where the [Lucala River](/africa/angola/malange/lucala_river) drops over 100 metres in a wide curtain of water. The falls are about 85 km from Malanje on a rough but passable road, and they are genuinely spectacular.

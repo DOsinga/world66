@@ -13,6 +13,10 @@ image: chipping_campden.jpg
 image_source: https://commons.wikimedia.org/wiki/File:East_Banqueting_StJames_Chipping_Campden.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Saffron Blaze
+heritage: 7.4
+vibrancy: 2.7
+nature: 5.0
+off_the_beaten_track: 2.1
 ---
 
 Chipping Campden is the most architecturally complete of the Cotswold market towns — a single long High Street of gabled wool merchants' houses built in the 14th and 15th centuries from the local honey-coloured limestone, largely unchanged since. The medieval Market Hall (1627), the great Perpendicular wool church, and the almshouses at the top of the street form a sequence of architecture that rewards slow walking.

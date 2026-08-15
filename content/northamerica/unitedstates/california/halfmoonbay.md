@@ -13,6 +13,10 @@ snippet: San Francisco Peninsula coastal town, where flower farms and pumpkin fi
   meet Pacific beaches.
 title: Half Moon Bay
 type: location
+heritage: 2.3
+vibrancy: 3.8
+nature: 5.7
+off_the_beaten_track: 1.9
 ---
 
 Half Moon Bay is a small coastal town of about 12,000 people on the Pacific side of the San Francisco Peninsula, 45 minutes south of San Francisco by road. It sits in a fertile coastal valley — **flower farms and pumpkin patches** stretching away from the beach towards the coastal hills — and it is the nearest stretch of genuinely rural California coastline to the city. On weekends San Franciscans pour over the coastal mountains via Highway 92 to walk on the beach, eat oysters, and pretend for an afternoon that they are somewhere much further north.

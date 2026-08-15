@@ -14,6 +14,10 @@ snippet: Mountainous Cordillera province of river gorges, rice terraces, and liv
   Kalinga tattoo traditions.
 title: Kalinga
 type: location
+heritage: 7.4
+vibrancy: 2.8
+nature: 4.6
+off_the_beaten_track: 4.4
 ---
 
 Kalinga is a mountainous province in the Cordillera region of northern Luzon, known for its dramatic river gorges, [rice terraces](/asia/philippines/kalinga/sumadel_rice_terraces), and the living traditions of the Kalinga people. The name comes from the Ibanag word for "headhunters" — a practice long abandoned but still part of the province's fierce identity. Elderly Kalinga women still bear the traditional tattoos (*batok*) that once marked warriors and their wives, and the line continues at [Buscalan](/asia/philippines/kalinga/buscalan_village), the remote mountain village where the last of the old *mambabatok* still works.

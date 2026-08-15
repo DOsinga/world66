@@ -15,6 +15,10 @@ snippet: Sonoran Desert university city ringed by mountains, saguaro forests, an
   Mexican-influenced food culture.
 title: Tucson
 type: location
+heritage: 3.0
+vibrancy: 5.1
+nature: 5.5
+off_the_beaten_track: 2.3
 ---
 
 Tucson is Arizona's second-largest city, the home of the [University of Arizona](/northamerica/unitedstates/arizona/tucson/university_of_arizona), and the southwestern desert town that has held on to more of its own character than any other place in the state. Surrounded on all sides by mountains and saguaro forests, the city sits in the upper Sonoran Desert at 2,400 feet, with cooler nights and sharper light than Phoenix.

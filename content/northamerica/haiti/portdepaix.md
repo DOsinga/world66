@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Nord-Ouest_(department)
 title: Port-de-Paix
 type: location
+heritage: 4.0
+vibrancy: 2.8
+nature: 6.5
+off_the_beaten_track: 6.3
 ---
 
 Port-de-Paix is the capital of Haiti's Nord-Ouest department, a small port town on the north coast looking across the channel to [Tortuga Island](/northamerica/haiti/portdepaix/tortuga_island). It was founded in 1665 by French buccaneers who had been pushed off Tortuga by the Spanish, and for a while in the seventeenth century it was the de facto capital of French Saint-Domingue. Almost none of that history is visible today.

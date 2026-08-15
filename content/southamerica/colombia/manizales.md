@@ -15,6 +15,10 @@ snippet: Andean coffee city on a narrow ridge, with university energy and Nevado
   Ruiz on the horizon.
 title: Manizales
 type: location
+heritage: 6.0
+vibrancy: 4.7
+nature: 3.9
+off_the_beaten_track: 3.0
 ---
 
 Manizales sits high in the Colombian Andes, spread across a narrow ridge in the Cordillera Central with the snow-capped Nevado del Ruiz volcano looming to the south. At around 2,150 metres, the air is cool and the views are dramatic — this is coffee country at its most vertical.

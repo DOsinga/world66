@@ -17,6 +17,10 @@ sources:
 - https://www.openstreetmap.org/
 title: San Isidro de Pérez Zeledón
 type: location
+heritage: 3.4
+vibrancy: 3.3
+nature: 5.1
+off_the_beaten_track: 4.0
 ---
 
 San Isidro de Pérez Zeledón, often called San Isidro de El General, is the working city of Costa Rica's southern mountains. It sits in the El General Valley below the Talamanca range, with coffee slopes, cattle country, and the road to Chirripó all feeding into its markets and bus terminals.

@@ -7,6 +7,10 @@ snippet: Colonial town northwest of Medellín, with whitewashed streets in the w
   Cauca valley.
 title: Santa Fe de Antioquia
 type: location
+heritage: 7.2
+vibrancy: 5.1
+nature: 3.8
+off_the_beaten_track: 1.9
 ---
 
 Santa Fe de Antioquia is one of Colombia's best-preserved colonial towns, about 80 km northwest of [Medellín](/southamerica/colombia/medellin) in the warm lowlands of the Cauca river valley. Founded in 1541, it served as the capital of the Antioquia province for nearly three centuries before Medellín took over. That long reign of importance left it with a tight grid of cobblestone streets, whitewashed houses with iron-grilled windows, and churches that still dominate the skyline.

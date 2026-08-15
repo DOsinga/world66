@@ -17,6 +17,10 @@ image: yuzhno_sakhalinsk.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Yuzho-Sakhalinsk_panorama.jpg
 image_license: CC BY-SA 2.0
 image_attribution: 'Flickr user: yab994'
+heritage: 4.8
+vibrancy: 1.9
+nature: 6.7
+off_the_beaten_track: 6.4
 ---
 
 Yuzhno-Sakhalinsk is the capital of Sakhalin, the long Russian island north of Japan. It is a working oil-and-administration city rather than a pretty one, with broad Soviet streets, low buildings, mountain views, and a history that keeps shifting under your feet. The city began as a Russian settlement, became Japanese Toyohara after the Russo-Japanese War, and returned to Soviet control after World War II.

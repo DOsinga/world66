@@ -17,6 +17,10 @@ image: croton_on_hudson.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Croton-On-Hudson,_NY_10520,_USA_-_panoramio.jpg
 image_license: CC BY-SA 3.0
 image_attribution: cdohsmann
+heritage: 2.3
+vibrancy: 2.4
+nature: 3.9
+off_the_beaten_track: 1.7
 ---
 
 Croton-on-Hudson is a small Westchester village where the Croton River meets the Hudson. It has the commuter ease of the lower Hudson Valley, but also enough old infrastructure, river parkland, and colonial history to reward a slow day.

@@ -16,6 +16,10 @@ image: new_braunfels.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Guadalupe_river_new_braunfels_north.jpg
 image_license: CC BY 4.0
 image_attribution: Larry D. Moore
+heritage: 3.8
+vibrancy: 4.3
+nature: 4.2
+off_the_beaten_track: 1.3
 ---
 
 New Braunfels sits between [San Antonio](/northamerica/unitedstates/texas/sanantonio) and [Austin](/northamerica/unitedstates/texas/austin), but it is not just a suburb with river access. The town was founded by German settlers in 1845, and that background still shows in its festivals, place names, beer gardens, and old limestone buildings.

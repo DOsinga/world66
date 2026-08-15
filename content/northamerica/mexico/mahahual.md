@@ -17,6 +17,10 @@ image: mahahual.jpg
 image_source: https://commons.wikimedia.org/wiki/File:BlueKay_Beach_en_Mahahual,_Mexico_(http-www.bluekaymahahual.com)_-_panoramio_(3).jpg
 image_license: CC BY 3.0
 image_attribution: Juan Ortega
+heritage: 1.9
+vibrancy: 2.4
+nature: 7.3
+off_the_beaten_track: 2.9
 ---
 
 Mahahual is a small beach town on the Costa Maya, south of the big Riviera Maya resort strip and close enough to Belize that the Caribbean feels wide open. It was once a fishing village, then became the shore town beside the Costa Maya cruise port, but away from ship days it still has a slow, sandy rhythm.

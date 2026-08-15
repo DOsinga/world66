@@ -13,6 +13,10 @@ title: Constantine
 type: location
 snippet: Eastern Algerian city set above the Rhumel Gorge, with bridges spanning its
   limestone canyon.
+heritage: 7.1
+vibrancy: 4.3
+nature: 3.8
+off_the_beaten_track: 3.8
 ---
 
 Constantine is one of the major cities of eastern [Algeria](/africa/algeria), not far from the Tunisian border. The setting is extraordinary: the [Rhumel Gorge](/africa/algeria/constantine/rhumel_gorge), a deep canyon carved through a limestone plateau, protects the old city on almost all sides, giving it a dramatic, nearly impregnable position that no amount of urban development has managed to diminish.

@@ -3,12 +3,17 @@ latitude: 50.5384
 loc_type: city
 longitude: 14.1306
 score: 7.25
-snippet: North Bohemian river town with a handsome old square, cathedral hill, and vineyard country nearby.
+snippet: North Bohemian river town with a handsome old square, cathedral hill, and
+  vineyard country nearby.
 sources:
-  - https://en.wikivoyage.org/wiki/Litom%C4%9B%C5%99ice
-  - https://www.muzeumlitomerice.cz/
+- https://en.wikivoyage.org/wiki/Litom%C4%9B%C5%99ice
+- https://www.muzeumlitomerice.cz/
 title: Litoměřice
 type: location
+heritage: 6.5
+vibrancy: 2.7
+nature: 3.1
+off_the_beaten_track: 2.2
 ---
 
 Litoměřice is one of the softer faces of North Bohemia. The old royal town sits above the Elbe in a fertile patch of vineyards and orchards, with the volcanic cones of the České středohoří rising beyond the roofs. It feels much older and more gracious than the industrial towns that dominate parts of the region.

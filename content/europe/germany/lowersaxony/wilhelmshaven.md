@@ -3,13 +3,18 @@ latitude: 53.5444
 loc_type: city
 longitude: 8.1063
 score: 7.15
-snippet: North Sea naval port with museum ships, a landmark swing bridge, and Wadden Sea access
+snippet: North Sea naval port with museum ships, a landmark swing bridge, and Wadden
+  Sea access
 sources:
-  - https://en.wikivoyage.org/wiki/Wilhelmshaven
-  - https://en.wikipedia.org/wiki/Wilhelmshaven
-  - https://www.wikidata.org/wiki/Q3857
+- https://en.wikivoyage.org/wiki/Wilhelmshaven
+- https://en.wikipedia.org/wiki/Wilhelmshaven
+- https://www.wikidata.org/wiki/Q3857
 title: Wilhelmshaven
 type: location
+heritage: 3.8
+vibrancy: 3.5
+nature: 5.0
+off_the_beaten_track: 1.8
 ---
 
 Wilhelmshaven is a working North Sea port with a stronger maritime identity than most German coastal towns. It was founded as Prussia's naval harbour in the 19th century, and the German Navy is still part of the city's character, but the visitor appeal is now concentrated around the harbour, the museums, and the edge of the Wadden Sea.

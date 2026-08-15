@@ -17,6 +17,10 @@ image: fair_isle.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Fair_Isle_-_geograph.org.uk_-_7551874.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Carroll Pierce
+heritage: 6.0
+vibrancy: 2.6
+nature: 6.4
+off_the_beaten_track: 5.6
 ---
 
 Fair Isle is a small inhabited island halfway between Shetland Mainland and Orkney, remote enough that the journey is part of the story. It is only about 5 km long, but its cliffs, crofts, lighthouses, and constant movement of birds make it feel much larger on foot.

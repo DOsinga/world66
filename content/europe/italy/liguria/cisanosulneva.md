@@ -16,6 +16,10 @@ tags:
 - rivieradellepalme
 title: Cisano sul Neva
 type: location
+heritage: 2.5
+vibrancy: 2.0
+nature: 3.8
+off_the_beaten_track: 1.8
 ---
 
 A medieval village on the left bank of the Neva, upstream of its confluence with the Centa. Cisano still has its original quadrangular plan, with a tower set at each corner of the settlement. The parish church of [Santa Maria Maddalena](/europe/italy/liguria/cisanosulneva/santa_maria_maddalena) stands opposite the civic tower, which was converted from a late Romanesque campanile.

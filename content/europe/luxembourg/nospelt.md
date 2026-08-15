@@ -7,6 +7,10 @@ snippet: Luxembourg village in the Gutland, remembered as the country's old pott
   centre
 title: Nospelt
 type: location
+heritage: 3.6
+vibrancy: 1.7
+nature: 4.2
+off_the_beaten_track: 3.7
 ---
 
 Nospelt is a small village in the Kopstal commune of Luxembourg, in the Gutland region south of the Ardennes. It is a quiet agricultural settlement, but one with an unusual distinction: from the 15th century until 1914, Nospelt was the centre of Luxembourgish pottery production. The village's last potter closed his workshop in 1914, and the building now houses a small Pottery Museum that tells the story of this overlooked craft tradition.

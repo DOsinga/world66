@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Peel_(Isle_of_Man)
 title: Peel
 type: location
+heritage: 4.6
+vibrancy: 3.0
+nature: 5.0
+off_the_beaten_track: 4.6
 ---
 
 *Europe > Isle of Man > Peel*

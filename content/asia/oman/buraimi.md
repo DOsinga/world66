@@ -14,6 +14,10 @@ snippet: Omani oasis town beside Al Ain, sharing a borderland of forts, gardens,
   desert trade
 title: Buraimi
 type: location
+heritage: 4.6
+vibrancy: 2.0
+nature: 2.9
+off_the_beaten_track: 3.6
 ---
 
 Buraimi is the Omani half of the Al Ain oasis, which straddles the border between Oman and the UAE. Most of the major sights — the forts, the oasis gardens, the camel market — are on the UAE side in Al Ain proper, but since the border crossing here is straightforward, this is not much of a limitation.

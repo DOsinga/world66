@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Pai,_Thailand
 title: Pai
 type: location
+heritage: 2.6
+vibrancy: 6.0
+nature: 7.1
+off_the_beaten_track: 5.9
 ---
 
 Pai is a small town in Mae Hong Son Province, tucked into a mountain valley about 130 kilometres northwest of Chiang Mai on the winding Highway 1095. Once a backwater market town where hill tribe and Shan farmers came to trade, it discovered tourism in the 1990s and has settled into an identity as one of Thailand's most popular alternative escapes: a combination of hot springs, waterfalls, dramatic canyon landscapes, and a distinctly laid-back atmosphere that keeps visitors longer than they planned.

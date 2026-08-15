@@ -18,6 +18,10 @@ image: scalloway.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Scalloway_Castle_and_the_East_Voe_of_Scalloway_-_geograph.org.uk_-_5889807.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Stuart Taylor
+heritage: 3.9
+vibrancy: 2.3
+nature: 5.9
+off_the_beaten_track: 6.0
 ---
 
 *Europe > United Kingdom > Scotland > Shetland > Scalloway*

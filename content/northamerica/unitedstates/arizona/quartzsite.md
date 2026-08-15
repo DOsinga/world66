@@ -15,6 +15,10 @@ image: quartzsite.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2025-01-20_01_Sign_on_Highway_95_South_for_the_Town_of_Quartzsite,_AZ_USA.jpg
 image_license: CC BY 4.0
 image_attribution: Gordon Leggett
+heritage: 2.7
+vibrancy: 2.4
+nature: 4.6
+off_the_beaten_track: 3.1
 ---
 
 Quartzsite is a small desert town on Interstate 10 that becomes something much stranger in winter. For most of the year it is quiet, dusty, and easy to miss. From roughly December through February, RVers, rockhounds, flea-market sellers, and gem-show regulars spread across town and the surrounding public land until the place feels like a temporary desert city.

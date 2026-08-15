@@ -16,6 +16,10 @@ image: jeffreys_bay.jpg
 image_source: https://commons.wikimedia.org/wiki/File:JBay-Surfing_at_supertubes-001.jpg
 image_license: CC BY-SA 3.0
 image_attribution: NJR ZA
+heritage: 1.8
+vibrancy: 4.5
+nature: 7.0
+off_the_beaten_track: 2.8
 ---
 
 Jeffreys Bay, usually shortened to J-Bay, is South Africa's best-known surf town. It sits on the Eastern Cape's Sunshine Coast, where long Indian Ocean beaches, surf shops, shell stalls, and low-key cafes give the town a holiday rhythm without making it feel too polished.

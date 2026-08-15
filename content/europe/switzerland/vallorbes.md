@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Vallorbe_railway_station
 title: Vallorbes
 type: location
+heritage: 3.1
+vibrancy: 1.7
+nature: 5.8
+off_the_beaten_track: 2.8
 ---
 
 Vallorbes is a small town in the Jura mountains northwest of [Lausanne](/europe/switzerland/lausanne), sitting right on the French border. It has long been a crossing point between the two countries, and the [railway tunnel](/europe/switzerland/vallorbes/mont_dor_tunnel) linking Switzerland to France through the Mont d'Or mountain emerges here on the TGV Lyria Paris-Lausanne line.

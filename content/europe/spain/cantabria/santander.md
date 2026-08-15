@@ -14,6 +14,10 @@ image: santander.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Muelle_de_Albareda,_Santander.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Emilio Gómez Fernández
+heritage: 4.7
+vibrancy: 5.4
+nature: 5.3
+off_the_beaten_track: 1.5
 ---
 
 Santander is the capital of Cantabria, a handsome port city on the northern coast of Spain facing the Cantabrian Sea. It has a distinguished, slightly old-fashioned elegance — wide seafront boulevards, a long beach at El Sardinero, and a string of civic buildings that speak to its past as a summer resort for the Spanish royal family.

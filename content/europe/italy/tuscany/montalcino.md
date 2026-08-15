@@ -17,6 +17,10 @@ image: montalcino.jpg
 image_source: https://commons.wikimedia.org/wiki/File:A_view_from_Montalcino_(5772034130).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Michal Osmenda from Brussels, Belgium
+heritage: 4.7
+vibrancy: 5.8
+nature: 6.7
+off_the_beaten_track: 1.7
 ---
 
 Montalcino is the hill town that gave Brunello its name, and wine still sets the rhythm here. The town sits high above the Val d'Orcia, with stone lanes, fortress walls, and views over vineyards that have become some of the most valuable agricultural land in Italy.

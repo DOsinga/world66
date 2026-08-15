@@ -14,6 +14,10 @@ image: kilimanjaro.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kilimanjaro_from_Amboseli.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Sergey Pesterev
+heritage: 1.2
+vibrancy: 1.2
+nature: 7.8
+off_the_beaten_track: 6.3
 ---
 
 **Part of history**

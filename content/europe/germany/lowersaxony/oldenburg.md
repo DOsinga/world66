@@ -15,6 +15,10 @@ image: oldenburg.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Oldenburger_Schloss.jpg
 image_license: CC BY 4.0
 image_attribution: Mojnsen
+heritage: 5.7
+vibrancy: 3.0
+nature: 3.3
+off_the_beaten_track: 2.4
 ---
 
 Oldenburg is a relaxed city in northwestern Lower Saxony, close enough to [Bremen](/europe/germany/bremen) for an easy side trip but with a quieter identity of its own. It was once the seat of the Grand Duchy of Oldenburg, and that courtly past still shows in the [castle](/europe/germany/lowersaxony/oldenburg/oldenburg_castle), the [Schlossgarten](/europe/germany/lowersaxony/oldenburg/schlossgarten), and the formal buildings around the market square.

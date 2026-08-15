@@ -14,6 +14,10 @@ image: chiswick.jpg
 image_source: https://commons.wikimedia.org/wiki/File:20210602_123430_Looking_east_along_Chiswick_Mall_from_Church_Street.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Chiswick Chap
+heritage: 4.0
+vibrancy: 3.8
+nature: 1.4
+off_the_beaten_track: 0.9
 ---
 
 Chiswick is a leafy west [London](/europe/unitedkingdom/england/london) neighbourhood with a village feel that belies its proximity to central London — Turnham Green tube station is about 20 minutes from the West End on the District line.

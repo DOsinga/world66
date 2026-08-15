@@ -10,6 +10,10 @@ snippet: Northern Hungarian spa village where hot mineral water builds white ter
   below the Bükk foothills.
 title: Egerszalók
 type: location
+heritage: 3.7
+vibrancy: 3.0
+nature: 4.9
+off_the_beaten_track: 1.6
 ---
 
 Egerszalók is a small village in the Bükk foothills of northern Hungary, about ten kilometres from [Eger](/europe/hungary/eger), known for its spectacular salt-hill thermal spring. Hot water at 68°C rises to the surface from deep underground and cascades down a hillside, depositing white calcium carbonate terraces that look strikingly similar to Pamukkale in Turkey — one of the most unusual natural formations in Hungary.

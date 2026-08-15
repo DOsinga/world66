@@ -5,12 +5,17 @@ loc_type: city
 latitude: -11.060705
 longitude: -75.335319
 score: 7.0
-snippet: Chanchamayo jungle town used for waterfalls, coffee country, and short forest trips.
+snippet: Chanchamayo jungle town used for waterfalls, coffee country, and short forest
+  trips.
 wikidata: Q1014543
 sources:
-  - https://en.wikivoyage.org/wiki/La_Merced
-  - https://en.wikipedia.org/wiki/La_Merced,_Jun%C3%ADn
-  - https://www.wikidata.org/wiki/Q1014543
+- https://en.wikivoyage.org/wiki/La_Merced
+- https://en.wikipedia.org/wiki/La_Merced,_Jun%C3%ADn
+- https://www.wikidata.org/wiki/Q1014543
+heritage: 4.3
+vibrancy: 3.0
+nature: 6.0
+off_the_beaten_track: 5.4
 ---
 
 La Merced sits where the Peruvian Andes drop into the central jungle. It is the capital of Chanchamayo Province, but for travellers its value is simpler: waterfalls, warm air, coffee and cacao country, Ashaninka crafts, mototaxis, and quick trips into green valleys.

@@ -9,6 +9,10 @@ score: 5.78
 snippet: Small Route 13 village in the Lao mountains, set among karst limestone scenery.
 title: Patong
 type: location
+heritage: 1.9
+vibrancy: 1.8
+nature: 5.3
+off_the_beaten_track: 3.8
 ---
 
 Patong is a small village on Route 13 between [Vientiane](/asia/laos/vientiane) and [Luang Prabang](/asia/laos/luangprabang), north of [Vang Vieng](/asia/laos/vangvieng). Not to be confused with the beach resort in Thailand, this Patong is a quiet roadside settlement in the Lao mountains where the bus might stop long enough for you to buy a bag of sticky rice and stretch your legs.

@@ -16,6 +16,10 @@ image: kumlinge.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kumlinge,_%C3%85land_Islands_-_panoramio_(4).jpg
 image_license: CC BY 3.0
 image_attribution: L-BBE
+heritage: 2.0
+vibrancy: 0.9
+nature: 6.8
+off_the_beaten_track: 4.7
 ---
 
 Kumlinge is one of the quieter island municipalities in the [Åland Islands](/europe/finland/alandislands), sitting between the main island and the outer archipelago ferries. It is Swedish-speaking, low-key, and easy to miss if you are racing from one boat to the next.

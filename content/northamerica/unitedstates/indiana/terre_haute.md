@@ -4,10 +4,15 @@ type: location
 loc_type: city
 latitude: 39.46667
 longitude: -87.41389
-snippet: Wabash Valley college city with Debs labor history, small museums, and old National Road grit.
+snippet: Wabash Valley college city with Debs labor history, small museums, and old
+  National Road grit.
 score: 6.7
 sources:
-  - https://en.wikivoyage.org/wiki/Terre_Haute
+- https://en.wikivoyage.org/wiki/Terre_Haute
+heritage: 3.5
+vibrancy: 2.8
+nature: 3.9
+off_the_beaten_track: 1.9
 ---
 
 Terre Haute is a west-central Indiana city on the Wabash River, about an hour southwest of [Indianapolis](/northamerica/unitedstates/indiana/indianapolis). Its name means "high land" in French, a reminder of early river geography and the old settlement routes that crossed this part of Indiana.

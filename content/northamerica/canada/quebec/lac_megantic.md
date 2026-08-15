@@ -17,6 +17,10 @@ image: lac_megantic.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lac_M%C3%A9gantic_du_mont_M%C3%A9gantic.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Khayman
+heritage: 2.2
+vibrancy: 1.8
+nature: 3.3
+off_the_beaten_track: 5.9
 ---
 
 Lac-Mégantic sits in the Eastern Townships, where the town, lake, and surrounding mountains all share the same name. It is a small place, but not a flat one: the water pulls people to the shore in summer, while the dark sky reserve around Mont-Mégantic gives the region a night-time identity that few Quebec towns can match.

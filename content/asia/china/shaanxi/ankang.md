@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Shaanxi
 title: Ankang
 type: location
+heritage: 7.3
+vibrancy: 3.0
+nature: 3.5
+off_the_beaten_track: 4.7
 ---
 
 Ankang sits on the Han River in the deep south of Shaanxi, in the Qinba mountain region where the Qinling range drops toward the subtropical zone. The city has a mild climate by Shaanxi standards, and its surrounding countryside is among the most biodiverse in the province — the Qinling Mountains form one of the major north–south biodiversity boundaries in China, and the slopes around Ankang are habitat for giant pandas, golden snub-nosed monkeys, and [crested ibises](/asia/china/shaanxi/ankang/crested_ibis_habitat), the last of which has one of its last surviving wild populations in this area.

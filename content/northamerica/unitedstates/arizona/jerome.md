@@ -13,6 +13,10 @@ sources:
 - https://azstateparks.com/jerome
 - https://www.jeromehistoricalsociety.com/museums-buildings/audrey-headframe-park/
 - https://goldkingmineghosttown.com/
+heritage: 2.8
+vibrancy: 1.9
+nature: 5.0
+off_the_beaten_track: 3.3
 ---
 
 Jerome clings to Cleopatra Hill above the Verde Valley, north of [Prescott](/northamerica/unitedstates/arizona/prescott) and west of Sedona. It boomed on copper, almost emptied after the mines closed, then came back as a strange mix of ghost town, artists' village, mining museum, and day-trip stop.

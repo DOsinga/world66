@@ -17,6 +17,10 @@ image: stryn.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Breng_in_Stryn,_Vestland,_Norway,_2025_May_-_3.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Ximonic (Simo Räsänen)
+heritage: 2.8
+vibrancy: 2.7
+nature: 7.8
+off_the_beaten_track: 2.6
 ---
 
 Stryn is both a village and a wider Nordfjord district, set where western Norway's fjords push inland towards high mountains and glacier country. The village itself is small, but the surrounding valleys are strong enough to carry a spare day or several: lakes, steep roads, summer snow, and glacier arms dropping from Jostedalsbreen.

@@ -9,6 +9,10 @@ snippet: Small County Mayo town shaped by emigration history, restored railway h
   and quiet western bogland.
 title: Kiltimagh
 type: location
+heritage: 5.8
+vibrancy: 2.1
+nature: 4.4
+off_the_beaten_track: 3.4
 ---
 
 Kiltimagh is a small town in County Mayo, in the rural west of Ireland. Like many towns in this part of the country, it lost much of its population to emigration over the decades — a history reflected in its quiet main street and the surrounding empty countryside.

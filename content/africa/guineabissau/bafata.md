@@ -18,6 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Bafat%C3%A1_Airport
 title: Bafata
 type: location
+heritage: 2.1
+vibrancy: 2.5
+nature: 5.6
+off_the_beaten_track: 6.4
 ---
 
 Bafata is Guinea-Bissau's second-largest town, though that says more about the country's modest urban landscape than about the size of Bafata itself. It sits on the Geba River along the main road from [Bissau](/africa/guineabissau/bissau) to the Guinea (Conakry) border, and most travelers pass through rather than linger.

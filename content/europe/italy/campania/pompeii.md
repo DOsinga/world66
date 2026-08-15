@@ -15,6 +15,10 @@ snippet: Ancient Roman city sealed by Vesuvius in 79 AD, preserving streets, hou
   gardens, and human traces.
 title: Pompeii
 type: location
+heritage: 9.3
+vibrancy: 6.6
+nature: 4.2
+off_the_beaten_track: 2.7
 ---
 
 *Europe > Italy > Campania > Pompeii*

@@ -4,9 +4,14 @@ type: location
 loc_type: city
 latitude: 48.936944
 longitude: -55.645
-snippet: Central Newfoundland mill town on the Exploits River, known for salmon, falls, and rafting.
+snippet: Central Newfoundland mill town on the Exploits River, known for salmon, falls,
+  and rafting.
 sources:
-  - https://en.wikivoyage.org/wiki/Grand_Falls-Windsor
+- https://en.wikivoyage.org/wiki/Grand_Falls-Windsor
+heritage: 3.2
+vibrancy: 2.1
+nature: 5.1
+off_the_beaten_track: 3.3
 ---
 
 *North America > Canada > Newfoundland > Grand Falls-Windsor*

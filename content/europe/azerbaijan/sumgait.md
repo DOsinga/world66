@@ -14,6 +14,10 @@ snippet: Caspian industrial city north of Baku, built around Soviet-era chemical
   steel plants.
 title: Sumgait
 type: location
+heritage: 2.2
+vibrancy: 1.9
+nature: 1.7
+off_the_beaten_track: 2.0
 ---
 
 Sumgait is Azerbaijan's third-largest city, a Soviet-era industrial town on the Caspian coast about 30km north of Baku. Built largely in the 1950s as a planned city around chemical and steel plants, it's not a destination in its own right — but it's a natural stopping point on the drive north toward Quba and the Caucasus mountains. The promenade along the Caspian has been improved in recent years and gives a feel of everyday Azerbaijani life away from Baku's tourist circuits.

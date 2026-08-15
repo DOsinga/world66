@@ -10,6 +10,10 @@ snippet: Kansas frontier city shaped by Bleeding Kansas, the Civil War, and a pr
   military post.
 title: Fort Scott
 type: location
+heritage: 3.9
+vibrancy: 2.1
+nature: 3.9
+off_the_beaten_track: 2.6
 ---
 
 Fort Scott is a small city in southeastern Kansas whose history is inseparable from the conflicts that shaped America. The [Fort Scott National Historic Site](/northamerica/unitedstates/kansas/fortscott/fort_scott_national_historic_site) preserves a frontier military post that witnessed westward expansion in the 1840s, Bleeding Kansas in the 1850s, and the Civil War that followed. It was also the founding place of the 1st Kansas Colored Infantry in 1862, one of the first Black regiments in the Union Army.

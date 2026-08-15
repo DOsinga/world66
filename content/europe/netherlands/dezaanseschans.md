@@ -13,6 +13,10 @@ score: 8.83
 loc_type: feature
 snippet: Open-air Zaan River museum preserving wooden windmills, workshops, and historic
   houses near Amsterdam.
+heritage: 5.7
+vibrancy: 3.5
+nature: 4.1
+off_the_beaten_track: 1.3
 ---
 
 De Zaanse Schans is a living open-air museum on the Zaan River, about 30 minutes north of [Amsterdam](/europe/netherlands/amsterdam). Named after an entrenchment built in 1574 to hold back Spanish troops during the Eighty Years War, the area preserves a cluster of wooden windmills, workshops and houses from the Zaan district's industrial heyday.

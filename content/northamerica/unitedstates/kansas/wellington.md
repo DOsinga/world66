@@ -10,6 +10,10 @@ snippet: Southern Kansas county seat known as the Wheat Capital of the World and
   of a long-running wheat festival.
 title: Wellington
 type: location
+heritage: 4.5
+vibrancy: 2.7
+nature: 3.4
+off_the_beaten_track: 2.9
 ---
 
 Wellington is the county seat of Sumner County in southern Kansas, a town of about 8,600 people that bills itself the "Wheat Capital of the World." Winter wheat dominates the surrounding plains and has shaped the town's identity since the 19th century. Wellington also grew up as a railroad town, with Santa Fe offices anchoring the south end of Main Street, and local factories still play a part in airplane parts production.

@@ -16,6 +16,10 @@ tags:
 - yorkshire_dales
 title: Ingleton
 type: location
+heritage: 5.2
+vibrancy: 2.8
+nature: 6.7
+off_the_beaten_track: 2.9
 ---
 
 Ingleton is a compact village on the western edge of the [Yorkshire Dales](/europe/unitedkingdom/england/yorkshire/yorkshire_dales), tucked beneath some of the finest limestone scenery in England. Two rivers, the Twiss and the Doe, converge just outside the village and between them define much of what draws visitors here.

@@ -15,6 +15,10 @@ snippet: Central Istrian hilltop town with stone lanes, castle remnants, and cou
   cave excursions nearby
 title: Žminj
 type: location
+heritage: 4.6
+vibrancy: 3.3
+nature: 4.8
+off_the_beaten_track: 3.5
 ---
 
 Žminj is a small hilltop town in central [Istria](/europe/croatia/istria), about 15 kilometres south of Pazin. First mentioned in 1177, it sits on the old road between Pazin and Pula and has the quiet, unhurried feel of inland Istria — stone houses, a parish church, and views over rolling countryside.

@@ -14,6 +14,10 @@ snippet: Champagne town threaded with canals and medieval churches, anchored by 
   Saint-Étienne
 title: Châlons-en-Champagne
 type: location
+heritage: 7.7
+vibrancy: 4.7
+nature: 3.0
+off_the_beaten_track: 2.2
 ---
 
 Châlons-en-Champagne — known as Châlons-sur-Marne until 1998 — was the administrative capital of the former Champagne-Ardenne region. It is a quiet, well-kept town threaded with canals, and its medieval religious architecture punches well above its weight for a city of its size.

@@ -11,6 +11,10 @@ image: pohang.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Pohang_Yeongil_New_Port_View3.png
 image_license: CC BY-SA 4.0
 image_attribution: Wtbnt
+heritage: 4.2
+vibrancy: 4.5
+nature: 3.8
+off_the_beaten_track: 1.8
 ---
 
 Pohang is a steel city on the East Sea coast, an hour or so north of [Ulsan](/asia/southkorea/ulsan) and just within comfortable reach for a day trip — though you could easily fill a weekend. It shares plenty with Ulsan: both are industrial towns built around a single giant employer, here the POSCO steelworks rather than Hyundai's shipyards. But the differences underneath make it worth the journey. It is a change of scenery, a change of people, and a reminder of how much variety hides inside Korea's working cities.

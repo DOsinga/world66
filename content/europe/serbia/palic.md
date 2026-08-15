@@ -5,11 +5,16 @@ loc_type: city
 latitude: 46.1031
 longitude: 19.7586
 score: 6.8
-snippet: Serbian lakeside resort near Subotica, known for Hungarian Art Nouveau pavilions and park promenades.
+snippet: Serbian lakeside resort near Subotica, known for Hungarian Art Nouveau pavilions
+  and park promenades.
 sources:
-  - https://en.wikivoyage.org/wiki/Pali%C4%87
-  - https://en.wikipedia.org/wiki/Pali%C4%87
-  - https://en.wikipedia.org/wiki/Lake_Pali%C4%87
+- https://en.wikivoyage.org/wiki/Pali%C4%87
+- https://en.wikipedia.org/wiki/Pali%C4%87
+- https://en.wikipedia.org/wiki/Lake_Pali%C4%87
+heritage: 4.1
+vibrancy: 3.1
+nature: 5.3
+off_the_beaten_track: 2.9
 ---
 
 Palić is a small resort town on a shallow lake just outside Subotica, close to the Hungarian border. Its best feature is not the water itself, which has had a troubled environmental history, but the old resort ensemble along the north shore: park paths, timbered Art Nouveau buildings, villas, and a slow lakeside promenade.

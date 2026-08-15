@@ -14,6 +14,10 @@ snippet: Southern Puerto Rican town beside a rare subtropical dry forest and cal
   Caribbean beaches
 title: Guanica
 type: location
+heritage: 4.1
+vibrancy: 2.5
+nature: 5.9
+off_the_beaten_track: 3.2
 ---
 
 Guanica is a small town on the southern coast of [Puerto Rico](/northamerica/puertorico), best known for the [Guanica State Forest](/northamerica/puertorico/guanica/guanica_state_forest) — a UNESCO Biosphere Reserve with 48 rare tree species and excellent birdwatching. The subtropical dry forest is one of the best-preserved examples in the world and makes for good hiking.

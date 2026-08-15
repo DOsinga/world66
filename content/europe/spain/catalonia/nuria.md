@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Virgin_of_Nuria
 title: Vall de Núria
 type: location
+heritage: 3.9
+vibrancy: 1.1
+nature: 8.0
+off_the_beaten_track: 5.4
 ---
 
 Vall de Núria sits in a high cirque of the eastern Pyrenees at 1,967 metres — a place that feels entirely cut off from the modern world because it genuinely is. There is no road into the valley. The only way in is the **Cremallera de Núria**, Spain's sole surviving rack railway, which has been hauling pilgrims and hikers up through the Gorges del Freser since 1931.

@@ -8,10 +8,14 @@ wikidata: Q1156096
 score: 6.4
 snippet: Rural Okayama mountain town where contemporary art sits below Mount Nagi.
 sources:
-  - https://en.wikivoyage.org/wiki/Nagi
-  - https://www.town.nagi.okayama.jp/kankou/nagienglishinformation.html
-  - https://nagi.or.jp/en/
-  - https://www.okayama-japan.jp/en/spot/10696
+- https://en.wikivoyage.org/wiki/Nagi
+- https://www.town.nagi.okayama.jp/kankou/nagienglishinformation.html
+- https://nagi.or.jp/en/
+- https://www.okayama-japan.jp/en/spot/10696
+heritage: 4.5
+vibrancy: 3.2
+nature: 5.0
+off_the_beaten_track: 5.1
 ---
 
 *Asia > Japan > Nagi*

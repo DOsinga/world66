@@ -13,6 +13,10 @@ snippet: Large Arab city in northern Israel and major Christian pilgrimage centr
   around the Basilica of the Annunciation.
 title: Nazareth
 type: location
+heritage: 7.3
+vibrancy: 5.5
+nature: 4.0
+off_the_beaten_track: 2.1
 ---
 
 Nazareth is the largest Arab city in [Israel](/asia/israel), home to around 80,000 people — mostly Muslim and Christian — and one of the most important pilgrimage sites in Christianity. The [Basilica of the Annunciation](/asia/israel/nazareth/basilica_of_the_annunciation), a striking 1960s church built over the grotto where the angel Gabriel is said to have appeared to Mary, dominates the old town. Beneath it lie the remains of earlier churches going back to the Byzantine period. Adjacent to it, [St Joseph's Church](/asia/israel/nazareth/st_josephs_church) marks the traditional site of Joseph's workshop.

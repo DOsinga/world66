@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/1960_Winter_Olympics
 title: Olympic Valley
 type: location
+heritage: 1.7
+vibrancy: 4.3
+nature: 6.7
+off_the_beaten_track: 2.0
 ---
 
 Olympic Valley, formerly known as Squaw Valley, sits in a glacially carved bowl in the Sierra Nevada just northwest of Lake Tahoe. It is one of the most storied ski destinations in North America — the valley hosted the 1960 Winter Olympics, and the resort that grew from those games has become Palisades Tahoe, stretching across two mountains with over 6,000 acres of skiable terrain. The rename in 2021, dropping the offensive original name, felt overdue, and the valley's new identity fits: it is a place more concerned with the mountain than its history.

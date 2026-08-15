@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Dinosaur_Park
 title: Rapid City
 type: location
+heritage: 2.6
+vibrancy: 3.8
+nature: 5.9
+off_the_beaten_track: 1.7
 ---
 
 Rapid City is the practical gateway to the [Black Hills](/northamerica/unitedstates/southdakota/blackhills). It has the airport, the rental cars, the restaurants, and the beds, but it is more than a staging area for Mount Rushmore. Downtown has public art, old hotels, breweries, and enough local history to justify a day before you disappear into the hills.

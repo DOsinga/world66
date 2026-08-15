@@ -14,6 +14,10 @@ snippet: Valle del Cauca colonial city known for the Basílica del Señor de los
   pilgrimage
 title: Buga
 type: location
+heritage: 7.4
+vibrancy: 5.0
+nature: 4.7
+off_the_beaten_track: 3.8
 ---
 
 Buga is a small colonial city in the Valle del Cauca, set between green mountains about 75 kilometres east of [Cali](/southamerica/colombia/cali). It is best known as a pilgrimage destination — the Basílica del Señor de los Milagros draws millions of Colombian visitors each year — but the surrounding countryside makes it worth a stop for anyone travelling through the region.

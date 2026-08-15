@@ -13,6 +13,10 @@ title: Nida
 type: location
 snippet: Curonian Spit resort village beside Baltic dunes, long associated with fishing
   houses and Thomas Mann.
+heritage: 3.9
+vibrancy: 2.1
+nature: 4.2
+off_the_beaten_track: 2.7
 ---
 
 Nida is the kind of place that makes you wonder why it is not more famous. This tiny fishing village sits near the southern tip of the [Curonian Spit](/europe/lithuania/nemunas_river_regi/nida_curonian_spit/curonian_spit), a UNESCO-listed sand peninsula that stretches 98 kilometres between the Lithuanian mainland and Kaliningrad. The spit itself is extraordinary, a narrow ribbon of enormous sand dunes, pine forest, and lagoon that feels like it belongs in the Sahara rather than the Baltic.

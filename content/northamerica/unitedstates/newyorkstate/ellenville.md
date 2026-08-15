@@ -17,6 +17,10 @@ image: ellenville.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Downtown_Ellenville,_NY.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Daniel Case
+heritage: 2.3
+vibrancy: 2.4
+nature: 4.7
+off_the_beaten_track: 2.2
 ---
 
 Ellenville sits below the southern Shawangunk Ridge, where the Catskills begin to feel close but the landscape is still sharp-edged with cliffs and old resort roads. The village itself is small and uneven, but it has two real reasons to stop: Sam's Point above town and the long-running hang-gliding scene that uses the ridge winds.

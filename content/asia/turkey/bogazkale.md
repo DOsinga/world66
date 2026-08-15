@@ -1,16 +1,21 @@
 ---
-title: "Boğazkale"
+title: Boğazkale
 type: location
 loc_type: city
-latitude: 40.0210
-longitude: 34.6100
+latitude: 40.021
+longitude: 34.61
 score: 7.5
-snippet: Anatolian village beside Hattusa, the ruined Bronze Age capital of the Hittite Empire.
+snippet: Anatolian village beside Hattusa, the ruined Bronze Age capital of the Hittite
+  Empire.
 sources:
-  - https://en.wikivoyage.org/wiki/Bo%C4%9Fazkale
-  - https://en.wikipedia.org/wiki/Hattusa
-  - https://whc.unesco.org/en/list/377
-  - https://muze.gov.tr/Language/Index/EN?url=%2Fmuze-detay%3FsectionId%3DBOG01%26distId%3DMRK
+- https://en.wikivoyage.org/wiki/Bo%C4%9Fazkale
+- https://en.wikipedia.org/wiki/Hattusa
+- https://whc.unesco.org/en/list/377
+- https://muze.gov.tr/Language/Index/EN?url=%2Fmuze-detay%3FsectionId%3DBOG01%26distId%3DMRK
+heritage: 7.0
+vibrancy: 2.4
+nature: 2.9
+off_the_beaten_track: 4.5
 ---
 
 Boğazkale is a small Anatolian village with one huge reason to go: [Hattusa](/asia/turkey/bogazkale/hattusa), the Bronze Age capital of the Hittite Empire. The ruins sit in the dry hills above town, with city walls, gates, temple foundations, and enough scale to make the Hittites feel like a real imperial power rather than a paragraph in an ancient-history book.

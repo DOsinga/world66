@@ -14,6 +14,10 @@ snippet: Finger Lakes college town at the southern tip of Cayuga Lake, shaped by
   University.
 title: Ithaca
 type: location
+heritage: 4.1
+vibrancy: 4.5
+nature: 5.0
+off_the_beaten_track: 2.1
 ---
 
 Ithaca sits at the southern tip of Cayuga Lake in the Finger Lakes region of upstate New York. It's a college town shaped by [Cornell University](/northamerica/unitedstates/newyorkstate/ithaca_tompkins_c/cornell_university) — an Ivy League campus perched on hills above the city — and Ithaca College. That student presence keeps the food scene lively, the politics progressive, and the bookshops well stocked.

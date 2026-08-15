@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Yubeng
 title: Yubeng
 type: location
+heritage: 5.8
+vibrancy: 1.6
+nature: 7.4
+off_the_beaten_track: 6.0
 ---
 
 Yubeng is a small Tibetan village in the Meili Snow Mountain range of northwestern Yunnan, inaccessible by road and reached only by a steep [trail over a high mountain pass](/asia/china/yunnanprovince/yubeng/approach_trail) from the nearest roadhead at Xidang. The walk in takes six to eight hours on foot, or several hours on muleback, and the difficulty of the approach has kept Yubeng from the mass tourism that has transformed most of Yunnan's scenic areas. What you find on arrival is a cluster of traditional stone-and-timber farmhouses at around 3,100 metres, with Kawa Karpo — the sacred and unclimbed 6,740-metre peak — visible above the valley walls. It is one of the most dramatic mountain settings in China accessible to ordinary hikers.

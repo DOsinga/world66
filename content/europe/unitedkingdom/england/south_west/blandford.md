@@ -18,6 +18,10 @@ tags:
 - dorset
 title: Blandford Forum
 type: location
+heritage: 4.9
+vibrancy: 1.7
+nature: 5.9
+off_the_beaten_track: 3.4
 ---
 
 Blandford Forum is a small market town in Dorset, set in the Stour valley in the rolling chalk downlands of central Dorset. Much of the town centre was rebuilt after a devastating fire swept through in 1731, leaving it with a remarkably uniform Georgian character — red-brick townhouses, a fine church, and a market place that give it an elegance unusual for a town of its size. It is, by some measures, the finest intact example of Georgian town planning in rural England.

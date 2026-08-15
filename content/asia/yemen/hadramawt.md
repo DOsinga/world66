@@ -14,6 +14,10 @@ snippet: Eastern Yemeni wadi region of limestone canyons and mud-brick tower cit
   like Shibam.
 title: Hadramawt
 type: location
+heritage: 6.7
+vibrancy: 1.8
+nature: 2.3
+off_the_beaten_track: 7.3
 ---
 
 Hadramawt is a vast wadi region in eastern Yemen, stretching about 560 kilometres from the Arabian Sea to the Saudi border. It is one of the most spectacular landscapes in the Arabian Peninsula — a deep canyon cut through a limestone plateau, with ancient mud-brick tower cities perched along its walls.

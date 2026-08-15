@@ -5,11 +5,16 @@ loc_type: feature
 latitude: 53.9204
 longitude: 8.5002
 score: 7.05
-snippet: Tiny car-free Wadden Sea island reached by ferry, mudflat walk, or horse carriage.
+snippet: Tiny car-free Wadden Sea island reached by ferry, mudflat walk, or horse
+  carriage.
 sources:
-  - https://en.wikivoyage.org/wiki/Neuwerk
-  - https://en.wikipedia.org/wiki/Neuwerk
+- https://en.wikivoyage.org/wiki/Neuwerk
+- https://en.wikipedia.org/wiki/Neuwerk
 wikidata: Q1622
+heritage: 1.2
+vibrancy: 1.4
+nature: 7.7
+off_the_beaten_track: 6.7
 ---
 
 Neuwerk is a small, car-free island in the Wadden Sea northwest of Cuxhaven. It is officially part of Hamburg, but for travellers it belongs to the North Sea coast: tides, mudflats, birds, and a few houses behind a dike.

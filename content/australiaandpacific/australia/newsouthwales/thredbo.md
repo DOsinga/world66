@@ -16,6 +16,10 @@ image: thredbo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kosciuszko_NP_Thredbo_Merrits_Gondola_top_station_2.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Ymblanter
+heritage: 2.4
+vibrancy: 4.2
+nature: 5.9
+off_the_beaten_track: 2.9
 ---
 
 Thredbo is the most compact and village-like of the Snowy Mountains resorts, tucked into the valley below the Ramshead Range inside Kosciuszko National Park. In winter it is one of Australia's main ski bases; when the snow goes, it turns into a hiking and mountain-bike town with lifts, trailheads and a real alpine feel.

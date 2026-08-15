@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Worcester_(England)
 title: Worcester
 type: location
+heritage: 5.5
+vibrancy: 4.6
+nature: 4.2
+off_the_beaten_track: 2.4
 ---
 
 Worcester is a cathedral city on the River Severn in the West Midlands of England. The magnificent [Worcester Cathedral](/europe/unitedkingdom/england/west_midlands/worcester/worcester_cathedral), dating from the 11th century, dominates the riverfront and contains the tomb of King John — the only English monarch buried between London and the north. The view of the cathedral from the cricket ground across the river is one of the most photographed in English sport.

@@ -13,6 +13,10 @@ snippet: Bay of Plenty harbour city, backed by orchards and linked to the beach 
   of Mount Maunganui.
 title: Tauranga
 type: location
+heritage: 2.7
+vibrancy: 3.9
+nature: 6.3
+off_the_beaten_track: 1.8
 ---
 
 Tauranga sits on a large sheltered harbour on the Bay of Plenty coast, with a mild, sunny climate and easy access to good beaches. The city has all the practical amenities you'd expect, while across the harbour the beach resort of [Mount Maunganui](/australiaandpacific/newzealand/north_island/bay_of_plenty/tauranga/mauao_mount_maunganui) — with its distinctive volcanic cone — draws surfers, swimmers, and families who come for both the ocean swells and the calmer harbour side.

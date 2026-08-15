@@ -12,6 +12,10 @@ snippet: 'England''s rugged Celtic peninsula: Atlantic surf beaches, cliff-top f
   villages, moorland, and world-class art.'
 title: Cornwall
 type: location
+heritage: 5.4
+vibrancy: 4.2
+nature: 6.6
+off_the_beaten_track: 3.9
 ---
 
 Cornwall is the most south-westerly county of England, a dramatic peninsula jutting into the Atlantic with more than 300 miles of coastline. It is a place apart — Celtic in heritage, rugged in character, and stubbornly distinct from the rest of England. The landscape shifts from surf-battered cliffs and wide sandy beaches in the north to the gentler, wooded river creeks of the south coast, while the high moorland of Bodmin sits in the middle, scattered with ancient standing stones and Bronze Age settlements.

@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Frascati_Cathedral
 title: Frascati
 type: location
+heritage: 5.7
+vibrancy: 4.6
+nature: 3.3
+off_the_beaten_track: 1.9
 ---
 
 Frascati is the most visited of the Castelli Romani hill towns, perched in the Alban Hills about 20 kilometres south-east of Rome. It has been a retreat from the city heat since ancient times — the Romans called the area *Tusculanum* — and the legacy is a string of Renaissance and Baroque villas with extraordinary gardens. Today it is best known for its white wine, [Frascati DOC](/europe/italy/lazio/frascati/frascati_doc_wine), which you can drink directly from the source.

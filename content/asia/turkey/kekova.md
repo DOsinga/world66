@@ -16,6 +16,10 @@ tags:
 - history
 title: Kekova
 type: location
+heritage: 7.0
+vibrancy: 1.9
+nature: 5.0
+off_the_beaten_track: 5.1
 ---
 
 Kekova is a long island near the town of Kaş on the Lycian coast, about 200 km west of Antalya. The sheltered waters between the island and the mainland contain the partially submerged ruins of Dolişche, an ancient Lycian city whose coastal buildings sank after a series of earthquakes in the 2nd century CE. Staircases, building walls, storage jars, and cisterns are visible just below the surface in clear water, creating one of the most evocative underwater archaeological landscapes in the Mediterranean.

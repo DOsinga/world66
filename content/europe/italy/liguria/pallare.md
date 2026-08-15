@@ -16,6 +16,10 @@ tags:
 - rivieradellepalme
 title: Pallare
 type: location
+heritage: 2.9
+vibrancy: 1.8
+nature: 5.0
+off_the_beaten_track: 3.2
 ---
 
 Pallare is a small village in the upper Val Bormida, inland from the Ligurian coast in the heavily wooded hills between Savona and Piedmont. It is a quiet, rural place — forestry and a handful of gravel quarries make up most of the local economy.

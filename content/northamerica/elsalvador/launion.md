@@ -16,6 +16,10 @@ sources:
 - https://www.britannica.com/place/Gulf-of-Fonseca
 title: La Unión
 type: location
+heritage: 3.3
+vibrancy: 2.7
+nature: 6.1
+off_the_beaten_track: 5.3
 ---
 
 La Unión is El Salvador's eastern port, set on the Gulf of Fonseca where El Salvador faces Honduras and Nicaragua across sheltered Pacific water. It is hot, workaday, and far from the country's usual tourist circuit. That distance is part of the draw: the landscape opens into mangroves, islands, naval docks, and the dark cone of [Volcán Conchagua](/northamerica/elsalvador/launion/volcan_conchagua).

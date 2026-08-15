@@ -13,6 +13,10 @@ snippet: Barrier-island enclave between the Atlantic and Lake Worth Lagoon, defi
   by old money and Worth Avenue polish.
 title: Palm Beach
 type: location
+heritage: 2.7
+vibrancy: 4.5
+nature: 4.9
+off_the_beaten_track: 1.3
 ---
 
 Palm Beach is one of the wealthiest small towns in America. Sitting on a narrow barrier island between the Atlantic Ocean and Lake Worth Lagoon, it faces its larger, scruffier sibling West Palm Beach across the water — and the contrast could not be more deliberate.

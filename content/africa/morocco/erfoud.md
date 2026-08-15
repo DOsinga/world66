@@ -14,6 +14,10 @@ snippet: Dusty Moroccan desert gateway town near palm groves, fossil country, an
   the Erg Chebbi dunes.
 title: Erfoud
 type: location
+heritage: 3.5
+vibrancy: 2.6
+nature: 5.3
+off_the_beaten_track: 4.4
 ---
 
 Erfoud is a French-built administrative town from the 1930s, its dusty red buildings giving it a pleasantly sleepy, almost ghost-town atmosphere. The town itself is modest, but it sits at the gateway to some of Morocco's most extraordinary desert scenery. The road south from Er-Rachidia is spectacular — ancient Berber kasbahs rising from palm groves that stretch as far as the eye can see.

@@ -10,6 +10,10 @@ snippet: Busy port city on Sulawesi’s southwest coast, gateway to eastern Indo
   and Bugis-Makassarese maritime history.
 title: Makassar
 type: location
+heritage: 5.8
+vibrancy: 5.3
+nature: 4.8
+off_the_beaten_track: 3.4
 ---
 
 Makassar — still sometimes called Ujung Pandang — is the largest city in eastern Indonesia and the gateway to [Sulawesi](/asia/indonesia/sulawesi). Sprawling along the southwest coast, it is a busy port city with a long trading history: Bugis and Makassarese sailors once dominated commerce across the Indonesian archipelago, and the city's old harbour at Paotere still fills with wooden pinisi schooners.

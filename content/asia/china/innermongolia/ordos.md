@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Ordos_City
 title: Ordos
 type: location
+heritage: 3.9
+vibrancy: 1.2
+nature: 6.6
+off_the_beaten_track: 6.6
 ---
 
 Ordos became briefly famous around 2010 as China's most spectacular ghost city — a gleaming new administrative district called [Kangbashi](/asia/china/innermongolia/ordos/kangbashi_district), built from scratch in the middle of the desert to house a million people, which stood nearly empty for years after completion. The ghost city narrative has aged: Kangbashi has since filled in, with schools, shops, and residents gradually arriving to inhabit its wide boulevards and monumental public buildings. The [Ordos Museum](/asia/china/innermongolia/ordos/ordos_museum), designed by MAD Architects in a spectacular polished steel building, is the district's architectural highlight.

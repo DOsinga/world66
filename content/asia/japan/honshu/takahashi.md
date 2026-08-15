@@ -8,7 +8,12 @@ sources:
 - https://en.wikivoyage.org/wiki/Takahashi
 title: Takahashi
 type: location
-original_overview: Takahashi is a city in Okayama Prefecture in the western Chugoku region of Honshu, Japan.
+original_overview: Takahashi is a city in Okayama Prefecture in the western Chugoku
+  region of Honshu, Japan.
+heritage: 4.2
+vibrancy: 4.2
+nature: 5.7
+off_the_beaten_track: 3.5
 ---
 
 Takahashi is a small castle town in Okayama Prefecture, best known for [Bitchu Matsuyama Castle](/asia/japan/honshu/takahashi/bitchu_matsuyama_castle), Japan's highest surviving original mountain castle. It is much less visited than [Himeji](/asia/japan/honshu/himeji) or [Matsumoto](/asia/japan/honshu/matsumoto), which is part of the appeal: the climb, stone walls, and compact keep still feel like a journey rather than a queue.

@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Sumbawa_Besar
 title: Sumbawa
 type: location
+heritage: 3.3
+vibrancy: 2.1
+nature: 7.7
+off_the_beaten_track: 6.2
 ---
 
 Sumbawa is a large island in West Nusa Tenggara, east of [Lombok](/asia/indonesia/lombok) and larger than Bali and Lombok combined. It is divided into three administrative regencies — Sumbawa Regency in the west, Dompu in the centre, and Bima in the east — roughly corresponding to the three former sultanates that once ruled the island. The main town, Sumbawa Besar, sits on the north coast about halfway along the island's length.

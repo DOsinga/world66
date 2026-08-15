@@ -6,12 +6,17 @@ latitude: -21.1411
 longitude: 149.1858
 wikidata: Q704371
 score: 6.3
-snippet: Tropical Queensland sugar port on the Pioneer River, with art, gardens, and coastal paths.
+snippet: Tropical Queensland sugar port on the Pioneer River, with art, gardens, and
+  coastal paths.
 sources:
-  - https://en.wikivoyage.org/wiki/Mackay
-  - https://www.mackay.qld.gov.au/redirects/bluewatertrail
-  - https://www.queensland.com/us/en/plan-your-holiday/journeys/p-56b265b2d5f1565045da8cae-bluewater-trail
-  - https://en.wikipedia.org/wiki/Mackay,_Queensland
+- https://en.wikivoyage.org/wiki/Mackay
+- https://www.mackay.qld.gov.au/redirects/bluewatertrail
+- https://www.queensland.com/us/en/plan-your-holiday/journeys/p-56b265b2d5f1565045da8cae-bluewater-trail
+- https://en.wikipedia.org/wiki/Mackay,_Queensland
+heritage: 1.6
+vibrancy: 3.0
+nature: 6.4
+off_the_beaten_track: 2.3
 ---
 
 Mackay is a working tropical city on the Pioneer River, halfway between the resort pull of the Whitsundays and the mining roads inland. It is often treated as a gateway, but the city itself has enough riverfront, public art, gardens, and old Queensland streetscape to make a spare day worthwhile.

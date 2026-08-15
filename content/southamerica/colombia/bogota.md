@@ -27,6 +27,10 @@ tip: Bogotá sprawls across a high Andean plateau at 2,640 m, so it's cool year-
   the Ciclovía.
 title: Bogota
 type: location
+heritage: 6.1
+vibrancy: 8.0
+nature: 4.4
+off_the_beaten_track: 1.5
 ---
 
 Bogota sits at 2,640 metres in the eastern Andes, a sprawling capital of eight million people where colonial churches share blocks with glass towers and street art covers every spare wall. The altitude catches newcomers off guard -- the air is thin, the sun surprisingly strong, and the temperature hovers around 14 degrees year-round. Give yourself a day to adjust before tackling the hills.

@@ -14,6 +14,10 @@ snippet: Railroad town in southwestern Wyoming's Bear River Valley, with Union P
   history and nearby High Uinta scenery.
 title: Evanston
 type: location
+heritage: 1.4
+vibrancy: 1.7
+nature: 5.9
+off_the_beaten_track: 3.0
 ---
 
 Evanston sits in the Bear River Valley in Wyoming's southwestern corner, right against the Utah state line. It's a working railroad town — the Union Pacific runs through here — and it has the unpretentious, practical character that comes with that history. The High Uinta Mountains rise to the south, the Bear River winds through town, and the whole area feels genuinely western without trying to be.

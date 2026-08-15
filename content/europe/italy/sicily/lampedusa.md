@@ -15,6 +15,10 @@ tags:
 - pelagianislands
 title: Lampedusa
 type: location
+heritage: 4.5
+vibrancy: 5.0
+nature: 5.8
+off_the_beaten_track: 5.0
 ---
 
 Lampedusa sits closer to Tunisia than to Sicily, and the landscape makes no secret of it. Flat, sun-scorched rock, wild rosemary, and a sea that turns an improbable shade of turquoise — this small island belongs geologically to Africa, even if it flies the Italian flag.

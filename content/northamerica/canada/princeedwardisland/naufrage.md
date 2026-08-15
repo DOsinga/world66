@@ -13,6 +13,10 @@ snippet: Tiny Prince Edward Island fishing harbour on the north shore, marked by
   red-and-white lighthouse.
 title: Naufrage
 type: location
+heritage: 4.7
+vibrancy: 1.2
+nature: 6.1
+off_the_beaten_track: 4.3
 ---
 
 Naufrage is a tiny bayside village in Kings County on Prince Edward Island's northeast coast, the kind of quiet PEI that visitors come looking for — farm country, red sand beaches, and clear Atlantic water. Seals are a regular sight from the shore in the morning. The name comes from the French word for shipwreck — this stretch of coastline was dangerous for sailing ships in the age before a lighthouse.

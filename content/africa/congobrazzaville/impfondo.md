@@ -10,6 +10,10 @@ snippet: Remote Ubangi River town in northern Congo, capital of the forested Lik
   department.
 title: Impfondo
 type: location
+heritage: 1.5
+vibrancy: 3.3
+nature: 6.3
+off_the_beaten_track: 7.2
 ---
 
 Impfondo is the capital of the Likouala department in the far north of the Republic of the Congo, roughly 800 kilometres from [Brazzaville](/africa/congobrazzaville/brazzaville) on the western bank of the [Ubangi River](/africa/congobrazzaville/impfondo/ubangi_river). It is about as far off the beaten track as you can get in Central Africa.

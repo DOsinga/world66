@@ -16,6 +16,10 @@ sources:
 - https://whc.unesco.org/en/list/217/
 title: Nesebar
 type: location
+heritage: 8.2
+vibrancy: 4.3
+nature: 6.9
+off_the_beaten_track: 3.3
 ---
 
 Nesebar is one of Bulgaria's most distinctive coastal towns: a compact old settlement on a rocky peninsula, joined to the mainland by a narrow causeway and packed with medieval brick churches. The Black Sea resort sprawl comes right up to its edge, but the old town still has enough stone, timber, and sea air to justify the crowds.

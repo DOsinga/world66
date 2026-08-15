@@ -11,6 +11,10 @@ image: caesarea.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Sunset_at_Caesarea,_Israel_(34442675915).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Yair Aronshtam from Israel
+heritage: 7.8
+vibrancy: 4.5
+nature: 5.9
+off_the_beaten_track: 2.1
 ---
 
 Caesarea is the great Roman-and-Crusader port on the coast about forty kilometres north of Tel Aviv, between Tel Aviv and Haifa. Herod the Great built it from nothing in the first century BC, naming it for the emperor Augustus and engineering a vast artificial harbour out into the open sea — at the time one of the largest in the Mediterranean. The harbour silted up centuries ago, but the ruins it served are still spread along the shore: a Roman theatre, a hippodrome, the foundations of Herod's seaside palace, and a Crusader fortress whose walls and moat were thrown up over the older town a thousand years later.

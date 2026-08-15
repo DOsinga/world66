@@ -13,6 +13,10 @@ loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Fort_Bragg,_California
 - https://www.visitcalifornia.com/experience/glass-beach-fort-bragg/
+heritage: 2.8
+vibrancy: 3.2
+nature: 7.5
+off_the_beaten_track: 2.5
 ---
 
 Fort Bragg is a working coastal town on the Mendocino County coast — not a resort, but a real place where fishing boats still go out every morning and the fog burns off by afternoon. It sits at the northern end of the dramatic stretch of Highway 1 that makes the Mendocino coast one of the most scenic drives in California, and it makes a better base than the prettier but pricier town of [Mendocino](/northamerica/unitedstates/california/northcoast/mendocino) itself, ten miles south.

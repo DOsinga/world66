@@ -13,6 +13,10 @@ snippet: Tiny Georgia Piedmont county seat, centred on a courthouse square and A
   Stephens history.
 title: Crawfordville, Georgia
 type: location
+heritage: 2.2
+vibrancy: 1.8
+nature: 3.6
+off_the_beaten_track: 1.7
 ---
 
 Crawfordville is the county seat of Taliaferro County, one of the smallest and most rural counties in Georgia. The town has fewer than 600 people and sits in a quiet stretch of the Georgia Piedmont between Augusta and Atlanta, well off the interstate. It is the kind of place where the courthouse square is genuinely the center of everything, and you can drive for miles in any direction through farmland and pine forest without hitting a stoplight.

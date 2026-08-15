@@ -14,6 +14,10 @@ snippet: Saale valley university city framed by limestone cliffs and linked to G
   philosophy and optics.
 title: Jena
 type: location
+heritage: 5.6
+vibrancy: 3.6
+nature: 3.8
+off_the_beaten_track: 1.3
 ---
 
 Jena occupies a dramatic position in the valley of the Saale river, where limestone cliffs and wooded hillsides press close on both sides of the water. The city has the feel of a place shaped by ideas as much as by industry, and this is historically accurate: the Friedrich Schiller University, founded in 1558, attracted a concentration of philosophical and literary talent in the 1790s and 1800s that remains almost unparalleled in German cultural history. Schiller himself lived and wrote here, Goethe visited frequently from nearby [Weimar](/europe/germany/thuringia/weimar), Hegel wrote the Phenomenology of Spirit in the city, and Fichte and Schlegel held chairs here simultaneously.

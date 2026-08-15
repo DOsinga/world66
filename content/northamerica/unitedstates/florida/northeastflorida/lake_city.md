@@ -18,6 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Osceola_National_Forest
 title: Lake City
 type: location
+heritage: 4.4
+vibrancy: 4.1
+nature: 4.8
+off_the_beaten_track: 2.4
 ---
 
 Lake City sits at the junction of I-10 and I-75 in north Florida, a practical stop and a reasonable base for the spring-fed rivers and forests of the region. The town itself is modest — its past as a farming community is still visible — but the surrounding area has real attractions.

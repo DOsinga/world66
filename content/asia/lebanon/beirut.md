@@ -24,6 +24,10 @@ tip: Beirut is a resilient, hard-partying Mediterranean city that has rebuilt it
   legendary.
 title: Beirut
 type: location
+heritage: 4.8
+vibrancy: 7.4
+nature: 3.0
+off_the_beaten_track: 2.3
 ---
 
 Beirut is a city that refuses to stay down. Built on a rocky promontory at the centre of Lebanon's coast, it has been destroyed and rebuilt so many times that resilience is practically its defining characteristic. The civil war (1975-1990) leveled much of the city centre. Reconstruction was well underway when the catastrophic port explosion of August 2020 devastated entire neighbourhoods. Economic collapse, political crisis and the 2024 conflict have all taken their toll. And yet Beirut remains vibrant, compelling and alive in a way few cities can match.

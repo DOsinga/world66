@@ -13,6 +13,10 @@ image: castleton.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Castleton,_Derbyshire_-_geograph.org.uk_-_2035485.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Graham Hogg
+heritage: 5.8
+vibrancy: 2.6
+nature: 4.3
+off_the_beaten_track: 1.9
 ---
 
 Castleton sits at the head of the Hope Valley where the limestone White Peak meets the gritstone Dark Peak, and the geology makes it the most dramatic village in the national park. Peveril Castle — a Norman fortress commissioned by William the Conqueror — stands on the ridge above the village, with views over Mam Tor and the Great Ridge. Peak Cavern lies directly below the castle, its entrance one of the largest in Britain.

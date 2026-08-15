@@ -15,6 +15,10 @@ image: rankin_inlet.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Iqalugaarjuup_Nunanga_Territorial_Park_4_-_Near_Melidine_River.jpg
 image_license: CC BY-SA 4.0
 image_attribution: OhanaUnited
+heritage: 3.9
+vibrancy: 0.8
+nature: 7.3
+off_the_beaten_track: 7.1
 ---
 
 Rankin Inlet is a Kivalliq hub on the west coast of Hudson Bay, remote by southern Canadian standards but central to travel across mainland [Nunavut](/northamerica/canada/nunavut). It began its modern life beside a nickel mine in the 1950s and now works as a government, transport, and service centre for the region. The town is windy, practical, and very Arctic: gravel roads, wide sky, tundra at the edge of town, and light that changes the mood of the place by the hour.

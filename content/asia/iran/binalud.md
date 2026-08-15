@@ -11,6 +11,10 @@ image: binalud.jpg
 image_source: https://commons.wikimedia.org/wiki/File:The_Binalud_mountain_range,_Neyshabur_,_Near_the_Hakim_Hospital.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Ehsan Basafa
+heritage: 1.7
+vibrancy: 1.5
+nature: 5.6
+off_the_beaten_track: 5.6
 ---
 
 The Binalud range rises immediately west of [Mashhad](/asia/iran/mashhad), forming the green wall that separates the city from the plain of [Neyshabur](/asia/iran/neyshabur) beyond. Its high point is Mount Binalud at 3,211 m, and the range is the natural lung of the region — the place Mashhadis head when the summer heat settles over the city.

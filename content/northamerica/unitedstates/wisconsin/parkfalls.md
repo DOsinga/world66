@@ -10,6 +10,10 @@ snippet: Northern Wisconsin city serving as a gateway to Chequamegon-Nicolet for
   Northwoods lakes, and Flambeau River country.
 title: Park Falls
 type: location
+heritage: 1.8
+vibrancy: 1.9
+nature: 5.8
+off_the_beaten_track: 2.4
 ---
 
 Park Falls is a small city in Price County, northern Wisconsin, and the gateway to the [Chequamegon-Nicolet National Forest](/northamerica/unitedstates/wisconsin/parkfalls/chequamegon_nicolet_national_forest) — a vast tract of 1.5 million acres of public land that surrounds the area. The region is popular with anglers, hunters, canoeists, and hikers who come for the lakes and rivers of the Wisconsin Northwoods.

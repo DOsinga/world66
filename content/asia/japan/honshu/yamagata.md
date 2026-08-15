@@ -17,6 +17,10 @@ image: yamagata.jpg
 image_source: https://commons.wikimedia.org/wiki/File:211029_Risshaku-ji_Yamagata_Yamagata_pref_Japan65s3.jpg
 image_license: CC BY-SA 4.0
 image_attribution: 663highland
+heritage: 4.2
+vibrancy: 4.1
+nature: 5.8
+off_the_beaten_track: 2.7
 ---
 
 Yamagata is a compact Tohoku capital with more texture than its plain grid first suggests. It has castle moats and museums in the centre, Taisho-era public buildings, a serious food culture, and one of northern Japan's great temple climbs at Yamadera just outside the city core.

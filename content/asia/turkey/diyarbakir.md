@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Hevsel_Gardens
 title: Diyarbakir
 type: location
+heritage: 6.5
+vibrancy: 5.4
+nature: 3.9
+off_the_beaten_track: 5.2
 ---
 
 Diyarbakır is defined by its walls — a nearly continuous 6km circuit of black basalt built by the Romans and extended by successive rulers over two millennia. Walk stretches of the top for views over the old city rooftops, the Tigris valley below, and the flat steppe stretching south toward Syria. The walls were inscribed as a UNESCO World Heritage Site in 2015, together with the hevsel bahçeleri — seven hundred hectares of market gardens in the flood plain below the walls, cultivated since the Neolithic.

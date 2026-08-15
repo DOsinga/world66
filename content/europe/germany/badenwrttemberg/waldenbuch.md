@@ -6,13 +6,18 @@ latitude: 48.6372
 longitude: 9.1317
 wikidata: Q515637
 score: 6.8
-snippet: Small Swabian town near Stuttgart, best known for Ritter Sport chocolate and museum stops.
+snippet: Small Swabian town near Stuttgart, best known for Ritter Sport chocolate
+  and museum stops.
 sources:
 - https://en.wikivoyage.org/wiki/Waldenbuch
 - https://www.wikidata.org/wiki/Q515637
 - https://www.waldenbuch.de/zielgruppen%2Benglisch/home.html
 - https://www.ritter-sport.com/waldenbuch
 - https://www.stuttgart-tourist.de/en/a-museum-of-popular-culture-waldenbuch-castle
+heritage: 5.0
+vibrancy: 1.9
+nature: 6.0
+off_the_beaten_track: 2.2
 ---
 
 Waldenbuch is a small town south of [Stuttgart](/europe/germany/badenwrttemberg/stuttgart), sitting at the edge of the Schonbuch forest. It would be easy to dismiss as a suburb, but it has a clear travel hook: this is Ritter Sport's home town, and chocolate, art, and everyday culture are packed into a walkable centre.

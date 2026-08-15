@@ -5,10 +5,15 @@ loc_type: feature
 latitude: -4.5572
 longitude: 129.6838
 score: 0.37
-snippet: Tiny Banda island where nutmeg history, quiet beaches, and the Manhattan trade meet.
+snippet: Tiny Banda island where nutmeg history, quiet beaches, and the Manhattan
+  trade meet.
 sources:
-  - https://en.wikivoyage.org/wiki/Pulau_Run
-  - https://en.wikipedia.org/wiki/Run_(island)
+- https://en.wikivoyage.org/wiki/Pulau_Run
+- https://en.wikipedia.org/wiki/Run_(island)
+heritage: 3.5
+vibrancy: 0.6
+nature: 7.4
+off_the_beaten_track: 7.0
 ---
 
 Pulau Run is a small island in the Banda group with a history far bigger than its size. In the 17th century, this remote nutmeg island mattered enough to European empires that England eventually gave up its claim here in return for Dutch recognition of English rule in Manhattan.

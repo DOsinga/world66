@@ -10,6 +10,10 @@ snippet: Oasis town in Mauritania's Adrar desert, where caravan-era ruins crumbl
   above palm groves and a dry wadi.
 title: Ouadane
 type: location
+heritage: 3.2
+vibrancy: 1.1
+nature: 5.7
+off_the_beaten_track: 7.5
 ---
 
 Ouadane had its glory days when the slave and gold caravans between Morocco and Ghana made their last stop here. That was long ago. Now there is just a quiet oasis town left, a UNESCO World Heritage Site slowly crumbling in the desert.

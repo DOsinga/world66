@@ -3,14 +3,19 @@ title: São Luiz do Paraitinga
 type: location
 loc_type: city
 latitude: -23.2219
-longitude: -45.3100
+longitude: -45.31
 score: 6.9
-snippet: Colonial São Paulo town known for caipira festivals, restored heritage streets, and Serra do Mar trails.
+snippet: Colonial São Paulo town known for caipira festivals, restored heritage streets,
+  and Serra do Mar trails.
 wikidata: Q1646919
 sources:
-  - https://en.wikivoyage.org/wiki/S%C3%A3o_Luiz_do_Paraitinga
-  - https://en.wikipedia.org/wiki/S%C3%A3o_Luiz_do_Paraitinga
-  - https://guiadeareasprotegidas.sp.gov.br/ap/parque-estadual-serra-do-mar-nucleo-santa-virginia/
+- https://en.wikivoyage.org/wiki/S%C3%A3o_Luiz_do_Paraitinga
+- https://en.wikipedia.org/wiki/S%C3%A3o_Luiz_do_Paraitinga
+- https://guiadeareasprotegidas.sp.gov.br/ap/parque-estadual-serra-do-mar-nucleo-santa-virginia/
+heritage: 3.8
+vibrancy: 4.5
+nature: 7.4
+off_the_beaten_track: 3.9
 ---
 
 São Luiz do Paraitinga is a small town in the Paraíba Valley of São Paulo state, between the old coffee country and the Serra do Mar. Its centre is the draw: rows of 19th-century houses, churches, and public buildings that were badly damaged by the 2010 Paraitinga River flood and then rebuilt with unusual care.

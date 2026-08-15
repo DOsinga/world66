@@ -13,6 +13,10 @@ image: usse.jpg
 image_source: https://commons.wikimedia.org/wiki/File:07_CVL_-_Indre-et-Loire_-_Rigny-Uss%C3%A9_(2015-09-03_11-06-16).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Johan Allard
+heritage: 5.5
+vibrancy: 3.5
+nature: 6.1
+off_the_beaten_track: 3.4
 ---
 
 If you are a prince searching for your Sleeping Beauty, look no further. It is here at the Château d'Ussé that Charles Perrault supposedly found his inspiration for the famous fairy tale — and looking at the château from across the Indre river, with its towers, turrets, and white tufa walls rising against a backdrop of dark forest, it is easy to see why. Whether or not the story is literally true, the château is as beautiful as can be.

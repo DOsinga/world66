@@ -13,6 +13,10 @@ snippet: Lakeside town on Lago d'Orta, facing Isola San Giulio and backed by the
   Monte.
 title: Orta San Giulio
 type: location
+heritage: 4.6
+vibrancy: 4.8
+nature: 7.4
+off_the_beaten_track: 2.4
 ---
 
 Lago d'Orta is one of the most beautiful and least crowded lakes in northern Italy, easily rivalling the more famous Lago Maggiore next door. The tiny [Isola San Giulio](/europe/italy/piemonte/orta/isola_san_giulio), reached by boat from the waterfront, is a medieval gem of cobbled lanes you can walk around in half an hour, with a [Romanesque basilica](/europe/italy/piemonte/orta/basilica_di_san_giulio) at its centre and a working Benedictine monastery on its eastern half.

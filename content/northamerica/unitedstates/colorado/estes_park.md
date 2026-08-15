@@ -13,6 +13,10 @@ image: estes_park.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Brownfield%27s_Trading_Post,_Estes_Park,_2009.jpg
 image_license: CC0
 image_attribution: DimiTalen
+heritage: 2.5
+vibrancy: 3.8
+nature: 7.6
+off_the_beaten_track: 1.8
 ---
 
 Estes Park is the mountain town at the eastern door of [Rocky Mountain National Park](/northamerica/unitedstates/colorado/estes_park/rocky_mountain_national_park). It sits in a high valley at about 7,500 feet, surrounded by granite peaks, pine forest, and meadows where elk wander with very little concern for traffic.

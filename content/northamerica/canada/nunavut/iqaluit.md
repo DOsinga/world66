@@ -13,6 +13,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Apex_Nunavut.JPG
 image_license: Public domain
 image_attribution: Aaron M Lloyd
 snippet: Nunavut capital on Baffin Island, where tundra begins at the edge of town.
+heritage: 4.9
+vibrancy: 1.6
+nature: 7.6
+off_the_beaten_track: 5.8
 ---
 
 Iqaluit is the capital of [Nunavut](/northamerica/canada/nunavut) and the gateway to the Eastern Arctic. Formerly known as Frobisher Bay, it sits on the southeastern coast of Baffin Island and is home to about 8,000 people — a growing city by Arctic standards, but still a place where the tundra begins at the edge of town and polar bears occasionally wander through the outskirts.

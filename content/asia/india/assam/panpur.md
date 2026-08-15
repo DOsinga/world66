@@ -10,6 +10,10 @@ snippet: Small Assam village near Manas National Park, surrounded by Bhutan-bord
   wildlife and riverine forest
 title: Panpur
 type: location
+heritage: 1.9
+vibrancy: 1.4
+nature: 5.3
+off_the_beaten_track: 5.4
 ---
 
 Panpur is a small village near [Manas National Park](/asia/india/assam/panpur/manas_national_park) in western Assam, close to the Bhutan border. The area forms part of the buffer zone around Manas, a UNESCO World Heritage Site and one of northeast India's most biodiverse wildlife reserves.

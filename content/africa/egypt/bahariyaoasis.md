@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Bahariya_Oasis
 title: Bahariya Oasis
 type: location
+heritage: 8.3
+vibrancy: 0.5
+nature: 8.4
+off_the_beaten_track: 7.2
 ---
 
 Bahariya is the northernmost of Egypt's Western Desert oases — a depression in the plateau about 365 km southwest of Cairo, where underground springs have sustained human settlement since pharaonic times. The oasis is 94 km long and 40 km wide, and the main town of Bawiti sits roughly 150 metres below the surrounding desert plateau. Around 30,000 people live here across several villages; palm groves, olive orchards, and irrigated fields cluster around the springs, with bare black volcanic hills rising behind them.

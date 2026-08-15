@@ -14,6 +14,10 @@ snippet: Inland Thessalian capital with ancient theatres, Ottoman traces, and a 
   working-city university rhythm.
 title: Larissa
 type: location
+heritage: 6.9
+vibrancy: 2.9
+nature: 4.4
+off_the_beaten_track: 2.9
 ---
 
 Larissa is the capital of Thessaly and Greece's largest inland city, yet it barely registers on most travellers' itineraries. That is precisely its appeal. This is a working Greek city with a lively university population, excellent tavernas, and none of the tourist infrastructure — or prices — of the islands.

@@ -14,6 +14,10 @@ snippet: Charente river town whose warehouses and blackened walls are shaped by 
   brandy bearing its name
 title: Cognac
 type: location
+heritage: 7.3
+vibrancy: 3.9
+nature: 3.2
+off_the_beaten_track: 2.4
 ---
 
 The small town of Cognac, on the banks of the Charente river, exists largely because of the spirit that shares its name. When you arrive you can actually smell it -- the evaporation from tens of thousands of aging barrels (the "angel's share") feeds a black fungus that coats the walls of the warehouses and gives the old town a distinctive dark patina.

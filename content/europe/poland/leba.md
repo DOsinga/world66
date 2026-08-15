@@ -14,6 +14,10 @@ title: Leba
 type: location
 snippet: Baltic fishing port beside Słowiński National Park and the shifting white
   Łącka Dune.
+heritage: 5.3
+vibrancy: 2.9
+nature: 4.4
+off_the_beaten_track: 2.7
 ---
 
 Łeba is a small fishing port and beach resort on Poland's Baltic coast, best known for the Słowiński National Park that brackets it on both sides. The park's crowning feature is the [Łącka Dune](/europe/poland/leba/lacka_dune), one of Europe's largest moving sand dunes — a wall of white sand that creeps steadily inland, slowly swallowing the forest behind it. The sight of pine trees half-buried in sand is genuinely strange and memorable. [Lake Łebsko](/europe/poland/leba/lake_lebsko), a vast coastal lagoon within the park, stretches south of the dune trail and is an important wildlife habitat.

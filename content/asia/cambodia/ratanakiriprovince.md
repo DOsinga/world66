@@ -14,6 +14,10 @@ title: Ban Lung
 type: location
 snippet: Rough-edged Ratanakiri capital and northeast Cambodia base for crater lakes,
   waterfalls, and forest tracks.
+heritage: 2.7
+vibrancy: 1.9
+nature: 5.5
+off_the_beaten_track: 5.2
 ---
 
 Ban Lung is the rough-edged capital of [Ratanakiri Province](/asia/cambodia/ratanakiriprovince), tucked into Cambodia's remote northeast corner where the forests are thick, the roads are muddy, and the modern world feels very far away. It is not a polished destination — a monument in the main square shares its plinth with a herd of grazing goats, and the market overflows with produce carried in on foot from the surrounding hills — but that's exactly its appeal. This is a base for exploration, not a place to lounge.

@@ -10,6 +10,10 @@ snippet: Garhwal Himalayan town at the sacred confluence of the Pindar and Alakn
   rivers.
 title: Karanprayag
 type: location
+heritage: 4.4
+vibrancy: 5.5
+nature: 6.5
+off_the_beaten_track: 4.0
 ---
 
 Karanprayag sits at 788 m in the Chamoli district of Uttarakhand, where the Pindar River descends from the Pindari Glacier to meet the Alaknanda. It is one of the Panch Prayag — the five sacred river confluences in the Garhwal Himalaya — and draws Hindu pilgrims as well as trekkers using the town as a base for routes into the high mountains.

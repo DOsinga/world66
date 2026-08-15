@@ -17,6 +17,10 @@ image: grunwald_battlefield.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gmina_Grunwald,_Poland_-_panoramio_(1).jpg
 image_license: CC BY 3.0
 image_attribution: Piotr Przybyszewski
+heritage: 6.1
+vibrancy: 1.6
+nature: 2.2
+off_the_beaten_track: 2.6
 ---
 
 About 50 km south of Olsztyn lies the gently rolling field where, on 15 July 1410, the combined Polish-Lithuanian army under King Władysław Jagiełło crushed the Teutonic Knights. The battle is one of the foundational events of Polish national identity.

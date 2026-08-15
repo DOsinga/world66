@@ -25,6 +25,10 @@ tip: Manarola is the prettiest of the Cinque Terre five for photos — shoot it 
   up by dry-stone walls. Take the train between the villages rather than driving.
 title: Manarola
 type: location
+heritage: 6.2
+vibrancy: 5.3
+nature: 6.7
+off_the_beaten_track: 2.1
 ---
 
 Manarola is the most photogenic of the five Cinque Terre villages — the one you have seen on every postcard, with stacked pastel houses tumbling down a steep ravine to a tiny harbour. It sits between [Riomaggiore](/europe/italy/liguria/riomaggiore) and [Corniglia](/europe/italy/liguria/corniglia) on the Ligurian coast, connected to both by train and by the coastal hiking path.

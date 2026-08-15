@@ -24,6 +24,10 @@ tip: Wellington is the world's southernmost capital and famously windy — local
   It's also the home of Middle-earth's film studios.
 title: Wellington
 type: location
+heritage: 3.3
+vibrancy: 5.5
+nature: 7.3
+off_the_beaten_track: 3.2
 ---
 
 Wellington is the southernmost capital in the world, wedged between a deep harbour and a ring of forested hills. It is a compact, walkable city where you can go from [parliament](/australiaandpacific/newzealand/north_island/greater_wellington/wellington/beehive) to a wild south coast beach in twenty minutes. The wind is relentless — Wellingtonians will tell you that with a mix of pride and resignation.

@@ -15,6 +15,10 @@ image: ponda.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Goa,_India.From_a_templa_at_Ponda_taluka_(sub-district).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Fredericknoronha
+heritage: 6.4
+vibrancy: 5.1
+nature: 4.8
+off_the_beaten_track: 2.5
 ---
 
 Ponda is the inland Goa that beach holidays often miss. The town itself is busy and workaday, but the villages around it hold some of Goa's most important Hindu temples, old shrines moved here during Portuguese rule, spice plantations, and the small but worthwhile Bondla Wildlife Sanctuary in the Western Ghats foothills.

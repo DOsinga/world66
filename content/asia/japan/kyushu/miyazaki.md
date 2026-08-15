@@ -17,6 +17,10 @@ image: miyazaki.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aoshima.jpg
 image_license: CC BY 3.0
 image_attribution: STA 3816
+heritage: 4.2
+vibrancy: 5.3
+nature: 6.2
+off_the_beaten_track: 1.9
 ---
 
 Miyazaki is Kyushu at its sunniest: palms, broad streets, surf beaches, and a coastline where shrine mythology sits right beside resort Japan. It is less dense and less famous than Fukuoka or Nagasaki, but it has a relaxed southern pace and enough strong sights for a full day.

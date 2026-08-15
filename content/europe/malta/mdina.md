@@ -13,6 +13,10 @@ snippet: Fortified Maltese hilltop city whose silent limestone lanes preserve th
   island's old capital.
 title: Mdina
 type: location
+heritage: 9.5
+vibrancy: 3.6
+nature: 5.7
+off_the_beaten_track: 3.1
 ---
 
 Mdina is Malta's ancient capital, a fortified hilltop city in the centre of the island that the locals still call "the Silent City." The name fits. Behind the [baroque main gate](/europe/malta/mdina/mdina_gate), the narrow limestone streets are almost empty — no cars, very few residents, and a stillness that feels centuries old. The Knights of St John moved the capital to [Valletta](/europe/malta/valletta) in the 1570s, and Mdina has been quietly dignified ever since.

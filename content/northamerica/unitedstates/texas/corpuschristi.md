@@ -16,6 +16,10 @@ sources:
 - https://www.visitcorpuschristi.com/things-to-do/
 title: Corpus Christi
 type: location
+heritage: 2.9
+vibrancy: 5.4
+nature: 2.5
+off_the_beaten_track: 1.4
 ---
 
 Corpus Christi is the big city of the Texas Coastal Bend, wrapped around a wide bay and pushed constantly by Gulf wind. It is part port, part beach base, part working South Texas city, and it feels very different from the polished resort towns farther up the coast.

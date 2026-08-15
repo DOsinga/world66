@@ -13,6 +13,10 @@ score: 6.71
 snippet: High Andean capital of Nariño, set beneath Galeras volcano near Ecuador.
 title: Pasto
 type: location
+heritage: 5.5
+vibrancy: 5.3
+nature: 5.5
+off_the_beaten_track: 3.2
 ---
 
 Pasto is the capital of the Nariño department in the far south of Colombia, sitting at 2,500 metres in the Andes not far from the Ecuadorian border. The city sits in a high plateau under the bulk of the active [Galeras volcano](/southamerica/colombia/pasto/volcan_galeras). For centuries it has been an important religious and cultural centre, and the city retains a strong colonial character. Among its richly decorated churches, the most notable are the [Iglesia de Cristo Rey](/southamerica/colombia/pasto/iglesia_de_cristo_rey) and the [Iglesia de San Juan Bautista](/southamerica/colombia/pasto/iglesia_de_san_juan_bautista).

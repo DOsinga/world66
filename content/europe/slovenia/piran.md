@@ -15,6 +15,10 @@ snippet: Venetian Adriatic town on Slovenia's coast, with narrow medieval street
   and Tartini Square at its heart.
 title: Piran
 type: location
+heritage: 3.7
+vibrancy: 3.8
+nature: 7.1
+off_the_beaten_track: 2.8
 ---
 
 Piran is the most beautiful town on the Slovenian coast — a compact Venetian peninsula jutting into the Adriatic with medieval streets so narrow two people can barely pass. It looks, feels, and smells like Italy, but remains gloriously Slovenian.

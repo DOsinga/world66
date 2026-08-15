@@ -16,6 +16,10 @@ image: muzaffar_abad.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Muzaffarabad,_Azad_Kashmir,_Pakistan.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Fiaz3300
+heritage: 3.2
+vibrancy: 2.1
+nature: 8.0
+off_the_beaten_track: 6.3
 ---
 
 **Muzaffarabad** is the capital of Azad Kashmir, sitting at the [confluence of the Jhelum and Neelum rivers](/asia/pakistan/azad_kashmir/muzaffar_abad/river_confluence) in a valley surrounded by forested mountains. The setting is spectacular — green hills rising steeply on all sides, the rivers rushing through the centre of town.

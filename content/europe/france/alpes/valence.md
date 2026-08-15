@@ -14,6 +14,10 @@ image: valence.jpg
 image_source: https://commons.wikimedia.org/wiki/File:C%C3%B4te_des_chapeliers.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Toutaitanous 2
+heritage: 4.0
+vibrancy: 5.5
+nature: 6.0
+off_the_beaten_track: 2.1
 ---
 
 Valence sits on the left bank of the Rhône, roughly halfway between [Lyon](/europe/france/alpes/lyon) and [Marseille](/europe/france/cotedazur/marseille), and most travelers encounter it as a stop on the way south. That's a reasonable way to use it — the TGV pauses here, the autoroute passes just outside, and the old town is compact enough to explore in a few hours. Founded as a Roman colony and later a bishopric of some importance, Valence spent centuries caught between rival powers, which at least left it with decent architecture.

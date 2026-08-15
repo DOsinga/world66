@@ -14,6 +14,10 @@ snippet: Southern Guam village with Chamorro traditions, Spanish colonial traces
   and a reef-protected lagoon facing Cocos Island
 title: Merizo
 type: location
+heritage: 4.4
+vibrancy: 1.2
+nature: 7.2
+off_the_beaten_track: 4.9
 ---
 
 Merizo is a small village at the southern tip of Guam, one of the most traditional Chamorro communities on the island. It sits on a calm lagoon protected by a reef, with [Cocos Island](/australiaandpacific/guam/merizo/cocos_island) visible just offshore. The pace of life here is noticeably slower than in the tourist areas to the north, and the concentration of Spanish colonial heritage makes it the most historically interesting village on Guam.

@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Churachandpur
 title: Churachandpur
 type: location
+heritage: 4.0
+vibrancy: 2.8
+nature: 6.1
+off_the_beaten_track: 6.3
 ---
 
 Churachandpur is a hill town about 60 kilometres south of Imphal, the district headquarters of Churachandpur district in the southern part of Manipur. It is primarily a Kuki tribal town with a predominantly Christian population — the result of American Baptist missionary activity in the late nineteenth and early twentieth centuries.

@@ -16,6 +16,10 @@ image: linz.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Blick_%C3%BCber_Linz_von_der_Franz-Josefs-Warte.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Thomas Ledl
+heritage: 6.4
+vibrancy: 5.1
+nature: 3.1
+off_the_beaten_track: 1.8
 ---
 
 Linz is Austria's third-largest city, sitting on the Danube about halfway between Vienna and Salzburg. For a long time it carried an industrial reputation — steel mills on the southern edge, a name most outsiders associated with Hitler's childhood home. That reputation has largely given way to something more interesting: Linz has quietly become one of Austria's best cities for contemporary art and design.

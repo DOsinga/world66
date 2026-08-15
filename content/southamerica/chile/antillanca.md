@@ -9,6 +9,10 @@ snippet: Rustic Chilean ski area inside Puyehue National Park, set among araucar
   forest and volcanic peaks
 title: Antillanca
 type: location
+heritage: 3.3
+vibrancy: 1.6
+nature: 8.0
+off_the_beaten_track: 6.0
 ---
 
 Antillanca is a small, rustic ski resort tucked inside Puyehue National Park in Chile's Los Lagos Region. With five lifts and slopes that top out around 1,500 meters, it is not a big-name destination — and that is exactly the draw. The runs are uncrowded, the off-piste terrain is excellent, and the setting among ancient araucaria forests and volcanic peaks is hard to beat.

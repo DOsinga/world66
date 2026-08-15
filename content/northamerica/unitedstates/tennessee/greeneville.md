@@ -9,13 +9,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Andrew-johnson-house-tn1.j
 image_license: CC BY 3.0
 image_attribution: Brian Stansberry
 score: 6.2
-snippet: East Tennessee town where Andrew Johnson, the State of Franklin, and old downtown houses overlap.
+snippet: East Tennessee town where Andrew Johnson, the State of Franklin, and old
+  downtown houses overlap.
 sources:
-  - https://en.wikivoyage.org/wiki/Greeneville
-  - https://www.nps.gov/anjo/planyourvisit/placestogo.htm
-  - https://www.mainstreetgreeneville.org/tours
-  - https://www.greenevillegreenecountyhistorymuseum.com/
-  - https://site.tusculum.edu/reference/museums/
+- https://en.wikivoyage.org/wiki/Greeneville
+- https://www.nps.gov/anjo/planyourvisit/placestogo.htm
+- https://www.mainstreetgreeneville.org/tours
+- https://www.greenevillegreenecountyhistorymuseum.com/
+- https://site.tusculum.edu/reference/museums/
+heritage: 4.9
+vibrancy: 2.9
+nature: 4.3
+off_the_beaten_track: 2.0
 ---
 
 Greeneville is a small East Tennessee town with a surprisingly dense slice of early American history. It was the home of Andrew Johnson, the tailor who became the 17th president after Lincoln's assassination, and the National Park Service preserves his shop, homes, and grave in the middle of town.

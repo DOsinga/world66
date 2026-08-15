@@ -14,6 +14,10 @@ title: “Tacoma”
 type: location
 snippet: Puget Sound city south of Seattle, rebuilt around glass art, museums, and
   wide mountain views.
+heritage: 2.9
+vibrancy: 3.3
+nature: 5.2
+off_the_beaten_track: 1.6
 ---
 
 About thirty minutes south of [Seattle](/northamerica/unitedstates/washington/seattle), Tacoma juts northward into Puget Sound with Commencement Bay to the east and the Tacoma Narrows to the west. Mount Rainier looms on the southern horizon and the Olympic Mountains fill the western skyline — on a clear day the views here rival anything in Seattle.

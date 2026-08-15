@@ -13,6 +13,10 @@ snippet: Subtropical Northland bay of 144 islands, warm sheltered water, and Wai
   history.
 title: Bay of Islands
 type: location
+heritage: 4.5
+vibrancy: 5.1
+nature: 7.6
+off_the_beaten_track: 3.6
 ---
 
 The Bay of Islands is one of New Zealand's most popular holiday destinations — a subtropical scatter of 144 islands off Northland's east coast, about three hours' drive north of Auckland. The water is warm by New Zealand standards, the scenery is spectacular, and the bay's sheltered harbours have drawn visitors since Captain Cook first anchored here in 1769.

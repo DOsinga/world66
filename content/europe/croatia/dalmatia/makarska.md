@@ -13,6 +13,10 @@ snippet: Dalmatian Riviera town where Biokovo's limestone wall rises directly be
   the harbour.
 title: Makarska
 type: location
+heritage: 3.4
+vibrancy: 4.0
+nature: 7.5
+off_the_beaten_track: 2.9
 ---
 
 Makarska is the main town of the Makarska Riviera, on the Dalmatian coast about 60 kilometres southeast of [Split](/europe/croatia/split). The town sits at the foot of the Biokovo massif — a dramatic limestone range that rises sharply from the sea — giving it one of the most striking backdrops on the Croatian coast. The old town is centred on the Baroque [Kačić Square](/europe/croatia/dalmatia/makarska/kacic_square) with its [Church of St Mark](/europe/croatia/dalmatia/makarska/st_marks_church); just west the 16th-century [Franciscan monastery](/europe/croatia/dalmatia/makarska/franciscan_monastery) hides an unexpectedly serious seashell museum.

@@ -13,6 +13,10 @@ image: udong.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Oudong_Cambodia_November_1964_01.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Don Christie
+heritage: 3.9
+vibrancy: 3.0
+nature: 5.5
+off_the_beaten_track: 5.4
 ---
 
 Udong (also spelled Oudong) was the royal capital of Cambodia for more than 250 years, from the early 17th century until the court moved to Phnom Penh in 1866. Today it is a modest market town about 40km north of the capital, easily reached on a half-day trip and well worth the drive for anyone interested in the country's pre-colonial history.

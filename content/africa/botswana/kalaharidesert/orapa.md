@@ -10,6 +10,10 @@ snippet: Closed Botswana company town built around one of the world's largest op
   diamond mines
 title: Orapa
 type: location
+heritage: 4.2
+vibrancy: 1.1
+nature: 6.1
+off_the_beaten_track: 7.5
 ---
 
 Orapa is home to one of the world's largest open-pit diamond mines. De Beers geologists discovered diamonds here in 1967, just a year after Botswana's independence, and the [Orapa diamond mine](/africa/botswana/kalaharidesert/orapa/orapa_diamond_mine) was in production by 1971. The discovery transformed the country's fortunes: Botswana went from one of Africa's poorest nations to one of its most prosperous, and the pula became one of the continent's stronger currencies.

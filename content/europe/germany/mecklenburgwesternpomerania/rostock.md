@@ -13,6 +13,10 @@ snippet: Baltic Hanseatic port city with brick Gothic churches, medieval remnant
   and the Warnemünde seaside district.
 title: Rostock
 type: location
+heritage: 5.8
+vibrancy: 5.4
+nature: 5.2
+off_the_beaten_track: 2.0
 ---
 
 Rostock is the largest city in Mecklenburg-Western Pomerania, a former Hanseatic League trading port on the Baltic coast with a population of around 200,000. The old town retains much of its medieval character — gabled merchant houses, brick Gothic churches, and stretches of the old city wall, all rebuilt after heavy wartime damage.

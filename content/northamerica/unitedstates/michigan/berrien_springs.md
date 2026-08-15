@@ -13,6 +13,10 @@ snippet: Small southwestern Michigan village linked to Andrews University, Seven
   Adventist history, and an old courthouse square.
 title: Berrien Springs
 type: location
+heritage: 2.2
+vibrancy: 2.5
+nature: 4.3
+off_the_beaten_track: 1.9
 ---
 
 Home of [Andrews University](/northamerica/unitedstates/michigan/berrien_springs/andrews_university) and [Pioneer Memorial Church](/northamerica/unitedstates/michigan/berrien_springs/pioneer_memorial_church), Berrien Springs is a small village just off US-31 in southwestern Michigan. The village itself is not much more than a few stores, gas stations, and restaurants, but it carries more historical weight than its size suggests, especially in relation to the early history of Seventh-day Adventism and to nineteenth-century county government.

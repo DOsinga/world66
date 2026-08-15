@@ -17,6 +17,10 @@ image: canandaigua.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Downtown_Canandaigua,_NY.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Daniel Case
+heritage: 4.9
+vibrancy: 3.8
+nature: 5.5
+off_the_beaten_track: 1.5
 ---
 
 Canandaigua sits at the northern end of Canandaigua Lake, one of the broad, clear Finger Lakes south of Rochester. It is more workaday than storybook [Skaneateles](/northamerica/unitedstates/newyorkstate/skaneateles), but that is part of its appeal: a real small city with a long main street, boat traffic at the pier, and lake hills rising just beyond town.

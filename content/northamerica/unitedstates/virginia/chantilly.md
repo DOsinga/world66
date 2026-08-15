@@ -9,6 +9,10 @@ done:
   location_cleanup: '2026-04-10'
 score: 6.39
 loc_type: city
+heritage: 3.4
+vibrancy: 3.8
+nature: 4.4
+off_the_beaten_track: 1.1
 ---
 
 Chantilly is a census-designated place in Fairfax County in northern Virginia, part of the sprawling Washington D.C. suburbs near Dulles International Airport. Its main draw for visitors is the Steven F. Udvar-Hazy Center, the Smithsonian's enormous air and space annex, which houses full-sized aircraft including the Space Shuttle Discovery and a Concorde. The surrounding area is dominated by office parks and shopping centres.

@@ -13,6 +13,10 @@ image: grimaldi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Savuto_Valle_da_Scigliano.jpg
 image_license: Public domain
 image_attribution: Ferdinando Chiodo
+heritage: 3.2
+vibrancy: 2.0
+nature: 5.0
+off_the_beaten_track: 4.1
 ---
 
 Grimaldi claims to be the geographic centre of Calabria, which gives it a symbolic weight the small population of around 2,000 people takes seriously. The town was largely destroyed by the 1783 earthquake and rebuilt at a nearby site; the ruins of the original settlement are still accessible a short distance away, an eerie open-air museum of collapsed streets and half-standing walls.

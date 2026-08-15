@@ -16,6 +16,10 @@ snippet: Steep Swiss lake city above Geneva's shore, known for Olympic history, 
   stone, and Lavaux vineyards
 title: Lausanne
 type: location
+heritage: 6.6
+vibrancy: 6.0
+nature: 5.0
+off_the_beaten_track: 1.5
 ---
 
 Lausanne tumbles down three steep hills to the shore of Lake Geneva, and that verticality shapes everything about the city. You are always climbing or descending, catching sudden views of the lake and the French Alps beyond. It is a compact place — walkable in theory, breathless in practice — with a medieval old town stacked above a lakefront that feels almost Mediterranean on a summer evening.

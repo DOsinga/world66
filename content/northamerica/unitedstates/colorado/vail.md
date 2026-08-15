@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Vail_Ski_Resort
 title: Vail
 type: location
+heritage: 1.7
+vibrancy: 4.5
+nature: 6.7
+off_the_beaten_track: 1.7
 ---
 
 Vail is one of the largest and most famous ski resorts in North America, set in a narrow valley along Gore Creek at 2,500 metres in the Colorado Rockies. The resort opened in 1962 and the town that grew up around it is purpose-built — Tyrolean-style architecture, pedestrian village cores, and a relentless focus on the ski experience.

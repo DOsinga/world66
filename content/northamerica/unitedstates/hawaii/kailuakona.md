@@ -14,6 +14,10 @@ snippet: Sunny Big Island resort town on lava-rock shores, beside royal Hawaiian
   and Kona coffee slopes
 title: Kailua-Kona
 type: location
+heritage: 3.0
+vibrancy: 4.5
+nature: 7.6
+off_the_beaten_track: 1.7
 ---
 
 Kailua-Kona sits on the dry, leeward side of the Big Island — the side that doesn't get the rain. While the rest of Hawaii can be lush and overcast, Kona is reliably sunny, which is exactly why it became the island's tourist hub. The town stretches along [Alii Drive](/northamerica/unitedstates/hawaii/kailuakona/alii_drive), a seaside road lined with shops, restaurants, and lava-rock shores where the Pacific crashes in hard. Two of the oldest buildings in the islands, [Hulihee Palace](/northamerica/unitedstates/hawaii/kailuakona/hulihee_palace) and [Mokuaikaua Church](/northamerica/unitedstates/hawaii/kailuakona/mokuaikaua_church), stand within a few hundred metres of [Kamakahonu](/northamerica/unitedstates/hawaii/kailuakona/kamakahonu), the site of King Kamehameha's final residence.

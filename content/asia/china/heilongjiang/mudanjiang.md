@@ -13,6 +13,10 @@ snippet: Eastern Heilongjiang city in the Mudan River valley, used as the gatewa
   to volcanic Jingpo Lake.
 title: Mudanjiang
 type: location
+heritage: 2.4
+vibrancy: 2.6
+nature: 6.7
+off_the_beaten_track: 4.3
 ---
 
 Mudanjiang is the gateway to eastern Heilongjiang, a mid-sized city in the Mudan River valley that most visitors treat as a base for the surrounding landscapes rather than as a destination itself. That is fair: the city is pleasant but not remarkable. What lies around it, however, is excellent.

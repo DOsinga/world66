@@ -17,6 +17,10 @@ image: barnaul.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Barnaul_tram_1024_2024-06_1717320486_Svobody_Square,_Barnaul_Tatra_T6B5.jpg
 image_license: CC BY 4.0
 image_attribution: Artyom Svetlov
+heritage: 3.9
+vibrancy: 3.4
+nature: 4.0
+off_the_beaten_track: 4.4
 ---
 
 *Europe > Russia > Barnaul*

@@ -14,6 +14,10 @@ snippet: Borderland city between the Mournes and Slieve Gullion, built around ca
   trade, and crossing routes.
 title: Newry
 type: location
+heritage: 4.4
+vibrancy: 3.6
+nature: 5.1
+off_the_beaten_track: 1.9
 ---
 
 Newry straddles the border between Northern Ireland and the Republic in all but name — the frontier is just a few miles south, and the town has always been a crossing point. It sits in the gap between the [Mourne Mountains](/europe/unitedkingdom/northernireland/newry/mourne_mountains) and [Slieve Gullion](/europe/unitedkingdom/northernireland/newry/slieve_gullion), with the [Newry Canal](/europe/unitedkingdom/northernireland/newry/newry_canal) (the oldest summit-level canal in the British Isles) running through the centre.

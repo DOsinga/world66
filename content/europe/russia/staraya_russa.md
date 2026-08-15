@@ -14,6 +14,10 @@ image: staraya_russa.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Staraya_Russa._Cathedral_of_Resurrection_of_Christ_P7200961_2350.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Alexxx1979
+heritage: 6.5
+vibrancy: 2.4
+nature: 3.8
+off_the_beaten_track: 3.1
 ---
 
 Staraya Russa is an old town south of [Novgorod](/europe/russia/novgorod), known for mineral springs, medieval churches, and its deep connection with Fyodor Dostoevsky. It is quieter than Novgorod and more literary than monumental, but that is exactly its appeal.

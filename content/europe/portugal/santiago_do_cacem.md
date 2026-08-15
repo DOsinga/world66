@@ -16,6 +16,10 @@ sources:
 title: Santiago do Cacém
 type: location
 wikidata: Q990433
+heritage: 4.2
+vibrancy: 2.9
+nature: 5.9
+off_the_beaten_track: 3.2
 ---
 
 Santiago do Cacém is a small Alentejo hill town that looks modest at first, then starts to justify a day once you climb toward the castle and realise how much history is packed around it. The old centre is a tangle of white streets below medieval walls, with wide views west toward the plains and the Atlantic coast.

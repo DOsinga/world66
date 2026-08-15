@@ -14,6 +14,10 @@ snippet: Hawke's Bay agricultural city with Art Deco architecture from the 1931 
   rebuild.
 title: Hastings
 type: location
+heritage: 4.1
+vibrancy: 3.8
+nature: 5.7
+off_the_beaten_track: 3.2
 ---
 
 Hastings is a prosperous agricultural city in [Hawke's Bay](/australiaandpacific/newzealand/north_island/hawkes_bay), set in the wide Heretaunga Plains about twenty minutes inland from the coast. It was almost entirely rebuilt after the devastating 1931 earthquake — one of New Zealand's deadliest natural disasters — and the reconstruction left it with a remarkable concentration of Art Deco and Spanish Mission architecture, rivalling [Napier](/australiaandpacific/newzealand/north_island/hawkes_bay/napier) as a showcase of the style.

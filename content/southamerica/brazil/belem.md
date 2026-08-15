@@ -14,6 +14,10 @@ image_license: CC BY-SA 2.0
 image_attribution: mlcastle on Flickr
 snippet: Amazon port city and Pará capital, with colonial old-town sights and busy
   river-market culture.
+heritage: 4.1
+vibrancy: 7.1
+nature: 6.9
+off_the_beaten_track: 3.5
 ---
 
 The city of Mango trees is the main port of the Amazon, and as harbor cities go a very busy and industrialized area. It’s the economic center of the north and the capital of the state of Para. Being close to Equator line it’s also very hot, and almost contradictory to this also one of the rainiest cities in the world. Attracted to the possible job offers, Belem has many poor inhabitants and quite extensive slum areas around it, but the center has quite some pretty places. 

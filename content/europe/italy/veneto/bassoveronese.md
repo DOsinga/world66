@@ -14,6 +14,10 @@ image: bassoveronese.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Rice_harvesting_in_the_lands_of_the_lower_Verona_area_(1877-78),_by_Giacomo_Favretto.jpg
 image_license: Public domain
 image_attribution: Giacomo Favretto
+heritage: 4.1
+vibrancy: 3.1
+nature: 5.6
+off_the_beaten_track: 2.9
 ---
 
 The Basso Veronese is the flat agricultural plain south of [Verona](/europe/italy/veneto/verona), stretching between the Adige River and the Po. This is one of Italy's most productive farming zones — irrigated by a network of canals and ditches — but it is also rich in history, as the extraordinary number of castles and fortified towns demonstrates.

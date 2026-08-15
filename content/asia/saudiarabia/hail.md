@@ -12,6 +12,10 @@ sources:
 - https://whc.unesco.org/en/list/1472/
 title: Ha'il
 type: location
+heritage: 3.7
+vibrancy: 1.4
+nature: 2.5
+off_the_beaten_track: 6.0
 ---
 
 Ha'il occupies a striking position in the Saudi landscape, sitting between the Great Nafud desert to the north and the Aja and Salma mountain ranges that frame the city. For centuries it served as a crossroads for pilgrims, traders, and Bedouin tribes moving across the Arabian interior. The Rashidi dynasty ruled from here in the 19th century, and the city retains a proud sense of its own identity, distinct from the Hejaz to the west and the Najd heartland to the south. Visitors who make the effort to reach Ha'il find a city that feels authentically Saudi in ways that the more cosmopolitan coastal cities do not.

@@ -17,6 +17,10 @@ image: sherborne.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Sherborne_Abbey_(Dorset)_-_geograph.org.uk_-_7135800.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Barry King
+heritage: 6.0
+vibrancy: 3.0
+nature: 3.9
+off_the_beaten_track: 2.0
 ---
 
 Sherborne is one of Dorset's handsomest inland towns, built from warm ochre hamstone on the edge of the Blackmore Vale. It has the scale of a small market town, but the architectural weight of somewhere that mattered for a long time.

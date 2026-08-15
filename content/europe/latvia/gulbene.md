@@ -17,6 +17,10 @@ image: gulbene.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gulbene,_Gulbenes_pils%C4%93ta,_Latvia_-_panoramio_(7).jpg
 image_license: CC BY 3.0
 image_attribution: Aleksandrs Timofejevs
+heritage: 5.3
+vibrancy: 2.0
+nature: 4.6
+off_the_beaten_track: 2.9
 ---
 
 Gulbene is a small town in northeastern Latvia, out in Vidzeme's quieter manor and forest country. It is too far from [Riga](/europe/latvia/riga) to be an accidental stop, but the town has one very good reason to come: the Gulbene-Alūksne narrow-gauge railway.

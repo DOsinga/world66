@@ -13,6 +13,10 @@ image: mount_etna_park.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mount_Etna_2001_Flow_061613.JPG
 image_license: CC0
 image_attribution: Wilson44691
+heritage: 7.5
+vibrancy: 1.8
+nature: 8.1
+off_the_beaten_track: 5.5
 ---
 
 The Parco dell'Etna is the protected area around Mount Etna, Europe's tallest and most active volcano, rising to over 3,300 metres on the eastern coast of [Sicily](/europe/italy/sicily) above [Catania](/europe/italy/sicily/catania). The park encompasses 20 municipalities and a remarkable range of landscapes — lava deserts, chestnut and pine forests, vineyards on volcanic soil, and the smoking summit craters themselves.

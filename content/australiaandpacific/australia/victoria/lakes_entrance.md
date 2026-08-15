@@ -15,6 +15,10 @@ image: lakes_entrance.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lakes_Entrance_(AU),_Cunningham_Quay_--_2019_--_1697.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Dietmar Rabich
+heritage: 1.9
+vibrancy: 3.8
+nature: 6.2
+off_the_beaten_track: 1.8
 ---
 
 Lakes Entrance is exactly named: the place where the Gippsland Lakes cut through the coastal dunes and meet the Southern Ocean. The town is a working fishing port and holiday base on the edge of Ninety Mile Beach, with jetties, pelicans, lake cruises, and surf all within a short walk.

@@ -16,6 +16,10 @@ tags:
 - friesland
 title: Sloten
 type: location
+heritage: 4.8
+vibrancy: 2.1
+nature: 1.8
+off_the_beaten_track: 1.9
 ---
 
 Sloten (Sleat in Frisian) is the smallest of the eleven historic cities of Friesland and one of the most photogenic small towns in the Netherlands. It received its city rights in 1426, but never grew beyond what its 17th-century ramparts could contain: a population today of around 700, walking distance from one fortified wall to the other in five minutes.

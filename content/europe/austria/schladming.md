@@ -14,6 +14,10 @@ snippet: Styrian Alpine town between Dachstein and the Schladminger Tauern, cent
   on skiing and old mining streets.
 title: Schladming
 type: location
+heritage: 2.3
+vibrancy: 4.0
+nature: 7.4
+off_the_beaten_track: 2.0
 ---
 
 **Schladming** is a small town of about 7,000 people in the **Enns Valley** of Styria, in the southern Austrian Alps, and one of the most important ski resorts in Austria. It sits at 745 metres, wedged between the limestone peaks of the **Dachstein** massif to the north and the schist mountains of the **Schladminger Tauern** to the south. The town has a pretty pedestrianised centre of pastel-painted houses and onion-domed church towers, and a history going back over 600 years (originally as a silver and copper mining town). But most visitors come for the snow.

@@ -16,6 +16,10 @@ image: martigny.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Amphith%C3%A9%C3%A2tre_romain_de_Martigny_-_Stands_est.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Christian David
+heritage: 4.8
+vibrancy: 4.0
+nature: 6.2
+off_the_beaten_track: 3.3
 ---
 
 Martigny sits at the elbow of the Rhône Valley in the Valais, where the valley bends sharply north toward Lake Geneva. It is a small town that has been a crossroads for two thousand years — the Romans knew it as Octodurus and built an amphitheatre here, which you can still visit at the [Forum d'Octodure](/europe/switzerland/martigny/roman_amphitheatre) on the eastern edge of town, surprisingly well-preserved for a site this far from the Mediterranean. The ruined [La Bâtiaz Castle](/europe/switzerland/martigny/la_batiaz_castle) on its promontory above town marks the medieval chapter of the same story.

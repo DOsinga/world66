@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Sokobanja
 title: Sokobanja
 type: location
+heritage: 5.3
+vibrancy: 3.5
+nature: 6.4
+off_the_beaten_track: 3.7
 ---
 
 Sokobanja is a well-established spa town in eastern Serbia, set in a wooded valley at around 400 metres elevation. The town has been drawing visitors for its [thermal mineral springs](/europe/serbia/sokobanja/thermal_baths) since the 19th century — in fact since Roman times — and today it remains one of Serbia's most popular domestic resort destinations, particularly for Serbs seeking a cure or simply a break from the city.

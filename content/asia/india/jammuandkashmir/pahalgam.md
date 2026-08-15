@@ -14,6 +14,10 @@ snippet: Kashmir trekking town at the Lidder and Sheshnag rivers, gateway to Aru
   and Amarnath.
 title: Pahalgam
 type: location
+heritage: 8.4
+vibrancy: 4.8
+nature: 7.7
+off_the_beaten_track: 4.6
 ---
 
 Pahalgam sits at the confluence of the Lidder and Sheshnag rivers at 2,130 m, about 96 km east of Srinagar. It is the main trekking base in the Kashmir Valley and the starting point for the annual Amarnath pilgrimage, one of the most significant Hindu pilgrimages in India.

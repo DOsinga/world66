@@ -11,6 +11,10 @@ image: roquefort.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Roquefort.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Unknown
+heritage: 5.1
+vibrancy: 5.3
+nature: 5.6
+off_the_beaten_track: 4.0
 ---
 
 Roquefort-sur-Soulzon is a small village perched on the edge of the Combalou plateau in the Aveyron, notable for a single extraordinary fact: the natural fissures and caves beneath it are the only place in the world where genuine Roquefort cheese can legally be made. The cool, humid air that circulates through the *fleurines* — narrow natural ventilation shafts — maintains exactly the conditions the Penicillium roqueforti mould needs to create the characteristic blue-green veins in the raw sheep's milk curd.

@@ -5,13 +5,18 @@ loc_type: city
 latitude: 33.9125
 longitude: 133.1875
 score: 7.1
-snippet: Ehime spring-water city below Mount Ishizuchi, with pilgrimage temples and wild autumn festivals.
+snippet: Ehime spring-water city below Mount Ishizuchi, with pilgrimage temples and
+  wild autumn festivals.
 wikidata: Q633945
 sources:
-  - https://en.wikivoyage.org/wiki/Saijo
-  - https://www.visitehimejapan.com/en/see-and-do/384
-  - https://s-trp.jp/en/
-  - https://architectuul.com/architecture/komyo-ji-temple
+- https://en.wikivoyage.org/wiki/Saijo
+- https://www.visitehimejapan.com/en/see-and-do/384
+- https://s-trp.jp/en/
+- https://architectuul.com/architecture/komyo-ji-temple
+heritage: 4.1
+vibrancy: 3.3
+nature: 3.8
+off_the_beaten_track: 1.8
 ---
 
 Saijo sits on the northern side of Shikoku, where clear water runs down from Mount Ishizuchi and appears in town as uchinuki, the artesian springs locals still use for drinking water. It is a working Ehime city rather than a polished tourist town, but it has a strong identity: mountain gateway, pilgrimage stop, sake-and-water town, and festival city.

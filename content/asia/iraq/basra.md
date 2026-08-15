@@ -13,6 +13,10 @@ snippet: Iraq's southern seaport on the Shatt al-Arab, linked to Sinbad and mars
   trade
 title: Basra
 type: location
+heritage: 5.7
+vibrancy: 2.5
+nature: 2.9
+off_the_beaten_track: 7.4
 ---
 
 Iraq's second-largest city and main seaport, Basra sits in the far south of the country, about 130 km from the Persian Gulf and 550 km southeast of [Baghdad](/asia/iraq/baghdad). It was founded as a military base by Caliph Omar in the 7th century and quickly became a major trading port — in the tales of the Thousand and One Nights, Sinbad the Sailor always sets out from Basra.

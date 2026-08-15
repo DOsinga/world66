@@ -14,6 +14,10 @@ snippet: Andaman Sea island group between Phuket and Krabi, known for limestone 
   and coral reefs.
 title: Koh Phi Phi
 type: location
+heritage: 2.0
+vibrancy: 5.5
+nature: 2.4
+off_the_beaten_track: 0.5
 ---
 
 The Phi Phi islands are the kind of place that looks too good to be real — sheer limestone cliffs rising from turquoise water, white sand beaches backed by palms, and coral reefs just offshore. Located in the Andaman Sea between [Phuket](/asia/thailand/phuket) and [Krabi](/asia/thailand/krabi), the archipelago consists of two main islands: Phi Phi Don, where all the accommodation and nightlife is, and Phi Phi Leh, an uninhabited national park island famous as the filming location for *The Beach*.

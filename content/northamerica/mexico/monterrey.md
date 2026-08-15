@@ -15,6 +15,10 @@ snippet: Northern Mexican industrial city beneath the Sierra Madre, with museums
   public plazas around the Macroplaza.
 title: Monterrey
 type: location
+heritage: 6.0
+vibrancy: 5.6
+nature: 4.8
+off_the_beaten_track: 2.0
 ---
 
 Monterrey is Mexico's third-largest city and its industrial and financial powerhouse — founded in 1596 and named after the Spanish Viceroy Count Monterrey, it has always been more focused on commerce than culture. That said, the city has invested heavily in its public spaces and museums, and it's a genuinely interesting place to spend a few days.

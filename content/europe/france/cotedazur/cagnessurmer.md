@@ -14,6 +14,10 @@ snippet: Côte d'Azur town split between medieval Haut-de-Cagnes and the beach r
   below.
 title: Cagnes-sur-Mer
 type: location
+heritage: 4.5
+vibrancy: 5.4
+nature: 5.5
+off_the_beaten_track: 2.1
 ---
 
 Cagnes-sur-Mer sits between Nice and Antibes on the Côte d'Azur, split between a medieval hilltop village and a modern beach resort below. The two parts barely resemble each other: the lower town, [Cros-de-Cagnes](/europe/france/cotedazur/cagnessurmer/cros_de_cagnes_beach), is a functional coastal resort, while [Haut-de-Cagnes](/europe/france/cotedazur/cagnessurmer/haut_de_cagnes) is a remarkably intact medieval hill village of narrow lanes, old houses, and sweeping views over the coast.

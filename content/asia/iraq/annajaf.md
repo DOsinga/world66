@@ -14,6 +14,10 @@ snippet: Shia pilgrimage city in Iraq, centred on the golden-domed Imam Ali Shri
   and Wadi al-Salaam.
 title: An najaf
 type: location
+heritage: 6.0
+vibrancy: 1.8
+nature: 1.6
+off_the_beaten_track: 7.0
 ---
 
 An Najaf is one of the holiest cities in Shia Islam and the natural highlight of any pilgrimage to Iraq. The [Imam Ali Shrine](/asia/iraq/annajaf/imam_ali_shrine), with its golden dome that can be seen from 40 km on a clear day, dominates the old city. Around it press the seminaries of the hawza, the souks selling prayer beads and turbas, and a constant tide of pilgrims from Iran, Lebanon, the Gulf and beyond.

@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Poyang_Lake
 title: Poyang Lake
 type: location
+heritage: 3.1
+vibrancy: 1.3
+nature: 6.1
+off_the_beaten_track: 4.0
 ---
 
 Poyang Lake is China's largest freshwater lake and one of the most important wetland ecosystems in East Asia. Fed by five major river systems and draining northward into the Yangtze, it occupies a basin in northern Jiangxi that expands dramatically during the summer flood season and contracts to a fraction of its peak size in winter droughts — a fluctuation that creates a mosaic of open water, exposed mudflats, and reed beds that shifts with the seasons. In normal wet years the lake stretches over 3,200 square kilometers; in severe drought years it has fallen below 200.

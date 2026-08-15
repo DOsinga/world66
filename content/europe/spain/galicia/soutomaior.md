@@ -14,6 +14,10 @@ snippet: Small Galician municipality near the Vigo ria, known for its hilltop ca
   and gardens.
 title: Soutomaior
 type: location
+heritage: 3.6
+vibrancy: 2.1
+nature: 4.9
+off_the_beaten_track: 3.8
 ---
 
 Soutomaior is a small municipality near the ria of Vigo in southern [Galicia](/europe/spain/galicia). The reason to come here is the Castle of Soutomaior, set on a hilltop with fine views over the surrounding countryside.

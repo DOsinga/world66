@@ -16,6 +16,10 @@ image: balikesir.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bal%C4%B1kesir_Salih_Tozan_Cultural_Center.jpg
 image_license: CC0
 image_attribution: Hustle77
+heritage: 4.6
+vibrancy: 4.4
+nature: 4.3
+off_the_beaten_track: 2.6
 ---
 
 Balıkesir is an inland provincial capital between Istanbul, Bursa, Izmir, and the northern Aegean coast. It is mostly modern and workaday, so do not expect the drama of [Bursa](/asia/turkey/bursa) or the seaside charm of [Ayvalik](/asia/turkey/ayvalik). What it does have is a compact centre with a few worthwhile Ottoman and Republican-era sights.

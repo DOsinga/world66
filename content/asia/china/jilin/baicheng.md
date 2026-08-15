@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Baicheng
 title: Baicheng
 type: location
+heritage: 1.6
+vibrancy: 1.8
+nature: 2.6
+off_the_beaten_track: 1.9
 ---
 
 Baicheng occupies the northwestern corner of Jilin Province, where the landscape opens into grassland and wetland on the edge of the Mongolian steppe. The city itself is an agricultural and light-industrial centre that dates its modern form to the early twentieth century, when railways arrived and the surrounding land was opened to farming. It is not a place most travellers to Jilin Province ever reach, and this obscurity is itself part of its character — the city functions for the people who live in it, without particular attention to outsiders, and has the comfortable self-sufficiency of places that don't depend on tourism.

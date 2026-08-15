@@ -14,6 +14,10 @@ snippet: Warm Bolivian city of gaucho roots, leafy squares, and the high-altitud
   wines of nearby Concepción.
 title: Tarija
 type: location
+heritage: 2.5
+vibrancy: 2.7
+nature: 4.5
+off_the_beaten_track: 3.8
 ---
 
 Tarija is the most Argentine city in Bolivia — in the best possible way. Its people are descended from gauchos who drifted north across the border, and the city still carries that unhurried, slightly European character you find in places like [Jujuy](/southamerica/argentina/jujuy) and [Salta](/southamerica/argentina/salta). The climate is warm and dry, the squares are leafy, and the food and wine are dramatically better than you'd expect at this altitude.

@@ -14,6 +14,10 @@ snippet: Medieval Valdelsa hill town near San Vivaldo's Renaissance chapels in a
   Tuscan hillside.
 title: Montaione
 type: location
+heritage: 6.2
+vibrancy: 4.3
+nature: 5.8
+off_the_beaten_track: 1.5
 ---
 
 Montaione is a small medieval hill town in the Valdelsa, halfway between Florence and Volterra. It sees far fewer visitors than its neighbours, which is part of the appeal — this is workaday Tuscany, not postcard Tuscany, though the views from the old centre are postcard-worthy all the same.

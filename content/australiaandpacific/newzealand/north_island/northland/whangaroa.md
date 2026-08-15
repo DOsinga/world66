@@ -5,11 +5,16 @@ loc_type: feature
 latitude: -35.0482
 longitude: 173.7302
 score: 6.9
-snippet: Northland harbour district of drowned valleys, white beaches, bush tracks, and old kauri history.
+snippet: Northland harbour district of drowned valleys, white beaches, bush tracks,
+  and old kauri history.
 sources:
-  - https://en.wikivoyage.org/wiki/Whangaroa
-  - https://en.wikipedia.org/wiki/Whangaroa_Harbour
-  - https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/whangaroa-area/
+- https://en.wikivoyage.org/wiki/Whangaroa
+- https://en.wikipedia.org/wiki/Whangaroa_Harbour
+- https://www.doc.govt.nz/parks-and-recreation/places-to-go/northland/places/whangaroa-area/
+heritage: 2.8
+vibrancy: 1.9
+nature: 6.8
+off_the_beaten_track: 4.2
 ---
 
 Whangaroa is less a single town than a harbour district on the Far North coast, north of the Bay of Islands and south of Doubtless Bay. Its appeal is the shape of the place: a drowned river valley, steep volcanic outcrops, mangrove arms, small settlements, and beaches that still feel more local than resort-built.

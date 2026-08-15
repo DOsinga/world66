@@ -17,6 +17,10 @@ image: edmundston.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Edmundston,_New_Brunswick_skyline_(2024).jpg
 image_license: CC BY 4.0
 image_attribution: Quintin Soloviev
+heritage: 2.5
+vibrancy: 1.7
+nature: 5.1
+off_the_beaten_track: 3.8
 ---
 
 Edmundston sits in the far northwest of New Brunswick, where the Madawaska and Saint John rivers meet Maine and Quebec. Many travellers know it only as a highway stop, but the city has a stronger identity than that: French-speaking, Brayon, borderland, and proud of its odd little Republic of Madawaska mythology.

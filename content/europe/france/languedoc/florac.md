@@ -16,6 +16,10 @@ tags:
 - cevennes
 title: Florac
 type: location
+heritage: 3.9
+vibrancy: 3.2
+nature: 6.2
+off_the_beaten_track: 3.1
 ---
 
 Florac (now officially Florac Trois Rivières) is the gateway to the Cévennes, sitting at the foot of the dramatic Causse Méjean where three rivers converge. The Cévennes National Park headquarters is here, and the town makes the natural base for exploring one of [France's](/europe/france) least populated and most beautiful landscapes.

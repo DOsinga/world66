@@ -5,12 +5,17 @@ loc_type: city
 latitude: 33.9167
 longitude: 132.2333
 score: 6.6
-snippet: Seto Inland Sea island town known for mandarin orchards, beaches, and its Hawaii emigration story.
+snippet: Seto Inland Sea island town known for mandarin orchards, beaches, and its
+  Hawaii emigration story.
 sources:
-  - https://en.wikivoyage.org/wiki/Suo-Oshima
-  - https://suooshima-hawaii-imin.com/en
-  - https://www.visit-jy.com/en/spots/13345
-  - https://www.visit-jy.com/en/spots/13264
+- https://en.wikivoyage.org/wiki/Suo-Oshima
+- https://suooshima-hawaii-imin.com/en
+- https://www.visit-jy.com/en/spots/13345
+- https://www.visit-jy.com/en/spots/13264
+heritage: 2.8
+vibrancy: 1.7
+nature: 5.3
+off_the_beaten_track: 3.6
 ---
 
 Suo-Oshima is a long island town in eastern Yamaguchi Prefecture, linked to the mainland by the Oshima Bridge and looking south across the Seto Inland Sea. It is rural, spread out, and best with a car, but it has a clear identity: mandarin orchards, small fishing ports, beaches, and a surprisingly strong historic connection with Hawaii.

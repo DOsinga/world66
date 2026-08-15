@@ -12,6 +12,10 @@ snippet: Jurassic Coast World Heritage cliffs, chalk downland, market towns, and
   Purbeck peninsula.
 title: Dorset
 type: location
+heritage: 5.4
+vibrancy: 3.5
+nature: 7.0
+off_the_beaten_track: 4.2
 ---
 
 Dorset is one of England's most beautiful counties — mostly rural, with rolling chalk downs, wide clay valleys full of small dairy farms, and a coastline that is genuinely spectacular. The Jurassic Coast, a 95-mile stretch of cliffs and beaches from Studland to Lyme Regis, is a UNESCO World Heritage Site and one of the finest geological exposures in the world. Fossils tumble out of the cliffs after every winter storm.

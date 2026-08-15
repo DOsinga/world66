@@ -5,11 +5,16 @@ loc_type: city
 latitude: 57.6667
 longitude: 14.9667
 score: 7.2
-snippet: Småland wooden town with preserved old streets, small museums, and nearby forest ravines.
+snippet: Småland wooden town with preserved old streets, small museums, and nearby
+  forest ravines.
 sources:
-  - https://en.wikivoyage.org/wiki/Eksj%C3%B6
-  - https://en.wikipedia.org/wiki/Eksj%C3%B6
-  - https://www.visitsmaland.se/en/destinations/eksjo/
+- https://en.wikivoyage.org/wiki/Eksj%C3%B6
+- https://en.wikipedia.org/wiki/Eksj%C3%B6
+- https://www.visitsmaland.se/en/destinations/eksjo/
+heritage: 7.7
+vibrancy: 2.8
+nature: 4.8
+off_the_beaten_track: 2.6
 ---
 
 Eksjö is one of Småland's best small-town stops. The reason is Gamla stan, the old wooden town: narrow streets, courtyards, and painted timber houses that survived the fires and rebuilding that erased so many Swedish town centres.

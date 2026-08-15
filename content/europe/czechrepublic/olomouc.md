@@ -16,6 +16,10 @@ snippet: Moravian university city of baroque fountains, a UNESCO plague column, 
   a socialist-realist astronomical clock.
 title: Olomouc
 type: location
+heritage: 7.8
+vibrancy: 5.3
+nature: 3.1
+off_the_beaten_track: 1.9
 ---
 
 Olomouc is one of the most underrated cities in Czechia. The historic center rivals Brno and even parts of Prague for architectural beauty, but it sees a fraction of the tourists. It was the capital of Moravia until the Thirty Years' War and retains a strong sense of its own history.

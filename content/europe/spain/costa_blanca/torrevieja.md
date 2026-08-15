@@ -14,6 +14,10 @@ snippet: Alicante coastal town backed by pink and green salt lakes beside the Co
   Blanca beaches.
 title: Torrevieja
 type: location
+heritage: 2.7
+vibrancy: 4.8
+nature: 5.4
+off_the_beaten_track: 1.3
 ---
 
 Torrevieja is a coastal town in the south of Alicante province, backed by two salt lakes that form a protected natural park — the pink-tinged Laguna de Torrevieja and the green Laguna de La Mata. The town has a long history as a salt-producing centre, and the lakeside walking trails offer a striking contrast to the beach-resort atmosphere of the waterfront.

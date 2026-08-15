@@ -14,6 +14,10 @@ title: Osoyoos
 type: location
 snippet: Okanagan desert town on Osoyoos Lake, surrounded by vineyards and dry Great
   Basin landscapes.
+heritage: 2.9
+vibrancy: 3.1
+nature: 7.0
+off_the_beaten_track: 3.3
 ---
 
 Osoyoos sits in the only true desert in Canada — the northern tip of the Great Basin Desert that extends up from the American southwest through Washington State into British Columbia. The Okanagan Valley here is hot, dry, and brown, surrounded by sand dunes, cactus, and rattlesnakes, with Osoyoos Lake at its centre. Summers are the hottest in Canada, regularly exceeding 40°C.

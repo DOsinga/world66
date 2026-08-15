@@ -15,6 +15,10 @@ image: cavendish.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cavendish_Coast,_Prince_Edward_Island_(471107)_(9450669298).jpg
 image_license: CC BY 2.0
 image_attribution: Robert Linsdell from St. Andrews, Canada
+heritage: 4.4
+vibrancy: 2.5
+nature: 6.2
+off_the_beaten_track: 1.9
 ---
 
 Cavendish is the busy north-shore village where Prince Edward Island's literary myth meets its beach holiday machinery. The serious reason to come is [Green Gables Heritage Place](/northamerica/canada/princeedwardisland/cavendish/green_gables_heritage_place), the farm setting that helped shape L.M. Montgomery's Anne novels. The broader appeal is the coast: red cliffs, dunes, warm Gulf water, and easy access to the Cavendish section of Prince Edward Island National Park.

@@ -14,6 +14,10 @@ snippet: Swiss Rhine city near Germany, with a painted medieval old town, Munot 
   and nearby Rhine Falls.
 title: Schaffhausen
 type: location
+heritage: 5.6
+vibrancy: 3.2
+nature: 4.0
+off_the_beaten_track: 1.7
 ---
 
 Schaffhausen is a small city in northeastern [Switzerland](/europe/switzerland), sitting on a bend of the Rhine just a few kilometres from the German border. It joined the Swiss Confederation in 1501 and has a beautifully preserved medieval old town — the [Altstadt](/europe/switzerland/schaffhausen/altstadt) is full of oriel windows, painted facades, and the imposing [Munot](/europe/switzerland/schaffhausen/munot) fortress, a circular 16th-century fortification that overlooks the river from its hilltop.

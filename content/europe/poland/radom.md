@@ -5,11 +5,16 @@ loc_type: city
 latitude: 51.4027
 longitude: 21.1471
 score: 6.8
-snippet: Under-visited Mazovian city with strong museums, medieval churches, and a rough-edged industrial past.
+snippet: Under-visited Mazovian city with strong museums, medieval churches, and a
+  rough-edged industrial past.
 sources:
 - https://en.wikivoyage.org/wiki/Radom
 - https://en.wikipedia.org/wiki/Radom
 - https://www.visitradom.pl/en/main-page/
+heritage: 4.5
+vibrancy: 2.4
+nature: 1.8
+off_the_beaten_track: 2.1
 ---
 
 Radom is not one of Poland's obvious city breaks, and it does not pretend otherwise. South of Warsaw, it is a working Mazovian city with a battered industrial story, low-key streets, and enough cultural substance to reward a curious day.

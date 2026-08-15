@@ -5,12 +5,17 @@ loc_type: city
 latitude: 37.9509
 longitude: 139.3279
 score: 6.6
-snippet: Niigata castle town with Edo gardens, samurai barracks, sake, and nearby hot springs.
+snippet: Niigata castle town with Edo gardens, samurai barracks, sake, and nearby
+  hot springs.
 sources:
-  - https://en.wikivoyage.org/wiki/Shibata
-  - https://www.tohokukanko.jp/en/attractions/detail_1428.html
-  - https://shibata-info.jp/english/shimizu-en.html
+- https://en.wikivoyage.org/wiki/Shibata
+- https://www.tohokukanko.jp/en/attractions/detail_1428.html
+- https://shibata-info.jp/english/shimizu-en.html
 wikidata: Q601950
+heritage: 5.9
+vibrancy: 3.7
+nature: 4.2
+off_the_beaten_track: 2.1
 ---
 
 Shibata is a castle town on the northern Echigo Plain, close enough to [Niigata](/asia/japan/honshu/niigata) for an easy day trip but different in mood. The centre still points back to the Mizoguchi clan: moats, gates, samurai housing, and gardens rather than big-city shopping.

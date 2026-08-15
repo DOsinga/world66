@@ -10,6 +10,10 @@ image: gjakova.jpg
 image_source: https://commons.wikimedia.org/wiki/File:14_Kisha_Sh%C3%ABn_Palit_%26_Pjetrit_02.jpg
 image_license: CC BY-SA 3.0
 image_attribution: ShkelzenRexha
+heritage: 2.1
+vibrancy: 1.5
+nature: 2.0
+off_the_beaten_track: 3.3
 ---
 
 Gjakova (Đakovica in Serbian) is one of Kosovo's larger cities, in the southwest of the country near the Albanian border. It has a strong Albanian character and a long history as a trading and craft centre — the old bazaar, Çarshia e Gjatë, is one of the best-preserved Ottoman bazaars in the Balkans, stretching for nearly a kilometre through the centre of the old town.

@@ -13,6 +13,10 @@ title: Djanet
 type: location
 snippet: Tuareg oasis town below Tassili n'Ajjer, gateway to prehistoric rock art
   and sandstone desert.
+heritage: 6.5
+vibrancy: 1.4
+nature: 7.2
+off_the_beaten_track: 6.6
 ---
 
 Djanet is one of the most extraordinary places in Algeria — a Saharan oasis town sitting at the foot of the [Tassili n'Ajjer](/africa/algeria/djanet/tassili_najjer) plateau, surrounded by some of the most dramatic desert landscapes on the continent. If you have any interest in the deep Sahara, this is where you come.

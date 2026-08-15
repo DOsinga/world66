@@ -13,6 +13,10 @@ snippet: Suffolk county town on the Orwell estuary, with medieval churches and a
   waterfront.
 title: Ipswich
 type: location
+heritage: 5.8
+vibrancy: 3.7
+nature: 3.3
+off_the_beaten_track: 1.4
 ---
 
 Ipswich is the county town of Suffolk and one of the oldest continuously inhabited towns in England. It sits at the head of the Orwell estuary, and the waterfront — once the beating heart of a major medieval wool port — has been reinvented as the Waterfront quarter, with converted warehouses, restaurants, and a marina where container ships used to dock.

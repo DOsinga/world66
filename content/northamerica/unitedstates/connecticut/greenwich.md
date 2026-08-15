@@ -18,6 +18,10 @@ image: greenwich.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Greenwich,_Connecticut_-_15978390134.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Dougtone
+heritage: 4.0
+vibrancy: 2.6
+nature: 3.5
+off_the_beaten_track: 1.1
 ---
 
 Greenwich is the polished edge of Connecticut's Gold Coast, close enough to New York City to feel like a commuter suburb but old, rich, and coastal enough to have its own shape. The town is not gritty or surprising. It is manicured, expensive, and very aware of itself.

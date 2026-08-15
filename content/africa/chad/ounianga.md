@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Lake_Yoa
 title: Ounianga
 type: location
+heritage: 0.2
+vibrancy: 1.7
+nature: 4.9
+off_the_beaten_track: 7.5
 ---
 
 Ounianga is barely a town, just a scattering of buildings in the northeastern Sahara, but it sits at the edge of one of [Chad's](/africa/chad) most extraordinary natural wonders. The [**Lakes of Ounianga**](/africa/chad/ounianga/lakes_of_ounianga), inscribed as a UNESCO World Heritage Site in 2012, are a chain of eighteen interconnected desert lakes with no business existing where they do.

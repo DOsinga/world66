@@ -11,6 +11,10 @@ type: location
 loc_type: city
 snippet: Victoria's oldest town, a former whaling port with heritage buildings and
   a working harbour.
+heritage: 4.7
+vibrancy: 3.8
+nature: 6.2
+off_the_beaten_track: 3.1
 ---
 
 Founded in the 1830s, Portland is the oldest town in Victoria. It started as a whaling station and now thrives on aluminium production, but the town's character comes from its 200-plus well-maintained heritage buildings that give the streets a pleasant old-world feel.

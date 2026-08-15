@@ -13,6 +13,10 @@ image: barrea.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Barrea_panorama.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Fiorenza67
+heritage: 4.3
+vibrancy: 1.8
+nature: 6.4
+off_the_beaten_track: 4.5
 ---
 
 Barrea is a medieval village perched on a rocky spur above the eastern end of Lake Barrea, its tight lanes and stone houses compressed into the kind of vertical hilltown that the landscape of central Italy seems to demand. The ruins of a Norman castle crown the top of the village; below it, a viewpoint terrace looks out over the whole lake and the forested ridges that hem it in on both sides.

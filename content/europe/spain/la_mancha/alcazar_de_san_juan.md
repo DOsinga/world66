@@ -14,6 +14,10 @@ snippet: La Mancha railway town surrounded by vineyards and tied to local claims
   Cervantes' birthplace.
 title: Alcázar de San Juan
 type: location
+heritage: 5.0
+vibrancy: 2.9
+nature: 2.2
+off_the_beaten_track: 1.5
 ---
 
 Alcázar de San Juan is the largest town in La Mancha, sitting on the vast Castilian plain south of Madrid. It is primarily known as an important railway junction — one of the busiest in Spain — and as wine country: the surrounding vineyards produce large quantities of Castilla-La Mancha wines. Cervantes scholars have long debated whether it, rather than Alcalá de Henares, was the true birthplace of Miguel de Cervantes, a claim the town takes seriously.

@@ -11,6 +11,10 @@ image: wahiba_sands.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Camels_in_Wahiba_Sands_03.jpg
 image_license: CC BY-SA 4.0
 image_attribution: albinfo
+heritage: 2.2
+vibrancy: 0.8
+nature: 8.2
+off_the_beaten_track: 5.2
 ---
 
 The Wahiba Sands — officially the Sharqiya Sands — are the easiest serious desert you can reach from Muscat, about two and a half hours south by car. This is the Arabian desert of the imagination: long parallel ridges of rust-coloured sand rising 100 metres or more, with corridors of harder ground running between them, the dunes shifting colour from pale gold at midday to deep orange in the low light of late afternoon. The sand sea stretches roughly 180 kilometres north to south and 80 east to west, big enough to lose all sense of the world beyond its edges.

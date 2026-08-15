@@ -13,6 +13,10 @@ title: Agaete
 type: location
 snippet: Gran Canaria town at a green valley mouth, known for coffee cultivation and
   Puerto de las Nieves.
+heritage: 3.4
+vibrancy: 3.1
+nature: 7.3
+off_the_beaten_track: 2.3
 ---
 
 Agaete is a small town of around 5,800 people on Gran Canaria's northwest coast, at the mouth of a green valley that produces the only commercially grown coffee in Europe. It feels genuinely local — not a resort — with a compact fishing harbour at [El Puerto de las Nieves](/europe/spain/canaryislands/grancanaria/agaete/puerto_de_las_nieves) from which fast ferries cross to Tenerife in under an hour. Just offshore, the sea stack [El Dedo de Dios](/europe/spain/canaryislands/grancanaria/agaete/el_dedo_de_dios) — God's Finger — is an unmistakable landmark despite losing its tip to a hurricane in 2005.

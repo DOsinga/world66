@@ -14,6 +14,10 @@ image: hurtigruten.jpg
 image_source: https://commons.wikimedia.org/wiki/File:0612_Polarlys_departing_from_Geiranger_-_starboard_bow_detailed_-_V-P.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Virtual-Pano
+heritage: 1.4
+vibrancy: 2.3
+nature: 8.2
+off_the_beaten_track: 7.7
 ---
 
 The Hurtigruten is the coastal voyage from Bergen to Kirkenes and back, calling at 34 ports along the way — a working postal and freight route since 1893 that has become one of the great ways to see Norway's coast. The full round trip takes 12 days; most travellers take one leg only, north or south, or book a shorter port-to-port stretch.

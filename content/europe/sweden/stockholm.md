@@ -26,6 +26,10 @@ tip: Stockholm spreads over 14 islands, so a hop-on boat or a kayak is the way t
   an art gallery.
 title: Stockholm
 type: location
+heritage: 6.4
+vibrancy: 9.1
+nature: 4.7
+off_the_beaten_track: 1.5
 ---
 
 Stockholm sits on 14 islands where Lake Mälaren meets the Baltic, and the city makes clever use of its geography — the water is clean enough to swim in, and boats connect the archipelago of 30,000 islands stretching east from the city. Called the "Beauty on Water," it is one of the most scenic capitals in Europe.

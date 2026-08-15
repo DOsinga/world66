@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Gros_Morne_National_Park
 title: Gros Morne National Park
 type: location
+heritage: 4.7
+vibrancy: 1.1
+nature: 7.5
+off_the_beaten_track: 6.6
 ---
 
 *North America > Canada > Newfoundland > Gros Morne National Park*

@@ -15,6 +15,10 @@ snippet: Small Mauritian island with a quieter African feel, hilly interior, and
   turquoise lagoon.
 title: Rodrigues
 type: location
+heritage: 2.3
+vibrancy: 2.2
+nature: 7.7
+off_the_beaten_track: 3.7
 ---
 
 Rodrigues is a small island about 560 kilometres northeast of Mauritius, and is the best reason to extend your trip. It belongs to Mauritius politically but feels like a different world — quieter, less developed, more African in atmosphere. If Mauritius sometimes feels like it's trying too hard, Rodrigues doesn't try at all.

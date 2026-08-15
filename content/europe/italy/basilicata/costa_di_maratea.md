@@ -13,6 +13,10 @@ snippet: Basilicata's short Tyrrhenian coast, where cliffside Maratea overlooks 
   and mountain-backed beaches.
 title: Costa di Maratea
 type: location
+heritage: 4.5
+vibrancy: 3.2
+nature: 7.2
+off_the_beaten_track: 3.8
 ---
 
 The Costa di Maratea is Basilicata's only stretch of coastline — roughly 30 kilometres of dramatic cliffs, hidden coves, and clear Tyrrhenian water wedged between Calabria to the south and Campania to the north. It is one of southern Italy's least-known coastal areas, which is precisely its appeal.

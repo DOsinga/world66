@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Henan
 title: Jigongshan
 type: location
+heritage: 3.3
+vibrancy: 1.7
+nature: 3.1
+off_the_beaten_track: 2.7
 ---
 
 Jigongshan — Rooster Mountain, named for the peak's supposed resemblance to a cock's comb — is a low mountain resort in the far south of Henan near Xinyang, sitting at 734 metres on the northern edge of the Dabie range where the climate shifts from the dry continental conditions of the north into something wetter and more subtropical. Foreign missionaries discovered it in the late nineteenth century and proceeded to build more than three hundred villas on its wooded slopes between 1898 and 1936, turning the mountain into the premier summer retreat for the expatriate community across central China. After 1949 it became a favoured summer residence for Communist party officials, extending the tradition of powerful people fleeing the summer heat into the hills.

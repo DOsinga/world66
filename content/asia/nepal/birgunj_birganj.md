@@ -14,6 +14,10 @@ snippet: Terai border city and Nepal's main trade gateway to India, paired with 
   across the frontier.
 title: Birgunj
 type: location
+heritage: 2.4
+vibrancy: 1.8
+nature: 1.8
+off_the_beaten_track: 3.9
 ---
 
 Birgunj is the main border crossing point between Nepal and India, a busy trade and transit city paired with Raxaul on the Indian side. Most travellers pass through rather than stay — but if you are crossing late in the day, you may need to spend a night, and the town is perfectly functional for that purpose. It sits in the Terai lowlands at the base of the Siwalik Hills, flat and humid in a way that surprises visitors accustomed to mountain Nepal.

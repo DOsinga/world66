@@ -23,6 +23,10 @@ tip: Plitvice's 16 lakes cascade into each other over travertine barriers — st
   grippy shoes, as the boardwalks get slick with spray.
 title: Plitvice Lakes
 type: location
+heritage: 2.9
+vibrancy: 1.4
+nature: 7.9
+off_the_beaten_track: 2.7
 ---
 
 Plitvice Lakes National Park is Croatia's most visited natural attraction — a UNESCO World Heritage Site and one of the most spectacular lake systems in Europe. Sixteen terraced lakes descend through a limestone gorge, connected by waterfalls and rapids, their colours shifting from emerald green to deep turquoise depending on the season and the angle of light. The effect is produced by the karst geology: calcium carbonate precipitates out as travertine, forming natural dams that hold the lakes in tiers, and the mineral-rich water takes on colours that don't look real.

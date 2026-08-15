@@ -19,6 +19,10 @@ tip: Niamey is a low-slung capital on the Niger River, where pirogues drift past
   are the social hubs. Check security advisories carefully before any travel in Niger.
 title: Niamey
 type: location
+heritage: 3.2
+vibrancy: 1.6
+nature: 1.8
+off_the_beaten_track: 6.0
 ---
 
 Niamey is the capital of [Niger](/africa/niger) and its only real city, sprawling along a bend in the Niger River in the far west of the country. It is dusty, hot, and chaotic in the best possible way — a place where Tuareg, Songhai, Fulani, and Hausa traders all converge in open-air markets that are as much theatre as commerce.

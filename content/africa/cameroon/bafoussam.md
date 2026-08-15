@@ -18,6 +18,10 @@ sources:
 - https://tourismeouestcameroun.com/chefferie_musee/chefferie-bafoussam/
 title: Bafoussam
 type: location
+heritage: 3.7
+vibrancy: 5.1
+nature: 5.9
+off_the_beaten_track: 5.0
 ---
 
 Bafoussam is the capital of the West Region of Cameroon and the cultural heart of the Bamiléké people, sitting at around 1,400 metres in the Bamboutos Mountains, about 250 kilometres northeast of [Douala](/africa/cameroon/douala). With roughly a million people in its urban area, it is Cameroon's third city, but it feels nothing like the sprawling coastal metropolises further south — the highland air is cool, the pace more measured, and the cultural ties to the surrounding chiefdoms very much alive.

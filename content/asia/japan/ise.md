@@ -5,9 +5,14 @@ loc_type: city
 latitude: 34.4833
 longitude: 136.7167
 score: 8.1
-snippet: Sacred Japanese pilgrimage city centred on Ise Jingu, Shinto's most important shrine.
+snippet: Sacred Japanese pilgrimage city centred on Ise Jingu, Shinto's most important
+  shrine.
 sources:
-  - https://en.wikivoyage.org/wiki/Ise
+- https://en.wikivoyage.org/wiki/Ise
+heritage: 5.6
+vibrancy: 3.9
+nature: 4.0
+off_the_beaten_track: 2.3
 ---
 
 Ise is a pilgrimage city in Mie Prefecture, best known for [Ise Jingu](/asia/japan/ise/ise_jingu), the most important Shinto shrine in Japan. The shrine is not one building but a pair of sacred precincts, Geku and Naiku, set among old trees and rebuilt every 20 years in a ritual that keeps the architecture ancient and new at the same time.

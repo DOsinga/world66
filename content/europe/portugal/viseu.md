@@ -13,6 +13,10 @@ snippet: Central Portuguese market city in Dão wine country, with granite stree
   and a hilltop cathedral.
 title: Viseu
 type: location
+heritage: 6.0
+vibrancy: 3.9
+nature: 3.9
+off_the_beaten_track: 2.3
 ---
 
 Viseu is a prosperous market city in central Portugal, set on a granite plateau in the Dão wine country of Beira Alta. It's one of the most liveable cities in Portugal — a claim backed by its consistently high rankings in quality-of-life surveys — and one of the most rewarding to visit: a compact historic centre of granite streets, a cathedral with 12th-century foundations, and one of the finest regional museums in the country.

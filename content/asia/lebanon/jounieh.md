@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Jounieh
 title: Jounieh
 type: location
+heritage: 4.5
+vibrancy: 5.5
+nature: 5.9
+off_the_beaten_track: 3.7
 ---
 
 Think of a Lebanese Monte Carlo and you are close. Jounieh is the resort town where Beirutis go to have fun — casinos, beach clubs, restaurants and nightlife, all set against one of the most beautiful bays on the Lebanese coast, just 20 minutes north of [Beirut](/asia/lebanon/beirut).

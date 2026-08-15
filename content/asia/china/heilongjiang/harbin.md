@@ -13,6 +13,10 @@ title: Harbin
 type: location
 snippet: Northern Chinese provincial capital with Russian railway-era architecture
   and an international ice festival.
+heritage: 5.1
+vibrancy: 4.6
+nature: 3.5
+off_the_beaten_track: 3.8
 ---
 
 Harbin is the provincial capital of Heilongjiang, China's northernmost province, sitting on the Songhua River just a few hundred kilometres from the Russian border. That proximity shaped the city: Russian engineers and traders flooded in during the early 20th century to build the Chinese Eastern Railway, leaving behind a district of Orthodox churches, art nouveau facades, and broad European-style boulevards unlike anything else in China. The [Daoli district](/asia/china/heilongjiang/harbin/daoli_district) preserves the densest concentration of this architecture.

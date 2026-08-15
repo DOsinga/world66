@@ -14,6 +14,10 @@ image: daejeon.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Daejeoncheon_river_in_Daejeon_South_Korea.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Pmlydon
+heritage: 3.3
+vibrancy: 5.4
+nature: 3.3
+off_the_beaten_track: 1.2
 ---
 
 Daejeon is South Korea's central crossroads: a major rail junction, administrative city, and research hub about an hour from [Seoul](/asia/southkorea/seoul) by KTX. It is less immediately showy than Seoul or Busan, but it works well as a practical base for central Korea and has a calm, local rhythm.

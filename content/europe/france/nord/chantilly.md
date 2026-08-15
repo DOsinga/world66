@@ -16,6 +16,10 @@ snippet: Aristocratic estate town north of Paris, built around a château, racin
   and forest.
 title: Chantilly
 type: location
+heritage: 6.2
+vibrancy: 3.4
+nature: 3.0
+off_the_beaten_track: 1.5
 ---
 
 Forty kilometres north of [Paris](/europe/france/paris), Chantilly is one of the most complete aristocratic estates in France — a [château](/europe/france/nord/chantilly/chateau_de_chantilly), a [park](/europe/france/nord/chantilly/parc_de_chantilly) laid out by Le Nôtre, a racing stable built to house two hundred horses, and a [forest](/europe/france/nord/chantilly/foret_de_chantilly) that still stretches for thousands of acres around it. The whole domain was left to the Institut de France in 1884 by the Duke of Aumale, and has changed remarkably little since.

@@ -14,6 +14,10 @@ snippet: East Frisian island resort with an old spa town, long beaches, and prot
   dune landscapes.
 title: Norderney
 type: location
+heritage: 4.3
+vibrancy: 5.2
+nature: 5.8
+off_the_beaten_track: 3.6
 ---
 
 Norderney is the most visited of the East Frisian Islands and the one with the most to offer beyond beaches and fresh air. The western end of the island has a proper town — the oldest North Sea resort in Germany, established in 1797 — with restaurants, shops, a theatre, and a [thalasso spa](/europe/germany/lowersaxony/east_frisian_islands/norderney/thalasso_spa). The eastern two-thirds are largely undeveloped dune landscape within the Wadden Sea National Park.

@@ -14,6 +14,10 @@ tags:
 - cotswolds
 title: Tewkesbury
 type: location
+heritage: 7.0
+vibrancy: 3.3
+nature: 4.3
+off_the_beaten_track: 2.0
 ---
 
 Tewkesbury is a handsome market town in the north of Gloucestershire where the River Avon meets the Severn, surrounded by water meadows and prone to flooding in a spectacular way when both rivers run high. The setting alone makes it worth the detour from the M5, but the town has enough substance to justify a proper visit.

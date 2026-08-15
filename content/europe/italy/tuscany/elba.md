@@ -13,6 +13,10 @@ snippet: Tuscan Archipelago island of beaches, mining history, and Napoleon's br
   exile in Portoferraio.
 title: Elba
 type: location
+heritage: 4.0
+vibrancy: 4.0
+nature: 7.3
+off_the_beaten_track: 3.9
 ---
 
 Elba is the largest and best-known of the seven islands of the Tuscan Archipelago — a granite-and-schist mountain poking out of the Tyrrhenian Sea roughly halfway between the Italian mainland and Corsica. It is a short ferry from Piombino (about an hour) and feels like a world away from mainland Tuscany: over 150 km of coastline, more than fifty beaches, pine forests climbing the slopes of **Monte Capanne** (1,019 m), and a long history of mining that made it rich long before it became a summer resort.

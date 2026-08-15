@@ -13,6 +13,10 @@ image: barrierreef.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Belize_Barrier_Reef,_Ambergris_Caye,_Belize.jpg
 image_license: CC BY 2.0
 image_attribution: Bernt Rostad
+heritage: 3.1
+vibrancy: 1.3
+nature: 7.4
+off_the_beaten_track: 5.8
 ---
 
 The Belize Barrier Reef is the second-longest barrier reef system in the world after Australia's Great Barrier Reef, stretching 300 km along the coast. It was designated a UNESCO World Heritage Site in 1996.

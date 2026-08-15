@@ -16,6 +16,10 @@ image: balassagyarmat.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Balassagyarmat_2021_%C3%A1prilis%C3%A1ban12.jpg
 image_license: CC BY-SA 4.0
 image_attribution: 12akd
+heritage: 2.2
+vibrancy: 1.8
+nature: 2.5
+off_the_beaten_track: 2.0
 ---
 
 Balassagyarmat sits on the Ipoly River, with Slovakia just across the water and the low hills of Nógrád around it. It is not grand Hungary, but it has a strong local grain: county-town architecture, Palóc folk culture, old churches, and a civic pride summed up in its nickname, Civitas Fortissima.

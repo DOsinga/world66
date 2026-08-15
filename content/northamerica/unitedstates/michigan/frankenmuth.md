@@ -14,6 +14,10 @@ snippet: Michigan town founded by Bavarian immigrants, built around German food,
   and year-round Christmas shops
 title: Frankenmuth
 type: location
+heritage: 5.3
+vibrancy: 3.4
+nature: 4.2
+off_the_beaten_track: 1.6
 ---
 
 Frankenmuth is a small city about 20 miles north of Flint, Michigan, that has leaned hard into its German heritage. Founded in 1845 by Bavarian immigrants, it has built a thriving tourist trade around its Bavarian architecture, German food, and year-round Christmas spirit. It's unusual enough to be worth a visit if you're in the area.

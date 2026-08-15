@@ -14,6 +14,10 @@ image: mima.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aoki_Residence,_Mima_Town,_Mima_City,_Tokushima.JPG
 image_license: CC BY 3.0
 image_attribution: Brianmima
+heritage: 3.8
+vibrancy: 1.8
+nature: 5.9
+off_the_beaten_track: 2.8
 ---
 
 Mima is an inland city in Tokushima Prefecture, spread along the Yoshino River and the lower slopes of western Shikoku. It is not a single tight town so much as a collection of older communities, with Wakimachi and Anabuki giving travellers the clearest reasons to stop.

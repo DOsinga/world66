@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/%C5%8Ck%C4%81rito_Lagoon
 title: Okarito
 type: location
+heritage: 3.4
+vibrancy: 1.1
+nature: 7.4
+off_the_beaten_track: 6.5
 ---
 
 Okarito is a tiny coastal settlement north of [Franz Josef](/australiaandpacific/newzealand/south_island/west_coast/franzjosef), reached by a side road through rainforest from State Highway 6. It is one of those West Coast places that feels almost deliberately quiet: a handful of houses, a beach, a lagoon, and the Southern Alps rising behind the bush when the cloud lifts.

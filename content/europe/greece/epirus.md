@@ -13,6 +13,10 @@ title: Epirus
 type: location
 snippet: Mountainous northwestern Greek region of Pindus peaks, Vikos Gorge, stone
   villages, and Ionian edges.
+heritage: 6.2
+vibrancy: 3.3
+nature: 6.7
+off_the_beaten_track: 4.0
 ---
 
 Epirus is a mountainous region in northwestern Greece, bordering Albania to the north and the Ionian Sea to the west. It is one of the most dramatically beautiful parts of Greece, with the Pindus mountains running through its interior and the [Vikos Gorge](/europe/greece/epirus/vikos_gorge) — the world's deepest gorge relative to its width — cutting through its heart.

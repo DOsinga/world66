@@ -14,6 +14,10 @@ snippet: Green northern Aegean island of pine mountains, marble quarries, and be
   reached by ferry from Kavala.
 title: Thassos
 type: location
+heritage: 4.4
+vibrancy: 4.6
+nature: 7.4
+off_the_beaten_track: 4.0
 ---
 
 Thassos is the northernmost Greek island, a short ferry ride from Kavala or Keramoti on the Macedonian coast. It is one of the greenest islands in the Aegean — pine forests cover the mountainous interior, dropping to sandy beaches and coves around the coast.

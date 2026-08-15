@@ -12,6 +12,10 @@ sources:
 - https://russiatrek.org/tver-city
 title: Tver
 type: location
+heritage: 4.9
+vibrancy: 2.3
+nature: 3.1
+off_the_beaten_track: 2.9
 ---
 
 Tver sits on the upper Volga between [Moscow](/europe/russia/moscow) and [St. Petersburg](/europe/russia/stpetersburg), close enough to both to be overlooked and old enough to resent that fact. In the medieval period it was a serious rival to Moscow; later it became a planned imperial stop on the road between the two capitals. The result is a city with broad classical streets, river views, and a quieter provincial confidence.

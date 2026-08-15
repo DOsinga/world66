@@ -13,6 +13,10 @@ image: sharyn_canyon.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Charyn_Canyon,_Kazakhstan_01.jpg
 image_license: CC0
 image_attribution: Bgag
+heritage: 1.4
+vibrancy: 0.8
+nature: 7.7
+off_the_beaten_track: 6.1
 ---
 
 Sharyn Canyon is a dramatic gorge cut by the Sharyn River into the red sandstone and clay formations of the Tian Shan foothills, about 200 kilometres east of Almaty. The canyon runs for roughly 150 kilometres, with the most visited section — the Valley of Castles — featuring eroded pillars and towers of red rock that rise up to 300 metres from the canyon floor.

@@ -17,6 +17,10 @@ image: arbroath.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Arbroath_Fisheries_-_geograph.org.uk_-_2165390.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Donald MacDonald
+heritage: 4.1
+vibrancy: 3.1
+nature: 5.7
+off_the_beaten_track: 2.7
 ---
 
 Arbroath is a working Angus harbour town with a bigger story than its tidy seafront first suggests. The ruined abbey is tied to the Declaration of Arbroath, the Signal Tower tells the story of the Bell Rock Lighthouse, and the red sandstone cliffs north of town give the coast a wilder edge.

@@ -15,6 +15,10 @@ snippet: Tiny Burgundy hilltop village known for Notre-Dame's late-medieval carv
   choir stalls and surviving medieval gates.
 title: Montréal
 type: location
+heritage: 7.0
+vibrancy: 5.8
+nature: 5.0
+off_the_beaten_track: 1.6
 ---
 
 This Montréal is not the Canadian one — it's a tiny hilltop village in the Yonne department of Burgundy, easily missed and rarely crowded. The draw is the [Collegiate Church of Notre-Dame](/europe/france/burgundy/montral/collegiate_church), whose interior contains a set of late-medieval carved choir stalls of extraordinary quality. The woodwork depicts Biblical scenes and figures with an expressiveness that rivals the great Gothic workshops, and yet the village sees only a fraction of the visitors that flock to nearby [Vézelay](/europe/france/burgundy/vezelay).

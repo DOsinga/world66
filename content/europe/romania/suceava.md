@@ -10,6 +10,10 @@ snippet: Bucovina city and former Moldavian capital, used as a base for painted 
   routes
 title: Suceava
 type: location
+heritage: 6.5
+vibrancy: 3.1
+nature: 3.9
+off_the_beaten_track: 2.9
 ---
 
 Suceava was the capital of Transsylvania in the late Middle Ages. Today it is a pleasant city and worth a visit for its sights and museums, especially the Princely Fortress. A possible tourist route comprises the Princely Fortress of Suceava, the Sf. Ioan Monastery in Zamca as well as the medieval churches of Saint Dumitru, Holy Ressurection and Mirui. A point of interest is also the National Museum of Bucovina with its valuable historic and archaeologic exhibits.

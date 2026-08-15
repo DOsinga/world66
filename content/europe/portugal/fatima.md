@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Sanctuary_of_F%C3%A1tima
 title: Fatima
 type: location
+heritage: 7.5
+vibrancy: 4.3
+nature: 3.0
+off_the_beaten_track: 2.4
 ---
 
 Fátima is one of the most important Catholic pilgrimage sites in the world. Every year more than six million people make their way to this small town in central Portugal, drawn by the 1917 apparitions of the Virgin Mary to three shepherd children. Whether you come for religious reasons or simply out of curiosity, the scale and sincerity of the devotion here is genuinely affecting.

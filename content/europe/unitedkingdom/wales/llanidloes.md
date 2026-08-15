@@ -8,15 +8,19 @@ wikidata: Q2741834
 score: 6.8
 snippet: Mid Wales market town on the upper Severn, below Clywedog and Hafren Forest.
 sources:
-  - https://en.wikivoyage.org/wiki/Llanidloes
-  - https://www.visitwales.com/destinations/mid-wales/48-hours-exploring-llanidloes-and-llyn-clywedog-cambrian-mountains
-  - https://naturalresources.wales/days-out/places-to-visit/mid-wales/hafren-forest/?lang=en
-  - https://www.visitmidwales.co.uk/things-to-do/llyn-clywedog-reservoir-and-dam-p1724171
-  - https://www.llanidloes.com/timber-frame/
+- https://en.wikivoyage.org/wiki/Llanidloes
+- https://www.visitwales.com/destinations/mid-wales/48-hours-exploring-llanidloes-and-llyn-clywedog-cambrian-mountains
+- https://naturalresources.wales/days-out/places-to-visit/mid-wales/hafren-forest/?lang=en
+- https://www.visitmidwales.co.uk/things-to-do/llyn-clywedog-reservoir-and-dam-p1724171
+- https://www.llanidloes.com/timber-frame/
 image: llanidloes.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Old_Market_Hall,_Llanidloes,_Powys.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Rosser1954
+heritage: 4.7
+vibrancy: 4.0
+nature: 5.7
+off_the_beaten_track: 4.4
 ---
 
 *Europe > United Kingdom > Wales > Llanidloes*

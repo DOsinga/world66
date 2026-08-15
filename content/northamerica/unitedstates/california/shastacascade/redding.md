@@ -16,6 +16,10 @@ snippet: Northern California valley city and base for Mount Shasta, Lassen, and 
   River trails
 title: Redding
 type: location
+heritage: 2.2
+vibrancy: 2.9
+nature: 7.3
+off_the_beaten_track: 2.5
 ---
 
 Redding sits at the northern end of the Sacramento Valley, where Interstate 5 begins its long climb toward the Oregon border. It is not a glamorous destination, but it is the natural base for exploring some of the state's most dramatic landscape: Mount Shasta to the north, Lassen Volcanic National Park to the east, [Shasta Dam](/northamerica/unitedstates/california/shastacascade/redding/shasta_dam) and [Whiskeytown Lake](/northamerica/unitedstates/california/shastacascade/redding/whiskeytown_lake) nearby, and the wild Trinity Alps to the west. The city claims more miles of trail per capita than almost anywhere in the United States.

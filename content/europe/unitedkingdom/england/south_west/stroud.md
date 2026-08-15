@@ -20,6 +20,10 @@ tags:
 title: Stroud
 type: location
 wikidata: Q281749
+heritage: 4.9
+vibrancy: 3.8
+nature: 4.7
+off_the_beaten_track: 1.9
 ---
 
 Stroud sits where five Cotswold valleys fold into one another, and the town has always felt a little different from the gentler postcard villages nearby. Old textile mills, steep lanes, independent shops, market stalls, and wooded commons give it a working, creative edge.

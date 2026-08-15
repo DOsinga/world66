@@ -14,6 +14,10 @@ snippet: Negev capital and university city, with Ottoman-era streets and desert 
   radiating south
 title: Be'er Sheva
 type: location
+heritage: 3.6
+vibrancy: 5.6
+nature: 3.8
+off_the_beaten_track: 2.2
 ---
 
 Be'er Sheva (Beersheba) is the capital of the Negev — a university city, military center, and the main transport hub for Israel's south. It's not a conventional tourist destination, but it's a useful base for exploring the Negev desert and has a few things worth seeing in its own right.

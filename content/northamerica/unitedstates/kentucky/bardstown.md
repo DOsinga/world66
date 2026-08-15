@@ -17,6 +17,10 @@ image: bardstown.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Old_Talbott_Tavern.jpg
 image_license: Attribution
 image_attribution: C. Bedford Crenshaw
+heritage: 4.9
+vibrancy: 3.5
+nature: 4.8
+off_the_beaten_track: 2.4
 ---
 
 *North America > United States > Kentucky > Bardstown*

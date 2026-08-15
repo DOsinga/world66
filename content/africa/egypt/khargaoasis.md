@@ -5,10 +5,15 @@ loc_type: feature
 latitude: 25.25
 longitude: 30.55
 score: 7.64
-snippet: Western Desert oasis of ancient temples, Coptic chapels, and Roman frontier forts.
+snippet: Western Desert oasis of ancient temples, Coptic chapels, and Roman frontier
+  forts.
 sources:
-  - https://en.wikivoyage.org/wiki/Kharga_Oasis
-  - https://en.wikipedia.org/wiki/Kharga_Oasis
+- https://en.wikivoyage.org/wiki/Kharga_Oasis
+- https://en.wikipedia.org/wiki/Kharga_Oasis
+heritage: 6.1
+vibrancy: 0.5
+nature: 8.0
+off_the_beaten_track: 7.0
 ---
 
 Kharga Oasis is the largest of Egypt's Western Desert oases, a long green depression in the desert west of the Nile. The modern town of Kharga is practical rather than beautiful, but the surrounding oasis has exactly the sort of ancient sites that reward a traveller who has already made it this far.

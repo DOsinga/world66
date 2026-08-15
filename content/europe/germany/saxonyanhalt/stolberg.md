@@ -5,10 +5,15 @@ loc_type: city
 latitude: 51.57077
 longitude: 10.95659
 score: 7.35
-snippet: Half-timbered Harz town of steep lanes, mining history, and a castle above the roofs.
+snippet: Half-timbered Harz town of steep lanes, mining history, and a castle above
+  the roofs.
 sources:
 - https://en.wikivoyage.org/wiki/Stolberg
 - https://www.harzinfo.de/urlaub/stolberg
+heritage: 5.5
+vibrancy: 2.8
+nature: 3.6
+off_the_beaten_track: 2.4
 ---
 
 Stolberg is a small Harz town in southern Saxony-Anhalt, tucked into a narrow valley of steep roofs, forested slopes, and half-timbered houses. It calls itself the pearl of the southern Harz, which sounds like tourist-board embroidery until you walk the old lanes and see how much of the medieval and Renaissance town survived.

@@ -15,6 +15,10 @@ image: el_oro_de_hidalgo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Teatro_Ju%C3%A1rez._El_Oro_de_Hidalgo,_Estado_de_M%C3%A9xico,_M%C3%A9xico..JPG
 image_license: CC BY-SA 3.0
 image_attribution: JFMolina Mexico2012
+heritage: 6.1
+vibrancy: 3.6
+nature: 3.4
+off_the_beaten_track: 2.8
 ---
 
 El Oro de Hidalgo is a small mountain town in the northwest of Mexico State, close to the Michoacan border. Its name is literal: gold made the town rich, and the remaining theatres, mine works, railway buildings, and steep streets still feel more dramatic than its size suggests.

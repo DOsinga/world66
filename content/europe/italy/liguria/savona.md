@@ -19,6 +19,10 @@ sources:
 - https://www.visitsavona.com/en/what-to-see-in-savona/religious-buildings/sistine-chapel
 title: Savona
 type: location
+heritage: 4.6
+vibrancy: 4.2
+nature: 5.1
+off_the_beaten_track: 3.0
 ---
 
 Savona is the workaday port city of western [Liguria](/europe/italy/liguria), easier to underestimate than to dislike. Cruise ships dock below the old harbour, ferries come and go, and the medieval core sits a few streets inland with arcades, towers, bakeries, and the kind of daily life that has not been polished smooth for visitors.

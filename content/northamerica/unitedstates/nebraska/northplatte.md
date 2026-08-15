@@ -10,6 +10,10 @@ snippet: Western Nebraska rail and ranching city tied to pioneer trails and Buff
   Bill Cody.
 title: North Platte
 type: location
+heritage: 2.2
+vibrancy: 2.0
+nature: 3.4
+off_the_beaten_track: 1.7
 ---
 
 North Platte is a city in western Nebraska at the confluence of the North and South Platte rivers, serving as a regional centre for the surrounding ranch country. It sits on the old Oregon, California, and Mormon pioneer trails, and the landscape here — wide, flat, and open — gives a strong sense of what those travellers crossed.

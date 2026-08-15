@@ -14,6 +14,10 @@ snippet: Brunei oil town on the coast, built around the petroleum fields that tr
   the country
 title: Seria
 type: location
+heritage: 3.5
+vibrancy: 1.8
+nature: 4.9
+off_the_beaten_track: 3.5
 ---
 
 Seria is a small oil town on the coast of [Brunei](/asia/brunei), about 70 km southwest of the capital [Bandar Seri Begawan](/asia/brunei/bandarseribegawan). It exists because of petroleum — Brunei Shell Petroleum has its headquarters here, and the town grew up around the oil industry that has made Brunei one of the wealthiest countries in Southeast Asia. A nodding donkey oil pump sits on the beach as an unofficial town monument.

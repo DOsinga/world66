@@ -13,6 +13,10 @@ title: Littleton
 type: location
 snippet: White Mountains town on the Ammonoosuc River, known for its walkable Main
   Street and covered bridge.
+heritage: 2.4
+vibrancy: 1.2
+nature: 7.0
+off_the_beaten_track: 3.4
 ---
 
 Littleton is the commercial heart of New Hampshire's North Country, a small city of four thousand people that manages to feel genuinely alive. It sits where I-93 meets US-302 at the edge of the White Mountains, close enough to Franconia Notch that the peaks form a constant backdrop, far enough from the resort towns to keep its own character.

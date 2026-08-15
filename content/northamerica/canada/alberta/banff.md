@@ -34,6 +34,10 @@ tip: Banff sits inside a national park, so you need a Parks Canada pass on your 
   from glacial 'rock flour', brightest in July and August.
 title: Banff
 type: location
+heritage: 3.0
+vibrancy: 4.3
+nature: 8.9
+off_the_beaten_track: 1.4
 ---
 
 Banff is the most visited national park in Canada and one of the most spectacular mountain towns in the world. The town of roughly 8,000 permanent residents sits in a wide valley at 1,383 metres (4,537 ft) elevation, surrounded on all sides by the Canadian Rockies. Elk wander the streets in the early morning, bears cross the highway in autumn, and the mountains are never out of sight.

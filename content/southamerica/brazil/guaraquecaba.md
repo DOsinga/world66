@@ -5,16 +5,21 @@ loc_type: city
 latitude: -25.3069
 longitude: -48.3289
 wikidata: Q374648
-snippet: Remote Paraná coast town facing mangroves, Atlantic Forest reserves, and boat-only island villages.
+snippet: Remote Paraná coast town facing mangroves, Atlantic Forest reserves, and
+  boat-only island villages.
 sources:
-  - https://en.wikivoyage.org/wiki/Guaraque%C3%A7aba
-  - https://en.wikipedia.org/wiki/Guaraque%C3%A7aba
-  - https://whc.unesco.org/en/list/893/
-  - https://fundacaogrupoboticario.org.br/en/our-areas-of-action/our-reserves/
+- https://en.wikivoyage.org/wiki/Guaraque%C3%A7aba
+- https://en.wikipedia.org/wiki/Guaraque%C3%A7aba
+- https://whc.unesco.org/en/list/893/
+- https://fundacaogrupoboticario.org.br/en/our-areas-of-action/our-reserves/
 image: guaraquecaba.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Por_do_sol_-_Ba%C3%ADa_de_Guaraque%C3%A7aba.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Cesar Augusto Chirosa Horie
+heritage: 3.8
+vibrancy: 3.7
+nature: 6.7
+off_the_beaten_track: 3.9
 ---
 
 Guaraqueçaba is a small town on the far northern coast of Paraná, where the road slows down, the bay widens, and the Atlantic Forest comes right down to mangroves and fishing water. It is not an easy resort town. That is its appeal.

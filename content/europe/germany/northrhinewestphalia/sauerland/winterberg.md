@@ -14,6 +14,10 @@ snippet: Sauerland winter-sports town in western Germany, with ski slopes, hikin
   mountain biking, and bobrun facilities.
 title: Winterberg
 type: location
+heritage: 2.5
+vibrancy: 3.0
+nature: 7.1
+off_the_beaten_track: 2.8
 ---
 
 Winterberg is the main winter sports town in the Sauerland region of North Rhine-Westphalia, and the closest thing to a ski resort you will find in western Germany's low mountains. The lifts of the [Winterberg Ski Area](/europe/germany/northrhinewestphalia/sauerland/winterberg/winterberg_ski_area) start right in town, and while the slopes are modest by Alpine standards — the highest point is around 840 metres — they are more than enough for a weekend trip from the Ruhr cities or Cologne.

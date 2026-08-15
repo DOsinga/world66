@@ -16,6 +16,10 @@ snippet: Normandy canal village beside Pegasus Bridge, seized in the first Allie
   ground action of D-Day
 title: Bénouville
 type: location
+heritage: 5.8
+vibrancy: 2.1
+nature: 2.6
+off_the_beaten_track: 2.2
 ---
 
 Bénouville is a small village on the Caen Canal between Caen and the ferry port of Ouistreham, and it holds one of the most celebrated sites of the D-Day landings. In the early hours of 6 June 1944, British gliderborne troops of Major John Howard's D Company seized the canal bridge here in the first Allied ground action of Operation Overlord — the bridge was renamed Pegasus Bridge in their honour. Café Gondrée, the farmhouse beside the bridge, was the first building in occupied France to be liberated, and it still stands and still serves drinks.

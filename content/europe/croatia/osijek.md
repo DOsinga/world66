@@ -14,6 +14,10 @@ snippet: Slavonian city on the Drava, with Habsburg boulevards and the Baroque f
   district of Tvrđa.
 title: Osijek
 type: location
+heritage: 5.7
+vibrancy: 4.2
+nature: 3.2
+off_the_beaten_track: 2.7
 ---
 
 Osijek is the largest city in Slavonia, eastern Croatia's agricultural heartland. It sits on the Drava river and feels quite different from the coastal cities that draw most visitors to Croatia — flatter, quieter, more Central European in character, with wide boulevards and Habsburg-era architecture.

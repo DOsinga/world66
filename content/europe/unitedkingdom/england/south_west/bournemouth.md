@@ -16,6 +16,10 @@ tags:
 - dorset
 title: Bournemouth
 type: location
+heritage: 2.8
+vibrancy: 5.0
+nature: 6.8
+off_the_beaten_track: 1.5
 ---
 
 Bournemouth is one of Britain's most popular seaside destinations -- a Victorian invention that grew from a single shooting lodge in the 1810s into the largest holiday town on the south coast. Its seven miles of sandy beach face south into the English Channel, sheltered from the prevailing wind by the chalk cliffs at Old Harry Rocks. The town's southerly aspect gives it more sunshine than almost anywhere else in Britain.

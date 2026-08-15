@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Dwarka
 title: Dwarka
 type: location
+heritage: 7.7
+vibrancy: 4.4
+nature: 6.1
+off_the_beaten_track: 2.4
 ---
 
 Dwarka sits at the western edge of Gujarat, where the Gomti River meets the Arabian Sea and Krishna devotion gives the town its pulse. It is one of the Char Dham pilgrimage sites, and for many visitors the journey is religious first and touristic second: queues, bells, conch shells, temple flags, and pilgrims moving between ghats are the texture of daily life.

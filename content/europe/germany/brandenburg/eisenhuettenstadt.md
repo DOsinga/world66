@@ -5,16 +5,21 @@ loc_type: city
 latitude: 52.145
 longitude: 14.6728
 score: 7.1
-snippet: Brandenburg planned steel city where East Germany built its socialist model town.
+snippet: Brandenburg planned steel city where East Germany built its socialist model
+  town.
 wikidata: Q16106
 sources:
-  - https://en.wikivoyage.org/wiki/Eisenh%C3%BCttenstadt
-  - https://en.wikipedia.org/wiki/Eisenh%C3%BCttenstadt
-  - https://www.seenland-oderspree.de/en/poi/stadtfuehrungen-planstadt-eisenhuettenstadt
+- https://en.wikivoyage.org/wiki/Eisenh%C3%BCttenstadt
+- https://en.wikipedia.org/wiki/Eisenh%C3%BCttenstadt
+- https://www.seenland-oderspree.de/en/poi/stadtfuehrungen-planstadt-eisenhuettenstadt
 image: eisenhuettenstadt.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Eisenh%C3%BCttenstadt_Friedrich-Wolf-Theater,_Lindenallee_(1).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Peter Kaminsky, Berndroth
+heritage: 4.0
+vibrancy: 2.2
+nature: 1.8
+off_the_beaten_track: 1.7
 ---
 
 Eisenhüttenstadt is one of Germany's strangest postwar towns: a steelworks city founded by East Germany in 1950 and built as a socialist model settlement. It was called Stalinstadt for a few years, and the name still tells you the tone of the place better than any brochure could.

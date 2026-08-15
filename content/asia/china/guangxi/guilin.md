@@ -13,6 +13,10 @@ snippet: Guangxi karst city where limestone peaks rise from rivers and rice fiel
   like classical Chinese paintings.
 title: Guilin
 type: location
+heritage: 6.3
+vibrancy: 6.3
+nature: 7.7
+off_the_beaten_track: 2.3
 ---
 
 Guilin is the main city of a landscape that, for a thousand years, has been the archetype of classical Chinese painting — the dreamlike karst region of **Guangxi**, where thousands of near-vertical limestone peaks rise straight out of rice paddies and muddy rivers. You have seen it whether you know it or not: on the back of the 20-yuan note, on every scroll and screen of "mountains and water" in a Chinese museum, in a thousand ink-wash paintings. What is surprising when you get here is how accurate those paintings are. The mountains really do look like that.

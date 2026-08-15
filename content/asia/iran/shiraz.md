@@ -16,6 +16,10 @@ snippet: Iranian city of poets, gardens, and orange blossom, with Hafez, Saadi, 
   Persepolis close by.
 title: Shiraz
 type: location
+heritage: 6.1
+vibrancy: 4.2
+nature: 2.6
+off_the_beaten_track: 3.5
 ---
 
 Shiraz is Iran's city of poets, roses, and wine — the wine long gone, the roses and poetry very much intact. At 1,600 metres on a fertile plain ringed by mountains, the climate is unusually kind: mild winters, warm but not brutal summers, and air that carries the scent of orange blossom in spring.

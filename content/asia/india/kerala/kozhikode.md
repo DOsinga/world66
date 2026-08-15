@@ -14,6 +14,10 @@ snippet: Malabar Coast city formerly called Calicut, shaped by spice trade, Zamo
   history, and deeply local food.
 title: Kozhikode
 type: location
+heritage: 6.6
+vibrancy: 7.0
+nature: 4.9
+off_the_beaten_track: 1.9
 ---
 
 Kozhikode, formerly known as Calicut, is where Vasco da Gama landed in 1498 (at [Kappad Beach](/asia/india/kerala/kozhikode/kappad_beach), 16 km north), opening the sea route between Europe and India. The city was the capital of the powerful Zamorin rulers and a major spice trading port for centuries before that. Marco Polo described it as a great province as early as 1320.

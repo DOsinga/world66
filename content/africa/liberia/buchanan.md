@@ -12,6 +12,10 @@ sources:
 title: Buchanan
 type: location
 score: 4.91
+heritage: 2.1
+vibrancy: 1.8
+nature: 4.0
+off_the_beaten_track: 6.1
 ---
 
 *Africa > [Liberia](/africa/liberia) > Buchanan*

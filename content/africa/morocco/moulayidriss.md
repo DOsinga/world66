@@ -14,6 +14,10 @@ snippet: Holy Moroccan hill town overlooking Volubilis, named for the founder of
   first Moroccan dynasty.
 title: Moulay Idriss
 type: location
+heritage: 7.6
+vibrancy: 2.3
+nature: 2.9
+off_the_beaten_track: 3.4
 ---
 
 Moulay Idriss Zerhoun is one of Morocco's holiest towns, draped across two green hills overlooking the Roman ruins of Volubilis. It is named after Moulay Idriss I, founder of the first Moroccan dynasty, whose tomb draws a constant stream of pilgrims. Until 2005 non-Muslims were not permitted to stay overnight, and the town still feels more like a place of devotion than of tourism — which is exactly why it is worth visiting.

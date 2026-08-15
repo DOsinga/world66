@@ -10,6 +10,10 @@ title: St. John's
 type: location
 snippet: Newfoundland capital on a narrow harbour, famous for steep streets and painted
   clapboard houses.
+heritage: 4.0
+vibrancy: 3.2
+nature: 5.8
+off_the_beaten_track: 4.9
 ---
 
 St. John's is the capital of [Newfoundland](/northamerica/canada/newfoundland) and the most easterly city in North America. It clings to the hills around a narrow harbour, with rows of brightly painted clapboard houses stacked above the waterfront — a look that has become one of Canada's most photographed streetscapes.

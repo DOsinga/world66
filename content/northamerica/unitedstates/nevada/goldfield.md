@@ -14,6 +14,10 @@ snippet: Nevada boomtown where grand stone buildings outlast the gold rush on a 
   main street.
 title: Goldfield
 type: location
+heritage: 4.4
+vibrancy: 2.4
+nature: 4.3
+off_the_beaten_track: 4.3
 ---
 
 Goldfield is the best-preserved boomtown in Nevada, and one of the most atmospheric ghost towns in the American West. In 1906 it was the largest city in the state, with over 20,000 residents, dozens of saloons, and a stock exchange fueled by gold strikes. Today the population hovers around 250, but the town's grand stone and brick buildings still line the main street, stubbornly refusing to crumble.

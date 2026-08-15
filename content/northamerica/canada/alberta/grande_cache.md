@@ -7,13 +7,18 @@ latitude: 53.8886
 loc_type: city
 longitude: -119.1183
 score: 6.8
-snippet: Alberta Rockies hamlet with canyon viewpoints, wilderness trails, and dinosaur tracks.
+snippet: Alberta Rockies hamlet with canyon viewpoints, wilderness trails, and dinosaur
+  tracks.
 sources:
-  - https://en.wikivoyage.org/wiki/Grande_Cache
-  - https://www.wikidata.org/wiki/Q1542954
-  - https://en.wikipedia.org/wiki/Grande_Cache
+- https://en.wikivoyage.org/wiki/Grande_Cache
+- https://www.wikidata.org/wiki/Q1542954
+- https://en.wikipedia.org/wiki/Grande_Cache
 title: Grande Cache
 type: location
+heritage: 1.1
+vibrancy: 1.4
+nature: 5.5
+off_the_beaten_track: 5.0
 ---
 
 Grande Cache sits on the eastern edge of the Alberta Rockies, between Hinton and Grande Prairie, with mountain ridges on the horizon and big wilderness just outside town. It began as a resource town, but it is the landscape that makes it worth a traveller's spare day.

@@ -16,6 +16,10 @@ image: aibonito.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Parroquia_San_Jos%C3%A9,_Aibonito,_Puerto_Rico_(4764103748).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Joe Delgado from Hatillo, Puerto Rico
+heritage: 4.1
+vibrancy: 2.7
+nature: 6.3
+off_the_beaten_track: 2.3
 ---
 
 Aibonito sits high in Puerto Rico's Cordillera Central, cool enough to feel like a different island from the coast. Locals call it Puerto Rico's Garden, and the name fits: nurseries, flowers, mountain air, and steep roads shape the town more than beaches or nightlife.

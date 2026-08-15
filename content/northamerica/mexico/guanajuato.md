@@ -14,6 +14,10 @@ snippet: Colonial silver city in a central Mexican ravine, threaded by tunnels a
   steep painted alleys
 title: Guanajuato
 type: location
+heritage: 6.7
+vibrancy: 5.0
+nature: 2.8
+off_the_beaten_track: 2.3
 ---
 
 Guanajuato is one of Mexico's most beautiful colonial cities, and one of the most dramatically situated — built into a narrow ravine in the mountains of central Mexico, with streets so steep and winding that the city had to run its main traffic underground through a network of tunnels carved into former riverbeds. It's a UNESCO World Heritage city and looks the part: a dense tangle of coloured facades, baroque churches, and cobbled alleys stacked up the hillsides.

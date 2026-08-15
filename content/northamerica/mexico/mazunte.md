@@ -3,7 +3,8 @@ latitude: 15.6666
 loc_type: city
 longitude: -96.5535
 score: 7.4
-snippet: Small Oaxacan beach town shaped by turtle conservation, sunset cliffs, and slow Pacific days.
+snippet: Small Oaxacan beach town shaped by turtle conservation, sunset cliffs, and
+  slow Pacific days.
 sources:
 - https://en.wikivoyage.org/wiki/Mazunte
 - https://visitmexico.com/en/destino/2194/mazunte-oaxaca
@@ -11,6 +12,10 @@ sources:
 title: Mazunte
 type: location
 wikidata: Q6799043
+heritage: 2.7
+vibrancy: 3.6
+nature: 7.6
+off_the_beaten_track: 4.7
 ---
 
 Mazunte is a small beach town on the Oaxacan coast, close to [Zipolite](/northamerica/mexico/zipolite) but with a different centre of gravity. It has the slow rhythm of hammocks, yoga signs, seafood lunches, and dusty lanes, but its real story is the shift from turtle hunting to turtle conservation.

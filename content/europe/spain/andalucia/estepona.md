@@ -10,6 +10,10 @@ longitude: -5.146848
 score: 8.25
 title: Estepona
 type: location
+heritage: 2.8
+vibrancy: 4.8
+nature: 5.5
+off_the_beaten_track: 1.8
 ---
 
 Estepona sits on the western end of the Costa del Sol, and it has managed to hold onto more of its Andalusian identity than most of its neighbours. The [old town](/europe/spain/andalucia/estepona/old_town), with its whitewashed walls and flower-draped balconies, is genuinely charming, and the town has invested heavily in public art and street murals — over 50 large-scale works now cover the facades of the old quarter, the product of an annual street art festival running since 2012.

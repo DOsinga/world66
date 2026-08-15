@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Yasawa_Islands
 title: Yasawa Islands
 type: location
+heritage: 3.7
+vibrancy: 0.8
+nature: 7.5
+off_the_beaten_track: 7.3
 ---
 
 The Yasawa Islands are a volcanic chain stretching north from [Fiji's](/australiaandpacific/fiji) main island of Viti Levu — about 20 islands, most of them long and narrow, with white sand beaches, clear lagoons, and village life that moves at its own pace. For decades they were off-limits to independent travellers, effectively a protected backwater. Since the late 1990s, a network of budget bures, family guesthouses, and a handful of upmarket resorts has opened up the chain, and the [Yasawa Flyer](/australiaandpacific/fiji/yasawaislands/yasawa_flyer) catamaran now connects the islands daily from Denarau near Nadi.

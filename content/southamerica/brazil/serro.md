@@ -17,6 +17,10 @@ image: serro.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Prefeitura_camara_municipal_serro.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Halleypo
+heritage: 4.0
+vibrancy: 2.2
+nature: 7.8
+off_the_beaten_track: 6.0
 ---
 
 Serro is one of the old mining towns of Minas Gerais, smaller and quieter than nearby [Diamantina](/southamerica/brazil/diamantina) but cut from the same stone, whitewash, and steep-street cloth. Its historic centre is protected for its colonial architecture and landscape, and the town still feels tied to the old Estrada Real rather than to the faster Brazil beyond the hills.

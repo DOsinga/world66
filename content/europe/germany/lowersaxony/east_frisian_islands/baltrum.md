@@ -14,6 +14,10 @@ snippet: Tiny car-free East Frisian island of dunes, Wadden Sea flats, and a sin
   quiet village.
 title: Baltrum
 type: location
+heritage: 2.1
+vibrancy: 1.6
+nature: 5.2
+off_the_beaten_track: 4.7
 ---
 
 Baltrum is the smallest of the seven inhabited East Frisian Islands — just five kilometres long and barely a kilometre wide. Cars are banned entirely, and there is not even a paved road. Getting anywhere means walking, cycling, or hitching a ride on one of the electric carts that handle luggage and supplies. The result is an almost surreal quiet, broken only by wind, birdsong, and the occasional church bell.

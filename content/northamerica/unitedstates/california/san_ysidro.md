@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/San_Ysidro_Port_of_Entry
 title: San Ysidro
 type: location
+heritage: 2.1
+vibrancy: 2.9
+nature: 2.5
+off_the_beaten_track: 1.5
 ---
 
 San Ysidro sits at the very southern tip of San Diego, pressed up against the Mexican border. It is best known as the location of the [San Ysidro Port of Entry](/northamerica/unitedstates/california/san_ysidro/port_of_entry), the busiest land border crossing in the world — around 90,000 people cross here on a typical day. For most travelers it is a threshold rather than a destination: the place where you step off the San Diego Trolley and walk across into Tijuana.

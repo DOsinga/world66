@@ -16,6 +16,10 @@ sources:
 - https://elsalvador.travel/destination/parque-nacional-el-imposible/en/
 title: El Imposible National Park
 type: location
+heritage: 1.7
+vibrancy: 1.0
+nature: 7.3
+off_the_beaten_track: 4.9
 ---
 
 El Imposible National Park protects one of El Salvador's most important remaining forests, a steep slice of Pacific-slope wilderness in Ahuachapan department. The name sounds theatrical, but it comes from a real problem: the old gorge crossing here was once so dangerous for pack animals and coffee transport that locals called it impossible.

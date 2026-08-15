@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Siege_of_Masulipatam
 title: Machilipatnam
 type: location
+heritage: 5.3
+vibrancy: 2.4
+nature: 2.8
+off_the_beaten_track: 2.7
 ---
 
 Machilipatnam (also known as Masulipatnam or Bandar) is a port city in Krishna district of Andhra Pradesh, situated on the Bay of Bengal about 50 km from Vijayawada. It is one of the oldest port towns on the eastern coast of India, with a history stretching back to the 2nd century BCE. During the colonial era it was a significant trading post — the Dutch, British, and French all had factories here at various times in the 17th century, making it a flashpoint in the global competition between European powers in Asia.

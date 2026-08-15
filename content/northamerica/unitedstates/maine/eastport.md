@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Raye%27s_Mustard_Mill
 title: Eastport
 type: location
+heritage: 3.0
+vibrancy: 1.6
+nature: 5.6
+off_the_beaten_track: 4.4
 ---
 
 Eastport is the easternmost city in the United States, perched on Moose Island at the mouth of the Bay of Fundy where the tides are among the highest on the American coast -- over 20 feet between high and low water. The town has a quiet, end-of-the-road character that appeals to artists, writers, and travelers looking to get genuinely off the beaten path. You are closer to New Brunswick, Canada than to any city in Maine.

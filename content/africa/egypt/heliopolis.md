@@ -13,6 +13,10 @@ score: 6.62
 loc_type: city
 snippet: Cairo suburb layered over ancient Heliopolis, with Egypt's oldest standing
   obelisk beside Baron Empain's desert city.
+heritage: 6.3
+vibrancy: 4.5
+nature: 1.9
+off_the_beaten_track: 2.7
 ---
 
 Heliopolis carries two histories at once. The ancient one — Iunu, City of the Sun, seat of the cult of Ra — is mostly gone. Where priests once tended to towering temples, Cairo's northeastern suburbs now sprawl. The one surviving monument is the Obelisk of Senusret I, a 68-tonne spike of pink granite that has stood in what is now the working-class neighbourhood of Matariyya since around 1950 BCE. It is the oldest standing obelisk in Egypt.

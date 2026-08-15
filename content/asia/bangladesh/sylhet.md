@@ -14,6 +14,10 @@ snippet: Northeastern Bangladeshi city of tea estates, Sufi pilgrimage, and hill
   below Meghalaya
 title: Sylhet
 type: location
+heritage: 2.7
+vibrancy: 2.7
+nature: 4.1
+off_the_beaten_track: 4.1
 ---
 
 Sylhet sits in the northeast of Bangladesh in a region of tea estates, rivers, and lush green hills rolling up toward the Khasi and Jaintia mountains of Meghalaya. It is Bangladesh at its most scenic — very different from the flat delta that covers most of the country.

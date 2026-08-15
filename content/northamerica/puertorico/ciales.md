@@ -5,15 +5,20 @@ loc_type: city
 latitude: 18.3361
 longitude: -66.4689
 wikidata: Q2485522
-snippet: Puerto Rican mountain town of coffee, karst roads, waterfalls, and Cordillera Central forest.
+snippet: Puerto Rican mountain town of coffee, karst roads, waterfalls, and Cordillera
+  Central forest.
 sources:
-  - https://en.wikivoyage.org/wiki/Ciales
-  - https://en.wikipedia.org/wiki/Ciales%2C_Puerto_Rico
-  - https://www.discoverpuertorico.com/article/things-to-do-ciales
+- https://en.wikivoyage.org/wiki/Ciales
+- https://en.wikipedia.org/wiki/Ciales%2C_Puerto_Rico
+- https://www.discoverpuertorico.com/article/things-to-do-ciales
 image: ciales.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ciales,_Puerto_Rico.jpg
 image_license: CC BY 2.0
 image_attribution: Ricardo Mangual
+heritage: 3.2
+vibrancy: 2.1
+nature: 5.6
+off_the_beaten_track: 2.8
 ---
 
 Ciales sits in Puerto Rico's interior mountains, where the northern karst begins to fold into the Cordillera Central. It is small, green, and slower than the coast, with coffee culture in town and winding roads that climb toward waterfalls and cloud forest.

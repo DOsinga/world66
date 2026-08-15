@@ -10,6 +10,10 @@ snippet: Lahn river town with a baroque palace above Germany's only historic shi
   tunnel.
 title: Weilburg
 type: location
+heritage: 5.3
+vibrancy: 2.8
+nature: 4.2
+off_the_beaten_track: 2.0
 ---
 
 Weilburg is a small town on a dramatic loop of the Lahn river in Hesse, with a baroque [Schloss Weilburg](/europe/germany/hesse/weilburg/schloss_weilburg) perched on the ridge above the water. The palace, once the residence of the Counts of Nassau-Weilburg, has seven terraced gardens cascading down the hillside to the river and is one of the finest baroque ensembles in the region. The Schlosskirche within the complex is regarded as one of Germany's most significant Protestant Baroque church buildings.

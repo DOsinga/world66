@@ -13,6 +13,10 @@ snippet: Mountain town in northwest Thailand, shaped by Burmese temples and a qu
   lakefront centre.
 title: Mae Hong Son
 type: location
+heritage: 1.7
+vibrancy: 5.5
+nature: 5.4
+off_the_beaten_track: 4.6
 ---
 
 Mae Hong Son is a peaceful spot in the north-western corner of Thailand, sheltered by mountains and shaped by centuries of Burmese influence. The town is small, walkable, and popular with independent travellers -- more than 20 guesthouses line the quiet streets.

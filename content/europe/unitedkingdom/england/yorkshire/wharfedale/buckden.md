@@ -13,6 +13,10 @@ image: buckden.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Village_Hall,_Buckden.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Richard Kelly
+heritage: 4.8
+vibrancy: 2.5
+nature: 6.7
+off_the_beaten_track: 3.1
 ---
 
 Buckden is a tiny stone village near the head of Wharfedale, where the valley narrows and the walking gets wilder. It is not a place of big sights. It works because the good things are close: the climb up Buckden Pike, the Dales Way along the River Wharfe, the hamlet of Hubberholme, and the moor road towards Langstrothdale.

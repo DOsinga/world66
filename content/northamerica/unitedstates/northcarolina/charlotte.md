@@ -12,6 +12,10 @@ snippet: North Carolina banking city with Southern roots, Revolutionary history,
   glassy Uptown towers.
 title: Charlotte
 type: location
+heritage: 6.4
+vibrancy: 6.3
+nature: 3.5
+off_the_beaten_track: 1.3
 ---
 
 Charlotte is North Carolina's largest city and the second-largest banking center in the United States after New York. But beyond the glass towers of Uptown, the city has genuine Southern character and a history that stretches back to the eighteenth century.

@@ -18,6 +18,10 @@ image: san_andres_tuxtla.jpg
 image_source: https://commons.wikimedia.org/wiki/File:CathedralSanAndresTuxtla02.JPG
 image_license: CC BY-SA 3.0
 image_attribution: AlejandroLinaresGarcia
+heritage: 3.8
+vibrancy: 4.3
+nature: 5.2
+off_the_beaten_track: 4.0
 ---
 
 San Andrés Tuxtla is the largest town in Los Tuxtlas, the volcanic, humid, tobacco-growing corner of southern Veracruz. It is not a polished resort town, but it has a real identity: cigar workshops, old houses from its prosperous tobacco years, and a landscape that turns quickly from streets to green hills, lakes, waterfalls, and rainforest.

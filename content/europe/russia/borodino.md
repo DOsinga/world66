@@ -13,6 +13,10 @@ image: borodino.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Battle_of_Borodino.jpg
 image_license: Public domain
 image_attribution: Louis Lejeune
+heritage: 7.0
+vibrancy: 1.9
+nature: 2.7
+off_the_beaten_track: 3.0
 ---
 
 The State Borodino War and History Museum sits 120 km west of Moscow at the site of the Battle of Borodino, fought on 7 September 1812 between Napoleon's Grande Armee and Kutuzov's Russian forces. Founded in 1839, it is the oldest battlefield museum in the world.

@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Whistler
 title: Whistler
 type: location
+heritage: 1.6
+vibrancy: 3.3
+nature: 6.2
+off_the_beaten_track: 1.8
 ---
 
 *North America > Canada > British Columbia > Whistler*

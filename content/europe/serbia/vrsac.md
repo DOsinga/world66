@@ -5,10 +5,15 @@ loc_type: city
 latitude: 45.1167
 longitude: 21.3
 score: 7.2
-snippet: Vojvodina wine town below an isolated hill range, with a castle tower above the plain.
+snippet: Vojvodina wine town below an isolated hill range, with a castle tower above
+  the plain.
 sources:
 - https://en.wikivoyage.org/wiki/Vr%C5%A1ac
 - https://en.wikipedia.org/wiki/Vr%C5%A1ac
+heritage: 3.7
+vibrancy: 2.4
+nature: 3.2
+off_the_beaten_track: 3.5
 ---
 
 Vršac sits near Serbia's Romanian border, where the flat Vojvodina plain suddenly rises into vineyards and the Vršac Mountains. That contrast gives the town more character than many of the lowland settlements around it: wine cellars below, a ruined castle above, and monastic villages just beyond the edge of town.

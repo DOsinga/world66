@@ -15,6 +15,10 @@ tags:
 - cornwall
 title: Bude
 type: location
+heritage: 4.5
+vibrancy: 3.5
+nature: 6.6
+off_the_beaten_track: 3.5
 ---
 
 Bude is a small seaside town on the north Cornwall coast, set at the mouth of the River Neet where it meets the Atlantic. It is one of the most accessible parts of Cornwall from the Midlands and the north — about four to five hours by road — and serves as a useful gateway to the county.

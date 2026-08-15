@@ -14,6 +14,10 @@ image: vesteralen.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bleik_village_and_Bleik_island,_seen_from_Mount_Royken.jpg
 image_license: Public domain
 image_attribution: Ovuigner (Wikimedia Commons)
+heritage: 4.8
+vibrancy: 2.8
+nature: 7.7
+off_the_beaten_track: 4.9
 ---
 
 Vesterålen is the archipelago immediately north of Lofoten, sharing the same jagged peaks and Arctic light but drawing a fraction of the visitors — most travellers pour their whole trip into Lofoten and never cross the strait. That's a mistake, or at least an opportunity: the scenery is nearly as dramatic, the roads are quieter, and the islands hold two wildlife draws Lofoten can't match.

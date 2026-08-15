@@ -15,6 +15,10 @@ sources:
 - https://www.ion-club.net/kitesurfing-in-safaga/
 snippet: Red Sea port town where ferry docks and dive boats share access to excellent
   offshore reefs.
+heritage: 2.4
+vibrancy: 3.3
+nature: 6.6
+off_the_beaten_track: 3.5
 ---
 
 Safaga sits on the Egyptian Red Sea coast about 53 km south of Hurghada, and it's one of those places where the working port and the tourist town have grown up side by side without quite resolving the tension between them. Container ships and ferries bound for Saudi Arabia share the waterfront with dive boats heading out to some of the Red Sea's most reliably excellent reefs. That combination gives Safaga a gritty, unpretentious character that many travellers find refreshing after the resort-bubble polish of its neighbours.

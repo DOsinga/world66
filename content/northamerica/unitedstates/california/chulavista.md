@@ -16,6 +16,10 @@ title: Chula Vista
 type: location
 snippet: Chula Vista is a San Diego County city between the bay, Otay Lakes, and the
   Mexican border.
+heritage: 2.2
+vibrancy: 4.2
+nature: 5.0
+off_the_beaten_track: 1.2
 ---
 
 Chula Vista is San Diego County's second-largest city, sitting just north of the Mexican border and spreading from the flat coastal plain up into the dry hills above Otay Lakes. It has a strongly Latino character — Chula Vista is Spanish for "beautiful view" — and a relaxed suburban pace that feels quite different from downtown San Diego.

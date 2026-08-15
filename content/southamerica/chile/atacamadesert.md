@@ -13,6 +13,10 @@ snippet: Northern Chilean desert where salt flats, rust canyons, geysers, and an
   geoglyphs sit below the Andes.
 title: Atacama Desert
 type: location
+heritage: 1.6
+vibrancy: 1.3
+nature: 7.7
+off_the_beaten_track: 6.1
 ---
 
 The Atacama is one of the driest places on earth — some parts of it haven't seen measurable rain in recorded history. Stretching 1,000 kilometres down the northern third of Chile, wedged between the Pacific coast ranges and the Andes, it is also one of the most spectacular landscapes you will ever stand in.

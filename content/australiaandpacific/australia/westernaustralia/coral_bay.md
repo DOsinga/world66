@@ -14,6 +14,10 @@ snippet: Western Australian reef township where Ningaloo's coral lies close enou
   to snorkel straight from shore.
 title: Coral Bay
 type: location
+heritage: 2.0
+vibrancy: 3.1
+nature: 7.4
+off_the_beaten_track: 3.0
 ---
 
 Coral Bay is a small township on the coast of Western Australia, about 1,100 km north of [Perth](/australiaandpacific/australia/westernaustralia/perth), at the southern end of the [Ningaloo Reef](/australiaandpacific/australia/westernaustralia/coral_bay/ningaloo_reef). The reef here comes very close to the shore — in places you can wade straight into it — and that accessibility makes Coral Bay one of the best places in Australia to snorkel without getting on a boat.

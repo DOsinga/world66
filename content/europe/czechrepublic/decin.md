@@ -16,6 +16,10 @@ image: decin.jpg
 image_source: https://commons.wikimedia.org/wiki/File:D%C4%9B%C4%8D%C3%ADn,_Czech_Republic_-_panoramio_(1).jpg
 image_license: CC BY 3.0
 image_attribution: Anton Nikiforov
+heritage: 4.9
+vibrancy: 3.9
+nature: 4.7
+off_the_beaten_track: 2.9
 ---
 
 Děčín sits where the Elbe cuts between sandstone cliffs on the Czech-German border. It is not as polished as [Prague](/europe/czechrepublic/prague) or as famous as [Český Krumlov](/europe/czechrepublic/ceskykrumlov), but the setting is excellent: a castle above the river, a rock wall with a via ferrata in the middle of town, and forested hills leading into Bohemian Switzerland.

@@ -5,10 +5,15 @@ loc_type: city
 latitude: 47.1211
 longitude: -88.5694
 score: 7.6
-snippet: Twin Keweenaw canal towns shaped by copper mining, steep streets, and Lake Superior winters.
+snippet: Twin Keweenaw canal towns shaped by copper mining, steep streets, and Lake
+  Superior winters.
 sources:
-  - https://en.wikivoyage.org/wiki/Houghton-Hancock
-  - https://en.wikipedia.org/wiki/Keweenaw_National_Historical_Park
+- https://en.wikivoyage.org/wiki/Houghton-Hancock
+- https://en.wikipedia.org/wiki/Keweenaw_National_Historical_Park
+heritage: 4.3
+vibrancy: 4.6
+nature: 6.9
+off_the_beaten_track: 3.9
 ---
 
 Houghton and Hancock face each other across the Portage Lake Ship Canal in Michigan's Upper Peninsula. They read as one town split by water: Houghton has Michigan Tech and the larger downtown; Hancock climbs the hill on the north side and points toward the old copper country.

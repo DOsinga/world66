@@ -17,6 +17,10 @@ image: ixtlan_del_rio.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Desde_la_capilla_de_la_natividad.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Maiztrillo
+heritage: 4.7
+vibrancy: 3.6
+nature: 5.2
+off_the_beaten_track: 4.4
 ---
 
 Ixtlán del Río is a small city in southern Nayarit, on the old road between Tepic and Guadalajara. It was named a Pueblo Mágico in 2023, but its real claim is older: [Los Toriles](/northamerica/mexico/ixtlan_del_rio/los_toriles) is one of the most important archaeological sites in western Mexico and the only major Nayarit ruin open to visitors.

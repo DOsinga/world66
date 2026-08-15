@@ -21,6 +21,10 @@ tip: Jakarta is a vast, traffic-clogged megacity that is literally sinking — p
   MRT. See the old Dutch town of Kota Tua and the giant National Monument (Monas).
 title: Jakarta
 type: location
+heritage: 4.3
+vibrancy: 6.4
+nature: 2.4
+off_the_beaten_track: 1.5
 ---
 
 Most travelers use Jakarta as a starting or ending point -- catch a flight at Soekarno-Hatta, take a ferry to another island, and spend as little time as possible in between. The city's reputation is chaotic traffic, oppressive heat, and not much to see. This is a shame, because Jakarta has more character than it gets credit for.

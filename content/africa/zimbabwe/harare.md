@@ -21,6 +21,10 @@ tip: Harare sits high on the veld, so the climate is mild and the jacarandas and
   Carry US dollars in small denominations; the local currency is unstable.
 title: Harare
 type: location
+heritage: 5.5
+vibrancy: 4.1
+nature: 4.4
+off_the_beaten_track: 5.6
 ---
 
 Harare is Zimbabwe’s capital and largest city, set at about 1,500 metres on the central plateau. It has been through very difficult times — hyperinflation, political repression, economic collapse — and the city shows the scars. But it remains a surprisingly green and pleasant place, with wide tree-lined avenues, parks, and a more relaxed atmosphere than you might expect.

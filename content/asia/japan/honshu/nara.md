@@ -23,6 +23,10 @@ tip: Nara's deer roam free and bow for crackers (shika senbei) sold by vendors â
   for luck. It's an easy half-day from Kyoto or Osaka.
 title: Nara
 type: location
+heritage: 8.2
+vibrancy: 5.0
+nature: 4.1
+off_the_beaten_track: 1.7
 ---
 
 Nara was Japan's first permanent capital, founded in 710 and modelled on the Tang Chinese city of Chang'an. For barely seventy years it served as the seat of imperial power before the court moved to Kyoto â€” but those decades were enough to produce some of the greatest Buddhist monuments in the country. Today Nara is a compact, manageable city that rewards a day or two's wandering, and it is far less crowded than Kyoto.

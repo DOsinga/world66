@@ -23,6 +23,10 @@ tip: El Nido and Coron are the headline acts, but the island is long and transfe
   ATMs are scarce and often empty.
 title: Palawan Island
 type: location
+heritage: 3.0
+vibrancy: 5.4
+nature: 6.3
+off_the_beaten_track: 3.7
 ---
 
 Palawan is a long, slender island 500 km southwest of Manila, often described as the Philippines' last frontier. It remains largely free of mass tourism, with dense jungle, clear waters, and some of the best diving in the country. The island stretches from the regional capital Puerto Princesa in the south to the spectacular karst seascapes of El Nido in the north.

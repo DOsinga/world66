@@ -15,6 +15,10 @@ image: varnamo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:V%C3%A4rnamo_Apladalen.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Dr. M. Hees
+heritage: 4.2
+vibrancy: 2.5
+nature: 4.1
+off_the_beaten_track: 1.9
 ---
 
 Värnamo is a small Småland town with more personality than its size suggests. It sits just off the E4 in southern Sweden, close to forests, lakes, and the wide wetland of [Store Mosse National Park](/europe/sweden/varnamo/store_mosse_national_park).

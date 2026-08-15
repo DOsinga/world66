@@ -19,6 +19,10 @@ tags:
 - als
 title: Sønderborg
 type: location
+heritage: 3.4
+vibrancy: 2.0
+nature: 3.4
+off_the_beaten_track: 2.7
 ---
 
 Sønderborg is a town in southern Denmark at the narrowest point of the Als Strait, connected by bridge to the island of Als. It sits very close to the German border and has a history shaped by the conflicts between Denmark and Germany — the town changed hands several times between the two countries before finally becoming Danish again after the 1920 referendum.

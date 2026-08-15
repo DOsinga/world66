@@ -5,10 +5,15 @@ loc_type: city
 latitude: 28.5536
 longitude: -82.3886
 score: 6.5
-snippet: Hilly old Florida county seat with Victorian houses, rail history, and Chinsegut Hill nearby.
+snippet: Hilly old Florida county seat with Victorian houses, rail history, and Chinsegut
+  Hill nearby.
 sources:
-  - https://en.wikivoyage.org/wiki/Brooksville
-  - https://en.wikipedia.org/wiki/Brooksville,_Florida
+- https://en.wikivoyage.org/wiki/Brooksville
+- https://en.wikipedia.org/wiki/Brooksville,_Florida
+heritage: 2.5
+vibrancy: 2.4
+nature: 3.8
+off_the_beaten_track: 1.6
 ---
 
 Brooksville is an inland Florida town with more hills and older bones than you expect this close to the Gulf Coast sprawl. It is the county seat of Hernando County, but the good bits for travelers are its Victorian houses, small museums, and the rolling country north of town.

@@ -14,6 +14,10 @@ snippet: Mountain resort town on the Oslo-Bergen railway, edging the Hardangervi
   plateau with year-round trails.
 title: Geilo
 type: location
+heritage: 1.9
+vibrancy: 3.5
+nature: 6.9
+off_the_beaten_track: 3.2
 ---
 
 Geilo sits at around 800 metres elevation on the Oslo-Bergen railway line, right on the edge of the [Hardangervidda](/europe/norway/geilo/hardangervidda) plateau -- Europe's largest mountain plateau. It is one of Norway's most popular ski resorts, and in summer it transforms into a base for hiking, cycling, and exploring the vast, treeless highland that stretches south and west.

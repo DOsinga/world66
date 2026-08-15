@@ -13,6 +13,10 @@ image: kirkcudbright.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Kirkcudbright_%26_the_River_Dee_(geograph_3644499).jpg
 image_license: CC BY-SA 2.0
 image_attribution: M J Richardson
+heritage: 4.8
+vibrancy: 1.8
+nature: 6.4
+off_the_beaten_track: 3.8
 ---
 
 Kirkcudbright sits near the mouth of the River Dee in southwest Scotland, where the Solway coast turns quiet and green. It is pronounced roughly "kuh-KOO-bree", which is worth knowing before you ask for directions. The town still has a working harbour, painted Georgian houses, and a small-street centre that feels more lived-in than polished.

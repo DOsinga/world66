@@ -17,6 +17,10 @@ sources:
 title: Bowen
 type: location
 wikidata: Q895407
+heritage: 2.0
+vibrancy: 2.2
+nature: 5.9
+off_the_beaten_track: 2.1
 ---
 
 Bowen is the older, quieter face of the Whitsundays: a North Queensland port town with wide streets, mango farms, beaches on several sides, and none of Airlie Beach's sailing-town bustle. It was founded in 1861 and once had ambitions to be the capital of North Queensland. That did not happen, but the leftover scale gives the town a strangely spacious feel.

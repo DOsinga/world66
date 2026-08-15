@@ -17,6 +17,10 @@ image: caldwell.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Caldwell_Post_Office_(1).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Tamanoeconomico
+heritage: 2.1
+vibrancy: 2.0
+nature: 3.6
+off_the_beaten_track: 1.8
 ---
 
 Caldwell is a small county-seat village in southeast [Ohio](/northamerica/unitedstates/ohio), just off I-77 in Noble County. It is not a polished destination, and you should not expect a full slate of city attractions. Its appeal is narrower: Appalachian back roads, old oil history, local glass collecting, and easy access to quiet state-park land.

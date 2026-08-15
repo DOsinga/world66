@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Castell%C3%B3_d%27Emp%C3%BAries
 title: Castello d'Empuries
 type: location
+heritage: 5.1
+vibrancy: 3.2
+nature: 6.0
+off_the_beaten_track: 3.9
 ---
 
 Castello d'Empuries sits just inland from the Bay of Roses, close enough to the Costa Brava to work as a beach detour but old enough to feel like a different world from the resort strip. In the Middle Ages it was the capital of the county of Empuries, and the town still has the heavy stone presence of a place that once mattered.

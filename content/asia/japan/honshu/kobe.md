@@ -13,6 +13,10 @@ title: Kobe
 snippet: Kansai port city between Rokko mountains and Osaka Bay, long shaped by foreign
   trade.
 type: location
+heritage: 3.9
+vibrancy: 4.8
+nature: 7.5
+off_the_beaten_track: 3.0
 ---
 
 Kobe sits between the Rokko mountains and Osaka Bay, a port city that has been open to foreign influence longer than almost anywhere else in Japan. Together with [Osaka](/asia/japan/honshu/osaka) and [Kyoto](/asia/japan/honshu/kyoto) it forms the heart of the Kansai region, and it is about three hours and twenty minutes from [Tokyo](/asia/japan/tokyo) by Shinkansen.

@@ -16,6 +16,10 @@ image: kofu.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Sh%C5%8Dsenky%C5%8D_01.jpg
 image_license: CC BY 2.0
 image_attribution: hoge asdf
+heritage: 6.0
+vibrancy: 4.5
+nature: 5.6
+off_the_beaten_track: 2.3
 ---
 
 Kofu is Yamanashi's capital, sitting in a broad inland basin with mountains on nearly every horizon. On a clear day the city gives you a fine geography lesson: Mount Fuji to the south, the Southern Alps to the west, and Yatsugatake to the north.

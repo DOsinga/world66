@@ -13,6 +13,10 @@ score: 7.17
 snippet: East Jutland fjord town known for large concerts and a major medieval festival
 title: Horsens
 type: location
+heritage: 3.8
+vibrancy: 2.8
+nature: 3.8
+off_the_beaten_track: 1.6
 ---
 
 Horsens is a mid-sized town on the east coast of Jutland, sitting at the head of a long fjord that opens into the Kattegat. It is best known today as a live music destination — major acts including Madonna, the Rolling Stones, and Paul McCartney have played here — and as the host of one of northern Europe's largest medieval festivals. Outside event weekends it is a quiet, well-preserved Danish town with a compact historic centre, easy access to the fjord, and the surrounding countryside of the East Jutland hills.

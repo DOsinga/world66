@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Samarinda
 title: Samarinda
 type: location
+heritage: 2.6
+vibrancy: 2.9
+nature: 4.4
+off_the_beaten_track: 4.6
 ---
 
 Samarinda is the provincial capital of East Kalimantan and a major river port on the Mahakam River. The city of around 800,000 people is the main starting point for travel into the Bornean interior — [the Mahakam valley](/asia/indonesia/kalimantan/samarinda/mahakam_river_journey), with its Dayak longhouses, lake communities, and dense rainforest, begins effectively at [Samarinda's docks](/asia/indonesia/kalimantan/samarinda/sungai_kunjang_port).

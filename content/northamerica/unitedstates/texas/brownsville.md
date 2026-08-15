@@ -5,11 +5,16 @@ loc_type: city
 latitude: 25.9303
 longitude: -97.4844
 score: 0.43
-snippet: "Rio Grande border city where South Texas history, Mexican culture, birding, and Gulf wetlands meet."
+snippet: Rio Grande border city where South Texas history, Mexican culture, birding,
+  and Gulf wetlands meet.
 sources:
-  - https://en.wikivoyage.org/wiki/Brownsville_(Texas)
-  - https://en.wikipedia.org/wiki/Brownsville,_Texas
-  - https://visitbtx.com/
+- https://en.wikivoyage.org/wiki/Brownsville_(Texas)
+- https://en.wikipedia.org/wiki/Brownsville,_Texas
+- https://visitbtx.com/
+heritage: 3.4
+vibrancy: 3.1
+nature: 2.3
+off_the_beaten_track: 1.6
 ---
 
 Brownsville sits at the far southern tip of Texas, where the Rio Grande, the Gulf Coast, and the Mexican border all shape the city. It is not cowboy Texas in the usual postcard sense. Spanish is everywhere, Matamoros is just across the river, and the climate feels more subtropical than western.

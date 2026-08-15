@@ -14,6 +14,10 @@ snippet: Algarve resort town where whitewashed old lanes sit above golden beache
   and late-night bars
 title: Albufeira
 type: location
+heritage: 2.6
+vibrancy: 6.2
+nature: 6.5
+off_the_beaten_track: 1.7
 ---
 
 Albufeira is the Algarve's most popular resort town, and for good reason. Perched on cliffs above a string of golden beaches on Portugal's southern coast, it combines the feel of a traditional fishing village with the energy of a modern holiday destination. The old town, a tangle of narrow cobbled streets and whitewashed houses tumbling down toward the sea, still has the charm that drew the first visitors decades ago -- and surprisingly few tourists bother to explore it properly.

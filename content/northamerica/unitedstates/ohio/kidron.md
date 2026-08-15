@@ -6,15 +6,20 @@ latitude: 40.7408
 longitude: -81.7447
 wikidata: Q568529
 score: 5.9
-snippet: Tiny Ohio Amish and Mennonite trading village built around auctions, hardware, and settlement history.
+snippet: Tiny Ohio Amish and Mennonite trading village built around auctions, hardware,
+  and settlement history.
 image: kidron.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kidron_Ohio_thumbnail_IMG_0806.jpg
 image_license: CC BY-SA 4.0
 image_attribution: SilentMatt Psychedelic
 sources:
-  - https://en.wikivoyage.org/wiki/Kidron
-  - https://en.wikipedia.org/wiki/Kidron,_Ohio
-  - https://www.ohiosamishcountry.com/articles/visit-the-town-that-doesnt-exist
+- https://en.wikivoyage.org/wiki/Kidron
+- https://en.wikipedia.org/wiki/Kidron,_Ohio
+- https://www.ohiosamishcountry.com/articles/visit-the-town-that-doesnt-exist
+heritage: 2.2
+vibrancy: 1.6
+nature: 2.9
+off_the_beaten_track: 2.3
 ---
 
 Kidron is barely a village, but in Ohio Amish Country it has a clear job. It is a trading place: Amish and Mennonite families come in for livestock sales, hardware, groceries, thrift goods, and the practical business of the week.

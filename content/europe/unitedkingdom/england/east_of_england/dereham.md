@@ -16,6 +16,10 @@ image: dereham.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Dereham_1915_air_raid.jpg
 image_license: Public domain
 image_attribution: Press photograph from 1915
+heritage: 4.6
+vibrancy: 2.9
+nature: 4.8
+off_the_beaten_track: 3.0
 ---
 
 Dereham is a central Norfolk market town, less polished than the coast and less obvious than [Norwich](/europe/unitedkingdom/england/east_of_england/norwich). Its appeal is practical and historical: railways, farm life, a windmill, and a small museum in one of the town's oldest buildings.

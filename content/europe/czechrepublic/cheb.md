@@ -5,9 +5,14 @@ loc_type: city
 latitude: 50.0794
 longitude: 12.3706
 score: 7.0
-snippet: West Bohemian border town with a compact medieval centre, castle ruins, and German-Czech history.
+snippet: West Bohemian border town with a compact medieval centre, castle ruins, and
+  German-Czech history.
 source: Wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Cheb
+heritage: 6.4
+vibrancy: 4.0
+nature: 3.1
+off_the_beaten_track: 2.5
 ---
 
 Cheb is a West Bohemian town close to the German border. It is still known by its old German name, Eger, and that borderland history gives the centre a different mood from the grand spa towns nearby. The industrial edges are plain, but the old core is compact, walkable, and worth a real stop.

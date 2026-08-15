@@ -3,15 +3,20 @@ latitude: 34.6461
 loc_type: city
 longitude: -120.4603
 score: 6.8
-snippet: Central Coast town of murals, flower fields, rocket launches, and California's best-restored mission.
+snippet: Central Coast town of murals, flower fields, rocket launches, and California's
+  best-restored mission.
 sources:
-  - https://en.wikivoyage.org/wiki/Lompoc
-  - https://explorelompoc.com/top-lompoc-attractions/
-  - https://www.parks.ca.gov/lapurisimamission
-  - https://www.cityoflompoc.com/
-  - https://www.wikidata.org/wiki/Q852704
+- https://en.wikivoyage.org/wiki/Lompoc
+- https://explorelompoc.com/top-lompoc-attractions/
+- https://www.parks.ca.gov/lapurisimamission
+- https://www.cityoflompoc.com/
+- https://www.wikidata.org/wiki/Q852704
 title: Lompoc
 type: location
+heritage: 3.9
+vibrancy: 3.3
+nature: 5.0
+off_the_beaten_track: 3.1
 ---
 
 Lompoc sits inland from the cold, windy edge of the Central Coast, where flower fields, military space launches, mission history, and a painted old town make a stranger mix than most small California cities can offer. It is not polished like Santa Barbara or staged like Solvang, and that is part of the point.

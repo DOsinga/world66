@@ -17,6 +17,10 @@ image: greifswald.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Greifswald_-_Town_Hall.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Harald909
+heritage: 6.7
+vibrancy: 5.5
+nature: 4.4
+off_the_beaten_track: 1.8
 ---
 
 Greifswald is a small Baltic university town with more weight than its size suggests. The old centre sits on the Ryck, with a market square, tall Brick Gothic churches, Hanseatic gabled houses, and enough students to keep the streets from feeling like a museum.

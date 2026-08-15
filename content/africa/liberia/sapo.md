@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Sapo_National_Park
 title: Sapo National Park
 type: location
+heritage: 0.7
+vibrancy: 1.1
+nature: 7.8
+off_the_beaten_track: 7.2
 ---
 
 *Africa > [Liberia](/africa/liberia) > Sapo National Park*

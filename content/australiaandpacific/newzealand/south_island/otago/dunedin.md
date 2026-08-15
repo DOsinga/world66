@@ -15,6 +15,10 @@ title: Dunedin
 type: location
 snippet: Scottish-flavoured South Island city on Otago Harbour, with Victorian streets
   and rare wildlife nearby.
+heritage: 3.8
+vibrancy: 4.0
+nature: 7.9
+off_the_beaten_track: 3.7
 ---
 
 Dunedin is New Zealand's most Scottish city — its name is the old Gaelic word for Edinburgh — and that heritage shows in its Victorian and Edwardian streetscapes, its stone-built university, and a certain Presbyterian seriousness balanced by a fierce local pride. The South Island's second-largest city sits at the head of Otago Harbour, with the long finger of Otago Peninsula stretching out to sea beside it.

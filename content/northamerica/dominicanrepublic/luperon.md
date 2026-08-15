@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/La_Isabela
 title: Luperon
 type: location
+heritage: 1.6
+vibrancy: 1.5
+nature: 6.3
+off_the_beaten_track: 5.5
 ---
 
 Luperon is a small fishing town on the north coast of the Dominican Republic, about 25 kilometres west of Puerto Plata. It is best known among sailors for its deep, protected natural harbour — one of the safest hurricane holes in the Caribbean — which attracts long-term cruisers from around the world. The rest of tourism largely passes it by, which is precisely what makes it worth visiting.

@@ -13,6 +13,10 @@ snippet: North Macedonian city below the Shar Mountains, known for the Painted M
   and Albanian-speaking bazaar life.
 title: Tetovo
 type: location
+heritage: 5.2
+vibrancy: 4.9
+nature: 5.6
+off_the_beaten_track: 3.5
 ---
 
 Tetovo sits at the foot of the Shar Mountains in northwestern North Macedonia, on the edge of the broad Polog Valley. The river Pena runs through the centre, flowing down from the peaks above. It is a predominantly Albanian-speaking city with a lively bazaar atmosphere and a dramatic mountain backdrop.

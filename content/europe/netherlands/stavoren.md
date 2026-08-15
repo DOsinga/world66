@@ -16,6 +16,10 @@ tags:
 - friesland
 title: Stavoren
 type: location
+heritage: 3.3
+vibrancy: 2.0
+nature: 3.8
+off_the_beaten_track: 3.0
 ---
 
 With only 995 inhabitants Stavoren (Staveren or Starum in Frisian) is small but it is still the oldest city of Friesland. Located on the shores of the IJsselmeer, it received city rights in 1118.

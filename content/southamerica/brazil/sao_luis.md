@@ -14,6 +14,10 @@ snippet: Island capital of Maranhão, known for French origins, tiled colonial f
   and a UNESCO-listed old town.
 title: São Luís
 type: location
+heritage: 8.0
+vibrancy: 4.4
+nature: 4.9
+off_the_beaten_track: 2.7
 ---
 
 São Luís is the capital of Maranhão state in northeastern Brazil, founded by the French in 1612 and the only Brazilian state capital established by France. The city sits on an island in the bay where the Anil and Bacanga rivers meet the Atlantic, and its [historic centre](/southamerica/brazil/sao_luis/historic_centre) is a UNESCO World Heritage Site — one of the finest collections of Portuguese colonial architecture in the Americas.

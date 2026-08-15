@@ -13,6 +13,10 @@ image: walla_walla.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Walla_Walla_Downtown_HD7_NRHP_100006868_Walla_Walla_County,_WA.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Jon Roanhaus
+heritage: 4.7
+vibrancy: 3.8
+nature: 4.7
+off_the_beaten_track: 2.3
 ---
 
 Walla Walla sits in southeastern [Washington](/northamerica/unitedstates/washington), close to the Oregon border and surrounded by wheat fields, vineyards, and low Blue Mountain foothills. It is famous for sweet onions, but the modern draw is wine: tasting rooms, vineyard drives, and a downtown that has grown into one of eastern Washington's more appealing small-city centres.

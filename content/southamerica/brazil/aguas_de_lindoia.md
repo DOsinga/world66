@@ -17,6 +17,10 @@ sources:
 title: Águas de Lindóia
 type: location
 wikidata: Q249869
+heritage: 3.5
+vibrancy: 4.0
+nature: 5.3
+off_the_beaten_track: 2.2
 ---
 
 Águas de Lindóia is a small spa town in the hills of São Paulo state, part of the Circuito das Águas Paulista. Its identity rests on mineral water: drinking fountains, baths, old resort habits, and the idea that a short stay should be good for the body as well as the mood.

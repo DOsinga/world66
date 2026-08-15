@@ -14,6 +14,10 @@ image: blacksburg.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Blacksburg,_Virginia.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Smash the Iron Cage
+heritage: 4.0
+vibrancy: 4.6
+nature: 5.2
+off_the_beaten_track: 3.3
 ---
 
 Blacksburg is a lively college town in the mountains of southwest [Virginia](/northamerica/unitedstates/virginia), about 30 miles west of [Roanoke](/northamerica/unitedstates/virginia/roanoke). It is best known as the home of Virginia Tech, and the university gives the town its scale, its football weekends, and much of its energy.

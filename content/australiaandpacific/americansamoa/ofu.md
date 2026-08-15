@@ -14,6 +14,10 @@ snippet: Manu'a island with a national park beach and fringing reef off American
   eastern edge
 title: Ofu
 type: location
+heritage: 2.9
+vibrancy: 0.6
+nature: 7.3
+off_the_beaten_track: 7.4
 ---
 
 Ofu is part of the Manu'a Island group, about 100 kilometres east of Tutuila and a 30-minute flight on a small plane. It's connected to its twin island Olosega by a short bridge.

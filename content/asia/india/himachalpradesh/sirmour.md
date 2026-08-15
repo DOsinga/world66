@@ -14,6 +14,10 @@ snippet: Southern Himachal district where Shivalik hill towns and pilgrimage sit
   meet the plains
 title: Sirmour
 type: location
+heritage: 3.1
+vibrancy: 2.8
+nature: 7.4
+off_the_beaten_track: 5.2
 ---
 
 Sirmour is the southernmost district of Himachal Pradesh, tucked into the Shivalik Hills where the mountains begin their descent toward the Indo-Gangetic plain. The district headquarters is [Nahan](/asia/india/himachalpradesh/sirmour/nahan), a pleasant hill town with a colonial-era layout and a genuine lack of tourist crowds. Other worthwhile stops include [Paonta Sahib](/asia/india/himachalpradesh/sirmour/paonta_sahib), a Sikh pilgrimage town on the Yamuna River, and [Renuka Lake](/asia/india/himachalpradesh/sirmour/renuka_lake), the largest natural lake in Himachal Pradesh, sacred to the goddess Renuka.

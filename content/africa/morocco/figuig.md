@@ -10,6 +10,10 @@ title: Figuig
 type: location
 snippet: Remote eastern Moroccan oasis town made up of fortified ksour and extensive
   date palms.
+heritage: 3.2
+vibrancy: 1.8
+nature: 7.3
+off_the_beaten_track: 6.5
 ---
 
 If you are the adventurous type, the desert trip from Er-Rachidia to Figuig will blow your mind. It is a ten-hour journey through the isolated lands of eastern Morocco, dominated by spectacular red mountains. Peering out the window of your bus, you will notice very little human presence in the arid landscape — only a couple of mining villages and military outposts. You may have to change buses at Bouarfa, a small town with a couple of hotels if you need to rest.

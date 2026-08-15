@@ -17,6 +17,10 @@ image: giresun.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Giresun_Ada.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Girtab2828
+heritage: 4.5
+vibrancy: 5.0
+nature: 5.5
+off_the_beaten_track: 4.1
 ---
 
 Giresun sits on Turkey's Black Sea coast, west of [Trabzon](/asia/turkey/trabzon), with its old core gathered around a rocky harbour promontory. The city is not polished for foreign visitors, and that is part of its appeal. It feels local, coastal, and a little overgrown, with hazelnut warehouses, tea gardens, fishing boats, and green hills pressing in behind the shore road.

@@ -16,6 +16,10 @@ tags:
 - cornwall
 title: Zennor
 type: location
+heritage: 5.3
+vibrancy: 2.2
+nature: 6.3
+off_the_beaten_track: 4.3
 ---
 
 Zennor is a tiny village on the B3306 between St Ives and St Just in Penwith, set back slightly from the wild north Penwith coast. The village is little more than a cluster of granite cottages, a church, and a pub, but it has a distinctive character and makes an excellent stopping point on the coastal road.

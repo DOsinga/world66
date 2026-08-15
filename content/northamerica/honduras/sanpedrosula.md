@@ -11,6 +11,10 @@ snippet: Hot Sula Valley city and Honduran transport hub for Copán, the north c
   and Lake Yojoa.
 title: San Pedro Sula
 type: location
+heritage: 4.4
+vibrancy: 5.4
+nature: 5.7
+off_the_beaten_track: 4.3
 ---
 
 San Pedro Sula is Honduras's second city and its industrial and commercial capital, a flat, hot city in the Sula valley near the north coast. It is the main gateway for travelers heading to [Copán](/northamerica/honduras/copan) (about three hours by bus to the west), the north coast, and the Bay Islands.

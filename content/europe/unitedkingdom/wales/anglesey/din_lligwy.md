@@ -9,6 +9,10 @@ snippet: Anglesey ancient monument cluster with a Neolithic tomb, Roman-era ston
   settlement, and ruined medieval chapel.
 title: Din Lligwy
 type: location
+heritage: 7.2
+vibrancy: 1.7
+nature: 5.7
+off_the_beaten_track: 3.9
 ---
 
 Din Lligwy is a remarkable cluster of ancient monuments on the northeast coast of [Anglesey](/europe/unitedkingdom/wales/anglesey), spanning three different ages of human settlement within a few hundred metres of each other.

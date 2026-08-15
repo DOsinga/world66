@@ -14,6 +14,10 @@ snippet: High Atlas ski village at 2,600 metres, where Moroccan mountain culture
   North Africa's highest slopes.
 title: Oukaimeden
 type: location
+heritage: 2.6
+vibrancy: 0.8
+nature: 7.8
+off_the_beaten_track: 6.9
 ---
 
 Oukaimeden is Africa's highest ski resort, sitting at around 2,600 metres in the High Atlas mountains, just 90 minutes from Marrakech. It draws a quirky mix of Moroccan families, French expats, and curious travellers who find it hard to believe you can ski in North Africa. The runs aren't long or technically demanding — this is more novelty than serious skiing — but the setting, with Atlas peaks all around and a village that feels genuinely Moroccan, is unlike any other ski resort on the continent. Ski and snowboard equipment is available to rent at the base.

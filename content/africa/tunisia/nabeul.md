@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Nabeul_Museum
 title: Nabeul
 type: location
+heritage: 6.1
+vibrancy: 4.2
+nature: 2.8
+off_the_beaten_track: 3.3
 ---
 
 Nabeul is the pottery capital of Tunisia, and it wears that title openly. The town on the Cap Bon peninsula, about 65 km from Tunis, is lined with [workshops and shops](/africa/tunisia/nabeul/pottery_workshops) selling the distinctive blue-and-white glazed ceramics, terracotta pots, and tiles that have been made here for centuries. The weekly Friday market draws traders from across the region.

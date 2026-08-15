@@ -16,6 +16,10 @@ tags:
 - rivieradellepalme
 title: Pietra Ligure
 type: location
+heritage: 3.7
+vibrancy: 2.9
+nature: 5.1
+off_the_beaten_track: 2.3
 ---
 
 Pietra Ligure sits on the Ligurian Riviera between Loano and Borgio Verezzi, its name taken from the dramatic limestone crag — "la Pietra" — that juts above the town and once held a Byzantine fortress. The old centre clusters around the medieval [Piazza Vecchia](/europe/italy/liguria/pietraligure/piazza_vecchia), while the modern resort spreads along a sandy beach popular with Italian families in summer.

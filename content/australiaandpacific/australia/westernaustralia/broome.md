@@ -14,6 +14,10 @@ snippet: Kimberley coast town shaped by pearling history, Cable Beach light, and
   northern Australia.
 title: Broome
 type: location
+heritage: 5.6
+vibrancy: 4.3
+nature: 7.4
+off_the_beaten_track: 4.6
 ---
 
 Far out in the north-west of Western Australia lies Broome — 2,046 km north of Perth, on the edge of the Kimberley. Once genuinely isolated, it has been discovered as a destination for good reason: [Cable Beach](/australiaandpacific/australia/westernaustralia/broome/cable_beach) is one of the finest stretches of sand in Australia, the light in the dry season is extraordinary, and the town has a multicultural history unlike anywhere else in the country. The best time to visit is between April and September, when the heat is manageable and the sea swimmable.

@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Bellinzona
 title: Bellinzona
 type: location
+heritage: 7.8
+vibrancy: 4.7
+nature: 5.0
+off_the_beaten_track: 1.9
 ---
 
 Bellinzona is the capital of Ticino, Switzerland's Italian-speaking canton, and its most strategically significant city. It sits in the narrow valley where the Ticino river funnels between the Alps before opening out toward Lake Maggiore, and this geography explains why it has been fortified since Roman times. The city's three medieval castles — [Castelgrande](/europe/switzerland/bellinzona/castelgrande), [Castello di Montebello](/europe/switzerland/bellinzona/castello_di_montebello), and [Castello di Sasso Corbaro](/europe/switzerland/bellinzona/castello_di_sasso_corbaro) — together with their connecting walls, were jointly declared a UNESCO World Heritage Site in 2000. They are the reason most people visit.

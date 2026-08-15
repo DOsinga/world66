@@ -15,6 +15,10 @@ snippet: Thar Desert city of golden sandstone, centred on a living fort of havel
   and Jain temples
 title: Jaisalmer
 type: location
+heritage: 9.1
+vibrancy: 3.3
+nature: 4.1
+off_the_beaten_track: 3.6
 ---
 
 Jaisalmer rises from the Thar Desert like a sandcastle come to life. The massive fort, built of golden-yellow sandstone, is a living citadel -- about a quarter of the old city's population still lives within its walls, along with Jain temples, havelis, and guest houses. Seen from a distance across the desert, especially at sunset, it is one of the most striking sights in India.

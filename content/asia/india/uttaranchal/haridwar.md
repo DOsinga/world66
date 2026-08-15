@@ -14,6 +14,10 @@ title: Haridwar
 snippet: Holy Ganges city at the Himalayan foothills, centred on ghats and the evening
   Ganga Aarti
 type: location
+heritage: 6.6
+vibrancy: 5.0
+nature: 3.7
+off_the_beaten_track: 2.1
 ---
 
 Haridwar is one of the seven holiest cities in Hinduism, and you will feel it the moment you arrive. The Ganges emerges from the Himalayan foothills here, and the entire city is organized around the river — bathing ghats, temple bells, chanting, and the smell of incense are constant. Every evening at [Har Ki Pauri](/asia/india/uttaranchal/haridwar/har_ki_pauri) ghat, priests perform the Ganga Aarti ceremony, lowering fire to the water as thousands of small oil lamps float downstream. It is one of the most atmospheric rituals you will witness anywhere in India.

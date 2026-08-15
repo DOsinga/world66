@@ -13,6 +13,10 @@ image: talairan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Talairan_(10).jpg
 image_license: CC BY-SA 3.0
 image_attribution: Montagnac Pascal
+heritage: 4.4
+vibrancy: 4.0
+nature: 5.4
+off_the_beaten_track: 3.3
 ---
 
 Talairan is a small Corbières wine village in the Aude, set among low garrigue hills scented with rosemary, thyme, and lavender. It is not a place for big monuments in the village itself; its appeal is the old Languedoc mix of vineyards, dry stone, summer fêtes, hunting country, and roads that lead quickly to abbeys and Cathar castles.

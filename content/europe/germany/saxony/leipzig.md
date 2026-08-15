@@ -16,6 +16,10 @@ title: Leipzig
 type: location
 snippet: Eastern German city of Bach, book fairs, peaceful revolution, and post-reunification
   creative energy.
+heritage: 5.9
+vibrancy: 6.1
+nature: 2.6
+off_the_beaten_track: 1.2
 ---
 
 Leipzig is one of the most dynamic cities in eastern Germany — a place with a musical heritage to rival Vienna, a pivotal role in the fall of the Berlin Wall, and a creative energy that has made it a magnet for artists and students since reunification.

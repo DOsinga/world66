@@ -7,17 +7,22 @@ latitude: 38.556389
 loc_type: city
 longitude: 37.493611
 score: 6.33
-snippet: Eastern Turkish town where a Sufi shrine, canyon walks, and cold waterfalls meet.
+snippet: Eastern Turkish town where a Sufi shrine, canyon walks, and cold waterfalls
+  meet.
 sources:
-  - https://en.wikivoyage.org/wiki/Darende
-  - https://www.wikidata.org/wiki/Q1003964
-  - https://darende.bel.tr/darende-tanitimi/gunpinar-selalesi-ve-kanyonu/
-  - https://darende.bel.tr/darende-tanitimi/kudret-havuzu/
-  - https://www.dailysabah.com/travel/2018/11/12/with-water-flowing-through-steep-cliffs-turkeys-tohma-canyon-even-more-beautiful-in-the-fall
-  - https://en.wikipedia.org/wiki/Tohma_Canyon
+- https://en.wikivoyage.org/wiki/Darende
+- https://www.wikidata.org/wiki/Q1003964
+- https://darende.bel.tr/darende-tanitimi/gunpinar-selalesi-ve-kanyonu/
+- https://darende.bel.tr/darende-tanitimi/kudret-havuzu/
+- https://www.dailysabah.com/travel/2018/11/12/with-water-flowing-through-steep-cliffs-turkeys-tohma-canyon-even-more-beautiful-in-the-fall
+- https://en.wikipedia.org/wiki/Tohma_Canyon
 title: Darende
 type: location
 wikidata: Q1003964
+heritage: 3.0
+vibrancy: 2.4
+nature: 4.5
+off_the_beaten_track: 5.4
 ---
 
 Darende is a small town in Malatya province, set where the Tohma River cuts through pale rock before joining the Euphrates system. It would be easy to pass by on the road across eastern Anatolia, but the town has a clear identity: water, cliffs, and the shrine of Somuncu Baba squeezed into the same narrow valley.

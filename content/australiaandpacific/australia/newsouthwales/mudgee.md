@@ -20,6 +20,10 @@ sources:
 title: Mudgee
 type: location
 wikidata: Q59819
+heritage: 3.9
+vibrancy: 4.1
+nature: 5.5
+off_the_beaten_track: 3.1
 ---
 
 Mudgee is a Central West town that has turned its old wool, gold, and railway bones into one of inland New South Wales' better food and wine bases. The name comes up often as a weekend escape from Sydney, but it does not feel like a resort strip. It still has a working country-town centre, broad streets, pubs, and handsome 19th-century buildings.

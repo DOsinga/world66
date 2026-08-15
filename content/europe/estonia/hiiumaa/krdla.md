@@ -14,6 +14,10 @@ snippet: Small capital of Hiiumaa island, set by the Baltic with quiet streets a
   island services.
 title: Kärdla
 type: location
+heritage: 4.8
+vibrancy: 1.5
+nature: 6.6
+off_the_beaten_track: 4.2
 ---
 
 Kärdla is the only real town on [Hiiumaa](/europe/estonia/hiiumaa), Estonia's second-largest island. It is small and quiet — more a large village than a city — with a handful of shops, a couple of cafes, and a pretty [town park built around the ruins of an old cloth factory](/europe/estonia/hiiumaa/krdla/cloth_factory_park).

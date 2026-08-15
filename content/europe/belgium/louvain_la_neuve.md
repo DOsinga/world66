@@ -18,6 +18,10 @@ image: louvain_la_neuve.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Belgique_-_Louvain-la-Neuve_-_Place_Cardinal_Mercier_-_01.jpg
 image_license: CC BY-SA 4.0
 image_attribution: EmDee
+heritage: 6.2
+vibrancy: 4.8
+nature: 3.3
+off_the_beaten_track: 1.9
 ---
 
 Louvain-la-Neuve is one of Belgium's oddest towns: a university city built from scratch after the linguistic split of the old Catholic University of Leuven. It was planned for people rather than cars, with much of the centre raised on a concrete slab and traffic pushed below. The result can feel artificial at first, but it is also unusually easy to wander, with red-brick lanes, student squares, bookshops, cafes, and sudden views into parks.

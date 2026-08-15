@@ -14,6 +14,10 @@ snippet: Small Tunisian town dominated by the Amphitheatre of Thysdrus, a vast R
   arena rising above modern streets
 title: El Jem
 type: location
+heritage: 6.4
+vibrancy: 2.1
+nature: 2.5
+off_the_beaten_track: 4.3
 ---
 
 El Jem is a small Tunisian town with one very big reason to visit: the Amphitheatre of Thysdrus, one of the best-preserved Roman amphitheatres in the world. It stands just a few minutes' walk from the centre of town, rising abruptly above the low modern buildings around it — an enormous stone oval that seats 35,000, built in the 3rd century AD when this region was one of Rome's most productive olive-growing provinces.

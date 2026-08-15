@@ -10,6 +10,10 @@ snippet: Great Miami River city north of Cincinnati, with Pyramid Hill Sculpture
   and a growing downtown arts scene.
 title: Hamilton
 type: location
+heritage: 4.4
+vibrancy: 1.9
+nature: 2.7
+off_the_beaten_track: 2.3
 ---
 
 Hamilton is a city in Butler County along the Great Miami River, about 30 miles north of [Cincinnati](/northamerica/unitedstates/ohio/cincinnati). Once a manufacturing hub that fell on hard times, it has been reinventing itself — the downtown has seen real investment in recent years, with new restaurants, murals, and a growing arts scene centered around the Fitton Center for Creative Arts.

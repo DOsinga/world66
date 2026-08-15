@@ -14,6 +14,10 @@ snippet: South Island city rebuilt after the 2011 earthquake, mixing English roo
   with new urban experiments.
 title: Christchurch
 type: location
+heritage: 5.0
+vibrancy: 5.9
+nature: 6.2
+off_the_beaten_track: 2.6
 ---
 
 Christchurch is the largest city on New Zealand's South Island and the country's most English-feeling place — the founding settlers in the 1850s explicitly set out to build a model Anglican city on the Canterbury Plains, and for 150 years they largely succeeded. Then, on 22 February 2011, a 6.3-magnitude earthquake hit directly beneath the central city, killed 185 people, and destroyed or damaged more than 80 percent of the buildings in the CBD.

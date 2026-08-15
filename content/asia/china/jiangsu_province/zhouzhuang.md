@@ -13,6 +13,10 @@ snippet: Jiangnan water town of canals, arched bridges, Ming-Qing houses, and th
   much-painted Double Bridge.
 title: Zhouzhuang
 type: location
+heritage: 7.0
+vibrancy: 4.3
+nature: 3.7
+off_the_beaten_track: 2.0
 ---
 
 Zhouzhuang (周庄) is the oldest and most famous of the Jiangnan water towns, a place that was drawing visitors long before anyone called it a tourist destination. The town sits on an island surrounded by lakes and threaded by canals, its Ming and Qing dynasty houses still standing with their private stone jetties over the water, their carved wooden facades intact, their arched bridges unchanged since they were built centuries ago. The [Double Bridge](/asia/china/jiangsu_province/zhouzhuang/double_bridge) — two stone spans joined at a right angle to resemble an ancient door key — is the image that has appeared on enough paintings and photographs to become an icon of rural China.

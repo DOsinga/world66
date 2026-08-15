@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Huaibei
 title: Huaibei
 type: location
+heritage: 2.7
+vibrancy: 3.4
+nature: 2.0
+off_the_beaten_track: 1.3
 ---
 
 Huaibei occupies a corner of northern Anhui where the province meets Shandong, Jiangsu, and Henan — a crossroads that has given it a layered history out of proportion to its current profile. The city grew rapidly as a coal mining center in the mid-twentieth century, but as the mines have run down, Huaibei has made a genuine effort to reframe itself around its ancient heritage and its position on the old Sui-Tang Grand Canal.

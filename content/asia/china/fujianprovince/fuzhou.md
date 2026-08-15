@@ -11,6 +11,10 @@ sources:
 - https://en.wikipedia.org/wiki/Fuzhou
 title: Fuzhou
 type: location
+heritage: 4.6
+vibrancy: 4.6
+nature: 4.4
+off_the_beaten_track: 1.8
 ---
 
 Fuzhou is the capital of Fujian province and one of China's oldest cities, with more than 2,000 years of recorded history. It sits in a basin ringed by hills, crossed by the Min River, and has a character shaped by three things: its long history of overseas trade, its reputation as a city of banyan trees, and the distinctive Fujianese dialect and food culture that has spread throughout Southeast Asia and beyond via its massive diaspora.

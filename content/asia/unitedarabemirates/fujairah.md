@@ -10,6 +10,10 @@ snippet: Eastern UAE emirate on the Gulf of Oman, backed by the Hajar Mountains 
   known for diving.
 title: Fujairah
 type: location
+heritage: 2.9
+vibrancy: 4.5
+nature: 6.9
+off_the_beaten_track: 3.9
 ---
 
 Fujairah is the UAE's quiet outlier. While Dubai and Abu Dhabi chase skylines and superlatives, this small emirate on the Gulf of Oman coast goes about its business against a backdrop of the rugged Hajar Mountains. It is the only emirate that sits entirely on the eastern seaboard, which means Indian Ocean waters instead of the shallow Persian Gulf — clearer, deeper, and better for diving.

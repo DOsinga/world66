@@ -25,6 +25,10 @@ tip: Bruges is a perfectly preserved medieval town that empties when the day-tri
   drag.
 title: Bruges
 type: location
+heritage: 7.5
+vibrancy: 6.7
+nature: 2.1
+off_the_beaten_track: 1.3
 ---
 
 Bruges is one of the most beautiful cities in [Europe](/europe). It rightly deserves the name [Venice](/europe/italy/veneto/venice) of the north — canals, bridges, and old city houses make it a very romantic place to visit, and one that rewards slow exploration on foot.

@@ -18,6 +18,10 @@ tags:
 - waddenislands
 title: Vlieland
 type: location
+heritage: 3.7
+vibrancy: 3.7
+nature: 7.2
+off_the_beaten_track: 3.4
 ---
 
 In several respects, Vlieland is different from the other Dutch [Wadden islands](/europe/netherlands/waddenislands). It is the furthest removed from the mainland -- 90 minutes by regular ferry from Harlingen harbour, or 45 by fast ferry -- and it has only one village, Oost-Vlieland, a quiet settlement where tree-shaded Dorpsstraat offers cosy shops for everyday holiday needs.

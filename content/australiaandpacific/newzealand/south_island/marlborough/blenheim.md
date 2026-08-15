@@ -18,6 +18,10 @@ image: blenheim.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Marlborough_vineyard.jpg
 image_license: CC BY 2.5
 image_attribution: Limegreen
+heritage: 3.4
+vibrancy: 3.2
+nature: 7.0
+off_the_beaten_track: 2.8
 ---
 
 Blenheim is the practical heart of Marlborough wine country. The town itself is low-key and sunny, with the Wairau River to the north and tawny dry hills to the south, but the surrounding vineyards give it a clear reason to exist on a travel map.

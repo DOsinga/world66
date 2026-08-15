@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Songyuan
 title: Songyuan
 type: location
+heritage: 1.5
+vibrancy: 2.1
+nature: 3.1
+off_the_beaten_track: 2.5
 ---
 
 Songyuan sits at the [confluence of the Songhua and Nen Rivers](/asia/china/jilin/songyuan/songhua_nen_confluence) in the northern flatlands of Jilin Province, a position that gave it strategic value in the agricultural and trading economy of the northeast and accounts for the infrastructure investment that arrived in the early twentieth century. The city has Neolithic foundations — archaeological finds confirm human habitation going back thousands of years — and was part of the ancient Fuyu and Bohai states before the region was incorporated into successive Chinese imperial systems. The [Boduna Fortress](/asia/china/jilin/songyuan/boduna_fortress), established in 1693, survives as a remnant of this long history.

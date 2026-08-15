@@ -1,16 +1,20 @@
 ---
 latitude: -29.5658
 loc_type: city
-longitude: -54.4600
+longitude: -54.46
 score: 6.5
 snippet: Small Rio Grande do Sul town known for petrified wood and fossil forests.
 sources:
-  - https://en.wikivoyage.org/wiki/Mata
-  - https://en.wikipedia.org/wiki/Mata,_Rio_Grande_do_Sul
-  - https://www.mata.rs.gov.br/
+- https://en.wikivoyage.org/wiki/Mata
+- https://en.wikipedia.org/wiki/Mata,_Rio_Grande_do_Sul
+- https://www.mata.rs.gov.br/
 title: Mata
 type: location
 wikidata_id: Q960563
+heritage: 3.4
+vibrancy: 2.5
+nature: 4.6
+off_the_beaten_track: 2.8
 ---
 
 Mata is a small town in the central-west of Rio Grande do Sul with a strangely memorable identity: it has built much of its visitor life around fossil wood. Petrified trunks, museum cases, and garden displays give the place a prehistoric angle you do not expect from an ordinary inland Brazilian town.

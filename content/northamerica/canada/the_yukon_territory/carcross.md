@@ -13,6 +13,10 @@ snippet: Yukon village between Bennett and Tagish Lakes, with Klondike history a
   the pocket-sized Carcross Desert
 title: Carcross
 type: location
+heritage: 5.5
+vibrancy: 0.8
+nature: 7.5
+off_the_beaten_track: 7.0
 ---
 
 Carcross (originally Caribou Crossing) is a small community of about 430 people on the South Klondike Highway between Whitehorse and Skagway. It sits at the narrows between Bennett and Tagish Lakes, where large herds of caribou once crossed on their annual migration — hence the name.

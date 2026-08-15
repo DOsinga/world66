@@ -17,6 +17,10 @@ image: deming.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Deming_Luna_Mimbres_Museum.jpg
 image_license: Public domain
 image_attribution: AllenS
+heritage: 2.7
+vibrancy: 1.7
+nature: 5.3
+off_the_beaten_track: 4.0
 ---
 
 Deming sits in the open desert of southwest New Mexico, close to the Florida Mountains and the old Mimbres country. The town itself is plain and practical, but it makes a useful base for a day of rockhounding, desert geology, and regional history.

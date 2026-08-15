@@ -22,6 +22,10 @@ tip: Bamako sprawls along the Niger River and is one of the fastest-growing citi
   is volatile.
 title: Bamako
 type: location
+heritage: 4.8
+vibrancy: 5.1
+nature: 2.5
+off_the_beaten_track: 5.7
 ---
 
 Bamako sits in a bowl along the Niger River, ringed by dusty hills, and it moves at its own pace — somewhere between African urban chaos and a mid-sized city that hasn't quite decided what it wants to be. It's the capital and commercial hub of Mali, home to roughly three million people, and the inevitable entry point for anyone travelling deeper into the country.

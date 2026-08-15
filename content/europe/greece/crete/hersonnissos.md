@@ -14,6 +14,10 @@ title: Hersonissos
 type: location
 snippet: North-coast Cretan resort town built around package holidays, beaches, and
   a surviving fishing harbour.
+heritage: 3.3
+vibrancy: 5.6
+nature: 4.9
+off_the_beaten_track: 1.4
 ---
 
 Hersonissos (Limenas Hersonissou) is Crete's biggest package-holiday resort, 26 km east of [Iraklion](/europe/greece/crete/iraklion) along the northern coast road. In summer it is loud, crowded, and thoroughly committed to giving northern Europeans exactly what they came for: warm water, cold beer, and very little sleep. If that sounds like a criticism, it isn't quite — Hersonissos does its job efficiently, and for families or groups who want an uncomplicated beach holiday with good infrastructure, it delivers.

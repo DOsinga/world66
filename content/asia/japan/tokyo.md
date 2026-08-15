@@ -26,6 +26,10 @@ tip: Grab a Suica or Pasmo IC card the moment you land and stop thinking about f
   line unless you want to be wedged onto a train by a white-gloved attendant.
 title: Tokyo
 type: location
+heritage: 6.3
+vibrancy: 10.0
+nature: 5.8
+off_the_beaten_track: 0.8
 ---
 
 Tokyo is the largest city on earth and one of the most rewarding to visit: dense, efficient, safe, endlessly inventive in food and design, and capable of surprising you every few blocks. The scale is overwhelming at first — roughly 37 million people in the greater metropolitan area — but the city is organized around distinct neighbourhoods, each with its own character, and the subway system is good enough that you can move between them quickly.

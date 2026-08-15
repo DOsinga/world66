@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Aceh_Tsunami_Museum
 title: Banda Aceh
 type: location
+heritage: 3.6
+vibrancy: 4.7
+nature: 6.4
+off_the_beaten_track: 4.7
 ---
 
 Banda Aceh sits at the far northern tip of Sumatra, closer in feeling to the Indian Ocean and the old Muslim trading world than to beach-resort Indonesia. It is the capital of [Aceh](/asia/indonesia/aceh), the province known as the "Veranda of Mecca", and it remains one of the most visibly Islamic cities in the country. Dress modestly, expect alcohol to be difficult to find, and you will usually be met with straightforward hospitality.

@@ -14,6 +14,10 @@ title: Vormsi Island
 type: location
 snippet: Quiet Estonian island shaped by Swedish heritage, forest roads, and distinctive
   wheel-cross graveyards.
+heritage: 4.9
+vibrancy: 1.5
+nature: 7.0
+off_the_beaten_track: 5.1
 ---
 
 Vormsi is Estonia's fourth-largest island and one of its least visited. For centuries it was home to a community of Estonian Swedes — at its peak around 2,500 people — who were evacuated to Sweden in 1944. The Soviet military closed the island to civilians for decades, and when independence came in 1991, fewer than a hundred people lived here.

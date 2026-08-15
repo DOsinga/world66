@@ -17,6 +17,10 @@ image: young.jpg
 image_source: https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_6631_Cherry_farm_near_Young_New_South_Wales.jpg
 image_license: CC BY 3.0
 image_attribution: Nick Pitsas, CSIRO
+heritage: 2.4
+vibrancy: 1.8
+nature: 6.4
+off_the_beaten_track: 4.2
 ---
 
 Young is a country town in the Hilltops region of New South Wales, about two hours by road from Canberra. It calls itself Australia's Cherry Capital, and for once the slogan is not empty: orchards, cool-climate vineyards, and the December cherry season give the town a real reason to exist for travellers.

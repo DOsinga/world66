@@ -14,6 +14,10 @@ image: bridlington.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bridlington_Harbour_-_geograph.org.uk_-_2311223.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Anthony Parkes
+heritage: 5.0
+vibrancy: 3.5
+nature: 4.8
+off_the_beaten_track: 2.1
 ---
 
 Bridlington is the soft-edged resort side of the Yorkshire coast: two sandy bays, a working harbour, amusement arcades, fish and chips, and enough old-town history to keep it from feeling like only a beach stop. It is less dramatic than [Scarborough](/europe/unitedkingdom/england/yorkshire/scarborough), but easier and more relaxed.

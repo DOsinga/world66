@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Tallgrass_Prairie_National_Preserve
 title: Tallgrass Prairie
 type: location
+heritage: 2.6
+vibrancy: 1.1
+nature: 8.1
+off_the_beaten_track: 3.6
 ---
 
 Tallgrass Prairie National Preserve is where the Flint Hills still look like the old middle of North America: rolling grass, limestone ridges, big skies, and wind that never seems to clock out. Less than one percent of the continent's original tallgrass prairie survives, and this preserve protects one of the best remaining pieces.

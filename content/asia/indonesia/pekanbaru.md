@@ -5,11 +5,16 @@ loc_type: city
 latitude: 0.5092
 longitude: 101.4453
 score: 7.4
-snippet: Riau's hot, Malay river capital on the Siak, known for markets, mosques, and Sumatra transit.
+snippet: Riau's hot, Malay river capital on the Siak, known for markets, mosques,
+  and Sumatra transit.
 sources:
 - https://en.wikivoyage.org/wiki/Pekanbaru
 - https://en.wikipedia.org/wiki/Pekanbaru
 - https://www.wikidata.org/wiki/Q24292
+heritage: 1.8
+vibrancy: 2.2
+nature: 2.3
+off_the_beaten_track: 1.7
 ---
 
 Pekanbaru is the capital of Riau, a busy, hot, oil-and-trade city on the Siak River in eastern Sumatra. It is not as atmospheric as Bukittinggi or as famous as Medan, but it has a clear identity: Malay culture, river commerce, big mosques, markets, and a practical position between inland Sumatra and the Strait of Malacca.

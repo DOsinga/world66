@@ -15,6 +15,10 @@ snippet: French wine city of 18th-century limestone quays, Garonne riverfronts, 
   surrounding vineyard estates.
 title: Bordeaux
 type: location
+heritage: 7.4
+vibrancy: 5.7
+nature: 5.0
+off_the_beaten_track: 2.1
 ---
 
 Bordeaux is a wine city. Not just because the surrounding vineyards produce some of the most celebrated bottles on earth, but because wine shapes the rhythm of life here — the restaurants, the economy, the landscape, the conversations. If you care about wine at all, this is a pilgrimage.

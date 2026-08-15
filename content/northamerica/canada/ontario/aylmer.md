@@ -14,6 +14,10 @@ snippet: Southwestern Ontario farm town with a Victorian main street, near Long 
   bird migration and Lake Erie beaches.
 title: Aylmer
 type: location
+heritage: 3.4
+vibrancy: 2.6
+nature: 5.4
+off_the_beaten_track: 2.0
 ---
 
 Aylmer is a small town in Elgin County, southwestern Ontario, surrounded by tobacco and dairy farmland. The town has a well-preserved Victorian main street, and the [Aylmer and District Museum](/northamerica/canada/ontario/aylmer/aylmer_and_district_museum) in the old town hall gives a good sense of the area's agricultural roots.

@@ -15,6 +15,10 @@ title: Hawkshead
 type: location
 snippet: Hawkshead is a Lake District village of whitewashed cottages, medieval lanes,
   and literary associations.
+heritage: 6.0
+vibrancy: 2.6
+nature: 7.8
+off_the_beaten_track: 3.2
 ---
 
 Hawkshead is one of the prettiest villages in the Lake District — a tight cluster of whitewashed cottages, narrow flagged lanes, and medieval yards that have changed surprisingly little in 300 years. It sits in a shallow valley between [Esthwaite Water](/europe/unitedkingdom/england/lakedistrict/hawkshead/esthwaite_water) and Coniston Water, and on a quiet morning before the coaches arrive it is genuinely lovely.

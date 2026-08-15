@@ -27,6 +27,10 @@ tip: Miami is the USA's gateway to Latin America — Spanish is everywhere, and 
   late.
 title: Miami
 type: location
+heritage: 8.2
+vibrancy: 9.0
+nature: 8.1
+off_the_beaten_track: 0.3
 ---
 
 Miami is not quite like anywhere else in the United States. It is as much a Caribbean and Latin American city as it is a North American one — a place where Spanish is the first language in entire neighbourhoods, where the coffee is strong and sweet and served in tiny cups, and where the architecture ranges from pastel Art Deco to gleaming glass towers rising over Biscayne Bay.

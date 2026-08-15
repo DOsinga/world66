@@ -7,6 +7,10 @@ snippet: Atlantic national park of tidal flats and sandbanks, vital for migrator
   birds and Imraguen fishing culture.
 title: Banc d'Arguin National Park
 type: location
+heritage: 1.7
+vibrancy: 0.6
+nature: 8.2
+off_the_beaten_track: 6.9
 ---
 
 Banc d'Arguin is one of Africa's great wildlife reserves, a UNESCO World Heritage Site stretching along Mauritania's Atlantic coast between Nouakchott and Nouadhibou. The park protects a vast expanse of shallow coastal waters, sandbanks, and tidal flats where the cold Canary Current meets the desert shore — a combination that makes these waters extraordinarily rich in fish and the feeding grounds they create among the most important waterbird habitats in the world.

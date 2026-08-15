@@ -10,6 +10,10 @@ title: Wanganui
 snippet: Whanganui River city with strong Victorian and Edwardian architecture on
   New Zealand's west coast.
 type: location
+heritage: 4.1
+vibrancy: 3.8
+nature: 6.2
+off_the_beaten_track: 2.8
 ---
 
 Wanganui is a small city of around 40,000 people at the mouth of the Whanganui River, on the west coast of the North Island. It was founded in 1840 as Petre but soon took the name of the river that flows through it. The spelling is a local point of pride: the river, district, and national park are all "Whanganui" with an 'h', but the city officially kept the older spelling without it.

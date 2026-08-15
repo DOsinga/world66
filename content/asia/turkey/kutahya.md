@@ -14,6 +14,10 @@ image: kutahya.jpg
 image_source: https://commons.wikimedia.org/wiki/File:K%C3%BCtahya_hisar-%C3%BC%C3%A7ler_tepesinden.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Omerserez
+heritage: 5.5
+vibrancy: 3.0
+nature: 3.3
+off_the_beaten_track: 3.3
 ---
 
 Kütahya is an old western Anatolian city that has been slightly left behind by Turkey's faster routes. That is part of the appeal. The centre still has tiled mosques, Ottoman timber houses, a castle ridge above town, and shops full of the blue-and-white ceramics that made the city famous.

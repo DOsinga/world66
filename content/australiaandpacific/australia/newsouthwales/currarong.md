@@ -19,6 +19,10 @@ image: currarong.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Currarong_Inlet_(3118458595).jpg
 image_license: CC BY 2.0
 image_attribution: Phil Whitehouse from London, United Kingdom
+heritage: 2.0
+vibrancy: 1.4
+nature: 6.8
+off_the_beaten_track: 3.9
 ---
 
 Currarong is a small South Coast village on the northern side of Jervis Bay, about 30 kilometres east of Nowra. It is not a big resort town, and that is part of the appeal: a strip of houses, a creek, rock pools, fishing boats, and low-key holiday shacks facing clear water.

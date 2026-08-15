@@ -5,11 +5,16 @@ loc_type: city
 latitude: -31.465
 longitude: 151.1344
 score: 6.65
-snippet: Small New England gold-rush village below Hanging Rock, with fossicking, wool heritage, and valley views.
+snippet: Small New England gold-rush village below Hanging Rock, with fossicking,
+  wool heritage, and valley views.
 sources:
-  - https://en.wikivoyage.org/wiki/Nundle
-  - https://www.visitnsw.com/destinations/country-nsw/tamworth-area/nundle
-  - https://www.tamworthregion.com.au/explore/nundle-and-hanging-rock/
+- https://en.wikivoyage.org/wiki/Nundle
+- https://www.visitnsw.com/destinations/country-nsw/tamworth-area/nundle
+- https://www.tamworthregion.com.au/explore/nundle-and-hanging-rock/
+heritage: 2.5
+vibrancy: 2.4
+nature: 2.9
+off_the_beaten_track: 3.1
 ---
 
 Nundle is a small village in the hills southeast of Tamworth, old enough and odd enough to be worth the detour. Gold was found at nearby Hanging Rock in 1852, and the village still trades on that mix of mining history, fossicking country, old buildings, and quiet New England scenery.

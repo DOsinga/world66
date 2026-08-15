@@ -13,6 +13,10 @@ image: madainsalih.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Hegra,_Al-Ula,_Saudi_Arabia.png
 image_license: CC0
 image_attribution: Ali Lajami
+heritage: 8.2
+vibrancy: 0.7
+nature: 6.1
+off_the_beaten_track: 6.8
 ---
 
 Mada'in Salih, officially known as Hegra, is Saudi Arabia's most spectacular ancient site and the country's first UNESCO World Heritage listing (2008). Located in the Al-Ula region of the northwest, it was the southern capital of the Nabataean kingdom — the same civilization that built Petra in Jordan.

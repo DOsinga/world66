@@ -2,15 +2,20 @@
 title: Mitzpe Ramon
 type: location
 loc_type: city
-latitude: 30.6100
-longitude: 34.8000
+latitude: 30.61
+longitude: 34.8
 score: 7.6
-snippet: Negev rim town above Makhtesh Ramon, with desert views, hikes, and night skies.
+snippet: Negev rim town above Makhtesh Ramon, with desert views, hikes, and night
+  skies.
 wikidata: Q741793
 sources:
-  - https://en.wikivoyage.org/wiki/Mitzpe_Ramon
-  - https://en.parks.org.il/reserve-park/makhtesh-ramon-nature-reserve-and-visitors-center/
-  - https://darksky.org/places/ramon-crater-nature-reserve-dark-sky-park/
+- https://en.wikivoyage.org/wiki/Mitzpe_Ramon
+- https://en.parks.org.il/reserve-park/makhtesh-ramon-nature-reserve-and-visitors-center/
+- https://darksky.org/places/ramon-crater-nature-reserve-dark-sky-park/
+heritage: 2.0
+vibrancy: 2.9
+nature: 6.4
+off_the_beaten_track: 2.1
 ---
 
 Mitzpe Ramon sits on the northern rim of Makhtesh Ramon, the huge erosion crater that makes this part of the Negev feel almost lunar. The town began as a remote development settlement, and some of that rough edge remains, but the setting is extraordinary: cliffs, ibex on the promenade, desert light, and a night sky that still feels properly dark.

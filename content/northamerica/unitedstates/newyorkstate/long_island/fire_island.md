@@ -18,6 +18,10 @@ image: fire_island.jpg
 image_source: https://commons.wikimedia.org/wiki/File:FireIslandLighthouse_080507.jpg
 image_license: Public domain
 image_attribution: Paul Costello
+heritage: 1.6
+vibrancy: 2.3
+nature: 6.2
+off_the_beaten_track: 2.2
 ---
 
 Fire Island is the long, narrow barrier island off the south shore of [Long Island](/northamerica/unitedstates/newyorkstate/long_island), close enough to New York City for a day trip but strange enough to feel like a real departure. Cars are mostly absent, ferries set the rhythm, and the Atlantic side is one continuous run of dunes, surf, and pale sand.

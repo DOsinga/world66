@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Empire_State_Plaza
 title: Albany
 type: location
+heritage: 4.7
+vibrancy: 3.9
+nature: 4.3
+off_the_beaten_track: 1.1
 ---
 
 Albany is the capital of New York State, sitting on the west bank of the Hudson River about 150 miles north of New York City. It is one of the oldest continuously chartered cities in the United States, founded by Dutch settlers in the early 17th century, and its history layers Dutch colonial origins, Revolutionary War significance, and 19th-century industrial prosperity.

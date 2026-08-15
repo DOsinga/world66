@@ -16,6 +16,10 @@ image: homburg.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Schlossbergh%C3%B6hlen_Homburg_04.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Pascal Dihé
+heritage: 6.0
+vibrancy: 3.9
+nature: 3.6
+off_the_beaten_track: 2.9
 ---
 
 Homburg is an industrial Saarland town with a surprisingly good day of sights hidden around its edges. Its centre is useful and workaday, but above it are the [Schlossberg Caves](/europe/germany/saarland/homburg/schlossberg_caves), a strange underground system cut into red sandstone, and the ruined [Hohenburg Castle](/europe/germany/saarland/homburg/hohenburg_castle) on the hill.

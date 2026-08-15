@@ -14,6 +14,10 @@ snippet: Pilbara resource city near Murujuga, where industrial coastlines meet a
   Aboriginal rock art.
 title: Karratha
 type: location
+heritage: 2.8
+vibrancy: 2.6
+nature: 7.0
+off_the_beaten_track: 6.0
 ---
 
 Karratha is a resource-industry city on the Pilbara coast of Western Australia, about 1,500 km north of Perth. The town exists to service the natural gas and iron ore operations in the surrounding region — the Burrup Peninsula next door has one of the world's largest LNG processing plants. Despite its industrial character, the Burrup (Murujuga) Peninsula is also one of the world's most significant collections of Aboriginal rock art, with over a million petroglyphs carved over millennia by the Ngarluma and Yaburara people — now a UNESCO World Heritage Site. The [Murujuga rock art](/australiaandpacific/australia/westernaustralia/karratha/murujuga_rock_art) is the primary reason most visitors come.

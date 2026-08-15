@@ -13,6 +13,10 @@ image: kiyikoy.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Dere_ve_K%C4%B1y%C4%B1k%C3%B6y..._-_panoramio.jpg
 image_license: CC BY 3.0
 image_attribution: Sinan Şahin
+heritage: 4.4
+vibrancy: 3.1
+nature: 5.4
+off_the_beaten_track: 4.9
 ---
 
 Kıyıköy is a small Black Sea village in Eastern Thrace, set on a bluff between the Pabuçdere and Kazandere streams. It is close enough to [Istanbul](/asia/turkey/istanbul) for a long day trip, but the mood is much quieter: fishing boats, low houses, fragments of old wall, and pine-covered coves beyond town.

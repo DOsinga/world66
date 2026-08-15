@@ -26,6 +26,10 @@ tip: Dubai is a city of superlatives risen from the desert in a single generatio
   and spice souks.
 title: Dubai
 type: location
+heritage: 8.2
+vibrancy: 8.3
+nature: 6.1
+off_the_beaten_track: 1.0
 ---
 
 Dubai is the spectacle of the modern Arabian Peninsula — a trading post that, in the span of a single generation, transformed itself from a small pearl-diving settlement into a global financial centre with the world's tallest building, the busiest international airport by passenger traffic, and enough engineered islands, indoor ski slopes, and seven-star hotels to make Las Vegas look restrained. Love it or hate it, there is no other city quite like it.

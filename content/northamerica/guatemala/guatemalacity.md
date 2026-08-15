@@ -25,6 +25,10 @@ tip: Guatemala City — 'Guate' — is big, busy and divided into numbered zones
   valuables out of sight.
 title: Guatemala City
 type: location
+heritage: 7.0
+vibrancy: 6.6
+nature: 4.5
+off_the_beaten_track: 2.6
 ---
 
 Guatemala City is the capital and by far the largest city in Central America (excluding Mexico), with a metropolitan population over 3 million. It sits in a wide valley at about 1,500 metres elevation, giving it a mild climate year-round.

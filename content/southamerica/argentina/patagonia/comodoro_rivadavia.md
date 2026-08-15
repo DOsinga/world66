@@ -15,6 +15,10 @@ snippet: Patagonian oil city on the Atlantic, battered by wind and softened by n
   Rada Tilly beach.
 title: Comodoro Rivadavia
 type: location
+heritage: 3.1
+vibrancy: 3.0
+nature: 5.0
+off_the_beaten_track: 4.0
 ---
 
 The biggest city in Patagonia sits on the Atlantic coast, battered by relentless wind. Comodoro Rivadavia grew rapidly in the early twentieth century when oil was discovered here, and it still has the feel of a working industrial town rather than a tourist destination. Like many Argentine cities of that era, it is modern and practical rather than picturesque.

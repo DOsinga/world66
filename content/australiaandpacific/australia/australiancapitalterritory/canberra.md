@@ -23,6 +23,10 @@ tip: 'Canberra is a planned compromise capital — built from scratch because Sy
   mostly free. See it in autumn or during the spring Floriade flower festival.'
 title: Canberra
 type: location
+heritage: 5.2
+vibrancy: 5.0
+nature: 4.1
+off_the_beaten_track: 1.2
 ---
 
 Canberra is Australia's federal capital. Established as part of Australia's federation in 1901, Canberra houses the national [parliament](/australiaandpacific/australia/australiancapitalterritory/canberra/parliament_house), federal government departments, the [High Court of Australia](/australiaandpacific/australia/australiancapitalterritory/canberra/high_court), the [Australian War Memorial](/australiaandpacific/australia/australiancapitalterritory/canberra/australian_war_memorial), and several other important institutions.

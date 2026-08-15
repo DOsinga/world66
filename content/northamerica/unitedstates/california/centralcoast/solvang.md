@@ -12,6 +12,10 @@ snippet: Danish-heritage town in the Santa Ynez Valley, with half-timbered store
   bakeries, and nearby wine country.
 title: Solvang
 type: location
+heritage: 4.3
+vibrancy: 4.2
+nature: 5.2
+off_the_beaten_track: 2.5
 ---
 
 Solvang is a small Danish-heritage town in the Santa Ynez Valley, about a half-hour drive from Santa Barbara. Founded in 1911 by Danish immigrants, it still feels distinctly Scandinavian — half-timbered buildings, a [working windmill](/northamerica/unitedstates/california/centralcoast/solvang/solvang_windmill), and bakeries selling [aebleskiver](/northamerica/unitedstates/california/centralcoast/solvang/aebleskiver) on every corner. It is touristy, yes, but genuinely charming.

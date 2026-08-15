@@ -21,6 +21,10 @@ tip: Colombo is Sri Lanka's coastal commercial capital — a mix of colonial For
   to the hill country and beaches. Tuk-tuks are everywhere; insist on the meter.
 title: Colombo
 type: location
+heritage: 6.7
+vibrancy: 6.3
+nature: 3.8
+off_the_beaten_track: 1.7
 ---
 
 Colombo is Sri Lanka's commercial capital, largest city, and the place most visitors arrive but few stop for long — which is a shame, because in the last decade the city has become genuinely interesting. The war that dragged on until 2009 kept tourism away from the capital, and the scars are still visible in the guarded checkpoints near government buildings. But the post-war years have brought a wave of construction, a lively restaurant scene, and a new confidence that is worth a day or two of anyone's time on the way to the hill country or the beaches.

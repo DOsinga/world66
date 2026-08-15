@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Coyote_Buttes
 title: Buckskin Gulch
 type: location
+heritage: 2.3
+vibrancy: 1.0
+nature: 8.0
+off_the_beaten_track: 5.3
 ---
 
 Buckskin Gulch is the longest slot canyon in the American Southwest — 16 miles of continuous narrows carved through Navajo sandstone, up to 500 feet deep and sometimes barely wide enough to squeeze through. It's one of those places that feels genuinely otherworldly, and the effort required to get there is part of what makes it memorable.

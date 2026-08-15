@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Oakville,_Ontario
 title: Oakville
 type: location
+heritage: 2.8
+vibrancy: 3.7
+nature: 5.4
+off_the_beaten_track: 1.2
 ---
 
 Oakville is a prosperous lakeside town on the western shore of Lake Ontario, about 30 km southwest of Toronto. It has a handsome harbour area and a well-preserved historic downtown, and is large enough (population around 210,000) to have a distinct character of its own, separate from the sprawl of the Greater Toronto suburbs nearby.

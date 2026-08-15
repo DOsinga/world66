@@ -18,6 +18,10 @@ image: malatya.jpg
 image_source: https://commons.wikimedia.org/wiki/File:44_malatya_panorama.JPG
 image_license: CC BY-SA 3.0
 image_attribution: okandemir
+heritage: 6.2
+vibrancy: 4.2
+nature: 4.2
+off_the_beaten_track: 4.0
 ---
 
 Malatya is a large eastern Anatolian city with a complicated travel pitch. It is famous for apricots, sits on one of Turkey's great east-west routes, and has a UNESCO-listed archaeological site on its edge, but the 2023 earthquake left real damage and some sights remain closed or rebuilt.

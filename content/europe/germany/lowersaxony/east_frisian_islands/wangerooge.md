@@ -14,6 +14,10 @@ snippet: Car-free East Frisian island of dunes and beach, reached by ferry and n
   railway.
 title: Wangerooge
 type: location
+heritage: 3.7
+vibrancy: 2.7
+nature: 6.4
+off_the_beaten_track: 3.0
 ---
 
 Wangerooge is the easternmost of the East Frisian Islands and one of the smallest, a slender strip of sand and dune about eight kilometres long. It is car-free and reached by a narrow-gauge railway from the ferry pier to the village — a ten-minute ride through marshland that immediately signals you have left the mainland behind.

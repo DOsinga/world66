@@ -15,6 +15,10 @@ snippet: Small fishing village and beach resort known for caballitos de totora o
   Peru's northern coast
 title: Huanchaco
 type: location
+heritage: 3.6
+vibrancy: 4.5
+nature: 7.2
+off_the_beaten_track: 4.7
 ---
 
 Huanchaco is a small fishing village and beach resort on Peru's northern coast, about 12 km west of Trujillo. It has a different character from the busy regional capital: the pace is slow, the streets are sandy, and the seafront is lined with modest cevicherías rather than hotel towers. Fishermen here still use [caballitos de totora](/southamerica/peru/huanchaco/caballitos_de_totora) — slender reed boats of pre-Columbian design — paddling out through the surf each morning and riding the waves back in, a practice unchanged for at least two thousand years. Watching them is one of the most distinctive things you can do in northern Peru.

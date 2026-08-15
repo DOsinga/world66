@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Yuxi
 title: Yuxi
 type: location
+heritage: 4.6
+vibrancy: 4.6
+nature: 5.5
+off_the_beaten_track: 4.2
 ---
 
 Yuxi is a mid-sized city in southeastern Yunnan, about 90 kilometres south of Kunming on the plateau, and it occupies an odd position in the regional tourist hierarchy — significant enough to anchor a prefecture of several counties, but overlooked by most foreign travellers rushing between Kunming and the more famous destinations to the northwest. Its main claim to national fame is as the birthplace of Nie Er, the composer who wrote the March of the Volunteers, which became China's national anthem. The [Nie Er Memorial Park](/asia/china/yunnanprovince/yuxi/nie_er_park) is dedicated to him with considerable civic pride.

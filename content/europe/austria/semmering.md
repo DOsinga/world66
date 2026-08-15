@@ -3,19 +3,24 @@ title: Semmering
 type: location
 loc_type: feature
 latitude: 47.6431
-longitude: 15.8290
+longitude: 15.829
 score: 7.3
-snippet: Alpine pass and resort area built around Austria's UNESCO-listed Semmering Railway.
+snippet: Alpine pass and resort area built around Austria's UNESCO-listed Semmering
+  Railway.
 wikidata: Q659891
 image: semmering.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Semmering_Railway_2013.jpg
 image_license: CC BY-SA 3.0
 image_attribution: H. Raab
 sources:
-  - https://en.wikivoyage.org/wiki/Semmering
-  - https://semmering.at/en/tourism/world-cultural-heritage-semmering-railway/
-  - https://www.lower-austria.info/excursions/unesco-world-heritage-semmering-railway
-  - https://whc.unesco.org/en/list/785/
+- https://en.wikivoyage.org/wiki/Semmering
+- https://semmering.at/en/tourism/world-cultural-heritage-semmering-railway/
+- https://www.lower-austria.info/excursions/unesco-world-heritage-semmering-railway
+- https://whc.unesco.org/en/list/785/
+heritage: 3.7
+vibrancy: 2.7
+nature: 6.6
+off_the_beaten_track: 2.1
 ---
 
 Semmering is a mountain pass, railway landscape, and old resort area between Lower Austria and Styria. It is close enough to Vienna for a long day out, but the mood is already alpine: forested slopes, stone viaducts, old grand hotels, and trains curling across the mountainside.

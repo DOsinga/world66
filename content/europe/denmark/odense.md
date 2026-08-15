@@ -16,6 +16,10 @@ snippet: Danish city and Hans Christian Andersen's birthplace, with a walkable o
   centre beyond the fairy-tale trail
 title: Odense
 type: location
+heritage: 6.2
+vibrancy: 4.1
+nature: 3.1
+off_the_beaten_track: 2.3
 ---
 
 Odense is Denmark's third-largest city and the birthplace of Hans Christian Andersen, a fact the city embraces wholeheartedly. The [Hans Christian Andersen Museum](/europe/denmark/odense/hc_andersen_museum), recently rebuilt and expanded by architect Kengo Kuma, is the centrepiece, but Odense has more to offer than fairy tales.

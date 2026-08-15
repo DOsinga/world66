@@ -16,6 +16,10 @@ sources:
 title: Karima
 type: location
 score: 5.0
+heritage: 2.6
+vibrancy: 1.7
+nature: 6.2
+off_the_beaten_track: 7.1
 ---
 
 Karima is a small Nile town in northern [Sudan](/africa/sudan), but the landscape around it is anything but small. Across the river and desert edge rise [Jebel Barkal](/africa/sudan/karima/jebel_barkal), the sacred mountain of ancient Napata, and a chain of royal cemeteries where Kushite kings and queens built pyramids centuries before Meroë became the capital.

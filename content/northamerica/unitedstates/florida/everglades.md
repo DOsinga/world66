@@ -10,6 +10,10 @@ snippet: Subtropical Florida wetland where sawgrass prairie, mangroves, alligato
   and crocodiles share a slow river.
 title: Everglades
 type: location
+heritage: 3.3
+vibrancy: 2.0
+nature: 7.9
+off_the_beaten_track: 2.6
 ---
 
 The Everglades is one of the last great wildernesses in the United States — a vast, flat, slow-moving "river of grass" that covers the entire southern tip of the Florida peninsula, about 1.5 million acres of sawgrass prairie, mangrove swamp, cypress dome, and coastal estuary. It was designated a national park in 1947, and has since been recognised as a UNESCO World Heritage Site, an International Biosphere Reserve, and a Wetland of International Importance. It is the only subtropical preserve in North America, and the only place in the world where alligators and American crocodiles exist side by side.

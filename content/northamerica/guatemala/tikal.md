@@ -15,6 +15,10 @@ snippet: Great Maya archaeological site in the Petén jungle, where temple pyram
   rise above thick forest
 title: Tikal
 type: location
+heritage: 9.8
+vibrancy: 1.7
+nature: 7.9
+off_the_beaten_track: 6.1
 ---
 
 Tikal is the greatest Maya ruin in Guatemala and one of the most impressive archaeological sites anywhere in the Americas. Located in the northern Petén jungle, 65 km from [Flores](/northamerica/guatemala/flores), it is a UNESCO World Heritage Site — designated both for its cultural and natural significance.

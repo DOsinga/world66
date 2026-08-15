@@ -13,6 +13,10 @@ image: skelligs.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Skellig_4.JPG
 image_license: CC BY-SA 4.0
 image_attribution: Ronan Mac Giollapharaic
+heritage: 9.0
+vibrancy: 0.9
+nature: 8.1
+off_the_beaten_track: 6.2
 ---
 
 Two jagged rock islands rising from the Atlantic 12 km off the Kerry coast, the Skelligs are one of Ireland's most extraordinary places. Skellig Michael — the larger of the two at 44 acres, soaring to 218 metres — holds a remarkably well-preserved early Christian monastery, occupied by monks from roughly the 6th to the 12th centuries. The beehive stone huts clinging to the clifftop look like they were abandoned last century, not a thousand years ago.

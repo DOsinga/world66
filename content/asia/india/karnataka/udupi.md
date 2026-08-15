@@ -7,6 +7,10 @@ snippet: Coastal Karnataka temple town whose vegetarian Udupi cooking became a s
   across India.
 title: Udupi
 type: location
+heritage: 6.7
+vibrancy: 4.8
+nature: 3.7
+off_the_beaten_track: 2.2
 ---
 
 Udupi is a coastal town in [Karnataka](/asia/india/karnataka), about 55 km north of [Mangalore](/asia/india/karnataka/mangalore) on India's Konkan coast. It is best known across India not for its beaches or temples but for its cuisine — Udupi cooking, with its emphasis on vegetable preparations, coconut, and rice, is one of the most influential regional cuisines in the country, and the "Udupi restaurant" is a standard fixture in every major Indian city.

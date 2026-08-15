@@ -14,6 +14,10 @@ snippet: Andean capital of Táchira state, close to Colombia and known for the F
   de San Sebastián.
 title: San Cristóbal
 type: location
+heritage: 4.5
+vibrancy: 4.5
+nature: 5.1
+off_the_beaten_track: 4.8
 ---
 
 San Cristóbal is the capital of Táchira state in the Andean highlands of western [Venezuela](/southamerica/venezuela), close to the Colombian border. Founded in 1561 by Juan de Maldonado, it grew into one of the most progressive commercial centres in the country. The people of Táchira are known for being hardworking, conservative, and devoted to their traditions.

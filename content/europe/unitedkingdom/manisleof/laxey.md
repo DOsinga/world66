@@ -10,6 +10,10 @@ title: Laxey
 type: location
 snippet: Isle of Man village where heritage railways meet the sea beneath the giant
   Laxey Wheel.
+heritage: 5.5
+vibrancy: 2.3
+nature: 6.4
+off_the_beaten_track: 3.8
 ---
 
 Laxey is a small village on the east coast of the Isle of Man, set in a wooded valley where the Laxey River meets the sea. It sits along the Manx Electric Railway between Douglas and Ramsey, and is the interchange point for the [Snaefell Mountain Railway](/europe/unitedkingdom/manisleof/laxey/snaefell_mountain_railway) that climbs to the island's 621-metre summit. The railways alone make the village worth visiting; add the [Laxey Wheel](/europe/unitedkingdom/manisleof/laxey/laxey_wheel) and you have one of the most satisfying heritage days out in the British Isles.

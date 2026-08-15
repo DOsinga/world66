@@ -14,6 +14,10 @@ title: Douro Valley
 snippet: Portuguese wine valley of steep terraced quintas, port grapes, and the winding
   Douro River.
 type: location
+heritage: 5.8
+vibrancy: 7.6
+nature: 6.7
+off_the_beaten_track: 3.9
 ---
 
 The Douro Valley is Portugal's great wine country — a steep, terraced landscape carved by the Douro River as it runs east toward the Spanish border. The schist hillsides are covered in quintas (wine estates) producing the grapes that become port wine, as well as increasingly respected table wines. The valley is a UNESCO World Heritage Site.

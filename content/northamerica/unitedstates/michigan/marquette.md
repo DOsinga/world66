@@ -10,6 +10,10 @@ snippet: Lake Superior city on Michigan's Upper Peninsula, edged by red sandston
   bluffs and deep winter snow
 title: Marquette
 type: location
+heritage: 4.7
+vibrancy: 5.3
+nature: 5.7
+off_the_beaten_track: 4.0
 ---
 
 Marquette is the largest city on [Michigan](/northamerica/unitedstates/michigan)'s Upper Peninsula, set on the shore of Lake Superior with dramatic red sandstone bluffs and long views across the water. In winter it is one of the snowiest cities in the eastern United States — good for skiing, snowshoeing, and snowmobiling. In summer the lake comes alive with kayaking, fishing, and swimming at [Presque Isle Park](/northamerica/unitedstates/michigan/marquette/presque_isle_park).

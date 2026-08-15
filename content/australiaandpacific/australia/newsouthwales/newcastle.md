@@ -16,6 +16,10 @@ title: Newcastle
 snippet: Working harbour city north of Sydney, reinvented after the closure of its
   steelworks.
 type: location
+heritage: 7.9
+vibrancy: 6.1
+nature: 4.1
+off_the_beaten_track: 3.7
 ---
 
 Newcastle sits on a headland above a working harbour, about two hours north of Sydney by road or rail. It is Australia's seventh-largest city, but it carries itself more like a big country town — unhurried, unpretentious, and genuinely welcoming to visitors.

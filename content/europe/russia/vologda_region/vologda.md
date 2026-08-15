@@ -14,6 +14,10 @@ snippet: Historic Russian river city known for its Saint Sophia Cathedral, forti
   monasteries, and northern trade heritage.
 title: Vologda
 type: location
+heritage: 5.9
+vibrancy: 2.6
+nature: 2.8
+off_the_beaten_track: 2.9
 ---
 
 Vologda is one of the oldest Russian cities, founded in 1147 on the banks of the small, quiet river of the same name. Historically it was the "gate to the North" — a major trade and handicraft centre, and an outpost of Moscow in its struggles with rival principalities. Ivan the Terrible chose it as a would-be second capital in the 1560s, building the great [Cathedral of Saint Sophia](/europe/russia/vologda_region/vologda/saint_sophia_cathedral) before a piece of falling plaster persuaded him to abandon the project.

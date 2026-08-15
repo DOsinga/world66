@@ -19,6 +19,10 @@ image: hillswick.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Hillswick_-_geograph.org.uk_-_2033858.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Colin Smith
+heritage: 2.6
+vibrancy: 0.9
+nature: 6.9
+off_the_beaten_track: 6.6
 ---
 
 *Europe > United Kingdom > Scotland > Shetland > Hillswick*

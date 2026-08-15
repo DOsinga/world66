@@ -16,6 +16,10 @@ image: banbury.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cross_Country_Class_220_Voyager_Kings_Sutton_-_Banbury.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Kabelleger / David Gubler
+heritage: 3.9
+vibrancy: 3.4
+nature: 3.4
+off_the_beaten_track: 1.1
 ---
 
 Banbury is a market town in north Oxfordshire, close to the Warwickshire border and the edge of the Cotswolds. It is best known for the nursery rhyme that sends a fine lady to Banbury Cross, but the stronger travel reason is the mix of canal history and excellent country houses within a short drive.

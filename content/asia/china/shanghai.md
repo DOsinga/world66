@@ -27,6 +27,10 @@ tip: Shanghai splits in two across the Huangpu River — the colonial Bund on on
   neighbourhoods of the former French Concession for the city's quieter, leafier soul.
 title: Shanghai
 type: location
+heritage: 8.1
+vibrancy: 9.1
+nature: 3.7
+off_the_beaten_track: 1.0
 ---
 
 "Paris of the Orient" was the name Shanghai earned in the early 20th century, when it was the financial capital of Asia, a haven for adventurers, exiles and gangsters, and the most cosmopolitan city in the world. The Communist victory in 1949 closed the port and stripped the city of its glamour for four decades; the reopening in the 1990s and the explosion of Pudong have made it once again one of the most dynamic places on earth. Today's Shanghai is a city of 25 million people that holds both halves of its history at once.

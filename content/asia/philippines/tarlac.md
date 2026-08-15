@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Tarlac_City
 title: Tarlac
 type: location
+heritage: 4.1
+vibrancy: 2.9
+nature: 4.3
+off_the_beaten_track: 2.4
 ---
 
 Tarlac City sits in the middle of the Central Luzon plain, the capital of landlocked Tarlac province and a regional crossroads between [Manila](/asia/philippines/manila) and the cooler hills further north. Most travellers see it as a stop on the way somewhere else — to Baguio, to Pampanga, or out to the beaches at [Zambales](/asia/philippines/zambales) — but the city itself is a friendly, slow provincial centre with a few worthwhile stops and good access to the surrounding sugarcane country.

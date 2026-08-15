@@ -5,10 +5,15 @@ loc_type: city
 latitude: 65.8333
 longitude: 24.1333
 score: 6.85
-snippet: Swedish border town where Tornio, the Torne River, archipelago islands, and Lapland meet.
+snippet: Swedish border town where Tornio, the Torne River, archipelago islands, and
+  Lapland meet.
 sources:
-  - https://en.wikivoyage.org/wiki/Haparanda
-  - https://en.wikipedia.org/wiki/Haparanda
+- https://en.wikivoyage.org/wiki/Haparanda
+- https://en.wikipedia.org/wiki/Haparanda
+heritage: 2.8
+vibrancy: 2.0
+nature: 4.8
+off_the_beaten_track: 4.3
 ---
 
 Haparanda is Sweden's eastern edge, facing the Finnish town of Tornio across the Torne River. The border is there on paper, but in daily life it feels unusually soft: people shop, work, speak Swedish and Finnish, and cross between two time zones as casually as other towns cross a bridge.

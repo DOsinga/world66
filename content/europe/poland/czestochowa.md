@@ -14,6 +14,10 @@ snippet: Polish pilgrimage city dominated by Jasna Góra monastery and the Black
   icon.
 title: Częstochowa
 type: location
+heritage: 8.0
+vibrancy: 4.6
+nature: 2.2
+off_the_beaten_track: 2.0
 ---
 
 Częstochowa is Poland's spiritual capital, home to the Jasna Góra monastery and the Black Madonna — an icon that has drawn millions of pilgrims for over six centuries. The hilltop monastery complex dominates the city and is worth visiting regardless of your beliefs; the fortified walls, the treasury, and the sheer fervour of the pilgrims are remarkable.

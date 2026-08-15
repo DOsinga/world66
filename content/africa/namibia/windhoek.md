@@ -15,6 +15,10 @@ snippet: Namibian capital in the central highlands, mixing German colonial archi
   with modern administrative life.
 title: Windhoek
 type: location
+heritage: 3.6
+vibrancy: 4.2
+nature: 4.2
+off_the_beaten_track: 2.9
 ---
 
 Windhoek is the capital of Namibia. With a population of less than 200,000 you would only call it a city by Namibian standards — but it is quite a laidback, clean, and easy-going place, with a few good sights, decent restaurants, and lively bars. In short it is a fine place to start exploring Namibia.

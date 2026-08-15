@@ -10,6 +10,10 @@ snippet: Narrow Mediterranean territory with ancient trading roots and historic 
   between Egypt and the Levant.
 title: Gaza Strip
 type: location
+heritage: 5.3
+vibrancy: 6.3
+nature: 0.5
+off_the_beaten_track: 7.2
 ---
 
 The Gaza Strip is a narrow territory on the eastern Mediterranean coast, bordered by Egypt to the south and Israel to the north and east. It is one of the most densely populated places on earth, home to over two million people in an area of just 365 square kilometres.

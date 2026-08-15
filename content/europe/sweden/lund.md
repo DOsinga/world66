@@ -16,6 +16,10 @@ title: Lund
 snippet: Old Scandinavian university city, with a Romanesque cathedral and medieval
   lanes shaped by centuries of students.
 type: location
+heritage: 5.9
+vibrancy: 5.1
+nature: 3.6
+off_the_beaten_track: 1.4
 ---
 
 Lund is one of Scandinavia's oldest cities and one of its most likeable. Founded around 990 AD by Danish king Sweyn Forkbeard, it predates the Swedish state itself and spent its early centuries as the ecclesiastical capital of the north — a status that bequeathed the city a spectacular Romanesque cathedral and a dense concentration of medieval lanes and half-timbered buildings that survive largely intact.

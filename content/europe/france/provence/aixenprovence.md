@@ -16,6 +16,10 @@ snippet: Elegant Provençal university city of plane-shaded boulevards, fountain
   and old-town terraces.
 title: Aix-en-Provence
 type: location
+heritage: 6.8
+vibrancy: 6.6
+nature: 7.9
+off_the_beaten_track: 1.5
 ---
 
 Aix is the ancient capital of Provence, and it still carries itself that way. Elegant townhouses line plane-tree-shaded boulevards, fountains splash on every other corner, and cafe terraces fill with students from one of France's oldest universities.

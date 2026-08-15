@@ -13,6 +13,10 @@ snippet: Cretan harbour city known for its Venetian old town, Jewish quarter, Tu
   quarter, and waterfront lighthouse.
 title: Hania
 type: location
+heritage: 6.8
+vibrancy: 6.4
+nature: 5.8
+off_the_beaten_track: 1.8
 ---
 
 Hania (Chania) is widely considered the most beautiful city in Crete, and it's hard to argue otherwise. The old town is a near-perfect example of Venetian colonial architecture, with an entire [Jewish quarter](/europe/greece/crete/hania/evraiki), a Turkish quarter, and Venetian mansions all compressed into a labyrinth of narrow streets around an old [harbour](/europe/greece/crete/hania/venetian_harbour). The harbour itself — with its lighthouse, Venetian shipyards, and the old mosque converted to a market — is where everyone ends up in the evenings.

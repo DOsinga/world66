@@ -14,6 +14,10 @@ snippet: Large Rhode Island town southwest of Providence, where rural western di
   surround Revolutionary War history.
 title: Coventry
 type: location
+heritage: 2.4
+vibrancy: 2.1
+nature: 2.9
+off_the_beaten_track: 1.4
 ---
 
 Coventry is one of [Rhode Island](/northamerica/unitedstates/rhodeisland)'s larger towns by area but feels surprisingly rural, especially in its western half where farms and forest still dominate. About twenty minutes southwest of [Providence](/northamerica/unitedstates/rhodeisland/providence), it straddles the line between suburb and countryside.

@@ -5,11 +5,16 @@ loc_type: city
 latitude: 60.7992
 longitude: 11.0561
 score: 7.1
-snippet: Inland Norwegian lake city with medieval cathedral ruins, Olympic speed-skating heritage, and Mjosa steamer trips.
+snippet: Inland Norwegian lake city with medieval cathedral ruins, Olympic speed-skating
+  heritage, and Mjosa steamer trips.
 sources:
-  - https://en.wikivoyage.org/wiki/Hamar
-  - https://en.wikipedia.org/wiki/Hamar
-  - https://www.wikidata.org/wiki/Q171546
+- https://en.wikivoyage.org/wiki/Hamar
+- https://en.wikipedia.org/wiki/Hamar
+- https://www.wikidata.org/wiki/Q171546
+heritage: 5.4
+vibrancy: 3.6
+nature: 5.4
+off_the_beaten_track: 2.8
 ---
 
 Hamar sits on the eastern shore of Mjosa, Norway's largest lake, and feels different from the fjord cities most visitors know. It is an inland town of flat farmland, railway lines, lake air, medieval church history, and one unmistakable Olympic building shaped like an overturned Viking ship.

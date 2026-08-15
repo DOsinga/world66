@@ -7,6 +7,10 @@ longitude: -118.7798
 score: 8.44
 snippet: Los Angeles coastal strip where the Santa Monica Mountains press against
   Pacific beaches.
+heritage: 2.4
+vibrancy: 6.2
+nature: 6.7
+off_the_beaten_track: 1.3
 ---
 
 Malibu stretches for about 21 miles along the Pacific Coast Highway northwest of Los Angeles, where the Santa Monica Mountains meet the sea. It is less a town than a long coastal strip — the mountains crowd close on one side and the ocean on the other, leaving a narrow margin for the Pacific Coast Highway, a few restaurants and shops, and an unbroken run of beaches.

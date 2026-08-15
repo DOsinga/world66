@@ -13,6 +13,10 @@ score: 7.7
 snippet: Northumberland village on the River Coquet, dominated by a Percy family castle.
 title: Warkworth
 type: location
+heritage: 7.2
+vibrancy: 3.6
+nature: 3.6
+off_the_beaten_track: 2.5
 ---
 
 Warkworth is a handsome village on the River Coquet where the medieval street plan is still largely intact. The village is dominated by its [castle](/europe/unitedkingdom/england/north_east/northumberland/warksworth/warkworth_castle), a substantial Percy family fortress with a remarkable [hermitage](/europe/unitedkingdom/england/north_east/northumberland/warksworth/warkworth_hermitage) carved out of the rock beside the river — accessible by rowing boat. It is one of the most picturesque small castle towns in Northumberland.

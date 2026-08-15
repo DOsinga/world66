@@ -17,6 +17,10 @@ image: europa_park_resort.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2008-04-26-DSC_1978-c-Europapark.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Thomas Berwing
+heritage: 1.9
+vibrancy: 4.4
+nature: 5.0
+off_the_beaten_track: 1.4
 ---
 
 Europa-Park Resort is the reason most travellers come to Rust. The village is pleasant enough, but the destination is the resort: Germany's largest theme park, a full-scale indoor water world, a cluster of themed hotels, evening shows, and enough rides to make a rushed day feel slightly foolish.

@@ -13,6 +13,10 @@ image: blaenau_ffestiniog.jpg
 image_source: https://commons.wikimedia.org/wiki/File:A_view_of_Blaenau_Ffestiniog_town.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Samdorob
+heritage: 4.6
+vibrancy: 3.8
+nature: 7.3
+off_the_beaten_track: 3.7
 ---
 
 Blaenau Ffestiniog is not the pretty postcard version of [Snowdonia](/europe/unitedkingdom/wales/snowdonia). It is starker and stranger: a slate town set among grey quarry tips, high hills, and roads that seem to climb straight into the mountains.

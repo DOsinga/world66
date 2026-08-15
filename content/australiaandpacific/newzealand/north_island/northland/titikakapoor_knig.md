@@ -14,6 +14,10 @@ snippet: Tiny Northland harbour settlement and launch point for diving the marin
   reserve around the Poor Knights.
 title: Tutukaka / Poor Knights
 type: location
+heritage: 2.0
+vibrancy: 1.2
+nature: 7.3
+off_the_beaten_track: 5.7
 ---
 
 Tutukaka is a tiny harbour settlement on the northeast coast of the North Island, about 30 minutes from [Whangarei](/australiaandpacific/newzealand/whangarei) and a couple of hours north of Auckland. It exists almost entirely as the departure point for dive trips to the [Poor Knights Islands](/australiaandpacific/newzealand/north_island/northland/titikakapoor_knig/poor_knights_islands), about 23 km offshore.

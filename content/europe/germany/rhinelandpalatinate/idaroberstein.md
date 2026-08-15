@@ -14,6 +14,10 @@ image: idaroberstein.jpg
 image_source: https://commons.wikimedia.org/wiki/File:20180825_Castle_Oberstein.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Flocci Nivis
+heritage: 6.0
+vibrancy: 3.4
+nature: 4.7
+off_the_beaten_track: 1.9
 ---
 
 Idar-Oberstein sits in the Nahe Valley and has built a whole identity around stones: agate, minerals, gems, cutters' workshops, and shop windows full of polished colour. It is not a grand Rhineland town, but it has one of Germany's stranger small-city skylines, with the [Felsenkirche](/europe/germany/rhinelandpalatinate/idaroberstein/felsenkirche) wedged into the cliff below ruined castles.

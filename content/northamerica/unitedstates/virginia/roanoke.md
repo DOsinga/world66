@@ -14,6 +14,10 @@ title: Roanoke
 type: location
 snippet: Blue Ridge railroad city in western Virginia, anchored by transport museums
   and mountain trails.
+heritage: 5.8
+vibrancy: 3.5
+nature: 3.8
+off_the_beaten_track: 2.5
 ---
 
 Roanoke is the largest city in western Virginia — a former railroad town of about 100,000 people tucked into a wide valley of the **Blue Ridge Mountains**, roughly midway between Washington DC and Knoxville on the Interstate 81 corridor. It grew up in the 1880s as the headquarters of the Norfolk & Western Railway, and the city's restored downtown still revolves around the 1882 [Hotel Roanoke](/northamerica/unitedstates/virginia/roanoke/hotel_roanoke) and the [Virginia Museum of Transportation](/northamerica/unitedstates/virginia/roanoke/virginia_museum_of_transportation), which displays steam locomotives in an old freight station by the tracks. The adjacent [O. Winston Link Museum](/northamerica/unitedstates/virginia/roanoke/o_winston_link_museum) and the contemporary [Taubman Museum of Art](/northamerica/unitedstates/virginia/roanoke/taubman_museum_of_art) round out the cultural core, anchored by the daily bustle of the historic [City Market](/northamerica/unitedstates/virginia/roanoke/roanoke_city_market).

@@ -14,6 +14,10 @@ snippet: Tyrolean village in the Kaiserwinkl valley, known for paragliding above
   Unterberghorn.
 title: Kössen
 type: location
+heritage: 4.7
+vibrancy: 2.8
+nature: 7.8
+off_the_beaten_track: 2.9
 ---
 
 Kössen is a small village in the Kaiserwinkl region of Tyrol, tucked into a broad valley where the Großache river winds between the Zahmer Kaiser and Unterberghorn mountains. It is one of Europe's best-known paragliding spots — the thermals rising off the surrounding peaks make it a magnet for free-flight pilots from across the continent.

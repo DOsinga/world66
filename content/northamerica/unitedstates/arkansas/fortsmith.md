@@ -14,6 +14,10 @@ snippet: Arkansas-Oklahoma border city with frontier court history at the meetin
   of the Arkansas and Poteau rivers
 title: Fort Smith
 type: location
+heritage: 3.6
+vibrancy: 2.7
+nature: 2.6
+off_the_beaten_track: 1.6
 ---
 
 Fort Smith sits at the confluence of the Arkansas and Poteau rivers, right on the Oklahoma border. Arkansas's second-largest city has a frontier past that's hard to shake — this was the last outpost of law before Indian Territory, where "Hanging Judge" Isaac Parker held court and deputy marshals rode out after outlaws. That roughness has mellowed into a mid-sized city with a walkable downtown, a growing restaurant scene, and enough history to fill a solid weekend.

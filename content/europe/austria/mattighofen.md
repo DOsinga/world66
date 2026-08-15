@@ -9,6 +9,10 @@ snippet: Upper Austrian market town near Bavaria, known as the home of motorcycl
   manufacturer KTM.
 title: Mattighofen
 type: location
+heritage: 2.4
+vibrancy: 2.5
+nature: 3.1
+off_the_beaten_track: 1.5
 ---
 
 Mattighofen is a small market town in Upper Austria, in the Inn Quarter region near the Bavarian border. It is known primarily as the home of KTM, one of the world's leading motorcycle manufacturers, and motorsport enthusiasts make the pilgrimage here to visit the [KTM Motohall](/europe/austria/mattighofen/ktm_motohall) experience centre, which tells the brand's story from postwar beginnings to global success. Beyond motorcycles, the town has a pleasant [market square](/europe/austria/mattighofen/mattighofen_marktplatz) and the surrounding countryside along the Inn and Salzach rivers is good cycling territory.

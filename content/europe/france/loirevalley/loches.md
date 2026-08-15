@@ -14,6 +14,10 @@ snippet: Medieval Loire Valley town above the Indre, dominated by a royal citade
   keep, and former dungeons.
 title: Loches
 type: location
+heritage: 8.1
+vibrancy: 3.6
+nature: 4.7
+off_the_beaten_track: 2.4
 ---
 
 Loches is one of the finest medieval towns in the Loire Valley — and one of the least crowded. Perched on a ridge above the Indre river, its old quarter is dominated by a [royal citadel](/europe/france/loirevalley/loches/royal_citadel) that makes most other Loire chateaux look like country houses. This is a fortress in the proper sense: thick walls, towers, an 11th-century [keep](/europe/france/loirevalley/loches/donjon) that has stood for a thousand years, and dungeons where enemies of the French crown were quietly forgotten.

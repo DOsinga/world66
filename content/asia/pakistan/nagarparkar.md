@@ -17,6 +17,10 @@ image: nagarparkar.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Jain_temple,_Nagarparkar.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Saqib Qayyum
+heritage: 2.4
+vibrancy: 1.5
+nature: 1.8
+off_the_beaten_track: 4.2
 ---
 
 Nagarparkar sits at the far south-eastern edge of Sindh, where the Thar desert meets the pink granite of the Karoonjhar Hills and the flats of the Rann of Kutch. It is remote, dry, and not a polished sightseeing town. That is part of the point.

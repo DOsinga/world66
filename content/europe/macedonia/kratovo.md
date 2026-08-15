@@ -17,6 +17,10 @@ image: kratovo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kratovo,_Macedonia_05.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Explorer1940
+heritage: 5.3
+vibrancy: 2.1
+nature: 3.8
+off_the_beaten_track: 3.3
 ---
 
 Kratovo is a small town with a setting that does half the work for it. It sits in the bowl of an extinct volcano in northeastern [Macedonia](/europe/macedonia), where steep lanes, stone bridges, and old towers step up the slopes.

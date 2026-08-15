@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Livingstonia_Mission
 title: Livingstonia
 type: location
+heritage: 2.1
+vibrancy: 1.8
+nature: 7.5
+off_the_beaten_track: 6.8
 ---
 
 Livingstonia sits high above Lake Malawi on the escarpment north of [Nkhata Bay](/africa/malawi/nkhata_bay), cool, quiet, and improbable after the heat of the lakeshore. It is not a conventional town so much as a mission settlement spread along red-dirt roads, with brick buildings, schools, churches, and views that drop away toward the lake.

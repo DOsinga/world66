@@ -13,6 +13,10 @@ score: 4.48
 snippet: Lake Kivu city in eastern Congo, built on lava below the Nyiragongo volcano.
 title: Goma
 type: location
+heritage: 2.9
+vibrancy: 3.4
+nature: 4.9
+off_the_beaten_track: 7.0
 ---
 
 Goma commands one of the most dramatic settings of any city in Africa. It sits on the northern shore of [Lake Kivu](/africa/congokinshasa/goma/lake_kivu), the water a deep, improbable blue against the dark volcanic rock that forms the city's foundations, while behind it [Mount Nyiragongo](/africa/congokinshasa/goma/mount_nyiragongo) rises to 3,470 meters, its summit holding one of the world's largest and most active lava lakes. On clear nights the sky above the crater glows faintly orange. In January 2002, Nyiragongo erupted with little warning, sending a [lava flow](/africa/congokinshasa/goma/lava_fields) directly through the city center to the lake shore; the hardened black lava still forms entire streets and foundations in parts of town. The volcano remains active and closely monitored.

@@ -27,6 +27,10 @@ tip: Beat the legendary traffic with the BTS Skytrain, the MRT metro and the Cha
   knees and shoulders for the temples.
 title: Bangkok
 type: location
+heritage: 6.2
+vibrancy: 10.0
+nature: 2.2
+off_the_beaten_track: 0.5
 ---
 
 Bangkok is one of those cities that overwhelms you on arrival and then slowly wins you over. The heat hits you first, then the noise, then the smells -- exhaust fumes mingling with jasmine garlands and sizzling street food. Give it a day and you will start to feel the rhythm of the place.

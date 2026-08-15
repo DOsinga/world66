@@ -15,6 +15,10 @@ type: location
 snippet: Philippine island resort known for White Beach, clear shallow water, and
   hilly tropical scenery.
 loc_type: city
+heritage: 2.5
+vibrancy: 7.5
+nature: 4.9
+off_the_beaten_track: 0.5
 ---
 
 Travel Guide

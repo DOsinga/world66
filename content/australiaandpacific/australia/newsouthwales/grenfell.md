@@ -17,6 +17,10 @@ image: grenfell.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Grenfell_Silo_Art.jpg
 image_license: CC BY 4.0
 image_attribution: HeyJude70
+heritage: 1.9
+vibrancy: 2.2
+nature: 3.6
+off_the_beaten_track: 3.1
 ---
 
 Grenfell is a Central West New South Wales town with more texture than its size suggests. Gold brought the first rush in the 1860s; the town later became tied to Henry Lawson, one of Australia's best-known bush writers, who was born on the Grenfell goldfields.

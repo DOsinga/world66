@@ -14,6 +14,10 @@ image: bisbee.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bisbee,_Arizona_mainstreet.jpg
 image_license: CC BY 2.0
 image_attribution: Chad Johnson
+heritage: 4.7
+vibrancy: 4.6
+nature: 5.2
+off_the_beaten_track: 4.0
 ---
 
 Bisbee is a former copper-mining town tucked into the Mule Mountains of southern Arizona, about half an hour from [Tombstone](/northamerica/unitedstates/arizona/tombstone). It is one of the Southwest's best small-town stops: part mining relic, part arts town, part hillside oddity.

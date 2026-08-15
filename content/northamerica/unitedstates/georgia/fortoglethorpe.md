@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Chickamauga_and_Chattanooga_National_Military_Park
 title: Fort Oglethorpe
 type: location
+heritage: 2.8
+vibrancy: 1.9
+nature: 3.1
+off_the_beaten_track: 1.8
 ---
 
 Fort Oglethorpe is a small city in northwest Georgia, a few miles south of Chattanooga, Tennessee. Its main claim on a traveller's attention is its position as the gateway to [Chickamauga and Chattanooga National Military Park](/northamerica/unitedstates/georgia/fortoglethorpe/chickamauga_battlefield) — the largest Civil War battlefield in the United States, preserving the site of the 1863 Battle of Chickamauga, one of the bloodiest engagements of the war.

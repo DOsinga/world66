@@ -3,13 +3,18 @@ latitude: 52.1167
 loc_type: city
 longitude: 16.1167
 score: 6.8
-snippet: Greater Poland lake town famous for one of Europe's last working steam locomotive depots.
+snippet: Greater Poland lake town famous for one of Europe's last working steam locomotive
+  depots.
 sources:
 - https://en.wikivoyage.org/wiki/Wolsztyn
 - https://www.inyourpocket.com/poland/greater-poland/venues/wolsztyn-steam-train-depot
 - https://regionwielkopolska.pl/en/katalog-obiektow/the-regional-museum-of-wolsztyn/
 title: Wolsztyn
 type: location
+heritage: 5.3
+vibrancy: 2.1
+nature: 2.3
+off_the_beaten_track: 2.1
 ---
 
 Wolsztyn is a small Greater Poland town that would be easy to miss if not for the steam. Its [steam locomotive depot](/europe/poland/wolsztyn/steam_locomotive_depot) is one of the rare places in Europe where historic standard-gauge locomotives are kept as living machines rather than static museum pieces. For rail enthusiasts, that alone justifies the trip.

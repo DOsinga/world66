@@ -13,6 +13,10 @@ snippet: Wasatch Front county seat near Great Salt Lake wetlands and the Bear Ri
   Migratory Bird Refuge
 title: Brigham City
 type: location
+heritage: 3.8
+vibrancy: 3.1
+nature: 5.4
+off_the_beaten_track: 2.3
 ---
 
 Brigham City is a quiet county seat at the northern end of Utah's Wasatch Front, backed by the Wasatch Mountains and fronting the broad flats that slope toward the Great Salt Lake. With a population of around 17,000, it has the feel of a rural market town — family farms ring the outskirts and the pace is unhurried.

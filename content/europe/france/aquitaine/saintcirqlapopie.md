@@ -16,6 +16,10 @@ tags:
 - dordogne
 title: Saint-Cirq-Lapopie
 type: location
+heritage: 7.0
+vibrancy: 3.0
+nature: 5.5
+off_the_beaten_track: 3.8
 ---
 
 Saint-Cirq-Lapopie hangs over the Lot river 30 kilometres east of [Cahors](/europe/france/aquitaine/cahors), 80 metres of vertical limestone between its lowest houses and the water. It is one of the most photographed villages in France — and in 2012 it was voted *Village préféré des Français*, which is not a label most places live up to but in this case is more or less accurate. The combination of the cliff, the river, the russet rooftops, and the ruined castles above is unfair to every other village trying to compete.

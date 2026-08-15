@@ -18,6 +18,10 @@ snippet: Bavarian city with Roman origins, Renaissance civic buildings, and the 
   Fuggerei housing complex.
 title: Augsburg
 type: location
+heritage: 6.7
+vibrancy: 5.5
+nature: 3.3
+off_the_beaten_track: 1.4
 ---
 
 Augsburg is one of Germany's oldest cities, founded by the Romans in 15 BC and named after Emperor Augustus. It rose to European prominence in the 15th and 16th centuries as the home of the Fugger and Welser banking dynasties, whose wealth financed emperors and shaped the Renaissance cityscape that still defines the centre today.

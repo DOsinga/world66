@@ -13,6 +13,10 @@ snippet: Galician beach resort on the Ría de Pontevedra, centred on Silgar and 
   A Lanzada.
 title: Sanxenxo
 type: location
+heritage: 3.9
+vibrancy: 3.7
+nature: 6.0
+off_the_beaten_track: 2.2
 ---
 
 Sanxenxo is the busiest beach resort on the Galician coast — a small town on the Ría de Pontevedra whose population multiplies several times over each summer when the Madrid and Galician middle classes arrive for the season. There is almost no old town left; the planning regime in the 1960s and 70s favoured apartment blocks over the fishing village that used to stand here. What remains is a long, sheltered curve of sand at Silgar beach, a marina full of yachts, and a string of more characterful villages along the coast on either side.

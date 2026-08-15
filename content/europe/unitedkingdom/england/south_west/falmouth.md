@@ -13,6 +13,10 @@ image: falmouth.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Falmouth_,_Falmouth_Scenery_-_geograph.org.uk_-_5375310.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Lewis Clarke
+heritage: 4.5
+vibrancy: 5.2
+nature: 6.6
+off_the_beaten_track: 2.8
 ---
 
 Falmouth sits at the mouth of the Fal estuary, which forms the third-deepest natural harbour in the world — Falmouth Roads has sheltered ships from the age of sail to the present day. It was established as a port in the 17th century and became the terminus for the Royal Mail packet ships that carried correspondence to and from the Americas and West Indies. The town that grew up around the harbour is compact, handsome, and genuinely oriented towards the sea in ways that many English coastal towns are not.

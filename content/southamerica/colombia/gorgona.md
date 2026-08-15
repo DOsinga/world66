@@ -10,6 +10,10 @@ score: 6.1
 loc_type: city
 snippet: Rainforest island off Colombia's Pacific coast, formerly a prison and now
   protected as a national natural park.
+heritage: 2.3
+vibrancy: 2.1
+nature: 7.8
+off_the_beaten_track: 3.5
 ---
 
 Gorgona is an island 27 km off Colombia's Pacific coast where tropical rainforest meets the sea. For decades it housed a state prison -- Colombia's Alcatraz -- until 1985, when it became a national natural park. The isolation that once made it a prison now makes it a sanctuary. The rainforest has evolved separately from the mainland for thousands of years, and the surrounding waters are rich with marine life.

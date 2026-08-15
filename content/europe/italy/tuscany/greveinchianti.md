@@ -15,6 +15,10 @@ tags:
 - chianti
 title: Greve in Chianti
 type: location
+heritage: 6.2
+vibrancy: 4.6
+nature: 5.9
+off_the_beaten_track: 1.5
 ---
 
 Greve in Chianti sits in the heart of the Chianti Classico wine country, roughly equidistant from [Florence](/europe/italy/tuscany/florence) (30 km) and [Siena](/europe/italy/tuscany/siena) (35 km). The town's [triangular piazza](/europe/italy/tuscany/greveinchianti/piazza_matteotti), lined with arcaded shops and wine bars, is the natural gathering point and a good place to start tasting at the [Enoteca del Chianti Classico](/europe/italy/tuscany/greveinchianti/enoteca_del_chianti_classico) or the century-old [Macelleria Falorni](/europe/italy/tuscany/greveinchianti/macelleria_falorni).

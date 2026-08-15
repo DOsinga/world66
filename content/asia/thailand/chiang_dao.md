@@ -16,6 +16,10 @@ snippet: Northern Thai valley town beneath Doi Luang Chiang Dao, known for caves
   hot springs, and dark skies.
 title: Chiang Dao
 type: location
+heritage: 2.9
+vibrancy: 4.9
+nature: 7.3
+off_the_beaten_track: 3.8
 ---
 
 Chiang Dao sits about 70 kilometres north of Chiang Mai, in a broad valley beneath Doi Luang Chiang Dao — Thailand's third-highest peak and a UNESCO World Biosphere Reserve. The name means "city of stars," and on clear nights in the dry season you'll understand why: the darkness is real and the sky is full.

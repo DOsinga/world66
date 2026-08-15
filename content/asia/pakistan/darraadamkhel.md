@@ -10,6 +10,10 @@ snippet: Pakistani bazaar town near Peshawar, known for workshops devoted to han
   firearms
 title: Darra Adam Khel
 type: location
+heritage: 3.6
+vibrancy: 1.7
+nature: 1.5
+off_the_beaten_track: 7.3
 ---
 
 Darra Adam Khel is one of the more unusual attractions in Pakistan — a small bazaar town whose entire economy revolves around a single trade: making guns. Located in the Tribal Areas, 40 kilometres south of [Peshawar](/asia/pakistan/peshawar) on the road to [Kohat](/asia/pakistan/kohat), it is a drive of about 40 minutes.

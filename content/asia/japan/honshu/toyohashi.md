@@ -17,6 +17,10 @@ image: toyohashi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Yoshida_Castle_(Aichi)_3.jpg
 image_license: Public domain
 image_attribution: Lombroso
+heritage: 4.2
+vibrancy: 4.4
+nature: 3.8
+off_the_beaten_track: 1.3
 ---
 
 Toyohashi sits in eastern Aichi, between Nagoya and Hamamatsu, where the old Tokaido road met Mikawa Bay. It is not a showpiece city, but it rewards a spare day in central Honshu with castle remains, a surviving Edo post-town inn, and one of Japan's few remaining streetcar systems.

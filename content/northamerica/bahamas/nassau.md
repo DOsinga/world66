@@ -15,6 +15,10 @@ snippet: Bahamian capital on New Providence, balancing colonial pastel streets, 
   docks, and turquoise beaches
 title: Nassau
 type: location
+heritage: 4.3
+vibrancy: 5.6
+nature: 6.3
+off_the_beaten_track: 3.9
 ---
 
 Nassau is the capital of the Bahamas, sitting on New Providence Island in the northwest of the archipelago. It's a city of real contrasts: colonial-era pastel buildings and cobbled streets in the old [downtown](/northamerica/bahamas/nassau/downtown), massive cruise ship terminals crowding the waterfront, and a string of resort hotels strung along [Cable Beach](/northamerica/bahamas/nassau/cable_beach) to the west.

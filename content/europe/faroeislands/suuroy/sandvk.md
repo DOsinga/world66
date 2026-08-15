@@ -14,6 +14,10 @@ title: Sandvík
 type: location
 snippet: Northern Suðuroy village reached by tunnel, with a rare Faroese sandy beach
   and Viking-era legends.
+heritage: 4.1
+vibrancy: 0.7
+nature: 7.8
+off_the_beaten_track: 6.9
 ---
 
 Sandvík is the northernmost village on [Suðuroy](/europe/faroeislands/suuroy), reached through an old road tunnel that is the only way in. About a hundred people live here. As the name suggests, it has a large [sandy beach](/europe/faroeislands/suuroy/sandvk/sandvik_beach) — a rarity in the Faroes.

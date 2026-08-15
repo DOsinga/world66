@@ -5,10 +5,15 @@ loc_type: city
 latitude: 46.407
 longitude: -105.8478
 score: 6.6
-snippet: Eastern Montana cattle town on the Yellowstone River, with Old West museums and rodeo roots.
+snippet: Eastern Montana cattle town on the Yellowstone River, with Old West museums
+  and rodeo roots.
 sources:
-  - https://en.wikivoyage.org/wiki/Miles_City
-  - https://en.wikipedia.org/wiki/Miles_City,_Montana
+- https://en.wikivoyage.org/wiki/Miles_City
+- https://en.wikipedia.org/wiki/Miles_City,_Montana
+heritage: 2.3
+vibrancy: 1.7
+nature: 3.9
+off_the_beaten_track: 5.6
 ---
 
 Miles City is the old cattle town of eastern Montana, set where the Tongue River meets the Yellowstone. It still feels tied to ranching, railroads, auctions, rodeo, and the long distances of the northern plains.

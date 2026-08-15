@@ -18,6 +18,10 @@ image: terrace_bay.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aguasabon_River_Gorge,_Terrace_Bay,_Ontario_(18764829469).jpg
 image_license: CC BY 2.0
 image_attribution: Sharon Mollerus
+heritage: 2.2
+vibrancy: 1.2
+nature: 6.3
+off_the_beaten_track: 5.3
 ---
 
 Terrace Bay is a small Lake Superior town with a better setting than its highway frontage first suggests. The north shore here is all cold blue water, boreal forest, broken rock, and sudden drops into gorges, with the Slate Islands sitting offshore like a promise of wilder country.

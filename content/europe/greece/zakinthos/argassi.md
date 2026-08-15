@@ -15,6 +15,10 @@ image: argassi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Argasi,_Zakynthos,_Greece_01.jpg
 image_license: CC BY 3.0
 image_attribution: Christaras A
+heritage: 2.1
+vibrancy: 4.8
+nature: 5.8
+off_the_beaten_track: 2.1
 ---
 
 Argassi is the easiest beach-resort add-on to [Zakynthos City](/europe/greece/zakinthos/zakynthoscity): close enough for dinner in the capital, but with its own strip of tavernas, bars, boat desks, and sunbeds along the southeast coast. It is not the prettiest village on Zakynthos, and in high summer the main road can feel more functional than charming, but it is convenient, lively, and well placed for short trips around the island.

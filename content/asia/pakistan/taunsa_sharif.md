@@ -14,6 +14,10 @@ snippet: Punjab pilgrimage town where a Sufi shrine stands near the Indus-side T
   Barrage wetland
 title: Taunsa Sharif
 type: location
+heritage: 3.7
+vibrancy: 1.2
+nature: 2.7
+off_the_beaten_track: 5.8
 ---
 
 Taunsa Sharif is a small town in the Dera Ghazi Khan district of Punjab, set in the arid plains east of the Sulaiman Mountains. It draws visitors as a site of Sufi pilgrimage — the town is named after the revered saint Hazrat Syed Ahmad Sultan, and his [shrine](/asia/pakistan/taunsa_sharif/shrine_hazrat_sultan) is the focal point of the old town. The [Taunsa Barrage](/asia/pakistan/taunsa_sharif/taunsa_barrage) on the Indus River, a few kilometres south of town, is an engineering landmark, a Ramsar-designated wetland, and one of the best places in Pakistan to spot the rare Indus river dolphin.

@@ -7,6 +7,10 @@ longitude: -48.6344
 score: 7.7
 snippet: Santa Catarina beach city with a high-rise central bay and cable car access
   to nearby beaches.
+heritage: 2.5
+vibrancy: 5.7
+nature: 6.1
+off_the_beaten_track: 1.7
 ---
 
 Balneário Camboriú is a city of beautiful contrasts...

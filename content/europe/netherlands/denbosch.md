@@ -14,6 +14,10 @@ snippet: Southern Dutch city of Brabant Gothic architecture, underground canals,
   Hieronymus Bosch heritage
 title: Den Bosch
 type: location
+heritage: 5.5
+vibrancy: 4.2
+nature: 4.3
+off_the_beaten_track: 2.8
 ---
 
 Den Bosch — officially 's-Hertogenbosch — is one of the most attractive cities in the south of the Netherlands. It was a major religious and political centre in the Middle Ages, and that heritage shows in its outstanding [Sint-Janskathedraal](/europe/netherlands/denbosch/sint_janskathedraal), a masterpiece of Brabant Gothic that took two centuries to build. The flying buttresses crawling with fantastical stone figures are unlike anything else in the country.

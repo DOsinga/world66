@@ -7,6 +7,10 @@ snippet: Charming suburb with riverwalk and living history museum, 30 miles west
   Metra
 title: Naperville
 type: location
+heritage: 2.0
+vibrancy: 3.2
+nature: 2.7
+off_the_beaten_track: 1.0
 ---
 
 Only 30 miles west of Chicago and easily reached by Metra's BNSF line, Naperville has built one of the most livable downtowns in the Chicago suburbs. The Riverwalk runs 1.75 miles along the DuPage River, lined with foot bridges, fountains, and outdoor seating — a genuinely pleasant place to spend an hour or two, especially in warm weather. The downtown blocks radiating off it have enough independent restaurants and shops to fill an afternoon without feeling like a mall.

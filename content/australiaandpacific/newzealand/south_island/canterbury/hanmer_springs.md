@@ -6,15 +6,20 @@ latitude: -42.5167
 longitude: 172.8167
 score: 7.0
 wikidata: Q995544
-snippet: Canterbury alpine spa town built around hot pools, forest trails, and mountain views.
+snippet: Canterbury alpine spa town built around hot pools, forest trails, and mountain
+  views.
 sources:
-  - https://en.wikivoyage.org/wiki/Hanmer_Springs
-  - https://en.wikipedia.org/wiki/Hanmer_Springs
-  - https://www.wikidata.org/wiki/Q995544
+- https://en.wikivoyage.org/wiki/Hanmer_Springs
+- https://en.wikipedia.org/wiki/Hanmer_Springs
+- https://www.wikidata.org/wiki/Q995544
 image: hanmer_springs.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Hanmer_Springs_Alpine_Village_view_from_Conical_Hill-_North_Canterbury-_South_Island-_New_Zealand.jpg
 image_license: CC BY-SA 4.0
 image_attribution: FutureKiwi
+heritage: 3.5
+vibrancy: 2.9
+nature: 8.1
+off_the_beaten_track: 3.5
 ---
 
 Hanmer Springs is a small alpine spa town in North Canterbury, tucked below forested hills off State Highway 7. The hot pools are the headline, but the place works because you can pair a soak with easy walking, mountain biking, and clear views over the Hanmer Basin.

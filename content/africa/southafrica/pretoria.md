@@ -29,6 +29,10 @@ tip: Pretoria is South Africa's administrative capital (the country has three ca
   empties after dark.
 title: Pretoria
 type: location
+heritage: 6.1
+vibrancy: 4.4
+nature: 3.1
+off_the_beaten_track: 2.4
 ---
 
 Pretoria is the executive capital of South Africa, the seat of the presidency and the administration, set in the highveld 50 km north of [Johannesburg](/africa/southafrica/johannesburg). It is a quieter, more formal city than Jo’burg — administrative rather than commercial — and more pleasant to navigate, with wide avenues and a compact historic centre around [Church Square](/africa/southafrica/pretoria/church_square).

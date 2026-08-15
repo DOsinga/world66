@@ -17,6 +17,10 @@ image: peenemunde.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Peenemuende,_Hafen,_U461.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Gerolsteiner91
+heritage: 5.9
+vibrancy: 2.5
+nature: 3.2
+off_the_beaten_track: 2.0
 ---
 
 Peenemünde is a small harbour village at the northern tip of Usedom, but its history is anything but small. From 1936 to 1945 the German military research stations here formed one of Europe's largest armaments centres, where the V-1 and V-2 weapons were developed with forced labour and later used against civilians.

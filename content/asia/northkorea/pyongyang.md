@@ -22,6 +22,10 @@ tip: 'Pyongyang can only be visited on a state-approved guided tour — independ
   officials and statues.'
 title: Pyongyang
 type: location
+heritage: 3.7
+vibrancy: 3.4
+nature: 3.7
+off_the_beaten_track: 6.9
 ---
 
 Pyongyang is unlike any other capital city. It was rebuilt from near-total destruction after the Korean War and designed as an advertisement for the socialist state — wide boulevards, monumental plazas, heroic statuary, and apartment blocks in pastel colours arranged along the Taedong River. It works, visually. On a clear day, with the city laid out below you from atop the [Juche Tower](/asia/northkorea/pyongyang/juche_tower), it is genuinely beautiful in a deeply strange way.

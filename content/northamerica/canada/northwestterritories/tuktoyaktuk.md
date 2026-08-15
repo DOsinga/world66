@@ -17,6 +17,10 @@ image: tuktoyaktuk.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Arctic_Ocean_Shore_and_Settlement_-_Tuktoyaktuk_-_Northwest_Territories_-_Canada_-_01.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Adam Jones, Ph.D.
+heritage: 2.6
+vibrancy: 1.1
+nature: 6.2
+off_the_beaten_track: 6.8
 ---
 
 Tuktoyaktuk, usually shortened to Tuk, sits on the Beaufort Sea coast beyond the treeline, where the Inuvik-Tuktoyaktuk Highway reaches the Arctic Ocean. It is a small Inuvialuit hamlet, but it is not just a dot at the end of a road: this is the only Canadian Arctic Ocean community connected to the rest of the country by public road, and the landscape around it is unlike anywhere farther south.

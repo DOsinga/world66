@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Ganja,_Azerbaijan
 title: Ganca
 type: location
+heritage: 2.5
+vibrancy: 1.2
+nature: 2.5
+off_the_beaten_track: 5.5
 ---
 
 Ganca (also spelled Ganja; pronounced roughly as 'Ganja') is Azerbaijan's second-largest city, with a population of around 335,000. It sits in a fertile agricultural valley south of the Kura River, about 300 kilometres west of Baku, and has one of the richest histories of any city in the Caucasus.

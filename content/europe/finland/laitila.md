@@ -15,6 +15,10 @@ image: laitila.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Laitila_Miikaeli_kirik._Kellatorn._3.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Marrx
+heritage: 3.1
+vibrancy: 1.7
+nature: 6.2
+off_the_beaten_track: 3.0
 ---
 
 Laitila is a small inland town in Finland Proper, on the road between [Turku](/europe/finland/turku) and [Rauma](/europe/finland/rauma). It looks modest at first: fields, low streets, and food-industry buildings. The reason to stop is older and quieter, in the medieval church, Iron Age burial sites, and farm villages that show how this part of southwestern Finland settled around roads, fields, and parish life.

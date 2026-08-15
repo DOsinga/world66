@@ -7,7 +7,8 @@ latitude: 17.148888888888887
 loc_type: city
 longitude: 121.88944444444445
 score: 6.08
-snippet: Isabela capital with Sierra Madre caves, a WWII tunnel, and a huge wooden butaka.
+snippet: Isabela capital with Sierra Madre caves, a WWII tunnel, and a huge wooden
+  butaka.
 sources:
 - https://en.wikivoyage.org/wiki/Ilagan
 - https://www.wikidata.org/wiki/Q50179
@@ -17,6 +18,10 @@ sources:
 title: Ilagan
 type: location
 wikidata: Q50179
+heritage: 2.1
+vibrancy: 2.2
+nature: 3.8
+off_the_beaten_track: 3.8
 ---
 
 Ilagan is the capital of Isabela, stretched along the highway through the Cagayan Valley. It is a working provincial city first, not a polished tourist town, but it has enough character to reward a traveller already moving between Cauayan and Tuguegarao.

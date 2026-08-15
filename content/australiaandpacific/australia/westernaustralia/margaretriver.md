@@ -17,6 +17,10 @@ sources:
 - https://exploreparks.dbca.wa.gov.au/park/leeuwin-naturaliste-national-park
 title: Margaret River
 type: location
+heritage: 3.4
+vibrancy: 5.2
+nature: 7.5
+off_the_beaten_track: 3.0
 ---
 
 Margaret River is the best known name in Western Australia's South West: a small inland town, a serious wine region, and a rugged surf coast rolled into one. The town itself sits among eucalypt forest about three hours south of [Perth](/australiaandpacific/australia/westernaustralia/perth), but the real appeal spreads west to the Indian Ocean and along the Cape Naturaliste-Cape Leeuwin coast.

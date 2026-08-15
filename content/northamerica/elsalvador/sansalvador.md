@@ -24,6 +24,10 @@ tip: San Salvador sits in a valley beneath the Volcán de San Salvador, which yo
   Cerén are nearby.
 title: San Salvador
 type: location
+heritage: 3.6
+vibrancy: 4.5
+nature: 5.6
+off_the_beaten_track: 2.9
 ---
 
 San Salvador is the capital and by far the largest city in El Salvador, home to around two million people in the metropolitan area. It sits at about 650 metres elevation at the foot of the San Salvador Volcano, which gives the city a pleasant climate relative to the coast — warm but not punishing.

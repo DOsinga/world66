@@ -10,6 +10,10 @@ snippet: Bay of Bengal seaside resort in West Bengal, known for broad hard-sand 
   near Kolkata.
 title: Digha
 type: location
+heritage: 4.5
+vibrancy: 3.9
+nature: 4.9
+off_the_beaten_track: 1.8
 ---
 
 Digha is West Bengal's most popular sea resort, 187 km from Kolkata on the Bay of Bengal coast. Warren Hastings mentioned it in a letter to his wife in 1780 as a beautiful spot — then called Beerkul — and the 20th-century development of the town as a resort was pushed by West Bengal's first chief minister, Bidhan Chandra Roy. Today it is crowded on weekends with Bengali families and honeymooners, and quieter mid-week.

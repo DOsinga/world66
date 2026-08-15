@@ -24,6 +24,10 @@ tip: Cuzco sits at 3,400 m — spend a couple of days acclimatising before Machu
   and notice the Inca stonework forming the base of the Spanish walls.
 title: Cuzco
 type: location
+heritage: 7.9
+vibrancy: 4.4
+nature: 4.6
+off_the_beaten_track: 2.2
 ---
 
 **Cuzco** was the capital of the Inca empire and is Peru's undisputed tourist capital today, thanks to a heritage unmatched anywhere in the Americas. Many streets in the city centre are lined with buildings that incorporate whole sections of ancient Inca walls — the Spanish built their colonial city directly on the foundations of the Inca one, and both layers are still visible everywhere you look.

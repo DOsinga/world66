@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Chersonesus
 snippet: Historic Crimean port city shaped by Black Sea naval history and wartime
   sieges.
+heritage: 7.4
+vibrancy: 6.1
+nature: 6.2
+off_the_beaten_track: 3.5
 ---
 
 **Note:** Crimea has been under Russian military occupation since 2014. Most Western governments advise against travel to the territory. This page describes Sevastopol as it was before the occupation and as it exists historically.

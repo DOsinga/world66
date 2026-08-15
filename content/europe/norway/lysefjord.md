@@ -13,6 +13,10 @@ image: lysefjord.jpg
 image_source: https://commons.wikimedia.org/wiki/File:LysebotnViewFromAbovePreikestolen.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Andreas Tille
+heritage: 5.5
+vibrancy: 5.6
+nature: 7.9
+off_the_beaten_track: 2.7
 ---
 
 Lysefjord cuts 42 km inland from the sea east of Stavanger, its granite walls rising up to 1,000 metres straight from the water in places — one of the most dramatic fjords in a country full of dramatic fjords. Its name, "light fjord," comes from the pale granite of its walls, which catch the light in a way the darker rock of neighbouring fjords doesn't.

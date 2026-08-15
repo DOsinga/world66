@@ -16,6 +16,10 @@ snippet: Southern Puerto Rican colonial city of pastel mansions, opera houses, a
   sugar-era grandeur.
 title: Ponce
 type: location
+heritage: 4.5
+vibrancy: 5.4
+nature: 5.8
+off_the_beaten_track: 2.7
 ---
 
 Ponce is the best place to experience an old colonial town in Puerto Rico. Known as "La Perla del Sur" (The Pearl of the South), the city wears its history proudly — pastel-painted mansions line the streets, wrought-iron balconies overhang the plazas, and a general air of faded grandeur hangs over everything.

@@ -14,6 +14,10 @@ image: sombor.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Sombor_(Zombor)_-_main_street.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Pudelek (Marcin Szala)
+heritage: 2.9
+vibrancy: 1.6
+nature: 2.1
+off_the_beaten_track: 3.6
 ---
 
 Sombor is a graceful city in Vojvodina, close to both the Hungarian and Croatian borders. It is known in Serbia as a green city, with broad streets, old trees, and an 18th- and 19th-century centre that feels more Habsburg than Balkan in places.

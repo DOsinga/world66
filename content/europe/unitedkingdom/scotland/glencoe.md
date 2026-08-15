@@ -15,6 +15,10 @@ image: glencoe.jpg
 image_source: https://commons.wikimedia.org/wiki/File:GlencoeVillage.jpg
 image_license: CC BY 3.0
 image_attribution: Simonm72
+heritage: 6.9
+vibrancy: 1.2
+nature: 8.1
+off_the_beaten_track: 5.7
 ---
 
 Glencoe is one of the most dramatic landscapes in Scotland — a deep glacial valley carved between towering ridges, with a history as dark as its skies can be. The name covers both a small village at the valley's foot and the wider mountain terrain that draws walkers and climbers from across Britain and beyond.

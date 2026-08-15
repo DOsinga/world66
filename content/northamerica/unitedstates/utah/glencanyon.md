@@ -13,6 +13,10 @@ snippet: Glen Canyon is a vast Utah-Arizona recreation area of sandstone canyons
   Lake Powell.
 title: Glen Canyon
 type: location
+heritage: 1.9
+vibrancy: 1.3
+nature: 7.7
+off_the_beaten_track: 3.4
 ---
 
 Glen Canyon National Recreation Area is one of the largest and most remote parks in the American Southwest — a vast, sun-scorched landscape of sandstone canyon walls, hidden side canyons, and the enormous blue expanse of Lake Powell stretching 300 kilometres across the Utah-Arizona border. It is a place of stark contradictions: hauntingly beautiful desert country that was deliberately flooded in the 1960s to create one of the largest reservoirs in the United States.

@@ -10,6 +10,10 @@ snippet: Bhutanese border town where the Himalayan foothills meet India, and the
   climbs north to Thimphu.
 title: Phuntsholing
 type: location
+heritage: 5.9
+vibrancy: 4.7
+nature: 6.2
+off_the_beaten_track: 5.3
 ---
 
 Phuntsholing is the main gateway to [Bhutan](/asia/bhutan) from India, sitting on the southwest border where the Himalayan foothills meet the Indian plains. The town faces Jaigaon on the Indian side, and the border crossing between them is one of the busiest in the country — a constant flow of shoppers, traders, and travellers moving back and forth.

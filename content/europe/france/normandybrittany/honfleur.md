@@ -14,6 +14,10 @@ snippet: Norman harbour town whose Vieux Bassin and slate-fronted houses drew Bo
   Monet, and Jongkind.
 title: Honfleur
 type: location
+heritage: 7.3
+vibrancy: 5.1
+nature: 4.3
+off_the_beaten_track: 1.9
 ---
 
 Honfleur is one of those Norman harbour towns that looks almost too picturesque to be real. The [Vieux Bassin](/europe/france/normandybrittany/honfleur/vieux_bassin) — a 17th-century enclosed harbour lined with tall, narrow slate-fronted houses — drew Impressionist painters like Boudin, Monet, and Jongkind, and it still draws crowds today.

@@ -13,6 +13,10 @@ score: 6.52
 snippet: Sicilian town west of Catania, marked by a Norman castle on a basalt plug.
 title: Motta S. Anastasia
 type: location
+heritage: 4.1
+vibrancy: 3.4
+nature: 5.3
+off_the_beaten_track: 2.8
 ---
 
 Motta Sant'Anastasia is a small town about 15 kilometres west of [Catania](/europe/italy/sicily/catania), instantly recognisable by its [Norman castle](/europe/italy/sicily/motta_s_anastasia/norman_castle) perched dramatically atop a volcanic basalt plug. The dark tower rising from the sheer rock face is one of the most striking sights in the Catania hinterland, and visible from a considerable distance across the plain of the Simeto river.

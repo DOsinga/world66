@@ -13,6 +13,10 @@ title: La Trinité
 type: location
 snippet: Atlantic-coast Martinique town facing the Caravelle Peninsula, with a working
   fishing port.
+heritage: 4.9
+vibrancy: 5.2
+nature: 6.2
+off_the_beaten_track: 3.5
 ---
 
 La Trinité is a small town on the Atlantic coast of [Martinique](/northamerica/martinique), about 20 kilometres northeast of Fort-de-France. It sits on a wide bay facing the Caravelle Peninsula, one of the island's most striking natural areas. The town itself is a working fishing port with a relaxed, unhurried feel — far from the cruise-ship crowds of the capital.

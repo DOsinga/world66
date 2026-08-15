@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Duluth_Depot
 title: Duluth
 type: location
+heritage: 3.9
+vibrancy: 5.2
+nature: 6.2
+off_the_beaten_track: 2.8
 ---
 
 Duluth sits at the western tip of Lake Superior, where the St. Louis River meets the largest freshwater lake in the world by surface area. The city climbs steeply from the lakefront up a hillside, giving most of its neighbourhoods dramatic views of the harbour and the open water beyond.

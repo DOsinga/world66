@@ -5,10 +5,15 @@ loc_type: city
 latitude: 42.1514
 longitude: 77.5458
 score: 6.72
-snippet: Quiet south-shore Issyk-Kul village near Buddhist inscriptions, red hills, and mountain gorges.
+snippet: Quiet south-shore Issyk-Kul village near Buddhist inscriptions, red hills,
+  and mountain gorges.
 sources:
-  - https://en.wikivoyage.org/wiki/Tamga
-  - https://en.wikipedia.org/wiki/Barskoon
+- https://en.wikivoyage.org/wiki/Tamga
+- https://en.wikipedia.org/wiki/Barskoon
+heritage: 6.6
+vibrancy: 0.7
+nature: 7.5
+off_the_beaten_track: 6.6
 ---
 
 Tamga is a small village on the quieter south shore of [Lake Issyk-Kul](/asia/kyrgyzstan/lakeissykkul), set just inland from the beach and backed by the dry foothills of the Terskey Ala-Too. It is not polished, and that is its appeal: guesthouses, lake air, dusty lanes, and easy access to some of the south shore's best short excursions.

@@ -14,6 +14,10 @@ longitude: 72.125
 score: 7.1
 title: Patan
 type: location
+heritage: 8.0
+vibrancy: 2.9
+nature: 1.8
+off_the_beaten_track: 4.4
 ---
 
 Patan was the capital of Gujarat for nearly six centuries under the Chaulukya (Solanki) dynasty, founded in 745 CE by Vanraj Chavda and later sacked by the Delhi sultans in the late 13th century. What survives is a small town built on the layered debris of a much larger medieval city — and one of the most extraordinary single monuments in India.

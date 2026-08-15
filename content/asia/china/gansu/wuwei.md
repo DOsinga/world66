@@ -14,6 +14,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Wuwei
 title: Wuwei
 type: location
+heritage: 5.9
+vibrancy: 1.9
+nature: 3.7
+off_the_beaten_track: 4.8
 ---
 
 Wuwei was one of the four great garrison towns the Han Emperor Wu established along the Hexi Corridor in 121 BC to control the newly conquered western territory. It remained a significant city through the Tang Dynasty and into the Western Xia period, when it was held by the Tangut kingdom that controlled much of the northwest until the Mongol conquest. The layered history of these different ruling powers has left a disproportionate quantity of museums and cultural sites for a city of its size.

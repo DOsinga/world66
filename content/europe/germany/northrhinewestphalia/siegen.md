@@ -14,6 +14,10 @@ title: Siegen
 type: location
 snippet: Wooded Siegerland city where Rubens was born, with castles above an old iron-mining
   valley.
+heritage: 4.8
+vibrancy: 4.2
+nature: 4.5
+off_the_beaten_track: 2.2
 ---
 
 Siegen's main claim to fame is a big one: Peter Paul Rubens was born here in 1577. The city has leaned into that connection, and the Siegerlandmuseum in the [Oberes Schloss](/europe/germany/northrhinewestphalia/siegen/oberes_schloss) (Upper Castle) holds a notable collection of Rubens paintings alongside exhibits on the region's iron-mining heritage. The hilltop castle itself, with its views over the wooded Siegerland hills, is worth the walk up.

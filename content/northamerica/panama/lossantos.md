@@ -10,6 +10,10 @@ snippet: Azuero Peninsula province where Panamanian folk dress, Carnival traditi
   and cattle country run deep
 title: Los Santos
 type: location
+heritage: 1.9
+vibrancy: 2.4
+nature: 5.6
+off_the_beaten_track: 5.0
 ---
 
 Los Santos is a province on the Azuero Peninsula in southern Panama, the heartland of Panamanian rural culture. This is where the country's traditions run deepest — the pollera dress, the sombrero pintao, and the folk dances that define the national identity all originate here. If you visit during Carnival, the [celebrations in Las Tablas](/northamerica/panama/lossantos/carnival_las_tablas) are among the wildest and most genuine in Central America — the rivalry between the town's two halves makes this feel nothing like a tourist performance.

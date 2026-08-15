@@ -11,6 +11,10 @@ snippet: Great Lakes industrial city where automotive history meets restored lan
   and a hard-won cultural comeback
 title: Detroit
 type: location
+heritage: 6.9
+vibrancy: 5.3
+nature: 1.5
+off_the_beaten_track: 1.6
 ---
 
 Detroit is the city that put the world on wheels, and that automotive legacy still shapes everything about the place. The Big Three automakers remain headquartered here, the [Henry Ford Museum](/northamerica/unitedstates/michigan/detroit/henry_ford_museum) in Dearborn is one of the great American museums, and car culture runs deep in the local identity. But modern Detroit is defined as much by its comeback as by its industrial past — the restoration of [Michigan Central Station](/northamerica/unitedstates/michigan/detroit/michigan_central_station) by Ford in 2024 is the most visible symbol.

@@ -17,6 +17,10 @@ sources:
 title: Trat
 type: location
 score: 6.5
+heritage: 2.4
+vibrancy: 3.0
+nature: 3.6
+off_the_beaten_track: 3.0
 ---
 
 Trat is the last proper town in eastern Thailand before the Cambodian border and the island ferries. Most travellers know it only as the place to sleep before boats to [Ko Chang](/asia/thailand/kohchang), [Ko Mak](/asia/thailand/kohchang/koh_mak), or Ko Kood, but that is selling it a little short.

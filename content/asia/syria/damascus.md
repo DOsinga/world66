@@ -26,6 +26,10 @@ tip: Damascus claims to be one of the oldest continuously inhabited cities on ea
   careful local arrangement.
 title: Damascus
 type: location
+heritage: 7.7
+vibrancy: 6.9
+nature: 0.2
+off_the_beaten_track: 6.9
 ---
 
 Damascus is the capital of Syria and one of the oldest continuously inhabited cities in the world. It is big, lively, and a little rough around the edges, with a sprawling old centre of narrow winding streets and one of the great covered souks of the Middle East.

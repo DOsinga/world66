@@ -13,6 +13,10 @@ image: bydgoszcz.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bydgoszcz_Venice_Footbridge,_view_to_E,_Bydgoszcz,_Poland.jpg
 image_license: CC BY 4.0
 image_attribution: Igor123121
+heritage: 5.7
+vibrancy: 4.5
+nature: 4.0
+off_the_beaten_track: 2.1
 ---
 
 Bydgoszcz is one of Poland's bigger cities, but it feels less obvious than Kraków, Gdańsk, or nearby [Toruń](/europe/poland/torun). That is part of the appeal. The Brda River and old canal cut through the centre, leaving islands, quays, bridges, and waterside paths that make the city easy to enjoy on foot.

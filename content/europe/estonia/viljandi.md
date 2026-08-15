@@ -16,6 +16,10 @@ image: viljandi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Viljandi_Landmarks_30.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Scotch Mist
+heritage: 5.7
+vibrancy: 4.4
+nature: 5.5
+off_the_beaten_track: 3.3
 ---
 
 Viljandi is a small South Estonian town with a bigger cultural life than its size suggests. The setting does much of the work: castle hills above a long lake, wooden streets that still feel local, and a folk-music scene strong enough to earn the town UNESCO Creative City status for crafts and folk art.

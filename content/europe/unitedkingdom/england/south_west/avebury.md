@@ -13,6 +13,10 @@ snippet: Wiltshire village built inside Europe's largest stone circle, with lane
   a pub, and a church among the stones.
 title: Avebury
 type: location
+heritage: 7.1
+vibrancy: 2.4
+nature: 4.9
+off_the_beaten_track: 2.9
 ---
 
 Avebury is a village in Wiltshire, [England](/europe/unitedkingdom/england), built right inside the [largest stone circle in Europe](/europe/unitedkingdom/england/south_west/avebury/avebury_stone_circle). While Stonehenge gets the crowds, Avebury is in many ways more impressive — the circle is so large that the village, a pub, and a church all sit within it. You can walk among the stones and touch them, something Stonehenge no longer allows.

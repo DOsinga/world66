@@ -14,6 +14,10 @@ snippet: Hessian spa city between the Taunus and Rhine, shaped by hot springs an
   Wilhelminian elegance
 title: Wiesbaden
 type: location
+heritage: 5.9
+vibrancy: 3.9
+nature: 3.2
+off_the_beaten_track: 1.4
 ---
 
 Wiesbaden, the capital of Hesse, sits between the Taunus highlands to the north and the Rhine to the south. Its 26 hot springs were already noted by Roman writers, and the city has been a fashionable spa destination since the 18th century — Dostoyevsky gambled away his fortune at the [Kurhaus](/europe/germany/hessen/wiesbaden/kurhaus) casino, and the grand Wilhelminian-era buildings along the [Wilhelmstraße](/europe/germany/hessen/wiesbaden/wilhelmstrasse) still carry that old-world elegance.

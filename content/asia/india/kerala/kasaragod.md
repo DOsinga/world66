@@ -5,12 +5,17 @@ loc_type: city
 latitude: 12.5
 longitude: 75.0
 score: 7.3
-snippet: Northern Kerala town of laterite forts, river mouths, temple traditions, and Tulu-Malayalam border culture.
+snippet: Northern Kerala town of laterite forts, river mouths, temple traditions,
+  and Tulu-Malayalam border culture.
 wikidata: Q317217
 sources:
-  - https://en.wikivoyage.org/wiki/Kasaragod
-  - https://en.wikipedia.org/wiki/Kasaragod
-  - https://www.keralatourism.org/kasaragod/investment/opportunities/attractions
+- https://en.wikivoyage.org/wiki/Kasaragod
+- https://en.wikipedia.org/wiki/Kasaragod
+- https://www.keralatourism.org/kasaragod/investment/opportunities/attractions
+heritage: 4.3
+vibrancy: 3.0
+nature: 4.1
+off_the_beaten_track: 4.8
 ---
 
 Kasaragod is Kerala's far-northern edge, closer in feel to coastal Karnataka than to the backwater postcard version of the state. Malayalam, Tulu, Kannada, Konkani, and Beary culture overlap here, and the landscape shifts between river mouths, laterite forts, coconut groves, mosques, and temple towns.

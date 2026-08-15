@@ -15,6 +15,10 @@ image: porto_vecchio.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bastion_de_France_(Porto_Vecchio)_1.jpg
 image_license: CC0
 image_attribution: Air fans
+heritage: 3.0
+vibrancy: 6.1
+nature: 7.1
+off_the_beaten_track: 1.9
 ---
 
 Porto-Vecchio is the main town of southern [Corsica](/europe/france/corsica), set above a deep gulf with a marina below and mountains rising inland. It is famous for beaches, especially Palombaggia and Santa Giulia, but the town is stronger than a beach base alone: the old Genoese core, prehistoric sites, the Ospedale forest, and the Cerbicales marine reserve all sit within reach.

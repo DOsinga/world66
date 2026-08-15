@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Cheongju_Early_Printing_Museum
 title: Cheongju City
 type: location
+heritage: 5.8
+vibrancy: 4.3
+nature: 3.8
+off_the_beaten_track: 1.4
 ---
 
 Cheongju is a mid-sized city of around 800,000 people in central Korea and the capital of North Chungcheong Province. It sits roughly equidistant between Seoul and Daejeon, and makes a practical base for exploring the region — buses to Seoul take about 90 minutes, Daejeon 30 minutes.

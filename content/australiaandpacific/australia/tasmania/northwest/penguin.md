@@ -14,6 +14,10 @@ snippet: Small northwest Tasmania coastal town named for the little penguins tha
   nest along its foreshore.
 title: Penguin
 type: location
+heritage: 1.9
+vibrancy: 0.9
+nature: 8.0
+off_the_beaten_track: 5.6
 ---
 
 Penguin is a small town on Tasmania's northwest coast, about 20 kilometres west of [Devonport](/australiaandpacific/australia/tasmania/northwest/devonport) and its Bass Strait ferry terminal. The town takes its name from the little penguins that nest along the foreshore — you can see them at dusk in season.

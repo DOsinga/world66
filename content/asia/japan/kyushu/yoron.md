@@ -17,6 +17,10 @@ image: yoron.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Yurigahama.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Snap55
+heritage: 3.9
+vibrancy: 2.5
+nature: 6.3
+off_the_beaten_track: 2.9
 ---
 
 Yoron is a small coral island at the southern end of Kagoshima Prefecture, close enough to Okinawa that the culture and sea both feel more Ryukyuan than mainland Japanese. The island is low, rural, and slow, with white sand, shallow turquoise water, and a main village at Chabana near the port and airport.

@@ -17,6 +17,10 @@ image: oswego.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Oswego,_New_York_-_4363019147.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Dougtone
+heritage: 4.5
+vibrancy: 3.3
+nature: 5.1
+off_the_beaten_track: 2.1
 ---
 
 Oswego sits where the Oswego River meets Lake Ontario, and the water explains almost everything about it. The city was fought over, fortified, traded through, and lit by lighthouses because this harbour mattered on the inland route between the Atlantic world and the Great Lakes.

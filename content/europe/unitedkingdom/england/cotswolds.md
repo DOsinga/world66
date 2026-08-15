@@ -12,6 +12,10 @@ snippet: Rolling hills, honey-stone villages, and market towns from Cirencester 
   Chipping Campden.
 title: Cotswolds
 type: location
+heritage: 6.0
+vibrancy: 3.5
+nature: 5.9
+off_the_beaten_track: 3.0
 ---
 
 The Cotswolds is an area of gentle hills with dry-stone walls criss-crossing the landscape, hidden river valleys, and distinctive market towns and villages built from the famous honey-coloured Cotswold stone. Towns like Winchcombe, Bibury, and Painswick have a timeless charm that draws visitors from all over the world — sometimes too many visitors, in summer especially. If you want the Cotswolds to yourself, avoid Bourton-on-the-Water on a weekend and instead take to the footpaths. The best way to experience the region is on foot, hiking from village to village through rolling farmland and woodland.

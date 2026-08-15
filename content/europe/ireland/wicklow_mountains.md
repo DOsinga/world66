@@ -12,6 +12,10 @@ image: wicklow_mountains.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Wicklow_Mountains_National_Park,_Ireland_(Copernicus_2025-02-22).png
 image_license: Attribution
 image_attribution: European Union, Copernicus Sentinel-2 imagery
+heritage: 5.5
+vibrancy: 1.8
+nature: 8.5
+off_the_beaten_track: 4.8
 ---
 
 The Wicklow Mountains begin barely 20 kilometres south of Dublin city centre and feel like a different world. The national park covers some 200 square kilometres of blanket bog, heather moorland, granite peaks, and wooded glens — the largest expanse of unbroken upland in Ireland. Despite the proximity to the capital, you can walk for hours up here and meet no one but sheep and the occasional hill walker.

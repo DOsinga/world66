@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Mare_Island_Naval_Shipyard
 title: Vallejo
 type: location
+heritage: 3.7
+vibrancy: 3.7
+nature: 4.8
+off_the_beaten_track: 1.7
 ---
 
 Vallejo sits at the northeast end of San Francisco Bay, a working-class city with more character than its reputation suggests. It served briefly as the state capital of California in the 1850s, and for over a century the [Mare Island Naval Shipyard](/northamerica/unitedstates/california/vallejo/mare_island) — the first on the West Coast — was the economic engine of the town. The shipyard closed in 1996, but the island is now a sprawling historic park with officer's mansions, massive dry docks, and [St. Peter's Chapel](/northamerica/unitedstates/california/vallejo/st_peters_chapel), which contains one of the largest collections of Tiffany stained glass in the western United States.

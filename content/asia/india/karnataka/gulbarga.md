@@ -7,6 +7,10 @@ snippet: Northern Karnataka city where Bahmani tombs, Sufi shrines, and a domed 
   mosque mark the Deccan.
 title: Gulbarga
 type: location
+heritage: 3.5
+vibrancy: 1.9
+nature: 2.2
+off_the_beaten_track: 4.2
 ---
 
 Gulbarga — officially renamed Kalaburagi in 2014, though most people still use the old name — is a city in the arid northern reaches of Karnataka, close to the borders with Andhra Pradesh and Maharashtra. It is not on most tourists' itineraries, but for anyone interested in medieval Islamic architecture in India it is unexpectedly rewarding.

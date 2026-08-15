@@ -8,10 +8,15 @@ score: 6.8
 image: mascota.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mascota_mirador_III.JPG
 image_license: Public domain
-snippet: Mountain Pueblo Magico in western Jalisco, with colonial streets and a half-ruined church.
+snippet: Mountain Pueblo Magico in western Jalisco, with colonial streets and a half-ruined
+  church.
 sources:
-  - https://en.wikivoyage.org/wiki/Mascota
-  - https://en.wikipedia.org/wiki/Mascota
+- https://en.wikivoyage.org/wiki/Mascota
+- https://en.wikipedia.org/wiki/Mascota
+heritage: 4.1
+vibrancy: 4.3
+nature: 5.0
+off_the_beaten_track: 2.2
 ---
 
 Mascota sits in the pine-covered mountains of western Jalisco, far enough from Puerto Vallarta to feel like a different country. The town is small, whitewashed, and easy to walk, with a cool highland climate and the slow rhythm of a ranching valley.

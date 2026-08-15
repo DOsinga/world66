@@ -13,6 +13,10 @@ image: southern_alps.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2909_vallon_moy_res.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Berrucomons
+heritage: 1.3
+vibrancy: 1.3
+nature: 8.5
+off_the_beaten_track: 6.0
 ---
 
 The Southern Alps cover the three French departments with "Alpes" in their name: Alpes-Maritimes, Hautes-Alpes and Alpes-de-Haute-Provence. These are the mountains of Provence — drier, sunnier and more Mediterranean in character than the glaciated peaks of Savoie to the north.

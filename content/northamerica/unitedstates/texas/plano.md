@@ -11,6 +11,10 @@ snippet: Dallas suburb turned corporate city, with a rebuilt historic downtown a
   strong international dining.
 title: Plano
 type: location
+heritage: 1.7
+vibrancy: 2.4
+nature: 2.1
+off_the_beaten_track: 1.1
 ---
 
 Plano is a prosperous suburb north of Dallas that has grown into a city in its own right — population approaching 300,000, corporate headquarters stacked along the tollways, and a downtown that has been carefully rebuilt into something genuinely worth visiting. Toyota North America is here. Liberty Mutual. JPMorgan Chase has a major campus. The economy is as solid as Texas real estate.

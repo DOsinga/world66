@@ -6,17 +6,22 @@ latitude: 40.5031
 longitude: -81.6407
 wikidata: Q2668651
 score: 6.2
-snippet: Ohio Amish Country village with Swiss murals, a giant cuckoo clock, and a serious steam railroad museum.
+snippet: Ohio Amish Country village with Swiss murals, a giant cuckoo clock, and a
+  serious steam railroad museum.
 sources:
-  - https://en.wikivoyage.org/wiki/Sugarcreek
-  - https://visitsugarcreek.com/index.html
-  - https://www.ohioswissfestival.com/
-  - https://ageofsteamroundhouse.org/
-  - https://alpinehillssugarcreek.com/
+- https://en.wikivoyage.org/wiki/Sugarcreek
+- https://visitsugarcreek.com/index.html
+- https://www.ohioswissfestival.com/
+- https://ageofsteamroundhouse.org/
+- https://alpinehillssugarcreek.com/
 image: sugarcreek.jpg
 image_source: https://commons.wikimedia.org/wiki/File:The_Worlds_Largest_Cuckoo_Clock_in_Sugarcreek,_Ohio,_December_2020.jpg
 image_license: CC BY 2.0
 image_attribution: David Wilson
+heritage: 2.7
+vibrancy: 2.0
+nature: 3.4
+off_the_beaten_track: 1.7
 ---
 
 Sugarcreek is a small Tuscarawas County village that sells its Swissness with a straight face: painted chalets, cheese shops, polka, and a huge cuckoo clock in the middle of town. It sits in Ohio Amish Country, but its own personality is more alpine festival than buggy postcard.

@@ -13,6 +13,10 @@ snippet: Upper Swabian medieval town of towers and gates, best known as the home
   Ravensburger puzzles
 title: Ravensburg
 type: location
+heritage: 6.5
+vibrancy: 3.9
+nature: 3.7
+off_the_beaten_track: 2.6
 ---
 
 Ravensburg is a well-preserved medieval town in Upper Swabia, about 45 minutes by train south of Ulm and a short hop from [Lake Constance](/europe/germany/badenwrttemberg/lakeconstance). The old centre is remarkably intact, with towers, gateways, and half-timbered houses that make it one of the more picturesque small towns in Baden-Württemberg.

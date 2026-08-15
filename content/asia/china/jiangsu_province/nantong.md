@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Nantong
 title: Nantong
 type: location
+heritage: 3.2
+vibrancy: 4.0
+nature: 2.1
+off_the_beaten_track: 1.3
 ---
 
 Nantong sits on the north bank of the Yangtze River, directly across from Shanghai's commuter hinterland, but it has resisted being absorbed into the megalopolis's identity. A major port and textile city since the late Qing era, it carries itself with the quiet self-assurance of a place that has always been economically important without needing to be glamorous. The long riverfront, the leafy civic streets, and the unexpectedly good museums make it a satisfying half-day city for travellers who plan their route thoughtfully.

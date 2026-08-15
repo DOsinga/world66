@@ -17,6 +17,10 @@ image: sasebo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Huis_Ten_Bosch_-_01.jpg
 image_license: CC BY 3.0
 image_attribution: JKT-c
+heritage: 4.9
+vibrancy: 4.3
+nature: 4.4
+off_the_beaten_track: 1.8
 ---
 
 Sasebo is a working harbour city on the west coast of Kyushu, shaped by shipyards, the Japanese navy, and a long American base presence. It is less polished than Nagasaki, but it has a real port-town character: steep streets, sea views, jazz bars, burger shops, and ferries moving between the islands.

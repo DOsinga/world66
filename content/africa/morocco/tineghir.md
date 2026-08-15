@@ -13,6 +13,10 @@ snippet: High Atlas edge town beside a great palmery, serving as the base for To
   Gorge.
 title: Tineghir
 type: location
+heritage: 4.4
+vibrancy: 2.6
+nature: 7.4
+off_the_beaten_track: 3.9
 ---
 
 Tineghir (sometimes written as Tinerhir) sits at the edge of the High Atlas, where the Todra River emerges from its canyon and fans out into one of Morocco’s great palmeries. The town is a comfortable base and more than just a stopover — the [Tineghir palmery](/africa/morocco/tineghir/tineghir_palmery) alone is worth a full day, and the [Glaoui Kasbah](/africa/morocco/tineghir/glaoui_kasbah) ruin above town offers one of the finest sunset views in the south.

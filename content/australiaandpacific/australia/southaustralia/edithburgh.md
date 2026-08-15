@@ -16,6 +16,10 @@ image: edithburgh.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Edithburgh_Jetty.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Foraminifera
+heritage: 5.3
+vibrancy: 5.0
+nature: 4.8
+off_the_beaten_track: 3.2
 ---
 
 Edithburgh sits on the south-eastern tip of Yorke Peninsula, looking across Gulf St Vincent toward Adelaide but feeling much farther away than the map suggests. It began as a working port for grain, salt, and gypsum; today the town is small, quiet, and most interesting where land and water meet.

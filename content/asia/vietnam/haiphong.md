@@ -14,6 +14,10 @@ snippet: Vietnamese port city near Hanoi, with French colonial boulevards and fe
   toward Cat Ba.
 title: Haiphong
 type: location
+heritage: 3.9
+vibrancy: 3.3
+nature: 3.5
+off_the_beaten_track: 2.9
 ---
 
 Haiphong is [Vietnam](/asia/vietnam)'s third-largest city and its most important port, sitting on the Cam River delta about 100 km east of [Hanoi](/asia/vietnam/hanoi). It is an industrial city first and foremost, and most travelers pass through quickly on the way to [Halong Bay](/asia/vietnam/halongbay) or Cat Ba Island. But Haiphong has more character than its reputation suggests, with wide tree-lined boulevards, faded French colonial architecture, and a relaxed pace that feels nothing like the chaos of Hanoi.

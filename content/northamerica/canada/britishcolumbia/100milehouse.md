@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/100_Mile_House
 title: 100 Mile House
 type: location
+heritage: 3.6
+vibrancy: 1.0
+nature: 6.6
+off_the_beaten_track: 6.1
 ---
 
 100 Mile House is a small town in the Cariboo region of [British Columbia](/northamerica/canada/britishcolumbia), named for its position on the old Cariboo Wagon Road, 100 miles north of Lillooet (Mile Zero). It is a ranching and forestry town that serves as a gateway to some of the best cross-country skiing and lake fishing in the province.

@@ -14,6 +14,10 @@ snippet: Lombard university city on the Ticino, with medieval towers, old church
   and the nearby Certosa di Pavia
 title: Pavia
 type: location
+heritage: 7.5
+vibrancy: 4.3
+nature: 3.2
+off_the_beaten_track: 1.8
 ---
 
 Pavia is a university city on the Ticino river, about 35 kilometres south of Milan. It was the capital of the Lombard kingdom during the early medieval period — the Lombards ruled here for over two centuries, and the city still carries traces of that era in its towers, churches, and the remains of the old palace. The University of Pavia, founded in 1361, is one of the oldest in the world and gives the city a lively, youthful character that belies its small size.

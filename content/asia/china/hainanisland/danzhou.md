@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Danzhou
 title: Danzhou
 type: location
+heritage: 2.5
+vibrancy: 3.0
+nature: 4.5
+off_the_beaten_track: 3.1
 ---
 
 Danzhou is the third-largest urban centre on Hainan after Haikou and Sanya, a sprawling prefecture-level city on the northwest coast that receives almost no foreign visitors and sees this as entirely natural. Its dialect — Min Nan with a local inflection — is distinct enough from the Haikou standard that it functions almost as a regional marker, and the city has an ingrained sense of self that owes nothing to the resort economy.

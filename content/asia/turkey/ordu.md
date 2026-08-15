@@ -17,6 +17,10 @@ image: ordu.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ordu,_Turkey.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Ahmet Gürsakal
+heritage: 6.5
+vibrancy: 4.0
+nature: 6.2
+off_the_beaten_track: 5.6
 ---
 
 Ordu is a Black Sea city that works best when you let the landscape lead. The centre sits on the water, the hills rise immediately behind it, and the cable car to [Boztepe](/asia/turkey/ordu/boztepe) turns the whole city into a viewpoint in a few minutes.

@@ -17,6 +17,10 @@ sources:
 - https://www.openstreetmap.org/relation/5717718
 title: Mili Atoll
 type: location
+heritage: 4.1
+vibrancy: 0.9
+nature: 7.2
+off_the_beaten_track: 8.6
 ---
 
 Mili Atoll lies near the southern end of the Ratak Chain, far enough from Majuro that a visit feels like a small expedition. The atoll is made up of dozens of low islets around a broad lagoon, with village life concentrated on a few of them and long reef flats stretching between.

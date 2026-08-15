@@ -11,6 +11,10 @@ score: 8.11
 snippet: Finland's oldest city, set on the Aura River with a medieval castle and cathedral.
 title: Turku
 type: location
+heritage: 5.9
+vibrancy: 4.9
+nature: 4.2
+off_the_beaten_track: 1.6
 ---
 
 Turku is Finland's oldest city and, until 1812, its capital — a distinction locals haven't quite let go of. After a catastrophic fire in 1828 destroyed most of the city, Turku rebuilt itself and evolved into a lively university town with two universities and a student population that keeps the restaurants, bars and riverside terraces buzzing year-round.

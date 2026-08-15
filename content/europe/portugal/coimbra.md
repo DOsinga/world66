@@ -13,6 +13,10 @@ snippet: Old Portuguese university city on the Mondego River, shaped by students
   hills, and Baroque libraries
 title: Coimbra
 type: location
+heritage: 7.6
+vibrancy: 6.4
+nature: 4.7
+off_the_beaten_track: 1.4
 ---
 
 Coimbra was the first capital of Portugal and has been a university city since 1537, when King João III moved the country's oldest university here from Lisbon. The university still dominates — perched on a hill above the Mondego River, its [Baroque library, the Biblioteca Joanina](/europe/portugal/coimbra/biblioteca_joanina), is one of the most beautiful rooms in Europe, and students in black capes and torn gowns still walk the steep streets between lectures.

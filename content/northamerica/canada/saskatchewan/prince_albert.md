@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Prince_Albert_National_Park
 title: Prince Albert
 type: location
+heritage: 2.1
+vibrancy: 1.6
+nature: 2.7
+off_the_beaten_track: 2.7
 ---
 
 Prince Albert sits at the edge of two worlds. South of the city: the wide open prairie, the grain elevators, the big flat horizon. North of the city: boreal forest, a thousand lakes, wolves and bison, and one of Canada's great wilderness parks. The city itself — Saskatchewan's third largest, with about 35,000 people — has long served as the gateway between these two landscapes, and that position shapes everything about it.

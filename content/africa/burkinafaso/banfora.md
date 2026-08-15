@@ -18,6 +18,10 @@ image: banfora.jpg
 image_source: https://www.flickr.com/photos/144752224@N06/35075085672
 image_license: CC BY 2.0
 image_attribution: Guido & Family on Flickr
+heritage: 3.9
+vibrancy: 2.0
+nature: 6.6
+off_the_beaten_track: 6.1
 ---
 
 Banfora is a small city in southwestern Burkina Faso, and it is surrounded by the best natural scenery in the country. The [Cascades de Karfiguéla](/africa/burkinafaso/banfora/cascades_de_karfiguela), about 12 km from town, are a series of waterfalls tumbling through lush vegetation — a rare sight in this part of the Sahel, and a popular swimming spot. The [Dômes de Fabédougou](/africa/burkinafaso/banfora/domes_de_fabedougou), bizarre rock formations eroded into rounded pillars and mushroom shapes, are nearby and well worth the detour.

@@ -17,6 +17,10 @@ image: welshpool.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Powis_castle_terraces.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Sjwells53
+heritage: 5.4
+vibrancy: 4.3
+nature: 5.2
+off_the_beaten_track: 2.7
 ---
 
 *Europe > United Kingdom > Wales > Welshpool*

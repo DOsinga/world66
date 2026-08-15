@@ -14,6 +14,10 @@ image: flinflon.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Flin_Flon,_Manitoba.jpg
 image_license: CC BY 4.0
 image_attribution: Quintin Soloviev
+heritage: 2.3
+vibrancy: 1.9
+nature: 4.8
+off_the_beaten_track: 4.4
 ---
 
 Flin Flon is the kind of northern town that makes no sense until you stand in it: streets climbing over hard Canadian Shield rock, lakes appearing between houses, mine works on the skyline, and a name borrowed from an Edwardian adventure novel. It sits on the Manitoba-Saskatchewan border, but its mood is more boreal frontier than prairie.

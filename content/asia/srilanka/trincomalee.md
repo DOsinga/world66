@@ -13,6 +13,10 @@ title: Trincomalee
 snippet: Tamil northeast coast city on a deep natural harbour long coveted by Sri
   Lanka's naval powers.
 type: location
+heritage: 3.3
+vibrancy: 3.4
+nature: 7.3
+off_the_beaten_track: 4.4
 ---
 
 Trincomalee sits on one of the finest [natural harbours](/asia/srilanka/trincomalee/trincomalee_harbour) in Asia, a deep-water bay on Sri Lanka's northeast coast that naval strategists have coveted for centuries. It remained off the main tourist circuit largely because of the long civil war, but the area has been open and increasingly visited since 2009. The town itself is unhurried and predominantly Tamil, with a palpable sense of recovery.

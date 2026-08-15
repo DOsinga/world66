@@ -15,6 +15,10 @@ snippet: Tea-growing hill town in West Bengal with ridge-top views of Kanchenjun
   and a narrow-gauge Himalayan railway.
 title: Darjeeling
 type: location
+heritage: 5.3
+vibrancy: 6.2
+nature: 7.3
+off_the_beaten_track: 4.2
 ---
 
 Darjeeling is a hill town of tea gardens, Victorian-era churches, and one unforgettable view — Kanchenjunga, the world's third-highest peak, rising across the valley in the mornings before the clouds close in. It sits at 2,050 metres in the far north of West Bengal, just below Sikkim, and was built by the British in the 1840s as a summer refuge from the heat of the Bengal plains. The name comes from Dorje Ling, the Tibetan for "place of the thunderbolt."

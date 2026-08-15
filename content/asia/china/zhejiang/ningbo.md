@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Ningbo
 title: Ningbo
 type: location
+heritage: 5.4
+vibrancy: 4.7
+nature: 3.3
+off_the_beaten_track: 1.3
 ---
 
 Ningbo is Zhejiang's second city and one of China's oldest ports, opened to foreign trade as a treaty port in 1842 and already thriving as a maritime hub centuries before that. Where Hangzhou attracts tourists, Ningbo attracts business, and the city has a grittier, more self-sufficient character — less manicured, more purposeful. It sits at the southern edge of the Yangtze Delta, connected to Shanghai and Hangzhou by high-speed rail, and faces the East China Sea across a coastline of estuaries and islands.

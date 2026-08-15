@@ -14,6 +14,10 @@ longitude: -6.102561
 score: 7.8
 title: Dalkey
 type: location
+heritage: 5.1
+vibrancy: 2.8
+nature: 4.7
+off_the_beaten_track: 2.2
 ---
 
 Dalkey is a small, upscale village on the coast south of [Dublin](/europe/ireland/dublin), reachable in half an hour on the DART train from Pearse Station. It makes one of the best day trips from the city — scenic, walkable, and blissfully far from Temple Bar.

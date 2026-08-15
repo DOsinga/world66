@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Castelfranco_Veneto
 title: Castelfranco Veneto
 type: location
+heritage: 6.3
+vibrancy: 2.6
+nature: 2.7
+off_the_beaten_track: 2.4
 ---
 
 Castelfranco Veneto is a walled town on the Venetian plain, halfway between [Treviso](/europe/italy/veneto/treviso) and Bassano del Grappa. The old centre is a near-perfect medieval fortress — a rectangular ring of brick walls and towers built around 1199 by Treviso as a frontier outpost, with a moat that has been turned into a green park ringed by lime trees. The whole thing is small enough to walk around in twenty minutes and is one of the more attractive small historic centres in the Veneto.

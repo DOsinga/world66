@@ -15,6 +15,10 @@ snippet: Former Qing summer capital in the Yanshan mountains, centred on imperia
   gardens and outlying temples.
 title: Chengde
 type: location
+heritage: 7.5
+vibrancy: 3.2
+nature: 5.1
+off_the_beaten_track: 1.9
 ---
 
 Two hundred and thirty kilometres northeast of Beijing, Chengde sits in a fold of the Yanshan mountains where the air is cooler and the pace noticeably slower. For three centuries this was the summer capital of the Qing emperors, who fled the Beijing heat to hold court here among lakes, pavilions, and forested hills. That imperial past is the reason to come: Chengde has one of the finest concentrations of eighteenth-century Chinese architecture anywhere, and it has not been overwhelmed by mass tourism.

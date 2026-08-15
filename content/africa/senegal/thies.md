@@ -14,6 +14,10 @@ snippet: Senegalese transport city east of Dakar, known for its national tapestr
   atelier and railway history.
 title: Thiès
 type: location
+heritage: 4.9
+vibrancy: 3.4
+nature: 3.6
+off_the_beaten_track: 3.4
 ---
 
 Thiès is Senegal's third-largest city, about 70 km east of Dakar on the main road and rail line to the interior. It is an important transport and commercial hub, but it also has a distinct cultural identity — most travellers pass through it without stopping, which is a mistake.

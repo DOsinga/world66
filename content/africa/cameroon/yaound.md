@@ -23,6 +23,10 @@ tip: Yaoundé is Cameroon's hilly capital, spread over seven forested hills at a
   are shared and cheap — flag one going your direction and pay per seat.
 title: Yaoundé
 type: location
+heritage: 5.9
+vibrancy: 5.1
+nature: 3.0
+off_the_beaten_track: 4.9
 ---
 
 Yaoundé is the capital of [Cameroon](/africa/cameroon), a sprawling city of hills and greenery set at around 750 metres altitude in the south-central part of the country. It is quieter and more administrative than the economic capital [Douala](/africa/cameroon/douala), with a calmer pace and a more agreeable climate thanks to the elevation.

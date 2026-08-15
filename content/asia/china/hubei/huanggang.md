@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Huanggang
 title: Huanggang
 type: location
+heritage: 2.4
+vibrancy: 3.2
+nature: 2.9
+off_the_beaten_track: 2.3
 ---
 
 Huanggang occupies a long stretch of the Yangtze's north bank east of Wuhan, a prefecture of nearly six million people whose territory extends from the river plain up into the Dabie Mountains that form the border with Anhui and Henan. The city proper — historically called Huangzhou — has a layered literary history that most visitors overlook: this is where Su Dongpo, one of the most celebrated poets and essayists of the Song dynasty, spent four years in exile in the 1080s after running afoul of Wang Anshi's reform faction at court. He wrote some of his best-known work here, including the two Red Cliff rhapsodies that meditate on impermanence using the Yangtze river and the Battle of Red Cliffs as their frame. The [Red Cliff site](/asia/china/hubei/huanggang/red_cliff_rhapsody_site) he describes is a riverside outcrop near the city, which may or may not be the actual battle site ([Chibi](/asia/china/hubei/chibi), further upstream, also claims the honour), but the setting is evocative and the [Yiai Lake Park, which incorporates a Su Dongpo Memorial Museum](/asia/china/hubei/huanggang/su_dongpo_memorial), handles the story well.

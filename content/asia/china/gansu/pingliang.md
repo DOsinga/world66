@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Pingliang
 title: Pingliang
 type: location
+heritage: 4.5
+vibrancy: 2.1
+nature: 4.7
+off_the_beaten_track: 4.0
 ---
 
 Pingliang sits in the eastern corner of Gansu, at the point where the Loess Plateau meets the mountains, and its main significance for travellers is as the base for [Kongtong Mountain](/asia/china/gansu/pingliang/kongtong_mountain) — Kongtongshan — one of the most sacred sites in Chinese Taoism. According to legend, the Yellow Emperor himself climbed to Kongtong to receive instruction from the immortal Guangchengzi, and the mountain has been a Taoist centre of pilgrimage ever since. The temple complex spread across its slopes and summit dates to the Tang Dynasty in its earliest layers, though most of what stands today is Ming and Qing reconstruction.

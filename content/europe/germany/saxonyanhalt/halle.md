@@ -16,6 +16,10 @@ snippet: Saxon-Anhalt salt city on the Saale, marked by Golden Age churches and 
   famous towers
 title: Halle
 type: location
+heritage: 6.4
+vibrancy: 3.2
+nature: 3.2
+off_the_beaten_track: 2.2
 ---
 
 Halle an der Saale is Saxony-Anhalt's largest city, built on salt. For over a millennium, "white gold" mined from the surrounding brine springs made this one of the wealthiest towns in central Germany, and that prosperity left its mark in grand churches, merchant houses, and a skyline dominated by five famous towers. Stand on the [Marktplatz](/europe/germany/saxonyanhalt/halle/marktplatz) and you see them all at once: the twin Hausmannstürme and twin blue towers of the [Marktkirche Unser Lieben Frauen](/europe/germany/saxonyanhalt/halle/marktkirche), and the free-standing [red tower](/europe/germany/saxonyanhalt/halle/roter_turm) beside them — one of the most striking cityscapes in eastern Germany.

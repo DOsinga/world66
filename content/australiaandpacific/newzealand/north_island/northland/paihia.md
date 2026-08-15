@@ -13,6 +13,10 @@ snippet: Bay of Islands base town, where Northland boat trips leave for dolphins
   kayaking, and island coves.
 title: Paihia
 type: location
+heritage: 4.2
+vibrancy: 5.5
+nature: 6.6
+off_the_beaten_track: 2.2
 ---
 
 Paihia is the main tourist base for the Bay of Islands, a stretch of 144 islands off Northland's east coast that is one of New Zealand's most popular summer destinations. The town itself is small — a single main street of tour operators, cafes, and backpacker lodges — but the water is the point.

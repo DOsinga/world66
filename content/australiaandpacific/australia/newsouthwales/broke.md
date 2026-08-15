@@ -14,6 +14,10 @@ snippet: Tiny Hunter Valley wine village surrounded by quieter cellar doors, oli
   groves, and sandstone wilderness
 title: Broke
 type: location
+heritage: 3.4
+vibrancy: 1.9
+nature: 6.3
+off_the_beaten_track: 4.5
 ---
 
 Broke is a tiny village in the heart of the Hunter Valley wine country in New South Wales, sitting among vineyards between Singleton and Cessnock. The area around it is quieter than the more developed parts of the Hunter — fewer tour buses, more open country — which makes it a good base if you prefer your wine tasting unhurried.

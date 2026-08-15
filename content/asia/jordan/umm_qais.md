@@ -13,6 +13,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Umm_Qais
 title: Umm Qais
 type: location
+heritage: 5.0
+vibrancy: 2.5
+nature: 4.8
+off_the_beaten_track: 5.6
 ---
 
 Umm Qais stands on a basalt-covered ridge in the far north of Jordan, looking out over one of the most dramatic panoramas in the Middle East: the Sea of Galilee (Lake Tiberias) glittering in the distance, the deep slash of the Yarmouk river gorge below, and the Golan Heights rising on the far side of the Syrian border. It is a view that makes the detour here entirely worthwhile, even before you have set eyes on the ruins.

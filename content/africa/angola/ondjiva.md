@@ -14,6 +14,10 @@ snippet: Southern Angolan border town and overland waypoint, marked by dry plain
   and war-scarred provincial history.
 title: Ondjiva
 type: location
+heritage: 0.7
+vibrancy: 1.4
+nature: 2.4
+off_the_beaten_track: 7.1
 ---
 
 Ondjiva is the capital of Cunene province in southern [Angola](/africa/angola), a small town of around 15,000 people sitting just 42 kilometres from the Namibian border. It is not a place you visit for sightseeing — there is a small church, the ruins of the old governor's palace (destroyed by the South African army during the border war), and not much else.

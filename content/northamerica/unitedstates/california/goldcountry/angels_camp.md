@@ -9,6 +9,10 @@ snippet: Sierra Nevada Gold Rush town tied to Mark Twain's jumping frog story an
   Calaveras County history.
 title: Angels Camp
 type: location
+heritage: 4.1
+vibrancy: 4.6
+nature: 6.3
+off_the_beaten_track: 2.9
 ---
 
 Angels Camp is a small Gold Rush town in the Sierra Nevada foothills, best known as the setting for Mark Twain's first famous story, "The Celebrated Jumping Frog of Calaveras County." Every third weekend in May, the town hosts the Calaveras County Fair and Jumping Frog Jubilee, where contestants try to coax their frogs to out-leap the competition — a tradition dating back to 1928.

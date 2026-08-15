@@ -16,6 +16,10 @@ sources:
 - https://elsalvador.travel/destination/parque-de-diversiones-sunset-park/en/
 title: La Libertad
 type: location
+heritage: 4.4
+vibrancy: 4.3
+nature: 4.8
+off_the_beaten_track: 3.7
 ---
 
 La Libertad is the old Pacific port of El Salvador and the easiest beach escape from [San Salvador](/northamerica/elsalvador/sansalvador). It is not pretty in a polished resort sense. The town is busy, salty, and practical, with fishing boats, seafood stalls, surfboards on bus roofs, and traffic rolling along the coast road. That is exactly why it works.

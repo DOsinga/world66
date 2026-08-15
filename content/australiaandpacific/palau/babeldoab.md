@@ -14,6 +14,10 @@ snippet: Palau's largest island, mostly rainforest and coastal villages, with th
   national capital at Melekeok.
 title: Babeldaob
 type: location
+heritage: 4.1
+vibrancy: 0.9
+nature: 7.6
+off_the_beaten_track: 6.9
 ---
 
 Babeldaob is the largest island in [Palau](/australiaandpacific/palau) but far less developed than neighbouring [Koror](/australiaandpacific/palau/koror), connected to it by a bridge. Most of the island is covered in rainforest, with scattered villages along the coast and a new capital complex at Melekeok on the east side.

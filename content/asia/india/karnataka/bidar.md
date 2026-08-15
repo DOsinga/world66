@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Mahmud_Gawan_Madrasa
 title: Bidar
 type: location
+heritage: 3.8
+vibrancy: 2.1
+nature: 3.4
+off_the_beaten_track: 3.5
 ---
 
 Bidar sits on the northern edge of Karnataka, closer in feeling to the Deccan plateau of Telangana than to the greener south of the state. It is a small, dry, workaday city, but its monuments are far better than its low profile suggests. If you are tracing the old Bahmani and Barid Shahi capitals after [Gulbarga](/asia/india/karnataka/gulbarga) and [Bijapur](/asia/india/karnataka/bijapur), Bidar is an essential stop.

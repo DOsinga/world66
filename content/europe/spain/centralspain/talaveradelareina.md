@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Talavera_de_la_Reina
 title: Talavera de la Reina
 type: location
+heritage: 3.8
+vibrancy: 2.2
+nature: 1.9
+off_the_beaten_track: 1.7
 ---
 
 Talavera de la Reina sits on the Tagus west of Toledo, a working Castilian city with a name that still means ceramics. Its blue, white and ochre pottery travelled far beyond Spain; even Mexico's Talavera tradition carries the echo of this town.

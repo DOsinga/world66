@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Henningsv%C3%A6r
 title: Vagan
 type: location
+heritage: 5.3
+vibrancy: 2.3
+nature: 9.1
+off_the_beaten_track: 8.3
 ---
 
 Vågan municipality encompasses most of the islands of Austvågøy and Gimsøy in the northern Lofoten archipelago, along with a scattering of smaller islands including Henningsvær and Skrova. Its main town is [Svolvær](/europe/norway/lofotenislands/vagan/svolvar), the de facto capital of Lofoten and the busiest entry point for the islands by ferry, express boat, and air.

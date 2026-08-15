@@ -14,6 +14,10 @@ snippet: Bernese plateau village by Gerzensee lake, with Alpine views from the f
   of Belpberg
 title: Gerzensee
 type: location
+heritage: 5.2
+vibrancy: 3.1
+nature: 6.8
+off_the_beaten_track: 2.7
 ---
 
 Gerzensee is a small village at the foot of the [Belpberg hill](/europe/switzerland/gerzensee/belpberg_walk), set between the Aaretal and the Gürbetal valleys in the canton of [Bern](/europe/switzerland/bern). The village sits at the edge of the Mittelland — the Swiss plateau — with views south towards the Alps and north towards the Emmental hills.

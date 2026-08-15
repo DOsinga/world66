@@ -26,6 +26,10 @@ tip: Algiers tumbles down to the bay in tiers of white French-colonial facades â
   the seafront.
 title: Algiers
 type: location
+heritage: 7.2
+vibrancy: 6.0
+nature: 5.3
+off_the_beaten_track: 3.5
 ---
 
 Algeria's capital sprawls along the Mediterranean coast, a city of steep hills and white buildings that earned it the nickname la Blanche â€” the White City. Close to three million people live here, making it the largest city in the Maghreb.

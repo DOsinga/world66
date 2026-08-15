@@ -14,6 +14,10 @@ title: Lincoln City
 snippet: Oregon coast beach town stretched along seven windy miles, known for hidden
   hand-blown glass floats.
 type: location
+heritage: 2.4
+vibrancy: 2.7
+nature: 6.7
+off_the_beaten_track: 2.3
 ---
 
 Lincoln City stretches along seven miles of Oregon coastline, a string of small communities merged into one long beach town. It is not the most picturesque stop on the Oregon coast — the strip-mall character of Highway 101 through town sees to that — but the beach itself is wide and dramatic, with reliable wind for kite flying and a city-sponsored programme that hides hand-blown glass floats in the sand for visitors to find and keep. The [Glass Float Hunt](/northamerica/unitedstates/oregon/lincolncity/glass_floats) gives otherwise aimless beach walks a purpose.

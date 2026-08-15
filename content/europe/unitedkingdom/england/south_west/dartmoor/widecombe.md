@@ -14,6 +14,10 @@ snippet: Granite Dartmoor village known for Widecombe Fair and the tall-towered 
   Pancras church.
 title: Widecombe-in-the-Moor
 type: location
+heritage: 5.3
+vibrancy: 2.0
+nature: 6.6
+off_the_beaten_track: 3.3
 ---
 
 Widecombe-in-the-Moor is a small granite village at the heart of the southern part of Dartmoor, better known to most people through the old folk song "[Widecombe Fair](/europe/unitedkingdom/england/south_west/dartmoor/widecombe/widecombe_fair)." The song tells the tale of a horse that died from the strain of carrying seven riders to the fair, and whose ghost still haunts the moor — a story that suits the windswept landscape rather well.

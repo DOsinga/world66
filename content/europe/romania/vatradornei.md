@@ -14,6 +14,10 @@ snippet: Romanian spa and ski town in an Eastern Carpathian valley, centred on m
   springs and a Belle Époque casino.
 title: Vatra Dornei
 type: location
+heritage: 4.1
+vibrancy: 3.0
+nature: 5.6
+off_the_beaten_track: 3.1
 ---
 
 Vatra Dornei is a well-known spa and ski resort in the north of [Romania](/europe/romania), set in a valley of the Eastern Carpathians. The town has been a health resort since the Habsburg era, and the [mineral springs](/europe/romania/vatradornei/mineral_springs) and mountain air still draw visitors. In winter the surrounding mountains offer modest skiing; in summer the area is good for hiking.

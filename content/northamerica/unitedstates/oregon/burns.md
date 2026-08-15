@@ -15,6 +15,10 @@ image: burns.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Buena_Vista_Overlook,_Jeff_Sorn_(5352564568).jpg
 image_license: CC BY 2.0
 image_attribution: Oregon Department of Transportation
+heritage: 1.7
+vibrancy: 1.3
+nature: 6.9
+off_the_beaten_track: 4.9
 ---
 
 Burns is the main service town in Oregon's far southeast, a high-desert place where highways meet before heading into bigger country. The town is plain and spread out, but the setting is not: sagebrush basins, migratory bird wetlands, old ranch roads, and volcanic scars begin just beyond the edge of town.

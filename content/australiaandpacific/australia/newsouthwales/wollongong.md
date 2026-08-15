@@ -15,6 +15,10 @@ snippet: Coastal New South Wales city below the Illawarra Escarpment, with beach
   and a long industrial history.
 title: Wollongong
 type: location
+heritage: 3.3
+vibrancy: 5.2
+nature: 5.2
+off_the_beaten_track: 2.3
 ---
 
 Wollongong — known affectionately as "the Gong" — is the third-largest city in New South Wales, sitting on the coast 80 kilometres south of Sydney with the dramatic [Illawarra Escarpment](/australiaandpacific/australia/newsouthwales/wollongong/illawarra_escarpment) rising steeply behind it. The name is generally said to mean "sound of the sea" in the local Aboriginal language, which feels right: this is a place defined by its coastline.

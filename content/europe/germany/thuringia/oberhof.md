@@ -10,6 +10,10 @@ snippet: Thuringian Forest resort town known for biathlon, cross-country skiing,
   the Rennsteig ridge trail.
 title: Oberhof
 type: location
+heritage: 4.3
+vibrancy: 1.8
+nature: 5.3
+off_the_beaten_track: 3.5
 ---
 
 Oberhof is a small resort town in the heart of the Thuringian Forest, sitting at around 800 metres elevation between [Eisenach](/europe/germany/thuringia/eisenach) and [Jena](/europe/germany/thuringia/jena). It has been drawing visitors since the 19th century, first for the clean mountain air and now for its reputation as one of Germany's premier winter sports centres.

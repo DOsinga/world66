@@ -17,6 +17,10 @@ image: moultonborough.jpg
 image_source: https://commons.wikimedia.org/wiki/File:MoultonboroughNH_SwallowBoathouse.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Magicpiano
+heritage: 1.6
+vibrancy: 1.8
+nature: 6.4
+off_the_beaten_track: 2.3
 ---
 
 Moultonborough sits on the north side of Lake Winnipesaukee, quieter than the busier resort towns around the lake but with several strong reasons to stop. Its best-known sight is Castle in the Clouds, a mountaintop estate with views, trails, gardens, and a house tour.

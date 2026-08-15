@@ -11,6 +11,10 @@ sources:
 - https://en.wikipedia.org/wiki/Offa%27s_Dyke
 - https://visitknighton.co.uk/
 - https://knightontc.wales/things-to-do/
+heritage: 4.9
+vibrancy: 1.7
+nature: 6.1
+off_the_beaten_track: 3.3
 ---
 
 Knighton is a small border town in Powys, pressed into the hills where Wales and England have argued, traded, and walked past each other for centuries. Its Welsh name, Tref-y-clawdd, means "town on the dyke", and that tells you what matters here.

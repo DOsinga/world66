@@ -3,14 +3,19 @@ latitude: 50.4519
 loc_type: city
 longitude: 19.5199
 score: 7.15
-snippet: Polish Jura town below the ruined Ogrodzieniec Castle and the limestone Eagle Nests landscape.
+snippet: Polish Jura town below the ruined Ogrodzieniec Castle and the limestone Eagle
+  Nests landscape.
 sources:
-  - https://en.wikivoyage.org/wiki/Ogrodzieniec
-  - https://www.polskieszlaki.pl/en/ogrodzieniec-castle/
-  - https://en.wikipedia.org/wiki/Ogrodzieniec
+- https://en.wikivoyage.org/wiki/Ogrodzieniec
+- https://www.polskieszlaki.pl/en/ogrodzieniec-castle/
+- https://en.wikipedia.org/wiki/Ogrodzieniec
 title: Ogrodzieniec
 type: location
 wikidata_id: Q1006772
+heritage: 7.8
+vibrancy: 2.6
+nature: 4.1
+off_the_beaten_track: 2.9
 ---
 
 Ogrodzieniec is a small town in southern Poland, but the reason to come is just east of it at Podzamcze: the great ruined [Ogrodzieniec Castle](/europe/poland/ogrodzieniec/ogrodzieniec_castle), spread across pale limestone crags on the Eagle Nests Trail. The castle is one of the strongest sights in the Polish Jura, a broken Gothic-Renaissance fortress that looks as if the rock has grown into the walls.

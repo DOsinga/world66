@@ -10,6 +10,10 @@ snippet: Northeastern Algerian port city with a Mediterranean bay and intact Fre
   colonial centre.
 title: Skikda
 type: location
+heritage: 3.1
+vibrancy: 2.1
+nature: 2.8
+off_the_beaten_track: 3.7
 ---
 
 Skikda (formerly Philippeville under French colonial rule) is a coastal city in northeastern Algeria, built on a hillside overlooking a natural bay on the Mediterranean. The city has a lively port and a relatively relaxed atmosphere by Algerian standards.

@@ -14,6 +14,10 @@ image: maryborough.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Maryborough,_1863.jpg
 image_license: Public domain
 image_attribution: Queensland State Archives
+heritage: 4.8
+vibrancy: 2.3
+nature: 4.5
+off_the_beaten_track: 2.9
 ---
 
 Maryborough is one of Queensland's better-preserved heritage towns, set on the Mary River inland from Hervey Bay. It was a busy colonial port before the coast drew most travellers away, and that older role left it with broad streets, civic buildings, warehouses, parks, and a surprisingly strong sense of place.

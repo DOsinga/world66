@@ -14,6 +14,10 @@ snippet: Sligo Bay seaside village with beaches, links golf, Yeats Country views
   and a tidal Coney Island.
 title: Rosses Point
 type: location
+heritage: 3.3
+vibrancy: 1.8
+nature: 5.5
+off_the_beaten_track: 3.9
 ---
 
 Rosses Point is a small seaside village on a peninsula jutting into Sligo Bay, about eight kilometres from [Sligo](/europe/ireland/sligo) town. It has fine [beaches](/europe/ireland/rossespoint/rosses_point_beach), a pier, and commanding views across the bay to Knocknarea and the Ox Mountains — the picture-postcard heart of [Yeats Country](/europe/ireland/rossespoint/yeats_country).

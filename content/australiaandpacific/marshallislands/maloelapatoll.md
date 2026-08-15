@@ -16,6 +16,10 @@ sources:
 - https://www.openstreetmap.org/relation/5717713
 title: Maloelap Atoll
 type: location
+heritage: 4.7
+vibrancy: 0.8
+nature: 7.0
+off_the_beaten_track: 8.4
 ---
 
 Maloelap Atoll sits in the Ratak Chain, northeast of [Majuro](/australiaandpacific/marshallislands/majuro), and feels much farther away than the map suggests. The islets are low, green, and thin, with a broad lagoon inside and ocean surf on the outside reef. Life is still organized around villages, church, copra, fishing, and boat schedules that do not care much for fixed itineraries.

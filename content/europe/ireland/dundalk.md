@@ -14,6 +14,10 @@ title: Dundalk
 type: location
 snippet: Irish border-corridor town between Dublin and Belfast, with Cooley Peninsula
   landscapes nearby.
+heritage: 4.4
+vibrancy: 3.9
+nature: 5.5
+off_the_beaten_track: 3.0
 ---
 
 Dundalk sits roughly halfway between [Dublin](/europe/ireland/dublin) and [Belfast](/europe/unitedkingdom/northernireland/belfast), making it a natural stopping point on the Dublin–Belfast corridor. The town has a handsome 19th-century cathedral, [St Patrick's Cathedral](/europe/ireland/dundalk/st_patricks_cathedral) — its Gothic spires modelled on King's College Chapel, Cambridge, and completed during the darkest year of the Great Famine — and a compact centre with good pubs and a [County Museum](/europe/ireland/dundalk/county_museum) in a former distillery building.

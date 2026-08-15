@@ -17,6 +17,10 @@ image: conslagrandville.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cons-la-granville.jpg
 image_license: CC BY 2.5
 image_attribution: Michel Teiten www.mablehome.com
+heritage: 3.2
+vibrancy: 1.9
+nature: 2.5
+off_the_beaten_track: 1.6
 ---
 
 Cons-la-Grandville is a very small Lorraine village southwest of Longwy, close to the Belgian and Luxembourg borders. It would barely register on most itineraries if not for its château, which rises above the Chiers valley with a jumble of medieval, Renaissance, and classical work layered into one compact estate.

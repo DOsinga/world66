@@ -10,6 +10,10 @@ snippet: Kurdish regional capital built around Erbil Citadel, a six-thousand-yea
   tell rising above the modern city.
 title: Arbil
 type: location
+heritage: 5.2
+vibrancy: 1.7
+nature: 1.7
+off_the_beaten_track: 7.2
 ---
 
 Erbil (also spelled Arbil or Irbil) is the capital of the Kurdistan Region of Iraq and one of the oldest continuously inhabited cities on earth. The great tell at its centre — the [Erbil Citadel](/asia/iraq/arbil/erbil_citadel) — has been occupied for at least six thousand years, a fact recognised by its UNESCO World Heritage listing in 2014. From the street below, the citadel mound rises dramatically above the modern city like a ship above a harbour.

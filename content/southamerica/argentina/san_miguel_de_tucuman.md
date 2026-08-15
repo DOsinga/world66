@@ -14,6 +14,10 @@ snippet: Northwestern Argentine provincial capital where the country's independe
   was declared in 1816
 title: San Miguel de Tucumán
 type: location
+heritage: 5.7
+vibrancy: 4.0
+nature: 3.2
+off_the_beaten_track: 2.9
 ---
 
 San Miguel de Tucumán — usually just called Tucumán — is the capital of Argentina's Tucumán province and the country's fourth-largest city. It sits at the foot of the Sierra del Aconquija, in the sugar-cane heartland of the northwest, and carries a significance far beyond its size: this is the city where Argentina declared independence on 9 July 1816, an event the country still celebrates with genuine feeling every year.

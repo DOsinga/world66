@@ -16,6 +16,10 @@ snippet: Moroccan port city where the Mediterranean meets the Atlantic, long sha
   by international crossroads energy
 title: Tangier
 type: location
+heritage: 6.5
+vibrancy: 4.5
+nature: 3.0
+off_the_beaten_track: 2.6
 ---
 
 Tangier sits at the northwestern tip of Africa, where the Mediterranean meets the Atlantic and Europe shimmers on the horizon. For centuries this position made it a crossroads of civilizations, a free port, and an international zone where anything went. The old reputation for intrigue has faded, but the city's restless energy has not.

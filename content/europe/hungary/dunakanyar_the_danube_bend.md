@@ -10,6 +10,10 @@ title: Dunakanyar (The Danube Bend)
 type: location
 snippet: Scenic Danube stretch north of Budapest, looping through forested hills and
   historic riverside towns.
+heritage: 4.3
+vibrancy: 2.9
+nature: 5.5
+off_the_beaten_track: 3.6
 ---
 
 The Danube Bend (Dunakanyar in Hungarian) is a stretch of the Danube north of Budapest where the river makes a dramatic loop through forested hills — swinging sharply south just after Esztergom, then north again near Visegrád, then south once more toward Vác. It's one of the most scenic stretches of the Danube in Europe.

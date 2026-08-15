@@ -16,6 +16,10 @@ image_license: Public domain
 image_attribution: Chin tin tin
 snippet: Lac Léman town between Geneva and Lausanne, with Roman roots and a white
   hilltop château.
+heritage: 6.2
+vibrancy: 6.1
+nature: 4.6
+off_the_beaten_track: 1.4
 ---
 
 Nyon is a small, handsome town on the northern shore of Lac Leman, halfway between [Geneva](/europe/switzerland/geneva) and Lausanne. It has the quiet confidence of a place that has been here since Roman times and does not need to prove anything.

@@ -14,6 +14,10 @@ snippet: Central Coast college city around Mission San Luis Obispo de Tolosa, kn
   locally as SLO
 title: San Luis Obispo
 type: location
+heritage: 5.0
+vibrancy: 5.9
+nature: 5.4
+off_the_beaten_track: 2.9
 ---
 
 San Luis Obispo — universally called SLO — was founded around Mission San Luis Obispo de Tolosa, established in 1772. The mission still anchors the downtown, and San Luis Creek still runs through it. What grew up around them is a genuinely pleasant California city that manages to feel unhurried despite being home to Cal Poly (California Polytechnic State University), one of California's larger public universities.

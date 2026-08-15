@@ -14,6 +14,10 @@ title: Courchevel
 snippet: French Alpine ski resort in Les Trois Vallées, split between villages of
   sharply different altitude and mood.
 type: location
+heritage: 2.4
+vibrancy: 3.6
+nature: 6.5
+off_the_beaten_track: 3.9
 ---
 
 Courchevel is part of [Les Trois Vallées](/europe/france/alpes/courchevel/les_trois_vallees), the largest linked ski area in the world, set high in the French Alps above the Tarentaise Valley. The resort is split across several villages at different altitudes — [Courchevel 1850](/europe/france/alpes/courchevel/courchevel_1850) at the top is the most glamorous and expensive, while the lower villages [1650 (Moriond)](/europe/france/alpes/courchevel/courchevel_1650) and [Le Praz](/europe/france/alpes/courchevel/le_praz) offer better value without sacrificing access to the slopes.

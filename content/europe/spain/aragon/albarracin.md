@@ -13,6 +13,10 @@ snippet: Aragonese fortress town of pink sandstone houses, perched above the Gua
   River gorge.
 title: Albarracín
 type: location
+heritage: 7.7
+vibrancy: 3.3
+nature: 4.4
+off_the_beaten_track: 3.8
 ---
 
 Albarracín is one of the most beautiful small towns in Spain, a medieval fortress settlement perched on a rocky outcrop almost entirely encircled by a gorge of the Guadalaviar River. The town's pink-hued sandstone houses, half-timbered upper storeys (the [Casa de la Julianeta](/europe/spain/aragon/albarracin/casa_julianeta) is the most photographed), and narrow cobbled streets have been so well preserved that walking through the old quarter feels genuinely like stepping back several centuries.

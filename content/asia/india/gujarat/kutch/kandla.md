@@ -14,6 +14,10 @@ image: kandla.jpg
 image_source: https://commons.wikimedia.org/wiki/File:MV_Bellemar_berthed_at_Cargo_Jetty_no._16,_with_76610_MT_of_Raw_Sugar_from_Brazil.jpg
 image_license: GODL-India
 image_attribution: Deendayal Port Authority, Kandla
+heritage: 3.9
+vibrancy: 2.6
+nature: 3.7
+off_the_beaten_track: 3.3
 ---
 
 Kandla is one of India's major seaports, sitting on a creek off the Gulf of Kutch. [Deendayal Port](/asia/india/gujarat/kutch/kandla/deendayal_port) handles a vast volume of Gujarat's trade — grain, salt, and oil all move through here — and the town exists almost entirely because of it. There is little tourist interest in Kandla itself, but the industrial waterfront has a certain rough energy, and watching the cargo ships move through the narrow creek is oddly compelling.

@@ -5,15 +5,19 @@ loc_type: city
 latitude: -4.2153
 longitude: -69.9406
 score: 8.2
-snippet: "Colombian Amazon port city where Colombia, Brazil, and Peru meet on the river."
+snippet: Colombian Amazon port city where Colombia, Brazil, and Peru meet on the river.
 image: leticia.jpg
 image_attribution: Ridiculopathy
 image_source: https://commons.wikimedia.org/wiki/File:Sunset_in_Leticia,_Amazonas,_Colombia_03.jpg
 image_license: CC0 1.0
 sources:
-  - "https://en.wikivoyage.org/wiki/Leticia"
-  - "https://en.wikipedia.org/wiki/Leticia,_Amazonas"
-  - "https://www.wikidata.org/wiki/Q214913"
+- https://en.wikivoyage.org/wiki/Leticia
+- https://en.wikipedia.org/wiki/Leticia,_Amazonas
+- https://www.wikidata.org/wiki/Q214913
+heritage: 4.7
+vibrancy: 4.4
+nature: 5.5
+off_the_beaten_track: 4.7
 ---
 
 Leticia is Colombia's far southern Amazon city, cut off from the rest of the country by road but tied tightly to the river and to its neighbours: Tabatinga in Brazil and Santa Rosa in Peru. It feels less like an edge than a meeting point, with three countries, several Indigenous cultures, river trade, jungle guides, and motorbikes all sharing the same humid streets.

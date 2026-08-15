@@ -13,6 +13,10 @@ snippet: Istrian hilltop town above the Mirna River valley, encircled by medieva
   walls and truffle forests.
 title: Motovun
 type: location
+heritage: 5.6
+vibrancy: 3.1
+nature: 6.2
+off_the_beaten_track: 3.0
 ---
 
 Motovun is a small hilltop town in central [Istria](/europe/croatia/istria), perched above the Mirna River valley with sweeping views over truffle-rich forests. The old walled town is beautifully preserved — climb through the outer gate and up the stone streets to find a tight cluster of Romanesque and Gothic buildings around a main square with a campanile.

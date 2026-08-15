@@ -16,6 +16,10 @@ tags:
 - friesland
 title: Workum
 type: location
+heritage: 5.4
+vibrancy: 2.6
+nature: 3.5
+off_the_beaten_track: 1.9
 ---
 
 Workum is one of the eleven historic Frisian cities, a quiet town on the shore of the IJsselmeer with a handsome church tower and a traditional harbour. It has city rights since 1399 and the stepped gables along its streets tell the story of a prosperous trading port on what was then the Zuiderzee. Today it is calm and unhurried, which is precisely why the Dutch come here.

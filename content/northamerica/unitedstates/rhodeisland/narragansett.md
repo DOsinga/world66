@@ -14,6 +14,10 @@ title: Narragansett
 type: location
 snippet: Rhode Island beach town with Victorian resort traces, surf breaks, and Point
   Judith's lighthouse coast.
+heritage: 4.8
+vibrancy: 2.9
+nature: 4.4
+off_the_beaten_track: 1.6
 ---
 
 Narragansett is a coastal town on the south shore of [Rhode Island](/northamerica/unitedstates/rhodeisland), looking out across the Atlantic and Narragansett Bay. It has been a beach resort since the 19th century — the ornate stone [Towers](/northamerica/unitedstates/rhodeisland/narragansett/the_towers), the last remnant of a grand Victorian casino that burned down in 1900, still straddle the road leading to the beach.

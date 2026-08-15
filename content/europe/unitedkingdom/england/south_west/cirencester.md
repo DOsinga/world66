@@ -18,6 +18,10 @@ tags:
 title: Cirencester
 type: location
 wikidata: Q852772
+heritage: 7.2
+vibrancy: 3.5
+nature: 3.3
+off_the_beaten_track: 2.0
 ---
 
 Cirencester is one of the better Cotswold towns to visit if you want more than pretty stone. It was Roman Corinium, once the second-largest town in Roman Britain, and that history still gives the place a sharper edge than the usual market-square stroll.

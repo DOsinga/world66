@@ -9,6 +9,10 @@ snippet: Minnesota state park where the Mississippi begins as clear water flowin
   out of Lake Itasca.
 title: Itasca State Park
 type: location
+heritage: 1.6
+vibrancy: 1.4
+nature: 6.8
+off_the_beaten_track: 2.6
 ---
 
 Itasca State Park is where the Mississippi River begins — a modest stream of clear water flowing out of Lake Itasca that you can wade across on a line of stepping stones. It is probably the only place along the river's 3,700-kilometre course where the Mississippi is neither brown nor muddy.

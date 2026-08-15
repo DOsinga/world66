@@ -15,6 +15,10 @@ snippet: Arctic Circle coastal city and Lofoten gateway, rebuilt after wartime b
   beneath fjords and mountains
 title: Bodø
 type: location
+heritage: 3.7
+vibrancy: 4.5
+nature: 7.6
+off_the_beaten_track: 3.1
 ---
 
 Bodø sits just above the Arctic Circle on Norway's northwest coast, the largest city in Nordland county and the northern terminus of the Nordlandsbanen railway. It is the main jumping-off point for the Lofoten islands, with daily express ferries, Hurtigruten coastal voyages, and frequent flights connecting the archipelago to the mainland.

@@ -13,6 +13,10 @@ snippet: Angolan highland city with a cool plateau climate, colonial centre, and
   Rei viewpoint.
 title: Lubango
 type: location
+heritage: 3.4
+vibrancy: 3.0
+nature: 6.2
+off_the_beaten_track: 6.7
 ---
 
 Lubango is the capital of Huila province and one of Angola's most pleasant cities, sitting at around 1,700 metres on a high plateau with a dramatic mountain backdrop. The cool climate, the jacaranda-lined streets, and the relative calm compared to [Luanda](/africa/angola/luanda) make it a refreshing stop in a country where comfortable travel can be hard to come by.

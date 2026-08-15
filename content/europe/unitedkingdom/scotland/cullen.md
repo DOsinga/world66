@@ -7,6 +7,10 @@ snippet: Moray Firth fishing village known for Cullen Skink, sandy beaches, and 
   Three Kings sea stacks.
 title: Cullen
 type: location
+heritage: 4.1
+vibrancy: 1.8
+nature: 5.8
+off_the_beaten_track: 2.3
 ---
 
 Cullen is a small fishing village on the Moray Firth coast of northeast Scotland, best known for two things: Cullen Skink, the thick smoked haddock soup that has become one of Scotland's iconic dishes and appears on menus the length of the country, and its striking beach dominated by three great sea stacks known as the Three Kings. The beach is sandy and wide, and to the east Sunnyside Beach offers a more secluded alternative. Further along the coastal path you'll find the ruined Findlater Castle, perched dramatically on a clifftop above the sea.

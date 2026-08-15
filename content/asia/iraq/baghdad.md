@@ -23,6 +23,10 @@ tip: Baghdad was once the greatest city in the world, the centre of the Islamic 
   treasures.
 title: Baghdad
 type: location
+heritage: 5.4
+vibrancy: 6.2
+nature: 0.9
+off_the_beaten_track: 7.1
 ---
 
 Baghdad was once the centre of the world. Founded in 762 CE by the Abbasid Caliph Al-Mansur as a perfectly circular walled city on the banks of the Tigris, it grew within a century into the largest city on earth — a cosmopolitan capital of perhaps a million people where Arab, Persian, Greek, Indian and Chinese scholarship converged in what became known as the Islamic Golden Age. The name alone used to evoke the world of the Arabian Nights: harems, philosophers, astronomers, merchants, and the legendary wealth of the caliphs.

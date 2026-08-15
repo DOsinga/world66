@@ -15,6 +15,10 @@ snippet: Baroque Swedish naval city spread across islands, built for the fleet o
   King Karl XI.
 title: Karlskrona
 type: location
+heritage: 5.7
+vibrancy: 3.0
+nature: 6.1
+off_the_beaten_track: 2.7
 ---
 
 Karlskrona was founded in 1680 when King Karl XI needed a southern naval base that wouldn't freeze in winter. He chose a cluster of islands at the southeastern tip of Sweden, laid out a baroque city on a grid, and built Sweden's great war fleet here. The whole thing — dockyard, churches, fortifications, artisan quarters — was designated a UNESCO World Heritage Site in 1998, and it remains one of the best-preserved naval cities in the world.

@@ -6,7 +6,8 @@ latitude: 49.5937
 longitude: -126.6205
 wikidata: Q2590873
 score: 8.0
-snippet: Roadless Nootka Island historic site central to Mowachaht/Muchalaht and Pacific contact history.
+snippet: Roadless Nootka Island historic site central to Mowachaht/Muchalaht and Pacific
+  contact history.
 sources:
 - https://en.wikivoyage.org/wiki/Yuquot
 - https://en.wikipedia.org/wiki/Yuquot
@@ -15,6 +16,10 @@ image: yuquot.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Friendly_Cove_(7462038618).jpg
 image_license: CC BY 2.0
 image_attribution: David Stanley
+heritage: 6.2
+vibrancy: 0.9
+nature: 7.6
+off_the_beaten_track: 6.4
 ---
 
 *North America > Canada > British Columbia > Vancouver Island > Yuquot*

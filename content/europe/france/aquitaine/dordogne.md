@@ -13,6 +13,10 @@ snippet: Périgord river region of golden-stone villages, châteaux, truffle woo
   and prehistoric cave art.
 title: Dordogne
 type: location
+heritage: 5.6
+vibrancy: 4.7
+nature: 5.8
+off_the_beaten_track: 2.1
 ---
 
 The Dordogne is known to the French as the Perigord. It is divided into four regions: the black perigord, the purple perigord, the green and the whit. 

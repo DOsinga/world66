@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Maturango_Museum
 title: Ridgecrest
 type: location
+heritage: 2.1
+vibrancy: 2.3
+nature: 4.9
+off_the_beaten_track: 2.4
 ---
 
 Ridgecrest sits in the Indian Wells Valley, a dry basin between the Sierra Nevada, the Coso Range, and the open Mojave. It is a practical town first: fuel, food, motels, and military traffic from Naval Air Weapons Station China Lake. But it also makes a useful base for one of California's more overlooked desert corners.

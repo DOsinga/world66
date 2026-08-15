@@ -14,6 +14,10 @@ type: location
 score: 6.82
 snippet: Tasmanian east-coast town on Georges Bay, serving the Bay of Fires and mountain
   bike trails.
+heritage: 2.7
+vibrancy: 1.5
+nature: 7.9
+off_the_beaten_track: 5.4
 ---
 
 St Helens is the largest town on Tasmania's east coast, sitting at the head of [Georges Bay](/australiaandpacific/australia/tasmania/eastcoast/st_helens/georges_bay) where the [Blue Derby](/australiaandpacific/australia/tasmania/eastcoast/st_helens/blue_derby) mountain bike trails end and the [Bay of Fires](/australiaandpacific/australia/tasmania/eastcoast/st_helens/bay_of_fires) begins. It functions as the practical hub for the whole region — fuel, food, accommodation — and makes a good base whether you're coming off the trails or heading north along the coast.

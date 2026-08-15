@@ -16,6 +16,10 @@ tags:
 - rivieradellepalme
 title: Onzo
 type: location
+heritage: 4.0
+vibrancy: 3.4
+nature: 4.9
+off_the_beaten_track: 3.4
 ---
 
 Onzo is a tiny commune in the upper valley of the Arroscia, on the southern slope of [Monte Peso Grande](/europe/italy/liguria/onzo/monte_peso_grande) (1,092 m). The village passed through the hands of the Marchesi di Clavesana, the Republic of Genoa, and the Marquisate of Finale before settling under Genoese rule in 1581.

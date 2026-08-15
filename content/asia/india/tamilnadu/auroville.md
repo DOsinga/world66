@@ -18,6 +18,10 @@ image: auroville.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Auroville_pondicherry.jpg
 image_license: CC BY-SA 4.0
 image_attribution: PIYUSH P PUJARI
+heritage: 3.8
+vibrancy: 4.4
+nature: 1.9
+off_the_beaten_track: 4.9
 ---
 
 Auroville is an experimental township north of Pondicherry, founded in 1968 around the idea of a universal city beyond nationality and religion. That can sound abstract until you arrive: red-earth lanes, casuarina shade, quiet workshops, solar kitchens, handmade instruments, reforested plots, and visitors moving between spiritual curiosity and very practical community projects.

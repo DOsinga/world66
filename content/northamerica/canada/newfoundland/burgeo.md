@@ -14,6 +14,10 @@ image: burgeo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Burgeo_Islands_.jpg
 image_license: CC BY-SA 4.0
 image_attribution: ParsonsPhotographyNL
+heritage: 3.8
+vibrancy: 0.7
+nature: 7.8
+off_the_beaten_track: 7.0
 ---
 
 Burgeo is a small outport on Newfoundland's south coast, far from the island's main travel routes. The road in, Route 480, runs through empty barrens and forest before ending at a harbour scattered with islands and coves.

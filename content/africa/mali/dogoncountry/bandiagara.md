@@ -14,6 +14,10 @@ snippet: Dusty Dogon country gateway where travellers arrange guides for treks a
   the sandstone escarpment
 title: Bandiagara
 type: location
+heritage: 5.8
+vibrancy: 0.9
+nature: 7.5
+off_the_beaten_track: 6.7
 ---
 
 Bandiagara is the gateway to the [Bandiagara Escarpment](/africa/mali/dogoncountry/bandiagara/bandiagara_escarpment), a 200-kilometre sandstone cliff that shelters the Dogon villages. The town itself is dusty and functional, but it is where most travellers arrange guides and supplies before heading out on multi-day treks along the escarpment.

@@ -15,6 +15,10 @@ image: ucluelet.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2023-07-19_Amphitrite_Point_Lighthouse_in_Ucluelet,_BC,_Canada.jpg
 image_license: CC BY 4.0
 image_attribution: Letartean
+heritage: 2.4
+vibrancy: 1.5
+nature: 8.0
+off_the_beaten_track: 4.1
 ---
 
 Ucluelet sits on the west coast of Vancouver Island, south of [Tofino](/northamerica/canada/britishcolumbia/tofino) and close to Pacific Rim National Park Reserve. It has less of Tofino's surf-town shine, but that is part of the point: Ucluelet feels more like a working harbour that learned to welcome storm watchers, hikers, kayakers, and people who like rain gear.

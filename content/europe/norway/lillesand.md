@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Lillesand
 title: Lillesand
 type: location
+heritage: 3.4
+vibrancy: 2.3
+nature: 6.3
+off_the_beaten_track: 2.3
 ---
 
 Lillesand is one of the prettiest small towns on Norway's South Coast, a white-painted harbour of wooden houses, boats, skerries, and summer light. It sits east of [Kristiansand](/europe/norway/kristiansand), close enough for a day trip but calm enough to feel like a different rhythm.

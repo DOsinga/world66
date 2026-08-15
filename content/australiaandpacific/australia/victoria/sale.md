@@ -2,15 +2,20 @@
 title: Sale
 type: location
 loc_type: city
-latitude: -38.1000
-longitude: 147.0600
+latitude: -38.1
+longitude: 147.06
 score: 6.1
-snippet: Central Gippsland service city with a canal port, regional art gallery, and historic swing bridge.
+snippet: Central Gippsland service city with a canal port, regional art gallery, and
+  historic swing bridge.
 wikidata: Q1026976
 sources:
-  - https://en.wikivoyage.org/wiki/Sale_(Victoria)
-  - https://www.wikidata.org/wiki/Q1026976
-  - https://www.visitmelbourne.com/regions/gippsland/destinations/sale
+- https://en.wikivoyage.org/wiki/Sale_(Victoria)
+- https://www.wikidata.org/wiki/Q1026976
+- https://www.visitmelbourne.com/regions/gippsland/destinations/sale
+heritage: 3.3
+vibrancy: 3.0
+nature: 4.7
+off_the_beaten_track: 2.3
 ---
 
 Sale is the main city of central Gippsland, and it is more useful than glamorous. That said, it has enough of its own story to reward a slow stop: a canal built to link the town to the Gippsland Lakes, a strong regional gallery, and one of Victoria's more unusual pieces of engineering heritage.

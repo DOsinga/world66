@@ -15,6 +15,10 @@ image: kiama.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2023-09-02_Kiama,_NSW.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Maksym Kozlenko
+heritage: 3.2
+vibrancy: 3.6
+nature: 7.6
+off_the_beaten_track: 2.3
 ---
 
 Kiama is a small South Coast town south of [Wollongong](/australiaandpacific/australia/newsouthwales/wollongong), famous for the boom and spray of its blowholes. It is close enough to Sydney for a long day trip, but the setting feels properly coastal: green dairy country runs down toward black basalt headlands, surf beaches, rock pools, and a harbour tucked under the lighthouse.

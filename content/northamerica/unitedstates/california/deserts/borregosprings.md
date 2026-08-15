@@ -14,6 +14,10 @@ snippet: Desert community surrounded by Anza-Borrego Desert State Park and notab
   dark skies.
 title: Borrego Springs
 type: location
+heritage: 2.3
+vibrancy: 3.2
+nature: 5.1
+off_the_beaten_track: 1.8
 ---
 
 Borrego Springs is a small desert community in eastern San Diego County, entirely surrounded by Anza-Borrego Desert State Park — the largest state park in California. The town sits in a valley below the Santa Rosa Mountains and has a year-round population of a few thousand, swelling in winter when snowbirds arrive to escape the cold.

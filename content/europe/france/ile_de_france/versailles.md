@@ -23,6 +23,10 @@ tip: Versailles is enormous — the palace is just the start; the gardens, the G
   so check first. Rent a bike or golf cart for the grounds.
 title: Versailles
 type: location
+heritage: 8.0
+vibrancy: 4.8
+nature: 4.4
+off_the_beaten_track: 1.6
 ---
 
 Versailles is one of those places that earns its reputation. The Château de Versailles — built by Louis XIV, the Sun King, to project the absolute power of the French monarchy — is simply enormous, and walking through it you feel the full weight of that ambition. The Hall of Mirrors alone, 73 metres of gilded grandeur, stops most visitors in their tracks.

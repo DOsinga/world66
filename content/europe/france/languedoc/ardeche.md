@@ -12,6 +12,10 @@ snippet: Southern French region known for its long limestone gorge, canoeing rou
   caves, waterfalls, and hill villages.
 title: Ardeche
 type: location
+heritage: 3.9
+vibrancy: 3.6
+nature: 7.3
+off_the_beaten_track: 3.1
 ---
 
 The Ardèche is a region that is most famous for its gorges. The impressive limestone canyon stretches out for over 30 kilometres and offers an altering view of steep rock walls covered on the top with green trees and disappearing at the bottom in the winding river with its rapids. The astonishing views, combined with an abundance of sportive activities, such as climbing and canoeing, make this area into a popular holiday spot.

@@ -14,6 +14,10 @@ snippet: Pelagonia valley city with Ottoman boulevards, Heraclea mosaics, and No
   Macedonia's relaxed urban elegance.
 title: Bitola
 type: location
+heritage: 6.5
+vibrancy: 4.9
+nature: 2.8
+off_the_beaten_track: 2.3
 ---
 
 Bitola is North Macedonia's second city, set in the wide Pelagonia valley close to the Greek border. It has a relaxed, unhurried feel that distinguishes it from [Skopje](/europe/macedonia/skopje), and its Ottoman-era central boulevard, [Širok Sokak](/europe/macedonia/bitola/sirok_sokak), lined with 19th-century buildings and cafe terraces, gives it more elegance than most Macedonian towns.

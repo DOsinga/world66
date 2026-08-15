@@ -14,6 +14,10 @@ title: Bluefield
 snippet: Appalachian border city with coal-and-railroad bones and a cool mountain
   climate above southern West Virginia.
 type: location
+heritage: 3.8
+vibrancy: 2.4
+nature: 4.3
+off_the_beaten_track: 2.8
 ---
 
 Bluefield sits in the Appalachian mountains right on the West Virginia–Virginia border, with a twin city of the same name on the Virginia side. Once a prosperous coal and railroad town, it has the handsome brick downtown of a place that was once considerably richer than it is today.

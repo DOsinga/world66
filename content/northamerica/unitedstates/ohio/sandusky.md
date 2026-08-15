@@ -10,6 +10,10 @@ snippet: Lake Erie city best known for Cedar Point, with a low-key harbour and i
   ferries
 title: Sandusky
 type: location
+heritage: 3.0
+vibrancy: 2.4
+nature: 4.5
+off_the_beaten_track: 2.1
 ---
 
 Sandusky is a city on the southern shore of Lake Erie in northern Ohio, situated roughly halfway between Toledo to the west and [Cleveland](/northamerica/unitedstates/ohio/cleveland) to the east. It is best known as the home of [Cedar Point](/northamerica/unitedstates/ohio/sandusky/cedar_point), one of the most celebrated amusement parks in the world and a pilgrimage site for roller coaster enthusiasts. Cedar Point sits on a narrow peninsula jutting into Lake Erie, and its skyline of towering steel coasters — [Millennium Force](/northamerica/unitedstates/ohio/sandusky/millennium_force) is the headline — is visible from miles around. At various times in its history it has held more world records for roller coasters than any other park on earth.

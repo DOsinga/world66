@@ -10,6 +10,10 @@ snippet: Ridge-top West Bank city with cafe-lined streets and the Palestinian te
   liveliest urban culture.
 title: Ramallah
 type: location
+heritage: 5.4
+vibrancy: 4.6
+nature: 2.9
+off_the_beaten_track: 5.6
 ---
 
 Ramallah is the de facto administrative capital of the Palestinian Authority, perched on a ridge in the central West Bank about fifteen kilometres north of [Jerusalem](/asia/israel/jerusalem). It has grown from a small Christian town into a busy, cosmopolitan city — by West Bank standards — with universities, NGO offices, and the most active nightlife scene in the Palestinian territories.

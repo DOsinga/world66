@@ -25,6 +25,10 @@ tip: Washington DC is laid out on a grand plan, and most of its highlights are f
   are spectacular.
 title: Washington D.C.
 type: location
+heritage: 7.3
+vibrancy: 7.5
+nature: 6.5
+off_the_beaten_track: 1.0
 ---
 
 The capital of the United States is a city purpose-built for government and now one of the most visited destinations in the country. Washington DC sits on the Potomac River where Maryland and Virginia meet — an artificial district carved from both states in 1790 so the new republic's capital would belong to no single state. The plan was Pierre Charles L'Enfant's: a grid overlaid with diagonal avenues radiating from the Capitol and the White House, designed to be imposing.

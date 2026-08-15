@@ -14,6 +14,10 @@ snippet: Loire-region city known for its 24-hour race and the medieval Cité Pla
   old town
 title: Le Mans
 type: location
+heritage: 4.6
+vibrancy: 1.8
+nature: 2.4
+off_the_beaten_track: 2.5
 ---
 
 Le Mans is mainly known for the 24 Hours car race held here every June, but the town itself is well worth a visit. The [Cité Plantagenêt](/europe/france/centre/lemans/cite_plantagenet) — the old town — is one of the best-preserved medieval quarters in France, with half-timbered houses, Renaissance mansions, and parts of the [Gallo-Roman city walls](/europe/france/centre/lemans/gallo_roman_walls) dating back to the 3rd century. The [Cathedral of Saint-Julien](/europe/france/centre/lemans/le_mans_cathedral) dominates the hilltop, mixing Romanesque and Gothic styles in a way that traces six centuries of building.

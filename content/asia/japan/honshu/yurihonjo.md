@@ -15,6 +15,10 @@ image: yurihonjo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:MtChokaiFromOkojoland.jpg
 image_license: CC BY 3.0
 image_attribution: Douglas P. Perkins
+heritage: 2.6
+vibrancy: 2.0
+nature: 4.0
+off_the_beaten_track: 4.9
 ---
 
 Yurihonjo is not a compact city so much as a large piece of southern Akita stitched together from former towns. Honjo, near the Sea of Japan, is the practical centre; inland districts climb toward the Chokai highlands, where waterfalls, snow country, shrines, and mountain roads take over.

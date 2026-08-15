@@ -14,6 +14,10 @@ title: Chester
 snippet: Walled English city on the River Dee, known for Roman remains and medieval
   shopping rows.
 type: location
+heritage: 6.7
+vibrancy: 5.0
+nature: 3.7
+off_the_beaten_track: 1.6
 ---
 
 Chester is the most complete walled city in the UK. Walk the full two-mile circuit of the [city walls](/europe/unitedkingdom/england/north_west/chester/city_walls) for views over the River Dee and the racecourse, then drop down into [The Rows](/europe/unitedkingdom/england/north_west/chester/chester_rows) — the half-timbered galleried shopping streets on two levels that are unique in England, and genuinely medieval in origin.

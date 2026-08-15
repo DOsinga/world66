@@ -2,14 +2,19 @@
 title: Águas de São Pedro
 type: location
 loc_type: city
-latitude: -22.6000
-longitude: -47.8750
+latitude: -22.6
+longitude: -47.875
 score: 6.6
-snippet: Tiny São Paulo hydromineral spa town built around sulphurous springs and slow park walks.
+snippet: Tiny São Paulo hydromineral spa town built around sulphurous springs and
+  slow park walks.
 sources:
-  - https://en.wikivoyage.org/wiki/%C3%81guas_de_S%C3%A3o_Pedro
-  - https://en.wikipedia.org/wiki/%C3%81guas_de_S%C3%A3o_Pedro
-  - https://www.aguasdesaopedro.sp.gov.br/portal/turismo/0/9/339/fontanario
+- https://en.wikivoyage.org/wiki/%C3%81guas_de_S%C3%A3o_Pedro
+- https://en.wikipedia.org/wiki/%C3%81guas_de_S%C3%A3o_Pedro
+- https://www.aguasdesaopedro.sp.gov.br/portal/turismo/0/9/339/fontanario
+heritage: 3.3
+vibrancy: 3.0
+nature: 5.1
+off_the_beaten_track: 2.5
 ---
 
 Águas de São Pedro is one of Brazil's smallest municipalities, a planned spa town folded into the countryside northwest of [São Paulo](/southamerica/brazil/saopaulo). It exists because of water: three mineral springs, a municipal bath house, and a century-old belief that a weekend here should leave you a little healthier.

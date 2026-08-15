@@ -5,11 +5,16 @@ loc_type: city
 latitude: 20.4769
 longitude: -97.0083
 score: 6.5
-snippet: Veracruz beach town where the Tecolutla River meets Gulf mangroves and turtle-nesting sands.
+snippet: Veracruz beach town where the Tecolutla River meets Gulf mangroves and turtle-nesting
+  sands.
 sources:
-  - https://en.wikivoyage.org/wiki/Tecolutla
-  - https://en.wikipedia.org/wiki/Tecolutla
-  - https://tecolutlaturtles.org/
+- https://en.wikivoyage.org/wiki/Tecolutla
+- https://en.wikipedia.org/wiki/Tecolutla
+- https://tecolutlaturtles.org/
+heritage: 1.8
+vibrancy: 2.7
+nature: 6.5
+off_the_beaten_track: 2.5
 ---
 
 Tecolutla is a small Gulf Coast town in northern Veracruz, where the Tecolutla River spreads into mangroves before meeting the sea. It is close enough to Mexico City to fill up during holidays, but outside those peaks it feels more like a working beach town than a polished resort.

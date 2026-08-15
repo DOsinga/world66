@@ -19,6 +19,10 @@ image: sado_island.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Sado_Shukunegi.jpg
 image_license: Public domain
 image_attribution: JH0WJF
+heritage: 3.8
+vibrancy: 1.9
+nature: 6.9
+off_the_beaten_track: 5.7
 ---
 
 Sado Island sits off the coast of Niigata in the Sea of Japan, far enough from the mainland to feel like its own small country. It has mountains, rice fields, fishing villages, rocky coasts, and a history shaped by exile, gold, and sea routes. The island is large enough that a car helps; trying to "pop over" for a few hours misses the point.

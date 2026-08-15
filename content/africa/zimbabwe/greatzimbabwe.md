@@ -12,6 +12,10 @@ score: 7.99
 snippet: Shona stone-city ruins whose Great Enclosure gave modern Zimbabwe its name.
 title: Great Zimbabwe
 type: location
+heritage: 8.8
+vibrancy: 1.9
+nature: 3.2
+off_the_beaten_track: 5.5
 ---
 
 Great Zimbabwe is the largest stone ruin in sub-Saharan Africa south of the Sahara, and one of the most important archaeological sites on the continent. Built between the eleventh and fifteenth centuries, it was the capital of a wealthy Shona trading state that controlled gold and ivory routes between the interior and the Indian Ocean coast. The name Zimbabwe — "houses of stone" — gave the modern country its name at independence in 1980.

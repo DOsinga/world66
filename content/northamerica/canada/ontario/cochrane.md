@@ -17,6 +17,10 @@ image: cochrane.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cochrane,_ON,_Canada_-_panoramio_(5).jpg
 image_license: CC BY 3.0
 image_attribution: Eric Friedebach
+heritage: 2.1
+vibrancy: 1.8
+nature: 5.7
+off_the_beaten_track: 4.8
 ---
 
 Cochrane is a small railway town in northeastern Ontario, far enough north that the landscape has shifted into boreal forest and long winter. It is not a polished resort town, but it has a clear identity: polar bears, hockey, and trains heading toward the edge of James Bay.

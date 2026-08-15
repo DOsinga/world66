@@ -23,6 +23,10 @@ tags:
 - student_city
 title: Utrecht
 type: location
+heritage: 6.0
+vibrancy: 5.6
+nature: 2.0
+off_the_beaten_track: 1.3
 ---
 
 Forget about The Hague, forget about Rotterdam, it's Utrecht you are heading for after visiting Amsterdam.

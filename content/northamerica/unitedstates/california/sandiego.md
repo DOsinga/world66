@@ -14,6 +14,10 @@ snippet: Southern California border city built around Pacific beaches, Balboa Pa
   and a relaxed outdoor climate
 title: San Diego
 type: location
+heritage: 2.4
+vibrancy: 5.0
+nature: 5.0
+off_the_beaten_track: 1.2
 ---
 
 San Diego sits at the southwestern corner of the continental United States, against the Mexican border, and benefits from one of the most agreeable climates in the country — high 60s to mid 70s most of the year, long stretches without rain, and a Pacific that's swimmable from June through October. The city is more relaxed than [Los Angeles](/northamerica/unitedstates/california/losangeles), more compact than San Francisco, and built almost entirely around the outdoors.

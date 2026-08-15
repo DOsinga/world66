@@ -14,6 +14,10 @@ snippet: Small Tuareg oasis town near Agadez, host of the annual Cure Salée nom
   gathering.
 title: In-Gall
 type: location
+heritage: 2.2
+vibrancy: 1.4
+nature: 3.8
+off_the_beaten_track: 6.3
 ---
 
 In-Gall — sometimes written Ingal — is a small Tuareg oasis town on the southern edge of the Aïr Mountains in central Niger, about 130 km west of Agadez. For most of the year it is a sleepy place of mud-brick compounds, doum-palm groves, and a few hundred permanent residents. For one week each September it becomes the host of the **Cure Salée** — the *Salt Cure* — when tens of thousands of Tuareg and Wodaabe Fulani nomads converge from across the central Sahara to bring their herds to the surrounding salt pans and to gather for camel races, market trading, and the famous **Gerewol** courtship ceremony of the Wodaabe.

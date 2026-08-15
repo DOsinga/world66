@@ -14,6 +14,10 @@ snippet: Western Reserve town between Akron and Cleveland, anchored by a New Eng
   historic district.
 title: Hudson
 type: location
+heritage: 3.8
+vibrancy: 3.9
+nature: 3.3
+off_the_beaten_track: 1.0
 ---
 
 Hudson is a small, well-preserved town on the Western Reserve, halfway between Akron and Cleveland. The [Hudson Historic District](/northamerica/unitedstates/ohio/hudson/hudson_historic_district) — a classic New England-style commons surrounded by Federal and Greek Revival buildings — anchors a compact downtown of 19th-century brick, independent shops, and restaurants. It was founded in 1799 by David Hudson, a Connecticut settler, and the New England character has stuck with unusual fidelity.

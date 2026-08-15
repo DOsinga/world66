@@ -5,10 +5,15 @@ loc_type: city
 latitude: 19.35
 longitude: -90.7167
 score: 6.1
-snippet: Campeche river-mouth town known for seafood, Maya-Spanish history, and Gulf sunsets.
+snippet: Campeche river-mouth town known for seafood, Maya-Spanish history, and Gulf
+  sunsets.
 sources:
-  - https://en.wikivoyage.org/wiki/Champot%C3%B3n
-  - https://visitmexico.com/en/destino/17804/champoton
+- https://en.wikivoyage.org/wiki/Champot%C3%B3n
+- https://visitmexico.com/en/destino/17804/champoton
+heritage: 4.9
+vibrancy: 2.9
+nature: 5.7
+off_the_beaten_track: 2.9
 ---
 
 Champotón sits where the Champotón River meets the Gulf of Mexico, about an hour southwest of [Campeche](/northamerica/mexico/yucatan/campeche_campeche). It is a fishing town first and a sightseeing town second, but that is part of its appeal. The waterfront is low-key, the seafood is serious, and the river mouth gives the town a softer setting than the highway approach suggests.

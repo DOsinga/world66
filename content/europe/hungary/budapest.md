@@ -26,6 +26,10 @@ tip: Budapest is two cities — hilly Buda and flat Pest — split by the Danube
   and explore the 'ruin bars' of the old Jewish Quarter at night.
 title: Budapest
 type: location
+heritage: 7.7
+vibrancy: 8.7
+nature: 5.5
+off_the_beaten_track: 1.1
 ---
 
 Budapest is one of Europe's most rewarding cities, a place where faded imperial grandeur meets a rebellious creative energy that keeps things interesting. Straddling the Danube, with hilly Buda on one side and flat, bustling Pest on the other, it offers world-class architecture, thermal baths you can soak in for hours, and a food and drink scene that punches well above its price point.

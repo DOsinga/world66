@@ -14,6 +14,10 @@ snippet: Caribbean Colombian city and birthplace of vallenato, set between two m
   ranges.
 title: Valledupar
 type: location
+heritage: 7.3
+vibrancy: 6.0
+nature: 5.1
+off_the_beaten_track: 3.7
 ---
 
 Valledupar is the birthplace and capital of vallenato, the accordion-driven folk music that is to Colombia's Caribbean coast what tango is to Buenos Aires. Every April the city hosts the [Festival de la Leyenda Vallenata](/southamerica/colombia/valledupar/festival_vallenata), a multi-day competition that draws musicians and crowds from across the country. Even outside the festival, vallenato is everywhere — in the plazas, in the bars, on the bus.

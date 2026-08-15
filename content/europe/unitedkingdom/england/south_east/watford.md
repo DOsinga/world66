@@ -13,6 +13,10 @@ snippet: Hertfordshire commuter town known for Watford FC and the nearby Warner 
   Studio Tour at Leavesden.
 title: Watford
 type: location
+heritage: 2.8
+vibrancy: 2.6
+nature: 1.3
+off_the_beaten_track: 1.0
 ---
 
 Watford is a commuter town at the northwestern edge of Greater London, sitting just inside Hertfordshire. It has the busy, practical character of a place that serves a large surrounding population, with a pedestrianized High Street and the intu Watford shopping center drawing people from across the county. Watford FC, the local football club, provides much of the town's identity, and catching a match at [Vicarage Road](/europe/unitedkingdom/england/south_east/watford/vicarage_road) is the most authentic local experience you can have.

@@ -13,6 +13,10 @@ image: cannobio.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cannobio_Panorama.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Mabit1
+heritage: 4.6
+vibrancy: 5.0
+nature: 6.7
+off_the_beaten_track: 2.8
 ---
 
 Cannobio sits at the northern end of the Italian shore, where the lake narrows and the mountains crowd closer to the water. It is the most atmospheric of the western shore towns: a medieval core of tall, painted houses presses down to the waterfront, and the Piazza Vittorio Emanuele III — an arcaded square partly overhanging the water — is one of the most beautiful town squares on the lake. On Sundays the piazza fills with a local market.

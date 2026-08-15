@@ -16,6 +16,10 @@ image_license: CC BY-SA 3.0 pl
 image_attribution: Marcin Konsek
 snippet: Small Upper Silesian town centered on a grand palace museum, English park,
   and bison enclosure.
+heritage: 4.9
+vibrancy: 2.2
+nature: 3.4
+off_the_beaten_track: 2.3
 ---
 
 Pszczyna is a small, well-preserved town in Upper Silesia, about 40 kilometres south of Katowice, that punches well above its weight for a place of its size. Its main draw is the [Pszczyna Castle](/europe/poland/pszczyna/pszczyna_castle) — one of the finest palace museums in Poland — surrounded by a [landscaped English park](/europe/poland/pszczyna/palace_park) with a herd of European bison. The [market square](/europe/poland/pszczyna/market_square) is compact and pleasant, the streets are quiet, and the whole place has an unhurried feel that contrasts sharply with the industrial belt to the north.

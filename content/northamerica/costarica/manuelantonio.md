@@ -15,6 +15,10 @@ title: Manuel Antonio
 snippet: Pacific beach town beside a compact rainforest national park where wildlife,
   reefs, and coves sit close together.
 type: location
+heritage: 2.8
+vibrancy: 5.5
+nature: 7.6
+off_the_beaten_track: 3.0
 ---
 
 Manuel Antonio is one of Costa Rica's most celebrated destinations, combining pristine Pacific beaches with a compact national park that punches well above its weight in biodiversity. Squeezed onto a small peninsula about 180 km south of San José, Manuel Antonio National Park protects towering primary rainforest, coral reefs, and a string of sheltered coves — all within walking distance of each other.

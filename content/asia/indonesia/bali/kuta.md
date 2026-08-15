@@ -14,6 +14,10 @@ title: Kuta
 type: location
 snippet: Busy Bali beach town that grew from a surf village into the island's mass-tourism
   hub.
+heritage: 3.4
+vibrancy: 6.5
+nature: 7.0
+off_the_beaten_track: 1.3
 ---
 
 *Asia > Indonesia > [Bali](/asia/indonesia/bali) > Kuta*

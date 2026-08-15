@@ -14,6 +14,10 @@ snippet: Grand Bohemian spa town of colonnades, hot springs, and ornate hotels b
   for taking the waters.
 title: Karlovy Vary
 type: location
+heritage: 8.2
+vibrancy: 5.4
+nature: 5.7
+off_the_beaten_track: 1.4
 ---
 
 Karlovy Vary — known in German as Carlsbad — is the grandest of the Bohemian spa towns, a place where 19th-century Europe came to take the waters and be seen. The hot springs that bubble up here drew everyone from Goethe and Beethoven to Peter the Great, and the colonnades, bath houses, and ornate hotels they left behind make the town an architectural pleasure even if you have no interest in soaking your feet.

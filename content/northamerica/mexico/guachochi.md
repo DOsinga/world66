@@ -16,6 +16,10 @@ image: guachochi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Crep%C3%BAsculo_en_Guachochi_-_panoramio.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Alejandro Vega Rdz.
+heritage: 2.1
+vibrancy: 2.1
+nature: 5.6
+off_the_beaten_track: 5.0
 ---
 
 Guachochi sits high in the Sierra Tarahumara, far south of the better-known Copper Canyon rail stops. It is not a polished resort town, and that is part of the point: this is Raramuri country, with cold pine air, rough roads, waterfalls close to town, and canyon rims that feel much wilder than the viewpoints around Creel.

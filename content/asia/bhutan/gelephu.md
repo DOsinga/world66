@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Royal_Manas_National_Park
 title: Gelephu
 type: location
+heritage: 3.2
+vibrancy: 2.5
+nature: 4.9
+off_the_beaten_track: 5.7
 ---
 
 Gelephu is a border town in southern Bhutan's Sarpang District, sitting on the Indian frontier where the Himalayan foothills flatten into the Assamese plains. It is hot and humid by Bhutanese standards — a different world from the mountain valleys further north — and has traditionally served as a transit point for traders and travellers crossing between the two countries.

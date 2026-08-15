@@ -14,6 +14,10 @@ snippet: Former Burmese royal capital near Mandalay, known for weaving workshops
   U Bein Bridge over Taungthaman Lake.
 title: “Amarapura”
 type: location
+heritage: 6.3
+vibrancy: 2.2
+nature: 2.6
+off_the_beaten_track: 4.7
 ---
 
 Amarapura -- the “City of Immortals” -- was the royal capital of Burma from 1783, home to 200,000 people at its peak. Today fewer than 10,000 remain, most of them cotton and silk weavers working at looms in workshops you can visit along the main road.

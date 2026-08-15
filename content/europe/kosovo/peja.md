@@ -14,6 +14,10 @@ image: peja.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bajrakli_Xhami.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Arba Hatashi
+heritage: 6.1
+vibrancy: 5.4
+nature: 5.9
+off_the_beaten_track: 3.9
 ---
 
 Peja (Albanian: Pejë; Serbian: Peć) sits at the mouth of the Rugova Gorge, where the Bistrica river tumbles out of the Accursed Mountains — the dramatic limestone range that marks Kosovo's border with Montenegro and Albania. With around 85,000 inhabitants, it is the main city of the Dukagjin region and a gateway to some of the most spectacular mountain scenery in the western Balkans.

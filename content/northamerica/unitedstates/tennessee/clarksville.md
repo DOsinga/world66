@@ -14,6 +14,10 @@ title: Clarksville
 type: location
 snippet: Cumberland River city shaped by tobacco trading, Fort Campbell, and a compact
   19th-century downtown.
+heritage: 3.0
+vibrancy: 2.5
+nature: 1.9
+off_the_beaten_track: 1.8
 ---
 
 Clarksville is the fifth-largest city in Tennessee, sitting on the Cumberland River about 40 miles northwest of [Nashville](/northamerica/unitedstates/tennessee/nashville) along Interstate 24. The city grew up as a tobacco-trading hub and has been shaped by its proximity to Fort Campbell, one of the largest military installations in the United States, which straddles the Tennessee-Kentucky border.

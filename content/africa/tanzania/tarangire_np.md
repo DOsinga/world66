@@ -13,6 +13,10 @@ image: tarangire_np.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Tarangine_(62).jpg
 image_license: CC BY-SA 2.0
 image_attribution: xorge
+heritage: 1.3
+vibrancy: 0.7
+nature: 7.5
+off_the_beaten_track: 4.9
 ---
 
 Tarangire National Park lies northeast of Babati in northern Tanzania, a landscape of gently rolling savannah studded with ancient baobab trees and scattered acacias. The park is said to have the densest elephant population in Africa, and during the dry season (June to October) the concentration of wildlife along the Tarangire River is extraordinary — elephants, buffalo, wildebeest, zebra, giraffe, lion and a remarkable number of oryx all converge on the permanent water.

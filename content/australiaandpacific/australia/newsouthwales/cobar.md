@@ -20,6 +20,10 @@ sources:
 title: Cobar
 type: location
 wikidata: Q1104537
+heritage: 4.3
+vibrancy: 1.8
+nature: 4.0
+off_the_beaten_track: 6.0
 ---
 
 Cobar is a red-dust mining town in the middle of western New South Wales, the kind of place where the highway, the pub verandahs, and the open-cut mines all feel part of the same story. It began with copper in the 19th century and still looks outward to the mines and the dry country around them.

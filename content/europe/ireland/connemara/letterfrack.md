@@ -17,6 +17,10 @@ sources:
 title: Letterfrack
 type: location
 wikidata: Q1821184
+heritage: 6.5
+vibrancy: 2.3
+nature: 6.7
+off_the_beaten_track: 4.7
 ---
 
 Letterfrack is a tiny Connemara village with an outsized claim on a traveller's day. The houses cluster around the N59 west of the Twelve Bens, but the real reason to stop is what sits within walking or short driving distance: Connemara National Park, the Diamond Hill loop, and Kylemore Abbey.

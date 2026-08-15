@@ -14,6 +14,10 @@ snippet: Southeast Phuket waterfront district where Wat Chalong and Chalong Pier
   the island's working side
 title: Chalong
 type: location
+heritage: 1.7
+vibrancy: 5.5
+nature: 5.8
+off_the_beaten_track: 1.4
 ---
 
 Chalong sits in the southeast of Phuket, well away from the tourist circus of Patong. It's a working waterfront district — functional, a little rough, and genuinely Thai in character. Plenty of expats have settled here precisely because it feels like real life rather than a resort. [Wat Chalong](/asia/thailand/phuket/chalong/wat_chalong), the most important Buddhist temple on the island, is here.

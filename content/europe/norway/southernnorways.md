@@ -13,6 +13,10 @@ image: southernnorways.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Arendal_Utsikt_02.JPG
 image_license: CC BY 2.5
 image_attribution: Karl Ragnar Gjertsen
+heritage: 3.8
+vibrancy: 3.9
+nature: 7.2
+off_the_beaten_track: 1.9
 ---
 
 You might call it Norway's Riviera. The southern coast — traditionally known as Sørlandet, and since a 2020 county merger officially part of Agder — has the mildest climate in the country. It's a run of old fishing villages and white-wooden harbour towns strung along a sunny coastline of islands, coves, and archipelagos. Whether strolling the harbours, sailing among the skerries, or hiking and fishing in the forested interior, Sørlandet is Norway at its most relaxed.

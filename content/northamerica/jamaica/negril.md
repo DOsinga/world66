@@ -13,6 +13,10 @@ snippet: West Jamaica beach town split between Seven Mile Beach and limestone su
   cliffs
 title: Negril
 type: location
+heritage: 2.7
+vibrancy: 5.5
+nature: 7.9
+off_the_beaten_track: 1.8
 ---
 
 Negril is at the far western tip of Jamaica, about 80 km from Montego Bay along the north coast highway. It splits into two distinct areas: the seven-mile beach on the east side of the headland, and the West End cliffs on the west.

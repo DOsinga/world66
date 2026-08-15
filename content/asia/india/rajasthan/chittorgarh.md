@@ -14,6 +14,10 @@ snippet: Rajasthani fort city dominated by India's largest fort, a vast plateau 
   palaces, temples, and towers.
 title: Chittorgarh
 type: location
+heritage: 7.6
+vibrancy: 4.4
+nature: 4.3
+off_the_beaten_track: 2.5
 ---
 
 [Chittorgarh Fort](/asia/india/rajasthan/chittorgarh/chittorgarh_fort) is the largest fort in India, sprawling across a 180-metre-high plateau for over 13 km in circumference. It is also the most historically charged site in Rajasthan — the fort was besieged three times, and each defeat ended with the women performing jauhar (mass self-immolation) rather than face capture.

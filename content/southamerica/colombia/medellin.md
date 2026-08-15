@@ -16,6 +16,10 @@ title: Medellin
 type: location
 snippet: Andean valley city transformed by metro cable cars, Paisa culture, and mild
   mountain weather.
+heritage: 8.8
+vibrancy: 6.4
+nature: 4.0
+off_the_beaten_track: 2.9
 ---
 
 Medellin is the most striking Colombian city to visit. Once the most dangerous city in the world — Pablo Escobar's Medellin cartel ran it through the late 1980s — it has transformed itself more dramatically than almost any other place on the continent. The cable cars that climb from the metro stations up the valley walls to the once-forgotten barrios are a civic symbol, but the real change is in the street: Paisas, as locals call themselves, have thrown themselves at the project of reinvention.

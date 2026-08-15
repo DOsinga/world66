@@ -13,6 +13,10 @@ title: Herculaneum
 snippet: Roman resort town buried by Vesuvius, where carbonised wood, food, and furniture
   survived beneath pyroclastic flows.
 type: location
+heritage: 8.2
+vibrancy: 3.9
+nature: 3.7
+off_the_beaten_track: 2.5
 ---
 
 *Europe > Italy > Campania > Herculaneum*

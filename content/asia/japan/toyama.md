@@ -16,6 +16,10 @@ image: toyama.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Toyama_city_%26_Alps.jpg
 image_license: CC BY-SA 3.0
 image_attribution: 名古屋太郎
+heritage: 4.2
+vibrancy: 5.4
+nature: 6.9
+off_the_beaten_track: 2.0
 ---
 
 Toyama sits between Toyama Bay and the mountains of the Northern Alps, and it works best when you treat it as more than a transfer point for the Tateyama Kurobe Alpine Route. The city has a neat tram system, a serious glass-art scene, canals, old port streets, and some of the best mountain backdrops of any city on the Sea of Japan coast.

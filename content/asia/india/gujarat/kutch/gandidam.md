@@ -13,6 +13,10 @@ score: 5.66
 snippet: Planned Kutch city built for Sindhi refugees and tied to Kandla's port trade.
 title: Gandhidham
 type: location
+heritage: 2.3
+vibrancy: 2.4
+nature: 1.9
+off_the_beaten_track: 2.8
 ---
 
 Gandhidham is a planned city in [Kutch](/asia/india/gujarat/kutch), built in the 1950s to resettle refugees from Sindh after Partition. Unlike the ancient towns of the region, Gandhidham was designed on a grid and has a distinctly modern, commercial feel. It is the main railway junction for Kutch and the economic engine of the district, handling much of the trade flowing through the nearby port of [Kandla](/asia/india/gujarat/kutch/kandla).

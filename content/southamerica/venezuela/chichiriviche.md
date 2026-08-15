@@ -10,6 +10,10 @@ snippet: Small Venezuelan coastal town and main gateway to the cays of Morrocoy 
   Park
 title: Chichiriviche
 type: location
+heritage: 2.6
+vibrancy: 3.1
+nature: 5.9
+off_the_beaten_track: 5.8
 ---
 
 Chichiriviche is a small coastal town on Venezuela's northwest coast, serving as the main gateway to [Morrocoy National Park](/southamerica/venezuela/chichiriviche/morrocoy_national_park). The park protects a scattering of small islands and cays — Cayo Borracho, [Cayo Pelón](/southamerica/venezuela/chichiriviche/cayo_pelon), [Cayo Sal](/southamerica/venezuela/chichiriviche/cayo_sal), Playuela, and Peraza among them — with white sand, clear water, and mangrove channels. The best-known cay, [Cayo Sombrero](/southamerica/venezuela/chichiriviche/cayo_sombrero), has shaded beaches and a few rustic shacks for grilled fish.

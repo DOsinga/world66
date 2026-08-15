@@ -10,6 +10,10 @@ snippet: Upper Bavarian town in the Pfaffenwinkel, surrounded by baroque churche
   and Alpine viewpoints.
 title: Peiting
 type: location
+heritage: 4.7
+vibrancy: 2.0
+nature: 5.9
+off_the_beaten_track: 2.2
 ---
 
 Peiting is a small town in the Pfaffenwinkel, the "priests' corner" of Upper Bavaria between the Lech and Ammer rivers. The name suits the landscape — this rolling green countryside south of Munich is dotted with baroque churches and pilgrimage sites.

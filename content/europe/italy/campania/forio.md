@@ -16,6 +16,10 @@ tags:
 - ischia
 title: Forio
 type: location
+heritage: 4.6
+vibrancy: 4.8
+nature: 5.7
+off_the_beaten_track: 3.0
 ---
 
 Forio is the second-largest town on [Ischia](/europe/italy/campania/ischia), spread along the western coast between two promontories with some of the island's best beaches and vineyards. It has the best-preserved historic centre on the island — a tight network of whitewashed lanes, watchtowers, and churches that has barely changed in centuries.

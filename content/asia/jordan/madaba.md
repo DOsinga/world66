@@ -14,6 +14,10 @@ snippet: Jordanian mosaic town south of Amman, famous for the Byzantine Madaba M
   of the Holy Land.
 title: Madaba
 type: location
+heritage: 7.8
+vibrancy: 3.6
+nature: 3.8
+off_the_beaten_track: 3.2
 ---
 
 Madaba is just 30 km south of [Amman](/asia/jordan/amman) and makes a perfect day trip. The town is famous for its stunningly beautiful Byzantine-era mosaics, above all the [Madaba Map](/asia/jordan/madaba/madaba_map) — a 6th-century mosaic map of Palestine and the Holy Land, the oldest surviving cartographic depiction of the region.

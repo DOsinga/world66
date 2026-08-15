@@ -16,6 +16,10 @@ snippet: Working western Montana city on the Yellowstone River, edged by the san
   Rimrocks above the plains.
 title: Billings
 type: location
+heritage: 4.5
+vibrancy: 4.7
+nature: 5.5
+off_the_beaten_track: 4.2
 ---
 
 Billings is Montana's largest city and the hub of the Yellowstone Valley. Known as the "Magic City" for the speed at which it sprang up after the Northern Pacific Railway arrived in 1882, it still carries that frontier energy — a working western city where rodeo is not a novelty act and the landscape beyond the city limits is genuinely vast.

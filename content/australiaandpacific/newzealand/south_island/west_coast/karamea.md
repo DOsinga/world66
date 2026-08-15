@@ -17,6 +17,10 @@ image: karamea.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Karamea_River,_Wangapeka_Track,_Kahurangi_National_Park,_New_Zealand.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Michal Klajban
+heritage: 4.1
+vibrancy: 1.1
+nature: 7.7
+off_the_beaten_track: 6.3
 ---
 
 Karamea is the end-of-the-road settlement at the northern edge of the West Coast, backed by Kahurangi National Park and faced by the Tasman Sea. It is remote even by West Coast standards, which is exactly why it works: rainforest, limestone, river flats, wide beaches, and very little hurry.

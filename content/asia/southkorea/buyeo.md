@@ -7,7 +7,8 @@ latitude: 36.275658
 loc_type: city
 longitude: 126.909775
 score: 7.02
-snippet: Quiet former Baekje capital with UNESCO fortress ruins, royal tombs, lotus ponds, and museums.
+snippet: Quiet former Baekje capital with UNESCO fortress ruins, royal tombs, lotus
+  ponds, and museums.
 sources:
 - https://en.wikivoyage.org/wiki/Buyeo
 - https://whc.unesco.org/en/list/1477/
@@ -15,6 +16,10 @@ sources:
 title: Buyeo
 type: location
 wikidata: Q50247
+heritage: 5.8
+vibrancy: 2.8
+nature: 3.0
+off_the_beaten_track: 1.8
 ---
 
 Buyeo is the quietest of Korea's old capitals, and that is a large part of its charm. Known as Sabi when it served as the Baekje capital from 538 until the kingdom fell in 660, it has none of [Seoul](/asia/southkorea/seoul)'s scale or [Gyeongju](/asia/southkorea/gyeongju)'s tourist machinery. What it does have is a compact set of Baekje ruins, museums, tombs, and river walks that still feel connected to the landscape.

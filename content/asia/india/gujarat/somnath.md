@@ -12,6 +12,10 @@ snippet: Arabian Sea pilgrimage town centred on Somnath Temple, one of Shiva's t
   jyotirlingas.
 title: Somnath
 type: location
+heritage: 8.2
+vibrancy: 4.0
+nature: 5.1
+off_the_beaten_track: 2.7
 ---
 
 Somnath is one of India's most sacred pilgrimage sites, home to the [Somnath Temple](/asia/india/gujarat/somnath/somnath_temple), one of the twelve jyotirlingas (shrines of Shiva). The present temple, rebuilt in 1951, stands dramatically on the Arabian Sea coast. The original temple was legendarily wealthy and was destroyed and rebuilt several times over the centuries — the story of each destruction and reconstruction is central to how the site is understood today. The [Somnath Museum](/asia/india/gujarat/somnath/somnath_museum) holds sculptural fragments from the medieval structures and puts the current building in context.

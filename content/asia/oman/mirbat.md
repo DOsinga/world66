@@ -5,14 +5,19 @@ loc_type: city
 latitude: 16.9718
 longitude: 54.7195
 score: 0.32
-snippet: Old Dhofari fishing town with merchant houses, a restored fort, and a hard-edged SAS battle story.
+snippet: Old Dhofari fishing town with merchant houses, a restored fort, and a hard-edged
+  SAS battle story.
 image: mirbat.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mirbat_Oman_Banner.jpg
 image_license: CC BY-SA 3.0
 sources:
-  - https://en.wikivoyage.org/wiki/Mirbat
-  - https://en.wikipedia.org/wiki/Mirbat
-  - https://www.wikidata.org/wiki/Q1938064
+- https://en.wikivoyage.org/wiki/Mirbat
+- https://en.wikipedia.org/wiki/Mirbat
+- https://www.wikidata.org/wiki/Q1938064
+heritage: 4.9
+vibrancy: 1.7
+nature: 5.0
+off_the_beaten_track: 5.9
 ---
 
 Mirbat sits on the Dhofar coast east of [Salalah](/asia/oman/salalah), quieter and rougher-edged than the main city. It was once tied to the frankincense trade and Arabian horse breeding; today it is a fishing town with a small fort, old merchant houses, and empty beaches running out toward the Arabian Sea.

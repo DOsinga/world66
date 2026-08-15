@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Chembra_Peak
 title: Wayanad
 type: location
+heritage: 3.6
+vibrancy: 2.5
+nature: 7.9
+off_the_beaten_track: 4.3
 ---
 
 Wayanad is a hilly district in the northeastern corner of Kerala, set on an elevated plateau in the Western Ghats. It is quieter and less touristy than [Munnar](/asia/india/kerala/munnar), with rolling hills, thick forests, spice plantations and a strong tribal culture that gives it a character of its own.

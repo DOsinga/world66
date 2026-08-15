@@ -18,6 +18,10 @@ image: montebello.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Montebello_QC.jpg
 image_license: CC BY-SA 3.0
 image_attribution: P199
+heritage: 3.1
+vibrancy: 3.0
+nature: 4.7
+off_the_beaten_track: 1.8
 ---
 
 Montebello is a small Ottawa River village with more travel weight than its size suggests. It sits between Gatineau and Montreal, with the old Papineau estate on one side, the huge log silhouette of the Chateau Montebello on the other, and Parc Omega's wildlife drive just outside town.

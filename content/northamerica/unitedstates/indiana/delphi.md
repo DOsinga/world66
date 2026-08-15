@@ -10,6 +10,10 @@ snippet: Small Indiana county seat with a limestone courthouse and preserved can
   streets around Deer Creek
 title: Delphi
 type: location
+heritage: 2.0
+vibrancy: 2.1
+nature: 2.3
+off_the_beaten_track: 1.4
 ---
 
 Delphi is a small county seat on Deer Creek in central Indiana, about 100 kilometres northwest of Indianapolis. Named for the Greek oracle, the town has a population of around 3,000 and serves as the quiet hub of Carroll County.

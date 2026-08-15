@@ -5,11 +5,16 @@ loc_type: city
 latitude: 50.951583
 longitude: -114.5595
 score: 6.9
-snippet: Foothills hamlet west of Calgary with river parks, trailheads, and easy Kananaskis access.
+snippet: Foothills hamlet west of Calgary with river parks, trailheads, and easy Kananaskis
+  access.
 country: Canada
 sources:
-  - https://en.wikivoyage.org/wiki/Bragg_Creek
-  - https://en.wikipedia.org/wiki/Bragg_Creek
+- https://en.wikivoyage.org/wiki/Bragg_Creek
+- https://en.wikipedia.org/wiki/Bragg_Creek
+heritage: 1.7
+vibrancy: 1.6
+nature: 7.3
+off_the_beaten_track: 3.5
 ---
 
 Bragg Creek sits where Calgary's western edge gives way to ranch country, spruce woods, and the first serious folds of the Rockies foothills. It is small, but it has a clear job: an easy day out for Calgarians and a softer entry to Kananaskis Country than Banff's busy main corridor.

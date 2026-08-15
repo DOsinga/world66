@@ -14,6 +14,10 @@ image: stornoway.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bayhead,_Stornoway_(geograph_2621877).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Colin Smith
+heritage: 7.0
+vibrancy: 1.4
+nature: 7.3
+off_the_beaten_track: 6.4
 ---
 
 Stornoway is the only real town in the [Outer Hebrides](/europe/unitedkingdom/scotland/western_isles__th), a working harbour that can feel almost urban after days of peat moor, machair, and single-track roads. The Ullapool ferry lands here, buses fan out across Lewis and Harris, and most visitors pass through at least twice.

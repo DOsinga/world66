@@ -18,6 +18,10 @@ snippet: Working Ligurian port with Europe's largest medieval centre and palaces
 sources:
 - https://en.wikipedia.org/wiki/Genoa
 - https://whc.unesco.org/en/list/1211
+heritage: 6.8
+vibrancy: 5.5
+nature: 5.2
+off_the_beaten_track: 2.0
 ---
 
 Genoa is Italy's most underrated city. While tourists crowd Florence and Venice, Genoa goes quietly about its business — a working port that also happens to have the largest medieval city centre in Europe, a cluster of Renaissance palaces that can match any in Italy, and a food culture built around pesto, focaccia, and fresh fish that the rest of the world has been trying to replicate ever since.

@@ -25,6 +25,10 @@ tip: Mykonos is Greece's party island, and prices show it — beach clubs charge
   Watch sunset by the windmills in Little Venice. The 'meltemi' wind can cancel ferries.
 title: Mykonos
 type: location
+heritage: 6.7
+vibrancy: 7.4
+nature: 6.3
+off_the_beaten_track: 1.0
 ---
 
 Mykonos is the most famous party island in Greece, but it is also one of the most photogenic. The main town (Chora) is a maze of whitewashed alleys, blue-domed churches, and bougainvillea-draped balconies tumbling down to a harbour where fishing boats and superyachts share the waterfront. The Cycladic architecture is gorgeous and strictly protected — no neon, no tower blocks, everything dazzling white with splashes of colour.

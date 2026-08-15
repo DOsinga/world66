@@ -10,6 +10,10 @@ snippet: Historic Massachusetts village with 18th-century houses lining a tree-s
   Main Street and academy life.
 title: Old Deerfield
 type: location
+heritage: 5.8
+vibrancy: 2.6
+nature: 2.9
+off_the_beaten_track: 1.9
 ---
 
 Old Deerfield goes way back. In a town first settled in the 1660s, there is plenty of history to absorb. A walk down Main Street takes you past houses built in the 1700s, their dark facades set along a wide, tree-lined road, and past Deerfield Academy, with its flurry of prep-school students. A walk in autumn surrounded by yellow leaves is especially pleasant.

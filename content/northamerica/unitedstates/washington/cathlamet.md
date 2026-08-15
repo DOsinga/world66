@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Julia_Butler_Hansen_Refuge_for_the_Columbian_White-Tailed_Deer
 title: Cathlamet
 type: location
+heritage: 2.8
+vibrancy: 1.4
+nature: 5.8
+off_the_beaten_track: 3.8
 ---
 
 Cathlamet is the county seat of Wahkiakum County — one of the least-populated counties in Washington State — and it shows. About 560 people live here, on a bluff above the Columbia River 35 miles west of Longview on WA-4. The streets are quiet, the downtown compact, and the views across the river to Oregon are the kind that remind you how big this river actually is.

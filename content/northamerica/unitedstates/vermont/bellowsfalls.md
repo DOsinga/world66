@@ -14,6 +14,10 @@ title: Bellows Falls
 type: location
 snippet: Connecticut River village marked by early canals, industrial firsts, and
   Native American petroglyphs.
+heritage: 4.1
+vibrancy: 3.0
+nature: 5.3
+off_the_beaten_track: 2.1
 ---
 
 Bellows Falls is a village of 3,000, 30 minutes north of [Brattleboro](/northamerica/unitedstates/vermont/brattleboro) along the Connecticut River. It was the location of the first bridge across that long river, [one of the first canals in America](/northamerica/unitedstates/vermont/bellowsfalls/bellows_falls_canal) (to get boats past [the falls](/northamerica/unitedstates/vermont/bellowsfalls/great_falls)) and the first commercial plant in the world making paper from wood pulp rather than linen. Above the falls, a set of [Native American petroglyphs](/northamerica/unitedstates/vermont/bellowsfalls/bellows_falls_petroglyphs) is carved into the bedrock — the oldest human marks in the village.

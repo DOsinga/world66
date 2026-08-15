@@ -10,6 +10,10 @@ snippet: North Korean coastal mountain range with forest trails, waterfalls, old
   remains, and Buddhist shrines
 title: Kuwolsan
 type: location
+heritage: 0.9
+vibrancy: 1.8
+nature: 4.8
+off_the_beaten_track: 7.6
 ---
 
 Kuwolsan (Nine Moon Mountain) is a rugged coastal range on the west coast of North Korea, where the Taedong River meets the sea. The mountains rise sharply from the shoreline and offer hiking trails through forest, past waterfalls, and to the remains of an old fortress and several former Buddhist shrines.

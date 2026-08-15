@@ -15,6 +15,10 @@ score: 6.87
 snippet: Gujarati city of Gaekwad palaces, tree-lined avenues, and a strong arts tradition
 title: Vadodara
 type: location
+heritage: 5.6
+vibrancy: 5.4
+nature: 2.6
+off_the_beaten_track: 1.8
 ---
 
 Vadodara -- still commonly called Baroda -- is Gujarat's third-largest city and one of its most pleasant. The legacy of the Gaekwad dynasty, who ruled the princely state of Baroda for over two centuries, is everywhere: grand palaces, wide tree-lined avenues, and a genuine emphasis on education and the arts that persists to this day. It is the kind of Indian city that rewards a slower visit -- not loud, not chaotic, just confident in its own history.

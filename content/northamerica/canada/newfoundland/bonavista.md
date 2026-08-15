@@ -15,6 +15,10 @@ image: bonavista.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bonavista,_Newfoundland.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Sallyledrew
+heritage: 3.1
+vibrancy: 1.4
+nature: 6.0
+off_the_beaten_track: 4.9
 ---
 
 Bonavista sits at the northern tip of its peninsula, where Newfoundland's fishing history, Cabot legends, and cold Atlantic scenery all press together. It is one of the island's great outports: saltbox houses, old churches, wooden flakes for drying cod, and lanes that still feel shaped by the harbour rather than by a planner's map.

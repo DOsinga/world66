@@ -5,14 +5,19 @@ loc_type: city
 latitude: 44.1774
 longitude: -81.6345
 score: 6.3
-snippet: Lake Huron harbour town with a downtown lighthouse, sandy beach, and strong Scottish ritual.
+snippet: Lake Huron harbour town with a downtown lighthouse, sandy beach, and strong
+  Scottish ritual.
 sources:
-  - https://en.wikivoyage.org/wiki/Kincardine_(Ontario)
-  - https://www.destinationontario.com/en-ca/cities-towns/kincardine
-  - https://visitkincardine.ca/things-to-do/
-  - https://www.kincardine.ca/be-active/lighthouse/
-  - https://walkerhousekincardine.com/wp/
+- https://en.wikivoyage.org/wiki/Kincardine_(Ontario)
+- https://www.destinationontario.com/en-ca/cities-towns/kincardine
+- https://visitkincardine.ca/things-to-do/
+- https://www.kincardine.ca/be-active/lighthouse/
+- https://walkerhousekincardine.com/wp/
 wikidata: Q3492582
+heritage: 2.7
+vibrancy: 1.8
+nature: 4.0
+off_the_beaten_track: 3.2
 ---
 
 Kincardine is a Lake Huron town that makes more sense on foot than from the highway. The harbour, beach, marina, and old commercial streets sit close together, with the red-and-white [Kincardine Lighthouse](/northamerica/canada/ontario/kincardine/kincardine_lighthouse) watching the Penetangore River from the edge of downtown.

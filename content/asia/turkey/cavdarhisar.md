@@ -16,6 +16,10 @@ image: cavdarhisar.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aizanoi_Zeus_temple_2116.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Dosseman
+heritage: 5.0
+vibrancy: 2.1
+nature: 3.1
+off_the_beaten_track: 2.7
 ---
 
 Çavdarhisar is a small village on the high plateau south-west of Kütahya. On its own it would be easy to pass by, but the village sits inside the ruins of Aizanoi, one of the strongest Roman sites in inland Turkey.

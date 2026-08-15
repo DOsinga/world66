@@ -11,6 +11,10 @@ image: chogoria_route.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Dendrosenecio_keniensis_mtkenya_12.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Dwergenpaartje
+heritage: 3.4
+vibrancy: 1.5
+nature: 7.5
+off_the_beaten_track: 5.9
 ---
 
 The Chogoria route is the most scenic approach to Mount Kenya, climbing the eastern side of the mountain from the village of Chogoria, an hour south of Meru. The path rises through dense bamboo forest, then montane heath and the bizarre giant lobelias and groundsels of the afroalpine zone, before emerging above the treeline into a landscape of tarns, cliffs, and the great walls of the central peaks.

@@ -12,6 +12,10 @@ snippet: Laguna city of seven volcanic crater lakes, with Sampaloc, Pandin, and 
   shaping its landscape.
 title: San Pablo City
 type: location
+heritage: 3.6
+vibrancy: 2.6
+nature: 3.5
+off_the_beaten_track: 1.8
 ---
 
 San Pablo City in Laguna province, around 100km south of Manila, is known as the "City of Seven Lakes" — seven volcanic crater lakes lie within and around the city, the largest being [Sampaloc Lake](/asia/philippines/sanpablocity/sampaloc_lake) at 104 hectares. Bamboo rafting on the twin lakes of [Pandin and Yambo](/asia/philippines/sanpablocity/pandin_yambo_lakes), cycling around Sampaloc, and visiting lakeside restaurants built over the water are the main draws.

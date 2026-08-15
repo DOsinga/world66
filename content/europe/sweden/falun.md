@@ -10,6 +10,10 @@ title: Falun
 type: location
 snippet: Dalarna capital built around the historic Falun Copper Mine and Sweden's
   red-paint tradition.
+heritage: 3.5
+vibrancy: 2.2
+nature: 5.1
+off_the_beaten_track: 2.5
 ---
 
 Falun is the capital of Dalarna, a Swedish province that prides itself on being the heartland of traditional Swedish culture. The city is best known for the [Falun Copper Mine](/europe/sweden/falun/falun_mine), a UNESCO World Heritage Site that has been worked since at least the 10th century — making it one of the oldest industrial sites in the world still open to visitors.

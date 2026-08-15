@@ -13,6 +13,10 @@ image: hellsgatenp.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Buffaloshellsgate.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Maclemo
+heritage: 2.2
+vibrancy: 1.1
+nature: 7.8
+off_the_beaten_track: 5.8
 ---
 
 Hell's Gate is a small national park near Lake Naivasha with some of the most dramatic geology in Kenya. Unlike most Kenyan parks, you can explore it on foot or by bicycle — there are few large predators here, which means you walk among zebra, giraffe, buffalo, and baboons without the barrier of a vehicle. It gives the place a genuinely different feel.

@@ -13,6 +13,10 @@ image: daisetsuzan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:%E5%A7%BF%E8%A6%8B%E3%83%8E%E6%B1%A0%E3%81%8B%E3%82%89%E3%81%AE%E6%97%AD%E5%B2%B3.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Koda6029
+heritage: 3.1
+vibrancy: 1.5
+nature: 8.4
+off_the_beaten_track: 6.4
 ---
 
 Daisetsuzan is Japan's largest national park, covering over 226,000 hectares of central Hokkaido. The park takes in several mountain groups, active volcanoes, high plateaus, forests, and crater lakes — a genuine wilderness in a country where wilderness is rare.

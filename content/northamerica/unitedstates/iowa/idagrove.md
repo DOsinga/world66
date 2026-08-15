@@ -10,6 +10,10 @@ snippet: Small western Iowa town with castles, a skating rink, and other eccentr
   local landmarks.
 title: Ida Grove
 type: location
+heritage: 1.5
+vibrancy: 1.7
+nature: 2.5
+off_the_beaten_track: 1.7
 ---
 
 Ida Grove has a disproportionate number of attractions for a small Iowa town, thanks largely to one man's eccentric vision. Castles, a palatial skating rink, and a half-scale replica of the HMS *Bounty* dot the landscape — all the legacy of a local businessman who liked to build things. The Moorehead House adds a touch of Victorian grandeur.

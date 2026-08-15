@@ -15,6 +15,10 @@ image: harrodsburg.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Downtown_Harrodsburg_Kentucky_2.jpg
 image_license: CC BY-SA 3.0
 image_attribution: FloNight (Sydney Poore) and Russell Poore
+heritage: 5.5
+vibrancy: 2.8
+nature: 3.4
+off_the_beaten_track: 2.3
 ---
 
 Harrodsburg is one of the better small-town history stops in Kentucky's Bluegrass country. It claims the first permanent English settlement west of the Alleghenies, and while the modern town is quiet, the surrounding countryside gives it more weight than its size suggests.

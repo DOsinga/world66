@@ -13,6 +13,10 @@ snippet: Mahanadi delta town near Cuttack, set where the river divides toward co
   Odisha.
 title: Naraj
 type: location
+heritage: 4.1
+vibrancy: 2.1
+nature: 3.1
+off_the_beaten_track: 3.4
 ---
 
 Naraj sits at the point where the Mahanadi River divides, splitting into the Kathajodi and continuing its course toward the Bay of Bengal. The spot is about 12 km from [Cuttack](/asia/india/orissa/cuttack) and marks the head of the vast Mahanadi delta that defines the geography of coastal [Odisha](/asia/india/orissa).

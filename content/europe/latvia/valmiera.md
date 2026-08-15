@@ -3,9 +3,14 @@ latitude: 57.55
 loc_type: city
 longitude: 25.4
 score: 7.2
-snippet: Vidzeme town on the Gauja with a medieval church, castle ruins, and theatre culture.
+snippet: Vidzeme town on the Gauja with a medieval church, castle ruins, and theatre
+  culture.
 title: Valmiera
 type: location
+heritage: 5.8
+vibrancy: 3.0
+nature: 4.7
+off_the_beaten_track: 1.7
 ---
 
 Valmiera is the main town of northern Vidzeme, set on the Gauja River between Cesis and the Estonian border. It is not as postcard-pretty as Cesis, but it has a stronger working-town feel: students, theatre, river paths, and a compact old centre shaped by medieval Livonian history.

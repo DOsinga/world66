@@ -15,6 +15,10 @@ image: cargese.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cargese-marina.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Pierre Bona
+heritage: 4.9
+vibrancy: 4.3
+nature: 6.7
+off_the_beaten_track: 3.8
 ---
 
 Cargèse is a small west-coast village north of [Ajaccio](/europe/france/corsica/ajaccio), perched above the Gulf of Sagone. It would be pleasant enough for its sea views and beaches, but what makes it stand out is its Greek-Corsican story: descendants of Greek settlers from the Mani peninsula eventually made their home here, leaving the village with two churches facing each other across a little valley.

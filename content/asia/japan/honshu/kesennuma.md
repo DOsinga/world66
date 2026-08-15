@@ -17,6 +17,10 @@ image: kesennuma.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kesennnuma_gyokou.jpg
 image_license: Public domain
 image_attribution: EMPEX
+heritage: 4.1
+vibrancy: 3.3
+nature: 5.5
+off_the_beaten_track: 4.3
 ---
 
 Kesennuma is a working fishing port on the Sanriku Coast, in the far northeast of Miyagi Prefecture. It is not a polished resort town. Its strength is stranger and more serious: a harbour full of seafood, a coast of steep inlets and islands, and a direct memory of the 2011 tsunami that reshaped the city.

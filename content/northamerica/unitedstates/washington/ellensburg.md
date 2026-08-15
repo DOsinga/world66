@@ -14,6 +14,10 @@ snippet: Kittitas Valley city with rodeo roots, a brick downtown, and Central Wa
   University energy
 title: Ellensburg
 type: location
+heritage: 3.7
+vibrancy: 4.1
+nature: 5.9
+off_the_beaten_track: 2.8
 ---
 
 The small city of Ellensburg is often overlooked by travellers in Washington State, which is a shame. Just two hours over Snoqualmie Pass on I-90 from Seattle, nestled on the floor of the picturesque Kittitas Valley, it has an appealing character that comes from the unlikely mix of a stalwart farming community and the lively student population of [Central Washington University](/northamerica/unitedstates/washington/ellensburg/central_washington_university).

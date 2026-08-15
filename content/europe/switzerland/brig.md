@@ -16,6 +16,10 @@ image: brig.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Stockalper_Palace.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Sinistra
+heritage: 4.0
+vibrancy: 2.7
+nature: 6.3
+off_the_beaten_track: 2.9
 ---
 
 Brig is easy to dismiss as a rail junction, because trains to Zermatt, Milan, Andermatt, and the Glacier Express all pass through or near here. Stay a little longer and the town explains why routes mattered so much: it sits below the Simplon, where Alpine crossing, trade, military roads, and rail tunnels all meet.

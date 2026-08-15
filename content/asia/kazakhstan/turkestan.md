@@ -14,6 +14,10 @@ snippet: Southern Kazakh pilgrimage city anchored by Timur's unfinished Mausoleu
   of Khoja Ahmed Yasawi.
 title: Turkestan
 type: location
+heritage: 5.5
+vibrancy: 1.0
+nature: 7.2
+off_the_beaten_track: 6.8
 ---
 
 Turkestan is the spiritual heart of Kazakhstan and one of the most important pilgrimage sites in Central Asia. The city's centrepiece is the Mausoleum of Khoja Ahmed Yasawi, a massive, unfinished 14th-century structure commissioned by Timur himself. It is Kazakhstan's first UNESCO World Heritage Site and draws pilgrims from across the Turkic world — three visits here are said to equal one hajj to Mecca.

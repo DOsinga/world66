@@ -14,6 +14,10 @@ image: lanquin.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Esgl%C3%A8sia_de_Lanquin.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Unknown
+heritage: 5.1
+vibrancy: 1.0
+nature: 7.8
+off_the_beaten_track: 6.5
 ---
 
 Lanquín is a small Q'eqchi' Maya town in Alta Verapaz, set in a hot green valley east of Cobán. It is not polished, and the road in can be slow, but it has one strong reason to exist on a travel map: it is the nearest village base for [Semuc Champey](/northamerica/guatemala/lanquin/semuc_champey), one of Guatemala's best natural sights.

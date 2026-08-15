@@ -14,6 +14,10 @@ snippet: Northwestern Alberta hub in Peace Country, shaped by farming, forestry,
   and the road north.
 title: Grande Prairie
 type: location
+heritage: 2.2
+vibrancy: 2.5
+nature: 5.1
+off_the_beaten_track: 3.8
 ---
 
 Grande Prairie is the largest city in northwestern Alberta, a regional hub of about 65,000 people set in the Peace Country — a broad, rolling agricultural landscape that feels far removed from the Rocky Mountain scenery most visitors associate with the province. The economy runs on oil and gas, forestry, and farming, and the city has a practical, working character.

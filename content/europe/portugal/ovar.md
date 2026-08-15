@@ -5,16 +5,21 @@ loc_type: city
 latitude: 40.8667
 longitude: -8.6333
 score: 7.0
-snippet: Atlantic Portuguese city known for tiled churches, azulejo facades, beaches, and carnival.
+snippet: Atlantic Portuguese city known for tiled churches, azulejo facades, beaches,
+  and carnival.
 wikidata: Q404261
 sources:
-  - https://en.wikivoyage.org/wiki/Ovar
-  - https://www.centerofportugal.com/tours
-  - https://www.wikidata.org/wiki/Q404261
+- https://en.wikivoyage.org/wiki/Ovar
+- https://www.centerofportugal.com/tours
+- https://www.wikidata.org/wiki/Q404261
 image: ovar.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Igreja_de_Valega.jpg
 image_license: CC BY-SA 4.0
 image_attribution: PauloGarciaMartins
+heritage: 4.5
+vibrancy: 2.5
+nature: 3.8
+off_the_beaten_track: 3.2
 ---
 
 Ovar is a workaday city between Porto and Aveiro with a better visual identity than many larger stops. Its streets and churches show off azulejos with real confidence, from blue-and-white facades in the centre to the almost glowing tiled exterior of Válega's church.

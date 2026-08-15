@@ -9,6 +9,10 @@ score: 7.81
 loc_type: feature
 snippet: Vietnamese national park of primary tropical forest, rare primates, ancient
   caves, and limestone karst.
+heritage: 1.9
+vibrancy: 1.0
+nature: 7.6
+off_the_beaten_track: 4.3
 ---
 
 Cuc Phuong is Vietnam's oldest national park, established in 1962 and covering 222 square kilometres of primary tropical forest about 120 km south of Hanoi. The park shelters an extraordinary diversity of plant and animal life, including several species found nowhere else — among them the Delacour's langur, one of the rarest primates on earth.

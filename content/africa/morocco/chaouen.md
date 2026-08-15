@@ -14,6 +14,10 @@ snippet: Blue-washed Rif Mountains town whose hillside medina climbs beneath Che
   twin rocky peaks
 title: Chefchaouen
 type: location
+heritage: 6.9
+vibrancy: 5.6
+nature: 6.7
+off_the_beaten_track: 4.2
 ---
 
 Chefchaouen — usually shortened to Chaouen — is a small, blue-washed town tucked into the Rif Mountains of northern Morocco. The name means "look at the peaks," and it lives up to it: the medina climbs a hillside beneath two rocky horns (the chaouen themselves), every wall and staircase painted in shades of cobalt, sky, and powder blue. The effect is dreamlike and, these days, heavily photographed, but the town has kept its scale and its rhythm — children still greet you in Spanish, old men play cards in shaded squares, and by ten at night the medina is quiet.

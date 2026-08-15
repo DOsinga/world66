@@ -15,6 +15,10 @@ image: ozurgeti.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ozurgeti_Dramatic_Theatre.JPG
 image_license: CC BY-SA 3.0
 image_attribution: გრიგოლ
+heritage: 5.3
+vibrancy: 3.0
+nature: 3.8
+off_the_beaten_track: 4.0
 ---
 
 Ozurgeti is the small capital of Guria, a green, humid corner of western Georgia between the Black Sea and the Lesser Caucasus. It is not as immediately rewarding as [Batumi](/europe/georgia/batumi), but it gives a more local look at Guria: tea, old churches, market-town life, and wooded hills rising just beyond the streets.

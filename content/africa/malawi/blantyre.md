@@ -10,6 +10,10 @@ snippet: Malawi's commercial capital, spread across southern hills and named for
   Livingstone's birthplace.
 title: Blantyre
 type: location
+heritage: 4.5
+vibrancy: 4.2
+nature: 5.6
+off_the_beaten_track: 4.1
 ---
 
 Blantyre is the commercial capital of [Malawi](/africa/malawi) and its largest city, spread across a series of hills in the southern part of the country. While [Lilongwe](/africa/malawi/lilongwe) serves as the political capital, Blantyre is where business happens -- and where most travellers pass through on their way to or from the south.

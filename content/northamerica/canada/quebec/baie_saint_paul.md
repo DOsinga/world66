@@ -6,11 +6,16 @@ latitude: 47.4411
 longitude: -70.5069
 wikidata: Q139231
 score: 7.7
-snippet: Charlevoix art town on the Gouffre River, with galleries, river light, and mountain views.
+snippet: Charlevoix art town on the Gouffre River, with galleries, river light, and
+  mountain views.
 sources:
 - https://en.wikivoyage.org/wiki/Baie-Saint-Paul
 - https://en.wikipedia.org/wiki/Baie-Saint-Paul
 - https://www.tourisme-charlevoix.com/en/cities-villages/baie-saint-paul
+heritage: 4.8
+vibrancy: 3.6
+nature: 6.4
+off_the_beaten_track: 2.1
 ---
 
 Baie-Saint-Paul is Charlevoix at its most approachable: a compact art town in a bowl of hills, where the Gouffre River runs down to the St. Lawrence and the main streets are lined with galleries, cafes, old houses, and local food shops.

@@ -10,6 +10,10 @@ snippet: Manipur hill town on the old Imphal-Burma road, where the highway opens
   the valley.
 title: Tengnoupal
 type: location
+heritage: 3.7
+vibrancy: 1.9
+nature: 5.2
+off_the_beaten_track: 6.3
 ---
 
 Tengnoupal is a small hill town in the Manipur highlands, about 70 km south of [Imphal](/asia/india/manipur/imphal) on the NH102 — the road that follows the old Imphal-Burma route toward Myanmar. It sits near the highest point on this stretch of road, around 1,450 metres above sea level, with wide views over the Manipur valley stretching north toward the capital.

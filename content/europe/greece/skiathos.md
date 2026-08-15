@@ -19,6 +19,10 @@ sources:
 - https://en.wikipedia.org/wiki/Koukounaries
 title: Skiathos
 type: location
+heritage: 3.7
+vibrancy: 5.7
+nature: 7.1
+off_the_beaten_track: 3.0
 ---
 
 Skiathos is the most developed of the Sporades islands, and for good reason — it has over sixty beaches, most of them sandy, many of them backed by dense pine forest that runs right down to the waterline. It is a small island, just 12 kilometres long, but it packs in enough coastline to keep a beach-hopper busy for weeks.

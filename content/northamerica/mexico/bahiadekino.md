@@ -14,6 +14,10 @@ snippet: Quiet Sonoran beach town on the Sea of Cortez, facing Isla Tiburón acr
   Kino Bay.
 title: Bahia De Kino
 type: location
+heritage: 2.7
+vibrancy: 3.8
+nature: 5.9
+off_the_beaten_track: 3.9
 ---
 
 Bahia de Kino is where the Sonoran Desert meets the Sea of Cortez -- a quiet beach town with none of the disco-and-resort glitz of Cabo or Cancun. The sunsets alone are worth the trip.

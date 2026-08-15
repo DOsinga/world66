@@ -16,6 +16,10 @@ image: ogaki.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ogaki_Castle_-_2.jpg
 image_license: CC BY-SA 4.0
 image_attribution: KKPCW
+heritage: 3.9
+vibrancy: 2.8
+nature: 3.7
+off_the_beaten_track: 1.6
 ---
 
 Ogaki is a castle and canal city in Gifu Prefecture, west of Nagoya and close to the Sekigahara pass. It is not one of Japan's great old towns, but it has a clear identity: water, lowland castle history, and Matsuo Basho, who ended the journey later published as *The Narrow Road to the Deep North* here.

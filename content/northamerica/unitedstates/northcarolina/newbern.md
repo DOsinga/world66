@@ -5,7 +5,8 @@ loc_type: city
 latitude: 35.108333
 longitude: -77.044444
 score: 6.6
-snippet: Colonial North Carolina river town with Tryon Palace, old streets, and the birthplace of Pepsi.
+snippet: Colonial North Carolina river town with Tryon Palace, old streets, and the
+  birthplace of Pepsi.
 wikidata: Q1002490
 sources:
 - https://en.wikivoyage.org/wiki/New_Bern
@@ -18,6 +19,10 @@ image: newbern.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Tryon_Palace.JPG
 image_license: Public domain
 image_attribution: Smallbones
+heritage: 5.4
+vibrancy: 3.1
+nature: 3.9
+off_the_beaten_track: 1.5
 ---
 
 New Bern sits where the Neuse and Trent rivers meet, a small eastern North Carolina town with more history than its quiet waterfront first suggests. It was North Carolina's first permanent colonial capital, and the restored [Tryon Palace](/northamerica/unitedstates/northcarolina/newbern/tryon_palace) still gives the town its anchor.

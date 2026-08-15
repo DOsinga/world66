@@ -10,6 +10,10 @@ snippet: Equator-straddling Kenyan market town beneath Mount Kenya, used as a ba
   for Sirimon treks.
 title: Nanyuki
 type: location
+heritage: 3.1
+vibrancy: 3.2
+nature: 7.5
+off_the_beaten_track: 4.1
 ---
 
 Nanyuki sits at about 1,900 metres on the northwestern slopes of [Mount Kenya](/africa/kenya/nationalparksandreserves/mountkenyanp), straddling the equator — there is a sign on the main road marking the exact line. It is a market town of some size, with a distinctly military character thanks to the large British Army training base nearby, and it serves as the main gateway for the Sirimon and Burguret trekking routes onto the mountain.

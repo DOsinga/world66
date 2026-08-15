@@ -14,6 +14,10 @@ snippet: Colorado River desert city where Arizona, California, and Mexico meet a
   a historic crossing.
 title: Yuma
 type: location
+heritage: 4.3
+vibrancy: 2.7
+nature: 4.6
+off_the_beaten_track: 2.8
 ---
 
 Yuma sits in the southwest corner of Arizona, a desert town on the Colorado River where the state borders both California and Mexico. It's hot — often the hottest place in the US in summer — and dusty, but there's real history here and a slower-paced feel than Phoenix or Tucson.

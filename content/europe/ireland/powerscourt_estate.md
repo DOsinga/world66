@@ -16,6 +16,10 @@ tags:
 title: Powerscourt Estate & Gardens
 type: location
 url: www.powerscourt.ie
+heritage: 7.1
+vibrancy: 1.7
+nature: 5.6
+off_the_beaten_track: 2.1
 ---
 
 One of the great country estates of Ireland, set against the backdrop of Sugar Loaf Mountain about 20 km south of Dublin in Co. Wicklow. The Palladian mansion dates to the 1730s and was gutted by fire in 1974; the ground floor has been restored and now houses shops, a cafe, and an exhibition on the house's history.

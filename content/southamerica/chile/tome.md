@@ -7,6 +7,10 @@ snippet: Seaside town north of Concepción built around a ruined textile factory
   two crescent beaches.
 title: Tomé
 type: location
+heritage: 4.4
+vibrancy: 3.8
+nature: 5.5
+off_the_beaten_track: 4.7
 ---
 
 Tomé is a small coastal town about an hour north of Concepción, facing the Pacific at the mouth of a small river. It is best known in Chile for the Bellavista-Tomé textile factory, founded in 1865 and once the largest in the country. The factory closed in 2007, and its shuttered complex still dominates the seafront — a hulking industrial relic slowly rusting behind a wire fence, with a handful of the old worker's houses surviving in the streets above.

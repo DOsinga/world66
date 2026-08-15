@@ -14,6 +14,10 @@ snippet: Zimbabwe's second city and Matabeleland capital, with wide colonial str
   and Ndebele history close by
 title: Bulawayo
 type: location
+heritage: 5.8
+vibrancy: 5.2
+nature: 5.8
+off_the_beaten_track: 4.8
 ---
 
 Bulawayo is Zimbabwe's second largest city, with a population of around 700,000, and the economic and cultural capital of Matabeleland. It's a slower, more relaxed city than Harare — the wide tree-lined streets were laid out on a generous colonial grid, and the pace of life in the city centre has a certain unhurried quality that Harare lost some time ago. The city was founded in 1894 on the site of King Lobengula's royal kraal after the defeat of the Matabele kingdom, and the [Natural History Museum of Zimbabwe](/africa/zimbabwe/bulawayo/natural_history_museum) here has strong collections covering the archaeology, natural history, and history of Zimbabwe's peoples.

@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Liaoyuan
 title: Liaoyuan
 type: location
+heritage: 1.6
+vibrancy: 1.9
+nature: 2.0
+off_the_beaten_track: 1.4
 ---
 
 Liaoyuan occupies the geographic centre of Jilin Province, in the hills south of Changchun, and has the identity of a coal-mining city that is working out what to do with itself in a post-coal era. The mines that drove its twentieth-century growth are largely exhausted, and the city has the somewhat transitional character common to resource towns that peaked decades ago and are now diversifying into lighter industry and services. This is not unusual in northeastern China, but it gives Liaoyuan a particular texture — older industrial infrastructure alongside newer development, a working population that remembers when the mines were running, a landscape marked by decades of extraction.

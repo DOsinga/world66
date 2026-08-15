@@ -14,6 +14,10 @@ snippet: Sunny South Island city where coastal plains meet three national parks 
   the top of New Zealand.
 title: Nelson
 type: location
+heritage: 2.7
+vibrancy: 3.2
+nature: 7.4
+off_the_beaten_track: 2.8
 ---
 
 Nelson sits at the top of the South Island, where the Southern Alps drop down to a wide coastal plain and three national parks press in from different directions. It is one of the sunniest places in New Zealand — the region consistently records the country's highest sunshine hours — which goes some way to explaining the produce, the art, and the general mood of the place.

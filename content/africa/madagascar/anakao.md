@@ -10,6 +10,10 @@ snippet: Vezo fishing village on Madagascar's southwest coast, facing a reef-pro
   turquoise lagoon
 title: Anakao
 type: location
+heritage: 1.6
+vibrancy: 1.0
+nature: 8.0
+off_the_beaten_track: 6.9
 ---
 
 Anakao is a small Vezo fishing village on Madagascar's southwest coast, about 45 kilometres south of [Toliara](/africa/madagascar/toliara). It sits on a long white sand beach facing a turquoise lagoon protected by a coral reef — one of the most beautiful stretches of coast on the island.

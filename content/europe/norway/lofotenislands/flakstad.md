@@ -14,6 +14,10 @@ snippet: Quiet Lofoten municipality of fishing hamlets, Arctic beaches, and wood
   churches along the E10 road.
 title: Flakstad
 type: location
+heritage: 8.0
+vibrancy: 4.4
+nature: 7.8
+off_the_beaten_track: 4.7
 ---
 
 Flakstad is one of the quieter municipalities of the Lofoten Islands, occupying Flakstad Island and the northern tip of Moskenes Island. The outer edge, facing the Arctic Ocean, is where most people live — in fishing hamlets with white-sand beaches, weathered wooden churches, and a pace of life that feels genuinely unhurried. The E10 highway, officially named King Olav V's Road, threads through the municipality on its way south-west.

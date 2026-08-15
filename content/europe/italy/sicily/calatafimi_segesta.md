@@ -16,6 +16,10 @@ image: calatafimi_segesta.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Calatafimi,_Trapani,_Sicily,_Italy_-_panoramio.jpg
 image_license: CC BY-SA 3.0
 image_attribution: trolvag
+heritage: 7.0
+vibrancy: 2.7
+nature: 5.4
+off_the_beaten_track: 3.2
 ---
 
 Calatafimi Segesta is a small inland town in western Sicily whose importance comes from what surrounds it. Just outside town, the ruins of ancient Segesta rise in open hills: a near-complete Doric temple on one slope and a Greek theatre on another, with wide views over the countryside.

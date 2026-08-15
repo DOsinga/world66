@@ -15,6 +15,10 @@ snippet: Baroque planned city whose fan-shaped streets radiate from the palace a
   founder's pyramid.
 title: Karlsruhe
 type: location
+heritage: 6.0
+vibrancy: 5.0
+nature: 2.9
+off_the_beaten_track: 1.8
 ---
 
 Karlsruhe is unlike any other German city in its layout: 32 streets radiate outward from the [Schloss](/europe/germany/badenwrttemberg/karlsruhe/ducal_palace) like spokes from a hub, a Baroque urban plan that gives the city its nickname, "the fan city." At the centre of the market square, a [sandstone pyramid](/europe/germany/badenwrttemberg/karlsruhe/karlsruhe_pyramid) marks the tomb of the city's founder. Founded in 1715 as a grand-ducal residential city, it was built from scratch as an expression of Enlightenment rationalism — the geometry still legible today on any map.

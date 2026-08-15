@@ -17,6 +17,10 @@ image: grand_manan_island.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Swallowtail_Lighthouse_-_Grand_Manan_Island_NB_2009.jpg
 image_license: CC BY 2.0
 image_attribution: Jake Wellington
+heritage: 4.6
+vibrancy: 1.7
+nature: 7.4
+off_the_beaten_track: 4.0
 ---
 
 Grand Manan Island sits in the Bay of Fundy, south of the New Brunswick mainland and close enough to Maine that the weather, fog, and tides feel larger than the map suggests. The island is not polished. It is a working place of small fishing communities, wharves, dulse drying, ferry schedules, and long quiet roads between cliff edges and coves.

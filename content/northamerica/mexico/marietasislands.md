@@ -16,6 +16,10 @@ image: marietasislands.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Las_Marietas_Island,_Mexico.jpg
 image_license: CC BY-SA 3.0
 image_attribution: ''
+heritage: 2.2
+vibrancy: 1.2
+nature: 8.2
+off_the_beaten_track: 4.8
 ---
 
 The Marietas Islands are a small uninhabited archipelago about 8 kilometres off [Punta Mita](/northamerica/mexico/puntamita), at the mouth of Banderas Bay. Designated a UNESCO biosphere reserve, they form one of the most important seabird breeding sites on the Pacific coast of Mexico: blue-footed boobies, brown pelicans, and frigatebirds all nest here in large numbers. The waters around the islands are equally rich, with reef systems where manta rays, sea turtles, and dolphins are regularly sighted, and they drew Jacques Cousteau to film here in the 1960s.

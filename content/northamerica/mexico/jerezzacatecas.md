@@ -14,6 +14,10 @@ title: Jerez Zacatecas
 type: location
 snippet: Colonial Zacatecas town of pink-stone streets, arcaded plazas, and poet Ramón
   López Velarde's legacy.
+heritage: 4.7
+vibrancy: 2.8
+nature: 3.5
+off_the_beaten_track: 3.0
 ---
 
 Jerez de García Salinas is a small colonial town in the state of Zacatecas in northern Mexico, about an hour's drive south-west of [Zacatecas city](/northamerica/mexico/zacatecas). It is a well-preserved example of a provincial Mexican colonial town — a central [plaza](/northamerica/mexico/jerezzacatecas/plaza_de_armas) lined with arcaded buildings, a fine parish church, and streets of pink stone that give the whole place a warm, unhurried character.

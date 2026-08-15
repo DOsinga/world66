@@ -5,11 +5,16 @@ loc_type: city
 latitude: 64.2597
 longitude: 23.9486
 score: 6.7
-snippet: Bothnian Bay town known for broad sand dunes, offshore fishing islands and old Plassi.
+snippet: Bothnian Bay town known for broad sand dunes, offshore fishing islands and
+  old Plassi.
 sources:
-  - https://en.wikivoyage.org/wiki/Kalajoki
-  - https://www.visitkalajoki.fi/en/
-  - https://www.nationalparks.fi/rahja
+- https://en.wikivoyage.org/wiki/Kalajoki
+- https://www.visitkalajoki.fi/en/
+- https://www.nationalparks.fi/rahja
+heritage: 1.6
+vibrancy: 1.3
+nature: 7.0
+off_the_beaten_track: 4.0
 ---
 
 Kalajoki is a coastal town in Northern Ostrobothnia, best known for Hiekkasärkät, a long sweep of sand dunes and beach on the Bothnian Bay. In Finland, where much of the coast is rock, forest and reed, the place feels almost improbable.

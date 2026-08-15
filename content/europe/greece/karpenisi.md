@@ -14,6 +14,10 @@ title: Karpenisi
 type: location
 snippet: Central Greek mountain town in Evrytania, known for Velouchi skiing and Agrafa
   gorge country.
+heritage: 4.9
+vibrancy: 4.0
+nature: 6.0
+off_the_beaten_track: 4.4
 ---
 
 Karpenisi is the capital of the Evrytania regional unit in central Greece, a mountain town of about 7,000 set among forested peaks in the [Agrafa range](/europe/greece/karpenisi/agrafa_villages). It is one of Greece's main winter sports destinations, with the [Velouchi ski resort](/europe/greece/karpenisi/velouchi_ski_resort) on the slopes above the town. In summer the area attracts hikers drawn to the [Karpenisiotis river gorge](/europe/greece/karpenisi/karpenisiotis_gorge), the nearby village of [Mikro Horio](/europe/greece/karpenisi/mikro_horio) (partly abandoned after a 1963 earthquake), and rafting and kayaking on the [Acheloos](/europe/greece/karpenisi/rafting_acheloos) and Tavropos rivers.

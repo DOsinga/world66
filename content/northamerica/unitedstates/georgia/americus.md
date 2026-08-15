@@ -14,6 +14,10 @@ snippet: Southwest Georgia city in peanut country, used as a base for Andersonvi
   and Plains.
 title: Americus
 type: location
+heritage: 3.5
+vibrancy: 2.6
+nature: 2.0
+off_the_beaten_track: 1.5
 ---
 
 Americus is a small city in southwest Georgia, about 130 miles south of Atlanta. It sits in the heart of Georgia's peanut country, surrounded by flat farmland — not a typical tourist stop, but it earns its place on the map for a few very specific reasons.

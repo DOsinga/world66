@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Conversano_Castle
 title: Conversano
 type: location
+heritage: 6.0
+vibrancy: 4.0
+nature: 4.5
+off_the_beaten_track: 2.1
 ---
 
 Conversano sits on a hill between the Murgia plateau and the Adriatic, surrounded by olive groves and cherry orchards — cherries are a local specialty, celebrated with a festival each June. The town is anchored by a [Norman-era castle](/europe/italy/puglia/conversano/conversano_castle) that now houses a pinacoteca, and a [Romanesque cathedral](/europe/italy/puglia/conversano/cathedral_of_san_benedetto) with an understated facade that belies the age of the place.

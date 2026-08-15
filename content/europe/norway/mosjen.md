@@ -15,6 +15,10 @@ title: Mosjøen
 snippet: Small Vefsfjord town in central Norway, noted for Sjøgata's preserved wooden
   waterfront.
 type: location
+heritage: 4.8
+vibrancy: 3.5
+nature: 6.6
+off_the_beaten_track: 3.4
 ---
 
 Mosjøen is a small town on the Vefsfjord in the geographic heart of Norway, the kind of place that rewards anyone who slows down long enough to notice it. Most travellers pass through on the E6 or the Nordland Railway without stopping — which is their loss. The old waterfront district, [Sjøgata](/europe/norway/mosjen/sjogata), is one of the best-preserved 19th-century wooden streetscapes in northern Norway, and the surrounding landscape of fjords and steep peaks is quietly spectacular.

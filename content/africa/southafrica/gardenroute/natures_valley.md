@@ -5,9 +5,14 @@ loc_type: city
 latitude: -33.98
 longitude: 23.56
 score: 7.3
-snippet: Small Garden Route village where forested Tsitsikamma slopes meet beach, lagoon, and coastal trails.
+snippet: Small Garden Route village where forested Tsitsikamma slopes meet beach,
+  lagoon, and coastal trails.
 source_url: https://en.wikivoyage.org/wiki/Nature%27s_Valley
 source: Wikivoyage
+heritage: 3.6
+vibrancy: 3.5
+nature: 7.6
+off_the_beaten_track: 3.5
 ---
 
 Nature's Valley is a small village on South Africa's [Garden Route](/africa/southafrica/gardenroute), tucked between the Tsitsikamma forest, the Groot River lagoon, and a wide beach. It is quiet by design. You come here for walking, bird calls in the forest, canoe water on the lagoon, and the feeling of being at the end of the road.

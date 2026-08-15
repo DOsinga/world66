@@ -3,9 +3,14 @@ latitude: 43.6603
 loc_type: city
 longitude: 17.7617
 score: 7.4
-snippet: Neretva valley town known for its broken partisan bridge, lake, lamb, and mountain trails
+snippet: Neretva valley town known for its broken partisan bridge, lake, lamb, and
+  mountain trails
 title: Jablanica
 type: location
+heritage: 3.0
+vibrancy: 1.3
+nature: 5.6
+off_the_beaten_track: 3.5
 ---
 
 Jablanica is a small Herzegovinian town in a dramatic place: the Neretva cuts through the valley, Lake Jablanica opens upstream, and the mountains of Prenj and Cvrsnica rise hard on both sides. Most travellers meet it on the road or railway between Sarajevo, Konjic, and Mostar, but it is worth more than a lunch stop.

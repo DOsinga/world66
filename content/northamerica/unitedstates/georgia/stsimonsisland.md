@@ -13,6 +13,10 @@ snippet: Georgia Golden Isle with a residential village feel, seafood restaurant
   and beaches reached by causeway from Brunswick.
 title: St. Simons Island
 type: location
+heritage: 4.0
+vibrancy: 3.3
+nature: 5.9
+off_the_beaten_track: 1.5
 ---
 
 St. Simons Island is one of [Georgia](/northamerica/unitedstates/georgia)'s Golden Isles, accessible from Brunswick by causeway. It's a quieter and more residential alternative to beach resorts further down the coast, with a pleasant village center around [Neptune Park](/northamerica/unitedstates/georgia/stsimonsisland/neptune_park), good seafood restaurants, and beaches that don't get overwhelmingly crowded.

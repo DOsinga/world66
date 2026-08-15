@@ -16,6 +16,10 @@ title: Lambayeque
 type: location
 snippet: Small Peruvian museum town near Chiclayo, known for the gold-rich Royal Tombs
   of Sipán.
+heritage: 7.0
+vibrancy: 2.4
+nature: 3.6
+off_the_beaten_track: 4.5
 ---
 
 Lambayeque is a small town 11km north of [Chiclayo](/southamerica/peru/chiclayo), and the reason to come here is its outstanding museums. Most visitors treat it as a half-day trip from Chiclayo — regular minivans make the short journey.

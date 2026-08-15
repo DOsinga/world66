@@ -16,6 +16,10 @@ image: keszthely.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Festetics-kast%C3%A9ly_Keszthelyen_-_4.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Emőke Dénes
+heritage: 4.2
+vibrancy: 3.8
+nature: 6.2
+off_the_beaten_track: 1.8
 ---
 
 Keszthely is the cultured old town at the western end of [Lake Balaton](/europe/hungary/lakebalaton), where the resort mood of the lakeshore meets aristocratic Hungary. It is less flashy than Siófok and less postcard-pretty than Tihany, but it has the strongest single sight on the lake: [Festetics Palace](/europe/hungary/lakebalaton/keszthely/festetics_palace), a grand Baroque residence with a library, park, and museum complex.

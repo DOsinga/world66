@@ -14,6 +14,10 @@ snippet: Brazilian colonial hill town above the Atlantic, with UNESCO-listed chu
   pastel mansions, and frevo music.
 title: “Olinda”
 type: location
+heritage: 8.0
+vibrancy: 5.0
+nature: 6.5
+off_the_beaten_track: 3.7
 ---
 
 Olinda is a gem. Perched on a cluster of green hills overlooking the Atlantic, this small city just north of [Recife](/southamerica/brazil/recife) has some of the best-preserved colonial architecture in Brazil — enough to earn it UNESCO World Heritage status.

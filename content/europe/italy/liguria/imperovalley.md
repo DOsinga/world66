@@ -14,6 +14,10 @@ snippet: Ligurian inland valley of olive groves, medieval villages, and quiet ro
   behind Imperia.
 title: Impero Valley
 type: location
+heritage: 4.3
+vibrancy: 1.5
+nature: 5.2
+off_the_beaten_track: 3.7
 ---
 
 The Impero Valley runs inland from [Imperia](/europe/italy/liguria/imperia) into the hills behind the coast, a quiet route through olive groves and medieval villages that most coastal visitors never discover. Take the Imperia Est motorway exit and head up through Pontedassio, which has a small pasta museum, and into the olive country beyond.

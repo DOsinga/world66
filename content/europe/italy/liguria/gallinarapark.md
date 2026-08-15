@@ -16,6 +16,10 @@ image: gallinarapark.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Isola_Gallinara-P1010715.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Davide Papalini
+heritage: 2.6
+vibrancy: 1.3
+nature: 6.0
+off_the_beaten_track: 4.1
 ---
 
 Gallinara is a small, densely wooded island sitting about a mile offshore from [Albenga](/europe/italy/liguria/albenga). The name comes from the Latin for "wild hens" — the island apparently swarmed with them in Roman times, and the Latin writers noticed. Today it is a regional nature reserve, and the only way to truly appreciate it is from the water.

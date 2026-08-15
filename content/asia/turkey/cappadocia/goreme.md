@@ -27,6 +27,10 @@ tip: Göreme is the heart of Cappadocia's fairy-chimney landscape, and the dawn 
   highlight.
 title: Göreme
 type: location
+heritage: 9.5
+vibrancy: 5.7
+nature: 6.9
+off_the_beaten_track: 6.5
 ---
 
 Göreme sits in the heart of [Cappadocia](/asia/turkey/cappadocia), surrounded by a moonscape of volcanic tuff carved by millions of years of wind and water into cones, pillars, and the tall phallic columns that Turks politely call peri bacaları — fairy chimneys. The town itself is small and easy to navigate, with most guesthouses and tour agencies clustered along a few streets above the bus station, but the landscape that rings it on every side is extraordinary.

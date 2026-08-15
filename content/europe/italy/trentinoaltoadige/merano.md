@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Merano
 title: Merano
 type: location
+heritage: 4.4
+vibrancy: 4.0
+nature: 6.4
+off_the_beaten_track: 2.4
 ---
 
 Merano (Meran in German) is a spa town in South Tyrol, nestled in a deep Alpine valley where the Passirio and Adige rivers meet. At under 600 metres of altitude but surrounded by peaks that rise to 3,000 metres, it has an unusually mild microclimate — palm trees and oleander grow in the streets, and the town was a popular winter resort for the European aristocracy in the 19th century. Empress Elisabeth of Austria, known as Sisi, came here to recover from exhaustion in 1870, and her endorsement made the town fashionable.

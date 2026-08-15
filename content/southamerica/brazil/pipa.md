@@ -14,6 +14,10 @@ snippet: Beach village near Natal where red cliffs and sheltered coves draw surf
   and backpackers.
 title: Pipa
 type: location
+heritage: 3.3
+vibrancy: 2.7
+nature: 4.0
+off_the_beaten_track: 2.2
 ---
 
 Pipa is a small village near [Natal](/southamerica/brazil/natal) that has grown into one of northeast Brazil's most popular beach destinations. The dramatic coastline — tall red cliffs, sheltered coves, and warm water — draws surfers, backpackers, and a growing international crowd. There are four beaches around town, each with its own character: [Praia do Centro](/southamerica/brazil/pipa/praia_do_centro) is the liveliest, [Praia do Amor](/southamerica/brazil/pipa/praia_do_amor) is the most scenic, and [Baía dos Golfinhos](/southamerica/brazil/pipa/baia_dos_golfinhos) lives up to its name with regular dolphin sightings. The cliff-top viewpoint at the [Chapadão](/southamerica/brazil/pipa/chapadao) is the place to catch the sunset.

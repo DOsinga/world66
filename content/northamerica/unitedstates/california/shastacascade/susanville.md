@@ -11,6 +11,10 @@ sources:
 - https://en.wikipedia.org/wiki/Susanville,_California
 title: Susanville
 type: location
+heritage: 3.9
+vibrancy: 2.1
+nature: 6.8
+off_the_beaten_track: 5.3
 ---
 
 Stop by Susanville's Lassen Historical Museum. Nearby Eagle Lake is California's second-largest natural lake, a popular place for fishing and boating. The Ash Creek Wildlife Area affords spectacular views of Lassen National Volcanic Park and Mount Shasta in the distance. 

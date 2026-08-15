@@ -14,6 +14,10 @@ image: wells_next_the_sea.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Beach_huts_at_Wells-next-the-Sea.jpg
 image_license: CC BY-SA 4.0
 image_attribution: DeFacto
+heritage: 5.1
+vibrancy: 5.1
+nature: 5.7
+off_the_beaten_track: 3.8
 ---
 
 Wells-next-the-Sea is a small harbour town on the [North Norfolk Coast](/europe/unitedkingdom/england/east_of_england/the_north_norfolk_coast), set behind a tidal creek rather than directly on the open sea. The quay, salt marsh, beach road, and big sky give it a different feel from the busier resort towns further east.

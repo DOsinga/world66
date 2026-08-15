@@ -3,7 +3,8 @@ latitude: 24.0747
 loc_type: feature
 longitude: 55.7642
 score: 7.8
-snippet: Limestone mountain above Al Ain, reached by a steep hairpin road through the desert.
+snippet: Limestone mountain above Al Ain, reached by a steep hairpin road through
+  the desert.
 story: The drive up Jebel Hafit climbs 1,200 metres through 60 hairpin bends in 12
   kilometres — voted one of the world's great driving roads by *Top Gear*. At the
   top, the view stretches across Al Ain on one side and into Oman on the other.
@@ -16,6 +17,10 @@ image: jebel_hafit.jpg
 image_source: https://commons.wikimedia.org/wiki/File:CJW7927.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Chuck202
+heritage: 5.3
+vibrancy: 2.0
+nature: 4.8
+off_the_beaten_track: 3.0
 ---
 
 The country's second-highest peak, 1,249 metres above the desert outside Al Ain. The drive up is the attraction: a wide three-lane road that twists and climbs through dramatic limestone cliffs, with several lay-bys for photographs and a pair of restaurants near the summit.

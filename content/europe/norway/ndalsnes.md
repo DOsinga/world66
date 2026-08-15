@@ -13,6 +13,10 @@ score: 8.81
 snippet: Romsdal fjord town ringed by peaks, Trollveggen, and the hairpins of Trollstigen.
 title: Åndalsnes
 type: location
+heritage: 2.8
+vibrancy: 3.8
+nature: 7.3
+off_the_beaten_track: 5.0
 ---
 
 Åndalsnes sits at the end of the Romsdal valley where the river meets the Romsdalsfjord, surrounded by some of Norway's most dramatic mountain scenery. It is a small town — more a base than a destination — but the surrounding landscape more than compensates.

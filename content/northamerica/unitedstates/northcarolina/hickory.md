@@ -5,11 +5,16 @@ loc_type: city
 latitude: 35.7378
 longitude: -81.3283
 score: 6.8
-snippet: Foothills North Carolina city shaped by furniture, folk art, short-track racing, and beer.
+snippet: Foothills North Carolina city shaped by furniture, folk art, short-track
+  racing, and beer.
 sources:
-  - https://en.wikivoyage.org/wiki/Hickory
-  - https://en.wikipedia.org/wiki/Hickory,_North_Carolina
-  - https://www.visithickorync.com/
+- https://en.wikivoyage.org/wiki/Hickory
+- https://en.wikipedia.org/wiki/Hickory,_North_Carolina
+- https://www.visithickorync.com/
+heritage: 2.3
+vibrancy: 2.2
+nature: 2.3
+off_the_beaten_track: 1.4
 ---
 
 Hickory sits in the western North Carolina foothills, between Charlotte and the Blue Ridge. It is not a postcard mountain town, and that is part of its character: railroads, furniture factories, Lutheran colleges, outlet shopping, craft beer, and old mill-town self-confidence all show up in the same compact city.

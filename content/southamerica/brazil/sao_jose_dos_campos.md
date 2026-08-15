@@ -5,8 +5,13 @@ loc_type: city
 latitude: -23.1864
 longitude: -45.8786
 score: 7.2
-snippet: Brazilian aerospace city in the Paraíba Valley, with parks and mountain escapes nearby.
+snippet: Brazilian aerospace city in the Paraíba Valley, with parks and mountain escapes
+  nearby.
 source_url: https://en.wikivoyage.org/wiki/S%C3%A3o_Jos%C3%A9_dos_Campos
+heritage: 2.4
+vibrancy: 3.8
+nature: 3.2
+off_the_beaten_track: 1.2
 ---
 
 São José dos Campos is a large city in São Paulo state’s Paraíba Valley, better known for aircraft, research institutes, and industry than for easy sightseeing. That is part of its character: this is where Brazil's aerospace story is most visible, from Embraer to the military and space research campuses on the edge of town.

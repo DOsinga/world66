@@ -14,6 +14,10 @@ snippet: Marche port city on an Adriatic promontory, with a hilltop cathedral an
 title: Ancona
 type: location
 image_attribution: gianni del bufalo
+heritage: 5.5
+vibrancy: 4.1
+nature: 3.8
+off_the_beaten_track: 2.8
 ---
 
 Ancona is the capital of the Marche region, a working port city built on a promontory jutting into the Adriatic. It lacks the instant charm of its smaller neighbors, but rewards those who look past the port infrastructure: a fine Romanesque cathedral on the hill, a well-preserved old town, and the Conero Riviera — some of the Adriatic's best coastline — right on its doorstep.

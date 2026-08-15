@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/G%C3%B6d%C3%B6ll%C5%91
 title: Gödöllő
 type: location
+heritage: 4.6
+vibrancy: 2.7
+nature: 3.9
+off_the_beaten_track: 1.6
 ---
 
 Gödöllő is a small town about 30 kilometres northeast of Budapest, easily reached by suburban railway (HÉV) in around 40 minutes. Its main attraction is the [Royal Palace of Gödöllő](/europe/hungary/godollo/royal_palace), the largest Baroque palace in Hungary and the favourite country residence of Emperor Franz Joseph I and his wife, Empress Elisabeth — the beloved "Sisi" whose portrait is known across Central Europe. The palace dominates the town and draws the majority of its visitors.

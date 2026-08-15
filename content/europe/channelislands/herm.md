@@ -14,6 +14,10 @@ snippet: Tiny car-free Channel Island east of Guernsey, known for cliff paths an
   Shell Beach.
 title: Herm
 type: location
+heritage: 3.8
+vibrancy: 1.7
+nature: 7.1
+off_the_beaten_track: 5.6
 ---
 
 Herm is tiny — a mile and a half long and half a mile wide — and entirely car-free. It sits three miles east of St Peter Port, Guernsey, and the fast catamaran crossing takes about 20 minutes. Around 60 people live here year-round; in summer day-trippers arrive to walk the [clifftop paths](/europe/channelislands/herm/cliff_path), swim off [Shell Beach](/europe/channelislands/herm/shell_beach) on the north end, and eat at the island's single pub, the [Mermaid Tavern](/europe/channelislands/herm/mermaid_tavern).

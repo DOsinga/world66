@@ -7,6 +7,10 @@ snippet: Seventeen-kilometre walking trail following WWII anti-tank barriers fro
   Nyon into the Jura foothills above Lake Geneva.
 title: Le Sentier des Toblerones
 type: location
+heritage: 3.3
+vibrancy: 3.9
+nature: 7.8
+off_the_beaten_track: 3.5
 ---
 
 Le Sentier des Toblerones is a waymarked walking trail that runs seventeen kilometres from the shores of Lake Geneva at [Nyon](/europe/switzerland/nyon) up into the Jura foothills to the village of Bassins. It follows the line of triangular concrete anti-tank barriers that the Swiss army installed along this stretch of the Jura during the Second World War — nicknamed Toblerones by Swiss soldiers for their resemblance to the peaked chocolate bar.

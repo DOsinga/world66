@@ -10,6 +10,10 @@ snippet: Quiet Smoky Mountains gateway town near Cades Cove, known for river sce
   and heritage sites.
 title: Townsend
 type: location
+heritage: 3.5
+vibrancy: 2.6
+nature: 7.4
+off_the_beaten_track: 2.5
 ---
 
 Townsend is a small, unhurried town on the western edge of Great Smoky Mountains National Park — far quieter than Gatlinburg or Pigeon Forge and better for it. The Little River runs clear and fast through the valley, and the surrounding mountains press in close on all sides.

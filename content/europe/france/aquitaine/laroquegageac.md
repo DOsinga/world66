@@ -15,6 +15,10 @@ tags:
 - dordogne
 title: La Roque-Gageac
 type: location
+heritage: 5.7
+vibrancy: 3.8
+nature: 6.5
+off_the_beaten_track: 2.1
 ---
 
 La Roque-Gageac is regularly cited as one of the most beautiful villages in France, and it is hard to argue. The village is wedged between a towering limestone cliff and the Dordogne River, its golden stone houses and slate roofs reflected in the water below. A tropical garden clings to the south-facing cliff face, warmed by the microclimate the rock creates.

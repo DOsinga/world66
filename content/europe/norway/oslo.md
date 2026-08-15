@@ -25,6 +25,10 @@ tip: 'Oslo sits at the head of a fjord, ringed by forest and water — you can s
   nature.'
 title: Oslo
 type: location
+heritage: 6.6
+vibrancy: 7.0
+nature: 5.2
+off_the_beaten_track: 1.7
 ---
 
 Oslo is the Nordic capital that most visitors underestimate. Stockholm looks grander, Copenhagen is more charming, Helsinki has the edge in modern design. Oslo is none of those things, but it is the one Nordic capital where you can walk 15 minutes from a high-design museum to a hiking trail into deep forest, and that particular combination of compact city and raw landscape makes it uniquely worth a visit.

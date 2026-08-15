@@ -18,6 +18,10 @@ image: paducah.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Broadway_-_Paducah,_Kentucky.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Farragutful
+heritage: 1.7
+vibrancy: 2.5
+nature: 3.4
+off_the_beaten_track: 2.2
 ---
 
 Paducah sits at the meeting of the Ohio and Tennessee rivers in far western Kentucky. It is a working river town with a surprisingly strong arts identity, recognised by UNESCO as a Creative City of Crafts and Folk Art.

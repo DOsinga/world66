@@ -14,6 +14,10 @@ snippet: Academic city across the Charles from Boston, shaped by Harvard, MIT, a
   bookish square life.
 title: Cambridge
 type: location
+heritage: 6.1
+vibrancy: 5.8
+nature: 3.8
+off_the_beaten_track: 1.0
 ---
 
 **Cambridge** sits just across the Charles River from [Boston](/northamerica/unitedstates/massachusetts/boston), but it is its own city with its own character — more bookish, more politically progressive, and in places more interesting than its larger neighbour.

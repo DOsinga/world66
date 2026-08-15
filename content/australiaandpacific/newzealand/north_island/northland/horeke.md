@@ -16,6 +16,10 @@ image: horeke.jpg
 image_source: https://commons.wikimedia.org/wiki/File:M%C4%81ngungu_Mission_House.jpg
 image_license: CC BY 3.0
 image_attribution: Ulrich Lange, Bochum, Germany
+heritage: 5.2
+vibrancy: 3.1
+nature: 6.8
+off_the_beaten_track: 5.2
 ---
 
 Horeke is a tiny settlement on the upper Hokianga Harbour, but it carries more history than most towns ten times its size. It was one of the first European settlements in New Zealand, a timber and shipbuilding place before the Bay of Islands became the easier story to tell.

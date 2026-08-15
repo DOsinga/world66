@@ -14,6 +14,10 @@ title: Misano Adriatico
 type: location
 snippet: Romagna beach town with a quieter Adriatic shore and a major motorcycle racing
   circuit.
+heritage: 3.0
+vibrancy: 3.1
+nature: 3.9
+off_the_beaten_track: 1.4
 ---
 
 Misano Adriatico sits at the southern edge of the Romagna coast, where the Adriatic Riviera gives way to Marche. The three kilometres of sandy beach here are quieter than [Rimini](/europe/italy/emiliaromagna/rimini) to the north or [Cattolica](/europe/italy/emiliaromagna/cattolica) to the south, making it a reasonable base if you want coast without the crowds.

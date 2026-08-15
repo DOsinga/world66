@@ -12,6 +12,10 @@ snippet: High Black Forest spa village surrounded by central Schwarzwald walking
   ski trails.
 title: Schonwald im Schwarzwald
 type: location
+heritage: 2.5
+vibrancy: 1.2
+nature: 6.4
+off_the_beaten_track: 3.1
 ---
 
 Schonwald im Schwarzwald is a small Black Forest village perched at around 1,000 metres elevation in the Schwarzwald-Baar district of Baden-Württemberg, about 12 kilometres north of Furtwangen and 40 kilometres southeast of Offenburg. It has the status of a Kneipp-Kurort (a designated health resort), which means the village has invested in a specific infrastructure of wellness and spa facilities around the therapeutic principles developed by Sebastian Kneipp in the 19th century.

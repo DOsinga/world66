@@ -7,6 +7,10 @@ snippet: Forest-fringed river that names the Mambéré-Kadéï prefecture, used 
   communities for fishing and transport.
 title: Mambéré River
 type: location
+heritage: 0.2
+vibrancy: 1.6
+nature: 4.8
+off_the_beaten_track: 7.4
 ---
 
 The **Mambéré River** is the defining natural feature of the Mambéré-Kadéï prefecture in the southwestern [Central African Republic](/africa/centralafricanrepublic), the watercourse that gives the region half its name. It rises in the highlands to the north and flows south and west through forested terrain near [Berbérati](/africa/centralafricanrepublic/berberati) before joining the Kadéï River close to the Cameroon border, the combined waters eventually feeding the Sangha and, far downstream, the Congo.

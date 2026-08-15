@@ -14,6 +14,10 @@ snippet: Foothill town below the San Bernardino Mountains, edged by lakes, orcha
   and autumn apple country.
 title: Yucaipa
 type: location
+heritage: 2.3
+vibrancy: 2.2
+nature: 3.5
+off_the_beaten_track: 2.3
 ---
 
 Yucaipa is a small town in the foothills of the San Bernardino Mountains where the air is cleaner and the temperatures cooler than on the valley floor. The 200-acre Yucaipa Regional Park has three lakes for swimming, boating, and fishing, plus campgrounds and playgrounds.

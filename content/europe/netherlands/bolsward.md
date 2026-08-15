@@ -12,6 +12,10 @@ tags:
 - friesland
 title: Bolsward
 type: location
+heritage: 4.2
+vibrancy: 2.2
+nature: 3.4
+off_the_beaten_track: 2.0
 ---
 
 Bolsward is one of the eleven cities of [Friesland](/europe/netherlands/friesland), a historic market town not far from the Afsluitdijk, the great dyke connecting Friesland with North Holland. It is one of the stops on the Elfstedentocht ice-skating route when the canals freeze hard enough.

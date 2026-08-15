@@ -14,6 +14,10 @@ snippet: Caspian port city in western Kazakhstan, shaped by Mangystau oil, ferri
   and white cliffs.
 title: Aqtau
 type: location
+heritage: 2.9
+vibrancy: 2.3
+nature: 4.2
+off_the_beaten_track: 5.2
 ---
 
 Aqtau ("White Cliff"), formerly known as Shevchenko, sits on the eastern coast of the Caspian Sea in western Kazakhstan. It is the main port city of the Mangystau region, with a harbour serving ferries and cargo ships, an international airport, and a growing number of western-standard hotels — all driven by the oil and gas industry in the surrounding steppe.

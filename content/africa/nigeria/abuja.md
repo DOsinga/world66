@@ -21,6 +21,10 @@ tip: Abuja is Nigeria's purpose-built capital, planted in the centre of the coun
   a low profile.
 title: Abuja
 type: location
+heritage: 3.6
+vibrancy: 5.5
+nature: 2.2
+off_the_beaten_track: 5.7
 ---
 
 Abuja is Nigeria's purpose-built federal capital, conceived in 1975 and officially inaugurated in 1991 to replace the overcrowded Lagos. Sitting at the geographic centre of the country, the city was designed from scratch on a blank plateau — wide boulevards, modern government ministries, and an orderliness unusual for West African capitals. It is cleaner, quieter, and more expensive than Lagos, and noticeably more relaxed.

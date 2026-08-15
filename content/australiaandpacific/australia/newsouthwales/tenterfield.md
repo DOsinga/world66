@@ -19,6 +19,10 @@ image: tenterfield.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Tenterfield_(1).JPG
 image_license: CC BY-SA 3.0
 image_attribution: Cgoodwin
+heritage: 4.2
+vibrancy: 2.3
+nature: 4.3
+off_the_beaten_track: 2.4
 ---
 
 Tenterfield is a high-country town on the New England Tablelands, close to the Queensland border and surrounded by granite, waterfalls, and bushranger country. It is also tied to Australia's Federation story: Sir Henry Parkes delivered his 1889 Tenterfield Oration here, helping push the colonies toward union.

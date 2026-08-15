@@ -5,10 +5,15 @@ loc_type: city
 latitude: 37.7911
 longitude: -114.3889
 score: 6.8
-snippet: Old Mormon farming town beside Cathedral Gorge in Nevada's quiet eastern desert.
+snippet: Old Mormon farming town beside Cathedral Gorge in Nevada's quiet eastern
+  desert.
 sources:
-  - https://en.wikivoyage.org/wiki/Panaca
-  - https://www.wikidata.org/wiki/Q376311
+- https://en.wikivoyage.org/wiki/Panaca
+- https://www.wikidata.org/wiki/Q376311
+heritage: 2.4
+vibrancy: 1.5
+nature: 4.0
+off_the_beaten_track: 3.0
 ---
 
 Panaca is a small farming town in eastern [Nevada](/northamerica/unitedstates/nevada), close to the Utah line and only a few minutes from [Cathedral Gorge State Park](/northamerica/unitedstates/nevada/panaca/cathedral_gorge_state_park). It is one of the oldest non-Native settlements in southern Nevada, founded by Mormon settlers in the 1860s, and it still feels more like a quiet church-and-irrigation town than a Nevada gambling stop.

@@ -14,6 +14,10 @@ title: Lepakshi
 type: location
 snippet: Andhra Pradesh village known for its 16th-century Veerabhadra Temple and
   Vijayanagara carvings.
+heritage: 7.0
+vibrancy: 1.8
+nature: 2.1
+off_the_beaten_track: 3.1
 ---
 
 Lepakshi is a small village in the Anantapur district of southern Andhra Pradesh, about 120 kilometres north of Bangalore and a short detour off the main highway to Hyderabad. It would be easy to drive past — but doing so would mean missing one of the finest examples of Vijayanagara architecture in India.

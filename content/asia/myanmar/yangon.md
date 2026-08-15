@@ -13,6 +13,10 @@ snippet: Myanmar's largest city, where golden pagodas rise above lakes, colonial
   and busy street markets.
 title: Yangon
 type: location
+heritage: 7.2
+vibrancy: 4.8
+nature: 2.4
+off_the_beaten_track: 2.3
 ---
 
 Yangon is Myanmar's largest city and commercial capital, a sprawling place of lakes, pagodas, and crumbling colonial buildings set against a backdrop of street vendors and trishaws. It is not as frantic as Bangkok or as clean as Singapore, but it has a character all its own — slow-moving and atmospheric in a way that most of Southeast Asia no longer is.

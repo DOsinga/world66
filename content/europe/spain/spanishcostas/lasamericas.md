@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Playa_de_las_Am%C3%A9ricas
 title: Playa de las Américas
 type: location
+heritage: 2.0
+vibrancy: 6.7
+nature: 6.5
+off_the_beaten_track: 1.3
 ---
 
 Playa de las Américas is Tenerife's loud, purpose-built south-coast resort: sunny, convenient, heavily developed, and not even slightly shy about what it is. If you want whitewashed villages and silence, look elsewhere. If you want beaches, bars, late nights, and easy access to excursions without renting a car, it does the job very efficiently.

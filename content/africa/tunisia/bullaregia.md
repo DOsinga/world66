@@ -14,6 +14,10 @@ title: Bulla Regia
 type: location
 snippet: Roman archaeological site in northwestern Tunisia, famous for underground
   villas built against summer heat.
+heritage: 7.9
+vibrancy: 2.0
+nature: 3.0
+off_the_beaten_track: 3.7
 ---
 
 Bulla Regia is a Roman archaeological site in northwestern Tunisia, remarkable for one thing: its underground villas. The wealthy Roman residents of this city built their houses with a full storey below ground to escape the fierce North African summer heat, and the subterranean rooms have preserved some of the finest floor mosaics in all of Roman Africa.

@@ -16,6 +16,10 @@ title: Memphis
 type: location
 snippet: Mississippi River city of blues, barbecue, civil-rights history, and Elvis's
   Graceland mythology.
+heritage: 6.1
+vibrancy: 6.0
+nature: 2.2
+off_the_beaten_track: 1.5
 ---
 
 Memphis isn't so much a place as it is a feeling, a sound, a taste. It's the muggy warmth of a southern summer evening. It's the slow moan of a blues song or the eternal sounds of Elvis. It's the taste of barbecue, cornbread, and black-eye peas.

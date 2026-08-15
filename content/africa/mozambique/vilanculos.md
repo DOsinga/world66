@@ -13,6 +13,10 @@ score: 7.71
 snippet: Mozambican coastal town and main gateway to the islands of the Bazaruto Archipelago.
 title: Vilanculos
 type: location
+heritage: 2.3
+vibrancy: 4.0
+nature: 7.2
+off_the_beaten_track: 4.5
 ---
 
 Vilanculos is the main gateway to the [Bazaruto Archipelago](/africa/mozambique/vilanculos/bazaruto_archipelago) and, for many visitors, the highlight of a Mozambique trip. It's a small, relaxed coastal town that has grown considerably with tourism without losing its easy character. The beach in town isn't the finest — you're here to reach the islands — but the sunsets over the bay are spectacular.

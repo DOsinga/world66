@@ -17,6 +17,10 @@ image: rawene.jpg
 image_source: https://commons.wikimedia.org/wiki/File:An_urban_waterfront._Rawene._NZ_(22111741992).jpg
 image_license: CC0
 image_attribution: Bernard Spragg. NZ from Christchurch, New Zealand
+heritage: 4.1
+vibrancy: 1.7
+nature: 6.8
+off_the_beaten_track: 5.8
 ---
 
 Rawene sits on the south side of Hokianga Harbour, a small waterside town with more history than its size suggests. It is one of New Zealand's oldest European settlements, with timber churches, old commercial buildings, and Clendon House set along a quiet waterfront rather than arranged as a museum village.

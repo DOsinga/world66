@@ -13,6 +13,10 @@ snippet: Small Ecuadorian surf village on the Santa Elena coast, known for long 
   waves and weekend nightlife
 title: Montañita
 type: location
+heritage: 1.8
+vibrancy: 4.9
+nature: 6.7
+off_the_beaten_track: 4.2
 ---
 
 Montañita is a small surf village on the south coast of Ecuador's Santa Elena Peninsula, and it punches well above its weight. Two sandy streets, a cluster of cafes and surf shops, and [a beach](/southamerica/ecuador/montanita/montanita_beach) that pulls in long, consistent waves — that is essentially the whole town, and for many travelers it is more than enough. [La Punta](/southamerica/ecuador/montanita/la_punta), the headland at the southern end, produces the best left-hand surf break on this stretch of coast.

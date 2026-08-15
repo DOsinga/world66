@@ -11,6 +11,10 @@ loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Kour%C3%A9,_Niger
 snippet: Sahel village southeast of Niamey, known for West Africa's last wild giraffes.
+heritage: 1.7
+vibrancy: 1.8
+nature: 4.6
+off_the_beaten_track: 6.4
 ---
 
 Kouré is a small Sahel village about 60 km southeast of Niamey, and it has one extraordinary reason to visit: the last wild population of West African giraffes. These are not zoo animals, not a game reserve in any conventional sense — the giraffes roam freely through the acacia scrubland as they always have, moving between village fields and bush, largely indifferent to the humans who watch them from a respectful distance.

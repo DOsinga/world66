@@ -14,6 +14,10 @@ snippet: Balochistan border town on the old RCD Road, between arid mountains and
   plains
 title: Nushki
 type: location
+heritage: 1.9
+vibrancy: 1.8
+nature: 4.9
+off_the_beaten_track: 6.5
 ---
 
 Nushki is a small town in Balochistan, in the far southwest of Pakistan, sitting close to the Afghan border along what was once called the RCD Road — a regional cooperation route linking Pakistan, Iran, and Turkey. The landscape is arid and striking: mountains on one side, desert on the other. It is remote by any measure.

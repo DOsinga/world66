@@ -5,11 +5,16 @@ loc_type: city
 latitude: 40.734722
 longitude: 31.6075
 score: 7.4
-snippet: Forested Turkish mountain city between Istanbul and Ankara, known for lakes, parks, and cooking.
+snippet: Forested Turkish mountain city between Istanbul and Ankara, known for lakes,
+  parks, and cooking.
 wikidata: Q200951
 sources:
-  - https://en.wikivoyage.org/wiki/Bolu
-  - https://blog.turkishairlines.com/en/one-city-three-days-bolu/
+- https://en.wikivoyage.org/wiki/Bolu
+- https://blog.turkishairlines.com/en/one-city-three-days-bolu/
+heritage: 5.4
+vibrancy: 4.8
+nature: 5.1
+off_the_beaten_track: 4.0
 ---
 
 Bolu sits in the green, damp mountains between Istanbul and Ankara, a city that many people only see from the highway. That is a pity. The town itself is modest, but it makes a good base for some of western Turkey's most appealing lake and forest country.

@@ -21,6 +21,10 @@ tip: Luanda has swung from war-torn to one of the most expensive cities on earth
   in cash, agree taxi fares first, and don't photograph government buildings.
 title: Luanda
 type: location
+heritage: 6.3
+vibrancy: 4.9
+nature: 3.7
+off_the_beaten_track: 4.1
 ---
 
 Luanda is Angola's capital and largest city, set on a sweeping natural bay on the Atlantic coast. Founded by Portuguese colonists in 1576, it served for centuries as a major hub of the transatlantic slave trade — a history the city confronts honestly at the [National Slavery Museum](/africa/angola/luanda/slavery_museum). The city has grown enormously since independence in 1975 and through the end of the civil war in 2002; today it is one of Africa's larger capitals, a chaotic, energetic place that has rebuilt itself rapidly on oil wealth.

@@ -16,6 +16,10 @@ image: bicheno.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bicheno_(8874181745).jpg
 image_license: CC BY-SA 2.0
 image_attribution: portengaround
+heritage: 1.9
+vibrancy: 1.4
+nature: 7.1
+off_the_beaten_track: 4.1
 ---
 
 Bicheno is a small fishing and holiday town on Tasmania's east coast, between [St Helens](/australiaandpacific/australia/tasmania/eastcoast/st_helens) and the Freycinet Peninsula. It is less polished than Coles Bay and quieter than the big-ticket national parks, which is part of the appeal. You come for granite, cold clear water, seafood, and little penguins returning after dark.

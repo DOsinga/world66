@@ -17,6 +17,10 @@ image_attribution: 'The original uploader was Pacoviande at French Wikipedia.
 
 
   Later versions were uploaded by Grondin at fr.wikipedia.'
+heritage: 7.1
+vibrancy: 3.1
+nature: 3.6
+off_the_beaten_track: 2.3
 ---
 
 Vitré is a small medieval town on the eastern edge of Brittany, where the old duchy met Normandy, Maine, and Anjou. It is compact, steep in places, and still has the feel of a frontier town built for defence and trade.

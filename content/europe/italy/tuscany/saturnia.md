@@ -13,6 +13,10 @@ snippet: Tuscan hill village famous for the Cascate del Mulino, where warm sulph
   water fills natural limestone pools.
 title: Saturnia
 type: location
+heritage: 5.2
+vibrancy: 4.6
+nature: 6.7
+off_the_beaten_track: 2.4
 ---
 
 Saturnia is a tiny village in the hills of southern Tuscany, famous for its thermal springs. The main attraction is the [Cascate del Mulino](/europe/italy/tuscany/saturnia/cascate_del_mulino) — a series of natural limestone pools where warm, sulphurous water cascades down terraced rock formations. The pools are free, open around the clock, and dramatic to look at, especially at night or in the early morning mist. The water sits at a constant 37°C year-round.

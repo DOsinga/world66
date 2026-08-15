@@ -9,6 +9,10 @@ title: Porsgrunn
 type: location
 snippet: Small Telemark industrial city known for Norway's surviving porcelain factory
   on the Porsgrunn River.
+heritage: 3.4
+vibrancy: 2.9
+nature: 5.1
+off_the_beaten_track: 1.9
 ---
 
 Porsgrunn is a small industrial city of about 36,000 on the Porsgrunn River in Telemark county, southeastern Norway. It has been known for porcelain production since the late eighteenth century, and [Porsgrunds Porselensfabrikk](/europe/norway/porsgrunn/porsgrunds_porselensfabrikk) — Norway's only remaining porcelain manufacturer — still operates here. You can visit the factory outlet and the attached museum, which traces the history of Norwegian porcelain with some beautiful examples of traditional blue-and-white designs.

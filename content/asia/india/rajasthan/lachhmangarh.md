@@ -10,6 +10,10 @@ snippet: Shekhawati market town known for painted merchant havelis and a boulder
   hilltop fort.
 title: Lachhmangarh
 type: location
+heritage: 2.9
+vibrancy: 1.8
+nature: 1.8
+off_the_beaten_track: 2.3
 ---
 
 Lachhmangarh (also spelled Laxmangarh) is a small town in the Shekhawati region, founded in 1862 by Rao Raja Laxman Singh of Sikar. It is part of the string of Shekhawati towns known for their painted havelis -- merchant mansions decorated with elaborate frescoes depicting everything from mythology to European trains and telephones.

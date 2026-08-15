@@ -13,6 +13,10 @@ image: alcantara_gorges.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gole_dell%27Alcantara-pjt1.jpg
 image_license: CC BY-SA 3.0
 image_attribution: pjt56
+heritage: 3.8
+vibrancy: 1.9
+nature: 7.5
+off_the_beaten_track: 4.2
 ---
 
 The Gole dell'Alcantara are a dramatic series of gorges carved by the Alcantara river through ancient basalt lava flows from Mount Etna. The sheer canyon walls, formed into striking prismatic columns, rise up to 50 metres high in places.

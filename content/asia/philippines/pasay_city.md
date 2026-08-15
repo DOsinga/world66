@@ -14,6 +14,10 @@ image_license: Public domain
 image_attribution: Judgefloro
 snippet: Metro Manila city on Manila Bay, home to the airport, transport hubs, and
   Entertainment City.
+heritage: 3.3
+vibrancy: 5.3
+nature: 2.8
+off_the_beaten_track: 1.3
 ---
 
 Pasay is the city most visitors to Manila see first without realising it — Ninoy Aquino International Airport sits within its borders, and many of Metro Manila's major transport hubs are here. The city stretches along Manila Bay south of the capital proper, bordered by Makati to the northeast and Parañaque to the south.

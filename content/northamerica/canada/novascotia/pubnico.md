@@ -13,6 +13,10 @@ image: pubnico.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lighthouse_DGJ_3868_-_Pubnico_Harbour_Lighthouse_(6085706782).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Dennis G. Jarvis
+heritage: 4.5
+vibrancy: 1.9
+nature: 6.0
+off_the_beaten_track: 4.3
 ---
 
 Pubnico is a string of harbour communities on Nova Scotia's southwest coast, near Yarmouth. It is one of the best places in the province to understand Acadian continuity: the area was founded in the 17th century by Philippe Mius d'Entremont, and many residents still trace family roots back to the early settlement.

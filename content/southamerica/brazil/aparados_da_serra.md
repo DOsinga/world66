@@ -3,9 +3,14 @@ latitude: -29.1586
 loc_type: feature
 longitude: -50.0799
 score: 8.3
-snippet: National park on the Serra Gaúcha escarpment containing the Itaimbezinho canyon, one of the deepest and longest gorges in Brazil.
+snippet: National park on the Serra Gaúcha escarpment containing the Itaimbezinho
+  canyon, one of the deepest and longest gorges in Brazil.
 title: Aparados da Serra
 type: location
+heritage: 2.3
+vibrancy: 1.4
+nature: 8.2
+off_the_beaten_track: 4.1
 ---
 
 Aparados da Serra is the oldest national park in southern Brazil, established in 1959 to protect the dramatic escarpment where the Serra Gaúcha plateau meets the Atlantic coastal plain. Its centrepiece is the Itaimbezinho canyon — a 700-metre-deep, 5.8-kilometre-long gorge that cuts through the basalt plateau in sheer vertical walls. The river Perdiz threads along the floor far below; from the rim it is barely visible. The view is as good as anything in the Serra Gaúcha.

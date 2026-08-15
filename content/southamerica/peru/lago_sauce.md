@@ -7,6 +7,10 @@ snippet: Clear-water jungle lake two hours south of Tarapoto, ringed by lodges a
   local beaches
 title: Laguna Azul (Lago Sauce)
 type: location
+heritage: 1.7
+vibrancy: 0.7
+nature: 8.2
+off_the_beaten_track: 5.9
 ---
 
 Two hours south of [Tarapoto](/southamerica/peru/tarapoto) on a steep, twisting road that drops down past the Huallaga river crossing at Cumbaza, Laguna Azul is a roughly oval lake of about 350 hectares set among low jungle hills. Locals call it Laguna Azul for the clarity of its water; the lake itself is officially Lago Sauce. You can swim straight from the dock at any of the string of small lakeside lodges that line the shore — the water is warm and clear enough that most visitors end up staying longer than planned. Kayaks, paddle boards, and *peque-peque* canoes are available for hire; a slow loop along the shoreline takes you past a few small villages, grassy beaches, and sheltered coves backed by forest.

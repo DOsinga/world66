@@ -18,6 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Dunker_Culture_House
 title: Helsingborg
 type: location
+heritage: 4.9
+vibrancy: 4.4
+nature: 4.6
+off_the_beaten_track: 1.3
 ---
 
 Helsingborg sits at the narrowest point of the Oresund, just four kilometres from [Helsingor](/europe/denmark/helsingor) in Denmark. For centuries this was Sweden's gateway to the continent, and the town still feels more outward-looking than most Swedish cities of its size. The medieval tower of Kärnan — the only remnant of a once-massive fortress — rises above a handsome waterfront lined with restaurants and outdoor cafes.

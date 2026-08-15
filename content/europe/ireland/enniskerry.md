@@ -14,6 +14,10 @@ snippet: County Wicklow village near Dublin, serving as the gateway to Powerscou
   Estate and its waterfall.
 title: Enniskerry
 type: location
+heritage: 5.0
+vibrancy: 2.0
+nature: 5.6
+off_the_beaten_track: 2.5
 ---
 
 Enniskerry is a small village in County Wicklow, perched on the Glencullen River in the foothills of the Wicklow Mountains. It sits just south of the Dublin border, about 24 km from the city centre, making it an easy escape from the capital.

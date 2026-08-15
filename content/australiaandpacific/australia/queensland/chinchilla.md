@@ -15,6 +15,10 @@ image: chinchilla.jpg
 image_source: https://commons.wikimedia.org/wiki/File:ChinchillaMainStreet2.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Mattinbgn
+heritage: 1.8
+vibrancy: 1.4
+nature: 7.0
+off_the_beaten_track: 3.9
 ---
 
 Chinchilla sits on the Warrego Highway in the Western Downs, about 300 km northwest of Brisbane. From the road it can look like a fuel stop, but the town has a sharper identity than that: melons, petrified wood, cypress pine country, and one of Queensland's odder agricultural stories.

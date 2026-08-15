@@ -13,6 +13,10 @@ title: Lege Cap Ferret
 type: location
 snippet: Arcachon peninsula of oyster villages, pine lanes, calm bassin water, and
   Atlantic surf beaches.
+heritage: 4.4
+vibrancy: 2.6
+nature: 6.1
+off_the_beaten_track: 2.4
 ---
 
 The Lège-Cap Ferret peninsula (presqu'île) is a thin strip of land separating the Bassin d'Arcachon from the Atlantic Ocean, and it contains some of the finest ocean beaches in the southwest of France. On one side, the calm waters of the bassin are perfect for oysters and sailing; on the other, the open Atlantic delivers long, powerful surf.

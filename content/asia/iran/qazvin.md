@@ -7,12 +7,17 @@ latitude: 36.2886
 loc_type: city
 longitude: 50.0069
 score: 6.42
-snippet: Former Safavid capital in northern Iran, with caravanserais, mosques, and Alamut mountain routes.
+snippet: Former Safavid capital in northern Iran, with caravanserais, mosques, and
+  Alamut mountain routes.
 sources:
-  - https://en.wikivoyage.org/wiki/Qazvin
-  - https://en.wikipedia.org/wiki/Qazvin
+- https://en.wikivoyage.org/wiki/Qazvin
+- https://en.wikipedia.org/wiki/Qazvin
 title: Qazvin
 type: location
+heritage: 5.2
+vibrancy: 3.3
+nature: 3.6
+off_the_beaten_track: 3.4
 ---
 
 Qazvin sits northwest of [Tehran](/asia/iran/tehran), where the road toward Tabriz and the routes over the Alborz meet. It was Persia's capital for part of the Safavid period, before Shah Abbas moved the court to Isfahan, and the city still has the feel of a serious old crossroads rather than a showpiece rebuilt for visitors.

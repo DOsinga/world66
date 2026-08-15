@@ -10,6 +10,10 @@ snippet: Western Ghats foothill capital with Portuguese traces, tribal culture, 
   forested lakes around Dadra and Nagar Haveli
 title: Silvassa
 type: location
+heritage: 3.3
+vibrancy: 3.8
+nature: 4.8
+off_the_beaten_track: 3.6
 ---
 
 Silvassa is the capital of the Indian union territory of Dadra and Nagar Haveli, tucked into the foothills of the Western Ghats between Gujarat and Maharashtra. A former Portuguese colony until 1954, the town still carries traces of that era alongside a strong tribal culture rooted in the Warli, Kokna, and Koli communities.

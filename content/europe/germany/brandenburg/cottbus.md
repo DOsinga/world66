@@ -14,6 +14,10 @@ snippet: Brandenburg city on the Spreewald edge, with bilingual Sorbian street s
   and Branitz Palace gardens
 title: Cottbus
 type: location
+heritage: 5.5
+vibrancy: 3.9
+nature: 3.6
+off_the_beaten_track: 1.7
 ---
 
 Cottbus sits at the southern edge of the Spreewald (Spree Forest), about 100 kilometres south of Berlin and 25 kilometres from the Polish border. The city of 100,000 is unusual in Germany for being the centre of Sorbian culture — the Sorbs are the only Slavic minority native to Germany, and in Cottbus every street sign appears in both German and Lower Sorbian. The alternative name you will see on maps, Chósebuz, is the Sorbian form. The [Wendisch Museum](/europe/germany/brandenburg/cottbus/wendish_museum) in the city centre tells this story well.

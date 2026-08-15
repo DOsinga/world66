@@ -17,6 +17,10 @@ sources:
 - https://ambala.gov.in/tourist-place/manji-sahib-gurudwara/
 title: Ambala
 type: location
+heritage: 3.0
+vibrancy: 2.7
+nature: 1.3
+off_the_beaten_track: 1.2
 ---
 
 Ambala is one of north India's great junction towns: part old trading city, part military cantonment, and part railway crossroads between Delhi, Punjab, Himachal Pradesh, and Chandigarh. It is not polished as a tourist stop, but it has the layered feel of a place that has had armies, merchants, pilgrims, and trains passing through for a long time.

@@ -14,6 +14,10 @@ snippet: Himachal valley town below the Dhauladhar range, with fort ruins and Pa
   painting heritage.
 title: Kangra
 type: location
+heritage: 5.8
+vibrancy: 2.7
+nature: 7.8
+off_the_beaten_track: 4.9
 ---
 
 Kangra is a small town tucked into one of Himachal Pradesh's most beautiful valleys, just 18 km from Dharamsala. The Dhauladhar range — the "white ranges" — rises to 14,000 ft behind the town like a massive wall, its snow-capped peaks providing a dramatic backdrop to the lush valley below, where pine forests, tea gardens, orchards, and terraced fields roll down in gentle slopes above the Banganga river.

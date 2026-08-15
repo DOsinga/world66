@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Xidi
 title: Xidi
 type: location
+heritage: 6.3
+vibrancy: 2.4
+nature: 4.3
+off_the_beaten_track: 2.9
 ---
 
 Xidi is the less famous of the two UNESCO-listed ancient villages in southern Anhui, which means it draws slightly smaller crowds than Hongcun and rewards the visitor with a marginally more genuine experience of what these places actually are: small, dense, beautifully built settlements where Huizhou merchant families poured extraordinary wealth into architecture as a form of lasting prestige. The whitewashed walls, dark tile roofs, and intricate carved woodwork that define the style appear in their fullest form here.

@@ -22,6 +22,10 @@ tip: Lusaka is a flat, fast-growing commercial capital — more a hub than a sig
   are lively; the city is generally relaxed, but use trusted transport after dark.
 title: Lusaka
 type: location
+heritage: 6.8
+vibrancy: 6.0
+nature: 5.4
+off_the_beaten_track: 3.2
 ---
 
 Lusaka is the capital city of Zambia. It doesn't have the headline sights of some African capitals, but it's a sprawling, energetic place that rewards a few days of exploration -- and it's a practical base for sorting out documents and planning onward travel across the region.

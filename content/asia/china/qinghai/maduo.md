@@ -15,6 +15,10 @@ type: location
 score: 5.85
 snippet: High Tibetan Plateau county seat near the Yellow River headwaters and sacred
   Ngoring and Kyaring lakes.
+heritage: 1.7
+vibrancy: 0.5
+nature: 7.4
+off_the_beaten_track: 7.2
 ---
 
 Maduo is the highest county seat in China at roughly 4,300 metres, sitting on the Tibetan Plateau in Qinghai's Golog Prefecture near the headwaters of the Yellow River. The town is small and functional, dominated by a large central square with a [monument to the legendary King Gesar](/asia/china/qinghai/maduo/gesar-monument) — the hero of the world's longest epic poem, deeply revered across the Tibetan world. Yaks graze on the outskirts of town, prayer flags snap in the wind, and the horizon in every direction is nothing but plateau.

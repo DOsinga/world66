@@ -14,6 +14,10 @@ snippet: Small North Carolina college town with a classic Main Street and Davids
   College at its heart.
 title: Davidson
 type: location
+heritage: 3.8
+vibrancy: 4.9
+nature: 7.1
+off_the_beaten_track: 2.9
 ---
 
 Davidson is a small college town north of [Charlotte](/northamerica/unitedstates/northcarolina/charlotte), home to [Davidson College](/northamerica/unitedstates/northcarolina/davidson/davidson_college). Main Street has a classic small-town feel -- a soda shop, Summit Coffee (popular with the mountaineering-inclined intellectual crowd), and shops selling everything from garden gnomes to horse tack. In front of St Alban's Episcopal Church, the country's first [Homeless Jesus](/northamerica/unitedstates/northcarolina/davidson/homeless_jesus) bronze statue sleeps on a public bench — a piece of public art that has divided the town and won it international press.

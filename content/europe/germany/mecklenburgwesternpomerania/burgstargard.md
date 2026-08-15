@@ -10,6 +10,10 @@ snippet: Small Mecklenburg town dominated by northern Germany's highest medieval
   castle.
 title: Burg Stargard
 type: location
+heritage: 6.1
+vibrancy: 2.8
+nature: 3.7
+off_the_beaten_track: 2.2
 ---
 
 Burg Stargard is a small town just southeast of [Neubrandenburg](/europe/germany/mecklenburgwesternpomerania/neubrandenburg) in the Mecklenburg Lake District, dominated by the brick-and-fieldstone castle that gives it its name. Built in the 13th century by the Margraves of Brandenburg, the Burg sits on a hill 90 metres above the surrounding countryside — the highest medieval hilltop castle in northern Germany — and is well preserved enough to wander through, with a small museum, a falconry centre, and views over the lakes and forests of the Tollensesee region.

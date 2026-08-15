@@ -14,6 +14,10 @@ image: verden_an_der_aller.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Verden_an_der_Aller_-_Obere_Str._X_Georgstr._-_panoramio_(28).jpg
 image_license: CC BY 3.0
 image_attribution: Sami The Jaguar
+heritage: 2.5
+vibrancy: 1.9
+nature: 4.9
+off_the_beaten_track: 2.6
 ---
 
 Verden an der Aller is a small town between Bremen and Hannover, set where the Aller river bends through the north German plain. Its name carries more history than its quiet streets suggest: Charlemagne's massacre of Saxons in 782 is tied to Verden, and the town later grew around a bishopric whose [cathedral](/europe/germany/lowersaxony/verden_an_der_aller/verden_cathedral) still dominates the old centre.

@@ -13,6 +13,10 @@ image: loughborough.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Loughborough_All_Saints_Oct_2019.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Bellminsterboy
+heritage: 4.4
+vibrancy: 3.6
+nature: 3.1
+off_the_beaten_track: 1.2
 ---
 
 Loughborough is a Leicestershire market town that runs largely on its university, which dominates the local economy and gives the place more energy than its size might suggest. Loughborough University is consistently rated among the best in the UK for sports, and the campus facilities were used as a training base for the 2012 Olympics. The student population keeps the town's pubs and restaurants ticking over, particularly along the high street and Baxter Gate.

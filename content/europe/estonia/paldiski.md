@@ -7,6 +7,10 @@ snippet: Estonian port town west of Tallinn, marked by naval history and a close
   Soviet submarine base.
 title: Paldiski
 type: location
+heritage: 3.9
+vibrancy: 1.9
+nature: 3.7
+off_the_beaten_track: 2.4
 ---
 
 Paldiski is a small port town on the Estonian coast about 50 km west of Tallinn, with a history shaped more by military necessity than civilian life. Peter the Great founded it in the 18th century as a Baltic naval base, and the Russians never quite let it go — during the Soviet era it was a classified nuclear submarine training centre, closed to outsiders, and Soviet forces only left in 1994, the last Russian troops to leave Estonia.

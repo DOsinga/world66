@@ -16,6 +16,10 @@ image: hongdo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Hongdo_Coastal_Port_2023-10_Korea.jpg
 image_license: CC BY 2.0
 image_attribution: Gupdaal
+heritage: 2.1
+vibrancy: 1.2
+nature: 7.5
+off_the_beaten_track: 6.0
 ---
 
 *Asia > South Korea > Hongdo*

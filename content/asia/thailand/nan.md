@@ -16,6 +16,10 @@ image: nan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2013_Wat_Phumin_Nan.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Takeaway
+heritage: 4.9
+vibrancy: 4.0
+nature: 4.3
+off_the_beaten_track: 3.3
 ---
 
 Nan is a lovely old capital in the far north of [Thailand](/asia/thailand), set in a broad river valley close to the Lao border. It has the temples, teak houses, and layered history of the Lanna north, but without the busloads and souvenir pressure that can flatten better-known towns.

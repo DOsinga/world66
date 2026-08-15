@@ -14,6 +14,10 @@ snippet: Cork commuter town on the Owenboy estuary, useful for Crosshaven and Co
   Harbour beaches.
 title: Carrigaline
 type: location
+heritage: 2.9
+vibrancy: 2.5
+nature: 4.2
+off_the_beaten_track: 1.7
 ---
 
 Carrigaline is a growing commuter town about 15 km south of [Cork](/europe/ireland/cork) city, sitting on the Owenboy River estuary. It is not a major tourist destination in its own right, but it is a convenient base for reaching the coast at [Crosshaven](/europe/ireland/carrigaline/crosshaven) and the beaches around Cork Harbour.

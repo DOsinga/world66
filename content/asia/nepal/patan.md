@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Patan_Museum
 title: Patan
 type: location
+heritage: 7.3
+vibrancy: 2.0
+nature: 3.6
+off_the_beaten_track: 6.6
 ---
 
 Patan lies just a few kilometres south of [Kathmandu](/asia/nepal/kathmandu), separated by the Bagmati River — though the two cities are fast growing into one. Officially known as Lalitpur ("City of Beauty"), Patan is quieter and more walkable than its neighbour, with a centuries-old tradition of metalwork and handicrafts that still shapes its streets.

@@ -18,6 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Baalbek_Stones
 title: Baalbek
 type: location
+heritage: 7.9
+vibrancy: 2.0
+nature: 2.5
+off_the_beaten_track: 5.8
 ---
 
 Baalbek in the northern Bekaa Valley is one of the world's oldest cities and home to the most impressive classical ruins in Lebanon -- and arguably the most important Roman site in the Middle East.

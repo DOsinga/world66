@@ -14,6 +14,10 @@ snippet: Margarita fishing town with a west-facing bay, waterfront sunsets, and 
   de la Galera above.
 title: Juan Griego
 type: location
+heritage: 2.3
+vibrancy: 3.0
+nature: 6.1
+off_the_beaten_track: 4.4
 ---
 
 Juan Griego is a small fishing town on the north coast of Margarita, famous for one thing: its sunsets. The bay faces west and the sun drops straight into the water, framed by the hills on either side. People gather at the waterfront restaurants each evening to watch.

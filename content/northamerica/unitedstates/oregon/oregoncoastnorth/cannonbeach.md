@@ -12,6 +12,10 @@ snippet: Northern Oregon coast town where broad sand and forested headlands fram
   Haystack Rock
 title: Cannon Beach
 type: location
+heritage: 2.4
+vibrancy: 3.7
+nature: 7.8
+off_the_beaten_track: 2.0
 ---
 
 Cannon Beach is a small coastal town on the northern Oregon coast, about an hour and a half drive from Portland. The beach is broad and sandy, backed by forest-covered headlands, and dominated by [Haystack Rock](/northamerica/unitedstates/oregon/oregoncoastnorth/cannonbeach/haystack_rock) — a 72-metre sea stack rising directly from the surf just offshore. Haystack Rock is one of the most photographed landmarks on the Oregon coast and accessible on foot at low tide, where tidepools around its base hold starfish, anemones, and other marine life.

@@ -13,6 +13,10 @@ image: dadesgorge.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gorges_du_dades03.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Hans Peter Schaefer (= Hps-poll)
+heritage: 2.5
+vibrancy: 1.2
+nature: 7.6
+off_the_beaten_track: 3.9
 ---
 
 The Dades Gorge cuts through the eastern High Atlas in [Morocco](/africa/morocco), carving a dramatic valley between the town of Boumalne Dades and the mountains to the north. The lower valley is wide and colourful — green riverbed vegetation set against red, scarlet, and ochre rock — before the gorge narrows dramatically at Ait Oudinar, where the road twists through a series of hairpin bends beneath towering cliff walls.

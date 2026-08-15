@@ -5,12 +5,17 @@ loc_type: city
 latitude: 42.223333
 longitude: -121.7775
 score: 7.2
-snippet: Southern Oregon lake-basin city with birding, rail trails, western art, and high-desert edges.
+snippet: Southern Oregon lake-basin city with birding, rail trails, western art, and
+  high-desert edges.
 wikidata: Q846146
 sources:
-  - https://en.wikivoyage.org/wiki/Klamath_Falls
-  - https://www.discoverklamath.com/adventure-guides/where-are-the-falls-in-klamath-falls
-  - https://klamath.org/visitors/
+- https://en.wikivoyage.org/wiki/Klamath_Falls
+- https://www.discoverklamath.com/adventure-guides/where-are-the-falls-in-klamath-falls
+- https://klamath.org/visitors/
+heritage: 2.3
+vibrancy: 2.1
+nature: 6.9
+off_the_beaten_track: 3.1
 ---
 
 Klamath Falls is often treated as the practical stop before Crater Lake, Lava Beds, or the Oregon-California border. It can do that job, but it also has enough of its own high-desert character to reward a day. The city sits between Upper Klamath Lake and Lake Ewauna, with big skies, birdlife, old rail corridors, and a downtown that still feels tied to timber and ranch country.

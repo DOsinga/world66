@@ -10,6 +10,10 @@ snippet: Papua New Guinea coastal town of lagoons, wartime wrecks, coral reefs, 
   offshore volcanic islands.
 title: Madang
 type: location
+heritage: 4.2
+vibrancy: 3.5
+nature: 7.5
+off_the_beaten_track: 7.2
 ---
 
 Madang is often called the prettiest town in the Pacific, and the claim is not unreasonable. Set on a peninsula between lagoons and the open sea, the town is full of parks, ponds and waterways, with coconut plantations stretching along the coast in both directions. The diving and snorkelling are excellent — warm water, coral reefs, and several [submerged wrecks from World War II](/asia/papuanewguinea/madang/wwii_wrecks).

@@ -15,6 +15,10 @@ sources:
 - https://inalahan.com/visitors/things-do
 title: Inarajan
 type: location
+heritage: 4.6
+vibrancy: 1.2
+nature: 7.4
+off_the_beaten_track: 4.2
 ---
 
 Inarajan, officially restored as Inalåhan, is one of the most atmospheric villages in southern Guam. It sits on the island's quieter southeast coast, away from the resort strip, with old houses, a tight village centre, and a stronger sense of Chamorro continuity than you find in much of the north.

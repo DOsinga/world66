@@ -15,6 +15,10 @@ image: almora.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Almora_Uttarakhand_India_2013.jpg
 image_license: CC BY 2.0
 image_attribution: Travelling Slacker
+heritage: 4.9
+vibrancy: 5.0
+nature: 7.4
+off_the_beaten_track: 3.8
 ---
 
 *Asia > India > Uttaranchal > Almora*

@@ -14,6 +14,10 @@ snippet: Tropical Queensland coastal town and main sailing gateway to the Whitsu
   Islands and Whitehaven Beach.
 title: Airlie Beach
 type: location
+heritage: 1.7
+vibrancy: 2.6
+nature: 6.3
+off_the_beaten_track: 2.2
 ---
 
 Airlie Beach is the gateway to the Whitsunday Islands, a small coastal town in tropical North Queensland that exists almost entirely to get people onto boats. The main strip is a short stretch of bars, tour booking offices, backpacker hostels, and dive shops, with a man-made [lagoon pool](/australiaandpacific/australia/queensland/airliebeach/airlie_beach_lagoon) on the foreshore that compensates for the stinger-season swimming restrictions.

@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Parc_Ela
 title: Savognin
 type: location
+heritage: 2.9
+vibrancy: 2.0
+nature: 7.4
+off_the_beaten_track: 3.0
 ---
 
 Savognin is a quiet village in the Surses valley of Graubünden, surrounded by mountains and largely overlooked by the international tourist crowd heading for St. Moritz an hour to the south. That is part of its appeal. The [ski area](/europe/switzerland/savognin/ski_area) is mid-sized — about 80 kilometres of runs, mostly red and blue — and family-friendly, with none of the glitz or the prices of the Engadin resorts.

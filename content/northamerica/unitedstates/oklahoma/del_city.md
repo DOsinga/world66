@@ -13,6 +13,10 @@ title: Del City
 snippet: Working-class Oklahoma City suburb shaped by neighbouring Tinker Air Force
   Base and military families.
 type: location
+heritage: 1.7
+vibrancy: 2.1
+nature: 2.0
+off_the_beaten_track: 1.2
 ---
 
 Del City is a working-class suburb of about 22,000 people on the southeast side of [Oklahoma City](/northamerica/unitedstates/oklahoma/oklahomacity), bordered by Tinker Air Force Base to the east. The base, one of the largest Air Force installations in the country, has shaped the community since the 1940s, and many Del City residents have ties to the military.

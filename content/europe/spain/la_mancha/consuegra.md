@@ -14,6 +14,10 @@ longitude: -3.607079
 score: 8.18
 title: Consuegra
 type: location
+heritage: 6.7
+vibrancy: 3.0
+nature: 3.9
+off_the_beaten_track: 2.6
 ---
 
 Consuegra is a town of about 10,000 in Castilla-La Mancha, and if you are travelling through Don Quixote country, this is the stop to make. [Twelve restored windmills](/europe/spain/la_mancha/consuegra/molinos_de_viento) stand in a row along a ridge above the flat plains, white against the sky, with a Moorish castle at one end — the [Castillo de la Muela](/europe/spain/la_mancha/consuegra/castillo_de_la_muela) — completing a scene that looks almost too perfectly composed to be real. Cervantes scholars debate whether these are the actual windmills Quixote charged at (they argue for Mota del Cuervo or Campo de Criptana), but Consuegra's ridge is the most visually dramatic and the one that lodges in the memory.

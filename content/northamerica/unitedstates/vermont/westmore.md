@@ -14,6 +14,10 @@ title: Westmore
 type: location
 snippet: Tiny Vermont lake town beneath Mount Pisgah cliffs, focused on Lake Willoughby's
   clear glacial water.
+heritage: 3.5
+vibrancy: 1.5
+nature: 7.0
+off_the_beaten_track: 3.2
 ---
 
 Westmore is a tiny town on the shores of [Lake Willoughby](/northamerica/unitedstates/vermont/westmore/lake_willoughby), Vermont's fourth largest lake and arguably its most dramatic. The lake sits in a glacial cleft between [Mount Pisgah](/northamerica/unitedstates/vermont/westmore/mount_pisgah) and [Mount Hor](/northamerica/unitedstates/vermont/westmore/mount_hor), with cliffs dropping straight into deep, clear water. Several state parks surround the town, including [Sentinel Rock State Park](/northamerica/unitedstates/vermont/westmore/sentinel_rock_state_park), making it a popular destination for swimming, fishing, and hiking in the heart of the Northeast Kingdom.

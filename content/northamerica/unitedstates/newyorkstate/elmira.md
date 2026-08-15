@@ -12,6 +12,10 @@ title: Elmira
 snippet: Southern Tier river city where Mark Twain spent summers writing some of his
   best-known books.
 type: location
+heritage: 3.6
+vibrancy: 3.0
+nature: 4.7
+off_the_beaten_track: 1.6
 ---
 
 Elmira sits in the Southern Tier of New York State, along the Chemung River in the Finger Lakes region. It is best known as the place where Mark Twain spent his summers for over twenty years, writing many of his most famous works -- including *Adventures of Huckleberry Finn*, *The Adventures of Tom Sawyer*, and *A Connecticut Yankee in King Arthur's Court* -- in an [octagonal study on the Elmira College campus](/northamerica/unitedstates/newyorkstate/elmira/mark_twains_study).

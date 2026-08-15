@@ -15,6 +15,10 @@ image: clairvaux.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Building_in_Clairvaux-d%27Aveyron_04.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Krzysztof Golik
+heritage: 6.4
+vibrancy: 3.1
+nature: 3.2
+off_the_beaten_track: 1.8
 ---
 
 Few places in France carry as much weight as Clairvaux. On 25 June 1115, a young monk named Bernard led a small band of Cistercians into a clearing in the forest of the Aube valley — then called Val d'Absinthe — and began building [an abbey](/europe/france/champagne/clairvaux/clairvaux_abbey) that would change medieval Europe. From Clairvaux, Bernard launched the Second Crusade, corresponded with popes and kings, and oversaw the founding of over 160 daughter abbeys. He died here in 1153 and was canonised just 21 years later.

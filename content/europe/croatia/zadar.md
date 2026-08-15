@@ -14,6 +14,10 @@ snippet: Ancient Dalmatian coastal city where Roman streets meet wave-powered wa
   art.
 title: Zadar
 type: location
+heritage: 4.3
+vibrancy: 5.9
+nature: 5.6
+off_the_beaten_track: 1.5
 ---
 
 Zadar is a 3,000-year-old city on the Dalmatian coast, and for centuries it was the capital of the entire region. The old town sits on a narrow peninsula, still laid out on its ancient Roman street grid. A [Roman forum](/europe/croatia/zadar/roman_forum) — the largest on the eastern Adriatic — anchors the center, and the 9th-century [Church of St. Donatus](/europe/croatia/zadar/church_of_st_donatus) stands beside it, a round pre-Romanesque structure that has become the city's signature landmark.

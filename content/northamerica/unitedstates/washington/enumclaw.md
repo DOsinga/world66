@@ -14,6 +14,10 @@ snippet: Cascade foothills town southeast of Seattle, serving as a gateway to Cr
   Mountain and Mount Rainier.
 title: Enumclaw
 type: location
+heritage: 3.0
+vibrancy: 1.7
+nature: 7.2
+off_the_beaten_track: 3.8
 ---
 
 Enumclaw sits at the foot of the Cascade foothills in southeast King County, about 45 miles southeast of Seattle. The town bills itself the "Gateway to Mt. Rainier," and the claim is honest: Highway 410 heads east out of downtown, climbs through timber country, and delivers you to [Crystal Mountain](/northamerica/unitedstates/washington/enumclaw/crystal_mountain) ski area and [Mt. Rainier National Park](/northamerica/unitedstates/washington/enumclaw/mt_rainier_national_park) beyond.

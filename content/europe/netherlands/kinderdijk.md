@@ -14,6 +14,10 @@ snippet: Dutch polder village with nineteen 18th-century windmills lined along t
   low Alblasserwaard waterways.
 title: Kinderdijk
 type: location
+heritage: 4.7
+vibrancy: 2.4
+nature: 3.5
+off_the_beaten_track: 1.6
 ---
 
 Kinderdijk is a UNESCO World Heritage site southwest of [Rotterdam](/europe/netherlands/rotterdam) with the most concentrated collection of historic windmills in the Netherlands — [19 of them](/europe/netherlands/kinderdijk/kinderdijk_windmills), built around 1740, lined up along the polders in a landscape that has become one of the country's most photographed scenes.

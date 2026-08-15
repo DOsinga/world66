@@ -10,6 +10,10 @@ snippet: Northern Ontario company town on the Abitibi River, planned around a on
   paper mill.
 title: Iroquois Falls
 type: location
+heritage: 2.2
+vibrancy: 1.4
+nature: 5.8
+off_the_beaten_track: 3.9
 ---
 
 Iroquois Falls is a small town of about 4,500 in northeastern Ontario, on the Abitibi River about 90 km east of Timmins. It was built as a company town in the early 20th century around a pulp and paper mill — the Abitibi Power and Paper Company founded it in 1913, and the mill operated for most of the century. Like many single-industry towns in northern Ontario, it has struggled since the mill's decline.

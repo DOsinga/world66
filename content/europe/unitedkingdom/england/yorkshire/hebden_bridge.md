@@ -18,6 +18,10 @@ tags:
 - south_pennines
 title: Hebden Bridge
 type: location
+heritage: 4.6
+vibrancy: 4.7
+nature: 5.4
+off_the_beaten_track: 3.3
 ---
 
 Hebden Bridge is the Calder Valley town that turned post-industrial Pennine grit into something lively, political, and creative. Stone terraces climb steeply above the railway and canal, old mills have been reused, and the centre is packed with independent shops, cafes, bookshops, and walkers comparing weather forecasts.

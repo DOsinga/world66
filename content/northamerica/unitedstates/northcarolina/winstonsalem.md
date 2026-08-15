@@ -13,6 +13,10 @@ title: Winston-Salem
 snippet: North Carolina city shaped by Moravian Salem, tobacco wealth, and the restored
   Old Salem district.
 type: location
+heritage: 4.6
+vibrancy: 5.0
+nature: 3.4
+off_the_beaten_track: 1.4
 ---
 
 Winston-Salem is the fifth-largest city in North Carolina and one of the most historically interesting. Moravians settled here in the 1700s, establishing what became Salem — they founded the first women's school in the United States ([Salem Academy](/northamerica/unitedstates/northcarolina/winstonsalem/salem_college)) and later Salem College, both still in operation. The tobacco industry made the city wealthy through R.J. Reynolds, and the textile tradition lives on through Hanes and the hosiery business.

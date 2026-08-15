@@ -26,6 +26,10 @@ tip: Havana is a city frozen in faded grandeur — 1950s American cars, crumblin
   unreliable wifi.
 title: Havana
 type: location
+heritage: 5.8
+vibrancy: 4.6
+nature: 3.3
+off_the_beaten_track: 2.3
 ---
 
 Havana is one of the most distinctive cities in the Americas — a capital frozen by circumstance into a specific moment, where the architecture of the 1940s and 1950s coexists with 18th-century colonial palaces and Soviet-era housing blocks, all in various stages of beautiful decay. The combination of physical grandeur and material scarcity produces a city unlike any other: enormous and human-scaled, crumbling and alive, melancholy and relentlessly social.

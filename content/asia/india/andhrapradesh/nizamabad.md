@@ -10,6 +10,10 @@ title: Nizamabad
 type: location
 snippet: Telangana market city known for turmeric production and a hilltop fort layered
   with Deccan dynasties.
+heritage: 3.4
+vibrancy: 3.1
+nature: 2.1
+off_the_beaten_track: 3.4
 ---
 
 Nizamabad is a mid-sized city in the northern part of Telangana (formerly [Andhra Pradesh](/asia/india/andhrapradesh)), about 150 km northwest of [Hyderabad](/asia/india/andhrapradesh/hyderabad). It is a market town at heart, known for its turmeric production — the surrounding region is one of the largest turmeric-growing areas in India, and the spice market here is colourful and worth visiting.

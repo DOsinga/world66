@@ -14,6 +14,10 @@ snippet: Tiny Bucks County crossroads anchored by Peddler's Village and its hand
   Dentzel carousel.
 title: Lahaska
 type: location
+heritage: 5.7
+vibrancy: 3.6
+nature: 3.7
+off_the_beaten_track: 1.8
 ---
 
 Lahaska is a tiny crossroads in Buckingham Township, [Bucks County](/northamerica/unitedstates/pennsylvania/bucks_county), about an hour north of [Philadelphia](/northamerica/unitedstates/pennsylvania/philadelphia). There is not much to the village itself, but it punches well above its weight as a day-trip destination thanks to [Peddler's Village](/northamerica/unitedstates/pennsylvania/bucks_county/lahaska/peddlers_village), a sprawling collection of specialty shops and restaurants set among landscaped gardens along Route 202.

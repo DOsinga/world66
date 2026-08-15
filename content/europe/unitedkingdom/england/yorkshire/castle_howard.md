@@ -14,6 +14,10 @@ tags:
 title: Castle Howard
 type: location
 url: www.castlehoward.co.uk
+heritage: 7.8
+vibrancy: 2.1
+nature: 5.0
+off_the_beaten_track: 2.4
 ---
 
 About 25 kilometres northeast of York, Castle Howard is one of England's grandest baroque houses. Construction began in 1699 to a design by John Vanbrugh (who had never built anything before) and took over a hundred years to complete. The result is theatrical in the best sense: a domed Great Hall, painted ceilings, and corridors lined with Old Masters.

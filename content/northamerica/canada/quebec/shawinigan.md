@@ -18,6 +18,10 @@ image: shawinigan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Energie_Shawinigan.JPG
 image_license: Public domain
 image_attribution: Sylvain Perron
+heritage: 2.7
+vibrancy: 2.4
+nature: 4.2
+off_the_beaten_track: 2.2
 ---
 
 Shawinigan is a Saint-Maurice River city with a tougher industrial past than most Québec getaway towns. Hydroelectric power shaped it, and the best attraction, La Cité de l'énergie, turns that history into a proper visit rather than a plaque beside a dam.

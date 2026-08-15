@@ -14,6 +14,10 @@ snippet: Northwestern Vietnam provincial city at the edge of limestone highlands
   used as a gateway to Muong and Thai valleys.
 title: Hoa Binh
 type: location
+heritage: 2.8
+vibrancy: 1.8
+nature: 5.5
+off_the_beaten_track: 5.1
 ---
 
 Hoa Binh sits 75 km southwest of [Hanoi](/asia/vietnam/hanoi) at the edge of Vietnam's northwestern highlands, where the Red River Delta gives way to limestone mountains and terraced valleys. The provincial capital is not much to look at itself, but it serves as the jumping-off point for some of the most rewarding hill-tribe encounters in northern Vietnam.

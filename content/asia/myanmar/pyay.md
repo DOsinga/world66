@@ -10,6 +10,10 @@ snippet: Ayeyarwady River trading town between Yangon and Bagan, also known as P
   or Pyi.
 title: Pyay
 type: location
+heritage: 3.0
+vibrancy: 2.8
+nature: 4.2
+off_the_beaten_track: 4.8
 ---
 
 Pyay (also known as Prome or Pyi) sits on the banks of the Ayeyarwady River, roughly halfway between Yangon and Bagan. It is an important trading centre between Lower and Upper Myanmar, and a crossing point to the Rakhine Yoma and the coast at Thandwe.

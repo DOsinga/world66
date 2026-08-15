@@ -16,6 +16,10 @@ snippet: Pir Panjal hill station above Islamabad, with colonial traces and pine 
   along The Mall.
 title: Murree
 type: location
+heritage: 5.1
+vibrancy: 4.1
+nature: 7.4
+off_the_beaten_track: 4.4
 ---
 
 Known as the Queen of Hills, Murree sits at 2,300 metres in the Pir Panjal foothills, just an hour's drive northeast of [Islamabad](/asia/pakistan/islamabad). The British established it as a hill station in 1851, and it has been Pakistan's most popular summer retreat ever since.

@@ -3,9 +3,14 @@ latitude: 55.1
 loc_type: city
 longitude: -128.067
 score: 7.0
-snippet: Gitxsan village at the Skeena and Kitwanga rivers, known for battle sites and totem poles.
+snippet: Gitxsan village at the Skeena and Kitwanga rivers, known for battle sites
+  and totem poles.
 title: Kitwanga
 type: location
+heritage: 4.7
+vibrancy: 1.2
+nature: 7.6
+off_the_beaten_track: 5.6
 ---
 
 Kitwanga, also called Gitwangak, is a small Gitxsan village in northern British Columbia where the Kitwanga River meets the Skeena. It is easy to treat it as just the turnoff for the Stewart-Cassiar Highway, but that would miss the reason to stop: this is one of the strongest places in the province for seeing Gitxsan history in the landscape.

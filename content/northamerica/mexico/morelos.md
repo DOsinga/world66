@@ -10,6 +10,10 @@ snippet: Compact central Mexican state of springlike highlands, Cuernavaca garde
   and the fortified ruins of Xochicalco
 title: Morelos
 type: location
+heritage: 6.2
+vibrancy: 3.5
+nature: 3.6
+off_the_beaten_track: 2.0
 ---
 
 Morelos is the smallest state in Mexico after the capital, a compact but varied region due south of Mexico City in the central highlands. Its capital is Cuernavaca, historically known as the "City of Eternal Spring" for its mild climate — a quality that made it the preferred weekend retreat of Mexico City residents since Aztec times and through the colonial period, when Hernán Cortés built his [palace here](/northamerica/mexico/morelos/palace_of_cortes).

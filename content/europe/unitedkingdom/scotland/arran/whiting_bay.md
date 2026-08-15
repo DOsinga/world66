@@ -14,6 +14,10 @@ snippet: Quiet Arran village on a sandy bay, with walks to Glenashdale Falls abo
   the shore
 title: Whiting Bay
 type: location
+heritage: 3.0
+vibrancy: 2.8
+nature: 7.4
+off_the_beaten_track: 2.5
 ---
 
 Whiting Bay is a quiet village on Arran's southeast coast, strung along a sandy bay with views across the Firth of Clyde to the Ayrshire coast. It is a good base for walks to Glenashdale Falls and the Viking fort at the top of the glen. The village has a handful of cafés and a small gallery, and the pace here is noticeably slower than the busier ferry port at Brodick. If you want Arran without the crowds, this is a good place to settle in for a day or two.

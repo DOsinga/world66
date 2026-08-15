@@ -5,7 +5,12 @@ loc_type: city
 latitude: 22.5801
 longitude: 86.4543
 score: 5.4
-snippet: Forested Jharkhand river town with Bengali literary roots, low hills, dams, and waterfalls
+snippet: Forested Jharkhand river town with Bengali literary roots, low hills, dams,
+  and waterfalls
+heritage: 3.1
+vibrancy: 2.0
+nature: 3.7
+off_the_beaten_track: 3.8
 ---
 
 Ghatshila sits on the Subarnarekha River in south-eastern [Jharkhand](/asia/india/jharkhand), where the Chota Nagpur Plateau softens into low forested hills. It is close enough to Jamshedpur to be practical, but the mood is very different: quieter, greener, and still partly shaped by village life, copper country, and Bengali weekend travellers.

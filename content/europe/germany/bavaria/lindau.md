@@ -14,6 +14,10 @@ snippet: Bavarian island town on Lake Constance, with an alpine harbour guarded 
   a lighthouse and stone lion
 title: Lindau
 type: location
+heritage: 6.2
+vibrancy: 5.0
+nature: 5.9
+off_the_beaten_track: 1.7
 ---
 
 Lindau is a small Bavarian town on an island in Lake Constance (the Bodensee), connected to the mainland by a road causeway and a railway bridge. The setting is exceptional — the old town sits on the island while the Alpine peaks of Austria and Switzerland rise across the water.

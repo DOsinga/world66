@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Kratie
 title: Kratie
 type: location
+heritage: 4.6
+vibrancy: 4.4
+nature: 5.4
+off_the_beaten_track: 4.5
 ---
 
 Kratie is a quiet provincial town on the upper Mekong, roughly halfway between Phnom Penh and the Laos border. Most travellers stop here for one reason: the [Irrawaddy dolphins](/asia/cambodia/kratie/irrawaddy_dolphins). A small, critically endangered freshwater population survives in the deep pools at Kampi, about 15km north, and watching them surface in the brown river light is genuinely memorable.

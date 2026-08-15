@@ -14,6 +14,10 @@ image: durham.jpg
 image_source: https://commons.wikimedia.org/wiki/File:At_Durham_2025_093_-_Gravestones_at_St_Oswald%27s_Churchyard.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Photograph by Mike Peel (www.mikepeel.net).
+heritage: 6.7
+vibrancy: 5.6
+nature: 3.6
+off_the_beaten_track: 1.6
 ---
 
 It is surprising how many visitors to the UK rush from [London](/europe/unitedkingdom/england/london) to [Scotland](/europe/unitedkingdom/scotland) via [York](/europe/unitedkingdom/england/yorkshire/york) without a thought of Durham. Yet it is a lovely city with a magnificent castle and cathedral and is home to England's third oldest university.

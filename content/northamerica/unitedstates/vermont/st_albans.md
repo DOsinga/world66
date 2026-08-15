@@ -2,14 +2,19 @@
 title: St. Albans
 type: location
 loc_type: city
-latitude: 44.8110
-longitude: -73.0830
+latitude: 44.811
+longitude: -73.083
 score: 6.5
-snippet: Northern Vermont rail town with Civil War history, maple culture, and Lake Champlain close by.
+snippet: Northern Vermont rail town with Civil War history, maple culture, and Lake
+  Champlain close by.
 sources:
-  - https://en.wikivoyage.org/wiki/St._Albans_(Vermont)
-  - https://vermontvacation.com/places-to-visit/downtowns/st-albans/
-  - https://en.wikipedia.org/wiki/St._Albans_Historic_District
+- https://en.wikivoyage.org/wiki/St._Albans_(Vermont)
+- https://vermontvacation.com/places-to-visit/downtowns/st-albans/
+- https://en.wikipedia.org/wiki/St._Albans_Historic_District
+heritage: 4.8
+vibrancy: 3.2
+nature: 4.9
+off_the_beaten_track: 2.1
 ---
 
 St. Albans is a small northern Vermont city with a proper downtown green, red-brick blocks, old railway weight, and Lake Champlain a few miles to the west. It is not as polished as Burlington or Stowe, but it has enough story for a relaxed day if you are already in this corner of the state.

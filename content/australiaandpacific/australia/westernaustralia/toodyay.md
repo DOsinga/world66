@@ -15,6 +15,10 @@ image: toodyay.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Stirling_Terrace,_Toodyay,_2013_(2).JPG
 image_license: CC BY-SA 3.0
 image_attribution: Bahnfrend
+heritage: 3.4
+vibrancy: 3.3
+nature: 5.9
+off_the_beaten_track: 4.9
 ---
 
 Toodyay is a small Avon Valley town about 85 kilometres east of Perth, old enough and intact enough to feel different from the suburbs you leave behind. It began as one of Western Australia's early inland settlements, shifted after flooding, and spent part of the nineteenth century under the name Newcastle. The old stone buildings, railway, river, and dry hills give it a compact but real sense of place.

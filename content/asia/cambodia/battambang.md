@@ -13,6 +13,10 @@ snippet: Cambodian river city with French colonial streets, relaxed markets, and
   temples nearby
 title: Battambang
 type: location
+heritage: 5.9
+vibrancy: 4.0
+nature: 3.8
+off_the_beaten_track: 2.9
 ---
 
 Battambang is Cambodia's second city, a relaxed place on the Sangkae River with crumbling [French colonial architecture](/asia/cambodia/battambang/colonial_architecture) and a pace that feels decades behind [Phnom Penh](/asia/cambodia/phnompenh). It sits on the main route between the capital and [Bangkok](/asia/thailand/bangkok), and many travellers stop here for a day or two on their way through.

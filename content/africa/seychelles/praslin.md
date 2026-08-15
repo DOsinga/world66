@@ -23,6 +23,10 @@ tip: Praslin is home to the Vallée de Mai, a prehistoric palm forest that grows
   it. Hire a car or use the cheap buses; the island is small.
 title: Praslin
 type: location
+heritage: 2.2
+vibrancy: 2.1
+nature: 7.1
+off_the_beaten_track: 4.3
 ---
 
 Praslin is the second largest island in the Seychelles, lying 37 kilometres northeast of Mahé — two hours by boat or fifteen minutes by air. When the French explorer Lazare Picault first arrived in 1744, he named it the Island of Palms. The vegetation was so extraordinary that General Gordon of Khartoum, visiting a century later, became convinced this was the site of the original Garden of Eden.

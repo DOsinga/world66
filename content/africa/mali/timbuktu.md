@@ -12,6 +12,10 @@ snippet: Saharan city of mud-brick mosques and manuscript libraries, once centra
   to Islamic scholarship and trade
 title: Timbuktu
 type: location
+heritage: 7.2
+vibrancy: 1.5
+nature: 3.8
+off_the_beaten_track: 6.5
 ---
 
 In the West, Timbuktu means "the ends of the earth." For centuries no European saw it and returned alive. The reality, when you finally arrive, is quieter than the legend — a small sand-coloured town at the edge of the Sahara where the desert meets the Niger River's floodplain.

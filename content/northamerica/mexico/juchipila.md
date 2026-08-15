@@ -10,6 +10,10 @@ snippet: Zacatecas canyon town on the Río Juchipila, shaped by festivals and Ca
   Real history
 title: Juchipila
 type: location
+heritage: 3.0
+vibrancy: 2.2
+nature: 4.1
+off_the_beaten_track: 4.1
 ---
 
 Juchipila is a small town in the Cañones region of Zacatecas state, set in a river canyon carved by the Río Juchipila. It sits on the old Camino Real de Tierra Adentro and retains a traditional village character largely untouched by mass tourism. The population is modest and the pace is slow, but the town comes alive with extraordinary intensity during its festivals.

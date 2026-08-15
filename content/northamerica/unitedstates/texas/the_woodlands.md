@@ -14,6 +14,10 @@ snippet: Master-planned pine-forest suburb north of Houston, centred on a restau
   waterway and concert pavilion.
 title: The Woodlands
 type: location
+heritage: 2.1
+vibrancy: 3.7
+nature: 3.5
+off_the_beaten_track: 1.3
 ---
 
 The Woodlands is a large master-planned community about 45 km north of downtown [Houston](/northamerica/unitedstates/texas/houston), built among the pine forests of Montgomery County. It functions as a self-contained suburb with its own town centre, a waterway lined with restaurants and shops, and a well-known outdoor concert venue (the Cynthia Woods Mitchell Pavilion).

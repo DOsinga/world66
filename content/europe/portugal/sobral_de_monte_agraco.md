@@ -16,6 +16,10 @@ sources:
 title: Sobral de Monte Agraço
 type: location
 wikidata: Q1005105
+heritage: 2.8
+vibrancy: 2.3
+nature: 3.8
+off_the_beaten_track: 1.5
 ---
 
 Sobral de Monte Agraço is a small town north of Lisbon with one strong historical claim: it sat on the Lines of Torres Vedras, the defensive system that helped stop Massena's army during the Peninsular War. Without that story it would be a pleasant but ordinary rural town. With it, Sobral becomes a compact place to understand why the French advance on Lisbon failed.

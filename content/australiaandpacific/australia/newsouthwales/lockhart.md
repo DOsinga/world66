@@ -5,13 +5,18 @@ loc_type: city
 latitude: -35.2167
 longitude: 146.7167
 score: 6.5
-snippet: Small Riverina verandah town with farm-art sculpture, wool portraits, and pastoral history.
+snippet: Small Riverina verandah town with farm-art sculpture, wool portraits, and
+  pastoral history.
 sources:
 - https://en.wikivoyage.org/wiki/Lockhart
 - https://www.visitlockhartshire.com.au/explore/explorer-lockhart/
 - https://murrumbidgeetrails.com.au/lockhart-the-rock-yerong-creek-and-surrounds
 - https://lockhartmuseum.org/
 wikidata: Q2422416
+heritage: 3.7
+vibrancy: 1.7
+nature: 3.1
+off_the_beaten_track: 3.0
 ---
 
 Lockhart is a small Riverina town southwest of Wagga Wagga, known locally as the "Verandah Town" for the shaded shopfronts along Green Street. It is not a big-ticket destination, but it clears the day-trip test because its identity is unusually clear: pastoral history, recycled-farm-machinery sculpture, wool art, and a tidy old main street that still feels lived in.

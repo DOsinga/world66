@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Haapsalu
 title: Haapsalu
 type: location
+heritage: 6.7
+vibrancy: 3.0
+nature: 4.7
+off_the_beaten_track: 2.1
 ---
 
 Haapsalu is a small resort town on the west coast of Estonia, known for centuries for its warm sea water, curative mud baths, and peaceful atmosphere. The narrow streets lined with early twentieth-century wooden houses make the [old town](/europe/estonia/haapsalu/old_town) a pleasant place to wander, and the pace of life here is noticeably slower than Tallinn, two hours to the east.

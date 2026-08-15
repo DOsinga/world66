@@ -17,6 +17,10 @@ image: fort_chipewyan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Fort_chipewyan_with_steamer_frozen_in_the_ice_1900_0001-4-0.jpg
 image_license: Public domain
 image_attribution: Joseph Tyrrell
+heritage: 3.0
+vibrancy: 1.1
+nature: 6.6
+off_the_beaten_track: 6.4
 ---
 
 *North America > Canada > Alberta > Fort Chipewyan*

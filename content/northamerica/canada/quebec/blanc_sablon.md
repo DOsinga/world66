@@ -5,12 +5,17 @@ loc_type: city
 latitude: 51.4275
 longitude: -57.1333
 score: 6.7
-snippet: Quebec's easternmost municipality, set between Labrador, the Strait of Belle Isle, and deep coastal archaeology.
+snippet: Quebec's easternmost municipality, set between Labrador, the Strait of Belle
+  Isle, and deep coastal archaeology.
 wikidata: Q2905888
 sources:
-  - https://en.wikivoyage.org/wiki/Blanc-Sablon
-  - https://en.wikipedia.org/wiki/Blanc-Sablon
-  - https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=11842
+- https://en.wikivoyage.org/wiki/Blanc-Sablon
+- https://en.wikipedia.org/wiki/Blanc-Sablon
+- https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=11842
+heritage: 3.7
+vibrancy: 0.7
+nature: 8.1
+off_the_beaten_track: 6.6
 ---
 
 Blanc-Sablon is the far eastern end of Quebec: a small municipality of three villages where the province meets Labrador and the Strait of Belle Isle. It is remote, windy, and practical, with ferries, fishing history, low houses, and a coast that feels closer to Newfoundland than to Montreal.

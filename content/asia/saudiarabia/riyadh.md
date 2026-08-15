@@ -22,6 +22,10 @@ tip: Riyadh is a fast-modernising desert capital, drier and more conservative th
   heat is extreme.
 title: Riyadh
 type: location
+heritage: 6.2
+vibrancy: 4.5
+nature: 1.4
+off_the_beaten_track: 4.4
 ---
 
 Riyadh is the capital and largest city of Saudi Arabia, sitting at around 600 metres above sea level on the high limestone plateau of the Nejd in the centre of the Arabian Peninsula. The name in Arabic means "gardens," a reference to the date palms and cultivated plots that once made this desert settlement viable. Today it is a sprawling metropolitan area of over seven million people, one of the fastest-growing cities on earth in the latter half of the twentieth century, and a place undergoing a second transformation in the third decade of the twenty-first.

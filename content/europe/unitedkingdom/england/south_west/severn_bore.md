@@ -9,6 +9,10 @@ score: 6.91
 loc_type: feature
 snippet: Tidal bore on the River Severn, where a single wave surges inland from the
   Bristol Channel.
+heritage: 3.8
+vibrancy: 1.9
+nature: 6.9
+off_the_beaten_track: 4.6
 ---
 
 The Severn Bore is one of the largest tidal bores in the world, a single breaking wave that surges up the River Severn from the Bristol Channel during the highest tides of the year. Although not the biggest bore on earth — the Amazon's pororoca and China's Silver Dragon are more dramatic — the Severn Bore is a genuine spectacle, rolling upstream at speeds of up to 13 mph and reaching heights of two metres on the largest events.

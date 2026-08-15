@@ -15,6 +15,10 @@ image: lundy.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lundy_Island_,_Coastal_Scenery_-_geograph.org.uk_-_5852332.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Lewis Clarke
+heritage: 4.9
+vibrancy: 0.9
+nature: 8.4
+off_the_beaten_track: 6.0
 ---
 
 Lundy is a three-mile granite island where the Bristol Channel meets the Atlantic, and it feels much larger than it is. There are no cars, almost no softness, and very little to buy beyond the basics. That is the point. You come for cliffs, wind, seabirds, lighthouses, and the strange pleasure of being briefly cut off from Devon.

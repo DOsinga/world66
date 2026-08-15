@@ -13,6 +13,10 @@ snippet: Southern California mountain resort town around an alpine lake, with wi
   skiing, summer paddling, and a solar observatory.
 title: Big Bear Lake
 type: location
+heritage: 2.0
+vibrancy: 3.9
+nature: 6.7
+off_the_beaten_track: 2.0
 ---
 
 Big Bear Lake is a mountain resort town in the San Bernardino National Forest, about two hours east of Los Angeles. At 2,060 metres elevation, it is the closest thing Southern California has to a proper four-season mountain destination — snow in winter, warm dry summers, and autumn colour from the surrounding pines and oaks.

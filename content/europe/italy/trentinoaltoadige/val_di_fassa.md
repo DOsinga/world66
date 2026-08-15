@@ -13,6 +13,10 @@ snippet: Ladin-speaking Dolomite valley linking ski villages, via ferrata routes
   and the Marmolada glacier.
 title: Val di Fassa
 type: location
+heritage: 3.1
+vibrancy: 3.3
+nature: 8.0
+off_the_beaten_track: 2.8
 ---
 
 Val di Fassa is a narrow valley in the heart of the Dolomites, running from the Marmolada glacier southeast to where it meets Val di Fiemme. It is one of the Ladin-speaking valleys of Trentino — the local language, culture, and cuisine have more in common with the other Ladin valleys (Val Gardena, Val Badia) than with the Italian-speaking towns lower down.

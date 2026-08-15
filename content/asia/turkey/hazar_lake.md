@@ -11,6 +11,10 @@ image: hazar_lake.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lake_Hazar_(Turkey)_-_April_2015.jpg
 image_license: CC BY 2.0
 image_attribution: mehmetdeveci
+heritage: 3.1
+vibrancy: 1.5
+nature: 7.3
+off_the_beaten_track: 6.3
 ---
 
 Hazar Gölü (also called Gölcük) is a long, deep lake in a tectonic basin south of Elazığ, sitting at around 1,200 metres above sea level. The road from the city climbs through a pass and the lake appears suddenly below — narrow, steel-blue, hemmed in by bare hills. It is the closest thing the area has to a hill station, and on summer weekends half of Elazığ seems to drive down for the day.

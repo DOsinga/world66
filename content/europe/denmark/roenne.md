@@ -19,6 +19,10 @@ tags:
 - bornholmisland
 title: Roenne
 type: location
+heritage: 5.1
+vibrancy: 2.8
+nature: 5.9
+off_the_beaten_track: 2.0
 ---
 
 Rønne is the main town and ferry port of [Bornholm](/europe/denmark/bornholmisland), the Danish island in the Baltic Sea that gets more sunshine than anywhere else in Denmark. Most visitors pass through on their way to the round churches, the coastal cliffs, and the smoked herring of Gudhjem, but Rønne itself is worth a couple of hours.

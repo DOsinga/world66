@@ -14,6 +14,10 @@ snippet: Small Romanian city in the Jiu Valley, known for Constantin Brâncuși'
   sculpture ensemble.
 title: Târgu Jiu
 type: location
+heritage: 6.6
+vibrancy: 2.7
+nature: 3.8
+off_the_beaten_track: 3.3
 ---
 
 Târgu Jiu is a small city in the Jiu Valley of southwestern Romania, and it would be entirely unremarkable if not for one thing: Constantin Brâncuși was born nearby, and in 1937–38 he created an extraordinary ensemble of monumental sculptures here that ranks among the most important public art in Europe.

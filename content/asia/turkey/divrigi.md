@@ -17,6 +17,10 @@ sources:
 title: Divriği
 type: location
 wikidata: Q743587
+heritage: 7.1
+vibrancy: 2.0
+nature: 2.7
+off_the_beaten_track: 4.8
 ---
 
 Divriği is a small, remote town in the mountains of Sivas province, on the railway between central Anatolia and the upper Euphrates country. It would be easy to pass it off as an old mining town if it did not hold one of Turkey's great medieval buildings.

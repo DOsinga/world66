@@ -16,6 +16,10 @@ image: enniscrone.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Enniscrone_Beach_at_Sunset.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Robin Mais
+heritage: 3.5
+vibrancy: 3.0
+nature: 5.8
+off_the_beaten_track: 2.0
 ---
 
 Enniscrone is a seaside village on the west coast of County Sligo, built around a long strand, dunes, surf schools, and the old habit of soaking in hot seawater and seaweed. It is a resort, but not only a resort strip: the beach is genuinely good, the Atlantic setting is broad, and the seaweed baths give it a local ritual that many prettier beaches lack.

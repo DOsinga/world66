@@ -14,6 +14,10 @@ snippet: Aklan market town and Boracay gateway, best known for the drum-filled A
   Festival
 title: Kalibo
 type: location
+heritage: 2.3
+vibrancy: 5.4
+nature: 6.0
+off_the_beaten_track: 2.3
 ---
 
 Most travelers pass through Kalibo on their way to Boracay — the town's airport is the main entry point for the island — but that's a shame, because Kalibo is worth more than a quick connection. It's the capital of Aklan province, a busy, lived-in market town with good food and a genuinely welcoming atmosphere.

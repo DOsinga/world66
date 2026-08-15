@@ -10,6 +10,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Houma
 - https://www.tourlouisiana.com/destinations/houma
 - https://slwdc.org/bayou-terrebonne-waterlife-museum
+heritage: 3.4
+vibrancy: 2.3
+nature: 3.6
+off_the_beaten_track: 2.0
 ---
 
 Houma sits in south Louisiana, where Bayou Terrebonne runs through town and the marsh country begins to take over the map. It is less polished than [New Orleans](/northamerica/unitedstates/louisiana/neworleans) and less famous than [Lafayette](/northamerica/unitedstates/louisiana/lafayette), but it has a real bayou identity: seafood, shrimp boats, Cajun family names, and water shaping daily life.

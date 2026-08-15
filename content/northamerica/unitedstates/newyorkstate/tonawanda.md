@@ -14,6 +14,10 @@ snippet: Erie Canal twin city north of Buffalo, with waterfront heritage and a h
   carrousel factory museum.
 title: Tonawanda
 type: location
+heritage: 2.3
+vibrancy: 2.2
+nature: 3.5
+off_the_beaten_track: 1.7
 ---
 
 The "Tonawandas" — the City of Tonawanda and the City of North Tonawanda — are twin cities on the Erie Canal just north of Buffalo. They grew up as canal ports in the 19th century, and that waterfront heritage is still the most interesting thing about them.

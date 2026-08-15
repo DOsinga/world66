@@ -14,6 +14,10 @@ snippet: Small Nièvre hill town on the Morvan edge, with gorges, lakes, and a n
   church.
 title: Lormes
 type: location
+heritage: 6.3
+vibrancy: 2.6
+nature: 3.8
+off_the_beaten_track: 3.1
 ---
 
 Lormes is a small hilltop town in the Nièvre département, on the western edge of the [Morvan](/europe/france/burgundy/morvan) regional natural park. Recognised as a "Cité de Caractère de Bourgogne-Franche-Comté" in 2024, it makes a practical base for exploring the Morvan's forests and lakes, or a natural stopover on the way to [Vézelay](/europe/france/burgundy/vezelay), about 40 kilometres to the north.

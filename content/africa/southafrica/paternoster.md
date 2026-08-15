@@ -5,12 +5,17 @@ loc_type: city
 latitude: -32.8106
 longitude: 17.8919
 score: 7.3
-snippet: Whitewashed West Coast fishing village beside Cape Columbine's rocky Atlantic shore.
+snippet: Whitewashed West Coast fishing village beside Cape Columbine's rocky Atlantic
+  shore.
 wikidata: Q1021700
 sources:
-  - https://en.wikivoyage.org/wiki/Paternoster
-  - https://en.wikipedia.org/wiki/Paternoster,_Western_Cape
-  - https://sbm.gov.za/cape-columbine-nature-reserve-tietiesbaai/
+- https://en.wikivoyage.org/wiki/Paternoster
+- https://en.wikipedia.org/wiki/Paternoster,_Western_Cape
+- https://sbm.gov.za/cape-columbine-nature-reserve-tietiesbaai/
+heritage: 5.0
+vibrancy: 4.5
+nature: 5.4
+off_the_beaten_track: 5.2
 ---
 
 Paternoster is a small fishing village turned holiday town on South Africa's West Coast. The best of it is simple: whitewashed cottages, cold Atlantic light, fishing boats on the beach, crayfish season, and the rocky Cape Columbine coast just beyond the last houses.

@@ -13,6 +13,10 @@ image: penzance.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Abbey_Slip_full_with_people_swimming_and_paddleboarding_in_Penzance.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Kernow Skies
+heritage: 5.4
+vibrancy: 4.3
+nature: 6.5
+off_the_beaten_track: 3.5
 ---
 
 Penzance is the end of the line — literally. The mainline railway from London terminates here, and from the harbour the overnight ferry departs for the Isles of Scilly, 28 miles out into the Atlantic. The town has a slightly end-of-the-world quality that many people find appealing, and its position on the sheltered northern shore of Mount's Bay gives it a mild climate unusual for England.

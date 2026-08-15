@@ -15,6 +15,10 @@ image: sooke.jpg
 image_source: https://commons.wikimedia.org/wiki/File:A_small_island_off_the_coast_of_East_Sooke_Regional_Park,_British_Columbia,_Canada_21.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Michal Klajban
+heritage: 3.2
+vibrancy: 2.4
+nature: 7.3
+off_the_beaten_track: 3.3
 ---
 
 Sooke is a harbor town west of Victoria, useful as a base but strong enough for a day in its own right. It sits where southern Vancouver Island starts to feel rougher: rocky points, cold Pacific water, rainforest trails, and the road onward to Port Renfrew.

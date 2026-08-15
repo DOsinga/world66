@@ -7,13 +7,18 @@ latitude: 12.6294
 loc_type: city
 longitude: -87.1311
 score: 6.9
-snippet: Hot western Nicaraguan city of colonial churches, cane fields, and volcano views.
+snippet: Hot western Nicaraguan city of colonial churches, cane fields, and volcano
+  views.
 sources:
-  - https://en.wikivoyage.org/wiki/Chinandega
-  - https://en.wikipedia.org/wiki/Chinandega
-  - https://www.wikidata.org/wiki/Q974354
+- https://en.wikivoyage.org/wiki/Chinandega
+- https://en.wikipedia.org/wiki/Chinandega
+- https://www.wikidata.org/wiki/Q974354
 title: Chinandega
 type: location
+heritage: 3.8
+vibrancy: 2.8
+nature: 6.0
+off_the_beaten_track: 5.3
 ---
 
 Chinandega is the hot, workaday capital of Nicaragua's northwestern sugar country. It does not have the easy colonial polish of Leon, but it has a stronger local pulse: bicycle taxis, market streets, yellow churches, rum country nearby and the smoking bulk of San Cristobal volcano on the horizon.

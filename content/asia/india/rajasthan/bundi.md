@@ -14,6 +14,10 @@ snippet: Small Rajasthani town of step-wells, murals, and lanes below star-shape
   Taragarh Fort.
 title: Bundi
 type: location
+heritage: 6.0
+vibrancy: 4.5
+nature: 4.7
+off_the_beaten_track: 3.6
 ---
 
 Bundi is what Rajasthan must have felt like before the tour buses arrived. This small town, about 40 km from [Kota](/asia/india/rajasthan/kota), sits below the star-shaped [Taragarh Fort](/asia/india/rajasthan/bundi/taragarh_fort) and is filled with crumbling havelis, step-wells, and narrow lanes largely free of souvenir shops.

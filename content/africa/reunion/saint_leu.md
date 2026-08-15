@@ -16,6 +16,10 @@ image: saint_leu.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Panorama_Saint_leu.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Regulator
+heritage: 4.4
+vibrancy: 3.6
+nature: 7.7
+off_the_beaten_track: 4.4
 ---
 
 Saint-Leu is one of Réunion's better small coastal bases: relaxed enough for a beach day, but with more to do than simply stare at the lagoon. It spreads along the island's sunny west coast, backed by dry slopes and old agricultural land that once grew coffee, sugar cane, and geranium.

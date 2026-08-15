@@ -14,6 +14,10 @@ title: Ourense
 type: location
 snippet: Inland Galician city on the Río Miño, known for medieval streets and urban
   hot springs.
+heritage: 5.8
+vibrancy: 4.0
+nature: 6.3
+off_the_beaten_track: 3.4
 ---
 
 Ourense is Galicia's inland city, and the one most visitors skip — which is a mistake. Sitting on the banks of the Río Miño, it has a handsome medieval old town, a remarkable Roman bridge, and something you won't find in Santiago or Vigo: natural hot springs bubbling up right in the middle of the city.

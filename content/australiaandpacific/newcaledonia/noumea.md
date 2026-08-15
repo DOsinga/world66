@@ -15,6 +15,10 @@ snippet: European-feeling Pacific capital on Grande Terre, wrapped around bays w
   French and Kanak influences
 title: Nouméa
 type: location
+heritage: 4.6
+vibrancy: 3.8
+nature: 7.5
+off_the_beaten_track: 4.6
 ---
 
 Nouméa, the capital of New Caledonia, is an unlikely Pacific capital — a surprisingly European town of around 100,000 people wrapped around a string of bays on the southwestern tip of the main island of Grande Terre. French bakeries, yachts in every harbour, and Kanak traditional art sitting next to colonial architecture give it a feel unlike anywhere else in the Pacific.

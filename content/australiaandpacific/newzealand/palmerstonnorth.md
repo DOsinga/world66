@@ -14,6 +14,10 @@ snippet: Manawatu university city centred on Massey University and one of New Ze
   largest urban squares.
 title: Palmerston North
 type: location
+heritage: 3.2
+vibrancy: 4.1
+nature: 5.5
+off_the_beaten_track: 2.0
 ---
 
 Palmerston North — "Palmy" to everyone in New Zealand — is a university city in the Manawatu region of the North Island, sitting on a plain between the Tararua and Ruahine ranges. It is the home of [Massey University](/australiaandpacific/newzealand/palmerstonnorth/massey_university), which gives the city a younger, more diverse feel than its agricultural surroundings might suggest. The wide central square, known simply as [The Square](/australiaandpacific/newzealand/palmerstonnorth/the_square), is the hub of the city and one of the largest urban squares in New Zealand.

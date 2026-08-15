@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Konstanz
 title: Konstanz
 type: location
+heritage: 5.2
+vibrancy: 3.2
+nature: 6.6
+off_the_beaten_track: 2.1
 ---
 
 Konstanz sits right on the Swiss border at the western end of Lake Constance (Bodensee), and it has a rare distinction among German cities: it was not bombed in the war, because the Allies could not tell it apart from Switzerland at night. As a result, the medieval old town survives intact — a tangle of narrow lanes, painted facades, and half-timbered houses that runs from the cathedral down to the harbour.

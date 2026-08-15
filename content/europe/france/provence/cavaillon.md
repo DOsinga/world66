@@ -14,6 +14,10 @@ snippet: Luberon market town synonymous with fragrant melons, Roman remains, and
   historic Jewish quarter.
 title: Cavaillon
 type: location
+heritage: 4.5
+vibrancy: 2.8
+nature: 4.4
+off_the_beaten_track: 2.3
 ---
 
 Cavaillon is a market town in the Luberon, and in France its name is virtually synonymous with one thing: melons. The sweet, perfumed Cavaillon melon has been celebrated here since at least the 16th century — Alexandre Dumas loved them so much he offered the town his complete works in exchange for a lifetime supply — and the [Monday morning market](/europe/france/provence/cavaillon/marche_du_lundi) remains one of the largest and most lively in Provence, piled high with produce from the surrounding plains.

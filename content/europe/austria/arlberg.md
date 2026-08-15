@@ -13,6 +13,10 @@ snippet: Austrian alpine pass region linking Tyrol and Vorarlberg, surrounded by
   Anton, Lech, Zürs, and ski terrain.
 title: Arlberg
 type: location
+heritage: 4.3
+vibrancy: 4.4
+nature: 7.8
+off_the_beaten_track: 3.2
 ---
 
 The Arlberg is not actually a mountain but a high pass connecting the Austrian provinces of Tyrol and Vorarlberg — and around it sits one of the finest ski regions in the world. The terrain spans from 1,300 to 2,811 metres, with over 270 kilometres of groomed pistes, 180 kilometres of off-piste runs, and 83 lifts all accessible on a single pass.

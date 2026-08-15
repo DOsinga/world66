@@ -14,6 +14,10 @@ snippet: Kura valley hamlet near Vardzia, known for family-run hot mineral baths
   the cave cliffs.
 title: Tsunda
 type: location
+heritage: 3.0
+vibrancy: 1.5
+nature: 5.9
+off_the_beaten_track: 5.1
 ---
 
 Just before you reach [Vardzia](/europe/georgia/vardzia) coming from Alkhatsikhe, you pass through Tsunda — a hamlet of a handful of houses tucked into the Kura valley. The place is almost entirely off the tourist map, but it deserves a stop for one simple reason: [hot mineral springs](/europe/georgia/tsunda/tsunda_hot_springs).

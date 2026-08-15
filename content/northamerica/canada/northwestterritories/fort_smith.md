@@ -15,6 +15,10 @@ snippet: Northwest Territories town and gateway to Wood Buffalo National Park, s
   beside Slave River rapids.
 title: Fort Smith
 type: location
+heritage: 4.1
+vibrancy: 0.7
+nature: 7.4
+off_the_beaten_track: 6.7
 ---
 
 Fort Smith sits at the northern edge of Alberta on the banks of the Slave River, just inside the Northwest Territories — and it is the administrative headquarters of [Wood Buffalo National Park](/northamerica/canada/northwestterritories/fort_smith/wood_buffalo_national_park), Canada's largest national park and a UNESCO World Heritage Site. If you are heading into that vast wilderness of boreal forest, salt plains, and bison meadows, this is where you start.

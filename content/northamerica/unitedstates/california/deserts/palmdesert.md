@@ -14,6 +14,10 @@ snippet: Coachella Valley resort city below the Santa Rosa Mountains, balancing 
   gloss with desert ecology.
 title: Palm Desert
 type: location
+heritage: 2.0
+vibrancy: 4.9
+nature: 5.6
+off_the_beaten_track: 1.3
 ---
 
 Palm Desert sits in the Coachella Valley at the foot of the Santa Rosa Mountains, about 15 miles southeast of Palm Springs. It has the sun-bleached swagger of a wealthy resort town — manicured golf courses, open-air shopping on El Paseo, and the kind of winter warmth that draws Canadians south in droves — but it also has one of the best wildlife parks in California.

@@ -13,6 +13,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Parque_Vidal.jpg
 image_license: Public domain
 image_attribution: User:Lezumbalaberenjena
 score: 7.39
+heritage: 4.7
+vibrancy: 4.5
+nature: 5.1
+off_the_beaten_track: 3.9
 ---
 
 Santa Clara is the capital of Villa Clara province, sitting in the centre of Cuba roughly equidistant from Havana and Santiago de Cuba. It's a university city with a lively, younger character than the more touristed colonial towns — the streets around [Parque Vidal](/northamerica/cuba/santaclara/parque_vidal) fill up most evenings with students, musicians, and families doing what Cubans do everywhere: talking, arguing, flirting, and listening to music with the windows open.

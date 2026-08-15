@@ -14,6 +14,10 @@ image: batticaloa.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Batticaloa_Lagoon.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Anton Croos
+heritage: 4.1
+vibrancy: 3.4
+nature: 5.6
+off_the_beaten_track: 4.4
 ---
 
 Batticaloa is a lagoon city on Sri Lanka's east coast, less visited than [Trincomalee](/asia/srilanka/trincomalee) to the north and [Arugam Bay](/asia/srilanka/arugam_bay) to the south. The old town sits on Puliyanthivu, an island in the lagoon linked by road bridges, with colonial buildings, churches, temples, and government offices clustered close to the water.

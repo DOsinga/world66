@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Jining_(Shandong)
 title: Jining
 type: location
+heritage: 4.3
+vibrancy: 2.5
+nature: 1.8
+off_the_beaten_track: 2.2
 ---
 
 Jining occupies the southwestern corner of Shandong, sitting astride the [Grand Canal](/asia/china/shandong_province/jining/grand_canal) at the point where it begins its descent through Shandong toward the Yangtze. For centuries the city was one of the great canal entrepôts, growing wealthy on the grain, silk, and salt that moved north and south through its locks, and the poet Li Bai spent two years here in the 730s — there is a [tower in his memory](/asia/china/shandong_province/jining/li_bai_tower) in the canal district. The canal heritage is less visible now than in the restored stretches to the south, but the [canal front walking district](/asia/china/shandong_province/jining/canal_front) has been thoughtfully restored and the working locks are still in operation nearby.

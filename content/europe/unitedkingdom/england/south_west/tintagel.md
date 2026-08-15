@@ -18,6 +18,10 @@ tags:
 - cornwall
 title: Tintagel
 type: location
+heritage: 7.7
+vibrancy: 2.0
+nature: 5.7
+off_the_beaten_track: 3.0
 ---
 
 Tintagel is a small village on the north Cornwall coast with an outsized place in British mythology — it is inextricably linked with the legend of King Arthur, who is said to have been conceived and perhaps born here. Whether you believe the Arthurian connection or not, the setting is magnificent: [Tintagel Castle](/europe/unitedkingdom/england/south_west/tintagel/tintagel_castle) sits on a rocky headland almost completely surrounded by sea, its medieval ruins rising above cliffs of dark slate above crashing Atlantic surf. The drama of the location was enough to attract Geoffrey of Monmouth in the 12th century, who placed Arthur's birth here, and enough to make it one of the most visited sites in the southwest today.

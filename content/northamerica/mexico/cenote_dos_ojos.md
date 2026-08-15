@@ -19,6 +19,10 @@ tags:
 - nature
 title: Cenote Dos Ojos
 type: location
+heritage: 1.7
+vibrancy: 1.1
+nature: 7.6
+off_the_beaten_track: 3.1
 ---
 
 Two large, almost circular cenotes ("eyes") connected by a 400-metre underwater passage in the jungle 50 km south of Tulum. The water is fresh, cold, and extraordinarily clear — visibility often exceeds 50 metres — and the limestone formations on the walls and roofs glow blue when light pours through. Snorkellers swim from one cenote to the other through the connecting passage, with a rope guide and a guide's flashlight overhead. Cave divers go much further into the side passages.

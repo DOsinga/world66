@@ -27,6 +27,10 @@ tip: Positano is vertical — it's all staircases, so wear flat shoes and send y
   cost a fortune; the free section is small, so arrive early.
 title: Positano
 type: location
+heritage: 6.2
+vibrancy: 8.2
+nature: 5.8
+off_the_beaten_track: 2.3
 ---
 
 Positano is the most-photographed town on the Amalfi Coast — pastel buildings stacked up an almost vertical cliff face, a small beach wedged between rocks at the bottom, and the sea below it all. The images are accurate. It is genuinely beautiful and genuinely crowded in July and August, when the narrow streets become difficult to navigate and the beach fills entirely.

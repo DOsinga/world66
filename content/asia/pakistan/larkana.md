@@ -20,6 +20,10 @@ image: larkana.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Sambara_Inn_Larkana.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Indusian1236
+heritage: 6.7
+vibrancy: 2.1
+nature: 1.8
+off_the_beaten_track: 6.6
 ---
 
 Larkana is the main city of northern Sindh, a hot, dusty, agricultural centre surrounded by rice fields and threaded into both ancient and modern Pakistani history. It is not polished, and it is not an easy sightseeing city, but it has weight: the Indus Valley ruins of [Moenjodaro](/asia/pakistan/moenjodaro) lie to the south, while the Bhutto family mausoleum at Garhi Khuda Bakhsh pulls political pilgrims from across the country.

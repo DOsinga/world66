@@ -16,6 +16,10 @@ snippet: North-central Oklahoma oil city, marked by E.W. Marland's Italian Renai
   mansion and pioneer monuments.
 title: Ponca City
 type: location
+heritage: 1.5
+vibrancy: 1.5
+nature: 2.1
+off_the_beaten_track: 1.8
 ---
 
 Ponca City is a city of around 24,000 in Kay County in north-central Oklahoma, about 100 miles north of Oklahoma City. It was built on oil — E.W. Marland, who founded what became Conoco Oil, made his fortune here in the 1910s and 20s and left behind a remarkable legacy in the form of the [Marland Mansion](/northamerica/unitedstates/oklahoma/ponca_city/marland_mansion), a 55-room Italian Renaissance estate modelled on the Villa Farnese, now a museum open to the public. His earlier and more modest home, the [Marland Grand Home](/northamerica/unitedstates/oklahoma/ponca_city/marland_grand_home), is also open as a museum.

@@ -14,6 +14,10 @@ snippet: Southeastern Iceland fishing town on Hornafjörður bay, facing Vatnaj�
   and known for langoustine.
 title: Höfn
 type: location
+heritage: 1.9
+vibrancy: 1.0
+nature: 8.2
+off_the_beaten_track: 5.3
 ---
 
 Höfn is a small fishing town on the southeastern coast of Iceland, perched on a narrow spit of land with views across Hornafjörður bay to the immense white expanse of Vatnajökull, Europe's largest glacier. The town serves as the gateway to the glacier and its surrounding national park, and most travellers driving the Ring Road stop here for at least a night.

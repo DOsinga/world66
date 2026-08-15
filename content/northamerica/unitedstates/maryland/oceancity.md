@@ -13,6 +13,10 @@ snippet: Maryland barrier-island resort of free Atlantic beach, boardwalk amusem
   and serious fishing culture.
 title: Ocean City
 type: location
+heritage: 2.6
+vibrancy: 5.1
+nature: 6.5
+off_the_beaten_track: 1.4
 ---
 
 Ocean City is a barrier island resort town on [Maryland](/northamerica/unitedstates/maryland)'s Atlantic coast, stretching about 10 miles from the inlet to the Delaware border. It is unashamedly a family beach destination — high-rise condos along the shore, a three-mile boardwalk with amusement rides, mini golf, and fried food stands.

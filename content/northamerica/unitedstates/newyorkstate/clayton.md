@@ -5,16 +5,21 @@ loc_type: city
 latitude: 44.236
 longitude: -76.085
 score: 7.0
-snippet: Thousand Islands river village with antique boats, small museums, and St Lawrence water views.
+snippet: Thousand Islands river village with antique boats, small museums, and St
+  Lawrence water views.
 wikidata: Q1133085
 sources:
-  - https://en.wikivoyage.org/wiki/Clayton_(New_York)
-  - https://en.wikipedia.org/wiki/Clayton_(village),_New_York
-  - https://www.wikidata.org/wiki/Q1133085
+- https://en.wikivoyage.org/wiki/Clayton_(New_York)
+- https://en.wikipedia.org/wiki/Clayton_(village),_New_York
+- https://www.wikidata.org/wiki/Q1133085
 image: clayton.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aerial_of_the_Antique_Boat_Museum,_Clayton,_NY_13624.JPG
 image_license: CC BY-SA 3.0
 image_attribution: AntiqueBoatMuseum
+heritage: 2.6
+vibrancy: 2.8
+nature: 4.7
+off_the_beaten_track: 2.0
 ---
 
 Clayton sits on the St Lawrence River in New York's Thousand Islands, small enough to feel like a village but serious about boats. Its waterfront has the easy rhythm of marinas, tour docks, summer cottages, and freighters moving along the Seaway.

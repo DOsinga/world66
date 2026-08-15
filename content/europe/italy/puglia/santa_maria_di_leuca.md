@@ -17,6 +17,10 @@ image: santa_maria_di_leuca.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Faro_di_Santa_Maria_di_Leuca_01.jpg
 image_license: CC0
 image_attribution: Bernard Gagnon
+heritage: 4.7
+vibrancy: 4.6
+nature: 5.9
+off_the_beaten_track: 3.1
 ---
 
 Santa Maria di Leuca sits at the far end of Salento, where Puglia runs out into limestone promontories, clear water, and the old argument over where the Ionian Sea meets the Adriatic. It is a village rather than a big resort, but it has a strong sense of arrival: lighthouse above, harbour below, and the long seafront stretched between villas and boat-trip kiosks.

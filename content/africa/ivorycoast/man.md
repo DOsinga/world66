@@ -10,6 +10,10 @@ snippet: Western Ivory Coast town backed by lush green hills, waterfalls, sacred
   and mountain villages
 title: Man
 type: location
+heritage: 6.8
+vibrancy: 5.0
+nature: 5.5
+off_the_beaten_track: 5.2
 ---
 
 Man itself is not a particularly beautiful town, but the lush green hills surrounding it make it one of the more rewarding destinations in western Ivory Coast.

@@ -16,6 +16,10 @@ image: tytuvenai.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Church_of_the_Virgin_Mary_and_Tytuv%C4%97nai_Monastery_in_Tytuv%C4%97nai,_Lithuania_in_2022.jpg
 image_license: CC BY-SA 4.0
 image_attribution: user:CD
+heritage: 2.4
+vibrancy: 2.0
+nature: 2.0
+off_the_beaten_track: 1.6
 ---
 
 Tytuvėnai is a small town in Samogitia whose scale hides a surprisingly strong travel reason. The centre is the [church and Bernardine monastery ensemble](/europe/lithuania/tytuvenai/tytuvenai_monastery), one of Lithuania's finest provincial Baroque religious complexes, with a courtyard made for slow wandering.

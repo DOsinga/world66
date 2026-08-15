@@ -25,6 +25,10 @@ tip: Queenstown is the adventure capital — commercial bungy jumping was born h
   but spectacular drive. Winter is ski season, summer is hiking.
 title: Queenstown
 type: location
+heritage: 4.8
+vibrancy: 6.0
+nature: 7.5
+off_the_beaten_track: 3.2
 ---
 
 Queenstown sits at the edge of [Lake Wakatipu](/australiaandpacific/newzealand/south_island/otago/queenstown/lake_wakatipu) on New Zealand's South Island, ringed by the jagged [Remarkables](/australiaandpacific/newzealand/south_island/otago/queenstown/the_remarkables) mountain range. It is the country's undisputed adventure capital — the place where [bungy jumping](/australiaandpacific/newzealand/south_island/otago/queenstown/bungy_jumping) was commercialised, and where the adrenaline industry has never looked back.

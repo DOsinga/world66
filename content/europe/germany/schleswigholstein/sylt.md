@@ -14,6 +14,10 @@ snippet: North Sea island of dunes, thatched villages, and beach culture shaped 
   Hamburg wealth.
 title: Sylt
 type: location
+heritage: 3.5
+vibrancy: 4.8
+nature: 7.2
+off_the_beaten_track: 3.3
 ---
 
 Sylt is Germany's most famous North Sea island, a long, narrow sliver of sand and dune stretching 40 kilometres off the coast of Schleswig-Holstein. Connected to the mainland only by the Hindenburgdamm railway causeway, it has been the preferred seaside retreat of Hamburg's wealthy for over a century — and the prices reflect it. Sylt is regularly called Germany's most expensive island.

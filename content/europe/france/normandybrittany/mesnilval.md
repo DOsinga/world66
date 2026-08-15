@@ -14,6 +14,10 @@ image: mesnilval.jpg
 image_source: https://commons.wikimedia.org/wiki/File:50305-Le_Mesnil-au-Val-Hydro.jpeg
 image_license: CC BY-SA 4.0
 image_attribution: Roland45
+heritage: 3.4
+vibrancy: 1.6
+nature: 2.7
+off_the_beaten_track: 2.3
 ---
 
 Mesnil-Val is a small seaside hamlet on the Alabaster Coast, about 20 kilometres north of [Dieppe](/europe/france/normandybrittany/dieppe) and just a few kilometres from the border with Picardy. The setting is dramatic: white chalk cliffs rise above a rocky beach that reveals stretches of sand at low tide. It is quieter and less developed than the better-known resorts along this coast, which is precisely the point.

@@ -15,6 +15,10 @@ snippet: Cumbrian Coast village in the Lake District, with an estuary, Roman rui
   and the Eskdale steam railway.
 title: Ravenglass
 type: location
+heritage: 6.0
+vibrancy: 2.8
+nature: 7.2
+off_the_beaten_track: 2.2
 ---
 
 Ravenglass is the only village in the Lake District national park that lies on the Cumbrian Coast — a single street of whitewashed cottages running down to a triple-river estuary on the Irish Sea. The shingle foreshore is pleasant though not outstanding; the real reason to come is everything else within a mile of it.

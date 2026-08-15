@@ -14,6 +14,10 @@ title: Largo
 snippet: Residential Gulf Coast city in Pinellas County, minutes from Clearwater Beach
   and barrier-island shores.
 type: location
+heritage: 1.6
+vibrancy: 2.5
+nature: 3.9
+off_the_beaten_track: 1.5
 ---
 
 Largo is a city in Pinellas County on Florida's Gulf Coast, situated on the peninsula between Tampa Bay and the Gulf of Mexico. It is primarily a residential community rather than a tourist destination, but it sits just minutes from Clearwater Beach and the string of barrier island beaches that make this part of Florida so popular.

@@ -5,12 +5,17 @@ latitude: 49.4127
 loc_type: city
 longitude: 14.6759
 score: 7.66
-snippet: Hussite hill town in South Bohemia, with medieval lanes, tunnels, walls, and Žižka's square.
+snippet: Hussite hill town in South Bohemia, with medieval lanes, tunnels, walls,
+  and Žižka's square.
 sources:
-  - https://en.wikivoyage.org/wiki/T%C3%A1bor
-  - https://www.visittabor.eu/homepage
+- https://en.wikivoyage.org/wiki/T%C3%A1bor
+- https://www.visittabor.eu/homepage
 title: Tábor
 type: location
+heritage: 3.8
+vibrancy: 2.4
+nature: 3.9
+off_the_beaten_track: 2.2
 ---
 
 Tábor is a compact South Bohemian town with a sharper history than its size suggests. It was founded as a Hussite stronghold in the 15th century, and the old town still sits like a defensible knot above the Lužnice river: crooked lanes, fragments of wall, burgher houses, and a main square named for Jan Žižka.

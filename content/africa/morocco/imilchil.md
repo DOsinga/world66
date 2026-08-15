@@ -14,6 +14,10 @@ snippet: High Atlas Berber village between two legend-bound lakes, known for its
   festival.
 title: Imilchil
 type: location
+heritage: 6.1
+vibrancy: 1.2
+nature: 6.7
+off_the_beaten_track: 6.1
 ---
 
 Imilchil is a remote Berber village in the High Atlas at about 2,200 metres, surrounded by some of the most dramatic mountain scenery in Morocco. It sits on a high plateau between the lakes of [Isli](/africa/morocco/imilchil/lake_isli) and [Tislit](/africa/morocco/imilchil/lake_tislit) — two crater lakes associated with a local Romeo-and-Juliet legend of star-crossed lovers whose tears formed the waters.

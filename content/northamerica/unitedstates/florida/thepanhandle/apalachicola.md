@@ -16,6 +16,10 @@ type: location
 score: 7.03
 snippet: Gulf Coast river town with a 19th-century waterfront and a hard-used oyster
   history.
+heritage: 4.7
+vibrancy: 3.1
+nature: 6.2
+off_the_beaten_track: 3.0
 ---
 
 Apalachicola sits where the Apalachicola River meets the Gulf of Mexico, a small, salt-weathered town of around 2,000 people that has spent the past two centuries either booming or surviving. In the 1830s it was the third-busiest cotton port on the Gulf. After the Civil War it pivoted to sponges, then lumber, then oysters — and for most of the twentieth century, the oysters were what built the place. Apalachicola Bay produced 90 percent of Florida's oysters until the bay collapsed in 2012; commercial harvesting has been closed for years and only began returning in limited form recently.

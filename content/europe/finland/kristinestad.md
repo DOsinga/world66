@@ -3,17 +3,22 @@ image: kristinestad.jpg
 image_attribution: Jarno Elonen
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Kristinestad_street_1.jpg
-latitude: 62.2740
+latitude: 62.274
 loc_type: city
-longitude: 21.3750
+longitude: 21.375
 score: 6.35
-snippet: Swedish-speaking Ostrobothnian wooden town with a quiet grid-plan centre and seafaring museums.
+snippet: Swedish-speaking Ostrobothnian wooden town with a quiet grid-plan centre
+  and seafaring museums.
 sources:
-  - https://en.wikivoyage.org/wiki/Kristinestad
-  - https://visitkristinestad.fi/en/experience/sights/
-  - https://www.cittaslow.it/network/kristinestad
+- https://en.wikivoyage.org/wiki/Kristinestad
+- https://visitkristinestad.fi/en/experience/sights/
+- https://www.cittaslow.it/network/kristinestad
 title: Kristinestad
 type: location
+heritage: 2.7
+vibrancy: 1.4
+nature: 5.6
+off_the_beaten_track: 4.1
 ---
 
 Kristinestad (Kristiinankaupunki in Finnish) is one of the loveliest small towns on Finland's west coast, a bilingual Ostrobothnian port where Swedish is still widely heard in the streets. It is not a blockbuster destination, but it has a rare, intact feel: timber houses, a strict 17th-century grid, quiet lanes running down to the bay, and a pace slow enough to earn it membership of the Cittaslow movement.

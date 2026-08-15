@@ -14,6 +14,10 @@ snippet: Northwestern Polish port on the Oder, carrying Prussian architecture an
   a complicated Pomeranian past.
 title: Szczecin
 type: location
+heritage: 5.5
+vibrancy: 3.6
+nature: 3.5
+off_the_beaten_track: 2.3
 ---
 
 Szczecin (known in German as Stettin) is a major port city in northwestern Poland, close to the German border on the Oder river. It has a complicated past: for most of its history it was a German city, the capital of Pomerania, and the birthplace of Catherine the Great. After 1945, it was transferred to Poland along with the surrounding region, the German population expelled, and the city repopulated with Poles — an exchange that left it with fine Prussian buildings and a history that is difficult to integrate.

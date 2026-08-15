@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Pilsner_Urquell_Brewery
 title: Plzeň
 type: location
+heritage: 6.9
+vibrancy: 5.2
+nature: 2.7
+off_the_beaten_track: 1.4
 ---
 
 Plzeň (Pilsen) is a place of pilgrimage for anyone who likes beer — this is where lager was invented. In 1842 the Bavarian brewer Josef Groll produced the first batch of pale lager in the town's new brewery, and the word "Pilsner" has been synonymous with the style ever since. The [Pilsner Urquell Brewery](/europe/czechrepublic/plzen/pilsner_urquell_brewery), still operating on the original site, offers tours that end in the unfiltered cellars.

@@ -16,6 +16,10 @@ image: salta.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Iglesia_San_Francisco,_Salta,_Argentina_-_panoramio.jpg
 image_license: CC BY-SA 3.0
 image_attribution: noambh
+heritage: 4.9
+vibrancy: 6.0
+nature: 7.0
+off_the_beaten_track: 4.4
 ---
 
 Salta is one of Argentina's most rewarding cities — a beautifully preserved colonial centre in the Lerma Valley, ringed by mountains in the country's north-west. Known as "Salta la Linda" (Salta the Beautiful), it earns the nickname: the plaza, cathedral, and surrounding streets feel genuinely alive rather than museum-piece.

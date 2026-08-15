@@ -15,6 +15,10 @@ title: Antibes
 snippet: Côte d'Azur town of Vauban ramparts, Picasso history, sandy Juan-les-Pins
   beaches, and Port Vauban.
 type: location
+heritage: 7.1
+vibrancy: 6.5
+nature: 5.7
+off_the_beaten_track: 1.7
 ---
 
 Antibes is one of the more rewarding towns on the Côte d'Azur — less flashy than Cannes, less hectic than Nice. The [old town](/europe/france/cotedazur/antibes/vieille_ville) sits behind Vauban's ramparts, a maze of narrow streets that opens onto [Port Vauban](/europe/france/cotedazur/antibes/port_vauban) and the [Marché Provençal](/europe/france/cotedazur/antibes/marche_provencal). The [Musée Picasso](/europe/france/cotedazur/antibes/musee_picasso) is here, occupying the Château Grimaldi where Picasso worked intensively in 1946 and left many of his paintings.

@@ -14,6 +14,10 @@ image: huelgoat.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2010_Huelgoat_1_La_ville_vue_du_lac.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Moreau.henri
+heritage: 4.5
+vibrancy: 2.2
+nature: 6.9
+off_the_beaten_track: 4.6
 ---
 
 Many people think of [Brittany](/europe/france/normandybrittany) exclusively for its coasts. That is a mistake, because parts of the interior are just as rewarding. Huelgoat is a delightful village on the edge of a lake, surrounded by one of Brittany's last remaining ancient forests.

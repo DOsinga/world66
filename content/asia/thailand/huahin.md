@@ -15,6 +15,10 @@ snippet: Thai beach resort with royal roots and a railway-era character on the G
   coast.
 title: Hua Hin
 type: location
+heritage: 3.2
+vibrancy: 5.6
+nature: 4.8
+off_the_beaten_track: 1.5
 ---
 
 Hua Hin is Thailand's oldest beach resort, and the one with the most character. About 200 kilometres south of Bangkok on the Gulf of Thailand coast, it has been a royal retreat since the 1920s, when King Vajiravudh had the [Railway Hotel](/asia/thailand/huahin/railway_hotel) built and the royal family began arriving by train for their summer holidays. [Klai Kangwon Palace](/asia/thailand/huahin/klai_kangwon_palace) ("Far from Worries") became the favoured residence of King Bhumibol Adulyadej, and the town has always had a more dignified, settled feel than the flashier beach destinations to the south.

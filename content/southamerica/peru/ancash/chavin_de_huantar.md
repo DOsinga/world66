@@ -3,13 +3,18 @@ title: Chavín de Huántar
 type: location
 loc_type: city
 latitude: -9.5833
-longitude: -77.2500
+longitude: -77.25
 score: 7.4
-snippet: "High Andean town beside a UNESCO ceremonial centre that shaped early pan-Peruvian culture."
+snippet: High Andean town beside a UNESCO ceremonial centre that shaped early pan-Peruvian
+  culture.
 sources:
-  - https://en.wikivoyage.org/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar
-  - https://en.wikipedia.org/wiki/Chav%C3%ADn_de_Huantar_District
-  - https://whc.unesco.org/en/list/330/
+- https://en.wikivoyage.org/wiki/Chav%C3%ADn_de_Hu%C3%A1ntar
+- https://en.wikipedia.org/wiki/Chav%C3%ADn_de_Huantar_District
+- https://whc.unesco.org/en/list/330/
+heritage: 6.1
+vibrancy: 2.4
+nature: 4.8
+off_the_beaten_track: 4.7
 ---
 
 Chavín de Huántar is a small highland town in Ancash, best known for the archaeological site on its edge. The mountains are close, the air is thin, and the road from Huaraz crosses serious Andean country before dropping into the valley.

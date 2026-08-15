@@ -16,6 +16,10 @@ image: magome.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Magome-juku.JPG
 image_license: CC BY-SA 4.0
 image_attribution: Alpsdake
+heritage: 5.7
+vibrancy: 1.6
+nature: 5.9
+off_the_beaten_track: 4.1
 ---
 
 Magome is one of the best places in Japan to feel the old Nakasendo road under your feet. The village climbs a steep stone lane in the Kiso Valley, with dark wooden houses, waterwheels, teahouses, small museums, and views across the mountains toward Mount Ena. It is carefully restored and popular, but it still works: the slope, the cobbles, and the old road give the place a shape that modern towns rarely keep.

@@ -13,6 +13,10 @@ snippet: West Sussex cathedral city where Roman walls still frame a compact hist
   centre
 title: Chichester
 type: location
+heritage: 6.1
+vibrancy: 3.7
+nature: 3.3
+off_the_beaten_track: 1.4
 ---
 
 Chichester is a small cathedral city in West Sussex, close to [Portsmouth](/europe/unitedkingdom/england/south_east/portsmouth) and the South Downs. The Roman walls that encircle the city centre are still largely intact, and the street plan follows the Roman grid, with four main streets meeting at the medieval Market Cross in the centre.

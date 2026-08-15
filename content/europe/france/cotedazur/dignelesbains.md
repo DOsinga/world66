@@ -16,6 +16,10 @@ title: Digne-les-Bains
 snippet: Thermal town in Alpes-de-Haute-Provence, gateway to lavender hills and the
   Train des Pignes.
 type: location
+heritage: 4.1
+vibrancy: 4.7
+nature: 7.1
+off_the_beaten_track: 3.4
 ---
 
 Digne-les-Bains is the quiet capital of the Alpes-de-Haute-Provence, tucked into a valley well north of the coast. It is a thermal town first and foremost — people have been coming here for the hot springs since Roman times — but it also serves as a gateway to some of the most unspoiled mountain country in southern France. In August, the Corso de la Lavande takes over the streets with lavender-scented floats and processions, celebrating the crop that turns the surrounding hills purple each summer.

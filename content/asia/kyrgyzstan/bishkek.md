@@ -20,6 +20,10 @@ tip: Bishkek is a leafy, low-rise, Soviet-planned city with the snow-capped Tian
   and the high pastures.
 title: Bishkek
 type: location
+heritage: 6.8
+vibrancy: 6.6
+nature: 4.7
+off_the_beaten_track: 5.3
 ---
 
 Bishkek is a classic Soviet-planned city of wide boulevards, marble government buildings and shady parks, sitting at 800 metres on the northern edge of the Kyrgyz Ala-Too mountains. With a population of around one million, it feels spacious and green in summer, though architecturally it won't win any beauty contests.

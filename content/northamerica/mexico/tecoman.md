@@ -15,6 +15,10 @@ image: tecoman.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Colima,_El_Real_Tecom%C3%A1n._(11968202913).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Comisión Mexicana de Filmaciones from México D. F., México
+heritage: 3.5
+vibrancy: 3.2
+nature: 5.0
+off_the_beaten_track: 3.2
 ---
 
 Tecomán is a working agricultural city near the Colima coast, best known in Mexico as a lime capital rather than as a polished beach town. That is part of the point: the city is practical, hot, and sometimes rough-edged, while the interesting travel happens along the beaches, lagoons, and seafood palapas south and west of town.

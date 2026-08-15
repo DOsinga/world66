@@ -11,6 +11,10 @@ score: 7.75
 snippet: Unpretentious Costa del Sol beach resort at the mouth of the Vélez river.
 title: Torre del Mar
 type: location
+heritage: 2.8
+vibrancy: 4.6
+nature: 5.6
+off_the_beaten_track: 1.8
 ---
 
 Torre del Mar is a beach resort on the Costa del Sol, about 30 kilometres east of Málaga, sitting at the mouth of the Vélez river where the river plain meets the Mediterranean. It is a functional, unpretentious resort — not glamorous in the way of Marbella, not as preserved as Nerja — but it has a genuine local character that distinguishes it from the more tourist-saturated towns further west. A permanent population of around 20,000 swells considerably in summer when Spanish families from the inland provinces fill the apartment blocks behind the seafront.

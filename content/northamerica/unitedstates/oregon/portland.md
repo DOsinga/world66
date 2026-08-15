@@ -16,6 +16,10 @@ snippet: Oregon’s largest city, where riverside neighbourhoods, independent bo
   craft beer, and forested hills meet.
 title: Portland
 type: location
+heritage: 3.3
+vibrancy: 5.6
+nature: 6.8
+off_the_beaten_track: 1.8
 ---
 
 Portland sits between the Willamette River and the wooded hills of [Forest Park](/northamerica/unitedstates/oregon/portland/forest_park), in the northwest corner of Oregon. It is the largest city in the state and one of the most liveable in the American West — compact, walkable, and with an unusually strong independent culture in food, beer, coffee, and bookshops.

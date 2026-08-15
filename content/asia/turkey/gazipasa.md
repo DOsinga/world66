@@ -17,6 +17,10 @@ sources:
 title: Gazipasa
 type: location
 score: 6.0
+heritage: 2.3
+vibrancy: 2.9
+nature: 3.3
+off_the_beaten_track: 3.2
 ---
 
 Gazipasa sits east of [Alanya](/asia/turkey/alanya), where Turkey's Mediterranean resort coast starts to loosen its grip. It has an airport, a working town centre, banana groves, and a coastline of coves and ruins that still feels far less packaged than the beaches to the west.

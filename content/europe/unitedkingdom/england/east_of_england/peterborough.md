@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Flag_Fen
 title: Peterborough
 type: location
+heritage: 5.8
+vibrancy: 3.8
+nature: 3.6
+off_the_beaten_track: 1.6
 ---
 
 Peterborough is easy to underestimate. From the train it can look like logistics sheds, ring roads, and post-war growth, but the city has one of England's finest cathedrals at its core and a much older story stretching into the fenland east of town.

@@ -2,14 +2,19 @@
 title: Cocoa Beach
 type: location
 loc_type: city
-latitude: 28.3200
+latitude: 28.32
 longitude: -80.6076
 score: 7.0
-snippet: Florida Space Coast surf town with Atlantic beaches, rocket launches, and Banana River paddling.
+snippet: Florida Space Coast surf town with Atlantic beaches, rocket launches, and
+  Banana River paddling.
 sources:
-  - https://en.wikivoyage.org/wiki/Cocoa_Beach
-  - https://www.visitflorida.com/places-to-go/central-east/cocoa-beach/
-  - https://www.visitspacecoast.com/explore/cocoa-beach/
+- https://en.wikivoyage.org/wiki/Cocoa_Beach
+- https://www.visitflorida.com/places-to-go/central-east/cocoa-beach/
+- https://www.visitspacecoast.com/explore/cocoa-beach/
+heritage: 2.1
+vibrancy: 5.2
+nature: 6.3
+off_the_beaten_track: 1.3
 ---
 
 Cocoa Beach is the easygoing surf town of Florida's Space Coast, stretched between the Atlantic and the Banana River. It is close enough to Cape Canaveral that rockets are part of the beach rhythm, but the town has its own identity in surf schools, old beach bars, and sunrise walks over hard-packed sand.

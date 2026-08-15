@@ -10,6 +10,10 @@ snippet: Ibiza resort town around a broad western bay, built around package holi
   and sunset bars.
 title: San Antonio Abad
 type: location
+heritage: 1.8
+vibrancy: 5.7
+nature: 8.5
+off_the_beaten_track: 1.5
 ---
 
 San Antonio Abad — known simply as San An to most visitors — is Ibiza's second town, sitting on the west coast around a broad bay. It is unambiguously a package resort: the waterfront is lined with apartment blocks and hotels, the bars cater to cheap-drinks crowds, and the beach fills up in summer with sunbathers from across Europe. If you are hoping for the boutique calm of Ibiza Town, you will not find it here.

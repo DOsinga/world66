@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Trebbia
 title: Trebbia Valley
 type: location
+heritage: 4.3
+vibrancy: 1.5
+nature: 5.5
+off_the_beaten_track: 3.9
 ---
 
 Just outside [Genoa](/europe/italy/liguria/genoa), the Trebbia Valley cuts a narrow, winding path through the Ligurian Apennines. Follow the SS45 past Torriglia and you find yourself in a small but genuinely beautiful mountain landscape that most visitors to the Ligurian coast never reach.

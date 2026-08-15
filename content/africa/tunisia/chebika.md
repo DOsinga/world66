@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Chebika
 title: Chebika
 type: location
+heritage: 5.8
+vibrancy: 1.0
+nature: 7.5
+off_the_beaten_track: 6.6
 ---
 
 Chebika is a mountain oasis clinging to the edge of the Djebel en Negueb range, where the Sahara meets the Atlas foothills in western Tunisia. Springs push up through ancient rock to feed a pocket of palms and greenery, and a small waterfall cascades into a pool before the water disappears back into the desert. The combination of lush vegetation against bare, rust-coloured cliffs is genuinely striking.

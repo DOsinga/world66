@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Osun-Osogbo
 title: Oshogbo
 type: location
+heritage: 7.1
+vibrancy: 4.5
+nature: 5.1
+off_the_beaten_track: 4.2
 ---
 
 Oshogbo is the art capital of Nigeria. The city is filled with art studios that produce some of Africa's most inspiring works. The [Oja Oba market](/africa/nigeria/oshogbo/oja_oba_market) is a good place to shop for souvenirs, especially if you're into juju. The market is across the street from the Oba's palace.

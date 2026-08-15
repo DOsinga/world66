@@ -16,6 +16,10 @@ snippet: Nakhchivan border town on the Turkish road, with Soviet railway traces 
   nearby Bronze Age mounds.
 title: Sharur
 type: location
+heritage: 2.4
+vibrancy: 1.3
+nature: 2.3
+off_the_beaten_track: 5.8
 ---
 
 Sharur sits on the western edge of the Nakhchivan autonomous republic, on the road between Nakhchivan city and the Turkish border. The town itself is a recent one, grown up around a Soviet-built railway station; the closure of the line northwest into Armenia in the early 1990s was a severe blow to the local economy.

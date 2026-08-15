@@ -14,6 +14,10 @@ snippet: Small island group south of Freetown, where slave-trade ruins sit besid
   beaches and clear water.
 title: Banana Islands
 type: location
+heritage: 2.1
+vibrancy: 2.1
+nature: 5.2
+off_the_beaten_track: 6.5
 ---
 
 The Banana Islands — Dublin, Ricketts, and the uninhabited Mes-Meheux — lie about 25 km south of Freetown, a short boat ride from the fishing village of Kent. They were a significant base for the Atlantic slave trade in the 18th century, and the [ruins of slave trader compounds and an old British fort](/africa/sierraleone/bananaislands/dublin_island_slave_ruins) are still visible on Dublin Island. The islands' difficult history sits alongside genuinely beautiful beaches, clear water, and an unhurried pace that makes them one of the most rewarding escapes from the capital.

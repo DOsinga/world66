@@ -16,6 +16,10 @@ tags:
 - dordogne
 title: Bergerac
 type: location
+heritage: 5.5
+vibrancy: 4.7
+nature: 5.1
+off_the_beaten_track: 3.1
 ---
 
 Bergerac sits on the banks of the Dordogne river and is the second largest town in the département, though it feels far smaller than that suggests. Its name is forever linked with [Cyrano de Bergerac](/europe/france/aquitaine/bergerac/cyrano_statues) — who was in fact a Parisian, not a Gascon — but the town has its own real charms.

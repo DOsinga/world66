@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Overseas_Highway
 title: Florida Keys
 type: location
+heritage: 4.9
+vibrancy: 3.7
+nature: 7.6
+off_the_beaten_track: 3.0
 ---
 
 The Florida Keys are a chain of coral and limestone islands trailing southwest from the end of the Florida mainland to [Key West](/northamerica/unitedstates/florida/keywest). They feel less like ordinary Florida than a long, salt-stained road trip: mangroves, shallow flats, weathered marinas, dive flags, old railroad bridges, and water on both sides of the highway.

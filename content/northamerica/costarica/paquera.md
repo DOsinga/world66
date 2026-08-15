@@ -12,6 +12,10 @@ sources:
 - https://www.openstreetmap.org/
 title: Paquera
 type: location
+heritage: 1.8
+vibrancy: 1.4
+nature: 7.0
+off_the_beaten_track: 5.1
 ---
 
 Paquera is not the Nicoya Peninsula's prettiest town, but it is one of its most useful. Ferries from Puntarenas land nearby, buses fan out toward Montezuma and Santa Teresa, and the sheltered Gulf of Nicoya sits close enough for island trips, kayaking, and quiet beach afternoons.

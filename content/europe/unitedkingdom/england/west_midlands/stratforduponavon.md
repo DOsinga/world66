@@ -16,6 +16,10 @@ type: location
 score: 8.75
 snippet: Avon-side market town where Shakespeare was born and died, with Tudor streets
   and major theatres.
+heritage: 8.0
+vibrancy: 5.2
+nature: 3.6
+off_the_beaten_track: 1.8
 ---
 
 Stratford-upon-Avon is one of England's most visited towns, and almost all of that attention flows from a single fact: William Shakespeare was born here in 1564 and died here in 1616. The town is relentlessly dedicated to this connection, with five Shakespeare properties administered by a single charitable trust, a major repertory theatre that has been staging his plays since 1879, and a retail economy oriented almost entirely around literary tourism. It can feel exhausting. But the town is also genuinely attractive — a compact market town on a bend of the Avon, with good Tudor architecture, a pleasant riverside, and a theatre culture that takes its work seriously.

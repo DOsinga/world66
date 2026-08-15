@@ -13,6 +13,10 @@ snippet: Fijian gateway town on Viti Levu, marked by Indo-Fijian markets and eas
   island connections.
 title: Nadi
 type: location
+heritage: 4.2
+vibrancy: 4.9
+nature: 5.9
+off_the_beaten_track: 4.2
 ---
 
 Nadi is Fiji's gateway town, sitting on the dry western coast of Viti Levu about fifteen minutes south of the international airport. Nearly every visitor to Fiji passes through here, and most treat it as a transit stop before heading to the islands. That is fair enough, but Nadi has its own rough charm and is worth a day if you are not in a rush.

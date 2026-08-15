@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Charles_Fort_(Ireland)
 title: Kinsale
 type: location
+heritage: 6.5
+vibrancy: 5.7
+nature: 4.8
+off_the_beaten_track: 3.2
 ---
 
 Kinsale is a small harbour town on the southern coast of Ireland, about 25 kilometres south of [Cork](/europe/ireland/cork). It has been called the gourmet capital of Ireland, and while that sounds like tourism board hyperbole, the town genuinely punches above its weight when it comes to food. [Fishy Fishy](/europe/ireland/kinsale/fishy_fishy), [Bastion](/europe/ireland/kinsale/bastion), and a cluster of other excellent restaurants line the narrow streets around the harbour, and the annual Gourmet Festival in October draws crowds from across the country.

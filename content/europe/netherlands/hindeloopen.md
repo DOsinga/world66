@@ -12,6 +12,10 @@ tags:
 - friesland
 title: Hindeloopen
 type: location
+heritage: 5.2
+vibrancy: 2.2
+nature: 3.0
+off_the_beaten_track: 2.9
 ---
 
 In steady decline since the 17th century, Hindeloopen (Hylpen in Frisian) is a treasure trove on the IJsselmeer. Small cobblestone streets, old houses, and a quiet waterfront make it one of the prettiest of the Eleven Cities. The [Hidde Nijland Museum](/europe/netherlands/hindeloopen/hidde_nijland_museum), housed in the former town hall, has a fine survey of 18th- and 19th-century Hindeloopen culture, including the distinctive painted furniture the town was once famous for. The [Oude Kerk](/europe/netherlands/hindeloopen/oude_kerk), dating to the 13th century, stands above the rooftops with views toward the water.

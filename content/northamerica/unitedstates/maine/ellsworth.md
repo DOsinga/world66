@@ -10,6 +10,10 @@ snippet: Hancock County service town on the Union River, a useful last stop befo
   Bar Harbor and Acadia.
 title: Ellsworth
 type: location
+heritage: 3.5
+vibrancy: 2.3
+nature: 6.9
+off_the_beaten_track: 3.8
 ---
 
 Ellsworth is the commercial hub of Hancock County and the last town with major services before [Bar Harbor](/northamerica/unitedstates/maine/bar_harbor) and [Acadia National Park](/northamerica/unitedstates/maine/acadia). Most visitors pass through on their way to the coast, but the town has a pleasant downtown along the Union River and is worth more than a gas stop.

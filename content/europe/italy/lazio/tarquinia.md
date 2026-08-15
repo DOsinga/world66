@@ -14,6 +14,10 @@ image_license: CC0
 image_attribution: Gleb Simonov
 snippet: Hilltop Lazio town above painted Etruscan tombs, medieval streets, and the
   Monterozzi Necropolis.
+heritage: 7.9
+vibrancy: 2.6
+nature: 3.6
+off_the_beaten_track: 2.8
 ---
 
 Tarquinia is one of the most important Etruscan sites in Italy — a hilltop medieval town in northern Lazio that sits atop the remains of one of the most powerful cities in the ancient Etruscan world. The [Monterozzi Necropolis](/europe/italy/lazio/tarquinia/monterozzi_necropolis) on a hill east of town contains painted tombs from the 7th to 3rd centuries BC with vivid frescoes depicting banqueting, dancing, hunting, and the afterlife. The [Tarquinia National Museum](/europe/italy/lazio/tarquinia/tarquinia_national_museum) in the magnificent Gothic Palazzo Vitelleschi holds the celebrated Winged Horses of Tarquinia alongside an outstanding collection of Etruscan pottery, bronzes, and sarcophagi.

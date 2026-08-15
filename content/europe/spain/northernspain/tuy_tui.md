@@ -10,6 +10,10 @@ snippet: Galician border town above the Miño, anchored by a fortified cathedral
   Eiffel-built bridge to Portugal.
 title: Tuy [Tui]
 type: location
+heritage: 5.5
+vibrancy: 2.9
+nature: 2.9
+off_the_beaten_track: 2.6
 ---
 
 Tui sits in the south of [Galicia](/europe/spain/galicia), right on the Portuguese border. The two countries are linked here by an [iron bridge](/europe/spain/northernspain/tuy_tui/eiffel_bridge) built by the Eiffel company in 1884. As a frontier town in a historically contested region, Tui is built on a hilltop with commanding views over the Miño river valley into [Portugal](/europe/portugal).

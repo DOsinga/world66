@@ -5,10 +5,15 @@ loc_type: feature
 latitude: -36.8693
 longitude: 147.2781
 score: 7.7
-snippet: Victorian Alps ski village with snow-gum slopes, cross-country trails, and summer high-country walks.
+snippet: Victorian Alps ski village with snow-gum slopes, cross-country trails, and
+  summer high-country walks.
 sources:
-  - https://en.wikivoyage.org/wiki/Falls_Creek
-  - https://www.fallscreek.com.au/
+- https://en.wikivoyage.org/wiki/Falls_Creek
+- https://www.fallscreek.com.au/
+heritage: 3.5
+vibrancy: 2.6
+nature: 6.1
+off_the_beaten_track: 3.4
 ---
 
 Falls Creek is a purpose-built alpine village in northeast [Victoria](/australiaandpacific/australia/victoria), surrounded by Alpine National Park and perched high enough for real winter weather. It is one of Australia's major ski resorts, but the setting saves it from feeling like only a lift-and-lodge strip: snow gums, open high plains, and Rocky Valley Reservoir sit right beside the village.

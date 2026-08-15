@@ -14,6 +14,10 @@ snippet: Tiny Pelješac harbour village with clear Adriatic water, family konoba
   and nearby Dingač vineyards.
 title: Drače
 type: location
+heritage: 3.0
+vibrancy: 1.7
+nature: 5.8
+off_the_beaten_track: 3.5
 ---
 
 Drače is a tiny village on the northern coast of the **Pelješac peninsula** in southern Dalmatia — a scatter of stone houses around a sheltered harbour, a handful of restaurants, and one of the quieter pebble-and-shingle beaches on the peninsula. There is nothing to "see" in the touristic sense: come for a few days of swimming in clear Adriatic water, seafood dinners on family konoba terraces, and the peninsula's famous Plavac Mali red wine from the [Dingač vineyards](/europe/croatia/peljesac/drace/dingac_vineyards) a few kilometres west. The nearest substantial town is [Ston](/europe/croatia/peljesac/drace/ston), about 20 km south with its medieval walls and famous oysters; [ferries to Korčula](/europe/croatia/peljesac/drace/prapratno_ferry) run from nearby Prapratno.

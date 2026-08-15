@@ -13,6 +13,10 @@ snippet: Italian-speaking Swiss lakeside city in Ticino, with Mediterranean habi
   and precise Swiss infrastructure.
 title: Lugano
 type: location
+heritage: 5.8
+vibrancy: 6.9
+nature: 7.2
+off_the_beaten_track: 2.2
 ---
 
 Lugano is Switzerland's third-largest city and the largest in the Italian-speaking canton of Ticino, situated on Lake Lugano just 30 km from the Italian border. The people speak Italian, dress Italian, and eat Italian — in many ways it feels like you've already crossed into Italy, except the trains run on time and the streets are spotless.

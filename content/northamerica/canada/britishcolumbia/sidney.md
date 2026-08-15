@@ -14,6 +14,10 @@ snippet: Seaside Vancouver Island town on the Saanich Peninsula, known for books
   and Gulf Islands ferries
 type: location
 loc_type: city
+heritage: 4.5
+vibrancy: 5.7
+nature: 6.4
+off_the_beaten_track: 3.2
 ---
 
 Sidney is a small seaside town on the Saanich Peninsula, about 25 kilometres north of Victoria on Vancouver Island. It calls itself "Sidney-by-the-Sea" and bills itself as Canada's booktown — the main street has a remarkable concentration of bookshops for a town of its size, making it a pleasant place to spend a rainy afternoon browsing.

@@ -3,12 +3,17 @@ latitude: 40.655556
 loc_type: city
 longitude: 29.275
 score: 6.6
-snippet: Marmara ferry city known for thermal springs, Ataturk's moving mansion, and forested hill escapes.
+snippet: Marmara ferry city known for thermal springs, Ataturk's moving mansion, and
+  forested hill escapes.
 sources:
-  - https://en.wikivoyage.org/wiki/Yalova
-  - https://en.wikipedia.org/wiki/Yalova
+- https://en.wikivoyage.org/wiki/Yalova
+- https://en.wikipedia.org/wiki/Yalova
 title: Yalova
 type: location
+heritage: 3.8
+vibrancy: 2.5
+nature: 5.3
+off_the_beaten_track: 2.6
 ---
 
 Yalova is easy to underrate. From the ferry it can look like a practical Marmara port and not much more, and many travellers pass straight through on the way between Istanbul, Bursa, and Izmir. Stay a little longer and the reason for the stop appears inland: hot springs, wooded hills, waterfalls, and the kind of weekend-escape geography Istanbul uses when it needs air.

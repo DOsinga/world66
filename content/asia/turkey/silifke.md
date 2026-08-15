@@ -5,11 +5,16 @@ loc_type: city
 latitude: 36.3778
 longitude: 33.9344
 score: 6.8
-snippet: Cilician town on the Goksu River, with a hill castle, early Christian ruins, and delta wetlands.
+snippet: Cilician town on the Goksu River, with a hill castle, early Christian ruins,
+  and delta wetlands.
 sources:
-  - https://en.wikivoyage.org/wiki/Silifke
-  - https://turkeytravelplanner.com/go/med/Silifke/index.html
-  - https://www.essizmersin.com/en/1/travellers-blog/places-to-visit-in-silifke/291
+- https://en.wikivoyage.org/wiki/Silifke
+- https://turkeytravelplanner.com/go/med/Silifke/index.html
+- https://www.essizmersin.com/en/1/travellers-blog/places-to-visit-in-silifke/291
+heritage: 4.3
+vibrancy: 3.2
+nature: 3.9
+off_the_beaten_track: 3.7
 ---
 
 Silifke sits inland from Turkey's Mediterranean coast on the Goksu River, close enough to the sea for beach traffic but old enough to feel like more than a resort service town. Ancient Seleucia stood here, and the modern city still has a castle on the hill, early Christian ruins, and a river plain that opens into one of the eastern Mediterranean's important wetlands.

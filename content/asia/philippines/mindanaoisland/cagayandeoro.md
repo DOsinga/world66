@@ -12,6 +12,10 @@ title: Cagayan de Oro
 type: location
 snippet: Northern Mindanao port city known for whitewater rafting on the Cagayan de
   Oro River.
+heritage: 3.9
+vibrancy: 5.0
+nature: 5.7
+off_the_beaten_track: 4.0
 ---
 
 Cagayan de Oro is a city of roughly 700,000 on the north coast of Mindanao, the capital of Misamis Oriental province. Its name comes from the Cagayan River, which runs through the city before emptying into Macajalar Bay. The city is one of the main commercial and educational hubs of Mindanao and functions as a gateway to the northern coast of the island.

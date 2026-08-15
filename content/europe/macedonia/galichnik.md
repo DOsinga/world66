@@ -10,6 +10,10 @@ snippet: Highland Mijak village on Bistra, briefly revived each summer by its tr
   wedding festival
 title: Galichnik
 type: location
+heritage: 8.7
+vibrancy: 2.2
+nature: 7.6
+off_the_beaten_track: 5.4
 ---
 
 Galichnik is a mountain village perched on the slopes of Bistra in western [Macedonia](/europe/macedonia), slowly emptying out like so many Balkan highland settlements but brought back to life once a year for its famous wedding festival.

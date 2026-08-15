@@ -13,6 +13,10 @@ snippet: Tamil Nadu coastal village of Pallava rock-cut temples and an easy beac
   atmosphere.
 title: Mahabalipuram
 type: location
+heritage: 8.1
+vibrancy: 4.0
+nature: 3.1
+off_the_beaten_track: 2.5
 ---
 
 Mahabalipuram (Mamallapuram) is a coastal village 60 km south of Chennai that combines two things: one of the finest collections of Pallava rock-cut architecture in the world, and a relaxed beach atmosphere that makes it a popular stop before or after Chennai.

@@ -10,6 +10,10 @@ snippet: Central Slovak mining town with pastel squares, copper wealth, and Slov
   National Uprising memory.
 title: Banská Bystrica
 type: location
+heritage: 5.4
+vibrancy: 4.9
+nature: 5.0
+off_the_beaten_track: 3.1
 ---
 
 Banská Bystrica is a handsome town in the heart of central [Slovakia](/europe/slovakia), set in a wide valley surrounded by the peaks of the Low Tatras and Veľká Fatra ranges. It grew wealthy in the Middle Ages on copper mining — the [Thurzó-Fugger company](/europe/slovakia/banskabystrica/thurzov_dom) made it one of the richest towns in the Kingdom of Hungary — and the legacy shows in the elegant [main square, Námestie SNP](/europe/slovakia/banskabystrica/namestie_snp), which is ringed by Renaissance and Baroque townhouses with pastel facades.

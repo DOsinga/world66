@@ -25,6 +25,10 @@ tip: Baku sits below sea level on the Caspian, and its skyline mixes a UNESCO-li
   trip.
 title: Baku
 type: location
+heritage: 6.7
+vibrancy: 6.5
+nature: 1.9
+off_the_beaten_track: 2.4
 ---
 
 Baku is the capital and largest city of [Azerbaijan](/europe/azerbaijan), a sprawling metropolis on the western shore of the Caspian Sea that has reinvented itself dramatically since the oil boom of the 2000s. The skyline now features the [Flame Towers](/europe/azerbaijan/baku/flame_towers) — three glass skyscrapers shaped like tongues of fire that have become the city's most recognizable landmark — alongside Soviet-era blocks, Belle Époque mansions from the first oil boom of the 1890s, and the medieval walls of the Old City.

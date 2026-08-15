@@ -14,6 +14,10 @@ snippet: Northeastern Wisconsin county of Green Bay shoreline, Nicolet forest, p
   lakes, and trout streams.
 title: Oconto Area
 type: location
+heritage: 4.0
+vibrancy: 1.5
+nature: 6.3
+off_the_beaten_track: 3.0
 ---
 
 Oconto County stretches over 1,000 square miles of northeastern Wisconsin, from the Green Bay shoreline in the east to the [Nicolet National Forest](/northamerica/unitedstates/wisconsin/ocontoarea/nicolet_national_forest) in the west. Fifty-three lakes with public access and more than 300 miles of trout streams make it serious fishing country. The [Oconto River](/northamerica/unitedstates/wisconsin/ocontoarea/oconto_river), running south through the county from the national forest to Lake Michigan, draws anglers in autumn for the salmon run and paddlers in summer for its forested upper sections.

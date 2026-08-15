@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Lochinver
 title: Lochinver
 type: location
+heritage: 4.4
+vibrancy: 1.1
+nature: 7.9
+off_the_beaten_track: 5.7
 ---
 
 Lochinver is a small fishing village at the head of Loch Inver, in the Assynt district of Sutherland in the far northwest of Scotland. Although it amounts to little more than a cluster of houses, a harbour, and a few shops, it functions as the main settlement across a huge, thinly peopled stretch of coast. Every approach is spectacular — the roads wind between savage quartzite peaks rising straight from moorland, with views over the sea to the Summer Isles.

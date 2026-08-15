@@ -15,6 +15,10 @@ title: San Rafael
 type: location
 snippet: Small New Mexico village near El Malpais, anchored by a late-1800s stone
   mission church.
+heritage: 2.6
+vibrancy: 1.3
+nature: 6.2
+off_the_beaten_track: 5.7
 ---
 
 San Rafael is a small village just south of Grants on NM-53, at the edge of the malpais lava fields that give the nearby El Malpais National Monument its name. The village was once the site of the original Fort Wingate, established in 1862 during the Navajo campaigns, though nothing of the fort remains today.

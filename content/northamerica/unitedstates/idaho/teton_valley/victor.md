@@ -10,6 +10,10 @@ snippet: Teton Valley town at the foot of Teton Pass, with ranch roots and Grand
   views
 title: Victor
 type: location
+heritage: 2.2
+vibrancy: 1.3
+nature: 7.9
+off_the_beaten_track: 4.9
 ---
 
 Victor sits at the southern end of [Teton Valley](/northamerica/unitedstates/idaho/teton_valley), right where the road begins its climb over Teton Pass into [Wyoming](/northamerica/unitedstates/wyoming). For years it was the quieter, less commercial alternative to [Driggs](/northamerica/unitedstates/idaho/teton_valley/driggs) — a place where ranchers and ski bums coexisted without much fuss.

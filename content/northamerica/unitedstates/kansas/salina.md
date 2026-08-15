@@ -17,6 +17,10 @@ sources:
 - https://www.smokyhillmuseum.org/
 title: Salina
 type: location
+heritage: 1.9
+vibrancy: 2.2
+nature: 2.1
+off_the_beaten_track: 1.3
 ---
 
 Salina is a central Kansas crossroads, the kind of town many travellers first meet from Interstate 70. Slow down and it becomes more interesting: a revived Santa Fe Avenue, a good local museum, public art, and enough food and performance venues to make it more than a fuel stop.

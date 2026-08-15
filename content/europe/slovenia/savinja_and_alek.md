@@ -10,6 +10,10 @@ title: Savinja and Šalek Valley
 snippet: Slovenian alpine valley region below the Savinja Alps, centred on Logar Valley
   and mountain landscapes
 type: location
+heritage: 3.8
+vibrancy: 1.4
+nature: 6.7
+off_the_beaten_track: 2.9
 ---
 
 The Savinja Alps and the valleys beneath them are one of [Slovenia's](/europe/slovenia) finest mountain landscapes. The [Logar Valley](/europe/slovenia/savinja_and_alek/logar_valley) (Logarska Dolina) is considered one of the most beautiful alpine valleys in Europe, and in 2009 the wider Solčavsko area won the European Destination of Excellence Award.

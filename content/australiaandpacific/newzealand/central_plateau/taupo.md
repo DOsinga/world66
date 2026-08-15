@@ -13,6 +13,10 @@ snippet: Lakeside New Zealand town beside a vast volcanic caldera, central to ex
   the plateau.
 title: Taupo
 type: location
+heritage: 3.3
+vibrancy: 4.6
+nature: 7.3
+off_the_beaten_track: 4.0
 ---
 
 Located about halfway between [Auckland](/australiaandpacific/newzealand/north_island/auckland_region/auckland) and [Wellington](/australiaandpacific/newzealand/north_island/greater_wellington/wellington), Taupo is a lakeside town that serves as the main base for exploring the Central Plateau. [Lake Taupo](/australiaandpacific/newzealand/central_plateau/taupo/lake_taupo) itself — 616 square kilometres of water filling the caldera of a dormant supervolcano — is the largest lake in New Zealand and one of the largest freshwater volcanic lakes in the world.

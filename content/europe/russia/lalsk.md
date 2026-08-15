@@ -15,6 +15,10 @@ image: lalsk.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lalsk-cathedral-complex.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Yaroslav M. Blanter
+heritage: 7.1
+vibrancy: 1.3
+nature: 5.4
+off_the_beaten_track: 6.8
 ---
 
 *Europe > Russia > Lalsk*

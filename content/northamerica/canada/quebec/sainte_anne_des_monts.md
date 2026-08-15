@@ -13,6 +13,10 @@ image: sainte_anne_des_monts.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Sainte-Anne-des-Monts,_Quebec_-_%C3%A9glise_de_Sainte-Anne-des-Monts_-_2.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Cantons-de-l'Est
+heritage: 4.3
+vibrancy: 2.0
+nature: 6.9
+off_the_beaten_track: 4.8
 ---
 
 Sainte-Anne-des-Monts sits on the north shore of the Gaspé Peninsula, where the St. Lawrence estuary meets the road into the Chic-Choc Mountains. It is a small French-speaking town, but the setting gives it real pull: sea on one side, high inland mountains on the other.

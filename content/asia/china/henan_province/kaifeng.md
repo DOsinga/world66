@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Kaifeng
 title: Kaifeng
 type: location
+heritage: 7.9
+vibrancy: 4.6
+nature: 2.2
+off_the_beaten_track: 2.1
 ---
 
 For most of the eleventh century, Kaifeng was the largest city on earth. As the capital of the Northern Song dynasty it was a place of extraordinary cosmopolitan energy — the great painting "Along the River During the Qingming Festival" captures a single day in the life of this city, packed with merchants, entertainers, boats, and festivals. Marco Polo passed through in 1260, long after the Song had moved south, and was still impressed. That world is gone, buried under centuries of flooding and silt — the city has been rebuilt on top of itself so many times that the Tang-dynasty streets lie twelve metres below the current surface — but enough survives to make Kaifeng one of Henan's most rewarding stops.

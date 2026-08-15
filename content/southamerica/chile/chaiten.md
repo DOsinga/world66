@@ -15,6 +15,10 @@ image: chaiten.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Chaiten_Volcano_Chile.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Pi3.124
+heritage: 1.5
+vibrancy: 1.6
+nature: 7.9
+off_the_beaten_track: 7.1
 ---
 
 Chaitén is not pretty in the polished sense. It is a small Patagonian port on the Carretera Austral, rebuilt after the 2008 eruption of [Volcán Chaitén](/southamerica/chile/chaiten/volcan_chaiten) sent ash and mud through town. That disaster is still part of the place: a few scarred buildings remain, and the volcano is close enough to feel less like scenery than a neighbour.

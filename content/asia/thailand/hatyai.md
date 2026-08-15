@@ -10,6 +10,10 @@ snippet: Southern Thai commercial hub near Malaysia, where Thai, Chinese, and Ma
   food cultures overlap.
 title: Hat Yai
 type: location
+heritage: 3.9
+vibrancy: 4.3
+nature: 4.8
+off_the_beaten_track: 4.2
 ---
 
 Hat Yai is the largest city in southern [Thailand](/asia/thailand), a sprawling commercial hub about 30 km from the Malaysian border. It is not a pretty place, but it has an energy that comes from being a genuine crossroads — Thai, Chinese and Malay cultures overlap here, and the food reflects all three. The night markets and street food stalls are the real attraction, with dishes you will not find further north — Hat Yai-style fried chicken, dim sum from breakfast, and southern Thai curries unapologetically loaded with chilli.

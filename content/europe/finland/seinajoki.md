@@ -14,6 +14,10 @@ image: seinajoki.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lakeuden_risti_20180626.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Santeri Viinamäki
+heritage: 4.0
+vibrancy: 3.5
+nature: 5.3
+off_the_beaten_track: 1.7
 ---
 
 Seinäjoki is the capital of Southern Ostrobothnia, a flat-country rail and road hub in western Finland. It is not a picture-postcard old town. Its best reason to stop is modern architecture: Alvar Aalto designed a whole civic centre here, giving the city one of Finland's clearest concentrations of 20th-century design.

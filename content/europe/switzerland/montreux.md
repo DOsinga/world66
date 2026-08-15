@@ -13,6 +13,10 @@ snippet: Lake Geneva resort town on the Swiss Riviera, known for jazz, palms, an
   mountain-sheltered promenades
 title: Montreux
 type: location
+heritage: 4.5
+vibrancy: 5.6
+nature: 7.2
+off_the_beaten_track: 1.8
 ---
 
 Montreux sits on the northeastern shore of Lake Geneva, sheltered by mountains on three sides and blessed with the mildest climate in [Switzerland](/europe/switzerland). The lakefront promenade, lined with palm trees and flower beds, has an almost Mediterranean feel — this is the "Swiss Riviera," and the town has been attracting artists, writers, and wealthy visitors since the 19th century.

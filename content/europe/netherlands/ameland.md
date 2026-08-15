@@ -14,6 +14,10 @@ tags:
 - waddenislands
 title: Ameland
 type: location
+heritage: 3.9
+vibrancy: 2.7
+nature: 7.0
+off_the_beaten_track: 3.0
 ---
 
 Ameland is one of the five inhabited [Wadden Islands](/europe/netherlands/waddenislands) off the northern Dutch coast. It is smaller and quieter than neighbouring [Terschelling](/europe/netherlands/terschelling), which is part of its charm — wide sandy beaches on the north side, mudflats and salt marshes on the south, and not much in between except cycling paths, dunes, and a handful of villages.

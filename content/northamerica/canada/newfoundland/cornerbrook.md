@@ -14,6 +14,10 @@ snippet: Industrial Newfoundland city on the Bay of Islands, backed by Long Rang
   Mountains and Cook-surveyed waters
 title: Corner Brook
 type: location
+heritage: 3.7
+vibrancy: 2.3
+nature: 5.7
+off_the_beaten_track: 3.6
 ---
 
 Corner Brook is the second-largest city in Newfoundland, set at the head of the Bay of Islands on the island's west coast. It is an industrial town — a pulp and paper mill still dominates the waterfront — but it sits in genuinely spectacular country where the Long Range Mountains drop toward the sea.

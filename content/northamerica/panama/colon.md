@@ -19,6 +19,10 @@ title: Colón
 type: location
 snippet: Caribbean canal city at Panama's Atlantic gateway, near Gatún Locks and the
   Colón Free Zone.
+heritage: 3.8
+vibrancy: 4.0
+nature: 5.1
+off_the_beaten_track: 2.8
 ---
 
 Colón sits on the Caribbean end of the [Panama](/northamerica/panama) Canal and is the country's second-largest city, though it wears its status roughly. Much of the centre is run-down and can feel unsafe, especially after dark — take local advice and be sensible about where you walk.

@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Dessau-Ro%C3%9Flau
 title: Dessau
 type: location
+heritage: 7.4
+vibrancy: 3.9
+nature: 3.0
+off_the_beaten_track: 2.4
 ---
 
 Dessau is where modernism put down roots. The Bauhaus school moved here from Weimar in 1925, and the buildings Walter Gropius designed for it — the Bauhaus Building, the Meisterhäuser, the Kornhaus — still stand as a UNESCO World Heritage Site. If you care about architecture and design, this small city on the Elbe is a genuine pilgrimage.

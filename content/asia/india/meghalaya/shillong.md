@@ -13,6 +13,10 @@ type: location
 score: 7.76
 snippet: Meghalaya's hill capital, known for pine-covered ridges, colonial-era institutions,
   and nearby waterfalls.
+heritage: 2.5
+vibrancy: 5.5
+nature: 7.1
+off_the_beaten_track: 5.0
 ---
 
 Shillong, the capital of [Meghalaya](/asia/india/meghalaya), sits at around 1,500 metres in the Khasi Hills. The British called it the "Scotland of the East" for its pine-covered hills, cool climate, and colonial-era architecture. Today it is a lively university town with a character quite unlike anywhere else in India — the Khasi people have a matrilineal society, and the blend of tribal, colonial, and modern Indian cultures gives the city a distinctive feel.

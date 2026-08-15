@@ -13,6 +13,10 @@ snippet: Venezuelan beach resort city beside Mochima National Park, with ferries
   waterfront life along Paseo Colón.
 title: Puerto la Cruz
 type: location
+heritage: 4.4
+vibrancy: 4.7
+nature: 5.4
+off_the_beaten_track: 4.1
 ---
 
 Puerto la Cruz is Venezuela's main beach resort city, on the northeastern coast in Anzoátegui state. It sits at the edge of the [Mochima National Park](/southamerica/venezuela/puertolacruz/mochima_islands), which protects a spectacular archipelago of islands, peninsulas, and coves in the Caribbean — clear water, white sand beaches, and mangrove channels accessible by boat.

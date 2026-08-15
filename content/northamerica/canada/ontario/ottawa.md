@@ -25,6 +25,10 @@ tip: Ottawa is Canada's bilingual capital, sitting across the river from French-
   festival.
 title: Ottawa
 type: location
+heritage: 7.4
+vibrancy: 5.5
+nature: 5.5
+off_the_beaten_track: 1.8
 ---
 
 Ottawa is Canada's capital, and one of the most underrated cities in North America. It is smaller and quieter than Toronto or Montreal, but it punches well above its weight: the seat of government, the country's best collection of national museums, and a setting of rivers, canals and parkland that makes the city itself a pleasure to walk through.

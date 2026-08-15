@@ -11,6 +11,10 @@ snippet: Delaware capital with an 18th-century green, colonial statehouse, and a
   historic core
 title: Dover
 type: location
+heritage: 2.8
+vibrancy: 2.7
+nature: 1.5
+off_the_beaten_track: 1.0
 ---
 
 Dover is the capital of Delaware and sits squarely in the middle of the state, an easy drive from both Philadelphia and the Atlantic beaches. It is a small city — quietly proud of its history — and one that most travelers drive past on the way to somewhere else. That's a mistake worth correcting.

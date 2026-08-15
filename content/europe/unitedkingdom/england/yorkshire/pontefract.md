@@ -14,6 +14,10 @@ image: pontefract.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aerial_photographs_of_the_Pontefract_Hospital_(20th_July_2025)_018.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Mtaylor848
+heritage: 7.5
+vibrancy: 3.5
+nature: 4.2
+off_the_beaten_track: 2.0
 ---
 
 Pontefract is a compact market town in West Yorkshire, best known for two things: a ruined castle with a grim royal past and the liquorice sweets that have been made here for centuries. Neither claim to fame is especially glamorous, but both are genuinely distinctive — you won't find many other towns where medieval regicide and confectionery are the twin pillars of local identity.

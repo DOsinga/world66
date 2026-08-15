@@ -13,6 +13,10 @@ image: chichen_itza.jpg
 image_source: https://commons.wikimedia.org/wiki/File:001_El_Castillo_o_templo_de_Kukulkan._Chich%C3%A9n_Itz%C3%A1,_M%C3%A9xico._MPLC.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Manuel de Corselas
+heritage: 8.6
+vibrancy: 3.7
+nature: 4.3
+off_the_beaten_track: 3.2
 ---
 
 Chichen Itza is the most visited archaeological site in Mexico and one of the great ancient cities of the world. A UNESCO World Heritage Site and one of the New Seven Wonders of the World, it sits in the heart of the Yucatan Peninsula and draws visitors from across the globe — and for good reason.

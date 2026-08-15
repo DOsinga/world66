@@ -14,6 +14,10 @@ image: pietrapertosa.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Castello_normanno_-_Pietrapertosa_01.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Camelia.boban
+heritage: 5.8
+vibrancy: 2.4
+nature: 6.9
+off_the_beaten_track: 4.2
 ---
 
 Pietrapertosa is one of Basilicata's most dramatic villages, built directly under the jagged sandstone towers of the Lucanian Dolomites. From below, the houses seem to climb into the rock; from the top of the village, the view opens across a rough mountain landscape that feels much larger than this small corner of southern Italy.

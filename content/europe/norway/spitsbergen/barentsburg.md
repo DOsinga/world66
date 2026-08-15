@@ -14,6 +14,10 @@ image: barentsburg.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Barentsburg_-_panoramio_(1).jpg
 image_license: CC BY 3.0
 image_attribution: Keith Ruffles
+heritage: 1.1
+vibrancy: 0.7
+nature: 8.2
+off_the_beaten_track: 6.8
 ---
 
 Barentsburg is the Russian mining settlement on [Spitsbergen](/europe/norway/spitsbergen), set on the shore of Grønfjorden under Arctic mountains. It is small, strange, and memorable: Soviet-era slogans, coal infrastructure, painted apartment blocks, and a dramatic view across the fjord all packed into a settlement you can cross on foot.

@@ -14,6 +14,10 @@ snippet: Orange County college city with a historic downtown, music scene, and C
   State campus.
 title: Fullerton
 type: location
+heritage: 2.0
+vibrancy: 2.7
+nature: 2.2
+off_the_beaten_track: 1.0
 ---
 
 Fullerton sits at the northern edge of Orange County, about 22 miles southeast of downtown Los Angeles — close enough to the sprawl but with its own distinct character. It's a college town at heart, home to California State University Fullerton, and that gives the downtown area a livelier, younger feel than most of its Orange County neighbors.

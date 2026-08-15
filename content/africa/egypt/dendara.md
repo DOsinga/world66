@@ -13,6 +13,10 @@ snippet: Upper Egyptian temple village known for the remarkably intact Ptolemaic
   of Hathor
 title: Dendara
 type: location
+heritage: 7.5
+vibrancy: 2.2
+nature: 3.4
+off_the_beaten_track: 3.9
 ---
 
 Dendara (Dendera) is home to one of the best-preserved temples in all of Egypt. The [Temple of Hathor](/africa/egypt/dendara/temple_of_hathor), built largely by the Ptolemies and finished during the early Roman period, stands virtually intact — a rarity in a country where most ancient buildings survive only as ruins. It sits about 60 km north of Luxor, near the town of Qena, and makes an easy day trip.

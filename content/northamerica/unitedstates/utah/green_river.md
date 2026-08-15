@@ -14,6 +14,10 @@ snippet: Eastern Utah desert town on I-70, launching Green River canyon trips an
   celebrating melon country.
 title: Green River
 type: location
+heritage: 2.3
+vibrancy: 2.1
+nature: 7.5
+off_the_beaten_track: 2.8
 ---
 
 Green River is one of the loneliest towns on I-70, sitting in the desert of eastern Utah between the Book Cliffs and the San Rafael Swell. It is the kind of place you stop for fuel and end up staying longer than expected. The river the town is named for flows through on its way to a confluence with the Colorado, and this is where most rafting trips into [Labyrinth](/northamerica/unitedstates/utah/green_river/labyrinth_canyon) and Stillwater Canyons launch.

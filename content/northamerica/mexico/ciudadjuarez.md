@@ -10,6 +10,10 @@ snippet: Chihuahua border city across from El Paso, shaped by international brid
   manufacturing, and a busy historic centre.
 title: Ciudad Juárez
 type: location
+heritage: 4.8
+vibrancy: 5.0
+nature: 2.4
+off_the_beaten_track: 4.1
 ---
 
 Ciudad Juárez sits directly across the Rio Grande from El Paso, Texas, connected by several international bridges and functioning as one of the world's largest border communities. It is Chihuahua state's most populous city and a major manufacturing centre. The city gained a difficult international reputation in the 2000s due to cartel violence, though the security situation has improved considerably since.

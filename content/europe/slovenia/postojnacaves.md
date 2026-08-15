@@ -14,6 +14,10 @@ image: postojnacaves.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Postojna_Cave_(18264483725).jpg
 image_license: CC BY 2.0
 image_attribution: Shadowgate from Novara, ITALY
+heritage: 6.1
+vibrancy: 1.4
+nature: 6.0
+off_the_beaten_track: 3.0
 ---
 
 Postojna is home to one of the most impressive cave systems in the world — 24 kilometres of passages, galleries, and halls carved out over millions of years by the Pivka River. A small electric train takes you two kilometres into the mountain to the start of the walking tour, which passes through vast chambers filled with stalactites, stalagmites, and formations that look like they belong on another planet.

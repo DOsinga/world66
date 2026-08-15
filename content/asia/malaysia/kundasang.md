@@ -3,12 +3,17 @@ latitude: 5.9833
 loc_type: city
 longitude: 116.5667
 score: 7.35
-snippet: Sabah highland town below Mount Kinabalu, known for war memory, cool air, and mountain farms.
+snippet: Sabah highland town below Mount Kinabalu, known for war memory, cool air,
+  and mountain farms.
 sources:
-  - https://en.wikivoyage.org/wiki/Kundasang
-  - https://en.wikipedia.org/wiki/Kundasang
+- https://en.wikivoyage.org/wiki/Kundasang
+- https://en.wikipedia.org/wiki/Kundasang
 title: Kundasang
 type: location
+heritage: 3.6
+vibrancy: 2.1
+nature: 6.9
+off_the_beaten_track: 5.1
 ---
 
 Kundasang sits high in Sabah's Crocker Range, close enough to [Mount Kinabalu](/asia/malaysia/borneo/mount_kinabalu) that the mountain feels like part of town. The air is cool by Borneo standards, the roads curl through vegetable farms and steep green slopes, and the clouds decide how much of Kinabalu you get to see on any given hour.

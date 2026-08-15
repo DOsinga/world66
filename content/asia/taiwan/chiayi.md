@@ -16,6 +16,10 @@ image: chiayi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Hinoki_Village,_Chiayi_City_20130505.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Mk2010
+heritage: 3.7
+vibrancy: 5.0
+nature: 5.5
+off_the_beaten_track: 2.2
 ---
 
 Chiayi is easy to treat as the city before Alishan, but that sells it short. It is a compact southern Taiwanese city with Japanese-era timber history, good local food, and a slower rhythm than Taipei or Taichung. The Alishan Forest Railway still gives the place its strongest travel identity: mountain logging, narrow-gauge engineering, and cypress wood all lead back here.

@@ -16,6 +16,10 @@ image: cong.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bridge_over_the_River_Cong_-_geograph.org.uk_-_5010174.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Alan Reid
+heritage: 6.0
+vibrancy: 2.3
+nature: 5.6
+off_the_beaten_track: 2.4
 ---
 
 *Europe > Ireland > Cong*

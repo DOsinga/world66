@@ -10,6 +10,10 @@ snippet: Green Turks and Caicos island with quiet beaches, flamingo ponds, and L
   plantation ruins.
 title: North Caicos
 type: location
+heritage: 1.8
+vibrancy: 1.2
+nature: 7.9
+off_the_beaten_track: 6.6
 ---
 
 North Caicos is the greenest island in the Turks and Caicos, with more rainfall than its neighbours and a lush, almost jungled interior. It is connected to [Middle Caicos](/northamerica/turksandcaicosislands/middlecaicos) by a causeway and reached by a short ferry from Providenciales.

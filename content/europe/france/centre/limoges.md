@@ -18,6 +18,10 @@ tags:
 - limousin
 title: Limoges
 type: location
+heritage: 7.1
+vibrancy: 4.0
+nature: 3.0
+off_the_beaten_track: 2.4
 ---
 
 Limoges is the kind of French city that tends to be dismissed by travellers in a hurry — a modest prefectural town on the western slopes of the Massif Central, more familiar as an adjective than as a destination. That is their loss. The city has a fine Gothic cathedral, a museum of porcelain that is among the best of its kind in the world, and an old town of real character built on the hinge between two ancient rival settlements.

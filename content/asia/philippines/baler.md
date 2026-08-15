@@ -10,6 +10,10 @@ snippet: Pacific coast surf town in Aurora, backed by the Sierra Madre and Saban
   Beach waves.
 title: Baler
 type: location
+heritage: 3.2
+vibrancy: 2.4
+nature: 4.3
+off_the_beaten_track: 3.4
 ---
 
 Baler is the capital of Aurora province on the east coast of Luzon, facing the Pacific Ocean. It is best known as the birthplace of Philippine surfing — the waves at [Sabang Beach](/asia/philippines/baler/sabang_beach) drew the first surfers in the 1970s, and the town has since become the most popular surf destination in the country. The break works best from October to March, when the northeast monsoon pushes consistent swells onto the coast.

@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Belle_Fourche_Commercial_Historic_District
 title: Belle Fourche
 type: location
+heritage: 1.9
+vibrancy: 1.4
+nature: 2.8
+off_the_beaten_track: 3.0
 ---
 
 Belle Fourche sits north of the [Black Hills](/northamerica/unitedstates/southdakota/blackhills), where cattle country begins to feel larger and drier than the tourist towns around Deadwood and Custer. Its name is French for "beautiful fork," a nod to the rivers that helped make this a ranching and railroad town.

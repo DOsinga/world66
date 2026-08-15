@@ -10,6 +10,10 @@ title: Truckee
 type: location
 snippet: Sierra Nevada mountain town with railroad-era storefronts near Donner Pass,
   Lake Tahoe, and High Sierra trails.
+heritage: 3.5
+vibrancy: 3.9
+nature: 7.5
+off_the_beaten_track: 3.9
 ---
 
 Truckee is a mountain town in the Sierra Nevada of northern California, sitting at about 1,800 metres near the Nevada border. It began as a railroad and logging settlement in the 1860s — the Central Pacific Railroad pushed through Donner Pass just south of town, and the rail yard and Victorian-era [Commercial Row](/northamerica/unitedstates/california/highsierra/truckee/commercial_row) still define the historic centre. Today it is better known as a gateway to Lake Tahoe, the Tahoe ski resorts, and the High Sierra wilderness.

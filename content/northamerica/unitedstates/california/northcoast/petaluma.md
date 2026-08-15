@@ -12,6 +12,10 @@ snippet: Sonoma County river city with a Victorian downtown and 19th-century por
   bones
 title: Petaluma
 type: location
+heritage: 3.9
+vibrancy: 4.8
+nature: 5.1
+off_the_beaten_track: 2.7
 ---
 
 Petaluma sits at the northern end of San Francisco Bay's reach, straddling a tidal slough that made it a booming river port in the 19th century. It's a genuine small city with a well-preserved Victorian downtown, a walkable riverfront, and enough restaurants and breweries to make an overnight stay worthwhile. Most visitors pass through on the way to wine country, but Petaluma rewards those who slow down.

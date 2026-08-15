@@ -12,6 +12,10 @@ tags:
 - rivieradellepalme
 title: Vezzi Portio
 type: location
+heritage: 4.1
+vibrancy: 2.5
+nature: 4.4
+off_the_beaten_track: 2.5
 ---
 
 Vezzi Portio is a small hinterland commune in the hills between Spotorno and Finale Ligure, sitting at about 400 metres above the Ligurian coast. It consists of several hamlets — Vezzi, Portio, and Magnone — strung along the road through the upper valley of the Aquila stream. The settlement is ancient: the “Vicium” of Roman records, ceded between various feudal powers for centuries before passing to the Republic of Genoa in 1713.

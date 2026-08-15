@@ -24,6 +24,10 @@ tip: Antananarivo — 'Tana' for short — is a steep city of stairways, balconi
   a wander; watch your pockets in the crowded market lanes and use registered taxis.
 title: Antananarivo
 type: location
+heritage: 3.0
+vibrancy: 6.1
+nature: 5.6
+off_the_beaten_track: 4.1
 ---
 
 Antananarivo, thankfully shortened to Tana by tourists and locals alike, is the bustling capital of Madagascar.

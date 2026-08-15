@@ -18,6 +18,10 @@ image: sixt_fercheval.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Giffre_%C3%A0_Sixt-Fer-%C3%A0-Cheval_en_%C3%A9t%C3%A9_(juillet_2023).JPG
 image_license: CC BY-SA 4.0
 image_attribution: Florian Pépellin
+heritage: 5.0
+vibrancy: 1.7
+nature: 8.0
+off_the_beaten_track: 4.8
 ---
 
 Sixt-Fer-à-Cheval sits at the dead end of a long valley road through [Samoëns](/europe/france/alpes/samoens), deep in the Haute-Savoie — close to [Chamonix](/europe/france/alpes/chamonix) as the crow flies but a world away in atmosphere. Mont Blanc is visible from a tent pitched here, yet the crowds are not. That contrast is precisely the point.

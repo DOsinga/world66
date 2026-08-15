@@ -14,6 +14,10 @@ snippet: Lake District village below Coniston Old Man, tied to Coniston Water, s
   fells, and John Ruskin's Brantwood.
 title: Coniston
 type: location
+heritage: 5.5
+vibrancy: 2.3
+nature: 7.5
+off_the_beaten_track: 3.2
 ---
 
 Coniston is a small slate-grey village at the head of Coniston Water, tucked beneath some of the [Lake District's](/europe/unitedkingdom/england/lakedistrict) finest fells. The lake is inseparable from the memory of Donald Campbell, who died here in 1967 attempting a new water speed record, but Coniston has far more to offer than that single famous tragedy.

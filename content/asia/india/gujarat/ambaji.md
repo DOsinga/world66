@@ -14,6 +14,10 @@ image: ambaji.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ambaji_-_Gujarat,_India_(4587160875).jpg
 image_license: CC BY 2.0
 image_attribution: Emmanuel DYAN from Paris, France
+heritage: 6.0
+vibrancy: 3.0
+nature: 3.7
+off_the_beaten_track: 2.0
 ---
 
 Ambaji is one of Gujarat's great pilgrimage towns, tucked into the Aravalli foothills near the Rajasthan border. It is not a polished sightseeing town, and that is part of the point: the traffic, prasad stalls, temple bells, and steady stream of pilgrims are the experience.

@@ -13,6 +13,10 @@ snippet: Scottish city defined by Victorian architecture, shipbuilding history, 
   a sharp independent culture
 title: Glasgow
 type: location
+heritage: 8.3
+vibrancy: 7.6
+nature: 3.8
+off_the_beaten_track: 1.5
 ---
 
 Glasgow is Scotland's largest city — larger than Edinburgh by population — and arguable its most interesting. Formerly "the second city of the British Empire," it built its wealth on trade, tobacco, and shipbuilding, and the Victorian architecture that resulted is the largest and finest collection of its kind anywhere in Britain. The city nearly destroyed itself in the post-war decades with tower blocks and motorways, then pulled off one of the more remarkable urban revivals in European history: it was European City of Culture in 1991, UK City of Architecture and Design in 1999, and is now one of the continent's better cities for arts, food, and independent culture.

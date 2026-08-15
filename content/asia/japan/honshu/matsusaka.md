@@ -17,6 +17,10 @@ image: matsusaka.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gojoban_Yashiki01.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Tawashi2006
+heritage: 4.9
+vibrancy: 3.1
+nature: 4.2
+off_the_beaten_track: 2.2
 ---
 
 Matsusaka sits in Mie Prefecture between Nagoya and Ise, and most people know its name because of beef. That is fair enough: Matsusaka beef is one of Japan's great luxury ingredients. But the city is more interesting than a meal stop.

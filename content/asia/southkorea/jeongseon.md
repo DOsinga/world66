@@ -5,13 +5,18 @@ loc_type: city
 latitude: 37.3806
 longitude: 128.6609
 score: 7.0
-snippet: Mountain county town known for Arirang, rail bikes, limestone caves, and high valley views.
+snippet: Mountain county town known for Arirang, rail bikes, limestone caves, and
+  high valley views.
 wikidata: Q50323
 sources:
-  - https://en.wikivoyage.org/wiki/Jeongseon
-  - https://www.wikidata.org/wiki/Q50323
-  - https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=73329
-  - https://www.korea.net/NewsFocus/FoodTravel/view?articleId=125084
+- https://en.wikivoyage.org/wiki/Jeongseon
+- https://www.wikidata.org/wiki/Q50323
+- https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=73329
+- https://www.korea.net/NewsFocus/FoodTravel/view?articleId=125084
+heritage: 3.4
+vibrancy: 4.0
+nature: 7.7
+off_the_beaten_track: 3.8
 ---
 
 *Asia > South Korea > Jeongseon*

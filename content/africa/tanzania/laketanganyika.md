@@ -9,6 +9,10 @@ snippet: East African rift lake of clear deep water, forested shores, cichlids, 
   MV Liemba ferry stops.
 title: Lake Tanganyika
 type: location
+heritage: 2.7
+vibrancy: 1.3
+nature: 8.1
+off_the_beaten_track: 4.9
 ---
 
 Lake Tanganyika is the longest freshwater lake in the world and the second deepest, stretching nearly 700 kilometres along the western edge of Tanzania. Its waters are shared by four countries — Tanzania, the Democratic Republic of the Congo, Burundi, and Zambia — but the Tanzanian shore is where most travellers end up, usually on their way to or from chimpanzee trekking at Gombe Stream or Mahale Mountains national parks.

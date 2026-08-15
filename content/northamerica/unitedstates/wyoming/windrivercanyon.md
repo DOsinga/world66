@@ -9,6 +9,10 @@ snippet: Central Wyoming river gorge exposing ancient rock layers beside a drama
   highway and rafting route.
 title: Wind River Canyon
 type: location
+heritage: 1.8
+vibrancy: 1.2
+nature: 7.6
+off_the_beaten_track: 2.9
 ---
 
 Wind River Canyon carves through the Owl Creek Mountains in central Wyoming, cutting a dramatic gorge that the Wind River has spent millions of years deepening. The canyon walls expose rock dating back nearly three billion years — among the oldest exposed geology in North America — and geological markers along the road identify the formations as you pass through them. The drive alone is worth the detour.

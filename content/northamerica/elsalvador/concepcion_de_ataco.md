@@ -7,6 +7,10 @@ snippet: Colourful Ruta de las Flores town west of Apaneca, known for murals, cr
   and coffee.
 title: Concepcion de Ataco
 type: location
+heritage: 3.6
+vibrancy: 3.1
+nature: 6.5
+off_the_beaten_track: 4.1
 ---
 
 Concepcion de Ataco is one of the most photogenic towns on the [Ruta de las Flores](/northamerica/elsalvador/rutadelasflores), the mountain road that threads through western El Salvador's coffee highlands. Murals cover many of its walls, craft shops cluster around the central square, and the surrounding slopes are thick with coffee and cloud forest. It is the kind of place that earns its popularity: the murals are genuinely good, the market stalls offer the best concentration of handmade textiles and pottery in the region, and the food is cheap and satisfying.

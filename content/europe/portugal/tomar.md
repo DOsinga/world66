@@ -17,6 +17,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Tomar
 title: Tomar
 type: location
+heritage: 4.9
+vibrancy: 5.1
+nature: 5.4
+off_the_beaten_track: 3.2
 ---
 
 Tomar sits astride the Rio Nabão in the heart of Portugal's Ribatejo province, its past written into the stone of a hilltop that the Knights Templar chose as their headquarters in the twelfth century. What they built there — a fortified convent of astonishing ambition — became one of the greatest monuments of the Portuguese Age of Discovery and draws visitors from around the world. Yet the town below the castle hill is quiet, provincial, and genuinely pleasant: a grid of low white houses, a main square with a pelourinho, and a riverside park where locals take their evening walk.

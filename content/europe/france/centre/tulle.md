@@ -19,6 +19,10 @@ tags:
 - limousin
 title: Tulle
 type: location
+heritage: 4.4
+vibrancy: 3.0
+nature: 2.6
+off_the_beaten_track: 1.8
 ---
 
 Tulle is the capital of Corrèze, but it feels less like an administrative centre than a long, narrow town squeezed into the valley of the Corrèze river. The streets climb sharply from the water, stone houses lean into the slope, and the old quarter still has the slightly workaday feel of a place that was never polished for tourists.

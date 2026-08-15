@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Ruijin
 title: Ruijin
 type: location
+heritage: 4.8
+vibrancy: 2.2
+nature: 3.4
+off_the_beaten_track: 3.4
 ---
 
 Ruijin occupies a distinctive place in modern Chinese history: it served as the capital of the Chinese Soviet Republic from 1931 and was the departure point for the Long March in October 1934, when the Red Army abandoned its base and began the year-long retreat that would eventually reach Yan'an. The city calls itself the "Cradle of the People's Republic of China," and the [Yeping revolutionary sites](/asia/china/jiangxi/ruijin/yeping_revolutionary_sites) are the primary draw — a cluster of modest earthen buildings where Mao Zedong, Zhou Enlai, and Zhu De lived and worked during the Jiangxi Soviet period. The scale of these structures is striking: the leaders of what would become the world's most populous state were working from extremely basic conditions.

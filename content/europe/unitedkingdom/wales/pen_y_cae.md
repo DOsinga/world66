@@ -7,13 +7,18 @@ latitude: 51.8115
 loc_type: city
 longitude: -3.6782
 score: 6.58
-snippet: Upper Swansea Valley village beside show caves, Craig y Nos Castle, and Bannau Brycheiniog.
+snippet: Upper Swansea Valley village beside show caves, Craig y Nos Castle, and Bannau
+  Brycheiniog.
 sources:
-  - https://en.wikivoyage.org/wiki/Pen_y_Cae
-  - https://en.wikipedia.org/wiki/Pen-y-cae,_Powys
-  - https://www.wikidata.org/wiki/Q7161573
+- https://en.wikivoyage.org/wiki/Pen_y_Cae
+- https://en.wikipedia.org/wiki/Pen-y-cae,_Powys
+- https://www.wikidata.org/wiki/Q7161573
 title: Pen y Cae
 type: location
+heritage: 4.9
+vibrancy: 1.7
+nature: 6.1
+off_the_beaten_track: 3.9
 ---
 
 Pen y Cae is a small village in the Upper Swansea Valley, close to the southern edge of Bannau Brycheiniog, also known as the Brecon Beacons. The village itself is modest, but the immediate area has a surprisingly strong trio: caves, a country park, and a theatrical castle story.

@@ -15,6 +15,10 @@ tags:
 - basqueregion
 title: Bayonne
 type: location
+heritage: 6.2
+vibrancy: 5.4
+nature: 3.9
+off_the_beaten_track: 1.4
 ---
 
 Bayonne, the capital of the Basque region, sits at the junction of the rivers Adour and Nive — a busy commercial town with a long and layered history. At every turn of the narrow lanes with their distinctive colombage houses that make up the old town centre, you will come upon vestiges of a rich past. From the Roman fortifications, elements of which are still visible, to the magnificent Gothic [Cathedral Sainte-Marie](/europe/france/aquitaine/bayonne/bayonne_cathedral) and the [ramparts built by Vauban](/europe/france/aquitaine/bayonne/vauban_ramparts) under Louis XIV, the historical depth of Bayonne rewards careful exploration.

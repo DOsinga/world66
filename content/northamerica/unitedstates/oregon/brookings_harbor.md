@@ -15,6 +15,10 @@ image: brookings_harbor.jpg
 image_source: https://commons.wikimedia.org/wiki/File:BrookingsHarbor.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Cacophony
+heritage: 2.1
+vibrancy: 1.8
+nature: 6.1
+off_the_beaten_track: 2.6
 ---
 
 Brookings-Harbor is the last Oregon coast town before California, and it feels more like a meeting point than an endpoint. The Chetco River reaches the Pacific here, fog catches on headlands and sea stacks, and the redwood country begins just over the state line.

@@ -16,6 +16,10 @@ snippet: English Riviera resort town with palm-lined beaches and prehistoric cav
   behind the seafront
 title: Torquay
 type: location
+heritage: 3.0
+vibrancy: 3.8
+nature: 6.0
+off_the_beaten_track: 1.6
 ---
 
 Torquay is the main resort of the so-called English Riviera, a stretch of South [Devon](/europe/unitedkingdom/england/devon) coast where the Gulf Stream keeps temperatures mild enough for palm trees to grow along the seafront. The town has nine sandy beaches, several of them holding European Blue Flag awards for water quality, and the harbour fills with sailing boats through the summer.

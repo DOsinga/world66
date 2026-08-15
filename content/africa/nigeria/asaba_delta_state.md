@@ -10,6 +10,10 @@ snippet: Delta State capital on the River Niger, anchored by its bridge to Onits
   and busy waterfront.
 title: Asaba, Delta State
 type: location
+heritage: 1.9
+vibrancy: 2.2
+nature: 3.1
+off_the_beaten_track: 4.4
 ---
 
 Asaba is the capital of Delta State, perched on the western bank of the River Niger in southern Nigeria. The [Niger Bridge](/africa/nigeria/asaba_delta_state/niger_river_bridge) connecting Asaba to Onitsha on the eastern bank is one of Nigeria's most important crossings — a landmark that links the west and east of the country, and which carries a history going well back to the Biafran War of the 1960s.

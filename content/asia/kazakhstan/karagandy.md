@@ -14,6 +14,10 @@ snippet: Kazakh coal city shaped by Soviet industry, Gulag history, and a large 
   population.
 title: Karagandy
 type: location
+heritage: 2.5
+vibrancy: 2.2
+nature: 2.7
+off_the_beaten_track: 4.8
 ---
 
 Karagandy (Karaganda) is Kazakhstan's fourth-largest city and the capital of the country's biggest region. The name comes from a word meaning "black" — fitting for a city built on coal. Founded as a mining settlement in the 1930s, it grew rapidly under Soviet industrialisation, drawing workers from across the USSR and beyond, including many who arrived involuntarily as Gulag prisoners or deported peoples.

@@ -14,6 +14,10 @@ snippet: Volcanic Caribbean island known for Brimstone Hill Fortress, Basseterre
   and rainforest-covered Mount Liamuiga.
 title: St. Kitts
 type: location
+heritage: 4.5
+vibrancy: 4.8
+nature: 6.1
+off_the_beaten_track: 2.7
 ---
 
 St. Kitts is the larger of the two islands that make up the Federation of Saint Kitts and [Nevis](/northamerica/saintkittsandnevis/nevis), a volcanic peak rising steeply from the Caribbean Sea. The island was one of the first in the Caribbean to be colonised — by both the British and the French, who fought over it for centuries — and the massive [Brimstone Hill Fortress](/northamerica/saintkittsandnevis/st_kitts/brimstone_hill_fortress), a UNESCO World Heritage Site perched on a volcanic outcrop, is the most dramatic reminder of that history.

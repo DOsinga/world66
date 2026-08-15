@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Our_Lady_of_the_Immaculate_Conception_Cathedral,_Inhambane
 title: Inhambane
 type: location
+heritage: 4.2
+vibrancy: 3.2
+nature: 7.4
+off_the_beaten_track: 5.3
 ---
 
 Inhambane is a photographer's dream: a crumbling old port town where dilapidated colonial buildings, rusting tin roofs, and overgrown courtyards give every street corner a faded grandeur. One of the oldest settlements on the East African coast, it has been a trading post for over a thousand years, and the mix of African, Portuguese, and Muslim cultures still shapes daily life.

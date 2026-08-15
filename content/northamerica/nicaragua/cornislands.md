@@ -14,6 +14,10 @@ title: Corn Islands
 type: location
 snippet: Caribbean island pair off Nicaragua, with white beaches, coral reefs, and
   Afro-Caribbean culture.
+heritage: 2.3
+vibrancy: 1.9
+nature: 6.6
+off_the_beaten_track: 6.1
 ---
 
 Two small islands floating in the Caribbean, 70 kilometres off Nicaragua's Atlantic coast — the Corn Islands are among the most rewarding places in Central America that most people have never heard of. Big Corn and Little Corn together offer white sand beaches, healthy coral reefs, and an Afro-Caribbean culture that feels entirely distinct from the rest of Nicaragua.

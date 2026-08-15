@@ -18,6 +18,10 @@ image: kalgoorlie_boulder.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Super_Pit,_2016_(04).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Bahnfrend
+heritage: 7.7
+vibrancy: 5.3
+nature: 6.5
+off_the_beaten_track: 4.7
 ---
 
 Kalgoorlie-Boulder is the capital of the Western Australian goldfields, a desert city built on a fortune that never quite stopped being dug out of the ground. It is rough-edged, practical, and unusually vivid: wide streets, old hotels, mining headframes, red dust, and the enormous Super Pit at the edge of town.

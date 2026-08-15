@@ -17,6 +17,10 @@ image: hundested.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Hundested_(Denmark)_016.jpg
 image_license: CC BY 2.0
 image_attribution: News Oresund
+heritage: 4.6
+vibrancy: 2.3
+nature: 5.0
+off_the_beaten_track: 2.7
 ---
 
 Hundested sits at the far northwest tip of Zealand, where the Kattegat, Isefjord, and Roskilde Fjord squeeze the town into a small working port. It is not polished in the way some Danish seaside towns are, and that helps it: ferries still come and go, fishing boats still work, and the harbour has filled in around them with artists, glassmakers, food stalls, and summer events.

@@ -14,6 +14,10 @@ snippet: North Sulawesi capital and gateway to Bunaken's coral walls and the Min
   highlands.
 title: Manado
 type: location
+heritage: 4.3
+vibrancy: 5.6
+nature: 6.4
+off_the_beaten_track: 4.0
 ---
 
 Manado is the capital of North Sulawesi and the launching point for [Bunaken National Marine Park](/asia/indonesia/sulawesi/manado/bunaken_national_park), one of the richest coral reef systems on earth. Most visitors come to dive — the underwater walls off Bunaken drop hundreds of metres and teem with turtles, sharks and an astounding variety of reef fish. The city itself is busy and unpretentious, with a predominantly Christian Minahasa population and a cuisine that is unapologetically hot and adventurous.

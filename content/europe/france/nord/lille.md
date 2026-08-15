@@ -14,6 +14,10 @@ snippet: Flemish-flavoured French city of red-brick old streets, lively food cul
   and cross-border metropolitan life.
 title: Lille
 type: location
+heritage: 6.2
+vibrancy: 5.2
+nature: 2.7
+off_the_beaten_track: 1.3
 ---
 
 **Lille** is the fourth-largest city in France, with a metropolitan area of about 1.2 million people stretching across the Belgian border (Lille–Kortrijk–Tournai is effectively a single bi-national conurbation). For most of its history Lille was a Flemish city — it was part of the Spanish Netherlands, then the Austrian Netherlands, before Louis XIV took it for France in 1667 — and that history is still obvious in the architecture, the food, and the language (*ch'timi*, the local dialect, is closer to Walloon than to standard French). It is also the only major French city with a strong red-brick old town that looks, at first glance, more like Bruges or Antwerp than anywhere in France.

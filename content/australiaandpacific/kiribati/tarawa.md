@@ -15,6 +15,10 @@ snippet: Kiribati capital atoll where crowded South Tarawa stretches along cause
   beside a turquoise lagoon.
 title: Tarawa
 type: location
+heritage: 6.3
+vibrancy: 0.7
+nature: 7.2
+off_the_beaten_track: 6.7
 ---
 
 *[Australia and Pacific](/australiaandpacific) > [Kiribati](/australiaandpacific/kiribati) > Tarawa*

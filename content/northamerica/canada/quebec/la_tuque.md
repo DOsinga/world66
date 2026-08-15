@@ -5,17 +5,22 @@ loc_type: city
 latitude: 47.4333
 longitude: -72.7833
 score: 6.6
-snippet: Upper Saint-Maurice wilderness town where outfitters, rivers, falls, and winter trails outweigh the grid.
+snippet: Upper Saint-Maurice wilderness town where outfitters, rivers, falls, and
+  winter trails outweigh the grid.
 wikidata: Q141769
 sources:
-  - https://en.wikivoyage.org/wiki/La_Tuque_Region
-  - https://tourismemauricie.com/en/directory/tourisme-la-tuque-2
-  - https://www.bonjourquebec.com/en-us/where-to-go/regions-of-quebec/mauricie/la-tuque
-  - https://quebecauthentique.com/en/companies-directory/tourisme-la-tuque
+- https://en.wikivoyage.org/wiki/La_Tuque_Region
+- https://tourismemauricie.com/en/directory/tourisme-la-tuque-2
+- https://www.bonjourquebec.com/en-us/where-to-go/regions-of-quebec/mauricie/la-tuque
+- https://quebecauthentique.com/en/companies-directory/tourisme-la-tuque
 image: la_tuque.jpg
 image_source: https://commons.wikimedia.org/wiki/File:La_Tuque_centre-ville_et_rivi%C3%A8re_Saint-Maurice.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Bouchecl
+heritage: 2.9
+vibrancy: 3.0
+nature: 6.8
+off_the_beaten_track: 5.6
 ---
 
 La Tuque is a working town on the Saint-Maurice River, deep in Québec's Mauricie region. It is not pretty in the old-town sense, and that matters: the reason to come is the scale of the country around it. The municipality stretches across a huge northern territory of rivers, forest roads, lakes, outfitters, and winter trails.

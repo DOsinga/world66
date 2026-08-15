@@ -5,14 +5,19 @@ loc_type: city
 latitude: 56.6483
 longitude: 23.7139
 score: 6.8
-snippet: Former Courland capital on the Lielupe, anchored by Rastrelli's palace and Latvian academic history.
+snippet: Former Courland capital on the Lielupe, anchored by Rastrelli's palace and
+  Latvian academic history.
 sources:
-  - https://en.wikivoyage.org/wiki/Jelgava
-  - https://en.wikipedia.org/wiki/Jelgava
+- https://en.wikivoyage.org/wiki/Jelgava
+- https://en.wikipedia.org/wiki/Jelgava
 image: jelgava.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Jelgava_Palace_viewed_from_the_Lielupe_riverside.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Dmitrijs Purgalvis
+heritage: 5.9
+vibrancy: 2.8
+nature: 2.8
+off_the_beaten_track: 1.9
 ---
 
 Jelgava is an easy trip southwest of [Riga](/europe/latvia/riga), but it has a history of its own. As Mitau, it was the capital of the Duchy of Courland and Semigallia, a small Baltic power whose ambitions show most clearly in the huge palace on Pils Island.

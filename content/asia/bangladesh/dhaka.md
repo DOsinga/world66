@@ -25,6 +25,10 @@ tip: Dhaka is one of the most densely populated cities on earth — the traffic 
   River are the highlights. Heat and crowds are intense; pace yourself.
 title: Dhaka
 type: location
+heritage: 7.4
+vibrancy: 6.7
+nature: 2.9
+off_the_beaten_track: 2.5
 ---
 
 Dhaka is one of the most densely populated cities on earth — around 22 million people in a sprawling delta metropolis where traffic moves at a crawl and the streets never fully sleep. It is chaotic, noisy, and genuinely fascinating. Most visitors arriving in Bangladesh pass through Dhaka, and it rewards more time than most people give it.

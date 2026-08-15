@@ -18,6 +18,10 @@ sources:
 - https://www.madryn.travel/
 title: Puerto Madryn
 type: location
+heritage: 3.7
+vibrancy: 3.5
+nature: 7.9
+off_the_beaten_track: 3.8
 ---
 
 Puerto Madryn is the easy gateway to the wildlife coast of northern Patagonia. The city itself is a practical port on the sheltered Golfo Nuevo, but the bay gives it a softer edge: whales can come close enough to be seen from shore in season, and the long waterfront is made for slow evening walks after a dusty day on the steppe.

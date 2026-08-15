@@ -14,6 +14,10 @@ image: asmat.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Asmat_Carving.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Si Gam
+heritage: 5.2
+vibrancy: 1.4
+nature: 6.5
+off_the_beaten_track: 7.3
 ---
 
 Asmat is a remote swamp-and-river region in southwest Indonesian New Guinea. It is not an easy place to visit: distances are wet, slow, and expensive, and most movement between villages is by boat. That difficulty is part of the truth of the place, not a footnote.

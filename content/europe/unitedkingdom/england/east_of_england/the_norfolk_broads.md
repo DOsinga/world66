@@ -13,6 +13,10 @@ image: the_norfolk_broads.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Barton_Broad,_Norfolk.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Mike Hudson
+heritage: 5.2
+vibrancy: 2.3
+nature: 6.2
+off_the_beaten_track: 2.7
 ---
 
 The Norfolk Broads is England's largest protected wetland and one of its most distinctive landscapes — a place that most visitors arrive at by boat and many never want to leave. Formed by medieval peat diggings that flooded over centuries, the Broads now comprise around 125 miles of navigable waterways: rivers, lakes (called broads), and drainage channels spread across Norfolk and into neighbouring Suffolk.

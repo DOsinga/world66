@@ -14,6 +14,10 @@ image: kenosha.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kenosha_July_2022_009_(HarborPark).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Michael Barera
+heritage: 3.1
+vibrancy: 3.3
+nature: 4.9
+off_the_beaten_track: 1.7
 ---
 
 Kenosha sits on Lake Michigan between Milwaukee and Chicago, close enough to both that it is often treated as a commuter edge rather than a destination. That sells it short. The old harbour has been turned into a compact museum district, downtown still has red-brick storefronts and vintage streetcars, and the lakefront gives the city a better front door than many larger places on the Great Lakes.

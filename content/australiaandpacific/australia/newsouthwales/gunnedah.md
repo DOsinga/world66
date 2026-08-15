@@ -5,9 +5,14 @@ loc_type: city
 latitude: -30.977
 longitude: 150.251
 score: 6.55
-snippet: New England service town with Kamilaroi heritage, country lookouts, and a Dorothea Mackellar connection.
+snippet: New England service town with Kamilaroi heritage, country lookouts, and a
+  Dorothea Mackellar connection.
 sources:
 - https://en.wikivoyage.org/wiki/Gunnedah
+heritage: 1.7
+vibrancy: 2.0
+nature: 2.1
+off_the_beaten_track: 2.0
 ---
 
 Gunnedah sits in the Namoi Valley of northern New South Wales, where wheat, cotton, coal, and grazing country meet. It is a practical country town rather than a polished weekend escape, but it has enough texture for a good day if you are already travelling between Tamworth, Narrabri, and Coonabarabran.

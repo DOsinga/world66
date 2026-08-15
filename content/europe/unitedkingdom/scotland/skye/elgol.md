@@ -14,6 +14,10 @@ snippet: Tiny Skye village reached by a single-track road, used for boat trips t
   remote Loch Coruisk.
 title: Elgol
 type: location
+heritage: 4.7
+vibrancy: 1.9
+nature: 7.7
+off_the_beaten_track: 5.3
 ---
 
 Elgol is a tiny village on the southern coast of Skye, reached by a winding single-track road from [Broadford](/europe/unitedkingdom/scotland/skye/broadford) that passes beneath the dramatic peak of Blaven — the Black Cuillin summit detached from the main ridge. The drive alone is worth the trip.

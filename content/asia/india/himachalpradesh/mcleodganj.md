@@ -11,6 +11,10 @@ image: mcleodganj.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Dhalaudar_peak_from_McLeod_ganj_cafe.jpg
 image_license: CC BY-SA 3.0
 image_attribution: John Hill
+heritage: 6.8
+vibrancy: 4.1
+nature: 7.5
+off_the_beaten_track: 4.7
 ---
 
 McLeod Ganj is a hill town above Dharamsala in Himachal Pradesh, and since 1960 the home of the Tibetan government-in-exile and the Dalai Lama. The result is something quite unusual: a small Indian mountain town with a large Tibetan refugee community, Buddhist temples, Tibetan restaurants, and a steady stream of pilgrims, volunteers, and travellers drawn by the spiritual atmosphere and the mountains above.

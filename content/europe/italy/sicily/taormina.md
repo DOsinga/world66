@@ -24,6 +24,10 @@ tip: Taormina clings to a cliff with Mt Etna smoking on the horizon — the anci
   leave from here.
 title: Taormina
 type: location
+heritage: 6.8
+vibrancy: 7.2
+nature: 5.9
+off_the_beaten_track: 2.2
 ---
 
 Taormina is so beautifully located that it would not need great sights to attract visitors. The fact that it does have them makes it an absolute must. Perched on a rocky promontory at the foot of Mount Etna and looking out over the azure Mediterranean, the town has drawn visitors for centuries.

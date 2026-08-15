@@ -14,6 +14,10 @@ snippet: Colombian Caribbean island with volcanic peaks, quiet beaches, and one 
   the Americas' broadest barrier reefs.
 title: Providencia
 type: location
+heritage: 2.9
+vibrancy: 5.0
+nature: 7.5
+off_the_beaten_track: 2.7
 ---
 
 Providencia is the smaller, quieter, and more beautiful of the two main islands in Colombia's [San Andrés and Providencia](/southamerica/colombia/sanandresandprovidencia) archipelago, lying about 75 kilometres north of [San Andrés](/southamerica/colombia/sanandresandprovidencia/sanandres) in the western Caribbean. Where San Andrés has duty-free shopping and package tourism, Providencia has volcanic peaks, empty beaches, and a pace of life that runs on island time.

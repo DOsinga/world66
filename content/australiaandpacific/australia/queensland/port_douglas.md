@@ -15,6 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Port_Douglas
 title: Port Douglas
 type: location
+heritage: 2.6
+vibrancy: 5.1
+nature: 7.3
+off_the_beaten_track: 2.5
 ---
 
 Port Douglas is a small resort town on the Coral Sea coast, about 70 km north of Cairns along the Captain Cook Highway. The drive up is one of the best in Australia — the road hugs the coast with rainforest on one side and the sea on the other, passing through country that looks largely as it must have before Europeans arrived.

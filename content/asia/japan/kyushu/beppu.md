@@ -14,6 +14,10 @@ image: beppu.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Beppu_City.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Japanexperterna
+heritage: 6.5
+vibrancy: 5.5
+nature: 4.8
+off_the_beaten_track: 1.9
 ---
 
 Beppu is Japan's most famous hot spring resort, a city of 120,000 people on the eastern coast of Kyushu that sits above one of the most geothermally active patches of earth on the planet. More hot spring water flows through Beppu than anywhere else in Japan — second only to Yellowstone in the world — and the city wears this identity completely. Steam rises from vents along the streets, the smell of sulphur is inescapable in the old spa districts, and the entire economy revolves around relaxation, bathing, and the pleasures of geothermal heat.

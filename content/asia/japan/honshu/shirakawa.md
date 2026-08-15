@@ -12,6 +12,10 @@ sources:
 - https://www.wikidata.org/wiki/Q750587
 - https://en.wikipedia.org/wiki/Shirakawa,_Fukushima
 - https://fukushima.travel/destination/komine-castle/54
+heritage: 4.5
+vibrancy: 3.4
+nature: 7.2
+off_the_beaten_track: 2.7
 ---
 
 Shirakawa sits at the southern edge of Fukushima Prefecture, where the old road from Kanto entered Tohoku. It is a quiet city now, but for centuries this was a border town: a castle, a highway checkpoint, and a poetic threshold between the capital region and the north.

@@ -14,6 +14,10 @@ longitude: -75.083511
 score: 7.6
 title: Rehoboth Beach
 type: location
+heritage: 2.5
+vibrancy: 4.6
+nature: 5.5
+off_the_beaten_track: 1.2
 ---
 
 Rehoboth Beach is a small, walkable beach town on Delaware's Atlantic coast that bills itself as "The Nation's Summer Capital" — a reference to the waves of Washington DC families, politicians, and lobbyists who have been coming here since the late 19th century. The mile-long [boardwalk](/northamerica/unitedstates/delaware/rehobothbeach/boardwalk) is the heart of it: [Thrasher's fries](/northamerica/unitedstates/delaware/rehobothbeach/thrashers_fries), Grotto Pizza, Dolle's saltwater taffy, and a bandstand with free concerts on summer evenings. [Funland](/northamerica/unitedstates/delaware/rehobothbeach/funland), a family-owned amusement park on the boards since 1962, remains one of the better value entertainment options on the East Coast.

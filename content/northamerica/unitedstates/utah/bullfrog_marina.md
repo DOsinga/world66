@@ -14,6 +14,10 @@ snippet: Southern Utah marina on Lake Powell, serving red-rock canyon boating an
   the Halls Crossing Ferry
 title: Bullfrog Marina
 type: location
+heritage: 2.1
+vibrancy: 2.6
+nature: 6.6
+off_the_beaten_track: 2.4
 ---
 
 Bullfrog Marina is one of the main access points to [Lake Powell](/northamerica/unitedstates/utah/glencanyon) in southern Utah, part of the Glen Canyon National Recreation Area — nearly 2 million acres of red rock canyon and reservoir country on the Utah–Arizona border. It's the busiest of the Utah marinas, particularly popular with powerboaters in summer.

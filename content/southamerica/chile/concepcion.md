@@ -14,6 +14,10 @@ snippet: Biobío port city and university hub, known for public murals and a rai
   industrial character
 title: Concepción
 type: location
+heritage: 4.0
+vibrancy: 5.0
+nature: 5.2
+off_the_beaten_track: 3.4
 ---
 
 Concepción is Chile's second-largest city and the capital of the Biobío Region. It sits at the mouth of the Biobío River, where it meets the Pacific Ocean, and has a character quite different from Santiago — more industrial, more rain, more university town. The Universidad de Concepción, founded in 1919, gives the city energy and keeps it culturally lively.

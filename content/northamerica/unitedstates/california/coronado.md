@@ -10,6 +10,10 @@ snippet: Resort-like city across San Diego Bay, centred on Orange Avenue and the
   Hotel del Coronado.
 title: Coronado
 type: location
+heritage: 3.3
+vibrancy: 4.4
+nature: 3.9
+off_the_beaten_track: 1.1
 ---
 
 Coronado is a small, affluent city on a peninsula across the bay from downtown [San Diego](/northamerica/unitedstates/california/sandiego), connected by the sweeping [Coronado Bridge](/northamerica/unitedstates/california/coronado/coronado_bridge) or, more enjoyably, by the [ferry](/northamerica/unitedstates/california/coronado/coronado_ferry_landing) from the Embarcadero. The town has a distinct resort-village feel, with tree-lined streets, well-kept bungalows, and a walkable main drag along Orange Avenue lined with boutiques, restaurants, and ice cream shops.

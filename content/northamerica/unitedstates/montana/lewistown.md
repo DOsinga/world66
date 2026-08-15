@@ -16,6 +16,10 @@ image: lewistown.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Main_street_in_Lewistown,_Montana_-_panoramio.jpg
 image_license: CC BY 3.0
 image_attribution: R. Sieben
+heritage: 3.2
+vibrancy: 2.1
+nature: 5.1
+off_the_beaten_track: 5.6
 ---
 
 Lewistown sits close to the geographic centre of Montana, in a wide basin wrapped by the Judith, Snowy, Moccasin, Belt, and Highwood ranges. It is a small town, but the setting gives it more weight than its population suggests.

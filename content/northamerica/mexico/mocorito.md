@@ -15,6 +15,10 @@ image: mocorito.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Los_Girasoles_de_Mocorito.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Elii San
+heritage: 2.2
+vibrancy: 2.0
+nature: 5.2
+off_the_beaten_track: 3.2
 ---
 
 Mocorito is a small inland town in Sinaloa, north of [Culiacan](/northamerica/mexico/culiacan), with more identity than its size suggests. It is one of Mexico's Pueblos Magicos, and the appeal is not a single blockbuster sight but the mix of colonial streets, local food, civic pride, and old Sinaloan traditions.

@@ -13,6 +13,10 @@ snippet: Bay Area suburb between SFO and San Bruno Mountain, marked by Tanforan'
   layered history.
 title: San Bruno
 type: location
+heritage: 1.3
+vibrancy: 2.8
+nature: 3.9
+off_the_beaten_track: 1.6
 ---
 
 San Bruno is a working-class suburb on the western edge of San Francisco Bay, jammed between [San Francisco International Airport](/northamerica/unitedstates/california/san_bruno/sfo_airport) and the wooded ridges of San Bruno Mountain. Few visitors come here on purpose — most pass through changing planes or stopping at the BART station — but the city is more interesting than its strip-mall first impression suggests.

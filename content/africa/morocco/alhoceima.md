@@ -14,6 +14,10 @@ snippet: Mediterranean beach town on Morocco's Rif coast, with Spanish-era roots
   cliff-backed Plage Quemado.
 title: Al Hoceima
 type: location
+heritage: 5.1
+vibrancy: 4.8
+nature: 5.4
+off_the_beaten_track: 4.3
 ---
 
 Al Hoceima is a small Mediterranean beach town on the Rif coast of northern [Morocco](/africa/morocco), a pleasant place to rest between the mountain roads of the Rif. The town was built by the Spanish in 1926, after they suppressed the Rif rebellion led by Abd el-Krim, and Spanish influences are still visible in the architecture and the town's relaxed character.

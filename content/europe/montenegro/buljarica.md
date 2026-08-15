@@ -13,6 +13,10 @@ snippet: Quiet Montenegrin coastal village with a long pebble beach backed by ma
   olive groves, and mountains.
 title: Buljarica
 type: location
+heritage: 2.4
+vibrancy: 3.3
+nature: 7.4
+off_the_beaten_track: 3.2
 ---
 
 Buljarica is a small, low-key resort village on the coast south of [Budva](/europe/montenegro/budva), about 2km from [Petrovac](/europe/montenegro/buljarica/petrovac_old_town). The main draw is the [beach](/europe/montenegro/buljarica/buljarica_beach) — a long, wide stretch of sand and fine pebble that's significantly less crowded than the Budva beaches in summer. The village is quiet, without the nightlife or resort infrastructure of Budva.

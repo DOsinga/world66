@@ -13,6 +13,10 @@ snippet: Industrial South Ural city east of the Europe-Asia divide, known for Ta
 sources:
 - https://en.wikipedia.org/wiki/Chelyabinsk
 - https://en.wikipedia.org/wiki/Chelyabinsk_meteor
+heritage: 4.0
+vibrancy: 3.1
+nature: 1.7
+off_the_beaten_track: 2.3
 ---
 
 Chelyabinsk is the administrative capital of Chelyabinsk Oblast and one of Russia's ten largest cities, sitting just east of the Ural Mountains on the border between Europe and Asia. Founded as a Cossack fortress in 1736, it grew into a major industrial powerhouse during the Soviet era — famously part of the wartime "Tankograd" (Tank City) complex — a reputation that has left it with an image of grey factory smokestacks, though the reality is considerably more nuanced.

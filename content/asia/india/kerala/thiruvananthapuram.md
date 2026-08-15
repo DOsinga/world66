@@ -17,6 +17,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Thiruvananthapuram
 title: Thiruvananthapuram
 type: location
+heritage: 6.0
+vibrancy: 7.4
+nature: 5.5
+off_the_beaten_track: 1.6
 ---
 
 Thiruvananthapuram — still widely known by its colonial name Trivandrum — is the capital of Kerala, perched on a series of hills near the southern tip of India. It is not a city that announces itself loudly, but it rewards close attention. The old city clusters around the [Padmanabhaswamy Temple](/asia/india/kerala/thiruvananthapuram/padmanabhaswamy_temple), one of the wealthiest and most important Vaishnava temples in the world, its seven-storey gopuram visible from most of the city centre. Around it spreads a tangle of narrow lanes, pilgrims, flower sellers, and the particular intensity of a sacred place embedded in an active metropolis.

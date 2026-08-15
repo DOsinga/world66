@@ -15,6 +15,10 @@ image: caltanissetta.jpg
 image_source: https://commons.wikimedia.org/wiki/File:01_tetti_di_CL_-_03.jpg
 image_license: CC BY-SA 4.0
 image_attribution: OppidumNissenae
+heritage: 4.9
+vibrancy: 2.6
+nature: 3.6
+off_the_beaten_track: 3.7
 ---
 
 Caltanissetta sits in the middle of Sicily, away from the island's easier coastal pleasures. It is a working inland city with steep streets, a handsome old centre, and a history tied to sulphur mining, noble families, and archaeological sites in the dry hills around town.

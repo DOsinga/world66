@@ -14,6 +14,10 @@ snippet: Bavarian Alps resort town known for painted houses, Karwendel views, an
   centuries of violin making.
 title: Mittenwald
 type: location
+heritage: 3.5
+vibrancy: 3.0
+nature: 7.9
+off_the_beaten_track: 2.7
 ---
 
 Mittenwald is one of the best-known resort towns in the Bavarian Alps, set between the Karwendel and Wetterstein ranges, just 16 km from Garmisch-Partenkirchen and 30 km from Innsbruck across the Austrian border.

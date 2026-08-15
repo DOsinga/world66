@@ -17,6 +17,10 @@ image: omarama.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Clay_Cliffs_in_early_morning_light.jpg
 image_license: Public domain
 image_attribution: Pseudopanax at English Wikipedia
+heritage: 2.3
+vibrancy: 1.7
+nature: 7.0
+off_the_beaten_track: 3.1
 ---
 
 Omarama is a small high-country town at a road junction between the Mackenzie Basin, Waitaki Valley, and the road south toward Lindis Pass. Most people first see it as a fuel and coffee stop, but the landscape around it has enough character to justify slowing down.

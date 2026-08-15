@@ -14,6 +14,10 @@ snippet: Ghanaian coastal town with a fishing harbour, university campus, and th
   dramatic Aboakyere deer-hunting festival.
 title: Winneba
 type: location
+heritage: 5.8
+vibrancy: 3.7
+nature: 4.0
+off_the_beaten_track: 2.6
 ---
 
 Winneba is a friendly coastal town about an hour west of [Accra](/africa/ghana/accra), with a [long sandy beach](/africa/ghana/winneba/winneba_beach) and a relaxed pace that makes it a good escape from the capital. The town has a [university campus](/africa/ghana/winneba/university_of_education) and a lively [fishing harbour](/africa/ghana/winneba/fishing_harbour).

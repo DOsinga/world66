@@ -14,6 +14,10 @@ snippet: Ouachita Mountains town beside Beavers Bend, known for forest cabins an
   cold trout streams.
 title: Broken Bow
 type: location
+heritage: 1.4
+vibrancy: 2.1
+nature: 3.9
+off_the_beaten_track: 1.6
 ---
 
 Broken Bow sits in the Ouachita Mountains of far southeastern Oklahoma, surrounded by 450,000 acres of Ouachita National Forest and Beavers Bend State Park. It draws visitors from Dallas, Oklahoma City, Little Rock, and [Tulsa](/northamerica/unitedstates/oklahoma/tulsa) — all within about three hours — who come for the forests, the trout streams, and the quiet.

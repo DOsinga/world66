@@ -5,9 +5,14 @@ loc_type: city
 latitude: 42.195833
 longitude: -70.726389
 score: 7.0
-snippet: South Shore harbour town with beaches, sea-captain history, and an old granite lighthouse.
+snippet: South Shore harbour town with beaches, sea-captain history, and an old granite
+  lighthouse.
 sources:
-  - https://en.wikivoyage.org/wiki/Scituate_(Massachusetts)
+- https://en.wikivoyage.org/wiki/Scituate_(Massachusetts)
+heritage: 3.0
+vibrancy: 2.1
+nature: 3.4
+off_the_beaten_track: 1.7
 ---
 
 Scituate is a South Shore town where the best parts sit close to the water: the harbour, the old lighthouse, small beaches, and a scatter of maritime history. It feels local rather than showy, which is a useful change of pace from Boston or the busier Cape routes.

@@ -16,6 +16,10 @@ snippet: Northern Virginia county across from Washington, D.C., home to Arlingto
   National Cemetery and Potomac-side neighborhoods.
 title: Arlington
 type: location
+heritage: 4.1
+vibrancy: 5.3
+nature: 3.6
+off_the_beaten_track: 0.9
 ---
 
 Arlington is a county in northern Virginia, directly across the Potomac River from Washington, D.C. Though often considered part of the capital's orbit, Arlington has its own distinct character — a mix of monumental landmarks, walkable urban neighborhoods, and one of the best Metro connections in the region.

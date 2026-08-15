@@ -6,11 +6,16 @@ latitude: 47.692
 longitude: -70.225
 wikidata: Q142113
 score: 7.6
-snippet: Charlevoix resort town on the St. Lawrence, shaped by river views, gardens, and crater country.
+snippet: Charlevoix resort town on the St. Lawrence, shaped by river views, gardens,
+  and crater country.
 sources:
-  - https://en.wikivoyage.org/wiki/La_Malbaie
-  - https://www.tourisme-charlevoix.com/en/cities-villages/la-malbaie
-  - https://en.wikipedia.org/wiki/La_Malbaie
+- https://en.wikivoyage.org/wiki/La_Malbaie
+- https://www.tourisme-charlevoix.com/en/cities-villages/la-malbaie
+- https://en.wikipedia.org/wiki/La_Malbaie
+heritage: 3.1
+vibrancy: 2.5
+nature: 7.3
+off_the_beaten_track: 3.7
 ---
 
 La Malbaie is an old Charlevoix resort town spread along the St. Lawrence and the lower Malbaie River. It has been receiving summer visitors for centuries, but its best side is still the landscape: river light, steep hills, Cap-à-l'Aigle gardens, and the strange geology of the Charlevoix impact crater.

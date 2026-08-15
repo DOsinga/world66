@@ -15,6 +15,10 @@ tags:
 - pyrenees
 title: Tarascon-sur-Ariège
 type: location
+heritage: 5.2
+vibrancy: 4.5
+nature: 5.8
+off_the_beaten_track: 3.6
 ---
 
 Tarascon-sur-Ariège is a small town in the Ariège valley between Foix and the Spanish border. It is pleasant enough in itself — stone houses along the river, a [ruined castle](/europe/france/languedoc/tarasconsurari/chateau_de_tarascon) on the hill above — but the real draw is the prehistoric cave art in the surrounding valleys.

@@ -14,6 +14,10 @@ snippet: Argentine university city and mountain province, with Jesuit blocks and
   Sierras de Córdoba nearby.
 title: Cordoba
 type: location
+heritage: 6.8
+vibrancy: 6.2
+nature: 3.6
+off_the_beaten_track: 2.0
 ---
 
 Ask any Argentinian about their favourite part of the country and many will answer: the province of Córdoba. About 800 km northwest of Buenos Aires, this region is where porteños come to escape the capital and breathe mountain air. The Sierras de Córdoba — rolling, scrubby ranges that rarely top 2,800 metres — are laced with rivers, lakes, and small valleys, and the villages tucked into them have become beloved holiday destinations: Villa Carlos Paz on the lake, Mina Clavero with its river pools, the German-flavoured Villa General Belgrano, and the hippie haven of San Marcos Sierra.

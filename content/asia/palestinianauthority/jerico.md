@@ -14,6 +14,10 @@ snippet: Ancient Jordan Valley city with Neolithic ruins, desert monasteries, an
   springs far below sea level
 title: Jericho
 type: location
+heritage: 8.2
+vibrancy: 2.6
+nature: 3.9
+off_the_beaten_track: 5.2
 ---
 
 Jericho lays claim to being the oldest continuously inhabited city on earth — people have lived here for at least ten thousand years. It sits in the Jordan Valley roughly 400 metres below sea level, making it also one of the lowest cities in the world. The combination of heat, springs, and fertile soil has drawn settlers since the Neolithic, and the layers of history are visible everywhere.

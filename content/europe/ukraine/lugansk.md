@@ -16,6 +16,10 @@ snippet: Eastern Ukrainian industrial city in the Donets Basin, founded as a can
   settlement in 1795.
 title: Lugansk
 type: location
+heritage: 6.8
+vibrancy: 3.2
+nature: 2.9
+off_the_beaten_track: 6.8
 ---
 
 Lugansk (also known as Luhansk) is an industrial city in eastern Ukraine, sitting in the Donets Basin coalfield region near the Russian border. Founded in 1795 as a cannon-foundry settlement on the river Lugan, it grew into one of Ukraine's major industrial and cultural centres over the following centuries. The city's working-class character — shaped by generations of ironworkers, miners, and factory hands from a dozen nationalities — gives it a distinct identity unlike the more touristic parts of Ukraine.

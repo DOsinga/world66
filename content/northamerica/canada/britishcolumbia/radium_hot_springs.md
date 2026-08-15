@@ -17,6 +17,10 @@ image: radium_hot_springs.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Columbia_River,_Radium_Hot_Springs,_Canada_-_panoramio.jpg
 image_license: CC BY 3.0
 image_attribution: Jürgen Regel, Marian…
+heritage: 2.7
+vibrancy: 1.6
+nature: 6.8
+off_the_beaten_track: 3.2
 ---
 
 Radium Hot Springs is a tiny Columbia Valley village with one very good reason to stop: hot mineral water tucked into Sinclair Canyon at the edge of [Kootenay National Park](/northamerica/canada/britishcolumbia/radium_hot_springs/kootenay_national_park). It is less polished than Banff and less busy than the big Alberta resort towns, which is part of the appeal.

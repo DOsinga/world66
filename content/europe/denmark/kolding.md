@@ -14,6 +14,10 @@ snippet: Southeast Jutland city on Kolding Fjord, anchored by a medieval castle 
   a bold modern restoration.
 title: Kolding
 type: location
+heritage: 3.3
+vibrancy: 2.4
+nature: 3.3
+off_the_beaten_track: 1.5
 ---
 
 Kolding sits at the head of Kolding Fjord in southeast Jutland, a mid-sized Danish city that most people drive past on the E45 motorway. That is a mistake. The city has one of Denmark's most striking buildings and a pleasant, walkable centre that rewards a half-day stop.

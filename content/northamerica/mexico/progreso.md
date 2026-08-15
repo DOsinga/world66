@@ -5,13 +5,18 @@ loc_type: city
 latitude: 21.28
 longitude: -89.67
 score: 6.7
-snippet: Gulf port city north of Mérida, with a long pier, beach, and Chicxulub crater story.
+snippet: Gulf port city north of Mérida, with a long pier, beach, and Chicxulub crater
+  story.
 wikidata: Q657637
 sources:
-  - https://en.wikivoyage.org/wiki/Progreso
-  - https://en.wikipedia.org/wiki/Progreso,_Yucat%C3%A1n
-  - https://www.wikidata.org/wiki/Q657637
-  - https://culturyucatan.com/en/experiences/museo-del-meteorito/
+- https://en.wikivoyage.org/wiki/Progreso
+- https://en.wikipedia.org/wiki/Progreso,_Yucat%C3%A1n
+- https://www.wikidata.org/wiki/Q657637
+- https://culturyucatan.com/en/experiences/museo-del-meteorito/
+heritage: 3.8
+vibrancy: 3.0
+nature: 2.8
+off_the_beaten_track: 1.8
 ---
 
 Progreso is the Gulf beach town for [Mérida](/northamerica/mexico/merida), close enough for a day trip but different enough to feel like a change of climate. The water is shallow, the sea breeze is real, and the long malecón fills with families, seafood vendors, and cruise passengers when a ship is in port.

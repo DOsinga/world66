@@ -16,6 +16,10 @@ image: pontiac.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Pontiac_City_Hall_and_Fire_Station1.JPG
 image_license: CC BY-SA 3.0
 image_attribution: IvoShandor
+heritage: 3.1
+vibrancy: 2.4
+nature: 2.5
+off_the_beaten_track: 1.6
 ---
 
 Pontiac is a small Central Illinois city that has made itself useful to travelers by leaning hard into Route 66. That could have become kitsch, but here it mostly works: downtown is walkable, the museums are close together, and the murals give the streets a clear story.

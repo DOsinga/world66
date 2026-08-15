@@ -14,6 +14,10 @@ snippet: Moroccan imperial city defined by Moulay Ismail's ramparts, monumental 
   granaries, and stables.
 title: Meknes
 type: location
+heritage: 6.9
+vibrancy: 3.0
+nature: 2.9
+off_the_beaten_track: 2.9
 ---
 
 Meknes is one of Morocco's four Imperial Cities, and the one most associated with Sultan Moulay Ismail (r. 1672–1727), who determined to build a capital to rival Versailles. Using tens of thousands of captives and enslaved workers, he raised massive ramparts, [granaries](/africa/morocco/meknes/heri_es_swani), stables for 12,000 horses, a vast palace complex, and the monumental gates — above all [Bab Mansour](/africa/morocco/meknes/bab_mansour_el_ale) — that still define the city's skyline. His [mausoleum](/africa/morocco/meknes/mausoleum_moulay_ismail) is one of the only religious buildings in Morocco open to non-Muslims.

@@ -17,6 +17,10 @@ image: pueblo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Courtyard_Pueblo_Downtown,_Pueblo,_CO_2024-03-15.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Xnatedawgx
+heritage: 4.2
+vibrancy: 4.3
+nature: 5.5
+off_the_beaten_track: 2.8
 ---
 
 Pueblo is southern Colorado's old steel city, set where Fountain Creek meets the Arkansas River. It does not have Denver's gloss or Colorado Springs' mountain drama, but it has a stronger local flavour than either: working-class history, Mexican and immigrant food traditions, public art, and a stubborn pride in the Pueblo chile.

@@ -16,6 +16,10 @@ snippet: Central Valley crossroads between Yosemite, the Delta, and almond-and-p
   farmland around the Stanislaus River.
 title: Manteca
 type: location
+heritage: 2.3
+vibrancy: 1.9
+nature: 2.0
+off_the_beaten_track: 1.7
 ---
 
 Manteca is a Central Valley city of around 90,000 people, tucked between Stockton and Modesto off Highway 99. It is not a destination in itself, but it sits at a remarkable crossroads: Yosemite is 90 minutes east via Highway 120, San Francisco is an hour west on Interstate 205, and the Stanislaus River parks and the California Delta are practically in the backyard.

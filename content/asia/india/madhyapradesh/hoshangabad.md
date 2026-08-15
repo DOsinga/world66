@@ -13,6 +13,10 @@ score: 5.86
 snippet: Narmada River town and gateway to Satpura National Park's quieter tiger country
 title: Hoshangabad
 type: location
+heritage: 3.3
+vibrancy: 2.1
+nature: 5.1
+off_the_beaten_track: 4.9
 ---
 
 Hoshangabad (officially renamed Narmadapuram in 2021) sits on the southern bank of the Narmada River in central [Madhya Pradesh](/asia/india/madhyapradesh). The town is a gateway to the Satpura National Park, one of India's most undervisited tiger reserves, where boat safaris on the Denwa River offer a different perspective from the usual jeep drive.

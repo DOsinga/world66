@@ -14,6 +14,10 @@ snippet: Veneto university city where Giotto's Scrovegni Chapel anchors a learne
   arcaded old town.
 title: Padua
 type: location
+heritage: 7.8
+vibrancy: 6.1
+nature: 2.3
+off_the_beaten_track: 1.4
 ---
 
 Padua gets overlooked. Visitors to the Veneto rush to [Venice](/europe/italy/veneto/venice) and sometimes stop in [Verona](/europe/italy/veneto/verona), but Padua — Padova to the Italians — is where Giotto painted the [Scrovegni Chapel](/europe/italy/veneto/padua/scrovegnichapel), one of the most important works of art in Europe. That alone is worth the detour.

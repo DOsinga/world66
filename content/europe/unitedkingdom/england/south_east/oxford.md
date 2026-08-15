@@ -15,6 +15,10 @@ snippet: English university city of medieval colleges, cloisters, chapels, and g
 title: Oxford
 type: location
 image_attribution: nick macneill
+heritage: 7.9
+vibrancy: 7.5
+nature: 7.2
+off_the_beaten_track: 1.6
 ---
 
 Oxford is one of England's most visited cities, and the reason is immediately apparent: the medieval university buildings that fill the old centre are among the most beautiful in the world. The thirty-odd colleges of the University of Oxford — founded in the 12th century and growing ever since — occupy a dense cluster of Gothic quadrangles, cloisters, chapels, and gardens in the middle of the city. When accessible to visitors, which varies by college and term time, they reward unhurried exploration.

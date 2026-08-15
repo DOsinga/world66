@@ -13,6 +13,10 @@ snippet: High Sierra alpine lake straddling California and Nevada, famous for co
   water and mountain resorts.
 title: Lake Tahoe
 type: location
+heritage: 4.3
+vibrancy: 5.7
+nature: 7.4
+off_the_beaten_track: 3.2
 ---
 
 Lake Tahoe is a great cobalt-blue lake set 6,200 feet up in the Sierra Nevada, straddling the California–Nevada line. It is North America's largest alpine lake — twenty-two miles long, twelve wide, and famous for the clarity of its water, which is so transparent at the deeper edges that the bottom is visible at depths of more than twenty metres. The lake fills a fault basin between two ridges of the Sierra: granite peaks to the west, the dry desert mountains of Nevada to the east, snowy through most of the year and reflected in the water on a still morning.

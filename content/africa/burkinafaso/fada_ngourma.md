@@ -15,6 +15,10 @@ image: fada_ngourma.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Burkina_Faso_Gourma.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Martin Wegmann Baliola
+heritage: 5.6
+vibrancy: 3.5
+nature: 5.7
+off_the_beaten_track: 6.4
 ---
 
 Fada N'gourma is the main city of eastern Burkina Faso and the traditional seat of the king of Gulmu. It is a long way from Ouagadougou and is not an easy casual stop, especially while eastern Burkina Faso remains affected by serious security problems. But the city has a real identity: Gulmance culture, a large market, sacred stories, and the savanna country that leads toward the W-Arly-Pendjari protected-area complex.

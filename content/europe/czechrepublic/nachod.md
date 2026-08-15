@@ -14,6 +14,10 @@ title: Náchod
 snippet: Northeastern Bohemian border town with a Renaissance château and nearby 1930s
   fortifications.
 type: location
+heritage: 5.2
+vibrancy: 2.9
+nature: 3.8
+off_the_beaten_track: 2.4
 ---
 
 Náchod is a pleasant town in northeastern Bohemia right on the Polish border. The surroundings are beautiful — rolling hills, forests, and a frontier feel. It's not a major destination but makes a good base for exploring the region, particularly for those interested in Czech inter-war military history.

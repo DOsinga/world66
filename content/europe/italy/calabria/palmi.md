@@ -17,6 +17,10 @@ snippet: Calabrian terrace town above the Tyrrhenian, looking toward the Aeolian
 title: Palmi
 type: location
 score: 7.54
+heritage: 3.4
+vibrancy: 3.5
+nature: 5.5
+off_the_beaten_track: 3.5
 ---
 
 Palmi sits on a natural terrace above Calabria's Tyrrhenian coast, south of [Gioia Tauro](/europe/italy/calabria/gioia_tauro) and north of [Scilla](/europe/italy/calabria/scilla). It is one of the best viewpoints on the Costa Viola: on clear days the sea opens toward the Aeolian Islands, the Strait of Messina, and Sicily.

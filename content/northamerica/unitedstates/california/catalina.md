@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Santa_Catalina_Island_(California)
 title: Catalina
 type: location
+heritage: 2.8
+vibrancy: 3.5
+nature: 5.6
+off_the_beaten_track: 1.4
 ---
 
 Catalina Island sits 26 miles off the coast of Los Angeles, and it feels like a different country. The crossing from San Pedro or Long Beach takes about an hour by ferry, but the moment you step onto the pier in [Avalon](/northamerica/unitedstates/california/catalina/avalon), the freeways and smog are a world away. The water in the harbour is an almost absurd shade of blue.

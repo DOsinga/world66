@@ -14,6 +14,10 @@ snippet: West Swedish harbour town on Byfjorden, used as a base for the rocky Bo
   coast.
 title: Uddevalla
 type: location
+heritage: 3.2
+vibrancy: 3.2
+nature: 5.4
+off_the_beaten_track: 1.9
 ---
 
 Uddevalla is a town of about 50,000 on the western coast of [Sweden](/europe/sweden), at the head of the Byfjorden inlet. It was historically a shipyard and fishing town, and the harbour still defines the place even though the big yards closed decades ago.

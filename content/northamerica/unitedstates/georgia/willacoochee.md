@@ -14,6 +14,10 @@ snippet: Tiny south Georgia river town where blackwater streams wind through pin
   flatwoods and cypress swamps.
 title: Willacoochee
 type: location
+heritage: 1.8
+vibrancy: 1.5
+nature: 3.3
+off_the_beaten_track: 3.5
 ---
 
 Willacoochee is a tiny town in Atkinson County in south Georgia, where the Alapaha and Willacoochee rivers meet in a landscape of pine flatwoods and cypress swamps. With a population of around 1,200, it is the kind of rural Southern town that most travelers drive through on US 82 between Valdosta and Waycross without stopping.

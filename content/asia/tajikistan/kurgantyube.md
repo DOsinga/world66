@@ -14,6 +14,10 @@ snippet: Southern Tajik city now called Bokhtar, serving Khatlon's Vakhsh plain,
   and Tigrovaya Balka trips.
 title: Kurgan-Tyube
 type: location
+heritage: 7.0
+vibrancy: 1.4
+nature: 5.3
+off_the_beaten_track: 7.0
 ---
 
 Kurgan-Tyube (now officially renamed Bokhtar) is the administrative center of Khatlon province in southern Tajikistan, about 100 km south of Dushanbe. It is a mid-sized city of roughly 100,000 people in a hot, flat agricultural plain near the confluence of the Vakhsh and Panj rivers.

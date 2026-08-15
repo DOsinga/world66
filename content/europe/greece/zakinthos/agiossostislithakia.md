@@ -11,6 +11,10 @@ sources:
 - https://en.wikipedia.org/wiki/Laganas
 title: Agios Sostis / Lithakia
 type: location
+heritage: 2.3
+vibrancy: 2.9
+nature: 6.5
+off_the_beaten_track: 3.0
 ---
 
 Agios Sostis is a small beachfront village on the south coast of Zakynthos, separated from its inland twin Lithakia by a kilometre of olive groves and a single road. Together they form one of the quieter parts of the Laganas Bay coastline — much smaller and less developed than [Laganas](/europe/greece/zakinthos/agiossostislithakia/laganas) proper a couple of kilometres east, with most of the action concentrated on the short stretch of seafront and the wooden bridge across to the bar-island of [Cameo](/europe/greece/zakinthos/agiossostislithakia/cameo_island).

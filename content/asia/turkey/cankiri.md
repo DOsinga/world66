@@ -17,6 +17,10 @@ image: cankiri.jpg
 image_source: https://commons.wikimedia.org/wiki/File:General_view_of_%C3%87ank%C4%B1r%C4%B1.jpeg
 image_license: Public domain
 image_attribution: XperfectTR
+heritage: 2.6
+vibrancy: 1.5
+nature: 1.8
+off_the_beaten_track: 4.1
 ---
 
 Çankırı sits north of Ankara on the road toward the Black Sea, a modern provincial city with older streets climbing toward a castle hill. It is not polished, and that is part of its use: you get a conservative Central Anatolian town with real daily life, a handful of Seljuk and Ottoman buildings, and one strange underground sight that is worth the detour.

@@ -8,6 +8,10 @@ score: 7.0
 snippet: Usk Valley market town and classic base for Bannau Brycheiniog walks.
 source: Wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Brecon
+heritage: 4.5
+vibrancy: 2.5
+nature: 6.3
+off_the_beaten_track: 3.4
 ---
 
 *Europe > United Kingdom > Wales > Brecon*

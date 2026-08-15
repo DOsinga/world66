@@ -13,6 +13,10 @@ snippet: Malian town in the Office du Niger irrigation zone, noted for rice fiel
   and mud-brick mosque architecture.
 title: Niono
 type: location
+heritage: 1.7
+vibrancy: 1.8
+nature: 4.2
+off_the_beaten_track: 6.7
 ---
 
 Niono is a town in the Ségou Region of Mali, about 55 kilometres northwest of [Segou](/africa/mali/segou), set in the flat irrigated landscape of the [Office du Niger](/africa/mali/niono/office_du_niger) agricultural scheme. The surrounding countryside is laced with irrigation canals, producing rice on land that would otherwise be dry Sahel — a striking and unexpected landscape in this part of Mali.

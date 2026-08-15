@@ -10,6 +10,10 @@ snippet: Närke industrial town once known for shoes, with a burning slag heap t
   sculpture park
 title: Kumla
 type: location
+heritage: 2.8
+vibrancy: 2.0
+nature: 4.2
+off_the_beaten_track: 2.7
 ---
 
 Kumla is a small industrial town in the province of Närke, south of [Örebro](/europe/sweden/rebro) on the E20 between [Stockholm](/europe/sweden/stockholm) and [Gothenburg](/europe/sweden/gothenburg). It sits in a flat agricultural landscape and is primarily known for two things: it was once the centre of Sweden's shoe industry, with dozens of factories operating through the 20th century, and it is home to Kumla Prison, one of Sweden's highest-security facilities.

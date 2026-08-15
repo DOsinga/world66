@@ -5,7 +5,7 @@ type: section
 
 **Kyoto**
 
-Japan's old imperial capital holds the country's greatest concentration of temples, shrines, and traditional streetscapes. Walking the stone lanes of Higashiyama at dawn, before the tour buses arrive, through wooden machiya townhouses and past moss-covered garden walls, is one of the best experiences in Asia. [Kyoto](/asia/japan/honshu/kyoto) repays multiple visits across different seasons.
+Japan's old imperial capital holds the country's greatest concentration of temples, shrines, and traditional streetscapes. Walking the stone lanes of Higashiyama at dawn, before the tour buses arrive, through wooden machiya townhouses and past moss-covered garden walls, is one of the best experiences in Asia. [Kyoto](/asia/japan/kansai/kyoto) repays multiple visits across different seasons.
 
 **The Shinkansen**
 
@@ -17,7 +17,7 @@ Soaking in a hot spring in a mountain town, then eating a twelve-course kaiseki 
 
 **Hiroshima's Peace Memorial**
 
-The A-bomb Dome — the ruin of the Hiroshima Prefectural Industrial Promotion Hall, left standing at the epicenter of the 1945 bombing — is one of the most powerful historic sites in the world. The museum beside it is honest, moving, and essential. [Hiroshima](/asia/japan/honshu/hiroshima) is a thriving modern city today; visiting it feels important rather than morbid.
+The A-bomb Dome — the ruin of the Hiroshima Prefectural Industrial Promotion Hall, left standing at the epicenter of the 1945 bombing — is one of the most powerful historic sites in the world. The museum beside it is honest, moving, and essential. [Hiroshima](/asia/japan/chugoku/hiroshima) is a thriving modern city today; visiting it feels important rather than morbid.
 
 **Nara's deer**
 

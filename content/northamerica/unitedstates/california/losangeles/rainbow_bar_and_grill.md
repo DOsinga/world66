@@ -2,14 +2,15 @@
 title: Rainbow Bar and Grill
 type: poi
 tags:
-  - bars_and_cafes
-  - sunset_strip
-  - bar
-  - historic_house
-latitude: 34.0900
+- bars_and_cafes
+- sunset_strip
+- bar
+- historic_house
+- westhollywood
+latitude: 34.09
 longitude: -118.3891
 sources:
-  - https://en.wikipedia.org/wiki/Rainbow_Bar_and_Grill
+- https://en.wikipedia.org/wiki/Rainbow_Bar_and_Grill
 score: 7.4
 ---
 

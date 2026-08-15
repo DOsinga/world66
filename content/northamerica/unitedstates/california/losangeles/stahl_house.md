@@ -5,9 +5,10 @@ latitude: 34.10043
 longitude: -118.37022
 score: 8.2
 tags:
-  - things_to_do
-  - architecture
-  - historic_house
+- things_to_do
+- architecture
+- historic_house
+- westhollywood
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/West_Hollywood
 ---

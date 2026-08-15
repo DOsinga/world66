@@ -2,12 +2,13 @@
 title: Barney's Beanery
 type: poi
 tags:
-  - bars_and_cafes
-  - bar
+- bars_and_cafes
+- bar
+- westhollywood
 latitude: 34.0909
 longitude: -118.3746
 sources:
-  - https://en.wikipedia.org/wiki/Barney%27s_Beanery
+- https://en.wikipedia.org/wiki/Barney%27s_Beanery
 score: 7.2
 ---
 

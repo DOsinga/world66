@@ -2,15 +2,20 @@
 title: Chateau Marmont
 type: poi
 tags:
-  - things_to_do
-  - sunset_strip
-  - sight
-  - architecture
+- things_to_do
+- sunset_strip
+- sight
+- architecture
+- westhollywood
 latitude: 34.0981
 longitude: -118.3686
-story: "John Belushi died in bungalow 3 on 5 March 1982. Jim Morrison tried to swing from the roof by his fingers. Led Zeppelin rode motorcycles through the lobby. The hotel's policy of complete discretion — no photographs, staff trained to forget what they saw — made it the place where the industry came to misbehave, and it still operates on that understanding today."
+story: John Belushi died in bungalow 3 on 5 March 1982. Jim Morrison tried to swing
+  from the roof by his fingers. Led Zeppelin rode motorcycles through the lobby. The
+  hotel's policy of complete discretion — no photographs, staff trained to forget
+  what they saw — made it the place where the industry came to misbehave, and it still
+  operates on that understanding today.
 sources:
-  - https://en.wikipedia.org/wiki/Chateau_Marmont
+- https://en.wikipedia.org/wiki/Chateau_Marmont
 score: 7.8
 ---
 

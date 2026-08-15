@@ -2,13 +2,14 @@
 title: Schindler House
 type: poi
 tags:
-  - things_to_do
-  - architecture
-  - museum
+- things_to_do
+- architecture
+- museum
+- westhollywood
 latitude: 34.0864
 longitude: -118.3722
 sources:
-  - https://en.wikipedia.org/wiki/Schindler_House
+- https://en.wikipedia.org/wiki/Schindler_House
 score: 8.8
 ---
 

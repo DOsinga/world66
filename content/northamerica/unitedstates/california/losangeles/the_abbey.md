@@ -2,13 +2,14 @@
 title: The Abbey
 type: poi
 tags:
-  - bars_and_cafes
-  - bar
-  - lgbtq
+- bars_and_cafes
+- bar
+- lgbtq
+- westhollywood
 latitude: 34.0837
-longitude: -118.3810
+longitude: -118.381
 sources:
-  - https://en.wikipedia.org/wiki/The_Abbey_(West_Hollywood)
+- https://en.wikipedia.org/wiki/The_Abbey_(West_Hollywood)
 score: 7.8
 ---
 

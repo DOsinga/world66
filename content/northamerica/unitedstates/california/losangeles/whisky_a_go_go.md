@@ -2,14 +2,15 @@
 title: Whisky a Go Go
 type: poi
 tags:
-  - things_to_do
-  - sunset_strip
-  - sight
-  - music_venue
+- things_to_do
+- sunset_strip
+- sight
+- music_venue
+- westhollywood
 latitude: 34.0904
 longitude: -118.3872
 sources:
-  - https://en.wikipedia.org/wiki/Whisky_a_Go_Go
+- https://en.wikipedia.org/wiki/Whisky_a_Go_Go
 score: 8.6
 ---
 

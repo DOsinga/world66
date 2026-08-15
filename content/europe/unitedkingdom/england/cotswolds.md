@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castle_combe_cotswolds.jpg
 latitude: 51.833
 loc_type: feature
 longitude: -1.6833
-score: 0.87
+score: 8.7
 snippet: Rolling hills, honey-stone villages, and market towns from Cirencester to
   Chipping Campden.
 title: Cotswolds

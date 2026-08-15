@@ -26,4 +26,4 @@ Stroud sits where five Cotswold valleys fold into one another, and the town has 
 
 The Saturday farmers' market is the best time to see the town awake. Away from the centre, the Stroud valleys hold a good local museum, unfinished Gothic drama at Woodchester Mansion, Neolithic tombs, and walks that climb quickly from streets to open views.
 
-Use Stroud as a more lived-in base for the western Cotswolds. It is less polished than [Cheltenham](/europe/unitedkingdom/england/gloucestershire/cheltenham) and less famous than the villages, but that is part of the appeal.
+Use Stroud as a more lived-in base for the western Cotswolds. It is less polished than [Cheltenham](/europe/unitedkingdom/england/south_west/cheltenham) and less famous than the villages, but that is part of the appeal.

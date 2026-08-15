@@ -1,12 +1,10 @@
 ---
-latitude: 9.9281
-longitude: -84.0907
 score: 8.2
 snippet: World-class whitewater and coastal paddling year-round
 tags:
 - things_to_do
 title: Kayaking
-type: poi
+type: theme
 ---
 
 Costa Rica's combination of steep volcanic terrain, heavy rainfall, and warm water makes it one of the best kayaking destinations in the Americas. The Pacuare River on the Caribbean slope is the standout -- Class III-IV rapids through a gorge of primary rainforest, regularly rated among the top ten whitewater runs in the world. Most outfitters run it as a day trip from Turrialba or a two-day trip with an overnight jungle camp.

@@ -9,12 +9,12 @@ image_attribution: Anlace
 image_license: CC BY-SA 2.5
 image_source: https://commons.wikimedia.org/wiki/File:Olandeketorp.jpg
 latitude: 56.7816
-loc_type: city
+loc_type: feature
 longitude: 16.6622
 score: 7.81
 snippet: Slender Swedish Baltic island of limestone alvar, windmills, wildflowers,
   and long summer roads.
-title: Oland
+title: Öland
 type: location
 ---
 

@@ -27,4 +27,4 @@ Overland crossings into Myanmar are limited and not all are open to foreign tour
 
 ## By Sea
 
-There are no major international passenger sea routes into Thailand. Short ferry crossings from Malaysia's Langkawi and Penang serve the southern Thai border towns of Satun and Hat Yai. Cruise ships dock at Laem Chabang (near [Pattaya](/asia/thailand/pattaya)) and occasionally at [Phuket](/asia/thailand/phuket).
+There are no major international passenger sea routes into Thailand. Short ferry crossings from Malaysia's Langkawi and Penang serve the southern Thai border towns of Satun and Hat Yai. Cruise ships dock at Laem Chabang (near [Pattaya](/asia/thailand/easternseaboard/pattaya)) and occasionally at [Phuket](/asia/thailand/andamancoast/phuket).

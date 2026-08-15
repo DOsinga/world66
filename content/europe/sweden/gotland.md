@@ -7,7 +7,7 @@ image_attribution: Berit from Redhill/Surrey, UK
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Gotland,_Sweden_(6639711325).jpg
 latitude: 57.41748
-loc_type: city
+loc_type: feature
 longitude: 18.536958
 score: 8.62
 snippet: Baltic limestone island of raukar sea stacks, farmland, and Visby's walled
@@ -16,8 +16,8 @@ title: Gotland
 type: location
 ---
 
-Gotland is Sweden's largest island and one of its most popular summer destinations — a flat limestone plateau in the Baltic Sea with a character quite different from the mainland. The landscape is open farmland, wildflower meadows, and dramatic sea stacks (raukar) along the coast.
+Gotland is Sweden's largest island and one of its most popular summer destinations — a flat limestone plateau in the Baltic Sea with a character quite different from the mainland. The landscape is open farmland, wildflower meadows, and dramatic sea stacks (raukar) along the coast. The walled town of [Visby](/europe/sweden/visby) is the obvious first stop and, for many visitors, the whole reason for the trip — but the rest of the island, best seen by bicycle, rewards a few extra days.
 
-The capital, Visby, is the main draw. Its [medieval city wall](/europe/sweden/gotland/visby_city_wall) — complete with 44 watchtowers — is the best-preserved in Scandinavia and earned UNESCO World Heritage status. Inside the walls you will find cobbled lanes, [rose-covered ruins of medieval churches](/europe/sweden/gotland/medieval_church_ruins), and a concentrated stretch of restaurants and bars that fills up in July and August. Visby was a major Hanseatic trading hub, and the wealth of that period is still visible everywhere. The [Gotland Museum](/europe/sweden/gotland/gotland_museum) holds the world's finest collection of Viking-age picture stones and Norse silver hoards.
+North of Visby, a free ferry from Fårösund crosses to [Fårö island](/europe/sweden/gotland/faro_island), quieter and starker than the mainland of Gotland, with the limestone sea stacks at [Langhammars](/europe/sweden/gotland/langhammars_sea_stacks) among the most photographed formations in the Baltic — this is also the island Ingmar Bergman called home for decades and used as a filming location. Further stacks stand at [Lickershamn](/europe/sweden/gotland/lickershamn_rauk_field_and_jungfrun), on Gotland's own west coast.
 
-Beyond Visby, Gotland rewards exploration: [Fårö island](/europe/sweden/gotland/faro_island) to the north (where Ingmar Bergman lived and filmed), the [limestone sea stacks at Langhammars](/europe/sweden/gotland/langhammars_sea_stacks), and quiet beaches along the eastern coast. The island is best explored by bicycle. Ferries and flights connect Gotland to [Stockholm](/europe/sweden/stockholm) year-round, with frequent summer service.
+Inland, [Lojsta Hed](/europe/sweden/gotland/lojsta_hed) is a nature reserve where Gotland's near-extinct native pony breed, the russ, still roams semi-wild moorland. [Roma Kloster](/europe/sweden/gotland/roma_kloster), the ruins of a 12th-century Cistercian monastery, hosts open-air theatre in summer, and [Stavgard](/europe/sweden/gotland/stavgard) recreates a Viking-age village on the site of an excavated 10th-century hall. Ferries and flights connect Gotland to [Stockholm](/europe/sweden/stockholm) year-round, with frequent summer service.

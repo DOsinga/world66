@@ -9,6 +9,8 @@ snippet: Largest wholesale flower market in the US, open to the public
 tags:
 - things_to_do
 - sight
+- market
+- downtown
 title: L.A. Flower Mart and Flower District
 type: poi
 url: www.laflowerdistrict.com

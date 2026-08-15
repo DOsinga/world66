@@ -4,6 +4,7 @@ type: poi
 tags:
   - things_to_do
   - sight
+  - dongcheng
 latitude: 39.9254
 longitude: 116.3890
 story: >

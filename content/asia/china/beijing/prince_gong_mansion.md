@@ -4,8 +4,8 @@ type: poi
 tags:
   - things_to_do
   - sight
-  - nanluoguxiang
-latitude: 39.9352
+  - houhai
+latitude: 39.9353
 longitude: 116.3801
 story: >
   Literary scholars have long argued that Prince Gong's Mansion is the model for the fictional Grand View Garden in Dream of the Red Chamber, China's greatest novel. The mansion's layout, its garden rockeries, and its sequence of pavilions match the novel's descriptions closely enough to be convincing — though the connection is disputed, and several other candidates have been proposed.

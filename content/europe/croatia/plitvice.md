@@ -7,7 +7,7 @@ image_attribution: Tesla Delacroix
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Plitvice_Lakes1.jpg
 latitude: 44.8654
-loc_type: city
+loc_type: feature
 longitude: 15.582
 quick_facts:
   Colour: Shifts blue to green

@@ -4,8 +4,12 @@ type: neighbourhood
 latitude: 38.7077
 longitude: -9.1472
 tags:
-  - things_to_do
-  - neighbourhood
+- things_to_do
+- neighbourhood
+image: cais_do_sodre.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Lisbon_Pink_Street.jpg
+image_license: CC BY-SA 4.0
+image_attribution: FuriousYogi
 ---
 
 Cais do Sodré has undergone the most dramatic transformation in Lisbon's recent urban history. The neighbourhood around the waterfront station was long known as a sailors' district — rough bars, cheap restaurants, and a red-light street (Rua Nova do Carvalho, now called the Pink Street for its painted surface). That rough edge has been preserved and promoted rather than erased, and the Pink Street is now the spine of one of the city's best nightlife districts.

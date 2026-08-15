@@ -1,0 +1,16 @@
+---
+done:
+  location_cleanup: '2026-04-09'
+latitude: 35.530664
+loc_type: city
+longitude: 139.703767
+score: 6.91
+snippet: Tokyo Bay city between Tokyo and Yokohama, known for Kawasaki Daishi and
+  industrial waterfront lights.
+title: Kawasaki
+type: location
+---
+
+Kawasaki sits between [Tokyo](/asia/japan/kanto/tokyo) and [Yokohama](/asia/japan/kanto/yokohama) along the western shore of Tokyo Bay. With over 1.5 million residents it is one of Japan's largest cities, though most visitors pass through it without stopping. That is a mistake if you are curious about the less polished side of the Kanto region.
+
+The main draw is the [Kawasaki Daishi](/asia/japan/kanto/kawasaki/kawasaki_daishi) temple complex, one of the most visited Buddhist temples in Japan, particularly packed during New Year. The industrial waterfront district of [Keihin](/asia/japan/kanto/kawasaki/keihin_industrial) has been partly reinvented, and the factory lights at night have become an attraction in their own right, with cruise boats running evening tours of the bay. Kawasaki is also home to the [Fujiko F. Fujio Museum](/asia/japan/kanto/kawasaki/fujiko_museum), dedicated to the creator of Doraemon, and the open-air [Nihon Minka-en](/asia/japan/kanto/kawasaki/nihon_minkae) folk house museum, where two dozen traditional farmhouses from across Japan have been reassembled in a hillside park. Every April the [Kanamara Matsuri](/asia/japan/kanto/kawasaki/kanamara_matsuri) at Kanayama Shrine draws vast crowds for one of Japan's most unusual festivals. The [Sakuramoto](/asia/japan/kanto/kawasaki/sakuramoto) neighbourhood south of the station is one of Japan's largest Zainichi Korean communities and has excellent Korean barbecue.

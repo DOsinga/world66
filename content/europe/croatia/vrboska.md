@@ -12,6 +12,8 @@ longitude: 16.671232
 score: 8.37
 snippet: Small Hvar inlet village where stone bridges and a fortified church frame
   a quieter island harbour.
+tags:
+- hvar
 title: Vrboska
 type: location
 ---

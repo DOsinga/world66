@@ -3,6 +3,7 @@ latitude: 29.78394
 loc_type: feature
 longitude: -90.11482
 score: 7.4
+snippet: South Louisiana wetland preserve of bayou, swamp, and forest, crossed by trails and raised boardwalks.
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Jean_Lafitte
 tags:

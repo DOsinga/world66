@@ -6,6 +6,7 @@ snippet: Last of the great American railroad stations, still in use
 tags:
 - things_to_do
 - landmark
+- downtown
 title: Union Station
 type: poi
 score: 9.0

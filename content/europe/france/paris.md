@@ -2,6 +2,7 @@
 done:
   location_cleanup: 2026-04-05
   location_enrich: '2026-05-12'
+  major_city_neighborhoods: '2026-06-26'
   poi_cleanup: '2026-04-21'
 image: paris.jpg
 image_attribution: Basile Morin
@@ -29,9 +30,9 @@ type: location
 
 Paris is the most visited city on earth, and familiarity with its image makes it easy to underestimate. You arrive knowing the Eiffel Tower, Notre-Dame, and the Louvre from a thousand photographs, but the city constantly surprises. The quartiers you didn't plan to visit, the food market you stumbled into, the view down a Haussmann boulevard at dusk — these are what stay with you.
 
-The city divides across the Seine into the Right Bank (Rive Droite) and Left Bank (Rive Gauche). The Right Bank holds most of the grand monuments and the commercial centre: the Louvre, the Opéra, the Champs-Élysées, the Marais. The Left Bank is quieter, more residential, the traditional home of universities, cafes, and publishing houses. This divide is less sharp than it once was, but it still shapes the character of each neighbourhood.
+The city divides across the Seine into the Right Bank (Rive Droite) and Left Bank (Rive Gauche). The Right Bank holds most of the grand monuments and the commercial centre: the Louvre, the Opéra, the Champs-Élysées, [the Marais](/europe/france/paris/le_marais). The Left Bank is quieter, more residential, the traditional home of universities, cafes, and publishing houses. This divide is less sharp than it once was, but it still shapes the character of each neighbourhood.
 
-Paris is organised into 20 arrondissements spiralling clockwise from the 1st, which sits at the historic centre around the Louvre and Île de la Cité. The lower numbers are generally central and expensive; the higher numbers — the 18th of Montmartre, the 19th and 20th of Belleville — are more varied, less polished, and often more interesting. The 11th and 12th, east of the Bastille, have become the city's most dynamic restaurant and bar districts over the past decade.
+Paris is organised into 20 arrondissements spiralling clockwise from the 1st, which sits at the historic centre around the Louvre and Île de la Cité. The lower numbers are generally central and expensive; the higher numbers — the 18th of [Montmartre](/europe/france/paris/montmartre), the 19th and 20th of [Belleville](/europe/france/paris/belleville) — are more varied, less polished, and often more interesting. The 11th and 12th, east of the Bastille, have become the city's most dynamic restaurant and bar districts over the past decade.
 
 The city rewards those who walk. A Métro journey that takes ten minutes on foot can give you nothing; the same walk, across a bridge, through a market, past a church you'd never have found otherwise, can be the best part of the day. Buy a carnet of Métro tickets for longer distances, but default to walking whenever the distance is reasonable.
 

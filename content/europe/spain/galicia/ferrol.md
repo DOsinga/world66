@@ -10,6 +10,7 @@ loc_type: city
 longitude: -8.2328
 sources:
 - https://en.wikipedia.org/wiki/Ferrol,_Spain
+snippet: Galician naval city built around an Enlightenment street grid and Spain's principal Atlantic shipyards.
 title: Ferrol
 type: location
 ---

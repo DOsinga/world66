@@ -955,3 +955,29 @@ def find_similar_with_match_grouped(path, k=3):
         if len(bucket) < k:
             bucket.append((other_path, match_pct))
     return same, other
+
+
+def find_dimension_alternatives(path):
+    """For each dimension, the highest-scoring "nearby" location (one that
+    shares this path's immediate parent directory — the same region/country
+    it actually sits in, not just the same country broadly) that beats it on
+    that dimension. Returns {field: (other_path, other_score) or None}; None
+    when nothing under the same parent scores higher (including when there
+    are no other scored siblings at all)."""
+    index = load_dimension_index()
+    vector = index.get(path)
+    best = {field: None for field in DIMENSION_FIELDS}
+    if vector is None or "/" not in path:
+        return best
+
+    parent = path.rsplit("/", 1)[0]
+    for other_path, other_vector in index.items():
+        if other_path == path or other_path.rsplit("/", 1)[0] != parent:
+            continue
+        for i, field in enumerate(DIMENSION_FIELDS):
+            if other_vector[i] <= vector[i]:
+                continue
+            current = best[field]
+            if current is None or other_vector[i] > current[1]:
+                best[field] = (other_path, other_vector[i])
+    return best

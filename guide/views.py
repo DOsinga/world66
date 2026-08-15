@@ -15,8 +15,9 @@ from django.utils.safestring import mark_safe
 from . import github
 from .models import (
     CONTENT_DIR, DIMENSION_FIELDS, DIMENSION_LABELS, NAV_TYPES, build_city_tag_index,
-    dimension_percentile, find_locations_tagged, find_similar_with_match_grouped, find_tagged_pois,
-    load_page, load_page_from_revision, load_tag_index, resolve_tag_route, _find_city_path,
+    dimension_percentile, find_dimension_alternatives, find_locations_tagged,
+    find_similar_with_match_grouped, find_tagged_pois, load_page, load_page_from_revision,
+    load_tag_index, resolve_tag_route, _find_city_path,
 )
 
 SEARCH_DB = Path(settings.BASE_DIR) / "search.db"
@@ -530,10 +531,19 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
             ((f, float(page.meta[f])) for f in DIMENSION_FIELDS),
             key=lambda pair: pair[1], reverse=True,
         )
+        alternatives = find_dimension_alternatives(page.path)
         for f, value in scored:
             label = DIMENSION_LABELS[f]
             pct = dimension_percentile(f, value)
             percentile_label = f"Top {max(1, round(pct))}%" if pct <= 50 else "—"
+
+            alternative = None
+            alt = alternatives.get(f)
+            if alt:
+                alt_page = load_page(alt[0])
+                if alt_page:
+                    alternative = {'page': alt_page, 'score': f"{alt[1]:.1f}"}
+
             dimension_rows.append({
                 'field': f,
                 'label': label,
@@ -543,6 +553,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
                 'blurb': f"{label} scores {value:.1f}/10, placing {page.title} in the top "
                          f"{max(1, round(pct))}% of all destinations." if pct <= 50 else
                          f"{label} scores {value:.1f}/10 for {page.title} — not this destination's strongest suit.",
+                'alternative': alternative,
             })
 
         noun = 'city' if page.meta.get('loc_type') == 'city' else 'destination'

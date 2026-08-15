@@ -1293,6 +1293,20 @@ img { max-width: 100%; height: auto; }
   background: var(--accent);
 }
 
+.score-profile-row-alt {
+  display: block;
+  margin-top: 6px;
+  font-family: var(--label-font);
+  font-size: 11px;
+  color: var(--mute);
+  text-decoration: none;
+}
+
+.score-profile-row-alt:hover {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
 .score-profile-note {
   height: 62px;
   overflow: hidden;

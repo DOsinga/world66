@@ -97,6 +97,9 @@
           <div class="score-profile-bar-track">
             <div class="score-profile-bar-fill" style="width: {{ row.width_pct }}%"></div>
           </div>
+          {% if row.alternative %}
+          <a href="{{ row.alternative.page.get_absolute_url }}" class="score-profile-row-alt">{{ row.alternative.page.title }} scores higher ({{ row.alternative.score }})</a>
+          {% endif %}
         </div>
         {% endfor %}
       </div>

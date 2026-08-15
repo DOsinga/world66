@@ -9,6 +9,6 @@ Pashtun specialities you will see on menus include **landhi** (a whole lamb drie
 
 Don't leave without a stop at the dry-fruit and fresh-fruit stalls. Quetta is the fruit basket of Pakistan and the markets carry pomegranates, apricots, peaches, plums, apples and the local *garma* and *sarda* melons in season, alongside pistachios, almonds and pine nuts from the surrounding hills.
 
-### [Lehri Sajji House](/asia/pakistan/quetta/eating_out/lehri_sajji_house)
+### [Lehri Sajji House](/asia/pakistan/quetta/lehri_sajji_house)
 
 The classic stop for sajji on Jinnah Road in the town centre — a whole leg of lamb roasted by the fire, served with bread and chutney.

@@ -20,4 +20,4 @@ The island has no airport; all access is by ferry from St. Thomas. Camping is av
 
 ## Destinations in St. John
 
-[St. John](/northamerica/virginislands/stjohn/stjohn)
+[St. John](/northamerica/virginislands/stjohn)

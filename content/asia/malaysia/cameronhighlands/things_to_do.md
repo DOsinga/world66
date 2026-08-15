@@ -68,7 +68,7 @@ type: Other
 
 [[rate it]](/asia/malaysia/cameronhighlands/things_to_do/eat_drink_and_be_m)
 
-### [Ascend Gunung Brinchang](/asia/malaysia/cameronhighlands/things_to_do/ascent_gunung_brin)
+### [Ascend Gunung Brinchang](/asia/malaysia/cameronhighlands/ascent_gunung_brin)
 
 Hike up Gunung Brinchang, the highest peak in Cameron Highlands, for a breathtaking view of the area.
 
@@ -99,7 +99,7 @@ type: Other
 
 
 
-### [Jungle Trekking](/asia/malaysia/cameronhighlands/things_to_do/jungle_trekking)
+### [Jungle Trekking](/asia/malaysia/cameronhighlands/jungle_trekking)
 
 Trek in the tropical jungle to see the Parit Waterfall and the Robinson Waterfall.
 

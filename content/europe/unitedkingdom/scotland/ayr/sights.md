@@ -27,4 +27,4 @@ type: Castles
 
 
 
-[[rate it]](/europe/unitedkingdom/scotland/ayr/sights/culzean_castle)
+[[rate it]](/europe/unitedkingdom/scotland/ayr/culzean_castle)

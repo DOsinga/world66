@@ -13,7 +13,7 @@ The name of this **silent beach** is Kalamb.
 **Contributors**
 May 05, 2006
 
-### [Kalamb](/asia/india/maharashtra/mumbai/beaches/kalamb)
+### [Kalamb](/asia/india/maharashtra/mumbai/kalamb)
 
 How to get here:
 
@@ -27,7 +27,7 @@ If you want to laze just spread out a sheet on the sand, watch the fishing boats
 
 
 
-[[rate it]](/asia/india/maharashtra/mumbai/beaches/kalamb)
+[[rate it]](/asia/india/maharashtra/mumbai/kalamb)
 
 tel: 9323410092
 

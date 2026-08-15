@@ -17,7 +17,7 @@ title: Tamale
 type: location
 ---
 
-Call it "tah-mah-LAY," not "ta-mal-EY" — the latter is a Mexican food. Tamale is the capital of the Northern Region, a hot, dusty, and predominantly Muslim city that feels like a different country from the lush south. It is the main transport hub for northern Ghana and the gateway to [Mole National Park](/africa/ghana/tamale/things_to_do/mole_national_park), about 150 km to the west.
+Call it "tah-mah-LAY," not "ta-mal-EY" — the latter is a Mexican food. Tamale is the capital of the Northern Region, a hot, dusty, and predominantly Muslim city that feels like a different country from the lush south. It is the main transport hub for northern Ghana and the gateway to [Mole National Park](/africa/ghana/tamale/mole_national_park), about 150 km to the west.
 
 The city itself is not a major tourist destination, but it has a good market, interesting mosques, and a lively atmosphere during festival season. The Damba festival in July or August celebrates the birth of the Prophet and features drumming, dancing, and horseback displays across the northern regions. The Bugum (fire) festival, held earlier in the year, sees townspeople process through the streets carrying grass torches. Nearby [Larabanga](/africa/ghana/larabanja) has one of the oldest mosques in West Africa.
 

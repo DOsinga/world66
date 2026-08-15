@@ -11,7 +11,7 @@ Cullen golf club founded in 1870 is located at the beach and is popular with the
 **Contributors**
 February 11, 2007
 
-### [Cullen Golf Club](/europe/unitedkingdom/scotland/cullen/things_to_do/cullen_golf_club)
+### [Cullen Golf Club](/europe/unitedkingdom/scotland/cullen/cullen_golf_club)
 
 Situated at the west end of the town the Cullen Golf Club is popular with locals and tourists. It was founded in 1870 and from the greens spectacular views of the Moray Firth are to be had.
 

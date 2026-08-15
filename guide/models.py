@@ -862,16 +862,15 @@ def load_continents():
     return continents
 
 
-DIMENSION_FIELDS = ("city_culture", "historic_culture", "nature", "leisure", "adventure")
+DIMENSION_FIELDS = ("heritage", "vibrancy", "nature", "off_the_beaten_track")
 DIMENSION_LABELS = {
-    "city_culture": "City Culture",
-    "historic_culture": "Historic Culture",
+    "heritage": "Heritage",
+    "vibrancy": "Vibrancy",
     "nature": "Nature",
-    "leisure": "Leisure",
-    "adventure": "Adventure",
+    "off_the_beaten_track": "Off The Beaten Track",
 }
-# Theoretical max Euclidean distance between two points in the 5-dim 0-10
-# score space (sqrt(5 * 10**2)) — used to normalize distance into a 0-100
+# Theoretical max Euclidean distance between two points in the N-dim 0-10
+# score space (sqrt(N * 10**2)) — used to normalize distance into a 0-100
 # "match" percentage for the similar-places chips.
 _MAX_DIMENSION_DISTANCE = (len(DIMENSION_FIELDS) * 10 ** 2) ** 0.5
 

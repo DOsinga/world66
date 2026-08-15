@@ -545,16 +545,8 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
                          f"{label} scores {value:.1f}/10 for {page.title} — not this destination's strongest suit.",
             })
 
-        # city_culture and historic_culture are currently the same placeholder
-        # score (see tools/backfill_dimension_scores.py) — treat them as one
-        # "Culture" for the verdict sentence so a culture-led place doesn't
-        # read as "a city culture city first, historic culture second".
-        verdict_dims = [('culture', float(page.meta['city_culture']))] + [
-            (f, float(page.meta[f])) for f in DIMENSION_FIELDS if f not in ('city_culture', 'historic_culture')
-        ]
-        verdict_dims.sort(key=lambda pair: pair[1], reverse=True)
         noun = 'city' if page.meta.get('loc_type') == 'city' else 'destination'
-        top_two = [name for name, _ in verdict_dims[:2]]
+        top_two = [DIMENSION_LABELS[f].lower() for f, _ in scored[:2]]
         verdict_html = mark_safe(
             f"{page.title} is a <em>{top_two[0]}</em> {noun} first, <em>{top_two[1]}</em> second."
         )

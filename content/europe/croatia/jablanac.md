@@ -11,6 +11,8 @@ longitude: 14.8978
 score: 7.87
 snippet: Small Adriatic village below the Velebit mountains, near ferries to Rab and
   Zavratnica inlet.
+tags:
+- kvarner
 title: Jablanac
 type: location
 ---

@@ -13,6 +13,8 @@ longitude: 13.908675
 score: 7.03
 snippet: Central Istrian hilltop town with stone lanes, castle remnants, and countryside
   cave excursions nearby
+tags:
+- istria
 title: Žminj
 type: location
 ---

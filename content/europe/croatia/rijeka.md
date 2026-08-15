@@ -11,6 +11,8 @@ longitude: 14.4422
 score: 7.98
 snippet: Croatia's main port on the Kvarner Gulf, with Austro-Hungarian architecture
   and a layered maritime history.
+tags:
+- kvarner
 title: Rijeka
 type: location
 ---

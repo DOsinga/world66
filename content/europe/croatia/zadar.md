@@ -12,6 +12,8 @@ longitude: 15.235326
 score: 9.0
 snippet: Ancient Dalmatian coastal city where Roman streets meet wave-powered waterfront
   art.
+tags:
+- dalmatia
 title: Zadar
 type: location
 ---

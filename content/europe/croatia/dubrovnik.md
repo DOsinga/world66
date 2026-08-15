@@ -20,6 +20,8 @@ quick_facts:
 score: 9.87
 snippet: Walled Adriatic city whose compact old town rises above cliffs and a historic
   harbour.
+tags:
+- dalmatia
 tip: Walk the full city walls early morning or near sunset — at midday they're a sweltering,
   crowded conveyor belt. The Old Town is car-free marble that turns slippery in rain.
   Check the cruise-ship schedule and dodge peak days, when 10,000-plus passengers

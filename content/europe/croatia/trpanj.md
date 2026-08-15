@@ -11,6 +11,8 @@ longitude: 17.273354
 score: 7.89
 snippet: Quiet Pelješac harbour town with pebbly beaches, sulphurous sea mud, and
   nearby wine country
+tags:
+- peljesac
 title: Trpanj
 type: location
 ---

@@ -1,0 +1,4 @@
+asia/nepal
+europe/poland
+asia/srilanka
+southamerica/bolivia

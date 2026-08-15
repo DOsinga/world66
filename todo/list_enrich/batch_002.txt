@@ -1,0 +1,4 @@
+northamerica/mexico
+asia/pakistan
+southamerica/peru
+europe/georgia

@@ -1,0 +1,4 @@
+southamerica/colombia
+europe/italy
+europe/denmark
+asia/iran

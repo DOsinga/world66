@@ -1,0 +1,4 @@
+europe/slovakia
+europe/norway
+asia/japan
+asia/malaysia

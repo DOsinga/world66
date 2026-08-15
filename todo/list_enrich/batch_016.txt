@@ -1,0 +1,4 @@
+asia/thailand
+asia/india
+africa/morocco
+southamerica/brazil

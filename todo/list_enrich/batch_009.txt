@@ -1,0 +1,4 @@
+africa/kenya
+africa/nigeria
+asia/vietnam
+europe/hungary

@@ -1,0 +1,4 @@
+southamerica/venezuela
+europe/macedonia
+europe/portugal
+australiaandpacific/newzealand

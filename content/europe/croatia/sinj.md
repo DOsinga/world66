@@ -12,6 +12,8 @@ longitude: 16.63734
 score: 7.29
 snippet: Dalmatian hinterland market town known for the Sinjska Alka joust and Cetina
   karst plain.
+tags:
+- dalmatia
 title: Sinj
 type: location
 ---

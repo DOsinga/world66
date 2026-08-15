@@ -11,9 +11,11 @@ latitude: 45.3369
 loc_type: city
 longitude: 14.3053
 score: 8.51
-title: Opatija
 snippet: Grand Kvarner Gulf resort town with Austro-Hungarian villas, formal gardens,
   and a seafront promenade
+tags:
+- kvarner
+title: Opatija
 type: location
 ---
 

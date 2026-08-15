@@ -6,7 +6,7 @@ image: kitakyushu.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Kitakyushu_Montage.jpg
 latitude: 33.883
-loc_type: region
+loc_type: city
 longitude: 130.8749
 score: 0.55
 snippet: Northern Kyushu industrial city on the Kanmon Strait, shaped by steel, coal,

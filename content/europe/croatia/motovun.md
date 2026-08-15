@@ -11,6 +11,8 @@ longitude: 13.82828
 score: 8.47
 snippet: Istrian hilltop town above the Mirna River valley, encircled by medieval
   walls and truffle forests.
+tags:
+- istria
 title: Motovun
 type: location
 ---

@@ -35,6 +35,6 @@ type: Tourist information
 
 
 
-[[rate it]](/asia/india/kolkata/practical_informat/looking_for_kolkat)
+[[rate it]](/asia/india/westbengal/kolkata/practical_informat/looking_for_kolkat)
 
 url: [www.indiandestination.com](http://www.indiandestination.com/mice-in-kolkata.html)

@@ -1,0 +1,50 @@
+northamerica/unitedstates/newyorkstate/newyork	8.494	14	New York	North America, United States, New York State
+europe/unitedkingdom/england/london	8.474	16	London	Europe, United Kingdom, England
+asia/thailand/bangkok	8.471	17	Bangkok	Asia, Thailand
+asia/japan/tokyo	8.465	18	Tokyo	Asia, Japan
+europe/france/paris	8.461	19	Paris	Europe, France
+europe/netherlands/amsterdam	8.489	15	Amsterdam	Europe, Netherlands
+europe/spain/madrid	8.460	20	Madrid	Europe, Spain
+northamerica/mexico/mexicocity	8.133	39	Mexico City	North America, Mexico
+europe/italy/lombardia/milan	8.453	21	Milan	Europe, Italy, Lombardia
+asia/india/westbengal/calcutta	8.445	22	Calcutta	Asia, India, West Bengal
+asia/india/kolkata	8.668	1	Kolkata	Asia, India
+southamerica/argentina/buenosaires	8.412	23	Buenos Aires	South America, Argentina
+asia/india/maharashtra/mumbai	8.310	30	Mumbai	Asia, India, Maharashtra
+europe/spain/catalonia/barcelona	8.580	5	Barcelona	Europe, Spain, Catalonia
+asia/china/shanghai	8.571	7	Shanghai	Asia, China
+asia/turkey/istanbul	8.550	8	Istanbul	Asia, Turkey
+australiaandpacific/australia/newsouthwales/sydney	8.541	9	Sydney	Australia, Pacific & Antarctica, Australia, New South Wales
+asia/malaysia/kualalumpur	8.539	10	Kuala Lumpur	Asia, Malaysia
+asia/taiwan/taipei	8.529	11	Taipei	Asia, Taiwan
+asia/southkorea/seoul	8.516	12	Seoul	Asia, South Korea
+europe/russia/moscow	8.391	24	Moscow	Europe, Russia
+asia/china/beijing	8.383	25	Beijing	Asia, China
+europe/austria/vienna	8.373	26	Vienna	Europe, Austria
+northamerica/unitedstates/florida/miami	8.572	6	Miami	North America, United States, Florida
+northamerica/unitedstates/illinois/chicago	8.600	2	Chicago	North America, United States, Illinois
+europe/sweden/stockholm	8.598	3	Stockholm	Europe, Sweden
+asia/israel/telaviv	8.361	27	Tel Aviv	Asia, Israel
+northamerica/canada/quebec/montreal	8.312	29	Montreal	North America, Canada, Québec
+europe/czechrepublic/prague	8.309	31	Prague	Europe, Czech Republic
+northamerica/unitedstates/california/sanfrancisco	8.286	33	San Francisco	North America, United States, California
+europe/italy/emiliaromagna/bologna	8.227	34	Bologna	Europe, Italy, Emilia-Romagna
+asia/china/hongkong	7.807	81	Hong Kong	Asia, China
+europe/portugal/oporto	8.191	37	Oporto	Europe, Portugal
+europe/italy/campania/naples	8.048	44	Naples	Europe, Italy, Campania
+northamerica/unitedstates/florida/miamibeach	8.108	40	Miami Beach	North America, United States, Florida
+europe/germany/berlin	8.007	52	Berlin	Europe, Germany
+asia/india/tamilnadu/chennai	8.096	41	Chennai	Asia, India, Tamil Nadu
+europe/spain/spanishcostas/valencia	8.082	42	Valencia	Europe, Spain, Spanish Costas
+europe/france/cotedazur/cannes	8.077	43	Cannes	Europe, France, Cote d'Azur
+europe/spain/andalucia/seville	8.047	45	Seville	Europe, Spain, Andalucia
+europe/hungary/budapest	8.046	46	Budapest	Europe, Hungary
+europe/italy/tuscany/florence	8.043	47	Florence	Europe, Italy, Tuscany
+asia/unitedarabemirates/dubai	8.032	48	Dubai	Asia, United Arab Emirates
+asia/india/karnataka/bangalore	8.016	49	Bangalore	Asia, India, Karnataka
+europe/switzerland/zurich	8.013	50	Zurich	Europe, Switzerland
+asia/southkorea/pusan	8.007	51	Busan	Asia, South Korea
+southamerica/colombia/cartagena	8.007	53	Cartagena	South America, Colombia
+australiaandpacific/australia/victoria/melbourne	8.006	54	Melbourne	Australia, Pacific & Antarctica, Australia, Victoria
+asia/japan/honshu/osaka	8.004	55	Osaka	Asia, Japan, Honshu
+europe/greece/athens	7.995	56	Athens	Europe, Greece

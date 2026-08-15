@@ -243,7 +243,7 @@ scoring/data/steering_layer.json
 scoring/data/final_scores.json
 ```
 
-The trainer initializes from the current neural model's final layer. It keeps the new scores close to the base model globally, while giving stronger weight to the edited ordering. Do not treat copied-but-unedited output files as an improvement; without human edits, the steering layer mostly preserves the current top lists.
+The trainer keeps the new scores close to the base model globally, while giving stronger weight to the edited ordering. After prediction, it applies an explicit top-5 override for each dimension: the first five paths in each edited `_out.txt` file are stamped to deterministic top scores for that dimension. The learned steering head handles everything below that. Do not treat copied-but-unedited output files as an improvement; without human edits, the steering layer mostly preserves the current top lists.
 
 ### 7. Build widget data
 

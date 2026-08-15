@@ -35,6 +35,30 @@ def composer_defaults(regression):
     return defaults
 
 
+def write_composer_placeholder(path, dimensions):
+    path.write_text(
+        json.dumps(
+            {
+                "source": "nonlinear steering layer",
+                "model": None,
+                "dimensions": dimensions,
+                "latentLabels": [f"Latent {index + 1}" for index in range(12)],
+                "defaults": {
+                    dimension: {
+                        "bias": 0,
+                        "weights": [0] * 12,
+                        "activation": "linear_clamped",
+                    }
+                    for dimension in dimensions
+                },
+                "locations": [],
+            },
+            separators=(",", ":"),
+        )
+        + "\n"
+    )
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--scores", type=Path, default=SCORES_FILE)
@@ -84,6 +108,11 @@ def main():
 
     if args.regression.exists() and args.hidden.exists():
         regression = load_json(args.regression)
+        if "weight" not in regression or "bias" not in regression:
+            write_composer_placeholder(args.score_composer_out, regression["dimensions"])
+            print(f"Skipping score composer defaults for nonlinear steering layer: {args.regression}")
+            print(f"Wrote {len(locations)} locations to {args.scoring_explorer_out.resolve().relative_to(PROJECT_DIR)}")
+            return
         hidden_data = np.load(args.hidden, allow_pickle=True)
         hidden_by_path = {
             path: row.tolist()

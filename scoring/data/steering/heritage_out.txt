@@ -1,0 +1,50 @@
+asia/india/karnataka/hampi	9.278	1	Hampi	Asia, India, Karnataka
+asia/jordan/petra	9.228	2	Petra	Asia, Jordan
+asia/uzbekistan/bukhara	9.125	3	Bukhara	Asia, Uzbekistan
+asia/turkey/ephesus	9.072	6	Ephesus	Asia, Turkey
+asia/myanmar/bagan	9.071	7	Bagan	Asia, Myanmar
+asia/jordan/jerash	9.046	8	Jerash	Asia, Jordan
+asia/cambodia/siemreap	9.025	10	Siem Reap	Asia, Cambodia
+asia/turkey/cappadocia/goreme	8.996	13	Göreme	Asia, Turkey, Cappadocia
+asia/cambodia/angkorwat	8.984	14	Angkor Wat	Asia, Cambodia
+asia/uzbekistan/samarkand	8.979	15	Samarkand	Asia, Uzbekistan
+europe/italy/campania/pompeii	8.979	16	Pompeii	Europe, Italy, Campania
+asia/india/rajasthan/jaisalmer	8.939	18	Jaisalmer	Asia, India, Rajasthan
+europe/georgia/mtskheta	8.929	19	Mtskheta	Europe, Georgia
+europe/italy/sicily/agrigento	8.920	20	Agrigento	Europe, Italy, Sicily
+asia/china/shanxiprovince/mtwutai	8.882	22	Mt. Wutai	Asia, China, Shanxi Province
+africa/ethiopia/lalibela	8.872	23	Lalibela	Africa, Ethiopia
+europe/czechrepublic/kutnahora	8.863	24	Kutná Hora	Europe, Czech Republic
+asia/india/tamilnadu/rameshwaram	8.860	26	Rameshwaram	Asia, India, Tamil Nadu
+africa/egypt/abusimbel	8.849	27	Abu Simbel	Africa, Egypt
+asia/nepal/lumbini	8.842	29	Lumbini	Asia, Nepal
+africa/zimbabwe/greatzimbabwe	8.837	31	Great Zimbabwe	Africa, Zimbabwe
+asia/india/tamilnadu/madurai	8.829	32	Madurai	Asia, India, Tamil Nadu
+europe/italy/basilicata/matera	8.811	33	Matera	Europe, Italy, Basilicata
+europe/spain/northernspain/santiagodecompostela	8.811	34	Santiago de Compostela	Europe, Spain, Northern Spain
+africa/tunisia/carthage	8.804	35	Carthage	Africa, Tunisia
+asia/turkey/aphrodisias	8.796	36	Aphrodisias	Asia, Turkey
+southamerica/colombia/ciudadperdida	8.790	37	Ciudad Perdida	South America, Colombia
+asia/china/shanxiprovince/pingyao	8.783	39	Pingyao	Asia, China, Shanxi Province
+asia/china/tibet/lhasa	8.763	40	Lhasa	Asia, China, Tibet
+asia/japan/honshu/kyoto	8.746	42	Kyoto	Asia, Japan, Honshu
+asia/japan/honshu/koyasan	8.744	43	Koyasan	Asia, Japan, Honshu
+europe/germany/bavaria/rothenburg	8.728	45	Rothenburg ob der Tauber	Europe, Germany, Bavaria
+asia/japan/honshu/himeji	8.719	47	Himeji	Asia, Japan, Honshu
+europe/spain/andalucia/cordoba	8.712	49	Cordoba	Europe, Spain, Andalucia
+asia/uzbekistan/khiva	8.705	50	Khiva	Asia, Uzbekistan
+europe/spain/andalucia/granada	8.701	53	Granada	Europe, Spain, Andalucia
+asia/china/hubei/wudang_mountains	8.698	54	Wudang Mountains	Asia, China, Hubei Province
+asia/india/uttarpradesh/agra	8.697	56	Agra	Asia, India, Uttar Pradesh
+northamerica/mexico/teotihuacan	8.581	86	Teotihuacan	North America, Mexico
+asia/palestinianauthority/jerico	8.686	59	Jericho	Asia, Palestinian Authority
+northamerica/mexico/palenque	8.682	60	Palenque	North America, Mexico
+africa/egypt/luxor	8.599	77	Luxor	Africa, Egypt
+asia/nepal/bhaktapur	8.667	63	Bhaktapur	Asia, Nepal
+asia/tajikistan/penjikent	8.663	64	Penjikent	Asia, Tajikistan
+southamerica/peru/cuzco	8.661	65	Cuzco	South America, Peru
+europe/armenia/khorvirap	8.639	68	Khor Virap	Europe, Armenia
+asia/turkey/cappadocia/nevsehir	8.636	69	Nevşehir	Asia, Turkey, Cappadocia
+northamerica/guatemala/antiguaguatemala	8.625	72	Antigua Guatemala	North America, Guatemala
+asia/india/karnataka/badami	8.618	73	Badami	Asia, India, Karnataka
+asia/lebanon/baalbek	8.614	74	Baalbek	Asia, Lebanon

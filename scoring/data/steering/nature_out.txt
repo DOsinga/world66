@@ -1,0 +1,50 @@
+africa/tanzania/serengetinationalpark	9.038	5	Serengeti National Park	Africa, Tanzania
+southamerica/ecuador/galapagosislands/theislands	9.140	2	The Galápagos Islands	South America, Ecuador, Galapagos Islands
+northamerica/unitedstates/montana/glaciernp	9.106	3	Glacier National Park	North America, United States, Montana
+africa/botswana/okavangodelta	8.901	29	Okavango Delta	Africa, Botswana
+southamerica/argentina/patagonia/calafate	9.069	4	El Calafate	South America, Argentina, Patagonia
+southamerica/argentina/patagonia/elchalten	9.172	1	El Chaltén	South America, Argentina, Patagonia
+northamerica/unitedstates/alaska/denalipark	9.037	6	Denali National Park	North America, United States, Alaska
+asia/nepal/annapurna	9.010	7	Annapurna Region	Asia, Nepal
+northamerica/unitedstates/wyoming/yellowstone	8.948	15	Yellowstone	North America, United States, Wyoming
+europe/spain/northernspain/picosdeeuropa	8.991	9	Picos de Europa	Europe, Spain, Northern Spain
+australiaandpacific/frenchpolynesia/borabora	8.986	10	Bora Bora	Australia, Pacific & Antarctica, French Polynesia
+europe/norway/lofotenislands/svolvr_the_capi	8.975	11	Svolvær	Europe, Norway, Lofoten islands
+africa/southafrica/gardenroute/wilderness	8.965	12	Wilderness	Africa, South Africa, Garden Route
+southamerica/argentina/patagonia/torresdelpaine	8.964	13	Torres del Paine	South America, Argentina, Patagonia
+asia/china/sichuanprovince/jiuzhaigou	8.944	16	Jiuzhaigou	Asia, China, Sichuan Province
+asia/nepal/khumbu	8.935	19	Khumbu	Asia, Nepal
+europe/norway/spitsbergen/nybyen	8.931	20	Nybyen	Europe, Norway, Spitsbergen
+europe/norway/lofotenislands/vagan	8.927	21	Vagan	Europe, Norway, Lofoten islands
+australiaandpacific/newzealand/south_island/southland/fiordland/te_anau	8.922	22	Te Anau	Australia, Pacific & Antarctica, New Zealand, South Island, Southland, Fiordland
+africa/uganda/bwindi	8.886	32	Bwindi Impenetrable Forest	Africa, Uganda
+northamerica/unitedstates/alaska/denali_national_park_and_preserve	8.920	23	Denali National Park and Preserve	North America, United States, Alaska
+asia/india/madhyapradesh/bandhavgarh	8.916	24	Bandhavgarh	Asia, India, Madhya Pradesh
+australiaandpacific/australia/newsouthwales/nationalparks	8.915	25	National Parks	Australia, Pacific & Antarctica, Australia, New South Wales
+asia/china/tibet/everest_base_camp	8.907	27	Everest Base Camp (Tibet)	Asia, China, Tibet
+asia/kyrgyzstan/lakeissykkul	8.894	30	Lake Issyk-Kul	Asia, Kyrgyzstan
+northamerica/canada/alberta/banff	8.894	31	Banff	North America, Canada, Alberta
+europe/sweden/storasjofalletnationalpark	8.877	33	Stora Sjöfallet National Park	Europe, Sweden
+asia/india/jammuandkashmir/gulmarg	8.864	34	Gulmarg	Asia, India, Jammu and Kashmir
+northamerica/canada/alberta/lake_louise	8.857	35	Lake Louise	North America, Canada, Alberta
+europe/norway/sognefjorden	8.804	57	Sognefjorden	Europe, Norway
+northamerica/unitedstates/washington/northcascadesnp	8.857	36	North Cascades NP	North America, United States, Washington
+asia/china/sichuanprovince/siguniangshan	8.854	37	Siguniang Mountain	Asia, China, Sichuan Province
+asia/pakistan/kaghanvalley	8.854	38	Kaghan Valley	Asia, Pakistan
+africa/kenya/nationalparksandreserves/mountkenyanp	8.853	39	Mount Kenya National Park	Africa, Kenya, National Parks and Reserves
+asia/japan/hokkaido/shiretoko	8.849	40	Shiretoko	Asia, Japan, Hokkaido
+europe/norway/spitsbergen/longyearbyen	8.848	41	Longyearbyen	Europe, Norway, Spitsbergen
+australiaandpacific/palau/koror	8.847	42	Koror	Australia, Pacific & Antarctica, Palau
+southamerica/argentina/patagonia/valdespeninsula	8.838	43	Valdes Peninsula	South America, Argentina, Patagonia
+asia/kyrgyzstan/alaarchagorge	8.833	46	Ala-Archa Gorge	Asia, Kyrgyzstan
+northamerica/unitedstates/virginia/old_rag_mountain	8.832	47	Old Rag Mountain	North America, United States, Virginia
+africa/seychelles/fregateisland	8.829	48	Fregate Island	Africa, Seychelles
+asia/japan/hokkaido/daisetsuzan	8.828	50	Daisetsuzan	Asia, Japan, Hokkaido
+asia/pakistan/hunzavalley/gojal_valley/passu	8.821	52	Passu	Asia, Pakistan, Hunza valley, Gojal Valley
+europe/norway/hurtigruten	8.807	53	Hurtigruten	Europe, Norway
+africa/southafrica/stlucia	8.806	54	St Lucia	Africa, South Africa
+asia/pakistan/gilgit	8.806	55	Gilgit	Asia, Pakistan
+asia/pakistan/deosai	8.804	56	Deosai National Park	Asia, Pakistan
+asia/indonesia/komodo_island	8.799	58	Komodo Island	Asia, Indonesia
+asia/pakistan/hunzavalley/gojal_valley/khyber	8.789	60	Khyber	Asia, Pakistan, Hunza valley, Gojal Valley
+southamerica/chile/puerto_natales	8.786	61	Puerto Natales	South America, Chile

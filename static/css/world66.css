@@ -1496,6 +1496,20 @@ img { max-width: 100%; height: auto; }
   opacity: 0.7;
 }
 .map-label--highlight .map-dot { background: var(--accent); width: 10px; height: 10px; }
+/* Region centroids on a country map — a distinct blue so they read as areas,
+   not destinations, and don't compete visually with the red city markers. */
+.map-dot--region {
+  background: #3a6ea5;
+  width: 9px;
+  height: 9px;
+}
+.leaflet-container .map-label--region a,
+.leaflet-container .map-label--region span {
+  color: #2c5580;
+  font-style: italic;
+  font-weight: 600;
+  opacity: 0.9;
+}
 
 /* Transparent hit-area wrapper for dot-only markers.
    top/left offset centers the 16px box on the [0,0] icon anchor point. */
@@ -1977,16 +1991,21 @@ img { max-width: 100%; height: auto; }
 }
 
 .dest-more {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px 20px;
-  padding-top: 8px;
+  /* A single flat destination list (a country with no regions) flows into
+     newspaper columns rather than one long wrapping row. */
+  columns: 5 170px;
+  column-gap: 32px;
+  padding-top: 18px;
   border-top: 1px solid var(--line);
 }
 
 .dest-more-link {
+  display: block;
+  break-inside: avoid;
+  margin-bottom: 6px;
+  line-height: 1.4;
   font-family: var(--label-font);
-  font-size: 14px;
+  font-size: 15px;
   color: var(--accent-ink);
   text-decoration: none;
 }
@@ -1995,7 +2014,77 @@ img { max-width: 100%; height: auto; }
   color: var(--red);
 }
 
+/* Issue #2221: destinations grouped by region (country pages) */
+.region-groups {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+  gap: 24px 32px;
+  padding-top: 20px;
+  border-top: 1px solid var(--line);
+}
+
+.region-group-title {
+  /* Reserve two lines and clamp, so a long region name wraps cleanly and every
+     group's city list starts at the same height (keeps the grid tidy). */
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  overflow-wrap: break-word;
+  min-height: 2.1em;
+  font-family: var(--label-font);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.4px;
+  line-height: 1.25;
+  text-transform: uppercase;
+  color: var(--ink);
+  text-decoration: none;
+  padding-bottom: 8px;
+  margin-bottom: 8px;
+  border-bottom: 1px solid var(--line);
+}
+
+a.region-group-title:hover {
+  color: var(--red);
+}
+
+.region-group-title--plain {
+  color: var(--muted-ink, var(--accent-ink));
+}
+
+.region-group-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.region-group-list li {
+  margin: 0 0 5px;
+  line-height: 1.35;
+}
+
+.region-group-list a {
+  font-size: 15px;
+  color: var(--accent-ink);
+  text-decoration: none;
+}
+
+.region-group-list a:hover {
+  color: var(--red);
+}
+
+.region-group-more a {
+  font-family: var(--label-font);
+  font-size: 13px;
+  color: var(--accent);
+}
+
 @media (max-width: 768px) {
+  .region-groups {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px 20px;
+  }
   .dest-grid {
     grid-template-columns: repeat(2, 1fr);
   }

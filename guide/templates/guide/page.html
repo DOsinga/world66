@@ -255,9 +255,9 @@
 {% endif %}
 {% endif %}{% endif %}
 
-{% if page.page_type == "location" and top_locations %}
+{% if page.page_type == "location" and top_locations or region_groups %}
 <div class="wide-block destinations-section">
-  <span class="section-kicker">Destinations</span>
+  <span class="section-kicker">Top destinations</span>
   <h2 class="section-block-heading">{{ page.title }}</h2>
   {% if top_locations %}
   <div class="dest-grid">
@@ -287,7 +287,27 @@
     {% endfor %}
   </div>
   {% endif %}
-  {% if more_locations %}
+  {% if region_groups %}
+  <div class="region-groups">
+    {% for g in region_groups %}
+    <div class="region-group">
+      {% if g.region %}
+      <a href="{{ g.region.get_absolute_url }}" class="region-group-title">{{ g.title }}</a>
+      {% else %}
+      <span class="region-group-title region-group-title--plain">{{ g.title }}</span>
+      {% endif %}
+      <ul class="region-group-list">
+        {% for loc in g.locations %}
+        <li><a href="{{ loc.get_absolute_url }}">{{ loc.title }}</a></li>
+        {% endfor %}
+        {% if g.more_count and g.region %}
+        <li class="region-group-more"><a href="{{ g.region.get_absolute_url }}">+{{ g.more_count }} more</a></li>
+        {% endif %}
+      </ul>
+    </div>
+    {% endfor %}
+  </div>
+  {% elif more_locations %}
   <div class="dest-more">
     {% for loc in more_locations %}
     <a href="{{ loc.get_absolute_url }}" class="dest-more-link">{{ loc.title }}</a>
@@ -452,7 +472,7 @@
   var fullMarkers = {% if markers_full_json != "[]" %}{{ markers_full_json }}{% elif markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat }},"lng":{{ lng }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
   var sideMap = null;
   if (fullMarkers.length && document.getElementById('sidebar-map')) {
-    sideMap = initLocationMap('sidebar-map', fullMarkers, {isPoi: {{ is_poi|yesno:"true,false" }}, bounds: {{ page_map_bounds }}});
+    sideMap = initLocationMap('sidebar-map', fullMarkers, {isPoi: {{ is_poi|yesno:"true,false" }}, bounds: {{ page_map_bounds }}, fitAll: {{ map_fit_all|yesno:"true,false" }}});
   }
 
 

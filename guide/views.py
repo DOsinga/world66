@@ -403,9 +403,11 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     if sum(1 for nb in neighbourhoods if nb.image_url) < 3:
         neighbourhoods = []
 
-    # Sort locations by score descending, attach image_url and word_cloud, split into top 9 and rest
-    locations = sorted(locations, key=lambda loc: float(loc.meta.get('score', 0) or 0), reverse=True)
-    for loc in locations:
+    # Attach image_url (+ card_children / word_cloud fallbacks) to a location card.
+    def _enrich_card(loc):
+        if getattr(loc, "_card_enriched", False):
+            return
+        loc._card_enriched = True
         loc_img = _image_path(loc, source_ref)
         loc.image_url = f'{loc.url_prefix}/content-image/{loc_img}' if loc_img else None
         loc.card_children = []
@@ -435,11 +437,93 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
                     loc.word_cloud_center = loc.title
                     loc.word_cloud_top = []
                     loc.word_cloud_bottom = [p.title for p in children]
+
+    # Sort locations by score descending, attach image_url and word_cloud, split into top 9 and rest
+    locations = sorted(locations, key=lambda loc: float(loc.meta.get('score', 0) or 0), reverse=True)
+    for loc in locations:
+        _enrich_card(loc)
     _CARD_THRESHOLD = 18
     _CARD_MAX = 9
     _top_n = len(locations) if len(locations) <= _CARD_THRESHOLD else _CARD_MAX
     top_locations = locations[:_top_n]
     more_locations = sorted(locations[_top_n:], key=lambda loc: loc.title)
+
+    # Issue #2221: on a country with regions, the cities you expect (e.g. Lyon,
+    # Xi'an) sit inside the regions and never surface. Show image cards for the
+    # top destinations across the whole country — direct or nested in a region —
+    # then a structured column list of every region's locations. List all when
+    # there aren't too many, else the top few per region with a "more" link.
+    region_groups = None
+    # Extra markers for the country map: region centroids in a distinct colour
+    # plus every city, so travellers see Tokyo/Kyoto, not just "Kanto".
+    country_map_markers = None
+    if page.meta.get("loc_type") == "country":
+        region_children = [l for l in locations if l.meta.get("loc_type") == "region"]
+        if region_children:
+            _score = lambda p: float(p.meta.get("score", 0) or 0)
+            direct_children = [l for l in locations if l.meta.get("loc_type") != "region"]
+            # Gather each region's own locations (the cities that were hidden).
+            gathered = []
+            region_locs = []
+            for r in sorted(region_children, key=_score, reverse=True):
+                _, r_locs, _ = r.children()
+                r_locs = sorted(
+                    (p for p in r_locs if p.page_type == "location"), key=_score, reverse=True)
+                gathered.append((r, r_locs))
+                region_locs.extend(r_locs)
+            # Cards = best destinations anywhere in the country (direct + nested).
+            candidates = sorted(direct_children + region_locs, key=_score, reverse=True)
+            _dt_n = len(candidates) if len(candidates) <= _CARD_THRESHOLD else _CARD_MAX
+            top_locations = candidates[:_dt_n]
+            for loc in top_locations:
+                _enrich_card(loc)
+            # List every location when the country is small enough; otherwise show
+            # the top few per region with a "more" link into the region.
+            total = len(direct_children) + len(region_locs)
+            _REGION_LIST_ALL_MAX = 60
+            per_limit = None if total <= _REGION_LIST_ALL_MAX else 5
+            _alpha = lambda p: p.title.lower()
+            region_groups = []
+            # The country's own cities/features (those not inside a region) get a
+            # group — list them all, including any also shown as a card, so the
+            # overview stays a complete index (e.g. Berlin under Germany).
+            if direct_children:
+                region_groups.append({"region": None, "title": page.title,
+                    "locations": sorted(direct_children, key=_alpha), "more_count": 0})
+            # Regions listed alphabetically; each region's cities/features too. When
+            # capped, keep the top few by score as the preview but show them A–Z.
+            for r, r_locs in sorted(gathered, key=lambda g: _alpha(g[0])):
+                selected = r_locs if per_limit is None else r_locs[:per_limit]
+                shown = sorted(selected, key=_alpha)
+                region_groups.append({"region": r, "title": r.title,
+                    "locations": shown, "more_count": len(r_locs) - len(selected)})
+            more_locations = []  # replaced by the grouped list below
+
+            # Map markers: region centroids (kind=region, distinct colour) plus
+            # every city (kind=city), so the map shows both the regional lay of
+            # the land and the actual destinations people search for.
+            country_map_markers = []
+            seen_xy = set()
+            for r in sorted(region_children, key=_score, reverse=True):
+                rm = _marker_from_page(r)
+                if rm:
+                    rm["kind"] = "region"
+                    seen_xy.add((rm["lat"], rm["lng"]))
+                    country_map_markers.append(rm)
+            # Only the top cities by score — a full country's worth of dots is a
+            # cluttered haze. Cities carry highlight=True so they render in the
+            # accent colour, visually distinct from the blue region centroids.
+            _MAP_CITY_LIMIT = 24
+            city_count = 0
+            for c in candidates:  # direct + nested cities, already score-sorted
+                if city_count >= _MAP_CITY_LIMIT:
+                    break
+                cm = _marker_from_page(c, highlight=True)
+                if cm and (cm["lat"], cm["lng"]) not in seen_xy:
+                    cm["kind"] = "city"
+                    seen_xy.add((cm["lat"], cm["lng"]))
+                    country_map_markers.append(cm)
+                    city_count += 1
 
     # For feature pages: cities/locations that tag into this feature via tags: [feature_slug]
     linked_locations = []
@@ -517,6 +601,14 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     _map_all = locations + (_all_linked if _all_linked else [])
     markers = _collect_markers(page, nav_pages, _map_top, pois, city_tag_index=city_tag_index)
     markers_full = _collect_markers(page, nav_pages, _map_all, pois, city_tag_index=city_tag_index)
+    # On a country with regions, show region centroids + all cities together.
+    if country_map_markers:
+        markers = country_map_markers
+        markers_full = country_map_markers
+    # Country and region maps show genuine child destinations (no stray day-trip
+    # POIs), so fit the map to all of them instead of trimming outliers — this
+    # keeps far-flung children like Sumatra or Okinawa on screen.
+    map_fit_all = page.meta.get("loc_type") in ("country", "region")
 
     breadcrumbs = page.breadcrumbs()
 
@@ -527,6 +619,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "locations": locations,
         "top_locations": top_locations,
         "more_locations": more_locations,
+        "region_groups": region_groups,
         "neighbourhood_items": neighbourhoods,
         "pois": pois,
         "parent_sections": parent_nav,   # sibling nav pages (section/poi sidebar)
@@ -545,6 +638,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "page_map_bounds": mark_safe(json.dumps(page_map_bounds)) if page_map_bounds else "null",
         "markers_json": mark_safe(json.dumps(markers)),
         "markers_full_json": mark_safe(json.dumps(markers_full)),
+        "map_fit_all": map_fit_all,
         "hero_image_url": hero_image_url,
         "hero_image_source": hero_image_source,
         "hero_image_license": hero_image_license,

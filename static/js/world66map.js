@@ -235,7 +235,8 @@ function initLocationMap(elementId, markers, options) {
 
     function _addDotMarker(m) {
         var highlight = !!m.highlight;
-        var dotCls = highlight ? ' map-dot--highlight' : ' map-dot--grey';
+        var dotCls = m.kind === 'region' ? ' map-dot--region'
+                   : highlight ? ' map-dot--highlight' : ' map-dot--grey';
         var mk = L.marker([m.lat, m.lng], {
             icon: L.divIcon({
                 className: 'map-label',
@@ -256,14 +257,16 @@ function initLocationMap(elementId, markers, options) {
 
     function _addLabelMarker(m, isSingle) {
         var highlight = !!m.highlight;
-        var cls = isSingle && highlight ? ' map-label--highlight' : '';
+        var isRegion = m.kind === 'region';
+        var cls = isRegion ? ' map-label--region' : (isSingle && highlight ? ' map-label--highlight' : '');
+        var dotCls = isRegion ? ' map-dot--region' : (highlight ? ' map-dot--highlight' : '');
         var inner = m.url
             ? '<a href="' + m.url + '">' + (m.name || '') + '</a>'
             : '<span>' + (m.name || '') + '</span>';
         var mk = L.marker([m.lat, m.lng], {
             icon: L.divIcon({
                 className: 'map-label' + cls,
-                html: '<i class="map-dot' + (highlight ? ' map-dot--highlight' : '') + '"></i>' + inner,
+                html: '<i class="map-dot' + dotCls + '"></i>' + inner,
                 iconSize: [0, 0], iconAnchor: [0, 0],
             }),
             zIndexOffset: 1000,
@@ -275,12 +278,14 @@ function initLocationMap(elementId, markers, options) {
         mk.addTo(group);
     }
 
-    // Greedy deconfliction — walk pool top-down, place label only if it doesn't overlap.
-    function _deconflict(pool, maxCount) {
+    // Greedy deconfliction — walk pool top-down, place label only if it doesn't
+    // overlap. `placed` (optional) seeds already-occupied boxes so callers can
+    // chain passes (e.g. regions first, then cities into whatever space is left).
+    function _deconflict(pool, maxCount, placed) {
         var PAD = 4;
         var PX_PER_CHAR = 7;
         var LINE_H = 18;
-        var placed = [];
+        placed = placed || [];
         var result = [];
         for (var i = 0; i < pool.length && result.length < maxCount; i++) {
             var m = pool[i];
@@ -299,6 +304,7 @@ function initLocationMap(elementId, markers, options) {
     function _renderMarkers(pool) {
         var bounds = map.getBounds();
         var inView = pool.filter(function(m) { return bounds.contains([m.lat, m.lng]); });
+        var hasRegions = pool.some(function(m) { return m.kind === 'region'; });
         inView.sort(function(a, b) {
             var hp = (b.highlight ? 1 : 0) - (a.highlight ? 1 : 0);
             return hp || (b.score || 0) - (a.score || 0);
@@ -308,7 +314,18 @@ function initLocationMap(elementId, markers, options) {
         var isSingle = pool.length === 1;
         // Only named markers are candidates for a label
         var named = inView.filter(function(m) { return !!m.name; });
-        var labelled = _deconflict(named, 10);
+        var labelled;
+        if (hasRegions) {
+            // Country map: label the top cities (Tokyo, Kyoto…) first so they
+            // always show, then fill remaining space with region names in their
+            // own colour. Regions still appear as blue dots even when unlabelled.
+            var placed = [];
+            var cityLabels   = _deconflict(named.filter(function(m){ return m.kind !== 'region'; }), 12, placed);
+            var regionLabels = _deconflict(named.filter(function(m){ return m.kind === 'region'; }), 12, placed);
+            labelled = cityLabels.concat(regionLabels);
+        } else {
+            labelled = _deconflict(named, 10);
+        }
         var labelledSet = {};
         labelled.forEach(function(m) { labelledSet[m.lat + ',' + m.lng] = true; });
         // Dots first (behind), then labels on top
@@ -335,7 +352,8 @@ function initLocationMap(elementId, markers, options) {
         if ((opts || {}).bounds) {
             map.fitBounds((opts).bounds, {animate: false});
         } else if (mkrs.length > 1) {
-            map.fitBounds((_trimmedBounds(mkrs) || grp.getBounds()).pad(0.15));
+            var b = (opts && opts.fitAll) ? grp.getBounds() : (_trimmedBounds(mkrs) || grp.getBounds());
+            map.fitBounds(b.pad(0.15));
         } else if (mkrs.length === 1) {
             var zoom = (opts || {}).isPoi ? 15 : 10;
             var center = L.latLng(mkrs[0].lat, mkrs[0].lng);
@@ -375,7 +393,8 @@ function initLocationMap(elementId, markers, options) {
                 map.invalidateSize();
                 _renderMarkers(_allMarkers);
                 if (group.getLayers().length > 1) {
-                    map.fitBounds((_trimmedBounds(_allMarkers) || group.getBounds()).pad(0.15));
+                    var b = options.fitAll ? group.getBounds() : (_trimmedBounds(_allMarkers) || group.getBounds());
+                    map.fitBounds(b.pad(0.15));
                 }
             });
         });
@@ -394,7 +413,8 @@ function initLocationMap(elementId, markers, options) {
             function refitMap() {
                 map.invalidateSize();
                 if (_allMarkers.length > 1) {
-                    map.fitBounds((_trimmedBounds(_allMarkers) || group.getBounds()).pad(0.15));
+                    var b = options.fitAll ? group.getBounds() : (_trimmedBounds(_allMarkers) || group.getBounds());
+                    map.fitBounds(b.pad(0.15));
                 } else if (_allMarkers.length === 1) {
                     map.setView([_allMarkers[0].lat, _allMarkers[0].lng], options.isPoi ? 15 : 10);
                 }

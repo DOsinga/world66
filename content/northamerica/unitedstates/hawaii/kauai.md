@@ -14,7 +14,7 @@ quick_facts:
   Nā Pali Coast: No road reaches it
   Waimea Canyon: 900 m deep
   Wettest Spot: Among Earth's rainiest
-score: 9.58
+score: 8.6
 snippet: Hawaiian island known as the Garden Isle, with the Na Pali Coast and Waimea
   Canyon.
 sources:

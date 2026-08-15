@@ -1,4 +1,8 @@
 ---
+image: bomas_of_kenya.jpg
+image_attribution: "Krg \n\n\n\n\n\nThis photo was taken by Karl Ragnar Gjer"
+image_license: CC BY-SA 3.0
+image_source: https://commons.wikimedia.org/wiki/File:Nairobi_Museum_village.JPG
 latitude: -1.33759
 longitude: 36.76867
 neighbourhood: Langata
@@ -6,14 +10,9 @@ score: 7.5
 snippet: Traditional villages and dance performances from 42 ethnic groups
 tags:
 - things_to_do
-- day_trips
 - langata
 title: Bomas of Kenya
 type: poi
-image: bomas_of_kenya.jpg
-image_source: https://commons.wikimedia.org/wiki/File:Nairobi_Museum_village.JPG
-image_license: CC BY-SA 3.0
-image_attribution: "Krg \n\n\n\n\n\nThis photo was taken by Karl Ragnar Gjer"
 ---
 
 Bomas of Kenya is a cultural centre in Langata that recreates traditional homesteads (*bomas*) of Kenya's major ethnic communities. The complex includes reconstructed villages representing the Kikuyu, Maasai, Luo, Kamba, Samburu, and other groups, each with appropriate architecture, furnishings, and explanatory material.

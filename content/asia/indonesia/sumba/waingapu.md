@@ -7,7 +7,8 @@ tags:
 - sight
 - neighbourhood
 title: Waingapu
-type: poi
+loc_type: city
+type: location
 ---
 
 Waingapu is the largest town in Sumba and the practical hub for exploring the east. It is not a destination in itself — the waterfront is modest, the colonial-era buildings unremarkable — but it is the most functional base on the island. The airport connects to Bali daily, accommodation ranges from basic guesthouses to decent hotels, and the market is the best place on Sumba to compare ikat cloth from multiple villages in a single morning.

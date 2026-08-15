@@ -17,7 +17,6 @@ type: Antiques
 
 
 
-[[rate it]](/europe/unitedkingdom/england/eastern_england/cambridge/shopping/cambridgeartcraftandantiquemarketsundays)
 
 ### Art & Craft Fair / Market, All Saints Garden
 
@@ -31,7 +30,6 @@ type: Markets
 
 
 
-[[rate it]](/europe/unitedkingdom/england/eastern_england/cambridge/shopping/allsaintsgardencraftfairsaturdays)
 
 address: Opposite Trinity College, Trinity Street, Cambridge, CB2 1TW
 
@@ -43,7 +41,7 @@ url: [www.cambridge-art-craft.co.uk](http://www.cambridge-art-craft.co.uk)
 
 email: andy.white@cambridge.gov.uk
 
-### [Grafton Shopping Centre](/europe/unitedkingdom/england/eastern_england/cambridge/shopping_grafton_shopping_c)
+### [Grafton Shopping Centre](/europe/unitedkingdom/england/east_of_england/cambridge/shopping_grafton_shopping_c)
 
 The Grafton Centre is Cambridge's latest shopping extravaganza! Containing a good selection of clothing stores, it is a 'must visit' area when shopping in Cambridge. It also has plenty of coffee stops for those parched after the short walk from the city centre! (an environmentaly "clean" bus runs between the city centre and the Grafton for free!)
 
@@ -53,7 +51,6 @@ type: Shopping centers and malls
 
 
 
-[[rate it]](/europe/unitedkingdom/england/eastern_england/cambridge/shopping/grafton_shopping_c)
 
 zipcode: CB1 1PS
 

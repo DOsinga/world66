@@ -5,7 +5,7 @@ latitude: 68.1548
 longitude: 13.9993
 snippet: Dramatic coastal scenery from Stamsund to Svolvær
 tags:
-- sights
+- things_to_do
 title: Day 4 - Lofotens
 type: poi
 score: 9.4

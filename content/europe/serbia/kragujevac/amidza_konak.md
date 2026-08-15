@@ -11,4 +11,4 @@ score: 7.7
 
 The Amidža Konak is the centrepiece of what survives of Kragujevac's brief life as Serbia's first modern capital. The single-storey Ottoman-style house, with its wide eaves and inner courtyard, stands in a small park with the foundations of the old court complex visible around it. Inside is a museum branch showing 19th-century furniture, weapons, and documents from the early Serbian principality.
 
-It is a small but charming visit — twenty minutes inside, and then a stroll through the surrounding park with its memorial to the founding of modern Serbia. Combine it with the adjoining [Princely Serbian Theatre](/europe/serbiaandmontenegro/kragujevac/princely_serbian_theatre) and the [National Museum of Šumadija](/europe/serbiaandmontenegro/kragujevac/national_museum_sumadija).
+It is a small but charming visit — twenty minutes inside, and then a stroll through the surrounding park with its memorial to the founding of modern Serbia. Combine it with the adjoining [Princely Serbian Theatre](/europe/serbia/kragujevac/princely_serbian_theatre) and the [National Museum of Šumadija](/europe/serbia/kragujevac/national_museum_sumadija).

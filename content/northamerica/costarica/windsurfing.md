@@ -1,15 +1,13 @@
 ---
 done:
   poi_cleanup: '2026-04-20'
-latitude: 10.498
-longitude: -84.908
 score: 7.6
 snippet: World-class windsurfing with steady cross-shore winds
 tags:
 - things_to_do
 - outdoor
 title: Windsurfing on Lake Arenal
-type: poi
+type: theme
 ---
 
 Lake Arenal, a man-made reservoir near the town of Tilarán, is one of the top windsurfing spots in the Americas. Steady thermal winds of 30 to 45 mph funnel through the gap between the Arenal Volcano and the Tilarán mountains from November through April, making conditions reliable and strong.

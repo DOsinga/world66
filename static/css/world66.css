@@ -1615,7 +1615,7 @@ img { max-width: 100%; height: auto; }
 
 /* Sections wrap — "Explore" heading + card grid */
 .sections-row-wrap {
-  padding-top: 48px;
+  padding-top: 24px;
   padding-bottom: 0;
 }
 
@@ -2075,6 +2075,7 @@ img { max-width: 100%; height: auto; }
 /* --- Lists: featured-list callout on a location page --- */
 
 .featured-list-section {
+  margin-top: 40px;
   margin-bottom: 32px;
 }
 
@@ -3558,7 +3559,7 @@ img { max-width: 100%; height: auto; }
   }
 
   .sections-row-wrap {
-    padding-top: 32px;
+    padding-top: 20px;
   }
 
   /* --- POI list --- */

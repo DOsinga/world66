@@ -3,7 +3,7 @@ title: "Day Trips"
 type: section
 linked_locations:
   - northamerica/costarica/sanjose
-  - northamerica/costarica/lafortuna
+  - northamerica/costarica/lafortunaarenalvolcano
 ---
 
 Heredia's position in the Central Valley makes it an excellent base for day excursions. [San José](/northamerica/costarica/sanjose) is 30 minutes away by bus or car — close enough for a morning at the Museo Nacional or the Mercado Central without committing to staying in the capital.

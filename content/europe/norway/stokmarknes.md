@@ -13,6 +13,8 @@ longitude: 14.913348
 score: 7.6
 snippet: Small Vesterålen town on Hadseløya, birthplace of the Hurtigruten coastal
   steamer service.
+tags:
+  - vesteralen
 title: Stokmarknes
 type: location
 ---
@@ -21,4 +23,4 @@ Stokmarknes is a small town on the island of Hadseløya in the Vesterålen archi
 
 The [Hurtigruten Museum](/europe/norway/stokmarknes/hurtigruten_museum) is the main attraction, telling the story of the coastal service with models, photographs, and one of the original ships — the MS Finnmarken is preserved in a glass-walled structure next to the main building. Just east of town, [Hadsel Church](/europe/norway/stokmarknes/hadsel_church) is an octagonal wooden building from 1824, on a site of worship that traces back to the 14th century; it served as a polling station during Norway's first constitutional elections in 1814.
 
-Beyond the town itself, Stokmarknes is a quiet base for exploring the Vesterålen islands — a less touristed alternative to the neighbouring Lofoten, with equally dramatic scenery. [Whale-watching safaris](/europe/norway/stokmarknes/whale_watching_vesteralen) depart from Andenes to the north, where sperm whales feed year-round in the deep submarine canyons offshore. The [sea bird colony at Bleiksøya](/europe/norway/stokmarknes/vesteralen_birdwatching), also on Andøya, holds hundreds of thousands of Atlantic puffins during the summer breeding season.
+Beyond the town itself, Stokmarknes is a quiet base for exploring the [Vesterålen](/europe/norway/vesteralen) islands — a less touristed alternative to the neighbouring Lofoten, with equally dramatic scenery. [Whale-watching safaris](/europe/norway/andenes/whale_watching_vesteralen) and the [Bleiksøya seabird colony](/europe/norway/andenes/vesteralen_birdwatching) are both based around [Andenes](/europe/norway/andenes), about 85 km north on Andøya.

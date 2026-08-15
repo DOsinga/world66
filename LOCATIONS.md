@@ -13,6 +13,7 @@ Every page with `type: location` also carries a `loc_type` field that describes 
 | `region` | The grouping level below a country in large countries. For the US these are states; elsewhere they may be editorial or administrative groupings. | `northamerica/unitedstates/california`, `europe/france/south`, `europe/italy/tuscany` |
 | `city` | Cities, towns, villages — actual settlements | `europe/france/paris`, `asia/india/jaipur` |
 | `feature` | A named area or attraction that is a destination in itself but not a settlement: national parks, gorges, coastlines, named tourist regions, archipelagos, archaeological sites. | `europe/italy/liguria/cinque_terre`, `northamerica/unitedstates/wyoming/yellowstone`, `asia/cambodia/angkorwat` |
+| `island` | An island with more than one real destination on it — a main town plus outlying villages, or several towns of roughly equal weight. Works exactly like `feature`: it can have its own POIs, and its towns link to it via `tags`, never by nesting. Use plain `city` instead for an island that is really just one settlement. | `europe/croatia/hvar`, `europe/greece/cyclades/santorini` |
 
 ## Hierarchy
 
@@ -45,6 +46,8 @@ tags:
 ```
 
 If a location is tagged `loc_type: region` but sits inside another region, it is usually a feature. The one-level region rule means places like Loire Valley, Côte d'Azur, Ardèche, and Cinque Terre should be features unless they are the country's top-level grouping.
+
+**Never mix nesting and tagging for the same parent.** A `region` contains its child cities and features as files in its own directory. A `feature` or `island` never does — its children are always siblings elsewhere in the hierarchy, connected only by `tags`. Don't let a `type: location` file live inside a feature's or island's own directory just because it happens to be geographically close; that directory is for the feature/island's own POIs and sections only. If you find one there, it means either the child was nested under the old region model before the parent was retyped, or someone reached for the nearby directory as a shortcut — either way, move the location out to its correct place in the hierarchy and add the `tags` link instead of leaving it nested. A parent that mixes both patterns makes it unclear, at a glance, whether a given child is discoverable through the normal tag-based mechanism or not.
 
 City-states (Monaco, Vatican City, Singapore) are typed `country` at the country-depth file and `city` only if they have a separate city page below.
 

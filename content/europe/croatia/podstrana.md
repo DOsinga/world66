@@ -12,6 +12,8 @@ longitude: 16.561561
 score: 7.43
 snippet: Dalmatian seaside community south of Split, strung along pebble beaches beneath
   pine woods and low hills.
+tags:
+- dalmatia
 title: Podstrana
 type: location
 ---

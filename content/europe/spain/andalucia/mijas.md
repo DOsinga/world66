@@ -11,6 +11,8 @@ longitude: -4.637519
 score: 8.55
 snippet: Whitewashed Andalusian hill village above the Costa del Sol, shaped by views
   and carefully kept streets.
+tags:
+- costa_del_sol
 title: Mijas
 type: location
 ---

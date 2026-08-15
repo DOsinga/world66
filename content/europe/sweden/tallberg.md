@@ -7,6 +7,8 @@ latitude: 60.8201
 loc_type: city
 longitude: 15.007
 score: 6.6
+tags:
+  - siljan_area
 snippet: Dalarna village above Lake Siljan, known for red timber houses and midsummer tradition.
 sources:
 - https://en.wikivoyage.org/wiki/T%C3%A4llberg

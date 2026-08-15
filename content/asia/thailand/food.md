@@ -17,7 +17,7 @@ Thai cooking balances four primary tastes — hot, sour, salty, and sweet — an
 
 **Som Tam** — green papaya salad, shredded and pounded with chilli, lime, fish sauce, and palm sugar. The Isaan version often includes fermented fish sauce and is extremely spicy.
 
-**Khao Soi** — a northern Thai specialty not to miss in [Chiang Mai](/asia/thailand/chiangmai): egg noodles in a rich, slightly spicy coconut curry broth, topped with crispy fried noodles. Served with pickled mustard greens and lime.
+**Khao Soi** — a northern Thai specialty not to miss in [Chiang Mai](/asia/thailand/northernthailand/chiangmai): egg noodles in a rich, slightly spicy coconut curry broth, topped with crispy fried noodles. Served with pickled mustard greens and lime.
 
 **Pad Krapao** — minced pork or chicken stir-fried with holy basil and chilli, served over rice with a fried egg. The definitive Thai weekday lunch.
 

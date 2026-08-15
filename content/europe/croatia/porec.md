@@ -14,6 +14,8 @@ longitude: 13.5957
 score: 8.77
 snippet: Istrian coastal town with a Roman street grid and the mosaic-filled Euphrasian
   Basilica.
+tags:
+- istria
 title: Porec
 type: location
 ---

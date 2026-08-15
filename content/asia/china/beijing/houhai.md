@@ -1,11 +1,15 @@
 ---
-title: "Houhai Lake District (Shichahai)"
+title: Houhai Lake District (Shichahai)
 type: neighbourhood
 tags:
-  - things_to_do
-  - neighbourhood
-latitude: 39.9380
-longitude: 116.3740
+- things_to_do
+- neighbourhood
+latitude: 39.938
+longitude: 116.374
+image: houhai.jpg
+image_source: https://commons.wikimedia.org/wiki/File:Beijing_Shichahai.jpg
+image_license: CC BY-SA 2.0
+image_attribution: FANG Chen
 ---
 
 The three connected lakes — Qianhai, Houhai, and Xihai — that form the Shichahai area in the northwest of the old city were once the terminus of the Grand Canal and the water supply for the imperial city. The surrounding neighbourhood of willow-lined banks, historic mansions, and narrow hutong lanes is one of the most atmospheric parts of central Beijing. In summer, the lake shores fill with restaurants, bars, and boating; in winter the lakes freeze and become an ice-skating rink.

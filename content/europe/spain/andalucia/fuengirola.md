@@ -12,6 +12,8 @@ longitude: -4.623397
 score: 8.1
 snippet: Costa del Sol resort town with a seven-kilometre beach and a hilltop Arab
   fortress
+tags:
+- costa_del_sol
 title: Fuengirola
 type: location
 ---

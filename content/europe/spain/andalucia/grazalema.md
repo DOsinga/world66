@@ -13,6 +13,8 @@ longitude: -5.366074
 score: 8.43
 snippet: White Andalusian mountain village in a rainy sierra of Spanish fir forest
   and limestone trails
+tags:
+- whitevillages
 title: Grazalema
 type: location
 ---

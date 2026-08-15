@@ -13,6 +13,8 @@ snippet: Andalusian sherry town at the Guadalquivir mouth, known for salty manza
   and Doñana wetlands.
 sources:
 - https://en.wikipedia.org/wiki/Sanl%C3%BAcar_de_Barrameda
+tags:
+- costa_de_la_luz
 title: Sanlúcar de Barrameda
 type: location
 ---

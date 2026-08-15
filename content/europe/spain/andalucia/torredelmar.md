@@ -9,6 +9,8 @@ loc_type: city
 longitude: -4.0946
 score: 7.75
 snippet: Unpretentious Costa del Sol beach resort at the mouth of the Vélez river.
+tags:
+- costa_del_sol
 title: Torre del Mar
 type: location
 ---

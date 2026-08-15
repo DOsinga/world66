@@ -21,4 +21,4 @@ type: location
 
 The star attraction in Halifax is the **Piece Hall**, a magnificent 18th-century cloth hall built around a huge courtyard — the only surviving example of its kind in Britain. The "pieces" were lengths of wool brought here for sale, and the building now houses independent shops, a gallery, and regular markets in the courtyard. The **Eureka National Children's Museum** is excellent for families, though not cheap.
 
-Hebden Bridge, further up the valley, has reinvented itself as an artsy, alternative town popular with walkers and weekenders from Leeds and Manchester. Todmorden, at the far end, is covered under [South Pennines](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire/south_pennines_yo).
+Hebden Bridge, further up the valley, has reinvented itself as an artsy, alternative town popular with walkers and weekenders from Leeds and Manchester. Todmorden, at the far end, is covered under [South Pennines](/europe/unitedkingdom/england/yorkshire/south_pennines_yo).

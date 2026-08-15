@@ -12,6 +12,8 @@ longitude: -3.879016
 score: 8.7
 snippet: Clifftop Costa del Sol town with whitewashed lanes, small coves, and a vast
   cave system nearby.
+tags:
+- costa_del_sol
 title: Nerja
 type: location
 ---

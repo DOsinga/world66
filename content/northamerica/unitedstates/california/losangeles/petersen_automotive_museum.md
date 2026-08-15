@@ -1,12 +1,16 @@
 ---
 title: Petersen Automotive Museum
 type: poi
-latitude: 34.0623
-longitude: -118.3614
-tags: [things_to_do, sight, museum]
-score: 7.6
+latitude: 34.0623150
+longitude: -118.3611914
+tags:
+  - things_to_do
+  - museum
+  - miracle_mile
+score: 7.5
+snippet: Car museum wrapped in ribbons of red steel, celebrating LA's automobile culture
 ---
 
-A car museum on Wilshire Boulevard with a façade of red ribbons of steel wrapped over a silver box, opened in its current form in 2015. The collection includes one-off custom cars, race cars, film cars (the original Batmobile, the *Back to the Future* DeLorean), and a curated parade of design history.
+Impossible to miss on the corner of Wilshire and Fairfax — the building is sheathed in swooping ribbons of stainless steel over a red skin — the Petersen tells the story of the automobile and Los Angeles's defining relationship with it. Three floors range across early classics, hot rods and customs, movie and celebrity cars, and rotating exhibits of supercars and design.
 
-A separate Vault Tour gives access to the basement collection of around 250 more cars, often the most interesting part of the museum. Allow at least three hours.
+The real treasure is downstairs in the Vault, a guided tour (booked separately) through the museum's reserve collection of rare and historically significant vehicles. Even for non-enthusiasts it is an engaging couple of hours, and a natural pairing with LACMA and the tar pits across the street.

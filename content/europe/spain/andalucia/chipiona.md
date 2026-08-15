@@ -12,6 +12,8 @@ longitude: -6.434822
 score: 7.84
 snippet: Atlantic beach town near the Guadalquivir mouth, known for seafood and Spain's
   tallest lighthouse.
+tags:
+- costa_de_la_luz
 title: Chipiona
 type: location
 ---

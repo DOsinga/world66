@@ -12,6 +12,8 @@ longitude: -6.8278
 score: 7.3
 snippet: Low-key Andalusian beach resort near Doñana, with pine-backed sands and sandstone
   cliffs.
+tags:
+- costa_de_la_luz
 title: Mazagón
 type: location
 ---

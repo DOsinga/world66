@@ -1,12 +1,13 @@
 ---
 address: 31 Rue Juliette Dodu, 75010 Paris
-latitude: 48.873038
-longitude: 2.369249
+latitude: 48.8758843
+longitude: 2.3683557
 opening_hours: Mon–Fri 8am–11pm; Sat–Sun 9am–11pm
-snippet: Third-wave coffee roaster and cafe at the corner of Canal Saint-Martin
+snippet: Third-wave coffee roaster and cafe a few streets east of the Canal Saint-Martin
 tags:
 - bars_and_cafes
 - bar
+- canal_saint_martin
 title: La Fontaine de Belleville
 type: poi
 url: www.cafebelleville.com

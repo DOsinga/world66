@@ -39,13 +39,13 @@ India is not a comfortable country to travel in. Heat, dust, bureaucracy, scams 
 ## States and Regions
 
 - [Andhra Pradesh](/asia/india/andhrapradesh)
+- [Arunachal Pradesh](/asia/india/arunachalpradesh)
 - [Assam](/asia/india/assam)
 - [Bihar](/asia/india/bihar)
 - [Goa](/asia/india/goa)
 - [Gujarat](/asia/india/gujarat)
 - [Haryana](/asia/india/haryana)
 - [Himachal Pradesh](/asia/india/himachalpradesh)
-- [Jammu and Kashmir](/asia/india/jammuandkashmir)
 - [Jharkhand](/asia/india/jharkhand)
 - [Karnataka](/asia/india/karnataka)
 - [Kerala](/asia/india/kerala)
@@ -55,7 +55,7 @@ India is not a comfortable country to travel in. Heat, dust, bureaucracy, scams 
 - [Meghalaya](/asia/india/meghalaya)
 - [Mizoram](/asia/india/mizoram)
 - [Nagaland](/asia/india/nagaland)
-- [Orissa](/asia/india/orissa)
+- [Odisha](/asia/india/orissa)
 - [Punjab](/asia/india/punjab)
 - [Rajasthan](/asia/india/rajasthan)
 - [Sikkim](/asia/india/sikkim)
@@ -64,6 +64,13 @@ India is not a comfortable country to travel in. Heat, dust, bureaucracy, scams 
 - [Uttar Pradesh](/asia/india/uttarpradesh)
 - [Uttaranchal](/asia/india/uttaranchal)
 - [West Bengal](/asia/india/westbengal)
+
+## Union Territories
+
+- [Andaman and Nicobar Islands](/asia/india/andamanandnicobarislands)
+- [Dadra and Nagar Haveli and Daman and Diu](/asia/india/dadraandnagarhaveli)
+- [Jammu and Kashmir](/asia/india/jammuandkashmir)
+- [Lakshadweep](/asia/india/lakshadweep)
 
 ## Cities
 

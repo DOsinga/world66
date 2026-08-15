@@ -12,7 +12,7 @@ quick_facts:
   Metro Population: ~30 million
   New Capital: Being built on Borneo
   Sinking: Several cm a year
-score: 7.34
+score: 8.2
 snippet: Indonesian megacity where colonial Batavia, national monuments, canals, and
   relentless traffic collide
 tip: Jakarta is a vast, traffic-clogged megacity that is literally sinking — parts

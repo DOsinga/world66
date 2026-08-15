@@ -470,21 +470,28 @@
 </div>
 {% endif %}
 
-{% if featured_list %}
+{% if location_lists %}
 <div class="wide-block featured-list-section">
-  <a href="{{ featured_list.get_absolute_url }}" class="featured-list-card">
-    {% if featured_list.image_url %}<img src="{{ featured_list.image_url }}" alt="{{ featured_list.title }}">{% endif %}
-    <div class="featured-list-veil"></div>
-    <div class="featured-list-txt">
-      <span class="featured-list-kicker">List</span>
-      <div class="featured-list-name">{{ featured_list.title }}</div>
-      {% if featured_list.meta.snippet %}<p class="featured-list-snippet">{{ featured_list.meta.snippet }}</p>{% endif %}
-    </div>
-  </a>
-  {% if other_lists %}
-  <div class="more-lists-row">
-    <span class="more-lists-label">More lists:</span>
-    {% for l in other_lists %}<a href="{{ l.get_absolute_url }}">{{ l.title }}</a>{% if not forloop.last %}, {% endif %}{% endfor %}
+  <span class="section-kicker">Guide</span>
+  <h2 class="section-block-heading">Travel Inspiration</h2>
+  <div class="featured-list-carousel" id="featured-list-carousel">
+    {% for l in location_lists %}
+    <a href="{{ l.get_absolute_url }}" class="featured-list-card{% if forloop.first %} is-active{% endif %}">
+      {% if l.image_url %}<img src="{{ l.image_url }}" alt="{{ l.title }}">{% endif %}
+      <div class="featured-list-veil"></div>
+      <div class="featured-list-txt">
+        <span class="featured-list-kicker">List</span>
+        <div class="featured-list-name">{{ l.title }}</div>
+        {% if l.meta.snippet %}<p class="featured-list-snippet">{{ l.meta.snippet }}</p>{% endif %}
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+  {% if location_lists|length > 1 %}
+  <div class="featured-list-dots" id="featured-list-dots">
+    {% for l in location_lists %}
+    <button type="button" class="featured-list-dot{% if forloop.first %} is-active{% endif %}" data-index="{{ forloop.counter0 }}" aria-label="Show list {{ forloop.counter }} of {{ location_lists|length }}: {{ l.title }}"></button>
+    {% endfor %}
   </div>
   {% endif %}
 </div>
@@ -505,6 +512,37 @@
 
 
   {% endif %}
+
+  var carousel = document.getElementById('featured-list-carousel');
+  var dots = document.getElementById('featured-list-dots');
+  if (carousel && dots) {
+    var slides = carousel.querySelectorAll('.featured-list-card');
+    var dotEls = dots.querySelectorAll('.featured-list-dot');
+    var current = 0;
+    var timer = null;
+
+    function show(index) {
+      current = (index + slides.length) % slides.length;
+      slides.forEach(function(s, i) { s.classList.toggle('is-active', i === current); });
+      dotEls.forEach(function(d, i) { d.classList.toggle('is-active', i === current); });
+    }
+    function next() { show(current + 1); }
+    function start() { stop(); timer = window.setInterval(next, 5000); }
+    function stop() { if (timer) { window.clearInterval(timer); timer = null; } }
+
+    dotEls.forEach(function(dot, i) {
+      dot.addEventListener('click', function(e) {
+        e.preventDefault();
+        show(i);
+        start();
+      });
+    });
+    carousel.addEventListener('mouseenter', stop);
+    carousel.addEventListener('mouseleave', start);
+    carousel.addEventListener('focusin', stop);
+    carousel.addEventListener('focusout', start);
+    start();
+  }
 })();
 </script>
 {% endblock %}

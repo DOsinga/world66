@@ -2078,15 +2078,31 @@ img { max-width: 100%; height: auto; }
   margin-bottom: 32px;
 }
 
-.featured-list-card {
+.featured-list-carousel {
   position: relative;
-  display: block;
   aspect-ratio: 21 / 9;
   min-height: 180px;
   border-radius: 8px;
   overflow: hidden;
+  background: var(--ink);
+}
+
+.featured-list-card {
+  position: absolute;
+  inset: 0;
+  display: block;
   text-decoration: none;
   background: var(--ink);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 500ms ease;
+  z-index: 0;
+}
+
+.featured-list-card.is-active {
+  opacity: 1;
+  visibility: visible;
+  z-index: 1;
 }
 
 .featured-list-card img {
@@ -2134,20 +2150,31 @@ img { max-width: 100%; height: auto; }
   opacity: 0.85;
 }
 
-.more-lists-row {
-  margin-top: 10px;
-  font-size: 13px;
-  color: var(--mute);
+.featured-list-dots {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 12px;
 }
 
-.more-lists-row a {
-  color: var(--accent);
+.featured-list-dot {
+  width: 8px;
+  height: 8px;
+  padding: 0;
+  border: none;
+  border-radius: 50%;
+  background: var(--line-2);
+  cursor: pointer;
+  transition: background 150ms ease, transform 150ms ease;
 }
 
-.more-lists-label {
-  font-weight: 600;
-  color: var(--ink);
-  margin-right: 4px;
+.featured-list-dot:hover {
+  background: var(--mute);
+}
+
+.featured-list-dot.is-active {
+  background: var(--accent);
+  transform: scale(1.2);
 }
 
 /* --- Lists: "featured on" badge on a POI/location page --- */

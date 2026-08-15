@@ -548,21 +548,20 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         markers = markers_full = [m for m in (_marker_from_page(p) for p in list_item_pages) if m]
 
     # A location page (city/region/country/feature) may have one or more
-    # type=list pages living in its own directory — feature the best-scored
-    # one, link the rest.
-    featured_list = None
-    other_lists = []
+    # type=list pages living in its own directory. A single list gets a
+    # static callout; more than one autoplays as a carousel, best-scored
+    # first — every slide needs its own resolved cover image, not just the
+    # top one.
+    location_lists = []
     if page.page_type == "location":
-        found_lists = page.find_lists()
-        if found_lists:
-            featured_list = found_lists[0]
-            featured_img = _image_path(featured_list, source_ref)
-            if featured_img:
-                featured_list.image_url = f"{featured_list.url_prefix}/content-image/{featured_img}"
+        for found in page.find_lists():
+            img = _image_path(found, source_ref)
+            if img:
+                found.image_url = f"{found.url_prefix}/content-image/{img}"
             else:
-                cover = _list_cover_image(featured_list, source_ref, url_revision=url_revision)
-                featured_list.image_url = cover["url"] if cover else None
-            other_lists = found_lists[1:]
+                cover = _list_cover_image(found, source_ref, url_revision=url_revision)
+                found.image_url = cover["url"] if cover else None
+            location_lists.append(found)
 
     # "Featured on" back-references: purely for display, manually kept in
     # sync with the list's own items: — not derived from anything.
@@ -613,8 +612,7 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
         "more_linked_locations": more_linked_locations,
         "url_prefix": page.url_prefix,
         "list_items": list_items,
-        "featured_list": featured_list,
-        "other_lists": other_lists,
+        "location_lists": location_lists,
         "poi_lists": poi_lists,
     })
 

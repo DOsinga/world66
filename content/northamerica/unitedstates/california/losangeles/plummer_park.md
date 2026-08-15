@@ -2,13 +2,14 @@
 title: Plummer Park
 type: poi
 tags:
-  - things_to_do
-  - sight
-  - park
+- things_to_do
+- sight
+- park
+- westhollywood
 latitude: 34.0931
 longitude: -118.3511
 sources:
-  - https://en.wikipedia.org/wiki/Plummer_Park
+- https://en.wikipedia.org/wiki/Plummer_Park
 score: 5.8
 ---
 

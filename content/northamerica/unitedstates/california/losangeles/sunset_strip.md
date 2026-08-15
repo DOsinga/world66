@@ -2,12 +2,13 @@
 title: Sunset Strip
 type: poi
 tags:
-  - things_to_do
-  - neighbourhood
+- things_to_do
+- neighbourhood
+- westhollywood
 latitude: 34.0975
-longitude: -118.3780
+longitude: -118.378
 sources:
-  - https://en.wikipedia.org/wiki/Sunset_Strip
+- https://en.wikipedia.org/wiki/Sunset_Strip
 score: 9.0
 ---
 

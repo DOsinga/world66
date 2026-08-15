@@ -2,12 +2,13 @@
 title: Book Soup
 type: poi
 tags:
-  - shopping
-  - market
+- shopping
+- market
+- westhollywood
 latitude: 34.0907
 longitude: -118.3858
 sources:
-  - https://en.wikipedia.org/wiki/Book_Soup
+- https://en.wikipedia.org/wiki/Book_Soup
 score: 8.2
 ---
 

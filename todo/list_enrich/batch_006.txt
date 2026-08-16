@@ -1,0 +1,4 @@
+northamerica/puertorico
+africa/algeria
+europe/finland
+africa/tunisia

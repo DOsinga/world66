@@ -1,0 +1,4 @@
+asia/cambodia
+asia/china
+asia/philippines
+europe/switzerland

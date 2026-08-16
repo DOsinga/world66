@@ -1,0 +1,4 @@
+africa/southafrica
+southamerica/ecuador
+asia/turkey
+europe/iceland

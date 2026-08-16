@@ -1,0 +1,4 @@
+asia/taiwan
+europe/austria
+northamerica/canada
+southamerica/chile

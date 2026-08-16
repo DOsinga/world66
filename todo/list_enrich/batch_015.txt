@@ -1,0 +1,4 @@
+asia/myanmar
+europe/greece
+europe/estonia
+northamerica/unitedstates

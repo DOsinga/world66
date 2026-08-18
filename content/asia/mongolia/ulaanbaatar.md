@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:View_of_Ulaanbaatar_01.jpg
 latitude: 47.9184
 loc_type: city
 longitude: 106.9177
-score: 5.161
+score: 5.141
 title: Ulaanbaatar
 type: location
 snippet: Mongolia's high-altitude capital, combining Soviet blocks, modern towers,
   ger districts, and surrounding sacred mountains.
-heritage: 4.222
-vibrancy: 5.257
-nature: 4.913
-off_the_beaten_track: 5.461
+heritage: 4.917
+vibrancy: 5.113
+nature: 5.213
+off_the_beaten_track: 5.517
 ---
 
 Ulaanbaatar — UB to everyone who goes there — is the capital of Mongolia and home to about half the country's entire population: 1.5 million people in a basin at 1,350 metres, surrounded by four sacred mountains and some of the emptiest steppe on earth. It is a strange, compelling city — part Soviet concrete, part glass-and-steel boom town, part ger (yurt) district where nomadic families who have moved to the city live in fenced compounds of traditional felt tents within sight of the high-rises. In winter it is one of the coldest capitals in the world, regularly hitting -30°C; in summer it is warm, dusty, and alive with the preparations for the Naadam festival.

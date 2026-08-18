@@ -17,7 +17,7 @@ quick_facts:
   Founded: 969 AD
   Metro Population: 22 million
   Nickname: City of a Thousand Minarets
-score: 7.299
+score: 7.33
 snippet: Egyptian capital where the Nile meets the Sahara edge, layered with ancient
   and Islamic landmarks.
 tip: Cairo is chaotic, vast and wonderful — the Pyramids of Giza are technically a
@@ -27,10 +27,10 @@ tip: Cairo is chaotic, vast and wonderful — the Pyramids of Giza are technical
   everything.
 title: Cairo
 type: location
-heritage: 7.337
-vibrancy: 7.34
-nature: 0.337
-off_the_beaten_track: 4.424
+heritage: 7.232
+vibrancy: 7.423
+nature: 2.339
+off_the_beaten_track: 3.828
 ---
 
 Cairo is one of the great cities of the world — chaotic, overwhelming, beautiful, and ancient all at once. Africa's largest city by population, with somewhere between 20 and 25 million people in the greater metropolitan area, it sits where the Nile meets the edge of the Sahara, and it has been a centre of power for five thousand years. The Pyramids of Giza are technically in the adjacent city of Giza, but you can see them from the city limits, and they are the reason most visitors come.

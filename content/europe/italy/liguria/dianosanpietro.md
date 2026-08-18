@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Diano_Marina_panorama.jpg
 latitude: 43.931424
 loc_type: city
 longitude: 8.071651
-score: 4.061
+score: 4.165
 snippet: Ligurian hill village above Diano Marina, overlooking the coast from olive
   groves and old mule tracks.
 sources:
 - https://en.wikipedia.org/wiki/Diano_San_Pietro
 title: Diano San Pietro
 type: location
-heritage: 2.881
-vibrancy: 1.921
-nature: 5.074
-off_the_beaten_track: 3.146
+heritage: 3.069
+vibrancy: 1.905
+nature: 5.155
+off_the_beaten_track: 3.095
 ---
 
 Diano San Pietro is a small village in the hills above Diano Marina on the Ligurian coast. The village sits at around 200 metres elevation, offering views over the sea and the coastal strip below, and has the quiet, unhurried character typical of the Ligurian hinterland. It is primarily of interest as a base for walking the local hill trails or as a quieter alternative to staying on the coast itself.

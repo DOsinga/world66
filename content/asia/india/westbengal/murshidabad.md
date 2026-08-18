@@ -4,13 +4,13 @@ type: location
 loc_type: city
 latitude: 24.1833
 longitude: 88.2667
-score: 4.883
+score: 4.649
 snippet: Former Bengal nawab capital on the Bhagirathi, dense with palaces, mosques,
   and tombs.
-heritage: 6.173
-vibrancy: 3.138
-nature: 2.657
-off_the_beaten_track: 4.511
+heritage: 5.99
+vibrancy: 2.573
+nature: 2.742
+off_the_beaten_track: 4.368
 ---
 
 Murshidabad was once one of the great power centres of Bengal. The nawabs ruled from here before British power shifted the centre of gravity to Calcutta, and the city still has the ruins, palaces, mosques, gates, cannons, and riverbank tombs to prove it.

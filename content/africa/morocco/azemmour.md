@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Azemmour_from_Oum_Er-Rbia.
 latitude: 33.274983
 loc_type: city
 longitude: -8.343252
-score: 4.569
+score: 4.107
 snippet: Moroccan Atlantic town where Portuguese ramparts enclose a medina above the
   Oum er-Rbia
 title: Azemmour
 type: location
-heritage: 5.474
-vibrancy: 2.149
-nature: 3.968
-off_the_beaten_track: 2.725
+heritage: 4.879
+vibrancy: 2.074
+nature: 3.661
+off_the_beaten_track: 2.669
 ---
 
 Azemmour is the least visited of Morocco's Atlantic coastal towns, and the quieter for it. It sits where the Oum er-Rbia — Morocco's largest river — meets the Atlantic, about 15 km north of El Jadida and 75 km south of Casablanca. The Portuguese occupied the town from 1513 to 1541 and left a circuit of [walls and ramparts](/africa/morocco/azemmour/portuguese_ramparts) that remain largely intact; the best views are from across the river, where the whitewashed medina rises directly from the water.

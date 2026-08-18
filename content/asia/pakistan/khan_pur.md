@@ -7,15 +7,15 @@ done:
 latitude: 28.6472
 loc_type: city
 longitude: 70.6567
-score: 3.659
+score: 3.533
 title: Khanpur
 type: location
 snippet: Southern Punjab town near the Cholistan Desert, with railway links and desert
   forts nearby.
-heritage: 2.147
-vibrancy: 1.741
-nature: 4.115
-off_the_beaten_track: 5.1
+heritage: 2.32
+vibrancy: 1.828
+nature: 3.953
+off_the_beaten_track: 4.993
 ---
 
 Khanpur is a town in southern Punjab's Rahim Yar Khan district, sitting on the main Karachi-Peshawar railway line near the edge of the Cholistan Desert. Before Partition it served as a district headquarters in the Bahawalpur princely state, and that older importance still shows in the density of forts and historic sites scattered across the surrounding desert.

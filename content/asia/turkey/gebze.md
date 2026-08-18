@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 40.8
 longitude: 29.433
-score: 2.252
+score: 1.722
 snippet: Industrial Marmara town with Byzantine ruins, Ottoman art history, and a
   limestone climbing gorge.
 wikidata: Q206116
@@ -12,10 +12,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Gebze
 - https://discoverkocaeli.com/what-to-do/eskihisar-castle/
 - https://discoverkocaeli.com/what-to-do/ballikayalar-nature-park/
-heritage: 2.298
-vibrancy: 2.252
-nature: 2.236
-off_the_beaten_track: 1.091
+heritage: 1.927
+vibrancy: 1.614
+nature: 1.394
+off_the_beaten_track: 1.372
 ---
 
 Gebze is easy to dismiss from the train window: factories, logistics yards, and the eastern edge of the Istanbul commuter belt. Stay a little longer and it becomes more interesting. This is where the Gulf of İzmit narrows, where Byzantine walls looked over the water, and where Osman Hamdi Bey, one of the great figures of Ottoman painting and archaeology, kept his summer house.

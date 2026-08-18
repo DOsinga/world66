@@ -10,13 +10,13 @@ loc_type: city
 snippet: Serra do Mar mountain town near Rio, gateway to organ-pipe peaks in Serra
   dos Órgãos
 longitude: -42.864641
-score: 5.886
+score: 6.142
 title: Teresópolis
 type: location
-heritage: 4.048
-vibrancy: 3.155
-nature: 7.407
-off_the_beaten_track: 3.944
+heritage: 4.293
+vibrancy: 3.009
+nature: 7.7
+off_the_beaten_track: 4.235
 ---
 
 Teresópolis is a mountain town about 90 kilometers northeast of Rio de Janeiro, sitting at around 870 meters in the Serra do Mar range. It has long served as a cool-weather escape for Cariocas fleeing the coastal humidity, and the temperature difference from Rio can be ten degrees or more. The town takes its name from Empress Teresa Cristina and retains some of the alpine pretensions that Brazilian mountain resorts tend to cultivate, with fondue restaurants and Swiss-style architecture mixed in with the usual Brazilian bustle.

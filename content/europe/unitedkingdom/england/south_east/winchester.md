@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:WinchesterCathedral-west-w
 latitude: 51.061277
 loc_type: city
 longitude: -1.313169
-score: 5.77
+score: 5.458
 snippet: Historic Hampshire cathedral city, once England's capital and closely associated
   with Alfred the Great.
 title: Winchester
 type: location
-heritage: 7.349
-vibrancy: 3.598
-nature: 2.793
-off_the_beaten_track: 1.974
+heritage: 6.937
+vibrancy: 3.434
+nature: 3.112
+off_the_beaten_track: 2.296
 ---
 
 Winchester was the capital of England before London claimed the title, and the city carries that ancient dignity with quiet confidence. Alfred the Great ruled his kingdom of Wessex from here, and the city remained a seat of royal power through the Norman period and beyond. Today it is a prosperous cathedral city in Hampshire, compact enough to explore on foot and rich enough in history to hold your attention for days.

@@ -2,7 +2,7 @@
 latitude: -30.3667
 loc_type: feature
 longitude: -51.0167
-score: 4.651
+score: 4.776
 snippet: Wild beaches, forested headlands, and a wildlife reserve on the Lagoa dos
   Patos — the best natural escape within reach of Porto Alegre.
 title: Parque Estadual de Itapuã
@@ -11,10 +11,10 @@ image: parque_itapua.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Parque_Estadual_de_Itapu%C3%A3.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Ricardosdag
-heritage: 2.7
-vibrancy: 1.748
-nature: 6.065
-off_the_beaten_track: 3.286
+heritage: 3.136
+vibrancy: 1.678
+nature: 6.073
+off_the_beaten_track: 3.397
 ---
 
 Parque Estadual de Itapuã, about 60 kilometres south of Porto Alegre, is the best natural escape within easy reach of the city. The park occupies a long peninsula of forested headlands, rocky beaches, and lagoon shoreline on the edge of the Lagoa dos Patos — the vast coastal lagoon that stretches south toward Uruguay. The scenery is striking: outcrops of ancient rock covered in Atlantic Forest, clear freshwater, white sandy beaches that feel almost Caribbean on calm summer days, and very little development.

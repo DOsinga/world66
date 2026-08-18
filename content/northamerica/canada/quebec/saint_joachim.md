@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 47.05
 longitude: -70.85
-score: 4.525
+score: 4.591
 snippet: Côte-de-Beaupré village below Cap Tourmente, known for geese, canyon trails,
   and New France history.
 sources:
@@ -18,10 +18,10 @@ image: saint_joachim.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Saint-Joachim_-_Eglise_01.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Concierge.2C
-heritage: 3.816
-vibrancy: 2.078
-nature: 5.397
-off_the_beaten_track: 4.305
+heritage: 3.597
+vibrancy: 2.087
+nature: 5.591
+off_the_beaten_track: 4.255
 ---
 
 Saint-Joachim is a small village on the Côte-de-Beaupré east of [Québec City](/northamerica/canada/quebec/quebeccity), where the St. Lawrence flats meet the Laurentian escarpment. It is not a town of urban sights, but its setting is strong: marshes, cliffs, old farms, and the great shoulder of Cap Tourmente rising above the river.

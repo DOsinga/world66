@@ -5,7 +5,7 @@ loc_type: city
 latitude: 49.6786
 longitude: 9.0044
 wikidata: Q516517
-score: 6.366
+score: 5.94
 snippet: Odenwald timber-framed town with a 1484 town hall, Carolingian basilica,
   and Roman frontier ruins
 sources:
@@ -16,10 +16,10 @@ image: michelstadt.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Michelstadt_Germany_Historisches-Rathaus-Michelstadt-01.jpg
 image_license: CC BY-SA 3.0
 image_attribution: CEphoto, Uwe Aranas
-heritage: 8.148
-vibrancy: 3.889
-nature: 3.668
-off_the_beaten_track: 2.562
+heritage: 7.689
+vibrancy: 3.454
+nature: 3.591
+off_the_beaten_track: 2.79
 ---
 
 Michelstadt is a small Odenwald town with one of Germany's most photogenic market squares. Its half-timbered [Rathaus](/europe/germany/hessen/michelstadt/rathaus) dates from 1484, standing on open timber posts like a medieval stage set, with lanes of old houses running away from it.

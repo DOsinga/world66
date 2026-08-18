@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Safety_Beach_Cape_Paterson
 latitude: -38.6044
 loc_type: city
 longitude: 145.5913
-score: 3.866
+score: 3.811
 snippet: Former coal-mining town on Victoria's Bass Coast, with preserved underground
   workings at the State Coal Mine.
 title: Wonthaggi
 type: location
-heritage: 4.06
-vibrancy: 1.817
-nature: 4.272
-off_the_beaten_track: 2.764
+heritage: 4.108
+vibrancy: 1.948
+nature: 4.165
+off_the_beaten_track: 2.582
 ---
 
 A former coal-mining town in South Gippsland, Wonthaggi is the main service centre for the Bass Coast region of [Victoria](/australiaandpacific/australia/victoria). It was founded in 1909 when black coal was discovered here, and the mining heritage still defines the town's character. The [State Coal Mine](/australiaandpacific/australia/victoria/wonthaggi/state_coal_mine), now a heritage site, offers underground tours that take you into the old workings with a guide who explains the harsh conditions the miners endured — it is one of the most interesting industrial heritage experiences in Victoria.

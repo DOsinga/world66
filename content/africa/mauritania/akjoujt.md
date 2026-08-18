@@ -4,7 +4,7 @@ done:
 latitude: 19.7458
 loc_type: city
 longitude: -14.3878
-score: 5.365
+score: 5.148
 snippet: Saharan mining town on the Nouakchott-Atar road, useful as a stop between
   coast and Adrar.
 sources:
@@ -16,10 +16,10 @@ image: akjoujt.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Akjoujt_City.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Akjoujtcity
-heritage: 1.888
-vibrancy: 1.056
-nature: 6.144
-off_the_beaten_track: 7.116
+heritage: 1.993
+vibrancy: 1.202
+nature: 5.864
+off_the_beaten_track: 6.929
 ---
 
 Akjoujt is a small mining town in western [Mauritania](/africa/mauritania), set on the long paved road between [Nouakchott](/africa/mauritania/nouakchott) and [Atar](/africa/mauritania/atar). Most travellers see it through a dusty windscreen: a fuel stop, a place to buy water, and a sign that the capital's sprawl has finally given way to the open Sahara.

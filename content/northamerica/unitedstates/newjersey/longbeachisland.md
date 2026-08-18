@@ -4,15 +4,15 @@ done:
 latitude: 39.6349
 loc_type: feature
 longitude: -74.1856
-score: 4.704
+score: 4.885
 snippet: New Jersey barrier island of wide Atlantic beaches, bay sunsets, and lighthouse-tipped
   fishing towns.
 title: Long Beach Island
 type: location
-heritage: 1.846
-vibrancy: 3.065
-nature: 5.811
-off_the_beaten_track: 1.913
+heritage: 1.369
+vibrancy: 3.258
+nature: 5.998
+off_the_beaten_track: 1.68
 ---
 
 Long Beach Island — universally called LBI — is an 18-mile barrier island off the southern New Jersey coast, connected to the mainland by a single causeway at Ship Bottom. It is one of the classic Jersey Shore summer destinations, quieter and more family-oriented than the boardwalk towns further north.

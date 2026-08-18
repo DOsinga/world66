@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Porte_du_non-retour_au_Ben
 latitude: 6.366615
 loc_type: city
 longitude: 2.08536
-score: 5.899
+score: 5.954
 snippet: Historic West African town where slave-trade memory and Vodun practice shape
   the streets and shoreline.
 title: Ouidah
 type: location
-heritage: 7.146
-vibrancy: 4.424
-nature: 1.803
-off_the_beaten_track: 5.062
+heritage: 7.456
+vibrancy: 3.971
+nature: 2.27
+off_the_beaten_track: 4.789
 ---
 
 Ouidah is one of the most historically charged towns in West Africa. For nearly two centuries it was the principal port through which enslaved people were shipped to the Americas — estimates suggest more than a million people left from its shore. That history is inescapable here, and it lends the town a weight that few other places in the region carry.

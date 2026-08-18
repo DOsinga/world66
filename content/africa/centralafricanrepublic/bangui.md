@@ -10,7 +10,7 @@ quick_facts:
   Least-Visited: Among world's capitals
   On the River: The Ubangi
   Population: ~900,000
-score: 4.22
+score: 4.342
 snippet: Central African capital on the Oubangui River, with hills, broad avenues,
   and a riverside market core.
 tip: Bangui sits on the Ubangi River facing the DR Congo across the water. The Central
@@ -20,10 +20,10 @@ tip: Bangui sits on the Ubangi River facing the DR Congo across the water. The C
   local support.
 title: Bangui
 type: location
-heritage: 1.097
-vibrancy: 0.916
-nature: 1.811
-off_the_beaten_track: 8.157
+heritage: 2.338
+vibrancy: 0.957
+nature: 1.498
+off_the_beaten_track: 8.131
 ---
 
 Bangui is the capital of the Central African Republic, set on the western bank of the Oubangui River with the Democratic Republic of the Congo visible on the opposite shore. The city developed around a French military post established in 1889 and served as the administrative centre of the territory of Ubangi-Chari before independence in 1960.

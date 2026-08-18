@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 42.8711
 longitude: -97.3973
-score: 2.638
+score: 2.68
 snippet: Missouri River town with Lewis and Clark history, a double-deck bridge, and
   lake recreation.
 wikidata: Q989288
@@ -14,10 +14,10 @@ sources:
 - https://www.travelsouthdakota.com/city/yankton
 - https://gfp.sd.gov/parks/detail/lewis-and-clark-recreation-area/
 - https://www.meadbuilding.org/
-heritage: 3.043
-vibrancy: 1.472
-nature: 2.556
-off_the_beaten_track: 2.77
+heritage: 3.124
+vibrancy: 1.386
+nature: 2.524
+off_the_beaten_track: 2.692
 ---
 
 *North America > United States > South Dakota > Yankton*

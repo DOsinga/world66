@@ -2,7 +2,7 @@
 latitude: 41.5225
 loc_type: city
 longitude: -88.140556
-score: 2.466
+score: 3.15
 snippet: Route 66 canal city with a famous old prison, ornate theatre, and motor-racing
   edge.
 source: Wikivoyage
@@ -10,10 +10,10 @@ source_url: https://en.wikivoyage.org/wiki/Joliet
 title: Joliet
 type: location
 wikidata: Q40345
-heritage: 2.621
-vibrancy: 2.426
-nature: 1.471
-off_the_beaten_track: 0.931
+heritage: 3.975
+vibrancy: 2.039
+nature: 1.585
+off_the_beaten_track: 1.012
 ---
 
 Joliet sits southwest of Chicago, where old canal history, Route 66 road culture, and modern suburbia rub against each other. It is not a classic pretty small town, but it has enough odd, specific sights to make a good spare-day stop if you are already in the Chicago area or following the old highway.

@@ -4,7 +4,7 @@ done:
 latitude: 52.625556
 loc_type: city
 longitude: 10.0825
-score: 4.283
+score: 3.813
 snippet: Lower Saxon ducal town with a complete half-timbered old centre and moated
   palace.
 sources:
@@ -14,10 +14,10 @@ sources:
 title: Celle
 type: location
 wikidata: Q3933
-heritage: 5.305
-vibrancy: 2.569
-nature: 3.326
-off_the_beaten_track: 1.902
+heritage: 4.713
+vibrancy: 2.361
+nature: 2.984
+off_the_beaten_track: 2.037
 ---
 
 Celle is one of the best-preserved old towns in northern Germany, set on the River Aller at the southern edge of the Luneburg Heath. It has the ingredients that make a small German city worth a full day: a walkable Altstadt, hundreds of timber-framed houses, and a ducal palace that still feels like the town's centre of gravity.

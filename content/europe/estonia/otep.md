@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Otep%C3%A4%C3%A4_-_wmee-00
 latitude: 58.058491
 loc_type: city
 longitude: 26.49606
-score: 5.384
+score: 5.404
 snippet: Southern Estonian winter sports town in the Otepää Uplands, with ski trails,
   lakes, and rolling hills.
 title: Otepää
 type: location
-heritage: 3.696
-vibrancy: 1.793
-nature: 6.778
-off_the_beaten_track: 3.113
+heritage: 4.017
+vibrancy: 1.736
+nature: 6.673
+off_the_beaten_track: 3.26
 ---
 
 Otepää is a small town in southern [Estonia](/europe/estonia) that bills itself as the country's "winter capital." Set among the rolling hills of the Otepää Uplands — the highest ground in the Baltics, though still modest by most standards — it is Estonia's main winter sports centre.

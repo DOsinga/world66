@@ -4,13 +4,13 @@ type: location
 loc_type: city
 latitude: -4.2627
 longitude: -79.2222
-score: 5.859
+score: 6.154
 snippet: Small Andean valley town in Loja province, known for mild weather and persistent
   longevity legends.
-heritage: 5.12
-vibrancy: 2.12
-nature: 6.911
-off_the_beaten_track: 5.973
+heritage: 4.688
+vibrancy: 2.057
+nature: 7.551
+off_the_beaten_track: 5.989
 ---
 
 Vilcabamba is a small mountain valley town in southern Ecuador's Loja province, sitting at around 1,500 metres in the Andean foothills. It has a long-standing reputation — perhaps exaggerated but persistently told — as a place where people live unusually long lives. Whether or not the centenarian claims hold up to scrutiny, the valley is genuinely beautiful: mild, green, and sheltered by mountains on all sides.

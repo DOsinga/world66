@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 41.7347
 longitude: 27.2253
-score: 4.876
+score: 4.433
 snippet: Eastern Thrace city with Neolithic remains, Ottoman houses, caves, and Strandzha
   forest country nearby.
 wikidata: Q206903
@@ -17,10 +17,10 @@ image: kirklareli.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Eski_Borsa_Binas%C4%B1,_K%C4%B1rklareli_-_02.jpg
 image_license: CC BY 4.0
 image_attribution: Alicembasli
-heritage: 5.876
-vibrancy: 3.718
-nature: 3.378
-off_the_beaten_track: 3.927
+heritage: 5.185
+vibrancy: 3.7
+nature: 3.447
+off_the_beaten_track: 3.757
 ---
 
 Kırklareli is an inland city in Turkish Thrace, north of Edirne and close to the forested Strandzha range. It is a quieter place than the border cities around it, but it has a real local thread: Neolithic archaeology, Ottoman-era houses, Balkan-Turkish food, and caves and forests within day-trip distance.

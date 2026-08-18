@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: 53.6
 longitude: -9.683
-score: 6.171
+score: 6.49
 snippet: Tiny Connemara village at Killary Fjord, between mountain roads, waterfalls,
   and famine memory.
 sources:
 - https://en.wikivoyage.org/wiki/Leenane
 - https://www.ireland.com/en-us/destinations/county/galway/killary-harbour/
-heritage: 5.81
-vibrancy: 1.941
-nature: 7.102
-off_the_beaten_track: 5.471
+heritage: 5.945
+vibrancy: 1.633
+nature: 7.54
+off_the_beaten_track: 5.807
 ---
 
 Leenane is a small village with a setting that does most of the talking. It sits at the head of Killary Harbour, the long glacial fjord that divides County Galway from County Mayo, with bare mountains rising on both sides and weather moving quickly over the water.

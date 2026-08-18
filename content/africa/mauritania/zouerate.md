@@ -4,15 +4,15 @@ done:
 latitude: 22.740206
 loc_type: city
 longitude: -12.466492
-score: 4.105
+score: 3.871
 snippet: Saharan mining town and eastern terminus of Mauritania's long iron ore railway
   to Nouadhibou.
 title: Zouerate
 type: location
-heritage: 1.502
-vibrancy: 1.476
-nature: 4.476
-off_the_beaten_track: 6.181
+heritage: 1.367
+vibrancy: 1.446
+nature: 3.721
+off_the_beaten_track: 6.221
 ---
 
 Zouerate is Mauritania's main mining town, built around the vast iron ore deposits of the Tiris Zemmour region in the far north. There is not much here for travellers beyond the mining operations themselves — but that is not why most people come. Zouerate is the eastern terminus of one of the great train journeys in the world.

@@ -5,15 +5,15 @@ done:
 latitude: 7.761147
 loc_type: city
 longitude: -7.652709
-score: 4.064
+score: 4.614
 snippet: Small Yacouba village west of Biankouma, in hill country known for Dan masks
   and stilt-dancers.
 title: Gouessesso
 type: location
-heritage: 2.414
-vibrancy: 1.283
-nature: 4.582
-off_the_beaten_track: 5.627
+heritage: 1.655
+vibrancy: 1.8
+nature: 5.46
+off_the_beaten_track: 5.541
 ---
 
 Gouessesso is a small Yacouba village 12 km west of [Biankouma](/africa/ivorycoast/biankouma) and about 50 km from [Man](/africa/ivorycoast/man), in the hilly west of [Ivory Coast](/africa/ivorycoast). The village is known for Les Lianes, a small lodge that blends into its surroundings so well that staying there feels less like tourism and more like a quiet immersion in traditional village life. If you are looking for an authentic encounter with rural West Africa without the self-consciousness that often comes with it, this is a good place to start.

@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: 57.329293
 longitude: -3.608772
-score: 5.027
+score: 4.956
 snippet: Planned Highland town on the River Spey, with forest walks, heritage railways,
   and whisky country nearby.
 sources:
 - https://en.wikivoyage.org/wiki/Grantown-on-Spey
 - https://en.wikipedia.org/wiki/Grantown-on-Spey
-heritage: 4.561
-vibrancy: 3.371
-nature: 5.858
-off_the_beaten_track: 2.739
+heritage: 4.044
+vibrancy: 3.457
+nature: 5.967
+off_the_beaten_track: 2.743
 ---
 
 Grantown-on-Spey is a small planned town in the central Highlands, laid out from 1765 above the River Spey. It has long been a holiday base rather than an industrial town, with a broad square, stone houses, and pine woods close enough to walk into from the streets.

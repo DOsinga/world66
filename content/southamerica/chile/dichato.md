@@ -2,15 +2,15 @@
 latitude: -36.5408
 loc_type: city
 longitude: -72.9367
-score: 3.685
+score: 4.089
 snippet: Compact Pacific resort town north of Concepción, known for its dark-sand
   bay and post-earthquake rebuild.
 title: Dichato
 type: location
-heritage: 2.139
-vibrancy: 1.69
-nature: 4.408
-off_the_beaten_track: 4.271
+heritage: 2.517
+vibrancy: 1.941
+nature: 5.109
+off_the_beaten_track: 4.027
 ---
 
 Dichato is the most popular beach escape from Concepción, a small resort town clustered around a sheltered bay about 60 kilometres to the north. The bay curves into a long stretch of dark sand backed by low dunes, and the water — cold even in summer — is calm enough for swimming most days. In January and February the town fills with Chilean families, students from Concepción's universities, and weekenders from further afield.

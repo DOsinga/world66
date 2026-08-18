@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 23.7928
 longitude: 86.435
-score: 3.156
+score: 3.003
 snippet: Jharkhand coal city where industrial India presses up against waterfalls,
   dams, and old mining campuses.
 wikidata: Q244159
@@ -12,10 +12,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Dhanbad
 - https://en.wikipedia.org/wiki/Dhanbad
 - https://dhanbad.nic.in/tourist-places/
-heritage: 3.601
-vibrancy: 2.817
-nature: 2.302
-off_the_beaten_track: 3.155
+heritage: 2.702
+vibrancy: 3.14
+nature: 2.228
+off_the_beaten_track: 2.809
 ---
 
 Dhanbad is not a pretty city in the easy sense. It is loud, smoky, commercial, and tied more closely to coal than almost anywhere else in India. That is also why it is interesting: the city sits beside the Jharia coalfield, a landscape of mines, rail sidings, technical institutes, and working settlements that has powered much of eastern India's heavy industry.

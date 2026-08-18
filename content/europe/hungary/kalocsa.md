@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kalocsa,_Szenth%C3%A1roms%
 latitude: 46.523027
 loc_type: city
 longitude: 18.982504
-score: 5.243
+score: 4.154
 snippet: Hungarian paprika town on the Danube plain, equally known for bright floral
   folk embroidery.
 title: Kalocsa
 type: location
-heritage: 6.322
-vibrancy: 3.992
-nature: 3.648
-off_the_beaten_track: 2.602
+heritage: 4.652
+vibrancy: 3.886
+nature: 3.446
+off_the_beaten_track: 2.848
 ---
 
 Kalocsa is one of Hungary's paprika capitals — the spice that colours and flavours so much of Hungarian cooking is grown in the fields around town and ground in local mills. The Paprika Museum on Szent István király út tells the whole story, from the Ottoman-era introduction of the plant to the modern harvest.

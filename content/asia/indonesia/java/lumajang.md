@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tumpak_Sewu.jpg
 latitude: -8.1335
 loc_type: city
 longitude: 113.2248
-score: 5.07
+score: 5.669
 snippet: East Java regency town used for Semeru foothill waterfalls and quieter Bromo
   viewpoints.
 sources:
@@ -17,10 +17,10 @@ sources:
 title: Lumajang
 type: location
 wikidata: Q11087
-heritage: 2.017
-vibrancy: 1.746
-nature: 6.496
-off_the_beaten_track: 4.464
+heritage: 2.451
+vibrancy: 1.805
+nature: 7.336
+off_the_beaten_track: 4.757
 ---
 
 Lumajang is not one of Java's polished tourist towns. Its centre is practical and spread out, but the regency around it holds some of East Java's strongest volcanic scenery: huge waterfalls dropping from the Semeru foothills, farming villages on cool high slopes, and back-door views toward the Bromo caldera.

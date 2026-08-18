@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Odemira_-_Zambujeira_do_Ma
 latitude: 37.5976
 loc_type: city
 longitude: -8.6422
-score: 5.682
+score: 6.216
 title: Odemira
 type: location
 snippet: Alentejo municipality stretching from cork-oak hills to Costa Vicentina cliffs,
   beaches, and the Rio Mira.
-heritage: 4.643
-vibrancy: 2.131
-nature: 6.839
-off_the_beaten_track: 4.637
+heritage: 5.323
+vibrancy: 1.971
+nature: 7.379
+off_the_beaten_track: 4.933
 ---
 
 Odemira is Portugal's largest municipality by area, a vast sweep of Alentejo countryside that stretches from the rolling cork oak hills of the interior all the way to the wild Atlantic cliffs of the Costa Vicentina. Most visitors come for the coast — the beaches here are among the finest in Europe, protected within the [Parque Natural do Sudoeste Alentejano e Costa Vicentina](/europe/portugal/odemira/parque_natural_sudoeste) and largely spared the overdevelopment that has consumed the Algarve to the south.

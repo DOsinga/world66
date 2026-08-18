@@ -2,7 +2,7 @@
 latitude: 24.3579
 loc_type: city
 longitude: 70.7551
-score: 2.914
+score: 2.625
 snippet: Thar desert town below the Karoonjhar Hills, ringed by Jain temples and granite
   shrines.
 sources:
@@ -17,10 +17,10 @@ image: nagarparkar.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Jain_temple,_Nagarparkar.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Saqib Qayyum
-heritage: 3.116
-vibrancy: 2.161
-nature: 1.951
-off_the_beaten_track: 4.527
+heritage: 2.784
+vibrancy: 2.321
+nature: 1.775
+off_the_beaten_track: 4.092
 ---
 
 Nagarparkar sits at the far south-eastern edge of Sindh, where the Thar desert meets the pink granite of the Karoonjhar Hills and the flats of the Rann of Kutch. It is remote, dry, and not a polished sightseeing town. That is part of the point.

@@ -5,7 +5,7 @@ done:
 latitude: 35.198752
 loc_type: city
 longitude: -111.651822
-score: 6.67
+score: 6.835
 snippet: High-elevation Arizona city on Route 66, set among ponderosa pines below
   the San Francisco Peaks.
 title: Flagstaff
@@ -14,10 +14,10 @@ image: flagstaff.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Flagstaff_AZ_-_downtown_hotel.jpg
 image_license: CC BY 2.0
 image_attribution: SearchNet Media from Tucson, Arizona, USA
-heritage: 5.064
-vibrancy: 5.488
-nature: 7.686
-off_the_beaten_track: 2.778
+heritage: 4.87
+vibrancy: 6.456
+nature: 7.474
+off_the_beaten_track: 2.664
 ---
 
 Flagstaff sits at 2,100 metres in the ponderosa pines of northern Arizona, a college town with a mountain-west character that feels nothing like the desert cities to the south. It is the gateway to the [Grand Canyon](/northamerica/unitedstates/arizona/grandcanyon) — the South Rim is about 80 miles north — and a good base for exploring the red rocks of [Sedona](/northamerica/unitedstates/arizona/sedona), the Navajo Nation, and the volcanic landscapes around Sunset Crater.

@@ -7,15 +7,15 @@ done:
 latitude: 52.3759
 loc_type: city
 longitude: 9.732
-score: 4.334
+score: 4.161
 snippet: Lower Saxony capital known for major trade fairs and the baroque Herrenhausen
   Gardens.
 title: Hannover
 type: location
-heritage: 4.411
-vibrancy: 4.337
-nature: 2.615
-off_the_beaten_track: 1.104
+heritage: 4.29
+vibrancy: 4.143
+nature: 2.864
+off_the_beaten_track: 1.348
 ---
 
 Hannover is a working city, and proud of it. The capital of Lower Saxony of around 530,000 people, it earns its keep as Germany's trade-fair capital — the [Hannover Messe](/europe/germany/lowersaxony/hannover/messegelaende) and (in its day) CeBIT brought hundreds of thousands of business visitors a year. That history shapes the place: efficient, well-connected, often pragmatic, occasionally accused of being dull. Travellers tend to use it as a stopover. They are missing something.

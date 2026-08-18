@@ -7,12 +7,12 @@ title: San Gerardo de Rivas
 snippet: Talamanca mountain village and trailhead for Cerro Chirripó, Costa Rica's
   highest peak.
 type: location
-score: 4.674
+score: 4.479
 loc_type: city
-heritage: 2.465
-vibrancy: 2.952
-nature: 5.818
-off_the_beaten_track: 2.341
+heritage: 2.167
+vibrancy: 2.611
+nature: 5.681
+off_the_beaten_track: 2.27
 ---
 
 San Gerardo de Rivas is a small village in the Talamanca mountains of southern [Costa Rica](/northamerica/costarica), and the starting point for the climb up Cerro Chirripó, the country's highest peak at 3,820 metres. There is not much to the village itself — a handful of lodges, a few restaurants, and a ranger station — but that is beside the point. You come here to hike.

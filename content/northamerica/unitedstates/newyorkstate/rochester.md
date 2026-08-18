@@ -5,7 +5,7 @@ done:
 latitude: 43.1566
 loc_type: city
 longitude: -77.6088
-score: 5.816
+score: 5.504
 snippet: Lake Ontario city on the Genesee River, remade from Kodak wealth into a university
   hub.
 sources:
@@ -14,10 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Strong_National_Museum_of_Play
 title: Rochester
 type: location
-heritage: 5.492
-vibrancy: 5.983
-nature: 4.495
-off_the_beaten_track: 1.535
+heritage: 4.787
+vibrancy: 5.818
+nature: 4.453
+off_the_beaten_track: 1.569
 ---
 
 Rochester is the third-largest city in New York State, perched on the south shore of Lake Ontario where the Genesee River drops over three waterfalls on its way to the lake. It was once the world headquarters of Eastman Kodak, Bausch + Lomb, and Xerox — a trio that made it one of the richest cities per capita in America through much of the 20th century. The decline of film photography hit hard, but Rochester has reinvented itself around its universities (the University of Rochester, RIT), its medical sector, and a creative economy that benefits from cheap real estate and a formidable cultural infrastructure left behind by the Kodak era.

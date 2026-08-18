@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Skiathos_10_-_panoramio.jp
 latitude: 39.169298
 loc_type: city
 longitude: 23.455251
-score: 6.107
+score: 6.355
 snippet: Sporades island with more than sixty beaches, many sandy and backed by pine
   forest.
 sources:
@@ -19,10 +19,10 @@ sources:
 - https://en.wikipedia.org/wiki/Koukounaries
 title: Skiathos
 type: location
-heritage: 4.461
-vibrancy: 5.644
-nature: 6.739
-off_the_beaten_track: 2.932
+heritage: 3.777
+vibrancy: 5.838
+nature: 7.029
+off_the_beaten_track: 2.641
 ---
 
 Skiathos is the most developed of the Sporades islands, and for good reason — it has over sixty beaches, most of them sandy, many of them backed by dense pine forest that runs right down to the waterline. It is a small island, just 12 kilometres long, but it packs in enough coastline to keep a beach-hopper busy for weeks.

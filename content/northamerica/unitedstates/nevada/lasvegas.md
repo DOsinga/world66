@@ -17,7 +17,7 @@ quick_facts:
   In the Mojave: A desert resort city
   Population: ~660,000 (metro ~2.3M)
   The Strip: 6.8 km of casinos
-score: 4.314
+score: 5.156
 snippet: Mojave Desert city built on casino spectacle, neon fantasy, and outsized
   entertainment along the Strip.
 tip: Las Vegas rose from the Mojave Desert and runs 24 hours — there are no clocks
@@ -27,10 +27,10 @@ tip: Las Vegas rose from the Mojave Desert and runs 24 hours — there are no cl
   range.
 title: Las Vegas
 type: location
-heritage: 2.385
-vibrancy: 5.079
-nature: 1.06
-off_the_beaten_track: 0.343
+heritage: 1.572
+vibrancy: 6.554
+nature: 1.228
+off_the_beaten_track: 0.487
 ---
 
 Viva Las Vegas! Rising like a mirage from the Mojave Desert, Las Vegas is a city built on spectacle. The neon-lit casinos along the Strip -- Roman palaces, Egyptian pyramids, Parisian landmarks -- contrast sharply with the dry, barren landscape surrounding them.

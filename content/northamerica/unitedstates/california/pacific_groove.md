@@ -5,15 +5,15 @@ done:
 latitude: 36.6177
 loc_type: city
 longitude: -121.9166
-score: 5.193
+score: 4.968
 snippet: Monterey Peninsula coastal town known for Victorian houses, tide pools, and
   migrating monarch butterflies.
 title: Pacific Grove
 type: location
-heritage: 2.718
-vibrancy: 3.343
-nature: 6.434
-off_the_beaten_track: 1.577
+heritage: 2.665
+vibrancy: 3.429
+nature: 6.044
+off_the_beaten_track: 1.342
 ---
 
 Wedged on the northern tip of the Monterey Peninsula between Pebble Beach, Carmel, and Monterey, Pacific Grove has managed to retain an unhurried, small-town feel that its neighbours long since abandoned. Locals call it P.G. Parking is free, black-tailed deer wander through pine-shaded yards, and monarch butterflies gather by the thousands in local parks each autumn.

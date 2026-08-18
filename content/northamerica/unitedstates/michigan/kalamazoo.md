@@ -4,13 +4,13 @@ type: location
 loc_type: city
 latitude: 42.29
 longitude: -85.59
-score: 5.051
+score: 4.581
 snippet: West Michigan college city with aviation exhibits, craft beer, art, and a
   walkable downtown mall
-heritage: 5.306
-vibrancy: 4.992
-nature: 4.309
-off_the_beaten_track: 2.738
+heritage: 4.785
+vibrancy: 4.538
+nature: 3.967
+off_the_beaten_track: 2.945
 ---
 
 Kalamazoo is one of those Midwestern cities whose name is famous before the place is. The reality is better than the joke: a college town and county seat in south-west Michigan, with Western Michigan University, Kalamazoo College, a strong arts scene, and a downtown that once created the first outdoor pedestrian mall in the United States.

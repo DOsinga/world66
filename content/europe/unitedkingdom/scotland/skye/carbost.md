@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Talisker_distillery.jpg
 latitude: 57.301539
 loc_type: city
 longitude: -6.353226
-score: 6.51
+score: 6.524
 snippet: Small Skye village on Loch Harport, known for Talisker whisky beneath the
   Black Cuillin.
 title: Carbost
 type: location
-heritage: 6.427
-vibrancy: 3.844
-nature: 7.366
-off_the_beaten_track: 4.514
+heritage: 6.516
+vibrancy: 2.914
+nature: 7.351
+off_the_beaten_track: 4.834
 ---
 
 Carbost is a small village on the shore of [Loch Harport](/europe/unitedkingdom/scotland/skye/carbost/loch_harport) in the Minginish peninsula, lying under the shadow of the Black Cuillin mountains. It has two things that bring visitors here: a fine beach and one of Scotland's most celebrated whisky distilleries.

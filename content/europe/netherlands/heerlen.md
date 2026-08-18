@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Heerlen_2024_Van_Grunsvenp
 latitude: 50.877524
 loc_type: city
 longitude: 5.981507
-score: 2.268
+score: 2.155
 sources:
 - https://en.wikipedia.org/wiki/Heerlen
 - https://en.wikipedia.org/wiki/Glaspaleis
@@ -17,10 +17,10 @@ title: Heerlen
 type: location
 snippet: South Limburg city with coal-mining history, Roman bathhouse remains, and
   glassy modernist architecture.
-heritage: 2.339
-vibrancy: 2.258
-nature: 1.887
-off_the_beaten_track: 1.132
+heritage: 2.551
+vibrancy: 1.738
+nature: 1.562
+off_the_beaten_track: 1.36
 ---
 
 Heerlen is a city in the far south of the Netherlands, in the hilly province of Limburg, just a few kilometres from the German and Belgian borders. It was once a prosperous coal mining town, and the closure of the mines in the 1960s and 70s hit it hard. The city has been reinventing itself since, and while it still has a rough edge, there is more here than first meets the eye.

@@ -2,17 +2,17 @@
 latitude: 52.35
 loc_type: city
 longitude: 5.6167
-score: 4.001
+score: 4.261
 snippet: Old Hanseatic town on the Veluwemeer, with a walled centre and waterfront
   history.
 sources:
 - https://en.wikivoyage.org/wiki/Harderwijk
 title: Harderwijk
 type: location
-heritage: 3.45
-vibrancy: 2.631
-nature: 4.74
-off_the_beaten_track: 1.788
+heritage: 3.971
+vibrancy: 2.674
+nature: 4.922
+off_the_beaten_track: 1.807
 ---
 
 Harderwijk is an old Hanseatic town on the Veluwemeer, the lake that replaced this stretch of the former Zuiderzee. It has a compact medieval centre, a marina where fishing boats once worked, and enough old gates and church towers to make a wander worthwhile.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 54.4769
 longitude: 9.0511
-score: 3.922
+score: 3.799
 snippet: North Frisian harbour town in Schleswig-Holstein, known as Theodor Storm's
   grey town by the sea.
 image: husum.jpg
@@ -15,10 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Husum
 - https://en.wikipedia.org/wiki/Husum
 - https://www.wikidata.org/wiki/Q21159
-heritage: 4.354
-vibrancy: 2.671
-nature: 4.187
-off_the_beaten_track: 2.736
+heritage: 4.2
+vibrancy: 2.802
+nature: 4.097
+off_the_beaten_track: 2.745
 ---
 
 Husum is the main town of North Frisia, set just inland from the Wadden Sea on Germany's North Sea coast. The writer Theodor Storm called it the "grey town by the sea", which still fits: brick houses, a tidal inland harbour, big skies, and a working coastal mood rather than resort polish.

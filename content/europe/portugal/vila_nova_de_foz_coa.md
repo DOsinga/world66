@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 41.08
 longitude: -7.14
-score: 5.798
+score: 5.566
 snippet: Douro Superior town beside UNESCO-listed open-air Paleolithic rock art and
   stark vineyard country.
 wikidata: Q537471
@@ -14,10 +14,10 @@ sources:
 - https://www.wikidata.org/wiki/Q537471
 - https://arte-coa.pt/en/parque/
 - https://whc.unesco.org/en/list/866/
-heritage: 6.794
-vibrancy: 3.163
-nature: 5.382
-off_the_beaten_track: 2.914
+heritage: 6.561
+vibrancy: 2.764
+nature: 5.078
+off_the_beaten_track: 2.928
 ---
 
 Vila Nova de Foz Côa is a small Douro Superior town with one very large reason to visit: the Côa Valley's open-air Paleolithic rock art. The engravings are not tucked away in caves, but cut into schist outcrops along the Côa and Douro, a rare survival that changed how archaeologists thought about prehistoric art.

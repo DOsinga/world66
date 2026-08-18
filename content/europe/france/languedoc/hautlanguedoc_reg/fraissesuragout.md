@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Fraisse-sur-Agout_vue_1.JP
 latitude: 43.605898
 loc_type: city
 longitude: 2.79893
-score: 5.4
+score: 5.395
 snippet: Haut Languedoc village among chestnut woods and granite hills, near the Saut
   de Vésoles waterfall
 title: Fraisse-sur-Agout
 type: location
-heritage: 4.414
-vibrancy: 2.028
-nature: 6.499
-off_the_beaten_track: 3.153
+heritage: 4.441
+vibrancy: 1.866
+nature: 6.48
+off_the_beaten_track: 3.454
 ---
 
 Fraisse-sur-Agout is a small village in the Haut Languedoc Regional Nature Park, near [St Pons de Thomières](/europe/france/languedoc/st_pons_de_thomieres). It sits at the junction of fine roads into the Monts de Lacaune and the [Monts de l'Espinouse](/europe/france/languedoc/hautlanguedoc_reg/monts_de_lespinouse), surrounded by chestnut forests and granite hillsides.

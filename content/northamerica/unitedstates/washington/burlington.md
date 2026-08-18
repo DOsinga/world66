@@ -5,15 +5,15 @@ done:
 latitude: 48.474
 loc_type: city
 longitude: -122.328
-score: 3.885
+score: 3.835
 snippet: Skagit Valley city amid bulb fields, known for spring tulips between Cascades
   and Puget Sound.
 title: Burlington
 type: location
-heritage: 2.349
-vibrancy: 2.587
-nature: 4.772
-off_the_beaten_track: 1.805
+heritage: 2.161
+vibrancy: 2.622
+nature: 4.677
+off_the_beaten_track: 1.622
 ---
 
 Burlington is a small city in Skagit County, northwestern Washington state, about 80 km north of Seattle in the broad agricultural plain between the Cascade Mountains and Puget Sound. The Skagit Valley here is one of the most productive bulb-growing regions in North America, and in spring the tulip and daffodil fields in bloom around Burlington and nearby Mount Vernon attract visitors from across the region.

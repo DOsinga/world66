@@ -13,21 +13,21 @@ image_source: https://commons.wikimedia.org/wiki/File:Augsburg_-_Markt.jpg
 latitude: 48.3691
 loc_type: city
 longitude: 10.8978
-score: 5.726
+score: 5.998
 snippet: Bavarian city with Roman origins, Renaissance civic buildings, and the historic
   Fuggerei housing complex.
 title: Augsburg
 type: location
-heritage: 6.321
-vibrancy: 5.543
-nature: 3.108
-off_the_beaten_track: 1.436
+heritage: 6.647
+vibrancy: 5.753
+nature: 3.515
+off_the_beaten_track: 1.341
 ---
 
 Augsburg is one of Germany's oldest cities, founded by the Romans in 15 BC and named after Emperor Augustus. It rose to European prominence in the 15th and 16th centuries as the home of the Fugger and Welser banking dynasties, whose wealth financed emperors and shaped the Renaissance cityscape that still defines the centre today.
 
 The heart of the Altstadt is the Rathausplatz, dominated by Elias Holl's imposing Rathaus — one of the finest Mannerist buildings in Germany — and the adjacent Perlachturm. From here, the Maximilianstrasse stretches south, lined with patrician houses and three magnificent Renaissance fountains. Just off this main axis stands the Fuggerhäuser, the Italian-style mansion of the Fugger clan, built in 1512.
 
-A short walk east brings you to the [Fuggerei](/europe/germany/bavaria/augsburg/things_to_do/fuggerei), the world's oldest social housing complex, still in use today at the original annual rent of one Rhenish guilder (€0.88). The [Cathedral](/europe/germany/bavaria/augsburg/things_to_do/cathedral) is worth visiting for its Romanesque bronze doors and early stained glass, and the city has a handful of good museums — the Maximilian Museum for local history and goldsmith work, the Mozart house where Leopold Mozart was born, and the Schaezler Palace for Old Masters in a rococo setting.
+A short walk east brings you to the [Fuggerei](/europe/germany/bavaria/augsburg/fuggerei), the world's oldest social housing complex, still in use today at the original annual rent of one Rhenish guilder (€0.88). The [Cathedral](/europe/germany/bavaria/augsburg/cathedral) is worth visiting for its Romanesque bronze doors and early stained glass, and the city has a handful of good museums — the Maximilian Museum for local history and goldsmith work, the Mozart house where Leopold Mozart was born, and the Schaezler Palace for Old Masters in a rococo setting.
 
 Augsburg is an easy day trip from [Munich](/europe/germany/bavaria/munich), about 40 minutes by train, but the city rewards an overnight stay — the Rathausplatz beer terraces on a summer evening are hard to leave.

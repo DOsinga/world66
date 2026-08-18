@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2010-08_toren_zandvoort_14
 latitude: 52.359522
 loc_type: city
 longitude: 4.535026
-score: 4.441
+score: 4.939
 snippet: Dutch seaside town by the dunes, serving as Amsterdam's easiest train-linked
   beach escape.
 title: Zandvoort
 type: location
-heritage: 2.358
-vibrancy: 3.767
-nature: 5.063
-off_the_beaten_track: 1.123
+heritage: 2.867
+vibrancy: 4.065
+nature: 5.691
+off_the_beaten_track: 0.991
 ---
 
 Zandvoort is the nearest beach to **Amsterdam** — less than 30 minutes by direct train from Amsterdam Centraal — and for most visitors that is the whole point. It is a straightforward Dutch seaside town: a wide, clean, windy beach of fine grey sand backed by dunes, a boulevard of beach pavilions and fish stalls, a small working centre of supermarkets and guesthouses, and not much else. Every summer weekend half of Amsterdam turns up to sunbathe, and in July and August the beach is lined end-to-end with deck chairs, pop-up bars, and flocks of gulls.

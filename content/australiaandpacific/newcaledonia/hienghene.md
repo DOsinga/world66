@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:%22La_Poule_Couveuse%22_-_
 latitude: -20.689369
 loc_type: city
 longitude: 164.944037
-score: 5.698
+score: 6.272
 snippet: Kanak town on Grande Terre's northeast coast, framed by dark limestone formations
   in turquoise water.
 title: Hienghène
 type: location
-heritage: 2.694
-vibrancy: 1.528
-nature: 7.342
-off_the_beaten_track: 4.882
+heritage: 2.774
+vibrancy: 2.289
+nature: 8.131
+off_the_beaten_track: 5.213
 ---
 
 Hienghène is a small Kanak town on the northeast coast of Grande Terre, surrounded by some of the most dramatic scenery in [New Caledonia](/australiaandpacific/newcaledonia). The dark limestone formations rising from the turquoise water of the [bay](/australiaandpacific/newcaledonia/hienghene/baie_de_hienghene) are unmistakable — the most famous, the [Poule de Hienghène](/australiaandpacific/newcaledonia/hienghene/poule_de_hienghene), really does look like a brooding hen when seen from the right angle.

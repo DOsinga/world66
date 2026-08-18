@@ -15,7 +15,7 @@ quick_facts:
   Frames: Smoking Mt Etna
   Greek Theatre: 3rd century BC
   Jet-Set: A retreat since the 1900s
-score: 6.666
+score: 6.635
 snippet: Cliffside Sicilian town where a Greek theatre faces Mount Etna and the Mediterranean
 tip: Taormina clings to a cliff with Mt Etna smoking on the horizon — the ancient
   Greek Theatre frames the volcano perfectly, so go for sunset. The town is steep
@@ -24,10 +24,10 @@ tip: Taormina clings to a cliff with Mt Etna smoking on the horizon — the anci
   leave from here.
 title: Taormina
 type: location
-heritage: 5.645
-vibrancy: 7.104
-nature: 4.579
-off_the_beaten_track: 1.992
+heritage: 5.434
+vibrancy: 6.979
+nature: 5.746
+off_the_beaten_track: 1.909
 ---
 
 Taormina is so beautifully located that it would not need great sights to attract visitors. The fact that it does have them makes it an absolute must. Perched on a rocky promontory at the foot of Mount Etna and looking out over the azure Mediterranean, the town has drawn visitors for centuries.

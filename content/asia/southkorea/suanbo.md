@@ -2,7 +2,7 @@
 latitude: 36.8464
 loc_type: city
 longitude: 127.995
-score: 4.818
+score: 4.604
 snippet: Mountain hot-spring town in inland Korea, set between Woraksan trails and
   old pass roads.
 sources:
@@ -12,10 +12,10 @@ sources:
 title: Suanbo
 type: location
 wikidata: Q14925035
-heritage: 2.189
-vibrancy: 2.276
-nature: 6.369
-off_the_beaten_track: 2.55
+heritage: 1.995
+vibrancy: 2.167
+nature: 6.09
+off_the_beaten_track: 2.3
 ---
 
 Suanbo is a small hot-spring town in the mountains of North Chungcheong, close to [Jecheon](/asia/southkorea/jecheon), Chungju, and Woraksan National Park. It is not a big resort city. The mood is quieter: bathhouses, simple restaurants, forested ridges, and buses heading toward trailheads.

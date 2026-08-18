@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_-_Spearfish,_South_
 latitude: 44.4914
 loc_type: city
 longitude: -103.8163
-score: 5.158
+score: 5.231
 snippet: Northern Black Hills college town where Spearfish Creek cuts toward a limestone
   canyon.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Spearfish_Canyon
 title: Spearfish
 type: location
-heritage: 2.773
-vibrancy: 2.169
-nature: 6.82
-off_the_beaten_track: 3.347
+heritage: 3.023
+vibrancy: 1.767
+nature: 6.827
+off_the_beaten_track: 3.797
 ---
 
 Spearfish sits at the northern edge of the [Black Hills](/northamerica/unitedstates/southdakota/blackhills), where the open prairie suddenly gives way to pine ridges, limestone cliffs, and cold trout water. It is quieter than [Deadwood](/northamerica/unitedstates/southdakota/deadwood) and less single-purpose than [Sturgis](/northamerica/unitedstates/southdakota/sturgis), which makes it one of the easier Black Hills towns to actually settle into for a few days.

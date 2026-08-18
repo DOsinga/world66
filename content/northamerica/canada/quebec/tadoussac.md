@@ -2,17 +2,17 @@
 latitude: 48.1431
 loc_type: city
 longitude: -69.7192
-score: 6.098
+score: 6.189
 snippet: Quebec village at the Saguenay mouth, known for whales, dunes, and old fur-trade
   history.
 sources:
 - https://en.wikivoyage.org/wiki/Tadoussac
 title: Tadoussac
 type: location
-heritage: 4.041
-vibrancy: 4.734
-nature: 7.165
-off_the_beaten_track: 3.979
+heritage: 5.116
+vibrancy: 4.154
+nature: 7.424
+off_the_beaten_track: 4.057
 ---
 
 Tadoussac sits where the Saguenay Fjord meets the St. Lawrence, a small village in a very large landscape. The setting is the reason to come: cold tidal water, dark cliffs, pale sand, and one of the best whale-watching areas in eastern Canada.

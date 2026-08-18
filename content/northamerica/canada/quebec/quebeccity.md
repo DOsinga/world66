@@ -10,22 +10,22 @@ image_source: https://commons.wikimedia.org/wiki/File:Quebec_City,_Canada.jpg
 latitude: 46.813743
 loc_type: city
 longitude: -71.208406
-score: 7.154
+score: 7.882
 title: Québec City
 type: location
 snippet: Fortified French-Canadian capital above the St. Lawrence, with an intact
   old walled centre.
-heritage: 8.153
-vibrancy: 6.405
-nature: 5.227
-off_the_beaten_track: 1.973
+heritage: 8.099
+vibrancy: 7.86
+nature: 4.961
+off_the_beaten_track: 1.821
 ---
 
-Québec City is the most European city in North America. Founded in 1608 by Samuel de Champlain, it has preserved its old walled centre almost intact — the only fortified city north of Mexico, and a UNESCO World Heritage Site since 1985. Walking the narrow streets of [Vieux-Québec](/northamerica/canada/quebec/quebeccity/things_to_do/vieux_quebec), with its 17th and 18th-century stone buildings, you could be in a provincial French city. Except for the weather.
+Québec City is the most European city in North America. Founded in 1608 by Samuel de Champlain, it has preserved its old walled centre almost intact — the only fortified city north of Mexico, and a UNESCO World Heritage Site since 1985. Walking the narrow streets of [Vieux-Québec](/northamerica/canada/quebec/quebeccity/vieux_quebec), with its 17th and 18th-century stone buildings, you could be in a provincial French city. Except for the weather.
 
-The city sits on a promontory above the St. Lawrence River, split between the Upper Town (Haute-Ville) inside the old walls and the Lower Town (Basse-Ville) along the waterfront. The [Château Frontenac](/northamerica/canada/quebec/quebeccity/things_to_do/chateau_frontenac), a grand railway hotel from 1893, dominates the skyline from its clifftop position. The Dufferin Terrace in front of it offers the best views in the city. From there you can take the funicular down to the Quartier Petit-Champlain in the Lower Town.
+The city sits on a promontory above the St. Lawrence River, split between the Upper Town (Haute-Ville) inside the old walls and the Lower Town (Basse-Ville) along the waterfront. The [Château Frontenac](/northamerica/canada/quebec/quebeccity/chateau_frontenac), a grand railway hotel from 1893, dominates the skyline from its clifftop position. The Dufferin Terrace in front of it offers the best views in the city. From there you can take the funicular down to the Quartier Petit-Champlain in the Lower Town.
 
-The [Plains of Abraham](/northamerica/canada/quebec/quebeccity/things_to_do/plains_of_abraham) — the park west of the old walls where the British defeated the French in 1759 — are part of the daily fabric of city life: people jog, ski and picnic there regardless of the historical weight. The Citadelle, still an active military base, runs guided tours and puts on a Changing of the Guard ceremony in summer.
+The [Plains of Abraham](/northamerica/canada/quebec/quebeccity/plains_of_abraham) — the park west of the old walls where the British defeated the French in 1759 — are part of the daily fabric of city life: people jog, ski and picnic there regardless of the historical weight. The Citadelle, still an active military base, runs guided tours and puts on a Changing of the Guard ceremony in summer.
 
 The city has a population of about 800,000 in the greater area, and is far more homogeneously French than Montréal — most residents speak little English, and making an effort in French is both necessary and appreciated.
 

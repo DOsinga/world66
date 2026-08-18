@@ -2,7 +2,7 @@
 latitude: 30.2266
 loc_type: city
 longitude: -93.2174
-score: 3.857
+score: 3.772
 snippet: Southwest Louisiana lake city with Cajun food, Mardi Gras culture, casinos,
   and marshland nearby.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://www.visitlakecharles.org/
 title: Lake Charles
 type: location
-heritage: 2.986
-vibrancy: 3.736
-nature: 4.17
-off_the_beaten_track: 1.603
+heritage: 2.494
+vibrancy: 3.66
+nature: 4.063
+off_the_beaten_track: 1.695
 ---
 
 Lake Charles is the main city of Southwest Louisiana, sitting between Cajun country, the Calcasieu River, and the marshes that lead down toward the Gulf. It is not as atmospheric as New Orleans or as rooted in French Louisiana as Lafayette, but it has a real identity of its own.

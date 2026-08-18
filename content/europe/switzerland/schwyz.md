@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Schwyz.jpg
 latitude: 47.0167
 loc_type: city
 longitude: 8.65
-score: 6.015
+score: 6.012
 snippet: Central Swiss canton capital tied to Confederation history, Victorinox knives,
   and the Mythen peaks.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://erlebnisregion-mythen.ch/en/civic-structure/museum-of-the-swiss-charters-of-confederation
 title: Schwyz
 type: location
-heritage: 6.239
-vibrancy: 3.08
-nature: 6.678
-off_the_beaten_track: 2.661
+heritage: 6.153
+vibrancy: 3.207
+nature: 6.711
+off_the_beaten_track: 2.554
 ---
 
 Schwyz is one of those Swiss names that turns out to be bigger than the town itself. The canton helped give Switzerland its name, and the town still feels close to the country's founding myths: compact, orderly, framed by steep green slopes and the twin Mythen peaks.

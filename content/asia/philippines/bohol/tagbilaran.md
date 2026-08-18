@@ -6,17 +6,17 @@ loc_type: city
 snippet: Bohol capital and transport base, useful for ferries, flights, and day trips
   into the island
 longitude: 123.855981
-score: 4.963
+score: 4.676
 title: Tagbilaran
 type: location
 image: tagbilaran.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Blood_Compact_Shrine.jpg
 image_license: CC BY 4.0
 image_attribution: AroundBohol
-heritage: 4.908
-vibrancy: 4.407
-nature: 5.563
-off_the_beaten_track: 3.123
+heritage: 4.176
+vibrancy: 3.942
+nature: 5.343
+off_the_beaten_track: 3.13
 ---
 
 Tagbilaran is the capital of Bohol and the most likely starting point for exploring the island. It is a small, functional city — not a destination in itself, but a convenient base with an airport, the main ferry terminal, and enough services to get you sorted before heading out.

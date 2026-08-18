@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Puhi_and_Kuhio_Bay,_Hilo_(
 latitude: 19.7197
 loc_type: city
 longitude: -155.0885
-score: 5.462
+score: 5.209
 snippet: Rainy Big Island town with plantation-era streets, lush gardens, waterfalls,
   and a local Hawaiian rhythm
 title: Hilo
 type: location
-heritage: 3.043
-vibrancy: 3.615
-nature: 6.719
-off_the_beaten_track: 2.149
+heritage: 2.579
+vibrancy: 3.737
+nature: 6.269
+off_the_beaten_track: 1.881
 ---
 
 Hilo is the largest town on the Big Island of Hawaii and the quieter, rainier, more local counterpart to the tourist-heavy Kona coast on the other side. It rains here. A lot. Hilo averages more than three metres of rain a year, which makes it one of the wettest cities in the United States — and also one of the greenest, with lush gardens, wild waterfalls, and a general feeling that the jungle is always about to reclaim the place. That climate keeps the beach-resort crowds away and leaves Hilo as the Big Island at its most authentic: a low-rise, slightly faded plantation-era town where the rhythms of everyday Hawaiian life still set the pace.

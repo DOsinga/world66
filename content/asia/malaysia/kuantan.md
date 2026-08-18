@@ -5,19 +5,19 @@ done:
 latitude: 3.7974
 loc_type: city
 longitude: 103.3219
-score: 4.596
+score: 4.517
 snippet: Working east-coast Malaysian city and Pahang capital, with beaches and craft
   villages close by
 title: Kuantan
 type: location
-heritage: 3.813
-vibrancy: 3.669
-nature: 5.351
-off_the_beaten_track: 2.628
+heritage: 3.401
+vibrancy: 3.55
+nature: 5.286
+off_the_beaten_track: 2.8
 ---
 
 Kuantan is the capital of Pahang, [Malaysia](/asia/malaysia)'s largest state, sitting on the east coast facing the South China Sea. It is a working Malaysian city rather than a tourist resort, but the surrounding region has good beaches, traditional crafts, and access to some of Pahang's natural attractions.
 
-The main beach is Teluk Cempedak, a sheltered bay a few kilometres from the city centre with a decent strip of sand and a handful of hotels and restaurants. The region is known for its traditional crafts — pandanus leaf weaving, woodcarving, and batik — and village festivals. [Cherating](/asia/malaysia/kuantan/cherating), about 45 kilometres north, is the better-known beach destination, home to Asia's first Club Med and a laid-back stretch of coast popular with backpackers and surfers.
+The main beach is Teluk Cempedak, a sheltered bay a few kilometres from the city centre with a decent strip of sand and a handful of hotels and restaurants. The region is known for its traditional crafts — pandanus leaf weaving, woodcarving, and batik — and village festivals. [Cherating](/asia/malaysia/cherating), about 45 kilometres north, is the better-known beach destination, home to Asia's first Club Med and a laid-back stretch of coast popular with backpackers and surfers.
 
 Lake Chini, inland from Kuantan, is a freshwater lake system surrounded by jungle, the subject of local legends about a sunken city guarded by mythological creatures. Gua Charas, a cave temple set into a limestone cliff, is an easy half-day trip from the city.

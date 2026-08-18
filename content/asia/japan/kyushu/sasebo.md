@@ -2,7 +2,7 @@
 latitude: 33.18
 loc_type: city
 longitude: 129.715
-score: 4.922
+score: 4.724
 snippet: Naval harbour city on western Kyushu beside the island-dotted Kujukushima
   coast.
 sources:
@@ -17,10 +17,10 @@ image: sasebo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Huis_Ten_Bosch_-_01.jpg
 image_license: CC BY 3.0
 image_attribution: JKT-c
-heritage: 5.117
-vibrancy: 4.885
-nature: 4.306
-off_the_beaten_track: 1.873
+heritage: 4.51
+vibrancy: 4.841
+nature: 4.291
+off_the_beaten_track: 2.027
 ---
 
 Sasebo is a working harbour city on the west coast of Kyushu, shaped by shipyards, the Japanese navy, and a long American base presence. It is less polished than Nagasaki, but it has a real port-town character: steep streets, sea views, jazz bars, burger shops, and ferries moving between the islands.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 43.4553
 longitude: -76.5105
-score: 4.27
+score: 4.23
 snippet: Lake Ontario port city with a frontier fort, maritime museums, and a rare
   refugee-history site.
 sources:
@@ -17,10 +17,10 @@ image: oswego.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Oswego,_New_York_-_4363019147.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Dougtone
-heritage: 4.032
-vibrancy: 3.224
-nature: 4.909
-off_the_beaten_track: 1.951
+heritage: 3.803
+vibrancy: 3.262
+nature: 4.945
+off_the_beaten_track: 2.107
 ---
 
 Oswego sits where the Oswego River meets Lake Ontario, and the water explains almost everything about it. The city was fought over, fortified, traded through, and lit by lighthouses because this harbour mattered on the inland route between the Atlantic world and the Great Lakes.

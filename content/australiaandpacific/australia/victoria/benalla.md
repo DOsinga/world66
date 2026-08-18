@@ -2,7 +2,7 @@
 latitude: -36.5519
 loc_type: city
 longitude: 145.9817
-score: 2.395
+score: 2.524
 snippet: North-east Victoria town known for street art, a strong regional gallery,
   and wetland landscapes.
 sources:
@@ -10,10 +10,10 @@ sources:
 - https://www.enjoybenalla.com.au/
 title: Benalla
 type: location
-heritage: 2.829
-vibrancy: 1.674
-nature: 2.171
-off_the_beaten_track: 1.958
+heritage: 3.048
+vibrancy: 1.464
+nature: 2.136
+off_the_beaten_track: 2.096
 ---
 
 Benalla sits in north-east Victoria, close enough to the Hume Highway to be easy to dismiss and interesting enough that you should not. It has made art its calling card: murals across town, a respected regional gallery by the lake, and the North East Victoria Silo Art Trail radiating into the surrounding countryside.

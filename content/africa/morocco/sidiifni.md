@@ -11,13 +11,13 @@ loc_type: city
 snippet: Moroccan Atlantic town with Spanish colonial Art Deco streets and a breezy
   Iberian edge.
 longitude: -10.1716
-score: 4.634
+score: 5.154
 title: Sidi Ifni
 type: location
-heritage: 4.102
-vibrancy: 3.14
-nature: 5.444
-off_the_beaten_track: 5.508
+heritage: 4.409
+vibrancy: 3.414
+nature: 6.12
+off_the_beaten_track: 5.205
 ---
 
 Sidi Ifni feels like a piece of Spain that washed up on the Atlantic coast of Morocco — which is essentially what it is. Spain held this enclave until 1969, and the town has never quite shaken its Iberian identity. Art Deco buildings in pastel shades line the streets, wrought-iron railings curl along balconies, and the main square, Place Hassan II, centres on an Andalusian garden with a tiled fountain. It is an oddity and a delight.

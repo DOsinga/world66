@@ -5,7 +5,7 @@ loc_type: city
 latitude: 55.9636
 longitude: 11.8525
 wikidata: Q1020031
-score: 4.201
+score: 4.441
 snippet: North Zealand harbour town where ferries, craft workshops, sand art, and
   Arctic history meet.
 sources:
@@ -17,10 +17,10 @@ image: hundested.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Hundested_(Denmark)_016.jpg
 image_license: CC BY 2.0
 image_attribution: News Oresund
-heritage: 3.658
-vibrancy: 2.183
-nature: 4.961
-off_the_beaten_track: 2.459
+heritage: 4.07
+vibrancy: 2.162
+nature: 5.158
+off_the_beaten_track: 2.464
 ---
 
 Hundested sits at the far northwest tip of Zealand, where the Kattegat, Isefjord, and Roskilde Fjord squeeze the town into a small working port. It is not polished in the way some Danish seaside towns are, and that helps it: ferries still come and go, fishing boats still work, and the harbour has filled in around them with artists, glassmakers, food stalls, and summer events.

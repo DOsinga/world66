@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 52.1417
 longitude: -122.1417
-score: 5.433
+score: 5.806
 snippet: Cariboo ranching city known for its Stampede, lake trails, and Chilcotin
   gateway roads.
 sources:
@@ -15,10 +15,10 @@ image: williams_lake.jpg
 image_source: https://commons.wikimedia.org/wiki/File:River_Valley_trail_Williams_Lake_BC.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Globalphotobank
-heritage: 3.28
-vibrancy: 2.376
-nature: 7.004
-off_the_beaten_track: 4.644
+heritage: 3.834
+vibrancy: 1.899
+nature: 7.375
+off_the_beaten_track: 5.11
 ---
 
 Williams Lake sits in the central Cariboo, where Highway 97 meets the road west into the Chilcotin. It is a working forestry and ranching town, not a polished mountain resort, and that is its charm. The landscape opens into dry grasslands, lakes, river valleys, and cattle country.

@@ -10,15 +10,15 @@ image_source: https://www.flickr.com/photos/87690240@N03/28109435260
 latitude: 35.834359
 loc_type: city
 longitude: 14.45787
-score: 5.872
+score: 5.955
 snippet: Maltese south-coast village beside the prehistoric Ħaġar Qim and Mnajdra
   temple complexes.
 title: Qrendi
 type: location
-heritage: 7.046
-vibrancy: 1.676
-nature: 5.073
-off_the_beaten_track: 2.293
+heritage: 7.011
+vibrancy: 2.6
+nature: 5.452
+off_the_beaten_track: 1.9
 ---
 
 Qrendi is a small village on Malta's south coast, but it punches well above its weight for travellers interested in prehistory. Just outside the village, within easy walking distance of each other, stand two of the world's oldest freestanding structures: the [Ħaġar Qim](/europe/malta/qrendi/hagar_qim) and [Mnajdra](/europe/malta/qrendi/mnajdra) temple complexes. Both date to roughly 3600–3200 BC — older than Stonehenge, older than the Pyramids — and sit on a limestone ridge above the Mediterranean with a view out to the tiny island of [Filfla](/europe/malta/qrendi/filfla_view).

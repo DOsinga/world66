@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Roman_Pool_in_Gafsa.jpg
 latitude: 34.422437
 loc_type: city
 longitude: 8.784386
-score: 4.243
+score: 4.426
 snippet: Working oasis city in west-central Tunisia, shaped by phosphate mines and
   deep Roman history.
 title: Gafsa
 type: location
-heritage: 4.181
-vibrancy: 3.097
-nature: 4.804
-off_the_beaten_track: 4.909
+heritage: 4.282
+vibrancy: 3.561
+nature: 5.046
+off_the_beaten_track: 4.532
 ---
 
 Gafsa is a working oasis city in west-central Tunisia, set in an arid landscape where the Atlas ranges give way to the steppe and, eventually, the Sahara. It is not a polished destination, and it does not pretend to be — the economy here runs on phosphate extraction, and the surrounding hills are notched with open-cast mines that produce some of the world's largest phosphate reserves. But Gafsa has genuine historical weight, and travelers heading deeper into the Jerid will find it a worthwhile pause rather than just a fuel stop.

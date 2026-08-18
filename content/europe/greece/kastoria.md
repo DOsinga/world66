@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Golden_Hour_in_Kastoria_Gr
 latitude: 40.5193
 loc_type: city
 longitude: 21.2663
-score: 5.933
+score: 6.088
 snippet: Northern Greek lake city on a narrow peninsula, rich in Byzantine churches
   and fur-trade mansions.
 sources:
@@ -16,9 +16,9 @@ sources:
 title: Kastoria
 type: location
 heritage: 6.221
-vibrancy: 3.951
-nature: 6.559
-off_the_beaten_track: 4.494
+vibrancy: 3.396
+nature: 6.799
+off_the_beaten_track: 4.139
 ---
 
 Kastoria is one of the more unusual cities in Greece — it sits on a long narrow peninsula that juts into Lake Orestiada, nearly encircled by water, and from certain angles looks exactly like an island floating in the mountains of northwestern Macedonia. The setting alone would be enough to justify a visit. What lifts it further is an extraordinary concentration of Byzantine churches — roughly 70 survive within the city, some dating from the 10th and 11th centuries — and a fur-trading tradition that made this a wealthy merchant town for several centuries and left behind a neighbourhood of grand stone mansions unlike anything else in northern Greece.

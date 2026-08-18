@@ -5,15 +5,15 @@ done:
 latitude: 41.586865
 loc_type: city
 longitude: -93.624949
-score: 4.398
+score: 4.615
 snippet: Iowa capital at the Des Moines and Raccoon rivers, with a gold-domed capitol
   and sculpture park
 title: Des Moines
 type: location
-heritage: 2.653
-vibrancy: 4.95
-nature: 2.971
-off_the_beaten_track: 0.623
+heritage: 3.16
+vibrancy: 5.177
+nature: 3.164
+off_the_beaten_track: 0.685
 ---
 
 Des Moines is the capital of [Iowa](/northamerica/unitedstates/iowa) and its largest city, sitting where the Des Moines and Raccoon rivers meet. It is more interesting than its reputation as a flyover-country capital might suggest.

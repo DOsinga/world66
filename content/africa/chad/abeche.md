@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Chad_Clothes_sewer_Ab%C3%A
 latitude: 13.8292
 loc_type: city
 longitude: 20.8324
-score: 3.831
+score: 4.306
 snippet: Eastern Chadian city and former Ouaddai capital, with old souqs and routes
   toward the Ennedi
 title: Abeche
 type: location
-heritage: 1.722
-vibrancy: 1.12
-nature: 3.514
-off_the_beaten_track: 6.261
+heritage: 2.515
+vibrancy: 1.847
+nature: 4.749
+off_the_beaten_track: 6.308
 ---
 
 Abeche, 750 km east of [N'Djamena](/africa/chad/ndjamena), was the most important city in [Chad](/africa/chad) when the French arrived. It was the capital of the powerful Ouaddai Kingdom, and you can still see the remnants of that era: crumbling mosques, cobbled streets worn smooth, old souqs, and a rundown sultan's palace that hints at former grandeur.

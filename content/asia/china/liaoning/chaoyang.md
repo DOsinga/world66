@@ -12,13 +12,13 @@ sources:
 - https://en.wikivoyage.org/wiki/Chaoyang
 title: Chaoyang
 type: location
-score: 3.344
+score: 3.289
 snippet: Western Liaoning city known for Early Cretaceous feathered dinosaur and primitive
   bird fossil discoveries.
-heritage: 2.763
-vibrancy: 2.414
-nature: 4.012
-off_the_beaten_track: 2.169
+heritage: 2.626
+vibrancy: 2.521
+nature: 3.88
+off_the_beaten_track: 2.023
 ---
 
 Chaoyang is known in paleontology circles worldwide, and it deserves to be. The hills around this western Liaoning city produced one of the most significant fossil discoveries of the twentieth century: a sequence of feathered dinosaurs and primitive birds from the Early Cretaceous period that fundamentally changed scientific understanding of avian evolution. Sinornithosaurus, Microraptor, and dozens of other species were pulled from these mudstone formations, and the [Chaoyang Bird Fossil National Geopark](/asia/china/liaoning/chaoyang/chaoyang_bird_fossil_national_geopark) — reopened in 2025 after a major upgrade — houses the results in a serious museum built around actual excavation sites.

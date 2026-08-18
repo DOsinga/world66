@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Baie_d%27Authie_au_sud_de_
 latitude: 50.424873
 loc_type: city
 longitude: 1.595289
-score: 4.07
+score: 4.505
 title: Berck sur Mer
 type: location
 snippet: Opal Coast beach town with broad sands, sand sailing, and easy access to
   northern French cities.
-heritage: 2.769
-vibrancy: 2.811
-nature: 4.95
-off_the_beaten_track: 3.213
+heritage: 2.939
+vibrancy: 3.017
+nature: 5.525
+off_the_beaten_track: 3.156
 ---
 
 For a beach holiday in the north of France, Berck-sur-Mer offers everything you could want — except maybe the hot Mediterranean sun of the Midi. The sandy beaches are enormous, there is a casino, and the town is built around outdoor activities: sand sailing, horse riding, water sports, and long walks along the Opal Coast. The ideal place for an active beach holiday.

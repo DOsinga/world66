@@ -2,7 +2,7 @@
 latitude: 39.142
 loc_type: city
 longitude: 16.2357
-score: 4.17
+score: 4.219
 snippet: Agricultural hilltown at the geographic centre of Calabria, with ruins of
   an 18th-century earthquake village and strong emigrant ties.
 tags:
@@ -13,10 +13,10 @@ image: grimaldi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Savuto_Valle_da_Scigliano.jpg
 image_license: Public domain
 image_attribution: Ferdinando Chiodo
-heritage: 3.141
-vibrancy: 2.094
-nature: 5.132
-off_the_beaten_track: 4.235
+heritage: 3.11
+vibrancy: 2.158
+nature: 5.221
+off_the_beaten_track: 4.09
 ---
 
 Grimaldi claims to be the geographic centre of Calabria, which gives it a symbolic weight the small population of around 2,000 people takes seriously. The town was largely destroyed by the 1783 earthquake and rebuilt at a nearby site; the ruins of the original settlement are still accessible a short distance away, an eerie open-air museum of collapsed streets and half-standing walls.

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Shawnee_Oklahoma_downtown.
 latitude: 35.327
 loc_type: city
 longitude: -96.925
-score: 2.442
+score: 1.787
 snippet: Oklahoma county-seat city with Potawatomi heritage, early-twentieth-century
   downtown, and an unexpectedly strong art museum
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Citizen_Potawatomi_Nation
 title: Shawnee
 type: location
-heritage: 2.356
-vibrancy: 2.294
-nature: 2.677
-off_the_beaten_track: 1.176
+heritage: 1.512
+vibrancy: 1.81
+nature: 1.726
+off_the_beaten_track: 1.375
 ---
 
 Shawnee sits in the heart of [Oklahoma](/northamerica/unitedstates/oklahoma), about 35 miles east of Oklahoma City, and serves as the seat of Pottawatomie County. The city has a quiet pride in its outsized contributions to American culture — actor Brad Pitt grew up here, and Mercury astronaut Gordon Cooper called it home. The [historic downtown](/northamerica/unitedstates/oklahoma/shawnee/downtown_shawnee) along Main Street has a handful of handsome early-twentieth-century commercial buildings, and the [Mabee-Gerrer Museum of Art](/northamerica/unitedstates/oklahoma/shawnee/mabee_gerrer_museum) on the campus of St. Gregory's University holds a surprisingly good collection that includes an Egyptian mummy.

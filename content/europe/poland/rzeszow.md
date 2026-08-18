@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:4_Rzesz%C3%B3w,_zesp%C3%B3
 latitude: 50.0413
 loc_type: city
 longitude: 21.999
-score: 5.65
+score: 5.141
 snippet: Southeastern Polish city on the Wislok River, centred on a market square
   and underground cellars.
 sources:
 - https://en.wikipedia.org/wiki/Rzesz%C3%B3w
 title: Rzeszow
 type: location
-heritage: 6.586
-vibrancy: 4.76
-nature: 2.772
-off_the_beaten_track: 2.201
+heritage: 5.892
+vibrancy: 4.535
+nature: 3.247
+off_the_beaten_track: 2.397
 ---
 
 Rzeszów is the largest city in southeastern Poland and the capital of the Subcarpathian Voivodeship — a regional centre of about 200,000 people that most travellers blow through on their way to Krakow, the Bieszczady mountains, or the Ukrainian border. That is a small mistake. The city has a pleasant Old Town, a properly grand Lubomirski castle, and a level of energy that comes from being a fast-growing university town with a serious aerospace industry on its outskirts.

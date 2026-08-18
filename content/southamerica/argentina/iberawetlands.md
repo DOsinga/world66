@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Marsh_deer_-_Iber%C3%A1_We
 latitude: -28.1174
 loc_type: feature
 longitude: -57.2882
-score: 6.355
+score: 6.159
 snippet: Argentine wetland wilderness of lakes, marshes, and floating islands rich
   in caiman and capybara.
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Iber%C3%A1_Wetlands
 title: Iberá Wetlands
 type: location
-heritage: 1.504
-vibrancy: 1.035
-nature: 8.18
-off_the_beaten_track: 5.475
+heritage: 1.603
+vibrancy: 1.087
+nature: 7.795
+off_the_beaten_track: 5.737
 ---
 
 The Esteros del Iberá are one of the world's great wetland wildernesses — a vast mosaic of lakes, floating islands, marshes, and gallery forest covering around 1.3 million hectares of northeastern Argentina. Second in size only to Brazil's Pantanal, the wetlands hold over 4,000 species of plants and animals, including populations of capybara, caiman, marsh deer, and giant anteaters that can be observed at extremely close range from small boats and on foot.

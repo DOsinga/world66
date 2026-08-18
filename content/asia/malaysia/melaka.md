@@ -10,15 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Malacca_River_Walk_2012.JP
 latitude: 2.329374
 loc_type: city
 longitude: 102.288096
-score: 5.973
+score: 6.801
 snippet: Historic Malaysian port city layered with Portuguese, Dutch, British, Chinese,
   Malay, and Indian influences.
 title: Melaka
 type: location
-heritage: 7.018
-vibrancy: 4.922
-nature: 3.153
-off_the_beaten_track: 1.526
+heritage: 7.573
+vibrancy: 6.45
+nature: 3.856
+off_the_beaten_track: 1.345
 ---
 
 Melaka (also spelled Malacca) is one of Malaysia's most historically rich cities — a place where Portuguese, Dutch, British, Chinese, Malay, and Indian cultures have layered on top of each other for over five centuries. Founded as a trading port around 1400 by a Malay prince fleeing from Temasek (present-day Singapore), it became within decades the most important emporium in Southeast Asia. Control of Melaka was control of the spice trade between East and West.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:00_0781_Canal_in_Delft_(NL
 latitude: 52.0116
 loc_type: city
 longitude: 4.3571
-score: 4.211
+score: 5.571
 snippet: Canal city between Rotterdam and The Hague, known for Vermeer, Delftware,
   and Orange history
 title: Delft
 type: location
-heritage: 4.297
-vibrancy: 4.21
-nature: 2.1
-off_the_beaten_track: 0.76
+heritage: 6.252
+vibrancy: 5.184
+nature: 2.215
+off_the_beaten_track: 0.741
 ---
 
 Delft is a small, handsome canal city wedged between Rotterdam and The Hague in the province of South Holland. It is one of the oldest cities in the Netherlands — the name comes from *delven*, to dig, after the canal that was dug here in the 11th century — and among the best-preserved, with a medieval centre of tree-lined canals, Gothic churches, and brick canal houses that has changed remarkably little in four hundred years. It is also a university town (the Delft University of Technology, founded 1842, is the Netherlands' oldest and largest engineering university), which means the cafés and bars stay lively even outside tourist season.

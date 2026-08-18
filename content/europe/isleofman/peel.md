@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:IOM_Peel_by_malost.JPG
 latitude: 54.2228
 loc_type: city
 longitude: -4.695
-score: 4.678
+score: 5.056
 snippet: West-coast Isle of Man fishing town, watched over by a ruined castle on St
   Patrick's Isle.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Peel_(Isle_of_Man)
 title: Peel
 type: location
-heritage: 5.183
-vibrancy: 2.977
-nature: 5.018
-off_the_beaten_track: 4.991
+heritage: 5.302
+vibrancy: 2.874
+nature: 5.59
+off_the_beaten_track: 4.584
 ---
 
 *Europe > Isle of Man > Peel*

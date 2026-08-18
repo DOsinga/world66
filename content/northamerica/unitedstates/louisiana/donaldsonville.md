@@ -6,14 +6,14 @@ latitude: 30.105194
 longitude: -90.987592
 title: Donaldsonville
 type: location
-score: 2.485
+score: 2.362
 loc_type: city
 snippet: Small Louisiana river town at Bayou Lafourche, with former capital history
   and River Road access.
-heritage: 2.689
-vibrancy: 1.387
-nature: 2.712
-off_the_beaten_track: 3.441
+heritage: 2.681
+vibrancy: 1.3
+nature: 2.387
+off_the_beaten_track: 3.196
 ---
 
 Donaldsonville sits at the junction of the Mississippi River and Bayou Lafourche, about 80 kilometres southwest of New Orleans. It is a small town with genuine historical weight: in the early 19th century it served briefly as the Louisiana state capital, and its compact historic downtown still holds a run of well-preserved commercial buildings from the antebellum boom years. Today it is the most useful base for exploring the River Road, the stretch of LA-18 that threads past Nottoway, Houmas House, and a string of other plantation houses between here and New Orleans — a landscape that tells the story of Louisiana sugar wealth and the enslaved labour that built it.

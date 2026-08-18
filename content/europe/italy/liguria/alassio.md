@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Alassio_from_Capo_Mele.jpg
 latitude: 44.008011
 loc_type: city
 longitude: 8.173027
-score: 6.097
+score: 5.743
 snippet: Western Ligurian resort town with a long sandy beach, pastel houses, and
   Il Budello promenade
 tags:
 - rivieradellepalme
 title: Alassio
 type: location
-heritage: 4.471
-vibrancy: 4.691
-nature: 7.183
-off_the_beaten_track: 2.081
+heritage: 3.607
+vibrancy: 4.926
+nature: 6.522
+off_the_beaten_track: 1.629
 ---
 
 Alassio is the undisputed belle of the western Ligurian Riviera — a long, sandy beach, pastel-coloured houses, and a mild climate that keeps the bougainvillea flowering well into autumn. It sits between Albenga and Laigueglia in what the Italians call the Baia del Sole, and its roughly 11,500 permanent residents share the town with tens of thousands of summer visitors who have been coming here since the Belle Époque.

@@ -5,15 +5,15 @@ done:
 latitude: 55.743347
 loc_type: city
 longitude: -97.863464
-score: 4.502
+score: 4.287
 snippet: Northern Manitoba mining city on the boreal edge, used as the rail gateway
   to Churchill.
 title: Thompson
 type: location
-heritage: 2.296
-vibrancy: 1.494
-nature: 5.208
-off_the_beaten_track: 5.801
+heritage: 1.851
+vibrancy: 1.745
+nature: 4.894
+off_the_beaten_track: 5.737
 ---
 
 Thompson is the largest city in northern Manitoba, a mining town of about 13,000 people built by Inco in the late 1950s after the discovery of one of the world's largest nickel deposits. The city sits on the edge of the boreal forest, surrounded by lakes, rivers, and muskeg — a landscape that is strikingly empty in every direction.

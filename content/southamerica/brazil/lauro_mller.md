@@ -5,17 +5,17 @@ done:
 latitude: -28.394224
 loc_type: city
 longitude: -49.39754
-score: 3.991
+score: 4.272
 sources:
 - https://en.wikipedia.org/wiki/Lauro_M%C3%BCller,_Santa_Catarina
 title: Lauro Müller
 type: location
 snippet: Santa Catarina coal-mining city below the Serra Geral, gateway to the Serra
   do Rio do Rastro road.
-heritage: 2.49
-vibrancy: 2.217
-nature: 5.115
-off_the_beaten_track: 3.44
+heritage: 2.593
+vibrancy: 2.234
+nature: 5.523
+off_the_beaten_track: 3.361
 ---
 
 Lauro Müller is a small city in the coal-mining heartland of southern Santa Catarina, sitting at the foot of the Serra Geral escarpment. The city exists because of coal — the British started mining here in 1842, making this one of Brazil's earliest industrial sites — and the landscape exists because of geology: the escarpment drops dramatically away from the high plateau of Santa Catarina to the coastal lowlands below.

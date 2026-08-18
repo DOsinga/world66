@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Gillingham_Green,_Gillingh
 latitude: 51.3872
 loc_type: city
 longitude: 0.5462
-score: 2.393
+score: 2.682
 snippet: Medway working town in north Kent, with Royal Engineers history and riverside
   Strand views
 title: Gillingham
 type: location
-heritage: 2.507
-vibrancy: 2.144
-nature: 2.647
-off_the_beaten_track: 1.255
+heritage: 3.094
+vibrancy: 2.078
+nature: 2.598
+off_the_beaten_track: 1.245
 ---
 
 Gillingham is one of the Medway towns in north Kent, sitting between [Rochester](/europe/unitedkingdom/england/south_east/rochester) and Chatham on the south bank of the River Medway estuary. It is a working town rather than a visitor destination, and most travellers passing through are heading to Rochester for the castle and cathedral, or to the Historic Dockyard at Chatham.

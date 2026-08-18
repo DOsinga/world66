@@ -5,7 +5,7 @@ done:
 latitude: 58.020077
 loc_type: city
 longitude: -5.343004
-score: 5.97
+score: 6.221
 title: Achiltibuie
 snippet: Remote northwest Scotland village facing the Summer Isles from the winding
   coast north of Ullapool.
@@ -14,10 +14,10 @@ image: achiltibuie.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2011_Schotland_Achiltibuie_2-06-2011_13-27-05.png
 image_license: CC BY-SA 3.0
 image_attribution: Paul Hermans
-heritage: 3.375
-vibrancy: 0.939
-nature: 7.612
-off_the_beaten_track: 5.378
+heritage: 3.395
+vibrancy: 1.558
+nature: 7.841
+off_the_beaten_track: 5.902
 ---
 
 Achiltibuie is a scattered village on the far northwest coast of Scotland, north of [Ullapool](/europe/unitedkingdom/scotland/ullapool), with glorious views across to the Summer Isles. The road out there is long and winding — it passes between Cul Beag and [Stac Pollaidh](/europe/unitedkingdom/scotland/achiltibuie/stac_pollaidh), two of the most distinctive mountains in Assynt — and that remoteness is much of the point. The landowners along the route are not welcoming to swimmers in their lochs, so stick to the coast.

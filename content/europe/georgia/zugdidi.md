@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Dadiani_Palace_Gruzia_2019
 latitude: 42.5072
 loc_type: city
 longitude: 41.8717
-score: 4.185
+score: 3.957
 snippet: Samegrelo city and Svaneti gateway, centred on Dadiani Palace and its eclectic
   princely museum.
 title: Zugdidi
 type: location
-heritage: 4.701
-vibrancy: 2.809
-nature: 4.344
-off_the_beaten_track: 3.061
+heritage: 4.386
+vibrancy: 2.913
+nature: 4.241
+off_the_beaten_track: 3.036
 ---
 
 Zugdidi is the main city of the Samegrelo region in western [Georgia](/europe/georgia), historically the capital of the Mingrelian principality. The star attraction is the [Dadiani Palace](/europe/georgia/zugdidi/dadiani_palace), now a museum housing an eclectic collection that includes one of Napoleon's three death masks — a relic of the marriage between a Dadiani prince and Napoleon's niece.

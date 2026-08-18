@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Huaibei_easterly_view.jpg
 latitude: 33.97
 loc_type: city
 longitude: 116.8
-score: 3.606
+score: 3.546
 snippet: Northern Anhui city where coal-mining history meets Han tombs and the old
   Sui-Tang Grand Canal.
 sources:
 - https://en.wikivoyage.org/wiki/Huaibei
 title: Huaibei
 type: location
-heritage: 3.151
-vibrancy: 3.806
-nature: 2.156
-off_the_beaten_track: 0.972
+heritage: 2.635
+vibrancy: 3.918
+nature: 2.317
+off_the_beaten_track: 1.047
 ---
 
 Huaibei occupies a corner of northern Anhui where the province meets Shandong, Jiangsu, and Henan — a crossroads that has given it a layered history out of proportion to its current profile. The city grew rapidly as a coal mining center in the mid-twentieth century, but as the mines have run down, Huaibei has made a genuine effort to reframe itself around its ancient heritage and its position on the old Sui-Tang Grand Canal.

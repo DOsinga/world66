@@ -2,7 +2,7 @@
 latitude: 38.8167
 loc_type: feature
 longitude: 38.75
-score: 3.165
+score: 3.317
 snippet: Huge hydroelectric reservoir on the upper Euphrates, 40 km west of Elazığ,
   with fjord-like views and boat trips.
 title: Keban Dam and Reservoir
@@ -11,10 +11,10 @@ image: keban_dam.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Damb%C3%BCy%C3%BCk-El%C3%A2z%C4%B1%C4%9F_Merkez-El%C3%A2z%C4%B1%C4%9F,_Turkey_-_panoramio.jpg
 image_license: CC BY 3.0
 image_attribution: Ramazan B.
-heritage: 2.808
-vibrancy: 1.891
-nature: 3.716
-off_the_beaten_track: 2.487
+heritage: 2.905
+vibrancy: 1.883
+nature: 3.91
+off_the_beaten_track: 2.481
 ---
 
 The Keban Dam, completed in 1974, is one of the largest hydroelectric projects in Turkey, and the reservoir behind it spreads across roughly 675 square kilometres of the upper Euphrates. From the right viewpoints — the road north toward Pertek is the best — the lake looks almost Scandinavian, with steep brown ridges dropping straight into still blue water. It is the defining landscape of the region around Elazığ, and the reason the city exists in its modern form.

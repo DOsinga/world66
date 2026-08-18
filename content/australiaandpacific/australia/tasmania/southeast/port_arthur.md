@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -43.15
 longitude: 147.85
-score: 5.673
+score: 5.804
 snippet: Small Tasman Peninsula settlement centred on Australia's best-known convict
   historic site.
 sources:
@@ -16,10 +16,10 @@ image: port_arthur.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Accountant%27s_House_and_Parsonage_at_Port_Arthur_Historic_Site,_Tasmania.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Jane6592
-heritage: 3.673
-vibrancy: 2.102
-nature: 7.236
-off_the_beaten_track: 3.625
+heritage: 4.025
+vibrancy: 1.68
+nature: 7.29
+off_the_beaten_track: 3.826
 ---
 
 Port Arthur is a small settlement on the Tasman Peninsula, almost 100 kilometres southeast of [Hobart](/australiaandpacific/australia/tasmania/hobart), but the name carries much more weight than the town's size suggests. This was one of the British Empire's harshest convict stations, chosen for its isolation and surrounded by water, forest, and cliffs that made escape nearly hopeless.

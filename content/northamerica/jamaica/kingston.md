@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Devonhouse.jpg
 latitude: 17.997
 loc_type: city
 longitude: -76.7936
-score: 5.687
+score: 5.608
 snippet: Jamaican capital and cultural engine, where reggae, dancehall, museums, and
   rough-edged city life converge.
 title: Kingston
 type: location
-heritage: 5.257
-vibrancy: 4.664
-nature: 6.561
-off_the_beaten_track: 3.331
+heritage: 5.136
+vibrancy: 4.487
+nature: 6.516
+off_the_beaten_track: 3.106
 ---
 
 Kingston is Jamaica's capital and by far its largest city — home to about a third of the island's population. It's the cultural engine of the country: reggae and dancehall were born here, the national museums are here, and the city's creative energy is unlike anywhere else in the Caribbean. Most package tourists never come, which means those who do have the major sights largely to themselves.

@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:%D0%9C%D0%B5%D1%82%D0%B5%D
 latitude: 39.703014
 loc_type: city
 longitude: 21.62536
-score: 6.021
+score: 5.9
 snippet: Thessaly town beneath Meteora's sandstone pinnacles, where cliff-top monasteries
   rise above the plain.
 title: Kalambaka
 type: location
-heritage: 6.791
-vibrancy: 4.707
-nature: 6.185
-off_the_beaten_track: 3.117
+heritage: 6.534
+vibrancy: 4.171
+nature: 6.334
+off_the_beaten_track: 3.093
 ---
 
 Kalambaka is the town at the foot of the [Meteora](/europe/greece/kalambaka/things_to_do), one of the most extraordinary landscapes in Greece. The Meteora are massive sandstone pinnacles that rise from the Thessaly plain, topped by medieval monasteries that seem to defy gravity. Six monasteries are still active today, open to visitors in the mornings and again in the late afternoon, and together they are a UNESCO World Heritage Site.

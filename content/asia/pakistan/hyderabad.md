@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:PK_Hyderabad_asv2020-02_im
 latitude: 25.3869
 loc_type: city
 longitude: 68.3715
-score: 5.349
+score: 5.029
 snippet: Sindh’s second city on the Indus, with old-city forts and rooftop badgir
   wind towers.
 title: Hyderabad
 type: location
-heritage: 5.287
-vibrancy: 5.413
-nature: 3.206
-off_the_beaten_track: 4.397
+heritage: 3.907
+vibrancy: 5.493
+nature: 3.423
+off_the_beaten_track: 4.373
 ---
 
 Not to be confused with [Hyderabad in India](/asia/india/andhrapradesh/hyderabad), this Hyderabad is the second largest city in Sindh and one of the largest in Pakistan. It lies 164 km north of [Karachi](/asia/pakistan/karachi), on the eastern bank of the Indus. When the river shifted its course away from Khudabad, the old regional capital, Hyderabad took over the role — and it has been the cultural heart of Sindh ever since.

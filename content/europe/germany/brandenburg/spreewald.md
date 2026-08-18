@@ -10,17 +10,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Im_Spreewald_03.jpg
 latitude: 51.8753
 loc_type: city
 longitude: 14.0
-score: 3.986
+score: 4.043
 snippet: Canal-laced forest region south of Berlin, shaped by Sorbian punt traditions
   and Spree river waterways
 sources:
 - https://en.wikipedia.org/wiki/Spree_Forest
 title: Spreewald
 type: location
-heritage: 4.601
-vibrancy: 2.195
-nature: 3.856
-off_the_beaten_track: 1.785
+heritage: 4.737
+vibrancy: 2.194
+nature: 3.752
+off_the_beaten_track: 1.681
 ---
 
 The Spreewald is a vast network of canals, meadows, and oak forests south of Berlin — a UNESCO Biosphere Reserve that feels like a different world entirely. The Spree river fans out here into around 300 waterways, and for centuries the local Sorbian people navigated them by punt rather than by road. That tradition is still very much alive, and a [boat ride through the channels](/europe/germany/brandenburg/spreewald/canal_punt_tours) remains the best thing you can do here.

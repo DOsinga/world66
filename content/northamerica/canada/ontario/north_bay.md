@@ -5,15 +5,15 @@ done:
 latitude: 46.3091
 loc_type: city
 longitude: -79.4608
-score: 4.634
+score: 4.699
 snippet: Northern Ontario city on Lake Nipissing, gateway to cottage lakes and boreal
   forest.
 title: North Bay
 type: location
-heritage: 3.432
-vibrancy: 3.231
-nature: 5.621
-off_the_beaten_track: 2.912
+heritage: 3.109
+vibrancy: 3.098
+nature: 5.786
+off_the_beaten_track: 3.185
 ---
 
 North Bay sits where Lake Nipissing meets Highway 11, about 350 km north of Toronto. It is a mid-sized northern Ontario city — 53,000 people, a university, a military base — and functions as the gateway to a large stretch of cottage and wilderness country. The lakes here are cold and clean, the fishing is good, and the boreal forest presses in close.

@@ -9,17 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Zennor_Church1.JPG
 latitude: 50.18769
 loc_type: city
 longitude: -5.573281
-score: 5.954
+score: 6.356
 snippet: Tiny Penwith village near the north Cornwall coast, known for St Senara's
   Church and mermaid legend.
 tags:
 - cornwall
 title: Zennor
 type: location
-heritage: 5.689
-vibrancy: 2.07
-nature: 6.817
-off_the_beaten_track: 4.182
+heritage: 6.63
+vibrancy: 1.801
+nature: 7.042
+off_the_beaten_track: 4.293
 ---
 
 Zennor is a tiny village on the B3306 between St Ives and St Just in Penwith, set back slightly from the wild north Penwith coast. The village is little more than a cluster of granite cottages, a church, and a pub, but it has a distinctive character and makes an excellent stopping point on the coastal road.

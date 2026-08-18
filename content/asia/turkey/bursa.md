@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bursa_Green_mosque_0494.jp
 latitude: 40.182573
 loc_type: city
 longitude: 29.067504
-score: 6.232
+score: 6.132
 snippet: First Ottoman capital, anchored by early imperial mosques, silk bazaars,
   and Iznik tilework.
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Green_Mosque,_Bursa
 title: Bursa
 type: location
-heritage: 7.614
-vibrancy: 4.543
-nature: 1.946
-off_the_beaten_track: 2.146
+heritage: 7.339
+vibrancy: 4.779
+nature: 2.636
+off_the_beaten_track: 2.236
 ---
 
 Bursa was the first major capital of the Ottoman Empire, and that origin story still defines the city. The [Green Mosque](/asia/turkey/bursa/green_mosque) and [Green Tomb](/asia/turkey/bursa/green_tomb), with their exquisite Iznik tilework, are among the finest early Ottoman monuments anywhere. The covered market district, the [Koza Han](/asia/turkey/bursa/koza_han) (Silk Bazaar), and the [Grand Mosque](/asia/turkey/bursa/grand_mosque) with its twenty domes are all within walking distance of each other in the old city center.

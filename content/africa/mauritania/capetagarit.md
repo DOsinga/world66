@@ -5,15 +5,15 @@ done:
 latitude: 20.167451
 loc_type: city
 longitude: -16.224841
-score: 6.43
+score: 6.03
 snippet: Mauritanian Atlantic headland near Banc d'Arguin, with clear water, fishing,
   and migratory birds
 title: Cape Tagarit
 type: location
-heritage: 2.277
-vibrancy: 0.755
-nature: 7.89
-off_the_beaten_track: 6.806
+heritage: 2.084
+vibrancy: 0.796
+nature: 7.384
+off_the_beaten_track: 6.432
 ---
 
 Cape Tagarit is a remote headland on the Atlantic coast of Mauritania, about 100 km north of Amghouar on the coast road between Nouakchott and Nouadhibou. It sits just north of Tidra island and the southern edge of the Banc d'Arguin National Park, and offers a rare opportunity to camp, fish, and snorkel on the Mauritanian coast without permits or organised tours.

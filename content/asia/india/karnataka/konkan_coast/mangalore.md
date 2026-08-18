@@ -4,15 +4,15 @@ done:
 latitude: 12.86981
 loc_type: city
 longitude: 74.843008
-score: 5.327
+score: 5.191
 snippet: Karnataka port city at the Netravati estuary, with spice-trade roots and
   terracotta-roofed neighbourhoods.
 title: Mangalore
 type: location
-heritage: 5.912
-vibrancy: 4.848
-nature: 5.693
-off_the_beaten_track: 3.517
+heritage: 5.375
+vibrancy: 4.122
+nature: 5.767
+off_the_beaten_track: 3.281
 ---
 
 Mangalore (Mangaluru) is a port city on Karnataka's coast, sitting on the estuary where the Netravati and Gurpur rivers meet the Arabian Sea. The town has been a trading hub for centuries — Arab merchants came here for pepper and spices long before the Portuguese arrived — and the port remains central to the city's character.

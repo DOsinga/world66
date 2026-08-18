@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Haleiwa_bridge.jpg
 latitude: 21.587627
 loc_type: city
 longitude: -158.103565
-score: 5.191
+score: 4.528
 snippet: Oahu North Shore town where surf culture gathers around the Anahulu River
   and winter waves.
 title: Haleiwa
 type: location
-heritage: 2.518
-vibrancy: 3.151
-nature: 6.524
-off_the_beaten_track: 2.437
+heritage: 2.037
+vibrancy: 2.551
+nature: 5.786
+off_the_beaten_track: 2.224
 ---
 
 Haleiwa is the gateway to Oahu's North Shore and the unofficial capital of Hawaiian surf culture. The small [town](/northamerica/unitedstates/hawaii/haleiwa/haleiwa_town) sits at the mouth of the Anahulu River, where a photogenic rainbow bridge marks the start of a two-lane strip of surf shops, shave ice stands, food trucks, and art galleries. It feels a world apart from the high-rises of [Honolulu](/northamerica/unitedstates/hawaii/honolulu) and Waikiki, an hour's drive to the south. The [Lili'uokalani Protestant Church](/northamerica/unitedstates/hawaii/haleiwa/liliuokalani_protestant_church) on the river's edge has its own piece of Hawaiian royal history.

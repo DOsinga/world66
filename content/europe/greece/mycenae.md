@@ -5,7 +5,7 @@ done:
   poi_cleanup: '2026-04-20'
 latitude: 37.729194
 longitude: 22.754429
-score: 5.446
+score: 5.768
 title: Mycenae
 type: location
 loc_type: feature
@@ -15,10 +15,10 @@ image: mycenae.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lion_Gate,_Mycenae,_201507.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Zde
-heritage: 7.14
-vibrancy: 1.631
-nature: 3.334
-off_the_beaten_track: 2.879
+heritage: 7.375
+vibrancy: 1.888
+nature: 3.957
+off_the_beaten_track: 2.969
 ---
 
 Mycenae was the most powerful city in the Aegean world for five centuries — from around 1600 BC until its sudden collapse around 1100 BC. The citadel that survives today, perched on a rocky hill between two mountains in the northeastern Peloponnese, gave its name to an entire civilisation. It is one of the most important archaeological sites in Europe and a genuine thrill to visit, even for travelers who are not especially interested in ancient history.

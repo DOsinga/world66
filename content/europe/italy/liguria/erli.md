@@ -9,17 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Erli_(SV)_-_chiesa_di_Sant
 latitude: 44.137529
 loc_type: city
 longitude: 8.103148
-score: 5.338
+score: 5.285
 snippet: Small Ligurian Alps municipality on the old Salt Road, with medieval frescoes
   and chestnut woods.
 tags:
 - rivieradellepalme
 title: Erli
 type: location
-heritage: 4.007
-vibrancy: 1.785
-nature: 6.575
-off_the_beaten_track: 3.548
+heritage: 4.128
+vibrancy: 1.636
+nature: 6.442
+off_the_beaten_track: 3.892
 ---
 
 Erli is a small, scattered municipality in the Neva valley in the Ligurian Alps, lying along what was once the ancient Salt Road connecting the coast to Piedmont. Its history is long: a possession of the marchesi di Clavesana from the twelfth century, it passed to the House of Savoy in 1623, then to the Republic of Genoa, and was sacked by Napoleon's troops in 1796.

@@ -5,15 +5,15 @@ done:
 latitude: 57.3904
 loc_type: city
 longitude: 21.5636
-score: 4.868
+score: 4.352
 snippet: Latvian port city on the Venta, with a medieval castle, promenade, and carefully
   kept parks
 title: Ventspils
 type: location
-heritage: 5.703
-vibrancy: 2.978
-nature: 4.52
-off_the_beaten_track: 1.916
+heritage: 5.009
+vibrancy: 3.127
+nature: 4.245
+off_the_beaten_track: 1.942
 ---
 
 Ventspils is a port city on Latvia's northwest coast, about 190 kilometres from Riga. It has a reputation as one of Latvia's cleanest and best-kept cities — the municipality has drawn steady income from its busy commercial harbour and, to its credit, has spent much of it on parks, cycle paths, and a well-maintained [old town](/europe/latvia/ventspils/old_town).

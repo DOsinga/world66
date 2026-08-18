@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bathhouse_Row,_Lamar,_Hot_
 latitude: 34.5037
 loc_type: city
 longitude: -93.0552
-score: 4.933
+score: 4.748
 snippet: Arkansas spa city built around thermal springs, Bathhouse Row, and a national
   park downtown
 title: Hot Springs
 type: location
-heritage: 3.45
-vibrancy: 2.803
-nature: 6.184
-off_the_beaten_track: 1.873
+heritage: 3.427
+vibrancy: 3.04
+nature: 5.89
+off_the_beaten_track: 1.739
 ---
 
 Hot Springs is built around the thermal waters that give it its name — 47 springs flowing from the western slope of Hot Springs Mountain at a constant 62°C. The city grew up as a resort town in the 19th century, and [Bathhouse Row](/northamerica/unitedstates/arkansas/hotsprings/bathhouse_row), a line of ornate spa buildings along Central Avenue, is now a National Historic Landmark within [Hot Springs National Park](/northamerica/unitedstates/arkansas/hotsprings/hot_springs_national_park).

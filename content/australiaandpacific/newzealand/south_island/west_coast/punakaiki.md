@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: -42.1084
 longitude: 171.3362
-score: 5.885
+score: 6.084
 snippet: Tiny West Coast village beside the Pancake Rocks and the limestone rainforest
   of Paparoa National Park.
 sources:
 - https://en.wikivoyage.org/wiki/Punakaiki
 - https://westcoast.co.nz/visit/discover/regions/punakaiki/
 - https://www.doc.govt.nz/parks-and-recreation/places-to-go/west-coast/places/paparoa-national-park/
-heritage: 2.013
-vibrancy: 1.584
-nature: 7.547
-off_the_beaten_track: 5.16
+heritage: 1.707
+vibrancy: 1.458
+nature: 7.681
+off_the_beaten_track: 5.733
 ---
 
 Punakaiki is a tiny village on the wild West Coast, wedged between the Tasman Sea and the rainforest of [Paparoa National Park](/australiaandpacific/newzealand/south_island/west_coast/punakaiki/paparoa_national_park). It is best known for the [Pancake Rocks and Blowholes](/australiaandpacific/newzealand/south_island/west_coast/punakaiki/pancake_rocks_and_blowholes), but the village is more than a quick coach stop if you give it a few hours.

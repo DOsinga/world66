@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 51.4767
 longitude: 6.1806
-score: 2.657
+score: 2.668
 snippet: Maas village in Limburg with castle gardens, brewery tours, thermal baths,
   and riverside walks.
 image: arcen.jpg
@@ -15,10 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Arcen
 - https://en.wikipedia.org/wiki/Arcen
 - https://www.wikidata.org/wiki/Q631873
-heritage: 2.49
-vibrancy: 2.274
-nature: 3.02
-off_the_beaten_track: 1.353
+heritage: 2.921
+vibrancy: 2.239
+nature: 2.898
+off_the_beaten_track: 1.364
 ---
 
 *Europe > Netherlands > Arcen*

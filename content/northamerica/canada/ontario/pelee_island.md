@@ -4,7 +4,7 @@ type: location
 loc_type: feature
 latitude: 41.7631
 longitude: -82.6891
-score: 4.656
+score: 4.638
 wikidata: Q22509227
 snippet: Lake Erie island and Canada's southernmost settled place, rich in birds,
   vines, and quiet roads.
@@ -16,10 +16,10 @@ image: pelee_island.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Pelee_Island_and_Middle_Island,_Ontario,_Canada_(7238171558).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Ken Lund
-heritage: 2.838
-vibrancy: 1.798
-nature: 6.014
-off_the_beaten_track: 3.039
+heritage: 2.912
+vibrancy: 1.628
+nature: 5.955
+off_the_beaten_track: 3.326
 ---
 
 Pelee Island sits in Lake Erie, low, warm, and separated from mainland Ontario by a ferry ride. It is the southernmost inhabited place in Canada, and that odd latitude matters: vineyards grow here, Carolinian species hang on, and migrating birds and monarch butterflies use the island as a stopover.

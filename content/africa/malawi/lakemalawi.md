@@ -4,15 +4,15 @@ done:
 latitude: -12.0
 loc_type: feature
 longitude: 34.5
-score: 5.914
+score: 5.807
 snippet: Great African lake along Malawi's eastern flank, with clear freshwater and
   endemic cichlid fish.
 title: Lake Malawi
 type: location
-heritage: 1.782
-vibrancy: 1.935
-nature: 7.414
-off_the_beaten_track: 5.743
+heritage: 1.909
+vibrancy: 1.634
+nature: 7.154
+off_the_beaten_track: 6.053
 ---
 
 Lake Malawi is one of the great lakes of Africa, stretching nearly 600 kilometres from north to south along Malawi's eastern flank and forming the country's border with Tanzania and Mozambique. It is the third largest lake on the continent and one of the deepest in the world. More than a thousand species of cichlid fish live in its waters, many found nowhere else on earth, which is why the lake was designated a UNESCO World Heritage Site.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 60.1333
 longitude: 24.2167
-score: 4.552
+score: 4.663
 snippet: Rural Uusimaa municipality of medieval manors, stone churches, and Aleksis
   Kivi literary history.
 sources:
@@ -17,10 +17,10 @@ image: siuntio.jpg
 image_source: https://commons.wikimedia.org/wiki/File:MG_6913-2.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Kiisla Oy (kiisla.fi)
-heritage: 3.695
-vibrancy: 1.525
-nature: 5.489
-off_the_beaten_track: 2.348
+heritage: 4.657
+vibrancy: 1.822
+nature: 5.254
+off_the_beaten_track: 1.934
 ---
 
 Siuntio is a rural municipality west of Helsinki, close enough for a day trip but quieter than the capital's usual orbit. Its appeal is old Uusimaa: medieval stone, manor houses, church villages, and the literary memory of Aleksis Kivi.

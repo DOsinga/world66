@@ -6,7 +6,7 @@ latitude: 16.5481
 longitude: 73.3367
 title: Vijaydurga
 type: location
-score: 5.081
+score: 5.186
 loc_type: city
 snippet: Konkan fishing town named for its sea fort, with beaches, creek dolphins,
   and Alphonso mango country
@@ -17,10 +17,10 @@ image: vijaydurga.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Vijaydurga.JPG
 image_license: CC BY-SA 3.0
 image_attribution: AdiDat
-heritage: 5.01
-vibrancy: 2.298
-nature: 5.752
-off_the_beaten_track: 4.544
+heritage: 5.016
+vibrancy: 2.162
+nature: 5.912
+off_the_beaten_track: 4.59
 ---
 
 Vijaydurga takes its name from the imposing fort that dominates the coastline here. Originally known as Gheriya, the fort was renamed by Shivaji Maharaj, the great Maratha warrior king. The town was once a busy fishing port, thriving when the Mumbai-Goa ferry service still ran.

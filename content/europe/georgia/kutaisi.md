@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Kutaisi_%26_White
 latitude: 42.271608
 loc_type: city
 longitude: 42.705447
-score: 5.329
+score: 4.867
 snippet: Western Georgian river city, once capital of Colchis and gateway to Imereti's
   gorges and monasteries.
 title: Kutaisi
 type: location
-heritage: 6.067
-vibrancy: 4.301
-nature: 5.348
-off_the_beaten_track: 3.366
+heritage: 5.497
+vibrancy: 3.571
+nature: 4.983
+off_the_beaten_track: 3.324
 ---
 
 Kutaisi is Georgia's second city and one of the oldest continuously inhabited cities in the world, sitting on the Rioni River in the western region of Imereti. It was the capital of the ancient Kingdom of Colchis — the land of the Golden Fleece of Greek mythology — and later the seat of the medieval Kingdom of Georgia. Today it is a lively market city with significant historic monuments, an airport with European low-cost connections, and good access to the forested gorges and mountains of western Georgia.

@@ -2,17 +2,17 @@
 latitude: 61.1833
 loc_type: city
 longitude: 28.7667
-score: 4.745
+score: 4.696
 snippet: South Karelian border city built around the famous Vuoksi rapids and Lake
   Saimaa.
 sources:
 - https://en.wikivoyage.org/wiki/Imatra
 title: Imatra
 type: location
-heritage: 3.168
-vibrancy: 1.756
-nature: 6.012
-off_the_beaten_track: 2.939
+heritage: 3.397
+vibrancy: 1.634
+nature: 5.839
+off_the_beaten_track: 3.071
 ---
 
 Imatra is a South Karelian city where the Vuoksi River drops out of Lake Saimaa in a roar of rock, water, and old tourist memory. The town is industrial in parts and close to the Russian border, but its fame comes from [Imatrankoski Rapids](/europe/finland/imatra/imatrankoski_rapids), a sight that drew aristocrats, artists, and ordinary Finnish holidaymakers long before modern tourism had a name.

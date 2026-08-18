@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:From_Varden,_Molde,_Norway
 latitude: 62.6016
 loc_type: city
 longitude: 8.1386
-score: 6.368
+score: 6.069
 title: Molde
 type: location
 snippet: Norwegian fjord town on Romsdalsfjorden, known for rose gardens and a panorama
   of mountain peaks.
-heritage: 4.215
-vibrancy: 4.003
-nature: 7.936
-off_the_beaten_track: 3.016
+heritage: 4.417
+vibrancy: 3.896
+nature: 7.525
+off_the_beaten_track: 2.729
 ---
 
 Molde bills itself as the "City of Roses," though the reason for the name is not immediately obvious. What is obvious is the setting: the town sits on the north shore of the broad Romsdalsfjorden, and from [Varden park](/europe/norway/molde/varden_viewpoint) you can count over 200 mountain peaks on both sides of the fjord. It is one of the most panoramic locations on the Norwegian coast.

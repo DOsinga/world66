@@ -5,7 +5,7 @@ done:
 latitude: 31.7129
 loc_type: city
 longitude: -110.0676
-score: 6.462
+score: 6.32
 sources:
 - https://en.wikipedia.org/wiki/Tombstone,_Arizona
 - https://en.wikipedia.org/wiki/Gunfight_at_the_O.K._Corral
@@ -14,10 +14,10 @@ title: Tombstone
 type: location
 snippet: Arizona silver-boom town where the O.K. Corral anchors a preserved Wild West
   historic district.
-heritage: 8.31
-vibrancy: 3.483
-nature: 4.322
-off_the_beaten_track: 2.968
+heritage: 8.121
+vibrancy: 3.245
+nature: 4.244
+off_the_beaten_track: 2.918
 ---
 
 Tombstone is the most famous Wild West town in America, and it knows it. Founded in 1879 after Ed Schieffelin struck silver in the San Pedro Valley, the town exploded from nothing to 10,000 people in just a few years — making it the largest city between San Francisco and St. Louis. The mines flooded in 1882 and the boom went bust, but unlike most mining towns, Tombstone refused to disappear. Its motto, "The Town Too Tough to Die," is earned.

@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Abandoibarra3.jpg
 latitude: 43.263
 loc_type: city
 longitude: -2.935
-score: 6.21
+score: 6.745
 snippet: Basque port city transformed from industrial centre to cultural hub around
   the Guggenheim Museum.
 title: Bilbao
 type: location
-heritage: 6.219
-vibrancy: 6.254
-nature: 3.715
-off_the_beaten_track: 1.18
+heritage: 6.929
+vibrancy: 6.726
+nature: 3.32
+off_the_beaten_track: 1.015
 ---
 
 Bilbao is the largest city in the Basque Country and the industrial heart of northern Spain — a gritty port on the Nervión river that spent most of the 20th century producing steel and shipping it out to the world. Then, in 1997, Frank Gehry's [Guggenheim Museum Bilbao](/europe/spain/basque_country_euskadi/bilbao/guggenheim_museum) opened on the waterfront, and the city changed overnight. The building — a swirling, titanium-clad explosion that looks different from every angle and shimmers like a fish in the rain — is genuinely one of the most important pieces of architecture built in the last fifty years, and the art inside (large-scale contemporary installations, with a permanent Richard Serra room that justifies the trip on its own) matches the exterior's ambition.

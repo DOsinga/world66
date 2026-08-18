@@ -15,7 +15,7 @@ quick_facts:
   Flame Towers: Three flame-shaped skyscrapers
   Land of Fire: Natural gas fires burn nearby
   Population: ~2.3 million
-score: 6.355
+score: 6.3
 snippet: Caspian capital of Azerbaijan where medieval walls, oil-boom mansions, and
   Flame Towers share the skyline.
 tip: Baku sits below sea level on the Caspian, and its skyline mixes a UNESCO-listed
@@ -25,10 +25,10 @@ tip: Baku sits below sea level on the Caspian, and its skyline mixes a UNESCO-li
   trip.
 title: Baku
 type: location
-heritage: 5.287
-vibrancy: 6.808
-nature: 2.934
-off_the_beaten_track: 2.292
+heritage: 5.626
+vibrancy: 6.603
+nature: 3.509
+off_the_beaten_track: 1.925
 ---
 
 Baku is the capital and largest city of [Azerbaijan](/europe/azerbaijan), a sprawling metropolis on the western shore of the Caspian Sea that has reinvented itself dramatically since the oil boom of the 2000s. The skyline now features the [Flame Towers](/europe/azerbaijan/baku/flame_towers) — three glass skyscrapers shaped like tongues of fire that have become the city's most recognizable landmark — alongside Soviet-era blocks, Belle Époque mansions from the first oil boom of the 1890s, and the medieval walls of the Old City.

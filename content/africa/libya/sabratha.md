@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Theatre_of_Sabratha,_Libya
 latitude: 32.805249
 loc_type: city
 longitude: 12.485202
-score: 6.15
+score: 5.216
 title: Sabratha
 type: location
 snippet: Ancient Roman port city west of Tripoli, defined by its restored theatre
   facing the Mediterranean.
-heritage: 7.271
-vibrancy: 2.084
-nature: 4.897
-off_the_beaten_track: 7.876
+heritage: 5.813
+vibrancy: 1.782
+nature: 2.736
+off_the_beaten_track: 7.817
 ---
 
 Sabratha was founded by the Phoenicians as a trading post, grew into a significant Roman port city, and today holds one of the most striking ancient theatres in the world. The three-tiered stage wall — columns rising against a backdrop of sea and sky — is the defining image of Libyan archaeology.

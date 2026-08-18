@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -17.745
 longitude: -48.625
-score: 5.206
+score: 5.093
 snippet: Goiás thermal-resort city built around hot mineral water, water parks, and
   cerrado hills.
 wikidata: Q120708
@@ -12,10 +12,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Caldas_Novas
 - https://goias.gov.br/meioambiente/parque-estadual-da-serra-de-caldas-novas-pescan/
 - https://lagoaparquesehoteis.com.br/
-heritage: 2.35
-vibrancy: 4.475
-nature: 5.907
-off_the_beaten_track: 1.704
+heritage: 1.806
+vibrancy: 4.074
+nature: 5.926
+off_the_beaten_track: 1.662
 ---
 
 Caldas Novas is Brazil's big inland hot-water resort, a Goiás city that grew around thermal springs rather than beaches. It is busy, family-oriented, and often more practical than pretty, but the identity is real: warm mineral water is the reason people come.

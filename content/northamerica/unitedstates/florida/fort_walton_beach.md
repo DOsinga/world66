@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 30.4058
 longitude: -86.6189
-score: 4.613
+score: 4.088
 snippet: Florida Panhandle beach city with Gulf sand, military aviation, and deep
   Native history.
 sources:
@@ -15,10 +15,10 @@ image: fort_walton_beach.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Sound_Park_Fort_Walton_Beach.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Fvcrew22
-heritage: 2.097
-vibrancy: 4.467
-nature: 4.992
-off_the_beaten_track: 1.172
+heritage: 1.407
+vibrancy: 3.58
+nature: 4.607
+off_the_beaten_track: 1.208
 ---
 
 Fort Walton Beach sits on the Emerald Coast between Pensacola and Destin, with Choctawhatchee Bay on one side and the white sand of Okaloosa Island on the other. It is less polished than Destin and less spring-break loud than parts of Panama City Beach, which is part of the appeal: the city still feels like a year-round Panhandle town with a beach attached.

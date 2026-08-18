@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 44.5206
 longitude: -80.0167
-score: 5.138
+score: 5.201
 snippet: Georgian Bay beach town built around a long freshwater strand, shallow water,
   and summer crowds.
 sources:
@@ -15,10 +15,10 @@ image: wasaga_beach.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Tourist_cabins_at_Wasaga_Beach_1949.jpg
 image_license: Public domain
 image_attribution: National Film Board of Canada
-heritage: 2.154
-vibrancy: 3.99
-nature: 6.036
-off_the_beaten_track: 1.498
+heritage: 2.397
+vibrancy: 3.869
+nature: 6.192
+off_the_beaten_track: 1.195
 ---
 
 Wasaga Beach is not subtle. It is an Ontario summer town stretched along Georgian Bay, with a sandy freshwater beach so long that the numbered beach areas feel like a small geography lesson. On a hot July weekend it can be busy, loud, and unapologetically beachy.

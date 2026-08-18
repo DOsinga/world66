@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 52.9657
 longitude: 10.5611
-score: 2.854
+score: 3.244
 snippet: Lower Saxony town known for its Hundertwasser railway station and brick-gothic
   old centre.
 wikidata: Q15989
@@ -17,10 +17,10 @@ image: uelzen.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bahnhof_Uelzen_(2017).jpg
 image_license: CC BY-SA 4.0
 image_attribution: JoachimKohler-HB
-heritage: 3.421
-vibrancy: 1.844
-nature: 2.476
-off_the_beaten_track: 2.063
+heritage: 4.011
+vibrancy: 1.761
+nature: 2.533
+off_the_beaten_track: 2.066
 ---
 
 Uelzen is a small Lower Saxony town that would be easy to miss if its station had not been transformed by Friedensreich Hundertwasser. That station is the reason most travellers notice Uelzen, and it is odd enough to justify a stop if you are moving between Hamburg, Hanover, and the Lueneburg Heath.

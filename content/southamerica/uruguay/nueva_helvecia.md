@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: -34.288
 longitude: -57.233
-score: 3.939
+score: 3.797
 snippet: Swiss-founded Uruguayan town of crests, dairy traditions, and old immigrant
   chapels.
 sources:
 - https://en.wikivoyage.org/wiki/Nueva_Helvecia
 - https://en.wikipedia.org/wiki/Nueva_Helvecia
-heritage: 4.274
-vibrancy: 3.557
-nature: 4.294
-off_the_beaten_track: 2.532
+heritage: 4.085
+vibrancy: 3.717
+nature: 3.796
+off_the_beaten_track: 2.714
 ---
 
 Nueva Helvecia, also called Colonia Suiza, is Uruguay's little piece of Switzerland. The comparison is not subtle: family crests, Central European details, dairy farms, and Swiss-inflected food all sit in a quiet town southeast of [Colonia del Sacramento](/southamerica/uruguay/coloniadelsacramento).

@@ -4,13 +4,13 @@ type: location
 loc_type: city
 latitude: -24.1615
 longitude: 151.88
-score: 5.254
+score: 5.381
 snippet: Tiny Queensland coast town where Cook history meets reef trips and sheltered
   Bustard Bay.
-heritage: 2.995
-vibrancy: 1.857
-nature: 6.874
-off_the_beaten_track: 3.961
+heritage: 3.208
+vibrancy: 1.541
+nature: 6.959
+off_the_beaten_track: 4.525
 ---
 
 The Town of 1770 is a small place with a large date for a name. It marks James Cook's first landing in what is now Queensland, but it does not feel like a museum town. It is a low, quiet settlement on Bustard Bay, with boats at the marina, mangrove edges, headland walks, and sunsets over water.

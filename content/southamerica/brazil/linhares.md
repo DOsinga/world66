@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -19.3894
 longitude: -40.0678
-score: 3.364
+score: 3.23
 snippet: Espírito Santo city of lagoons, Atlantic Forest reserves, and turtle beaches
   north of Vitória.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Linhares
 - https://en.wikipedia.org/wiki/Juparan%C3%A3_Lagoon
 - https://www.vale.com/vale-natural-reserve
-heritage: 3.541
-vibrancy: 2.621
-nature: 3.713
-off_the_beaten_track: 2.801
+heritage: 3.582
+vibrancy: 2.885
+nature: 3.456
+off_the_beaten_track: 2.757
 ---
 
 Linhares is not a pretty colonial town and it does not pretend to be one. It is a working city on BR-101, about 135 km north of Vitória, with its best travel reasons spread across the surrounding municipality: freshwater lagoons, preserved Atlantic Forest, and a wild stretch of turtle coast.

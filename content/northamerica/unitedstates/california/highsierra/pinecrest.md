@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 38.1886
 longitude: -119.991
-score: 5.42
+score: 5.88
 snippet: Small Sierra Nevada lake resort at 5,000 feet, with summer boating and winter
   snow play.
 sources:
@@ -14,10 +14,10 @@ image: pinecrest.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Pinecrest_Lake_California_1.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Leijurv
-heritage: 1.532
-vibrancy: 1.283
-nature: 6.985
-off_the_beaten_track: 4.642
+heritage: 2.107
+vibrancy: 1.275
+nature: 7.658
+off_the_beaten_track: 4.771
 ---
 
 Pinecrest is a small Sierra Nevada resort village wrapped around Pinecrest Lake, northeast of Sonora on Highway 108. It is not a big mountain town, and that is the point: the useful part of the place is compact, walkable, and focused on the lake, the forest, and the season you arrive in.

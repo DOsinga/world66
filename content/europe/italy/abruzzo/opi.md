@@ -9,17 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Opi-in_borgo_di_Opi_visto_
 latitude: 41.780873
 loc_type: city
 longitude: 13.829524
-score: 5.979
+score: 6.572
 tags:
 - abruzzonationalpark
 title: Opi
 type: location
 snippet: Tiny Abruzzo hilltop village near Val Fondillo in the national park's mountain
   country.
-heritage: 4.961
-vibrancy: 2.206
-nature: 7.164
-off_the_beaten_track: 4.827
+heritage: 5.61
+vibrancy: 1.829
+nature: 7.808
+off_the_beaten_track: 5.22
 ---
 
 Opi is a tiny hilltop village near Pescasseroli in the National Park of Abruzzo, Lazio and Molise. It sits on a rocky spur with splendid views over the surrounding valleys and mountains — a picturesque cluster of stone houses that has changed remarkably little over the centuries.

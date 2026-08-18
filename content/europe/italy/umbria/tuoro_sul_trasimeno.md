@@ -5,14 +5,14 @@ done:
 latitude: 43.206848
 loc_type: city
 longitude: 12.074615
-score: 5.321
+score: 5.658
 snippet: Lake Trasimeno hill village where Hannibal ambushed a Roman army in 217 BC.
 title: Tuoro sul Trasimeno
 type: location
-heritage: 4.922
-vibrancy: 4.338
-nature: 6.152
-off_the_beaten_track: 3.38
+heritage: 4.964
+vibrancy: 4.587
+nature: 6.554
+off_the_beaten_track: 3.307
 ---
 
 Tuoro sul Trasimeno is a quiet hilltop village on the northern shore of Lake Trasimeno, in the province of Perugia. It sits right on the border between [Umbria](/europe/italy/umbria) and [Tuscany](/europe/italy/tuscany), and the landscape around it — olive groves, vineyards, and the wide blue lake — belongs to both.

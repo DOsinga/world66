@@ -10,15 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Perugia_-_Comune_di_Perugi
 latitude: 43.1107
 loc_type: city
 longitude: 12.3908
-score: 6.139
+score: 6.482
 snippet: Umbrian hill city with Etruscan walls, medieval lanes, and a long university
   tradition.
 title: Perugia
 type: location
-heritage: 6.57
-vibrancy: 6.022
-nature: 4.477
-off_the_beaten_track: 1.425
+heritage: 6.462
+vibrancy: 6.539
+nature: 4.541
+off_the_beaten_track: 1.235
 ---
 
 Perugia sits on a high ridge in the heart of Umbria, its medieval streets and arched stairways spilling down the hillside in every direction. The old city is compact and almost entirely pedestrianised, centred on the long corso that runs between Piazza IV Novembre and Piazza Italia — lined with Gothic palaces, medieval towers, and the kind of bars where students and professors share tables without ceremony.

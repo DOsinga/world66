@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Patan_Durbar_Square.jpg
 latitude: 27.6766
 loc_type: city
 longitude: 85.3166
-score: 5.64
+score: 6.311
 snippet: Historic Newar city beside Kathmandu, known for Durbar Square, metalwork,
   and quieter lanes.
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Patan_Museum
 title: Patan
 type: location
-heritage: 6.947
-vibrancy: 1.809
-nature: 3.128
-off_the_beaten_track: 6.326
+heritage: 7.644
+vibrancy: 2.828
+nature: 5.293
+off_the_beaten_track: 5.389
 ---
 
 Patan lies just a few kilometres south of [Kathmandu](/asia/nepal/kathmandu), separated by the Bagmati River — though the two cities are fast growing into one. Officially known as Lalitpur ("City of Beauty"), Patan is quieter and more walkable than its neighbour, with a centuries-old tradition of metalwork and handicrafts that still shapes its streets.

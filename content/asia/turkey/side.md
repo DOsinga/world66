@@ -8,17 +8,17 @@ loc_type: city
 snippet: Mediterranean Turkish town on a narrow peninsula, where Roman ruins thread
   through beachside lanes.
 longitude: 31.3892
-score: 5.281
+score: 4.99
 title: Side
 type: location
 image: side.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Side_-_Vespasian_Gate.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Ingo Mehling
-heritage: 5.952
-vibrancy: 4.864
-nature: 5.307
-off_the_beaten_track: 3.118
+heritage: 5.381
+vibrancy: 4.118
+nature: 5.453
+off_the_beaten_track: 2.883
 ---
 
 Side (pronounced "see-day") is a small beach and archaeology town on Turkey's Mediterranean coast, about 75km east of Antalya. It occupies a narrow peninsula barely 300 metres wide, with the sea visible from almost any point in the old town. That old town itself is extraordinary: the ruins of a Roman city were simply built over as the centuries passed, and today the narrow lanes are lined with two-storey stone houses growing directly out of ancient walls.

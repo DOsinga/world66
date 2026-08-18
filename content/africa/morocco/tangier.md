@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Faro_del_cabo_Espartel,_Ma
 latitude: 35.7596
 loc_type: city
 longitude: -5.834
-score: 5.78
+score: 5.662
 snippet: Moroccan port city where the Mediterranean meets the Atlantic, long shaped
   by international crossroads energy
 title: Tangier
 type: location
-heritage: 6.967
-vibrancy: 4.405
-nature: 3.105
-off_the_beaten_track: 2.645
+heritage: 6.679
+vibrancy: 4.612
+nature: 3.941
+off_the_beaten_track: 2.506
 ---
 
 Tangier sits at the northwestern tip of Africa, where the Mediterranean meets the Atlantic and Europe shimmers on the horizon. For centuries this position made it a crossroads of civilizations, a free port, and an international zone where anything went. The old reputation for intrigue has faded, but the city's restless energy has not.

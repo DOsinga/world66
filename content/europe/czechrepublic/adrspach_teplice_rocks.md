@@ -4,13 +4,13 @@ type: location
 loc_type: feature
 latitude: 50.608611
 longitude: 16.108889
-score: 5.965
+score: 6.216
 snippet: A vast maze of sandstone towers and ravines in northeastern Bohemia, one
   of the Czech Republic's great natural wonders.
-heritage: 5.039
-vibrancy: 1.688
-nature: 7.11
-off_the_beaten_track: 3.342
+heritage: 5.06
+vibrancy: 1.996
+nature: 7.49
+off_the_beaten_track: 3.247
 ---
 
 The Adršpach-Teplice Rocks (Adršpašsko-teplické skály) are an extraordinary labyrinth of sandstone pillars, gorges, and narrow defiles in the hills of northeastern [Bohemia](/europe/czechrepublic), about 40 km west of [Náchod](/europe/czechrepublic/nachod). Wind and water have carved the soft rock over millions of years into towers that rise a hundred metres and more, with names earned from their silhouettes — the Mayor, the Lovers, the Sugar Loaf. It is the largest rock town in central Europe and a protected nature reserve.

@@ -5,7 +5,7 @@ loc_type: city
 latitude: 48.27659
 longitude: -116.553248
 wikidata: Q913220
-score: 5.909
+score: 5.803
 snippet: North Idaho lake town between Lake Pend Oreille, downtown arts, and Schweitzer
   Mountain.
 sources:
@@ -18,10 +18,10 @@ image: sandpoint.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Sandpoint,_ID.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Kgrr
-heritage: 4.379
-vibrancy: 4.054
-nature: 7.2
-off_the_beaten_track: 3.717
+heritage: 4.305
+vibrancy: 3.325
+nature: 7.17
+off_the_beaten_track: 3.974
 ---
 
 Sandpoint is the rare small American resort town where the setting does most of the selling and the town still has a centre. It sits on Lake Pend Oreille, Idaho's largest lake, with the Selkirk and Cabinet mountains close enough to make downtown feel tucked into the landscape.

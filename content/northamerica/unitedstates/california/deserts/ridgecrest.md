@@ -4,7 +4,7 @@ done:
 latitude: 35.6225
 loc_type: city
 longitude: -117.6708
-score: 3.882
+score: 3.885
 snippet: High-desert gateway town for China Lake, petroglyph country, and the northern
   Mojave.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Maturango_Museum
 title: Ridgecrest
 type: location
-heritage: 2.232
-vibrancy: 1.974
-nature: 5.063
-off_the_beaten_track: 2.616
+heritage: 2.358
+vibrancy: 1.968
+nature: 5.022
+off_the_beaten_track: 2.429
 ---
 
 Ridgecrest sits in the Indian Wells Valley, a dry basin between the Sierra Nevada, the Coso Range, and the open Mojave. It is a practical town first: fuel, food, motels, and military traffic from Naval Air Weapons Station China Lake. But it also makes a useful base for one of California's more overlooked desert corners.

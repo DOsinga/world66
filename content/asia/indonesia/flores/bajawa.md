@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: -8.7856
 longitude: 120.9744
-score: 5.141
+score: 5.881
 snippet: Cool Flores highland town surrounded by Ngada villages, volcano views, and
   hot springs.
 sources:
 - https://en.wikivoyage.org/wiki/Bajawa
 - https://artsandculture.google.com/story/bena-ngada-traditional-village-budi-luhur-university/dwURCyXqAySkFQ?hl=en
 - https://www.gunungbagging.com/inerie/
-heritage: 3.286
-vibrancy: 2.398
-nature: 6.302
-off_the_beaten_track: 5.463
+heritage: 3.089
+vibrancy: 2.803
+nature: 7.389
+off_the_beaten_track: 5.66
 ---
 
 Bajawa is the cultural centre of the Ngada highlands in central [Flores](/asia/indonesia/flores). At about 1,200 metres above sea level, it is cooler than the coast and ringed by volcanic ridges, coffee gardens, and villages where megalithic courtyards and clan houses are still part of daily life.

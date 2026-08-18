@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -25.899
 longitude: 139.302
-score: 5.558
+score: 5.615
 snippet: Remote Queensland outback town at the Birdsville Track and the eastern edge
   of the Simpson Desert.
 wikidata: Q865118
@@ -17,10 +17,10 @@ image: birdsville.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Birdsville_Hotel.jpg
 image_license: Public domain
 image_attribution: Stuart Edwards
-heritage: 3.355
-vibrancy: 1.611
-nature: 6.786
-off_the_beaten_track: 5.991
+heritage: 2.414
+vibrancy: 1.654
+nature: 6.842
+off_the_beaten_track: 6.098
 ---
 
 Birdsville is one of those Australian places whose name is bigger than the town. It sits in the far south-west corner of Queensland, near the South Australian border, where the Birdsville Track meets the eastern edge of the Simpson Desert and the flood country of the Diamantina.

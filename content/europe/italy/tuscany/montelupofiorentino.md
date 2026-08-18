@@ -2,15 +2,15 @@
 latitude: 43.7294
 loc_type: city
 longitude: 11.0188
-score: 4.627
+score: 4.465
 snippet: Tuscan Arno town famed for Renaissance maiolica ceramics and a museum tracing
   that craft.
 title: Montelupo Fiorentino
 type: location
-heritage: 6.144
-vibrancy: 2.264
-nature: 2.656
-off_the_beaten_track: 1.981
+heritage: 5.93
+vibrancy: 2.071
+nature: 2.56
+off_the_beaten_track: 2.116
 ---
 
 Montelupo Fiorentino is a small Tuscan town on the Arno river between Florence and Empoli, best known for a centuries-old tradition of ceramic production that once supplied the major courts and markets of Renaissance Italy. The town's position at the confluence of the Arno and Pesa rivers made it a natural trading point, and by the 15th century its workshops were producing maiolica of exceptional quality — exported across Europe and collected by the Medici.

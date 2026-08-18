@@ -4,14 +4,14 @@ type: location
 loc_type: city
 latitude: 51.947
 longitude: -3.391
-score: 5.202
+score: 5.337
 snippet: Usk Valley market town and classic base for Bannau Brycheiniog walks.
 source: Wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Brecon
-heritage: 4.359
-vibrancy: 2.673
-nature: 6.215
-off_the_beaten_track: 3.385
+heritage: 4.482
+vibrancy: 2.332
+nature: 6.373
+off_the_beaten_track: 3.763
 ---
 
 *Europe > United Kingdom > Wales > Brecon*

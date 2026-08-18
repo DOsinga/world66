@@ -5,15 +5,15 @@ done:
 latitude: 49.2068
 loc_type: city
 longitude: -122.9109
-score: 4.559
+score: 4.413
 snippet: Fraser River city east of Vancouver, western Canada's old capital with a
   historic waterfront.
 title: New Westminster
 type: location
-heritage: 3.73
-vibrancy: 3.63
-nature: 5.313
-off_the_beaten_track: 1.635
+heritage: 3.251
+vibrancy: 3.803
+nature: 5.002
+off_the_beaten_track: 1.726
 ---
 
 New Westminster is western Canada's oldest city and was the first capital of [British Columbia](/northamerica/canada/britishcolumbia). It sits along the north bank of the Fraser River, about 25 km east of [Vancouver](/northamerica/canada/britishcolumbia/vancouver), and is easily reached by SkyTrain.

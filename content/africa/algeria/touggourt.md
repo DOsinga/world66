@@ -4,15 +4,15 @@ done:
 latitude: 33.1064
 loc_type: city
 longitude: 6.0588
-score: 4.17
+score: 4.363
 snippet: Saharan oasis city on Algeria's palm-fringed salt lakes, once a caravan hub
   and independent kingdom
 title: Touggourt
 type: location
-heritage: 3.223
-vibrancy: 1.833
-nature: 4.78
-off_the_beaten_track: 5.515
+heritage: 2.363
+vibrancy: 2.194
+nature: 5.081
+off_the_beaten_track: 5.51
 ---
 
 Touggourt is a Saharan oasis city in eastern [Algeria](/africa/algeria), strung along a chain of palm-fringed salt lakes at the northern edge of the Grand Erg Oriental. For centuries it was a caravan hub connecting the Mediterranean coast with the deep Sahara, and the capital of a small independent kingdom that resisted both Ottoman and French control longer than most.

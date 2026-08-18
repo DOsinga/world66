@@ -2,7 +2,7 @@
 latitude: 44.3333
 loc_type: city
 longitude: -76.1667
-score: 4.808
+score: 4.628
 snippet: St. Lawrence river town that works as the most direct base for the Thousand
   Islands.
 sources:
@@ -12,10 +12,10 @@ sources:
 title: Gananoque
 type: location
 wikidata: Q1208051
-heritage: 3.896
-vibrancy: 2.821
-nature: 5.801
-off_the_beaten_track: 2.693
+heritage: 3.559
+vibrancy: 2.567
+nature: 5.665
+off_the_beaten_track: 2.902
 ---
 
 Gananoque sits on the St. Lawrence River at the western end of the Thousand Islands. It is small, easy to walk, and busy in summer for one clear reason: this is one of the simplest places to get out among the islands without first detouring through [Kingston](/northamerica/canada/ontario/kingston).

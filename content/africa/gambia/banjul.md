@@ -7,15 +7,15 @@ done:
 latitude: 13.45535
 loc_type: city
 longitude: -16.575646
-score: 4.716
+score: 4.646
 snippet: Compact Gambian capital on St Mary's Island, with Albert Market and a working
   riverfront at its core.
 title: Banjul
 type: location
-heritage: 4.469
-vibrancy: 4.504
-nature: 5.133
-off_the_beaten_track: 3.933
+heritage: 3.994
+vibrancy: 4.33
+nature: 5.109
+off_the_beaten_track: 4.078
 ---
 
 Banjul is The Gambia's capital, though it barely feels like one. Situated on St Mary's Island at the mouth of the Gambia River, it was founded by the British in 1816 as a trading post and has never grown into a big city. The population is small -- most of the urban sprawl has moved to neighbouring Serekunda and the coastal resort towns. What Banjul offers is a compact, walkable centre with genuine West African character.

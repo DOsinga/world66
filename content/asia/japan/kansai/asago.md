@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: 35.3396
 longitude: 134.853
-score: 5.557
+score: 5.357
 snippet: Inland Hyogo city of mountain castle ruins, silver mines and Meiji industrial
   relics.
 sources:
 - https://en.wikivoyage.org/wiki/Asago
 - https://www.hyogo-tourism.jp/world/spot/detail_1059.html
 - https://www.city.asago.hyogo.jp/
-heritage: 6.313
-vibrancy: 2.969
-nature: 5.606
-off_the_beaten_track: 4.551
+heritage: 5.989
+vibrancy: 2.773
+nature: 5.625
+off_the_beaten_track: 3.808
 ---
 
 Asago sits in inland Hyogo, north of Himeji and west of Kyoto, with its sights scattered through valleys rather than packed into one centre. It is not an easy casual wander, but it rewards anyone interested in castles, mining history and the quieter side of rural Kansai.

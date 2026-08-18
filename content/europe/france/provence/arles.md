@@ -10,15 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:1_arles_france_2016.jpg
 latitude: 43.677622
 loc_type: city
 longitude: 4.630965
-score: 6.129
+score: 6.116
 snippet: Provençal Roman town where an ancient arena, Van Gogh streets, and Rhône
   light crowd the centre
 title: Arles
 type: location
-heritage: 6.468
-vibrancy: 6.047
-nature: 3.968
-off_the_beaten_track: 1.299
+heritage: 5.804
+vibrancy: 6.281
+nature: 3.954
+off_the_beaten_track: 1.134
 ---
 
 Arles packs a startling amount of history into a small Provencal town. The Romans built an [amphitheatre](/europe/france/provence/arles/roman_arena) here that still hosts bullfights and summer concerts. Van Gogh arrived in 1888, painted over 200 canvases in fifteen months, and many of the streets and squares he captured — including the famous [Café Terrace at Night](/europe/france/provence/arles/van_goghs_nightca) — can still be recognised today.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bothe-Napa_Valley_State_Pa
 latitude: 38.489868
 loc_type: city
 longitude: -122.321841
-score: 5.657
+score: 5.187
 snippet: Northern California wine town on the valley floor between the Mayacamas and
   Vaca ranges.
 title: Napa
 type: location
-heritage: 4.136
-vibrancy: 6.147
-nature: 4.391
-off_the_beaten_track: 1.383
+heritage: 5.232
+vibrancy: 5.209
+nature: 4.591
+off_the_beaten_track: 1.513
 ---
 
 Napa is the largest town in the Napa Valley, about an hour's drive north of San Francisco. The valley floor is carpeted with vineyards between the Mayacamas and Vaca mountain ranges, and most visitors come to taste wine, eat well, and not much else. There are over 400 wineries in the valley, ranging from vast industrial operations to small family estates; the smaller ones are generally more rewarding to visit. The [Silverado Trail](/northamerica/unitedstates/california/napa/silverado_trail) on the east side of the valley is the more pleasant driving route through the wine country.

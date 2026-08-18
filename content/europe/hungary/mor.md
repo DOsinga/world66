@@ -9,14 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Volt_Lamberg_kast%C3%A9ly_
 latitude: 47.372
 loc_type: city
 longitude: 18.209
-score: 2.379
+score: 2.697
 snippet: Small Fejér wine town known for Ezerjó whites and hillside cellar rows near
   Budapest
 title: Mór
 type: location
-heritage: 2.593
-vibrancy: 2.163
-nature: 2.588
+heritage: 3.12
+vibrancy: 2.111
+nature: 2.594
 off_the_beaten_track: 1.277
 ---
 

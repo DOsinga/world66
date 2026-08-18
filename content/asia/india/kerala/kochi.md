@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:07.10.2007_Sunset_at_Kochi
 latitude: 9.967903
 loc_type: city
 longitude: 76.244438
-score: 5.92
+score: 5.748
 snippet: Kerala port city where Fort Kochi preserves Portuguese, Dutch, British, and
   Jewish traces by the waterfront.
 title: Kochi
 type: location
-heritage: 5.649
-vibrancy: 6.068
-nature: 4.625
-off_the_beaten_track: 1.975
+heritage: 5.964
+vibrancy: 5.709
+nature: 4.837
+off_the_beaten_track: 1.931
 ---
 
 Kochi, also known as Cochin, is Kerala's most cosmopolitan city and a fascinating place to walk around. The old [Fort Kochi](/asia/india/kerala/kochi/fort_kochi) area has a distinctly European feel, shaped by centuries of Portuguese, Dutch and British rule, each of whom left buildings, churches and cultural footprints that still define the neighbourhood.

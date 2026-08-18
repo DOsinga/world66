@@ -5,15 +5,15 @@ done:
 latitude: 22.152726
 loc_type: city
 longitude: 113.558394
-score: 6.38
+score: 7.065
 snippet: Macau island district where Portuguese village lanes sit near the casino
   towers of Cotai.
 title: Taipa
 type: location
-heritage: 5.543
-vibrancy: 6.746
-nature: 4.065
-off_the_beaten_track: 1.037
+heritage: 6.602
+vibrancy: 7.294
+nature: 3.743
+off_the_beaten_track: 0.927
 ---
 
 Taipa is one of the two main islands that make up Macau's territory alongside the peninsula. It is now largely continuous with Macau city via the Cotai Strip — the reclaimed land between Taipa and [Coloane](/asia/china/coloane) that has become a dense concentration of casino resorts. The original village of Taipa, however, retains a pleasant Portuguese colonial character that is worth seeking out.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Machilipatnam_beach_at_dus
 latitude: 16.1817
 loc_type: city
 longitude: 81.1348
-score: 4.378
+score: 3.768
 snippet: Bay of Bengal port city known for colonial trading history and hand-painted
   Kalamkari cotton.
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Siege_of_Masulipatam
 title: Machilipatnam
 type: location
-heritage: 5.567
-vibrancy: 2.624
-nature: 3.073
-off_the_beaten_track: 2.881
+heritage: 4.582
+vibrancy: 2.789
+nature: 3.011
+off_the_beaten_track: 2.787
 ---
 
 Machilipatnam (also known as Masulipatnam or Bandar) is a port city in Krishna district of Andhra Pradesh, situated on the Bay of Bengal about 50 km from Vijayawada. It is one of the oldest port towns on the eastern coast of India, with a history stretching back to the 2nd century BCE. During the colonial era it was a significant trading post — the Dutch, British, and French all had factories here at various times in the 17th century, making it a flashpoint in the global competition between European powers in Asia.

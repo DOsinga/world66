@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -28.88
 longitude: 121.33
-score: 5.268
+score: 4.789
 snippet: Northern Goldfields outpost beside Gwalia, one of Western Australia's most
   evocative ghost towns.
 wikidata: Q985161
@@ -13,10 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Leonora,_Western_Australia
 - https://www.wikidata.org/wiki/Q985161
 - https://www.gwalia.org.au/
-heritage: 4.485
-vibrancy: 1.883
-nature: 6.163
-off_the_beaten_track: 6.56
+heritage: 3.645
+vibrancy: 1.565
+nature: 5.399
+off_the_beaten_track: 6.633
 ---
 
 Leonora is a small, hard-edged goldfields town north of Kalgoorlie, kept alive by mining, distance, and the long memory of the rush. The town itself is spare, but the nearby settlement of Gwalia gives it a reason to stop rather than just refuel.

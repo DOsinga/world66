@@ -4,7 +4,7 @@ done:
 latitude: 39.260011
 loc_type: feature
 longitude: 16.507491
-score: 4.917
+score: 4.911
 snippet: Forested Calabrian mountain plateau of pine woods, artificial lakes, and
   cool upland villages
 title: La Sila
@@ -13,10 +13,10 @@ image: la_sila.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Colori_dell%27autunno_SILA_-_panoramio.jpg
 image_license: CC BY 3.0
 image_attribution: Salvatore Migliari
-heritage: 3.274
-vibrancy: 2.922
-nature: 6.209
-off_the_beaten_track: 4.057
+heritage: 3.18
+vibrancy: 2.359
+nature: 6.262
+off_the_beaten_track: 4.423
 ---
 
 The Sila is a vast mountain plateau in the heart of Calabria, covered in dense pine and beech forests that feel more like Scandinavia than southern Italy. Three artificial lakes -- Arvo, Ampollino, and Cecita -- sit among the trees, popular for picnics and gentle walks.

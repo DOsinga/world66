@@ -4,13 +4,13 @@ type: location
 loc_type: city
 latitude: 41.1994
 longitude: 47.1706
-score: 4.925
+score: 5.064
 snippet: Caucasus foothills town on Azerbaijan's Silk Road, noted for the 18th-century
   Khan's Palace.
 heritage: 6.212
-vibrancy: 2.921
-nature: 3.524
-off_the_beaten_track: 5.06
+vibrancy: 2.788
+nature: 4.068
+off_the_beaten_track: 4.141
 ---
 
 Sheki (historically known as Nukha, and still sometimes spelled Shaki) sits in the foothills of the Greater Caucasus in northwestern Azerbaijan, surrounded by chestnut forests and mountain streams. It was a major stop on the ancient Silk Road and served as the capital of the Sheki Khanate from the 17th through 19th centuries — a history you can see in the remarkable buildings that survive from that era.

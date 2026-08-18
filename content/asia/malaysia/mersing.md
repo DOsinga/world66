@@ -4,7 +4,7 @@ done:
 latitude: 2.4333
 loc_type: city
 longitude: 103.8333
-score: 4.499
+score: 4.566
 snippet: East Johor ferry town with fishing boats, quiet beaches and access to offshore
   islands.
 sources:
@@ -16,10 +16,10 @@ image: mersing.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mersing_-_Harbour_Centre_-_May_2024.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Dominic Nelson
-heritage: 2.829
-vibrancy: 1.827
-nature: 5.775
-off_the_beaten_track: 3.516
+heritage: 3.105
+vibrancy: 1.665
+nature: 5.762
+off_the_beaten_track: 3.547
 ---
 
 Mersing is the east-coast Johor town where many travellers pass through on the way to Tioman and the islands. That gateway role is real, but the town is not just a ticket counter. It has a slow, salt-edged rhythm: fishing boats on the [Mersing River](/asia/malaysia/mersing/mersing_river), simple seafood places, old shophouses, and the feeling of a Malaysian coast town that has not been remade for style.

@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:RO_HR_Miercurea_Ciuc_Miko_
 latitude: 46.3614
 loc_type: city
 longitude: 25.8027
-score: 5.196
+score: 4.772
 title: Miercurea Ciuc
 type: location
 snippet: Transylvanian city in the Székely heartland, surrounded by eastern Carpathian
   mountains and valleys.
-heritage: 5.882
-vibrancy: 3.302
-nature: 5.291
-off_the_beaten_track: 3.267
+heritage: 5.343
+vibrancy: 2.971
+nature: 4.991
+off_the_beaten_track: 3.373
 ---
 
 Miercurea Ciuc is the capital of Harghita county in the eastern Carpathians, deep in the Székely heartland of Transylvania. The population is overwhelmingly Hungarian-speaking, and the town has a distinctly different feel from the rest of Romania — the signs are bilingual, the food leans towards Hungarian, and the cultural identity is fiercely Székely.

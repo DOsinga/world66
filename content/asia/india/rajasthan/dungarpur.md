@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Dungarpur_II_018.jpg
 latitude: 23.8539
 loc_type: city
 longitude: 73.7087
-score: 4.291
+score: 4.104
 snippet: Southern Rajasthani town in the Aravalli foothills, known for Juna Mahal
   and Bhil village country.
 title: Dungarpur
 type: location
-heritage: 5.008
-vibrancy: 3.604
-nature: 3.911
-off_the_beaten_track: 4.196
+heritage: 4.533
+vibrancy: 3.967
+nature: 4.1
+off_the_beaten_track: 3.987
 ---
 
 Dungarpur is one of those Rajasthani towns that tourism forgot. Tucked into the Aravalli foothills in southern Rajasthan, about 110 km from [Udaipur](/asia/india/rajasthan/udaipur) and close to the Gujarat border, it has no luxury heritage hotels drawing weekend crowds and no tour buses clogging the lanes. What it does have is two extraordinary palaces, a landscape dotted with Bhil tribal villages, and a pace of life that feels decades removed from the rest of India.

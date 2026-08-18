@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Altstadt-tuebingen-1.jpg
 latitude: 48.5203
 loc_type: city
 longitude: 9.0536
-score: 6.122
+score: 6.336
 snippet: German university town above the Neckar, packed with students, half-timbered
   lanes, and literary landmarks.
 title: Tubingen
 type: location
-heritage: 7.251
-vibrancy: 4.926
-nature: 3.436
-off_the_beaten_track: 1.665
+heritage: 7.451
+vibrancy: 5.206
+nature: 4.24
+off_the_beaten_track: 1.772
 ---
 
 Tubingen is one of the loveliest university towns in Germany — a place where nearly a third of the 85,000 inhabitants are students, and the whole town has the energy and affordability that brings. The old town is a steep tangle of half-timbered houses, narrow alleys, and stairways climbing the hillside above the Neckar river. The Holzmarkt and the [Marktplatz](/europe/germany/badenwrttemberg/tubingen/marktplatz) form the heart of it, overlooked by the Gothic [Stiftskirche St. Georg](/europe/germany/badenwrttemberg/tubingen/stiftskirche) and the imposing [Schloss Hohentubingen](/europe/germany/badenwrttemberg/tubingen/schloss_hohentubingen).

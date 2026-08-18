@@ -7,12 +7,12 @@ title: Green Island
 snippet: Artificial recreational island off Kuwait City's waterfront, linked to the
   shore by a short causeway.
 type: location
-score: 1.926
+score: 1.692
 loc_type: feature
-heritage: 1.678
-vibrancy: 1.881
-nature: 2.043
-off_the_beaten_track: 1.233
+heritage: 1.446
+vibrancy: 1.741
+nature: 1.566
+off_the_beaten_track: 1.609
 ---
 
 Green Island is an artificial island connected to the [Kuwait City](/asia/kuwait/kuwaitcity) waterfront by a short causeway. Built in the late 1980s, it covers nearly 800,000 square metres and was designed as a recreational escape from the city.

@@ -13,13 +13,13 @@ image: chaggutsomgolake.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Changu_(Tsomgo)_Lake.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Kuldeepburjbhalaike
-score: 6.107
+score: 5.885
 snippet: High-altitude Sikkim lake on the road to Nathu La, ringed by steep snow-holding
   slopes.
-heritage: 4.859
-vibrancy: 2.734
-nature: 7.406
-off_the_beaten_track: 3.762
+heritage: 4.344
+vibrancy: 3.837
+nature: 7.268
+off_the_beaten_track: 4.33
 ---
 
 Tsomgo Lake, also written Changu or Tsongmo, is the classic high-altitude excursion from [Gangtok](/asia/india/sikkim/gangtok). The lake sits beside the road to [Nathu La](/asia/india/sikkim/chaggutsomgolake/nathu_la) at about 3,750 metres, ringed by steep slopes that hold snow well into spring. In winter it can freeze hard; in summer the surrounding hills brighten with alpine flowers.

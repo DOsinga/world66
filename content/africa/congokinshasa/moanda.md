@@ -4,7 +4,7 @@ done:
 latitude: -5.9342
 loc_type: city
 longitude: 12.3494
-score: 5.074
+score: 5.125
 snippet: DRC's small Atlantic coastal town, where oil roads, beaches, and mangroves
   meet the Congo River mouth.
 sources:
@@ -16,10 +16,10 @@ image: moanda.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Moanda_-_All%C3%A9e_de_Manguiers.jpg
 image_license: Public domain
 image_attribution: 'unknown for picture taker (text: le commandant Cassart)'
-heritage: 3.462
-vibrancy: 1.828
-nature: 5.862
-off_the_beaten_track: 6.56
+heritage: 3.15
+vibrancy: 2.216
+nature: 5.915
+off_the_beaten_track: 6.65
 ---
 
 Moanda, often written Muanda, is the Democratic Republic of the Congo's only real beach town. It sits on the country's tiny Atlantic frontage in Kongo Central, close to the mouth of the Congo River and the Angolan exclave of Cabinda. This is not a polished resort coast. It is a working oil town with sand roads, sea air, fishing villages, and a strange sense of being at the end of a very large country.

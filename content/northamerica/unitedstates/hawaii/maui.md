@@ -14,7 +14,7 @@ quick_facts:
   Old Capital: Lahaina
   Road to Hāna: 620 curves, 59 bridges
   Winter Whales: Humpbacks offshore
-score: 7.124
+score: 6.674
 snippet: Hawaiian island combining beaches, volcanic mountains, small towns, and the
   road to Hāna.
 tip: Drive the Road to Hāna early and treat the drive itself as the destination, not
@@ -23,10 +23,10 @@ tip: Drive the Road to Hāna early and treat the drive itself as the destination
   the water turns choppy.
 title: Maui
 type: location
-heritage: 6.731
-vibrancy: 6.164
-nature: 8.063
-off_the_beaten_track: 1.198
+heritage: 1.062
+vibrancy: 4.356
+nature: 8.24
+off_the_beaten_track: 1.272
 ---
 
 Maui is the second-largest of the Hawaiian islands and, for many travellers, the most rewarding. It is less crowded than **Oʻahu**, more developed than **Kauaʻi** and the **Big Island**, and has a near-perfect mix of beaches, mountains, and small seaside towns. The island's motto — **"Maui Nō Ka ʻOi"**, *Maui is the Best* — is not especially modest, and locals will happily tell you it is justified.

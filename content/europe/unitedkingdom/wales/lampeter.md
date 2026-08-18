@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: 52.117
 longitude: -4.067
-score: 5.58
+score: 4.844
 snippet: Small Welsh university town on the Teifi, with chapel history and Roman gold
   nearby.
 sources:
 - https://en.wikivoyage.org/wiki/Lampeter
 - https://en.wikipedia.org/wiki/Lampeter
-heritage: 6.825
-vibrancy: 3.818
-nature: 4.53
-off_the_beaten_track: 3.558
+heritage: 5.803
+vibrancy: 3.313
+nature: 4.209
+off_the_beaten_track: 3.316
 ---
 
 Lampeter is a small university town in [Ceredigion](/europe/unitedkingdom/wales), set inland on the River Teifi. It is not as immediately scenic as the Welsh coast, but it has a strong identity: Welsh-speaking, bookish, old-fashioned, and shaped by one of Britain's oldest higher-education institutions.

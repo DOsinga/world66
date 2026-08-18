@@ -8,14 +8,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Aquedukt,_Arboretum_Trsten
 latitude: 42.8397
 loc_type: feature
 longitude: 17.8547
-score: 5.494
+score: 5.404
 snippet: One of Europe's finest Renaissance gardens, 20km north of Dubrovnik
 title: The Trsteno Arboretum
 type: location
-heritage: 5.768
-vibrancy: 1.591
-nature: 6.07
-off_the_beaten_track: 2.164
+heritage: 5.572
+vibrancy: 2.447
+nature: 6.014
+off_the_beaten_track: 1.709
 ---
 
 More than 300 species of trees and plants from across the Mediterranean and beyond, set around architecture spanning the Gothic-Renaissance period onwards. The Trsteno Arboretum is widely considered one of the finest gardens in this part of Europe.

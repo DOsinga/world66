@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: 48.5396
 longitude: 12.1504
-score: 6.05
+score: 5.569
 snippet: Lower Bavarian ducal city with a brick-Gothic skyline and a huge medieval
   wedding festival.
 sources:
 - https://en.wikivoyage.org/wiki/Landshut
 - https://www.munich.travel/en/pois/lakes-mountains/landshut
-heritage: 7.154
-vibrancy: 4.891
-nature: 3.589
-off_the_beaten_track: 2.388
+heritage: 6.767
+vibrancy: 4.134
+nature: 3.7
+off_the_beaten_track: 2.52
 ---
 
 Landshut is one of Bavaria's best day trips from [Munich](/europe/germany/bavaria/munich): close enough by train to be easy, but far enough from the main tourist circuit to feel like its own place. The old town sits in a bend of the Isar, with pastel facades, long market streets, and the huge brick tower of [St Martin's Church](/europe/germany/bavaria/landshut/st_martins_church) rising over the roofs.

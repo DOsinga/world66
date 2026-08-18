@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ancient_site_at_Lothal_11.
 latitude: 22.522677
 loc_type: city
 longitude: 72.249308
-score: 4.717
+score: 4.436
 snippet: Indus Valley archaeological site near Ahmedabad, preserving ancient streets,
   drainage, and a possible early dock.
 title: Lothal
 type: location
-heritage: 6.234
-vibrancy: 1.363
-nature: 2.75
-off_the_beaten_track: 3.931
+heritage: 5.639
+vibrancy: 1.091
+nature: 2.447
+off_the_beaten_track: 4.413
 ---
 
 Lothal -- literally "mound of the dead" -- is one of the most important sites of the Indus Valley Civilisation, dating back about 4,500 years. Located about 80 km from [Ahmedabad](/asia/india/gujarat/ahmedabad), it features the remains of what may be the world's oldest known dock, along with streets, houses, and a drainage system that speaks to remarkably advanced urban planning.

@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Efate_Beach_1.jpg
 latitude: -17.6739
 loc_type: city
 longitude: 168.3648
-score: 6.149
+score: 6.277
 snippet: Vanuatu's most populated island, ringed by reefs and centred on Port Vila's
   natural harbour.
 title: Efate
 type: location
-heritage: 4.802
-vibrancy: 4.659
-nature: 7.28
-off_the_beaten_track: 3.991
+heritage: 5.431
+vibrancy: 5.26
+nature: 7.187
+off_the_beaten_track: 4.172
 ---
 
 Efate is the most populated island in [Vanuatu](/australiaandpacific/vanuatu) and home to the capital, Port Vila. The island is ringed by coral reefs and dotted with coconut plantations, and its lush volcanic interior rises to over 600 metres.

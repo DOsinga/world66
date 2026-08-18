@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Belo_Horizonte,_Brasil.jpg
 latitude: -19.9227
 loc_type: city
 longitude: -43.9451
-score: 5.913
+score: 6.024
 snippet: Mountain-ringed Minas Gerais capital laid out on a grid of wide, tree-lined
   avenues
 title: Belo Horizonte
 type: location
-heritage: 4.327
-vibrancy: 6.554
-nature: 4.257
-off_the_beaten_track: 1.228
+heritage: 6.125
+vibrancy: 6.032
+nature: 3.677
+off_the_beaten_track: 1.219
 ---
 
 Belo Horizonte is Brazil's fourth-largest city and the capital of Minas Gerais state. The name means "Beautiful Horizon," and it earns it — the city is built on rolling hills completely surrounded by mountains, giving you sweeping views from nearly everywhere. Designed at the end of the 19th century on a grid modeled after Washington D.C., the wide, tree-lined avenues still give the center a sense of order, even as the city has grown far beyond its original plan.

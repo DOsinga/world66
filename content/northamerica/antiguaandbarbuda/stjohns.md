@@ -9,15 +9,15 @@ image_source: https://www.flickr.com/photos/79721788@N00/49861480217
 latitude: 17.1175
 loc_type: city
 longitude: -61.8456
-score: 5.108
+score: 5.048
 snippet: Antiguan capital and colourful Caribbean port, marked by twin cathedral towers
   and pastel colonial streets.
 title: St. John's
 type: location
-heritage: 4.989
-vibrancy: 4.515
-nature: 5.735
-off_the_beaten_track: 3.982
+heritage: 4.656
+vibrancy: 4.344
+nature: 5.725
+off_the_beaten_track: 3.995
 ---
 
 St. John's is the capital and largest city of [Antigua and Barbuda](/northamerica/antiguaandbarbuda), a colourful Caribbean port town on the northwest coast of the island. The city is where most visitors first arrive, and while many head straight for the beaches, St. John's itself deserves at least a half-day of exploring. The streets are lined with wooden and stone colonial buildings painted in bright pastels, and the atmosphere is lively without being hectic.

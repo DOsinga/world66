@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Caen-2.JPG
 latitude: 49.18134
 loc_type: city
 longitude: -0.363561
-score: 5.872
+score: 5.795
 snippet: Normandy university city founded around William the Conqueror's castle and
   two great medieval abbeys.
 title: Caen
 type: location
-heritage: 6.807
-vibrancy: 5.026
-nature: 3.157
-off_the_beaten_track: 1.89
+heritage: 6.781
+vibrancy: 4.83
+nature: 3.641
+off_the_beaten_track: 2.003
 ---
 
 Caen is far more than a ferry port. William the Conqueror made it his capital, and the two great abbeys he and his wife Matilda founded — the [Abbaye aux Hommes](/europe/france/normandybrittany/caen/abbaye_aux_hommes) and the [Abbaye aux Dames](/europe/france/normandybrittany/caen/abbaye_aux_dames) — still anchor the city. Both survived the devastating bombardment of June 1944, when much of medieval Caen was destroyed in the Battle of Normandy.

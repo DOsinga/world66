@@ -5,15 +5,15 @@ done:
 latitude: 7.4828
 loc_type: city
 longitude: 4.5604
-score: 5.894
+score: 5.387
 snippet: Yoruba sacred city and university town, famed for medieval bronzes, terracottas,
   and creation traditions
 title: Ile-Ife
 type: location
-heritage: 7.412
-vibrancy: 3.869
-nature: 2.828
-off_the_beaten_track: 3.375
+heritage: 6.735
+vibrancy: 3.615
+nature: 3.25
+off_the_beaten_track: 3.201
 ---
 
 Ile-Ife — often called simply Ife — holds a singular place in Yoruba culture: this is where, according to tradition, Oduduwa descended from the heavens on a chain and created the earth. Whether or not you subscribe to the cosmology, the city has a legitimate claim to being one of the oldest urban centres in West Africa, and the archaeological record backs it up. The Ife bronzes and terracottas discovered here, some dating to the 12th–14th centuries, rank among the finest sculpture produced anywhere in the medieval world.

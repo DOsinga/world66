@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_of_Playa_del_Carmen
 latitude: 20.6461
 loc_type: city
 longitude: -87.0806
-score: 7.465
+score: 7.599
 snippet: Riviera Maya beach town with Cozumel ferries, white sand, and a busy Quinta
   Avenida.
 title: Playa del Carmen
 type: location
-heritage: 6.552
-vibrancy: 7.081
-nature: 8.149
-off_the_beaten_track: 1.48
+heritage: 6.555
+vibrancy: 7.546
+nature: 7.736
+off_the_beaten_track: 1.614
 ---
 
 Playa del Carmen is the main town of the Riviera Maya, about 68 km south of Cancun along the Caribbean coast of the Yucatan Peninsula. It started as a small fishing village and departure point for ferries to Cozumel, and while it has grown considerably since the 1990s, it retains a more manageable scale than Cancun. The [beach](/northamerica/mexico/playadelcarmen/playa_del_carmen_beach) is excellent — long, white-sand, with clear water — and the reef offshore is part of the Great Maya Reef, the second-largest in the world.

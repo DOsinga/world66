@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Av_Mohamed_V,_Nador_(cropp
 latitude: 35.1667
 loc_type: city
 longitude: -2.9333
-score: 4.214
+score: 4.199
 snippet: Rif coast city on Morocco's Marchica Lagoon, with Melilla and wild Mediterranean
   hills close by.
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Mount_Gurugu
 title: Nador
 type: location
-heritage: 4.543
-vibrancy: 4.095
-nature: 4.521
-off_the_beaten_track: 4.554
+heritage: 4.328
+vibrancy: 4.157
+nature: 4.309
+off_the_beaten_track: 4.273
 ---
 
 Nador is not the prettiest town on Morocco's Mediterranean coast, but it is one of the most interesting. It sits beside the broad, shallow [Marchica Lagoon](/africa/morocco/nador/marchica_lagoon), close enough to the Spanish enclave of [Melilla](/europe/spain/melilla) that Spanish, Riffian, Arabic, and ferry-port pragmatism all mix in the streets.

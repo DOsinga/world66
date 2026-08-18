@@ -2,15 +2,15 @@
 latitude: 26.6435
 loc_type: city
 longitude: 87.9833
-score: 4.758
+score: 5.325
 snippet: Eastern Nepali transit city near Kakarbhitta, set beside Jhapa's tea plantations
   and lowland bazaars.
 title: Birtamode
 type: location
-heritage: 2.895
-vibrancy: 2.857
-nature: 5.994
-off_the_beaten_track: 4.504
+heritage: 3.259
+vibrancy: 3.095
+nature: 6.759
+off_the_beaten_track: 4.863
 ---
 
 Birtamode is the largest city in Jhapa district in eastern Nepal, close to the Indian border crossing at Kakarbhitta. It is primarily a transit hub: most travellers passing through are heading between India and Kathmandu or the hills, and the town has the practical infrastructure to match — hotels, banks, buses, and little more.

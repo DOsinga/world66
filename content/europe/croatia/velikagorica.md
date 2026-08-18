@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Lukavec.jpg
 latitude: 45.7156
 loc_type: city
 longitude: 16.0717
-score: 2.596
+score: 2.775
 snippet: Town south of Zagreb best known for Zagreb Airport, with a compact centre
   and Turopolje heritage.
 title: Velika Gorica
 type: location
-heritage: 2.655
-vibrancy: 2.594
-nature: 2.514
-off_the_beaten_track: 1.106
+heritage: 3.2
+vibrancy: 2.41
+nature: 2.534
+off_the_beaten_track: 1.182
 ---
 
 Velika Gorica is a town of about 35,000 just south of Zagreb, best known internationally as the location of Zagreb Airport. It is a satellite city of the Croatian capital, functioning largely as a residential and commercial suburb. The town has its own identity and history — it developed as a market town in the medieval period and has a compact old centre with a few historic buildings.

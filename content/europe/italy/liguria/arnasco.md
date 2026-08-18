@@ -9,17 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Arnasco-panorama1.jpg
 latitude: 44.0782
 loc_type: city
 longitude: 8.1074
-score: 4.415
+score: 4.272
 snippet: Ligurian hill village above Albenga, surrounded by olive groves, vineyards,
   and the Neva valley.
 tags:
 - rivieradellepalme
 title: Arnasco
 type: location
-heritage: 2.69
-vibrancy: 1.642
-nature: 5.44
-off_the_beaten_track: 4.599
+heritage: 2.868
+vibrancy: 1.689
+nature: 5.273
+off_the_beaten_track: 4.417
 ---
 
 Arnasco is a small village on the right side of the Neva valley, in the hills behind Albenga on the Ligurian coast. It is an agricultural settlement surrounded by olive groves and vineyards, with a quiet, rural character.

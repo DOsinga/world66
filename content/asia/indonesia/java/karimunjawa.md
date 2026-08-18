@@ -11,15 +11,15 @@ image_source: https://www.flickr.com/photos/43797599@N05/4149524346
 latitude: -5.8796
 loc_type: city
 longitude: 110.4329
-score: 5.863
+score: 6.083
 title: Karimunjawa
 type: location
 snippet: Java Sea island group and marine national park known for coral reefs, mangroves,
   and quiet beaches.
-heritage: 2.483
-vibrancy: 1.338
-nature: 7.203
-off_the_beaten_track: 6.178
+heritage: 2.052
+vibrancy: 1.553
+nature: 7.508
+off_the_beaten_track: 6.296
 ---
 
 Karimunjawa is a marine national park of 27 islands off the north coast of Java, reachable by boat from [Semarang](/asia/indonesia/java/semarang) or Jepara. The name comes from the Javanese *'Kremun kremun saking tanah Jawi'* — describing just how far these islands feel from the mainland.

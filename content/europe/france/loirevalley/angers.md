@@ -7,7 +7,7 @@ done:
 latitude: 47.474
 loc_type: city
 longitude: -0.5516
-score: 5.818
+score: 5.865
 snippet: Loire Valley city of Angevin Gothic architecture and the château housing
   the Apocalypse Tapestry
 title: Angers
@@ -16,10 +16,10 @@ image: angers.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Angers_-_Logis_Barrault_(2).jpg
 image_license: CC BY-SA 3.0
 image_attribution: Selbymay
-heritage: 6.379
-vibrancy: 5.65
-nature: 4.13
-off_the_beaten_track: 1.617
+heritage: 6.1
+vibrancy: 5.82
+nature: 4.206
+off_the_beaten_track: 1.451
 ---
 
 Angers sits on the banks of the Maine river, halfway between [Tours](/europe/france/loirevalley/tours) and [Nantes](/europe/france/normandybrittany/nantes), and it is one of the most rewarding cities in the Loire Valley. The medieval château of the Dukes of Anjou is the centrepiece — a fortress of seventeen towers enclosing the greatest medieval tapestry in the world, the 14th-century Tapestry of the Apocalypse — but Angers has more depth than a single monument.

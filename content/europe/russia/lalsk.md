@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 60.73888
 longitude: 47.58831
-score: 5.087
+score: 3.753
 snippet: Remote Russian North market town with rare 18th-century church ensembles
   and merchant houses.
 wikidata: Q996772
@@ -15,10 +15,10 @@ image: lalsk.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lalsk-cathedral-complex.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Yaroslav M. Blanter
-heritage: 5.979
-vibrancy: 1.57
-nature: 3.773
-off_the_beaten_track: 6.627
+heritage: 3.402
+vibrancy: 1.498
+nature: 3.739
+off_the_beaten_track: 5.95
 ---
 
 *Europe > Russia > Lalsk*

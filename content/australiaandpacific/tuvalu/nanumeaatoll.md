@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:F4Fs_of_VMF-441_at_Nanumea
 latitude: -5.6653
 loc_type: island
 longitude: 176.1125
-score: 6.317
+score: 5.808
 snippet: Northwestern Tuvalu atoll where lagoon villages share space with major Second
   World War remains.
 sources:
 - https://en.wikipedia.org/wiki/Nanumea
 title: Nanumea
 type: location
-heritage: 3.668
-vibrancy: 0.876
-nature: 7.641
-off_the_beaten_track: 7.046
+heritage: 3.159
+vibrancy: 0.868
+nature: 6.871
+off_the_beaten_track: 6.983
 ---
 
 Nanumea is the northwesternmost atoll of [Tuvalu](/australiaandpacific/tuvalu), about 480 kilometres from Funafuti and close enough to the equator that the air feels noticeably heavier than in the south. Two main islands, [Nanumea](/australiaandpacific/tuvalu/nanumeaatoll/nanumea_island) (sometimes called Nanumea-Niu) and Lakena, enclose a small, shallow lagoon along with a handful of smaller islets. Around 500 people live on the main island, almost all of them in the village cluster of [Lolua](/australiaandpacific/tuvalu/nanumeaatoll/lolua) on the lagoon shore.

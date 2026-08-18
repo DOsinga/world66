@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Anjara_-_Our_Lady_of_the_M
 latitude: 32.3066
 loc_type: city
 longitude: 35.7557
-score: 4.093
+score: 3.863
 title: Anjara
 snippet: Northern Jordanian hill town and Christian pilgrimage site near Ajlun's wooded
   highlands.
 type: location
-heritage: 4.78
-vibrancy: 2.069
-nature: 3.836
-off_the_beaten_track: 3.076
+heritage: 4.394
+vibrancy: 2.141
+nature: 3.887
+off_the_beaten_track: 2.869
 ---
 
 Anjara is a small town in the hills of northern [Jordan](/asia/jordan), about 8 kilometres from [Ajlun](/asia/jordan/ajlun). It is a Christian pilgrimage site — tradition holds that Jesus and his disciples rested in a cave here during a journey between Jerusalem and Galilee.

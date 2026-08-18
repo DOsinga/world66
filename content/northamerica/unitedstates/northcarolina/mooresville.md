@@ -5,15 +5,15 @@ done:
 latitude: 35.58486
 loc_type: city
 longitude: -80.810072
-score: 2.518
+score: 2.731
 snippet: Lake Norman town known as Race City USA, with NASCAR workshops embedded in
   local culture.
 title: Mooresville
 type: location
-heritage: 2.211
-vibrancy: 2.654
-nature: 1.887
-off_the_beaten_track: 0.762
+heritage: 3.254
+vibrancy: 2.157
+nature: 1.653
+off_the_beaten_track: 0.859
 ---
 
 Known as **Race City USA**, Mooresville is home to many NASCAR drivers and racing teams. The sport is embedded in the culture here, and there are several team shops and museums open to visitors, including the [Memory Lane Motorsports Museum](/northamerica/unitedstates/northcarolina/mooresville/memory_lane) and the [North Carolina Auto Racing Hall of Fame](/northamerica/unitedstates/northcarolina/mooresville/nc_auto_racing_hall_of_fame). Even if racing is not your thing, the town has a pleasant downtown and sits on the shores of [Lake Norman](/northamerica/unitedstates/northcarolina/mooresville/lake_norman), the largest man-made lake in North Carolina.

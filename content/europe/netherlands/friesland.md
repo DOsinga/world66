@@ -7,16 +7,16 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Kooiplas._Locatie._de_Buismans_Einekoai_Gytsjerk_in_provincie_Friesland_01.jpg
 latitude: 53.092369
 longitude: 5.777043
-score: 3.517
+score: 3.568
 title: Friesland
 type: location
 loc_type: feature
 snippet: Northern Dutch province with its own Frisian language, lake country, and
   Wadden Sea islands.
-heritage: 4.29
-vibrancy: 2.21
-nature: 2.88
-off_the_beaten_track: 1.73
+heritage: 4.397
+vibrancy: 2.175
+nature: 2.821
+off_the_beaten_track: 1.758
 ---
 
 Friesland (Fryslân in the local tongue) is the Netherlands' northernmost mainland province and the only one with its own language. Frisian sits closer to English than to Dutch, and Frisians wear their identity proudly: their own flag with red water-lily leaves, their own forenames, their own anthem, and a long memory of having never quite been ruled by anyone for good. It is a province of wide skies, water everywhere, and a people who would rather be on the ice or under sail than indoors.

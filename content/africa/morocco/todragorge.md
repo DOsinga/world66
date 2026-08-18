@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Todra_Gorge_Morning_2011.j
 latitude: 31.587352
 loc_type: city
 longitude: -5.591495
-score: 5.81
+score: 5.685
 snippet: High Atlas canyon near Tinghir, where red limestone walls narrow around the
   Todra riverbed.
 title: Todra Gorge
 type: location
-heritage: 2.552
-vibrancy: 1.534
-nature: 7.83
-off_the_beaten_track: 3.851
+heritage: 2.75
+vibrancy: 1.212
+nature: 7.522
+off_the_beaten_track: 4.228
 ---
 
 The Todra Gorge cuts through the eastern edge of the High Atlas mountains near the town of Tinghir, its walls rising nearly 300 metres above a narrow river bed. At the tightest point the canyon is only ten metres wide, with sheer red and orange limestone faces pressing in on either side. It's one of the most dramatic landscapes in Morocco, and deservedly popular.

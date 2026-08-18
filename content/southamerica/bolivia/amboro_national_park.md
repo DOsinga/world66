@@ -2,15 +2,15 @@
 latitude: -17.75
 loc_type: feature
 longitude: -63.85
-score: 6.712
+score: 6.274
 snippet: One of South America's most biodiverse parks, where the Andes meet the Amazon
   west of Santa Cruz.
 title: Amboró National Park
 type: location
-heritage: 1.764
-vibrancy: 0.71
-nature: 8.444
-off_the_beaten_track: 6.422
+heritage: 1.623
+vibrancy: 0.887
+nature: 7.749
+off_the_beaten_track: 6.472
 ---
 
 Amboró National Park covers more than 4,400 square kilometres of dramatic terrain west of [Santa Cruz](/southamerica/bolivia/santacruz), where the eastern Andes drop into the Amazon basin and three distinct ecosystems — cloud forest, lowland jungle, and Andean montane scrub — converge in one protected area. That triple collision makes it extraordinary: over 820 bird species have been recorded here, more than in all of Europe, and the mammal list includes spectacled bears, jaguars, tapirs, and giant armadillos.

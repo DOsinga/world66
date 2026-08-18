@@ -4,15 +4,15 @@ type: location
 loc_type: city
 latitude: 27.4956
 longitude: -81.4444
-score: 3.128
+score: 2.929
 snippet: Central Florida lake town known for its circular downtown, old state park,
   and endurance raceway.
 sources:
 - https://en.wikivoyage.org/wiki/Sebring
-heritage: 2.292
-vibrancy: 2.727
-nature: 3.531
-off_the_beaten_track: 1.333
+heritage: 2.038
+vibrancy: 2.619
+nature: 3.274
+off_the_beaten_track: 1.303
 ---
 
 Sebring sits in the Florida Heartland, south of the Orlando orbit and away from the coast. It is an old inland resort and retirement town, but it has more identity than that sounds: a circular downtown, one of Florida's oldest state parks, big shallow lakes, and a raceway known far beyond central Florida.

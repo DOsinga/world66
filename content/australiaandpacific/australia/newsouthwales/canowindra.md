@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: -33.5667
 longitude: 148.6667
-score: 4.411
+score: 4.434
 snippet: Central West village of hot-air balloons, Devonian fish fossils, and long
   veranda streets.
 sources:
 - https://en.wikivoyage.org/wiki/Canowindra
 - https://en.wikipedia.org/wiki/Canowindra
-heritage: 3.541
-vibrancy: 1.758
-nature: 5.159
-off_the_beaten_track: 5.496
+heritage: 2.436
+vibrancy: 1.965
+nature: 5.154
+off_the_beaten_track: 5.632
 ---
 
 Canowindra is a small Central West town between Cowra and Orange, best known for hot-air balloons and one of Australia's strangest fossil stories. It is not a big-ticket destination, but it has enough character for a slow day if you are already travelling through wine country or the Lachlan Valley.

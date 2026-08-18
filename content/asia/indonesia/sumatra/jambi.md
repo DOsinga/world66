@@ -6,7 +6,7 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Jembatan_Gentala_Arasy_-_Kota_Jambi,_JA_(12_Agustus_2023).jpg
 loc_type: city
 longitude: 103.61
-score: 4.168
+score: 3.778
 snippet: Batanghari River capital and base for Sumatra's largest Buddhist temple complex.
 sources:
 - https://en.wikivoyage.org/wiki/Jambi
@@ -15,10 +15,10 @@ sources:
 title: Jambi
 type: location
 wikidata: Q7578
-heritage: 4.8
-vibrancy: 3.632
-nature: 3.516
-off_the_beaten_track: 4.877
+heritage: 4.29
+vibrancy: 3.414
+nature: 3.405
+off_the_beaten_track: 4.575
 ---
 
 Jambi is a river city in eastern [Sumatra](/asia/indonesia/sumatra), stretched along the Batanghari and better known to Indonesians than to foreign travellers. It is a provincial capital, so parts of it feel functional and spread out, but it has one very strong reason to stop: the ancient [Muaro Jambi Temple Compounds](/asia/indonesia/sumatra/jambi/muaro_jambi_temple_compounds), about 30 km from the city.

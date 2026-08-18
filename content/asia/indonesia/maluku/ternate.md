@@ -5,15 +5,15 @@ done:
 latitude: 0.785204
 loc_type: city
 longitude: 127.383234
-score: 4.925
+score: 5.129
 snippet: Volcanic North Maluku island once central to the clove trade, beneath Gunung
   Gamalama.
 title: Ternate
 type: location
-heritage: 5.604
-vibrancy: 2.228
-nature: 4.949
-off_the_beaten_track: 5.662
+heritage: 5.607
+vibrancy: 2.334
+nature: 5.574
+off_the_beaten_track: 4.788
 ---
 
 Ternate is a tiny volcanic island with an outsized place in history. It was one of the four sultanates of North Maluku that were once the world's only source of cloves, drawing traders from China, Arabia and eventually Portugal, Spain and the Dutch East India Company. The competition for control of these islands helped shape the course of European colonialism in Southeast Asia.

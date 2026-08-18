@@ -9,17 +9,17 @@ loc_type: feature
 longitude: -6.187542
 opening_hours: Open Daily 9:30-17:30
 phone: (01) 204 6000
-score: 5.787
+score: 5.779
 snippet: Grand Palladian mansion with 47 acres of gardens
 tags:
 - sight
 title: Powerscourt Estate & Gardens
 type: location
 url: www.powerscourt.ie
-heritage: 6.407
-vibrancy: 1.642
-nature: 6.217
-off_the_beaten_track: 2.304
+heritage: 5.936
+vibrancy: 2.83
+nature: 6.442
+off_the_beaten_track: 1.834
 ---
 
 One of the great country estates of Ireland, set against the backdrop of Sugar Loaf Mountain about 20 km south of Dublin in Co. Wicklow. The Palladian mansion dates to the 1730s and was gutted by fire in 1974; the ground floor has been restored and now houses shops, a cafe, and an exhibition on the house's history.

@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fethiye_museum_Letoon_Apol
 latitude: 36.3478
 loc_type: feature
 longitude: 29.2767
-score: 5.644
+score: 5.23
 snippet: UNESCO-listed sanctuary of the Lycian federation, with three temples and
   mosaic floors
 story: Letoon was the religious centre of the Lycian League — not a city but a sanctuary
@@ -17,10 +17,10 @@ tags:
 - sight
 title: Letoon
 type: location
-heritage: 7.405
-vibrancy: 1.529
-nature: 3.444
-off_the_beaten_track: 3.161
+heritage: 6.812
+vibrancy: 1.517
+nature: 3.302
+off_the_beaten_track: 3.189
 ---
 
 Letoon is a UNESCO World Heritage Site about 60 km south of Fethiye, near the village of Kumluova. It was the federal sanctuary of the Lycian League, a remarkably sophisticated ancient democratic federation, and the site of the cult of Leto. Three temples stand here — to Leto, to Artemis, and to Apollo — their foundations well-preserved though roofless, with mosaic floors visible in some sections.

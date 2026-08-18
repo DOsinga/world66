@@ -3,14 +3,14 @@ title: Masally
 type: location
 latitude: 39.032211
 longitude: 48.672109
-score: 3.98
+score: 3.316
 loc_type: city
 snippet: Southern Azerbaijani agricultural town near forested hills on the road between
   Baku and Astara.
-heritage: 2.492
-vibrancy: 1.395
-nature: 4.575
-off_the_beaten_track: 5.225
+heritage: 2.977
+vibrancy: 1.614
+nature: 3.651
+off_the_beaten_track: 4.88
 ---
 
 Masally is a prosperous agricultural town in the far south of Azerbaijan, capital of the district of the same name, sitting on the main highway between Baku and the Iranian border at Astara. Around 200 kilometres from the capital, it makes a natural stopping point on the way south — and for those who take the time to look beyond the busy road, there's more to it than the traffic.

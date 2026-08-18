@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Blick_auf_Schloss_Spiez_un
 latitude: 46.6833
 loc_type: city
 longitude: 7.6667
-score: 6.444
+score: 6.15
 snippet: Lake Thun town with a castle, vineyards, and a sheltered bay below the Niesen.
 sources:
 - https://en.wikipedia.org/wiki/Spiez
@@ -16,10 +16,10 @@ sources:
 - https://www.myswitzerland.com/en-us/destinations/spiez/
 title: Spiez
 type: location
-heritage: 5.249
-vibrancy: 4.086
-nature: 7.764
-off_the_beaten_track: 2.319
+heritage: 4.756
+vibrancy: 4.227
+nature: 7.49
+off_the_beaten_track: 1.982
 ---
 
 Spiez is the gentle side of the Bernese Oberland: a small town on a sheltered bay of Lake Thun, with vineyards on the slope, a castle above the water, and the pyramid of the [Niesen](/europe/switzerland/spiez/niesen) rising behind. It is prettier than its role as a railway junction suggests.

@@ -5,15 +5,15 @@ done:
 latitude: 42.277908
 loc_type: city
 longitude: -8.789634
-score: 5.8
+score: 6.111
 snippet: Galician fishing town on the Ría de Vigo, with granite hills and beaches
   facing the Cíes Islands.
 title: Cangas
 type: location
-heritage: 4.562
-vibrancy: 2.816
-nature: 7.057
-off_the_beaten_track: 3.905
+heritage: 4.952
+vibrancy: 2.433
+nature: 7.373
+off_the_beaten_track: 4.17
 ---
 
 Cangas sits at the mouth of the Ría de Vigo, a short ferry ride from the city but a world apart in pace and feel. Fishing boats work the harbor, granite hills roll behind the town, and nearly 40 beaches are scattered across the municipality — from busy family strands to wild, car-free coves that take a walk through a pine forest to reach.
@@ -22,4 +22,4 @@ The [beach of Rodeira](/europe/spain/galicia/cangas/playa_rodeira), just at the 
 
 The town itself rewards a wander. Cangas has been settled since ancient times — the Romans were here, and before them others — and its old streets have a weathered, lived-in quality that Vigo, just across the water, has largely lost to development. Come on market day and the waterfront fills up with stalls and locals.
 
-The [ferry from Vigo](/europe/spain/galicia/cangas/ferry_to_vigo) takes about 30 minutes and runs frequently; it's the nicest way to arrive. From Cangas you can also reach [Vigo](/europe/spain/galicia/vigo) and the [Cíes Islands](/europe/spain/galicia/vigo/cies_islands) by boat in summer.
+The [ferry from Vigo](/europe/spain/galicia/cangas/ferry_to_vigo) takes about 30 minutes and runs frequently; it's the nicest way to arrive. From Cangas you can also reach [Vigo](/europe/spain/galicia/vigo) and the [Cíes Islands](/europe/spain/galicia/cies_islands) by boat in summer.

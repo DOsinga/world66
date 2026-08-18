@@ -5,7 +5,7 @@ done:
 latitude: 56.088356
 loc_type: city
 longitude: 9.771875
-score: 3.941
+score: 4.202
 snippet: Danish lake town in Søhøjlandet, where the Gudenå, forested hills, and paddle
   steamers meet near Himmelbjerget.
 title: Ry
@@ -14,10 +14,10 @@ image: ry.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Fiskerhuset_ved_Ry_M%C3%B8lles%C3%B8_-_panoramio.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Carsten Wiehe
-heritage: 3.239
-vibrancy: 2.776
-nature: 4.735
-off_the_beaten_track: 1.785
+heritage: 3.771
+vibrancy: 2.824
+nature: 4.914
+off_the_beaten_track: 1.852
 ---
 
 Located between Aarhus and Silkeborg, Ry (pronounced like the French 'rue') sits at the heart of [Søhøjlandet](/europe/denmark/ry/soehojlandet) — the Danish Lake Highlands — the closest Denmark gets to hilly terrain. The river Gudenå runs right through town, and the surrounding area is all forests, lakes, and gentle hills shaped by the last ice age.

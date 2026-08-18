@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Worcester,_Massac
 latitude: 42.262562
 loc_type: city
 longitude: -71.801888
-score: 5.225
+score: 4.663
 snippet: Central Massachusetts city rebuilt around colleges, medicine, and a lively
   Shrewsbury Street restaurant strip.
 title: Worcester
 type: location
-heritage: 5.215
-vibrancy: 5.269
-nature: 3.19
-off_the_beaten_track: 1.56
+heritage: 3.426
+vibrancy: 5.168
+nature: 2.618
+off_the_beaten_track: 1.709
 ---
 
 Worcester is the largest city in central [Massachusetts](/northamerica/unitedstates/massachusetts) and the second largest in New England, sitting about 45 miles west of [Boston](/northamerica/unitedstates/massachusetts/boston). It has a scrappier, less polished feel than the capital — an old industrial city that has reinvented itself through education and medicine rather than finance or tech.

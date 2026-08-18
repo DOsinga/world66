@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:LynchburgJune2021.jpg
 latitude: 37.413754
 loc_type: city
 longitude: -79.142246
-score: 5.56
+score: 4.567
 snippet: Central Virginia city on seven James River hills, rich in preserved tobacco-era
   architecture.
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Point_of_Honor
 title: Lynchburg
 type: location
-heritage: 6.646
-vibrancy: 4.352
-nature: 3.744
-off_the_beaten_track: 2.759
+heritage: 5.192
+vibrancy: 4.115
+nature: 3.647
+off_the_beaten_track: 2.991
 ---
 
 Lynchburg is a mid-sized city of about 80,000 people set on seven hills above the James River in central Virginia. Founded in 1757, it was one of the wealthiest cities in the antebellum South thanks to the tobacco trade, and its hilltop neighborhoods are filled with beautifully preserved 19th-century architecture. The city survived the Civil War largely intact, which means the historic fabric is remarkably complete.

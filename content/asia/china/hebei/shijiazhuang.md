@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Anji_(Zhaozhou)_Bridge_201
 latitude: 38.043
 loc_type: city
 longitude: 114.5
-score: 5.042
+score: 4.818
 snippet: Young railway-born provincial capital, useful as a base for Hebei museums,
   bridges, and monasteries
 sources:
 - https://en.wikivoyage.org/wiki/Shijiazhuang
 title: Shijiazhuang
 type: location
-heritage: 4.711
-vibrancy: 5.206
-nature: 2.475
-off_the_beaten_track: 1.818
+heritage: 3.419
+vibrancy: 5.385
+nature: 2.095
+off_the_beaten_track: 1.832
 ---
 
 Shijiazhuang is one of the youngest provincial capitals in China, a city that barely existed before the railways arrived and then grew very fast. The Beijing–Wuhan and Shijiazhuang–Taiyuan lines crossed here in the early twentieth century, and the junction created the city. Before that there was almost nothing. This origin story gives Shijiazhuang an unusually thin historical centre by Chinese standards, and most visitors treat it as a base rather than a destination — which is honest, and works perfectly well.

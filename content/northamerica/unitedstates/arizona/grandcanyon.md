@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Grand_Canyon_Hopi_Point_wi
 latitude: 36.098041
 loc_type: feature
 longitude: -112.096279
-score: 5.939
+score: 5.769
 snippet: Arizona canyon carved by the Colorado River through miles of layered rock.
 tags:
 - hiking
@@ -20,10 +20,10 @@ tags:
 tier: 4
 title: Grand Canyon
 type: location
-heritage: 2.466
-vibrancy: 1.572
-nature: 8.009
-off_the_beaten_track: 3.923
+heritage: 2.381
+vibrancy: 1.375
+nature: 7.719
+off_the_beaten_track: 4.01
 ---
 
 The Grand Canyon is one of those places that genuinely exceeds expectations. You have seen the photographs, watched the documentaries, and heard people struggle to describe it -- and then you stand on the rim and realize none of it came close. The Colorado River has spent roughly six million years carving through nearly two billion years of rock, and the result is 277 miles of layered geology that changes color with every shift of sunlight.

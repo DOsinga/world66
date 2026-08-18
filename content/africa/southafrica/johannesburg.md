@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:A_Johannesburg_Summers_Day
 latitude: -26.205
 loc_type: city
 longitude: 28.049722
-score: 6.084
+score: 6.195
 snippet: South African economic capital built on Witwatersrand gold, with mine dumps,
   politics, and apartheid history.
 title: Johannesburg
 type: location
-heritage: 5.499
-vibrancy: 6.352
-nature: 4.563
-off_the_beaten_track: 1.643
+heritage: 6.331
+vibrancy: 6.19
+nature: 4.819
+off_the_beaten_track: 1.567
 ---
 
 Johannesburg — Joburg, Jozi — is the economic capital of South Africa and the largest city in sub-Saharan Africa after Lagos. It was founded in 1886 when gold was discovered on the Witwatersrand ridge, and the city is still built on the mine dumps that resulted; the endless low golden hills west and south of town are tailings. It is not a pretty city, it has a real reputation for crime, and yet it is the most important place in South Africa — where the politics happens, where the apartheid history is most visibly on display, and where the country's present is being worked out.

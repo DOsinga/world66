@@ -2,7 +2,7 @@
 latitude: -37.8
 loc_type: city
 longitude: 174.8833
-score: 5.195
+score: 5.045
 snippet: Waikato surf town with black-sand beaches, left-hand point breaks, and a
   strong arts scene.
 sources:
@@ -11,10 +11,10 @@ sources:
 - https://www.wikidata.org/wiki/Q124459
 title: Raglan
 type: location
-heritage: 2.744
-vibrancy: 2.988
-nature: 6.608
-off_the_beaten_track: 3.277
+heritage: 2.688
+vibrancy: 2.489
+nature: 6.617
+off_the_beaten_track: 3.525
 ---
 
 Raglan sits on the west coast of New Zealand's North Island, about 45 km from Hamilton, where a small harbour town opens onto black-sand beaches and the Tasman Sea. Its Maori name is Whaingaroa, and the place still feels more like a coastal community than a resort: surf vans, artists' studios, fish and chips, and a lot of people who would rather be outside.

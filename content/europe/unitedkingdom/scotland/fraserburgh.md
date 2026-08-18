@@ -2,15 +2,15 @@
 latitude: 57.6939
 loc_type: city
 longitude: -2.0059
-score: 4.249
+score: 4.461
 snippet: Aberdeenshire fishing town at Scotland's northeast tip, anchored by Kinnaird
   Head lighthouse and North Sea heritage.
 title: Fraserburgh
 type: location
-heritage: 3.964
-vibrancy: 2.476
-nature: 4.906
-off_the_beaten_track: 3.888
+heritage: 3.987
+vibrancy: 2.516
+nature: 5.224
+off_the_beaten_track: 3.612
 ---
 
 Fraserburgh — "the Broch" to locals — is a fishing town on the northeastern tip of Aberdeenshire, where the North Sea meets the Moray Firth. It is one of Scotland's most important fishing ports, and despite decades of change in the industry, fish is still at the heart of the place. The bronze herring on Broad Street says it plainly.

@@ -5,7 +5,7 @@ done:
 latitude: -33.934444
 loc_type: city
 longitude: 18.869167
-score: 5.616
+score: 5.513
 snippet: Cape winelands university town of oak-lined streets, Cape Dutch buildings,
   and surrounding wine estates.
 title: Stellenbosch
@@ -14,10 +14,10 @@ image: stellenbosch.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Museum_Complex_-_Stellenbosch,_South_Africa_(3881538828).jpg
 image_license: CC BY 2.0
 image_attribution: South African Tourism from South Africa
-heritage: 5.034
-vibrancy: 5.583
-nature: 5.7
-off_the_beaten_track: 2.53
+heritage: 4.276
+vibrancy: 5.472
+nature: 5.619
+off_the_beaten_track: 2.369
 ---
 
 Stellenbosch is the heart of South Africa's wine country, a handsome university town of Cape Dutch architecture, oak-lined streets and more than 150 wine estates within easy driving distance. It is less than an hour from [Cape Town](/africa/southafrica/capetown) and makes an easy day trip, though spending a night or two lets you properly explore the valleys.

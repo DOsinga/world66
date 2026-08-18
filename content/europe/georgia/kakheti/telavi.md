@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 41.9166
 longitude: 45.4833
-score: 5.183
+score: 4.756
 snippet: Kakheti's wine-country capital, with a royal fortress, old streets, and Alazani
   Valley views.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://georgia.travel/regions/kakheti
 - https://georgia.to/en/places-to-go/kakheti/telavi/giant-plane-tree/
 wikidata: Q209009
-heritage: 5.914
-vibrancy: 4.261
-nature: 5.172
-off_the_beaten_track: 4.034
+heritage: 5.241
+vibrancy: 3.867
+nature: 5.15
+off_the_beaten_track: 3.774
 ---
 
 Telavi is the regional capital of Kakheti and the natural base for exploring the wine country. It sits on a plateau above the Alazani Valley with the snow-capped Greater Caucasus forming the northern horizon — a setting that justifies the drive from Tbilisi on its own. The old town clusters around the main square, where a plane tree said to be 900 years old shades much of the central plaza.

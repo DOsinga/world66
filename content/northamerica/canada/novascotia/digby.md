@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 44.625
 longitude: -65.762
-score: 4.74
+score: 4.833
 snippet: Nova Scotia scallop town on the Bay of Fundy, with ferries, harbour views,
   and Loyalist history.
 wikidata: Q1224586
@@ -16,10 +16,10 @@ image: digby.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Digby_Nova_Scotia.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Aconcagua
-heritage: 3.775
-vibrancy: 2.955
-nature: 5.747
-off_the_beaten_track: 2.744
+heritage: 3.581
+vibrancy: 3.071
+nature: 5.974
+off_the_beaten_track: 2.949
 ---
 
 Digby is a small working town on the Bay of Fundy, best known for scallops and the ferry from Saint John. It is not polished, and that helps: the waterfront still belongs to boats, weather, and restaurants selling the catch that made the town famous.

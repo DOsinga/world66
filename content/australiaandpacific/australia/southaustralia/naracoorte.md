@@ -5,7 +5,7 @@ loc_type: city
 latitude: -36.9564
 longitude: 140.7419
 wikidata: Q492231
-score: 5.618
+score: 5.756
 snippet: Limestone Coast town beside World Heritage fossil caves, wetlands, wool history,
   and regional art.
 sources:
@@ -17,10 +17,10 @@ image: naracoorte.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Naracoorte_Caves_National_Park_1.jpg
 image_license: CC BY 2.0
 image_attribution: Feral Arts
-heritage: 3.826
-vibrancy: 1.555
-nature: 7.087
-off_the_beaten_track: 5.021
+heritage: 4.245
+vibrancy: 1.46
+nature: 7.123
+off_the_beaten_track: 5.425
 ---
 
 Naracoorte is the inland Limestone Coast town that happens to sit beside one of Australia's great fossil sites. The streets themselves are practical and country-town plain, but the surrounding anchors are strong enough to make it more than a service stop.

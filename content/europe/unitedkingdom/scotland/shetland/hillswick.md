@@ -5,7 +5,7 @@ loc_type: city
 latitude: 60.4768
 longitude: -1.4879
 wikidata: Q5764039
-score: 5.788
+score: 5.022
 snippet: Northmavine village near Shetland's volcanic cliffs, high moor, and seal-haunted
   bays.
 sources:
@@ -19,10 +19,10 @@ image: hillswick.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Hillswick_-_geograph.org.uk_-_2033858.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Colin Smith
-heritage: 4.356
-vibrancy: 1.629
-nature: 6.949
-off_the_beaten_track: 6.629
+heritage: 3.454
+vibrancy: 1.362
+nature: 5.714
+off_the_beaten_track: 6.782
 ---
 
 *Europe > United Kingdom > Scotland > Shetland > Hillswick*

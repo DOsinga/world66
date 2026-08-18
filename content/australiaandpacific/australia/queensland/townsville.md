@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ross_River_flowing_through
 latitude: -19.2569
 loc_type: city
 longitude: 146.824
-score: 5.076
+score: 4.868
 snippet: North Queensland coastal city beneath Castle Hill, with Magnetic Island just
   offshore.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Reef_HQ
 title: Townsville
 type: location
-heritage: 3.68
-vibrancy: 4.79
-nature: 5.553
-off_the_beaten_track: 2.978
+heritage: 3.197
+vibrancy: 4.397
+nature: 5.42
+off_the_beaten_track: 2.91
 ---
 
 Townsville is North Queensland's largest city and one of the main gateways to the Great Barrier Reef. It sits on the coast beneath the granite bulk of [Castle Hill](/australiaandpacific/australia/queensland/townsville/castle_hill), with [Magnetic Island](/australiaandpacific/australia/queensland/magnetic_island) — a national-park island with koalas, bays, and walking trails — visible just offshore and reachable by a 20-minute ferry.

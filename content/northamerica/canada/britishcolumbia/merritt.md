@@ -2,7 +2,7 @@
 latitude: 50.1119
 loc_type: city
 longitude: -120.7867
-score: 5.255
+score: 5.313
 snippet: Nicola Valley highway town with country-music murals, ranch history, lakes,
   and dry-country trails.
 sources:
@@ -13,10 +13,10 @@ sources:
 title: Merritt
 type: location
 wikidata: Q1025990
-heritage: 3.943
-vibrancy: 1.871
-nature: 6.474
-off_the_beaten_track: 4.672
+heritage: 3.991
+vibrancy: 1.664
+nature: 6.543
+off_the_beaten_track: 4.964
 ---
 
 Merritt sits in the dry Nicola Valley of British Columbia, where the Coquihalla and Okanagan routes meet between Hope, Kamloops, and Kelowna. Plenty of travellers know it only as a highway break, but the town has enough personality to reward a longer stop: ranch-country history, fishing lakes, mountain-bike trails, and a downtown identity built around country music.

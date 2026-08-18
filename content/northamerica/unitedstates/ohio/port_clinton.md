@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Port_Clinto
 latitude: 41.512
 loc_type: city
 longitude: -82.9377
-score: 3.812
+score: 4.018
 snippet: Lake Erie fishing town and island gateway anchored by walleye runs and summer
   ferries.
 title: Port Clinton
 type: location
-heritage: 2.294
-vibrancy: 2.082
-nature: 4.903
-off_the_beaten_track: 2.474
+heritage: 2.695
+vibrancy: 2.119
+nature: 5.085
+off_the_beaten_track: 2.357
 ---
 
 Port Clinton bills itself as the "Walleye Capital of the World," and the claim is not much of a stretch. This small city on the shore of Lake Erie in Ottawa County, Ohio, is the launching point for some of the best freshwater fishing in the Midwest. Every spring and fall, anglers descend on the Portage River and the lake for walleye, perch and smallmouth bass.

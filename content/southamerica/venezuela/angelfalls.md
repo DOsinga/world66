@@ -4,7 +4,7 @@ done:
 latitude: 5.968829
 loc_type: feature
 longitude: -62.53615
-score: 6.185
+score: 5.999
 snippet: Canaima waterfall plunging from Auyán-tepui in the world's highest uninterrupted
   drop.
 title: Angel Falls
@@ -13,10 +13,10 @@ image: angelfalls.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Salto_Chur%C3%BAn_Mer%C3%BA.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Heribert Dezeo
-heritage: 1.386
-vibrancy: 1.312
-nature: 7.807
-off_the_beaten_track: 5.832
+heritage: 1.352
+vibrancy: 1.299
+nature: 7.425
+off_the_beaten_track: 6.139
 ---
 
 Angel Falls (Salto Ángel) is the world's highest uninterrupted waterfall at 979 metres (3,212 feet), with a free-falling drop of 807 metres. It plunges off the sheer face of Auyán-tepui, one of the flat-topped table mountains of Canaima National Park. The falls are so high that during the dry season the water partially evaporates into mist before reaching the bottom.

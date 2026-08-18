@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:31202-Elvas_(48749062731).
 latitude: 38.880612
 loc_type: city
 longitude: -7.163724
-score: 4.283
+score: 3.824
 snippet: Alentejo frontier town by Spain, enclosed by star-shaped fortifications,
   dry moats, and the Amoreira Aqueduct.
 title: Elvas
 type: location
-heritage: 5.259
-vibrancy: 2.092
-nature: 3.431
-off_the_beaten_track: 2.467
+heritage: 4.73
+vibrancy: 1.94
+nature: 2.984
+off_the_beaten_track: 2.394
 ---
 
 Elvas is a fortified frontier town in the Alentejo region of eastern Portugal, a few kilometres from the Spanish border at Badajoz. Its star-shaped walls, dry moat, and aqueduct form the largest set of bulwark [fortifications](/europe/portugal/elvas/fortifications) in the world — the Garrison Border Town of Elvas and its Fortifications is a UNESCO World Heritage Site. The seventeenth-century [Amoreira Aqueduct](/europe/portugal/elvas/amoreira_aqueduct), which supplied the city during sieges, still stands intact. The medieval [Castle of Elvas](/europe/portugal/elvas/castle_of_elvas) and the [Our Lady of the Assumption Cathedral](/europe/portugal/elvas/cathedral) anchor the old town, and the outlying [Forte da Graça](/europe/portugal/elvas/forte_da_graca) and [Fort Santa Luzia](/europe/portugal/elvas/fort_santa_luzia) complete the defensive ring. Despite its historic importance, Elvas remains a quiet town with few tourists, making it an easy and rewarding day trip from Évora or Badajoz.

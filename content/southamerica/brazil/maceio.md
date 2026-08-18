@@ -2,7 +2,7 @@
 latitude: -9.6658
 loc_type: city
 longitude: -35.735
-score: 5.584
+score: 5.751
 snippet: Alagoas capital of reef-protected beaches, jangada trips, folk crafts, and
   bright green Atlantic water.
 sources:
@@ -12,10 +12,10 @@ sources:
 title: Maceió
 type: location
 wikidata: Q168888
-heritage: 4.742
-vibrancy: 5.07
-nature: 6.206
-off_the_beaten_track: 3.365
+heritage: 4.428
+vibrancy: 5.166
+nature: 6.418
+off_the_beaten_track: 3.123
 ---
 
 Maceió is the capital of Alagoas and one of northeast Brazil's easiest beach cities to like. The city spreads between the Atlantic and lagoons, with coconut palms, reef-protected water, and a waterfront where the main urban beaches roll into one another: [Pajuçara](/southamerica/brazil/maceio/pajucara_beach), [Ponta Verde](/southamerica/brazil/maceio/ponta_verde_beach), and Jatiúca.

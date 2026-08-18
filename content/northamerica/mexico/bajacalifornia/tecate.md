@@ -4,15 +4,15 @@ type: location
 loc_type: city
 latitude: 32.567
 longitude: -116.633
-score: 4.215
+score: 4.462
 snippet: Baja California border town of beer, Kumeyaay country, and dry mountain air.
 sources:
 - https://en.wikivoyage.org/wiki/Tecate
 - https://en.wikipedia.org/wiki/Tecate
-heritage: 3.934
-vibrancy: 4.2
-nature: 4.252
-off_the_beaten_track: 4.418
+heritage: 3.746
+vibrancy: 4.419
+nature: 4.574
+off_the_beaten_track: 4.163
 ---
 
 Tecate is the quietest of Baja California's big border towns, sitting across from rural eastern San Diego County rather than the sprawl of Tijuana. It is still a working crossing, but the centre has a calmer rhythm: shade trees around [Parque Miguel Hidalgo](/northamerica/mexico/bajacalifornia/tecate/parque_miguel_hidalgo), bakeries selling pan dulce, and the old brewery name that made Tecate known far beyond the border.

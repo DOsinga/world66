@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:JM-ocho_rios-hafen-01.jpg
 latitude: 18.4104
 loc_type: city
 longitude: -77.1024
-score: 6.581
+score: 6.036
 snippet: Jamaican cruise port and waterfall town on the north coast, named from Spanish
   Las Chorreras
 title: Ocho Rios
 type: location
-heritage: 4.599
-vibrancy: 5.302
-nature: 7.638
-off_the_beaten_track: 2.82
+heritage: 4.262
+vibrancy: 4.288
+nature: 7.284
+off_the_beaten_track: 2.587
 ---
 
 Ocho Rios — the name is an English corruption of Las Chorreras, Spanish for "the waterfalls" — is Jamaica's principal cruise-ship port, on the north coast between Montego Bay and Port Antonio. The town itself is small and commercial, but the surrounding area offers some of the island's most visited natural attractions.

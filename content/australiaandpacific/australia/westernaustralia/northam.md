@@ -2,7 +2,7 @@
 latitude: -31.654
 loc_type: city
 longitude: 116.6702
-score: 4.748
+score: 4.542
 snippet: Avon Valley wheatbelt town east of Perth, known for ballooning, river walks,
   and Ballardong culture.
 sources:
@@ -11,10 +11,10 @@ sources:
 - https://www.bilyakoortboodja.com/
 title: Northam
 type: location
-heritage: 3.171
-vibrancy: 1.617
-nature: 5.885
-off_the_beaten_track: 4.832
+heritage: 3.062
+vibrancy: 1.604
+nature: 5.552
+off_the_beaten_track: 4.878
 ---
 
 Northam is a Wheatbelt town on the Avon River, about 100 kilometres east of Perth. It is not as polished as [Toodyay](/australiaandpacific/australia/westernaustralia/toodyay) or as postcard-pretty as York, but it has a real day-trip identity: sunrise ballooning over the Avon Valley, a riverfront cultural centre, old civic buildings, and enough dry-country space to feel clear of the city.

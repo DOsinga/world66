@@ -11,15 +11,15 @@ image_source: https://www.flickr.com/photos/60057960@N06/22476980837
 latitude: 43.1896
 loc_type: city
 longitude: 17.6758
-score: 5.554
+score: 5.011
 snippet: Herzegovinian pilgrimage village centred on Marian apparition sites, St.
   James Church, and surrounding hills
 title: Medjugorje
 type: location
-heritage: 6.767
-vibrancy: 3.95
-nature: 4.568
-off_the_beaten_track: 3.552
+heritage: 5.984
+vibrancy: 3.348
+nature: 4.397
+off_the_beaten_track: 3.363
 ---
 
 Medjugorje is a small village in the hills between [Mostar](/europe/bosniaandherzegovina/mostar) and the Croatian border, and one of the most-visited Catholic pilgrimage sites in the world. Since June 1981, when six local teenagers reported seeing visions of the Virgin Mary on a nearby hillside, over forty million pilgrims have come. The Vatican has not officially recognised the apparitions as authentic, but in 2019 Pope Francis authorised official pilgrimages.

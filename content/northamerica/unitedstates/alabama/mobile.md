@@ -5,15 +5,15 @@ done:
 latitude: 30.6913
 loc_type: city
 longitude: -88.0438
-score: 5.181
+score: 4.811
 snippet: Alabama port city with French Louisiana roots and America's oldest Mardi
   Gras tradition.
 title: Mobile
 type: location
-heritage: 3.235
-vibrancy: 5.485
-nature: 4.394
-off_the_beaten_track: 1.742
+heritage: 3.942
+vibrancy: 4.831
+nature: 4.761
+off_the_beaten_track: 1.846
 ---
 
 Mobile is Alabama's only port city and its oldest. It was the original capital of French Louisiana, and that heritage shows -- the city has a distinctly different feel from the rest of the state, part Southern, part Cajun, with wrought-iron balconies and live oaks draped in Spanish moss.

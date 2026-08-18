@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -17.4814
 longitude: 140.83
-score: 4.544
+score: 4.779
 snippet: Gulf of Carpentaria fishing town where sealed road meets prawns, wetlands,
   and big sunsets.
 wikidata: Q678093
@@ -12,10 +12,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Karumba
 - https://www.discovercarpentaria.com.au/Barramundi-Discovery-Centre
 - https://www.queensland.com/us/en/things-to-do/attractions/p-5c01ebbb8395193b7ee17708-les-wilson-barramundi-discovery-centre--hatchery-karumba
-heritage: 2.939
-vibrancy: 2.178
-nature: 5.798
-off_the_beaten_track: 3.729
+heritage: 3.061
+vibrancy: 2.0
+nature: 6.11
+off_the_beaten_track: 4.005
 ---
 
 Karumba is the end-of-the-road Gulf town at the mouth of the Norman River, a place of prawning boats, tidal flats, fishing talk, and wide sunsets over the Gulf of Carpentaria. It is small and remote, but it has a clear reason to exist for travellers crossing the Gulf Country: this is where the sealed road finally reaches the sea.

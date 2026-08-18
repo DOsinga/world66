@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -38.233
 longitude: 143.15
-score: 4.151
+score: 4.431
 snippet: Western Victorian town set among volcanic cones, crater lakes, elm avenues,
   and Gothic civic landmarks.
 wikidata: Q2935500
@@ -12,10 +12,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Camperdown
 - https://www.travelvictoria.com.au/camperdown/
 - https://visitgreatoceanroad.org.au/volcaniclakesandplains/mount-leura-and-mt-sugarloaf/
-heritage: 2.856
-vibrancy: 2.081
-nature: 5.223
-off_the_beaten_track: 2.971
+heritage: 3.253
+vibrancy: 2.087
+nature: 5.489
+off_the_beaten_track: 2.967
 ---
 
 Camperdown sits in the volcanic country of western Victoria, inland from the Great Ocean Road but shaped by the same slow-travel rhythm. Its main street is lined with elms and old buildings, and a Gothic clock tower rises in the middle like a small-town exclamation mark.

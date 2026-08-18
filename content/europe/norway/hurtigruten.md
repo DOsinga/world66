@@ -4,7 +4,7 @@ done:
   poi_cleanup: '2026-04-21'
 latitude: 68.429137
 longitude: 17.425708
-score: 6.584
+score: 6.676
 title: Hurtigruten
 snippet: Norwegian coastal voyage route linking Bergen and Kirkenes through fjords,
   islands, and North Cape waters.
@@ -14,10 +14,10 @@ image: hurtigruten.jpg
 image_source: https://commons.wikimedia.org/wiki/File:0612_Polarlys_departing_from_Geiranger_-_starboard_bow_detailed_-_V-P.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Virtual-Pano
-heritage: 2.627
-vibrancy: 4.466
-nature: 8.048
-off_the_beaten_track: 6.127
+heritage: 2.996
+vibrancy: 3.515
+nature: 8.077
+off_the_beaten_track: 7.443
 ---
 
 The Hurtigruten is the coastal voyage from Bergen to Kirkenes and back, calling at 34 ports along the way — a working postal and freight route since 1893 that has become one of the great ways to see Norway's coast. The full round trip takes 12 days; most travellers take one leg only, north or south, or book a shorter port-to-port stretch.

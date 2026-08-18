@@ -5,7 +5,7 @@ done:
 latitude: 11.998551
 loc_type: city
 longitude: 120.205161
-score: 5.907
+score: 6.461
 snippet: Palawan dive town beside Tagbanua-managed Coron Island, known for Japanese
   wrecks and clear limestone lakes.
 title: Coron
@@ -14,10 +14,10 @@ image: coron.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Isola_di_coron,_baia_nei_pressi_del_lago_kayangan_05.jpg
 image_license: CC BY 3.0
 image_attribution: Sailko
-heritage: 3.423
-vibrancy: 4.224
-nature: 7.115
-off_the_beaten_track: 4.563
+heritage: 3.627
+vibrancy: 4.822
+nature: 7.685
+off_the_beaten_track: 4.467
 ---
 
 Coron is both the name of the largest town on the island of Busuanga and the name of a separate, smaller island just offshore. The area appears on most lists of the world's best dive destinations, and for good reason: in September 1944 a US Navy air raid [sank a fleet of Japanese supply ships](/asia/philippines/coron/wreck_diving) sheltering in the harbour, leaving around a dozen well-preserved wrecks scattered on the seabed. The wrecks sit at depths accessible to recreational divers and are now blanketed in coral and reef fish.

@@ -2,17 +2,17 @@
 latitude: 42.39
 loc_type: feature
 longitude: 18.62
-score: 5.606
+score: 6.19
 snippet: Olive-covered peninsula closing the mouth of the Bay of Kotor, with white-pebble
   coves and a sea cave reached by boat.
 sources:
 - https://en.wikipedia.org/wiki/Lu%C5%A1tica
 title: Luštica Peninsula
 type: location
-heritage: 3.867
-vibrancy: 2.189
-nature: 7.051
-off_the_beaten_track: 4.39
+heritage: 4.662
+vibrancy: 2.055
+nature: 7.618
+off_the_beaten_track: 4.791
 ---
 
 Luštica is the long, hilly peninsula that closes the mouth of the [Bay of Kotor](/europe/montenegro/bayofkotor), separating the sheltered inner bays from the open Adriatic. It is one of the least developed stretches of the Montenegrin coast: a ridge of grey limestone planted with olive groves, scattered stone hamlets, and a string of coves on the seaward side that you mostly reach by boat. From the [Herceg Novi](/europe/montenegro/hercegnovi) promenade it sits directly across the water, low and green on the horizon.

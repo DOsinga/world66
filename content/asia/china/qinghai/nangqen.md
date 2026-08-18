@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Autour_du_Monast%C3%A8re_z
 latitude: 32.2049
 loc_type: city
 longitude: 96.4804
-score: 6.37
+score: 6.156
 snippet: High-altitude Tibetan Plateau town in southern Qinghai, surrounded by river
   gorges, grasslands, and Kagyu Buddhist monasteries.
 sources:
 - https://en.wikivoyage.org/wiki/Nangqen
 title: Nangqen
 type: location
-heritage: 5.553
-vibrancy: 1.17
-nature: 7.52
-off_the_beaten_track: 6.868
+heritage: 3.876
+vibrancy: 1.45
+nature: 7.452
+off_the_beaten_track: 6.846
 ---
 
 Nangqen is a remote county town in southern Qinghai's Yushu Prefecture, close to the borders of Sichuan and Tibet and about 150 kilometres south of Yushu itself. It sits at high altitude on the Tibetan Plateau, in a landscape of river gorges, grasslands, and monastery-dotted hillsides. Few foreign travellers come here; those who do tend to be heading for the monasteries and wilderness areas of southern Yushu Prefecture.

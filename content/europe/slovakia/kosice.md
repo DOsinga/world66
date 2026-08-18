@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cathedral_of_St._Elizabeth
 latitude: 48.721
 loc_type: city
 longitude: 21.2572
-score: 5.802
+score: 5.126
 snippet: Eastern Slovak city with a broad historic promenade and the Gothic St. Elisabeth
   Cathedral.
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Ko%C5%A1ice
 title: Košice
 type: location
-heritage: 7.066
-vibrancy: 4.276
-nature: 3.185
-off_the_beaten_track: 2.221
+heritage: 6.192
+vibrancy: 3.879
+nature: 3.364
+off_the_beaten_track: 2.44
 ---
 
 Košice is Slovakia's second city, a substantial regional capital of about 240,000 people in the far east of the country, close to the Hungarian and Ukrainian borders. It is the largest city in eastern Slovakia and in many ways feels like a different country from Bratislava — more Central European in character, with a strong Hungarian cultural tradition (the city was known as Kassa under Hungarian rule) and a historic centre that is larger and better preserved than most visitors expect.

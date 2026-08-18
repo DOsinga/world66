@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cinema_Mara_-_Sighetu_Marm
 latitude: 47.928324
 loc_type: city
 longitude: 23.891558
-score: 5.185
+score: 4.377
 title: Sighet
 type: location
 snippet: Northern Romanian town in Maramureș, known for wooden-church country and
   a major communism memorial.
-heritage: 6.656
-vibrancy: 2.286
-nature: 3.497
-off_the_beaten_track: 3.871
+heritage: 5.511
+vibrancy: 2.363
+nature: 3.197
+off_the_beaten_track: 3.471
 ---
 
 Sighetu Marmației — usually just Sighet — sits in the far north of Romania, pressed against the Ukrainian border in the heart of Maramureș. This is one of the most culturally distinct regions in Europe: wooden churches with impossibly tall steeples, carved gates, haystacks built by hand, and a rural way of life that has barely changed in centuries.

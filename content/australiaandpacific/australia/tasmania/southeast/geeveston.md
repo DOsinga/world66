@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -43.166
 longitude: 146.933
-score: 5.139
+score: 5.087
 snippet: Huon Valley forestry town with platypus walks, timber history, and wild southern
   forest nearby.
 wikidata: Q1497778
@@ -17,10 +17,10 @@ image: geeveston.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Geeveston,_Tasmania_1.jpg
 image_license: CC BY 2.0
 image_attribution: Dan Gordon
-heritage: 3.411
-vibrancy: 1.791
-nature: 6.519
-off_the_beaten_track: 3.253
+heritage: 3.601
+vibrancy: 1.626
+nature: 6.359
+off_the_beaten_track: 3.533
 ---
 
 Geeveston is a small Huon Valley town south of Hobart, with a forestry past that still shows in its visitor centre, timber displays, and carved figures around the streets. It is not grand, but it has a clear identity: this is where the settled valley starts giving way to wet forest and the edge of Tasmania's southwest.

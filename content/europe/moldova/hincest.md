@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:H%C3%AEnce%C8%99ti,_Moldov
 latitude: 46.859126
 loc_type: city
 longitude: 28.523544
-score: 4.726
+score: 4.313
 snippet: Small Moldovan wine-country town south of Chișinău, anchored by Manuc-Bey
   Manor and Codru vineyards.
 title: Hîncești
 type: location
-heritage: 5.466
-vibrancy: 2.128
-nature: 4.547
-off_the_beaten_track: 3.238
+heritage: 4.904
+vibrancy: 2.163
+nature: 4.343
+off_the_beaten_track: 3.148
 ---
 
 Hîncești is a small town about 35 km south of Chișinău, the administrative centre of Hîncești district. It sees little tourist traffic but sits in decent wine country — the [Codru wine region](/europe/moldova/hincest/codru_wine_cellars) extends through this part of Moldova, and several estates near the town offer tastings.

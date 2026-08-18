@@ -17,7 +17,7 @@ quick_facts:
   Built On: Seven reclaimed islands
   Dabbawalas: Deliver 200,000 lunches daily
   Population: ~21 million
-score: 8.535
+score: 8.979
 snippet: Mumbai is India’s financial capital, a peninsula megacity of colonial landmarks,
   Art Deco blocks, and Bollywood.
 tip: Mumbai is India's fast-talking film and finance capital, built on what were once
@@ -27,10 +27,10 @@ tip: Mumbai is India's fast-talking film and finance capital, built on what were
   wonder.
 title: Mumbai
 type: location
-heritage: 7.27
-vibrancy: 9.079
-nature: 4.816
-off_the_beaten_track: 1.887
+heritage: 8.797
+vibrancy: 9.116
+nature: 5.191
+off_the_beaten_track: 1.814
 ---
 
 Mumbai is India's commercial and financial capital, a city of roughly 20 million people built on a peninsula that juts into the Arabian Sea. It was the British-era Bombay — a name still in common use — and the transformation from colonial port to global megacity happened faster here than almost anywhere. The result is a city of extremes: extraordinary wealth alongside [Dharavi](/asia/india/maharashtra/mumbai/dharavi), Art Deco apartments along [Marine Drive](/asia/india/maharashtra/mumbai/marine_drive) beside Victorian Gothic railway stations, a cosmopolitan energy that makes it feel like no other city in India.

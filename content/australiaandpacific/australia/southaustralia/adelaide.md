@@ -10,15 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Adelaide_skyline,_December
 latitude: -34.928181
 loc_type: city
 longitude: 138.599931
-score: 5.651
+score: 5.786
 title: Adelaide
 type: location
 snippet: Orderly South Australian capital laid out in a park-ringed grid between hills
   and sea.
-heritage: 5.113
-vibrancy: 5.873
-nature: 5.077
-off_the_beaten_track: 2.097
+heritage: 5.465
+vibrancy: 5.807
+nature: 5.733
+off_the_beaten_track: 2.025
 ---
 
 Adelaide sits on a coastal plain between the Mount Lofty Ranges and the sea, the quiet capital of South Australia and — by reputation — the most orderly, least frenetic Australian city. It was founded in 1836 as a free colony (no convicts), laid out to Colonel William Light's rigorous grid plan, and ringed entirely by parkland. That grid and those parks still define the centre: a flat, walkable square mile of wide boulevards, 19th-century sandstone and plane trees, wrapped in green.

@@ -5,15 +5,15 @@ done:
 latitude: 31.8369
 loc_type: city
 longitude: -102.0104
-score: 2.405
+score: 1.851
 title: Midland
 type: location
 snippet: West Texas oil city in the Permian Basin, where petroleum shaped the skyline
   and economy.
-heritage: 2.276
-vibrancy: 2.385
-nature: 2.458
-off_the_beaten_track: 1.082
+heritage: 1.939
+vibrancy: 1.831
+nature: 1.611
+off_the_beaten_track: 1.324
 ---
 
 Midland sits in the Permian Basin of West Texas, roughly midway between Fort Worth and El Paso (that's where the name comes from — it was originally called Midway before being changed to avoid confusion). It's primarily an oil town: the discovery of the Santa Rita No. 1 well in the Permian Basin in 1923 transformed what had been a farming and ranching crossroads into the administrative capital of West Texas's petroleum industry.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 20.738889
 longitude: -99.94
-score: 4.816
+score: 4.894
 snippet: Querétaro village gathered below one of Mexico's great volcanic monoliths.
 wikidata: Q822193
 sources:
@@ -16,10 +16,10 @@ image: bernal.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bernal,_Quer%C3%A9taro.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Juan Carlos Fonseca Mata
-heritage: 3.573
-vibrancy: 2.929
-nature: 5.95
-off_the_beaten_track: 2.832
+heritage: 3.374
+vibrancy: 2.999
+nature: 6.136
+off_the_beaten_track: 3.073
 ---
 
 Bernal is a small village in Querétaro that lives in the shadow of the Peña de Bernal, a huge volcanic plug rising straight above the tiled roofs and church towers. The rock gives the place its drama. You see it from almost every street, and the walk toward its lower chapel is the reason most travellers come.

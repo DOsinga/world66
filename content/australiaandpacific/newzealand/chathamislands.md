@@ -5,15 +5,15 @@ done:
 latitude: -43.9176
 loc_type: city
 longitude: -176.1873
-score: 6.535
+score: 6.259
 snippet: Remote New Zealand archipelago east of Christchurch, marked by Moriori history
   and rare endemic birds
 title: Chatham Islands
 type: location
-heritage: 3.893
-vibrancy: 0.273
-nature: 7.977
-off_the_beaten_track: 7.054
+heritage: 3.023
+vibrancy: 0.485
+nature: 7.49
+off_the_beaten_track: 7.245
 ---
 
 The Chatham Islands sit about 800 km east of Christchurch, closer to the International Date Line than to most of New Zealand. They are among the first inhabited places on Earth to see each new day. That remoteness is the whole point: this is where you go to get very far away.

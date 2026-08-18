@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 12.9167
 longitude: 123.6
-score: 5.065
+score: 5.726
 snippet: Sorsogon fishing town known for wild whale-shark encounters and firefly river
   cruises.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://www.lamave.org/news/press-release/their-future-our-future-no-feeding
 - https://www.giddysplace.com/activities_firefly.html
 wikidata: Q174192
-heritage: 1.597
-vibrancy: 1.609
-nature: 6.364
-off_the_beaten_track: 4.871
+heritage: 2.167
+vibrancy: 1.963
+nature: 7.36
+off_the_beaten_track: 4.968
 ---
 
 Donsol is a small coastal town in Sorsogon that earned a place on the travel map for one reason: wild whale sharks, or butanding, feeding seasonally in the bay. Unlike the more controversial feeding-based encounters elsewhere in the Philippines, Donsol's model is built around searching for animals that arrive naturally, with trained local guides and rules against touching or feeding.

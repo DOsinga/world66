@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 36.5858
 longitude: -79.395
-score: 4.098
+score: 4.076
 snippet: Southside Virginia river city with tobacco warehouses, Civil War memory,
   and a revived Dan River trail.
 sources:
@@ -14,10 +14,10 @@ image: danville.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Danville,_VA_aerial.jpg
 image_license: CC0
 image_attribution: Designism
-heritage: 4.314
-vibrancy: 2.948
-nature: 4.523
-off_the_beaten_track: 1.964
+heritage: 4.316
+vibrancy: 2.887
+nature: 4.489
+off_the_beaten_track: 2.113
 ---
 
 Danville sits on the Dan River just above the North Carolina line, a former tobacco and textile city with more history than its modest size suggests. It was briefly the last capital of the Confederacy, later a major mill town, and now a place trying to turn old warehouses and riverfront land into something visitors can use.

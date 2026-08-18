@@ -5,7 +5,7 @@ done:
 latitude: 52.345053
 loc_type: city
 longitude: -1.581603
-score: 4.741
+score: 5.007
 title: Kenilworth
 type: location
 image: kenilworth.jpg
@@ -14,10 +14,10 @@ image_license: CC BY-SA 4.0
 image_attribution: DeFacto
 snippet: Warwickshire town dominated by Kenilworth Castle, a red-sandstone royal stronghold
   turned Elizabethan palace.
-heritage: 6.327
-vibrancy: 2.162
-nature: 2.649
-off_the_beaten_track: 1.654
+heritage: 6.731
+vibrancy: 2.139
+nature: 2.686
+off_the_beaten_track: 1.716
 ---
 
 Kenilworth is a small Warwickshire town dominated by the red sandstone ruins of [Kenilworth Castle](/europe/unitedkingdom/england/east_midlands/kenilworth/kenilworth_castle), one of the grandest fortified sites in England. The castle was a royal stronghold for centuries before Elizabeth I gave it to her favourite Robert Dudley, who transformed part of it into an extravagant Elizabethan pleasure palace to entertain the queen. The ruins are now managed by English Heritage and the restored [Elizabethan Garden](/europe/unitedkingdom/england/east_midlands/kenilworth/elizabethan_garden) is worth seeing.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Boating_in_the_morning_at_
 latitude: 22.222494
 loc_type: city
 longitude: 88.047416
-score: 5.089
+score: 5.071
 snippet: Hooghly-Rupnarayan riverside village near Kolkata, used for picnics and small
   boat trips.
 title: Gadiara
 type: location
-heritage: 2.303
-vibrancy: 3.125
-nature: 6.378
-off_the_beaten_track: 1.821
+heritage: 2.832
+vibrancy: 3.078
+nature: 6.373
+off_the_beaten_track: 1.481
 ---
 
 Gadiara is a riverside village at the confluence of the Hooghly and Rupnarayan rivers in Howrah district, about 70 km from Kolkata. It is a popular picnic spot, particularly with Kolkata families on day trips. The Hooghly at this point is wide and the view across to the far bank pleasant. Small boats can be hired for river trips. There is no significant accommodation; Gadiara is best treated as a half-day excursion.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:St._Oswald_Kirche_Traunste
 latitude: 47.8695
 loc_type: city
 longitude: 12.6485
-score: 4.972
+score: 5.197
 snippet: Southeastern Bavarian city with a broad medieval Stadtplatz and ties to Pope
   Benedict XVI.
 title: Traunstein
 type: location
-heritage: 3.935
-vibrancy: 2.647
-nature: 6.039
-off_the_beaten_track: 3.582
+heritage: 4.03
+vibrancy: 2.414
+nature: 6.348
+off_the_beaten_track: 3.953
 ---
 
 Traunstein is a small city in the far southeast of Bavaria, named after the River Traun and sitting close to the Austrian border. It has a well-preserved medieval town centre built around a wide [Stadtplatz](/europe/germany/bavaria/traunstein/stadtplatz) — a classic elongated Bavarian market square — and the Romanesque-Gothic tower of [St. Oswald's church](/europe/germany/bavaria/traunstein/st_oswalds_church) at its head. Pope Benedict XVI — born Joseph Ratzinger — grew up nearby and attended the gymnasium here, a fact the town marks with quiet civic pride.

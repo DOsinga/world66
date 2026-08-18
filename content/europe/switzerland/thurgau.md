@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:20080507_1708MESZ_Schloss_
 latitude: 47.585965
 loc_type: city
 longitude: 9.142877
-score: 5.188
+score: 4.905
 snippet: Eastern Swiss canton between Bodensee and low hills, known for orchards and
   cycling routes.
 title: Thurgau
 type: location
-heritage: 3.907
-vibrancy: 2.875
-nature: 6.385
-off_the_beaten_track: 2.389
+heritage: 3.509
+vibrancy: 3.004
+nature: 6.116
+off_the_beaten_track: 2.377
 ---
 
 Thurgau is the apple canton — rolling countryside between the Bodensee (Lake Constance) and the hills of eastern Switzerland, covered in orchards that bloom white in spring and turn the roadside farm stalls into cider-tasting stops in autumn. It is one of the least-visited parts of Switzerland, which keeps it affordable and unhurried.

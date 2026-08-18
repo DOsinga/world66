@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ibri,_Oman_(2013).jpg
 latitude: 23.216164
 loc_type: city
 longitude: 56.515355
-score: 4.806
+score: 4.025
 snippet: Old Omani caravan town in Ad Dhahirah, with a fort, local souq, and nearby
   Bronze Age tombs
 title: Ibri
 type: location
-heritage: 3.934
-vibrancy: 1.586
-nature: 5.723
-off_the_beaten_track: 5.657
+heritage: 3.566
+vibrancy: 1.614
+nature: 4.554
+off_the_beaten_track: 5.521
 ---
 
 Located halfway between [Muscat](/asia/oman/muscat) and the border with the Emirates, Ibri is an old caravan town in the Ad Dhahirah region that most travellers drive through without stopping. That is a mistake. The town has a restored [Ibri Fort](/asia/oman/ibri/ibri_fort), a lively [souq](/asia/oman/ibri/ibri_souq) that still caters to locals rather than tourists, and a genuine small-town Omani atmosphere that the more polished destinations along the coast have lost.

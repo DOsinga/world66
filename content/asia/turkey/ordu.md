@@ -2,7 +2,7 @@
 latitude: 40.983333
 loc_type: city
 longitude: 37.883333
-score: 5.047
+score: 5.128
 snippet: Black Sea port city backed by Boztepe, with hazelnut country and coastal
   headlands close by.
 sources:
@@ -17,10 +17,10 @@ image: ordu.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ordu,_Turkey.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Ahmet Gürsakal
-heritage: 4.887
-vibrancy: 3.633
-nature: 5.751
-off_the_beaten_track: 5.34
+heritage: 4.73
+vibrancy: 3.68
+nature: 5.943
+off_the_beaten_track: 5.104
 ---
 
 Ordu is a Black Sea city that works best when you let the landscape lead. The centre sits on the water, the hills rise immediately behind it, and the cable car to [Boztepe](/asia/turkey/ordu/boztepe) turns the whole city into a viewpoint in a few minutes.

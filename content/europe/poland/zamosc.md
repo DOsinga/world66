@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 50.7231
 longitude: 23.252
-score: 5.868
+score: 5.861
 snippet: Renaissance planned town in eastern Poland, built as an ideal city around
   arcaded squares.
 sources:
@@ -18,10 +18,10 @@ image: zamosc.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Zamosc_Great_Market_panorama1.jpg
 image_license: CC BY-SA 4.0
 image_attribution: MarW
-heritage: 7.956
-vibrancy: 2.618
-nature: 2.998
-off_the_beaten_track: 2.146
+heritage: 7.729
+vibrancy: 2.86
+nature: 3.485
+off_the_beaten_track: 2.296
 ---
 
 Zamość is one of Poland's most satisfying small-city surprises: a late-Renaissance town planned almost from scratch as an ideal city. Jan Zamoyski hired the Italian architect Bernardo Morando in the 16th century, and the result still reads clearly today: arcaded merchant houses, ordered streets, a grand square, and fortifications wrapped around the whole composition.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cairngorms-national-park-1
 latitude: 57.0833
 loc_type: feature
 longitude: -3.6667
-score: 5.926
+score: 6.099
 snippet: United Kingdom’s largest national park, covering high plateau, Caledonian
   forest, and eastern Highland rivers.
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Cairngorms
 title: Cairngorms
 type: location
-heritage: 3.31
-vibrancy: 1.389
-nature: 7.505
-off_the_beaten_track: 5.508
+heritage: 3.835
+vibrancy: 1.606
+nature: 7.661
+off_the_beaten_track: 5.873
 ---
 
 The Cairngorms National Park is the largest national park in the United Kingdom, covering 4,528 square kilometres of high plateau, ancient Caledonian forest, and fast-running rivers in the eastern Scottish Highlands. The park takes its name from the Cairngorm mountain range — Am Monadh Ruadh, "the Red Hills" in Gaelic — which forms a high, cold, Arctic-alpine plateau in the park's centre. Ben Macdui, at 1,309 metres, is the second-highest mountain in Britain and the plateau around it sustains plant communities found almost nowhere else in the country at this latitude.

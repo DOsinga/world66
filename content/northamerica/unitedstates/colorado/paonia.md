@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 38.86833
 longitude: -107.59194
-score: 5.485
+score: 5.789
 snippet: North Fork Valley town of orchards, high-country vineyards, artists, and
   mountain views below the West Elks.
 sources:
@@ -14,10 +14,10 @@ image: paonia.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Paonia.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Cobun Keegan
-heritage: 3.308
-vibrancy: 3.723
-nature: 6.703
-off_the_beaten_track: 4.5
+heritage: 3.217
+vibrancy: 3.566
+nature: 7.25
+off_the_beaten_track: 4.684
 ---
 
 Paonia sits in Colorado's North Fork Valley, a small town surrounded by orchards, vineyards and the dry mesas below the West Elk Mountains. It is not a resort town in the Aspen or Telluride sense. Its appeal is quieter: fruit country, farm roads, small wineries, a real arts scene and mountain views that appear at the end of ordinary streets.

@@ -9,17 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:2015_0319_174425_KohKongIs
 latitude: 11.611009
 loc_type: city
 longitude: 102.981859
-score: 5.012
+score: 5.541
 snippet: Southwestern Cambodian coastal town between the Cardamom Mountains and Gulf
   of Thailand, near mangroves and islands.
 title: Krong Koh Kong
 type: location
-heritage: 2.264
-vibrancy: 2.286
-nature: 6.372
-off_the_beaten_track: 4.578
+heritage: 2.444
+vibrancy: 2.304
+nature: 7.119
+off_the_beaten_track: 4.814
 ---
 
-Krong Koh Kong is a small coastal town in Cambodia's far southwest, tucked between the Cardamom Mountains and the Gulf of Thailand. It sits just 80 km from Thailand's [Koh Chang](/asia/thailand/kohchang), and the border crossing at Cham Yeam makes it a common entry point for travellers coming overland from the Thai side.
+Krong Koh Kong is a small coastal town in Cambodia's far southwest, tucked between the Cardamom Mountains and the Gulf of Thailand. It sits just 80 km from Thailand's [Koh Chang](/asia/thailand/easternseaboard/kohchang), and the border crossing at Cham Yeam makes it a common entry point for travellers coming overland from the Thai side.
 
 The town itself is quiet and unpolished — a handful of guesthouses, a riverside market, and the long [Koh Kong Bridge](/asia/cambodia/krongkohkong/koh_kong_bridge) across the estuary. The real draw is what surrounds it: the largely untouched [Cardamom Mountains](/asia/cambodia/krongkohkong/cardamom_mountains) to the north, the [Peam Krasaop mangroves](/asia/cambodia/krongkohkong/peam_krasaop_mangroves) along the coast, and [Koh Kong Island](/asia/cambodia/krongkohkong/koh_kong_island) offshore, a large and almost empty island with long stretches of white sand. Boat trips to the island, jungle treks into the Cardamoms, and visits to the [Tatai waterfall](/asia/cambodia/krongkohkong/tatai_waterfall) can all be arranged locally. The town is reachable by road from [Sihanoukville](/asia/cambodia/sihanoukville) and [Phnom Penh](/asia/cambodia/phnompenh), and from the Thai border at Hat Lek nine kilometres away.

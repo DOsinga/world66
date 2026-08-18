@@ -9,15 +9,15 @@ image_source: https://www.flickr.com/photos/184898381@N07/51819280334
 latitude: 56.4618
 loc_type: city
 longitude: 10.0371
-score: 4.255
+score: 4.339
 snippet: Danish river town known for Randers Regnskov, a glass-domed tropical zoo
   over the Gudenå.
 title: Randers
 type: location
-heritage: 2.511
-vibrancy: 2.036
-nature: 5.531
-off_the_beaten_track: 2.611
+heritage: 2.9
+vibrancy: 1.963
+nature: 5.496
+off_the_beaten_track: 2.618
 ---
 
 Randers is a mid-sized Danish town on the Gudenå river in eastern Jutland, best known for its tropical zoo. [Randers Regnskov](/europe/denmark/randers/randers_regnskov) (Randers Rainforest) is a domed complex built over the river that houses three climate zones — South America, Africa, and Asia — under interconnected glass domes. It is one of Denmark's most-visited family attractions, and the reason most people stop here.

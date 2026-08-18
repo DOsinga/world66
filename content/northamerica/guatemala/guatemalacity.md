@@ -15,7 +15,7 @@ quick_facts:
   Numbered Zones: Divided into 22 of them
   Population: ~3 million (metro)
   Ringed by Volcanoes: Three loom nearby
-score: 5.707
+score: 5.217
 snippet: Highland Central American capital with a mild valley climate and an underrated
   historic centre
 tip: Guatemala City — 'Guate' — is big, busy and divided into numbered zones; most
@@ -25,10 +25,10 @@ tip: Guatemala City — 'Guate' — is big, busy and divided into numbered zones
   valuables out of sight.
 title: Guatemala City
 type: location
-heritage: 5.828
-vibrancy: 5.704
-nature: 5.043
-off_the_beaten_track: 2.852
+heritage: 5.38
+vibrancy: 5.195
+nature: 5.053
+off_the_beaten_track: 2.798
 ---
 
 Guatemala City is the capital and by far the largest city in Central America (excluding Mexico), with a metropolitan population over 3 million. It sits in a wide valley at about 1,500 metres elevation, giving it a mild climate year-round.

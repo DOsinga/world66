@@ -4,15 +4,15 @@ done:
 latitude: 45.5695
 loc_type: feature
 longitude: -107.4283
-score: 6.4
+score: 5.977
 snippet: Montana battlefield monument preserving the 1876 Little Bighorn site and
   its rolling grassland markers.
 title: Little Bighorn
 type: location
-heritage: 7.501
-vibrancy: 1.537
-nature: 5.937
-off_the_beaten_track: 3.449
+heritage: 7.043
+vibrancy: 1.355
+nature: 5.459
+off_the_beaten_track: 3.892
 ---
 
 Little Bighorn Battlefield National Monument preserves the site of the June 25, 1876 battle between the U.S. Army's 7th Cavalry, guided by Crow and Arikara scouts, and several bands of Lakota Sioux, Cheyenne, and Arapaho under leaders including Sitting Bull and Crazy Horse. The battle was a decisive Native American victory and one of the most famous engagements in American history.

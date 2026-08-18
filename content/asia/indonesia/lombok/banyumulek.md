@@ -10,13 +10,13 @@ loc_type: city
 longitude: 116.1102
 title: Banyumulek
 type: location
-score: 4.179
+score: 3.851
 snippet: Lombok pottery village where household workshops shape terracotta pots on
   hand-turned wheels.
-heritage: 4.684
-vibrancy: 1.969
-nature: 4.361
-off_the_beaten_track: 4.365
+heritage: 4.232
+vibrancy: 2.125
+nature: 4.175
+off_the_beaten_track: 3.808
 ---
 
 Banyumulek is a small village about 10 km south of [Mataram](/asia/indonesia/lombok/mataram), and the best-known of Lombok's three traditional pottery villages. Almost every household in the village is involved in the craft, and the lanes are lined with open-fronted workshops where women shape clay pots on hand-turned wheels and men fire them in open kilns. The pottery here is unglazed, fired to a deep terracotta, and decorated with woven rattan in geometric patterns — a style that has become a recognisable Lombok export.

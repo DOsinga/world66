@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Netherlands,_Zoetermeer,_R
 latitude: 52.0622
 loc_type: city
 longitude: 4.4901
-score: 2.486
+score: 1.989
 snippet: Planned Randstad city between The Hague and Gouda, grown from a small village
   after the war.
 sources:
 - https://en.wikipedia.org/wiki/Zoetermeer
 title: Zoetermeer
 type: location
-heritage: 2.261
-vibrancy: 2.542
-nature: 2.34
-off_the_beaten_track: 1.047
+heritage: 1.687
+vibrancy: 2.106
+nature: 1.686
+off_the_beaten_track: 1.287
 ---
 
 Zoetermeer is one of the Netherlands' youngest cities, a planned new town that grew from a small village of a few thousand into a city of 125,000 in just a few decades. Situated between The Hague and Gouda, it was built to absorb the post-war housing demand of the Randstad, and it shows — the architecture is modern, the infrastructure is efficient, and the green spaces are generous. It is not the kind of place that makes it onto tourist itineraries, but if you find yourself here, it has its charms.

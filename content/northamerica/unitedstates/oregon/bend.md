@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:20210803_03_Bend,_Oregon.j
 latitude: 44.058173
 loc_type: city
 longitude: -121.31531
-score: 5.488
+score: 5.079
 snippet: Central Oregon outdoor city on the Deschutes River, with Cascade skiing and
   high-desert trails nearby.
 title: Bend
 type: location
-heritage: 2.672
-vibrancy: 3.493
-nature: 6.818
-off_the_beaten_track: 2.527
+heritage: 2.152
+vibrancy: 3.01
+nature: 6.418
+off_the_beaten_track: 2.203
 ---
 
 Bend is central Oregon's outdoor capital, a small city on the Deschutes River with the Cascade Range rising immediately to the west. In winter people ski and snowboard at [Mount Bachelor](/northamerica/unitedstates/oregon/bend/mount_bachelor); in summer they mountain bike, hike, paddle, and fish. The town itself has grown from a logging settlement into a craft-beer-and-adventure hub with a lively downtown, good restaurants, and an easy, outdoorsy energy.

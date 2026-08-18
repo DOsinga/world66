@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Main_Square,_Szentendr
 latitude: 47.667761
 loc_type: city
 longitude: 19.076047
-score: 5.359
+score: 5.304
 snippet: Baroque Danube Bend town north of Budapest, shaped by Serbian Orthodox refugees
   and artists.
 title: Szentendre
 type: location
-heritage: 5.918
-vibrancy: 5.184
-nature: 3.424
-off_the_beaten_track: 1.47
+heritage: 5.869
+vibrancy: 5.105
+nature: 3.849
+off_the_beaten_track: 1.687
 ---
 
 Szentendre is a small Baroque town on the Danube bend, 19 km north of [Budapest](/europe/hungary/budapest), originally settled by Serbian Orthodox refugees fleeing the Ottoman advance in the 17th and 18th centuries. The Serbs built a cluster of distinctive Orthodox churches whose towers still punctuate the skyline, and the town's south Slav character — Cyrillic inscriptions, Mediterranean-style facades, Orthodox crosses — gives it an atmosphere unlike anywhere else in Hungary.

@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: 60.832
 longitude: -115.778
-score: 4.869
+score: 4.48
 snippet: Great Slave Lake port town with sandy beaches, fishing culture, and road
   access to northern waterfalls.
 sources:
 - https://en.wikivoyage.org/wiki/Hay_River
 - https://hayriver.com/tourism-about-hay-river/attractions/
 - https://spectacularnwt.com/story/what-to-do-in-hay-river-the-hub-of-the-north/
-heritage: 2.693
-vibrancy: 1.472
-nature: 5.982
-off_the_beaten_track: 5.128
+heritage: 2.727
+vibrancy: 1.25
+nature: 5.335
+off_the_beaten_track: 5.27
 ---
 
 Hay River is a working northern port on the south shore of Great Slave Lake. It is a transport hub, yes, but not only that: the town has real lake life, a commercial fishing history, broad sandy beaches, and access to some of the easiest waterfall country in the Northwest Territories.

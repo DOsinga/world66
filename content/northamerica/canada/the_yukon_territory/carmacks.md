@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 62.0888
 longitude: -136.2899
-score: 6.188
+score: 5.613
 snippet: Yukon River village with Northern Tutchone culture, Klondike Highway history,
   and nearby Five Finger Rapids.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://carmacks.ca/parks
 - https://www.heritageyukon.ca/our-heritage/heritage-places/tage-cho-hudan-interpretive-centre/
 - https://yukon.ca/en/outdoor-recreation-and-wildlife/camping/site/five-finger-rapids-recreation-site
-heritage: 3.598
-vibrancy: 1.278
-nature: 7.576
-off_the_beaten_track: 6.602
+heritage: 2.412
+vibrancy: 1.256
+nature: 6.723
+off_the_beaten_track: 6.479
 ---
 
 Carmacks is a small Yukon River village where the North Klondike Highway meets the Robert Campbell Highway. It is an easy place to treat as a fuel stop, but the river, the Little Salmon/Carmacks First Nation, and the old route north give it more substance than its size suggests.

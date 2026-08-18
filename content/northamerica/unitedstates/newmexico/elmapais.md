@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:ElMalpaisLava.JPG
 latitude: 34.88
 loc_type: city
 longitude: -107.97
-score: 6.427
+score: 6.326
 snippet: New Mexico national monument near Grants, shaped by lava flows, cinder cones,
   sandstone bluffs, and lava tubes.
 title: El Malpais
 type: location
-heritage: 2.088
-vibrancy: 0.96
-nature: 8.275
-off_the_beaten_track: 5.529
+heritage: 2.222
+vibrancy: 0.972
+nature: 8.061
+off_the_beaten_track: 5.714
 ---
 
 El Malpais means "the badlands," but this national monument near [Grants](/northamerica/unitedstates/newmexico/grants) is full of surprises. Lava flows, cinder cones, pressure ridges, and [lava tube cave systems](/northamerica/unitedstates/newmexico/elmapais/lava_tubes) up to 17 miles long dominate a landscape that looks genuinely alien — jet-black basalt fields broken only by the occasional ponderosa pine that found a foothold in the rock. [Sandstone bluffs](/northamerica/unitedstates/newmexico/elmapais/sandstone_bluffs_overlook) and mesas line the eastern edge, giving the whole scene a layered drama that photographs cannot quite capture, and the [La Ventana Natural Arch](/northamerica/unitedstates/newmexico/elmapais/la_ventana_arch) is one of the largest in New Mexico.

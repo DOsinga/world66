@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:StarkvilleMS_CottonDistric
 latitude: 33.46222
 loc_type: city
 longitude: -88.81972
-score: 2.628
+score: 2.552
 snippet: Mississippi college town where SEC energy, Grant history, and nearby wetlands
   give it more bite.
 sources:
@@ -20,10 +20,10 @@ sources:
 title: Starkville
 type: location
 wikidata: Q770470
-heritage: 2.322
-vibrancy: 2.396
-nature: 2.916
-off_the_beaten_track: 1.56
+heritage: 2.134
+vibrancy: 2.422
+nature: 2.785
+off_the_beaten_track: 1.609
 ---
 
 Starkville is a small Mississippi city with one large personality: Mississippi State University. On football weekends the town swells, cowbells ring everywhere, and the line between campus, downtown, and the Cotton District gets pleasantly blurry. That college-town energy is the reason to come, but not the only one.

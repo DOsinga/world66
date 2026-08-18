@@ -5,17 +5,17 @@ done:
 latitude: 44.3166
 loc_type: city
 longitude: 8.1643
-score: 4.65
+score: 4.547
 snippet: Scattered Ligurian commune in the Bormida valley, linked by chestnut woods
   and medieval Del Carretto ruins.
 tags:
 - rivieradellepalme
 title: Murialdo
 type: location
-heritage: 3.296
-vibrancy: 1.341
-nature: 5.81
-off_the_beaten_track: 4.113
+heritage: 3.771
+vibrancy: 1.293
+nature: 5.449
+off_the_beaten_track: 3.989
 ---
 
 Murialdo is a scattered commune in the upper valley of the Bormida di Millesimo, made up of several small villages -- Isola Grande, Piano, Ponte, Riofreddo, and Valle -- connected by narrow roads through chestnut and beech woods.

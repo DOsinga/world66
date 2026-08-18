@@ -5,7 +5,7 @@ done:
 latitude: 41.203519
 loc_type: city
 longitude: 14.116862
-score: 5.902
+score: 5.554
 title: Caserta
 type: location
 image: caserta.jpg
@@ -14,10 +14,10 @@ image_license: CC BY-SA 4.0
 image_attribution: Tango7174
 snippet: Campanian city north of Naples defined by the Bourbon palace built to rival
   Versailles.
-heritage: 7.214
-vibrancy: 4.296
-nature: 2.397
-off_the_beaten_track: 1.906
+heritage: 6.601
+vibrancy: 4.422
+nature: 2.982
+off_the_beaten_track: 2.013
 ---
 
 Caserta is a small city 27 km north of [Naples](/europe/italy/campania/naples), and almost everyone who visits comes for one reason: the [Reggia di Caserta](/europe/italy/campania/caserta/reggia_di_caserta), the colossal Royal Palace built in the eighteenth century as the Bourbon kings' answer to Versailles. With 1,200 rooms, 34 grand staircases, and a park stretching 3 km behind the palace to a dramatic cascade, it is one of the most extraordinary achievements of Italian Baroque architecture and a UNESCO World Heritage Site.

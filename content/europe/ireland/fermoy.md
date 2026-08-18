@@ -5,17 +5,17 @@ done:
 latitude: 52.138166
 loc_type: city
 longitude: -8.275223
-score: 3.648
+score: 3.882
 snippet: County Cork town on the River Blackwater, set between Cork city and Cahir.
 sources:
 - https://en.wikipedia.org/wiki/Fermoy
 - https://en.wikipedia.org/wiki/Castlehyde
 title: Fermoy
 type: location
-heritage: 3.863
-vibrancy: 1.928
-nature: 4.017
-off_the_beaten_track: 2.183
+heritage: 4.345
+vibrancy: 2.044
+nature: 4.065
+off_the_beaten_track: 2.052
 ---
 
 Fermoy (Mainistir Fhear Maigh in Irish) is a town of about 6,700 on the [River Blackwater](/europe/ireland/fermoy/river_blackwater) in County Cork, roughly midway between Cork city and Cahir. The modern town was planned and built by the Scottish entrepreneur John Anderson in 1791 — he is also credited with developing Ireland's mail coach system. The site, however, is older: a Cistercian abbey founded in the 12th century stood here, and a ford on the Blackwater long before that.

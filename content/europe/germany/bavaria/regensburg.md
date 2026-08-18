@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Regensburger_Altstadt_von_
 latitude: 49.0195
 loc_type: city
 longitude: 12.0975
-score: 6.024
+score: 6.609
 sources:
 - https://en.wikipedia.org/wiki/Regensburg
 - https://en.wikipedia.org/wiki/Stone_Bridge_(Regensburg)
@@ -21,10 +21,10 @@ title: Regensburg
 snippet: Danube city in eastern Bavaria, with an intact medieval centre spared from
   wartime destruction.
 type: location
-heritage: 7.26
-vibrancy: 4.594
-nature: 2.978
-off_the_beaten_track: 1.932
+heritage: 8.032
+vibrancy: 4.903
+nature: 3.949
+off_the_beaten_track: 1.926
 ---
 
 Regensburg is one of Germany's best-preserved medieval cities, a UNESCO World Heritage Site on the Danube in eastern Bavaria. For over 600 years — from 1245 until Napoleon arrived in 1803 — it was a free imperial city and a prosperous trading centre. Unlike most German cities, it came through the Second World War largely unscathed, leaving an extraordinary concentration of medieval and early-modern architecture intact.

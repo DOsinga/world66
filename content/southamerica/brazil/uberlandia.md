@@ -4,15 +4,15 @@ type: location
 loc_type: city
 latitude: -18.918
 longitude: -48.277
-score: 4.425
+score: 4.601
 snippet: Triângulo Mineiro city with broad avenues, cerrado parks, markets, and a
   confident interior-Brazil rhythm.
 sources:
 - https://en.wikivoyage.org/wiki/Uberl%C3%A2ndia
-heritage: 4.099
-vibrancy: 4.582
-nature: 3.398
-off_the_beaten_track: 2.034
+heritage: 3.397
+vibrancy: 5.025
+nature: 3.505
+off_the_beaten_track: 2.018
 ---
 
 Uberlândia is the main city of the Triângulo Mineiro, the western corner of Minas Gerais that looks as much toward Goiás and São Paulo as it does toward Belo Horizonte. It is a businesslike interior city, but it has enough green space, food, and local culture to reward a day if you are already crossing this part of Brazil.

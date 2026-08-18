@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -6.894
 longitude: 109.676
-score: 3.023
+score: 3.002
 snippet: North Java batik city where textile workshops, markets, and coastal trade
   shape daily life.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://www.unesco.org/en/creative-cities/pekalongan
 - https://visitjawatengah.jatengprov.go.id/en/article/visiting-kampoeng-batik-kauman-pekalongan-a-place-with-a-million-stories
 wikidata: Q11026
-heritage: 3.63
-vibrancy: 2.252
-nature: 2.605
-off_the_beaten_track: 1.965
+heritage: 3.611
+vibrancy: 2.185
+nature: 2.574
+off_the_beaten_track: 2.067
 ---
 
 Pekalongan is the batik city of Java's north coast. The title is not just a slogan: batik is woven into the local economy, education, markets and neighbourhood life, enough for UNESCO to list Pekalongan as a Creative City of Crafts and Folk Arts.

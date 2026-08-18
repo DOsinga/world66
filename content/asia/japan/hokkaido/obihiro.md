@@ -11,11 +11,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Obihiro
 - https://www.japan.travel/en/spot/2144/
 - https://www.visit-hokkaido.jp/en/spot/detail_10256.html
-score: 4.455
-heritage: 3.045
-vibrancy: 2.963
-nature: 5.473
-off_the_beaten_track: 2.894
+score: 4.545
+heritage: 2.954
+vibrancy: 2.821
+nature: 5.681
+off_the_beaten_track: 3.084
 ---
 
 Obihiro is the main city of the Tokachi plain, a broad farming region in eastern [Hokkaido](/asia/japan/hokkaido). It feels open and practical, with long straight streets, big skies, and a food culture built around dairy, sweets, and buta-don pork rice bowls.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 55.6833
 longitude: 11.1
-score: 2.562
+score: 3.086
 snippet: West Zealand harbour town with a medieval high town and the Røsnæs peninsula
   beside it.
 sources:
@@ -15,10 +15,10 @@ image_source: https://commons.wikimedia.org/wiki/File:H%C3%A6rvigen_med_Vor_Frue
 image_license: Public domain
 image_attribution: No machine-readable author provided. Lcl assumed (based on copyright
   claims).
-heritage: 2.986
-vibrancy: 2.159
-nature: 2.29
-off_the_beaten_track: 1.286
+heritage: 3.784
+vibrancy: 2.098
+nature: 2.483
+off_the_beaten_track: 1.295
 ---
 
 Kalundborg sits on the west coast of Zealand, tucked inside Kalundborg Fjord between the Røsnæs and Asnæs peninsulas. It is a working harbour and industrial town, but the old high town above the centre gives it more character than you might expect at first glance.

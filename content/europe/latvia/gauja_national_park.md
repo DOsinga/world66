@@ -4,15 +4,15 @@ done:
 latitude: 57.299892
 loc_type: feature
 longitude: 25.079247
-score: 6.141
+score: 5.979
 snippet: Forested Latvian national park where the Gauja River cuts past sandstone
   cliffs, caves, and medieval castles.
 title: Gauja National Park
 type: location
-heritage: 5.726
-vibrancy: 1.519
-nature: 7.091
-off_the_beaten_track: 3.054
+heritage: 4.726
+vibrancy: 2.073
+nature: 7.265
+off_the_beaten_track: 3.021
 ---
 
 Gauja National Park is the largest protected area in Latvia, covering around 920 square kilometres of forested river valley along the Gauja River between Sigulda and Valmiera. It's the easiest countryside escape from Riga — trains and buses reach the park's main towns in under an hour.

@@ -4,7 +4,7 @@ done:
 latitude: 10.086996
 loc_type: city
 longitude: 77.060091
-score: 5.847
+score: 6.308
 snippet: Kerala hill station wrapped in high tea plantations and cool Western Ghats
   cloud.
 sources:
@@ -17,10 +17,10 @@ image: munnar.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Eravikulam_National_Park,_Munnar_-_panoramio_(9).jpg
 image_license: CC BY 3.0
 image_attribution: Jaseem Hamza
-heritage: 3.292
-vibrancy: 3.382
-nature: 7.429
-off_the_beaten_track: 3.942
+heritage: 3.434
+vibrancy: 4.165
+nature: 7.765
+off_the_beaten_track: 4.121
 ---
 
 Munnar is Kerala's most popular hill station, set at 1,500 metres in the Western Ghats about 130 km east of [Kochi](/asia/india/kerala/kochi). The landscape is stunning: rolling hills covered in tea plantations as far as you can see, with low clouds drifting through the valleys and the air noticeably cool after the heat of the lowlands.

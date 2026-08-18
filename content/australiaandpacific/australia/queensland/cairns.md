@@ -5,7 +5,7 @@ done:
 latitude: -16.9186
 loc_type: city
 longitude: 145.7781
-score: 6.22
+score: 5.582
 snippet: Tropical Queensland gateway to the Great Barrier Reef and Daintree, with
   an easy backpacker rhythm.
 title: Cairns
@@ -14,10 +14,10 @@ image: cairns.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cairns-marina.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Frances76 at English Wikipedia
-heritage: 4.657
-vibrancy: 5.479
-nature: 6.993
-off_the_beaten_track: 2.85
+heritage: 3.55
+vibrancy: 4.761
+nature: 6.351
+off_the_beaten_track: 2.594
 ---
 
 Cairns is tropical North Queensland's gateway city, the jumping-off point for the [Great Barrier Reef](/australiaandpacific/australia/queensland/greatbarrierreef) and the ancient [Daintree Rainforest](/australiaandpacific/australia/queensland/cairns/daintree_rainforest). It is not a pretty city in the conventional sense — there is no beach in the centre, and the mudflats at low tide will not make the postcards — but it has an energy and ease that grows on you fast.

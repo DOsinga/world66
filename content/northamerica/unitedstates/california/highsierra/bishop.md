@@ -5,15 +5,15 @@ done:
 latitude: 37.3637
 loc_type: city
 longitude: -118.3952
-score: 5.416
+score: 5.862
 snippet: Eastern California high-desert town between Sierra peaks and White Mountain
   bristlecone pines.
 title: Bishop
 type: location
-heritage: 2.237
-vibrancy: 3.678
-nature: 6.618
-off_the_beaten_track: 4.9
+heritage: 2.828
+vibrancy: 4.069
+nature: 7.12
+off_the_beaten_track: 4.636
 ---
 
 Bishop is the largest town in the Owens Valley, a narrow strip of high desert between the Sierra Nevada and the White Mountains in eastern [California](/northamerica/unitedstates/california). At 1,200 metres elevation, it serves as the main supply stop for hikers, climbers, and skiers heading into the backcountry.

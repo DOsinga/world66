@@ -6,7 +6,7 @@ type: location
 loc_type: city
 latitude: 42.93
 longitude: -75.8537
-score: 3.936
+score: 4.241
 wikidata: Q3710260
 sources:
 - https://en.wikivoyage.org/wiki/Cazenovia
@@ -18,10 +18,10 @@ image: cazenovia.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Hubbard_Hall_-_panoramio.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Idawriter
-heritage: 3.76
-vibrancy: 2.427
-nature: 4.507
-off_the_beaten_track: 1.738
+heritage: 4.529
+vibrancy: 2.583
+nature: 4.654
+off_the_beaten_track: 1.67
 ---
 
 Cazenovia is a handsome village east of Syracuse, set by a long lake and surrounded by rolling farm country. It is small, but it has more depth than a quick glance suggests: early American houses, a preserved estate, an outdoor art park, and one of central New York's better waterfall walks close by.

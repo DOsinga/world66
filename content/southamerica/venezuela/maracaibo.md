@@ -5,15 +5,15 @@ done:
 latitude: 10.649809
 loc_type: city
 longitude: -71.64436
-score: 4.176
+score: 4.713
 title: Maracaibo
 type: location
 snippet: Venezuelan oil city on Lake Maracaibo, with restored waterfront streets and
   a strong regional identity.
-heritage: 4.293
-vibrancy: 3.978
-nature: 4.55
-off_the_beaten_track: 6.222
+heritage: 5.068
+vibrancy: 4.017
+nature: 5.157
+off_the_beaten_track: 6.033
 ---
 
 Maracaibo is Venezuela's second city and its oil capital — a hot, flat, industrial place on the northwestern shore of [Lake Maracaibo](/southamerica/venezuela/maracaibolake). It is not the most picturesque city in the country, but it has its own energy and a few genuinely worthwhile corners.

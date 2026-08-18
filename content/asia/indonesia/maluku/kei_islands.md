@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:UvA-BC_300.295_-_Siboga_-_
 latitude: -5.7715
 loc_type: city
 longitude: 132.7378
-score: 6.088
+score: 5.503
 snippet: Remote southeast Maluku island group known for powder-white beaches, turquoise
   water, and quiet village life.
 title: Kei Islands
 type: location
-heritage: 5.377
-vibrancy: 1.33
-nature: 7.157
-off_the_beaten_track: 7.296
+heritage: 4.366
+vibrancy: 1.161
+nature: 6.245
+off_the_beaten_track: 7.488
 ---
 
 Tucked away in remote southeast Maluku, the Kei Islands are famous for having some of the finest unspoilt white-sand beaches in all of Indonesia. [Pasir Panjang](/asia/indonesia/maluku/kei_islands/pasir_panjang) on Kei Kecil is the standout — a long arc of powder-white sand fringed by turquoise water, with only basic accommodation nearby.

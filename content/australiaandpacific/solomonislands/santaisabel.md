@@ -5,15 +5,15 @@ done:
 latitude: -8.0412
 loc_type: city
 longitude: 159.2113
-score: 5.789
+score: 5.566
 snippet: Long mountainous Solomon Islands province where Alvaro de Mendana made early
   European contact in 1568
 title: Santa Isabel
 type: location
-heritage: 3.774
-vibrancy: 1.464
-nature: 7.034
-off_the_beaten_track: 6.354
+heritage: 2.95
+vibrancy: 1.923
+nature: 6.615
+off_the_beaten_track: 6.595
 ---
 
 Santa Isabel is the longest island in the Solomon Islands — a narrow, mountainous strip of land that was the first of the Solomons to be contacted by Europeans, when the Spanish explorer Alvaro de Mendana arrived in 1568. The island remains one of the least visited provinces in the country, with about 30,000 inhabitants, limited infrastructure, and the unhurried pace that comes with genuine remoteness.

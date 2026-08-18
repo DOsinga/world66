@@ -5,7 +5,7 @@ loc_type: feature
 latitude: 34.6931
 longitude: 125.1972
 wikidata: Q490430
-score: 6.226
+score: 6.162
 snippet: Remote Yellow Sea island of red cliffs, boat tours, hiking paths, and protected
   forest.
 sources:
@@ -16,10 +16,10 @@ image: hongdo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Hongdo_Coastal_Port_2023-10_Korea.jpg
 image_license: CC BY 2.0
 image_attribution: Gupdaal
-heritage: 1.55
-vibrancy: 1.044
-nature: 7.916
-off_the_beaten_track: 5.685
+heritage: 1.883
+vibrancy: 1.207
+nature: 7.842
+off_the_beaten_track: 5.603
 ---
 
 *Asia > South Korea > Hongdo*

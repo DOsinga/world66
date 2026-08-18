@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -43.0167
 longitude: 147.926
-score: 5.691
+score: 5.726
 snippet: Narrow Tasman Peninsula isthmus with convict history, surf beach, and wave-cut
   sea cliffs.
 sources:
@@ -17,10 +17,10 @@ image: eaglehawk_neck.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Tessellated_Pavement_Sunrise_Landscape.jpg
 image_license: CC BY-SA 2.5
 image_attribution: JJ Harrison (https://www.jjharrison.com.au/)
-heritage: 3.997
-vibrancy: 1.688
-nature: 7.127
-off_the_beaten_track: 3.131
+heritage: 4.285
+vibrancy: 1.682
+nature: 7.059
+off_the_beaten_track: 3.218
 ---
 
 Eaglehawk Neck is a thin strip of land between the Forestier and Tasman peninsulas, about an hour and a quarter southeast of [Hobart](/australiaandpacific/australia/tasmania/hobart). It looks modest on the map, but it has one of Tasmania's best short clusters of coastal sights: a tiled rock platform, a roaring blowhole, a natural arch, and cliffs where the Southern Ocean has chewed deep holes into the dolerite.

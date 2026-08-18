@@ -2,15 +2,15 @@
 latitude: -33.9694
 loc_type: feature
 longitude: -53.5308
-score: 5.834
+score: 5.898
 snippet: Uruguayan coastal national park of dunes, pine forest, Atlantic beaches,
   and an 18th-century fortress.
 title: Parque Nacional Santa Teresa
 type: location
-heritage: 1.861
-vibrancy: 1.22
-nature: 7.627
-off_the_beaten_track: 4.639
+heritage: 2.42
+vibrancy: 1.118
+nature: 7.653
+off_the_beaten_track: 4.878
 ---
 
 Parque Nacional Santa Teresa is Uruguay's oldest and largest coastal national park, stretching along a long, wild strip of Atlantic coastline in the northeastern corner of the country, about 35 km south of the Brazilian border. The park protects a mix of pine forests, dunes, wetlands, and beaches, and it is one of the few places on the Uruguayan coast where the land behind the beach has been left largely undeveloped.

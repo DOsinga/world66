@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Christiansted,_US_Virgin_I
 latitude: 17.72751
 loc_type: city
 longitude: -64.74698
-score: 5.074
+score: 5.168
 snippet: Largest US Virgin Island, with Danish colonial towns and quietly strong Caribbean
   diving.
 title: St. Croix
 type: location
-heritage: 4.428
-vibrancy: 4.95
-nature: 5.396
-off_the_beaten_track: 3.0
+heritage: 4.143
+vibrancy: 5.008
+nature: 5.582
+off_the_beaten_track: 2.832
 ---
 
 St. Croix is the largest of the US Virgin Islands, and the most historically layered. Where St. Thomas runs on tourism and St. John on eco-credentials, St. Croix has a quieter confidence — colonial architecture, working towns, and some of the best diving in the Caribbean without the crowds.

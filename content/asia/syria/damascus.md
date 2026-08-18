@@ -16,7 +16,7 @@ quick_facts:
   Population: ~2.5 million
   Straight Street: Named in the Bible
   Umayyad Mosque: One of Islam's oldest & grandest
-score: 6.512
+score: 6.063
 snippet: Syrian capital with an ancient walled old city, covered souks, and the Umayyad
   Mosque.
 tip: Damascus claims to be one of the oldest continuously inhabited cities on earth.
@@ -26,10 +26,10 @@ tip: Damascus claims to be one of the oldest continuously inhabited cities on ea
   careful local arrangement.
 title: Damascus
 type: location
-heritage: 7.002
-vibrancy: 6.375
-nature: 1.3
-off_the_beaten_track: 6.579
+heritage: 6.462
+vibrancy: 5.958
+nature: 2.136
+off_the_beaten_track: 7.054
 ---
 
 Damascus is the capital of Syria and one of the oldest continuously inhabited cities in the world. It is big, lively, and a little rough around the edges, with a sprawling old centre of narrow winding streets and one of the great covered souks of the Middle East.

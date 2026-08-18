@@ -5,17 +5,17 @@ done:
 latitude: 44.15916
 loc_type: city
 longitude: 10.972301
-score: 5.424
+score: 5.472
 snippet: Thermal spa town in the Apennines, set on the Reno River between Bologna
   and Florence.
 sources:
 - https://en.wikipedia.org/wiki/Porretta_Terme
 title: Porretta Terme
 type: location
-heritage: 6.42
-vibrancy: 3.89
-nature: 4.886
-off_the_beaten_track: 1.99
+heritage: 6.349
+vibrancy: 4.128
+nature: 5.222
+off_the_beaten_track: 2.0
 ---
 
 Nestled in the foothills of the Apennines and bisected by the [Reno River](/europe/italy/emiliaromagna/porretta_terme/reno_river_valley), Porretta Terme is a bit off the beaten path, west of the main highway that links [Florence](/europe/italy/tuscany/florence) and [Bologna](/europe/italy/emiliaromagna/bologna). If you have time and want a reasonably priced spa experience, this is the place. Accessible by car or train, the town has a long history as a thermal destination — the [Terme di Porretta](/europe/italy/emiliaromagna/porretta_terme/terme_di_porretta) draw visitors who have been coming to take the sulphureous waters since at least Roman times.

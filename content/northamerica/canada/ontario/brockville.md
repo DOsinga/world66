@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Brockville_Tunnel_South_Po
 latitude: 44.597222
 loc_type: city
 longitude: -75.685556
-score: 4.432
+score: 4.436
 snippet: St. Lawrence river town with Canada's first railway tunnel and Thousand Islands
   history.
 sources:
@@ -20,10 +20,10 @@ sources:
 title: Brockville
 type: location
 wikidata: Q34047
-heritage: 3.663
-vibrancy: 2.932
-nature: 5.317
-off_the_beaten_track: 2.298
+heritage: 3.519
+vibrancy: 2.896
+nature: 5.384
+off_the_beaten_track: 2.446
 ---
 
 Brockville is a small St. Lawrence River city between [Kingston](/northamerica/canada/ontario/kingston) and Ottawa, close to the eastern end of the Thousand Islands. It calls itself Ontario's first incorporated town, and the claim fits the streetscape: old stone and brick buildings, a working waterfront, and a downtown that still faces the river rather than a highway.

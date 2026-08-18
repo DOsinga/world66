@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Cape_Hatteras_086.JPG
 latitude: 35.127959
 loc_type: city
 longitude: -75.922081
-score: 6.041
+score: 6.02
 sources:
 - https://en.wikipedia.org/wiki/Ocracoke_Island
 title: Ocracoke Island
 type: location
 snippet: Ferry-only Outer Banks island with unspoiled beaches, a small village, and
   Blackbeard lore.
-heritage: 5.856
-vibrancy: 4.455
-nature: 6.882
-off_the_beaten_track: 4.649
+heritage: 5.534
+vibrancy: 3.66
+nature: 6.986
+off_the_beaten_track: 4.304
 ---
 
 Ocracoke Island is a small island off the coast of North Carolina, accessible only by ferry, and one of the most peaceful places on the East Coast. Long stretches of unspoiled beach, magnificent sunrises and sunsets over the Atlantic, and a pace of life that is genuinely slow make this a retreat in every sense.

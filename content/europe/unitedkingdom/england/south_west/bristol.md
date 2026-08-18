@@ -10,15 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Clifton_Suspension_Bridge_
 latitude: 51.453802
 loc_type: city
 longitude: -2.597298
-score: 6.985
+score: 6.938
 snippet: Southwest England's largest city, a historic port linked to Brunel, Cabot,
   and the Clifton Suspension Bridge.
 title: Bristol
 type: location
-heritage: 6.386
-vibrancy: 7.265
-nature: 5.232
-off_the_beaten_track: 2.274
+heritage: 4.128
+vibrancy: 7.467
+nature: 5.569
+off_the_beaten_track: 2.381
 ---
 
 Bristol is the largest city in southwest England, with around half a million people, and it has more character than most British cities twice its size. Historically a county in its own right, it sits between Somerset and Gloucestershire and made its fortune as a major trading port — first in wine and spirits, then in shipping and engineering.

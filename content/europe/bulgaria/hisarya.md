@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hisarya_Fortress_gates_008
 latitude: 42.50247
 loc_type: city
 longitude: 24.703274
-score: 5.689
+score: 5.608
 snippet: Bulgarian spa town where mineral springs flow through unusually complete
   Roman walls and gates.
 sources:
@@ -15,10 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Hisarya,_Bulgaria
 title: Hisarya
 type: location
-heritage: 7.617
-vibrancy: 1.699
-nature: 3.122
-off_the_beaten_track: 2.865
+heritage: 7.422
+vibrancy: 1.788
+nature: 3.274
+off_the_beaten_track: 2.858
 ---
 
 Hisarya is a small spa town north of Plovdiv, at the foot of the Sredna Gora range. Its mineral springs would be enough to make it a Bulgarian health resort, but the reason travelers should care is that the springs sit inside one of the country's most complete Roman urban landscapes.

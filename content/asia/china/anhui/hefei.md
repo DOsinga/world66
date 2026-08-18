@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Former_Residence_of_Li_Hon
 latitude: 31.8667
 loc_type: city
 longitude: 117.2833
-score: 4.644
+score: 4.771
 snippet: Anhui provincial capital with fast-growing urban scale and useful access
   to the province's wider sights.
 sources:
 - https://en.wikivoyage.org/wiki/Hefei
 title: Hefei
 type: location
-heritage: 3.352
-vibrancy: 5.169
-nature: 2.723
-off_the_beaten_track: 0.809
+heritage: 2.924
+vibrancy: 5.508
+nature: 1.998
+off_the_beaten_track: 0.77
 ---
 
 Hefei is Anhui's provincial capital and, by population, one of the larger cities in eastern China — over nine million people and growing fast. It is not a destination in the conventional sense. The city has no dramatic old town, no ancient temples of international standing, no scenery that would make it worth a detour. What it has is broad expressways, expanding tech campuses, and the restless energy of a Chinese city that has reinvented itself in a single generation from a provincial backwater into a hub for semiconductors, electric vehicles, and university research.

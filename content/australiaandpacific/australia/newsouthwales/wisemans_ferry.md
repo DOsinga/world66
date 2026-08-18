@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: -33.381944
 longitude: 150.985
-score: 4.326
+score: 4.275
 snippet: Hawkesbury River village where convict-road history meets sandstone bush
   and old car ferries.
 sources:
 - https://en.wikivoyage.org/wiki/Wisemans_Ferry
 - https://en.wikipedia.org/wiki/Wisemans_Ferry,_New_South_Wales
 - https://www.nationalparks.nsw.gov.au/things-to-do/walking-tracks/old-great-north-road-world-heritage-walk
-heritage: 2.685
-vibrancy: 1.905
-nature: 5.567
-off_the_beaten_track: 2.381
+heritage: 2.994
+vibrancy: 1.991
+nature: 5.357
+off_the_beaten_track: 2.189
 ---
 
 Wisemans Ferry is a small village on the Hawkesbury River, about an hour north of [Sydney](/australiaandpacific/australia/newsouthwales/sydney). It is not a place of grand monuments or busy streets. Its appeal is quieter: slow river crossings, steep sandstone country, and one of the best-preserved stretches of colonial convict road in Australia.

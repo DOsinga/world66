@@ -7,15 +7,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Corning,_NY.jpg
 latitude: 42.1428
 loc_type: city
 longitude: -77.0547
-score: 4.457
+score: 4.448
 snippet: Finger Lakes city known for glassmaking, the Corning Museum of Glass, and
   restored Market Street.
 title: Corning
 type: location
-heritage: 2.789
-vibrancy: 3.089
-nature: 5.415
-off_the_beaten_track: 1.664
+heritage: 2.862
+vibrancy: 3.046
+nature: 5.422
+off_the_beaten_track: 1.657
 ---
 
 Corning is a small city in the southern Finger Lakes, best known for the [Corning Museum of Glass](/northamerica/unitedstates/newyorkstate/the_finger_lakes/corning/corning_museum_of_glass), one of the finest specialty museums in the country. The museum alone draws half a million visitors a year, with live glassblowing demonstrations and a collection spanning 35 centuries.

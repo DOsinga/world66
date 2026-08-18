@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Khobar_water_tower.jpg
 latitude: 26.304
 loc_type: city
 longitude: 50.196024
-score: 2.962
+score: 2.837
 snippet: Eastern Province Gulf city that grew from fishing settlement into part of
   Saudi Arabia's oil conurbation.
 title: Khobar
 type: location
-heritage: 3.336
-vibrancy: 2.734
-nature: 2.068
-off_the_beaten_track: 1.722
+heritage: 2.204
+vibrancy: 3.099
+nature: 2.112
+off_the_beaten_track: 1.748
 ---
 
 Al-Khobar is a modern Gulf city that grew from a small fishing settlement into a substantial urban center within a single generation, driven entirely by oil. Together with Dammam and Dhahran, it forms the principal conurbation of Saudi Arabia's Eastern Province — the center of gravity for the kingdom's oil industry and home to the headquarters of Saudi Aramco, one of the world's most valuable companies. The city has little historical depth to speak of, but as a portrait of Gulf urbanism — its ambitions, its contradictions, its comfort-oriented present — it is more interesting than its reputation suggests.

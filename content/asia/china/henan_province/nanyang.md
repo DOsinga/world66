@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:20251004_Temple_of_Marquis
 latitude: 32.9987
 loc_type: city
 longitude: 112.5292
-score: 3.063
+score: 3.118
 snippet: Southwestern Henan basin city layered with ancient history, jade trade, and
   Zhuge Liang memorials.
 sources:
 - https://en.wikivoyage.org/wiki/Nanyang
 title: Nanyang
 type: location
-heritage: 3.807
-vibrancy: 2.1
-nature: 2.071
-off_the_beaten_track: 1.975
+heritage: 4.034
+vibrancy: 1.816
+nature: 2.022
+off_the_beaten_track: 2.05
 ---
 
 Nanyang occupies a broad basin in southwestern Henan, hemmed in by mountains on three sides and drained by tributaries of the Han River. It's one of Henan's largest cities by area and one of its most historically layered — humans have been here for perhaps half a million years, the Qin dynasty established it as one of China's eight major cities in the third century BCE, and the Qing dynasty still knew it as a vital trade corridor between north and south, its merchants moving goods by both road and river. Most visitors today come for the Zhuge Liang connection or the jade, but the city rewards anyone willing to move beyond those headliners.

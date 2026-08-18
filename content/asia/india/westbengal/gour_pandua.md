@@ -4,7 +4,7 @@ type: location
 loc_type: feature
 latitude: 25.0
 longitude: 88.14
-score: 4.062
+score: 3.606
 snippet: Ruined Bengal Sultanate capitals near Malda, with mosques, gateways, tombs,
   and mango-country roads.
 sources:
@@ -15,10 +15,10 @@ original_overview: 'The Malda candidate was accepted as the Gour-Pandua historic
   not as modern Malda town, because the travel value is the ruined Bengal capitals.
 
   '
-heritage: 4.823
-vibrancy: 2.319
-nature: 3.625
-off_the_beaten_track: 4.554
+heritage: 4.025
+vibrancy: 2.7
+nature: 3.802
+off_the_beaten_track: 4.009
 ---
 
 Gour-Pandua is the real reason travelers stop around Malda in northern [West Bengal](/asia/india/westbengal). The modern town supplies beds, food, rail access, and hired cars; the reward is outside it, among the broken capitals of medieval Bengal.

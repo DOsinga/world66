@@ -11,13 +11,13 @@ loc_type: city
 snippet: Galician harbour town on the Ría de Vigo, first in Europe to hear of Columbus's
   return.
 longitude: -8.850165
-score: 5.414
+score: 5.158
 title: Baiona
 type: location
-heritage: 5.796
-vibrancy: 4.078
-nature: 5.935
-off_the_beaten_track: 3.351
+heritage: 5.284
+vibrancy: 3.53
+nature: 5.755
+off_the_beaten_track: 3.379
 ---
 
 Baiona is a small harbour town on the southern shore of the Ría de Vigo, in the southwest corner of Galicia. It holds a notable place in history: on 1 March 1493, the Pinta arrived here carrying news of Columbus's first voyage to the Americas — making Baiona the first town in Europe to learn of the discovery.

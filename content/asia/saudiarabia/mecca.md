@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Mecca1.jpg
 latitude: 21.420847
 loc_type: city
 longitude: 39.826869
-score: 6.476
+score: 7.005
 snippet: Holiest city in Islam, centred on the Grand Mosque and the Kaaba circled
   by pilgrims.
 title: Mecca
 type: location
-heritage: 8.274
-vibrancy: 3.985
-nature: 3.027
-off_the_beaten_track: 4.867
+heritage: 8.16
+vibrancy: 5.914
+nature: 3.005
+off_the_beaten_track: 5.17
 ---
 
 Mecca is the holiest city in Islam — the birthplace of the Prophet Muhammad and the site of the [Grand Mosque](/asia/saudiarabia/mecca/masjid_al_haram), which contains the [Kaaba](/asia/saudiarabia/mecca/kaaba), the cube-shaped structure that Muslims face during prayer worldwide. Every capable Muslim who can afford it is obliged to perform the Hajj pilgrimage to Mecca at least once in their lifetime. The city receives several million pilgrims each year during the Hajj season, and millions more for the Umrah pilgrimage throughout the year.

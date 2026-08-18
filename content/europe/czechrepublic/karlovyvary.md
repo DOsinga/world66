@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Karlovy_Vary,_Czech_Republ
 latitude: 50.230622
 loc_type: city
 longitude: 12.870144
-score: 5.791
+score: 6.189
 snippet: Grand Bohemian spa town of colonnades, hot springs, and ornate hotels built
   for taking the waters.
 title: Karlovy Vary
 type: location
-heritage: 6.383
-vibrancy: 5.611
-nature: 3.883
-off_the_beaten_track: 1.398
+heritage: 6.427
+vibrancy: 6.146
+nature: 4.113
+off_the_beaten_track: 1.117
 ---
 
 Karlovy Vary — known in German as Carlsbad — is the grandest of the Bohemian spa towns, a place where 19th-century Europe came to take the waters and be seen. The hot springs that bubble up here drew everyone from Goethe and Beethoven to Peter the Great, and the colonnades, bath houses, and ornate hotels they left behind make the town an architectural pleasure even if you have no interest in soaking your feet.

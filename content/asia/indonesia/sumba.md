@@ -6,7 +6,7 @@ image: sumba.jpg
 image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Sumba_-_cavaliers_pasola.jpg
 latitude: -9.7959
-loc_type: city
+loc_type: region
 longitude: 120.1525
 score: 5.329
 snippet: Indonesian island of Marapu villages, megalithic tombs, ikat textiles, and

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Chichawatni_railway_statio
 latitude: 30.531691
 loc_type: city
 longitude: 72.691405
-score: 2.525
+score: 2.762
 snippet: Punjabi market town beside irrigated fields and forest plantations on the
   Lahore-Multan road.
 title: Chichawatni
 type: location
-heritage: 1.249
-vibrancy: 1.077
-nature: 1.413
-off_the_beaten_track: 4.679
+heritage: 1.954
+vibrancy: 1.611
+nature: 1.487
+off_the_beaten_track: 4.891
 ---
 
 Chichawatni is a mid-sized agricultural town in Punjab, about 45 km south of Sahiwal on the Grand Trunk Road. It sits roughly 20 km from the ancient Indus Valley site of Harappa, making it a plausible base for anyone heading to that archaeological site. Most travellers pass through rather than stop, but the town has a few things worth knowing about.

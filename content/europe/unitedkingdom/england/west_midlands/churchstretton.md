@@ -5,7 +5,7 @@ done:
 latitude: 52.5376
 loc_type: city
 longitude: -2.8032
-score: 5.845
+score: 5.525
 snippet: Shropshire walking town between the Long Mynd and Stretton Hills, with moorland
   ridges above its valley.
 sources:
@@ -18,10 +18,10 @@ image: churchstretton.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Church_Stretton_viewed_from_the_Long_Mynd_-_geograph.org.uk_-_6985711.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Mat Fascione
-heritage: 6.271
-vibrancy: 4.501
-nature: 6.401
-off_the_beaten_track: 3.889
+heritage: 5.673
+vibrancy: 3.683
+nature: 6.159
+off_the_beaten_track: 3.706
 ---
 
 Church Stretton sits in a narrow valley between the Long Mynd and the Stretton Hills in south Shropshire, surrounded by some of the best walking country in the English Midlands. The Victorians called it "Little Switzerland" and came for the clean air; today it draws hikers, hang-gliders, and anyone who wants a quiet base in genuinely wild-feeling landscape that is surprisingly close to Birmingham.

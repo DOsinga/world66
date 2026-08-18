@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Altes_Rathaus_und_Sankt_Se
 latitude: 49.4875
 loc_type: city
 longitude: 8.466
-score: 5.423
+score: 5.146
 snippet: Rhine-Neckar city built on a grid, linked to Baroque palaces, industry, and
   early automobiles.
 title: Mannheim
 type: location
-heritage: 5.414
-vibrancy: 5.467
-nature: 3.217
-off_the_beaten_track: 1.506
+heritage: 5.278
+vibrancy: 5.135
+nature: 3.317
+off_the_beaten_track: 1.645
 ---
 
 Mannheim is one of the few European cities built on a grid. When the Palatinate Elector Friedrich IV founded it in 1606, the streets were laid out in neat squares, and the blocks were given letter-number coordinates instead of names — you navigate by quadrant, not by street. The palace is in A1, the old market in E2. It takes about an hour to stop finding this confusing and start finding it charming.

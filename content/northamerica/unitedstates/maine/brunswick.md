@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: 43.9108
 longitude: -69.9631
-score: 4.109
+score: 4.221
 snippet: Maine college town on the Androscoggin, with Bowdoin museums, old houses,
   and easy Midcoast access.
 sources:
 - https://en.wikivoyage.org/wiki/Brunswick_(Maine)
 - https://en.wikipedia.org/wiki/Brunswick,_Maine
 - https://www.brunswickme.org/
-heritage: 3.127
-vibrancy: 2.575
-nature: 5.043
-off_the_beaten_track: 2.449
+heritage: 3.245
+vibrancy: 2.541
+nature: 5.167
+off_the_beaten_track: 2.49
 ---
 
 Brunswick is a handsome Maine town where the Androscoggin River, Bowdoin College, and the old Midcoast road all meet. It has the look travelers hope for in New England: brick storefronts, white churches, big trees, and enough students to keep the town awake after dinner.

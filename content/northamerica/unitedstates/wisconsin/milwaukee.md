@@ -5,15 +5,15 @@ done:
 latitude: 43.038648
 loc_type: city
 longitude: -87.909075
-score: 7.075
+score: 6.387
 snippet: Lake Michigan city shaped by brewing, German immigration, machinery, and
   early American architecture.
 title: Milwaukee
 type: location
-heritage: 6.169
-vibrancy: 7.473
-nature: 4.74
-off_the_beaten_track: 1.384
+heritage: 6.542
+vibrancy: 6.377
+nature: 4.202
+off_the_beaten_track: 1.537
 ---
 
 Milwaukee sits on the western shore of Lake Michigan, about 90 miles north of Chicago, and has long been undersold to people who don’t know it. The city was built on beer, machinery and German immigration, and all three left marks that are still visible: the [Pabst Mansion](/northamerica/unitedstates/wisconsin/milwaukee/pabst_mansion), the cavernous lagering caves under the [MillerCoors brewery](/northamerica/unitedstates/wisconsin/milwaukee/miller_brewery), the Gothic spires of the south-side Polish churches, the unpronounceable street names. Milwaukee has more breweries per capita than almost anywhere in the US and takes its sausage very seriously.

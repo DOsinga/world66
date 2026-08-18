@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 30.269703
 longitude: -87.586761
-score: 5.131
+score: 5.102
 snippet: Alabama Gulf Coast beach town with backcountry trails, fishing history, bayfront
   art, and the Flora-Bama.
 wikidata: Q79603
@@ -14,10 +14,10 @@ sources:
 - https://www.orangebeachal.gov/324/Coastal-Arts-Center-of-Orange-Beach
 - https://www.orangebeachal.gov/246/History-Museum
 - https://www.florabama.com/
-heritage: 2.051
-vibrancy: 4.981
-nature: 5.519
-off_the_beaten_track: 1.251
+heritage: 1.672
+vibrancy: 4.287
+nature: 5.837
+off_the_beaten_track: 1.313
 ---
 
 Orange Beach is a resort town on Alabama's Gulf Coast, and a lot of it is exactly what that sounds like: white sand, condos, fishing charters, and summer traffic. It earns a separate stop because there is enough texture behind the beach strip to make a spare day worthwhile.

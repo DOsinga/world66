@@ -17,7 +17,7 @@ quick_facts:
   Fountains: 2,000+
   Population: 2.8 million
   Trevi Coins: ~€1.5M a year
-score: 7.406
+score: 7.759
 snippet: Italian capital where ancient ruins, Renaissance churches, trattorias, and
   everyday street life layer three millennia together
 tip: Rome rewards early starts and late dinners. See the Colosseum or Vatican Museums
@@ -27,10 +27,10 @@ tip: Rome rewards early starts and late dinners. See the Colosseum or Vatican Mu
   mountain water on nearly every corner.
 title: Rome
 type: location
-heritage: 8.172
-vibrancy: 7.172
-nature: 3.322
-off_the_beaten_track: 1.966
+heritage: 8.795
+vibrancy: 7.044
+nature: 3.681
+off_the_beaten_track: 1.651
 ---
 
 The Eternal City needs no introduction, yet it still manages to surprise. Rome layers nearly three thousand years of history into a living, breathing capital where ancient ruins sit beside buzzing trattorias and Renaissance churches share streets with vintage clothing shops. It is chaotic, beautiful, maddening, and utterly addictive.

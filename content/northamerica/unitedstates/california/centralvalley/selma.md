@@ -5,14 +5,14 @@ done:
 latitude: 36.5718
 loc_type: city
 longitude: -119.6126
-score: 2.329
+score: 2.285
 snippet: San Joaquin Valley city surrounded by raisin vineyards south of Fresno.
 title: Selma
 type: location
-heritage: 2.493
-vibrancy: 1.385
-nature: 2.48
-off_the_beaten_track: 3.594
+heritage: 2.567
+vibrancy: 1.475
+nature: 2.355
+off_the_beaten_track: 3.361
 ---
 
 Selma is a small city in California's San Joaquin Valley, about 15 miles south of Fresno on Highway 99. It calls itself the "Raisin Capital of the World" — and the claim has some merit: over 90% of the world's raisin grapes are grown within a 40-mile radius. The valley flatlands around town are covered in vineyards, and the harvest season in late August and September is when the area comes alive.

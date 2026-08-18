@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Plaza_Mayor,_Ainsa,_Spain.
 latitude: 42.41719
 loc_type: city
 longitude: 0.138644
-score: 6.4
+score: 6.506
 snippet: Medieval village in the Aragón Pyrenees, perched above the Cinca and Ara
   rivers around a vast arcaded square.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Ordesa_y_Monte_Perdido_National_Park
 title: Aínsa
 type: location
-heritage: 6.626
-vibrancy: 3.414
-nature: 7.111
-off_the_beaten_track: 4.145
+heritage: 7.146
+vibrancy: 2.625
+nature: 7.055
+off_the_beaten_track: 4.334
 ---
 
 Aínsa is one of the most beautiful medieval villages in the Spanish Pyrenees, perched on a hilltop above the confluence of the Cinca and Ara rivers in the Sobrarbe comarca of [Aragón](/europe/spain/aragon). The lower, modern part of town is unremarkable, but climb the hill and you arrive in one of the finest old quarters in northern Spain.

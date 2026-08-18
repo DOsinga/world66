@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 40.85
 longitude: 25.8667
-score: 4.377
+score: 4.361
 snippet: Thracian port city with a landmark lighthouse, Evros Delta wetlands, and
   ferries to Samothrace.
 sources:
@@ -16,10 +16,10 @@ image: alexandroupolis.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Alexandroupolis-sunset.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Texniths
-heritage: 4.699
-vibrancy: 3.932
-nature: 4.792
-off_the_beaten_track: 3.378
+heritage: 4.506
+vibrancy: 3.716
+nature: 4.849
+off_the_beaten_track: 3.542
 ---
 
 Alexandroupolis sits in the far northeast of [Greece](/europe/greece), close to Turkey and the Evros Delta. It is a port city first, not a polished resort, but that is part of its appeal: ferries to Samothrace, a long waterfront, Balkan borderland energy, and one of the country's most recognisable lighthouses.

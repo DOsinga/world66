@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Devi_Talab_Mandir.jpg
 latitude: 31.2922
 loc_type: city
 longitude: 75.5679
-score: 5.5
+score: 5.914
 snippet: Old Punjab city between Delhi and Amritsar, known for sports manufacturing,
   bazaars, temples, and gurudwaras.
 title: Jalandhar
 type: location
-heritage: 4.929
-vibrancy: 5.758
-nature: 2.645
-off_the_beaten_track: 2.151
+heritage: 4.551
+vibrancy: 6.476
+nature: 2.549
+off_the_beaten_track: 1.865
 ---
 
 Jalandhar is one of the oldest cities in Punjab, named — depending on who you ask — either after a mythological demon king who lived in water, or simply for its location between two rivers (jal meaning water). It served as the capital of Punjab until 1953, when Chandigarh took over, and today has an urban population of about a million.

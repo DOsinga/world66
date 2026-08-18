@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Steindorf_Tsch%C3%B6ran_mi
 latitude: 46.6667
 loc_type: feature
 longitude: 13.9667
-score: 6.228
+score: 6.073
 snippet: Warm Carinthian lake near Villach, framed by Ossiach Abbey, reed beds, and
   the Gerlitzen slopes.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Ossiach_Abbey
 title: Ossiacher See
 type: location
-heritage: 4.971
-vibrancy: 2.767
-nature: 7.547
-off_the_beaten_track: 2.424
+heritage: 4.236
+vibrancy: 3.506
+nature: 7.618
+off_the_beaten_track: 2.14
 ---
 
 Ossiacher See is the long, narrow lake northeast of [Villach](/europe/austria/villach), less grand than Wörthersee but often easier to like. The water warms quickly in summer, villages sit close to the shore, and the northern hills rise straight into the Gerlitzen, one of Carinthia's most accessible lookout mountains.

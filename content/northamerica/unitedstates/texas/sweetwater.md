@@ -5,7 +5,7 @@ loc_type: city
 latitude: 32.4681
 longitude: -100.4072
 wikidata: Q981845
-score: 4.369
+score: 3.86
 snippet: West Texas rail town known for WASP pilots, wind turbines, and a rattlesnake
   roundup.
 sources:
@@ -19,10 +19,10 @@ image: sweetwater.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Wind_turbine_Sweetwater_Texas_2652367828_01d4a129f7_o.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Drew Stephens from San Mateo, CA
-heritage: 2.1
-vibrancy: 2.474
-nature: 5.576
-off_the_beaten_track: 2.805
+heritage: 0.997
+vibrancy: 2.125
+nature: 4.957
+off_the_beaten_track: 2.734
 ---
 
 Sweetwater is a small West Texas city on I-20, halfway between Abilene and the rolling edge of the Panhandle. At first glance it looks like a practical highway stop, but it has a stranger and more specific identity than most towns its size: wartime women pilots, wind farms on the horizon, and one of Texas's most peculiar annual festivals.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:La_Palma_Darien_Panama_03.
 latitude: 8.4036
 loc_type: city
 longitude: -77.6878
-score: 6.341
+score: 6.101
 snippet: Darién Province capital on the Tuira River, used as a service base for deeper
   rainforest travel.
 title: La Palma
 type: location
-heritage: 2.129
-vibrancy: 0.775
-nature: 7.891
-off_the_beaten_track: 6.347
+heritage: 1.862
+vibrancy: 1.005
+nature: 7.589
+off_the_beaten_track: 6.118
 ---
 
 La Palma is the administrative capital of Darién Province, sitting on a narrow peninsula where the Tuira River meets the [Gulf of San Miguel](/northamerica/panama/dariengap/la_palma/gulf_of_san_miguel). It's a small, functional town — the largest settlement in the Darién and the last point with reliable services before you head deeper into one of the most remote and ecologically rich regions in the Americas.

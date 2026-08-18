@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: -8.5042
 longitude: -35.0011
-score: 5.918
+score: 6.944
 snippet: Pernambuco beach village known for reef pools, jangada rides, and warm clear
   water.
 sources:
 - https://en.wikivoyage.org/wiki/Porto_de_Galinhas
 - https://en.wikipedia.org/wiki/Porto_de_Galinhas
-heritage: 2.434
-vibrancy: 5.442
-nature: 6.543
-off_the_beaten_track: 2.486
+heritage: 3.863
+vibrancy: 6.324
+nature: 7.708
+off_the_beaten_track: 2.166
 ---
 
 Porto de Galinhas is a beach village south of [Recife](/southamerica/brazil/recife), famous for the reef pools that appear at low tide just off the sand. It is busy and very much on Brazil's holiday map, but it clears the bar because the sea is genuinely the point here: warm water, natural pools, rafts on the reef, and a run of nearby beaches with different moods.

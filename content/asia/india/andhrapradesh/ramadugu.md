@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:10th_century_Bommalagutta_
 latitude: 18.586176
 loc_type: city
 longitude: 79.06002
-score: 3.147
+score: 3.377
 snippet: Telangana village known for ancient fort walls and a regional tradition of
   stone carving.
 title: Ramadugu
 type: location
-heritage: 1.989
-vibrancy: 1.965
-nature: 3.848
-off_the_beaten_track: 3.373
+heritage: 1.812
+vibrancy: 2.216
+nature: 4.163
+off_the_beaten_track: 2.983
 ---
 
 Ramadugu is a small village about 19 km from [Karimnagar](/asia/india/andhrapradesh/karimnagar) in Telangana (formerly [Andhra Pradesh](/asia/india/andhrapradesh)), known for two things: its ancient fort and its stone-carving tradition. It is not a place many tourists visit, but if you have an interest in traditional Indian craftsmanship, it is worth a detour.

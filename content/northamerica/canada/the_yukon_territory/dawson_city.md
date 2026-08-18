@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 64.066667
 longitude: -139.429167
-score: 6.94
+score: 6.707
 snippet: Yukon gold-rush town on the Klondike River, with boardwalks, old saloons,
   and mining history.
 wikidata: Q372324
@@ -12,10 +12,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Dawson_City
 - https://en.wikipedia.org/wiki/Dawson_City
 - https://dawsoncity.ca/discover-dawson/klondike-national-historic-sites/
-heritage: 7.418
-vibrancy: 2.892
-nature: 7.612
-off_the_beaten_track: 6.088
+heritage: 7.386
+vibrancy: 4.041
+nature: 7.265
+off_the_beaten_track: 5.625
 ---
 
 Dawson City is the place where the Klondike Gold Rush still feels close. It sits where the Klondike River meets the Yukon, a long way north of Whitehorse, with wooden boardwalks, false-front buildings, gravel streets, old mining stories, and a summer rush of visitors who have come looking for the far-north frontier.

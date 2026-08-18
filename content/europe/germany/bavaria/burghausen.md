@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Burghausen
 latitude: 48.1667
 loc_type: city
 longitude: 12.8333
-score: 5.828
+score: 4.963
 snippet: Bavarian border town above the Salzach, defined by Europe's longest castle
   ridge and a squeezed old town
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://www.germany.travel/en/royal-palaces-castles/burghausen-castle.html
 title: Burghausen
 type: location
-heritage: 6.926
-vibrancy: 4.641
-nature: 4.232
-off_the_beaten_track: 2.512
+heritage: 5.941
+vibrancy: 3.866
+nature: 3.803
+off_the_beaten_track: 2.791
 ---
 
 Burghausen is the Bavarian border town with the absurdly long castle. The [Burghausen Castle](/europe/germany/bavaria/burghausen/burghausen_castle) ridge runs for more than a kilometre above the Salzach river, all towers, walls, courtyards and small houses, with Austria staring back from the opposite bank. It is one of those places that looks theatrical from a distance and becomes stranger the closer you get.

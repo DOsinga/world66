@@ -5,15 +5,15 @@ done:
 latitude: 30.7744
 loc_type: city
 longitude: -85.2269
-score: 4.629
+score: 4.42
 snippet: Quiet Florida Panhandle county seat near red-clay hills and the dry chambers
   of Florida Caverns.
 title: Marianna
 type: location
-heritage: 5.211
-vibrancy: 1.758
-nature: 4.778
-off_the_beaten_track: 2.709
+heritage: 5.063
+vibrancy: 1.737
+nature: 4.364
+off_the_beaten_track: 2.576
 ---
 
 Marianna is a quiet county seat in Florida's Panhandle, sitting in the rolling red-clay hill country west of Tallahassee. It lacks the beach crowds of the Gulf Coast resorts and is all the better for it — this is old Florida, with Spanish-moss-draped oaks, antebellum courthouse squares, and a pace of life that hasn't changed much in decades.

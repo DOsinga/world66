@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Marigot_Bay,_St._Lucia.jpg
 latitude: 13.9636
 loc_type: city
 longitude: -61.0236
-score: 5.997
+score: 5.96
 snippet: Saint Lucian natural harbour hidden by palm hills, with a small beach and
   sailing base.
 title: Marigot Bay
 type: location
-heritage: 4.732
-vibrancy: 4.079
-nature: 7.289
-off_the_beaten_track: 3.729
+heritage: 4.744
+vibrancy: 3.838
+nature: 7.227
+off_the_beaten_track: 4.14
 ---
 
 Marigot Bay sits about 8 miles south of [Castries](/northamerica/saintlucia/castries) on Saint Lucia's west coast, and it is one of the most photogenic natural harbours in the Caribbean. The bay is so well concealed by palm-covered hills that Admiral Rodney reportedly hid his entire fleet here during the 18th-century wars with France — the entrance is nearly invisible from the open sea.

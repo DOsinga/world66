@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Flickr_-_archer10_(Dennis)
 latitude: 17.755
 loc_type: feature
 longitude: -89.918
-score: 6.664
+score: 6.247
 snippet: Remote Preclassic Maya city deep in Guatemala's Petén jungle, dominated by
   the colossal La Danta complex.
 story: 'El Mirador was the largest city in the Maya world during the Late Preclassic
@@ -22,10 +22,10 @@ tags:
 - ruin
 title: El Mirador
 type: location
-heritage: 7.453
-vibrancy: 1.628
-nature: 6.99
-off_the_beaten_track: 4.925
+heritage: 6.425
+vibrancy: 1.359
+nature: 6.96
+off_the_beaten_track: 5.801
 ---
 
 The largest Maya city of the Preclassic period, buried deep in the Peten jungle near the Mexican border, and famous for the colossal pyramid of La Danta — by volume one of the largest pyramids on earth. The site has no road. Reaching it means a five-day round-trip trek on foot or by mule from the village of Carmelita, through swamp, jungle, and a string of smaller ruins.

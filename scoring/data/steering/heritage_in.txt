@@ -32,7 +32,7 @@ europe/italy/campania/paestum	8.839	30	Paestum	Europe, Italy, Campania
 africa/zimbabwe/greatzimbabwe	8.837	31	Great Zimbabwe	Africa, Zimbabwe
 asia/india/tamilnadu/madurai	8.829	32	Madurai	Asia, India, Tamil Nadu
 europe/italy/basilicata/matera	8.811	33	Matera	Europe, Italy, Basilicata
-europe/spain/northernspain/santiagodecompostela	8.811	34	Santiago de Compostela	Europe, Spain, Northern Spain
+europe/spain/galicia/santiagodecompostela	8.811	34	Santiago de Compostela	Europe, Spain, Northern Spain
 africa/tunisia/carthage	8.804	35	Carthage	Africa, Tunisia
 asia/turkey/aphrodisias	8.796	36	Aphrodisias	Asia, Turkey
 southamerica/colombia/ciudadperdida	8.790	37	Ciudad Perdida	South America, Colombia
@@ -40,12 +40,12 @@ europe/italy/tuscany/sangimignano	8.787	38	San Gimignano	Europe, Italy, Tuscany
 asia/china/shanxiprovince/pingyao	8.783	39	Pingyao	Asia, China, Shanxi Province
 asia/china/tibet/lhasa	8.763	40	Lhasa	Asia, China, Tibet
 asia/jordan/shobak	8.752	41	Shobak	Asia, Jordan
-asia/japan/honshu/kyoto	8.746	42	Kyoto	Asia, Japan, Honshu
-asia/japan/honshu/koyasan	8.744	43	Koyasan	Asia, Japan, Honshu
+asia/japan/kansai/kyoto	8.746	42	Kyoto	Asia, Japan, Honshu
+asia/japan/kansai/koyasan	8.744	43	Koyasan	Asia, Japan, Honshu
 asia/palestinianauthority/hebron	8.737	44	Hebron	Asia, Palestinian Authority
 europe/germany/bavaria/rothenburg	8.728	45	Rothenburg ob der Tauber	Europe, Germany, Bavaria
 southamerica/peru/ollantaytambo	8.728	46	Ollantaytambo	South America, Peru
-asia/japan/honshu/himeji	8.719	47	Himeji	Asia, Japan, Honshu
+asia/japan/kansai/himeji	8.719	47	Himeji	Asia, Japan, Honshu
 europe/malta/cottonera_or_three/vittoriosa	8.717	48	Vittoriosa	Europe, Malta, The Three Cities (Cottonera)
 europe/spain/andalucia/cordoba	8.712	49	Cordoba	Europe, Spain, Andalucia
 asia/uzbekistan/khiva	8.705	50	Khiva	Asia, Uzbekistan

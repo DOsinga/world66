@@ -7,7 +7,7 @@ done:
 latitude: 43.9978
 loc_type: city
 longitude: -96.3172
-score: 3.633
+score: 3.752
 snippet: Southwestern Minnesota prairie town beside sacred pipestone quarries and
   a quartzite historic district
 title: Pipestone
@@ -16,10 +16,10 @@ image: pipestone.jpg
 image_source: https://commons.wikimedia.org/wiki/File:MainPipestoneMN.jpg
 image_license: GFDL 1.2
 image_attribution: Jonathunder
-heritage: 4.064
-vibrancy: 1.423
-nature: 3.809
-off_the_beaten_track: 2.603
+heritage: 4.451
+vibrancy: 1.375
+nature: 3.359
+off_the_beaten_track: 2.325
 ---
 
 Pipestone is a small prairie town in far southwestern Minnesota, but it has more weight than its size suggests. Its name comes from the red pipestone, or catlinite, quarried just north of town for ceremonial pipes by Indigenous peoples from across North America.

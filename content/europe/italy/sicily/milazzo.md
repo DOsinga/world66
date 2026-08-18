@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Castello_di_Milazzo_08_09_
 latitude: 38.2208
 loc_type: city
 longitude: 15.2415
-score: 4.571
+score: 4.267
 title: Milazzo
 type: location
 snippet: Sicilian port town on a narrow Tyrrhenian peninsula, with ferries to the
   Aeolian Islands.
-heritage: 5.015
-vibrancy: 4.222
-nature: 4.96
-off_the_beaten_track: 3.011
+heritage: 4.603
+vibrancy: 3.794
+nature: 4.662
+off_the_beaten_track: 3.282
 ---
 
 Milazzo occupies a narrow peninsula jutting into the Tyrrhenian Sea on Sicily's northern coast. Most travellers pass through on their way to the Aeolian Islands — the hydrofoil terminal here is the main departure point — but the town itself deserves a stop.

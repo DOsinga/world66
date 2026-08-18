@@ -9,17 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Toila-Oru_park.jpg
 latitude: 59.4209
 loc_type: city
 longitude: 27.5133
-score: 4.4
+score: 4.663
 snippet: Seaside resort on northeast Estonia’s cliffs, centred on Toila-Oru Park and
   the North Estonian Klint.
 sources:
 - https://en.wikipedia.org/wiki/Toila
 title: Toila
 type: location
-heritage: 3.779
-vibrancy: 2.193
-nature: 5.218
-off_the_beaten_track: 4.117
+heritage: 3.843
+vibrancy: 2.298
+nature: 5.599
+off_the_beaten_track: 4.063
 ---
 
 Toila is a small seaside resort on the cliffs of northeast [Estonia](/europe/estonia), about 40 kilometres west of Narva and 10 kilometres from Jõhvi. It is a popular weekend escape for Estonians — a quiet, green place set above a dramatic stretch of coastline where the [North Estonian Klint](/europe/estonia/toila/north_estonian_klint) drops sharply to the sea.

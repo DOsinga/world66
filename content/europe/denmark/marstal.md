@@ -2,7 +2,7 @@
 latitude: 54.8547
 loc_type: city
 longitude: 10.5167
-score: 4.129
+score: 4.147
 snippet: Working Danish harbour town on Ærø, shaped by shipbuilding and its nineteenth-century
   merchant fleet.
 story: Marstal once had one of the largest merchant fleets in Denmark — more than
@@ -20,10 +20,10 @@ image: marstal.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Marstal._%C3%86r%C3%B8.1.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Erik Christensen
-heritage: 3.985
-vibrancy: 1.932
-nature: 4.711
-off_the_beaten_track: 2.824
+heritage: 4.13
+vibrancy: 1.972
+nature: 4.678
+off_the_beaten_track: 2.719
 ---
 
 Marstal is the working town to Ærøskøbing's museum piece. Its harbour is still active — fishing boats, a small shipyard, and the ferry to Rudkøbing on Langeland all share the basin — and the place has a more practical, less self-consciously pretty feel than its postcard neighbour. The 1841 stone breakwater was famously built by the townspeople themselves, hauling stones into the sea after the state refused to fund it.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -42.9167
 longitude: -72.7
-score: 5.94
+score: 6.067
 snippet: Rebuilt Patagonian port town below an active volcano, on the northern Carretera
   Austral.
 sources:
@@ -15,10 +15,10 @@ image: chaiten.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Chaiten_Volcano_Chile.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Pi3.124
-heritage: 2.919
-vibrancy: 1.346
-nature: 7.117
-off_the_beaten_track: 6.846
+heritage: 2.782
+vibrancy: 1.743
+nature: 7.315
+off_the_beaten_track: 6.847
 ---
 
 Chaitén is not pretty in the polished sense. It is a small Patagonian port on the Carretera Austral, rebuilt after the 2008 eruption of [Volcán Chaitén](/southamerica/chile/chaiten/volcan_chaiten) sent ash and mud through town. That disaster is still part of the place: a few scarred buildings remain, and the volcano is close enough to feel less like scenery than a neighbour.

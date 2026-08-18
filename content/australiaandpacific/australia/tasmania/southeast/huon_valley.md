@@ -5,7 +5,7 @@ loc_type: feature
 latitude: -43.033333
 longitude: 147.033333
 wikidata: Q679881
-score: 5.732
+score: 6.05
 snippet: Apple-growing valley south of Hobart, with cider sheds, river towns, forests,
   and cool-climate wine
 sources:
@@ -17,10 +17,10 @@ image: huon_valley.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Huon_Valley_-_panoramio.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Richard Horvath
-heritage: 2.728
-vibrancy: 1.041
-nature: 7.109
-off_the_beaten_track: 5.82
+heritage: 2.878
+vibrancy: 1.268
+nature: 7.503
+off_the_beaten_track: 6.144
 ---
 
 The Huon Valley is the soft, productive country south of Hobart, where the Huon River runs through orchards, hop fields, cider sheds, small towns, and forested hills. Huonville itself is the service town, but the travel appeal belongs to the valley as a whole.

@@ -2,7 +2,7 @@
 latitude: 60.875
 loc_type: city
 longitude: 21.698
-score: 4.788
+score: 4.828
 snippet: Finland Proper town of medieval churches, Iron Age remains, and old farm
   villages between Turku and Rauma.
 sources:
@@ -15,10 +15,10 @@ image: laitila.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Laitila_Miikaeli_kirik._Kellatorn._3.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Marrx
-heritage: 2.865
-vibrancy: 1.981
-nature: 6.207
-off_the_beaten_track: 3.044
+heritage: 3.119
+vibrancy: 1.794
+nature: 6.161
+off_the_beaten_track: 3.3
 ---
 
 Laitila is a small inland town in Finland Proper, on the road between [Turku](/europe/finland/turku) and [Rauma](/europe/finland/rauma). It looks modest at first: fields, low streets, and food-industry buildings. The reason to stop is older and quieter, in the medieval church, Iron Age burial sites, and farm villages that show how this part of southwestern Finland settled around roads, fields, and parish life.

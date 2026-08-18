@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 31.60361
 longitude: -94.65556
-score: 4.434
+score: 4.002
 snippet: Oldest city in Texas, with Caddo, Spanish, Republic-era, and college-town
   layers in the Piney Woods.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://nactx.us/1509/Plan-Your-Visit
 - https://texastimetravel.com/cities/nacogdoches/
 - https://www.nps.gov/places/durst-taylor-house.htm
-heritage: 5.102
-vibrancy: 3.118
-nature: 4.327
-off_the_beaten_track: 2.754
+heritage: 4.59
+vibrancy: 3.1
+nature: 3.939
+off_the_beaten_track: 2.814
 ---
 
 Nacogdoches calls itself the oldest town in Texas, and here the claim feels less like a slogan than a way to read the streets. Caddo trails, Spanish missions, Republic of Texas politics, timber money, and Stephen F. Austin State University all sit on top of one another in this quiet Piney Woods city.

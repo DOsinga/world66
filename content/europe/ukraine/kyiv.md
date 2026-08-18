@@ -15,7 +15,7 @@ quick_facts:
   Founded: ~482 AD
   Gold Domes: St Sophia & the Lavra
   Population: ~3 million
-score: 7.019
+score: 7.602
 snippet: Ancient Ukrainian capital on the Dnieper, layered with Kyivan Rus history
   and gold-domed Orthodox monasteries.
 tip: Kyiv is one of the oldest and grandest cities in eastern Europe, the cradle of
@@ -25,10 +25,10 @@ tip: Kyiv is one of the oldest and grandest cities in eastern Europe, the cradle
   as a bomb shelter.
 title: Kyiv
 type: location
-heritage: 6.384
-vibrancy: 7.313
-nature: 4.361
-off_the_beaten_track: 1.646
+heritage: 7.145
+vibrancy: 7.833
+nature: 4.364
+off_the_beaten_track: 1.795
 ---
 
 Kyiv is one of the oldest cities in Europe, founded in the 5th century and the capital of a medieval state — Kyivan Rus — that shaped the subsequent history of Russia, Ukraine, and Belarus. Today it is the capital of Ukraine, a city of broad boulevards, steep river banks, and a skyline punctuated by the gold and blue domes of Orthodox churches and monasteries. The city stands on the right bank of the Dnieper River, spread across a series of wooded hills.

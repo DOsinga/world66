@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 49.1833
 longitude: -119.756
-score: 4.471
+score: 4.575
 snippet: Tiny Similkameen farming village known for organic orchards, cider, and small
   wineries.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Cawston,_British_Columbia
 - https://similkameenvalley.com/places-to-go/communities/cawston/
 - https://winebc.com/wine-regions/similkameen-valley/
-heritage: 2.492
-vibrancy: 1.761
-nature: 5.874
-off_the_beaten_track: 3.061
+heritage: 2.917
+vibrancy: 1.615
+nature: 5.855
+off_the_beaten_track: 3.166
 ---
 
 Cawston is tiny, but it has a clear reason to exist on a travel map. The village sits in the lower Similkameen Valley, surrounded by orchards, vineyards, fruit stands, and organic farms. Local tourism calls it Canada's organic farming capital, and for once the slogan explains the place rather well.

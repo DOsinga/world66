@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 45.350833
 longitude: -117.230278
-score: 4.241
+score: 3.856
 snippet: Eastern Oregon art town below the Wallowa Mountains, with lake views and
   Nez Perce history.
 wikidata: Q2729524
@@ -16,10 +16,10 @@ image: joseph.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Wallowa_Lake_Tramway.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Finetooth
-heritage: 2.765
-vibrancy: 1.532
-nature: 5.206
-off_the_beaten_track: 4.482
+heritage: 3.002
+vibrancy: 1.448
+nature: 4.699
+off_the_beaten_track: 4.189
 ---
 
 Joseph is the small town at the end of Oregon Highway 82, where ranch country runs into the Wallowa Mountains and the road bends toward [Wallowa Lake State Park](/northamerica/unitedstates/oregon/joseph/wallowa_lake_state_park). It is not big, and it does not pretend to be. Main Street has bronze sculptures, galleries, old storefronts, and a view south to peaks that look too sharp and alpine for eastern Oregon.

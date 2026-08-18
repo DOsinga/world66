@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tohma-canyon-Darende.JPG
 latitude: 38.556389
 loc_type: city
 longitude: 37.493611
-score: 3.905
+score: 3.852
 snippet: Eastern Turkish town where a Sufi shrine, canyon walks, and cold waterfalls
   meet.
 sources:
@@ -19,10 +19,10 @@ sources:
 title: Darende
 type: location
 wikidata: Q1003964
-heritage: 2.853
-vibrancy: 2.089
-nature: 4.464
-off_the_beaten_track: 5.206
+heritage: 2.792
+vibrancy: 2.457
+nature: 4.469
+off_the_beaten_track: 4.922
 ---
 
 Darende is a small town in Malatya province, set where the Tohma River cuts through pale rock before joining the Euphrates system. It would be easy to pass by on the road across eastern Anatolia, but the town has a clear identity: water, cliffs, and the shrine of Somuncu Baba squeezed into the same narrow valley.

@@ -5,15 +5,15 @@ done:
 latitude: 47.6779
 loc_type: city
 longitude: 11.2012
-score: 5.617
+score: 5.58
 snippet: Bavarian art town between Staffelsee and Murnauer Moos, shaped by Alps views
   and the Blaue Reiter painters.
 title: Murnau am Staffelsee
 type: location
-heritage: 3.8
-vibrancy: 2.634
-nature: 7.095
-off_the_beaten_track: 2.263
+heritage: 3.495
+vibrancy: 3.402
+nature: 7.005
+off_the_beaten_track: 1.908
 ---
 
 Murnau am Staffelsee is a small Bavarian town at the foot of the Alps, about 45 minutes by train south of Munich. It sits between the [Staffelsee lake](/europe/germany/bavaria/murnau_am_staffelsee/staffelsee) and the [Murnauer Moos](/europe/germany/bavaria/murnau_am_staffelsee/murnauer_moos), one of the largest intact raised bogs in Central Europe — the landscape is open, green, and framed by mountains in every direction.

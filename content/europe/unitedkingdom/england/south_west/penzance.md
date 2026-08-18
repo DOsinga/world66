@@ -2,7 +2,7 @@
 latitude: 50.1195
 loc_type: city
 longitude: -5.5352
-score: 5.994
+score: 5.893
 snippet: Westernmost major town in England, gateway to the Isles of Scilly and the
   far Penwith peninsula.
 tags:
@@ -13,10 +13,10 @@ image: penzance.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Abbey_Slip_full_with_people_swimming_and_paddleboarding_in_Penzance.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Kernow Skies
-heritage: 6.111
-vibrancy: 3.924
-nature: 6.7
-off_the_beaten_track: 3.821
+heritage: 6.076
+vibrancy: 3.3
+nature: 6.558
+off_the_beaten_track: 3.788
 ---
 
 Penzance is the end of the line — literally. The mainline railway from London terminates here, and from the harbour the overnight ferry departs for the Isles of Scilly, 28 miles out into the Atlantic. The town has a slightly end-of-the-world quality that many people find appealing, and its position on the sheltered northern shore of Mount's Bay gives it a mild climate unusual for England.

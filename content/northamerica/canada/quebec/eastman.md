@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 45.3
 longitude: -72.32
-score: 4.333
+score: 4.597
 snippet: Small Eastern Townships village known for wellness, literary culture, and
   forest trails below Mont Orford.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Eastman,_Quebec
 - https://lescorrespondances.ca/
 - https://rnmv.ca/en/
-heritage: 3.429
-vibrancy: 2.543
-nature: 5.263
-off_the_beaten_track: 3.518
+heritage: 3.521
+vibrancy: 2.534
+nature: 5.633
+off_the_beaten_track: 3.567
 ---
 
 Eastman is a small village in the Eastern Townships, tucked between lakes, low wooded hills, and the western side of Mont Orford. It is not a place of blockbuster sights, but it has a clear personality: quiet wellness retreats, bookish summer energy, and easy access to forest trails.

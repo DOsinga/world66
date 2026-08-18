@@ -9,16 +9,16 @@ image_source: https://commons.wikimedia.org/wiki/File:ISS002-E-6431_-_View_of_Tu
 latitude: -7.4833
 loc_type: island
 longitude: 178.6833
-score: 5.33
+score: 5.274
 snippet: Tuvaluan reef island known for Motufoua Secondary School and a closely settled
   village life
 sources:
 - https://en.wikipedia.org/wiki/Vaitupu
 title: Vaitupu Island
 type: location
-heritage: 4.07
-vibrancy: 1.674
-nature: 4.998
+heritage: 4.893
+vibrancy: 1.313
+nature: 3.783
 off_the_beaten_track: 8.642
 ---
 

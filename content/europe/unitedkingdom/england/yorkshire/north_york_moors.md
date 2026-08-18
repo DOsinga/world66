@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cleveland-Way-North-York-M
 latitude: 54.3318
 loc_type: feature
 longitude: -0.6902
-score: 6.445
+score: 6.531
 snippet: Yorkshire national park of heather moorland, wooded valleys, and dramatic
   North Sea coastline around Whitby.
 title: North York Moors
 type: location
-heritage: 6.371
-vibrancy: 2.752
-nature: 7.289
-off_the_beaten_track: 3.37
+heritage: 6.349
+vibrancy: 2.599
+nature: 7.432
+off_the_beaten_track: 3.423
 ---
 
 The North York Moors National Park covers roughly 550 square miles of upland moorland, wooded valleys, and dramatic coastline in northeast Yorkshire. It is one of two national parks in Yorkshire — the other being the [Yorkshire Dales](/europe/unitedkingdom/england/yorkshire/yorkshire_dales) — but the two feel quite different. The Moors are wilder and more austere, their heather-blanketed plateaus stretching unbroken to clifftop edges above the North Sea.

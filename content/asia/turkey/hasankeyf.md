@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 37.714
 longitude: 41.413
-score: 4.813
+score: 5.158
 snippet: Relocated Tigris village where a drowned medieval town survives in fragments
   above the Ilısu reservoir.
 wikidata: Q756957
@@ -16,10 +16,10 @@ image: hasankeyf.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Zeynel_Bey_Mausoleum,_Hasankeyf.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Htkava
-heritage: 5.728
-vibrancy: 1.656
-nature: 3.555
-off_the_beaten_track: 6.044
+heritage: 6.145
+vibrancy: 1.712
+nature: 4.556
+off_the_beaten_track: 4.643
 ---
 
 Hasankeyf is not the place it used to be, and that is the point. The old Tigris-side settlement, inhabited for centuries and famous for caves, bridges, mosques, and cliff ruins, was largely flooded after the Ilısu Dam reservoir filled in 2020.

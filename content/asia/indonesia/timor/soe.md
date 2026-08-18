@@ -1,17 +1,23 @@
 ---
 title: Soe
-type: poi
+loc_type: city
+type: location
 tags:
-  - things_to_do
-  - sight
+- things_to_do
+- sight
 latitude: -9.8583
 longitude: 124.2833
-story: >
-  Soe sits at about 800 metres elevation, which makes it noticeably cooler than the coast —
-  unusually so for an Indonesian town at this latitude. Dutch colonial administrators used it
-  as a retreat from Kupang's heat, and the upland setting has kept it somewhat more prosperous
-  and densely settled than the lowland interior.
-score: 7.3
+story: 'Soe sits at about 800 metres elevation, which makes it noticeably cooler than
+  the coast — unusually so for an Indonesian town at this latitude. Dutch colonial
+  administrators used it as a retreat from Kupang''s heat, and the upland setting
+  has kept it somewhat more prosperous and densely settled than the lowland interior.
+
+  '
+score: 5.858
+heritage: 4.852
+vibrancy: 3.078
+nature: 7.013
+off_the_beaten_track: 6.774
 ---
 
 Soe is the main town of the interior highlands, about 110 kilometres east of Kupang. It functions as a market hub for the surrounding traditional villages and is the best base for exploring the traditional Timorese interior. The morning market is one of the most vivid in Nusa Tenggara — vendors come from scattered villages to trade ikat textiles, betel nut, local vegetables, and livestock.

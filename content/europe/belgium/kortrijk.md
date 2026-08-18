@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Broeltorens,_Kortrijk_(DSC
 latitude: 50.8276
 loc_type: city
 longitude: 3.266
-score: 4.481
+score: 4.344
 snippet: Flemish river city with medieval towers, linen history, and the Battle of
   the Golden Spurs.
 title: Kortrijk
 type: location
-heritage: 5.187
-vibrancy: 3.851
-nature: 2.442
-off_the_beaten_track: 1.276
+heritage: 5.051
+vibrancy: 3.687
+nature: 2.703
+off_the_beaten_track: 1.542
 ---
 
 Kortrijk — known as Courtrai in French — is a compact Flemish city on the Leie River, about 40 kilometres southwest of [Ghent](/europe/belgium/ghent) and close to the French border. It punches above its weight: for a city of around 80,000 people, its historic centre is remarkably well-preserved, with medieval towers, a beautiful béguinage, and a fine Gothic church still anchoring daily life.

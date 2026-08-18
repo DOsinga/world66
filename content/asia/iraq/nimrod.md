@@ -4,15 +4,15 @@ done:
 latitude: 36.099206
 loc_type: feature
 longitude: 43.328611
-score: 7.213
+score: 5.878
 snippet: Ancient Assyrian capital near Mosul, known as Kalhu and excavated for palaces
   and reliefs.
 title: Nimrud
 type: location
-heritage: 9.097
-vibrancy: 1.483
-nature: 2.634
-off_the_beaten_track: 7.412
+heritage: 7.098
+vibrancy: 1.601
+nature: 3.571
+off_the_beaten_track: 7.053
 ---
 
 Nimrud (also spelled Nimrod) was Assyria's second capital, lying about 37 km south-east of [Mosul](/asia/iraq/mosul), on the eastern bank of the Tigris. It was designated as the Assyrian capital by Ashurnasirpal II in 879 BC and was known in ancient times as Kalhu (mentioned in Genesis as Calah). When Sargon II came to power it was replaced by Khorsabad as the new capital around 720 BC, and in 612 BC it was destroyed by the Medes, at the same time as the fall of [Ninevah](/asia/iraq/ninevah).

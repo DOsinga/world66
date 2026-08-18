@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 49.3261
 longitude: -117.6647
-score: 4.494
+score: 4.631
 snippet: Kootenay river town with Doukhobor heritage, public sculpture, and mountain
   trails.
 wikidata: Q1026779
@@ -17,10 +17,10 @@ image: castlegar.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bridge_at_Castlegar,_BC.jpg
 image_license: CC BY 2.0
 image_attribution: waferboard
-heritage: 1.977
-vibrancy: 1.838
-nature: 5.872
-off_the_beaten_track: 3.586
+heritage: 2.13
+vibrancy: 1.608
+nature: 6.046
+off_the_beaten_track: 3.712
 ---
 
 Castlegar sits where the Kootenay River meets the Columbia, in a green pocket of the West Kootenays. It is not as pretty or as bohemian as nearby [Nelson](/northamerica/canada/britishcolumbia/nelson), but it has a more specific story than most small highway towns: Doukhobor settlement, railway history, river paths, and a downtown that has turned itself into an outdoor sculpture gallery.

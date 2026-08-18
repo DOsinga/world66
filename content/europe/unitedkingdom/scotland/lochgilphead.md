@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Lochgilphead1.jpg
 latitude: 56.037502
 loc_type: city
 longitude: -5.43309
-score: 4.403
+score: 4.504
 snippet: Argyll service town at Loch Gilp, useful for the Crinan Canal and Kilmartin
   Glen.
 title: Lochgilphead
 type: location
-heritage: 3.168
-vibrancy: 1.93
-nature: 5.482
-off_the_beaten_track: 3.783
+heritage: 3.111
+vibrancy: 1.874
+nature: 5.663
+off_the_beaten_track: 3.874
 ---
 
 Lochgilphead is the administrative centre of Argyll and Bute, sitting at the head of Loch Gilp on the Kintyre peninsula. It's a small, practical town that serves as a base and services hub for the surrounding area. The [Crinan Canal](/europe/unitedkingdom/scotland/lochgilphead/crinan_canal), connecting Loch Fyne to the Sound of Jura, begins nearby at Ardrishaig and is well worth cycling or walking along — the route through the canal basin at Crinan is one of Scotland's quiet delights. The town itself has good local shops and a relaxed, working community feel, far from any tourist circuit.

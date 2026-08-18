@@ -15,11 +15,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Portogruaro
 title: Portogruaro
 type: location
-score: 4.186
-heritage: 5.235
-vibrancy: 2.806
-nature: 3.079
-off_the_beaten_track: 1.779
+score: 3.718
+heritage: 4.545
+vibrancy: 2.706
+nature: 2.833
+off_the_beaten_track: 1.987
 ---
 
 Portogruaro is a handsome river town in the eastern corner of the Veneto, near the border with Friuli, built around a long curving stretch of the river Lemene. It was for centuries an inland port of Venice — barges loaded with grain and timber from the Friulan hills brought their cargoes down here to be transferred to seagoing ships — and the medieval and Renaissance town that grew around the trade has survived remarkably intact.

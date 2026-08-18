@@ -6,11 +6,11 @@ type: location
 loc_type: city
 latitude: 57.6082
 longitude: -3.6222
-score: 4.125
-heritage: 4.58
-vibrancy: 2.725
-nature: 4.402
-off_the_beaten_track: 1.83
+score: 3.983
+heritage: 4.473
+vibrancy: 2.612
+nature: 4.135
+off_the_beaten_track: 1.893
 ---
 
 Forres is a small market town in Moray, on the southern edge of the coastal plain between Inverness and Aberdeen. It sits in a stretch of country that is unusually benign for this latitude — the town gets less rainfall than almost anywhere else in Scotland, sheltered by the hills to the south and exposed to the drying east winds that blow off the North Sea. This has made the area productive farmland for centuries and contributed to Forres's long history as a town.

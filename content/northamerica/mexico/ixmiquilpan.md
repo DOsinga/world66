@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 20.4819
 longitude: -99.2181
-score: 4.374
+score: 3.998
 snippet: Mezquital Valley town of Otomi murals, thermal water parks, and canyon day
   trips.
 wikidata: Q1918590
@@ -17,10 +17,10 @@ sources:
 - https://www.inah.gob.mx/foto-del-dia/murales-indigenas-de-ixmiquilpan
 - https://ecoalberto.info/
 - https://www.grutastolantongo.com.mx/en/getting-there.html
-heritage: 5.241
-vibrancy: 3.109
-nature: 3.795
-off_the_beaten_track: 3.235
+heritage: 4.615
+vibrancy: 3.306
+nature: 3.868
+off_the_beaten_track: 3.245
 ---
 
 Ixmiquilpan is the main town of the Mezquital Valley, a dry, bright part of Hidalgo where hot water, canyon walls, and Otomi culture give the area more personality than its highway approach suggests. It is not a polished colonial showpiece. It is a working regional town with a very good reason to stop.

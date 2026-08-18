@@ -5,15 +5,15 @@ done:
 latitude: 26.131526
 loc_type: city
 longitude: 50.550343
-score: 4.039
+score: 3.539
 snippet: Bahraini residential city south of Manama, known for Riffa Fort and nearby
   Formula 1 racing
 title: Riffa
 type: location
-heritage: 4.756
-vibrancy: 2.604
-nature: 3.694
-off_the_beaten_track: 2.543
+heritage: 4.103
+vibrancy: 2.707
+nature: 3.385
+off_the_beaten_track: 2.459
 ---
 
 Riffa is [Bahrain](/asia/bahrain)'s second-largest city, spread across the low hills of the Central Governorate south of [Manama](/asia/bahrain/manama). The city is divided into East and West Riffa, with the western half home to many of the royal family's palaces — you will spot their walled compounds and manicured grounds as you drive through. The main historical attraction is [Riffa Fort](/asia/bahrain/riffa/riffa_fort), also known as Sheikh Salman bin Ahmed Al Fateh Fort, a nineteenth-century stronghold perched on a hilltop with views across the surrounding palm groves and residential districts.

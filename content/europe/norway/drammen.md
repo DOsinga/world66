@@ -5,17 +5,17 @@ done:
 latitude: 59.744
 loc_type: city
 longitude: 10.2045
-score: 4.655
+score: 4.681
 snippet: Norwegian river-and-fjord city southwest of Oslo, known for its waterfront
   and spiral mountain tunnel.
 sources:
 - https://en.wikipedia.org/wiki/Drammen
 title: Drammen
 type: location
-heritage: 4.112
-vibrancy: 3.337
-nature: 5.473
-off_the_beaten_track: 2.829
+heritage: 3.832
+vibrancy: 3.357
+nature: 5.631
+off_the_beaten_track: 3.035
 ---
 
 Drammen sits where the Drammenselva river empties into the Drammensfjord, about forty minutes southwest of Oslo by train. For decades it had a reputation as an industrial town best driven past, but a sustained effort to clean up the riverfront and invest in public spaces has turned it into a surprisingly pleasant place. The river promenade, the pedestrian [Ypsilon Bridge](/europe/norway/drammen/ypsilon_bridge), and the revitalised [Papirbredden](/europe/norway/drammen/papirbredden) waterfront area are genuinely attractive.

@@ -9,17 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Daegu,_South_Korea_from_Du
 latitude: 35.8714
 loc_type: city
 longitude: 128.6014
-score: 6.458
+score: 5.798
 snippet: Southeastern Korean valley city known for textile history, summer heat, and
   Mount Palgong temples.
 sources:
 - https://en.wikipedia.org/wiki/Daegu
 title: Daegu
 type: location
-heritage: 5.885
-vibrancy: 6.725
-nature: 4.18
-off_the_beaten_track: 1.584
+heritage: 5.65
+vibrancy: 5.898
+nature: 3.946
+off_the_beaten_track: 1.669
 ---
 
 Daegu is South Korea's third-largest city, sitting in a valley in the southeast of the country. The geography traps heat and humidity in summer, making it one of the hottest cities on the mainland — nicknamed "Dafrican" by Koreans — while winters are milder than Seoul. The city is historically a textile and fashion centre and was long known for its apples; today it is a manufacturing and service hub with two universities and a lively youth culture.

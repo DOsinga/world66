@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Torla,_Huesca,_Espa%C3%B1a
 latitude: 42.6276
 loc_type: city
 longitude: -0.1116
-score: 5.673
+score: 5.772
 snippet: Stone Pyrenean gateway village below Ordesa, with slate roofs and limestone
   walls rising behind it.
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://www.miteco.gob.es/content/dam/miteco/es/parques-nacionales-oapn/red-parques-nacionales/parques-nacionales/englishinformaciongeneralparquenacionaldeordesaymonteperdidoingles_tcm30-474581.pdf
 title: Torla-Ordesa
 type: location
-heritage: 3.036
-vibrancy: 2.446
-nature: 7.255
-off_the_beaten_track: 5.038
+heritage: 3.981
+vibrancy: 1.877
+nature: 7.26
+off_the_beaten_track: 5.273
 ---
 
 Torla-Ordesa is the stone-built gateway village for [Ordesa National Park](/europe/spain/aragon/ordesa_national_park), set at the mouth of the Ordesa valley with limestone walls and Pyrenean peaks rising behind it. It is small, handsome, and practical in exactly the way a mountain base should be: enough food, beds, maps, and buses, without pretending to be a resort.

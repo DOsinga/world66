@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 45.6245
 longitude: -1.0288
-score: 4.275
+score: 4.296
 snippet: Rebuilt Atlantic resort town where 1950s concrete architecture meets beaches
   and the Gironde estuary.
 sources:
@@ -17,10 +17,10 @@ image: royan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:00_2632_Royan-Plage.jpg
 image_license: CC BY-SA 4.0
 image_attribution: W. Bulach
-heritage: 4.056
-vibrancy: 3.258
-nature: 4.907
-off_the_beaten_track: 1.594
+heritage: 4.027
+vibrancy: 3.489
+nature: 4.952
+off_the_beaten_track: 1.636
 ---
 
 Royan is one of the more unusual seaside towns on the French Atlantic coast. It has beaches, a marina and the holiday rhythm of the Côte de Beauté, but its real character comes from catastrophe and rebuilding: much of the town was destroyed in 1945, then rebuilt with a confident, sometimes startling, 1950s modernism.

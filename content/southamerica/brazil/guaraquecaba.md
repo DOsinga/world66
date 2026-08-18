@@ -16,11 +16,11 @@ image: guaraquecaba.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Por_do_sol_-_Ba%C3%ADa_de_Guaraque%C3%A7aba.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Cesar Augusto Chirosa Horie
-score: 5.137
-heritage: 4.03
-vibrancy: 3.702
-nature: 6.174
-off_the_beaten_track: 3.872
+score: 5.382
+heritage: 4.054
+vibrancy: 3.338
+nature: 6.624
+off_the_beaten_track: 4.283
 ---
 
 Guaraqueçaba is a small town on the far northern coast of Paraná, where the road slows down, the bay widens, and the Atlantic Forest comes right down to mangroves and fishing water. It is not an easy resort town. That is its appeal.

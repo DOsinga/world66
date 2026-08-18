@@ -5,14 +5,14 @@ latitude: 51.807553
 longitude: -2.448843
 title: Severn Bore
 type: location
-score: 5.484
+score: 5.877
 loc_type: feature
 snippet: Tidal bore on the River Severn, where a single wave surges inland from the
   Bristol Channel.
-heritage: 4.03
-vibrancy: 1.877
-nature: 6.792
-off_the_beaten_track: 4.443
+heritage: 4.582
+vibrancy: 1.721
+nature: 7.168
+off_the_beaten_track: 4.804
 ---
 
 The Severn Bore is one of the largest tidal bores in the world, a single breaking wave that surges up the River Severn from the Bristol Channel during the highest tides of the year. Although not the biggest bore on earth — the Amazon's pororoca and China's Silver Dragon are more dramatic — the Severn Bore is a genuine spectacle, rolling upstream at speeds of up to 13 mph and reaching heights of two metres on the largest events.

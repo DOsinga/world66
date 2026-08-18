@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: -37.0637
 longitude: 149.9003
-score: 5.186
+score: 5.238
 snippet: Sapphire Coast harbour town known for orcas, whaling history, and wild beaches
   around Twofold Bay.
 sources:
 - https://en.wikivoyage.org/wiki/Eden_(New_South_Wales)
 - https://www.wikidata.org/wiki/Q3047387
 - https://en.wikipedia.org/wiki/Eden,_New_South_Wales
-heritage: 1.895
-vibrancy: 2.663
-nature: 6.752
-off_the_beaten_track: 2.676
+heritage: 1.366
+vibrancy: 2.748
+nature: 6.791
+off_the_beaten_track: 2.378
 ---
 
 Eden sits on Twofold Bay near the far southern end of the New South Wales coast. It is a fishing and timber port, but the reason to stop is older and stranger: for decades local whalers worked with a pod of orcas that drove baleen whales into the bay. That story still gives the town its shape, from the [Eden Killer Whale Museum](/australiaandpacific/australia/newsouthwales/eden/eden_killer_whale_museum) to the headlands where people scan the sea during the spring migration.

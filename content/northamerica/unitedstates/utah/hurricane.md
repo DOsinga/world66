@@ -10,15 +10,15 @@ image_source: https://www.flickr.com/photos/146878425@N05/51791027159
 latitude: 37.1753
 loc_type: city
 longitude: -113.2899
-score: 5.189
+score: 5.013
 snippet: Small southern Utah town near red-rock desert, used as a quieter base for
   Zion National Park.
 title: Hurricane
 type: location
-heritage: 2.393
-vibrancy: 2.648
-nature: 6.763
-off_the_beaten_track: 3.403
+heritage: 2.185
+vibrancy: 1.945
+nature: 6.598
+off_the_beaten_track: 3.843
 ---
 
 Hurricane is a small town in Washington County, Utah, sitting on the edge of the red rock desert about 20 miles east of St. George. Locals pronounce it "HER-i-cun," and the town serves primarily as a base for exploring some of southern Utah's best scenery.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kerinci_mountain.jpg
 latitude: -2.063338
 loc_type: city
 longitude: 101.600105
-score: 6.417
+score: 6.157
 snippet: Central Sumatran upland valley below Gunung Kerinci, surrounded by tea, coffee,
   rainforest, and tiger habitat
 title: Kerinci
 type: location
-heritage: 1.713
-vibrancy: 0.995
-nature: 8.064
-off_the_beaten_track: 6.17
+heritage: 1.564
+vibrancy: 1.101
+nature: 7.615
+off_the_beaten_track: 6.321
 ---
 
 Kerinci is the long upland valley running down the spine of central Sumatra, hemmed in on every side by the Bukit Barisan range and dominated by [Gunung Kerinci](/asia/indonesia/sumatra/kerinci/mount_kerinci) — at 3,805 metres the highest volcano in Indonesia. The valley sits inside Kerinci Seblat National Park, Sumatra's largest, a critical refuge for the dwindling Sumatran tiger and one of the last strongholds of the Sumatran rhino. Tea plantations stretch across the valley floor, smallholders grow some of the country's best coffee and cinnamon, and a network of small Kerinci villages clings to the slopes.

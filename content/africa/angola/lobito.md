@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Porto_do_Lobito_-_Angola_2
 latitude: -12.350687
 loc_type: city
 longitude: 13.546432
-score: 4.238
+score: 4.281
 sources:
 - https://en.wikipedia.org/wiki/Lobito
 - https://en.wikipedia.org/wiki/Port_of_Lobito
@@ -18,10 +18,10 @@ title: Lobito
 snippet: Angolan port city built around the Restinga sandbar and its sheltered Atlantic
   harbour.
 type: location
-heritage: 2.626
-vibrancy: 1.517
-nature: 4.277
-off_the_beaten_track: 6.687
+heritage: 3.418
+vibrancy: 1.737
+nature: 4.274
+off_the_beaten_track: 6.782
 ---
 
 Lobito is Angola's most important port city, built on a remarkable natural feature: a thin sandbar spit called the Restinga that juts 5 km into the Atlantic, sheltering one of the finest natural harbours on the West African coast. The city grew up around this harbour in the early twentieth century, and the harbour remains its reason for being.

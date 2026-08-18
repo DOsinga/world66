@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 45.7364
 longitude: -94.9542
-score: 3.23
+score: 3.514
 snippet: Central Minnesota town shaped by Sinclair Lewis, Main Street, and the Lake
   Wobegon Trail.
 sources:
@@ -17,10 +17,10 @@ image: sauk_centre.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Original_Main_Street_HD.jpg
 image_license: CC BY-SA 4.0
 image_attribution: McGhiever
-heritage: 2.518
-vibrancy: 2.543
-nature: 3.778
-off_the_beaten_track: 1.517
+heritage: 3.072
+vibrancy: 2.793
+nature: 4.097
+off_the_beaten_track: 1.454
 ---
 
 Sauk Centre is a small central [Minnesota](/northamerica/unitedstates/minnesota) town with a literary chip on its shoulder. Sinclair Lewis was born here, used the town as the raw material for Gopher Prairie in *Main Street*, and left behind enough friction that the place is more interesting than a standard freeway stop.

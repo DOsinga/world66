@@ -8,11 +8,11 @@ snippet: Turkish Thrace crossroads town with access to the clear coves and beach
   of Saros Bay.
 sources:
 - https://en.wikivoyage.org/wiki/Ke%C5%9Fan
-score: 2.753
-heritage: 2.707
-vibrancy: 1.932
-nature: 3.12
-off_the_beaten_track: 2.987
+score: 2.716
+heritage: 2.933
+vibrancy: 2.123
+nature: 2.966
+off_the_beaten_track: 2.716
 ---
 
 *Asia > Turkey > Keşan*

@@ -12,13 +12,13 @@ sources:
 - https://en.wikivoyage.org/wiki/Jiujiang
 title: Jiujiang
 type: location
-score: 5.037
+score: 4.978
 snippet: Yangtze river port at Poyang Lake, with treaty-port traces and access to
   Lushan.
-heritage: 4.863
-vibrancy: 4.057
-nature: 5.746
-off_the_beaten_track: 3.367
+heritage: 4.498
+vibrancy: 3.782
+nature: 5.81
+off_the_beaten_track: 3.432
 ---
 
 Jiujiang sits at the northern edge of Jiangxi where the Yangtze River flows past the mouth of Poyang Lake — a position that made it one of the most important river ports in central China for most of the last two millennia. In the nineteenth century it was designated one of China's first treaty ports, and the foreign concession-era architecture along the riverfront still lends certain streets a faded colonial character unusual in an otherwise modern Chinese city. The combination of river trade, tea production, and access to the interior made Jiujiang wealthy, and some of that accumulated depth persists.

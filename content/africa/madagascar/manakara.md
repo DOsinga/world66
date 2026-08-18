@@ -4,7 +4,7 @@ done:
 latitude: -22.15
 loc_type: city
 longitude: 48.0
-score: 6.031
+score: 6.154
 snippet: East-coast Malagasy rail terminus where the FCE train meets the Pangalanes
   Canal.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Manakara
 title: Manakara
 type: location
-heritage: 3.509
-vibrancy: 0.983
-nature: 7.308
-off_the_beaten_track: 6.687
+heritage: 2.714
+vibrancy: 1.302
+nature: 7.506
+off_the_beaten_track: 6.663
 ---
 
 Manakara is the sea-end of the famous Fianarantsoa-Cote Est railway, the narrow-gauge line that drops from the highlands through forested hills to Madagascar's humid southeast coast. Most travellers arrive tired, dusty, and delighted that the train made it at all.

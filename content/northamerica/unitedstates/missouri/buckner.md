@@ -4,7 +4,7 @@ done:
 latitude: 39.1347
 loc_type: city
 longitude: -94.1983
-score: 2.186
+score: 1.57
 snippet: Small Missouri River country town near Kansas City, linked to frontier history
   at nearby Fort Osage.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Fort_Osage
 title: Buckner
 type: location
-heritage: 2.205
-vibrancy: 2.04
-nature: 2.402
-off_the_beaten_track: 1.387
+heritage: 1.528
+vibrancy: 1.565
+nature: 1.582
+off_the_beaten_track: 1.71
 ---
 
 Buckner is a small town east of [Kansas City](/northamerica/unitedstates/missouri/kansascity), set in the Missouri River country of eastern Jackson County. It is close enough to the metro to feel connected, but the landscape opens quickly into fields, creeks, rail lines, and older river settlements.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Baldwin_Locomotive_GPM_Law
 latitude: 34.605198
 loc_type: city
 longitude: -98.395228
-score: 2.29
+score: 1.655
 snippet: Southwestern Oklahoma city and Fort Sill neighbour, gateway to the granite
   Wichita Mountains Wildlife Refuge.
 title: Lawton
 type: location
-heritage: 2.294
-vibrancy: 2.245
-nature: 2.405
-off_the_beaten_track: 1.166
+heritage: 1.71
+vibrancy: 1.646
+nature: 1.487
+off_the_beaten_track: 1.468
 ---
 
 Lawton is southwestern Oklahoma's largest city, home to over 90,000 people and the gateway to some of the state's most striking landscapes. The [**Wichita Mountains Wildlife Refuge**](/northamerica/unitedstates/oklahoma/lawton/wichita_mountains) is the main draw, a 59,000-acre expanse of ancient granite peaks, prairie grasslands, and free-roaming bison just north of town. You can drive to the top of [Mount Scott](/northamerica/unitedstates/oklahoma/lawton/mount_scott) for panoramic views, spot longhorn cattle along the refuge roads, or fish in one of several lakes.

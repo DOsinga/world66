@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Piramid-Tazumal,_Chalchuap
 latitude: 13.9817
 loc_type: feature
 longitude: -89.6833
-score: 4.978
+score: 4.955
 snippet: El Salvador's best-preserved pre-Columbian site, centred on a 24-metre stepped
   Maya pyramid.
 story: 'Tazumal is El Salvador''s most significant Maya archaeological site, with
@@ -22,10 +22,10 @@ tags:
 - museum
 title: Tazumal Ruins
 type: location
-heritage: 6.661
-vibrancy: 1.347
-nature: 2.744
-off_the_beaten_track: 3.309
+heritage: 6.679
+vibrancy: 1.217
+nature: 2.619
+off_the_beaten_track: 3.466
 ---
 
 The Tazumal ruins at Chalchuapa, about 15 km west of Santa Ana, are the best-preserved pre-Columbian site in El Salvador. The main structure is a stepped pyramid about 24 metres high, and the site contains ball courts, drainage channels, and altar platforms spread across a modest but well-maintained archaeological zone.

@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Badshahi_Mosqu_-_Mughal_Ar
 latitude: 31.565682
 loc_type: city
 longitude: 74.314183
-score: 6.652
+score: 6.954
 title: Lahore
 type: location
 snippet: Punjabi cultural capital where Mughal forts, Sikh monuments, and British
   avenues crowd Pakistan's most atmospheric old city.
-heritage: 4.858
-vibrancy: 7.383
-nature: 1.257
-off_the_beaten_track: 4.564
+heritage: 5.842
+vibrancy: 7.428
+nature: 3.233
+off_the_beaten_track: 4.621
 ---
 
 There is an old Punjabi saying that anyone who hasn't seen Lahore hasn't been born. The city is the historical and cultural capital of Pakistan — less frantic than Karachi, less bureaucratic than Islamabad, and by a distance the country's most atmospheric place to visit. It served as the capital of the Mughal Empire at its peak in the 16th and 17th centuries, and again as the capital of the Sikh Empire under Ranjit Singh in the early 19th century. The result is an unusually rich layering of monuments, from the fortress and gardens of the Mughals to the British-built Mall Road and the Minar-e-Pakistan.

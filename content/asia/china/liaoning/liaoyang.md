@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:%E8%BE%BD%E9%98%B3%E7%99%B
 latitude: 41.2667
 loc_type: city
 longitude: 123.1833
-score: 2.58
+score: 2.033
 snippet: Ancient Liaoning city with over two millennia of history and a landmark Liao
   Dynasty White Pagoda.
 sources:
 - https://en.wikivoyage.org/wiki/Liaoyang
 title: Liaoyang
 type: location
-heritage: 2.416
-vibrancy: 2.305
-nature: 2.885
-off_the_beaten_track: 1.195
+heritage: 2.103
+vibrancy: 2.008
+nature: 2.097
+off_the_beaten_track: 1.312
 ---
 
 Liaoyang is one of the oldest continuously inhabited cities in the northeast, settled for over two thousand four hundred years and serving at different points as a major administrative centre for dynasties ranging from the Han to the Qing. It was, briefly, the Manchu capital: Nurhachi transferred his court here in 1621, calling it Dongjing — the Eastern Capital — before relocating to Shenyang four years later. The city has been quietly accumulating history ever since without particularly announcing itself to the outside world.

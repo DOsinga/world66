@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: 19.945
 longitude: -103.7578
-score: 5.412
+score: 5.19
 snippet: Pine-country Jalisco mountain town with whitewashed streets, giant boulders,
   and waterfall hikes.
 sources:
 - https://en.wikivoyage.org/wiki/Tapalpa
 - https://www.wikidata.org/wiki/Q2270558
-heritage: 5.123
-vibrancy: 4.861
-nature: 6.039
-off_the_beaten_track: 4.244
+heritage: 4.539
+vibrancy: 4.436
+nature: 5.901
+off_the_beaten_track: 4.006
 ---
 
 Tapalpa is a highland town in southern Jalisco, about two hours from [Guadalajara](/northamerica/mexico/guadalajara). It is one of Mexico's Pueblos Magicos, and the appeal is easy to read: white facades, red tile roofs, cold mountain evenings, and pine forest all around.

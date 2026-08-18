@@ -9,15 +9,15 @@ image_source: https://www.flickr.com/photos/52257493@N00/45913985911
 latitude: 37.623962
 loc_type: city
 longitude: -109.47802
-score: 4.835
+score: 4.897
 snippet: Southeastern Utah town on the Colorado Plateau, a base for Ancestral Puebloan
   sites and canyon country.
 title: Blanding
 type: location
-heritage: 3.631
-vibrancy: 2.006
-nature: 5.955
-off_the_beaten_track: 3.235
+heritage: 3.771
+vibrancy: 1.854
+nature: 5.992
+off_the_beaten_track: 3.477
 ---
 
 Blanding is a small town in San Juan County, in the remote canyon country of southeastern Utah. It is not a destination in itself, but it is the best-supplied town in a vast and empty region and makes a practical base for exploring some of the most rewarding archaeology and landscape in the American Southwest.

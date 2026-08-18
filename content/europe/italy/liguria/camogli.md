@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Seafront_of_Camogli,_Ligur
 latitude: 44.3492
 loc_type: city
 longitude: 9.1589
-score: 6.165
+score: 5.723
 snippet: Liguria fishing village of painted harbour houses tucked between Portofino
   headland and the open sea
 sources:
@@ -18,10 +18,10 @@ tags:
 - paradisegulf
 title: Camogli
 type: location
-heritage: 5.299
-vibrancy: 5.367
-nature: 6.963
-off_the_beaten_track: 2.119
+heritage: 4.337
+vibrancy: 5.128
+nature: 6.393
+off_the_beaten_track: 1.788
 ---
 
 Camogli is one of the most pleasant surprises on the Italian Riviera — a compact fishing village of tall, painted houses crammed together above a small [harbour](/europe/italy/liguria/camogli/camogli_harbour), tucked between the Portofino headland and the open Ligurian Sea. The houses are famously colourful, their trompe-l'oeil facades a tradition dating back centuries, and the whole town feels like it has been gently compressed into its narrow strip of coast. The [Castello della Dragonara](/europe/italy/liguria/camogli/castello_della_dragonara) anchors the scene from its rocky promontory above.

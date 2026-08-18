@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:APEC_PUCALLPA_2024_-_53984
 latitude: -8.382074
 loc_type: city
 longitude: -74.538751
-score: 4.969
+score: 5.75
 snippet: Ucayali River jungle city and gateway to Shipibo communities around Lago
   Yarinacocha.
 title: Pucallpa
 type: location
-heritage: 3.264
-vibrancy: 1.908
-nature: 5.878
-off_the_beaten_track: 5.976
+heritage: 2.734
+vibrancy: 2.698
+nature: 6.998
+off_the_beaten_track: 6.275
 ---
 
 Pucallpa is a fast-growing jungle city on the Ucayali River, the main gateway to the central Amazon from Lima. You can reach it by a scenic but grueling overland route from the capital, or by a multi-day boat trip from [Iquitos](/southamerica/peru/iquitos) — one of Peru's great river journeys.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Canal_Vena_in_Chioggia.jpg
 latitude: 45.218894
 loc_type: city
 longitude: 12.278581
-score: 5.578
+score: 5.506
 snippet: Fishing town at the southern Venetian lagoon, with canals, bridges, and a
   working harbour.
 title: Chioggia
 type: location
-heritage: 6.451
-vibrancy: 4.803
-nature: 4.317
-off_the_beaten_track: 1.669
+heritage: 6.245
+vibrancy: 4.99
+nature: 4.832
+off_the_beaten_track: 1.695
 ---
 
 If you think [Venice](/europe/italy/veneto/venice) is too touristy, try Chioggia. Sitting at the southern end of the Venetian lagoon, this compact fishing town has canals, bridges, and colourful buildings that echo Venice, but without the crowds and the inflated prices. Chioggia is a real working town, and its identity revolves around its [fish market](/europe/italy/veneto/chioggia/fish_market), one of the most important on the Adriatic.

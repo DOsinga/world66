@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Belogradchik_(%D0%91%D0%B5
 latitude: 43.626683
 loc_type: city
 longitude: 22.686117
-score: 5.861
+score: 5.371
 snippet: Northwestern Bulgarian town framed by eroded sandstone towers and a fortress
   built into the rocks
 title: Belogradchik
 type: location
-heritage: 7.15
-vibrancy: 2.176
-nature: 4.8
-off_the_beaten_track: 4.369
+heritage: 6.542
+vibrancy: 2.096
+nature: 4.42
+off_the_beaten_track: 3.919
 ---
 
 Belogradchik is a small town in northwest Bulgaria, best known for the extraordinary rock formations that surround it. The [Belogradchik Rocks](/europe/bulgaria/belogradchik/belogradchik_rocks) are sandstone and conglomerate formations rising up to 200 metres, carved by erosion into towers, pillars, and figures that local legend has given names — "The Madonna", "The Monks", "The Bear". The setting is genuinely dramatic.

@@ -4,16 +4,18 @@ done:
   location_enrich: '2026-05-21'
 latitude: 36.426807
 loc_type: city
+longitude: -5.146848
+score: 5.269
 snippet: Costa del Sol town with a whitewashed old quarter, beach promenade, and large-scale
   street murals
-longitude: -5.146848
-score: 4.815
+tags:
+- costa_del_sol
 title: Estepona
 type: location
-heritage: 3.071
-vibrancy: 4.703
-nature: 5.103
-off_the_beaten_track: 1.672
+heritage: 3.16
+vibrancy: 4.972
+nature: 5.765
+off_the_beaten_track: 1.507
 ---
 
 Estepona sits on the western end of the Costa del Sol, and it has managed to hold onto more of its Andalusian identity than most of its neighbours. The [old town](/europe/spain/andalucia/estepona/old_town), with its whitewashed walls and flower-draped balconies, is genuinely charming, and the town has invested heavily in public art and street murals — over 50 large-scale works now cover the facades of the old quarter, the product of an annual street art festival running since 2012.

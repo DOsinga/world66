@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 17.511
 longitude: -97.489
-score: 4.008
+score: 3.747
 snippet: Mixtec Pueblo Magico in Oaxaca, centred on a vast Dominican convent and pre-Hispanic
   ruins
 sources:
@@ -14,10 +14,10 @@ image: san_pedro_y_san_pablo_teposcolula.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Convento_San_pedro_y_san_Pablo_Teposcolula.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Gerardo Corona Alarcón
-heritage: 4.63
-vibrancy: 2.121
-nature: 3.869
-off_the_beaten_track: 3.331
+heritage: 4.232
+vibrancy: 2.279
+nature: 3.835
+off_the_beaten_track: 3.066
 ---
 
 San Pedro y San Pablo Teposcolula, usually shortened to Teposcolula, is a small Mixtec town in the mountains northwest of [Oaxaca](/northamerica/mexico/oaxaca). It is quiet by Mexican Pueblo Magico standards, but it has one exceptional reason to come: a huge 16th-century Dominican complex with one of the finest open chapels in Oaxaca.

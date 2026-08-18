@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: 67.0086
 longitude: -50.6892
-score: 6.335
+score: 6.105
 snippet: Inland Greenland airfield settlement with road access to tundra, musk oxen,
   and the ice sheet.
 sources:
 - https://en.wikivoyage.org/wiki/Kangerlussuaq
 - https://en.wikipedia.org/wiki/Kangerlussuaq
 - https://www.wikidata.org/wiki/Q217538
-heritage: 2.55
-vibrancy: 0.736
-nature: 7.721
-off_the_beaten_track: 6.874
+heritage: 2.28
+vibrancy: 0.923
+nature: 7.316
+off_the_beaten_track: 7.033
 ---
 
 Kangerlussuaq is a strange and useful place: a former military airfield at the head of a long fjord, far inland by Greenland standards, with open tundra on one side and the ice sheet reachable by road on the other. Many travellers pass through the airport and leave, which is a mistake if they have a day to spare.

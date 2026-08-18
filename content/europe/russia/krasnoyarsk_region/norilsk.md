@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 69.3333
 longitude: 88.2167
-score: 5.594
+score: 5.66
 snippet: Closed Arctic industrial city shaped by nickel, permafrost, pollution, and
   Gulag memory.
 sources:
@@ -16,10 +16,10 @@ image: norilsk.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Norilsk_2019.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Пихтарь Виктор Дмитриевич
-heritage: 3.414
-vibrancy: 2.207
+heritage: 2.957
+vibrancy: 2.936
 nature: 6.833
-off_the_beaten_track: 6.022
+off_the_beaten_track: 6.355
 ---
 
 Norilsk is not an easy place to visit, and that is part of the point. This closed industrial city above the Arctic Circle was built around nickel and copper, much of it by Gulag prisoners, and it still sits in a landscape of permafrost, smokestacks, polar weather, and vast distances.

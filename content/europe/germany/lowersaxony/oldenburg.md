@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 53.1439
 longitude: 8.2139
-score: 4.401
+score: 3.797
 snippet: Ducal Lower Saxony city of brick streets, palace gardens, museums, and easy
   cycling.
 sources:
@@ -15,10 +15,10 @@ image: oldenburg.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Oldenburger_Schloss.jpg
 image_license: CC BY 4.0
 image_attribution: Mojnsen
-heritage: 5.468
-vibrancy: 2.992
-nature: 3.38
-off_the_beaten_track: 2.053
+heritage: 4.564
+vibrancy: 2.919
+nature: 3.092
+off_the_beaten_track: 2.271
 ---
 
 Oldenburg is a relaxed city in northwestern Lower Saxony, close enough to [Bremen](/europe/germany/bremen) for an easy side trip but with a quieter identity of its own. It was once the seat of the Grand Duchy of Oldenburg, and that courtly past still shows in the [castle](/europe/germany/lowersaxony/oldenburg/oldenburg_castle), the [Schlossgarten](/europe/germany/lowersaxony/oldenburg/schlossgarten), and the formal buildings around the market square.

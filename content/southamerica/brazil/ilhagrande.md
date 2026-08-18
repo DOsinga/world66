@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ilha_Grande,_Brazil_(17212
 latitude: -23.15
 loc_type: island
 longitude: -44.2333
-score: 5.78
+score: 6.126
 snippet: Car-free Atlantic Forest island on Brazil's Green Coast, known for trails
   and beaches.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Ilha_Grande_State_Park
 title: Ilha Grande
 type: location
-heritage: 3.006
-vibrancy: 2.485
-nature: 7.587
-off_the_beaten_track: 4.497
+heritage: 1.942
+vibrancy: 3.352
+nature: 7.876
+off_the_beaten_track: 4.635
 ---
 
 Ilha Grande is a 193 km² island of Atlantic Forest, granite peaks, and unreasonably beautiful beaches, set in the great bay of [Angra dos Reis](/southamerica/brazil/angradosreis) on Brazil's Green Coast. There are no roads on the island, no cars, no banks, and almost no street lighting; visitors get around on foot, by boat, or — in the village — by handcart. It is one of those rare destinations that arrived in the twenty-first century as a working ecological reserve rather than as a resort, and the result is a place where the rainforest comes right down to the sand.

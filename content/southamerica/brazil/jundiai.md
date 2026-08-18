@@ -2,7 +2,7 @@
 latitude: -23.1864
 loc_type: city
 longitude: -46.8842
-score: 2.771
+score: 2.841
 snippet: São Paulo state city known for fruit farms, wine country, rail history, and
   Serra do Japi.
 sources:
@@ -10,10 +10,10 @@ sources:
 - https://jundiai.sp.gov.br/
 title: Jundiaí
 type: location
-heritage: 2.387
-vibrancy: 2.893
-nature: 2.454
-off_the_beaten_track: 1.209
+heritage: 2.34
+vibrancy: 2.991
+nature: 2.452
+off_the_beaten_track: 1.326
 ---
 
 Jundiaí is more than a middle city between São Paulo and Campinas. Its older identity is agricultural: fruit farms, Italian immigrant families, vineyards and rural restaurants on the edge of the city. Its wilder identity is the [Serra do Japi](/southamerica/brazil/jundiai/serra_do_japi), a protected Atlantic Forest mountain range that gives Jundiaí a green backdrop unusual for an industrial city.

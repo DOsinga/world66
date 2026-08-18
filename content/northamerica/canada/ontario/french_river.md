@@ -4,17 +4,17 @@ type: location
 loc_type: feature
 latitude: 46.12
 longitude: -80.509
-score: 5.603
+score: 5.55
 snippet: Historic Ontario canoe route through shield rock, forest, rapids, and Georgian
   Bay channels.
 sources:
 - https://en.wikivoyage.org/wiki/French_River
 - https://en.wikipedia.org/wiki/French_River_(Ontario)
 - https://www.ontarioparks.ca/park/frenchriver
-heritage: 3.571
-vibrancy: 1.452
-nature: 7.171
-off_the_beaten_track: 4.237
+heritage: 3.444
+vibrancy: 1.29
+nature: 7.113
+off_the_beaten_track: 4.882
 ---
 
 French River is both a small Ontario municipality and, more importantly for travellers, a historic waterway running from Lake Nipissing toward Georgian Bay. The river cuts through Canadian Shield country: dark water, granite, pines, rapids, marshy channels, and quiet backcountry campsites.

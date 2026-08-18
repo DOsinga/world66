@@ -10,11 +10,11 @@ sources:
 - https://en.wikipedia.org/wiki/St._Mary%27s_City,_Maryland
 title: St. Mary's City
 type: location
-score: 5.375
-heritage: 6.992
-vibrancy: 3.055
-nature: 3.316
-off_the_beaten_track: 2.579
+score: 4.886
+heritage: 6.283
+vibrancy: 2.927
+nature: 3.001
+off_the_beaten_track: 2.637
 ---
 
 St. Mary's City is not really a city now. It is the site of Maryland's first colonial capital, spread along the St. Marys River in southern Maryland, with a small college campus beside it and a large historic area where archaeologists have rebuilt pieces of the 17th-century settlement.

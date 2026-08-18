@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 53.53
 longitude: -114.0064
-score: 2.387
+score: 2.383
 snippet: Edmonton-area prairie town with a downtown mural trail, pioneer museum, and
   local arts scene.
 wikidata: Q1744021
@@ -12,10 +12,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Stony_Plain
 - https://en.wikipedia.org/wiki/Stony_Plain,_Alberta
 - https://www.stonyplain.com/play/art-and-culture-programs/art-in-public-places/
-heritage: 2.265
-vibrancy: 1.631
-nature: 2.74
-off_the_beaten_track: 2.268
+heritage: 2.313
+vibrancy: 1.552
+nature: 2.713
+off_the_beaten_track: 2.353
 ---
 
 Stony Plain is close to Edmonton and Spruce Grove, but it is not just another suburb if you give it a few hours. The town has leaned hard into public art, calling itself the "Town with the Painted Past", and the murals make downtown more interesting than its size suggests.

@@ -11,13 +11,13 @@ loc_type: city
 snippet: Breton fishing port where weekday trawler landings and langoustine auctions
   define the waterfront
 longitude: -4.285826
-score: 4.708
+score: 5.016
 title: Guilvinec
 type: location
-heritage: 4.248
-vibrancy: 3.14
-nature: 5.497
-off_the_beaten_track: 4.143
+heritage: 4.24
+vibrancy: 3.033
+nature: 5.977
+off_the_beaten_track: 4.323
 ---
 
 Guilvinec is not a pretty town. At low tide the harbour is a mudscape of ropes and rusted chains, and the waterfront architecture owes more to function than aesthetics. But none of that matters, because Guilvinec is France's leading artisanal fishing port, and around 4pm on any weekday the place comes alive in a way that no polished resort can match. Trawlers nose into the harbour mouth one after another, dockers haul crates of wriggling langoustines onto the quay, and half the town turns out to watch. The langoustines here are nicknamed 'demoiselles du Guilvinec' and they are superb.

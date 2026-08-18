@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: 36.8151
 longitude: 127.1139
-score: 2.485
+score: 2.521
 snippet: Central Korean rail city with independence memorials, mountain temples, and
   a serious sundae street.
 sources:
 - https://en.wikivoyage.org/wiki/Cheonan
 - https://en.wikipedia.org/wiki/Cheonan
-heritage: 2.329
-vibrancy: 1.794
-nature: 2.864
-off_the_beaten_track: 2.43
+heritage: 2.317
+vibrancy: 1.802
+nature: 2.926
+off_the_beaten_track: 2.437
 ---
 
 Cheonan is an easy day trip south of Seoul, close enough on the KTX to feel suburban but with a stronger identity than most commuter towns. It is best known for Korean independence history: the huge [Independence Hall of Korea](/asia/southkorea/cheonan/independence_hall_of_korea) sits east of town, while the Yu Gwan-sun sites in Byeongcheon keep the March 1st independence movement close to the surface.

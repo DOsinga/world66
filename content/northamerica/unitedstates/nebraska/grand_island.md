@@ -5,7 +5,7 @@ loc_type: city
 latitude: 40.9264
 longitude: -98.342
 wikidata: Q461826
-score: 2.633
+score: 2.351
 snippet: Central Nebraska rail city tied to Platte River cranes and prairie pioneer
   history.
 sources:
@@ -17,10 +17,10 @@ image: grand_island.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Stuhr_Museum_04.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Myotus
-heritage: 2.23
-vibrancy: 2.003
-nature: 3.113
-off_the_beaten_track: 1.799
+heritage: 1.941
+vibrancy: 1.819
+nature: 2.765
+off_the_beaten_track: 1.845
 ---
 
 Grand Island is a practical central Nebraska city with one excellent reason to stop: the Platte River's sandhill crane migration. For a few weeks in late winter and early spring, the fields and river channels south of town fill with birds in numbers that make the flat landscape feel suddenly theatrical.

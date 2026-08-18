@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kernave_mounds_20200926.jp
 latitude: 54.8833
 loc_type: feature
 longitude: 24.85
-score: 5.372
+score: 4.231
 snippet: UNESCO-listed archaeological landscape where Lithuania's early capital rises
   above the Neris valley
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Kernav%C4%97
 title: Kernave
 type: location
-heritage: 7.032
-vibrancy: 1.152
-nature: 3.312
-off_the_beaten_track: 4.084
+heritage: 5.292
+vibrancy: 1.182
+nature: 3.169
+off_the_beaten_track: 4.434
 ---
 
 Kernave is the place where Lithuania's deep past suddenly becomes visible. A small modern village sits above the Neris valley, but the reason to come is the UNESCO-listed archaeological reserve: five green hillforts, traces of a medieval town, burial grounds, and a landscape that has been occupied for thousands of years.

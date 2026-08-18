@@ -9,15 +9,15 @@ image_source: https://www.flickr.com/photos/21208051@N00/31713402884
 latitude: 42.8676
 loc_type: city
 longitude: -72.8648
-score: 5.237
+score: 5.303
 snippet: Southern Vermont town in the Deerfield River valley below Mount Snow’s ski
   slopes.
 title: Wilmington
 type: location
-heritage: 4.393
-vibrancy: 3.613
-nature: 6.256
-off_the_beaten_track: 3.301
+heritage: 3.928
+vibrancy: 3.671
+nature: 6.446
+off_the_beaten_track: 3.48
 ---
 
 Wilmington is a small town in southern Vermont, set in the Deerfield River valley beneath the ski slopes of [Mount Snow](/northamerica/unitedstates/vermont/wilmington/mount_snow). It is a year-round destination — in winter for the skiing at Mount Snow, one of southern New England's most popular ski resorts, and in summer for hiking, mountain biking, and the relaxed pace of rural Vermont.

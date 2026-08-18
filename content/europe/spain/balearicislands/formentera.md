@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cap_de_Barbaria,_Formenter
 latitude: 38.7062
 loc_type: city
 longitude: 1.4334
-score: 5.76
+score: 6.116
 snippet: Quiet Balearic island south of Ibiza, defined by white beaches, bicycles,
   and low-key villages.
 title: Formentera
 type: location
-heritage: 3.222
-vibrancy: 6.481
-nature: 3.895
-off_the_beaten_track: 1.606
+heritage: 0.316
+vibrancy: 6.661
+nature: 4.708
+off_the_beaten_track: 2.251
 ---
 
 Formentera is the smallest and quietest of the main Balearic Islands, just a short ferry ride south of [Ibiza](/europe/spain/balearicislands/ibiza). It lacks the club scene and the crowds, and that is precisely the point — Formentera is about beaches, bicycles, and doing very little. The island's beaches are among the best in the Mediterranean: Platja de Ses Illetes and Platja de Migjorn have white sand and water so clear it looks Caribbean.

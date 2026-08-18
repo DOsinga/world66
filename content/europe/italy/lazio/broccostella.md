@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Sora-Broccostella-Carnello
 latitude: 41.702731
 loc_type: city
 longitude: 13.63782
-score: 4.863
+score: 4.747
 title: Broccostella
 type: location
 snippet: Small Lazio hill village in the Comino Valley, with stone streets and views
   over southern countryside.
-heritage: 5.103
-vibrancy: 1.654
-nature: 5.374
-off_the_beaten_track: 2.84
+heritage: 5.262
+vibrancy: 1.676
+nature: 5.085
+off_the_beaten_track: 2.746
 ---
 
 Broccostella is a small hill village in the Comino Valley in southern Lazio, close to the border with Campania. Set on a ridge above the valley, it has the typical character of a central Italian medieval village — stone streets, a parish church, views over the surrounding countryside. The valley below was historically important as a route between Rome and Naples and has some minor Roman remains. Broccostella itself is very quiet and sees almost no tourism; it suits those looking to experience an authentic, unhurried corner of Lazio.

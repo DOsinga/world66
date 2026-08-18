@@ -4,15 +4,15 @@ type: location
 loc_type: city
 latitude: 10.1061
 longitude: 123.6402
-score: 4.129
+score: 3.645
 snippet: Old Cebuano town known for Spanish-era houses, a grand church, and roadside
   lechon.
 source: Wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Carcar
-heritage: 5.146
-vibrancy: 2.777
-nature: 3.134
-off_the_beaten_track: 2.873
+heritage: 4.223
+vibrancy: 3.124
+nature: 3.303
+off_the_beaten_track: 2.909
 ---
 
 Carcar is an old colonial town on Cebu's south coast, about 40 km from Cebu City. It is not a resort and does not try to be one. The draw is the cluster of Spanish-era houses, the big parish church, the town plaza, and the local food stalls that made Carcar a Cebuano stop in its own right.

@@ -4,15 +4,15 @@ done:
 latitude: 25.8167
 loc_type: feature
 longitude: 12.3833
-score: 5.411
+score: 4.615
 snippet: Saharan rock art site with sandstone petroglyphs depicting ancient wildlife
   and pastoral scenes.
 title: Wadi Matkhandoush
 type: location
-heritage: 3.555
-vibrancy: 1.625
-nature: 6.094
-off_the_beaten_track: 7.512
+heritage: 2.994
+vibrancy: 1.085
+nature: 4.243
+off_the_beaten_track: 7.536
 ---
 
 Wadi Matkhandoush is one of the most important rock art sites in the Sahara — a 12 km stretch of desert-varnished sandstone covered in petroglyphs dating from 10,000 BC to around 2,000 BC. The carvings depict elephants, giraffes, hippos, crocodiles, and domestic cattle — evidence of a time when this desert was green savanna. You will see no camel carvings, which seems strange until you learn that the camel was only introduced to the Sahara around 200 BC.

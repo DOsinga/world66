@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:South_Main_Street,_Wexford
 latitude: 52.3383
 loc_type: city
 longitude: -6.4617
-score: 4.434
+score: 4.216
 snippet: Southeast Irish harbour town with Viking roots and an outsized international
   opera festival.
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://irishheritage.ie/
 title: Wexford Town
 type: location
-heritage: 4.92
-vibrancy: 3.97
-nature: 4.741
-off_the_beaten_track: 1.886
+heritage: 4.171
+vibrancy: 4.002
+nature: 4.601
+off_the_beaten_track: 2.021
 ---
 
 Wexford Town sits near the mouth of the River Slaney, where a shallow harbour, narrow medieval lanes, and a surprisingly serious opera tradition meet. It is not as polished as Kilkenny or as busy as Cork, but it has a lived-in southeast character and one of Ireland's best cultural surprises.

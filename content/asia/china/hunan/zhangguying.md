@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:%E5%BC%A0%E8%B0%B7%E8%8B%B
 latitude: 29.0063
 loc_type: feature
 longitude: 113.4815
-score: 3.373
+score: 3.119
 snippet: Hunan clan village of Ming and Qing courtyards, covered lanes, and more than
   1,700 rooms.
 sources:
 - https://en.wikivoyage.org/wiki/Hunan
 title: Zhangguying Village
 type: location
-heritage: 2.965
-vibrancy: 1.724
-nature: 3.972
-off_the_beaten_track: 3.722
+heritage: 3.133
+vibrancy: 1.837
+nature: 3.506
+off_the_beaten_track: 3.272
 ---
 
 Zhangguying Village, in Yueyang County about 80 kilometres east of [Yueyang](/asia/china/hunan/yueyang) city, is a Ming and Qing-dynasty residential complex covering over 50,000 square metres and containing 1,732 rooms in a continuous warren of courtyards, covered streets, and interconnected halls. The settlement was named after its founding ancestor Zhang Guying and grew over successive generations into a complete village-within-a-village: a dense arrangement of clan architecture in which every major family function — ceremonial, residential, commercial, defensive — had its designated spatial expression. It is rated by the Chinese state as the best-preserved vernacular residential complex of its period in south-central China.

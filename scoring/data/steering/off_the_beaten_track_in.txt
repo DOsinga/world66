@@ -91,10 +91,9 @@ africa/sierraleone/kenema	8.264	90	Kenema	Africa, Sierra Leone
 africa/eritrea/danakildepression	8.257	91	Danakil Depression	Africa, Eritrea
 africa/libya/misurata	8.254	92	Misurata	Africa, Libya
 africa/somaliland/xiis	8.252	93	Xiis	Africa, Somaliland
-asia/indonesia/irianjaya/asmat	8.249	94	Asmat	Asia, Indonesia, Irian Jaya
-asia/indonesia/timor	8.249	95	Timor	Asia, Indonesia
+asia/indonesia/papua/asmat	8.249	94	Asmat	Asia, Indonesia, Irian Jaya
 asia/china/qinghai/maduo	8.247	96	Maduo	Asia, China, Qinghai Province
 africa/centralafricanrepublic/berberati	8.245	97	Berbérati	Africa, Central African Republic
 asia/yemen/hadramawt	8.243	98	Hadramawt	Asia, Yemen
 asia/afghanistan/mazarisharif	8.239	99	Mazar-i-Sharif	Asia, Afghanistan
-asia/japan/ryukyuislands/yonaguniisland	8.236	100	Yonaguni Island	Asia, Japan, Ryukyu islands
+asia/japan/okinawa/yonaguniisland	8.236	100	Yonaguni Island	Asia, Japan, Ryukyu islands

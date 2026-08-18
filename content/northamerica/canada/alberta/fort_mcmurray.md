@@ -5,7 +5,7 @@ loc_type: city
 latitude: 56.7267
 longitude: -111.3803
 wikidata: Q126624
-score: 4.266
+score: 5.031
 snippet: Northern Alberta oil-sands boomtown where industry, rivers, boreal forest,
   and winter light meet.
 sources:
@@ -18,10 +18,10 @@ image: fort_mcmurray.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Oil_Sands_Discovery_Centre_3.jpg
 image_license: CC BY-SA 2.0
 image_attribution: sbamueller
-heritage: 2.548
-vibrancy: 2.5
-nature: 5.042
-off_the_beaten_track: 5.144
+heritage: 2.634
+vibrancy: 3.209
+nature: 6.164
+off_the_beaten_track: 5.354
 ---
 
 Fort McMurray is not a pretty northern town, and that is not the point. It is the service city for the Athabasca oil sands, a place where global energy, boreal forest, river geography, Indigenous history, boom-and-bust economics, and wildfire memory all meet in the same streets.

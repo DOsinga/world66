@@ -5,7 +5,7 @@ done:
 latitude: 36.022873
 loc_type: city
 longitude: -95.968328
-score: 2.396
+score: 1.706
 title: Jenks
 type: location
 image: jenks.jpg
@@ -14,10 +14,10 @@ image_license: CC BY 3.0
 image_attribution: Thomas Vaughan
 snippet: Jenks is a small Arkansas River town near Tulsa, known for its aquarium and
   antique dealers.
-heritage: 2.382
-vibrancy: 2.356
-nature: 2.501
-off_the_beaten_track: 1.039
+heritage: 1.681
+vibrancy: 1.728
+nature: 1.458
+off_the_beaten_track: 1.3
 ---
 
 Jenks sits on the west bank of the Arkansas River in Tulsa County, just south of Tulsa itself. It is a small town of around 10,000 people that managed to reinvent itself: once dependent on oil, it now draws visitors for two very different reasons — a first-rate aquarium and a remarkable concentration of antique dealers.

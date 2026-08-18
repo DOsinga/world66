@@ -2,7 +2,7 @@
 latitude: 68.181
 loc_type: city
 longitude: 27.1
-score: 6.533
+score: 6.336
 snippet: Tiny Lapland gold-prospecting village beside Urho Kekkonen National Park
   trails.
 sources:
@@ -11,10 +11,10 @@ sources:
 - https://www.kultamuseo.fi/
 title: Tankavaara
 type: location
-heritage: 2.365
-vibrancy: 0.816
-nature: 8.167
-off_the_beaten_track: 6.422
+heritage: 1.914
+vibrancy: 0.936
+nature: 7.834
+off_the_beaten_track: 6.513
 ---
 
 Tankavaara is a tiny roadside village in Finnish Lapland, but it has a clearer reason to exist for travellers than many larger towns. Gold was found in the area in the 1930s, and the village has turned that history into a compact gold-prospecting stop on the E75 between Sodankylä and Saariselkä.

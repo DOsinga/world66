@@ -5,7 +5,7 @@ loc_type: city
 latitude: -37.1384
 longitude: 175.5405
 wikidata: Q1691479
-score: 5.061
+score: 4.79
 snippet: Coromandel gold-rush town with Victorian streets and the main road into Kauaeranga
   Valley.
 story: 'The Thames goldfield was discovered in 1867, and within months the population
@@ -25,10 +25,10 @@ image: thames.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Shore_of_Firth_of_Thames_01.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Krzysztof Golik
-heritage: 2.612
-vibrancy: 1.935
-nature: 6.737
-off_the_beaten_track: 3.256
+heritage: 2.556
+vibrancy: 1.494
+nature: 6.29
+off_the_beaten_track: 3.719
 ---
 
 Thames is the old gold town at the southwestern edge of the [Coromandel Peninsula](/australiaandpacific/newzealand/coromandelpeninsula), where the Waihou River meets the Firth of Thames. It is not the beachy Coromandel of postcards. It is older, more practical, and more interesting if you like towns that still show their working past.

@@ -2,7 +2,7 @@
 latitude: 49.5572
 loc_type: feature
 longitude: -123.2355
-score: 5.538
+score: 5.231
 snippet: Howe Sound corridor of steep coast, mining history, parks, and Sea to Sky
   viewpoints.
 sources:
@@ -12,10 +12,10 @@ sources:
 title: Lions Bay-Britannia Beach
 type: location
 wikidata: Q43465
-heritage: 2.185
-vibrancy: 1.547
-nature: 7.515
-off_the_beaten_track: 3.504
+heritage: 2.188
+vibrancy: 1.193
+nature: 6.96
+off_the_beaten_track: 3.762
 ---
 
 Lions Bay-Britannia Beach is the steep, scenic stretch of Howe Sound between West Vancouver and Squamish. Most people see it through a windshield on the Sea to Sky Highway, then keep going to Whistler. That is a shame, because the road here passes some of the easiest short escapes from Vancouver: pocket beaches, dark forest trails, mountain viewpoints, and the old Britannia copper mine.

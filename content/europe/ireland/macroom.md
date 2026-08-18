@@ -2,17 +2,17 @@
 latitude: 51.904
 loc_type: city
 longitude: -8.957
-score: 4.741
+score: 4.906
 snippet: Cork market town between the Lee Valley, ruined castles, and The Gearagh
   wetland.
 sources:
 - https://en.wikivoyage.org/wiki/Macroom
 title: Macroom
 type: location
-heritage: 3.575
-vibrancy: 2.062
-nature: 5.834
-off_the_beaten_track: 3.256
+heritage: 3.876
+vibrancy: 1.95
+nature: 5.961
+off_the_beaten_track: 3.463
 ---
 
 Macroom is a small market town in County Cork, set where the fertile Lee Valley begins to give way to rougher uplands on the road toward Kerry. It is not a grand destination, but it has a good one-day shape: a castle gate in town, a strange drowned wetland nearby, and several hard-edged pieces of Irish history in the surrounding countryside.

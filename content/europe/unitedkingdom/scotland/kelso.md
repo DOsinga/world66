@@ -11,15 +11,15 @@ loc_type: city
 snippet: Scottish Borders market town at the Tweed and Teviot confluence, with a grand
   square and ruined abbey.
 longitude: -2.433837
-score: 3.919
+score: 3.607
 sources:
 - https://en.wikipedia.org/wiki/Kelso,_Scottish_Borders
 title: Kelso
 type: location
-heritage: 4.735
-vibrancy: 2.495
-nature: 3.312
-off_the_beaten_track: 2.082
+heritage: 4.28
+vibrancy: 2.468
+nature: 3.227
+off_the_beaten_track: 2.144
 ---
 
 Kelso is one of the most appealing towns in the Scottish Borders, built at the confluence of the Tweed and Teviot rivers. [The Square](/europe/unitedkingdom/scotland/kelso/the_square) — a broad cobbled space fed by four streets and lined with Georgian and Victorian stone buildings — feels genuinely lived-in rather than preserved for tourists. Walter Scott, who attended school here as a boy, called it the most beautiful in Scotland.

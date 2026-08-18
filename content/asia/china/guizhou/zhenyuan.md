@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:A_bridge_in_Zhenyuan_Count
 latitude: 27.0517
 loc_type: city
 longitude: 108.4176
-score: 5.024
+score: 4.965
 snippet: Guizhou ancient town where wooden riverside houses and cliff temples crowd
   a Wuyang River gorge.
 sources:
 - https://en.wikivoyage.org/wiki/Zhenyuan
 title: Zhenyuan
 type: location
-heritage: 4.786
-vibrancy: 1.894
-nature: 5.759
-off_the_beaten_track: 3.966
+heritage: 4.645
+vibrancy: 1.766
+nature: 5.727
+off_the_beaten_track: 4.132
 ---
 
 Zhenyuan is one of the most satisfying ancient towns in China, which is a strong claim in a country that has preserved — or reconstructed — a great many of them. What makes it different is the setting: the [riverside old town](/asia/china/guizhou/zhenyuan/riverside_old_town) sits along the [Wuyang River](/asia/china/guizhou/zhenyuan/wuyang_river_gorge) in a narrow gorge between limestone karst cliffs, with wooden houses climbing the banks on both sides and temple complexes attached directly to the cliff faces above. At night, when the stone walls and overhanging rocks are lit from below and reflected in the river, the effect is theatrical in the best sense.

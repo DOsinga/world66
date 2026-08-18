@@ -2,7 +2,7 @@
 latitude: 36.45
 loc_type: feature
 longitude: 58.9667
-score: 5.368
+score: 5.081
 snippet: Mountain range west of Mashhad rising to 3,211 m, with hiking trails, a small
   ski field, and cool foothill resort towns.
 title: Binalud Range
@@ -11,10 +11,10 @@ image: binalud.jpg
 image_source: https://commons.wikimedia.org/wiki/File:The_Binalud_mountain_range,_Neyshabur_,_Near_the_Hakim_Hospital.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Ehsan Basafa
-heritage: 1.969
-vibrancy: 1.381
-nature: 6.672
-off_the_beaten_track: 5.403
+heritage: 2.398
+vibrancy: 1.55
+nature: 6.229
+off_the_beaten_track: 5.393
 ---
 
 The Binalud range rises immediately west of [Mashhad](/asia/iran/mashhad), forming the green wall that separates the city from the plain of [Neyshabur](/asia/iran/neyshabur) beyond. Its high point is Mount Binalud at 3,211 m, and the range is the natural lung of the region — the place Mashhadis head when the summer heat settles over the city.

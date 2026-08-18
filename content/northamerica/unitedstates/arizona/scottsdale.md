@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:20080409-ScottsdaleAZ-Arts
 latitude: 33.494219
 loc_type: city
 longitude: -111.926018
-score: 5.791
+score: 5.678
 snippet: Sonoran Desert resort city beside Phoenix, with adobe Old Town galleries
   and polished spa culture.
 title: Scottsdale
 type: location
-heritage: 2.995
-vibrancy: 6.04
-nature: 5.149
-off_the_beaten_track: 1.08
+heritage: 3.405
+vibrancy: 5.963
+nature: 4.942
+off_the_beaten_track: 1.058
 ---
 
 Scottsdale sits on the eastern edge of the Phoenix metropolitan area, separated from its neighbor by manicured golf courses and the sharp geometry of the Sonoran Desert. It is one of the American Southwest's most polished resort towns — a place of pink-hued sunsets, art galleries, upscale spas, and the kind of outdoor lifestyle that draws sun-seekers from across the country.

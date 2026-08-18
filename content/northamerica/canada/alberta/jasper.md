@@ -16,7 +16,7 @@ quick_facts:
   Dark-Sky Preserve: Among world's largest
   Icefields Parkway: Glacier-lined drive
   Park Area: 11,000 km²
-score: 5.466
+score: 5.71
 snippet: Canadian Rockies mountain town inside Jasper National Park, quieter than
   Banff and surrounded by wilderness
 tip: Jasper is Banff's wilder, quieter northern cousin in the same Rockies — and one
@@ -25,10 +25,10 @@ tip: Jasper is Banff's wilder, quieter northern cousin in the same Rockies — a
   Glacier. You'll need a Parks Canada pass. Keep your distance from elk and bears.
 title: Jasper
 type: location
-heritage: 1.965
-vibrancy: 1.781
-nature: 7.179
-off_the_beaten_track: 4.238
+heritage: 2.149
+vibrancy: 1.531
+nature: 7.462
+off_the_beaten_track: 4.55
 ---
 
 Jasper sits at the heart of the largest national park in the Canadian Rockies, a small mountain town of around 4,500 people surrounded by an almost absurd amount of wilderness. Unlike its busier neighbour Banff to the south, Jasper has kept a quieter, more laid-back character. The town itself is compact and walkable, with most restaurants and shops clustered along Patricia Street and Connaught Drive.

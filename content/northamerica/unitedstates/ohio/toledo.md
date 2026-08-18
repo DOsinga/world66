@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:20200805_22_Maumee_River,_
 latitude: 41.652914
 loc_type: city
 longitude: -83.537817
-score: 3.8
+score: 3.193
 snippet: Northwest Ohio industrial city on the Maumee River, strongly associated with
   glassmaking and art.
 title: Toledo
 type: location
-heritage: 3.778
-vibrancy: 3.837
-nature: 2.693
-off_the_beaten_track: 1.171
+heritage: 3.145
+vibrancy: 3.235
+nature: 2.412
+off_the_beaten_track: 1.519
 ---
 
 Toledo is an industrial city of about 270,000 people on the Maumee River in northwest Ohio, at the western end of Lake Erie. It has an honest rust-belt character that doesn't pretend to be something it isn't — and it has one genuinely excellent reason to visit. The [Toledo Museum of Art](/northamerica/unitedstates/ohio/toledo/toledo_museum_of_art) holds one of the most comprehensive art collections in the United States, particularly strong in glass art (Toledo has a long history of glass manufacturing), ancient Greek and Roman works, and European painting. The museum's Glass Pavilion, a stunning contemporary building designed by SANAA, is worth the trip on its own.

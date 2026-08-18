@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Ramah_(5276067887
 latitude: 35.325
 loc_type: city
 longitude: -108.4878
-score: 5.779
+score: 5.502
 snippet: Tiny New Mexico ranching town in a sandstone-rimmed valley near Zuni Pueblo
   and El Morro National Monument
 title: Ramah
 type: location
-heritage: 4.999
-vibrancy: 1.595
-nature: 6.839
-off_the_beaten_track: 4.145
+heritage: 4.165
+vibrancy: 1.514
+nature: 6.763
+off_the_beaten_track: 4.728
 ---
 
 Tiny Ramah is located in a lush valley rimmed with sandstone cliffs, south of Gallup and east of Zuni Pueblo. It started as a Mormon colony in the 1870s and continues today as a small ranching and farming settlement — tall cottonwood trees shade sandstone houses built in the previous century. For whatever reason, it made Frommer's top-10 list of up-and-coming tourism destinations. The locals are all puzzled about this.

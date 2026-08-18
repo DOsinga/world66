@@ -2,7 +2,7 @@
 latitude: 2.9264
 loc_type: city
 longitude: 101.6964
-score: 4.27
+score: 4.209
 snippet: Malaysia's purpose-built federal administrative capital, 25 km south of KL,
   known for its lake, bridges and pink-domed mosque.
 title: Putrajaya
@@ -11,10 +11,10 @@ image: putrajaya.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Putrajaya_Malaysia_Seri-Gemilang-Bridge-01.jpg
 image_license: CC BY-SA 3.0
 image_attribution: CEphoto, Uwe Aranas
-heritage: 3.521
-vibrancy: 3.649
-nature: 4.855
-off_the_beaten_track: 1.289
+heritage: 3.266
+vibrancy: 3.777
+nature: 4.699
+off_the_beaten_track: 1.327
 ---
 
 Putrajaya is Malaysia's planned administrative capital, carved out of former oil-palm estates in the late 1990s to relieve the congestion of central Kuala Lumpur. The federal government's ministries and the prime minister's office moved here, and the result is a strikingly orderly city of grand boulevards, manicured parks and a man-made lake, sitting about 25 km south of KL between the city and the international airport. It makes an easy half-day trip, more interesting for its monumental architecture and civic ambition than for any traditional sense of place.

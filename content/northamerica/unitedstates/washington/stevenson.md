@@ -5,7 +5,7 @@ loc_type: city
 latitude: 45.6961
 longitude: -121.8883
 wikidata: Q514457
-score: 5.451
+score: 5.411
 snippet: Columbia River Gorge town on Washington's quieter bank, with river views,
   trails, and gorge history.
 sources:
@@ -19,10 +19,10 @@ image: stevenson.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Columbia_River_Gorge,_Stevenson,_Washington_(36695120860).jpg
 image_license: Public domain
 image_attribution: U.S. Forest Service- Pacific Northwest Region
-heritage: 3.717
-vibrancy: 1.695
-nature: 6.873
-off_the_beaten_track: 3.854
+heritage: 3.858
+vibrancy: 1.46
+nature: 6.752
+off_the_beaten_track: 4.249
 ---
 
 Stevenson sits on the Washington side of the Columbia River Gorge, across the water from Cascade Locks and the busy Oregon corridor. It is a small town, but it has a real reason to exist in a travel guide: river views, gorge history, and quick access to some of the best short hikes on the north bank.

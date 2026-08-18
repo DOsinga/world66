@@ -5,15 +5,15 @@ done:
 latitude: 9.5277
 loc_type: city
 longitude: 45.538
-score: 5.342
+score: 5.814
 snippet: Dusty Somaliland market city where camel and goat trading underpins the central
   plains
 title: Burao
 type: location
-heritage: 3.753
-vibrancy: 2.457
-nature: 2.583
-off_the_beaten_track: 9.476
+heritage: 5.52
+vibrancy: 2.324
+nature: 3.735
+off_the_beaten_track: 9.452
 ---
 
 Burao is the second largest city in [Somaliland](/africa/somaliland) and the capital of the Togdheer region, sitting in the dry central plains roughly halfway between Hargeisa and the coast. It is a major [livestock market](/africa/somaliland/burao/livestock_market) — the trade in camels, goats, and sheep is the economic backbone of the city and the surrounding pastoral communities.

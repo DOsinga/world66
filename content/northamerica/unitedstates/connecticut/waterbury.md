@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 41.5581
 longitude: -73.0514
-score: 2.512
+score: 2.745
 snippet: Connecticut's old Brass City, with Cass Gilbert civic architecture and a
   revived theater downtown.
 wikidata: Q49178
@@ -13,10 +13,10 @@ sources:
 - https://www.waterburyct.org/
 - https://www.mattmuseum.org/
 - https://www.palacetheaterct.org/
-heritage: 2.542
-vibrancy: 2.52
-nature: 2.209
-off_the_beaten_track: 0.972
+heritage: 3.228
+vibrancy: 2.255
+nature: 2.078
+off_the_beaten_track: 1.048
 ---
 
 Waterbury is Connecticut's Brass City, a Naugatuck Valley industrial city whose factories once turned out brass, clocks, buttons, and metal goods on a national scale. It is rougher around the edges than the state's postcard towns, but that is part of the point: Waterbury feels like a real working city, not a preserved village.

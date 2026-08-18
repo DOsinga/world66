@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Ushuaia_aerial_panorama.jp
 latitude: -54.8073
 loc_type: city
 longitude: -68.3084
-score: 6.412
+score: 6.115
 sources:
 - https://en.wikipedia.org/wiki/Ushuaia
 - https://en.wikipedia.org/wiki/Tierra_del_Fuego_National_Park
 title: Ushuaia
 type: location
 snippet: Tierra del Fuego city on the Beagle Channel, framed by the Martial mountains.
-heritage: 3.934
-vibrancy: 4.222
-nature: 7.899
-off_the_beaten_track: 5.302
+heritage: 0.945
+vibrancy: 3.249
+nature: 7.74
+off_the_beaten_track: 5.698
 ---
 
 Ushuaia claims to be the southernmost city in the world, and the setting backs it up: wedged between the Martial mountains and the Beagle Channel on the southern coast of Tierra del Fuego, it feels genuinely remote. The town of around 80,000 people is the main base for exploring [Tierra del Fuego National Park](/southamerica/argentina/patagonia/ushuaia/tierra_del_fuego_national_park) and for boat trips through the islands of the [Beagle Channel](/southamerica/argentina/patagonia/ushuaia/beagle_channel), where you can see sea lions, penguins, and cormorants.

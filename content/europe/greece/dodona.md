@@ -11,12 +11,12 @@ image: dodona.jpg
 image_source: https://commons.wikimedia.org/wiki/File:%22%C3%84ltestes_Orkaelheiligtum%22_in_Griechenland_ist_die_Eiche_von_Dodona._19.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Holger Uwe Schmitt
-score: 5.9
+score: 5.713
 loc_type: feature
-heritage: 7.123
-vibrancy: 2.69
-nature: 5.001
-off_the_beaten_track: 2.252
+heritage: 6.896
+vibrancy: 2.869
+nature: 4.843
+off_the_beaten_track: 2.248
 ---
 
 Dodona was the oldest oracle in Greece, older even than Delphi. Tucked into a green valley in Epirus, surrounded by the mountains of northwestern Greece, it was sacred to Zeus, and priests interpreted the god's will by listening to the rustling of a sacred oak tree. Pilgrims came from across the Greek world to ask questions, scratching them onto small lead tablets. Thousands of these tablets have been found, and reading them is surprisingly moving: people asked about lost property, business decisions, whether to marry, whether their children were really theirs.

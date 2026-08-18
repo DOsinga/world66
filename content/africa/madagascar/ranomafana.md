@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Madagascar_Brush_Warbler_-
 latitude: -21.25
 loc_type: feature
 longitude: 47.45
-score: 5.909
+score: 5.834
 snippet: Rainforest park village known for hot springs, lemurs, waterfalls, and steep
   green valleys.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://parcs-madagascar.com/en/parc/ranomafana-2/
 title: Ranomafana
 type: location
-heritage: 1.127
-vibrancy: 0.867
-nature: 7.468
-off_the_beaten_track: 5.539
+heritage: 1.433
+vibrancy: 1.08
+nature: 7.344
+off_the_beaten_track: 5.569
 ---
 
 Ranomafana is both a village and a rainforest destination, but travellers come for the forest. The national park protects a wet, steep, tangled slice of eastern Madagascar where mist hangs in the valleys and lemurs move through bamboo, palms, and mossy trees.

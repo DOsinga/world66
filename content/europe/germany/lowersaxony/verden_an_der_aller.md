@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 52.9222
 longitude: 9.2535
-score: 3.91
+score: 4.133
 snippet: Lower Saxon river town known for its Gothic cathedral, horse culture, and
   Charlemagne-era history.
 sources:
@@ -14,10 +14,10 @@ image: verden_an_der_aller.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Verden_an_der_Aller_-_Obere_Str._X_Georgstr._-_panoramio_(28).jpg
 image_license: CC BY 3.0
 image_attribution: Sami The Jaguar
-heritage: 2.336
-vibrancy: 1.742
-nature: 5.071
-off_the_beaten_track: 2.622
+heritage: 2.98
+vibrancy: 1.698
+nature: 5.143
+off_the_beaten_track: 2.497
 ---
 
 Verden an der Aller is a small town between Bremen and Hannover, set where the Aller river bends through the north German plain. Its name carries more history than its quiet streets suggest: Charlemagne's massacre of Saxons in 782 is tied to Verden, and the town later grew around a bishopric whose [cathedral](/europe/germany/lowersaxony/verden_an_der_aller/verden_cathedral) still dominates the old centre.

@@ -6,14 +6,14 @@ latitude: 18.735841
 longitude: 105.69061
 title: Vinh
 type: location
-score: 2.93
+score: 3.178
 loc_type: city
 snippet: Central Vietnamese provincial city rebuilt after wartime destruction, near
   Ho Chi Minh's birthplace.
-heritage: 2.675
-vibrancy: 2.403
-nature: 3.381
-off_the_beaten_track: 2.884
+heritage: 3.026
+vibrancy: 2.669
+nature: 3.636
+off_the_beaten_track: 2.726
 ---
 
 **Vinh** is a provincial city on the central Vietnamese coast, about 300 kilometres south of Hanoi. It is the centre of Nghệ An province, one of the poorest in the country, and it wears this history plainly — the city was almost entirely destroyed by American bombing during the war and was rebuilt in the 1970s with East German assistance, which explains its unusually Soviet character: wide boulevards, planned blocks, and a formality unusual in Vietnamese cities.

@@ -7,15 +7,15 @@ done:
 latitude: 29.4336
 loc_type: city
 longitude: 48.321
-score: 2.749
+score: 2.67
 snippet: Kuwaiti island layered with Dilmun, Hellenistic, and modern war history just
   offshore from Kuwait City.
 title: Failaka Island
 type: location
-heritage: 2.573
-vibrancy: 1.292
-nature: 2.168
-off_the_beaten_track: 4.491
+heritage: 2.764
+vibrancy: 1.699
+nature: 1.961
+off_the_beaten_track: 4.204
 ---
 
 Failaka is an island about 20 km off the coast of [Kuwait City](/asia/kuwait/kuwaitcity), and it is the most historically significant site in the country. The island has been inhabited since the Bronze Age — its tells contain layers from the Dilmun civilisation that controlled Gulf trade four thousand years ago — and later became a Hellenistic outpost known as Ikaros, named by Alexander the Great's fleet. Danish and French archaeologists have worked here for decades, uncovering Greek temples, Dilmun stamp seals, and occupation layers that stretch across four millennia.

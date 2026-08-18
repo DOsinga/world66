@@ -9,15 +9,15 @@ image_source: https://www.flickr.com/photos/114894128@N08/26039097930
 latitude: 39.663982
 loc_type: city
 longitude: 20.852278
-score: 5.82
+score: 5.36
 snippet: Epirus lake city framed by mountains, Ottoman castle walls, and Ali Pasha
   history.
 title: Ioannina
 type: location
-heritage: 6.59
-vibrancy: 4.741
-nature: 5.923
-off_the_beaten_track: 3.273
+heritage: 5.974
+vibrancy: 3.911
+nature: 5.67
+off_the_beaten_track: 2.948
 ---
 
 Ioannina is the capital of Epirus, a city of about 100,000 on the shores of [Lake Pamvotis](/europe/greece/ioannina/lake_pamvotis) in north-western Greece, surrounded by mountains. It is one of the most historically interesting cities in Greece outside Athens — not for ancient ruins but for its layered Ottoman history, its lake with a tiny island at its centre, and its dramatic setting between water and peaks.

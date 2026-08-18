@@ -9,17 +9,17 @@ image_source: https://www.flickr.com/photos/16436271@N02/38826908214
 latitude: 45.15254
 loc_type: city
 longitude: -78.514813
-score: 4.459
+score: 4.2
 snippet: Ontario cottage-country town surrounded by lakes, forest, and rocky Canadian
   Shield highlands.
 title: Haliburton
 type: location
-heritage: 2.547
-vibrancy: 1.321
-nature: 5.562
-off_the_beaten_track: 4.424
+heritage: 2.834
+vibrancy: 1.035
+nature: 5.116
+off_the_beaten_track: 4.569
 ---
 
 Haliburton is the heart of Ontario's cottage country — a small town surrounded by lakes, forest, and rocky Canadian Shield landscape about three hours northeast of [Toronto](/northamerica/canada/ontario/toronto). In summer the population swells as families head to lakeside cottages for swimming, canoeing, and fishing. In autumn the hardwood forests blaze with colour and the Haliburton Highlands become one of Ontario's best leaf-peeping destinations.
 
-The town itself is compact and walkable, with a handful of cafes, galleries, and the [Haliburton Sculpture Forest](/northamerica/canada/ontario/haliburton/haliburton_sculpture_forest) — an outdoor collection of works set in [Glebe Park](/northamerica/canada/ontario/haliburton/glebe_park) at the south edge of the village. The [Haliburton Highlands Museum](/northamerica/canada/ontario/haliburton/haliburton_highlands_museum) covers the area's settler and logging past. [Algonquin Park](/northamerica/canada/ontario/algonquin_park) is less than an hour's drive to the north, but the local [Haliburton Highlands Water Trails](/northamerica/canada/ontario/haliburton/haliburton_highlands_water_trails) deliver almost the same wilderness with less crowding.
+The town itself is compact and walkable, with a handful of cafes, galleries, and the [Haliburton Sculpture Forest](/northamerica/canada/ontario/haliburton/haliburton_sculpture_forest) — an outdoor collection of works set in [Glebe Park](/northamerica/canada/ontario/haliburton/glebe_park) at the south edge of the village. The [Haliburton Highlands Museum](/northamerica/canada/ontario/haliburton/haliburton_highlands_museum) covers the area's settler and logging past. [Algonquin Park](/northamerica/canada/algonquin_park) is less than an hour's drive to the north, but the local [Haliburton Highlands Water Trails](/northamerica/canada/ontario/haliburton/haliburton_highlands_water_trails) deliver almost the same wilderness with less crowding.

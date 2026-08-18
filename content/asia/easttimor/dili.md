@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Areia_Branca_Dili_Timor_Le
 latitude: -8.553681
 loc_type: city
 longitude: 125.578409
-score: 5.97
+score: 6.119
 title: Dili
 type: location
 snippet: Small Timorese capital on a north-coast bay, mixing Portuguese traces, markets,
   and steep surrounding hills.
-heritage: 5.416
-vibrancy: 3.228
-nature: 6.958
-off_the_beaten_track: 6.0
+heritage: 5.247
+vibrancy: 4.431
+nature: 7.26
+off_the_beaten_track: 5.793
 ---
 
 Dili is a small, unpretentious capital on the north coast, spread along a bay with hills rising steeply behind. It was badly damaged during the 1999 post-referendum violence — much of what you see was built or rebuilt after independence. The city has a distinct character: part Portuguese colonial (faded buildings, Catholic churches, the odd tiled facade), part NGO hub (a visible international presence, good cafes), part chaotic Southeast Asian town (traffic, street markets, roosters at dawn).

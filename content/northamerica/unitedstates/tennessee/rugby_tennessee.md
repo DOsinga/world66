@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Christ-church-episcopal-ru
 latitude: 36.360093
 loc_type: city
 longitude: -84.700523
-score: 4.099
+score: 4.291
 title: Rugby, Tennessee
 snippet: Victorian village on Tennessee's Cumberland Plateau, founded as an English
   utopian colony.
 type: location
-heritage: 3.181
-vibrancy: 2.671
-nature: 5.005
-off_the_beaten_track: 2.312
+heritage: 3.517
+vibrancy: 2.662
+nature: 5.16
+off_the_beaten_track: 2.406
 ---
 
 Rugby is one of America's most unusual small towns — a Victorian village frozen in time on Tennessee's remote Cumberland Plateau. Founded in 1880 by Thomas Hughes, the British author of *Tom Brown's School Days*, it was meant to be a cooperative utopian colony where younger sons of English gentry could escape rigid class hierarchies and build something new in America.

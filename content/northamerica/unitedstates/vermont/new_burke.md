@@ -2,15 +2,15 @@
 latitude: 44.5883
 loc_type: city
 longitude: -71.9631
-score: 5.338
+score: 5.735
 snippet: Vermont village built around Kingdom Trails mountain biking and old-school
   Burke Mountain skiing.
 title: East Burke
 type: location
-heritage: 3.653
-vibrancy: 2.622
-nature: 6.725
-off_the_beaten_track: 4.495
+heritage: 4.14
+vibrancy: 2.137
+nature: 7.134
+off_the_beaten_track: 4.869
 ---
 
 East Burke is a small village in Vermont's Northeast Kingdom, best known as the home of Kingdom Trails — one of the premier mountain biking destinations in the eastern United States. The trail network covers more than 100 miles of singletrack spread across private farms and woodlands around Burke Mountain, ranging from smooth cross-country loops to technical descents. Access is by day pass, and the arrangement with local landowners has held for decades. In winter the same trails convert to cross-country skiing and snowshoeing.

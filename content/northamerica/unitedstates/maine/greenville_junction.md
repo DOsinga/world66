@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Greenville_Jct_ME_station_
 latitude: 45.4609
 loc_type: city
 longitude: -69.6162
-score: 5.611
+score: 5.64
 snippet: Moosehead Lake gateway town where Maine's settled south gives way to the
   North Woods.
 title: Greenville Junction
 type: location
-heritage: 1.797
-vibrancy: 1.276
-nature: 7.236
-off_the_beaten_track: 4.788
+heritage: 2.336
+vibrancy: 1.187
+nature: 7.206
+off_the_beaten_track: 5.031
 ---
 
 Greenville Junction sits at the southern tip of Moosehead Lake, Maine's largest lake -- forty miles long and surrounded by an immense expanse of forest with almost no development on its shores. This is the jumping-off point for the North Woods, and the town has the feel of a frontier outpost where civilization gives way to wilderness.

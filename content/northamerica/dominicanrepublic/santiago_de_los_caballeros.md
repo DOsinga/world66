@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Santiago_de_los_Caballeros
 latitude: 19.4517
 loc_type: city
 longitude: -70.697
-score: 4.754
+score: 4.912
 snippet: Cibao Valley city and Dominican tobacco capital, with cigar factories, merengue
   clubs, and Centro León.
 title: Santiago de los Caballeros
 type: location
-heritage: 4.175
-vibrancy: 4.761
-nature: 4.736
-off_the_beaten_track: 3.104
+heritage: 4.094
+vibrancy: 4.886
+nature: 4.98
+off_the_beaten_track: 3.018
 ---
 
 Santiago de los Caballeros is the second largest city in the [Dominican Republic](/northamerica/dominicanrepublic) and the cultural capital of the Cibao valley. Set in the fertile northern interior, Santiago is the heart of Dominican tobacco country — the surrounding plantations produce some of the world's finest cigars, and you can visit the [La Aurora factory](/northamerica/dominicanrepublic/santiago/la_aurora_factory) at the Centro León to watch the process from leaf to finished product.

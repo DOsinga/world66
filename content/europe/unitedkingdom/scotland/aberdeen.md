@@ -10,15 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:%2B_%22Silver_City%22_wird
 latitude: 57.148243
 loc_type: city
 longitude: -2.092809
-score: 6.034
+score: 5.951
 snippet: Granite Scottish port city with compact museums, floral parks, and a long
   North Sea maritime life.
 title: Aberdeen
 type: location
-heritage: 5.558
-vibrancy: 6.261
-nature: 4.725
-off_the_beaten_track: 1.444
+heritage: 6.317
+vibrancy: 5.857
+nature: 4.112
+off_the_beaten_track: 1.499
 ---
 
 With a proud and fascinating history, the City of Aberdeen presents a modern cosmopolitan image to visitors who are often surprised by the many diverse attractions which the regional capital of Grampian Highlands offers.

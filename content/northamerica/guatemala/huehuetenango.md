@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ciudad_de_Huehuetenango.JP
 latitude: 15.3167
 loc_type: city
 longitude: -91.4667
-score: 6.008
+score: 5.55
 snippet: Guatemalan highland capital used as a base for the Cuchumatanes Mountains
   and Mam Maya Zaculeu ruins
 title: Huehuetenango
 type: location
-heritage: 4.726
-vibrancy: 5.853
-nature: 6.407
-off_the_beaten_track: 4.955
+heritage: 4.237
+vibrancy: 5.382
+nature: 5.985
+off_the_beaten_track: 4.964
 ---
 
 Huehuetenango ("Huehue") is a departmental capital in the far northwest highlands, a jumping-off point for the remote Cuchumatanes Mountains — the highest non-volcanic range in Central America, with peaks over 3,800 metres. The mountains are spectacular and largely off the tourist trail.

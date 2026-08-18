@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Crkva_sv._Euzebija_i_Polio
 latitude: 45.288377
 loc_type: city
 longitude: 18.804525
-score: 4.85
+score: 4.52
 snippet: Slavonian city in eastern Croatia, layered with Neolithic finds and the Roman
   town of Cibalae.
 title: Vinkovci
 type: location
-heritage: 6.263
-vibrancy: 2.852
-nature: 2.918
-off_the_beaten_track: 1.825
+heritage: 5.848
+vibrancy: 2.633
+nature: 2.85
+off_the_beaten_track: 2.089
 ---
 
 Vinkovci is one of the oldest continuously inhabited cities in Europe, sitting in the flat Slavonian plains of eastern Croatia. Archaeological finds here go back over 8,000 years, and the [Gradski Muzej](/europe/croatia/vinkovci/gradski_muzej) has an impressive collection spanning from Neolithic pottery to Roman artefacts — including pieces from the [Roman city of Cibalae](/europe/croatia/vinkovci/cibalae_roman_ruins) that once stood on this ground. Two Roman emperors, Valentinian I and Valens, were born here.

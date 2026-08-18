@@ -5,7 +5,7 @@ loc_type: city
 latitude: 31.7608
 longitude: -93.0864
 wikidata: Q2278195
-score: 5.83
+score: 5.742
 snippet: Louisiana's oldest settlement, with Cane River brick streets and Creole plantation
   history.
 sources:
@@ -19,10 +19,10 @@ image: natchitoches.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Downtown_Natchitoches_Lousiana_10_July_2021.jpg
 image_license: CC BY 2.0
 image_attribution: amanderson2
-heritage: 6.633
-vibrancy: 5.243
-nature: 3.393
-off_the_beaten_track: 1.995
+heritage: 6.727
+vibrancy: 4.769
+nature: 3.86
+off_the_beaten_track: 2.108
 ---
 
 *North America > United States > Louisiana > Natchitoches*

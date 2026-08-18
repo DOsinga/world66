@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: -15.4989
 longitude: -72.3556
-score: 6.241
+score: 6.191
 snippet: Remote Arequipa highland village and base for Peru's black-lava Valley of
   the Volcanoes.
 sources:
 - https://en.wikivoyage.org/wiki/Andagua
 - https://www.unesco.org/en/iggp/colca-y-volcanes-de-andagua-unesco-global-geopark
-heritage: 5.464
-vibrancy: 1.235
-nature: 7.357
-off_the_beaten_track: 6.45
+heritage: 4.34
+vibrancy: 1.974
+nature: 7.619
+off_the_beaten_track: 6.481
 ---
 
 Andagua is a remote highland village in southern Peru, far northwest of Arequipa and well beyond the normal Colca Canyon circuit. Its reason for being on a travel map is the Valley of the Volcanoes: a strange black-and-green landscape of small volcanic cones, lava flows, terraced fields, and dry Andean slopes.

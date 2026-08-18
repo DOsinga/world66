@@ -2,7 +2,7 @@
 latitude: 54.8917
 loc_type: city
 longitude: 10.4125
-score: 5.677
+score: 4.869
 snippet: Preserved Danish merchant town of cobbled streets and colourful 18th-century
   houses on the island of Ærø.
 story: Ærøskøbing escaped the redevelopment that swept other Danish towns largely
@@ -20,10 +20,10 @@ image: aeroskobing.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gyden,_%C3%86r%C3%B8sk%C3%B8bing.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Erik Christensen
-heritage: 6.911
-vibrancy: 4.188
-nature: 4.604
-off_the_beaten_track: 2.673
+heritage: 5.921
+vibrancy: 3.536
+nature: 4.03
+off_the_beaten_track: 2.86
 ---
 
 Ærøskøbing is the island's old merchant town and one of the best-preserved small towns in northern Europe. The streets are cobbled, the doorways are low, and the timber-framed houses lean gently against each other in lines of yellow ochre, deep red, and washed pink. There is no medieval centre and no industrial fringe — just a few crooked streets that have looked roughly the same since the 1700s.

@@ -13,13 +13,13 @@ sources:
 - https://en.wikivoyage.org/wiki/Kutn%C3%A1_Hora
 title: Kutná Hora
 type: location
-score: 7.014
+score: 8.08
 snippet: Kutná Hora is a Bohemian town whose medieval wealth came from rich silver
   mines.
-heritage: 9.052
-vibrancy: 4.134
-nature: 3.584
-off_the_beaten_track: 2.36
+heritage: 8.876
+vibrancy: 7.84
+nature: 3.428
+off_the_beaten_track: 3.497
 ---
 
 Kutná Hora sits about 70 kilometres east of Prague on a ridge above the Vrchlice river, and for about a century in the late medieval period it was the second most important city in the Bohemian Kingdom — wealthy, powerful, and architecturally ambitious in a way that has left a remarkable legacy. The riches came from silver: a rich seam discovered in the 13th century made the town effectively the mint of Central Europe, and kings and princes fought over control of it. The silver ran thin by the 16th century, but the buildings remained.

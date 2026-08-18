@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Alkazar_Park_(lake)_-_Lari
 latitude: 39.638309
 loc_type: city
 longitude: 22.416071
-score: 5.861
+score: 5.381
 snippet: Inland Thessalian capital with ancient theatres, Ottoman traces, and a lively
   working-city university rhythm.
 title: Larissa
 type: location
-heritage: 7.186
-vibrancy: 2.173
-nature: 4.717
-off_the_beaten_track: 3.076
+heritage: 6.636
+vibrancy: 2.055
+nature: 4.244
+off_the_beaten_track: 3.045
 ---
 
 Larissa is the capital of Thessaly and Greece's largest inland city, yet it barely registers on most travellers' itineraries. That is precisely its appeal. This is a working Greek city with a lively university population, excellent tavernas, and none of the tourist infrastructure — or prices — of the islands.

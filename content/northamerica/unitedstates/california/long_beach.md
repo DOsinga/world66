@@ -9,17 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Long_Beach_Skyline_from_th
 latitude: 33.769
 loc_type: city
 longitude: -118.1916
-score: 4.522
+score: 4.849
 snippet: Southern California port city with its own waterfront life, anchored by the
   Queen Mary and Aquarium of the Pacific.
 sources:
 - https://en.wikipedia.org/wiki/Long_Beach,_California
 title: Long Beach
 type: location
-heritage: 2.313
-vibrancy: 4.079
-nature: 5.038
-off_the_beaten_track: 1.01
+heritage: 2.722
+vibrancy: 4.078
+nature: 5.545
+off_the_beaten_track: 0.918
 ---
 
 Long Beach is California's seventh-largest city, sitting on the coast about 40 kilometres south of downtown [Los Angeles](/northamerica/unitedstates/california/losangeles). It has long lived in LA's shadow, but the city has its own distinct identity — more laid-back, more diverse, and with a genuine waterfront life that much of coastal Southern California lacks.

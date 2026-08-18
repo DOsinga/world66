@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Havelis_or_medieval_homes_
 latitude: 23.918279
 loc_type: city
 longitude: 72.368185
-score: 4.883
+score: 4.006
 snippet: Quiet Gujarat town with Bohra mansions, temple ruins, and traces of former
   regional grandeur
 title: Siddhpur
 type: location
-heritage: 5.729
-vibrancy: 4.041
-nature: 3.419
-off_the_beaten_track: 2.537
+heritage: 4.209
+vibrancy: 3.96
+nature: 3.129
+off_the_beaten_track: 2.784
 ---
 
 Not popular with tourists, this quiet little town was once a capital of Gujarat. Its past grandeur is visible in the **Rudra Mahalaya**, now in ruins but once said to have been a seven-storey structure of stone and wood. The monument is not officially open, but you can usually walk inside with the guard's informal permission.

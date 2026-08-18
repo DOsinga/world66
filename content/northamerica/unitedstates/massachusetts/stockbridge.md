@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Red_Lion_Inn,_Stockbridge_
 latitude: 42.2824
 loc_type: city
 longitude: -73.3124
-score: 4.658
+score: 4.183
 snippet: Tiny Berkshires village of Main Street inns, Norman Rockwell history, and
   leafy New England calm
 title: Stockbridge
 type: location
-heritage: 5.248
-vibrancy: 3.416
-nature: 4.799
-off_the_beaten_track: 1.518
+heritage: 4.494
+vibrancy: 3.66
+nature: 4.579
+off_the_beaten_track: 1.622
 ---
 
 Stockbridge is a tiny Berkshires village near the New York State line — basically a single block of Main Street at a T-junction — but it punches well above its weight.

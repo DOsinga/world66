@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kee_monastery_Spiti_Valley
 latitude: 32.297777777777775
 loc_type: feature
 longitude: 78.01194444444444
-score: 6.554
+score: 6.722
 snippet: Hilltop monastery cluster in Spiti, centred on Key Gompa above the Spiti
   River.
 sources:
@@ -17,10 +17,10 @@ sources:
 title: Ki
 type: location
 wikidata: Q1341262
-heritage: 5.967
-vibrancy: 1.612
-nature: 7.629
-off_the_beaten_track: 5.445
+heritage: 5.936
+vibrancy: 1.517
+nature: 7.903
+off_the_beaten_track: 5.613
 ---
 
 Ki is best understood as the monastery stop above the Spiti River, not as a normal village destination. [Key Monastery](/asia/india/himachalpradesh/ki/key_monastery) rises in stacked white blocks from a bare hill north of Kaza, with brown mountains behind it and the valley floor far below.

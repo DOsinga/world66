@@ -16,7 +16,7 @@ quick_facts:
   Founded: 944 AD
   Nickname: Alger la Blanche (the White)
   Population: ~3 million
-score: 5.463
+score: 5.161
 snippet: Mediterranean capital of white hillside buildings, where the Casbah rises
   above a French colonial centre.
 tip: Algiers tumbles down to the bay in tiers of white French-colonial facades — locals
@@ -26,10 +26,10 @@ tip: Algiers tumbles down to the bay in tiers of white French-colonial facades �
   the seafront.
 title: Algiers
 type: location
-heritage: 5.151
-vibrancy: 5.462
-nature: 5.466
-off_the_beaten_track: 3.509
+heritage: 4.4
+vibrancy: 5.099
+nature: 5.321
+off_the_beaten_track: 3.43
 ---
 
 Algeria's capital sprawls along the Mediterranean coast, a city of steep hills and white buildings that earned it the nickname la Blanche — the White City. Close to three million people live here, making it the largest city in the Maghreb.

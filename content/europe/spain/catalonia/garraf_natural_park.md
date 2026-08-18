@@ -2,15 +2,15 @@
 latitude: 41.2833
 loc_type: feature
 longitude: 1.8833
-score: 4.637
+score: 4.527
 snippet: Limestone massif of cliffs, caves, and dramatic coast roads between Sitges
   and Castelldefels.
 title: Garraf Natural Park
 type: location
-heritage: 2.224
-vibrancy: 2.249
-nature: 6.101
-off_the_beaten_track: 2.254
+heritage: 2.027
+vibrancy: 2.375
+nature: 5.87
+off_the_beaten_track: 1.86
 ---
 
 The Garraf Natural Park covers more than 12,000 hectares of stark white limestone hills stretching west from Sitges to Castelldefels, dropping sharply into the Mediterranean along some of the most dramatic coastal scenery in Catalonia. The landscape is unusual this far south — arid and almost lunar, scattered with wild palm and prickly-pear, riddled with caves and underground rivers carved into porous karst stone. It looks more North African than European, and the contrast with the green hinterland of the Penedès just a few kilometres inland is striking.

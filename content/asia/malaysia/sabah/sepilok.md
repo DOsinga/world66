@@ -4,7 +4,7 @@ type: location
 loc_type: feature
 latitude: 5.8667
 longitude: 117.95
-score: 5.705
+score: 5.827
 snippet: Sabah wildlife area where orangutan, sun bear, and rainforest centres sit
   within easy walking distance.
 wikidata: Q1584292
@@ -16,10 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Sepilok
 - https://www.bsbcc.org.my/
 - https://www.sabahtourism.com/destination/sepilok-orang-utan-rehabilitation-centre/
-heritage: 1.597
-vibrancy: 1.304
-nature: 7.312
-off_the_beaten_track: 5.018
+heritage: 2.116
+vibrancy: 1.386
+nature: 7.439
+off_the_beaten_track: 5.219
 ---
 
 Sepilok is not really a town in the travel sense. It is a compact wildlife area west of Sandakan, where three strong conservation stops sit close enough together to make an easy and worthwhile day: orangutans, sun bears, and lowland rainforest.

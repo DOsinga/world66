@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 31.2445
 longitude: -90.4716
-score: 3.744
+score: 3.719
 snippet: Southwest Mississippi rail town with civil-rights memory and a strong blues
   trail
 image: mccomb.jpg
@@ -14,10 +14,10 @@ sources:
 - https://en.wikivoyage.org/wiki/McComb
 - https://en.wikipedia.org/wiki/McComb,_Mississippi
 - https://www.wikidata.org/wiki/Q846178
-heritage: 2.316
-vibrancy: 1.592
-nature: 4.822
-off_the_beaten_track: 2.718
+heritage: 2.632
+vibrancy: 1.483
+nature: 4.649
+off_the_beaten_track: 2.57
 ---
 
 McComb is not a polished destination, and that is part of the point. This small city in southwest Mississippi grew around the Illinois Central railroad, then became one of the harder places in the state to do civil-rights work in the 1960s. The history here is local, direct, and sometimes uncomfortable.

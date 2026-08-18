@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:West_Face_of_Mansion,_Moun
 latitude: 38.8462
 loc_type: city
 longitude: -77.3064
-score: 4.699
+score: 4.612
 snippet: Potomac-side Virginia region of suburbs, historic towns, and Mount Vernon,
   just across from Washington DC.
 title: Northern Virginia
 type: location
-heritage: 4.095
-vibrancy: 4.886
-nature: 4.215
-off_the_beaten_track: 0.838
+heritage: 3.342
+vibrancy: 4.897
+nature: 3.876
+off_the_beaten_track: 0.962
 ---
 
 Northern Virginia — "NoVA" to locals — is the sprawl of suburbs, historic towns, and edge cities across the Potomac from Washington DC. For visitors, it offers affordable accommodation within easy Metro reach of the capital, plus attractions of its own that rival anything on the National Mall.

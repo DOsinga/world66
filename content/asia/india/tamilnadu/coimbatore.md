@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:CHIL_SEZ.jpg
 latitude: 11.001812
 loc_type: city
 longitude: 76.962842
-score: 5.921
+score: 5.702
 title: Coimbatore
 type: location
 snippet: Industrial Tamil Nadu city at the Nilgiri foothills, known as Kovai and built
   on cotton textiles.
-heritage: 4.757
-vibrancy: 6.407
-nature: 2.778
-off_the_beaten_track: 2.888
+heritage: 4.37
+vibrancy: 6.25
+nature: 2.819
+off_the_beaten_track: 2.414
 ---
 
 Coimbatore is Tamil Nadu's second-largest city and the economic capital of the western part of the state. It sits at the foot of the Nilgiri Hills, with the Western Ghats visible from much of the city on clear days. Locally it's called "Kovai" and is known as the "Manchester of South India" for its textile industry — particularly the spinning and weaving of cotton, which has been the basis of the city's economy for over a century.

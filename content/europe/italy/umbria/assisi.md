@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:AssisiDec122023_03.jpg
 latitude: 43.071195
 loc_type: city
 longitude: 12.614667
-score: 5.704
+score: 6.242
 snippet: Umbrian hill town of St. Francis, stone lanes, and Giotto frescoes above
   Monte Subasio
 title: Assisi
 type: location
-heritage: 6.564
-vibrancy: 4.978
-nature: 2.627
-off_the_beaten_track: 1.623
+heritage: 7.063
+vibrancy: 5.693
+nature: 3.686
+off_the_beaten_track: 1.421
 ---
 
 Assisi sits on the sun-baked slopes of [Monte Subasio](/europe/italy/umbria/assisi/monte_subasio) in the green heart of Umbria, a medieval hill town that has drawn pilgrims since the thirteenth century. It is the birthplace of St. Francis (1181 or 1182) and Santa Chiara, and peace remains a defining quality — something you feel in the quiet stone streets and the unhurried rhythm of the place.

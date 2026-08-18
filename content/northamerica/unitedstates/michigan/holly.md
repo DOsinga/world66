@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Battle_Alley_(Holly).jpg
 latitude: 42.791973
 loc_type: city
 longitude: -83.627725
-score: 2.225
+score: 2.139
 snippet: Small Michigan town with antique-lined streets, Battle Alley, and a storied
   old hotel.
 title: Holly
 type: location
-heritage: 2.482
-vibrancy: 2.101
-nature: 2.166
-off_the_beaten_track: 1.197
+heritage: 2.474
+vibrancy: 1.843
+nature: 1.839
+off_the_beaten_track: 1.376
 ---
 
 Holly is a small Michigan town that feels like it never left the early 1900s. The downtown is packed with antique shops and local artists, and everybody seems to know everybody. You will find it right off I-75 at exit 102 -- head west into town, or east to [Mt. Holly](/northamerica/unitedstates/michigan/holly/mt_holly_ski) for skiing in winter.

@@ -2,7 +2,7 @@
 latitude: 47.0642
 loc_type: city
 longitude: -109.4286
-score: 4.595
+score: 4.23
 snippet: Central Montana town ringed by five mountain ranges and Big Spring Creek.
 sources:
 - https://en.wikivoyage.org/wiki/Lewistown_(Montana)
@@ -16,10 +16,10 @@ image: lewistown.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Main_street_in_Lewistown,_Montana_-_panoramio.jpg
 image_license: CC BY 3.0
 image_attribution: R. Sieben
-heritage: 3.433
-vibrancy: 2.254
-nature: 5.467
-off_the_beaten_track: 5.423
+heritage: 3.221
+vibrancy: 2.277
+nature: 4.916
+off_the_beaten_track: 5.377
 ---
 
 Lewistown sits close to the geographic centre of Montana, in a wide basin wrapped by the Judith, Snowy, Moccasin, Belt, and Highwood ranges. It is a small town, but the setting gives it more weight than its population suggests.

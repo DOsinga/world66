@@ -9,16 +9,16 @@ image_source: https://commons.wikimedia.org/wiki/File:Medieval_wall_in_Vitoria-G
 latitude: 42.846509
 loc_type: city
 longitude: -2.672403
-score: 5.86
+score: 5.507
 title: Vitoria-Gasteiz
 todo_location_cleanup: done
 type: location
 snippet: Basque Country capital with a medieval hilltop quarter and the Anillo Verde
   park ring.
-heritage: 5.673
-vibrancy: 5.975
-nature: 5.194
-off_the_beaten_track: 2.164
+heritage: 5.021
+vibrancy: 5.606
+nature: 5.251
+off_the_beaten_track: 2.175
 ---
 
 Vitoria-Gasteiz is the capital of the Basque Country and the seat of its regional government, but it remains remarkably under the tourist radar compared to Bilbao or San Sebastián. It's a pleasant, walkable city with a well-preserved [medieval old town](/europe/spain/basque_country_euskadi/vitoria/medieval_quarter), a ring of parks and green corridors — the [Anillo Verde](/europe/spain/basque_country_euskadi/vitoria/anillo_verde) — that earned it the title of European Green Capital in 2012, and a lively pintxos scene that doesn't cater to tourists so much as to the locals who actually live here.

@@ -2,7 +2,7 @@
 latitude: 59.0109
 loc_type: feature
 longitude: 6.3447
-score: 6.516
+score: 6.292
 snippet: Sheer-walled fjord east of Stavanger, cut by Pulpit Rock and the Kjerag plateau
 sources:
 - https://en.wikipedia.org/wiki/Lysefjord
@@ -13,10 +13,10 @@ image: lysefjord.jpg
 image_source: https://commons.wikimedia.org/wiki/File:LysebotnViewFromAbovePreikestolen.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Andreas Tille
-heritage: 5.265
-vibrancy: 4.967
-nature: 7.7
-off_the_beaten_track: 2.67
+heritage: 5.299
+vibrancy: 4.347
+nature: 7.507
+off_the_beaten_track: 2.454
 ---
 
 Lysefjord cuts 42 km inland from the sea east of Stavanger, its granite walls rising up to 1,000 metres straight from the water in places — one of the most dramatic fjords in a country full of dramatic fjords. Its name, "light fjord," comes from the pale granite of its walls, which catch the light in a way the darker rock of neighbouring fjords doesn't.

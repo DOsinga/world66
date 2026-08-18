@@ -13,11 +13,11 @@ title: Scarborough
 snippet: Perth beachside suburb built around one of Western Australia's most popular
   surf beaches.
 type: location
-score: 4.677
-heritage: 2.218
-vibrancy: 1.896
-nature: 6.017
-off_the_beaten_track: 4.036
+score: 4.832
+heritage: 2.095
+vibrancy: 1.653
+nature: 6.176
+off_the_beaten_track: 4.306
 ---
 
 Scarborough is a beachside suburb of Perth about 14 km north of the city centre, built around one of the most popular beaches in Western Australia. The beach is broad, the surf is reliable, and the foreshore has been significantly redeveloped in recent years with [a new promenade](/australiaandpacific/australia/westernaustralia/scarborough/scarborough_esplanade), food outlets, and a renovated outdoor pool complex. It is a good spot for a day at the beach without straying too far from Perth.

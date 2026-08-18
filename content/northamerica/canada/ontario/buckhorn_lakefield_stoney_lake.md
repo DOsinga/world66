@@ -4,15 +4,15 @@ type: location
 loc_type: feature
 latitude: 44.521
 longitude: -78.237
-score: 5.324
+score: 5.196
 snippet: Rural Kawarthas cottage country of lakes, locks, canoe routes, caves, and
   Indigenous rock carvings.
 sources:
 - https://en.wikivoyage.org/wiki/Buckhorn,_Lakefield_and_Stoney_Lake
-heritage: 2.805
-vibrancy: 1.669
-nature: 7.064
-off_the_beaten_track: 2.923
+heritage: 3.194
+vibrancy: 1.476
+nature: 6.7
+off_the_beaten_track: 2.866
 ---
 
 Buckhorn, Lakefield and Stoney Lake is cottage country north of Peterborough in the Kawarthas. It is not one town so much as a loose travel area of villages, locks, lakes, conservation areas, and summer roads between them.

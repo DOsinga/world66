@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Port_douglas_qld_australia
 latitude: -16.484598
 loc_type: city
 longitude: 145.463629
-score: 6.533
+score: 6.525
 snippet: Relaxed Coral Sea resort town between Four Mile Beach, rainforest drives,
   and Great Barrier Reef trips.
 sources:
 - https://en.wikipedia.org/wiki/Port_Douglas
 title: Port Douglas
 type: location
-heritage: 3.653
-vibrancy: 6.12
-nature: 7.169
-off_the_beaten_track: 2.931
+heritage: 4.125
+vibrancy: 5.68
+nature: 7.369
+off_the_beaten_track: 2.384
 ---
 
 Port Douglas is a small resort town on the Coral Sea coast, about 70 km north of Cairns along the Captain Cook Highway. The drive up is one of the best in Australia — the road hugs the coast with rainforest on one side and the sea on the other, passing through country that looks largely as it must have before Europeans arrived.

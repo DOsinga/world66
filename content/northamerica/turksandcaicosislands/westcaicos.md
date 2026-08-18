@@ -4,17 +4,17 @@ done:
 latitude: 21.6667
 loc_type: island
 longitude: -72.4583
-score: 6.635
+score: 6.163
 snippet: Uninhabited Turks and Caicos island with limestone cliffs and the protected
   Lake Catherine nature reserve.
 sources:
 - https://en.wikipedia.org/wiki/West_Caicos
 title: West Caicos
 type: location
-heritage: 2.574
-vibrancy: 0.698
-nature: 8.204
-off_the_beaten_track: 6.818
+heritage: 2.529
+vibrancy: 0.802
+nature: 7.526
+off_the_beaten_track: 6.641
 ---
 
 West Caicos is an uninhabited island in the southwest of the Turks and Caicos archipelago, twenty kilometres southwest of [Providenciales](/northamerica/turksandcaicosislands/providenciales) across the Caicos Bank. It is about ten kilometres long, a low limestone wedge of scrub, salinas and mangrove, fringed by white beaches and ringed by some of the most dramatic diving in the Caribbean.

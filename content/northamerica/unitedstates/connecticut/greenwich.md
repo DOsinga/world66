@@ -5,7 +5,7 @@ loc_type: city
 latitude: 41.0265
 longitude: -73.6285
 wikidata: Q49202
-score: 3.957
+score: 4.095
 snippet: Connecticut Gold Coast town with shoreline parks, museums, old estates, and
   polished commuter wealth.
 sources:
@@ -18,10 +18,10 @@ image: greenwich.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Greenwich,_Connecticut_-_15978390134.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Dougtone
-heritage: 2.966
-vibrancy: 2.963
-nature: 4.701
-off_the_beaten_track: 0.957
+heritage: 4.456
+vibrancy: 3.139
+nature: 4.459
+off_the_beaten_track: 0.825
 ---
 
 Greenwich is the polished edge of Connecticut's Gold Coast, close enough to New York City to feel like a commuter suburb but old, rich, and coastal enough to have its own shape. The town is not gritty or surprising. It is manicured, expensive, and very aware of itself.

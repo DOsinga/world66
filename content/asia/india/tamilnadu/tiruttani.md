@@ -2,7 +2,7 @@
 latitude: 13.1833
 loc_type: city
 longitude: 79.6333
-score: 5.324
+score: 4.07
 snippet: Tamil Nadu pilgrimage town beneath one of Murugan's six sacred hill temples.
 sources:
 - https://en.wikivoyage.org/wiki/Tiruttani
@@ -16,10 +16,10 @@ image: tiruttani.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Thiruthani_panorama_(1).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Ssriram mt
-heritage: 6.329
-vibrancy: 4.236
-nature: 2.056
-off_the_beaten_track: 3.288
+heritage: 4.656
+vibrancy: 3.609
+nature: 2.308
+off_the_beaten_track: 3.379
 ---
 
 Tiruttani is a pilgrimage town northwest of [Chennai](/asia/india/tamilnadu/chennai), built around one of the six sacred abodes of Lord Murugan. The town itself is plain and busy, but the hill temple above it is important enough to justify a day trip for travellers interested in Tamil religious life.

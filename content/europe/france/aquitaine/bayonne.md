@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Bayonne-Centre_historique-
 latitude: 43.494514
 loc_type: city
 longitude: -1.473666
-score: 5.89
+score: 6.148
 snippet: Basque river city where Adour and Nive meet around chocolate, ramparts, and
   timbered lanes.
 tags:
 - basqueregion
 title: Bayonne
 type: location
-heritage: 5.683
-vibrancy: 6.013
-nature: 3.911
-off_the_beaten_track: 1.342
+heritage: 5.974
+vibrancy: 6.26
+nature: 4.135
+off_the_beaten_track: 1.323
 ---
 
 Bayonne, the capital of the Basque region, sits at the junction of the rivers Adour and Nive — a busy commercial town with a long and layered history. At every turn of the narrow lanes with their distinctive colombage houses that make up the old town centre, you will come upon vestiges of a rich past. From the Roman fortifications, elements of which are still visible, to the magnificent Gothic [Cathedral Sainte-Marie](/europe/france/aquitaine/bayonne/bayonne_cathedral) and the [ramparts built by Vauban](/europe/france/aquitaine/bayonne/vauban_ramparts) under Louis XIV, the historical depth of Bayonne rewards careful exploration.

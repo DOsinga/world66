@@ -5,7 +5,7 @@ loc_type: city
 latitude: 54.7703
 longitude: -111.979
 wikidata: Q984088
-score: 4.183
+score: 4.834
 snippet: Northern Alberta lake hamlet with Cree-Metis history, island parks, and old
   mission buildings.
 sources:
@@ -18,10 +18,10 @@ image: lac_la_biche.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Lac_La_Biche,_Alberta,_taken_from_a_Thomas_Cook_Airlines_Airbus_A330_en-route_from_Edmonton_to_London_Gatwick.jpg
 image_license: CC BY 3.0
 image_attribution: SempreVolando
-heritage: 1.856
-vibrancy: 1.767
-nature: 5.209
-off_the_beaten_track: 4.178
+heritage: 2.018
+vibrancy: 1.923
+nature: 6.22
+off_the_beaten_track: 4.171
 ---
 
 *North America > Canada > Alberta > Lac La Biche*

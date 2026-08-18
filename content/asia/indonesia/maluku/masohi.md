@@ -2,7 +2,7 @@
 latitude: -3.3
 loc_type: city
 longitude: 128.95
-score: 5.112
+score: 4.898
 snippet: South Seram port town and practical base for Manusela, Ora Beach, and mountain
   forest.
 sources:
@@ -11,10 +11,10 @@ sources:
 title: Masohi
 type: location
 wikidata: Q6783501
-heritage: 4.026
-vibrancy: 2.028
-nature: 6.095
-off_the_beaten_track: 5.99
+heritage: 3.141
+vibrancy: 2.168
+nature: 5.716
+off_the_beaten_track: 6.145
 ---
 
 Masohi is a practical, rough-edged town on Elpaputih Bay, on the south coast of Seram. It is not the prettiest place in Maluku, but it is the island's main service centre and the usual jumping-off point for some of Seram's best wild country: Manusela National Park, Mount Binaiya, freshwater springs, caves, mangroves, and the beaches on the north coast.

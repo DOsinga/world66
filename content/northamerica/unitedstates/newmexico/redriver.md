@@ -18,10 +18,10 @@ image: redriver.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Red_River,_New_Mexico.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Rhododendrites
-heritage: 2.979
-vibrancy: 1.457
-nature: 6.885
-off_the_beaten_track: 4.36
+heritage: 3.143
+vibrancy: 1.276
+nature: 6.762
+off_the_beaten_track: 4.761
 ---
 
 Red River sits high in the Sangre de Cristo Mountains of northern [New Mexico](/northamerica/unitedstates/newmexico), on the Enchanted Circle road between Questa and Eagle Nest. It began as a mining camp, but today it is a small resort town with wooden storefronts, family ski slopes, trout water, and steep forested hills closing in on both sides of the valley.

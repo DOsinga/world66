@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Amherst,_MA_(cropped)_2.jp
 latitude: 42.3732
 loc_type: city
 longitude: -72.5199
-score: 4.54
+score: 4.375
 snippet: Pioneer Valley college town shaped by three campuses, Emily Dickinson, and
   New England farmland
 title: Amherst
 type: location
-heritage: 5.117
-vibrancy: 4.181
-nature: 4.318
-off_the_beaten_track: 1.175
+heritage: 4.465
+vibrancy: 4.374
+nature: 4.182
+off_the_beaten_track: 1.339
 ---
 
 Amherst is a college town in the Pioneer Valley of western [Massachusetts](/northamerica/unitedstates/massachusetts), set among farms and forested hills along the Connecticut River. Three colleges — the University of Massachusetts, Amherst College, and Hampshire College — give it an intellectual energy that punches well above its small-town size, and the student population keeps the restaurants, bookshops, and coffee houses busy year-round.

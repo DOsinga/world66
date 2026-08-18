@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:View_of_Tbilisi_from_Tabor
 latitude: 41.693459
 loc_type: city
 longitude: 44.801449
-score: 7.343
+score: 7.358
 snippet: Georgian capital on the Mtkvari River, where warm springs, balconies, and
   layered empires meet
 sources:
@@ -18,10 +18,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Tbilisi
 title: Tbilisi
 type: location
-heritage: 6.84
-vibrancy: 7.589
-nature: 4.417
-off_the_beaten_track: 2.553
+heritage: 7.37
+vibrancy: 7.409
+nature: 4.649
+off_the_beaten_track: 2.461
 ---
 
 Georgia's capital Tbilisi lies in the centre of eastern Georgia, in the foothills of the Trialeti mountain range. According to Georgian legend it was founded in the 5th century by King Vakhtang Gorgasali, who while hunting shot a pheasant which fell into a warm spring and was either boiled or healed, depending on which version you hear. Either way, the king was inspired to found a city on the spot, and the name derives from the Georgian word *tbili*, meaning warm. Although the city has been destroyed and rebuilt some 29 times, the layout of the [Old Town](/europe/georgia/tbilisi/old_town) is largely intact, with narrow alleys and big crooked houses built around interior courtyards.

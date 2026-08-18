@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Mole,_Jetty_and_Lighthouse
 latitude: -22.6762
 loc_type: city
 longitude: 14.5253
-score: 6.16
+score: 5.728
 snippet: Namibian coastal town where German colonial architecture meets Atlantic fog
   and the Namib Desert dunes.
 title: Swakopmund
 type: location
-heritage: 4.055
-vibrancy: 4.252
-nature: 7.493
-off_the_beaten_track: 3.17
+heritage: 3.964
+vibrancy: 3.676
+nature: 7.102
+off_the_beaten_track: 3.126
 ---
 
 Swakopmund sits at a collision of worlds: the cold Atlantic on one side, the oldest desert on earth on the other, and in the middle a town that looks as though it was transplanted wholesale from a Bavarian market square. The German colonial architecture — turrets, towers, Jugendstil facades — is not a veneer. It is the bones of the place, and the contrast with the surrounding dunes and fog-draped coast is genuinely strange and genuinely wonderful.

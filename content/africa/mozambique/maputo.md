@@ -13,7 +13,7 @@ quick_facts:
   Founded: Late 18th century
   Peri-Peri Prawns: A local legend
   Population: ~1.1 million
-score: 6.051
+score: 5.901
 snippet: Mozambican capital on Maputo Bay, shaped by Portuguese avenues, Art Deco
   blocks, and Indian Ocean port life.
 sources:
@@ -26,10 +26,10 @@ tip: Maputo is a faded-grand port city of jacaranda-lined avenues, Portuguese co
   mind valuables at night.
 title: Maputo
 type: location
-heritage: 4.249
-vibrancy: 5.471
-nature: 6.736
-off_the_beaten_track: 4.182
+heritage: 4.221
+vibrancy: 4.809
+nature: 6.823
+off_the_beaten_track: 4.102
 ---
 
 **Maputo** is the capital and largest city of **Mozambique**, set on the shore of **Maputo Bay** in the far south of the country, close to the borders of South Africa and Eswatini (Swaziland). It was known until 1976 as **Lourenço Marques**, named after the 16th-century Portuguese explorer who first landed here, and grew up in the 19th century as a port for exporting goods from the South African Rand. The Portuguese turned it into their colonial capital, leaving a grid of wide tree-lined avenues, Art Deco apartment blocks, and the unmistakable architecture of Portuguese Africa; the long civil war that followed independence in 1975 devastated the economy and the city, but the past two decades have seen a slow, uneven recovery. Maputo is still the most cosmopolitan and Westernised city in the country, and for most visitors the only one they pass through.

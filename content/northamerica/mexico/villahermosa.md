@@ -8,17 +8,17 @@ image_source: https://www.flickr.com/photos/73643373@N00/123305372
 latitude: 17.988466
 loc_type: city
 longitude: -92.936633
-score: 5.362
+score: 4.645
 snippet: Tabasco capital in Mexico's humid lowlands, with Olmec stone heads displayed
   at Parque-Museo La Venta.
 sources:
 - https://en.wikipedia.org/wiki/Villahermosa
 title: Villahermosa
 type: location
-heritage: 6.01
-vibrancy: 5.007
-nature: 4.35
-off_the_beaten_track: 3.099
+heritage: 5.198
+vibrancy: 4.352
+nature: 4.402
+off_the_beaten_track: 3.14
 ---
 
 Villahermosa is the capital of Tabasco, a state on Mexico's Gulf coast that gets overlooked by most travellers but contains one of the country's most important archaeological sites. The city sits in the humid lowlands where two major rivers meet, surrounded by a landscape of lagoons, swamp, and tropical forest — the same watery terrain that allowed the Olmec civilisation to flourish here over three thousand years ago.

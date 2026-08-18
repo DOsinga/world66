@@ -5,7 +5,7 @@ done:
 latitude: -0.722442
 loc_type: city
 longitude: 36.438783
-score: 6.159
+score: 6.076
 title: Naivasha
 type: location
 snippet: Rift Valley town by Lake Naivasha, with boat trips, Crescent Island walks,
@@ -14,10 +14,10 @@ image: naivasha.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Flooded_hotel_on_Lake_Naivasha,_Kenya.jpg
 image_license: CC0
 image_attribution: GiveMeMollusks
-heritage: 4.776
-vibrancy: 3.771
-nature: 7.522
-off_the_beaten_track: 3.756
+heritage: 5.042
+vibrancy: 3.768
+nature: 7.28
+off_the_beaten_track: 4.147
 ---
 
 Naivasha is a moderately sized town about 90 km northwest of [Nairobi](/africa/kenya/nairobi), at the foot of the Great Rift Valley escarpment. It is the gateway to several of [Kenya's](/africa/kenya) most accessible natural attractions — and one of the few parts of the country where you can spend a rewarding few days without a safari vehicle.

@@ -4,15 +4,15 @@ type: location
 loc_type: city
 latitude: 37.2152
 longitude: 28.3638
-score: 6.197
+score: 5.859
 snippet: Inland Aegean market city with a preserved Ottoman old quarter above the
   resort roads.
 sources:
 - https://en.wikivoyage.org/wiki/Mu%C4%9Fla
-heritage: 5.387
-vibrancy: 5.219
-nature: 7.083
-off_the_beaten_track: 2.125
+heritage: 4.739
+vibrancy: 5.149
+nature: 6.593
+off_the_beaten_track: 1.701
 ---
 
 Muğla sits inland from Turkey's Aegean resort coast, high enough to feel cooler than Bodrum, Marmaris, or Fethiye in summer. Most travellers meet it only as a provincial capital on the road to somewhere beachier, which is a shame: the old centre has kept a handsome knot of Ottoman and Greek-style houses, mosques, and small lanes.

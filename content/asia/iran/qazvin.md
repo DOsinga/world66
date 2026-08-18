@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Caravanserai_of_Sa%27d_al-
 latitude: 36.2886
 loc_type: city
 longitude: 50.0069
-score: 4.82
+score: 4.287
 snippet: Former Safavid capital in northern Iran, with caravanserais, mosques, and
   Alamut mountain routes.
 sources:
@@ -14,10 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Qazvin
 title: Qazvin
 type: location
-heritage: 5.852
-vibrancy: 3.589
-nature: 3.758
-off_the_beaten_track: 3.608
+heritage: 4.931
+vibrancy: 3.747
+nature: 3.72
+off_the_beaten_track: 3.595
 ---
 
 Qazvin sits northwest of [Tehran](/asia/iran/tehran), where the road toward Tabriz and the routes over the Alborz meet. It was Persia's capital for part of the Safavid period, before Shah Abbas moved the court to Isfahan, and the city still has the feel of a serious old crossroads rather than a showpiece rebuilt for visitors.

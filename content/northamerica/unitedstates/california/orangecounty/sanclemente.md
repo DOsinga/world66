@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Calafia_Park,_San_Clemente
 latitude: 33.4378
 loc_type: city
 longitude: -117.6203
-score: 4.555
+score: 5.085
 snippet: Southern Orange County surf town with Spanish Colonial streets, a long pier,
   and Trestles nearby.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Casa_Romantica
 title: San Clemente
 type: location
-heritage: 2.104
-vibrancy: 3.644
-nature: 5.299
-off_the_beaten_track: 1.207
+heritage: 2.567
+vibrancy: 3.957
+nature: 5.97
+off_the_beaten_track: 1.03
 ---
 
 San Clemente is Orange County's southern edge, a surf-minded city of white stucco, red tile, and ocean-facing hills. It feels less glossy than Laguna Beach and less resort-built than Dana Point, with a real downtown on Avenida Del Mar and a beach culture that still matters.

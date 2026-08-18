@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Southernmost_point_buoy,_N
 latitude: 24.5551
 loc_type: city
 longitude: -81.78
-score: 6.757
+score: 5.963
 snippet: End-of-the-road Florida island city of Old Town porches, Duval Street bars,
   and Caribbean light.
 title: Key West
 type: location
-heritage: 6.148
-vibrancy: 6.047
-nature: 7.551
-off_the_beaten_track: 2.329
+heritage: 3.963
+vibrancy: 5.818
+nature: 6.336
+off_the_beaten_track: 2.296
 ---
 
 Key West is the end of the road — literally. Mile Marker 0 of US Route 1 sits here, at the [southernmost point](/northamerica/unitedstates/florida/keywest/southernmost_point) of the continental United States, closer to Havana than to Miami. The island is just two miles by four miles, but it packs in more character per square foot than most American cities.

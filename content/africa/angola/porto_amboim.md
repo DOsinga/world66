@@ -8,16 +8,16 @@ image_source: https://commons.wikimedia.org/wiki/File:Angola_Atlantic_coast.jpg
 latitude: -10.72791
 loc_type: city
 longitude: 13.757899
-score: 3.568
+score: 3.816
 snippet: Angolan fishing town on the Atlantic coast, set near the Queve River estuary.
 sources:
 - https://en.wikipedia.org/wiki/Porto_Amboim
 title: Porto Amboim
 type: location
-heritage: 2.887
-vibrancy: 2.245
-nature: 4.134
-off_the_beaten_track: 4.575
+heritage: 3.021
+vibrancy: 2.734
+nature: 4.593
+off_the_beaten_track: 3.965
 ---
 
 Porto Amboim is a small fishing town on Angola's Atlantic coast, roughly halfway between [Luanda](/africa/angola/luanda) and [Lobito](/africa/angola/lobito). It sits near the mouth of the [Queve River](/africa/angola/porto_amboim/queve_river_estuary) and has a quiet, unhurried character that most larger Angolan towns have lost.

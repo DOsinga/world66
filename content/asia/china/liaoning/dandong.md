@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Bridge_from_Sinuiju,_North
 latitude: 40.1167
 loc_type: city
 longitude: 124.3833
-score: 3.773
+score: 3.716
 snippet: Chinese border city on the Yalu River, facing North Korea across a sharply
   contrasting waterfront
 sources:
 - https://en.wikivoyage.org/wiki/Dandong
 title: Dandong
 type: location
-heritage: 3.648
-vibrancy: 3.115
-nature: 4.302
-off_the_beaten_track: 3.254
+heritage: 3.68
+vibrancy: 3.102
+nature: 4.2
+off_the_beaten_track: 3.171
 ---
 
 Dandong occupies one of the strangest positions in Asia: a prosperous, unremarkable Chinese city pressed up against the Yalu River, looking directly across at North Korea. The border is the attraction. From the riverfront promenade you can watch Sinuiju through binoculars — the low buildings, the occasional truck on an empty road, the lights that go out at night — and the contrast with the neon and noise on your side of the water is jarring in a way that no museum can replicate.

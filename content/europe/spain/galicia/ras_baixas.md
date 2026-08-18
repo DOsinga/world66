@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Panoramica_bueu_1.jpg
 latitude: 42.45
 loc_type: city
 longitude: -8.73
-score: 5.477
+score: 5.464
 snippet: Galician wine coast where Albariño vineyards climb above estuaries, fishing
   villages, and mussel farms.
 title: Rías Baixas
 type: location
-heritage: 4.557
-vibrancy: 4.145
-nature: 6.487
-off_the_beaten_track: 3.401
+heritage: 4.062
+vibrancy: 3.932
+nature: 6.569
+off_the_beaten_track: 3.474
 ---
 
 Rías Baixas (Galician for "lower estuaries") is a wine region and a landscape — a deeply indented coastline in the southwest corner of Galicia, where the sea pushes far inland through four great rias. The vineyards climb the granite hillsides above fishing villages and mussel farms, and the combination of cool Atlantic air and good drainage produces Albariño, one of Spain's finest white wines.

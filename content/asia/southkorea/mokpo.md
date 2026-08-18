@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 34.8118
 longitude: 126.3922
-score: 4.042
+score: 4.171
 snippet: South Jeolla port city of island views, colonial-era streets, and seafood
   markets.
 wikidata: Q42094
@@ -12,10 +12,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Mokpo
 - https://visit.mokpo.go.kr/
 - https://biz.mokpo.go.kr/toureng/attraction/nineplace/yudalsan
-heritage: 2.596
-vibrancy: 2.417
-nature: 5.098
-off_the_beaten_track: 2.298
+heritage: 2.9
+vibrancy: 2.479
+nature: 5.236
+off_the_beaten_track: 2.214
 ---
 
 Mokpo sits at the southwest corner of mainland [South Korea](/asia/southkorea), where the hills drop into ferry terminals, fishing boats, and the broken island country of the Dadohae. It is a working port first and a tourist town second, which is part of its appeal: the city feels salty, compact, and a little worn in the best way.

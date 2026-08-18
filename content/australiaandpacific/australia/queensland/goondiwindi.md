@@ -5,7 +5,7 @@ loc_type: city
 latitude: -28.5415
 longitude: 150.31
 wikidata: Q1021725
-score: 3.869
+score: 4.034
 snippet: Queensland border town with river walks, cotton country, and the Gunsynd
   legend.
 sources:
@@ -16,10 +16,10 @@ image: goondiwindi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Goondiwindi_Custom_House_Museum-1_(5143889208).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Sheba Also
-heritage: 2.878
-vibrancy: 2.172
-nature: 4.742
-off_the_beaten_track: 4.111
+heritage: 3.074
+vibrancy: 2.439
+nature: 4.95
+off_the_beaten_track: 3.825
 ---
 
 Goondiwindi is a Queensland border town on the Macintyre River, better as a half-day or overnight stop than as a destination you cross the country to see. It passes the World66 test because its anchors are genuinely local: the old customs point, the river border, cotton country, and the racehorse Gunsynd, still treated here like a civic hero.

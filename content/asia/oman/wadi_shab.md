@@ -2,7 +2,7 @@
 latitude: 22.3558
 loc_type: feature
 longitude: 59.3006
-score: 5.921
+score: 5.958
 snippet: Spring-fed limestone gorge on the coast road south of Muscat, with turquoise
   swimming pools and a hidden cave waterfall.
 title: Wadi Shab
@@ -11,10 +11,10 @@ image: wadi_shab.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Wadi_Shab,_Oman.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Uhooep
-heritage: 1.835
-vibrancy: 1.227
-nature: 7.73
-off_the_beaten_track: 4.745
+heritage: 2.401
+vibrancy: 1.12
+nature: 7.698
+off_the_beaten_track: 5.039
 ---
 
 Wadi Shab is one of the most dramatic gorges in Oman, a narrow canyon cut through the limestone mountains along the coast road between Muscat and Sur. What sets it apart from the country's many other wadis is water: the floor runs with a stream fed by natural springs even in the dry season, which is unusual enough on the Arabian Peninsula to feel genuinely remarkable. The walls rise steeply on either side, date palms and terraced smallholdings crowd the canyon floor, and at the inner end a chain of deep turquoise pools opens up where swimming is the whole point of the visit.

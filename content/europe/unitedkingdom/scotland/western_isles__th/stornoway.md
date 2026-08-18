@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 58.209
 longitude: -6.387
-score: 6.195
+score: 6.447
 snippet: Outer Hebrides harbour town where Gaelic island life meets ferries, arts,
   and Lews Castle.
 sources:
@@ -14,10 +14,10 @@ image: stornoway.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bayhead,_Stornoway_(geograph_2621877).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Colin Smith
-heritage: 4.851
-vibrancy: 1.949
-nature: 7.546
-off_the_beaten_track: 6.135
+heritage: 5.347
+vibrancy: 1.91
+nature: 7.727
+off_the_beaten_track: 5.851
 ---
 
 Stornoway is the only real town in the [Outer Hebrides](/europe/unitedkingdom/scotland/western_isles__th), a working harbour that can feel almost urban after days of peat moor, machair, and single-track roads. The Ullapool ferry lands here, buses fan out across Lewis and Harris, and most visitors pass through at least twice.

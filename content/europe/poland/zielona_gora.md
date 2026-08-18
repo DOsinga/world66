@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: 51.9333
 longitude: 15.5
-score: 4.142
+score: 3.988
 snippet: Western Polish wine city with a university buzz, old-town squares, and vineyard
   history.
 sources:
 - https://en.wikivoyage.org/wiki/Zielona_G%C3%B3ra
 - https://en.wikipedia.org/wiki/Zielona_G%C3%B3ra
 - https://www.poland.travel/en/zielona-gora-the-city-of-the-future/
-heritage: 4.615
-vibrancy: 3.923
-nature: 3.949
-off_the_beaten_track: 1.701
+heritage: 3.896
+vibrancy: 4.049
+nature: 3.83
+off_the_beaten_track: 1.899
 ---
 
 Zielona Góra is Poland's wine city, a green, student-filled place in the west of the country where vineyards once covered the surrounding hills. It is not a grand museum city like [Krakow](/europe/poland/krakow), but it has a distinct flavour: old Silesian streets, a lively university population, and a stubborn wine tradition that has survived wars, borders, communism, and fashion.

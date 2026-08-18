@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: -33.4186
 longitude: 149.5791
-score: 4.567
+score: 4.507
 snippet: Central West city where Australian motor racing, gold-rush history, and inland
   heritage meet.
 sources:
 - https://en.wikivoyage.org/wiki/Bathurst_(New_South_Wales)
 - https://www.visitnsw.com/destinations/country-nsw/bathurst-area/bathurst
 - https://museumsbathurst.com.au/
-heritage: 4.394
-vibrancy: 4.494
-nature: 4.756
-off_the_beaten_track: 3.602
+heritage: 3.815
+vibrancy: 4.476
+nature: 4.588
+off_the_beaten_track: 3.597
 ---
 
 Bathurst is the oldest inland European settlement in Australia, a Central West city about 200 kilometres west of [Sydney](/australiaandpacific/australia/newsouthwales/sydney). It has the broad streets, cold winters, and solid public buildings of a wealthy nineteenth-century country town, but its modern identity is tied just as strongly to motor racing.

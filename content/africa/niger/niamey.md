@@ -10,7 +10,7 @@ quick_facts:
   Hippos: Upstream from the city
   On the River: The Niger
   Population: ~1.3 million
-score: 2.862
+score: 3.287
 snippet: Nigerien capital on a bend of the Niger River, where Sahelian trade fills
   open-air markets.
 tip: Niamey is a low-slung capital on the Niger River, where pirogues drift past and
@@ -19,10 +19,10 @@ tip: Niamey is a low-slung capital on the Niger River, where pirogues drift past
   are the social hubs. Check security advisories carefully before any travel in Niger.
 title: Niamey
 type: location
-heritage: 1.958
-vibrancy: 1.451
-nature: 0.939
-off_the_beaten_track: 5.109
+heritage: 2.923
+vibrancy: 2.102
+nature: 1.711
+off_the_beaten_track: 5.462
 ---
 
 Niamey is the capital of [Niger](/africa/niger) and its only real city, sprawling along a bend in the Niger River in the far west of the country. It is dusty, hot, and chaotic in the best possible way — a place where Tuareg, Songhai, Fulani, and Hausa traders all converge in open-air markets that are as much theatre as commerce.

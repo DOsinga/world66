@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:City_of_Adelaide_150th_ann
 latitude: -34.8343
 loc_type: city
 longitude: 138.5124
-score: 4.31
+score: 4.097
 snippet: Historic maritime quarter of Adelaide, where old wool stores and warehouses
   line the Port River.
 title: Port Adelaide
 type: location
-heritage: 4.164
-vibrancy: 4.236
-nature: 4.502
-off_the_beaten_track: 1.875
+heritage: 3.535
+vibrancy: 4.096
+nature: 4.1
+off_the_beaten_track: 1.993
 ---
 
 Port Adelaide is the historic maritime quarter of Adelaide, sitting about fourteen kilometers northwest of the city center on the Port River. Once the gateway for immigrants arriving in South Australia and the hub of the state's shipping trade, it fell into decline in the late twentieth century but has been reviving steadily, with old wool stores and warehouses being converted into apartments, cafes, and galleries while retaining genuine character. It feels grittier and more interesting than much of suburban Adelaide.

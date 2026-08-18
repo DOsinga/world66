@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Pueblo_Bonito_Aerial.JPG
 latitude: 36.2668
 loc_type: city
 longitude: -107.7456
-score: 4.574
+score: 4.788
 snippet: Remote New Mexico settlement beside Chaco Canyon, the monumental heart of
   ancestral Puebloan culture.
 title: Nageezi
 type: location
-heritage: 3.801
-vibrancy: 2.108
-nature: 5.479
-off_the_beaten_track: 4.614
+heritage: 3.633
+vibrancy: 2.369
+nature: 5.882
+off_the_beaten_track: 4.431
 ---
 
 The main reason to come to Nageezi is Chaco Culture National Historical Park, one of the most impressive archaeological sites in North America. Chaco Canyon was a major center of ancestral Puebloan culture between AD 850 and 1250 -- a hub of ceremony, trade, and administration for the prehistoric Four Corners area, unlike anything before or since.

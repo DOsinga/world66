@@ -2,7 +2,7 @@
 latitude: 20.551
 loc_type: city
 longitude: -102.509
-score: 4.611
+score: 4.672
 snippet: Highland Jalisco tequila town known for Don Julio, Patron, and Los Altos
   agave country.
 sources:
@@ -15,10 +15,10 @@ image_license: CC BY-SA 3.0
 image_attribution: Noé González-Gallegos
 original_overview: Atotonilco is a small town in the mountains that surround the Tequila
   Valley in Jalisco, Mexico.
-heritage: 3.995
-vibrancy: 2.932
-nature: 5.454
-off_the_beaten_track: 3.246
+heritage: 3.854
+vibrancy: 2.727
+nature: 5.608
+off_the_beaten_track: 3.46
 ---
 
 Atotonilco El Alto sits in the highlands east of Guadalajara, in the Los Altos side of Jalisco's tequila country. The town is closely tied to premium tequila: Don Julio began here, Patron has a large hacienda on the edge of town, and Siete Leguas still works with traditional methods that serious tequila drinkers care about.

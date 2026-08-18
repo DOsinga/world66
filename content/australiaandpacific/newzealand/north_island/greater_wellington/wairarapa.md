@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Wairarapa.jpg
 latitude: -41.23618
 loc_type: feature
 longitude: 175.21969
-score: 6.402
+score: 6.163
 snippet: Rural Greater Wellington region of wide valleys, vineyards, small towns,
   and Lake Wairarapa.
 title: Wairarapa
 type: location
-heritage: 4.587
-vibrancy: 5.357
-nature: 7.334
-off_the_beaten_track: 3.434
+heritage: 4.164
+vibrancy: 4.986
+nature: 7.143
+off_the_beaten_track: 3.035
 ---
 
 The Wairarapa is the rural heart of the [Greater Wellington](/australiaandpacific/newzealand/north_island/greater_wellington) region, separated from the capital by the dramatic Rimutaka Range. Once you cross the hill road or take the train through the tunnel, Wellington's urban energy gives way to wide valleys, vineyards, and small towns with a distinctly unhurried pace. The name means "glistening waters," a reference to the large Lake Wairarapa that sits at the southern end of the plains.

@@ -15,7 +15,7 @@ quick_facts:
   Hassan Tower: A minaret left unfinished in 1199
   Kasbah des Udayas: Blue-and-white clifftop quarter
   Population: ~580,000
-score: 5.222
+score: 5.969
 snippet: Atlantic Moroccan capital at the Bou Regreg, with Oudaya lanes, Chellah ruins,
   and a calmer imperial-city pace.
 sources:
@@ -28,10 +28,10 @@ tip: Rabat is Morocco's calm, elegant capital — far more relaxed than Marrakes
   simple.
 title: Rabat
 type: location
-heritage: 5.718
-vibrancy: 5.073
-nature: 2.254
-off_the_beaten_track: 1.857
+heritage: 6.953
+vibrancy: 5.041
+nature: 3.283
+off_the_beaten_track: 1.804
 ---
 
 Morocco's capital sits where the Bou Regreg river meets the Atlantic, and it is the most liveable of the country's imperial cities. No carpet touts, no maze you cannot escape from — Rabat moves at a human pace. A million people live in the city and neighbouring Salé, but the old medina feels like a small town. That is part of its appeal.

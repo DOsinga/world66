@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hafer_Park_Pond.jpg
 latitude: 35.65
 loc_type: city
 longitude: -97.4667
-score: 2.079
+score: 1.588
 snippet: North Oklahoma City suburb with a university core, Route 66 traces, and quieter
   parks.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/University_of_Central_Oklahoma
 title: Edmond
 type: location
-heritage: 1.905
-vibrancy: 2.032
-nature: 2.201
-off_the_beaten_track: 1.05
+heritage: 1.517
+vibrancy: 1.627
+nature: 1.35
+off_the_beaten_track: 1.391
 ---
 
 Edmond sits just north of Oklahoma City, close enough to the capital to share its commuting rhythm but old enough to have its own downtown and university life. It began as a stop on the Santa Fe Railway and later became one of the better-known towns along Oklahoma's stretch of Route 66.

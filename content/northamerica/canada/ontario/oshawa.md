@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: 43.9
 longitude: -78.85
-score: 4.402
+score: 4.499
 snippet: Eastern Greater Toronto city shaped by Canada's car industry and the McLaughlin
   family fortune.
 wikidata: Q211867
 sources:
 - https://en.wikivoyage.org/wiki/Oshawa
 - https://en.wikipedia.org/wiki/Oshawa
-heritage: 3.178
-vibrancy: 3.821
-nature: 4.977
-off_the_beaten_track: 1.2
+heritage: 3.168
+vibrancy: 4.194
+nature: 4.947
+off_the_beaten_track: 1.142
 ---
 
 Oshawa sits on the eastern edge of the Greater Toronto Area, close enough to be swallowed by the commuter map but still distinct in mood. Its identity was built around cars: the McLaughlin carriage and motor companies, General Motors Canada, and more than a century of industrial work.

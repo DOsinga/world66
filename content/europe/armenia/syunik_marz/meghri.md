@@ -5,15 +5,15 @@ done:
 latitude: 38.9013
 loc_type: city
 longitude: 46.2459
-score: 5.143
+score: 5.324
 snippet: Southern Armenian border town above the Arax River, with medieval churches
   and Middle Eastern texture.
 title: Meghri
 type: location
-heritage: 4.544
-vibrancy: 2.179
-nature: 6.045
-off_the_beaten_track: 6.227
+heritage: 3.88
+vibrancy: 2.0
+nature: 6.433
+off_the_beaten_track: 5.96
 ---
 
 Meghri is Armenia's southernmost town, perched above the Arax River where it forms the border with Iran. The place has a completely different feel from the rest of the country — [the narrow, winding alleys, the dusty craggy peaks, the sand-brown buildings and medieval churches](/europe/armenia/syunik_marz/meghri/old_quarter) all carry a Middle Eastern character that Soviet planning was never quite able to erase.

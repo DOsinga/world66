@@ -10,15 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Anantapur_Clock_tower_at_n
 latitude: 14.6819
 loc_type: city
 longitude: 77.6006
-score: 2.927
+score: 3.053
 snippet: Rayalaseema district capital on the Deccan plateau, in one of India's driest
   districts.
 title: Anantapur
 type: location
-heritage: 2.897
-vibrancy: 2.844
-nature: 1.578
-off_the_beaten_track: 4.448
+heritage: 3.111
+vibrancy: 3.054
+nature: 1.835
+off_the_beaten_track: 3.843
 ---
 
 Anantapur is the administrative capital of Anantapur district in the Rayalaseema region of Andhra Pradesh, one of the driest districts in India. It sits on the Deccan plateau at around 350m elevation, about 200km north of Bangalore and 500km from Hyderabad.

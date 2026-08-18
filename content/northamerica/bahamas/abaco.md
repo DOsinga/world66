@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hopetown-lighthouse.jpg
 latitude: 26.4667
 loc_type: city
 longitude: -77.0833
-score: 5.221
+score: 5.791
 snippet: Bahamas cay chain built for sailing, with protected anchorages, turquoise
   flats, and small island settlements.
 sources:
@@ -19,10 +19,10 @@ sources:
 - https://en.wikipedia.org/wiki/Man-O-War_Cay
 title: Abaco
 type: location
-heritage: 3.868
-vibrancy: 2.417
-nature: 6.362
-off_the_beaten_track: 5.67
+heritage: 4.134
+vibrancy: 2.445
+nature: 7.22
+off_the_beaten_track: 5.755
 ---
 
 The Abaco Islands form a boomerang-shaped chain of cays at the northern tip of the Bahamas, stretching roughly 130 miles from Walker's Cay down to Hole-in-the-Wall. This is sailing country: hundreds of protected anchorages, shallow turquoise flats, and a string of small cay settlements connected by water taxi. Most visitors arrive at Marsh Harbour, the main town on Great Abaco, and spend their time hopping between the cays.

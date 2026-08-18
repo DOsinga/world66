@@ -6,7 +6,7 @@ country: United Kingdom
 latitude: 56.36
 longitude: -5.86
 wikidata: Q6665078
-score: 4.523
+score: 4.637
 snippet: Remote Mull glen of clan ruins, standing stones, sea-loch walks, and Ben
   Buie.
 sources:
@@ -19,10 +19,10 @@ image: lochbuie.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lochbuie.JPG
 image_license: CC BY 3.0
 image_attribution: W. L. Tarbert
-heritage: 3.629
-vibrancy: 2.369
-nature: 5.473
-off_the_beaten_track: 3.466
+heritage: 3.614
+vibrancy: 2.259
+nature: 5.655
+off_the_beaten_track: 3.632
 ---
 
 Lochbuie is a small, tucked-away corner of southeast Mull where the road ends in a glen of cattle fields, sea air, and old MacLaine history. It is not a village in the usual sense. It is a place you come to walk: from [Moy Castle](/europe/unitedkingdom/scotland/isle_of_mull/lochbuie/moy_castle) to the beach, from the old chapel-mausoleum to the stone circle, with Ben Buie rising behind everything like a blunt pyramid.

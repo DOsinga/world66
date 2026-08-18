@@ -9,15 +9,15 @@ image_source: https://www.flickr.com/photos/9297241@N02/31311384470
 latitude: 37.1891
 loc_type: city
 longitude: -112.9988
-score: 5.545
+score: 5.958
 snippet: Tiny Utah gateway town at Zion Canyon's mouth, backed by red-and-white sandstone
   cliffs.
 title: Springdale
 type: location
-heritage: 2.052
-vibrancy: 1.942
-nature: 7.33
-off_the_beaten_track: 4.144
+heritage: 2.29
+vibrancy: 1.853
+nature: 7.896
+off_the_beaten_track: 4.386
 ---
 
 Springdale is a tiny town at the mouth of Zion Canyon, existing almost entirely as the gateway to Zion National Park. The park's sheer red-and-white sandstone cliffs rise straight up from the valley floor, and the main canyon is accessible by shuttle bus from Springdale's doorstep.

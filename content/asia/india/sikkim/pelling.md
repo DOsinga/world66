@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sunrise_over_Kangchenjunga
 latitude: 27.3004
 loc_type: city
 longitude: 88.2357
-score: 6.189
+score: 6.491
 snippet: Western Sikkim hill town with accessible Kanchenjunga views, monasteries,
   and trekking through cardamom farms.
 sources:
@@ -20,10 +20,10 @@ sources:
 - https://en.wikipedia.org/wiki/Khecheopalri_Lake
 title: Pelling
 type: location
-heritage: 4.967
-vibrancy: 1.315
-nature: 7.487
-off_the_beaten_track: 5.86
+heritage: 5.339
+vibrancy: 1.435
+nature: 7.798
+off_the_beaten_track: 5.912
 ---
 
 **Pelling** is a small hill town in western Sikkim that sits at around 2,150 metres and offers some of the most accessible views of Kanchenjunga, the world's third-highest mountain. It is the main base for trekking in this part of the state, including the popular four-day Local Trek through villages, cardamom farms and rhododendron forest.

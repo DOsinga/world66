@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Herenhuis_%27De_Clercq%27_
 latitude: 51.184042
 loc_type: city
 longitude: 5.115527
-score: 2.972
+score: 3.246
 snippet: Kempen town where flooded sand quarries have become Flanders swimming lakes
   and artificial beaches
 title: Mol
 type: location
-heritage: 2.723
-vibrancy: 1.949
-nature: 3.452
-off_the_beaten_track: 1.718
+heritage: 3.472
+vibrancy: 2.004
+nature: 3.559
+off_the_beaten_track: 1.634
 ---
 
 Mol is a town of about 37,000 inhabitants in the Kempen region of northeastern [Belgium](/europe/belgium), an area of heathland, pine forests, and sandy soil that feels distinctly different from the rest of Flanders. The town's main attraction is its artificial beaches — old sand quarries from the glass industry that have been flooded and transformed into popular swimming lakes, drawing crowds from across the region on summer weekends.

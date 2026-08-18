@@ -4,15 +4,15 @@ done:
 latitude: 21.522462
 loc_type: city
 longitude: 70.460207
-score: 6.293
+score: 5.918
 snippet: Gujarati city at Mount Girnar's foot, with fortress ruins and access to Asiatic
   lion country.
 title: Junagadh
 type: location
-heritage: 7.327
-vibrancy: 3.182
-nature: 5.945
-off_the_beaten_track: 3.24
+heritage: 6.813
+vibrancy: 2.814
+nature: 5.766
+off_the_beaten_track: 3.225
 ---
 
 Junagadh sits at the foot of [Mount Girnar](/asia/india/gujarat/junagadh/mount_girnar), a sacred hill topped with Jain and Hindu temples that you reach by climbing over 10,000 stone steps. The climb is demanding but rewarding — start before dawn and you will share the trail with pilgrims and the occasional langur monkey, reaching the top as the sun rises over the Saurashtra plain.

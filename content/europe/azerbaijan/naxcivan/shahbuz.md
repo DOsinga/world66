@@ -6,17 +6,17 @@ done:
 latitude: 39.438582
 loc_type: city
 longitude: 45.607133
-score: 4.589
+score: 4.566
 snippet: Mountain district of Nakhchivan, marked by high valleys, mineral springs,
   and ancient watchtowers.
 sources:
 - https://en.wikipedia.org/wiki/%C5%9Eahbuz
 title: Shahbuz
 type: location
-heritage: 2.953
-vibrancy: 1.542
-nature: 5.349
-off_the_beaten_track: 5.779
+heritage: 2.067
+vibrancy: 1.865
+nature: 5.314
+off_the_beaten_track: 5.776
 ---
 
 Shahbuz is a small mountain district in the [Nakhchivan Autonomous Republic](/europe/azerbaijan/naxcivan) of Azerbaijan, bordering Armenia to the north and east. The district takes its name from a medieval watchtower on a nearby peak — the [Shahbuz Tower](/europe/azerbaijan/naxcivan/shahbuz/shahbuz_tower) — which in turn was named for the mountain Shanbuztepe. The toponym is thought to derive from the Persian for "royal falcon."

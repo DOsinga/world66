@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -33.9667
 longitude: 23.8833
-score: 5.76
+score: 5.821
 snippet: Garden Route village on the forested Tsitsikamma edge, known for gorges,
   canopy tours, and coastal walks.
 wikidata: Q7620269
@@ -12,10 +12,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Storms_River
 - https://en.wikivoyage.org/wiki/Tsitsikamma_National_Park
 - https://www.sanparks.org/parks/garden-route
-heritage: 3.052
-vibrancy: 1.855
+heritage: 3.276
+vibrancy: 1.597
 nature: 7.634
-off_the_beaten_track: 3.77
+off_the_beaten_track: 4.036
 ---
 
 Storms River is a small village on the eastern end of South Africa's [Garden Route](/africa/southafrica/gardenroute), where indigenous forest, pine plantations, river gorges, and wild Indian Ocean coastline crowd into a surprisingly tight area. It is not a big-town stop with many urban pleasures. Its appeal is that you can wake up in the trees and spend the day walking boardwalks above a river mouth, flying through the forest canopy, or looking down into one of the country's great road bridges.

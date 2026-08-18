@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -34.7753
 longitude: 150.6952
-score: 4.16
+score: 4.161
 snippet: South Coast heritage village with old shopfronts, escarpment walks, and easy
   access to Seven Mile Beach.
 sources:
@@ -20,10 +20,10 @@ image: berry.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Berry,_New_South_Wales.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Maksym Kozlenko
-heritage: 3.4
-vibrancy: 1.906
-nature: 5.007
-off_the_beaten_track: 3.587
+heritage: 3.39
+vibrancy: 1.882
+nature: 5.012
+off_the_beaten_track: 3.479
 ---
 
 Berry is a small South Coast town that has learned how to be a day trip without losing all of its village bones. Queen Street still has old shopfronts, a handsome museum building, bakeries, cafes, and enough weekend traffic to remind you that Sydney is only a couple of hours away.

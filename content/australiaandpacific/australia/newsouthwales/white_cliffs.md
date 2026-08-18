@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -30.8333
 longitude: 143.0833
-score: 5.213
+score: 5.567
 snippet: Remote New South Wales opal town where dugouts and mine mullock shape the
   desert.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://www.visitnsw.com/destinations/outback-nsw/white-cliffs-area/white-cliffs
 - https://www.visitbrokenhill.com/Far-West-NSW/White-Cliffs
 - https://www.whitecliffsnsw.com.au/other-attractions
-heritage: 3.814
-vibrancy: 1.864
-nature: 6.262
-off_the_beaten_track: 5.957
+heritage: 2.429
+vibrancy: 2.076
+nature: 6.784
+off_the_beaten_track: 6.046
 ---
 
 White Cliffs is a small opal town in far western New South Wales, set in dry country north of Wilcannia. It is remote, hot, and odd in the best travel-guide sense: the surrounding fields are pocked with small mine workings, and many locals have lived partly underground to escape summer temperatures that can turn brutal above ground.

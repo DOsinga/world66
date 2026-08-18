@@ -5,15 +5,15 @@ done:
 latitude: 34.643
 loc_type: city
 longitude: -97.164
-score: 2.144
+score: 1.552
 title: Wynnewood
 snippet: Small south-central Oklahoma town near the Arbuckle Mountains, known from
   the Tiger King exotic animal park.
 type: location
-heritage: 2.074
-vibrancy: 2.093
-nature: 2.277
-off_the_beaten_track: 1.068
+heritage: 1.583
+vibrancy: 1.552
+nature: 1.314
+off_the_beaten_track: 1.412
 ---
 
 Wynnewood is a small town of about 2,300 people in south-central Oklahoma, straddling US-77 between Oklahoma City and the Arbuckle Mountains. The town gained unexpected fame as the home of the [Greater Wynnewood Exotic Animal Park](/northamerica/unitedstates/oklahoma/wynnewood/greater_wynnewood_exotic_animal_park), the zoo featured in the Netflix documentary *Tiger King*. The park has changed hands and names several times since the show aired.

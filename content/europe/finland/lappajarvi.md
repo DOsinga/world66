@@ -4,17 +4,17 @@ done:
 latitude: 63.2167
 loc_type: city
 longitude: 23.6333
-score: 3.722
+score: 2.894
 snippet: Finnish lakeside municipality built around a rare meteorite crater lake.
 sources:
 - https://en.wikivoyage.org/wiki/Lappaj%C3%A4rvi
 - https://en.wikipedia.org/wiki/Lappaj%C3%A4rvi
 title: Lappajärvi
 type: location
-heritage: 2.244
-vibrancy: 1.687
-nature: 4.818
-off_the_beaten_track: 2.497
+heritage: 1.723
+vibrancy: 1.385
+nature: 3.756
+off_the_beaten_track: 2.338
 ---
 
 Lappajärvi is a quiet South Ostrobothnian municipality with one genuinely odd claim to fame: its lake is a meteorite crater. You do not come for urban life. You come because the landscape is pleasant, the pace is slow, and the story under the water is much stranger than the first view suggests.

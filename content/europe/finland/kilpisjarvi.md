@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: 69.017
 longitude: 20.873
-score: 6.066
+score: 6.296
 snippet: Arctic Finnish village below Saana fell, beside the Norway-Sweden-Finland
   tripoint.
 sources:
 - https://en.wikivoyage.org/wiki/Kilpisj%C3%A4rvi
 - https://en.wikipedia.org/wiki/Kilpisj%C3%A4rvi
-heritage: 1.798
-vibrancy: 1.62
-nature: 7.441
-off_the_beaten_track: 6.429
+heritage: 2.296
+vibrancy: 1.285
+nature: 7.73
+off_the_beaten_track: 6.648
 ---
 
 Kilpisjärvi is Finland's only real alpine village, a tiny settlement in the far northwestern "arm" of Lapland where the country presses against Norway and Sweden. It sits beside a cold clear lake, with the blunt profile of [Saana](/europe/finland/kilpisjarvi/saana) rising straight behind the houses.

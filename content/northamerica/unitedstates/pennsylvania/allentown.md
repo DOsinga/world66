@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1910_-_Center_Square_Looki
 latitude: 40.6017
 loc_type: city
 longitude: -75.4772
-score: 4.732
+score: 4.076
 snippet: Lehigh Valley city with industrial history, Dorney Park, art museums, and
   a hidden Liberty Bell story.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Allentown_Art_Museum
 title: Allentown
 type: location
-heritage: 4.022
-vibrancy: 5.037
-nature: 3.347
-off_the_beaten_track: 1.169
+heritage: 2.853
+vibrancy: 4.571
+nature: 2.577
+off_the_beaten_track: 1.343
 ---
 
 Allentown is the largest city in Pennsylvania's Lehigh Valley, a place with old manufacturing bones, a revived downtown arena district, and a surprising Revolutionary War footnote. It is not as polished as Philadelphia or as postcard-pretty as some small Pennsylvania towns, but it has enough museums, parks, and working-city texture to reward a stop.

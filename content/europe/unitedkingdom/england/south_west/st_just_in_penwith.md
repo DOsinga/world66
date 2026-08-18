@@ -10,17 +10,17 @@ image_source: https://commons.wikimedia.org/wiki/File:St_Just_in_Penwith_-_geogr
 latitude: 50.124369
 loc_type: city
 longitude: -5.679704
-score: 5.424
+score: 5.378
 snippet: Granite market town on the Penwith peninsula, surrounded by Cornwall's old
   tin-mining engine houses.
 tags:
 - cornwall
 title: St Just in Penwith
 type: location
-heritage: 5.216
-vibrancy: 1.84
-nature: 6.196
-off_the_beaten_track: 3.894
+heritage: 5.269
+vibrancy: 1.696
+nature: 6.103
+off_the_beaten_track: 4.162
 ---
 
 St Just in Penwith is the most westerly town in England, a small granite-built market town on the rugged Penwith peninsula a few miles from Land's End. It sits in country shaped by tin mining — the clifftops around the town are studded with the engine houses and chimney stacks of former mines, some of the finest industrial archaeology anywhere in Britain.

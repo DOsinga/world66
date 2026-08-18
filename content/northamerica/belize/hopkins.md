@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Almond_Beach,_Hopkins,_Sta
 latitude: 16.8633
 loc_type: city
 longitude: -88.2669
-score: 5.708
+score: 6.186
 title: Hopkins
 type: location
 snippet: Garifuna village on Belize's coast, known for beaches, drumming culture,
   and access to nearby reefs.
-heritage: 2.044
-vibrancy: 2.476
-nature: 6.994
-off_the_beaten_track: 6.074
+heritage: 2.061
+vibrancy: 3.217
+nature: 7.693
+off_the_beaten_track: 6.21
 ---
 
 Hopkins is a Garifuna fishing village on the southern coast, about 45 km south of Dangriga. It's one of the best places in Belize to slow down, eat well, and experience Garifuna culture without the package-resort crowds.

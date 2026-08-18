@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Flag_of_Tacloban,_Leyte.pn
 latitude: 11.2447
 loc_type: city
 longitude: 125.0048
-score: 4.206
+score: 4.389
 snippet: Leyte port city marked by MacArthur's 1944 landing and its rebuilt bayfront
   after Haiyan.
 title: Tacloban City
 type: location
-heritage: 3.311
-vibrancy: 3.608
-nature: 4.776
-off_the_beaten_track: 2.996
+heritage: 3.094
+vibrancy: 3.777
+nature: 4.978
+off_the_beaten_track: 2.97
 ---
 
 Tacloban is the capital of Eastern Visayas and the busiest port on the island of Leyte, a low-rise grid of jeepneys, karinderyas, and concrete churches strung between Cancabato Bay and the green ridges behind it. Most travellers know it for two things: the Allied landing at Red Beach in October 1944, when General Douglas MacArthur waded ashore and made good on his "I shall return" promise, and Typhoon Haiyan (locally known as Yolanda), which flattened the city in November 2013 and killed thousands. The Tacloban you visit today is the rebuilt one — bigger, brasher, and visibly proud to still be here.

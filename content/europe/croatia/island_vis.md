@@ -3,26 +3,28 @@ done:
   location_cleanup: '2026-04-10'
   location_enrich: '2026-06-03'
 latitude: 43.043421
-loc_type: city
+loc_type: island
 longitude: 16.165472
-score: 6.023
+score: 5.479
 snippet: Remote Croatian Adriatic island once closed as a Yugoslav military base,
   with Vis town and Komiža.
-title: Island Vis
+tags:
+- dalmatia
+title: Vis Island
 type: location
 image: island_vis.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Adriatic_Sea_at_Stiniva_Bay_on_Vis_island_in_Croatia_(48608804397).jpg
 image_license: CC BY 2.0
 image_attribution: dronepicr
-heritage: 5.62
-vibrancy: 4.387
-nature: 6.953
-off_the_beaten_track: 3.375
+heritage: 4.753
+vibrancy: 4.481
+nature: 6.327
+off_the_beaten_track: 4.284
 ---
 
 Vis is the most remote of [Croatia's](/europe/croatia) major Adriatic islands, lying about two hours by ferry from [Split](/europe/croatia/split). For decades it was a Yugoslav military base, closed to foreigners until 1989, and that enforced isolation is precisely what makes it special today. While closer islands like [Hvar](/europe/croatia/hvar) and [Brac](/europe/croatia/brac) have been heavily developed for tourism, Vis retains a quiet, unhurried character that feels like the Dalmatian coast of thirty years ago.
 
-The island has two main towns. [Vis town](/europe/croatia/island_vis/vis_town) on the eastern side has a long waterfront promenade, the remains of the Greek-Roman [Issa archaeological site](/europe/croatia/island_vis/issa_archaeological), and several excellent seafood restaurants along the harbour. [Komiža](/europe/croatia/island_vis/komiza) on the western coast is a traditional fishing village built around a deep bay, and the starting point for boat trips to the [Blue Cave](/europe/croatia/island_vis/blue_cave) on the nearby island of Biševo — a sea cave where sunlight enters through an underwater opening and turns the water an electric, luminous blue.
+The island has two main towns. [Vis town](/europe/croatia/vis) on the eastern side has a long waterfront promenade, the remains of the Greek-Roman Issa archaeological site, and several excellent seafood restaurants along the harbour. [Komiža](/europe/croatia/komiza_vis_island) on the western coast is a traditional fishing village built around a deep bay, and the starting point for boat trips to the [Blue Cave](/europe/croatia/island_vis/blue_cave) on the nearby island of Biševo — a sea cave where sunlight enters through an underwater opening and turns the water an electric, luminous blue.
 
 The interior of the island is given over to vineyards, olive groves, and scrubby Mediterranean hillsides. Vis produces Vugava, a white wine grape found almost nowhere else, and the local reds are also worth trying. [Mount Hum](/europe/croatia/island_vis/mount_hum) at the centre is the highest point and the best viewpoint; the abandoned [Yugoslav military tunnels](/europe/croatia/island_vis/military_tunnels) honeycombing the cliffs are a strange, slightly haunting reminder of the closed years.
 

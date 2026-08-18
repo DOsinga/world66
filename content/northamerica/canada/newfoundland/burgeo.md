@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 47.62
 longitude: -57.6217
-score: 6.41
+score: 6.306
 snippet: Remote Newfoundland outport on a south-coast peninsula, backed by dunes,
   beaches, and island ferries.
 sources:
@@ -14,10 +14,10 @@ image: burgeo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Burgeo_Islands_.jpg
 image_license: CC BY-SA 4.0
 image_attribution: ParsonsPhotographyNL
-heritage: 3.661
-vibrancy: 0.712
-nature: 7.888
-off_the_beaten_track: 6.711
+heritage: 2.459
+vibrancy: 0.885
+nature: 7.721
+off_the_beaten_track: 6.726
 ---
 
 Burgeo is a small outport on Newfoundland's south coast, far from the island's main travel routes. The road in, Route 480, runs through empty barrens and forest before ending at a harbour scattered with islands and coves.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cycling_in_Fraser's_Hill_J
 latitude: 3.713048
 loc_type: city
 longitude: 101.736557
-score: 4.903
+score: 5.079
 snippet: Quiet Pahang hill station with cool montane forest and some of Peninsular
   Malaysia's richest birdlife.
 title: Fraser's Hill
 type: location
-heritage: 4.173
-vibrancy: 2.239
-nature: 5.831
-off_the_beaten_track: 3.919
+heritage: 4.299
+vibrancy: 2.107
+nature: 6.051
+off_the_beaten_track: 4.115
 ---
 
 Fraser's Hill is a quiet hill station in the mountains of Pahang, about two hours' drive north of Kuala Lumpur. At around 1,500 metres, it is noticeably cooler than the lowlands — evenings can be genuinely chilly, so bring a sweater.

@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:La_Rioja_-_Villa_Uni%C3%B3
 latitude: -29.3178
 loc_type: city
 longitude: -68.2279
-score: 4.487
+score: 4.207
 snippet: Bermejo Valley base town for Talampaya, high Andean lagoons, red cliffs,
   and Ruta 40.
 sources:
@@ -15,10 +15,10 @@ sources:
 - https://www.wikidata.org/wiki/Q2535733
 title: Villa Unión
 type: location
-heritage: 5.322
-vibrancy: 2.101
-nature: 4.018
-off_the_beaten_track: 4.195
+heritage: 4.695
+vibrancy: 2.689
+nature: 4.435
+off_the_beaten_track: 3.825
 ---
 
 Villa Unión is a small town in western La Rioja, set in the Bermejo Valley between red hills, dry riverbeds, vineyards, and the first serious lift of the Andes. The town is useful rather than beautiful, but it has a clear travel identity: this is the base for some of Argentina's most dramatic desert landscapes.

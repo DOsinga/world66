@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Siping_Martyr_Cenotaph_201
 latitude: 43.1715
 loc_type: city
 longitude: 124.3644
-score: 3.41
+score: 3.5
 snippet: Jilin railway city remembered for major Chinese Civil War battles around
   its strategic junction.
 sources:
 - https://en.wikivoyage.org/wiki/Siping
 title: Siping
 type: location
-heritage: 2.859
-vibrancy: 2.068
-nature: 4.073
-off_the_beaten_track: 2.526
+heritage: 3.363
+vibrancy: 2.158
+nature: 3.999
+off_the_beaten_track: 2.394
 ---
 
 Siping lies on the main rail corridor between Beijing and Harbin, a position that made it strategically valuable in the mid-twentieth century and accounts for the bloodiest chapter in its modern history. In 1946 the city was the site of one of the most brutal battles of the Chinese Civil War, when Nationalist and Communist forces fought for control of the railway junction in engagements that killed tens of thousands and left the city almost entirely destroyed. The [Siping Campaign Memorial Museum](/asia/china/jilin/siping/siping_campaign_memorial_museum) in the Tiexi District documents this battle with the seriousness it deserves — the exhibits are detailed and the scale of the fighting is made legible in a way that doesn't require prior knowledge of the Civil War to understand. Heroes Square, where the museum sits, has the weighty civic character of a place that knows what happened here.

@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: 16.169
 longitude: -96.503
-score: 5.055
+score: 5.613
 snippet: High Sierra Sur village of cloud forest views, temazcal rituals, mushrooms,
   and slow mountain roads.
 sources:
 - https://en.wikivoyage.org/wiki/San_Jos%C3%A9_del_Pac%C3%ADfico
 - https://www.wikidata.org/wiki/Q61273400
 - https://visitmexico.com/en/destino/2490/san-jose-del-pacifico-oaxaca
-heritage: 2.792
-vibrancy: 2.681
-nature: 6.363
-off_the_beaten_track: 4.826
+heritage: 2.855
+vibrancy: 2.951
+nature: 7.157
+off_the_beaten_track: 5.059
 ---
 
 San José del Pacífico is a small mountain village high in Oaxaca's Sierra Sur, where clouds slide through pine forest and the road seems to spend more time turning than going forward. It used to be a natural overnight pause between Oaxaca City and the coast; now that faster routes bypass it, the people who still come usually mean to be here.

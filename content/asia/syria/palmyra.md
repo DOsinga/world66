@@ -5,15 +5,15 @@ done:
 latitude: 34.5527
 loc_type: city
 longitude: 38.2593
-score: 5.579
+score: 5.025
 snippet: Syrian desert oasis city, once a wealthy caravan hub under Queen Zenobia
   and Roman colonnades.
 title: Palmyra
 type: location
-heritage: 6.76
-vibrancy: 1.687
-nature: 2.506
-off_the_beaten_track: 6.621
+heritage: 6.22
+vibrancy: 1.733
+nature: 3.38
+off_the_beaten_track: 5.539
 ---
 
 Approaching Palmyra by road through the Syrian desert, you turn a corner and suddenly see a vast expanse of columns and arches rising from a green oasis. It is one of those moments that stops you cold.

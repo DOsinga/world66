@@ -7,7 +7,7 @@ done:
 latitude: 52.4797
 loc_type: city
 longitude: -1.9027
-score: 5.45
+score: 6.372
 snippet: Britain’s second city, shaped by industry, canals, multicultural neighbourhoods,
   and the Jewellery Quarter.
 title: Birmingham
@@ -16,10 +16,10 @@ image: birmingham.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Birmingham_UK_Panorama.jpg
 image_license: CC BY-SA 2.0
 image_attribution: John Gilbert
-heritage: 5.949
-vibrancy: 5.302
-nature: 2.083
-off_the_beaten_track: 1.519
+heritage: 7.35
+vibrancy: 5.527
+nature: 3.131
+off_the_beaten_track: 1.475
 ---
 
 Birmingham is Britain's second city and it has spent the last few decades proving it deserves the title. Built on industry — this is where the Industrial Revolution found its workforce — the city spent much of the twentieth century living down a reputation for concrete brutalism and spaghetti motorways. That era is over. The centre has been transformed, the canal network rivals Venice for total length, and the cultural scene punches well above its weight.

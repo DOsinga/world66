@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Davos_town.jpg
 latitude: 46.796198
 loc_type: city
 longitude: 9.823689
-score: 6.587
+score: 7.088
 snippet: High Alpine town in Graubünden, shaped by ski slopes, sanitarium history,
   and mountain air.
 title: Davos
 type: location
-heritage: 4.582
-vibrancy: 5.398
-nature: 7.601
-off_the_beaten_track: 3.027
+heritage: 5.849
+vibrancy: 6.255
+nature: 7.964
+off_the_beaten_track: 2.827
 ---
 
 Davos sits at 1,560 metres in the broad Landwasser Valley, stretching for several kilometres between two towering mountain ranges in the canton of Graubünden. It is one of the highest towns in Europe, and one of Switzerland’s most famous ski resorts. But Davos is not just a winter destination. In summer the valley turns green and the hiking is superb.

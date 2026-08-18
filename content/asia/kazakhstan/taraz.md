@@ -2,7 +2,7 @@
 latitude: 42.8961
 loc_type: city
 longitude: 71.3984
-score: 4.37
+score: 4.019
 snippet: Ancient Silk Road city in southern Kazakhstan, known for Karakhanid mausoleums
   and excavated old Taraz.
 sources:
@@ -17,10 +17,10 @@ image: taraz.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aisha-bibi_%26_Babazhi-khatun_mausoleums.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Дмитрий Кошелев
-heritage: 4.388
-vibrancy: 4.397
-nature: 2.544
-off_the_beaten_track: 4.855
+heritage: 4.491
+vibrancy: 3.779
+nature: 2.641
+off_the_beaten_track: 4.478
 ---
 
 Taraz is one of Kazakhstan's oldest cities, sitting on the Talas River near the Kyrgyz border. It is not polished in the way Almaty is, but it has something rarer: a real Silk Road past still visible in brick, tile, shrine courtyards, and the exposed foundations of the old city.

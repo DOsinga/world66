@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 47.986
 longitude: 10.181
-score: 4.639
+score: 4.257
 snippet: Upper Swabian town of walls, patrician houses, Reformation memory, and Allgau
   airport links.
 image: memmingen.jpg
@@ -15,10 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Memmingen
 - https://en.wikipedia.org/wiki/Memmingen
 - https://www.wikidata.org/wiki/Q801171
-heritage: 5.378
-vibrancy: 3.613
-nature: 4.437
-off_the_beaten_track: 2.378
+heritage: 4.831
+vibrancy: 3.256
+nature: 4.306
+off_the_beaten_track: 2.629
 ---
 
 Memmingen is often treated as the airport town for the Allgau, which is unfair. The old imperial city has one of southern Germany's better-preserved historic centres, with gates, towers, water channels, painted facades and a market square that still feels like the civic heart of the place.

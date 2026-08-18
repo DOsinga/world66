@@ -12,13 +12,13 @@ loc_type: city
 snippet: French island in the Comoros archipelago, where traditional villages sit
   beside a vast coral lagoon.
 longitude: 45.1662
-score: 5.81
+score: 5.812
 title: Mayotte
 type: location
-heritage: 4.418
-vibrancy: 1.13
-nature: 7.025
-off_the_beaten_track: 6.489
+heritage: 2.938
+vibrancy: 1.324
+nature: 7.015
+off_the_beaten_track: 6.533
 ---
 
 Mayotte is geographically part of the Comoros archipelago but politically part of France -- it voted to remain French when the other islands chose independence in 1974, and became a full French department in 2011. This creates a surreal contrast: European-standard roads and supermarkets sit alongside traditional villages and one of the most spectacular [lagoons](/africa/comoros/mayotte/mayotte_lagoon) on earth.

@@ -10,14 +10,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Neues_Schloss_Schlossplatz
 latitude: 48.778449
 loc_type: city
 longitude: 9.180013
-score: 5.785
+score: 5.362
 snippet: Swabian capital set in a vineyard-lined bowl, home to Mercedes-Benz and Porsche
 title: Stuttgart
 type: location
-heritage: 5.584
-vibrancy: 5.905
-nature: 4.35
-off_the_beaten_track: 2.065
+heritage: 5.639
+vibrancy: 5.298
+nature: 4.126
+off_the_beaten_track: 2.024
 ---
 
 Stuttgart is set in a bowl in the Swabian Hills — a city of vineyards, forested ridges, and steep valleys that give it a completely different topography from the flat industrial cities of the Rhine plain. It is the capital of Baden-Württemberg, the home of Mercedes-Benz and Porsche, and a city whose charms are genuine but take some finding.

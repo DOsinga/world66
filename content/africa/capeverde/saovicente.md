@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cabo_2010_Monte_Cara.jpg
 latitude: 16.85
 loc_type: city
 longitude: -24.97
-score: 5.697
+score: 6.095
 snippet: Dry Cape Verde island dominated by Mindelo, Porto Grande harbour, and views
   toward Santo Antão.
 title: São Vicente
 type: location
-heritage: 5.139
-vibrancy: 3.825
-nature: 6.652
-off_the_beaten_track: 4.43
+heritage: 5.494
+vibrancy: 3.575
+nature: 7.118
+off_the_beaten_track: 4.586
 ---
 
 São Vicente is a small, dry, mountainous island whose entire personality is concentrated in its capital, [Mindelo](/africa/capeverde/mindelo). Outside the city, the landscape is stark — volcanic peaks, barren hillsides, and a handful of small settlements. Monte Verde, at 774 metres, is the highest point and offers views across to [Santo Antão](/africa/capeverde/santo_antao) on a clear day.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 52.0632
 longitude: -1.3422
-score: 3.449
+score: 3.081
 snippet: North Oxfordshire market town of canal heritage, nursery-rhyme fame, and
   nearby manor houses
 wikidata: Q806160
@@ -16,10 +16,10 @@ image: banbury.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cross_Country_Class_220_Voyager_Kings_Sutton_-_Banbury.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Kabelleger / David Gubler
-heritage: 3.212
-vibrancy: 3.457
-nature: 3.43
-off_the_beaten_track: 0.9
+heritage: 3.191
+vibrancy: 3.062
+nature: 3.041
+off_the_beaten_track: 1.038
 ---
 
 Banbury is a market town in north Oxfordshire, close to the Warwickshire border and the edge of the Cotswolds. It is best known for the nursery rhyme that sends a fine lady to Banbury Cross, but the stronger travel reason is the mix of canal history and excellent country houses within a short drive.

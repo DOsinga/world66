@@ -5,7 +5,7 @@ loc_type: city
 latitude: 48.8331
 longitude: -125.1411
 wikidata: Q806004
-score: 5.886
+score: 5.725
 snippet: Remote Vancouver Island inlet village split by water, with boardwalks, wild
   beaches, and Huu-ay-aht history.
 sources:
@@ -17,10 +17,10 @@ image: bamfield.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bamfield_Inlet.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Grungaloo
-heritage: 1.642
-vibrancy: 1.228
-nature: 7.385
-off_the_beaten_track: 5.698
+heritage: 1.736
+vibrancy: 1.17
+nature: 7.1
+off_the_beaten_track: 5.811
 ---
 
 Bamfield sits on the west coast of Vancouver Island, where the road gets rough, the inlet divides the village in two, and the Pacific feels close even when you are standing on a quiet dock. It is not a resort town. It is a small, remote community with water taxis, research boats, fishing gear, and enough wild coast nearby to make a spare day disappear quickly.

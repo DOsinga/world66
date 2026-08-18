@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -32.799
 longitude: 134.205
-score: 3.599
+score: 3.752
 snippet: Eyre Peninsula fishing town on a sheltered bay, with wild coast, granite
   outcrops, and sea lions nearby.
 sources:
@@ -17,10 +17,10 @@ image: streaky_bay.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Streaky_Bay_Jetty,_2017_(03).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Bahnfrend
-heritage: 2.376
-vibrancy: 2.103
-nature: 4.368
-off_the_beaten_track: 3.966
+heritage: 2.528
+vibrancy: 2.146
+nature: 4.739
+off_the_beaten_track: 3.53
 ---
 
 Streaky Bay is a small fishing and farming town on the west coast of the [Eyre Peninsula](/australiaandpacific/australia/southaustralia), far enough from Adelaide to feel like the coast has loosened its grip on the usual holiday circuit. The town faces a calm, pale-blue bay, but the country around it quickly turns wilder: limestone cliffs, surf beaches, low scrub, saltbush, and long roads that run through wheat and sheep country.

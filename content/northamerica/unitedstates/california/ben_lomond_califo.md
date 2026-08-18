@@ -5,7 +5,7 @@ done:
 latitude: 37.089114
 loc_type: city
 longitude: -122.086352
-score: 4.93
+score: 4.785
 title: Ben Lomond
 type: location
 snippet: San Lorenzo Valley redwood town named by Scottish settlers, with river swimming
@@ -14,10 +14,10 @@ image: ben_lomond_califo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ben_Lomond,_CA,_USA_-_panoramio.jpg
 image_license: CC BY 3.0
 image_attribution: BoltSnypr
-heritage: 2.596
-vibrancy: 1.979
-nature: 6.542
-off_the_beaten_track: 2.436
+heritage: 2.914
+vibrancy: 1.963
+nature: 6.181
+off_the_beaten_track: 2.21
 ---
 
 In the San Lorenzo Valley, nestled in the redwoods, is Ben Lomond — named by an early Scottish immigrant who missed his homeland. Highway 9, the lifeblood of the valley, connects the three valley towns of [Felton](/northamerica/unitedstates/california/centralcoast/felton), Ben Lomond, and Boulder Creek with the outside world.

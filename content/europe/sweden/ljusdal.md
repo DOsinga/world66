@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 61.8333
 longitude: 16.0833
-score: 4.729
+score: 4.846
 snippet: Halsingland town near decorated farmhouses, forest parks, and the Ljusnan
   river.
 wikidata: Q1019575
@@ -16,10 +16,10 @@ image: ljusdal.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ljusdal,_Stavs%C3%A4ter_-_panoramio.jpg
 image_license: CC BY-SA 3.0
 image_attribution: stillee
-heritage: 2.407
-vibrancy: 1.788
-nature: 6.31
-off_the_beaten_track: 3.07
+heritage: 2.904
+vibrancy: 1.629
+nature: 6.28
+off_the_beaten_track: 3.213
 ---
 
 Ljusdal sits in western Halsingland, where the Ljusnan river cuts through forest, farms, and old parish villages. The town itself is small and practical, but the surrounding municipality has one of Sweden's most distinctive rural landscapes: painted timber farmhouses, summer pastures, riverside settlements, and long roads into deep forest.

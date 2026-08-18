@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sabalan,_Iran_(11314178545
 latitude: 38.29
 loc_type: feature
 longitude: 47.82
-score: 6.086
+score: 6.244
 snippet: Dormant Iranian stratovolcano crowned by a seasonal crater lake at 4,811
   metres.
 story: Sabalan is a dormant stratovolcano with a small crater lake near the summit
@@ -17,10 +17,10 @@ tags:
 - mountain
 title: Mount Sabalan
 type: location
-heritage: 4.394
-vibrancy: 1.344
-nature: 7.571
-off_the_beaten_track: 5.708
+heritage: 4.18
+vibrancy: 1.279
+nature: 7.84
+off_the_beaten_track: 6.024
 ---
 
 Mount Sabalan rises 4,811 metres west of Ardabil, the third-highest peak in Iran after Damavand and Alam-Kuh. It is a popular trekking objective in July and August, when the snow on the upper slopes is thin enough for non-technical ascents. The standard route starts from the village of Shabil, on the northeastern flank — a two-day climb with an overnight at the Sabalan Shelter at about 4,200 metres.

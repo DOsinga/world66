@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Hussaini_Village,_Gojal,_U
 latitude: 36.448
 loc_type: city
 longitude: 74.9006
-score: 6.083
+score: 6.281
 snippet: Upper Hunza mountain village beside the Karakoram Highway, known for its
   precarious suspension bridge.
 title: Hussaini
 type: location
-heritage: 4.58
-vibrancy: 0.433
-nature: 7.245
-off_the_beaten_track: 7.157
+heritage: 3.952
+vibrancy: 0.658
+nature: 7.528
+off_the_beaten_track: 7.232
 ---
 
 Hussaini is a small village in the Gojal region of Upper Hunza, 145 km north of Gilgit and about 45 km from Aliabad in Central Hunza. The Karakoram Highway (KKH) passes to its west while the Hunza River runs to the east, at an altitude of around 2,556 metres.

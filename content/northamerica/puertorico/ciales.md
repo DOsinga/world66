@@ -15,11 +15,11 @@ image: ciales.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ciales,_Puerto_Rico.jpg
 image_license: CC BY 2.0
 image_attribution: Ricardo Mangual
-score: 4.403
-heritage: 2.969
-vibrancy: 2.284
-nature: 5.567
-off_the_beaten_track: 2.879
+score: 4.504
+heritage: 3.133
+vibrancy: 2.182
+nature: 5.654
+off_the_beaten_track: 2.997
 ---
 
 Ciales sits in Puerto Rico's interior mountains, where the northern karst begins to fold into the Cordillera Central. It is small, green, and slower than the coast, with coffee culture in town and winding roads that climb toward waterfalls and cloud forest.

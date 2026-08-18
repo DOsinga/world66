@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:City_of_Chitral.jpg
 latitude: 35.8509
 loc_type: city
 longitude: 71.7902
-score: 5.627
+score: 5.678
 snippet: Remote Hindu Kush valley town beneath Tirich Mir, gateway to the Kalash side
   valleys.
 title: Chitral
 type: location
-heritage: 3.44
-vibrancy: 2.383
-nature: 5.429
-off_the_beaten_track: 9.031
+heritage: 5.316
+vibrancy: 2.371
+nature: 5.577
+off_the_beaten_track: 9.053
 ---
 
 Chitral is one of Pakistan's most remote and extraordinary valleys — a 322-kilometre corridor hemmed in by Afghanistan on three sides and separated from Tajikistan only by the narrow Wakhan strip. At its heart sits [Tirich Mir](/asia/pakistan/chitral/tirich_mir), the highest peak of the Hindu Kush at 7,708 metres, presiding over a landscape that draws mountaineers, trekkers, anglers and anthropologists alike.

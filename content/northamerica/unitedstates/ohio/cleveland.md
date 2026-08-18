@@ -11,20 +11,20 @@ image_source: https://commons.wikimedia.org/wiki/File:2024_Solar_Eclipse_over_Cl
 latitude: 41.499657
 loc_type: city
 longitude: -81.693677
-score: 4.554
+score: 5.691
 snippet: Lake Erie city of music museums, serious cultural institutions, and neighborhood
   food scenes from Ohio City to Little Italy.
 title: Cleveland
 type: location
-heritage: 3.693
-vibrancy: 4.915
-nature: 3.243
-off_the_beaten_track: 0.683
+heritage: 4.681
+vibrancy: 6.117
+nature: 2.464
+off_the_beaten_track: 0.6
 ---
 
 Cleveland sits on the southern shore of Lake Erie, a city that punches well above its weight in culture, food, and music. It is home to the **Rock and Roll Hall of Fame**, one of the most visited museums in the Midwest, and its cultural institutions in University Circle rival those of cities twice its size.
 
-The city's neighborhoods are its real strength. **Ohio City** has the magnificent [West Side Market](/northamerica/unitedstates/ohio/cleveland/sights/west_side_market) and the **Great Lakes Brewing Company**. **Tremont** mixes art galleries with dive bars and cutting-edge restaurants on oddly arranged streets. **Little Italy** serves old-world cuisine alongside contemporary interpretations near the intersection of Mayfield and Murray Hill Road. **Coventry Village** draws the college crowd with bookshops, cafes, and the intimate Grog Shop music venue. The **Warehouse District** downtown is where young professionals dress up and fill the sidewalk tables of chic restaurants along W. 6th Street.
+The city's neighborhoods are its real strength. **Ohio City** has the magnificent [West Side Market](/northamerica/unitedstates/ohio/cleveland/west_side_market) and the **Great Lakes Brewing Company**. **Tremont** mixes art galleries with dive bars and cutting-edge restaurants on oddly arranged streets. **Little Italy** serves old-world cuisine alongside contemporary interpretations near the intersection of Mayfield and Murray Hill Road. **Coventry Village** draws the college crowd with bookshops, cafes, and the intimate Grog Shop music venue. The **Warehouse District** downtown is where young professionals dress up and fill the sidewalk tables of chic restaurants along W. 6th Street.
 
 University Circle packs more cultural, educational, and medical institutions into a single square mile than almost anywhere else in the country. The free **Cleveland Museum of Art** features works by Picasso, Warhol, and Ansel Adams. The **Botanical Gardens** have an indoor rainforest, butterfly sanctuary, and beautiful outdoor gardens. **Rockefeller Park** stretches from University Circle to the lake, with cultural gardens honoring the city's many ethnic communities.
 

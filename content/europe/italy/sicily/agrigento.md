@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Agrigento_dalla_Valle_dei_
 latitude: 37.3123
 loc_type: city
 longitude: 13.5747
-score: 7.196
+score: 7.828
 sources:
 - https://en.wikipedia.org/wiki/Agrigento
 - https://en.wikipedia.org/wiki/Valle_dei_Templi
@@ -16,10 +16,10 @@ title: Agrigento
 type: location
 snippet: Southern Sicilian town above the Valle dei Templi, one of the Mediterranean's
   great Greek sites.
-heritage: 8.946
-vibrancy: 4.932
-nature: 4.558
-off_the_beaten_track: 2.382
+heritage: 8.998
+vibrancy: 6.854
+nature: 4.156
+off_the_beaten_track: 2.066
 ---
 
 Agrigento is a small town on the south coast of Sicily. The beach is good and the small streets of the old town are charming, but what brings you here are the Greek temples just outside of town.

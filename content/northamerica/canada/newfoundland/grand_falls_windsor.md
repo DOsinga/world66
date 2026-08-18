@@ -8,11 +8,11 @@ snippet: Central Newfoundland mill town on the Exploits River, known for salmon,
   and rafting.
 sources:
 - https://en.wikivoyage.org/wiki/Grand_Falls-Windsor
-score: 4.091
-heritage: 2.97
-vibrancy: 2.137
-nature: 5.083
-off_the_beaten_track: 3.413
+score: 4.218
+heritage: 3.04
+vibrancy: 2.123
+nature: 5.25
+off_the_beaten_track: 3.345
 ---
 
 *North America > Canada > Newfoundland > Grand Falls-Windsor*

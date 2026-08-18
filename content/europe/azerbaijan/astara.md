@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Astara_%C5%9F%C9%99h%C9%99
 latitude: 38.5156
 loc_type: city
 longitude: 48.8283
-score: 3.193
+score: 2.975
 snippet: Caspian border town beside Iran, backed by rice fields and the green Talysh
   Mountains.
 title: Astara
 type: location
-heritage: 2.165
-vibrancy: 1.481
-nature: 3.385
-off_the_beaten_track: 4.938
+heritage: 2.456
+vibrancy: 1.755
+nature: 3.235
+off_the_beaten_track: 4.507
 ---
 
 Astara is a small Caspian port town on Azerbaijan's southern border with Iran, 240 km south of Baku. It sits near the Talysh mountains with rice fields stretching in every direction, and its sandy beaches offer cleaner water than the polluted shores around the Absheron peninsula.

@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_Zamora_Michoac
 latitude: 19.985
 loc_type: city
 longitude: -102.283
-score: 5.589
+score: 4.906
 snippet: Michoacán city with a monumental neo-Gothic sanctuary and a sweet-toothed
   plaza culture.
 sources:
@@ -15,10 +15,10 @@ sources:
 - https://www.wikidata.org/wiki/Q984399
 title: Zamora de Hidalgo
 type: location
-heritage: 6.91
-vibrancy: 3.909
-nature: 3.527
-off_the_beaten_track: 3.296
+heritage: 5.839
+vibrancy: 3.889
+nature: 3.568
+off_the_beaten_track: 3.285
 ---
 
 Zamora de Hidalgo is a Michoacán city with more architectural punch than its low-key reputation suggests. Its centre is built around plazas, churches, portals, and the kind of local commerce that still gives a Sunday afternoon some weight.

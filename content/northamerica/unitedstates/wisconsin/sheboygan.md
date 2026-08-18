@@ -5,15 +5,15 @@ done:
 latitude: 43.712897
 loc_type: city
 longitude: -87.937043
-score: 4.232
+score: 4.358
 title: Sheboygan
 snippet: Lake Michigan city of German bratwurst traditions and the outsider-art collection
   at the Kohler Arts Center.
 type: location
-heritage: 2.893
-vibrancy: 3.135
-nature: 5.045
-off_the_beaten_track: 1.641
+heritage: 3.19
+vibrancy: 3.143
+nature: 5.236
+off_the_beaten_track: 1.683
 ---
 
 Sheboygan sits on the shore of Lake Michigan in eastern Wisconsin and calls itself the Bratwurst Capital of the World — a title earned by the German immigrants who settled here in the nineteenth century. A proper Sheboygan brat is a double bratwurst in a hard roll with mustard and onions, and every August the city hosts Brat Days, a festival dedicated to the cause.

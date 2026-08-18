@@ -8,16 +8,16 @@ image_source: https://commons.wikimedia.org/wiki/File:Yountville,_California.JPG
 latitude: 38.402201
 loc_type: city
 longitude: -122.359506
-score: 4.805
+score: 4.7
 snippet: Napa Valley town known for serious restaurants, vineyards, and a walkable
   main street.
 title: Yountville
 type: location
 image_attribution: DaringDonna
-heritage: 5.319
-vibrancy: 4.621
-nature: 4.224
-off_the_beaten_track: 3.495
+heritage: 4.484
+vibrancy: 4.818
+nature: 4.039
+off_the_beaten_track: 3.541
 ---
 
 Yountville is a small town of roughly 3,000 people in the heart of the Napa Valley, and it punches far above its weight as a food destination. Thomas Keller's [The French Laundry](/northamerica/unitedstates/california/yountville/the_french_laundry) — consistently ranked among the world's best restaurants — is here, along with his more casual [Bouchon](/northamerica/unitedstates/california/yountville/bouchon) and [Ad Hoc](/northamerica/unitedstates/california/yountville/ad_hoc). The concentration of serious kitchens in a place this size is extraordinary.

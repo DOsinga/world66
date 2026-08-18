@@ -9,15 +9,15 @@ image_source: https://www.flickr.com/photos/22746515@N02/2409320233
 latitude: 53.800064
 loc_type: city
 longitude: -9.520218
-score: 5.853
+score: 5.88
 snippet: Georgian Irish town on Clew Bay, planned around the Carrowbeg River below
   Croagh Patrick.
 title: Westport
 type: location
-heritage: 5.292
-vibrancy: 3.941
-nature: 6.829
-off_the_beaten_track: 3.244
+heritage: 4.967
+vibrancy: 4.011
+nature: 7.009
+off_the_beaten_track: 3.139
 ---
 
 Westport is one of the few planned towns in Ireland, laid out in the 18th century by architect James Wyatt. The result is a pleasing Georgian grid of streets centered on The Mall, a tree-lined boulevard running alongside the Carrowbeg River. It sits on the eastern shore of Clew Bay, in the shadow of Croagh Patrick, and it's a genuinely good base for exploring the west of Mayo.

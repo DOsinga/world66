@@ -9,17 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Recco_-_Comune_di_Recco_-_
 latitude: 44.3652
 loc_type: city
 longitude: 9.1463
-score: 4.761
+score: 4.986
 snippet: Small Ligurian coastal town in the Paradise Gulf, famous for focaccia col
   formaggio
 tags:
 - paradisegulf
 title: Recco
 type: location
-heritage: 4.154
-vibrancy: 4.457
-nature: 5.226
-off_the_beaten_track: 2.628
+heritage: 4.349
+vibrancy: 4.543
+nature: 5.533
+off_the_beaten_track: 2.648
 ---
 
 Recco is a small coastal town in the Paradise Gulf, best known for one thing: focaccia col formaggio, a thin, crisp flatbread filled with molten stracchino cheese that is arguably the finest street food in Liguria. People drive from [Genoa](/europe/italy/liguria/genoa) -- just twenty minutes up the motorway -- specifically to eat it, and the town takes its focaccia seriously enough to have a consortium protecting the recipe. The traditional address is [Manuelina](/europe/italy/liguria/recco/manuelina), where the recipe is said to have been invented in the 1880s, with [Da Ö Vittorio](/europe/italy/liguria/recco/da_o_vittorio) the other essential stop.

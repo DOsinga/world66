@@ -9,14 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Akosombo_Dam_from_the_Volt
 latitude: 6.269799
 loc_type: city
 longitude: 0.050899
-score: 3.577
+score: 3.885
 snippet: Volta River dam town built beside the gorge that created Lake Volta.
 title: Akosombo
 type: location
-heritage: 2.43
-vibrancy: 2.0
-nature: 4.515
-off_the_beaten_track: 3.227
+heritage: 2.756
+vibrancy: 2.062
+nature: 4.854
+off_the_beaten_track: 2.991
 ---
 
 Akosombo is a small, orderly town on the Volta River, built in the 1960s to house workers constructing the [Akosombo Dam](/africa/ghana/akosombo/akosombo_dam). The dam itself is impressive — it created [Lake Volta](/africa/ghana/lakevolta), the world's largest man-made lake by surface area, and still generates a large share of Ghana's electricity. The surrounding hills and the sheer scale of the reservoir give the place an unexpectedly dramatic feel for such a quiet town. The hilltop [St Barbara Catholic Church](/africa/ghana/akosombo/st_barbara_catholic_church), built for the Italian dam engineers in the 1960s, has the best easy view of the gorge.

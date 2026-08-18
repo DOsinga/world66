@@ -5,15 +5,15 @@ done:
 latitude: 42.4604
 loc_type: city
 longitude: -71.3489
-score: 5.112
+score: 5.427
 snippet: Historic Massachusetts town where Revolutionary battlefields sit beside the
   homes of Emerson, Thoreau, Hawthorne, and Alcott.
 title: Concord
 type: location
-heritage: 6.452
-vibrancy: 3.307
-nature: 3.426
-off_the_beaten_track: 1.187
+heritage: 6.511
+vibrancy: 4.197
+nature: 4.159
+off_the_beaten_track: 1.243
 ---
 
 Scene of the first battle of the American Revolution and home to four of the greatest writers in American literature, Concord carries more history per square mile than almost anywhere in the United States. The town is a wonderful day trip from [Boston](/northamerica/unitedstates/massachusetts/boston) — roughly 45 minutes by commuter rail or car — and a full day can be spent here without running short of things to do.

@@ -5,7 +5,7 @@ done:
 latitude: 50.041943
 loc_type: city
 longitude: 1.334025
-score: 3.367
+score: 3.445
 snippet: Small Alabaster Coast hamlet with chalk cliffs, a rocky beach, and access
   to the GR21 path.
 title: Mesnil-Val
@@ -14,10 +14,10 @@ image: mesnilval.jpg
 image_source: https://commons.wikimedia.org/wiki/File:50305-Le_Mesnil-au-Val-Hydro.jpeg
 image_license: CC BY-SA 4.0
 image_attribution: Roland45
-heritage: 4.045
-vibrancy: 1.562
-nature: 2.899
-off_the_beaten_track: 2.305
+heritage: 4.269
+vibrancy: 1.516
+nature: 2.672
+off_the_beaten_track: 2.162
 ---
 
 Mesnil-Val is a small seaside hamlet on the Alabaster Coast, about 20 kilometres north of [Dieppe](/europe/france/normandybrittany/dieppe) and just a few kilometres from the border with Picardy. The setting is dramatic: white chalk cliffs rise above a rocky beach that reveals stretches of sand at low tide. It is quieter and less developed than the better-known resorts along this coast, which is precisely the point.

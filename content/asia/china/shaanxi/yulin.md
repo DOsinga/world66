@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:%E6%A6%86%E6%9E%97%E5%8F%A
 latitude: 38.2655
 loc_type: city
 longitude: 109.7388
-score: 5.021
+score: 4.995
 snippet: Northern Shaanxi garrison city where the Loess Plateau meets desert and Ming
   Great Wall remains
 sources:
 - https://en.wikivoyage.org/wiki/Yulin_(Shaanxi)
 title: Yulin
 type: location
-heritage: 5.818
-vibrancy: 4.302
-nature: 2.343
-off_the_beaten_track: 3.356
+heritage: 5.669
+vibrancy: 4.522
+nature: 3.301
+off_the_beaten_track: 3.151
 ---
 
 Yulin is the northernmost significant city in Shaanxi, a place where the Loess Plateau gives way to the Mu Us Desert and where the Ming Dynasty's Great Wall runs east to west across the landscape in a long, broken line. The city was established as a garrison against Mongol and other northern threats; its walls, towers, and grid plan still reflect that military origin. Today it is a boomtown built on coal and natural gas reserves in the surrounding desert, but the old town at its core has preserved enough of its hutong streets and courtyard houses to reward a day's wandering.

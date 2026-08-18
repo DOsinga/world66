@@ -4,15 +4,15 @@ type: location
 loc_type: city
 latitude: 11.18
 longitude: 119.39
-score: 8.24
+score: 6.495
 snippet: Northern Palawan beach town facing Bacuit Bay's limestone islands, lagoons,
   and clear water.
 source: Wikivoyage
 source_url: https://en.wikivoyage.org/wiki/El_Nido
-heritage: 6.901
-vibrancy: 8.566
-nature: 7.398
-off_the_beaten_track: 5.606
+heritage: 0.088
+vibrancy: 5.335
+nature: 7.489
+off_the_beaten_track: 5.528
 ---
 
 El Nido is the small northern Palawan town that opens onto Bacuit Bay, one of the great seascapes of Southeast Asia. Limestone cliffs rise straight from turquoise water, hiding lagoons, beaches, caves, and reefs among dozens of islands.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 39.4589
 longitude: -82.2361
-score: 3.207
+score: 3.152
 snippet: Southeastern Ohio brick-and-rail town with an arts square and rides into
   Hocking Valley.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Nelsonville,_Ohio
 - https://nelsonville.com/activities.html
 - https://www.hvsry.org/nelsonville/
-heritage: 2.34
-vibrancy: 1.562
-nature: 3.854
-off_the_beaten_track: 3.659
+heritage: 2.782
+vibrancy: 1.595
+nature: 3.706
+off_the_beaten_track: 3.311
 ---
 
 Nelsonville is a small Appalachian Ohio town with more texture than its size suggests. Coal, clay, brickmaking, and railroads shaped it; the old Public Square and depot still give the centre a compact, lived-in feel.

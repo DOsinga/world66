@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: -54.2815
 longitude: -36.508
-score: 6.287
+score: 6.308
 snippet: Former South Georgia whaling station where Shackleton history, polar ruins,
   and seals crowd one cold harbour.
 sources:
 - https://en.wikivoyage.org/wiki/Grytviken
 - https://en.wikipedia.org/wiki/Grytviken
-heritage: 4.531
-vibrancy: 0.199
-nature: 7.694
-off_the_beaten_track: 6.72
+heritage: 3.58
+vibrancy: 0.405
+nature: 7.625
+off_the_beaten_track: 7.051
 ---
 
 Grytviken is a former whaling station on South Georgia, set in King Edward Cove beneath bare hills and often visited by expedition ships on their way to or from Antarctica. It has no ordinary town life now, but it is one of the most memorable landings in the South Atlantic: half industrial ruin, half polar shrine, with seals and penguins taking back the ground between rusted tanks and old boats.

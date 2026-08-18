@@ -2,7 +2,7 @@
 latitude: 30.2678
 loc_type: city
 longitude: -87.7015
-score: 5.396
+score: 5.671
 snippet: Alabama Gulf Coast beach city with white sand, dunes, birding marshes, and
   a strong outdoor streak.
 sources:
@@ -11,10 +11,10 @@ sources:
 - https://www.fws.gov/refuge/bon-secour
 title: Gulf Shores
 type: location
-heritage: 2.142
-vibrancy: 4.873
-nature: 6.009
-off_the_beaten_track: 1.179
+heritage: 2.085
+vibrancy: 4.642
+nature: 6.547
+off_the_beaten_track: 1.126
 ---
 
 Gulf Shores is Alabama's best-known beach town, sitting where Highway 59 runs into the Gulf of Mexico. It has the expected run of condos, seafood places, souvenir shops, and family amusements, but the reason it clears the travel bar is not the strip. It is the mix of white sand, protected dunes, pine woods, and bird-rich coastal wetlands that sits around it.

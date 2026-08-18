@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Çıralı_coast_from_top_o
 latitude: 36.395012
 loc_type: city
 longitude: 30.473564
-score: 5.944
+score: 6.108
 snippet: Lycian coast backpacker village where ancient ruins sit in forest above a
   long pebble beach.
 title: Olympos
 type: location
-heritage: 4.733
-vibrancy: 5.258
-nature: 6.672
-off_the_beaten_track: 5.343
+heritage: 4.496
+vibrancy: 5.966
+nature: 6.476
+off_the_beaten_track: 5.633
 ---
 
 Olympos is a backpacker favourite on the Lycian coast of [Turkey](/asia/turkey), set in a forested valley that runs down to a long pebble beach. The ruins of [ancient Olympos](/asia/turkey/olympos/ancient_olympos) — Lycian tombs, a Roman theatre, bath houses — are scattered through the undergrowth along the stream, giving the place an Indiana Jones atmosphere.

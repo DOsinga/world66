@@ -12,10 +12,10 @@ sources:
 - https://bcparks.ca/juan-de-fuca-park/
 - https://www.tourismvictoria.com/things-to-do/beaches-lakes/botanical-beach-provincial-park
 score: 5.882
-heritage: 2.433
-vibrancy: 1.61
-nature: 7.884
-off_the_beaten_track: 4.039
+heritage: 2.649
+vibrancy: 1.333
+nature: 7.729
+off_the_beaten_track: 4.55
 ---
 
 Port Renfrew sits at the end of the road on southwestern Vancouver Island, where the forest runs down to a hard Pacific coast. It is tiny and weather-beaten, but the surroundings are strong enough to make it more than a logging-road outpost.

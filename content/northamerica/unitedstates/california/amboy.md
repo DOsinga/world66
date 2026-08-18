@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: 34.5578
 longitude: -115.7444
-score: 2.717
+score: 2.348
 snippet: Mojave Desert Route 66 ghost town watched over by Amboy Crater and Roy's
   neon sign.
 sources:
 - https://en.wikivoyage.org/wiki/Amboy
 - https://en.wikipedia.org/wiki/Amboy,_California
 - https://en.wikipedia.org/wiki/Roy%27s_Motel_and_Caf%C3%A9
-heritage: 2.415
-vibrancy: 1.831
-nature: 3.187
-off_the_beaten_track: 1.824
+heritage: 2.081
+vibrancy: 1.681
+nature: 2.757
+off_the_beaten_track: 1.984
 ---
 
 Amboy is barely a town now, and that is the point. It sits alone on old Route 66 in the Mojave Desert, bypassed by Interstate 40 and reduced to a few buildings, a post office, a runway, Roy's famous sign, and a black volcanic cone on the horizon.

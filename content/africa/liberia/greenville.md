@@ -5,15 +5,15 @@ done:
 latitude: 5.01111
 loc_type: city
 longitude: -9.03889
-score: 4.824
+score: 4.337
 title: Greenville
 type: location
 snippet: Sinoe County port town founded by freed American slaves, with Kru and Bassa
   life around its lagoon.
-heritage: 4.601
-vibrancy: 4.945
-nature: 3.925
-off_the_beaten_track: 5.579
+heritage: 4.804
+vibrancy: 4.166
+nature: 4.388
+off_the_beaten_track: 5.84
 ---
 
 Greenville is the capital of Sinoe County in southeastern [Liberia](/africa/liberia), about 350 km from Monrovia — the first 100 km paved, the rest dirt road. The journey is an adventure in itself and can take the better part of a day.

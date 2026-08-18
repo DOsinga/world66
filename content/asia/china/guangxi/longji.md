@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:China_-_Longji_Dragon-back
 latitude: 25.7975
 loc_type: feature
 longitude: 110.004722
-score: 5.931
+score: 6.118
 snippet: Steep Guangxi rice-terrace landscape farmed by Zhuang and Yao villages for
   centuries.
 title: Longji Rice Terraces
 type: location
-heritage: 4.817
-vibrancy: 1.649
-nature: 7.152
-off_the_beaten_track: 3.481
+heritage: 4.752
+vibrancy: 1.764
+nature: 7.469
+off_the_beaten_track: 3.634
 ---
 
 The name means "Dragon's Backbone," and once you see the terraces from above — the water-filled paddies in late May catching the light like scales — you understand why. The Longji rice terraces cascade down the steep hillsides of Longsheng County, about 2.5 hours north of [Guilin](/asia/china/guangxi/guilin), in a landscape that has been continuously farmed by Zhuang and Yao villagers for at least 700 years. The result is one of the most photographed agricultural landscapes in Asia, and it earns every photograph.

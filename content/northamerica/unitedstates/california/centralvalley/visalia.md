@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2009-0725-CA-Visalia-PO.jp
 latitude: 36.3302
 loc_type: city
 longitude: -119.2921
-score: 4.388
+score: 4.45
 snippet: San Joaquin Valley city and practical gateway to Sequoia and Kings Canyon
   national parks.
 title: Visalia
 type: location
-heritage: 2.774
-vibrancy: 2.943
-nature: 5.379
-off_the_beaten_track: 1.946
+heritage: 2.828
+vibrancy: 2.894
+nature: 5.499
+off_the_beaten_track: 1.979
 ---
 
 Visalia is the largest city in the Central Valley between Fresno and Bakersfield, and one of the oldest in the San Joaquin Valley. It's the kind of place travelers pass through on their way to Sequoia and Kings Canyon national parks — but it's worth slowing down for. Downtown has a walkable main street, a handful of good restaurants, and the [Fox Theatre](/northamerica/unitedstates/california/centralvalley/visalia/fox_theatre), a beautifully restored 1930s atmospheric theatre with a twinkling night-sky ceiling.

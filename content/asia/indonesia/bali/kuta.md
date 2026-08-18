@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kuta_Beach_(6924448550).jp
 latitude: -8.727835
 loc_type: city
 longitude: 115.173005
-score: 6.281
+score: 6.418
 title: Kuta
 type: location
 snippet: Busy Bali beach town that grew from a surf village into the island's mass-tourism
   hub.
-heritage: 4.929
-vibrancy: 5.835
-nature: 6.916
-off_the_beaten_track: 1.383
+heritage: 5.626
+vibrancy: 5.692
+nature: 7.198
+off_the_beaten_track: 1.518
 ---
 
 *Asia > Indonesia > [Bali](/asia/indonesia/bali) > Kuta*

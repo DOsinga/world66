@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:El_Roc%C3%ADo_-_View_from_
 latitude: 37.130708
 loc_type: city
 longitude: -6.484735
-score: 4.354
+score: 4.592
 snippet: Sandy Andalusian pilgrimage village beside Doñana marshes, transformed each
   Pentecost by the Romería de El Rocío
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Hermitage_of_El_Roc%C3%ADo
 title: El Rocio
 type: location
-heritage: 3.915
-vibrancy: 4.248
-nature: 4.627
-off_the_beaten_track: 3.628
+heritage: 3.826
+vibrancy: 4.459
+nature: 4.934
+off_the_beaten_track: 3.72
 ---
 
 El Rocío is one of the strangest and most compelling villages in Spain. For most of the year it is almost a ghost town — wide sandy streets, rows of whitewashed hermandad houses locked up and waiting, and only a few hundred permanent residents. Then, at Pentecost, a million pilgrims arrive in covered wagons and on horseback for the [Romería de El Rocío](/europe/spain/andalucia/el_rocio/romeria_de_el_rocio), one of the largest religious pilgrimages in the world. The village becomes a city overnight, then empties again within days.

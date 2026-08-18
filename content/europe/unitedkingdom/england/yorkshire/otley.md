@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Otley_-_geograph.org.uk_-_
 latitude: 53.905508
 loc_type: city
 longitude: -1.693887
-score: 5.307
+score: 4.884
 snippet: Wharfedale market town beneath the Chevin, with pubs, Turner views, and Chippendale
   roots.
 title: Otley
 type: location
-heritage: 6.252
-vibrancy: 3.136
-nature: 4.848
-off_the_beaten_track: 1.975
+heritage: 5.597
+vibrancy: 3.415
+nature: 4.816
+off_the_beaten_track: 2.015
 ---
 
 Otley is a small market town in Wharfedale, the valley of the River Wharfe between Leeds and the Yorkshire Dales. It is a proper Yorkshire town — market on Fridays and Saturdays, an improbable number of pubs, and the [Chevin](/europe/unitedkingdom/england/yorkshire/otley/the_chevin) rising steeply behind it to keep out the urban sprawl of Leeds and Bradford.

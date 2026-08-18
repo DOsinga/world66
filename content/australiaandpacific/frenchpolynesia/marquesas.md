@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:FatuIva_Hanavave_Port_2006
 latitude: -9.779326
 loc_type: city
 longitude: -139.006784
-score: 6.069
+score: 6.246
 snippet: Remote Polynesian island group of jagged volcanic peaks, lush valleys, stone
   platforms, and giant tiki.
 title: Marquesas
 type: location
-heritage: 5.015
-vibrancy: 0.55
-nature: 7.281
-off_the_beaten_track: 6.844
+heritage: 5.136
+vibrancy: 0.875
+nature: 7.505
+off_the_beaten_track: 6.761
 ---
 
 The Marquesas are the most remote inhabited islands on earth — further from any continent than anywhere else in the Pacific. A 3.5-hour flight from [Tahiti](/australiaandpacific/frenchpolynesia/tahiti), they feel like a different world entirely. Jagged volcanic peaks jut straight out of the ocean, waves crash against sheer cliff faces, and the valleys behind are lushly forested with an extraordinary range of tropical flora.

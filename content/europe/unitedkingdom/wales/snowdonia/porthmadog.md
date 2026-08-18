@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 52.9265
 longitude: -4.1326
-score: 5.942
+score: 5.795
 snippet: North Wales harbour town where slate railways, estuary walks, and Snowdonia
   meet the sea.
 wikidata: Q950671
@@ -18,10 +18,10 @@ image: porthmadog.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Harbwr_Porthmadog_(Porthmadog_Harbour)_-_geograph.org.uk_-_5929118.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Jeff Buck
-heritage: 4.209
-vibrancy: 3.722
-nature: 7.412
-off_the_beaten_track: 3.125
+heritage: 4.013
+vibrancy: 3.467
+nature: 7.282
+off_the_beaten_track: 3.157
 ---
 
 Porthmadog is a small harbour town on the edge of [Snowdonia](/europe/unitedkingdom/wales/snowdonia), where the mountains give way to the Glaslyn estuary and the coast of the Llŷn Peninsula. It grew from William Madocks' embankment and the slate trade, and the old wharf story still matters because the narrow-gauge railways now bring travellers back into the slate valleys.

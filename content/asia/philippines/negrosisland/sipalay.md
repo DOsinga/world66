@@ -6,15 +6,15 @@ done:
 latitude: 9.749127
 loc_type: city
 longitude: 122.40406
-score: 5.08
+score: 5.574
 title: Sipalay
 snippet: Beach and diving town on southwest Negros, still quieter than the Philippines'
   better-known resorts.
 type: location
-heritage: 2.413
-vibrancy: 2.51
-nature: 6.432
-off_the_beaten_track: 4.726
+heritage: 2.434
+vibrancy: 2.774
+nature: 7.133
+off_the_beaten_track: 4.938
 ---
 
 Sipalay sits on the southwest coast of Negros, about three to four hours by road from [Bacolod](/asia/philippines/negrosisland/bacolod). It is one of the Philippines' best-kept beach and diving destinations -- still developing, still uncrowded, and all the better for it.

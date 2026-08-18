@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 41.7486
 longitude: -77.3006
-score: 3.957
+score: 4.107
 snippet: Small Pennsylvania Wilds town used as the civilized base for Pine Creek Gorge.
 sources:
 - https://en.wikivoyage.org/wiki/Wellsboro
@@ -13,10 +13,10 @@ image: wellsboro.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Wellsboro,_Pennsylvania_(5656953537).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Doug Kerr from Albany, NY, United States
-heritage: 3.14
-vibrancy: 2.378
-nature: 4.802
-off_the_beaten_track: 2.925
+heritage: 3.283
+vibrancy: 2.478
+nature: 4.974
+off_the_beaten_track: 2.874
 ---
 
 Wellsboro is the neat old county town that makes the Pennsylvania Grand Canyon easy to visit without camping. Its gas-lit Main Street has a courthouse square, brick storefronts, and enough restaurants and cafes to feel like a real base rather than a highway stop.

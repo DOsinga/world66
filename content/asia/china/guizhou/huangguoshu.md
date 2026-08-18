@@ -12,13 +12,13 @@ image: huangguoshu.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Huangguoshu_Fall_Classic_View.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Hienrich Liu
-score: 5.707
+score: 5.733
 snippet: Guizhou waterfall site where a cave path runs behind China's largest waterfall
   by volume.
-heritage: 2.996
-vibrancy: 1.593
-nature: 7.576
-off_the_beaten_track: 3.384
+heritage: 3.184
+vibrancy: 1.418
+nature: 7.536
+off_the_beaten_track: 3.529
 ---
 
 Huangguoshu is China's largest waterfall by volume and one of its most visited natural sites — 74 to 78 metres high (the height varies with seasonal flow) and 101 metres wide, plunging into the Rhinoceros Pool below in a roar that's audible a kilometre away. What makes it different from other very large waterfalls is the cave: [Water Curtain Cave](/asia/china/guizhou/huangguoshu/water_curtain_cave) runs 134 metres behind the falls through naturally occurring chambers in the limestone cliff, and you can walk the entire passage behind the falling water. The view from inside — sheets of white water across a cave opening, with the gorge and the pool framed beyond — is one of the more unusual perspectives available in Chinese scenery.

@@ -6,17 +6,17 @@ loc_type: city
 snippet: Outer London borough with a hilltop village, historic school, and long views
   across the capital
 longitude: -0.337305
-score: 2.078
+score: 2.087
 title: Harrow
 type: location
 image: harrow.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bradstowe_House_seen_from_the_roundabout.jpg
 image_license: CC BY 2.0
 image_attribution: David Howard
-heritage: 2.298
-vibrancy: 2.003
-nature: 1.629
-off_the_beaten_track: 1.035
+heritage: 2.641
+vibrancy: 1.337
+nature: 1.203
+off_the_beaten_track: 1.224
 ---
 
 Harrow is an outer London borough that most visitors encounter only as a name on the Metropolitan line. But the hilltop village of [Harrow on the Hill](/europe/unitedkingdom/england/south_east/harrow/harrow_on_the_hill), clustered around [St Mary's Church](/europe/unitedkingdom/england/south_east/harrow/st_marys_church) and the famous [Harrow School](/europe/unitedkingdom/england/south_east/harrow/harrow_school), has a character quite distinct from the suburban sprawl that surrounds it. The views from the churchyard on a clear day stretch across London to the hills of Surrey and Kent, and the cluster of historic buildings around the school gives the village a feel closer to a Cotswolds market town than to Zone 5.

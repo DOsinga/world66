@@ -531,10 +531,10 @@ def _location_or_section(request, path, source_ref=None, url_revision=""):
     top_locations = locations[:_top_n]
     more_locations = sorted(locations[_top_n:], key=lambda loc: loc.title)
 
-    # For feature pages: cities/locations that tag into this feature via tags: [feature_slug]
+    # For feature/island pages: cities/locations that tag into this page via tags: [slug]
     linked_locations = []
     more_linked_locations = []
-    if page.meta.get('loc_type') == 'feature':
+    if page.meta.get('loc_type') in ('feature', 'island'):
         linked_locations = sorted(
             find_locations_tagged(page.slug, page.path),
             key=lambda p: float(p.meta.get('score', 0) or 0), reverse=True,

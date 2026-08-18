@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -34.6167
 longitude: 135.4667
-score: 5.091
+score: 5.477
 wikidata: Q2622738
 snippet: Eyre Peninsula oyster town beside sheltered bays, white beaches, and a rugged
   coastal national park.
@@ -16,10 +16,10 @@ image: coffin_bay.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Coffin_Bay_Channel_South_Australia.JPG
 image_license: CC BY 3.0
 image_attribution: Jack Stradling
-heritage: 4.587
-vibrancy: 2.759
-nature: 5.947
-off_the_beaten_track: 4.333
+heritage: 4.86
+vibrancy: 2.554
+nature: 6.43
+off_the_beaten_track: 4.509
 ---
 
 Coffin Bay is a small Eyre Peninsula town with a big name in Australian oysters. It sits on sheltered water west of Port Lincoln, with fishing boats, oyster leases, pelicans, and low holiday houses giving it a slow coastal rhythm.

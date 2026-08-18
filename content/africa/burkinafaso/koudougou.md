@@ -2,7 +2,7 @@
 latitude: 12.25
 loc_type: city
 longitude: -2.3667
-score: 4.045
+score: 3.969
 snippet: Mossi Plateau city with an award-winning market, local museums, and a lively
   cultural streak.
 sources:
@@ -12,10 +12,10 @@ sources:
 title: Koudougou
 type: location
 wikidata: Q460697
-heritage: 4.487
-vibrancy: 3.871
-nature: 3.714
-off_the_beaten_track: 4.973
+heritage: 4.315
+vibrancy: 3.868
+nature: 4.042
+off_the_beaten_track: 4.498
 ---
 
 Koudougou lies west of [Ouagadougou](/africa/burkinafaso/ouagadougou) on the Mossi Plateau, close enough to the capital for a long day but different enough to justify the trip. It is one of Burkina Faso's largest cities, with Moore heard everywhere, Lyèlè in the background, and a centre that still revolves around markets, courtyards, and open-air cultural spaces.

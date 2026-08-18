@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -24.8839
 longitude: 113.6569
-score: 5.754
+score: 6.053
 snippet: Gascoyne coast town of space-tracking history, banana plantations, old jetty
   heritage, and wild blowholes.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Carnarvon,_Western_Australia
 - https://www.australiascoralcoast.com/destinations/ningaloo/carnarvon
 - https://www.carnarvon.org.au/
-heritage: 2.979
-vibrancy: 1.582
-nature: 7.123
-off_the_beaten_track: 5.883
+heritage: 2.385
+vibrancy: 1.937
+nature: 7.507
+off_the_beaten_track: 6.147
 ---
 
 Carnarvon sits where the Gascoyne River reaches the Indian Ocean, about halfway up the long road between [Perth](/australiaandpacific/australia/westernaustralia/perth) and the Ningaloo coast. Many travellers treat it as a fuel-and-groceries stop, but that undersells the place. Carnarvon has enough odd history, fresh produce, and harsh coastline to make a spare day worthwhile.

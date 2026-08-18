@@ -7,15 +7,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Tinn_gaustatoppen_rjukan_I
 latitude: 59.396268
 loc_type: feature
 longitude: 8.66266
-score: 5.447
+score: 5.901
 snippet: Inland southern Norwegian county, associated with the Telemark Canal and
   the skiing technique bearing its name.
 title: Telemark
 type: location
-heritage: 3.687
-vibrancy: 3.53
-nature: 6.737
-off_the_beaten_track: 5.077
+heritage: 4.546
+vibrancy: 3.475
+nature: 7.22
+off_the_beaten_track: 5.117
 ---
 
 Telemark is a large inland county in southern Norway, best known abroad for two things: the canal that once linked its mountain valleys to the sea, and the skiing technique that carries its name. Both are worth your time.

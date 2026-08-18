@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Nanaimo,_British_Columbia_
 latitude: 49.1639
 loc_type: city
 longitude: -123.9381
-score: 4.894
+score: 4.934
 snippet: Vancouver Island harbour city known for coal-mining history, waterfront walks,
   and the Nanaimo bar.
 title: Nanaimo
 type: location
-heritage: 4.597
-vibrancy: 4.203
-nature: 5.555
-off_the_beaten_track: 3.199
+heritage: 4.186
+vibrancy: 3.976
+nature: 5.727
+off_the_beaten_track: 3.24
 ---
 
 Nanaimo is the second-largest city on Vancouver Island, set on the east coast looking across the Strait of Georgia to the mainland. It started as a coal-mining town and still has a slightly rough-around-the-edges feel compared to polished [Victoria](/northamerica/canada/britishcolumbia/victoria) to the south, but that is changing fast — the waterfront has been cleaned up, the old town has good restaurants and breweries, and the harbour is genuinely beautiful.

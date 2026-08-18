@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Chungli_Branch,_Bank_of_Ta
 latitude: 24.954964
 loc_type: city
 longitude: 121.236332
-score: 5.984
+score: 6.038
 snippet: Taoyuan city near Taipei, distinguished by Southeast Asian market streets
   around Zhongli railway station.
 title: Zhongli
 type: location
-heritage: 5.289
-vibrancy: 3.066
-nature: 7.033
-off_the_beaten_track: 2.762
+heritage: 5.153
+vibrancy: 3.502
+nature: 7.175
+off_the_beaten_track: 2.541
 ---
 
 Zhongli (also spelled Jungli) is a city in Taoyuan District, about 45 minutes from [Taipei](/asia/taiwan/taipei) by train. It is not a major tourist destination but has a large Southeast Asian expatriate community — particularly from Thailand, Indonesia, the Philippines, and Vietnam — which gives its market streets a different flavour from most Taiwanese cities. The cluster around [ASEAN Square](/asia/taiwan/jungli/southeast_asian_quarter) just south of [Zhongli railway station](/asia/taiwan/jungli/zhongli_railway_station) is the most distinctive corner of the city.

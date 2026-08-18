@@ -12,7 +12,7 @@ quick_facts:
   Largest in: The southern hemisphere
   MASP: Art gallery on red stilts
   Population: ~22 million (metro)
-score: 6.49
+score: 7.139
 snippet: Vast Brazilian megacity where concrete sprawl hides extraordinary immigrant
   food, music, and nightlife.
 tip: São Paulo is the biggest city in the southern hemisphere — a sprawling concrete
@@ -22,10 +22,10 @@ tip: São Paulo is the biggest city in the southern hemisphere — a sprawling c
   and the energy. The traffic is legendary.
 title: São Paulo
 type: location
-heritage: 4.04
-vibrancy: 7.469
-nature: 1.643
-off_the_beaten_track: 1.276
+heritage: 5.907
+vibrancy: 7.66
+nature: 2.141
+off_the_beaten_track: 1.142
 ---
 
 São Paulo is the largest city in the southern hemisphere, the economic engine of Brazil, and — to be honest — not a pretty city. Endless concrete, traffic that holds the world's worst-congestion records, a sprawl that takes hours to cross. What São Paulo lacks in beauty it makes up for in energy and diversity. This is the biggest Japanese city outside Japan, the biggest Italian city outside Italy, and home to over a million Lebanese descendants; the food, the music, and the nightlife draw from all of them.

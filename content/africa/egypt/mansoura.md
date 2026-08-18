@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:El_Mansoura_-_Nile_cornich
 latitude: 31.040777
 loc_type: city
 longitude: 31.35813
-score: 4.112
+score: 3.376
 title: Mansoura
 type: location
 snippet: Major Nile Delta city remembered for victories over the Seventh Crusade and
   in the 1973 air war.
-heritage: 4.941
-vibrancy: 3.164
-nature: 1.809
-off_the_beaten_track: 3.682
+heritage: 4.028
+vibrancy: 2.657
+nature: 1.886
+off_the_beaten_track: 3.406
 ---
 
 Mansoura is a major Nile Delta city with two moments of military glory separated by seven centuries. In 1250, Egyptian forces defeated the Seventh Crusade here, capturing Louis IX of France and ending the last serious Crusader attempt to take Egypt. In October 1973, Egyptian air force pilots shot down seventeen Israeli aircraft over the city in a single engagement, the most celebrated air battle of the Yom Kippur War. Neither victory gets much attention from the outside world, which suits Mansoura just fine.

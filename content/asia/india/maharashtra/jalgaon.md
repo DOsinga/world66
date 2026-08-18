@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Jalgaon_skyline.jpg
 latitude: 20.842883
 loc_type: city
 longitude: 75.526125
-score: 2.461
+score: 2.746
 snippet: Khandesh market town in northern Maharashtra, used as the rail base for the
   Ajanta Caves.
 title: Jalgaon
 type: location
-heritage: 2.675
-vibrancy: 2.084
-nature: 2.681
-off_the_beaten_track: 3.126
+heritage: 2.949
+vibrancy: 2.608
+nature: 2.996
+off_the_beaten_track: 2.829
 ---
 
 Jalgaon is a prosperous market town in the Khandesh region of northern Maharashtra, best known as the most convenient base for visiting the [Ajanta Caves](/asia/india/maharashtra/jalgaon/ajanta_caves) — one of India's supreme artistic and archaeological treasures. The town sits on the main Mumbai–Kolkata rail line, making it easy to reach from both coasts, and a steady stream of travellers passes through on their way to the caves.

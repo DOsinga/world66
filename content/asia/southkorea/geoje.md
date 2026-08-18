@@ -4,7 +4,7 @@ type: location
 loc_type: feature
 latitude: 34.85
 longitude: 128.58
-score: 4.718
+score: 4.681
 snippet: Korean island city of coves, sea cliffs, botanical islands, and Korean War
   memory.
 wikidata: Q42057
@@ -16,10 +16,10 @@ image: geoje.jpg
 image_source: https://commons.wikimedia.org/wiki/File:KOCIS_Korea_Oedo_Botania_23_(10016922254).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Korea.net / Korean Culture and Information Service
-heritage: 3.561
-vibrancy: 4.563
-nature: 5.108
-off_the_beaten_track: 2.048
+heritage: 3.201
+vibrancy: 4.48
+nature: 5.091
+off_the_beaten_track: 1.953
 ---
 
 Geoje is South Korea's big island south-west of [Busan](/asia/southkorea/pusan), joined to the mainland by bridges but still shaped by water. Shipyards and apartment blocks sit near quiet fishing coves, pebble beaches, pine-covered headlands, and small offshore islands.

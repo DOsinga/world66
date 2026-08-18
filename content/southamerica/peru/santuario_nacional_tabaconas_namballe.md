@@ -3,16 +3,16 @@ done:
   location_cleanup: '2026-04-08'
 latitude: -5.172406
 longitude: -79.278118
-score: 6.746
+score: 6.384
 snippet: Remote northern Peruvian sanctuary of cloud forest, páramo grassland, highland
   lakes, and Andean mountain tapir habitat.
 title: Santuario Nacional Tabaconas Namballe
 type: location
 loc_type: feature
-heritage: 1.587
-vibrancy: 0.777
-nature: 8.531
-off_the_beaten_track: 6.311
+heritage: 1.904
+vibrancy: 0.857
+nature: 8.017
+off_the_beaten_track: 6.155
 ---
 
 The Santuario Nacional Tabaconas Namballe is a large protected area in Peru's far north, near the Ecuadorian border. Its remoteness has kept it remarkably intact — dense cloud forest covers the lower slopes, giving way to páramo grassland at the highest elevations, with lakes scattered across the mountaintops.

@@ -5,17 +5,17 @@ loc_type: feature
 latitude: 23.2028
 longitude: 119.4317
 wikidata: Q706494
-score: 5.059
+score: 5.11
 snippet: Southern Penghu island known for basalt coast, stone fish weirs, and sea-cut
   viewpoints.
 sources:
 - https://en.wikivoyage.org/wiki/Cimei
 - https://en.wikipedia.org/wiki/Qimei
 - https://eng.taiwan.net.tw/m1.aspx?id=180&sNo=0002125
-heritage: 2.336
-vibrancy: 1.457
+heritage: 2.616
+vibrancy: 1.372
 nature: 6.413
-off_the_beaten_track: 4.68
+off_the_beaten_track: 4.94
 ---
 
 Cimei is the southern outlier of the Penghu islands, small enough to circle by scooter but distinct enough to justify the trip from Magong. The island is dry, low, and basalt-edged, with fishing villages, sea cliffs, and a handful of sights that show how closely Penghu life has always been tied to the water.

@@ -7,17 +7,17 @@ done:
 latitude: 47.75
 loc_type: city
 longitude: 24.1
-score: 5.833
+score: 5.615
 snippet: Northern Transylvanian region of wooden churches, carved gates, hay meadows,
   and old Maramureș villages.
 sources:
 - https://en.wikipedia.org/wiki/Maramure%C8%99
 title: Maramures Land
 type: location
-heritage: 6.669
-vibrancy: 2.103
-nature: 5.788
-off_the_beaten_track: 5.329
+heritage: 6.229
+vibrancy: 1.868
+nature: 6.004
+off_the_beaten_track: 5.178
 ---
 
 Maramureș is the corner of Romania where the 21st century has barely arrived. Tucked against the Ukrainian border in northern Transylvania, this is a landscape of steep-sided valleys, hay meadows cut by hand, and villages where horse-drawn carts still outnumber cars on the road. People here build in wood — houses, gates, barns, spoons, everything — and have done so for centuries.

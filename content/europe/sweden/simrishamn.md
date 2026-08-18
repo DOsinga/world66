@@ -2,15 +2,15 @@
 latitude: 55.5569
 loc_type: city
 longitude: 14.3583
-score: 4.595
+score: 4.48
 snippet: Well-preserved fishing port in the Österlen corner of Skåne, with a medieval
   church, a working harbour, and excellent smoked fish.
 title: Simrishamn
 type: location
-heritage: 4.154
-vibrancy: 2.985
-nature: 5.362
-off_the_beaten_track: 2.231
+heritage: 3.541
+vibrancy: 3.273
+nature: 5.363
+off_the_beaten_track: 2.275
 ---
 
 Simrishamn is a small fishing port 40 kilometres northeast of Ystad along the Österlen coast — the southeast corner of Skåne known for its farmland, apple orchards, and artists' studios. The town has a population of around 6,500 and a character that mixes a working harbour with an unusually well-preserved medieval centre. The white-painted half-timbered houses and the low-slung skyline make it one of the prettier towns on this stretch of coast.

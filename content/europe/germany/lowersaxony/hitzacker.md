@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: 53.1333
 longitude: 11.05
-score: 3.743
+score: 3.861
 snippet: Small Elbe riverside town of timber-framed lanes, Slavic castle traces, and
   cycling country.
 sources:
 - https://en.wikivoyage.org/wiki/Hitzacker
 - https://en.wikipedia.org/wiki/Hitzacker
-heritage: 3.591
-vibrancy: 1.767
-nature: 4.279
-off_the_beaten_track: 2.628
+heritage: 4.164
+vibrancy: 1.794
+nature: 4.219
+off_the_beaten_track: 2.404
 ---
 
 Hitzacker is a small town on the Elbe in eastern [Lower Saxony](/europe/germany/lowersaxony), where timber-framed lanes sit between river meadows and low wooded hills. It is not a big-ticket German town, but it has the right ingredients for a good slow day: an old island-like centre, a hilltop viewpoint, a compact museum, and long riverside paths.

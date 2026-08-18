@@ -4,15 +4,15 @@ type: location
 loc_type: city
 latitude: -30.1
 longitude: 145.9333
-score: 4.37
+score: 4.633
 snippet: Outback New South Wales town on the Darling River, famous as shorthand for
   remote Australia.
 sources:
 - https://en.wikivoyage.org/wiki/Bourke
-heritage: 3.677
-vibrancy: 2.81
-nature: 5.093
-off_the_beaten_track: 5.508
+heritage: 3.55
+vibrancy: 3.018
+nature: 5.578
+off_the_beaten_track: 5.254
 ---
 
 Bourke is an outback town on the Darling River, far enough from Sydney that "back of Bourke" became Australian shorthand for the middle of nowhere. It is still a service town for a huge dry district, but that remoteness is also the reason to come.

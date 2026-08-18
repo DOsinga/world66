@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kr%C3%A4merbr%C3%BCcke,_Er
 latitude: 50.977797
 loc_type: city
 longitude: 11.028736
-score: 5.572
+score: 4.977
 snippet: Thuringian city with a largely preserved old town and the inhabited medieval
   Krämerbrücke.
 title: Erfurt
 type: location
-heritage: 7.069
-vibrancy: 3.53
-nature: 2.759
-off_the_beaten_track: 2.039
+heritage: 6.258
+vibrancy: 3.269
+nature: 2.921
+off_the_beaten_track: 2.385
 ---
 
 Of all Germany's large cities, Erfurt is the one most redolent of pre-war Germany. Although it lost a couple of important monuments in bombing raids, it was otherwise little damaged in World War II — and its streets of grand turn-of-the-century shopfronts were saved from postwar developers by the fact that the city ended up in East Germany.

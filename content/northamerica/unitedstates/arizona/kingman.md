@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Route_66,_Kingman,_Arizona
 latitude: 35.1894
 loc_type: city
 longitude: -114.053
-score: 3.839
+score: 3.955
 snippet: Northwestern Arizona Route 66 town with vintage roadside history and Hualapai
   Mountain trails nearby
 title: Kingman
 type: location
-heritage: 2.505
-vibrancy: 1.804
-nature: 4.889
-off_the_beaten_track: 3.14
+heritage: 2.919
+vibrancy: 1.771
+nature: 4.893
+off_the_beaten_track: 3.019
 ---
 
 Kingman is a Route 66 town through and through. Sitting in the high desert of northwestern Arizona, it was a key stop on the Mother Road and still trades happily on that history — the downtown stretch of old Route 66 is lined with vintage motels, diners, and a good [Route 66 Museum](/northamerica/unitedstates/arizona/kingman/route_66_museum) housed in the old Powerhouse building.

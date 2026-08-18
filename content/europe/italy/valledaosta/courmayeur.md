@@ -9,17 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:CourmayeurAug052024_01.jpg
 latitude: 45.787425
 loc_type: city
 longitude: 6.973062
-score: 6.194
+score: 7.033
 snippet: Italian Alpine resort below Mont Blanc, prized for glacier descents and Skyway
   Monte Bianco views.
 sources:
 - https://en.wikipedia.org/wiki/Courmayeur
 title: Courmayeur
 type: location
-heritage: 4.405
-vibrancy: 4.706
-nature: 7.327
-off_the_beaten_track: 3.994
+heritage: 3.938
+vibrancy: 5.978
+nature: 8.013
+off_the_beaten_track: 3.669
 ---
 
 Courmayeur sits at the foot of Mont Blanc on the Italian side, a compact and attractive Alpine resort that draws weekend crowds from [Milan](/europe/italy/lombardia/milan) and [Turin](/europe/italy/piemonte/turin). It is one of the most fashionable ski towns in the Val d'Aosta, though its appeal has at least as much to do with the setting, the restaurants, and the nightlife as with the skiing itself.

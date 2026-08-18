@@ -4,15 +4,15 @@ done:
 latitude: 32.636483
 loc_type: feature
 longitude: 14.290983
-score: 6.806
+score: 5.558
 snippet: Mediterranean Roman city ruins in Libya, birthplace of Septimius Severus
   and a monumental UNESCO site.
 title: Leptis Magna
 type: location
-heritage: 8.584
-vibrancy: 1.493
-nature: 2.672
-off_the_beaten_track: 6.994
+heritage: 6.767
+vibrancy: 1.62
+nature: 3.988
+off_the_beaten_track: 6.489
 ---
 
 Even those who have no interest in ruins will be impressed by **Leptis Magna**. The setting alone — a vast Roman city overlooking the Mediterranean — is striking, and the state of preservation rivals anything in Rome itself.

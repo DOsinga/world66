@@ -5,15 +5,15 @@ done:
 latitude: 11.103756
 loc_type: city
 longitude: -0.924685
-score: 5.21
+score: 4.288
 snippet: Kassena village in southern Burkina Faso, known for painted earthen compounds
   renewed after the rains.
 title: Tiébélé
 type: location
-heritage: 6.183
-vibrancy: 1.899
-nature: 2.859
-off_the_beaten_track: 6.597
+heritage: 4.979
+vibrancy: 1.801
+nature: 3.514
+off_the_beaten_track: 5.784
 ---
 
 Tiébélé is a small Kassena village of around 450 people in southern Burkina Faso, roughly 150km south of Ouagadougou near the border with Ghana. It is one of the most remarkable places in West Africa: the traditional courtyard compounds here are built from mud and laterite and painted by local women with geometric and figurative designs in white, red ochre, and black. The patterns carry symbolic meanings — fertility, protection, identity — and the whole village is repainted after each rainy season, so the houses are at their most vivid in October and November. UNESCO World Heritage recognition is in progress.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 20.1
 longitude: -99.833
-score: 4.364
+score: 4.265
 snippet: Mountain town in Mexico State, known for whitewashed lanes, cheese, Otomi
   roots, and basalt waterfalls.
 sources:
@@ -14,10 +14,10 @@ image: aculco.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aculco_Kiosco.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Armando Olivo Martín del Campo
-heritage: 4.778
-vibrancy: 2.074
-nature: 4.739
-off_the_beaten_track: 2.826
+heritage: 4.641
+vibrancy: 2.181
+nature: 4.643
+off_the_beaten_track: 2.786
 ---
 
 Aculco is a small mountain town in Mexico State, northwest of Mexico City, with whitewashed streets, stone lanes, and a quieter feel than the better-known colonial towns. It is one of Mexico's Pueblos Magicos and sits on the old Camino Real de Tierra Adentro, the historic inland route that linked Mexico City with the northern silver towns.

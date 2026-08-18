@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Weiker
 latitude: 49.480646
 loc_type: city
 longitude: 9.897678
-score: 5.518
+score: 5.303
 snippet: Small Tauber River town on the Romantic Road, centred on Schloss Weikersheim
   and its baroque garden.
 title: Weikersheim
 type: location
-heritage: 7.289
-vibrancy: 2.913
-nature: 2.823
-off_the_beaten_track: 2.157
+heritage: 7.027
+vibrancy: 2.754
+nature: 2.89
+off_the_beaten_track: 2.32
 ---
 
 Weikersheim is a small town on the Tauber river that punches well above its weight thanks to its castle. [Schloss Weikersheim](/europe/germany/bavaria/romanticroad/weikersheim/schloss_weikersheim) was the residence of the Hohenlohe princes, and it is one of the best-preserved aristocratic homes in southern Germany. The Rittersaal (knights' hall) has a remarkable painted ceiling depicting hunting scenes and exotic animals, and the baroque palace garden, lined with stone figures of dwarves and courtiers, is delightfully eccentric.

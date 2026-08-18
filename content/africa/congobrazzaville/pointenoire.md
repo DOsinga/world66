@@ -6,15 +6,15 @@ done:
 latitude: -4.7769
 loc_type: city
 longitude: 11.8635
-score: 4.016
+score: 4.738
 snippet: Congo-Brazzaville's main port city and oil hub, set on the country's Atlantic
   coast.
 title: Pointe-Noire
 type: location
-heritage: 2.954
-vibrancy: 2.769
-nature: 4.529
-off_the_beaten_track: 5.556
+heritage: 2.681
+vibrancy: 3.622
+nature: 5.576
+off_the_beaten_track: 5.792
 ---
 
 Pointe-Noire is Congo-Brazzaville's second city and its economic heartbeat — the country's [main port](/africa/congobrazzaville/pointenoire/port_of_pointenoire), its oil hub, and the liveliest place on the coast. It has a different feel from the capital Brazzaville: more open, more international, with a rough-and-ready energy that comes from years of oil money and maritime traffic.

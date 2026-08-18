@@ -13,13 +13,13 @@ loc_type: city
 snippet: Central Kyushu city beneath Aso-san, anchored by a black-walled castle under
   long restoration.
 longitude: 130.7078
-score: 4.991
+score: 5.079
 title: Kumamoto
 type: location
-heritage: 4.515
-vibrancy: 4.843
-nature: 5.373
-off_the_beaten_track: 4.372
+heritage: 4.019
+vibrancy: 4.906
+nature: 5.501
+off_the_beaten_track: 4.342
 ---
 
 The third-largest city in Kyushu after Fukuoka and Kitakyushu, Kumamoto sits on the central plains of the island with the ancient volcanic plateau of **Aso-san** rising to the east. The city suffered devastating earthquakes in 2016, but has rebuilt with impressive determination — and the ongoing restoration of its great castle has become a symbol of that resilience.

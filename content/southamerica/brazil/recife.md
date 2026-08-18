@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Antonio_Vaz_island_-_Recif
 latitude: -8.058493
 loc_type: city
 longitude: -34.884819
-score: 6.051
+score: 5.932
 snippet: Pernambuco capital built on rivers and islands, with frevo, maracatu, bridges,
   and colonial quarters.
 title: Recife
 type: location
-heritage: 5.587
-vibrancy: 6.273
-nature: 5.478
-off_the_beaten_track: 2.443
+heritage: 4.482
+vibrancy: 5.993
+nature: 5.775
+off_the_beaten_track: 2.495
 ---
 
 Recife is the capital of Pernambuco State and one of northeast Brazil's most vibrant cities. Built on a network of rivers, islands, and peninsulas where the Atlantic coast meets the Rio Capibaribe, it has a distinctive low-rise colonial skyline and a reputation for strong regional culture — frevo music, maracatu drumming, and the most intense carnival outside of Rio.

@@ -9,17 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Dust_Cloud_in_Etosha_Natio
 latitude: -18.855
 loc_type: feature
 longitude: 16.329
-score: 5.783
+score: 5.716
 snippet: Namibian wildlife park centred on a vast saltpan where animals gather at
   dry-season waterholes.
 sources:
 - https://en.wikipedia.org/wiki/Etosha_National_Park
 title: Etosha National Park
 type: location
-heritage: 1.4
-vibrancy: 1.084
-nature: 7.412
-off_the_beaten_track: 5.085
+heritage: 1.669
+vibrancy: 1.285
+nature: 7.314
+off_the_beaten_track: 5.065
 ---
 
 Etosha is one of Africa's great wildlife parks, and arguably the easiest on the continent in which to see large animals. The entire park centres on the Etosha Pan — a vast, flat saltpan covering roughly 5,000 square kilometres — and the animals come to you. In the dry season (May through October), every waterhole becomes a theatre: elephants, rhinos, lions, cheetahs, zebras, and dozens of antelope species converge on the same muddy pools within sight of your car. You don't need to track anything. You wait, and Africa arrives.

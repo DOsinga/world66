@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Marikina_Church.jpg
 latitude: 14.633108
 loc_type: city
 longitude: 121.099354
-score: 3.596
+score: 3.379
 snippet: Metro Manila city known for shoemaking, riverfront parks, and the Shoe Museum's
   outsized collection.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Marikina_Shoe_Museum
 title: Marikina
 type: location
-heritage: 4.293
-vibrancy: 2.826
-nature: 2.615
-off_the_beaten_track: 2.064
+heritage: 3.793
+vibrancy: 3.142
+nature: 2.975
+off_the_beaten_track: 2.145
 ---
 
 Marikina is the Shoe Capital of the Philippines, a city on the eastern edge of Metro Manila that has been making shoes since the Spanish colonial era. The industry gave rise to one of the more unusual museums in Manila: the [Shoe Museum](/asia/philippines/marikina/marikina_shoe_museum), which houses the famous collection of former First Lady Imelda Marcos alongside shoes from world leaders, celebrities and shoemakers from different countries — the largest collection of its kind in the world.

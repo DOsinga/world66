@@ -5,15 +5,15 @@ done:
 latitude: 19.355923
 loc_type: city
 longitude: -16.512927
-score: 6.138
+score: 5.115
 snippet: Mauritanian fishing village where Imragen fishers work with dolphins beside
   Banc d'Arguin coastal wetlands.
 title: Nouamghar
 type: location
-heritage: 2.97
-vibrancy: 1.313
-nature: 7.306
-off_the_beaten_track: 7.237
+heritage: 3.179
+vibrancy: 1.0
+nature: 5.759
+off_the_beaten_track: 7.11
 ---
 
 Nouamghar is a fishing village on the Mauritanian coast, about 155 km north of Nouakchott along the beach "road" to the [Banc d'Arguin National Park](/africa/mauritania/nouamghar/banc_darguin). The village is home to the Imragen, a small community of fishermen who use a [remarkable technique](/africa/mauritania/nouamghar/imragen_fishing): they strike the water with wooden sticks to attract dolphins, which drive schools of mullet toward the shore and into the fishermen's nets. It is one of the few places in the world where humans and dolphins cooperate to fish.

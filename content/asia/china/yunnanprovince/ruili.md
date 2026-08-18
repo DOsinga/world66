@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:%E7%91%9E%E4%B8%BD%E5%8F%A
 latitude: 24.0167
 loc_type: city
 longitude: 97.85
-score: 5.539
+score: 6.231
 snippet: Yunnan border city beside Myanmar, shaped by jade markets, cross-border trade,
   and Dai cultural influences.
 sources:
 - https://en.wikivoyage.org/wiki/Ruili
 title: Ruili
 type: location
-heritage: 4.318
-vibrancy: 1.123
-nature: 6.561
-off_the_beaten_track: 6.632
+heritage: 3.604
+vibrancy: 1.887
+nature: 7.617
+off_the_beaten_track: 6.686
 ---
 
 Ruili occupies the far southwestern corner of Yunnan where China presses against Myanmar, and its identity is shaped entirely by that adjacency. The border here is porous in the commercial sense — jade and gems flow across in quantities that have made Ruili one of the world's significant jade trading centres, and the [jade market](/asia/china/yunnanprovince/ruili/jade_market) selling uncut stones, carved pieces, and jewellery attracts buyers from across China and Southeast Asia. For travellers with no interest in jade, this trade still defines the atmosphere: the markets are worth wandering for their sheer strangeness, the buyers bent over stones with ultraviolet torches making decisions worth fortunes.

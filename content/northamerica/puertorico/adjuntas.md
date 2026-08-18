@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 18.1628
 longitude: -66.7222
-score: 5.373
+score: 5.055
 snippet: Cool Puerto Rican mountain town of forests, coffee country, lakes, and environmental
   activism.
 sources:
@@ -17,10 +17,10 @@ image: adjuntas.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Central_Square,_Adjuntas,_Puerto_Rico.jpg
 image_license: Public domain
 image_attribution: Yurivict
-heritage: 5.083
-vibrancy: 5.293
-nature: 5.579
-off_the_beaten_track: 2.339
+heritage: 4.272
+vibrancy: 4.994
+nature: 5.213
+off_the_beaten_track: 2.196
 ---
 
 Adjuntas sits high in Puerto Rico's Cordillera Central, where the air is cooler, the roads are slower, and the island feels very far from the beach resorts. Puerto Ricans call it "La Suiza de Puerto Rico" with a wink, but the nickname points to something real: mountain weather, coffee farms, reservoirs, and forested ridges that make the town feel distinct from the coast.

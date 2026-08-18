@@ -2,7 +2,7 @@
 latitude: -42.4008
 loc_type: city
 longitude: 173.6814
-score: 5.742
+score: 5.953
 snippet: South Island coastal town where whales, seals, seabirds, and snowy mountains
   meet close offshore.
 sources:
@@ -11,10 +11,10 @@ sources:
 - https://en.wikipedia.org/wiki/Kaik%C5%8Dura
 title: Kaikoura
 type: location
-heritage: 2.841
-vibrancy: 3.403
-nature: 7.256
-off_the_beaten_track: 4.406
+heritage: 2.969
+vibrancy: 3.656
+nature: 7.461
+off_the_beaten_track: 4.474
 ---
 
 Kaikoura sits on a narrow strip of coast where the Seaward Kaikoura Range drops almost straight into the Pacific. The town is small, but the setting is not: snowy mountains behind you, deep ocean in front, and marine life unusually close to shore.

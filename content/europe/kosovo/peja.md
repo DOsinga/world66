@@ -5,7 +5,7 @@ done:
 latitude: 42.6597
 loc_type: city
 longitude: 20.2883
-score: 5.088
+score: 5.003
 snippet: Western Balkan city at Rugova Gorge, where Ottoman bazaar streets meet the
   Patriarchate of Peć.
 title: Peja
@@ -14,10 +14,10 @@ image: peja.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bajrakli_Xhami.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Arba Hatashi
-heritage: 5.208
-vibrancy: 4.71
-nature: 5.61
-off_the_beaten_track: 4.091
+heritage: 4.632
+vibrancy: 4.38
+nature: 5.638
+off_the_beaten_track: 3.89
 ---
 
 Peja (Albanian: Pejë; Serbian: Peć) sits at the mouth of the Rugova Gorge, where the Bistrica river tumbles out of the Accursed Mountains — the dramatic limestone range that marks Kosovo's border with Montenegro and Albania. With around 85,000 inhabitants, it is the main city of the Dukagjin region and a gateway to some of the most spectacular mountain scenery in the western Balkans.

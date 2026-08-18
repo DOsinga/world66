@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: 20.188
 longitude: -100.147
-score: 4.216
+score: 4.03
 snippet: Otomi Pueblo Magico in Queretaro, known for handmade Lele dolls and highland
   craft villages.
 sources:
 - https://en.wikivoyage.org/wiki/Amealco
 - https://www.wikidata.org/wiki/Q3849668
 - https://queretaro.travel/fichas/museo-de-la-muneca-artesanal/?lang=en
-heritage: 3.706
-vibrancy: 3.392
-nature: 4.896
-off_the_beaten_track: 2.581
+heritage: 3.615
+vibrancy: 3.153
+nature: 4.714
+off_the_beaten_track: 2.734
 ---
 
 Amealco is a small highland town in southern Queretaro, about 75 minutes by road from [Queretaro](/northamerica/mexico/queretaro). It is a Pueblo Magico with a strong Otomi identity, best known as the home of the handmade cloth dolls often called Lele or Maria dolls. You see them all over Mexico, but here they are not tourist shorthand: they are tied to the Otomi communities of Santiago Mexquititlan and San Ildefonso Tultepec, where many families still make dolls, embroidery, ceramics, and woven work.

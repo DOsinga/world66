@@ -5,15 +5,15 @@ done:
 latitude: -32.959361
 loc_type: city
 longitude: -60.661702
-score: 5.494
+score: 5.214
 snippet: Argentine river city on the Paraná, with Che Guevara history, university
   life, and a renewed waterfront
 title: Rosario
 type: location
-heritage: 5.171
-vibrancy: 5.658
-nature: 3.453
-off_the_beaten_track: 2.203
+heritage: 4.732
+vibrancy: 5.436
+nature: 3.303
+off_the_beaten_track: 2.171
 ---
 
 Rosario's main claim to fame is that it was the birthplace of [Che Guevara](/southamerica/argentina/rosario/che_guevara_birthplace) — the apartment building at Entre Ríos 480 is marked with a plaque and draws visitors from across Argentina. But the country's third-largest city has more to offer than revolutionary history. Located 300 km upstream from [Buenos Aires](/southamerica/argentina/buenosaires) on the west bank of the Paraná, it is one of the economic powerhouses of the Pampas, with a lively university scene and a waterfront that has been transformed in recent years.

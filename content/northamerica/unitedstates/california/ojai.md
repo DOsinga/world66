@@ -4,15 +4,15 @@ type: location
 loc_type: city
 latitude: 34.449167
 longitude: -119.246667
-score: 5.101
+score: 5.217
 snippet: Small Ventura County valley town with an artsy centre, mountain trails, citrus
   groves, and nearby Lake Casitas.
 sources:
 - https://en.wikivoyage.org/wiki/Ojai
-heritage: 4.337
-vibrancy: 5.083
-nature: 5.149
-off_the_beaten_track: 2.711
+heritage: 4.513
+vibrancy: 5.115
+nature: 5.481
+off_the_beaten_track: 2.574
 ---
 
 Ojai sits in a warm inland valley behind Ventura, close enough to the Pacific to feel coastal but ringed by dry Southern California hills. It is small, walkable, and a little self-conscious, with Spanish-style arcades, galleries, farmers-market energy, and a long tradition of weekend escape.

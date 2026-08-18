@@ -13,7 +13,7 @@ quick_facts:
   From Vienna: An hour by riverboat
   Population: ~475,000
   Quirky Statues: Like 'Čumil' in his manhole
-score: 5.43
+score: 6.064
 snippet: Small Danube capital at Slovakia's western edge, pressed close to Austria
   and Hungary
 tip: Bratislava is one of Europe's smallest, most walkable capitals — and the only
@@ -22,10 +22,10 @@ tip: Bratislava is one of Europe's smallest, most walkable capitals — and the 
   hilltop castle overlooks the Danube. It is an easy hour by boat or train from Vienna.
 title: Bratislava
 type: location
-heritage: 5.725
-vibrancy: 5.359
-nature: 2.549
-off_the_beaten_track: 1.244
+heritage: 6.445
+vibrancy: 5.966
+nature: 3.494
+off_the_beaten_track: 1.305
 ---
 
 Bratislava is one of Europe's smallest and most underrated capitals. Sitting on the Danube where [Slovakia](/europe/slovakia), [Austria](/europe/austria), and [Hungary](/europe/hungary) meet, it spent centuries in the shadow of nearby Vienna — and for much of that time, it was the coronation city of the Hungarian kings.

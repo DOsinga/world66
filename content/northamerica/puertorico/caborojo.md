@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Faro_Los_Morrillos_en_Cabo
 latitude: 18.0868
 loc_type: city
 longitude: -67.1497
-score: 4.988
+score: 4.955
 snippet: Southwestern Puerto Rican coastal town of salt flats, mangroves, sea cliffs,
   and a lonely lighthouse
 sources:
@@ -18,10 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Los_Morrillos_Lighthouse
 title: Cabo Rojo
 type: location
-heritage: 2.589
-vibrancy: 2.867
-nature: 6.346
-off_the_beaten_track: 1.797
+heritage: 3.252
+vibrancy: 2.944
+nature: 6.258
+off_the_beaten_track: 1.533
 ---
 
 Cabo Rojo sits at the southwestern tip of Puerto Rico, where the island tapers into a jagged coastline of salt flats, mangroves, and wind-scoured cliffs. It is one of the less-touristed corners of the island — quieter than the east coast resorts, and all the better for it.

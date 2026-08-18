@@ -4,7 +4,7 @@ done:
 latitude: -15.7167
 loc_type: city
 longitude: 46.3167
-score: 5.336
+score: 6.055
 snippet: Northwestern Malagasy port city of baobabs, red earth, sea air, and dry-season
   sunsets.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Mahajanga
 title: Mahajanga
 type: location
-heritage: 2.32
-vibrancy: 1.568
-nature: 6.49
-off_the_beaten_track: 5.834
+heritage: 2.049
+vibrancy: 2.074
+nature: 7.583
+off_the_beaten_track: 5.904
 ---
 
 Mahajanga, still often called Majunga, is Madagascar's great northwestern port: hot, relaxed, and a little apart from the highland-and-rainforest routes most visitors follow. The light is harsher here, the streets feel drier, and the Mozambique Channel gives the city a broad, salty horizon.

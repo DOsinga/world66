@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 18.85
 longitude: -97.1
-score: 5.61
+score: 6.043
 snippet: Veracruz highland city of rivers, cable-car views, iron architecture, and
   volcano country.
 wikidata: Q993904
@@ -16,10 +16,10 @@ image: orizaba.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Orizaba,_Veracruz_03.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Isaacvp
-heritage: 3.672
-vibrancy: 3.825
-nature: 6.847
-off_the_beaten_track: 4.337
+heritage: 3.685
+vibrancy: 4.29
+nature: 7.294
+off_the_beaten_track: 4.557
 ---
 
 Orizaba sits in the cool highlands of Veracruz, halfway in mood between colonial mountain city and busy regional centre. Rivers cut through town, churches and Porfirian buildings fill the centre, and the volcano that shares its name rises beyond the valley. It is one of those Mexican cities that rewards a full day on foot.

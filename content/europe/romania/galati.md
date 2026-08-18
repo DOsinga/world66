@@ -5,15 +5,15 @@ done:
 latitude: 45.433822
 loc_type: city
 longitude: 28.054939
-score: 3.762
+score: 3.942
 snippet: Danube port city in eastern Romania, defined by steelworks, river promenades,
   and borderland grit.
 title: Galati
 type: location
-heritage: 3.47
-vibrancy: 3.801
-nature: 3.66
-off_the_beaten_track: 1.564
+heritage: 3.555
+vibrancy: 3.974
+nature: 3.858
+off_the_beaten_track: 1.745
 ---
 
 Galați is a port city on the Danube in eastern [Romania](/europe/romania), close to the border with Moldova and Ukraine. With around 250,000 people it is one of Romania's larger cities, though it rarely features on tourist itineraries. The massive ArcelorMittal steelworks — formerly SIDEX, once the largest in southeastern Europe — still dominates the skyline and the local economy.

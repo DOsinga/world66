@@ -9,15 +9,15 @@ image_source: https://www.flickr.com/photos/152930510@N02/49520209202
 latitude: 51.499678
 loc_type: city
 longitude: 3.613737
-score: 4.873
+score: 4.425
 snippet: Zeeland's capital, with canals, stepped-gable houses, a Gothic town hall,
   and a historic abbey complex.
 title: Middelburg
 type: location
-heritage: 5.814
-vibrancy: 3.836
-nature: 3.97
-off_the_beaten_track: 1.61
+heritage: 5.198
+vibrancy: 3.649
+nature: 3.703
+off_the_beaten_track: 1.831
 ---
 
 Middelburg is the capital of Zeeland, the southwesternmost province of the Netherlands — a land of islands, polders, and sea inlets that once rivalled Amsterdam in maritime ambition. The province gave its name to New Zealand, sent Admiral Michiel de Ruyter to sail the Dutch fleet up the Thames, and built much of its wealth on the spice trade. Today it is one of the quieter corners of the Netherlands, but Middelburg itself rewards a visit with a compact historic centre that emerged largely intact from the devastation of the Second World War.

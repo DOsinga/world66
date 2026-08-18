@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -32.4833
 longitude: 137.7667
-score: 3.972
+score: 4.223
 snippet: Spencer Gulf town where South Australia's outback roads meet the Flinders
   Ranges.
 sources:
@@ -16,10 +16,10 @@ image: port_augusta.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Jacaranda_Time_Port_Augusta.jpg
 image_license: CC BY-SA 3.0
 image_attribution: GeorgieSharp
-heritage: 3.609
-vibrancy: 3.378
-nature: 4.525
-off_the_beaten_track: 3.864
+heritage: 3.535
+vibrancy: 3.655
+nature: 4.779
+off_the_beaten_track: 3.715
 ---
 
 Port Augusta sits at the head of Spencer Gulf, where the desert roads from the north meet the coast and the Flinders Ranges rise to the east. Many travellers treat it as a fuel stop between [Adelaide](/australiaandpacific/australia/southaustralia/adelaide), [Coober Pedy](/australiaandpacific/australia/southaustralia/cooberpedy), and the Flinders, but it has enough of its own to justify a spare day.

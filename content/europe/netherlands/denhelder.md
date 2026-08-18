@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2_IC_in_Den_Helder_Station
 latitude: 52.952989
 loc_type: city
 longitude: 4.826759
-score: 4.747
+score: 4.748
 snippet: Northern Dutch navy city at the Wadden Sea, serving maritime museums and
   the ferry to Texel.
 title: Den Helder
 type: location
-heritage: 2.91
-vibrancy: 2.894
-nature: 5.959
-off_the_beaten_track: 2.327
+heritage: 2.933
+vibrancy: 2.891
+nature: 5.962
+off_the_beaten_track: 2.465
 ---
 
 Den Helder is the northernmost city on the Dutch mainland, sitting at the tip of the North Holland peninsula where the North Sea meets the Wadden Sea. It is best known as a navy town -- the Royal Netherlands Navy has been based here since the early nineteenth century -- and as the departure point for the [Texel ferry](/europe/netherlands/denhelder/texel_ferry) to the island of [Texel](/europe/netherlands/texel_island), one of the most popular of the Wadden Islands.

@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: 53.1167
 longitude: 9.8
-score: 2.587
+score: 2.661
 snippet: Lüneburg Heath town beside purple heather fields, restored bog, and quiet
   North German walking trails.
 sources:
 - https://en.wikivoyage.org/wiki/Schneverdingen
 - https://naturpark-lueneburger-heide.de/en/nature-and-culture/heathland/heathlands-in-the-nature-park
 - https://en.wikipedia.org/wiki/L%C3%BCneburg_Heath
-heritage: 2.534
-vibrancy: 1.811
-nature: 2.936
-off_the_beaten_track: 1.72
+heritage: 2.8
+vibrancy: 1.807
+nature: 2.937
+off_the_beaten_track: 1.742
 ---
 
 Schneverdingen is one of the easiest bases for the Lüneburg Heath. The town itself is small and tidy, but the reason to come is right at its edge: open heathland, sheep-grazed paths, the Pietzmoor bog, and the Höpen hills, which are at their best when the heather turns purple in late summer.

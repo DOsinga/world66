@@ -2,7 +2,7 @@
 latitude: -32.2522
 loc_type: city
 longitude: 24.5308
-score: 4.509
+score: 4.355
 snippet: Historic Karoo town encircled by Camdeboo National Park and the Valley of
   Desolation.
 sources:
@@ -12,10 +12,10 @@ sources:
 title: Graaff-Reinet
 type: location
 wikidata_id: Q1004667
-heritage: 5.013
-vibrancy: 3.859
-nature: 4.797
-off_the_beaten_track: 3.395
+heritage: 4.814
+vibrancy: 3.699
+nature: 4.698
+off_the_beaten_track: 3.536
 ---
 
 Graaff-Reinet is one of South Africa's great Karoo towns: whitewashed houses, wide streets, church spires and dry mountains pressing close around the grid. Founded in the 18th century, it has a depth of built history that most small South African towns cannot match, but it never feels like a museum set. It is still a working town in the middle of sheep country.

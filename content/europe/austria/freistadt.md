@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: 48.5117
 longitude: 14.5061
-score: 5.155
+score: 4.872
 snippet: Mühlviertel walled town with medieval gates, a castle museum, and a handsome
   main square.
 sources:
 - https://en.wikivoyage.org/wiki/Freistadt
 - https://en.wikipedia.org/wiki/Freistadt
 wikidata: Q143140
-heritage: 6.385
-vibrancy: 2.657
-nature: 4.003
-off_the_beaten_track: 2.055
+heritage: 6.018
+vibrancy: 2.588
+nature: 3.819
+off_the_beaten_track: 2.157
 ---
 
 Freistadt is a small walled town in Upper Austria's Mühlviertel, north of Linz and close to the old route toward Bohemia. The name means "free town", and the old trading role is still legible in its gates, towers, main square, and former salt house.

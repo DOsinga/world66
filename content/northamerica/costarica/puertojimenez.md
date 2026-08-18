@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Puerto_jimenez.JPG
 latitude: 8.5367
 loc_type: city
 longitude: -83.305
-score: 5.52
+score: 5.678
 snippet: Osa Peninsula gateway town for Corcovado, Golfo Dulce wildlife, and rough-edged
   rainforest travel.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://www.openstreetmap.org/
 title: Puerto Jiménez
 type: location
-heritage: 2.265
-vibrancy: 2.761
-nature: 7.107
-off_the_beaten_track: 4.749
+heritage: 2.473
+vibrancy: 2.659
+nature: 7.323
+off_the_beaten_track: 4.842
 ---
 
 Puerto Jiménez is the main service town on the eastern side of the Osa Peninsula, facing the calm Golfo Dulce rather than the open Pacific. It is dusty, humid, practical, and far more useful than pretty: the place where hikers find guides, boats cross to Golfito, and Corcovado trips become real.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Convento_Cristo_December_2
 latitude: 39.6039
 loc_type: city
 longitude: -8.413
-score: 4.859
+score: 4.661
 snippet: Riverside Ribatejo town beneath the Knights Templar’s hilltop Convent of
   Christ, with a quiet provincial centre.
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Tomar
 title: Tomar
 type: location
-heritage: 5.233
-vibrancy: 4.724
-nature: 5.208
-off_the_beaten_track: 3.545
+heritage: 4.69
+vibrancy: 4.336
+nature: 5.13
+off_the_beaten_track: 3.562
 ---
 
 Tomar sits astride the Rio Nabão in the heart of Portugal's Ribatejo province, its past written into the stone of a hilltop that the Knights Templar chose as their headquarters in the twelfth century. What they built there — a fortified convent of astonishing ambition — became one of the greatest monuments of the Portuguese Age of Discovery and draws visitors from around the world. Yet the town below the castle hill is quiet, provincial, and genuinely pleasant: a grid of low white houses, a main square with a pelourinho, and a riverside park where locals take their evening walk.

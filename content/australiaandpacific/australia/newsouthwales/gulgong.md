@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -32.3629
 longitude: 149.532
-score: 3.959
+score: 4.053
 snippet: Preserved Central West gold town tied to Henry Lawson, Holtermann photographs,
   and veranda streets.
 sources:
@@ -14,10 +14,10 @@ sources:
 - https://www.visitmudgeeregion.com.au/the-region/gulgong
 - https://mgnsw.org.au/organisations/henry-lawson-centre-gulgong/
 wikidata: Q2336057
-heritage: 3.907
-vibrancy: 1.982
-nature: 4.48
-off_the_beaten_track: 3.155
+heritage: 3.953
+vibrancy: 2.162
+nature: 4.607
+off_the_beaten_track: 2.973
 ---
 
 Gulgong is a Central West gold town with more surviving character than its size suggests. Its narrow streets, old verandas, and timber shopfronts still carry the shape of the 1870s rush, when gold discoveries at Red Hill turned a small settlement into a crowded diggings town almost overnight.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kanab,_Utah_02_Little_Holl
 latitude: 37.0482
 loc_type: city
 longitude: -112.5285
-score: 5.88
+score: 5.678
 snippet: Southern Utah base town near Zion, Bryce Canyon, the Grand Canyon North Rim,
   and Grand Staircase-Escalante.
 title: Kanab
 type: location
-heritage: 3.344
-vibrancy: 3.84
-nature: 7.259
-off_the_beaten_track: 4.018
+heritage: 3.275
+vibrancy: 3.103
+nature: 7.302
+off_the_beaten_track: 4.287
 ---
 
 Kanab is a small town in southern Utah that punches well above its weight as a base for exploring some of the American Southwest's most spectacular landscapes. Sitting at the junction of US-89 and US-89A, it is within easy reach of four major protected areas: [Zion National Park](/northamerica/unitedstates/utah/zion), Bryce Canyon National Park, the North Rim of the Grand Canyon, and the vast [Grand Staircase-Escalante National Monument](/northamerica/unitedstates/utah/kanab/grand_staircase). Travellers who come for a night often end up staying for a week.

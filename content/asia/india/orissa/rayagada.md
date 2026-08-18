@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Rayagada_Railway_Station.j
 latitude: 19.4427
 loc_type: city
 longitude: 83.5873
-score: 4.73
+score: 4.711
 snippet: Odisha district town in the Eastern Ghats foothills, used as a base for Adivasi
   weekly markets.
 title: Rayagada
 type: location
-heritage: 4.519
-vibrancy: 4.352
-nature: 5.229
-off_the_beaten_track: 4.051
+heritage: 4.316
+vibrancy: 4.259
+nature: 5.244
+off_the_beaten_track: 4.275
 ---
 
 Rayagada is a small district town in southern [Odisha](/asia/india/orissa), set in the foothills of the Eastern Ghats. The town itself is unremarkable — a typical Indian district headquarters with government offices, a bus stand, and a railway station — but it serves as the best base for visiting the weekly tribal markets in the surrounding hills, which are among the most fascinating cultural experiences in eastern India.

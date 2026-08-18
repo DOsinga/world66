@@ -2,7 +2,7 @@
 latitude: 34.197778
 loc_type: city
 longitude: -90.571944
-score: 4.463
+score: 3.321
 snippet: Mississippi Delta blues town where juke joints, crossroads lore, and music
   history still carry the place.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://www.visitclarksdale.com/
 title: Clarksdale
 type: location
-heritage: 5.377
-vibrancy: 3.408
-nature: 2.451
-off_the_beaten_track: 2.361
+heritage: 3.783
+vibrancy: 2.978
+nature: 2.336
+off_the_beaten_track: 2.544
 ---
 
 Clarksdale is one of the few small American towns whose name means something far beyond its size. It sits in the flat Mississippi Delta, where cotton, poverty, Black migration, church music, field hollers, and juke joints helped make the blues into one of the foundation stones of modern music.

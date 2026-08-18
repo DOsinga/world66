@@ -9,14 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Coshocton_County_Courthous
 latitude: 40.290568
 loc_type: city
 longitude: -81.927144
-score: 3.167
+score: 3.44
 snippet: Eastern Ohio town known for Roscoe Village and its restored canal-era buildings.
 title: Coshocton
 type: location
-heritage: 2.598
-vibrancy: 2.005
-nature: 3.808
-off_the_beaten_track: 1.993
+heritage: 3.287
+vibrancy: 2.086
+nature: 3.938
+off_the_beaten_track: 1.923
 ---
 
 Coshocton is a small town in eastern Ohio, best known as the site of [Roscoe Village](/northamerica/unitedstates/ohio/coshocton/roscoe_village), a partially restored canal town from the 1830s. The village preserves a stretch of the Ohio and Erie Canal era, with a one-room schoolhouse, a doctor's house, a visitor centre explaining canal-era life, and rides on a horse-drawn canal boat. The [Johnson-Humrickhouse Museum](/northamerica/unitedstates/ohio/coshocton/johnson_humrickhouse_museum), also in Roscoe Village, houses a surprising collection ranging from Native American artefacts and pioneer-era items to East Asian art and European porcelain.

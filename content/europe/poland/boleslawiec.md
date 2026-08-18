@@ -5,14 +5,14 @@ done:
 latitude: 51.262169
 loc_type: city
 longitude: 15.55502
-score: 3.813
+score: 4.524
 title: Boleslawiec
 type: location
 snippet: Southwestern Polish town near Germany, famous for hand-stamped blue-and-white
   stoneware pottery.
-heritage: 5.224
-vibrancy: 1.633
-nature: 1.792
+heritage: 6.337
+vibrancy: 1.435
+nature: 1.85
 off_the_beaten_track: 1.718
 ---
 

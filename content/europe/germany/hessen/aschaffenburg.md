@@ -5,15 +5,15 @@ done:
 latitude: 49.97067
 loc_type: city
 longitude: 9.138486
-score: 5.16
+score: 4.63
 snippet: Main River city near Frankfurt, dominated by red sandstone Johannisburg Palace
   and Schönbusch Park.
 title: Aschaffenburg
 type: location
-heritage: 6.588
-vibrancy: 3.186
-nature: 2.865
-off_the_beaten_track: 1.786
+heritage: 5.897
+vibrancy: 2.886
+nature: 2.833
+off_the_beaten_track: 2.097
 ---
 
 Aschaffenburg sits on the Main river at the point where Bavaria meets Hesse, about 40 km southeast of Frankfurt. The city is dominated by the imposing red sandstone Johannisburg Palace, one of the finest Renaissance palaces in Germany, which contains a remarkable collection of Dutch and Flemish paintings. The surrounding Schönbusch Park is an English-style landscape garden on the opposite bank of the Main — the combination of palace, park, and riverside makes for a very pleasant day out from Frankfurt.

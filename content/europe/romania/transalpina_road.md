@@ -2,15 +2,15 @@
 latitude: 45.35
 loc_type: feature
 longitude: 23.67
-score: 4.851
+score: 4.681
 snippet: Romania's highest mountain road, crossing the Southern Carpathians at over
   2,100 metres through sparse alpine meadows and rocky outcrops.
 title: Transalpina Road
 type: location
-heritage: 4.32
-vibrancy: 1.628
-nature: 5.688
-off_the_beaten_track: 4.569
+heritage: 3.802
+vibrancy: 1.688
+nature: 5.644
+off_the_beaten_track: 4.685
 ---
 
 The Transalpina (DN67C) is the highest road in Romania, crossing the Southern Carpathians at over 2,100 metres and offering views across the full width of the range on a clear day. It runs through the Parâng Mountains west of Vâlcea county and is most easily reached from Novaci — about 80km from Râmnicu Vâlcea on a good road. The upper section is open from roughly June to October depending on snowfall; outside those months you will find gates across the tarmac and deep drifts above the treeline.

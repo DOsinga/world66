@@ -2,15 +2,15 @@
 latitude: 17.632954
 loc_type: city
 longitude: -101.133509
-score: 4.186
+score: 4.504
 snippet: Small Guerrero town famous for its pilgrimage basilica and long tradition
   of gold and silver jewellery.
 title: Petatlán
 type: location
-heritage: 4.173
-vibrancy: 3.048
-nature: 4.72
-off_the_beaten_track: 5.507
+heritage: 3.751
+vibrancy: 3.197
+nature: 5.311
+off_the_beaten_track: 5.472
 ---
 
 Petatlán is a compact town in the coastal foothills of Guerrero state, about an hour southeast of Zihuatanejo by bus along the coastal highway. It is a working Mexican town rather than a tourist destination, which is part of its appeal — the streets are unhurried, the markets are local, and the restaurants around the plaza cook for residents rather than visitors.

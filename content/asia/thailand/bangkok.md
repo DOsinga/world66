@@ -18,7 +18,7 @@ quick_facts:
   Locals Just Say: Krung Thep — 'City of Angels'
   Founded: '1782'
   Metro Population: ~11 million
-score: 9.619
+score: 9.529
 snippet: Thai capital on the Chao Phraya River, where royal temples, street food,
   and canal life crowd together
 tip: Beat the legendary traffic with the BTS Skytrain, the MRT metro and the Chao
@@ -27,10 +27,10 @@ tip: Beat the legendary traffic with the BTS Skytrain, the MRT metro and the Cha
   knees and shoulders for the temples.
 title: Bangkok
 type: location
-heritage: 8.859
+heritage: 8.529
 vibrancy: 9.98
-nature: 2.608
-off_the_beaten_track: 0.923
+nature: 3.107
+off_the_beaten_track: 0.913
 ---
 
 Bangkok is one of those cities that overwhelms you on arrival and then slowly wins you over. The heat hits you first, then the noise, then the smells -- exhaust fumes mingling with jasmine garlands and sizzling street food. Give it a day and you will start to feel the rhythm of the place.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 43.35
 longitude: 142.383333
-score: 5.557
+score: 5.665
 snippet: Central Hokkaido town of lavender fields, powder skiing, farm food, and open
   mountain views.
 sources:
@@ -15,10 +15,10 @@ image: furano.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Countryside_around_Furano_-_Hokkaido_-_Japan_-_01_(48012303582).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Adam Jones from Kelowna, BC, Canada
-heritage: 2.776
-vibrancy: 2.566
-nature: 7.299
-off_the_beaten_track: 4.308
+heritage: 3.003
+vibrancy: 2.073
+nature: 7.358
+off_the_beaten_track: 4.663
 ---
 
 Furano is one of central [Hokkaido](/asia/japan/hokkaido)'s easiest places to like. In summer the surrounding fields are striped with lavender and other flowers, while in winter the same mountain basin becomes a serious ski destination with dry powder and long groomed runs.

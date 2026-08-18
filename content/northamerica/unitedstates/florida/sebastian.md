@@ -5,7 +5,7 @@ loc_type: city
 latitude: 27.7828
 longitude: -80.4822
 wikidata: Q986174
-score: 4.862
+score: 4.45
 snippet: Treasure Coast river town between surf breaks, wildlife refuges, and Spanish
   shipwreck lore.
 image: sebastian.jpg
@@ -16,10 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Sebastian
 - https://en.wikipedia.org/wiki/Sebastian,_Florida
 - https://www.visitspacecoast.com/blog/your-guide-to-the-sebastian-inlet/
-heritage: 3.004
-vibrancy: 4.399
-nature: 5.41
-off_the_beaten_track: 1.466
+heritage: 2.205
+vibrancy: 4.025
+nature: 4.953
+off_the_beaten_track: 1.419
 ---
 
 Sebastian sits on the Indian River Lagoon, just inland from the Atlantic cut at [Sebastian Inlet State Park](/northamerica/unitedstates/florida/sebastian/sebastian_inlet_state_park). It is a small Treasure Coast town, but it has a stronger travel case than its size suggests: surf, fishing, old shipwreck stories, and the first national wildlife refuge in the United States.

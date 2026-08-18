@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 53.3019
 longitude: -60.4167
-score: 5.133
+score: 5.071
 snippet: Central Labrador town shaped by wartime aviation, Lake Melville, and the
   Trans-Labrador Highway.
 sources:
@@ -15,10 +15,10 @@ image: happy_valley_goose_bay.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Goose_Bay_Labrador_(2513512285).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Shawn
-heritage: 4.112
-vibrancy: 2.06
-nature: 6.122
-off_the_beaten_track: 6.011
+heritage: 2.946
+vibrancy: 1.988
+nature: 5.978
+off_the_beaten_track: 6.168
 ---
 
 Happy Valley-Goose Bay is the main town in central Labrador, set near Lake Melville where the Churchill River country meets the long roads and air routes of the north. It began in 1941 as a wartime air base and still carries that history plainly: runways, military buildings, and stories of Atlantic ferry flights sit beside Labrador's older Indigenous and settler routes.

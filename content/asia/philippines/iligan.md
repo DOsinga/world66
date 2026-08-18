@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 8.228
 longitude: 124.2452
-score: 5.164
+score: 5.752
 snippet: Northern Mindanao city known for powerful waterfalls, cold spring pools,
   and Agus River scenery.
 wikidata: Q285488
@@ -12,10 +12,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Iligan
 - https://www.wikidata.org/wiki/Q285488
 - https://en.wikipedia.org/wiki/Iligan
-heritage: 2.979
-vibrancy: 2.905
-nature: 6.535
-off_the_beaten_track: 4.816
+heritage: 3.26
+vibrancy: 3.21
+nature: 7.364
+off_the_beaten_track: 4.937
 ---
 
 Iligan sits on the north coast of Mindanao, west of [Cagayan de Oro City](/asia/philippines/cagayan_de_oro_city), where the land rises quickly from Iligan Bay into limestone hills and river valleys. The city is industrial in places, but its travel identity is simple and strong: waterfalls.

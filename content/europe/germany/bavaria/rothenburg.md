@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Rothenburg_BW_4.JPG
 latitude: 49.3779
 loc_type: city
 longitude: 10.1808
-score: 6.646
+score: 7.358
 title: Rothenburg ob der Tauber
 type: location
 snippet: Walled Franconian town where half-timbered lanes and intact ramparts preserve
   medieval Germany almost completely.
-heritage: 8.46
-vibrancy: 4.154
-nature: 3.109
-off_the_beaten_track: 2.119
+heritage: 8.396
+vibrancy: 6.569
+nature: 3.369
+off_the_beaten_track: 1.999
 ---
 
 Rothenburg ob der Tauber is a walled medieval town in the hills of Franconia, in the north-west corner of Bavaria. If it weren't real, it would look like a theme park: half-timbered houses leaning into cobbled squares, red-tiled roofs, defensive walls you can walk the whole way around, and towers rising over a bend in the Tauber valley. It is the single best-preserved medieval town in Germany, and it was preserved by accident — a combination of 17th-century economic decline (which left the town too poor to modernise) and some luck at the end of the Second World War, when a senior US general overrode orders and avoided bombing the old town on the strength of its historic value.

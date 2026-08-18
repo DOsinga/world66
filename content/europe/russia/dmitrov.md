@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 56.3438
 longitude: 37.5194
-score: 2.995
+score: 3.159
 snippet: Old Moscow-region town with earthwork kremlin walls, medieval churches, and
   Kropotkin history.
 sources:
@@ -14,10 +14,10 @@ image: dmitrov.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Dmitrov_Nikolskye_Gate_2023-09-23_8697.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Mike1979 Russia
-heritage: 2.538
-vibrancy: 2.166
-nature: 3.567
-off_the_beaten_track: 2.063
+heritage: 2.89
+vibrancy: 2.139
+nature: 3.672
+off_the_beaten_track: 2.099
 ---
 
 Dmitrov is one of the older towns north of [Moscow](/europe/russia/moscow), founded in the 12th century and still arranged around a walkable historic core. It does not have the spectacle of [Sergiev Posad](/europe/russia/sergievposad), but it has enough for a good day: kremlin earthworks, churches, a monastery, small museums, and the last home of anarchist thinker Peter Kropotkin.

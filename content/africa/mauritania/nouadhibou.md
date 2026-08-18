@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Nouadhibou,PortArtisanal1.
 latitude: 20.912705
 loc_type: city
 longitude: -17.050309
-score: 6.632
+score: 6.161
 title: Nouadhibou
 type: location
 snippet: Nouadhibou is Mauritania’s main port, set on a narrow Atlantic peninsula
   near Western Sahara.
-heritage: 2.6
-vibrancy: 0.673
-nature: 8.158
-off_the_beaten_track: 6.953
+heritage: 2.53
+vibrancy: 0.721
+nature: 7.49
+off_the_beaten_track: 6.751
 ---
 
 Nouadhibou is Mauritania's second city and its main port, sitting on the narrow [Cap Blanc peninsula](/africa/mauritania/nouadhibou/cap_blanc) that juts into the Atlantic on the border with Western Sahara. For most travellers it is a transit point — the entry from Morocco after the long desert crossing, or the departure point for the [iron ore train](/africa/mauritania/nouadhibou/iron_ore_train) to [Zouerate](/africa/mauritania/zouerate).

@@ -2,7 +2,7 @@
 latitude: -35.3378
 loc_type: city
 longitude: 143.5544
-score: 3.988
+score: 4.082
 snippet: Murray River town with paddlesteamer heritage, Mallee history, and a strong
   riverside museum
 sources:
@@ -11,10 +11,10 @@ sources:
 - https://www.wikidata.org/wiki/Q2305836
 title: Swan Hill
 type: location
-heritage: 3.771
-vibrancy: 2.152
-nature: 4.583
-off_the_beaten_track: 3.449
+heritage: 3.791
+vibrancy: 2.346
+nature: 4.72
+off_the_beaten_track: 3.17
 ---
 
 Swan Hill sits on the Murray River in Victoria's dry north-west, far enough from Melbourne to feel like a real inland town rather than a weekend suburb. The river is the reason to come: it shaped the Aboriginal stories of the area, the paddlesteamer trade, and the farming towns that grew along this part of the Murray.

@@ -9,15 +9,15 @@ image_source: https://www.flickr.com/photos/74089637@N00/3736401474
 latitude: -0.5359
 loc_type: city
 longitude: 37.6653
-score: 5.078
+score: 4.999
 snippet: Mount Kenya foothills town where cool farmland rises toward forested southeastern
   slopes
 title: Embu
 type: location
-heritage: 4.498
-vibrancy: 2.876
-nature: 5.964
-off_the_beaten_track: 3.736
+heritage: 4.251
+vibrancy: 2.491
+nature: 5.946
+off_the_beaten_track: 4.103
 ---
 
 Embu sits on the southeastern slopes of Mount Kenya, where the mountain's forest gives way to fertile farmland and the air carries a cool freshness even at this elevation. It serves as the headquarters of Embu County and is the traditional home of the Embu people, close cultural relatives of the Kikuyu and Meru who share a common ancestry rooted in the slopes of Kirinyaga — their name for Mount Kenya.

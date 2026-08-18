@@ -10,14 +10,14 @@ latitude: 30.53353
 longitude: -92.081509
 title: Opelousas
 type: location
-score: 2.604
+score: 3.007
 loc_type: city
 snippet: Acadiana city and zydeco stronghold, rooted in Creole food, music, and Louisiana's
   layered history.
-heritage: 2.891
-vibrancy: 2.105
-nature: 2.781
-off_the_beaten_track: 1.741
+heritage: 3.44
+vibrancy: 2.154
+nature: 2.981
+off_the_beaten_track: 1.749
 ---
 
 Opelousas bills itself as the Zydeco Capital of the World, and the claim is hard to argue with. The fast-tempo beat of accordion and washboard — the *frottoir* — fills storefronts, restaurants and dance halls around town. It is [Louisiana](/northamerica/unitedstates/louisiana)'s third oldest city, sitting in the heart of Acadiana just minutes from [Lafayette](/northamerica/unitedstates/louisiana/lafayette).

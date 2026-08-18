@@ -2,15 +2,15 @@
 latitude: 52.7804
 loc_type: city
 longitude: 6.9066
-score: 3.329
+score: 3.715
 snippet: Drenthe city with a major zoo, peatland history, and prehistoric hunebedden
   in the woods.
 title: Emmen
 type: location
-heritage: 2.599
-vibrancy: 2.095
-nature: 4.058
-off_the_beaten_track: 1.761
+heritage: 3.582
+vibrancy: 2.223
+nature: 4.24
+off_the_beaten_track: 1.647
 ---
 
 Emmen is a city in southeast Drenthe, close to the German border and the peat colonies that shaped this part of the Netherlands. It is not a postcard canal town. Its appeal is more practical and regional: a serious zoo, forest walks, megalithic tombs, and museums that explain the peat landscape around it.

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Church_of_Christ_Pantocrat
 latitude: 42.65
 loc_type: city
 longitude: 27.7333
-score: 5.741
+score: 5.198
 snippet: UNESCO Black Sea town of medieval brick churches on a narrow peninsula near
   Sunny Beach.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://whc.unesco.org/en/list/217/
 title: Nesebar
 type: location
-heritage: 6.594
-vibrancy: 4.979
-nature: 5.63
-off_the_beaten_track: 3.013
+heritage: 5.529
+vibrancy: 4.112
+nature: 5.713
+off_the_beaten_track: 2.718
 ---
 
 Nesebar is one of Bulgaria's most distinctive coastal towns: a compact old settlement on a rocky peninsula, joined to the mainland by a narrow causeway and packed with medieval brick churches. The Black Sea resort sprawl comes right up to its edge, but the old town still has enough stone, timber, and sea air to justify the crowds.

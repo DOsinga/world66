@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Buddha_Statue_Narayani_Riv
 latitude: 27.700683
 loc_type: city
 longitude: 84.427353
-score: 2.751
+score: 2.533
 snippet: Terai crossroads town near Chitwan, where Nepal's east-west highway meets
   the road south to India.
 title: Narayangarh
 type: location
-heritage: 2.646
-vibrancy: 1.849
-nature: 2.585
-off_the_beaten_track: 4.452
+heritage: 2.808
+vibrancy: 2.278
+nature: 2.713
+off_the_beaten_track: 3.616
 ---
 
 Narayangarh (also called Bharatpur) is a busy crossroads town at the edge of the Terai, where the east-west Mahendra Highway meets the road south to India. Most travellers pass through on the way to or from Chitwan National Park, which is a few kilometres to the south.

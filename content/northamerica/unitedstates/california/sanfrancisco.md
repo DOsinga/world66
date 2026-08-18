@@ -22,7 +22,7 @@ quick_facts:
   Hills: Built on 50+
   Population: 810,000
   The Fog: Nicknamed 'Karl'
-score: 8.476
+score: 8.611
 snippet: Hilly Pacific port city where fog, Victorian streets, and bay views define
   northern California's imagination
 tip: Layer up — San Francisco summers are famously cold and foggy (locals call the
@@ -31,10 +31,10 @@ tip: Layer up — San Francisco summers are famously cold and foggy (locals call
   fog and crowds roll in.
 title: San Francisco
 type: location
-heritage: 7.474
-vibrancy: 8.921
-nature: 5.973
-off_the_beaten_track: 1.851
+heritage: 7.96
+vibrancy: 8.923
+nature: 6.289
+off_the_beaten_track: 2.067
 ---
 
 San Francisco is one of those rare cities that lives up to the hype. Built across forty-two hills at the tip of a peninsula, with the Pacific on one side and the Bay on the other, it is impossibly scenic in ways that still catch you off guard even after you have been there for weeks. The fog rolling through the [Golden Gate](/northamerica/unitedstates/california/sanfrancisco/golden_gate_bridge), the [pastel Victorians](/northamerica/unitedstates/california/sanfrancisco/painted_ladies) stacked up steep hillsides, the glittering Bay stretching out to [Alcatraz](/northamerica/unitedstates/california/sanfrancisco/alcatraz_island) -- it all looks like someone designed it for a postcard, except it is real and people actually live here.

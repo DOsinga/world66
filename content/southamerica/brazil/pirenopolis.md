@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cortejo_do_imperador_da_Fe
 latitude: -15.8501
 loc_type: city
 longitude: -49.0297
-score: 5.757
+score: 6.273
 snippet: Colonial mining town in Goiás, known for cobblestone streets, whitewashed
   churches, and nearby waterfalls
 title: Pirenópolis
 type: location
-heritage: 4.249
-vibrancy: 3.99
-nature: 6.995
-off_the_beaten_track: 4.488
+heritage: 4.577
+vibrancy: 4.294
+nature: 7.648
+off_the_beaten_track: 4.701
 ---
 
 Pirenópolis is a beautifully preserved colonial mining town in the state of Goiás, about 120 kilometres from Brasília. Founded in the early eighteenth century during the gold rush, the town retains its cobblestone streets, whitewashed churches, and pastel-coloured houses, and has become a popular weekend escape for residents of the capital.

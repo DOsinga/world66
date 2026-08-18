@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 39.75
 longitude: 37.0167
-score: 5.428
+score: 4.574
 snippet: High Anatolian city with a compact Seljuk core and a key place in Turkey's
   republican story.
 wikidata: Q107401
@@ -12,10 +12,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Sivas
 - https://goturkiye.com/sivas
 - https://www.ktb.gov.tr/EN-103987/sivas---congress-hall-ataturk-and-ethnographical-museum.html
-heritage: 6.276
-vibrancy: 4.677
-nature: 3.79
-off_the_beaten_track: 3.363
+heritage: 5.122
+vibrancy: 4.28
+nature: 3.524
+off_the_beaten_track: 3.514
 ---
 
 Sivas sits high on the central Anatolian plateau, far enough east of Ankara that the air feels sharper and the winters are no joke. It is an industrial and university city now, but the centre still holds a remarkable cluster of Seljuk stonework from the 12th and 13th centuries. The best sights are close together around the main square, so the city works well as a strong one-day stop rather than a long detour.

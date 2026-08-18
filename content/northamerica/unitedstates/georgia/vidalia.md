@@ -9,14 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Vidalia_Municipal_Building
 latitude: 32.2177
 loc_type: city
 longitude: -82.4135
-score: 3.494
+score: 3.861
 snippet: Southeast Georgia city known for Vidalia sweet onions grown in the surrounding
   low-sulfur soils.
 title: Vidalia
 type: location
-heritage: 2.952
-vibrancy: 2.449
-nature: 4.164
+heritage: 3.615
+vibrancy: 2.567
+nature: 4.453
 off_the_beaten_track: 1.85
 ---
 

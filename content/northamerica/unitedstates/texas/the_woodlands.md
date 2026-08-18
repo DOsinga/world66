@@ -9,14 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Anadarko,_The_Woodlands,_T
 latitude: 30.173419
 loc_type: city
 longitude: -95.504686
-score: 3.866
+score: 3.575
 snippet: Master-planned pine-forest suburb north of Houston, centred on a restaurant-lined
   waterway and concert pavilion.
 title: The Woodlands
 type: location
-heritage: 2.258
-vibrancy: 3.92
-nature: 3.727
+heritage: 1.975
+vibrancy: 3.615
+nature: 3.473
 off_the_beaten_track: 0.943
 ---
 

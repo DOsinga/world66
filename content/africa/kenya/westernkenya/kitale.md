@@ -5,14 +5,14 @@ done:
 latitude: 1.018076
 loc_type: city
 longitude: 35.000236
-score: 5.017
+score: 5.537
 title: Kitale
 type: location
 snippet: Agricultural highland town in Trans-Nzoia, used as a gateway to Mount Elgon.
-heritage: 4.354
-vibrancy: 2.509
-nature: 5.931
-off_the_beaten_track: 5.912
+heritage: 4.587
+vibrancy: 2.469
+nature: 6.638
+off_the_beaten_track: 5.581
 ---
 
 Kitale is a busy agricultural town in Kenya's western highlands, sitting at about 1,900 metres in the fertile Trans-Nzoia County. Most travellers pass through on their way to [Mount Elgon National Park](/africa/kenya/westernkenya/kitale/mount_elgon) to the west or as a staging point for the long journey north to Lodwar and Lake Turkana, but the town has a pleasant climate and a relaxed atmosphere worth a night's stay.

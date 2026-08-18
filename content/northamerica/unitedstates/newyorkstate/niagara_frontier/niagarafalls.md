@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:3Falls_Niagara.jpg
 latitude: 43.088
 loc_type: city
 longitude: -79.0569
-score: 6.073
+score: 5.814
 snippet: New York city beside Niagara Falls, where massive cataracts drop 57 metres
   on the Canadian border.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Niagara_Falls_(New_York)
 title: Niagara Falls
 type: location
-heritage: 4.423
-vibrancy: 3.824
-nature: 7.539
-off_the_beaten_track: 2.332
+heritage: 4.065
+vibrancy: 4.06
+nature: 7.05
+off_the_beaten_track: 1.918
 ---
 
 Niagara Falls, New York is the American city that has grown up beside one of the world's most famous natural wonders, and the gap between the spectacle of the falls and the condition of the town is one of the more striking contrasts in North American travel. The falls are overwhelming — the roar and spray of 3,000 tonnes of water per second dropping 57 metres is an experience that justifies the journey. The city itself is a post-industrial rust belt town that has seen better days, though it has genuine history and a handful of worthwhile institutions beyond the falls.

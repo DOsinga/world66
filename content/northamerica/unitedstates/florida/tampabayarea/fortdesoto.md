@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2018_Fort_De_Soto_-_Gulf_P
 latitude: 27.615303
 loc_type: city
 longitude: -82.735014
-score: 4.161
+score: 4.173
 title: Fort de Soto
 type: location
 snippet: Tampa Bay island park spread across five keys, with white sand, calm water,
   and old fort remains.
-heritage: 2.63
-vibrancy: 1.835
-nature: 5.335
-off_the_beaten_track: 2.303
+heritage: 2.998
+vibrancy: 1.9
+nature: 5.198
+off_the_beaten_track: 2.029
 ---
 
 Fort De Soto Park is a 1,136-acre county park spread across five interconnected islands (keys) at the mouth of Tampa Bay, just south of St. Petersburg. It consistently ranks among the best beaches in the United States, and for good reason — the sand is white, the water is calm and clear, and the park is large enough that you can find a quiet stretch even on busy weekends.

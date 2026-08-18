@@ -5,15 +5,15 @@ done:
 latitude: 36.0803
 loc_type: city
 longitude: 32.8312
-score: 5.213
+score: 5.363
 snippet: Small Mediterranean town at Turkey's southern point, near Mamure Castle and
   the ruins of Anemurium.
 title: Anamur
 type: location
-heritage: 4.887
-vibrancy: 2.166
-nature: 6.008
-off_the_beaten_track: 6.115
+heritage: 4.112
+vibrancy: 2.073
+nature: 6.496
+off_the_beaten_track: 5.951
 ---
 
 Anamur is a small coastal town on Turkey's southernmost point, tucked between the Taurus Mountains and the Mediterranean. It sits roughly halfway between Alanya and Silifke, about 150 km east of Alanya, and sees far fewer tourists than the resorts to the west — which is a large part of its appeal.

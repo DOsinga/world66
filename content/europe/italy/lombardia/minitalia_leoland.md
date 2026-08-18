@@ -8,17 +8,17 @@ latitude: 45.5924
 loc_type: feature
 longitude: 9.5448
 phone: +39 02 9090169
-score: 2.561
+score: 2.99
 snippet: Theme park combining miniature Italy with rides and an aquarium
 tags:
 - park
 title: Minitalia Leolandia Park
 type: location
 url: www.leolandiapark.it
-heritage: 2.835
-vibrancy: 1.94
-nature: 2.751
-off_the_beaten_track: 1.369
+heritage: 3.465
+vibrancy: 2.108
+nature: 2.862
+off_the_beaten_track: 1.276
 ---
 
 A family theme park located just off the A4 motorway at the Capriate exit, roughly halfway between Bergamo and Milan. The park is split into two sections: **Minitalia**, which features scale models of Italy's major monuments and landmarks, and **Leolandia**, the rides-and-entertainment side with flume rides, carousels, and shows aimed at younger children.

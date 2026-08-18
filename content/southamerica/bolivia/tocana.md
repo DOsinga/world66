@@ -2,7 +2,7 @@
 latitude: -16.207
 loc_type: city
 longitude: -67.71
-score: 3.829
+score: 4.097
 snippet: Afro-Bolivian village in the Nor Yungas cloudforest, a centre of saya music
 story: The Afro-Bolivian community of the Yungas descends from enslaved Africans brought
   to work the Spanish silver mines at Potosí in the seventeenth century. Many were
@@ -16,10 +16,10 @@ image: tocana.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Carrers_de_Toca%C3%B1a.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Pitxiquin
-heritage: 1.822
-vibrancy: 1.164
-nature: 4.226
-off_the_beaten_track: 5.6
+heritage: 1.325
+vibrancy: 1.486
+nature: 4.634
+off_the_beaten_track: 5.623
 ---
 
 Tocaña is a small Afro-Bolivian village about fifteen kilometres south of [Coroico](/southamerica/bolivia/coroico), set deep in the cloudforest of the Nor Yungas. Together with a handful of neighbouring communities, it is home to most of Bolivia's small Afro-descendant population — the descendants of enslaved Africans brought to the colonial silver mines at Potosí and later moved down to the warmer Yungas to grow coca and coffee. Many residents still speak with a distinctive accent and keep their own music and dance traditions alive.

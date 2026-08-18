@@ -2,7 +2,7 @@
 latitude: -19.9483
 loc_type: feature
 longitude: -69.6422
-score: 5.233
+score: 4.825
 snippet: Pre-Columbian anthropomorphic geoglyph stretching 86 metres across a barren
   hillside in Chile's Atacama Desert.
 story: Carved into a remote hillside near Huara, the 86-metre Atacama Giant is the
@@ -17,10 +17,10 @@ image: atacama_giant.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Geoglifo_de_Pintados_-_gigante_de_atacama.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Sznegra
-heritage: 2.763
-vibrancy: 1.259
-nature: 6.594
-off_the_beaten_track: 4.974
+heritage: 3.173
+vibrancy: 1.007
+nature: 5.934
+off_the_beaten_track: 5.063
 ---
 
 About 80 kilometres north-east of Iquique, on a barren hill near the village of Huara, lies the largest pre-Columbian human figure on earth. The Gigante de Atacama is 86 metres tall, etched into the desert by clearing dark stones from the lighter ground beneath. Created between roughly 1000 and 1400 CE by the indigenous peoples of the Tarapacá, the figure carries a staff and is crowned with rays that probably tracked the moon for agricultural and ceremonial purposes.

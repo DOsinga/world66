@@ -2,7 +2,7 @@
 latitude: -5.77
 loc_type: feature
 longitude: 112.66
-score: 5.382
+score: 5.68
 snippet: Remote Java Sea island of forested hills, endemic deer, coral islets, and
   slow ferry rhythms.
 sources:
@@ -15,10 +15,10 @@ image: bawean.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gili_Noko,_Bawean_Islands.jpg
 image_license: Public domain
 image_attribution: Regency Government of Gresik
-heritage: 2.002
-vibrancy: 1.512
-nature: 7.023
-off_the_beaten_track: 4.324
+heritage: 2.206
+vibrancy: 1.303
+nature: 7.305
+off_the_beaten_track: 4.91
 ---
 
 Bawean is a small island in the Java Sea, about 150 km north of [Surabaya](/asia/indonesia/java/surabaya). It is still more local than polished: ferries set the pace, motorbikes are the usual way around, and most of the island is a knot of green volcanic hills rising above fishing villages and narrow beaches.

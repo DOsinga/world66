@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 52.1244
 longitude: -4.5434
-score: 4.571
+score: 4.687
 snippet: Ceredigion seaside village with sandy coves, coast-path views, dolphins,
   and old fishing history
 image: aberporth.jpg
@@ -16,10 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Aberporth
 - https://en.wikipedia.org/wiki/Aberporth
 - https://www.wikidata.org/wiki/Q319672
-heritage: 3.072
-vibrancy: 2.321
-nature: 5.783
-off_the_beaten_track: 2.567
+heritage: 3.384
+vibrancy: 2.248
+nature: 5.83
+off_the_beaten_track: 2.657
 ---
 
 Aberporth is a small seaside village on Cardigan Bay in Ceredigion, with two sandy beaches tucked below the road and the Wales Coast Path running over the cliffs. It was once a herring-fishing and coastal trade village; today it is a quiet beach stop with enough scenery to justify more than a quick look.

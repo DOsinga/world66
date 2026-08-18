@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Formerum.jpg
 latitude: 53.38918
 loc_type: city
 longitude: 5.305595
-score: 4.373
+score: 4.372
 snippet: Terschelling village centred on a working windmill and a shipwreck museum
   built from coastal salvage.
 title: Formerum
 type: location
-heritage: 2.995
-vibrancy: 1.599
-nature: 5.508
-off_the_beaten_track: 3.936
+heritage: 3.112
+vibrancy: 1.542
+nature: 5.457
+off_the_beaten_track: 3.949
 ---
 
 Formerum is a small village about halfway along Terschelling, between [West-Terschelling](/europe/netherlands/terschelling/midsland) and Oosterend. The village is dominated by its working windmill, [De Koffiemolen](/europe/netherlands/terschelling/formerum/koffiemolen), where you can stop for coffee and cranberry pie. The eccentric [Wrakkenmuseum](/europe/netherlands/terschelling/formerum/wrakkenmuseum) — a shipwreck museum built up over decades from salvage off the Terschelling coast — is the other reason to stop.

@@ -9,19 +9,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Shwe_Bone_Pwint_Pagoda,_Ta
 latitude: 20.787011
 loc_type: city
 longitude: 97.038726
-score: 6.157
+score: 5.719
 snippet: Shan State capital perched on a scarp slope, known for its market and hill
   cultures.
 title: Taunggyi
 type: location
-heritage: 4.536
-vibrancy: 6.073
-nature: 6.374
-off_the_beaten_track: 5.949
+heritage: 4.795
+vibrancy: 5.801
+nature: 5.508
+off_the_beaten_track: 5.833
 ---
 
 **Taunggyi** is the administrative capital of Shan State and Myanmar's fourth-largest city, after Yangon, Mandalay, and Mawlamyine. The name means "big hill" — an understatement for the dramatic scarp slope on which the town perches, looking out over the Shan Plateau.
 
 The [market](/asia/myanmar/taunggyi/market) is the highlight. Colourfully dressed ethnic groups from across the Shan hills converge here, and on a good morning it feels like a walking museum of Shan culture. Taunggyi is also home to some of Myanmar's finest [cheroot factories](/asia/myanmar/taunggyi/cheroot_factory), if you want to see how those distinctive green cigars are rolled.
 
-The [Shan State Museum](/asia/myanmar/taunggyi/shan_state_museum) (also called the Taunggyi Museum) has a good collection of tribal costumes, weapons, and artefacts, including antique opium weights and musical instruments — look for the snakeskin guitar. Above the town, the [Shwe Pone Pwint Pagoda](/asia/myanmar/taunggyi/shwe_pone_pwint_pagoda) commands sweeping views over the plateau. The town also serves as a base for trips to [Inle Lake](/asia/myanmar/shan/inlelake), about an hour's drive to the southwest.
+The [Shan State Museum](/asia/myanmar/taunggyi/shan_state_museum) (also called the Taunggyi Museum) has a good collection of tribal costumes, weapons, and artefacts, including antique opium weights and musical instruments — look for the snakeskin guitar. Above the town, the [Shwe Pone Pwint Pagoda](/asia/myanmar/taunggyi/shwe_pone_pwint_pagoda) commands sweeping views over the plateau. The town also serves as a base for trips to [Inle Lake](/asia/myanmar/inlelake), about an hour's drive to the southwest.

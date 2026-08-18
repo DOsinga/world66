@@ -12,13 +12,13 @@ sources:
 - https://en.wikivoyage.org/wiki/Jingmen
 title: Jingmen
 type: location
-score: 2.049
+score: 1.816
 snippet: Central Hubei city tied to ancient Chu territory and the Ming Xianling tomb
   near Zhongxiang.
-heritage: 2.186
-vibrancy: 1.996
-nature: 2.187
-off_the_beaten_track: 1.671
+heritage: 1.886
+vibrancy: 1.776
+nature: 1.92
+off_the_beaten_track: 1.945
 ---
 
 Jingmen sits in the middle of Hubei, where the Jianghan Plain begins to crinkle into the foothills west of Wuhan. It calls itself the "Gateway to Jingchu" — a reference to the ancient Chu state that once dominated this part of central China — and the designation is less boastful than most Chinese city slogans. The Qujialing cultural site, within the prefecture, dates to the Neolithic period and represents one of the important early agricultural settlements of the Yangtze valley. During the Spring and Autumn and Warring States periods, Jingmen was a significant Chu territory, and the traces of that era are still being excavated.

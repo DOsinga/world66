@@ -10,15 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cochem_and_Reichsburg.jpg
 latitude: 50.1484
 loc_type: city
 longitude: 7.1663
-score: 5.431
+score: 5.484
 snippet: Mosel wine town of half-timbered lanes and a hilltop Reichsburg above river
   bends.
 title: Cochem
 type: location
-heritage: 6.279
-vibrancy: 4.337
-nature: 5.232
-off_the_beaten_track: 2.008
+heritage: 6.103
+vibrancy: 4.593
+nature: 5.823
+off_the_beaten_track: 1.929
 ---
 
 Cochem is one of the most photogenic towns on the [Mosel](/europe/germany/rhinelandpalatinate/mosel) — a compact medieval riverside settlement dominated by a fairy-tale hilltop castle that rises more than 100 metres above the water. The town is small enough to explore on foot in an afternoon, yet substantial enough to hold your interest for a day or two.

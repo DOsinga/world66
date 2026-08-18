@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Deekshabhoomi_-_panoramio.
 latitude: 21.149813
 loc_type: city
 longitude: 79.082056
-score: 5.82
+score: 5.965
 snippet: Central Indian rail city famous for oranges, Zero Mile Stone, and Deekshabhoomi's
   vast Buddhist stupa.
 sources:
 - https://en.wikipedia.org/wiki/Nagpur
 title: Nagpur
 type: location
-heritage: 5.076
-vibrancy: 6.147
-nature: 3.07
-off_the_beaten_track: 1.848
+heritage: 5.207
+vibrancy: 6.298
+nature: 3.037
+off_the_beaten_track: 1.735
 ---
 
 Nagpur is the largest city in central India and the second capital of [Maharashtra](/asia/india/maharashtra), sitting almost exactly at the geographic centre of the country — a fact marked by a [Zero Mile Stone](/asia/india/maharashtra/nagpur/zero_mile_stone) from the British era near the old courthouse. The city is a major junction on the rail and road networks connecting Mumbai, Delhi, Kolkata, and Hyderabad, and most travellers encounter it as a transit point. But Nagpur has more character than its reputation as a stopover suggests.

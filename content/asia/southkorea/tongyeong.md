@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 34.853
 longitude: 128.434
-score: 5.094
+score: 5.358
 snippet: Historic Korean port city of Admiral Yi, mural hills, seafood, and island-studded
   Hallyeo waters.
 wikidata: Q42152
@@ -16,10 +16,10 @@ image: tongyeong.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Korea-Tongyeong-Port_and_ships-01.jpg
 image_license: CC BY-SA 3.0
 image_attribution: by Junho Jung at Flickr from South Korea
-heritage: 4.216
-vibrancy: 3.86
-nature: 6.031
-off_the_beaten_track: 3.755
+heritage: 4.222
+vibrancy: 3.689
+nature: 6.515
+off_the_beaten_track: 4.071
 ---
 
 *Asia > South Korea > Tongyeong*

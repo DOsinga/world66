@@ -7,15 +7,15 @@ done:
 latitude: 31.929089
 loc_type: city
 longitude: -4.434081
-score: 5.745
+score: 6.219
 snippet: Eastern Moroccan garrison town on the Sahara edge, gateway to the Ziz Valley
   and desert roads beyond
 title: Errachidia
 type: location
-heritage: 3.56
-vibrancy: 1.807
-nature: 7.077
-off_the_beaten_track: 5.988
+heritage: 3.288
+vibrancy: 1.967
+nature: 7.818
+off_the_beaten_track: 5.97
 ---
 
 Errachidia is a garrison town on the edge of the Sahara in eastern [Morocco](/africa/morocco), serving as the gateway to the Ziz Valley and the desert regions beyond. Most travellers pass through on their way to the dunes at Merzouga or Erg Chebbi, but the town itself has a certain austere charm and makes a practical overnight stop.

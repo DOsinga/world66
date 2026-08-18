@@ -6,15 +6,15 @@ done:
 latitude: 34.642294
 loc_type: city
 longitude: 50.880118
-score: 5.319
+score: 5.734
 snippet: Iranian religious city where Shia seminaries gather around the Shrine of
   Fatimah al-Masumah.
 title: Qom
 type: location
-heritage: 6.859
-vibrancy: 3.018
-nature: 3.33
-off_the_beaten_track: 4.983
+heritage: 7.428
+vibrancy: 3.323
+nature: 3.534
+off_the_beaten_track: 4.27
 ---
 
 Qom is Iran's pre-eminent religious city, about 140 km south of Tehran. It is the main centre for Shia Islamic scholarship in the country, home to dozens of seminaries and hundreds of thousands of theological students. Non-Muslims can visit but should dress conservatively and be aware that the city operates on a more conservative social register than Tehran.

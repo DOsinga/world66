@@ -2,7 +2,7 @@
 latitude: -29.7996
 loc_type: feature
 longitude: -67.8331
-score: 6.207
+score: 6.236
 snippet: Argentine national park of towering red sandstone canyons preserving a rich
   Triassic fossil record.
 tags:
@@ -14,10 +14,10 @@ image: talampaya_national_park.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Talampaya_National_Park_-_54490566407.jpg
 image_license: CC BY-SA 2.0
 image_attribution: gedankenstuecke
-heritage: 3.28
-vibrancy: 1.108
-nature: 8.056
-off_the_beaten_track: 5.127
+heritage: 3.003
+vibrancy: 1.074
+nature: 7.972
+off_the_beaten_track: 5.55
 ---
 
 Talampaya is the reason most visitors come to La Rioja, and it more than justifies the journey. The park, about 180 km north of the city on Route 26, protects a landscape of extraordinary red sandstone formations — sheer canyon walls rising up to 150 metres, eroded over millions of years into towers, archways, and narrow corridors. Together with Ischigualasto Provincial Park just over the border in San Juan Province, it was designated a UNESCO World Heritage Site in 2000 for its outstanding geological and palaeontological record of the Triassic period.

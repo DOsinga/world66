@@ -2,7 +2,7 @@
 latitude: 59.4138
 loc_type: city
 longitude: 5.268
-score: 5.189
+score: 5.081
 snippet: West Norwegian harbour city with Viking royal history around Avaldsnes and
   Haraldshaugen.
 sources:
@@ -11,10 +11,10 @@ sources:
 - https://www.visitnorway.com/listings/norways-national-monument-haraldshaugen/14390/
 title: Haugesund
 type: location
-heritage: 4.836
-vibrancy: 3.8
-nature: 5.993
-off_the_beaten_track: 2.503
+heritage: 4.215
+vibrancy: 4.098
+nature: 5.895
+off_the_beaten_track: 2.362
 ---
 
 Haugesund is a compact harbour city on Norway's west coast, between Bergen and Stavanger, with more history than its modest size suggests. The waterfront is pleasant, the town centre is easy to walk, and the best reason to come is the Viking and maritime landscape around Karmsundet, the narrow sea lane that helped give Norway its name.

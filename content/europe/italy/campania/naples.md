@@ -10,15 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Napoli_-_Maschio_Angioino_
 latitude: 40.835885
 loc_type: city
 longitude: 14.248768
-score: 7.663
+score: 7.226
 snippet: Southern Italian port city of volcanic bay views, dense historic streets,
   and unruly urban energy.
 title: Naples
 type: location
-heritage: 7.153
-vibrancy: 7.915
-nature: 5.977
-off_the_beaten_track: 1.846
+heritage: 6.233
+vibrancy: 7.657
+nature: 4.588
+off_the_beaten_track: 1.711
 ---
 
 *Europe > Italy > Campania > Naples*

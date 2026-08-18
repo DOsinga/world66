@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Garachico,_Tenerife.jpg
 latitude: 28.3734
 loc_type: city
 longitude: -16.7638
-score: 5.322
+score: 5.481
 snippet: North Tenerife harbour town rebuilt on lava after the 1706 eruption destroyed
   its port.
 sources:
@@ -15,10 +15,10 @@ sources:
 - https://www.wikidata.org/wiki/Q612815
 title: Garachico
 type: location
-heritage: 4.947
-vibrancy: 3.108
-nature: 6.152
-off_the_beaten_track: 3.426
+heritage: 5.028
+vibrancy: 2.868
+nature: 6.365
+off_the_beaten_track: 3.621
 ---
 
 Garachico is the small north-coast town that Tenerife's volcanoes remade. It was once the island's richest harbour, shipping wine and sugar across the Atlantic, until the Trevejo eruption of 1706 sent lava through the port and ended its commercial life almost overnight.

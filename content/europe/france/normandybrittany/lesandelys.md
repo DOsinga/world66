@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:LesAndelys.jpg
 latitude: 49.2469
 loc_type: city
 longitude: 1.4216
-score: 5.064
+score: 4.631
 title: Les Andelys
 type: location
 snippet: Seine-loop Normandy town watched by Château Gaillard, Richard the Lionheart's
   cliffside fortress above chalk banks.
-heritage: 6.231
-vibrancy: 3.603
-nature: 4.007
-off_the_beaten_track: 2.191
+heritage: 5.653
+vibrancy: 3.039
+nature: 3.785
+off_the_beaten_track: 2.491
 ---
 
 Les Andelys sits deep in one of the great loops of the Seine, backed by high chalk cliffs that give it a drama unusual for Normandy. The town is really two in one: Petit-Andely hugs the [riverbank below the ruins of Château Gaillard](/europe/france/normandybrittany/lesandelys/seine_riverside), while Grand-Andely spreads inland around the church of Notre-Dame.

@@ -2,7 +2,7 @@
 latitude: -23.4394
 loc_type: city
 longitude: -45.07
-score: 6.027
+score: 6.594
 snippet: São Paulo coast town where Atlantic Forest drops into a long run of surf
   beaches.
 sources:
@@ -12,10 +12,10 @@ sources:
 title: Ubatuba
 type: location
 wikidata: Q596931
-heritage: 3.808
-vibrancy: 4.916
-nature: 6.967
-off_the_beaten_track: 3.745
+heritage: 3.775
+vibrancy: 5.803
+nature: 7.416
+off_the_beaten_track: 3.732
 ---
 
 Ubatuba sits on the north coast of São Paulo state, roughly halfway between [São Paulo](/southamerica/brazil/saopaulo) and [Rio de Janeiro](/southamerica/brazil/riodejaneiro). It is a beach town, but not a simple resort strip: the Atlantic Forest presses close behind the shore, roads bend around steep green slopes, and the coast breaks into dozens of beaches with very different moods.

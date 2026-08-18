@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Shoal_lake_fountains.jpg
 latitude: 50.4379
 loc_type: city
 longitude: -100.591171
-score: 6.197
+score: 5.556
 snippet: Small western Manitoba farming town beside Shoal Lake, with fishing, lakeside
   camping, and an RCMP museum.
 title: Shoal Lake
 type: location
-heritage: 2.262
-vibrancy: 1.029
-nature: 7.714
-off_the_beaten_track: 6.197
+heritage: 2.294
+vibrancy: 0.959
+nature: 6.8
+off_the_beaten_track: 5.937
 ---
 
 Shoal Lake is a small farming town of around 900 people in western Manitoba, situated at the northern edge of Shoal Lake at the junction of three highways including the Yellowhead. The lake itself is the main draw — good for water-skiing and fishing, with pickerel and northern pike in reliable quantities.

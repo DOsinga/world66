@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Bagua_Mansion,_Kulangsu,_2
 latitude: 24.4476
 loc_type: feature
 longitude: 118.0625
-score: 5.512
+score: 5.216
 snippet: Car-free Xiamen island and UNESCO site, known for colonial-era architecture
   and quiet lanes.
 sources:
 - https://en.wikivoyage.org/wiki/Gulangyu
 title: Gulangyu
 type: location
-heritage: 5.8
-vibrancy: 5.444
-nature: 5.221
-off_the_beaten_track: 2.487
+heritage: 4.813
+vibrancy: 5.257
+nature: 5.109
+off_the_beaten_track: 2.343
 ---
 
 Gulangyu is a two-square-kilometre island a few minutes by ferry from the Xiamen waterfront, and it is among the most unusual places in China: a UNESCO World Heritage Site where no motor vehicles are permitted, the streets are quiet enough to hear birdsong, and the architecture is a layered collision of Victorian, Spanish, Dutch, and Japanese colonial styles alongside traditional Fujianese buildings. From the 1840s to the 1940s it served as a foreign concession and international settlement, and the mansions and consulates built during that century give the island a physical character found nowhere else on the Chinese coast.

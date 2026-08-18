@@ -4,7 +4,7 @@ type: location
 loc_type: feature
 latitude: 22.9664
 longitude: 86.7808
-score: 5.464
+score: 5.457
 snippet: Red-soil reservoir country in Bankura, where a long earthen dam cuts through
   low forested hills.
 sources:
@@ -17,10 +17,10 @@ image: mukutmanipur.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Evening_View_from_Mukutmanipur_Dam.jpg
 image_license: CC BY-SA 4.0
 image_attribution: ARI
-heritage: 4.452
-vibrancy: 1.785
-nature: 6.582
-off_the_beaten_track: 4.074
+heritage: 4.538
+vibrancy: 1.571
+nature: 6.535
+off_the_beaten_track: 4.484
 ---
 
 Mukutmanipur is not a town you come to for streets and monuments. It is a reservoir landscape in Bankura district, where the Kangsabati and Kumari rivers are held back by a long earthen dam and the water spreads between red earth, sal forest, and low hills.

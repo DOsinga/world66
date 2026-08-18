@@ -4,7 +4,7 @@ done:
 latitude: -0.8833
 loc_type: feature
 longitude: 36.3167
-score: 5.887
+score: 5.95
 snippet: Rift Valley national park of volcanic towers, gorges, geothermal steam, and
   rare walkable wildlife country.
 title: Hell's Gate N.P.
@@ -13,10 +13,10 @@ image: hellsgatenp.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Buffaloshellsgate.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Maclemo
-heritage: 1.301
-vibrancy: 1.257
-nature: 7.377
-off_the_beaten_track: 5.73
+heritage: 1.178
+vibrancy: 1.286
+nature: 7.361
+off_the_beaten_track: 6.101
 ---
 
 Hell's Gate is a small national park near Lake Naivasha with some of the most dramatic geology in Kenya. Unlike most Kenyan parks, you can explore it on foot or by bicycle — there are few large predators here, which means you walk among zebra, giraffe, buffalo, and baboons without the barrier of a vehicle. It gives the place a genuinely different feel.

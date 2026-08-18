@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pr%C3%ADncipe_golden_weave
 latitude: 1.6139
 loc_type: city
 longitude: 7.4057
-score: 5.761
+score: 5.998
 snippet: Small São Tomé and Príncipe island of rainforest, endemic birds, and slow
   Atlantic village life
 sources:
@@ -18,10 +18,10 @@ sources:
 - https://www.saotomeexpert.pt/en/sao-tome-principe-island-for-birdwatchers/
 title: Príncipe
 type: location
-heritage: 4.014
-vibrancy: 1.731
-nature: 6.902
-off_the_beaten_track: 6.644
+heritage: 3.768
+vibrancy: 2.494
+nature: 7.205
+off_the_beaten_track: 6.856
 ---
 
 Príncipe is the smaller and wilder of the two islands that make up São Tomé and Príncipe. Only about 139 sq km in size, it sits roughly 150 km north of São Tomé, cloaked in dense rainforest that tumbles down to some of the least-visited beaches in the Atlantic. The pace here is genuinely slow — there is one main town, [Santo António](/africa/saotomeandprincipe/principe/santo_antonio), and life moves accordingly.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 41.0359
 longitude: -71.9545
-score: 5.945
+score: 5.747
 snippet: Long Island endpoint of surf beaches, fishing docks, sea cliffs, and the
   Montauk Point lighthouse.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://parks.ny.gov/visit/state-parks/montauk-point-state-park
 - https://www.iloveny.com/listing/montauk-point-state-park/2780/
 - https://newyorkstateparks.reserveamerica.com/camping/hither-hills-state-park/r/campgroundDetails.do?contractCode=NY&parkId=297
-heritage: 2.801
-vibrancy: 4.336
-nature: 7.12
-off_the_beaten_track: 1.865
+heritage: 2.036
+vibrancy: 4.474
+nature: 6.746
+off_the_beaten_track: 1.432
 ---
 
 Montauk is the rougher, saltier end of the Hamptons. The road runs out here at the eastern tip of Long Island, where the Atlantic and Block Island Sound meet below a lighthouse, and the village still has more fishing boats and surfboards than white-tablecloth polish.

@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ballarat_Railway_Station_2
 latitude: -37.5623
 loc_type: city
 longitude: 143.8606
-score: 5.437
+score: 4.943
 snippet: Victorian gold-rush city west of Melbourne, marked by grand architecture
   and the Eureka Rebellion.
 title: Ballarat
 type: location
-heritage: 6.344
-vibrancy: 4.57
-nature: 2.718
-off_the_beaten_track: 2.949
+heritage: 5.571
+vibrancy: 4.551
+nature: 3.458
+off_the_beaten_track: 2.768
 ---
 
 About 100 km west of Melbourne lies the charming town of Ballarat. Ballarat started to thrive after gold was found in the area around 1850. After the alluvial gold was worked out, rich quartz reefs were discovered that were mined until the end of the First World War. The wealth that flowed through the town built a major provincial centre with grand Victorian architecture, much of which can still be found along [Lydiard Street](/australiaandpacific/australia/victoria/ballarat/lydiard_street).

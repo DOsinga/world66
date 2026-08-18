@@ -5,7 +5,7 @@ loc_type: city
 latitude: 26.6245
 longitude: 92.791
 wikidata: Q1021162
-score: 4.702
+score: 4.236
 snippet: Brahmaputra city in Assam with temple ruins, river views, and legends woven
   into its hills.
 sources:
@@ -17,10 +17,10 @@ image: tezpur.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Agnigarh,_Tezpur.jpg
 image_license: CC BY-SA 4.0
 image_attribution: দিব্য দত্ত
-heritage: 5.467
-vibrancy: 3.992
-nature: 4.181
-off_the_beaten_track: 3.477
+heritage: 4.731
+vibrancy: 3.989
+nature: 3.807
+off_the_beaten_track: 3.575
 ---
 
 *Asia > India > Assam > Tezpur*

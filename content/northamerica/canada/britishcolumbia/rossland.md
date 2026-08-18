@@ -10,11 +10,11 @@ sources:
 - https://www.tourismrossland.com/
 title: Rossland
 type: location
-score: 4.867
-heritage: 2.006
-vibrancy: 2.297
-nature: 6.364
-off_the_beaten_track: 3.866
+score: 5.253
+heritage: 2.098
+vibrancy: 2.048
+nature: 6.87
+off_the_beaten_track: 4.167
 ---
 
 **Rossland** is a small mountain city in the West Kootenays, high above Trail and close to the United States border. It began as a gold-mining boom town in the 1890s, and the old streets still climb steeply past brick shops, mining-era buildings, and views into the surrounding ranges.

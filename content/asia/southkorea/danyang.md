@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 36.9795
 longitude: 128.3407
-score: 3.37
+score: 3.328
 snippet: Mountain resort town on the Namhan River, known for limestone caves, cliffs,
   and paragliding.
 sources:
@@ -14,10 +14,10 @@ image: danyang.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Danyang,_South_Korea,_Gosu_cave.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Olga Lipunova
-heritage: 2.422
-vibrancy: 2.4
-nature: 4.064
-off_the_beaten_track: 1.747
+heritage: 2.573
+vibrancy: 2.437
+nature: 3.981
+off_the_beaten_track: 1.635
 ---
 
 *Asia > South Korea > Danyang*

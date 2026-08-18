@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Sant%27Andrea_Apostolo_(Pl
 latitude: 44.3512
 loc_type: city
 longitude: 8.2565
-score: 4.604
+score: 4.552
 snippet: Ligurian Alps commune near the Bormida valleys, with prehistoric carvings
   and layered feudal history
 tags:
 - rivieradellepalme
 title: Plodio
 type: location
-heritage: 2.89
-vibrancy: 1.653
-nature: 5.77
-off_the_beaten_track: 4.479
+heritage: 3.024
+vibrancy: 1.686
+nature: 5.702
+off_the_beaten_track: 4.435
 ---
 
 Plodio is a small agricultural commune in the Ligurian Alps near the Colle di Cadibona, on the ridge separating the upper valleys of the two Bormida rivers. [Prehistoric rock carvings](/europe/italy/liguria/plodio/prehistoric_rock_carvings) on the surrounding hills attest to ancient human habitation. The village had a complex feudal history: it belonged to the Del Carretto marchesi of Millesimo in the 12th and 13th centuries, was briefly occupied by Savoy in 1639, became a free commune toward the end of the 17th century, and was finally annexed to the Kingdom of Sardinia in 1735.

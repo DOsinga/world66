@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Snowmass_Village.JPG
 latitude: 39.213042
 loc_type: city
 longitude: -106.937821
-score: 3.574
+score: 5.227
 snippet: Elk Mountains resort village near Aspen, built around big ski terrain and
   summer alpine trails.
 title: Snowmass Village
 type: location
-heritage: 0.467
-vibrancy: 3.298
-nature: 3.946
-off_the_beaten_track: 2.305
+heritage: 1.224
+vibrancy: 5.61
+nature: 4.237
+off_the_beaten_track: 1.741
 ---
 
 Snowmass Village is a mountain resort community in Colorado's Elk Mountains, sitting about 12 km from [Aspen](/northamerica/unitedstates/colorado/aspen) and sharing the same dramatic scenery. In winter it operates as a major ski resort — the [Snowmass ski area](/northamerica/unitedstates/colorado/snowmass_village/snowmass_ski_area) has over 90 runs and is one of the largest in Colorado — less glamorous than Aspen, but with more varied terrain and generally shorter lift lines. In summer the ski trails become hiking and mountain biking paths, and the village hosts an outdoor music festival season.

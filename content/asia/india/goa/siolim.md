@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Photo_from_Siolim,_Bardez,
 latitude: 15.627022
 loc_type: city
 longitude: 73.765685
-score: 6.124
+score: 6.184
 snippet: Quiet North Goa village on the Chapora River, historically shaped by its
   ferry crossing.
 title: Siolim
 type: location
-heritage: 4.313
-vibrancy: 6.135
-nature: 6.096
-off_the_beaten_track: 1.987
+heritage: 4.885
+vibrancy: 5.666
+nature: 6.848
+off_the_beaten_track: 1.871
 ---
 
 Siolim is a quiet village on the northern bank of the Chapora River, about 7 km from [Mapusa](/asia/india/goa/mapusa). It sits at a natural crossing point that once served ferries between North Goa's beaches and the interior, and that history gives the village its unhurried, between-places character.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 40.6286
 longitude: -80.5692
-score: 2.802
+score: 3.065
 snippet: Ohio River pottery town with ceramic history, Victorian streets, and early
   American survey landmarks.
 wikidata: Q998893
@@ -13,10 +13,10 @@ sources:
 - https://www.themuseumofceramics.com/
 - https://www.ohiohistory.org/visit/browse-historical-sites/museum-of-ceramics/
 - https://www.downtowneastliverpool.com/entertainment
-heritage: 2.901
-vibrancy: 1.9
-nature: 3.113
-off_the_beaten_track: 1.755
+heritage: 3.465
+vibrancy: 1.942
+nature: 3.132
+off_the_beaten_track: 1.683
 ---
 
 East Liverpool sits on the Ohio River where Ohio, Pennsylvania, and West Virginia almost touch. It is not a polished weekend city, and that is part of the truth of it. This was once one of America's great pottery towns, producing ceramic ware at a scale that shaped the streets, fortunes, and civic buildings around downtown.

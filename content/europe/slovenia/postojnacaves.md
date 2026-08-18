@@ -5,7 +5,7 @@ done:
 latitude: 45.7828
 loc_type: feature
 longitude: 14.2043
-score: 5.735
+score: 5.462
 snippet: Karst cave system at Postojna, entered by electric train through vast chambers
   and limestone formations.
 title: Postojna Caves
@@ -14,10 +14,10 @@ image: postojnacaves.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Postojna_Cave_(18264483725).jpg
 image_license: CC BY 2.0
 image_attribution: Shadowgate from Novara, ITALY
-heritage: 5.685
-vibrancy: 1.547
-nature: 6.479
-off_the_beaten_track: 3.012
+heritage: 5.319
+vibrancy: 1.601
+nature: 6.211
+off_the_beaten_track: 3.154
 ---
 
 Postojna is home to one of the most impressive cave systems in the world — 24 kilometres of passages, galleries, and halls carved out over millions of years by the Pivka River. A small electric train takes you two kilometres into the mountain to the start of the walking tour, which passes through vast chambers filled with stalactites, stalagmites, and formations that look like they belong on another planet.

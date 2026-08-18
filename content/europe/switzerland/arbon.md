@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Arbon-08-Bodensee-2006-gje
 latitude: 47.514926
 loc_type: city
 longitude: 9.430403
-score: 5.195
+score: 5.111
 snippet: Swiss Lake Constance town with a medieval promontory old town and converted
   Saurer factory buildings.
 title: Arbon
 type: location
-heritage: 4.466
-vibrancy: 2.777
-nature: 6.159
-off_the_beaten_track: 2.105
+heritage: 3.723
+vibrancy: 3.544
+nature: 6.209
+off_the_beaten_track: 1.894
 ---
 
 Arbon is a small town on the southern shore of Lake Constance in the canton of Thurgau. Its old town sits on a promontory jutting into the lake, with the medieval [Schloss Arbon](/europe/switzerland/arbon/schloss_arbon) and a cluster of half-timbered houses around it. The [lakeside promenade](/europe/switzerland/arbon/lakefront_promenade) is one of the prettiest on the Swiss side of the Bodensee.

@@ -9,15 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Hafen_Komiza_auf_der_Insel
 latitude: 43.05
 loc_type: city
 longitude: 16.0869
-score: 4.806
+score: 5.294
 snippet: Vis island fishing port framed by mountains, vineyards, lobster boats, and
   a 16th-century harbour fortress.
+tags:
+- island_vis
 title: Komiza, Vis island
 type: location
-heritage: 4.218
-vibrancy: 2.754
-nature: 5.661
-off_the_beaten_track: 4.33
+heritage: 4.599
+vibrancy: 2.86
+nature: 6.257
+off_the_beaten_track: 4.385
 ---
 
 Komiža is the main fishing port of Vis island — the most remote of the larger Dalmatian islands, sitting about 45 km off the coast of Split. It is a compact, intimate town with a palm-fringed [harbour](/europe/croatia/komiza_vis_island/komiza_waterfront) on one side and a ring of mountains on the other. Despite being less visited than Hvar or Korčula, Vis has a devoted following among travelers who prefer authenticity over crowds.
@@ -26,4 +28,4 @@ Vis island is strikingly fertile by Dalmatian standards. It produces some of the
 
 The harbour at Komiža is framed at its southern end by the [Kastel](/europe/croatia/komiza_vis_island/kastel_fishing_museum), a squat 16th-century fortress that now houses a Fishing Museum covering the falkusa boat tradition. Behind the town, Mount Hum rises to 587 metres — the highest point on Vis. On a clear day from the summit you can make out the pale strip of the Italian coastline to the west.
 
-The beach at [Milna](/europe/croatia/komiza_vis_island/milna_beach) is one of the finest on the Dalmatian coast. The [Blue Cave](/europe/croatia/komiza_vis_island/blue_cave_excursions) on the island of Biševo, reachable by excursion boat from Komiža harbour, is the most spectacular natural sight in the area.
+The beach at [Milna](/europe/croatia/komiza_vis_island/milna_beach) is one of the finest on the Dalmatian coast. The [Blue Cave](/europe/croatia/island_vis/blue_cave) on the island of Biševo, reachable by excursion boat from Komiža harbour, is the most spectacular natural sight in the area.

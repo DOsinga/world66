@@ -2,7 +2,7 @@
 latitude: 38.29111
 loc_type: city
 longitude: -76.63583
-score: 4.323
+score: 4.246
 snippet: Southern Maryland county town with colonial roots, an arts district, and
   a quiet Breton Bay waterfront.
 sources:
@@ -14,10 +14,10 @@ image: leonardtown.jpg
 image_source: https://commons.wikimedia.org/wiki/File:LeonardtownWarf.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Elvert Barnes
-heritage: 2.783
-vibrancy: 2.34
-nature: 5.521
-off_the_beaten_track: 2.656
+heritage: 2.896
+vibrancy: 2.246
+nature: 5.354
+off_the_beaten_track: 2.685
 ---
 
 Leonardtown is the county seat of St. Mary's County, set on the inland side of Breton Bay in Southern Maryland. It is small, tidy, and more interesting than its size suggests: the courthouse square, old jail, galleries, shops, and waterfront give it the feel of a working county town that has learned to make room for visitors without turning itself into a museum.

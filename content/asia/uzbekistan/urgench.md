@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bridge_through_Shavat_cana
 latitude: 41.55179
 loc_type: city
 longitude: 60.631281
-score: 5.609
+score: 5.87
 snippet: Khorezm transit city and gateway for trips to Khiva, canals, and the Aral
   Sea route.
 title: Urgench
 type: location
-heritage: 7.243
-vibrancy: 3.114
-nature: 3.683
-off_the_beaten_track: 4.708
+heritage: 7.558
+vibrancy: 3.496
+nature: 3.281
+off_the_beaten_track: 4.463
 ---
 
 Urgench is a transit city in the Khorezm region of western Uzbekistan, and it is honest about that fact. Most visitors pass through on the way to [Khiva](/asia/uzbekistan/khiva) — 30 km to the southeast — or heading north toward the [Aral Sea](/asia/uzbekistan/moynaq). The surrounding landscape is flat agricultural land, irrigated by a network of canals drawing on the Amu Darya.

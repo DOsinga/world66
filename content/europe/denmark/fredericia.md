@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Danmarks_Port,_Fredericia_
 latitude: 55.5653
 loc_type: city
 longitude: 9.7562
-score: 4.131
+score: 3.829
 snippet: Planned Jutland fortress town encircled by intact star-shaped ramparts and
   Danish military memory.
 title: Fredericia
 type: location
-heritage: 5.183
-vibrancy: 2.609
-nature: 3.058
-off_the_beaten_track: 1.827
+heritage: 4.746
+vibrancy: 2.488
+nature: 2.966
+off_the_beaten_track: 2.002
 ---
 
 Fredericia is a fortified town on the eastern coast of the Jutland peninsula in Denmark, built from scratch in the 17th century as a planned military stronghold. King Frederick III founded it in 1650 — hence the name — and laid it out on a [strict grid plan](/europe/denmark/fredericia/old_town) enclosed by star-shaped ramparts. Those [ramparts](/europe/denmark/fredericia/the_ramparts) are still intact, forming a green ring around the old town that residents use for walking and cycling.

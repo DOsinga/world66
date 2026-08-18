@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Nuuk,_Greenland_skyline.jp
 latitude: 64.176705
 loc_type: city
 longitude: -51.736144
-score: 6.355
+score: 6.338
 snippet: Greenlandic capital on a southwest coast peninsula, combining national institutions
   with fjord and mountain scenery.
 title: Nuuk
 type: location
-heritage: 4.256
-vibrancy: 0.461
-nature: 7.743
-off_the_beaten_track: 6.904
+heritage: 5.071
+vibrancy: 0.295
+nature: 7.674
+off_the_beaten_track: 6.996
 ---
 
 Nuuk is the capital of Greenland, situated on a peninsula on the southwest coast, some 300 km north of Qaqortoq. With around 20,000 inhabitants it is by far the largest city in Greenland, home to roughly a third of the country's entire population. It feels small by any international standard but has the cultural and political weight of a capital: parliament, university, national museum, and since November 2024, a new international airport capable of handling transatlantic flights directly.

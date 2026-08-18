@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 40.8792
 longitude: 45.1472
-score: 4.144
+score: 4.218
 snippet: Tavush's river town and regional capital, with Soviet-era streets, forest
   parks, and monastery day trips.
 sources:
@@ -16,10 +16,10 @@ image: ijevan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ijevan_2021.jpg
 image_license: CC0
 image_attribution: Simiyan
-heritage: 3.022
-vibrancy: 1.787
-nature: 5.143
-off_the_beaten_track: 3.577
+heritage: 3.196
+vibrancy: 1.767
+nature: 5.184
+off_the_beaten_track: 3.467
 ---
 
 Ijevan is the more workaday cousin of nearby Dilijan: less resort polish, more river town, market traffic, Soviet buildings, and everyday Tavush life. It sits in a green valley on the Aghstev River, with forested hills close enough to make the town feel cooler and softer than much of Armenia.

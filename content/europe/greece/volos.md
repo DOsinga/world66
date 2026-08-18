@@ -9,15 +9,15 @@ image_source: https://www.flickr.com/photos/19299761@N00/353115528
 latitude: 39.3625
 loc_type: city
 longitude: 22.9402
-score: 4.606
+score: 4.566
 snippet: Greek port city on the Pagasitic Gulf, known for tsipouradika and access
   to Pelion villages.
 title: Volos
 type: location
-heritage: 5.0
-vibrancy: 3.796
-nature: 5.02
-off_the_beaten_track: 3.459
+heritage: 4.93
+vibrancy: 3.641
+nature: 4.987
+off_the_beaten_track: 3.646
 ---
 
 Volos sits at the head of the Pagasitic Gulf, a port city that serves as the gateway to the Pelion peninsula. Flattened by an earthquake in the 1950s and rebuilt from scratch, it has an open, airy feel with the occasional old characterful building hiding among the modern architecture. The city is famous for its tsipouradika — small restaurants where you drink tsipouro (a local spirit similar to ouzo) accompanied by endless plates of seafood meze.

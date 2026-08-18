@@ -4,7 +4,7 @@ done:
 latitude: -21.16636
 loc_type: city
 longitude: 27.502515
-score: 3.979
+score: 4.115
 snippet: Botswana's second city and oldest urban settlement, rooted in the Tati gold
   rush
 sources:
@@ -13,10 +13,10 @@ sources:
 title: Francistown
 todo_location_cleanup: done
 type: location
-heritage: 4.226
-vibrancy: 3.667
-nature: 4.376
-off_the_beaten_track: 5.551
+heritage: 4.044
+vibrancy: 3.491
+nature: 4.664
+off_the_beaten_track: 5.173
 ---
 
 Francistown is Botswana's second-largest city and its oldest urban settlement, sitting over 400 km north of [Gaborone](/africa/botswana/gaborone) in the country's northeast corner. The city owes its existence to gold: in the 1860s the Tati Concession attracted prospectors in what was one of the first gold rushes in southern Africa, predating Johannesburg by two decades. It was named after Daniel Francis, who held the original mining concession, and the bones of that mining-town past still show in the older parts of the city centre.

@@ -2,14 +2,14 @@
 latitude: -17.9333
 loc_type: feature
 longitude: -63.15
-score: 4.436
+score: 4.619
 snippet: Sand dunes rising from the tropical savanna 12 km south of Santa Cruz.
 title: Lomas de Arena
 type: location
-heritage: 1.447
-vibrancy: 1.399
-nature: 5.609
-off_the_beaten_track: 4.151
+heritage: 1.552
+vibrancy: 1.102
+nature: 5.764
+off_the_beaten_track: 4.575
 ---
 
 The Lomas de Arena is one of Bolivia's strangest natural phenomena: a 14,000-hectare protected park where walls of pale sand rise dozens of metres out of the tropical savanna, just 12 km south of [Santa Cruz](/southamerica/bolivia/santacruz). The dunes are constantly reshaped by the wind that funnels in from the Chaco, shifting visibly from year to year. At their base, a series of shallow lagoons forms during the wetter months, attracting flocks of pink flamingos — an incongruous sight against the tan sand and dry forest.

@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: -32.3915
 longitude: 142.4203
-score: 4.783
+score: 5.18
 snippet: Darling River outback town beside lake country, Kinchega ruins, and Burke
   and Wills history.
 sources:
 - https://en.wikivoyage.org/wiki/Menindee
 - https://en.wikipedia.org/wiki/Menindee,_New_South_Wales
 wikidata: Q6816133
-heritage: 2.034
-vibrancy: 1.782
-nature: 5.909
-off_the_beaten_track: 4.933
+heritage: 2.248
+vibrancy: 2.075
+nature: 6.459
+off_the_beaten_track: 5.145
 ---
 
 Menindee is a small outback town on the Darling River, southeast of Broken Hill, where river red gums, lake water, dry plains, and colonial history meet. It can look almost too quiet at first, but the country around it is one of the better reasons to leave the highway in far western New South Wales.

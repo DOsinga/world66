@@ -9,15 +9,15 @@ image_source: https://www.flickr.com/photos/133979500@N03/26397760180
 latitude: 38.2521
 loc_type: city
 longitude: 34.2918
-score: 6.457
+score: 6.058
 snippet: Cappadocian gorge carved by the Melendiz River, lined with rock-cut Byzantine
   churches and frescoes.
 title: Ihlara Valley
 type: location
-heritage: 7.129
-vibrancy: 4.25
-nature: 6.982
-off_the_beaten_track: 3.78
+heritage: 6.705
+vibrancy: 2.599
+nature: 6.515
+off_the_beaten_track: 3.559
 ---
 
 Ihlara Valley is arguably the most spectacular scenery in [Cappadocia](/asia/turkey/cappadocia). The gorge runs for 16 km, cut by the [Melendiz river](/asia/turkey/cappadocia/ihlaravalley/melendiz_river) through volcanic rock, with steep walls rising up to 150 metres on either side. It lies somewhat apart from the main Cappadocian tourist circuit — getting here takes a bit more effort — but it rewards the trip with an atmosphere that's noticeably quieter than Göreme or Ürgüp.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 15.4
 longitude: 74.02
-score: 5.747
+score: 5.41
 snippet: Inland Goan temple town and spice-country base away from the beach strip.
 wikidata: Q2287007
 sources:
@@ -15,10 +15,10 @@ image: ponda.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Goa,_India.From_a_templa_at_Ponda_taluka_(sub-district).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Fredericknoronha
-heritage: 6.669
-vibrancy: 4.903
-nature: 4.361
-off_the_beaten_track: 2.678
+heritage: 6.397
+vibrancy: 4.376
+nature: 4.836
+off_the_beaten_track: 2.492
 ---
 
 Ponda is the inland Goa that beach holidays often miss. The town itself is busy and workaday, but the villages around it hold some of Goa's most important Hindu temples, old shrines moved here during Portuguese rule, spice plantations, and the small but worthwhile Bondla Wildlife Sanctuary in the Western Ghats foothills.

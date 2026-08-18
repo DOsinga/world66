@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:20111030_Building_of_the_P
 latitude: 41.0911
 loc_type: city
 longitude: 23.5498
-score: 5.444
+score: 5.234
 snippet: Northern Greek city with Byzantine roots, Ottoman traces, and a medieval
   acropolis above the old town.
 title: Serres
 type: location
-heritage: 6.123
-vibrancy: 3.86
-nature: 5.632
-off_the_beaten_track: 4.019
+heritage: 5.809
+vibrancy: 3.53
+nature: 5.591
+off_the_beaten_track: 3.869
 ---
 
 Serres is the capital of the prefecture, a city whose roots go back to at least the fifth century BC — Herodotus called it Siris. It became one of the most important cities in the Byzantine empire, praised by contemporary writers as "great and admirable." The centuries since brought waves of conquerors — Franks, Bulgarians, Serbians, Ottomans — each leaving their mark. The Ottoman period lasted 530 years, and traces of it remain in the old town alongside Byzantine churches and the medieval acropolis with the tower of Orestis.

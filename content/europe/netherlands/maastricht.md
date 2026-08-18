@@ -10,15 +10,15 @@ image_source: https://www.flickr.com/photos/46191841@N00/16878417260
 latitude: 50.851244
 loc_type: city
 longitude: 5.690977
-score: 5.643
+score: 6.09
 snippet: Burgundian Dutch border city on the Meuse, shaped by Roman origins and limestone
   cave systems.
 title: Maastricht
 type: location
-heritage: 5.936
-vibrancy: 5.574
-nature: 2.435
-off_the_beaten_track: 1.535
+heritage: 6.919
+vibrancy: 5.496
+nature: 3.377
+off_the_beaten_track: 1.604
 ---
 
 Maastricht is unlike anywhere else in the Netherlands. Tucked into the southernmost tip of the country, wedged between Belgium and Germany, it feels more Burgundian than Dutch — and it wears that difference with pride. The city is famous for the 1992 treaty that created the European Union, but its history runs far deeper: the name comes from the Roman *Trajectum ad Mosam*, the crossing of the Maas, and the Romans are still here in a sense, in the cave systems they began carving out of the soft marl hillside two thousand years ago.

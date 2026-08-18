@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Find_Hope_in_the_Cave.jpg
 latitude: 9.6901
 loc_type: city
 longitude: 122.967
-score: 5.105
+score: 5.054
 snippet: Inland Negros municipality known for caves, springs, and rough-edged limestone
   adventure.
 sources:
@@ -15,10 +15,10 @@ sources:
 - https://www.wikidata.org/wiki/Q195004
 title: Mabinay
 type: location
-heritage: 3.763
-vibrancy: 1.889
-nature: 6.318
-off_the_beaten_track: 3.119
+heritage: 3.823
+vibrancy: 1.705
+nature: 6.213
+off_the_beaten_track: 3.422
 ---
 
 Mabinay is the cave country of central Negros, a hill municipality on the road between Dumaguete and Bacolod. The town itself is plain, but the limestone around it is riddled with caves, underground rivers, bat colonies, and cold springs. It is worth the trip if you want an active day inland rather than another beach or city stop.

@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: 44.9167
 longitude: -75.8333
-score: 4.62
+score: 4.702
 snippet: Rideau Canal village of limestone houses, working locks, craft shops, and
   an 1830s blockhouse.
 sources:
 - https://en.wikivoyage.org/wiki/Merrickville
 - https://en.wikipedia.org/wiki/Merrickville-Wolford
-heritage: 3.613
-vibrancy: 1.926
-nature: 5.63
-off_the_beaten_track: 2.714
+heritage: 3.826
+vibrancy: 1.907
+nature: 5.666
+off_the_beaten_track: 2.756
 ---
 
 Merrickville is a small village on the Rideau Canal, close enough to Ottawa for an easy day out but far enough away to feel like a separate little world. Its best asset is not one single sight, but the way the canal, stone houses, old mills, and craft shops sit together in a compact, walkable centre.

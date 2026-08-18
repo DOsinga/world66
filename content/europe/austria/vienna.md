@@ -17,7 +17,7 @@ quick_facts:
   Ferris Wheel: Spinning since 1897
   Population: 2 million
   Roman Origin: Vindobona
-score: 8.734
+score: 8.563
 snippet: Imperial Austrian capital of Habsburg palaces, coffee houses, classical music,
   and vineyards beyond the suburbs.
 tip: Vienna runs on coffee-house culture — sit, order one melange, and you've rented
@@ -26,10 +26,10 @@ tip: Vienna runs on coffee-house culture — sit, order one melange, and you've 
   the Staatsoper cost a few euros if you queue.
 title: Vienna
 type: location
-heritage: 7.885
-vibrancy: 9.122
-nature: 5.475
-off_the_beaten_track: 1.468
+heritage: 7.301
+vibrancy: 9.107
+nature: 3.9
+off_the_beaten_track: 1.359
 ---
 
 Vienna is one of Europe's great imperial capitals, a city that spent six centuries as the heart of the Habsburg Empire and has never quite forgotten it. The architecture is monumental, the coffee houses are legendary, and the cultural life — opera, classical music, museums — is among the richest on the continent. It also has an unexpectedly lively contemporary scene, with excellent restaurants, underground clubs, and one of Europe's most inventive wine cultures in the hills just beyond the suburbs.

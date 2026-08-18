@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 34.689404
 longitude: -77.116982
-score: 4.489
+score: 4.651
 wikidata: Q2022530
 snippet: Small Crystal Coast waterfront town with an old port core and ferry access
   to wild barrier beaches.
@@ -13,10 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Swansboro,_North_Carolina
 - https://www.visitswansboro.org/
 - https://swansboro-nc.org/about/
-heritage: 2.285
-vibrancy: 2.925
-nature: 5.544
-off_the_beaten_track: 1.633
+heritage: 2.715
+vibrancy: 3.005
+nature: 5.757
+off_the_beaten_track: 1.405
 ---
 
 Swansboro is a small waterfront town at the western edge of the Crystal Coast, where the White Oak River meets the Intracoastal Waterway. It is not a big beach resort, and that is the point: the best part is the old port center, the boardwalk, and the easy shift from shops and docks to marsh, paddle trails, and barrier-island sand.

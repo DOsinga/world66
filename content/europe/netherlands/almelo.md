@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/56985677@N00/4558920262
 latitude: 52.356358
 loc_type: city
 longitude: 6.663622
-score: 2.211
+score: 2.439
 snippet: Low-key Twente textile city with estate lanes, canals, and a compact eastern
   Dutch centre
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Almelo
 title: Almelo
 type: location
-heritage: 2.402
-vibrancy: 2.156
-nature: 2.131
-off_the_beaten_track: 1.249
+heritage: 2.907
+vibrancy: 1.927
+nature: 2.107
+off_the_beaten_track: 1.364
 ---
 
 How did you end up in Almelo in the first place? Mistook the station for Enschede, Twente's largest city? Forgot your passport so you couldn't continue onwards to Germany? Anyway, Almelo is mostly known for its history in textiles. These days it is a not highly remarkable city in the eastern [Netherlands](/europe/netherlands) with only a few interesting sights to offer.

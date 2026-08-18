@@ -5,17 +5,17 @@ done:
 latitude: 19.606087
 loc_type: city
 longitude: 84.672452
-score: 3.811
+score: 4.035
 snippet: Odisha sugar town in Ganjam District, known for Aska Sugar Mill and Khambeswari
   temple
 sources:
 - https://en.wikipedia.org/wiki/Asika
 title: Aska
 type: location
-heritage: 4.154
-vibrancy: 2.834
-nature: 4.147
-off_the_beaten_track: 5.312
+heritage: 4.16
+vibrancy: 3.057
+nature: 4.491
+off_the_beaten_track: 4.546
 ---
 
 Aska is a town in Ganjam District, Odisha, about 40km from [Berhampur](/asia/india/orissa/berhampur). It is known locally as the "Sugar City," a nickname earned by the [Aska Sugar Mill](/asia/india/orissa/aska/aska_sugar_mill), established here in 1824 and claimed to be one of the oldest sugar mills in Asia.

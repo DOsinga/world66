@@ -5,7 +5,7 @@ done:
 latitude: 27.000697
 loc_type: city
 longitude: 49.653216
-score: 1.524
+score: 1.829
 snippet: Planned Arabian Gulf industrial city built from a fishing village into a
   vast petrochemical hub
 sources:
@@ -15,10 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/King_Fahd_Industrial_Port_(Jubail)
 title: Jubail
 type: location
-heritage: 1.589
-vibrancy: 1.385
-nature: 1.688
-off_the_beaten_track: 2.075
+heritage: 1.671
+vibrancy: 1.823
+nature: 1.843
+off_the_beaten_track: 2.429
 ---
 
 Jubail is one of the most extraordinary urban projects of the twentieth century — a city of more than 100,000 people built from scratch in the desert on the Arabian Gulf coast, begun in 1975 and still expanding. Before the Royal Commission for Jubail and Yanbu arrived, there was a small fishing village here. Today it is the industrial heartland of Saudi Arabia, home to SABIC, Saudi Aramco, and dozens of downstream petrochemical facilities that together make Jubail one of the largest industrial complexes on earth.

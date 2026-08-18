@@ -2,7 +2,7 @@
 latitude: 17.725
 loc_type: city
 longitude: -92.0133
-score: 5.011
+score: 5.055
 snippet: Small Chiapas lagoon town known for manatees, birdlife and fishing near Palenque.
 sources:
 - https://en.wikivoyage.org/wiki/Catazaj%C3%A1
@@ -11,10 +11,10 @@ sources:
 title: Catazajá
 type: location
 wikidata_id: Q1952920
-heritage: 3.75
-vibrancy: 2.139
-nature: 6.009
-off_the_beaten_track: 5.762
+heritage: 3.263
+vibrancy: 2.35
+nature: 6.057
+off_the_beaten_track: 5.828
 ---
 
 Catazajá is a small, lowland Chiapas town on the edge of a broad lagoon system, about half an hour from [Palenque](/northamerica/mexico/palenque). It is not a town of churches, plazas and colonial polish. Its reason to exist for travellers is water: boatmen, fish restaurants, evening light on the lagoon and the chance, never guaranteed, of seeing manatees in the wetland.

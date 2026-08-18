@@ -14,13 +14,13 @@ sources:
 - https://en.wikipedia.org/wiki/Ijen
 title: Mount Ijen
 type: location
-score: 5.912
+score: 6.151
 snippet: East Java stratovolcano known for blue volcanic flames, sulfur miners, and
   an acidic crater lake.
-heritage: 1.343
-vibrancy: 1.999
-nature: 7.332
-off_the_beaten_track: 6.003
+heritage: 1.502
+vibrancy: 2.221
+nature: 7.71
+off_the_beaten_track: 5.979
 ---
 
 Mount Ijen (Gunung Ijen) is an active stratovolcano on the border of Banyuwangi and Bondowoso regencies in East Java, famous worldwide for two phenomena that exist nowhere else at this scale: the electric-blue volcanic flames that ignite sulphuric gases in the crater at night, and the extraordinary community of sulfur miners who descend into that same acidic crater every day carrying loads of up to 80 kilograms up 300-metre slopes for wages of around USD 13 per day.

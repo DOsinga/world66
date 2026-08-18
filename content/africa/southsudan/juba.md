@@ -7,7 +7,7 @@ quick_facts:
   Newest Nation: World's youngest country
   On the White Nile: Near three borders
   Population: ~500,000
-score: 3.266
+score: 3.571
 snippet: Young South Sudanese capital on the White Nile, raw, expensive, and politically
   charged.
 sources:
@@ -20,10 +20,10 @@ tip: Juba is a base, not a sightseeing city — most foreigners here are working
   simple pleasures; a cold drink watching the White Nile is the best of it.
 title: Juba
 type: location
-heritage: 0.727
-vibrancy: 0.732
-nature: 0.901
-off_the_beaten_track: 6.62
+heritage: 1.524
+vibrancy: 1.19
+nature: 0.994
+off_the_beaten_track: 6.927
 ---
 
 Juba is South Sudan's capital and the only real urban base for anyone who ends up travelling in the country. It is not an easy city and it is not a conventional leisure stop. Security is volatile, infrastructure is rough, prices are high, and most foreign visitors are here for work, reporting, aid, research, or diplomacy.

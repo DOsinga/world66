@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -26.4
 longitude: 146.25
-score: 5.156
+score: 4.808
 snippet: Outback Queensland service town with dark-sky astronomy, bilby conservation,
   and strange rainmaking history.
 wikidata: Q656048
@@ -17,10 +17,10 @@ image: charleville.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Alfred_Street,_Charleville,_Queensland,_2024,_02.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Kgbo
-heritage: 2.891
-vibrancy: 1.428
-nature: 6.281
-off_the_beaten_track: 5.606
+heritage: 2.772
+vibrancy: 1.514
+nature: 5.725
+off_the_beaten_track: 5.658
 ---
 
 Charleville is a small outback town on the Warrego River, far enough west of Brisbane for the sky to feel larger and the distances to start doing their work. It is a practical service centre, but it has more going on than the usual highway stop: astronomy, bilbies, wartime history, and a few monuments to ideas that did not quite work.

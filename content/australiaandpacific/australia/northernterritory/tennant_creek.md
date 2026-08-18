@@ -4,15 +4,15 @@ type: location
 loc_type: city
 latitude: -19.65
 longitude: 134.2
-score: 4.081
+score: 4.006
 snippet: Remote Stuart Highway town with Warumungu culture, gold-rush history, and
   wide Barkly outback skies.
 sources:
 - https://en.wikivoyage.org/wiki/Tennant_Creek
-heritage: 3.532
-vibrancy: 2.67
-nature: 4.195
-off_the_beaten_track: 6.392
+heritage: 3.494
+vibrancy: 2.382
+nature: 3.757
+off_the_beaten_track: 6.496
 ---
 
 Tennant Creek sits on the Stuart Highway between [Alice Springs](/australiaandpacific/australia/northernterritory/alicesprings) and Darwin, far enough from both that it feels like its own small outback world. The country around town is open mallee scrub, low rocky ridges, cattle stations, and the enormous Barkly Tableland stretching away to the east.

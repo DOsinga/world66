@@ -5,7 +5,7 @@ done:
 latitude: 34.290658
 loc_type: city
 longitude: 35.965676
-score: 6.496
+score: 6.309
 snippet: Northern Lebanese mountain village near Qadisha Valley, with Maronite heritage
   and Horsh Ehden Nature Reserve.
 sources:
@@ -13,10 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Horsh_Ehden
 title: Ehden
 type: location
-heritage: 5.502
-vibrancy: 2.587
-nature: 7.736
-off_the_beaten_track: 5.923
+heritage: 5.775
+vibrancy: 2.022
+nature: 7.331
+off_the_beaten_track: 5.663
 ---
 
 Ehden is a mountain village in the northern Lebanon range, sitting at around 1,500 metres on the southwestern slopes of Mount Makmal, about 120 km northeast of [Beirut](/asia/lebanon/beirut). It is one of Lebanon's finest mountain villages, and the combination of a intact Maronite village centre, an exceptional nature reserve, and proximity to the Qadisha Valley makes it worth a dedicated trip rather than a passing stop.

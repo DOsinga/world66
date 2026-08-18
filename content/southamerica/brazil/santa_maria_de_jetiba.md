@@ -2,7 +2,7 @@
 latitude: -20.0408
 longitude: -40.7458
 loc_type: city
-score: 4.9
+score: 4.288
 snippet: Mountain town in Espírito Santo known for Brazil's strongest surviving Pomeranian
   culture.
 sources:
@@ -11,10 +11,10 @@ sources:
 - https://www.wikidata.org/wiki/Q616486
 title: Santa Maria de Jetibá
 type: location
-heritage: 5.932
-vibrancy: 2.976
-nature: 4.114
-off_the_beaten_track: 3.239
+heritage: 5.103
+vibrancy: 2.924
+nature: 3.803
+off_the_beaten_track: 3.159
 ---
 
 Santa Maria de Jetibá is a mountain town in central Espírito Santo, about 70 km from Vitória, and one of the most unusual cultural pockets in Brazil. It was settled by Pomeranian immigrants in the 19th century, and East Pomeranian is still part of daily life here in a way that has almost disappeared in Europe.

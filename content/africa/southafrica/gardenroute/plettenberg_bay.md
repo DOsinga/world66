@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -34.0603
 longitude: 23.3772
-score: 6.159
+score: 5.892
 snippet: Garden Route beach town with Robberg hikes, whale and dolphin trips, surf,
   and forest sanctuaries.
 image: plettenberg_bay.jpg
@@ -16,10 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Plettenberg_Bay
 - https://www.plett-tourism.co.za/
 wikidata: Q922360
-heritage: 3.042
-vibrancy: 4.344
-nature: 7.447
-off_the_beaten_track: 2.013
+heritage: 2.524
+vibrancy: 4.328
+nature: 7.041
+off_the_beaten_track: 1.497
 ---
 
 Plettenberg Bay, usually shortened to Plett, is the Garden Route at its most seaside: long beaches, dolphins in the surf, white houses on the slopes, and the Robberg peninsula holding the southern edge of the bay. It is more resort-minded than [Knysna](/africa/southafrica/gardenroute/knysna), but it has enough nature close by to keep it from being just another beach town.

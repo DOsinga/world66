@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:444_Greenfield_Street,_Pet
 latitude: 42.882002
 loc_type: city
 longitude: -82.149582
-score: 2.504
+score: 2.818
 snippet: Ontario oil town with Victorian streetscapes, early wells, and museums tracing
   Canada's petroleum history
 title: Petrolia
 type: location
-heritage: 2.843
-vibrancy: 1.856
-nature: 2.531
-off_the_beaten_track: 1.777
+heritage: 3.287
+vibrancy: 1.902
+nature: 2.649
+off_the_beaten_track: 1.808
 ---
 
 Petrolia is the birthplace of Canada's oil industry. In 1858, James Miller Williams struck oil nearby, and within a few years the town was booming. The wealth that flowed from those early wells built the grand Victorian streetscape that still lines [Petrolia Line](/northamerica/canada/ontario/petrolia/petrolia_line) today — ornate brick buildings with elaborate cornices and stone trim, most of them designated heritage structures. A slow drive through town is like flipping through a catalogue of late-nineteenth-century architectural ambition.

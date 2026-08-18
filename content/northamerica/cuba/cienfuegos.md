@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: 22.15
 longitude: -80.44
-score: 3.945
+score: 4.096
 snippet: Southern Cuban port city with French-planned streets, a UNESCO centre, and
   bayfront mansions.
 sources:
 - https://en.wikivoyage.org/wiki/Cienfuegos
 - https://en.wikipedia.org/wiki/Cienfuegos
 - https://whc.unesco.org/en/list/1202/
-heritage: 3.054
-vibrancy: 2.481
-nature: 4.821
-off_the_beaten_track: 4.19
+heritage: 3.275
+vibrancy: 2.543
+nature: 4.961
+off_the_beaten_track: 3.882
 ---
 
 Cienfuegos is Cuba's Pearl of the South, and for once the nickname is not empty. The city was founded by French settlers in 1819, laid out with unusual order, and later enriched by sugar money and trade through its deep bay. The result is a Cuban city that feels lighter, wider, and more formally planned than many of its older Spanish colonial rivals.

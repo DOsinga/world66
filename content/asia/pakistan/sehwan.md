@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: 26.426
 longitude: 67.86
-score: 5.034
+score: 4.697
 snippet: Sindhi pilgrimage town built around the ecstatic shrine culture of Lal Shahbaz
   Qalandar.
 sources:
 - https://en.wikivoyage.org/wiki/Sehwan
 - https://en.wikipedia.org/wiki/Sehwan
 - https://en.wikipedia.org/wiki/Shrine_of_Lal_Shahbaz_Qalandar
-heritage: 5.741
-vibrancy: 1.973
-nature: 2.772
-off_the_beaten_track: 7.124
+heritage: 5.221
+vibrancy: 1.549
+nature: 2.746
+off_the_beaten_track: 7.084
 ---
 
 Sehwan, usually called Sehwan Sharif, is one of Sindh's great pilgrimage towns. It sits west of the Indus on the road between Hyderabad and northern Sindh, and its life turns around the shrine of Lal Shahbaz Qalandar, the 13th-century Sufi saint whose name draws pilgrims, musicians, malangs, families, and curious travellers from across Pakistan.

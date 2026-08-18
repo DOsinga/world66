@@ -5,15 +5,15 @@ done:
 latitude: 36.150143
 loc_type: city
 longitude: -109.567069
-score: 5.651
+score: 5.628
 snippet: Navajo Nation service town beside Canyon de Chelly, where red sandstone walls
   shelter cliff dwellings and rock art
 title: Chinle
 type: location
-heritage: 3.33
-vibrancy: 1.363
-nature: 7.287
-off_the_beaten_track: 4.825
+heritage: 3.552
+vibrancy: 1.254
+nature: 7.135
+off_the_beaten_track: 5.204
 ---
 
 Chinle is one of the largest communities on the Navajo Nation, in the northeast corner of Arizona near the New Mexico border. Almost everyone comes here for one reason: [Canyon de Chelly National Monument](/northamerica/unitedstates/arizona/chinle/canyon_de_chelly), a stunning canyon system of red sandstone walls harbouring ancient Ancestral Puebloan cliff dwellings, rock art, and ruins.

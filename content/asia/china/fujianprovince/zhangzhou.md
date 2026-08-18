@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Zhangzhou_Shi_Paifang_2012
 latitude: 24.5167
 loc_type: city
 longitude: 117.65
-score: 4.959
+score: 4.4
 snippet: Fujian prefectural city on the Jiulong River, known for old temples and nearby
   tulou countryside.
 sources:
 - https://en.wikivoyage.org/wiki/Zhangzhou
 title: Zhangzhou
 type: location
-heritage: 5.686
-vibrancy: 4.37
-nature: 4.118
-off_the_beaten_track: 3.121
+heritage: 4.903
+vibrancy: 4.166
+nature: 3.807
+off_the_beaten_track: 3.366
 ---
 
 Zhangzhou is a prefectural city of nearly five million in southwestern Fujian, tucked between the mountains and the sea about an hour's bus ride from Xiamen. It is the kind of place where Chinese tourists come but foreign visitors rarely do, which gives it an unhurried quality that the more-polished cities of the province lack. The old city along the Jiulong River has enough historic temples and tile-roofed lanes to occupy a full day, and the surrounding countryside is some of the most varied in Fujian.

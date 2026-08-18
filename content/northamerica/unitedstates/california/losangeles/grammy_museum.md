@@ -1,12 +1,14 @@
 ---
 address: 800 W. Olympic Blvd., Los Angeles
 category: Museum
-latitude: 34.043232
-longitude: -118.267256
+latitude: 34.0446975
+longitude: -118.2646054
 phone: 213-765-6800
 snippet: Four floors of music history with interactive exhibits
 tags:
 - things_to_do
+- museum
+- downtown
 title: GRAMMY Museum
 type: poi
 url: www.grammymuseum.org

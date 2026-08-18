@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Carunchio_panorama.png
 latitude: 41.916634
 loc_type: city
 longitude: 14.526722
-score: 4.781
+score: 5.254
 snippet: Quiet Abruzzo hilltop village with Maiella views, steep lanes, and a 17th-century
   church organ
 title: Carunchio
 type: location
-heritage: 3.791
-vibrancy: 2.447
-nature: 5.803
-off_the_beaten_track: 4.393
+heritage: 4.248
+vibrancy: 2.67
+nature: 6.343
+off_the_beaten_track: 4.361
 ---
 
 Carunchio is a quiet hilltop village in southern Abruzzo, the kind of place where church bells mark the hours and not much else disturbs the afternoon. The views from the [historic centre](/europe/italy/abruzzo/carunchio/historic_centre) are beautiful — the Maiella massif, one of the highest mountains in the Apennines, dominates the western horizon.

@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:00_0912_Kirkenes_-_Hafen_(
 latitude: 69.727148
 loc_type: city
 longitude: 30.044897
-score: 5.69
+score: 6.124
 snippet: Arctic Norwegian border town where Hurtigruten voyages end beside taiga,
   fjords, and Barents Sea winters.
 title: Kirkenes
 type: location
-heritage: 3.601
-vibrancy: 2.134
-nature: 6.929
-off_the_beaten_track: 6.197
+heritage: 3.844
+vibrancy: 2.781
+nature: 7.592
+off_the_beaten_track: 6.229
 ---
 
 Kirkenes sits at the top of the world, a former iron-mining town 400 km north of the Arctic Circle and just a few kilometres from the Russian border. It is the end of the line for the [Hurtigruten](/europe/norway/kirkenes/hurtigruten_quay) coastal ferry from Bergen — a six-day voyage up the fjords of the Norwegian coast — and for most travellers it is either the reward at the end of that trip or the jumping-off point for winter adventures in Finnmark.

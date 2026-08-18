@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ano_Syros_-_View.JPG
 latitude: 37.43851
 loc_type: city
 longitude: 24.912377
-score: 5.738
+score: 6.209
 snippet: Cycladic island capital whose neoclassical port and Catholic hill town break
   the whitewashed postcard mould.
 title: Siros
 type: location
-heritage: 5.064
-vibrancy: 5.661
-nature: 5.937
-off_the_beaten_track: 3.012
+heritage: 4.199
+vibrancy: 6.079
+nature: 6.545
+off_the_beaten_track: 2.883
 ---
 
 Syros is the administrative capital of the Cyclades, which surprises visitors who assume that title belongs to Mykonos or Santorini. But Syros earned its status in the nineteenth century, when its port city Ermoupoli was the most important commercial hub in [Greece](/europe/greece) — wealthier than Piraeus, with shipyards, warehouses, and a grandeur that the island has never quite lost. The result is a Cycladic island that looks nothing like the whitewashed postcard image. Ermoupoli has neoclassical mansions, marble squares, and a municipal theatre modelled after La Scala in Milan.

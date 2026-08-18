@@ -1,14 +1,14 @@
 northamerica/unitedstates/newyorkstate/newyork	8.494	14	New York	North America, United States, New York State
 europe/unitedkingdom/england/london	8.474	16	London	Europe, United Kingdom, England
 asia/thailand/bangkok	8.471	17	Bangkok	Asia, Thailand
-asia/japan/tokyo	8.465	18	Tokyo	Asia, Japan
+asia/japan/kanto/tokyo	8.465	18	Tokyo	Asia, Japan
 europe/france/paris	8.461	19	Paris	Europe, France
 europe/netherlands/amsterdam	8.489	15	Amsterdam	Europe, Netherlands
 europe/spain/madrid	8.460	20	Madrid	Europe, Spain
 northamerica/mexico/mexicocity	8.133	39	Mexico City	North America, Mexico
 europe/italy/lombardia/milan	8.453	21	Milan	Europe, Italy, Lombardia
 asia/india/westbengal/calcutta	8.445	22	Calcutta	Asia, India, West Bengal
-asia/india/kolkata	8.668	1	Kolkata	Asia, India
+asia/india/westbengal/kolkata	8.668	1	Kolkata	Asia, India
 southamerica/argentina/buenosaires	8.412	23	Buenos Aires	South America, Argentina
 asia/india/maharashtra/mumbai	8.310	30	Mumbai	Asia, India, Maharashtra
 europe/spain/catalonia/barcelona	8.580	5	Barcelona	Europe, Spain, Catalonia
@@ -35,7 +35,7 @@ europe/italy/campania/naples	8.048	44	Naples	Europe, Italy, Campania
 northamerica/unitedstates/florida/miamibeach	8.108	40	Miami Beach	North America, United States, Florida
 europe/germany/berlin	8.007	52	Berlin	Europe, Germany
 asia/india/tamilnadu/chennai	8.096	41	Chennai	Asia, India, Tamil Nadu
-europe/spain/spanishcostas/valencia	8.082	42	Valencia	Europe, Spain, Spanish Costas
+europe/spain/valencian_community/valencia	8.082	42	Valencia	Europe, Spain, Spanish Costas
 europe/france/cotedazur/cannes	8.077	43	Cannes	Europe, France, Cote d'Azur
 europe/spain/andalucia/seville	8.047	45	Seville	Europe, Spain, Andalucia
 europe/hungary/budapest	8.046	46	Budapest	Europe, Hungary
@@ -46,5 +46,5 @@ europe/switzerland/zurich	8.013	50	Zurich	Europe, Switzerland
 asia/southkorea/pusan	8.007	51	Busan	Asia, South Korea
 southamerica/colombia/cartagena	8.007	53	Cartagena	South America, Colombia
 australiaandpacific/australia/victoria/melbourne	8.006	54	Melbourne	Australia, Pacific & Antarctica, Australia, Victoria
-asia/japan/honshu/osaka	8.004	55	Osaka	Asia, Japan, Honshu
+asia/japan/kansai/osaka	8.004	55	Osaka	Asia, Japan, Honshu
 europe/greece/athens	7.995	56	Athens	Europe, Greece

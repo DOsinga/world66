@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Fort_Lauderdale_Florida_-_
 latitude: 26.122308
 loc_type: city
 longitude: -80.143379
-score: 5.418
+score: 5.389
 snippet: Atlantic Florida city of beaches, canals, yachts, and waterfront neighbourhoods
   north of Miami.
 title: Fort Lauderdale
 type: location
-heritage: 3.01
-vibrancy: 5.879
-nature: 4.225
-off_the_beaten_track: 0.751
+heritage: 3.639
+vibrancy: 5.977
+nature: 3.871
+off_the_beaten_track: 0.749
 ---
 
 Fort Lauderdale sits on the Atlantic coast of Florida about 40 km north of Miami, and its great asset is **water**. More than 300 miles of canals wind through the city — the reason it calls itself the "Venice of America" — and behind the seven-mile strip of broad, pale beach the Intracoastal Waterway is lined with yachts, houseboats, and enormous waterfront houses. It is by some measures the yachting capital of North America: the annual boat show in November is the largest in the world.

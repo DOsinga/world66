@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 24.75
 longitude: 121.75
-score: 6.14
+score: 5.923
 snippet: Northeastern Taiwanese county seat of museums, temples, whisky, rain, and
   Lanyang Plain food.
 wikidata: Q680842
@@ -12,10 +12,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Yilan
 - https://en.wikipedia.org/wiki/Yilan_City
 - https://eng.taiwan.net.tw/m1.aspx?sno=0002106
-heritage: 4.613
-vibrancy: 4.861
-nature: 7.168
-off_the_beaten_track: 3.413
+heritage: 4.194
+vibrancy: 4.609
+nature: 6.954
+off_the_beaten_track: 3.021
 ---
 
 Yilan is the county seat of Taiwan's rainy northeast, close enough to Taipei for a day trip but with a softer, lower-rise feel. The city is not as dramatic as the mountains, hot springs, and coast around it, but it gives the Lanyang Plain a useful cultural centre: old Japanese-era buildings, temples, small museums, night-market food, and local industries that have turned into visitor stops.

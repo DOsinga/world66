@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Archaeological_Site_of_Car
 latitude: 36.854808
 loc_type: city
 longitude: 10.330992
-score: 6.514
+score: 6.902
 snippet: Ancient coastal city near Tunis, layered with Punic ports, Roman ruins, and
   centuries of Mediterranean history.
 title: Carthage
 type: location
-heritage: 8.412
-vibrancy: 3.828
-nature: 2.989
-off_the_beaten_track: 4.445
+heritage: 8.538
+vibrancy: 4.817
+nature: 2.499
+off_the_beaten_track: 4.898
 ---
 
 Carthage needs to be destroyed — so declared the Roman senator Cato, who reportedly ended every speech with that demand. The Romans eventually obliged, flattening the city in 146 BC. Yet Carthage outlasted Rome: its history stretches across nearly twice as many centuries as the Roman Empire's.

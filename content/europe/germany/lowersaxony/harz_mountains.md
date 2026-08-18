@@ -4,15 +4,15 @@ done:
 latitude: 51.75
 loc_type: feature
 longitude: 10.6167
-score: 6.112
+score: 6.14
 snippet: Northern German mountain range of spruce forest, granite, and Goethe-haunted
   folklore around the Brocken.
 title: Harz Mountains
 type: location
-heritage: 5.413
-vibrancy: 2.925
-nature: 7.179
-off_the_beaten_track: 3.373
+heritage: 5.175
+vibrancy: 2.856
+nature: 7.323
+off_the_beaten_track: 3.514
 ---
 
 The Harz Mountains are the highest range in northern Germany, rising abruptly from the North German Plain in a dark mass of spruce forest and granite. The Brocken, at 1,141 metres, is the highest peak and the most visited — on a clear day the views stretch across half of northern Germany. This is the mountain where Goethe set the witches' gathering in Faust, and the place still has a slightly wild, folkloric atmosphere.

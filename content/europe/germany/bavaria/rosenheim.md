@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Inn_Rosenheim.jpeg
 latitude: 47.853927
 loc_type: city
 longitude: 12.127262
-score: 4.322
+score: 3.986
 snippet: Bavarian market town at the Inn-Mangfall confluence, known for arcaded streets
   and a local autumn beer festival
 title: Rosenheim
 type: location
-heritage: 4.896
-vibrancy: 2.894
-nature: 4.391
-off_the_beaten_track: 1.908
+heritage: 4.519
+vibrancy: 2.76
+nature: 4.043
+off_the_beaten_track: 2.03
 ---
 
 Rosenheim is a Bavarian market town at the confluence of the Inn and Mangfall rivers, about an hour southeast of [Munich](/europe/germany/bavaria/munich) on the road toward Austria. It is a pleasant, unpretentious place with a handsome old town centre — colourful facades, arcaded streets, and a pedestrian zone around the [Max-Josefs-Platz](/europe/germany/bavaria/rosenheim/max_josefs_platz).

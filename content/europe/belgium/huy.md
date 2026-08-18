@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:0_Huy_-_Grand%27Place_(1).
 latitude: 50.503098
 loc_type: city
 longitude: 5.173023
-score: 2.791
+score: 3.125
 snippet: Walloon Meuse River town with a hilltop citadel and Notre-Dame's great Li
   Rondia rose window
 title: Huy
 type: location
-heritage: 3.503
-vibrancy: 1.777
-nature: 2.064
-off_the_beaten_track: 2.024
+heritage: 4.067
+vibrancy: 1.497
+nature: 1.98
+off_the_beaten_track: 2.128
 ---
 
 Huy is a small Walloon town on the Meuse River, roughly halfway between [Namur](/europe/belgium/namur) and [Liege](/europe/belgium/liege). It has been a crossroads since Roman times, and the river, the bluffs, and the citadel above make it one of the more attractive stops in the Meuse Valley.

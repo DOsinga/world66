@@ -9,15 +9,15 @@ image_source: https://www.flickr.com/photos/22490717@N02/50628233031
 latitude: 46.295
 loc_type: island
 longitude: -60.9361
-score: 6.054
+score: 6.068
 snippet: Nova Scotia island known for the Cabot Trail, highland scenery, and strong
   Gaelic and Acadian culture.
 title: Cape Breton
 type: location
-heritage: 5.524
-vibrancy: 3.346
-nature: 7.043
-off_the_beaten_track: 3.129
+heritage: 5.254
+vibrancy: 3.379
+nature: 7.179
+off_the_beaten_track: 3.114
 ---
 
 Cape Breton Island sits at the eastern tip of Nova Scotia, joined to the mainland by a single causeway across the Strait of Canso. It is one of the most dramatic landscapes in eastern Canada — a tilted slab of highland plateau rising straight out of the Gulf of St Lawrence — and a place where the country's cultural inheritance is unusually visible.

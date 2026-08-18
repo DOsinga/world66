@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lake_Tegernsee_on_a_sunny_
 latitude: 47.7119
 loc_type: city
 longitude: 11.7576
-score: 5.905
+score: 5.911
 snippet: Bavarian lake resort below the Alps, built around a former Benedictine abbey
   and royal summer residence.
 sources:
@@ -15,10 +15,10 @@ sources:
 - https://www.seenschifffahrt.de/en/tegernsee
 title: Tegernsee
 type: location
-heritage: 4.942
-vibrancy: 3.563
-nature: 7.058
-off_the_beaten_track: 2.065
+heritage: 4.075
+vibrancy: 4.568
+nature: 6.955
+off_the_beaten_track: 1.675
 ---
 
 Tegernsee is a small resort town on the eastern shore of Lake Tegernsee, about an hour south of [Munich](/europe/germany/bavaria/munich) by train. It is polished, prosperous, and very Bavarian: lake steamers at the pier, onion-domed church towers, beer from the old monastery brewery, and the Alps rising just beyond the water.

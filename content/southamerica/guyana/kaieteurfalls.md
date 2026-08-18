@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kaieteur_Falls_Guyana_(2)_
 latitude: 5.174942
 loc_type: feature
 longitude: -59.480652
-score: 5.76
+score: 5.863
 snippet: Guyanese rainforest waterfall where the Potaro River drops in one unbroken
   plunge from a tepui plateau.
 title: Kaieteur Falls
 type: location
-heritage: 2.2
-vibrancy: 1.294
-nature: 7.176
-off_the_beaten_track: 5.74
+heritage: 2.133
+vibrancy: 1.458
+nature: 7.164
+off_the_beaten_track: 6.301
 ---
 
 Kaieteur Falls is the most spectacular waterfall you have probably never heard of. The Potaro River drops 226 metres in a single unbroken plunge — about five times the height of Niagara — into a forested gorge surrounded by intact rainforest and tepui plateau. What makes Kaieteur different from other great waterfalls is the context: there are no roads, no hotels, no guardrails, and almost no other tourists. You walk to the edge of one of the world's most powerful waterfalls through primary rainforest and stand a few metres from the drop.

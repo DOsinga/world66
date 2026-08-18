@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bridges_of_Morgan_City,_Lo
 latitude: 29.699375
 loc_type: city
 longitude: -91.20677
-score: 3.549
+score: 3.502
 snippet: Atchafalaya River oil-and-shrimp town where offshore drilling history meets
   swamp country and maritime festivals
 title: “Morgan City”
 type: location
-heritage: 2.867
-vibrancy: 2.758
-nature: 4.168
-off_the_beaten_track: 2.13
+heritage: 2.907
+vibrancy: 2.67
+nature: 4.138
+off_the_beaten_track: 2.191
 ---
 
 Morgan City sits on the Atchafalaya River in southern Louisiana, on US 90 between New Orleans and Lafayette. It is a working oil-and-shrimp town with a claim to fame: [the world’s first offshore oil well](/northamerica/unitedstates/louisiana/morgan_city/offshore_oil_well_site) was drilled from a platform in the Gulf of Mexico here on 14 November 1947, by Kerr-McGee. The offshore oil industry that now circles the globe started in Morgan City’s backyard. The restored [Southwest Reef Lighthouse](/northamerica/unitedstates/louisiana/morgan_city/southwest_reef_light), once mounted on iron legs in the Gulf, stands on the waterfront as a reminder of the maritime era that preceded the oil boom.

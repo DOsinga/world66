@@ -5,15 +5,15 @@ done:
 latitude: 33.148635
 loc_type: city
 longitude: 73.74821
-score: 5.641
+score: 6.042
 snippet: Azad Kashmir city on Mangla Lake, reshaped by British Pakistani migration
   and remittance-built villas
 title: Mirpur
 type: location
-heritage: 1.615
-vibrancy: 1.537
-nature: 7.123
-off_the_beaten_track: 5.31
+heritage: 1.814
+vibrancy: 1.956
+nature: 7.718
+off_the_beaten_track: 5.397
 ---
 
 Mirpur is the southernmost city of Azad Kashmir, sitting on the eastern shore of the vast Mangla Lake some 110 kilometres south of Islamabad. It is unlike any other city in the region for one reason: an estimated three quarters of the British Pakistani community trace their roots here, and the money they have sent back has reshaped the place beyond recognition. Locals call it **Little England**, and on arrival you see why — wide boulevards, glass-fronted shopping plazas, and palatial empty villas built by families who live in Bradford, Birmingham, or Luton.

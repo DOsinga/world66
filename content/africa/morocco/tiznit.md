@@ -5,15 +5,15 @@ done:
 latitude: 29.698624
 loc_type: city
 longitude: -9.731281
-score: 4.86
+score: 4.741
 snippet: Walled southern Moroccan town known for ochre ramparts and Berber silver
   jewellery.
 title: Tiznit
 type: location
-heritage: 6.125
-vibrancy: 3.161
-nature: 3.122
-off_the_beaten_track: 4.441
+heritage: 6.11
+vibrancy: 2.745
+nature: 3.141
+off_the_beaten_track: 4.024
 ---
 
 Tiznit is a walled town in southern Morocco, known for its ochre ramparts, silver jewellery, and relaxed atmosphere. It sits at a crossroads between the Souss plain and the Anti-Atlas, making it a natural stopping point on the way south from [Agadir](/africa/morocco/agadir).

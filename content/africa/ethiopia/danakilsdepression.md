@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:ET_Afar_asv2018-01_img37_D
 latitude: 14.2417
 loc_type: feature
 longitude: 40.3
-score: 5.926
+score: 5.913
 snippet: Afar desert depression of salt flats, acid springs, and active volcanoes
   below sea level
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Danakil_Desert
 title: Danakil Depression
 type: location
-heritage: 4.885
-vibrancy: 1.255
-nature: 6.953
-off_the_beaten_track: 7.315
+heritage: 4.962
+vibrancy: 2.107
+nature: 6.937
+off_the_beaten_track: 7.302
 ---
 
 The Danakil Depression is one of the most extreme landscapes on earth — a vast sunken plain in the Afar Region of northeastern Ethiopia, sitting at up to 125 metres below sea level and baking under an average annual temperature exceeding 34°C. It is geologically one of the most active places on the planet, sitting at the junction of three tectonic plates that are slowly pulling apart, and the surface shows it: volcanic shields, sulphurous hydrothermal springs, acid lakes in hallucinogenic colours, and enormous salt flats where ancient seabeds have been exposed by the retreating water.

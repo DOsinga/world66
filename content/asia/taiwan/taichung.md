@@ -7,15 +7,15 @@ done:
 latitude: 24.163162
 loc_type: city
 longitude: 120.647828
-score: 6.153
+score: 5.903
 title: Taichung
 type: location
 snippet: Central Taiwanese city with a mild climate, design culture, and mountains
   rising to the east.
-heritage: 5.39
-vibrancy: 6.366
-nature: 5.603
-off_the_beaten_track: 1.868
+heritage: 5.043
+vibrancy: 5.914
+nature: 5.873
+off_the_beaten_track: 1.779
 ---
 
 Taichung is Taiwan's third-largest city and, in recent years, one of the most liveable. It sits in the centre of the western plain, with the mountains of the Central Mountain Range rising to the east. The climate is milder than Taipei — less rain, less typhoon exposure — and the city has developed a strong café, art, and design culture.

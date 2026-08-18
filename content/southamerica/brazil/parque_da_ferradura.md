@@ -2,15 +2,15 @@
 latitude: -29.275
 loc_type: feature
 longitude: -50.8617
-score: 4.747
+score: 4.915
 snippet: Horseshoe canyon carved into the Serra Gaúcha basalt, with a 400-metre drop
   to the river Caí below.
 title: Parque da Ferradura
 type: location
-heritage: 3.028
-vibrancy: 2.168
-nature: 6.075
-off_the_beaten_track: 2.906
+heritage: 3.393
+vibrancy: 2.077
+nature: 6.18
+off_the_beaten_track: 3.136
 ---
 
 The Ferradura — Portuguese for horseshoe — is one of the most dramatic natural lookouts in the Serra Gaúcha. The river Caí has carved a sharp bend through the basalt plateau, cutting a canyon more than 400 metres deep, and from the main viewpoint you stand at the rim with the gorge opening on three sides and the river curling far below. On a clear morning the view can stretch for dozens of kilometres across the plateau.

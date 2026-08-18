@@ -10,15 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Nesbit_House_-_Weiser_Idah
 latitude: 44.2455
 loc_type: city
 longitude: -116.9702
-score: 3.633
+score: 3.764
 snippet: Small Idaho farm town on the Oregon border, famous for its old-time fiddle
   contest.
 title: Weiser
 type: location
-heritage: 2.911
-vibrancy: 2.05
-nature: 4.397
-off_the_beaten_track: 3.0
+heritage: 3.308
+vibrancy: 2.141
+nature: 4.432
+off_the_beaten_track: 2.749
 ---
 
 Weiser is a small agricultural town in southwest Idaho, sitting at the confluence of the Weiser River and the Snake River right on the Oregon border. It's an honest, unpretentious place — the kind of town where the main street still functions and people actually know each other. Most travelers who seek it out come for one reason: the fiddle music.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ciudad_de_Huancayo_en_2021
 latitude: -12.068098
 loc_type: city
 longitude: -75.210095
-score: 4.976
+score: 5.176
 snippet: Highland Peruvian market city in the Mantaro Valley, known for textiles,
   gourds, and Wanka culture.
 title: Huancayo
 type: location
-heritage: 4.839
-vibrancy: 3.68
-nature: 5.661
-off_the_beaten_track: 4.339
+heritage: 4.685
+vibrancy: 3.498
+nature: 6.037
+off_the_beaten_track: 4.408
 ---
 
 Huancayo is the main city of the Mantaro Valley in Peru's central highlands, sitting at about 3,270 metres. It is a busy commercial centre and market town — people from villages across the valley bring their handicrafts, produce, and livestock here to trade.

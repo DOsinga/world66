@@ -16,7 +16,7 @@ quick_facts:
   Islands: Built on 14
   Metro: World's longest art gallery
   Nobel Prizes: Awarded each December
-score: 8.939
+score: 8.7
 snippet: Island-built Nordic capital where Lake Mälaren meets the Baltic and boats
   open the archipelago.
 tip: Stockholm spreads over 14 islands, so a hop-on boat or a kayak is the way to
@@ -26,10 +26,10 @@ tip: Stockholm spreads over 14 islands, so a hop-on boat or a kayak is the way t
   an art gallery.
 title: Stockholm
 type: location
-heritage: 9.186
-vibrancy: 8.913
-nature: 4.903
-off_the_beaten_track: 2.297
+heritage: 8.366
+vibrancy: 8.893
+nature: 5.223
+off_the_beaten_track: 2.407
 ---
 
 Stockholm sits on 14 islands where Lake Mälaren meets the Baltic, and the city makes clever use of its geography — the water is clean enough to swim in, and boats connect the archipelago of 30,000 islands stretching east from the city. Called the "Beauty on Water," it is one of the most scenic capitals in Europe.

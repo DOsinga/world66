@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Canterbury_East_Railway_St
 latitude: 51.280028
 loc_type: city
 longitude: 1.080253
-score: 5.686
+score: 6.506
 snippet: Medieval cathedral city of pilgrimage lanes, timber-framed streets, and Chaucer’s
   enduring Canterbury Tales associations.
 title: Canterbury
 type: location
-heritage: 6.902
-vibrancy: 4.234
-nature: 2.444
-off_the_beaten_track: 1.11
+heritage: 7.39
+vibrancy: 5.875
+nature: 3.949
+off_the_beaten_track: 1.195
 ---
 
 Canterbury has been drawing visitors since the Middle Ages, when pilgrims flocked to the cathedral where Archbishop Thomas Becket was murdered in 1170. Chaucer immortalised those journeys in The Canterbury Tales, and the city still trades on that heritage today, though it has plenty more to offer.

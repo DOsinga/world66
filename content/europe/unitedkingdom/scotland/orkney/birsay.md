@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: 59.13496
 longitude: -3.32465
-score: 5.795
+score: 6.091
 snippet: Orkney village where tidal Norse ruins and wind-cut cliffs meet old island
   farming
 sources:
 - https://en.wikivoyage.org/wiki/Birsay
 - https://www.historicenvironment.scot/visit/all/brough-of-birsay/
-heritage: 5.884
-vibrancy: 2.36
-nature: 6.488
-off_the_beaten_track: 4.787
+heritage: 6.308
+vibrancy: 1.987
+nature: 6.768
+off_the_beaten_track: 4.92
 ---
 
 Birsay sits on the north-west corner of Mainland [Orkney](/europe/unitedkingdom/scotland/orkney), where the land runs out into cliffs, tidal rocks, and big Atlantic weather. The village itself is small, but the cluster around it is strong: a causeway walk to the [Brough of Birsay](/europe/unitedkingdom/scotland/orkney/birsay/brough_of_birsay), a ruined Renaissance palace, an old bere mill, and a farm museum that still smells faintly of peat smoke.

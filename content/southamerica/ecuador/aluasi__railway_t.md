@@ -5,15 +5,15 @@ done:
 latitude: -2.2005
 loc_type: city
 longitude: -78.8469
-score: 5.96
+score: 6.283
 snippet: Ecuadorian highland rail town, known for the steep Nariz del Diablo switchbacks
   below its station.
 title: Alausi
 type: location
-heritage: 3.053
-vibrancy: 1.399
-nature: 7.407
-off_the_beaten_track: 6.001
+heritage: 2.499
+vibrancy: 1.732
+nature: 7.866
+off_the_beaten_track: 6.137
 ---
 
 Alausi is a small highland town in central Ecuador, about two hours by bus south of [Riobamba](/southamerica/ecuador/riobamba), perched at the top of a steep descent into the lowlands. A statue of St Peter watches over the town from a hilltop, and the climate is often cold and cloudy, especially in the rainy season.

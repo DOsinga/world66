@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: -2.57017
 longitude: -42.74229
-score: 5.731
+score: 6.051
 snippet: Sandy fishing village where Lençóis Maranhenses dunes meet kitesurf wind
   and river beaches.
 sources:
 - https://en.wikivoyage.org/wiki/Atins
 - https://www.wikidata.org/wiki/Q14209562
-heritage: 2.297
-vibrancy: 2.712
-nature: 7.422
-off_the_beaten_track: 4.788
+heritage: 2.653
+vibrancy: 2.849
+nature: 7.915
+off_the_beaten_track: 4.796
 ---
 
 Atins is a small fishing village on the edge of Lençóis Maranhenses National Park, where the Preguiças River meets the Atlantic. It feels remote in a very physical way: sandy streets, scattered houses, weak mobile signal, and no easy arrival by ordinary road.

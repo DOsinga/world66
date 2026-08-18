@@ -5,7 +5,7 @@ loc_type: city
 latitude: 57.483333
 longitude: 60.2
 wikidata: Q165844
-score: 4.25
+score: 3.535
 snippet: Ural factory town built around a mysterious 18th-century leaning tower.
 sources:
 - https://en.wikivoyage.org/wiki/Nevyansk
@@ -16,10 +16,10 @@ image: nevyansk.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Nevyansk_Tower_005_6419.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Ludvig14
-heritage: 5.478
-vibrancy: 2.407
-nature: 1.892
-off_the_beaten_track: 3.988
+heritage: 4.498
+vibrancy: 2.148
+nature: 1.847
+off_the_beaten_track: 3.505
 ---
 
 Nevyansk is a small Ural town with one sight strong enough to pull travellers off the Yekaterinburg route: the Leaning Tower of Nevyansk. The Demidov industrial dynasty built it in the 18th century, and its odd tilt, clock, acoustic room, and legends of secret laboratories give the town a story that is hard to forget.

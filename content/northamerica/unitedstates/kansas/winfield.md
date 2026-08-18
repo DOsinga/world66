@@ -11,13 +11,13 @@ loc_type: city
 snippet: South-central Kansas town best known for the Walnut Valley Festival and its
   bluegrass instrument championships
 longitude: -96.9956
-score: 2.794
+score: 2.977
 title: Winfield
 type: location
-heritage: 3.224
-vibrancy: 1.818
-nature: 2.707
-off_the_beaten_track: 1.959
+heritage: 3.547
+vibrancy: 1.729
+nature: 2.631
+off_the_beaten_track: 1.946
 ---
 
 Winfield is a small town of around 12,000 people in south-central Kansas, once listed among the hundred best small towns in America. It is probably most famous for the [Walnut Valley Festival](/northamerica/unitedstates/kansas/winfield/walnut_valley_festival), held each September, which draws thousands of musicians and fans for the National Bluegrass Banjo Championships, the National Guitar Flat Picking Championships, and competitions in fiddle, hammered dulcimer, and mandolin. During festival weekend the whole town comes alive with yard sales and impromptu picking sessions.

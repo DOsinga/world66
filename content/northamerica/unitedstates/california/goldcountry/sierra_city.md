@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 39.5733
 longitude: -120.6369
-score: 5.039
+score: 5.291
 snippet: Tiny Gold Country mountain town below the Sierra Buttes and the Pacific Crest
   Trail.
 sources:
@@ -13,10 +13,10 @@ sources:
 - https://www.fs.usda.gov/r05/tahoe/recreation/love-falls
 original_overview: Wikivoyage presents Sierra City as a small Gold Country town with
   mining history and Pacific Crest Trail access.
-heritage: 5.086
-vibrancy: 3.902
-nature: 5.655
-off_the_beaten_track: 4.921
+heritage: 4.905
+vibrancy: 3.705
+nature: 6.122
+off_the_beaten_track: 4.57
 ---
 
 Sierra City is a tiny old mining town on Highway 49, tucked into the North Yuba River canyon below the jagged Sierra Buttes. It began in the Gold Rush, shrank hard after the mines faded, and now survives as a mountain stop for hikers, anglers, and people driving the northern end of California's Gold Country.

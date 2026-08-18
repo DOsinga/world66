@@ -5,17 +5,17 @@ done:
 latitude: -16.5896
 loc_type: city
 longitude: -39.0969
-score: 5.855
+score: 6.036
 snippet: Barefoot Bahian village of colonial houses around the grassy Quadrado and
   beaches below the cliffs.
 sources:
 - https://en.wikipedia.org/wiki/Trancoso,_Bahia
 title: Trancoso
 type: location
-heritage: 4.269
-vibrancy: 4.854
-nature: 6.73
-off_the_beaten_track: 4.757
+heritage: 3.92
+vibrancy: 4.933
+nature: 6.972
+off_the_beaten_track: 4.844
 ---
 
 Trancoso is the polished, barefoot village south of [Arraial da Ajuda](/southamerica/brazil/arraial_da_ajuda), famous for the grassy [Quadrado](/southamerica/brazil/trancoso/quadrado), a line of low colonial houses, and beaches that still look half wild once you walk beyond the first cluster of restaurants. It began as a Jesuit settlement in the 16th century, became a quiet fishing village, and then slowly turned into one of Bahia's most desirable coastal escapes.

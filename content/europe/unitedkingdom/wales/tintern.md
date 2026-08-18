@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 51.6975
 longitude: -2.681
-score: 6.315
+score: 5.962
 snippet: Wye Valley village where a ruined abbey anchors walks, viewpoints, and early
   tourism history.
 sources:
@@ -15,10 +15,10 @@ image: tintern.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Tintern_Abbey.jpg
 image_license: CC BY-SA 2.5
 image_attribution: Saffron Blaze
-heritage: 7.312
-vibrancy: 1.5
-nature: 6.06
-off_the_beaten_track: 2.951
+heritage: 6.752
+vibrancy: 2.112
+nature: 6.064
+off_the_beaten_track: 2.724
 ---
 
 Tintern is a small village on the Welsh bank of the River Wye, north of Chepstow, and it would be easy to overstate the village itself. The reason it belongs on a travel map is the setting: a tight green valley, a ruined Cistercian abbey, and walks that climb quickly to views over the river bend.

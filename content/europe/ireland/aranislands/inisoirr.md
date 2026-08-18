@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Inisheer_5091_(2).jpg
 latitude: 53.056968
 loc_type: city
 longitude: -9.525355
-score: 6.004
+score: 6.286
 title: Inis Oirr
 snippet: Smallest Aran Island at Galway Bay's mouth, with Irish-speaking culture and
   limestone-walled fields.
 type: location
-heritage: 6.053
-vibrancy: 3.461
-nature: 6.741
-off_the_beaten_track: 4.862
+heritage: 6.383
+vibrancy: 2.929
+nature: 7.038
+off_the_beaten_track: 4.834
 ---
 
 Inis Oirr (Inisheer) is the smallest of the three [Aran Islands](/europe/ireland/aranislands), measuring just over three kilometres on each side, but it packs a remarkable amount of history and beauty into that space. The island sits at the mouth of Galway Bay, with the Cliffs of Moher visible across the water to the east and the Connemara coast to the north.

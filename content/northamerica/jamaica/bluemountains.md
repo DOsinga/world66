@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:JM_Blue_Mountain_Peak_1010
 latitude: 18.0558
 loc_type: city
 longitude: -76.5813
-score: 6.42
+score: 6.3
 snippet: Eastern Jamaican mountain range where misty high slopes produce the island's
   famous Blue Mountain coffee.
 title: Blue Mountains
 type: location
-heritage: 4.346
-vibrancy: 4.432
-nature: 7.81
-off_the_beaten_track: 3.165
+heritage: 4.744
+vibrancy: 3.825
+nature: 7.755
+off_the_beaten_track: 3.13
 ---
 
 The Blue Mountains form the spine of eastern Jamaica, rising to 2,256 m at [Blue Mountain Peak](/northamerica/jamaica/bluemountains/blue_mountain_peak) — the highest point in the Caribbean outside Hispaniola. They're named for the blue mist that hangs over them in the mornings, visible from Kingston below.

@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Inverness_Castle,_Scotland
 latitude: 57.479
 loc_type: city
 longitude: -4.2257
-score: 6.284
+score: 6.302
 snippet: Highland capital on the Ness River, used as a base for Loch Ness, Culloden,
   and northern Scotland.
 title: Inverness
 type: location
-heritage: 6.06
-vibrancy: 3.466
-nature: 7.171
-off_the_beaten_track: 3.806
+heritage: 6.364
+vibrancy: 2.857
+nature: 7.071
+off_the_beaten_track: 3.965
 ---
 
 Inverness is the largest city in the Scottish Highlands and the effective capital of the region, located about 160 miles north of Edinburgh on the Ness River where it meets the Moray Firth. As a city, it doesn't have an overwhelming list of sights — the red sandstone [castle](/europe/unitedkingdom/scotland/inverness/inverness_castle) now operates as a visitor attraction, and Macbeth's original castle is long gone — but it makes an excellent base for exploring the surrounding countryside.

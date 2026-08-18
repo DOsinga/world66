@@ -5,15 +5,15 @@ done:
 latitude: 33.5639
 loc_type: city
 longitude: 107.5097
-score: 4.483
+score: 4.138
 snippet: Tiny Shaanxi village near Changqing reserve, where traditional farming sits
   beside panda and ibis habitat.
 title: Huayang Village
 type: location
-heritage: 5.267
-vibrancy: 2.082
-nature: 4.13
-off_the_beaten_track: 5.302
+heritage: 4.667
+vibrancy: 2.453
+nature: 4.253
+off_the_beaten_track: 4.534
 ---
 
 Huayang is a tiny village in Shaanxi Province where people still live a traditional lifestyle and practise traditional agricultural methods. The village has one modern hotel and a restaurant serving local dishes and Shaanxi specialities.

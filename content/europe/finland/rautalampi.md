@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 62.6333
 longitude: 26.8333
-score: 5.549
+score: 5.561
 snippet: Finnish Lakeland village of wooden churches, old estates, canoe routes, and
   Konnevesi wilderness.
 wikidata: Q987094
@@ -12,10 +12,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Rautalampi
 - https://www.nationalparks.fi/southernkonnevesinp
 - https://www.rautalampi.fi/wp-content/uploads/2021/05/Kartanokierros-2018-EN.pdf
-heritage: 2.14
-vibrancy: 1.404
-nature: 7.22
-off_the_beaten_track: 4.524
+heritage: 2.574
+vibrancy: 1.221
+nature: 7.12
+off_the_beaten_track: 4.916
 ---
 
 Rautalampi is a small village in the Finnish Lakeland, west of Kuopio, surrounded by water, forest, and old parish landscapes. It is not a place of big-city sights, but it has a strong local identity: wooden churches, manor country, canoe routes, and easy access to Southern Konnevesi National Park.

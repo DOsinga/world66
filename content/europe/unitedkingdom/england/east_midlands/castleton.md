@@ -2,7 +2,7 @@
 latitude: 53.3407
 loc_type: city
 longitude: -1.7868
-score: 5.114
+score: 4.559
 snippet: Peak District village surrounded by four show caves and Peveril Castle, at
   the head of the Hope Valley.
 tags:
@@ -13,10 +13,10 @@ image: castleton.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Castleton,_Derbyshire_-_geograph.org.uk_-_2035485.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Graham Hogg
-heritage: 5.865
-vibrancy: 2.233
-nature: 5.035
-off_the_beaten_track: 2.072
+heritage: 5.399
+vibrancy: 2.053
+nature: 4.102
+off_the_beaten_track: 2.035
 ---
 
 Castleton sits at the head of the Hope Valley where the limestone White Peak meets the gritstone Dark Peak, and the geology makes it the most dramatic village in the national park. Peveril Castle — a Norman fortress commissioned by William the Conqueror — stands on the ridge above the village, with views over Mam Tor and the Great Ridge. Peak Cavern lies directly below the castle, its entrance one of the largest in Britain.

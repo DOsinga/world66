@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Corti.JPG
 latitude: 42.30529
 loc_type: city
 longitude: 9.151193
-score: 5.646
+score: 6.017
 snippet: Mountain town at Corsica's heart, with a proud citadel above the Tavignano
   and Restonica rivers
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Restonica
 title: Corte
 type: location
-heritage: 5.186
-vibrancy: 3.685
-nature: 6.553
-off_the_beaten_track: 4.706
+heritage: 5.343
+vibrancy: 3.531
+nature: 7.062
+off_the_beaten_track: 4.649
 ---
 
 Corte (Corti in Corsican) sits at the geographic heart of Corsica, where the island's two halves meet in a landscape of granite gorges and chestnut forest. It was the capital of the short-lived Corsican Republic from 1755 to 1769 — fourteen years of independence under Pasquale Paoli — and that brief burst of self-rule left the town with a fierce pride that has never quite faded. The citadel still broods over a steep rock above the confluence of the Tavignano and Restonica rivers, and the Corsican flag flies everywhere.

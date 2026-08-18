@@ -4,15 +4,15 @@ type: location
 loc_type: city
 latitude: 42.726111
 longitude: -87.805833
-score: 4.242
+score: 3.933
 snippet: Lake Michigan city known for Frank Lloyd Wright architecture, a harbourfront,
   and kringle.
 sources:
 - https://en.wikivoyage.org/wiki/Racine
-heritage: 4.845
-vibrancy: 2.904
-nature: 4.22
-off_the_beaten_track: 1.759
+heritage: 4.492
+vibrancy: 2.722
+nature: 3.914
+off_the_beaten_track: 1.919
 ---
 
 Racine sits on Lake Michigan between Milwaukee and Chicago, with enough of its own identity to reward a stop. The city mixes industrial history, lakefront parks, a working marina, and one exceptional architectural reason to come: Frank Lloyd Wright's Johnson Wax Headquarters.

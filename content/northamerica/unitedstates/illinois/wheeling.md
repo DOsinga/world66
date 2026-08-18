@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Wheeling,_IL,_USA_-_panora
 latitude: 42.1389
 loc_type: city
 longitude: -87.9311
-score: 2.676
+score: 2.183
 snippet: Chicago suburb known for Milwaukee Avenue's Restaurant Row and its Korean,
   Indian, and Filipino kitchens.
 title: Wheeling
 type: location
-heritage: 2.302
-vibrancy: 2.833
-nature: 2.269
-off_the_beaten_track: 0.814
+heritage: 2.366
+vibrancy: 2.13
+nature: 1.546
+off_the_beaten_track: 0.987
 ---
 
 Wheeling is a northwest suburb of [Chicago](/northamerica/unitedstates/illinois/chicago), about 30 miles from the Loop. On its own the town is quiet and suburban, but it has one genuine claim to fame: [Restaurant Row](/northamerica/unitedstates/illinois/wheeling/restaurant_row) along Milwaukee Avenue, where a remarkable concentration of restaurants -- many of them Korean, Indian, and Filipino -- draws diners from across the Chicago metropolitan area. If you are tired of downtown prices and want to eat very well for less, Wheeling is worth the drive.

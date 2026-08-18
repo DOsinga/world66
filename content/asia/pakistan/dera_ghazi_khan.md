@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ghazi_khan_tomb_3_DG_khan_
 latitude: 30.032137
 loc_type: city
 longitude: 70.640111
-score: 3.338
+score: 3.166
 title: Dera Ghazi Khan
 type: location
 snippet: Southwestern Punjab city where Balochi tribal culture meets the Indus plains
   and Sulaiman Mountains.
-heritage: 2.473
-vibrancy: 1.92
-nature: 2.824
-off_the_beaten_track: 5.601
+heritage: 2.118
+vibrancy: 1.807
+nature: 2.392
+off_the_beaten_track: 5.487
 ---
 
 Dera Ghazi Khan — universally abbreviated to D.G. Khan — is a city of around half a million people in the southwestern corner of Punjab, close to the border with Balochistan. It sits at the confluence zone where the Indus and its tributaries flatten out onto the plains; the Sulaiman Mountains rise dramatically to the west.

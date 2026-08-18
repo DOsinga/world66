@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:St._Bernard_resort_-_panor
 latitude: 10.28
 loc_type: city
 longitude: 125.13
-score: 5.402
+score: 5.09
 snippet: Eastern Southern Leyte town remembered for Guinsaugon, with beaches, waterfalls,
   and Cabalian Volcano nearby.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://southernleyte.gov.ph/saint-bernard/saint-bernard-tourism/
 title: St Bernard
 type: location
-heritage: 3.032
-vibrancy: 1.353
-nature: 6.722
-off_the_beaten_track: 5.411
+heritage: 3.417
+vibrancy: 1.358
+nature: 6.252
+off_the_beaten_track: 5.366
 ---
 
 St Bernard sits on the eastern side of [Southern Leyte](/asia/philippines/southern_leyte), between the mountains and the coast road that runs toward Silago. It is a quiet municipal town, but it carries one of the province's heaviest modern memories: the 2006 Guinsaugon landslide, which buried a village after weeks of rain.

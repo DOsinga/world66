@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ayia_Napa_beach2_by_Paride
 latitude: 34.9893
 loc_type: city
 longitude: 33.9962
-score: 7.25
+score: 7.048
 snippet: Cypriot beach town where summer nightlife sits beside sea caves, white sand,
   and a 16th-century monastery.
 title: Ayia Napa
 type: location
-heritage: 5.863
-vibrancy: 7.202
-nature: 7.375
-off_the_beaten_track: 1.447
+heritage: 6.125
+vibrancy: 6.996
+nature: 7.183
+off_the_beaten_track: 1.657
 ---
 
 Ayia Napa sits on the southeastern tip of Cyprus, a former fishing village that transformed into one of Europe's most famous party destinations. In summer the population swells from under a thousand to tens of thousands, drawn by turquoise water, white sand beaches, and a nightlife scene that rivals Ibiza.

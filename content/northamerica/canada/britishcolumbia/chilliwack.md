@@ -5,7 +5,7 @@ loc_type: city
 latitude: 49.1577
 longitude: -121.9509
 wikidata: Q983026
-score: 5.398
+score: 5.029
 snippet: Fraser Valley city where farms, rivers, waterfalls, and Cascade foothills
   crowd close together.
 sources:
@@ -18,10 +18,10 @@ image: chilliwack.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bridal_Veil_Falls,_BC,_Canada.jpg
 image_license: CC BY-SA 3.0
 image_attribution: The High Fin Sperm Whale
-heritage: 2.992
-vibrancy: 2.811
-nature: 7.008
-off_the_beaten_track: 2.854
+heritage: 2.813
+vibrancy: 2.328
+nature: 6.603
+off_the_beaten_track: 3.073
 ---
 
 *North America > Canada > British Columbia > Chilliwack*

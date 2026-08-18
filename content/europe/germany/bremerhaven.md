@@ -4,7 +4,7 @@ done:
 latitude: 53.55
 loc_type: city
 longitude: 8.5833
-score: 4.009
+score: 4.019
 snippet: North Sea port city of emigration history, maritime museums, climate exhibits,
   and Weser docks.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Bremerhaven
 title: Bremerhaven
 type: location
-heritage: 4.673
-vibrancy: 3.009
-nature: 3.775
-off_the_beaten_track: 1.129
+heritage: 4.771
+vibrancy: 3.039
+nature: 3.59
+off_the_beaten_track: 1.19
 ---
 
 Bremerhaven is Bremen's port on the Weser estuary, built for ships too large or too ocean-bound for the old inland city. It is a working harbour first and a pretty town second, which is exactly why it is worth adding to a northern Germany trip.

@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: 36.3333
 longitude: 126.6167
-score: 3.775
+score: 3.563
 snippet: West-coast Korean city of mud-festival beaches, ferry islands, and old Baekje
   temple ruins.
 sources:
 - https://en.wikivoyage.org/wiki/Boryeong
 - https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=96386
 - https://en.wikipedia.org/wiki/S%C5%8Fngjusa
-heritage: 2.024
-vibrancy: 3.61
-nature: 4.107
-off_the_beaten_track: 1.553
+heritage: 1.277
+vibrancy: 3.494
+nature: 3.743
+off_the_beaten_track: 1.664
 ---
 
 Boryeong is a west-coast city in South Chungcheong, best known for turning its tidal mud into one of Korea's rowdiest summer festivals. That sounds gimmicky, and in July it partly is, but the setting helps: Daecheon Beach is a long, open stretch of sand facing the Yellow Sea, with ferries and islands just offshore.

@@ -9,14 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:PL_-_Sandomierz_-_zamek_-_
 latitude: 50.679307
 loc_type: city
 longitude: 21.749506
-score: 6.156
+score: 5.722
 snippet: Historic Polish town on a Vistula bluff, with a compact medieval old centre.
 title: Sandomierz
 type: location
-heritage: 8.105
-vibrancy: 3.303
-nature: 2.574
-off_the_beaten_track: 2.604
+heritage: 7.569
+vibrancy: 2.997
+nature: 2.785
+off_the_beaten_track: 2.794
 ---
 
 Sandomierz is one of Poland's oldest and best-preserved towns, perched on a loess bluff above the Vistula river. The Old Town survived both the Mongol invasions and the Second World War largely intact, leaving a compact medieval centre that feels far removed from the busier tourist circuits of [Kraków](/europe/poland/krakow) or [Warsaw](/europe/poland/warsaw).

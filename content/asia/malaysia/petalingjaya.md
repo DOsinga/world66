@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_SS2_Petalin
 latitude: 3.1073
 loc_type: city
 longitude: 101.6067
-score: 5.678
+score: 5.821
 snippet: Kuala Lumpur satellite city with neighbourhood hawker centres, malls, and
   the relaxed identity locals call PJ.
 title: Petaling Jaya
 type: location
-heritage: 4.596
-vibrancy: 6.132
-nature: 3.923
-off_the_beaten_track: 1.114
+heritage: 4.56
+vibrancy: 6.343
+nature: 3.238
+off_the_beaten_track: 1.173
 ---
 
 Petaling Jaya — PJ to everyone who lives there — is a sprawling satellite city immediately west of Kuala Lumpur, connected to the capital by the LRT and the federal highway. What began as a planned housing estate in the 1950s has grown into a city of over 600,000 people with its own distinct identity: younger and more relaxed than KL, home to a thriving food scene, and packed with the kind of neighbourhood life that the capital's gleaming towers often lack.

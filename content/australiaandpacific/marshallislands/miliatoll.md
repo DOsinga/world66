@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:F6F_takes_off_from_USS_Lex
 latitude: 6.0833
 loc_type: island
 longitude: 171.7333
-score: 5.859
+score: 5.391
 snippet: Southern Marshall Islands atoll with wartime airfield remains, wide reef
   flats, and minimal visitor infrastructure.
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://www.openstreetmap.org/relation/5717718
 title: Mili Atoll
 type: location
-heritage: 3.731
-vibrancy: 1.273
-nature: 6.45
-off_the_beaten_track: 8.62
+heritage: 4.661
+vibrancy: 0.927
+nature: 5.484
+off_the_beaten_track: 8.478
 ---
 
 Mili Atoll lies near the southern end of the Ratak Chain, far enough from Majuro that a visit feels like a small expedition. The atoll is made up of dozens of low islets around a broad lagoon, with village life concentrated on a few of them and long reef flats stretching between.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:All_Saints_Church_(geograp
 latitude: 52.23433
 loc_type: city
 longitude: -0.902804
-score: 5.148
+score: 4.577
 snippet: East Midlands market town known for shoemaking heritage and rare medieval
   round churches.
 title: Northampton
 type: location
-heritage: 5.178
-vibrancy: 5.176
-nature: 4.192
-off_the_beaten_track: 1.928
+heritage: 4.401
+vibrancy: 4.679
+nature: 3.65
+off_the_beaten_track: 2.208
 ---
 
 Northampton is a large market town in the East Midlands that has been making shoes since the Middle Ages — at its peak it supplied boots to the British Army, and a handful of quality shoemakers still operate here today. The town's history is older than that: it was a major medieval centre with a royal castle where parliaments were held, though almost nothing survives of either.

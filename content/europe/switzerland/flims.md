@@ -8,15 +8,15 @@ image_source: https://www.flickr.com/photos/42477684@N08/37008054284
 latitude: 46.833244
 loc_type: city
 longitude: 9.283456
-score: 6.313
+score: 5.724
 title: Flims
 type: location
 snippet: Swiss Alpine resort above the Rhine Gorge, known for lakes, forests, and
   the Flims landslide landscape.
-heritage: 3.744
-vibrancy: 4.565
-nature: 7.58
-off_the_beaten_track: 2.72
+heritage: 3.031
+vibrancy: 4.097
+nature: 6.893
+off_the_beaten_track: 2.274
 ---
 
 Flims is a beautifully located village in the Canton of Graubünden, with a long history as both a summer and winter resort. The forested hillside setting makes it particularly good for hiking and mountain biking in summer, while the ski area — shared with neighbouring [Laax](/europe/switzerland/laax) — draws snowboarders and skiers in winter.

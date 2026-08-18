@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Dinant_reflected.jpg
 latitude: 50.2592
 loc_type: city
 longitude: 4.9131
-score: 3.989
+score: 4.056
 snippet: Meuse River town squeezed below limestone cliffs, with a citadel, saxophone
   history, and Ardennes access
 title: Dinant
 type: location
-heritage: 3.679
-vibrancy: 2.165
-nature: 4.623
-off_the_beaten_track: 3.118
+heritage: 3.79
+vibrancy: 2.313
+nature: 4.681
+off_the_beaten_track: 2.968
 ---
 
 Dinant sits in a dramatic setting on the Meuse River, squeezed between limestone cliffs and the water. The town is dominated by its [citadel](/europe/belgium/dinant/citadel), perched a hundred metres above the distinctive onion-domed [Collegiate Church of Notre-Dame](/europe/belgium/dinant/collegiate_church), and makes a fine base for exploring the Belgian Ardennes.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 37.9667
 longitude: 12.9667
-score: 5.22
+score: 4.914
 snippet: Western Sicilian wine town between Palermo and Trapani, backed by Mount Bonifato.
 sources:
 - https://en.wikivoyage.org/wiki/Alcamo
@@ -13,10 +13,10 @@ image: alcamo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Alcamo-Castello-bjs0701-01.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Bjs
-heritage: 5.547
-vibrancy: 4.246
-nature: 5.739
-off_the_beaten_track: 3.696
+heritage: 4.906
+vibrancy: 3.667
+nature: 5.537
+off_the_beaten_track: 3.747
 ---
 
 Alcamo sits inland from the Gulf of Castellammare, between [Palermo](/europe/italy/sicily/palermo) and [Trapani](/europe/italy/sicily/trapani). It is not as polished as the coastal towns, but it has a real western Sicilian centre: Corso VI Aprile, Piazza Ciullo, old churches, a castle, and a civic life built around wine, markets, and evening walks.

@@ -5,7 +5,7 @@ done:
 latitude: 43.461893
 loc_type: city
 longitude: -3.810026
-score: 5.962
+score: 5.435
 title: Santander
 snippet: Cantabrian capital and port city with royal summer architecture facing the
   Bay of Biscay.
@@ -14,10 +14,10 @@ image: santander.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Muelle_de_Albareda,_Santander.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Emilio Gómez Fernández
-heritage: 6.006
-vibrancy: 5.991
-nature: 5.163
-off_the_beaten_track: 1.684
+heritage: 5.373
+vibrancy: 5.5
+nature: 4.871
+off_the_beaten_track: 1.634
 ---
 
 Santander is the capital of Cantabria, a handsome port city on the northern coast of Spain facing the Cantabrian Sea. It has a distinguished, slightly old-fashioned elegance — wide seafront boulevards, a long beach at El Sardinero, and a string of civic buildings that speak to its past as a summer resort for the Spanish royal family.

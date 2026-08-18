@@ -1,5 +1,5 @@
 {
-  "count": 9164,
+  "count": 9212,
   "dimensions": 3072,
   "model": "text-embedding-3-large",
   "output": "scoring/data/all_location_embeddings_large.npz",

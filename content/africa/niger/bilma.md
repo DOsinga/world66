@@ -9,14 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Bilma-Saline-85.jpg
 latitude: 18.686
 loc_type: city
 longitude: 12.916
-score: 3.636
+score: 3.681
 title: Bilma
 type: location
 snippet: Remote Kawar oasis in Niger, long tied to salt pans and Sahara caravan routes.
-heritage: 0.7
-vibrancy: 0.774
-nature: 2.392
-off_the_beaten_track: 6.519
+heritage: 1.735
+vibrancy: 1.169
+nature: 2.451
+off_the_beaten_track: 6.582
 ---
 
 Bilma is about as far as you can get from anywhere in Niger. After 500 km of desert from [Agadez](/africa/niger/agadez), this remote oasis in the [Kawar](/africa/niger/kawar) region is the last significant stop before the Libyan border. The salt pans here have been mined for centuries — caravans once carried Bilma salt south to Hausa markets in exchange for millet.

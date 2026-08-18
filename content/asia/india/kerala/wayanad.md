@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Blue,_Green_%26_White.jpg
 latitude: 11.715129
 loc_type: city
 longitude: 76.127118
-score: 5.954
+score: 6.081
 snippet: Hilly Kerala district in the Western Ghats, rich in forests, spice plantations,
   and tribal culture
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Chembra_Peak
 title: Wayanad
 type: location
-heritage: 4.075
-vibrancy: 3.002
-nature: 7.502
-off_the_beaten_track: 4.107
+heritage: 4.565
+vibrancy: 2.4
+nature: 7.49
+off_the_beaten_track: 4.435
 ---
 
 Wayanad is a hilly district in the northeastern corner of Kerala, set on an elevated plateau in the Western Ghats. It is quieter and less touristy than [Munnar](/asia/india/kerala/munnar), with rolling hills, thick forests, spice plantations and a strong tribal culture that gives it a character of its own.

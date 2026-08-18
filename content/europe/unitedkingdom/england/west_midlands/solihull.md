@@ -4,7 +4,7 @@ done:
 latitude: 52.413
 loc_type: city
 longitude: -1.7769
-score: 3.499
+score: 3.335
 snippet: Affluent West Midlands town with a medieval high street and easy access to
   Birmingham's major venues.
 title: Solihull
@@ -13,10 +13,10 @@ image: solihull.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Shirley,_Solihull,_UK_-_panoramio_(51).jpg
 image_license: CC BY-SA 3.0
 image_attribution: logopop
-heritage: 2.92
-vibrancy: 3.745
-nature: 2.397
-off_the_beaten_track: 0.644
+heritage: 3.542
+vibrancy: 3.282
+nature: 2.327
+off_the_beaten_track: 0.785
 ---
 
 Solihull is an affluent town of about 120,000 in the West Midlands, sitting on the southeastern edge of Birmingham. It consistently ranks among the best places to live in England, with tree-lined streets, good schools, and a town center that manages to feel both prosperous and pleasant. The medieval [St Alphege Church](/europe/unitedkingdom/england/west_midlands/solihull/st_alphege_church) anchors the old high street, and the Tudor-style houses around it give the center a historic character that distinguishes it from its more industrial neighbors.

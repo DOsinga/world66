@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 49.7114
 longitude: 7.3131
-score: 5.121
+score: 4.771
 snippet: Nahe Valley gemstone town with a rock-cut church and centuries of agate cutting.
 sources:
 - https://en.wikivoyage.org/wiki/Idar-Oberstein
@@ -14,10 +14,10 @@ image: idaroberstein.jpg
 image_source: https://commons.wikimedia.org/wiki/File:20180825_Castle_Oberstein.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Flocci Nivis
-heritage: 6.072
-vibrancy: 2.998
-nature: 4.59
-off_the_beaten_track: 1.966
+heritage: 5.573
+vibrancy: 3.144
+nature: 4.468
+off_the_beaten_track: 2.033
 ---
 
 Idar-Oberstein sits in the Nahe Valley and has built a whole identity around stones: agate, minerals, gems, cutters' workshops, and shop windows full of polished colour. It is not a grand Rhineland town, but it has one of Germany's stranger small-city skylines, with the [Felsenkirche](/europe/germany/rhinelandpalatinate/idaroberstein/felsenkirche) wedged into the cliff below ruined castles.

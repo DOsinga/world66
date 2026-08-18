@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -41.8833
 longitude: 145.3333
-score: 5.266
+score: 5.393
 snippet: Former silver-mining town on Tasmania's West Coast, with a deep museum and
   tunnel walks.
 wikidata: Q184385
@@ -13,10 +13,10 @@ sources:
 - https://www.wikidata.org/wiki/Q184385
 - https://en.wikipedia.org/wiki/Zeehan,_Tasmania
 - https://westcoasttas.com.au/towns/zeehan/
-heritage: 4.044
-vibrancy: 2.122
-nature: 6.448
-off_the_beaten_track: 4.249
+heritage: 4.02
+vibrancy: 1.855
+nature: 6.656
+off_the_beaten_track: 4.692
 ---
 
 Zeehan is an old silver town in the wet, mountainous country of Tasmania's [West Coast](/australiaandpacific/australia/tasmania/westcoast). It was once one of the busiest towns in Tasmania, with mines, grand hotels, theatres, and enough money passing through to make people call it the Silver City.

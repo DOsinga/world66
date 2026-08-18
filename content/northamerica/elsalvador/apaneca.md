@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Apaneca,_El_Salvador_-_pan
 latitude: 13.85
 loc_type: city
 longitude: -89.8
-score: 4.597
+score: 4.766
 snippet: Highland coffee town on the Ruta de las Flores, known for cool air and crater
   lagoons.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://www.visitcentroamerica.com/en/visit/route-of-the-flowers/
 title: Apaneca
 type: location
-heritage: 3.438
-vibrancy: 2.921
-nature: 5.668
-off_the_beaten_track: 4.052
+heritage: 3.613
+vibrancy: 2.882
+nature: 5.856
+off_the_beaten_track: 4.1
 ---
 
 Apaneca is the highest town on El Salvador's [Ruta de las Flores](/northamerica/elsalvador/rutadelasflores), a cool coffee-country stop between Ahuachapan and Juayua. It is less polished than nearby Ataco and less food-focused than Juayua, which is part of its appeal: the town still feels like a working highland place rather than a weekend stage set.

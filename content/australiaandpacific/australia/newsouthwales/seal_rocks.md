@@ -4,15 +4,15 @@ type: location
 loc_type: city
 latitude: -32.438
 longitude: 152.5277
-score: 6.083
+score: 6.049
 snippet: Tiny Mid-North Coast beach village framed by surf, headlands, and Sugarloaf
   Point Lighthouse.
 sources:
 - https://en.wikivoyage.org/wiki/Seal_Rocks
-heritage: 1.429
-vibrancy: 1.183
-nature: 7.706
-off_the_beaten_track: 5.647
+heritage: 1.807
+vibrancy: 1.338
+nature: 7.633
+off_the_beaten_track: 5.713
 ---
 
 Seal Rocks is a small, stubbornly unpolished beach village on the New South Wales Mid-North Coast. It sits on a steep little peninsula between surf beaches, rocky headlands, and the edge of Myall Lakes National Park.

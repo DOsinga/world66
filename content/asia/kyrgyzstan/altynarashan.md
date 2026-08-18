@@ -2,7 +2,7 @@
 latitude: 42.3833
 loc_type: feature
 longitude: 78.5167
-score: 6.138
+score: 6.158
 snippet: High alpine valley east of Karakol with natural hot springs, yurt camps,
   and 4,000-metre peaks
 title: Altyn-Arashan
@@ -11,10 +11,10 @@ image: altynarashan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Arashan_River_in_Altyn_Arashan,_Kyrgyzstan.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Adam Harangozó
-heritage: 4.279
-vibrancy: 0.257
-nature: 7.517
-off_the_beaten_track: 6.541
+heritage: 4.839
+vibrancy: 0.282
+nature: 7.471
+off_the_beaten_track: 6.798
 ---
 
 Altyn-Arashan — "Golden Spa" in Kyrgyz — is a high valley about 40 kilometres east of [Karakol](/asia/kyrgyzstan/karakol), and one of the most rewarding destinations in the whole Issyk-Kul region. The valley floor sits at around 2,500 metres and is hemmed in on three sides by peaks exceeding 4,000 metres, including the glacier-draped Palatka (Tent) Peak that closes off the head of the valley. A clear river runs the length of it, and in summer the meadows are grazed by horses and dotted with the felt yurts of herding families.

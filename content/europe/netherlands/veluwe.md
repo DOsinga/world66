@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:De_Hoge_Veluwe_National_Pa
 latitude: 52.1
 loc_type: feature
 longitude: 5.9
-score: 5.425
+score: 5.417
 snippet: Broad Gelderland landscape of heath, forest, sand drifts, museums, and royal
   estates.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://www.visitveluwe.com/
 title: Veluwe
 type: location
-heritage: 1.901
-vibrancy: 1.661
-nature: 7.336
-off_the_beaten_track: 3.517
+heritage: 2.126
+vibrancy: 1.499
+nature: 7.32
+off_the_beaten_track: 3.53
 ---
 
 The Veluwe is the Netherlands at its least urban: a broad sweep of forest, heath, sand drifts, and old estates in Gelderland. It is not wilderness in the dramatic sense -- roads, villages, and cycle paths are never far away -- but in a country this densely settled, the space feels generous.

@@ -2,7 +2,7 @@
 latitude: 36.4407
 loc_type: feature
 longitude: -114.5131
-score: 5.687
+score: 5.538
 snippet: Blazing red sandstone formations an hour northeast of the Las Vegas Strip
 title: Valley of Fire State Park
 type: location
@@ -10,10 +10,10 @@ image: valley_of_fire.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Valley_of_Fire_State_Park,_Nevada,_2018-03_--1.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Zinneke
-heritage: 2.06
-vibrancy: 1.399
-nature: 7.754
-off_the_beaten_track: 3.475
+heritage: 2.181
+vibrancy: 1.439
+nature: 7.602
+off_the_beaten_track: 3.218
 ---
 
 Nevada's oldest and largest state park sits about 50 miles northeast of Las Vegas, and the drive alone — past the northern tip of Lake Mead — is worth the trip. The park covers 46,000 acres of Mojave Desert, but the stars of the show are the Aztec sandstone formations that glow in shades of red, pink, and orange, especially at sunrise and sunset, when the whole landscape seems to catch fire and gives the park its name.

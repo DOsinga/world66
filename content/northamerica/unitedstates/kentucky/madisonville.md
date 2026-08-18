@@ -5,15 +5,15 @@ done:
 latitude: 37.3281
 loc_type: city
 longitude: -87.4988
-score: 3.544
+score: 3.763
 snippet: Western Kentucky county seat shaped by coal mining, with a modest downtown
   and nearby Pennyrile forest
 title: Madisonville
 type: location
-heritage: 2.17
-vibrancy: 1.64
-nature: 4.574
-off_the_beaten_track: 2.997
+heritage: 2.523
+vibrancy: 1.622
+nature: 4.763
+off_the_beaten_track: 2.882
 ---
 
 Madisonville is the county seat of Hopkins County in western Kentucky, a small city that grew around coal mining and manufacturing. It sits in the Western Kentucky Coal Field region, and like many towns in this area, it has had to adapt as the coal industry contracted. The city has a modest downtown with a few historic buildings and serves as a regional centre for the surrounding rural area.

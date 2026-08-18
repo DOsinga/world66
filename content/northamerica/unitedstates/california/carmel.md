@@ -9,15 +9,15 @@ image_source: https://www.flickr.com/photos/41024804@N00/362240746
 latitude: 36.5552
 loc_type: city
 longitude: -121.9233
-score: 5.78
+score: 5.481
 snippet: Monterey Peninsula arts village known for white-sand beach, galleries, and
   fairytale cottage architecture.
 title: Carmel
 type: location
-heritage: 3.57
-vibrancy: 5.245
-nature: 6.425
-off_the_beaten_track: 1.856
+heritage: 3.162
+vibrancy: 4.768
+nature: 6.191
+off_the_beaten_track: 1.582
 ---
 
 Carmel-by-the-Sea is a small, artsy village on the Monterey Peninsula in California, known for its white-sand beach, its fairytale-cottage architecture, and its exceptional concentration of galleries and boutiques. The town has more art galleries per capita than almost anywhere in the United States — a legacy of the artists and writers, including Robinson Jeffers and Sinclair Lewis, who settled here in the early 20th century. Jeffers's Tor House, a stone tower he built by hand above the sea, is open for weekend tours and gives a vivid sense of the rugged, visionary character that once defined this coast.

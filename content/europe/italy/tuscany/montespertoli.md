@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:MontespertoliPanorama2.jpg
 latitude: 43.643672
 loc_type: city
 longitude: 11.075252
-score: 5.264
+score: 5.272
 snippet: Tuscan hill town southwest of Florence, set among Chianti vineyards between
   Florence and Val d'Elsa.
 title: Montespertoli
 type: location
-heritage: 5.463
-vibrancy: 4.151
-nature: 5.843
-off_the_beaten_track: 2.93
+heritage: 5.405
+vibrancy: 3.911
+nature: 5.88
+off_the_beaten_track: 2.894
 ---
 
 Montespertoli is a quiet Tuscan hill town about 30 kilometres southwest of Florence, sitting in the heart of the Chianti wine country. It is not a tourist destination in the usual sense — there are no blockbuster sights — but it is a fine base for exploring the rolling vineyard landscape between Florence and the Val d'Elsa.

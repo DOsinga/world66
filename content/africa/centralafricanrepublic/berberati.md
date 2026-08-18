@@ -4,15 +4,15 @@ done:
 latitude: 4.2612
 loc_type: city
 longitude: 15.7919
-score: 4.045
+score: 4.21
 title: Berbérati
 type: location
 snippet: Southwestern Central African Republic town, historically linked to diamond
   trading and forest routes.
-heritage: 1.746
-vibrancy: 1.312
-nature: 2.771
-off_the_beaten_track: 7.186
+heritage: 3.321
+vibrancy: 1.185
+nature: 2.188
+off_the_beaten_track: 7.25
 ---
 
 Berberati is the third largest city in the Central African Republic, set in the southwestern corner of the country where the savanna gives way to dense equatorial rainforest. It is the capital of the Mambere-Kadei prefecture and has historically been the center of the CAR's diamond trade — the surrounding region produces alluvial diamonds, and the industry, both formal and artisanal, shapes much of the local economy. The city has a rougher, more frontier feel than Bangui, but it also has a certain energy that comes from being a trading hub in a remote part of Central Africa.

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Locktender%27s_House,_Lock
 latitude: 40.3642
 loc_type: city
 longitude: -74.9514
-score: 5.409
+score: 5.002
 snippet: Delaware River arts town of galleries, canal walks, theatre, and weekend
   crowds opposite Lambertville.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Bucks_County_Playhouse
 title: New Hope
 type: location
-heritage: 5.16
-vibrancy: 5.545
-nature: 4.353
-off_the_beaten_track: 1.736
+heritage: 4.221
+vibrancy: 5.336
+nature: 4.057
+off_the_beaten_track: 1.846
 ---
 
 New Hope is the Bucks County river town that turns a simple walk into a full afternoon. It sits on the Pennsylvania side of the Delaware, directly across the bridge from [Lambertville](/northamerica/unitedstates/newjersey/lambertville), with a compact main street of galleries, old stone buildings, small theatres, antiques, and enough weekend traffic to remind you that [Philadelphia](/northamerica/unitedstates/pennsylvania/philadelphia) is not far away.

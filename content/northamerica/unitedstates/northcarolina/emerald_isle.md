@@ -2,7 +2,7 @@
 latitude: 34.6781
 loc_type: city
 longitude: -76.9508
-score: 4.845
+score: 4.77
 snippet: Family-oriented Crystal Coast beach town on the western end of Bogue Banks.
 sources:
 - https://en.wikivoyage.org/wiki/Emerald_Isle
@@ -11,10 +11,10 @@ sources:
 title: Emerald Isle
 type: location
 wikidata_id: Q1947381
-heritage: 2.551
-vibrancy: 3.648
-nature: 5.747
-off_the_beaten_track: 1.682
+heritage: 2.346
+vibrancy: 3.539
+nature: 5.684
+off_the_beaten_track: 1.588
 ---
 
 Emerald Isle is a low-key beach town at the western end of Bogue Banks, part of North Carolina's Crystal Coast. It is not a town of grand monuments or dense old streets. Its appeal is simpler: long Atlantic beach, Bogue Sound marshes, a fishing pier, and enough room to spend the day outside.

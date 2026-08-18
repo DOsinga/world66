@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: 38.6306
 longitude: 27.4222
-score: 5.669
+score: 5.24
 snippet: Aegean Turkish city of Ottoman prince-training mosques below myth-heavy Mount
   Sipylus.
 sources:
 - https://en.wikivoyage.org/wiki/Manisa
 - https://en.wikipedia.org/wiki/Manisa
-heritage: 7.517
-vibrancy: 2.935
-nature: 3.195
-off_the_beaten_track: 3.741
+heritage: 7.061
+vibrancy: 2.433
+nature: 2.774
+off_the_beaten_track: 3.667
 ---
 
 Manisa sits just inland from [Izmir](/asia/turkey/izmir), pressed against the lower slopes of Mount Sipylus. It is industrial now, and nobody should pretend otherwise, but the old centre still has enough Ottoman stonework and Anatolian myth to make a spare day here feel well spent.

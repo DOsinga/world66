@@ -2,7 +2,7 @@
 latitude: 54.7694
 longitude: 11.8739
 loc_type: city
-score: 4.101
+score: 4.338
 snippet: Falster's main market town, known for Czarens Hus where Peter the Great stayed
   in 1716, and medieval St. Catherine's Church.
 tags:
@@ -16,10 +16,10 @@ image: nykoebing_falster.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kirkepladsen,_Nyk%C3%B8bing_Falster_2022_1.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Smiley.toerist
-heritage: 3.79
-vibrancy: 2.371
-nature: 4.75
-off_the_beaten_track: 2.094
+heritage: 4.261
+vibrancy: 2.435
+nature: 4.918
+off_the_beaten_track: 2.096
 ---
 
 Nykøbing Falster is the main town on Falster and the largest settlement in the Guldborgsund municipality, sitting on the Guldborg Sound where the bridge connects the island to Lolland. It is a working market town rather than a tourist destination, but it has a compact historic centre worth an hour or two.

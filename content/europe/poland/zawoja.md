@@ -6,7 +6,7 @@ type: location
 loc_type: city
 latitude: 49.6588
 longitude: 19.5558
-score: 5.751
+score: 5.795
 wikidata: Q167783
 sources:
 - https://en.wikivoyage.org/wiki/Zawoja
@@ -18,10 +18,10 @@ image: zawoja.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gmina_Zawoja,_Poland_-_panoramio_(2).jpg
 image_license: CC BY-SA 3.0
 image_attribution: Artur Kozioł
-heritage: 4.416
-vibrancy: 1.628
-nature: 7.042
-off_the_beaten_track: 4.564
+heritage: 4.57
+vibrancy: 1.453
+nature: 7.045
+off_the_beaten_track: 5.023
 ---
 
 Zawoja is a long mountain village in southern Poland, stretched for many kilometres below Babia Gora in the Beskids. It is not a tidy postcard town. Its appeal is practical and physical: trailheads, forested slopes, weather that changes fast, and the feeling that the mountain is always just above the roofs.

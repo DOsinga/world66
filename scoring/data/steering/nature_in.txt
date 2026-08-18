@@ -6,7 +6,7 @@ africa/tanzania/serengetinationalpark	9.038	5	Serengeti National Park	Africa, Ta
 northamerica/unitedstates/alaska/denalipark	9.037	6	Denali National Park	North America, United States, Alaska
 asia/nepal/annapurna	9.010	7	Annapurna Region	Asia, Nepal
 europe/italy/dolomites	8.992	8	Dolomites	Europe, Italy
-europe/spain/northernspain/picosdeeuropa	8.991	9	Picos de Europa	Europe, Spain, Northern Spain
+europe/spain/asturias/picosdeeuropa	8.991	9	Picos de Europa	Europe, Spain, Northern Spain
 australiaandpacific/frenchpolynesia/borabora	8.986	10	Bora Bora	Australia, Pacific & Antarctica, French Polynesia
 europe/norway/lofotenislands/svolvr_the_capi	8.975	11	Svolvær	Europe, Norway, Lofoten islands
 africa/southafrica/gardenroute/wilderness	8.965	12	Wilderness	Africa, South Africa, Garden Route
@@ -55,7 +55,7 @@ africa/southafrica/stlucia	8.806	54	St Lucia	Africa, South Africa
 asia/pakistan/gilgit	8.806	55	Gilgit	Asia, Pakistan
 asia/pakistan/deosai	8.804	56	Deosai National Park	Asia, Pakistan
 europe/norway/sognefjorden	8.804	57	Sognefjorden	Europe, Norway
-asia/indonesia/komodo_island	8.799	58	Komodo Island	Asia, Indonesia
+asia/indonesia/flores/komodo	8.799	58	Komodo Island	Asia, Indonesia
 europe/switzerland/zermatt	8.790	59	Zermatt	Europe, Switzerland
 asia/pakistan/hunzavalley/gojal_valley/khyber	8.789	60	Khyber	Asia, Pakistan, Hunza valley, Gojal Valley
 southamerica/chile/puerto_natales	8.786	61	Puerto Natales	South America, Chile
@@ -76,13 +76,13 @@ europe/finland/kilpisjarvi	8.766	75	Kilpisjärvi	Europe, Finland
 northamerica/unitedstates/california/highsierra/yosemite	8.765	76	Yosemite	North America, United States, California, High Sierra
 southamerica/brazil/chapada_dos_veadeiros	8.764	77	Chapada dos Veadeiros	South America, Brazil
 asia/china/hubei/shennongjia	8.763	78	Shennongjia	Asia, China, Hubei Province
-asia/thailand/phangngabay	8.761	79	Phang Nga Bay	Asia, Thailand
+asia/thailand/andamancoast/phangngabay	8.761	79	Phang Nga Bay	Asia, Thailand
 europe/finland/saariselk	8.761	80	Saariselkä	Europe, Finland
 northamerica/canada/nunavut/auyuittuq	8.761	81	Auyuittuq National Park	North America, Canada, Nunavut
 australiaandpacific/newzealand/abeltasmannationalpark	8.760	82	Abel Tasman National Park	Australia, Pacific & Antarctica, New Zealand
 northamerica/unitedstates/california/highsierra/monolake	8.758	83	Mono Lake	North America, United States, California, High Sierra
 africa/kenya/centralhighlands/chogoria_route	8.757	84	Chogoria Route	Africa, Kenya, Central Highlands
-asia/japan/ryukyuislands/iriomoteisland	8.756	85	Iriomote Island	Asia, Japan, Ryukyu islands
+asia/japan/okinawa/iriomoteisland	8.756	85	Iriomote Island	Asia, Japan, Ryukyu islands
 asia/china/qinghai/hoh-xil	8.753	86	Hoh Xil	Asia, China, Qinghai Province
 asia/kazakhstan/khan_tengri	8.753	87	Khan Tengri	Asia, Kazakhstan
 asia/maldives/male_atoll/male	8.753	88	Malé	Asia, Maldives, Malé Atoll

@@ -5,7 +5,7 @@ loc_type: city
 latitude: 33.1833
 longitude: 129.8833
 wikidata: Q668427
-score: 5.403
+score: 5.611
 snippet: Kyushu pottery town where Japan's porcelain story still shapes shrines, museums,
   kilns, and shopfronts.
 sources:
@@ -17,10 +17,10 @@ image: arita.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Tozan_Shrine_09_April_2011_04.jpg
 image_license: CC BY-SA 3.0
 image_attribution: STA3816
-heritage: 6.463
-vibrancy: 4.217
-nature: 2.741
-off_the_beaten_track: 1.31
+heritage: 6.647
+vibrancy: 4.511
+nature: 3.4
+off_the_beaten_track: 1.525
 ---
 
 *Asia > Japan > Kyushu > Arita*

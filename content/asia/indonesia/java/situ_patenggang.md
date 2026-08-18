@@ -2,7 +2,7 @@
 latitude: -7.1655
 loc_type: feature
 longitude: 107.364
-score: 4.589
+score: 4.6
 snippet: Highland lake ringed by tea plantations in the Ciwidey valley south of Bandung
 title: Situ Patenggang
 type: location
@@ -10,10 +10,10 @@ image: situ_patenggang.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Boats_at_Situ_Patenggang_Lake,_2014-08-21.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Crisco 1492
-heritage: 3.215
-vibrancy: 1.933
-nature: 5.75
-off_the_beaten_track: 2.87
+heritage: 3.427
+vibrancy: 1.826
+nature: 5.677
+off_the_beaten_track: 2.982
 ---
 
 Situ Patenggang (also spelled Situ Patengan) is a peaceful crater-rimmed lake about 50km southwest of Bandung, in the Rancabali tea-estate country of the Ciwidey valley. It sits at roughly 1,600 metres, so the air stays cool and the surface is usually unruffled even in the afternoons. Rowboats and paddle boats are for hire by the hour, and a small wooden bridge crosses to a tiny island near the middle of the lake. The water is dark and glassy, and on a clear morning the surrounding rows of tea bushes reflect across it.

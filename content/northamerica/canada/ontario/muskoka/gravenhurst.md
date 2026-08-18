@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 44.9196
 longitude: -79.3742
-score: 5.029
+score: 5.061
 snippet: Muskoka lake town of steamships, wooden boats, theatre, and Norman Bethune's
   birthplace.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Gravenhurst,_Ontario
 - https://realmuskoka.com/
 - https://parks.canada.ca/lhn-nhs/on/bethune
-heritage: 3.553
-vibrancy: 2.983
-nature: 6.289
-off_the_beaten_track: 2.431
+heritage: 3.148
+vibrancy: 3.235
+nature: 6.281
+off_the_beaten_track: 2.46
 ---
 
 Gravenhurst is the southern gateway to [Muskoka](/northamerica/canada/ontario/muskoka), but it is not just a sign on the highway north. The town sits on Lake Muskoka with a waterfront built around steamship cruises, wooden boats, summer theatre, and the birthplace of Dr Norman Bethune.

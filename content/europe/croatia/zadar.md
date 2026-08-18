@@ -9,15 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Church_of_St._Donat_-_Zada
 latitude: 44.116859
 loc_type: city
 longitude: 15.235326
-score: 6.001
+score: 5.548
 snippet: Ancient Dalmatian coastal city where Roman streets meet wave-powered waterfront
   art.
+tags:
+- dalmatia
 title: Zadar
 type: location
-heritage: 5.124
-vibrancy: 6.14
-nature: 5.642
-off_the_beaten_track: 1.569
+heritage: 4.699
+vibrancy: 5.607
+nature: 5.394
+off_the_beaten_track: 1.491
 ---
 
 Zadar is a 3,000-year-old city on the Dalmatian coast, and for centuries it was the capital of the entire region. The old town sits on a narrow peninsula, still laid out on its ancient Roman street grid. A [Roman forum](/europe/croatia/zadar/roman_forum) — the largest on the eastern Adriatic — anchors the center, and the 9th-century [Church of St. Donatus](/europe/croatia/zadar/church_of_st_donatus) stands beside it, a round pre-Romanesque structure that has become the city's signature landmark.

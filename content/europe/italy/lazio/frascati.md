@@ -5,7 +5,7 @@ done:
 latitude: 41.808245
 loc_type: city
 longitude: 12.680368
-score: 5.184
+score: 4.97
 snippet: Castelli Romani hill town above Rome, known for Renaissance villas, broad
   views, and Frascati white wine.
 sources:
@@ -14,10 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Frascati_Cathedral
 title: Frascati
 type: location
-heritage: 5.585
-vibrancy: 5.071
-nature: 2.876
-off_the_beaten_track: 1.748
+heritage: 5.419
+vibrancy: 4.838
+nature: 3.387
+off_the_beaten_track: 1.997
 ---
 
 Frascati is the most visited of the Castelli Romani hill towns, perched in the Alban Hills about 20 kilometres south-east of Rome. It has been a retreat from the city heat since ancient times — the Romans called the area *Tusculanum* — and the legacy is a string of Renaissance and Baroque villas with extraordinary gardens. Today it is best known for its white wine, [Frascati DOC](/europe/italy/lazio/frascati/frascati_doc_wine), which you can drink directly from the source.

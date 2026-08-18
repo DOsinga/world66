@@ -9,17 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:0_Mons_-_H%C3%B4tel_de_vil
 latitude: 50.455
 loc_type: city
 longitude: 3.952
-score: 5.253
+score: 4.881
 snippet: Hainaut capital with a hilltop old centre, Sainte-Waudru heritage, and Belgium's
   only baroque belfry.
 sources:
 - https://en.wikipedia.org/wiki/Mons
 title: Mons
 type: location
-heritage: 6.851
-vibrancy: 2.534
-nature: 3.299
-off_the_beaten_track: 2.209
+heritage: 6.365
+vibrancy: 2.436
+nature: 3.067
+off_the_beaten_track: 2.287
 ---
 
 Mons (Bergen in Flemish) is the capital of Hainaut, the French-speaking province in Belgium's southwest. It sits on a small hill about 50 kilometres from [Brussels](/europe/belgium/brussels), and is one of those Belgian cities that tourists often skip in favour of [Bruges](/europe/belgium/bruges) or [Ghent](/europe/belgium/ghent) — unfairly, because Mons has a beautiful old centre, a rich history, and a cultural scene that earned it the title of European Capital of Culture in 2015.

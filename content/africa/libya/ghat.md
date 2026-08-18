@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Medina_ghat.jpg
 latitude: 24.9626
 loc_type: city
 longitude: 10.1797
-score: 4.497
+score: 4.34
 snippet: Libyan oasis town in Tuareg country, near old caravan routes and Tadrart
   Acacus rock art
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://whc.unesco.org/en/list/287
 title: Ghat
 type: location
-heritage: 4.528
-vibrancy: 1.724
-nature: 4.944
-off_the_beaten_track: 6.641
+heritage: 4.575
+vibrancy: 1.495
+nature: 4.765
+off_the_beaten_track: 6.428
 ---
 
 Ghat is an oasis town on Libya's far south-western edge, close to Algeria and deep in Tuareg country. It sits where old Sahara caravan routes once threaded between the dunes, the Acacus Mountains, and the Tassili n'Ajjer beyond the border.

@@ -5,15 +5,15 @@ done:
 latitude: -11.831382
 loc_type: city
 longitude: 34.169301
-score: 4.491
+score: 5.042
 snippet: Lake Malawi beach settlement south of Nkhata Bay, backed by rubber plantations
   and sandy shorelines
 title: Chintheche
 type: location
-heritage: 2.084
-vibrancy: 1.936
-nature: 5.445
-off_the_beaten_track: 4.966
+heritage: 2.218
+vibrancy: 2.337
+nature: 6.231
+off_the_beaten_track: 5.192
 ---
 
 Chintheche is situated approximately half way up Lake Malawi, 40 km south of Nkhata Bay.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:LAKE_ELMENTEITA.jpg
 latitude: -0.44175
 loc_type: city
 longitude: 36.246022
-score: 5.609
+score: 5.668
 snippet: Rift Valley soda lake where flamingos gather and walkers reach open shoreline
   without park gates.
 title: Lake Elmenteita
 type: location
-heritage: 2.243
-vibrancy: 2.75
-nature: 7.365
-off_the_beaten_track: 3.69
+heritage: 2.03
+vibrancy: 2.667
+nature: 7.497
+off_the_beaten_track: 3.34
 ---
 
 Lake Elmenteita is a shallow soda lake in the Rift Valley, sitting between [Lake Nakuru](/africa/kenya/nationalparksandreserves/lakenakurunp) and [Lake Naivasha](/africa/kenya/lakes/lakenaivasha) along the floor of the Great Rift. It is part of the Kenya Lake System UNESCO World Heritage Site and one of the less-visited lakes in the valley, which is precisely its appeal. Flamingos frequent the alkaline waters, though not in the vast numbers you will see at Lake Nakuru or Lake Bogoria.

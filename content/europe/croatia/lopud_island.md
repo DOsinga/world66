@@ -2,17 +2,23 @@
 done:
   location_cleanup: '2026-04-10'
 latitude: 42.685867
-loc_type: region
+loc_type: island
 longitude: 17.950775
-score: 0.6
+score: 5.532
 snippet: Car-free Elafiti island near Dubrovnik, known for Šunj Beach, monastery ruins,
   and a palm-lined waterfront.
+tags:
+- dalmatia
 title: Lopud Island
 type: location
 image: lopud_island.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Harbour_Lopud.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Unknown
+heritage: 3.716
+vibrancy: 1.952
+nature: 7.0
+off_the_beaten_track: 3.424
 ---
 
 Lopud is the middle island of the Elafiti archipelago, lying between Kolocep and Sipan about 12 kilometres northwest of [Dubrovnik](/europe/croatia/dubrovnik). It is small enough to walk across in an hour — no cars are allowed on the island — and quiet enough that you can escape the summer crowds of the city entirely.

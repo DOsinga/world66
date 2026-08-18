@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Galle_Fort.jpg
 latitude: 6.032814
 loc_type: city
 longitude: 80.214955
-score: 4.522
+score: 4.292
 snippet: Sri Lankan coastal city centred on a well-preserved seventeenth-century Dutch
   fort.
 title: Galle
 type: location
-heritage: 5.035
-vibrancy: 4.29
-nature: 4.566
-off_the_beaten_track: 2.952
+heritage: 4.688
+vibrancy: 4.102
+nature: 4.665
+off_the_beaten_track: 3.112
 ---
 
 Galle is the best-preserved colonial town in Sri Lanka, dominated by its massive [Dutch Fort](/asia/srilanka/galle/galle_fort) — a UNESCO World Heritage Site built in the seventeenth century and still remarkably intact. The fort occupies a rocky headland at the southern tip of the city, its ramparts enclosing a grid of quiet streets lined with Dutch colonial buildings, old churches, mosques, and increasingly stylish boutique hotels and cafes.

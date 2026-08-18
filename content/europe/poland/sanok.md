@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 49.5604
 longitude: 22.2052
-score: 4.226
+score: 3.969
 snippet: Bieszczady foothills town with a major open-air museum and Zdzislaw Beksinski's
   darkest paintings.
 sources:
@@ -14,10 +14,10 @@ image: sanok.jpg
 image_source: https://commons.wikimedia.org/wiki/File:San_and_Sanok_Castle_in_April_2013.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Jakub Hałun
-heritage: 4.904
-vibrancy: 1.944
-nature: 4.029
-off_the_beaten_track: 3.175
+heritage: 4.511
+vibrancy: 2.022
+nature: 3.999
+off_the_beaten_track: 3.03
 ---
 
 Sanok sits on the San River in southeastern Poland, where the country starts to lift toward the Bieszczady Mountains. It is a small town, but not a thin one: castles, churches, wooden village architecture, and the strange, unsettling art of Zdzislaw Beksinski all sit within an easy day on foot.

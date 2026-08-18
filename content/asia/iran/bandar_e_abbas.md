@@ -5,15 +5,15 @@ done:
 latitude: 27.190194
 loc_type: city
 longitude: 56.284221
-score: 4.989
+score: 4.951
 snippet: Persian Gulf port city on the Strait of Hormuz, linking mainland Iran with
   Qeshm and Hormuz.
 title: Bandar Abbas
 type: location
-heritage: 4.441
-vibrancy: 5.059
-nature: 4.809
-off_the_beaten_track: 2.84
+heritage: 4.09
+vibrancy: 4.996
+nature: 4.833
+off_the_beaten_track: 2.909
 ---
 
 Bandar Abbas is Iran's main port on the Strait of Hormuz, a hot, humid, and sprawling city that most travellers pass through on their way to somewhere else — usually the islands of Qeshm or Hormuz, both reachable by ferry from the harbour. The city itself is not beautiful, but it has a raw energy and a cultural mix that sets it apart from Iran's interior cities. The population includes Arabs, Baluchis, and people from across the Persian Gulf, and the bazaar near the waterfront reflects this with spices, textiles, and goods from Dubai and Oman.

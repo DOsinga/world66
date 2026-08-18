@@ -1,0 +1,41 @@
+---
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-05
+  location_enrich: '2026-06-01'
+  major_city_neighborhoods: '2026-06-14'
+image: kyoto.jpg
+image_attribution: 663highland
+image_license: CC BY 2.5
+image_source: https://commons.wikimedia.org/wiki/File:150124_Gion_Kyoto_Japan01s3.jpg
+latitude: 35.011575
+loc_type: city
+longitude: 135.768144
+quick_facts:
+  Geisha Quarter: Gion
+  Imperial Capital: 794–1868
+  Spared the A-Bomb: Struck off the target list
+  Temples & Shrines: 2,000 total
+score: 7.666
+snippet: Japan’s old imperial capital, dense with Buddhist temples, Shintō shrines,
+  craft traditions, and geisha quarters
+tip: 'Kyoto''s two subway lines barely scratch the city — the temples and the old
+  geisha quarters are linked by buses, not trains, so buy an all-day bus pass. Hit
+  the famous sights right at opening: Fushimi Inari and Kinkaku-ji are magic before
+  8am with empty gravel courtyards, and unbearable by mid-morning when the tour coaches
+  arrive in waves.'
+title: Kyoto
+type: location
+heritage: 8.369
+vibrancy: 7.457
+nature: 5.272
+off_the_beaten_track: 1.659
+---
+
+For more than a thousand years — from 794 until the Meiji Restoration of 1868 — Kyoto was the capital of Japan and the seat of its emperors. It survived the Second World War almost unscathed (the city was famously removed from the atomic-bomb target list on the insistence of the American Secretary of War, who had honeymooned there), and what you see today is the closest thing Japan has to a living museum of its own civilisation. There are over 1,600 **Buddhist temples** and around 400 **Shintō shrines** inside the city limits, along with seventeen UNESCO World Heritage Sites, an intact geisha quarter, and a thriving tradition of traditional crafts — lacquerware, kimono weaving, ceramics, sword-making, tea.
+
+First-time visitors spend their days walking between temples. [Kinkaku-ji](/asia/japan/kansai/kyoto/kinkakuji), the Golden Pavilion, is the cliché postcard but deserves every bit of its fame; [Ginkaku-ji](/asia/japan/kansai/kyoto/ginkakuji) (the "Silver" Pavilion, which isn't actually silver) sits at the north end of the [Philosopher's Path](/asia/japan/kansai/kyoto/philosophers_walk), which follows a cherry-tree-lined canal for two kilometres to the southern temples; [Ryōan-ji](/asia/japan/kansai/kyoto/ryoanji) holds the most famous dry-garden *karesansui* in Japan; [Kiyomizu-dera](/asia/japan/kansai/kyoto/kiyomizudera), on the east side, is built on a wooden platform projecting out over the hillside and offers the best view of the city; and the long tunnels of vermilion *torii* gates at [Fushimi Inari-taisha](/asia/japan/kansai/kyoto/fushimi_inari), south of the station, may be the most photographed single location in Japan. This is only the beginning.
+
+The city itself was laid out on a grid copied from Tang-dynasty Chang'an (modern Xi'an), and the grid still makes it easy to orient yourself. The [Higashiyama](/asia/japan/kansai/kyoto/higashiyama) district on the east side has the densest concentration of old neighbourhoods — lantern-lit stone lanes, wooden machiya townhouses, and small temples tucked between them. Across the Kamo River, [Gion](/asia/japan/kansai/kyoto/gion) is the historic geisha quarter and a place where, if you are patient and lucky, you can still see a real *geiko* or *maiko* hurrying between appointments at dusk. The food is as serious as the architecture: this is the home of *kaiseki* cuisine, the most refined multi-course tradition in Japanese cooking, and the alleys north of Shijō and along [Pontochō](/asia/japan/kansai/kyoto/ponto_cho) hide some of the best places to eat in the country.
+
+Come in late March or early April for cherry blossom, or in mid-November for autumn leaves, but be prepared for crowds of unimaginable density at those times. Come in winter or in the summer heat for a quieter, stranger, more private Kyoto.

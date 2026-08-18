@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:AsyutSalamTaggatLibrary.jp
 latitude: 27.183282
 loc_type: city
 longitude: 31.185384
-score: 4.771
+score: 4.846
 snippet: Upper Egyptian Nile city and commercial hub near Coptic monasteries and cliffside
   tombs
 title: Asyut
 type: location
-heritage: 5.748
-vibrancy: 3.398
-nature: 1.806
-off_the_beaten_track: 5.767
+heritage: 5.932
+vibrancy: 2.535
+nature: 1.792
+off_the_beaten_track: 5.555
 ---
 
 Asyut is Egypt's largest city in Upper Egypt outside of Luxor, sitting on the west bank of the Nile about 380 km south of Cairo. It's primarily a transport and commercial hub rather than a tourist destination, but it does have some points of interest for those passing through.

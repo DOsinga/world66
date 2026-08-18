@@ -10,15 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cambridge_-_Kings_College_
 latitude: 52.205531
 loc_type: city
 longitude: 0.118664
-score: 5.333
+score: 6.505
 snippet: English university city on the River Cam, where medieval colleges meet the
   science parks of Silicon Fen.
 title: Cambridge
 type: location
-heritage: 6.32
-vibrancy: 4.283
-nature: 2.528
-off_the_beaten_track: 0.958
+heritage: 7.226
+vibrancy: 6.205
+nature: 3.55
+off_the_beaten_track: 0.932
 ---
 
 Cambridge is one of the two great English university cities, a small market town of about 145,000 people on the River Cam roughly 80 km north of London. The university was founded in 1209 by scholars fleeing a riot in Oxford, and for the eight centuries since then it has produced more Nobel laureates than almost any other institution on earth — Newton, Darwin, Rutherford, Crick and Watson, Turing, Hawking, and so on. Today Cambridge is a curious mixture of the 16th century and the 21st: medieval stone courtyards and punts drifting under willow trees, and, a mile up the road on the Madingley Road, the enormous science parks and biotech startups that have earned the region the nickname "Silicon Fen".

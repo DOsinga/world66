@@ -5,14 +5,14 @@ done:
 latitude: 45.580451
 loc_type: city
 longitude: 12.3705
-score: 3.772
+score: 3.755
 snippet: Veneto transit town near Venice, sitting beside the Roman site of Altinum.
 title: Quarto D'Altino
 type: location
-heritage: 4.346
-vibrancy: 2.758
-nature: 3.667
-off_the_beaten_track: 1.62
+heritage: 4.335
+vibrancy: 2.833
+nature: 3.633
+off_the_beaten_track: 1.661
 ---
 
 Quarto d'Altino is a small town in the Veneto, about 15 minutes by train from Venice and a few kilometres from Marco Polo International Airport. For most visitors it functions purely as a transit point, but the town has an ancient history worth knowing.

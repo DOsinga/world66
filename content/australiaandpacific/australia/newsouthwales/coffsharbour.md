@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-15'
 latitude: -30.296241
 longitude: 153.113529
-score: 5.309
+score: 5.218
 title: Coffs Harbour
 snippet: Mid-north coast city between Sydney and Brisbane, backed by bananas and the
   Solitary Islands Marine Park.
@@ -13,10 +13,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Coffs_Harbour_IMG_4379_-_p
 image_license: CC BY 3.0
 image_attribution: Paul Lakin
 loc_type: city
-heritage: 3.433
-vibrancy: 4.608
-nature: 6.003
-off_the_beaten_track: 2.404
+heritage: 2.836
+vibrancy: 4.429
+nature: 5.948
+off_the_beaten_track: 2.187
 ---
 
 Coffs Harbour sits roughly halfway between Sydney and Brisbane on the New South Wales mid-north coast, a position that has made it a natural stopping point on the Pacific Highway for decades. The town itself is unpretentious — a working banana-growing region with a fishing harbour and a long stretch of beaches running north and south.

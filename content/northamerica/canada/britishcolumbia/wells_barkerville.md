@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 53.1017
 longitude: -121.5756
-score: 5.555
+score: 6.014
 snippet: Cariboo gold-rush base with a restored boomtown, mountain arts scene, and
   canoe country nearby.
 sources:
@@ -13,10 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Bowron_Lake_Provincial_Park
 - https://www.wells.ca/residents/community-directory/shops-galleries/island-mountain-arts
 - https://www.sunset-theatre.com/our-history
-heritage: 5.558
-vibrancy: 2.37
-nature: 6.254
-off_the_beaten_track: 5.655
+heritage: 5.965
+vibrancy: 2.395
+nature: 6.793
+off_the_beaten_track: 4.863
 ---
 
 Wells-Barkerville is a small Cariboo pairing: Wells, the old mining town where people stay and make art, and Barkerville, the restored gold-rush town just up the road. It sits east of Quesnel near the Cariboo Mountains, far enough from the main highways to feel like a deliberate detour.

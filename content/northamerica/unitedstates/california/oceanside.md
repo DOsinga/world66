@@ -5,17 +5,17 @@ done:
 latitude: 33.19587
 loc_type: city
 longitude: -117.379483
-score: 5.171
+score: 5.687
 snippet: San Diego County surf city with a long Pacific pier, Camp Pendleton ties,
   and a growing downtown.
 sources:
 - https://en.wikipedia.org/wiki/Oceanside,_California
 title: Oceanside
 type: location
-heritage: 1.996
-vibrancy: 4.531
-nature: 5.825
-off_the_beaten_track: 1.156
+heritage: 2.592
+vibrancy: 4.512
+nature: 6.635
+off_the_beaten_track: 1.015
 ---
 
 Oceanside is a surf town and military city on the San Diego County coast, about 40 miles north of the city. For most of the 20th century it was known primarily as the gateway to [Marine Corps Base Camp Pendleton](/northamerica/unitedstates/california/oceanside/camp_pendleton) and not much else. That has changed — the downtown area around the [Oceanside Pier](/northamerica/unitedstates/california/oceanside/oceanside_pier) has developed a genuine restaurant and arts scene, and the [California Surf Museum](/northamerica/unitedstates/california/oceanside/california_surf_museum) is one of the best of its kind anywhere.

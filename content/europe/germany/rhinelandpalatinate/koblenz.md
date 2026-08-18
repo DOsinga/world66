@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:FGS_Marksburg_in_Koblenz_(
 latitude: 50.353328
 loc_type: city
 longitude: 7.594395
-score: 6.318
+score: 6.099
 snippet: Rhine city at the Deutsches Eck, where the Moselle meets the Rhine below
   Ehrenbreitstein Fortress.
 title: Koblenz
 type: location
-heritage: 7.299
-vibrancy: 5.456
-nature: 4.962
-off_the_beaten_track: 1.929
+heritage: 6.992
+vibrancy: 5.378
+nature: 5.383
+off_the_beaten_track: 1.688
 ---
 
 Koblenz sits at one of the great geographical confluences of Europe: the Deutsches Eck, or German Corner, where the Moselle flows into the Rhine. It is a natural crossroads, and has been occupied continuously since Roman times. The city was bombed heavily in the Second World War and much of the old town was rebuilt, but it retains its dramatic setting — the fortress of Ehrenbreitstein on the opposite bank of the Rhine is one of the largest preserved fortresses in Europe, and offers views over the confluence that explain why every army in history wanted to hold this spot.

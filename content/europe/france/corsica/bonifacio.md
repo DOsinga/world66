@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bonifacio.jpg
 latitude: 41.3868
 loc_type: city
 longitude: 9.1569
-score: 6.235
+score: 6.044
 snippet: South Corsican cliff town with a medieval citadel above the Strait of Bonifacio.
 sources:
 - https://en.wikivoyage.org/wiki/Bonifacio
@@ -17,10 +17,10 @@ sources:
 title: Bonifacio
 type: location
 wikidata: Q204051
-heritage: 5.894
-vibrancy: 5.502
-nature: 7.006
-off_the_beaten_track: 4.0
+heritage: 4.953
+vibrancy: 5.127
+nature: 6.89
+off_the_beaten_track: 3.829
 ---
 
 Bonifacio is the dramatic finish to southern [Corsica](/europe/france/corsica): a harbour tucked into a narrow inlet, then a medieval upper town balanced on white limestone cliffs. It is one of those places where the setting does half the work before you have even entered a church or museum.

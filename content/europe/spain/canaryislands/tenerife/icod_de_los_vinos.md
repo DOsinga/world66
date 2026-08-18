@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: 28.3667
 longitude: -16.7167
-score: 5.364
+score: 5.244
 snippet: Northwest Tenerife wine town built around the island's famous ancient dragon
   tree.
 sources:
 - https://en.wikivoyage.org/wiki/Icod_de_los_Vinos
 - https://www.webtenerife.co.uk/what-see/gardens-and-parks/parque-del-drago/
 - https://cuevadelviento.net/en/home/
-heritage: 4.617
-vibrancy: 2.808
-nature: 6.357
-off_the_beaten_track: 2.412
+heritage: 4.346
+vibrancy: 3.147
+nature: 6.286
+off_the_beaten_track: 2.263
 ---
 
 Icod de los Vinos is one of the better reasons to leave Tenerife's beach resorts for the greener north-west. It is a wine town first, a tourist stop second, with steep streets, old Canarian houses, banana plots, and the famous dragon tree that has become one of the island's symbols.

@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: 41.13056
 longitude: -85.12889
-score: 3.143
+score: 2.925
 snippet: Northeastern Indiana city with river history, a strong zoo, museums, gardens,
   and a revived downtown.
 wikidata: Q49268
 sources:
 - https://en.wikivoyage.org/wiki/Fort_Wayne
 - https://www.visitfortwayne.com/
-heritage: 2.523
-vibrancy: 2.921
-nature: 3.46
+heritage: 2.64
+vibrancy: 2.841
+nature: 3.142
 off_the_beaten_track: 1.04
 ---
 

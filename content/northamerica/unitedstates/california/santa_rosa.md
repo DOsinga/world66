@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Comstock_House,_Santa_Rosa
 latitude: 38.440492
 loc_type: city
 longitude: -122.714105
-score: 5.297
+score: 5.258
 title: Santa Rosa
 type: location
 snippet: Sonoma County's largest city, a practical wine-country base with Peanuts
   heritage and nearby redwood parks.
-heritage: 3.231
-vibrancy: 4.97
-nature: 5.808
-off_the_beaten_track: 1.902
+heritage: 2.892
+vibrancy: 4.593
+nature: 5.93
+off_the_beaten_track: 1.807
 ---
 
 Santa Rosa is the largest city in California's North Bay and the county seat of Sonoma County, sitting 55 miles north of San Francisco at the heart of Sonoma's wine country. It is not, in itself, a picture-postcard destination — much of the historic downtown was lost first to the 1906 earthquake and then to mid-century redevelopment — but it makes an excellent base for exploring the surrounding vineyards, redwood parks, and Pacific coast, and it has a handful of genuinely good small museums of its own.

@@ -11,15 +11,15 @@ image_source: https://www.flickr.com/photos/22168167@N00/4035612169
 latitude: 5.3204
 loc_type: city
 longitude: -4.0161
-score: 5.892
+score: 6.451
 snippet: Côte d'Ivoire's economic capital, spread around Ébrié Lagoon with modernist
   landmarks and dense markets.
 title: Abidjan
 type: location
-heritage: 5.057
-vibrancy: 6.254
-nature: 3.359
-off_the_beaten_track: 2.68
+heritage: 5.896
+vibrancy: 6.711
+nature: 4.356
+off_the_beaten_track: 2.582
 ---
 
 Abidjan is the economic capital of Côte d'Ivoire, a city of contrasts with a population of around 4 million. [Le Plateau](/africa/ivorycoast/abidjan/le_plateau), the central business district on a peninsula in the Ébrié Lagoon, has one of the most striking skylines in West Africa — glass towers, wide boulevards, and modernist landmarks like [La Pyramide](/africa/ivorycoast/abidjan/la_pyramide) and [St Paul's Cathedral](/africa/ivorycoast/abidjan/st_pauls_cathedral) that reflect the ambitions of post-independence Ivory Coast. [Cocody](/africa/ivorycoast/abidjan/cocody) and Les Deux Plateaux, to the north, are where the wealthy Ivorian middle class and expatriate community live, in guarded compounds with well-tended gardens.

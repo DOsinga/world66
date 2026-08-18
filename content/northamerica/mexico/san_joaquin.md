@@ -5,7 +5,7 @@ loc_type: city
 latitude: 20.9141
 longitude: -99.5623
 wikidata: Q3849478
-score: 4.545
+score: 4.143
 snippet: Sierra Gorda Pueblo Mágico with hilltop ruins, limestone caves, forest parks,
   and huapango music.
 sources:
@@ -13,10 +13,10 @@ sources:
 - https://www.wikidata.org/wiki/Q3849478
 - https://queretaro.travel/lugares/saint-joaquin/?lang=en
 - https://lugares.inah.gob.mx/en/node/4355
-heritage: 5.201
-vibrancy: 3.821
-nature: 4.499
-off_the_beaten_track: 3.631
+heritage: 4.691
+vibrancy: 3.711
+nature: 4.217
+off_the_beaten_track: 3.722
 ---
 
 San Joaquín sits high in the Sierra Gorda of Querétaro, a cool mountain town where the air is sharper than in the Bajío plains below. It is one of Mexico's Pueblos Mágicos, but the draw is not a polished colonial centre. The reason to come is the landscape around town: forested hills, caves, and pre-Hispanic ruins tied to old mining and trade routes.

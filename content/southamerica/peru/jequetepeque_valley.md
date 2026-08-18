@@ -2,15 +2,15 @@
 latitude: -7.3121
 loc_type: feature
 longitude: -79.3267
-score: 4.86
+score: 5.147
 snippet: Ancient agricultural valley rising east of Pacasmayo, dotted with pre-Columbian
   sites and capped by the Gallito Ciego reservoir.
 title: Jequetepeque Valley
 type: location
-heritage: 3.922
-vibrancy: 2.575
-nature: 5.871
-off_the_beaten_track: 5.377
+heritage: 3.803
+vibrancy: 2.723
+nature: 6.303
+off_the_beaten_track: 5.49
 ---
 
 The Jequetepeque Valley stretches east from the Pacific coast at [Pacasmayo](/southamerica/peru/pacasmayo), following the river inland through rice paddies, sugar cane, and eventually the foothills of the Andes. The valley was one of the most densely populated stretches of pre-Columbian coastal Peru — a highly productive agricultural zone that supported successive cultures from the Formative period through the Moche, Lambayeque (Sican), and Chimú. Archaeological sites dot the valley floor; many are unexcavated and virtually unknown to visitors, their adobe walls eroding quietly back into the desert.

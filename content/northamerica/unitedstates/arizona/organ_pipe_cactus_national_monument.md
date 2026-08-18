@@ -3,7 +3,7 @@ done:
   location_cleanup: '2026-04-08'
 latitude: 32.008175
 longitude: -112.875184
-score: 6.228
+score: 6.111
 tags:
 - things_to_do
 - sight
@@ -12,10 +12,10 @@ type: location
 loc_type: feature
 snippet: Sonoran Desert monument protecting organ pipe cactus at the species' northern
   United States limit.
-heritage: 1.931
-vibrancy: 1.085
-nature: 8.142
-off_the_beaten_track: 4.952
+heritage: 2.863
+vibrancy: 1.074
+nature: 7.936
+off_the_beaten_track: 5.033
 ---
 
 Organ Pipe Cactus National Monument is a biosphere reserve in the Sonoran Desert, set aside to protect species found nowhere else in the [United States](/northamerica/unitedstates). The organ pipe cactus itself — a multi-armed columnar cactus that can grow to seven metres — reaches its northern limit here. Saguaro, cholla, palo verde and ironwood fill the landscape alongside it.

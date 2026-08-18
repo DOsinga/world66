@@ -10,15 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Barkhor_in_Lhasa_(Tibet)_2
 latitude: 29.654205
 loc_type: city
 longitude: 91.117301
-score: 7.374
+score: 7.239
 snippet: High Tibetan capital where the Potala Palace and Barkhor pilgrimage circuit
   anchor a mountain city
 title: Lhasa
 type: location
-heritage: 8.976
-vibrancy: 3.596
-nature: 6.082
-off_the_beaten_track: 4.642
+heritage: 8.796
+vibrancy: 4.481
+nature: 6.007
+off_the_beaten_track: 3.999
 ---
 
 Lhasa is the capital of Tibet and one of the most extraordinary cities in Asia. Sitting at 3,650 metres on the Tibetan Plateau, it is a place where saffron-robed monks turn prayer wheels along the Barkhor pilgrimage circuit, yak butter candles flicker in ancient temples, and the thin mountain air carries the sound of chanting from a dozen monasteries.

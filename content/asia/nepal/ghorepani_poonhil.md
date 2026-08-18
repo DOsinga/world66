@@ -2,7 +2,7 @@
 latitude: 28.4
 loc_type: feature
 longitude: 83.7
-score: 5.704
+score: 5.877
 snippet: Annapurna trekking village and viewpoint base for Poon Hill's broad Himalayan
   sunrise panorama.
 title: Ghorepani and Poon Hill
@@ -11,10 +11,10 @@ image: ghorepani_poonhil.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Near_deurali_.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Thapaliyashreeram
-heritage: 2.932
-vibrancy: 1.84
-nature: 7.31
-off_the_beaten_track: 5.017
+heritage: 3.473
+vibrancy: 1.785
+nature: 7.486
+off_the_beaten_track: 5.321
 ---
 
 Ghorepani is a trekking village in the Annapurna foothills of Nepal, at roughly 2,860 metres, sitting on a ridge above terraced farmland and rhododendron forest. It is the main base for the classic short trek to Poon Hill, the viewpoint at 3,210 metres that offers some of the finest panoramic views of the Himalaya accessible without technical climbing.

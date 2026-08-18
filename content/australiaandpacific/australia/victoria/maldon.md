@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -36.99167
 longitude: 144.06667
-score: 4.128
+score: 4.308
 snippet: Preserved Victorian goldfields town with steam trains, mining relics, and
   a coherent 1850s streetscape
 sources:
@@ -15,10 +15,10 @@ image: maldon.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Maldon,_view_from_hill.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Scottius11
-heritage: 2.685
-vibrancy: 2.002
-nature: 5.26
-off_the_beaten_track: 2.891
+heritage: 2.986
+vibrancy: 1.92
+nature: 5.412
+off_the_beaten_track: 2.936
 ---
 
 Maldon is a small goldfields town in central [Victoria](/australiaandpacific/australia/victoria), about 16km from Castlemaine and 40km from [Bendigo](/australiaandpacific/australia/victoria/bendigo). It is not a big place, but it has one of the most intact 19th-century townscapes in regional Australia: verandah-fronted shops, stone gutters, old hotels, and mining relics sitting close enough together to make the story easy to read on foot.

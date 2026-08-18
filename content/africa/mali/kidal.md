@@ -5,14 +5,14 @@ done:
 latitude: 19.802089
 loc_type: city
 longitude: 0.725313
-score: 5.394
+score: 5.706
 snippet: Remote Saharan region of northeastern Mali, with sparse Tamashek communities
   and almost no paved roads.
 title: Kidal
 type: location
-heritage: 3.001
-vibrancy: 2.724
-nature: 2.666
+heritage: 4.247
+vibrancy: 2.423
+nature: 2.681
 off_the_beaten_track: 9.98
 ---
 

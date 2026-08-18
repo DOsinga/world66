@@ -5,15 +5,15 @@ done:
 latitude: 36.189349
 loc_type: city
 longitude: 5.404688
-score: 3.56
+score: 4.017
 title: Setif
 type: location
 snippet: High plateau city in eastern Algeria, known for Roman Sitifis and its 1945
   massacre.
-heritage: 3.906
-vibrancy: 3.456
-nature: 3.368
-off_the_beaten_track: 4.941
+heritage: 4.663
+vibrancy: 3.426
+nature: 3.557
+off_the_beaten_track: 4.111
 ---
 
 Sétif sits on a high plateau in the Tell Atlas mountains at around 1,100 metres, which gives it a surprisingly mild climate for Algeria and distinguishes it sharply from the scorching lowlands to the south. It is the largest city in eastern Algeria and one of the country's main commercial and agricultural centres — a working city rather than a tourist one, but with enough history and character to reward a day or two.

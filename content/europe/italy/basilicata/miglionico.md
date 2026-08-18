@@ -5,17 +5,17 @@ done:
 latitude: 40.569392
 loc_type: city
 longitude: 16.500966
-score: 4.297
+score: 4.036
 sources:
 - https://en.wikipedia.org/wiki/Miglionico
 title: Miglionico
 snippet: Basilicata hilltop town dominated by Castello del Malconsiglio and views
   between two river valleys
 type: location
-heritage: 4.183
-vibrancy: 1.454
-nature: 4.888
-off_the_beaten_track: 3.879
+heritage: 4.265
+vibrancy: 1.526
+nature: 4.448
+off_the_beaten_track: 3.469
 ---
 
 Miglionico is one of the nicest hilltop towns in Basilicata, set on a ridge between the Bradano and Basento rivers with commanding views over the surrounding countryside. The [Castello del Malconsiglio](/europe/italy/basilicata/miglionico/castello_del_malconsiglio), with its six towers, dominates the town and is the main draw — it was here that a conspiracy against King Ferdinand of Aragon was hatched in 1481, an event so notorious it gave the castle its name: "bad counsel."

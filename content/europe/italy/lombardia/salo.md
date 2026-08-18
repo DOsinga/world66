@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bagnanti_Golfo_di_Sal%C3%B
 latitude: 45.605677
 loc_type: city
 longitude: 10.520069
-score: 3.866
+score: 3.973
 snippet: Lake Garda town in a sheltered western-shore gulf, shadowed by Mussolini’s
   final republic
 sources:
@@ -19,10 +19,10 @@ tags:
 - lake_garda
 title: Salò
 type: location
-heritage: 2.482
-vibrancy: 1.992
-nature: 4.941
-off_the_beaten_track: 2.672
+heritage: 2.697
+vibrancy: 2.02
+nature: 5.015
+off_the_beaten_track: 2.496
 ---
 
 Salò sits in a sheltered gulf on the western shore of Lake Garda, its mild microclimate nurturing lemon trees and olives in a landscape that feels more Mediterranean than Lombard. Despite its modest size, the town carries enormous historical weight: for nineteen months from 1943 to 1945, it lent its name to Mussolini's last, German-backed republic — though the actual seat of power was scattered among the villas further up the lake.

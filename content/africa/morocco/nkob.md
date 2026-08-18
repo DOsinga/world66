@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Nkob_village_d%E2%80%99acc
 latitude: 30.6096
 loc_type: city
 longitude: -7.4333
-score: 4.843
+score: 4.15
 snippet: Southern Draa Valley village with an exceptional concentration of kasbahs
   on the road to the Sahara
 title: Nkob
 type: location
-heritage: 3.69
-vibrancy: 1.523
-nature: 5.71
-off_the_beaten_track: 5.887
+heritage: 3.199
+vibrancy: 1.552
+nature: 4.681
+off_the_beaten_track: 5.737
 ---
 
 Nkob is a small village in the southern Draa Valley, about 160 km south of Ouarzazate on the road to Rissani and the Sahara. What makes it remarkable is the extraordinary density of [kasbahs](/africa/morocco/nkob/kasbahs_of_nkob) — around 45 of them, in varying states of preservation, rising above the palmeries and the semi-arid plateau. The village has been proposed for UNESCO World Heritage listing.

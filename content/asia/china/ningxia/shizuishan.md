@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Dawukou_Coach_Station.jpg
 latitude: 39.0099
 loc_type: city
 longitude: 106.3694
-score: 2.959
+score: 2.987
 snippet: Northern Ningxia industrial city used as a base for Shahu Lake’s wetlands
   and desert dunes.
 sources:
 - https://en.wikivoyage.org/wiki/Shizuishan
 title: Shizuishan
 type: location
-heritage: 2.61
-vibrancy: 2.075
-nature: 3.261
-off_the_beaten_track: 4.341
+heritage: 2.73
+vibrancy: 2.426
+nature: 3.457
+off_the_beaten_track: 3.577
 ---
 
 Shizuishan is the northernmost significant city in Ningxia, an industrial centre on the Yellow River close to the Inner Mongolian border. It is not a destination in the conventional sense — the city grew around coal mining and is now a working, unglamorous place — but it serves as the most convenient base for two natural attractions in the northern part of the province.

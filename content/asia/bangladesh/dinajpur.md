@@ -2,7 +2,7 @@
 latitude: 25.6366
 loc_type: city
 longitude: 88.6363
-score: 4.581
+score: 5.182
 snippet: North Bangladeshi town with terracotta temples, royal ruins, and a large
   old tank.
 sources:
@@ -12,10 +12,10 @@ sources:
 title: Dinajpur
 type: location
 wikidata_id: Q4161769
-heritage: 2.669
-vibrancy: 2.131
-nature: 5.507
-off_the_beaten_track: 5.222
+heritage: 2.825
+vibrancy: 2.64
+nature: 6.386
+off_the_beaten_track: 5.392
 ---
 
 Dinajpur is a north Bangladeshi town that looks ordinary at first, but has a stronger set of day-trip anchors than many larger places. Its appeal is in old brick, terracotta, water, and the slow rhythm of a provincial town close to the Indian border.

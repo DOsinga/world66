@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 58.636944
 longitude: -3.063056
-score: 5.583
+score: 6.024
 snippet: Far-north Scottish village known for the mainland road's end and wild Caithness
   coast
 sources:
@@ -16,10 +16,10 @@ image: john_o_groats.jpg
 image_source: https://commons.wikimedia.org/wiki/File:The_John_O%27Groats_Signpost_-_geograph.org.uk_-_6979188_(cropped_etc).jpg
 image_license: CC BY-SA 2.0
 image_attribution: David Dixon
-heritage: 5.422
-vibrancy: 2.552
-nature: 6.355
-off_the_beaten_track: 4.866
+heritage: 6.018
+vibrancy: 2.285
+nature: 6.787
+off_the_beaten_track: 4.887
 ---
 
 John o'Groats is a small village on the far north coast of mainland Scotland, famous as the traditional road-end opposite Land's End. The signpost is tourist theatre, and the village itself is modest, but the surrounding Caithness coast gives the place more bite than the souvenir shops suggest.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Eagle_square_at_Kuah_Langk
 latitude: 6.370039
 loc_type: city
 longitude: 99.792863
-score: 6.599
+score: 7.158
 snippet: Malaysian archipelago of beaches, limestone karsts, mangroves, and duty-free
   island life near Thailand.
 title: Langkawi
 type: location
-heritage: 4.916
-vibrancy: 5.873
-nature: 7.39
-off_the_beaten_track: 3.437
+heritage: 4.638
+vibrancy: 7.009
+nature: 7.544
+off_the_beaten_track: 3.467
 ---
 
 Langkawi is an archipelago of ninety-nine islands tucked against the Thai border in the northwest corner of peninsular Malaysia, and the main island shares the name. White sand, warm water, limestone karsts, mangrove forests, and eagles wheeling overhead: it's the beach holiday that Malaysia knows how to do well, and since it was declared a duty-free zone in 1987, prices are famously cheap.

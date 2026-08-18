@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Khabarovsk-1_railway_stati
 latitude: 48.4827
 loc_type: city
 longitude: 135.084
-score: 4.896
+score: 4.662
 snippet: Far Eastern Russian city on the Amur River, with broad boulevards and Trans-Siberian
   connections
 title: Khabarovsk
 type: location
-heritage: 5.693
-vibrancy: 3.423
-nature: 4.644
-off_the_beaten_track: 4.96
+heritage: 5.398
+vibrancy: 3.344
+nature: 4.474
+off_the_beaten_track: 4.208
 ---
 
 Khabarovsk is the largest city in Russia's Far East and the administrative capital of Khabarovsk Krai. It sits on the Amur River close to the Chinese border, roughly 800 km north of Vladivostok. The city has a surprisingly pleasant centre — wide tree-lined boulevards, a long [riverside promenade](/europe/russia/khabarovsk/amur_cliff_promenade), and a clutch of interesting museums reflecting the region's frontier history. It is also a major hub for the Trans-Siberian Railway and a gateway for travel to northeast Asia.

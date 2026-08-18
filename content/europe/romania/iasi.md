@@ -6,17 +6,17 @@ done:
 latitude: 47.16156
 loc_type: city
 longitude: 27.583781
-score: 5.622
+score: 4.602
 snippet: Moldavian university city and cultural capital, centred on palaces, monasteries,
   and carved stone churches.
 sources:
 - https://en.wikipedia.org/wiki/Ia%C8%99i
 title: Iași
 type: location
-heritage: 6.575
-vibrancy: 4.695
-nature: 3.633
-off_the_beaten_track: 2.943
+heritage: 5.137
+vibrancy: 4.338
+nature: 3.454
+off_the_beaten_track: 3.152
 ---
 
 Iași is the cultural capital of Romanian Moldavia, a lively university city in the northeast of the country, close to the border with the Republic of Moldova. It served as the capital of the Principality of Moldavia for centuries and remains the intellectual heart of the region.

@@ -2,16 +2,16 @@
 latitude: 53.7692
 loc_type: city
 longitude: -7.1625
-score: 4.09
+score: 4.017
 snippet: Small Meath town beside the prehistoric passage tombs of Loughcrew.
 sources:
 - https://en.wikivoyage.org/wiki/Oldcastle
 title: Oldcastle
 type: location
-heritage: 5.022
-vibrancy: 1.398
-nature: 3.274
-off_the_beaten_track: 2.746
+heritage: 5.078
+vibrancy: 1.387
+nature: 2.885
+off_the_beaten_track: 2.496
 ---
 
 Oldcastle is a small town in the north-west of County Meath, useful less for its streets than for what rises just outside them. The great reason to come is [Loughcrew Cairns](/europe/ireland/oldcastle/loughcrew_cairns), a hilltop cluster of Neolithic passage tombs older than Newgrange and far less crowded.

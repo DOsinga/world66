@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Little_Cayman_Island_ISS.j
 latitude: 19.6833
 loc_type: island
 longitude: -80.05
-score: 6.098
+score: 5.952
 snippet: Smallest of the Cayman Islands, noted for quiet beaches and the Bloody Bay
   Wall dive site.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Bloody_Bay_Marine_Park
 title: Little Cayman
 type: location
-heritage: 1.732
-vibrancy: 1.141
-nature: 7.907
-off_the_beaten_track: 5.065
+heritage: 2.3
+vibrancy: 1.068
+nature: 7.625
+off_the_beaten_track: 5.245
 ---
 
 Little Cayman is the smallest and quietest of the three Cayman Islands — 16 kilometres long, two kilometres wide at the widest, and home to roughly 170 permanent residents. There is one paved road that runs around the island, an unfenced airstrip that the road crosses (priority is given to landing aircraft), and a handful of small dive lodges. Iguanas — endemic Little Cayman rock iguanas, the most endangered iguana species on earth — outnumber humans many times over and have the right of way on most of the island.

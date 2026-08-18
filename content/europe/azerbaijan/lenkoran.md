@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:B%C3%B6y%C3%BCk_bazar_m%C9
 latitude: 38.7536
 loc_type: city
 longitude: 48.8511
-score: 3.358
+score: 3.154
 snippet: Humid Caspian city in southern Azerbaijan, shaped by Talysh culture, tea
   country, and old khanate traces.
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://azerbaijan.travel/cultural-program-in-lankaran
 title: Lenkoran
 type: location
-heritage: 1.683
-vibrancy: 1.209
-nature: 3.639
-off_the_beaten_track: 5.132
+heritage: 2.347
+vibrancy: 1.4
+nature: 3.059
+off_the_beaten_track: 5.051
 ---
 
 Lenkoran, more often written Lankaran, is the main city of Azerbaijan's far south: a humid Caspian port backed by the green Talysh Mountains and tea-growing lowlands. It feels different from dry, windswept [Baku](/europe/azerbaijan/baku). The air is softer, the landscape is greener, and the Iranian border is close enough to shape the food, language, and trade.

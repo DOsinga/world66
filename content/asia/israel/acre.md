@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:01%D7%A2%D7%9B%D7%95.jpg
 latitude: 32.928173
 loc_type: city
 longitude: 35.075638
-score: 6.214
+score: 5.978
 snippet: Ancient Mediterranean port city where Crusader vaults, Ottoman walls, and
   an Arab fishing harbour overlap
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://whc.unesco.org/en/list/1042
 title: Acre
 type: location
-heritage: 7.797
-vibrancy: 4.112
-nature: 3.445
-off_the_beaten_track: 2.593
+heritage: 7.584
+vibrancy: 3.788
+nature: 3.798
+off_the_beaten_track: 2.547
 ---
 
 Acre (Akko) is one of the oldest continuously inhabited cities in the world, and its old city is a UNESCO World Heritage Site of remarkable density: Crusader vaults, Ottoman mosques, Bahá'í gardens, and a working Arab fishing harbour all coexist within the old walls. It is about 20 km north of [Haifa](/asia/israel/haifa) and 130 km from [Jerusalem](/asia/israel/jerusalem).

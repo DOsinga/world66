@@ -4,15 +4,15 @@ done:
 latitude: 40.239984
 loc_type: feature
 longitude: 44.271155
-score: 6.537
+score: 6.404
 snippet: Medieval Armenian fortress and church complex high on Mount Aragats, once
   held by the Pahlavuni princes.
 title: Amberd
 type: location
-heritage: 7.726
-vibrancy: 2.174
-nature: 5.915
-off_the_beaten_track: 4.201
+heritage: 7.809
+vibrancy: 1.626
+nature: 5.252
+off_the_beaten_track: 4.072
 ---
 
 Amberd is a medieval fortress and church complex on the southern slopes of Mount Aragats at around 2,300 metres, in Aragatsotn province. It was the stronghold of the Pahlavuni princes in the 10th–11th centuries and one of the most important feudal castles in medieval Armenia.

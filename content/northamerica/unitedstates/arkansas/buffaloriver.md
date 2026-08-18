@@ -4,15 +4,15 @@ done:
 latitude: 36.0829
 loc_type: feature
 longitude: -92.766
-score: 6.005
+score: 6.149
 snippet: Ozark river corridor of free-flowing water, limestone bluffs, elk valleys,
   and canoe routes.
 title: Buffalo River
 type: location
-heritage: 2.243
-vibrancy: 1.294
-nature: 7.899
-off_the_beaten_track: 4.616
+heritage: 2.244
+vibrancy: 1.186
+nature: 7.956
+off_the_beaten_track: 5.161
 ---
 
 The Buffalo River is one of the few remaining unpolluted, free-flowing rivers in the lower 48 states. Designated as America's first national river in 1972, it carves 135 miles through the Arkansas Ozarks, cutting past massive limestone bluffs that rise hundreds of feet above the water. The river offers everything from swift whitewater in the upper stretches above Ponca to broad, lazy floats in the lower sections — making it a paddler's destination for all skill levels.

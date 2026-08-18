@@ -4,7 +4,7 @@ done:
 latitude: 45.8347
 loc_type: city
 longitude: -109.9483
-score: 5.349
+score: 5.384
 snippet: Small Montana town on the Yellowstone River between the Crazy and Boulder
   mountains.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Big_Timber,_Montana
 title: Big Timber
 type: location
-heritage: 4.15
-vibrancy: 1.942
-nature: 6.532
-off_the_beaten_track: 3.762
+heritage: 4.18
+vibrancy: 1.692
+nature: 6.573
+off_the_beaten_track: 4.195
 ---
 
 Big Timber is a small south-central Montana town where the Yellowstone River valley opens toward the Crazy Mountains and the Boulder River country. It is not a polished resort town, and that is part of the appeal: you get a real ranch-and-river community with enough nearby landscape to fill a spare day well.

@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: 23.785
 longitude: 72.64
-score: 3.89
+score: 3.737
 snippet: Fortified north Gujarat town layered with temples, stepwells, lake ghats,
   and deep archaeology.
 sources:
 - https://en.wikivoyage.org/wiki/Vadnagar
 - https://whc.unesco.org/en/tentativelists/6629/
 - https://www.pib.gov.in/PressReleasePage.aspx?PRID=2093139
-heritage: 5.102
-vibrancy: 2.128
-nature: 2.369
-off_the_beaten_track: 2.022
+heritage: 4.957
+vibrancy: 1.883
+nature: 2.158
+off_the_beaten_track: 2.152
 ---
 
 Vadnagar is one of north Gujarat's most rewarding small towns, not because it is polished, but because so much history is still visible in a compact, living place. Its old streets sit inside the remains of a fortified town, with gates, shrines, stepwells, lake ghats, and archaeological layers that run back more than two thousand years.

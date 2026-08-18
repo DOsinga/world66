@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 41.45
 longitude: 31.7833
-score: 4.087
+score: 4.226
 snippet: Black Sea coal port with mine heritage, show caves, and steep green hills.
 sources:
 - https://en.wikivoyage.org/wiki/Zonguldak
@@ -15,10 +15,10 @@ image: zonguldak.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Zonguldak2.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Bertramz
-heritage: 3.689
-vibrancy: 2.447
-nature: 4.771
-off_the_beaten_track: 4.298
+heritage: 3.63
+vibrancy: 2.736
+nature: 5.011
+off_the_beaten_track: 4.064
 ---
 
 Zonguldak is not the pretty face of the Turkish Black Sea. It is a working coal port where apartment blocks, rail lines, mine buildings, and steep green hills crowd around a tight harbour. That roughness is the point: this is the city that powered Turkey's hard-coal industry, and it still feels more like a place that works for a living than a resort trying to charm you.

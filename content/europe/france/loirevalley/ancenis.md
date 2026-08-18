@@ -5,7 +5,7 @@ done:
 latitude: 47.3648
 loc_type: city
 longitude: -1.1816
-score: 4.189
+score: 3.913
 snippet: Loire riverside town between Nantes and Angers, with castle ruins and vineyards
   along the cycle route.
 sources:
@@ -17,10 +17,10 @@ image: ancenis.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ancenis_01_07_1968.jpg
 image_license: CC BY 2.0
 image_attribution: IGN
-heritage: 5.166
-vibrancy: 1.848
-nature: 3.303
-off_the_beaten_track: 2.466
+heritage: 4.818
+vibrancy: 1.792
+nature: 3.103
+off_the_beaten_track: 2.395
 ---
 
 Ancenis sits on a broad bend of the Loire about halfway between [Nantes](/europe/france/loirevalley/nantes) and [Angers](/europe/france/loirevalley/angers), where the river widens into something almost lake-like and the surrounding hills are planted end to end with vines. It is a small town — fewer than fifteen thousand people — but it carries itself with quiet confidence. The ruined towers of the Château d'Ancenis rise above the riverbank, the old centre has a grid of stone streets, and the covered market still fills on Saturday mornings.

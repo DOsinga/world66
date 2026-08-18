@@ -5,7 +5,7 @@ loc_type: city
 latitude: -41.516666666667
 longitude: 173.95
 wikidata: Q883831
-score: 5.457
+score: 5.235
 snippet: Marlborough wine town with cellar-door cycling, aviation history, and dry
   hills above the Wairau Valley.
 sources:
@@ -18,10 +18,10 @@ image: blenheim.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Marlborough_vineyard.jpg
 image_license: CC BY 2.5
 image_attribution: Limegreen
-heritage: 3.539
-vibrancy: 3.431
-nature: 6.801
-off_the_beaten_track: 2.951
+heritage: 2.96
+vibrancy: 3.333
+nature: 6.504
+off_the_beaten_track: 3.029
 ---
 
 Blenheim is the practical heart of Marlborough wine country. The town itself is low-key and sunny, with the Wairau River to the north and tawny dry hills to the south, but the surrounding vineyards give it a clear reason to exist on a travel map.

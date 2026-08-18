@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dow%27s_Park,_Rapid_City,_
 latitude: 44.0714
 loc_type: city
 longitude: -103.2208
-score: 4.939
+score: 4.842
 snippet: Black Hills gateway city with presidential statues, dinosaur kitsch, museums,
   and easy park access.
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Dinosaur_Park
 title: Rapid City
 type: location
-heritage: 2.618
-vibrancy: 3.715
-nature: 5.86
-off_the_beaten_track: 1.683
+heritage: 2.235
+vibrancy: 3.594
+nature: 5.768
+off_the_beaten_track: 1.574
 ---
 
 Rapid City is the practical gateway to the [Black Hills](/northamerica/unitedstates/southdakota/blackhills). It has the airport, the rental cars, the restaurants, and the beds, but it is more than a staging area for Mount Rushmore. Downtown has public art, old hotels, breweries, and enough local history to justify a day before you disappear into the hills.

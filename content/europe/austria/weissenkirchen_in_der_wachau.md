@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Wei%C3%9Fenkirchen_in_der_
 latitude: 48.39765
 loc_type: city
 longitude: 15.4699
-score: 4.256
+score: 4.343
 snippet: Wachau wine village below a fortified church, surrounded by Danube terraces
   and Riesling vineyards.
 sources:
@@ -15,10 +15,10 @@ sources:
 - https://www.donau.com/en/excursions/wehrkirche-weissenkirchen
 title: Weißenkirchen in der Wachau
 type: location
-heritage: 3.84
-vibrancy: 3.68
-nature: 4.819
-off_the_beaten_track: 1.519
+heritage: 3.601
+vibrancy: 3.988
+nature: 4.804
+off_the_beaten_track: 1.59
 ---
 
 Weißenkirchen in der Wachau is a small wine village on the north bank of the Danube, between Spitz and Dürnstein. The setting is the whole argument for coming: terraced vineyards climb behind the houses, the river runs broad below, and the white fortified church rises above the roofs like a watchtower.

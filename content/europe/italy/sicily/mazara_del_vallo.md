@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Mazara_del_Vallo_-_Porto_-
 latitude: 37.6537
 loc_type: city
 longitude: 12.5887
-score: 4.677
+score: 4.774
 snippet: West Sicilian port city where a Tunisian-flavoured Casbah meets Italy's largest
   fishing fleet
 title: Mazara del Vallo
 type: location
-heritage: 3.958
-vibrancy: 2.801
-nature: 5.571
-off_the_beaten_track: 3.287
+heritage: 3.875
+vibrancy: 2.608
+nature: 5.758
+off_the_beaten_track: 3.547
 ---
 
 Mazara del Vallo is a port city in the far west of Sicily, straddling the line between Italy and North Africa — culturally and geographically. It is home to Italy's largest fishing fleet, crewed in large part by Tunisian fishermen, and the [Casbah](/europe/italy/sicily/mazara_del_vallo/casbah), the old Arab quarter, is one of the most genuinely Tunisian-feeling places in Europe.

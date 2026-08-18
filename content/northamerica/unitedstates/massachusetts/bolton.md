@@ -5,15 +5,15 @@ done:
 latitude: 42.434234
 loc_type: city
 longitude: -71.609774
-score: 3.691
+score: 3.603
 snippet: Rural Massachusetts town in apple country, visited for orchards, farm stands,
   and quiet hills west of Boston
 title: Bolton
 type: location
-heritage: 2.759
-vibrancy: 2.27
-nature: 4.552
-off_the_beaten_track: 1.328
+heritage: 3.441
+vibrancy: 2.434
+nature: 4.126
+off_the_beaten_track: 1.13
 ---
 
 Bolton is a small rural town at the heart of Massachusetts apple country, about 35 miles west of [Boston](/northamerica/unitedstates/massachusetts/boston). With a population of around 5,000 and no real downtown to speak of, it is the kind of place you visit for a specific reason -- and that reason is usually apples. Bolton has some of the best apple orchards in the state, and in September and October the town fills up with families coming out from the city for pick-your-own apples, cider donuts, and hayrides.

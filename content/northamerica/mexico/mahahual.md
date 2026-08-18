@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 18.7139
 longitude: -87.7094
-score: 5.677
+score: 5.764
 snippet: Quiet Costa Maya beach town with a reef-protected shore and access to Banco
   Chinchorro.
 sources:
@@ -17,10 +17,10 @@ image: mahahual.jpg
 image_source: https://commons.wikimedia.org/wiki/File:BlueKay_Beach_en_Mahahual,_Mexico_(http-www.bluekaymahahual.com)_-_panoramio_(3).jpg
 image_license: CC BY 3.0
 image_attribution: Juan Ortega
-heritage: 2.408
-vibrancy: 2.831
-nature: 7.431
-off_the_beaten_track: 3.079
+heritage: 1.948
+vibrancy: 2.898
+nature: 7.534
+off_the_beaten_track: 2.734
 ---
 
 Mahahual is a small beach town on the Costa Maya, south of the big Riviera Maya resort strip and close enough to Belize that the Caribbean feels wide open. It was once a fishing village, then became the shore town beside the Costa Maya cruise port, but away from ship days it still has a slow, sandy rhythm.

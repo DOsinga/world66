@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Fort_Jesus,_Mombasa,_Kenya
 latitude: -4.05052
 loc_type: city
 longitude: 39.667169
-score: 6.784
+score: 6.374
 title: Mombasa
 type: location
 snippet: Swahili port city on Kenya's coast, shaped by Indian Ocean trade and Fort
   Jesus.
-heritage: 5.167
-vibrancy: 6.73
-nature: 6.923
-off_the_beaten_track: 3.38
+heritage: 4.075
+vibrancy: 6.105
+nature: 6.93
+off_the_beaten_track: 3.212
 ---
 
 Mombasa is Kenya’s second city and the busiest port in East Africa, an island of nearly 1.3 million people wrapped in Indian Ocean creeks on the country’s southern coast. Its Swahili name is **Mvita** — "Island of War" — which captures 2,000 years of conquest by Arabs, Persians, Portuguese, Omanis and finally the British. The result is one of the most distinctive places in East Africa: a coastal, overwhelmingly Muslim, Swahili-speaking city that feels more connected to the Arabian Peninsula and the old Indian Ocean trade world than to the inland savannah of the rest of Kenya.

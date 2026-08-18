@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:%CE%9D%CE%B1%CF%8C%CF%82_%
 latitude: 36.6756
 loc_type: city
 longitude: 25.1162
-score: 4.959
+score: 5.586
 snippet: Quiet Cycladic island of whitewashed hill villages, mule tracks, and sea
   views from the Hora.
 title: Sikinos
 type: location
-heritage: 3.067
-vibrancy: 2.666
-nature: 6.101
-off_the_beaten_track: 5.193
+heritage: 3.225
+vibrancy: 2.961
+nature: 7.042
+off_the_beaten_track: 5.299
 ---
 
 Sikinos is one of the quietest islands in the Cyclades — a place that most island-hoppers skip entirely, which is precisely its appeal. There are two places to stay: a pension near the port of [Alopronia](/europe/greece/sikinos/alopronia), or up in the [Hora (Kastro)](/europe/greece/sikinos/kastro_hora), the old hilltop village that sits on a ridge above the sea with views in every direction.

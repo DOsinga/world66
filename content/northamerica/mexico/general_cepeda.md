@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 25.38
 longitude: -101.48
-score: 2.332
+score: 2.494
 snippet: Coahuila Pueblo Magico where dinosaur fossils and desert petroglyphs sit
   beyond a colonial plaza.
 sources:
@@ -17,10 +17,10 @@ image: general_cepeda.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Templo_de_San_Francisco_de_As%C3%ADs,_General_Cepeda.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Marioli925
-heritage: 2.588
-vibrancy: 1.821
-nature: 2.49
-off_the_beaten_track: 2.767
+heritage: 2.837
+vibrancy: 1.932
+nature: 2.509
+off_the_beaten_track: 2.673
 ---
 
 General Cepeda is a small town in southern [Coahuila](/northamerica/mexico), about an hour west of Saltillo. Its streets are quiet and low-slung, but the desert around it is unusually rich: Cretaceous fossils, dinosaur footprints, petroglyph-covered rocks, and the remains of one of northern Mexico's great old haciendas all sit within reach.

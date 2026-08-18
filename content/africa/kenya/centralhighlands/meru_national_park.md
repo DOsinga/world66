@@ -2,7 +2,7 @@
 latitude: 0.15
 loc_type: feature
 longitude: 38.25
-score: 5.907
+score: 5.955
 snippet: Lower, hotter Tana River park east of Meru where the Adamsons raised Elsa
   the lioness of Born Free, now quiet Big Five country.
 title: Meru National Park
@@ -11,10 +11,10 @@ image: meru_national_park.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Meru_National_Park,_Kenya_-_31661019755.jpg
 image_license: CC BY 2.0
 image_attribution: Nina R
-heritage: 1.505
-vibrancy: 1.037
-nature: 7.615
-off_the_beaten_track: 5.049
+heritage: 1.99
+vibrancy: 1.133
+nature: 7.66
+off_the_beaten_track: 5.146
 ---
 
 Meru National Park is one of Kenya's less-visited but more rewarding parks, set about 80 kilometres east of Meru town in a lower, hotter, drier landscape than the highlands. The Tana River and its tributaries run through it, supporting an ecology quite different from the more famous savanna parks — riverine forest, doum palm groves, papyrus swamp, and wide open plains laced with red volcanic soil.

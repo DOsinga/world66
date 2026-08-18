@@ -9,17 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Magliolo-panorama3.jpg
 latitude: 44.1915
 loc_type: city
 longitude: 8.2504
-score: 4.719
+score: 4.696
 snippet: Quiet Ligurian village inland from Pietra Ligure, known for rural hills and
   sport-climbing crags.
 tags:
 - rivieradellepalme
 title: Magliolo
 type: location
-heritage: 3.594
-vibrancy: 1.721
-nature: 5.791
-off_the_beaten_track: 4.637
+heritage: 3.417
+vibrancy: 1.77
+nature: 5.83
+off_the_beaten_track: 4.641
 ---
 
 Magliolo is a quiet rural village inland from [Pietra Ligure](/europe/italy/liguria/pietraligure), sitting on the left bank of the stream that shares its name. The economy runs on agriculture and forestry, much as it has for centuries.

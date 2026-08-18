@@ -10,17 +10,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Avalon_bay_harbor_catalina
 latitude: 33.3872
 loc_type: city
 longitude: -118.416
-score: 5.076
+score: 4.99
 snippet: Island city off Los Angeles, centred on Avalon’s blue harbour and art deco
   Casino Building.
 sources:
 - https://en.wikipedia.org/wiki/Santa_Catalina_Island_(California)
 title: Catalina
 type: location
-heritage: 2.381
-vibrancy: 3.73
-nature: 6.065
-off_the_beaten_track: 1.312
+heritage: 2.354
+vibrancy: 3.68
+nature: 5.957
+off_the_beaten_track: 1.12
 ---
 
 Catalina Island sits 26 miles off the coast of Los Angeles, and it feels like a different country. The crossing from San Pedro or Long Beach takes about an hour by ferry, but the moment you step onto the pier in [Avalon](/northamerica/unitedstates/california/catalina/avalon), the freeways and smog are a world away. The water in the harbour is an almost absurd shade of blue.

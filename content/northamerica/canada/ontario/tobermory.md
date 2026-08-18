@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 45.255
 longitude: -81.665
-score: 6.151
+score: 5.879
 snippet: Bruce Peninsula harbour village known for shipwrecks, cliff trails, and Flowerpot
   Island
 sources:
@@ -15,10 +15,10 @@ image: tobermory.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Big_Tub_Harbour_-_Tobermory,_Ontario,_Canada_-_October_13,_2023.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Giorgio Galeotti
-heritage: 3.896
-vibrancy: 4.356
-nature: 7.429
-off_the_beaten_track: 3.988
+heritage: 4.661
+vibrancy: 3.177
+nature: 7.137
+off_the_beaten_track: 4.206
 ---
 
 Tobermory is the little harbour at the tip of the Bruce Peninsula, where Georgian Bay turns clear, cold, and startlingly blue. It is small in winter and busy in summer, but the setting is strong enough to survive the crowds: limestone cliffs, shipwrecks, island boats, and the northern end of the Bruce Trail.

@@ -2,7 +2,7 @@
 latitude: 57.2667
 longitude: 11.0
 loc_type: feature
-score: 5.147
+score: 5.267
 snippet: Remote Kattegat island with seaweed-thatched houses, a medieval salt-production
   history, and a slow pace that draws visitors looking for genuine quiet.
 title: Læsø
@@ -11,10 +11,10 @@ image: laesoe.jpg
 image_source: https://commons.wikimedia.org/wiki/File:H%C3%B8jsande_l%C3%A6s%C3%B8.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Unknown
-heritage: 3.613
-vibrancy: 1.797
-nature: 6.447
-off_the_beaten_track: 3.49
+heritage: 3.795
+vibrancy: 1.505
+nature: 6.556
+off_the_beaten_track: 4.183
 ---
 
 Læsø is a flat, remote island in the Kattegat, 1.5 hours by ferry from Frederikshavn in northern Jutland. At 118 square kilometres and with a population of around 1,800, it is one of Denmark's least-visited inhabited islands and intentionally so — the pace is slow, the infrastructure is basic, and the appeal is entirely to visitors who want empty beaches, cycling through open heath, and an island that has not been packaged for tourism.

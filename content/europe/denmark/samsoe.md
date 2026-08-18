@@ -2,7 +2,7 @@
 latitude: 55.8667
 longitude: 10.6167
 loc_type: feature
-score: 4.708
+score: 4.538
 snippet: Kattegat island running on 100% renewable energy, famous for early potatoes,
   gentle cycling, and a pace that feels several decades removed from the mainland.
 title: Samsø
@@ -11,10 +11,10 @@ image: samsoe.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Issehoved_(Sams%C3%B8,_Danmark).JPG
 image_license: CC BY-SA 3.0
 image_attribution: Bob Collowan
-heritage: 4.108
-vibrancy: 3.091
-nature: 5.556
-off_the_beaten_track: 2.262
+heritage: 3.612
+vibrancy: 3.113
+nature: 5.503
+off_the_beaten_track: 2.405
 ---
 
 Samsø is an island in the Kattegat, roughly equidistant between Jutland and Zealand, reached by ferry from Hou south of Aarhus (about an hour) or from Kalundborg on Zealand (about two hours). It is 114 square kilometres, home to around 3,700 people, and has been quietly generating more renewable energy than it consumes since the early 2000s — the wind turbines visible from the ferry are not decorative; they produce enough electricity to export to the mainland.

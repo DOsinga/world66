@@ -14,7 +14,7 @@ quick_facts:
   Devil's Throat: 80 m high
   Vs Niagara: Three times wider
   Waterfalls: ~275 drops
-score: 5.865
+score: 5.853
 snippet: Border-straddling waterfall system where subtropical forest drops into the
   roaring Garganta del Diablo.
 tip: See both sides. The Argentine side puts walkways right over the water and the
@@ -23,10 +23,10 @@ tip: See both sides. The Argentine side puts walkways right over the water and t
   buses and catch rainbows in the morning mist.
 title: Iguazu Falls
 type: location
-heritage: 3.093
-vibrancy: 2.193
-nature: 7.689
-off_the_beaten_track: 4.596
+heritage: 3.336
+vibrancy: 1.669
+nature: 7.556
+off_the_beaten_track: 4.968
 ---
 
 Iguazu Falls straddles the border between Argentina and [Brazil](/southamerica/brazil), and can be visited from either side — or even from [Paraguay](/southamerica/paraguay), a short distance away. Despite being heavily visited, the falls remain genuinely spectacular. No amount of tourism infrastructure diminishes the force of standing at the edge of the Garganta del Diablo (Devil's Throat) and looking down into the roaring abyss.

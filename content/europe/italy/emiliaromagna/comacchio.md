@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Gate_to_Comacchio.jpg
 latitude: 44.696379
 loc_type: city
 longitude: 12.180427
-score: 4.141
+score: 4.342
 snippet: Po Delta canal town of bridges, lagoon fisheries, and the five-stairway Ponte
   dei Trepponti.
 title: Comacchio
 type: location
-heritage: 3.395
-vibrancy: 2.512
-nature: 4.979
-off_the_beaten_track: 4.469
+heritage: 3.467
+vibrancy: 2.749
+nature: 5.26
+off_the_beaten_track: 4.259
 ---
 
 Comacchio is like a small [Venice](/europe/italy/veneto/venice), built on islands in a lagoon and connected by canals and bridges, roughly 30 km north of [Ravenna](/europe/italy/emiliaromagna/ravenna) at the southern edge of the Po Delta. The comparison to Venice is obviously hyperbolic — Comacchio is a small town of 20,000, not a city — but the visual logic holds: pale facades reflected in still water, boats moored at doorsteps, and the [Ponte dei Trepponti](/europe/italy/emiliaromagna/comacchio/ponte_dei_trepponti) at the northern entrance, a 17th-century bridge of extraordinary design with five stairways ascending from five different directions to a single central arch.

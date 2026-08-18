@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Roseau.JPG
 latitude: 15.301
 loc_type: city
 longitude: -61.3883
-score: 5.024
+score: 5.158
 title: Roseau
 type: location
 snippet: Dominica's compact capital, with colonial streets, a waterfront museum, and
   access to island nature trips.
-heritage: 4.45
-vibrancy: 3.624
-nature: 5.901
-off_the_beaten_track: 4.133
+heritage: 4.326
+vibrancy: 3.495
+nature: 6.162
+off_the_beaten_track: 4.083
 ---
 
 With so much wilderness to explore on [Dominica](/northamerica/dominica), visitors sometimes rush past the capital. Roseau is compact, genuinely lived-in, and worth a half-day. The [Dominica Museum](/northamerica/dominica/roseau/dominica_museum) in the old colonial post office on the waterfront gives a good grounding in the island's history — colonial, volcanic, and Kalinago. Admission is modest.

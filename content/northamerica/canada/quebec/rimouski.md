@@ -5,7 +5,7 @@ loc_type: city
 latitude: 48.4488
 longitude: -68.523
 wikidata: Q1336
-score: 4.998
+score: 5.102
 snippet: St. Lawrence university city with maritime history, island walks, and Bic's
   tidal cliffs nearby.
 sources:
@@ -13,10 +13,10 @@ sources:
 - https://www.shmp.qc.ca/index-en.html
 - https://parks.canada.ca/lhn-nhs/qc/pointeaupere
 - https://www.sepaq.com/pq/bic/
-heritage: 4.114
-vibrancy: 3.848
-nature: 5.887
-off_the_beaten_track: 3.32
+heritage: 3.702
+vibrancy: 3.787
+nature: 6.078
+off_the_beaten_track: 3.509
 ---
 
 Rimouski is the main city of Quebec's Lower St. Lawrence, set where the river has already widened into something that feels almost like sea. It is not a postcard village; it is a working regional centre, with a university, a port, and long views across cold water. That gives it more life than many stops on Route 132.

@@ -9,15 +9,15 @@ image_source: https://www.flickr.com/photos/44296132@N06/27832125425
 latitude: 47.238154
 loc_type: city
 longitude: 10.740698
-score: 6.117
+score: 6.082
 snippet: Tyrolean market town in a sunny Alpine valley, known for Schemenlaufen masks
   and Hoch-Imst slopes.
 title: Imst
 type: location
-heritage: 5.522
-vibrancy: 3.453
-nature: 7.14
-off_the_beaten_track: 3.181
+heritage: 5.274
+vibrancy: 3.42
+nature: 7.192
+off_the_beaten_track: 3.142
 ---
 
 Imst is a small market town in the **Tyrol**, about 50 km west of Innsbruck on the road to the Arlberg pass. It sits at around 830 metres in a broad sunny valley sheltered by the 7 km-long cliff wall of the **Heiterwand**, which gives the town one of the mildest microclimates in the Alps — the surrounding slopes are dry enough that almond and fig trees grow at altitudes where you would normally expect only pines. Despite this, the winters are still proper Alpine winters and Imst has a small ski area of its own at [Hoch-Imst](/europe/austria/imst/hoch_imst), reached by gondola from the edge of town.

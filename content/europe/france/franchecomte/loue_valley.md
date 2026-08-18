@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Courbet_-_La_Vall%C3%A9e_d
 latitude: 47.1003
 loc_type: city
 longitude: 6.1467
-score: 5.774
+score: 6.405
 snippet: French river valley in Doubs known for limestone gorges, the source of the
   Loue, and Courbet's Ornans.
 title: Loue Valley
 type: location
-heritage: 4.754
-vibrancy: 2.055
-nature: 6.935
-off_the_beaten_track: 4.552
+heritage: 5.739
+vibrancy: 1.886
+nature: 7.495
+off_the_beaten_track: 4.801
 ---
 
 The Loue valley, in the Département of Doubs, is one of the most beautiful river valleys in France. The [source of the Loue](/europe/france/franchecomte/loue_valley/source_de_la_loue) is immensely dramatic — pools and waterfalls in a limestone cirque, where the river emerges in a rush from solid rock — and from there the river winds through a gorge that is a delight at almost every turn.

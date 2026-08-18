@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: 46.3
 longitude: -67.5167
-score: 4.356
+score: 4.204
 snippet: Tiny Saint John River town known for the world's longest covered bridge.
 sources:
 - https://en.wikivoyage.org/wiki/Hartland
 - https://en.wikipedia.org/wiki/Hartland,_New_Brunswick
 - https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=181
-heritage: 4.249
-vibrancy: 1.567
-nature: 4.951
-off_the_beaten_track: 3.111
+heritage: 4.303
+vibrancy: 1.561
+nature: 4.693
+off_the_beaten_track: 3.006
 ---
 
 Hartland is a small Saint John River town in western New Brunswick, famous far beyond its size for the [Hartland Covered Bridge](/northamerica/canada/newbrunswick/hartland/hartland_covered_bridge). At 390.75 metres, it is the longest covered bridge in the world, and it gives this otherwise quiet river town a clear reason to pull off the highway.

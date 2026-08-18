@@ -15,7 +15,7 @@ quick_facts:
   Lost City: Rediscovered in 1812
   Monastery Steps: 800+
   On Screen: Indiana Jones' Grail
-score: 7.81
+score: 8.237
 snippet: Nabataean sandstone city in Wadi Musa, famous for the Siq approach and the
   Treasury facade.
 tip: Petra is bigger than a day allows — the walk through the Siq to the Treasury
@@ -25,9 +25,9 @@ tip: Petra is bigger than a day allows — the walk through the Siq to the Treas
 title: Petra
 type: location
 heritage: 9.99
-vibrancy: 3.489
-nature: 5.347
-off_the_beaten_track: 3.169
+vibrancy: 6.152
+nature: 4.92
+off_the_beaten_track: 2.739
 ---
 
 Petra belongs on the top of any Jordan itinerary. The Nabataeans carved an entire city out of the red sandstone of the Wadi Musa canyon — temples, tombs, dining halls and processional ways, all out of the living rock — and they did it so well that the place still works as architecture two thousand years later.

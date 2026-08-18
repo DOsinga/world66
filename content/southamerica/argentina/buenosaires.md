@@ -16,7 +16,7 @@ quick_facts:
   Population: ~15 million (metro)
   Recoleta: Evita's lavish resting place
   Tango: Born in its port barrios
-score: 9.055
+score: 8.865
 snippet: Argentine capital known for European-influenced architecture, tango culture,
   and distinctive neighbourhoods.
 tip: Buenos Aires is the most European-feeling city in South America — grand boulevards,
@@ -26,10 +26,10 @@ tip: Buenos Aires is the most European-feeling city in South America — grand b
   late, after 9pm.
 title: Buenos Aires
 type: location
-heritage: 8.333
-vibrancy: 9.398
-nature: 3.645
-off_the_beaten_track: 1.58
+heritage: 7.891
+vibrancy: 9.302
+nature: 3.812
+off_the_beaten_track: 1.545
 ---
 
 Buenos Aires likes to call itself the Paris of South America. It is more accurate to say that it is the most European of South American cities — and the least European of European ones. The architecture is Haussmann-adjacent, the politics baroque, the national self-image a combination of European pretension and Latin American melancholy, and the result is one of the more fascinating cities on the continent.

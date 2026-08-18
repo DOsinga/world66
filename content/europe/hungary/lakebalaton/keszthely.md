@@ -4,7 +4,7 @@ done:
 latitude: 46.7697
 loc_type: city
 longitude: 17.2481
-score: 5.071
+score: 4.907
 snippet: Western Balaton town anchored by Festetics Palace, lake beaches, and nearby
   Hévíz thermal lake.
 sources:
@@ -16,10 +16,10 @@ image: keszthely.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Festetics-kast%C3%A9ly_Keszthelyen_-_4.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Emőke Dénes
-heritage: 4.474
-vibrancy: 3.886
-nature: 5.963
-off_the_beaten_track: 2.003
+heritage: 3.7
+vibrancy: 4.067
+nature: 5.641
+off_the_beaten_track: 1.91
 ---
 
 Keszthely is the cultured old town at the western end of [Lake Balaton](/europe/hungary/lakebalaton), where the resort mood of the lakeshore meets aristocratic Hungary. It is less flashy than Siófok and less postcard-pretty than Tihany, but it has the strongest single sight on the lake: [Festetics Palace](/europe/hungary/lakebalaton/keszthely/festetics_palace), a grand Baroque residence with a library, park, and museum complex.

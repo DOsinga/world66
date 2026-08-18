@@ -5,7 +5,7 @@ done:
 latitude: 50.2712
 loc_type: city
 longitude: 19.2156
-score: 2.368
+score: 2.401
 title: Sosnowiec
 type: location
 image: sosnowiec.jpg
@@ -14,10 +14,10 @@ image_license: CC BY-SA 3.0 pl
 image_attribution: Mkos
 snippet: Industrial Silesian city in the Dąbrowa Basin, marked by coal, textiles,
   palaces, and multicultural traces.
-heritage: 2.807
-vibrancy: 1.902
-nature: 1.648
-off_the_beaten_track: 2.052
+heritage: 3.006
+vibrancy: 1.603
+nature: 1.791
+off_the_beaten_track: 2.128
 ---
 
 Sosnowiec is a working industrial city in the heart of the Dąbrowa Basin, tucked into the eastern edge of Upper Silesia's dense urban sprawl. It grew fast in the 19th century on the back of coal mining and textile manufacturing, and the bones of that era — tenement blocks, factory chimneys, grand bourgeois palaces — are still visible throughout the city.

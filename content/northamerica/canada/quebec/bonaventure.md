@@ -4,15 +4,15 @@ type: location
 loc_type: city
 latitude: 48.051
 longitude: -65.481
-score: 5.346
+score: 5.443
 snippet: Acadian town on Chaleur Bay, where Gaspé culture meets a clear canoeing river.
 sources:
 - https://en.wikivoyage.org/wiki/Bonaventure
 - https://www.bonjourquebec.com/en-us/listing/to-see-and-do/bioparc-de-la-gaspesie/0oej
-heritage: 3.378
-vibrancy: 1.891
-nature: 6.855
-off_the_beaten_track: 3.806
+heritage: 3.632
+vibrancy: 1.69
+nature: 6.898
+off_the_beaten_track: 4.235
 ---
 
 Bonaventure is a small Acadian town on Chaleur Bay, on the south side of Quebec's Gaspé Peninsula. It is not a big-ticket destination like Percé, but it has a clear identity: Acadian history, a broad bay, and the clear Bonaventure River running down from the interior.

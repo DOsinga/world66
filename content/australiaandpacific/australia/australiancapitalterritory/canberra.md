@@ -13,7 +13,7 @@ quick_facts:
   Compromise: Between Sydney & Melbourne
   Parliament House: Has a walkable grass roof
   Population: ~470,000
-score: 5.648
+score: 5.489
 snippet: Planned Australian capital of parliament, national museums, and broad lakefront
   avenues below low hills.
 tip: 'Canberra is a planned compromise capital — built from scratch because Sydney
@@ -23,10 +23,10 @@ tip: 'Canberra is a planned compromise capital — built from scratch because Sy
   mostly free. See it in autumn or during the spring Floriade flower festival.'
 title: Canberra
 type: location
-heritage: 5.485
-vibrancy: 5.753
-nature: 4.384
-off_the_beaten_track: 1.172
+heritage: 4.82
+vibrancy: 5.784
+nature: 4.169
+off_the_beaten_track: 1.24
 ---
 
 Canberra is Australia's federal capital. Established as part of Australia's federation in 1901, Canberra houses the national [parliament](/australiaandpacific/australia/australiancapitalterritory/canberra/parliament_house), federal government departments, the [High Court of Australia](/australiaandpacific/australia/australiancapitalterritory/canberra/high_court), the [Australian War Memorial](/australiaandpacific/australia/australiancapitalterritory/canberra/australian_war_memorial), and several other important institutions.

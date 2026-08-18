@@ -2,7 +2,7 @@
 latitude: 19.74
 loc_type: city
 longitude: -99.46
-score: 4.655
+score: 4.513
 snippet: Highland Pueblo Mágico near Mexico City, known for leather craft, wooded
   dams, and charro traditions.
 sources:
@@ -11,10 +11,10 @@ sources:
 - https://programadestinosmexico.com/en/que-ver-y-hacer-en-villa-del-carbon/
 title: Villa del Carbón
 type: location
-heritage: 4.994
-vibrancy: 2.908
-nature: 5.098
-off_the_beaten_track: 2.975
+heritage: 4.682
+vibrancy: 2.712
+nature: 5.011
+off_the_beaten_track: 3.104
 ---
 
 Villa del Carbón sits in the cool high country northwest of [Mexico City](/northamerica/mexico/mexicocity), close enough for a long day out but far enough to feel like a different rhythm. It is a small Pueblo Mágico of cobbled streets, tile roofs, leather workshops, and weekend charreada culture, with pine-covered hills and reservoirs just outside town.

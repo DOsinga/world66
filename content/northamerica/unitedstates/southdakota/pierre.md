@@ -4,7 +4,7 @@ done:
 latitude: 44.3747
 loc_type: city
 longitude: -100.3206
-score: 4.701
+score: 4.822
 snippet: Quiet Missouri River capital with a domed capitol, prairie history, and Fort
   Pierre across the water.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/South_Dakota_State_Capitol
 title: Pierre
 type: location
-heritage: 4.515
-vibrancy: 4.011
-nature: 5.349
-off_the_beaten_track: 3.139
+heritage: 4.502
+vibrancy: 3.839
+nature: 5.566
+off_the_beaten_track: 3.345
 ---
 
 Pierre is one of America's smallest state capitals, and that is part of its charm. It sits on the Missouri River in the middle of [South Dakota](/northamerica/unitedstates/southdakota), far from interstate traffic and big-city self-importance, with government buildings, river bluffs, fishing boats, and prairie weather all sharing the same stage.

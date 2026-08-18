@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Parroquia_de_Santa_Mar%C3%
 latitude: 20.705
 loc_type: city
 longitude: -102.348
-score: 4.266
+score: 4.099
 snippet: Highland Jalisco tequila town known for traditional distilleries, agave fields,
   and big parish churches.
 sources:
@@ -15,10 +15,10 @@ sources:
 - https://whc.unesco.org/en/list/1209/
 title: Arandas
 type: location
-heritage: 5.075
-vibrancy: 2.91
-nature: 3.786
-off_the_beaten_track: 4.027
+heritage: 4.691
+vibrancy: 3.455
+nature: 4.059
+off_the_beaten_track: 3.772
 ---
 
 Arandas sits high in the Los Altos de Jalisco, surrounded by blue agave fields, grain farms, and the red soils that give highland tequila its softer, fruitier reputation. It is not as polished as Tequila town and it is a long day from [Guadalajara](/northamerica/mexico/guadalajara), but that is part of the appeal: Arandas still feels like a working tequila town first and a visitor stop second.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:3-2_B.C.Chithannavasal_cav
 latitude: 10.290307
 loc_type: city
 longitude: 78.817362
-score: 5.372
+score: 4.474
 snippet: Tamil Nadu town and former princely capital, with Chola bronzes and Jain
   cave paintings nearby.
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Sittanavasal
 title: Pudukkottai
 type: location
-heritage: 6.423
-vibrancy: 4.201
-nature: 2.178
-off_the_beaten_track: 4.403
+heritage: 5.35
+vibrancy: 3.498
+nature: 2.403
+off_the_beaten_track: 4.374
 ---
 
 Pudukkottai is a small town in central Tamil Nadu that was the capital of the Pudukkottai princely state, one of the few in British India that was never directly annexed. The Tondaiman Rajas maintained their independence until 1948.

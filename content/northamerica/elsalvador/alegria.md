@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: 13.5076
 longitude: -88.489
-score: 4.729
+score: 5.149
 snippet: Highland Salvadoran town of flowers, coffee, cool air, and a green volcanic
   crater lake.
 sources:
 - https://en.wikivoyage.org/wiki/Alegr%C3%ADa_(El_Salvador)
 - https://en.wikipedia.org/wiki/Alegr%C3%ADa,_El_Salvador
-heritage: 2.628
-vibrancy: 3.039
-nature: 5.862
-off_the_beaten_track: 4.428
+heritage: 2.357
+vibrancy: 3.22
+nature: 6.425
+off_the_beaten_track: 4.535
 ---
 
 Alegría sits high in eastern El Salvador, in the coffee country around Tecapa volcano. The town is small, cool by Salvadoran standards, and known for flowers, plant nurseries, and the green crater lake just above it.

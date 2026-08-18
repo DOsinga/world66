@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 19.31695
 longitude: -98.23823
-score: 5.053
+score: 4.456
 snippet: Compact Mexican state capital with colonial plazas, Franciscan architecture,
   murals, and Tlaxcalan history
 image: tlaxcala.jpg
@@ -16,10 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Tlaxcala
 - https://en.wikipedia.org/wiki/Tlaxcala_(city)
 - https://www.wikidata.org/wiki/Q82681
-heritage: 6.291
-vibrancy: 3.445
-nature: 3.587
-off_the_beaten_track: 3.492
+heritage: 5.264
+vibrancy: 3.613
+nature: 3.717
+off_the_beaten_track: 3.419
 ---
 
 Tlaxcala is the small capital of Mexico's smallest state, an hour north of Puebla and close enough to Mexico City for a long day trip. It is not grand in the way Puebla is grand. Its appeal is more compact: painted colonial buildings around the main plaza, a 16th-century Franciscan complex, bright churches, and a historical memory that still circles around the Tlaxcalans' alliance with the Spanish against the Aztec Empire.

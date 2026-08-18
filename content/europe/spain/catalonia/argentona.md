@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:168_Museu_del_C%C3%A0ntir,
 latitude: 41.555433
 loc_type: city
 longitude: 2.400279
-score: 3.447
+score: 3.676
 snippet: Maresme town near Barcelona with Modernista villas, mineral springs, and
   a museum devoted to Catalan water jugs.
 title: Argentona
 type: location
-heritage: 2.882
-vibrancy: 1.848
-nature: 4.122
-off_the_beaten_track: 1.941
+heritage: 3.658
+vibrancy: 1.97
+nature: 4.147
+off_the_beaten_track: 1.777
 ---
 
 Argentona is a small town in the Maresme comarca, 33 km northeast of [Barcelona](/europe/spain/catalonia/barcelona) and just 4 km inland from the coastal town of Mataró. It is a quiet, leafy place that makes a good escape from the city — close enough for a day trip, but with the unhurried feel of a Catalan country town.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Winter_Haven,_Flo
 latitude: 28.0222
 loc_type: city
 longitude: -81.7329
-score: 3.174
+score: 3.235
 snippet: Central Florida lake city on the Chain of Lakes, with water-skiing history
   and the former Cypress Gardens site
 title: Winter Haven
 type: location
-heritage: 2.523
-vibrancy: 2.68
-nature: 3.625
-off_the_beaten_track: 1.048
+heritage: 3.356
+vibrancy: 2.986
+nature: 3.572
+off_the_beaten_track: 0.967
 ---
 
 Winter Haven is a city of about 50,000 in Polk County, Florida, situated in the heart of the state between Tampa and Orlando on the [Chain of Lakes](/northamerica/unitedstates/florida/winterhaven/chain_of_lakes) — a series of interconnected lakes linked by canals. The area was famous for water skiing tourism through much of the 20th century, and [LEGOLAND Florida](/northamerica/unitedstates/florida/winterhaven/legoland_florida), which opened in 2011 on the former site of the Cypress Gardens theme park, is now the city's main attraction.

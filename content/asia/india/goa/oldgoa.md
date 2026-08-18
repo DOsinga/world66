@@ -5,7 +5,7 @@ done:
 latitude: 15.502333
 loc_type: city
 longitude: 73.911743
-score: 6.693
+score: 7.14
 snippet: Former Portuguese India capital preserved as a cluster of monumental churches,
   convents, and ruins.
 sources:
@@ -17,10 +17,10 @@ image: oldgoa.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Old_Goa_church_view.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Eligiusethan
-heritage: 8.724
-vibrancy: 3.768
-nature: 3.804
-off_the_beaten_track: 3.883
+heritage: 8.561
+vibrancy: 5.533
+nature: 3.095
+off_the_beaten_track: 4.54
 ---
 
 Old Goa (Velha Goa) was the capital of Portuguese India from the early 16th century until disease and decline forced the administration to move to Panjim in the 18th century. At its peak in the 16th century it was one of the largest cities in the world, with a population rivalling Lisbon. What remains today is a remarkable cluster of churches, convents, and ruins — the finest Portuguese colonial architecture in India, and a UNESCO World Heritage Site since 1986.

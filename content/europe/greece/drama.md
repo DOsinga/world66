@@ -5,7 +5,7 @@ done:
 latitude: 41.149944
 loc_type: city
 longitude: 24.146829
-score: 6.321
+score: 5.872
 sources:
 - https://en.wikipedia.org/wiki/Drama,_Greece
 title: Drama
@@ -16,10 +16,10 @@ image: drama.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Agia_Varvara_Park_and_Saint_Barbara_Church_in_Drama.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Мико
-heritage: 7.729
-vibrancy: 4.593
-nature: 3.527
-off_the_beaten_track: 2.381
+heritage: 7.343
+vibrancy: 3.939
+nature: 3.668
+off_the_beaten_track: 2.528
 ---
 
 Drama is a city in northeastern Greece, in the region of Eastern Macedonia and Thrace, set in a broad plain between the Rhodope mountains to the north and the Kavala plain to the south. It is one of the greenest cities in Greece, with numerous springs and streams running through the city centre, feeding parks and gardens that give it a pleasant, almost alpine character unusual for Greece.

@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Vestmanna,_Faroe_Islands_(
 latitude: 62.1552
 loc_type: city
 longitude: -7.175
-score: 6.272
+score: 6.333
 snippet: Streymoy fishing town and harbour for boat trips to basalt bird cliffs and
   sea caves
 sources:
 - https://en.wikipedia.org/wiki/Vestmanna
 title: Vestmanna
 type: location
-heritage: 4.246
-vibrancy: 0.491
-nature: 7.753
-off_the_beaten_track: 6.45
+heritage: 3.35
+vibrancy: 1.061
+nature: 7.73
+off_the_beaten_track: 6.836
 ---
 
 Vestmanna is a small fishing town on the west coast of Streymoy, reached via the road past the tunnel entrance to [Vagar](/europe/faroeislands/vagar) when coming from [Torshavn](/europe/faroeislands/torshavn). The town sits in a deep bay ringed by four mountains — Hægstafjall, Økslin, Loysingafjall, and Moskurfjall — that press close on all sides. Its name derives from the Old Norse for "Westmen's harbour," a reference to Viking settlers who arrived here from the British Isles in the early medieval period.

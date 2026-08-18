@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Foster_City_Aerial.jpg
 latitude: 37.560034
 loc_type: city
 longitude: -122.268852
-score: 3.766
+score: 3.917
 snippet: Planned Bay Area lagoon city built on tidal marsh, with waterfront trails
   and suburban calm.
 title: Foster City
 type: location
-heritage: 1.996
-vibrancy: 4.017
-nature: 3.117
-off_the_beaten_track: 0.853
+heritage: 1.676
+vibrancy: 4.172
+nature: 3.257
+off_the_beaten_track: 0.856
 ---
 
 Foster City is a planned community of about 33,000 on the western shore of San Francisco Bay in San Mateo County, built on a tidal marsh in the 1960s. The city is known for its network of lagoons and waterways, which residents use for kayaking, windsurfing, and paddleboarding. Leo J. Ryan Memorial Park on the bayfront has good views across the bay to the East Bay hills.

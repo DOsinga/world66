@@ -12,12 +12,12 @@ snippet: Quiet Bahamian island with pink-sand beaches, Mount Alvernia, and Fathe
   Jerome's hand-built Hermitage.
 title: Cat Island
 type: location
-score: 6.036
+score: 6.058
 loc_type: city
-heritage: 1.891
-vibrancy: 1.064
-nature: 7.579
-off_the_beaten_track: 5.82
+heritage: 1.529
+vibrancy: 1.205
+nature: 7.598
+off_the_beaten_track: 5.872
 ---
 
 Cat Island is one of the least developed islands in the Bahamas, and that is precisely its appeal. There are no cruise ship crowds here, no mega-resorts, and very few tourists. What you get instead are empty pink-sand beaches, tiny settlements, and a pace of life that the rest of the Bahamas lost decades ago.

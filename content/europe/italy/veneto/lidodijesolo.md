@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Lido_di_Je
 latitude: 45.5033
 loc_type: city
 longitude: 12.6324
-score: 4.86
+score: 5.058
 snippet: Veneto Adriatic beach resort with 15 kilometres of sand, summer crowds, and
   easy access from Venice.
 title: Lido di Jesolo
 type: location
-heritage: 1.99
-vibrancy: 4.815
-nature: 4.976
-off_the_beaten_track: 0.831
+heritage: 1.868
+vibrancy: 5.338
+nature: 4.336
+off_the_beaten_track: 0.835
 ---
 
 Lido di Jesolo is a beach resort on the Adriatic coast of the Veneto, about 40km northeast of [Venice](/europe/italy/veneto/venice). It has [15km of fine sandy beach](/europe/italy/veneto/lidodijesolo/jesolo_beach) backed by a dense strip of hotels and tourist infrastructure — gelaterias, restaurants, beach clubs, and bars. In summer it is packed; in winter it is essentially closed.

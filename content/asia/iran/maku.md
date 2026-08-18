@@ -5,15 +5,15 @@ done:
 latitude: 39.290964
 loc_type: city
 longitude: 44.452138
-score: 5.026
+score: 5.069
 snippet: Iranian border town in a mountain gorge, gateway to Qara Kelisa and Maku
   Fortress
 title: Maku
 type: location
-heritage: 3.203
-vibrancy: 1.512
-nature: 6.256
-off_the_beaten_track: 5.026
+heritage: 3.401
+vibrancy: 1.613
+nature: 6.302
+off_the_beaten_track: 5.097
 ---
 
 Maku is a town in northwestern Iran, some 22 km from the Turkish border crossing at Bazargan. It is a useful overnight stop if you are crossing to or from [Doğubayazıt](/asia/turkey/dogubeyazit) in Turkey, and it is also the gateway to one of the most remarkable religious monuments in the Middle East.

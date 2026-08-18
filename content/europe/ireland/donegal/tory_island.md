@@ -4,17 +4,17 @@ type: location
 loc_type: feature
 latitude: 55.264
 longitude: -8.227
-score: 6.041
+score: 6.028
 snippet: Remote Donegal Gaeltacht island of cliffs, monastic ruins, artists, and stubborn
   Atlantic independence.
 sources:
 - https://en.wikivoyage.org/wiki/Tory_Island
 - https://en.wikipedia.org/wiki/Tory_Island
 - https://www.govisitdonegal.com/things-to-do/places-to-see/tory-island-%28toraigh%29
-heritage: 5.152
-vibrancy: 1.656
-nature: 7.18
-off_the_beaten_track: 6.774
+heritage: 3.684
+vibrancy: 1.482
+nature: 7.328
+off_the_beaten_track: 6.606
 ---
 
 Tory Island, officially Toraigh, lies off the northwest coast of [Donegal](/europe/ireland/donegal), far enough out that the crossing feels like a real departure. It is small, Irish-speaking, weather-beaten, and still inhabited. That last point matters: Tory is not an empty scenic island but a living community that fought hard in the 1970s to avoid evacuation.

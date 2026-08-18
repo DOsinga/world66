@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Palatul_Finan%C8%9Belor,_a
 latitude: 45.042295
 loc_type: city
 longitude: 23.272812
-score: 5.685
+score: 4.812
 snippet: Small Romanian city in the Jiu Valley, known for Constantin Brâncuși's monumental
   sculpture ensemble.
 title: Târgu Jiu
 type: location
-heritage: 7.321
-vibrancy: 2.524
-nature: 3.78
-off_the_beaten_track: 3.619
+heritage: 6.163
+vibrancy: 2.354
+nature: 3.275
+off_the_beaten_track: 3.423
 ---
 
 Târgu Jiu is a small city in the Jiu Valley of southwestern Romania, and it would be entirely unremarkable if not for one thing: Constantin Brâncuși was born nearby, and in 1937–38 he created an extraordinary ensemble of monumental sculptures here that ranks among the most important public art in Europe.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Parque_2_de_febrero.jpg
 latitude: -27.604883
 loc_type: city
 longitude: -59.1932
-score: 3.541
+score: 3.608
 snippet: Chaco provincial capital called Argentina's City of Sculptures, with public
   art across its plazas
 title: Resistencia
 type: location
-heritage: 3.373
-vibrancy: 3.632
-nature: 2.995
-off_the_beaten_track: 1.932
+heritage: 2.598
+vibrancy: 3.895
+nature: 2.865
+off_the_beaten_track: 2.03
 ---
 
 Resistencia is the capital of Chaco province in northern Argentina, on the banks of the Río Negro opposite [Corrientes](/southamerica/argentina/resistencia/corrientes). It calls itself the "City of Sculptures" — there are more than 700 sculptures displayed on street corners and plazas throughout the city, and the [Bienal Internacional de Escultura](/southamerica/argentina/resistencia/bienal_de_escultura) every July of even-numbered years adds ten more pieces to the streets. The [Fogón de los Arrieros](/southamerica/argentina/resistencia/fogon_de_los_arrieros) cultural centre is the heart of the city's artistic life — the place that started the sculpture project in the 1940s — and one of the most interesting cultural spaces in the north.

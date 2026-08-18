@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_di_Meta_di_Sorren
 latitude: 40.621538
 loc_type: city
 longitude: 14.422194
-score: 4.582
+score: 4.859
 snippet: Quieter Sorrentine Peninsula town with rail links to Sorrento and one of
   the area's few sandy beaches.
 title: Meta di Sorrento
 type: location
-heritage: 3.731
-vibrancy: 4.518
-nature: 4.748
-off_the_beaten_track: 1.515
+heritage: 3.092
+vibrancy: 4.902
+nature: 4.749
+off_the_beaten_track: 1.491
 ---
 
 Meta di Sorrento is the easternmost town of the Sorrentine Peninsula, connected to Sorrento by the Circumvesuviana railway and the main coast road. It is quieter and less touristic than Sorrento itself, with a [small sandy beach](/europe/italy/campania/meta_di_sorrento/meta_beach) — one of the few on the peninsula — that makes it popular with Neapolitan families in summer. The beach is accessible on foot from the train station.

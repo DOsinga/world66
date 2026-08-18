@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 30.6325
 longitude: -87.0397
-score: 2.842
+score: 2.335
 snippet: Florida Panhandle river town used as a base for Blackwater paddling, trails,
   and pine forest
 wikidata: Q962936
@@ -12,10 +12,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Milton_(Florida)
 - https://en.wikipedia.org/wiki/Milton,_Florida
 - https://www.wikidata.org/wiki/Q962936
-heritage: 2.214
-vibrancy: 2.243
-nature: 3.321
-off_the_beaten_track: 1.62
+heritage: 1.392
+vibrancy: 1.935
+nature: 2.685
+off_the_beaten_track: 1.654
 ---
 
 Milton sits on the Blackwater River in the western Florida Panhandle, close enough to [Pensacola](/northamerica/unitedstates/florida/pensacola) to be overlooked and far enough inland to feel different. The town itself is small, with a historic riverfront and a few old brick buildings, but the real reason to come is the water and forest just north of town.

@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: 35.645
 longitude: -121.191
-score: 5.1
+score: 4.959
 snippet: Tiny Central Coast village below Hearst Castle and the elephant-seal beaches
   of Piedras Blancas
 sources:
 - https://en.wikivoyage.org/wiki/San_Simeon
 - https://hearstcastle.org/
-heritage: 4.003
-vibrancy: 2.784
-nature: 6.209
-off_the_beaten_track: 2.252
+heritage: 3.524
+vibrancy: 3.174
+nature: 6.153
+off_the_beaten_track: 2.126
 ---
 
 San Simeon is barely a village, but it holds one of the strongest day-trip clusters on the California coast. [Hearst Castle](/northamerica/unitedstates/california/centralcoast/san_simeon/hearst_castle) sits in the hills above Highway 1, the Piedras Blancas shore has one of the easiest elephant-seal viewing spots in the world, and the coast north toward Big Sur is all cliffs, wind, and restless Pacific water.

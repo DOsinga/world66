@@ -7,15 +7,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Magnetic_Island,_Queenslan
 latitude: -19.1421
 loc_type: city
 longitude: 146.8335
-score: 4.529
+score: 4.272
 snippet: North Queensland island of eucalyptus woodland, granite bays, walking tracks,
   and wild koalas.
 title: Magnetic Island
 type: location
-heritage: 1.552
-vibrancy: 3.859
-nature: 5.155
-off_the_beaten_track: 2.904
+heritage: 1.623
+vibrancy: 3.678
+nature: 4.845
+off_the_beaten_track: 2.782
 ---
 
 **Magnetic Island** — "Maggie" to locals — sits 8 km off the coast of Townsville in north Queensland. More than half the island is national park, covered in eucalyptus woodland and granite boulders, with 23 km of walking tracks and a resident population of wild koalas.

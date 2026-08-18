@@ -2,7 +2,7 @@
 latitude: 40.88
 loc_type: city
 longitude: -88.6303
-score: 2.538
+score: 2.659
 snippet: Route 66 town in Central Illinois with murals, car museums, and swinging
   bridges.
 sources:
@@ -16,10 +16,10 @@ image: pontiac.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Pontiac_City_Hall_and_Fire_Station1.JPG
 image_license: CC BY-SA 3.0
 image_attribution: IvoShandor
-heritage: 2.769
-vibrancy: 2.469
-nature: 2.197
-off_the_beaten_track: 1.342
+heritage: 3.108
+vibrancy: 2.224
+nature: 2.318
+off_the_beaten_track: 1.529
 ---
 
 Pontiac is a small Central Illinois city that has made itself useful to travelers by leaning hard into Route 66. That could have become kitsch, but here it mostly works: downtown is walkable, the museums are close together, and the murals give the streets a clear story.

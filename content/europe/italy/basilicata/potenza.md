@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:POTENZA_TRICOLORE.jpg
 latitude: 40.6395
 loc_type: city
 longitude: 15.805
-score: 5.759
+score: 5.666
 snippet: Basilicata capital on a high ridge, rebuilt repeatedly after earthquakes
   and known for cold winters.
 title: Potenza
 type: location
-heritage: 6.37
-vibrancy: 2.868
-nature: 6.201
-off_the_beaten_track: 3.497
+heritage: 6.282
+vibrancy: 2.51
+nature: 6.069
+off_the_beaten_track: 3.441
 ---
 
 Potenza is probably not on your dreamlist — and the city itself will not argue the point. The capital of Basilicata sits on a long ridge at over 800 metres, making it the highest regional capital in Italy, a distinction that brings cold winters and an occasionally bleak atmosphere. The city has been destroyed multiple times by earthquakes over the centuries, most recently in 1857 and 1980, and what you find now is mostly postwar concrete and 1970s architecture with very little of historical note surviving.

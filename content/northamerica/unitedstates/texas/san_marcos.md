@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 29.879444
 longitude: -97.938889
-score: 5.458
+score: 5.009
 wikidata: Q982353
 snippet: Hill Country college town built around clear springs, river parks, and a
   lively old square.
@@ -12,10 +12,10 @@ sources:
 - https://en.wikivoyage.org/wiki/San_Marcos_(Texas)
 - https://en.wikipedia.org/wiki/San_Marcos,_Texas
 - https://www.visitsanmarcos.com/
-heritage: 4.962
-vibrancy: 5.687
-nature: 4.404
-off_the_beaten_track: 1.59
+heritage: 4.527
+vibrancy: 5.23
+nature: 4.279
+off_the_beaten_track: 1.737
 ---
 
 San Marcos sits on I-35 between [Austin](/northamerica/unitedstates/texas/austin) and [San Antonio](/northamerica/unitedstates/texas/sanantonio), but the freeway is not the reason to stop. The town is built around the San Marcos Springs, where clear water rises from the Edwards Aquifer and becomes one of the most loved swimming and tubing rivers in central Texas.

@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: 31.5545
 longitude: -110.3037
-score: 3.574
+score: 3.671
 snippet: Southern Arizona city backed by the Huachuca Mountains, with birding canyons
   and frontier military history.
 wikidata: Q79891
 sources:
 - https://en.wikivoyage.org/wiki/Sierra_Vista
 - https://en.wikipedia.org/wiki/Sierra_Vista,_Arizona
-heritage: 2.201
-vibrancy: 1.819
-nature: 4.607
-off_the_beaten_track: 2.988
+heritage: 2.221
+vibrancy: 1.863
+nature: 4.748
+off_the_beaten_track: 2.728
 ---
 
 Sierra Vista sits in far southeastern Arizona, where the desert rises into the oak canyons of the Huachuca Mountains. It is not a pretty old mining town like [Bisbee](/northamerica/unitedstates/arizona/bisbee), but it has something rarer: easy access to some of the best birding country in the United States.

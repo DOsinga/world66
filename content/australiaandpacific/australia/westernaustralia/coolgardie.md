@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -30.953
 longitude: 121.164
-score: 5.348
+score: 5.451
 snippet: Western Australian gold-rush town where broad streets and old public buildings
   outlasted the boom.
 wikidata: Q1129708
@@ -16,10 +16,10 @@ image: coolgardie.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Warden%27s_Court,_Coolgardie,_2017_(01).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Bahnfrend
-heritage: 4.866
-vibrancy: 1.748
-nature: 6.227
-off_the_beaten_track: 6.357
+heritage: 3.567
+vibrancy: 1.761
+nature: 6.547
+off_the_beaten_track: 6.231
 ---
 
 Coolgardie is the older, quieter face of the Western Australian goldfields. In the 1890s it was a roaring gold-rush town with grand ambitions; today the traffic pushes on to Kalgoorlie-Boulder, leaving Coolgardie with wide streets, empty space, and a surprising run of handsome stone and brick buildings.

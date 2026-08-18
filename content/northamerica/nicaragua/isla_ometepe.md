@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Concepcion_volcano_in_Nica
 latitude: 11.5308
 loc_type: city
 longitude: -85.5684
-score: 5.237
+score: 5.636
 snippet: Lake Nicaragua island formed by the twin volcanoes Concepción and Maderas
   joined by an isthmus.
 title: Isla Ometepe
 type: location
-heritage: 2.426
-vibrancy: 2.193
-nature: 6.751
-off_the_beaten_track: 4.476
+heritage: 2.702
+vibrancy: 2.002
+nature: 7.224
+off_the_beaten_track: 4.952
 ---
 
 Ometepe is an island in Lake Nicaragua, formed by two volcanoes — [Concepción](/northamerica/nicaragua/isla_ometepe/concepcion_volcano) and [Maderas](/northamerica/nicaragua/isla_ometepe/maderas_volcano) — joined by a low isthmus to create an hourglass-shaped landmass of 276 square kilometres. The name comes from the Nahuatl words for "two hills." It is one of the most striking islands in Central America: perfectly symmetrical Concepción rising to 1,610 m at the north end, the older, forested Maderas at 1,394 m in the south.

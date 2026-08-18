@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:RedondoBeachKingHarborSign
 latitude: 33.8398
 loc_type: city
 longitude: -118.3846
-score: 4.981
+score: 5.507
 snippet: Southern California beach city built around King Harbor, its pier, and a
   broad Santa Monica Bay shoreline
 title: Redondo Beach
 type: location
-heritage: 1.928
-vibrancy: 4.454
-nature: 5.568
-off_the_beaten_track: 1.07
+heritage: 2.374
+vibrancy: 4.402
+nature: 6.409
+off_the_beaten_track: 1.011
 ---
 
 Redondo Beach is one of the three Beach Cities on the southern sweep of Santa Monica Bay, sandwiched between Hermosa Beach to the north and Torrance to the south. The town revolves around its [pier](/northamerica/unitedstates/california/redondobeach/redondo_beach_pier) and harbour — the horseshoe-shaped [King Harbor](/northamerica/unitedstates/california/redondobeach/king_harbor) is lined with seafood restaurants, shops and sport-fishing boats. The [International Boardwalk](/northamerica/unitedstates/california/redondobeach/international_boardwalk) on the pier has a strong Korean and Japanese fish-market influence.

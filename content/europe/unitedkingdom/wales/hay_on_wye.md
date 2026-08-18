@@ -5,7 +5,7 @@ loc_type: city
 latitude: 52.08
 longitude: -3.13
 wikidata: Q174734
-score: 5.717
+score: 4.849
 snippet: Welsh border book town on the River Wye, with a restored castle and festival
   reputation.
 sources:
@@ -13,10 +13,10 @@ sources:
 - https://www.hay-on-wye.co.uk/
 - https://bannaubrycheiniog.org/townsandvillages/hay-on-wye/
 - https://www.haycastletrust.org/
-heritage: 6.797
-vibrancy: 4.547
-nature: 3.941
-off_the_beaten_track: 3.094
+heritage: 5.719
+vibrancy: 3.95
+nature: 3.96
+off_the_beaten_track: 2.981
 ---
 
 *Europe > United Kingdom > Wales > Hay-on-Wye*

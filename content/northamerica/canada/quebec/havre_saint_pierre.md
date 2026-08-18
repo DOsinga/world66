@@ -5,7 +5,7 @@ loc_type: city
 latitude: 50.245
 longitude: -63.5972
 wikidata: Q1008777
-score: 6.366
+score: 6.291
 snippet: Remote North Shore harbour town facing the limestone islands of the Mingan
   Archipelago
 sources:
@@ -17,10 +17,10 @@ image: havre_saint_pierre.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Havre-Saint-Pierre.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Cephas
-heritage: 2.106
-vibrancy: 0.944
-nature: 7.98
-off_the_beaten_track: 6.187
+heritage: 1.747
+vibrancy: 1.015
+nature: 7.872
+off_the_beaten_track: 6.157
 ---
 
 Havre-Saint-Pierre is a small harbour town on Quebec's far North Shore, where the Gulf of St Lawrence feels wide, cold, and very alive. It is remote by southern Quebec standards, but not vague: fishing boats, Acadian family names, Innu culture, and the pale limestone islands offshore give it a clear sense of place.

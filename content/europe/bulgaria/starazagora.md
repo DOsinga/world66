@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Main_street_Augusta_Traian
 latitude: 42.424811
 loc_type: city
 longitude: 25.625748
-score: 5.362
+score: 4.511
 snippet: Thracian plain city with deep Neolithic roots, Roman Augusta Traiana ruins,
   and a gridded modern centre
 title: Stara Zagora
 type: location
-heritage: 6.381
-vibrancy: 4.254
-nature: 4.19
-off_the_beaten_track: 3.387
+heritage: 5.095
+vibrancy: 4.133
+nature: 3.624
+off_the_beaten_track: 3.518
 ---
 
 Stara Zagora is a mid-sized Bulgarian city of about 180,000 people in the upper Thracian plain, between the Sredna Gora mountains to the north and the Sarnena Gora to the south. It is one of the oldest continuously inhabited cities in Europe — [Neolithic dwellings dating back 8,000 years](/europe/bulgaria/starazagora/neolithic_dwellings_museum) have been excavated in the city centre and can be visited in situ.

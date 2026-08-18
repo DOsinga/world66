@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 58.44317
 longitude: -3.09171
-score: 5.912
+score: 6.215
 snippet: Caithness harbour town with herring-era streets, cliff castles, and maritime
   whisky.
 wikidata: Q1012502
@@ -18,10 +18,10 @@ image: wick.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Castle_Girnigoe-Sinclair_-_geograph.org.uk_-_2133459.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Peter Moore
-heritage: 6.232
-vibrancy: 3.418
-nature: 6.522
-off_the_beaten_track: 5.006
+heritage: 6.455
+vibrancy: 2.788
+nature: 6.897
+off_the_beaten_track: 4.786
 ---
 
 Wick sits on the east coast of Caithness, far enough north that the train from Inverness feels like part of the trip. It was once one of Europe's great herring ports, and that boom still explains the place: Pulteneytown's planned streets, the harbour basins, the old cooperage and fishing stories, and the whisky distillery that sells itself, fairly, as the maritime malt.

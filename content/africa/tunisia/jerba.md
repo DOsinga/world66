@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Lag_BaOmer.jpg
 latitude: 33.8076
 loc_type: city
 longitude: 10.8451
-score: 5.467
+score: 5.231
 title: Jerba
 type: location
 snippet: Flat Tunisian island in the Gulf of Gabes, with whitewashed towns and one
   of Africa's oldest Jewish communities.
-heritage: 6.204
-vibrancy: 2.675
-nature: 5.531
-off_the_beaten_track: 4.391
+heritage: 5.872
+vibrancy: 2.559
+nature: 5.437
+off_the_beaten_track: 4.447
 ---
 
 Jerba is a flat, sun-bleached island in the Gulf of Gabes, connected to the Tunisian mainland by a causeway the Romans built two thousand years ago. It sits at the edge of the Sahara, where the light is hard and clear and the sea turns every shade of turquoise. The island has been inhabited for millennia — by Phoenicians, Romans, Arabs, Berbers, and one of the oldest Jewish communities in Africa — and all of them left something behind.

@@ -4,15 +4,15 @@ done:
 latitude: 49.68346
 loc_type: city
 longitude: 5.816771
-score: 2.99
+score: 3.431
 snippet: Southern Belgian city with Roman roots and a quiet old centre near the Luxembourg
   border
 title: Arlon
 type: location
-heritage: 3.475
-vibrancy: 2.096
-nature: 2.84
-off_the_beaten_track: 1.465
+heritage: 4.13
+vibrancy: 2.14
+nature: 2.935
+off_the_beaten_track: 1.406
 ---
 
 Arlon is the southernmost city in Belgium, tucked into the corner where Belgium meets the Grand Duchy of [Luxembourg](/europe/luxembourg). A small town of around 24,000 people, it has preserved a quiet charm, with old houses in the historic centre built in either the typical Luxembourgish style or the Belgian neo-classical fashion of the late 19th century.

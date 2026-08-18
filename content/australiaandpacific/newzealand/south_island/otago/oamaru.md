@@ -2,7 +2,7 @@
 latitude: -45.084167
 loc_type: city
 longitude: 170.980556
-score: 5.47
+score: 5.446
 snippet: North Otago harbour town of Victorian limestone streets, blue penguins, and
   steampunk invention.
 sources:
@@ -18,10 +18,10 @@ image: oamaru.jpg
 image_source: https://commons.wikimedia.org/wiki/File:00_1663_Oamaru_(New_Zealand,_South_Island)_-_Historic_old_town.jpg
 image_license: CC BY-SA 4.0
 image_attribution: W. Bulach
-heritage: 4.941
-vibrancy: 2.142
-nature: 6.384
-off_the_beaten_track: 4.017
+heritage: 4.524
+vibrancy: 1.921
+nature: 6.524
+off_the_beaten_track: 4.369
 ---
 
 Oamaru is the odd, rewarding stop between [Dunedin](/australiaandpacific/newzealand/south_island/otago/dunedin) and [Timaru](/australiaandpacific/newzealand/timaru): a North Otago harbour town where white limestone warehouses, little blue penguins, and handmade steampunk contraptions all share the same waterfront.

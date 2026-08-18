@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Arco_d%27Augusto,_Rimini_I
 latitude: 44.0594
 loc_type: city
 longitude: 12.5683
-score: 5.712
+score: 5.556
 snippet: Adriatic resort city with Roman landmarks, sandy beaches, and a historic
   centre behind the waterfront.
 title: Rimini
 type: location
-heritage: 4.685
-vibrancy: 6.145
-nature: 3.883
-off_the_beaten_track: 1.431
+heritage: 5.563
+vibrancy: 5.595
+nature: 3.643
+off_the_beaten_track: 1.552
 ---
 
 This crowded beach resort on the Adriatic Sea in northeastern Italy is part of a coastal recreation area that stretches 120 km north–south from Porto Garibaldi to [Cattolica](/europe/italy/emiliaromagna/cattolica). The region offers fine sandy beaches, deep-sea fishing, hot springs, mud baths, water sports, good nightlife, and restaurants.

@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: 14.2333
 longitude: 104.0833
-score: 4.346
+score: 3.986
 snippet: Remote northwestern Cambodian town tied to the final years of the Khmer Rouge.
 sources:
 - https://en.wikivoyage.org/wiki/Anlong_Veng
 - https://www.dccam.org/homepage/peace/khmer-rouge-historical-sites/
 - https://travel.state.gov/en/international-travel/travel-advisories/cambodia.html
-heritage: 4.737
-vibrancy: 1.644
-nature: 4.728
-off_the_beaten_track: 6.556
+heritage: 3.253
+vibrancy: 1.424
+nature: 4.32
+off_the_beaten_track: 6.091
 ---
 
 Anlong Veng is not an easy or cheerful stop. Its travel interest comes from the final years of the Khmer Rouge, when leaders including Pol Pot and Ta Mok retreated to this remote corner of northwestern [Cambodia](/asia/cambodia). Their houses, graves, and trial sites are scattered between the town and the Dangrek Mountains near the Thai border.

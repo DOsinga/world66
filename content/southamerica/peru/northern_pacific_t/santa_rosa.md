@@ -5,15 +5,15 @@ done:
 latitude: -5.411
 loc_type: city
 longitude: -78.756
-score: 4.057
+score: 4.179
 snippet: Isolated Peruvian district town with forested mountains behind it and broad
   river-valley views ahead.
 title: Santa Rosa
 type: location
-heritage: 2.266
-vibrancy: 1.65
-nature: 4.933
-off_the_beaten_track: 4.439
+heritage: 2.569
+vibrancy: 1.725
+nature: 5.173
+off_the_beaten_track: 4.273
 ---
 
 This district capital is a small isolated town, with a wonderful setting. At the back, there are forested mountains, in front you have a view of the big river valleys. The town itself is more charming than you would come to expect. Of course there isn't a whole lot to do, but locals will probably be happy to show you some of the wonders of the district.

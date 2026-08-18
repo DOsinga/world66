@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Nzulezo-3.jpg
 latitude: 4.977
 loc_type: city
 longitude: -2.737
-score: 5.05
+score: 5.164
 snippet: Ghanaian stilt village on Lake Tadane, reached by canoe through papyrus channels
   near Côte d'Ivoire.
 title: Nzulezu
 type: location
-heritage: 4.037
-vibrancy: 2.119
-nature: 6.117
-off_the_beaten_track: 4.265
+heritage: 4.164
+vibrancy: 1.924
+nature: 6.24
+off_the_beaten_track: 4.458
 ---
 
 Nzulezu (also spelled Mzulezu) is one of the most extraordinary villages in Ghana — a [settlement built entirely on stilts](/africa/ghana/mzulezu/the_stilt_village) over Lake Tadane, a freshwater lake in the Western Region near the border with Côte d'Ivoire. The village sits in the middle of the lake, accessible only by dugout canoe through channels lined with papyrus reeds. There are no roads, no vehicles, no solid ground: every path is a boardwalk, every step is over water.

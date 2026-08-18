@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Coral_cluster_near_Roat%C3
 latitude: 16.3232
 loc_type: city
 longitude: -86.5317
-score: 6.34
+score: 5.949
 snippet: Largest Bay Island of Honduras, ringed by beaches and the Mesoamerican Barrier
   Reef.
 title: Roatán
 type: location
-heritage: 3.665
-vibrancy: 4.325
-nature: 7.737
-off_the_beaten_track: 2.934
+heritage: 3.551
+vibrancy: 3.718
+nature: 7.424
+off_the_beaten_track: 2.627
 ---
 
 Roatán is the largest of the Bay Islands, sitting about 60 km off the Caribbean coast of Honduras. It's the most developed of the islands — a long, hilly ridge of jungle running east to west, ringed by beaches and coral reef. The island is part of the Mesoamerican Barrier Reef, the world's second-largest, and the diving and snorkeling are the main draw.

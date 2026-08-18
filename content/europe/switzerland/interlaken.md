@@ -14,7 +14,7 @@ quick_facts:
   Elevation: 568 m
   Flanked By: Lakes Thun & Brienz
   Höhematte: A building-banned meadow
-score: 6.981
+score: 6.824
 snippet: Swiss resort town between Lake Thun and Lake Brienz, beneath the Eiger, Mönch,
   and Jungfrau.
 tip: 'Interlaken sits between two lakes and is really a launchpad, not a destination
@@ -23,10 +23,10 @@ tip: 'Interlaken sits between two lakes and is really a launchpad, not a destina
   and Jungfraujoch, and ride the Harder Kulm funicular for a sunset panorama.'
 title: Interlaken
 type: location
-heritage: 4.529
-vibrancy: 6.378
-nature: 7.738
-off_the_beaten_track: 3.106
+heritage: 5.57
+vibrancy: 5.781
+nature: 7.783
+off_the_beaten_track: 2.799
 ---
 
 Interlaken sits on a narrow strip of land between Lake Thun and Lake Brienz, with the Eiger, Monch and Jungfrau towering above. The name literally means "between the lakes," and water defines the place: clear mountain streams tumble off the hills, waterfalls crash through gorges, and the two lakes shimmer in shades of turquoise and deep blue.

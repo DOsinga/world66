@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Porto_de_imbituba.jpg
 latitude: -28.2418
 loc_type: city
 longitude: -48.6643
-score: 5.345
+score: 5.33
 snippet: Santa Catarina port town known for shore-based southern right whale watching
   and nearby Praia do Rosa.
 title: Imbituba
 type: location
-heritage: 4.346
-vibrancy: 4.386
-nature: 6.166
-off_the_beaten_track: 3.77
+heritage: 3.932
+vibrancy: 4.174
+nature: 6.244
+off_the_beaten_track: 3.933
 ---
 
 Imbituba is a small port town on the coast of Santa Catarina, about 90 km south of Florianópolis. For most of its modern life it was defined by its coal port, but it has gradually become known for something more appealing: whale watching. Between May and November, southern right whales migrate here to give birth and nurse their calves in the sheltered waters — you can watch them from the shore.

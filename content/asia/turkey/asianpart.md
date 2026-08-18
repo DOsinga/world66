@@ -11,13 +11,13 @@ loc_type: city
 snippet: Residential Istanbul district across the Bosphorus, centred on Kadıköy's
   markets, ferries, and everyday neighbourhood life.
 longitude: 29.025
-score: 8.359
+score: 8.662
 title: Asian Side (Kadıköy)
 type: location
-heritage: 6.929
-vibrancy: 8.965
-nature: 4.404
-off_the_beaten_track: 1.678
+heritage: 7.522
+vibrancy: 9.16
+nature: 5.072
+off_the_beaten_track: 1.646
 ---
 
 Istanbul is famously spread across two continents, and crossing the Bosphorus from the European shore to the Asian side is more than a ferry ride — it is a genuine shift in character. The slogan Istanbul used when bidding for the 2000 Olympics was *"Meet where the continents meet,"* and the difference between the two halves of the city runs deeper than geography.

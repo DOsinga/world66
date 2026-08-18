@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 40.1791
 longitude: -118.4774
-score: 3.857
+score: 4.056
 snippet: Northern Nevada highway town with a prehistoric cave, love-lock plaza, and
   Great Basin backroads.
 wikidata: Q652027
@@ -12,10 +12,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Lovelock
 - https://travelnevada.com/cities/lovelock/
 - https://www.blm.gov/visit/lovelock-cave-historic-site
-heritage: 2.066
-vibrancy: 1.55
-nature: 5.013
-off_the_beaten_track: 3.165
+heritage: 2.351
+vibrancy: 1.508
+nature: 5.29
+off_the_beaten_track: 3.104
 ---
 
 Lovelock is a small Interstate 80 town in northern Nevada, and most travellers first meet it as fuel, food, and a break from the long desert drive. It clears that low expectation by having a real story: prehistoric Lovelock Cave, a local museum in an 1874 house, and a courthouse-square love-lock ritual that leans into the town's name without taking itself too seriously.

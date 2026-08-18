@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pigeon_Point_beach.jpg
 latitude: 11.25
 loc_type: city
 longitude: -60.6667
-score: 6.348
+score: 6.122
 snippet: Quiet Caribbean island of palm-fringed bays, coral reefs, and rainforest
   hills northeast of bustling Trinidad.
 sources:
@@ -18,10 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Main_Ridge_Forest_Reserve
 title: Tobago
 type: location
-heritage: 4.032
-vibrancy: 5.273
-nature: 7.291
-off_the_beaten_track: 3.988
+heritage: 5.125
+vibrancy: 4.369
+nature: 7.317
+off_the_beaten_track: 4.056
 ---
 
 Tobago is the quieter, smaller sister island of Trinidad, about 30 km to the northeast. Where Trinidad is bustling and multicultural, Tobago is laidback and beach-focused — a proper Caribbean island with palm-fringed bays, coral reefs, and rainforest-covered hills.

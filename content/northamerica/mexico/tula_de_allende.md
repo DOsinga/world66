@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 20.05
 longitude: -99.35
-score: 4.126
+score: 3.815
 snippet: Hidalgo town beside the Toltec capital of Tula, guarded by basalt Atlantean
   warriors.
 wikidata: Q2002665
@@ -16,10 +16,10 @@ image: tula_de_allende.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Tula,_Pyramid_B_(20660295926).jpg
 image_license: CC BY 2.0
 image_attribution: Arian Zwegers
-heritage: 4.876
-vibrancy: 3.1
-nature: 3.734
-off_the_beaten_track: 2.137
+heritage: 4.352
+vibrancy: 3.084
+nature: 3.808
+off_the_beaten_track: 2.346
 ---
 
 Tula de Allende is a workaday Hidalgo town with one extraordinary reason to stop: the ruins of Tollan, the old Toltec capital, just north of the centre. The famous basalt warriors on Pyramid B are not large by pyramid standards, but they have real presence, standing above the valley like a row of armed sentries.

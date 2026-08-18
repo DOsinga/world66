@@ -11,18 +11,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Praia_da_Luz_(4000954897).
 latitude: 37.0868
 loc_type: city
 longitude: -8.7255
-score: 5.021
+score: 4.902
 snippet: Low-key Algarve beach village near Lagos, set below Rocha Negra and a broad
   sandy bay.
 title: Praia da Luz
 type: location
-heritage: 2.343
-vibrancy: 2.449
-nature: 6.6
-off_the_beaten_track: 3.638
+heritage: 2.029
+vibrancy: 2.069
+nature: 6.45
+off_the_beaten_track: 3.763
 ---
 
-Praia da Luz is a low-key beach village in the western Algarve, about five kilometres west of [Lagos](/europe/portugal/algarve/lagos). It has the feel of a small resort that never quite went full package-holiday: the streets are calm, there are actual year-round residents, and the pace is slower than the bigger resorts to the east.
+Praia da Luz is a low-key beach village in the western Algarve, about five kilometres west of [Lagos](/europe/portugal/lagos). It has the feel of a small resort that never quite went full package-holiday: the streets are calm, there are actual year-round residents, and the pace is slower than the bigger resorts to the east.
 
 The [village beach](/europe/portugal/algarve/praiadaluz/praia_da_luz_beach) is a broad sandy bay, pleasant but busy in July and August. The more dramatic scenery is to the east, where the [Rocha Negra](/europe/portugal/algarve/praiadaluz/rocha_negra) — a great mass of black volcanic rock — juts into the sea above ochre cliffs. The rock gets its dark colour from ancient lava flows originating in the Monchique mountains inland, somewhere between 135 and 190 million years ago.
 

@@ -5,7 +5,7 @@ done:
 latitude: 49.1095
 loc_type: city
 longitude: 7.0709
-score: 3.513
+score: 3.466
 snippet: French-German border town at two rivers, historically known for its faience
   ceramics industry.
 title: Sarreguemines
@@ -14,10 +14,10 @@ image: sarreguemines.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Sarreguemines-56-Bruecke-2013-gje.jpg
 image_license: CC BY 4.0
 image_attribution: Gerd Eichmann
-heritage: 4.694
-vibrancy: 1.746
-nature: 1.658
-off_the_beaten_track: 2.288
+heritage: 4.762
+vibrancy: 1.152
+nature: 1.313
+off_the_beaten_track: 2.305
 ---
 
 Sarreguemines sits where the Sarre and Blies rivers meet, right on the French-German border — the German town of Kleinblittersdorf is a short walk across the bridge. With around 21,000 residents, it's a quietly confident provincial town that knows what it is: the home of one of France's most famous ceramics traditions.

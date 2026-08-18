@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Calbayog_City_Hall,_Jose_A
 latitude: 12.067
 loc_type: city
 longitude: 124.5947
-score: 4.336
+score: 4.767
 snippet: Western Samar port city, used as a base for waterfalls and forested island
   interior trips.
 title: Calbayog
 type: location
-heritage: 1.973
-vibrancy: 1.884
-nature: 5.562
-off_the_beaten_track: 3.797
+heritage: 2.114
+vibrancy: 1.803
+nature: 6.18
+off_the_beaten_track: 3.959
 ---
 
 Calbayog is the largest city on [Samar Island](/asia/philippines/samarisland), sprawling across three districts on the island's western coast. It is not a tourist city in any conventional sense — this is a working Philippine port town with a busy market, jeepneys painted in eye-watering colours, and the kind of easy-going local life that makes the Philippines so appealing when you get off the beaten path.

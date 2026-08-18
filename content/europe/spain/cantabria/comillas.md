@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Capricho_Gaud%C3%AD_Comill
 latitude: 43.3855
 loc_type: city
 longitude: -4.2902
-score: 5.346
+score: 5.016
 snippet: Cantabrian coastal town whose small fishing-village scale hides Gaudí's El
   Capricho and grand modernista monuments.
 title: Comillas
 type: location
-heritage: 6.304
-vibrancy: 3.276
-nature: 4.872
-off_the_beaten_track: 2.721
+heritage: 5.889
+vibrancy: 3.002
+nature: 4.63
+off_the_beaten_track: 2.742
 ---
 
 Comillas is a small coastal town in Cantabria that has an architectural legacy completely out of proportion to its size. In the late nineteenth century, the Marquis of Comillas — who had made a fortune in Cuba — brought the leading architects of the day here to build grand monuments in what was essentially a fishing village. The result is one of the most surprising collections of buildings on the Spanish coast, set against a backdrop of green hills and the Cantabrian Sea.

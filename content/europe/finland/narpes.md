@@ -4,7 +4,7 @@ done:
 latitude: 62.4667
 loc_type: city
 longitude: 21.3333
-score: 4.248
+score: 4.437
 snippet: Swedish-speaking Ostrobothnian greenhouse town with church stables, tomato
   pride, and a scattered coast.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/N%C3%A4rpes
 title: Närpes
 type: location
-heritage: 3.121
-vibrancy: 2.278
-nature: 5.261
-off_the_beaten_track: 2.886
+heritage: 3.281
+vibrancy: 2.19
+nature: 5.487
+off_the_beaten_track: 3.018
 ---
 
 Närpes is one of the most Swedish-speaking towns in mainland Finland, spread across fields, villages, greenhouses, and a low Ostrobothnian coast. It is famous inside Finland for tomatoes and cucumbers rather than monuments, which gives the place a plain but memorable identity.

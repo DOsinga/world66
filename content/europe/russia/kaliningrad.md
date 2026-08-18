@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kaliningrad_05-2017_img29_
 latitude: 54.7119
 loc_type: city
 longitude: 20.5082
-score: 5.556
+score: 4.861
 snippet: Russian Baltic exclave city, formerly Königsberg, where Prussian brick Gothic
   survives beside amber markets
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Kaliningrad
 title: Kaliningrad
 type: location
-heritage: 6.693
-vibrancy: 4.192
-nature: 4.742
-off_the_beaten_track: 4.324
+heritage: 5.824
+vibrancy: 3.776
+nature: 3.994
+off_the_beaten_track: 3.945
 ---
 
 Kaliningrad is one of the most geographically peculiar cities in the world: a Russian city on the Baltic Sea with no land connection to Russia itself. It is an exclave, surrounded by Poland to the south and Lithuania to the north, and this strangeness is stamped on everything here — in the German brick Gothic architecture that survived the Second World War, in the street names that replaced Prussian originals, in the amber markets selling the fossilised resin that washes up on local beaches in quantities found nowhere else in Europe.

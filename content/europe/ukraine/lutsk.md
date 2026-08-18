@@ -2,7 +2,7 @@
 latitude: 50.75
 loc_type: city
 longitude: 25.3358
-score: 6.382
+score: 5.36
 snippet: Volyn's old castle city on the Styr River, centred on Lubart's brick fortress.
 sources:
 - https://en.wikivoyage.org/wiki/Lutsk
@@ -15,10 +15,10 @@ image: lutsk.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lutsk_(2017-08-15)_08.jpg
 image_license: CC0
 image_attribution: DonSimon
-heritage: 7.958
-vibrancy: 4.327
-nature: 3.312
-off_the_beaten_track: 3.006
+heritage: 6.523
+vibrancy: 3.958
+nature: 3.573
+off_the_beaten_track: 3.068
 ---
 
 Lutsk is the old capital of Volyn, a western Ukrainian city on a bend of the Styr River with a compact historic core and one of the country's strongest medieval castles. It is not as polished as Lviv, and current travel conditions in Ukraine need careful checking, but the best of Lutsk has real weight: brick towers, Catholic and Orthodox churches, old market lanes, and a long borderland history between Rus, Lithuania, Poland, and Ukraine.

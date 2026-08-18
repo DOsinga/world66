@@ -8,15 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Plaza_de_la_Libertad,_Mija
 latitude: 36.595747
 loc_type: city
 longitude: -4.637519
-score: 5.461
+score: 5.392
 snippet: Whitewashed Andalusian hill village above the Costa del Sol, shaped by views
   and carefully kept streets.
+tags:
+- costa_del_sol
 title: Mijas
 type: location
-heritage: 4.505
-vibrancy: 4.768
-nature: 6.16
-off_the_beaten_track: 2.306
+heritage: 4.331
+vibrancy: 4.888
+nature: 5.995
+off_the_beaten_track: 2.017
 ---
 
 The setting of Mijas is spectacular. A whitewashed hill village above the Costa del Sol at 430 metres, it has become one of the most popular day trips along this stretch of coast. Mijas Pueblo — the old town — knows how to be picturesque and has invested in staying that way. When the burros were no longer needed to bring marble and lime from the [Sierra de Mijas](/europe/spain/andalucia/mijas/sierra_de_mijas) quarries down to the coast, they were not retired but converted into [donkey taxis](/europe/spain/andalucia/mijas/donkey_taxis) for visitors. When a bullring was built here, it broke with tradition by being [square rather than circular](/europe/spain/andalucia/mijas/square_bullring).

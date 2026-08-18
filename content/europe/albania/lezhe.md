@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 41.7805
 longitude: 19.6434
-score: 4.354
+score: 4.805
 snippet: Northern Albanian city tied to Skanderbeg, a hilltop castle, and coastal
   lagoons.
 wikidata: Q169160
@@ -13,10 +13,10 @@ sources:
 - https://www.wikidata.org/wiki/Q169160
 - https://en.wikipedia.org/wiki/Lezh%C3%AB
 - https://en.wikipedia.org/wiki/Lezh%C3%AB_Castle
-heritage: 4.728
-vibrancy: 2.851
-nature: 4.744
-off_the_beaten_track: 5.319
+heritage: 4.737
+vibrancy: 3.236
+nature: 5.44
+off_the_beaten_track: 4.686
 ---
 
 Lezhe is a small northern Albanian city with more history than its size suggests. The ancient city of Lissus stood here, the League of Lezhe gathered Albanian nobles under Skanderbeg in 1444, and Skanderbeg was later buried in the old cathedral in the centre.

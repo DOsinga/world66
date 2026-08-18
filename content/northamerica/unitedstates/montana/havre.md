@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 48.55
 longitude: -109.6841
-score: 4.773
+score: 4.187
 snippet: Montana Hi-Line railroad town with an underground main-street tour and buffalo-jump
   archaeology.
 wikidata: Q959425
@@ -14,10 +14,10 @@ sources:
 - https://visitmt.com/listing/wahkpa-chugn-buffalo-jump-archaeological-site-11052
 - https://www.earlclackmuseumfoundation.org/
 - https://visitmt.com/listing/fort-assinniboine-historic-site-northern-agricultural-research-center-11057
-heritage: 3.059
-vibrancy: 1.87
-nature: 5.738
-off_the_beaten_track: 5.442
+heritage: 2.831
+vibrancy: 1.811
+nature: 4.819
+off_the_beaten_track: 5.477
 ---
 
 Havre is a working town on Montana's Hi-Line, close to the Canadian border and surrounded by a lot of open prairie. It is not pretty in the mountain-resort sense, and that helps. The place feels like railroads, wheat, long highways, winter wind, and history that has not been polished smooth.

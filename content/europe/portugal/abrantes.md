@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 39.4644
 longitude: -8.1978
-score: 5.259
+score: 4.756
 snippet: Hilly Tagus Valley town watched by a medieval castle and broad river viewpoints.
 image: abrantes.jpg
 image_attribution: Threeohsix
@@ -15,10 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Abrantes
 - https://www.centerofportugal.com/destination/abrantes
 wikidata: Q331191
-heritage: 5.582
-vibrancy: 5.176
-nature: 4.756
-off_the_beaten_track: 3.199
+heritage: 4.591
+vibrancy: 4.854
+nature: 4.476
+off_the_beaten_track: 3.2
 ---
 
 Abrantes sits high above the Tagus, close to the point where Portugal's middle becomes flatter, warmer, and more open. It is not a grand monument town like nearby [Tomar](/europe/portugal/tomar), but it has enough shape for a spare day: a castle ridge, a compact old centre, river views, and churches that show its long military and religious history.

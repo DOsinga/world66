@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: 51.6339
 longitude: -102.437
-score: 2.891
+score: 2.786
 snippet: East-central Saskatchewan railway town with Ukrainian settler heritage and
   Good Spirit country nearby.
 sources:
 - https://en.wikivoyage.org/wiki/Canora
 - https://www.tourismsaskatchewan.com/community/222/canora
 - https://saskmuseums.org/places/ukrainian-heritage-museum/
-heritage: 2.693
-vibrancy: 1.316
-nature: 3.34
-off_the_beaten_track: 3.446
+heritage: 2.876
+vibrancy: 1.245
+nature: 3.1
+off_the_beaten_track: 3.321
 ---
 
 Canora is a small railway town in east-central Saskatchewan, north of Yorkton and close to the lakes and sand dunes of Good Spirit country. It is not a place to cross the province for, but it has a clearer identity than many prairie towns of its size: Canadian Northern Railway roots, Ukrainian block-settlement history, and a cluster of odd little museums along Main Street.

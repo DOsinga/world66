@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Campo_da_calcio_di_Henning
 latitude: 68.1529
 loc_type: city
 longitude: 14.2007
-score: 6.184
+score: 6.007
 snippet: Lofoten fishing village spread across islets beneath Mount Vågakaillen and
   the Vestfjord
 sources:
@@ -18,10 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Henningsv%C3%A6r_Church
 title: Henningsvær
 type: location
-heritage: 2.882
-vibrancy: 1.589
-nature: 7.932
-off_the_beaten_track: 5.416
+heritage: 4.572
+vibrancy: 1.027
+nature: 7.373
+off_the_beaten_track: 6.007
 ---
 
 Henningsvær sits at the foot of Mount Vågakaillen, a cluster of isles and islets scattered across the blue waters of the Vestfjord. With mountains at its back and the sea on every other side, it was a natural hub during the Lofoten winter fishery, and in the 1800s the village prospered into one of the most prominent fishing communities in Lofoten.

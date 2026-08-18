@@ -6,7 +6,7 @@ tags:
 - siljan_area
 latitude: 60.73333
 longitude: 15.0
-score: 5.02
+score: 5.039
 snippet: Lake Siljan town known for Midsummer, crispbread, rural Dalarna culture,
   and timber heritage.
 wikidata: Q1003260
@@ -18,10 +18,10 @@ image: leksand.jpg
 image_source: https://commons.wikimedia.org/wiki/File:J%C3%A4rnv%C3%A4gsbro_Leksand_May_2018_01.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Arild Vågen
-heritage: 3.371
-vibrancy: 2.73
-nature: 6.352
-off_the_beaten_track: 2.323
+heritage: 3.279
+vibrancy: 3.049
+nature: 6.338
+off_the_beaten_track: 2.259
 ---
 
 *Europe > Sweden > Leksand*

@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Dinan_on_the_banks_of_the_
 latitude: 48.454
 loc_type: city
 longitude: -2.0477
-score: 6.275
+score: 5.971
 snippet: Breton medieval town above the River Rance, enclosed by ramparts and half-timbered
   streets
 title: Dinan
 type: location
-heritage: 7.283
-vibrancy: 4.295
-nature: 5.98
-off_the_beaten_track: 3.421
+heritage: 6.84
+vibrancy: 3.237
+nature: 5.895
+off_the_beaten_track: 3.133
 ---
 
 Dinan is one of the best-preserved medieval towns in Brittany, perched above the River Rance with a ring of 13th-century ramparts still largely intact. Half-timbered houses lean over cobbled streets in the old centre, and the view from the Jardin Anglais down to the old port is one of the finest in northern France.

@@ -15,11 +15,11 @@ image: amasya.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Amasya-Pontisches_Grab-02.JPG
 image_license: CC BY-SA 4.0
 image_attribution: Michael F. Schönitzer
-score: 6.197
-heritage: 7.29
-vibrancy: 3.822
-nature: 5.685
-off_the_beaten_track: 3.532
+score: 5.739
+heritage: 6.521
+vibrancy: 3.392
+nature: 5.786
+off_the_beaten_track: 2.843
 ---
 
 Amasya is one of Turkey's most rewarding small cities, and one of its least visited by outsiders. Tucked into a dramatic gorge carved by the Yeşilırmak River, it is bookended by rock-cut royal tombs on one side and Ottoman timber mansions reflected in the water on the other. It feels like a place that has made peace with its own improbability.

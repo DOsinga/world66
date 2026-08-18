@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Naghshe_jahan_01.jpg
 latitude: 32.6709
 loc_type: city
 longitude: 51.665
-score: 5.462
+score: 5.102
 snippet: Safavid imperial city centred on Naqsh-e Jahan Square, turquoise domes, and
   Persian craft traditions.
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Naqsh-e_Jahan_Square
 title: Isfahan
 type: location
-heritage: 6.51
-vibrancy: 4.312
-nature: 2.399
-off_the_beaten_track: 4.912
+heritage: 6.085
+vibrancy: 4.021
+nature: 3.017
+off_the_beaten_track: 4.784
 ---
 
 Isfahan — also spelled Esfahan — is one of Iran's great imperial cities, and many Iranians consider it the most beautiful city in the country. The Persian proverb "Isfahan nesf-e jahan ast" — Isfahan is half the world — captures something real: the city's central Naqsh-e Jahan Square alone is one of the largest public squares on earth, and the skyline of turquoise domes and minarets visible from its edges has barely changed since the Safavid era.

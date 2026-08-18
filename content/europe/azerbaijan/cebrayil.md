@@ -14,10 +14,10 @@ snippet: Southern Karabakh foothill town by the Araz River, marked by ruined his
   sites and wartime displacement.
 title: Cebrayil
 type: location
-heritage: 2.418
-vibrancy: 1.881
-nature: 2.964
-off_the_beaten_track: 2.357
+heritage: 2.409
+vibrancy: 1.973
+nature: 2.967
+off_the_beaten_track: 2.3
 ---
 
 Cebrayil (also spelled Jebrail) is a small town in the southern foothills of the Karabakh mountains, about 340 km southwest of Baku. It sits at an altitude of 600 metres, separated from the Iranian province of East Azerbaijan by the Araz river to the south.

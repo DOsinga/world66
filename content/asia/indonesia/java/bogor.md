@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bogor_Botanical_Gardens_Ja
 latitude: -6.5964
 loc_type: city
 longitude: 106.7973
-score: 3.873
+score: 3.629
 snippet: Rainy Javanese garden city known for its vast tropical botanical gardens
   and palace deer.
 title: Bogor
 type: location
-heritage: 3.427
-vibrancy: 3.585
-nature: 4.271
-off_the_beaten_track: 2.518
+heritage: 2.827
+vibrancy: 3.503
+nature: 3.932
+off_the_beaten_track: 2.555
 ---
 
 Bogor is a quick escape from [Jakarta](/asia/indonesia/java/jakarta), about an hour south by train. The city is best known for its [Botanical Gardens](/asia/indonesia/java/bogor/bogor_botanical_gardens), one of the oldest and most impressive tropical gardens in the world, home to over 15,000 species of trees and plants including the giant *Amorphophallus titanum* (corpse flower). The [Presidential Palace](/asia/indonesia/java/bogor/bogor_palace) sits within the gardens, its lawns grazed by a famous herd of spotted deer. Bogor gets more rain than almost anywhere in Java, which keeps everything lush and green.

@@ -2,7 +2,7 @@
 latitude: 45.2117
 loc_type: city
 longitude: -123.1972
-score: 4.693
+score: 4.776
 snippet: Willamette Valley wine town with a walkable old downtown and the Spruce Goose.
 sources:
 - https://en.wikivoyage.org/wiki/McMinnville_(Oregon)
@@ -11,10 +11,10 @@ sources:
 title: McMinnville
 type: location
 wikidata: Q852693
-heritage: 4.093
-vibrancy: 3.78
-nature: 5.448
-off_the_beaten_track: 2.899
+heritage: 3.755
+vibrancy: 3.747
+nature: 5.593
+off_the_beaten_track: 3.107
 ---
 
 McMinnville is one of the more rewarding small towns in Oregon's Willamette Valley: close to the vineyards, but still centred on a real old downtown rather than a wine-country stage set. Third Street is the place to start, with brick storefronts, tasting rooms, restaurants, and enough local life to make an afternoon wander worthwhile.

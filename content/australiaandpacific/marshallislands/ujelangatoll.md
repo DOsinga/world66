@@ -4,7 +4,7 @@ done:
 latitude: 9.8206
 loc_type: island
 longitude: 160.8934
-score: 6.358
+score: 5.309
 snippet: Isolated western Marshall Islands atoll remembered for the displaced Enewetak
   community that lived here for decades.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://www.openstreetmap.org/relation/5717722
 title: Ujelang Atoll
 type: location
-heritage: 3.797
-vibrancy: 1.121
-nature: 7.567
-off_the_beaten_track: 7.497
+heritage: 4.042
+vibrancy: 0.853
+nature: 5.924
+off_the_beaten_track: 7.554
 ---
 
 Ujelang Atoll is one of the most remote places in the Marshall Islands, far out in the western Ralik Chain. It is quiet now, but its modern history is heavy: after the United States began nuclear testing at Enewetak, many Enewetak people were relocated here and lived on Ujelang for decades before return became possible.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -35.7072
 longitude: 150.178
-score: 5.543
+score: 4.998
 snippet: South Coast river-mouth town where Canberra weekenders meet Clyde River oysters
   and quiet beaches.
 wikidata: Q810756
@@ -15,10 +15,10 @@ image: batemans_bay.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Batemans_Bay_at_Batemans_Bay,_New_South_Wales,_2020.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Grahamec
-heritage: 3.041
-vibrancy: 2.877
-nature: 7.201
-off_the_beaten_track: 2.998
+heritage: 2.714
+vibrancy: 2.393
+nature: 6.59
+off_the_beaten_track: 3.186
 ---
 
 Batemans Bay sits where the Clyde River opens into the Pacific. It is the closest proper seaside town to Canberra, so summer brings a big holiday crowd, but the better reason to stop is the mix of estuary, oysters, beaches, and bush.

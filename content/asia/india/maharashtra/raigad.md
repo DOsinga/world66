@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Mahadarwaja,_Raigad_Fort,_
 latitude: 18.2333
 loc_type: city
 longitude: 73.44
-score: 5.397
+score: 4.586
 snippet: Maratha hill fort in the Western Ghats, where Shivaji was crowned and later
   buried.
 title: Raigad
 type: location
-heritage: 6.557
-vibrancy: 4.01
-nature: 4.274
-off_the_beaten_track: 3.364
+heritage: 5.417
+vibrancy: 3.681
+nature: 4.159
+off_the_beaten_track: 3.069
 ---
 
 [Raigad Fort](/asia/india/maharashtra/raigad/raigad_fort), in the Sahyadri ranges of the Western Ghats, was the capital of the Maratha warrior king Chhatrapati Shivaji Maharaj. Perched on a sheer-sided plateau roughly 820 m above the surrounding valley, it was one of the most formidable fortresses of 17th-century India. Shivaji was crowned here in 1674 and died here in 1680.

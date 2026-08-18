@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Constanta_Casino,_Romania_
 latitude: 44.176716
 loc_type: city
 longitude: 28.65076
-score: 5.497
+score: 5.474
 snippet: Black Sea port city founded as Tomis, with Roman traces and a restored Art
   Nouveau casino.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Constan%C8%9Ba
 title: Constanta
 type: location
-heritage: 5.064
-vibrancy: 5.597
-nature: 5.237
-off_the_beaten_track: 1.672
+heritage: 4.823
+vibrancy: 5.554
+nature: 5.267
+off_the_beaten_track: 1.562
 ---
 
 Constanța is Romania's main port and the gateway to the Black Sea coast. Founded in the 6th century BC by Greek merchants as **Tomis**, it was later developed by the Romans and renamed after Emperor Constantine. The poet **Ovid** was exiled here by Augustus in AD 8 and spent his last years writing elegies about the cold and the barbarians — [his statue](/europe/romania/constanta/ovid_square) still stands in the main square.

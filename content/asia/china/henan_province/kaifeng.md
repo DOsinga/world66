@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Daliang_City_Gate.jpg
 latitude: 34.795
 loc_type: city
 longitude: 114.345
-score: 6.01
+score: 5.84
 snippet: Former Northern Song capital where buried dynasties, the Iron Pagoda, and
   Jewish heritage survive under Henan silt.
 sources:
 - https://en.wikivoyage.org/wiki/Kaifeng
 title: Kaifeng
 type: location
-heritage: 7.494
-vibrancy: 4.073
-nature: 2.308
-off_the_beaten_track: 2.295
+heritage: 7.303
+vibrancy: 3.916
+nature: 2.674
+off_the_beaten_track: 2.457
 ---
 
 For most of the eleventh century, Kaifeng was the largest city on earth. As the capital of the Northern Song dynasty it was a place of extraordinary cosmopolitan energy — the great painting "Along the River During the Qingming Festival" captures a single day in the life of this city, packed with merchants, entertainers, boats, and festivals. Marco Polo passed through in 1260, long after the Song had moved south, and was still impressed. That world is gone, buried under centuries of flooding and silt — the city has been rebuilt on top of itself so many times that the Tang-dynasty streets lie twelve metres below the current surface — but enough survives to make Kaifeng one of Henan's most rewarding stops.

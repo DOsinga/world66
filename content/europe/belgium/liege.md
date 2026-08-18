@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Liège,_uitzicht_vanaf_Mon
 latitude: 50.6453
 loc_type: city
 longitude: 5.5735
-score: 5.276
+score: 5.09
 snippet: Fiery Walloon city on the Meuse, shaped by revolt, steel, and a compact old
   centre
 title: Liege
 type: location
-heritage: 5.848
-vibrancy: 5.058
-nature: 2.421
-off_the_beaten_track: 2.367
+heritage: 5.717
+vibrancy: 4.728
+nature: 3.11
+off_the_beaten_track: 2.476
 ---
 
 Liège calls itself *La Cité Ardente* — the fiery city — and the name fits. The city has a long history of popular revolt: against Burgundian occupation in the fifteenth century, against the Spanish Netherlands, against every authority that tried to suppress its liberties. It was the first continental European city to industrialise, the birthplace of modern steel and arms manufacturing, and it has never entirely shed the working-class energy that came with it.

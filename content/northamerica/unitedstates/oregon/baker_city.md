@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 44.775
 longitude: -117.8344
-score: 4.233
+score: 4.387
 snippet: Eastern Oregon gold-rush town with Oregon Trail history, brick downtown,
   and mountain byways.
 sources:
@@ -14,10 +14,10 @@ image: baker_city.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bakermainstreet.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Finetooth
-heritage: 2.875
-vibrancy: 2.271
-nature: 5.343
-off_the_beaten_track: 3.805
+heritage: 3.147
+vibrancy: 2.255
+nature: 5.466
+off_the_beaten_track: 3.712
 ---
 
 Baker City is a small eastern Oregon town with more substance than its size suggests. It grew rich on mining, ranching, and the traffic of the Oregon Trail, and its downtown still has a run of handsome brick buildings from the late nineteenth and early twentieth centuries.

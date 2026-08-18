@@ -14,7 +14,7 @@ quick_facts:
   Limestone Islands: ~1,600
   Name Means: Descending Dragon
   UNESCO Since: '1994'
-score: 6.481
+score: 6.867
 snippet: Vietnamese karst bay where nearly two thousand limestone islands rise from
   the Gulf of Tonkin.
 tags:
@@ -32,10 +32,10 @@ tip: Halong Bay is best as an overnight cruise, not a day trip — you want to w
   Tu Long Bay nearby for the same scenery with fewer boats.
 title: Ha Long Bay
 type: location
-heritage: 4.871
-vibrancy: 5.151
-nature: 7.557
-off_the_beaten_track: 3.664
+heritage: 4.143
+vibrancy: 6.578
+nature: 7.465
+off_the_beaten_track: 4.03
 ---
 
 Ha Long Bay is one of the most spectacular natural landscapes in Asia. Over 1,900 limestone islands and karst formations rise from the Gulf of Tonkin in the northeastern corner of Vietnam, draped in green jungle and riddled with caves, creating a seascape that looks like a Chinese ink painting brought to life. It is a UNESCO World Heritage Site, and deservedly so. About 170 km east of Hanoi, it draws visitors from around the world.

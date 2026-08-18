@@ -9,15 +9,15 @@ image_source: https://www.flickr.com/photos/25779097@N08/2417710541
 latitude: -33.96186
 loc_type: city
 longitude: 25.618673
-score: 4.333
+score: 3.94
 snippet: Eastern Cape port city, also called Gqeberha, with Algoa Bay beaches and
   1820 settler history.
 title: Port Elizabeth
 type: location
-heritage: 3.689
-vibrancy: 4.354
-nature: 4.277
-off_the_beaten_track: 1.733
+heritage: 2.885
+vibrancy: 3.844
+nature: 4.188
+off_the_beaten_track: 2.045
 ---
 
 Port Elizabeth — now officially known by its Xhosa name **Gqeberha** since 2021, though almost everyone still calls it PE — is a city of around 1.3 million people on Algoa Bay, roughly halfway between Cape Town and Durban on the Indian Ocean coast. It was founded in 1820 as the landing point of the British settler scheme that brought 4,000 immigrants to the eastern Cape frontier, and the colonial-era buildings of Donkin Street and the old town hill above the harbour still carry that history. Today it is the main port and industrial city of the Eastern Cape, with a reputation for sunshine — the nickname is "the Friendly City" or "the Windy City" (both fit) — and for being the best base for exploring the **Garden Route** to the west and the **Eastern Cape game reserves** to the north.

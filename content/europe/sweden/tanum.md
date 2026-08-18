@@ -9,15 +9,15 @@ image_source: https://www.flickr.com/photos/12053417@N00/1400505317
 latitude: 58.75
 loc_type: city
 longitude: 11.4167
-score: 6.105
+score: 6.172
 snippet: Bohuslän municipality on Sweden’s west coast, famous for Bronze Age rock
   carvings at Vitlycke.
 title: Tanum
 type: location
-heritage: 7.119
-vibrancy: 1.774
-nature: 5.745
-off_the_beaten_track: 2.334
+heritage: 6.867
+vibrancy: 3.333
+nature: 6.555
+off_the_beaten_track: 1.92
 ---
 
 Tanum is a municipality in the province of Bohuslän on the northern part of the Swedish west coast. It is best known for its extraordinary concentration of Bronze Age rock carvings — hundreds of panels scattered across the landscape depicting humans, animals, boats, and ritual scenes. These carvings, mostly around 3,000 years old, were declared a UNESCO World Heritage Site in 1994.

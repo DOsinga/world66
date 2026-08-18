@@ -7,15 +7,15 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Sebastian_Cathedral,_L
 latitude: 13.941434
 loc_type: city
 longitude: 121.164283
-score: 3.869
+score: 3.592
 snippet: Batangas city known for barako coffee, highland farms, and a once-booming
   19th-century coffee trade.
 title: Lipa
 type: location
-heritage: 3.346
-vibrancy: 2.777
-nature: 4.578
-off_the_beaten_track: 1.758
+heritage: 3.357
+vibrancy: 2.751
+nature: 4.145
+off_the_beaten_track: 1.715
 ---
 
 Lipa is a thriving city in the Batangas province, about two hours south of Manila, long known as the coffee capital of the Philippines. In the nineteenth century, Lipa was one of the world's major coffee producers, and while blight and competition devastated the industry, coffee culture has made a serious comeback. You will find local barako coffee everywhere, strong and aromatic, and several [farms in the surrounding highlands](/asia/philippines/lipa/barako_coffee_farms) offer tours.

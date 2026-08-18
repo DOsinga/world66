@@ -5,7 +5,7 @@ loc_type: feature
 latitude: 33.0667
 longitude: -16.35
 wikidata: Q27320
-score: 5.545
+score: 5.781
 snippet: Sandy sister island of Madeira, with a long golden beach and dry volcanic
   hills.
 sources:
@@ -18,10 +18,10 @@ image: porto_santo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Porto_Santo_Beach,_Madeira,_Portugal.JPG
 image_license: CC BY 3.0
 image_attribution: PaterMcFly
-heritage: 2.609
-vibrancy: 2.104
-nature: 7.245
-off_the_beaten_track: 4.424
+heritage: 2.862
+vibrancy: 1.898
+nature: 7.484
+off_the_beaten_track: 4.841
 ---
 
 Porto Santo is [Madeira](/europe/portugal/madeira)'s smaller sister island, about 40 km to the northeast and reached by ferry or short flight from Funchal. Where Madeira is steep, green, and dramatic, Porto Santo is dry, low, and sandy. Its great argument is simple: [Praia do Porto Santo](/europe/portugal/madeira/porto_santo/praia_do_porto_santo), a long golden beach running along the south coast, backed by a small town and pale volcanic hills.

@@ -16,7 +16,7 @@ quick_facts:
   Distinction: World's highest admin capital
   Elevation: ~3,640 m
   Witches' Market: Llama foetuses for luck
-score: 6.322
+score: 5.877
 snippet: High Andean capital spilling through a canyon beneath Illimani and El Alto's
   plateau
 tip: La Paz is the highest administrative capital on earth — the airport at El Alto
@@ -26,10 +26,10 @@ tip: La Paz is the highest administrative capital on earth — the airport at El
   sells dried llama foetuses for luck.
 title: La Paz
 type: location
-heritage: 5.384
-vibrancy: 5.769
-nature: 7.012
-off_the_beaten_track: 3.464
+heritage: 4.342
+vibrancy: 5.314
+nature: 6.541
+off_the_beaten_track: 3.299
 ---
 
 La Paz hits you before you even arrive. The airport sits at 4,061 metres in [El Alto](/southamerica/bolivia/lapaz/el_alto) — a wind-blasted plateau city in its own right — and the descent by road into the canyon below is one of the great urban approaches on earth. The city spills down the slopes in a tangle of red-brick buildings, [cable cars](/southamerica/bolivia/lapaz/teleferico), and market stalls, with the white peak of [Illimani](/southamerica/bolivia/lapaz/illimani_views) hovering behind it all at 6,438 metres.

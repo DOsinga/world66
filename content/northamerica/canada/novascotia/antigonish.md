@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 45.6228
 longitude: -61.9917
-score: 4.581
+score: 4.732
 snippet: Nova Scotia university town with Scottish games, StFX stonework, and a serious
   local heritage streak.
 sources:
@@ -15,10 +15,10 @@ image: antigonish.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Antigonish_Highland_Games.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Brendan Riley
-heritage: 4.977
-vibrancy: 3.305
-nature: 4.991
-off_the_beaten_track: 4.586
+heritage: 4.809
+vibrancy: 3.404
+nature: 5.296
+off_the_beaten_track: 4.419
 ---
 
 Antigonish is a small Nova Scotia town on the Northumberland Shore, best known for St. Francis Xavier University and the Highland Games that take over the town each July. The rest of the year it is quieter, but the campus, cathedral, and Main Street give it more shape than a simple highway stop.

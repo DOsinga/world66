@@ -2,7 +2,7 @@
 latitude: 2.0393
 loc_type: city
 longitude: 102.5691
-score: 5.188
+score: 4.767
 snippet: Johor royal town on the Muar River, known for mosques, shophouses, murals,
   and otak-otak.
 sources:
@@ -11,10 +11,10 @@ sources:
 - https://en.wikipedia.org/wiki/Sultan_Ibrahim_Jamek_Mosque
 title: Muar
 type: location
-heritage: 5.826
-vibrancy: 4.079
-nature: 5.39
-off_the_beaten_track: 3.48
+heritage: 5.179
+vibrancy: 3.644
+nature: 5.193
+off_the_beaten_track: 3.505
 ---
 
 Muar is an old river town on Johor's west coast, close enough to [Melaka](/asia/malaysia/melaka) to be overlooked and different enough to deserve its own stop. It is one of Johor's royal towns, with a broad river mouth, pre-war shophouses, a handsome mosque, and a food culture that makes Malaysians talk about breakfast before they mention sightseeing.

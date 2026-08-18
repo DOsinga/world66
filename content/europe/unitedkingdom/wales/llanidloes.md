@@ -5,7 +5,7 @@ loc_type: city
 latitude: 52.449
 longitude: -3.5402
 wikidata: Q2741834
-score: 5.149
+score: 5.611
 snippet: Mid Wales market town on the upper Severn, below Clywedog and Hafren Forest.
 sources:
 - https://en.wikivoyage.org/wiki/Llanidloes
@@ -17,10 +17,10 @@ image: llanidloes.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Old_Market_Hall,_Llanidloes,_Powys.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Rosser1954
-heritage: 4.985
-vibrancy: 3.379
-nature: 5.868
-off_the_beaten_track: 4.53
+heritage: 5.317
+vibrancy: 3.359
+nature: 6.443
+off_the_beaten_track: 4.534
 ---
 
 *Europe > United Kingdom > Wales > Llanidloes*

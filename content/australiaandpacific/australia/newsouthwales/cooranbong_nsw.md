@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cooranbong_Airfield_in_195
 latitude: -33.07621
 loc_type: city
 longitude: 151.453613
-score: 4.679
+score: 4.711
 snippet: Quiet Lake Macquarie town at the foot of the Watagan Mountains, close to
   forest trails.
 title: Cooranbong
 type: location
-heritage: 2.021
-vibrancy: 2.897
-nature: 5.853
-off_the_beaten_track: 2.047
+heritage: 1.671
+vibrancy: 2.922
+nature: 5.89
+off_the_beaten_track: 1.795
 ---
 
 Cooranbong is a small town on the western shore of [Lake Macquarie](/australiaandpacific/australia/newsouthwales/cooranbong_nsw/lake_macquarie), about 100km north of Sydney and 30km south of Newcastle. It sits at the foot of the Watagan Mountains and serves as a gateway to the [Watagan State Forest](/australiaandpacific/australia/newsouthwales/cooranbong_nsw/watagan_state_forest), which has good bushwalking, camping, and mountain-bike trails in the hills above the lake.

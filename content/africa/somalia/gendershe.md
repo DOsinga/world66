@@ -4,15 +4,15 @@ done:
 latitude: 1.834937
 loc_type: city
 longitude: 44.966845
-score: 4.409
+score: 4.002
 snippet: Small Indian Ocean settlement south of Mogadishu, known locally as Janaale,
   Gendershe, or Jannaale
 title: Janaale
 type: location
-heritage: 1.497
-vibrancy: 1.318
-nature: 4.028
-off_the_beaten_track: 7.215
+heritage: 2.18
+vibrancy: 1.255
+nature: 2.648
+off_the_beaten_track: 7.165
 ---
 
 Janaale (sometimes called Gendershe or Jannaale) is a small coastal settlement about 60 km south of Mogadishu on the Indian Ocean. It is known for a long stretch of white sand beach that was, before the civil war, one of the more attractive coastal spots accessible from the capital.

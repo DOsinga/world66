@@ -16,7 +16,7 @@ quick_facts:
   Elevation: 738 m
   Free Tapas: With every drink
   Last Moorish City: Fell in 1492
-score: 7.167
+score: 7.795
 snippet: Historic Andalusian city below the Alhambra, the great surviving palace of
   Moorish Spain.
 tip: The Alhambra sells out days ahead and entry is timed — book online the moment
@@ -25,10 +25,10 @@ tip: The Alhambra sells out days ahead and entry is timed — book online the mo
   drink. Watch sunset over the Alhambra from the Mirador de San Nicolás in the Albaicín.
 title: Granada
 type: location
-heritage: 8.277
-vibrancy: 6.195
-nature: 5.624
-off_the_beaten_track: 1.839
+heritage: 8.221
+vibrancy: 7.693
+nature: 5.308
+off_the_beaten_track: 1.676
 ---
 
 Granada is the last great city of Moorish Spain and one of the most intensely historic places in Europe. When Boabdil surrendered the [Alhambra](/europe/spain/andalucia/granada/alhambra) to Ferdinand and Isabella in 1492, he ended eight centuries of Islamic civilization in Spain and gave the Catholic Monarchs a prize that still draws millions of visitors each year. The palace complex on its hill above the city — the Nasrid Palaces, the Generalife gardens, the Alcazaba fortress — is the finest surviving example of Islamic architecture in the western world.

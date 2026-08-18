@@ -10,15 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bangalore_Panorama_edit1.j
 latitude: 12.976794
 loc_type: city
 longitude: 77.590082
-score: 7.685
+score: 7.968
 snippet: Indian tech capital and garden city, where Cubbon Park and old neighbourhoods
   soften a fast-growing metropolis
 title: Bangalore
 type: location
-heritage: 6.267
-vibrancy: 8.281
-nature: 3.255
-off_the_beaten_track: 1.495
+heritage: 7.243
+vibrancy: 8.303
+nature: 3.232
+off_the_beaten_track: 1.334
 ---
 
 Bangalore — officially Bengaluru since 2006 — is India's tech capital and the fastest-growing large city in the country. It is also, somehow, still a garden city. Cubbon Park sits at the centre of everything, shaded by trees planted in the 1870s, and even in the densest parts of the city you are rarely more than ten minutes from somewhere green. The combination of a relatively mild climate (the altitude keeps temperatures reasonable year-round), a huge, young, mobile population, and decades of wealth has produced a city with more good restaurants, bars, and cultural venues than almost anywhere else in India.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Genova%60s_Fortresss,_Suda
 latitude: 44.8488
 loc_type: city
 longitude: 34.9711
-score: 4.955
+score: 4.835
 snippet: Crimean Black Sea resort town beneath a Genoese fortress, with ancient trade
   history and wine valleys
 title: Sudak
 type: location
-heritage: 5.482
-vibrancy: 4.339
-nature: 5.332
-off_the_beaten_track: 4.009
+heritage: 5.256
+vibrancy: 4.189
+nature: 5.267
+off_the_beaten_track: 4.041
 ---
 
 Sudak is a small resort town on Crimea's southeastern coast, sheltered in a bay between Cape Alchak and the dramatic headland topped by the Genoese Fortress. The fortress is the town's main attraction — a remarkably well-preserved 14th-century fortification built by Genoese traders who controlled this stretch of coast. Its massive walls, towers, and gatehouse cling to a rocky ridge above the sea, and the views from the upper citadel are spectacular.

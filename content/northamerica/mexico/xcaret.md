@@ -6,16 +6,16 @@ image_source: https://commons.wikimedia.org/wiki/File:XcaretMexico.jpg
 latitude: 20.5806
 loc_type: feature
 longitude: -87.1175
-score: 4.925
+score: 5.626
 snippet: Eco-archaeological theme park with underground rivers and nightly show
 tags:
 - sight
 title: Xcaret Park
 type: location
-heritage: 3.365
-vibrancy: 4.859
-nature: 5.094
-off_the_beaten_track: 0.882
+heritage: 3.74
+vibrancy: 5.62
+nature: 5.643
+off_the_beaten_track: 0.803
 ---
 
 A purpose-built eco-archaeological park 70 km south of Cancun on the Riviera Maya, occupying the site of a Mayan port and trading town. The headline attractions are the three underground rivers that visitors swim through with life jackets, plus replica villages, a butterfly pavilion, a coral reef aquarium, a turtle rehabilitation pond, dolphin and sting-ray encounters (extra cost), and one of the most ambitious nightly shows in Latin America — *Xcaret México Espectacular* — which traces 500 years of Mexican history with 300 performers.

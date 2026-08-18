@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Brick_Buildings_Nashville_
 latitude: 36.162277
 loc_type: city
 longitude: -86.774298
-score: 7.634
+score: 7.829
 snippet: Southern state capital where country music landmarks sit beside universities,
   healthcare, and honky-tonk nightlife.
 title: Nashville
 type: location
-heritage: 6.91
-vibrancy: 7.966
-nature: 4.512
-off_the_beaten_track: 2.093
+heritage: 7.204
+vibrancy: 8.125
+nature: 4.262
+off_the_beaten_track: 1.982
 ---
 
 Nashville is the capital of country music and one of the most visited cities in the American South. The [Broadway](/northamerica/unitedstates/tennessee/nashville/broadway) strip — blocks of honky-tonks, neon signs, and live music spilling out of every door — is the face the city shows to the world. But Nashville is also a college town ([Vanderbilt](/northamerica/unitedstates/tennessee/nashville/vanderbilt_university), Belmont, [Fisk](/northamerica/unitedstates/tennessee/nashville/fisk_university)), a major healthcare hub, and a city that has been reinventing itself for twenty years. [East Nashville](/northamerica/unitedstates/tennessee/nashville/east_nashville), once overlooked, is now dense with restaurants and independent businesses. [The Gulch](/northamerica/unitedstates/tennessee/nashville/the_gulch) has become a polished, walkable neighbourhood of new hotels and good eating. The food scene, long rooted in Southern comfort food and the meat-and-three tradition, has broadened considerably.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cheboksary._Dormition_Chur
 latitude: 56.13996
 loc_type: city
 longitude: 47.2481
-score: 3.338
+score: 3.212
 snippet: Volga river capital of Chuvashia, where Russian Orthodox landmarks sit beside
   Chuvash cultural institutions
 title: Cheboksary
 type: location
-heritage: 2.829
-vibrancy: 1.86
-nature: 3.975
-off_the_beaten_track: 3.613
+heritage: 3.237
+vibrancy: 1.964
+nature: 3.606
+off_the_beaten_track: 3.122
 ---
 
 Cheboksary is the capital of the Chuvash Republic, a city of about half a million people on the south bank of the Volga River, roughly 650 kilometres east of Moscow. The Chuvash are a Turkic people with their own language, distinct from the Russian majority, and Cheboksary has a character that reflects this dual identity — Russian Orthodox churches alongside Chuvash cultural institutions, and bilingual street signs throughout the city.

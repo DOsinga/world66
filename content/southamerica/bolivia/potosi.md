@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cerro_Rico_over_Potos%C3%A
 latitude: -19.58929
 loc_type: city
 longitude: -65.753471
-score: 5.797
+score: 6.26
 snippet: High Andean silver city beneath Cerro Rico, preserving colonial architecture
   from its imperial mining boom.
 title: Potosi
 type: location
-heritage: 7.107
-vibrancy: 4.176
-nature: 3.197
-off_the_beaten_track: 5.755
+heritage: 7.337
+vibrancy: 5.193
+nature: 3.249
+off_the_beaten_track: 5.692
 ---
 
 Potosí was once the largest and wealthiest city in the Americas. Founded in 1545 following the discovery of silver in the Cerro Rico — the "rich mountain" that looms above the city — it grew with astonishing speed: by the early 17th century it had a population rivalling London or Paris, and the phrase "worth a Potosí" entered the Spanish language as a synonym for fabulous wealth.

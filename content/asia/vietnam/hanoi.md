@@ -15,7 +15,7 @@ quick_facts:
   Founded: '1010'
   Old Quarter: 36 trade streets
   Population: ~8.5 million
-score: 6.498
+score: 7.064
 snippet: Vietnamese capital with an Old Quarter of trade streets, ancient temples,
   French villas, and Hoàn Kiếm Lake.
 tip: 'Hanoi is older, slower and more atmospheric than Saigon — its tangled Old Quarter
@@ -24,10 +24,10 @@ tip: 'Hanoi is older, slower and more atmospheric than Saigon — its tangled Ol
   around you. Sip egg coffee, slurp bun cha, and watch life around Hoan Kiem Lake.'
 title: Hanoi
 type: location
-heritage: 6.483
-vibrancy: 6.553
-nature: 3.716
-off_the_beaten_track: 1.945
+heritage: 6.714
+vibrancy: 7.251
+nature: 3.614
+off_the_beaten_track: 1.892
 ---
 
 Hanoi is one of Southeast Asia's most captivating capitals — a city where ancient temples sit next to French colonial villas, motorbikes swarm through streets barely wide enough for a bicycle, and the smell of pho drifts from every corner. As [Vietnam](/asia/vietnam)'s capital and second-largest city, it is the political and cultural heart of the country, with a history stretching back over a thousand years.

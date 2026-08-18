@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Guthrie,_OK_USA_-_panorami
 latitude: 35.879
 loc_type: city
 longitude: -97.426
-score: 2.13
+score: 1.635
 snippet: Oklahoma's first state capital, with a large preserved Victorian-era downtown
   historic district
 title: Guthrie
 type: location
-heritage: 2.239
-vibrancy: 2.095
-nature: 2.221
-off_the_beaten_track: 1.373
+heritage: 1.748
+vibrancy: 1.604
+nature: 1.523
+off_the_beaten_track: 1.74
 ---
 
 Guthrie is a small city of about 10,000 people in central [Oklahoma](/northamerica/unitedstates/oklahoma), roughly 30 miles north of [Oklahoma City](/northamerica/unitedstates/oklahoma/oklahomacity). It was Oklahoma's first state capital, a status it lost in 1910 when the government was moved to Oklahoma City in a controversial midnight decision. What this loss preserved, however, was the downtown: because Guthrie never had the growth pressure to tear down its Victorian-era buildings, the town center remains remarkably intact. The 1,400-acre historic district is one of the largest contiguous urban areas on the National Register of Historic Places.

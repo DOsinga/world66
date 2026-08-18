@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 18.295
 longitude: -66.878611
-score: 4.803
+score: 4.646
 snippet: Puerto Rican mountain town tied to the Grito de Lares, coffee haciendas,
   and oddball ice cream
 sources:
@@ -15,10 +15,10 @@ image: lares.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Entrando_a_Lares_%22Ciudad_del_Grito%22,_Puerto_Rico.jpg
 image_license: CC BY-SA 4.0
 image_attribution: The Eloquent Peasant
-heritage: 4.782
-vibrancy: 1.825
-nature: 5.417
-off_the_beaten_track: 3.084
+heritage: 4.609
+vibrancy: 1.772
+nature: 5.248
+off_the_beaten_track: 3.193
 ---
 
 Lares is a mountain town in western [Puerto Rico](/northamerica/puertorico), wrapped in coffee country and remembered as the birthplace of Puerto Rican nationalism. The 1868 Grito de Lares uprising failed militarily, but it still gives the town a political charge that ordinary mountain towns do not have.

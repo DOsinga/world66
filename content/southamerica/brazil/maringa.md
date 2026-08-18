@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Maringa_cathedral_byGteram
 latitude: -23.4205
 loc_type: city
 longitude: -51.9333
-score: 3.778
+score: 3.83
 snippet: Planned Paraná city of green avenues, Japanese heritage, and a rocket-shaped
   modernist cathedral.
 sources:
@@ -16,10 +16,10 @@ sources:
 title: Maringá
 type: location
 wikidata: Q208669
-heritage: 3.357
-vibrancy: 3.284
-nature: 4.269
-off_the_beaten_track: 2.799
+heritage: 3.327
+vibrancy: 3.282
+nature: 4.35
+off_the_beaten_track: 2.65
 ---
 
 Maringá is a planned city in northern Paraná, laid out with broad avenues and large pockets of green space rather than the denser colonial pattern found in older Brazilian towns. It is not a place to cross the country for, but if you are already moving through the north of the state it has enough character for a good day.

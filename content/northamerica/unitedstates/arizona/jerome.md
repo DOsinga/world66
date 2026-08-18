@@ -5,7 +5,7 @@ loc_type: city
 latitude: 34.7489
 longitude: -112.1139
 wikidata: Q985248
-score: 4.069
+score: 4.161
 snippet: Arizona copper ghost town turned hillside arts village above the Verde Valley.
 sources:
 - https://en.wikivoyage.org/wiki/Jerome_(Arizona)
@@ -13,10 +13,10 @@ sources:
 - https://azstateparks.com/jerome
 - https://www.jeromehistoricalsociety.com/museums-buildings/audrey-headframe-park/
 - https://goldkingmineghosttown.com/
-heritage: 2.645
-vibrancy: 1.929
-nature: 5.186
-off_the_beaten_track: 3.396
+heritage: 2.837
+vibrancy: 1.868
+nature: 5.247
+off_the_beaten_track: 3.348
 ---
 
 Jerome clings to Cleopatra Hill above the Verde Valley, north of [Prescott](/northamerica/unitedstates/arizona/prescott) and west of Sedona. It boomed on copper, almost emptied after the mines closed, then came back as a strange mix of ghost town, artists' village, mining museum, and day-trip stop.

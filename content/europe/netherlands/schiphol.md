@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Amsterdam_Schiphol_Airport
 latitude: 52.3
 loc_type: feature
 longitude: 4.765
-score: 4.493
+score: 3.651
 snippet: Major Dutch airport gateway southwest of Amsterdam, with trains, art, shops,
   and aircraft-watching terraces.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://www.schiphol.nl/
 title: Schiphol
 type: location
-heritage: 2.569
-vibrancy: 4.627
-nature: 4.148
-off_the_beaten_track: 0.906
+heritage: 1.957
+vibrancy: 3.694
+nature: 3.54
+off_the_beaten_track: 0.959
 ---
 
 Schiphol is the Netherlands' main airport and, for many travellers, the first Dutch place they actually use. It sits in the Haarlemmermeer polder southwest of [Amsterdam](/europe/netherlands/amsterdam), close enough to the city that the train from [Schiphol Airport Station](/europe/netherlands/schiphol/schiphol_airport_station) reaches Amsterdam Centraal in about twenty minutes.

@@ -6,16 +6,16 @@ image_source: https://commons.wikimedia.org/wiki/File:Safari_World,_Bangkok,_Tha
 latitude: 13.865
 loc_type: feature
 longitude: 100.7031
-score: 6.119
+score: 5.702
 snippet: Drive-through wildlife park and bird aviary
 tags:
 - park
 title: Safari World
 type: location
-heritage: 3.411
-vibrancy: 5.013
-nature: 7.062
-off_the_beaten_track: 1.808
+heritage: 2.915
+vibrancy: 4.704
+nature: 6.565
+off_the_beaten_track: 1.434
 ---
 
 Southeast Asia's largest wildlife park in Minburi District, about 10 km northeast of central Bangkok. It includes a drive-through wildlife section, a bird park with walk-in aviary, Macaw Island, restaurants, and an amusement park. Good for families. Take bus 26 from Victory Monument to Minburi, then a minibus. Open daily 10 am to 6 pm.

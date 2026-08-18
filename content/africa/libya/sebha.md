@@ -5,14 +5,14 @@ done:
 latitude: 26.995621
 loc_type: city
 longitude: 15.106542
-score: 5.786
+score: 6.198
 snippet: Fezzan desert town and Sahara crossroads, anchored by Fort Elena and a date-filled
   old souk.
 title: Sebha
 type: location
-heritage: 4.554
-vibrancy: 2.255
-nature: 2.182
+heritage: 6.06
+vibrancy: 1.906
+nature: 2.836
 off_the_beaten_track: 9.97
 ---
 

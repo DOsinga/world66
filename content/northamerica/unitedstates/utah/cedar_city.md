@@ -2,7 +2,7 @@
 latitude: 37.6775
 loc_type: city
 longitude: -113.0619
-score: 5.145
+score: 4.813
 snippet: Southern Utah college town mixing Shakespeare, pioneer history, and high-plateau
   canyon access.
 sources:
@@ -14,10 +14,10 @@ image: cedar_city.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cedar_City_Utah_02.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Unknown
-heritage: 2.458
-vibrancy: 3.219
-nature: 6.419
-off_the_beaten_track: 2.753
+heritage: 1.923
+vibrancy: 2.618
+nature: 6.195
+off_the_beaten_track: 2.768
 ---
 
 Cedar City sits on I-15 in southern Utah, high enough for cold winters and close enough to the canyon country to be useful without feeling like a pure gateway town. It is a college town, a theatre town, and a practical base for the Markagunt Plateau.

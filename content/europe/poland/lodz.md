@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:20180913_182134_Pa%C5%82ac
 latitude: 51.7702
 loc_type: city
 longitude: 19.4572
-score: 4.739
+score: 3.959
 snippet: Former textile powerhouse in central Poland, shaped by industrial palaces
   and brick factory districts.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/%C5%81%C3%B3d%C5%BA
 title: Łódź
 type: location
-heritage: 5.833
-vibrancy: 3.368
-nature: 2.474
-off_the_beaten_track: 1.762
+heritage: 4.844
+vibrancy: 2.871
+nature: 2.458
+off_the_beaten_track: 2.063
 ---
 
 Łódź (pronounced roughly "Woodge") is Poland's third-largest city and one of its most underrated, a place that was utterly remade by 19th-century industrial capitalism and is now remaking itself again. In the 1800s, it exploded from a small market town into a massive textile manufacturing centre, drawing German, Jewish, and Russian industrialists alongside tens of thousands of workers to what became known as the "Manchester of Poland." The palaces they built — monumental, ostentatious, occasionally beautiful — still stand along Piotrkowska Street and in the courtyard of what is now the [Manufaktura](/europe/poland/lodz/manufaktura) complex.

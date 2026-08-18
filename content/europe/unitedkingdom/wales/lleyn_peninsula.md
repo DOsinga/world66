@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ll%C5%B7n_Peninsula_near_N
 latitude: 52.8712
 loc_type: city
 longitude: -4.4788
-score: 6.349
+score: 6.435
 snippet: Narrow Welsh peninsula of National Trust beaches, exposed headlands, and
   two contrasting Irish Sea coasts.
 sources:
@@ -18,10 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Ffestiniog_Railway
 title: Lleyn Peninsula
 type: location
-heritage: 6.272
-vibrancy: 3.259
-nature: 7.183
-off_the_beaten_track: 4.209
+heritage: 6.681
+vibrancy: 2.567
+nature: 7.142
+off_the_beaten_track: 4.405
 ---
 
 The Llŷn Peninsula (pronounced "Hlin") is a narrow arm of land extending 50 km westward from Snowdonia into the Irish Sea, one of Wales's most beautiful and least-spoiled coastal regions. It is narrow enough that you can drive from the north coast to the south in minutes, but the two coasts have quite different characters: the north is more exposed and dramatic, the south more sheltered.

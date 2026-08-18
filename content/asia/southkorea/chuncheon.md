@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 37.8667
 longitude: 127.7333
-score: 4.766
+score: 4.449
 snippet: Gangwon lake city ringed by mountains, known for dakgalbi, makguksu, and
   Seoul rail escapes.
 image: chuncheon.jpg
@@ -15,10 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Chuncheon
 - https://en.wikipedia.org/wiki/Chuncheon
 - https://www.wikidata.org/wiki/Q42136
-heritage: 3.109
-vibrancy: 3.553
-nature: 5.67
-off_the_beaten_track: 1.941
+heritage: 2.532
+vibrancy: 3.282
+nature: 5.31
+off_the_beaten_track: 1.853
 ---
 
 Chuncheon is the capital of Gangwon, but it feels more like a lake-and-mountain escape from Seoul than an administrative centre. The city sits in a basin where rivers and reservoirs wrap around low ridges, giving it a softer pace than the capital only an hour or so away by train.

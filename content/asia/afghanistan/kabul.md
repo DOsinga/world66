@@ -14,7 +14,7 @@ quick_facts:
   Elevation: ~1,790 m
   Hindu Kush: Snow peaks ring the city
   Population: ~4.5 million
-score: 4.679
+score: 4.964
 snippet: High-valley Afghan capital ringed by the Hindu Kush and marked by repeated
   destruction and rebuilding.
 tip: Kabul sits in a high mountain bowl at 1,790 m, ringed by the snow-capped Hindu
@@ -24,10 +24,10 @@ tip: Kabul sits in a high mountain bowl at 1,790 m, ringed by the snow-capped Hi
   visit demands serious local arrangement.
 title: Kabul
 type: location
-heritage: 4.921
-vibrancy: 2.614
-nature: 3.277
-off_the_beaten_track: 7.32
+heritage: 5.557
+vibrancy: 2.642
+nature: 3.891
+off_the_beaten_track: 7.358
 ---
 
 Kabul is the capital of Afghanistan, a city of over four million people in a high mountain valley at about 1,790 metres, ringed by the snow-capped Hindu Kush. It has been destroyed and rebuilt more often than almost any capital in Asia — by Genghis Khan, by the British in 1842, by civil war in the 1990s, and most recently by the forty years of conflict that began with the Soviet invasion in 1979 and ended with the Taliban's return to power in August 2021. What survives is a city of mudbrick neighbourhoods climbing the hills, bazaars, a handful of important historic sites, and the long shadow of everything that has happened here.

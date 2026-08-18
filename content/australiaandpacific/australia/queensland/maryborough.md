@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -25.5375
 longitude: 152.7019
-score: 4.294
+score: 4.306
 snippet: Heritage river city in Queensland's Fraser Coast, with colonial streets and
   a Mary Poppins connection
 sources:
@@ -14,10 +14,10 @@ image: maryborough.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Maryborough,_1863.jpg
 image_license: Public domain
 image_attribution: Queensland State Archives
-heritage: 4.496
-vibrancy: 1.948
-nature: 4.75
-off_the_beaten_track: 2.934
+heritage: 4.583
+vibrancy: 2.007
+nature: 4.731
+off_the_beaten_track: 2.816
 ---
 
 Maryborough is one of Queensland's better-preserved heritage towns, set on the Mary River inland from Hervey Bay. It was a busy colonial port before the coast drew most travellers away, and that older role left it with broad streets, civic buildings, warehouses, parks, and a surprisingly strong sense of place.

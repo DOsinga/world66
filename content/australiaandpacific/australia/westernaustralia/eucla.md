@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: -31.6777
 longitude: 128.8847
-score: 6.318
+score: 6.073
 snippet: Nullarbor roadhouse settlement where telegraph ruins disappear into white
   coastal dunes.
 sources:
 - https://en.wikivoyage.org/wiki/Eucla
 - https://www.westernaustralia.com/en/attraction/old-eucla-telegraph-station/56b267a02cbcbe7073ae17d2
 - https://www.westernaustralia.com/en/attraction/eucla-museum/63203f336d6cf41b0f3adca8
-heritage: 2.229
-vibrancy: 0.775
-nature: 7.854
-off_the_beaten_track: 6.355
+heritage: 1.805
+vibrancy: 0.977
+nature: 7.483
+off_the_beaten_track: 6.326
 ---
 
 Eucla is a tiny settlement on the Western Australian edge of the Nullarbor, only a few minutes from the South Australian border. Most travellers meet it as fuel, food, and sleep on a very long road, but it has a stranger identity than that suggests: the old town was half-swallowed by dunes after the telegraph station closed and the sand began to move.

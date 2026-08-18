@@ -5,15 +5,15 @@ done:
 latitude: 39.16704
 loc_type: city
 longitude: -86.534288
-score: 4.723
+score: 4.351
 title: Bloomington
 type: location
 snippet: Southern Indiana college town shaped by Indiana University, limestone buildings,
   and wooded hills.
-heritage: 3.059
-vibrancy: 5.125
-nature: 3.684
-off_the_beaten_track: 0.83
+heritage: 2.53
+vibrancy: 4.829
+nature: 3.114
+off_the_beaten_track: 0.875
 ---
 
 Bloomington is a college town in the rolling hills of southern Indiana, home to Indiana University and shaped almost entirely by it. The campus is one of the most attractive in the Midwest — limestone buildings set among old-growth trees, with the [IU Art Museum](/northamerica/unitedstates/indiana/bloomington/iu_art_museum) (designed by I.M. Pei) and the [Lilly Library](/northamerica/unitedstates/indiana/bloomington/lilly_library) of rare books as cultural anchors.

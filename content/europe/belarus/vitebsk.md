@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Vitebsk,_Belarus._1.8.2018
 latitude: 55.19302
 loc_type: city
 longitude: 30.207044
-score: 5.574
+score: 4.497
 snippet: Belarusian river city rebuilt after war, remembered for Marc Chagall and
   the Slavianski Bazaar festival.
 title: Vitebsk
 type: location
-heritage: 6.629
-vibrancy: 4.43
-nature: 2.632
-off_the_beaten_track: 4.138
+heritage: 5.042
+vibrancy: 4.196
+nature: 2.957
+off_the_beaten_track: 4.047
 ---
 
 Vitebsk is Belarus's second city, set on the confluence of the Western Dvina and Vitba rivers. Before World War II it was predominantly Jewish — over twenty synagogues served the community — but the war destroyed both the population and most of the city. What stands today is largely Soviet-era reconstruction, though a few pre-war buildings survive.

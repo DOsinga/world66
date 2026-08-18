@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cascais._Portugal.jpg
 latitude: 38.696892
 loc_type: city
 longitude: -9.42045
-score: 5.454
+score: 5.597
 title: Cascais
 type: location
 snippet: Coastal resort west of Lisbon, once a royal summer retreat where the Tagus
   meets the Atlantic.
-heritage: 4.687
-vibrancy: 5.532
-nature: 5.252
-off_the_beaten_track: 2.068
+heritage: 4.723
+vibrancy: 5.558
+nature: 5.698
+off_the_beaten_track: 1.876
 ---
 
 Cascais is a small coastal town about 30 kilometres west of [Lisbon](/europe/portugal/lisbon), where the Tagus estuary meets the open Atlantic. It spent much of the nineteenth and early twentieth centuries as Portugal's royal resort — King Luís I built a summer palace here in the 1870s — and it has kept something of that genteel character ever since.

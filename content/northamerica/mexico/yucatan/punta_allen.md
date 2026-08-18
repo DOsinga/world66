@@ -12,10 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Sian_Ka%27an
 - https://whc.unesco.org/en/list/410/
 - https://en.wikivoyage.org/wiki/Sian_Ka%27an_Biosphere_Reserve
-heritage: 1.995
-vibrancy: 1.042
-nature: 7.651
-off_the_beaten_track: 6.28
+heritage: 1.72
+vibrancy: 1.175
+nature: 7.587
+off_the_beaten_track: 6.494
 ---
 
 Punta Allen is the small fishing village at the far end of the rough road through Sian Ka'an Biosphere Reserve. It is not the easiest place on the Riviera Maya to reach, and that is the point: after Tulum's traffic and beach clubs, the road narrows into mangroves, lagoons, pale sand, and a settlement that still feels more like a working village than a resort.

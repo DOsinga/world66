@@ -9,14 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:ClearwaterBeachNorthFromPi
 latitude: 27.965853
 loc_type: city
 longitude: -82.800103
-score: 3.972
+score: 3.859
 snippet: Gulf Coast beach city with white sand, calm water, and a lively sunset pier.
 title: Clearwater
 type: location
-heritage: 1.868
-vibrancy: 3.483
-nature: 4.474
-off_the_beaten_track: 1.428
+heritage: 1.248
+vibrancy: 3.351
+nature: 4.362
+off_the_beaten_track: 1.374
 ---
 
 Clearwater sits on Florida's Gulf Coast, just west of Tampa, and is best known for its beaches. [Clearwater Beach](/northamerica/unitedstates/florida/clearwater/clearwater_beach), on a barrier island connected by a causeway, consistently ranks among the best in the United States: wide stretches of fine white sand, calm turquoise water, and reliable sunshine that draws everyone from spring breakers to snowbirds.

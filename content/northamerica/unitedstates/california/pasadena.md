@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Langham_los_angeles.jpg
 latitude: 34.1478
 loc_type: city
 longitude: -118.1445
-score: 5.098
+score: 5.082
 snippet: Leafy Los Angeles city of Craftsman streets, Rose Bowl rituals, and heavyweight
   museums.
 title: Pasadena
 type: location
-heritage: 3.588
-vibrancy: 5.462
-nature: 4.159
-off_the_beaten_track: 0.658
+heritage: 3.297
+vibrancy: 5.69
+nature: 3.511
+off_the_beaten_track: 0.649
 ---
 
 Pasadena is the cultured, leafy counterpart to the sprawl of greater Los Angeles. While the rest of LA chases the next big thing, Pasadena holds onto its Craftsman bungalows, its tree-lined boulevards, and its world-class institutions with quiet confidence. You probably know it from the Rose Bowl and the Tournament of Roses Parade, but there is far more here than New Year's Day football.

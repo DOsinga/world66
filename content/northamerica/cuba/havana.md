@@ -16,7 +16,7 @@ quick_facts:
   Population: ~2.1 million
   The Malecón: 8 km seafront promenade
   Vintage Cars: 1950s American classics
-score: 5.742
+score: 6.534
 snippet: Cuban capital of colonial plazas and mid-century architecture, centred on
   UNESCO-listed Old Havana.
 tip: Havana is a city frozen in faded grandeur — 1950s American cars, crumbling colonial
@@ -26,10 +26,10 @@ tip: Havana is a city frozen in faded grandeur — 1950s American cars, crumblin
   unreliable wifi.
 title: Havana
 type: location
-heritage: 6.109
-vibrancy: 5.646
-nature: 3.155
-off_the_beaten_track: 2.594
+heritage: 7.572
+vibrancy: 5.597
+nature: 4.289
+off_the_beaten_track: 2.503
 ---
 
 Havana is one of the most distinctive cities in the Americas — a capital frozen by circumstance into a specific moment, where the architecture of the 1940s and 1950s coexists with 18th-century colonial palaces and Soviet-era housing blocks, all in various stages of beautiful decay. The combination of physical grandeur and material scarcity produces a city unlike any other: enormous and human-scaled, crumbling and alive, melancholy and relentlessly social.

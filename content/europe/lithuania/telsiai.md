@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 55.9833
 longitude: 22.25
-score: 4.865
+score: 4.482
 snippet: Samogitian hill town above Lake Mastis, with bear sculptures, churches, and
   a strong regional identity
 sources:
@@ -15,10 +15,10 @@ image: telsiai.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Panorama_of_Tel%C5%A1iai_centre.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Zidikai1
-heritage: 5.414
-vibrancy: 3.001
-nature: 5.163
-off_the_beaten_track: 2.435
+heritage: 4.769
+vibrancy: 2.94
+nature: 4.925
+off_the_beaten_track: 2.557
 ---
 
 Telšiai is the unofficial capital of Samogitia, the stubborn western Lithuanian region with its own dialect, flag, and bear symbol. The town sits on low hills above Lake Mastis, and its centre is compact enough to see on foot without turning the day into a route march.

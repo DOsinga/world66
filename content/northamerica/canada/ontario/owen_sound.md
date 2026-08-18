@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 44.5667
 longitude: -80.9333
-score: 6.087
+score: 5.82
 snippet: Georgian Bay harbour town below the Niagara Escarpment, with waterfalls,
   art, and Bruce Peninsula access.
 wikidata: Q1017735
@@ -18,10 +18,10 @@ image: owen_sound.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Inglis_falls,_Owen_Sound,_Ontario.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Peter K Burian
-heritage: 5.727
-vibrancy: 5.574
-nature: 6.742
-off_the_beaten_track: 3.175
+heritage: 4.252
+vibrancy: 5.467
+nature: 6.379
+off_the_beaten_track: 2.974
 ---
 
 Owen Sound sits at the head of a long inlet of Georgian Bay, where harbour, limestone escarpment, and small-city Ontario meet. It is not as famous as the Bruce Peninsula towns to the north, but it has enough of its own shape to reward a spare day: waterfalls above town, a working waterfront, and a strong link to Canadian landscape painter Tom Thomson.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Lughaya_Awdal3.jpg
 latitude: 10.730573
 loc_type: city
 longitude: 43.691688
-score: 4.394
+score: 4.057
 snippet: Remote Somaliland coastal town on the Guban Coast, with dhow fishing and
   undeveloped Gulf of Aden beaches.
 title: Lughaya
 type: location
-heritage: 1.11
-vibrancy: 1.167
-nature: 4.415
-off_the_beaten_track: 6.945
+heritage: 1.537
+vibrancy: 1.292
+nature: 3.361
+off_the_beaten_track: 6.849
 ---
 
 Lughaya is a small coastal town on the [Guban Coast](/africa/somaliland/lughaya/lughaya_coast) of Somaliland, about 200 km northwest of the port city of [Berbera](/africa/somaliland/berbera). Hot, dry, and remote, it sits in the Awdal Region and serves as the administrative centre of the Lughaya district.

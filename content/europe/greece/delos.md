@@ -4,7 +4,7 @@ done:
 latitude: 37.39089
 loc_type: feature
 longitude: 25.271739
-score: 6.193
+score: 6.063
 snippet: Uninhabited Cycladic island and major archaeological site, revered in antiquity
   as Apollo and Artemis's birthplace.
 title: Delos
@@ -13,10 +13,10 @@ image: delos.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ancient_Greek_theatre_in_Delos_01.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Bernard Gagnon
-heritage: 7.376
-vibrancy: 4.899
-nature: 4.096
-off_the_beaten_track: 1.887
+heritage: 7.193
+vibrancy: 4.856
+nature: 4.658
+off_the_beaten_track: 1.646
 ---
 
 Delos is a tiny uninhabited island in the Cyclades and one of the most important archaeological sites in all of Greece. In antiquity it was considered the birthplace of Apollo and Artemis, and became one of the most sacred sites in the Greek world — a major religious and commercial centre whose ruins now spread across virtually the entire island. Nobody lives here permanently; it is accessible only by boat from nearby Mykonos.

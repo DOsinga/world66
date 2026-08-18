@@ -14,15 +14,15 @@ original_overview: 'Boppard is in the Middle Rhine Valley in Rhineland-Palatinat
 sources:
 - https://en.wikivoyage.org/wiki/Boppard
 - https://en.wikipedia.org/wiki/Boppard
-score: 6.349
+score: 6.451
 image: boppard.jpg
 image_source: https://commons.wikimedia.org/wiki/File:56154_Boppard,_Germany_-_panoramio_(10).jpg
 image_license: CC BY-SA 3.0
 image_attribution: Jan Uyttebroeck
-heritage: 7.298
-vibrancy: 3.132
-nature: 6.211
-off_the_beaten_track: 2.186
+heritage: 7.206
+vibrancy: 4.206
+nature: 6.787
+off_the_beaten_track: 1.878
 ---
 
 Boppard is the largest town on the Middle Rhine and feels more lived-in than the smaller showpiece villages downstream. It sits inside the Bopparder Hamm, a huge horseshoe bend in the Rhine where steep slate slopes carry some of the valley's best Riesling vineyards.

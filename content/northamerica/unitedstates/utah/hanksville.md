@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2013-09-23_12_30_27_Far_vi
 latitude: 38.3738
 loc_type: city
 longitude: -110.7064
-score: 5.629
+score: 5.942
 snippet: Tiny Utah desert crossroads surrounded by Capitol Reef, the Henry Mountains,
   and sandstone backcountry routes.
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Mars_Desert_Research_Station
 title: Hanksville
 type: location
-heritage: 2.721
-vibrancy: 2.068
-nature: 7.315
-off_the_beaten_track: 4.62
+heritage: 3.417
+vibrancy: 1.841
+nature: 7.702
+off_the_beaten_track: 4.943
 ---
 
 Tiny Hanksville is surrounded by overwhelmingly dramatic country. Home to around 300 people, this desert crossroads has a colourful past as a polygamist hideout, an outlaw refuge — Butch Cassidy and his Wild Bunch reportedly frequented the area — and a hardscrabble ranching town. Even today it is not easy to get here; long drives across burning, empty desert are pretty much the only way in.

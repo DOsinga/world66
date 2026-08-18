@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Smara,rooftopE.jpg
 latitude: 26.743583
 loc_type: city
 longitude: -11.664549
-score: 4.39
+score: 4.377
 snippet: Remote Saharan town in Western Sahara, known for Ma El Ainin's ruined religious
   complex.
 title: Smara
 type: location
-heritage: 3.894
-vibrancy: 2.209
-nature: 5.001
-off_the_beaten_track: 5.909
+heritage: 3.739
+vibrancy: 2.102
+nature: 5.159
+off_the_beaten_track: 5.327
 ---
 
 Smara is a remote desert town in the southern Moroccan Sahara, administered by Morocco as part of Western Sahara. It sits deep in the interior, roughly 250 kilometres southeast of Laayoune, in a landscape of stony desert and sand. The town has a complicated political history — it was once the centre of Sahrawi tribal resistance and was the site of a famous religious and political complex built by the charismatic leader Ma El Ainin in the early 20th century.

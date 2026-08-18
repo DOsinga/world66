@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 37.644
 longitude: -84.7806
-score: 4.17
+score: 3.996
 snippet: Small Bluegrass city where Kentucky statehood history sits beside unusual
   museums and Centre College.
 wikidata: Q988923
@@ -12,10 +12,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Danville_(Kentucky)
 - https://danvillekentucky.com/
 - https://www.kentuckytourism.com/trip-planning/road-trips/day-trips/danville-area
-heritage: 4.659
-vibrancy: 2.928
-nature: 4.386
-off_the_beaten_track: 1.926
+heritage: 4.437
+vibrancy: 2.858
+nature: 4.264
+off_the_beaten_track: 2.075
 ---
 
 Danville is a small Bluegrass city with a bigger historical footprint than its size suggests. Kentucky's early statehood story is centered here, and the compact downtown makes it easy to combine old political history, a medical landmark, and a surprisingly memorable museum in one day.

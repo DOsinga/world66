@@ -4,15 +4,15 @@ type: location
 loc_type: city
 latitude: 31.353889
 longitude: -110.939167
-score: 3.181
+score: 3.595
 snippet: Arizona border city where downtown history meets the busy crossing into Sonora.
 sources:
 - https://en.wikivoyage.org/wiki/Nogales_(Arizona)
 - https://en.wikipedia.org/wiki/Nogales,_Arizona
-heritage: 2.495
-vibrancy: 2.128
-nature: 3.873
-off_the_beaten_track: 2.987
+heritage: 2.607
+vibrancy: 2.604
+nature: 4.314
+off_the_beaten_track: 2.633
 ---
 
 Nogales is Arizona's main gateway to Sonora, but it is more than a place to queue at the border. The fence cuts through what was once one town, leaving Nogales, Arizona, and Heroica Nogales, Sonora, facing each other across International Street.

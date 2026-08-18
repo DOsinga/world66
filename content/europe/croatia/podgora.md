@@ -9,15 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Podgora.jpg
 latitude: 43.243347
 loc_type: city
 longitude: 17.075071
-score: 4.853
+score: 5.087
 snippet: Dalmatian coastal town below Biokovo, with pebble beaches and the Seagull's
   Wings monument.
+tags:
+- makarskariviera
 title: Podgora
 type: location
-heritage: 2.749
-vibrancy: 3.649
-nature: 5.759
-off_the_beaten_track: 1.819
+heritage: 2.997
+vibrancy: 3.946
+nature: 5.978
+off_the_beaten_track: 1.644
 ---
 
 Podgora is a small Dalmatian coastal town tucked between [Split](/europe/croatia/split) and [Dubrovnik](/europe/croatia/dubrovnik) at the foot of the Biokovo mountain range. Its [pebble beach](/europe/croatia/podgora/podgora_beach) slopes into exceptionally clear water, and the waterfront is marked by the [Seagull's Wings monument](/europe/croatia/podgora/seagulls_wings_monument) — a striking concrete sculpture that has become the town's symbol.

@@ -4,7 +4,7 @@ done:
 latitude: 39.141
 loc_type: feature
 longitude: 16.234
-score: 4.532
+score: 4.819
 snippet: Cluster of Savuto valley hilltowns in central Calabria, including Grimaldi,
   Malito, and Aiello Calabro.
 title: Savuto Valley
@@ -13,10 +13,10 @@ image: hilltowns_of_the_savuto.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Grimaldi,_Calabria_-_view_towards_La_Foce_(2007).jpg
 image_license: Public domain
 image_attribution: Archidad (talk)
-heritage: 4.11
-vibrancy: 2.764
-nature: 5.282
-off_the_beaten_track: 4.185
+heritage: 4.132
+vibrancy: 2.738
+nature: 5.718
+off_the_beaten_track: 4.158
 ---
 
 The hilltowns of the Savuto valley sit in the geographic centre of Calabria, perched on ridges above the river. Towns like [Grimaldi](/europe/italy/calabria/grimaldi), Malito, and [Aiello Calabro](/europe/italy/calabria/aiellocalabro) are small, quiet, and largely overlooked by tourism, but they represent something essential about the region: communities that sent their sons and daughters to Canada, Argentina, Brazil, Australia, and beyond, yet still endure.

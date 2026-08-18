@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 57.1833
 longitude: 14.0333
-score: 3.78
+score: 3.97
 snippet: Småland design town near Store Mosse, with modern craft, furniture history,
   and bogland walks.
 sources:
@@ -15,10 +15,10 @@ image: varnamo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:V%C3%A4rnamo_Apladalen.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Dr. M. Hees
-heritage: 4.09
-vibrancy: 2.393
-nature: 4.125
-off_the_beaten_track: 1.836
+heritage: 4.449
+vibrancy: 2.465
+nature: 4.144
+off_the_beaten_track: 1.837
 ---
 
 Värnamo is a small Småland town with more personality than its size suggests. It sits just off the E4 in southern Sweden, close to forests, lakes, and the wide wetland of [Store Mosse National Park](/europe/sweden/varnamo/store_mosse_national_park).

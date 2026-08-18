@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Wilderness_
 latitude: -33.993238
 loc_type: city
 longitude: 22.578632
-score: 7.139
+score: 7.53
 snippet: Garden Route beach village backed by lagoons, forested hills, and the Wilderness
   section of the national park.
 title: Wilderness
 type: location
-heritage: 3.653
-vibrancy: 2.648
-nature: 9.319
-off_the_beaten_track: 5.725
+heritage: 5.638
+vibrancy: 0.773
+nature: 9.282
+off_the_beaten_track: 6.132
 ---
 
 Wilderness sits on a long, wide [beach](/africa/southafrica/gardenroute/wilderness/wilderness_beach) between the Kaaimans River mouth and the Touw River lagoon, roughly halfway along the [Garden Route](/africa/southafrica/gardenroute). The name is apt — the setting is genuinely wild, backed by forested hills and fronted by the Indian Ocean.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Anaheim-streetbanners-duck
 latitude: 33.8348
 loc_type: city
 longitude: -117.9117
-score: 4.459
+score: 5.494
 title: Anaheim
 snippet: Orange County city defined by Disneyland, with theme parks replacing the
   orange groves that shaped it
 type: location
-heritage: 2.847
-vibrancy: 5.104
-nature: 2.364
-off_the_beaten_track: 0.543
+heritage: 3.691
+vibrancy: 6.22
+nature: 1.974
+off_the_beaten_track: 0.53
 ---
 
 Anaheim exists because of Disneyland. Walt Disney built his Magic Kingdom among the orange groves in 1955, and the city has been defined by it ever since. The [Disneyland Resort](/northamerica/unitedstates/california/orangecounty/anaheim/disneyland) now includes two parks — Disneyland Park and Disney's California Adventure — along with the Downtown Disney shopping and dining district.

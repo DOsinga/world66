@@ -5,18 +5,18 @@ done:
 latitude: 38.292
 loc_type: city
 longitude: -122.458
-score: 5.4
+score: 5.404
 snippet: California wine county of redwoods, Pacific coast, and relaxed tasting rooms
   west of Napa.
 title: Sonoma
 type: location
-heritage: 4.861
-vibrancy: 4.966
-nature: 5.971
-off_the_beaten_track: 3.235
+heritage: 3.893
+vibrancy: 5.069
+nature: 5.926
+off_the_beaten_track: 3.022
 ---
 
-Sonoma County is California wine country without the polish and price tag of neighbouring [Napa](/northamerica/unitedstates/california/northcoast/napa). The landscape rolls from the Pacific coast through redwood forests and into sun-drenched valleys planted with pinot noir and chardonnay. Small towns like Healdsburg, Sebastopol, and Guerneville each have their own character, and the tasting rooms tend to be friendlier and less crowded than what you will find across the hills to the east.
+Sonoma County is California wine country without the polish and price tag of neighbouring [Napa](/northamerica/unitedstates/california/napa). The landscape rolls from the Pacific coast through redwood forests and into sun-drenched valleys planted with pinot noir and chardonnay. Small towns like Healdsburg, Sebastopol, and Guerneville each have their own character, and the tasting rooms tend to be friendlier and less crowded than what you will find across the hills to the east.
 
 The town of Sonoma itself sits around the [Sonoma Plaza](/northamerica/unitedstates/california/northcoast/sonoma/sonoma_plaza) — a leafy eight-acre park, the largest in California, where Mexico's frontier once ended. The [Mission San Francisco Solano](/northamerica/unitedstates/california/northcoast/sonoma/mission_san_francisco_solano) anchors one corner, and the [Sonoma Barracks](/northamerica/unitedstates/california/northcoast/sonoma/sonoma_barracks) line another — both part of Sonoma State Historic Park. It is a fine place to start a day with a farmers' market and a coffee before heading out to the [wineries](/northamerica/unitedstates/california/northcoast/sonoma/sonoma_valley_wineries).
 

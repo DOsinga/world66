@@ -7,7 +7,7 @@ southamerica/argentina/patagonia/elchalten	9.172	1	El Chaltén	South America, Ar
 northamerica/unitedstates/alaska/denalipark	9.037	6	Denali National Park	North America, United States, Alaska
 asia/nepal/annapurna	9.010	7	Annapurna Region	Asia, Nepal
 northamerica/unitedstates/wyoming/yellowstone	8.948	15	Yellowstone	North America, United States, Wyoming
-europe/spain/northernspain/picosdeeuropa	8.991	9	Picos de Europa	Europe, Spain, Northern Spain
+europe/spain/asturias/picosdeeuropa	8.991	9	Picos de Europa	Europe, Spain, Northern Spain
 australiaandpacific/frenchpolynesia/borabora	8.986	10	Bora Bora	Australia, Pacific & Antarctica, French Polynesia
 europe/norway/lofotenislands/svolvr_the_capi	8.975	11	Svolvær	Europe, Norway, Lofoten islands
 africa/southafrica/gardenroute/wilderness	8.965	12	Wilderness	Africa, South Africa, Garden Route
@@ -45,6 +45,6 @@ europe/norway/hurtigruten	8.807	53	Hurtigruten	Europe, Norway
 africa/southafrica/stlucia	8.806	54	St Lucia	Africa, South Africa
 asia/pakistan/gilgit	8.806	55	Gilgit	Asia, Pakistan
 asia/pakistan/deosai	8.804	56	Deosai National Park	Asia, Pakistan
-asia/indonesia/komodo_island	8.799	58	Komodo Island	Asia, Indonesia
+asia/indonesia/flores/komodo	8.799	58	Komodo Island	Asia, Indonesia
 asia/pakistan/hunzavalley/gojal_valley/khyber	8.789	60	Khyber	Asia, Pakistan, Hunza valley, Gojal Valley
 southamerica/chile/puerto_natales	8.786	61	Puerto Natales	South America, Chile

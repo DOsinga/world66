@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Spring_Green,_Wisconsin.jp
 latitude: 43.176937
 loc_type: city
 longitude: -90.068048
-score: 4.281
+score: 4.654
 snippet: Wisconsin River town shaped by Frank Lloyd Wright, from Taliesin to small
   Prairie-style buildings.
 title: Spring Green
 type: location
-heritage: 3.489
-vibrancy: 2.627
-nature: 5.156
-off_the_beaten_track: 1.605
+heritage: 4.355
+vibrancy: 2.874
+nature: 5.367
+off_the_beaten_track: 1.501
 ---
 
 Spring Green is a small town on the Wisconsin River, about 40 miles west of [Madison](/northamerica/unitedstates/wisconsin/madison). It was the home of Frank Lloyd Wright, and his influence is visible everywhere — the [State Bank](/northamerica/unitedstates/wisconsin/spring_green/state_bank) and other small commercial buildings, the family chapel at [Unity Chapel](/northamerica/unitedstates/wisconsin/spring_green/unity_chapel), and of course [Taliesin](/northamerica/unitedstates/wisconsin/spring_green/taliesin), his home and studio, where tours are available throughout the summer.

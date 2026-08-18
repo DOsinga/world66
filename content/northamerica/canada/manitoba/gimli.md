@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 50.6323
 longitude: -96.9888
-score: 4.016
+score: 3.674
 snippet: Lake Winnipeg town with Icelandic roots, harbour murals, summer festivals,
   and broad public beach
 image: gimli.jpg
@@ -16,10 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Gimli
 - https://en.wikipedia.org/wiki/Gimli,_Manitoba
 - https://www.wikidata.org/wiki/Q446231
-heritage: 2.817
-vibrancy: 1.852
-nature: 4.932
-off_the_beaten_track: 4.238
+heritage: 2.843
+vibrancy: 1.708
+nature: 4.49
+off_the_beaten_track: 3.934
 ---
 
 Gimli is a small Lake Winnipeg town about an hour north of [Winnipeg](/northamerica/canada/manitoba/winnipeg), but it has a stronger identity than many places ten times its size. Icelandic settlers arrived here in the 1870s and called the shore "New Iceland"; the connection is still visible in the Viking statue, the museum, and the big Icelandic Festival held every August long weekend.

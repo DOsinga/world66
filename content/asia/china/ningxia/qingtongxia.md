@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Qingtongxia,_Wuzhong,_Ning
 latitude: 38.0209
 loc_type: city
 longitude: 106.0691
-score: 4.081
+score: 4.059
 snippet: Yellow River city in Ningxia known for the triangular hillside array of 108
   Dagobas
 sources:
 - https://en.wikivoyage.org/wiki/Qingtongxia
 title: Qingtongxia
 type: location
-heritage: 3.512
-vibrancy: 2.009
-nature: 4.837
-off_the_beaten_track: 3.772
+heritage: 3.565
+vibrancy: 2.082
+nature: 4.781
+off_the_beaten_track: 3.523
 ---
 
 Qingtongxia is a small city on the Yellow River about 80 kilometres south of Yinchuan, known almost entirely for one extraordinary monument: the [108 Dagobas](/asia/china/ningxia/qingtongxia/108_dagobas), a hillside array of white stupas arranged in a vast triangular formation overlooking the river. The stupas — built during the Yuan dynasty in the 13th or 14th century — are set in concentric rows of varying shapes: some are pyramid-form, some gourd-shaped, some vase-form, covering the terraced slope in a geometric pattern that looks more like an earthwork than a religious site when seen from a distance.

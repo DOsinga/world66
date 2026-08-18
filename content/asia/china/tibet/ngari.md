@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Gar_Tsangpo_near_Ngari_Gun
 latitude: 32.4833
 loc_type: city
 longitude: 80.1
-score: 6.403
+score: 5.98
 snippet: Remote western Tibetan high-desert region around Ali, crossed by pilgrimage
   roads to Mount Kailash
 sources:
 - https://en.wikivoyage.org/wiki/Tibet
 title: Ngari
 type: location
-heritage: 5.56
-vibrancy: 0.565
-nature: 7.568
-off_the_beaten_track: 7.021
+heritage: 4.196
+vibrancy: 0.886
+nature: 7.038
+off_the_beaten_track: 7.31
 ---
 
 Ngari — its administrative centre known as Ali or Shiquanhe — is the remote western extremity of Tibet, a cold high desert the size of France with a population of barely 100,000. Most of it sits above 4,500 metres; the landscape is stripped bare of almost everything: few trees, few people, little rain (barely 70mm a year in places), and an arid grandeur that some travellers find more compelling than anything in central Tibet. The G219, the Xinjiang-Tibet Highway, is the main road through the region, running from Kashgar in the north to [Shigatse](/asia/china/tibet/shigatse) in the east — one of the highest and most remote long-distance roads in the world.

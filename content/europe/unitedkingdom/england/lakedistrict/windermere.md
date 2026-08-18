@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Windermere_Lake_District_f
 latitude: 54.379483
 loc_type: city
 longitude: -2.906199
-score: 6.613
+score: 6.635
 snippet: Lake District gateway town above England's longest lake, with steamers leaving
   from Bowness below.
 title: Windermere
 type: location
-heritage: 5.551
-vibrancy: 4.024
-nature: 7.897
-off_the_beaten_track: 2.311
+heritage: 5.254
+vibrancy: 4.394
+nature: 8.057
+off_the_beaten_track: 2.011
 ---
 
 Windermere is the gateway to the English Lake District and sits beside England's longest lake. The town itself is Victorian — it grew up around the railway station when the line arrived in 1847 — and the real action is down the hill in [Bowness-on-Windermere](/europe/unitedkingdom/england/lakedistrict/windermere/bowness_on_windermere), where steamers depart for cruises on [the lake](/europe/unitedkingdom/england/lakedistrict/windermere/lake_windermere).

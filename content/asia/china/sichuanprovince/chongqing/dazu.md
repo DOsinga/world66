@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: 29.7029
 longitude: 105.7167
-score: 4.832
+score: 4.681
 snippet: Chongqing district known for cliffside Buddhist, Daoist, and Confucian rock
   carvings.
 sources:
 - https://en.wikivoyage.org/wiki/Dazu
 - https://en.wikipedia.org/wiki/Dazu_Rock_Carvings
 - https://whc.unesco.org/en/list/912/
-heritage: 5.237
-vibrancy: 4.087
-nature: 5.27
-off_the_beaten_track: 2.481
+heritage: 4.735
+vibrancy: 3.95
+nature: 5.249
+off_the_beaten_track: 2.51
 ---
 
 Dazu is a workaday district west of central Chongqing with one extraordinary reason to go: the Dazu Rock Carvings, a UNESCO-listed group of cliffside sculptures carved from the 9th to the 13th centuries. The best panels are not just rows of Buddhas. They mix Buddhist, Daoist, Confucian, and everyday subjects with a confidence that makes the stone feel almost theatrical.

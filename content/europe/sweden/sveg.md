@@ -5,15 +5,15 @@ done:
 latitude: 62.036071
 loc_type: city
 longitude: 14.359839
-score: 4.798
+score: 4.882
 snippet: Quiet Härjedalen town on the Ljusnan, known for Inlandsbanan rail travel
   and a giant wooden bear
 title: Sveg
 type: location
-heritage: 3.46
-vibrancy: 2.414
-nature: 5.97
-off_the_beaten_track: 3.17
+heritage: 3.592
+vibrancy: 2.291
+nature: 6.045
+off_the_beaten_track: 3.433
 ---
 
 Sveg is the main town of Härjedalen in Jämtland county, a small settlement of about 2,500 people on the river Ljusnan in northern Sweden. It is a stop on the [Inlandsbanan](/europe/sweden/sveg/inlandsbanan), the inland railway that runs through the Swedish north — a scenic journey that many rail enthusiasts consider one of Scandinavia's great routes.

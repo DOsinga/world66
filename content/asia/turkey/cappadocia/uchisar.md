@@ -14,7 +14,7 @@ quick_facts:
   Cave Dwellings: Honeycomb the rock
   Elevation: 1,400 m
   Pigeon Valley: Carved dovecotes
-score: 6.117
+score: 5.958
 snippet: Cappadocian hill village beneath Uçhisar Castle, overlooking fairy chimneys,
   pigeon valleys, and Mount Erciyes.
 tip: Uçhisar is crowned by Cappadocia's tallest fairy-chimney castle — climb it at
@@ -24,10 +24,10 @@ tip: Uçhisar is crowned by Cappadocia's tallest fairy-chimney castle — climb 
   into the rock.
 title: Uchisar
 type: location
-heritage: 5.648
-vibrancy: 3.666
-nature: 7.087
-off_the_beaten_track: 4.13
+heritage: 6.39
+vibrancy: 2.295
+nature: 6.526
+off_the_beaten_track: 3.997
 ---
 
 Uçhisar is the highest point in Cappadocia, dominated by a massive volcanic rock riddled with cave rooms that served as dwellings for centuries — the [castle](/asia/turkey/cappadocia/uchisar/uchisar_castle) visible for miles across the plateau. Climbing to the top takes about 20 minutes and rewards you with the best panorama in the region: a sweep of fairy chimneys, pigeon valleys, and the distant snow-capped cone of Mount Erciyes.

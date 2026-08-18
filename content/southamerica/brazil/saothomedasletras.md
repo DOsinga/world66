@@ -4,7 +4,7 @@ done:
 latitude: -21.721944
 loc_type: city
 longitude: -44.985
-score: 5.6
+score: 6.226
 snippet: Quartzite hill town in southern Minas Gerais, known for caves, waterfalls,
   and UFO folklore.
 sources:
@@ -18,10 +18,10 @@ image: saothomedasletras.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Sao_Thome_das_Letras_-_Brazil_(12).JPG
 image_license: CC BY-SA 3.0
 image_attribution: Silvioldcoelho
-heritage: 3.506
-vibrancy: 4.252
-nature: 6.625
-off_the_beaten_track: 5.526
+heritage: 3.608
+vibrancy: 4.681
+nature: 7.388
+off_the_beaten_track: 5.659
 ---
 
 São Thomé das Letras sits high in the quartzite hills of southern Minas Gerais, a small stone-built town with a reputation much larger than its size. It mixes old Mineiro religion, waterfall weekends, rough-edged backpacker energy, and a long-running taste for mysticism.

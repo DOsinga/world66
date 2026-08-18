@@ -8,15 +8,15 @@ image_source: https://www.flickr.com/photos/53136684@N00/49976417528
 latitude: 40.0484
 loc_type: city
 longitude: -86.4694
-score: 2.499
+score: 2.445
 snippet: Central Indiana county seat northwest of Indianapolis, centred on the domed
   Boone County Courthouse.
 title: Lebanon
 type: location
-heritage: 2.414
-vibrancy: 2.34
-nature: 2.742
-off_the_beaten_track: 1.214
+heritage: 2.751
+vibrancy: 2.201
+nature: 2.528
+off_the_beaten_track: 1.279
 ---
 
 Lebanon is the seat of Boone County, about 20 miles northwest of [Indianapolis](/northamerica/unitedstates/indiana/indianapolis) in central [Indiana](/northamerica/unitedstates/indiana). The town of about 14,000 was named for a grove of hickory trees that reminded its pioneer founders of the biblical cedars of Lebanon.

@@ -7,12 +7,12 @@ title: Parksville
 snippet: Vancouver Island beach town known for broad tidal sand flats and unusually
   warm shallow water.
 type: location
-score: 5.097
+score: 5.738
 loc_type: city
-heritage: 1.934
-vibrancy: 3.894
-nature: 6.019
-off_the_beaten_track: 1.526
+heritage: 2.412
+vibrancy: 4.099
+nature: 6.914
+off_the_beaten_track: 1.282
 ---
 
 Parksville is a small, welcoming town on the east coast of [Vancouver Island](/northamerica/canada/britishcolumbia), about two hours north of [Victoria](/northamerica/canada/britishcolumbia/victoria). It is known for its wide sandy beaches and unusually warm ocean water — at low tide the sand flats stretch hundreds of metres out and the shallow water warms in the sun, making [Rathtrevor Beach](/northamerica/canada/britishcolumbia/parksville/rathtrevor_beach) one of the best family swimming spots on the island.

@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Playa_Principal_Puerto_Esc
 latitude: 15.8693
 loc_type: city
 longitude: -97.0726
-score: 5.734
+score: 5.664
 snippet: Oaxacan Pacific surf town where Playa Zicatela's heavy waves meet sheltered
   coves and lagoon trips.
 title: Puerto Escondido
 type: location
-heritage: 3.688
-vibrancy: 4.769
-nature: 6.584
-off_the_beaten_track: 3.52
+heritage: 3.293
+vibrancy: 4.348
+nature: 6.678
+off_the_beaten_track: 3.318
 ---
 
 Puerto Escondido is the surf capital of Mexico's Pacific coast, a laid-back beach town on the Oaxacan coast that has grown from a sleepy fishing village into a magnet for surfers, backpackers, and increasingly, digital nomads and yoga enthusiasts. The main draw is [Playa Zicatela](/northamerica/mexico/puertoescondido/playa_zicatela), a powerful beach break that produces some of the heaviest waves in the Americas — the Mexican Pipeline, as it is known, hosts international surf competitions and is strictly for experienced surfers. The waves here are spectacular to watch even if you have no intention of getting in the water.

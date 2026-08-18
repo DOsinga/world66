@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Branson_Missouri.
 latitude: 36.6123
 loc_type: city
 longitude: -93.2918
-score: 5.187
+score: 4.85
 snippet: Ozarks resort town of live shows, lake weekends, and neon along Highway 76.
 sources:
 - https://www.bransonmo.gov/316/Tourism-Activities-Attractions
@@ -17,10 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Titanic_Museum_(Branson,_Missouri)
 title: Branson
 type: location
-heritage: 2.312
-vibrancy: 4.049
-nature: 6.084
-off_the_beaten_track: 1.788
+heritage: 1.564
+vibrancy: 3.584
+nature: 5.786
+off_the_beaten_track: 1.704
 ---
 
 Branson is Missouri's loud, busy, unapologetic Ozarks resort town: live shows, family attractions, outlet malls, lake weekends, and enough neon along Highway 76 to make subtlety feel like a foreign language. It is easy to mock and easier to underestimate.

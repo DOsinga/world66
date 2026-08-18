@@ -4,7 +4,7 @@ done:
 latitude: 34.9906
 loc_type: city
 longitude: -101.9192
-score: 4.046
+score: 3.901
 snippet: Texas Panhandle college town beside Palo Duro Canyon and the high-plains
   history museum.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://tpwd.texas.gov/state-parks/palo-duro-canyon
 title: Canyon
 type: location
-heritage: 2.112
-vibrancy: 1.997
-nature: 5.307
-off_the_beaten_track: 2.744
+heritage: 1.952
+vibrancy: 1.88
+nature: 5.139
+off_the_beaten_track: 2.528
 ---
 
 Canyon is the small Panhandle city that gives [Palo Duro Canyon State Park](/northamerica/unitedstates/texas/canyon/palo_duro_canyon_state_park) its practical base. [Amarillo](/northamerica/unitedstates/texas/amarillo) gets the highway traffic and Route 66 nostalgia, but Canyon is closer to the red-rock country that most travelers actually came to see.

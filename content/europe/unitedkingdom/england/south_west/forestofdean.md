@@ -2,7 +2,7 @@
 latitude: 51.80017
 loc_type: feature
 longitude: -2.530753
-score: 5.789
+score: 5.753
 snippet: Ancient English forest region of former mining railways, Wye Valley watersports,
   and family cycling trails
 title: Forest of Dean
@@ -11,10 +11,10 @@ image: forestofdean.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Into_the_Forest_of_Dean,_Gloucestershire_-_geograph.org.uk_-_7632280.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Jaggery
-heritage: 3.637
-vibrancy: 1.454
-nature: 7.431
-off_the_beaten_track: 3.28
+heritage: 4.196
+vibrancy: 1.418
+nature: 7.139
+off_the_beaten_track: 3.332
 ---
 
 Travel Guide

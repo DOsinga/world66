@@ -5,15 +5,15 @@ done:
 latitude: 35.339
 loc_type: city
 longitude: -97.487
-score: 2.221
+score: 1.644
 snippet: Oklahoma City suburb in Tornado Alley, defined by storm history and steady
   rebuilding
 title: Moore
 type: location
-heritage: 2.099
-vibrancy: 2.196
-nature: 2.287
-off_the_beaten_track: 1.021
+heritage: 1.582
+vibrancy: 1.68
+nature: 1.359
+off_the_beaten_track: 1.335
 ---
 
 Moore sits just south of [Oklahoma City](/northamerica/unitedstates/oklahoma/oklahomacity) in Cleveland County, a suburban city of over 60,000 people. It is best known — for better or worse — as part of Tornado Alley, having been hit by several devastating tornadoes including the F5 of 1999 and an EF5 in 2013 that levelled entire neighbourhoods. A small but moving [memorial garden at Plaza Towers Elementary](/northamerica/unitedstates/oklahoma/moore/plaza_towers_memorial) marks the spot where seven children died in that storm.

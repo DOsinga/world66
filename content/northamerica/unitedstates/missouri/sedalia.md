@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:20160711_63_Sedalia,_Misso
 latitude: 38.7098
 loc_type: city
 longitude: -93.2296
-score: 2.805
+score: 2.833
 snippet: West-central Missouri city known for the Missouri State Fair and Scott Joplin's
   ragtime years
 title: Sedalia
 type: location
-heritage: 2.621
-vibrancy: 2.578
-nature: 3.102
-off_the_beaten_track: 1.272
+heritage: 3.052
+vibrancy: 2.692
+nature: 3.09
+off_the_beaten_track: 1.297
 ---
 
 Sedalia is a small city in west-central Missouri, roughly halfway between Kansas City and St. Louis on US-50. It is best known as the home of the Missouri State Fair, held every August, which draws hundreds of thousands of visitors for livestock shows, carnival rides, and concerts.

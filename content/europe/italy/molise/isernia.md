@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Fontana_Fraterna_(Isernia)
 latitude: 41.649509
 loc_type: city
 longitude: 14.208062
-score: 4.424
+score: 4.069
 title: Isernia
 type: location
 snippet: Molise provincial capital on a ridge, layered with Samnite, Roman, medieval,
   and baroque history.
-heritage: 5.139
-vibrancy: 2.687
-nature: 4.208
-off_the_beaten_track: 2.779
+heritage: 4.629
+vibrancy: 2.831
+nature: 4.09
+off_the_beaten_track: 2.774
 ---
 
 Isernia is one of two provincial capitals in Molise, Italy's least-visited region. The town sits on a narrow ridge at 420 metres, separating the Carpino and Sordo rivers, with mountain views in every direction.

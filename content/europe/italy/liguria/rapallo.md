@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Rapallo-IMG_0436.JPG
 latitude: 44.351147
 loc_type: city
 longitude: 9.229671
-score: 5.356
+score: 5.242
 snippet: Tigullio Gulf resort town with a sea-edge castle, palm-lined promenade, and
   Montallegro cable car
 sources:
@@ -19,10 +19,10 @@ tags:
 - tigullio
 title: Rapallo
 type: location
-heritage: 4.45
-vibrancy: 4.765
-nature: 5.999
-off_the_beaten_track: 2.491
+heritage: 3.88
+vibrancy: 4.838
+nature: 5.787
+off_the_beaten_track: 2.272
 ---
 
 Rapallo is the largest town on the Tigullio Gulf, with around 30,000 residents and a long history as a resort. Its symbol is the [Castello di Rapallo](/europe/italy/liguria/rapallo/castello_di_rapallo) — a small sixteenth-century fort on a rocky islet just off the promenade, once a defence against Saracen pirates, now a venue for temporary exhibitions with its feet in the sea. The [Lungomare Vittorio Veneto](/europe/italy/liguria/rapallo/lungomare) curves around the harbour in the classic Ligurian fashion, all palm trees and pastel-painted hotels.

@@ -12,11 +12,11 @@ snippet: Chiapas gateway town below jungle-covered Maya ruins at the wet edge of
 longitude: -91.9871
 title: Palenque
 type: location
-score: 6.604
-heritage: 8.382
-vibrancy: 2.192
-nature: 4.67
-off_the_beaten_track: 3.949
+score: 6.395
+heritage: 8.291
+vibrancy: 2.017
+nature: 4.127
+off_the_beaten_track: 3.67
 ---
 
 Palenque sits in the foothills of the Sierra Madre de Chiapas, where the highlands drop towards the Gulf Coast lowlands and the jungle gets thick and wet. Most travellers come for the ruins — the ancient Maya city of Palenque, set into a forested hillside at the edge of the modern town, is one of the finest archaeological sites in the Americas.

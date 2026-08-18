@@ -9,17 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Texel_island.jpg
 latitude: 53.089372
 loc_type: feature
 longitude: 4.821347
-score: 4.642
+score: 4.628
 snippet: Dutch Wadden island of dunes, beaches, cycling paths, bird flats, and Texel
   lamb.
 tags:
 - waddenislands
 title: Texel island
 type: location
-heritage: 3.904
-vibrancy: 3.541
-nature: 5.484
-off_the_beaten_track: 2.448
+heritage: 3.382
+vibrancy: 3.526
+nature: 5.469
+off_the_beaten_track: 2.65
 ---
 
 Texel is the largest and southernmost of the Dutch Wadden Islands — a 25-kilometre stretch of dunes, beach, heath, and farmland an hour and a half north of Amsterdam. A ferry runs every half hour from [Den Helder](/europe/netherlands/denhelder) across the 4 km Marsdiep channel; the crossing itself takes twenty minutes.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Tramonto_sulla_cattedrale.
 latitude: 41.2751
 loc_type: city
 longitude: 16.4163
-score: 5.609
+score: 5.57
 snippet: Adriatic port town in Puglia, centred on a pale Romanesque cathedral beside
   the harbour.
 title: Trani
 type: location
-heritage: 6.408
-vibrancy: 4.991
-nature: 2.881
-off_the_beaten_track: 2.167
+heritage: 6.38
+vibrancy: 4.924
+nature: 3.639
+off_the_beaten_track: 2.14
 ---
 
 Trani's cathedral stands directly on the edge of the Adriatic, its pale limestone walls rising from the rocks with nothing between it and the sea. The Cattedrale di San Nicola Pellegrino is one of the finest Romanesque churches in southern Italy, and the sight of it from the harbour — framed by fishing boats and the long stone breakwater — is reason enough to come here.

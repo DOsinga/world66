@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 52.9543
 longitude: 1.0177
-score: 5.569
+score: 5.591
 snippet: North Norfolk village beside salt marshes, seal boats, shingle spits, and
   wide coastal walking.
 sources:
@@ -14,10 +14,10 @@ image: blakeney.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Blakeney_Harbour_from_Blakeney_Point_-_geograph.org.uk_-_6976123.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Hugh Venables
-heritage: 4.118
-vibrancy: 1.677
-nature: 6.887
-off_the_beaten_track: 3.345
+heritage: 4.496
+vibrancy: 1.579
+nature: 6.761
+off_the_beaten_track: 3.681
 ---
 
 Blakeney is a small village on the North Norfolk Coast, tucked behind salt marshes and tidal creeks rather than facing the open sea. The village is pretty, but the reason to come is the landscape around it: Blakeney Point, seal boats, birdwatching, and long, wind-bright walks along the coast.

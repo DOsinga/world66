@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 36.16278
 longitude: -85.50167
-score: 3.911
+score: 3.936
 snippet: Upper Cumberland college city between Nashville and Knoxville, close to waterfalls
   and plateau parks.
 sources:
@@ -13,10 +13,10 @@ image: cookeville.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cookeville-1st-Cedar-tn1.jpg
 image_license: CC BY 4.0
 image_attribution: Brian Stansberry
-heritage: 2.908
-vibrancy: 3.304
-nature: 4.465
-off_the_beaten_track: 1.415
+heritage: 2.995
+vibrancy: 3.334
+nature: 4.489
+off_the_beaten_track: 1.412
 ---
 
 Cookeville is a small city in north-central [Tennessee](/northamerica/unitedstates/tennessee), set on the Cumberland Plateau between [Nashville](/northamerica/unitedstates/tennessee/nashville) and [Knoxville](/northamerica/unitedstates/tennessee/knoxville). It is home to Tennessee Tech University and is the main urban base for the Upper Cumberland region.

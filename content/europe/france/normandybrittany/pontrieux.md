@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:France_Cotes_d_Armor_Pontr
 latitude: 48.6972
 loc_type: city
 longitude: -3.163
-score: 4.238
+score: 4.255
 snippet: Breton river town on the tidal Trieux, known for restored lavoirs and half-timbered
   houses
 title: Pontrieux
 type: location
-heritage: 4.285
-vibrancy: 3.009
-nature: 4.753
-off_the_beaten_track: 3.354
+heritage: 4.079
+vibrancy: 3.024
+nature: 4.866
+off_the_beaten_track: 3.349
 ---
 
 Pontrieux is a small Breton town on the tidal River Trieux, known for its remarkable collection of private washhouses — over fifty lavoirs tucked along the riverbanks, many of them beautifully restored and open to visitors during guided boat trips in summer. It is a quiet, picturesque place with half-timbered houses reflected in the river, and a good stop on a tour of the Côtes-d'Armor.

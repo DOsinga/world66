@@ -16,11 +16,11 @@ image: zaporizhzhia.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Hydro-electric_Power_station_%27Dniprohes%27_in_Zaporizhzhia_02.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Victor Babenko
-score: 4.667
-heritage: 4.846
-vibrancy: 4.634
-nature: 3.612
-off_the_beaten_track: 3.487
+score: 4.466
+heritage: 4.212
+vibrancy: 4.596
+nature: 3.603
+off_the_beaten_track: 3.52
 ---
 
 Zaporizhzhia is not a soft city. It is a broad, industrial place on the Dnipro, shaped by steel, aircraft engines, Soviet planning, and the river crossing that once marked the land "beyond the rapids." For a traveller, its strength is the way that heavy modern history sits beside one of Ukraine's most important symbolic landscapes.

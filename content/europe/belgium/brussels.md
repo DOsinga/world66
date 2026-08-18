@@ -16,7 +16,7 @@ quick_facts:
   EU Capital: Seat of the institutions
   Grand-Place: A UNESCO-listed square
   Population: ~1.2 million
-score: 6.38
+score: 6.992
 snippet: Bilingual Belgian capital and EU seat, centred on the gilded Grand-Place
   and wry urban contradictions.
 tip: Brussels is the de facto capital of the EU, but its heart is the Grand-Place,
@@ -26,10 +26,10 @@ tip: Brussels is the de facto capital of the EU, but its heart is the Grand-Plac
   on quickly.
 title: Brussels
 type: location
-heritage: 6.164
-vibrancy: 6.511
-nature: 2.951
-off_the_beaten_track: 1.102
+heritage: 7.219
+vibrancy: 6.959
+nature: 2.65
+off_the_beaten_track: 0.909
 ---
 
 Brussels wears two hats. Politically, it is the de facto capital of the European Union — home to the European Commission, the Parliament, the Council, and a vast functional neighbourhood of glass-and-steel around Schuman that lives off EU business. Culturally, it is the bilingual capital of a country that is itself oddly constructed — every sign in French and Flemish, every official bureaucracy duplicated, a layer of dry self-aware humour about the whole arrangement.

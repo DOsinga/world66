@@ -11,13 +11,13 @@ loc_type: city
 snippet: Remote Libyan oasis cluster near Egypt and Sudan, once a Senussi centre on
   Sahara caravan routes
 longitude: 22.084033
-score: 5.302
+score: 5.627
 title: Kufra
 type: location
-heritage: 3.587
-vibrancy: 1.786
-nature: 3.626
-off_the_beaten_track: 9.421
+heritage: 4.849
+vibrancy: 1.381
+nature: 2.955
+off_the_beaten_track: 9.445
 ---
 
 Kufra is as remote as it gets in Libya — an oasis cluster in the far southeast, near the Egyptian and Sudanese borders, closer to Khartoum than to Tripoli. There are no tourist facilities here, and reaching it requires serious preparation. This is a destination for serious desert travellers, not casual visitors.

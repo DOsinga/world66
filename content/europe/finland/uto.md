@@ -4,7 +4,7 @@ type: location
 loc_type: feature
 latitude: 59.786
 longitude: 21.377
-score: 5.471
+score: 5.618
 wikidata: Q194522
 snippet: Finland's southernmost inhabited island, a bare Archipelago Sea outpost of
   pilots and lighthouse history.
@@ -16,10 +16,10 @@ image: uto.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ut%C3%B6_lighthouse.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Olimar
-heritage: 3.071
-vibrancy: 1.621
-nature: 7.055
-off_the_beaten_track: 4.672
+heritage: 3.229
+vibrancy: 1.402
+nature: 7.117
+off_the_beaten_track: 5.211
 ---
 
 Utö is far out in Finland's Archipelago Sea, beyond the soft island scenery closer to Turku. It is bare, windy, Swedish-speaking, and maritime to the bone: a lighthouse island, a pilot station, a small village tucked into rock, and sea in every direction.

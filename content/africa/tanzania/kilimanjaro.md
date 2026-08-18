@@ -4,7 +4,7 @@ done:
   location_cleanup: 2026-04-06
 latitude: -3.078653
 longitude: 37.419856
-score: 5.716
+score: 5.921
 title: Kilimanjaro
 type: location
 loc_type: feature
@@ -14,10 +14,10 @@ image: kilimanjaro.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kilimanjaro_from_Amboseli.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Sergey Pesterev
-heritage: 1.759
-vibrancy: 1.314
-nature: 6.903
-off_the_beaten_track: 6.414
+heritage: 1.656
+vibrancy: 1.461
+nature: 7.186
+off_the_beaten_track: 6.526
 ---
 
 **Part of history**

@@ -5,7 +5,7 @@ done:
 latitude: 40.4871
 loc_type: city
 longitude: 22.3173
-score: 6.583
+score: 6.627
 title: Vergina
 type: location
 image: vergina.jpg
@@ -14,10 +14,10 @@ image_license: CC BY-SA 4.0
 image_attribution: Holger Uwe Schmitt
 snippet: Northern Greek village beside ancient Aegae, where Macedonian royal tombs
   were uncovered in 1977.
-heritage: 8.055
-vibrancy: 2.083
-nature: 5.334
-off_the_beaten_track: 2.55
+heritage: 7.943
+vibrancy: 2.857
+nature: 5.746
+off_the_beaten_track: 2.369
 ---
 
 Vergina is a small village in northern Greece, near Veria, and home to one of the most important archaeological sites in the Greek world. The Royal Tombs of Aegae — the ancient Macedonian capital — were discovered here in 1977. Philip II of Macedon, father of Alexander the Great, is believed to be buried in Tomb II, and the golden larnax containing his bones and a stunning gold crown are displayed in the [underground museum](/europe/greece/vergina/royal_tombs_museum) built within the burial mounds.

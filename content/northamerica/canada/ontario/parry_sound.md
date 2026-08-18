@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 45.347
 longitude: -80.033
-score: 5.684
+score: 5.469
 snippet: Georgian Bay harbour town facing the rocky maze of Ontario's Thirty Thousand
   Islands.
 wikidata: Q2219667
@@ -16,10 +16,10 @@ image: parry_sound.jpg
 image_source: https://commons.wikimedia.org/wiki/File:20150705_-_40_-_Parry_Sound,_Ont._-_The_Island_Queen_Is_En_Route.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Andre Carrotflower
-heritage: 4.272
-vibrancy: 3.461
-nature: 7.0
-off_the_beaten_track: 2.743
+heritage: 3.264
+vibrancy: 3.501
+nature: 6.786
+off_the_beaten_track: 2.678
 ---
 
 Parry Sound is a Georgian Bay harbour town at the edge of the Thirty Thousand Islands, where pink granite, wind-bent pines, and cold blue water start to feel more northern than southern Ontario. The town itself is practical and modest, but the setting is first-rate.

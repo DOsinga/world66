@@ -4,7 +4,7 @@ done:
 latitude: 10.2803
 loc_type: city
 longitude: -61.4681
-score: 5.08
+score: 5.112
 snippet: Southern Trinidad city on the Gulf of Paria, shaped by oil industry and Carnival
   pride
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Pitch_Lake
 title: San Fernando
 type: location
-heritage: 4.646
-vibrancy: 5.221
-nature: 4.717
-off_the_beaten_track: 4.288
+heritage: 3.83
+vibrancy: 5.233
+nature: 4.799
+off_the_beaten_track: 4.206
 ---
 
 San Fernando is Trinidad's second city, perched on a hill in the island's industrial south. The city grew on the back of the oil and petrochemical industries that dominate this part of Trinidad, and the working rigs visible from the highway on the approach give you a clear sense of what drives the local economy. Yet San Fernando has a vitality and community pride that the oil-town label does not fully capture.

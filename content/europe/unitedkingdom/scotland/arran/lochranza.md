@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Lochranza._-_panoramio_(1)
 latitude: 55.704586
 loc_type: city
 longitude: -5.295153
-score: 4.92
+score: 5.079
 title: Lochranza
 snippet: Tiny Arran sea-loch village with a ruined castle, deer, whisky distillery,
   and northern ferry link
 type: location
-heritage: 3.731
-vibrancy: 2.082
-nature: 6.044
-off_the_beaten_track: 3.884
+heritage: 3.756
+vibrancy: 1.978
+nature: 6.28
+off_the_beaten_track: 4.226
 ---
 
 Lochranza is a tiny village at the far north of [Arran](/europe/unitedkingdom/scotland/arran), set around a sea loch with a [ruined 13th-century castle](/europe/unitedkingdom/scotland/arran/lochranza/lochranza_castle) on a spit of land at the water's edge. It is one of the most atmospheric spots on the island, particularly on a misty morning when the castle appears to float above the water. Red deer wander freely around the village and can often be seen grazing on the golf course.

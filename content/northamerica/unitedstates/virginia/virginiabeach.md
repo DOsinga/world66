@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_at_Virginia_Beach_Oc
 latitude: 36.849658
 loc_type: city
 longitude: -75.976075
-score: 4.872
+score: 5.224
 snippet: Atlantic resort city where Virginia's boardwalk beach gives way to Sandbridge
   dunes and First Landing history.
 title: Virginia Beach
 type: location
-heritage: 2.278
-vibrancy: 4.64
-nature: 5.309
-off_the_beaten_track: 1.025
+heritage: 2.55
+vibrancy: 4.482
+nature: 5.932
+off_the_beaten_track: 0.984
 ---
 
 Virginia Beach is the most populous city in Virginia, sprawling along the Atlantic coast where the Chesapeake Bay meets the ocean. The oceanfront boardwalk — three miles of hotels, restaurants, and souvenir shops — is the busy, family-friendly face of the city. But the quieter side is more interesting: the Sandbridge area to the south has a wilder beach without the boardwalk crowds, and the First Landing State Park preserves the spot where the Jamestown colonists first came ashore in 1607.

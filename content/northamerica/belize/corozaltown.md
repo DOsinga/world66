@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Coast_in_Corozal,_Belize.j
 latitude: 18.3923
 loc_type: city
 longitude: -88.3975
-score: 4.549
+score: 4.792
 snippet: Quiet northern Belize town on Corozal Bay, layered over the ancient Maya
   city of Chactemal.
 title: Corozal Town
 type: location
-heritage: 3.721
-vibrancy: 4.287
-nature: 4.979
-off_the_beaten_track: 2.691
+heritage: 3.481
+vibrancy: 4.46
+nature: 5.273
+off_the_beaten_track: 2.751
 ---
 
 Corozal is a small, quiet town on the northern coast near the Mexican border, overlooking [Corozal Bay](/northamerica/belize/corozaltown/corozal_bay_waterfront). It's not a major tourist destination but is pleasant enough — laid-back, relatively safe, and useful as a stopping point if you're crossing into Mexico at Chetumal.

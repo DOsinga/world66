@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Nassau_Hall,_Princeton_Uni
 latitude: 40.349695
 loc_type: city
 longitude: -74.659738
-score: 5.132
+score: 5.722
 title: Princeton
 type: location
 snippet: New Jersey university town of Gothic campus buildings, colonial streets,
   and Revolutionary War history.
-heritage: 5.188
-vibrancy: 5.15
-nature: 3.527
-off_the_beaten_track: 0.917
+heritage: 5.159
+vibrancy: 5.979
+nature: 3.941
+off_the_beaten_track: 0.959
 ---
 
 Princeton is one of the oldest settlements in New Jersey, a handsome town of tree-lined streets and colonial-era buildings that grew up around its famous university. Princeton University dominates the town — its Gothic campus, anchored by Nassau Hall from 1756, is one of the most beautiful in America and freely open to walk through. The university art museum is excellent and free, with collections spanning Chinese antiquity to modern American art.

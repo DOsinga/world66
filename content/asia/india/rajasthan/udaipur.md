@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:20191207_Lake_Pichola,_Cit
 latitude: 24.5787
 loc_type: city
 longitude: 73.6863
-score: 5.846
+score: 5.503
 title: Udaipur
 snippet: Rajasthani lake city of white palaces, Aravalli hills, ghats, and sunset
   views over Lake Pichola.
 type: location
-heritage: 6.56
-vibrancy: 5.444
-nature: 3.758
-off_the_beaten_track: 1.76
+heritage: 5.957
+vibrancy: 5.373
+nature: 4.186
+off_the_beaten_track: 1.502
 ---
 
 Udaipur is the most romantic city in Rajasthan, built around the clear waters of [Lake Pichola](/asia/india/rajasthan/udaipur/lake_pichola) and backed by the ancient Aravalli hills. The white-walled buildings, the [Lake Palace](/asia/india/rajasthan/udaipur/lake_palace) seemingly floating in the middle of the water, and the massive [City Palace](/asia/india/rajasthan/udaipur/city_palace) complex lining the eastern shore create a scene that has earned it the nickname "Venice of the East" — an overstatement, perhaps, but the city genuinely charms.

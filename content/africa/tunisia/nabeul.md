@@ -5,7 +5,7 @@ done:
 latitude: 36.45129
 loc_type: city
 longitude: 10.735591
-score: 5.623
+score: 4.386
 snippet: Cap Bon pottery town where blue-and-white ceramics fill workshops, markets,
   and medina lanes.
 sources:
@@ -13,10 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Nabeul_Museum
 title: Nabeul
 type: location
-heritage: 6.611
-vibrancy: 4.624
-nature: 2.99
-off_the_beaten_track: 3.311
+heritage: 4.748
+vibrancy: 4.282
+nature: 3.009
+off_the_beaten_track: 3.474
 ---
 
 Nabeul is the pottery capital of Tunisia, and it wears that title openly. The town on the Cap Bon peninsula, about 65 km from Tunis, is lined with [workshops and shops](/africa/tunisia/nabeul/pottery_workshops) selling the distinctive blue-and-white glazed ceramics, terracotta pots, and tiles that have been made here for centuries. The weekly Friday market draws traders from across the region.

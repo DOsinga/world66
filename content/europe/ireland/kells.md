@@ -4,14 +4,14 @@ type: location
 loc_type: city
 latitude: 53.727
 longitude: -6.879
-score: 5.106
+score: 5.423
 snippet: County Meath town whose abbey once guarded the Book of Kells.
 source: Wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Kells
-heritage: 6.796
-vibrancy: 1.613
-nature: 2.894
-off_the_beaten_track: 3.04
+heritage: 7.121
+vibrancy: 1.631
+nature: 3.294
+off_the_beaten_track: 3.241
 ---
 
 *Europe > Ireland > Kells*

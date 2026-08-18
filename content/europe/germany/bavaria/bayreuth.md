@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Marktplatz_Bayreuth.JPG
 latitude: 49.9446
 loc_type: city
 longitude: 11.5744
-score: 5.449
+score: 6.2
 title: Bayreuth
 type: location
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Bayreuth_Festival
 snippet: Franconian city known for Richard Wagner's festival theatre and the ornate
   Margravial Opera House.
-heritage: 6.232
-vibrancy: 4.834
-nature: 2.511
-off_the_beaten_track: 1.816
+heritage: 7.251
+vibrancy: 5.175
+nature: 3.754
+off_the_beaten_track: 1.666
 ---
 
 Bayreuth is a Franconian city of about 73,000 people, known throughout the world for one thing: Richard Wagner. The composer moved here in 1872, built his own opera house — the [Festspielhaus](/europe/germany/bavaria/bayreuth/festspielhaus) — on a hill above the city, and inaugurated his festival in 1876. It hasn't stopped since. Every July and August, the **Bayreuth Festival** draws opera pilgrims from around the world to sit through four- and five-hour Wagner performances in a theatre designed by Wagner himself, with sight lines and acoustics engineered specifically for his music. Tickets are famously hard to obtain — waiting lists run to years.

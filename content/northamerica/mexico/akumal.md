@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Akumal_Half-moon_Bay-27527
 latitude: 20.398797
 loc_type: city
 longitude: -87.31734
-score: 5.395
+score: 5.832
 snippet: Riviera Maya seaside village where green sea turtles feed in the shallow
   seagrass of Akumal Bay.
 title: Akumal
 type: location
-heritage: 1.856
-vibrancy: 3.664
-nature: 6.592
-off_the_beaten_track: 3.151
+heritage: 2.087
+vibrancy: 4.032
+nature: 7.092
+off_the_beaten_track: 2.753
 ---
 
 Akumal is a small seaside village on the Riviera Maya, about 100 kilometres south of [Cancún](/northamerica/mexico/cancun) and a short drive north of [Tulum](/northamerica/mexico/tulum). The name means "Place of the Turtles" in Mayan, and the bay lives up to it — green sea turtles feed in the shallow seagrass beds of [Akumal Bay](/northamerica/mexico/akumal/akumal_bay) year-round, and several species nest on the beaches between May and October.

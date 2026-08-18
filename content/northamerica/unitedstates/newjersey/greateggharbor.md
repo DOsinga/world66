@@ -5,17 +5,17 @@ done:
 latitude: 39.515542
 loc_type: city
 longitude: -74.382172
-score: 3.544
+score: 3.383
 sources:
 - https://en.wikipedia.org/wiki/Great_Bay_(New_Jersey)
 title: Great Egg Harbor
 type: location
 snippet: Pinelands river destination in southern New Jersey, protected for paddling,
   wetlands, and rare wildlife habitat.
-heritage: 2.346
-vibrancy: 2.233
-nature: 4.415
-off_the_beaten_track: 1.75
+heritage: 2.15
+vibrancy: 2.227
+nature: 4.167
+off_the_beaten_track: 1.567
 ---
 
 The Great Egg Harbor River is one of the best [paddling destinations](/northamerica/unitedstates/newjersey/greateggharbor/great_egg_harbor_river_paddling) in New Jersey, running through the heart of the Pinelands Reserve on its way to the Atlantic Ocean. A National Wild and Scenic River since 1992, it passes through undisturbed freshwater and tidal wetlands that support a surprising array of wildlife given the population density of southern New Jersey.

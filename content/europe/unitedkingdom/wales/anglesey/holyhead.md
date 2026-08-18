@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:South_Stack_Lighthouse,_Ho
 latitude: 53.310671
 loc_type: city
 longitude: -4.633097
-score: 5.565
+score: 5.232
 snippet: Welsh ferry port on Anglesey's western tip, with Roman walls, sea cliffs,
   and South Stack seabird colonies.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/South_Stack
 title: Holyhead
 type: location
-heritage: 6.223
-vibrancy: 4.905
-nature: 5.84
-off_the_beaten_track: 3.285
+heritage: 5.583
+vibrancy: 4.016
+nature: 5.743
+off_the_beaten_track: 3.137
 ---
 
 Holyhead — Caergybi in Welsh — sits at the far western tip of Anglesey, and most people pass through on their way to the Irish ferries. But there's reason to linger.

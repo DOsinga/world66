@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 65.733635
 longitude: 24.563416
-score: 4.471
+score: 4.666
 snippet: Finnish Lapland port town known for icebreaker cruises, snow rooms, and a
   pink church.
 wikidata: Q203619
@@ -19,10 +19,10 @@ image: kemi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kemi_Church_20220421.jpg
 image_license: CC0 1.0
 image_attribution: Estormiz
-heritage: 2.935
-vibrancy: 2.028
-nature: 5.483
-off_the_beaten_track: 4.742
+heritage: 3.004
+vibrancy: 2.249
+nature: 5.78
+off_the_beaten_track: 4.76
 ---
 
 Kemi is a small port city on the frozen edge of the Gulf of Bothnia, best known for doing winter tourism in a very literal way. Its strongest draw is the [Sampo icebreaker cruise](/europe/finland/kemi/icebreaker_sampo), where visitors go out onto the sea ice and, in season, float in survival suits between broken slabs of ice.

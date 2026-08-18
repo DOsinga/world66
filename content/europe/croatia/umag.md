@@ -8,18 +8,20 @@ image_source: https://commons.wikimedia.org/wiki/File:Umag,_Platz_Trg._Slobode,_
 latitude: 45.432359
 loc_type: city
 longitude: 13.52241
-score: 5.504
+score: 5.475
 snippet: Istrian harbour town near Slovenia, with a Venetian old promontory and Croatia's
   long-running clay-court tennis tournament
 sources:
 - https://en.wikipedia.org/wiki/Umag
 - https://en.wikipedia.org/wiki/Croatia_Open
+tags:
+- istria
 title: Umag
 type: location
-heritage: 4.317
-vibrancy: 5.174
-nature: 6.031
-off_the_beaten_track: 1.926
+heritage: 3.602
+vibrancy: 5.351
+nature: 5.797
+off_the_beaten_track: 1.655
 ---
 
 Umag is a small harbour town at the very northwestern tip of the Istrian peninsula in [Croatia](/europe/croatia), the first stop on the coast if you are coming from Italy or Slovenia. The [old town](/europe/croatia/umag/old_town) sits on a small promontory, its narrow streets lined with Venetian houses, remnants of medieval walls, and churches — the most notable being the [Church of Saints Hermagoras and Fortunatus](/europe/croatia/umag/church_of_saints_hermagoras_and_fortunatus) at the tip of the peninsula.

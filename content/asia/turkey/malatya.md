@@ -4,7 +4,7 @@ done:
 latitude: 38.348611
 loc_type: city
 longitude: 38.319444
-score: 5.42
+score: 4.502
 snippet: Eastern Anatolian apricot city near Arslantepe, with old Malatya and earthquake-scarred
   centre.
 sources:
@@ -18,10 +18,10 @@ image: malatya.jpg
 image_source: https://commons.wikimedia.org/wiki/File:44_malatya_panorama.JPG
 image_license: CC BY-SA 3.0
 image_attribution: okandemir
-heritage: 6.272
-vibrancy: 4.66
-nature: 4.018
-off_the_beaten_track: 4.14
+heritage: 5.013
+vibrancy: 4.27
+nature: 3.658
+off_the_beaten_track: 3.885
 ---
 
 Malatya is a large eastern Anatolian city with a complicated travel pitch. It is famous for apricots, sits on one of Turkey's great east-west routes, and has a UNESCO-listed archaeological site on its edge, but the 2023 earthquake left real damage and some sights remain closed or rebuilt.

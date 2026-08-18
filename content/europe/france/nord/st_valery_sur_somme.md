@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Porte_Guillaume_de_Saint-V
 latitude: 50.188701
 loc_type: city
 longitude: 1.627915
-score: 4.267
+score: 3.965
 snippet: Hilltop Somme Bay town with medieval lanes and William the Conqueror history
   above the estuary
 title: St-Valéry-sur-Somme
 type: location
-heritage: 4.884
-vibrancy: 2.646
-nature: 4.222
-off_the_beaten_track: 2.527
+heritage: 4.511
+vibrancy: 2.629
+nature: 3.984
+off_the_beaten_track: 2.484
 ---
 
 St-Valéry-sur-Somme is one of those small French towns that rewards the traveller who slows down. Perched on a hill above the Baie de Somme, it is where William the Conqueror gathered his fleet before sailing for England in 1066 — a fact the town remembers with quiet pride.

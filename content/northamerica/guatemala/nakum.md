@@ -2,7 +2,7 @@
 latitude: 17.184
 loc_type: feature
 longitude: -89.366
-score: 5.749
+score: 6.237
 snippet: Remote Classic Maya city where palace ruins and a pyramid remain enclosed
   by dense Petén jungle.
 tags:
@@ -14,10 +14,10 @@ image: nakum.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Parque_Yaxha_Nakum_Naranjo_Sitio_Nakum_2015-01-22-03.JPG
 image_license: CC BY-SA 4.0
 image_attribution: Jorge Antonio Leoni de León
-heritage: 6.367
-vibrancy: 1.814
-nature: 6.173
-off_the_beaten_track: 5.731
+heritage: 6.521
+vibrancy: 1.854
+nature: 6.904
+off_the_beaten_track: 4.815
 ---
 
 A small Classic Maya site about 17 km north of Yaxha, reachable only by dirt road from the larger site — usually combined with Yaxha as a longer day or overnight trip from Flores. The cleared centre includes a substantial palace complex and one large pyramid; most of the rest of the city is still under jungle.

@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:CiperssiMugello.png
 latitude: 44.0167
 loc_type: feature
 longitude: 11.3167
-score: 5.679
+score: 5.497
 snippet: Broad Tuscan valley north of Florence, tied to Medici origins, villas, fortresses,
   and farming towns.
 title: Mugello
 type: location
-heritage: 5.921
-vibrancy: 2.768
-nature: 6.293
-off_the_beaten_track: 2.253
+heritage: 5.479
+vibrancy: 3.333
+nature: 6.198
+off_the_beaten_track: 2.048
 ---
 
 The Mugello is a broad valley north of Florence, tucked between the Apennines and the Florentine hills. It's Medici country — the family originated here, and they left their mark on almost every village: fortresses, villas, convents rebuilt to their commission. Today the valley is quiet farming and small-town territory, easy to reach from Florence but rarely crowded with tourists.

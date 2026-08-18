@@ -16,7 +16,7 @@ quick_facts:
   Population: 360,000
   Renaissance: Born here
   Stendhal Syndrome: Named for fainting here
-score: 8.5
+score: 8.497
 snippet: Tuscan city on the Arno, packed with Renaissance art, Medici palaces, and
   the Duomo.
 tip: Florence is tiny — you can cross the historic centre on foot in 20 minutes —
@@ -25,10 +25,10 @@ tip: Florence is tiny — you can cross the historic centre on foot in 20 minute
   to the Oltrarno for cheaper trattorias, artisan workshops and quieter streets.
 title: Florence
 type: location
-heritage: 8.573
-vibrancy: 8.537
-nature: 3.99
-off_the_beaten_track: 1.723
+heritage: 9.404
+vibrancy: 8.177
+nature: 5.262
+off_the_beaten_track: 1.548
 ---
 
 Florence is a small city with an outsized claim on Western civilization. In the 15th and 16th centuries, the Medici-funded Renaissance concentrated more art and architecture here than almost anywhere else on earth, and the results are still on view in a compact historic centre that you can walk across in twenty minutes. The [Uffizi Gallery](/europe/italy/tuscany/florence/uffizi_gallery) holds the world's greatest collection of Renaissance painting. The [Galleria dell'Accademia](/europe/italy/tuscany/florence/galleria_dellaccademia) has Michelangelo's David. The [Duomo](/europe/italy/tuscany/florence/duomo_florence), designed by Brunelleschi with an engineering audacity that was unmatched for a century, still dominates the skyline. The [Baptistery](/europe/italy/tuscany/florence/baptistery) opposite it has Ghiberti's Gates of Paradise and a mosaic ceiling of ten million tesserae.

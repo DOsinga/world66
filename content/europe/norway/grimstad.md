@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Darshanagrimstad.jpg
 latitude: 58.283997
 loc_type: city
 longitude: 8.712829
-score: 4.374
+score: 4.66
 title: Grimstad
 type: location
 snippet: Southern Norway harbour town of white wooden houses, Ibsen history, and nearby
   archipelago waters.
-heritage: 3.405
-vibrancy: 2.537
-nature: 5.337
-off_the_beaten_track: 3.525
+heritage: 3.536
+vibrancy: 2.527
+nature: 5.725
+off_the_beaten_track: 3.595
 ---
 
 Grimstad is a small coastal town on Norway's southern shore, known for its tightly packed white wooden houses that tumble down toward a sheltered harbour. It was here that the young Henrik Ibsen worked as a pharmacist's apprentice in the 1840s and wrote his first play — the [Ibsenhuset Museum](/europe/norway/grimstad/ibsenhuset_museum) preserves the pharmacy exactly as it was. The town has a strong literary identity, hosting an annual short story festival and maintaining a quiet cultural confidence that belies its size.

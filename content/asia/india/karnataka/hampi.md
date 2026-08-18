@@ -10,15 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:15th_century_aqua_duct_to_
 latitude: 15.3358
 loc_type: city
 longitude: 76.46102
-score: 8.08
+score: 8.367
 title: Hampi
 type: location
 snippet: Ruined Vijayanagara capital amid granite boulders, now a vast UNESCO World
   Heritage Site.
 heritage: 10.0
-vibrancy: 3.572
-nature: 6.292
-off_the_beaten_track: 3.194
+vibrancy: 6.549
+nature: 4.977
+off_the_beaten_track: 2.618
 ---
 
 Hampi is one of the great ruined cities of the medieval world. At its height in the 15th century, Vijayanagara — the city of which Hampi was the heart — had a population of half a million and was probably the second-largest city on earth after Beijing. In 1565 a coalition of Muslim sultans defeated the Vijayanagara king at the Battle of Talikota, then spent five months sacking and burning the capital. What they left behind, strewn across a dramatic landscape of granite boulders and the Tungabhadra River, was declared a UNESCO World Heritage Site in 1986.

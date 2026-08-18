@@ -5,7 +5,7 @@ loc_type: city
 latitude: 45.0333
 longitude: -79.3
 wikidata: Q896553
-score: 5.325
+score: 5.127
 snippet: Muskoka town on the North Branch Muskoka River, known for waterfalls and
   cottage-country stone.
 sources:
@@ -17,10 +17,10 @@ image: bracebridge.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bracebridge_Falls_and_bridge.jpg
 image_license: CC BY-SA 2.0
 image_attribution: John Vetterli
-heritage: 4.037
-vibrancy: 2.497
-nature: 6.543
-off_the_beaten_track: 2.474
+heritage: 3.722
+vibrancy: 2.62
+nature: 6.37
+off_the_beaten_track: 2.459
 ---
 
 Bracebridge is the administrative heart of Muskoka, but it feels more like a river town than a county seat. The North Branch Muskoka River cuts through the centre, dropping over falls beside old brick buildings, bridges, and the power works that helped shape the town.

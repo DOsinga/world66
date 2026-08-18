@@ -5,7 +5,7 @@ loc_type: city
 latitude: -37.05
 longitude: 143.735
 wikidata: Q1014561
-score: 4.429
+score: 3.989
 snippet: Central Victorian goldfields town with a grand railway station, prospecting
   country, and Highland traditions.
 image: maryborough_victoria.jpg
@@ -15,10 +15,10 @@ image_attribution: Mattinbgn
 sources:
 - https://en.wikivoyage.org/wiki/Maryborough_(Victoria)
 - https://en.wikipedia.org/wiki/Maryborough,_Victoria
-heritage: 5.64
-vibrancy: 1.944
-nature: 3.089
-off_the_beaten_track: 3.03
+heritage: 5.001
+vibrancy: 2.033
+nature: 2.959
+off_the_beaten_track: 2.875
 ---
 
 Maryborough is a goldfields town in central Victoria, between [Ballarat](/australiaandpacific/australia/victoria/ballarat) and [Bendigo](/australiaandpacific/australia/victoria/bendigo). It grew after gold was found in the 1850s, and its broad streets, civic buildings, and oversized railway station still carry that old confidence.

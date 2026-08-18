@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Permet_-_panoramio_(1).jpg
 latitude: 40.2335
 loc_type: city
 longitude: 20.3532
-score: 5.272
+score: 6.085
 snippet: Southern Albanian mountain town on the Vjosa, tied to nationalism and wartime
   resistance.
 title: Permet
 type: location
-heritage: 4.032
-vibrancy: 2.91
-nature: 6.462
-off_the_beaten_track: 5.035
+heritage: 4.375
+vibrancy: 3.064
+nature: 7.577
+off_the_beaten_track: 5.124
 ---
 
 Përmet is a small town in southern Albania, tucked into a mountain valley where the Vjosa river runs fast and cold over large boulders. It's not pretty — the Germans burnt it to the ground in 1943–44 — but it has more history packed into it than most Albanian towns twice its size, and the surrounding landscape more than makes up for the architecture.

@@ -5,15 +5,15 @@ done:
 latitude: 18.4974
 loc_type: city
 longitude: -77.6558
-score: 6.037
+score: 5.463
 snippet: Jamaican north-coast port town with unusually intact Georgian streets from
   the sugar-boom era
 title: Falmouth
 type: location
-heritage: 4.394
-vibrancy: 4.701
-nature: 7.086
-off_the_beaten_track: 2.279
+heritage: 3.447
+vibrancy: 4.468
+nature: 6.309
+off_the_beaten_track: 1.887
 ---
 
 Falmouth (pronounced "Fal-mutt" — the h is silent) is a small port town on the north coast, between [Montego Bay](/northamerica/jamaica/montegobay) and Ocho Rios. It has the best-preserved Georgian architecture in Jamaica: the town was built rapidly during a brief sugar boom in the early 19th century and then largely forgotten, leaving it with a coherent ensemble of colonial buildings that other Jamaican towns have long since demolished or obscured.

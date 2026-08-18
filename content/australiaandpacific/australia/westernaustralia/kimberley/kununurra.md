@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -15.7737
 longitude: 128.7387
-score: 5.241
+score: 5.757
 snippet: Eastern Kimberley base on the Ord River, close to Mirima National Park, Lake
   Argyle, and the road to Purnululu.
 sources:
@@ -14,10 +14,10 @@ image: kununurra.jpg
 image_source: https://commons.wikimedia.org/wiki/File:00_2070_Kununurra_-_Western_Australia.jpg
 image_license: CC BY-SA 4.0
 image_attribution: W. Bulach
-heritage: 4.665
-vibrancy: 2.819
-nature: 6.146
-off_the_beaten_track: 5.085
+heritage: 5.117
+vibrancy: 2.634
+nature: 6.755
+off_the_beaten_track: 5.092
 ---
 
 Kununurra is the eastern gateway to the [Kimberley](/australiaandpacific/australia/westernaustralia/kimberley), a practical base town on the Ord River near the Northern Territory border. It has flights, supplies, tours, and the last reliable services before long drives into red-rock country, which makes it more useful than its modest size suggests.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Croatian_National_Theater,
 latitude: 45.815
 loc_type: city
 longitude: 15.9819
-score: 6.357
+score: 6.166
 snippet: Croatian capital with Austro-Hungarian boulevards, café culture, and a medieval
   Upper Town.
 title: Zagreb
 type: location
-heritage: 6.166
-vibrancy: 6.478
-nature: 4.386
-off_the_beaten_track: 1.346
+heritage: 5.99
+vibrancy: 6.28
+nature: 4.248
+off_the_beaten_track: 1.345
 ---
 
 Zagreb is Croatia's capital and a city that most visitors skip on their way to the Dalmatian coast — a mistake, because it is one of the more likeable small European capitals, with a strong café culture, excellent museums, and a leafy, walkable old town that fills up with locals rather than tourists. About a million people live here, and the atmosphere is distinctly Austro-Hungarian: wide boulevards lined with 19th-century apartment buildings, parks designed on the Viennese model, and the kind of café-sitting, people-watching, unhurried social rhythm that the locals call *špica* — the Saturday-morning ritual of getting dressed up and parading through the centre with a coffee.

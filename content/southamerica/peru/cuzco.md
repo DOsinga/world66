@@ -15,7 +15,7 @@ quick_facts:
   Gateway: To Machu Picchu
   Inca Capital: Until 1533
   Stonework: Cut to fit knife-thin
-score: 6.42
+score: 6.975
 snippet: Former Inca capital where colonial churches stand directly on ancient stone
   walls and sacred foundations.
 tip: Cuzco sits at 3,400 m — spend a couple of days acclimatising before Machu Picchu
@@ -24,10 +24,10 @@ tip: Cuzco sits at 3,400 m — spend a couple of days acclimatising before Machu
   and notice the Inca stonework forming the base of the Spanish walls.
 title: Cuzco
 type: location
-heritage: 8.068
-vibrancy: 4.224
-nature: 3.879
-off_the_beaten_track: 2.195
+heritage: 8.338
+vibrancy: 5.456
+nature: 4.313
+off_the_beaten_track: 1.898
 ---
 
 **Cuzco** was the capital of the Inca empire and is Peru's undisputed tourist capital today, thanks to a heritage unmatched anywhere in the Americas. Many streets in the city centre are lined with buildings that incorporate whole sections of ancient Inca walls — the Spanish built their colonial city directly on the foundations of the Inca one, and both layers are still visible everywhere you look.

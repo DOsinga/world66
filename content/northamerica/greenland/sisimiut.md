@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 66.9389
 longitude: -53.6722
-score: 5.916
+score: 6.177
 snippet: West Greenland adventure town at the end of the Arctic Circle Trail.
 wikidata: Q208098
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://whc.unesco.org/en/list/1557/
 - https://arcticcircletrail.gl/extend/extend-your-stay-sisimiut/
 - https://hiking.gl/day-hikes/sisimiut/nasaasaaq-trails/
-heritage: 3.583
-vibrancy: 0.849
-nature: 7.356
-off_the_beaten_track: 5.946
+heritage: 3.968
+vibrancy: 1.313
+nature: 7.669
+off_the_beaten_track: 6.242
 ---
 
 Sisimiut is Greenland's second-largest town, set just north of the Arctic Circle where rocky coast, sled-dog country, and open tundra meet. It has a stronger outdoor identity than its size suggests: hikers finish the Arctic Circle Trail here, winter travellers head out by dog team or snowmobile, and summer visitors use it as a base for fjords, mountains, and old Inuit sites.

@@ -3,16 +3,16 @@ done:
   location_cleanup: '2026-04-10'
 latitude: 10.025111
 longitude: -71.616313
-score: 4.581
+score: 5.274
 snippet: Vast Venezuelan lake-bay of oil derricks, ancient waters, and Catatumbo Lightning
   storms over the southwestern shore.
 title: Lake Maracaibo
 type: location
 loc_type: feature
-heritage: 3.14
-vibrancy: 2.36
-nature: 5.178
-off_the_beaten_track: 6.301
+heritage: 2.887
+vibrancy: 3.617
+nature: 6.233
+off_the_beaten_track: 6.361
 ---
 
 Lake Maracaibo is South America's largest lake and one of the oldest on earth, estimated at 20 to 36 million years old. Technically it is a tidal bay connected to the Caribbean Sea through a narrow strait at its northern end, but Venezuelans call it a lake and the distinction hardly matters when you are standing on its shore looking at water stretching to the horizon in every direction. The lake dominates the geography of western Venezuela and sits atop one of the richest oil deposits on the planet — the wells and derricks dotting its surface are an unmistakable part of the landscape.

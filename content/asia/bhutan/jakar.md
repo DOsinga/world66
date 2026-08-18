@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:A_view_of_Jakar_2021-10-24
 latitude: 27.549639
 loc_type: city
 longitude: 90.752735
-score: 6.63
+score: 6.97
 snippet: Bumthang valley town in Bhutan's apple country, surrounded by ancient temples
   and farmhouses.
 title: Jakar
 type: location
-heritage: 6.476
-vibrancy: 1.279
-nature: 7.532
-off_the_beaten_track: 5.906
+heritage: 6.642
+vibrancy: 1.197
+nature: 7.988
+off_the_beaten_track: 5.393
 ---
 
 Jakar is the main town in the Bumthang district, in the east-central part of Bhutan, and one of the most beautiful places in the country. The valley is apple country — the groves here produce juice and cider that you will find across Bhutan — and the undulating landscape dotted with fruit trees, temples, and traditional farmhouses has a gentle, pastoral quality quite different from the western valleys.

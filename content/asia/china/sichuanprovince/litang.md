@@ -2,7 +2,7 @@
 latitude: 29.9949
 loc_type: city
 longitude: 100.2739
-score: 5.393
+score: 5.806
 snippet: High Tibetan town in western Sichuan, set on Kham grasslands at roughly 4,000
   metres.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://windhorsetour.com/blog/see-litang-horse-festival-western-sichuan
 title: Litang
 type: location
-heritage: 5.343
-vibrancy: 2.702
-nature: 6.094
-off_the_beaten_track: 4.875
+heritage: 5.784
+vibrancy: 2.477
+nature: 6.547
+off_the_beaten_track: 4.806
 ---
 
 Litang is one of the great high towns of western Sichuan: a Tibetan county seat on the open Kham grasslands, sitting at roughly 4,000 metres. The altitude is not a footnote here. You feel it when you walk uphill, when the wind cuts across the valley, and when the evening light turns the surrounding slopes gold.

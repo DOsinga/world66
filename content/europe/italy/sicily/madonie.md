@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Le_madonie_dal_belvedere_d
 latitude: 37.8833
 loc_type: feature
 longitude: 14.0167
-score: 6.315
+score: 6.622
 snippet: Mountain park behind Cefalu, where limestone peaks rise above chestnut woods
   and stone villages.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://www.visitsicily.info/en/madonie-2/
 title: Madonie
 type: location
-heritage: 5.451
-vibrancy: 1.636
-nature: 7.478
-off_the_beaten_track: 6.077
+heritage: 5.662
+vibrancy: 1.332
+nature: 7.864
+off_the_beaten_track: 5.862
 ---
 
 The Madonie are the mountains that rise behind Cefalu and Palermo's eastern coast, a protected pocket of Sicily where the island suddenly feels alpine. Limestone peaks, beech woods, old mule tracks, and high villages replace the beaches and fishing ports below.

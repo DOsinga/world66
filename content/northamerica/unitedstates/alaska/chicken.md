@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 64.0708
 longitude: -141.875
-score: 5.614
+score: 6.118
 snippet: Tiny Taylor Highway gold-rush settlement with a dredge, prospecting claims,
   and a famously odd name
 wikidata: Q750006
@@ -16,10 +16,10 @@ image: chicken.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Chicken_AK_-_shops.jpg
 image_license: CC BY 2.0
 image_attribution: John Bromley from Sandy, OR, USA
-heritage: 2.58
-vibrancy: 2.17
-nature: 6.946
-off_the_beaten_track: 5.755
+heritage: 2.594
+vibrancy: 2.496
+nature: 7.707
+off_the_beaten_track: 5.822
 ---
 
 Chicken is barely a village, but it has the kind of Alaskan identity that makes a detour stick in your head. It sits on the remote Taylor Highway, close to the Canadian border and the Fortymile gold country, with a seasonal cluster of businesses, a dirt airstrip, and a name that began, according to local legend, because miners could not agree how to spell ptarmigan.

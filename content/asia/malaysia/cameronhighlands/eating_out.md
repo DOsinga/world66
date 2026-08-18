@@ -10,7 +10,7 @@ Restuarants, cafe, hawker centres in Cameron Highlands.
 **Contributors**
 April 02, 2006
 
-### [Heart warming pancakes](/asia/malaysia/cameronhighlands/eating_out/pancakes)
+### [Heart warming pancakes](/asia/malaysia/cameronhighlands/pancakes)
 
 Be sure to visit the pancake stall at the hawker centre in Tanah Rata.
 It is run by a very friendly mute couple. They make you feel so welcome
@@ -25,13 +25,13 @@ type: Cheap
 
 
 
-[[rate it]](/asia/malaysia/cameronhighlands/eating_out/pancakes)
+[[rate it]](/asia/malaysia/cameronhighlands/pancakes)
 
 address: Tanah Rata hawker centre
 
 PriceOfMenu: RM 1 for a pancake!
 
-### [Brinchang Saturday Night Market](/asia/malaysia/cameronhighlands/eating_out/brinchang_saturday)
+### [Brinchang Saturday Night Market](/asia/malaysia/cameronhighlands/brinchang_saturday)
 
 Lotsa yummy local food at the Brinchang market every Saturday evening.
 
@@ -42,7 +42,7 @@ strange looking local snacks as 'sides'.
 
 Eat at a corner, or while walking, or bring it address: Brinchang
 
-### [Roti Prata in Brinchang](/asia/malaysia/cameronhighlands/eating_out/roti_prata_in_brin)
+### [Roti Prata in Brinchang](/asia/malaysia/cameronhighlands/roti_prata_in_brin)
 
 Have a roti prata in Brinchang!
 
@@ -60,6 +60,6 @@ type: Local
 
 
 
-[[rate it]](/asia/malaysia/cameronhighlands/eating_out/roti_prata_in_brin)
+[[rate it]](/asia/malaysia/cameronhighlands/roti_prata_in_brin)
 
 address: Brinchang

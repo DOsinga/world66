@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Do%C4%9Fubayaz%C4%B1t_from
 latitude: 39.548337
 loc_type: city
 longitude: 44.079359
-score: 6.227
+score: 6.516
 snippet: Far-eastern Turkish border town below Mount Ararat, watched over by Ishak
   Pasha Palace.
 title: Dogubeyazit
 type: location
-heritage: 5.991
-vibrancy: 2.55
-nature: 7.112
-off_the_beaten_track: 5.769
+heritage: 6.264
+vibrancy: 2.36
+nature: 7.445
+off_the_beaten_track: 5.06
 ---
 
 Dogubeyazit — jocularly known as "Doggy Biscuit" among travellers — is a small but pleasant town in the far east of [Turkey](/asia/turkey), hard up against the Iranian border. It sits at the edge of sweeping grass plains that run all the way up to [Mount Ararat](/asia/turkey/dogubeyazit/mount_ararat), the 5,137-metre volcano where Noah's Ark supposedly came to rest. The mountain dominates everything here and draws climbers from around the world.

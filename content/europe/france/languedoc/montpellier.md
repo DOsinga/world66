@@ -10,15 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aqueduc_du_Peyrou,_Montpel
 latitude: 43.611242
 loc_type: city
 longitude: 3.876734
-score: 6.589
+score: 5.977
 snippet: Mediterranean university city with medieval lanes, student energy, and France's
   historic medical faculty.
 title: Montpellier
 type: location
-heritage: 6.338
-vibrancy: 6.734
-nature: 4.683
-off_the_beaten_track: 1.311
+heritage: 6.119
+vibrancy: 5.968
+nature: 3.949
+off_the_beaten_track: 1.375
 ---
 
 Montpellier is a lively, walkable Mediterranean city of around 300,000 that punches well above its weight. The university here — founded in 1220 and the oldest continuously operating medical faculty in the Western world — still shapes the city: roughly a quarter of the population are students, which gives the old town its year-round energy, cheap bars, and late-night crowds.

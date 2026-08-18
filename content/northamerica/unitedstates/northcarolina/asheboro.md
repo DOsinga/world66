@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:North_Carolina_Zoo,_Ashebo
 latitude: 35.7079
 loc_type: city
 longitude: -79.8136
-score: 2.938
+score: 2.902
 snippet: Piedmont town anchored by North Carolina Zoo and the pottery country around
   Seagrove.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://www.heartofnorthcarolina.com/
 title: Asheboro
 type: location
-heritage: 2.419
-vibrancy: 2.687
-nature: 3.255
-off_the_beaten_track: 1.151
+heritage: 2.627
+vibrancy: 2.796
+nature: 3.147
+off_the_beaten_track: 1.146
 ---
 
 Asheboro is a small Piedmont city with one exceptional reason to visit: the [North Carolina Zoo](/northamerica/unitedstates/northcarolina/asheboro/north_carolina_zoo). The zoo is not a token local attraction. It spreads across thousands of wooded acres south of town and is one of the largest natural-habitat zoos in the world, with long walking routes through Africa and North America habitats.

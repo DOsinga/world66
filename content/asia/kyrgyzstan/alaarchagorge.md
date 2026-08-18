@@ -4,15 +4,15 @@ done:
 latitude: 42.65
 loc_type: feature
 longitude: 74.4833
-score: 6.579
+score: 6.647
 snippet: Mountain gorge south of Bishkek, with juniper trails, Ak-Sai Glacier views,
   and high Kyrgyz peaks
 title: Ala-Archa Gorge
 type: location
-heritage: 2.461
-vibrancy: 1.759
-nature: 8.317
-off_the_beaten_track: 6.161
+heritage: 2.643
+vibrancy: 1.335
+nature: 8.267
+off_the_beaten_track: 6.669
 ---
 
 Ala-Archa National Park is a mountain gorge 40 kilometers south of [Bishkek](/asia/kyrgyzstan/bishkek), and the easiest way to get a taste of Kyrgyzstan's mountain scenery without leaving the capital region. The park climbs from around 1,600 meters at the entrance to glacier-topped peaks above 4,000 meters.

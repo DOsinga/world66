@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:El_Reno,_OK_USA_-_panorami
 latitude: 35.532198
 loc_type: city
 longitude: -97.955058
-score: 1.928
+score: 1.564
 snippet: Route 66 town west of Oklahoma City, best known for its onion-fried burger
   tradition.
 title: El Reno
 type: location
-heritage: 1.707
-vibrancy: 1.872
-nature: 2.071
-off_the_beaten_track: 1.133
+heritage: 1.485
+vibrancy: 1.606
+nature: 1.389
+off_the_beaten_track: 1.515
 ---
 
 El Reno is a town of about 16,000 people on Historic Route 66 in Canadian County, about 30 miles west of [Oklahoma City](/northamerica/unitedstates/oklahoma/oklahomacity). It is famous for one thing above all: the onion-fried burger. Several restaurants in town claim to serve the original version — thin beef patties smashed into a mound of shredded onions on a flat-top grill — but [Sid's Diner](/northamerica/unitedstates/oklahoma/el_reno/sids_diner) and [Robert's Grill](/northamerica/unitedstates/oklahoma/el_reno/roberts_grill) are the two names most often cited. Each May, the [Fried Onion Burger Day Festival](/northamerica/unitedstates/oklahoma/el_reno/fried_onion_burger_festival) draws thousands to downtown for a cook-off and what organizers claim is the world's largest fried onion burger.

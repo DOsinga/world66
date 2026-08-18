@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2024-06-08_Mesa_Verde_Nati
 latitude: 37.2309
 loc_type: feature
 longitude: -108.4618
-score: 6.316
+score: 6.271
 snippet: Colorado national park preserving Ancestral Pueblo cliff dwellings, mesa-top
   villages, and canyon landscapes
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://www.nps.gov/meve/planyourvisit/placestogo.htm
 title: Mesa Verde National Park
 type: location
-heritage: 6.679
-vibrancy: 1.644
-nature: 6.958
-off_the_beaten_track: 3.33
+heritage: 5.631
+vibrancy: 2.242
+nature: 7.334
+off_the_beaten_track: 3.347
 ---
 
 Mesa Verde National Park protects one of the most astonishing cultural landscapes in North America: mesa tops, canyons, and alcoves where Ancestral Pueblo communities built villages, farms, roads, reservoirs, and cliff dwellings long before Europeans arrived in the region. The famous houses tucked under sandstone ledges are only part of the story; the wider park shows a society adapting with skill and imagination to a dry, demanding place.

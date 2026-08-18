@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:River_in_downtown_Zhongsha
 latitude: 22.517645
 loc_type: city
 longitude: 113.392782
-score: 3.828
+score: 3.737
 snippet: Pearl River Delta city named for Sun Yat-sen, whose birthplace remains its
   defining landmark.
 title: Zhongshan
 type: location
-heritage: 2.774
-vibrancy: 3.899
-nature: 3.646
-off_the_beaten_track: 0.825
+heritage: 2.911
+vibrancy: 3.817
+nature: 3.532
+off_the_beaten_track: 0.874
 ---
 
 Zhongshan is a city of about 3.5 million in Guangdong province, on the western side of the Pearl River Delta between Guangzhou and Zhuhai. It is named after Sun Yat-sen — "Zhongshan" is the Chinese name for the revolutionary leader who was born in the village of Cuiheng, now part of the city, in 1866. Sun Yat-sen is revered across both mainland China and Taiwan as the founding father of modern China, and his birthplace draws a steady flow of visitors.

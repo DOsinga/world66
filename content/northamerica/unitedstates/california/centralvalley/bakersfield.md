@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2008-0621-Bakersfield-pan_
 latitude: 35.373871
 loc_type: city
 longitude: -119.019463
-score: 2.427
+score: 2.598
 snippet: Central Valley city shaped by oil fields, Basque sheepherders, and the Bakersfield
   country sound.
 title: Bakersfield
 type: location
-heritage: 2.419
-vibrancy: 2.448
-nature: 2.107
-off_the_beaten_track: 2.029
+heritage: 2.604
+vibrancy: 2.615
+nature: 2.294
+off_the_beaten_track: 2.093
 ---
 
 Bakersfield sits at the southern end of the San Joaquin Valley, surrounded by oil derricks and agricultural land. It is not a place most travelers seek out, but it has genuine character — particularly its Basque heritage and its outsized role in country music history.

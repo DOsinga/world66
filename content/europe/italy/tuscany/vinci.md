@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vinci,_Tuscany,_Italy_(1).
 latitude: 43.7874
 loc_type: city
 longitude: 10.9271
-score: 5.946
+score: 6.125
 snippet: Tuscan hill town where Leonardo da Vinci’s birthplace and invention museums
   anchor the town’s identity.
 sources:
@@ -19,10 +19,10 @@ sources:
 - https://en.wikipedia.org/wiki/Anchiano
 title: Vinci
 type: location
-heritage: 7.541
-vibrancy: 3.773
-nature: 2.523
-off_the_beaten_track: 1.753
+heritage: 7.656
+vibrancy: 4.113
+nature: 3.189
+off_the_beaten_track: 2.006
 ---
 
 Vinci is a small hilltop town in the Empolese Valdelsa, about 40 kilometres west of Florence, and it owes its fame entirely to one man: Leonardo da Vinci was born here on 15 April 1452. The town has embraced this legacy with two dedicated museums — the [Museo Leonardiano](/europe/italy/tuscany/vinci/museo_leonardiano) in the medieval castle and the [Casa Natale di Leonardo](/europe/italy/tuscany/vinci/casa_natale_di_leonardo) at the actual farmhouse where he was born — and together they make a compelling half-day stop for anyone traveling between Florence and Pisa or Lucca. A third option, the private [Museo Ideale Leonardo da Vinci](/europe/italy/tuscany/vinci/museo_ideale_leonardo), approaches him more broadly as thinker and artist and is worth combining with the others.

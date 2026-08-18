@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Caveman_Bridge.jpg
 latitude: 42.4394
 loc_type: city
 longitude: -123.3272
-score: 4.651
+score: 4.561
 snippet: Rogue Valley city serving as a gateway to the Rogue River's Wild and Scenic
   reaches.
 title: Grants Pass
 type: location
-heritage: 2.422
-vibrancy: 3.141
-nature: 5.692
-off_the_beaten_track: 2.182
+heritage: 2.14
+vibrancy: 2.854
+nature: 5.691
+off_the_beaten_track: 2.081
 ---
 
 Grants Pass is a city of about 40,000 in southern Oregon's Rogue Valley, best known as the gateway to the [Rogue River](/northamerica/unitedstates/oregon/grantspass/rogue_river), one of the most celebrated whitewater rivers in the western United States. The river runs through a federally protected Wild and Scenic stretch west of the city, with challenging rapids and a canyon accessible only on foot or by raft — the Rogue River Trail is a popular multi-day backpacking route. Commercial rafting outfitters operate from Grants Pass and offer everything from half-day floats to four-day wilderness trips.

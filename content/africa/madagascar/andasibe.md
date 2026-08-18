@@ -13,13 +13,13 @@ sources:
 - https://en.wikipedia.org/wiki/Andasibe-Mantadia_National_Park
 title: Andasibe
 type: location
-score: 5.713
+score: 5.901
 snippet: Rainforest park area east of Antananarivo, known for indri lemurs and the
   Andasibe-Mantadia reserves.
-heritage: 1.032
-vibrancy: 1.277
-nature: 7.095
-off_the_beaten_track: 5.769
+heritage: 1.182
+vibrancy: 1.568
+nature: 7.455
+off_the_beaten_track: 5.541
 ---
 
 Andasibe is the closest national park area to Madagascar's capital and one of the island's most rewarding wildlife destinations. The name refers both to a small railway town and to the complex of protected rainforest around it — specifically the Analamazoatra Special Reserve and the larger Mantadia National Park, together designated Andasibe-Mantadia. The drive east from [Antananarivo](/africa/madagascar/antananarivo) on Route Nationale 2 takes about three hours through hill rice paddies and eucalyptus plantations before dropping into dense rainforest.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Streator_IL_Downtown1.jpg
 latitude: 41.121
 loc_type: city
 longitude: -88.8357
-score: 2.592
+score: 2.213
 snippet: Small Illinois prairie city with Gilded Age glass-and-coal history and a
   proud Clyde Tombaugh connection
 title: Streator
 type: location
-heritage: 2.277
-vibrancy: 2.61
-nature: 2.545
-off_the_beaten_track: 1.036
+heritage: 2.019
+vibrancy: 2.299
+nature: 1.989
+off_the_beaten_track: 1.192
 ---
 
 A small city on the Vermilion River in the prairie farmland of north-central Illinois, about 80 miles southwest of Chicago. Streator punches above its weight for community events: the "Roamer Cruise Night" car show on Labor Day weekend draws over 600 cars and 18,000 visitors, the "Arts on the Prairie" fair fills [City Park](/northamerica/unitedstates/illinois/streator/city_park) each September, and the "Pipe Dreams" festival in February features performances on seven pipe organs in area churches.

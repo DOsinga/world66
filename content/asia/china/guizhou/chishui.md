@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Chishui,_Zunyi,_Guizhou,_C
 latitude: 28.5904
 loc_type: feature
 longitude: 105.6975
-score: 4.77
+score: 5.015
 snippet: Northern Guizhou landscape of bamboo, red Danxia sandstone cliffs, river
   gorges, and waterfalls.
 sources:
 - https://en.wikipedia.org/wiki/Chishui,_Guizhou
 title: Chishui
 type: location
-heritage: 2.949
-vibrancy: 2.04
-nature: 6.144
-off_the_beaten_track: 3.907
+heritage: 3.246
+vibrancy: 1.93
+nature: 6.398
+off_the_beaten_track: 4.167
 ---
 
 Chishui occupies the far north of Guizhou where the province meets Sichuan, at a lower elevation than most of the plateau — subtropical rather than temperate, and wet enough to support bamboo on a scale that turns the landscape green in a way that the limestone karst country further south doesn't. The city administers a UNESCO World Heritage landscape, the Chishui component of the China Danxia designation, which covers around 27,000 hectares of red sandstone formations cut through by river gorges and waterfall systems.

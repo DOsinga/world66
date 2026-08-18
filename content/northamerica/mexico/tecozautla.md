@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: 20.5321
 longitude: -99.6344
-score: 4.54
+score: 4.814
 snippet: Hidalgo Pueblo Magico of hot springs, desert cliffs, colonial streets, and
   a quiet Xajay pyramid site.
 sources:
 - https://en.wikivoyage.org/wiki/Tecozautla
 - https://en.wikipedia.org/wiki/Tecozautla
-heritage: 3.816
-vibrancy: 2.819
-nature: 5.419
-off_the_beaten_track: 3.403
+heritage: 3.889
+vibrancy: 2.756
+nature: 5.813
+off_the_beaten_track: 3.592
 ---
 
 Tecozautla is a small town in western Hidalgo, set among dry hills, volcanic cones, and warm mineral water. It is one of Mexico's Pueblos Magicos, but the mood is more regional weekend escape than polished showpiece.

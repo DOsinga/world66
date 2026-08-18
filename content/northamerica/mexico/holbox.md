@@ -4,7 +4,7 @@ type: location
 loc_type: feature
 latitude: 21.5308
 longitude: -87.2861
-score: 5.145
+score: 6.216
 snippet: Low Caribbean island north of the Yucatan, known for sandbars, birds, whale
   sharks, and slow beach days.
 sources:
@@ -16,10 +16,10 @@ image: holbox.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Isla_Holbox_(Mexico,_November_2018)_-_60_(51008397607).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Bruno Rijsman
-heritage: 3.857
-vibrancy: 3.813
-nature: 6.133
-off_the_beaten_track: 5.27
+heritage: 3.818
+vibrancy: 6.102
+nature: 6.512
+off_the_beaten_track: 5.364
 ---
 
 Holbox is a long, low island off the north coast of the Yucatan Peninsula, separated from the mainland by lagoon and mangrove. It is often sold as a beach escape, but the better version of Holbox is wilder than that: shallow sandbars, frigatebirds overhead, golf carts instead of heavy traffic, and a horizon that stays flat and bright for kilometres.

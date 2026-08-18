@@ -16,7 +16,7 @@ quick_facts:
   Maglev Train: Hits 431 km/h to the airport
   Population: ~25 million
   The Bund: Colonial-era riverfront
-score: 8.739
+score: 9.207
 snippet: Cosmopolitan Chinese megacity where Bund-era finance houses face Pudong's
   towers across the Huangpu.
 sources:
@@ -27,10 +27,10 @@ tip: Shanghai splits in two across the Huangpu River — the colonial Bund on on
   neighbourhoods of the former French Concession for the city's quieter, leafier soul.
 title: Shanghai
 type: location
-heritage: 7.488
-vibrancy: 9.28
-nature: 3.011
-off_the_beaten_track: 1.351
+heritage: 9.168
+vibrancy: 9.292
+nature: 4.27
+off_the_beaten_track: 1.307
 ---
 
 "Paris of the Orient" was the name Shanghai earned in the early 20th century, when it was the financial capital of Asia, a haven for adventurers, exiles and gangsters, and the most cosmopolitan city in the world. The Communist victory in 1949 closed the port and stripped the city of its glamour for four decades; the reopening in the 1990s and the explosion of Pudong have made it once again one of the most dynamic places on earth. Today's Shanghai is a city of 25 million people that holds both halves of its history at once.

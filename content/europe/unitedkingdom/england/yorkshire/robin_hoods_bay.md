@@ -2,7 +2,7 @@
 latitude: 54.4332
 loc_type: city
 longitude: -0.5345
-score: 5.694
+score: 5.439
 snippet: Steeply stacked fishing village on the North York Moors coast, with smuggling
   history and rock pools at low tide.
 tags:
@@ -13,10 +13,10 @@ image: robin_hoods_bay.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Robin_Hood%27s_Bay_-_geograph.org.uk_-_3726868.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Anthony Foster
-heritage: 6.135
-vibrancy: 3.393
-nature: 6.225
-off_the_beaten_track: 3.255
+heritage: 5.797
+vibrancy: 2.87
+nature: 5.973
+off_the_beaten_track: 3.253
 ---
 
 Robin Hood's Bay tumbles down a steep ravine to the sea in a jumble of red-roofed cottages, narrow passages, and hidden courtyards — one of the most photographed villages on the Yorkshire coast. The main street drops so sharply that the houses at the bottom are periodically swamped by storm waves, and several have been lost to the sea over the centuries.

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:City_Centre_Toliara_2007.j
 latitude: -23.35
 loc_type: city
 longitude: 43.6667
-score: 5.924
+score: 6.111
 snippet: Sunny southwest Madagascar gateway to spiny forest, reef villages, Anakao,
   and Ifaty.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Toliara
 title: Toliara
 type: location
-heritage: 1.316
-vibrancy: 0.974
-nature: 7.469
-off_the_beaten_track: 5.614
+heritage: 1.444
+vibrancy: 1.16
+nature: 7.79
+off_the_beaten_track: 5.514
 ---
 
 Toliara, still widely called Tulear, is the hot, dusty capital of Madagascar's southwest. It is the end of the classic RN7 route from the highlands and the gateway to a very different island: thorn forest, baobabs, Vezo fishing villages, reef lagoons, and huge dry skies.

@@ -9,18 +9,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Altamiza%27s_black_water_s
 latitude: -5.103104
 loc_type: city
 longitude: -78.913821
-score: 4.856
+score: 4.847
 snippet: Remote Peruvian district near San Ignacio, on a dirt road toward the green
   Chirinos valley.
 title: San José de Lourdes
 type: location
-heritage: 2.868
-vibrancy: 1.726
-nature: 6.095
-off_the_beaten_track: 4.693
+heritage: 2.987
+vibrancy: 1.675
+nature: 6.087
+off_the_beaten_track: 4.67
 ---
 
-San José de Lourdes is a district in the north-eastern part of [San Ignacio](/southamerica/peru/san_ignacio) province. The capital is merely a small village on a dirt road. The town can be reached crossing the river Chinchipe close to the point where the Jaén-[San Ignacio](/southamerica/peru/san_ignacio/san_ignacio) highway heads west into the mountains.
+San José de Lourdes is a district in the north-eastern part of [San Ignacio](/southamerica/peru/san_ignacio) province. The capital is merely a small village on a dirt road. The town can be reached crossing the river Chinchipe close to the point where the Jaén-[San Ignacio](/southamerica/peru/san_ignacio) highway heads west into the mountains.
 
 The friendly people of its capital aren't the main reason to visit this place - nor their fresh bananas and home-made coffee. More important is that it is on the road - dirt track - to the [valley of the river Chirinos](/southamerica/peru/san_jos_de__lour/chirinos_valley). The road itself is an attraction, if you've got a robust stumache. First it goes on up to an altitude of over 2000 meters. I like to call this highest part of the route Little Ireland because of it's grassy plains and rolling hills. The locals call it Los Llanos. You could just get out of the collectivo here and try to rent a horse somewhere. There aren't many houses around though. About ten kilometers further it goes down again, into the valley. Vegetation changes completely again, down into cloud forest patched with small plots. Halfway down the valley you reach the first village, after about four hours of roads that make the strong meek.
 

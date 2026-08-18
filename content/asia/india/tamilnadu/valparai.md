@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tea_estate_valparai_2.jpg
 latitude: 10.3252
 loc_type: city
 longitude: 76.9553
-score: 5.404
+score: 5.96
 snippet: Quiet Anamalai hill station of tea estates, dams, rain forest, and wildlife
   corridors.
 sources:
@@ -17,10 +17,10 @@ sources:
 title: Valparai
 type: location
 wikidata: Q282137
-heritage: 2.107
-vibrancy: 1.951
-nature: 6.829
-off_the_beaten_track: 5.069
+heritage: 2.59
+vibrancy: 2.269
+nature: 7.653
+off_the_beaten_track: 5.193
 ---
 
 Valparai is a high tea town in the Anamalai Hills, reached from Pollachi by a long ghat road with hairpin bends, forest edges, and views back over the plains. It sits around 1,100 metres above sea level, cooler and quieter than Tamil Nadu's better-known hill stations.

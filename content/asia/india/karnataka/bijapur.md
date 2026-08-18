@@ -9,14 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Bijapur_Ibrahim_Rouza_100C
 latitude: 16.8302
 loc_type: city
 longitude: 75.71
-score: 5.887
+score: 5.596
 snippet: Historic Deccan city of Adil Shahi domes, minarets, and the echoing Gol Gumbaz.
 title: Bijapur
 type: location
-heritage: 7.392
-vibrancy: 3.885
-nature: 2.338
-off_the_beaten_track: 2.917
+heritage: 7.191
+vibrancy: 3.36
+nature: 2.422
+off_the_beaten_track: 2.976
 ---
 
 Bijapur, now officially known as Vijayapura, is a historic city in northern Karnataka that was once the capital of the Adil Shahi sultanate. Between the 16th and 17th centuries the city accumulated some of the finest Islamic architecture in India, and what remains today is remarkable — a skyline of domes, minarets, and monumental gateways rising from the Deccan plain.

@@ -5,7 +5,7 @@ done:
 latitude: -2.897407
 loc_type: city
 longitude: -79.004173
-score: 4.901
+score: 4.773
 snippet: Ecuadorian highland city with an intact colonial centre, blue-domed cathedral,
   and Tomebamba River setting.
 title: Cuenca
@@ -14,10 +14,10 @@ image: cuenca.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_la_Inmaculada_Concepci%C3%B3n,_Cuenca.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Bernard Gagnon
-heritage: 4.877
-vibrancy: 4.553
-nature: 5.396
-off_the_beaten_track: 3.819
+heritage: 4.511
+vibrancy: 4.332
+nature: 5.305
+off_the_beaten_track: 3.866
 ---
 
 Cuenca is Ecuador's third-largest city and, by most accounts, its most beautiful. Set at 2,500 metres in the southern highlands, it was declared a UNESCO World Heritage site in 1999 for its remarkably intact colonial centre — cobblestone streets, whitewashed buildings with ironwork balconies, and churches on seemingly every corner.

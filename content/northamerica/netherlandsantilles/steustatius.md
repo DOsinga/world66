@@ -5,15 +5,15 @@ done:
 latitude: 17.4833
 loc_type: city
 longitude: -62.9833
-score: 4.786
+score: 5.155
 snippet: Small Dutch Caribbean island known as Statia, once an eighteenth-century
   free-trade port called Golden Rock.
 title: St Eustatius
 type: location
-heritage: 5.081
-vibrancy: 2.948
-nature: 5.265
-off_the_beaten_track: 5.153
+heritage: 5.062
+vibrancy: 2.828
+nature: 5.845
+off_the_beaten_track: 4.787
 ---
 
 St Eustatius — known locally as Statia — is a small Dutch Caribbean island of about 21 square kilometres, lying between St Kitts and Saba in the northern Leeward Islands. It is one of the least-visited islands in the Caribbean, which is much of its appeal.

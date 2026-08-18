@@ -6,14 +6,14 @@ latitude: 37.2153
 longitude: -93.2982
 title: Springfield
 type: location
-score: 3.94
+score: 4.191
 loc_type: city
 snippet: Ozarks hub city with a compact downtown, university campuses, and a long
   regional nickname.
-heritage: 3.172
-vibrancy: 3.858
-nature: 4.153
-off_the_beaten_track: 0.927
+heritage: 3.732
+vibrancy: 4.132
+nature: 4.344
+off_the_beaten_track: 0.988
 ---
 
 Springfield is the third largest city in Missouri and the commercial hub of the Ozarks region. Once called "the Queen City of the Ozarks," it has a solid quality of life and a compact downtown with good restaurants and a growing arts scene. Missouri State University and Drury University both have campuses here, giving the city a younger energy than its size might suggest.

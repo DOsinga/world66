@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:B%C3%A2timents_de_la_ville
 latitude: 9.5511
 loc_type: city
 longitude: 1.1862
-score: 4.091
+score: 4.018
 snippet: Northern Togolese city used as a base for Mont Kabyé hikes and visits to
   Tamberma architecture.
 title: Kara
 type: location
-heritage: 2.095
-vibrancy: 1.639
-nature: 3.9
-off_the_beaten_track: 6.594
+heritage: 2.763
+vibrancy: 1.535
+nature: 3.294
+off_the_beaten_track: 6.805
 ---
 
 Kara is northern Togo's largest city and a natural base for exploring the surrounding hills and villages. The town itself is pleasant enough — dusty, unhurried, with a sprawling [market](/africa/togo/kara/market) that draws traders from across the region — but the real draw is the landscape beyond it.

@@ -5,15 +5,15 @@ done:
 latitude: 16.152368
 loc_type: city
 longitude: -13.503987
-score: 5.061
+score: 4.405
 snippet: Senegal River town in southern Mauritania, known for its earthen Hassan Fathy-designed
   regional hospital.
 title: Kaedi
 type: location
-heritage: 1.99
-vibrancy: 1.387
-nature: 5.798
-off_the_beaten_track: 6.707
+heritage: 1.603
+vibrancy: 1.344
+nature: 4.818
+off_the_beaten_track: 6.587
 ---
 
 Kaedi is a river town on the northern bank of the Senegal River in southern Mauritania, serving as the main crossing point into Senegal in this part of the country. The population is an ethnic mix of Toucouleur, Halpulaar (Fulani), Beidane Arabs and Berbers, and Haratine. It is a quiet, easy-going place with a riverside character and more green vegetation than much of Mauritania.

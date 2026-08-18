@@ -5,17 +5,17 @@ loc_type: feature
 latitude: 59.87
 longitude: -1.28
 wikidata: Q7637052
-score: 5.779
+score: 6.405
 snippet: Southern Shetland headland area where Jarlshof, sea cliffs, brochs, and the
   islands' airport sit side by side.
 sources:
 - https://en.wikivoyage.org/wiki/Sumburgh
 - https://www.historicenvironment.scot/visit/all/jarlshof-prehistoric-and-norse-settlement/
 - https://www.shetland.org/visit/do/outdoors/cycle/sumburgh
-heritage: 4.176
-vibrancy: 2.728
-nature: 7.188
-off_the_beaten_track: 4.687
+heritage: 4.967
+vibrancy: 2.562
+nature: 7.823
+off_the_beaten_track: 4.915
 ---
 
 Sumburgh is the southern tip of Mainland in [Shetland](/europe/unitedkingdom/scotland/shetland), where the airport runway, old stone settlements, bird cliffs, and ferry pier all crowd into a small strip of land. It is not really a town, and it is best treated as a compact Shetland feature rather than a city stop.

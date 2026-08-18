@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Seaside,_Oregon_-_beach_an
 latitude: 45.9932
 loc_type: city
 longitude: -123.9226
-score: 5.462
+score: 5.221
 title: Seaside
 snippet: Classic Oregon coast resort town with a broad beach, promenade, and Lewis
   and Clark landmark.
 type: location
-heritage: 3.024
-vibrancy: 4.32
-nature: 6.378
-off_the_beaten_track: 1.764
+heritage: 2.372
+vibrancy: 4.466
+nature: 5.935
+off_the_beaten_track: 1.49
 ---
 
 Seaside is the classic Oregon coast beach town — a wide sandy beach, a boardwalk promenade, and a slightly old-fashioned resort atmosphere that has been pulling Portlanders to the shore since the late 1800s. It sits where the Lewis and Clark expedition finally reached the Pacific in 1805, and a turnaround monument on the promenade marks the end of their trail.

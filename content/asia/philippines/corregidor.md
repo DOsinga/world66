@@ -6,15 +6,15 @@ done:
 latitude: 14.3837
 loc_type: city
 longitude: 120.5656
-score: 5.226
+score: 4.6
 snippet: Tadpole-shaped Manila Bay island, remembered for its tunnels, batteries,
   and World War II siege.
 title: Corregidor
 type: location
-heritage: 6.269
-vibrancy: 4.043
-nature: 3.949
-off_the_beaten_track: 2.361
+heritage: 5.337
+vibrancy: 3.926
+nature: 3.636
+off_the_beaten_track: 2.539
 ---
 
 Corregidor is a small tadpole-shaped island at the mouth of Manila Bay, 48 kilometres west of Manila. It is one of the most significant World War II sites in Southeast Asia: in the spring of 1942, Filipino and American forces held the island against Japanese assault for months after the fall of Bataan, until the garrison finally surrendered in May. General Douglas MacArthur commanded from the island's underground Malinta Tunnel before being ordered to Australia, famously vowing "I shall return."

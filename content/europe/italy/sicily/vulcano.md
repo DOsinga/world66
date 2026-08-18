@@ -9,17 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_La_Fos
 latitude: 38.4044
 loc_type: city
 longitude: 14.9618
-score: 6.134
+score: 6.177
 snippet: Aeolian island where sulphur fumaroles, bubbling mud, and a climbable crater
   define the arrival.
 tags:
 - aeolianislands
 title: Vulcano
 type: location
-heritage: 4.914
-vibrancy: 4.534
-nature: 7.317
-off_the_beaten_track: 5.07
+heritage: 5.063
+vibrancy: 4.436
+nature: 7.429
+off_the_beaten_track: 5.115
 ---
 
 Vulcano is the southernmost of the [Aeolian Islands](/europe/italy/sicily/aeolianislands) and the one that hits you hardest on arrival: the smell of sulphur drifts across the harbour before you've even stepped off the hydrofoil. The island is technically still active — not in a Stromboli-throwing-lava way, but in a steady, geological grumble of fumaroles, bubbling mud, and geothermally heated sea.

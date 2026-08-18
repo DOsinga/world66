@@ -5,15 +5,15 @@ done:
 latitude: 4.262992
 loc_type: city
 longitude: 72.991745
-score: 5.655
+score: 5.966
 snippet: Local Maldivian island in Ari Atoll, known for guesthouses, house reefs,
   and hammerhead dives
 title: Rasdhoo
 type: location
-heritage: 1.302
-vibrancy: 1.196
-nature: 7.0
-off_the_beaten_track: 5.787
+heritage: 1.207
+vibrancy: 1.402
+nature: 7.478
+off_the_beaten_track: 5.8
 ---
 
 Rasdhoo is a small inhabited island at the northern tip of Ari Atoll, about 56 kilometres west of [Malé](/asia/maldives/male). Unlike the resort islands nearby, Rasdhoo is a local island — you stay in guesthouses rather than resorts, eat at local cafés, and get a sense of everyday Maldivian life.

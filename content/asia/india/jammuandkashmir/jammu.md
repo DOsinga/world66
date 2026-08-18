@@ -5,15 +5,15 @@ done:
 latitude: 32.718561
 loc_type: city
 longitude: 74.858092
-score: 6.448
+score: 6.168
 title: Jammu
 type: location
 snippet: Jammu is a Himalayan foothill city on the Tawi river, centred on Hindu pilgrimage
   sites.
-heritage: 5.152
-vibrancy: 5.602
-nature: 7.287
-off_the_beaten_track: 4.033
+heritage: 5.346
+vibrancy: 5.375
+nature: 6.963
+off_the_beaten_track: 3.934
 ---
 
 Jammu sits at the foothills of the Himalayas where the plains of Punjab give way to the mountains, the Tawi river running through its middle. It is primarily a Hindu pilgrimage city and the winter capital of Jammu and Kashmir — a busy, functional place rather than a tourist destination in its own right, but worth a day or two.

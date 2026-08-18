@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: 44.72
 longitude: -65.49
-score: 6.103
+score: 5.567
 snippet: Small Nova Scotia town where Acadian, Mi'kmaq, French, and British history
   crowd the Annapolis River.
 sources:
 - https://en.wikivoyage.org/wiki/Annapolis_Royal
 - https://en.wikipedia.org/wiki/Annapolis_Royal
 wikidata: Q564536
-heritage: 7.419
-vibrancy: 3.221
-nature: 5.056
-off_the_beaten_track: 3.589
+heritage: 6.677
+vibrancy: 2.889
+nature: 4.819
+off_the_beaten_track: 3.007
 ---
 
 Annapolis Royal is tiny, but it carries more history than many Canadian cities ten times its size. It sits on the Annapolis River near the Bay of Fundy, close to the early French settlement at Port-Royal and around the ground later fought over by French, British, Acadian, and Mi'kmaq communities.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 42.7846
 longitude: -96.9626
-score: 3.646
+score: 3.797
 snippet: Missouri River college town with a world-class music museum and Lewis and
   Clark prairie history.
 wikidata: Q989284
@@ -17,10 +17,10 @@ image: vermillion.jpg
 image_source: https://commons.wikimedia.org/wiki/File:VermilionSD_Downtown.jpg
 image_license: CC BY-SA 4.0
 image_attribution: User:Magicpiano
-heritage: 2.775
-vibrancy: 2.744
-nature: 4.326
-off_the_beaten_track: 1.492
+heritage: 3.341
+vibrancy: 2.811
+nature: 4.469
+off_the_beaten_track: 1.463
 ---
 
 Vermillion is a small college town above the Missouri River in southeastern South Dakota. The University of South Dakota gives it a steadier cultural pulse than many towns its size, but the real surprise is how quickly the town opens onto prairie, river bluffs, and Lewis and Clark country.

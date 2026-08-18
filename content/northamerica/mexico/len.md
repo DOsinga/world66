@@ -5,15 +5,15 @@ done:
 latitude: 21.121965
 loc_type: city
 longitude: -101.682977
-score: 5.072
+score: 4.811
 snippet: Guanajuato industrial city and Mexico's footwear capital, with leather markets
   and a compact historic centre
 title: León
 type: location
-heritage: 5.666
-vibrancy: 4.719
-nature: 5.336
-off_the_beaten_track: 4.189
+heritage: 5.315
+vibrancy: 4.278
+nature: 5.197
+off_the_beaten_track: 4.119
 ---
 
 León is the largest city in the state of [Guanajuato](/northamerica/mexico/guanajuato) and the fifth-largest in Mexico. Known as the shoe capital of the world, the city produces around a third of all footwear made in the country, and the [leather goods](/northamerica/mexico/len/leather_market) on sale here are genuinely good value.

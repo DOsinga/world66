@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -24.4167
 longitude: 145.4667
-score: 4.814
+score: 4.813
 snippet: Outback Queensland wool town tied to the Black Stump, artesian water, and
   shearers.
 wikidata: Q880676
@@ -12,10 +12,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Blackall
 - https://www.outbackqueensland.com.au/town/blackall/
 - https://blackallwoolscour.com.au/
-heritage: 2.635
-vibrancy: 1.595
-nature: 6.233
-off_the_beaten_track: 4.027
+heritage: 2.855
+vibrancy: 1.408
+nature: 6.166
+off_the_beaten_track: 4.239
 ---
 
 Blackall is a small Outback Queensland town on the Matilda Way, a long way from the coast and proud of it. Its claim is not scenery so much as identity: wool, artesian water, sheep-shearing records, and the old phrase "beyond the Black Stump" all gather here in a way that makes the town more than another fuel stop.

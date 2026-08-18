@@ -7,7 +7,7 @@ image_license: CC BY 2.5
 image_source: https://commons.wikimedia.org/wiki/File:Coquitlam_Lafarge_Lake.jpg
 latitude: 49.2839
 longitude: -122.7919
-score: 4.799
+score: 4.545
 snippet: Vancouver suburb against Coast Mountain foothills, useful for salmon rivers,
   wetlands, and mountain parks.
 sources:
@@ -15,10 +15,10 @@ sources:
 title: Coquitlam
 type: location
 loc_type: city
-heritage: 2.507
-vibrancy: 2.877
-nature: 6.049
-off_the_beaten_track: 1.718
+heritage: 2.678
+vibrancy: 2.771
+nature: 5.706
+off_the_beaten_track: 1.508
 ---
 
 Coquitlam is one of the largest of the Vancouver suburbs — a city of around 150,000 people set against the foothills of the Coast Mountains, about 25 km east of downtown Vancouver. The name comes from the Halkomelem language of the Kwikwetlem First Nation and refers to the red salmon that once spawned in vast numbers in the local rivers. There is no historical core to speak of: Coquitlam grew up in the 20th century as a mill town and a railway junction, and the 1960s and 70s converted it into the planned suburb that most visitors see today.

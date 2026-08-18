@@ -5,7 +5,7 @@ done:
 latitude: 52.4069
 loc_type: city
 longitude: 23.8156
-score: 2.228
+score: 2.296
 sources:
 - https://en.wikipedia.org/wiki/Kamyanyets
 - https://en.wikipedia.org/wiki/Tower_of_Kamyenyets
@@ -13,10 +13,10 @@ title: Kamianiec
 snippet: Western Belarusian town best known for its nearly complete 13th-century brick
   Kamianiec Tower.
 type: location
-heritage: 2.349
-vibrancy: 1.675
-nature: 2.323
-off_the_beaten_track: 3.469
+heritage: 2.61
+vibrancy: 1.847
+nature: 2.313
+off_the_beaten_track: 3.142
 ---
 
 Kamianiec (also Kamieniec Litewski) is a small town in the Brest region of western Belarus, best known for its extraordinary medieval landmark: the [Kamianiec Tower](/europe/belarus/kamianiec_litosk/kamianiec_tower), a 30-metre brick donjon built in the 1270s by Prince Vladimir of Volhynia. It is one of the very few medieval towers in Eastern Europe to have survived almost complete -- red-brick Gothic, bristling with arrow slits and merlons -- and a small branch of the Brest Regional Museum inside tells the story of its 750 years. Nicknamed the "White Tower" even though it has always been red (a confusion with the nearby **Belavezhskaya Pushcha** national park, whose name means "white forest"), it is the town's single reason to visit.

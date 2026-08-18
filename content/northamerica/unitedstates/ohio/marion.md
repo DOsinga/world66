@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Harding_Memorial,_Marion,_
 latitude: 40.587682
 loc_type: city
 longitude: -83.128983
-score: 2.729
+score: 3.338
 snippet: Central Ohio city tied to Warren G. Harding, with presidential sites and
   oddball historic curiosities
 title: Marion
 type: location
-heritage: 3.027
-vibrancy: 2.013
-nature: 2.919
-off_the_beaten_track: 1.464
+heritage: 3.952
+vibrancy: 2.124
+nature: 3.006
+off_the_beaten_track: 1.35
 ---
 
 Marion is a small city in central Ohio, about 75 km north of Columbus. It is best known as the birthplace and home of Warren G. Harding, the 29th President of the United States. The [Harding Home](/northamerica/unitedstates/ohio/marion/harding_home), a Queen Anne-style house where Harding conducted his famous 1920 front-porch presidential campaign, is preserved as a museum and open for tours. The [Harding Memorial](/northamerica/unitedstates/ohio/marion/harding_memorial), an impressive circular colonnade of white Georgia marble designed by Cass Gilbert, marks the graves of Harding and his wife Florence on the south side of town.

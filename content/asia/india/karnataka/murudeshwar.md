@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Lord_Shiva_statue_at_Murud
 latitude: 14.094361
 loc_type: city
 longitude: 74.482261
-score: 6.147
+score: 5.757
 snippet: Arabian Sea temple town dominated by a giant Shiva statue and the coastal
   Konkan Railway.
 title: Murudeshwar
 type: location
-heritage: 7.56
-vibrancy: 3.941
-nature: 4.895
-off_the_beaten_track: 3.059
+heritage: 7.003
+vibrancy: 3.304
+nature: 4.761
+off_the_beaten_track: 2.85
 ---
 
 Murudeshwar sits on a small peninsula jutting into the Arabian Sea in Uttara Kannada district, dominated by what was once claimed to be the world's tallest Shiva statue — a 37-metre figure that glitters in the direct sun. The [Murudeshwara Temple](/asia/india/karnataka/murudeshwar/murudeshwara_temple) at its base draws pilgrims year-round, and the view through the two massive gopurams toward the sea behind them is hard to beat.

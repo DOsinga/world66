@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bay_of_tolo.jpg
 latitude: 37.521139
 loc_type: city
 longitude: 22.859787
-score: 4.382
+score: 4.64
 snippet: Argolid beach village with a long sandy bay, shallow Gulf water, and working
   fishing harbour
 title: Tolo
 type: location
-heritage: 3.588
-vibrancy: 2.268
-nature: 5.271
-off_the_beaten_track: 3.315
+heritage: 3.767
+vibrancy: 2.251
+nature: 5.595
+off_the_beaten_track: 3.386
 ---
 
 Tolo sits at the foot of the Argolid hills where a long crescent of sand meets the calm waters of the Argolic Gulf — one of the finest beaches in the eastern Peloponnese. The bay curves gently, the sea stays shallow for a good distance out, and in summer the water reaches the kind of temperature that makes it hard to leave. Despite being popular with Greek families and European visitors, Tolo has resisted the worst excesses of resort development. The main strip of tavernas, cafés and small hotels runs directly behind the beach, and the pace is decidedly unhurried.

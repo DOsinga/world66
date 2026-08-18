@@ -5,15 +5,15 @@ done:
 latitude: 16.9685
 loc_type: city
 longitude: -88.2312
-score: 5.804
+score: 5.68
 snippet: Southern Belize working town and Garifuna cultural capital, especially tied
   to Settlement Day traditions
 title: Dangriga
 type: location
-heritage: 5.859
-vibrancy: 4.916
-nature: 6.513
-off_the_beaten_track: 3.974
+heritage: 5.026
+vibrancy: 4.322
+nature: 6.673
+off_the_beaten_track: 3.635
 ---
 
 Dangriga is the largest town in southern Belize and the cultural capital of the Garifuna people. It's a working town rather than a polished tourist destination, but [Garifuna Settlement Day](/northamerica/belize/dangriga/garifuna_settlement_day) on November 19 — when the community commemorates the arrival of the Garifuna from St. Vincent in 1832 — is one of Belize's best festivals, with drumming, dancing, and food.

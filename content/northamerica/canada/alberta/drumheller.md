@@ -6,13 +6,13 @@ latitude: 51.4672
 longitude: -112.709
 snippet: Alberta badlands town built around dinosaur fossils, hoodoo landscapes, and
   old coal country.
-score: 4.662
+score: 5.214
 sources:
 - https://en.wikivoyage.org/wiki/Drumheller
-heritage: 2.759
-vibrancy: 2.746
-nature: 5.743
-off_the_beaten_track: 4.86
+heritage: 2.597
+vibrancy: 3.019
+nature: 6.542
+off_the_beaten_track: 5.048
 ---
 
 Drumheller sits in the Red Deer River valley, where the Alberta prairie suddenly drops into striped badlands, dry coulees, and dinosaur-bearing rock. It is a small town, but it has a clear reason to exist as a destination: this is the easiest base for one of Canada's great fossil landscapes.

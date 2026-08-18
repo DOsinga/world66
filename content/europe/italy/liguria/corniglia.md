@@ -9,17 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:East_Above_Corniglia_Cinqu
 latitude: 44.119961
 loc_type: city
 longitude: 9.708687
-score: 5.679
+score: 5.868
 snippet: Quiet Cinque Terre village perched above the sea, reached by steps and surrounded
   by terraced vineyards.
 tags:
 - cinque_terre
 title: Corniglia
 type: location
-heritage: 5.632
-vibrancy: 3.024
-nature: 6.415
-off_the_beaten_track: 4.598
+heritage: 5.888
+vibrancy: 2.693
+nature: 6.599
+off_the_beaten_track: 4.394
 ---
 
 Corniglia is the quietest of the five Cinque Terre villages, and the only one that doesn't sit directly on the sea. It perches 100 metres above the water on a rocky promontory between Vernazza and Manarola, reached from the train station by a long staircase of 382 steps — or a shuttle bus for the less energetic.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gorakhnath_Mandir_in_nutsh
 latitude: 26.667798
 loc_type: city
 longitude: 83.364233
-score: 3.152
+score: 3.026
 snippet: Eastern Uttar Pradesh rail junction defined by Gorakhnath Temple and the
   Nepal border route.
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Gorakhpur_Junction_railway_station
 title: Gorakhpur
 type: location
-heritage: 3.695
-vibrancy: 2.614
-nature: 1.924
-off_the_beaten_track: 3.62
+heritage: 2.975
+vibrancy: 3.068
+nature: 2.083
+off_the_beaten_track: 3.154
 ---
 
 Gorakhpur is an important railway junction in eastern Uttar Pradesh, close to the Nepal border. Most travellers pass through on their way to the border crossing at Sunauli, but the city has more to offer than its transit reputation suggests.

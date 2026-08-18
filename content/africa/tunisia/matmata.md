@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Matmata_house.jpg
 latitude: 33.5087
 loc_type: city
 longitude: 9.9786
-score: 6.544
+score: 6.85
 snippet: Southern Tunisian Berber town of troglodyte courtyard homes carved into ochre
   earth.
 title: Matmata
 type: location
-heritage: 6.812
-vibrancy: 2.127
-nature: 7.255
-off_the_beaten_track: 5.322
+heritage: 6.901
+vibrancy: 1.802
+nature: 7.693
+off_the_beaten_track: 5.591
 ---
 
 Matmata is a small Berber town in southern Tunisia famous for its extraordinary [troglodyte architecture](/africa/tunisia/matmata/troglodyte_houses) — villages carved into the hillside and underground dwellings hollowed out of the earth. The name comes from the Berber tribes who took refuge in this isolated region, and their descendants still live in these unusual homes today. The town is also known internationally as a filming location for Star Wars and Raiders of the Lost Ark, where the lunar landscape of craters and ochre ridges stood in for alien worlds. The [Hotel Sidi Driss](/africa/tunisia/matmata/hotel_sidi_driss) is the original set for Luke Skywalker's home — you can stay the night in Tatooine.

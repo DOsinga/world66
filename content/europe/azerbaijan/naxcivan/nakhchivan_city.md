@@ -7,15 +7,15 @@ done:
 latitude: 39.2176
 loc_type: city
 longitude: 45.4085
-score: 3.134
+score: 3.008
 snippet: Ancient Azerbaijani exclave capital in the Zangezur foothills, centred on
   the Momine Khatum Mausoleum.
 title: Nakhchivan City
 type: location
-heritage: 3.137
-vibrancy: 2.931
-nature: 2.011
-off_the_beaten_track: 4.876
+heritage: 3.093
+vibrancy: 2.96
+nature: 2.109
+off_the_beaten_track: 4.436
 ---
 
 Nakhchivan City is the capital of the Nakhchivan Autonomous Republic, an exclave of Azerbaijan separated from the main country by Armenian territory. The city stands at around 1,000 metres in the foothills of the Zangezur range on the right bank of the Nakhchivan River. It is an ancient place — Ptolemy mentioned it by name in the 2nd century BC — and has served as a regional capital under successive rulers including the Atabek Eldegiz emirate in the 12th century and the Nakhchivan Khanate in the 18th.

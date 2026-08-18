@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Wroclaw-_Most_Grunwaldzki.
 latitude: 51.109
 loc_type: city
 longitude: 17.0327
-score: 5.786
+score: 6.755
 snippet: Lower Silesian city of Odra islands, bridges, Gothic churches, and a large
   market square.
 title: Wroclaw
 type: location
-heritage: 6.075
-vibrancy: 5.72
-nature: 1.612
-off_the_beaten_track: 1.27
+heritage: 7.489
+vibrancy: 6.474
+nature: 2.119
+off_the_beaten_track: 1.111
 ---
 
 Wroclaw is the cultural and intellectual capital of Lower Silesia, a city of 12 islands and 112 bridges where the Odra River splinters into tributaries and canals that cut through parks, Gothic churches, and one of the largest market squares in Europe. It has the energy of a university town — 13 academic institutions keep the bars full and the cultural calendar packed — but the architecture tells a much older story, one shaped by centuries of Bohemian, Austrian, Prussian, and Polish rule.

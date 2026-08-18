@@ -5,7 +5,7 @@ done:
 latitude: 52.5167
 loc_type: city
 longitude: -7.8914
-score: 5.262
+score: 4.703
 snippet: Tipperary town beneath the Rock of Cashel, a limestone outcrop crowned with
   medieval church ruins.
 title: Cashel
@@ -14,10 +14,10 @@ image: cashel.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Rock_of_Cashel_-_Tipperary,_Ireland_-_August_16,_2008.jpg
 image_license: CC BY 4.0
 image_attribution: Giorgio Galeotti
-heritage: 6.246
-vibrancy: 4.207
-nature: 4.673
-off_the_beaten_track: 3.178
+heritage: 5.514
+vibrancy: 3.897
+nature: 4.303
+off_the_beaten_track: 3.272
 ---
 
 Cashel is a small town in County Tipperary, a little more than two hours south-west of Dublin, and is entirely overshadowed — both literally and figuratively — by the Rock that stands above it. The [**Rock of Cashel**](/europe/ireland/cashel/rock_of_cashel) is a 60-metre outcrop of limestone rising straight out of the surrounding Tipperary plain, topped by one of the most dramatic collections of medieval buildings in Ireland: a round tower, a Romanesque chapel, a Gothic cathedral, and a 15th-century Hall of the Vicars Choral. Seen from the road at dawn or dusk, silhouetted against the sky, it is one of those rare sights that actually lives up to a thousand years of reputation.

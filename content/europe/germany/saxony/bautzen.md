@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bautzen_Altstadt_55.jpg
 latitude: 51.1809
 loc_type: city
 longitude: 14.4276
-score: 5.558
+score: 4.73
 snippet: Medieval Upper Lusatian town and Sorbian cultural heart, with bilingual streets
   and a towered skyline.
 title: Bautzen
 type: location
-heritage: 6.777
-vibrancy: 4.079
-nature: 4.386
-off_the_beaten_track: 2.671
+heritage: 5.685
+vibrancy: 3.639
+nature: 3.86
+off_the_beaten_track: 2.823
 ---
 
 Bautzen is one of eastern Germany's best-preserved medieval towns, perched on a rocky promontory above the Spree River in Upper Lusatia. Its skyline of eleven medieval towers rising over the old town is genuinely striking — more so than most German cities that were bombed flat in the war and rebuilt from scratch.

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cathedral_Square,_Peterbor
 latitude: 52.5661
 loc_type: city
 longitude: -0.2364
-score: 4.701
+score: 4.596
 snippet: Fast-growing cathedral city on the edge of the Fens, with Saxon stone, Bronze
   Age archaeology, and rail connections.
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Flag_Fen
 title: Peterborough
 type: location
-heritage: 5.532
-vibrancy: 3.854
-nature: 3.256
-off_the_beaten_track: 1.324
+heritage: 5.324
+vibrancy: 3.941
+nature: 3.466
+off_the_beaten_track: 1.51
 ---
 
 Peterborough is easy to underestimate. From the train it can look like logistics sheds, ring roads, and post-war growth, but the city has one of England's finest cathedrals at its core and a much older story stretching into the fenland east of town.

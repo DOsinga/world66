@@ -5,7 +5,7 @@ done:
 latitude: 43.1337
 loc_type: city
 longitude: -70.9243
-score: 5.028
+score: 5.152
 snippet: Compact New Hampshire college town on the Oyster River, shaped by the University
   of New Hampshire
 sources:
@@ -13,10 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/University_of_New_Hampshire
 title: Durham
 type: location
-heritage: 3.973
-vibrancy: 4.63
-nature: 5.556
-off_the_beaten_track: 2.074
+heritage: 3.136
+vibrancy: 5.024
+nature: 5.482
+off_the_beaten_track: 1.893
 ---
 
 Durham is a compact college town on the Oyster River in southeastern New Hampshire, built almost entirely around the University of New Hampshire. The campus anchors the centre of town and sets the rhythm of daily life: the population nearly doubles during the academic year, when students fill the coffee shops and bars along Main Street, then drops sharply in summer when things turn quiet and unhurried.

@@ -5,7 +5,7 @@ done:
 latitude: 31.378
 loc_type: city
 longitude: -7.8048
-score: 4.493
+score: 4.794
 snippet: High Atlas valley near Marrakesh where Berber villages cling above a fast-running
   mountain river.
 sources:
@@ -16,10 +16,10 @@ image: ourika.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ourika_Valley_-_river_after_floods_-_in_the_Atlas_Mountains,_Morocco_-_panoramio.jpg
 image_license: CC BY 3.0
 image_attribution: David Broad
-heritage: 2.988
-vibrancy: 2.812
-nature: 5.606
-off_the_beaten_track: 3.896
+heritage: 3.078
+vibrancy: 2.751
+nature: 6.101
+off_the_beaten_track: 4.0
 ---
 
 The Ourika Valley is one of the finest day trips from [Marrakesh](/africa/morocco/marrakesh) — a narrow gorge cutting into the High Atlas where Berber villages cling to red rock cliffs above a fast-running river. It takes about an hour to get there, and the contrast with the city is immediate: cooler air, rushing water, terraced gardens bright with vegetables.

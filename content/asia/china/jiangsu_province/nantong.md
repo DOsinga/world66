@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Nantong_2.jpg
 latitude: 31.9833
 loc_type: city
 longitude: 120.9
-score: 4.092
+score: 3.943
 snippet: Yangtze port and textile city north of Shanghai, anchored by early public
   museums and riverfront streets.
 sources:
 - https://en.wikivoyage.org/wiki/Nantong
 title: Nantong
 type: location
-heritage: 3.455
-vibrancy: 4.365
-nature: 2.219
-off_the_beaten_track: 0.936
+heritage: 2.799
+vibrancy: 4.407
+nature: 2.332
+off_the_beaten_track: 1.014
 ---
 
 Nantong sits on the north bank of the Yangtze River, directly across from Shanghai's commuter hinterland, but it has resisted being absorbed into the megalopolis's identity. A major port and textile city since the late Qing era, it carries itself with the quiet self-assurance of a place that has always been economically important without needing to be glamorous. The long riverfront, the leafy civic streets, and the unexpectedly good museums make it a satisfying half-day city for travellers who plan their route thoughtfully.

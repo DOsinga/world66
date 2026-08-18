@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Agastya_Lake_with_Badami_T
 latitude: 15.92
 loc_type: city
 longitude: 75.680278
-score: 6.569
+score: 6.724
 snippet: Red-sandstone Chalukya capital in northern Karnataka, famous for cave temples
   above Agastya Lake.
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Bhutanatha_group_of_temples,_Badami
 title: Badami
 type: location
-heritage: 8.366
-vibrancy: 4.098
-nature: 4.064
-off_the_beaten_track: 2.637
+heritage: 8.376
+vibrancy: 4.574
+nature: 4.069
+off_the_beaten_track: 2.952
 ---
 
 Badami is one of Karnataka's great small heritage towns, set in a red-sandstone gorge around Agastya Lake. It was once Vatapi, capital of the Early Chalukyas, and the setting still feels theatrical: cliffs, fort walls, shrines, water, and carved cave temples all packed into a walkable bowl of rock.

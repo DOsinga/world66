@@ -6,15 +6,15 @@ done:
 latitude: 27.759481
 loc_type: city
 longitude: -15.574086
-score: 3.185
+score: 5.28
 snippet: Gran Canaria resort with long beaches, shopping centres, and nightlife beside
   the Maspalomas dunes.
 title: Playa del Ingles
 type: location
-heritage: 1.112
-vibrancy: 3.215
-nature: 3.107
-off_the_beaten_track: 0.592
+heritage: 1.278
+vibrancy: 6.403
+nature: 2.377
+off_the_beaten_track: 0.723
 ---
 
 Playa del Inglés is a large resort built almost entirely of hotels, apartment blocks, and shopping centres. The beach stretches several kilometres from Faro de Maspalomas in the west to San Agustín in the east, running seamlessly into the Maspalomas dune system.

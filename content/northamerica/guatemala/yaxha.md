@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Amado_Esquivel_and_W.A._Lo
 latitude: 17.0739
 loc_type: feature
 longitude: -89.4082
-score: 7.018
+score: 6.391
 snippet: Restored Maya city on a forested ridge between two lakes in Guatemala's eastern
   Petén.
 story: 'Yaxha is the site that made the producers of Survivor: Guatemala set their
@@ -21,10 +21,10 @@ tags:
 - ruin
 title: Yaxha
 type: location
-heritage: 8.131
-vibrancy: 1.795
-nature: 6.723
-off_the_beaten_track: 4.77
+heritage: 7.237
+vibrancy: 1.373
+nature: 6.502
+off_the_beaten_track: 5.634
 ---
 
 About 70 kilometres east of Flores, Yaxha is the second-largest restored Maya site in Peten after Tikal. The site sits on a ridge between two lakes; Temple 216, the tallest pyramid, gives an unobstructed view at sunset across the rainforest, the lakes, and (on clear evenings) the silhouettes of pyramids at smaller sites in between.

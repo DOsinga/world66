@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Hout_Bay_beach.jpg
 latitude: -34.043093
 loc_type: city
 longitude: 18.355645
-score: 6.158
+score: 5.986
 snippet: Cape Peninsula fishing village in a mountain valley, with a working harbour
   and Chapman's Peak Drive nearby.
 sources:
@@ -16,10 +16,10 @@ sources:
 title: Hout Bay
 type: location
 image_attribution: The original uploader was PZFUN at English Wikiped
-heritage: 3.962
-vibrancy: 4.881
-nature: 7.186
-off_the_beaten_track: 3.372
+heritage: 3.907
+vibrancy: 4.321
+nature: 7.191
+off_the_beaten_track: 3.246
 ---
 
 Hout Bay ("Wood Bay") is a fishing village and suburb about 20 km south of [Cape Town](/africa/southafrica/capetown) city centre, tucked into a dramatic valley between the mountains of the Cape Peninsula. The harbour is active — fishing boats, a seal colony on [Duiker Island](/africa/southafrica/houtbay/duiker_island) just offshore, and the bustle of the waterfront [Harbour Market](/africa/southafrica/houtbay/hout_bay_harbour_market).

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kicevo_11-08-2006.jpg
 latitude: 41.5089
 loc_type: city
 longitude: 20.9585
-score: 4.675
+score: 4.389
 snippet: Mountain town in western North Macedonia, set where the Treska and Kičevska
   rivers meet.
 title: Kičevo
 type: location
-heritage: 5.462
-vibrancy: 1.603
-nature: 4.374
-off_the_beaten_track: 3.283
+heritage: 5.141
+vibrancy: 1.684
+nature: 4.078
+off_the_beaten_track: 3.052
 ---
 
 Kičevo (Кичево) is a small town of around 30,000 people in the mountainous west of North Macedonia, sitting at the confluence of the [Treska River](/europe/macedonia/kicevo/treska_river_gorge) and Kičevska rivers at about 620 metres above sea level. Surrounded by the [Bistra](/europe/macedonia/kicevo/bistra_mountain), Suva Gora, and Ilinska mountain ranges, it serves as the administrative centre of the Kičevo Municipality and a regional hub for the surrounding villages.

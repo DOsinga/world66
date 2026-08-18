@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Eger_-_Dob%C3%B3_Square.JP
 latitude: 47.898989
 loc_type: city
 longitude: 20.374367
-score: 5.241
+score: 5.076
 snippet: Baroque Hungarian wine city beneath the Bükk hills, remembered for Eger Castle
   and Egri Bikavér.
 title: Eger
 type: location
-heritage: 6.869
-vibrancy: 2.876
-nature: 2.592
-off_the_beaten_track: 1.678
+heritage: 6.715
+vibrancy: 2.657
+nature: 2.902
+off_the_beaten_track: 2.045
 ---
 
 Eger is one of Hungary's most rewarding provincial cities, a handsome Baroque town in the foothills of the Mátra and Bükk mountains in northeastern Hungary. It is famous for two things: [Eger Castle](/europe/hungary/eger/eger_castle), where in 1552 a small Hungarian garrison held off a vastly larger Ottoman army in one of the most celebrated defensive stands in Hungarian history; and [Egri Bikavér](/europe/hungary/eger/bikaver_wine) — "Bull's Blood of Eger" — the robust red wine blended from Kékfrankos, Kadarka, and other local grapes.

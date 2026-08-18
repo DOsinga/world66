@@ -2,7 +2,7 @@
 latitude: -34.0775
 loc_type: feature
 longitude: 18.3589
-score: 5.682
+score: 5.467
 snippet: Spectacular cliff-edge toll road carved into the mountainside between Hout
   Bay and Noordhoek on the Cape Peninsula.
 sources:
@@ -13,10 +13,10 @@ image: chapmans_peak.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cape_Town,_Chapman%27s_Peak_Drive,_South_Africa.jpg
 image_license: CC BY-SA 2.0
 image_attribution: dconvertini
-heritage: 2.451
-vibrancy: 2.94
-nature: 7.386
-off_the_beaten_track: 2.167
+heritage: 2.932
+vibrancy: 2.912
+nature: 7.067
+off_the_beaten_track: 1.538
 ---
 
 Chapman's Peak Drive snakes for nine kilometres along the cliff edge between [Hout Bay](/africa/southafrica/houtbay) and Noordhoek, the Atlantic dropping away to one side and sheer sandstone cliffs rising on the other. It is the centrepiece of any Cape Peninsula day-trip, and one of the most spectacular coastal drives in the world.

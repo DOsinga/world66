@@ -11,11 +11,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Pemberton_(British_Columbia)
 - https://www.tourismpembertonbc.com/pemberton-inspiration/why-pemberton-needs-to-be-on-your-british-columbia-road-trip
 - https://bcparks.ca/nairn-falls-park/
-score: 5.123
-heritage: 3.879
-vibrancy: 1.899
-nature: 6.297
-off_the_beaten_track: 3.457
+score: 5.074
+heritage: 3.828
+vibrancy: 1.693
+nature: 6.242
+off_the_beaten_track: 3.822
 ---
 
 Pemberton is the quieter valley beyond Whistler, where the Sea to Sky Highway leaves the resort crowds and opens into farmland below Mount Currie. It is a small town, but the setting is strong enough that it earns a stop of its own.

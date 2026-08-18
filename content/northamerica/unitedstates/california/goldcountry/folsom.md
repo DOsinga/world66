@@ -10,15 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:FolsomStatePrison_(cropped
 latitude: 38.678
 loc_type: city
 longitude: -121.1761
-score: 4.441
+score: 3.839
 snippet: American River city east of Sacramento, split between Gold Rush streets and
   Folsom Prison lore.
 title: Folsom
 type: location
-heritage: 5.269
-vibrancy: 3.556
-nature: 3.19
-off_the_beaten_track: 1.633
+heritage: 4.382
+vibrancy: 3.423
+nature: 3.039
+off_the_beaten_track: 1.923
 ---
 
 Folsom is a small city on the American River, about 32 kilometres east of Sacramento, that carries two very different identities. One is a prosperous Sacramento suburb with a pleasant historic downtown; the other is the Folsom State Prison, made immortal by Johnny Cash, who recorded his celebrated live album there in January 1968 in front of an audience of inmates. Both identities are real, and both are worth exploring.
@@ -27,4 +27,4 @@ The old part of town clusters around [Historic Sutter Street](/northamerica/unit
 
 The river defines the place. [Folsom Lake State Recreation Area](/northamerica/unitedstates/california/goldcountry/folsom/folsom_lake), held back by [Folsom Dam](/northamerica/unitedstates/california/goldcountry/folsom/folsom_dam), stretches north of the city and draws swimmers, kayakers, and cyclists to its shores. The [American River Bike Trail](/northamerica/unitedstates/california/goldcountry/folsom/lake_natoma) connects Folsom to Sacramento along 45 kilometres of shaded riverside path.
 
-The [Folsom Prison Museum](/northamerica/unitedstates/california/goldcountry/folsom/folsom_prison_museum) tells the prison's story including Cash's famous 1968 concerts, while the [Johnny Cash Trail](/northamerica/unitedstates/california/goldcountry/folsom/johnny_cash_trail) near the riverbank celebrates his legacy with large outdoor murals. Folsom is an easy day trip from Sacramento, or a useful overnight stop if you are following the Gold Country corridor south toward [Auburn](/northamerica/unitedstates/california/goldcountry/auburn) or [Placerville](/northamerica/unitedstates/california/goldcountry/placerville).
+The [Folsom Prison Museum](/northamerica/unitedstates/california/goldcountry/folsom/folsom_prison_museum) tells the prison's story including Cash's famous 1968 concerts, while the [Johnny Cash Trail](/northamerica/unitedstates/california/goldcountry/folsom/johnny_cash_trail) near the riverbank celebrates his legacy with large outdoor murals. Folsom is an easy day trip from Sacramento, or a useful overnight stop if you are following the Gold Country corridor south toward [Auburn](/northamerica/unitedstates/california/goldcountry/auburn) or [Placerville](/northamerica/unitedstates/california/placerville).

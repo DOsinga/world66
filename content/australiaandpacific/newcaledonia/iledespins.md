@@ -5,15 +5,15 @@ done:
 latitude: -22.605091
 loc_type: feature
 longitude: 167.468583
-score: 6.436
+score: 6.335
 snippet: Small New Caledonian island known for white-sand beaches, clear lagoon water,
   and tall araucaria pines.
 title: Île des Pins
 type: location
-heritage: 2.839
-vibrancy: 0.861
-nature: 7.937
-off_the_beaten_track: 6.683
+heritage: 2.236
+vibrancy: 1.016
+nature: 7.785
+off_the_beaten_track: 6.668
 ---
 
 Île des Pins (Isle of Pines) sits at the southern tip of New Caledonia, about 90 km from Nouméa. The island has been called "the closest island to paradise," and it earns the cliché: the beaches are genuinely extraordinary — powdery white sand, turquoise water so clear you can see the bottom from 10 metres up, and the distinctive tall araucaria pines that give the island its name standing over everything like sentinels.

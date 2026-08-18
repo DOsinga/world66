@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:140828_Otoko-no-namida_Shi
 latitude: 44.0967
 loc_type: feature
 longitude: 145.1533
-score: 6.766
+score: 6.828
 snippet: Wild Hokkaido peninsula where volcanic ridges meet drift ice and Japan's
   densest brown-bear country.
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Shiretoko_National_Park
 title: Shiretoko
 type: location
-heritage: 2.823
-vibrancy: 1.546
-nature: 8.65
-off_the_beaten_track: 6.022
+heritage: 3.006
+vibrancy: 0.987
+nature: 8.629
+off_the_beaten_track: 6.403
 ---
 
 Shiretoko is a narrow peninsula jutting northeast from Hokkaido into the Sea of Okhotsk, and it is as wild as Japan gets. The name comes from the Ainu word for "the end of the earth," and the peninsula still earns that description — a rugged ridge of volcanoes running to a tip that can only be reached by sea or on foot. UNESCO listed Shiretoko as a World Heritage Site in 2005, recognising its extraordinary mixing of marine and terrestrial ecosystems at the meeting point of the world's southernmost drift ice.

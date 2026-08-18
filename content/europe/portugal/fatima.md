@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Santu%C3%A1rio_de_F%C3%A1t
 latitude: 39.62555
 loc_type: city
 longitude: -8.665908
-score: 6.106
+score: 5.772
 snippet: Central Portuguese pilgrimage town built around the vast Sanctuary of Fátima
   and its 1917 apparitions
 sources:
@@ -15,10 +15,10 @@ sources:
 - https://en.wikipedia.org/wiki/Sanctuary_of_F%C3%A1tima
 title: Fatima
 type: location
-heritage: 7.564
-vibrancy: 4.241
-nature: 2.826
-off_the_beaten_track: 2.295
+heritage: 7.167
+vibrancy: 3.974
+nature: 3.206
+off_the_beaten_track: 2.528
 ---
 
 Fátima is one of the most important Catholic pilgrimage sites in the world. Every year more than six million people make their way to this small town in central Portugal, drawn by the 1917 apparitions of the Virgin Mary to three shepherd children. Whether you come for religious reasons or simply out of curiosity, the scale and sincerity of the devotion here is genuinely affecting.

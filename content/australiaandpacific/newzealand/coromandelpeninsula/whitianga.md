@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -36.8295
 longitude: 175.7031
-score: 5.976
+score: 5.766
 snippet: Mercury Bay harbour town with beaches, boat trips, and Captain Cook history
   on the Coromandel coast.
 sources:
@@ -13,10 +13,10 @@ sources:
 - https://www.thecoromandel.com/explore/whitianga/
 - https://mercurybaymuseum.co.nz/
 wikidata: Q1375183
-heritage: 3.065
-vibrancy: 4.17
-nature: 7.248
-off_the_beaten_track: 2.239
+heritage: 2.417
+vibrancy: 4.321
+nature: 6.849
+off_the_beaten_track: 1.69
 ---
 
 Whitianga is the main town on the eastern side of the [Coromandel Peninsula](/australiaandpacific/newzealand/coromandelpeninsula), sitting on a sheltered harbour at Mercury Bay. It is a practical beach town rather than a polished resort: fishing boats, holiday houses, cafes, and summer traffic all crowd the same small centre.

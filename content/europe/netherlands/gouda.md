@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chesses_gouda_affinage.JPG
 latitude: 52.011492
 loc_type: city
 longitude: 4.710609
-score: 5.09
+score: 5.882
 snippet: South Holland city known for cheese, a cobbled Markt, Gothic town hall, and
   Sint Janskerk stained glass.
 tags:
@@ -21,10 +21,10 @@ tags:
 - markets
 title: Gouda
 type: location
-heritage: 5.354
-vibrancy: 5.028
-nature: 2.966
-off_the_beaten_track: 0.986
+heritage: 6.022
+vibrancy: 5.873
+nature: 4.004
+off_the_beaten_track: 1.064
 ---
 
 Gouda is 25 kilometres south of Utrecht and 20 kilometres east of [Rotterdam](/europe/netherlands/rotterdam) — a small city that has somehow become one of the most recognisable place names in the world, thanks to a cheese. But Gouda is more than its export product. The old city centre is one of the most handsome in South Holland: a large cobbled Markt dominated by a Gothic town hall, a river running through the middle, and the Sint Janskerk containing the finest collection of stained-glass windows in the Netherlands.

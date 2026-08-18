@@ -4,7 +4,7 @@ type: location
 loc_type: feature
 latitude: 54.1825
 longitude: 7.8853
-score: 5.445
+score: 6.059
 snippet: Tiny German North Sea archipelago of red cliffs, seabirds, seals, and wartime
   tunnels.
 wikidata: Q3038
@@ -13,10 +13,10 @@ sources:
 - https://www.wikidata.org/wiki/Q3038
 - https://en.wikipedia.org/wiki/Heligoland
 - https://www.helgoland.de/en/service/theme-paths-around-the-island/helgoland-at-a-glance/
-heritage: 4.729
-vibrancy: 4.052
-nature: 6.435
-off_the_beaten_track: 4.623
+heritage: 5.263
+vibrancy: 4.162
+nature: 7.16
+off_the_beaten_track: 4.699
 ---
 
 Heligoland is Germany's odd island out: a tiny offshore archipelago far out in the North Sea, with red sandstone cliffs, car-free lanes, duty-free shops, and a history that jumps between Denmark, Britain, Germany, and the Second World War.

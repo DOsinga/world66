@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Tatta_Pani.JPG
 latitude: 33.6056
 loc_type: city
 longitude: 73.9481
-score: 5.778
+score: 5.688
 snippet: Azad Kashmir riverside settlement on the Poonch, known for sulphur hot springs
   and green hills
 title: Tatta Pani
 type: location
-heritage: 1.687
-vibrancy: 1.196
-nature: 7.386
-off_the_beaten_track: 5.145
+heritage: 2.233
+vibrancy: 1.276
+nature: 7.217
+off_the_beaten_track: 5.242
 ---
 
 Tatta Pani — literally "hot water" in the local Pahari dialect — is a small riverside settlement on the banks of the Poonch river, about 26 kilometres north of [Kotli](/asia/pakistan/azad_kashmir/kotli). It is known for its [sulphur hot springs](/asia/pakistan/azad_kashmir/tatta_pani/sulphur_hot_springs), which bubble up from the ground at high temperatures and flow into the river below. In winter, when the nights are cold and the surrounding hills have a bite to them, the springs draw visitors from across Azad Kashmir and from Pakistan proper, who come to soak and to believe, as locals long have, that the sulphur water does some good.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Giethoorn,_Netherlands.jpg
 latitude: 52.7411
 loc_type: city
 longitude: 6.0774
-score: 4.564
+score: 4.578
 snippet: Overijssel canal village of thatched farmhouses and car-free lanes in the
   Weerribben-Wieden peatlands.
 title: Giethoorn
 type: location
-heritage: 4.15
-vibrancy: 3.792
-nature: 5.242
-off_the_beaten_track: 2.851
+heritage: 3.733
+vibrancy: 3.662
+nature: 5.327
+off_the_beaten_track: 3.106
 ---
 
 Giethoorn is a small village in the province of Overijssel that has earned the nickname "Venice of the North" — though the comparison flatters both cities in different directions. Giethoorn is genuinely pretty, with thatched farmhouses sitting along narrow canals threaded through the peatlands of the Weerribben-Wieden National Park. There are no cars in the old village: boats, bikes, and your own feet are how you get around.

@@ -9,17 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Chokak_Bath_and_Javad_khan
 latitude: 40.679808
 loc_type: city
 longitude: 46.359718
-score: 3.585
+score: 3.397
 snippet: Western Azerbaijani city in a fertile valley, layered with Persian, Russian,
   and independence history
 sources:
 - https://en.wikipedia.org/wiki/Ganja,_Azerbaijan
 title: Ganca
 type: location
-heritage: 2.013
-vibrancy: 1.718
-nature: 3.502
-off_the_beaten_track: 5.726
+heritage: 1.896
+vibrancy: 1.885
+nature: 2.871
+off_the_beaten_track: 5.701
 ---
 
 Ganca (also spelled Ganja; pronounced roughly as 'Ganja') is Azerbaijan's second-largest city, with a population of around 335,000. It sits in a fertile agricultural valley south of the Kura River, about 300 kilometres west of Baku, and has one of the richest histories of any city in the Caucasus.

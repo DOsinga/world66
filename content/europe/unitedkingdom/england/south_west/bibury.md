@@ -13,10 +13,10 @@ image: bibury.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Arlington_Row_Bibury.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Saffron Blaze
-heritage: 7.705
-vibrancy: 2.199
-nature: 5.507
-off_the_beaten_track: 2.376
+heritage: 7.49
+vibrancy: 3.165
+nature: 5.996
+off_the_beaten_track: 2.202
 ---
 
 Bibury is a small village on the River Coln whose Arlington Row — a curved terrace of 14th-century weavers' cottages built in Cotswold limestone — has become one of the most reproduced images of English rural architecture. William Morris called it the most beautiful village in England; it appeared on the pre-decimal 50-pence piece. The reality is a pretty if very small place that absorbs enormous numbers of visitors with varying grace.

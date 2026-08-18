@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Erlangen_Germany_-_panoram
 latitude: 49.589157
 loc_type: city
 longitude: 10.981207
-score: 4.254
+score: 4.922
 snippet: Franconian university city with a coherent Baroque Huguenot quarter and major
   Siemens research campus.
 title: Erlangen
 type: location
-heritage: 4.079
-vibrancy: 4.352
-nature: 2.574
-off_the_beaten_track: 0.765
+heritage: 5.127
+vibrancy: 4.882
+nature: 2.734
+off_the_beaten_track: 0.85
 ---
 
 Erlangen is a Franconian city of about 115,000 people, immediately north of Nuremberg, dominated by one of Germany's major universities and the sprawling Siemens research campus that has grown up alongside it. It has the feel of a wealthy, well-run university city: good bookshops, relaxed cafes, and a Baroque old town that reflects its origins as a planned settlement for Huguenot refugees after 1685.

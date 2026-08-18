@@ -2,7 +2,7 @@
 latitude: 49.1427
 loc_type: city
 longitude: 9.2109
-score: 5.585
+score: 4.894
 snippet: Neckar wine city with Renaissance survivals, a strong science museum, and
   vineyard hills above town.
 sources:
@@ -16,10 +16,10 @@ image: heilbronn.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Heilbronn_Kilianskirche_20050828.jpg
 image_license: CC BY-SA 3.0
 image_attribution: K. Jähne
-heritage: 6.862
-vibrancy: 3.994
-nature: 2.978
-off_the_beaten_track: 2.262
+heritage: 5.938
+vibrancy: 3.651
+nature: 3.123
+off_the_beaten_track: 2.565
 ---
 
 Heilbronn sits on the Neckar in northern Baden-Württemberg, surrounded by vineyards and rebuilt city streets. It was heavily bombed in 1944, so you do not come here for a perfectly preserved old town. You come for the pieces that survived or were rebuilt with care, and for a city that still knows it is a wine town.

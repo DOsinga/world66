@@ -4,17 +4,17 @@ done:
 latitude: 26.077495
 loc_type: city
 longitude: 119.291821
-score: 5.04
+score: 4.885
 snippet: Fujian capital on the Min River, shaped by ancient lanes, banyan trees, and
   overseas trade
 sources:
 - https://en.wikipedia.org/wiki/Fuzhou
 title: Fuzhou
 type: location
-heritage: 4.755
-vibrancy: 5.186
-nature: 3.843
-off_the_beaten_track: 1.585
+heritage: 4.167
+vibrancy: 5.195
+nature: 3.945
+off_the_beaten_track: 1.787
 ---
 
 Fuzhou is the capital of Fujian province and one of China's oldest cities, with more than 2,000 years of recorded history. It sits in a basin ringed by hills, crossed by the Min River, and has a character shaped by three things: its long history of overseas trade, its reputation as a city of banyan trees, and the distinctive Fujianese dialect and food culture that has spread throughout Southeast Asia and beyond via its massive diaspora.

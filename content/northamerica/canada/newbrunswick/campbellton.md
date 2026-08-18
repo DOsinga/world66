@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sugarloaf_provincial_park.
 latitude: 48.004
 loc_type: city
 longitude: -66.672
-score: 4.419
+score: 4.465
 snippet: Restigouche River town below Sugarloaf Mountain, with salmon history and
   four-season trails.
 sources:
@@ -18,10 +18,10 @@ sources:
 title: Campbellton
 type: location
 wikidata: Q1030568
-heritage: 2.337
-vibrancy: 1.753
-nature: 5.693
-off_the_beaten_track: 3.791
+heritage: 2.42
+vibrancy: 1.607
+nature: 5.721
+off_the_beaten_track: 3.93
 ---
 
 Campbellton sits on the Restigouche River at the northern edge of New Brunswick, looking across to Quebec and backed by the rounded mass of Sugarloaf Mountain. It is not a polished resort town, but the setting is strong: river, bridge, mountain, and a waterfront that reminds you how much of the town's story comes from salmon.

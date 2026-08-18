@@ -11,11 +11,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Michigan_City
 - https://www.southshorecva.com/the-region/michigan-city/things-to-do/
 - https://michigancitylaporte.com/see-and-do/washington-park-beach/
-score: 3.784
-heritage: 2.322
-vibrancy: 2.504
-nature: 4.656
-off_the_beaten_track: 1.753
+score: 3.932
+heritage: 2.448
+vibrancy: 2.63
+nature: 4.824
+off_the_beaten_track: 1.588
 ---
 
 Michigan City sits on Lake Michigan's southern shore, just east of the Indiana Dunes. It is a working northern Indiana city rather than a polished beach resort, but the lakefront gives it a clear reason to stop.

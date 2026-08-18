@@ -5,15 +5,15 @@ done:
 latitude: 24.7991
 loc_type: city
 longitude: 93.9364
-score: 5.183
+score: 4.601
 snippet: Manipur's valley capital, ringed by blue-grey hills and culturally distinct
   from mainland India.
 title: Imphal
 type: location
-heritage: 6.442
-vibrancy: 3.554
-nature: 3.453
-off_the_beaten_track: 4.292
+heritage: 5.592
+vibrancy: 3.413
+nature: 3.727
+off_the_beaten_track: 3.851
 ---
 
 Imphal sits in a wide, green valley surrounded by blue-grey hills on all sides, the capital of Manipur and the gateway to India's far northeast. This is not a city that gets many foreign visitors, and that is part of its appeal. The pace is unhurried, the culture is distinctly different from mainland India, and the landscape is extraordinary.

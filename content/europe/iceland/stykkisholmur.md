@@ -5,7 +5,7 @@ done:
 latitude: 65.074258
 loc_type: city
 longitude: -22.730295
-score: 5.818
+score: 6.074
 snippet: Fishing town on the Snæfellsnes peninsula, with a natural harbour and ferry
   links across Breiðafjörður.
 title: Stykkisholmur
@@ -14,10 +14,10 @@ image: stykkisholmur.jpg
 image_source: https://commons.wikimedia.org/wiki/File:1_aerial_pano_stykkish%C3%B3lmur_2017.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Chensiyuan
-heritage: 3.734
-vibrancy: 1.751
-nature: 7.436
-off_the_beaten_track: 3.92
+heritage: 4.122
+vibrancy: 1.577
+nature: 7.667
+off_the_beaten_track: 4.24
 ---
 
 Stykkishólmur is a small fishing town on the northern shore of the Snæfellsnes peninsula, with brightly painted houses clustered around a natural harbour. It is the main settlement on the peninsula and the departure point for the [Baldur ferry](/europe/iceland/stykkisholmur/breidafjordur_ferry) across Breiðafjörður to the Westfjords.

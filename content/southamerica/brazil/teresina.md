@@ -4,7 +4,7 @@ loc_type: city
 longitude: -42.8042
 original_overview: Capital of Piauí between the Parnaíba and Poti rivers; a hot, unpretentious
   inland city with river viewpoints, craft traditions, and a small-town feel.
-score: 3.295
+score: 3.518
 snippet: Inland Piauí capital where two rivers meet in one of Brazil's hottest state
   capitals.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Teresina
 title: Teresina
 type: location
-heritage: 3.387
-vibrancy: 3.285
-nature: 3.25
-off_the_beaten_track: 4.354
+heritage: 3.13
+vibrancy: 3.533
+nature: 3.48
+off_the_beaten_track: 3.908
 ---
 
 Teresina is the inland capital of Piauí, sitting between the Parnaíba and Poti rivers in Brazil's northeast. It is not a beach city, and it does not pretend to be one. The first thing most visitors notice is the heat: Teresina is one of Brazil's hottest state capitals, and the city works best if you move early, rest in the middle of the day, and return to the riverfront when the light softens.

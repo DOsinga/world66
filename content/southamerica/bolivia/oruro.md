@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:El_carnaval_de_Oruro_2.jpg
 latitude: -17.9644
 loc_type: city
 longitude: -67.1131
-score: 4.731
+score: 4.449
 title: Oruro
 type: location
 snippet: High-altitude Bolivian mining city on the altiplano, transformed each year
   by its Diablada carnival.
-heritage: 4.103
-vibrancy: 5.005
-nature: 3.367
-off_the_beaten_track: 4.733
+heritage: 4.458
+vibrancy: 4.479
+nature: 3.101
+off_the_beaten_track: 4.462
 ---
 
 Oruro is a high-altitude mining city on the Bolivian altiplano, sitting at over 3,700 metres. It is not, honestly, a place most travellers would visit outside of one extraordinary week each year — but that week makes it unmissable.

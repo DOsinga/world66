@@ -4,15 +4,15 @@ done:
 latitude: 39.0511
 loc_type: feature
 longitude: -108.6979
-score: 5.766
+score: 5.721
 snippet: Red-rock canyon monument above Grand Junction, with sandstone towers and
   Rim Rock Drive tracing the cliffs.
 title: Colorado National Monument
 type: location
-heritage: 4.256
-vibrancy: 1.613
-nature: 7.134
-off_the_beaten_track: 2.94
+heritage: 4.303
+vibrancy: 1.67
+nature: 7.044
+off_the_beaten_track: 2.948
 ---
 
 Colorado National Monument is a dramatic landscape of red-rock canyons and freestanding sandstone towers on the western edge of Colorado, just south of Fruita and Grand Junction. The "monuments" in the name are the towering rock formations — Independence Monument, Kissing Couple, and others — left standing as the surrounding plateau eroded away over millions of years. The canyon walls drop as much as 500 metres to the valley floor.

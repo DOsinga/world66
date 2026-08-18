@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Lichtenfels_Korbmarkt_bask
 latitude: 50.14568
 loc_type: city
 longitude: 11.06382
-score: 5.543
+score: 5.356
 title: Lichtenfels
 snippet: Small Upper Franconian town on the Main, known as Germany's basket-making
   capital.
 type: location
-heritage: 7.117
-vibrancy: 2.843
-nature: 3.733
-off_the_beaten_track: 2.052
+heritage: 6.796
+vibrancy: 2.738
+nature: 3.791
+off_the_beaten_track: 2.22
 ---
 
 Lichtenfels is a small, peaceful town of about 20,000 people in Upper Franconia, midway between [Bamberg](/europe/germany/bavaria/bamberg) and Coburg on the River Main. It calls itself the basket-making capital of Germany and still has a college dedicated to the craft, as well as a [basket museum](/europe/germany/bavaria/lichtenfels/basket_museum) that is the largest collection of wicker work in Europe.

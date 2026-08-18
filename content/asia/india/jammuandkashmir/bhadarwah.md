@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bhadarwah.jpg
 latitude: 32.978
 loc_type: city
 longitude: 75.718
-score: 5.389
+score: 5.705
 snippet: Mountain town in Jammu's Bhadarwah valley, ringed by deodar forests, alpine
   meadows, springs, and Kailash views.
 title: Bhadarwah
 type: location
-heritage: 1.798
-vibrancy: 1.48
-nature: 6.938
-off_the_beaten_track: 4.635
+heritage: 2.286
+vibrancy: 1.357
+nature: 7.326
+off_the_beaten_track: 4.971
 ---
 
 Bhadarwah, popularly called "Chhota Kashmir" (Little Kashmir), is a mountain town in the Doda district of Jammu, 80 km from Patnitop at around 1,600 m elevation. Dense deodar and pine forests surround it, with snow-capped peaks — including Ashapati and Kailash (5,029 m) — visible on the skyline.

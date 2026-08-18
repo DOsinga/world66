@@ -10,15 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:CIty_of_Saranda_Albania_20
 latitude: 39.87522
 loc_type: city
 longitude: 20.006526
-score: 6.029
+score: 5.805
 snippet: Albanian Riviera resort town whose bay makes a base for Butrint and the Blue
   Eye.
 title: Saranda
 type: location
-heritage: 5.902
-vibrancy: 5.574
-nature: 6.652
-off_the_beaten_track: 3.086
+heritage: 4.434
+vibrancy: 5.365
+nature: 6.405
+off_the_beaten_track: 2.793
 ---
 
 Saranda is the main resort town of the Albanian Riviera, sitting at the southern tip of the Ionian coast a short crossing from the Greek island of Corfu. It is a useful base and a pleasant enough place, though the town itself — a ring of apartment blocks and hotels around a bay — is less distinguished than the scenery surrounding it.

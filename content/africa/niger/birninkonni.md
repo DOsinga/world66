@@ -9,14 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Konni_02.jpg
 latitude: 13.7916
 loc_type: city
 longitude: 5.2478
-score: 5.684
+score: 4.89
 title: Birnin Konni
 type: location
 snippet: Southern Niger market town at a major crossroads near the Nigerian border.
-heritage: 3.326
-vibrancy: 1.63
-nature: 6.669
-off_the_beaten_track: 7.017
+heritage: 3.583
+vibrancy: 1.445
+nature: 5.442
+off_the_beaten_track: 7.006
 ---
 
 Birnin Konni is a busy market town in southern [Niger](/africa/niger), sitting right on the crossroads where the road from [Agadez](/africa/niger/agadez) to [Sokoto](/africa/nigeria/sokoto) meets the east-west route between [Zinder](/africa/niger/zinder) and [Niamey](/africa/niger/niamey). Its position near the [Nigerian](/africa/nigeria) border gives it a lively, trader-town energy.

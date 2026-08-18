@@ -5,7 +5,7 @@ done:
 latitude: 52.6362
 loc_type: city
 longitude: -1.1332
-score: 5.036
+score: 4.758
 snippet: Midlands city with Roman roots, South Asian street life, and Richard III's
   rediscovered grave beneath its centre.
 title: Leicester
@@ -14,10 +14,10 @@ image: leicester.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aerial-Leicester_2.017.jpg
 image_license: CC0
 image_attribution: DougPR
-heritage: 5.365
-vibrancy: 4.95
-nature: 3.169
-off_the_beaten_track: 1.634
+heritage: 5.277
+vibrancy: 4.556
+nature: 3.134
+off_the_beaten_track: 1.938
 ---
 
 Leicester is a Midlands city with a lot more going on than its industrial reputation suggests. Founded as a Roman settlement (Ratae Coritanorum), it has a long layered history visible in everything from a chunk of [Roman wall](/europe/unitedkingdom/england/east_midlands/leicester/jewry_wall_museum) in the city centre to the [medieval castle and guildhall](/europe/unitedkingdom/england/east_midlands/leicester/leicester_guildhall). Then in 2012, archaeologists discovered the remains of King Richard III under a car park — the most dramatic archaeological find in Britain in living memory. He's now interred in [Leicester Cathedral](/europe/unitedkingdom/england/east_midlands/leicester/leicester_cathedral), and the [Richard III Visitor Centre](/europe/unitedkingdom/england/east_midlands/leicester/richard_iii_visitor_centre) is genuinely excellent.

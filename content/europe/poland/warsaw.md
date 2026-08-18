@@ -16,7 +16,7 @@ quick_facts:
   Old Town: Rebuilt from WWII rubble
   Palace of Culture: A 237 m Soviet 'gift'
   Population: ~1.8 million
-score: 5.96
+score: 7.031
 snippet: Polish capital rebuilt after wartime destruction, with a reconstructed Old
   Town and layered communist-era cityscape.
 tip: Warsaw's Old Town looks medieval but was painstakingly rebuilt from rubble after
@@ -26,10 +26,10 @@ tip: Warsaw's Old Town looks medieval but was painstakingly rebuilt from rubble 
   The Chopin and Uprising museums are superb.
 title: Warsaw
 type: location
-heritage: 6.853
-vibrancy: 5.215
-nature: 2.297
-off_the_beaten_track: 1.584
+heritage: 7.782
+vibrancy: 6.765
+nature: 2.771
+off_the_beaten_track: 1.379
 ---
 
 Warsaw is not a beautiful city in the conventional sense. Ninety percent of it was systematically destroyed by the Germans after the 1944 Warsaw Uprising, and much of what you see today was built in the communist period. But it is a fascinating and increasingly dynamic city, with a history so extreme that its traces are everywhere.

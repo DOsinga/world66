@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -15.5369
 longitude: -47.3339
-score: 4.459
+score: 4.565
 snippet: Goiás gateway to cerrado waterfalls, quartzite sinkholes, and prehistoric
   rock art near Brasília.
 wikidata: Q1003392
@@ -12,10 +12,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Formosa_(Brazil)
 - https://en.wikipedia.org/wiki/Formosa,_Goi%C3%A1s
 - https://www.wikidata.org/wiki/Q1003392
-heritage: 3.917
-vibrancy: 3.892
-nature: 5.03
-off_the_beaten_track: 3.72
+heritage: 3.625
+vibrancy: 3.923
+nature: 5.18
+off_the_beaten_track: 3.816
 ---
 
 Formosa is a Goiás city northeast of Brasília, useful not because the centre is charming, but because the surrounding cerrado is unusually rich. Within a day trip are tall waterfalls, clear pools, sinkholes, and prehistoric rock markings that make the plateau feel older and wilder than the highway approach suggests.

@@ -5,7 +5,7 @@ done:
 latitude: 42.8136
 loc_type: city
 longitude: 25.41
-score: 6.231
+score: 5.643
 title: Bojentsi
 type: location
 image: bojencite.jpg
@@ -14,10 +14,10 @@ image_license: CC BY-SA 3.0
 image_attribution: Elena Chochkova
 snippet: Stara Planina mountain village preserved as an architectural reserve of Bulgarian
   Renaissance houses.
-heritage: 7.424
-vibrancy: 1.739
-nature: 5.503
-off_the_beaten_track: 5.07
+heritage: 6.588
+vibrancy: 1.642
+nature: 5.29
+off_the_beaten_track: 5.065
 ---
 
 Bojentsi is a small village on the northern slopes of the Stara Planina mountains, 16 km east of [Gabrovo](/europe/bulgaria/gabrovo) and 40 km from [Veliko Tarnovo](/europe/bulgaria/velikoturnovo). At 750 metres altitude, tucked into the valley of the Bojanka River, the entire village has been declared an architectural and historical reserve.

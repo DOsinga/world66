@@ -5,7 +5,7 @@ done:
 latitude: 39.952
 loc_type: city
 longitude: 44.5393
-score: 5.0
+score: 5.293
 title: Ararat Marz
 type: location
 image: ararat_marz.jpg
@@ -13,10 +13,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Ararat_city_entrance_from_
 image_license: CC BY-SA 4.0
 image_attribution: Armineaghayan
 snippet: Armenian province in the Arax valley, framed by views of Mount Ararat.
-heritage: 5.604
-vibrancy: 2.612
-nature: 5.216
-off_the_beaten_track: 5.385
+heritage: 5.598
+vibrancy: 2.749
+nature: 5.831
+off_the_beaten_track: 4.495
 ---
 
 Ararat Marz is the province that dominates the view from Yerevan: a broad, hot, flat valley carved by the Arax river, with the double peak of Mount Ararat — now just across the border in Turkey — looming over everything on a clear day, impossibly large and impossibly close. The mountain gave the region its name even though Armenians can only look at it.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:18038_Sanremo_IM,_Italy_-_
 latitude: 43.8198
 loc_type: city
 longitude: 7.7749
-score: 5.631
+score: 5.633
 snippet: Italian Riviera resort town with Belle Époque hotels, palm promenades, a
   casino, and the Sanremo Music Festival.
 sources:
@@ -21,10 +21,10 @@ tags:
 - italianriviera
 title: Sanremo
 type: location
-heritage: 5.05
-vibrancy: 5.832
-nature: 5.112
-off_the_beaten_track: 1.722
+heritage: 4.81
+vibrancy: 5.759
+nature: 5.309
+off_the_beaten_track: 1.641
 ---
 
 Sanremo is the grand old resort of the Italian Riviera, draped across the hillside between Capo Verde and Capo Nero in an amphitheatre facing the sea. It has been drawing visitors since the 19th century — Russian aristocrats, British wintering parties, and later the Italian establishment — and still carries an air of faded Belle Époque glamour in its seafront hotels, the [Casino Municipale](/europe/italy/liguria/sanremo/casino_municipale), and the [palm-lined promenades](/europe/italy/liguria/sanremo/passeggiata_imperatrice).

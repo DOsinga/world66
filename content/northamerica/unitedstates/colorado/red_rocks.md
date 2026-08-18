@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Red_Rock_Theatre,_Park_of_
 latitude: 39.6655
 loc_type: feature
 longitude: -105.2057
-score: 5.991
+score: 5.969
 snippet: Natural amphitheatre near Denver, with 9,500 seats framed by towering red
   sandstone monoliths.
 story: 'The natural acoustics — created by two 300-foot sandstone monoliths that frame
@@ -17,10 +17,10 @@ tags:
 - sight
 title: Red Rocks Amphitheatre
 type: location
-heritage: 2.712
-vibrancy: 3.908
-nature: 7.397
-off_the_beaten_track: 2.166
+heritage: 2.083
+vibrancy: 4.063
+nature: 7.289
+off_the_beaten_track: 1.575
 ---
 
 Fifteen miles west of downtown in the foothills of Morrison, Red Rocks is the world's most beautiful natural amphitheatre — 9,500 seats wedged between two giant slabs of red sandstone, with the lights of Denver and the prairie laid out below to the east. The park is open to the public during the day (free), and the climb up to the top row is the city's favourite cardio workout.

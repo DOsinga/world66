@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aracena_in_Spain_01.jpg
 latitude: 37.8949
 loc_type: city
 longitude: -6.5625
-score: 4.109
+score: 4.024
 snippet: Andalusian hill town crowned by a Moorish castle above the Gruta de las Maravillas
   caves.
 title: Aracena
 type: location
-heritage: 4.603
-vibrancy: 2.355
-nature: 4.292
-off_the_beaten_track: 3.175
+heritage: 4.318
+vibrancy: 2.538
+nature: 4.407
+off_the_beaten_track: 3.092
 ---
 
 Aracena is a handsome hill town in the Sierra de Aracena, the western end of the Sierra Morena in northern [Andalucia](/europe/spain/andalucia). It sits at the highest point of the range, crowned by the remains of a Moorish castle and the [Iglesia Prioral](/europe/spain/andalucia/aracena/iglesia_prioral), a 13th-century church built by the Knights of Santiago with views across the forested hills.

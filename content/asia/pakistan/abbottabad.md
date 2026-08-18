@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Abbottabad_Pakistan_In_win
 latitude: 34.143614
 loc_type: city
 longitude: 73.213275
-score: 3.932
+score: 3.903
 snippet: Himalayan foothill city and former British hill station, gateway to the Karakoram
   road north.
 title: Abbottabad
 type: location
-heritage: 4.439
-vibrancy: 3.606
-nature: 3.119
-off_the_beaten_track: 4.755
+heritage: 4.079
+vibrancy: 3.866
+nature: 3.323
+off_the_beaten_track: 4.354
 ---
 
 Abbottabad sits in a wide valley at 1,260 metres in the foothills of the western Himalayas, an hour and a half north of Islamabad. It was founded as a British hill station in 1853 and named after Major James Abbott, its first commissioner; the cantonment laid out then still defines the centre of the city today, with its wide avenues, parade ground, gardens, and the Anglican [St Luke's Church](/asia/pakistan/abbottabad/st_lukes_church). The Pakistan Military Academy at Kakul, on the city's northern edge, keeps the military character active.

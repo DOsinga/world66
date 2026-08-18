@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Esmeralda_County,_Nevada_c
 latitude: 37.7083
 loc_type: city
 longitude: -117.2356
-score: 4.27
+score: 4.273
 snippet: Nevada boomtown where grand stone buildings outlast the gold rush on a desert
   main street.
 title: Goldfield
 type: location
-heritage: 4.753
-vibrancy: 2.206
-nature: 4.53
-off_the_beaten_track: 4.515
+heritage: 4.776
+vibrancy: 2.912
+nature: 4.489
+off_the_beaten_track: 3.762
 ---
 
 Goldfield is the best-preserved boomtown in Nevada, and one of the most atmospheric ghost towns in the American West. In 1906 it was the largest city in the state, with over 20,000 residents, dozens of saloons, and a stock exchange fueled by gold strikes. Today the population hovers around 250, but the town's grand stone and brick buildings still line the main street, stubbornly refusing to crumble.

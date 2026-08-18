@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Douglas_Park_(City_of_Lang
 latitude: 49.1039
 loc_type: city
 longitude: -122.657
-score: 4.3
+score: 3.949
 snippet: Suburban Fraser Valley municipality centred on Fort Langley, the restored
   birthplace of British Columbia.
 title: Langley
 type: location
-heritage: 2.41
-vibrancy: 1.94
-nature: 5.643
-off_the_beaten_track: 2.327
+heritage: 2.25
+vibrancy: 1.915
+nature: 5.167
+off_the_beaten_track: 2.001
 ---
 
 Langley is a suburban municipality about 45 km east of downtown [Vancouver](/northamerica/canada/britishcolumbia/vancouver), straddling the Trans-Canada Highway. Its main claim to interest for visitors is Fort Langley National Historic Site, a restored Hudson's Bay Company trading post established in 1827 — the birthplace of British Columbia, where the colony was proclaimed in 1858. The fort has costumed interpreters, a cooperage, and a small museum.

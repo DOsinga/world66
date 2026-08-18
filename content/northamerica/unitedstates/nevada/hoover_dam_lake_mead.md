@@ -2,7 +2,7 @@
 latitude: 36.013062
 loc_type: feature
 longitude: -114.73765
-score: 4.817
+score: 5.104
 snippet: Colossal 1930s dam and the largest reservoir in the US, 30 miles from Las
   Vegas
 title: Hoover Dam & Lake Mead
@@ -11,10 +11,10 @@ image: hoover_dam_lake_mead.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lake_Mead_and_its_bathtub_ring_upstream_of_Hoover_Dam,_Black_Canyon,_Arizona%E2%80%93Nevada.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Christian David
-heritage: 2.215
-vibrancy: 2.584
-nature: 6.218
-off_the_beaten_track: 1.978
+heritage: 2.29
+vibrancy: 2.975
+nature: 6.473
+off_the_beaten_track: 1.577
 ---
 
 Hoover Dam sits 30 miles southeast of Las Vegas on the Nevada–Arizona border and is one of the great engineering achievements of the 20th century. Built during the Depression between 1931 and 1936, the 221-metre concrete arch-gravity dam holds back Lake Mead, the largest reservoir in the United States by volume. The scale is hard to take in until you are standing on it: the spillways alone could swallow a battleship.

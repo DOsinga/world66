@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Fo_ter_29_in_Szombathely_(
 latitude: 47.229118
 loc_type: city
 longitude: 16.618762
-score: 5.046
+score: 4.116
 snippet: Western Hungarian city with Roman Savaria ruins and landmarks tied to Saint
   Martin of Tours.
 title: Szombathely
 type: location
-heritage: 6.401
-vibrancy: 3.2
-nature: 3.107
-off_the_beaten_track: 2.955
+heritage: 5.002
+vibrancy: 3.054
+nature: 2.852
+off_the_beaten_track: 2.957
 ---
 
 Szombathely may not be on most tourists' itineraries, but this quiet western Hungarian city has a long history worth exploring. Nearly 1,800 years ago, as Savaria, it was the capital of the Roman province of Upper Pannonia — and the birthplace of Saint Martin of Tours.

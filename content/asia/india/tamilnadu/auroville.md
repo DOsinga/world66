@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 12.00694
 longitude: 79.8106
-score: 4.743
+score: 4.356
 snippet: Experimental Tamil Nadu township built around spiritual practice, ecological
   work, and international community life.
 wikidata: Q590361
@@ -18,10 +18,10 @@ image: auroville.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Auroville_pondicherry.jpg
 image_license: CC BY-SA 4.0
 image_attribution: PIYUSH P PUJARI
-heritage: 4.37
-vibrancy: 4.92
-nature: 3.159
-off_the_beaten_track: 4.777
+heritage: 3.875
+vibrancy: 4.571
+nature: 2.619
+off_the_beaten_track: 4.602
 ---
 
 Auroville is an experimental township north of Pondicherry, founded in 1968 around the idea of a universal city beyond nationality and religion. That can sound abstract until you arrive: red-earth lanes, casuarina shade, quiet workshops, solar kitchens, handmade instruments, reforested plots, and visitors moving between spiritual curiosity and very practical community projects.

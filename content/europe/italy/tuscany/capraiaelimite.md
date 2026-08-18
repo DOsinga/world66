@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Veduta_di_capraia_dal_pont
 latitude: 43.7596
 loc_type: city
 longitude: 10.9997
-score: 4.586
+score: 4.766
 snippet: Tuscan Arno-side comune where old shipbuilding traditions meet Montalbano
   hill trails and villas.
 title: Capraia e Limite
 type: location
-heritage: 3.467
-vibrancy: 2.216
-nature: 5.639
-off_the_beaten_track: 3.371
+heritage: 3.625
+vibrancy: 2.15
+nature: 5.851
+off_the_beaten_track: 3.546
 ---
 
 Capraia e Limite is a small comune on the slopes of the Montalbano hills between Florence and Empoli. It is not a conventional tourist destination, but the hills above the Arno here are laced with old walking trails that follow medieval trade routes, passing Romanesque churches and rural estates.

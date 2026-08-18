@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Vivekananda_Rock_Memorial,
 latitude: 8.077516
 loc_type: city
 longitude: 77.552346
-score: 5.492
+score: 5.231
 snippet: Southern tip of India where three seas meet beside temples, memorial rocks,
   and multicoloured sand.
 title: Kanyakumari
 type: location
-heritage: 6.022
-vibrancy: 5.333
-nature: 4.466
-off_the_beaten_track: 2.769
+heritage: 5.853
+vibrancy: 4.904
+nature: 5.101
+off_the_beaten_track: 2.706
 ---
 
 Kanyakumari is at the very tip of India, the point where the Bay of Bengal, the Arabian Sea, and the Indian Ocean converge. For Hindus it's a sacred place of pilgrimage; for everyone else it's one of those geographically compelling spots that justifies the journey on its own terms.

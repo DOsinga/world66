@@ -13,13 +13,13 @@ sources:
 - https://en.wikivoyage.org/wiki/Ollantaytambo
 title: Ollantaytambo
 type: location
-score: 6.332
+score: 6.506
 snippet: Sacred Valley Inca town where 15th-century streets and irrigation channels
   are still in use.
-heritage: 7.44
-vibrancy: 3.715
-nature: 5.83
-off_the_beaten_track: 2.815
+heritage: 7.58
+vibrancy: 3.103
+nature: 6.137
+off_the_beaten_track: 2.272
 ---
 
 Ollantaytambo is one of the few surviving examples of Inca urban planning still inhabited today. The town sits at the western end of the Sacred Valley, 72 km from [Cusco](/southamerica/peru/cuzco) by road, where the Urubamba River narrows and the valley walls close in dramatically. What makes Ollantaytambo unusual is that the streets of the original Inca settlement are still in use — you walk down narrow alleys between stone walls built in the 15th century, past doorways and irrigation channels that predate the Spanish conquest by half a century.

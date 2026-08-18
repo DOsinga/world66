@@ -11,15 +11,15 @@ image_source: https://www.flickr.com/photos/38911919@N00/14136857869
 latitude: 51.5719
 loc_type: city
 longitude: 4.7683
-score: 3.39
+score: 3.223
 snippet: Southern Dutch student town of cafe terraces, Brabantine Gothic, and a relaxed
   old centre.
 title: Breda
 type: location
-heritage: 2.886
-vibrancy: 3.607
-nature: 2.004
-off_the_beaten_track: 0.703
+heritage: 3.59
+vibrancy: 3.053
+nature: 1.984
+off_the_beaten_track: 0.862
 ---
 
 Breda is a quiet student town in the south of the Netherlands, halfway between [Rotterdam](/europe/netherlands/rotterdam) and [Antwerp](/europe/belgium/antwerp). It has the warmth of a southern city without the crowds -- locals like to call it the most northern city of Southern Europe. There is something to that. The cafe terraces around the [Grote Markt](/europe/netherlands/breda/grote_markt) fill up fast, the people are friendly, and the pace is unhurried.

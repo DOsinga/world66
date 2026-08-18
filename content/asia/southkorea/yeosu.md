@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: 34.7604
 longitude: 127.6622
-score: 5.799
+score: 5.618
 snippet: South Korean port city of island views, night bridges, seafood, and Admiral
   Yi history.
 sources:
 - https://en.wikivoyage.org/wiki/Yeosu
 - https://en.wikipedia.org/wiki/Yeosu
 - https://en.wikipedia.org/wiki/Hyangiram
-heritage: 4.764
-vibrancy: 5.628
-nature: 6.241
-off_the_beaten_track: 3.151
+heritage: 4.098
+vibrancy: 5.21
+nature: 6.191
+off_the_beaten_track: 3.186
 ---
 
 Yeosu is a south-coast port spread across a peninsula and a scatter of islands. It has enough city around the harbour to feel busy, but the best parts look outward: bridges lit over black water, ferry docks, camellia paths, seafood markets, and Buddhist steps climbing toward sea cliffs.

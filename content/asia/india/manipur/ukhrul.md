@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Partial_View_of_North-East
 latitude: 25.098265
 loc_type: city
 longitude: 94.363167
-score: 5.649
+score: 5.035
 snippet: Manipur hill station and Tangkhul Naga centre, known for forested ridges
   and the rare Shirui lily.
 title: Ukhrul
 type: location
-heritage: 4.934
-vibrancy: 1.687
-nature: 6.545
-off_the_beaten_track: 7.245
+heritage: 5.191
+vibrancy: 1.513
+nature: 5.584
+off_the_beaten_track: 7.276
 ---
 
 Ukhrul is the district headquarters of Ukhrul district in eastern Manipur, about 80 km from Imphal at an altitude of around 1,830 metres in the Naga Hills. It is the highest hill station in Manipur and the cultural centre of the Tangkhul Naga people. The surrounding hills are covered in forests and the area is known for the Shirui lily — a rare flower found only on [Shirui peak](/asia/india/manipur/ukhrul/shirui_peak) and celebrated at the annual Shirui Lily Festival in May. The hills offer trekking, a cool climate, and a genuine immersion in Tangkhul Naga life that is hard to find in more accessible parts of the Northeast.

@@ -2,7 +2,7 @@
 latitude: 45.4553
 loc_type: city
 longitude: -123.8425
-score: 5.288
+score: 5.17
 snippet: Oregon dairy town and Three Capes base, where cheese, bays, and headland
   walks meet.
 sources:
@@ -11,10 +11,10 @@ sources:
 - https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=134
 title: Tillamook
 type: location
-heritage: 2.301
-vibrancy: 2.413
-nature: 7.031
-off_the_beaten_track: 3.204
+heritage: 2.385
+vibrancy: 1.83
+nature: 6.904
+off_the_beaten_track: 3.636
 ---
 
 Tillamook is a working dairy town just inland from the North Oregon Coast, best known for its creamery but better used as a base for the rougher, quieter coast around Tillamook Bay and the Three Capes Scenic Route. It is not a polished beach resort. That is part of the appeal: farms, fog, cheese, fishing boats, and big Pacific weather all sit close together.

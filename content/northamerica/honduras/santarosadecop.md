@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Santa_Rosa_de_Cop%C3%A1n_C
 latitude: 14.7717
 loc_type: city
 longitude: -88.7794
-score: 5.569
+score: 5.312
 snippet: Western Honduran highland town of cobblestones, mild air, and Flor de Copán
   cigar country.
 title: Santa Rosa de Copán
 type: location
-heritage: 6.403
-vibrancy: 3.214
-nature: 5.447
-off_the_beaten_track: 5.004
+heritage: 5.962
+vibrancy: 3.195
+nature: 5.526
+off_the_beaten_track: 4.111
 ---
 
 Santa Rosa de Copán is a colonial town in the western highlands of [Honduras](/northamerica/honduras), sitting at about 1,100 metres where the air stays mild year-round. Its cobblestone streets and whitewashed buildings give it more character than most Honduran cities, and it makes a natural base for visiting the Maya ruins at [Copán](/northamerica/honduras/copan) an hour to the north.

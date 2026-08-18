@@ -16,7 +16,7 @@ quick_facts:
   On Two Rivers: Chari meets the Logone
   Population: ~1.6 million
   Renamed: N'Djamena in 1973
-score: 3.466
+score: 4.1
 snippet: Chadian capital on the Chari River, where Sahel markets meet the Cameroon
   border.
 tip: N'Djamena sits where the Chari River meets the Cameroon border — you can see
@@ -25,10 +25,10 @@ tip: N'Djamena sits where the Chari River meets the Cameroon border — you can 
   need permits and care to travel further; arrange a local fixer in advance.
 title: N'Djamena
 type: location
-heritage: 1.173
-vibrancy: 1.03
-nature: 1.548
-off_the_beaten_track: 6.663
+heritage: 3.389
+vibrancy: 1.34
+nature: 1.924
+off_the_beaten_track: 6.967
 ---
 
 N'Djamena, formerly Fort Lamy under French colonial rule, is the capital and largest city of [Chad](/africa/chad). It sits on the Chari River across from Kousseri in Cameroon, and it is where nearly every trip to Chad begins and ends. It is not a city you visit for its own sake, but it has its own rough charm if you give it time.

@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:World%E2%80%99s_Largest_Bu
 latitude: 17.148888888888887
 loc_type: city
 longitude: 121.88944444444445
-score: 3.145
+score: 3.454
 snippet: Isabela capital with Sierra Madre caves, a WWII tunnel, and a huge wooden
   butaka.
 sources:
@@ -18,10 +18,10 @@ sources:
 title: Ilagan
 type: location
 wikidata: Q50179
-heritage: 2.09
-vibrancy: 1.609
-nature: 3.652
-off_the_beaten_track: 4.009
+heritage: 2.279
+vibrancy: 1.989
+nature: 4.273
+off_the_beaten_track: 3.539
 ---
 
 Ilagan is the capital of Isabela, stretched along the highway through the Cagayan Valley. It is a working provincial city first, not a polished tourist town, but it has enough character to reward a traveller already moving between Cauayan and Tuguegarao.

@@ -2,7 +2,7 @@
 latitude: 55.9358
 loc_type: city
 longitude: -129.9908
-score: 5.829
+score: 6.195
 snippet: Remote British Columbia border town boxed in by glaciers, rainforest, and
   the Portland Canal.
 sources:
@@ -12,10 +12,10 @@ sources:
 title: Stewart
 type: location
 wikidata_id: Q795211
-heritage: 4.171
-vibrancy: 1.841
-nature: 7.267
-off_the_beaten_track: 4.321
+heritage: 4.588
+vibrancy: 1.539
+nature: 7.658
+off_the_beaten_track: 4.845
 ---
 
 Stewart sits at the head of the Portland Canal, a long saltwater fjord on the British Columbia-Alaska border. It is small, wet, and hemmed in by mountains so steep that the town feels like it has been squeezed into the last flat ground before the icefields begin.

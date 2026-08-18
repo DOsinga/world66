@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Lake_Tanganyika_,Kigoma_po
 latitude: -4.8833
 loc_type: city
 longitude: 29.6333
-score: 5.603
+score: 6.125
 snippet: Lake Tanganyika port town serving as the base for Gombe and Mahale chimpanzee
   forests.
 title: Kigoma
 type: location
-heritage: 3.191
-vibrancy: 1.705
-nature: 6.639
-off_the_beaten_track: 6.703
+heritage: 2.838
+vibrancy: 2.085
+nature: 7.444
+off_the_beaten_track: 6.717
 ---
 
 Kigoma is the main Tanzanian town on **[Lake Tanganyika](/africa/tanzania/laketanganyika)**, tucked into a wooded hillside above one of the deepest and most ancient lakes on earth. It is a long way from anywhere — most travellers arrive on the old German-built railway from [Dar es Salaam](/africa/tanzania/daressalaam), a journey of two or three nights that ends with the train rolling down to the shore through stands of oil palm and mango. The town itself is small and unhurried, a working port with a single main street, a busy fishing harbour, and the kind of warm equatorial light that makes the lake look almost theatrical at sunset.

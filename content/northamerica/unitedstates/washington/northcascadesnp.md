@@ -4,15 +4,15 @@ done:
 latitude: 48.808349
 loc_type: feature
 longitude: -121.406215
-score: 6.619
+score: 6.784
 snippet: Rugged Washington national park of jagged peaks, old-growth forest, and hundreds
   of glaciers.
 title: North Cascades NP
 type: location
-heritage: 2.801
-vibrancy: 1.67
-nature: 8.435
-off_the_beaten_track: 5.979
+heritage: 3.387
+vibrancy: 1.008
+nature: 8.495
+off_the_beaten_track: 6.621
 ---
 
 North Cascades National Park is one of the wildest places in the lower 48 states — a rugged landscape of jagged peaks, over 300 glaciers, and dense old-growth forest that sees far fewer visitors than its neighbors Mount Rainier and Olympic. The park is sometimes called the "American Alps" for its steep, heavily glaciated terrain.

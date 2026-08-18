@@ -14,7 +14,7 @@ quick_facts:
   Plastic Bags: Banned nationwide
   Population: ~1.7 million
   Umuganda: Monthly clean-up morning
-score: 5.843
+score: 5.844
 snippet: Hilltop Rwandan capital spread across green ridges, known for orderly streets
   and the Kigali Genocide Memorial.
 tip: Kigali is famously one of the cleanest, safest and most orderly cities in Africa
@@ -24,10 +24,10 @@ tip: Kigali is famously one of the cleanest, safest and most orderly cities in A
   time.
 title: Kigali
 type: location
-heritage: 3.884
-vibrancy: 6.029
-nature: 5.364
-off_the_beaten_track: 4.571
+heritage: 3.662
+vibrancy: 6.046
+nature: 5.321
+off_the_beaten_track: 4.657
 ---
 
 Kigali is one of the cleanest, safest, and most surprising capital cities in Africa. Spread across a series of lush hills and valleys, it has transformed itself remarkably since the 1994 genocide. The streets are spotless (plastic bags are banned nationwide), the roads are good, and the city hums with quiet ambition. It is not a place you pass through — it deserves a few days of your time.

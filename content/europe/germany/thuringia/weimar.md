@@ -10,15 +10,15 @@ image_source: https://www.flickr.com/photos/22890158@N08/2288697701
 latitude: 50.97933
 loc_type: city
 longitude: 11.329792
-score: 5.954
+score: 4.977
 title: Weimar
 snippet: Small Thuringian cultural city associated with Goethe, Schiller, the Weimar
   Republic, and the Bauhaus.
 type: location
-heritage: 7.459
-vibrancy: 3.965
-nature: 2.771
-off_the_beaten_track: 2.762
+heritage: 5.972
+vibrancy: 3.848
+nature: 2.998
+off_the_beaten_track: 2.9
 ---
 
 Despite its modest size — around 65,000 inhabitants — Weimar has punched far above its weight in German history. Goethe and Schiller both lived and worked here; so did Herder, Nietzsche, Liszt, and the Cranach dynasty of painters. J.S. Bach held his first major court appointment in the city. In the early twentieth century, Weimar gave its name to the democratic republic established after World War I, and Walter Gropius founded the Bauhaus school here in 1919. It is an extraordinary concentration of cultural legacy for a small Thuringian city.

@@ -10,15 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Victoria_Memorial_Kolkata.
 latitude: 22.5726
 loc_type: city
 longitude: 88.3639
-score: 8.804
+score: 8.622
 snippet: West Bengal metropolis on the Hooghly River, known for colonial architecture
   and Bengali cultural life.
 title: Calcutta
 type: location
-heritage: 7.6
-vibrancy: 9.327
-nature: 0.554
-off_the_beaten_track: 2.059
+heritage: 6.965
+vibrancy: 9.316
+nature: 2.137
+off_the_beaten_track: 2.117
 ---
 
 Kolkata -- still called Calcutta by most of its residents and all of its admirers -- is unlike any other Indian city. It is crumbling and grand, intellectual and chaotic, desperately poor and culturally wealthy. As the capital of British India until 1911, it accumulated some of the subcontinent's finest colonial architecture, and as the hometown of Rabindranath Tagore, Satyajit Ray, and Mother Teresa, it holds an outsized place in India's cultural life.

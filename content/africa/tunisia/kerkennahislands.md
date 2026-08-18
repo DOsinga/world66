@@ -10,13 +10,13 @@ loc_type: island
 longitude: 11.1833
 title: Kerkennah Islands
 type: location
-score: 5.795
+score: 5.828
 snippet: Flat Tunisian archipelago off Sfax, known for shallow seas and palm-frond
   charfia fishing traps.
-heritage: 5.239
-vibrancy: 1.762
-nature: 6.761
-off_the_beaten_track: 6.697
+heritage: 4.28
+vibrancy: 1.548
+nature: 7.058
+off_the_beaten_track: 6.474
 ---
 
 The Kerkennah Islands lie about 20 km off the coast of **[Sfax](/africa/tunisia/sfax)** in the Gulf of Gabès — a flat, sandy archipelago, mostly two main islands (Gharbi and Chergui) connected by a Roman causeway. Nothing here rises more than 13 metres above sea level. The horizon is enormous, the light is hard and clean, and the water is shallow enough that you can wade out a hundred metres before it reaches your waist. The whole place feels like a different country from mainland Tunisia: slower, quieter, more Berber than Arab, and visibly poorer.

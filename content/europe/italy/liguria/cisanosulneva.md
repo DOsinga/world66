@@ -9,17 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Cixan_(U_Burgu,_daa_Stradd
 latitude: 44.0864
 loc_type: city
 longitude: 8.1474
-score: 3.258
+score: 3.533
 snippet: Medieval Ligurian village on the Neva, preserving a quadrangular plan, corner
   towers, and olive-growing hamlets.
 tags:
 - rivieradellepalme
 title: Cisano sul Neva
 type: location
-heritage: 2.615
-vibrancy: 1.977
-nature: 3.942
-off_the_beaten_track: 1.776
+heritage: 3.411
+vibrancy: 2.151
+nature: 4.03
+off_the_beaten_track: 1.65
 ---
 
 A medieval village on the left bank of the Neva, upstream of its confluence with the Centa. Cisano still has its original quadrangular plan, with a tower set at each corner of the settlement. The parish church of [Santa Maria Maddalena](/europe/italy/liguria/cisanosulneva/santa_maria_maddalena) stands opposite the civic tower, which was converted from a late Romanesque campanile.

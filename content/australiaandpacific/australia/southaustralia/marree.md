@@ -2,7 +2,7 @@
 latitude: -29.633333
 loc_type: city
 longitude: 138.05
-score: 6.078
+score: 5.764
 snippet: Tiny South Australian outback town where old Ghan history meets desert tracks.
 sources:
 - https://en.wikivoyage.org/wiki/Marree
@@ -13,10 +13,10 @@ image: marree.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Marree_2004_-_panoramio_(2).jpg
 image_license: CC BY-SA 3.0
 image_attribution: ogwen
-heritage: 5.041
-vibrancy: 1.387
-nature: 7.284
-off_the_beaten_track: 6.944
+heritage: 2.987
+vibrancy: 1.269
+nature: 6.812
+off_the_beaten_track: 6.952
 ---
 
 Marree is a tiny outback town at the meeting point of the Oodnadatta and Birdsville tracks, north of the Flinders Ranges and far from the comfortable edges of South Australia. It was once Hergott Springs, then a railway and cattle-loading town on the old Ghan route, and today it feels like a place left behind by the map rather than polished for visitors.

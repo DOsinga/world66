@@ -5,7 +5,7 @@ loc_type: city
 latitude: 23.1811
 longitude: -102.8729
 wikidata: Q1816543
-score: 4.99
+score: 4.062
 snippet: Zacatecas silver city with a working mining identity and the Plateros pilgrimage
   sanctuary nearby.
 sources:
@@ -17,10 +17,10 @@ image: fresnillo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Parroquia_de_la_Purificacion_Fresnillo_Zacatecas.jpg
 image_license: CC BY 2.0
 image_attribution: Eneas De Troya
-heritage: 6.139
-vibrancy: 3.551
-nature: 3.213
-off_the_beaten_track: 2.847
+heritage: 4.545
+vibrancy: 3.809
+nature: 3.324
+off_the_beaten_track: 3.057
 ---
 
 Fresnillo is a silver city north of [Zacatecas](/northamerica/mexico/zacatecas), less pretty than the state capital but more direct about what made the region rich. Mining is not background history here. It is the city's working identity, visible in the Proaño mine area and in the old institutions built around it.

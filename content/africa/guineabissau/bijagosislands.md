@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Archipel_Bolama-Bijagos_Ra
 latitude: 11.25
 loc_type: city
 longitude: -16.0
-score: 6.16
+score: 5.788
 snippet: Atlantic archipelago of mangroves, palm forests, and saltwater hippos off
   Guinea-Bissau.
 title: Bijagos Islands
 type: location
-heritage: 2.878
-vibrancy: 0.972
-nature: 7.456
-off_the_beaten_track: 6.856
+heritage: 2.801
+vibrancy: 1.083
+nature: 6.924
+off_the_beaten_track: 6.71
 ---
 
 The Bijagos archipelago is the highlight of Guinea-Bissau and one of the most remarkable island groups in Africa. Eighty-eight islands, of which only about twenty are permanently inhabited, spread across the Atlantic off the coast. UNESCO declared it a Biosphere Reserve, and it is easy to see why: long white-sand beaches, dense palm forests, mangrove channels teeming with birdlife, and waters rich with fish.

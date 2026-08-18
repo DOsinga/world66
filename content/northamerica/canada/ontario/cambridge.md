@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2011-07-06_07-08_Kanada,_O
 latitude: 43.3601
 loc_type: city
 longitude: -80.3123
-score: 4.592
+score: 4.938
 snippet: Waterloo Region city where Galt, Preston, and Hespeler meet along the Grand
   and Speed rivers
 title: Cambridge
 type: location
-heritage: 3.744
-vibrancy: 4.678
-nature: 4.369
-off_the_beaten_track: 0.952
+heritage: 3.226
+vibrancy: 5.133
+nature: 4.434
+off_the_beaten_track: 1.001
 ---
 
 Cambridge sits at the confluence of the Grand and Speed rivers in Ontario's Region of Waterloo, about an hour west of Toronto. It was formed in 1973 by merging three older communities — Galt, Preston, and Hespeler — and that layered history is still visible on the ground. Walk through Galt's downtown and you'll find a compact Victorian streetscape built mostly of local limestone, unusually intact for a city of this size.

@@ -9,15 +9,15 @@ image_source: https://www.flickr.com/photos/55898913@N04/17129262943
 latitude: 51.479556
 loc_type: city
 longitude: -3.70407
-score: 3.955
+score: 4.13
 snippet: South Wales seaside resort on the Heritage Coast, with beaches at Sandy Bay
   and Trecco Bay.
 title: Porthcawl
 type: location
-heritage: 2.173
-vibrancy: 2.856
-nature: 4.751
-off_the_beaten_track: 1.767
+heritage: 2.054
+vibrancy: 2.965
+nature: 4.969
+off_the_beaten_track: 1.58
 ---
 
 Porthcawl is a seaside resort on the Heritage Coast of South Wales, popular with visitors from the South Wales valleys for its three beaches: [Sandy Bay](/europe/unitedkingdom/wales/porthcawl/sandy_bay), the busiest, behind the funfair at [Coney Beach](/europe/unitedkingdom/wales/porthcawl/coney_beach); [Trecco Bay](/europe/unitedkingdom/wales/porthcawl/trecco_bay) to the east, dominated by one of Europe's largest static caravan parks; and [Rest Bay](/europe/unitedkingdom/wales/porthcawl/rest_bay) to the north, which has better surf and is used for competitive surfing. The town has a pleasant esplanade and harbour area with the 1932 art-deco [Grand Pavilion](/europe/unitedkingdom/wales/porthcawl/grand_pavilion), still in regular use, and a stubby cast-iron [lighthouse](/europe/unitedkingdom/wales/porthcawl/porthcawl_lighthouse) on the breakwater that vanishes in spray during winter storms.

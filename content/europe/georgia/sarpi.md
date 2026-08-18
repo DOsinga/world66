@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Sarpi_Village.jpg
 latitude: 41.521898
 loc_type: city
 longitude: 41.548918
-score: 5.399
+score: 4.713
 snippet: Georgian border village on the Turkish frontier, with a pebbly beach and
   mixed Adjara traditions
 title: Sarpi
 type: location
-heritage: 7.102
-vibrancy: 2.911
-nature: 2.377
-off_the_beaten_track: 2.778
+heritage: 6.211
+vibrancy: 2.518
+nature: 2.219
+off_the_beaten_track: 2.765
 ---
 
 Sarpi is a border village on the Georgian-Turkish frontier, about 12 kilometres south of [Batumi](/europe/georgia/batumi). The border crossing itself is hard to miss — a futuristic swooping building by Georgian architect Jurgen Mayer H. that looks wildly out of place in this sleepy coastal settlement. It is one of the busiest land crossings between Georgia and Turkey, used by traders, truckers, and travellers heading to or from Trabzon and the eastern Turkish coast.

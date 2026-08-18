@@ -15,7 +15,7 @@ Held annually in Sapporo's Odori Park over about a week in early February, this 
 
 **Cherry Blossom (Sakura Matsuri) — March to May**
 
-Not a single event but a nationwide season. As cherry trees bloom from south to north, people gather under them for hanami — picnics, sake, and conversation beneath falling pink petals. Ueno Park and Shinjuku Gyoen in [Tokyo](/asia/japan/tokyo), Maruyama Park in Kyoto, and Hirosaki Castle in Aomori are among the most celebrated spots. The timing shifts year to year; websites track the blossom forecast from January onwards.
+Not a single event but a nationwide season. As cherry trees bloom from south to north, people gather under them for hanami — picnics, sake, and conversation beneath falling pink petals. Ueno Park and Shinjuku Gyoen in [Tokyo](/asia/japan/kanto/tokyo), Maruyama Park in Kyoto, and Hirosaki Castle in Aomori are among the most celebrated spots. The timing shifts year to year; websites track the blossom forecast from January onwards.
 
 **Gion Matsuri — July (Kyoto)**
 

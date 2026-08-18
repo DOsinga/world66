@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 40.3736
 longitude: 28.8887
-score: 3.415
+score: 3.677
 snippet: Marmara port near Bursa, known for the armistice that opened the way to modern
   Turkey.
 wikidata: Q856171
@@ -12,10 +12,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Mudanya
 - https://www.turkishmuseums.com/museum/detail/2013-bursa-mudanya-armistice-museum/2013/4
 - https://en.wikipedia.org/wiki/Mudanya_Armistice_House
-heritage: 3.596
-vibrancy: 2.435
-nature: 3.769
-off_the_beaten_track: 1.934
+heritage: 4.089
+vibrancy: 2.532
+nature: 3.91
+off_the_beaten_track: 1.947
 ---
 
 Mudanya is Bursa's port on the Sea of Marmara, close enough to the city to work as a short escape but with a different mood: sea air, old Greek and Ottoman houses, ferry traffic, olive hills, and a waterfront that looks back toward Istanbul.

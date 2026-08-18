@@ -4,15 +4,15 @@ done:
 latitude: 34.257607
 loc_type: city
 longitude: -88.703386
-score: 2.164
+score: 2.059
 snippet: Northern Mississippi city best known as Elvis Presley's birthplace and a
   gateway to the Natchez Trace.
 title: Tupelo
 type: location
-heritage: 2.277
-vibrancy: 2.138
-nature: 2.106
-off_the_beaten_track: 1.596
+heritage: 2.327
+vibrancy: 1.882
+nature: 1.96
+off_the_beaten_track: 1.873
 ---
 
 Tupelo is a city of about 40,000 people in northeastern Mississippi, best known to the world as the birthplace of Elvis Presley. The small shotgun house on Old Saltillo Road where Elvis was born on 8 January 1935 is now preserved as the Elvis Presley Birthplace and Museum — a modest, almost touching site that gives a real sense of the poverty the family grew up in. The small white house cost his father Vernon $180 to build, and it's been maintained largely as it was.

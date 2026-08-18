@@ -2,7 +2,7 @@
 latitude: 46.0626
 loc_type: city
 longitude: 8.6946
-score: 5.631
+score: 5.6
 snippet: Medieval lakeside town near the Swiss border with a beautiful waterfront
   piazza and access to the Cannobino gorge.
 tags:
@@ -13,10 +13,10 @@ image: cannobio.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cannobio_Panorama.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Mabit1
-heritage: 5.392
-vibrancy: 4.596
-nature: 6.442
-off_the_beaten_track: 3.397
+heritage: 5.073
+vibrancy: 4.449
+nature: 6.529
+off_the_beaten_track: 3.173
 ---
 
 Cannobio sits at the northern end of the Italian shore, where the lake narrows and the mountains crowd closer to the water. It is the most atmospheric of the western shore towns: a medieval core of tall, painted houses presses down to the waterfront, and the Piazza Vittorio Emanuele III — an arcaded square partly overhanging the water — is one of the most beautiful town squares on the lake. On Sundays the piazza fills with a local market.

@@ -5,7 +5,7 @@ loc_type: city
 latitude: 44.0247
 longitude: -88.5511
 wikidata: Q936741
-score: 3.691
+score: 3.767
 snippet: Lake Winnebago city famous for AirVenture, aviation museums, and old Fox
   River industry.
 sources:
@@ -13,10 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Oshkosh,_Wisconsin
 - https://www.eaa.org/eaa-museum
 - https://www.thepaine.org/
-heritage: 3.264
-vibrancy: 2.979
-nature: 4.281
-off_the_beaten_track: 1.749
+heritage: 3.601
+vibrancy: 2.921
+nature: 4.313
+off_the_beaten_track: 1.888
 ---
 
 Oshkosh sits on the west shore of Lake Winnebago, but its name travels much farther than the lake. To pilots, homebuilders, and anyone who loves aircraft, "Oshkosh" usually means [EAA AirVenture](/northamerica/unitedstates/wisconsin/oshkosh/eaa_airventure), the huge summer fly-in that briefly turns Wittman Regional Airport into one of the busiest places in aviation.

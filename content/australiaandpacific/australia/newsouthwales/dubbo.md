@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -32.2483
 longitude: 148.6011
-score: 5.075
+score: 5.262
 snippet: Central West city with an open-range zoo, convict gaol, river trails, and
   outback aviation stories.
 image: dubbo.jpg
@@ -16,10 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Dubbo
 - https://www.visitnsw.com/destinations/country-nsw/dubbo-area/dubbo
 wikidata: Q706105
-heritage: 3.053
-vibrancy: 3.838
-nature: 6.011
-off_the_beaten_track: 2.211
+heritage: 2.688
+vibrancy: 4.004
+nature: 6.221
+off_the_beaten_track: 2.143
 ---
 
 Dubbo is the Central West city that makes the inland road west of the Blue Mountains feel like it has properly opened out. It is big enough to work as a base, but its best attractions are not generic country-town fillers: the open-range zoo, the preserved gaol, the Royal Flying Doctor visitor centre, and the old homestead west of town each tell a different part of inland New South Wales.

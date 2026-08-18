@@ -2,15 +2,15 @@
 latitude: 47.996
 loc_type: city
 longitude: 19.5889
-score: 5.795
+score: 5.912
 snippet: UNESCO-protected Palóc village in the Northern Uplands, with a hilltop castle
   and living folk traditions
 title: Hollókő
 type: location
-heritage: 5.283
-vibrancy: 1.782
-nature: 6.743
-off_the_beaten_track: 3.957
+heritage: 5.486
+vibrancy: 1.596
+nature: 6.839
+off_the_beaten_track: 4.319
 ---
 
 Hollókő is a small village in the Cserhát hills of the Northern Uplands, about 100 km northeast of [Budapest](/europe/hungary/budapest), and one of the most carefully preserved examples of traditional rural Hungary. The Old Village — a single curving street of around sixty whitewashed houses with carved wooden balconies and a shingled wooden church — was the first village anywhere to be inscribed on the UNESCO World Heritage list, in 1987, recognised not for any single monument but for the way the whole settlement preserves the vernacular architecture and land-use patterns of the Palóc people who have lived here for centuries.

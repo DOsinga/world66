@@ -1,0 +1,42 @@
+---
+done:
+  city_tag_migration: '2026-04-17'
+  location_enrich: '2026-06-02'
+  major_city_neighborhoods: '2026-06-25'
+  poi_cleanup: '2026-04-19'
+image: osaka.jpg
+image_attribution: Laitche
+image_license: CC BY 2.5
+image_source: https://commons.wikimedia.org/wiki/File:Osaka_Castle_02bs3200.jpg
+latitude: 34.693757
+loc_type: city
+longitude: 135.501454
+quick_facts:
+  Castle Built: '1583'
+  Escalators: Stand on the right
+  Nickname: Japan's Kitchen
+  Population: 2.7 million
+score: 7.673
+snippet: Japanese metropolis of street food, entertainment districts, and frank merchant-city
+  energy
+tip: Osaka is Japan's kitchen — eat your way through Dotonbori (takoyaki, okonomiyaki,
+  kushikatsu) and embrace 'kuidaore', eating till you drop. Locals are warmer and
+  louder than in Tokyo, and they stand on the right of escalators (the opposite of
+  Tokyo). Use it as a base for Kyoto and Nara, both under an hour away.
+title: Osaka
+type: location
+heritage: 7.556
+vibrancy: 7.775
+nature: 4.212
+off_the_beaten_track: 1.015
+---
+
+Osaka is Japan's third-largest city and its most extroverted. Where Tokyo is polished and Kyoto is refined, Osaka is loud, friendly, and proud of its food. The local phrase is "kuidaore" — eat until you drop — and the city takes it seriously. [Takoyaki stalls, okonomiyaki restaurants](/asia/japan/kansai/osaka/eating_out), and [kushikatsu bars](/asia/japan/kansai/osaka/yoshimoto_infty) are everywhere.
+
+The city is built around two hubs. [Umeda](/asia/japan/kansai/osaka/umeda) in the north is the main business and shopping district, anchored by Osaka Station and the spectacular [Umeda Sky Building](/asia/japan/kansai/osaka/umeda_sky_building). [Namba](/asia/japan/kansai/osaka/namba) in the south is the entertainment centre, and [Dotonbori](/asia/japan/kansai/osaka/dotonbori) — lined with giant illuminated signs including the famous [Glico Running Man](/asia/japan/kansai/osaka/glico_man) and packed with restaurants and bars — is the visual heart of the city. Between the two, the covered [Shinsaibashi shopping arcade](/asia/japan/kansai/osaka/shinsaibashi) runs for over 600 metres, with the streetwear district of [Amerika-mura](/asia/japan/kansai/osaka/amerikamura) branching off to the west.
+
+[Osaka Castle](/asia/japan/kansai/osaka/osaka_castle) in the east of the city is the most recognisable landmark, surrounded by a large [park](/asia/japan/kansai/osaka/osaka_castle_park) that fills with cherry blossom viewers in April. South of the centre, [Shinsekai](/asia/japan/kansai/osaka/shinsekai) retains the city's pre-war character — narrow lanes, neon, and [Tsutenkaku Tower](/asia/japan/kansai/osaka/tsutenkaku) — while the [Shitennoji Temple](/asia/japan/kansai/osaka/shitennoji), Japan's oldest, anchors the Tennoji district. [Universal Studios Japan](/asia/japan/kansai/osaka/universal_studios_japan) draws visitors with children in the north.
+
+The culture island of [Nakanoshima](/asia/japan/kansai/osaka/nakanoshima) holds the [National Museum of Art](/asia/japan/kansai/osaka/national_museum_art), the [Museum of Oriental Ceramics](/asia/japan/kansai/osaka/museum_oriental_ceramics), and two of Japan's finest civic buildings: the [Central Public Hall](/asia/japan/kansai/osaka/osaka_central_public_hall) and the [Nakanoshima Library](/asia/japan/kansai/osaka/nakanoshima_library). [Kuromon Ichiba](/asia/japan/kansai/osaka/kuromon_ichiba) market in Namba is the best place to eat your way through the city's seafood.
+
+Osaka is the hub for exploring the Kansai region. Kyoto is 15 minutes by shinkansen; Nara is 45 minutes by train; Himeji Castle is 90 minutes west. [Minoh](/asia/japan/kansai/osaka/minoh) to the north offers waterfall hikes and autumn foliage within an hour of the centre. The city's efficient subway and private rail network makes it easy to combine with day trips.

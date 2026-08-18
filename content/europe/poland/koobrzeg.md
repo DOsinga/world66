@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_in_Ko%C5%82obrzeg_2.
 latitude: 54.1761
 loc_type: city
 longitude: 15.5766
-score: 4.866
+score: 5.132
 snippet: Baltic spa and resort city with a sandy seafront, old harbour, and rebuilt
   medieval street plan.
 title: Kołobrzeg
 type: location
-heritage: 4.702
-vibrancy: 4.865
-nature: 4.867
-off_the_beaten_track: 1.34
+heritage: 3.86
+vibrancy: 5.268
+nature: 4.78
+off_the_beaten_track: 1.31
 ---
 
 Kołobrzeg is Poland's most popular Baltic resort — a spa town, a historic fortress city, and a seaside playground rolled into one. Its long sandy beach draws Polish families in summer, while the old harbour and cathedral quarter give the town a depth that purely seasonal resorts rarely have.

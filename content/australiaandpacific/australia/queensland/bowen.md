@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bowen_township,_Coconut_pa
 latitude: -20.0137
 loc_type: city
 longitude: 148.2475
-score: 4.811
+score: 4.607
 snippet: Old North Queensland port town with quiet beaches, mango history, and Whitsunday
   views.
 sources:
@@ -17,10 +17,10 @@ sources:
 title: Bowen
 type: location
 wikidata: Q895407
-heritage: 2.196
-vibrancy: 2.51
-nature: 6.245
-off_the_beaten_track: 2.241
+heritage: 1.938
+vibrancy: 2.441
+nature: 5.961
+off_the_beaten_track: 1.939
 ---
 
 Bowen is the older, quieter face of the Whitsundays: a North Queensland port town with wide streets, mango farms, beaches on several sides, and none of Airlie Beach's sailing-town bustle. It was founded in 1861 and once had ambitions to be the capital of North Queensland. That did not happen, but the leftover scale gives the town a strangely spacious feel.

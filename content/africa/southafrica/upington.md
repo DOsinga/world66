@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -28.4572
 longitude: 21.2425
-score: 4.327
+score: 4.362
 snippet: Orange River oasis town where vineyards, palms, and Kalahari roads meet in
   the Northern Cape.
 wikidata: Q575780
@@ -15,10 +15,10 @@ sources:
 image: upington.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Upington.jpg
 image_license: CC BY-SA 3.0
-heritage: 3.369
-vibrancy: 3.208
-nature: 5.156
-off_the_beaten_track: 2.647
+heritage: 3.27
+vibrancy: 3.118
+nature: 5.254
+off_the_beaten_track: 2.834
 ---
 
 Upington is a green interruption in a very dry part of South Africa. The Orange River runs through town, feeding vineyards, date palms, gardens, and a strip of shade before the road pushes back into the Kalahari.

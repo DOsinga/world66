@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 26.534
 longitude: -100.507
-score: 5.426
+score: 5.348
 snippet: Small Nuevo Leon Pueblo Magico of caves, springs, mountain walls, and slow
   northern-town rhythm.
 sources:
@@ -13,10 +13,10 @@ sources:
 - https://www.nuevoleon.travel/parque-el-molino/
 - https://www.nuevoleon.travel/parque-ojo-de-agua/
 - https://sic.cultura.gob.mx/ficha.php?table=museo&table_id=1941
-heritage: 3.545
-vibrancy: 1.427
-nature: 6.569
-off_the_beaten_track: 6.033
+heritage: 2.641
+vibrancy: 1.529
+nature: 6.462
+off_the_beaten_track: 5.989
 ---
 
 Bustamante is a small Pueblo Magico north of Monterrey, tucked against pale limestone hills in a dry corner of Nuevo Leon. It is not polished, and that is part of the point: the town works best if you want caves, cold spring water, a quiet plaza, and a slower weekend than the city gives you.

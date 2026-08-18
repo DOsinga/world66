@@ -5,7 +5,7 @@ latitude: -42.4752
 longitude: -64.1149
 title: Valdes Peninsula
 type: location
-score: 6.502
+score: 6.67
 loc_type: feature
 snippet: Patagonian peninsula of cold beaches and rich marine wildlife, from whales
   to sea lions.
@@ -13,10 +13,10 @@ image: valdespeninsula.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Robben-001.jpg
 image_license: CC BY-SA 2.0 de
 image_attribution: Reinhard Jahn, Mannheim (nanosmile)
-heritage: 2.817
-vibrancy: 1.374
-nature: 8.312
-off_the_beaten_track: 5.786
+heritage: 2.642
+vibrancy: 1.235
+nature: 8.39
+off_the_beaten_track: 6.387
 ---
 
 Miles and miles of unspoiled beaches and some of the richest marine wildlife in South America -- that is what Valdes Peninsula offers. Since it is often too cold and windy to sunbathe, you are probably here to watch the animals, and on that front it delivers spectacularly.

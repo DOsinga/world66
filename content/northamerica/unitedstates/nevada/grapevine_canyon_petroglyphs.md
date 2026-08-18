@@ -6,14 +6,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Grapevine_Canyon_Rock_Art.
 latitude: 35.202
 loc_type: feature
 longitude: -114.696
-score: 5.484
+score: 5.079
 snippet: Ancient Mojave rock art in a dramatic canyon near the Colorado River
 title: Petroglyphs at Grapevine Canyon
 type: location
-heritage: 6.229
-vibrancy: 1.341
-nature: 5.536
-off_the_beaten_track: 3.531
+heritage: 5.74
+vibrancy: 1.389
+nature: 5.191
+off_the_beaten_track: 3.572
 ---
 
 Grapevine Canyon, about two hours southeast of Las Vegas near the Nevada-Arizona border, contains one of the most accessible concentrations of ancient petroglyphs in the Southwest. The images — spirals, bighorn sheep, human figures, and abstract patterns — were made by the Mojave people and date back over a thousand years. The trail from the parking area is short and mostly flat, following the canyon floor to where the rock art clusters on the canyon walls and boulders at the entrance.

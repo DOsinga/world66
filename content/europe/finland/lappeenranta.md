@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Lappeenranta_Landscape.jpg
 latitude: 61.0587
 loc_type: city
 longitude: 28.1887
-score: 4.769
+score: 4.537
 snippet: Lake Saimaa garrison city near Russia, with lakeside ramparts and a busy
   summer harbour.
 title: Lappeenranta
 type: location
-heritage: 3.924
-vibrancy: 3.59
-nature: 5.658
-off_the_beaten_track: 2.031
+heritage: 3.402
+vibrancy: 3.619
+nature: 5.283
+off_the_beaten_track: 2.113
 ---
 
 Lappeenranta sits at the southwest corner of Lake Saimaa, Finland's largest lake, just 30 kilometres from the Russian border. For over 350 years it has been a crossing point between Finnish and Russian cultures, a garrison town guarding the eastern frontier. That history is still visible in the [Lappeenranta Fortress](/europe/finland/lappeenranta/lappeenranta_fortress) on the lakeside hill, where 18th-century ramparts now house museums, craft workshops, and summer cafes.

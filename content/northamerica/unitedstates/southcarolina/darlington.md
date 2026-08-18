@@ -5,15 +5,15 @@ done:
 latitude: 34.3609
 loc_type: city
 longitude: -79.9439
-score: 2.65
+score: 2.432
 title: Darlington
 snippet: Small Pee Dee tobacco-country city famous for Darlington Raceway, NASCAR's
   oldest operating superspeedway
 type: location
-heritage: 2.33
-vibrancy: 2.159
-nature: 3.064
-off_the_beaten_track: 1.511
+heritage: 2.29
+vibrancy: 2.049
+nature: 2.779
+off_the_beaten_track: 1.583
 ---
 
 Darlington is a small tobacco-country city in the South Carolina Pee Dee region, and it punches well above its weight in one specific arena: motorsport. Darlington Raceway, which opened here in 1950, is NASCAR's oldest superspeedway still in operation — and arguably its most storied. The track's egg-shaped design (forced by a local landowner who refused to drain his minnow pond) gives it a peculiar, asymmetric personality that has humbled drivers ever since. They call it "The Track Too Tough To Tame."

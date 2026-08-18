@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cathedral_Vinnytsia_panora
 latitude: 49.2331
 loc_type: city
 longitude: 28.4682
-score: 4.923
+score: 4.398
 snippet: Central Ukrainian city on the Southern Bug, with riverside promenades and
   an unusual Pirogov museum.
 title: Vinnytsia
 type: location
-heritage: 5.493
-vibrancy: 4.648
-nature: 4.662
-off_the_beaten_track: 3.837
+heritage: 4.822
+vibrancy: 4.27
+nature: 4.508
+off_the_beaten_track: 3.853
 ---
 
 Vinnytsia is a pleasant mid-sized city in central Ukraine, straddling the Southern Bug River. It is one of those Ukrainian cities that rarely appears on tourist itineraries but has more to offer than you would expect — a handsome riverside promenade, good food, and a couple of genuinely unusual sights.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 42.8861
 longitude: -77.2817
-score: 4.673
+score: 4.787
 snippet: Finger Lakes city with a working lakefront, Victorian gardens, and an easy
   small-town main street.
 sources:
@@ -17,10 +17,10 @@ image: canandaigua.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Downtown_Canandaigua,_NY.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Daniel Case
-heritage: 4.922
-vibrancy: 4.198
-nature: 5.157
-off_the_beaten_track: 1.525
+heritage: 4.089
+vibrancy: 4.654
+nature: 5.131
+off_the_beaten_track: 1.479
 ---
 
 Canandaigua sits at the northern end of Canandaigua Lake, one of the broad, clear Finger Lakes south of Rochester. It is more workaday than storybook [Skaneateles](/northamerica/unitedstates/newyorkstate/skaneateles), but that is part of its appeal: a real small city with a long main street, boat traffic at the pier, and lake hills rising just beyond town.

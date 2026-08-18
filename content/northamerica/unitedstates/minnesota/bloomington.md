@@ -5,15 +5,15 @@ done:
 latitude: 44.840798
 loc_type: city
 longitude: -93.298163
-score: 4.636
+score: 4.404
 snippet: Minneapolis suburb home to Mall of America and riverside trails in Minnesota
   Valley National Wildlife Refuge.
 title: Bloomington
 type: location
-heritage: 1.762
-vibrancy: 4.728
-nature: 4.398
-off_the_beaten_track: 0.838
+heritage: 1.806
+vibrancy: 3.984
+nature: 4.901
+off_the_beaten_track: 0.861
 ---
 
 Bloomington is a southern suburb of Minneapolis best known as the home of Mall of America, the largest shopping mall in the United States. If mega-malls are your thing, this one delivers — it has an indoor amusement park, an aquarium, and over 500 stores spread across four floors.

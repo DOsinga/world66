@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -34.88
 longitude: 150.6
-score: 3.919
+score: 4.018
 snippet: Shoalhaven River twin towns with aviation heritage, bush walks, and a useful
   South Coast railhead.
 wikidata: Q1343021
@@ -16,10 +16,10 @@ image: nowra_and_bomaderry.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Nowra_Shoalhaven_RIver_Hang._Roc._Look..jpg
 image_license: CC BY-SA 4.0
 image_attribution: MrActiniuM
-heritage: 2.719
-vibrancy: 2.532
-nature: 4.851
-off_the_beaten_track: 3.073
+heritage: 2.633
+vibrancy: 2.601
+nature: 4.971
+off_the_beaten_track: 2.945
 ---
 
 Nowra and Bomaderry face each other across the Shoalhaven River, with Bomaderry as the railhead and Nowra as the main South Coast service town. This is not the beach fantasy of nearby Jervis Bay, but it has a useful mix of river scenery, heritage, and easy side trips.

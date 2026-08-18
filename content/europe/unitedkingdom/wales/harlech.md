@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 52.8599
 longitude: -4.1088
-score: 6.218
+score: 6.0
 snippet: Small Welsh castle town above dunes and beach on the western edge of Eryri.
 sources:
 - https://en.wikivoyage.org/wiki/Harlech
@@ -14,10 +14,10 @@ image: harlech.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Two_trains_at_Harlech_station,_with_Harlech_Castle_above_-_geograph.org.uk_-_5916272.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Ruth Sharville
-heritage: 7.561
-vibrancy: 3.931
-nature: 5.146
-off_the_beaten_track: 3.081
+heritage: 7.219
+vibrancy: 3.35
+nature: 5.139
+off_the_beaten_track: 2.779
 ---
 
 Harlech is a small town on the west coast of Wales, pinned between the mountains of Eryri and a wide sweep of dunes and beach. Its skyline is dominated by [Castell Harlech](/europe/unitedkingdom/wales/harlech/castell_harlech), one of Edward I's great north Wales castles and part of a UNESCO World Heritage Site.

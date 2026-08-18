@@ -7,7 +7,7 @@ done:
 latitude: -13.835043
 loc_type: city
 longitude: -76.249622
-score: 5.0
+score: 4.964
 sources:
 - https://en.wikipedia.org/wiki/Paracas_National_Reserve
 - https://en.wikipedia.org/wiki/Paracas_Candelabra
@@ -15,10 +15,10 @@ title: Paracas
 type: location
 snippet: Small Peruvian coastal town serving the Ballestas Islands and Paracas National
   Reserve.
-heritage: 5.562
-vibrancy: 1.746
-nature: 5.312
-off_the_beaten_track: 3.106
+heritage: 5.651
+vibrancy: 1.718
+nature: 4.983
+off_the_beaten_track: 3.072
 ---
 
 Paracas is a small coastal town south of [Pisco](/southamerica/peru/pisco), used mainly as a jumping-off point for two of Peru's best natural attractions: the [Islas Ballestas](/southamerica/peru/paracas/islas_ballestas) and the [Paracas National Reserve](/southamerica/peru/paracas/paracas_reserve).

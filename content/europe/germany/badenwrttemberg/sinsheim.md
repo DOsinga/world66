@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:%27F-BVFB%27_Air_France_Co
 latitude: 49.253122
 loc_type: city
 longitude: 8.876991
-score: 2.972
+score: 3.106
 snippet: Kraichgau town best known for a Technik Museum displaying Concorde and Tu-144
   aircraft.
 title: Sinsheim
 type: location
-heritage: 2.588
-vibrancy: 2.759
-nature: 3.274
-off_the_beaten_track: 0.938
+heritage: 3.545
+vibrancy: 2.756
+nature: 3.097
+off_the_beaten_track: 0.884
 ---
 
 Sinsheim is a small town in the Kraichgau hills between Heidelberg and Heilbronn, visited almost exclusively for one thing: the [Technik Museum](/europe/germany/badenwrttemberg/sinsheim/technik_museum). The collection of cars, motorcycles, and military vehicles is vast, but what makes it unmissable are the two full-sized aircraft mounted on the roof — a Concorde and a Tupolev Tu-144, the only place in the world where you can walk through both supersonic airliners side by side.

@@ -2,15 +2,15 @@
 latitude: 30.7899
 loc_type: city
 longitude: -91.3765
-score: 4.311
+score: 3.874
 snippet: Small antebellum town north of Baton Rouge, famous for its concentration
   of historic plantation houses and gardens.
 title: St. Francisville
 type: location
-heritage: 5.236
-vibrancy: 2.298
-nature: 3.581
-off_the_beaten_track: 2.367
+heritage: 4.745
+vibrancy: 2.167
+nature: 3.128
+off_the_beaten_track: 2.302
 ---
 
 St. Francisville is a small town in West Feliciana Parish, about 110 miles northwest of New Orleans and 25 miles north of Baton Rouge, perched on a bluff above the Mississippi. It is not a place for nightlife or shopping malls — it is a place to slow down and look at what the antebellum South actually built, in architecture and in landscape, before the Civil War ended it.

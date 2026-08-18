@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2022-08-21_01_MV_HIGHLANDE
 latitude: 47.5777
 loc_type: city
 longitude: -59.1424
-score: 5.388
+score: 5.241
 snippet: Southwestern Newfoundland ferry town with Basque whaling roots and a harbour
   exposed to the Atlantic.
 title: Channel-Port aux Basques
 type: location
-heritage: 2.21
-vibrancy: 1.577
-nature: 6.709
-off_the_beaten_track: 5.383
+heritage: 2.343
+vibrancy: 1.706
+nature: 6.446
+off_the_beaten_track: 5.498
 ---
 
 Channel-Port aux Basques is the gateway to Newfoundland — the ferry from North Sydney, Nova Scotia arrives here, and most visitors to the island pass through on their way in or out. The town sits at the southwestern tip of Newfoundland, exposed to the full force of the Atlantic.

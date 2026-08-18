@@ -10,13 +10,13 @@ loc_type: city
 snippet: Lebanese port city and Phoenician powerhouse, with Roman ruins spread across
   a UNESCO-listed peninsula
 longitude: 35.196402
-score: 6.591
+score: 6.058
 title: Tyre
 type: location
-heritage: 8.075
-vibrancy: 3.764
-nature: 5.317
-off_the_beaten_track: 3.775
+heritage: 7.359
+vibrancy: 3.875
+nature: 5.031
+off_the_beaten_track: 3.339
 ---
 
 Tyre (Sour in Arabic) was one of the great cities of the ancient world -- a Phoenician powerhouse that defied Nebuchadnezzar for 13 years and held out against Alexander the Great for seven months before he built a causeway from the shore to the island fortress. That causeway silted up over the centuries, turning the island into a peninsula. In 1980, UNESCO designated Tyre a World Heritage site for its impressive Roman and Phoenician remains.

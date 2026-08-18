@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ciudad_de_Heredia.JPG
 latitude: 10.0024
 loc_type: city
 longitude: -84.1165
-score: 5.068
+score: 5.081
 snippet: Costa Rican university city north of San José, nicknamed the City of Flowers
   for its garden streets
 title: Heredia
 type: location
-heritage: 3.952
-vibrancy: 3.276
-nature: 6.181
-off_the_beaten_track: 2.978
+heritage: 3.744
+vibrancy: 3.266
+nature: 6.289
+off_the_beaten_track: 3.155
 ---
 
 Heredia sits just ten kilometres north of San José, close enough to the capital that many residents commute daily, but distinct enough in character to feel like its own city. Founded in 1705 and nicknamed the City of Flowers for the gardens that fill its residential streets, Heredia is compact, walkable, and notably calmer than the capital. Its university population — the National University of Costa Rica is based here — gives it a lively café culture and a young, unpretentious energy.

@@ -9,17 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Pescasseroli_view.jpg
 latitude: 41.808401
 loc_type: city
 longitude: 13.789282
-score: 5.807
+score: 6.133
 tags:
 - abruzzonationalpark
 title: Pescasseroli
 type: location
 snippet: Mountain town inside Abruzzo, Lazio and Molise National Park, gateway to
   Apennine bear country.
-heritage: 3.274
-vibrancy: 1.413
-nature: 7.401
-off_the_beaten_track: 5.241
+heritage: 3.496
+vibrancy: 1.56
+nature: 7.768
+off_the_beaten_track: 5.695
 ---
 
 Pescasseroli is the main town inside Abruzzo, Lazio and Molise National Park — one of Italy's oldest protected areas and the last stronghold of the [Apennine brown bear](/europe/italy/abruzzo/pescasseroli/bear_watching). It's the most accessible point in the park, with bus connections to Rome and Pescara, and it makes the natural base for anyone wanting to explore the surrounding mountains and valleys.

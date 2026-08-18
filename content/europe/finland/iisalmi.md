@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 63.556667
 longitude: 27.188333
-score: 3.6
+score: 3.765
 snippet: Upper Savo lake town with Koljonvirta history, Juhani Aho, and Finland's
   Olvi brewery.
 wikidata: Q748533
@@ -18,10 +18,10 @@ image: iisalmi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Iisalmi_old_church.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Jisis
-heritage: 2.552
-vibrancy: 1.813
-nature: 4.498
-off_the_beaten_track: 2.797
+heritage: 2.775
+vibrancy: 1.934
+nature: 4.659
+off_the_beaten_track: 2.588
 ---
 
 Iisalmi is a small Upper Savo town between Kuopio and Kajaani, set among lakes and low forested country. It is not a headline destination, but it has enough local identity to justify a day if you are already moving through eastern Finland.

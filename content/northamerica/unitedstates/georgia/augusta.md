@@ -5,17 +5,17 @@ done:
 latitude: 33.470971
 loc_type: city
 longitude: -81.974843
-score: 4.395
+score: 3.899
 snippet: Georgia river city known for the Masters tournament and a brick-paved Savannah
   River waterfront.
 sources:
 - https://en.wikipedia.org/wiki/Augusta,_Georgia
 title: Augusta
 type: location
-heritage: 4.93
-vibrancy: 4.033
-nature: 4.576
-off_the_beaten_track: 1.877
+heritage: 4.108
+vibrancy: 3.824
+nature: 4.092
+off_the_beaten_track: 2.098
 ---
 
 Augusta is best known internationally for the Masters golf tournament, held every April at the Augusta National Golf Club. During Masters week the city fills up completely and prices spike enormously; book months in advance if you're coming for the tournament. For the other 51 weeks, Augusta National is closed to the public — you can drive past on Washington Road, but there's no access.

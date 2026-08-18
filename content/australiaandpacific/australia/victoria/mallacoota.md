@@ -2,7 +2,7 @@
 latitude: -37.55
 loc_type: city
 longitude: 149.75
-score: 5.22
+score: 5.347
 snippet: Remote East Gippsland coastal town beside inlets, beaches, and Croajingolong
   wilderness.
 sources:
@@ -12,10 +12,10 @@ sources:
 title: Mallacoota
 type: location
 wikidata: Q1002461
-heritage: 2.521
-vibrancy: 1.829
-nature: 6.829
-off_the_beaten_track: 4.136
+heritage: 2.827
+vibrancy: 1.488
+nature: 6.862
+off_the_beaten_track: 4.674
 ---
 
 Mallacoota is Victoria's far-eastern coastal town, tucked between the ocean, Mallacoota Inlet, and the forests of Croajingolong National Park. It feels remote because it is remote: the Princes Highway passes inland, and the final road into town winds down through quiet bush with the sense that you are leaving the busier coast behind.

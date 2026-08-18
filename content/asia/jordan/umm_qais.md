@@ -5,7 +5,7 @@ done:
 latitude: 32.654033
 loc_type: city
 longitude: 35.68446
-score: 4.715
+score: 5.178
 snippet: Northern Jordanian ridge village beside ancient Gadara, overlooking the Sea
   of Galilee and Yarmouk gorge.
 sources:
@@ -13,10 +13,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Umm_Qais
 title: Umm Qais
 type: location
-heritage: 5.22
-vibrancy: 2.428
-nature: 5.066
-off_the_beaten_track: 5.849
+heritage: 5.46
+vibrancy: 2.388
+nature: 5.712
+off_the_beaten_track: 5.116
 ---
 
 Umm Qais stands on a basalt-covered ridge in the far north of Jordan, looking out over one of the most dramatic panoramas in the Middle East: the Sea of Galilee (Lake Tiberias) glittering in the distance, the deep slash of the Yarmouk river gorge below, and the Golan Heights rising on the far side of the Syrian border. It is a view that makes the detour here entirely worthwhile, even before you have set eyes on the ruins.

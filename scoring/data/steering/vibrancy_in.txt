@@ -1,4 +1,4 @@
-asia/india/kolkata	8.668	1	Kolkata	Asia, India
+asia/india/westbengal/kolkata	8.668	1	Kolkata	Asia, India
 northamerica/unitedstates/illinois/chicago	8.600	2	Chicago	North America, United States, Illinois
 europe/sweden/stockholm	8.598	3	Stockholm	Europe, Sweden
 asia/turkey/asianpart	8.585	4	Asian Side (Kadıköy)	Asia, Turkey
@@ -15,7 +15,7 @@ northamerica/unitedstates/newyorkstate/newyork	8.494	14	New York	North America, 
 europe/netherlands/amsterdam	8.489	15	Amsterdam	Europe, Netherlands
 europe/unitedkingdom/england/london	8.474	16	London	Europe, United Kingdom, England
 asia/thailand/bangkok	8.471	17	Bangkok	Asia, Thailand
-asia/japan/tokyo	8.465	18	Tokyo	Asia, Japan
+asia/japan/kanto/tokyo	8.465	18	Tokyo	Asia, Japan
 europe/france/paris	8.461	19	Paris	Europe, France
 europe/spain/madrid	8.460	20	Madrid	Europe, Spain
 europe/italy/lombardia/milan	8.453	21	Milan	Europe, Italy, Lombardia
@@ -39,7 +39,7 @@ asia/iran/tehran	8.179	38	Tehran	Asia, Iran
 northamerica/mexico/mexicocity	8.133	39	Mexico City	North America, Mexico
 northamerica/unitedstates/florida/miamibeach	8.108	40	Miami Beach	North America, United States, Florida
 asia/india/tamilnadu/chennai	8.096	41	Chennai	Asia, India, Tamil Nadu
-europe/spain/spanishcostas/valencia	8.082	42	Valencia	Europe, Spain, Spanish Costas
+europe/spain/valencian_community/valencia	8.082	42	Valencia	Europe, Spain, Spanish Costas
 europe/france/cotedazur/cannes	8.077	43	Cannes	Europe, France, Cote d'Azur
 europe/italy/campania/naples	8.048	44	Naples	Europe, Italy, Campania
 europe/spain/andalucia/seville	8.047	45	Seville	Europe, Spain, Andalucia
@@ -52,7 +52,7 @@ asia/southkorea/pusan	8.007	51	Busan	Asia, South Korea
 europe/germany/berlin	8.007	52	Berlin	Europe, Germany
 southamerica/colombia/cartagena	8.007	53	Cartagena	South America, Colombia
 australiaandpacific/australia/victoria/melbourne	8.006	54	Melbourne	Australia, Pacific & Antarctica, Australia, Victoria
-asia/japan/honshu/osaka	8.004	55	Osaka	Asia, Japan, Honshu
+asia/japan/kansai/osaka	8.004	55	Osaka	Asia, Japan, Honshu
 europe/greece/athens	7.995	56	Athens	Europe, Greece
 northamerica/unitedstates/louisiana/neworleans	7.977	57	New Orleans	North America, United States, Louisiana
 europe/unitedkingdom/england/south_west/bristol	7.964	58	Bristol	Europe, United Kingdom, England, South West England
@@ -89,7 +89,6 @@ europe/unitedkingdom/wales/cardiff	7.744	88	Cardiff	Europe, United Kingdom, Wale
 europe/france/alsace/strasbourg	7.739	89	Strasbourg	Europe, France, Alsace
 northamerica/unitedstates/southcarolina/charleston	7.728	90	Charleston	North America, United States, South Carolina
 europe/italy/sicily/palermo	7.726	91	Palermo	Europe, Italy, Sicily
-northamerica/unitedstates/california/westhollywood	7.719	92	West Hollywood	North America, United States, California
 asia/pakistan/lahore	7.715	93	Lahore	Asia, Pakistan
 northamerica/unitedstates/washingtondc	7.708	94	Washington D.C.	North America, United States
 europe/switzerland/geneva	7.699	95	Geneva	Europe, Switzerland

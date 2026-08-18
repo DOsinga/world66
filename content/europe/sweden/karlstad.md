@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 59.3833
 longitude: 13.5333
-score: 4.908
+score: 4.76
 snippet: Värmland city where the Klarälven delta meets Lake Vänern, with art, parks,
   and sunny civic pride.
 wikidata: Q25457
@@ -14,10 +14,10 @@ sources:
 - https://www.unionsleden.com/en/see-do/varmlands-museum
 - https://www.visitvarmland.com/karlstad/en/activities/golfing/mariebergsskogen
 - https://www.unionsleden.com/en/see-do/alsters-herrgard-gustaf-frodings-minnesgard
-heritage: 4.638
-vibrancy: 4.774
-nature: 5.256
-off_the_beaten_track: 1.866
+heritage: 3.639
+vibrancy: 4.744
+nature: 4.802
+off_the_beaten_track: 1.888
 ---
 
 Karlstad sits where the Klarälven splits into a delta and runs into Lake Vänern. It is the capital of Värmland, a practical regional city with a softer side: river walks, lake light, and a stubborn local pride in being sunnier than the rest of Sweden.

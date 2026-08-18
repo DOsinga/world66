@@ -4,7 +4,7 @@ type: location
 loc_type: island
 latitude: -12.0667
 longitude: 34.7333
-score: 5.75
+score: 5.266
 snippet: Malawian island in Mozambican waters, with a huge stone cathedral, beaches,
   and slow lake crossings.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Likoma_Island
 - https://visitmalawi.mw/likoma-and-chizumulu-islands/
 wikidata: Q9135742
-heritage: 3.769
-vibrancy: 1.608
-nature: 6.967
-off_the_beaten_track: 6.377
+heritage: 2.342
+vibrancy: 1.528
+nature: 6.214
+off_the_beaten_track: 6.386
 ---
 
 Likoma Island is one of Lake Malawi's oddities: a Malawian island lying inside Mozambican waters, paired with smaller Chizumulu nearby. It is remote, slow, and more interesting than its size suggests, with sandy coves, baobabs, fishing villages, and a cathedral so large it seems to have arrived from another country.

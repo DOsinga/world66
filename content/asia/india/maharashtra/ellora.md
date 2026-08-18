@@ -11,12 +11,12 @@ snippet: Rock-cut archaeological site in Maharashtra, where Buddhist, Hindu, and
   caves share one basalt cliff.
 title: Ellora
 type: location
-score: 5.943
+score: 6.082
 loc_type: feature
-heritage: 7.936
-vibrancy: 2.963
-nature: 2.621
-off_the_beaten_track: 2.55
+heritage: 8.224
+vibrancy: 2.824
+nature: 3.146
+off_the_beaten_track: 2.903
 ---
 
 Ellora is home to one of the most extraordinary archaeological sites in India — 34 caves carved into a basalt cliff face over a period of five centuries, from roughly the sixth to the eleventh century. The caves are a UNESCO World Heritage Site and represent three religions side by side: Buddhist monasteries and prayer halls, Hindu temples, and Jain shrines, all cut directly from the living rock.

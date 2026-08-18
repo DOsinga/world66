@@ -2,7 +2,7 @@
 latitude: 14.0167
 loc_type: city
 longitude: -16.7667
-score: 6.135
+score: 6.124
 snippet: Sereer village string between Atlantic beach and Saloum Delta mangroves,
   salt pools, and birdlife.
 sources:
@@ -12,10 +12,10 @@ sources:
 title: Palmarin
 type: location
 wikidata: Q3361563
-heritage: 1.752
-vibrancy: 1.048
-nature: 7.722
-off_the_beaten_track: 5.856
+heritage: 1.567
+vibrancy: 1.154
+nature: 7.712
+off_the_beaten_track: 5.835
 ---
 
 Palmarin is a quiet run of Sereer villages stretched along a narrow peninsula between the Atlantic and the Sine-Saloum Delta. It is not a resort strip in the Saly sense. The reward here is the mix of beach, mangrove, salt pans, shell mounds, fishing villages, and slow village life.

@@ -16,7 +16,7 @@ quick_facts:
   Cotton Tree: A centuries-old landmark
   Founded: 1792, for freed slaves
   Population: ~1.2 million
-score: 5.194
+score: 4.727
 snippet: West African capital on steep Atlantic hills, with Krio heritage centred
   around the Cotton Tree.
 tip: Freetown was founded as a home for freed slaves, and its hills drop straight
@@ -25,10 +25,10 @@ tip: Freetown was founded as a home for freed slaves, and its hills drop straigh
   rains are heavy; roads can be rough, so allow extra time and keep cash handy.
 title: Freetown
 type: location
-heritage: 4.68
-vibrancy: 5.251
-nature: 5.046
-off_the_beaten_track: 5.069
+heritage: 5.138
+vibrancy: 4.607
+nature: 4.685
+off_the_beaten_track: 4.924
 ---
 
 Freetown is the capital and by far the largest city in [Sierra Leone](/africa/sierraleone), home to about a third of the country's population. It is not a city you will fall in love with immediately — it is dense, noisy, and congested, built on steep hills running down to the Atlantic, with a geography that makes traffic a constant ordeal. But it has real energy and a distinct Krio character that sets it apart from other West African capitals.

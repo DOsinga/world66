@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sharjah_Fort_(Al_Hisn).JPG
 latitude: 25.3478
 loc_type: city
 longitude: 55.3863
-score: 5.579
+score: 5.933
 snippet: Traditional UAE emirate where museums, heritage districts, and book culture
   temper Gulf spectacle.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Sharjah
 title: Sharjah
 type: location
-heritage: 4.058
-vibrancy: 6.198
-nature: 3.438
-off_the_beaten_track: 1.341
+heritage: 5.313
+vibrancy: 6.213
+nature: 3.038
+off_the_beaten_track: 1.285
 ---
 
 *Asia > United Arab Emirates > Sharjah*

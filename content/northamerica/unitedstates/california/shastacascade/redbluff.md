@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Odd_Fellows_Building_in_Re
 latitude: 40.178428
 loc_type: city
 longitude: -122.235923
-score: 4.644
+score: 4.286
 snippet: Sacramento River town at the southern Shasta Cascade, with Victorian streets
   and ranch-country roots
 title: Red Bluff
 type: location
-heritage: 2.217
-vibrancy: 2.309
-nature: 6.082
-off_the_beaten_track: 2.459
+heritage: 2.204
+vibrancy: 2.063
+nature: 5.646
+off_the_beaten_track: 2.217
 ---
 
 Red Bluff sits on the Sacramento River at the southern edge of the Shasta Cascade region, about two hours north of Sacramento on I-5. It's a quiet agricultural town with a surprisingly intact [Victorian downtown](/northamerica/unitedstates/california/shastacascade/redbluff/historic_downtown) and easy access to the outdoors. The Sacramento River here offers good fishing, and the surrounding hills are good for hiking and cycling.

@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:19194-SanQingShan_(4678662
 latitude: 28.94
 loc_type: feature
 longitude: 118.063
-score: 5.951
+score: 6.02
 snippet: Taoist mountain landscape of granite pillars, cloud forests, cliff paths,
   and ancient temple sites.
 sources:
 - https://en.wikivoyage.org/wiki/Mount_Sanqingshan_National_Park
 title: Mount Sanqingshan
 type: location
-heritage: 4.418
-vibrancy: 1.55
-nature: 7.352
-off_the_beaten_track: 3.161
+heritage: 3.956
+vibrancy: 1.951
+nature: 7.655
+off_the_beaten_track: 3.03
 ---
 
 Mount Sanqingshan is a UNESCO World Heritage Site in northeastern Jiangxi that earns its designation through sheer geological spectacle: thousands of granite pillars, many of them capped with twisted pines, rise through clouds and mist in formations that have been inspiring Taoist painters and poets for over fifteen centuries. The mountain's highest peak, Yujing, reaches 1,820 meters, and the three summits — named for the three Taoist Pure Ones — give the mountain its spiritual identity. The [Sanqinggong Temple complex](/asia/china/jiangxi/mount_sanqingshan/sanqinggong_temple), founded during the Eastern Jin dynasty, remains an active place of worship embedded in the scenery rather than separate from it.

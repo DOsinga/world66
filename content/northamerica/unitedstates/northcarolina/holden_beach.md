@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Dusk_at_Holden_Beach,_NC_(
 latitude: 33.9135
 loc_type: city
 longitude: -78.3039
-score: 4.008
+score: 3.987
 snippet: Quiet North Carolina barrier island known for family beaches and rare east-west
   ocean sunrises.
 title: Holden Beach
 type: location
-heritage: 2.019
-vibrancy: 2.654
-nature: 4.93
-off_the_beaten_track: 1.763
+heritage: 1.574
+vibrancy: 2.761
+nature: 4.845
+off_the_beaten_track: 1.551
 ---
 
 Holden Beach is a quiet family island on the southern coast of North Carolina, 45 minutes north of Myrtle Beach and 45 minutes south of [Wilmington](/northamerica/unitedstates/northcarolina/wilmington). Getting here the first time takes some navigating -- there are no major roads leading directly to the island. Take I-95 or I-40 to Highway 17, then follow the signs from the town of Shallotte. Stock up on supplies there before crossing the bridge to the island.

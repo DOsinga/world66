@@ -6,16 +6,16 @@ latitude: 44.635157
 longitude: -92.010193
 title: Pepin
 type: location
-score: 3.134
+score: 3.486
 loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Pepin,_Wisconsin
 - https://en.wikipedia.org/wiki/Little_House_Wayside
 snippet: Wisconsin village on Lake Pepin, best known as Laura Ingalls Wilder's birthplace.
-heritage: 3.127
-vibrancy: 1.746
-nature: 3.533
-off_the_beaten_track: 1.796
+heritage: 3.964
+vibrancy: 1.914
+nature: 3.507
+off_the_beaten_track: 1.605
 ---
 
 Pepin is a small village on the eastern shore of [Lake Pepin](/northamerica/unitedstates/wisconsin/pepin/lake_pepin), a 28-mile-long natural widening of the Mississippi River in western Wisconsin. It is best known as the birthplace of Laura Ingalls Wilder — the [cabin site](/northamerica/unitedstates/wisconsin/pepin/laura_ingalls_wilder_cabin) is seven miles north of town, and September's Laura Ingalls Wilder Days draw fans of the books from across the country.

@@ -5,15 +5,15 @@ done:
 latitude: 40.4994
 loc_type: city
 longitude: -98.9514
-score: 2.122
+score: 1.658
 snippet: Small Nebraska town best known for Pioneer Village, a sprawling museum of
   American everyday history.
 title: Minden
 type: location
-heritage: 1.767
-vibrancy: 1.586
-nature: 2.522
-off_the_beaten_track: 1.677
+heritage: 1.32
+vibrancy: 1.45
+nature: 1.869
+off_the_beaten_track: 2.0
 ---
 
 Minden is a small town in south-central Nebraska, best known as the home of [Harold Warp's Pioneer Village](/northamerica/unitedstates/nebraska/minden/pioneer_village) — one of the most remarkable and least-known museums in the American Midwest. The town itself is quiet and unremarkable, but the Pioneer Village is a legitimate reason to leave the interstate.

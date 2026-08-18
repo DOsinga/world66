@@ -10,19 +10,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Bahia_de_Algeciras.jpg
 latitude: 36.1312
 loc_type: city
 longitude: -5.4474
-score: 4.717
+score: 4.47
 title: Algeciras
 type: location
 snippet: Busy Bay of Gibraltar port city, the main Spanish ferry gateway to Ceuta
   and Tangier.
-heritage: 4.753
-vibrancy: 4.739
-nature: 4.355
-off_the_beaten_track: 2.059
+heritage: 4.147
+vibrancy: 4.558
+nature: 4.244
+off_the_beaten_track: 2.207
 ---
 
 Algeciras is a busy port city on the Bay of Gibraltar, the main Spanish departure point for ferries to [Ceuta](/europe/spain/ceuta) and [Tangier](/africa/morocco/tangier) in Morocco. Most travellers pass through quickly on their way to Africa, but the city has a certain rough-edged charm if you have time to kill.
 
 The old town climbs a hillside above the port and centres on the [Plaza Alta](/europe/spain/andalucia/algeciras/plaza_alta), a pleasant square tiled in azulejo ceramics with orange trees and a church on each corner. The [Marinid Walls](/europe/spain/andalucia/algeciras/marinid_walls) nearby are among the best-preserved medieval Islamic fortifications in Andalusia — they were buried under the modern city for 600 years before being excavated in the 20th century. The [Parque Maria Cristina](/europe/spain/andalucia/algeciras/parque_maria_cristina) provides shade and the Hotel Reina Cristina next to it was where the 1906 Algeciras Conference — a key prelude to World War I — was held. The [Municipal Museum](/europe/spain/andalucia/algeciras/municipal_museum) covers the city's long history as a Roman, Moorish, and medieval port.
 
-The views across the bay to the Rock of [Gibraltar](/europe/unitedkingdom/gibraltar) are striking, especially at sunset. Algeciras has been a strategic port since Roman times and was a major Moorish settlement — the name derives from the Arabic *al-Jazira al-Khadra* (the Green Island). Today the port handles more passengers than any other in Spain and is one of the busiest in the Mediterranean.
+The views across the bay to the Rock of [Gibraltar](/europe/gibraltar) are striking, especially at sunset. Algeciras has been a strategic port since Roman times and was a major Moorish settlement — the name derives from the Arabic *al-Jazira al-Khadra* (the Green Island). Today the port handles more passengers than any other in Spain and is one of the busiest in the Mediterranean.

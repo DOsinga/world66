@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -35.3961
 longitude: 173.505
-score: 5.478
+score: 5.831
 snippet: Small Hokianga harbour town with early colonial buildings, galleries, mangroves,
   and a working ferry.
 wikidata: Q7296972
@@ -17,10 +17,10 @@ image: rawene.jpg
 image_source: https://commons.wikimedia.org/wiki/File:An_urban_waterfront._Rawene._NZ_(22111741992).jpg
 image_license: CC0
 image_attribution: Bernard Spragg. NZ from Christchurch, New Zealand
-heritage: 3.771
-vibrancy: 1.723
-nature: 6.69
-off_the_beaten_track: 5.9
+heritage: 3.17
+vibrancy: 1.798
+nature: 7.168
+off_the_beaten_track: 6.128
 ---
 
 Rawene sits on the south side of Hokianga Harbour, a small waterside town with more history than its size suggests. It is one of New Zealand's oldest European settlements, with timber churches, old commercial buildings, and Clendon House set along a quiet waterfront rather than arranged as a museum village.

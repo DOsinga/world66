@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 45.1
 longitude: -72.6167
-score: 4.005
+score: 4.255
 snippet: Eastern Townships village beneath Mont Sutton, with ski glades, forest trails,
   vineyards, and a Loyalist main street.
 image: sutton.jpg
@@ -14,10 +14,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Sutton_(Quebec)
 - https://en.wikipedia.org/wiki/Sutton,_Quebec
 - https://www.wikidata.org/wiki/Q142521
-heritage: 2.512
-vibrancy: 2.11
-nature: 5.143
-off_the_beaten_track: 3.249
+heritage: 2.696
+vibrancy: 2.063
+nature: 5.453
+off_the_beaten_track: 3.209
 ---
 
 Sutton is a small Eastern Townships village with more depth than its size suggests. The mountain is the main draw, with skiing in winter and forest trails the rest of the year, but the village itself has a pleasant Loyalist-era main street and a good food-and-wine habit.

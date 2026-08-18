@@ -9,15 +9,15 @@ image_source: https://www.flickr.com/photos/42201095@N03/26414619168
 latitude: 35.9133
 loc_type: city
 longitude: 14.4433
-score: 4.883
+score: 4.345
 snippet: Central Maltese town with Palazzo Parisio, formal gardens, and a richly decorated
   parish church
 title: Naxxar
 type: location
-heritage: 5.79
-vibrancy: 3.917
-nature: 3.902
-off_the_beaten_track: 1.787
+heritage: 5.033
+vibrancy: 3.726
+nature: 3.718
+off_the_beaten_track: 1.974
 ---
 
 Naxxar is an old town in the centre of Malta, less visited than Valletta or Mdina but with two sights worth a detour. The [Palazzo Parisio](/europe/malta/naxxar/palazzo_parisio), built in 1898 by Marquis Giuseppe Scicluna and decorated by Italian artists, is one of Malta's most lavish private palaces. Its formal gardens and frescoed ceilings are open to visitors, and the cafe in the courtyard is a pleasant stop.

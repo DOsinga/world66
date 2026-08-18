@@ -8,16 +8,16 @@ image_source: https://commons.wikimedia.org/wiki/File:Reflection_(239540389).jpe
 latitude: 18.65
 loc_type: city
 longitude: 109.6667
-score: 4.696
+score: 5.107
 snippet: Highland Hainan county of Li and Miao communities, with tropical forests,
   streams, and waterfalls above the resort coast
 sources:
 - https://en.wikivoyage.org/wiki/Baoting
 title: Baoting
 type: location
-heritage: 2.15
-vibrancy: 2.351
-nature: 6.032
+heritage: 2.064
+vibrancy: 2.471
+nature: 6.669
 off_the_beaten_track: 4.084
 ---
 

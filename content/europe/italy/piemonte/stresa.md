@@ -10,17 +10,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Stresa_Levo.jpg
 latitude: 45.8837
 loc_type: city
 longitude: 8.539
-score: 4.558
+score: 4.277
 snippet: Elegant Lake Maggiore resort town facing the Borromean Islands from a Liberty-style
   waterfront promenade.
 tags:
 - lake_maggiore
 title: Stresa
 type: location
-heritage: 5.27
-vibrancy: 3.914
-nature: 4.392
-off_the_beaten_track: 1.713
+heritage: 4.678
+vibrancy: 4.157
+nature: 4.469
+off_the_beaten_track: 1.786
 ---
 
 Stresa is the elegant gateway to the Borromean Islands on the western shore of [Lake Maggiore](/europe/italy/lake_maggiore). Once a fishing village, it blossomed into a fashionable resort in the 19th century when English tourists discovered its mild climate and spectacular position on the slopes of Monte Mottarone. The lakefront promenade, lined with Liberty-style hotels and grand villas set among gardens, remains the town's most alluring feature, with views across the water to the islands and the mountains beyond.

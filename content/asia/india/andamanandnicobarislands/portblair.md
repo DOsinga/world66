@@ -2,7 +2,7 @@
 latitude: 11.6667
 loc_type: city
 longitude: 92.75
-score: 5.984
+score: 6.63
 snippet: Andaman capital where colonial prison history meets island ferries, harbour
   ruins, and tropical sea air.
 sources:
@@ -10,10 +10,10 @@ sources:
 - https://en.wikipedia.org/wiki/Port_Blair
 title: Port Blair
 type: location
-heritage: 3.594
-vibrancy: 4.617
-nature: 7.044
-off_the_beaten_track: 4.209
+heritage: 4.357
+vibrancy: 5.832
+nature: 7.458
+off_the_beaten_track: 4.229
 ---
 
 Port Blair is the capital of the Andaman and Nicobar Islands and the place almost every visitor passes through. It is not a beach-resort town, and that is part of its value. Ferries, naval compounds, Bengali sweet shops, Tamil restaurants, government offices, and old colonial scars all crowd around a harbour that still feels like the edge of India.

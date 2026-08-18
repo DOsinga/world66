@@ -4,7 +4,7 @@ done:
 latitude: 66.8333
 loc_type: city
 longitude: 28.6667
-score: 6.563
+score: 6.272
 snippet: Eastern Lapland municipality of national-park fells, reindeer culture, and
   Winter War scars.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Salla
 title: Salla
 type: location
-heritage: 2.246
-vibrancy: 0.815
-nature: 8.191
-off_the_beaten_track: 6.493
+heritage: 1.842
+vibrancy: 0.847
+nature: 7.795
+off_the_beaten_track: 6.315
 ---
 
 Salla is deep eastern Lapland, north of the Arctic Circle and close enough to Russia that the border has shaped its modern history. Its own tourism slogan, "in the middle of nowhere", is not far off: the appeal is space, snow, old forest, reindeer country, and the feeling that Finland has thinned out to its raw edge.

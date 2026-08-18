@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mystic,_Connecticut_01.jpg
 latitude: 41.3543
 loc_type: city
 longitude: -71.9665
-score: 4.06
+score: 4.601
 snippet: Connecticut maritime village on the Mystic River, with wooden ships, a drawbridge,
   and seafaring museum life.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://mysticaquarium.org/
 title: Mystic
 type: location
-heritage: 4.101
-vibrancy: 2.288
-nature: 4.554
-off_the_beaten_track: 1.387
+heritage: 5.282
+vibrancy: 2.606
+nature: 4.518
+off_the_beaten_track: 1.179
 ---
 
 Mystic is a small coastal village with a name bigger than its size, split between Groton and Stonington on the Mystic River. It made its money building ships, then reinvented itself as one of New England's most appealing maritime stops: wooden boats, a working drawbridge, clapboard houses, seafood, and enough salt air to make the tourist polish forgivable.

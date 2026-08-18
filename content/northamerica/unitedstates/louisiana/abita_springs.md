@@ -8,11 +8,11 @@ snippet: Small Louisiana Northshore town known for Abita beer, spring history, a
   folk-art oddities.
 sources:
 - https://en.wikivoyage.org/wiki/Abita_Springs
-score: 3.801
-heritage: 3.917
-vibrancy: 2.875
-nature: 4.232
-off_the_beaten_track: 1.707
+score: 3.838
+heritage: 4.097
+vibrancy: 2.819
+nature: 4.213
+off_the_beaten_track: 1.792
 ---
 
 *North America > United States > Louisiana > Abita Springs*

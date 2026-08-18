@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Donnybrook_Post_Office,_Ja
 latitude: -33.577376
 loc_type: city
 longitude: 115.825129
-score: 4.927
+score: 5.145
 snippet: Southwest Australian country town known for Preston River orchards and Donnybrook
   sandstone heritage.
 title: Donnybrook
 type: location
-heritage: 2.348
-vibrancy: 1.685
-nature: 6.185
-off_the_beaten_track: 4.757
+heritage: 2.549
+vibrancy: 1.744
+nature: 6.454
+off_the_beaten_track: 4.981
 ---
 
 Donnybrook is a small country town in the south-west of [Western Australia](/australiaandpacific/australia/westernaustralia), about 35 kilometres inland from [Bunbury](/australiaandpacific/australia/westernaustralia/bunbury) and 210 kilometres south of [Perth](/australiaandpacific/australia/westernaustralia/perth). It is best known as the **apple capital of WA** — orchards line the Preston River valley, and the harvest from February through May draws backpackers looking for fruit-picking work.

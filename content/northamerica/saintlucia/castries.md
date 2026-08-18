@@ -9,15 +9,15 @@ image_source: https://www.flickr.com/photos/146878425@N05/49431182128
 latitude: 14.0101
 loc_type: city
 longitude: -60.9875
-score: 6.243
+score: 6.032
 snippet: Saint Lucian capital and main port, set around a natural harbour below green
   northern hills.
 title: Castries
 type: location
-heritage: 5.075
-vibrancy: 4.942
-nature: 7.288
-off_the_beaten_track: 3.665
+heritage: 4.542
+vibrancy: 4.785
+nature: 7.038
+off_the_beaten_track: 3.51
 ---
 
 Castries is the capital and main port of Saint Lucia, a bustling town of roughly 70,000 people wedged between the green hills of the island's north and a natural harbour busy with cruise ships and inter-island ferries. It is not a pretty city in the colonial sense — fires in 1796, 1813, 1927, and 1948 destroyed most of the old wooden architecture — but it has an honest, working energy that feels less curated than many Caribbean destinations.

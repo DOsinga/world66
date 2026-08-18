@@ -5,7 +5,7 @@ done:
 latitude: 34.3706
 loc_type: city
 longitude: 73.4718
-score: 5.464
+score: 6.096
 snippet: Azad Kashmir capital at the Jhelum-Neelum river confluence, surrounded by
   steep forested mountains.
 sources:
@@ -16,10 +16,10 @@ image: muzaffar_abad.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Muzaffarabad,_Azad_Kashmir,_Pakistan.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Fiaz3300
-heritage: 2.835
-vibrancy: 2.585
-nature: 6.649
-off_the_beaten_track: 5.962
+heritage: 2.895
+vibrancy: 3.088
+nature: 7.652
+off_the_beaten_track: 5.889
 ---
 
 **Muzaffarabad** is the capital of Azad Kashmir, sitting at the [confluence of the Jhelum and Neelum rivers](/asia/pakistan/azad_kashmir/muzaffar_abad/river_confluence) in a valley surrounded by forested mountains. The setting is spectacular — green hills rising steeply on all sides, the rivers rushing through the centre of town.

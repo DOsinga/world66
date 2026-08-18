@@ -16,7 +16,7 @@ quick_facts:
   Founded: Antiquity, near Carthage
   Population: ~640,000
   Sidi Bou Saïd: Blue-and-white clifftop village
-score: 4.407
+score: 4.141
 snippet: Layered Tunisian capital where a UNESCO medina meets French-built boulevards
   and nearby Carthage ruins
 tip: Tunis pairs a labyrinthine medieval medina with a French-built 'Ville Nouvelle'
@@ -25,10 +25,10 @@ tip: Tunis pairs a labyrinthine medieval medina with a French-built 'Ville Nouve
   the world's finest Roman mosaics. The medina is a UNESCO site; haggle politely.
 title: Tunis
 type: location
-heritage: 3.508
-vibrancy: 4.777
-nature: 3.289
-off_the_beaten_track: 4.887
+heritage: 3.651
+vibrancy: 4.358
+nature: 3.087
+off_the_beaten_track: 4.543
 ---
 
 Tunis is a city of layers. The medina, a UNESCO World Heritage Site, climbs a low hill in a tangle of alleys, covered souks, and centuries-old mosques. At its feet, the French-built Ville Nouvelle stretches along broad, tree-lined avenues with sidewalk cafes and art-deco facades. The contrast between the two is the city's defining quality -- you can step from a 13th-century madrasa into a Parisian-style boulevard in under a minute.

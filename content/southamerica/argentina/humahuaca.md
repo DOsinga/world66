@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Quebrada_de_Humahuaca_02.j
 latitude: -23.204027
 loc_type: city
 longitude: -65.348776
-score: 6.164
+score: 6.361
 snippet: Andean Quebrada town where colonial architecture stands against the barren,
   Peru-and-Bolivia-like landscapes of northwest Argentina.
 title: Humahuaca
 type: location
-heritage: 4.661
-vibrancy: 0.523
-nature: 7.578
-off_the_beaten_track: 6.238
+heritage: 4.191
+vibrancy: 0.983
+nature: 7.841
+off_the_beaten_track: 6.617
 ---
 
 Located in the North West of Argentina, the Quebrada de Humahuaca is one of the major tourist sights. The colonial architecture and the barren landscape will remind the traveler of Peru and Bolivia.

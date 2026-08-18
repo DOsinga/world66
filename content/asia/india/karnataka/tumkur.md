@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:ARALAGUPPE_temple.jpg
 latitude: 13.340077
 loc_type: city
 longitude: 77.100621
-score: 2.701
+score: 2.541
 snippet: Commercial town northwest of Bangalore, known for Siddhaganga Matha and the
   nearby Devarayanadurga Hills.
 title: Tumkur
 type: location
-heritage: 2.986
-vibrancy: 2.607
-nature: 1.936
-off_the_beaten_track: 2.019
+heritage: 2.743
+vibrancy: 2.484
+nature: 2.076
+off_the_beaten_track: 2.116
 ---
 
 Tumkur sits 70 km northwest of Bangalore on the Pune highway, at the edge of the Devarayanadurga Hills. It is a busy commercial town and the administrative seat of Tumkur District, known for its markets in coconut, tobacco, and vegetable oil.

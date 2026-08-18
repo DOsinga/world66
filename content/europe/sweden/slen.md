@@ -5,15 +5,15 @@ done:
 latitude: 61.155724
 loc_type: city
 longitude: 13.269409
-score: 4.992
+score: 5.14
 snippet: Dalarna mountain village and Sweden's largest ski destination, also marking
   the start of the Vasaloppet route.
 title: Sälen
 type: location
-heritage: 1.826
-vibrancy: 2.537
-nature: 6.512
-off_the_beaten_track: 2.748
+heritage: 1.442
+vibrancy: 2.549
+nature: 6.735
+off_the_beaten_track: 2.532
 ---
 
 Sälen is a mountain village in Dalarna, western Sweden, and the country's biggest ski destination. The skiable area splits between five resorts — four SkiStar mountains ([Lindvallen](/europe/sweden/slen/lindvallen), [Högfjället](/europe/sweden/slen/hogfjallet), [Tandådalen](/europe/sweden/slen/tandadalen), [Hundfjället](/europe/sweden/slen/hundfjallet)) and the independent [Stöten](/europe/sweden/slen/stoten) — offering a wide range of slopes for all levels, mostly forested cruising rather than dramatic alpine descent.

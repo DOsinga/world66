@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_of_Saumur.JPG
 latitude: 47.2596
 loc_type: city
 longitude: -0.0785
-score: 5.635
+score: 5.433
 snippet: Loire Valley town known for its château, cavalry school, tuffeau cellars,
   and sparkling wine.
 title: Saumur
 type: location
-heritage: 7.154
-vibrancy: 3.175
-nature: 3.98
-off_the_beaten_track: 2.11
+heritage: 6.788
+vibrancy: 3.2
+nature: 4.084
+off_the_beaten_track: 2.187
 ---
 
 Saumur sits halfway between [Tours](/europe/france/loirevalley/tours) and [Angers](/europe/france/loirevalley/angers) on the Loire, its château rising dramatically above a town of white tuffeau stone mansions and tree-lined streets. It is one of the more handsome cities in the valley — unhurried, compact enough to walk, and serious about its two great pleasures: wine and horses.

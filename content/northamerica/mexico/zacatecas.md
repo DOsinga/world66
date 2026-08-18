@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Market_and_Cathedral_of_Za
 latitude: 22.7736
 loc_type: city
 longitude: -102.5736
-score: 5.508
+score: 4.686
 snippet: Pink-stone silver city in northern Mexico, built in a ravine beneath Cerro
   de la Bufa.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Historic_centre_of_Zacatecas
 title: Zacatecas
 type: location
-heritage: 6.488
-vibrancy: 4.505
-nature: 4.127
-off_the_beaten_track: 3.291
+heritage: 5.386
+vibrancy: 4.105
+nature: 4.32
+off_the_beaten_track: 3.229
 ---
 
 Zacatecas is a silver city with drama built into its geography. The historic centre squeezes through a high, dry ravine of pink cantera stone, with church towers, steep lanes, and old mine entrances climbing toward [Cerro de la Bufa](/northamerica/mexico/zacatecas/cerro_de_la_bufa). It feels tougher and less polished than Guanajuato, but just as memorable.

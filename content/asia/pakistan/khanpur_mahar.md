@@ -5,15 +5,15 @@ done:
 latitude: 28.1
 loc_type: city
 longitude: 69.44
-score: 4.219
+score: 3.922
 snippet: Sindh agricultural city in fertile Ghotki District, tied to sugarcane, cotton,
   and the Qadirpur gas field.
 title: Khanpur Mahar
 type: location
-heritage: 2.278
-vibrancy: 1.581
-nature: 5.047
-off_the_beaten_track: 4.888
+heritage: 2.486
+vibrancy: 1.437
+nature: 4.546
+off_the_beaten_track: 5.021
 ---
 
 Khanpur Mahar is a city in Tehsil Khangarh Sharif, Ghotki District, in the Sindh province of Pakistan. It is the largest city in Ghotki District by area.

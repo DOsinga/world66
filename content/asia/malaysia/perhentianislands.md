@@ -13,13 +13,13 @@ sources:
 - https://en.wikipedia.org/wiki/Perhentian_Islands
 title: Perhentian Islands
 type: location
-score: 5.658
+score: 6.189
 snippet: Terengganu island pair off Malaysia's northeast coast, known for clear water
   and relaxed diving bases.
-heritage: 2.04
-vibrancy: 2.193
-nature: 7.241
-off_the_beaten_track: 5.011
+heritage: 1.904
+vibrancy: 3.079
+nature: 8.105
+off_the_beaten_track: 4.789
 ---
 
 The Perhentian Islands — Pulau Perhentian Besar (Big Island) and Pulau Perhentian Kecil (Small Island) — lie roughly 20 kilometres off the northeastern coast of the Malay Peninsula, in Terengganu state. They are among the finest diving and snorkelling destinations in Malaysia, with gin-clear water, abundant marine life, and a relaxed, unmanicured atmosphere that sets them apart from the more developed Langkawi. The name means "stopping point" in Malay — the islands were historically a rest stop for boats carrying goods between Thailand and Singapore.

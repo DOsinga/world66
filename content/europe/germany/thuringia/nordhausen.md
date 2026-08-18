@@ -2,7 +2,7 @@
 latitude: 51.5167
 loc_type: city
 longitude: 10.8
-score: 3.726
+score: 3.631
 snippet: Northern Thuringian town linking Mittelbau-Dora, Harz steam railways, and
   a long korn-distilling tradition.
 sources:
@@ -11,10 +11,10 @@ sources:
 - https://en.harzinfo.de/destinations/destinations-from-a-to-z/nordhausen
 title: Nordhausen
 type: location
-heritage: 4.572
-vibrancy: 1.945
-nature: 2.99
-off_the_beaten_track: 2.368
+heritage: 4.493
+vibrancy: 1.814
+nature: 2.829
+off_the_beaten_track: 2.31
 ---
 
 Nordhausen is the urban centre of northern Thuringia, sitting where the Harz begins to rise from the plains. It is not a pretty half-timbered showpiece like [Quedlinburg](/europe/germany/saxonyanhalt/quedlinburg), partly because bombing in 1945 destroyed much of the old centre, but it has enough weight for a serious day.

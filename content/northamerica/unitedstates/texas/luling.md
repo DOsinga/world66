@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 29.6805
 longitude: -97.6475
-score: 2.59
+score: 2.347
 snippet: Central Texas oil-and-watermelon town with painted pumpjacks, barbecue, and
   a river mill.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://texastimetravel.com/cities/luling/
 - https://tpwd.texas.gov/state-parks/palmetto
 - https://www.cityofluling.net/273/Zedler-Mill-Historical-Museum
-heritage: 2.342
-vibrancy: 2.462
-nature: 2.825
-off_the_beaten_track: 1.292
+heritage: 2.379
+vibrancy: 2.266
+nature: 2.543
+off_the_beaten_track: 1.425
 ---
 
 Luling is a small Central Texas town with more personality than its size suggests. Oil made it rowdy in the 1920s, watermelons gave it a festival, and the old pumpjacks around town have been painted into cartoon characters, which tells you a lot about the local mood.

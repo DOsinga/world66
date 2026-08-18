@@ -4,7 +4,7 @@ done:
 latitude: 47.061729
 loc_type: city
 longitude: -0.880136
-score: 3.938
+score: 3.886
 snippet: Western French city shaped by the Vendee Wars and its historic red-and-white
   textile industry.
 title: Cholet
@@ -13,10 +13,10 @@ image: cholet.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cholet_-_Alfred_Andr%C3%A9_Debergue_-_30.4.1925.webp
 image_license: Public domain
 image_attribution: Alfred André Debergue
-heritage: 4.512
-vibrancy: 2.473
-nature: 3.888
-off_the_beaten_track: 1.933
+heritage: 4.484
+vibrancy: 2.461
+nature: 3.765
+off_the_beaten_track: 1.952
 ---
 
 Cholet is a small city in western France whose identity is shaped by two things: the Vendee Wars and the textile industry. During the French Revolution, this area became the heartland of the royalist Catholic uprising against the Republic, and the battles fought around Cholet in 1793 were among the bloodiest of that brutal conflict. The [Musee d'Art et d'Histoire](/europe/france/loirevalley/cholet/musee_dart_et_dhistoire) documents this period thoroughly, and the region's complex relationship with the Revolution remains a living part of local culture.

@@ -5,14 +5,14 @@ done:
 latitude: 33.7833
 loc_type: city
 longitude: 73.7167
-score: 5.712
+score: 6.046
 snippet: Hill resort above Rawalakot, centred on Banjosa Lake and surrounding pine
   and oak forest.
 title: Banjosa
 type: location
-heritage: 1.713
-vibrancy: 1.183
-nature: 7.14
+heritage: 1.648
+vibrancy: 1.504
+nature: 7.658
 off_the_beaten_track: 5.615
 ---
 

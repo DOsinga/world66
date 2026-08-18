@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Grey_River_in_Greymouth,_W
 latitude: -42.45
 loc_type: city
 longitude: 171.2075
-score: 5.592
+score: 5.916
 snippet: Working West Coast town at the Grey River mouth, terminus of the TranzAlpine
   railway
 sources:
 - https://en.wikipedia.org/wiki/Greymouth
 title: Greymouth
 type: location
-heritage: 3.251
-vibrancy: 2.002
-nature: 7.29
-off_the_beaten_track: 4.159
+heritage: 3.723
+vibrancy: 1.622
+nature: 7.592
+off_the_beaten_track: 4.637
 ---
 
 Greymouth is the largest town on New Zealand's [West Coast](/australiaandpacific/newzealand/south_island/west_coast) — about 13,000 people strung along the mouth of the Grey River, at the foot of the Paparoa Range. It is a working town, built on coal and gold and now leaning on tourism, with the wide grey Tasman Sea on one side and a wall of bush-covered hills on the other. The weather is famously wet; "the Coast" has its own rainfall figures that bear no relation to the rest of the country.

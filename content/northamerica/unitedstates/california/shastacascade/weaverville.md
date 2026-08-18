@@ -10,7 +10,7 @@ loc_type: city
 snippet: Trinity Alps mining town with a preserved Gold Rush centre and California's
   oldest operating Chinese temple.
 longitude: -122.928237
-score: 4.283
+score: 4.42
 sources:
 - https://en.wikipedia.org/wiki/Weaverville,_California
 - https://en.wikipedia.org/wiki/Weaverville_Joss_House_State_Historic_Park
@@ -18,10 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Trinity_Lake
 title: Weaverville
 type: location
-heritage: 3.277
-vibrancy: 2.76
-nature: 5.249
-off_the_beaten_track: 3.447
+heritage: 3.119
+vibrancy: 2.684
+nature: 5.529
+off_the_beaten_track: 3.626
 ---
 
 Weaverville is a small mountain town in Trinity County, about an hour west of Redding on Highway 299. It sits at around 2,000 feet in the Trinity Alps, surrounded by thick forest and clear rivers. The town has been here since the Gold Rush and still has the look of a well-preserved 19th-century mining settlement, with a compact historic downtown of brick and wood-frame buildings.

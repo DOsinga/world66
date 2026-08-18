@@ -6,7 +6,7 @@ image_license: CC BY-SA 3.0
 image_source: https://commons.wikimedia.org/wiki/File:Hoover_Minthorn_house_sign.JPG
 loc_type: city
 longitude: -122.9672
-score: 4.762
+score: 4.732
 snippet: Willamette Valley wine town with Quaker roots, a Hoover house, and river
   history nearby.
 sources:
@@ -19,10 +19,10 @@ sources:
 title: Newberg
 type: location
 wikidata: Q932637
-heritage: 3.108
-vibrancy: 3.252
-nature: 5.81
-off_the_beaten_track: 2.251
+heritage: 2.883
+vibrancy: 3.307
+nature: 5.737
+off_the_beaten_track: 2.387
 ---
 
 Newberg sits at the north end of Oregon's Willamette Valley wine country, close enough to [Portland](/northamerica/unitedstates/oregon/portland) for an easy day trip but with its own small-town rhythm. It is a Quaker-founded college town, a practical base for tasting rooms and vineyard roads, and one of the few places in the Pacific Northwest with a presidential house museum.

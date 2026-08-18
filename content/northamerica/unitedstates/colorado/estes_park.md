@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 40.3772
 longitude: -105.5217
-score: 5.808
+score: 5.635
 snippet: Colorado mountain town at Rocky Mountain National Park's busy eastern entrance.
 sources:
 - https://en.wikivoyage.org/wiki/Estes_Park
@@ -13,10 +13,10 @@ image: estes_park.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Brownfield%27s_Trading_Post,_Estes_Park,_2009.jpg
 image_license: CC0
 image_attribution: DimiTalen
-heritage: 2.628
-vibrancy: 3.501
-nature: 7.311
-off_the_beaten_track: 2.105
+heritage: 2.286
+vibrancy: 3.706
+nature: 6.943
+off_the_beaten_track: 1.519
 ---
 
 Estes Park is the mountain town at the eastern door of [Rocky Mountain National Park](/northamerica/unitedstates/colorado/estes_park/rocky_mountain_national_park). It sits in a high valley at about 7,500 feet, surrounded by granite peaks, pine forest, and meadows where elk wander with very little concern for traffic.

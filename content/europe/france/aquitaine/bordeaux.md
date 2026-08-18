@@ -10,15 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bordeaux_Bourse_R01.jpg
 latitude: 44.8378
 loc_type: city
 longitude: -0.5792
-score: 6.183
+score: 5.677
 snippet: French wine city of 18th-century limestone quays, Garonne riverfronts, and
   surrounding vineyard estates.
 title: Bordeaux
 type: location
-heritage: 6.329
-vibrancy: 6.175
-nature: 5.147
-off_the_beaten_track: 1.86
+heritage: 5.119
+vibrancy: 5.9
+nature: 5.1
+off_the_beaten_track: 1.859
 ---
 
 Bordeaux is a wine city. Not just because the surrounding vineyards produce some of the most celebrated bottles on earth, but because wine shapes the rhythm of life here — the restaurants, the economy, the landscape, the conversations. If you care about wine at all, this is a pilgrimage.

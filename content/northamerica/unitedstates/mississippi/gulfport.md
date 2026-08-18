@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Gulfport-Harrison_County_P
 latitude: 30.36742
 loc_type: city
 longitude: -89.092816
-score: 3.596
+score: 3.371
 title: Gulfport
 type: location
 snippet: Mississippi Gulf Coast city facing Ship Island and the barrier beaches beyond
   the sound.
-heritage: 2.082
-vibrancy: 3.221
-nature: 4.018
-off_the_beaten_track: 1.342
+heritage: 1.591
+vibrancy: 3.061
+nature: 3.746
+off_the_beaten_track: 1.3
 ---
 
 Gulfport is the second-largest city in Mississippi, sitting on the Gulf of Mexico just west of Biloxi. The two cities run together along the coast, sharing a stretch of white sand beach that faces the Mississippi Sound and the barrier islands beyond.

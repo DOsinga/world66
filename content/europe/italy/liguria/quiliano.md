@@ -5,7 +5,7 @@ done:
 latitude: 44.292536
 loc_type: city
 longitude: 8.412652
-score: 4.282
+score: 4.378
 snippet: Ligurian hill commune near Savona, with Roman road traces, wooded valleys,
   and rare Buzzetto wine.
 sources:
@@ -14,10 +14,10 @@ tags:
 - rivieradellepalme
 title: Quiliano
 type: location
-heritage: 3.741
-vibrancy: 2.365
-nature: 5.052
-off_the_beaten_track: 3.248
+heritage: 3.72
+vibrancy: 2.354
+nature: 5.209
+off_the_beaten_track: 3.259
 ---
 
 Quiliano is a small hill commune in the Ligurian hinterland, tucked into the valley of the Quiliano stream a few kilometres west of Savona. It's not a destination in its own right, but if you're exploring the coast between Savona and Vado Ligure, the valley is worth a detour: ancient Roman road traces, Romanesque churches, and wooded hills that feel a world away from the coastal resort towns below.

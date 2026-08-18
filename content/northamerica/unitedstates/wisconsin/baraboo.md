@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: 43.468056
 longitude: -89.741667
-score: 4.573
+score: 4.561
 snippet: Wisconsin circus town backed by quartzite bluffs, crane conservation, and
   the wild Baraboo Range.
 sources:
 - https://en.wikivoyage.org/wiki/Baraboo
 - https://en.wikipedia.org/wiki/Baraboo,_Wisconsin
 - https://en.wikipedia.org/wiki/Circus_World_Museum
-heritage: 3.081
-vibrancy: 3.139
-nature: 5.571
-off_the_beaten_track: 1.94
+heritage: 3.053
+vibrancy: 3.184
+nature: 5.531
+off_the_beaten_track: 2.03
 ---
 
 Baraboo is a small Wisconsin town with more character than its size suggests. The Ringling brothers began their circus here, and the old winter quarters are now [Circus World](/northamerica/unitedstates/wisconsin/baraboo/circus_world), one of the Midwest's best oddball museums.

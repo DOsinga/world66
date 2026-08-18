@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Holy_Family_Log_Church_Cah
 latitude: 38.5662
 loc_type: city
 longitude: -90.1794
-score: 5.183
+score: 5.021
 snippet: Historic Mississippi settlement with French colonial sites, including Holy
   Family church and the old courthouse.
 title: Cahokia
 type: location
-heritage: 6.862
-vibrancy: 1.653
-nature: 3.023
-off_the_beaten_track: 3.518
+heritage: 6.647
+vibrancy: 1.549
+nature: 2.927
+off_the_beaten_track: 3.554
 ---
 
 One of the earliest European settlements on the central Mississippi, dating to 1699 when French missionaries built a log church here. By the 1740s Cahokia was a thriving trading post, but the French and Indian War scattered much of the population to St. Louis and Ste. Genevieve. It later became the first seat of St. Clair County and served as an administrative center reaching all the way to the Canadian border.

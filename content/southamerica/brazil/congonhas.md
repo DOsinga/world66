@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Congonhas_do_Campo_Bom_Jes
 latitude: -20.5
 loc_type: city
 longitude: -43.8581
-score: 4.97
+score: 4.473
 snippet: Minas Gerais mining town defined by Aleijadinho's soapstone prophets at Bom
   Jesus de Matosinhos.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://whc.unesco.org/en/list/334/
 title: Congonhas
 type: location
-heritage: 5.752
-vibrancy: 4.271
-nature: 4.354
-off_the_beaten_track: 2.855
+heritage: 5.142
+vibrancy: 3.914
+nature: 3.843
+off_the_beaten_track: 3.063
 ---
 
 Congonhas is a small mining town in the mountains of Minas Gerais, about 80 km south of [Belo Horizonte](/southamerica/brazil/belohorizonte), with one overwhelming reason to visit: twelve over-life-size soapstone prophets carved by the eighteenth-century master Aleijadinho, ranged along the terraces in front of the Sanctuary of [Bom Jesus de Matosinhos](/southamerica/brazil/congonhas/bom_jesus_sanctuary). They are widely considered the finest sculptural ensemble of the colonial Americas, and the whole sanctuary complex has been a UNESCO World Heritage site since 1985.

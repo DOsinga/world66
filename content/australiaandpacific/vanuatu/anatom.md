@@ -5,7 +5,7 @@ done:
 latitude: -20.193761
 loc_type: city
 longitude: 169.825176
-score: 5.541
+score: 5.97
 snippet: Remote southern Vanuatu island of forested mountains, clear rivers, reefs,
   and Mystery Island's white sand.
 sources:
@@ -13,10 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Mystery_Island_(Vanuatu)
 title: Anatom
 type: location
-heritage: 2.439
-vibrancy: 1.529
-nature: 6.731
-off_the_beaten_track: 6.087
+heritage: 2.065
+vibrancy: 1.859
+nature: 7.34
+off_the_beaten_track: 6.271
 ---
 
 Anatom (also spelled Aneityum) is the southernmost island in Vanuatu, remote even by the standards of the archipelago. It is a small, mountainous island with dense forest, clear rivers, and fringing reefs that offer good snorkelling and [diving](/australiaandpacific/vanuatu/anatom/diving). The population is tiny — the island was devastated by disease after European contact in the 19th century and has never fully recovered.

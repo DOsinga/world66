@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Nuremberg,_Hauptmarkt_and_
 latitude: 49.453872
 loc_type: city
 longitude: 11.077298
-score: 6.287
+score: 7.306
 snippet: Franconian city of imperial walls and Nazi rally grounds, rebuilt around
   a medieval Altstadt
 title: Nuremberg
 type: location
-heritage: 7.261
-vibrancy: 5.436
-nature: 2.621
-off_the_beaten_track: 1.304
+heritage: 8.114
+vibrancy: 6.973
+nature: 2.749
+off_the_beaten_track: 1.152
 ---
 
 Nuremberg (pop. 520,000) was one of the most powerful cities of the Holy Roman Empire and, seven centuries later, the chosen stage for the Nazi Party's mass rallies — a history the city confronts directly rather than sidesteps. The medieval Altstadt sits inside a complete circuit of [15th-century walls](/europe/germany/bavaria/nuremberg/stadtmauer), its red-roofed skyline dominated by the [Kaiserburg](/europe/germany/bavaria/nuremberg/kaiserburg), the imperial castle that loomed over the city for a thousand years. Much of the old centre was bombed to rubble in January 1945 and rebuilt stone by stone from salvaged material; the streets now look genuinely medieval even where the fabric is post-war.

@@ -14,7 +14,7 @@ quick_facts:
   Elevation: 1,620 m
   First Climbed: 1865, fatally
   Matterhorn: 4,478 m
-score: 6.636
+score: 6.609
 snippet: Car-free Valais mountain village at the foot of the Matterhorn, with skiing
   shared across the Italian border.
 sources:
@@ -26,10 +26,10 @@ tip: Zermatt is car-free — park in Täsch and take the train up. The Matterhor
   you can ski on the glacier.
 title: Zermatt
 type: location
-heritage: 1.025
-vibrancy: 5.478
-nature: 7.638
-off_the_beaten_track: 3.503
+heritage: 1.077
+vibrancy: 5.798
+nature: 7.443
+off_the_beaten_track: 5.267
 ---
 
 Zermatt is the car-free village at the foot of the Matterhorn, one of the most recognizable mountains on earth. At 1,620 metres in the upper Valais, it has been drawing mountaineers since the mid-nineteenth century and skiers since the twentieth. The village itself is small enough to walk end to end in twenty minutes, but the ski area above it is enormous — 360 kilometres of pistes shared with Cervinia across the Italian border, plus summer glacier skiing on Klein Matterhorn that runs year-round.

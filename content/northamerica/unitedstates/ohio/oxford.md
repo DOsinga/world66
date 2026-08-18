@@ -8,15 +8,15 @@ image_license: Public domain
 latitude: 39.507
 loc_type: city
 longitude: -84.745
-score: 4.616
+score: 5.112
 title: Oxford
 type: location
 snippet: Southwest Ohio college town dominated by Miami University's Georgian Revival
   campus and farmland setting.
-heritage: 3.771
-vibrancy: 4.971
-nature: 2.689
-off_the_beaten_track: 0.832
+heritage: 4.206
+vibrancy: 5.495
+nature: 2.3
+off_the_beaten_track: 0.835
 ---
 
 Oxford is the quintessential American college town, tucked into the rolling farmland of southwest Ohio between [Dayton](/northamerica/unitedstates/ohio/dayton) and [Cincinnati](/northamerica/unitedstates/ohio/cincinnati). [Miami University](/northamerica/unitedstates/ohio/oxford/miami_university_campus) — a public university often called a "public Ivy" — dominates the town and gives it a character far larger than its population would suggest. Robert Frost called it "the most beautiful campus that ever there was," and the uniform Georgian Revival architecture makes a good case.

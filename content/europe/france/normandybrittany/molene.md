@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 48.3958
 longitude: -4.9584
-score: 5.141
+score: 5.642
 snippet: Tiny car-free Breton island in the Iroise Sea, ringed by reefs, seals, and
   lighthouses.
 wikidata: Q223711
@@ -17,10 +17,10 @@ image: molene.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Paysage_(%C3%8Ele-Mol%C3%A8ne)_(2).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Gzen92
-heritage: 4.374
-vibrancy: 2.929
-nature: 6.115
-off_the_beaten_track: 3.991
+heritage: 4.836
+vibrancy: 2.883
+nature: 6.696
+off_the_beaten_track: 4.214
 ---
 
 Molène is a speck of inhabited land in the Iroise Sea, west of Brest and Le Conquet. The island is small enough to walk around without thinking about transport, and exposed enough that the Atlantic always feels close: reefs, low stone houses, sea birds, and boats threading through the archipelago.

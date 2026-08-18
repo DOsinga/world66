@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: 59.9333
 longitude: 20.8833
-score: 6.285
+score: 6.418
 snippet: Outer Åland island with medieval monastery ruins, Bronze Age seal-hunter
   sites, and bare Baltic rock.
 sources:
 - https://en.wikivoyage.org/wiki/K%C3%B6kar
 - https://en.wikipedia.org/wiki/K%C3%B6kar
 - https://en.wikipedia.org/wiki/K%C3%A4llsk%C3%A4r
-heritage: 6.448
-vibrancy: 1.897
-nature: 7.009
-off_the_beaten_track: 4.534
+heritage: 6.275
+vibrancy: 1.54
+nature: 7.288
+off_the_beaten_track: 5.14
 ---
 
 Kökar is one of the outer [Åland Islands](/europe/finland/alandislands), small in population but unusually rich in texture. Ferries reach it from Långnäs on Åland and from Galtby in the Turku archipelago, which makes the journey part of the point: water, skerries, low horizons, and a slow arrival into a working island community.

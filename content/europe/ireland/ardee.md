@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ardee_Castle,_Co._Louth_(g
 latitude: 53.855309
 loc_type: city
 longitude: -6.538914
-score: 2.539
+score: 2.873
 snippet: County Louth market town with medieval tower houses and Ferdia's legend on
   the River Dee
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Ardee_Castle
 title: Ardee
 type: location
-heritage: 2.979
-vibrancy: 1.846
-nature: 2.349
-off_the_beaten_track: 1.499
+heritage: 3.512
+vibrancy: 1.742
+nature: 2.336
+off_the_beaten_track: 1.491
 ---
 
 Ardee is a small market town in County Louth, roughly halfway between Dublin and the Northern Irish border. It has one of the best-preserved collections of medieval buildings in Ireland — Ardee Castle, a fortified tower house right on the main street, and Hatch's Castle nearby are both striking reminders that this was once a frontier town on the edge of the English Pale.

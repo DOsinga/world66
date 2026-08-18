@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Gare_ferroviaire_de_Thi%C3
 latitude: 14.791461
 loc_type: city
 longitude: -16.925605
-score: 5.117
+score: 4.437
 snippet: Senegalese transport city east of Dakar, known for its national tapestry
   atelier and railway history.
 title: Thiès
 type: location
-heritage: 6.011
-vibrancy: 4.217
-nature: 3.832
-off_the_beaten_track: 3.861
+heritage: 5.109
+vibrancy: 3.866
+nature: 3.447
+off_the_beaten_track: 3.651
 ---
 
 Thiès is Senegal's third-largest city, about 70 km east of Dakar on the main road and rail line to the interior. It is an important transport and commercial hub, but it also has a distinct cultural identity — most travellers pass through it without stopping, which is a mistake.

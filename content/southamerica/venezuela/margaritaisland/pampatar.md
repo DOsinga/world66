@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Pampatar
 latitude: 10.9957
 loc_type: city
 longitude: -63.8051
-score: 4.835
+score: 4.736
 snippet: Colonial Margarita Island town built around a calm bay and 17th-century waterfront
   fortress.
 title: Pampatar
 type: location
-heritage: 2.832
-vibrancy: 3.408
-nature: 5.848
-off_the_beaten_track: 3.247
+heritage: 2.374
+vibrancy: 3.093
+nature: 5.846
+off_the_beaten_track: 3.289
 ---
 
 Pampatar is a colonial town on the east coast, founded in the 1530s and named after the Guaiqueri word for "town of salt" -- a salt flat mine still operates nearby. The town is built around a deep, calm bay where fishing boats and yachts sit side by side.

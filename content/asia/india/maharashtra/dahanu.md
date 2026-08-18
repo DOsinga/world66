@@ -2,7 +2,7 @@
 latitude: 19.9887
 loc_type: city
 longitude: 72.7338
-score: 3.126
+score: 3.461
 snippet: Coastal orchard town north of Mumbai, famous for chikoo fruit and quiet beaches.
 title: Dahanu
 type: location
@@ -10,10 +10,10 @@ image: dahanu.jpg
 image_source: https://commons.wikimedia.org/wiki/File:My_House,_Dahanu,_MS.,_India_-_panoramio.jpg
 image_license: CC BY 3.0
 image_attribution: Raman Patel
-heritage: 2.579
-vibrancy: 2.239
-nature: 3.744
-off_the_beaten_track: 3.608
+heritage: 2.575
+vibrancy: 2.661
+nature: 4.078
+off_the_beaten_track: 3.157
 ---
 
 Dahanu is a small coastal town in Palghar district, about 100 km up the shore from Mumbai, where the relentless suburban sprawl finally gives out and the Konkan coast reasserts itself in long, empty beaches and a green hinterland of fruit orchards. It is best known for **chikoo** (sapota) — the soft, sweet, brown-skinned fruit that grows in vast plantations around the town and turns up in everything from milkshakes to chikoo *barfi*. The orchards run almost down to the sand, and the contrast between the lush groves and the open Arabian Sea is the whole charm of the place.

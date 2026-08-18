@@ -12,10 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Blue_Lake_/_Warwar
 title: Mount Gambier
 type: location
-heritage: 3.977
-vibrancy: 1.891
-nature: 6.461
-off_the_beaten_track: 3.532
+heritage: 4.13
+vibrancy: 1.729
+nature: 6.396
+off_the_beaten_track: 3.852
 ---
 
 Mount Gambier is South Australia's second largest city, set in a landscape shaped by volcanic forces — craters, lakes, sinkholes, and limestone caves riddle the ground beneath the townsite and for kilometres around. The city sits on the slopes of a dormant maar volcano, and its most famous resident is the Blue Lake: a deep crater lake that turns a vivid, almost supernatural cobalt blue each November and stays that way until March, then quietly shifts back to grey. Nobody fully understands why.

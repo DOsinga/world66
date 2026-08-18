@@ -5,7 +5,7 @@ loc_type: city
 latitude: 40.7549
 longitude: -82.5229
 wikidata: Q983698
-score: 3.051
+score: 3.229
 snippet: North-central Ohio city known for the Shawshank prison, gardens, and a small
   historic downtown.
 sources:
@@ -13,10 +13,10 @@ sources:
 - https://www.wikidata.org/wiki/Q983698
 - https://en.wikipedia.org/wiki/Mansfield,_Ohio
 - https://destinationmansfield.com/
-heritage: 2.829
-vibrancy: 1.796
-nature: 3.53
-off_the_beaten_track: 1.747
+heritage: 3.442
+vibrancy: 1.97
+nature: 3.546
+off_the_beaten_track: 1.61
 ---
 
 Mansfield is a north-central Ohio city with one attraction strong enough to pull travellers off the interstate: the [Ohio State Reformatory](/northamerica/unitedstates/ohio/mansfield/ohio_state_reformatory), the huge former prison made famous by *The Shawshank Redemption*. That landmark gives the city a sharper identity than many towns of similar size.

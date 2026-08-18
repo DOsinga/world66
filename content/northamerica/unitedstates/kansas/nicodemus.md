@@ -5,7 +5,7 @@ done:
 latitude: 39.392595
 loc_type: city
 longitude: -99.617882
-score: 2.218
+score: 2.266
 snippet: Kansas prairie town founded by Black homesteaders during Reconstruction and
   preserved as a National Historic Site
 sources:
@@ -13,10 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Nicodemus_National_Historic_Site
 title: Nicodemus
 type: location
-heritage: 2.696
-vibrancy: 1.645
-nature: 1.694
-off_the_beaten_track: 2.372
+heritage: 2.813
+vibrancy: 1.178
+nature: 1.548
+off_the_beaten_track: 2.47
 ---
 
 On the rolling shortgrass prairie of north-central Kansas, Nicodemus stands as one of the most quietly powerful places in America. Founded on April 18, 1877, by a group of six Black and one white Kansans, it became the first and only remaining western town established by African Americans during the Reconstruction era. The people who came here — many of them former enslaved people and their children, part of the wave of "Exodusters" fleeing the post-Reconstruction South — broke sod, built churches, and proved that freedom could take root even on the unforgiving Great Plains.

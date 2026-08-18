@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 46.6294
 longitude: -61.013
-score: 5.226
+score: 5.289
 snippet: Acadian fishing village on the Cabot Trail beside Cape Breton Highlands National
   Park.
 wikidata: Q992768
@@ -17,10 +17,10 @@ image: cheticamp.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ch%C3%A9ticamp_vue_de_l%27%C3%AEle.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Dennis Jarvis
-heritage: 3.163
-vibrancy: 2.179
-nature: 6.76
-off_the_beaten_track: 3.159
+heritage: 3.344
+vibrancy: 1.917
+nature: 6.781
+off_the_beaten_track: 3.532
 ---
 
 Chéticamp is an Acadian fishing village on the west coast of [Cape Breton](/northamerica/canada/novascotia/capebreton), squeezed between the Gulf of St. Lawrence and the highlands. It is one of the best bases on the Cabot Trail because the village has its own culture, not just a convenient address near the park gate.

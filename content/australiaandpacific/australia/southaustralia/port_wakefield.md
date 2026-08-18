@@ -5,7 +5,7 @@ loc_type: city
 latitude: -34.1853
 longitude: 138.1554
 wikidata: Q3398412
-score: 2.771
+score: 2.758
 snippet: Small Gulf St Vincent port town with mangrove birding, old wharf history,
   and a tidal pool.
 sources:
@@ -13,10 +13,10 @@ sources:
 - https://southaustralia.com/products/yorke-peninsula/destination-information/port-wakefield
 - https://www.walkingsa.org.au/walk/find-a-place-to-walk/port-wakefield-historical-walk/
 - https://yorkepeninsula.com.au/explore/samphire-coast
-heritage: 2.778
-vibrancy: 1.452
-nature: 3.118
-off_the_beaten_track: 2.89
+heritage: 3.045
+vibrancy: 1.483
+nature: 2.981
+off_the_beaten_track: 2.9
 ---
 
 Port Wakefield is a small town at the head of Gulf St Vincent, just far enough from Adelaide to feel like the country has opened up. Most people know it as the highway stop where traffic splits for Yorke Peninsula, Port Augusta, and the north. That is true, but the older town behind the roadhouses has more character than a quick fuel stop suggests.

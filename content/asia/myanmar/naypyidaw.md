@@ -7,7 +7,7 @@ quick_facts:
   Built: From scratch in 2005
   Population: ~1 million (officially)
   Uppatasanti Pagoda: A Shwedagon replica
-score: 2.409
+score: 2.332
 snippet: Myanmar's eerily empty, purpose-built capital of 20-lane highways and giant
   ministries.
 tip: Naypyidaw is a curiosity more than a destination — come to see the surreal scale
@@ -17,10 +17,10 @@ tip: Naypyidaw is a curiosity more than a destination — come to see the surrea
   carefully before any visit.
 title: Naypyidaw
 type: location
-heritage: 2.107
-vibrancy: 1.563
-nature: 2.336
-off_the_beaten_track: 3.858
+heritage: 1.998
+vibrancy: 1.931
+nature: 2.603
+off_the_beaten_track: 3.316
 ---
 
 Naypyidaw — also spelt Nay Pyi Taw, 'abode of kings' — is Myanmar's purpose-built capital, conjured out of scrubland in the centre of the country. In November 2005 the military government abruptly announced it was moving the seat of power here from Yangon, and convoys of civil servants were ordered to relocate within days to a city that barely existed. The result is one of the strangest capitals on earth.

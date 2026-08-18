@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:4th_St_Petersburg,_Florida
 latitude: 27.7731
 loc_type: city
 longitude: -82.64
-score: 5.482
+score: 5.474
 snippet: Pinellas Peninsula city with Gulf beaches, a walkable downtown, and the Salvador
   Dalí Museum.
 title: St. Petersburg
 type: location
-heritage: 4.074
-vibrancy: 6.058
-nature: 3.685
-off_the_beaten_track: 1.002
+heritage: 4.612
+vibrancy: 5.843
+nature: 2.526
+off_the_beaten_track: 0.957
 ---
 
 St. Petersburg sits at the tip of the Pinellas Peninsula, wrapped on three sides by Tampa Bay and the Gulf of Mexico. It is warmer, sunnier, and more laid-back than its larger neighbor [Tampa](/northamerica/unitedstates/florida/tampabayarea/tampa) across the bay — and it has better beaches, a stronger arts scene, and a walkable downtown that Tampa has long envied.

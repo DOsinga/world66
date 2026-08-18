@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Equinox_Hotel_Manchester_V
 latitude: 43.1628
 loc_type: city
 longitude: -73.0723
-score: 5.404
+score: 5.399
 snippet: Green Mountains town below Mount Equinox, known for outlet shopping, valley
   scenery, and Hildene
 title: Manchester
 type: location
-heritage: 5.08
-vibrancy: 5.158
-nature: 5.884
-off_the_beaten_track: 3.21
+heritage: 3.968
+vibrancy: 5.23
+nature: 5.837
+off_the_beaten_track: 2.813
 ---
 
 Manchester is a small Vermont town that punches well above its weight for shopping and scenery. Nestled in the Green Mountains with views of Mount Equinox rising above the valley, it draws visitors for its famous outlet stores — a dense strip of designer brands that has made the town the retail capital of southern Vermont — and for the quieter pleasures of the surrounding hills.

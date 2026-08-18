@@ -8,19 +8,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Crossing_the_High_Atlas_mo
 latitude: 31.06
 loc_type: city
 longitude: -7.9
-score: 5.862
+score: 6.065
 snippet: Morocco’s highest mountain range, stretching from Atlantic slopes to desert
   passes around Jebel Toubkal.
 title: High Atlas
 type: location
-heritage: 2.895
-vibrancy: 0.934
-nature: 7.251
-off_the_beaten_track: 6.013
+heritage: 2.646
+vibrancy: 1.501
+nature: 7.485
+off_the_beaten_track: 6.28
 ---
 
 The High Atlas is the main mountain range of Morocco and the highest in North Africa, with [Jebel Toubkal](/africa/morocco/high_atlas/jebel_toubkal) reaching 4,167 metres. The range stretches roughly 700km from the Atlantic coast in the southwest to the Algerian border in the northeast.
 
 For trekkers, the Toubkal circuit based from the village of [Imlil](/africa/morocco/high_atlas/imlil_village) is the standard starting point. Toubkal itself can be climbed in two days from Imlil by reasonably fit people without technical climbing skills in summer — a hut (Refuge du Toubkal) sits at 3,200m for an overnight stop. In winter, the approach requires ice axes and crampons. The neighbouring massif of [Ouanoukrim](/africa/morocco/high_atlas/ouanoukrim) offers a quieter alternative summit at 4,083m with comparable views.
 
-The range is also home to Berber villages largely unchanged in structure for centuries, with traditional agriculture, mule transport, and distinctive clay-and-stone architecture. The [Ourika Valley](/africa/morocco/high_atlas/ourika_valley) and the road to [Oukaïmeden](/africa/morocco/high_atlas/oukaimeden) (Africa's highest ski resort in winter) are accessible day trips from Marrakech. The [Tizi n'Tichka](/africa/morocco/high_atlas/tizi_ntichka) pass (2,260m) is the main road route over the Atlas to the south and is spectacular. The whole high country falls within [Toubkal National Park](/africa/morocco/high_atlas/toubkal_national_park), Morocco's first protected area.
+The range is also home to Berber villages largely unchanged in structure for centuries, with traditional agriculture, mule transport, and distinctive clay-and-stone architecture. The [Ourika Valley](/africa/morocco/high_atlas/ourika_valley) and the road to [Oukaïmeden](/africa/morocco/oukaimeden) (Africa's highest ski resort in winter) are accessible day trips from Marrakech. The [Tizi n'Tichka](/africa/morocco/high_atlas/tizi_ntichka) pass (2,260m) is the main road route over the Atlas to the south and is spectacular. The whole high country falls within [Toubkal National Park](/africa/morocco/high_atlas/toubkal_national_park), Morocco's first protected area.

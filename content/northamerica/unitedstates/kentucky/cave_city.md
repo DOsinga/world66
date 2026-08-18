@@ -4,15 +4,15 @@ type: location
 loc_type: city
 latitude: 37.137222
 longitude: -85.956944
-score: 4.777
+score: 4.785
 snippet: Small Kentucky cave-country base at Mammoth Cave's doorstep, with show caves
   and roadside family attractions.
 sources:
 - https://en.wikivoyage.org/wiki/Cave_City
-heritage: 3.045
-vibrancy: 2.838
-nature: 6.033
-off_the_beaten_track: 2.442
+heritage: 2.981
+vibrancy: 2.892
+nature: 6.019
+off_the_beaten_track: 2.497
 ---
 
 Cave City is a small south-central Kentucky town whose name is the honest part of the sales pitch. It sits just outside Mammoth Cave National Park and has grown around cave tours, family attractions, rock shops, and the steady traffic between Louisville and Nashville.

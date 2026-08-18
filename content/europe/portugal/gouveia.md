@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 40.5
 longitude: -7.6
-score: 4.874
+score: 4.889
 snippet: Serra da Estrela foothill town with wide Beira Alta views and a small modern-art
   surprise.
 sources:
@@ -17,10 +17,10 @@ image: gouveia.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Vista_do_Monte_Calv%C3%A1rio.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Gouveialover
-heritage: 3.881
-vibrancy: 2.073
-nature: 5.909
-off_the_beaten_track: 3.055
+heritage: 4.008
+vibrancy: 1.967
+nature: 5.879
+off_the_beaten_track: 3.223
 ---
 
 Gouveia sits on the western shoulder of the Serra da Estrela, high enough for wide views across the Mondego valley but still more town than mountain resort. It is a practical base for the northwestern side of Portugal's highest range, with stone streets, wool-country history, and a calmer mood than the better-known mountain villages.

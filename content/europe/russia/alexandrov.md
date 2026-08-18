@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: 56.3917
 longitude: 38.7139
-score: 4.356
+score: 4.713
 snippet: Old Russian town northeast of Moscow, centred on Ivan the Terrible's former
   royal sloboda.
 sources:
 - https://en.wikivoyage.org/wiki/Alexandrov
 - https://en.wikipedia.org/wiki/Alexandrov,_Vladimir_Oblast
-heritage: 3.802
-vibrancy: 2.981
-nature: 5.14
-off_the_beaten_track: 5.014
+heritage: 4.153
+vibrancy: 3.191
+nature: 5.545
+off_the_beaten_track: 4.683
 ---
 
 Alexandrov is a small city northeast of [Moscow](/europe/russia/moscow), on the edge of the Golden Ring country. Its quiet streets would not suggest a former seat of power, but in the 16th century Ivan the Terrible ruled from the Alexandrov Sloboda for years, turning this fortified residence into one of the most important places in Russia.

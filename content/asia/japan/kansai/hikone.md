@@ -1,0 +1,29 @@
+---
+done:
+  location_cleanup: 2026-04-08
+  location_enrich: '2026-06-02'
+image: hikone.jpg
+image_license: CC BY-SA 4.0
+image_source: https://commons.wikimedia.org/wiki/File:260425_CLUB_HARIE_Hikone-mihorinoya_Hikone_Shiga_pref_Japan05s4.jpg
+latitude: 35.271701
+loc_type: city
+longitude: 136.263448
+score: 4.793
+snippet: Castle town on Lake Biwa, known for one of Japan’s few original National
+  Treasure castles.
+title: Hikone
+type: location
+image_attribution: 663highland
+heritage: 5.793
+vibrancy: 3.279
+nature: 4.046
+off_the_beaten_track: 2.466
+---
+
+Hikone is a castle town on the eastern shore of [Lake Biwa](/asia/japan/kansai/hikone/lake_biwa) in Shiga Prefecture. Its main draw is [Hikone Castle](/asia/japan/kansai/hikone/hikone_castle), one of only twelve original castles remaining in Japan and one of just four designated as National Treasures — alongside [Matsumoto](/asia/japan/chubu/matsumoto), [Inuyama](/asia/japan/chubu/inuyama), and [Himeji](/asia/japan/kansai/himeji). Dating from 1622, the castle is compact but beautifully preserved, and the grounds are spectacular during cherry blossom season.
+
+The southwestern approach to the castle has been redeveloped into [Yume-Kyōbashi Castle Road](/asia/japan/kansai/hikone/yume_kyobashi), a street of shops and restaurants built in Edo-period style. It is touristy but pleasant. The castle grounds also include [Genkyu-en](/asia/japan/kansai/hikone/genkyuen), a lovely landscape garden modelled on the famous gardens of Kyoto. North of the castle, the [Matsubara Shimoyashiki Gardens](/asia/japan/kansai/hikone/matsubara_gardens) offer a quieter lakeside alternative.
+
+On the northern outskirts of town, [Toriimoto](/asia/japan/kansai/hikone/toriimoto) is one of the best-preserved post towns on the old Nakasendō highway — worth the short detour for its intact Edo-period streetscape. The ruins of [Sawayama Castle](/asia/japan/kansai/hikone/sawayama_castle), once the stronghold of Ishida Mitsunari before the Battle of Sekigahara, sit on a forested ridge above the city.
+
+In late August, Hikone hosts the Japan International Birdman Rally (*Toriningen*), one of Japan's more eccentric events — competitors launch themselves from a platform over Lake Biwa in home-built flying machines and gliders.

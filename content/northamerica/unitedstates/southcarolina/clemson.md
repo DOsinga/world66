@@ -2,7 +2,7 @@
 latitude: 34.685
 loc_type: city
 longitude: -82.8147
-score: 4.561
+score: 4.674
 snippet: Upcountry South Carolina college town shaped by Clemson University, gardens,
   football, and Lake Hartwell.
 sources:
@@ -10,10 +10,10 @@ sources:
 - https://www.clemson.edu/historic-properties/
 title: Clemson
 type: location
-heritage: 2.724
-vibrancy: 3.806
-nature: 5.23
-off_the_beaten_track: 1.256
+heritage: 2.774
+vibrancy: 3.91
+nature: 5.355
+off_the_beaten_track: 1.185
 ---
 
 Clemson is a small Upcountry South Carolina town whose travel identity is almost entirely tied to the university. That can be a strength. The campus gives the town a walkable centre, a real sense of ritual, and a set of public sights that are more interesting than the average college stop.

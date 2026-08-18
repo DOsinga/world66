@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aden_in_the_late_1970s.png
 latitude: 12.789585
 loc_type: city
 longitude: 45.028504
-score: 4.869
+score: 4.803
 title: Aden
 type: location
 snippet: Yemeni port city built around an extinct volcanic crater, with British-era
   streets and ancient water cisterns.
-heritage: 5.58
-vibrancy: 2.5
-nature: 2.515
-off_the_beaten_track: 6.805
+heritage: 5.452
+vibrancy: 1.67
+nature: 2.121
+off_the_beaten_track: 6.88
 ---
 
 Aden is Yemen's main port and former southern capital, built in and around the crater of an extinct volcano on a peninsula jutting into the Gulf of Aden. It has a long history as a trading hub — the British made it a strategic coaling station and free port in the 19th century, and at its peak it was one of the busiest ports in the world. That era is visible in the grid of colonial-era buildings, many now crumbling.

@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Gold_River_Harbour,_Britis
 latitude: 49.780755
 loc_type: city
 longitude: -126.047302
-score: 5.468
+score: 5.316
 snippet: Vancouver Island village reached through Strathcona Provincial Park and glacier-fed
   lake scenery.
 title: Gold River
 type: location
-heritage: 3.96
-vibrancy: 1.555
-nature: 6.797
-off_the_beaten_track: 4.298
+heritage: 3.769
+vibrancy: 1.374
+nature: 6.642
+off_the_beaten_track: 4.741
 ---
 
 Gold River is a small village of about 1,000 people in the geographical centre of Vancouver Island, reached by an 80-kilometre road that winds through Strathcona Provincial Park. The approach alone justifies the trip: sheer rock faces streaked with waterfalls, a chain of dark glacier-fed lakes, and old-growth forest pressing in on both sides. You arrive expecting a town and find a quiet community that seems to exist largely on its own terms.

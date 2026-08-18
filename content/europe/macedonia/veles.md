@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Clocktower_Veles_Macedonia
 latitude: 41.72
 loc_type: city
 longitude: 21.7933
-score: 4.53
+score: 3.934
 snippet: Central Macedonian city on the Vardar, known for poets, old churches, and
   a dramatic war memorial
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://travel2macedonia.com/tourist-attraction/mladost-lake-veles
 title: Veles
 type: location
-heritage: 5.526
-vibrancy: 2.794
-nature: 3.709
-off_the_beaten_track: 3.216
+heritage: 4.651
+vibrancy: 2.98
+nature: 3.557
+off_the_beaten_track: 3.107
 ---
 
 Veles sits in the middle of North Macedonia on the Vardar, a river city built into hills and long shaped by the road and rail corridor between Skopje, the south, and the Aegean. It is not a polished showpiece, but it has a strong local identity: writers, revolutionaries, pottery, old churches, and a steep urban landscape that feels very different from lakeside [Ohrid](/europe/macedonia/ohrid) or monumental [Skopje](/europe/macedonia/skopje).

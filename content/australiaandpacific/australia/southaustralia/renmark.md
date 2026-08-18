@@ -5,7 +5,7 @@ loc_type: city
 latitude: -34.166667
 longitude: 140.733333
 wikidata: Q746623
-score: 4.045
+score: 4.157
 snippet: Murray River town shaped by irrigation, paddle steamers, limestone cliffs,
   and Riverland orchards.
 sources:
@@ -19,10 +19,10 @@ image: renmark.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Renmarkview.jpg
 image_license: CC BY 2.5
 image_attribution: Spitzhofer.B
-heritage: 2.681
-vibrancy: 2.199
-nature: 5.133
-off_the_beaten_track: 2.021
+heritage: 3.18
+vibrancy: 2.359
+nature: 5.095
+off_the_beaten_track: 1.838
 ---
 
 Renmark is one of the better Murray River towns in South Australia, and its appeal is more specific than the usual riverfront picnic stop. It began in 1887 as Australia's first irrigation colony, when the Chaffey brothers tried to turn a dry bend of the Murray into an ordered fruit-growing settlement. The orchards still matter, but for travellers the story is easiest to read along the river.

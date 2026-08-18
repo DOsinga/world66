@@ -12,13 +12,13 @@ sources:
 - https://en.wikipedia.org/wiki/Charlotte_Amalie,_U.S._Virgin_Islands
 title: Charlotte Amalie
 type: location
-score: 6.606
+score: 6.159
 snippet: Caribbean harbour capital with Danish colonial streets climbing above Charlotte
   Amalie's deep St. Thomas port.
-heritage: 4.983
-vibrancy: 6.529
-nature: 6.805
-off_the_beaten_track: 1.983
+heritage: 4.502
+vibrancy: 5.825
+nature: 6.732
+off_the_beaten_track: 1.779
 ---
 
 Charlotte Amalie is the capital of the United States Virgin Islands and the largest city in the territory, built around a deep natural harbour on the south coast of St. Thomas. It was a Danish colonial capital for 250 years before the United States bought the territory in 1917, and the Danish legacy is still legible everywhere — in the red brick and stucco buildings climbing the hillsides, in the street names (Dronningens Gade, Kongens Gade), and in [Fort Christian](/northamerica/virginislands/charlotteamalie/fort_christian), the 17th-century fortress that anchors the waterfront.

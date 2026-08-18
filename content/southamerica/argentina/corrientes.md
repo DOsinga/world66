@@ -4,15 +4,15 @@ done:
 latitude: -27.467
 loc_type: city
 longitude: -58.8341
-score: 4.115
+score: 4.195
 snippet: Northeastern Argentine river city with colonial roots, grid streets, and
   a relaxed Paraná waterfront.
 title: Corrientes
 type: location
-heritage: 3.328
-vibrancy: 3.727
-nature: 4.578
-off_the_beaten_track: 2.113
+heritage: 2.904
+vibrancy: 3.979
+nature: 4.579
+off_the_beaten_track: 2.072
 ---
 
 Corrientes is one of the oldest cities in Argentina, founded in 1588 at the confluence of the Paraná and Paraguay rivers, about 1,000 km north of [Buenos Aires](/southamerica/argentina/buenosaires). It is a pleasant place to stop for a few days — not spectacular, but genuinely relaxed and authentically Argentine without the tourist polish of the big cities.

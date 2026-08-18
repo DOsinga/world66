@@ -12,13 +12,13 @@ loc_type: city
 snippet: Portuguese lagoon city of canals, moliceiro boats, Art Nouveau facades, and
   sweet ovos moles.
 longitude: -8.6538
-score: 5.468
+score: 5.137
 title: Aveiro
 type: location
-heritage: 5.265
-vibrancy: 5.586
-nature: 4.937
-off_the_beaten_track: 2.036
+heritage: 4.626
+vibrancy: 5.286
+nature: 4.752
+off_the_beaten_track: 2.031
 ---
 
 Aveiro sits on a shallow coastal lagoon about an hour south of [Porto](/europe/portugal/oporto), and its nickname — the Portuguese Venice — is well earned. The city is laced with narrow canals crossed by arched bridges, and colourful moliceiro boats drift between them carrying tourists where fishermen once harvested seaweed.

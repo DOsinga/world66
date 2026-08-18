@@ -5,17 +5,17 @@ loc_type: city
 latitude: -36.858
 longitude: 143.731
 wikidata: Q739912
-score: 4.357
+score: 4.757
 snippet: Small Victorian Goldfields town tied to the Welcome Stranger nugget and old
   Broadway streetscape.
 sources:
 - https://en.wikivoyage.org/wiki/Dunolly
 - https://www.visitmelbourne.com/regions/goldfields/destinations/dunolly
 - https://www.welcomedunolly.com.au/dunollys-historic-locations/
-heritage: 4.12
-vibrancy: 2.723
-nature: 5.007
-off_the_beaten_track: 4.779
+heritage: 4.275
+vibrancy: 3.143
+nature: 5.561
+off_the_beaten_track: 4.48
 ---
 
 *Australia and Pacific > Australia > Victoria > Dunolly*

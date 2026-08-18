@@ -5,14 +5,14 @@ done:
 latitude: 8.486071
 loc_type: city
 longitude: 124.656805
-score: 5.822
+score: 5.812
 snippet: Northern Mindanao port city known for whitewater rafting on the Cagayan River.
 title: Cagayan de Oro City
 type: location
-heritage: 4.025
-vibrancy: 5.185
-nature: 6.519
-off_the_beaten_track: 4.086
+heritage: 3.758
+vibrancy: 4.991
+nature: 6.597
+off_the_beaten_track: 4.345
 ---
 
 Cagayan de Oro — known locally as CDO — is the main city of Northern Mindanao, a busy commercial hub on the coast where the Cagayan River meets Macajalar Bay. It's best known as the whitewater rafting capital of the Philippines: the Cagayan River has a series of rapids that attract adventure tourists from across the country, and outfitters running day trips are easy to find.

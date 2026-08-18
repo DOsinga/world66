@@ -5,7 +5,7 @@ done:
 latitude: 37.840835
 loc_type: city
 longitude: 24.862382
-score: 5.666
+score: 6.253
 snippet: Green northern Cyclades island with stone footpaths, spring-fed valleys,
   Venetian dovecotes, and a cultured Chora.
 title: Andros
@@ -14,10 +14,10 @@ image: andros.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Andros_town.JPG
 image_license: Public domain
 image_attribution: Vassilis Kyrtatas
-heritage: 5.159
-vibrancy: 2.909
-nature: 6.595
-off_the_beaten_track: 4.594
+heritage: 5.982
+vibrancy: 2.753
+nature: 7.157
+off_the_beaten_track: 4.715
 ---
 
 Andros is the northernmost and second-largest island of the Cyclades, but it feels nothing like its famous neighbours. Where Mykonos and Santorini draw crowds, Andros is green, mountainous, and relatively quiet — an island of stone-walled footpaths, spring-fed valleys, and Venetian dovecotes scattered across the hillsides.

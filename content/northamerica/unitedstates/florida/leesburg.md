@@ -5,7 +5,7 @@ done:
 latitude: 28.8106
 loc_type: city
 longitude: -81.8773
-score: 3.592
+score: 3.466
 snippet: Central Florida lake city between Lake Harris and Lake Griffin, known for
   boating, fishing, and Bikefest.
 sources:
@@ -13,10 +13,10 @@ sources:
 - https://www.leesburgflorida.gov/activities/recreation/facility_rentals/parks.php
 title: Leesburg
 type: location
-heritage: 2.622
-vibrancy: 2.798
-nature: 4.216
-off_the_beaten_track: 1.217
+heritage: 2.72
+vibrancy: 2.858
+nature: 3.992
+off_the_beaten_track: 1.097
 ---
 
 Leesburg is a small city in Lake County in central Florida, set among the chain of lakes that gives the county its name. It sits on a narrow strip of land between Lake Harris and Lake Griffin, and the waterfront is its most attractive feature — fishing, boating, and birdwatching are the main draws.

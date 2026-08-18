@@ -10,15 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ascension_Cathedral,_Almat
 latitude: 43.236392
 loc_type: city
 longitude: 76.945728
-score: 6.21
+score: 6.642
 snippet: Kazakhstan’s cultural capital, set below the Tien Shan with mountain views
   from broad Soviet-era streets.
 title: Almaty
 type: location
-heritage: 5.415
-vibrancy: 6.559
-nature: 4.241
-off_the_beaten_track: 4.72
+heritage: 7.601
+vibrancy: 5.885
+nature: 5.132
+off_the_beaten_track: 4.607
 ---
 
 Almaty is Kazakhstan's largest city and its cultural capital — the former capital of the Kazakh Soviet Socialist Republic and, after independence, of Kazakhstan itself until the government relocated to Astana in 1997. The city of over two million people sits in a broad bowl at the northern foothills of the Tien Shan mountains, with glaciated peaks visible from the city streets on any clear day. No other major city in the world has such spectacular mountain access from its centre.

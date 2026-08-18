@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 45.298
 longitude: -76.727
-score: 4.585
+score: 4.31
 snippet: Ottawa Valley lake village with skiing, motorsport, golf, and forest trails
   close together.
 sources:
@@ -14,10 +14,10 @@ image: calabogie.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Calabogie_Lake_DSCN0811r.jpg
 image_license: CC0
 image_attribution: Petersent
-heritage: 2.094
-vibrancy: 1.992
-nature: 6.145
-off_the_beaten_track: 2.916
+heritage: 1.995
+vibrancy: 1.691
+nature: 5.778
+off_the_beaten_track: 2.956
 ---
 
 Calabogie is a small Ottawa Valley village that has made itself useful in every season. It sits on Calabogie Lake, below low forested hills, about an hour west of Ottawa by car. The village itself is tiny, but the surrounding area has enough specific draws to justify a day away from the capital.

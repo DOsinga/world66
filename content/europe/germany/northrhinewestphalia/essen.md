@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:BaldeneyseeVonWerden.jpg
 latitude: 51.458224
 loc_type: city
 longitude: 7.015817
-score: 3.945
+score: 3.829
 snippet: Ruhr post-industrial city shaped by coal, steel, Zollverein, and major art
   collections
 title: Essen
 type: location
-heritage: 3.148
-vibrancy: 4.277
-nature: 2.93
-off_the_beaten_track: 1.301
+heritage: 2.336
+vibrancy: 4.297
+nature: 2.621
+off_the_beaten_track: 1.386
 ---
 
 Essen was the steel and coal capital of the Ruhr for well over a century, a city built on industry and reshaped by its decline. Today it is one of Germany's more interesting post-industrial cities — [Zollverein](/europe/germany/northrhinewestphalia/essen/zollverein), a UNESCO World Heritage Site, is the most striking example of how the region has repurposed its industrial heritage into culture and tourism. The Bauhaus-style former coal mine now holds the [Ruhr Museum](/europe/germany/northrhinewestphalia/essen/ruhr_museum), a Red Dot Design Museum, and a summer swimming pool, along with Richard Serra's monumental [Slab for the Ruhr](/europe/germany/northrhinewestphalia/essen/slab_for_the_ruhr) atop the adjacent slag heap.

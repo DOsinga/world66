@@ -9,15 +9,15 @@ image_source: https://www.flickr.com/photos/78368745@N00/3213868688
 latitude: 0.0464
 loc_type: city
 longitude: 37.6559
-score: 5.515
+score: 5.66
 snippet: Mount Kenya market town where the miraa trade anchors Meru culture and the
   northeastern highlands.
 title: Meru
 type: location
-heritage: 3.05
-vibrancy: 2.514
-nature: 7.255
-off_the_beaten_track: 3.865
+heritage: 3.415
+vibrancy: 1.938
+nature: 7.326
+off_the_beaten_track: 4.379
 ---
 
 Meru is a substantial market town on the northeastern slopes of Mount Kenya, home to the Meru people — close relatives of the Kikuyu and Embu, with their own distinct traditions and language.

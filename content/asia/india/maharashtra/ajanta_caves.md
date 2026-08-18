@@ -4,7 +4,7 @@ done:
 latitude: 20.5525
 loc_type: feature
 longitude: 75.6995
-score: 6.601
+score: 6.815
 snippet: Ancient Buddhist cave complex where cliff-cut sanctuaries preserve some of
   India's finest early paintings.
 title: Ajanta Caves
@@ -13,10 +13,10 @@ image: ajanta_caves.jpg
 image_source: https://commons.wikimedia.org/wiki/File:015_Cave_1,_Main_Shrine_and_Paintings_(33470082003).jpg
 image_license: CC BY 2.0
 image_attribution: Photo Dharma from Sadao, Thailand
-heritage: 8.015
-vibrancy: 2.447
-nature: 5.491
-off_the_beaten_track: 3.417
+heritage: 8.301
+vibrancy: 2.297
+nature: 5.609
+off_the_beaten_track: 3.397
 ---
 
 Cut into a horseshoe-shaped cliff above the Waghora river, the Ajanta Caves are one of the greatest artistic achievements of the ancient world. The 30 rock-cut Buddhist sanctuaries date from around the 2nd century BCE to the 6th century CE, and contain extraordinarily well-preserved paintings and sculptures that document the evolution of Buddhist art across seven centuries. The site was abandoned around 650 CE and lay forgotten under jungle until a British officer stumbled across it in 1819 — which is why so much survives intact. UNESCO listed Ajanta as a World Heritage Site in 1983.

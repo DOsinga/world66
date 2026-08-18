@@ -9,14 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Storbron_Sundsvall_13.jpg
 latitude: 62.390755
 loc_type: city
 longitude: 17.307102
-score: 4.723
+score: 4.793
 snippet: Northern Swedish coastal city rebuilt in stone after the 1888 fire, creating
   its Stenstan centre.
 title: Sundsvall
 type: location
-heritage: 3.355
-vibrancy: 2.918
-nature: 5.898
+heritage: 3.278
+vibrancy: 3.19
+nature: 5.888
 off_the_beaten_track: 2.157
 ---
 

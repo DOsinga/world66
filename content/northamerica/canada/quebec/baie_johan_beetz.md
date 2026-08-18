@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 50.2872
 longitude: -62.8081
-score: 4.348
+score: 4.338
 snippet: Tiny Quebec North Shore village with wild river trails, Gulf views, and Johan
   Beetz's red-roofed house.
 wikidata: Q2879382
@@ -14,10 +14,10 @@ sources:
 - https://www.wikidata.org/wiki/Q2879382
 - https://www.tourismecote-nord.com/en/baie-johan-beetz/municipalities/
 - https://en.wikipedia.org/wiki/Baie-Johan-Beetz
-heritage: 2.353
-vibrancy: 1.898
-nature: 5.379
-off_the_beaten_track: 4.458
+heritage: 2.282
+vibrancy: 1.749
+nature: 5.35
+off_the_beaten_track: 4.501
 ---
 
 Baie-Johan-Beetz is a very small village on Québec's lower North Shore, where Route 138 runs beside the Gulf of St. Lawrence and the Piashti River reaches the sea. It is not a place for a long checklist. Its value is the feeling of being far out on the coast, with rock, water, burned forest, cold rivers, and almost no hurry.

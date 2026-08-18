@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 55.7606
 longitude: -120.2356
-score: 4.498
+score: 4.583
 snippet: Peace Country city famous as Mile Zero of the Alaska Highway.
 sources:
 - https://en.wikivoyage.org/wiki/Dawson_Creek
@@ -12,10 +12,10 @@ image: dawson_creek.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Alaska_Highway_Dawson_Creek_British_Columbia.jpg
 image_license: Public domain
 image_attribution: Will Elmore
-heritage: 3.88
-vibrancy: 2.418
-nature: 5.328
-off_the_beaten_track: 4.724
+heritage: 3.645
+vibrancy: 2.349
+nature: 5.559
+off_the_beaten_track: 4.596
 ---
 
 Dawson Creek is a small city in northeastern [British Columbia](/northamerica/canada/britishcolumbia), best known as Mile Zero of the Alaska Highway. For many travellers that is the whole point: this is where the long road north to Fort Nelson, Watson Lake, Whitehorse, and Alaska begins.

@@ -7,21 +7,23 @@ image: korcula.jpg
 image_license: CC BY 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Kor%C4%8Dula_Old_Town,_Croatia_(2024).jpg
 latitude: 42.943781
-loc_type: region
+loc_type: island
 longitude: 16.913476
-score: 0.69
+score: 5.231
+tags:
+- dalmatia
 title: Korčula
 type: location
-snippet: Croatian island town with medieval walls, stone lanes, vineyards, and claims
-  to Marco Polo.
+snippet: Croatian Adriatic island of stone villages and vineyards, its walled main
+  town often called a miniature Dubrovnik.
+heritage: 5.307
+vibrancy: 4.047
+nature: 5.858
+off_the_beaten_track: 3.211
 ---
 
-Korčula is one of the larger islands along Croatia's Dalmatian coast, covered in pine forests, olive groves, and vineyards, and edged with stone villages that tumble down to the sea. The island's main settlement — also called Korčula — is a fortified medieval town jutting on a small peninsula into the Pelješac Channel. It is often described as a miniature Dubrovnik, and the comparison holds up: the same honey-coloured limestone walls, the same narrow lanes herringboned off a central axis, but far smaller and without the crowds.
+Korčula is one of the larger islands along Croatia's Dalmatian coast, covered in pine forests, olive groves, and vineyards, and edged with stone villages that tumble down to the sea. The island's main settlement, [Korčula town](/europe/croatia/korcula_town), is a fortified medieval town jutting on a small peninsula into the Pelješac Channel, often described as a miniature Dubrovnik — the same honey-coloured limestone walls and herringboned lanes, but far smaller and without the crowds.
 
-Korčulans claim Marco Polo was born here, and the house traditionally identified as his birthplace is open to the public. The claim is contested, but the setting is compelling enough that you stop caring after a while.
+The island's other towns are worth the short trip. [Vela Luka](/europe/croatia/vela_luka) on the western tip has an important prehistoric cave site, Lumbarda has vineyards and sandy beaches, and Blato is a sleepy inland village with a wide plane-tree avenue. Inland, the [Kočje rock formations](/europe/croatia/korcula/kocje_rock_formations) offer a shady, rocky break from the coast.
 
-The Cathedral of St Mark dominates the old town. Next to it the Bishop's Treasury holds a surprisingly rich collection of Croatian and Italian Renaissance art, manuscripts, and ecclesiastical vestments. The Town Museum, installed in the 16th-century Palazzo Gabrielis, covers the island's long maritime history.
-
-The island's other towns are worth the short trip. Vela Luka on the western tip has an important prehistoric cave site, Lumbarda has vineyards and sandy beaches, and Blato is a sleepy inland village with a wide plane-tree avenue.
-
-Ferries and catamarans connect Korčula to Split, Hvar, and Dubrovnik. The most reliable year-round approach is the short ferry from Orebić on the Pelješac peninsula.
+Ferries and catamarans connect Korčula to Split, Hvar, and Dubrovnik. The most reliable year-round approach is the short ferry from Orebić on the Pelješac peninsula. Far out in the open Adriatic, administratively part of Korčula, [Palagruža](/europe/croatia/palagruza) is Croatia's most remote island — reachable only by private boat or organised excursion.

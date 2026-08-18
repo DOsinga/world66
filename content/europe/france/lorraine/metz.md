@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Metz_centre_ville.jpg
 latitude: 49.1193
 loc_type: city
 longitude: 6.1757
-score: 5.802
+score: 6.272
 snippet: Eastern French river city of honey-coloured limestone, Gothic glass, and
   Moselle island streets.
 title: Metz
 type: location
-heritage: 6.77
-vibrancy: 4.874
-nature: 2.463
-off_the_beaten_track: 1.861
+heritage: 7.586
+vibrancy: 4.727
+nature: 3.476
+off_the_beaten_track: 1.928
 ---
 
 Metz is one of the most beautiful cities in eastern France, a place where three thousand years of history are written in honey-coloured limestone. The city sits at the confluence of the Moselle and Seille rivers, and its old centre is spread across several islands connected by bridges — a geography that gives the place a quiet, water-threaded elegance.

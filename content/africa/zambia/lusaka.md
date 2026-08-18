@@ -13,7 +13,7 @@ quick_facts:
   On a Plateau: ~1,280 m, mild evenings
   Population: ~3 million
   Safari Hub: Gateway to the parks
-score: 5.239
+score: 5.112
 snippet: Zambian capital centred on Cairo Road, useful for supplies, documents, and
   onward travel planning.
 tip: Lusaka is a flat, fast-growing commercial capital — more a hub than a sight in
@@ -22,10 +22,10 @@ tip: Lusaka is a flat, fast-growing commercial capital — more a hub than a sig
   are lively; the city is generally relaxed, but use trusted transport after dark.
 title: Lusaka
 type: location
-heritage: 5.3
-vibrancy: 5.214
-nature: 5.303
-off_the_beaten_track: 3.156
+heritage: 4.418
+vibrancy: 4.981
+nature: 5.452
+off_the_beaten_track: 3.076
 ---
 
 Lusaka is the capital city of Zambia. It doesn't have the headline sights of some African capitals, but it's a sprawling, energetic place that rewards a few days of exploration -- and it's a practical base for sorting out documents and planning onward travel across the region.

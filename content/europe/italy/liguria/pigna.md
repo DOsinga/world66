@@ -9,17 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:18037_Pigna_IM,_Italy_-_pa
 latitude: 43.932714
 loc_type: city
 longitude: 7.663314
-score: 5.473
+score: 5.294
 snippet: Hilltop Ligurian village in the Nervia Valley, known for thermal springs
   and stone lanes.
 tags:
 - nerviavalley
 title: Pigna
 type: location
-heritage: 6.398
-vibrancy: 3.012
-nature: 5.112
-off_the_beaten_track: 2.893
+heritage: 6.231
+vibrancy: 2.81
+nature: 4.851
+off_the_beaten_track: 2.887
 ---
 
 Pigna is a small hilltop village high in the Nervia Valley, inland from Ventimiglia in the far west of [Liguria](/europe/italy/liguria). Together with neighbouring [Castelvittorio](/europe/italy/liguria/castelvittorio), it sits on a narrow, winding road that climbs through terraced hillsides above [Dolceacqua](/europe/italy/liguria/dolceacqua).

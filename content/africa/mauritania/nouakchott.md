@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Fish_market_in_Nouakchott_
 latitude: 18.0791
 loc_type: city
 longitude: -15.9785
-score: 4.509
+score: 4.293
 snippet: Young Mauritanian capital built from a coastal outpost, where desert migration
   reshaped city life.
 title: Nouakchott
 type: location
-heritage: 3.386
-vibrancy: 2.01
-nature: 4.747
-off_the_beaten_track: 6.994
+heritage: 3.602
+vibrancy: 1.842
+nature: 4.091
+off_the_beaten_track: 6.922
 ---
 
 Nouakchott is the capital of Mauritania and one of the youngest capital cities in the world. When France granted independence in 1960, Mauritania had no obvious urban centre — most of its people were nomads. The new government chose a small administrative outpost near the Atlantic coast and built a capital around it. In the decades since, people have flooded in from the desert as drought and conflict pushed nomadic communities toward the city. Today roughly a third of Mauritania's population — around a million people — lives here.

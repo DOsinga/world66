@@ -9,17 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Olbia,_frazione_Porto_Roto
 latitude: 41.02831
 loc_type: city
 longitude: 9.547705
-score: 5.605
+score: 5.708
 snippet: Planned Sardinian harbour resort built around a circular bay north of the
   Costa Smeralda.
 tags:
 - costasmeralda
 title: Porto Rotondo
 type: location
-heritage: 2.432
-vibrancy: 5.489
-nature: 5.904
-off_the_beaten_track: 1.052
+heritage: 2.781
+vibrancy: 5.529
+nature: 6.171
+off_the_beaten_track: 0.912
 ---
 
 Porto Rotondo is a planned resort village just north of the **Costa Smeralda** on Sardinia's north-eastern coast, wrapped around a perfectly circular natural harbour that gave it its name ("round port"). Unlike most Sardinian settlements, it has no real history: the village was built from scratch in the 1960s by two Venetian brothers as a discreet rival to the Aga Khan's nearby Costa Smeralda, and designed in the same toned-down Mediterranean style — low pastel-washed houses, narrow lanes, umbrella pines, and a central piazza lined with cafés and designer boutiques. It is small, unashamedly upmarket, and at the height of summer is one of the most expensive villages in Italy.

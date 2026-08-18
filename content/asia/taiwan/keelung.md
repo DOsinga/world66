@@ -10,15 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2021_Port_of_Keelung_TAIWA
 latitude: 25.1276
 loc_type: city
 longitude: 121.7392
-score: 5.292
+score: 5.181
 title: Keelung
 type: location
 snippet: Rainy Taiwanese port city with a working harbour and the food-focused Miaokou
   Night Market.
-heritage: 4.396
-vibrancy: 5.154
-nature: 5.647
-off_the_beaten_track: 1.403
+heritage: 3.638
+vibrancy: 5.176
+nature: 5.194
+off_the_beaten_track: 1.311
 ---
 
 Keelung is a working port city on Taiwan's northeast coast, about 30 minutes from [Taipei](/asia/taiwan/taipei) by train. It is one of the rainiest cities in Taiwan and emphatically not a polished tourist destination. That is part of its appeal. The harbour is the real thing — container ships, fishing boats, and a waterfront that smells of diesel and salt air rather than designer perfume.

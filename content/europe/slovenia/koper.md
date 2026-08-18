@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Koper,_mesto.jpg
 latitude: 45.547986
 loc_type: city
 longitude: 13.730478
-score: 3.252
+score: 3.279
 snippet: Slovenian Adriatic port city with a Venetian old town set around Titov Trg
 sources:
 - https://en.wikipedia.org/wiki/Koper
@@ -16,10 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Da_Ponte_Fountain
 title: Koper
 type: location
-heritage: 2.947
-vibrancy: 3.392
-nature: 2.632
-off_the_beaten_track: 1.125
+heritage: 2.73
+vibrancy: 3.512
+nature: 2.581
+off_the_beaten_track: 1.204
 ---
 
 Koper is the largest town on Slovenia's short Adriatic coastline, and one of the country's most underrated cities. Its compact medieval center sits on what was once an island, surrounded by the sea before land reclamation connected it to the mainland. The old town's Venetian-influenced architecture — [Praetorian Palace](/europe/slovenia/koper/praetorian_palace), [Cathedral of the Assumption](/europe/slovenia/koper/cathedral_and_bell_tower), narrow stone streets — makes it a pleasure to walk through, and it rarely draws the crowds that hit nearby Piran.

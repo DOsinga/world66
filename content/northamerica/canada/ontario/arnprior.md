@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: 45.4349
 longitude: -76.3529
-score: 4.68
+score: 4.099
 snippet: Ottawa Valley town where old-growth white pines meet the Madawaska and Ottawa
   rivers.
 sources:
 - https://en.wikivoyage.org/wiki/Arnprior
 - https://en.wikipedia.org/wiki/Arnprior
-heritage: 2.313
-vibrancy: 1.701
-nature: 6.273
-off_the_beaten_track: 2.695
+heritage: 2.083
+vibrancy: 1.511
+nature: 5.47
+off_the_beaten_track: 2.498
 ---
 
 Arnprior sits where the Madawaska River runs into the Ottawa, about 45 kilometres west of [Ottawa](/northamerica/canada/ontario/ottawa). It is a small town, but not a blank one: lumber money left stone civic buildings, the rivers give it a pleasant edge, and Gillies Grove preserves the white pines that once made this valley rich.

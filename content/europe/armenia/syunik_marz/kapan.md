@@ -5,7 +5,7 @@ loc_type: city
 latitude: 39.2076
 longitude: 46.4049
 wikidata: Q31583
-score: 5.121
+score: 5.238
 snippet: Southern Armenian mining city below Mount Khustup, with fortress ruins and
   forested monasteries nearby.
 sources:
@@ -13,10 +13,10 @@ sources:
 - https://traveltoarmenia.am/destination/kapan/
 - https://infokapan.am/khustup/eng
 - https://armeniahiddengems.aua.am/monument/vahanavank-monastery/
-heritage: 4.945
-vibrancy: 2.263
-nature: 5.841
-off_the_beaten_track: 4.46
+heritage: 4.932
+vibrancy: 2.017
+nature: 6.029
+off_the_beaten_track: 4.622
 ---
 
 *Europe > Armenia > Syunik Marz > Kapan*

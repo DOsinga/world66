@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: 51.7
 longitude: -105.45
-score: 5.014
+score: 4.962
 snippet: Saskatchewan prairie resort pair known for Little Manitou Lake's buoyant
   salt water and old dance hall.
 sources:
 - https://en.wikivoyage.org/wiki/Watrous-Manitou_Beach
 - https://watrousmanitou.com/
 - https://www.tourismsaskatchewan.com/community/288/manitou-beach
-heritage: 3.207
-vibrancy: 1.727
-nature: 6.413
-off_the_beaten_track: 3.337
+heritage: 3.375
+vibrancy: 1.545
+nature: 6.26
+off_the_beaten_track: 3.615
 ---
 
 Watrous and Manitou Beach make a small prairie resort pair east of Saskatoon. Watrous is the service town; Manitou Beach is the reason to stop, sitting on Little Manitou Lake, whose mineral-rich salt water lets swimmers float with very little effort.

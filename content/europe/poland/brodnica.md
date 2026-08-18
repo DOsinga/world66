@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Brodnica,_Du%C5%BCy_Rynek.
 latitude: 53.258092
 loc_type: city
 longitude: 19.399363
-score: 4.031
+score: 4.311
 snippet: Northern Polish town with a triangular market square, Teutonic castle remains,
   and Drwęca river setting.
 title: Brodnica
 type: location
-heritage: 4.472
-vibrancy: 1.835
-nature: 4.309
-off_the_beaten_track: 2.248
+heritage: 5.002
+vibrancy: 1.815
+nature: 4.113
+off_the_beaten_track: 2.075
 ---
 
 Brodnica is a town in Kuyavian-Pomeranian Voivodeship in northern Poland, on the [Drwęca river](/europe/poland/brodnica/drweca_river). It has a modest medieval core that makes it worth a stop if you are travelling through this part of the country.

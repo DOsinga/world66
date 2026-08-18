@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -20.7256
 longitude: 139.4927
-score: 4.224
+score: 4.869
 snippet: Outback Queensland mining city of mine tours, red-dirt sunsets, fossils,
   and rodeo culture.
 sources:
@@ -14,10 +14,10 @@ image: mount_isa.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mount_Isa_with_view_of_the_mine%27s_chimney_stack,_2009.JPG
 image_license: CC BY 4.0
 image_attribution: Kerry Raymond
-heritage: 3.721
-vibrancy: 2.933
-nature: 4.665
-off_the_beaten_track: 6.169
+heritage: 3.547
+vibrancy: 3.656
+nature: 5.654
+off_the_beaten_track: 6.201
 ---
 
 Mount Isa is a mining city in far north-west Queensland, closer in spirit to the Northern Territory than to the beaches most travellers associate with the state. The mine stacks, dry hills, big roads, and furnace-like summer heat define the place. It is not pretty in the conventional sense, but it is memorable.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_in_Sayulita,_Mexico.
 latitude: 20.8689
 loc_type: city
 longitude: -105.4407
-score: 6.451
+score: 7.149
 snippet: Pacific surf town north of Puerto Vallarta, with a sandy beach and relaxed
   plaza life
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://www.sayulitalife.com/sayulitainfo
 title: Sayulita
 type: location
-heritage: 4.437
-vibrancy: 6.089
-nature: 7.056
-off_the_beaten_track: 3.301
+heritage: 5.196
+vibrancy: 6.663
+nature: 7.861
+off_the_beaten_track: 3.329
 ---
 
 Sayulita is a small surf town on Mexico's Pacific coast, about 40 kilometers north of [Puerto Vallarta](/northamerica/mexico/puertovallarta). It has the kind of laid-back character that draws people in for a day and keeps them for a week: colorful buildings, a long sandy beach, reliable surf, good tacos, and a [town square](/northamerica/mexico/sayulita/sayulita_plaza) where the main activity is sitting and doing nothing in particular.

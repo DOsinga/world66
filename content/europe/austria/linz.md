@@ -7,7 +7,7 @@ done:
 latitude: 48.3069
 loc_type: city
 longitude: 14.2858
-score: 5.439
+score: 5.811
 snippet: Danube city between Vienna and Salzburg, recast from industrial centre into
   Austria’s contemporary arts hub
 title: Linz
@@ -16,10 +16,10 @@ image: linz.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Blick_%C3%BCber_Linz_von_der_Franz-Josefs-Warte.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Thomas Ledl
-heritage: 5.963
-vibrancy: 5.281
-nature: 2.85
-off_the_beaten_track: 1.874
+heritage: 6.603
+vibrancy: 5.242
+nature: 3.754
+off_the_beaten_track: 1.855
 ---
 
 Linz is Austria's third-largest city, sitting on the Danube about halfway between Vienna and Salzburg. For a long time it carried an industrial reputation — steel mills on the southern edge, a name most outsiders associated with Hitler's childhood home. That reputation has largely given way to something more interesting: Linz has quietly become one of Austria's best cities for contemporary art and design.

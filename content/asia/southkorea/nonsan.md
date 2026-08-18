@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gwanchoksa_-_Courtyard_IMG
 latitude: 36.203889
 loc_type: city
 longitude: 127.084722
-score: 2.256
+score: 1.937
 snippet: Quiet Korean city of Confucian academies, Baekje memory, strawberries, and
   old temple stonework.
 sources:
@@ -20,10 +20,10 @@ sources:
 title: Nonsan
 type: location
 wikidata: Q42088
-heritage: 2.219
-vibrancy: 1.862
-nature: 2.557
-off_the_beaten_track: 1.875
+heritage: 1.711
+vibrancy: 1.684
+nature: 2.189
+off_the_beaten_track: 2.048
 ---
 
 Nonsan sits in the inland farm country of South Chungcheong, south of [Daejeon](/asia/southkorea/daejeon). It is not a polished city break, but it has enough old Korea to reward a spare day: a giant Goryeo stone Buddha, one of the UNESCO-listed seowon academies, lake walks, and a few odd modern detours.

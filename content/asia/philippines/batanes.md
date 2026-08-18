@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Batanes_Marlboro_Country.j
 latitude: 20.644247
 loc_type: city
 longitude: 121.893946
-score: 6.312
+score: 6.365
 snippet: Northern Philippine island province of Ivatan stone houses, green hills,
   and Pacific cliffs.
 title: Batanes
 type: location
-heritage: 4.797
-vibrancy: 1.067
-nature: 7.75
-off_the_beaten_track: 5.618
+heritage: 5.564
+vibrancy: 0.895
+nature: 7.507
+off_the_beaten_track: 5.715
 ---
 
 Batanes is the Philippines' northernmost province — a cluster of ten small islands in the Luzon Strait, closer to Taiwan than to Manila. Only the three largest islands (Batan, Itbayat, and Sabtang) are inhabited, and the total population is among the smallest in the country. The provincial capital is Basco on Batan Island.

@@ -2,7 +2,7 @@
 latitude: 44.15
 loc_type: feature
 longitude: 8.2
-score: 5.432
+score: 5.453
 snippet: Ligurian coast stretch from Varazze to Andora, lined with palm promenades,
   ports, beaches, and historic towns.
 title: Riviera delle Palme
@@ -11,10 +11,10 @@ image: rivieradellepalme.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Alassio002.jpg
 image_license: CC BY 3.0
 image_attribution: Georges Jansoone (JoJan)
-heritage: 2.739
-vibrancy: 3.868
-nature: 6.55
-off_the_beaten_track: 1.467
+heritage: 2.991
+vibrancy: 4.363
+nature: 6.344
+off_the_beaten_track: 1.081
 ---
 
 The Riviera delle Palme — the Riviera of the Palms — stretches along the Ligurian coast from [Varazze](/europe/italy/liguria/varazze) in the east to [Andora](/europe/italy/liguria/andora) in the west, taking in [Savona](/europe/italy/liguria/savona), [Finale Ligure](/europe/italy/liguria/finaleligure), [Loano](/europe/italy/liguria/loano), [Albenga](/europe/italy/liguria/albenga), and [Alassio](/europe/italy/liguria/alassio) along the way. The name comes from the palm-lined promenades that the towns planted in the nineteenth century to attract northern European visitors, and the palms are still there, lining the seafronts between stretches of sandy and pebble beach.

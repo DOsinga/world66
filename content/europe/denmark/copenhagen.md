@@ -17,7 +17,7 @@ quick_facts:
   Little Mermaid: Only 1.25 m tall
   Metro Population: 1.4 million
   Tivoli: Opened 1843
-score: 6.662
+score: 6.931
 snippet: Danish capital of royal palaces, bicycle streets, harbour neighbourhoods,
   and bold modern architecture.
 tip: Copenhagen is flat and bike-mad — rent a bike and move like a local; there are
@@ -26,10 +26,10 @@ tip: Copenhagen is flat and bike-mad — rent a bike and move like a local; ther
   'new Nordic' meals are often at lunch, when the tasting menus cost far less.
 title: Copenhagen
 type: location
-heritage: 6.459
-vibrancy: 6.789
-nature: 3.993
-off_the_beaten_track: 1.117
+heritage: 6.4
+vibrancy: 7.185
+nature: 4.295
+off_the_beaten_track: 1.09
 ---
 
 Copenhagen began as a tiny fishing village called Havn in the 12th century. Bishop Absalon of Roskilde fortified it, traders followed, and by 1417 it was the capital of Denmark. Today it is one of Europe's most livable cities, a place where old royal palaces sit comfortably alongside bold modern architecture, and where nearly half the population commutes by bicycle.

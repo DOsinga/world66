@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 33.6458
 longitude: -114.23
-score: 3.619
+score: 3.945
 snippet: Arizona desert town where winter RV camps, gem shows, and camel lore overwhelm
   the map.
 sources:
@@ -15,10 +15,10 @@ image: quartzsite.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2025-01-20_01_Sign_on_Highway_95_South_for_the_Town_of_Quartzsite,_AZ_USA.jpg
 image_license: CC BY 4.0
 image_attribution: Gordon Leggett
-heritage: 2.392
-vibrancy: 2.042
-nature: 4.595
-off_the_beaten_track: 3.162
+heritage: 2.676
+vibrancy: 2.122
+nature: 4.981
+off_the_beaten_track: 2.954
 ---
 
 Quartzsite is a small desert town on Interstate 10 that becomes something much stranger in winter. For most of the year it is quiet, dusty, and easy to miss. From roughly December through February, RVers, rockhounds, flea-market sellers, and gem-show regulars spread across town and the surrounding public land until the place feels like a temporary desert city.

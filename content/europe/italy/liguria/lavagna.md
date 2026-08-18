@@ -4,17 +4,17 @@ done:
 latitude: 44.312154
 loc_type: city
 longitude: 9.341706
-score: 4.37
+score: 4.207
 snippet: Quiet Ligurian coastal town across from Chiavari, centred on a large marina
   on the Entella.
 tags:
 - tigullio
 title: Lavagna
 type: location
-heritage: 4.825
-vibrancy: 2.658
-nature: 4.727
-off_the_beaten_track: 2.882
+heritage: 4.506
+vibrancy: 2.569
+nature: 4.611
+off_the_beaten_track: 2.909
 ---
 
 Lavagna sits on the eastern bank of the Entella river, directly across from [Chiavari](/europe/italy/liguria/chiavari) and effectively its quieter twin. The town developed along a main street running perpendicular to the shore — typical of Ligurian coastal settlements that grew to service a harbour rather than a beach.

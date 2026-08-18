@@ -6,7 +6,7 @@ done:
 latitude: -19.154005
 loc_type: feature
 longitude: 22.980094
-score: 7.695
+score: 7.733
 snippet: Northern Botswana inland delta where Okavango waters spread into wetlands
   across the Kalahari sands.
 title: Okavango Delta
@@ -15,15 +15,15 @@ image: okavangodelta.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Traves%C3%ADa_del_delta_del_Okavango_en_makoro,_Botsuana,_2018-08-01,_DD_22.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Diego Delso
-heritage: 1.517
-vibrancy: 2.544
+heritage: 4.034
+vibrancy: 1.221
 nature: 9.97
-off_the_beaten_track: 6.414
+off_the_beaten_track: 6.608
 ---
 
 The Okavango River never reaches the sea. Instead, it fans out across northern Botswana into one of the largest inland deltas on earth — over 16,000 square kilometres of palm forests, grasslands, flood plains, islands, and lagoons, all spilling into the sands of the [Kalahari Desert](/africa/botswana/kalaharidesert). The contrast of lush wetland meeting bone-dry desert is what earns the delta its nickname: the Jewel of the Kalahari.
 
-The wildlife here is extraordinary. Elephants, hippos, crocodiles, lions, leopards, African wild dogs, giraffes, and hundreds of bird species move through the delta's mosaic of channels and islands. The best way to see it is by mokoro — a traditional dugout canoe poled through shallow waterways — or on a guided walking safari across one of the larger islands. Game drives work well too, particularly in the [Moremi Game Reserve](/africa/botswana/okavangodelta/things_to_do/moremigamereserve) on the delta's eastern edge.
+The wildlife here is extraordinary. Elephants, hippos, crocodiles, lions, leopards, African wild dogs, giraffes, and hundreds of bird species move through the delta's mosaic of channels and islands. The best way to see it is by mokoro — a traditional dugout canoe poled through shallow waterways — or on a guided walking safari across one of the larger islands. Game drives work well too, particularly in the [Moremi Game Reserve](/africa/botswana/okavangodelta/moremigamereserve) on the delta's eastern edge.
 
 The delta floods seasonally, with water arriving from Angola's highlands between June and August — the peak of Botswana's dry season. This is the best time to visit: animals concentrate around the shrinking water sources and the birdlife is spectacular. The wet season (November to March) brings rain, green landscapes, and migratory birds, but many tracks become impassable.
 

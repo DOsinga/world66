@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Situs_Gunung_Padang.jpg
 latitude: -6.8117
 loc_type: city
 longitude: 107.1453
-score: 3.853
+score: 3.761
 snippet: West Java valley city tied to Gunung Padang, rice fields, and its own chicken
   porridge.
 sources:
@@ -15,10 +15,10 @@ sources:
 - https://www.wikidata.org/wiki/Q11462
 title: Cianjur
 type: location
-heritage: 2.262
-vibrancy: 1.789
-nature: 5.014
-off_the_beaten_track: 2.638
+heritage: 2.285
+vibrancy: 1.731
+nature: 4.861
+off_the_beaten_track: 2.426
 ---
 
 Cianjur is a valley city in West Java, sitting between Bandung, Sukabumi, and the Puncak pass. It is not polished, but it gives you a slower Sundanese stop on the old Jakarta-Bandung road, with rice fields close to town and mountains rising beyond the edge of the city.

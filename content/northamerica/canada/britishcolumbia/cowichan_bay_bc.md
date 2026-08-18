@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:CowichanBay.jpg
 latitude: 48.741701
 loc_type: city
 longitude: -123.626404
-score: 4.837
+score: 4.868
 snippet: Vancouver Island working harbour village with seafood shacks, tidal flats,
   and Cowichan food culture.
 sources:
 - https://en.wikipedia.org/wiki/Cowichan_Bay
 title: Cowichan Bay
 type: location
-heritage: 3.601
-vibrancy: 2.506
-nature: 5.971
-off_the_beaten_track: 2.911
+heritage: 3.482
+vibrancy: 2.303
+nature: 6.069
+off_the_beaten_track: 3.255
 ---
 
 Cowichan Bay is a small working village on the eastern shore of Vancouver Island, about 45 minutes south of Victoria. It sits at the mouth of the [Cowichan River](/northamerica/canada/britishcolumbia/cowichan_bay_bc/cowichan_river), with a jumble of boats, seafood shacks, and heritage buildings perched on pilings above the tidal flats.

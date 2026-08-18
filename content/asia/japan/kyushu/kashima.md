@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 33.1036
 longitude: 130.0989
-score: 4.385
+score: 3.957
 snippet: Saga city of vermilion Inari halls, old sake streets, and Ariake Sea mudflat
   festivals.
 wikidata: Q684494
@@ -16,10 +16,10 @@ image: kashima.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Yutoku_Inari_Shrine.jpg
 image_license: CC BY 3.0
 image_attribution: LemonadeNWWW
-heritage: 5.216
-vibrancy: 2.011
-nature: 3.894
-off_the_beaten_track: 2.803
+heritage: 4.689
+vibrancy: 2.028
+nature: 3.552
+off_the_beaten_track: 2.631
 ---
 
 Kashima sits in southern Saga Prefecture, between low hills and the tidal flats of the Ariake Sea. It is easy to confuse with the more famous Kashima in Ibaraki, but this one has its own strong mix: a spectacular Inari shrine, an old sake-brewing district, and a local willingness to turn mud into a festival.

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Plze%C5%88_Cathedral_of_Sa
 latitude: 49.747741
 loc_type: city
 longitude: 13.377525
-score: 5.397
+score: 6.206
 snippet: Czech city where pale lager was first brewed in 1842 at the Pilsner Urquell
   site.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Pilsner_Urquell_Brewery
 title: Plzeň
 type: location
-heritage: 6.013
-vibrancy: 5.113
-nature: 2.052
-off_the_beaten_track: 1.296
+heritage: 6.979
+vibrancy: 5.748
+nature: 2.809
+off_the_beaten_track: 1.281
 ---
 
 Plzeň (Pilsen) is a place of pilgrimage for anyone who likes beer — this is where lager was invented. In 1842 the Bavarian brewer Josef Groll produced the first batch of pale lager in the town's new brewery, and the word "Pilsner" has been synonymous with the style ever since. The [Pilsner Urquell Brewery](/europe/czechrepublic/plzen/pilsner_urquell_brewery), still operating on the original site, offers tours that end in the unfiltered cellars.

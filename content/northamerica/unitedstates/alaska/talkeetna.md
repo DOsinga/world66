@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Welcome_to_beautiful_downt
 latitude: 62.3209
 loc_type: city
 longitude: -150.1066
-score: 5.783
+score: 6.165
 snippet: Alaskan river town and Denali staging point, full of bush planes and log
   buildings
 title: Talkeetna
 type: location
-heritage: 3.393
-vibrancy: 1.399
-nature: 7.03
-off_the_beaten_track: 6.334
+heritage: 3.812
+vibrancy: 1.781
+nature: 7.598
+off_the_beaten_track: 6.413
 ---
 
 Talkeetna is a small Alaskan town with an outsized personality. Sitting at the confluence of three rivers with Denali towering to the north, it serves as the staging point for climbers attempting North America's highest peak. But you do not need to be a mountaineer to appreciate this place. Talkeetna runs on bush planes, local characters, and a cheerful disregard for convention.

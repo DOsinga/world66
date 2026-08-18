@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 21.136
 longitude: -99.626
-score: 4.511
+score: 4.771
 snippet: Sierra Gorda mountain town with cloud forest roads, waterfalls, and high
   viewpoints.
 sources:
@@ -15,10 +15,10 @@ image: pinal_de_amoles.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Paisaje_nublado_de_la_Sierra_Gorda_-_Pinal_de_Amoles,_Quer%C3%A9taro.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Juan Carlos Fonseca Mata
-heritage: 2.684
-vibrancy: 2.02
-nature: 5.855
-off_the_beaten_track: 3.514
+heritage: 2.854
+vibrancy: 1.957
+nature: 6.186
+off_the_beaten_track: 3.773
 ---
 
 Pinal de Amoles is a small mountain town in Querétaro's Sierra Gorda, where the road climbs into cooler forest and then drops toward deep valleys. The town began as a mining settlement, but travellers come now for the surrounding landscape: cloud forest, limestone gorges, waterfalls, and viewpoints that feel far removed from the colonial cities to the south.

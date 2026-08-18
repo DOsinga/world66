@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 25.3631
 longitude: 69.7425
-score: 3.868
+score: 3.502
 snippet: Sindh desert-edge town where Rajput, Mughal, and Hindu stories meet around
   an old fort.
 sources:
@@ -14,10 +14,10 @@ image: umerkot.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Umarkot_Fort_view3.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Saqib Qayyum
-heritage: 3.404
-vibrancy: 2.437
-nature: 3.279
-off_the_beaten_track: 6.45
+heritage: 2.204
+vibrancy: 2.114
+nature: 2.592
+off_the_beaten_track: 6.103
 ---
 
 Umerkot, also written Umarkot, sits on the eastern edge of Sindh, close to the Thar Desert. It is a small, hot, dusty town, but it has a sharper identity than many larger service centres: Rajput history, Mughal exile, Hindu pilgrimage, and Sindhi folklore all crowd into a compact place.

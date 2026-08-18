@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_van_Achterber
 latitude: 20.42753
 loc_type: city
 longitude: 4.676631
-score: 4.639
+score: 4.47
 title: In Guezzam
 type: location
 snippet: Southernmost Algerian border town and last stop before the Sahara crossing
   into Niger.
-heritage: 2.863
-vibrancy: 1.359
-nature: 5.756
-off_the_beaten_track: 4.699
+heritage: 3.173
+vibrancy: 1.241
+nature: 5.484
+off_the_beaten_track: 4.735
 ---
 
 In Guezzam is Algeria's southernmost town, sitting right on the border with [Niger](/africa/niger). For overland travellers heading south across the Sahara, this is the last Algerian stop — though the border has been closed intermittently for years due to instability in northern Niger, particularly Tuareg unrest that Algerian authorities feared could spread across the border.

@@ -5,15 +5,15 @@ done:
 latitude: 40.57
 loc_type: city
 longitude: 48.42
-score: 4.141
+score: 4.525
 title: Aqsu
 type: location
 snippet: Quiet eastern Azerbaijani town near the Aqsu Pass, rooted in agriculture
   and old Shemakha history.
-heritage: 4.171
-vibrancy: 3.533
-nature: 4.65
-off_the_beaten_track: 5.51
+heritage: 4.282
+vibrancy: 3.541
+nature: 5.199
+off_the_beaten_track: 5.32
 ---
 
 Aqsu is a quiet provincial town in eastern Azerbaijan, on the road north-east from Kurdamir toward the Şamaxı highway. It sits in an agricultural area known for grape processing, preserves, and cocoon drying — a glimpse of the rural economy that underpins this part of the country.

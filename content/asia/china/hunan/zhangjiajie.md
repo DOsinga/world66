@@ -14,11 +14,11 @@ title: Zhangjiajie
 snippet: Hunan gateway city for Wulingyuan's sandstone pillars, forested gorges, and
   Avatar-famous mountain scenery
 type: location
-score: 5.719
-heritage: 2.023
-vibrancy: 1.888
-nature: 7.504
-off_the_beaten_track: 4.459
+score: 5.832
+heritage: 1.891
+vibrancy: 1.872
+nature: 7.637
+off_the_beaten_track: 4.599
 ---
 
 Zhangjiajie is a small city in northwestern [Hunan](/asia/china/hunan) that functions almost entirely as a gateway to the landscape that surrounds it. The Zhangjiajie National Forest Park and the broader [Wulingyuan](/asia/china/hunan/wulingyuan) scenic area contain more than 3,000 sandstone columns rising hundreds of metres from forested gorges — a topography so alien-looking that James Cameron's production designers studied it while building the world of Avatar, and park authorities later renamed one peak "[Avatar Hallelujah Mountain](/asia/china/hunan/zhangjiajie/avatar_hallelujah_mountain)" in response. The city itself is functional rather than beautiful, with accommodation and restaurants clustered around the train and bus stations, but there is no need to spend more time in it than transit requires.

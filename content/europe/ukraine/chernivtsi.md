@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 48.3
 longitude: 25.9333
-score: 5.054
+score: 4.876
 snippet: Bukovinian city of Habsburg streets, university domes, and layered Ukrainian,
   Romanian, Jewish, and German history.
 image: chernivtsi.jpg
@@ -14,10 +14,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Chernivtsi
 - https://en.wikipedia.org/wiki/Chernivtsi
 - https://www.wikidata.org/wiki/Q157725
-heritage: 6.026
-vibrancy: 3.548
-nature: 4.454
-off_the_beaten_track: 4.794
+heritage: 5.658
+vibrancy: 3.486
+nature: 4.65
+off_the_beaten_track: 4.003
 ---
 
 Chernivtsi is the old capital of Bukovina, tucked into southwestern Ukraine near the Romanian border. Its best streets feel closer to a small Habsburg city than to the industrial east: theatre squares, coffee houses, painted facades, and a university complex that looks like it was built for a vanished empire.

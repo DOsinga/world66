@@ -14,7 +14,7 @@ quick_facts:
   Elevation: ~750 m, cooler than the coast
   Population: ~4 million
   Reunification Monument: A spiralling landmark
-score: 5.211
+score: 5.214
 snippet: Cameroon's hilltop capital, set around 750 metres above sea level in the
   south-central plateau.
 tip: Yaoundé is Cameroon's hilly capital, spread over seven forested hills at a cooler
@@ -23,10 +23,10 @@ tip: Yaoundé is Cameroon's hilly capital, spread over seven forested hills at a
   are shared and cheap — flag one going your direction and pay per seat.
 title: Yaoundé
 type: location
-heritage: 4.894
-vibrancy: 5.371
-nature: 2.84
-off_the_beaten_track: 4.123
+heritage: 3.689
+vibrancy: 5.832
+nature: 3.269
+off_the_beaten_track: 4.024
 ---
 
 Yaoundé is the capital of [Cameroon](/africa/cameroon), a sprawling city of hills and greenery set at around 750 metres altitude in the south-central part of the country. It is quieter and more administrative than the economic capital [Douala](/africa/cameroon/douala), with a calmer pace and a more agreeable climate thanks to the elevation.

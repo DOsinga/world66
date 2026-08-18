@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sumuq_Tower.jpg
 latitude: 41.2564
 loc_type: city
 longitude: 46.8006
-score: 4.38
+score: 4.193
 snippet: Quiet Azerbaijani provincial town near Georgia, with a domed chaikhana and
   historic Georgian Orthodox church.
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Qax
 title: Qax
 type: location
-heritage: 2.802
-vibrancy: 1.752
-nature: 5.367
-off_the_beaten_track: 4.661
+heritage: 2.744
+vibrancy: 1.728
+nature: 5.088
+off_the_beaten_track: 4.624
 ---
 
 Qax is a pleasant, tranquil provincial town in northwestern Azerbaijan, at the base of an appendix of Azerbaijani territory that juts into Georgia and Dagestan. It sits northwest of [Sheki](/europe/azerbaijan/saki) and about 400 km from Baku.

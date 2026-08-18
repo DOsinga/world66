@@ -8,16 +8,16 @@ image_source: https://commons.wikimedia.org/wiki/File:Colorado_Springs_Skyline_(
 latitude: 38.834
 loc_type: city
 longitude: -104.8253
-score: 6.245
+score: 5.63
 title: Colorado Springs
 type: location
 snippet: Front Range city at the foot of Pikes Peak, framed by red sandstone formations
   and mountain air.
 image_attribution: Lumen Wilde
-heritage: 3.862
-vibrancy: 4.804
-nature: 7.358
-off_the_beaten_track: 1.973
+heritage: 2.87
+vibrancy: 4.66
+nature: 6.474
+off_the_beaten_track: 1.56
 ---
 
 Colorado Springs sits at the base of Pikes Peak on the edge of the Great Plains, a sprawling city of half a million people with the Rocky Mountains rising abruptly to the west. The setting is spectacular — red rock formations jut from the foothills, the air is thin and dry, and the views of the Front Range from almost anywhere in town are hard to beat.

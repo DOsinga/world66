@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pecos_Mission_Church_Ruins
 latitude: 35.575
 loc_type: city
 longitude: -105.676
-score: 5.667
+score: 4.966
 snippet: Small Sangre de Cristo village beside pueblo ruins, Civil War ground, and
   high-country trailheads.
 sources:
@@ -15,10 +15,10 @@ sources:
 - https://www.wikidata.org/wiki/Q931185
 title: Pecos
 type: location
-heritage: 6.6
-vibrancy: 1.573
-nature: 5.35
-off_the_beaten_track: 4.044
+heritage: 5.51
+vibrancy: 1.612
+nature: 5.31
+off_the_beaten_track: 4.349
 ---
 
 Pecos is a small village east of [Santa Fe](/northamerica/unitedstates/newmexico/santafe), tucked where the Pecos River comes down from the Sangre de Cristo Mountains. The town itself is quiet, but the setting is unusually rich: Pueblo ruins, a Spanish mission, the Santa Fe Trail, a Civil War battlefield, trout water and mountain wilderness all sit within a short drive.

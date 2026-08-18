@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Monopoli-ItalyiDec052021.j
 latitude: 40.9524
 loc_type: city
 longitude: 17.2999
-score: 5.607
+score: 5.22
 snippet: Puglian port town of whitewashed lanes, Adriatic harbour walls, and layered
   Byzantine-to-Venetian history
 title: Monopoli
 type: location
-heritage: 5.784
-vibrancy: 5.582
-nature: 5.61
-off_the_beaten_track: 2.123
+heritage: 4.704
+vibrancy: 5.252
+nature: 5.137
+off_the_beaten_track: 1.968
 ---
 
 Monopoli is a handsome port town on the Adriatic coast of Puglia, about 50 kilometres southeast of Bari. Its name — from the Greek for "single city" — refers to its origins as a refuge after the Ostrogoth king Totila destroyed the nearby ancient city of Egnathia in 545 AD. What followed was a succession of rulers — Byzantines, Normans, Swabians, Venetians, Spanish — each of whom left something behind in the stone of the old town.

@@ -16,7 +16,7 @@ quick_facts:
   Old + New: Mughal and colonial halves
   Population: ~32 million
   UNESCO Sites: Three within the city
-score: 7.332
+score: 7.531
 snippet: Indian capital and layered megacity where Sultanate, Mughal, British, and
   modern Delhi overlap.
 tip: Delhi is really two cities — chaotic, Mughal-era Old Delhi with its lanes and
@@ -25,10 +25,10 @@ tip: Delhi is really two cities — chaotic, Mughal-era Old Delhi with its lanes
   Tomb and Qutub Minar. Air quality is dire in winter; check it and carry a mask.
 title: Delhi
 type: location
-heritage: 7.317
-vibrancy: 7.393
-nature: 3.648
-off_the_beaten_track: 1.562
+heritage: 7.518
+vibrancy: 7.593
+nature: 3.293
+off_the_beaten_track: 1.429
 ---
 
 Delhi is India's capital, its second-largest city, and, for a lot of travellers, the most overwhelming introduction to the country. Some people get on the first plane out; others are hooked for good. Either reaction is reasonable. What is certain is that Delhi is one of the great urban palimpsests of the world — seven or eight cities built on top of each other over a thousand years, ruled in turn by Rajputs, Delhi Sultanate dynasties, Mughals, and the British. All of those cities are still standing somewhere in the metropolis, and that is the particular fascination of the place.

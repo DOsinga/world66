@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_Kirkland_Washington
 latitude: 47.6765
 loc_type: city
 longitude: -122.2071
-score: 4.252
+score: 3.886
 snippet: Eastside Lake Washington town with a walkable waterfront, public beaches,
   and Seattle skyline views.
 title: Kirkland
 type: location
-heritage: 2.252
-vibrancy: 2.144
-nature: 5.554
-off_the_beaten_track: 2.025
+heritage: 1.553
+vibrancy: 2.21
+nature: 4.955
+off_the_beaten_track: 1.715
 ---
 
 Kirkland sits on the east shore of Lake Washington, about 10 miles from downtown [Seattle](/northamerica/unitedstates/washington/seattle), wedged between Bellevue to the south and Redmond to the east. It is one of the more appealing towns on the Eastside — smaller and less corporate than Bellevue, with a walkable waterfront, a handful of good restaurants, and public beaches along the lake.

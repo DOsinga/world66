@@ -4,7 +4,7 @@ done:
 latitude: 52.035746
 loc_type: city
 longitude: -2.428782
-score: 4.912
+score: 4.359
 snippet: Herefordshire market town with timber-framed streets, a 17th-century Market
   House, and strong literary connections.
 title: Ledbury
@@ -13,10 +13,10 @@ image: ledbury.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ledbury_Town,_Herefordshire._Main_Street.JPG
 image_license: Public domain
 image_attribution: Alf Beard
-heritage: 5.858
-vibrancy: 2.685
-nature: 4.328
-off_the_beaten_track: 1.996
+heritage: 5.278
+vibrancy: 2.326
+nature: 3.659
+off_the_beaten_track: 2.115
 ---
 
 Ledbury is one of the prettiest market towns in Herefordshire, with a remarkable concentration of black-and-white timber-framed buildings lining its streets. Church Lane, a narrow cobbled passage running from the high street up to the church, is the most photographed spot — a tunnel of overhanging medieval buildings that looks like it has not changed in centuries.

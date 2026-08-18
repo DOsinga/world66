@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cruceiro_Ourense_Galiza.jp
 latitude: 41.9468
 loc_type: city
 longitude: -7.4491
-score: 5.423
+score: 5.192
 snippet: Galician wine comarca on the Portuguese border, centred on Verín and the
   Tamega valley
 title: Monterrei
 type: location
-heritage: 6.006
-vibrancy: 5.209
-nature: 5.532
-off_the_beaten_track: 2.951
+heritage: 5.382
+vibrancy: 4.766
+nature: 5.745
+off_the_beaten_track: 2.728
 ---
 
 Monterrei is a wine-producing comarca in the south-east corner of Galicia's Ourense province, right on the Portuguese border. The Valley of Monterrei, watered by the River Tamega and its tributaries, covers the municipalities of Verín, Monterrei, Oímbra, and Castrelo do Val. The valley is one of the warmest and driest corners of Galicia — sheltered from Atlantic rain by mountains to the west — and the light and warmth produce wines that stand apart from the Rías Baixas style.

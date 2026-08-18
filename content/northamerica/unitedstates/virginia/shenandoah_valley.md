@@ -2,16 +2,16 @@
 latitude: 38.9
 loc_type: feature
 longitude: -78.4
-score: 5.394
+score: 5.43
 snippet: The great valley stretching south from Winchester, lined with small historic
   towns, limestone caverns, orchards, vineyards, and the Blue Ridge mountains rising
   on its eastern edge.
 title: Shenandoah Valley
 type: location
-heritage: 5.608
-vibrancy: 4.238
-nature: 5.984
-off_the_beaten_track: 3.372
+heritage: 5.415
+vibrancy: 3.899
+nature: 6.121
+off_the_beaten_track: 3.282
 ---
 
 Winchester sits at the northern end of the Shenandoah Valley, and the corridor stretching south is one of the more rewarding drives on the East Coast. US 340 and US 11 carry you through the heart of the valley — past apple orchards and Civil War roadside markers — as the Blue Ridge rises steadily on your left and Massanutten Mountain fills the middle distance to your right. The valley has been farmed for three centuries and still looks it: a patchwork of fields, family orchards, and small downtowns that survived because they never mattered enough to be demolished and rebuilt.

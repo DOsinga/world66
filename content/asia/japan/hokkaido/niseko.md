@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 42.8047
 longitude: 140.6875
-score: 6.048
+score: 5.968
 snippet: Hokkaido ski town known for deep powder, volcanic views, and hot spring villages.
 sources:
 - https://en.wikivoyage.org/wiki/Niseko
@@ -16,10 +16,10 @@ image: niseko.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mt-nisekoannupuri-summer.jpg
 image_license: Public domain
 image_attribution: Oga~commonswiki
-heritage: 4.097
-vibrancy: 4.201
-nature: 7.344
-off_the_beaten_track: 5.564
+heritage: 0.631
+vibrancy: 4.168
+nature: 7.236
+off_the_beaten_track: 5.131
 ---
 
 Niseko is Hokkaido's best-known international ski town, spread around the lower slopes of Mount Annupuri with Mount Yotei standing across the valley like a smaller Fuji. The appeal is simple: cold Siberian weather drops dry powder on a linked set of ski areas, then the day ends in hot spring baths instead of a long drive back to a city.

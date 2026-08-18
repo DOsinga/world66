@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 45.6885
 longitude: 5.9141
-score: 6.316
+score: 6.465
 snippet: Belle Epoque spa town on Lac du Bourget, with thermal history, lake walks,
   and Savoyard mountain views.
 sources:
@@ -14,10 +14,10 @@ image: aix_les_bains.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lac_du_Bourget_-_Col_du_Chat.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Florian Pépellin
-heritage: 5.571
-vibrancy: 4.527
-nature: 7.428
-off_the_beaten_track: 2.747
+heritage: 5.333
+vibrancy: 4.824
+nature: 7.69
+off_the_beaten_track: 2.438
 ---
 
 Aix-les-Bains sits between Lac du Bourget and the first wall of the Savoyard Alps. It made its name as a spa town, drawing a Belle Epoque crowd for thermal cures, casino nights, lake air, and long promenades under the mountains.

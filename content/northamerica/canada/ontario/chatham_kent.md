@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: 42.4
 longitude: -82.1833
-score: 3.33
+score: 3.673
 snippet: Southwestern Ontario municipality with Underground Railroad history, Lake
   Erie beaches, and old Carolinian forest.
 sources:
 - https://en.wikivoyage.org/wiki/Chatham-Kent
 - https://en.wikipedia.org/wiki/Chatham-Kent
 - https://www.destinationontario.com/en-ca/cities-towns/chatham-kent
-heritage: 2.737
-vibrancy: 1.923
-nature: 4.002
-off_the_beaten_track: 2.022
+heritage: 3.557
+vibrancy: 2.039
+nature: 4.186
+off_the_beaten_track: 1.902
 ---
 
 Chatham-Kent is spread-out southwestern Ontario: farm roads, small towns, Lake Erie shoreline, and a history that is much larger than the quiet landscape suggests. The former city of Chatham sits between Windsor and London, but the real reason to stop is the municipality's role as a northern terminus of the Underground Railroad.

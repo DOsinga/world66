@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -33.64
 longitude: 115.03
-score: 5.966
+score: 5.763
 snippet: Western Australian surf village where limestone caves meet the Cape to Cape
   coast.
 wikidata: Q8047495
@@ -16,10 +16,10 @@ image: yallingup.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Yallingup_Beach,_2015_(02).JPG
 image_license: CC BY-SA 4.0
 image_attribution: Bahnfrend
-heritage: 3.565
-vibrancy: 3.822
-nature: 7.4
-off_the_beaten_track: 3.554
+heritage: 3.573
+vibrancy: 3.322
+nature: 7.327
+off_the_beaten_track: 3.703
 ---
 
 Yallingup is a small surf village on the Cape Naturaliste coast, north-west of Margaret River and close enough to the wineries to feel part of that region without losing its own saltwater identity. The name is usually translated as "place of love", and on a calm evening above the beach that does not feel like tourism-board poetry.

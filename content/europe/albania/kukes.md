@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: 42.0767
 longitude: 20.4217
-score: 5.34
+score: 5.495
 snippet: Northeastern Albanian city rebuilt above a reservoir, with mountain gorges
   and Kosovo-war memory.
 sources:
 - https://en.wikivoyage.org/wiki/Kuk%C3%ABs
 - https://en.wikipedia.org/wiki/Kuk%C3%ABs
-heritage: 4.999
-vibrancy: 2.481
-nature: 6.158
-off_the_beaten_track: 3.441
+heritage: 5.349
+vibrancy: 2.222
+nature: 6.25
+off_the_beaten_track: 3.589
 ---
 
 Kukës sits high in northeastern Albania, close to Kosovo and North Macedonia, where the White Drin and Black Drin meet below the mountains. It is a practical border city, but not just that: the old town was drowned by the Fierza reservoir, the new town was built on higher ground, and the surrounding ridges give the place a stark, frontier feel.

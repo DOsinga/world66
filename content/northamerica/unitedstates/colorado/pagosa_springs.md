@@ -5,7 +5,7 @@ loc_type: city
 latitude: 37.2681
 longitude: -107.0078
 wikidata: Q994977
-score: 6.202
+score: 6.935
 snippet: Southwest Colorado hot-springs town on the San Juan River, backed by national
   forest and high passes.
 sources:
@@ -19,10 +19,10 @@ image: pagosa_springs.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Pagosa_Hot_Springs_-_hot_springs_soaking_pools_along_the_river_sm.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Netherzone
-heritage: 4.203
-vibrancy: 4.402
-nature: 7.486
-off_the_beaten_track: 3.172
+heritage: 4.092
+vibrancy: 6.069
+nature: 7.816
+off_the_beaten_track: 3.149
 ---
 
 Pagosa Springs sits in southwest Colorado where the San Juan River cuts through town and hot mineral water rises straight out of the ground. It is less polished than the famous Colorado resort towns, and that is part of the appeal: you get mountain air, a real downtown, and a soak without needing to pretend you are in Aspen.

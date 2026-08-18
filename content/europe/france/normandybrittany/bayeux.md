@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bayeux_centre.jpg
 latitude: 49.2765
 loc_type: city
 longitude: -0.7025
-score: 6.271
+score: 6.361
 snippet: Norman town best known for the Bayeux Tapestry, with a Gothic cathedral and
   intact wartime centre.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Bayeux_Tapestry
 title: Bayeux
 type: location
-heritage: 7.845
-vibrancy: 4.2
-nature: 3.334
-off_the_beaten_track: 1.67
+heritage: 7.695
+vibrancy: 4.792
+nature: 4.188
+off_the_beaten_track: 1.88
 ---
 
 Bayeux is a small, well-preserved Norman town whose name is synonymous with one object: the [Bayeux Tapestry](/europe/france/normandybrittany/bayeux/bayeux_tapestry). This 70-metre embroidered linen strip, created in the 11th century, tells the story of the Norman Conquest of England in 58 scenes — essentially a medieval comic strip, vivid with horses, ships, feasting, and the Battle of Hastings. It is one of the most remarkable surviving artefacts of the Middle Ages, and the museum that houses it does it justice.

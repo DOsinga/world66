@@ -9,15 +9,15 @@ image_source: https://www.flickr.com/photos/99287245@N00/5369084771
 latitude: 34.349144
 loc_type: city
 longitude: 62.216325
-score: 6.708
+score: 6.539
 snippet: Western Afghan city near Iran, shaped by Persian architecture, Dari culture,
   and the great Friday Mosque.
 title: Herat
 type: location
-heritage: 8.419
-vibrancy: 1.845
-nature: 2.322
-off_the_beaten_track: 7.026
+heritage: 8.223
+vibrancy: 2.546
+nature: 4.035
+off_the_beaten_track: 6.795
 ---
 
 Herat is the third city of Afghanistan and its most cultured. Close to the Iranian border, it has always looked west — the architecture is Persian, the language is Dari, and the atmosphere feels more like Isfahan than Kabul. In the 1970s it was the gateway for hippies entering Afghanistan overland from Iran.

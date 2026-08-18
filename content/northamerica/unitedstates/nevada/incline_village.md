@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Incline_Village_Panoramic.
 latitude: 39.250125
 loc_type: city
 longitude: -119.951909
-score: 5.63
+score: 5.954
 snippet: Lake Tahoe village on Nevada's pine-fringed northeast shore, with beaches
   below Diamond Peak.
 title: Incline Village
 type: location
-heritage: 2.331
-vibrancy: 4.183
-nature: 6.705
-off_the_beaten_track: 1.8
+heritage: 2.144
+vibrancy: 4.357
+nature: 7.123
+off_the_beaten_track: 1.403
 ---
 
 Incline Village sits on the northeast shore of [Lake Tahoe](/northamerica/unitedstates/california/laketahoe), on the Nevada side. It is one of the more upscale communities on the lake — no chain restaurants, no strip malls, just pine forest, mountain views, and easy access to the water.

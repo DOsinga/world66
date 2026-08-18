@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 40.916
 longitude: 38.392
-score: 4.848
+score: 4.627
 snippet: Black Sea hazelnut city with a citadel promontory, old Greek quarter, and
   offshore island.
 wikidata: Q201095
@@ -17,10 +17,10 @@ image: giresun.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Giresun_Ada.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Girtab2828
-heritage: 4.762
-vibrancy: 4.563
-nature: 5.31
-off_the_beaten_track: 4.411
+heritage: 4.297
+vibrancy: 4.201
+nature: 5.142
+off_the_beaten_track: 4.501
 ---
 
 Giresun sits on Turkey's Black Sea coast, west of [Trabzon](/asia/turkey/trabzon), with its old core gathered around a rocky harbour promontory. The city is not polished for foreign visitors, and that is part of its appeal. It feels local, coastal, and a little overgrown, with hazelnut warehouses, tea gardens, fishing boats, and green hills pressing in behind the shore road.

@@ -10,15 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:20160731_Bagan_temples_674
 latitude: 21.1717
 loc_type: city
 longitude: 94.8585
-score: 7.752
+score: 7.854
 snippet: Ancient Burmese plain beside the Ayeyarwady, scattered with more than 2,000
   temples and pagodas.
 title: Bagan
 type: location
 heritage: 9.96
-vibrancy: 3.075
-nature: 5.205
-off_the_beaten_track: 4.037
+vibrancy: 4.985
+nature: 4.905
+off_the_beaten_track: 3.588
 ---
 
 Few places in Asia stop you in your tracks the way Bagan does. Spread across a dusty plain beside the Ayeyarwady River, more than 2,000 temples, pagodas, and monasteries rise from the earth — the remains of a city that was once the capital of the first Burmese empire and one of the great cities of medieval Asia.

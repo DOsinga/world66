@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Chapel_of_St._Luke,_Berkel
 latitude: 41.5623
 loc_type: city
 longitude: -72.6509
-score: 3.128
+score: 3.102
 snippet: Connecticut River university town shaped by Wesleyan, a lively Main Street,
   and old riverfront layers.
 title: Middletown
 type: location
-heritage: 2.377
-vibrancy: 2.895
-nature: 3.45
-off_the_beaten_track: 0.892
+heritage: 3.358
+vibrancy: 3.028
+nature: 3.26
+off_the_beaten_track: 0.826
 ---
 
 Middletown sits on a broad bend of the [Connecticut River](/northamerica/unitedstates/connecticut/middletown/connecticut_river), roughly in the geographic center of the state. It is a university town — [Wesleyan University](/northamerica/unitedstates/connecticut/middletown/wesleyan_university) has been here since 1831 — and that shapes almost everything about it: the bookshops, the cafes, the arts scene, the general sense that people here have opinions about things.

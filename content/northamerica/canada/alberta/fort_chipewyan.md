@@ -5,7 +5,7 @@ loc_type: city
 latitude: 58.7144
 longitude: -111.1583
 wikidata: Q388559
-score: 5.48
+score: 5.243
 snippet: Remote Lake Athabasca fur-trade settlement at the edge of Wood Buffalo National
   Park.
 sources:
@@ -17,10 +17,10 @@ image: fort_chipewyan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Fort_chipewyan_with_steamer_frozen_in_the_ice_1900_0001-4-0.jpg
 image_license: Public domain
 image_attribution: Joseph Tyrrell
-heritage: 3.283
-vibrancy: 1.746
-nature: 6.664
-off_the_beaten_track: 5.997
+heritage: 2.202
+vibrancy: 1.826
+nature: 6.246
+off_the_beaten_track: 6.16
 ---
 
 *North America > Canada > Alberta > Fort Chipewyan*

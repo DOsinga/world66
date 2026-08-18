@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Radovljica_(29184012972).j
 latitude: 46.3441
 loc_type: city
 longitude: 14.1746
-score: 5.588
+score: 5.692
 snippet: Slovenian medieval town above the Sava, known for painted facades, beekeeping,
   and chocolate
 title: Radovljica
 type: location
-heritage: 6.271
-vibrancy: 2.858
-nature: 5.814
-off_the_beaten_track: 2.087
+heritage: 5.988
+vibrancy: 3.942
+nature: 6.285
+off_the_beaten_track: 1.779
 ---
 
 Radovljica is a small medieval town perched on a bluff above the Sava river in northwestern Slovenia, about 8 km from [Bled](/europe/slovenia/bled). Its main square, [Linhartov trg](/europe/slovenia/radovljica/linhartov_trg), is one of the best-preserved medieval town centres in the country — a row of Gothic and Renaissance houses with painted facades and wrought-iron details.

@@ -7,15 +7,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Wybrze%C5%BCe_Bornholmu.JP
 latitude: 55.1431
 loc_type: feature
 longitude: 14.9226
-score: 5.825
+score: 5.2
 title: Bornholm Island
 type: location
 snippet: Baltic Danish island of granite coast, sandy beaches, round churches, smokehouses,
   and ceramic workshops.
-heritage: 6.701
-vibrancy: 4.35
-nature: 5.688
-off_the_beaten_track: 3.476
+heritage: 5.814
+vibrancy: 3.67
+nature: 5.46
+off_the_beaten_track: 3.394
 ---
 
 Bornholm is a Danish island in the Baltic Sea, sitting closer to Sweden and Poland than to the Danish mainland. It has a distinctive character that sets it apart from anywhere else in Denmark: a rugged granite coast in the north, rolling farmland and sandy beaches in the south, round medieval churches, smokehouse chimneys, and a long tradition of ceramics and artistic craftsmanship.

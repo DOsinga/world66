@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 18.784
 longitude: -91.495
-score: 4.651
+score: 4.589
 snippet: Quiet Campeche fishing town on Laguna de Terminos, known for dolphins, beaches,
   and birdlife.
 sources:
@@ -13,10 +13,10 @@ image: isla_aguada.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Colorful_Sea_Side_-_Isla_Aguada_Campeche.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Bernard DUPONT
-heritage: 1.978
-vibrancy: 1.961
-nature: 6.157
-off_the_beaten_track: 3.446
+heritage: 1.701
+vibrancy: 1.772
+nature: 6.063
+off_the_beaten_track: 3.441
 ---
 
 Isla Aguada is a small fishing town on the Gulf side of Campeche, where the road between Ciudad del Carmen and Campeche crosses the edge of Laguna de Terminos. It is quiet, flat, and coastal: a place of boats, pelicans, seafood, and long beaches rather than big resort infrastructure.

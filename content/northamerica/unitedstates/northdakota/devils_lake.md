@@ -2,7 +2,7 @@
 latitude: 48.1167
 loc_type: city
 longitude: -98.8667
-score: 4.286
+score: 3.927
 snippet: Northern North Dakota lake town built around fishing, waterfowl, prairie
   drives, and winter ice.
 sources:
@@ -14,10 +14,10 @@ image: devils_lake.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Downtown_Devils_Lake.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Andrew Filer
-heritage: 2.092
-vibrancy: 1.824
-nature: 5.757
-off_the_beaten_track: 2.743
+heritage: 1.907
+vibrancy: 1.637
+nature: 5.278
+off_the_beaten_track: 2.606
 ---
 
 Devils Lake is a small city in northern [North Dakota](/northamerica/unitedstates/northdakota), but the name really belongs to the water beside it. The lake is the largest natural lake in the state, with a ragged shoreline, big skies and a reputation for excellent walleye, pike and perch fishing.

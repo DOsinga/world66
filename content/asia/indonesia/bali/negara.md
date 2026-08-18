@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -8.3569
 longitude: 114.6169
-score: 5.376
+score: 5.51
 snippet: West Bali market town and Jembrana base, known for buffalo racing and mixed
   coastal culture.
 image: negara.jpg
@@ -15,10 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Negara
 - https://en.wikipedia.org/wiki/Jembrana_Regency
 - https://en.wikipedia.org/wiki/Pura_Rambut_Siwi
-heritage: 5.236
-vibrancy: 4.093
-nature: 6.114
-off_the_beaten_track: 4.113
+heritage: 5.12
+vibrancy: 3.961
+nature: 6.37
+off_the_beaten_track: 4.165
 ---
 
 Negara is the main town of Jembrana, the quieter western end of [Bali](/asia/indonesia/bali). It is not the Bali of beach clubs and villa traffic. The road to Java runs through town, rice fields press close, mosques are common, and the coast is lined with fishing villages and black sand.

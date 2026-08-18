@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 36.9167
 longitude: 34.9
-score: 6.24
+score: 5.243
 snippet: Ancient Cilician city remembered for St Paul, Cleopatra's gate, and Ottoman
   lanes on the plain.
 sources:
@@ -14,10 +14,10 @@ image: tarsus.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Tarsus,_Cilicia,_Turkey_(23777155148).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Carole Raddato from FRANKFURT, Germany
-heritage: 7.814
-vibrancy: 4.162
-nature: 2.734
-off_the_beaten_track: 3.01
+heritage: 6.463
+vibrancy: 3.704
+nature: 2.77
+off_the_beaten_track: 3.083
 ---
 
 Tarsus lies on the Cilician plain between Mersin and Adana, modern and industrial at first glance but very old underneath. Hittites, Persians, Romans, Arabs, Byzantines, Armenians, Crusaders, and Ottomans all passed through or ruled here, because the city controlled routes between the Mediterranean coast and the passes inland.

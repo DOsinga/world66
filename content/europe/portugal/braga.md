@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Braga_Panorama.jpg
 latitude: 41.551058
 loc_type: city
 longitude: -8.428005
-score: 5.659
+score: 5.902
 snippet: Portuguese religious city packed with baroque churches, Roman traces, and
   the hillside Bom Jesus sanctuary
 title: Braga
 type: location
-heritage: 6.122
-vibrancy: 5.526
-nature: 3.504
-off_the_beaten_track: 1.704
+heritage: 6.428
+vibrancy: 5.747
+nature: 4.131
+off_the_beaten_track: 1.612
 ---
 
 Braga is the religious capital of Portugal — the seat of the country's archbishops for centuries, with an extraordinary concentration of churches, chapels, and baroque facades packed into its compact centre. But there is much more to it than churches: Roman remains (Bracara Augusta was an important provincial capital), a lively university population, and some of the best traditional food in the Minho region.

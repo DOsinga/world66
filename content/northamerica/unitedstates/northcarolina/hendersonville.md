@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: 35.31861
 longitude: -82.46083
-score: 5.893
+score: 5.407
 snippet: Blue Ridge apple town with a handsome Main Street, mountain overlooks, and
   Flat Rock close by.
 sources:
 - https://en.wikivoyage.org/wiki/Hendersonville_(North_Carolina)
 - https://visithendersonvillenc.org/attractions
-heritage: 3.444
-vibrancy: 3.832
-nature: 7.282
-off_the_beaten_track: 2.391
+heritage: 2.573
+vibrancy: 3.908
+nature: 6.493
+off_the_beaten_track: 1.991
 ---
 
 Hendersonville is the softer, quieter Blue Ridge town south of [Asheville](/northamerica/unitedstates/northcarolina/asheville). It has a long brick Main Street, old courthouse square, orchards on the surrounding hills, and enough mountain scenery to make a slow day feel well spent.

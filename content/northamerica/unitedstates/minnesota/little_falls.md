@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 45.9772
 longitude: -94.3708
-score: 3.655
+score: 3.967
 snippet: Mississippi River town tied to Charles Lindbergh, logging money, and Minnesota
   fishing history.
 sources:
@@ -13,10 +13,10 @@ sources:
 - https://www.littlefallsmn.com/little-falls-mn-travel-guide/
 - https://www.mnhs.org/lindbergh
 - https://www.dnr.state.mn.us/state_parks/park.html?id=spk00136
-heritage: 2.692
-vibrancy: 2.13
-nature: 4.525
-off_the_beaten_track: 1.731
+heritage: 3.596
+vibrancy: 2.347
+nature: 4.625
+off_the_beaten_track: 1.559
 ---
 
 Little Falls is an old Mississippi River town in central [Minnesota](/northamerica/unitedstates/minnesota), worth a stop if you like small-city history better than freeway sameness. The river powered mills here, logging money built handsome houses, and Charles Lindbergh's boyhood on the south edge of town still gives the place its sharpest historical hook.

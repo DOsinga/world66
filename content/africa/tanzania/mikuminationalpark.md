@@ -6,15 +6,15 @@ image_source: https://commons.wikimedia.org/wiki/File:A_group_of_baobab_trees_in
 latitude: -7.4
 loc_type: feature
 longitude: 36.9
-score: 5.847
+score: 5.786
 snippet: Accessible Tanzanian safari park west of Dar es Salaam, centred on the wildlife-rich
   Mkata Floodplain.
 title: Mikumi National Park
 type: location
-heritage: 1.364
-vibrancy: 1.02
-nature: 7.492
-off_the_beaten_track: 5.15
+heritage: 1.597
+vibrancy: 1.205
+nature: 7.38
+off_the_beaten_track: 5.203
 ---
 
 Mikumi National Park is one of Tanzania's most accessible wildlife reserves, sitting just 283 km west of [Dar es Salaam](/africa/tanzania/daressalaam) along the main highway to [Zambia](/africa/zambia). Its relative proximity to the coast makes it a popular destination for day trips and weekend safaris from the city, and it serves as the northern gateway to the much larger Selous Game Reserve to the south.

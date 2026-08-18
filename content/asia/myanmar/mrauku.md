@@ -10,15 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:AndawThein.jpg
 latitude: 20.590127
 loc_type: city
 longitude: 93.191577
-score: 5.88
+score: 6.084
 snippet: Former Rakhine capital in western Myanmar, where fortress-like Buddhist temples
   rise around a small market town.
 title: Mrauk-U
 type: location
-heritage: 7.537
-vibrancy: 2.015
-nature: 3.991
-off_the_beaten_track: 5.623
+heritage: 7.786
+vibrancy: 2.878
+nature: 4.155
+off_the_beaten_track: 4.465
 ---
 
 Mrauk-U was once one of the wealthiest cities in Asia. As capital of the Rakhine kingdom from the 15th to 18th century, it controlled the Bay of Bengal trade and drew merchants from Portugal, the Netherlands, and across South Asia. The Burmese sacked it in 1784, moving the sacred Mahamuni Buddha image to Mandalay, and the city never recovered. What remains is a landscape of crumbling temples rising from the jungle, with a small market town at its centre.

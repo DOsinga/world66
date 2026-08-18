@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Cahors_pont_Valentre_vgen.
 latitude: 44.4495
 loc_type: city
 longitude: 1.4365
-score: 5.046
+score: 5.091
 snippet: Lot River town wrapped by a water loop, known for Pont Valentré and dark
   Malbec wines.
 tags:
 - dordogne
 title: Cahors
 type: location
-heritage: 5.026
-vibrancy: 4.842
-nature: 5.481
-off_the_beaten_track: 3.752
+heritage: 4.49
+vibrancy: 4.808
+nature: 5.567
+off_the_beaten_track: 3.557
 ---
 
 Cahors sits in a dramatic loop of the River Lot in southwestern France, the old town almost entirely enclosed by water. It is best known for two things: the [Pont Valentré](/europe/france/aquitaine/cahors/pont_valentre), a fortified medieval bridge with three towers that is one of the finest in Europe, and the deep, dark [Cahors wine](/europe/france/aquitaine/cahors/cahors_wine) — a Malbec that has been grown here since Roman times.

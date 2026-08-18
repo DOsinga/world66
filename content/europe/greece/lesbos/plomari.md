@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Plomari_-_2004-07-26_-_18.
 latitude: 38.975389
 loc_type: city
 longitude: 26.368424
-score: 4.878
+score: 4.954
 snippet: Lesbos hillside town known as Greece’s ouzo capital, with distilleries, neoclassical
   mansions, and a small harbour.
 title: Plomari
 type: location
-heritage: 4.247
-vibrancy: 4.229
-nature: 5.518
-off_the_beaten_track: 3.025
+heritage: 3.833
+vibrancy: 4.154
+nature: 5.672
+off_the_beaten_track: 3.188
 ---
 
 Plomari is the ouzo capital of Greece, and it wears that title proudly. Several distilleries operate here, including the well-known [Barbayiannis](/europe/greece/lesbos/plomari/barbayiannis_distillery), which has been producing ouzo since the 1860s using copper pot stills. You can visit the distillery and the attached Ouzo Museum, sample the goods, and learn why Plomari's anise spirit tastes different from the mass-produced stuff.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Historical_Museum_of_Sughd
 latitude: 40.2787
 loc_type: city
 longitude: 69.62
-score: 5.42
+score: 6.096
 snippet: Northern Tajik city in the Fergana Valley, with Silk Road roots and a vast
   covered bazaar.
 title: Khujand
 type: location
-heritage: 2.839
-vibrancy: 3.291
-nature: 5.471
-off_the_beaten_track: 8.55
+heritage: 5.87
+vibrancy: 3.47
+nature: 6.873
+off_the_beaten_track: 8.439
 ---
 
 Khujand (also spelled Khojend or Khudjand) is Tajikistan's second city and the capital of the northern Sughd province. It sits in the Fergana Valley, a fertile lowland shared with Uzbekistan and Kyrgyzstan, and has a more relaxed and prosperous feel than Dushanbe. The population is around 180,000.

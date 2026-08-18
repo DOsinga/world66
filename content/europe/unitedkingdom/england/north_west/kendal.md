@@ -5,7 +5,7 @@ done:
 latitude: 54.328448
 loc_type: city
 longitude: -2.746468
-score: 5.987
+score: 5.846
 snippet: Cumbrian market town near the Lake District, known for limestone lanes and
   Kendal Mint Cake.
 title: Kendal
@@ -14,10 +14,10 @@ image: kendal.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kendal_Mint_Cake.jpeg
 image_license: CC0
 image_attribution: Cnbrb
-heritage: 5.326
-vibrancy: 2.937
-nature: 7.022
-off_the_beaten_track: 3.187
+heritage: 5.09
+vibrancy: 2.799
+nature: 6.904
+off_the_beaten_track: 3.208
 ---
 
 Kendal used to be a major stopping point for traffic heading south to the [Lake District](/europe/unitedkingdom/england/lakedistrict). Now it is bypassed by a major dual carriageway and, being somewhat easier to navigate, can be enjoyed for its own sake.

@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ship_Creek_Hast_Highway,_H
 latitude: -43.8803
 loc_type: city
 longitude: 169.04
-score: 6.165
+score: 6.362
 snippet: Remote West Coast settlement beside World Heritage rainforest, river mouths,
   and the Haast Pass.
 sources:
@@ -15,10 +15,10 @@ sources:
 - https://www.newzealand.com/us/haast-pass/
 title: Haast
 type: location
-heritage: 2.724
-vibrancy: 1.171
-nature: 7.841
-off_the_beaten_track: 5.617
+heritage: 2.25
+vibrancy: 1.168
+nature: 8.025
+off_the_beaten_track: 6.018
 ---
 
 Haast is not really one town but a loose scatter of Haast Junction, Haast township, and Haast Beach at the wild southern end of New Zealand's [West Coast](/australiaandpacific/newzealand/south_island/west_coast). It sits where State Highway 6 leaves the rainforest and rivers of the Haast Pass and reaches the Tasman Sea.

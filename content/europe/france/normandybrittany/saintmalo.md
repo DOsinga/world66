@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Saintmalo.jpg
 latitude: 48.649518
 loc_type: city
 longitude: -2.026041
-score: 5.733
+score: 5.135
 title: Saint Malo
 snippet: Fortified Breton port city of corsairs, granite ramparts, and tidal islands
   off the Intra-Muros
 type: location
-heritage: 6.385
-vibrancy: 5.23
-nature: 6.074
-off_the_beaten_track: 2.517
+heritage: 4.778
+vibrancy: 5.028
+nature: 5.413
+off_the_beaten_track: 2.122
 ---
 
 Saint-Malo is a fortified port city on the coast of Brittany, one of the most satisfying medieval walled cities in France. For centuries it was a home port of corsairs — privateers licensed by the French crown to attack enemy shipping — and the money they plundered built the grand granite townhouses that still line the streets of the Intra-Muros. Today most of those buildings are post-1944 reconstructions, but the rebuilding was done so faithfully in local granite that it is difficult to tell.

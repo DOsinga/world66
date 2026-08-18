@@ -9,17 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Facade_of_Naga_Cathedral_a
 latitude: 13.624
 loc_type: city
 longitude: 123.185
-score: 3.809
+score: 3.903
 snippet: Bicolano city and pilgrimage center shaped by spicy coconut cooking and the
   Peñafrancia Festival.
 sources:
 - https://en.wikipedia.org/wiki/Naga,_Camarines_Sur
 title: Naga City
 type: location
-heritage: 3.844
-vibrancy: 3.824
-nature: 3.075
-off_the_beaten_track: 1.462
+heritage: 3.502
+vibrancy: 4.085
+nature: 3.18
+off_the_beaten_track: 1.664
 ---
 
 Naga City sits in the Bicol Region of Luzon, about 440 km south of Manila, and is the cultural and commercial heart of the Camarines Sur province. It's a lively mid-sized city with a strong university presence and a distinct Bicolano identity — you'll notice the local cuisine here, hotter than most Filipino food, built on coconut milk and chillies.

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Falkirk_Kelpies_50mm_20211
 latitude: 56.0013
 loc_type: city
 longitude: -3.7845
-score: 4.556
+score: 4.095
 snippet: Central Scottish town known for the Falkirk Wheel, The Kelpies, and canal
   engineering.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Falkirk
 title: Falkirk
 type: location
-heritage: 5.262
-vibrancy: 2.008
-nature: 4.403
-off_the_beaten_track: 3.364
+heritage: 4.631
+vibrancy: 2.011
+nature: 4.178
+off_the_beaten_track: 3.206
 ---
 
 *Europe > United Kingdom > Scotland > Falkirk*

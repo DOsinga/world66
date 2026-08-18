@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bandarban_City_02.jpg
 latitude: 22.192009
 loc_type: city
 longitude: 92.218533
-score: 5.445
+score: 5.923
 snippet: Hill Tracts town surrounded by forested ridges, indigenous villages, Buddhist
   shrines, and Bangladesh's highest trekking country.
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Shoilo_Propat
 title: Bandarban
 type: location
-heritage: 2.915
-vibrancy: 2.245
-nature: 6.712
-off_the_beaten_track: 5.661
+heritage: 2.947
+vibrancy: 2.464
+nature: 7.41
+off_the_beaten_track: 5.801
 ---
 
 Bandarban is the most remote and scenic of the three Chittagong Hill Tracts districts. The town sits in a valley surrounded by forested ridges, and the surrounding hills are home to several indigenous peoples — the Mro, Bawm, Khumi, and others — whose villages can be reached on foot or by motorbike.

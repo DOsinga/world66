@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ait_Ourir_4.JPG
 latitude: 31.5639
 loc_type: city
 longitude: -7.6623
-score: 5.229
+score: 5.192
 snippet: Berber market town southeast of Marrakesh, where the Ouarzazate road starts
   climbing toward Tizi n'Tichka.
 title: Ait Ourir
 type: location
-heritage: 4.858
-vibrancy: 3.145
-nature: 6.046
-off_the_beaten_track: 3.234
+heritage: 4.788
+vibrancy: 2.817
+nature: 6.018
+off_the_beaten_track: 3.265
 ---
 
 Ait Ourir is a small Berber town on the main road between [Marrakesh](/africa/morocco/marrakesh) and [Ouarzazate](/africa/morocco/ouarzazate), about 40 kilometres southeast of Marrakesh, just before the road begins its climb toward the [Tizi n'Tichka pass](/africa/morocco/tizi_n_tichka_pass). Most travellers pass through without stopping, but the town's [Tuesday souk](/africa/morocco/aitourir/tuesday_souk) is one of the liveliest in the region and worth timing a visit around if you can.

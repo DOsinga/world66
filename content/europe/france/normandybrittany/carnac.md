@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kermario_Carnac.JPG
 latitude: 47.583663
 loc_type: city
 longitude: -3.079443
-score: 6.226
+score: 5.68
 snippet: Breton town famous for more than 3,000 prehistoric menhirs arranged across
   the countryside.
 title: Carnac
 type: location
-heritage: 7.435
-vibrancy: 2.507
-nature: 5.461
-off_the_beaten_track: 3.068
+heritage: 6.926
+vibrancy: 2.188
+nature: 4.659
+off_the_beaten_track: 3.008
 ---
 
 Carnac is home to the most extraordinary collection of standing stones in the world. Over 3,000 menhirs arranged in 13 parallel rows stretch for several kilometres across the Breton countryside — and nobody knows with certainty why they were put there 4,000 years ago. Theories range from astronomical observatories to religious procession routes, but the honest answer is that the purpose remains a mystery. The [Musée de Préhistoire](/europe/france/normandybrittany/carnac/musee_prehistoire) in the town centre is the best place to absorb what is known before you walk out to the alignments themselves.

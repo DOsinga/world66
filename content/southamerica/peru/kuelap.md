@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kuelap_-_Ao%C3%BBt_2007_-_
 latitude: -6.423103
 loc_type: city
 longitude: -77.910721
-score: 6.849
+score: 6.397
 snippet: Chachapoyas mountaintop fortress above the Utcubamba Valley, with massive
   walls and cloud-forest mystery
 title: Kuelap
 type: location
-heritage: 8.037
-vibrancy: 1.875
-nature: 6.328
-off_the_beaten_track: 5.466
+heritage: 7.245
+vibrancy: 1.499
+nature: 6.504
+off_the_beaten_track: 5.276
 ---
 
 Travel Guide

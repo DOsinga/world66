@@ -7,7 +7,7 @@ done:
 latitude: -35.0833
 loc_type: city
 longitude: 137.7333
-score: 5.149
+score: 4.898
 snippet: Yorke Peninsula fishing town with one of South Australia's best shore dives
   just off its jetty
 title: Edithburgh
@@ -16,10 +16,10 @@ image: edithburgh.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Edithburgh_Jetty.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Foraminifera
-heritage: 5.286
-vibrancy: 5.136
-nature: 5.068
-off_the_beaten_track: 3.407
+heritage: 4.583
+vibrancy: 4.906
+nature: 4.877
+off_the_beaten_track: 3.386
 ---
 
 Edithburgh sits on the south-eastern tip of Yorke Peninsula, looking across Gulf St Vincent toward Adelaide but feeling much farther away than the map suggests. It began as a working port for grain, salt, and gypsum; today the town is small, quiet, and most interesting where land and water meet.

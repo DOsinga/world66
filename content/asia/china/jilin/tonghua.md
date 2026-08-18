@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Views_from_Yuhuang_Mountai
 latitude: 41.7302
 loc_type: city
 longitude: 125.9471
-score: 2.232
+score: 2.052
 snippet: Jilin river city used as a base for Ji'an's Koguryo tombs and Changbaishan
   approaches.
 sources:
 - https://en.wikivoyage.org/wiki/Tonghua
 title: Tonghua
 type: location
-heritage: 2.141
-vibrancy: 1.67
-nature: 2.552
-off_the_beaten_track: 2.691
+heritage: 1.949
+vibrancy: 1.648
+nature: 2.355
+off_the_beaten_track: 2.515
 ---
 
 Tonghua is not a place people visit for Tonghua itself — the city is frank about this in most travel accounts, and there is a straightforwardness to its modest charms. The hills that ring it are attractive, the renovated riverfront offers pleasant walking, and the modern downtown has the clean, undistinguished quality of a Chinese city that has been rebuilt in the last twenty years without leaving much of its older self behind. What Tonghua does well is function as a base for two things that are worth serious attention in their own right: the Koguryo sites at Ji'an, and access to the southern approaches of Changbaishan.

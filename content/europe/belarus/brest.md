@@ -6,15 +6,15 @@ done:
 latitude: 52.093751
 loc_type: city
 longitude: 23.685185
-score: 5.442
+score: 4.527
 snippet: Belarusian border city on the Bug River, anchored by Brest Fortress and nearby
   primeval forest
 title: Brest
 type: location
-heritage: 6.93
-vibrancy: 3.396
-nature: 3.505
-off_the_beaten_track: 3.572
+heritage: 5.543
+vibrancy: 3.276
+nature: 3.299
+off_the_beaten_track: 3.216
 ---
 
 Brest sits at the southwestern edge of Belarus, right on the border with Poland, with the Bug river marking the frontier. It is 200km from Warsaw and 350km from Minsk, which makes it a natural entry point for travelers arriving from Poland by train or road. The city is also gateway to one of Europe's last primeval forests.

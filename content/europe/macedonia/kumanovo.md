@@ -2,17 +2,17 @@
 latitude: 42.1358
 loc_type: city
 longitude: 21.7181
-score: 2.453
+score: 2.67
 snippet: Northern Macedonian crossroads city with Ottoman, Orthodox, and Yugoslav
   memorial layers
 sources:
 - https://en.wikivoyage.org/wiki/Kumanovo
 title: Kumanovo
 type: location
-heritage: 2.56
-vibrancy: 2.431
-nature: 2.039
-off_the_beaten_track: 1.585
+heritage: 3.008
+vibrancy: 2.46
+nature: 2.448
+off_the_beaten_track: 1.753
 ---
 
 Kumanovo is North Macedonia's northern crossroads, close to [Skopje](/europe/macedonia/skopje) and the Serbian border. It is not a graceful city, and many travellers only know it from the highway, but it has enough local texture for a spare day: a lively square, old churches, an Ottoman mosque, a hilltop memorial, and monasteries in the surrounding villages.

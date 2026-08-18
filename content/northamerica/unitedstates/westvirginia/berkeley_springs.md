@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 39.6269
 longitude: -78.2272
-score: 5.041
+score: 4.868
 wikidata: Q778044
 snippet: West Virginia spa town built around warm mineral springs, mountain views,
   and a small arts scene.
@@ -12,10 +12,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Berkeley_Springs
 - https://wvtourism.com/berkeley-springs/
 - https://www.discoverberkeleysprings.com/suggested-activities/
-heritage: 4.332
-vibrancy: 3.464
-nature: 5.978
-off_the_beaten_track: 1.982
+heritage: 3.394
+vibrancy: 3.875
+nature: 5.673
+off_the_beaten_track: 1.906
 ---
 
 Berkeley Springs is a small West Virginia town with an unusually clear identity: warm mineral water in the middle of town, old spa rituals, and Appalachian ridges rising close enough to make the streets feel tucked away. It has drawn bathers for centuries, including colonial visitors who helped turn the springs into one of the older resort traditions in the United States.

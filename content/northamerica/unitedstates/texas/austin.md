@@ -9,15 +9,15 @@ image_source: https://www.flickr.com/photos/43581314@N08/27786171022
 latitude: 30.2711
 loc_type: city
 longitude: -97.7437
-score: 6.624
+score: 7.134
 title: Austin
 type: location
 snippet: Texas capital with live music, swimming holes, university energy, and a fierce
   independent streak.
-heritage: 5.521
-vibrancy: 7.092
-nature: 5.393
-off_the_beaten_track: 1.209
+heritage: 6.924
+vibrancy: 7.268
+nature: 5.765
+off_the_beaten_track: 1.441
 ---
 
 Austin is the capital of Texas and the state's cultural rebel. The city's unofficial motto, "Keep Austin Weird," captures a fierce streak of independence that sets it apart from every other Texas city. This is where live music spills out of bars on [6th Street](/northamerica/unitedstates/texas/austin/sixth_street) every night of the week, where [Barton Springs Pool](/northamerica/unitedstates/texas/austin/barton_springs_pool) offers a constant 68-degree escape from the summer heat, and where a colony of 1.5 million bats puts on a nightly show from under the Congress Avenue Bridge.

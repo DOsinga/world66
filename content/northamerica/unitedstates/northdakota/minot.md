@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Minot-StaveChurch.jpg
 latitude: 48.2339
 loc_type: city
 longitude: -101.296
-score: 3.169
+score: 3.219
 snippet: North Dakota rail city with Scandinavian heritage, prairie festivals, and
   a surprisingly strong aviation museum.
 sources:
@@ -15,10 +15,10 @@ sources:
 - https://www.ndtourism.com/cities/minot
 title: Minot
 type: location
-heritage: 3.541
-vibrancy: 2.061
-nature: 3.331
-off_the_beaten_track: 4.478
+heritage: 3.727
+vibrancy: 2.621
+nature: 3.089
+off_the_beaten_track: 3.683
 ---
 
 Minot is not on the way to many places, which is part of its problem and part of its charm. The "Magic City" grew fast as a Great Northern Railway town on the Souris River, then settled into a prairie service centre with a strong Scandinavian streak, an air base nearby and winters that locals joke about because the alternative is despair.

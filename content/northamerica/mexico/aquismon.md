@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: 21.625
 longitude: -99.019
-score: 5.883
+score: 5.374
 snippet: Teenek Huasteca town used as a base for waterfalls, cave shafts, and jungle
   springs.
 sources:
 - https://en.wikivoyage.org/wiki/Aquism%C3%B3n
 - https://en.wikipedia.org/wiki/Aquism%C3%B3n
-heritage: 7.311
-vibrancy: 2.232
-nature: 4.511
-off_the_beaten_track: 3.356
+heritage: 6.678
+vibrancy: 2.072
+nature: 4.125
+off_the_beaten_track: 3.281
 ---
 
 Aquismon is a small Huasteca Potosina town with bigger landscapes than its size suggests. It is a Pueblo Magico and a largely Teenek area, but the real reason to come is outside town: the turquoise river trip to [Tamul Waterfall](/northamerica/mexico/aquismon/tamul_waterfall), the bird-filled void of [Sotano de las Huahuas](/northamerica/mexico/aquismon/sotano_de_las_huahuas), and the community-guided caves and springs around Mantetzulel and Tambaque.

@@ -2,7 +2,7 @@
 latitude: 7.05
 loc_type: city
 longitude: 38.4667
-score: 4.047
+score: 4.835
 snippet: Rift Valley lake city known for fish markets, birdlife, and relaxed lakeside
   cafes.
 sources:
@@ -11,10 +11,10 @@ sources:
 - https://en.wikipedia.org/wiki/Lake_Awasa
 title: Hawassa
 type: location
-heritage: 2.755
-vibrancy: 3.045
-nature: 4.802
-off_the_beaten_track: 4.392
+heritage: 2.694
+vibrancy: 3.733
+nature: 5.691
+off_the_beaten_track: 4.264
 ---
 
 Hawassa is one of Ethiopia's easier southern stops: a growing city on Lake Hawassa with coffee places, lake breezes, and enough birdlife to make even a casual walk feel like a nature outing. It is more relaxed than Addis Ababa and less demanding than the deeper south, which is why local travellers, overlanders, and Ethiopian weekenders all end up here.

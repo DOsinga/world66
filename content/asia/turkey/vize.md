@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: 41.573611
 longitude: 27.765278
-score: 5.776
+score: 5.565
 snippet: Byzantine hill town in Turkish Thrace, with a small Hagia Sophia, Roman theatre,
   and citadel ruins.
 sources:
 - https://en.wikivoyage.org/wiki/Vize
 - https://www.thebyzantinelegacy.com/hagia-sophia-bizye
 - https://www.castles.nl/vize-castle
-heritage: 7.04
-vibrancy: 4.024
-nature: 4.742
-off_the_beaten_track: 2.387
+heritage: 6.688
+vibrancy: 3.834
+nature: 4.784
+off_the_beaten_track: 2.44
 ---
 
 Vize sits in the foothills of the Istranca Mountains in Turkish Thrace, away from the main road between Istanbul and Europe. That has left it quieter than its past suggests. Ancient Bizye was a Thracian and then Roman town, and the old core still climbs a low hill above the modern main street.

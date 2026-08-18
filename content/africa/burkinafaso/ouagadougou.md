@@ -15,7 +15,7 @@ quick_facts:
   FESPACO: Africa's biggest film festival
   Population: ~2.5 million
   Short Name: '''Ouaga'''
-score: 5.865
+score: 5.187
 snippet: Burkina Faso's capital, centered on markets, music, film culture, and broad
   Sahelian avenues.
 tip: Everyone shortens Ouagadougou to 'Ouaga'. It punches above its weight culturally
@@ -24,10 +24,10 @@ tip: Everyone shortens Ouagadougou to 'Ouaga'. It punches above its weight cultu
   especially in the Harmattan season; drink far more water than you think you need.
 title: Ouagadougou
 type: location
-heritage: 3.88
-vibrancy: 6.663
-nature: 2.392
-off_the_beaten_track: 5.194
+heritage: 4.016
+vibrancy: 5.671
+nature: 3.632
+off_the_beaten_track: 5.19
 ---
 
 Ouaga, as the capital of Burkina Faso is generally known, is the home of the Mossi, the largest ethnic group in the nation. Located in the centre of the country, the city has wide tree-lined boulevards and several interesting sights including the [Musée National](/africa/burkinafaso/ouagadougou/musee_national), the [Grand Marché](/africa/burkinafaso/ouagadougou/grand_marche) and the [Moro Naba Palace](/africa/burkinafaso/ouagadougou/moronabapalace).

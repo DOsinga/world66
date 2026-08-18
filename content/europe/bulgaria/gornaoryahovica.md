@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gorna_Oryahovitsa,panorama
 latitude: 43.1333
 loc_type: city
 longitude: 25.7
-score: 4.599
+score: 4.172
 snippet: North Bulgarian railway town beside Veliko Tarnovo, known for transport links
   and sudzhuk sausage.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://www.museology.bg/en/museums/i161/historical-museum-gorna-oryahovitsa.html
 title: Gorna Oryahovitsa
 type: location
-heritage: 5.383
-vibrancy: 2.648
-nature: 4.281
-off_the_beaten_track: 3.434
+heritage: 4.766
+vibrancy: 2.821
+nature: 4.149
+off_the_beaten_track: 3.258
 ---
 
 Gorna Oryahovitsa is the practical neighbour of [Veliko Tarnovo](/europe/bulgaria/velikoturnovo): a railway junction, market town, and small industrial centre on the north side of the old capital. Most travellers know it because trains stop here before shuttle buses or taxis continue to Tarnovo.

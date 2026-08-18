@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Man_Chunman_Buddhist_Templ
 latitude: 22.0099
 loc_type: city
 longitude: 100.8036
-score: 5.708
+score: 5.939
 snippet: Subtropical Yunnan region where Dai culture, tea forests, and Mekong lowlands
   meet Southeast Asia.
 title: Xishuangbanna
 type: location
-heritage: 3.575
-vibrancy: 3.756
-nature: 7.032
-off_the_beaten_track: 4.606
+heritage: 4.563
+vibrancy: 3.043
+nature: 7.272
+off_the_beaten_track: 4.819
 ---
 
 Xishuangbanna is one of the most compelling corners of China — a subtropical region in the far south of Yunnan that feels less like China and more like Southeast Asia. The Dai people, who share culture and language with the Tai peoples of Thailand and Laos, have called this region home for centuries. They are joined by more than a dozen other ethnic minorities, making Xishuangbanna one of the most ethnically diverse parts of the country.

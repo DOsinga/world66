@@ -5,15 +5,15 @@ done:
 latitude: 44.7972
 loc_type: city
 longitude: -106.9562
-score: 5.663
+score: 5.605
 snippet: Northern Wyoming ranching town at the Bighorn foothills, with Western saloons
   and mountain access.
 title: Sheridan
 type: location
-heritage: 3.905
-vibrancy: 4.537
-nature: 6.586
-off_the_beaten_track: 4.319
+heritage: 4.127
+vibrancy: 4.048
+nature: 6.732
+off_the_beaten_track: 4.566
 ---
 
 Sheridan sits in the Powder River basin at the foot of the Bighorn Mountains in northern Wyoming, a ranching town that has kept more of its character than most places its size. The historic downtown along Main Street has well-preserved brick buildings, good restaurants, and the [Mint Bar](/northamerica/unitedstates/wyoming/sheridan/mint_bar) — a classic Western saloon with saddles for bar stools, open since 1907. [King's Saddlery and Museum](/northamerica/unitedstates/wyoming/sheridan/kings_saddlery) and the [Historic Sheridan Inn](/northamerica/unitedstates/wyoming/sheridan/sheridan_inn) (a National Historic Landmark where Buffalo Bill auditioned Wild West performers) complete the essential Main Street circuit.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Monasterio_Orheiul_Vechi,_
 latitude: 47.305712
 loc_type: city
 longitude: 28.974868
-score: 6.081
+score: 5.745
 snippet: Limestone-canyon archaeological reserve north of Chisinau, known for cliff-carved
   cave churches above the Raut.
 title: Orheiul Vechi
 type: location
-heritage: 7.524
-vibrancy: 1.984
-nature: 4.738
-off_the_beaten_track: 4.501
+heritage: 7.502
+vibrancy: 1.552
+nature: 3.585
+off_the_beaten_track: 4.507
 ---
 
 Orheiul Vechi is a natural and archaeological reserve about 60 km north of Chisinau, set in a dramatic limestone canyon where the Raut river loops back on itself. The site has been inhabited for thousands of years — by Dacians, Mongols, Tatars, and others — but what draws visitors today are the cave churches and medieval fortifications carved directly into the cliff face.

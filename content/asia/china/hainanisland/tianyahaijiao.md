@@ -7,17 +7,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Riyue.jpg
 latitude: 18.2911
 loc_type: feature
 longitude: 109.3472
-score: 5.415
+score: 5.587
 snippet: Rocky Hainan beach of exile-era poetry, marked by cliff inscriptions at China's
   imagined edge.
 sources:
 - https://en.wikipedia.org/wiki/Tianya_Haijiao
 title: Tianyahaijiao
 type: location
-heritage: 2.049
-vibrancy: 2.266
-nature: 7.299
-off_the_beaten_track: 3.157
+heritage: 1.903
+vibrancy: 2.292
+nature: 7.553
+off_the_beaten_track: 2.901
 ---
 
 Tianyahaijiao — the Edges of Heaven and Corners of the Sea — is a rocky beach twenty-four kilometres west of [Sanya](/asia/china/hainanisland/sanya) that has been famous in Chinese poetry and letters for a thousand years. The name arose because the site was used as a place of imperial exile: convicted officials were sent here as a punishment, and the towering [inscription on the cliff face](/asia/china/hainanisland/tianyahaijiao/tianya_cliff_inscription), carved in the eighteenth century, marked what was understood to be the absolute end of the Chinese world. To be banished to Tianyahaijiao was to be banished from civilization itself.

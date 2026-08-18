@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Open_Hand_monument,_Chandi
 latitude: 30.733442
 loc_type: city
 longitude: 76.779714
-score: 5.741
+score: 5.368
 snippet: Planned Indian city shaped by Le Corbusier's sectors, plazas, and monumental
   Capitol Complex
 title: Chandigarh
 type: location
-heritage: 6.056
-vibrancy: 5.665
-nature: 4.644
-off_the_beaten_track: 1.797
+heritage: 5.174
+vibrancy: 5.482
+nature: 4.656
+off_the_beaten_track: 1.746
 ---
 
 Chandigarh is one of Asia's great experiments in urban planning — a city built from scratch in the early 1950s after Partition left Punjab without a capital. The Indian government commissioned Le Corbusier, who designed its grid of numbered sectors, sweeping Capitol Complex, and open-air plazas that still feel bold seven decades on. The [Capitol Complex](/asia/india/punjab/chandigarh/capitol_complex) (a UNESCO World Heritage Site since 2016) groups the [High Court](/asia/india/punjab/chandigarh/punjab_haryana_high_court), [Secretariat](/asia/india/punjab/chandigarh/secretariat) and [Legislative Assembly](/asia/india/punjab/chandigarh/palace_of_assembly) into one monumental composition that rewards a slow walk. Beyond the architecture, Chandigarh is notably clean, green and well-provisioned for a North Indian city, with wide cycle paths, a large [Rose Garden](/asia/india/punjab/chandigarh/zakir_husain_rose_garden) and the extraordinary [Rock Garden](/asia/india/punjab/chandigarh/rock_garden) — 25 acres of folk-art sculptures assembled from industrial and construction waste by a roads inspector named Nek Chand over twenty years of secret night shifts.

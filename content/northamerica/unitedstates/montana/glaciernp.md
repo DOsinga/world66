@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Glacier_National_Park_-_HC
 latitude: 48.7596
 loc_type: feature
 longitude: -113.787
-score: 8.06
+score: 8.121
 snippet: Northern Montana national park of jagged peaks, glacier-carved lakes, and
   the Going-to-the-Sun Road
 title: Glacier National Park
 type: location
-heritage: 4.675
-vibrancy: 5.201
+heritage: 6.152
+vibrancy: 1.226
 nature: 9.98
-off_the_beaten_track: 5.405
+off_the_beaten_track: 6.7
 ---
 
 Glacier National Park, straddling the Continental Divide in northern Montana, is one of the finest wilderness areas in North America. The park protects more than a million acres of jagged peaks, clear lakes, dense forests, and — still, for now — glaciers.

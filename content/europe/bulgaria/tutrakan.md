@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 44.046
 longitude: 26.616
-score: 4.484
+score: 4.085
 snippet: Danube fishing town in northern Bulgaria, marked by Roman ruins and a major
   First World War battlefield
 wikidata: Q404939
@@ -16,10 +16,10 @@ image: tutrakan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Tutrakan.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Lyubomir Ivanov
-heritage: 5.807
-vibrancy: 1.712
-nature: 2.816
-off_the_beaten_track: 4.12
+heritage: 5.183
+vibrancy: 2.053
+nature: 2.892
+off_the_beaten_track: 3.721
 ---
 
 Tutrakan sits on the Bulgarian bank of the Danube, halfway between Ruse and Silistra. It is small, quiet, and not polished for international tourism, but it has a stronger story than many larger towns: Roman frontier walls, old fishermen's lanes, Danube boatbuilding, and the battlefield where one of Bulgaria's defining First World War victories was fought.

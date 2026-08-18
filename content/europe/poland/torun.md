@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Stare_Miasto,_Ratusz_Staro
 latitude: 53.010272
 loc_type: city
 longitude: 18.604809
-score: 5.422
+score: 6.268
 snippet: Medieval Vistula city with an intact Gothic old town and deep Copernicus
   associations.
 title: Toruń
 type: location
-heritage: 6.579
-vibrancy: 4.045
-nature: 2.725
-off_the_beaten_track: 1.108
+heritage: 7.158
+vibrancy: 5.583
+nature: 3.327
+off_the_beaten_track: 1.14
 ---
 
 Toruń is one of the best-preserved medieval cities in Poland, a UNESCO World Heritage Site sitting on the Vistula River. It escaped the destruction of the Second World War almost entirely and its Gothic old town remains largely intact — red-brick churches, a ruined [Teutonic Knights castle](/europe/poland/torun/teutonic_castle), and a market square lined with merchant houses. It is also the birthplace of Nicolaus Copernicus, and the [Copernicus House](/europe/poland/torun/copernicus_house) on Kopernika Street is one of the few original medieval merchant houses still standing.

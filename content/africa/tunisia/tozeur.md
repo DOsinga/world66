@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Tozeur_sud_tunisien.jpg
 latitude: 33.9239
 loc_type: city
 longitude: 8.1371
-score: 6.359
+score: 6.346
 title: Tozeur
 type: location
 snippet: Southwestern Tunisian oasis town on Chott el-Jerid, known for date palms
   and brickwork.
-heritage: 4.505
-vibrancy: 5.884
-nature: 7.013
-off_the_beaten_track: 5.474
+heritage: 5.068
+vibrancy: 5.244
+nature: 7.302
+off_the_beaten_track: 5.335
 ---
 
 Tozeur sits on the northern edge of [Chott el-Jerid](/africa/tunisia/tozeur/chott_el_jerid), the vast salt lake that dominates southwestern Tunisia. Once a waystation for trans-Saharan caravans trading with the Mediterranean coast, it is now famous above all for its dates — more than 200,000 palms in the [palm grove](/africa/tunisia/tozeur/palm_grove) draw their water from hundreds of natural springs, and the groves are extraordinary.

@@ -10,15 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Amphitheatre_(Pompeii)_-_A
 latitude: 40.751737
 loc_type: feature
 longitude: 14.490564
-score: 7.257
+score: 7.991
 snippet: Ancient Roman city sealed by Vesuvius in 79 AD, preserving streets, houses,
   gardens, and human traces.
 title: Pompeii
 type: location
-heritage: 9.38
-vibrancy: 4.246
-nature: 4.144
-off_the_beaten_track: 2.472
+heritage: 9.046
+vibrancy: 7.28
+nature: 3.446
+off_the_beaten_track: 3.495
 ---
 
 *Europe > Italy > Campania > Pompeii*

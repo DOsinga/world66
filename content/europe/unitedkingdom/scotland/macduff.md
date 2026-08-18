@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Macduff_harbour_entrance_a
 latitude: 57.670211
 loc_type: city
 longitude: -2.494438
-score: 5.324
+score: 5.485
 snippet: Small Aberdeenshire fishing town with a working harbour, boatyards, and a
   Moray Firth marine aquarium.
 title: Macduff
 type: location
-heritage: 5.253
-vibrancy: 2.006
-nature: 6.026
-off_the_beaten_track: 4.979
+heritage: 5.434
+vibrancy: 1.828
+nature: 6.198
+off_the_beaten_track: 5.087
 ---
 
 Macduff is a small fishing and boatbuilding town on the north coast of Aberdeenshire, facing its larger twin [Banff](/europe/unitedkingdom/scotland/banff) across the Deveron estuary. The town was renamed in 1783 by James Duff, 2nd Earl of Fife — the name means "son of Dubh", the black-haired one — and it has been tied to the sea ever since, with yards still turning out wooden, steel and aluminium hulls alongside the working harbour.

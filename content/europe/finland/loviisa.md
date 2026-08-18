@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 60.4566
 longitude: 26.2251
-score: 3.357
+score: 3.604
 snippet: Small Finnish coastal town of wooden houses, Swedish fortifications, and
   old ironworks villages.
 image: loviisa.jpg
@@ -15,10 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Loviisa
 - https://en.wikipedia.org/wiki/Loviisa
 - https://www.wikidata.org/wiki/Q748513
-heritage: 3.767
-vibrancy: 1.561
-nature: 3.494
-off_the_beaten_track: 2.141
+heritage: 4.231
+vibrancy: 1.657
+nature: 3.326
+off_the_beaten_track: 1.941
 ---
 
 Loviisa is a small town on Finland's south coast, roughly halfway between Helsinki and the Russian border. It began as a Swedish frontier town in the 18th century, and that origin still shows in the bastions, the harbour, and the low wooden streets.

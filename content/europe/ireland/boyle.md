@@ -5,7 +5,7 @@ loc_type: city
 latitude: 53.972
 longitude: -8.3
 wikidata: Q1124843
-score: 4.333
+score: 4.483
 snippet: Roscommon market town with a Cistercian abbey, Georgian mansion, and lakeside
   forest park nearby.
 sources:
@@ -13,10 +13,10 @@ sources:
 - https://heritageireland.ie/places-to-visit/boyle-cistercian-abbey/
 - https://www.visitkinghouse.ie/
 - https://loughkey.ie/
-heritage: 3.929
-vibrancy: 2.58
-nature: 5.051
-off_the_beaten_track: 2.407
+heritage: 4.106
+vibrancy: 2.552
+nature: 5.209
+off_the_beaten_track: 2.484
 ---
 
 *Europe > Ireland > Boyle*

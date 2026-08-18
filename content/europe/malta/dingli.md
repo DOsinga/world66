@@ -10,15 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Malta_-_Dingli_(Triq_Panor
 latitude: 35.86042
 loc_type: city
 longitude: 14.381682
-score: 4.869
+score: 4.506
 snippet: Maltese hilltop village above the Dingli Cliffs, the island's highest edge
   over the Mediterranean
 title: Dingli
 type: location
-heritage: 4.985
-vibrancy: 3.449
-nature: 5.434
-off_the_beaten_track: 2.329
+heritage: 4.128
+vibrancy: 3.487
+nature: 5.234
+off_the_beaten_track: 2.406
 ---
 
 Dingli is a quiet hilltop village on Malta's southwest coast, known above all for the dramatic [cliffs that bear its name](/europe/malta/dingli/dingli_cliffs). The Dingli Cliffs are Malta's highest point — around 250 metres above sea level — and the view from the edge, straight down to the Mediterranean with nothing between you and the horizon, is one of the finest on the island. Come at sunset and you'll understand why locals drive out here on weekends.

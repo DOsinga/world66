@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: -21.1108
 longitude: -44.1744
-score: 5.829
+score: 4.671
 snippet: Small Minas Gerais colonial town of baroque churches, stone streets, mountain
   views, and food weekends.
 sources:
 - https://en.wikivoyage.org/wiki/Tiradentes
 - https://en.wikipedia.org/wiki/Tiradentes,_Minas_Gerais
 - https://en.wikipedia.org/wiki/Mother_Church_of_Saint_Anthony
-heritage: 6.956
-vibrancy: 4.584
-nature: 3.092
-off_the_beaten_track: 3.443
+heritage: 5.184
+vibrancy: 4.465
+nature: 3.451
+off_the_beaten_track: 3.488
 ---
 
 Tiradentes is small, beautifully preserved, and far more rewarding than its size suggests. Its cobbled lanes, whitewashed houses, and mountain backdrop make it one of the easiest colonial towns in Minas Gerais to enjoy on foot.

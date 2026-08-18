@@ -10,15 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Alice_Springs,_2015_(01).J
 latitude: -23.698
 loc_type: city
 longitude: 133.8807
-score: 6.213
+score: 6.308
 snippet: Central Australian town between the MacDonnell Ranges, rooted in Telegraph
   Line history and Red Centre travel.
 title: Alice Springs
 type: location
-heritage: 6.678
-vibrancy: 2.885
-nature: 6.799
-off_the_beaten_track: 4.76
+heritage: 6.636
+vibrancy: 2.461
+nature: 6.965
+off_the_beaten_track: 3.983
 ---
 
 Alice Springs sits at the geographical centre of Australia, in a wide valley flanked by the red ridges of the MacDonnell Ranges on both sides. It is a town of around 25,000 people — by far the largest settlement in Central Australia — and the main hub for visitors heading to Uluru, the West MacDonnell Ranges gorges, and the Red Centre generally. The town is sometimes underestimated as a destination in itself, but it has an unusual collection of attractions and a character unlike anywhere else in the country.

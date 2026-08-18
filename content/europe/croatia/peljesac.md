@@ -5,17 +5,23 @@ image: peljesac.jpg
 image_license: CC BY-SA 3.0 de
 image_source: https://commons.wikimedia.org/wiki/File:J36_059_Pelje%C5%A1ac.jpg
 latitude: 42.904567
-loc_type: region
+loc_type: feature
 longitude: 17.47521
-score: 0.64
+score: 5.599
 snippet: Long Dalmatian peninsula near Dubrovnik, with island-like villages, pebble
   coves, and wine country.
+tags:
+- dalmatia
 title: Pelješac
 type: location
+heritage: 4.952
+vibrancy: 2.501
+nature: 6.579
+off_the_beaten_track: 4.347
 ---
 
 The Pelješac peninsula is the second largest in Croatia, stretching 85 kilometres along the south Dalmatian coast in immediate proximity to [Dubrovnik](/europe/croatia/dubrovnik). Although it is attached to the mainland — making it easy to reach — it has all the characteristics of a typical Dalmatian island: unspoiled nature, crystal-clear bays, and traditional stone villages where the pace of life has barely changed.
 
-With a population of only about 8,000, Pelješac was commercially neglected for years, which turned out to be its greatest asset. The beaches are beautiful at any point along the peninsula, from quiet pebble coves to long stretches of sand. [Orebić](/europe/croatia/peljesac/orebic), the "town of captains," preserves a proud maritime tradition, while Viganj is one of the best windsurfing spots in this part of Europe.
+With a population of only about 8,000, Pelješac was commercially neglected for years, which turned out to be its greatest asset. The beaches are beautiful at any point along the peninsula, from quiet pebble coves to long stretches of sand. [Orebić](/europe/croatia/orebic), the "town of captains," preserves a proud maritime tradition, while [Viganj](/europe/croatia/viganj) is one of the best windsurfing spots in this part of Europe. Further north, [Drače](/europe/croatia/drace) and [Trpanj](/europe/croatia/trpanj) are quieter still, and [Ston](/europe/croatia/ston), at the peninsula's base, has the second-longest medieval walls in the world and some of Croatia's best oysters.
 
-But the real glory of Pelješac is its wine. The peninsula produces Dingač and Postup, Croatia's most celebrated reds, made from the Plavac Mali grape grown on steep, sun-baked slopes above the sea. Visiting a cellar and tasting these wines with local cheese and cured meat is reason enough to come.
+But the real glory of Pelješac is its wine. The peninsula produces Dingač and [Postup](/europe/croatia/postup), Croatia's most celebrated reds, made from the Plavac Mali grape grown on steep, sun-baked slopes above the sea. Visiting a cellar and tasting these wines with local cheese and cured meat is reason enough to come.

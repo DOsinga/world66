@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:View_of_Thuin_and_its_belf
 latitude: 50.3397445
 loc_type: city
 longitude: 4.2870475
-score: 4.575
+score: 4.551
 snippet: Walloon hill town above the Sambre, with a UNESCO belfry and terraced gardens.
 sources:
 - https://en.wikivoyage.org/wiki/Thuin
@@ -18,9 +18,9 @@ title: Thuin
 type: location
 wikidata: Q669186
 heritage: 5.226
-vibrancy: 2.118
-nature: 4.55
-off_the_beaten_track: 2.685
+vibrancy: 2.148
+nature: 4.465
+off_the_beaten_track: 2.627
 ---
 
 Thuin is a small Walloon town that climbs sharply from the Sambre River to a compact upper town of stone lanes, old walls, gardens, and a belfry that belongs to the UNESCO-listed Belfries of Belgium and France. It is close enough to Charleroi for an easy half-day, but it feels much older and quieter than the industrial plain around it.

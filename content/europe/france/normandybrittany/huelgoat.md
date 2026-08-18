@@ -5,7 +5,7 @@ done:
 latitude: 48.364031
 loc_type: city
 longitude: -3.746803
-score: 5.814
+score: 6.296
 snippet: Brittany forest village beside a lake, known for house-sized granite boulders
   and river-gorge trails.
 title: Huelgoat
@@ -14,10 +14,10 @@ image: huelgoat.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2010_Huelgoat_1_La_ville_vue_du_lac.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Moreau.henri
-heritage: 5.231
-vibrancy: 2.327
-nature: 6.794
-off_the_beaten_track: 4.588
+heritage: 5.975
+vibrancy: 2.03
+nature: 7.226
+off_the_beaten_track: 4.832
 ---
 
 Many people think of [Brittany](/europe/france/normandybrittany) exclusively for its coasts. That is a mistake, because parts of the interior are just as rewarding. Huelgoat is a delightful village on the edge of a lake, surrounded by one of Brittany's last remaining ancient forests.

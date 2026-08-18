@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 34.0514
 longitude: -106.8883
-score: 4.177
+score: 4.284
 snippet: Rio Grande desert town with frontier missions, bird refuges, and serious
   radio astronomy.
 sources:
@@ -14,10 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Very_Large_Array
 - https://en.wikipedia.org/wiki/Fort_Craig
 - https://en.wikipedia.org/wiki/Trinity_(nuclear_test)
-heritage: 3.676
-vibrancy: 2.523
-nature: 4.906
-off_the_beaten_track: 5.139
+heritage: 3.566
+vibrancy: 2.867
+nature: 5.129
+off_the_beaten_track: 4.933
 ---
 
 Socorro is a small desert town on the Rio Grande, south of [Albuquerque](/northamerica/unitedstates/newmexico/albuquerque), with a much bigger hinterland than its main street suggests. The town itself has an old plaza, one of New Mexico's oldest missions, and the New Mexico Tech campus, but the reason to linger is the strange, open country around it.

@@ -5,7 +5,7 @@ done:
 latitude: 51.5864
 loc_type: city
 longitude: 0.6049
-score: 3.61
+score: 4.025
 snippet: Essex market town on a ridge, anchored by a Norman motte and historic high
   street.
 sources:
@@ -16,10 +16,10 @@ image: rayleigh.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Entrance_to_Essex_Army_Cadet_Force_Rayleigh_Detachment_-_geograph.org.uk_-_4818655.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Geographer
-heritage: 2.518
-vibrancy: 3.272
-nature: 4.014
-off_the_beaten_track: 1.045
+heritage: 3.474
+vibrancy: 3.656
+nature: 4.472
+off_the_beaten_track: 0.945
 ---
 
 Rayleigh is a market town in Essex, roughly 40 kilometres east of London in the Thames estuary hinterland. It sits on a ridge above the surrounding flatlands, and its long high street retains enough character to reward a short stop.

@@ -2,7 +2,7 @@
 latitude: -44.4833
 loc_type: city
 longitude: 169.9667
-score: 5.178
+score: 4.841
 sources:
 - https://en.wikivoyage.org/wiki/Omarama
 - https://www.newzealand.com/us/feature/omarama-clay-cliffs/
@@ -17,10 +17,10 @@ image: omarama.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Clay_Cliffs_in_early_morning_light.jpg
 image_license: Public domain
 image_attribution: Pseudopanax at English Wikipedia
-heritage: 2.287
-vibrancy: 1.995
-nature: 7.057
-off_the_beaten_track: 3.166
+heritage: 2.329
+vibrancy: 1.462
+nature: 6.44
+off_the_beaten_track: 3.483
 ---
 
 Omarama is a small high-country town at a road junction between the Mackenzie Basin, Waitaki Valley, and the road south toward Lindis Pass. Most people first see it as a fuel and coffee stop, but the landscape around it has enough character to justify slowing down.

@@ -7,7 +7,7 @@ done:
 latitude: 35.5284
 loc_type: city
 longitude: -108.7439
-score: 4.356
+score: 4.044
 snippet: Route 66 town in western New Mexico, known for Native American jewelry, trading
   posts, and ceremonial gatherings.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Gallup_Commercial_Historic_District
 title: Gallup
 type: location
-heritage: 4.983
-vibrancy: 1.973
-nature: 4.317
-off_the_beaten_track: 3.052
+heritage: 4.557
+vibrancy: 2.002
+nature: 4.164
+off_the_beaten_track: 2.946
 ---
 
 Gallup bills itself as the Indian Jewelry Capital of the World, and it is not exaggerating. With over 70 retail and wholesale outlets dealing in Native American jewelry, baskets, pottery, rugs, and paintings, the town is the place to come for the arts of the Southwest's tribal nations. The [annual Inter-Tribal Ceremonial](/northamerica/unitedstates/newmexico/gallup/inter_tribal_ceremonial) in August brings together dozens of Indian Nations from across the country for several days of dancing, competitions, and one of the region's largest Native American art markets.

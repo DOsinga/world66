@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -7.372
 longitude: 106.403
-score: 4.179
+score: 4.297
 snippet: Remote West Java fishing village known for turtle nesting beaches and quiet
   Indian Ocean surf.
 sources:
@@ -14,10 +14,10 @@ image: ujung_genteng.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Tukik_penyu_hijau,_Penangkaran_Penyu_Pangumbahan_Ujung_Genteng,_Sukabumi,_25052017.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Raffiakbar29
-heritage: 2.614
-vibrancy: 2.099
-nature: 5.341
-off_the_beaten_track: 3.724
+heritage: 2.745
+vibrancy: 2.006
+nature: 5.497
+off_the_beaten_track: 3.625
 ---
 
 Ujung Genteng is a fishing village on the far southwest coast of [Java](/asia/indonesia/java), where the road finally runs out near the Indian Ocean. It is not an easy hop from Jakarta or Bandung, and that distance protects much of its appeal: low-key beaches, lobster boats, reefy shallows, and a sense of being well beyond Java's urban crush.

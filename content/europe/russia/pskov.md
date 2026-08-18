@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Pskov._Mirozhsky_Monastery
 latitude: 57.8174
 loc_type: city
 longitude: 28.3343
-score: 5.221
+score: 4.794
 snippet: Ancient city on the Velikaya River, centred on a heavily besieged medieval
   kremlin.
 title: Pskov
 type: location
-heritage: 6.744
-vibrancy: 2.991
-nature: 3.427
-off_the_beaten_track: 4.144
+heritage: 6.289
+vibrancy: 2.463
+nature: 2.925
+off_the_beaten_track: 3.66
 ---
 
 Pskov is one of Russia's oldest cities, founded in the 9th century on the banks of the Velikaya River near what is now the Estonian and Latvian border. Through the medieval period it was the centre of an independent feudal republic — a city of merchants who, given their aggressive neighbours (the Teutonic Order, Lithuania, and Poland), had every reason to build exceptional fortifications. The [Pskov Krom](/europe/russia/pskov/pskov_krom), Pskov's medieval kremlin, was besieged 42 times over its history; only twice was it successfully stormed.

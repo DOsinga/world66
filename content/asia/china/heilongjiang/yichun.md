@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Sight_of_the_city_from_the
 latitude: 47.7235
 loc_type: city
 longitude: 128.8893
-score: 3.914
+score: 4.381
 snippet: Heilongjiang timber city in the Lesser Khingan Range, surrounded by Korean
   pine forest.
 sources:
 - https://en.wikivoyage.org/wiki/Yichun_(Heilongjiang)
 title: Yichun
 type: location
-heritage: 2.004
-vibrancy: 2.039
-nature: 4.937
-off_the_beaten_track: 3.7
+heritage: 2.158
+vibrancy: 2.297
+nature: 5.68
+off_the_beaten_track: 3.516
 ---
 
 Yichun is a timber city tucked into the Xiaoxing'anling — the Lesser Khingan Range — in central Heilongjiang, surrounded by what remains of the largest Korean pine forest in Asia. The city was established in 1957 to harvest those forests, and for decades it did so intensively; logging bans enacted in the 1990s shifted the economy toward nature tourism, though the sawmill culture has not entirely disappeared. The forest coverage rate within the administrative area still exceeds 80 percent, which makes Yichun one of the greenest places in China by that measure, and the air in summer has the particular freshness that comes from being genuinely far from any industrial concentration.

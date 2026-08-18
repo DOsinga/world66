@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: -7.6833
 longitude: 110.6167
-score: 3.038
+score: 3.027
 snippet: Central Java regency between Yogyakarta and Solo, known for rice fields,
   temples, and clear spring pools.
 sources:
 - https://en.wikivoyage.org/wiki/Klaten
 - https://en.wikivoyage.org/wiki/Prambanan
 - https://wisata.klaten.go.id/p/wisata-seru-di-klaten-selain-umbul-ada-objek-wisata-rowo-jombor-gondola-girpasang-hingga-candi-plaosan
-heritage: 3.474
-vibrancy: 1.9
-nature: 3.014
-off_the_beaten_track: 2.404
+heritage: 3.47
+vibrancy: 1.976
+nature: 2.982
+off_the_beaten_track: 2.326
 ---
 
 Klaten sits in the flat, fertile country between [Yogyakarta](/asia/indonesia/java/yogyakarta) and [Solo](/asia/indonesia/java/solo). Many travelers pass through it on the main road or train line, but the regency rewards a slower day with old temples, rice-field views, and spring-fed swimming pools that are part picnic spot, part local ritual of cooling off.

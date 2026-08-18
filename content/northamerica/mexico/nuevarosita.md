@@ -9,14 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:NuevaRosita.jpg
 latitude: 27.937833
 loc_type: city
 longitude: -101.218748
-score: 2.239
+score: 2.487
 snippet: Coahuila mining town on the Sabinas River, built around coal in the 1930s.
 title: Nueva Rosita
 type: location
-heritage: 2.573
-vibrancy: 1.963
-nature: 1.872
-off_the_beaten_track: 2.925
+heritage: 2.177
+vibrancy: 2.623
+nature: 2.13
+off_the_beaten_track: 2.524
 ---
 
 Nueva Rosita is a small mining town in the north-east of the Mexican state of Coahuila, about 100 km south of the US border near Eagle Pass, sitting on the Sabinas River at around 430 metres. It was built in the 1930s around the coal mines that still dominate the regional economy and, though few travellers ever pass through, it has a handful of modest historic buildings — the [Templo de San Juan](/northamerica/mexico/nuevarosita/templo_san_juan) and the old municipal cemetery. Along the river just outside town, the [riverside parks](/northamerica/mexico/nuevarosita/rio_sabinas_parks) of Los Sabinitos, Los Gritos, and San Antonio are pleasant for a walk beneath the sabino trees. The town is a useful stopover for anyone driving between Piedras Negras on the border and Saltillo further south, but not really a destination in itself.

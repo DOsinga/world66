@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Plaza_Independencia_de_Roc
 latitude: -34.4833
 loc_type: city
 longitude: -54.35
-score: 4.407
+score: 4.61
 snippet: Quiet eastern Uruguay capital used as a practical base for Rocha's wilder
   Atlantic coast.
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Laguna_de_Rocha
 title: Rocha
 type: location
-heritage: 3.434
-vibrancy: 3.086
-nature: 5.34
-off_the_beaten_track: 3.924
+heritage: 3.508
+vibrancy: 3.196
+nature: 5.601
+off_the_beaten_track: 3.956
 ---
 
 Rocha is the inland capital of Uruguay's most appealing coastal department. The city itself is quiet, workaday, and short on spectacle, but it is useful: buses converge here, shops stay open when beach villages go sleepy, and the Atlantic coast is close enough for day trips.

@@ -8,17 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Swanage_Bay,_Dorset,_Engla
 latitude: 50.608698
 loc_type: city
 longitude: -1.957197
-score: 5.732
+score: 5.913
 snippet: Dorset seaside town at the Jurassic Coast's eastern end, near chalk stacks
   and Purbeck cliffs
 tags:
 - dorset
 title: Swanage
 type: location
-heritage: 4.743
-vibrancy: 2.35
-nature: 6.874
-off_the_beaten_track: 3.554
+heritage: 5.131
+vibrancy: 2.129
+nature: 6.99
+off_the_beaten_track: 3.748
 ---
 
 Swanage is a small seaside town on the Dorset coast at the eastern end of the Jurassic Coast, a UNESCO World Heritage Site whose cliffs tell 185 million years of geological history. The town itself is a classic English resort, with a [sandy beach](/europe/unitedkingdom/england/south_west/swanage/swanage_beach), a [Victorian pier](/europe/unitedkingdom/england/south_west/swanage/swanage_pier), and rows of ice cream shops, but the landscape surrounding it is genuinely spectacular.

@@ -4,17 +4,17 @@ done:
 latitude: 31.8299
 loc_type: city
 longitude: 104.4572
-score: 4.15
+score: 3.631
 snippet: Sichuan memorial county where the preserved Qushan ruins mark the destruction
   of the 2008 earthquake.
 sources:
 - https://en.wikivoyage.org/wiki/Beichuan
 title: Beichuan
 type: location
-heritage: 4.632
-vibrancy: 1.834
-nature: 4.376
-off_the_beaten_track: 5.19
+heritage: 4.104
+vibrancy: 1.972
+nature: 3.712
+off_the_beaten_track: 4.548
 ---
 
 Beichuan is a county in east Sichuan that exists now principally as a memorial to the magnitude of what happened on 12 May 2008. The earthquake that struck that morning — measuring 7.9, with its epicentre at Wenchuan to the south — killed nearly 70,000 people across Sichuan, and Beichuan's county seat at Qushan Town suffered some of the most catastrophic destruction. Rather than rebuild over the ruins, the government sealed Qushan Town and built a new county seat at Yongchang, leaving the old town to stand as a monument.

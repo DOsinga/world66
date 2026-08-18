@@ -1,0 +1,31 @@
+---
+done:
+  city_tag_migration: '2026-04-17'
+  location_cleanup: 2026-04-07
+  location_enrich: '2026-06-01'
+  poi_cleanup: '2026-04-19'
+latitude: 7.1979
+loc_type: city
+longitude: 100.5962
+score: 3.869
+snippet: Southern Thai old town on a peninsula between Songkhla Lake and the Gulf,
+  rich in Sino-Portuguese streets.
+title: Songkhla
+type: location
+image: songkhla.jpg
+image_source: https://commons.wikimedia.org/wiki/File:City_of_Songkhla.jpg
+image_license: CC BY 2.0
+image_attribution: Tarik Abdel Monem
+heritage: 2.861
+vibrancy: 1.795
+nature: 3.981
+off_the_beaten_track: 6.057
+---
+
+Songkhla is one of southern Thailand's most atmospheric old towns — a quietly historic city perched on a narrow peninsula between the Gulf of Thailand and the vast Songkhla Lake. About 950 km south of Bangkok and just north of the Malaysian border, it sits at the edge of the deep south where Thai, Chinese, and Malay cultures have blended for centuries.
+
+The old town is compact and walkable, its streets lined with weathered Sino-Portuguese shophouses and punctuated by ancient temples. [Wat Matchimawat](/asia/thailand/deepsouth/songkhla/watmatchimawat), over 400 years old, is the most impressive; the [National Museum](/asia/thailand/deepsouth/songkhla/nationalmuseum) nearby is one of the best in the region, displaying artefacts from the Srivajayan Empire that once controlled this stretch of the peninsula. [Khao Tang Kuan](/asia/thailand/deepsouth/songkhla/khaotangkuan), the taller of the town's two hills, and the quieter [Khao Noi](/asia/thailand/deepsouth/songkhla/khaonoi) both provide fine overviews of the town and its extraordinary geography.
+
+Samila Beach runs along the gulf shore just outside the centre — a long stretch of white sand with casuarina trees and a famous bronze mermaid. The great lake to the west, Thailand's largest, draws bird-watchers to its waterfowl sanctuaries and offers boat trips into a quieter, more rural Thailand.
+
+Songkhla is often overlooked in favour of nearby Hat Yai, which handles most of the region's commerce and transport, but those who stay find a city of real character — unpretentious, historically rich, and excellent for seafood.

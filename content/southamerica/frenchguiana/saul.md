@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:French_Guiana_Sa%C3%BCl_ce
 latitude: 3.62256
 loc_type: city
 longitude: -53.210934
-score: 6.231
+score: 5.744
 title: Saul
 type: location
 snippet: Remote French Guiana rainforest village and trekking base inside Guiana Amazonian
   Park.
-heritage: 3.057
-vibrancy: 0.938
-nature: 7.569
-off_the_beaten_track: 6.847
+heritage: 2.799
+vibrancy: 0.99
+nature: 6.847
+off_the_beaten_track: 6.739
 ---
 
 Saül is a small village of a few hundred people sitting in the heart of the Guiana Amazonian Park, accessible only by light aircraft from Cayenne (about 45 minutes). It serves as the main trekking base for the territory's interior and is the best place in French Guiana to experience pristine primary rainforest with some infrastructure around it.

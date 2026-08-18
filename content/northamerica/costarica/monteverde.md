@@ -10,15 +10,15 @@ image_source: https://www.flickr.com/photos/113306963@N05/14013930703
 latitude: 10.3025
 loc_type: city
 longitude: -84.8245
-score: 5.597
+score: 5.769
 snippet: Costa Rican cloud-forest town in the Tilarán Mountains, known for quetzals,
   mist, and Quaker roots
 title: Monteverde
 type: location
-heritage: 1.633
-vibrancy: 1.806
-nature: 7.185
-off_the_beaten_track: 4.886
+heritage: 2.081
+vibrancy: 1.99
+nature: 7.521
+off_the_beaten_track: 4.659
 ---
 
 Monteverde is one of [Costa Rica](/northamerica/costarica)'s most visited destinations, and for good reason. The cloud forest reserve here protects some of the most biodiverse habitat on earth — orchids, bromeliads, mosses, and hundreds of bird species including the resplendent quetzal.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cripta_Padre_Kino.JPG
 latitude: 30.6269
 loc_type: city
 longitude: -110.9615
-score: 5.008
+score: 5.166
 snippet: Sonoran mission city where Padre Kino's crypt anchors a plaza of pilgrimage
   and political memory
 title: Magdalena de Kino
 type: location
-heritage: 4.897
-vibrancy: 1.998
-nature: 5.687
-off_the_beaten_track: 5.852
+heritage: 4.394
+vibrancy: 2.184
+nature: 6.145
+off_the_beaten_track: 5.709
 ---
 
 A prosperous small city of around 25,000 people, Magdalena de Kino sits 80 km south of Nogales and the Arizona border on Mexico's national route 15. Most travelers rush through — a mistake. The town has a genuine and compelling story to tell, one that touches on the colonial mission era, indigenous pilgrimage traditions, and one of modern Mexico's most mourned political tragedies.

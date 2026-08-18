@@ -2,7 +2,7 @@
 latitude: 45.738878
 loc_type: feature
 longitude: 10.070866
-score: 5.786
+score: 5.821
 snippet: Fourth-largest Lombard lake with car-free Monte Isola at its centre
 title: Lake Iseo
 type: location
@@ -10,10 +10,10 @@ image: lake_iseo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Iseo-lake-italy-dawid-tkocz.jpg
 image_license: CC BY 4.0
 image_attribution: DawidTkocz
-heritage: 4.508
-vibrancy: 3.878
-nature: 7.057
-off_the_beaten_track: 3.05
+heritage: 4.547
+vibrancy: 4.002
+nature: 7.089
+off_the_beaten_track: 2.895
 ---
 
 Lake Iseo, also known as Lake Sebino, is the fourth-largest lake in Lombardy and the one Italians keep mostly to themselves. Formed by the Valcamonica Glacier, it stretches 24 kilometres north to south and up to 5 kilometres wide — though you rarely see the full width, because Monte Isola, the largest inhabited lake island in Europe, sits squarely in the middle. No cars are allowed on the island, which makes it an ideal place to walk or cycle; ferries cross regularly from Iseo and the other lakeside towns.

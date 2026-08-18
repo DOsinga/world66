@@ -4,17 +4,17 @@ type: location
 loc_type: city
 latitude: 20.37857
 longitude: -99.65155
-score: 4.268
+score: 4.258
 snippet: Hidalgo Pueblo Magico with colonial churches, independence history, and a
   huge eighteenth-century aqueduct.
 sources:
 - https://en.wikivoyage.org/wiki/Huichapan
 - https://www.wikidata.org/wiki/Q2475111
 - https://visitmexico.com/en/destinos/13/0/all/11
-heritage: 4.59
-vibrancy: 3.286
-nature: 4.67
-off_the_beaten_track: 4.662
+heritage: 4.483
+vibrancy: 3.402
+nature: 4.7
+off_the_beaten_track: 4.242
 ---
 
 Huichapan is a small Pueblo Magico in western Hidalgo, close to the Queretaro border. It has more weight than its size suggests: a handsome colonial centre, several old churches in pink stone, a local chapter in Mexico's independence story, and the enormous Saucillo Aqueduct crossing a canyon outside town.

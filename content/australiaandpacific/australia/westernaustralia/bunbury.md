@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bunbury_03.jpg
 latitude: -33.3268
 loc_type: city
 longitude: 115.6367
-score: 5.062
+score: 5.11
 snippet: Western Australian coastal city and South West gateway, known for bottlenose
   dolphins in Koombana Bay.
 title: Bunbury
 type: location
-heritage: 4.478
-vibrancy: 4.595
-nature: 5.625
-off_the_beaten_track: 4.282
+heritage: 4.313
+vibrancy: 4.487
+nature: 5.753
+off_the_beaten_track: 4.457
 ---
 
 Bunbury is Western Australia's second city and the gateway to the South West — the wine country, surf coast and wilderness that stretches from here to Cape Leeuwin. Most travellers pass through on their way to [Margaret River](/australiaandpacific/australia/westernaustralia/margaretriver) or [Busselton](/australiaandpacific/australia/westernaustralia/bussleton), but the city rewards a stop of its own.

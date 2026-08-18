@@ -15,7 +15,7 @@ quick_facts:
   Old Town: UNESCO-listed, medieval
   Population: ~135,000
   River Floating: Locals drift down the Aare
-score: 6.341
+score: 5.458
 snippet: Swiss federal capital with arcaded medieval streets curled inside a bend
   of the Aare.
 tip: Bern, not Zurich or Geneva, is Switzerland's capital — a perfectly preserved
@@ -25,10 +25,10 @@ tip: Bern, not Zurich or Geneva, is Switzerland's capital — a perfectly preser
   while living here.
 title: Bern
 type: location
-heritage: 5.156
-vibrancy: 6.642
-nature: 5.564
-off_the_beaten_track: 1.884
+heritage: 3.945
+vibrancy: 5.282
+nature: 5.908
+off_the_beaten_track: 1.723
 ---
 
 Switzerland’s federal capital (pop. 136,000) is one of the best-preserved medieval city centres in Europe and a UNESCO World Heritage Site. A fire destroyed most of it in 1405, and what was rebuilt in the following century is still largely intact: 6 kilometres of continuous arcaded sandstone walkways, [eleven painted medieval fountains](/europe/switzerland/bern/fountains), and the 100-metre tower of the [Bern Minster](/europe/switzerland/bern/bern_minster) rising from the heart of the peninsula. The [Zytglogge clock tower](/europe/switzerland/bern/zytglogge) — with its mechanical figure show at four minutes before each hour — is the symbolic centre of the city and a pivot in Albert Einstein’s thought experiments about time.

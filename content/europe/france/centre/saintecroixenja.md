@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Prieur%C3%A9_de_Sainte_Cro
 latitude: 45.479091
 loc_type: city
 longitude: 4.646935
-score: 3.934
+score: 4.025
 snippet: Tiny French village built inside a former Carthusian monastery in the Pilat
   hills southwest of Lyon
 title: Sainte-Croix-en-Jarez
 type: location
-heritage: 2.775
-vibrancy: 1.79
-nature: 4.921
-off_the_beaten_track: 3.069
+heritage: 3.192
+vibrancy: 1.804
+nature: 4.886
+off_the_beaten_track: 2.901
 ---
 
 Sainte-Croix-en-Jarez is a tiny village tucked into the hills southwest of Lyon, in the [Pilat Regional Nature Park](/europe/france/centre/saintecroixenja/parc_naturel_regional_du_pilat). What makes it unusual is that the village itself occupies a former Carthusian monastery — the [Chartreuse de Sainte-Croix](/europe/france/centre/saintecroixenja/chartreuse_de_sainte_croix) was converted into homes and workshops after the Revolution, so residents live inside medieval cloister walls. Wash hangs between 13th-century arches, potted plants sit outside former monk's cells, and the village square is the old monastery courtyard. The ensemble is classified as a monument historique and is one of the more quietly striking places in this part of France.

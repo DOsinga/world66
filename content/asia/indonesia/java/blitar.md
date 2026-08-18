@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Makam_BK_di_Blitar.jpg
 latitude: -8.1
 loc_type: city
 longitude: 112.1667
-score: 3.506
+score: 3.519
 snippet: East Java town tied to Sukarno, Majapahit temple ruins, and Mount Kelud.
 sources:
 - https://en.wikivoyage.org/wiki/Blitar
@@ -14,10 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Blitar
 title: Blitar
 type: location
-heritage: 3.122
-vibrancy: 2.797
-nature: 4.082
-off_the_beaten_track: 1.967
+heritage: 3.241
+vibrancy: 2.653
+nature: 4.08
+off_the_beaten_track: 2.107
 ---
 
 Blitar is a quiet East Java town with one unusually strong reason to stop: Indonesia's first president, Sukarno, is buried here. His grave, museum, and library make the town a place of national pilgrimage rather than just another rail stop between Malang and Kediri.

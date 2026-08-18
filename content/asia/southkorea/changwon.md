@@ -5,7 +5,7 @@ loc_type: city
 latitude: 35.228
 longitude: 128.6819
 wikidata: Q243327
-score: 5.434
+score: 5.26
 snippet: Planned South Gyeongsang city with Jinhae cherry blossoms, Masan seafood,
   and wetland birdlife.
 sources:
@@ -13,10 +13,10 @@ sources:
 - https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=93625
 - https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=104830
 - https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=215505
-heritage: 4.627
-vibrancy: 5.781
-nature: 4.082
-off_the_beaten_track: 1.018
+heritage: 3.976
+vibrancy: 5.787
+nature: 3.853
+off_the_beaten_track: 1.111
 ---
 
 *Asia > South Korea > Changwon*

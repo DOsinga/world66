@@ -8,14 +8,14 @@ image_source: https://commons.wikimedia.org/wiki/File:1_orvieto_aerial_pano_2024
 latitude: 42.718615
 loc_type: city
 longitude: 12.108791
-score: 5.902
+score: 6.596
 snippet: Umbrian hill town on a tufa plateau, crowned by a striped Gothic cathedral.
 title: Orvieto
 type: location
-heritage: 7.034
-vibrancy: 4.662
-nature: 3.295
-off_the_beaten_track: 1.829
+heritage: 7.696
+vibrancy: 5.542
+nature: 4.083
+off_the_beaten_track: 1.522
 ---
 
 Orvieto rises dramatically from a flat volcanic plateau of tufa rock in southern Umbria, visible for miles across the surrounding countryside. The town's centrepiece is its [Duomo](/europe/italy/umbria/orvieto/orvieto_cathedral), one of Italy's great Gothic cathedrals — the striped black-and-white marble facade, covered in mosaics and relief carvings, is genuinely jaw-dropping even by Italian standards. The cathedral took three centuries to build and contains Luca Signorelli's famous frescoes of the Last Judgment in the Cappella di San Brizio.

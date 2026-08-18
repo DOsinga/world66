@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:CBP_San_Diego_Operations_-
 latitude: 32.552
 loc_type: city
 longitude: -117.0431
-score: 2.98
+score: 3.116
 snippet: San Diego border neighbourhood known for the San Ysidro Port of Entry into
   Tijuana.
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/San_Ysidro_Port_of_Entry
 title: San Ysidro
 type: location
-heritage: 2.618
-vibrancy: 3.14
-nature: 2.412
-off_the_beaten_track: 1.214
+heritage: 2.248
+vibrancy: 3.397
+nature: 2.39
+off_the_beaten_track: 1.299
 ---
 
 San Ysidro sits at the very southern tip of San Diego, pressed up against the Mexican border. It is best known as the location of the [San Ysidro Port of Entry](/northamerica/unitedstates/california/san_ysidro/port_of_entry), the busiest land border crossing in the world — around 90,000 people cross here on a typical day. For most travelers it is a threshold rather than a destination: the place where you step off the San Diego Trolley and walk across into Tijuana.

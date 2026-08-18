@@ -9,15 +9,15 @@ loc_type: city
 snippet: Car-free Channel Island of bicycles, horse-drawn carriages, and cliff paths
   shaped by centuries of feudal rule.
 longitude: -2.363
-score: 4.944
+score: 4.158
 sources:
 - https://en.wikipedia.org/wiki/Sark
 title: Sark
 type: location
-heritage: 3.142
-vibrancy: 1.735
-nature: 5.951
-off_the_beaten_track: 5.61
+heritage: 2.956
+vibrancy: 1.607
+nature: 4.733
+off_the_beaten_track: 5.607
 ---
 
 Sark is three miles long and one and a half miles wide, and there are no cars. Tractors are used for farming and to haul luggage from the harbour; otherwise everyone gets around by [bicycle](/europe/channelislands/sark/cycling) or horse-drawn carriage. Mobile signal is poor. The pace drops noticeably from the moment you step off the ferry from Guernsey.

@@ -10,15 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aberystwyth_shore.jpg
 latitude: 52.4145
 loc_type: city
 longitude: -4.0811
-score: 5.44
+score: 5.47
 snippet: Welsh university town between Cardigan Bay and green hills, with a bohemian
   bookish streak.
 title: Aberystwyth
 type: location
-heritage: 5.681
-vibrancy: 4.961
-nature: 6.024
-off_the_beaten_track: 3.109
+heritage: 5.314
+vibrancy: 4.847
+nature: 6.137
+off_the_beaten_track: 2.936
 ---
 
 Aberystwyth is a university town on the west coast of Wales, perched between the sea and some of the finest countryside in Britain. The name is famously hard for English speakers to pronounce — roughly "ab-er-IST-with" — but the town itself is disarmingly easy to like.

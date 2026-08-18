@@ -2,7 +2,7 @@
 latitude: 55.4167
 longitude: 8.4
 loc_type: feature
-score: 4.851
+score: 4.982
 snippet: Small Wadden Sea island off Esbjerg with wide Atlantic beaches, the preserved
   village of Sønderho, and one of Denmark's most distinctive folk costumes.
 title: Fanø
@@ -11,10 +11,10 @@ image: fanoe.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Buildings_at_Nordby,_Fan%C3%B8_(33175).jpg
 image_license: CC BY-SA 4.0
 image_attribution: KaZoria
-heritage: 3.691
-vibrancy: 2.388
-nature: 5.954
-off_the_beaten_track: 3.007
+heritage: 3.883
+vibrancy: 2.24
+nature: 6.076
+off_the_beaten_track: 3.285
 ---
 
 Fanø is a small island lying just off the coast of Esbjerg, reached by a twelve-minute ferry crossing from Esbjerg harbour. At 56 square kilometres it is one of the smaller Danish islands, but it has a character that belies its size — a combination of wide western beaches, a protected Wadden Sea coast, and two towns with very different personalities.

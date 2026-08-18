@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 23.97
 longitude: -99.77
-score: 5.668
+score: 4.604
 snippet: Remote Nuevo León mountain town known for cool forests, waterfalls, and the
   Sierra Madre.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://visitmexico.com/en/destino/2216/general-zaragoza
 - https://www.nuevoleon.travel/zaragoza/
 - https://www.nuevoleon.travel/parque-recreativo-el-salto/
-heritage: 7.042
-vibrancy: 3.895
-nature: 3.144
-off_the_beaten_track: 2.387
+heritage: 5.487
+vibrancy: 3.636
+nature: 3.161
+off_the_beaten_track: 2.66
 ---
 
 General Zaragoza is a small mountain town in the far south-east of Nuevo León, much closer in spirit to the Sierra Madre than to metropolitan [Monterrey](/northamerica/mexico/monterrey). It is remote, cool by regional standards, and framed by wooded slopes, rivers, and waterfalls.

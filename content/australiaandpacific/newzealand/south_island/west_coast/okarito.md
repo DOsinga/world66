@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Okarito_Lagoon_03.jpg
 latitude: -43.2
 loc_type: city
 longitude: 170.2167
-score: 5.763
+score: 5.957
 snippet: Tiny West Coast settlement beside a wild lagoon, known for kayaking and rowi
   kiwi.
 sources:
@@ -16,10 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/%C5%8Ck%C4%81rito_Lagoon
 title: Okarito
 type: location
-heritage: 2.28
-vibrancy: 1.008
-nature: 7.171
-off_the_beaten_track: 5.771
+heritage: 1.735
+vibrancy: 1.56
+nature: 7.273
+off_the_beaten_track: 6.425
 ---
 
 Okarito is a tiny coastal settlement north of [Franz Josef](/australiaandpacific/newzealand/south_island/west_coast/franzjosef), reached by a side road through rainforest from State Highway 6. It is one of those West Coast places that feels almost deliberately quiet: a handful of houses, a beach, a lagoon, and the Southern Alps rising behind the bush when the cloud lifts.

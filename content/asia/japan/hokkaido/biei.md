@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 43.5647
 longitude: 142.506
-score: 5.725
+score: 5.897
 snippet: Central Hokkaido hill town known for patchwork fields, blue water, and big
   Tokachi views.
 wikidata: Q1355491
@@ -16,10 +16,10 @@ image: biei.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bibaushi,_Biei,_Kamikawa_District,_Hokkaido_Prefecture_071-0471,_Japan_-_panoramio_(4).jpg
 image_license: CC BY-SA 3.0
 image_attribution: 肖红军
-heritage: 2.359
-vibrancy: 1.853
-nature: 7.613
-off_the_beaten_track: 4.133
+heritage: 2.568
+vibrancy: 1.562
+nature: 7.722
+off_the_beaten_track: 4.646
 ---
 
 Biei is the softer, hillier neighbour of [Furano](/asia/japan/hokkaido/furano), set in central [Hokkaido](/asia/japan/hokkaido) between Asahikawa and the Tokachi volcanic range. It is famous for rolling farm fields that look almost planned for photographers: wheat, potatoes, flowers, and windbreak trees laid out in long strips over low hills.

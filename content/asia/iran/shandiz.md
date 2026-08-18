@@ -2,15 +2,15 @@
 latitude: 36.3856
 loc_type: city
 longitude: 59.3072
-score: 5.215
+score: 5.464
 snippet: Riverside resort town west of Mashhad, famous across Iran for its charcoal-grilled
   shishlik lamb chops.
 title: Shandiz
 type: location
-heritage: 5.0
-vibrancy: 4.041
-nature: 5.964
-off_the_beaten_track: 4.147
+heritage: 4.996
+vibrancy: 3.97
+nature: 6.351
+off_the_beaten_track: 4.277
 ---
 
 Shandiz is a resort town in the Binalud foothills west of [Mashhad](/asia/iran/mashhad), larger and more developed than its neighbour [Torghabeh](/asia/iran/torghabeh) a few kilometres down the valley. Its fame is almost entirely culinary: Shandiz is known nationally for its shish kebab, and above all for shishlik, the local speciality of huge lamb chops grilled over charcoal.

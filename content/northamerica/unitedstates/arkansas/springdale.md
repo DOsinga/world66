@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:E_Emma_Ave_(Springdale,_AR
 latitude: 36.186744
 loc_type: city
 longitude: -94.128814
-score: 3.966
+score: 3.931
 snippet: Ozark city shaped by poultry industry, Latino food streets, and northwest
   Arkansas baseball culture.
 title: Springdale
 type: location
-heritage: 2.161
-vibrancy: 2.469
-nature: 4.954
-off_the_beaten_track: 1.839
+heritage: 1.795
+vibrancy: 2.551
+nature: 4.86
+off_the_beaten_track: 1.621
 ---
 
 Springdale is the fourth-largest city in [Arkansas](/northamerica/unitedstates/arkansas), located in the Ozark Mountains in the northwest corner of the state. It is the headquarters of Tyson Foods and often called the chicken capital of the world — the poultry industry dominates the local economy and has drawn a large Latino immigrant community, which in turn has given Springdale some of the best Mexican and Central American food in the region. The [Emma Avenue Latin food scene](/northamerica/unitedstates/arkansas/springdale/latin_food_scene) is a genuine revelation: pupuserias, taquerias, and tamale shops that would be unremarkable in Los Angeles but are extraordinary in the Ozarks.

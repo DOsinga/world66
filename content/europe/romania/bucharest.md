@@ -15,7 +15,7 @@ quick_facts:
   Once Called: '''Little Paris of the East'''
   Palace of Parliament: World's heaviest building
   Population: ~1.8 million
-score: 5.794
+score: 5.848
 snippet: Romanian capital of Belle Époque mansions, brutalist blocks, and stubborn
   old-city life around Lipscani.
 tip: Bucharest is a city of grand, faded boulevards — once 'Little Paris', it even
@@ -25,10 +25,10 @@ tip: Bucharest is a city of grand, faded boulevards — once 'Little Paris', it 
   of surprises.
 title: Bucharest
 type: location
-heritage: 5.242
-vibrancy: 6.048
-nature: 3.628
-off_the_beaten_track: 1.663
+heritage: 5.621
+vibrancy: 5.979
+nature: 3.703
+off_the_beaten_track: 1.651
 ---
 
 Bucharest was once known as the "Little Paris" for its tree-lined boulevards, Belle Époque architecture, and a café culture that rivalled the French capital in the 1930s. The Communist era tried hard to erase that identity — Ceaușescu demolished a fifth of the historic centre to build his grotesque [Parliament Palace](/europe/romania/bucharest/parliament_palace) — but the old city has proven stubbornly resilient.

@@ -8,15 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Playamar,_Torremolinos.JPG
 latitude: 36.624284
 loc_type: city
 longitude: -4.499545
-score: 5.99
-title: Torremolinos
-type: location
+score: 6.005
 snippet: Costa del Sol beach resort with broad sands and the old fishermen's quarter
   of La Carihuela.
-heritage: 3.234
-vibrancy: 5.999
-nature: 5.966
-off_the_beaten_track: 1.323
+tags:
+- costa_del_sol
+title: Torremolinos
+type: location
+heritage: 4.181
+vibrancy: 5.507
+nature: 6.646
+off_the_beaten_track: 1.222
 ---
 
 Torremolinos is a no-apologies beach resort on the Costa del Sol, 14 km west of Málaga. It was essentially invented by mass tourism in the 1950s and 60s — the hotels and development came early and came fast. That history is part of what makes it interesting: La Carihuela, the old fishermen's quarter at the western end of town, survived relatively intact and still has whitewashed cottages, local seafood restaurants, and a pace that predates the package holiday.

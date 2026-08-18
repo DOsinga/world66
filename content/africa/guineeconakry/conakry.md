@@ -16,7 +16,7 @@ quick_facts:
   On a Peninsula: Long and narrow
   Population: ~2 million
   Îles de Los: Beach islands offshore
-score: 5.223
+score: 5.113
 snippet: Atlantic peninsula capital of Guinea, loud with markets, traffic, and one
   of West Africa's great music scenes.
 tip: Conakry stretches along a narrow peninsula and the Îles de Los lie just offshore
@@ -25,10 +25,10 @@ tip: Conakry stretches along a narrow peninsula and the Îles de Los lie just of
   one of Africa's largest, are the main sights. French is essential.
 title: Conakry
 type: location
-heritage: 4.934
-vibrancy: 5.372
-nature: 4.415
-off_the_beaten_track: 4.766
+heritage: 4.625
+vibrancy: 5.291
+nature: 4.654
+off_the_beaten_track: 4.788
 ---
 
 Conakry is the capital of [Guinea](/africa/guineeconakry) and sits at the tip of a narrow peninsula jutting into the Atlantic. The city has grown far beyond this peninsula in recent decades, sprawling inland with little planning and heavy traffic. Getting from the center to the outskirts can take hours.

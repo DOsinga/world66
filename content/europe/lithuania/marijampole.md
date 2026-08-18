@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 54.5579
 longitude: 23.35
-score: 3.085
+score: 3.253
 snippet: Suvalkija regional city with bold street art, Marian history, and a compact
   river-centre core.
 image: marijampole.jpg
@@ -16,10 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Marijampol%C4%97
 - https://lithuania.travel/en/where-to-visit/regions/suvalkija-en/street-art-in-marijampole
 wikidata: Q1351046
-heritage: 3.509
-vibrancy: 2.683
-nature: 3.104
-off_the_beaten_track: 1.734
+heritage: 3.627
+vibrancy: 2.86
+nature: 3.438
+off_the_beaten_track: 1.875
 ---
 
 Marijampolė is an industrial southern Lithuanian city that has found a better public face than many places of its size. The old Marian monastery gave the town its name, the Šešupė River cuts through the centre, and the MaLonNy street-art festival has turned blank walls into the city's strongest reason to wander.

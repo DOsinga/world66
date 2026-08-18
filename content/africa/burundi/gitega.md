@@ -14,7 +14,7 @@ quick_facts:
   Elevation: ~1,500 m highlands
   Population: ~135,000
   Sacred Drums: Ritual drumming at Gishora
-score: 3.271
+score: 3.546
 snippet: Highland Burundian city around 1,800 metres, known for the National Museum
   and royal drumming traditions
 tip: Gitega became Burundi's political capital in 2019, taking over from Bustling
@@ -23,10 +23,10 @@ tip: Gitega became Burundi's political capital in 2019, taking over from Bustlin
   Gishora is the real draw, where drummers perform a thunderous, dancing ritual.
 title: Gitega
 type: location
-heritage: 3.177
-vibrancy: 2.993
-nature: 3.623
-off_the_beaten_track: 3.01
+heritage: 3.219
+vibrancy: 3.313
+nature: 3.895
+off_the_beaten_track: 2.988
 ---
 
 Gitega became Burundi's political capital in 2019, taking over from [Bujumbura](/africa/burundi/bujumbura), though in practice the larger lakeside city retains most of the country's economic and diplomatic activity. Gitega sits in the hilly center of the country at around 1,800 meters, giving it a cooler, more temperate climate than the lakeshore.

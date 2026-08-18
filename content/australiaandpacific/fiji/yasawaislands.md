@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_on_Naviti_island,_Ya
 latitude: -17.290947
 loc_type: city
 longitude: 177.125786
-score: 5.939
+score: 6.131
 snippet: Volcanic Fijian island chain north of Viti Levu, with white beaches, clear
   lagoons, and slow village life
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Yasawa_Islands
 title: Yasawa Islands
 type: location
-heritage: 3.545
-vibrancy: 0.613
-nature: 7.187
-off_the_beaten_track: 6.614
+heritage: 3.01
+vibrancy: 1.046
+nature: 7.427
+off_the_beaten_track: 6.801
 ---
 
 The Yasawa Islands are a volcanic chain stretching north from [Fiji's](/australiaandpacific/fiji) main island of Viti Levu — about 20 islands, most of them long and narrow, with white sand beaches, clear lagoons, and village life that moves at its own pace. For decades they were off-limits to independent travellers, effectively a protected backwater. Since the late 1990s, a network of budget bures, family guesthouses, and a handful of upmarket resorts has opened up the chain, and the [Yasawa Flyer](/australiaandpacific/fiji/yasawaislands/yasawa_flyer) catamaran now connects the islands daily from Denarau near Nadi.

@@ -4,7 +4,7 @@ done:
 latitude: 36.7879
 loc_type: feature
 longitude: -118.6746
-score: 6.137
+score: 6.186
 snippet: Sierra Nevada national park of glacier-carved canyons, granite walls, and
   giant sequoia groves.
 title: Kings Canyon
@@ -13,10 +13,10 @@ image: kingscanyon.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Copper_Creek_Trail.jpg
 image_license: CC BY 2.0
 image_attribution: Tom Hilton
-heritage: 1.728
-vibrancy: 1.299
-nature: 7.932
-off_the_beaten_track: 5.178
+heritage: 1.54
+vibrancy: 1.212
+nature: 7.845
+off_the_beaten_track: 5.714
 ---
 
 Kings Canyon National Park, adjacent to Sequoia National Park in the southern Sierra Nevada, contains some of California's most dramatic mountain scenery — deep glacier-carved canyons, towering granite walls, and groves of giant sequoias, the largest trees on earth.

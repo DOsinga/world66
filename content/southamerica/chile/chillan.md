@@ -5,15 +5,15 @@ done:
 latitude: -36.606662
 loc_type: city
 longitude: -72.103319
-score: 3.838
+score: 3.866
 title: Chillán
 type: location
 snippet: Ñuble capital and market city, rebuilt after the 1939 earthquake and tied
   to hot springs nearby.
-heritage: 3.39
-vibrancy: 3.106
-nature: 4.448
-off_the_beaten_track: 2.802
+heritage: 3.368
+vibrancy: 3.174
+nature: 4.458
+off_the_beaten_track: 2.873
 ---
 
 Chillán is a mid-sized city in south-central Chile, the capital of Ñuble Region, known for two things: it was the birthplace of Bernardo O'Higgins, Chile's independence hero, and it is the gateway to the [Termas de Chillán](/southamerica/chile/chillan/termas_de_chillan), one of Chile's best hot springs and ski resorts.

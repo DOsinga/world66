@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Wenzhou-city-in-Zhejiang-C
 latitude: 27.99639
 loc_type: city
 longitude: 120.695345
-score: 5.809
+score: 5.268
 snippet: Zhejiang manufacturing city on the Ou River, known for private enterprise,
   spectacles, shoes, and mountain scenery.
 title: Wenzhou
 type: location
-heritage: 5.867
-vibrancy: 5.831
-nature: 4.855
-off_the_beaten_track: 3.292
+heritage: 4.379
+vibrancy: 5.546
+nature: 4.551
+off_the_beaten_track: 3.422
 ---
 
 Wenzhou is the third city of [Zhejiang](/asia/china/zhejiang) Province and one of the economic powerhouses of the region. Famed for its businessmen and women (and the *Wenzhou model* of private enterprise), Wenzhou is frequently used by Western media as a barometer of the Chinese export economy — among other things, the city manufactures around 90% of the world's spectacles and massive quantities of shoes.

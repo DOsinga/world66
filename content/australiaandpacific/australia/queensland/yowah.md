@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -27.968
 longitude: 144.637
-score: 5.838
+score: 5.379
 snippet: Tiny outback Queensland opal field known for Yowah nut opals and artesian
   water
 sources:
@@ -17,10 +17,10 @@ image: yowah.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Opal_from_Yowah,_Queensland,_Australia_2.jpg
 image_license: CC BY-SA 2.5
 image_attribution: JJ Harrison
-heritage: 3.829
-vibrancy: 1.25
-nature: 7.066
-off_the_beaten_track: 6.496
+heritage: 2.158
+vibrancy: 1.227
+nature: 6.373
+off_the_beaten_track: 6.436
 ---
 
 Yowah is a speck of an opal town in far western Queensland, far enough from the coast that the horizon starts to feel like the main street. It is not a service stop with a few curiosities attached. The point of coming is the opal field itself, especially the ironstone nodules known as Yowah nuts.

@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Agadez-Niger.jpg
 latitude: 16.972556
 loc_type: city
 longitude: 7.990739
-score: 4.116
+score: 4.584
 snippet: Nigerien Saharan crossroads city, with a mud-brick old town shaped by Tuareg,
   Hausa, and Fulani cultures
 sources:
@@ -18,10 +18,10 @@ sources:
 - https://whc.unesco.org/en/list/1268
 title: Agadez
 type: location
-heritage: 3.418
-vibrancy: 2.08
-nature: 3.073
-off_the_beaten_track: 6.986
+heritage: 4.916
+vibrancy: 1.94
+nature: 3.162
+off_the_beaten_track: 7.113
 ---
 
 Agadez is the desert capital of Niger and one of the great Saharan crossroads cities, comparable in history and atmosphere to [Timbuktu](/africa/mali/timbuktu) in Mali. Founded as a trans-Saharan trading post in the 11th century, it reached its peak in the 16th century when 30,000 people lived here and caravans carrying gold, salt, and slaves connected sub-Saharan Africa with the Mediterranean. The [old city](/africa/niger/agadez/old_city) is a UNESCO World Heritage Site, a labyrinth of mud-brick houses and narrow alleys essentially unchanged in form for five centuries.

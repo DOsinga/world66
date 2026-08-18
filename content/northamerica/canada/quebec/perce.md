@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 48.5333
 longitude: -64.2167
-score: 5.918
+score: 5.993
 snippet: Gaspé Peninsula village facing Percé Rock, Bonaventure Island, and a UNESCO
   coastal geopark.
 wikidata: Q141991
@@ -18,10 +18,10 @@ image: perce.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Perc%C3%A9,_Quebec,_Canada_1.jpg
 image_license: CC BY 4.0
 image_attribution: Hayden Soloviev
-heritage: 5.065
-vibrancy: 3.834
-nature: 7.026
-off_the_beaten_track: 2.961
+heritage: 4.975
+vibrancy: 4.083
+nature: 7.18
+off_the_beaten_track: 2.753
 ---
 
 Percé is the showpiece village of the Gaspé Peninsula, stretched along the Gulf of St. Lawrence with [Percé Rock](/northamerica/canada/quebec/perce/perce_rock) just offshore. It is touristy in summer, sometimes shamelessly so, but the setting earns the attention: cliffs, sea birds, fishing history, and one of Québec's most recognisable natural landmarks.

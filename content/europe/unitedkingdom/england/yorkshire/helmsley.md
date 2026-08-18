@@ -2,7 +2,7 @@
 latitude: 54.246
 loc_type: city
 longitude: -1.0642
-score: 5.261
+score: 4.635
 snippet: Handsome North Yorkshire market town with a Norman castle, good food shops,
   and Rievaulx Abbey nearby.
 sources:
@@ -17,10 +17,10 @@ image: helmsley.jpg
 image_source: https://commons.wikimedia.org/wiki/File:View_from_the_Cleveland_Way_west_of_Helmsley_-_geograph.org.uk_-_6639936.jpg
 image_license: CC BY-SA 2.0
 image_attribution: habiloid
-heritage: 6.594
-vibrancy: 2.479
-nature: 3.908
-off_the_beaten_track: 2.736
+heritage: 5.818
+vibrancy: 2.369
+nature: 3.423
+off_the_beaten_track: 2.683
 ---
 
 Helmsley is a handsome stone-built market town on the southern edge of the [North York Moors](/europe/unitedkingdom/england/yorkshire/north_york_moors), about 25 miles north of [York](/europe/unitedkingdom/england/yorkshire/york). It is the kind of place that rewards an unhurried day: a broad market square ringed by independent shops, butchers, and a particularly good deli, with a weekly Friday market that has been held here since the 12th century. The town makes an easy and satisfying base for exploring the moors, and combines a market town, a ruined castle, and one of England's finest abbeys within a few miles.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 50.0386
 longitude: 15.7792
-score: 3.793
+score: 3.861
 snippet: East Bohemian city of Renaissance squares, gingerbread, horse racing, and
   revived industrial architecture.
 wikidata: Q36989
@@ -17,10 +17,10 @@ image: pardubice.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Pardubice_-_Pern%C5%A1t%C3%BDnsk%C3%A9_n%C3%A1m%C4%9Bst%C3%AD_a_Zelen%C3%A1_br%C3%A1na.jpg
 image_license: CC BY 3.0
 image_attribution: Prazak
-heritage: 4.492
-vibrancy: 3.052
-nature: 3.012
-off_the_beaten_track: 1.098
+heritage: 4.573
+vibrancy: 3.106
+nature: 3.152
+off_the_beaten_track: 1.204
 ---
 
 Pardubice is an East Bohemian city that rewards a slow day more than its industrial reputation suggests. The old centre is compact and handsome, with arcaded houses around Pernstynske Square, a Renaissance gate tower, and a castle set behind broad earth ramparts.

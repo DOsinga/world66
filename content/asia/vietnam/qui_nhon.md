@@ -4,7 +4,7 @@ done:
 latitude: 13.7729
 loc_type: city
 longitude: 109.2194
-score: 3.444
+score: 3.729
 title: Qui Nhon
 type: location
 image: qui_nhon.jpg
@@ -13,10 +13,10 @@ image_license: CC BY 2.0
 image_attribution: Nguyen Duc Loi on Flickr
 snippet: South-central Vietnamese coastal city, a working port with beaches between
   mountains and the sea.
-heritage: 2.516
-vibrancy: 2.165
-nature: 4.219
-off_the_beaten_track: 3.666
+heritage: 2.799
+vibrancy: 2.295
+nature: 4.593
+off_the_beaten_track: 3.372
 ---
 
 Qui Nhon is a mid-sized coastal city in Binh Dinh province, tucked between mountains and the sea on Vietnam's south-central coast. Long overshadowed by the tourist juggernaut of Hoi An to the north and Nha Trang to the south, it has stayed quieter and more genuinely Vietnamese than either — a working port and fishing town that happens to have excellent beaches.

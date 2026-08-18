@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 15.6621
 longitude: -96.5117
-score: 5.652
+score: 5.925
 snippet: Oaxacan beach village with Mexico's best-known clothing-optional shore and
   a loose counterculture mood.
 sources:
@@ -15,10 +15,10 @@ image: zipolite.jpg
 image_source: https://commons.wikimedia.org/wiki/File:ZipoliteFromAmor.JPG
 image_license: CC BY-SA 4.0
 image_attribution: AlejandroLinaresGarcia
-heritage: 3.489
+heritage: 3.859
 vibrancy: 4.671
-nature: 6.503
-off_the_beaten_track: 4.948
+nature: 6.926
+off_the_beaten_track: 5.072
 ---
 
 Zipolite is a small beach village on the Oaxacan coast, between [Puerto Escondido](/northamerica/mexico/puertoescondido) and Huatulco. It is famous for one thing above all: [Playa Zipolite](/northamerica/mexico/zipolite/playa_zipolite), Mexico's best-known clothing-optional beach, where the old backpacker and naturist mood has survived better than it has in most beach towns.

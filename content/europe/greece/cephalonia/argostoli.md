@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Argostoli_Faros.JPG
 latitude: 38.175673
 loc_type: city
 longitude: 20.48788
-score: 6.118
+score: 5.995
 snippet: Cephalonia's rebuilt capital on a sheltered bay, with a waterfront market
   and the Drapano Bridge.
 title: Argostoli
 type: location
-heritage: 4.501
-vibrancy: 5.826
-nature: 6.668
-off_the_beaten_track: 1.8
+heritage: 4.3
+vibrancy: 5.674
+nature: 6.55
+off_the_beaten_track: 1.52
 ---
 
 Argostoli is the capital of Cephalonia, sitting at the head of a long landlocked bay. The 1953 earthquake levelled most of the town, and it was rebuilt in a functional rather than picturesque style — don't come expecting Venetian grandeur. What it does have is a lively, working-town energy: a colourful waterfront market where local farmers sell produce, plenty of cafes along the esplanade, and good connections to the rest of the island.

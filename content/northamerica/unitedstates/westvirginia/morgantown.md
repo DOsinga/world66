@@ -5,7 +5,7 @@ done:
 latitude: 39.6297
 loc_type: city
 longitude: -79.9559
-score: 4.985
+score: 4.801
 snippet: West Virginia university town with Appalachian hills, lively campuses, and
   a driverless Personal Rapid Transit system.
 sources:
@@ -14,10 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Coopers_Rock_State_Forest
 title: Morgantown
 type: location
-heritage: 4.733
-vibrancy: 4.838
-nature: 5.365
-off_the_beaten_track: 2.949
+heritage: 4.086
+vibrancy: 4.662
+nature: 5.159
+off_the_beaten_track: 2.845
 ---
 
 Morgantown is West Virginia University's town, and the university shapes everything about it — the energy, the nightlife, the rhythm of the year. Visit during the academic year and you'll find a lively, quasi-bohemian atmosphere that belies the surrounding Appalachian hills. Visit in summer and the place goes quiet. Plan accordingly.

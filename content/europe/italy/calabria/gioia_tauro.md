@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Gioia_Tauro_port_2006.jpg
 latitude: 38.424
 loc_type: city
 longitude: 15.899
-score: 2.953
+score: 3.373
 snippet: Calabrian Tyrrhenian port city on ancient Metauros, dominated by a major
   Mediterranean container terminal
 title: Gioia Tauro
 type: location
-heritage: 2.668
-vibrancy: 2.578
-nature: 3.331
-off_the_beaten_track: 1.996
+heritage: 2.805
+vibrancy: 3.141
+nature: 3.711
+off_the_beaten_track: 1.856
 ---
 
 Gioia Tauro sits on the Tyrrhenian coast in the province of Reggio Calabria, the site of ancient Metauros, a Greek city of Magna Graecia. Today it is best known for its [port](/europe/italy/calabria/gioia_tauro/port_of_gioia_tauro), one of the largest container transshipment terminals in the Mediterranean — ships arrive from Asia and the Americas, exchange cargo, and depart without the goods ever touching Italian roads.

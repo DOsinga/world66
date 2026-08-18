@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 40.5545
 longitude: -81.9179
-score: 3.22
+score: 3.435
 snippet: Holmes County seat in Ohio Amish Country, with Victorian history, farm stops,
   and buggy-road scenery.
 sources:
@@ -12,10 +12,10 @@ sources:
 - https://www.visitamishcountry.com/
 - https://www.ohiosamishcountry.com/businesses/things-to-do/historic-downtown-millersburg
 - https://www.holmeshistory.com/
-heritage: 3.795
-vibrancy: 1.933
-nature: 2.939
-off_the_beaten_track: 1.896
+heritage: 4.198
+vibrancy: 1.954
+nature: 2.794
+off_the_beaten_track: 1.772
 ---
 
 Millersburg is the county seat of Holmes County and one of the practical bases for Ohio Amish Country. It has enough of its own town life to be more than a signpost: a brick downtown, a serious Victorian house museum, the Holmes County Trail, and farm-country roads that quickly leave the grid behind.

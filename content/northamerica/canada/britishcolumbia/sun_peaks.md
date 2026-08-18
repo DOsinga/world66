@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 50.8844
 longitude: -119.8829
-score: 5.383
+score: 5.477
 snippet: Small British Columbia resort village wrapped around three-season mountain
   trails and skiing.
 sources:
@@ -19,10 +19,10 @@ image: sun_peaks.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Sun_Peaks_Resort.jpg
 image_license: CC BY 3.0
 image_attribution: Janet Hopkins
-heritage: 2.888
-vibrancy: 2.408
-nature: 7.105
-off_the_beaten_track: 4.057
+heritage: 2.845
+vibrancy: 1.904
+nature: 7.071
+off_the_beaten_track: 4.647
 ---
 
 Sun Peaks is a purpose-built mountain resort village northeast of Kamloops, and it earns its page because the mountain is the place. The village is small and polished, but it is wrapped around serious outdoor terrain: three ski mountains in winter, lift-access biking in summer, and alpine trails when the snow pulls back.

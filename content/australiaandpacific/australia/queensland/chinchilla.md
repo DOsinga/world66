@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -26.74
 longitude: 150.62
-score: 5.034
+score: 5.246
 snippet: Western Downs melon town with petrified wood, creek walks, and a strange
   monument to a moth.
 sources:
@@ -15,10 +15,10 @@ image: chinchilla.jpg
 image_source: https://commons.wikimedia.org/wiki/File:ChinchillaMainStreet2.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Mattinbgn
-heritage: 1.977
-vibrancy: 1.675
-nature: 6.582
-off_the_beaten_track: 3.999
+heritage: 2.118
+vibrancy: 1.436
+nature: 6.795
+off_the_beaten_track: 4.379
 ---
 
 Chinchilla sits on the Warrego Highway in the Western Downs, about 300 km northwest of Brisbane. From the road it can look like a fuel stop, but the town has a sharper identity than that: melons, petrified wood, cypress pine country, and one of Queensland's odder agricultural stories.

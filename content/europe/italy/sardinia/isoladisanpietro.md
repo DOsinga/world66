@@ -5,15 +5,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Capo_Sandalo_(Carloforte).
 latitude: 39.148
 loc_type: feature
 longitude: 8.296
-score: 5.845
+score: 6.285
 snippet: Small island off southwest Sardinia, centred on Carloforte and its Ligurian-speaking
   Tabarchino community.
 title: Isola di San Pietro
 type: location
-heritage: 5.164
-vibrancy: 5.676
-nature: 6.283
-off_the_beaten_track: 3.146
+heritage: 3.998
+vibrancy: 6.066
+nature: 6.81
+off_the_beaten_track: 3.042
 ---
 
 The Isola di San Pietro is a small, beautiful island off the southwestern coast of Sardinia, connected to the mainland by ferry from Portovesme and from Calasetta on the adjacent Isola di Sant'Antioco. The island has one town: [Carloforte](/europe/italy/sardinia/carloforte).

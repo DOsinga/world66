@@ -5,15 +5,15 @@ done:
 latitude: 43.9412
 loc_type: city
 longitude: 12.4474
-score: 5.459
+score: 4.588
 snippet: San Marino municipality below Monte Titano, linking the market square to
   the old city by cable car.
 title: Borgo Maggiore
 type: location
-heritage: 6.589
-vibrancy: 4.141
-nature: 3.451
-off_the_beaten_track: 2.102
+heritage: 5.342
+vibrancy: 3.88
+nature: 3.361
+off_the_beaten_track: 2.415
 ---
 
 Borgo Maggiore sits at the foot of Monte Titano, directly below the historic city of [San Marino](/europe/sanmarino). It is one of the nine municipalities of the republic, and the practical entry point for most visitors arriving by road. The weekly market held here is the largest in the country.

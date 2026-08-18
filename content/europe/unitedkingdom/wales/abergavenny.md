@@ -5,7 +5,7 @@ loc_type: city
 latitude: 51.824
 longitude: -3.017
 wikidata: Q609161
-score: 5.387
+score: 5.454
 snippet: Monmouthshire market town ringed by Sugar Loaf, Blorenge, and the Black Mountains.
 sources:
 - https://en.wikivoyage.org/wiki/Abergavenny
@@ -16,10 +16,10 @@ image: abergavenny.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Abergavenny,_Beili_Priory_-_geograph.org.uk_-_7056356.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Michael Garlick
-heritage: 4.857
-vibrancy: 3.37
-nature: 6.291
-off_the_beaten_track: 2.931
+heritage: 4.603
+vibrancy: 3.544
+nature: 6.502
+off_the_beaten_track: 2.798
 ---
 
 *Europe > United Kingdom > Wales > Abergavenny*

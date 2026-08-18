@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Laulasmaa_-_panoramio.jpg
 latitude: 59.370955
 loc_type: city
 longitude: 24.24225
-score: 5.372
+score: 5.276
 snippet: Northern Estonian coastal village west of Tallinn, known for pine woods and
   a long sandy beach.
 title: Laulasmaa
 type: location
-heritage: 4.962
-vibrancy: 2.314
-nature: 6.223
-off_the_beaten_track: 2.489
+heritage: 4.608
+vibrancy: 2.761
+nature: 6.225
+off_the_beaten_track: 2.359
 ---
 
 Laulasmaa is a small coastal village about 40 km west of Tallinn on the northern Estonian coast. Its name comes from the singing sands on its beach — "laulev maa" means "the land that sings" in Estonian.

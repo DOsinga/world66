@@ -5,17 +5,17 @@ done:
 latitude: 34.430195
 loc_type: city
 longitude: 70.460128
-score: 5.625
+score: 5.733
 sources:
 - https://en.wikipedia.org/wiki/Jalalabad
 title: Jalalabad
 type: location
 snippet: Eastern Afghan city on the Kabul-Khyber road, known for its green winter
   climate and orange groves.
-heritage: 6.265
-vibrancy: 2.19
-nature: 3.421
-off_the_beaten_track: 8.442
+heritage: 6.431
+vibrancy: 2.234
+nature: 3.212
+off_the_beaten_track: 8.457
 ---
 
 **Note:** Afghanistan has been under Taliban rule since 2021. Travel is not recommended for most foreign nationals. This page documents Jalalabad for historical reference and for future conditions.

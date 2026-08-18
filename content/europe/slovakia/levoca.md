@@ -11,15 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Leutschau_-_Rathaus_und_Do
 latitude: 49.025087
 loc_type: city
 longitude: 20.58871
-score: 6.892
+score: 7.096
 snippet: Walled Slovak medieval town with Renaissance houses and St James church's
   carved wooden altar.
 title: Levoca
 type: location
-heritage: 8.78
-vibrancy: 3.741
-nature: 4.798
-off_the_beaten_track: 2.613
+heritage: 8.843
+vibrancy: 3.804
+nature: 5.388
+off_the_beaten_track: 2.373
 ---
 
 Levoča is one of the best-preserved medieval towns in Central Europe and most visitors drive right past it on the way to Spis Castle. That's their loss. The walled old town is compact, beautiful, and almost entirely intact — Gothic churches, Renaissance townhouses, and a central square that would look at home in Kraków or Bruges, minus the tourist crowds.

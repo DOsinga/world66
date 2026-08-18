@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kopeka.jpg
 latitude: -19.916358
 loc_type: city
 longitude: -158.197198
-score: 5.67
+score: 5.712
 snippet: Raised-coral Cook Island with forested makatea, limestone caves, endemic
   birds, and clustered inland villages.
 title: Atiu
 type: location
-heritage: 3.868
-vibrancy: 1.104
-nature: 6.663
-off_the_beaten_track: 6.964
+heritage: 3.807
+vibrancy: 1.188
+nature: 6.711
+off_the_beaten_track: 7.023
 ---
 
 Atiu is the third largest Cook Island and one of the most interesting for travellers who want more than beaches. The island is surrounded by *makatea* — raised coral limestone — a jagged, densely forested ring that gives Atiu its dramatic character and makes most of its coastline inaccessible. Inside the makatea sits a fertile plateau where five villages cluster together.

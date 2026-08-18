@@ -8,15 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Red_Deer_-_Aerial_-_downto
 latitude: 52.269063
 loc_type: city
 longitude: -113.814146
-score: 4.075
+score: 4.161
 snippet: Central Alberta city between Calgary and Edmonton, with river-valley trails
   and a historic downtown.
 title: Red Deer
 type: location
-heritage: 1.954
-vibrancy: 2.955
-nature: 4.888
-off_the_beaten_track: 1.855
+heritage: 1.647
+vibrancy: 2.927
+nature: 5.035
+off_the_beaten_track: 1.706
 ---
 
 Red Deer sits almost exactly halfway between Calgary and Edmonton on the QE2 highway, making it a natural stopping point and a convenient base for exploring central Alberta. Founded in the late 19th century as a river crossing, the city has grown into Alberta's third-largest, with a walkable historic downtown and a surprisingly good restaurant scene.

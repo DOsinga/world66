@@ -5,15 +5,15 @@ done:
 latitude: 43.2963
 loc_type: city
 longitude: -7.6788
-score: 4.384
+score: 4.531
 snippet: Market town in inland Galicia’s Terra Cha, anchored by an Andrade castle
   keep.
 title: Vilalba
 type: location
-heritage: 3.371
-vibrancy: 2.223
-nature: 5.367
-off_the_beaten_track: 3.651
+heritage: 3.43
+vibrancy: 2.204
+nature: 5.569
+off_the_beaten_track: 3.638
 ---
 
 Vilalba is a small market town in the Terra Cha, the broad, flat plain of inland [Galicia](/europe/spain/galicia). It sits at the crossroads of the Santander–A Coruña and Madrid–Ferrol routes, making it a natural stopping point for travellers crossing the region.

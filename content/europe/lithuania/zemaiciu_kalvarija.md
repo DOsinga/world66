@@ -2,7 +2,7 @@
 latitude: 56.1167
 loc_type: city
 longitude: 22.0167
-score: 4.983
+score: 4.445
 snippet: Samogitian pilgrimage village built around a basilica, calvary chapels, and
   July processions.
 sources:
@@ -11,10 +11,10 @@ sources:
 - https://www.zemaiciukalvarija.lt/english
 title: Žemaičių Kalvarija
 type: location
-heritage: 6.618
-vibrancy: 1.383
-nature: 2.858
-off_the_beaten_track: 3.754
+heritage: 5.778
+vibrancy: 1.239
+nature: 2.605
+off_the_beaten_track: 4.015
 ---
 
 Žemaičių Kalvarija is a small Samogitian village with an outsized place in Lithuanian Catholic life. Its name means Samogitian Calvary, and the village is built around a basilica, a hilly Way of the Cross, and one of the country's great pilgrimage traditions.

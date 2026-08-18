@@ -4,16 +4,16 @@ type: location
 loc_type: city
 latitude: 37.8042
 longitude: -80.4403
-score: 5.505
+score: 5.933
 snippet: Greenbrier Valley town of frontier history, live arts, limestone caves, and
   a walkable old centre.
 sources:
 - https://en.wikivoyage.org/wiki/Lewisburg_(West_Virginia)
 - https://en.wikipedia.org/wiki/Lewisburg,_West_Virginia
-heritage: 5.066
-vibrancy: 2.521
-nature: 6.385
-off_the_beaten_track: 4.51
+heritage: 5.678
+vibrancy: 2.327
+nature: 6.79
+off_the_beaten_track: 4.631
 ---
 
 Lewisburg is one of West Virginia's best small-town stops: old enough to have frontier and Civil War layers, lively enough to support theatres and galleries, and close enough to caves and mountain trails to make a day feel full. It sits in the Greenbrier Valley, where the landscape is gentler than the New River Gorge but still unmistakably Appalachian.

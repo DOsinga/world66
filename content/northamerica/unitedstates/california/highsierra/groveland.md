@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Groveland_Historic_Distric
 latitude: 37.8425
 loc_type: city
 longitude: -120.2339
-score: 5.771
+score: 5.915
 snippet: Sierra foothill town on Highway 120, west of Yosemite Valley and rooted in
   Gold Rush history.
 title: Groveland
 type: location
-heritage: 3.736
-vibrancy: 1.533
-nature: 7.362
-off_the_beaten_track: 3.646
+heritage: 3.962
+vibrancy: 1.49
+nature: 7.489
+off_the_beaten_track: 4.042
 ---
 
 Groveland is a small Gold Rush-era town on Highway 120, the main western approach to [Yosemite National Park](/northamerica/unitedstates/california/highsierra/yosemite). Most people blow through it on their way to the park, but it makes a good base — cheaper and less crowded than staying inside the valley, with a handful of restaurants, a historic saloon (the Iron Door, claiming to be California's oldest), and a relaxed Sierra foothill atmosphere.

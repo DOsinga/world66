@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 35.18
 longitude: 128.1076
-score: 5.587
+score: 5.006
 snippet: South Korean river city defined by its fortress, Imjin War memory, and lantern
   festival.
 sources:
@@ -15,10 +15,10 @@ image: jinju.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Korea-Jinju-Jinju.Fortress-02.jpg
 image_license: CC BY 2.0
 image_attribution: eimoberg
-heritage: 6.424
-vibrancy: 4.889
-nature: 3.792
-off_the_beaten_track: 3.023
+heritage: 5.745
+vibrancy: 4.402
+nature: 4.166
+off_the_beaten_track: 3.071
 ---
 
 Jinju sits on the Namgang River in western South Gyeongsang, far enough from Seoul and Busan that many travellers miss it. That is a pity if you care about Korean history. The city is remembered above all for the sieges of Jinju during the Imjin War, when Korean defenders held off a much larger Japanese force in 1592 before the fortress fell the following year.

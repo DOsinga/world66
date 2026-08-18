@@ -2,17 +2,17 @@
 latitude: 50.3494
 loc_type: city
 longitude: -113.7717
-score: 2.459
+score: 2.387
 snippet: Southern Alberta prairie town with a Lancaster bomber, grain elevators, and
   antique storefronts.
 sources:
 - https://en.wikivoyage.org/wiki/Nanton
 title: Nanton
 type: location
-heritage: 2.404
-vibrancy: 1.657
-nature: 2.793
-off_the_beaten_track: 2.937
+heritage: 2.494
+vibrancy: 1.67
+nature: 2.643
+off_the_beaten_track: 2.816
 ---
 
 Nanton sits on Highway 2 about 45 minutes south of [Calgary](/northamerica/canada/alberta/calgary), on the prairie road toward the foothills and Waterton country. It is small, flat, and easy to pass without stopping, but that would miss one of southern Alberta's better bundles of local museums.

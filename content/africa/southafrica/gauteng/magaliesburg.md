@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Africa_in_Colour_(15704777
 latitude: -26.0003
 loc_type: city
 longitude: 27.5478
-score: 5.451
+score: 6.117
 snippet: Gauteng mountain town in the ancient Magaliesberg range, popular for weekends
   outside Johannesburg.
 title: Magaliesburg
 type: location
-heritage: 4.255
-vibrancy: 2.284
-nature: 6.645
-off_the_beaten_track: 4.862
+heritage: 5.092
+vibrancy: 2.045
+nature: 7.323
+off_the_beaten_track: 5.132
 ---
 
 Magaliesburg is a small town in the Magaliesberg mountain range about 70 kilometres west of Johannesburg, making it the most popular weekend escape for Gauteng residents. The mountains are ancient — among the oldest on earth — and the country around them is beautiful: broad valleys, rocky kloofs, and rivers shaded by fig trees and willows. After the noise and concrete of the city, the contrast is immediate.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Resurrection_Bay,_Seward,_
 latitude: 60.1042
 loc_type: city
 longitude: -149.4422
-score: 5.17
+score: 5.31
 snippet: Kenai Peninsula harbour town and gateway to tidewater glaciers in Kenai Fjords
   National Park
 title: Seward
 type: location
-heritage: 2.608
-vibrancy: 1.814
-nature: 6.536
-off_the_beaten_track: 4.84
+heritage: 2.803
+vibrancy: 1.747
+nature: 6.687
+off_the_beaten_track: 5.06
 ---
 
 Seward sits at the head of Resurrection Bay on Alaska's Kenai Peninsula, backed by mountains and glaciers on three sides. It is the main gateway to Kenai Fjords National Park and one of the best places in Alaska to see tidewater glaciers, whales, and sea otters from a day boat.

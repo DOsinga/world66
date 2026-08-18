@@ -2,7 +2,7 @@
 latitude: 54.6644
 longitude: 11.9617
 loc_type: city
-score: 4.234
+score: 4.538
 snippet: Denmark's most popular beach resort, with a long white Baltic sand beach
   backed by pine forest and thousands of summer cottages.
 tags:
@@ -16,10 +16,10 @@ image: marielyst.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Marielyst_Falster.jpg
 image_license: CC BY 2.0
 image_attribution: Lars K. Jensen
-heritage: 2.74
-vibrancy: 2.043
-nature: 5.401
-off_the_beaten_track: 2.65
+heritage: 3.284
+vibrancy: 2.005
+nature: 5.642
+off_the_beaten_track: 2.671
 ---
 
 Marielyst is the largest beach resort in Denmark by visitor numbers, a long stretch of white sand on the eastern coast of Falster facing the Baltic. The beach itself is the reason to come: it runs for several kilometres, is backed by a belt of pine forest, and has calm, clear water that warms up reasonably well in summer. Compared to the North Sea beaches on the west coast of Jutland, Marielyst is sheltered and safe for children.

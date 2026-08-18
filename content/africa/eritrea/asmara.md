@@ -9,15 +9,15 @@ image_source: https://www.flickr.com/photos/79721788@N00/8351468351
 latitude: 15.338967
 loc_type: city
 longitude: 38.932676
-score: 5.586
+score: 6.233
 snippet: Eritrean highland capital known for Italian modernist architecture and cool
   plateau streets
 title: Asmara
 type: location
-heritage: 5.571
-vibrancy: 5.634
-nature: 3.82
-off_the_beaten_track: 7.03
+heritage: 5.048
+vibrancy: 6.613
+nature: 3.023
+off_the_beaten_track: 7.437
 ---
 
 Asmara is one of Africa's most surprising capitals. Perched at 2,350 metres on the Eritrean plateau, it is cooler and more pleasant than the sweltering coast at [Massawa](/africa/eritrea/massawa), and its streets are lined with some of the finest Italian colonial architecture anywhere in the world. The city earned UNESCO World Heritage status in 2017 as a modernist African city.

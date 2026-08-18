@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Buckskin_Gulch.jpg
 latitude: 37.0047
 loc_type: city
 longitude: -111.9514
-score: 5.96
+score: 6.041
 snippet: Navajo sandstone slot canyon with 16 miles of deep, narrow passage through
   the Paria wilderness.
 sources:
@@ -17,10 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Coyote_Buttes
 title: Buckskin Gulch
 type: location
-heritage: 1.403
-vibrancy: 1.367
-nature: 7.646
-off_the_beaten_track: 5.218
+heritage: 1.458
+vibrancy: 1.397
+nature: 7.68
+off_the_beaten_track: 5.516
 ---
 
 Buckskin Gulch is the longest slot canyon in the American Southwest — 16 miles of continuous narrows carved through Navajo sandstone, up to 500 feet deep and sometimes barely wide enough to squeeze through. It's one of those places that feels genuinely otherworldly, and the effort required to get there is part of what makes it memorable.

@@ -9,15 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Grand_Road,_Puri_02.jpg
 latitude: 19.807608
 loc_type: city
 longitude: 85.825254
-score: 6.148
+score: 6.435
 snippet: Bay of Bengal pilgrimage city dominated by Jagannath Temple and the chariot-pulled
   Rath Yatra tradition.
 title: Puri
 type: location
-heritage: 7.51
-vibrancy: 4.484
-nature: 3.944
-off_the_beaten_track: 2.294
+heritage: 7.769
+vibrancy: 4.878
+nature: 4.36
+off_the_beaten_track: 2.093
 ---
 
 Puri sits on the Bay of Bengal in Odisha, dominated by two great forces: the sea and the Jagannath Temple. The temple rises 65 metres above the old town and has been the most important Hindu pilgrimage site in eastern India for over a thousand years. Puri is one of the four sacred *dhams* — alongside Dwarka, Badrinath, and Rameswaram — meaning it draws devout Hindus from across the subcontinent year-round.

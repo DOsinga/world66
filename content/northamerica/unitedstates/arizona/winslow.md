@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 35.0286
 longitude: -110.7008
-score: 5.35
+score: 5.12
 snippet: Route 66 railroad town with Eagles mythology, Fred Harvey style, and Hopi-country
   archaeology nearby.
 wikidata: Q79727
@@ -17,10 +17,10 @@ image: winslow.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gym_Lous_Winslow_Theater_Winslow_AZ_2026-04-06_12-28-46.jpg
 image_license: CC BY 4.0
 image_attribution: G. Edward Johnson
-heritage: 5.244
-vibrancy: 1.701
-nature: 6.07
-off_the_beaten_track: 3.334
+heritage: 5.143
+vibrancy: 1.588
+nature: 5.756
+off_the_beaten_track: 3.522
 ---
 
 Winslow is a Route 66 town in northern Arizona, east of Flagstaff and close to the edge of Hopi country. It is famous for one line in an Eagles song, but the better reason to stop is the mix behind the photo: Santa Fe Railway history, Fred Harvey architecture, desert light, and archaeological sites just outside town.

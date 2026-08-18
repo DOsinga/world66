@@ -5,7 +5,7 @@ loc_type: city
 latitude: -42.1153
 longitude: 171.8631
 wikidata: Q2136549
-score: 5.673
+score: 6.234
 snippet: West Coast gold town known as the Town of Light, with mining relics and forest
   walks.
 sources:
@@ -18,10 +18,10 @@ image: reefton.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Broadway_(SH_7),_Reefton,_New_Zealand.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Ulrich Lange, Bochum, Germany
-heritage: 3.962
-vibrancy: 2.232
-nature: 7.114
-off_the_beaten_track: 4.831
+heritage: 4.393
+vibrancy: 1.959
+nature: 7.8
+off_the_beaten_track: 5.171
 ---
 
 Reefton is a small inland town on the [West Coast](/australiaandpacific/newzealand/south_island/west_coast) of New Zealand's South Island, set in the Inangahua River valley between forested hills. It made its money from quartz-reef gold mining, and it still wears that history well: old commercial buildings, mining relics, a School of Mines, and a local habit of telling stories properly.

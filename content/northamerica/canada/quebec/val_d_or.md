@@ -1,16 +1,21 @@
 ---
-title: "Val-d'Or"
+title: Val-d'Or
 type: location
 loc_type: city
-latitude: 48.1000
-longitude: -77.7800
-score: 6.7
-snippet: Northwestern Quebec gold town where mining history, boreal forest, and Abitibi road trips meet.
+latitude: 48.1
+longitude: -77.78
+score: 4.985
+snippet: Northwestern Quebec gold town where mining history, boreal forest, and Abitibi
+  road trips meet.
 sources:
-  - https://en.wikivoyage.org/wiki/Val-d%27Or
-  - https://en.wikipedia.org/wiki/Val-d%27Or
-  - https://www.citedelor.com/en/
-  - https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=13338
+- https://en.wikivoyage.org/wiki/Val-d%27Or
+- https://en.wikipedia.org/wiki/Val-d%27Or
+- https://www.citedelor.com/en/
+- https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=13338
+heritage: 3.067
+vibrancy: 2.228
+nature: 6.231
+off_the_beaten_track: 4.899
 ---
 
 Val-d'Or is a gold town on the Canadian Shield, far enough northwest in Quebec that the forest feels close even on the edge of town. Its name means "valley of gold", and the point of visiting is not subtle: the city grew from the 1920s gold rush and still explains itself through mines, workers' houses, and hard northern distances.

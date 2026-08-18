@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Fontevraud3.jpg
 latitude: 47.181353
 loc_type: city
 longitude: 0.037881
-score: 8.11
+score: 5.289
 snippet: Loire Valley village defined by its vast royal abbey and the Plantagenet
   tombs inside.
 title: Fontevraud
 type: location
+heritage: 6.953
+vibrancy: 1.639
+nature: 3.196
+off_the_beaten_track: 3.234
 ---
 
 Fontevraud is a small village in the Loire Valley whose name is synonymous with its abbey — the [Abbaye Royale de Fontevraud](/europe/france/loirevalley/fontevraud/abbaye_royale), one of the largest and most remarkable monastic complexes in Europe. Founded in 1101, it became the favoured convent of French royalty and aristocracy. Louis XV sent four of his daughters here. The Plantagenet tombs of Henry II, Eleanor of Aquitaine, and Richard the Lionheart lie in the abbey church, making it an important site of English as well as French history.

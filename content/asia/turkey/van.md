@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Akhtamar_Island_on_Lake_Va
 latitude: 38.32496
 loc_type: city
 longitude: 43.658983
-score: 7.14
+score: 6.419
 snippet: Eastern Turkish lake city and base for Armenian churches, mountain roads,
   and Lake Van ferries
 title: Van
 type: location
+heritage: 5.431
+vibrancy: 2.413
+nature: 7.648
+off_the_beaten_track: 5.547
 ---
 
 Van sits on the eastern shore of Lake Van, the largest lake in Turkey and one of the largest endorheic lakes in the world. The city is the main hub for exploring the remote, mountainous far east of the country — a region that sees far fewer visitors than the Aegean and Mediterranean coasts but rewards those who make the journey.

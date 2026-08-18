@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Qionghai_03.jpg
 latitude: 19.2431
 loc_type: city
 longitude: 110.4642
-score: 6.75
+score: 4.626
 snippet: East Hainan river city known for Jiaji duck and the Red Detachment of Women
   memorial.
 sources:
 - https://en.wikivoyage.org/wiki/Qionghai
 title: Qionghai
 type: location
+heritage: 2.52
+vibrancy: 2.071
+nature: 6.102
+off_the_beaten_track: 3.037
 ---
 
 Qionghai sits on the [Wanquan River](/asia/china/hainanisland/qionghai/wanquan_river_qionghai) on Hainan's east coast, midway between Haikou and Sanya, and is known across China primarily for two things: [Jiaji duck](/asia/china/hainanisland/qionghai/jiaji_duck_restaurants), one of the four famous dishes of Hainanese cuisine, slow-braised with herbs and served at low wooden tables along the riverbank; and the [Red Detachment of Women](/asia/china/hainanisland/qionghai/red_detachment_memorial), the real-life female Communist military unit whose story became one of the most famous revolutionary ballets of the Mao era. The memorial park dedicated to that unit is still a significant draw for Chinese tour groups.

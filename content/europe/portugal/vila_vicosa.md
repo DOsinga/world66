@@ -6,14 +6,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Vila_Vi%C3%A7osa_April_201
 latitude: 38.75
 loc_type: city
 longitude: -7.4333
-score: 7.41
+score: 4.741
 snippet: Alentejo marble town shaped by the Braganza dukes and their long royal palace.
 sources:
-  - https://en.wikivoyage.org/wiki/Vila_Vi%C3%A7osa
-  - https://en.wikipedia.org/wiki/Vila_Vi%C3%A7osa
-  - https://www.wikidata.org/wiki/Q1013623
+- https://en.wikivoyage.org/wiki/Vila_Vi%C3%A7osa
+- https://en.wikipedia.org/wiki/Vila_Vi%C3%A7osa
+- https://www.wikidata.org/wiki/Q1013623
 title: Vila Viçosa
 type: location
+heritage: 5.72
+vibrancy: 2.986
+nature: 4.028
+off_the_beaten_track: 3.085
 ---
 
 Vila Viçosa is a small Alentejo town with an outsized royal past. The Dukes of Braganza made it their seat, and their long marble palace still dominates the Terreiro do Paço with a facade that feels almost too grand for the quiet streets around it.

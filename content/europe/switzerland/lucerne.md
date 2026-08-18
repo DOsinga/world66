@@ -12,7 +12,7 @@ quick_facts:
   Lion Monument: Twain's 'saddest stone'
   Mt Pilatus: World's steepest cog railway
   Population: 82,000
-score: 9.47
+score: 6.147
 snippet: Lakeside Swiss city where medieval bridges, painted old-town gables, and
   nearby Pilatus frame the Reuss.
 sources:
@@ -24,6 +24,10 @@ tip: Lucerne's wooden Chapel Bridge is the postcard, but go early before the tou
   and free to wander, with painted facades on every square.
 title: Lucerne
 type: location
+heritage: 5.378
+vibrancy: 4.102
+nature: 7.248
+off_the_beaten_track: 2.585
 ---
 
 Lucerne sits at the point where the Reuss river flows out of Lake Lucerne, backed by a ring of green hills with the glacier-capped peaks of Pilatus and Rigi rising beyond them. For over a century it has been one of Switzerland's most visited cities, and it is easy to see why: the medieval [Kapellbrücke](/europe/switzerland/lucerne/kapellbrucke) still stands across the river, the painted gables of the old town line the lakefront, and the mountains are close enough to fill the horizon. Lucerne is unashamedly scenic, and it knows it.

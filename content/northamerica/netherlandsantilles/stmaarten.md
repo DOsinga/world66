@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:20190210_Maho_Beach_jet_fi
 latitude: 18.0425
 loc_type: city
 longitude: -63.0548
-score: 8.43
+score: 5.551
 snippet: Caribbean island shared by Dutch Sint Maarten and French Saint Martin, famous
   for Maho Beach aircraft landings.
 title: St Maarten
 type: location
+heritage: 2.812
+vibrancy: 4.593
+nature: 6.385
+off_the_beaten_track: 1.934
 ---
 
 Sint Maarten, or Saint Martin as the French side is known, holds the distinction of being the smallest landmass in the world divided between two nations. The southern Dutch side and northern French side share just 87 square kilometers of Caribbean island, and you can drive from one end to the other in under an hour. The border is essentially unmarked -- no passport control, no customs, just a modest monument on the road. This dual personality gives the island a character unlike anywhere else in the Caribbean, blending Dutch efficiency and French savoir-vivre with Caribbean warmth.

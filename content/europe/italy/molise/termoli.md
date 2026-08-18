@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Termoli_xx.jpg
 latitude: 41.998327
 loc_type: city
 longitude: 14.993937
-score: 7.86
+score: 3.985
 snippet: Adriatic port town with a medieval promontory old quarter and ferry links
   to the Tremiti Islands
 title: Termoli
 type: location
+heritage: 3.655
+vibrancy: 3.442
+nature: 4.513
+off_the_beaten_track: 3.233
 ---
 
 Termoli is a small Adriatic port town on the Molise coast — one of the few places along this stretch of coastline with a proper historic centre. The [Borgo Vecchio](/europe/italy/molise/termoli/borgo_vecchio) sits on a promontory surrounded on three sides by the sea, a tight knot of medieval lanes with the [Castello Svevo](/europe/italy/molise/termoli/castello_svevo) (built by Frederick II in 1247) at its tip and a [Romanesque cathedral](/europe/italy/molise/termoli/termoli_cathedral) that blends Norman, Byzantine, and later elements. It gets crowded on summer weekends, especially with Italian families, but out of season it is quiet and atmospheric.

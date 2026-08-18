@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 38.266944
 longitude: -104.620278
-score: 7.42
+score: 4.614
 snippet: Southern Colorado steel city with a riverwalk, chile culture, and a strong
   museum cluster.
 sources:
@@ -17,6 +17,10 @@ image: pueblo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Courtyard_Pueblo_Downtown,_Pueblo,_CO_2024-03-15.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Xnatedawgx
+heritage: 3.821
+vibrancy: 3.814
+nature: 5.309
+off_the_beaten_track: 3.148
 ---
 
 Pueblo is southern Colorado's old steel city, set where Fountain Creek meets the Arkansas River. It does not have Denver's gloss or Colorado Springs' mountain drama, but it has a stronger local flavour than either: working-class history, Mexican and immigrant food traditions, public art, and a stubborn pride in the Pueblo chile.

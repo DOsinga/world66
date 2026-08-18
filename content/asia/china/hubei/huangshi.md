@@ -14,7 +14,11 @@ snippet: Hubei industrial city on the Yangtze, rooted in ancient copper mining a
   modern iron works.
 title: Huangshi
 type: location
-score: 5.63
+score: 2.588
+heritage: 1.785
+vibrancy: 2.775
+nature: 2.106
+off_the_beaten_track: 1.617
 ---
 
 Huangshi is an industrial city on the south bank of the Yangtze in southeastern Hubei, about a hundred kilometres east of Wuhan. It grew up around its mineral deposits — copper, iron, and coal — and the landscape still bears the marks of intensive extraction that began in earnest during the early decades of the People's Republic. The Daye copper mines, nearby, have been worked for over three thousand years, making them among the oldest continuously operated mines in China. The [Huangshi National Mine Park](/asia/china/hubei/huangshi/huangshi_national_mine_park) — its name a deliberate echo of the American original — is built around the open-cast iron ore pit that was Daye's largest workings, and it is an arresting industrial landscape: terraced walls of red and ochre rock dropping several hundred metres to the pit floor.

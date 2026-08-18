@@ -5,7 +5,7 @@ done:
 latitude: 38.8039
 loc_type: city
 longitude: -120.8987
-score: 7.02
+score: 4.639
 snippet: Sierra Nevada foothills town where the California Gold Rush began at Sutter's
   Mill
 sources:
@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Marshall_Gold_Discovery_State_Historic_Park
 title: Coloma
 type: location
+heritage: 5.556
+vibrancy: 2.818
+nature: 4.032
+off_the_beaten_track: 2.034
 ---
 
 Coloma is where the California Gold Rush began. On 24 January 1848, James W. Marshall spotted gold flakes in the tailrace of a sawmill he was building for John Sutter on the American River. Within a year, tens of thousands of prospectors had flooded into California.

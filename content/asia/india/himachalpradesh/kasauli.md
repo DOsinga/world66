@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 30.9
 longitude: 76.9667
-score: 6.6
+score: 6.131
 snippet: Quiet Himachal hill station of pine walks, colonial churches, and ridge views
   above Chandigarh.
 wikidata: Q2287036
@@ -16,6 +16,10 @@ image: kasauli.jpg
 image_source: https://commons.wikimedia.org/wiki/File:CHRIST_CHURCH,_KASAULI.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Suman Wadhwa
+heritage: 5.536
+vibrancy: 3.651
+nature: 7.156
+off_the_beaten_track: 4.565
 ---
 
 Kasauli is a small hill station in southern Himachal Pradesh, high enough above the plains to cool the air but close enough to Chandigarh and Kalka to be a simple escape. It is not a place for big-ticket sightseeing. Its value is slower: pine shade, old cantonment roads, church stone, and ridge views that open suddenly between the trees.

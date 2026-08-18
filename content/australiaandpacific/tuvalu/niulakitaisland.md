@@ -4,11 +4,15 @@ done:
 latitude: -10.7905
 loc_type: city
 longitude: 179.4692
-score: 4.41
+score: 5.265
 snippet: Tuvalu's smallest and southernmost island, a raised coral speck settled by
   Niutao families.
 title: Niulakita island
 type: location
+heritage: 3.534
+vibrancy: 0.881
+nature: 5.961
+off_the_beaten_track: 7.208
 ---
 
 Niulakita is the smallest and southernmost island of [Tuvalu](/australiaandpacific/tuvalu), a tiny speck of raised coral barely half a kilometre across. It was uninhabited until 1949, when families from the overcrowded atoll of [Niutao](/australiaandpacific/tuvalu/niutaoisland) were resettled here by the colonial administration. Today the island is home to a few dozen people, making it the least populated of Tuvalu's nine islands.

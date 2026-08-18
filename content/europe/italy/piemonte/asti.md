@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Asti_-_Cattedrale_0562.jpg
 latitude: 44.9007
 loc_type: city
 longitude: 8.2064
-score: 8.29
+score: 5.393
 snippet: Compact Piedmont wine city of brick towers, porticoed streets, and Barbera
   d'Asti hills.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Torre_Troyana
 title: Asti
 type: location
+heritage: 5.108
+vibrancy: 5.542
+nature: 4.454
+off_the_beaten_track: 1.896
 ---
 
 Asti is Piedmont without Turin’s polish or Alba’s gourmet mythology: a compact brick city of towers, churches, wine shops, and porticoed streets set among the hills that produce Barbera d'Asti and Moscato d'Asti. It is busy enough to feel alive, small enough to cross on foot, and much more rewarding than its low international profile suggests.

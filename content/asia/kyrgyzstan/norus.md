@@ -5,7 +5,7 @@ done:
 latitude: 42.813089
 loc_type: city
 longitude: 74.808459
-score: 4.69
+score: 5.684
 snippet: Small Kyrgyz Ala-Too ski resort near Bishkek, with modest slopes above the
   Ysyk-Ata valley
 sources:
@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Ysyk-Ata_District
 title: Norus
 type: location
+heritage: 4.382
+vibrancy: 1.492
+nature: 6.679
+off_the_beaten_track: 6.985
 ---
 
 Norus is a small ski resort tucked into the foothills of the Kyrgyz Ala-Too range, about 35 kilometres southeast of [Bishkek](/asia/kyrgyzstan/bishkek). It sits in the Ysyk-Ata valley, where a stream cuts through pine-clad slopes rising to snow-capped ridges. For most visitors it is a half-day or day trip from the capital rather than a destination in itself, but it delivers what it promises: a quiet patch of mountain air and a modest ski run without the long drive to [Karakol](/asia/kyrgyzstan/karakol).

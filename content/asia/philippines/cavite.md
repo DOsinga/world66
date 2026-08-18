@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:AguinaldoShrinejf0944_13.J
 latitude: 14.255407
 loc_type: city
 longitude: 120.86715
-score: 6.39
+score: 3.936
 snippet: Philippine province south of Manila Bay, central to the 1898 declaration
   of independence.
 title: Cavite
 type: location
+heritage: 4.784
+vibrancy: 2.803
+nature: 3.261
+off_the_beaten_track: 1.718
 ---
 
 Cavite is a province just south of Metro Manila, wedged between Manila Bay and the South China Sea. It punches well above its size historically — this is where Emilio Aguinaldo declared Philippine independence in 1898, and the province has produced more national heroes and revolutionary leaders than almost anywhere else in the country. The Caviteños are proud of that record, and rightly so.

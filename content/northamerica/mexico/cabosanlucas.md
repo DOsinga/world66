@@ -5,7 +5,7 @@ done:
 latitude: 22.893888
 loc_type: city
 longitude: -109.92006
-score: 8.88
+score: 5.854
 snippet: Baja California resort town at Land's End, defined by El Arco and Sea of
   Cortez beaches
 title: Cabo San Lucas
@@ -14,6 +14,10 @@ image: cabosanlucas.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cabo_San_Lucas_Los_Arcos_3.jpg
 image_license: CC BY-SA 3.0
 image_attribution: User:Stan Shebs
+heritage: 2.832
+vibrancy: 5.013
+nature: 6.651
+off_the_beaten_track: 1.539
 ---
 
 **Cabo San Lucas** sits at the very southern tip of the **Baja California** peninsula, at the point where the Pacific Ocean meets the Sea of Cortez. Together with its more sedate neighbour **San José del Cabo**, 30 km to the east, it forms the resort area known simply as **Los Cabos** — the most developed beach destination in Mexico's north-west, and a different kind of Mexico from almost anywhere else in the country. Fifty years ago Cabo was a fishing village of a few hundred people; today it is an international resort with a permanent population of around 90,000 and a constant rotation of American and Canadian visitors, cruise ship passengers and sport fishermen. If you are looking for authentic Mexican culture, Cabo is not where you will find it. If you are looking for reliable sunshine, turquoise water, and first-class deep-sea fishing, there are few better places on earth.

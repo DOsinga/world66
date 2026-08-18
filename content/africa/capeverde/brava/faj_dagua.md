@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:FajAeroporto.jpg
 latitude: 14.8715
 loc_type: city
 longitude: -24.7315
-score: 7.42
+score: 5.905
 snippet: Brava fishing village set between steep volcanic cliffs and a sheltered Atlantic
   bay
 title: Fajã d’Agua
 type: location
+heritage: 3.688
+vibrancy: 1.344
+nature: 7.589
+off_the_beaten_track: 5.072
 ---
 
 Faja d’Agua is a small village on the west coast of Brava, wedged between steep cliffs and a sheltered bay. It is often called the most scenic village in Cape Verde, and it is hard to argue -- the houses line the shore in a sickle-shaped row, with dark volcanic rock rising behind them and the Atlantic out front.

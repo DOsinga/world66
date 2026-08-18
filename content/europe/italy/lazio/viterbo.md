@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Palazzo_dei_Papi_Viterbo.j
 latitude: 42.4167
 loc_type: city
 longitude: 12.1
-score: 8.15
+score: 6.743
 snippet: Medieval papal city on a volcanic plateau, with intact walls and the San
   Pellegrino quarter.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Viterbo_Cathedral
 title: Viterbo
 type: location
+heritage: 8.054
+vibrancy: 5.289
+nature: 5.192
+off_the_beaten_track: 1.596
 ---
 
 Viterbo is a medieval walled city about 100 km northwest of [Rome](/europe/italy/lazio/rome), perched on a volcanic plateau between the lakes of Bolsena and Vico. For a turbulent stretch in the 13th century it was literally the seat of the papacy — popes fled Rome's factions and held court here, conducting five conclaves within its walls. That history gave Viterbo the title it still wears proudly: the City of Popes.

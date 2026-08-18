@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Driggs_Corner_Drug_Store.j
 latitude: 43.7232
 loc_type: city
 longitude: -111.1109
-score: 7.11
+score: 5.673
 snippet: Teton Valley hub with Grand Targhee access, big mountain views, and a useful
   small downtown.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://www.jacksonholenet.com/teton_valley_idaho/driggs_idaho.php
 title: Driggs
 type: location
+heritage: 2.512
+vibrancy: 2.849
+nature: 7.416
+off_the_beaten_track: 4.12
 ---
 
 Driggs is the practical centre of [Teton Valley](/northamerica/unitedstates/idaho/teton_valley), a small Idaho town with a large mountain horizon. It has groceries, outfitters, cafes, and enough local services to make it more than a bedroom community for Jackson Hole, though the Wyoming side of the Tetons is never far from the conversation.

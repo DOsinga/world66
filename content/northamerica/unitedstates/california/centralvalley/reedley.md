@@ -5,13 +5,17 @@ done:
 latitude: 36.596391
 loc_type: city
 longitude: -119.451188
-score: 5.57
+score: 2.314
 snippet: San Joaquin Valley farming town shaped by fruit orchards, Mennonite institutions,
   and a compact historic downtown.
 sources:
 - https://en.wikipedia.org/wiki/Reedley,_California
 title: Reedley
 type: location
+heritage: 1.664
+vibrancy: 2.257
+nature: 2.461
+off_the_beaten_track: 1.375
 ---
 
 Reedley is a small farming town in the heart of the San Joaquin Valley, about 25 miles southeast of Fresno. Known locally as the "World's Fruit Basket," it sits at the edge of some of the most productive agricultural land in California — orchards and vineyards covering the surrounding flatlands produce peaches, nectarines, plums, and table grapes that end up in supermarkets across the country.

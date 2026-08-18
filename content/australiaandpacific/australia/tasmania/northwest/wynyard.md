@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: -41.0
 longitude: 145.7167
-score: 6.8
-snippet: Northwest Tasmania coastal town below Table Cape, known for tulips, fossils, and Bass Strait beaches.
+score: 4.918
+snippet: Northwest Tasmania coastal town below Table Cape, known for tulips, fossils,
+  and Bass Strait beaches.
 sources:
-  - https://en.wikivoyage.org/wiki/Wynyard
-  - https://www.discovertasmania.com.au/regions/north-west/wynyard/
-  - https://www.warwyn.tas.gov.au/visitors/about-wynyard-and-surrounds/
+- https://en.wikivoyage.org/wiki/Wynyard
+- https://www.discovertasmania.com.au/regions/north-west/wynyard/
+- https://www.warwyn.tas.gov.au/visitors/about-wynyard-and-surrounds/
+heritage: 2.616
+vibrancy: 1.625
+nature: 6.111
+off_the_beaten_track: 4.954
 ---
 
 Wynyard is a small town on Tasmania's northwest coast, set where the Inglis River meets Bass Strait and the flat-topped bulk of Table Cape rises just beyond town. It has an airport and practical services, but the travel appeal is coastal: beaches, cliff views, tulip fields in spring, and an unusually good little visitor centre.

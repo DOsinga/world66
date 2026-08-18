@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Altamiza%27s_black_water_s
 latitude: -5.103104
 loc_type: city
 longitude: -78.913821
-score: 5.21
+score: 4.847
 snippet: Remote Peruvian district near San Ignacio, on a dirt road toward the green
   Chirinos valley.
 title: San José de Lourdes
 type: location
+heritage: 2.987
+vibrancy: 1.675
+nature: 6.087
+off_the_beaten_track: 4.67
 ---
 
 San José de Lourdes is a district in the north-eastern part of [San Ignacio](/southamerica/peru/san_ignacio) province. The capital is merely a small village on a dirt road. The town can be reached crossing the river Chinchipe close to the point where the Jaén-[San Ignacio](/southamerica/peru/san_ignacio) highway heads west into the mountains.

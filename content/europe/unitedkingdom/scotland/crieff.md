@@ -5,11 +5,15 @@ done:
 latitude: 56.372717
 loc_type: city
 longitude: -3.839745
-score: 7.44
+score: 4.839
 snippet: Perthshire market town at the Highland edge, shaped by old cattle fairs and
   whisky country.
 title: Crieff
 type: location
+heritage: 4.37
+vibrancy: 3.915
+nature: 5.609
+off_the_beaten_track: 2.635
 ---
 
 Crieff is a quiet Victorian town in Perthshire, tucked into the southern edge of the Scottish Highlands where the lowlands give way to hills and moorland. It was once the site of Scotland's largest cattle fair — drovers brought Highland cattle here from across the north — and that crossroads character persists. The town sits at the meeting point of gentle Strathearn and the wilder country to the north.

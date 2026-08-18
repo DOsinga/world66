@@ -4,11 +4,16 @@ type: location
 loc_type: feature
 latitude: 26.6944
 longitude: 127.8779
-score: 8.4
-snippet: The wild northern half of Okinawa Island — Churaumi Aquarium, the Motobu peninsula, Onna resort coast, and the Yambaru rainforest.
+score: 5.23
+snippet: The wild northern half of Okinawa Island — Churaumi Aquarium, the Motobu
+  peninsula, Onna resort coast, and the Yambaru rainforest.
 sources:
-  - https://en.wikivoyage.org/wiki/Okinawa_Island
-  - https://en.wikipedia.org/wiki/Yanbaru
+- https://en.wikivoyage.org/wiki/Okinawa_Island
+- https://en.wikipedia.org/wiki/Yanbaru
+heritage: 4.069
+vibrancy: 2.849
+nature: 6.382
+off_the_beaten_track: 2.964
 ---
 
 The northern half of Okinawa Island is where the resort strips and military bases of the centre give way to forested hills, quiet beaches, and one of Japan's genuinely wild corners. The star attraction is the [Churaumi Aquarium](/asia/japan/okinawa/northern_okinawa/churaumi_aquarium) on the Motobu peninsula — one of the largest in the world, built around a colossal tank of whale sharks and manta rays — paired with the reconstructed Ryukyuan castle of [Nakijin](/asia/japan/okinawa/northern_okinawa/nakijin_castle) on a ridge above the sea.

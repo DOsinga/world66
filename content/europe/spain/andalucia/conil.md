@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Vista_de_Conil_de_la_Front
 latitude: 36.277054
 loc_type: city
 longitude: -6.088187
-score: 8.43
+score: 5.728
 snippet: Atlantic Andalusian beach town on the Costa de la Luz, with whitewashed lanes
   and tuna-fishing roots.
 sources:
@@ -18,6 +18,10 @@ tags:
 - costa_de_la_luz
 title: Conil
 type: location
+heritage: 4.898
+vibrancy: 5.553
+nature: 6.181
+off_the_beaten_track: 2.512
 ---
 
 Conil de la Frontera is one of the most enjoyable beach towns on the Atlantic coast of Andalucia — less self-conscious than Zahara, less overrun than Nerja, and far more Spanish in character than anything on the Costa del Sol. It sits on the [Costa de la Luz](/europe/spain/andalucia) between [Cádiz](/europe/spain/andalucia/cadiz) and [Tarifa](/europe/spain/andalucia/tarifa), where the Atlantic coast is wide and exposed and the beaches are long, pale, and regularly cleaned by the southwest wind.

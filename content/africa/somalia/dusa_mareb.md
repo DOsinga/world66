@@ -5,11 +5,15 @@ done:
 latitude: 5.535591
 loc_type: city
 longitude: 46.383108
-score: 1.19
+score: 5.017
 snippet: Central Somali state capital in Galmudug, a semi-arid interior stop between
   Mogadishu and Garowe
 title: Dhuusamarreeb
 type: location
+heritage: 2.768
+vibrancy: 1.243
+nature: 2.369
+off_the_beaten_track: 9.355
 ---
 
 Dhuusamarreeb (also spelled Dusa Mareb) is the capital of the Galmudug federal state in central Somalia. It sits in the semi-arid interior, roughly midway between Mogadishu and Garowe. The town has been a contested flashpoint in clan conflicts and al-Shabaab activity, and the federal government has struggled to maintain control of the surrounding Galguduud region.

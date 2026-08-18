@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 35.0264
 longitude: -114.3836
-score: 6.9
+score: 4.417
 snippet: Route 66 mining town in the Black Mountains, famous for burros and staged
   gunfights.
 sources:
@@ -17,6 +17,10 @@ image: oatman.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Oatman,_Arizona_(1)_(4355601674).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Ken Lund from Reno, Nevada, USA
+heritage: 3.554
+vibrancy: 2.42
+nature: 5.34
+off_the_beaten_track: 3.27
 ---
 
 Oatman is a tiny old mining town on one of Arizona's most memorable stretches of Route 66. It is touristy, loud in the middle of the day, and not subtle at all. That is part of the point.

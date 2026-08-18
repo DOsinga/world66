@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Concord_Pacific_Master_Pla
 latitude: 49.260872
 loc_type: city
 longitude: -123.113952
-score: 9.37
+score: 7.603
 snippet: Pacific port city where dense downtown neighbourhoods sit between Coast Mountains,
   forest, and saltwater.
 title: Vancouver
 type: location
+heritage: 7.253
+vibrancy: 7.794
+nature: 6.961
+off_the_beaten_track: 1.833
 ---
 
 Vancouver sits on a peninsula between mountains and the sea, with snow-capped Coast Mountains rising directly from saltwater inlets and forests pushing right up against the downtown core. The combination gives the city a distinctive quality — you can ski in the morning, bike a seawall in the afternoon, and eat some of the best Asian food in North America for dinner. It is consistently ranked among the most liveable cities in the world, and the locals — a high proportion of whom moved here from somewhere else — generally agree.

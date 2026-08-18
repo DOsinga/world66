@@ -2,7 +2,7 @@
 latitude: 16.481111
 loc_type: city
 longitude: 99.522222
-score: 8.02
+score: 4.305
 snippet: Quiet lower-northern Thai city with laterite ruins from the Sukhothai frontier.
 sources:
 - https://en.wikivoyage.org/wiki/Kamphaeng_Phet
@@ -14,6 +14,10 @@ image: kamphaeng_phet.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kamphaeng_Phet_Historical_Park.jpg
 image_license: CC BY 4.0
 image_attribution: Chainfoto
+heritage: 5.397
+vibrancy: 2.858
+nature: 2.246
+off_the_beaten_track: 2.783
 ---
 
 Kamphaeng Phet is the Sukhothai-era city that most travellers miss. It sits on the Ping River in lower northern Thailand, midway between the better-known historic sites of [Sukhothai](/asia/thailand/centralthailand/sukhothai) and central Thailand, and its old name, Chakangrao, belonged to a fortified frontier town of the Sukhothai kingdom.

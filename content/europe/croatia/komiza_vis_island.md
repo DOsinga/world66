@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Hafen_Komiza_auf_der_Insel
 latitude: 43.05
 loc_type: city
 longitude: 16.0869
-score: 8.69
+score: 5.294
 snippet: Vis island fishing port framed by mountains, vineyards, lobster boats, and
   a 16th-century harbour fortress.
 tags:
 - island_vis
 title: Komiza, Vis island
 type: location
+heritage: 4.599
+vibrancy: 2.86
+nature: 6.257
+off_the_beaten_track: 4.385
 ---
 
 Komiža is the main fishing port of Vis island — the most remote of the larger Dalmatian islands, sitting about 45 km off the coast of Split. It is a compact, intimate town with a palm-fringed [harbour](/europe/croatia/komiza_vis_island/komiza_waterfront) on one side and a ring of mountains on the other. Despite being less visited than Hvar or Korčula, Vis has a devoted following among travelers who prefer authenticity over crowds.

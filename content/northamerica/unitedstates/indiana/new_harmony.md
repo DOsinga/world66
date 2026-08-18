@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 38.1286
 longitude: -87.9342
-score: 7.0
+score: 3.672
 snippet: Wabash River town shaped by utopian communities, modern architecture, and
   quiet gardens.
 sources:
@@ -17,6 +17,10 @@ image: new_harmony.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Downtown_new_harmony_indiana.jpg
 image_license: CC BY 3.0
 image_attribution: Timothy K Hamilton Creativity+ Photography
+heritage: 4.162
+vibrancy: 2.386
+nature: 3.725
+off_the_beaten_track: 2.833
 ---
 
 New Harmony is one of Indiana's strangest small towns, in the best sense. Two utopian communities tried to build ideal societies here in the early 1800s, and the town still feels unusually deliberate: quiet streets, historic communal buildings, gardens, churches, and a surprising amount of serious architecture.

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mirador_Reserva_Natural_El
 latitude: 13.8417
 loc_type: feature
 longitude: -89.9575
-score: 7.08
+score: 5.834
 snippet: Rugged Pacific-slope forest park in western El Salvador, prized for hiking,
   birds, and ravines.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://elsalvador.travel/destination/parque-nacional-el-imposible/en/
 title: El Imposible National Park
 type: location
+heritage: 2.832
+vibrancy: 1.107
+nature: 7.521
+off_the_beaten_track: 4.989
 ---
 
 El Imposible National Park protects one of El Salvador's most important remaining forests, a steep slice of Pacific-slope wilderness in Ahuachapan department. The name sounds theatrical, but it comes from a real problem: the old gorge crossing here was once so dangerous for pack animals and coffee transport that locals called it impossible.

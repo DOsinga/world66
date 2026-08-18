@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 16.8583
 longitude: 94.3917
-score: 7.22
+score: 5.018
 snippet: Low-key Ayeyarwady beach resort with a long pale shore and walkable offshore
   islets.
 sources:
@@ -17,6 +17,10 @@ image: ngwe_saung.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ngwe_Saung_Beach_from_Lovers_island.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Win win thant
+heritage: 1.914
+vibrancy: 2.965
+nature: 6.346
+off_the_beaten_track: 3.544
 ---
 
 Ngwe Saung is Myanmar's easier-going beach escape from Yangon: a long run of pale sand, a small village at the northern end, and a line of resorts that still feels loose rather than overbuilt. It is less polished than Ngapali and quieter than Chaung Tha, which is exactly the appeal if you want a few slow days by the Bay of Bengal.

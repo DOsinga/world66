@@ -1,14 +1,19 @@
 ---
-latitude: -4.5260
+latitude: -4.526
 loc_type: feature
-longitude: 129.7730
-score: 7.1
-snippet: Tiny Banda island of nutmeg groves, white sand, old VOC walls, and shore snorkelling
+longitude: 129.773
+score: 6.227
+snippet: Tiny Banda island of nutmeg groves, white sand, old VOC walls, and shore
+  snorkelling
 sources:
 - https://en.wikivoyage.org/wiki/Pulau_Ai
 - https://en.wikipedia.org/wiki/Banda_Islands
 title: Pulau Ai
 type: location
+heritage: 2.9
+vibrancy: 0.875
+nature: 7.474
+off_the_beaten_track: 7.138
 ---
 
 Pulau Ai is a small island in the Banda group, west of Banda Neira, with one village, nutmeg and kenari almond groves, old fort walls, and reef close enough to reach from shore. It is remote even by Maluku standards, and that remoteness is the attraction.

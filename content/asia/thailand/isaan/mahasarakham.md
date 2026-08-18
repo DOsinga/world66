@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Borom_MSU.jpg
 latitude: 16.1772
 loc_type: city
 longitude: 103.3008
-score: 6.33
+score: 2.052
 snippet: Isan college town whose universities give a young energy to otherwise untouristed
   central Thailand.
 title: Mahasarakham
 type: location
+heritage: 2.406
+vibrancy: 1.67
+nature: 1.845
+off_the_beaten_track: 2.691
 ---
 
 Mahasarakham is an Isan college town that few foreign visitors see. With seven institutions of higher learning — led by Mahasarakham University and its 30,000 students — it has the energy and cheap prices that come with a young population, without any of the tourist infrastructure. If you want to see a real central Isan town rather than a polished destination, this is a good place to do it.

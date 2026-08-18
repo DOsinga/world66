@@ -2,7 +2,7 @@
 latitude: 22.65
 loc_type: city
 longitude: 89.7833
-score: 6.7
+score: 5.564
 snippet: Quiet Bangladeshi mosque town built around the 15th-century city of Khalifatabad.
 sources:
 - https://en.wikivoyage.org/wiki/Bagerhat
@@ -13,6 +13,10 @@ image: bagerhat.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Sixty_Dome_Mosque,Bagerhat.jpg
 image_license: CC BY-SA 4.0
 image_attribution: মোয়ায মাহমুদ
+heritage: 5.638
+vibrancy: 1.811
+nature: 6.235
+off_the_beaten_track: 4.432
 ---
 
 Bagerhat is a small, low-key town in southwest Bangladesh with one very good reason to come: the ruins of Khalifatabad, the 15th-century mosque city founded by the Sufi saint and administrator Khan Jahan Ali. It is a UNESCO World Heritage Site, but it still feels more like a provincial pilgrimage stop than a polished monument zone.

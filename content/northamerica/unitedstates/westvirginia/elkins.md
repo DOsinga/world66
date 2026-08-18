@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 38.9214
 longitude: -79.8508
-score: 6.7
+score: 4.323
 snippet: Mountain railroad town on the edge of Monongahela National Forest in West
   Virginia's high country.
 sources:
@@ -16,6 +16,10 @@ image: elkins.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Elkins_West_Virginia_Davis_Avenue.jpg
 image_license: CC BY-SA 2.5
 image_attribution: Tim Kiser (w:User:Malepheasant)
+heritage: 2.176
+vibrancy: 2.078
+nature: 5.697
+off_the_beaten_track: 2.675
 ---
 
 Elkins is a small mountain town in the Tygart Valley, useful not because it is polished but because it sits right where West Virginia starts to feel high, forested, and musical. It is the county seat of Randolph County and a good base for the northern Monongahela National Forest, with Davis, Thomas, Blackwater Falls, and the higher Allegheny ridges within an easy drive.

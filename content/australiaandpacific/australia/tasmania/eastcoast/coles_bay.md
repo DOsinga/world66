@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -42.1167
 longitude: 148.2833
-score: 7.4
+score: 5.688
 snippet: Small Tasmanian east-coast village at the doorstep of Freycinet National
   Park and Wineglass Bay.
 wikidata: Q5144643
@@ -17,6 +17,10 @@ image: coles_bay.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Coles_Bay_Tasmania_Australia.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Queentulip
+heritage: 2.356
+vibrancy: 2.775
+nature: 7.476
+off_the_beaten_track: 3.769
 ---
 
 Coles Bay is a small village on Tasmania's east coast, wrapped around sheltered water and backed by the pink granite peaks of the Hazards. The settlement itself is quiet: a jetty, a few shops, holiday houses, and kayaks pulled up near the shore. Its importance is simple. This is the front door to Freycinet National Park.

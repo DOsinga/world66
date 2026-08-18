@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alexander_Nevsky_Cathedral
 latitude: 56.3271
 loc_type: city
 longitude: 44.0023
-score: 7.37
+score: 4.687
 snippet: Volga-Oka confluence city with a red-brick kremlin and a long history as
   a trading centre.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Nizhny_Novgorod
 title: Nizhny Novgorod
 type: location
+heritage: 4.399
+vibrancy: 4.832
+nature: 2.905
+off_the_beaten_track: 3.133
 ---
 
 Nizhny Novgorod sits at the confluence of the Volga and Oka rivers, about 400 kilometres east of Moscow, and the view from the kremlin walls over both rivers is one of the finest in Russia. Founded in 1221, it grew to become one of the great trading cities of the empire — the Nizhny Novgorod Fair, held annually on the floodplain below the citadel, was once the largest in the world, attracting merchants from Central Asia, Persia, and Western Europe.

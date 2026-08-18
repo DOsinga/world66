@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 47.4167
 longitude: 15.2667
-score: 6.6
+score: 3.22
 snippet: Styrian river town of medieval trade houses, Schlossberg views, and Mur-Murz
   bridges.
 sources:
@@ -17,6 +17,10 @@ image: bruck_an_der_mur.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bruck_Mur_Hauptplatz_7952.JPG
 image_license: CC BY-SA 3.0 at
 image_attribution: Karl Gruber
+heritage: 3.983
+vibrancy: 2.248
+nature: 2.496
+off_the_beaten_track: 1.452
 ---
 
 Bruck an der Mur is a compact Styrian town where the Mur and Murz valleys meet. Many travellers only notice it as a rail junction between Vienna, Graz, and the alpine routes west, but the centre has enough medieval texture and river scenery to reward a slow stop.

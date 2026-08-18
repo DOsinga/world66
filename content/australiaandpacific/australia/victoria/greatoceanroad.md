@@ -15,7 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Port_Campbell_National_Park
 title: Great Ocean Road
 type: location
-score: 8.8
+score: 5.688
+heritage: 3.353
+vibrancy: 4.228
+nature: 6.773
+off_the_beaten_track: 1.892
 ---
 
 The Great Ocean Road is Australia's great coastal drive, running west from Torquay toward Allansford through surf beaches, rainforest, fishing towns, and the battered limestone cliffs of the Shipwreck Coast. It is famous for the [Twelve Apostles](/australiaandpacific/australia/victoria/greatoceanroad/twelve_apostles), but the road is better when you treat them as the climax rather than the only reason to go.

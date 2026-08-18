@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Koenigsstuhl_118_m.jpg
 latitude: 54.452902
 loc_type: city
 longitude: 13.388234
-score: 8.12
+score: 6.356
 title: Rügen
 type: location
 snippet: Baltic island of chalk cliffs, beech forest, and seaside resorts linked to
   Caspar David Friedrich.
+heritage: 5.687
+vibrancy: 4.157
+nature: 7.441
+off_the_beaten_track: 2.708
 ---
 
 Rügen is [Germany's](/europe/germany) largest island, connected to the mainland by a bridge near Stralsund. Its dramatic white chalk cliffs — the Kreidefelsen, most famously the [Königsstuhl](/europe/germany/mecklenburgwesternpomerania/rugen/koenigsstuhl) — have been famous since Caspar David Friedrich painted them in the early nineteenth century, and they remain the island's most striking sight. [Jasmund National Park](/europe/germany/mecklenburgwesternpomerania/rugen/jasmund_national_park) protects the cliffs and the ancient beech forest behind them, a UNESCO World Heritage Site.

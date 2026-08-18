@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:El%C3%A2z%C4%B1%C4%9F,_El%
 latitude: 38.674444
 loc_type: city
 longitude: 39.222778
-score: 6.16
+score: 5.059
 snippet: Elazığ is an eastern Turkish city in the upper Euphrates basin, gateway to
   Harput and the Keban Dam reservoir.
 title: Elazığ
 type: location
+heritage: 4.511
+vibrancy: 4.489
+nature: 5.673
+off_the_beaten_track: 4.905
 ---
 
 Elazığ is a city in eastern Turkey, sitting at around 1,000m altitude in the upper Euphrates basin. It is the gateway to the [Keban Dam reservoir](/asia/turkey/keban_dam) — one of the largest in Turkey — which flooded much of the old Harput valley when it was built in the 1970s. The city itself is modern and somewhat unremarkable, but it sits in a region with deep history and dramatic landscape.

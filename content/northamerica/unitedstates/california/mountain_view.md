@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Castro_Street_Mountain_Vie
 latitude: 37.389389
 loc_type: city
 longitude: -122.08321
-score: 6.42
+score: 3.781
 title: Mountain View
 type: location
 snippet: Mountain View is a Silicon Valley city best known as the home of Google’s
   headquarters.
+heritage: 1.384
+vibrancy: 3.782
+nature: 3.779
+off_the_beaten_track: 0.926
 ---
 
 Mountain View is a city in the southern San Francisco Bay Area, best known as the home of Google's headquarters, the Googleplex. It sits between Palo Alto and Sunnyvale in the heart of Silicon Valley, and it has the pleasant, slightly dissonant character of a place that was an ordinary mid-century suburb until the technology industry turned the surrounding area into the most economically concentrated stretch of real estate in the world.

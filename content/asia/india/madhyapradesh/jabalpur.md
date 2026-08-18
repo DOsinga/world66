@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:0010322_Chausath_Yogini_Te
 latitude: 23.170152
 loc_type: city
 longitude: 79.932451
-score: 6.63
+score: 5.969
 snippet: Central Indian city on the Narmada, used for Marble Rocks, Dhuandhar Falls,
   and unusual tantric temples.
 title: Jabalpur
 type: location
+heritage: 4.87
+vibrancy: 5.086
+nature: 6.794
+off_the_beaten_track: 2.787
 ---
 
 Jabalpur is a large city in central Madhya Pradesh, sitting on the upper Narmada River. It is not a tourist destination in itself, but it serves as the gateway to some of the most dramatic landscapes in central India.

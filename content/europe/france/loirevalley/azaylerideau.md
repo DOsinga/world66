@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Loire_Indre_Azay2_tango717
 latitude: 47.261479
 loc_type: city
 longitude: 0.466713
-score: 8.75
+score: 5.297
 snippet: Small Loire Valley town known for a Renaissance château reflected in the
   Indre River
 title: Azay-le-Rideau
 type: location
+heritage: 6.516
+vibrancy: 1.918
+nature: 4.213
+off_the_beaten_track: 1.944
 ---
 
 Azay-le-Rideau is a small town in the Indre-et-Loire department, best known for its [Château d'Azay-le-Rideau](/europe/france/loirevalley/azaylerideau/chateau_dazay_le_rideau) — one of the finest early Renaissance buildings in the Loire Valley. Built between 1518 and 1527 on an island in the Indre River, the chateau appears to float on the water, its turrets and dormers reflected in the moat. The interior holds a good collection of Renaissance and 17th-century furniture and paintings.

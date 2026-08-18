@@ -5,7 +5,7 @@ done:
 latitude: 20.8306
 loc_type: city
 longitude: -156.9029
-score: 8.81
+score: 5.964
 snippet: Quiet Hawaiian island shaped by pineapple plantations, one small town, and
   secluded beaches.
 sources:
@@ -16,6 +16,10 @@ image: lanai.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Garden_of_the_Gods2.jpg
 image_license: Public domain
 image_attribution: Halibut Thyme at en.wikipedia
+heritage: 3.06
+vibrancy: 2.304
+nature: 7.947
+off_the_beaten_track: 3.789
 ---
 
 For nearly 70 years, Lanai — dubbed the "Pineapple Island" — was operated as a plantation by the Dole Company. In its heyday it was the world's largest source of pineapple, grown on more than 16,000 acres, until the industry began to falter. By 1993 pineapple was phased out in favour of resort development, ranching, and other agriculture.

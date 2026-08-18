@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Kong_Family_Mansion_49265-
 latitude: 35.5965
 loc_type: city
 longitude: 116.982
-score: 8.07
+score: 6.047
 snippet: Shandong hometown of Confucius, centred on the Temple, Kong Family Mansion,
   and cemetery.
 sources:
 - https://en.wikivoyage.org/wiki/Qufu
 title: Qufu
 type: location
+heritage: 7.885
+vibrancy: 3.399
+nature: 3.6
+off_the_beaten_track: 2.579
 ---
 
 Qufu is the hometown of Confucius, and for twenty-five centuries the Kong family — his direct descendants — have lived here in the same mansion, tending the same temple, and burying their dead in the same forest cemetery. The result is one of the strangest and most moving sites in China: a living aristocratic estate that has outlasted every dynasty, every revolution, and every attempt to bury its founder's ideas. The Three Kong Sites — the Temple of Confucius, the Kong Family Mansion, and the Kong Forest — are UNESCO-listed together and genuinely warrant the designation.

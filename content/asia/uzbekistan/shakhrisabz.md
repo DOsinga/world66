@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Jahangir_Mausoleum_in_Shah
 latitude: 39.0053
 loc_type: city
 longitude: 67.1135
-score: 7.94
+score: 6.094
 snippet: Uzbek town where Tamerlane was born, centred on the colossal ruins of his
   Ak-Saray Palace.
 title: Shakhrisabz
 type: location
+heritage: 7.647
+vibrancy: 2.887
+nature: 4.509
+off_the_beaten_track: 4.58
 ---
 
 Shakhrisabz is Tamerlane's hometown — the place where Amir Timur was born in 1336 and where he intended to be buried. For a ruler who built one of history's great empires and left monuments all over Central Asia, it's fitting that his birthplace is a modest Uzbek town where locals still outnumber tourists by a comfortable margin. That's part of what makes it worth visiting.

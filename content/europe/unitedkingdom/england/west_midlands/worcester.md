@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Friar_Street_in_Worcester_
 latitude: 52.191185
 loc_type: city
 longitude: -2.220658
-score: 6.54
+score: 4.958
 snippet: River Severn cathedral city where King John's tomb and cricket-ground views
   anchor the historic centre.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Worcester_(England)
 title: Worcester
 type: location
+heritage: 5.355
+vibrancy: 4.845
+nature: 4.105
+off_the_beaten_track: 2.635
 ---
 
 Worcester is a cathedral city on the River Severn in the West Midlands of England. The magnificent [Worcester Cathedral](/europe/unitedkingdom/england/west_midlands/worcester/worcester_cathedral), dating from the 11th century, dominates the riverfront and contains the tomb of King John — the only English monarch buried between London and the north. The view of the cathedral from the cricket ground across the river is one of the most photographed in English sport.

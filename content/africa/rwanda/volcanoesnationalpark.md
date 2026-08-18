@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mountain_gorilla_from_Susa
 latitude: -1.4675
 loc_type: feature
 longitude: 29.4925
-score: 9.06
+score: 6.168
 snippet: Virunga mountain park in northwestern Rwanda, protecting gorilla habitat
   and Dian Fossey's research landscape.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Virunga_Mountains
 title: Volcanoes National Park
 type: location
+heritage: 1.811
+vibrancy: 1.106
+nature: 7.554
+off_the_beaten_track: 6.576
 ---
 
 Volcanoes National Park in northwestern Rwanda is one of the most important conservation areas in Africa — the home of the mountain gorilla, the subject of Dian Fossey's 18-year study, and one of the few places on earth where an encounter with a great ape in the wild is accessible, if expensive, to any traveller willing to make the journey. The park protects the Rwandan slopes of the Virunga Mountains, a chain of eight volcanoes straddling the borders of Rwanda, the Democratic Republic of Congo, and Uganda. The volcanic peaks visible from the park headquarters at Kinigi — Karisimbi, Bisoke, Muhabura, Gahinga, and Sabyinyo — form a green wall that changes colour from dark jungle to bare volcanic rock as you look upward.

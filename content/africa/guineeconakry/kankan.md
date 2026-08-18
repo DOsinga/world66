@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kankan_nabayah.jpg
 latitude: 10.624835
 loc_type: city
 longitude: -9.317517
-score: 4.85
+score: 3.265
 snippet: Eastern Guinean city on the Milo River, spiritual heartland of Malinke culture
   and Mali Empire memory
 title: Kankan
 type: location
+heritage: 2.477
+vibrancy: 1.816
+nature: 2.105
+off_the_beaten_track: 5.682
 ---
 
 Kankan is the second-largest city in Guinea and the spiritual heart of the Malinke (Mandinka) people. For those tracing the history of the Mali Empire, this is significant ground. For everyone else, it is a dusty but atmospheric stop on the long road east from [Conakry](/africa/guineeconakry/conakry) to [Mali](/africa/mali).

@@ -5,11 +5,15 @@ done:
 latitude: -33.896136
 loc_type: city
 longitude: -53.515474
-score: 6.55
+score: 5.773
 snippet: Tiny Uruguayan beach village near Brazil, with pine-backed Atlantic sand
   and Parque Nacional Santa Teresa nearby.
 title: La Coronilla
 type: location
+heritage: 2.421
+vibrancy: 1.132
+nature: 7.458
+off_the_beaten_track: 4.884
 ---
 
 La Coronilla is a tiny beach village on Uruguay's Atlantic coast, about 15 km south of the Brazilian border and just east of Parque Nacional Santa Teresa. It is the kind of place that barely shows up on maps — a handful of houses, a beach, and pine woods behind it.

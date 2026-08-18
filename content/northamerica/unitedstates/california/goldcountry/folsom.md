@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:FolsomStatePrison_(cropped
 latitude: 38.678
 loc_type: city
 longitude: -121.1761
-score: 7.14
+score: 3.839
 snippet: American River city east of Sacramento, split between Gold Rush streets and
   Folsom Prison lore.
 title: Folsom
 type: location
+heritage: 4.382
+vibrancy: 3.423
+nature: 3.039
+off_the_beaten_track: 1.923
 ---
 
 Folsom is a small city on the American River, about 32 kilometres east of Sacramento, that carries two very different identities. One is a prosperous Sacramento suburb with a pleasant historic downtown; the other is the Folsom State Prison, made immortal by Johnny Cash, who recorded his celebrated live album there in January 1968 in front of an audience of inmates. Both identities are real, and both are worth exploring.

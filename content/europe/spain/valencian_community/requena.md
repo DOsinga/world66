@@ -4,19 +4,24 @@ type: location
 loc_type: city
 latitude: 39.4883
 longitude: -1.1004
-score: 6.4
-snippet: Valencian wine town with a medieval old quarter built over old caves and cellars.
+score: 4.696
+snippet: Valencian wine town with a medieval old quarter built over old caves and
+  cellars.
 sources:
-  - https://en.wikivoyage.org/wiki/Requena
-  - https://www.requena.es/pagina/cuevas-villa
-  - https://www.requena.es/palacio-del-cid-museo-del-vino-requena
-  - https://turisme.dival.es/en/destino/requena/
-  - https://es.wikipedia.org/wiki/Requena_(Espa%C3%B1a)
+- https://en.wikivoyage.org/wiki/Requena
+- https://www.requena.es/pagina/cuevas-villa
+- https://www.requena.es/palacio-del-cid-museo-del-vino-requena
+- https://turisme.dival.es/en/destino/requena/
+- https://es.wikipedia.org/wiki/Requena_(Espa%C3%B1a)
 wikidata: Q302099
 image: requena.jpg
 image_source: https://commons.wikimedia.org/wiki/File:ComunidadValenciana_Requena1_tango7174.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Tango7174
+heritage: 4.232
+vibrancy: 4.38
+nature: 5.163
+off_the_beaten_track: 2.892
 ---
 
 Requena sits inland from Valencia, where the coastal plain gives way to Bobal vineyards and a tougher Castilian edge. Its old quarter, La Villa, is the reason to stop: a medieval knot of lanes, churches, walls, and caves cut into the soft limestone under the streets.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Belmar_beach_New_Jersey.jp
 latitude: 40.1782
 loc_type: city
 longitude: -74.0218
-score: 6.64
+score: 4.959
 snippet: No-frills Jersey Shore beach town with wide sand, surfing jetties, and Shark
   River kayaking.
 title: Belmar
 type: location
+heritage: 1.642
+vibrancy: 3.382
+nature: 6.052
+off_the_beaten_track: 1.556
 ---
 
 Belmar is a no-frills Jersey Shore town where the beach is the point and everyone knows it. A mile of wide, clean sand stretches between the Shark River inlet and the border with Spring Lake, and the summer crowd is a mix of young professionals from North Jersey, families staking out umbrella territory, and surfers working the jetties. The town charges for beach badges in summer — a few dollars a day — but you get lifeguards, clean restrooms, and a beach that never feels as packed as Seaside or Point Pleasant.

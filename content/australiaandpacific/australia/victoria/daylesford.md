@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: -37.35
 longitude: 144.15
-score: 6.9
-snippet: Victorian spa town northwest of Melbourne, known for mineral springs, galleries, and green hills.
+score: 4.523
+snippet: Victorian spa town northwest of Melbourne, known for mineral springs, galleries,
+  and green hills.
 sources:
 - https://en.wikivoyage.org/wiki/Daylesford
 - https://www.australia.com/en-us/places/melbourne-and-surrounds/guide-to-daylesford-and-the-macedon-ranges.html
+heritage: 4.668
+vibrancy: 4.407
+nature: 4.822
+off_the_beaten_track: 4.15
 ---
 
 Daylesford is Victoria's classic mineral-springs escape, about 90 minutes northwest of Melbourne. It has the familiar bones of a goldfields town, but its present-day mood is softer: spas, galleries, gardens, lake walks, weekend lunches, and a long-running reputation as one of regional Victoria's most open-minded small towns.

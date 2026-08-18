@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Ba%C5%A1ka_krk.jpg
 latitude: 44.970933
 loc_type: city
 longitude: 14.750801
-score: 8.51
+score: 5.176
 snippet: Adriatic resort town on Krk, set around Vela Plaža and the culturally vital
   Baška Tablet.
 tags:
 - krkisland
 title: Baška
 type: location
+heritage: 3.786
+vibrancy: 3.938
+nature: 6.12
+off_the_beaten_track: 3.089
 ---
 
 Baška is a popular resort town on the southern tip of Krk, one of the largest islands in the Croatian Adriatic. It sits in a sheltered bay surrounded by vineyards, olive groves, and rocky mountains, with the islet of Prvić providing natural protection from the open sea.

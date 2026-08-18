@@ -5,7 +5,7 @@ done:
 latitude: 53.573989
 loc_type: city
 longitude: -6.119175
-score: 7.33
+score: 4.261
 snippet: Victorian fishing village north of Dublin, with offshore islands, working
   mills, and a small harbour.
 sources:
@@ -13,6 +13,10 @@ sources:
 - https://www.skerriesmills.ie/
 title: Skerries
 type: location
+heritage: 3.246
+vibrancy: 2.229
+nature: 5.228
+off_the_beaten_track: 2.139
 ---
 
 Skerries is a pleasant surprise — a genuine Victorian fishing village that has somehow survived the ham-fisted urban planning that plagues the Dublin commuter belt. It's on the train line from the city, 30km north of Dublin, and the coastline is good for walking. Three offshore islands are visible from the harbour: Shenick's, St. Patrick's, and Colt, giving the view a proper maritime depth.

@@ -11,13 +11,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Cadiz_Spain.jpg
 latitude: 36.529744
 loc_type: city
 longitude: -6.292898
-score: 8.82
+score: 6.067
 snippet: Ancient Andalusian port city on a peninsula, with Atlantic ramparts and 18th-century
   merchant architecture
 tags:
 - costa_de_la_luz
 title: Cadiz
 type: location
+heritage: 6.859
+vibrancy: 5.545
+nature: 4.078
+off_the_beaten_track: 1.595
 ---
 
 On the southern tip of Spain the port city of Cadiz (pronounced CA-deeth) has

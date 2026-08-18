@@ -2,15 +2,20 @@
 latitude: 47.516667
 loc_type: city
 longitude: -57.383333
-score: 6.9
-snippet: Remote Newfoundland island outport with ferry access, wind power, harbour walks, and hard Atlantic edges.
+score: 5.229
+snippet: Remote Newfoundland island outport with ferry access, wind power, harbour
+  walks, and hard Atlantic edges.
 sources:
-  - https://en.wikivoyage.org/wiki/Ramea
-  - https://en.wikipedia.org/wiki/Ramea
-  - https://www.ramea.ca/explore
-  - https://www.gov.nl.ca/ti/ferryservices/
+- https://en.wikivoyage.org/wiki/Ramea
+- https://en.wikipedia.org/wiki/Ramea
+- https://www.ramea.ca/explore
+- https://www.gov.nl.ca/ti/ferryservices/
 title: Ramea
 type: location
+heritage: 3.539
+vibrancy: 1.108
+nature: 5.937
+off_the_beaten_track: 7.106
 ---
 
 Ramea is a small island outport off Newfoundland's south coast, reached by ferry from Burgeo and far enough from the main road system to feel like a deliberate choice. It is not a place of big-ticket sights. It is a place of harbour lanes, wind, ferry schedules, low houses, and a community that has had to adapt without losing its island shape.

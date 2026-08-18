@@ -16,7 +16,7 @@ quick_facts:
   Became Capital: '1983'
   Population: ~360,000
   Sacred Crocodiles: Guard the palace lake
-score: 6.56
+score: 4.423
 snippet: Purpose-built Ivorian capital of oversized boulevards, sacred crocodiles,
   and an improbably vast basilica
 tip: Yamoussoukro is a planned political capital built in the home village of founding
@@ -26,6 +26,10 @@ tip: Yamoussoukro is a planned political capital built in the home village of fo
   the presidential palace.
 title: Yamoussoukro
 type: location
+heritage: 4.88
+vibrancy: 4.283
+nature: 2.604
+off_the_beaten_track: 4.756
 ---
 
 Yamoussoukro is one of Africa's great political curiosities — a city built almost from scratch to satisfy the ego of a president, then largely abandoned by the government it was meant to house. In 1983, President Félix Houphouët-Boigny declared his home village the official capital of Côte d'Ivoire, and poured national oil revenues into transforming it. Today you find eight-lane highways with almost no cars on them, grand government buildings that stand half-empty, and at the centre of it all, the [largest church in the world](/africa/ivorycoast/yamoussoukro/basilique_notre_dame).

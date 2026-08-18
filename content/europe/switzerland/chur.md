@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/32781193@N00/16000744275
 latitude: 46.8544
 loc_type: city
 longitude: 9.5269
-score: 8.15
+score: 6.393
 snippet: Alpine Rhine-valley city and Graubünden capital, with a crooked old town
   and deep Roman roots
 title: Chur
 type: location
+heritage: 5.567
+vibrancy: 3.7
+nature: 7.549
+off_the_beaten_track: 2.363
 ---
 
 Chur claims the title of oldest city in Switzerland, with evidence of settlement stretching back more than 5,000 years. Tucked into the Rhine valley at the foot of the Alps, it is the capital of Graubünden, the country's largest and most sparsely populated canton. The [old town](/europe/switzerland/chur/chur_altstadt) is small enough to walk in an hour, but dense with crooked lanes, painted facades, and quiet squares that reward a slower pace.

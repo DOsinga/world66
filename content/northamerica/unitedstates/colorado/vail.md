@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Buildings_in_Vail,_Colorad
 latitude: 39.643803
 loc_type: city
 longitude: -106.388823
-score: 8.72
+score: 6.08
 snippet: Colorado Rockies ski resort town built around Gore Creek and vast mountain
   terrain.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Vail_Ski_Resort
 title: Vail
 type: location
+heritage: 3.69
+vibrancy: 5.74
+nature: 6.65
+off_the_beaten_track: 1.415
 ---
 
 Vail is one of the largest and most famous ski resorts in North America, set in a narrow valley along Gore Creek at 2,500 metres in the Colorado Rockies. The resort opened in 1962 and the town that grew up around it is purpose-built — Tyrolean-style architecture, pedestrian village cores, and a relentless focus on the ski experience.

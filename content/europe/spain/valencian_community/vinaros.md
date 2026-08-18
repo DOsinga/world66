@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Amanece_en_Vinaros_-_panor
 latitude: 40.470399
 loc_type: city
 longitude: 0.474608
-score: 7.37
+score: 5.301
 snippet: Working Castellón fishing port known for the deep-water red prawn landed
   at Vinaròs.
 title: Vinaros
 type: location
+heritage: 4.359
+vibrancy: 5.246
+nature: 5.444
+off_the_beaten_track: 3.472
 ---
 
 Vinaròs is a working fishing port at the northern tip of Castellón province, right on the border with Tarragona. It is one of the main landing ports for the Mediterranean red prawn (gamba roja de Vinaròs) — a deep-water prawn with a local DOP designation that is considered among the finest in Spain — and the fish market and the restaurants around the port are the main reasons to stop here. The town has a modest beach, a pleasant and unpolished seafront, and enough of the authentic character of a Spanish fishing port to make it worth more than a lunch stop.

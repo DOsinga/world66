@@ -5,13 +5,17 @@ done:
 latitude: 44.1765
 loc_type: city
 longitude: 8.2684
-score: 6.97
+score: 4.627
 snippet: Small Ligurian village in the Maremola valley, just inland from the Riviera
   delle Palme.
 tags:
 - rivieradellepalme
 title: “Tovo San Giacomo”
 type: location
+heritage: 3.038
+vibrancy: 1.894
+nature: 5.866
+off_the_beaten_track: 4.277
 ---
 
 Tovo San Giacomo is a small agricultural village in the Maremola valley, just inland from the Ligurian coast on the Riviera delle Palme. The name derives from “tufum,” after the tufa rock formations in the Bronati district. The area has been settled for centuries — first under the bishops of Albenga, then the Del Carretto marquises, then Spain from 1598, and finally the Republic of Genoa from 1713.

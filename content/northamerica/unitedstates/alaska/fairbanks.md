@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Fairbanks_A
 latitude: 64.837845
 loc_type: city
 longitude: -147.716675
-score: 7.85
+score: 5.165
 snippet: Interior Alaska city on the Chena River, gateway to the Arctic and northern
   lights country.
 title: Fairbanks
 type: location
+heritage: 4.225
+vibrancy: 4.998
+nature: 5.591
+off_the_beaten_track: 4.745
 ---
 
 Fairbanks is the second-largest city in [Alaska](/northamerica/unitedstates/alaska) and the gateway to the Interior and the Arctic. It sits on the Chena River in a broad valley surrounded by boreal forest, and everything about it is shaped by extremes: summer days that never get dark and winter nights that never get light, temperatures that swing from +35°C to -40°C across the year.

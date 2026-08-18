@@ -3,7 +3,7 @@ done: true
 latitude: 14.46768
 loc_type: city
 longitude: 121.01528
-score: 5.81
+score: 3.199
 snippet: Metro Manila coastal city where Baclaran Church and market sit between the
   airport and Manila Bay.
 sources:
@@ -11,6 +11,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Para%C3%B1aque
 title: Parañaque
 type: location
+heritage: 2.58
+vibrancy: 3.409
+nature: 2.658
+off_the_beaten_track: 0.874
 ---
 
 Parañaque sits in the southern part of Metro Manila, wedged between the airport and the coast. Most travelers pass through it on the way somewhere else, sitting in traffic on the roads fanning out from Ninoy Aquino International Airport. The city deserves more than that reputation.

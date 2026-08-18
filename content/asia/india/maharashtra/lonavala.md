@@ -5,7 +5,7 @@ done:
 latitude: 18.750369
 loc_type: city
 longitude: 73.406944
-score: 7.65
+score: 4.879
 snippet: Sahyadri hill station between Mumbai and Pune, known for monsoon waterfalls
   and basalt escarpment views.
 title: Lonavala
@@ -14,6 +14,10 @@ image: lonavala.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Calc%C3%A9doine_sur_stilbite_(Lonavala_Quarry,_Lonavale_(Lonavala),_Poonah,_Maharashtra_-_India)_3.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Parent Géry
+heritage: 2.567
+vibrancy: 3.499
+nature: 5.871
+off_the_beaten_track: 2.601
 ---
 
 Lonavala is a small hill station in the **Sahyadri** range (Western Ghats), halfway between Mumbai and Pune on the old British-era railway line and the Mumbai–Pune Expressway. Sitting at 622 metres in the folds of a volcanic escarpment, it was developed in the 19th century as a cool-weather retreat for the British administrators of Bombay, and today serves the same purpose for the middle classes of both cities — on weekends it is busy with families from Mumbai fleeing the heat, and during the south-west **monsoon** (June to September), when waterfalls cascade down the basalt cliffs and the landscape turns a luminous green, it is one of the most popular short breaks in western India.

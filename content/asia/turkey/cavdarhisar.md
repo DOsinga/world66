@@ -2,7 +2,7 @@
 latitude: 39.2
 loc_type: city
 longitude: 29.6167
-score: 7.4
+score: 3.932
 snippet: High Anatolian village wrapped around Aizanoi, one of Turkey's best Roman
   archaeological sites.
 sources:
@@ -16,6 +16,10 @@ image: cavdarhisar.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aizanoi_Zeus_temple_2116.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Dosseman
+heritage: 5.026
+vibrancy: 2.031
+nature: 2.7
+off_the_beaten_track: 2.686
 ---
 
 Çavdarhisar is a small village on the high plateau south-west of Kütahya. On its own it would be easy to pass by, but the village sits inside the ruins of Aizanoi, one of the strongest Roman sites in inland Turkey.

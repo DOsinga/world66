@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Border_town_Chui.jpg
 latitude: -33.6964
 loc_type: city
 longitude: -53.46
-score: 6.64
+score: 2.575
 snippet: Uruguayan border city where one street divides Spanish-speaking Uruguay from
   Portuguese-speaking Brazil.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://turismorocha.gub.uy/en/attractions/historical/san-miguel-fort-historical-monument-of-rocha-uruguay
 title: Chuy
 type: location
+heritage: 2.208
+vibrancy: 2.698
+nature: 2.258
+off_the_beaten_track: 2.576
 ---
 
 Chuy is Uruguay's oddest border town: half practical shopping stop, half geographic curiosity. The city runs straight into Brazilian Chuí along [Avenida Internacional](/southamerica/uruguay/chuy/avenida_internacional), a dry border where you can cross countries by stepping across the street. On one side prices are in Uruguayan pesos and the conversation is Spanish; on the other, the signs tilt into Portuguese and Brazil begins without ceremony.

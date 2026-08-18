@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: 50.393333
 longitude: -105.551944
-score: 7.2
-snippet: Saskatchewan railway city with bootlegging stories, prairie museums, murals, and a giant roadside moose.
+score: 3.997
+snippet: Saskatchewan railway city with bootlegging stories, prairie museums, murals,
+  and a giant roadside moose.
 sources:
-  - https://en.wikivoyage.org/wiki/Moose_Jaw
-  - https://en.wikipedia.org/wiki/Moose_Jaw
+- https://en.wikivoyage.org/wiki/Moose_Jaw
+- https://en.wikipedia.org/wiki/Moose_Jaw
+heritage: 3.788
+vibrancy: 2.41
+nature: 4.589
+off_the_beaten_track: 2.041
 ---
 
 Moose Jaw is one of Saskatchewan's stranger and more enjoyable small cities. It grew as a railway junction on the prairie, picked up a reputation for bootlegging during Prohibition, and now leans into that history with tunnels, murals, and a cheerful sense of theatre.

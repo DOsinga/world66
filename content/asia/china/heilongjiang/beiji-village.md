@@ -14,7 +14,11 @@ title: Beiji Village
 snippet: Northernmost Chinese village on the Amur River, known for borderland scenery
   and aurora viewing
 type: location
-score: 5.07
+score: 2.989
+heritage: 3.371
+vibrancy: 1.851
+nature: 2.432
+off_the_beaten_track: 4.352
 ---
 
 Beiji Village — the name means literally "northernmost" — is China's most northerly inhabited settlement, a small community on the southern bank of the Amur River at the point where Heilongjiang curves north toward Siberia. Russia is directly across the water. The village exists at the intersection of extreme geography and Chinese tourism infrastructure: there is a monument marking the northernmost point, a [post office that stamps your passport](/asia/china/heilongjiang/beiji-village/northernmost_post_office) or a commemorative card, and a Santa Claus House theme park about 25 kilometres away that has become improbably popular with domestic visitors. None of this is meant to discourage — the combination is genuinely strange and the landscape is genuinely beautiful.

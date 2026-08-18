@@ -4,17 +4,22 @@ type: location
 loc_type: city
 latitude: 35.7289
 longitude: 137.9339
-score: 7.2
+score: 4.571
 wikidata: Q838684
-snippet: Nagano mountain city below the Central Alps, known for Senjojiki Cirque and sauce katsudon.
+snippet: Nagano mountain city below the Central Alps, known for Senjojiki Cirque and
+  sauce katsudon.
 sources:
-  - https://en.wikivoyage.org/wiki/Komagane
-  - https://en.wikipedia.org/wiki/Komagane,_Nagano
-  - https://www.wikidata.org/wiki/Q838684
+- https://en.wikivoyage.org/wiki/Komagane
+- https://en.wikipedia.org/wiki/Komagane,_Nagano
+- https://www.wikidata.org/wiki/Q838684
 image: komagane.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mount_Hoken_%26_Senjojiki_Cirque_(1170915401).jpg
 image_license: CC BY-SA 2.0
 image_attribution: sota
+heritage: 3.663
+vibrancy: 3.097
+nature: 5.533
+off_the_beaten_track: 3.933
 ---
 
 Komagane sits in southern Nagano Prefecture between the Central and Southern Alps. The city itself is quiet, but its position is excellent: buses climb from the station through Komagane Kogen to the ropeway that reaches the alpine bowl of Senjojiki Cirque.

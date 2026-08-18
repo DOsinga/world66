@@ -1,9 +1,10 @@
 ---
-latitude: -34.5670
+latitude: -34.567
 loc_type: city
-longitude: 146.4000
-score: 6.25
-snippet: Planned Riverina town known for Art Deco buildings, irrigation history, and nearby wetlands.
+longitude: 146.4
+score: 2.32
+snippet: Planned Riverina town known for Art Deco buildings, irrigation history, and
+  nearby wetlands.
 sources:
 - https://en.wikivoyage.org/wiki/Leeton
 - https://en.wikipedia.org/wiki/Leeton,_New_South_Wales
@@ -16,6 +17,10 @@ image: leeton.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Roxy_Theatre.jpg
 image_license: CC BY 3.0
 image_attribution: Mattinbgn
+heritage: 2.448
+vibrancy: 1.692
+nature: 2.559
+off_the_beaten_track: 2.168
 ---
 
 Leeton is one of the Riverina's planned irrigation towns, laid out in the early 20th century and still carrying more architectural personality than its size suggests. It is not a major destination, but it passes the spare-day test if you are already moving between Griffith, Wagga Wagga, and the Murrumbidgee.

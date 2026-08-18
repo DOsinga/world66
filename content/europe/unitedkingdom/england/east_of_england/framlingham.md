@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 52.2229
 longitude: 1.3423
-score: 6.8
+score: 4.377
 snippet: Small Suffolk market town gathered around a great curtain-walled medieval
   castle.
 wikidata: Q616587
@@ -16,6 +16,10 @@ image: framlingham.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Framlingham_-_Framlingham_Castle_-_20210501122859.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Balon Greyjoy
+heritage: 5.891
+vibrancy: 1.618
+nature: 2.335
+off_the_beaten_track: 2.078
 ---
 
 Framlingham is a small Suffolk market town that has one outstanding reason to visit: [Framlingham Castle](/europe/unitedkingdom/england/east_of_england/framlingham/framlingham_castle), a huge ring of flint walls and towers rising above the town and its mere.

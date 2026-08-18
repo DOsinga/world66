@@ -2,12 +2,17 @@
 title: New Lanark
 type: location
 loc_type: feature
-latitude: 55.6600
-longitude: -3.7800
-score: 8.6
-snippet: Restored Clyde-side mill village and UNESCO site tied to Robert Owen's social reforms.
+latitude: 55.66
+longitude: -3.78
+score: 5.401
+snippet: Restored Clyde-side mill village and UNESCO site tied to Robert Owen's social
+  reforms.
 sources:
-  - https://en.wikivoyage.org/wiki/New_Lanark
+- https://en.wikivoyage.org/wiki/New_Lanark
+heritage: 5.995
+vibrancy: 1.389
+nature: 5.769
+off_the_beaten_track: 3.952
 ---
 
 New Lanark is a compact mill village on the River Clyde, built around water-powered cotton mills and later made famous by Robert Owen's social reforms. It is a rare industrial heritage site where the ideas matter as much as the buildings.

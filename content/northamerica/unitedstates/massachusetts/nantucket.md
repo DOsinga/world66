@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Nantucket-08-2004.jpg
 latitude: 41.284441
 loc_type: city
 longitude: -70.09842
-score: 8.8
+score: 5.822
 snippet: Massachusetts island resort with whaling-era streets, grey-shingled houses,
   and beaches off Cape Cod.
 title: Nantucket
 type: location
+heritage: 4.7
+vibrancy: 5.842
+nature: 5.772
+off_the_beaten_track: 2.012
 ---
 
 Nantucket is a small island about 30 miles off the coast of [Cape Cod](/northamerica/unitedstates/massachusetts/capecod), quieter and more exclusive than neighbouring [Martha's Vineyard](/northamerica/unitedstates/massachusetts/marthasvineyard). Once the whaling capital of the world — *Moby-Dick* opens here — it is now a summer resort with a beautifully preserved historic town centre, cobblestone streets, grey-shingled houses, and some of the best beaches on the East Coast.

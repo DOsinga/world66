@@ -5,11 +5,15 @@ done:
 latitude: 29.805227
 loc_type: city
 longitude: 35.311861
-score: 8.28
+score: 5.123
 snippet: Desert Highway supply town near Wadi Rum, a practical gateway between Aqaba
   and the desert.
 title: Quweira
 type: location
+heritage: 1.845
+vibrancy: 1.34
+nature: 6.611
+off_the_beaten_track: 4.359
 ---
 
 The last stop before you head into the wilderness of Wadi Rum. Quweira sits on the Desert Highway between [Aqaba](/asia/jordan/aqaba) and Amman, and it is where you stock up on water and supplies before heading east into the desert.

@@ -4,7 +4,7 @@ done:
 latitude: 44.3472
 loc_type: city
 longitude: 8.1647
-score: 6.9
+score: 4.749
 snippet: Agricultural Bormida valley commune with vineyard origins, a feudal castle,
   and Savoy-era history.
 tags:
@@ -12,6 +12,10 @@ tags:
 title: Roccavignale
 todo_location_cleanup: done
 type: location
+heritage: 3.482
+vibrancy: 1.742
+nature: 5.885
+off_the_beaten_track: 4.314
 ---
 
 Roccavignale is an agricultural commune in the upper valley of the Bormida, whose name derives from "Rocca Vineale" — a reference to the abundance of vineyards that once covered the surrounding hillsides. The village has a long feudal history: it belonged first to the Del Carretto marchesi, then from the 14th century to the marchesi del Monferrato, before passing as an imperial fief to the Kingdom of Savoy in 1714.

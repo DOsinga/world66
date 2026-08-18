@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Square,_Shrewsbury.JPG
 latitude: 52.7076
 loc_type: city
 longitude: -2.754
-score: 7.65
+score: 4.753
 snippet: Shropshire market town almost encircled by the River Severn, with medieval
   lanes and timbered houses.
 title: Shrewsbury
 type: location
+heritage: 5.283
+vibrancy: 4.029
+nature: 5.059
+off_the_beaten_track: 3.058
 ---
 
 Shrewsbury sits in a loop of the River Severn so tight that the town is nearly an island, which is exactly why it was such a prized defensive position for most of its thousand-year history. The old centre is a tangle of narrow medieval lanes — [the "shuts" and "passages"](/europe/unitedkingdom/england/west_midlands/shrewsbury/the_shuts) that thread between the black-and-white timber-framed buildings — and walking through it you get an unusually intact sense of what an English market town looked like before the twentieth century got to it.

@@ -5,12 +5,16 @@ done:
 latitude: 44.2714
 loc_type: city
 longitude: 8.4382
-score: 6.79
+score: 4.38
 snippet: Industrial Ligurian port town with Roman Vada Sabatia roots and Genoese fortifications.
 tags:
 - rivieradellepalme
 title: Vado Ligure
 type: location
+heritage: 3.428
+vibrancy: 2.269
+nature: 5.336
+off_the_beaten_track: 2.119
 ---
 
 Vado Ligure is a small industrial port town on the Riviera delle Palme, just west of Savona. It is not a typical tourist stop, but its Roman origins and handful of historic fortifications give it more character than the commercial port suggests.

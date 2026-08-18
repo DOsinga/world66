@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Panor%C3%A1mica_de_Ponferr
 latitude: 42.5454
 loc_type: city
 longitude: -6.5939
-score: 7.78
+score: 5.671
 snippet: Bierzo valley town on the Camino de Santiago, dominated by a large Templar
   castle.
 title: Ponferrada
 type: location
+heritage: 6.505
+vibrancy: 3.369
+nature: 5.58
+off_the_beaten_track: 3.357
 ---
 
 Ponferrada sits in the Bierzo valley of northwestern Spain, the last major stop on the Camino de Santiago before pilgrims climb into the mountains of Galicia. The town takes its name from a medieval iron bridge — *pons ferrata* — built in the 11th century to help pilgrims cross the Sil river.

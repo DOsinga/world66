@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Alofi_Bay_from_Namoui.jpg
 latitude: -19.053416
 loc_type: city
 longitude: -169.919199
-score: 7.66
+score: 5.506
 snippet: Tiny Niuean capital on a west-coast bay, with government buildings, cafes,
   and rocky sea access.
 title: Alofi
 type: location
+heritage: 2.722
+vibrancy: 1.282
+nature: 6.541
+off_the_beaten_track: 6.53
 ---
 
 Alofi is Niue's capital and only real town, with a population of under 1,000. It sits on the west coast and looks out over a wide bay. The cliffs here are lower than on much of the island, making access to the water easier, though there is no beach — just a rocky shoreline and a concrete pier.

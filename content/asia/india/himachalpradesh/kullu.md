@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Beas_Valley_-_Palchan_-_Ku
 latitude: 31.957897
 loc_type: city
 longitude: 77.108923
-score: 7.93
+score: 6.287
 snippet: Himalayan valley town on the Beas River, surrounded by apple orchards, cedar
   forests, and wooden temples.
 title: Kullu
 type: location
+heritage: 6.099
+vibrancy: 2.401
+nature: 7.159
+off_the_beaten_track: 4.676
 ---
 
 The Kullu Valley is one of the loveliest stretches of the Himalayas, a broad green corridor carved by the Beas River and flanked by densely forested ridges. Known as the *Valley of Gods*, it is studded with wooden temples dedicated to local deities, and the surrounding hills are terraced with apple orchards that turn the landscape pink each spring.

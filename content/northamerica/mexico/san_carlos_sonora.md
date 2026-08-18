@@ -5,11 +5,15 @@ done:
 latitude: 27.9723
 loc_type: city
 longitude: -111.0111
-score: 7.19
+score: 4.535
 title: San Carlos (Sonora)
 snippet: Sea of Cortez beach resort where desert hills drop to blue water beneath
   Cerro Tetakawi.
 type: location
+heritage: 1.846
+vibrancy: 2.582
+nature: 5.781
+off_the_beaten_track: 2.923
 ---
 
 San Carlos is a small beach resort on the Sea of Cortez, about 15 kilometres from the port of Guaymas in the state of Sonora. The setting is dramatic — copper-toned desert hills drop steeply into deep blue water, with the distinctive twin peaks of [Cerro Tetakawi](/northamerica/mexico/san_carlos_sonora/cerro_tetakawi) rising above the bay like a landmark.

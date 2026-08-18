@@ -9,13 +9,17 @@ image_source: https://www.flickr.com/photos/60057960@N06/52752353874
 latitude: 52.883269
 loc_type: city
 longitude: 5.360213
-score: 6.88
+score: 3.811
 snippet: Frisian harbour town on the IJsselmeer, with medieval city rights and the
   Vrouwe van Stavoren legend.
 tags:
 - friesland
 title: Stavoren
 type: location
+heritage: 3.724
+vibrancy: 1.952
+nature: 4.328
+off_the_beaten_track: 2.744
 ---
 
 With only 995 inhabitants Stavoren (Staveren or Starum in Frisian) is small but it is still the oldest city of Friesland. Located on the shores of the IJsselmeer, it received city rights in 1118.

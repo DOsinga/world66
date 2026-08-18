@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Belize_Caye_Caulker-221.jp
 latitude: 17.7456
 loc_type: city
 longitude: -88.0309
-score: 8.73
+score: 5.931
 snippet: Small Belizean coral island with no cars, budget guesthouses, and reef trips
   from The Split.
 title: Caye Caulker
 type: location
+heritage: 1.073
+vibrancy: 5.702
+nature: 6.437
+off_the_beaten_track: 2.336
 ---
 
 Caye Caulker is a small coral island about 35 km northeast of Belize City, and the budget traveler's alternative to the more developed Ambergris Caye. The main village is spread along one road — no cars, just bicycles and golf carts. The motto "Go Slow" is not just for tourists.

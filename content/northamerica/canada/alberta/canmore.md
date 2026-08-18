@@ -9,10 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Canmore_-_Alberta_-_panora
 latitude: 51.08669
 loc_type: city
 longitude: -115.348113
-score: 8.9
+score: 6.649
 snippet: Rocky Mountain town in the Bow Valley, east of Banff National Park.
 title: Canmore
 type: location
+heritage: 4.512
+vibrancy: 5.396
+nature: 7.698
+off_the_beaten_track: 1.947
 ---
 
 Canmore sits in the Bow Valley just east of [Banff National Park](/northamerica/canada/alberta/banff), surrounded by the same spectacular Rocky Mountain scenery but without the park fees or the tour-bus crowds. What was once a coal mining town reinvented itself after hosting the 1988 Winter Olympics Nordic events, and has since become a year-round outdoor base that many Albertans prefer to Banff itself.

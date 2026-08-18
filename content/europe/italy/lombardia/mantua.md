@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Dsc_1150_Mantua.jpg
 latitude: 45.169263
 loc_type: city
 longitude: 10.670837
-score: 8.75
+score: 5.793
 sources:
 - https://en.wikipedia.org/wiki/Mantua
 title: Mantua
 type: location
 snippet: Renaissance city of the Gonzaga, enclosed by Mincio lakes and grand palace
   complexes.
+heritage: 7.576
+vibrancy: 3.212
+nature: 3.453
+off_the_beaten_track: 2.685
 ---
 
 Mantua (Mantova in Italian) rose to its peak under the Gonzaga family, who came to power in 1328 and ruled until 1708. What they left behind is remarkable: two of the finest Renaissance palace complexes in Italy, churches designed by Alberti and Mantegna, and a cityscape that still feels largely intact. The old centre is a compact island of medieval streets opening onto grand piazzas, enclosed on three sides by the lakes formed by the Mincio river — the mist these lakes produce gives Mantua its characteristic hazy mornings.

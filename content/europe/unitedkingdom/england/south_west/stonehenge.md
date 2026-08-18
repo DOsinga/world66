@@ -7,12 +7,16 @@ snippet: Prehistoric stone circle on Salisbury Plain, set within a wider ritual 
   of barrows and avenues.
 title: Stonehenge
 type: location
-score: 9.08
+score: 7.387
 loc_type: feature
 image: stonehenge.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Stonehenge,_the_prehistoric_monument_in_Wiltshire,_England.jpg
 image_license: CC BY 2.0
 image_attribution: -JvL-
+heritage: 8.545
+vibrancy: 4.026
+nature: 7.106
+off_the_beaten_track: 2.324
 ---
 
 Stonehenge is the most famous prehistoric monument in Europe, a ring of massive standing stones on [Salisbury](/europe/unitedkingdom/england/south_west/salisbury) Plain in Wiltshire. The stones were raised in stages between roughly 3000 and 2000 BC, and how the largest sarsens — weighing up to 25 tonnes — were transported from Marlborough Downs, 25 miles to the north, remains a matter of debate. The site is a UNESCO World Heritage Site, managed by English Heritage.

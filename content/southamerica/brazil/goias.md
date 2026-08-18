@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -15.9339
 longitude: -50.14
-score: 7.2
+score: 4.173
 snippet: Former Goiás state capital and UNESCO-listed colonial town on the Red River.
 sources:
 - https://en.wikivoyage.org/wiki/Goi%C3%A1s_(city)
@@ -14,6 +14,10 @@ image: goias.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Houses_in_Goi%C3%A1s_city_(Brazil)_21.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Eugenio Hansen, OFS
+heritage: 3.766
+vibrancy: 4.359
+nature: 3.412
+off_the_beaten_track: 2.336
 ---
 
 Goiás, often called the City of Goiás, is the former capital of Goiás state and one of central Brazil's best preserved colonial towns. It began as Vila Boa during the eighteenth-century gold rush, when bandeirantes pushed into the interior and built churches, administrative houses, and narrow streets along the Red River.

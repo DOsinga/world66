@@ -7,11 +7,15 @@ done:
 latitude: 35.0457
 loc_type: city
 longitude: -85.3095
-score: 8.13
+score: 5.117
 title: Chattanooga
 type: location
 snippet: Tennessee River city between mountain ridges, with Civil War history and
   a revitalized downtown riverfront.
+heritage: 3.515
+vibrancy: 4.979
+nature: 5.472
+off_the_beaten_track: 2.133
 ---
 
 Chattanooga sits in a bend of the Tennessee River, wedged between the ridges of Lookout Mountain and Signal Mountain. It was a strategic prize during the Civil War -- three major battles were fought here in 1863 -- and spent much of the twentieth century as a gritty industrial town. The transformation since then has been remarkable. What was once one of America's most polluted cities now regularly appears on lists of the country's best small cities, with a revitalized downtown, a genuinely walkable riverfront, and outdoor recreation that punches well above its weight.

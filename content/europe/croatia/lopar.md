@@ -2,7 +2,7 @@
 latitude: 44.835
 loc_type: city
 longitude: 14.7167
-score: 7.6
+score: 4.916
 snippet: Village on Rab's northern peninsula, the base for the island's best sandy
   beaches
 sources:
@@ -15,6 +15,10 @@ image: lopar.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2014-12-08_09-34-18_11114.8_Croatia_Lopar.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Hansueli Krapf
+heritage: 3.509
+vibrancy: 2.819
+nature: 6.133
+off_the_beaten_track: 1.79
 ---
 
 Lopar is the main village on the northern peninsula of [Rab](/europe/croatia/rab), 14 kilometres by road from Rab town. It is quieter and more workaday than the old town, with a small harbour, a handful of restaurants, and a supermarket. Most visitors come for the beaches rather than the village itself.

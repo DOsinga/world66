@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Peniscola_from_the_beach._
 latitude: 40.3578
 loc_type: city
 longitude: 0.4074
-score: 8.13
+score: 5.499
 snippet: Costa del Azahar fishing resort beneath Peñíscola's walled headland and papal
   castle.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Peniscola_Castle
 title: Peñíscola
 type: location
+heritage: 4.404
+vibrancy: 5.515
+nature: 5.459
+off_the_beaten_track: 2.493
 ---
 
 Peñíscola is a small fishing village turned popular resort on the Costa del Azahar, dominated by a rocky promontory that juts into the Mediterranean. The medieval [castle](/europe/spain/valencian_community/peniscola/castle) and [walled old town](/europe/spain/valencian_community/peniscola/old_town) perched on the headland make it one of the most visually striking towns on Spain's east coast — and one of the most photographed.

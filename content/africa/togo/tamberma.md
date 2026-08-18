@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:La_cit%C3%A9_des_Batamarib
 latitude: 10.0833
 loc_type: city
 longitude: 1.1333
-score: 6.57
+score: 4.052
 snippet: Batammariba cultural landscape in northern Togo, known for fortified mud
   takienta houses.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://whc.unesco.org/en/list/1140/
 title: Tamberma
 type: location
+heritage: 3.164
+vibrancy: 1.541
+nature: 3.51
+off_the_beaten_track: 6.748
 ---
 
 Some 65,000 Batammariba people live in the savannahs of northern Togo, just north of [Kara](/africa/togo/kara). They practice subsistence farming, growing millet, sorghum, yams, and a variety of other crops. Domestic goats, cattle, and guinea fowl supply meat, though hunting and fishing also supplement the diet.

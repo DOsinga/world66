@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gwalior_1991.jpg
 latitude: 26.2125
 loc_type: city
 longitude: 78.1775
-score: 7.22
+score: 5.003
 snippet: Madhya Pradesh fortress city where sandstone cliffs, Scindia palaces, and
   carved temples dominate the skyline.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Gwalior
 title: Gwalior
 type: location
+heritage: 5.683
+vibrancy: 4.517
+nature: 3.736
+off_the_beaten_track: 2.725
 ---
 
 Gwalior is one of central India's great fortress cities, dominated by a long sandstone ridge that rises abruptly above the plain. The fort is visible from half the city and still feels like the place's organising fact: palaces, temples, Jain carvings and ramparts all sit on or around that dramatic slab of rock.

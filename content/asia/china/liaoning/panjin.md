@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:%E7%9B%98%E9%94%A6%E7%BA%A
 latitude: 41.1167
 loc_type: city
 longitude: 122.05
-score: 6.72
+score: 3.73
 snippet: Liaoning oil city on the Liaohe delta, famous for autumn crimson marshes
   at Red Beach
 sources:
 - https://en.wikivoyage.org/wiki/Panjin
 title: Panjin
 type: location
+heritage: 1.553
+vibrancy: 1.225
+nature: 4.83
+off_the_beaten_track: 3.12
 ---
 
 Panjin is an oil city built on a wetland delta, and its defining attraction is a geographic accident: every autumn, the vast reed marshes at the mouth of the Liaohe River turn a saturated crimson red, the colour coming from Suaeda salsa seaweed that stains the mudflats as the season turns. The [Red Beach Scenic Area](/asia/china/liaoning/panjin/red_beach_scenic_area) covers twenty square kilometres of this and is unlike anything else in China — a landscape that looks more like a colour-saturated photograph than a real place, set against the grey of the Bohai Sea.

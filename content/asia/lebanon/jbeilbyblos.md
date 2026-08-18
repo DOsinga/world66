@@ -6,7 +6,7 @@ latitude: 34.120244
 longitude: 35.651858
 title: Jbeil (Byblos)
 type: location
-score: 8.49
+score: 5.618
 loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Byblos
@@ -16,6 +16,10 @@ image_license: CC BY-SA 2.0
 image_attribution: tongeron91 on Flickr
 snippet: Byblos is an ancient Lebanese port city with Phoenician, Roman, Crusader,
   and Ottoman remains.
+heritage: 6.678
+vibrancy: 4.41
+nature: 4.998
+off_the_beaten_track: 2.427
 ---
 
 Byblos (Jbeil in Arabic) is one of the oldest continuously inhabited cities in the world, with a history stretching back over 9,000 years. Located 37 km north of [Beirut](/asia/lebanon/beirut), it has been occupied by Phoenicians, Egyptians, Assyrians, Greeks, Romans, Arabs, Crusaders and Ottomans, each leaving traces that make it one of the richest archaeological sites in the Middle East.

@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:ET_Mekele_asv2018-01_img19
 latitude: 13.4967
 loc_type: city
 longitude: 39.4769
-score: 5.91
+score: 4.104
 snippet: Tigrayan plateau city in northern Ethiopia, used as a base for Danakil and
   rock-church journeys.
 title: Mekele
 type: location
+heritage: 4.146
+vibrancy: 1.817
+nature: 1.8
+off_the_beaten_track: 6.521
 ---
 
 Mekele is the capital of the Tigray region in northern Ethiopia, sitting at about 2,000 metres above sea level on a plateau east of the Ethiopian Highlands. It's a city shaped by imperial history — Emperor Yohannes IV made it his capital in the 1870s — and more recently by conflict; the city was at the centre of the Tigray war that devastated the region from 2020 to 2022.

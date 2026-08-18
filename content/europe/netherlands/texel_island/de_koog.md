@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:00_2550_Texel,_De_Koog_-_B
 latitude: 53.099882
 loc_type: city
 longitude: 4.762646
-score: 7.71
+score: 5.267
 snippet: Texel resort village set behind the North Sea dunes and the island's long
   beach.
 title: De Koog
 type: location
+heritage: 2.751
+vibrancy: 4.361
+nature: 6.057
+off_the_beaten_track: 1.762
 ---
 
 De Koog is Texel's main resort village, a ten-minute bike ride from the island's long North Sea beach. It's the liveliest spot on the island, with the highest concentration of restaurants, beach bars, and accommodation — which also means it can feel a little touristy in summer. Most visitors use it as a base and spend their days out on the dunes and beach.

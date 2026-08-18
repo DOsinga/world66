@@ -10,7 +10,7 @@ quick_facts:
   On the Indian Ocean: A historic port
   Once Called: '''Pearl of the Indian Ocean'''
   Population: ~2.6 million
-score: 1.23
+score: 4.832
 snippet: Historic Somali port capital on the Indian Ocean, with old trading roots
   and Lido Beach life.
 tip: Mogadishu remains a high-risk destination — check your government's advisories,
@@ -20,6 +20,10 @@ tip: Mogadishu remains a high-risk destination — check your government's advis
   well in advance.
 title: Mogadishu
 type: location
+heritage: 2.291
+vibrancy: 1.83
+nature: 2.062
+off_the_beaten_track: 9.235
 ---
 
 Mogadishu — Xamar in Somali — is Somalia's capital and largest city, with a population of around 2.5 million. It is one of the oldest continuously inhabited cities in East Africa, founded by Arab and Persian traders in the 10th century. By the 13th century it was a wealthy commercial hub trading gold, ivory, and cloth with the Arabian Peninsula and India. The port was later controlled by the sultan of Zanzibar and then the Italian colonial government before Mogadishu became capital of independent Somalia in 1960.

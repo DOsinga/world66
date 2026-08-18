@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Faroe_Islands,_Streymoy,_K
 latitude: 61.9537
 loc_type: city
 longitude: -6.7934
-score: 8.08
+score: 7.025
 snippet: Historic Streymoy village with medieval church ruins and one of the Faroe
   Islands' oldest farmhouses.
 title: Kirkjubour
 type: location
+heritage: 7.875
+vibrancy: 1.598
+nature: 7.326
+off_the_beaten_track: 5.054
 ---
 
 Kirkjubour was the medieval capital of the Faroe Islands, the seat of its bishop and a place of some importance in the Norse world. Today it's a small village on the southwest coast of Streymoy with remarkable views across the sound to the islands of [Sandoy](/europe/faroeislands/sandoy), Hestur, and Koltur, and beyond to [Vagar](/europe/faroeislands/vagar) with its airport.

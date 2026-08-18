@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kitakyushu_Montage.jpg
 latitude: 33.883
 loc_type: city
 longitude: 130.8749
-score: 0.55
+score: 4.674
 snippet: Northern Kyushu industrial city on the Kanmon Strait, shaped by steel, coal,
   and port history.
 title: Kitakyushu
 type: location
+heritage: 4.009
+vibrancy: 4.838
+nature: 4.25
+off_the_beaten_track: 2.048
 ---
 
 Kitakyushu sits at the northern tip of Kyushu, looking across the narrow Kanmon Strait to Honshu. It's a city built on steel and coal — one of Japan's great industrial heartlands — and it carries that history visibly in its architecture, its port districts, and its gritty, unpretentious character.

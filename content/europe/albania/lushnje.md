@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Lushnj%C3%AB,_Albania_2019
 latitude: 40.942204
 loc_type: city
 longitude: 19.705972
-score: 5.66
+score: 6.14
 snippet: Central Albanian market town in a fertile plain, remembered for the 1920
   Congress of Lushnjë.
 title: Lushnjë
 type: location
+heritage: 5.118
+vibrancy: 1.738
+nature: 7.347
+off_the_beaten_track: 4.814
 ---
 
 Lushnjë is a town of central-west Albania, about halfway between Durrës and Fier on the main road south. It sits in a flat agricultural plain and serves as the main market town for the surrounding region, which is one of Albania's most fertile and a primary supplier of vegetables and grain to the rest of the country.

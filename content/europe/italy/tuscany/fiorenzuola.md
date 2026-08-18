@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:05021_Firenzuola_TR,_Italy
 latitude: 44.1167
 loc_type: city
 longitude: 11.3833
-score: 7.0
+score: 5.237
 snippet: Quiet Apennine town of grey pietra serena stone, Gothic Line history, and
   mountain passes.
 sources:
@@ -19,6 +19,10 @@ tags:
 - mugello
 title: Firenzuola
 type: location
+heritage: 4.935
+vibrancy: 1.927
+nature: 6.025
+off_the_beaten_track: 3.534
 ---
 
 Firenzuola is a small Apennine town on the northern edge of Tuscany, closer in spirit to mountain passes and stone quarries than to postcard Florence. The name means "little Florence", but do not come expecting Renaissance polish. Come for pietra serena, chestnut woods, wartime scars, and a colder, rougher Tuscan landscape.

@@ -5,7 +5,7 @@ done:
   location_enrich: '2026-05-27'
 latitude: 5.8242
 longitude: -55.1561
-score: 7.54
+score: 4.92
 title: Paramaribo
 snippet: Tropical Dutch colonial capital where wooden houses, riverfront forts, and
   Suriname's cultures meet.
@@ -19,6 +19,10 @@ sources:
 - https://en.wikipedia.org/wiki/Paramaribo
 - https://en.wikipedia.org/wiki/Waterkant_(Paramaribo)
 - https://en.wikipedia.org/wiki/Fort_Zeelandia_(Paramaribo)
+heritage: 4.232
+vibrancy: 4.844
+nature: 5.115
+off_the_beaten_track: 3.941
 ---
 
 Paramaribo is one of the most unusual capitals in the Americas — a Dutch colonial city transplanted into the tropics, where wooden plantation houses line broad avenues and the sound of church bells, mosque calls, and Hindu temple music can all be heard from the same street corner. The historic inner city, a UNESCO World Heritage Site, is a testament to Suriname's improbable mix of cultures: Dutch, Creole, Javanese, Hindustani, Chinese, and indigenous communities have coexisted here for centuries, and the architecture, food, and faces of the city reflect every one of them.

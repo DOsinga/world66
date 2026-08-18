@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 34.2333
 longitude: 135.1667
-score: 7.1
+score: 5.144
 snippet: Kansai castle city by the Kii Channel, with Tokugawa history, old temples,
   and coastal shrines.
 sources:
@@ -15,6 +15,10 @@ image: wakayama.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Wakayama_Castle19nt3200.jpg
 image_license: CC BY 2.5
 image_attribution: 663highland
+heritage: 5.481
+vibrancy: 3.578
+nature: 5.65
+off_the_beaten_track: 3.67
 ---
 
 Wakayama sits south of Osaka on the Kii Channel, close enough for a day trip but different in mood from the big Kansai cities. It has a reconstructed hilltop castle, old Kishu Tokugawa associations, sea-facing shrines, and a working local food scene built around ramen, shirasu, and red sea bream.

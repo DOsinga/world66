@@ -7,11 +7,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Port_-_Lerici,_La_Spezia,_
 latitude: 44.14828
 loc_type: feature
 longitude: 8.271494
-score: 8.4
+score: 6.506
 snippet: Ligurian coastal region of terraced hills, pastel fishing villages, resort
   beaches, and steep Mediterranean coves.
 title: Italian Riviera
 type: location
+heritage: 5.5
+vibrancy: 6.542
+nature: 6.413
+off_the_beaten_track: 1.985
 ---
 
 The Italian Riviera runs for about 350 km along the Ligurian coast, from Ventimiglia on the French border to La Spezia in the east. It's a landscape of steep terraced hillsides dropping to the sea, pastel-painted fishing villages, and a coastline that shifts from pebbly coves to wide sandy beaches depending on where you land.

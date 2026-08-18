@@ -1,12 +1,16 @@
 ---
 latitude: -4.1058
 loc_type: city
-longitude: -81.0500
-score: 7.2
+longitude: -81.05
+score: 5.654
 snippet: Peru's busiest beach resort, with a long surf break, warm water, and a lively
   hostel scene on the northern Pacific coast.
 title: Máncora
 type: location
+heritage: 2.806
+vibrancy: 1.538
+nature: 6.747
+off_the_beaten_track: 6.608
 ---
 
 Máncora is Peru's most popular beach destination, a small town on the northern Pacific coast where the water is warmer than anywhere else in the country and the surf breaks are reliable almost year-round. It sits about 180 kilometres north of [Piura](/southamerica/peru/piura) along the Panamericana, close enough to the Ecuadorian border to feel subtropical rather than desert. The beach is wide and sandy, the vibe is relaxed and social, and the place fills up with a mix of Peruvian families, surfers, and backpackers passing between Peru and Ecuador.

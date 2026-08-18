@@ -10,7 +10,7 @@ quick_facts:
   Juche Tower: A 170 m monument
   Population: ~3 million
   Ryugyong Hotel: A 330 m pyramid, long unfinished
-score: 2.54
+score: 4.759
 snippet: Monumental North Korean capital rebuilt along the Taedong River as a showcase
   of socialist state design
 sources:
@@ -22,6 +22,10 @@ tip: 'Pyongyang can only be visited on a state-approved guided tour — independ
   officials and statues.'
 title: Pyongyang
 type: location
+heritage: 2.073
+vibrancy: 5.001
+nature: 3.466
+off_the_beaten_track: 5.858
 ---
 
 Pyongyang is unlike any other capital city. It was rebuilt from near-total destruction after the Korean War and designed as an advertisement for the socialist state — wide boulevards, monumental plazas, heroic statuary, and apartment blocks in pastel colours arranged along the Taedong River. It works, visually. On a clear day, with the city laid out below you from atop the [Juche Tower](/asia/northkorea/pyongyang/juche_tower), it is genuinely beautiful in a deeply strange way.

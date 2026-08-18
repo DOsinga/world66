@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 32.8283
 longitude: -109.7127
-score: 6.8
+score: 5.043
 snippet: Gila Valley desert town with hot springs, riparian canyons, and Mount Graham
   astronomy.
 wikidata: Q79767
@@ -17,6 +17,10 @@ image: safford.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Safford,_Arizona.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Ken Lund
+heritage: 2.386
+vibrancy: 1.376
+nature: 6.261
+off_the_beaten_track: 5.098
 ---
 
 Safford sits in Arizona's Gila Valley, below the Pinaleño Mountains and the long rise of Mount Graham. The town itself is practical and low-key, but the surrounding desert and mountains give it enough substance for a real stop between [Tucson](/northamerica/unitedstates/arizona/tucson), the White Mountains, and the New Mexico line.

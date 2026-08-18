@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kanchanaburi_city_gate.JPG
 latitude: 14.0019
 loc_type: city
 longitude: 99.5319
-score: 8.65
+score: 4.176
 snippet: Western Thai provincial capital marked by Death Railway history and nearby
   jungle waterfalls.
 title: Kanchanaburi
 type: location
+heritage: 5.415
+vibrancy: 2.409
+nature: 2.235
+off_the_beaten_track: 3.368
 ---
 
 Kanchanaburi is a provincial capital in western Thailand, about 130 kilometres from Bangkok, best known as the site of the Death Railway and the Bridge on the River Kwai. During World War II, the Japanese forced Allied prisoners of war and Asian labourers to build a railway through the jungle to connect Thailand with Burma — tens of thousands died in the process. That history is palpable everywhere in the town: war cemeteries, museums reconstructing the camps, and the bridge itself, still used by local trains, draw visitors from across the world.

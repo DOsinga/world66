@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:By_Jdcedit_-_Bangus_Festiv
 latitude: 16.0433
 loc_type: city
 longitude: 120.3341
-score: 6.38
+score: 3.615
 title: Dagupan City
 type: location
 snippet: Pangasinan coastal city where rivers, fishponds, and markets revolve around
   bangus milkfish.
+heritage: 3.169
+vibrancy: 3.622
+nature: 3.597
+off_the_beaten_track: 2.52
 ---
 
 Dagupan is the *bangus* (milkfish) capital of the Philippines. This coastal city in Pangasinan province sits where the Dagupan River meets the Lingayen Gulf, and its economy and identity revolve around the silvery fish farmed in the surrounding [fishponds](/asia/philippines/dagupancity/bonuan_fishponds) and estuaries. If you are passing through the northern Luzon coast, it is worth stopping for the food alone.

@@ -8,10 +8,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Kalutara_Ci
 latitude: 6.57453
 loc_type: city
 longitude: 80.028631
-score: 7.95
+score: 4.066
 snippet: Coastal town south of Colombo where the Kalu Ganga meets the Indian Ocean.
 title: Kalutara
 type: location
+heritage: 2.996
+vibrancy: 2.537
+nature: 4.987
+off_the_beaten_track: 4.309
 ---
 
 Kalutara is a small coastal town about 42 kilometres south of Colombo, sitting at the mouth of the Kalu Ganga river where it meets the Indian Ocean. It has a pleasant [palm-fringed beach](/asia/srilanka/kalutara/kalutara_beach), a modest centre of markets and busy roads, and two of the more distinctive sights on the southwest coast: the [Gangatilaka Vihara](/asia/srilanka/kalutara/gangatilaka_vihara), a hollow stupa whose interior chamber visitors can enter, and [Richmond Castle](/asia/srilanka/kalutara/richmond_castle), an eccentric colonial-era mansion built with exactly 99 doors and windows.

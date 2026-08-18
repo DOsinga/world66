@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:1_Khajuraho.jpg
 latitude: 24.851513
 loc_type: city
 longitude: 79.925979
-score: 8.55
+score: 6.031
 snippet: Madhya Pradesh temple town famed for Chandela-era sandstone shrines covered
   in intricate sculpture.
 sources:
 - https://en.wikipedia.org/wiki/Khajuraho_Group_of_Monuments
 title: Khajuraho
 type: location
+heritage: 7.896
+vibrancy: 2.905
+nature: 3.718
+off_the_beaten_track: 3.555
 ---
 
 Khajuraho is one of India's great surprises — a small, dusty town in the middle of Madhya Pradesh that happens to contain one of the most extraordinary groups of medieval temples in the world. The [Khajuraho Group of Monuments](/asia/india/madhyapradesh/khajuraho/khajuraho_group_of_monuments) is a UNESCO World Heritage Site: around 25 surviving temples built by the Chandela dynasty between roughly 950 and 1050 CE, covered in thousands of sculptures including the frankly erotic carvings that have made the site famous worldwide.

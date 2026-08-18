@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Mehring_Rathaus_Bachstra%C
 latitude: 49.798
 loc_type: city
 longitude: 6.8253
-score: 7.41
+score: 3.657
 snippet: Quiet Mosel wine village near Schweich, known for Goldkupp, Zellerberg, and
   Blattenberg vineyards.
 title: Mehring
 type: location
+heritage: 3.887
+vibrancy: 1.58
+nature: 4.021
+off_the_beaten_track: 2.593
 ---
 
 Mehring is a quiet wine village on the Mosel, about 25 minutes by car downriver from Schweich. It is not as famous as many other places along the Mosel, which is a shame — it is a very pleasant village, a good and affordable base for discovering the valley by hiking or biking. The setting is glorious Mosel scenery, and [Trier](/europe/germany/rhinelandpalatinate/trier) and Luxembourg are within easy reach.

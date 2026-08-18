@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Deogad_Beach_in_Sindhudurg
 latitude: 16.3808
 loc_type: city
 longitude: 73.3565
-score: 6.2
+score: 5.282
 snippet: Konkan coastal town with a sheltered harbour, fishing boats, and Alphonso
   mango orchards
 title: Deogad
 type: location
+heritage: 3.713
+vibrancy: 3.582
+nature: 6.457
+off_the_beaten_track: 5.102
 ---
 
 Deogad (also written Devgad) is a small coastal town on the Sindhudurga district's northern shore, about 500 km south of Mumbai along the Mumbai–Goa highway. It sits on a narrow peninsula backed by a well-sheltered natural harbour — one of the few ports on this coast that stays navigable during the monsoon. Fishing is the main livelihood here, and the catch comes in daily.

@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aranjuez_PalacioReal_Plaza
 latitude: 40.032229
 loc_type: city
 longitude: -3.60401
-score: 8.29
+score: 4.988
 snippet: Royal retreat town south of Madrid, shaped by palace gardens along the Tagus
   River.
 title: Aranjuez
 type: location
+heritage: 4.828
+vibrancy: 5.087
+nature: 2.941
+off_the_beaten_track: 0.837
 ---
 
 Aranjuez sits about 50 kilometres south of [Madrid](/europe/spain/madrid) on the banks of the Tagus, and has been a royal retreat since the time of Philip II. The town is officially designated a Royal Site and a UNESCO World Heritage Site, and it shows — the scale and grandeur of the place is entirely out of proportion to its modest size.

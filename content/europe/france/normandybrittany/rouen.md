@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Rouen_(37903223574).jpg
 latitude: 49.440459
 loc_type: city
 longitude: 1.093966
-score: 8.67
+score: 6.199
 snippet: Norman cathedral city on the Seine, marked by Joan of Arc history and half-timbered
   lanes.
 title: Rouen
 type: location
+heritage: 7.445
+vibrancy: 4.778
+nature: 4.089
+off_the_beaten_track: 1.923
 ---
 
 Rouen is Normandy's cultural capital, a cathedral city on the Seine that has been important since the Vikings sailed upriver in the 9th century and made it the capital of their new duchy. Joan of Arc was burned at the stake in the old market square in 1431, and the spot is now marked by a [striking modern church](/europe/france/normandybrittany/rouen/church_of_saint_joan_of_arc) with stained glass salvaged from a medieval predecessor destroyed in the war.

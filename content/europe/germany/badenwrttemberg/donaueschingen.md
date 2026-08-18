@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Schlos
 latitude: 47.953419
 loc_type: city
 longitude: 8.495926
-score: 6.93
+score: 4.77
 snippet: Black Forest town claiming the Danube's source beside the spring in Fürstenberg
   Palace grounds
 title: Donaueschingen
 type: location
+heritage: 3.676
+vibrancy: 2.407
+nature: 5.835
+off_the_beaten_track: 3.505
 ---
 
 Donaueschingen claims the title of the source of the Danube, and while geographers might quibble about whether the river really begins here or a few kilometres upstream where the Breg and Brigach rivers merge, the town has made the most of the claim. The [Donauquelle](/europe/germany/badenwrttemberg/donaueschingen/donauquelle), a circular spring in the grounds of the Fürstenberg Palace, is dressed up with an allegorical sculpture and is the most-photographed spot in town. From this modest beginning, the Danube flows 2,850 kilometres to the Black Sea, passing through ten countries along the way.

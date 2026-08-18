@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:240529_St_Nicholas_Fortres
 latitude: 43.7341
 loc_type: city
 longitude: 15.8945
-score: 8.88
+score: 4.475
 snippet: Adriatic medieval city with Croatian roots, hilltop fortresses, and a stone-and-marble
   UNESCO cathedral.
 tags:
 - dalmatia
 title: Sibenik
 type: location
+heritage: 4.965
+vibrancy: 3.853
+nature: 4.784
+off_the_beaten_track: 3.107
 ---
 
 Sibenik is the oldest native Croatian city on the Adriatic, founded by Croats rather than Greeks or Romans. It sits at the mouth of the Krka River where it meets the sea, a compact medieval town of steep limestone streets, fortresses on the surrounding hills, and one genuinely remarkable cathedral.

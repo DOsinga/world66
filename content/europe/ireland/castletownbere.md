@@ -4,7 +4,7 @@ done:
 latitude: 51.652
 loc_type: city
 longitude: -9.909
-score: 6.9
+score: 5.335
 snippet: West Cork fishing port on the Beara Peninsula, sheltered by Bere Island and
   mountain roads.
 sources:
@@ -16,6 +16,10 @@ image: castletownbere.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Castletownbere_Harbour_-_geograph.org.uk_-_2709113.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Robert W Watt
+heritage: 4.696
+vibrancy: 2.587
+nature: 6.279
+off_the_beaten_track: 4.958
 ---
 
 Castletownbere sits near the far end of the Beara Peninsula, where a working fishing harbour cuts into one of the most rugged corners of West Cork. It is not a polished seaside town. Nets, trucks, fish boxes and grey industrial corners are part of the picture, but so are dark hills, Atlantic light, and a harbour so well sheltered by [Bere Island](/europe/ireland/castletownbere/bere_island) that it has been strategically important for centuries.

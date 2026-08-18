@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Castle_at_Mosonmagyar%C3%B
 latitude: 47.873179
 loc_type: city
 longitude: 17.272234
-score: 6.23
+score: 3.882
 title: Mosonmagyaróvár
 snippet: Northwestern Hungarian border town where the Lajta meets the Mosoni-Danube
   near Austria and Slovakia.
 type: location
+heritage: 3.832
+vibrancy: 3.93
+nature: 3.229
+off_the_beaten_track: 2.474
 ---
 
 Mosonmagyaróvár is a small town of about 30,000 people in the far northwest corner of Hungary, just 15 kilometres from both the Austrian and Slovak borders. It sits where the Lajta river meets the Mosoni-Danube, and its position on the old trade route between the Hungarian plains and Vienna shaped its history — the Romans had a garrison here, the Habsburgs made it a private domain, and Napoleon's army passed through in 1809.

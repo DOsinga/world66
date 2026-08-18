@@ -4,13 +4,19 @@ type: location
 loc_type: city
 latitude: 45.78
 longitude: -66.15
-score: 5.7
-snippet: Small Saint John River village with Loyalist heritage, old museums, and a quiet arts streak.
+score: 4.554
+snippet: Small Saint John River village with Loyalist heritage, old museums, and a
+  quiet arts streak.
 sources:
-  - https://en.wikivoyage.org/wiki/Gagetown
-  - https://www.queenscountyheritage.com/
-  - https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=15950
-original_overview: "Wikivoyage describes Gagetown as a small Saint John River village, birthplace of Leonard Tilley and home to heritage museums and a marina."
+- https://en.wikivoyage.org/wiki/Gagetown
+- https://www.queenscountyheritage.com/
+- https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=15950
+original_overview: Wikivoyage describes Gagetown as a small Saint John River village,
+  birthplace of Leonard Tilley and home to heritage museums and a marina.
+heritage: 3.776
+vibrancy: 1.893
+nature: 5.458
+off_the_beaten_track: 3.191
 ---
 
 Gagetown is a small village on the Saint John River between [Fredericton](/northamerica/canada/newbrunswick/fredericton) and [Saint John](/northamerica/canada/newbrunswick/saintjohn). It is easily confused with the nearby military base at Oromocto, but the village itself is quieter and older: riverfront lanes, Loyalist-era stories, and a cluster of heritage museums.

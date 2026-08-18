@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Kairouan_P
 latitude: 35.67101
 loc_type: city
 longitude: 10.10062
-score: 8.1
+score: 5.631
 snippet: North African Islamic city founded in 670, centred on the Great Mosque and
   medina shrines
 title: Kairouan
 type: location
+heritage: 7.199
+vibrancy: 3.456
+nature: 2.551
+off_the_beaten_track: 4.07
 ---
 
 Kairouan is one of the great Islamic cities of North Africa. Founded in 670 AD as the first Arab capital of the Maghreb, it is widely regarded as the fourth holiest city in Islam after Mecca, Medina, and Jerusalem — a claim that may be debated, but the city's religious significance is beyond question. Seven pilgrimages to Kairouan are said to equal one to Mecca.

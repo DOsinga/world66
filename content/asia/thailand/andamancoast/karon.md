@@ -10,13 +10,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Karonbeach_2004.jpg
 latitude: 7.84752
 loc_type: city
 longitude: 98.298114
-score: 8.7
+score: 4.964
 snippet: Phuket beach resort with a broad three-kilometre bay between calmer Kata
   and louder Patong.
 tags:
 - phuket
 title: Karon
 type: location
+heritage: 1.842
+vibrancy: 4.977
+nature: 4.93
+off_the_beaten_track: 1.443
 ---
 
 Karon is [Phuket](/asia/thailand/andamancoast/phuket)'s second-largest beach after Patong, stretching about three kilometres along the Andaman Sea coast. It sits between [Kata](/asia/thailand/andamancoast/kata) to the south and Patong to the north, and strikes a middle ground between the two — livelier than Kata, calmer than Patong.

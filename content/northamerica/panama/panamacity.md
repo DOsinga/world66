@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Panama_Papers_(148830809).
 latitude: 8.9824
 loc_type: city
 longitude: -79.5199
-score: 8.31
+score: 5.348
 snippet: Cosmopolitan Pacific capital where glass towers, Casco Viejo, Panamá Viejo,
   and the canal converge.
 title: Panama City
 type: location
+heritage: 4.413
+vibrancy: 5.079
+nature: 5.835
+off_the_beaten_track: 2.374
 ---
 
 Panama City is the capital of Panama and, for its size, one of the most dramatically cosmopolitan cities in Latin America. Its skyline is unmistakable: a long wall of glass-and-steel towers rising above the Pacific across a crescent bay, the closest thing Central America has to Miami or Hong Kong. Behind that modern skyline sits a much older city — the **Casco Viejo**, founded in 1673 after pirates led by Henry Morgan sacked and burned the original settlement of Panamá Viejo. Between the two, the **Panama Canal** runs straight out of the city into the jungle, and it is the canal, still, that defines almost everything about this place: the money that built the towers, the flags of convenience, the ships queued up offshore, the banks that launder them.

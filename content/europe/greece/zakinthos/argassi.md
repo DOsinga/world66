@@ -4,7 +4,7 @@ done:
 latitude: 37.7667
 loc_type: city
 longitude: 20.9167
-score: 7.33
+score: 5.139
 snippet: Busy Zakynthos beach resort just south of the island capital, with tavernas,
   boat trips, and a half-submerged bridge.
 sources:
@@ -15,6 +15,10 @@ image: argassi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Argasi,_Zakynthos,_Greece_01.jpg
 image_license: CC BY 3.0
 image_attribution: Christaras A
+heritage: 2.017
+vibrancy: 4.114
+nature: 5.978
+off_the_beaten_track: 1.916
 ---
 
 Argassi is the easiest beach-resort add-on to [Zakynthos City](/europe/greece/zakinthos/zakynthoscity): close enough for dinner in the capital, but with its own strip of tavernas, bars, boat desks, and sunbeds along the southeast coast. It is not the prettiest village on Zakynthos, and in high summer the main road can feel more functional than charming, but it is convenient, lively, and well placed for short trips around the island.

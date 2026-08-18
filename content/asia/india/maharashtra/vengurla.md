@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Vengurla_Bandar_2022-12-17
 latitude: 15.862
 loc_type: city
 longitude: 73.6322
-score: 6.13
+score: 5.053
 snippet: Konkan coast town near Goa, with cashew groves, fishing beaches, and Dutch-era
   fort remains.
 title: Vengurla
 type: location
+heritage: 4.259
+vibrancy: 3.414
+nature: 6.027
+off_the_beaten_track: 3.791
 ---
 
 Vengurla is a small coastal town at the far southern tip of Maharashtra's Konkan coast, right on the border with Goa. It sees almost no foreign tourists and not many domestic ones either — which is part of the charm. The beaches are long, clean, and empty; the backdrop is a semicircle of low hills covered in cashew, mango, and coconut plantations; and the town itself is a sleepy grid of temples, an old port, and a lighthouse on a cliff with a view back over the whole bay.

@@ -1,0 +1,778 @@
+[
+  {
+    "embedding_text": "Tiraspol, Moldova, Europe",
+    "lat": 46.83711,
+    "latitude": 46.83711,
+    "lng": 29.610999,
+    "longitude": 29.610999,
+    "name": "Tiraspol",
+    "parent": "Europe, Moldova",
+    "parent_chain": [
+      "Europe",
+      "Moldova"
+    ],
+    "path": "europe/moldova/tiraspol",
+    "url": "/europe/moldova/tiraspol/"
+  },
+  {
+    "embedding_text": "Forks, Olympic Peninsula, Washington, United States, North America",
+    "lat": 47.9504,
+    "latitude": 47.9504,
+    "lng": -124.3855,
+    "longitude": -124.3855,
+    "name": "Forks",
+    "parent": "North America, United States, Washington, Olympic Peninsula",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Washington",
+      "Olympic Peninsula"
+    ],
+    "path": "northamerica/unitedstates/washington/olympicpeninsula/forks",
+    "url": "/northamerica/unitedstates/washington/olympicpeninsula/forks/"
+  },
+  {
+    "embedding_text": "Onomichi, Honshu, Japan, Asia",
+    "lat": 34.408875,
+    "latitude": 34.408875,
+    "lng": 133.205026,
+    "longitude": 133.205026,
+    "name": "Onomichi",
+    "parent": "Asia, Japan, Honshu",
+    "parent_chain": [
+      "Asia",
+      "Japan",
+      "Honshu"
+    ],
+    "path": "asia/japan/honshu/onomichi",
+    "url": "/asia/japan/honshu/onomichi/"
+  },
+  {
+    "embedding_text": "Bretton Woods, New Hampshire, United States, North America",
+    "lat": 44.2659,
+    "latitude": 44.2659,
+    "lng": -71.4352,
+    "longitude": -71.4352,
+    "name": "Bretton Woods",
+    "parent": "North America, United States, New Hampshire",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "New Hampshire"
+    ],
+    "path": "northamerica/unitedstates/newhampshire/bretton_woods",
+    "url": "/northamerica/unitedstates/newhampshire/bretton_woods/"
+  },
+  {
+    "embedding_text": "Yuncheng, Shanxi Province, China, Asia",
+    "lat": 35.0267,
+    "latitude": 35.0267,
+    "lng": 111.007,
+    "longitude": 111.007,
+    "name": "Yuncheng",
+    "parent": "Asia, China, Shanxi Province",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Shanxi Province"
+    ],
+    "path": "asia/china/shanxiprovince/yuncheng",
+    "url": "/asia/china/shanxiprovince/yuncheng/"
+  },
+  {
+    "embedding_text": "Shiprock, New Mexico, United States, North America",
+    "lat": 36.7858,
+    "latitude": 36.7858,
+    "lng": -108.6845,
+    "longitude": -108.6845,
+    "name": "Shiprock",
+    "parent": "North America, United States, New Mexico",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "New Mexico"
+    ],
+    "path": "northamerica/unitedstates/newmexico/shiprock",
+    "url": "/northamerica/unitedstates/newmexico/shiprock/"
+  },
+  {
+    "embedding_text": "Mesnil-Val, Normandy and Brittany, France, Europe",
+    "lat": 50.041943,
+    "latitude": 50.041943,
+    "lng": 1.334025,
+    "longitude": 1.334025,
+    "name": "Mesnil-Val",
+    "parent": "Europe, France, Normandy and Brittany",
+    "parent_chain": [
+      "Europe",
+      "France",
+      "Normandy and Brittany"
+    ],
+    "path": "europe/france/normandybrittany/mesnilval",
+    "url": "/europe/france/normandybrittany/mesnilval/"
+  },
+  {
+    "embedding_text": "Suqian, Jiangsu Province, China, Asia",
+    "lat": 33.963,
+    "latitude": 33.963,
+    "lng": 118.276,
+    "longitude": 118.276,
+    "name": "Suqian",
+    "parent": "Asia, China, Jiangsu Province",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Jiangsu Province"
+    ],
+    "path": "asia/china/jiangsu_province/suqian",
+    "url": "/asia/china/jiangsu_province/suqian/"
+  },
+  {
+    "embedding_text": "Banff, Alberta, Canada, North America",
+    "lat": 51.175076,
+    "latitude": 51.175076,
+    "lng": -115.572077,
+    "longitude": -115.572077,
+    "name": "Banff",
+    "parent": "North America, Canada, Alberta",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "Alberta"
+    ],
+    "path": "northamerica/canada/alberta/banff",
+    "url": "/northamerica/canada/alberta/banff/"
+  },
+  {
+    "embedding_text": "Qiqihar, Heilongjiang Province, China, Asia",
+    "lat": 47.3381,
+    "latitude": 47.3381,
+    "lng": 123.9512,
+    "longitude": 123.9512,
+    "name": "Qiqihar",
+    "parent": "Asia, China, Heilongjiang Province",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Heilongjiang Province"
+    ],
+    "path": "asia/china/heilongjiang/qiqihar",
+    "url": "/asia/china/heilongjiang/qiqihar/"
+  },
+  {
+    "embedding_text": "Ciudad Quesada, Costa Rica, North America",
+    "lat": 10.325,
+    "latitude": 10.325,
+    "lng": -84.4313,
+    "longitude": -84.4313,
+    "name": "Ciudad Quesada",
+    "parent": "North America, Costa Rica",
+    "parent_chain": [
+      "North America",
+      "Costa Rica"
+    ],
+    "path": "northamerica/costarica/ciudadquesada",
+    "url": "/northamerica/costarica/ciudadquesada/"
+  },
+  {
+    "embedding_text": "Xingcheng, Liaoning Province, China, Asia",
+    "lat": 40.6148,
+    "latitude": 40.6148,
+    "lng": 120.7283,
+    "longitude": 120.7283,
+    "name": "Xingcheng",
+    "parent": "Asia, China, Liaoning Province",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Liaoning Province"
+    ],
+    "path": "asia/china/liaoning/xingcheng",
+    "url": "/asia/china/liaoning/xingcheng/"
+  },
+  {
+    "embedding_text": "Coronado, California, United States, North America",
+    "lat": 32.69152,
+    "latitude": 32.69152,
+    "lng": -117.176695,
+    "longitude": -117.176695,
+    "name": "Coronado",
+    "parent": "North America, United States, California",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "California"
+    ],
+    "path": "northamerica/unitedstates/california/coronado",
+    "url": "/northamerica/unitedstates/california/coronado/"
+  },
+  {
+    "embedding_text": "Valcea, Romania, Europe",
+    "lat": 45.040454,
+    "latitude": 45.040454,
+    "lng": 24.153872,
+    "longitude": 24.153872,
+    "name": "Valcea",
+    "parent": "Europe, Romania",
+    "parent_chain": [
+      "Europe",
+      "Romania"
+    ],
+    "path": "europe/romania/valcea",
+    "url": "/europe/romania/valcea/"
+  },
+  {
+    "embedding_text": "Terra Nova National Park, Newfoundland, Canada, North America",
+    "lat": 48.5306,
+    "latitude": 48.5306,
+    "lng": -53.9281,
+    "longitude": -53.9281,
+    "name": "Terra Nova National Park",
+    "parent": "North America, Canada, Newfoundland",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "Newfoundland"
+    ],
+    "path": "northamerica/canada/newfoundland/terranovanationa",
+    "url": "/northamerica/canada/newfoundland/terranovanationa/"
+  },
+  {
+    "embedding_text": "Lanai, Hawaii, United States, North America",
+    "lat": 20.8306,
+    "latitude": 20.8306,
+    "lng": -156.9029,
+    "longitude": -156.9029,
+    "name": "Lanai",
+    "parent": "North America, United States, Hawaii",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Hawaii"
+    ],
+    "path": "northamerica/unitedstates/hawaii/lanai",
+    "url": "/northamerica/unitedstates/hawaii/lanai/"
+  },
+  {
+    "embedding_text": "Pogradec, Albania, Europe",
+    "lat": 40.899874,
+    "latitude": 40.899874,
+    "lng": 20.657388,
+    "longitude": 20.657388,
+    "name": "Pogradec",
+    "parent": "Europe, Albania",
+    "parent_chain": [
+      "Europe",
+      "Albania"
+    ],
+    "path": "europe/albania/pogradec",
+    "url": "/europe/albania/pogradec/"
+  },
+  {
+    "embedding_text": "Chapada dos Veadeiros, Brazil, South America",
+    "lat": -14.1419,
+    "latitude": -14.1419,
+    "lng": -47.6842,
+    "longitude": -47.6842,
+    "name": "Chapada dos Veadeiros",
+    "parent": "South America, Brazil",
+    "parent_chain": [
+      "South America",
+      "Brazil"
+    ],
+    "path": "southamerica/brazil/chapada_dos_veadeiros",
+    "url": "/southamerica/brazil/chapada_dos_veadeiros/"
+  },
+  {
+    "embedding_text": "Gouveia, Portugal, Europe",
+    "lat": 40.5,
+    "latitude": 40.5,
+    "lng": -7.6,
+    "longitude": -7.6,
+    "name": "Gouveia",
+    "parent": "Europe, Portugal",
+    "parent_chain": [
+      "Europe",
+      "Portugal"
+    ],
+    "path": "europe/portugal/gouveia",
+    "url": "/europe/portugal/gouveia/"
+  },
+  {
+    "embedding_text": "Chuy, Uruguay, South America",
+    "lat": -33.6964,
+    "latitude": -33.6964,
+    "lng": -53.46,
+    "longitude": -53.46,
+    "name": "Chuy",
+    "parent": "South America, Uruguay",
+    "parent_chain": [
+      "South America",
+      "Uruguay"
+    ],
+    "path": "southamerica/uruguay/chuy",
+    "url": "/southamerica/uruguay/chuy/"
+  },
+  {
+    "embedding_text": "Uddevalla, Sweden, Europe",
+    "lat": 58.349055,
+    "latitude": 58.349055,
+    "lng": 11.938285,
+    "longitude": 11.938285,
+    "name": "Uddevalla",
+    "parent": "Europe, Sweden",
+    "parent_chain": [
+      "Europe",
+      "Sweden"
+    ],
+    "path": "europe/sweden/uddevalla",
+    "url": "/europe/sweden/uddevalla/"
+  },
+  {
+    "embedding_text": "Vinkovci, Croatia, Europe",
+    "lat": 45.288377,
+    "latitude": 45.288377,
+    "lng": 18.804525,
+    "longitude": 18.804525,
+    "name": "Vinkovci",
+    "parent": "Europe, Croatia",
+    "parent_chain": [
+      "Europe",
+      "Croatia"
+    ],
+    "path": "europe/croatia/vinkovci",
+    "url": "/europe/croatia/vinkovci/"
+  },
+  {
+    "embedding_text": "Tyre, Lebanon, Asia",
+    "lat": 33.272121,
+    "latitude": 33.272121,
+    "lng": 35.196402,
+    "longitude": 35.196402,
+    "name": "Tyre",
+    "parent": "Asia, Lebanon",
+    "parent_chain": [
+      "Asia",
+      "Lebanon"
+    ],
+    "path": "asia/lebanon/tyre",
+    "url": "/asia/lebanon/tyre/"
+  },
+  {
+    "embedding_text": "Bellows Falls, Vermont, United States, North America",
+    "lat": 43.134063,
+    "latitude": 43.134063,
+    "lng": -72.444534,
+    "longitude": -72.444534,
+    "name": "Bellows Falls",
+    "parent": "North America, United States, Vermont",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Vermont"
+    ],
+    "path": "northamerica/unitedstates/vermont/bellowsfalls",
+    "url": "/northamerica/unitedstates/vermont/bellowsfalls/"
+  },
+  {
+    "embedding_text": "Snagov Lake, Romania, Europe",
+    "lat": 44.7066,
+    "latitude": 44.7066,
+    "lng": 26.1629,
+    "longitude": 26.1629,
+    "name": "Snagov Lake",
+    "parent": "Europe, Romania",
+    "parent_chain": [
+      "Europe",
+      "Romania"
+    ],
+    "path": "europe/romania/snagovlake",
+    "url": "/europe/romania/snagovlake/"
+  },
+  {
+    "embedding_text": "Folsom, Gold Country, California, United States, North America",
+    "lat": 38.678,
+    "latitude": 38.678,
+    "lng": -121.1761,
+    "longitude": -121.1761,
+    "name": "Folsom",
+    "parent": "North America, United States, California, Gold Country",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "California",
+      "Gold Country"
+    ],
+    "path": "northamerica/unitedstates/california/goldcountry/folsom",
+    "url": "/northamerica/unitedstates/california/goldcountry/folsom/"
+  },
+  {
+    "embedding_text": "Lalsk, Russia, Europe",
+    "lat": 60.73888,
+    "latitude": 60.73888,
+    "lng": 47.58831,
+    "longitude": 47.58831,
+    "name": "Lalsk",
+    "parent": "Europe, Russia",
+    "parent_chain": [
+      "Europe",
+      "Russia"
+    ],
+    "path": "europe/russia/lalsk",
+    "url": "/europe/russia/lalsk/"
+  },
+  {
+    "embedding_text": "Stanthorpe, Queensland, Australia, Australia, Pacific & Antarctica",
+    "lat": -28.6553,
+    "latitude": -28.6553,
+    "lng": 151.9343,
+    "longitude": 151.9343,
+    "name": "Stanthorpe",
+    "parent": "Australia, Pacific & Antarctica, Australia, Queensland",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "Australia",
+      "Queensland"
+    ],
+    "path": "australiaandpacific/australia/queensland/stanthorpe",
+    "url": "/australiaandpacific/australia/queensland/stanthorpe/"
+  },
+  {
+    "embedding_text": "Depok, Java, Indonesia, Asia",
+    "lat": -6.4072,
+    "latitude": -6.4072,
+    "lng": 106.8158,
+    "longitude": 106.8158,
+    "name": "Depok",
+    "parent": "Asia, Indonesia, Java",
+    "parent_chain": [
+      "Asia",
+      "Indonesia",
+      "Java"
+    ],
+    "path": "asia/indonesia/java/depok",
+    "url": "/asia/indonesia/java/depok/"
+  },
+  {
+    "embedding_text": "Gdynia, Poland, Europe",
+    "lat": 54.516498,
+    "latitude": 54.516498,
+    "lng": 18.540274,
+    "longitude": 18.540274,
+    "name": "Gdynia",
+    "parent": "Europe, Poland",
+    "parent_chain": [
+      "Europe",
+      "Poland"
+    ],
+    "path": "europe/poland/gdynia",
+    "url": "/europe/poland/gdynia/"
+  },
+  {
+    "embedding_text": "Erigavo, Somaliland, Africa",
+    "lat": 10.61806,
+    "latitude": 10.61806,
+    "lng": 47.37,
+    "longitude": 47.37,
+    "name": "Erigavo",
+    "parent": "Africa, Somaliland",
+    "parent_chain": [
+      "Africa",
+      "Somaliland"
+    ],
+    "path": "africa/somaliland/erigavo",
+    "url": "/africa/somaliland/erigavo/"
+  },
+  {
+    "embedding_text": "Abomey, Benin, Africa",
+    "lat": 7.182001,
+    "latitude": 7.182001,
+    "lng": 1.993632,
+    "longitude": 1.993632,
+    "name": "Abomey",
+    "parent": "Africa, Benin",
+    "parent_chain": [
+      "Africa",
+      "Benin"
+    ],
+    "path": "africa/benin/abomey",
+    "url": "/africa/benin/abomey/"
+  },
+  {
+    "embedding_text": "Mahasarakham, Thailand, Asia",
+    "lat": 16.247,
+    "latitude": 16.247,
+    "lng": 103.2506,
+    "longitude": 103.2506,
+    "name": "Mahasarakham",
+    "parent": "Asia, Thailand",
+    "parent_chain": [
+      "Asia",
+      "Thailand"
+    ],
+    "path": "asia/thailand/mahasarakham",
+    "url": "/asia/thailand/mahasarakham/"
+  },
+  {
+    "embedding_text": "Aalborg, Denmark, Europe",
+    "lat": 57.046263,
+    "latitude": 57.046263,
+    "lng": 9.921526,
+    "longitude": 9.921526,
+    "name": "Aalborg",
+    "parent": "Europe, Denmark",
+    "parent_chain": [
+      "Europe",
+      "Denmark"
+    ],
+    "path": "europe/denmark/aalborg",
+    "url": "/europe/denmark/aalborg/"
+  },
+  {
+    "embedding_text": "Ru\u017eomberok, Slovakia, Europe",
+    "lat": 49.0816,
+    "latitude": 49.0816,
+    "lng": 19.3034,
+    "longitude": 19.3034,
+    "name": "Ru\u017eomberok",
+    "parent": "Europe, Slovakia",
+    "parent_chain": [
+      "Europe",
+      "Slovakia"
+    ],
+    "path": "europe/slovakia/ruomberok",
+    "url": "/europe/slovakia/ruomberok/"
+  },
+  {
+    "embedding_text": "Francois, Newfoundland, Canada, North America",
+    "lat": 47.5683,
+    "latitude": 47.5683,
+    "lng": -56.7417,
+    "longitude": -56.7417,
+    "name": "Francois",
+    "parent": "North America, Canada, Newfoundland",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "Newfoundland"
+    ],
+    "path": "northamerica/canada/newfoundland/francois",
+    "url": "/northamerica/canada/newfoundland/francois/"
+  },
+  {
+    "embedding_text": "Mudanya, Turkey, Asia",
+    "lat": 40.3736,
+    "latitude": 40.3736,
+    "lng": 28.8887,
+    "longitude": 28.8887,
+    "name": "Mudanya",
+    "parent": "Asia, Turkey",
+    "parent_chain": [
+      "Asia",
+      "Turkey"
+    ],
+    "path": "asia/turkey/mudanya",
+    "url": "/asia/turkey/mudanya/"
+  },
+  {
+    "embedding_text": "Campina Grande, Brazil, South America",
+    "lat": -7.2306,
+    "latitude": -7.2306,
+    "lng": -35.8811,
+    "longitude": -35.8811,
+    "name": "Campina Grande",
+    "parent": "South America, Brazil",
+    "parent_chain": [
+      "South America",
+      "Brazil"
+    ],
+    "path": "southamerica/brazil/campinagrande",
+    "url": "/southamerica/brazil/campinagrande/"
+  },
+  {
+    "embedding_text": "Alta Floresta, Brazil, South America",
+    "lat": -9.875833,
+    "latitude": -9.875833,
+    "lng": -56.085833,
+    "longitude": -56.085833,
+    "name": "Alta Floresta",
+    "parent": "South America, Brazil",
+    "parent_chain": [
+      "South America",
+      "Brazil"
+    ],
+    "path": "southamerica/brazil/altafloresta",
+    "url": "/southamerica/brazil/altafloresta/"
+  },
+  {
+    "embedding_text": "Cagayan de Oro, Mindanao, Philippines, Asia",
+    "lat": 8.475642,
+    "latitude": 8.475642,
+    "lng": 124.642153,
+    "longitude": 124.642153,
+    "name": "Cagayan de Oro",
+    "parent": "Asia, Philippines, Mindanao",
+    "parent_chain": [
+      "Asia",
+      "Philippines",
+      "Mindanao"
+    ],
+    "path": "asia/philippines/mindanaoisland/cagayandeoro",
+    "url": "/asia/philippines/mindanaoisland/cagayandeoro/"
+  },
+  {
+    "embedding_text": "Clarkston, Washington, United States, North America",
+    "lat": 46.4163,
+    "latitude": 46.4163,
+    "lng": -117.0456,
+    "longitude": -117.0456,
+    "name": "Clarkston",
+    "parent": "North America, United States, Washington",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Washington"
+    ],
+    "path": "northamerica/unitedstates/washington/clarkston",
+    "url": "/northamerica/unitedstates/washington/clarkston/"
+  },
+  {
+    "embedding_text": "Burlington, Washington, United States, North America",
+    "lat": 48.474,
+    "latitude": 48.474,
+    "lng": -122.328,
+    "longitude": -122.328,
+    "name": "Burlington",
+    "parent": "North America, United States, Washington",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Washington"
+    ],
+    "path": "northamerica/unitedstates/washington/burlington",
+    "url": "/northamerica/unitedstates/washington/burlington/"
+  },
+  {
+    "embedding_text": "Bernal, Mexico, North America",
+    "lat": 20.738889,
+    "latitude": 20.738889,
+    "lng": -99.94,
+    "longitude": -99.94,
+    "name": "Bernal",
+    "parent": "North America, Mexico",
+    "parent_chain": [
+      "North America",
+      "Mexico"
+    ],
+    "path": "northamerica/mexico/bernal",
+    "url": "/northamerica/mexico/bernal/"
+  },
+  {
+    "embedding_text": "Tokaj, Hungary, Europe",
+    "lat": 48.123553,
+    "latitude": 48.123553,
+    "lng": 21.411389,
+    "longitude": 21.411389,
+    "name": "Tokaj",
+    "parent": "Europe, Hungary",
+    "parent_chain": [
+      "Europe",
+      "Hungary"
+    ],
+    "path": "europe/hungary/tokaj",
+    "url": "/europe/hungary/tokaj/"
+  },
+  {
+    "embedding_text": "Ilha do Mel, Brazil, South America",
+    "lat": -25.53453,
+    "latitude": -25.53453,
+    "lng": -48.310747,
+    "longitude": -48.310747,
+    "name": "Ilha do Mel",
+    "parent": "South America, Brazil",
+    "parent_chain": [
+      "South America",
+      "Brazil"
+    ],
+    "path": "southamerica/brazil/ilha_do_mel",
+    "url": "/southamerica/brazil/ilha_do_mel/"
+  },
+  {
+    "embedding_text": "Oulu, Finland, Europe",
+    "lat": 65.011791,
+    "latitude": 65.011791,
+    "lng": 25.470197,
+    "longitude": 25.470197,
+    "name": "Oulu",
+    "parent": "Europe, Finland",
+    "parent_chain": [
+      "Europe",
+      "Finland"
+    ],
+    "path": "europe/finland/oulu",
+    "url": "/europe/finland/oulu/"
+  },
+  {
+    "embedding_text": "Leiria, Portugal, Europe",
+    "lat": 39.74379,
+    "latitude": 39.74379,
+    "lng": -8.807112,
+    "longitude": -8.807112,
+    "name": "Leiria",
+    "parent": "Europe, Portugal",
+    "parent_chain": [
+      "Europe",
+      "Portugal"
+    ],
+    "path": "europe/portugal/leiria",
+    "url": "/europe/portugal/leiria/"
+  },
+  {
+    "embedding_text": "Playa de Palma, Mallorca, Balearic islands, Spain, Europe",
+    "lat": 39.5178,
+    "latitude": 39.5178,
+    "lng": 2.7426,
+    "longitude": 2.7426,
+    "name": "Playa de Palma",
+    "parent": "Europe, Spain, Balearic islands, Mallorca",
+    "parent_chain": [
+      "Europe",
+      "Spain",
+      "Balearic islands",
+      "Mallorca"
+    ],
+    "path": "europe/spain/balearicislands/mallorca/playa_de_palma",
+    "url": "/europe/spain/balearicislands/mallorca/playa_de_palma/"
+  },
+  {
+    "embedding_text": "Toca\u00f1a, Bolivia, South America",
+    "lat": -16.207,
+    "latitude": -16.207,
+    "lng": -67.71,
+    "longitude": -67.71,
+    "name": "Toca\u00f1a",
+    "parent": "South America, Bolivia",
+    "parent_chain": [
+      "South America",
+      "Bolivia"
+    ],
+    "path": "southamerica/bolivia/tocana",
+    "url": "/southamerica/bolivia/tocana/"
+  },
+  {
+    "embedding_text": "Koblenz, Rhineland-Palatinate, Germany, Europe",
+    "lat": 50.353328,
+    "latitude": 50.353328,
+    "lng": 7.594395,
+    "longitude": 7.594395,
+    "name": "Koblenz",
+    "parent": "Europe, Germany, Rhineland-Palatinate",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Rhineland-Palatinate"
+    ],
+    "path": "europe/germany/rhinelandpalatinate/koblenz",
+    "url": "/europe/germany/rhinelandpalatinate/koblenz/"
+  }
+]

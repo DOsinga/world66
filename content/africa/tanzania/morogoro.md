@@ -4,9 +4,14 @@ type: location
 loc_type: city
 latitude: -6.8167
 longitude: 37.6667
-score: 7.1
-snippet: Tanzanian market city at the foot of the Uluguru Mountains, useful for hikes and local life.
+score: 4.443
+snippet: Tanzanian market city at the foot of the Uluguru Mountains, useful for hikes
+  and local life.
 source_url: https://en.wikivoyage.org/wiki/Morogoro
+heritage: 4.028
+vibrancy: 4.048
+nature: 4.93
+off_the_beaten_track: 4.567
 ---
 
 Morogoro sits on the main inland road and rail line from [Dar es Salaam](/africa/tanzania/daressalaam), but it is more than a place to change buses. The city lies hard against the green wall of the [Uluguru Mountains](/africa/tanzania/morogoro/uluguru_mountains), one of the Eastern Arc ranges, and the slopes begin close enough that a day hike can start from town.

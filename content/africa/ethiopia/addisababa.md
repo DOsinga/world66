@@ -16,7 +16,7 @@ quick_facts:
   Elevation: 2,355 m
   Lucy: 3.2-million-year-old ancestor
   Population: ~5 million
-score: 7.54
+score: 4.754
 snippet: Highland Ethiopian capital and African diplomatic hub, founded as Menelik
   II's New Flower above 2,500 metres.
 tip: Addis Ababa is one of the highest capitals on earth at 2,355 m, so take the first
@@ -25,6 +25,10 @@ tip: Addis Ababa is one of the highest capitals on earth at 2,355 m, so take the
   markets — and visit Lucy, the 3.2-million-year-old hominid, at the National Museum.
 title: Addis Ababa
 type: location
+heritage: 4.163
+vibrancy: 5.014
+nature: 3.538
+off_the_beaten_track: 4.514
 ---
 
 Addis Ababa sits at 2,500 metres in the Ethiopian highlands, a city that feels perpetually spring-like despite being just a few degrees from the equator. Founded in 1886 by Emperor Menelik II, its name means "New Flower" in Amharic, and the city has been growing restlessly ever since. Today it is home to over five million people and serves as the diplomatic capital of Africa, hosting the African Union and dozens of embassies.

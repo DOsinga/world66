@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Kor%C4%8Dula_Old_Town,_Cro
 latitude: 42.943781
 loc_type: island
 longitude: 16.913476
-score: 8.8
+score: 5.231
 tags:
 - dalmatia
 title: Korčula
 type: location
 snippet: Croatian Adriatic island of stone villages and vineyards, its walled main
   town often called a miniature Dubrovnik.
+heritage: 5.307
+vibrancy: 4.047
+nature: 5.858
+off_the_beaten_track: 3.211
 ---
 
 Korčula is one of the larger islands along Croatia's Dalmatian coast, covered in pine forests, olive groves, and vineyards, and edged with stone villages that tumble down to the sea. The island's main settlement, [Korčula town](/europe/croatia/korcula_town), is a fortified medieval town jutting on a small peninsula into the Pelješac Channel, often described as a miniature Dubrovnik — the same honey-coloured limestone walls and herringboned lanes, but far smaller and without the crowds.

@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: -34.9281
 longitude: 173.4428
-score: 6.8
-snippet: Doubtless Bay string of beach settlements with Mangonui harbour history and coastal pa sites.
+score: 4.664
+snippet: Doubtless Bay string of beach settlements with Mangonui harbour history and
+  coastal pa sites.
 sources:
 - https://en.wikivoyage.org/wiki/Taipa-Mangonui
 - https://butlerpoint.co.nz/
 - https://www.doc.govt.nz/documents/conservation/historic/by-region/northland/rangikapiti-pa-historic-heritage-assessment.pdf
+heritage: 3.165
+vibrancy: 2.417
+nature: 5.887
+off_the_beaten_track: 3.105
 ---
 
 Taipa-Mangonui is a chain of small Far North settlements along Doubtless Bay: Taipa, Cable Bay, Coopers Beach, and Mangonui. It is easy to treat the place as a beach strip on the way to Cape Reinga, but Mangonui's old harbour and the pa sites above the coast give it more weight than that.

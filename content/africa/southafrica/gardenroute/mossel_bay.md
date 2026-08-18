@@ -5,12 +5,17 @@ loc_type: city
 latitude: -34.1833
 longitude: 22.1333
 wikidata: Q995615
-score: 8.2
-snippet: Garden Route harbour town with early human archaeology, Dias history, cliff walks, and sheltered beaches.
+score: 6.007
+snippet: Garden Route harbour town with early human archaeology, Dias history, cliff
+  walks, and sheltered beaches.
 sources:
-  - https://en.wikivoyage.org/wiki/Mossel_Bay
-  - https://visitmosselbay.co.za/general-information/unesco-world-heritage-site/
-  - https://www.cradleofhumanculture.co.za/towns/southern-cape/mossel-bay
+- https://en.wikivoyage.org/wiki/Mossel_Bay
+- https://visitmosselbay.co.za/general-information/unesco-world-heritage-site/
+- https://www.cradleofhumanculture.co.za/towns/southern-cape/mossel-bay
+heritage: 3.699
+vibrancy: 4.442
+nature: 7.165
+off_the_beaten_track: 2.419
 ---
 
 Mossel Bay is the western gateway to the [Garden Route](/africa/southafrica/gardenroute), but it has more substance than that label suggests. It is a working harbour town with warm beaches, sandstone cliffs, old maritime history, and some of the most important early human archaeology in South Africa.

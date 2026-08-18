@@ -2,11 +2,15 @@
 latitude: 20.7144
 loc_type: city
 longitude: 70.9874
-score: 7.4
+score: 5.174
 snippet: Small former Portuguese island off the Gujarat coast, with a 16th-century
   fort and a prohibition-free beach scene
 title: Diu
 type: location
+heritage: 5.126
+vibrancy: 3.869
+nature: 5.847
+off_the_beaten_track: 4.274
 ---
 
 Diu is a small island just off the Saurashtra coast of Gujarat, connected to the mainland by a bridge and, like [Daman](/asia/india/dadraandnagarhaveli/daman), part of the union territory of Dadra and Nagar Haveli and Daman and Diu rather than Gujarat itself. It shares Daman's Portuguese colonial history — held from the early 16th century until 1961 — and the same laid-back, dry-adjacent character that draws weekend visitors from a prohibition-enforcing Gujarat just across the water.

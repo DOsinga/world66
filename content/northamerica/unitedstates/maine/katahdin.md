@@ -5,10 +5,14 @@ latitude: 45.9038
 longitude: -68.9215
 title: Katahdin
 type: location
-score: 7.92
+score: 6.049
 loc_type: feature
 snippet: Maine wilderness mountain and Appalachian Trail terminus, rising above Baxter
   State Park's forever-wild forests.
+heritage: 3.279
+vibrancy: 0.483
+nature: 7.305
+off_the_beaten_track: 6.786
 ---
 
 Mount Katahdin is the highest point in Maine and the northern terminus — or southern starting point — of the Appalachian Trail. It rises from the forests of Baxter State Park as an isolated mass of granite, visible for miles before you reach it. The summit plateau, called the Tableland, drops away on its eastern side in a steep cirque wall known as the Knife Edge: a ridge barely a metre wide in places, with nothing but air on both sides.

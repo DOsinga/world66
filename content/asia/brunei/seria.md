@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Billionth_Barrel_Monument_
 latitude: 4.614159
 loc_type: city
 longitude: 114.330183
-score: 5.78
+score: 4.173
 snippet: Brunei oil town on the coast, built around the petroleum fields that transformed
   the country
 title: Seria
 type: location
+heritage: 3.305
+vibrancy: 1.851
+nature: 5.068
+off_the_beaten_track: 3.573
 ---
 
 Seria is a small oil town on the coast of [Brunei](/asia/brunei), about 70 km southwest of the capital [Bandar Seri Begawan](/asia/brunei/bandarseribegawan). It exists because of petroleum — Brunei Shell Petroleum has its headquarters here, and the town grew up around the oil industry that has made Brunei one of the wealthiest countries in Southeast Asia. A nodding donkey oil pump sits on the beach as an unofficial town monument.

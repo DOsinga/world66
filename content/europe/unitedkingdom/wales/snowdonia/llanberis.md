@@ -5,11 +5,15 @@ done:
 latitude: 53.121276
 loc_type: city
 longitude: -4.127748
-score: 8.18
+score: 6.512
 snippet: Snowdonia village below Yr Wyddfa, beside Llyn Padarn and the old Dinorwig
   slate quarries.
 title: Llanberis
 type: location
+heritage: 5.113
+vibrancy: 3.364
+nature: 7.926
+off_the_beaten_track: 2.937
 ---
 
 Llanberis sits at the foot of Yr Wyddfa (Snowdon), Wales's highest peak, and is the most popular base for climbing it. The [Llanberis Path](/europe/unitedkingdom/wales/snowdonia/llanberis/llanberis_path) is the longest but most gradual route to the summit — suited to anyone who is reasonably fit — and for those who prefer not to walk, the [Snowdon Mountain Railway](/europe/unitedkingdom/wales/snowdonia/llanberis/snowdon_mountain_railway) has been carrying visitors to the top since 1896.

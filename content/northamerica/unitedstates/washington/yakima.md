@@ -4,10 +4,15 @@ type: location
 loc_type: city
 latitude: 46.6019
 longitude: -120.5078
-score: 6.8
-snippet: Central Washington valley city known for apples, wine, hops, desert hills, and Yakama country.
+score: 4.585
+snippet: Central Washington valley city known for apples, wine, hops, desert hills,
+  and Yakama country.
 sources:
-  - https://en.wikivoyage.org/wiki/Yakima
+- https://en.wikivoyage.org/wiki/Yakima
+heritage: 4.471
+vibrancy: 3.835
+nature: 5.212
+off_the_beaten_track: 3.684
 ---
 
 Yakima is the main city of the Yakima Valley, a dry agricultural basin famous for apples, wine grapes, and hops. If you drink American craft beer, there is a good chance some part of it passed through this valley.

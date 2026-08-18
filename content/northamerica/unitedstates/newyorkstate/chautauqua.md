@@ -5,7 +5,7 @@ done:
 latitude: 42.2894
 loc_type: city
 longitude: -79.4217
-score: 7.44
+score: 5.54
 snippet: New York lakeside community built around the Chautauqua Institution's lectures,
   concerts, opera, and religious debate.
 title: Chautauqua
@@ -14,6 +14,10 @@ image: chautauqua.jpg
 image_source: https://commons.wikimedia.org/wiki/File:AthenaeumHotel.jpg
 image_license: Public domain
 image_attribution: Teresa Mitchell, Seaway Trail; color-corrected by Howcheng.
+heritage: 5.194
+vibrancy: 2.838
+nature: 6.385
+off_the_beaten_track: 2.74
 ---
 
 Chautauqua is unlike anywhere else in the United States. Tucked into the southwestern corner of New York State near Lake Erie, it is a gated community built entirely around the life of the mind — a place where lectures, concerts, opera, and religious debate have been the main attractions since 1874.

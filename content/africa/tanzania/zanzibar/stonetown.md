@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Beit_al_Ajaib,_2010.jpg
 latitude: -6.162653
 loc_type: city
 longitude: 39.189655
-score: 9.22
+score: 6.492
 snippet: Old Zanzibar port town of coral-stone alleys, carved doors, and layered Swahili
   trading history.
 title: Stone Town
 type: location
+heritage: 7.537
+vibrancy: 5.534
+nature: 4.941
+off_the_beaten_track: 2.585
 ---
 
 Stone Town is the old heart of [Zanzibar](/africa/tanzania/zanzibar) and one of the most atmospheric towns on the East African coast. Its labyrinth of narrow alleys, carved wooden doors, and coral-stone buildings reflects centuries of Swahili, Arab, Persian, Indian, and European influence — a UNESCO World Heritage Site since 2000.

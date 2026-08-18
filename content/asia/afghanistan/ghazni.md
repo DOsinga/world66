@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:66-172_Ghazni_Afghanistan_
 latitude: 33.544897
 loc_type: city
 longitude: 68.413211
-score: 1.51
+score: 5.722
 snippet: Historic Afghan city whose minarets recall the Ghaznavid empire's medieval
   court and power
 title: Ghazni
 type: location
+heritage: 6.881
+vibrancy: 1.61
+nature: 3.376
+off_the_beaten_track: 6.959
 ---
 
 Conveniently close to [Kabul](/asia/afghanistan/kabul), Ghazni was once the capital of a vast empire. In the 11th century, Sultan Mahmud of Ghazni launched raids as far as Delhi and brought back the spoils to build a court that attracted the finest poets, musicians and scientists in the region. The city was one of the great cultural centers of the Islamic world.

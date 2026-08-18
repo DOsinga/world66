@@ -2,8 +2,9 @@
 latitude: -8.403
 loc_type: city
 longitude: 114.8145
-score: 7.0
-snippet: West Bali surf village known for a long left-hand wave and a slower coastal mood.
+score: 5.169
+snippet: West Bali surf village known for a long left-hand wave and a slower coastal
+  mood.
 sources:
 - https://en.wikivoyage.org/wiki/Medewi
 - https://lovebali.baliprov.go.id/destination/detail/9/pantai-medewi
@@ -11,6 +12,10 @@ sources:
 title: Medewi
 type: location
 wikidata: Q12497714
+heritage: 3.028
+vibrancy: 3.393
+nature: 6.373
+off_the_beaten_track: 4.975
 ---
 
 Medewi is the Bali people mean when they say the island still has quiet corners. It sits on the west coast, far from the south's club traffic, with black sand, fishing boats, rice fields, and one famous left-hand wave.

@@ -2,11 +2,15 @@
 latitude: 39.4008
 loc_type: city
 longitude: -3.1261
-score: 7.5
-snippet: La Mancha town where ten windmills crown a white-walled ridge — and the
-  strongest claimant to the scene Cervantes wrote.
+score: 4.805
+snippet: La Mancha town where ten windmills crown a white-walled ridge — and the strongest
+  claimant to the scene Cervantes wrote.
 title: Campo de Criptana
 type: location
+heritage: 5.924
+vibrancy: 3.395
+nature: 3.224
+off_the_beaten_track: 2.528
 ---
 
 Campo de Criptana is a town of around 13,000 in the province of Ciudad Real, sitting on a low ridge in the heart of La Mancha about 30 km southwest of Mota del Cuervo and 130 km south of Madrid. Ten windmills crown the ridge above the town — the largest surviving group in La Mancha — their white towers visible from the surrounding plain long before you arrive. Three of them date from the sixteenth century and are among the oldest working mills in Spain; the rest are eighteenth-century reconstructions that look nearly identical from the outside. On a breezy day their sails actually turn.

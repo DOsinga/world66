@@ -4,7 +4,7 @@ done:
 latitude: 32.0633
 loc_type: city
 longitude: 12.5271
-score: 4.47
+score: 3.948
 snippet: Amazigh mountain town in Libya's Nafusa range, used for viewpoints, older
   villages, and fortified granaries.
 sources:
@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Qasr_al-Hajj
 title: Jefren
 type: location
+heritage: 2.928
+vibrancy: 1.002
+nature: 1.639
+off_the_beaten_track: 6.91
 ---
 
 Jefren, more often written Yafran or Yefren, is a mountain town in western Libya's Nafusa range. It is part of the Amazigh-speaking highlands south-west of [Tripoli](/africa/libya/tripoli), where the air is cooler, the roads climb sharply, and the landscape feels very different from the coastal plain.

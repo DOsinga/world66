@@ -1,16 +1,21 @@
 ---
-latitude: -33.5040
+latitude: -33.504
 loc_type: city
-longitude: 26.8240
-score: 6.9
-snippet: Quirky Eastern Cape settler village known for pineapples, old pubs, and preserved frontier buildings.
+longitude: 26.824
+score: 5.038
+snippet: Quirky Eastern Cape settler village known for pineapples, old pubs, and preserved
+  frontier buildings.
 sources:
-  - https://en.wikivoyage.org/wiki/Bathurst_%28Eastern_Cape%29
-  - https://en.wikipedia.org/wiki/Bathurst,_Eastern_Cape
-  - https://southafrica.net/gl/en/travel/article/a-charming-country-village-bathurst-eastern-cape
+- https://en.wikivoyage.org/wiki/Bathurst_%28Eastern_Cape%29
+- https://en.wikipedia.org/wiki/Bathurst,_Eastern_Cape
+- https://southafrica.net/gl/en/travel/article/a-charming-country-village-bathurst-eastern-cape
 title: Bathurst
 type: location
 wikidata_id: Q3642949
+heritage: 4.161
+vibrancy: 2.338
+nature: 6.046
+off_the_beaten_track: 4.433
 ---
 
 Bathurst is a small Eastern Cape village with more personality than its size suggests. It sits inland from Port Alfred in old settler country, with stone and corrugated-iron buildings, farm roads, pineapple fields, and a stubbornly English village feel under a South African sky.

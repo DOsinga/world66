@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Britannia_Pier,_Great_Yarm
 latitude: 52.607174
 loc_type: city
 longitude: 1.731485
-score: 6.86
+score: 4.222
 snippet: Traditional Norfolk seaside town with arcades, chip shops, a pleasure beach,
   and maritime backstreets.
 title: Great Yarmouth
 type: location
+heritage: 3.694
+vibrancy: 4.291
+nature: 4.042
+off_the_beaten_track: 0.865
 ---
 
 Great Yarmouth is the real deal when it comes to the traditional English seaside. [The Golden Mile](/europe/unitedkingdom/england/east_of_england/greatyarmouth/the_golden_mile) seafront has amusement arcades, chip shops, a pleasure beach, and all the cheerful tackiness you could want. If you grew up with bucket-and-spade holidays, this place will hit you right in the nostalgia. If you did not, it is a fascinating window into a very particular English tradition that stubbornly refuses to die.

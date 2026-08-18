@@ -14,7 +14,7 @@ quick_facts:
   Dawn Balloons: 100+ daily
   Elevation: ~1,000 m
   Rock Churches: 30+
-score: 9.53
+score: 7.495
 snippet: Cappadocian village surrounded by fairy chimneys and the rock-cut churches
   of Göreme Open-Air Museum.
 sources:
@@ -27,6 +27,10 @@ tip: Göreme is the heart of Cappadocia's fairy-chimney landscape, and the dawn 
   highlight.
 title: Göreme
 type: location
+heritage: 9.331
+vibrancy: 4.825
+nature: 5.713
+off_the_beaten_track: 6.161
 ---
 
 Göreme sits in the heart of [Cappadocia](/asia/turkey/cappadocia), surrounded by a moonscape of volcanic tuff carved by millions of years of wind and water into cones, pillars, and the tall phallic columns that Turks politely call peri bacaları — fairy chimneys. The town itself is small and easy to navigate, with most guesthouses and tour agencies clustered along a few streets above the bus station, but the landscape that rings it on every side is extraordinary.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 42.312222
 longitude: -85.204167
-score: 6.8
+score: 3.016
 snippet: Southern Michigan city shaped by cereal history, health reform, and Sojourner
   Truth's legacy.
 sources:
@@ -14,6 +14,10 @@ image: battle_creek.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Battle_Creek%2C_Michigan_%282008%29.jpg
 image_license: CC BY 2.0
 image_attribution: battlecreekcvb
+heritage: 3.413
+vibrancy: 2.505
+nature: 3.075
+off_the_beaten_track: 1.185
 ---
 
 Battle Creek is a southern [Michigan](/northamerica/unitedstates/michigan) city best known for breakfast cereal. The Kellogg name still defines much of the local story, but the city is more interesting than a factory label: it has health-reform history, old civic buildings, a good zoo, and deep ties to Sojourner Truth.

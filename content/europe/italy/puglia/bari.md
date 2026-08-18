@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bari_-_Lungomare_Imperator
 latitude: 41.1258
 loc_type: city
 longitude: 16.862
-score: 8.54
+score: 5.833
 snippet: Adriatic port and Puglia capital, centred on Bari Vecchia and the Basilica
   di San Nicola.
 title: Bari
 type: location
+heritage: 6.096
+vibrancy: 5.777
+nature: 4.236
+off_the_beaten_track: 1.56
 ---
 
 Bari is the capital of Puglia, a port city on the Adriatic coast that has been a trading hub between southern Europe and the eastern Mediterranean for centuries. It is not the prettiest city in the south, but it has genuine character — particularly in the old town, Bari Vecchia, a labyrinth of narrow streets on a headland between the old and new harbours.

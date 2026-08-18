@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 37.4903
 longitude: 14.0625
-score: 6.8
+score: 3.887
 snippet: Inland Sicilian city shaped by Baroque palaces, sulphur mines, and ancient
   hilltop sites.
 sources:
@@ -15,6 +15,10 @@ image: caltanissetta.jpg
 image_source: https://commons.wikimedia.org/wiki/File:01_tetti_di_CL_-_03.jpg
 image_license: CC BY-SA 4.0
 image_attribution: OppidumNissenae
+heritage: 4.457
+vibrancy: 3.022
+nature: 3.83
+off_the_beaten_track: 3.663
 ---
 
 Caltanissetta sits in the middle of Sicily, away from the island's easier coastal pleasures. It is a working inland city with steep streets, a handsome old centre, and a history tied to sulphur mining, noble families, and archaeological sites in the dry hills around town.

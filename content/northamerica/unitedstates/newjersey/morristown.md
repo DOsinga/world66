@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ford_Mansion,_Morristown,_
 latitude: 40.797038
 loc_type: city
 longitude: -74.480987
-score: 6.33
+score: 3.939
 snippet: New Jersey town west of Manhattan, centred on Revolutionary War sites from
   Washington's winter encampments.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://www.nps.gov/morr/index.htm
 title: Morristown
 type: location
+heritage: 3.332
+vibrancy: 3.965
+nature: 3.871
+off_the_beaten_track: 1.232
 ---
 
 Morristown is a pleasant New Jersey town about 30 miles west of Manhattan, best known for [Morristown National Historical Park](/northamerica/unitedstates/newjersey/morristown/morristown_national_historical_park) — the sites where George Washington and the Continental Army spent two brutal winters during the Revolutionary War.

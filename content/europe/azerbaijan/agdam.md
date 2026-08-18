@@ -4,11 +4,15 @@ done:
 latitude: 39.9932
 loc_type: city
 longitude: 46.9305
-score: 4.39
+score: 4.33
 snippet: War-ruined Azerbaijani ghost town where the mosque stands among roofless
   streets and stripped buildings.
 title: Agdam
 type: location
+heritage: 4.176
+vibrancy: 1.702
+nature: 2.222
+off_the_beaten_track: 7.001
 ---
 
 Agdam is a ghost town in western Azerbaijan, about 340 km west of Baku. Once home to 150,000 people, it was abandoned in 1993 when Azerbaijani forces withdrew during the Nagorno-Karabakh war and Armenian forces took control. The population fled east. The city was then systematically stripped — buildings gutted for materials, streets emptied, the mosque left standing as the one intact structure among ruins.

@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Saksun,_Faroe_Islands.jpg
 latitude: 62.2442
 loc_type: city
 longitude: -7.1712
-score: 8.54
+score: 6.453
 title: Saksun
 type: location
 snippet: Streymoy village of grass-roofed houses, a small church, and a tidal lagoon
   below the hills.
+heritage: 2.906
+vibrancy: 1.324
+nature: 8.033
+off_the_beaten_track: 6.455
 ---
 
 Saksun sits at the northern end of Streymoy and is, by general agreement, one of the most beautiful villages in the Faroe Islands. The road in crosses open moorland before dropping over a final ridge to reveal the settlement below — a cluster of grass-roofed houses, a small church, and far beneath it all, a tidal lagoon that fills and empties through a narrow channel between steep hills. The open Atlantic is just beyond.

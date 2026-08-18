@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Empoli_-_Piazza_Farinata_d
 latitude: 43.719488
 loc_type: city
 longitude: 10.945856
-score: 6.92
+score: 5.337
 snippet: Working Arno valley town near Florence, with a Romanesque collegiate church
   and surprisingly rich Renaissance art museum.
 title: Empoli
 type: location
+heritage: 6.432
+vibrancy: 4.069
+nature: 3.811
+off_the_beaten_track: 1.623
 ---
 
 Empoli is a working town in the Arno valley about 30 km west of Florence. It is not a tourist destination in the usual sense, but it has a compact historic centre organised around Piazza Farinata degli Uberti that rewards a short visit.

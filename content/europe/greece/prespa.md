@@ -8,11 +8,15 @@ image_source: https://www.flickr.com/photos/17279863@N05/34668357806
 latitude: 40.7511
 loc_type: city
 longitude: 21.0999
-score: 7.9
+score: 6.217
 snippet: High Balkan lake region where Greece, Albania, and North Macedonia meet amid
   pelicans and Byzantine remains
 title: Prespa
 type: location
+heritage: 3.561
+vibrancy: 1.576
+nature: 7.864
+off_the_beaten_track: 5.807
 ---
 
 The Prespa Lakes sit in the far north-west corner of Greece at 850 metres, where the borders of Greece, Albania and North Macedonia converge. There are two lakes: the larger Macro Prespa (259 km²) is shared by all three countries; the smaller [Micro Prespa](/europe/greece/prespa/micro_prespa_lake) is almost entirely Greek. Both are protected as a transboundary national park.

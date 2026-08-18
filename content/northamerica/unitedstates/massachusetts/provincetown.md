@@ -6,7 +6,11 @@ type: location
 loc_type: city
 latitude: 42.0509
 longitude: -70.1855
-score: 8.47
+score: 5.935
+heritage: 4.377
+vibrancy: 5.759
+nature: 6.389
+off_the_beaten_track: 2.35
 ---
 
 Provincetown sits at the very tip of Cape Cod, where the peninsula curls back on itself and the Atlantic comes in from three sides. It was the first landing of the Mayflower pilgrims in 1620, before they moved on to Plymouth. Today it is best known as one of America's most welcoming towns for LGBT visitors, a fishing port turned arts colony turned summer resort that manages to be simultaneously commercial and genuinely free-spirited.

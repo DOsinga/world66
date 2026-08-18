@@ -6,17 +6,22 @@ image_source: https://commons.wikimedia.org/wiki/File:Ponte_em_Pequena_Finl%C3%A
 latitude: -22.442778
 loc_type: city
 longitude: -44.528611
-score: 6.28
-snippet: Brazilian mountain village shaped by a Finnish utopian colony and Mantiqueira waterfalls.
+score: 5.759
+snippet: Brazilian mountain village shaped by a Finnish utopian colony and Mantiqueira
+  waterfalls.
 sources:
-  - https://en.wikivoyage.org/wiki/Penedo
-  - https://www.wikidata.org/wiki/Q1073075
-  - https://en.wikipedia.org/wiki/Penedo,_Itatiaia
-  - https://itatiaia.rj.gov.br/atrativos-turisticos
-  - https://museufinlandes.clubefinlandia.com.br/
+- https://en.wikivoyage.org/wiki/Penedo
+- https://www.wikidata.org/wiki/Q1073075
+- https://en.wikipedia.org/wiki/Penedo,_Itatiaia
+- https://itatiaia.rj.gov.br/atrativos-turisticos
+- https://museufinlandes.clubefinlandia.com.br/
 title: Penedo
 type: location
 wikidata: Q1073075
+heritage: 4.635
+vibrancy: 2.914
+nature: 6.962
+off_the_beaten_track: 3.545
 ---
 
 Penedo is a mountain village in Itatiaia, between [Rio de Janeiro](/southamerica/brazil/riodejaneiro) and [Sao Paulo](/southamerica/brazil/saopaulo). Its odd charm comes from a very specific history: Finnish settlers arrived in 1929 hoping to build a vegetarian, nature-minded colony in the tropics. The experiment did not last as planned, but the Finnish layer never disappeared.

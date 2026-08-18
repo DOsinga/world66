@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Hollywood_Sign_(Zuschnitt)
 latitude: 34.053691
 loc_type: city
 longitude: -118.242766
-score: 8.9
+score: 7.445
 snippet: Sprawling Southern California metropolis where film mythology, immigrant
   neighbourhoods, and Pacific light define the city.
 title: Los Angeles
 type: location
+heritage: 7.59
+vibrancy: 7.447
+nature: 4.884
+off_the_beaten_track: 1.007
 ---
 
 Los Angeles is less a single city than a hundred suburbs in search of a centre — a basin the size of a small country, strung together by freeways and held together by the film industry, the weather, and the idea that anyone can arrive and reinvent themselves. It is the place the rest of the world has already seen on screen, which makes the real thing both familiar and slightly disorienting: the light really is that good, the sprawl really is that vast, and the gap between the glamour and the strip-mall ordinariness is part of the texture.

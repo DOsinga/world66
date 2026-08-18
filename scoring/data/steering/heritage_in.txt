@@ -1,0 +1,101 @@
+asia/india/karnataka/hampi	9.278	1	Hampi	Asia, India, Karnataka
+asia/jordan/petra	9.228	2	Petra	Asia, Jordan
+asia/uzbekistan/bukhara	9.125	3	Bukhara	Asia, Uzbekistan
+europe/malta/mdina	9.118	4	Mdina	Europe, Malta
+asia/palestinianauthority/bethlehem	9.093	5	Bethlehem	Asia, Palestinian Authority
+asia/turkey/ephesus	9.072	6	Ephesus	Asia, Turkey
+asia/myanmar/bagan	9.071	7	Bagan	Asia, Myanmar
+asia/jordan/jerash	9.046	8	Jerash	Asia, Jordan
+asia/india/goa/oldgoa	9.030	9	Old Goa	Asia, India, Goa
+asia/cambodia/siemreap	9.025	10	Siem Reap	Asia, Cambodia
+asia/turkey/selcuk	9.025	11	Selcuk	Asia, Turkey
+southamerica/brazil/ouropreto	9.013	12	Ouro Preto	South America, Brazil
+asia/turkey/cappadocia/goreme	8.996	13	Göreme	Asia, Turkey, Cappadocia
+asia/cambodia/angkorwat	8.984	14	Angkor Wat	Asia, Cambodia
+asia/uzbekistan/samarkand	8.979	15	Samarkand	Asia, Uzbekistan
+europe/italy/campania/pompeii	8.979	16	Pompeii	Europe, Italy, Campania
+asia/saudiarabia/mecca	8.946	17	Mecca	Asia, Saudi Arabia
+asia/unitedarabemirates/dubai	8.151	manual	Dubai	Asia, United Arab Emirates
+asia/india/rajasthan/jaisalmer	8.939	18	Jaisalmer	Asia, India, Rajasthan
+europe/georgia/mtskheta	8.929	19	Mtskheta	Europe, Georgia
+europe/italy/sicily/agrigento	8.920	20	Agrigento	Europe, Italy, Sicily
+europe/czechrepublic/ceskykrumlov	8.901	21	Český Krumlov	Europe, Czech Republic
+asia/china/shanxiprovince/mtwutai	8.882	22	Mt. Wutai	Asia, China, Shanxi Province
+africa/ethiopia/lalibela	8.872	23	Lalibela	Africa, Ethiopia
+europe/czechrepublic/kutnahora	8.863	24	Kutná Hora	Europe, Czech Republic
+africa/ethiopia/axum	8.860	25	Axum	Africa, Ethiopia
+asia/india/tamilnadu/rameshwaram	8.860	26	Rameshwaram	Asia, India, Tamil Nadu
+africa/egypt/abusimbel	8.849	27	Abu Simbel	Africa, Egypt
+europe/russia/suzdal	8.846	28	Suzdal	Europe, Russia
+asia/nepal/lumbini	8.842	29	Lumbini	Asia, Nepal
+europe/italy/campania/paestum	8.839	30	Paestum	Europe, Italy, Campania
+africa/zimbabwe/greatzimbabwe	8.837	31	Great Zimbabwe	Africa, Zimbabwe
+asia/india/tamilnadu/madurai	8.829	32	Madurai	Asia, India, Tamil Nadu
+europe/italy/basilicata/matera	8.811	33	Matera	Europe, Italy, Basilicata
+europe/spain/galicia/santiagodecompostela	8.811	34	Santiago de Compostela	Europe, Spain, Northern Spain
+africa/tunisia/carthage	8.804	35	Carthage	Africa, Tunisia
+asia/turkey/aphrodisias	8.796	36	Aphrodisias	Asia, Turkey
+southamerica/colombia/ciudadperdida	8.790	37	Ciudad Perdida	South America, Colombia
+europe/italy/tuscany/sangimignano	8.787	38	San Gimignano	Europe, Italy, Tuscany
+asia/china/shanxiprovince/pingyao	8.783	39	Pingyao	Asia, China, Shanxi Province
+asia/china/tibet/lhasa	8.763	40	Lhasa	Asia, China, Tibet
+asia/jordan/shobak	8.752	41	Shobak	Asia, Jordan
+asia/japan/kansai/kyoto	8.746	42	Kyoto	Asia, Japan, Honshu
+asia/japan/kansai/koyasan	8.744	43	Koyasan	Asia, Japan, Honshu
+asia/palestinianauthority/hebron	8.737	44	Hebron	Asia, Palestinian Authority
+europe/germany/bavaria/rothenburg	8.728	45	Rothenburg ob der Tauber	Europe, Germany, Bavaria
+southamerica/peru/ollantaytambo	8.728	46	Ollantaytambo	South America, Peru
+asia/japan/kansai/himeji	8.719	47	Himeji	Asia, Japan, Honshu
+europe/malta/cottonera_or_three/vittoriosa	8.717	48	Vittoriosa	Europe, Malta, The Three Cities (Cottonera)
+europe/spain/andalucia/cordoba	8.712	49	Cordoba	Europe, Spain, Andalucia
+asia/uzbekistan/khiva	8.705	50	Khiva	Asia, Uzbekistan
+asia/jordan/madaba	8.704	51	Madaba	Asia, Jordan
+asia/myanmar/mrauku	8.703	52	Mrauk-U	Asia, Myanmar
+europe/spain/andalucia/granada	8.701	53	Granada	Europe, Spain, Andalucia
+asia/china/hubei/wudang_mountains	8.698	54	Wudang Mountains	Asia, China, Hubei Province
+asia/kyrgyzstan/uzgen	8.698	55	Uzgen	Asia, Kyrgyzstan
+asia/india/uttarpradesh/agra	8.697	56	Agra	Asia, India, Uttar Pradesh
+asia/oman/nizwa	8.697	57	Nizwa	Asia, Oman
+europe/france/normandybrittany/montsaintmichel	8.690	58	Mont-Saint-Michel	Europe, France, Normandy and Brittany
+asia/palestinianauthority/jerico	8.686	59	Jericho	Asia, Palestinian Authority
+northamerica/mexico/palenque	8.682	60	Palenque	North America, Mexico
+asia/uzbekistan/shakhrisabz	8.677	61	Shakhrisabz	Asia, Uzbekistan
+northamerica/canada/quebec/quebeccity	8.669	62	Québec City	North America, Canada, Québec
+asia/nepal/bhaktapur	8.667	63	Bhaktapur	Asia, Nepal
+asia/tajikistan/penjikent	8.663	64	Penjikent	Asia, Tajikistan
+southamerica/peru/cuzco	8.661	65	Cuzco	South America, Peru
+europe/moldova/orheiul_vechi_2	8.660	66	Orheiul Vechi	Europe, Moldova
+asia/uzbekistan/urgench	8.639	67	Urgench	Asia, Uzbekistan
+europe/armenia/khorvirap	8.639	68	Khor Virap	Europe, Armenia
+asia/turkey/cappadocia/nevsehir	8.636	69	Nevşehir	Asia, Turkey, Cappadocia
+europe/armenia/amberd_1	8.632	70	Amberd	Europe, Armenia
+europe/unitedkingdom/england/yorkshire/york	8.628	71	York	Europe, United Kingdom, England, Yorkshire
+northamerica/guatemala/antiguaguatemala	8.625	72	Antigua Guatemala	North America, Guatemala
+asia/india/karnataka/badami	8.618	73	Badami	Asia, India, Karnataka
+asia/lebanon/baalbek	8.614	74	Baalbek	Asia, Lebanon
+africa/mali/djenne	8.604	75	Djenné	Africa, Mali
+asia/india/madhyapradesh/orchha	8.604	76	Orchha	Asia, India, Madhya Pradesh
+africa/egypt/luxor	8.599	77	Luxor	Africa, Egypt
+africa/egypt/alexandria	8.598	78	Alexandria	Africa, Egypt
+asia/vietnam/hoian	8.593	79	Hoi An	Asia, Vietnam
+europe/georgia/vardzia	8.593	80	Vardzia	Europe, Georgia
+asia/india/gujarat/dwarka	8.588	81	Dwarka	Asia, India, Gujarat
+asia/israel/caesarea	8.588	82	Caesarea	Asia, Israel
+northamerica/honduras/copan	8.588	83	Copán	North America, Honduras
+asia/bhutan/paro	8.584	84	Paro	Asia, Bhutan
+asia/china/shaanxi/hua_shan	8.583	85	Hua Shan	Asia, China, Shaanxi Province
+northamerica/mexico/teotihuacan	8.581	86	Teotihuacan	North America, Mexico
+africa/mali/timbuktu	8.580	87	Timbuktu	Africa, Mali
+asia/israel/jerusalem	8.580	88	Jerusalem	Asia, Israel
+asia/turkey/kekova	8.580	89	Kekova	Asia, Turkey
+asia/turkey/bogazkale	8.578	90	Boğazkale	Asia, Turkey
+europe/czechrepublic/prague	8.571	91	Prague	Europe, Czech Republic
+europe/italy/tuscany/siena	8.565	92	Siena	Europe, Italy, Tuscany
+asia/pakistan/moenjodaro	8.554	93	Moenjodaro	Asia, Pakistan
+europe/ukraine/lviv	8.547	94	Lviv	Europe, Ukraine
+asia/turkey/cappadocia/urgup	8.546	95	Urgup	Asia, Turkey, Cappadocia
+africa/egypt/cairo	8.539	96	Cairo	Africa, Egypt
+europe/spain/galicia/santiagodecompostela	8.530	97	Santiago de Compostela	Europe, Spain, Galicia
+africa/kenya/thecoast/lamu	8.527	98	Lamu	Africa, Kenya, The Coast
+northamerica/canada/novascotia/capebreton/louisbourg	8.521	99	Louisbourg	North America, Canada, Nova Scotia, Cape Breton
+europe/italy/umbria/orvieto	8.514	100	Orvieto	Europe, Italy, Umbria

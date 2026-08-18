@@ -2,13 +2,17 @@
 latitude: 43.0667
 loc_type: city
 longitude: 16.1833
-score: 8.5
+score: 6.29
 snippet: Ferry-port town on Vis island, its Venetian old town wrapped around a deep
   sheltered bay
 tags:
 - island_vis
 title: Vis
 type: location
+heritage: 7.229
+vibrancy: 5.511
+nature: 5.195
+off_the_beaten_track: 1.624
 ---
 
 Vis town wraps around a deep, sheltered bay on the eastern side of the island and is the ferry port. The waterfront promenade runs almost two kilometres from the old Austrian customs house through the medieval centre of Kut to the shipyard at the south end of the bay. Most of the old town is sixteenth- and seventeenth-century Venetian stone, much of it austere and weathered, with the occasional church tower rising above red tile.

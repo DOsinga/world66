@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Egara._Sant_Miquel.jpg
 latitude: 41.562962
 loc_type: city
 longitude: 2.010049
-score: 6.97
+score: 4.804
 snippet: Catalan industrial city known for early medieval churches and textile-era
   modernista architecture
 title: Terrassa
 type: location
+heritage: 4.039
+vibrancy: 5.122
+nature: 3.983
+off_the_beaten_track: 1.45
 ---
 
 Terrassa is an industrial city in the Vallès Occidental, half an hour north of [Barcelona](/europe/spain/catalonia/barcelona) by train. Most visitors come for one reason: the [Esglésies de Sant Pere](/europe/spain/catalonia/terrassa/esglesies_sant_pere), a group of three pre-Romanesque and Romanesque churches that form one of the most important early medieval ensembles in Catalonia. The churches date from the 5th to the 12th century and contain remarkable wall paintings and mosaics.

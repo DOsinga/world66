@@ -5,11 +5,15 @@ done:
 latitude: 39.138166
 loc_type: city
 longitude: -76.234954
-score: 6.53
+score: 4.16
 snippet: Small Chesapeake Bay waterfront town with crabbing, oystering traditions,
   sailboats, and west-facing sunsets.
 title: Rock Hall
 type: location
+heritage: 5.69
+vibrancy: 1.337
+nature: 2.011
+off_the_beaten_track: 2.467
 ---
 
 Rock Hall is a small waterfront town on Maryland's Eastern Shore, facing west across the open [Chesapeake Bay](/northamerica/unitedstates/maryland). It is the kind of place watermen have worked out of for generations — crabbing and oystering, with the occasional sailboat from Annapolis dropping anchor for the weekend.

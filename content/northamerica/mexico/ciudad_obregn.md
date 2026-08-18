@@ -5,11 +5,15 @@ done:
 latitude: 27.484662
 loc_type: city
 longitude: -109.933778
-score: 5.77
+score: 3.54
 snippet: Agricultural city in Sonora's Río Yaqui Valley, known for Yaqui history and
   northern Mexican street food.
 title: Ciudad Obregón
 type: location
+heritage: 3.073
+vibrancy: 3.673
+nature: 3.198
+off_the_beaten_track: 2.657
 ---
 
 Ciudad Obregón (often just Obregón, also known as Cajeme) is a large agricultural city in the Río Yaqui Valley of southern Sonora. It is not a tourist destination, but if you are passing through, the food alone is worth a stop — the carne asada tacos, bacon-wrapped hot dogs, and fresh seafood from the nearby Sea of Cortez are among the best street eating in northern Mexico.

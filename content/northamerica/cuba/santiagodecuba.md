@@ -5,11 +5,15 @@ done:
 latitude: 20.0247
 loc_type: city
 longitude: -75.8219
-score: 8.11
+score: 5.41
 title: Santiago de Cuba
 type: location
 snippet: Caribbean Cuban city between Sierra Maestra and sea, known for son music
   and revolutionary memory.
+heritage: 4.692
+vibrancy: 4.69
+nature: 6.119
+off_the_beaten_track: 4.022
 ---
 
 Santiago de Cuba is Cuba's second city, but it often feels like the real capital — fiercer, louder, and more Caribbean than Havana. Wedged between the Sierra Maestra mountains and the sea, the city climbs steeply through a tangle of narrow streets where Afro-Cuban rhythms pour from open doorways and the heat is relentless.

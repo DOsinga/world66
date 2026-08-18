@@ -5,11 +5,15 @@ done:
 latitude: 10.4877
 loc_type: city
 longitude: -67.6125
-score: 7.31
+score: 5.695
 title: Choroni
 type: location
 snippet: Venezuelan colonial beach town between Henri Pittier cloud forest and Caribbean
   drumming in Puerto Colombia.
+heritage: 2.444
+vibrancy: 3.394
+nature: 7.07
+off_the_beaten_track: 5.76
 ---
 
 Choroni is a small colonial town on Venezuela's Caribbean coast, tucked into a valley at the northern edge of [Henri Pittier National Park](/southamerica/venezuela/choroni/henri_pittier_national_park) in Aragua state. Getting here from [Caracas](/southamerica/venezuela/caracas) means driving through the national park itself — one of the most biodiverse areas in the country, where the cloud forest drops steeply down to the sea.

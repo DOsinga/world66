@@ -2,14 +2,19 @@
 latitude: 34.7687
 loc_type: city
 longitude: 138.0149
-score: 7.0
-snippet: Small Shizuoka castle town on the old Tokaido, known for tea, birds, and a rare surviving palace.
+score: 3.92
+snippet: Small Shizuoka castle town on the old Tokaido, known for tea, birds, and
+  a rare surviving palace.
 sources:
-  - https://en.wikivoyage.org/wiki/Kakegawa
-  - https://www.japan.travel/en/spot/182/
-  - https://kakegawajo.com/english/
+- https://en.wikivoyage.org/wiki/Kakegawa
+- https://www.japan.travel/en/spot/182/
+- https://kakegawajo.com/english/
 title: Kakegawa
 type: location
+heritage: 4.607
+vibrancy: 2.61
+nature: 3.607
+off_the_beaten_track: 2.288
 ---
 
 Kakegawa is the kind of Japanese town that works best when you are already crossing Shizuoka and want a slower stop between bigger names. It was a post town on the old Tokaido road, then a castle town, and it still has enough of both identities to fill a good day without trying to be Kyoto.

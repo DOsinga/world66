@@ -5,7 +5,7 @@ loc_type: city
 latitude: 34.577944
 longitude: 136.527583
 wikidata: Q460829
-score: 7.0
+score: 3.84
 snippet: Mie castle town with samurai houses, merchant museums, and Japan's most famous
   beef
 sources:
@@ -17,6 +17,10 @@ image: matsusaka.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gojoban_Yashiki01.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Tawashi2006
+heritage: 4.372
+vibrancy: 3.448
+nature: 3.648
+off_the_beaten_track: 2.607
 ---
 
 Matsusaka sits in Mie Prefecture between Nagoya and Ise, and most people know its name because of beef. That is fair enough: Matsusaka beef is one of Japan's great luxury ingredients. But the city is more interesting than a meal stop.

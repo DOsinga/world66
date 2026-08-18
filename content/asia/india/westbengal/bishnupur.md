@@ -5,13 +5,18 @@ loc_type: city
 latitude: 23.0684
 longitude: 87.3167
 wikidata: Q533087
-score: 7.7
-snippet: West Bengal temple town of Malla terracotta architecture, Baluchari silk, and classical music.
+score: 6.222
+snippet: West Bengal temple town of Malla terracotta architecture, Baluchari silk,
+  and classical music.
 sources:
-  - https://en.wikivoyage.org/wiki/Bishnupur_(West_Bengal)
-  - https://en.wikipedia.org/wiki/Bishnupur_(West_Bengal)
-  - https://bankura.gov.in/tourist-place/bishnupur/
-  - https://wbtourism.gov.in/topDestination/details1?id=63e7c702f21baf83e8050ee1&template_id=1
+- https://en.wikivoyage.org/wiki/Bishnupur_(West_Bengal)
+- https://en.wikipedia.org/wiki/Bishnupur_(West_Bengal)
+- https://bankura.gov.in/tourist-place/bishnupur/
+- https://wbtourism.gov.in/topDestination/details1?id=63e7c702f21baf83e8050ee1&template_id=1
+heritage: 7.908
+vibrancy: 2.867
+nature: 4.373
+off_the_beaten_track: 2.684
 ---
 
 Bishnupur is the great terracotta temple town of western [West Bengal](/asia/india/westbengal). It was the capital of the Malla kings of Mallabhum, who turned brick, laterite, and local craft into one of the densest historic townscapes in the state.

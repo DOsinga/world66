@@ -2,11 +2,15 @@
 latitude: -5.0892
 loc_type: city
 longitude: -81.1144
-score: 5.8
+score: 6.224
 snippet: Northern Peru's main port city, a working harbour town in a sheltered bay
   with colonial history and excellent ceviche.
 title: Paita
 type: location
+heritage: 3.139
+vibrancy: 2.009
+nature: 7.776
+off_the_beaten_track: 6.131
 ---
 
 Paita sits in a wide sheltered bay about 55 kilometres west of [Piura](/southamerica/peru/piura), backed by pale sand cliffs and facing the open Pacific. Once one of the most important harbours on the entire Pacific coast of South America, it was raided and burned by the English privateer Thomas Cavendish in 1587 and never quite recovered its colonial-era prominence. Today it is a working city — fishing boats, tuna canneries, container terminals — but the seafront malecón has been tidied up and there is enough here for a half-day excursion from Piura.

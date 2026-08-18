@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:20120720_Antiparos_Tower_H
 latitude: 36.994353
 loc_type: city
 longitude: 25.048208
-score: 8.84
+score: 6.103
 snippet: Quiet Cycladic island beside Paros, centred on whitewashed Chora and the
   long-visited Cave of Antiparos.
 title: Antiparos
 type: location
+heritage: 3.863
+vibrancy: 5.151
+nature: 6.97
+off_the_beaten_track: 3.897
 ---
 
 Antiparos is the quiet neighbour of [Paros](/europe/greece/paros) — a small Cycladic island reached by a short ferry from Parikia, with a pace of life that feels several decades behind the rest of the Aegean. The main town (Chora) is a cluster of whitewashed houses around a 15th-century Venetian kastro, and mopeds are the best way to explore the rest.

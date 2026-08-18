@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Exeter_Cathedral,_Devon_21
 latitude: 50.725614
 loc_type: city
 longitude: -3.526921
-score: 7.94
+score: 5.126
 snippet: Ancient Devon city whose Gothic cathedral anchors a lively university town
   on the Exe
 sources:
@@ -18,6 +18,10 @@ tags:
 - devon
 title: Exeter
 type: location
+heritage: 5.622
+vibrancy: 4.977
+nature: 4.434
+off_the_beaten_track: 2.099
 ---
 
 Exeter is Devon's county town, an ancient city that feels surprisingly lively thanks to its university and central position on the rail line between London and Cornwall. It is not coastal and does not sit in a national park, so it gets fewer tourists than much of Devon, but it deserves more attention than it gets.

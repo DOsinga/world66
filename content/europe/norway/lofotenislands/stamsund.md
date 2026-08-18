@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Stamsund_Hafen.jpg
 latitude: 68.130075
 loc_type: city
 longitude: 13.849229
-score: 8.44
+score: 6.075
 snippet: Lofoten fishing village on Vestvågøy, where Hurtigruten ships call beside
   rorbu cabins and theatre stages.
 title: Stamsund
 type: location
+heritage: 4.7
+vibrancy: 4.16
+nature: 7.406
+off_the_beaten_track: 4.494
 ---
 
 Stamsund is a fishing village on the island of Vestvågøy in [Lofoten](/europe/norway/lofotenislands), with about 1,400 inhabitants. It remains an active fishing port — the harbour, the drying racks, and the [rorbu cabins](/europe/norway/lofotenislands/stamsund/rorbu_cabins) along the waterfront give the place its character.

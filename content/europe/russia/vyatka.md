@@ -8,14 +8,18 @@ image_source: https://commons.wikimedia.org/wiki/File:Da_svet_photo_%D0%B2%D1%82
 latitude: 58.6163
 loc_type: city
 longitude: 49.668
-score: 5.03
+score: 3.022
 snippet: Old Russian river city in the taiga belt, known for Dymkovo toys and merchant-era
   streets
 sources:
-  - https://en.wikivoyage.org/wiki/Kirov
-  - https://en.wikipedia.org/wiki/Kirov,_Kirov_Oblast
+- https://en.wikivoyage.org/wiki/Kirov
+- https://en.wikipedia.org/wiki/Kirov,_Kirov_Oblast
 title: Vyatka
 type: location
+heritage: 2.809
+vibrancy: 2.549
+nature: 2.966
+off_the_beaten_track: 4.819
 ---
 
 Vyatka — officially renamed Kirov in 1934 but still called Vyatka by many of its residents — is one of the oldest cities in the Russian northeast, founded in 1181 by Novgorodian settlers on the high western bank of the Vyatka River. It sits deep in the taiga belt, far from any tourist circuit, and has the quiet, self-contained character of a provincial Russian city that has never needed to perform for outsiders.

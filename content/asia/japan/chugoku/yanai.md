@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 33.9667
 longitude: 132.1167
-score: 6.8
-snippet: Small Yamaguchi port city known for Edo merchant streets and red paper goldfish lanterns.
+score: 3.98
+snippet: Small Yamaguchi port city known for Edo merchant streets and red paper goldfish
+  lanterns.
 sources:
-  - https://en.wikivoyage.org/wiki/Yanai
-  - https://en.wikipedia.org/wiki/Yanai,_Yamaguchi
-  - https://yanai-kankou.jp/en/
+- https://en.wikivoyage.org/wiki/Yanai
+- https://en.wikipedia.org/wiki/Yanai,_Yamaguchi
+- https://yanai-kankou.jp/en/
+heritage: 3.363
+vibrancy: 2.852
+nature: 4.743
+off_the_beaten_track: 3.094
 ---
 
 Yanai is a small port city in eastern Yamaguchi Prefecture, about 70 km southwest of Hiroshima. It is not trying to compete with the big temple towns. Its appeal is quieter: white-walled merchant houses, old soy-sauce warehouses, and red paper goldfish lanterns hanging along the lanes.

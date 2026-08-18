@@ -5,11 +5,15 @@ done:
 latitude: 44.0061
 loc_type: city
 longitude: -97.1142
-score: 5.93
+score: 3.106
 snippet: Small South Dakota university city on Lake Herman, with prairie parks and
   Dakota State campus life.
 title: Madison
 type: location
+heritage: 1.779
+vibrancy: 1.312
+nature: 3.971
+off_the_beaten_track: 2.764
 ---
 
 Madison is a small city of about 7,000 people in eastern South Dakota, roughly 40 miles northwest of [Sioux Falls](/northamerica/unitedstates/southdakota/siouxfalls). It sits on the shore of Lake Herman and is the home of [Dakota State University](/northamerica/unitedstates/southdakota/madison/dakota_state_university), which gives it a bit more life than most towns this size on the prairie.

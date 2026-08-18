@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:12-20_Queen_Street,_Niagar
 latitude: 43.255612
 loc_type: city
 longitude: -79.072326
-score: 8.4
+score: 5.394
 snippet: Immaculate Ontario wine town at the Niagara River mouth, with Loyalist streets
   and Shaw Festival theatres.
 title: Niagara-on-the-Lake
 type: location
+heritage: 5.336
+vibrancy: 5.457
+nature: 5.198
+off_the_beaten_track: 1.67
 ---
 
 Niagara-on-the-Lake is a small, immaculate town at the mouth of the Niagara River where it meets Lake Ontario, about 20km north of [Niagara Falls](/northamerica/canada/ontario/niagrafalls). With its tree-lined streets, heritage buildings, and manicured gardens, it has a distinctly British feel — a legacy of its role as the first capital of Upper Canada.

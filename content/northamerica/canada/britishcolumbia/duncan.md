@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Duncan_Totem_Poles_(569683
 latitude: 48.7787
 loc_type: city
 longitude: -123.708
-score: 6.72
+score: 5.745
 snippet: Cowichan Valley town on Vancouver Island known for First Nations totem poles
   and nearby wineries.
 title: Duncan
 type: location
+heritage: 4.538
+vibrancy: 2.415
+nature: 6.981
+off_the_beaten_track: 4.543
 ---
 
 Duncan is a small town in the Cowichan Valley on Vancouver Island, about halfway between Victoria and Nanaimo. It calls itself the "City of Totems" — [more than 40 totem poles](/northamerica/canada/britishcolumbia/duncan/city_of_totems) are scattered through the town centre, carved by First Nations artists from the Cowichan Tribes and other communities. A self-guided walking tour takes you past the best of them.

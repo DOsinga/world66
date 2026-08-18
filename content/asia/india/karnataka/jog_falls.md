@@ -6,8 +6,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Waterfall_Jog-_Shimoga_Kar
 latitude: 14.2283
 loc_type: feature
 longitude: 74.7953
-score: 9.2
-snippet: Monsoon-fed Western Ghats waterfall where the Sharavathi River plunges 253 metres in four distinct cascades.
+score: 6.759
+snippet: Monsoon-fed Western Ghats waterfall where the Sharavathi River plunges 253
+  metres in four distinct cascades.
 story: Jog Falls was once described as the second highest untiered waterfall in the
   world, though the Linganmakki Dam upstream now controls its flow — the falls only
   thunder at full volume during the monsoon or when Karnataka Power Corporation releases
@@ -17,6 +18,10 @@ tags:
 - nature
 title: Jog Falls
 type: location
+heritage: 6.482
+vibrancy: 2.161
+nature: 7.729
+off_the_beaten_track: 5.093
 ---
 
 Jog Falls is the most famous natural sight in the region and justifies a full day from Shimoga. The Sharavathi river drops 253 metres in four distinct plunges — the Raja, the Rani, the Rover, and the Roarer — over a rocky escarpment at the edge of the Western Ghats. At full flow it is genuinely breathtaking: a curtain of white water crashing into a mist-filled gorge.

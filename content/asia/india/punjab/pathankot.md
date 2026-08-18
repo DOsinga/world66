@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dhar_Kalan,_Pathankot_view
 latitude: 32.3022
 loc_type: city
 longitude: 75.6589
-score: 6.01
+score: 2.489
 snippet: Northern Punjab transport junction where the plains meet routes into Himachal
   and the Himalayas.
 sources:
@@ -18,6 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Ranjit_Sagar_Dam
 title: Pathankot
 type: location
+heritage: 2.838
+vibrancy: 2.209
+nature: 1.748
+off_the_beaten_track: 3.524
 ---
 
 Pathankot is a transport junction in northern Punjab, the gateway to the hill stations and mountain valleys of Himachal Pradesh and [Jammu and Kashmir](/asia/india/jammuandkashmir). Most travellers pass through rather than linger, but it serves as a useful staging point for journeys to [Dalhousie](/asia/india/himachalpradesh/dalhousie), [Kangra](/asia/india/himachalpradesh/kangra), Chamba, and the deeper Himalayas.

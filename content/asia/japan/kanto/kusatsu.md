@@ -5,11 +5,16 @@ loc_type: city
 latitude: 36.6167
 longitude: 138.6
 wikidata: Q1358949
-score: 7.7
-snippet: Mountain onsen town in Gunma, built around one of Japan's most powerful hot-spring sources
+score: 5.439
+snippet: Mountain onsen town in Gunma, built around one of Japan's most powerful hot-spring
+  sources
 sources:
-  - https://en.wikivoyage.org/wiki/Kusatsu
-  - https://www.kusatsu-onsen.ne.jp/
+- https://en.wikivoyage.org/wiki/Kusatsu
+- https://www.kusatsu-onsen.ne.jp/
+heritage: 4.734
+vibrancy: 2.942
+nature: 6.424
+off_the_beaten_track: 3.61
 ---
 
 Kusatsu is a high mountain onsen town in Gunma, famous for hot water that arrives in town with almost theatrical force. The centre is the steaming [Yubatake](/asia/japan/kanto/kusatsu/yubatake), where mineral-rich water pours through wooden channels before being sent to baths around town.

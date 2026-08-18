@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Issaquah_-_Sunset_Way_01.j
 latitude: 47.534878
 loc_type: city
 longitude: -122.043297
-score: 6.67
+score: 4.91
 snippet: Cascade foothills town east of Seattle, with trailheads and salmon runs almost
   in the centre.
 title: Issaquah
 type: location
+heritage: 1.795
+vibrancy: 3.549
+nature: 5.896
+off_the_beaten_track: 1.457
 ---
 
 Issaquah sits about 16 miles east of Seattle at the base of the Cascade foothills, right off Interstate 90. It's an easy day trip or overnight stop if you're heading into the mountains, and it has more going for it than most Seattle suburbs.

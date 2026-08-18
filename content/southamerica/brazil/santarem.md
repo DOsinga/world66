@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_Metropolitana_de_
 latitude: -2.4385
 loc_type: city
 longitude: -54.6996
-score: 6.53
+score: 6.182
 snippet: Amazon city at the Tapajós confluence, known for clear-water beaches and
   the Meeting of the Waters
 title: Santarém
 type: location
+heritage: 4.782
+vibrancy: 3.374
+nature: 7.555
+off_the_beaten_track: 5.127
 ---
 
 Santarém sits at the confluence of the Amazon and Tapajós rivers, roughly halfway between Belém and Manaus, and is one of the most appealing cities in the Brazilian Amazon. Around 250,000 people live here, and the surrounding area offers pristine rainforest, flooded forest, and a string of beautiful sandy beaches along the Tapajós.

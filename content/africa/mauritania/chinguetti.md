@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Chinguetti-Vue_Goblale_Vie
 latitude: 20.463434
 loc_type: city
 longitude: -12.366484
-score: 7.02
+score: 4.146
 snippet: Saharan learning town of mud-brick lanes, manuscript libraries, and a 13th-century
   mosque tower.
 title: Chinguetti
 type: location
+heritage: 3.355
+vibrancy: 1.971
+nature: 4.605
+off_the_beaten_track: 5.97
 ---
 
 Chinguetti is one of the most atmospheric towns in the Sahara, and Mauritanians consider it the seventh holy city of Islam. Whether or not that claim holds strictly to orthodoxy, the town did have a genuine reputation as a centre of Islamic learning, and the evidence is still very much present: a 13th-century [mosque](/africa/mauritania/chinguetti/mosque) with a distinctive ostrich-egg-topped tower, a labyrinth of mud-brick houses slowly being swallowed by sand dunes, and a handful of [private libraries](/africa/mauritania/chinguetti/manuscript_libraries) preserving thousands of Arabic manuscripts on mathematics, astronomy, law, and theology.

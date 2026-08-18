@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Wolverhampton_Art_Gallery_
 latitude: 52.584765
 loc_type: city
 longitude: -2.127567
-score: 6.15
+score: 4.513
 snippet: Black Country city with deep industrial roots, diverse communities, and a
   strong free art gallery.
 title: Wolverhampton
 type: location
+heritage: 5.05
+vibrancy: 4.229
+nature: 3.552
+off_the_beaten_track: 2.821
 ---
 
 Wolverhampton does not try to charm you, and that honesty is part of its appeal. This is a big, sprawling Black Country city with deep industrial roots, a proud Sikh and Caribbean community, and a football club that has been punching above its weight in the Premier League. It is not on many tourist itineraries, but visitors who do come will find a city with more substance than its reputation suggests.

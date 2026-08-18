@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Gedung_Bank_Indonesia_di_B
 latitude: -3.3188
 loc_type: city
 longitude: 114.5926
-score: 6.9
+score: 4.584
 snippet: South Kalimantan river city where floating markets and stilt houses line
   the Barito and Martapura waterways.
 title: Banjarmasin
 type: location
+heritage: 2.86
+vibrancy: 3.144
+nature: 5.534
+off_the_beaten_track: 5.147
 ---
 
 Banjarmasin is built on water. The capital of South Kalimantan sits at the confluence of the Barito and Martapura rivers, and much of daily life still happens on those waterways — people travel by boat, buy their vegetables from floating vendors, and build their homes on stilts above the current. It is one of the few cities in Borneo where the river culture feels genuinely alive rather than performed for tourists.

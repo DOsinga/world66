@@ -13,6 +13,10 @@ import yaml
 
 CONTENT_DIR = Path("content")
 DB_PATH = Path("search.db")
+LOCATION_SCORES_PATH = Path("scoring/data/location_scores.json")
+LOCATION_HIDDEN_PATH = Path("scoring/data/all_location_hidden_12.npz")
+SCORE_COMPONENTS = ("heritage", "vibrancy", "nature", "off_the_beaten_track")
+HIDDEN_COMPONENTS = 12
 
 DEFAULT_LOCAL_MODEL = "mlx-community/Qwen3-Embedding-4B-4bit-DWQ"
 DEFAULT_OPENAI_MODEL = "openai:text-embedding-3-small"
@@ -129,6 +133,17 @@ def init_db(conn):
             embedding float[{EMBEDDING_DIM}]
         )
     """)
+    score_columns = ", ".join(f"{name} REAL" for name in ("score", *SCORE_COMPONENTS))
+    hidden_columns = ", ".join(f"hidden_{i} REAL" for i in range(HIDDEN_COMPONENTS))
+    conn.execute(f"""
+        CREATE TABLE IF NOT EXISTS location_scores (
+            path TEXT PRIMARY KEY,
+            country_path TEXT,
+            parent_path TEXT,
+            {score_columns},
+            {hidden_columns}
+        )
+    """)
 
     prev_model = conn.execute("SELECT value FROM config WHERE key = 'embedding_model'").fetchone()
     prev_dim = conn.execute("SELECT value FROM config WHERE key = 'embedding_dim'").fetchone()
@@ -148,6 +163,51 @@ def init_db(conn):
                  ("embedding_model", EMBEDDING_MODEL))
     conn.execute("INSERT OR REPLACE INTO config(key, value) VALUES (?, ?)",
                  ("embedding_dim", str(EMBEDDING_DIM)))
+
+
+def _country_path(path):
+    parts = path.split("/")
+    return "/".join(parts[:2]) if len(parts) >= 2 else path
+
+
+def _parent_path(path):
+    return path.rsplit("/", 1)[0] if "/" in path else ""
+
+
+def sync_location_scores(conn):
+    if not LOCATION_SCORES_PATH.is_file() or not LOCATION_HIDDEN_PATH.is_file():
+        print("Skipping location_scores table; scoring artifacts are missing")
+        return
+
+    scores = json.loads(LOCATION_SCORES_PATH.read_text())
+    hidden_data = np.load(LOCATION_HIDDEN_PATH, allow_pickle=True)
+    hidden_by_path = {
+        str(path): hidden_data["hidden"][i].astype(float).tolist()
+        for i, path in enumerate(hidden_data["paths"])
+    }
+    columns = [
+        "path", "country_path", "parent_path", "score",
+        *SCORE_COMPONENTS, *(f"hidden_{i}" for i in range(HIDDEN_COMPONENTS)),
+    ]
+    placeholders = ", ".join("?" for _ in columns)
+
+    conn.execute("DELETE FROM location_scores")
+    for path, row in scores.items():
+        hidden = hidden_by_path.get(path)
+        if hidden is None:
+            continue
+        values = [
+            path,
+            _country_path(path),
+            _parent_path(path),
+            row["score"],
+            *(row[name] for name in SCORE_COMPONENTS),
+            *hidden,
+        ]
+        conn.execute(
+            f"INSERT INTO location_scores({', '.join(columns)}) VALUES ({placeholders})",
+            values,
+        )
 
 
 def file_hash(path):
@@ -296,6 +356,7 @@ def run():
             if result:
                 pending.append(result)
         remove_deleted(conn)
+        sync_location_scores(conn)
         conn.execute("COMMIT")
     except Exception:
         conn.execute("ROLLBACK")
@@ -314,6 +375,20 @@ def run():
     print(f"Indexed {total} files; {len(pending)} (re)embedded")
 
 
+def sync_scores_only():
+    conn = apsw.Connection(str(DB_PATH))
+    init_db(conn)
+    conn.execute("BEGIN")
+    try:
+        sync_location_scores(conn)
+        conn.execute("COMMIT")
+    except Exception:
+        conn.execute("ROLLBACK")
+        raise
+    finally:
+        conn.close()
+
+
 def main():
     parser = argparse.ArgumentParser(description="Build search.db: FTS5 docs index + POI embeddings")
     parser.add_argument(
@@ -323,12 +398,16 @@ def main():
               f"or 'openai:<model>' (e.g. {DEFAULT_OPENAI_MODEL})"),
     )
     parser.add_argument("--dim", type=int, default=512, help="Embedding dimension (Matryoshka truncation)")
+    parser.add_argument("--scores-only", action="store_true", help="Only refresh location score tables")
     args = parser.parse_args()
 
     global EMBEDDING_MODEL, EMBEDDING_DIM
     EMBEDDING_MODEL = args.model
     EMBEDDING_DIM = args.dim
-    run()
+    if args.scores_only:
+        sync_scores_only()
+    else:
+        run()
 
 
 if __name__ == "__main__":

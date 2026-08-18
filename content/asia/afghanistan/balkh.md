@@ -5,13 +5,17 @@ done:
 latitude: 36.7581
 loc_type: city
 longitude: 66.898
-score: 5.32
+score: 6.016
 snippet: Ancient northern Afghan city, once Bactra, with Timurid shrines rising from
   ruined walls and fields
 sources:
 - https://en.wikipedia.org/wiki/Balkh
 title: Balkh
 type: location
+heritage: 7.322
+vibrancy: 1.63
+nature: 3.698
+off_the_beaten_track: 7.034
 ---
 
 Balkh lies in northern Afghanistan, close to [Mazar-i-Sharif](/asia/afghanistan/mazarisharif), and claims to be one of the oldest cities in the world. It is the legendary birthplace of the prophet Zoroaster. Alexander the Great founded a Greek colony here, and as Bactra it became the capital of the independent kingdom of Bactria. In the early centuries AD, Balkh was a prominent centre of Buddhism, renowned for its monasteries and stupas.

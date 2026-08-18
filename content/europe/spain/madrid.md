@@ -16,7 +16,7 @@ quick_facts:
   Population: ~3.3 million
   Retiro Park: A royal garden, now public
   The Prado: One of the world's great galleries
-score: 9.33
+score: 9.352
 snippet: High inland Spanish capital of royal squares, late nights, and the Prado-centred
   art triangle
 tip: Madrid is Europe's highest capital at 650 m, with a dry climate and fierce summer
@@ -26,6 +26,10 @@ tip: Madrid is Europe's highest capital at 650 m, with a dry climate and fierce 
   from the Temple of Debod.
 title: Madrid
 type: location
+heritage: 8.803
+vibrancy: 9.631
+nature: 4.332
+off_the_beaten_track: 1.17
 ---
 
 Madrid sits at 650 metres on a high inland plateau and is, by some distance, the highest capital city in Europe. It became Spain's capital relatively late — in 1561, when Philip II moved his court here from Toledo — and grew quickly under the Habsburgs and Bourbons into a city of grand royal architecture, formal squares, and the finest art collection in the world. It is a city of late nights, big meals, and operatic public life: nobody is quite sure when the madrileños actually sleep.

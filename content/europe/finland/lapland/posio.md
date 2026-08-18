@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 66.1083
 longitude: 28.1667
-score: 7.05
-snippet: Lapland lake town known for Pentik ceramics, snowy fell forests, and Korouoma canyon hikes.
+score: 5.71
+snippet: Lapland lake town known for Pentik ceramics, snowy fell forests, and Korouoma
+  canyon hikes.
 wikidata: Q530517
 sources:
-  - https://en.wikivoyage.org/wiki/Posio
-  - https://en.wikipedia.org/wiki/Posio
-  - https://www.posiolapland.com/
+- https://en.wikivoyage.org/wiki/Posio
+- https://en.wikipedia.org/wiki/Posio
+- https://www.posiolapland.com/
+heritage: 3.456
+vibrancy: 1.391
+nature: 7.174
+off_the_beaten_track: 5.495
 ---
 
 Posio sits in the southeast corner of Finnish Lapland, where the landscape is more lake country and wooded fell than open Arctic tundra. It is a small place, but it has a clear identity: Pentik ceramics, clear-water summer lakes, and two of Lapland's better nature days within reach.

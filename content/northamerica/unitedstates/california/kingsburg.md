@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Draper_Street_in_Kingsburg
 latitude: 36.5138
 loc_type: city
 longitude: -119.5539
-score: 5.84
+score: 1.659
 snippet: San Joaquin Valley farm city with Swedish-American heritage visible in Draper
   Street and its coffee-pot water tower.
 sources:
 - https://en.wikipedia.org/wiki/Kingsburg,_California
 title: Kingsburg
 type: location
+heritage: 1.849
+vibrancy: 1.569
+nature: 1.502
+off_the_beaten_track: 1.541
 ---
 
 Kingsburg is a small city in the San Joaquin Valley south of Fresno, distinguished by its Swedish heritage. The first settlers arrived in the 1870s — Swedish immigrants drawn by the promise of Central Pacific Railroad land grants and good farming conditions — and by 1921 around 94% of the population within three miles was Swedish-American. The town still leans into the identity: buildings on [Draper Street](/northamerica/unitedstates/california/kingsburg/draper_street) downtown are styled with Swedish architectural touches, there's a [giant coffee pot water tower](/northamerica/unitedstates/california/kingsburg/swedish_coffee_pot_tower), and the annual [Swedish Festival](/northamerica/unitedstates/california/kingsburg/swedish_festival) in May draws visitors from across California.

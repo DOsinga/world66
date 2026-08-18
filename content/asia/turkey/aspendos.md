@@ -6,8 +6,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Aspendos_Theatre_Scaenae_f
 latitude: 36.94
 loc_type: feature
 longitude: 31.1717
-score: 8.6
-snippet: Ancient Pamphylian city best known for the Mediterranean's most complete surviving Roman theatre.
+score: 5.756
+snippet: Ancient Pamphylian city best known for the Mediterranean's most complete
+  surviving Roman theatre.
 story: The theatre at Aspendos is widely considered the best-preserved Roman theatre
   in the world. Built in the 2nd century AD under Marcus Aurelius, it seated 15,000
   people and the entire stage building — including the upper gallery and scaena frons
@@ -19,6 +20,10 @@ tags:
 - architecture
 title: Aspendos
 type: location
+heritage: 7.691
+vibrancy: 2.439
+nature: 3.196
+off_the_beaten_track: 3.387
 ---
 
 About 35km west of Side, Aspendos has the most complete Roman theatre in the Mediterranean. Unlike the Side theatre, which has a ruined stage building, Aspendos gives you the full interior as the Romans intended it — you can sit in the upper tiers and look at an almost intact facade. It takes about 90 minutes to reach by taxi or organised tour. The site also has a well-preserved aqueduct visible from the road approaching the theatre.

@@ -4,12 +4,16 @@ done:
 latitude: 38.7986
 loc_type: city
 longitude: -86.6383
-score: 4.56
+score: 1.53
 snippet: Quiet southern Indiana village on the White River, with a covered bridge
   and cave country nearby.
 title: Williams Dam
 todo_location_cleanup: done
 type: location
+heritage: 1.591
+vibrancy: 1.429
+nature: 1.681
+off_the_beaten_track: 2.154
 ---
 
 Williams Dam is a quiet village on the East Fork of the White River in southern Indiana, population around 400. Once a more substantial community — with a gas station, stores, a twelve-grade school, a hotel and restaurant, a dance hall, and a water-powered generating plant that served the surrounding area — it is now a shadow of its WWII-era peak.

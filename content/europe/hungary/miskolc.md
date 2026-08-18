@@ -10,13 +10,17 @@ image_source: https://www.flickr.com/photos/94611718@N00/15714742369
 latitude: 48.1031
 loc_type: city
 longitude: 20.79
-score: 7.44
+score: 4.417
 snippet: Northeastern Hungarian city below the Bükk Mountains, known for thermal cave
   baths and nearby forests
 sources:
 - https://en.wikipedia.org/wiki/Miskolc
 title: Miskolc
 type: location
+heritage: 4.408
+vibrancy: 4.454
+nature: 3.579
+off_the_beaten_track: 2.455
 ---
 
 Miskolc is Hungary's third-largest city, tucked into the foothills of the Bükk Mountains in the northeast of the country. It is an industrial city that does not pretend to be a tourist magnet, but the surrounding area has genuine appeal — most notably Miskolctapolca, a suburb where you can swim through a natural cave system fed by thermal springs at the extraordinary [Cave Bath](/europe/hungary/miskolc/cave_bath).

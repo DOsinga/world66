@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Pingxiang,_JX,_PRC.jpg
 latitude: 27.63
 loc_type: city
 longitude: 113.85
-score: 5.87
+score: 3.19
 snippet: Industrial Jiangxi city near Wugongshan's cloud-high grass ridges and old
   Taoist altar sites.
 sources:
 - https://en.wikivoyage.org/wiki/Pingxiang_(Jiangxi)
 title: Pingxiang
 type: location
+heritage: 3.434
+vibrancy: 1.91
+nature: 3.489
+off_the_beaten_track: 2.764
 ---
 
 Pingxiang sits at the western edge of Jiangxi, bordered by Hunan province and shaped by a coal-mining and industrial history that it is actively trying to reframe. The city's most significant natural attraction lies outside the urban center: [Wugongshan National Geopark](/asia/china/jiangxi/pingxiang/wugongshan), an elevated ridge of grass-covered peaks rising above the clouds, offers some of the best high-altitude camping in the province. The meadow landscapes at the summit are genuinely unusual for this part of China — broad, windswept grasslands dotted with ancient Taoist altar sites, the combination of stonework and open highland scenery unlike anything else in Jiangxi.

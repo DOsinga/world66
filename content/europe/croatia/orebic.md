@@ -7,13 +7,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Izme%C4%91u_dvi_stine11403
 latitude: 42.976914
 loc_type: city
 longitude: 17.183237
-score: 8.49
+score: 4.834
 snippet: Pelješac seafaring town facing Korčula, backed by St. Ilija and long pebble
   beaches.
 tags:
 - peljesac
 title: Orebić
 type: location
+heritage: 3.721
+vibrancy: 3.01
+nature: 5.915
+off_the_beaten_track: 3.087
 ---
 
 Orebić lies on the southwest coast of the Pelješac peninsula, at the foot of St. Ilija hill (961 metres), facing the island of Korčula across a narrow channel. The town gets sunshine all day long and has a mild, almost subtropical feel — centuries-old fir trees and cypresses, olive groves, flower gardens, and long pebble beaches stretching in both directions.

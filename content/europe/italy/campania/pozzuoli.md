@@ -12,8 +12,12 @@ sources:
 - https://en.wikivoyage.org/wiki/Pozzuoli
 title: Pozzuoli
 type: location
-score: 8.14
+score: 5.227
 snippet: Port city west of Naples, built inside the volcanic Campi Flegrei caldera.
+heritage: 6.27
+vibrancy: 4.047
+nature: 4.224
+off_the_beaten_track: 2.0
 ---
 
 Pozzuoli is a port city just west of Naples, and one of the most geologically strange places in Italy. The entire town sits within the Campi Flegrei — the Phlegraean Fields — a vast volcanic caldera that has been slowly rising and sinking for millennia. The process, called bradyseism, has lifted and submerged the ancient Roman city of Puteoli multiple times; the [Macellum of Pozzuoli](/europe/italy/campania/pozzuoli/macellum_of_pozzuoli), the old Roman market building, shows clear marine bore marks halfway up its columns from periods when the floor was completely underwater. Pozzuoli is built on a live volcano, and everyone knows it.

@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:LakeWanakaNov262024_01.jpg
 latitude: -44.6942
 loc_type: city
 longitude: 169.1365
-score: 9.12
+score: 6.109
 snippet: Lakeside Otago resort town below alpine peaks, quieter than Queenstown but
   close to ski fields and trails.
 title: Wanaka
 type: location
+heritage: 2.973
+vibrancy: 4.389
+nature: 7.348
+off_the_beaten_track: 2.035
 ---
 
 Wanaka sits on the southern shore of [Lake Wānaka](/australiaandpacific/newzealand/south_island/otago/wanaka/lake_wanaka) in Central Otago, surrounded by mountains that reflect in the lake with unreasonable clarity. It has long been described as the quieter alternative to [Queenstown](/australiaandpacific/newzealand/south_island/otago/queenstown), an hour's drive south — and while it has grown considerably as a destination, it still feels more human-scaled and less frantic than its famous neighbour.

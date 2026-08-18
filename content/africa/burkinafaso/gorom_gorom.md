@@ -5,8 +5,9 @@ loc_type: city
 latitude: 14.45
 longitude: -0.2333
 wikidata: Q741117
-score: 6.8
-snippet: Remote Sahel market town and Oudalan crossroads with Tuareg, Fulani, and Songhai trade.
+score: 4.745
+snippet: Remote Sahel market town and Oudalan crossroads with Tuareg, Fulani, and
+  Songhai trade.
 sources:
 - https://en.wikivoyage.org/wiki/Gorom-Gorom
 - https://en.wikipedia.org/wiki/Gorom-Gorom
@@ -15,6 +16,10 @@ image: gorom_gorom.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Marche_de_Gorom_Gorom001.jpg
 image_license: CC BY-SA 2.0
 image_attribution: C. Hugues
+heritage: 4.289
+vibrancy: 3.157
+nature: 5.36
+off_the_beaten_track: 6.538
 ---
 
 *Africa > Burkina Faso > Gorom-Gorom*

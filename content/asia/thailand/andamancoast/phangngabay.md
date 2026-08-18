@@ -14,7 +14,7 @@ quick_facts:
   James Bond Island: The Golden Gun set
   Karst Islands: 40+
   National Park Since: '1981'
-score: 9.45
+score: 6.39
 snippet: Karst-filled marine bay between Phuket and Krabi, known for limestone towers
   and hidden hongs.
 tip: Phang Nga Bay's limestone karsts rise straight out of emerald water near Phuket
@@ -24,6 +24,10 @@ tip: Phang Nga Bay's limestone karsts rise straight out of emerald water near Ph
   the famous spots.
 title: Phang Nga Bay
 type: location
+heritage: 0.912
+vibrancy: 5.02
+nature: 7.479
+off_the_beaten_track: 3.92
 ---
 
 Phang Nga Bay is one of the most dramatic seascapes in Southeast Asia: dozens of sheer limestone karst towers rise straight out of calm, shallow emerald water between [Phuket](/asia/thailand/andamancoast/phuket) and [Krabi](/asia/thailand/andamancoast/krabi). The bay is part of a national marine park, and most visitors explore it by longtail boat or sea kayak.

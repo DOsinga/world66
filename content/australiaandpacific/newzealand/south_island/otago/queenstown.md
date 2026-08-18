@@ -16,7 +16,7 @@ quick_facts:
   Elevation: 310 m
   Lake Wakatipu: 80 km long
   Strange Tide: The lake 'breathes' hourly
-score: 9.75
+score: 6.64
 snippet: Lake Wakatipu mountain town and New Zealand adventure capital beneath the
   Remarkables range.
 tip: Queenstown is the adventure capital — commercial bungy jumping was born here
@@ -25,6 +25,10 @@ tip: Queenstown is the adventure capital — commercial bungy jumping was born h
   but spectacular drive. Winter is ski season, summer is hiking.
 title: Queenstown
 type: location
+heritage: 4.729
+vibrancy: 5.537
+nature: 7.616
+off_the_beaten_track: 3.046
 ---
 
 Queenstown sits at the edge of [Lake Wakatipu](/australiaandpacific/newzealand/south_island/otago/queenstown/lake_wakatipu) on New Zealand's South Island, ringed by the jagged [Remarkables](/australiaandpacific/newzealand/south_island/otago/queenstown/the_remarkables) mountain range. It is the country's undisputed adventure capital — the place where [bungy jumping](/australiaandpacific/newzealand/south_island/otago/queenstown/bungy_jumping) was commercialised, and where the adrenaline industry has never looked back.

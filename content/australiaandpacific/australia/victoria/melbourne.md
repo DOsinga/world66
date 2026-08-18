@@ -16,7 +16,7 @@ quick_facts:
   Laneways: Cafés and street art hide here
   MCG: Holds 100,000 spectators
   Population: ~5 million
-score: 9.32
+score: 7.586
 snippet: Australian cultural city of laneways, street art, immigrant food districts,
   and intense sporting loyalties
 tip: 'Melbourne is Australia''s coffee-and-culture capital, and its secret is the
@@ -26,6 +26,10 @@ tip: 'Melbourne is Australia''s coffee-and-culture capital, and its secret is th
   the Australian Open and the Spring racing carnival.'
 title: Melbourne
 type: location
+heritage: 7.027
+vibrancy: 7.855
+nature: 4.828
+off_the_beaten_track: 2.051
 ---
 
 Melbourne is Australia's second-largest city and its strongest claim to a cultural capital. It is a city that lives in its laneways, where street art covers the walls of [Hosier Lane](/australiaandpacific/australia/victoria/melbourne/hosier_lane), tiny bars hide behind unmarked doors, and some of the country's best restaurants operate from spaces you would walk past without noticing. The waves of immigration since World War II have given Melbourne an extraordinary diversity, from the Italian quarter in [Carlton](/australiaandpacific/australia/victoria/melbourne/carlton) to the Greek precinct of Oakleigh and the Vietnamese restaurants lining [Victoria Street in Richmond](/australiaandpacific/australia/victoria/melbourne/richmond_victoria_street).

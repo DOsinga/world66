@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Longmen_Grottoes_3.jpg
 latitude: 34.6197
 loc_type: city
 longitude: 112.4477
-score: 8.09
+score: 5.383
 snippet: Ancient Henan capital known for Longmen Grottoes, White Horse Temple, and
   peony cultivation.
 title: Luoyang
 type: location
+heritage: 7.3
+vibrancy: 2.455
+nature: 2.455
+off_the_beaten_track: 2.703
 ---
 
 Luoyang is one of China's great ancient capitals, a city where imperial dynasties rose and fell for over a thousand years. Sitting on the banks of the Luo River in western Henan Province, it served as the capital for thirteen dynasties, making it one of the oldest continuously inhabited cities in China.

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Phra_Nakhon_Khiri_Historic
 latitude: 13.1095
 loc_type: city
 longitude: 99.9397
-score: 7.71
+score: 4.746
 snippet: Old Thai city of hilltop palaces, cave temples, monastery murals, and palm-sugar
   sweets
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Phetchaburi
 title: Phetchaburi
 type: location
+heritage: 5.875
+vibrancy: 3.305
+nature: 2.754
+off_the_beaten_track: 2.841
 ---
 
 Phetchaburi is one of Thailand's oldest cities, with roots stretching back to the Dvaravati kingdom over a thousand years ago. Unlike the beach towns further south, this is a place where Thai history sits in plain sight — hilltop palaces, centuries-old cave temples, and monastery murals that rank among the finest in the country.

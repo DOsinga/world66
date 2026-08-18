@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Havnegade,_Allinge_2012.jp
 latitude: 55.283008
 loc_type: city
 longitude: 14.791535
-score: 8.17
+score: 5.585
 snippet: Twin villages at northern Bornholm, near granite cliffs and the medieval
   fortress ruins of Hammershus.
 title: Sandvig-Allinge
 type: location
+heritage: 4.509
+vibrancy: 1.544
+nature: 6.746
+off_the_beaten_track: 3.878
 ---
 
 Sandvig and Allinge sit at the northern tip of Bornholm, twin villages so close they have long been treated as one. Of the two, Sandvig is the quieter — a cluster of half-timbered houses around a small harbour, backed by rocky headlands and heather-covered hills. Allinge is the more practical, with shops, restaurants, and the ferry connection to Christiansø.

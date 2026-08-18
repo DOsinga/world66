@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Sudbury_(Suffolk),_Freemen
 latitude: 52.040152
 loc_type: city
 longitude: 0.72995
-score: 6.3
+score: 3.579
 snippet: Suffolk market town on the River Stour, best known as Thomas Gainsborough's
   birthplace
 title: Sudbury
 type: location
+heritage: 4.585
+vibrancy: 2.177
+nature: 2.408
+off_the_beaten_track: 1.314
 ---
 
 Sudbury is a quiet market town on the River Stour in [Suffolk](/europe/unitedkingdom/england/east_of_england), best known as the birthplace of Thomas Gainsborough. His statue stands on [Market Hill](/europe/unitedkingdom/england/east_of_england/sudbury/market_hill), and [Gainsborough's House](/europe/unitedkingdom/england/east_of_england/sudbury/gainsboroughs_house) — the family home, now a museum — holds the largest collection of his work anywhere, including early landscapes of the surrounding countryside that he painted as a teenager.

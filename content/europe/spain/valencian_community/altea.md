@@ -10,13 +10,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Altea_costa.JPG
 latitude: 38.5991
 loc_type: city
 longitude: -0.0486
-score: 8.37
+score: 5.639
 snippet: Costa Blanca hill town with whitewashed lanes, blue-domed church, galleries,
   and a bayfront pebble beach.
 tags:
 - costa_blanca
 title: Altea
 type: location
+heritage: 4.248
+vibrancy: 5.586
+nature: 5.777
+off_the_beaten_track: 1.321
 ---
 
 Altea is the prettiest town on the Costa Blanca, and one of the few places along this stretch of coast that hasn't been swallowed by resort development. The [Casco Antiguo](/europe/spain/valencian_community/altea/casco_antiguo) sits on a hill above the bay, its whitewashed lanes climbing to the [Iglesia de Nuestra Señora del Consuelo](/europe/spain/valencian_community/altea/iglesia_de_nuestra_senora_del_consuelo), a church with glazed blue-tiled domes that have become the symbol of the town. From the church terrace you look down over terracotta rooftops, a marina, and a long pebble beach curving around the bay.

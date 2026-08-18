@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Naserya_city_center_1.JPG
 latitude: 31.043996
 loc_type: city
 longitude: 46.239939
-score: 4.33
+score: 4.687
 title: An Nasiriyah
 type: location
 snippet: Euphrates city in southeastern Iraq, used as a gateway to Ur and the Mesopotamian
   Marshes.
+heritage: 5.177
+vibrancy: 1.52
+nature: 1.985
+off_the_beaten_track: 7.175
 ---
 
 An Nasiriyah is the capital of Dhi Qar Governorate in southeastern Iraq, on the Euphrates River. Founded in 1870, it is a provincial city of around 800,000 people and the main gateway for visiting the nearby ruins of [Ur](/asia/iraq/ur), one of the oldest cities in the world.

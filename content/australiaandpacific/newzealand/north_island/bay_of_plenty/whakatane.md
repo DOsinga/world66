@@ -8,14 +8,19 @@ image: whakatane.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Whakatane_Town.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Ulrich Lange, Dunedin, New Zealand
-score: 7.4
-snippet: Sunny Bay of Plenty town with Ngati Awa heritage, island wildlife, and Ohope Beach over the hill.
+score: 5.048
+snippet: Sunny Bay of Plenty town with Ngati Awa heritage, island wildlife, and Ohope
+  Beach over the hill.
 sources:
-  - https://en.wikivoyage.org/wiki/Whakatane
-  - https://www.whakatane.com/welcome-whakatane
-  - https://www.mataatua.com/
-  - https://www.doc.govt.nz/parks-and-recreation/places-to-go/bay-of-plenty/places/whakatane-area/moutohora-whale-island-wildlife-management-reserve/
-  - https://www.doc.govt.nz/parks-and-recreation/places-to-go/bay-of-plenty/places/whakatane-area/things-to-do/nga-tapuwae-o-toi-walkway/
+- https://en.wikivoyage.org/wiki/Whakatane
+- https://www.whakatane.com/welcome-whakatane
+- https://www.mataatua.com/
+- https://www.doc.govt.nz/parks-and-recreation/places-to-go/bay-of-plenty/places/whakatane-area/moutohora-whale-island-wildlife-management-reserve/
+- https://www.doc.govt.nz/parks-and-recreation/places-to-go/bay-of-plenty/places/whakatane-area/things-to-do/nga-tapuwae-o-toi-walkway/
+heritage: 3.363
+vibrancy: 2.96
+nature: 6.394
+off_the_beaten_track: 3.79
 ---
 
 Whakatane is the eastern Bay of Plenty's main town, sitting where the Whakatane River reaches the sea under steep green headlands. It gets plenty of sunshine and has an easy coastal feel, but its best reason to stop is the mix of Ngati Awa history, island wildlife, and beaches close enough to fold into one day.

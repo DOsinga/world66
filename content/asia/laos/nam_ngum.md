@@ -3,7 +3,7 @@ country: Laos
 latitude: 18.5306
 loc_type: feature
 longitude: 102.5476
-score: 5.3
+score: 3.341
 snippet: Large island-dotted reservoir 90 km north of Vientiane, created by one of
   Laos's main hydroelectric dams.
 title: Nam Ngum Reservoir
@@ -12,6 +12,10 @@ image: nam_ngum.jpg
 image_source: https://commons.wikimedia.org/wiki/File:ISS022-E-50280_-_View_of_Laos.jpg
 image_license: Public domain
 image_attribution: Earth Science and Remote Sensing Unit, Lyndon B. J
+heritage: 2.911
+vibrancy: 1.187
+nature: 3.945
+off_the_beaten_track: 3.384
 ---
 
 Nam Ngum is a sprawling artificial lake about 90 kilometres north of Vientiane, formed when the Nam Ngum River was dammed in the 1970s for what became one of Laos's first and most important hydroelectric projects. The reservoir flooded a wide valley, and the drowned forest left behind gives the lake its strange, memorable character: hundreds of small islands rise from the water, and bleached tree trunks still jut from the surface in the shallower reaches. It is the easiest big-landscape day trip from the capital, and on a clear day the combination of green hills, open water, and floating timber is genuinely striking.

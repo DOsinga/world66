@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/28577026@N02/2921650626
 latitude: 55.232825
 loc_type: city
 longitude: 11.76741
-score: 6.75
+score: 3.931
 snippet: Næstved market town with medieval churches, Suså river walks, and castles
   in the South Zealand countryside
 title: Nastved
 type: location
+heritage: 4.519
+vibrancy: 2.342
+nature: 3.844
+off_the_beaten_track: 1.613
 ---
 
 Næstved is the largest town in southern Zealand, a market centre with medieval roots that sits on the [Suså river](/europe/denmark/nastved/susaa_river) about an hour south of [Copenhagen](/europe/denmark/copenhagen). It has two notable medieval churches — [Sankt Peders Kirke](/europe/denmark/nastved/sankt_peders_kirke) with its Gothic frescoes and the smaller [Sankt Mortens Kirke](/europe/denmark/nastved/sankt_mortens_kirke) — and a compact old town around [Axeltorv](/europe/denmark/nastved/axeltorv) square that is pleasant for a stroll.

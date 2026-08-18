@@ -5,11 +5,15 @@ done:
 latitude: 48.922499
 loc_type: city
 longitude: -123.718414
-score: 7.48
+score: 4.547
 snippet: Vancouver Island town known for large outdoor murals depicting logging and
   First Nations history.
 title: Chemainus
 type: location
+heritage: 4.361
+vibrancy: 2.012
+nature: 5.2
+off_the_beaten_track: 3.598
 ---
 
 Chemainus is a small town on the east coast of Vancouver Island, about an hour's drive north of [Victoria](/northamerica/canada/britishcolumbia/victoria). When the local sawmill closed in 1983, the town reinvented itself by commissioning large-scale murals on its buildings — there are now over 50, and a self-guided walking tour takes you past scenes of the town's logging and First Nations history.

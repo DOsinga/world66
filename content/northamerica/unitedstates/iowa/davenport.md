@@ -4,7 +4,7 @@ done:
 latitude: 41.5225
 loc_type: city
 longitude: -90.5756
-score: 7.0
+score: 4.625
 snippet: Mississippi River city and Iowa anchor of the Quad Cities, with museums and
   blufftop neighborhoods.
 sources:
@@ -13,6 +13,10 @@ sources:
 - https://gahc.org/
 title: Davenport
 type: location
+heritage: 3.369
+vibrancy: 4.536
+nature: 4.854
+off_the_beaten_track: 0.817
 ---
 
 Davenport is the largest of the Quad Cities and the main Iowa anchor on this bend of the Mississippi. It is a working river city rather than a polished weekend escape, with bridges, bluffs, old industrial edges, and enough museums to reward a stop.

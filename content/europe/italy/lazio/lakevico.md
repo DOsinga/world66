@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/36313666@N00/137681060
 latitude: 42.320498
 loc_type: city
 longitude: 12.174887
-score: 7.83
+score: 6.842
 snippet: Volcanic lake in northern Lazio, ringed by hazelnut groves, oak woods, and
   Monte Venere.
 title: Lake Vico
 type: location
+heritage: 8.177
+vibrancy: 2.882
+nature: 5.988
+off_the_beaten_track: 2.58
 ---
 
 Lake Vico sits in the flooded crater of an extinct volcano in northern Lazio, ringed by forested hills and the broad slopes of Monte Venere. It is one of the best-preserved volcanic lakes in central Italy, smaller and far quieter than nearby Lake Bracciano or Lake Bolsena.

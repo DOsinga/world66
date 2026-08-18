@@ -3,7 +3,7 @@ country: Japan
 latitude: 27.0484
 loc_type: feature
 longitude: 128.4149
-score: 7.1
+score: 4.495
 snippet: Small coral island between Kagoshima and Okinawa, known for Yoron-blue shallows.
 sources:
 - https://en.wikivoyage.org/wiki/Yoron
@@ -17,6 +17,10 @@ image: yoron.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Yurigahama.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Snap55
+heritage: 2.862
+vibrancy: 1.944
+nature: 5.755
+off_the_beaten_track: 3.481
 ---
 
 Yoron is a small coral island at the southern end of Kagoshima Prefecture, close enough to Okinawa that the culture and sea both feel more Ryukyuan than mainland Japanese. The island is low, rural, and slow, with white sand, shallow turquoise water, and a main village at Chabana near the port and airport.

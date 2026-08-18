@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 4.4492
 longitude: 7.24
-score: 7.0
-snippet: Niger Delta island town where an old trading kingdom meets mangrove forest and LNG industry.
+score: 3.76
+snippet: Niger Delta island town where an old trading kingdom meets mangrove forest
+  and LNG industry.
 sources:
-  - https://en.wikivoyage.org/wiki/Bonny_Island
-  - https://en.wikipedia.org/wiki/Bonny_Island
-  - https://en.wikipedia.org/wiki/Kingdom_of_Bonny
+- https://en.wikivoyage.org/wiki/Bonny_Island
+- https://en.wikipedia.org/wiki/Bonny_Island
+- https://en.wikipedia.org/wiki/Kingdom_of_Bonny
+heritage: 1.976
+vibrancy: 1.653
+nature: 3.749
+off_the_beaten_track: 5.959
 ---
 
 Bonny Island is not a casual beach escape from [Port Harcourt](/africa/nigeria/portharcourt). It is a working Niger Delta island, reached by water, where the old Kingdom of Bonny, Atlantic fishing villages, mangrove forest, and heavy oil and gas infrastructure all sit close together.

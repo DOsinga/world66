@@ -2,7 +2,7 @@
 latitude: 24.971
 loc_type: feature
 longitude: 121.579
-score: 8.2
+score: 5.258
 snippet: Tea-growing hillside in the far south of Taipei, reached by gondola, dotted
   with teahouses.
 title: Maokong
@@ -11,6 +11,10 @@ image: maokong.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Taipei_Taiwan_Maokong-Gondola-01.jpg
 image_license: CC BY-SA 3.0
 image_attribution: CEphoto, Uwe Aranas
+heritage: 3.607
+vibrancy: 4.526
+nature: 5.963
+off_the_beaten_track: 1.139
 ---
 
 Maokong is a tea-growing hillside in the very south of the Taipei municipality, planted with bushes of the local **Tieguanyin** oolong since the 19th century. The slopes are gentle and green, the views back across the city are wide, and the whole area is dotted with old-style **teahouses** where you brew your own tea on a charcoal stove and order small dishes — duck breast, tea-smoked eggs, Hakka cooking — to go with it. It makes one of the easiest and most relaxing half-day escapes from the centre of Taipei.

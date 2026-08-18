@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Arendal_Utsikt_02.JPG
 latitude: 58.42673
 loc_type: city
 longitude: 8.946949
-score: 7.78
+score: 5.179
 title: Arendal
 type: location
 snippet: Arendal is a southern Norwegian coastal town with wooden houses, a busy harbour,
   and nearby island scenery.
+heritage: 3.04
+vibrancy: 3.633
+nature: 6.272
+off_the_beaten_track: 2.295
 ---
 
 Arendal is a small coastal town on [Norway's](/europe/norway) southern shore, the kind of place Norwegians head to in summer for wooden boats, white-painted houses, and island-hopping in the Raet archipelago. The old town, [Tyholmen](/europe/norway/arendal/tyholmen), sits on what was once a separate island, its 17th- and 18th-century timber buildings packed tightly together along narrow lanes — one of the most intact assemblages of old wooden urban architecture in Norway.

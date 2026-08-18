@@ -5,7 +5,7 @@ done:
 latitude: 14.0509
 loc_type: city
 longitude: 101.3717
-score: 6.44
+score: 2.435
 snippet: Quiet Thai province east of Bangkok, bordering Khao Yai and Thap Lan national
   parks.
 sources:
@@ -17,6 +17,10 @@ image: prachinburi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Prachin_Buri_Station.JPG
 image_license: CC BY-SA 3.0
 image_attribution: シャムネコ
+heritage: 2.924
+vibrancy: 1.66
+nature: 2.101
+off_the_beaten_track: 2.116
 ---
 
 Prachinburi is a quiet province about 135 kilometres east of Bangkok, largely bypassed by tourists heading for the coast or the northeast. That is part of its appeal. The province borders two of Thailand's great national parks — [Khao Yai](/asia/thailand/centralthailand/khaoyainationalpark) and [Thap Lan](/asia/thailand/centralthailand/prachinburi/thap_lan_national_park) — which together form part of the Dong Phayayen–Khao Yai Forest Complex, a UNESCO World Heritage Site. The eastern approach to Khao Yai through Prachinburi province sees far fewer visitors than the busy northern entrance via Pak Chong.

@@ -5,11 +5,15 @@ done:
 latitude: 3.7974
 loc_type: city
 longitude: 103.3219
-score: 7.35
+score: 4.517
 snippet: Working east-coast Malaysian city and Pahang capital, with beaches and craft
   villages close by
 title: Kuantan
 type: location
+heritage: 3.401
+vibrancy: 3.55
+nature: 5.286
+off_the_beaten_track: 2.8
 ---
 
 Kuantan is the capital of Pahang, [Malaysia](/asia/malaysia)'s largest state, sitting on the east coast facing the South China Sea. It is a working Malaysian city rather than a tourist resort, but the surrounding region has good beaches, traditional crafts, and access to some of Pahang's natural attractions.

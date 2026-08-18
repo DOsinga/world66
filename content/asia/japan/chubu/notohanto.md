@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Noto_Peninsula,_Ishika
 latitude: 37.1833
 loc_type: feature
 longitude: 136.8833
-score: 8.52
+score: 6.006
 snippet: Rural Sea of Japan peninsula of fishing villages, rugged coasts, and Wajima
   lacquerware
 title: Noto Peninsula
 type: location
+heritage: 5.608
+vibrancy: 3.804
+nature: 6.933
+off_the_beaten_track: 4.761
 ---
 
 A thumb of land jutting north into the Sea of Japan from Ishikawa Prefecture, the Noto Peninsula is one of rural Japan's most compelling detours. Rolling hills, rugged coastlines, and [terraced rice paddies](/asia/japan/chubu/notohanto/senmaida_terraces) give way to small fishing villages where little has changed in decades. The pace here is resolutely slow — and that is precisely the point.

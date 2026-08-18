@@ -6,10 +6,14 @@ latitude: 9.160464
 longitude: 167.079554
 title: Kwajalein Atoll
 type: location
-score: 6.44
+score: 5.156
 loc_type: city
 snippet: Marshall Islands coral atoll with the world's largest lagoon and a US missile-testing
   base.
+heritage: 3.74
+vibrancy: 1.091
+nature: 5.803
+off_the_beaten_track: 7.171
 ---
 
 Kwajalein Atoll consists of 97 islands with a total land mass of just 6.5 square miles, surrounding an immense 1,100-square-mile lagoon — the largest coral atoll in the world. It is not much of a tourist draw; the biggest island is owned by the US Army and the smaller islands are not particularly interesting either. The closest thing to a tourist attraction is the possibility of diving for World War II shipwrecks.

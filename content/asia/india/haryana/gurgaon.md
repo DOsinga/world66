@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:32nd_Avenue_in_Gurgaon_(P1
 latitude: 28.456
 loc_type: city
 longitude: 77.029
-score: 6.82
+score: 5.721
 snippet: Delhi satellite city of glass towers, old Haryana villages, malls, and surviving
   Aravalli scrub.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Sultanpur_National_Park
 title: Gurgaon
 type: location
+heritage: 5.058
+vibrancy: 6.016
+nature: 3.602
+off_the_beaten_track: 0.783
 ---
 
 Gurgaon, officially Gurugram, is the city that shows what happened when Delhi's edge met private capital at full speed. Glass office parks, gated towers, shopping malls, expressways, and metro stations sit beside old village lanes, devotional shrines, and dusty Haryana fields that have not quite disappeared.

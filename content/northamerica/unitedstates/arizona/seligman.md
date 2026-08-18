@@ -4,14 +4,19 @@ type: location
 loc_type: city
 latitude: 35.3283
 longitude: -112.8742
-score: 6.9
-snippet: Route 66 town where Arizona's Mother Road revival turned bypassed main street into Americana.
+score: 5.192
+snippet: Route 66 town where Arizona's Mother Road revival turned bypassed main street
+  into Americana.
 wikidata: Q1559107
 sources:
-  - https://en.wikivoyage.org/wiki/Seligman
-  - https://www.visitarizona.com/places/cities/seligman
-  - https://www.route66giftshop.com/historic-walking-tour/
-  - https://en.wikipedia.org/wiki/Angel_Delgadillo
+- https://en.wikivoyage.org/wiki/Seligman
+- https://www.visitarizona.com/places/cities/seligman
+- https://www.route66giftshop.com/historic-walking-tour/
+- https://en.wikipedia.org/wiki/Angel_Delgadillo
+heritage: 3.461
+vibrancy: 2.035
+nature: 6.58
+off_the_beaten_track: 4.565
 ---
 
 Seligman is a small northern Arizona town that made being bypassed into its whole story. When Interstate 40 pulled traffic away from old Route 66, barber Angel Delgadillo helped start the campaign that got Arizona's surviving stretch signed and promoted as Historic Route 66.

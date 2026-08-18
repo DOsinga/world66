@@ -16,7 +16,11 @@ sources:
 - https://www.tourismthailand.org/Attraction/ban-nam-chiao-community
 title: Trat
 type: location
-score: 6.5
+score: 2.916
+heritage: 1.815
+vibrancy: 2.405
+nature: 3.357
+off_the_beaten_track: 2.342
 ---
 
 Trat is the last proper town in eastern Thailand before the Cambodian border and the island ferries. Most travellers know it only as the place to sleep before boats to [Ko Chang](/asia/thailand/easternseaboard/kohchang), [Ko Mak](/asia/thailand/easternseaboard/koh_mak), or Ko Kood, but that is selling it a little short.

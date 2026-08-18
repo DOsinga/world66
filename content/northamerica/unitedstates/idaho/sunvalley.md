@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Baldmountainid.jpg
 latitude: 43.696215
 loc_type: city
 longitude: -114.353097
-score: 8.17
+score: 5.425
 snippet: Central Idaho ski resort built around Bald Mountain, opened as America's
   first destination ski resort in 1936
 title: Sun Valley
 type: location
+heritage: 1.89
+vibrancy: 2.324
+nature: 7.193
+off_the_beaten_track: 3.986
 ---
 
 Sun Valley is a world-class ski resort in the mountains of central Idaho, built around Bald Mountain — known locally as Baldy. It was America's first destination ski resort, opened in 1936 by Union Pacific Railroad, and it has stayed at the top of the pile. The resort attracts serious skiers rather than the apres-ski crowd; the focus is on the mountain itself.

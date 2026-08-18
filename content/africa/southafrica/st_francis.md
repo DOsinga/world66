@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -34.162
 longitude: 24.83
-score: 6.7
+score: 5.511
 snippet: Eastern Cape beach town of white canal houses, squid boats, surf breaks,
   and a tall working lighthouse
 sources:
@@ -17,6 +17,10 @@ image: st_francis.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Luchtfoto_St_Francisbaai.jpg
 image_license: Public domain
 image_attribution: Servien at Dutch Wikipedia
+heritage: 2.693
+vibrancy: 3.761
+nature: 6.725
+off_the_beaten_track: 2.232
 ---
 
 St Francis Bay is a small Eastern Cape holiday town where the coast keeps changing character. One side is white thatched houses and canals on the Kromme River estuary; another is [Port St Francis](/africa/southafrica/st_francis/port_st_francis), a working squid harbour; farther out, Cape St Francis turns wilder, windier, and better for surf.

@@ -16,7 +16,7 @@ quick_facts:
   Elevation: ~2,250 m
   Population: ~3 million
   Tower Houses: Inhabited over 1,000 years
-score: 4.33
+score: 5.029
 snippet: High Yemeni capital of tower houses, mountain air, and one of Arabia's great
   old cities.
 tip: Sana'a's old city is a UNESCO wonder — thousands of tower-houses of mud-brick
@@ -26,6 +26,10 @@ tip: Sana'a's old city is a UNESCO wonder — thousands of tower-houses of mud-b
   Arabia.
 title: Sanaa
 type: location
+heritage: 5.768
+vibrancy: 1.679
+nature: 2.596
+off_the_beaten_track: 7.013
 ---
 
 Sana'a is one of the most extraordinary cities in the Arab world — a place where the architecture has barely changed in a thousand years and where even the new quarters have the feel of somewhere very old. The city sits in a high valley at about 2,200 metres, ringed by rugged mountains, and the air is clear and cool by Arabian standards.

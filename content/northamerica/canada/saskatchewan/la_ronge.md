@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 55.1
 longitude: -105.3
-score: 6.7
-snippet: Northern Saskatchewan lake town and canoeing base on the edge of Canadian Shield wilderness.
+score: 5.006
+snippet: Northern Saskatchewan lake town and canoeing base on the edge of Canadian
+  Shield wilderness.
 wikidata: Q2782497
 sources:
-  - https://en.wikivoyage.org/wiki/La_Ronge
-  - https://saskparks.tourismsaskatchewan.com/lac-la-ronge
-  - https://www.explorelaclaronge.ca/
+- https://en.wikivoyage.org/wiki/La_Ronge
+- https://saskparks.tourismsaskatchewan.com/lac-la-ronge
+- https://www.explorelaclaronge.ca/
+heritage: 2.29
+vibrancy: 1.472
+nature: 5.956
+off_the_beaten_track: 5.909
 ---
 
 La Ronge is where Saskatchewan changes character. South of here, the road has already left most of the prairie behind; around town, the Canadian Shield begins to show itself in rock, spruce, islands, and cold northern lakes. The result is less a sightseeing town than a practical base for wilderness.

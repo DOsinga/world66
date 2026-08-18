@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cartersville_Depot,_Carter
 latitude: 34.16523
 loc_type: city
 longitude: -84.799761
-score: 6.32
+score: 3.597
 snippet: Small northwest Georgia city near Etowah Indian Mounds and notable downtown
   museums.
 title: Cartersville
 type: location
+heritage: 4.548
+vibrancy: 2.067
+nature: 2.583
+off_the_beaten_track: 1.176
 ---
 
 Cartersville is a small city about 45 miles northwest of [Atlanta](/northamerica/unitedstates/georgia/atlanta) in Bartow County, a convenient stop between Atlanta and Chattanooga on I-75.

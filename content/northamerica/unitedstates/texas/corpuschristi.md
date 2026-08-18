@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Corpus_Christi_skyline.jpg
 latitude: 27.8006
 loc_type: city
 longitude: -97.3964
-score: 7.33
+score: 4.516
 snippet: South Texas bay city of beaches, ships, Selena memories, and barrier-island
   wind.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://www.visitcorpuschristi.com/things-to-do/
 title: Corpus Christi
 type: location
+heritage: 2.829
+vibrancy: 5.19
+nature: 2.05
+off_the_beaten_track: 0.911
 ---
 
 Corpus Christi is the big city of the Texas Coastal Bend, wrapped around a wide bay and pushed constantly by Gulf wind. It is part port, part beach base, part working South Texas city, and it feels very different from the polished resort towns farther up the coast.

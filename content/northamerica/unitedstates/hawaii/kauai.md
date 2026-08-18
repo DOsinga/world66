@@ -14,7 +14,7 @@ quick_facts:
   Nā Pali Coast: No road reaches it
   Waimea Canyon: 900 m deep
   Wettest Spot: Among Earth's rainiest
-score: 9.58
+score: 6.554
 snippet: Hawaiian island known as the Garden Isle, with the Na Pali Coast and Waimea
   Canyon.
 sources:
@@ -25,6 +25,10 @@ tip: 'Kauai is the ''Garden Isle'' — lush, rainy and the wildest of the main H
   a rain jacket — Mt Waiʻaleʻale is among the wettest places on Earth.'
 title: Kaua'i
 type: location
+heritage: 3.258
+vibrancy: 4.494
+nature: 7.988
+off_the_beaten_track: 3.357
 ---
 
 Kaua'i is the oldest and northernmost of the main Hawaiian Islands — an almost circular volcanic island of about 1,430 square kilometres, less developed and far greener than either Oʻahu or Maui. Its nickname, the **"Garden Island"**, is more than marketing: the interior is a near-continuous sheet of jungle and waterfall-filled valleys, and **Mount Waialeale** at the centre is one of the wettest spots on earth, averaging some 9,500 mm of rain a year. The result is that Kaua'i is the most dramatic-looking of the Hawaiian islands. It was used as the backdrop for *Jurassic Park*, *King Kong*, and *South Pacific*, among many others.

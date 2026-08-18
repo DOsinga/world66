@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Empty_shikara_on_Dal_Lake,
 latitude: 34.0837
 loc_type: city
 longitude: 74.7973
-score: 8.67
+score: 6.242
 snippet: Kashmir Valley city of lakes, waterways, Mughal gardens, and carved wooden
   mosques.
 title: Srinagar
 type: location
+heritage: 6.571
+vibrancy: 6.165
+nature: 6.222
+off_the_beaten_track: 5.267
 ---
 
 Srinagar is the summer capital of Jammu and Kashmir, a city of lakes and waterways set in a broad mountain valley at 1,585 metres. The Mughal emperors chose it as their summer retreat four centuries ago, and it has been called "Paradise on Earth" ever since — a cliché that nonetheless holds up when you see Dal Lake at dawn, the houseboats still and the Zabarwan hills turning pink behind them. The old city's carved wooden mosques, the terraced Mughal gardens on the lake's eastern shore, and the permanent backdrop of snow-capped peaks make Srinagar one of the most visually striking cities in South Asia.

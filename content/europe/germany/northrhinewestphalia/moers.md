@@ -5,7 +5,7 @@ done:
 latitude: 51.4513
 loc_type: city
 longitude: 6.6284
-score: 6.19
+score: 3.23
 snippet: Ruhr-edge town known for experimental jazz, a moated castle, and post-industrial
   Rhine views
 sources:
@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Moers_Festival
 title: Moers
 type: location
+heritage: 4.037
+vibrancy: 2.089
+nature: 2.425
+off_the_beaten_track: 1.368
 ---
 
 Moers (pronounced roughly "Meurs") is a town on the western edge of the Ruhr area in North Rhine-Westphalia, known primarily for its annual jazz festival. The [Moers Festival](/europe/germany/northrhinewestphalia/moers/moers_festival), held over the Whitsun weekend each year since 1972, is one of the most important festivals for improvised and experimental music in Europe, drawing musicians and audiences from around the world who come specifically for its uncompromising programme.

@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Eilat,_Israel_-_panoramio_
 latitude: 29.5577
 loc_type: city
 longitude: 34.9519
-score: 8.52
+score: 6.765
 title: Eilat
 snippet: Red Sea resort city at Israel's southern tip, defined by desert scenery and
   accessible coral reefs.
 type: location
+heritage: 0.815
+vibrancy: 6.161
+nature: 7.508
+off_the_beaten_track: 3.107
 ---
 
 Eilat is Israel's southernmost city, perched at the northern tip of the Red Sea where the borders of Israel, Jordan, and Egypt converge in a blaze of desert and coral. It exists primarily as a beach resort — a warm-water escape from the cold Israeli winters — built around some of the most accessible coral reef snorkeling in the world. The underwater life is the real draw: colorful reef fish, rays, and occasional dolphins can be seen just metres from shore at the [Coral Beach Nature Reserve](/asia/israel/eilat/coral_beach_nature_reserve), and [Dolphin Reef](/asia/israel/eilat/dolphin_reef) on the southern shore lets you swim with semi-wild bottlenose dolphins.

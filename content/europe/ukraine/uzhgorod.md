@@ -5,11 +5,15 @@ done:
 latitude: 48.6208
 loc_type: city
 longitude: 22.2879
-score: 7.13
+score: 4.626
 title: Uzhhorod
 snippet: Carpathian border city on the Uzh River, layered with Rusyn, Hungarian, Czechoslovak,
   Soviet, and Ukrainian history.
 type: location
+heritage: 4.806
+vibrancy: 4.345
+nature: 5.07
+off_the_beaten_track: 3.801
 ---
 
 Uzhhorod (sometimes Uzhgorod, in older English) is the western-most city in Ukraine — closer to Prague, Vienna, and Budapest than it is to Kyiv — and the smallest of the country's regional capitals. It sits on the Uzh river at the foot of the Carpathians, and its whole character comes from its position on what has been one of the most contested borderlands in central Europe for the last thousand years. At various points it has been Rusyn, Hungarian (as Ungvár), Czechoslovak, Hungarian again, Soviet, and since 1991 Ukrainian. You can still walk streets signed in several alphabets and hear half a dozen languages in the cafés.

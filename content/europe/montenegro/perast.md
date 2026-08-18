@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Perast_100.jpg
 latitude: 42.486268
 loc_type: city
 longitude: 18.698859
-score: 8.9
+score: 5.875
 title: Perast
 type: location
 snippet: Baroque waterfront town on the Bay of Kotor, facing two small island churches
   offshore.
+heritage: 6.376
+vibrancy: 3.797
+nature: 6.404
+off_the_beaten_track: 2.837
 ---
 
 Perast is a small baroque town on the inner bay of Kotor, arranged along a single waterfront street with two small islands just offshore. It's one of the most picture-perfect places in Montenegro, and thankfully not yet overrun — though it gets busy in peak season.

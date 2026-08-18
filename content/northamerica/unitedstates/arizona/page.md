@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Grand_Canyon_Horseshoe_Ben
 latitude: 36.9147
 loc_type: city
 longitude: -111.4558
-score: 8.45
+score: 6.076
 snippet: Northern Arizona mesa town above Glen Canyon Dam, base for Antelope Canyon,
   Horseshoe Bend, and Lake Powell.
 title: Page
 type: location
+heritage: 3.82
+vibrancy: 4.321
+nature: 7.33
+off_the_beaten_track: 2.48
 ---
 
 Page sits on a sandstone mesa above [Glen Canyon Dam](/northamerica/unitedstates/arizona/page/glen_canyon_dam), right on the Utah border in northern Arizona. It is the base camp for some of the most dramatic desert scenery in the American Southwest: [Antelope Canyon](/northamerica/unitedstates/arizona/page/antelope_canyon), [Horseshoe Bend](/northamerica/unitedstates/arizona/page/horseshoe_bend), [Lake Powell](/northamerica/unitedstates/arizona/page/lake_powell), and the Vermilion Cliffs are all within easy reach.

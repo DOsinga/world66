@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Abies_lasiocarpa_0775.JPG
 latitude: 47.614422
 loc_type: city
 longitude: -122.192337
-score: 6.71
+score: 4.971
 snippet: Lakeside tech city across from Seattle, with manicured downtown towers and
   a strong Eastside food scene.
 title: Bellevue
 type: location
+heritage: 2.335
+vibrancy: 4.322
+nature: 5.617
+off_the_beaten_track: 0.852
 ---
 
 Bellevue sits across Lake Washington from [Seattle](/northamerica/unitedstates/washington/seattle) and has grown from a quiet suburb into a city in its own right — the fifth-largest in the state, home to major tech companies, and with a downtown skyline that keeps getting taller. It is cleaner, quieter, and more manicured than Seattle, though also blander.

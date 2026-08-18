@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nevis_2008.jpg
 latitude: 17.15
 loc_type: city
 longitude: -62.58
-score: 8.52
+score: 5.713
 snippet: Quiet volcanic Caribbean island centred on Nevis Peak and known as Alexander
   Hamilton's birthplace.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Charlestown,_Nevis
 title: Nevis
 type: location
+heritage: 4.278
+vibrancy: 2.753
+nature: 7.042
+off_the_beaten_track: 3.085
 ---
 
 Nevis is a small volcanic island — roughly 36 square miles — that rises from the Caribbean Sea in a single graceful cone. At its centre, [Nevis Peak](/northamerica/saintkittsandnevis/nevis/nevis_peak) climbs to around 985 metres and is usually wrapped in cloud by mid-morning. The island is quieter and less developed than its neighbour [Saint Kitts](/northamerica/saintkittsandnevis/st_kitts), which suits it well.

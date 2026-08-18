@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Sisters_Rodeo_Parade_on_U.
 latitude: 44.290948
 loc_type: city
 longitude: -121.549251
-score: 7.59
+score: 5.6
 title: Sisters
 type: location
 snippet: Small Cascade town with Old West storefronts beneath the volcanic Three Sisters
   peaks.
+heritage: 2.875
+vibrancy: 1.328
+nature: 7.225
+off_the_beaten_track: 4.766
 ---
 
 Sisters is a small town at the foot of the Cascades, framed by the snow-capped peaks of the [Three Sisters](/northamerica/unitedstates/oregon/sisters/three_sisters_wilderness) volcanoes. Its entire downtown is built in an Old West theme — wooden boardwalks, false-front buildings — and it works better than you'd expect, giving the place genuine character rather than feeling like a gimmick.

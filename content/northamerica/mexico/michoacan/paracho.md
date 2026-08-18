@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 19.643889
 longitude: -102.04833
-score: 6.9
+score: 4.377
 snippet: Purépecha highland town in Michoacán famous for handmade guitars and luthier
   workshops.
 sources:
@@ -14,6 +14,10 @@ image: paracho.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Entrance_to_Paracho_Jan_2020.jpg
 image_license: CC0
 image_attribution: Kevin Read
+heritage: 4.013
+vibrancy: 3.435
+nature: 5.084
+off_the_beaten_track: 4.029
 ---
 
 Paracho de Verduzco, usually just called Paracho, is a Purépecha town in the highlands of [Michoacán](/northamerica/mexico/michoacan), north of Uruapan. It is famous across Mexico for guitars: workshops, small shops, and family luthiers fill the centre with classical guitars, vihuelas, guitarrones, bajo sextos, and other stringed instruments.

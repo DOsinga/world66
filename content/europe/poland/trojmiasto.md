@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:D%C5%82ugie_Pobrze%C5%BCe_
 latitude: 54.44948
 loc_type: city
 longitude: 18.733495
-score: 8.02
+score: 4.382
 snippet: Baltic tri-city region linking Gdansk, Sopot, and Gdynia by beaches, shipyards,
   and commuter rail.
 title: Trojmiasto
 type: location
+heritage: 3.367
+vibrancy: 4.655
+nature: 3.678
+off_the_beaten_track: 1.134
 ---
 
 Trojmiasto — the "Tri-City" — is the Polish name for the urban strip of Gdansk, Sopot, and Gdynia stretching along the Baltic coast. The three cities have distinct characters but blend into one continuous conurbation, connected by commuter rail and an increasingly busy motorway.

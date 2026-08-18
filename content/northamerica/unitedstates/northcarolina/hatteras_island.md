@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Hatteras_Island_ocean_view
 latitude: 35.4849
 loc_type: city
 longitude: -75.4806
-score: 8.1
+score: 4.54
 title: Hatteras Island
 snippet: Outer Banks barrier island of dunes, fishing villages, and Cape Hatteras
   National Seashore beaches.
 type: location
+heritage: 3.526
+vibrancy: 2.97
+nature: 5.542
+off_the_beaten_track: 3.406
 ---
 
 Hatteras Island is the destination for vacationers in search of surfing, fishing, camping, birdwatching, beachcombing, or simply watching the sunset with family and friends. Part of the [Outer Banks](/northamerica/unitedstates/northcarolina/outerbanks), this long, narrow island is wilder and less developed than the northern beaches, with small villages separated by stretches of open dune and marsh. Almost the entire island lies within the [Cape Hatteras National Seashore](/northamerica/unitedstates/northcarolina/hatteras_island/cape_hatteras_national_seashore), which has protected it from large-scale development since 1937.

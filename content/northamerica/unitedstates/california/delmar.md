@@ -5,11 +5,15 @@ done:
 latitude: 32.959489
 loc_type: city
 longitude: -117.265315
-score: 7.77
+score: 5.947
 snippet: San Diego coastal town known for sandy beaches, ocean bluffs, and thoroughbred
   racing
 title: Del Mar
 type: location
+heritage: 2.464
+vibrancy: 4.706
+nature: 6.944
+off_the_beaten_track: 1.054
 ---
 
 Del Mar is a small, affluent beach community on the coast north of [San Diego](/northamerica/unitedstates/california/sandiego). The [wide sandy beach](/northamerica/unitedstates/california/delmar/del_mar_beach) draws sun-worshippers year-round, and in winter migrating California grey whales can be spotted from the bluffs.

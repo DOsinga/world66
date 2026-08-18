@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Frederiksborg_Castle_from_
 latitude: 55.9286
 loc_type: city
 longitude: 12.3064
-score: 7.9
+score: 3.961
 snippet: North Zealand market town best known for Frederiksborg Castle and its lakeside
   royal setting.
 title: Hillerød
 type: location
+heritage: 5.165
+vibrancy: 1.477
+nature: 2.488
+off_the_beaten_track: 1.696
 ---
 
 Hillerød is a compact market town 35 kilometres north of [Copenhagen](/europe/denmark/copenhagen), best known as the home of [Frederiksborg Castle](/europe/denmark/hillerod/frederiksborg_castle) — a magnificent red-brick Renaissance palace reflected in its moat that ranks among the grandest royal residences in Scandinavia. The town itself wraps comfortably around the [castle lake](/europe/denmark/hillerod/castle_lake), and most visitors find that a morning at the castle and an afternoon wandering the old streets makes for one of the most satisfying day trips from the capital.

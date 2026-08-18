@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Le_Havre,_France_from_the_
 latitude: 49.493898
 loc_type: city
 longitude: 0.107973
-score: 7.68
+score: 4.98
 snippet: Normandy port city rebuilt by Auguste Perret into a UNESCO-listed grid of
   modernist concrete and light.
 title: Le Havre
 type: location
+heritage: 5.547
+vibrancy: 4.721
+nature: 3.919
+off_the_beaten_track: 2.345
 ---
 
 Le Havre is France's second-largest port and one of the country's most architecturally distinctive cities. Bombed almost flat in September 1944, it was rebuilt from scratch by the modernist architect Auguste Perret between 1945 and 1964 — a singular act of urban planning that earned it UNESCO World Heritage status in 2005. Most visitors pass through on their way to or from Britain; that's a mistake.

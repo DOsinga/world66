@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -33.9
 longitude: 148.15
-score: 6.4
+score: 2.571
 snippet: Central West gold town tied to Henry Lawson, silo art, and the Weddin Mountains.
 wikidata: Q5607467
 sources:
@@ -17,6 +17,10 @@ image: grenfell.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Grenfell_Silo_Art.jpg
 image_license: CC BY 4.0
 image_attribution: HeyJude70
+heritage: 2.053
+vibrancy: 1.895
+nature: 3.064
+off_the_beaten_track: 3.02
 ---
 
 Grenfell is a Central West New South Wales town with more texture than its size suggests. Gold brought the first rush in the 1860s; the town later became tied to Henry Lawson, one of Australia's best-known bush writers, who was born on the Grenfell goldfields.

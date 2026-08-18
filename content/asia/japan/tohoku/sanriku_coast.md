@@ -4,11 +4,16 @@ type: location
 loc_type: feature
 latitude: 39.6415
 longitude: 141.9642
-score: 8.9
-snippet: Dramatic ria coastline of cliffs, sea caves, and fishing villages along Iwate's Pacific shore, rebuilt after the 2011 tsunami.
+score: 5.99
+snippet: Dramatic ria coastline of cliffs, sea caves, and fishing villages along Iwate's
+  Pacific shore, rebuilt after the 2011 tsunami.
 sources:
-  - https://en.wikivoyage.org/wiki/Sanriku_Coast
-  - https://en.wikipedia.org/wiki/Sanriku_Coast
+- https://en.wikivoyage.org/wiki/Sanriku_Coast
+- https://en.wikipedia.org/wiki/Sanriku_Coast
+heritage: 5.159
+vibrancy: 2.598
+nature: 7.098
+off_the_beaten_track: 5.061
 ---
 
 The Sanriku Coast is the eastern edge of Iwate, a 200-kilometre stretch of the Pacific shore where the Kitakami Mountains meet the sea in a series of deep, fjord-like inlets called *rias*. It is among the most dramatic coastline in Japan: steep headlands, sea caves, offshore rock stacks, and fishing villages tucked into narrow valleys that open directly onto the ocean.

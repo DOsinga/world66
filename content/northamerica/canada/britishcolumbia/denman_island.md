@@ -7,13 +7,17 @@ loc_type: city
 snippet: Rural Gulf Island known for its arts community, white sand beaches, and dry
   Strait of Georgia climate
 longitude: -124.7945
-score: 6.86
+score: 6.024
 title: Denman Island
 type: location
 image: denman_island.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Denman_Island_across_Baynes_Sound_1.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Ymblanter
+heritage: 2.939
+vibrancy: 1.509
+nature: 7.547
+off_the_beaten_track: 5.865
 ---
 
 Denman Island sits tucked into the Strait of Georgia between Vancouver Island and the mainland — a quiet, rural place known for its arts community, white sand beaches, and unhurried pace. Along with its neighbour [Hornby Island](/northamerica/canada/britishcolumbia/hornby_island), it has more artists per capita than almost anywhere else in Canada, and it shows: potters, painters, and musicians live and work here year-round.

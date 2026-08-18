@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 41.9375
 longitude: -70.0333
-score: 6.8
+score: 4.689
 wikidata: Q2303115
 snippet: Outer Cape oyster town with national seashore beaches, salt-marsh trails,
   and a working harbor.
@@ -16,6 +16,10 @@ image: wellfleet.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Salt_marsh_Herring_River_Wellfleet_Massachusetts.png
 image_license: Public domain
 image_attribution: Unidentified NOAA photographer
+heritage: 2.781
+vibrancy: 3.759
+nature: 5.452
+off_the_beaten_track: 1.942
 ---
 
 Wellfleet sits on the Outer Cape between ocean, harbor, salt marsh, and pine woods. It is quieter than [Provincetown](/northamerica/unitedstates/massachusetts/provincetown), but it has a strong enough identity of its own: oysters, galleries, kettle ponds, surf beaches, and a working harbor that still feels connected to the tides.

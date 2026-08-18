@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: 33.5062
 longitude: 132.5449
-score: 6.9
-snippet: Compact Ehime castle town on the Hijikawa River, with a reconstructed wooden keep, merchant streets, and cormorant fishing.
+score: 5.171
+snippet: Compact Ehime castle town on the Hijikawa River, with a reconstructed wooden
+  keep, merchant streets, and cormorant fishing.
 sources:
-  - https://en.wikivoyage.org/wiki/Ozu
-  - https://en.wikipedia.org/wiki/%C5%8Czu,_Ehime
+- https://en.wikivoyage.org/wiki/Ozu
+- https://en.wikipedia.org/wiki/%C5%8Czu,_Ehime
+heritage: 5.109
+vibrancy: 3.878
+nature: 5.849
+off_the_beaten_track: 3.911
 ---
 
 Ozu is a small castle town on a bend of the Hijikawa River in western Ehime, often called "little Kyoto" for its old merchant streets and riverside setting. It is an easy and rewarding stop between Matsuyama and Uwajima, and quiet enough that a slow afternoon here feels like stepping back a century.

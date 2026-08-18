@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Along_Lake_Como_at_Como,_1
 latitude: 45.9075
 loc_type: city
 longitude: 9.1599
-score: 9.14
+score: 6.613
 snippet: Compact Lombard lake city with medieval streets, Romanesque churches, neoclassical
   villas, and Alessandro Volta heritage.
 title: Como
 type: location
+heritage: 7.261
+vibrancy: 6.418
+nature: 4.717
+off_the_beaten_track: 1.104
 ---
 
 Como occupies the southern tip of the lake that bears its name, a compact city wedged between water and steep wooded hills. Most visitors treat it as a launching pad for the lake — an understandable mistake. The city itself has a rich historic centre that rewards a day's exploration: narrow medieval streets, a cathedral four centuries in the making, two magnificent Romanesque basilicas, and a lakefront promenade lined with neoclassical villas.

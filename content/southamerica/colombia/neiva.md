@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Avenida_la_toma.jpg
 latitude: 3.033255
 loc_type: city
 longitude: -75.27943
-score: 6.52
+score: 4.596
 snippet: Huila department capital on the Magdalena River, base for Tatacoa Desert
   and southern Colombia archaeology
 title: Neiva
 type: location
+heritage: 3.127
+vibrancy: 3.567
+nature: 5.4
+off_the_beaten_track: 5.09
 ---
 
 Neiva is the capital of Huila department, sitting in a broad valley on the east bank of the Magdalena River about 300 kilometres south of Bogotá. It's primarily a commercial city but serves as an excellent base for the remarkable landscapes and archaeological sites of the surrounding region.

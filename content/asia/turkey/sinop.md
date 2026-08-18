@@ -3,14 +3,19 @@ title: Sinop
 type: location
 loc_type: city
 latitude: 42.0333
-longitude: 35.1500
-score: 7.2
-snippet: Black Sea harbour city with old walls, a fortress prison, and a lonely northern-coast feel.
+longitude: 35.15
+score: 2.941
+snippet: Black Sea harbour city with old walls, a fortress prison, and a lonely northern-coast
+  feel.
 sources:
-  - https://en.wikivoyage.org/wiki/Sinop
-  - https://turkishmuseums.com/blog/detail/anatolias-alcatraz-the-sinop-prison/10105/4
-  - https://en.wikipedia.org/wiki/Sinop_Fortress_Prison
+- https://en.wikivoyage.org/wiki/Sinop
+- https://turkishmuseums.com/blog/detail/anatolias-alcatraz-the-sinop-prison/10105/4
+- https://en.wikipedia.org/wiki/Sinop_Fortress_Prison
 wikidata: Q599416
+heritage: 3.209
+vibrancy: 2.277
+nature: 2.724
+off_the_beaten_track: 4.532
 ---
 
 Sinop sits on a headland of Turkey's Black Sea coast, a harbour city with just enough distance from the main inland routes to feel self-contained. It has been Greek, Byzantine, Seljuk, Genoese, Ottoman, and republican, but the story is easiest to read in the walls around the old harbour.

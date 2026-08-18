@@ -6,7 +6,7 @@ latitude: 43.812284
 longitude: -91.251435
 title: La Crosse
 type: location
-score: 6.66
+score: 5.126
 snippet: Mississippi River city below wooded bluffs, shaped by confluences, universities,
   and Oktoberfest traditions.
 loc_type: city
@@ -14,6 +14,10 @@ image: lacrosse.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Grand_Dad_Bluff_180_pano_aerial_(cropped).jpg
 image_license: CC0
 image_attribution: Wikideas1
+heritage: 2.511
+vibrancy: 4.65
+nature: 5.699
+off_the_beaten_track: 1.787
 ---
 
 La Crosse sits where the Black River and the La Crosse River empty into the Mississippi, a natural confluence that has shaped the city's character for centuries. It's a small city of around 55,000 people in southwest Wisconsin — big enough to have real universities, a lively riverfront, and genuine Oktoberfest celebrations, small enough that the bluffs above town still feel wild.

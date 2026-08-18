@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Paradisvej,_Nex%C3%B8_-_ga
 latitude: 55.065014
 loc_type: city
 longitude: 15.130727
-score: 7.07
+score: 3.9
 snippet: Working Bornholm fishing port with Baltic boats, postwar streets, and the
   legacy of novelist Martin Andersen Nexø.
 sources:
@@ -21,6 +21,10 @@ tags:
 - bornholmisland
 title: Nexo
 type: location
+heritage: 3.048
+vibrancy: 4.217
+nature: 3.08
+off_the_beaten_track: 1.066
 ---
 
 Nexø is the second-largest town on [Bornholm](/europe/denmark/bornholmisland), a working fishing port on the island's east coast. It lacks the half-timbered charm of Gudhjem or Svaneke, but it has an honest, unpolished character — the harbour is full of actual fishing boats rather than pleasure craft, and the fish you eat here came out of the Baltic that morning.

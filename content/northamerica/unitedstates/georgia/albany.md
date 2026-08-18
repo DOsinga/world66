@@ -7,11 +7,15 @@ done:
 latitude: 31.5785
 loc_type: city
 longitude: -84.1557
-score: 5.5
+score: 2.906
 snippet: Southwest Georgia city on the Flint River, with civil-rights history and
   a notable regional arts scene.
 title: Albany
 type: location
+heritage: 3.3
+vibrancy: 2.6
+nature: 2.934
+off_the_beaten_track: 1.25
 ---
 
 Albany is the largest city in southwest Georgia and the seat of Dougherty County. It sits on the Flint River about 170 miles south of Atlanta. Not a common tourist destination, but it has a surprisingly strong arts and cultural scene for a mid-size Southern city, and it carries a weight of history that most places its size don't.

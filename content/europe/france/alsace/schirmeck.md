@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_(Schirmeck).jpg
 latitude: 48.47873
 loc_type: city
 longitude: 7.218181
-score: 6.86
+score: 3.978
 snippet: Small Vosges valley town in Alsace, carrying the memory of a contested Franco-German
   borderland
 title: Schirmeck
 type: location
+heritage: 4.683
+vibrancy: 2.073
+nature: 3.643
+off_the_beaten_track: 2.571
 ---
 
 Schirmeck is a small town in the Bruche valley of the Vosges mountains, midway between [Strasbourg](/europe/france/alsace/strasbourg) and the [Col du Donon](/europe/france/alsace/schirmeck/col_du_donon). It is an unassuming place, but it sits in beautiful hiking country and carries a weight of history that belies its size.

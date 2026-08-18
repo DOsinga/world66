@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Altus,_Oklahoma.j
 latitude: 34.638126
 loc_type: city
 longitude: -99.333975
-score: 5.42
+score: 2.227
 snippet: Southwestern Oklahoma city in cotton and wheat country, anchored by Altus
   Air Force Base.
 title: Altus
 type: location
+heritage: 1.655
+vibrancy: 1.212
+nature: 2.525
+off_the_beaten_track: 3.038
 ---
 
 Altus is a small city in southwestern [Oklahoma](/northamerica/unitedstates/oklahoma), serving as the county seat of Jackson County and a regional hub for the surrounding cotton and wheat country. The dominant presence is [Altus Air Force Base](/northamerica/unitedstates/oklahoma/altus/altus_air_force_base), which trains pilots for the C-17 Globemaster and KC-46 tanker and has been the town's economic backbone since World War II.

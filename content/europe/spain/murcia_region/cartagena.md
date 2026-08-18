@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:CT_teatro_romano_y_catedra
 latitude: 37.6019
 loc_type: city
 longitude: -0.9842
-score: 8.32
+score: 7.223
 snippet: Murcian naval port layered with Phoenician, Carthaginian, Roman, Byzantine,
   and modern harbour history.
 sources:
 - https://en.wikipedia.org/wiki/Cartagena,_Spain
 title: Cartagena
 type: location
+heritage: 7.207
+vibrancy: 7.284
+nature: 3.871
+off_the_beaten_track: 1.591
 ---
 
 Cartagena is the coastal surprise of Murcia: a working naval port with an old centre built on top of Phoenician, Carthaginian, Roman, Byzantine, and modern layers. It is not polished in the way Spain's obvious city-break names are polished, and that is part of the appeal. Ships, cranes, archaeological sites, modernist facades, and cafe terraces all press into the same small bowl of harbour.

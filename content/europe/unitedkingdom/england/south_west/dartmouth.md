@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dartmouth_,_Dartmouth_Harb
 latitude: 50.3511
 loc_type: city
 longitude: -3.5783
-score: 8.15
+score: 5.026
 snippet: Steep Devon harbour town at the mouth of the River Dart, crossed by ferry
   rather than bridge.
 sources:
@@ -18,6 +18,10 @@ tags:
 - devon
 title: Dartmouth
 type: location
+heritage: 5.182
+vibrancy: 3.769
+nature: 5.594
+off_the_beaten_track: 3.573
 ---
 
 *Europe > United Kingdom > England > Bristol, Plymouth and the South West > Devon > Dartmouth*

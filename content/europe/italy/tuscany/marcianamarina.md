@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Marciana_marina,_veduta_da
 latitude: 42.803608
 loc_type: city
 longitude: 10.196768
-score: 8.2
+score: 4.984
 snippet: Quiet Elba harbour resort below Monte Capanne, mixing fishing boats, yachts,
   beaches, and ferry links to Capraia.
 tags:
 - elba
 title: Marciana Marina
 type: location
+heritage: 4.581
+vibrancy: 3.147
+nature: 5.784
+off_the_beaten_track: 3.363
 ---
 
 Marciana Marina is a small beach resort on the northern coast of Elba, grown around an old fishing village at the foot of Monte Capanne — the island's highest peak. The harbour is used by both fishing boats and pleasure yachts, giving the waterfront a pleasantly mixed character.

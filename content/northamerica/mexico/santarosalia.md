@@ -2,15 +2,20 @@
 latitude: 27.3389
 loc_type: city
 longitude: -112.2669
-score: 6.6
-snippet: Old French copper-mining port on Baja's Gulf coast, with ironwork, furnaces, and black beaches.
+score: 4.974
+snippet: Old French copper-mining port on Baja's Gulf coast, with ironwork, furnaces,
+  and black beaches.
 sources:
-  - https://en.wikivoyage.org/wiki/Santa_Rosalia
-  - https://visitmexico.com/en/destino/1931/santa-rosalia
-  - https://lugares.inah.gob.mx/en/node/6411
+- https://en.wikivoyage.org/wiki/Santa_Rosalia
+- https://visitmexico.com/en/destino/1931/santa-rosalia
+- https://lugares.inah.gob.mx/en/node/6411
 title: Santa Rosalia
 type: location
 wikidata: Q1640231
+heritage: 4.671
+vibrancy: 3.87
+nature: 5.73
+off_the_beaten_track: 4.582
 ---
 
 Santa Rosalia is one of Baja's stranger small towns: a copper port built by a French mining company, pressed between desert hills and the Gulf of California. It is not pretty in the polished resort sense. Its charm is in the iron church, the old company buildings, the locomotives and mining gear still sitting around town, and the black volcanic sand along the water.

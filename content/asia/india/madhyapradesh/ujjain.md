@@ -5,7 +5,7 @@ done:
 latitude: 23.1885
 loc_type: city
 longitude: 75.7717
-score: 7.82
+score: 5.716
 title: Ujjain
 type: location
 image: ujjain.jpg
@@ -14,6 +14,10 @@ image_license: CC BY-SA 4.0
 image_attribution: Ujjain.travel
 snippet: Sacred Hindu city on the Kshipra River, centred on Mahakaleshwar Temple and
   ancient astronomy.
+heritage: 7.049
+vibrancy: 4.035
+nature: 2.363
+off_the_beaten_track: 2.841
 ---
 
 Ujjain is one of the seven sacred cities of Hinduism, an ancient place on the banks of the Kshipra River in [Madhya Pradesh](/asia/india/madhyapradesh) that has been a centre of learning, astronomy, and pilgrimage for over two thousand years. The city was the capital of the kingdom of Avanti in the time of the Buddha, and later the court of the legendary King Vikramaditya, whose patronage made it a golden age of Sanskrit literature.

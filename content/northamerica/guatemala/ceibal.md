@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ruines_El_Ceibal.JPG
 latitude: 16.4167
 loc_type: city
 longitude: -90.1667
-score: 7.44
+score: 4.022
 snippet: Petén jungle Maya site on the Río de la Pasión, noted for exceptional Late
   Classic stelae.
 title: Ceibal
 type: location
+heritage: 4.747
+vibrancy: 1.651
+nature: 3.656
+off_the_beaten_track: 3.404
 ---
 
 Ceibal (also written El Ceibal or Seibal) is a Maya archaeological site in the Petén jungle, about 60 km south of [Flores](/northamerica/guatemala/flores) along the Río de la Pasión. It is far less visited than Tikal but has exceptional carved monuments.

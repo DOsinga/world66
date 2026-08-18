@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Surin_Beach.JPG
 latitude: 7.9774
 loc_type: city
 longitude: 98.2796
-score: 8.84
+score: 4.557
 snippet: Phuket beach village set on a casuarina-lined bay, with local seafood and
   hillside resort history.
 tags:
 - phuket
 title: Surin Beach
 type: location
+heritage: 1.352
+vibrancy: 4.858
+nature: 3.778
+off_the_beaten_track: 1.15
 ---
 
 Surin Beach is one of [Phuket](/asia/thailand/andamancoast/phuket)'s quieter stretches of sand, a bay lined with tall casuarina trees that offer welcome shade from the tropical sun. It is a favourite beach for locals, who flock here on weekends and holidays to eat seafood at the beachside restaurants. The hillside above the beach is dominated by [Amanpuri](/asia/thailand/andamancoast/surin/amanpuri), the pioneering luxury resort that opened in 1988 and shaped the look of high-end Asian beach resorts for a generation.

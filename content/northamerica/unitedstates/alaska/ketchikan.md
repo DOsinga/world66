@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Ketchikan_-_panor
 latitude: 55.34307
 loc_type: city
 longitude: -131.646682
-score: 8.43
+score: 6.116
 snippet: Rain-soaked Alaskan port on Tongass Narrows, known for Creek Street and standing
   totem poles.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Ketchikan
 title: Ketchikan
 type: location
+heritage: 5.441
+vibrancy: 4.155
+nature: 7.173
+off_the_beaten_track: 2.408
 ---
 
 Ketchikan is Alaska's southernmost city and usually the first port of call on the Alaska Marine Highway coming north from Bellingham, Washington. It sits on the western shore of Revillagigedo Island, clinging to the mountainside above the Tongass Narrows, and receives more rain than almost anywhere else in North America — around 160 inches a year. Embrace it: the mist softens the mountains and the forest feels primeval. The city is compact and walkable, with Creek Street, a boardwalk built over Ketchikan Creek, forming the most characterful stretch of town. Once the red-light district where fishermen went to spend their money, it is now lined with galleries, boutiques, and small cafes that creak pleasantly underfoot.

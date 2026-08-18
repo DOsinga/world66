@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/79721788@N00/21050088389
 latitude: 0.25
 loc_type: city
 longitude: 6.61
-score: 7.57
+score: 5.728
 snippet: Equatorial Gulf of Guinea island and capital, with Portuguese forts, cocoa-era
   history, and intensely green volcanic slopes
 title: São Tomé
 type: location
+heritage: 3.762
+vibrancy: 3.285
+nature: 6.927
+off_the_beaten_track: 6.392
 ---
 
 São Tomé is the larger of the two islands in the Gulf of Guinea, and shares its name with both the national capital and the highest peak. It sits almost exactly on the equator, which makes the light here extraordinary — everything is sharp and green.

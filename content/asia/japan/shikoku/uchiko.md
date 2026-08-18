@@ -2,8 +2,9 @@
 latitude: 33.5483
 loc_type: city
 longitude: 132.6506
-score: 7.4
-snippet: Small Ehime wax town with yellow merchant houses and a working Taisho-era theatre.
+score: 4.448
+snippet: Small Ehime wax town with yellow merchant houses and a working Taisho-era
+  theatre.
 sources:
 - https://en.wikivoyage.org/wiki/Uchiko
 - https://www.japan.travel/en/spot/240/
@@ -12,6 +13,10 @@ sources:
 title: Uchiko
 type: location
 wikidata: Q1018717
+heritage: 4.384
+vibrancy: 4.056
+nature: 4.934
+off_the_beaten_track: 4.132
 ---
 
 Uchiko is a small town in inland Ehime, but it has kept more of its old merchant self than many larger places. Its best streets are lined with yellow plaster walls, dark latticework, wax merchants' houses, and quiet shops that still feel tied to the town's Edo and Meiji prosperity.

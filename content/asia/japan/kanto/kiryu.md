@@ -5,8 +5,9 @@ loc_type: city
 latitude: 36.405333
 longitude: 139.330472
 wikidata: Q634022
-score: 6.8
-snippet: Gunma textile city of sawtooth mills, silk museums, old merchant streets, and shrine festivals.
+score: 6.445
+snippet: Gunma textile city of sawtooth mills, silk museums, old merchant streets,
+  and shrine festivals.
 sources:
 - https://en.wikivoyage.org/wiki/Kiryu
 - https://www.visit-gunma.jp/en/spots/kiryu-textile/
@@ -15,6 +16,10 @@ image: kiryu.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kiryu-tenmangu_honden.jpg
 image_license: CC BY 4.0
 image_attribution: こやまひろ
+heritage: 6.967
+vibrancy: 6.296
+nature: 3.787
+off_the_beaten_track: 1.283
 ---
 
 Kiryu is an old textile city in Gunma, close enough to Tokyo for a long day but far enough from the standard route to feel local. For centuries it was known for silk and woven cloth, and that trade still shapes the streets: sawtooth-roofed mills, former warehouses, merchant houses, specialist shops, and small museums survive across the old town.

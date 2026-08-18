@@ -4,11 +4,15 @@ done:
 latitude: 37.688397
 loc_type: feature
 longitude: 45.486907
-score: 6.63
+score: 6.048
 snippet: Large salt lake in northwestern Iran, set between East and West Azerbaijan
   provinces.
 title: Lake Urmia
 type: location
+heritage: 4.192
+vibrancy: 2.301
+nature: 7.34
+off_the_beaten_track: 6.665
 ---
 
 Lake Urmia was once one of the largest salt lakes in the world — bigger than the Dead Sea — but it has shrunk dramatically since the 1990s due to diversion of tributary rivers and drought. What remains is still striking: shallow, hypersaline water that turns shades of pink and red in summer as salt-tolerant algae bloom, ringed by flat salt flats and distant mountains. The ecological crisis is real and ongoing, but the lake is still worth visiting.

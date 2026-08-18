@@ -2,7 +2,7 @@
 latitude: 50.5412
 loc_type: city
 longitude: -4.9389
-score: 0.68
+score: 5.583
 snippet: Fishing village on the Camel Estuary, famous for its seafood restaurants
   and the Camel Trail cycling route.
 tags:
@@ -13,6 +13,10 @@ image: padstow.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Padstow_(Cornwall).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Otto Domes
+heritage: 4.971
+vibrancy: 4.027
+nature: 6.546
+off_the_beaten_track: 3.336
 ---
 
 Padstow is one of the most visited small towns in Cornwall — a fishing village on the Camel Estuary that has reinvented itself as a food destination. Rick Stein opened his first Padstow restaurant here in the 1970s and the town has since become shorthand for upscale Cornish seafood, spawning a cluster of fish restaurants and food shops around the harbour that draw visitors year-round.

@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cetatea_Alba_Carolina_Ansa
 latitude: 46.068275
 loc_type: city
 longitude: 23.566476
-score: 7.77
+score: 4.898
 snippet: Transylvanian city of Romanian unification, centred on the restored star-shaped
   Alba Carolina Citadel
 title: Alba Iulia
 type: location
+heritage: 6.313
+vibrancy: 2.904
+nature: 3.01
+off_the_beaten_track: 2.961
 ---
 
 Alba Iulia is one of Romania's most historically significant cities, the place where the unification of Transylvania with Romania was declared in 1918. The star-shaped Vauban fortress — the [Alba Carolina Citadel](/europe/romania/albaiulia/alba_carolina_citadel) — dominates the town and is one of the finest examples of Habsburg military architecture in southeastern Europe. Restored and well-maintained, the citadel is a pleasure to walk through, with baroque gates, churches, museums, and a daily changing-of-the-guard ceremony.

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Maloelap%26Aur_atoll_(sate
 latitude: 8.7602
 loc_type: island
 longitude: 171.0486
-score: 6.64
+score: 5.379
 snippet: Remote Marshall Islands atoll where quiet villages share reef flats with
   Japanese wartime remains.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://www.openstreetmap.org/relation/5717713
 title: Maloelap Atoll
 type: location
+heritage: 4.716
+vibrancy: 0.593
+nature: 5.525
+off_the_beaten_track: 8.428
 ---
 
 Maloelap Atoll sits in the Ratak Chain, northeast of [Majuro](/australiaandpacific/marshallislands/majuro), and feels much farther away than the map suggests. The islets are low, green, and thin, with a broad lagoon inside and ocean surf on the outside reef. Life is still organized around villages, church, copra, fishing, and boat schedules that do not care much for fixed itineraries.

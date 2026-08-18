@@ -1,0 +1,788 @@
+[
+  {
+    "embedding_text": "Ichikikushikino, Kyushu, Japan, Asia",
+    "lat": 31.7144,
+    "latitude": 31.7144,
+    "lng": 130.2719,
+    "longitude": 130.2719,
+    "name": "Ichikikushikino",
+    "parent": "Asia, Japan, Kyushu",
+    "parent_chain": [
+      "Asia",
+      "Japan",
+      "Kyushu"
+    ],
+    "path": "asia/japan/kyushu/ichikikushikino",
+    "url": "/asia/japan/kyushu/ichikikushikino/"
+  },
+  {
+    "embedding_text": "Kota Kinabalu, Malaysia, Asia",
+    "lat": 5.978007,
+    "latitude": 5.978007,
+    "lng": 116.072899,
+    "longitude": 116.072899,
+    "name": "Kota Kinabalu",
+    "parent": "Asia, Malaysia",
+    "parent_chain": [
+      "Asia",
+      "Malaysia"
+    ],
+    "path": "asia/malaysia/kotakinabalu",
+    "url": "/asia/malaysia/kotakinabalu/"
+  },
+  {
+    "embedding_text": "Lake Khovsgol, Mongolia, Asia",
+    "lat": 51.0205,
+    "latitude": 51.0205,
+    "lng": 100.4786,
+    "longitude": 100.4786,
+    "name": "Lake Khovsgol",
+    "parent": "Asia, Mongolia",
+    "parent_chain": [
+      "Asia",
+      "Mongolia"
+    ],
+    "path": "asia/mongolia/lakekhovsgol",
+    "url": "/asia/mongolia/lakekhovsgol/"
+  },
+  {
+    "embedding_text": "Montesilvano, Abruzzo, Italy, Europe",
+    "lat": 42.514167,
+    "latitude": 42.514167,
+    "lng": 14.149444,
+    "longitude": 14.149444,
+    "name": "Montesilvano",
+    "parent": "Europe, Italy, Abruzzo",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Abruzzo"
+    ],
+    "path": "europe/italy/abruzzo/montesilvano",
+    "url": "/europe/italy/abruzzo/montesilvano/"
+  },
+  {
+    "embedding_text": "\u201cAlgonquin Park\u201d, Canada, North America",
+    "lat": 45.657136,
+    "latitude": 45.657136,
+    "lng": -78.499539,
+    "longitude": -78.499539,
+    "name": "\u201cAlgonquin Park\u201d",
+    "parent": "North America, Canada",
+    "parent_chain": [
+      "North America",
+      "Canada"
+    ],
+    "path": "northamerica/canada/algonquin_park",
+    "url": "/northamerica/canada/algonquin_park/"
+  },
+  {
+    "embedding_text": "North Frisian Islands, Schleswig-Holstein, Germany, Europe",
+    "lat": 54.7174,
+    "latitude": 54.7174,
+    "lng": 8.4958,
+    "longitude": 8.4958,
+    "name": "North Frisian Islands",
+    "parent": "Europe, Germany, Schleswig-Holstein",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Schleswig-Holstein"
+    ],
+    "path": "europe/germany/schleswigholstein/north_frisian_islands",
+    "url": "/europe/germany/schleswigholstein/north_frisian_islands/"
+  },
+  {
+    "embedding_text": "Popoyo Beach, Nicaragua, North America",
+    "lat": 11.4847,
+    "latitude": 11.4847,
+    "lng": -86.0978,
+    "longitude": -86.0978,
+    "name": "Popoyo Beach",
+    "parent": "North America, Nicaragua",
+    "parent_chain": [
+      "North America",
+      "Nicaragua"
+    ],
+    "path": "northamerica/nicaragua/popoyo_beach",
+    "url": "/northamerica/nicaragua/popoyo_beach/"
+  },
+  {
+    "embedding_text": "El Yunque, Puerto Rico, North America",
+    "lat": 18.3017,
+    "latitude": 18.3017,
+    "lng": -65.7898,
+    "longitude": -65.7898,
+    "name": "El Yunque",
+    "parent": "North America, Puerto Rico",
+    "parent_chain": [
+      "North America",
+      "Puerto Rico"
+    ],
+    "path": "northamerica/puertorico/elyunque",
+    "url": "/northamerica/puertorico/elyunque/"
+  },
+  {
+    "embedding_text": "Tagbilaran, Bohol, Philippines, Asia",
+    "lat": 9.640261,
+    "latitude": 9.640261,
+    "lng": 123.855981,
+    "longitude": 123.855981,
+    "name": "Tagbilaran",
+    "parent": "Asia, Philippines, Bohol",
+    "parent_chain": [
+      "Asia",
+      "Philippines",
+      "Bohol"
+    ],
+    "path": "asia/philippines/bohol/tagbilaran",
+    "url": "/asia/philippines/bohol/tagbilaran/"
+  },
+  {
+    "embedding_text": "Maijishan Grottoes, Gansu Province, China, Asia",
+    "lat": 34.35,
+    "latitude": 34.35,
+    "lng": 106.0,
+    "longitude": 106.0,
+    "name": "Maijishan Grottoes",
+    "parent": "Asia, China, Gansu Province",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Gansu Province"
+    ],
+    "path": "asia/china/gansu/maijishan",
+    "url": "/asia/china/gansu/maijishan/"
+  },
+  {
+    "embedding_text": "KwaZulu-Natal, South Africa, Africa",
+    "lat": -28.503833,
+    "latitude": -28.503833,
+    "lng": 30.887501,
+    "longitude": 30.887501,
+    "name": "KwaZulu-Natal",
+    "parent": "Africa, South Africa",
+    "parent_chain": [
+      "Africa",
+      "South Africa"
+    ],
+    "path": "africa/southafrica/kwazulu_natal",
+    "url": "/africa/southafrica/kwazulu_natal/"
+  },
+  {
+    "embedding_text": "Colonia del Sacramento, Uruguay, South America",
+    "lat": -34.4712,
+    "latitude": -34.4712,
+    "lng": -57.8511,
+    "longitude": -57.8511,
+    "name": "Colonia del Sacramento",
+    "parent": "South America, Uruguay",
+    "parent_chain": [
+      "South America",
+      "Uruguay"
+    ],
+    "path": "southamerica/uruguay/coloniadelsacramento",
+    "url": "/southamerica/uruguay/coloniadelsacramento/"
+  },
+  {
+    "embedding_text": "Ruidoso, New Mexico, United States, North America",
+    "lat": 33.3316,
+    "latitude": 33.3316,
+    "lng": -105.6731,
+    "longitude": -105.6731,
+    "name": "Ruidoso",
+    "parent": "North America, United States, New Mexico",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "New Mexico"
+    ],
+    "path": "northamerica/unitedstates/newmexico/ruidoso",
+    "url": "/northamerica/unitedstates/newmexico/ruidoso/"
+  },
+  {
+    "embedding_text": "Zhoushan, Zhejiang, China, Asia",
+    "lat": 29.975,
+    "latitude": 29.975,
+    "lng": 122.237,
+    "longitude": 122.237,
+    "name": "Zhoushan",
+    "parent": "Asia, China, Zhejiang",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Zhejiang"
+    ],
+    "path": "asia/china/zhejiang/zhoushan",
+    "url": "/asia/china/zhejiang/zhoushan/"
+  },
+  {
+    "embedding_text": "Nev\u015fehir, Cappadocia, Turkey, Asia",
+    "lat": 38.623507,
+    "latitude": 38.623507,
+    "lng": 34.719417,
+    "longitude": 34.719417,
+    "name": "Nev\u015fehir",
+    "parent": "Asia, Turkey, Cappadocia",
+    "parent_chain": [
+      "Asia",
+      "Turkey",
+      "Cappadocia"
+    ],
+    "path": "asia/turkey/cappadocia/nevsehir",
+    "url": "/asia/turkey/cappadocia/nevsehir/"
+  },
+  {
+    "embedding_text": "Luba, Equatorial Guinea, Africa",
+    "lat": 3.4598,
+    "latitude": 3.4598,
+    "lng": 8.5544,
+    "longitude": 8.5544,
+    "name": "Luba",
+    "parent": "Africa, Equatorial Guinea",
+    "parent_chain": [
+      "Africa",
+      "Equatorial Guinea"
+    ],
+    "path": "africa/equatorialguinea/luba",
+    "url": "/africa/equatorialguinea/luba/"
+  },
+  {
+    "embedding_text": "Vestvagoy, Lofoten islands, Norway, Europe",
+    "lat": 68.1607,
+    "latitude": 68.1607,
+    "lng": 13.7841,
+    "longitude": 13.7841,
+    "name": "Vestvagoy",
+    "parent": "Europe, Norway, Lofoten islands",
+    "parent_chain": [
+      "Europe",
+      "Norway",
+      "Lofoten islands"
+    ],
+    "path": "europe/norway/lofotenislands/vestvagoy",
+    "url": "/europe/norway/lofotenislands/vestvagoy/"
+  },
+  {
+    "embedding_text": "Khamis, Saudi Arabia, Asia",
+    "lat": 18.3,
+    "latitude": 18.3,
+    "lng": 42.733333,
+    "longitude": 42.733333,
+    "name": "Khamis",
+    "parent": "Asia, Saudi Arabia",
+    "parent_chain": [
+      "Asia",
+      "Saudi Arabia"
+    ],
+    "path": "asia/saudiarabia/khamis",
+    "url": "/asia/saudiarabia/khamis/"
+  },
+  {
+    "embedding_text": "Cley next the Sea, The North Norfolk Coast, East of England, England, United Kingdom, Europe",
+    "lat": 52.9525,
+    "latitude": 52.9525,
+    "lng": 1.0431,
+    "longitude": 1.0431,
+    "name": "Cley next the Sea",
+    "parent": "Europe, United Kingdom, England, East of England, The North Norfolk Coast",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "England",
+      "East of England",
+      "The North Norfolk Coast"
+    ],
+    "path": "europe/unitedkingdom/england/east_of_england/the_north_norfolk_coast/cley_next_the_sea",
+    "url": "/europe/unitedkingdom/england/east_of_england/the_north_norfolk_coast/cley_next_the_sea/"
+  },
+  {
+    "embedding_text": "Chichen Itza, Yucatan, Mexico, North America",
+    "lat": 20.682852,
+    "latitude": 20.682852,
+    "lng": -88.56872,
+    "longitude": -88.56872,
+    "name": "Chichen Itza",
+    "parent": "North America, Mexico, Yucatan",
+    "parent_chain": [
+      "North America",
+      "Mexico",
+      "Yucatan"
+    ],
+    "path": "northamerica/mexico/yucatan/chichen_itza",
+    "url": "/northamerica/mexico/yucatan/chichen_itza/"
+  },
+  {
+    "embedding_text": "Utica, New York State, United States, North America",
+    "lat": 43.100903,
+    "latitude": 43.100903,
+    "lng": -75.232664,
+    "longitude": -75.232664,
+    "name": "Utica",
+    "parent": "North America, United States, New York State",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "New York State"
+    ],
+    "path": "northamerica/unitedstates/newyorkstate/utica",
+    "url": "/northamerica/unitedstates/newyorkstate/utica/"
+  },
+  {
+    "embedding_text": "Acitrezza, Sicily, Italy, Europe",
+    "lat": 37.5663,
+    "latitude": 37.5663,
+    "lng": 15.161,
+    "longitude": 15.161,
+    "name": "Acitrezza",
+    "parent": "Europe, Italy, Sicily",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Sicily"
+    ],
+    "path": "europe/italy/sicily/acitrezza",
+    "url": "/europe/italy/sicily/acitrezza/"
+  },
+  {
+    "embedding_text": "Arnhem, Netherlands, Europe",
+    "lat": 51.9851,
+    "latitude": 51.9851,
+    "lng": 5.8987,
+    "longitude": 5.8987,
+    "name": "Arnhem",
+    "parent": "Europe, Netherlands",
+    "parent_chain": [
+      "Europe",
+      "Netherlands"
+    ],
+    "path": "europe/netherlands/arnhem",
+    "url": "/europe/netherlands/arnhem/"
+  },
+  {
+    "embedding_text": "Gurdaspur, Punjab, India, Asia",
+    "lat": 31.903726,
+    "latitude": 31.903726,
+    "lng": 75.227559,
+    "longitude": 75.227559,
+    "name": "Gurdaspur",
+    "parent": "Asia, India, Punjab",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Punjab"
+    ],
+    "path": "asia/india/punjab/gurdaspur",
+    "url": "/asia/india/punjab/gurdaspur/"
+  },
+  {
+    "embedding_text": "Ke\u015fan, Turkey, Asia",
+    "lat": 40.85,
+    "latitude": 40.85,
+    "lng": 26.6333,
+    "longitude": 26.6333,
+    "name": "Ke\u015fan",
+    "parent": "Asia, Turkey",
+    "parent_chain": [
+      "Asia",
+      "Turkey"
+    ],
+    "path": "asia/turkey/kesan",
+    "url": "/asia/turkey/kesan/"
+  },
+  {
+    "embedding_text": "Ifrane, Morocco, Africa",
+    "lat": 33.5276,
+    "latitude": 33.5276,
+    "lng": -5.1074,
+    "longitude": -5.1074,
+    "name": "Ifrane",
+    "parent": "Africa, Morocco",
+    "parent_chain": [
+      "Africa",
+      "Morocco"
+    ],
+    "path": "africa/morocco/ifrane",
+    "url": "/africa/morocco/ifrane/"
+  },
+  {
+    "embedding_text": "Yancheng, Jiangsu Province, China, Asia",
+    "lat": 33.3833,
+    "latitude": 33.3833,
+    "lng": 120.1167,
+    "longitude": 120.1167,
+    "name": "Yancheng",
+    "parent": "Asia, China, Jiangsu Province",
+    "parent_chain": [
+      "Asia",
+      "China",
+      "Jiangsu Province"
+    ],
+    "path": "asia/china/jiangsu_province/yancheng",
+    "url": "/asia/china/jiangsu_province/yancheng/"
+  },
+  {
+    "embedding_text": "Biggar, Scotland, United Kingdom, Europe",
+    "lat": 55.6221,
+    "latitude": 55.6221,
+    "lng": -3.5158,
+    "longitude": -3.5158,
+    "name": "Biggar",
+    "parent": "Europe, United Kingdom, Scotland",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "Scotland"
+    ],
+    "path": "europe/unitedkingdom/scotland/biggar",
+    "url": "/europe/unitedkingdom/scotland/biggar/"
+  },
+  {
+    "embedding_text": "New Westminster, British Columbia, Canada, North America",
+    "lat": 49.2068,
+    "latitude": 49.2068,
+    "lng": -122.9109,
+    "longitude": -122.9109,
+    "name": "New Westminster",
+    "parent": "North America, Canada, British Columbia",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "British Columbia"
+    ],
+    "path": "northamerica/canada/britishcolumbia/newwestminster",
+    "url": "/northamerica/canada/britishcolumbia/newwestminster/"
+  },
+  {
+    "embedding_text": "Thanjavur, Tamil Nadu, India, Asia",
+    "lat": 10.659037,
+    "latitude": 10.659037,
+    "lng": 79.201428,
+    "longitude": 79.201428,
+    "name": "Thanjavur",
+    "parent": "Asia, India, Tamil Nadu",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Tamil Nadu"
+    ],
+    "path": "asia/india/tamilnadu/thanjavur",
+    "url": "/asia/india/tamilnadu/thanjavur/"
+  },
+  {
+    "embedding_text": "Cowichan Bay, British Columbia, Canada, North America",
+    "lat": 48.741701,
+    "latitude": 48.741701,
+    "lng": -123.626404,
+    "longitude": -123.626404,
+    "name": "Cowichan Bay",
+    "parent": "North America, Canada, British Columbia",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "British Columbia"
+    ],
+    "path": "northamerica/canada/britishcolumbia/cowichan_bay_bc",
+    "url": "/northamerica/canada/britishcolumbia/cowichan_bay_bc/"
+  },
+  {
+    "embedding_text": "Warr Acres, Oklahoma, United States, North America",
+    "lat": 35.522557,
+    "latitude": 35.522557,
+    "lng": -97.618935,
+    "longitude": -97.618935,
+    "name": "Warr Acres",
+    "parent": "North America, United States, Oklahoma",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Oklahoma"
+    ],
+    "path": "northamerica/unitedstates/oklahoma/warr_acres",
+    "url": "/northamerica/unitedstates/oklahoma/warr_acres/"
+  },
+  {
+    "embedding_text": "Ozamiz City, Philippines, Asia",
+    "lat": 8.147018,
+    "latitude": 8.147018,
+    "lng": 123.845979,
+    "longitude": 123.845979,
+    "name": "Ozamiz City",
+    "parent": "Asia, Philippines",
+    "parent_chain": [
+      "Asia",
+      "Philippines"
+    ],
+    "path": "asia/philippines/ozamizcity",
+    "url": "/asia/philippines/ozamizcity/"
+  },
+  {
+    "embedding_text": "San Ignacio, Peru, South America",
+    "lat": -5.124368,
+    "latitude": -5.124368,
+    "lng": -78.89563,
+    "longitude": -78.89563,
+    "name": "San Ignacio",
+    "parent": "South America, Peru",
+    "parent_chain": [
+      "South America",
+      "Peru"
+    ],
+    "path": "southamerica/peru/san_ignacio",
+    "url": "/southamerica/peru/san_ignacio/"
+  },
+  {
+    "embedding_text": "D\u00fcrnstein, Wachau, Austria, Europe",
+    "lat": 48.3956,
+    "latitude": 48.3956,
+    "lng": 15.5203,
+    "longitude": 15.5203,
+    "name": "D\u00fcrnstein",
+    "parent": "Europe, Austria, Wachau",
+    "parent_chain": [
+      "Europe",
+      "Austria",
+      "Wachau"
+    ],
+    "path": "europe/austria/wachau/durnstein",
+    "url": "/europe/austria/wachau/durnstein/"
+  },
+  {
+    "embedding_text": "Langeoog, East Frisian Islands, Lower Saxony, Germany, Europe",
+    "lat": 53.74087,
+    "latitude": 53.74087,
+    "lng": 7.485917,
+    "longitude": 7.485917,
+    "name": "Langeoog",
+    "parent": "Europe, Germany, Lower Saxony, East Frisian Islands",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Lower Saxony",
+      "East Frisian Islands"
+    ],
+    "path": "europe/germany/lowersaxony/east_frisian_islands/langeoog",
+    "url": "/europe/germany/lowersaxony/east_frisian_islands/langeoog/"
+  },
+  {
+    "embedding_text": "Taipei, Taiwan, Asia",
+    "lat": 25.03752,
+    "latitude": 25.03752,
+    "lng": 121.56368,
+    "longitude": 121.56368,
+    "name": "Taipei",
+    "parent": "Asia, Taiwan",
+    "parent_chain": [
+      "Asia",
+      "Taiwan"
+    ],
+    "path": "asia/taiwan/taipei",
+    "url": "/asia/taiwan/taipei/"
+  },
+  {
+    "embedding_text": "Harappa, Pakistan, Asia",
+    "lat": 30.6289,
+    "latitude": 30.6289,
+    "lng": 72.8639,
+    "longitude": 72.8639,
+    "name": "Harappa",
+    "parent": "Asia, Pakistan",
+    "parent_chain": [
+      "Asia",
+      "Pakistan"
+    ],
+    "path": "asia/pakistan/harappa",
+    "url": "/asia/pakistan/harappa/"
+  },
+  {
+    "embedding_text": "Lake Iseo, Lombardia, Italy, Europe",
+    "lat": 45.738878,
+    "latitude": 45.738878,
+    "lng": 10.070866,
+    "longitude": 10.070866,
+    "name": "Lake Iseo",
+    "parent": "Europe, Italy, Lombardia",
+    "parent_chain": [
+      "Europe",
+      "Italy",
+      "Lombardia"
+    ],
+    "path": "europe/italy/lombardia/lake_iseo",
+    "url": "/europe/italy/lombardia/lake_iseo/"
+  },
+  {
+    "embedding_text": "Masterton, Wairarapa, Greater Wellington, North Island, New Zealand, Australia, Pacific & Antarctica",
+    "lat": -40.95,
+    "latitude": -40.95,
+    "lng": 175.66,
+    "longitude": 175.66,
+    "name": "Masterton",
+    "parent": "Australia, Pacific & Antarctica, New Zealand, North Island, Greater Wellington, Wairarapa",
+    "parent_chain": [
+      "Australia, Pacific & Antarctica",
+      "New Zealand",
+      "North Island",
+      "Greater Wellington",
+      "Wairarapa"
+    ],
+    "path": "australiaandpacific/newzealand/north_island/greater_wellington/wairarapa/masterton",
+    "url": "/australiaandpacific/newzealand/north_island/greater_wellington/wairarapa/masterton/"
+  },
+  {
+    "embedding_text": "\u00d3bidos, Portugal, Europe",
+    "lat": 39.361951,
+    "latitude": 39.361951,
+    "lng": -9.157153,
+    "longitude": -9.157153,
+    "name": "\u00d3bidos",
+    "parent": "Europe, Portugal",
+    "parent_chain": [
+      "Europe",
+      "Portugal"
+    ],
+    "path": "europe/portugal/obidos",
+    "url": "/europe/portugal/obidos/"
+  },
+  {
+    "embedding_text": "South Padre Island, Texas, United States, North America",
+    "lat": 26.115,
+    "latitude": 26.115,
+    "lng": -97.168,
+    "longitude": -97.168,
+    "name": "South Padre Island",
+    "parent": "North America, United States, Texas",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "Texas"
+    ],
+    "path": "northamerica/unitedstates/texas/southpadreisland",
+    "url": "/northamerica/unitedstates/texas/southpadreisland/"
+  },
+  {
+    "embedding_text": "Tanjung Pinang, Bintan, Indonesia, Asia",
+    "lat": 0.9237,
+    "latitude": 0.9237,
+    "lng": 104.4461,
+    "longitude": 104.4461,
+    "name": "Tanjung Pinang",
+    "parent": "Asia, Indonesia, Bintan",
+    "parent_chain": [
+      "Asia",
+      "Indonesia",
+      "Bintan"
+    ],
+    "path": "asia/indonesia/bintan/tanjung_pinang",
+    "url": "/asia/indonesia/bintan/tanjung_pinang/"
+  },
+  {
+    "embedding_text": "Palampur, Himachal Pradesh, India, Asia",
+    "lat": 32.1109,
+    "latitude": 32.1109,
+    "lng": 76.5366,
+    "longitude": 76.5366,
+    "name": "Palampur",
+    "parent": "Asia, India, Himachal Pradesh",
+    "parent_chain": [
+      "Asia",
+      "India",
+      "Himachal Pradesh"
+    ],
+    "path": "asia/india/himachalpradesh/palampur",
+    "url": "/asia/india/himachalpradesh/palampur/"
+  },
+  {
+    "embedding_text": "Chilliwack, British Columbia, Canada, North America",
+    "lat": 49.1577,
+    "latitude": 49.1577,
+    "lng": -121.9509,
+    "longitude": -121.9509,
+    "name": "Chilliwack",
+    "parent": "North America, Canada, British Columbia",
+    "parent_chain": [
+      "North America",
+      "Canada",
+      "British Columbia"
+    ],
+    "path": "northamerica/canada/britishcolumbia/chilliwack",
+    "url": "/northamerica/canada/britishcolumbia/chilliwack/"
+  },
+  {
+    "embedding_text": "Bangor, Wales, Wales, United Kingdom, Europe",
+    "lat": 53.227716,
+    "latitude": 53.227716,
+    "lng": -4.126882,
+    "longitude": -4.126882,
+    "name": "Bangor, Wales",
+    "parent": "Europe, United Kingdom, Wales",
+    "parent_chain": [
+      "Europe",
+      "United Kingdom",
+      "Wales"
+    ],
+    "path": "europe/unitedkingdom/wales/bangor_wales",
+    "url": "/europe/unitedkingdom/wales/bangor_wales/"
+  },
+  {
+    "embedding_text": "Marion, North Carolina, United States, North America",
+    "lat": 35.684167,
+    "latitude": 35.684167,
+    "lng": -82.009167,
+    "longitude": -82.009167,
+    "name": "Marion",
+    "parent": "North America, United States, North Carolina",
+    "parent_chain": [
+      "North America",
+      "United States",
+      "North Carolina"
+    ],
+    "path": "northamerica/unitedstates/northcarolina/marion",
+    "url": "/northamerica/unitedstates/northcarolina/marion/"
+  },
+  {
+    "embedding_text": "Bernau bei Berlin, Brandenburg, Germany, Europe",
+    "lat": 52.678725,
+    "latitude": 52.678725,
+    "lng": 13.588111,
+    "longitude": 13.588111,
+    "name": "Bernau bei Berlin",
+    "parent": "Europe, Germany, Brandenburg",
+    "parent_chain": [
+      "Europe",
+      "Germany",
+      "Brandenburg"
+    ],
+    "path": "europe/germany/brandenburg/bernau_bei_berlin",
+    "url": "/europe/germany/brandenburg/bernau_bei_berlin/"
+  },
+  {
+    "embedding_text": "Spa, Belgium, Europe",
+    "lat": 50.4921,
+    "latitude": 50.4921,
+    "lng": 5.8628,
+    "longitude": 5.8628,
+    "name": "Spa",
+    "parent": "Europe, Belgium",
+    "parent_chain": [
+      "Europe",
+      "Belgium"
+    ],
+    "path": "europe/belgium/spa",
+    "url": "/europe/belgium/spa/"
+  },
+  {
+    "embedding_text": "Ryazan, Russia, Europe",
+    "lat": 54.629569,
+    "latitude": 54.629569,
+    "lng": 39.742504,
+    "longitude": 39.742504,
+    "name": "Ryazan",
+    "parent": "Europe, Russia",
+    "parent_chain": [
+      "Europe",
+      "Russia"
+    ],
+    "path": "europe/russia/ryazan",
+    "url": "/europe/russia/ryazan/"
+  }
+]

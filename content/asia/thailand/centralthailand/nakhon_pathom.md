@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:0004932_-_(Phra_Pathom_Che
 latitude: 13.891842
 loc_type: city
 longitude: 100.016566
-score: 7.37
+score: 4.553
 snippet: Bangkok day-trip city centered on Phra Pathom Chedi, Thailand's tallest Buddhist
   stupa.
 title: Nakhon Pathom
 type: location
+heritage: 5.727
+vibrancy: 2.985
+nature: 2.223
+off_the_beaten_track: 2.615
 ---
 
 Nakhon Pathom is a small province just 56 km west of Bangkok, easily reached as a day trip. The main draw is the [Phra Pathom Chedi](/asia/thailand/centralthailand/nakhon_pathom/phra_pathom_chedi), the tallest Buddhist stupa in the world at 127 metres. It marks what is traditionally held to be the spot where Buddhism first arrived in what is now Thailand, and the chedi has been a pilgrimage site for centuries. The surrounding temple grounds are spacious and well-kept, with a museum and several smaller shrines.

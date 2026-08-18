@@ -5,7 +5,7 @@ loc_type: city
 latitude: 8.4364
 longitude: 99.9631
 wikidata: Q1012424
-score: 7.5
+score: 4.904
 snippet: Historic southern Thai city of sacred temples, old walls, and shadow-puppet
   tradition.
 sources:
@@ -17,6 +17,10 @@ image: nakhon_si_thammarat.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Wat_Phra_Mahathat_Woramahawihan,_Nakhon_Si_Thammarat.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Preecha.MJ
+heritage: 2.81
+vibrancy: 4.869
+nature: 4.993
+off_the_beaten_track: 4.163
 ---
 
 Nakhon Si Thammarat is one of southern Thailand's great old cities, though it does not shout for attention like the beach towns around it. It was once the centre of the Kingdom of Ligor, and the long, straight roads of the modern city still run past temples, fragments of wall, markets, and old ritual sites.

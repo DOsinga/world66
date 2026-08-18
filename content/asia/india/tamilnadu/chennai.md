@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Chennai_train_station.jpg
 latitude: 13.083694
 loc_type: city
 longitude: 80.270186
-score: 7.48
+score: 7.513
 snippet: Capital city of Tamil Nadu, founded around Fort St George and a hub for exploring
   the state.
 title: Chennai
 type: location
+heritage: 6.994
+vibrancy: 7.767
+nature: 4.11
+off_the_beaten_track: 1.687
 ---
 
 Formerly known as Madras, Chennai is the capital of 

@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Bolsena.jpg
 latitude: 42.6441
 loc_type: city
 longitude: 11.985
-score: 7.79
+score: 6.55
 snippet: Lakeside Lazio town on Europe's largest volcanic lake, with a medieval castle
   and Eucharistic miracle basilica
 sources:
 - https://en.wikipedia.org/wiki/Bolsena
 title: Bolsena
 type: location
+heritage: 7.573
+vibrancy: 5.439
+nature: 6.311
+off_the_beaten_track: 1.392
 ---
 
 Bolsena is a small town on the northeastern shore of [Lago di Bolsena](/europe/italy/lazio/bolsena/lago_di_bolsena), the largest volcanic lake in Europe. The lake itself is the main attraction — clean, calm water surrounded by green hills, with two small islands visible from the shore. Swimming and boating are popular in summer, and the lake's volcanic soil supports an eel population that turns up in local cuisine.

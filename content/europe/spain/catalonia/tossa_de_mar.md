@@ -2,7 +2,7 @@
 latitude: 41.7206
 loc_type: city
 longitude: 2.9322
-score: 8.2
+score: 5.149
 snippet: Costa Brava town where a walled medieval old quarter rises above two beaches.
 sources:
 - https://en.wikivoyage.org/wiki/Tossa_de_Mar
@@ -12,6 +12,10 @@ tags:
 - costa_brava
 title: Tossa de Mar
 type: location
+heritage: 4.499
+vibrancy: 4.784
+nature: 5.669
+off_the_beaten_track: 2.35
 ---
 
 Tossa de Mar is the Costa Brava at its most compact: a small beach town, a steep headland, fishing boats pulled up on the sand, and the stone walls of the Vila Vella above the water. It is a resort, but it has a real old town at its core, which gives it more texture than the bigger holiday strips along this coast.

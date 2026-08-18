@@ -5,11 +5,15 @@ done:
 latitude: 39.225189
 loc_type: city
 longitude: -106.001952
-score: 6.7
+score: 4.941
 snippet: High Colorado town in South Park, linked to mining history, mountain passes,
   and a famous animated namesake.
 title: Fairplay
 type: location
+heritage: 2.77
+vibrancy: 1.879
+nature: 6.462
+off_the_beaten_track: 3.922
 ---
 
 Fairplay is the county seat of Park County, Colorado, sitting at 2,989 metres altitude in South Park — the sweeping high-altitude valley ringed by the Front Range, the Mosquito Range, and the Tarryall Mountains. It is the community that inspired the animated TV series of the same name, and it retains an unpolished, workaday quality that the resort towns nearby have mostly traded away.

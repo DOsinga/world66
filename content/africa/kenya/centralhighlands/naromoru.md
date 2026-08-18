@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/84554176@N00/49598864556
 latitude: -0.162778
 loc_type: city
 longitude: 37.023557
-score: 6.96
+score: 6.276
 snippet: Mount Kenya foothills town and main staging point for climbs on the Naro
   Moru route.
 title: Naro Moru
 type: location
+heritage: 4.894
+vibrancy: 1.774
+nature: 7.654
+off_the_beaten_track: 4.773
 ---
 
 Naro Moru is a small town on the western side of [Mount Kenya](/africa/kenya/centralhighlands/naromoru/mount_kenya), and the most common starting point for trekkers climbing the mountain via the [Naro Moru route](/africa/kenya/centralhighlands/naromoru/naro_moru_route). There is little reason to linger in town itself — it exists almost entirely as a staging post for the mountain.

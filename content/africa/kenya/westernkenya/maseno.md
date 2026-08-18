@@ -5,11 +5,15 @@ done:
 latitude: 0.001538
 loc_type: city
 longitude: 34.605756
-score: 5.45
+score: 5.113
 snippet: Small western Kenyan equator town known for Maseno University, Maseno School,
   and green Lake Victoria countryside.
 title: Maseno
 type: location
+heritage: 5.002
+vibrancy: 2.983
+nature: 5.805
+off_the_beaten_track: 5.023
 ---
 
 Maseno is a small town in western [Kenya](/africa/kenya), sitting almost exactly on the equator near the shores of Lake Victoria. It is best known as an educational centre — [Maseno University](/africa/kenya/westernkenya/maseno/maseno_university) and [Maseno School](/africa/kenya/westernkenya/maseno/maseno_school), one of the oldest schools in East Africa (founded in 1906), are both here.

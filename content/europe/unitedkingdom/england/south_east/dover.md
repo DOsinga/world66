@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Dover_from_the_top_of_Dove
 latitude: 51.125127
 loc_type: city
 longitude: 1.313423
-score: 7.38
+score: 4.006
 title: Dover
 snippet: Channel port town beneath England's white cliffs, guarded by a fortress above
   the harbour.
 type: location
+heritage: 3.12
+vibrancy: 3.977
+nature: 4.08
+off_the_beaten_track: 0.996
 ---
 
 When you think of Dover, you probably think of white cliffs — those chalk faces rising dramatically from the sea, the first or last sight of England for centuries of travellers crossing the Channel. Dover is still the busiest passenger port in Europe, though the Channel Tunnel has taken much of the traffic and the town itself has seen better days.

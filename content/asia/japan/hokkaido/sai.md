@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 41.4297
 longitude: 140.8592
-score: 6.2
-snippet: Remote Shimokita Peninsula fishing village with white sea cliffs, forested mountains, and ferry access.
+score: 6.182
+snippet: Remote Shimokita Peninsula fishing village with white sea cliffs, forested
+  mountains, and ferry access.
 wikidata: Q1362393
 sources:
-  - https://en.wikivoyage.org/wiki/Sai
-  - https://en.wikipedia.org/wiki/Sai,_Aomori
+- https://en.wikivoyage.org/wiki/Sai
+- https://en.wikipedia.org/wiki/Sai,_Aomori
+heritage: 4.788
+vibrancy: 3.726
+nature: 7.553
+off_the_beaten_track: 4.93
 ---
 
 Sai is a small fishing village on the wild west coast of the Shimokita Peninsula, far enough from Aomori city that you feel the map thinning out. The village itself is quiet, but the coastline is one of northern Honshu's odd rewards: forested slopes, fishing hamlets, ferry piers, and the pale rock faces of [Hotoke-ga-ura](/asia/japan/hokkaido/sai/hotoke_ga_ura) rising straight from blue water.

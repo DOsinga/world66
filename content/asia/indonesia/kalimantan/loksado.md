@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Sungai_Amandit,_Loksado_4.
 latitude: -2.794682
 loc_type: city
 longitude: 115.496021
-score: 7.47
+score: 5.047
 snippet: Meratus Mountains town in South Kalimantan, used as a base for rainforest
   treks to Dayak villages.
 sources:
 - https://en.wikipedia.org/wiki/Meratus_Mountains
 title: Loksado
 type: location
+heritage: 2.529
+vibrancy: 1.606
+nature: 6.171
+off_the_beaten_track: 5.413
 ---
 
 Loksado is a small town in the Meratus Mountains of South Kalimantan, about five hours by road from Banjarmasin. It is the starting point for treks into the Meratus range — one of the few places in Indonesian Borneo where you can walk through genuine mountain rainforest and stay with indigenous Dayak communities.

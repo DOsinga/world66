@@ -7,11 +7,15 @@ done:
 latitude: 35.91537
 loc_type: city
 longitude: -94.969956
-score: 6.27
+score: 4.368
 snippet: Northeastern Oklahoma city and Cherokee Nation capital, set among rivers,
   hills, and university streets.
 title: Tahlequah
 type: location
+heritage: 3.197
+vibrancy: 2.196
+nature: 5.415
+off_the_beaten_track: 2.165
 ---
 
 Tahlequah carries more history than its modest size suggests. It is the capital of the Cherokee Nation — the seat of a tribal government that survived forced removal from the southeastern United States, a 1,200-mile ordeal known as the Trail of Tears that brought the Cherokee to Indian Territory in the 1830s. The [Cherokee National Capitol](/northamerica/unitedstates/oklahoma/tahlequah/cherokee_national_capitol), built in 1867, still stands downtown. The [Cherokee Heritage Center](/northamerica/unitedstates/oklahoma/tahlequah/cherokee_heritage_center) south of town is the best place to understand the full story.

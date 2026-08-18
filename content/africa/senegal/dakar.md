@@ -12,7 +12,7 @@ quick_facts:
   Population: ~1.1 million
   Renaissance Monument: Taller than the Statue of Liberty
   Île de Gorée: Former slave-trade island
-score: 7.93
+score: 5.432
 snippet: West African capital on the Cap-Vert peninsula, alive with markets, music,
   mosques, and Atlantic light
 tip: Dakar sits on the Cap-Vert peninsula, the westernmost point of mainland Africa.
@@ -22,6 +22,10 @@ tip: Dakar sits on the Cap-Vert peninsula, the westernmost point of mainland Afr
   markets.
 title: Dakar
 type: location
+heritage: 4.145
+vibrancy: 5.5
+nature: 5.256
+off_the_beaten_track: 5.138
 ---
 
 Dakar sits at the very tip of the Cap-Vert peninsula, the westernmost point of mainland Africa. It's a crowded, noisy, thoroughly alive city of over three million people — a French-colonial capital that has spilled out of its old grid of boulevards and filled the peninsula with markets, mosques and improvised neighbourhoods. The pace is fast, the traffic is chaotic, the music is everywhere.

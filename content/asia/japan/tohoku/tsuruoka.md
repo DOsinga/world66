@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 38.7167
 longitude: 139.8167
-score: 7.72
-snippet: Shonai coast city and gateway to Dewa Sanzan, known for temples, food, and jellyfish.
+score: 3.676
+snippet: Shonai coast city and gateway to Dewa Sanzan, known for temples, food, and
+  jellyfish.
 wikidata: Q734416
 sources:
-  - https://en.wikivoyage.org/wiki/Tsuruoka
-  - https://en.wikipedia.org/wiki/Tsuruoka
+- https://en.wikivoyage.org/wiki/Tsuruoka
+- https://en.wikipedia.org/wiki/Tsuruoka
+heritage: 3.361
+vibrancy: 3.473
+nature: 4.019
+off_the_beaten_track: 2.275
 ---
 
 Tsuruoka sits on the Sea of Japan side of Yamagata, a long way from the standard Tokyo-Kyoto route. That distance is part of the draw. The city has Shonai clan history, serious Buddhist sites, a strange and excellent aquarium, and the sacred mountains of Dewa Sanzan close enough to shape its identity.

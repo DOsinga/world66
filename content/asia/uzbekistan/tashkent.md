@@ -14,7 +14,7 @@ quick_facts:
   Metro Stations: Decorated like palaces
   Population: ~3 million
   Silk Road Hub: Gateway to Samarkand
-score: 7.78
+score: 4.501
 snippet: Uzbek capital rebuilt with Soviet boulevards, decorated metro stations, and
   pockets of Silk Road history.
 tip: Tashkent is Central Asia's largest city, rebuilt after a 1966 earthquake, so
@@ -23,6 +23,10 @@ tip: Tashkent is Central Asia's largest city, rebuilt after a 1966 earthquake, s
   and Khiva. The Chorsu Bazaar under its blue dome is the place to feel old Tashkent.
 title: Tashkent
 type: location
+heritage: 4.198
+vibrancy: 4.65
+nature: 2.655
+off_the_beaten_track: 3.491
 ---
 
 Tashkent is the capital of Uzbekistan but lacks the headline attractions of [Samarkand](/asia/uzbekistan/samarkand) and [Bukhara](/asia/uzbekistan/bukhara). A devastating earthquake in 1966 levelled much of the old city, and the Soviets seized the moment — calling in volunteer workers from across the USSR to rebuild. Thousands came and stayed, turning the ancient Silk Road city into a modern, Soviet, and rather Russian town.

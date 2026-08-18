@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Barka,_Oman_(10)_(27574466
 latitude: 23.666575
 loc_type: city
 longitude: 57.88206
-score: 6.99
+score: 5.27
 title: Barka
 type: location
 snippet: Batinah coast town west of Muscat, known for its waterfront fort and working
   beach.
+heritage: 4.859
+vibrancy: 1.736
+nature: 6.109
+off_the_beaten_track: 5.784
 ---
 
 Barka is a small coastal town on the Batinah plain, about 80km west of Muscat and easily done as a day trip. [Barka Fort](/asia/oman/barka/barka_fort) is well-preserved and sits right on the waterfront, which makes it more photogenic than many of Oman's inland fortifications — and historically significant as the birthplace of the Busaidi dynasty that still rules Oman today. The sea is close enough that you can walk between the fort and the shore in a few minutes, and the [beach](/asia/oman/barka/barka_beach) here has a working-coast character that the more developed stretches near Muscat lack.

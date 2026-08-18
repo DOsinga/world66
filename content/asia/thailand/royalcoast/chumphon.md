@@ -2,7 +2,7 @@
 latitude: 10.493
 loc_type: city
 longitude: 99.18
-score: 7.42
+score: 4.533
 snippet: Southern Thai coastal city where Gulf ferries leave beside a quieter island-dotted
   province.
 title: Chumphon
@@ -11,6 +11,10 @@ image: chumphon.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mu_Ko_Chumphon_National_Park_03.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Chaiyathat
+heritage: 1.965
+vibrancy: 1.813
+nature: 5.749
+off_the_beaten_track: 4.186
 ---
 
 Chumphon is a coastal city in southern Thailand that most travellers pass through rather than linger in — it is the departure point for ferry services to Koh Tao, Koh Phangan, and Koh Samui, and the railway junction where the southern line splits toward the Gulf coast and the Andaman. But the province around it rewards those who stop.

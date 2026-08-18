@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Eglise_d%27Ouara_(42797961
 latitude: -22.4316
 loc_type: island
 longitude: 166.8239
-score: 7.15
+score: 6.169
 snippet: Low-key island south of Nouméa, known for Kanak village life, reef water,
   and Prony Bay access.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://www.openstreetmap.org/way/281186441
 title: Île Ouen
 type: location
+heritage: 2.223
+vibrancy: 1.389
+nature: 7.732
+off_the_beaten_track: 5.997
 ---
 
 Île Ouen lies just south of [Nouméa](/australiaandpacific/newcaledonia/noumea), across the Woodin Canal from Grande Terre. It is close enough to appear in day-trip conversations, but it feels very different from the capital: quieter, more Kanak, and shaped by small boats, reef water, dry hills, and views back toward the Grand Sud.

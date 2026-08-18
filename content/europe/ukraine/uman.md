@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 48.753
 longitude: 30.2167
-score: 7.0
+score: 4.46
 snippet: Central Ukrainian city known for Sofiyivka Park and the Breslov Hasidic pilgrimage.
 wikidata: Q208499
 sources:
@@ -16,6 +16,10 @@ image: uman.jpg
 image_source: https://commons.wikimedia.org/wiki/File:River_in_the_Sofiyivsky_Park.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Красноштан Василь Ігорович
+heritage: 4.887
+vibrancy: 3.175
+nature: 4.842
+off_the_beaten_track: 2.445
 ---
 
 Uman sits in central [Ukraine](/europe/ukraine), roughly between [Kyiv](/europe/ukraine/kyiv) and Odesa. It is a practical city rather than a showpiece, but two very different currents make it stand out: the landscaped world of Sofiyivka Park and the annual Breslov Hasidic pilgrimage to the grave of Rabbi Nachman.

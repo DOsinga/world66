@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kootenay-Lake_Nelson-BC.jp
 latitude: 49.4949
 loc_type: city
 longitude: -117.29
-score: 7.61
+score: 5.339
 snippet: Small Kootenay Lake city with silver-boom architecture and a mountain-town
   arts scene.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://skiwhitewater.com
 title: Nelson
 type: location
+heritage: 2.95
+vibrancy: 1.659
+nature: 6.938
+off_the_beaten_track: 4.381
 ---
 
 Nelson is a small city tucked into the Selkirk Mountains on the west arm of Kootenay Lake, and it has an outsized cultural life for a place of 10,000 people. The town was built on silver mining in the 1890s and retains more than 350 heritage buildings from that era — the restored Baker Street downtown, with its brick facades, awnings, and independent shops, is one of the most attractive main streets in British Columbia.

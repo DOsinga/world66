@@ -5,7 +5,7 @@ loc_type: city
 latitude: 16.0531
 longitude: 103.6511
 wikidata: Q1017738
-score: 6.4
+score: 2.749
 snippet: Isan provincial town built around a ceremonial lake, tall Buddha images,
   and rice-country traditions.
 sources:
@@ -15,6 +15,10 @@ image: roi_et.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Roi_Et_City_Hall.jpg
 image_license: Public domain
 image_attribution: Oatz
+heritage: 3.226
+vibrancy: 2.09
+nature: 2.006
+off_the_beaten_track: 3.597
 ---
 
 Roi Et is a quiet provincial capital in central Isan, the northeast of [Thailand](/asia/thailand). It is not a showy place, but it has a shape and mood of its own: a town built around [Bueng Phlan Chai](/asia/thailand/isaan/roi_et/bueng_phlan_chai), with temples, civic parks, silk shops, rice-country food, and the slow tempo of a region most foreign travelers rush past.

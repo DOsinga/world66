@@ -6,16 +6,21 @@ image_source: https://commons.wikimedia.org/wiki/File:Ogasawara_Islands,_Tokyo,_
 latitude: 27.0945
 loc_type: feature
 longitude: 142.1919
-score: 8.8
-snippet: Remote Pacific archipelago of volcanic islands, endemic wildlife, clear water, and one slow ferry from Tokyo.
+score: 6.405
+snippet: Remote Pacific archipelago of volcanic islands, endemic wildlife, clear water,
+  and one slow ferry from Tokyo.
 sources:
-  - https://en.wikivoyage.org/wiki/Ogasawara_Islands
-  - https://www.japan.travel/en/world-heritage/ogasawara-islands/
-  - https://whc.unesco.org/en/list/1362/
-  - https://en.wikipedia.org/wiki/Bonin_Islands
+- https://en.wikivoyage.org/wiki/Ogasawara_Islands
+- https://www.japan.travel/en/world-heritage/ogasawara-islands/
+- https://whc.unesco.org/en/list/1362/
+- https://en.wikipedia.org/wiki/Bonin_Islands
 title: Ogasawara Islands
 type: location
 wikidata: Q13383295
+heritage: 3.403
+vibrancy: 0.941
+nature: 7.846
+off_the_beaten_track: 6.82
 ---
 
 The Ogasawara Islands, also known as the Bonin Islands, are Tokyo's farthest-flung territory: a subtropical archipelago about 1,000 km south of the capital, reached by a ferry that takes roughly 24 hours each way. That awkward journey is part of the point. You don't come here casually; you come because the islands are one of Japan's strangest and most rewarding natural destinations.

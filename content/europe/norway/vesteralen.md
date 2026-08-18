@@ -2,7 +2,7 @@
 latitude: 68.7532
 loc_type: feature
 longitude: 14.6786
-score: 8.0
+score: 6.062
 snippet: Arctic archipelago north of Lofoten, with sperm whales, puffin cliffs, and
   far fewer visitors
 sources:
@@ -14,6 +14,10 @@ image: vesteralen.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bleik_village_and_Bleik_island,_seen_from_Mount_Royken.jpg
 image_license: Public domain
 image_attribution: Ovuigner (Wikimedia Commons)
+heritage: 5.451
+vibrancy: 3.031
+nature: 7.085
+off_the_beaten_track: 5.034
 ---
 
 Vesterålen is the archipelago immediately north of Lofoten, sharing the same jagged peaks and Arctic light but drawing a fraction of the visitors — most travellers pour their whole trip into Lofoten and never cross the strait. That's a mistake, or at least an opportunity: the scenery is nearly as dramatic, the roads are quieter, and the islands hold two wildlife draws Lofoten can't match.

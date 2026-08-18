@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Market_Square,_Newburyport
 latitude: 42.811659
 loc_type: city
 longitude: -70.871927
-score: 7.68
+score: 4.374
 snippet: Massachusetts seaport on the Merrimack, preserving Federal mansions from
   its shipbuilding and China-trade years.
 title: Newburyport
 type: location
+heritage: 4.354
+vibrancy: 4.334
+nature: 4.476
+off_the_beaten_track: 1.161
 ---
 
 Newburyport sits where the Merrimack River meets the Atlantic, on the north coast of Massachusetts a few miles short of the New Hampshire line and about an hour's drive from [Boston](/northamerica/unitedstates/massachusetts/boston). It was once one of the wealthiest seaports in America — a centre of shipbuilding, the China trade, and silver-smithing — and the **High Street** running parallel to the river is still lined with the great Federal-era mansions that the captains and merchants built in the 1790s and early 1800s. Few American towns preserve so complete a slice of that period.

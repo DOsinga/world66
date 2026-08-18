@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:France-Saint-Jean-de-Luz-2
 latitude: 43.3872
 loc_type: city
 longitude: -1.6637
-score: 8.75
+score: 4.801
 snippet: Basque fishing port and beach town pressed between the Pyrenees, the Atlantic,
   and the Spanish border
 tags:
 - basqueregion
 title: Saint-Jean-de-Luz
 type: location
+heritage: 5.001
+vibrancy: 4.391
+nature: 5.32
+off_the_beaten_track: 2.982
 ---
 
 Saint-Jean-de-Luz is the most Basque of the French Basque towns — a handsome fishing port and beach resort pressed between the Pyrenees and the Atlantic, just 15 kilometres north of the Spanish border. It feels genuinely different from the rest of France: the architecture is painted red and green, the pelota courts are busy, and the language you overhear on the street is as likely to be Basque as French.

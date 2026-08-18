@@ -17,7 +17,7 @@ quick_facts:
   Hills: Built on seven
   Population: 550,000
   Tram 28: Vintage hill rattler
-score: 9.44
+score: 7.894
 snippet: Hilly Portuguese capital on the Tagus, shaped by Pombaline avenues, Alfama
   lanes, and Atlantic light.
 tip: Lisbon is built on seven hills, so save your legs with the vintage trams (line
@@ -26,6 +26,10 @@ tip: Lisbon is built on seven hills, so save your legs with the vintage trams (l
   is the soul of fado music. Tap a Viva Viagem card for transport.
 title: Lisbon
 type: location
+heritage: 8.312
+vibrancy: 7.796
+nature: 4.483
+off_the_beaten_track: 1.416
 ---
 
 Lisbon is one of Europe's oldest and most beautiful capitals, a city of seven hills falling steeply to the Tagus estuary where the Atlantic begins. The earthquake of 1755 destroyed much of the city, and the rebuilt [Baixa](/europe/portugal/lisbon/baixa) — the grid of elegant Pombaline streets between the [Praça do Comércio](/europe/portugal/lisbon/praca_do_comercio) and [Rossio Square](/europe/portugal/lisbon/rossio) — is a monument to Enlightenment urban planning. But the city that survived the earthquake is the most interesting: the [Alfama](/europe/portugal/lisbon/alfama), Lisbon's oldest neighbourhood, winds up the hill below the [Castelo de São Jorge](/europe/portugal/lisbon/castelo_sao_jorge) in a labyrinth of medieval lanes where fado drifts out of restaurant windows.

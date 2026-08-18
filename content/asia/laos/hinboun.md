@@ -3,11 +3,15 @@ country: Laos
 latitude: 18.268158
 loc_type: feature
 longitude: 102.943205
-score: 4.8
+score: 6.108
 snippet: Limestone karst country threaded with rivers and caves, roughly midway between
   Vientiane and Savannakhet.
 title: Hinboun Stone Forest
 type: location
+heritage: 3.241
+vibrancy: 1.164
+nature: 7.962
+off_the_beaten_track: 4.934
 ---
 
 The Hinboun area — sometimes called the Stone Forest — is a belt of dramatic limestone karst that rises out of central Laos roughly halfway between Vientiane and [Savannakhet](/asia/laos/savannakhet), about five to six hours' drive from either city. Towers and pinnacles of weathered stone stand over a landscape laced with rivers, sinkholes, and caves, and the whole region forms part of the larger Phu Hin Boun highlands. It is the kind of scenery that rewards slowing down: jagged grey rock, green river valleys, and villages tucked into the folds between the cliffs.

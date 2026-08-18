@@ -2,14 +2,19 @@
 latitude: 47.9504
 loc_type: city
 longitude: -124.3855
-score: 6.4
-snippet: Rain-soaked Olympic Peninsula logging town with Twilight fame and a useful west-side base.
+score: 5.54
+snippet: Rain-soaked Olympic Peninsula logging town with Twilight fame and a useful
+  west-side base.
 sources:
-  - https://en.wikivoyage.org/wiki/Forks
-  - https://en.wikipedia.org/wiki/Forks,_Washington
-  - https://forkswa.com/
+- https://en.wikivoyage.org/wiki/Forks
+- https://en.wikipedia.org/wiki/Forks,_Washington
+- https://forkswa.com/
 title: Forks
 type: location
+heritage: 2.048
+vibrancy: 1.382
+nature: 7.287
+off_the_beaten_track: 4.26
 ---
 
 Forks is a rain-soaked logging town on the west side of the [Olympic Peninsula](/northamerica/unitedstates/washington/olympicpeninsula), close to the Hoh Rain Forest, La Push, and the Pacific beaches. It was already one of the wettest places in the contiguous United States before the Twilight books turned its grey skies into pop-culture scenery.

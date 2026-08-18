@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Los_Cristianos.jpg
 latitude: 28.05
 loc_type: city
 longitude: -16.717
-score: 7.99
+score: 5.124
 snippet: South Tenerife resort town with fishing-village roots, a working port, and
   sheltered beaches.
 sources:
@@ -17,6 +17,10 @@ tags:
 - tenerife
 title: Los Cristianos
 type: location
+heritage: 3.03
+vibrancy: 4.877
+nature: 5.585
+off_the_beaten_track: 1.101
 ---
 
 Los Cristianos began as a fishing village and still has a little more everyday texture than neighbouring Playa de las Américas, though the two now run together along the south Tenerife coast. It is a resort, certainly, but one with a working [port](/europe/spain/canaryislands/loscristianos/port_of_los_cristianos), ferry passengers, older streets, and a proper town centre behind the beach.

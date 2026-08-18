@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/29680252@N05/2787770344
 latitude: 61.8348
 loc_type: city
 longitude: -6.8176
-score: 7.44
+score: 6.435
 snippet: Pastoral Sandoy village where Faroese art, old houses, and walking trails
   meet a sheltered fjord.
 title: Sandur
 type: location
+heritage: 2.375
+vibrancy: 1.093
+nature: 8.108
+off_the_beaten_track: 6.116
 ---
 
 Sandur is the main village on Sandoy, the quietest and most pastoral of the Faroe Islands. Known locally as "Heima á Sandi", it sits at the head of a sheltered fjord surrounded by green hillsides and farmland — a slower pace than Tórshavn, and all the better for it.

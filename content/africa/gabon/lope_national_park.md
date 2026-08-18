@@ -2,7 +2,7 @@
 latitude: -0.35
 loc_type: feature
 longitude: 11.5
-score: 8.6
+score: 6.233
 snippet: UNESCO-listed park where rainforest meets savanna, home to huge troops of
   mandrills.
 title: Lope National Park
@@ -11,6 +11,10 @@ image: lope_national_park.jpg
 image_source: https://commons.wikimedia.org/wiki/File:International_Programs_(20180607-FS-Gabon-001).jpg
 image_license: Public domain
 image_attribution: Forest Service Photography
+heritage: 1.57
+vibrancy: 0.86
+nature: 7.801
+off_the_beaten_track: 6.097
 ---
 
 Lope National Park is the most accessible of Gabon's great inland parks and a UNESCO World Heritage Site, recognised for a landscape found almost nowhere else in central Africa: a mosaic of open savanna butting directly against dense, ancient rainforest. The grasslands here are relics of a drier ice-age climate, and the boundary between them and the forest is where much of the park's drama plays out.

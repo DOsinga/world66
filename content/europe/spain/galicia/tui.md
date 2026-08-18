@@ -6,11 +6,15 @@ done:
 latitude: 42.050137
 loc_type: city
 longitude: -8.646641
-score: 7.73
+score: 6.541
 snippet: Galician border town above the River Miño, with a fortified cathedral and
   Camino Portugués route.
 title: Tui
 type: location
+heritage: 5.868
+vibrancy: 2.95
+nature: 7.652
+off_the_beaten_track: 4.271
 ---
 
 Tui sits on a hill above the River Miño, right on the Portuguese border — you can walk across the [old international bridge](/europe/spain/galicia/tui/ponte_internacional) to Valença do Minho on the other side. The town's streets wind harmoniously down toward the river, and the setting is one of the prettiest in [Galicia](/europe/spain/galicia).

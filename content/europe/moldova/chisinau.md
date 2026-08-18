@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Arcul_de_Triumf_din_Chi%C8
 latitude: 47.024512
 loc_type: city
 longitude: 28.832292
-score: 6.58
+score: 4.998
 snippet: Moldovan capital with Soviet-era boulevards, chestnut trees, markets, and
   nearby wine-cellar day trips.
 title: Chisinau
 type: location
+heritage: 4.726
+vibrancy: 5.139
+nature: 4.517
+off_the_beaten_track: 2.35
 ---
 
 [Chisinau](/europe/moldova/chisinau) (also spelled Kishinev) is the capital and by far the largest city in Moldova, home to roughly a third of the country's population. Soviet-era boulevards lined with chestnut trees, a lively central market, and a growing café and restaurant scene make it a more pleasant base than its reputation suggests. Most travelers use it as the hub for day trips to the wine cellars, Orheiul Vechi, and Transnistria.

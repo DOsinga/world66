@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:NP-GK-05_Gorkha_Museum_(Ta
 latitude: 28.0
 loc_type: city
 longitude: 84.6333
-score: 7.83
+score: 6.084
 snippet: Hillside Nepali town where the Shah dynasty began and the Gurkha name took
   root.
 title: Gorkha
 type: location
+heritage: 4.616
+vibrancy: 3.429
+nature: 7.474
+off_the_beaten_track: 6.412
 ---
 
 Gorkha is the town that gave the world the Gurkhas. Perched on a dramatic hillside in central Nepal, roughly halfway between Kathmandu and Pokhara, it is where the Shah dynasty built their fortress-palace in the 18th century and from where Prithvi Narayan Shah set out to unify Nepal's warring kingdoms. The courage of the hill fighters who served the Shah kings so impressed the British during the Anglo-Nepalese War of 1814–1816 that they began recruiting them into the British Army — a tradition that continues to this day. The name Gurkha comes directly from this town.

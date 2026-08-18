@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bergstaden_R%C3%B8ros_R%C3
 latitude: 62.5695
 loc_type: city
 longitude: 11.6604
-score: 8.61
+score: 6.376
 snippet: Norwegian mining town of dark timber houses, copper smelters, and grass-roofed
   buildings near Sweden.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikivoyage.org/wiki/R%C3%B8ros
 title: Røros
 type: location
+heritage: 7.371
+vibrancy: 3.407
+nature: 6.145
+off_the_beaten_track: 2.848
 ---
 
 Røros is a small mining town in the mountains south of [Trondheim](/europe/norway/trondheim), near the Swedish border. Copper was discovered here in 1644, and for over three centuries the mines drove the town's economy. The result is a remarkably well-preserved wooden town — rows of dark-timbered houses, grass-roofed smelter buildings, and slag heaps stretching into the surrounding plateau. The entire town centre is a UNESCO World Heritage Site.

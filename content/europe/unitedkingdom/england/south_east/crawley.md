@@ -1,7 +1,7 @@
 ---
 latitude: 51.110344
 longitude: -0.180109
-score: 5.32
+score: 2.976
 title: Crawley
 type: location
 loc_type: city
@@ -15,6 +15,10 @@ image: crawley.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Crawley_Avenue_(A23),_Gossops_Green,_Crawley,_West_Sussex_-_geograph.org.uk_-_6904528.jpg
 image_license: CC BY-SA 2.0
 image_attribution: P L Chadwick
+heritage: 2.875
+vibrancy: 3.037
+nature: 1.85
+off_the_beaten_track: 0.721
 ---
 
 Crawley is a post-war New Town in West Sussex, designated in 1947 and built over the following decades to relieve housing pressure on London. Most visitors know it only as the town next to [Gatwick Airport](/europe/unitedkingdom/england/south_east/crawley/gatwick_airport), which sits just north of the borough and dominates the local economy. If you are flying in or out of Gatwick, Crawley offers cheaper hotels and more choice in restaurants than the airport itself.

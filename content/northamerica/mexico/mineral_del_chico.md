@@ -5,11 +5,16 @@ loc_type: city
 latitude: 20.2148
 longitude: -98.7313
 wikidata: Q3844631
-score: 7.1
-snippet: Mountain mining town in Hidalgo, wrapped by El Chico National Park and old silver tunnels.
+score: 6.207
+snippet: Mountain mining town in Hidalgo, wrapped by El Chico National Park and old
+  silver tunnels.
 sources:
 - https://en.wikivoyage.org/wiki/Mineral_del_Chico
 - https://www.wikidata.org/wiki/Q3844631
+heritage: 3.332
+vibrancy: 3.502
+nature: 7.929
+off_the_beaten_track: 3.715
 ---
 
 *North America > Mexico > Mineral del Chico*

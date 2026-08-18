@@ -4,7 +4,7 @@ done:
 latitude: 37.0514
 loc_type: city
 longitude: -122.0558
-score: 6.9
+score: 4.271
 snippet: San Lorenzo Valley redwood town with a covered bridge, steam railroad, and
   easy access to Henry Cowell.
 sources:
@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Henry_Cowell_Redwoods_State_Park
 title: Felton
 type: location
+heritage: 2.28
+vibrancy: 2.446
+nature: 5.438
+off_the_beaten_track: 1.732
 ---
 
 Felton is the southern gateway to the San Lorenzo Valley, where Highway 9 leaves Santa Cruz and slips into the redwoods. It is small, unpolished, and more useful than showy: a place for river walks, forest trails, and a steam train ride rather than a checklist of urban sights.

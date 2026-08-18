@@ -5,7 +5,7 @@ done:
 latitude: 43.106453
 loc_type: city
 longitude: 17.341693
-score: 8.31
+score: 4.623
 snippet: Southern Makarska Riviera town with a long pebble beach backed by pines and
   Biokovo slopes
 tags:
@@ -16,6 +16,10 @@ image: gradac.jpg
 image_source: https://commons.wikimedia.org/wiki/File:088_Gradac.jpg
 image_license: CC BY 2.5
 image_attribution: Silvio John, Elsterwerda
+heritage: 3.921
+vibrancy: 3.584
+nature: 5.434
+off_the_beaten_track: 3.289
 ---
 
 Gradac sits at the southern end of the Makarska Riviera, a small Croatian coastal town between [Makarska](/europe/croatia/makarska) and Ploce. It has the [longest pebble beach](/europe/croatia/gradac/gradac_beach) on this stretch of the Adriatic, backed by pine trees and facing the island of Hvar across the channel.

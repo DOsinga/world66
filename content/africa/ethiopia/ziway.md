@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 7.9265
 longitude: 38.7153
-score: 6.3
+score: 4.478
 snippet: Rift Valley lakeside town known for bird-rich boat trips and island Orthodox
   traditions.
 wikidata: Q2570767
@@ -17,6 +17,10 @@ image: ziway.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lake_Ziway_Wharf_(11398504093).jpg
 image_license: CC BY 2.0
 image_attribution: David Stanley from Nanaimo, Canada
+heritage: 3.658
+vibrancy: 3.065
+nature: 5.391
+off_the_beaten_track: 4.674
 ---
 
 Ziway, also called Batu, sits on the western shore of Lake Ziway, one of Ethiopia's freshwater Rift Valley lakes. The town is a working roadside stop on the Addis Ababa-Hawassa road, but the lake gives it a reason to pause: papyrus boats, fishing skiffs, waterbirds around the jetty, and occasional hippos further out on the water.

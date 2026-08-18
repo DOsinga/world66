@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ljubljana_Old_Town,_Sloven
 latitude: 46.050027
 loc_type: city
 longitude: 14.506929
-score: 9.13
+score: 5.771
 snippet: Slovenian capital on the Ljubljanica River, known for its castle, old town,
   and Jože Plečnik architecture.
 title: Ljubljana
 type: location
+heritage: 6.404
+vibrancy: 5.519
+nature: 3.83
+off_the_beaten_track: 1.519
 ---
 
 Ljubljana is Slovenia's capital and largest city, with a population of around 300,000. It has the feel of a small Central European city that happens to be a national capital — compact, walkable, and genuinely pleasant without trying too hard. The Ljubljanica River flows through the old town, lined with outdoor cafes. A castle sits on the hill above.

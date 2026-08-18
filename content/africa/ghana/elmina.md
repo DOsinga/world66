@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Benya_lagoon_and_it_surrou
 latitude: 5.085879
 loc_type: city
 longitude: -1.350578
-score: 8.03
+score: 4.459
 snippet: Small Ghanaian fishing town where Elmina Castle overlooks painted pirogues
   in the Benya lagoon.
 title: Elmina
 type: location
+heritage: 5.864
+vibrancy: 2.407
+nature: 2.603
+off_the_beaten_track: 2.891
 ---
 
 Elmina is a small, colourful fishing town 15 km west of [Cape Coast](/africa/ghana/capecoast), and home to [Elmina Castle](/africa/ghana/elmina/elmina_castle) — the oldest European building in sub-Saharan Africa, built by the Portuguese in 1482. Like Cape Coast Castle, it was used in the transatlantic slave trade, and tours of the dungeons and trading halls are deeply moving. The UNESCO World Heritage site attracts visitors from across the world, but Elmina is quieter and more relaxed than Cape Coast itself.

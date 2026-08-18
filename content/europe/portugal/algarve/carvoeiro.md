@@ -5,7 +5,7 @@ done:
 latitude: 37.094
 loc_type: city
 longitude: -8.471
-score: 8.76
+score: 5.364
 sources:
 - https://en.wikipedia.org/wiki/Carvoeiro_(Lagoa)
 title: Carvoeiro
@@ -16,6 +16,10 @@ image: carvoeiro.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Carvoeiro_Portugal_February_2015_03.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Bengt Nyman
+heritage: 3.32
+vibrancy: 4.196
+nature: 6.287
+off_the_beaten_track: 1.92
 ---
 
 Carvoeiro is a small, picturesque resort village built around a sandy cove framed by ochre cliffs. Once a fishing village, it retains a quieter, more laid-back atmosphere than [Albufeira](/europe/portugal/algarve/albufeira) to the east. The beach is compact but sheltered, and the surrounding coastline has some of the best diving in the Algarve.

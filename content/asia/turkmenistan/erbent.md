@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Erbent-2015.JPG
 latitude: 39.7333
 loc_type: city
 longitude: 58.0167
-score: 3.42
+score: 4.506
 snippet: Remote Karakum oasis village known for preserving the Turkmen Tazy sighthound
   tradition.
 sources:
 - https://en.wikipedia.org/wiki/Tazy_(dog)
 title: Erbent
 type: location
+heritage: 3.16
+vibrancy: 1.257
+nature: 4.646
+off_the_beaten_track: 7.049
 ---
 
 Erbent oasis lies roughly 156 km north of [Ashgabat](/asia/turkmenistan/ashgabat) in the heart of the Central Karakum desert, one of the few inhabited pockets in an otherwise empty expanse of sand. Getting there requires a hired car across a deteriorating desert road, which keeps visitor numbers low and the atmosphere genuinely remote. Most travelers who make the trip do so because they have heard about the dogs.

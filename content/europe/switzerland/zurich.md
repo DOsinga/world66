@@ -16,7 +16,7 @@ quick_facts:
   Drinking Fountains: 1,200+ flow with spring water
   Population: ~430,000
   Swimmable River: Locals swim in the clean Limmat
-score: 9.21
+score: 7.724
 snippet: Switzerland’s largest city, set where the River Limmat leaves Lake Zürich
   and shaped by finance and trade.
 tip: Zurich is Switzerland's wealthy financial capital, set on a pristine lake with
@@ -26,6 +26,10 @@ tip: Zurich is Switzerland's wealthy financial capital, set on a pristine lake w
   ride the efficient trams.
 title: Zurich
 type: location
+heritage: 7.346
+vibrancy: 7.926
+nature: 5.637
+off_the_beaten_track: 1.746
 ---
 
 Zurich is Switzerland's largest city, wrapped around the northern tip of [Lake Zürich](/europe/switzerland/zurich/lake_zurich) and split by the River Limmat that drains it. Founded as a Roman customs post in 15 BC, the city still feels built around that job — a carefully run mercantile town that has been in the business of handling other people's money since Alfred Escher turned it into the country's financial engine in the 19th century. It is consistently rated one of the world's most livable cities, which is a polite way of saying very expensive, very clean, and very efficient.

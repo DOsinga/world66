@@ -2,11 +2,15 @@
 latitude: 20.3974
 loc_type: city
 longitude: 72.8328
-score: 6.49
+score: 4.358
 snippet: Coastal former Portuguese town on India's west coast, with river forts and
   Gujarat weekenders.
 title: Daman
 type: location
+heritage: 4.89
+vibrancy: 4.058
+nature: 4.098
+off_the_beaten_track: 3.279
 ---
 
 Daman is a small coastal town on India's west coast, wedged between the states of Gujarat and Maharashtra about 175 kilometres north of Mumbai. It's part of the union territory of Dadra and Nagar Haveli and Daman and Diu — a separate, federally-administered territory rather than part of either surrounding state, despite the enclave geography. Like nearby Diu, it spent four centuries under Portuguese rule before being absorbed into India in 1961, and the influence shows in the old fort churches, whitewashed colonial buildings, and a general pace of life slower than the surrounding states.

@@ -5,11 +5,15 @@ done:
 latitude: 21.652673
 loc_type: city
 longitude: 87.723145
-score: 6.11
+score: 4.888
 snippet: Quiet Purba Midnapur beach where casuarina shade and red crabs mark a simpler
   Bengal coast.
 title: Tajpur
 type: location
+heritage: 2.277
+vibrancy: 1.206
+nature: 6.416
+off_the_beaten_track: 3.801
 ---
 
 Tajpur is a quiet beach in Purba Midnapur district, about four hours by road from [Kolkata](/asia/india/kolkata) and just a few kilometres from [Mandarmani](/asia/india/westbengal/mandarmani). It is less developed and less visited than nearby Digha, which is a strong recommendation in itself. The beach is wide, the sand is clean, and the shoreline is backed by stands of casuarina trees that provide welcome shade.

@@ -2,12 +2,17 @@
 latitude: 38.3575
 loc_type: city
 longitude: 31.4164
-score: 6.6
-snippet: Anatolian Lakes District town identified with Nasreddin Hoca and a compact Seljuk-Ottoman core
+score: 2.571
+snippet: Anatolian Lakes District town identified with Nasreddin Hoca and a compact
+  Seljuk-Ottoman core
 sources:
 - https://en.wikivoyage.org/wiki/Ak%C5%9Fehir
 title: Akşehir
 type: location
+heritage: 2.743
+vibrancy: 2.489
+nature: 2.782
+off_the_beaten_track: 2.777
 ---
 
 Akşehir sits in Turkey's Lakes District, west of [Konya](/asia/turkey/konya), with the dry Anatolian plateau behind it and old streets gathered below the hills. It is not a grand stop, but it has one thing most towns would envy: a folk hero of its own.

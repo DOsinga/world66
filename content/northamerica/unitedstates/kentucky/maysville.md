@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: 38.6439
 longitude: -83.7758
-score: 6.6
-snippet: Ohio River town with frontier history, preserved downtown blocks, and bourbon-country edges.
+score: 3.623
+snippet: Ohio River town with frontier history, preserved downtown blocks, and bourbon-country
+  edges.
 sources:
-  - https://en.wikivoyage.org/wiki/Maysville
-  - https://en.wikipedia.org/wiki/Maysville,_Kentucky
+- https://en.wikivoyage.org/wiki/Maysville
+- https://en.wikipedia.org/wiki/Maysville,_Kentucky
+heritage: 4.373
+vibrancy: 1.704
+nature: 3.071
+off_the_beaten_track: 1.829
 ---
 
 Maysville is a small Kentucky river town with more texture than its size suggests. It sits on the Ohio River northeast of Lexington, facing Aberdeen, Ohio, and its brick downtown still reads as a 19th-century port rather than a generic highway stop.

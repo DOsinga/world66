@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:El_Hierro_Sabinar.JPG
 latitude: 27.743508
 loc_type: city
 longitude: -18.03818
-score: 7.94
+score: 6.146
 snippet: Remote Canary Island of volcanic cliffs and juniper woods, once used for
   Europe's prime meridian
 title: El Hierro
 type: location
+heritage: 2.311
+vibrancy: 1.496
+nature: 7.628
+off_the_beaten_track: 6.218
 ---
 
 El Hierro is the smallest and most remote of the Canary Islands, and for centuries it marked the western edge of the known world — the prime meridian ran through its [Faro de Orchilla](/europe/spain/canaryislands/elhierro/faro_de_orchilla) lighthouse until 1884. That sense of being at the end of things persists. There are no large resorts, no beach strips, and very few tourists. The island runs almost entirely on renewable energy and has been designated a UNESCO Biosphere Reserve.

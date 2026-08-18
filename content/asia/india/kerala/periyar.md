@@ -4,11 +4,15 @@ done:
 latitude: 9.866727
 loc_type: feature
 longitude: 76.96566
-score: 8.53
+score: 5.671
 snippet: Cardamom Hills wildlife sanctuary around Periyar Lake, with boat safaris,
   spice plantations, elephants, and forest treks.
 title: Periyar
 type: location
+heritage: 5.026
+vibrancy: 3.656
+nature: 6.659
+off_the_beaten_track: 4.041
 ---
 
 The Periyar Wildlife Sanctuary at Thekkady is one of India's finest, covering 777 sq km of tropical forest in the Cardamom Hills. The drive there is part of the appeal, winding through tranquil countryside, spice plantations and thick jungle.

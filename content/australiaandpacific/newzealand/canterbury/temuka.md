@@ -5,11 +5,15 @@ done:
 latitude: -44.243959
 loc_type: city
 longitude: 171.279735
-score: 6.37
+score: 4.593
 snippet: Small South Canterbury town between two rivers, associated with aviation
   pioneer Richard Pearse.
 title: Temuka
 type: location
+heritage: 2.512
+vibrancy: 1.816
+nature: 6.054
+off_the_beaten_track: 2.817
 ---
 
 Temuka is a small town in South Canterbury, set on the rich farmland between the Rangitata and Ōpihi rivers. It is best known to the outside world as the birthplace of [Richard Pearse](/australiaandpacific/newzealand/canterbury/temuka/richard_pearse_memorial), the shy farmer-inventor who may have achieved powered flight in 1903 or 1904 — around the same time as the Wright Brothers, though without their financial backing or engineering resources. Debate over the exact date continues, but local pride is fierce and the story is worth knowing before you arrive.

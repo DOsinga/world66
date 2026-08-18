@@ -15,7 +15,7 @@ quick_facts:
   Giralda: Climbed by ramp, not stairs
   Plaza de España: A Star Wars set
   Population: 680,000
-score: 9.53
+score: 8.499
 snippet: Andalusian capital on the Guadalquivir, known for its cathedral, Alcázar,
   flamenco, and orange-lined streets.
 tip: Seville is brutally hot from June to September — locals vanish for a midday siesta
@@ -24,6 +24,10 @@ tip: Seville is brutally hot from June to September — locals vanish for a midd
   for a man on horseback. Book the Alcázar and Cathedral online.
 title: Seville
 type: location
+heritage: 8.399
+vibrancy: 8.601
+nature: 5.777
+off_the_beaten_track: 1.59
 ---
 
 Seville is the capital of Andalucía and the most purely, exuberantly Andalucían city in Spain. Where Barcelona is cosmopolitan and Madrid is national, Seville is intensely local — obsessed with its own traditions, its own rhythms, and its own calendar. Flamenco was born here. The April Fair, the most famous feria in Spain, happens here. Semana Santa transforms the streets every spring into the most theatrical religious event in Europe. If you want to understand what makes southern Spain different from the rest of the country, this is where to come.

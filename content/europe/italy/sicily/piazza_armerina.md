@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Piazza_Armerina_-_Italy_20
 latitude: 37.3859
 loc_type: city
 longitude: 14.3672
-score: 8.52
+score: 5.881
 snippet: Central Sicilian town known for Villa Romana del Casale and its extraordinary
   late Roman mosaics.
 title: Piazza Armerina
 type: location
+heritage: 7.624
+vibrancy: 3.262
+nature: 3.795
+off_the_beaten_track: 2.242
 ---
 
 Piazza Armerina is a small town in central Sicily, mainly famous for the [Villa Romana del Casale](/europe/italy/sicily/piazza_armerina/villa_romana_del_casale) just outside town. This 3rd-century Roman villa, buried by a landslide in the 12th century and rediscovered in the 19th, contains the largest and best-preserved collection of late Roman mosaics in the world, including the famous panel of women athletes in bikini-like garments.

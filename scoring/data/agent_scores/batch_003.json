@@ -1,0 +1,302 @@
+{
+  "africa/benin/abomey": {
+    "heritage": 8,
+    "nature": 2,
+    "off_the_beaten_track": 5,
+    "vibrancy": 3
+  },
+  "africa/somaliland/erigavo": {
+    "heritage": 3,
+    "nature": 6,
+    "off_the_beaten_track": 9,
+    "vibrancy": 1
+  },
+  "asia/china/heilongjiang/qiqihar": {
+    "heritage": 3,
+    "nature": 5,
+    "off_the_beaten_track": 4,
+    "vibrancy": 3
+  },
+  "asia/china/jiangsu_province/suqian": {
+    "heritage": 2,
+    "nature": 2,
+    "off_the_beaten_track": 2,
+    "vibrancy": 3
+  },
+  "asia/china/liaoning/xingcheng": {
+    "heritage": 5,
+    "nature": 5,
+    "off_the_beaten_track": 2,
+    "vibrancy": 3
+  },
+  "asia/china/shanxiprovince/yuncheng": {
+    "heritage": 4,
+    "nature": 3,
+    "off_the_beaten_track": 4,
+    "vibrancy": 3
+  },
+  "asia/indonesia/java/depok": {
+    "heritage": 1,
+    "nature": 1,
+    "off_the_beaten_track": 1,
+    "vibrancy": 2
+  },
+  "asia/japan/honshu/onomichi": {
+    "heritage": 6,
+    "nature": 6,
+    "off_the_beaten_track": 3,
+    "vibrancy": 5
+  },
+  "asia/lebanon/tyre": {
+    "heritage": 8,
+    "nature": 5,
+    "off_the_beaten_track": 4,
+    "vibrancy": 4
+  },
+  "asia/philippines/mindanaoisland/cagayandeoro": {
+    "heritage": 3,
+    "nature": 6,
+    "off_the_beaten_track": 4,
+    "vibrancy": 6
+  },
+  "asia/thailand/mahasarakham": {
+    "heritage": 2,
+    "nature": 2,
+    "off_the_beaten_track": 2,
+    "vibrancy": 2
+  },
+  "asia/turkey/mudanya": {
+    "heritage": 4,
+    "nature": 4,
+    "off_the_beaten_track": 2,
+    "vibrancy": 3
+  },
+  "australiaandpacific/australia/queensland/stanthorpe": {
+    "heritage": 3,
+    "nature": 5,
+    "off_the_beaten_track": 2,
+    "vibrancy": 3
+  },
+  "europe/albania/pogradec": {
+    "heritage": 6,
+    "nature": 7,
+    "off_the_beaten_track": 3,
+    "vibrancy": 3
+  },
+  "europe/croatia/vinkovci": {
+    "heritage": 6,
+    "nature": 3,
+    "off_the_beaten_track": 2,
+    "vibrancy": 3
+  },
+  "europe/denmark/aalborg": {
+    "heritage": 5,
+    "nature": 4,
+    "off_the_beaten_track": 1,
+    "vibrancy": 6
+  },
+  "europe/finland/oulu": {
+    "heritage": 4,
+    "nature": 6,
+    "off_the_beaten_track": 2,
+    "vibrancy": 5
+  },
+  "europe/france/normandybrittany/mesnilval": {
+    "heritage": 4,
+    "nature": 3,
+    "off_the_beaten_track": 2,
+    "vibrancy": 1
+  },
+  "europe/germany/rhinelandpalatinate/koblenz": {
+    "heritage": 7,
+    "nature": 6,
+    "off_the_beaten_track": 2,
+    "vibrancy": 5
+  },
+  "europe/hungary/tokaj": {
+    "heritage": 7,
+    "nature": 4,
+    "off_the_beaten_track": 2,
+    "vibrancy": 5
+  },
+  "europe/moldova/tiraspol": {
+    "heritage": 5,
+    "nature": 2,
+    "off_the_beaten_track": 7,
+    "vibrancy": 3
+  },
+  "europe/poland/gdynia": {
+    "heritage": 4,
+    "nature": 4,
+    "off_the_beaten_track": 1,
+    "vibrancy": 5
+  },
+  "europe/portugal/gouveia": {
+    "heritage": 4,
+    "nature": 6,
+    "off_the_beaten_track": 3,
+    "vibrancy": 2
+  },
+  "europe/portugal/leiria": {
+    "heritage": 5,
+    "nature": 4,
+    "off_the_beaten_track": 2,
+    "vibrancy": 4
+  },
+  "europe/romania/snagovlake": {
+    "heritage": 4,
+    "nature": 5,
+    "off_the_beaten_track": 3,
+    "vibrancy": 1
+  },
+  "europe/romania/valcea": {
+    "heritage": 5,
+    "nature": 5,
+    "off_the_beaten_track": 3,
+    "vibrancy": 3
+  },
+  "europe/russia/lalsk": {
+    "heritage": 7,
+    "nature": 4,
+    "off_the_beaten_track": 7,
+    "vibrancy": 1
+  },
+  "europe/slovakia/ruomberok": {
+    "heritage": 3,
+    "nature": 6,
+    "off_the_beaten_track": 2,
+    "vibrancy": 3
+  },
+  "europe/spain/balearicislands/mallorca/playa_de_palma": {
+    "heritage": 2,
+    "nature": 5,
+    "off_the_beaten_track": 1,
+    "vibrancy": 7
+  },
+  "europe/sweden/uddevalla": {
+    "heritage": 3,
+    "nature": 5,
+    "off_the_beaten_track": 2,
+    "vibrancy": 3
+  },
+  "northamerica/canada/alberta/banff": {
+    "heritage": 5,
+    "nature": 10,
+    "off_the_beaten_track": 3,
+    "vibrancy": 7
+  },
+  "northamerica/canada/newfoundland/francois": {
+    "heritage": 3,
+    "nature": 7,
+    "off_the_beaten_track": 8,
+    "vibrancy": 1
+  },
+  "northamerica/canada/newfoundland/terranovanationa": {
+    "heritage": 2,
+    "nature": 9,
+    "off_the_beaten_track": 6,
+    "vibrancy": 1
+  },
+  "northamerica/costarica/ciudadquesada": {
+    "heritage": 2,
+    "nature": 6,
+    "off_the_beaten_track": 3,
+    "vibrancy": 3
+  },
+  "northamerica/mexico/bernal": {
+    "heritage": 4,
+    "nature": 6,
+    "off_the_beaten_track": 3,
+    "vibrancy": 3
+  },
+  "northamerica/unitedstates/california/coronado": {
+    "heritage": 3,
+    "nature": 4,
+    "off_the_beaten_track": 1,
+    "vibrancy": 5
+  },
+  "northamerica/unitedstates/california/goldcountry/folsom": {
+    "heritage": 5,
+    "nature": 3,
+    "off_the_beaten_track": 2,
+    "vibrancy": 4
+  },
+  "northamerica/unitedstates/hawaii/lanai": {
+    "heritage": 4,
+    "nature": 8,
+    "off_the_beaten_track": 4,
+    "vibrancy": 2
+  },
+  "northamerica/unitedstates/newhampshire/bretton_woods": {
+    "heritage": 6,
+    "nature": 8,
+    "off_the_beaten_track": 3,
+    "vibrancy": 2
+  },
+  "northamerica/unitedstates/newmexico/shiprock": {
+    "heritage": 5,
+    "nature": 6,
+    "off_the_beaten_track": 6,
+    "vibrancy": 1
+  },
+  "northamerica/unitedstates/vermont/bellowsfalls": {
+    "heritage": 4,
+    "nature": 5,
+    "off_the_beaten_track": 2,
+    "vibrancy": 3
+  },
+  "northamerica/unitedstates/washington/burlington": {
+    "heritage": 2,
+    "nature": 4,
+    "off_the_beaten_track": 2,
+    "vibrancy": 3
+  },
+  "northamerica/unitedstates/washington/clarkston": {
+    "heritage": 2,
+    "nature": 4,
+    "off_the_beaten_track": 2,
+    "vibrancy": 2
+  },
+  "northamerica/unitedstates/washington/olympicpeninsula/forks": {
+    "heritage": 2,
+    "nature": 7,
+    "off_the_beaten_track": 4,
+    "vibrancy": 2
+  },
+  "southamerica/bolivia/tocana": {
+    "heritage": 1,
+    "nature": 4,
+    "off_the_beaten_track": 6,
+    "vibrancy": 1
+  },
+  "southamerica/brazil/altafloresta": {
+    "heritage": 2,
+    "nature": 7,
+    "off_the_beaten_track": 6,
+    "vibrancy": 2
+  },
+  "southamerica/brazil/campinagrande": {
+    "heritage": 4,
+    "nature": 3,
+    "off_the_beaten_track": 3,
+    "vibrancy": 6
+  },
+  "southamerica/brazil/chapada_dos_veadeiros": {
+    "heritage": 2,
+    "nature": 9,
+    "off_the_beaten_track": 6,
+    "vibrancy": 2
+  },
+  "southamerica/brazil/ilha_do_mel": {
+    "heritage": 3,
+    "nature": 8,
+    "off_the_beaten_track": 5,
+    "vibrancy": 2
+  },
+  "southamerica/uruguay/chuy": {
+    "heritage": 1,
+    "nature": 2,
+    "off_the_beaten_track": 3,
+    "vibrancy": 3
+  }
+}

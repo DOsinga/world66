@@ -2,7 +2,7 @@
 latitude: 18.2888
 loc_type: city
 longitude: 99.4972
-score: 7.9
+score: 5.022
 snippet: Northern Thai city on the Wang River, known for teak-era streets and Burmese-influenced
   temples.
 title: Lampang
@@ -11,6 +11,10 @@ image: lampang.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lampanghorses0005a.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Heinrich Damm
+heritage: 5.881
+vibrancy: 4.178
+nature: 3.958
+off_the_beaten_track: 3.265
 ---
 
 Lampang is a provincial city in northern Thailand, slower and less visited than nearby Chiang Mai, which makes it worth the detour. The old town retains some of its teak-era character, with wooden shophouses and horse-drawn carriages that persist as a local curiosity rather than a tourist gimmick.

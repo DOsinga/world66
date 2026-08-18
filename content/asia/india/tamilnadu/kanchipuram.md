@@ -5,13 +5,17 @@ done:
 latitude: 12.964716
 loc_type: city
 longitude: 79.983969
-score: 7.73
+score: 6.205
 snippet: Sacred Tamil Nadu temple city and former Pallava capital, famous for Dravidian
   shrines and silk.
 sources:
 - https://en.wikipedia.org/wiki/Kanchipuram
 title: Kanchipuram
 type: location
+heritage: 7.693
+vibrancy: 4.294
+nature: 2.418
+off_the_beaten_track: 2.586
 ---
 
 Kanchipuram is one of the seven sacred cities of Hinduism, 75 km southwest of Chennai, and was once the capital of the Pallava dynasty that ruled much of south India between the 4th and 9th centuries. The Pallavas were the architects of Dravidian temple style, and Kanchipuram's temples are among the oldest and finest examples of that tradition.

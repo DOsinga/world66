@@ -2,13 +2,18 @@
 latitude: -7.3333
 loc_type: city
 longitude: 108.2167
-score: 7.05
-snippet: Sundanese city in East Parahyangan, framed by Galunggung volcano and traditional craft villages.
+score: 5.264
+snippet: Sundanese city in East Parahyangan, framed by Galunggung volcano and traditional
+  craft villages.
 sources:
-  - https://en.wikivoyage.org/wiki/Tasikmalaya
-  - https://en.wikipedia.org/wiki/Tasikmalaya
+- https://en.wikivoyage.org/wiki/Tasikmalaya
+- https://en.wikipedia.org/wiki/Tasikmalaya
 title: Tasikmalaya
 type: location
+heritage: 3.535
+vibrancy: 3.211
+nature: 6.608
+off_the_beaten_track: 4.535
 ---
 
 Tasikmalaya, usually shortened to Tasik, is a Sundanese city in southeastern West Java. It is big enough to feel busy, but its best travel reasons sit around the edge: [Mount Galunggung](/asia/indonesia/java/tasikmalaya/mount_galunggung), the traditional village of [Kampung Naga](/asia/indonesia/java/tasikmalaya/kampung_naga), and the lakes and craft districts that give the regency more character than a first glance at the city suggests.

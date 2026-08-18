@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 14.8
 longitude: 100.626944
-score: 7.2
+score: 5.434
 snippet: Old royal city north of Bangkok, known for Khmer ruins and unruly macaques.
 wikidata: Q1363891
 sources:
@@ -15,6 +15,10 @@ image: lopburi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Chantharaphisan_Hall_in_the_Ratchaniwet_Palace,_Lopburi,_Thailand,_2018.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Chris Baker
+heritage: 6.82
+vibrancy: 3.593
+nature: 2.68
+off_the_beaten_track: 1.403
 ---
 
 Lopburi is one of Thailand's oldest cities, a manageable rail trip north of Bangkok and a good antidote to polished heritage towns. Its old centre mixes Khmer towers, Ayutthaya-era royal remains, working streets, and macaques that have made themselves far too comfortable around the ruins.

@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Prachuap_Khiri_Khan_City_P
 latitude: 11.8117
 loc_type: city
 longitude: 99.7967
-score: 7.96
+score: 4.98
 snippet: Quiet Gulf of Thailand province squeezed between limestone mountains and
   the country's narrowest coast
 title: Prachuap Khiri Khan
 type: location
+heritage: 2.691
+vibrancy: 3.418
+nature: 6.068
+off_the_beaten_track: 4.58
 ---
 
 Prachuap Khiri Khan is a quiet coastal province on the Gulf of Thailand, squeezed between limestone mountains and the sea at the country's narrowest point. The provincial capital of the same name is a low-key Thai town with a stunning bay, a hilltop temple with panoramic views, and none of the tourist crowds you will find further north.

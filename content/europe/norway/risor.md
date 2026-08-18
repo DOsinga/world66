@@ -5,7 +5,7 @@ longitude: 9.2343
 quick_facts:
   Population: ~7,000
   Wooden Boat Festival: Held every August since 1985
-score: 7.3
+score: 5.202
 snippet: Sørlandet's best-preserved white-wooden harbour town, wrapped tight around
   a sheltered inlet
 sources:
@@ -17,6 +17,10 @@ image: risor.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ris%C3%B8r_Krantoppen_august_2017_(2).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Peulle
+heritage: 4.1
+vibrancy: 4.15
+nature: 6.058
+off_the_beaten_track: 2.015
 ---
 
 Risør is often called the best-preserved of Sørlandet's white towns, and it earns the title. The old town wraps tightly around a narrow, sheltered harbour, its 18th- and 19th-century wooden houses — built for the sea captains and shipowners who made Risør rich on timber and shipping — packed close along impossibly narrow lanes with no room for cars. Wander without a plan; the town is small enough that you can't really get lost, and every turn opens onto another whitewashed row leaning down to the water.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 52.3812
 longitude: 1.1079
-score: 5.9
+score: 3.222
 snippet: South Norfolk market town wrapped around a deep mere on the Suffolk border.
 sources:
 - https://en.wikivoyage.org/wiki/Diss
@@ -16,6 +16,10 @@ image: diss.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Diss_Auction_Rooms,_Diss_-_geograph.org.uk_-_4483469.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Geographer
+heritage: 3.886
+vibrancy: 1.535
+nature: 2.74
+off_the_beaten_track: 2.333
 ---
 
 Diss is a South Norfolk market town close to the Suffolk border, with its old centre gathered around [Diss Mere](/europe/unitedkingdom/england/east_of_england/diss/diss_mere). The lake is the thing that makes the town itself memorable: a deep, still pool beside the shops, with ducks, benches, and a sense that the town grew around water before it grew around roads.

@@ -5,7 +5,7 @@ image_attribution: Marin0110
 latitude: 43.538796
 loc_type: feature
 longitude: 16.175236
-score: 9.2
+score: 5.47
 snippet: Croatian Adriatic coastal region of limestone shores, ferry-linked islands,
   Roman Split, and walled Dubrovnik
 title: Dalmatia
@@ -13,6 +13,10 @@ type: location
 image: dalmatia.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bol_Croatia.jpg
 image_license: CC BY-SA 4.0
+heritage: 6.099
+vibrancy: 5.172
+nature: 5.153
+off_the_beaten_track: 1.937
 ---
 
 Dalmatia is the name for the central and southern stretch of Croatia's Adriatic coast, running roughly from Zadar in the north to Dubrovnik in the south. It is one of the most visited parts of the Mediterranean: a long limestone coastline broken by peninsulas and dotted with hundreds of islands, fronted by clear warm water and backed by the Dinaric Alps.

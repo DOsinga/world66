@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fleischer%27s_Hotel,_Evang
 latitude: 60.6286
 loc_type: city
 longitude: 6.4135
-score: 8.52
+score: 5.633
 snippet: Mountain town between Bergen and the Sognefjord, known for adventure sports
   and lakeside alpine scenery.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Vossevangen
 title: Voss
 type: location
+heritage: 3.796
+vibrancy: 3.135
+nature: 7.123
+off_the_beaten_track: 3.718
 ---
 
 Voss is a small mountain town between Bergen and the Sognefjord that has reinvented itself as Norway's adventure sports capital. Paragliders launch off the ridges, white-water rafters tackle the rivers, skiers and snowboarders pour into Myrkdalen and Voss Resort in winter, and in summer the town fills with kayakers, climbers, and skydivers. Extreme Sports Week (Ekstremsportveko) every June turns the whole place into a festival of people throwing themselves off things.

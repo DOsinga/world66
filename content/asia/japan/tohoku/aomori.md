@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 40.8167
 longitude: 140.75
-score: 7.3
-snippet: Northern Honshu port city of Nebuta floats, Jomon archaeology, apples, seafood, and Mutsu Bay.
+score: 6.057
+snippet: Northern Honshu port city of Nebuta floats, Jomon archaeology, apples, seafood,
+  and Mutsu Bay.
 wikidata: Q146790
 sources:
-  - https://en.wikivoyage.org/wiki/Aomori
-  - https://www.japan.travel/en/destinations/tohoku/aomori/aomori-city-and-around/
-  - https://aomori-tourism.com/en/spot/detail_3698.html
+- https://en.wikivoyage.org/wiki/Aomori
+- https://www.japan.travel/en/destinations/tohoku/aomori/aomori-city-and-around/
+- https://aomori-tourism.com/en/spot/detail_3698.html
+heritage: 4.728
+vibrancy: 5.207
+nature: 6.873
+off_the_beaten_track: 3.458
 ---
 
 Aomori sits at the northern tip of Honshu, facing Mutsu Bay and the route to Hokkaido. It is not as pretty as nearby Hirosaki and it can feel workaday at first, but it has one of northern Japan's strongest city identities: huge Nebuta festival floats, serious seafood, apple country, and a harbour that still feels like a threshold.

@@ -2,7 +2,7 @@
 latitude: 5.8333
 loc_type: city
 longitude: 118.1167
-score: 7.2
+score: 5.521
 snippet: East Sabah port city tied to wartime memory, wildlife trips, and Sandakan
   Bay.
 sources:
@@ -13,6 +13,10 @@ image: sandakan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Sandakan_-_Jaycee_Clock_Tower_-_Jul_2024.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Dominic Nelson
+heritage: 3.789
+vibrancy: 3.008
+nature: 6.951
+off_the_beaten_track: 4.971
 ---
 
 Sandakan is the main city on Sabah's east coast, facing Sandakan Bay and the Sulu Sea. It is less polished than [Kota Kinabalu](/asia/malaysia/kotakinabalu), but it has more edge and a stronger sense of history: old trading links, Chinese temples, wartime memory and the feeling of a port that still looks outward.

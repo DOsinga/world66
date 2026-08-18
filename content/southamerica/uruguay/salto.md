@@ -4,12 +4,16 @@ done:
 latitude: -31.3889
 loc_type: city
 longitude: -57.9609
-score: 6.71
+score: 3.872
 title: Salto
 snippet: Uruguay River city in citrus country, with thermal baths and the Salto Grande
   Dam nearby.
 todo_location_cleanup: done
 type: location
+heritage: 3.639
+vibrancy: 3.89
+nature: 3.827
+off_the_beaten_track: 1.994
 ---
 
 Salto is Uruguay's second largest city, sitting on the Uruguay River near the border with [Argentina](/southamerica/argentina) and about 500 km northwest of Montevideo. It is the centre of a major citrus-growing region, and the orange groves that surround the city give the countryside here a distinctly pleasant character.

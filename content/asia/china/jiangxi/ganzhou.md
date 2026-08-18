@@ -14,7 +14,11 @@ title: Ganzhou
 snippet: Southern Jiangxi river city where Hakka culture and old commercial routes
   meet at the Zhang-Gong confluence.
 type: location
-score: 6.34
+score: 4.341
+heritage: 2.861
+vibrancy: 3.282
+nature: 5.143
+off_the_beaten_track: 2.761
 ---
 
 Ganzhou is a large city in the far south of Jiangxi province, historically the most important settlement between the Yangtze River basin and the Lingnan region of southern China. Its position at the confluence of the Zhang and Gong rivers made it a significant commercial hub for centuries, and that geographic logic still holds today — the city feels prosperous and self-contained in a way that smaller Jiangxi cities do not. Hakka culture permeates the place, visible in the cuisine, the local dialect, and in the circular earthen structures of the surrounding countryside.

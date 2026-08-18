@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Croazia_-_Rovinj_-_panoram
 latitude: 45.080741
 loc_type: city
 longitude: 13.641728
-score: 9.3
+score: 5.699
 snippet: Venetian Istrian harbour town of steep cobbled lanes, crowned by St. Euphemia
   above the Adriatic
 tags:
 - istria
 title: Rovinj
 type: location
+heritage: 4.865
+vibrancy: 5.708
+nature: 5.676
+off_the_beaten_track: 1.767
 ---
 
 Rovinj (Italian: Rovigno) sits on a rocky peninsula jutting into the Adriatic on the western coast of Istria, and it may be the most picturesque small town on the Croatian coast. The old town climbs steeply from the harbour to the baroque church of St. Euphemia, whose 60-metre bell tower is visible for miles out to sea. For centuries Rovinj was an island; it was connected to the mainland only in 1763, when the channel separating it was filled in, and the narrow, cobbled lanes still have that enclosed island quality — tight and labyrinthine, with laundry strung between rust-coloured buildings.

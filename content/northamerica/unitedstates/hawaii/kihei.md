@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kihei_coast.jpg
 latitude: 20.747626
 loc_type: city
 longitude: -156.45499
-score: 8.99
+score: 6.004
 snippet: Southwest Maui beach town in Haleakalā's rain shadow, lined with sandy parks
   and low-rise condos.
 title: Kihei
 type: location
+heritage: 2.227
+vibrancy: 4.889
+nature: 6.944
+off_the_beaten_track: 1.195
 ---
 
 Kihei stretches along the sunny southwest coast of Maui, a string of beach parks and low-rise condominiums that has become the island's most popular base for budget-minded visitors. The weather is the main selling point — Kihei sits in the rain shadow of Haleakalā and gets far less rain than the resort areas further north, so the sunshine is close to guaranteed.

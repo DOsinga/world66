@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Centro_urbano_de_Villafran
 latitude: 42.6023
 loc_type: city
 longitude: -6.815
-score: 7.35
+score: 5.8
 snippet: Camino town in El Bierzo, with medieval pilgrim streets before the route
   climbs into Galicia.
 title: Vilafranca del Bierzo
 type: location
+heritage: 6.625
+vibrancy: 3.597
+nature: 5.771
+off_the_beaten_track: 3.363
 ---
 
 Vilafranca del Bierzo is the last major stop on the Camino de Santiago before pilgrims enter [Galicia](/europe/spain/galicia). The town grew from the pilgrim traffic — its name comes from the Franks who settled here — and it retains a medieval atmosphere, particularly along the [Calle del Agua](/europe/spain/castile_and_leon/vilafranca_del_bierzo/calle_del_agua), a narrow street of stone houses dropping down to the bridge over the River Burbia.

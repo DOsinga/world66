@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/21186555@N07/51316747178
 latitude: 51.3884
 loc_type: city
 longitude: 0.5049
-score: 7.64
+score: 5.379
 snippet: Kentish Medway city dominated by a Norman castle, ancient cathedral, and
   Dickens associations
 title: Rochester
 type: location
+heritage: 6.674
+vibrancy: 3.712
+nature: 3.055
+off_the_beaten_track: 2.551
 ---
 
 Rochester is the most rewarding of the Medway towns, a compact historic city on the south bank of the River Medway in Kent. Two monuments dominate the skyline and justify the journey from London: Rochester Castle, one of the best-preserved Norman keeps in England, and Rochester Cathedral, which dates from 604 AD and is the second oldest cathedral in Britain.

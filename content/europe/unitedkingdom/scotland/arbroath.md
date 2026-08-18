@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 56.5614
 longitude: -2.5857
-score: 7.0
+score: 4.504
 snippet: Angus fishing town known for its abbey, Bell Rock lighthouse story, cliffs,
   and smokies.
 wikidata: Q630668
@@ -17,6 +17,10 @@ image: arbroath.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Arbroath_Fisheries_-_geograph.org.uk_-_2165390.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Donald MacDonald
+heritage: 3.64
+vibrancy: 3.072
+nature: 5.438
+off_the_beaten_track: 2.945
 ---
 
 Arbroath is a working Angus harbour town with a bigger story than its tidy seafront first suggests. The ruined abbey is tied to the Declaration of Arbroath, the Signal Tower tells the story of the Bell Rock Lighthouse, and the red sandstone cliffs north of town give the coast a wilder edge.

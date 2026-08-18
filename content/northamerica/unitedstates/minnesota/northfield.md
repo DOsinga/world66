@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 44.458333
 longitude: -93.161111
-score: 6.8
+score: 3.818
 snippet: Southern Minnesota college town known for the failed Jesse James bank raid.
 sources:
 - https://en.wikivoyage.org/wiki/Northfield_(Minnesota)
@@ -13,6 +13,10 @@ image: northfield.jpg
 image_source: https://commons.wikimedia.org/wiki/File:DowntownNorthfield1.JPG
 image_license: CC BY 3.0
 image_attribution: 123dieinafire of English Wikipedia
+heritage: 4.501
+vibrancy: 3.115
+nature: 3.198
+off_the_beaten_track: 1.805
 ---
 
 Northfield is a small college town on the Cannon River, about 40 miles south of [Minneapolis](/northamerica/unitedstates/minnesota/minneapolis) and [St. Paul](/northamerica/unitedstates/minnesota/stpaul). It is best known for two things: Carleton College and St. Olaf College, and the 1876 bank raid where townspeople fought off the James-Younger Gang.

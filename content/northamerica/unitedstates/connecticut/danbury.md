@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Wooster_Square_Danbury_(20
 latitude: 41.3948
 loc_type: city
 longitude: -73.454
-score: 5.93
+score: 3.865
 snippet: Western Connecticut city once called the Hat City for its American hat-making
   industry.
 title: Danbury
 type: location
+heritage: 4.204
+vibrancy: 3.764
+nature: 4.126
+off_the_beaten_track: 0.811
 ---
 
 Danbury is a small city of about 85,000 in western Connecticut's Fairfield County, once known as the "Hat City" for its dominance of the American hat-making industry. At its peak in the early twentieth century, Danbury produced a quarter of all hats in the United States, and the [Danbury Museum and Historical Society](/northamerica/unitedstates/connecticut/danbury/danbury_museum) on Main Street preserves this unusual heritage with exhibits on the craft, the factory workers, and the mercury poisoning that gave rise to the phrase "mad as a hatter."

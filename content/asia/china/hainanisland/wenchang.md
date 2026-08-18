@@ -7,13 +7,17 @@ image_source: https://commons.wikimedia.org/wiki/File:CZ-7_launch_from_Wenchang.
 latitude: 19.6167
 loc_type: city
 longitude: 110.75
-score: 6.57
+score: 4.614
 snippet: Northeast Hainan city known for diaspora roots, a Confucius temple, qilou
   arcades, and coastal villages.
 sources:
 - https://en.wikivoyage.org/wiki/Wenchang
 title: Wenchang
 type: location
+heritage: 3.019
+vibrancy: 3.615
+nature: 5.405
+off_the_beaten_track: 1.536
 ---
 
 Wenchang sits on Hainan's northeast coast and has a strong claim to being the island's cultural capital — the ancestral home of a significant part of the overseas Hainanese diaspora in Southeast Asia, and the seat of what passed for island learning for centuries. The [Wenchang Confucius Temple](/asia/china/hainanisland/wenchang/wenchang_confucius_temple), built in the 11th century, is among the best-preserved historical buildings on Hainan, and the old [qilou arcaded shophouses along Wennan Street](/asia/china/hainanisland/wenchang/wennan_street_qilou) give a flavour of 1920s provincial prosperity that the south coast resort towns have long since bulldozed away.

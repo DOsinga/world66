@@ -6,10 +6,14 @@ done:
 latitude: 23.258486
 loc_type: city
 longitude: 77.401989
-score: 6.91
+score: 5.645
 snippet: Madhya Pradesh capital known for lakes, mosques, and the old city's Taj-ul-Masajid.
 title: Bhopal
 type: location
+heritage: 4.69
+vibrancy: 6.05
+nature: 2.937
+off_the_beaten_track: 2.649
 ---
 
 Bhopal is the capital of Madhya Pradesh, a city of lakes, mosques, and surprising greenery. It is inevitably associated with the 1984 Union Carbide gas disaster, one of the worst industrial catastrophes in history, but the modern city has much more to offer than that painful chapter.

@@ -4,10 +4,15 @@ type: location
 loc_type: city
 latitude: -32.1806
 longitude: 152.5112
-score: 6.4
-snippet: Mid-North Coast holiday town wrapped around Wallis Lake, surf beaches, and the Forster-Tuncurry inlet.
+score: 4.323
+snippet: Mid-North Coast holiday town wrapped around Wallis Lake, surf beaches, and
+  the Forster-Tuncurry inlet.
 sources:
-  - https://en.wikivoyage.org/wiki/Forster
+- https://en.wikivoyage.org/wiki/Forster
+heritage: 2.425
+vibrancy: 2.021
+nature: 5.673
+off_the_beaten_track: 2.337
 ---
 
 Forster is a classic New South Wales seaside holiday town, joined to Tuncurry by a long bridge over the lake mouth. Families come for calm swimming, surf beaches, paddle boats, fishing, and the simple pleasure of having water on almost every side.

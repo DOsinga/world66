@@ -4,7 +4,7 @@ done:
 latitude: 52.1153
 loc_type: city
 longitude: 26.1031
-score: 6.82
+score: 4.13
 snippet: Polesia river city with Baroque churches, Jewish history, and a restored
   old centre on the Pina.
 sources:
@@ -12,6 +12,10 @@ sources:
 - https://www.belarus.by/en/travel/top-guide-belarus/what-to-see-in-pinsk-jesuit-college-the-oldest-pipe-organ-and-other-attractions_i_0000122921.html
 title: Pinsk
 type: location
+heritage: 3.584
+vibrancy: 2.187
+nature: 4.883
+off_the_beaten_track: 4.197
 ---
 
 Pinsk sits in the flat, watery country of Polesia, where the Pina River threads toward the Pripyat marshes. It is one of Belarus's more rewarding smaller cities: old enough to have a real street plan, quiet enough to walk without hurry, and still marked by the Catholic, Orthodox, Polish, Jewish, and Belarusian layers that shaped this borderland.

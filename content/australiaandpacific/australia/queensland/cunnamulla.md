@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: -28.06
 longitude: 145.68
-score: 5.9
-snippet: South-west Queensland outback town on the Warrego River, wrapped in stockman folklore.
+score: 4.059
+snippet: South-west Queensland outback town on the Warrego River, wrapped in stockman
+  folklore.
 wikidata: Q986295
 sources:
-  - https://en.wikivoyage.org/wiki/Cunnamulla
-  - https://cunnamullatourism.com.au/
-  - https://www.outbackqueensland.com.au/news/10-things-to-do-in-cunnamulla/
+- https://en.wikivoyage.org/wiki/Cunnamulla
+- https://cunnamullatourism.com.au/
+- https://www.outbackqueensland.com.au/news/10-things-to-do-in-cunnamulla/
+heritage: 2.606
+vibrancy: 1.721
+nature: 4.152
+off_the_beaten_track: 6.369
 ---
 
 Cunnamulla sits on the Warrego River in far south-west Queensland, a long way from the coast and just as far from any need to impress. It is a working outback town first, but it has more character than many highway stops: a Slim Dusty song, a bronze stockman, a famous robber's tree, artesian-water stories, and river country that changes mood with the rain.

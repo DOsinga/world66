@@ -2,12 +2,17 @@
 title: Pabellón de Hidalgo
 type: location
 loc_type: city
-latitude: 22.1760
-longitude: -102.3400
-score: 6.7
-snippet: Small Aguascalientes Pueblo Magico centred on a San Blas hacienda and independence history.
+latitude: 22.176
+longitude: -102.34
+score: 3.662
+snippet: Small Aguascalientes Pueblo Magico centred on a San Blas hacienda and independence
+  history.
 sources:
 - https://en.wikivoyage.org/wiki/Pabell%C3%B3n_de_Hidalgo
+heritage: 4.581
+vibrancy: 2.453
+nature: 2.618
+off_the_beaten_track: 1.874
 ---
 
 Pabellón de Hidalgo is a small Pueblo Magico north of Aguascalientes city, and it earns its stop through one compact story: the old Hacienda de San Blas and the moment when Miguel Hidalgo was removed from command of the insurgent army after the defeat at Calderon Bridge. The town is not grand, but it has a clear historical centre and enough nearby landscape to make a good slow excursion.

@@ -5,13 +5,17 @@ done:
 latitude: 33.6633
 loc_type: city
 longitude: -117.9033
-score: 6.36
+score: 4.885
 snippet: Orange County city known for South Coast Plaza, performing arts venues, and
   creative shopping districts.
 sources:
 - https://en.wikipedia.org/wiki/Costa_Mesa,_California
 title: Costa Mesa
 type: location
+heritage: 3.106
+vibrancy: 5.541
+nature: 3.189
+off_the_beaten_track: 0.635
 ---
 
 Costa Mesa sits in the heart of Orange County, sandwiched between Newport Beach and Irvine, and it punches above its weight in shopping and performing arts. [South Coast Plaza](/northamerica/unitedstates/california/orangecounty/costamesa/south_coast_plaza) is the anchor — one of the largest shopping centres in the United States, with every luxury brand you can name. But Costa Mesa also has [The LAB](/northamerica/unitedstates/california/orangecounty/costamesa/the_lab), a converted warehouse turned alternative shopping complex on Bristol Street that is the anti-mall antidote.

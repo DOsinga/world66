@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Bibione_(v
 latitude: 45.642726
 loc_type: city
 longitude: 13.05467
-score: 7.65
+score: 5.029
 snippet: Northern Adriatic beach resort built around eight kilometres of broad sand
   near Venice.
 title: Bibione
 type: location
+heritage: 2.01
+vibrancy: 4.19
+nature: 5.771
+off_the_beaten_track: 1.02
 ---
 
 Bibione is a seaside resort on the northern Adriatic coast, about an hour's drive east of [Venice](/europe/italy/veneto/venice). The town exists almost entirely for beach tourism — an [eight-kilometre stretch of wide, fine sand](/europe/italy/veneto/bibione/beach) backed by a solid wall of hotels, apartments, and holiday parks. It is extremely popular with German and Austrian families, and in summer the beach is packed.

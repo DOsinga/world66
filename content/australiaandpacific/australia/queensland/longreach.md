@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Longreach,_Queensland._(51
 latitude: -23.4378
 loc_type: city
 longitude: 144.2587
-score: 6.99
+score: 4.851
 snippet: Outback Queensland bush town where Qantas began, with museums devoted to
   aviation and stockmen
 title: Longreach
 type: location
+heritage: 3.101
+vibrancy: 2.21
+nature: 5.773
+off_the_beaten_track: 5.719
 ---
 
 Longreach sits in the red dust of outback Queensland, about 1,200 km west of the coast. It is a quintessential Australian bush town — wide streets, low buildings, enormous skies — and the birthplace of Qantas, which started here in 1920 as a two-plane mail service before becoming Australia's national airline.

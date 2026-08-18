@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:201208%E9%83%8E%E6%9C%A8%E
 latitude: 34.0913
 loc_type: city
 longitude: 102.6363
-score: 7.57
+score: 6.593
 snippet: Tibetan border village in a high Amdo valley, with twin monasteries divided
   by a provincial river.
 sources:
 - https://en.wikivoyage.org/wiki/Langmusi
 title: Langmusi
 type: location
+heritage: 6.059
+vibrancy: 2.21
+nature: 7.651
+off_the_beaten_track: 5.229
 ---
 
 Langmusi is a small Tibetan village straddling the border between Sichuan and Gansu provinces, set in a mountain valley at around 3,400 metres where the landscape has a quality that several travellers have independently described as reminiscent of alpine Austria — broad grasslands, limestone gorges, and snowpeaks — transplanted to central Asia and populated by Amdo Tibetans, Han Chinese, and Hui Muslims in an unlikely coexistence. It is genuinely remote and genuinely beautiful.

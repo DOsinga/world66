@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Durgapur_Steel_Plant.jpg
 latitude: 23.534948
 loc_type: city
 longitude: 87.303368
-score: 5.41
+score: 4.29
 snippet: Planned West Bengal steel city on the Damodar River valley, built for independent
   India's heavy industry
 title: Durgapur
 type: location
+heritage: 3.194
+vibrancy: 4.738
+nature: 2.69
+off_the_beaten_track: 1.013
 ---
 
 *Asia > India > West Bengal > Durgapur*

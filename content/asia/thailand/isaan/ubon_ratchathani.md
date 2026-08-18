@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 15.2447
 longitude: 104.8478
-score: 7.06
+score: 4.176
 snippet: Southern Isaan city of Buddhist temples, Candle Festival carving, and Mun
   River life.
 wikidata: Q132179
@@ -15,6 +15,10 @@ image: ubon_ratchathani.jpg
 image_source: https://commons.wikimedia.org/wiki/File:CandleFestivalUbon.jpg
 image_license: CC BY 3.0
 image_attribution: Plenz
+heritage: 4.484
+vibrancy: 4.091
+nature: 2.982
+off_the_beaten_track: 3.484
 ---
 
 Ubon Ratchathani is one of the main cities of southern Isaan, close to the Lao and Cambodian borders and set around the Mun River. It is practical, spread out, and not immediately beautiful, but it has a strong Buddhist culture and enough distinctive temples to justify a day before heading to the Mekong or Laos.

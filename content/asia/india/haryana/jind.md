@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Jind_Junction.jpeg
 latitude: 29.315207
 loc_type: city
 longitude: 76.314082
-score: 5.49
+score: 2.087
 snippet: Old Haryana town with Mahabharata traditions, Shiva temples, and the legacy
   of the princely state of Jind.
 title: Jind
 type: location
+heritage: 2.71
+vibrancy: 1.161
+nature: 1.337
+off_the_beaten_track: 1.852
 ---
 
 Jind is an old town in central [Haryana](/asia/india/haryana), 123 km from Delhi on the Ferozepur railway line. Tradition traces its founding to the Mahabharata period, and the town is noted for its many Shiva temples — pilgrims come from across the region, particularly for the Amavasya bathing at Rani Talab, the main sacred pond.

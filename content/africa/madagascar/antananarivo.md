@@ -15,7 +15,7 @@ quick_facts:
   Founded: 1625, as a royal capital
   Population: ~1.3 million
   Short Name: '''Tana'''
-score: 6.94
+score: 5.942
 snippet: Hillside capital of Madagascar, ringed by rice paddies and crowned by the
   old Rova palace.
 tip: Antananarivo — 'Tana' for short — is a steep city of stairways, balconied houses
@@ -24,6 +24,10 @@ tip: Antananarivo — 'Tana' for short — is a steep city of stairways, balconi
   a wander; watch your pockets in the crowded market lanes and use registered taxis.
 title: Antananarivo
 type: location
+heritage: 3.89
+vibrancy: 5.684
+nature: 6.464
+off_the_beaten_track: 5.021
 ---
 
 Antananarivo, thankfully shortened to Tana by tourists and locals alike, is the bustling capital of Madagascar.

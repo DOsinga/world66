@@ -2,15 +2,20 @@
 title: Tendo
 type: location
 loc_type: city
-latitude: 38.3500
+latitude: 38.35
 longitude: 140.3666
-score: 7.0
-snippet: Yamagata shogi town where Japanese chess pieces, onsen streets, and Hiroshige prints overlap.
+score: 4.073
+snippet: Yamagata shogi town where Japanese chess pieces, onsen streets, and Hiroshige
+  prints overlap.
 wikidata: Q385779
 sources:
-  - https://en.wikivoyage.org/wiki/Tendo
-  - https://en.wikipedia.org/wiki/Tend%C5%8D,_Yamagata
-  - https://english.yamagata-museum.jp/index_active_action%3Dmultidatabase_view_main_detail%26block_id%3D235%26multidatabase_id%3D1%26content_id%3D23.html
+- https://en.wikivoyage.org/wiki/Tendo
+- https://en.wikipedia.org/wiki/Tend%C5%8D,_Yamagata
+- https://english.yamagata-museum.jp/index_active_action%3Dmultidatabase_view_main_detail%26block_id%3D235%26multidatabase_id%3D1%26content_id%3D23.html
+heritage: 3.063
+vibrancy: 2.742
+nature: 4.989
+off_the_beaten_track: 2.985
 ---
 
 Tendo is a small city just north of [Yamagata](/asia/japan/tohoku/yamagata), famous for one oddly specific craft: shogi pieces. Most of Japan's wooden pieces for Japanese chess are made here, and the town leans into the identity with museums, shopfront displays, giant pieces, and a spring festival where people become the board.

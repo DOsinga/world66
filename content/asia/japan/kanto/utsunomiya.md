@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 36.55
 longitude: 139.8833
-score: 7.1
+score: 4.424
 snippet: Tochigi capital known for gyoza, a central shrine, and the strange underground
   Oya stone quarries.
 sources:
@@ -16,6 +16,10 @@ image: utsunomiya.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Central_Utsunomiya,_southeast_side.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Miyuki Meinaka
+heritage: 4.678
+vibrancy: 4.361
+nature: 3.466
+off_the_beaten_track: 1.979
 ---
 
 Utsunomiya is the capital of Tochigi Prefecture, north of Tokyo and just south of [Nikko](/asia/japan/kanto/nikko). It is a practical city at first glance: a shinkansen stop, a government centre, and a place many travellers pass through on the way to the mountains. Stay for a day, though, and it has a stronger personality than that suggests.

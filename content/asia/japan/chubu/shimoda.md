@@ -5,12 +5,16 @@ loc_type: city
 latitude: 34.6795
 longitude: 138.9453
 wikidata: Q653402
-score: 7.4
+score: 5.206
 snippet: Izu Peninsula port town where Japan's forced opening meets white sand beaches.
 sources:
-  - https://en.wikivoyage.org/wiki/Shimoda
-  - https://www.japan.travel/en/spot/2036/
-  - https://en.wikipedia.org/wiki/Shimoda,_Shizuoka
+- https://en.wikivoyage.org/wiki/Shimoda
+- https://www.japan.travel/en/spot/2036/
+- https://en.wikipedia.org/wiki/Shimoda,_Shizuoka
+heritage: 3.477
+vibrancy: 4.813
+nature: 5.744
+off_the_beaten_track: 1.921
 ---
 
 Shimoda sits at the southern end of the Izu Peninsula, far enough from Tokyo to feel like a real change of pace. It is a beach town, a small port, and one of the places where Japan's long isolation from the West cracked open in the 1850s.

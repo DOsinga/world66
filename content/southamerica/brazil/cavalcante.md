@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cavalcante_Banner.jpg
 latitude: -13.792841
 loc_type: city
 longitude: -47.456852
-score: 6.73
+score: 4.45
 snippet: Cerrado gateway town with waterfalls, Kalunga quilombo culture, and access
   to Chapada dos Veadeiros.
 title: Cavalcante
 type: location
+heritage: 3.187
+vibrancy: 2.747
+nature: 5.546
+off_the_beaten_track: 3.678
 ---
 
 Cavalcante is the largest municipality in the Chapada dos Veadeiros region of northern Goiás state, a vast territory of cerrado savanna, dramatic rock formations, and cascading waterfalls. A big share of the [Chapada dos Veadeiros National Park](/southamerica/brazil/cavalcante/chapada_dos_veadeiros_national_park) — a UNESCO World Heritage Site — falls within its borders.

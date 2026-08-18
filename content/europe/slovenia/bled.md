@@ -14,7 +14,7 @@ quick_facts:
   Kremšnita: The famous cream cake
   Lake Depth: 30 m
   Wishing Bell: Ring it on the island
-score: 9.46
+score: 5.575
 snippet: Alpine lake resort with a cliffside castle, island church, and Julian Alps
   backdrop.
 tip: Lake Bled's island church is reached by a traditional hand-rowed pletna boat
@@ -23,6 +23,10 @@ tip: Lake Bled's island church is reached by a traditional hand-rowed pletna boa
   the local cream cake. Come early or late to dodge the day-trip crowds.
 title: Bled
 type: location
+heritage: 5.935
+vibrancy: 4.687
+nature: 6.126
+off_the_beaten_track: 2.424
 ---
 
 A fairytale castle on a cliff, a crystal-clear lake with a tiny island church, snow-capped Julian Alps as a backdrop — Bled looks almost too picturesque to be real. It is Slovenia's most visited resort, about an hour by bus from [Ljubljana](/europe/slovenia/ljubljana), and it earns the attention.

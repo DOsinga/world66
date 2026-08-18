@@ -6,11 +6,15 @@ done:
 latitude: 5.962765
 loc_type: city
 longitude: 8.723969
-score: 5.23
+score: 4.076
 snippet: Cross River town near rainforest national park, drill monkeys, gorillas,
   and ancient Akwanshi basalt monoliths.
 title: Ikom
 type: location
+heritage: 4.572
+vibrancy: 1.806
+nature: 3.271
+off_the_beaten_track: 6.013
 ---
 
 Ikom is a small town in Cross River State, southeastern Nigeria, best known as the gateway to the [Cross River National Park](/africa/nigeria/ikom/cross_river_national_park) — one of the most biodiverse forest areas in West Africa. Regular bush taxis connect Ikom to [Calabar](/africa/nigeria/calabar), about 90 km to the south.

@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 36.51095
 longitude: 126.64136
-score: 6.9
-snippet: West-coast Korean county town with rocky hills, seafood ports, and Joseon fortress traces.
+score: 2.593
+snippet: West-coast Korean county town with rocky hills, seafood ports, and Joseon
+  fortress traces.
 country: South Korea
 sources:
-  - https://en.wikivoyage.org/wiki/Hongseong
-  - https://en.wikipedia.org/wiki/Hongseong_County
+- https://en.wikivoyage.org/wiki/Hongseong
+- https://en.wikipedia.org/wiki/Hongseong_County
+heritage: 1.846
+vibrancy: 2.652
+nature: 2.439
+off_the_beaten_track: 1.248
 ---
 
 Hongseong is a county town in South Chungcheong, inland enough to feel agricultural but close enough to the Yellow Sea to smell of seafood at the right tables. It is not polished like Korea's better-known heritage towns, but it has a useful mix of hill walks, old walls, and working west-coast ports.

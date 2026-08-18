@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Qinghai_Lake_2016.jpg
 latitude: 36.89
 loc_type: feature
 longitude: 100.19
-score: 8.23
+score: 5.9
 snippet: High-altitude salt lake encircled by Tibetan grassland, fierce light, and
   China's classic cycling circuit.
 sources:
 - https://en.wikivoyage.org/wiki/Qinghai_Lake
 title: Qinghai Lake
 type: location
+heritage: 2.452
+vibrancy: 1.559
+nature: 7.511
+off_the_beaten_track: 5.353
 ---
 
 Qinghai Lake — Qinghai Hu in Mandarin, Tso Ngonpo in Tibetan, Koko Nor in Mongolian — is the largest lake in China, a saltwater body of 5,694 square kilometres sitting at 3,205 metres in a broad basin encircled by mountains. At this altitude the light is fierce and clear, the water an improbable shade of turquoise blue, and the surrounding hills treeless and rolling. It is one of the genuinely beautiful landscapes of Asia.

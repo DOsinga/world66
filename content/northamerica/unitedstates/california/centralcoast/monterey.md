@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Santa_Catalina_School,_Mon
 latitude: 36.6002
 loc_type: city
 longitude: -121.8947
-score: 8.93
+score: 5.527
 snippet: Central California coastal town where Spanish-colonial adobes and Cannery
   Row frame Monterey Bay's marine life.
 title: Monterey
 type: location
+heritage: 3.798
+vibrancy: 4.842
+nature: 6.227
+off_the_beaten_track: 1.982
 ---
 
 Monterey is a coastal town of about 30,000 people on the central California coast, roughly two hours south of San Francisco and just north of the dramatic scenery of the Big Sur. It has a more layered history than most California towns: it was the capital of Spanish Alta California from 1770 until 1846, then briefly the capital of the American state, and its old adobe buildings (the Custom House, Colton Hall, the Cooper-Molera Adobe) make up the best surviving collection of Spanish-colonial civic architecture in the state. In the early 20th century, Monterey became the largest sardine fishing port in the world. The canneries along what is now Cannery Row packed fish by the tens of millions of cases until the sardines vanished in the 1950s, leaving behind the empty buildings that John Steinbeck made famous in his 1945 novel.

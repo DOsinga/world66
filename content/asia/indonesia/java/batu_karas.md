@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -7.7466
 longitude: 108.4972
-score: 7.1
+score: 5.245
 snippet: Small south Java fishing village with a mellow beginner-friendly surf break.
 sources:
 - https://en.wikivoyage.org/wiki/Batu_Karas
@@ -13,6 +13,10 @@ image: batu_karas.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Batukaras3.jpg
 image_license: CC BY-SA 4.0
 image_attribution: ErwinFCG
+heritage: 2.56
+vibrancy: 3.591
+nature: 6.395
+off_the_beaten_track: 4.281
 ---
 
 Batu Karas is a small fishing village on the south coast of [Java](/asia/indonesia/java), about an hour by road from Pangandaran. It is best known for its gentle right-hand surf break, which has made it one of Indonesia's easier places to learn without the intensity of Bali or the heavy reef waves elsewhere in the archipelago.

@@ -4,7 +4,7 @@ done:
 latitude: 6.8664
 loc_type: city
 longitude: 101.2508
-score: 6.7
+score: 4.976
 snippet: Malay-Muslim provincial capital in Thailand's far south, rich in layered
   Patani history.
 sources:
@@ -16,6 +16,10 @@ image: pattani.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Pattani_Central_Mosque_1967.jpg
 image_license: Public domain
 image_attribution: Unknown
+heritage: 5.754
+vibrancy: 1.828
+nature: 3.515
+off_the_beaten_track: 6.788
 ---
 
 Pattani is one of Thailand's most culturally distinct provincial capitals: Malay-Muslim in daily rhythm, Thai by state, Chinese in parts of its old commercial core, and tied to the older Patani kingdom that once mattered across the peninsula. It is not an easy destination. The far south has a long-running insurgency, and travellers should read current government advice and local news before going.

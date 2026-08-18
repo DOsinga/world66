@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 39.4167
 longitude: 29.9833
-score: 7.64
+score: 4.231
 snippet: Western Anatolian tile city with Ottoman streets, hilltop ramparts, and Roman
   Aizanoi nearby.
 sources:
@@ -14,6 +14,10 @@ image: kutahya.jpg
 image_source: https://commons.wikimedia.org/wiki/File:K%C3%BCtahya_hisar-%C3%BC%C3%A7ler_tepesinden.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Omerserez
+heritage: 4.875
+vibrancy: 3.682
+nature: 3.434
+off_the_beaten_track: 3.519
 ---
 
 Kütahya is an old western Anatolian city that has been slightly left behind by Turkey's faster routes. That is part of the appeal. The centre still has tiled mosques, Ottoman timber houses, a castle ridge above town, and shops full of the blue-and-white ceramics that made the city famous.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 52.1526
 longitude: 1.6011
-score: 7.3
+score: 5.21
 snippet: Suffolk shingle-beach town of fresh fish, Britten music, Tudor timber, and
   North Sea edges.
 wikidata: Q2077402
@@ -17,6 +17,10 @@ image: aldeburgh.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aldeburgh_beach_-_Scallop.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Sumit Surai
+heritage: 5.152
+vibrancy: 3.317
+nature: 5.892
+off_the_beaten_track: 3.935
 ---
 
 Aldeburgh is a small town on the Suffolk coast, set behind a long shingle beach where fishing boats still sell the day's catch from huts above the tide line. It has the old-fashioned look of an English seaside town, but its identity is sharper than that: music, sea wind, good fish, and a constant awareness that the North Sea has taken bites out of the coast before.

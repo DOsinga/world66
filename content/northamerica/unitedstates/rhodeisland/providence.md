@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Providence_Athenaeum_inter
 latitude: 41.823989
 loc_type: city
 longitude: -71.412834
-score: 7.53
+score: 5.273
 snippet: Rhode Island capital with Brown, RISD, Federal Hill, and a compact riverfront
   centre.
 title: Providence
 type: location
+heritage: 3.815
+vibrancy: 5.559
+nature: 4.535
+off_the_beaten_track: 0.949
 ---
 
 Providence punches well above its weight for a city of 180,000. It's home to Brown University and the Rhode Island School of Design (RISD), which together give the city a creative, restless energy — you'll find galleries, experimental restaurants, and design studios crammed into the same [Federal Hill](/northamerica/unitedstates/rhodeisland/providence/federal_hill) blocks as century-old Italian bakeries and red-sauce joints.

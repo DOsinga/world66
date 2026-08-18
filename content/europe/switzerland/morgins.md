@@ -11,9 +11,13 @@ loc_type: city
 snippet: Valais Alps border village in the Portes du Soleil, linking Swiss slopes
   with French mountain trails.
 longitude: 6.858102
-score: 7.89
+score: 5.842
 title: Morgins
 type: location
+heritage: 3.801
+vibrancy: 2.371
+nature: 7.444
+off_the_beaten_track: 4.344
 ---
 
 Morgins is a small village in the Valais Alps, right on the French border in the Portes du Soleil ski area. In winter it gives access to one of the largest linked ski domains in the world — over 600 kilometres of runs stretching across twelve resorts between Switzerland and France. The skiing suits intermediates best, with long, cruisy runs through the trees and spectacular views across the Dents du Midi.

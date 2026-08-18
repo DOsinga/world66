@@ -7,9 +7,13 @@ loc_type: city
 snippet: North Carolina mountain town near Pisgah National Forest, with a small Main
   Street and local arts scene.
 longitude: -82.009167
-score: 5.96
+score: 4.576
 title: Marion
 type: location
+heritage: 3.117
+vibrancy: 1.672
+nature: 5.772
+off_the_beaten_track: 3.05
 ---
 
 Marion is the county seat of [McDowell County](/northamerica/unitedstates/northcarolina/mcdowell_county) in the North Carolina mountains, sitting between Lake Lure and [Asheville](/northamerica/unitedstates/northcarolina/asheville) on the edge of the Pisgah National Forest.

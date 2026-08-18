@@ -5,7 +5,7 @@ done:
 latitude: 45.516329
 loc_type: city
 longitude: 25.371567
-score: 8.35
+score: 4.596
 snippet: Transylvanian village defined by Bran Castle, a rocky medieval fortress tied
   to the Dracula legend.
 title: Bran
@@ -14,6 +14,10 @@ image: bran.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Castelul_Bran2.jpg
 image_license: CC BY-SA 3.0 ro
 image_attribution: Dobre Cezar
+heritage: 5.606
+vibrancy: 1.634
+nature: 3.764
+off_the_beaten_track: 4.04
 ---
 
 Bran Castle is one of the top attractions in Transylvania and easily reached from [Brasov](/europe/romania/brasov) by bus in about half an hour. Although there are no historic sources linking Vlad Tepes — the real-life inspiration for Bram Stoker's Dracula — to this particular castle, popular belief has firmly attached the legend to it. Whatever you make of the Dracula connection, this is a genuinely striking castle perched on a rocky outcrop, and well worth the visit.

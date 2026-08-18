@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Coconut_trees_Kota_Kinabal
 latitude: 5.978007
 loc_type: city
 longitude: 116.072899
-score: 8.77
+score: 5.971
 title: Kota Kinabalu
 type: location
 snippet: Sabah's coastal capital, a gateway to Mount Kinabalu, coral islands, and
   Borneo wildlife trips.
+heritage: 4.316
+vibrancy: 5.433
+nature: 6.629
+off_the_beaten_track: 5.05
 ---
 
 Kota Kinabalu sits on the edge of the South China Sea with [Mount Kinabalu](/asia/malaysia/kotakinabalu/mount_kinabalu) — Southeast Asia's highest peak — looming on the horizon. The city is Sabah's capital and the gateway to Borneo's most spectacular nature: coral islands a short boat ride from the waterfront, orangutans and pygmy elephants at [Lok Kawi Wildlife Park](/asia/malaysia/kotakinabalu/lok_kawi_wildlife_park), and the legendary mountain itself drawing climbers from around the world.

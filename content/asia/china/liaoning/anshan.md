@@ -14,7 +14,11 @@ title: Anshan
 type: location
 snippet: Liaoning steel city beside eastern mountains, with Qianshan National Park
   as its main natural draw.
-score: 5.6
+score: 2.317
+heritage: 2.314
+vibrancy: 2.285
+nature: 2.399
+off_the_beaten_track: 1.139
 ---
 
 Anshan is Liaoning's steel city — the Angang Iron and Steel Company has operated here since the 1910s and at its peak made Anshan one of the most productive industrial centres in Asia. The city itself is functional rather than beautiful, its skyline defined by blast furnaces and cooling towers rather than historic architecture. But Anshan sits at the edge of the eastern mountains, and the countryside around it is genuinely spectacular.

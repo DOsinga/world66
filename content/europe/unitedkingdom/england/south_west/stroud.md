@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Stroud_from_the_air.jpg
 latitude: 51.744
 loc_type: city
 longitude: -2.215
-score: 7.3
+score: 4.645
 snippet: Gloucestershire market town where Cotswold valleys, mills, and independent
   culture meet.
 sources:
@@ -20,6 +20,10 @@ tags:
 title: Stroud
 type: location
 wikidata: Q281749
+heritage: 4.275
+vibrancy: 4.026
+nature: 5.254
+off_the_beaten_track: 1.764
 ---
 
 Stroud sits where five Cotswold valleys fold into one another, and the town has always felt a little different from the gentler postcard villages nearby. Old textile mills, steep lanes, independent shops, market stalls, and wooded commons give it a working, creative edge.

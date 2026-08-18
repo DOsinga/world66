@@ -5,11 +5,15 @@ done:
 latitude: 52.131478
 loc_type: city
 longitude: 11.640079
-score: 7.27
+score: 5.534
 snippet: Elbe river city shaped by Otto I, Gothic architecture, and repeated destruction
   and rebuilding.
 title: Magdeburg
 type: location
+heritage: 6.639
+vibrancy: 4.281
+nature: 3.212
+off_the_beaten_track: 2.423
 ---
 
 Magdeburg sits on the Elbe in Saxony-Anhalt — one of the most historically important cities in Germany and, by most measures, one of the least visited by foreign tourists. The city's significance comes in waves: Otto I, who founded the Holy Roman Empire, chose it as his residence and capital in the 10th century; it was devastated twice, once in the Thirty Years' War (the Sack of Magdeburg in 1631 killed most of the population) and again in the Allied bombing of January 1945; and it rebuilt itself both times.

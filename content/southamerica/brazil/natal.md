@@ -6,11 +6,15 @@ image: natal_dunes_state_park.jpg
 latitude: -5.805398
 loc_type: city
 longitude: -35.20809
-score: 7.65
+score: 5.248
 snippet: Northeastern Brazilian beach city with warm surf, urban dunes, and the Forte
   dos Reis Magos
 title: Natal
 type: location
+heritage: 4.34
+vibrancy: 5.177
+nature: 5.43
+off_the_beaten_track: 2.964
 ---
 
 Natal is the beach capital of northeastern [Brazil](/southamerica/brazil). The main reason to come is to tan, swim, and have fun, but the city earns its time more than the typical beach resort: the [Forte dos Reis Magos](/southamerica/brazil/natal/forte_dos_reis_magos) is the oldest fort in South America, the [Natal Dunes State Park](/southamerica/brazil/natal/natal_dunes_state_park) is one of the largest urban dune ecosystems in the world, and the [Museu Câmara Cascudo](/southamerica/brazil/natal/museu_camara_cascudo) gives a serious grounding in the region's history and popular culture.

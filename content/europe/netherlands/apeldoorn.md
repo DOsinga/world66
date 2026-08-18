@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castle_gardens_panorama_(3
 latitude: 52.2112
 loc_type: city
 longitude: 5.9699
-score: 7.37
+score: 3.836
 snippet: Veluwe city in the central Netherlands, balancing forest access, palace gardens,
   and small-town roots.
 tags:
@@ -21,6 +21,10 @@ tags:
 tier: 3
 title: Apeldoorn
 type: location
+heritage: 2.488
+vibrancy: 2.498
+nature: 4.739
+off_the_beaten_track: 1.523
 ---
 
 Apeldoorn grew from a scattering of Veluwe villages into a proper city, but it still feels like it hasn't quite shaken off its small-town roots. The centre is compact and manageable, ringed by some of the best forest and heathland in the Netherlands. It is not a glamorous destination, but it has genuine charm.

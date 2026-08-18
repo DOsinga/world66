@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Spiekeroog
 latitude: 53.771059
 loc_type: city
 longitude: 7.694663
-score: 7.59
+score: 4.376
 snippet: Car-free East Frisian island of brick cottages, high dunes, and wide North
   Sea beaches.
 title: Spiekeroog
 type: location
+heritage: 3.146
+vibrancy: 2.946
+nature: 5.36
+off_the_beaten_track: 2.79
 ---
 
 Spiekeroog is the quietest and most unspoiled of the East Frisian Islands. No cars, no airport, no chain hotels — just a small village of brick cottages, a church dating to 1696, and kilometres of empty beach backed by high dunes. The island has a wild, windswept character that sets it apart from its more developed neighbours.

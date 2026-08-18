@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Portsmouth,_Ohio.jpg
 latitude: 38.7318
 loc_type: city
 longitude: -82.9977
-score: 5.1
+score: 3.496
 snippet: Southern Ohio river city known for floodwall murals at the Scioto and Ohio
   confluence.
 title: Portsmouth
 type: location
+heritage: 2.674
+vibrancy: 2.023
+nature: 4.285
+off_the_beaten_track: 2.237
 ---
 
 Portsmouth sits at the confluence of the Scioto and Ohio rivers in southern [Ohio](/northamerica/unitedstates/ohio), a former industrial town that wears its history on its floodwalls — literally. The [Portsmouth Floodwall Murals](/northamerica/unitedstates/ohio/portsmouth/floodwall_murals), a series of more than 50 panels stretching along the riverfront, depict the city's history from the Shawnee era through the steel and shoe-making boom years.

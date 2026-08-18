@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ccongyn.jpg
 latitude: -16.680882
 loc_type: city
 longitude: -49.253269
-score: 6.53
+score: 5.485
 snippet: Planned central Brazilian capital of Goiás, built with broad avenues and
   a strong Art Deco core.
 title: Goiânia
 type: location
+heritage: 5.205
+vibrancy: 5.633
+nature: 3.021
+off_the_beaten_track: 2.241
 ---
 
 Goiânia is the capital of Goiás state in central Brazil, a planned city built in the 1930s with broad avenues and Art Deco architecture. It is a prosperous, modern place — the centre of Brazil's agribusiness heartland — and not an obvious tourist destination, but it has genuine appeal for visitors willing to look beyond the beach-focused Brazil itinerary.

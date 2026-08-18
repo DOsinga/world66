@@ -5,11 +5,15 @@ done:
 latitude: 20.45
 loc_type: city
 longitude: -13.1
-score: 2.86
+score: 3.905
 snippet: Adrar Plateau pass settlement known for sandstone gorges and ancient rock
   art near the road
 title: Amogar
 type: location
+heritage: 0.628
+vibrancy: 0.605
+nature: 2.852
+off_the_beaten_track: 6.828
 ---
 
 The Amogjar Pass is the dramatic mountain road connecting [Atar](/africa/mauritania/atar) to [Chinguetti](/africa/mauritania/chinguetti), cutting through the Adrar Plateau in central [Mauritania](/africa/mauritania). The pass itself is one of the most scenic stretches of road in the country, winding through rocky gorges and across a stark, beautiful landscape of sandstone cliffs and desert scrub.

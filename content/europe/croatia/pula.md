@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Pula_Aerial_View.jpg
 latitude: 44.870228
 loc_type: city
 longitude: 13.845531
-score: 9.09
+score: 5.496
 snippet: Istrian port city with an extraordinary Roman amphitheatre and monuments
   woven through the old town.
 title: Pula
 type: location
+heritage: 4.831
+vibrancy: 5.551
+nature: 5.354
+off_the_beaten_track: 1.61
 ---
 
 Pula sits at the southern tip of the Istrian peninsula, and its Roman heritage is extraordinary for a town this size. The [amphitheatre](/europe/croatia/pula/amphitheatre) — one of the best-preserved Roman arenas in the world — dominates the town and is still used for summer concerts and the [Pula Film Festival](/europe/croatia/pula/pula_film_festival). The [Temple of Augustus on the old Forum](/europe/croatia/pula/townsquare), the [Arch of the Sergii](/europe/croatia/pula/arch_of_sergii), and the [Gate of Hercules](/europe/croatia/pula/hercules_gate) are woven into the fabric of a working Croatian city rather than fenced off as museum pieces. The [Venetian fortress](/europe/croatia/pula/castle_kastel) at the top of the hill gives the best views.

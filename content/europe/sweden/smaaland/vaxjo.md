@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 56.8833
 longitude: 14.7833
-score: 7.0
+score: 5.516
 snippet: Inland Småland city of lakes, glass museums, cathedral spires, and Swedish
   emigration history.
 sources:
@@ -14,6 +14,10 @@ image: vaxjo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Vaxjo_cathedral%2CVaxjo%2CSweden_%282561895675%29.jpg
 image_license: CC BY 2.0
 image_attribution: sk12
+heritage: 6.579
+vibrancy: 4.347
+nature: 4.535
+off_the_beaten_track: 2.717
 ---
 
 Växjö is the main inland city of [Småland](/europe/sweden/smaaland), surrounded by lakes and forest. It is a practical base for the Kingdom of Crystal, but it also has enough of its own character: a twin-spired cathedral, a strong regional museum, university life, and good access to the countryside.

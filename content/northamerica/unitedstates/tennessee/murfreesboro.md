@@ -5,13 +5,17 @@ done:
 latitude: 35.84604
 loc_type: city
 longitude: -86.39211
-score: 6.3
+score: 4.636
 sources:
 - https://en.wikipedia.org/wiki/Murfreesboro,_Tennessee
 title: Murfreesboro
 type: location
 snippet: Central Tennessee city with Civil War battlefield history and a courthouse-anchored
   town square.
+heritage: 4.635
+vibrancy: 4.671
+nature: 2.37
+off_the_beaten_track: 1.682
 ---
 
 Murfreesboro sits at the geographic center of Tennessee — an obelisk on Old Lascassas Pike marks the exact spot. It served as the state capital from 1819 to 1826 and was the site of the Battle of Stones River in late 1862, one of the bloodiest engagements of the Civil War. The [Stones River National Battlefield](/northamerica/unitedstates/tennessee/murfreesboro/stones_river_national_battlefield) preserves the ground where over 23,000 soldiers fell.

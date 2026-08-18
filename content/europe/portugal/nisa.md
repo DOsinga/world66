@@ -1,14 +1,19 @@
 ---
 latitude: 39.5167
 loc_type: city
-longitude: -7.6500
-score: 6.9
-snippet: Quiet Alto Alentejo town of castle walls, granite villages, and Tejo frontier forts.
+longitude: -7.65
+score: 4.881
+snippet: Quiet Alto Alentejo town of castle walls, granite villages, and Tejo frontier
+  forts.
 sources:
-  - https://en.wikivoyage.org/wiki/Nisa_(Portugal)
-  - https://en.wikipedia.org/wiki/Nisa,_Portugal
+- https://en.wikivoyage.org/wiki/Nisa_(Portugal)
+- https://en.wikipedia.org/wiki/Nisa,_Portugal
 title: Nisa
 type: location
+heritage: 5.395
+vibrancy: 4.712
+nature: 4.628
+off_the_beaten_track: 3.485
 ---
 
 Nisa is a small Alto Alentejo town close to the Spanish border, in a landscape of granite, cork oak, dry fields and old defensive lines. It is not a polished show town like nearby Castelo de Vide or Marvao, but it has a frontier identity of its own.

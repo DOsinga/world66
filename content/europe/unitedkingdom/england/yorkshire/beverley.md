@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Beverley_IMG_8292_-_panora
 latitude: 53.842549
 loc_type: city
 longitude: -0.431568
-score: 7.45
+score: 4.88
 title: Beverley
 snippet: East Yorkshire market town anchored by Beverley Minster and a medieval street
   plan of unusual grace.
 type: location
+heritage: 6.566
+vibrancy: 2.332
+nature: 2.517
+off_the_beaten_track: 1.713
 ---
 
 Beverley is one of the finest small towns in the north of England — compact, handsome, and easy to underestimate. It served for centuries as the county town of the East Riding of Yorkshire, and the medieval bones of that importance are still very much on show.

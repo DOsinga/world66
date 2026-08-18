@@ -5,11 +5,15 @@ done:
 latitude: 40.005539
 loc_type: city
 longitude: 52.993283
-score: 5.64
+score: 3.947
 snippet: Dusty Caspian Sea port and Trans-Caspian rail terminus on Turkmenistan's
   western edge
 title: Turkmenbashi
 type: location
+heritage: 1.496
+vibrancy: 1.806
+nature: 2.803
+off_the_beaten_track: 6.951
 ---
 
 Turkmenbashi is a port city on the eastern shore of the Caspian Sea, formerly known as Krasnovodsk. The president renamed it after himself — Turkmenbashi means "Father of the Turkmens." It takes a certain optimism to enjoy yourself here. The city is dusty, hot, and functional rather than charming, but if you adjust your expectations it serves as a useful transit point and a place to catch your breath before heading into more remote territory.

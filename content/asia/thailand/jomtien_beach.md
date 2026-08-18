@@ -9,10 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Jomtien_Beach_(11).jpg
 latitude: 12.8783
 loc_type: city
 longitude: 100.872
-score: 8.25
+score: 5.113
 snippet: Quieter beach south of Pattaya with good windsurfing and watersports
 title: Jomtien Beach
 type: location
+heritage: 1.994
+vibrancy: 5.036
+nature: 5.313
+off_the_beaten_track: 1.038
 ---
 
 [Jomtien Beach](/asia/thailand/jomtien_beach/jomtien_beach_main) stretches for six kilometres along the Gulf of Thailand, just south of [Pattaya](/asia/thailand/pattaya). Where Pattaya is loud and relentless, Jomtien is the quieter neighbour -- still lively, but with a more relaxed pace that draws long-stay visitors, families, and anyone who prefers their beach without a thumping bass line.

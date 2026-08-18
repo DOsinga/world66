@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ayasofyatrabzon.jpg
 latitude: 41.0042
 loc_type: city
 longitude: 39.7278
-score: 7.95
+score: 5.426
 snippet: Black Sea port city with Trapezus roots, Byzantine churches, and mountain
   monasteries above the coast.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Trabzon
 title: Trabzon
 type: location
+heritage: 5.841
+vibrancy: 4.859
+nature: 5.934
+off_the_beaten_track: 3.713
 ---
 
 *Asia > Turkey > Trabzon*

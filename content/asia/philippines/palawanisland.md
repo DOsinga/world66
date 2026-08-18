@@ -14,7 +14,7 @@ quick_facts:
   Island Length: 450 km
   Often Voted: World's best island
   Underground River: 8 km long
-score: 9.77
+score: 5.841
 snippet: Long Philippine island whose limestone lagoons and Coron wrecks anchor the
   country's frontier coast.
 tip: El Nido and Coron are the headline acts, but the island is long and transfers
@@ -23,6 +23,10 @@ tip: El Nido and Coron are the headline acts, but the island is long and transfe
   ATMs are scarce and often empty.
 title: Palawan Island
 type: location
+heritage: 2.911
+vibrancy: 5.241
+nature: 6.521
+off_the_beaten_track: 4.076
 ---
 
 Palawan is a long, slender island 500 km southwest of Manila, often described as the Philippines' last frontier. It remains largely free of mass tourism, with dense jungle, clear waters, and some of the best diving in the country. The island stretches from the regional capital Puerto Princesa in the south to the spectacular karst seascapes of El Nido in the north.

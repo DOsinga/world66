@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 45.6814
 longitude: -62.7119
-score: 0.42
+score: 4.163
 snippet: Small Nova Scotia harbour town tied to Scottish immigration and the replica
   ship Hector.
 sources:
@@ -14,6 +14,10 @@ image: pictou.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Nova_Scotia_DSC01882_-_The_Hector_(7864686018).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Dennis G. Jarvis
+heritage: 3.905
+vibrancy: 2.201
+nature: 4.797
+off_the_beaten_track: 4.33
 ---
 
 Pictou sits on a sheltered harbour on Nova Scotia's Northumberland Shore, a small town with a bigger place in the province's origin story than its size suggests. It calls itself the birthplace of New Scotland because the ship Hector landed Scottish settlers here in 1773, beginning a wave of Highland migration that shaped northern Nova Scotia and Cape Breton.

@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Lemmer,_zicht_op_de_Kortes
 latitude: 52.844486
 loc_type: city
 longitude: 5.709914
-score: 7.01
+score: 4.04
 snippet: Frisian IJsselmeer harbour town for sailing, centred on canals and the steam-powered
   Woudagemaal.
 tags:
 - friesland
 title: Lemmer
 type: location
+heritage: 2.355
+vibrancy: 1.968
+nature: 5.264
+off_the_beaten_track: 2.683
 ---
 
 Lemmer is a small town on the IJsselmeer coast in [Friesland](/europe/netherlands/friesland), popular with sailors and water sports enthusiasts. The harbour fills up in summer with yachts and motor boats exploring the Frisian lakes.

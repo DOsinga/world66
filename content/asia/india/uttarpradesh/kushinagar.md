@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kushinara1.jpg
 latitude: 26.741
 loc_type: city
 longitude: 83.888
-score: 6.82
+score: 5.724
 snippet: Buddhist pilgrimage town where the Buddha is believed to have entered parinirvana.
 sources:
 - https://en.wikipedia.org/wiki/Kushinagar
@@ -16,6 +16,10 @@ sources:
 - https://www.openstreetmap.org/
 title: Kushinagar
 type: location
+heritage: 7.001
+vibrancy: 4.156
+nature: 2.545
+off_the_beaten_track: 3.61
 ---
 
 Kushinagar is one of the great Buddhist pilgrimage places, but it is quieter and more contemplative than its importance suggests. This is the town where the Buddha is traditionally believed to have entered parinirvana, the final passing beyond rebirth, and the main sights cluster around that memory.

@@ -3,17 +3,22 @@ image: korpo.jpg
 image_attribution: J Hokkanen
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Korpo_Banner.jpg
-latitude: 60.1620
+latitude: 60.162
 loc_type: feature
-longitude: 21.5580
-score: 7.4
-snippet: Swedish-speaking Archipelago Sea island with ferry harbours, medieval church, and scattered villages.
+longitude: 21.558
+score: 5.115
+snippet: Swedish-speaking Archipelago Sea island with ferry harbours, medieval church,
+  and scattered villages.
 sources:
-  - https://en.wikivoyage.org/wiki/Korpo
-  - https://en.wikipedia.org/wiki/Korpo
-  - https://www.wikidata.org/wiki/Q305440
+- https://en.wikivoyage.org/wiki/Korpo
+- https://en.wikipedia.org/wiki/Korpo
+- https://www.wikidata.org/wiki/Q305440
 title: Korpo
 type: location
+heritage: 2.848
+vibrancy: 1.382
+nature: 6.609
+off_the_beaten_track: 4.325
 ---
 
 Korpo, Korppoo in Finnish, is one of the old island municipalities of the Archipelago Sea west of Turku. The main island is big enough for villages, fields and forest, but small enough that the sea keeps appearing between trees, ferry ramps and guest harbours.

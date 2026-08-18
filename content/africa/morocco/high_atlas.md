@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Crossing_the_High_Atlas_mo
 latitude: 31.06
 loc_type: city
 longitude: -7.9
-score: 8.78
+score: 5.862
 snippet: Morocco’s highest mountain range, stretching from Atlantic slopes to desert
   passes around Jebel Toubkal.
 title: High Atlas
 type: location
+heritage: 2.895
+vibrancy: 0.934
+nature: 7.251
+off_the_beaten_track: 6.013
 ---
 
 The High Atlas is the main mountain range of Morocco and the highest in North Africa, with [Jebel Toubkal](/africa/morocco/high_atlas/jebel_toubkal) reaching 4,167 metres. The range stretches roughly 700km from the Atlantic coast in the southwest to the Algerian border in the northeast.

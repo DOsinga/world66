@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:A_dramatic_meeting_of_land
 latitude: 13.536
 loc_type: city
 longitude: 144.889
-score: 6.75
+score: 4.838
 snippet: Northern Guam village near Mount Santa Rosa, wartime memorials, and the road
   to Ritidian Point.
 sources:
 - https://en.wikipedia.org/wiki/Yigo,_Guam
 title: Yigo
 type: location
+heritage: 3.57
+vibrancy: 2.588
+nature: 5.985
+off_the_beaten_track: 2.716
 ---
 
 Yigo occupies the northern end of Guam, a broad village area shaped by limestone forest, military land, and the long road toward Ritidian Point. It is not a polished tourist base, but it is important if you want to understand the island beyond Tumon and the southern villages.

@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ettal_in_March_2008.JPG
 latitude: 47.5687
 loc_type: city
 longitude: 11.0936
-score: 7.86
+score: 5.236
 snippet: Alpine village near Oberammergau, dominated by a grand Benedictine abbey
   with an oversized baroque basilica.
 title: Ettal
 type: location
+heritage: 6.653
+vibrancy: 2.07
+nature: 3.685
+off_the_beaten_track: 2.489
 ---
 
 Ettal is a small village in a narrow Alpine valley near Oberammergau, dominated by one thing: its monastery. [Ettal Abbey](/europe/germany/bavaria/ettal/ettal_abbey) was founded in 1330 by Emperor Ludwig IV of Bavaria and has grown over the centuries into a grand Benedictine complex, its centrepiece a baroque basilica with a massive dome that seems wildly oversized for the tiny village around it. The interior is lavishly decorated with frescoes and stucco work — a worthwhile stop even for those with limited patience for churches.

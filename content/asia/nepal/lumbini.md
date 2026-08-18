@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Lumbini,_Buddha%27s_birthp
 latitude: 27.4696
 loc_type: city
 longitude: 83.2759
-score: 8.36
+score: 7.319
 snippet: Sacred Terai pilgrimage town, revered as the birthplace of Siddhartha Gautama,
   the Buddha.
 title: Lumbini
 type: location
+heritage: 9.112
+vibrancy: 3.485
+nature: 5.577
+off_the_beaten_track: 3.165
 ---
 
 Lumbini is the birthplace of Siddhartha Gautama — the Buddha — and one of the most sacred sites in the Buddhist world. It lies in the flat Terai lowlands of southern Nepal, near the border with India, in what was once a garden between the ancient kingdoms of Kapilavastu and Devadaha.

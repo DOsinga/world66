@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -32.3495
 longitude: 138.0406
-score: 6.8
+score: 5.385
 snippet: Southern Flinders railway town and base for Pichi Richi Pass, Warren Gorge,
   and old pastoral ruins.
 wikidata: Q984138
@@ -17,6 +17,10 @@ image: quorn.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Quorn-Railway-Station.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Kerry Raymond at English Wikipedia
+heritage: 3.492
+vibrancy: 1.509
+nature: 6.738
+off_the_beaten_track: 5.273
 ---
 
 Quorn is a small historic town at the southern end of the Flinders Ranges, about 40 kilometres northeast of Port Augusta. It was an important railway town in the late 19th century — the junction for lines heading north into the interior — and the handsome stone buildings along its main street reflect a moment of prosperity that the realignment of the rail route later curtailed.

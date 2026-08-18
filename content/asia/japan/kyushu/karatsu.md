@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 33.45
 longitude: 129.9667
-score: 7.6
-snippet: Coastal Kyushu castle city known for pine beaches, pottery, squid, and a great autumn float festival.
+score: 5.168
+snippet: Coastal Kyushu castle city known for pine beaches, pottery, squid, and a
+  great autumn float festival.
 wikidata: Q738275
 sources:
-  - https://en.wikivoyage.org/wiki/Karatsu
-  - https://www.japan-guide.com/e/e8375.html
-  - https://www.japan.travel/en/destinations/kyushu/saga/karatsu-and-yobuko-area/
+- https://en.wikivoyage.org/wiki/Karatsu
+- https://www.japan-guide.com/e/e8375.html
+- https://www.japan.travel/en/destinations/kyushu/saga/karatsu-and-yobuko-area/
+heritage: 5.806
+vibrancy: 4.796
+nature: 4.39
+off_the_beaten_track: 3.077
 ---
 
 Karatsu is a sea-facing city in northern Saga Prefecture, close enough to [Fukuoka](/asia/japan/kyushu/fukuoka_city) for an easy day trip but different in mood. It was once a port looking toward Korea and China, and that old maritime role still shows in the castle, pottery, fishing villages, and seafood culture.

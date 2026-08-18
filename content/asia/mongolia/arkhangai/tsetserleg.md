@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 47.4769
 longitude: 101.4503
-score: 7.1
-snippet: Pleasant Arkhangai capital in a mountain bowl, with monastery museums and steppe day trips.
+score: 5.91
+snippet: Pleasant Arkhangai capital in a mountain bowl, with monastery museums and
+  steppe day trips.
 wikidata: Q529834
 sources:
-  - https://en.wikivoyage.org/wiki/Tsetserleg
-  - https://steppe-mongolia.com/discover-mongolia/attractions/zayan_gegeen_monastery_tsetserleg
-  - https://www.toursmongolia.com/destinations/tsetserleg
+- https://en.wikivoyage.org/wiki/Tsetserleg
+- https://steppe-mongolia.com/discover-mongolia/attractions/zayan_gegeen_monastery_tsetserleg
+- https://www.toursmongolia.com/destinations/tsetserleg
+heritage: 5.355
+vibrancy: 1.942
+nature: 6.89
+off_the_beaten_track: 6.344
 ---
 
 Tsetserleg is the capital of Arkhangai, but it feels more like a mountain town than a provincial centre. The name means "garden", and the town earns it by sitting in a green bowl below Bulgan Mountain, with whitewashed monastery buildings above the market streets and open steppe starting almost as soon as the houses end.

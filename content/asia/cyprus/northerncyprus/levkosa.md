@@ -11,11 +11,15 @@ image_source: https://www.flickr.com/photos/7133359@N07/4965634646
 latitude: 35.1856
 loc_type: city
 longitude: 33.3823
-score: 7.45
+score: 5.028
 snippet: Northern Nicosia district with Ottoman caravanserais, converted Gothic churches,
   and Venetian walls.
 title: Lefkoşa
 type: location
+heritage: 5.679
+vibrancy: 4.605
+nature: 5.061
+off_the_beaten_track: 3.899
 ---
 
 Lefkoşa (Turkish Nicosia) is the northern half of the world's last divided capital, separated from its Greek counterpart by the UN-patrolled Green Line. Tourists can cross at the Ledra Street and Ledra Palace checkpoints — a strange experience, walking between two worlds in a matter of minutes.

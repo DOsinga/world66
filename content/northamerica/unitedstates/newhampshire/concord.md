@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:New_Hampshire_State_House.
 latitude: 43.2081
 loc_type: city
 longitude: -71.5376
-score: 6.73
+score: 4.972
 title: Concord
 type: location
 snippet: Compact New Hampshire capital on the Merrimack River, centred on its golden-domed
   State House.
+heritage: 4.173
+vibrancy: 4.462
+nature: 5.55
+off_the_beaten_track: 1.65
 ---
 
 Concord is the capital of New Hampshire — a compact, unhurried city of about 45,000 people on the Merrimack River. It earns its keep as a state capital rather than a tourist destination, but visitors find genuine rewards here: a striking golden-domed State House, a world-class collection of Shaker furniture, and easy access to the lakes and hills that make New Hampshire worth exploring.

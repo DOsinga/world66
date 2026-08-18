@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Budville_Trading_Company_(
 latitude: 35.0724
 loc_type: city
 longitude: -107.5265
-score: 4.92
+score: 4.712
 snippet: Semi-ghost town on old Route 66, centred on Bud Rice’s closed trading post
   and unsolved murder story
 title: Budville
 type: location
+heritage: 3.63
+vibrancy: 1.846
+nature: 5.702
+off_the_beaten_track: 5.248
 ---
 
 Budville is a semi-ghost town along Route 66 in Cibola County, New Mexico. It grew up around the trading post operated by Bud Rice, a native of nearby Cubero who ran a towing service, garage, and served as a local judge. In 1967 Rice was murdered in a crime that remains unsolved, and the town never really recovered. The trading post still stands alongside the old highway, closed but intact — one of those quietly haunting Route 66 stops where the story is more compelling than the scenery.

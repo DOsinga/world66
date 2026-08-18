@@ -5,18 +5,23 @@ loc_type: city
 latitude: 49.1577
 longitude: -121.9509
 wikidata: Q983026
-score: 7.1
-snippet: Fraser Valley city where farms, rivers, waterfalls, and Cascade foothills crowd close together.
+score: 5.398
+snippet: Fraser Valley city where farms, rivers, waterfalls, and Cascade foothills
+  crowd close together.
 sources:
-  - https://en.wikivoyage.org/wiki/Chilliwack
-  - https://bcparks.ca/bridal-veil-falls-park/
-  - https://bcparks.ca/sxotsaqel-chilliwack-lake-park/
-  - https://www.chilliwackblueheron.com/about/site-and-trails/
-  - https://www.chilliwack.com/main/page.cfm?dowhat=locationView&id=1754&plID=167
+- https://en.wikivoyage.org/wiki/Chilliwack
+- https://bcparks.ca/bridal-veil-falls-park/
+- https://bcparks.ca/sxotsaqel-chilliwack-lake-park/
+- https://www.chilliwackblueheron.com/about/site-and-trails/
+- https://www.chilliwack.com/main/page.cfm?dowhat=locationView&id=1754&plID=167
 image: chilliwack.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bridal_Veil_Falls,_BC,_Canada.jpg
 image_license: CC BY-SA 3.0
 image_attribution: The High Fin Sperm Whale
+heritage: 2.992
+vibrancy: 2.811
+nature: 7.008
+off_the_beaten_track: 2.854
 ---
 
 *North America > Canada > British Columbia > Chilliwack*

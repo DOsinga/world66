@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:BeaudesertMainStreet.JPG
 latitude: -27.988562
 loc_type: city
 longitude: 152.996119
-score: 6.2
+score: 4.2
 snippet: Rural Scenic Rim town in the Logan River valley, used as a gateway to Lamington
   National Park.
 title: Beaudesert
 type: location
+heritage: 2.61
+vibrancy: 1.913
+nature: 5.236
+off_the_beaten_track: 4.174
 ---
 
 Beaudesert is a small rural town in the **Scenic Rim**, the arc of mountain country south-west of [Brisbane](/australiaandpacific/australia/queensland/brisbane) that traces the New South Wales border. It sits in the Logan River valley with a working cattle-and-dairy hinterland on one side and the basalt walls of the McPherson Range on the other — a landscape of green pastures, fig-lined creeks and old timber farmhouses.

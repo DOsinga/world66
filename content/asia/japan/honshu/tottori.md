@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 35.5011
 longitude: 134.2351
-score: 7.8
-snippet: Sea of Japan castle town known for vast coastal dunes, sand sculpture, and quiet gardens.
+score: 5.003
+snippet: Sea of Japan castle town known for vast coastal dunes, sand sculpture, and
+  quiet gardens.
 wikidata: Q200731
 sources:
-  - https://en.wikivoyage.org/wiki/Tottori
-  - https://www.japan.travel/en/destinations/chugoku/tottori/tottori-and-around/
-  - https://www.torican.jp/en/theme/list_1_________30.html
+- https://en.wikivoyage.org/wiki/Tottori
+- https://www.japan.travel/en/destinations/chugoku/tottori/tottori-and-around/
+- https://www.torican.jp/en/theme/list_1_________30.html
+heritage: 4.249
+vibrancy: 3.511
+nature: 5.954
+off_the_beaten_track: 2.902
 ---
 
 Tottori is a small city by Japanese standards, but it has one of the country's strangest natural sights on its doorstep: the [Tottori Sand Dunes](/asia/japan/honshu/tottori/tottori_sand_dunes), a sweep of wind-shaped sand running down toward the Sea of Japan. The dunes give the city a clear reason to exist on a travel map, and they are odd enough to be worth the detour.

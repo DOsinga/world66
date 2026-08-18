@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:20260503_Sanmenxia_Museum.
 latitude: 34.7736
 loc_type: city
 longitude: 111.195
-score: 5.82
+score: 3.394
 snippet: Yellow River gorge city tied to Yu's Three Gates legend and the strategic
   Hangu Pass.
 sources:
 - https://en.wikivoyage.org/wiki/Sanmenxia
 title: Sanmenxia
 type: location
+heritage: 3.641
+vibrancy: 2.08
+nature: 3.717
+off_the_beaten_track: 3.035
 ---
 
 Sanmenxia sits at the far western end of Henan, where the Yellow River cuts through the Qinling-Taihang mountain system on its way east to the plains. The city's name — Three Gates Gorge — refers to the legend that the mythical flood-tamer Yu split the mountains into three channels here to control the river, and whether or not you believe that story, the landscape at this point really does feel like a place where the river makes a decisive transition. The philosopher Laozi is said to have composed the Dao De Jing at [Hangu Pass](/asia/china/henan_province/sanmenxia/hangu_pass), a mountain gateway just east of the city that marked the boundary between the Zhou heartland and the Qin state; the rebuilt pass (¥80 entry) is historically theatrical rather than original, but the geography that made it strategically vital is still very much present.

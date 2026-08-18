@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_in_Gisenyi_(Rwanda).
 latitude: -1.6935
 loc_type: city
 longitude: 29.2599
-score: 6.83
+score: 4.946
 snippet: Lake Kivu border town and relaxed Rwandan base for beaches, boat trips, and
   Virunga excursions
 title: Gisenyi
 type: location
+heritage: 3.694
+vibrancy: 4.571
+nature: 5.458
+off_the_beaten_track: 3.061
 ---
 
 Gisenyi (now officially called Rubavu) sits at the northern end of [Lake Kivu](/africa/rwanda/gisenyi/lake_kivu) on Rwanda's western border, directly across from the Congolese city of [Goma](/africa/rwanda/gisenyi/goma_border). It's the main launch point for excursions to [Volcanoes National Park](/africa/rwanda/ruhengeri/volcanoes_national_park), where mountain gorillas roam the forested slopes of the Virunga volcanoes — and light aircraft flights over the volcanic craters leave from here too.

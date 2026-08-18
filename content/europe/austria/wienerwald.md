@@ -3,7 +3,7 @@ country: Austria
 latitude: 48.2333
 loc_type: feature
 longitude: 16.2333
-score: 8.2
+score: 5.53
 snippet: UNESCO biosphere reserve of beech forest, meadows, and vineyards wrapping
   the western edge of Vienna.
 title: Wienerwald (Vienna Woods)
@@ -12,6 +12,10 @@ image: wienerwald.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Vienna_Woods_in_winter.jpg
 image_license: Public domain
 image_attribution: KF at en.wikipedia
+heritage: 3.154
+vibrancy: 2.679
+nature: 7.235
+off_the_beaten_track: 2.905
 ---
 
 The Wienerwald is the wooded range of low limestone hills that wraps around the west and north of Vienna — roughly 1,000 square kilometres of beech and oak forest, meadows, vineyards, and small spa towns, declared a UNESCO Biosphere Reserve in 2005. It is the city's green lung and weekend playground: where the Viennese walk, cycle, ride, and end the afternoon at a Heuriger wine tavern. For a forest that begins at the end of a tram line, it is remarkably wild, with marked trails that climb out of the suburbs and within an hour leave the city behind entirely.

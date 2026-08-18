@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:St_Louis_night_expblend.jp
 latitude: 38.627
 loc_type: city
 longitude: -90.1994
-score: 7.17
+score: 5.799
 title: St. Louis
 snippet: Mississippi River city where the Gateway Arch marks the eastern edge of the
   American West.
 type: location
+heritage: 6.396
+vibrancy: 5.616
+nature: 2.813
+off_the_beaten_track: 1.339
 ---
 
 St. Louis sits on the west bank of the Mississippi, where the river meets the Missouri, and that geography has defined it. French fur traders founded it in 1764, the Spanish ran it for a generation, and then Lewis and Clark set out from here in 1804 to map the Louisiana Purchase. The [Gateway Arch](/northamerica/unitedstates/missouri/stlouis/gateway_arch), rising 630 feet above the riverfront, marks both the actual departure point and the city's role as the eastern edge of the American West.

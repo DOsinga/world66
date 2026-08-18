@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:TOUR_SOLIDARIO_-_MANAB%C3%
 latitude: -0.38281
 loc_type: city
 longitude: -80.07216
-score: 5.97
+score: 4.907
 snippet: Manabí agricultural city in the Río Chone valley, associated with cacao,
   cattle, and nearby mangroves.
 sources:
 - https://en.wikipedia.org/wiki/Chone,_Ecuador
 title: Chone
 type: location
+heritage: 3.09
+vibrancy: 2.129
+nature: 5.993
+off_the_beaten_track: 5.287
 ---
 
 Chone is an agricultural city in the interior of Manabí, Ecuador's broad Pacific province, sitting in a valley where the Río Chone gathers tributaries from the coastal cordillera before widening toward the mangrove-edged estuary near Bahía de Caráquez. The city runs on cacao — this region has been producing it for centuries, and the arriba variety from the Manabí interior is among the most prized fine-flavor cacao in the world. Balsa wood, kapok, and cattle farming fill out the local economy, and the city has the matter-of-fact, working character of a place that produces things rather than sells experiences.

@@ -4,11 +4,15 @@ done:
 latitude: -8.0
 loc_type: feature
 longitude: 178.37
-score: 6.31
+score: 5.736
 snippet: Central Tuvalu atoll of many islets around a wide lagoon, with World War
   II airstrip remnants.
 title: Nukufetau Atoll
 type: location
+heritage: 4.115
+vibrancy: 1.808
+nature: 5.602
+off_the_beaten_track: 9.164
 ---
 
 **Nukufetau** is a large atoll in the central part of Tuvalu, consisting of around 33 islets enclosing a wide lagoon. It is lightly populated and rarely visited by outsiders. The community maintains a traditional way of life based on fishing and pulaka cultivation.

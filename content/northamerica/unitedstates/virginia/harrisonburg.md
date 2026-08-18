@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:JMU_Quad_Fall_2015.JPG
 latitude: 38.4493
 loc_type: city
 longitude: -78.8689
-score: 6.63
+score: 5.765
 snippet: Shenandoah Valley college city shaped by James Madison University, Mennonite
   roots, and a lively downtown market.
 title: Harrisonburg
 type: location
+heritage: 5.328
+vibrancy: 5.676
+nature: 5.995
+off_the_beaten_track: 3.106
 ---
 
 Harrisonburg is a small city in Virginia's Shenandoah Valley, anchored by [James Madison University](/northamerica/unitedstates/virginia/harrisonburg/james_madison_university) and shaped by a long-established Mennonite community. The combination of a large student body, a diverse immigrant and refugee population, and the old German-Scots-Irish farming culture of the valley produces a city with a lot going on for its size: good independent restaurants, a thriving [Saturday farmers' market](/northamerica/unitedstates/virginia/harrisonburg/harrisonburg_farmers_market), a compact [historic downtown](/northamerica/unitedstates/virginia/harrisonburg/downtown_historic_district), and a music scene that runs through the university.

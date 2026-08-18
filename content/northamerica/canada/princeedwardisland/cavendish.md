@@ -2,7 +2,7 @@
 latitude: 46.483
 loc_type: city
 longitude: -63.385
-score: 7.0
+score: 5.106
 snippet: North-shore PEI village where Green Gables, red cliffs, and summer beaches
   meet.
 sources:
@@ -15,6 +15,10 @@ image: cavendish.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cavendish_Coast,_Prince_Edward_Island_(471107)_(9450669298).jpg
 image_license: CC BY 2.0
 image_attribution: Robert Linsdell from St. Andrews, Canada
+heritage: 3.723
+vibrancy: 2.548
+nature: 6.337
+off_the_beaten_track: 2.055
 ---
 
 Cavendish is the busy north-shore village where Prince Edward Island's literary myth meets its beach holiday machinery. The serious reason to come is [Green Gables Heritage Place](/northamerica/canada/princeedwardisland/cavendish/green_gables_heritage_place), the farm setting that helped shape L.M. Montgomery's Anne novels. The broader appeal is the coast: red cliffs, dunes, warm Gulf water, and easy access to the Cavendish section of Prince Edward Island National Park.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2014_Prowincja_Wajoc_Dzor,
 latitude: 39.838819
 loc_type: city
 longitude: 45.671264
-score: 7.09
+score: 5.408
 snippet: High Armenian spa town where mineral springs, waterfalls, and Soviet sanatoriums
   sit above the Arpa gorge.
 title: Jermuk
 type: location
+heritage: 4.79
+vibrancy: 2.191
+nature: 6.352
+off_the_beaten_track: 4.392
 ---
 
 Jermuk is a mountain spa town at around 2,100 metres in Vayots Dzor province, known for its mineral springs. The branded Jermuk mineral water is sold across Armenia and the region. The town was developed during the Soviet era as a health resort, and the infrastructure retains some of that sanatorium character.

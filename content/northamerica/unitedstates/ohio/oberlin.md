@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 41.2883
 longitude: -82.2167
-score: 7.05
+score: 4.164
 snippet: Small Ohio college town with serious art, music, abolitionist history, and
   Frank Lloyd Wright.
 wikidata: Q988384
@@ -17,6 +17,10 @@ image: oberlin.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Oberlin_College_-_Bosworth_Hall.jpg
 image_license: Public domain
 image_attribution: Daderot
+heritage: 3.519
+vibrancy: 4.44
+nature: 2.98
+off_the_beaten_track: 0.696
 ---
 
 Oberlin is a small college town west of [Cleveland](/northamerica/unitedstates/ohio/cleveland), but it has more cultural weight than its size suggests. Oberlin College and its conservatory shape the place: leafy streets, a walkable centre, free or low-cost concerts, and one of the strongest college art museums in the United States.

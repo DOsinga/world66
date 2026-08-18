@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:20140411_ithaki094.JPG
 latitude: 38.401896
 loc_type: city
 longitude: 20.670093
-score: 8.9
+score: 5.169
 snippet: Mountainous Ionian island famed as Odysseus's home, with deep harbours, green
   hills, and quiet coves
 title: Ithaca
 type: location
+heritage: 5.717
+vibrancy: 4.98
+nature: 4.445
+off_the_beaten_track: 2.346
 ---
 
 Ithaca is a small, mountainous island in the Ionian Sea, famous as the mythical home of Odysseus. Whether Homer's hero actually lived here is debatable, but the island has been trading on the connection for centuries — and it works. The landscape is dramatic: steep green hillsides dropping to tiny coves with water so clear it hardly looks real.

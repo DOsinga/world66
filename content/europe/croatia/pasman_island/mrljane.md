@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Mrljane.JPG
 latitude: 43.966521
 loc_type: city
 longitude: 15.356302
-score: 7.25
+score: 4.503
 snippet: Small Pašman fishing village with clear channel waters, sandy beaches, and
   a navigator tradition.
 title: Mrljane
 type: location
+heritage: 2.921
+vibrancy: 1.888
+nature: 5.742
+off_the_beaten_track: 3.01
 ---
 
 Mrljane is a small fishing village on the eastern shore of [Pašman Island](/europe/croatia/pasman_island) in the Zadar archipelago, facing the mainland across the narrow Pašman Channel. The village has a handful of stone houses clustered around a [small harbour](/europe/croatia/pasman_island/mrljane/mrljane_harbour), a couple of sandy beaches, and clear Adriatic water that is excellent for swimming.

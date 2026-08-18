@@ -5,11 +5,15 @@ done:
 latitude: -8.88
 loc_type: city
 longitude: 13.23
-score: 2.26
+score: 5.449
 snippet: Narrow barrier island south of Luanda, known for lagoon beaches and weekend
   seafood escapes
 title: Massoulo
 type: location
+heritage: 2.892
+vibrancy: 1.213
+nature: 6.259
+off_the_beaten_track: 7.165
 ---
 
 Massoulo (also spelled Mussulo) is a long, narrow barrier island just south of [Luanda](/africa/angola/luanda). Its palm-fringed beaches and calm lagoon waters make it the most popular weekend escape for Luanda residents. Hire boats run from the pier at Capisoca, about 15 km south of Luanda via the Samba road — the ride takes around twenty minutes.

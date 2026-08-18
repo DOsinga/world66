@@ -4,16 +4,21 @@ type: location
 loc_type: city
 latitude: 37.5617
 longitude: 128.4875
-score: 7.4
-snippet: High Gangwon county of Olympic ski venues, Odaesan temples, ranch country, and buckwheat fields.
+score: 4.857
+snippet: High Gangwon county of Olympic ski venues, Odaesan temples, ranch country,
+  and buckwheat fields.
 image: pyeongchang.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Korea-Gangwon-Woljeongsa_Worship_Halls_1732%263-07.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Steve46814
 sources:
-  - https://en.wikivoyage.org/wiki/Pyeongchang
-  - https://en.wikipedia.org/wiki/Pyeongchang_County
-  - https://www.wikidata.org/wiki/Q188624
+- https://en.wikivoyage.org/wiki/Pyeongchang
+- https://en.wikipedia.org/wiki/Pyeongchang_County
+- https://www.wikidata.org/wiki/Q188624
+heritage: 2.935
+vibrancy: 3.703
+nature: 5.739
+off_the_beaten_track: 1.676
 ---
 
 *Asia > South Korea > Pyeongchang*

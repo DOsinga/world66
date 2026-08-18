@@ -4,17 +4,22 @@ type: location
 loc_type: city
 latitude: 47.8333
 longitude: -69.5333
-score: 7.2
-snippet: St. Lawrence ferry town with river falls, island trails, and Bas-Saint-Laurent history.
+score: 4.704
+snippet: St. Lawrence ferry town with river falls, island trails, and Bas-Saint-Laurent
+  history.
 wikidata: Q142024
 sources:
-  - https://en.wikivoyage.org/wiki/Rivi%C3%A8re-du-Loup
-  - https://en.wikipedia.org/wiki/Rivi%C3%A8re-du-Loup
-  - https://www.wikidata.org/wiki/Q142024
+- https://en.wikivoyage.org/wiki/Rivi%C3%A8re-du-Loup
+- https://en.wikipedia.org/wiki/Rivi%C3%A8re-du-Loup
+- https://www.wikidata.org/wiki/Q142024
 image: riviere_du_loup.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Rivi%C3%A8re-du-Loup,_Quebec,_Canada.jpg
 image_license: CC BY 4.0
 image_attribution: Hayden Soloviev
+heritage: 2.871
+vibrancy: 1.915
+nature: 6.075
+off_the_beaten_track: 3.658
 ---
 
 Rivière-du-Loup is a Bas-Saint-Laurent town on the south shore of the St. Lawrence, useful on the Quebec-to-Maritimes road but better than a simple overnight stop. The river drops through town in a real waterfall, the old centre has enough stone and brick to reward a wander, and the ferry turns the broad St. Lawrence into part of the day.

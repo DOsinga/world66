@@ -7,11 +7,15 @@ done:
 latitude: 44.3106
 loc_type: city
 longitude: -69.7795
-score: 6.31
+score: 4.849
 snippet: Small Maine capital on the Kennebec River, anchored by Bulfinch's granite
   Capitol and 18th-century Fort Western.
 title: Augusta
 type: location
+heritage: 4.109
+vibrancy: 3.695
+nature: 5.731
+off_the_beaten_track: 3.259
 ---
 
 Augusta has been Maine's capital since 1827, seven years after statehood — and it has the feel of a small New England city that takes its civic role seriously without making a fuss about it. The population hovers around 18,000, and the pace is unhurried. Government is the main business here, and the granite [Capitol dome](/northamerica/unitedstates/maine/augusta/maine_state_capitol) designed by Charles Bulfinch anchors a compact downtown that can be walked in an afternoon.

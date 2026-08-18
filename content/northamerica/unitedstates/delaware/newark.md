@@ -5,11 +5,15 @@ done:
 latitude: 39.6837
 loc_type: city
 longitude: -75.7497
-score: 5.46
+score: 3.754
 snippet: Northern Delaware college town shaped by the University of Delaware and a
   walkable Main Street.
 title: Newark
 type: location
+heritage: 4.22
+vibrancy: 3.479
+nature: 2.312
+off_the_beaten_track: 0.881
 ---
 
 Newark sits in northern Delaware just a few miles from the Maryland border, a college town built around the University of Delaware. With about 35,000 residents and 24,000 students, the university defines the town's rhythm — Main Street empties out in summer and buzzes during the school year. It is a pleasant, walkable place that most travelers pass through rather than visit, but it has enough going on to warrant a stop.

@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Otjikotosee.jpg
 latitude: -19.2512
 loc_type: city
 longitude: 17.7178
-score: 6.65
+score: 3.665
 snippet: Northern Namibian mining town and practical gateway to Etosha, with a museum
   rooted in copper history
 title: Tsumeb, Gateway to the North and Etosha
 type: location
+heritage: 2.205
+vibrancy: 1.746
+nature: 4.511
+off_the_beaten_track: 3.832
 ---
 
 Tsumeb is the main town in northern Namibia and the practical gateway to Etosha National Park, roughly 70km to the west. It's a working mining town — copper, lead, zinc, and silver have been extracted here since German colonial times — and a useful stop for fuel, supplies, and a night's rest before or after Etosha.

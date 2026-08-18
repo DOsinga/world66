@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_of_salerno_from_a
 latitude: 40.6824
 loc_type: city
 longitude: 14.7681
-score: 8.45
+score: 5.808
 snippet: Working Campanian port city beside the Amalfi Coast, with medieval lanes
   and a grand seafront promenade
 title: Salerno
 type: location
+heritage: 6.59
+vibrancy: 5.259
+nature: 2.74
+off_the_beaten_track: 1.686
 ---
 
 Salerno sits at the northern end of the [Amalfi Coast](/europe/italy/campania/amalfi), a working Italian city that most visitors rush through on their way to Positano or Ravello. That is a mistake. Salerno has a handsome historic centre, a spectacular waterfront promenade, and a fraction of the crowds — and the prices — of its famous neighbours.

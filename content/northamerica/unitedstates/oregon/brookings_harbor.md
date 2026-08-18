@@ -2,7 +2,7 @@
 latitude: 42.0575
 loc_type: city
 longitude: -124.2864
-score: 7.65
+score: 4.655
 snippet: Southern Oregon coast town where redwoods, sea stacks, river mouth, and pocket
   beaches meet.
 sources:
@@ -15,6 +15,10 @@ image: brookings_harbor.jpg
 image_source: https://commons.wikimedia.org/wiki/File:BrookingsHarbor.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Cacophony
+heritage: 2.147
+vibrancy: 2.172
+nature: 6.166
+off_the_beaten_track: 2.697
 ---
 
 Brookings-Harbor is the last Oregon coast town before California, and it feels more like a meeting point than an endpoint. The Chetco River reaches the Pacific here, fog catches on headlands and sea stacks, and the redwood country begins just over the state line.

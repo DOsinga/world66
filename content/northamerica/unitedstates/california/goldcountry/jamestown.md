@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2009-0724-CA-Jamestown-Emp
 latitude: 37.954
 loc_type: city
 longitude: -120.4227
-score: 6.96
+score: 5.25
 snippet: Gold Rush town in California's Mother Lode, with preserved Main Street and
   working steam locomotives.
 title: Jamestown
 type: location
+heritage: 6.398
+vibrancy: 3.259
+nature: 4.314
+off_the_beaten_track: 2.334
 ---
 
 Jamestown is one of the best-preserved Gold Rush towns in California's Mother Lode country, in Tuolumne County in the Sierra Nevada foothills. Founded in 1848, just months after the discovery of gold at Sutter's Mill, it quickly grew into a lively mining camp and later a service town for the surrounding diggings.

@@ -5,11 +5,15 @@ done:
 latitude: 32.9577
 loc_type: city
 longitude: -105.7427
-score: 7.07
+score: 4.36
 snippet: Sacramento Mountains village above the desert, cooled by pines and views
   toward White Sands.
 title: Cloudcroft
 type: location
+heritage: 1.965
+vibrancy: 2.66
+nature: 5.472
+off_the_beaten_track: 4.076
 ---
 
 Cloudcroft is a small mountain village perched at nearly 9,000 feet in the Sacramento Mountains, offering cool relief from the desert heat of the Tularosa Basin below. When temperatures in [Alamogordo](/northamerica/unitedstates/newmexico/alamogordo) push past 100 degrees, Cloudcroft sits comfortably in the 70s, surrounded by ponderosa pine and Douglas fir. The winding drive up US-82 from Alamogordo climbs over 4,000 feet in about 16 miles and is spectacular.

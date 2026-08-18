@@ -2,11 +2,15 @@
 latitude: -6.5694
 loc_type: city
 longitude: -76.1356
-score: 7.2
-snippet: Riverside village on the Huallaga with a living ceramics tradition and
-  gateway to the lower river
+score: 5.791
+snippet: Riverside village on the Huallaga with a living ceramics tradition and gateway
+  to the lower river
 title: Chazuta
 type: location
+heritage: 3.425
+vibrancy: 1.071
+nature: 7.097
+off_the_beaten_track: 6.157
 ---
 
 A 90-minute drive east of Tarapoto on the banks of the Huallaga river, Chazuta is a small, unhurried riverine town that earns its place on the itinerary for one thing above all: its **ceramics**. Local women have been shaping black-fired earthenware — pots, bowls, and figurines decorated with thin geometric designs in natural pigments — for generations. The Wasichay association of women potters runs a workshop in the village where you can watch the full process from raw clay to finished piece, and buy directly at fair prices.

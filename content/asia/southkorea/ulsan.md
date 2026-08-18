@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:KKPC_ulsan_resin_01.jpg
 latitude: 35.5384
 loc_type: city
 longitude: 129.3114
-score: 6.59
+score: 4.901
 title: Ulsan
 type: location
 snippet: South Korean industrial city on the East Sea, anchored by Hyundai shipyards,
   factories, and river parks.
+heritage: 3.081
+vibrancy: 5.506
+nature: 3.338
+off_the_beaten_track: 0.83
 ---
 
 Ulsan is South Korea's industrial powerhouse -- home to Hyundai's car factories and shipyards, the city hums with manufacturing energy that most tourists never see. With a population of over a million, it is the country's seventh-largest city, sprawling across a wide valley between mountains and the East Sea coast.

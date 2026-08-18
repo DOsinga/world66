@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Canaveral_National_Seashor
 latitude: 28.7675
 loc_type: feature
 longitude: -80.7769
-score: 7.46
+score: 5.625
 snippet: Protected Space Coast barrier island of wild beaches, shell mounds, lagoon
   water, and rocket views.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Mosquito_Lagoon
 title: Canaveral National Seashore
 type: location
+heritage: 2.21
+vibrancy: 1.571
+nature: 7.674
+off_the_beaten_track: 3.423
 ---
 
 Canaveral National Seashore protects one of the longest undeveloped stretches of Atlantic coast in Florida, a barrier island caught between ocean, lagoon, and space-age infrastructure. It sits on the northern edge of the Kennedy Space Center landscape, so the view can swing from sea oats and turtle tracks to rocket gantries on the horizon.

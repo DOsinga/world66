@@ -4,14 +4,19 @@ type: location
 loc_type: city
 latitude: 35.7767
 longitude: 140.3183
-score: 7.4
-snippet: Temple town beside Tokyo's main airport, with Shinsho-ji, old shopfronts, gardens, and eel restaurants.
+score: 3.69
+snippet: Temple town beside Tokyo's main airport, with Shinsho-ji, old shopfronts,
+  gardens, and eel restaurants.
 sources:
-  - https://en.wikivoyage.org/wiki/Narita
-  - https://www.japan.travel/en/spot/1549/
-  - https://www.nrtk.jp/translate/index.php?lang=en&path=%2Fenjoy%2Fattraction%2Fomotesando.html
-  - https://narita.com/topics/archives/81?lng=en
+- https://en.wikivoyage.org/wiki/Narita
+- https://www.japan.travel/en/spot/1549/
+- https://www.nrtk.jp/translate/index.php?lang=en&path=%2Fenjoy%2Fattraction%2Fomotesando.html
+- https://narita.com/topics/archives/81?lng=en
 wikidata: Q273798
+heritage: 4.641
+vibrancy: 2.42
+nature: 1.985
+off_the_beaten_track: 1.083
 ---
 
 Narita is easy to dismiss as the name on an airport ticket, but the old town is worth keeping a few hours for. Between Narita and Keisei Narita stations, the road bends downhill into a temple approach lined with wooden shopfronts, rice-cracker stalls, pickle shops, and restaurants grilling eel over charcoal.

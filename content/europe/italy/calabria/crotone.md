@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Crotone_vista_dal_volo_Rya
 latitude: 39.0833
 loc_type: city
 longitude: 17.1167
-score: 7.34
+score: 4.105
 snippet: Ionian Calabrian port city on ancient Kroton, with Magna Graecia history
   and a headland old town.
 sources:
@@ -18,6 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Temple_of_Juno_Lacinia_(Crotone)
 title: Crotone
 type: location
+heritage: 4.381
+vibrancy: 3.039
+nature: 4.506
+off_the_beaten_track: 1.895
 ---
 
 Crotone sits on the ball of Italy's boot, facing the Ionian Sea in a part of Calabria that most travellers skip entirely. That is their loss. The city was founded around 710 BC as the Greek colony of Kroton, and for two centuries it was one of the most powerful cities of Magna Graecia — a place where the mathematician Pythagoras ran his philosophical school and where Olympic athletes were trained to an almost fanatical degree. The ancient city produced more Olympic champions than any other Greek colony, a fact the locals have not forgotten.

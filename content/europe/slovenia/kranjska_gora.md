@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kranjska_Gora_(40186131781
 latitude: 46.4854
 loc_type: city
 longitude: 13.7871
-score: 7.66
+score: 5.772
 snippet: Slovenian Alpine resort town for skiing, Planica ski flying, and the Vršič
   Pass road.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Vr%C5%A1i%C4%8D_Pass
 title: Kranjska Gora
 type: location
+heritage: 2.868
+vibrancy: 2.627
+nature: 7.677
+off_the_beaten_track: 3.128
 ---
 
 Kranjska Gora is Slovenia's best-known mountain resort, tucked into the far northwest where the Julian Alps press against Austria and Italy. It is busier and more developed than the quieter valleys around [Lake Bohinj](/europe/slovenia/lakebohinj), but it earns that traffic with skiing, walking, cycling, and some of the country's most dramatic road scenery.

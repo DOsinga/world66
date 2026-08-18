@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Lion_at_Pendjari_National_
 latitude: 11.5
 loc_type: feature
 longitude: 2.1
-score: 7.5
+score: 6.049
 snippet: Benin's two great wildlife reserves — Pendjari and W — together making the
   country one of the last West African strongholds for lion, elephant, and buffalo.
 title: National parks
 type: location
+heritage: 4.058
+vibrancy: 1.514
+nature: 7.656
+off_the_beaten_track: 5.06
 ---
 
 Benin's protected areas are concentrated in the far north of the country, where two contiguous wildlife reserves form the Beninese portion of the W-Arly-Pendjari (WAP) complex — the largest intact savanna ecosystem in West Africa. Together, the two parks make Benin the most rewarding wildlife destination in the region and the only realistic place to look for West African lion, an almost-extinct subspecies that has vanished from nearly all of its historic range.

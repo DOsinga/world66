@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_of_Arugam_Bay.jpg
 latitude: 6.8468
 loc_type: city
 longitude: 81.8306
-score: 8.43
+score: 5.597
 snippet: Sri Lankan surf village on the southeastern coast, known for long right-hand
   breaks and dry-zone sunshine.
 title: Arugam Bay
 type: location
+heritage: 3.486
+vibrancy: 4.259
+nature: 6.618
+off_the_beaten_track: 3.076
 ---
 
 Arugam Bay is one of the world's top surfing destinations — a laid-back village on Sri Lanka's southeastern coast where the Indian Ocean delivers long, consistent right-hand breaks from April through August. It sits about 320 km from Colombo, deep in the island's dry zone, which means sunshine when the rest of Sri Lanka is being rained on.

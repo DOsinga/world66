@@ -3,13 +3,18 @@ title: Port St. Joe
 type: location
 loc_type: city
 latitude: 29.8119
-longitude: -85.3030
-score: 7.1
-snippet: Quiet Forgotten Coast port town on St. Joseph Bay, with lighthouse history and empty Gulf beaches.
+longitude: -85.303
+score: 4.402
+snippet: Quiet Forgotten Coast port town on St. Joseph Bay, with lighthouse history
+  and empty Gulf beaches.
 sources:
-  - https://en.wikivoyage.org/wiki/Port_St._Joe
-  - https://www.visitflorida.com/places-to-go/northwest/port-st-joe/
-  - https://www.floridastateparks.org/parks-and-trails/constitution-convention-museum-state-park
+- https://en.wikivoyage.org/wiki/Port_St._Joe
+- https://www.visitflorida.com/places-to-go/northwest/port-st-joe/
+- https://www.floridastateparks.org/parks-and-trails/constitution-convention-museum-state-park
+heritage: 2.783
+vibrancy: 2.671
+nature: 5.532
+off_the_beaten_track: 2.2
 ---
 
 Port St. Joe sits on St. Joseph Bay, between Panama City and Apalachicola, and feels like the Florida Panhandle before the condo towers arrived. The downtown is small and walkable, the bay is shallow and clear, and the main pleasures are practical ones: seafood, boat ramps, quiet beaches, and long views across the water to Cape San Blas.

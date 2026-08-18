@@ -5,11 +5,15 @@ done:
 latitude: 16.4583
 loc_type: feature
 longitude: 107.635
-score: 7.38
+score: 4.597
 snippet: Local beach east of Hue where the Huong River meets Tam Giang Lagoon and
   the sea.
 title: Thuan An Beach
 type: location
+heritage: 1.775
+vibrancy: 1.726
+nature: 6.109
+off_the_beaten_track: 3.332
 ---
 
 Thuan An Beach lies just 15 kilometres east of Hue, where the Huong River flows into the [Tam Giang Lagoon](/asia/vietnam/aroundhue/thuananbeach/tam_giang_lagoon) and out to the South China Sea. The drive is pleasant — the road follows the river past temples, pagodas and rice fields.

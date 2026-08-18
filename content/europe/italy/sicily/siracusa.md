@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Lungomare_d%27Ortigia,_Ort
 latitude: 37.0646
 loc_type: city
 longitude: 15.2907
-score: 9.28
+score: 6.042
 title: Siracusa
 snippet: Ancient Sicilian city where Greek temples, Baroque Ortigia, and Mediterranean
   harbour life overlap.
 type: location
+heritage: 6.819
+vibrancy: 5.546
+nature: 4.181
+off_the_beaten_track: 1.811
 ---
 
 Siracusa was for a short period the main rival of Athens, the capital of one of the most powerful states in the ancient Mediterranean. It has been continuously inhabited since, which explains why some of the ancient remains can be hard to spot amid the later layers.

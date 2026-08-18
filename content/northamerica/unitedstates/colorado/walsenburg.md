@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 37.6278
 longitude: -104.7839
-score: 6.4
+score: 4.822
 snippet: Southern Colorado crossroads town under the Spanish Peaks, with mining history
   and lake-country access.
 sources:
@@ -15,6 +15,10 @@ image: walsenburg.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Walsenburg_and_the_Spanish_Peaks.JPG
 image_license: CC BY 4.0
 image_attribution: Jeffrey Beall
+heritage: 3.974
+vibrancy: 2.386
+nature: 5.789
+off_the_beaten_track: 3.723
 ---
 
 Walsenburg is a small southern Colorado city where the plains begin to wrinkle into the Sangre de Cristo foothills. It sits at the turn from Interstate 25 onto US 160, the road west toward La Veta Pass and the San Luis Valley, so many travellers know it only as a fuel stop. Slow down and it becomes a useful, rough-edged base for the Spanish Peaks country.

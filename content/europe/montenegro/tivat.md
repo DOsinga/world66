@@ -4,13 +4,17 @@ done:
 latitude: 42.43
 loc_type: city
 longitude: 18.7
-score: 7.22
+score: 5.289
 snippet: Bay of Kotor town where a former naval base has become Montenegro's glossy
   marina quarter.
 sources:
 - https://en.wikipedia.org/wiki/Tivat
 title: Tivat
 type: location
+heritage: 3.864
+vibrancy: 5.146
+nature: 5.657
+off_the_beaten_track: 1.93
 ---
 
 Tivat sits on the gentler, sunnier side of the [Bay of Kotor](/europe/montenegro/bayofkotor), without [Kotor](/europe/montenegro/kotor)'s walled drama or [Perast](/europe/montenegro/perast)'s baroque theatre. For a long time it was the practical town of the bay: airport, naval base, ferry road, local waterfront. Then the old Yugoslav military yard was remade as [Porto Montenegro](/europe/montenegro/tivat/porto_montenegro), and Tivat acquired a glossy marina district almost overnight.

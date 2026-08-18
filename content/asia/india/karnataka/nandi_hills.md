@@ -4,7 +4,7 @@ type: location
 loc_type: feature
 latitude: 13.3862588
 longitude: 77.7009344
-score: 7.0
+score: 4.534
 snippet: Hill station and old fort above the plains northeast of Bangalore.
 sources:
 - https://en.wikivoyage.org/wiki/Nandi_Hills
@@ -15,6 +15,10 @@ image: nandi_hills.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Nandi_Hills_Trekking_Path.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Wise Droid
+heritage: 3.748
+vibrancy: 4.192
+nature: 5.002
+off_the_beaten_track: 2.507
 ---
 
 Nandi Hills is the classic early-morning escape from [Bangalore](/asia/india/karnataka/bangalore): a steep, fortified hill station where the plains fall away into mist, wind, and sunrise light. It is close enough for a half-day trip, but it has more identity than a simple viewpoint.

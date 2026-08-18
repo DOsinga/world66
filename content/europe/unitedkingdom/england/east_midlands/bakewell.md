@@ -2,7 +2,7 @@
 latitude: 53.2138
 loc_type: city
 longitude: -1.6741
-score: 0.72
+score: 4.418
 snippet: The Peak District's main market town, home of the original Bakewell pudding
   and a gateway to Chatsworth House.
 tags:
@@ -13,6 +13,10 @@ image: bakewell.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bakewell_-_geograph.org.uk_-_5493856.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Peter McDermott
+heritage: 5.178
+vibrancy: 2.575
+nature: 4.098
+off_the_beaten_track: 2.458
 ---
 
 Bakewell is the largest town within the Peak District National Park and its natural centre of gravity — a stone-built market town on the River Wye that has served the surrounding villages and farms since the Norman conquest. The Monday market, one of the oldest in England, still draws people from across the Peak.

@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ayuntamiento_de_Oporto,_Po
 latitude: 41.150219
 loc_type: city
 longitude: -8.61035
-score: 9.39
+score: 7.982
 snippet: Steep northern Portuguese city where Douro riverfront streets face the port
   lodges of Vila Nova de Gaia.
 title: Oporto
 type: location
+heritage: 7.332
+vibrancy: 8.289
+nature: 6.497
+off_the_beaten_track: 2.101
 ---
 
 Porto (or Oporto) is the capital of northern Portugal, built steep and dense above the right bank of the Douro river. It is Portugal's second city and its working heart — less polished than Lisbon, more industrial in character, and proud of it. The Portuguese saying goes: "Lisbon shows off, Braga prays, Coimbra studies and Porto works."

@@ -5,11 +5,15 @@ done:
 latitude: 15.603183
 loc_type: city
 longitude: 39.463697
-score: 6.62
+score: 5.194
 snippet: Eritrean Red Sea port spread across islands and causeways, with Ottoman-Egyptian
   and Italian colonial architecture.
 title: Massawa
 type: location
+heritage: 4.341
+vibrancy: 2.105
+nature: 4.724
+off_the_beaten_track: 8.512
 ---
 
 Massawa is Eritrea's main port and one of the most atmospheric towns on the Red Sea coast. The city is spread across two islands and a strip of mainland, connected by causeways. Before Eritrean independence it was the headquarters of the Ethiopian navy, and the war of independence left it badly damaged — bombed-out buildings still stand alongside functioning ones. But the town has great charm, especially at night when the narrow alleyways between the Ottoman-Egyptian coral-block houses and crumbling Italian colonial facades come alive with people.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Mallaig_Harbour_-_geograph
 latitude: 57.006132
 loc_type: city
 longitude: -5.829449
-score: 8.09
+score: 4.987
 snippet: West Highland fishing town and ferry port, opening onto Skye, Knoydart, and
   the Small Isles.
 title: Mallaig
 type: location
+heritage: 3.923
+vibrancy: 2.515
+nature: 6.067
+off_the_beaten_track: 5.046
 ---
 
 Mallaig is a small fishing town on the west coast of the Scottish Highlands, the terminus of the West Highland Line and the busiest ferry port in this part of the country. Most travellers arrive from [Fort William](/europe/unitedkingdom/scotland/fort_william) either by car along the Road to the Isles or — much more memorably — on the train that grinds its way over Glenfinnan and along Loch Eilt before dropping to the sea at Arisaig. A longer, quieter route runs up from the south through Morvern and Moidart and is at least as scenic.

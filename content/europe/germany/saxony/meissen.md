@@ -8,10 +8,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Meissen_-_Albrechtsburg_un
 latitude: 51.163087
 loc_type: city
 longitude: 13.470494
-score: 7.97
+score: 5.541
 title: Meissen
 type: location
 snippet: Elbe city near Dresden, famous as the birthplace of European hard-paste porcelain.
+heritage: 7.297
+vibrancy: 2.968
+nature: 2.824
+off_the_beaten_track: 1.678
 ---
 
 Meissen is a small city on the Elbe about 25km northwest of Dresden, famous across Europe as the birthplace of European hard-paste porcelain. The [Meissen factory](/europe/germany/saxony/meissen/porcelain_manufactory) was established in 1710 when Augustus the Strong, Elector of Saxony, set alchemist Johann Friedrich Böttger to work producing something to rival Chinese porcelain. The result was the white gold that bears the city's name, still produced here and marked with the crossed blue swords trademark.

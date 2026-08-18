@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Nanumanga_STS51B.jpg
 latitude: -6.287145
 loc_type: city
 longitude: 176.319991
-score: 6.67
+score: 5.379
 title: Nanumanga island
 type: location
 snippet: Reef-enclosed Tuvalu island with landlocked ponds instead of a central atoll
   lagoon.
+heritage: 2.828
+vibrancy: 1.711
+nature: 6.171
+off_the_beaten_track: 7.101
 ---
 
 Nanumanga is a small, reef-enclosed island in the northern part of [Tuvalu](/australiaandpacific/tuvalu), and one of the few islands in the country that is not a true atoll. Instead of a central lagoon, Nanumanga has two small, landlocked ponds — the larger [Vaiatoa](/australiaandpacific/tuvalu/nanumangaisland/vaiatoa_lagoon) in the north and the smaller [Ha'apai](/australiaandpacific/tuvalu/nanumangaisland/haapai_lagoon) in the south — surrounded by dense vegetation. The island is roughly oval, about three kilometres long, and home to a community of around 500 people living in two villages, [Tokelau](/australiaandpacific/tuvalu/nanumangaisland/tokelau_village) and Tonga, on the western shore.

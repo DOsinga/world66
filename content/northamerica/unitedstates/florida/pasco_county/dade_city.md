@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Dade_City,_Florid
 latitude: 28.364725
 loc_type: city
 longitude: -82.195918
-score: 5.75
+score: 3.475
 snippet: Eastern Pasco County town with brick streets, antique shops, and a courthouse-centred
   downtown.
 title: Dade City
 type: location
+heritage: 2.427
+vibrancy: 2.082
+nature: 4.358
+off_the_beaten_track: 1.871
 ---
 
 Tucked among the rolling hills of eastern Pasco County, Dade City is the county seat and makes for a pleasant small-town getaway. The downtown is compact and walkable, centered on the [Historic Pasco County Courthouse](/northamerica/unitedstates/florida/pasco_county/dade_city/pasco_county_courthouse) and lined with brick roads, early twentieth-century buildings, and more than fifty antique shops, gift stores, and boutiques. Florida Monthly has recognized it as one of the best antiquing destinations in the state.

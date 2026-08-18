@@ -16,7 +16,7 @@ quick_facts:
   Leptis Magna: Roman ruins nearby
   Population: ~1.2 million
   Red Castle: The Assai al-Hamra fortress
-score: 5.16
+score: 6.094
 snippet: Mediterranean Libyan capital where an old medina and Roman arch survive beside
   oil-era concrete sprawl.
 tip: Tripoli's walled Old City (the Medina) hides Roman arches, Ottoman mosques and
@@ -26,6 +26,10 @@ tip: Tripoli's walled Old City (the Medina) hides Roman arches, Ottoman mosques 
   careful local arrangement.
 title: Tripoli
 type: location
+heritage: 7.421
+vibrancy: 1.905
+nature: 2.512
+off_the_beaten_track: 7.112
 ---
 
 Tripoli is the capital of Libya and the seat of the internationally recognised Government of National Unity (GNU). It is a city of about 1.2 million people, built at the edge of the Sahara where it meets the Mediterranean. The old town retains genuine character despite the concrete sprawl of the oil-boom decades.

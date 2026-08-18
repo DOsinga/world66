@@ -5,7 +5,7 @@ done:
 latitude: 13.0827
 loc_type: city
 longitude: -59.5415
-score: 8.6
+score: 6.407
 snippet: South coast Barbados parish with calm swimming beaches, St. Lawrence Gap
   nightlife, and the island airport
 sources:
@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Oistins
 title: Christ Church
 type: location
+heritage: 7.902
+vibrancy: 4.521
+nature: 3.438
+off_the_beaten_track: 2.292
 ---
 
 Christ Church is the most visited parish in Barbados, stretching along the island's south coast from the outskirts of Bridgetown to Grantley Adams International Airport. The calm, turquoise Caribbean Sea here is gentler than the Atlantic surf on the east coast, making it the island's natural choice for swimming, snorkelling, and watersports of every kind.

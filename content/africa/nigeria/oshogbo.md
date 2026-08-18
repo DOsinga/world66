@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Osun_Osogbo_Sacred_Grove_5
 latitude: 7.779167
 loc_type: city
 longitude: 4.553889
-score: 6.33
+score: 5.131
 snippet: Yoruba art city in Osun State, anchored by the Osun-Osogbo Sacred Grove and
   studios
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Osun-Osogbo
 title: Oshogbo
 type: location
+heritage: 5.158
+vibrancy: 5.044
+nature: 5.355
+off_the_beaten_track: 4.848
 ---
 
 Oshogbo is the art capital of Nigeria. The city is filled with art studios that produce some of Africa's most inspiring works. The [Oja Oba market](/africa/nigeria/oshogbo/oja_oba_market) is a good place to shop for souvenirs, especially if you're into juju. The market is across the street from the Oba's palace.

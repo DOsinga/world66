@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Yamna,_Yaremche,_Ivano-Fra
 latitude: 48.450413
 loc_type: city
 longitude: 24.550955
-score: 7.61
+score: 5.658
 snippet: Ukrainian Carpathian mountain town with Hutsul culture, Prut River gorge,
   and national-park trails
 title: Yaremche
 type: location
+heritage: 4.338
+vibrancy: 2.448
+nature: 6.931
+off_the_beaten_track: 4.546
 ---
 
 Yaremche is a small mountain town of about 8,800 people in western Ukraine's Ivano-Frankivsk oblast, sitting right at the entrance to the Carpathian National Park. It is the main base for exploring the Ukrainian Carpathians — a region of forested ridges, alpine meadows, and Hutsul mountain culture that feels a world away from Ukraine's flat steppe heartland.

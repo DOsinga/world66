@@ -5,11 +5,15 @@ done:
 latitude: 8.9475
 loc_type: city
 longitude: 125.5432
-score: 6.72
+score: 4.168
 snippet: Mindanao river city on Butuan Bay, known for ancient Balangay boats and precolonial
   trade finds.
 title: Butuan
 type: location
+heritage: 4.329
+vibrancy: 3.209
+nature: 4.626
+off_the_beaten_track: 4.935
 ---
 
 Butuan is a regional centre in the CARAGA region of northeastern Mindanao, on the [Agusan River](/asia/philippines/butuan/agusan_river) delta where it meets Butuan Bay. The city is best known among historians and archaeologists as the site of the Balangay boat excavations — ancient plank-built boats dating to around 320 CE, making them among the oldest watercraft found in Southeast Asia, and evidence that Butuan was a significant maritime trading centre long before Spanish colonisation.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Winter_Park_Ski_Resort_-_C
 latitude: 39.8917
 loc_type: city
 longitude: -105.7631
-score: 7.98
+score: 3.658
 snippet: Rocky Mountain ski town linked to Denver by the Winter Park Express and Mary
   Jane's mogul terrain.
 title: Winter Park
 type: location
+heritage: 0.751
+vibrancy: 3.014
+nature: 4.213
+off_the_beaten_track: 2.239
 ---
 
 Winter Park is a ski town tucked into the Rocky Mountains about 70 miles northwest of Denver, sitting at an elevation of nearly 9,000 feet. It is one of Colorado's most accessible mountain resorts — the drive from Denver takes under two hours, and the [Winter Park Express ski train](/northamerica/unitedstates/colorado/winter_park/ski_train) runs seasonally from Union Station directly to the base of the slopes via the Moffat Tunnel through the Continental Divide.

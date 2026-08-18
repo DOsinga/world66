@@ -5,7 +5,7 @@ done:
 latitude: 31.903726
 loc_type: city
 longitude: 75.227559
-score: 5.98
+score: 2.686
 snippet: Northern Punjab border district and Sikh pilgrimage area, including Dera
   Baba Nanak on the Ravi River.
 sources:
@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Dera_Baba_Nanak
 title: Gurdaspur
 type: location
+heritage: 2.875
+vibrancy: 1.607
+nature: 1.508
+off_the_beaten_track: 4.171
 ---
 
 Gurdaspur is a border district in northern Punjab, sitting close to the Pakistani frontier and serving historically as a gateway to Kashmir. The district's history runs deep — from ancient habitation through Mughal rule to the Sikh kingdoms and the British Raj. The 1947 Partition cut through it with particular violence; the new border drew families, friends, and communities apart in ways still felt today.

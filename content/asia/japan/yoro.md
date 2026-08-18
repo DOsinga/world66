@@ -4,14 +4,18 @@ type: location
 loc_type: city
 latitude: 35.3
 longitude: 136.5667
-score: 7.1
+score: 4.604
 snippet: Gifu foothill town known for a famous waterfall and a disorienting art park.
 wikidata: Q153814
 sources:
-  - https://en.wikivoyage.org/wiki/Yoro
-  - https://www.yoro-park.com/en/
-  - https://www.reversibledestiny.org/site-of-reversible-destiny-yoro/
-  - https://en.wikipedia.org/wiki/Y%C5%8Dr%C5%8D_Falls
+- https://en.wikivoyage.org/wiki/Yoro
+- https://www.yoro-park.com/en/
+- https://www.reversibledestiny.org/site-of-reversible-destiny-yoro/
+- https://en.wikipedia.org/wiki/Y%C5%8Dr%C5%8D_Falls
+heritage: 2.796
+vibrancy: 1.993
+nature: 5.951
+off_the_beaten_track: 2.919
 ---
 
 Yoro sits where the flat land west of Nagoya rises into the Yoro Mountains. The town itself is quiet, but the foothills above it have two strong reasons to come: [Yoro Falls](/asia/japan/yoro/yoro_falls) and the strange, physical art landscape of the [Site of Reversible Destiny](/asia/japan/yoro/site_of_reversible_destiny).

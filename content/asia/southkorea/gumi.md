@@ -5,7 +5,7 @@ loc_type: city
 latitude: 36.1195
 longitude: 128.3446
 wikidata: Q42073
-score: 6.4
+score: 3.151
 snippet: Industrial Nakdong River city with Geumosan hikes and early Silla Buddhist
   sites.
 sources:
@@ -17,6 +17,10 @@ image: gumi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gumi_nature.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Kmonsoor
+heritage: 2.475
+vibrancy: 3.131
+nature: 3.203
+off_the_beaten_track: 1.857
 ---
 
 *Asia > South Korea > Gumi*

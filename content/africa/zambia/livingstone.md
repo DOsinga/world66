@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cataratas_Victoria,_Zambia
 latitude: -17.8508
 loc_type: city
 longitude: 25.8556
-score: 8.66
+score: 5.883
 snippet: Zambian town beside Victoria Falls, founded in 1905 as a British South Africa
   Company hub.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Livingstone
 title: Livingstone
 type: location
+heritage: 3.227
+vibrancy: 1.386
+nature: 7.197
+off_the_beaten_track: 6.298
 ---
 
 Livingstone is the town that grew up in the shadow of Victoria Falls, and it has never quite been able to compete with the spectacle at its doorstep. That is no criticism — the falls are overwhelming, and few towns could hold their own against one of the world's largest waterfalls. What Livingstone offers is the Zambian side of the experience: a relaxed, functional base for visiting the falls and the surrounding national park, with fewer crowds and lower prices than its glossier neighbour Livingstone (Zimbabwe) across the border.

@@ -14,7 +14,11 @@ sources:
 - https://en.wikivoyage.org/wiki/Heihe
 title: Heihe
 type: location
-score: 6.01
+score: 3.717
+heritage: 2.583
+vibrancy: 1.968
+nature: 4.453
+off_the_beaten_track: 4.286
 ---
 
 Heihe sits on the Chinese bank of the [Amur River](/asia/china/heilongjiang/heihe/amur_river_crossing) — the Heilong Jiang itself — staring directly across at the Russian city of Blagoveshchensk. The two cities are close enough that on a clear day you can read the Cyrillic signs on the opposite shore, and the relationship between them defines everything about Heihe: the town exists, in large part, to sell things to Russians and to let Chinese tourists marvel at the proximity of Russia without needing a visa. In summer, ferries make the crossing in minutes; in winter, when the river freezes solid, buses drive across on the ice.

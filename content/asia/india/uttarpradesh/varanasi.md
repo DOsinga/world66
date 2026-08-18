@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Varanasi,_India,_Ghats,_Cr
 latitude: 25.335649
 loc_type: city
 longitude: 83.007629
-score: 9.22
+score: 6.895
 snippet: Ancient Hindu sacred city on the Ganges, where ghats, cremations, and dawn
   rituals define daily life
 title: Varanasi
 type: location
+heritage: 7.483
+vibrancy: 6.724
+nature: 4.397
+off_the_beaten_track: 1.982
 ---
 
 Varanasi is one of the oldest continually inhabited cities in the world and the spiritual heart of Hinduism. Situated on the west bank of the Ganges in Uttar Pradesh, it is a city where death and life exist side by side with a directness that can be overwhelming — cremation ghats burn day and night, pilgrims bathe at dawn, and sadhus sit in meditation while children fly kites overhead.

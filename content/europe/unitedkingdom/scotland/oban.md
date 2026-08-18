@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Oban_-_North_Pier_-_geogra
 latitude: 56.412017
 loc_type: city
 longitude: -5.472373
-score: 8.53
+score: 5.32
 snippet: Argyll harbour town and ferry gateway to Mull, Lismore, Colonsay, and the
   Inner Hebrides.
 title: Oban
 type: location
+heritage: 5.361
+vibrancy: 4.315
+nature: 5.974
+off_the_beaten_track: 4.249
 ---
 
 Oban is where western Scotland tips into the sea. This compact harbor town in Argyll serves as the main departure point for the Inner Hebrides — ferries to Mull, Lismore, Colonsay, Coll, Tiree, Islay, and the islands beyond leave from the bay throughout the day — and the waterfront has the purposeful, slightly salty energy that comes with a working port. Fishing boats, CalMac ferries, and yachts share the harbor, and the hills behind the town rise steeply, closing it in from the east and giving Oban the feeling of a place that turns toward the water as a matter of necessity.

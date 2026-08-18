@@ -5,11 +5,15 @@ done:
 latitude: 11.532544
 loc_type: city
 longitude: -10.672727
-score: 4.64
+score: 5.572
 snippet: Remote Guinean town with a major West African mosque founded by El Hadj Umar
   Tall.
 title: Dinguiraye
 type: location
+heritage: 3.551
+vibrancy: 1.523
+nature: 6.761
+off_the_beaten_track: 6.145
 ---
 
 Dinguiraye is a remote town in central Guinea, known primarily for its historic mosque -- one of the most important Islamic sites in West Africa. The [Grande Mosquée de Dinguiraye](/africa/guineeconakry/dinguiraye/grand_mosque) was founded in the 19th century by the Islamic leader El Hadj Umar Tall, who launched his jihad from here across much of the western Sahel. The mosque remains a place of pilgrimage and spiritual significance.

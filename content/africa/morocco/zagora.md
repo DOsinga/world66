@@ -10,10 +10,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Camel_trekking_for_the_tou
 latitude: 30.327905
 loc_type: city
 longitude: -5.836996
-score: 7.94
+score: 4.986
 title: Zagora
 type: location
 snippet: Southern Moroccan desert town at the edge of the Draa Valley and Sahara routes.
+heritage: 4.541
+vibrancy: 2.161
+nature: 5.803
+off_the_beaten_track: 6.161
 ---
 
 At first sight Zagora is a dusty, single-street town. What saves it from being just another sun-bleached crossroads is its position: this is where the road from [Ouarzazate](/africa/morocco/ouarzazate) finally runs out of valley, and the Sahara begins. The famous painted sign — "Tombouctou, 52 jours" — once pointed from somewhere near here across an open desert that you could in fact cross by camel, and which still gives Zagora its identity as the threshold of the south.

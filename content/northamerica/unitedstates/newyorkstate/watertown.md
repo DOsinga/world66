@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: 43.9748
 longitude: -75.9108
-score: 6.4
-snippet: North Country river city with Victorian civic buildings, whitewater, and an Olmsted-era hilltop park.
+score: 4.58
+snippet: North Country river city with Victorian civic buildings, whitewater, and
+  an Olmsted-era hilltop park.
 sources:
-  - https://en.wikivoyage.org/wiki/Watertown_(New_York)
-  - https://www.watertown-ny.gov/LocalAttractions
+- https://en.wikivoyage.org/wiki/Watertown_(New_York)
+- https://www.watertown-ny.gov/LocalAttractions
+heritage: 3.517
+vibrancy: 3.481
+nature: 5.417
+off_the_beaten_track: 1.903
 ---
 
 Watertown is the main city of New York's North Country, a working place on the Black River rather than a polished resort town. Its appeal is compact but real: a handsome old centre, a surprising amount of 19th-century architecture, and a river gorge that gives the city more outdoor energy than you might expect from a county seat.

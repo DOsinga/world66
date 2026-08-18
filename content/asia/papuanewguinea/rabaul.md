@@ -5,7 +5,7 @@ done:
 latitude: -4.198459
 loc_type: city
 longitude: 152.172829
-score: 7.39
+score: 5.869
 title: Rabaul
 snippet: Volcanic harbour town on New Britain, half-buried by the 1994 eruption of
   the Rabaul caldera
@@ -14,6 +14,10 @@ image: rabaul.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Rabaul_from_Vulcanology_Observatory.jpg
 image_license: CC BY 2.0
 image_attribution: Stefan Krasowski from New York, NY, USA
+heritage: 4.865
+vibrancy: 0.627
+nature: 6.968
+off_the_beaten_track: 6.978
 ---
 
 Rabaul sits at the edge of one of the world's most active volcanic calderas, on the northeastern tip of New Britain island. It was once the most elegant colonial town in the South Pacific — broad avenues, leafy gardens, and a magnificent deepwater harbour that made it the administrative centre of German New Guinea and later Australian-governed PNG. On 19 September 1994, two volcanoes erupted simultaneously and buried much of the town under a metre of ash. Rabaul has never fully rebuilt, and that half-buried, end-of-days quality is now one of its most compelling features.

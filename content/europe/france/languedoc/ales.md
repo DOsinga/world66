@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ales_from_Belvedere.jpg
 latitude: 44.1272
 loc_type: city
 longitude: 4.0808
-score: 7.26
+score: 4.811
 snippet: Southern gateway town to the Cévennes, with coal-mining history and quick
   mountain-valley access
 sources:
@@ -18,6 +18,10 @@ tags:
 - cevennes
 title: Alès
 type: location
+heritage: 2.789
+vibrancy: 2.004
+nature: 6.275
+off_the_beaten_track: 2.366
 ---
 
 Alès is the southern gateway to the Cévennes, a working town on the Gardon rather than a polished hill village. It grew on coal, silk, and industry, and that gives it a blunt, useful character: trains, markets, museums, and quick access to the valleys and ridges that make the Cévennes worth the trip.

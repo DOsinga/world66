@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Daraga-church_on_a_hill.jp
 latitude: 13.148
 loc_type: city
 longitude: 123.7121
-score: 6.68
+score: 3.116
 snippet: Albay municipality known for Cagsawa's buried church tower below the cone
   of Mayon Volcano.
 title: Daraga
 type: location
+heritage: 3.246
+vibrancy: 2.291
+nature: 3.454
+off_the_beaten_track: 2.918
 ---
 
 Daraga is a quiet municipality in Albay province, in the Bicol region of the Philippines, best known for something it didn't plan to have: the dramatic ruins of the [Cagsawa church](/asia/philippines/daraga/cagsawa_ruins), buried to its bell tower by the 1814 eruption of [Mayon Volcano](/asia/philippines/daraga/mayon_volcano). That bell tower, jutting from green fields with the near-perfect cone of Mayon rising behind it, has become one of the most photographed scenes in the Philippines.

@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sigatoka_13.jpg
 latitude: -18.15
 loc_type: city
 longitude: 177.5
-score: 7.0
+score: 5.344
 snippet: Coral Coast market town on Viti Levu, beside dunes, river villages, and old
   hill forts.
 sources:
@@ -17,6 +17,10 @@ sources:
 title: Sigatoka
 type: location
 wikidata: Q26720
+heritage: 4.357
+vibrancy: 3.687
+nature: 6.436
+off_the_beaten_track: 4.157
 ---
 
 Sigatoka is the main town on Fiji's Coral Coast, set where the Sigatoka River reaches the dry southwest shore of Viti Levu. It is not a resort town in the polished sense. The centre is busy, practical, and market-driven, with farmers from the valley selling the produce that gives the area its "Salad Bowl" nickname.

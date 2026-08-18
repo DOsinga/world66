@@ -5,11 +5,15 @@ done:
 latitude: 37.354113
 loc_type: city
 longitude: -121.955174
-score: 6.42
+score: 4.689
 snippet: Silicon Valley city with mission history, technology campuses, and Levi's
   Stadium near San Jose
 title: Santa Clara
 type: location
+heritage: 2.579
+vibrancy: 5.475
+nature: 2.656
+off_the_beaten_track: 0.495
 ---
 
 Santa Clara is a city in the heart of Silicon Valley, sandwiched between [San Jose](/northamerica/unitedstates/california/sanfranciscobayarea/sanjose) and Sunnyvale in the southern [San Francisco Bay Area](/northamerica/unitedstates/california/sanfranciscobayarea). It is home to the headquarters of Intel and countless other tech companies, but for visitors the main draws are [California's Great America](/northamerica/unitedstates/california/santaclara/great_america) theme park and [Levi's Stadium](/northamerica/unitedstates/california/santaclara/levis_stadium), where the San Francisco 49ers play their home games.

@@ -3,15 +3,20 @@ title: Scugog
 type: location
 loc_type: city
 latitude: 44.1001
-longitude: -78.9400
+longitude: -78.94
 wikidata: Q386919
-score: 6.2
-snippet: Lake Scugog township anchored by Port Perry's heritage downtown and cottage-country shoreline.
+score: 4.491
+snippet: Lake Scugog township anchored by Port Perry's heritage downtown and cottage-country
+  shoreline.
 sources:
-  - https://en.wikivoyage.org/wiki/Scugog
-  - https://www.scugogtourism.ca/
-  - https://www.destinationontario.com/en-ca/cities-towns/port-perry
-  - https://en.wikipedia.org/wiki/Scugog
+- https://en.wikivoyage.org/wiki/Scugog
+- https://www.scugogtourism.ca/
+- https://www.destinationontario.com/en-ca/cities-towns/port-perry
+- https://en.wikipedia.org/wiki/Scugog
+heritage: 2.611
+vibrancy: 2.431
+nature: 5.786
+off_the_beaten_track: 2.293
 ---
 
 Scugog is a rural township northeast of Toronto, best known through Port Perry, its lakeside service town on the southern shore of Lake Scugog. It is not a major destination in the Ontario sense; it is a good small day out when you want water, a heritage main street, and countryside without driving all the way into cottage country.

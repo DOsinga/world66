@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:2011-07-22_Rotary_snowplow
 latitude: 39.4817
 loc_type: city
 longitude: -106.0384
-score: 8.69
+score: 6.392
 snippet: Former Colorado mining town turned mountain resort, with a Victorian main
   street and high ski terrain.
 sources:
 - https://www.colorado.com/en/official-colorado-travel-resources/breckenridge-tourism-office
 title: Breckenridge
 type: location
+heritage: 5.152
+vibrancy: 4.541
+nature: 7.713
+off_the_beaten_track: 2.407
 ---
 
 Breckenridge is a former mining town that became one of Colorado's busiest mountain resorts without losing its Victorian main street. The ski area is huge, high, and easy to reach from Denver, but the town matters too: old false-front buildings, saloons, galleries, and a Blue River setting that feels more lived-in than many purpose-built resort villages.

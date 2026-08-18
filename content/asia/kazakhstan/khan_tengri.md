@@ -4,11 +4,15 @@ done:
 latitude: 43.221216
 loc_type: feature
 longitude: 76.927036
-score: 6.21
+score: 6.13
 snippet: Tien Shan mountain peak famed for its marble pyramid shape and pink sunset
   glow.
 title: Khan Tengri
 type: location
+heritage: 4.022
+vibrancy: 0.215
+nature: 7.331
+off_the_beaten_track: 7.113
 ---
 
 Khan Tengri — the "Celestial Emperor" — stands on the border between Kazakhstan and Kyrgyzstan, near their respective borders with China. One of the most famous peaks in the Tien Shan range, it is variously reported at 6,995 or 7,010 metres depending on whether the ice cap is included. The marble pyramid shape and the way it glows pink at sunset have made it the most celebrated mountain in Central Asia.

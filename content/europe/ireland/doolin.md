@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:095_Fisher_Street_in_Dooli
 latitude: 53.016329
 loc_type: city
 longitude: -9.37761
-score: 8.41
+score: 6.23
 snippet: Tiny Clare coast village where the Burren meets the Atlantic near the Cliffs
   of Moher.
 title: Doolin
 type: location
+heritage: 4.385
+vibrancy: 5.23
+nature: 7.129
+off_the_beaten_track: 4.302
 ---
 
 Doolin is a tiny village on the Clare coast, spread across three clusters of houses — Roadford, Fishstreet, and the pier — linked by a single road that ends where the limestone of [the Burren](/europe/ireland/doolin/the_burren) meets the Atlantic. Look south from [the pier](/europe/ireland/doolin/doolin_pier) and the [Cliffs of Moher](/europe/ireland/doolin/cliffs_of_moher) rise along the coast.

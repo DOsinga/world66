@@ -5,11 +5,15 @@ done:
 latitude: 36.3126
 loc_type: city
 longitude: -95.6161
-score: 6.28
+score: 2.172
 snippet: Route 66 Oklahoma city best known for Will Rogers and two unusually absorbing
   history museums.
 title: Claremore
 type: location
+heritage: 2.393
+vibrancy: 2.104
+nature: 1.832
+off_the_beaten_track: 1.096
 ---
 
 Located on historic Route 66 in Rogers County, Claremore is a small Oklahoma city of nearly 16,000 people best known as the home of Will Rogers, the Cherokee-born cowboy, humorist, and film star who became one of the most popular figures in 1930s America.

@@ -13,9 +13,13 @@ sources:
 - https://whc.unesco.org/en/list/701
 title: Canaima National Park
 type: location
-score: 8.9
+score: 6.481
 snippet: Vast Venezuelan tepui park of ancient sandstone plateaus, rainforest, savanna,
   and Angel Falls country.
+heritage: 1.642
+vibrancy: 0.924
+nature: 8.254
+off_the_beaten_track: 5.869
 ---
 
 Canaima National Park is a 30,000-square-kilometre stretch of tepui country in the far south of Bolívar state — bigger than Belgium, and one of the largest national parks in the world. It exists primarily to protect the western half of the Guayana highlands: vast tracts of savanna and rainforest broken by the dark, flat-topped sandstone plateaus that gave Conan Doyle his Lost World. About 65 percent of the park's surface is tepui rock, and the cliffs harbour some of the oldest exposed geology on Earth — close to two billion years.

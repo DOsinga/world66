@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Pearl_Marina_in_Nov_20
 latitude: 25.310881
 loc_type: city
 longitude: 51.508181
-score: 8.24
+score: 6.057
 snippet: Fast-grown Gulf capital with a pearl-diving past, West Bay skyline, and ambitious
   cultural museums.
 title: Doha
 type: location
+heritage: 4.618
+vibrancy: 6.554
+nature: 4.773
+off_the_beaten_track: 1.564
 ---
 
 Doha has grown up fast. Sixty years ago it was a pearl-diving port of perhaps fifteen thousand people; today it is the capital of one of the richest countries on earth, a city of three million where roughly 90 per cent of residents are foreign workers, and the skyline of West Bay competes with Dubai's and Abu Dhabi's for glossy 21st-century statement.

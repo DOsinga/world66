@@ -5,11 +5,15 @@ done:
 latitude: 59.459643
 loc_type: city
 longitude: 28.0421
-score: 6.85
+score: 3.707
 snippet: Small Estonian seaside resort near Narva, known for its long beach and wooden
   villas.
 title: Narva-Jõesuu
 type: location
+heritage: 3.613
+vibrancy: 2.36
+nature: 4.215
+off_the_beaten_track: 2.017
 ---
 
 Narva-Jõesuu is a small seaside resort town in northeastern Estonia, about 15 km north of [Narva](/europe/estonia/narva) on the Gulf of Finland. At the turn of the 19th century it became a fashionable summer retreat for wealthy visitors from St Petersburg, and the town still carries traces of that era in its [grand wooden villas](/europe/estonia/narvajesuu/wooden_villas) and leafy promenades.

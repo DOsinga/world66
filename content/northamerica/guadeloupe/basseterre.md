@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:La_Soufri%C3%A8re_vue_par_
 latitude: 16.0078
 loc_type: city
 longitude: -61.7068
-score: 7.98
+score: 5.849
 snippet: Guadeloupe capital beneath La Soufrière, with Creole streets, a colonial
   fort, and rainforest trails nearby
 title: Basse-Terre
 type: location
+heritage: 4.144
+vibrancy: 3.697
+nature: 7.279
+off_the_beaten_track: 3.822
 ---
 
 Basse-Terre is the administrative capital of [Guadeloupe](/northamerica/guadeloupe), a small city on the southwestern coast of the island's volcanic western wing. It sits at the foot of [La Soufrière](/northamerica/guadeloupe/basseterre/la_soufriere), an active volcano that rises to 1,467 metres and looms dramatically over the town. The city is quieter and considerably less touristy than Pointe-à-Pitre, with a colonial old town of narrow streets and colourful Creole houses, a 17th-century fort, and easy access to the [Guadeloupe National Park](/northamerica/guadeloupe/basseterre/guadeloupe_national_park).

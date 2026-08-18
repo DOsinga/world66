@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 45.25
 longitude: -74.133
-score: 6.5
+score: 3.413
 snippet: Montérégie canal city with a nautical downtown, big marina, textile history,
   and river beaches.
 wikidata: Q142039
@@ -16,6 +16,10 @@ image: salaberry_de_valleyfield.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Salaberry-de-Valleyfield_QC_1.JPG
 image_license: CC BY-SA 4.0
 image_attribution: User:P199
+heritage: 2.569
+vibrancy: 2.166
+nature: 4.201
+off_the_beaten_track: 1.686
 ---
 
 Salaberry-de-Valleyfield sits southwest of [Montreal](/northamerica/canada/quebec/montreal), where canals, bays, and the St Lawrence system give the downtown an unusually watery shape. It is not a grand old city, but it has enough nautical life, industrial history, and summer swimming to make a good Montérégie day trip.

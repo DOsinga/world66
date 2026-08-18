@@ -6,11 +6,15 @@ done:
 latitude: 42.3316
 loc_type: city
 longitude: -83.0466
-score: 6.18
+score: 5.613
 snippet: Great Lakes industrial city where automotive history meets restored landmarks
   and a hard-won cultural comeback
 title: Detroit
 type: location
+heritage: 6.556
+vibrancy: 4.702
+nature: 1.835
+off_the_beaten_track: 2.203
 ---
 
 Detroit is the city that put the world on wheels, and that automotive legacy still shapes everything about the place. The Big Three automakers remain headquartered here, the [Henry Ford Museum](/northamerica/unitedstates/michigan/detroit/henry_ford_museum) in Dearborn is one of the great American museums, and car culture runs deep in the local identity. But modern Detroit is defined as much by its comeback as by its industrial past — the restoration of [Michigan Central Station](/northamerica/unitedstates/michigan/detroit/michigan_central_station) by Ford in 2024 is the most visible symbol.

@@ -6,8 +6,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Idyllwild,_California.jpg
 latitude: 33.74528
 loc_type: city
 longitude: -116.71611
-score: 7.0
-snippet: Mile-high San Jacinto Mountains village known for granite climbing, forest trails, and artsy streets.
+score: 5.686
+snippet: Mile-high San Jacinto Mountains village known for granite climbing, forest
+  trails, and artsy streets.
 sources:
 - https://en.wikivoyage.org/wiki/Idyllwild
 - https://www.wikidata.org/wiki/Q2314331
@@ -17,6 +18,10 @@ sources:
 title: Idyllwild
 type: location
 wikidata: Q2314331
+heritage: 3.509
+vibrancy: 4.699
+nature: 6.543
+off_the_beaten_track: 3.945
 ---
 
 Idyllwild is a mile-high mountain village above the desert cities of Riverside County. It trades ski lifts and resort sprawl for pines, granite, trailheads, small galleries, and a compact centre where people still wander on foot.

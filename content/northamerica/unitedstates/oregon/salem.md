@@ -5,11 +5,15 @@ done:
 latitude: 44.939157
 loc_type: city
 longitude: -123.033121
-score: 6.72
+score: 5.292
 title: Salem
 type: location
 snippet: Oregon state capital in the Willamette Valley, surrounded by Pinot Noir wine
   country.
+heritage: 4.847
+vibrancy: 5.463
+nature: 4.851
+off_the_beaten_track: 2.298
 ---
 
 Salem is Oregon's state capital, sitting in the Willamette Valley between Portland and Eugene. It's quieter than Portland, which some people see as a feature rather than a bug — walkable downtown, low prices, and easy access to some of the state's best scenery.

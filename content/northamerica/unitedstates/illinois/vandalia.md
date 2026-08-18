@@ -5,11 +5,15 @@ done:
 latitude: 38.9606
 loc_type: city
 longitude: -89.0937
-score: 5.49
+score: 4.458
 snippet: Small Illinois town whose restored state house preserves its years as the
   young state's capital.
 title: Vandalia
 type: location
+heritage: 5.997
+vibrancy: 1.778
+nature: 2.384
+off_the_beaten_track: 2.412
 ---
 
 Vandalia is a small town of fewer than 7,000 people on the Kaskaskia River in south-central Illinois, sitting at the intersection of I-70 and US 51. It served as the state capital of Illinois from 1819 to 1839, and that two-decade stretch of political importance left a mark that far outweighs the town's current size.

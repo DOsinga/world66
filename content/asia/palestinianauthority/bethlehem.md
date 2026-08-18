@@ -5,11 +5,15 @@ done:
 latitude: 31.7054
 loc_type: city
 longitude: 35.2024
-score: 7.81
+score: 7.009
 snippet: Palestinian pilgrimage town centred on the Church of the Nativity and lively
   Star Street market
 title: Bethlehem
 type: location
+heritage: 8.987
+vibrancy: 4.248
+nature: 3.147
+off_the_beaten_track: 4.416
 ---
 
 Bethlehem is one of the most visited places in the Palestinian territories, drawing pilgrims and tourists who come to see the Church of the Nativity — built over the traditional site of Jesus's birth and one of the oldest continuously operating churches in the world. The church, with its fourth-century mosaics and the silver star marking the spot in the grotto below, is a UNESCO World Heritage Site.

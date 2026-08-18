@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Healdsburg_California,_201
 latitude: 38.610681
 loc_type: city
 longitude: -122.870138
-score: 7.78
+score: 5.215
 snippet: Sonoma wine town where Alexander, Dry Creek, and Russian River valleys meet
   around a leafy plaza.
 title: Healdsburg
 type: location
+heritage: 4.515
+vibrancy: 5.042
+nature: 5.647
+off_the_beaten_track: 2.958
 ---
 
 Healdsburg is a small Sonoma County town of about 11,000 people, sitting at the confluence of three premier wine-growing valleys: Alexander, Dry Creek, and Russian River. It's an easy two-hour drive from San Francisco and draws visitors primarily for its wineries, though the tree-lined central plaza — lined with restaurants, tasting rooms, and coffee shops — is genuinely pleasant to spend an afternoon in.

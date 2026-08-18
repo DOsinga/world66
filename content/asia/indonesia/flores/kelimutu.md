@@ -2,14 +2,19 @@
 latitude: -8.7657
 loc_type: feature
 longitude: 121.8136
-score: 8.9
-snippet: Volcanic Flores highland where three sacred crater lakes change colour above Moni village.
+score: 5.9
+snippet: Volcanic Flores highland where three sacred crater lakes change colour above
+  Moni village.
 sources:
-  - https://en.wikivoyage.org/wiki/Kelimutu
-  - https://en.wikipedia.org/wiki/Kelimutu
-  - https://en.wikipedia.org/wiki/Kelimutu_National_Park
+- https://en.wikivoyage.org/wiki/Kelimutu
+- https://en.wikipedia.org/wiki/Kelimutu
+- https://en.wikipedia.org/wiki/Kelimutu_National_Park
 title: Kelimutu
 type: location
+heritage: 3.846
+vibrancy: 0.453
+nature: 7.189
+off_the_beaten_track: 6.408
 ---
 
 Kelimutu is the reason many travellers cross the rough middle of [Flores](/asia/indonesia/flores). The volcano itself is not a hard climb, but its summit holds something rare: three crater lakes set close together, each with its own colour and mood, and each treated by the local Lio people as a resting place for the dead.

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Kronstadt_Saint_Petersburg
 latitude: 59.992
 loc_type: city
 longitude: 29.7681
-score: 6.89
+score: 4.866
 snippet: Gulf of Finland naval city on Kotlin Island, ringed by forts and crowned
   by its cathedral.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Kronstadt
 title: Kronstadt
 type: location
+heritage: 6.111
+vibrancy: 2.866
+nature: 3.587
+off_the_beaten_track: 4.245
 ---
 
 Kronstadt sits on Kotlin Island in the Gulf of Finland, 30 kilometres west of St Petersburg, accessible via the ring road dam that also functions as a flood barrier for the city behind it. For three centuries this was the main naval base of the Russian imperial and then Soviet fleet — one of the most fortified islands in the world, ringed by sea forts, bristling with naval guns, and completely closed to civilians until 1996. The military heritage is inescapable and is the main reason to come.

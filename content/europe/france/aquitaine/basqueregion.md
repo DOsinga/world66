@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Biandintz_eta_zaldiak_-_mo
 latitude: 43.3776
 loc_type: feature
 longitude: -1.7388
-score: 0.59
+score: 5.716
 snippet: French Basque border region of Atlantic resorts, Pyrenean villages, and living
   Euskara culture.
 title: Basque Region
 type: location
+heritage: 5.849
+vibrancy: 5.669
+nature: 5.836
+off_the_beaten_track: 2.845
 ---
 
 The French Basque Country (Pays Basque) occupies a small triangle of territory in the extreme southwest of France, between the Atlantic Ocean and the Pyrenees along the Spanish border. Though it covers only a fraction of the larger Basque cultural region — most of which lies in Spain — it has a distinct character, with traditional white-and-timber architecture, Basque cuisine, and a living Basque language.

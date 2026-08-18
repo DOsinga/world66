@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kuala_Kubu_Bharu_(220712)_
 latitude: 3.5533
 loc_type: city
 longitude: 101.6395
-score: 6.92
+score: 4.812
 snippet: Quiet Malaysian foothill town rebuilt after a dam failure and now used for
   river rafting
 title: Kuala Kubu Baru
 type: location
+heritage: 4.636
+vibrancy: 4.788
+nature: 4.873
+off_the_beaten_track: 4.277
 ---
 
 Kuala Kubu Baru — known locally as KKB — is a quiet town about an hour north of Kuala Lumpur, at the foot of the mountains that lead up to Fraser's Hill. It was built after the original town of Kuala Kubu was destroyed by a catastrophic dam failure in 1883; a Buddhist temple and mosque that survived the flood still stand in the old town site, now called Ampang Pecah.

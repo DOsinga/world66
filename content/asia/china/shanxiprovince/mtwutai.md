@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Mount_Wutai.JPG
 latitude: 39.037334
 loc_type: feature
 longitude: 113.489871
-score: 8.38
+score: 6.868
 snippet: Sacred Buddhist mountain in Shanxi, ringed by five terraces and crowded with
   centuries-old temple complexes
 title: Mt. Wutai
 type: location
+heritage: 8.913
+vibrancy: 2.913
+nature: 4.412
+off_the_beaten_track: 3.948
 ---
 
 Mt. Wutai is one of China's four sacred Buddhist mountains and the only Chinese peak mentioned in Buddhist scripture. The name means "five terraces," referring to the five flat-topped peaks that ring the central valley. At 3,058 metres the northern summit is the highest point in northern China, and the whole area stays cool even in midsummer — hence its old name, the "cool platform."

@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Boating_in_Kodaikanal_Lake
 latitude: 10.233712
 loc_type: city
 longitude: 77.491972
-score: 7.83
+score: 6.442
 snippet: Tamil Nadu hill station in the Palani Hills, centred on Kodai Lake, forests,
   and escarpment views.
 title: Kodaikanal
 type: location
+heritage: 4.761
+vibrancy: 5.378
+nature: 7.386
+off_the_beaten_track: 3.406
 ---
 
 Kodaikanal is the most appealing hill station in Tamil Nadu, sitting at 2,133 metres in the Palani Hills, 120 km northwest of Madurai. The British established it in the 1840s as a summer retreat from the Madurai heat, and unlike Ooty it has retained something of that quiet quality — though it gets very crowded in April and May when the plains become unbearable.

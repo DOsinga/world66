@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Calvi_Port_1.jpg
 latitude: 42.567708
 loc_type: city
 longitude: 8.759053
-score: 8.91
+score: 6.134
 snippet: Corsican port town beneath a Genoese citadel, with a white-sand bay and pine-backed
   beach.
 title: Calvi
 type: location
+heritage: 5.31
+vibrancy: 5.365
+nature: 6.916
+off_the_beaten_track: 4.465
 ---
 
 Calvi sits on the northwest coast of [Corsica](/europe/france/corsica), a port town dominated by a massive Genoese [citadel](/europe/france/corsica/calvi/citadel) that is visible from far out at sea. Below the fortress walls, the Basse Ville is a compact tangle of restaurants, markets, and cafes centred on the [Quai Landry](/europe/france/corsica/calvi/marina_and_quai_landry).

@@ -7,13 +7,17 @@ image_source: https://commons.wikimedia.org/wiki/File:201606_Cangzhou.jpg
 latitude: 38.32
 loc_type: city
 longitude: 116.87
-score: 5.63
+score: 2.49
 snippet: Hebei city known for its thousand-year-old Iron Lion and deep martial arts
   tradition.
 sources:
 - https://en.wikivoyage.org/wiki/Cangzhou
 title: Cangzhou
 type: location
+heritage: 2.863
+vibrancy: 2.179
+nature: 1.806
+off_the_beaten_track: 1.366
 ---
 
 Cangzhou has two things it is genuinely famous for across China, and both are worth taking seriously. The [Cangzhou Iron Lion](/asia/china/hebei/cangzhou/cangzhou_iron_lion), cast during the Five Dynasties period around 953 CE and standing nearly six metres tall, is one of the oldest and largest iron castings in Chinese history. The technical achievement of making it is considerable — the casting method required pouring molten iron in sections and fusing them, a process complex enough that the lion shows no seams, or at least very few. It has been standing in the open air for over a thousand years, developing a thick rust patina that gives it a geological presence. The bas-relief inscription across its abdomen includes the founding text of the Diamond Sutra.

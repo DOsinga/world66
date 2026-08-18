@@ -5,9 +5,13 @@ latitude: 43.53
 longitude: -71.47
 title: Lakes Region
 type: location
-score: 7.58
+score: 5.594
 loc_type: feature
 snippet: New Hampshire region of 273 lakes and ponds, centred on Lake Winnipesaukee.
+heritage: 3.247
+vibrancy: 2.664
+nature: 7.295
+off_the_beaten_track: 2.061
 ---
 
 Excitement and relaxation meet in the Lakes Region of New Hampshire. The name alone evokes images of blissful, lazy summer days on the water.

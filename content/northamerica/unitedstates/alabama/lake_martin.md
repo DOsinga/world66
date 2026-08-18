@@ -5,10 +5,14 @@ latitude: 32.803925
 longitude: -85.893942
 title: Lake Martin
 type: location
-score: 6.7
+score: 4.218
 snippet: Large Alabama reservoir with long undeveloped shoreline, bass fishing, and
   easygoing lake weekends.
 loc_type: feature
+heritage: 2.389
+vibrancy: 1.93
+nature: 5.525
+off_the_beaten_track: 2.448
 ---
 
 Lake Martin is a 40,000-acre reservoir created in the 1930s when a dam was built across the Tallapoosa River for flood control. With over 700 miles of shoreline, it is one of Alabama's premier spots for boating, fishing, and lazy lake weekends.

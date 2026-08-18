@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:BotswanaParliament.jpg
 latitude: -24.6581
 loc_type: city
 longitude: 25.9089
-score: 6.79
+score: 5.502
 snippet: Botswana's capital, a young planned city with the Three Dikgosi Monument
   and nearby Gaborone Game Reserve.
 title: Gaborone
 type: location
+heritage: 3.992
+vibrancy: 5.03
+nature: 6.097
+off_the_beaten_track: 3.782
 ---
 
 Gaborone is the capital of Botswana, a young city that grew rapidly after the country's independence from Britain in 1966. Named after Chief Gaborone, a 19th-century Tswana leader who settled here with his people, it has all the infrastructure of a modern capital — hotels, restaurants, cinemas, a casino, and good international connections — without the chaos of many African cities.

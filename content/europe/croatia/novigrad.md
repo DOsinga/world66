@@ -10,9 +10,13 @@ loc_type: city
 longitude: 13.5614
 title: Novigrad
 type: location
-score: 8.51
+score: 6.084
 snippet: Small Istrian walled town where Venetian stone houses cluster around a quiet
   Adriatic harbour.
+heritage: 7.325
+vibrancy: 4.653
+nature: 3.341
+off_the_beaten_track: 2.047
 ---
 
 Novigrad — *Cittanova* to its Italian-speaking minority — is a small walled coastal town in northern [Istria](/europe/croatia/istria), built on a low peninsula about halfway between [Umag](/europe/croatia/umag) and [Poreč](/europe/croatia/porec). The old centre is a cluster of Venetian-era stone houses around a small harbour, with stretches of the medieval town wall still standing along the seaward edge.

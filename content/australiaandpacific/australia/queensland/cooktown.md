@@ -2,7 +2,7 @@
 latitude: -15.46
 loc_type: city
 longitude: 145.25
-score: 7.1
+score: 5.372
 snippet: Remote tropical Queensland town on the Endeavour River, rich in Cook and
   gold-rush history.
 sources:
@@ -14,6 +14,10 @@ image: cooktown.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cooktown_1986_IMG_0067.jpg
 image_license: CC BY-SA 4.0
 image_attribution: John Robert McPherson
+heritage: 4.553
+vibrancy: 3.24
+nature: 6.396
+off_the_beaten_track: 4.801
 ---
 
 Cooktown is a small tropical town on the Endeavour River in far north Queensland. It feels very different from the resort towns farther south: less polished, more isolated, with rainforest, reef, outback roads, and Cape York country all close at hand.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Col%C3%A9gio_Anchieta_em_N
 latitude: -22.306166
 loc_type: city
 longitude: -42.493418
-score: 7.14
+score: 5.35
 snippet: Brazilian mountain resort near Rio de Janeiro, founded by Swiss emigrants
   in the Serra Fluminense.
 title: Nova Friburgo
 type: location
+heritage: 4.22
+vibrancy: 3.754
+nature: 6.479
+off_the_beaten_track: 3.203
 ---
 
 **Nova Friburgo** is a mountain resort some 2 hours by bus from [Rio de Janeiro](/southamerica/brazil/riodejaneiro) with a peculiar charm. The town was established by Swiss emigrants in the beginning of the 19-th century and is a curious mixture of Central European style buildings and a Brazilian lifestyle. 

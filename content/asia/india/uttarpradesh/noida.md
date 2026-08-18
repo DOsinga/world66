@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:HCL_Tech_Noida_SEZ_Campus.
 latitude: 28.5706
 loc_type: city
 longitude: 77.3272
-score: 5.47
+score: 4.596
 snippet: Planned Delhi satellite city across the Yamuna, built around business parks,
   malls, and Film City.
 title: Noida
 type: location
+heritage: 2.429
+vibrancy: 5.453
+nature: 2.295
+off_the_beaten_track: 0.615
 ---
 
 Noida (New Okhla Industrial Development Authority) is a planned city in Uttar Pradesh, sitting just across the Yamuna River from [Delhi](/asia/india/delhi). It has grown from an industrial township into one of the largest business and IT hubs in the Delhi National Capital Region, with a forest of glass-and-steel towers rising from what was farmland a few decades ago. Most major Hindi-language television channels broadcast from [Noida Film City](/asia/india/uttarpradesh/noida/noida_film_city) in Sector 16A.

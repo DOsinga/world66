@@ -5,7 +5,7 @@ done:
 latitude: 19.206
 loc_type: city
 longitude: -69.3362
-score: 8.46
+score: 5.978
 snippet: Dominican harbour town on Samaná Bay, backed by green hills and a quiet fishing
   waterfront.
 title: Samaná
@@ -14,6 +14,10 @@ image: samana.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cayo_Levantado,_Saman%C3%A1_32000,_Dominican_Republic_-_panoramio_(3).jpg
 image_license: CC BY 3.0
 image_attribution: Максим Улитин
+heritage: 4.346
+vibrancy: 4.192
+nature: 7.24
+off_the_beaten_track: 3.6
 ---
 
 Santa Bárbara de Samaná — known simply as Samaná — is the capital of the Samaná Province and the main town on the peninsula of the same name. It sits on a natural harbour at the southern edge of the peninsula, facing the wide blue arc of Samaná Bay. The setting is beautiful: green hills behind, fishing boats and pelicans in front, and coconut palms running down to the water.

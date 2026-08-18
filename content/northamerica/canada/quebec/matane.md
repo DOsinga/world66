@@ -5,17 +5,22 @@ loc_type: city
 latitude: 48.8467
 longitude: -67.5306
 wikidata: Q142029
-score: 6.3
-snippet: St. Lawrence port town where salmon, a white lighthouse, and moose country mark the road to Gaspesie.
+score: 4.442
+snippet: St. Lawrence port town where salmon, a white lighthouse, and moose country
+  mark the road to Gaspesie.
 sources:
-  - https://en.wikivoyage.org/wiki/Matane
-  - https://www.bonjourquebec.com/en-us/where-to-go/regions-of-quebec/gaspesie/matane
-  - https://www.tourismematane.com/en/visiter/matane-salmon-river/1038.html
-  - https://www.sepaq.com/rf/mat/index.dot?language_id=1
+- https://en.wikivoyage.org/wiki/Matane
+- https://www.bonjourquebec.com/en-us/where-to-go/regions-of-quebec/gaspesie/matane
+- https://www.tourismematane.com/en/visiter/matane-salmon-river/1038.html
+- https://www.sepaq.com/rf/mat/index.dot?language_id=1
 image: matane.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Matane_-_phare.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Dennis Jarvis
+heritage: 3.3
+vibrancy: 1.931
+nature: 5.487
+off_the_beaten_track: 3.745
 ---
 
 Matane is a working St. Lawrence town at the western edge of the Gaspesie mood: sea air, ferry traffic, salmon pools, and mountains beginning to rise inland. It is not as dramatic as the far end of the peninsula, but it has enough of its own character to reward a pause.

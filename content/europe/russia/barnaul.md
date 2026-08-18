@@ -5,7 +5,7 @@ loc_type: city
 latitude: 53.3481
 longitude: 83.7798
 wikidata: Q6014
-score: 6.8
+score: 4.113
 snippet: Siberian Altai capital shaped by silver smelting, river bluffs, and merchant-era
   streets.
 sources:
@@ -17,6 +17,10 @@ image: barnaul.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Barnaul_tram_1024_2024-06_1717320486_Svobody_Square,_Barnaul_Tatra_T6B5.jpg
 image_license: CC BY 4.0
 image_attribution: Artyom Svetlov
+heritage: 4.567
+vibrancy: 3.927
+nature: 3.254
+off_the_beaten_track: 4.682
 ---
 
 *Europe > Russia > Barnaul*

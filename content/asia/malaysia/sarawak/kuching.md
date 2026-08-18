@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kuching_Sarawak_Dewan-Unda
 latitude: 1.5598
 loc_type: city
 longitude: 110.3453
-score: 8.59
+score: 6.539
 snippet: Sarawak's riverside capital, shaped by Brooke-era history and Malay, Chinese,
   and Dayak cultures.
 title: Kuching
 type: location
+heritage: 6.138
+vibrancy: 5.807
+nature: 7.33
+off_the_beaten_track: 2.75
 ---
 
 Kuching is the capital of [Sarawak](/asia/malaysia/sarawak) and by a considerable margin the most pleasant and interesting city on Malaysian Borneo. The name means "cat" in Malay — a fact celebrated with sculptural enthusiasm throughout the city — though the actual origin is disputed. The city's character is shaped by its long history as the seat of the Brooke family, the White Rajahs who governed Sarawak as a private kingdom from 1841 to 1941, and by its layered mix of Malay, Chinese, and indigenous Dayak cultures that coexist here with unusual ease.

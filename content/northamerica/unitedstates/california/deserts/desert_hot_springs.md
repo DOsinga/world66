@@ -2,7 +2,7 @@
 latitude: 33.961111
 loc_type: city
 longitude: -116.508056
-score: 6.2
+score: 3.335
 snippet: Coachella Valley spa town with odorless mineral springs, desert preserves,
   and Cabot Yerxa's handmade pueblo.
 sources:
@@ -17,6 +17,10 @@ image: desert_hot_springs.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cabots-Pueblo-Museum.jpg
 image_license: CC0
 image_attribution: Jllm06
+heritage: 2.117
+vibrancy: 1.875
+nature: 4.263
+off_the_beaten_track: 2.379
 ---
 
 Desert Hot Springs sits north of Palm Springs, on the quieter side of the Coachella Valley, where the San Bernardino Mountains rise above a grid of low desert streets. Its identity is simple: hot mineral water without the sulfur smell, pulled from aquifers that made the town a spa colony.

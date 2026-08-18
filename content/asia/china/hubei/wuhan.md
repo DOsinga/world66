@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Smog_descends_on_Wuhan,_Hu
 latitude: 30.5928
 loc_type: city
 longitude: 114.3055
-score: 7.0
+score: 6.978
 snippet: Major Yangtze port city formed from Wuchang, Hankou, and Hanyang, with Yellow
   Crane Tower as its symbol.
 title: Wuhan
 type: location
+heritage: 5.871
+vibrancy: 7.451
+nature: 4.256
+off_the_beaten_track: 2.212
 ---
 
 Wuhan is a city of 12 million on the [Yangtze river](/asia/china/hubei/wuhan/yangtze_river) in central China, formed from the merger of three old towns — [Wuchang](/asia/china/hubei/wuhan/wuchang), [Hankou](/asia/china/hubei/wuhan/hankou), and [Hanyang](/asia/china/hubei/wuhan/hanyang) — at the confluence of the Yangtze and the Han. It became globally known for the wrong reasons in early 2020, but for travellers Wuhan is a major Yangtze port city with genuinely interesting historical layers, excellent street food, and a position that makes it a natural stopover between Beijing/Shanghai and the south-west.

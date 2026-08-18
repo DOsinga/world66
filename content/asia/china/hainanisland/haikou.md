@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Altstadt_von_Haikou_(Haina
 latitude: 20.046233
 loc_type: city
 longitude: 110.19565
-score: 7.01
+score: 5.904
 snippet: Hainan capital on the Qiongzhou Strait, with qilou arcades built by returned
   overseas Chinese.
 title: Haikou
 type: location
+heritage: 4.2
+vibrancy: 5.92
+nature: 5.861
+off_the_beaten_track: 1.84
 ---
 
 Haikou is the capital of Hainan, China's southernmost province, sitting on the northern coast of the island where the Qiongzhou Strait separates it from the mainland. Most travellers pass through on their way to the beach resorts around [Sanya](/asia/china/hainanisland/sanya) in the south, but the old "Coconut Capital" has more substance than its reputation suggests.

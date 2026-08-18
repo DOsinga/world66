@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Mingachevir_reservoir.jpg
 latitude: 40.920633
 loc_type: city
 longitude: 46.757101
-score: 5.96
+score: 3.182
 snippet: Kura River city shaped by ancient settlement traces and Azerbaijan's largest
   hydroelectric reservoir.
 title: Mingechevir
 type: location
+heritage: 2.105
+vibrancy: 1.54
+nature: 3.957
+off_the_beaten_track: 3.195
 ---
 
 Mingechevir sits on the Kura River about 275 km west of Baku, and its two claims to fame are separated by millennia: human settlement here dates back 5,000 years, and in the 1950s it became the site of the largest hydroelectric dam in Azerbaijan. Both facts shape the town you see today.

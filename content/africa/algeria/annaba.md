@@ -5,11 +5,15 @@ done:
 latitude: 36.898216
 loc_type: city
 longitude: 7.754927
-score: 6.51
+score: 5.173
 title: Annaba
 type: location
 snippet: Northeastern port city near Tunisia, built beside the Roman and early Christian
   ruins of Hippo Regius.
+heritage: 4.866
+vibrancy: 5.319
+nature: 4.796
+off_the_beaten_track: 4.508
 ---
 
 Annaba is Algeria's fourth-largest city, situated in the extreme northeast near the Tunisian border. It can be reached as a day trip from [Tunisia](/africa/tunisia), and the proximity gives the city something of a border-town energy — active, commercial, and cosmopolitan by Algerian standards.

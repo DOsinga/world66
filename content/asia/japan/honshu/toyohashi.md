@@ -2,7 +2,7 @@
 latitude: 34.769167
 loc_type: city
 longitude: 137.391528
-score: 7.1
+score: 4.423
 snippet: Tokaido city in eastern Aichi with castle ruins, tram streets, and Edo post-town
   history.
 sources:
@@ -17,6 +17,10 @@ image: toyohashi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Yoshida_Castle_(Aichi)_3.jpg
 image_license: Public domain
 image_attribution: Lombroso
+heritage: 3.208
+vibrancy: 4.918
+nature: 3.137
+off_the_beaten_track: 0.75
 ---
 
 Toyohashi sits in eastern Aichi, between Nagoya and Hamamatsu, where the old Tokaido road met Mikawa Bay. It is not a showpiece city, but it rewards a spare day in central Honshu with castle remains, a surviving Edo post-town inn, and one of Japan's few remaining streetcar systems.

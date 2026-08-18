@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Elephant_feeding_at_Pinnaw
 latitude: 7.296305
 loc_type: city
 longitude: 80.387062
-score: 8.19
+score: 4.361
 snippet: Kegalle District village known for the Pinnawela Elephant Orphanage and Maha
   Oya river bathing.
 title: Pinnawela
 type: location
+heritage: 1.755
+vibrancy: 1.401
+nature: 5.543
+off_the_beaten_track: 3.985
 ---
 
 Pinnawela is a small village in the Kegalle District best known as the home of the [Pinnawela Elephant Orphanage](/asia/srilanka/pinnawela/pinnawela_elephant_orphanage), founded in 1975 to care for wild elephants that had been orphaned or injured in the jungle. It now houses one of the largest captive elephant herds in the world, and for many visitors it is the highlight of the drive between [Colombo](/asia/srilanka/colombo) and [Kandy](/asia/srilanka/kandy), about 90km from Colombo.

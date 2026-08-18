@@ -13,7 +13,7 @@ quick_facts:
   Boats: Replica pirate ships
   Lake Ashi: 723 m up, volcanic
   Last Eruption: ~3,000 years ago
-score: 9.48
+score: 6.529
 snippet: Japanese hot spring resort in volcanic Hakone caldera, with Lake Ashi views
   toward Mount Fuji
 tip: Hakone is a hot-spring town in view of Mt Fuji — buy the Hakone Free Pass for
@@ -22,6 +22,10 @@ tip: Hakone is a hot-spring town in view of Mt Fuji — buy the Hakone Free Pass
   bathe naked and cover tattoos, so check the rules first.
 title: Hakone
 type: location
+heritage: 5.753
+vibrancy: 4.492
+nature: 7.682
+off_the_beaten_track: 2.376
 ---
 
 Hakone is Japan's most celebrated hot spring resort and, on a clear day, one of the finest places in the country to view Mount Fuji. Nestled inside a collapsed volcanic caldera in the mountains west of Tokyo, the town is essentially a giant natural spa: geothermal steam rises from hillside vents, the lake at the caldera's centre reflects the sky, and every ryokan (traditional inn) seems to have hot spring water piped directly into the bath.

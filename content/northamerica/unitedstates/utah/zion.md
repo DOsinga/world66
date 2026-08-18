@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Angels_Landing.jpg
 latitude: 37.2982
 loc_type: feature
 longitude: -113.0263
-score: 9.49
+score: 5.494
 snippet: Southern Utah national park of red sandstone canyons, river narrows, hanging
   gardens, and high cliff trails.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://www.nps.gov/zion/planyourvisit/upload/25Summer-InfoGuide.pdf
 title: Zion National Park
 type: location
+heritage: 1.632
+vibrancy: 2.107
+nature: 7.096
+off_the_beaten_track: 4.651
 ---
 
 Zion National Park is the sandstone cathedral of southern Utah: a canyon system of red and cream cliffs, hanging gardens, river narrows, and improbable trails that climb straight out of the valley floor. It is also crowded, permit-heavy, and intensely managed in peak season, so the best trips balance awe with logistics.

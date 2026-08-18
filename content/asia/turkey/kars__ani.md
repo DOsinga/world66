@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kars,_Turkey.jpg
 latitude: 40.616453
 loc_type: city
 longitude: 43.281584
-score: 8.09
+score: 4.885
 snippet: Northeastern Turkish frontier city paired with Ani, the ruined medieval Armenian
   capital on a windswept border plateau
 title: Kars & Ani
 type: location
+heritage: 4.879
+vibrancy: 1.801
+nature: 5.503
+off_the_beaten_track: 6.248
 ---
 
 Kars is a frontier city in northeastern Turkey, cold and austere, perched on a plateau at 1,800 metres. It spent decades as a Russian garrison town — the grid-plan streets and crumbling Baltic-style mansions still show it — and Orhan Pamuk set his novel *Snow* here, capturing the city's melancholy and isolation perfectly.

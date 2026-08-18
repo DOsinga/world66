@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Valldemossa_2003.jpg
 latitude: 39.71176
 loc_type: city
 longitude: 2.62254
-score: 8.72
+score: 5.706
 snippet: Mallorcan mountain village in the Serra de Tramuntana, linked to Chopin,
   George Sand, and the Real Cartuja.
 title: Valldemossa
 type: location
+heritage: 6.133
+vibrancy: 4.486
+nature: 6.245
+off_the_beaten_track: 3.92
 ---
 
 Valldemossa is a small mountain village tucked into the Serra de Tramuntana, easily reached by bus from [Palma](/europe/spain/balearicislands/mallorca/palma1) or from Sóller. It looks down over the rugged north-west coast of Mallorca with views that stop you in your tracks.

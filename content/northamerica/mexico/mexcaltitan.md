@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 21.9059
 longitude: -105.4758
-score: 6.6
+score: 4.473
 snippet: Tiny Nayarit island village linked to Aztlán legends and reached by boat
   through mangroves.
 sources:
@@ -14,6 +14,10 @@ image: mexcaltitan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Isla_Mexcaltitan.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Luis Méndez Covarrubias
+heritage: 5.159
+vibrancy: 2.59
+nature: 3.415
+off_the_beaten_track: 6.145
 ---
 
 Mexcaltitán is a tiny island village in the lagoons of Nayarit, north of [San Blas](/northamerica/mexico/sanblas). It is low, flat, and car-free, with pedestrian lanes, shrimp restaurants, small docks, and a local claim to be connected with Aztlán, the legendary homeland of the Mexica.

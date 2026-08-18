@@ -4,17 +4,22 @@ type: location
 loc_type: city
 latitude: 38.2833
 longitude: -80.8442
-score: 6.7
-snippet: West Virginia lake town above the Gauley River, with cliffs, whitewater, and Civil War history.
+score: 5.508
+snippet: West Virginia lake town above the Gauley River, with cliffs, whitewater,
+  and Civil War history.
 image: summersville.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Summersville_Lake-27527.jpg
 image_license: Public domain
 image_attribution: Ken Thomas
 sources:
-  - https://en.wikivoyage.org/wiki/Summersville
-  - https://en.wikipedia.org/wiki/Summersville_Lake
-  - https://wvstateparks.com/parks/summersville-lake-state-park/
-  - https://www.nps.gov/gari/
+- https://en.wikivoyage.org/wiki/Summersville
+- https://en.wikipedia.org/wiki/Summersville_Lake
+- https://wvstateparks.com/parks/summersville-lake-state-park/
+- https://www.nps.gov/gari/
+heritage: 2.784
+vibrancy: 2.301
+nature: 7.358
+off_the_beaten_track: 2.637
 ---
 
 Summersville is a small town on US-19 in central [West Virginia](/northamerica/unitedstates/westvirginia), useful at first glance and better than that once you get off the highway. Its real claim is the water and rock just south of town: [Summersville Lake](/northamerica/unitedstates/westvirginia/summersville/summersville_lake), the state's largest lake, backed by cliffs and the Gauley River gorge.

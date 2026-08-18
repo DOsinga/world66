@@ -12,7 +12,7 @@ quick_facts:
   Gold Museum: Pre-Columbian treasure underground
   National Theatre: A gilded 1897 jewel
   Population: ~340,000 (metro ~2M)
-score: 7.61
+score: 5.319
 snippet: Central Valley capital of Costa Rica, with pre-Columbian museums, busy plazas,
   and a mild highland climate.
 tip: San José sits in the cool Central Valley at 1,170 m, ringed by green volcanoes
@@ -22,6 +22,10 @@ tip: San José sits in the cool Central Valley at 1,170 m, ringed by green volca
   vida'.
 title: San José
 type: location
+heritage: 3.808
+vibrancy: 5.933
+nature: 3.36
+off_the_beaten_track: 1.071
 ---
 
 San José is the capital and beating heart of Costa Rica, sitting in the fertile Central Valley at around 1,100 metres elevation — high enough to enjoy a mild, spring-like climate year-round. It is inevitably a transit hub for travellers moving between the coasts and the highlands, but the city rewards a day or two in its own right.

@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: -42.782
 longitude: 147.059
-score: 6.35
-snippet: Riverside Derwent Valley town with early colonial buildings, asylum heritage, and serious antiques.
+score: 4.791
+snippet: Riverside Derwent Valley town with early colonial buildings, asylum heritage,
+  and serious antiques.
 sources:
 - https://en.wikivoyage.org/wiki/New_Norfolk
 - https://en.wikipedia.org/wiki/New_Norfolk
 - https://www.discovertasmania.com.au/regions/hobart-and-south/new-norfolk/
+heritage: 3.564
+vibrancy: 1.99
+nature: 5.916
+off_the_beaten_track: 4.065
 ---
 
 New Norfolk sits on a broad bend of the Derwent River, about 35 minutes northwest of [Hobart](/australiaandpacific/australia/tasmania/hobart). It is one of Tasmania's older European settlements, with a country-town centre, deciduous trees, and a river setting that feels more English than much of Australia.

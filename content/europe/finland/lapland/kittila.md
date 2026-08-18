@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 67.65
 longitude: 24.9083
-score: 6.9
+score: 5.968
 snippet: Wide Lapland municipality known for Levi, fell landscapes, gold country,
   and winter northern lights.
 sources:
@@ -14,6 +14,10 @@ image: kittila.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gondola_line_on_Levi_in_Kittil%C3%A4,_Lapland,_Finland,_2021_September_-_2.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Ximonic (Simo Räsänen)
+heritage: 1.801
+vibrancy: 2.372
+nature: 7.519
+off_the_beaten_track: 5.672
 ---
 
 Kittilä is less a single town than a large slice of western [Finnish Lapland](/europe/finland/lapland): taiga forest, bogs, villages along the Ounasjoki, ski traffic around Levi, and fell country stretching toward Pallas-Yllästunturi National Park. The municipal centre is small, but the area around it is one of Finland's busiest winter destinations.

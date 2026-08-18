@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ertholmene_Christians%C3%B
 latitude: 55.3205
 loc_type: city
 longitude: 15.1892
-score: 7.8
+score: 4.405
 snippet: Tiny Baltic fortress island and Denmark's easternmost point, built as a naval
   base in the 1680s.
 title: Christiansø
 type: location
+heritage: 5.007
+vibrancy: 2.197
+nature: 4.438
+off_the_beaten_track: 3.174
 ---
 
 Christiansø is Denmark's easternmost point — a tiny fortress island in the Baltic, about an hour by ferry from [Bornholm](/europe/denmark/bornholmisland). The island was built as a naval base by Christian V in the 1680s and the fortifications still dominate the landscape: thick stone walls, the round [Store Tarn](/europe/denmark/christianso/store_taarn), and a [lighthouse](/europe/denmark/christianso/store_taarn) converted from the original defence tower.

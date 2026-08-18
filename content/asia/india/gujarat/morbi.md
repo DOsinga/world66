@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Mani_mandir_at_morbi.jpg
 latitude: 22.800396
 loc_type: city
 longitude: 70.886232
-score: 5.58
+score: 4.202
 snippet: Gujarat ceramics city on the Machchu River, with princely-state remnants
   and a famous hanging bridge
 title: Morbi
 type: location
+heritage: 4.502
+vibrancy: 4.12
+nature: 2.527
+off_the_beaten_track: 1.937
 ---
 
 Morbi is a small city 64 km from [Rajkot](/asia/india/gujarat/rajkot), once a princely state and now known as India's ceramics capital -- along with being a major centre for clock manufacturing (Ajanta Quartz, the world's largest clock manufacturer, is based here on the Morbi-Rajkot road).

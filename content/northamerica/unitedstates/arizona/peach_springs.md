@@ -5,7 +5,7 @@ loc_type: city
 latitude: 35.5292
 longitude: -113.4255
 wikidata: Q1024109
-score: 7.0
+score: 4.219
 snippet: Hualapai Route 66 town with rare road access down to the Colorado River in
   the Grand Canyon.
 sources:
@@ -19,6 +19,10 @@ image: peach_springs.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2014,_Looking_East,_Peach_Springs,_AZ_-_panoramio.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Chris English
+heritage: 2.791
+vibrancy: 2.08
+nature: 5.357
+off_the_beaten_track: 2.203
 ---
 
 *North America > United States > Arizona > Peach Springs*

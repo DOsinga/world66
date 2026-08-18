@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Fuengirola_6.jpg
 latitude: 36.53884
 loc_type: city
 longitude: -4.623397
-score: 8.1
+score: 5.846
 snippet: Costa del Sol resort town with a seven-kilometre beach and a hilltop Arab
   fortress
 title: Fuengirola
 type: location
+heritage: 4.455
+vibrancy: 5.942
+nature: 5.598
+off_the_beaten_track: 1.883
 ---
 
 Fuengirola is a Costa del Sol resort town between [Málaga](/europe/spain/andalucia/malaga) and [Marbella](/europe/spain/andalucia/marbella), one of the most heavily developed stretches of the Spanish Mediterranean. It is unashamedly a package-holiday destination — high-rise hotels, a long promenade, fish-and-chip shops alongside chiringuitos — but it does the job well enough, and the beach is genuinely good: seven kilometres of wide sand with warm, calm water.

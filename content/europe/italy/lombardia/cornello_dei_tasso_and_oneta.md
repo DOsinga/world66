@@ -3,7 +3,7 @@ address: Valle Brembana, Bergamo province
 latitude: 45.87
 loc_type: feature
 longitude: 9.63
-score: 7.6
+score: 4.794
 snippet: Two medieval villages tied to Harlequin and the origins of the postal service
 title: Cornello dei Tasso and Oneta
 type: location
@@ -13,6 +13,10 @@ image_license: CC0
 image_attribution: 'Museo dei Tasso e della storia postale
 
   '
+heritage: 5.969
+vibrancy: 1.557
+nature: 3.651
+off_the_beaten_track: 3.09
 ---
 
 Two tiny medieval villages in the Brembana Valley, each with a surprising claim to fame, make one of the more atmospheric day trips out of Bergamo.

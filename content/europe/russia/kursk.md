@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/77650784@N04/52648722306
 latitude: 51.727036
 loc_type: city
 longitude: 36.192248
-score: 5.52
+score: 4.572
 snippet: Western Russian city on the Seym River, associated with the huge 1943 tank
   battle nearby.
 title: Kursk
 type: location
+heritage: 5.835
+vibrancy: 2.313
+nature: 2.33
+off_the_beaten_track: 4.477
 ---
 
 Kursk is a regional city in southwestern Russia, about 500 km south of Moscow, sitting on the Tuskar and Kur rivers. It's a mid-sized industrial and administrative centre, not much visited by foreign tourists, but historically significant as the site of one of World War II's decisive battles.

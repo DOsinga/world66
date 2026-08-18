@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 56.7445
 longitude: 15.9069
-score: 6.5
-snippet: Småland glass town and practical gateway to Glasriket, with workshops, forest trails, and one odd Bond museum.
+score: 3.852
+snippet: Småland glass town and practical gateway to Glasriket, with workshops, forest
+  trails, and one odd Bond museum.
 sources:
-  - https://en.wikivoyage.org/wiki/Nybro
-  - https://en.wikipedia.org/wiki/Nybro
-  - https://www.nybro.se/uppleva-och-gora/
+- https://en.wikivoyage.org/wiki/Nybro
+- https://en.wikipedia.org/wiki/Nybro
+- https://www.nybro.se/uppleva-och-gora/
+heritage: 3.475
+vibrancy: 2.216
+nature: 4.497
+off_the_beaten_track: 1.742
 ---
 
 Nybro is a working Småland town between Kalmar and Växjö, best understood as one of the practical gateways to Glasriket, the Kingdom of Crystal. Glass, wood, and paper shaped the local economy, and [Pukeberg Glassworks](/europe/sweden/smaaland/nybro/pukeberg_glassworks) keeps that identity visible close to town.

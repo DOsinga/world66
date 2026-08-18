@@ -12,8 +12,12 @@ title: Heerde
 snippet: Quiet Gelderland municipality between the IJssel River and Veluwe woods,
   suited to cycling and walking
 type: location
-score: 6.23
+score: 3.674
 loc_type: city
+heritage: 4.371
+vibrancy: 2.646
+nature: 3.26
+off_the_beaten_track: 1.474
 ---
 
 Heerde is a small municipality in the province of Gelderland, tucked between the IJssel river and the forested hills of the Veluwe. The area is best known for its outdoor character — walking and cycling routes through the woods and heathlands that edge into the Veluwe national landscape. The town itself is modest, with a market square and a few local shops, but the surrounding countryside rewards those who explore it on foot or by bike.

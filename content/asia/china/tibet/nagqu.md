@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Amdo,_Nagqu,_Tibet,_China_
 latitude: 31.48
 loc_type: city
 longitude: 92.05
-score: 6.37
+score: 6.07
 snippet: High northern Tibetan town on the Chang Tang, set around 4,500 metres beside
   the Qinghai-Tibet Railway
 sources:
 - https://en.wikivoyage.org/wiki/Tibet
 title: Nagqu
 type: location
+heritage: 4.929
+vibrancy: 2.614
+nature: 7.32
+off_the_beaten_track: 6.025
 ---
 
 Nagqu — also written Naqu or Nagchu — is the main town of northern Tibet and the capital of the largest prefecture-level city in China by land area, a staggering expanse of high, wind-scoured plateau stretching across the Chang Tang. The town itself sits at around 4,500 metres on the Qinghai-Tibet Railway line, making it one of the highest towns of any size in the world. Most travellers arriving by train from the north pass through briefly before continuing south to [Lhasa](/asia/china/tibet/lhasa), but those who stop find themselves in the authentic northern plateau — treeless, immense, and bitterly cold outside the brief summer.

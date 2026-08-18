@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 43.7667
 longitude: -103.5989
-score: 7.2
-snippet: Southern Black Hills base town beside Custer State Park, Crazy Horse, and Jewel Cave.
+score: 5.257
+snippet: Southern Black Hills base town beside Custer State Park, Crazy Horse, and
+  Jewel Cave.
 sources:
-  - https://en.wikivoyage.org/wiki/Custer
-  - https://en.wikipedia.org/wiki/Custer,_South_Dakota
-  - https://www.visitcuster.com/
+- https://en.wikivoyage.org/wiki/Custer
+- https://en.wikipedia.org/wiki/Custer,_South_Dakota
+- https://www.visitcuster.com/
+heritage: 4.845
+vibrancy: 2.675
+nature: 6.095
+off_the_beaten_track: 2.772
 ---
 
 Custer is the most useful small base in the southern [Black Hills](/northamerica/unitedstates/southdakota/blackhills). It is less hectic than Keystone, closer to the caves than Rapid City, and close enough to the granite, bison, and pine forest that the town feels like part of the landscape rather than a service stop beside it.

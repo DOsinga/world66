@@ -2,7 +2,7 @@
 latitude: 5.3497
 loc_type: feature
 longitude: -1.3831
-score: 8.3
+score: 5.921
 snippet: Ghanaian rainforest national park north of Cape Coast, known for its high
   canopy walkway and forest wildlife.
 title: Kakum National Park
@@ -11,6 +11,10 @@ image: kakumnaturereserve.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kakum.jpg
 image_license: CC BY 2.5 it
 image_attribution: Original uploader was Chiappinik at it.wikipedia
+heritage: 2.592
+vibrancy: 1.355
+nature: 7.938
+off_the_beaten_track: 4.064
 ---
 
 Kakum National Park is one of the few remaining areas of tropical rainforest in West Africa, covering around 375 square kilometres in the Central Region of Ghana about 30 kilometres north of Cape Coast. The forest is dense and humid, sheltering forest elephants, bongo antelopes, Diana monkeys, and over 300 species of birds.

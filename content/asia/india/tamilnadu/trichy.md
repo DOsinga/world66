@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ucchi_Pillayar_Temple,_Roc
 latitude: 10.7903
 loc_type: city
 longitude: 78.7047
-score: 7.46
+score: 5.801
 snippet: Temple city on the Kaveri where Rockfort rises above Tamil Nadu's sacred
   river islands.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Ranganathaswamy_Temple,_Srirangam
 title: Trichy
 type: location
+heritage: 7.02
+vibrancy: 4.364
+nature: 2.811
+off_the_beaten_track: 3.137
 ---
 
 Trichy, officially Tiruchirappalli, sits where the Kaveri River splits and the temple country of central Tamil Nadu begins to spread toward the delta. It is less polished than [Thanjavur](/asia/india/tamilnadu/thanjavur) and less overwhelming than Madurai, but it has one of South India's great urban skylines: the [Rockfort](/asia/india/tamilnadu/trichy/rockfort) rising abruptly from the city, with temple towers and river islands around it.

@@ -11,13 +11,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Pieve_di_San_Pietro_(San_P
 latitude: 43.961354
 loc_type: city
 longitude: 11.32442
-score: 7.32
+score: 4.598
 snippet: Mugello valley village north of Florence, tied to Medici villas, castles,
   and Apennine foothills.
 tags:
 - mugello
 title: San Piero a Sieve
 type: location
+heritage: 3.937
+vibrancy: 2.549
+nature: 5.458
+off_the_beaten_track: 2.672
 ---
 
 San Piero a Sieve is a small medieval village in the Mugello valley, about 30 kilometres north of [Florence](/europe/italy/tuscany/florence), sitting in the rolling Apennine foothills at the centre of an area closely tied to the Medici family. The Medici were native to the Mugello, and before they became the rulers of Florence they were lords here — a fact still written across the landscape in villas, castles, and convents bearing their patronage.

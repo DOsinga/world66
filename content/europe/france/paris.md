@@ -15,7 +15,7 @@ quick_facts:
   Mona Lisa: World's most-visited art
   Population: 2.1 million
   Seine Bridges: '37'
-score: 9.98
+score: 9.767
 snippet: French capital on the Seine, defined by historic quartiers, major museums,
   and Haussmann boulevards.
 tip: Paris is a walking city pretending to be a metro city. The metro is fast and
@@ -25,6 +25,10 @@ tip: Paris is a walking city pretending to be a metro city. The metro is fast an
   means heaving, so weigh the trade.
 title: Paris
 type: location
+heritage: 9.452
+vibrancy: 9.96
+nature: 3.919
+off_the_beaten_track: 1.316
 ---
 
 Paris is the most visited city on earth, and familiarity with its image makes it easy to underestimate. You arrive knowing the Eiffel Tower, Notre-Dame, and the Louvre from a thousand photographs, but the city constantly surprises. The quartiers you didn't plan to visit, the food market you stumbled into, the view down a Haussmann boulevard at dusk — these are what stay with you.

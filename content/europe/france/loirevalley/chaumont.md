@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Chaumont_sur_Loire_chateau
 latitude: 47.4791
 loc_type: city
 longitude: 1.1818
-score: 8.54
+score: 5.453
 title: Chaumont-sur-Loire
 type: location
 snippet: Loire village crowned by Château de Chaumont and its annual festival of experimental
   gardens.
+heritage: 6.791
+vibrancy: 1.633
+nature: 4.15
+off_the_beaten_track: 2.702
 ---
 
 Chaumont-sur-Loire is a small village perched above the [Loire](/europe/france/loirevalley), dominated by its striking château. The [Château de Chaumont](/europe/france/loirevalley/chaumont/chateau_de_chaumont) was rebuilt in the late 15th century by the Amboise family, and its history reads like a who's who of French power: Catherine de Médicis acquired it in 1560, then handed it to her rival Diane de Poitiers after the death of Henri II. In the 19th century, the princes of Broglie refurbished the interiors and commissioned Henri Duchêne to design the [park](/europe/france/loirevalley/chaumont/parc_historique) and the still-extant [stables](/europe/france/loirevalley/chaumont/chateau_stables).

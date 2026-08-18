@@ -5,11 +5,15 @@ done:
 latitude: 44.857288
 loc_type: city
 longitude: 24.872116
-score: 6.11
+score: 3.334
 snippet: Southern Romanian city on the Argeș River, known for Dacia industry and nearby
   Carpathian foothills.
 title: Pitești
 type: location
+heritage: 2.509
+vibrancy: 3.423
+nature: 3.103
+off_the_beaten_track: 0.892
 ---
 
 Pitești is a mid-sized city of around 160,000 people in southern Romania, sitting at the foot of the Carpathian foothills along the Argeș River. It's the capital of Argeș County and one of Romania's more industrially significant cities — home to the [Dacia](/europe/romania/pitesti/dacia_museum) car factory — though visitors mostly use it as a base for exploring the beautiful surrounding county.

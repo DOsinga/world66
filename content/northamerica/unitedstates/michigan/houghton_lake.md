@@ -4,12 +4,16 @@ type: location
 loc_type: city
 latitude: 44.3147
 longitude: -84.7647
-score: 6.4
+score: 5.058
 snippet: Northern Michigan lake resort town on the state's largest inland lake.
 sources:
-  - https://en.wikivoyage.org/wiki/Houghton_Lake
-  - https://en.wikipedia.org/wiki/Houghton_Lake,_Michigan
-  - https://www.michigan.org/city/houghton-lake
+- https://en.wikivoyage.org/wiki/Houghton_Lake
+- https://en.wikipedia.org/wiki/Houghton_Lake,_Michigan
+- https://www.michigan.org/city/houghton-lake
+heritage: 2.526
+vibrancy: 2.644
+nature: 6.563
+off_the_beaten_track: 2.48
 ---
 
 Houghton Lake is a small resort community wrapped around Michigan's largest inland lake. It is not polished, and that is part of the point: this is pontoon boats, fishing docks, snowmobiles, family cabins, and a winter carnival built around ice fishing.

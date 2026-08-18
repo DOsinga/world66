@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bradford_Flickr_2016.jpg
 latitude: 53.794423
 loc_type: city
 longitude: -1.751919
-score: 6.61
+score: 5.391
 snippet: West Yorkshire city built on wool, with Victorian mills and major science
   and media collections.
 title: Bradford
 type: location
+heritage: 6.218
+vibrancy: 4.678
+nature: 1.958
+off_the_beaten_track: 1.468
 ---
 
 Bradford made its fortune on wool. By the mid-19th century it was the wool capital of the world, a grimy, prosperous mill town that drew workers from across Europe and, later, from South Asia. The industry unravelled after World War II, and Bradford has been reinventing itself ever since — with mixed but often interesting results.

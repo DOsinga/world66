@@ -2,18 +2,23 @@
 title: Uusikaupunki
 type: location
 loc_type: city
-latitude: 60.8000
+latitude: 60.8
 longitude: 21.4167
 wikidata: Q207295
-score: 6.6
-snippet: Old Finnish port town of wooden streets, shipbuilding history, odd museums, and outer-archipelago trips.
+score: 4.462
+snippet: Old Finnish port town of wooden streets, shipbuilding history, odd museums,
+  and outer-archipelago trips.
 image: uusikaupunki.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Uusikaupunki_aerial_1.jpg
 image_license: CC BY-SA 4.0
 image_attribution: kallerna
 sources:
-  - https://en.wikivoyage.org/wiki/Uusikaupunki
-  - https://en.wikipedia.org/wiki/Uusikaupunki
+- https://en.wikivoyage.org/wiki/Uusikaupunki
+- https://en.wikipedia.org/wiki/Uusikaupunki
+heritage: 2.732
+vibrancy: 1.97
+nature: 5.758
+off_the_beaten_track: 3.147
 ---
 
 Uusikaupunki is a small port town in southwest Finland, founded in 1617 and still shaped by the sea. Its centre has an old wooden-town feel: low houses, quiet streets, a guest harbour, and a history tied to shipbuilding, trade, and the surrounding Vakka-Suomi countryside.

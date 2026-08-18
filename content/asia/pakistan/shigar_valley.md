@@ -2,7 +2,7 @@
 latitude: 35.4204
 loc_type: feature
 longitude: 75.7406
-score: 8.2
+score: 6.275
 snippet: Fertile Karakoram valley northeast of Skardu, gateway to K2 and home to restored
   Shigar Fort.
 title: Shigar Valley
@@ -11,6 +11,10 @@ image: shigar_valley.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Granat,_spessartyn_na_albicie_-_Shigar_Valley,_Skardu,_Pakistan..jpg
 image_license: CC BY-SA 3.0
 image_attribution: Lech Darski
+heritage: 4.627
+vibrancy: 0.41
+nature: 7.59
+off_the_beaten_track: 7.002
 ---
 
 The Shigar Valley extends northeast from Skardu, a long, fertile river valley lined with apricot and apple orchards and dotted with old Balti villages of mud-brick and timber. Fed by the Shigar River, which gathers the meltwater of the Baltoro and Biafo glaciers, it is one of the greenest corners of Baltistan, and historically the principal gateway to the great Karakoram peaks. From the head of the valley, trekkers head up to Askole, the last village, and into the Baltoro glacier system that leads to Concordia and the base camps of K2, Broad Peak and the Gasherbrums.

@@ -5,11 +5,15 @@ done:
 latitude: 45.8539
 loc_type: city
 longitude: 7.9372
-score: 7.96
+score: 5.71
 snippet: Alpine village beneath Monte Rosa, known for Walser houses and steep freeride
   ski terrain.
 title: Alagna
 type: location
+heritage: 3.351
+vibrancy: 3.96
+nature: 6.937
+off_the_beaten_track: 4.197
 ---
 
 Alagna Valsesia sits at the end of the road beneath [Monte Rosa](/europe/italy/piemonte/alagna/monte_rosa), the second-highest massif in the Alps. The village is small and has a genuine Alpine character — stone and timber Walser houses, a handful of restaurants, and not much else besides the mountains. It is part of a UNESCO World Heritage Site, recognised in 2013 as part of the Monte Rosa landscape.

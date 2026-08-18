@@ -2,14 +2,19 @@
 latitude: 35.192222
 loc_type: city
 longitude: 132.499722
-score: 7.7
-snippet: Shimane city of silver mines, hot springs, volcanic grasslands, and a one-year hourglass.
+score: 5.559
+snippet: Shimane city of silver mines, hot springs, volcanic grasslands, and a one-year
+  hourglass.
 sources:
 - https://en.wikivoyage.org/wiki/Oda
 - https://whc.unesco.org/en/list/1246/
 - https://www.japan.travel/en/world-heritage/iwami-ginzan-silver-mine/
 title: Oda
 type: location
+heritage: 6.898
+vibrancy: 3.837
+nature: 3.524
+off_the_beaten_track: 1.464
 ---
 
 Oda sits on the Sea of Japan side of western Honshu, west of [Izumo](/asia/japan/honshu/izumo), and feels more rural than its list of sights suggests. The reason to come is [Iwami Ginzan](/asia/japan/honshu/oda/iwami_ginzan), the old silver-mining landscape that once helped tie Japan into the wider Asian economy. Omori, the mining town, still has merchant houses, temples, narrow lanes, and wooded hills hiding old shafts.

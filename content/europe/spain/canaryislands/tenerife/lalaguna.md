@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:La_Laguna_BW_5.JPG
 latitude: 28.4895
 loc_type: city
 longitude: -16.3162
-score: 8.37
+score: 5.279
 snippet: Historic Tenerife university city with a preserved colonial grid that influenced
   Spanish town planning in the Americas
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/San_Crist%C3%B3bal_de_La_Laguna
 title: San Cristóbal de La Laguna
 type: location
+heritage: 5.645
+vibrancy: 5.18
+nature: 4.042
+off_the_beaten_track: 1.698
 ---
 
 San Cristóbal de La Laguna is the old capital of Tenerife and one of only two UNESCO World Heritage cities in the Canary Islands. Unlike the coastal resort cities that dominate the island's tourist economy, La Laguna is an inland university town with a grid-planned colonial centre that has barely changed since it was laid out in the late 15th century. The street plan, the two-storey stone houses with carved wooden balconies, and the succession of churches and convents lining the pedestrian streets all contribute to a historic environment of genuine quality.

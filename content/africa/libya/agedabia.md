@@ -16,7 +16,11 @@ image: agedabia.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Senussi_centre_in_Ajdabiya.png
 image_license: Public domain
 image_attribution: Unknown author
-score: 4.35
+score: 5.872
+heritage: 4.837
+vibrancy: 2.074
+nature: 2.628
+off_the_beaten_track: 9.99
 ---
 
 Agedabia, more often written Ajdabiya, is the hard-working crossroads of eastern Libya. It sits near the head of the Gulf of Sidra, where the coastal road between [Tripoli](/africa/libya/tripoli) and [Benghazi](/africa/libya/benghazi) meets the desert road south to [Awjila](/africa/libya/awjila), Jalu and [Kufra](/africa/libya/kufra).

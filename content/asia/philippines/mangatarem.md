@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Daang_Kalikasan.jpg
 latitude: 15.788536
 loc_type: city
 longitude: 120.293864
-score: 5.97
+score: 3.665
 snippet: Pangasinan highway town known for Manleluag hot springs, colonial stone church,
   and roadside tupig.
 title: Mangatarem
 type: location
+heritage: 2.358
+vibrancy: 2.032
+nature: 4.681
+off_the_beaten_track: 3.067
 ---
 
 Mangatarem is a town in the southern part of Pangasinan province in the [Philippines](/asia/philippines), its name derived from "mango" and "tarem" (knife). The town sits along the main highway between Dagupan and the Hundred Islands, and is worth a brief stop for its hot springs and its colonial-era church.

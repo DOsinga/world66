@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 49.066
 longitude: -81.017
-score: 5.9
+score: 4.252
 snippet: Northern Ontario railway town known for polar bear care and the train to
   James Bay.
 sources:
@@ -17,6 +17,10 @@ image: cochrane.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cochrane,_ON,_Canada_-_panoramio_(5).jpg
 image_license: CC BY 3.0
 image_attribution: Eric Friedebach
+heritage: 2.287
+vibrancy: 1.953
+nature: 5.168
+off_the_beaten_track: 4.664
 ---
 
 Cochrane is a small railway town in northeastern Ontario, far enough north that the landscape has shifted into boreal forest and long winter. It is not a polished resort town, but it has a clear identity: polar bears, hockey, and trains heading toward the edge of James Bay.

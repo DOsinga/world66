@@ -5,18 +5,23 @@ loc_type: city
 latitude: 34.9547
 longitude: 137.173
 wikidata: Q242783
-score: 7.0
-snippet: Aichi castle city known for Tokugawa Ieyasu, Hatcho miso, temples, and spring blossoms.
+score: 4.127
+snippet: Aichi castle city known for Tokugawa Ieyasu, Hatcho miso, temples, and spring
+  blossoms.
 sources:
-  - https://en.wikivoyage.org/wiki/Okazaki
-  - https://www.japan.travel/en/spot/1220/
-  - https://aichinow.pref.aichi.jp/en/spots/detail/38/
-  - https://aichinow.pref.aichi.jp/en/spots/detail/1818/
-  - https://en.wikipedia.org/wiki/Okazaki,_Aichi
+- https://en.wikivoyage.org/wiki/Okazaki
+- https://www.japan.travel/en/spot/1220/
+- https://aichinow.pref.aichi.jp/en/spots/detail/38/
+- https://aichinow.pref.aichi.jp/en/spots/detail/1818/
+- https://en.wikipedia.org/wiki/Okazaki,_Aichi
 image: okazaki.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Okazaki_Castle_20230120_01.jpg
 image_license: CC0 1.0
 image_attribution: 先従隗始
+heritage: 5.012
+vibrancy: 3.07
+nature: 2.691
+off_the_beaten_track: 1.107
 ---
 
 Okazaki is a working Aichi city with one very strong story: Tokugawa Ieyasu, founder of the Tokugawa shogunate, was born here. That gives the city more focus than many Nagoya satellites, especially around the castle park, old temples, and shrines tied to the Matsudaira and Tokugawa families.

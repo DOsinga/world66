@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:20130610_-_Monumento_aos_H
 latitude: 11.861324
 loc_type: city
 longitude: -15.583055
-score: 5.41
+score: 4.29
 snippet: Unhurried West African capital with faded Portuguese colonial streets around
   Bissau Velho.
 title: Bissau
 type: location
+heritage: 3.551
+vibrancy: 2.115
+nature: 4.929
+off_the_beaten_track: 5.64
 ---
 
 Bissau is a quiet capital by African standards. The streets are half-empty for much of the day, people sit on porches and chat, and the pace of life is unhurried to the point of stillness. It has a certain charm, though -- faded colonial buildings with wide verandas line the streets, and there is a rawness to the city that feels authentic rather than neglected.

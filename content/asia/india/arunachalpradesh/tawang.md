@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:The_buddist_monastry.jpg
 latitude: 27.587919
 loc_type: city
 longitude: 91.863733
-score: 7.9
+score: 7.142
 snippet: High Himalayan Buddhist town centred on India's largest monastery and Monpa
   mountain culture.
 title: Tawang
 type: location
+heritage: 7.456
+vibrancy: 0.891
+nature: 7.91
+off_the_beaten_track: 5.897
 ---
 
 Situated at over 3,000 metres in the far northwest of Arunachal Pradesh, Tawang is renowned for its 400-year-old Buddhist monastery — the largest in India and second only to the Potala Palace in Lhasa. The [Tawang Monastery](/asia/india/arunachalpradesh/tawang/tawang_monastery), also known as Galden Namgyal Lhatse, was founded by Mera Lama, a contemporary of the fifth Dalai Lama. The sixth Dalai Lama was born at nearby [Urgelling Monastery](/asia/india/arunachalpradesh/tawang/urgelling_monastery).

@@ -5,7 +5,7 @@ done:
 latitude: 10.974416
 loc_type: city
 longitude: 106.494897
-score: 7.94
+score: 3.527
 title: Cu Chi
 snippet: Vietnamese district northwest of Ho Chi Minh City, known for its wartime
   tunnel network.
@@ -14,6 +14,10 @@ image: cuchi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Saigon_River_at_Cu_Chi_Tunnel_Vietnam_(27767486249).jpg
 image_license: CC BY 2.0
 image_attribution: dronepicr
+heritage: 4.645
+vibrancy: 1.605
+nature: 2.113
+off_the_beaten_track: 2.168
 ---
 
 Cu Chi district, about 40 km northwest of Ho Chi Minh City, is home to one of the most visited historical sites in Vietnam: an extraordinary network of around 200 km of underground tunnels used by resistance fighters during the American War. The tunnels were begun by the Viet Minh in their fight against the French and were later extended by the Viet Cong, who used them to shelter fighters, store supplies, and stage operations while American forces bombed and defoliated the ground above.

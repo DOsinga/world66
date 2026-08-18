@@ -6,11 +6,15 @@ done:
 latitude: 38.913
 loc_type: city
 longitude: 121.6098
-score: 7.33
+score: 5.047
 snippet: Liaodong Peninsula port city with sea air, old trams, and Russian-Japanese
   colonial squares.
 title: Dalian
 type: location
+heritage: 3.204
+vibrancy: 5.308
+nature: 4.372
+off_the_beaten_track: 0.858
 ---
 
 Dalian is a port city at the southern tip of Liaodong Peninsula in northeast China, facing the sea on three sides. It is one of China's most liveable cities — clean, green, and relatively well-planned — and a major container port for the northeast.

@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Veszpr%C3%A9m_castle.jpg
 latitude: 47.0934
 loc_type: city
 longitude: 17.908
-score: 7.82
+score: 5.296
 snippet: Old Hungarian hill town above the Séd valley, with a baroque castle district
   near Lake Balaton.
 title: Veszprém
 type: location
+heritage: 6.184
+vibrancy: 4.442
+nature: 3.795
+off_the_beaten_track: 1.771
 ---
 
 Veszprém is one of the oldest towns in [Hungary](/europe/hungary), perched on a series of hills above the Séd valley, about 15 kilometres north of [Lake Balaton](/europe/hungary/lakebalaton). The [Castle District](/europe/hungary/veszprem/castle_district) along the hilltop ridge is the main attraction — a single atmospheric street lined with baroque palaces, churches, and the foundations of a medieval royal palace. The views from the castle walls over the surrounding hills are excellent, with the best of them from the [Elizabeth Look-out](/europe/hungary/veszprem/erzsebet_lookout) at the end of the ridge.

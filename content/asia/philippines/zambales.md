@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Boat_Ride_View_going_to_Na
 latitude: 15.508
 loc_type: city
 longitude: 119.969
-score: 7.13
+score: 5.244
 snippet: Western Luzon province between the South China Sea and volcanic Zambales
   Mountains.
 title: Zambales
 type: location
+heritage: 3.328
+vibrancy: 2.811
+nature: 6.718
+off_the_beaten_track: 3.402
 ---
 
 Zambales is the wild western coast of Central Luzon -- a long, narrow province squeezed between the South China Sea and the volcanic Zambales Mountains. While much of the Philippines has been thoroughly discovered by tourism, Zambales still feels like a place you have to yourself.

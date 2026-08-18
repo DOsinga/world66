@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Giza-Nile.JPG
 latitude: 30.038895
 loc_type: city
 longitude: 31.212556
-score: 5.68
+score: 3.509
 snippet: West-bank Cairo neighbourhood in Giza, known for embassies, leafy streets,
   and proximity to Cairo University.
 title: Dokki
 type: location
+heritage: 3.957
+vibrancy: 2.128
+nature: 3.183
+off_the_beaten_track: 5.11
 ---
 
 Dokki is a residential and commercial neighbourhood on the west bank of the Nile in Giza, directly across from central Cairo. It's an upscale area by Egyptian standards, home to a mix of embassies, international organisations, and middle-class apartment blocks. The streets are leafy and less chaotic than downtown Cairo, making it a reasonable base if you want proximity to the city without being in the thick of it.

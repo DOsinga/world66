@@ -6,11 +6,15 @@ done:
 latitude: 41.7646
 loc_type: city
 longitude: -72.6908
-score: 6.49
+score: 4.28
 title: Hartford
 type: location
 snippet: Connecticut capital on the Connecticut River, with insurance history and
   the Wadsworth Atheneum.
+heritage: 3.797
+vibrancy: 4.496
+nature: 3.157
+off_the_beaten_track: 0.875
 ---
 
 Hartford is the capital of Connecticut, sitting in the north-central part of the state along the Connecticut River. Founded as a Dutch trading post and established as an English settlement in the 1630s by the Reverend Thomas Hooker, it grew into one of New England's most important cities — the insurance and financial capital of the region, a role it has held since the 19th century.

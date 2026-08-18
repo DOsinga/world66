@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ibo_Island,_Mozambique_(35
 latitude: -12.344916
 loc_type: city
 longitude: 40.600242
-score: 6.92
+score: 5.527
 snippet: Quirimbas island trading settlement with Portuguese forts, crumbling mansions,
   and Swahili coast history.
 title: Ibo Island
 type: location
+heritage: 4.35
+vibrancy: 2.674
+nature: 6.673
+off_the_beaten_track: 6.204
 ---
 
 Ibo is one of the original Swahili trading settlements of the East African coast, now a quiet, crumbling jewel in the [Quirimbas Archipelago](/africa/mozambique/iboisland/quirimbas_archipelago). The island has barely 3,000 inhabitants, a handful of beautifully restored colonial mansions repurposed as lodges, and the ruins of three Portuguese forts including the large [Fort São João](/africa/mozambique/iboisland/fort_sao_joao), built in 1791.

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mahilio%C5%AD,_ratu%C5%A1a
 latitude: 53.9167
 loc_type: city
 longitude: 30.35
-score: 6.79
+score: 3.275
 snippet: Eastern Belarusian Dnieper city with a rebuilt town hall, Baroque churches,
   and heavy wartime memory.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Mogilev_Oblast
 title: Mogilev
 type: location
+heritage: 3.767
+vibrancy: 2.232
+nature: 2.59
+off_the_beaten_track: 4.533
 ---
 
 Mogilev, also written Mahilyow, is Belarus's big eastern city on the Dnieper. It is less polished than [Minsk](/europe/belarus/minsk) and less romantic than [Hrodna](/europe/belarus/hrodna_grodno), but it has real weight: old trade routes, Polish-Lithuanian town rights, Russian imperial layers, Soviet industry, and a wartime history that still presses hard on the city.

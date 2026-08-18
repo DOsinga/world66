@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Calle_Dlugie_Pobrzeze,_Gda
 latitude: 54.352
 loc_type: city
 longitude: 18.6466
-score: 8.92
+score: 5.699
 snippet: Baltic port city where the Second World War began and the Solidarity movement
   later took shape.
 title: Gdansk
 type: location
+heritage: 6.367
+vibrancy: 5.364
+nature: 1.844
+off_the_beaten_track: 1.442
 ---
 
 Gdansk is one of the most historically loaded cities in Europe — and one of the most beautiful. It was here, on 1 September 1939, that the Second World War began, with German guns opening fire on the Polish garrison at [Westerplatte](/europe/poland/gdansk/westerplatte). And it was here, in 1980, that Lech Walesa climbed over the fence of the Lenin Shipyard and the Solidarity trade union was born — the movement that would eventually bring down communist rule across Eastern Europe. Two of the defining events of the twentieth century, in the same city. The [European Solidarity Centre](/europe/poland/gdansk/european_solidarity_centre), opened in 2014 on the old shipyard site, is essential viewing.

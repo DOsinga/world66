@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Jelsa_(vie
 latitude: 43.16081
 loc_type: city
 longitude: 16.693143
-score: 8.38
+score: 4.748
 snippet: Quiet Hvar harbour town with stone houses, pine promenades, konobas, and
   pebbly coves nearby.
 title: Jelsa
 type: location
+heritage: 3.103
+vibrancy: 2.454
+nature: 6.045
+off_the_beaten_track: 2.451
 ---
 
 Jelsa is a small harbour town on the northern coast of [Hvar](/europe/croatia/hvar) island, quieter and more laid-back than the flashy scene in Hvar Town. The sheltered bay is lined with stone houses, pine-shaded promenades and a handful of waterfront cafes where the pace of life slows to a crawl.

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:AsconaAnsicht.jpg
 latitude: 46.155
 loc_type: city
 longitude: 8.768
-score: 7.4
+score: 5.639
 snippet: Ticino lakeside town on Lake Maggiore, with palm-lined promenades and bohemian
   Monte Verità.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://www.myswitzerland.com/en-us/destinations/ascona/
 title: Ascona
 type: location
+heritage: 4.873
+vibrancy: 5.225
+nature: 6.216
+off_the_beaten_track: 2.129
 ---
 
 Ascona is Ticino at its most polished: a small town on Lake Maggiore with pastel houses, palm trees, café terraces, and a waterfront that feels closer to Italy than to Zurich. It is quieter and more graceful than neighbouring [Locarno](/europe/switzerland/locarno), which is exactly the point.

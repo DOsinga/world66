@@ -7,7 +7,7 @@ done:
 latitude: 20.6597
 loc_type: city
 longitude: -103.3496
-score: 8.69
+score: 5.494
 snippet: Jalisco capital and Mexican cultural stronghold of mariachi, tequila, charro
   tradition, and mural-filled plazas.
 title: Guadalajara
@@ -16,6 +16,10 @@ image: guadalajara.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Catedral_Guadalajra_IMG_20211017_194154.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Isacdaavid
+heritage: 4.862
+vibrancy: 5.775
+nature: 3.694
+off_the_beaten_track: 2.179
 ---
 
 Guadalajara is Mexico's second city and the capital of Jalisco -- the birthplace of mariachi music, tequila, and the wide-brimmed charro hat. It wears its cultural identity proudly, and visitors notice right away: this is a city that feels deeply, unapologetically Mexican.

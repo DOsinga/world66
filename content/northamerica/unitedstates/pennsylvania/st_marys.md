@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 41.43
 longitude: -78.56
-score: 5.8
+score: 3.29
 snippet: Pennsylvania Wilds town of German Catholic roots, old brewing, and small-scale
   heritage sights.
 sources:
@@ -17,6 +17,10 @@ image: st_marys.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Straub_Brewery.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Dincher
+heritage: 2.434
+vibrancy: 2.151
+nature: 4.06
+off_the_beaten_track: 1.909
 ---
 
 St. Marys sits in the Pennsylvania Wilds, a small city with German Catholic roots and a practical, working-town feel. Its appeal is not one grand sight, but a cluster of local stories: a long-running family brewery, one of the country's smallest chapels, and museums that keep the town's immigrant and industrial history visible.

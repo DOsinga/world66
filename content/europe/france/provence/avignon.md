@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:.00_3171_Stadtmauer_von_Av
 latitude: 43.949249
 loc_type: city
 longitude: 4.805901
-score: 9.08
+score: 6.191
 snippet: Papal city on the Rhône, enclosed by medieval walls and dominated by the
   Palais des Papes.
 title: Avignon
 type: location
+heritage: 7.435
+vibrancy: 4.775
+nature: 2.79
+off_the_beaten_track: 1.715
 ---
 
 Avignon was the seat of the papacy for most of the 14th century, and the Palais des Papes still towers over the city as proof. It is one of the largest Gothic buildings in Europe, and standing in its vast empty halls gives you a sense of just how much power and wealth the popes concentrated here.

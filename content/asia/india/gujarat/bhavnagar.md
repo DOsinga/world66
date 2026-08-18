@@ -5,16 +5,21 @@ loc_type: city
 latitude: 21.765
 longitude: 72.136944
 wikidata: Q242992
-score: 6.7
-snippet: Saurashtra port city with princely-state history, Gandhi links, and hilltop temples.
+score: 2.833
+snippet: Saurashtra port city with princely-state history, Gandhi links, and hilltop
+  temples.
 sources:
-  - https://en.wikivoyage.org/wiki/Bhavnagar
-  - https://en.wikipedia.org/wiki/Bhavnagar
-  - https://gujarattourism.com/saurashtra/bhavnagar/takhteshwar-temple.html
+- https://en.wikivoyage.org/wiki/Bhavnagar
+- https://en.wikipedia.org/wiki/Bhavnagar
+- https://gujarattourism.com/saurashtra/bhavnagar/takhteshwar-temple.html
 image: bhavnagar.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Takhteshwar_Temple_04.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Bernard Gagnon
+heritage: 2.602
+vibrancy: 2.877
+nature: 2.718
+off_the_beaten_track: 1.711
 ---
 
 Bhavnagar is a Saurashtra port city with a stronger identity than its industrial first impression suggests. It was the capital of a princely state, an old trading town on the Gulf of Khambhat, and one of the places where Mahatma Gandhi's student life briefly touched Gujarat before he left for London.

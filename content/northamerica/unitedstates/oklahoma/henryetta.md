@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Henryetta,_Oklahoma_Home_o
 latitude: 35.439662
 loc_type: city
 longitude: -95.986514
-score: 5.11
+score: 2.275
 snippet: East-central Oklahoma city shaped by coal and oil, with unpretentious downtown
   streets and Troy Aikman hometown lore
 title: Henryetta
 type: location
+heritage: 2.369
+vibrancy: 2.257
+nature: 2.297
+off_the_beaten_track: 1.012
 ---
 
 Henryetta sits in the rolling hills of east-central Oklahoma, a small city of about 6,000 people that punches above its weight in local character. The town was built on coal mining and oil, and that hardscrabble heritage still shows in its unpretentious downtown. Henryetta is perhaps best known as the hometown of football legend Troy Aikman, who grew up here before leading the Dallas Cowboys to three Super Bowl victories.

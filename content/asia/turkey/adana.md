@@ -5,11 +5,15 @@ done:
 latitude: 36.98636
 loc_type: city
 longitude: 35.325286
-score: 6.87
+score: 5.641
 snippet: Large Turkish city on the Seyhan River, rooted in the cotton-growing Çukurova
   plain.
 title: Adana
 type: location
+heritage: 5.285
+vibrancy: 5.819
+nature: 3.162
+off_the_beaten_track: 1.944
 ---
 
 Adana is Turkey's fourth-largest city, sitting on the Seyhan River in the fertile Çukurova plain near the Mediterranean coast. It is primarily an industrial and agricultural city — cotton is king here — and most travellers pass through rather than stop. But it has more to offer than its reputation suggests.

@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Yabuli_Ski_Resort.jpg
 latitude: 44.7815
 loc_type: feature
 longitude: 128.4502
-score: 6.52
+score: 5.456
 snippet: Chinese ski resort in Heilongjiang, with Daqingshan runs built for serious
   alpine training.
 sources:
 - https://en.wikivoyage.org/wiki/Heilongjiang
 title: Yabuli
 type: location
+heritage: 2.479
+vibrancy: 2.981
+nature: 7.017
+off_the_beaten_track: 4.002
 ---
 
 Yabuli is China's premier alpine ski resort, spread across the slopes of Daqingshan Mountain in the Zhangguangcai Range southeast of Harbin. It hosted the 1996 Asian Winter Games and remains the largest ski area in the country by terrain and infrastructure, with runs ranging from gentle beginner slopes to a descent long enough and steep enough to have hosted international competition. The resort sits at altitude, the snow is reliable from November through March, and the lift system has been substantially upgraded in recent years to handle the growing domestic ski market.

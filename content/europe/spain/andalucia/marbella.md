@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Captivating_Views_of_Old_T
 latitude: 36.508976
 loc_type: city
 longitude: -4.88562
-score: 8.8
+score: 6.339
 snippet: Costa del Sol resort town where whitewashed Andalusian lanes meet marina
   wealth beneath La Concha.
 title: Marbella
 type: location
+heritage: 4.978
+vibrancy: 6.731
+nature: 5.327
+off_the_beaten_track: 1.459
 ---
 
 Marbella is the flashy end of the Costa del Sol — a resort town of about 150,000 people on the south coast of Spain, backed by the jagged La Concha mountain and looking out across the Mediterranean to Africa. For most of its history it was a quiet fishing village; the jet-set discovery in the 1950s and the property boom that followed turned it into what it is today.

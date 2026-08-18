@@ -6,11 +6,15 @@ done:
 latitude: 41.981847
 loc_type: city
 longitude: 44.111781
-score: 7.14
+score: 5.184
 snippet: Central Georgian town known for Stalin's birthplace museum and the nearby
   cave city of Uplistsikhe.
 title: Gori
 type: location
+heritage: 5.726
+vibrancy: 5.01
+nature: 4.024
+off_the_beaten_track: 3.222
 ---
 
 Gori is best known as the birthplace of Joseph Stalin, and the [Stalin Museum](/europe/georgia/gori/stalinmuseum) dominates the town both physically and culturally. Whether or not that appeals to you, it is one of the more unusual museum experiences in the Caucasus — a grand Soviet-era building constructed around the tiny house where Stalin was born, filled with photographs, personal effects, and his private railway carriage.

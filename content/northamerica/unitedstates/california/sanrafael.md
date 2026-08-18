@@ -5,11 +5,15 @@ done:
 latitude: 37.974779
 loc_type: city
 longitude: -122.531669
-score: 6.61
+score: 4.673
 snippet: Marin County seat near San Francisco, known for Frank Lloyd Wright's Civic
   Center and outdoor access.
 title: San Rafael
 type: location
+heritage: 3.014
+vibrancy: 4.264
+nature: 5.183
+off_the_beaten_track: 1.674
 ---
 
 San Rafael is the county seat of Marin County, just across the Golden Gate Bridge from San Francisco. The town itself is pleasant enough, but the real draw is its position as a base for exploring some of the Bay Area's finest outdoor spaces.

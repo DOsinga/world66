@@ -2,7 +2,7 @@
 latitude: 34.588
 loc_type: city
 longitude: -118.1
-score: 6.55
+score: 3.566
 snippet: Antelope Valley desert city north of Los Angeles, tied to aerospace testing
   and Mojave foothills.
 sources:
@@ -14,6 +14,10 @@ image: palmdale.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Palmdale,_CA.jpg
 image_license: CC0
 image_attribution: G-BDXH
+heritage: 2.149
+vibrancy: 2.638
+nature: 4.253
+off_the_beaten_track: 1.585
 ---
 
 Palmdale is a desert city in the Antelope Valley, north of [Los Angeles](/northamerica/unitedstates/california/losangeles) and separated from the basin by the San Gabriel Mountains. It is spread out, car-oriented, and not especially romantic at first glance, but it has one real claim to fame: aerospace. Military aircraft have been built, tested, and watched from here for decades.

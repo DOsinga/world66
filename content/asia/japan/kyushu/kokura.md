@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kokura_20190430_175349.jpg
 latitude: 33.8833
 loc_type: city
 longitude: 130.8752
-score: 7.62
+score: 5.28
 snippet: Kitakyushu district centered on a castle and sprawling covered arcades near
   the Kanmon Strait
 title: Kokura
 type: location
+heritage: 5.655
+vibrancy: 5.178
+nature: 3.57
+off_the_beaten_track: 2.242
 ---
 
 Kokura is the beating heart of Kitakyushu — the district with the castle, the covered arcades, and most of the places worth eating and drinking. It's where you'll want to base yourself.

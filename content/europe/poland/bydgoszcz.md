@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 53.1167
 longitude: 18.0
-score: 7.3
+score: 5.25
 snippet: Brda River city with 19th-century architecture, canals, music venues, and
   a green old centre.
 sources:
@@ -13,6 +13,10 @@ image: bydgoszcz.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bydgoszcz_Venice_Footbridge,_view_to_E,_Bydgoszcz,_Poland.jpg
 image_license: CC BY 4.0
 image_attribution: Igor123121
+heritage: 5.839
+vibrancy: 4.992
+nature: 3.565
+off_the_beaten_track: 1.873
 ---
 
 Bydgoszcz is one of Poland's bigger cities, but it feels less obvious than Kraków, Gdańsk, or nearby [Toruń](/europe/poland/torun). That is part of the appeal. The Brda River and old canal cut through the centre, leaving islands, quays, bridges, and waterside paths that make the city easy to enjoy on foot.

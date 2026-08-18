@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Koh_Tarutao,_Thailand,_Roc
 latitude: 6.486906
 loc_type: city
 longitude: 99.304808
-score: 8.33
+score: 5.501
 snippet: Andaman marine park of jungle islands, mangrove creeks, prison ruins, and
   lightly developed beaches
 title: Tarutao
 type: location
+heritage: 3.426
+vibrancy: 5.031
+nature: 6.095
+off_the_beaten_track: 5.458
 ---
 
 Tarutao National Marine Park is a group of 51 islands in the Andaman Sea, just a few kilometres from the Malaysian island of Langkawi. Unlike [Phuket](/asia/thailand/phuket) or [Koh Phi Phi](/asia/thailand/kohphiphi), Tarutao has been kept largely free of large-scale development — outside of Ko Lipe, the only accommodation is national park bungalows and camping.

@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: 43.417
 longitude: 24.617
-score: 7.3
-snippet: Northern Bulgarian city shaped by the Siege of Pleven and Kaylaka's limestone parkland.
+score: 3.853
+snippet: Northern Bulgarian city shaped by the Siege of Pleven and Kaylaka's limestone
+  parkland.
 sources:
-  - https://en.wikivoyage.org/wiki/Pleven
-  - https://en.wikipedia.org/wiki/Pleven
+- https://en.wikivoyage.org/wiki/Pleven
+- https://en.wikipedia.org/wiki/Pleven
+heritage: 4.542
+vibrancy: 1.824
+nature: 3.513
+off_the_beaten_track: 3.082
 ---
 
 Pleven is a northern Bulgarian city whose name is tied to one of the decisive sieges of the Russo-Turkish War of 1877-78. That history is still the main reason to stop: the [Pleven Panorama](/europe/bulgaria/pleven/pleven_panorama), Skobelev Park, and the museum collections explain why this otherwise workaday city mattered far beyond Bulgaria.

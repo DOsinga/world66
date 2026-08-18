@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:2024-10-14_Valbona_Valley_
 latitude: 42.4533
 loc_type: feature
 longitude: 19.8878
-score: 8.21
+score: 5.902
 snippet: Albanian Alps valley of limestone walls, turquoise river water, and the Valbona
   to Theth trail.
 sources:
 - https://en.wikipedia.org/wiki/Valbona_Valley_National_Park
 title: Valbona Valley
 type: location
+heritage: 3.106
+vibrancy: 1.568
+nature: 7.584
+off_the_beaten_track: 5.124
 ---
 
 The Valbona Valley is Albania's most spectacular mountain landscape: a long, glacier-carved trough in the Albanian Alps (the Accursed Mountains) that cuts between walls of grey limestone several hundred metres high. The valley floor runs along the turquoise Valbona River, flanked by beech and pine forest, with permanent snow visible on the peaks above until well into summer. It is, by any measure, extraordinary — and until recently almost entirely unknown outside the Balkans.

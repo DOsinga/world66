@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Sekondi-Ghana.jpg
 latitude: 4.927456
 loc_type: city
 longitude: -1.749022
-score: 6.15
+score: 4.02
 title: Sekondi
 type: location
 snippet: Colonial harbour town beside Takoradi, with weathered merchant houses and
   two forts above the Gulf of Guinea.
+heritage: 3.768
+vibrancy: 2.653
+nature: 4.634
+off_the_beaten_track: 4.203
 ---
 
 Sekondi is the old colonial half of the twin city of Sekondi-Takoradi, set on a low headland above the Gulf of Guinea about four hours west of Accra. Most visitors stay in modern Takoradi, the working seaport next door, but Sekondi is where the history is — two facing forts, a quarter of crumbling European merchant houses, and a quiet harbour still used by traditional fishing boats.

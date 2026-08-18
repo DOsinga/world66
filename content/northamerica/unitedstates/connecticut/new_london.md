@@ -5,11 +5,15 @@ done:
 latitude: 41.355619
 loc_type: city
 longitude: -72.09978
-score: 6.47
+score: 4.637
 snippet: Connecticut port city at the Thames River mouth, with a long whaling and
   naval history.
 title: New London
 type: location
+heritage: 3.834
+vibrancy: 3.844
+nature: 5.33
+off_the_beaten_track: 1.652
 ---
 
 New London sits at the mouth of the Thames River on Connecticut's southeastern coast, a small city with an outsized maritime history. It was one of the busiest whaling ports in the nineteenth century and remains a working waterfront town — the [US Coast Guard Academy](/northamerica/unitedstates/connecticut/new_london/us_coast_guard_academy) stands on a hill overlooking the river, and the Naval Submarine Base New London is just upriver in Groton.

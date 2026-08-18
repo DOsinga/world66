@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 53.0028
 longitude: -78.8103
-score: 6.8
+score: 5.815
 snippet: Remote Cree community on James Bay, named for the ochre Paint Hills.
 sources:
 - https://en.wikivoyage.org/wiki/Wemindji
@@ -17,6 +17,10 @@ image: wemindji.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Wemindji,_residential_street_1.jpg
 image_license: CC0
 image_attribution: Ptaff
+heritage: 5.187
+vibrancy: 1.608
+nature: 6.814
+off_the_beaten_track: 6.916
 ---
 
 Wemindji is a small Cree community at the mouth of the Maquatua River on the east side of James Bay. It is not a casual add-on to a Québec trip; reaching it takes a flight or a long road journey through Eeyou Istchee. But if you are already travelling the James Bay country, it has a clear identity that most northern service towns do not.

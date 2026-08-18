@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 14.0367
 longitude: 98.1867
-score: 6.9
+score: 3.144
 snippet: Southern Myanmar port city of old wooden streets, Dawei Peninsula beaches,
   and hill pagodas.
 wikidata: Q1018167
@@ -15,6 +15,10 @@ image: dawei.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Dawei_13.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Go-Myanmar
+heritage: 2.17
+vibrancy: 1.811
+nature: 3.562
+off_the_beaten_track: 4.298
 ---
 
 Dawei, also known as Tavoy, is a quiet port city in far southern [Myanmar](/asia/myanmar), set behind a long peninsula that shields it from the Andaman Sea. The city itself has a grid of leafy streets, old wooden houses, colonial-era buildings, markets, and pagodas; the beaches begin once you cross west over the low hills.

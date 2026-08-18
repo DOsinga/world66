@@ -4,7 +4,7 @@ done:
 latitude: 21.6285
 loc_type: city
 longitude: 87.4577
-score: 6.17
+score: 4.54
 snippet: Border temple village near Digha, centred on a busy Shiva shrine and coastal
   day trips.
 sources:
@@ -12,6 +12,10 @@ sources:
 - https://www.openstreetmap.org/
 title: Chandaneshwar
 type: location
+heritage: 2.861
+vibrancy: 1.804
+nature: 5.733
+off_the_beaten_track: 4.271
 ---
 
 Chandaneshwar is a small temple village just across the Odisha border from West Bengal's Digha-Shankarpur coast. Travellers usually come as a short excursion from [Digha](/asia/india/westbengal/digha) or [Shankarpur](/asia/india/westbengal/shankarpur), not as a destination in its own right.

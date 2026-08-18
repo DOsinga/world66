@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2023-10-09_Drum_Tower_of_X
 latitude: 34.2658
 loc_type: city
 longitude: 108.9541
-score: 9.3
+score: 5.65
 title: Xi'an
 type: location
 snippet: Xi’an is a former Chinese capital and Silk Road terminus, famed for the Terracotta
   Warriors.
+heritage: 6.656
+vibrancy: 4.618
+nature: 1.849
+off_the_beaten_track: 2.208
 ---
 
 Xi'an was China's capital for eleven dynasties and the eastern terminus of the Silk Road. Today it's a city of 8 million, mostly unremarkable in appearance, but it holds some of the most significant historical sites in Asia. The Terracotta Warriors alone justify the trip.

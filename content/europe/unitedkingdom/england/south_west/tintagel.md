@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Merlin%27s_Cave_and_Tintag
 latitude: 50.663
 loc_type: city
 longitude: -4.752
-score: 8.31
+score: 6.546
 snippet: North Cornwall village tied to King Arthur legends and a cliff-edge castle
   above the Atlantic.
 sources:
@@ -18,6 +18,10 @@ tags:
 - cornwall
 title: Tintagel
 type: location
+heritage: 7.608
+vibrancy: 1.707
+nature: 6.216
+off_the_beaten_track: 2.991
 ---
 
 Tintagel is a small village on the north Cornwall coast with an outsized place in British mythology — it is inextricably linked with the legend of King Arthur, who is said to have been conceived and perhaps born here. Whether you believe the Arthurian connection or not, the setting is magnificent: [Tintagel Castle](/europe/unitedkingdom/england/south_west/tintagel/tintagel_castle) sits on a rocky headland almost completely surrounded by sea, its medieval ruins rising above cliffs of dark slate above crashing Atlantic surf. The drama of the location was enough to attract Geoffrey of Monmouth in the 12th century, who placed Arthur's birth here, and enough to make it one of the most visited sites in the southwest today.

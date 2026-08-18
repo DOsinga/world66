@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -30.7458
 longitude: 150.7194
-score: 6.3
+score: 3.88
 snippet: New England river town known for Mount Borah flying and Namoi country.
 sources:
 - https://en.wikivoyage.org/wiki/Manilla_(New_South_Wales)
@@ -15,6 +15,10 @@ image: manilla.jpg
 image_source: https://commons.wikimedia.org/wiki/File:ManillaMainStreet.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Mattinbgn
+heritage: 3.615
+vibrancy: 2.691
+nature: 4.481
+off_the_beaten_track: 2.685
 ---
 
 Manilla is a small town north of Tamworth, set where the Manilla River meets the Namoi. On paper it looks like another quiet New England service town. In practice it has one strong identity: the flying country around [Mount Borah](/australiaandpacific/australia/newsouthwales/manilla/mount_borah_flying_site), one of Australia's best-known hang-gliding and paragliding sites.

@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ludwigsburg_Palace_Decembe
 latitude: 48.895394
 loc_type: city
 longitude: 9.189515
-score: 7.78
+score: 5.902
 snippet: Baroque city north of Stuttgart, built around the vast Residenzschloss and
   its planned eighteenth-century street grid.
 title: Ludwigsburg
 type: location
+heritage: 7.49
+vibrancy: 3.735
+nature: 2.518
+off_the_beaten_track: 1.868
 ---
 
 Ludwigsburg is a compact baroque city 15 kilometres north of Stuttgart, built from scratch in 1704 on the whim of Duke Eberhard Ludwig of Württemberg who wanted a grand residence closer to his hunting grounds. The result is one of Germany's best-preserved baroque ensembles: a grid of elegant streets radiating from the enormous Residenzschloss, a palace with 452 rooms that is larger than Versailles in footprint if not in fame.

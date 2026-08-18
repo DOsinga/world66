@@ -2,7 +2,7 @@
 latitude: -18.2861
 loc_type: feature
 longitude: 147.7
-score: 9.83
+score: 6.119
 snippet: Vast Queensland reef system of coral, islands, and marine life stretching
   more than 2,300 kilometres.
 title: Great Barrier Reef
@@ -11,6 +11,10 @@ image: greatbarrierreef.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Coral_Outcrop_Flynn_Reef.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Toby Hudson
+heritage: 4.218
+vibrancy: 4.083
+nature: 7.512
+off_the_beaten_track: 3.817
 ---
 
 The Great Barrier Reef is the largest coral reef system on earth, stretching over 2,300 kilometres along the Queensland coast from Cape York in the north to Bundaberg in the south. It consists of some 2,900 individual reefs and 900 islands, and is visible from space. The whole system has been a UNESCO World Heritage Site since 1981.

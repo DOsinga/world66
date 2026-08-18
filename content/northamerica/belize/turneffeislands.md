@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Turneffe_Lighthouse,_Beliz
 latitude: 17.3833
 loc_type: feature
 longitude: -87.85
-score: 8.58
+score: 6.055
 snippet: Large Belizean coral atoll with a mangrove-fringed lagoon, reef walls, and
   protected marine reserve waters.
 title: Turneffe Islands
 type: location
+heritage: 2.078
+vibrancy: 1.247
+nature: 7.359
+off_the_beaten_track: 6.639
 ---
 
 The Turneffe Islands are a large coral atoll about 40 km east of Belize City, enclosing a vast sheltered lagoon fringed by mangroves and reef. Together with Lighthouse Reef and Glover's Reef to the south, they form three of the Caribbean's four true atolls — a geological rarity in these waters.

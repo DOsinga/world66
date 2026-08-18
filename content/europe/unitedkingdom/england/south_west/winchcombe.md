@@ -2,7 +2,7 @@
 latitude: 51.9634
 loc_type: city
 longitude: -1.9627
-score: 0.68
+score: 5.093
 snippet: Small Cotswold town below the escarpment, with Sudeley Castle, Belas Knap,
   and the Cotswold Way passing through.
 tags:
@@ -13,6 +13,10 @@ image: winchcombe.jpg
 image_source: https://commons.wikimedia.org/wiki/File:North_Street,_Winchcombe_-_geograph.org.uk_-_3464841.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Ian S
+heritage: 6.049
+vibrancy: 2.621
+nature: 4.541
+off_the_beaten_track: 2.149
 ---
 
 Winchcombe is a quiet stone town in the Cotswold escarpment, less visited than the more famous villages but with genuine substance. Its position at the foot of the high wolds makes it an excellent walking base: the Cotswold Way passes through the town, Cleeve Hill — the highest point in the Cotswolds — is 3 miles to the south-west, and the surrounding country is crossed by a good network of footpaths.

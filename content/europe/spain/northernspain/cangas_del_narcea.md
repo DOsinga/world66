@@ -2,16 +2,21 @@
 title: Cangas del Narcea
 type: location
 loc_type: city
-latitude: 43.1770
+latitude: 43.177
 longitude: -6.5512
-score: 7.0
-snippet: Western Asturian mountain town of heroic vineyards, monastic heritage, and bear country.
+score: 5.381
+snippet: Western Asturian mountain town of heroic vineyards, monastic heritage, and
+  bear country.
 wikidata: Q5199205
 sources:
-  - https://en.wikivoyage.org/wiki/Cangas_del_Narcea
-  - https://www.turismoasturias.es/en/descubre/donde-ir/municipios/cangas-del-narcea
-  - https://en.asturias.com/cangas-del-narcea/
-  - https://docangas.es/the-wineries/?lang=en
+- https://en.wikivoyage.org/wiki/Cangas_del_Narcea
+- https://www.turismoasturias.es/en/descubre/donde-ir/municipios/cangas-del-narcea
+- https://en.asturias.com/cangas-del-narcea/
+- https://docangas.es/the-wineries/?lang=en
+heritage: 4.049
+vibrancy: 2.311
+nature: 6.624
+off_the_beaten_track: 3.35
 ---
 
 Cangas del Narcea is the main town of far western Asturias, set deep in green valleys where the Narcea River cuts through coal country, bear habitat, and steep vineyards. It is not polished coastal Asturias. It feels inland, working, and a little remote, which is exactly the point.

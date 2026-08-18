@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 46.3167
 longitude: 7.9667
-score: 6.92
+score: 5.121
 snippet: Valais rail town below the Simplon route, with Stockalper grandeur and Alpine
   pass history.
 wikidata: Q15583
@@ -16,6 +16,10 @@ image: brig.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Stockalper_Palace.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Sinistra
+heritage: 3.731
+vibrancy: 2.658
+nature: 6.356
+off_the_beaten_track: 2.929
 ---
 
 Brig is easy to dismiss as a rail junction, because trains to Zermatt, Milan, Andermatt, and the Glacier Express all pass through or near here. Stay a little longer and the town explains why routes mattered so much: it sits below the Simplon, where Alpine crossing, trade, military roads, and rail tunnels all meet.

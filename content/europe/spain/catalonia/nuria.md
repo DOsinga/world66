@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nuria13.jpg
 latitude: 42.3977
 loc_type: feature
 longitude: 2.1547
-score: 8.44
+score: 6.243
 snippet: High Pyrenean sanctuary valley reached by rack railway, with pilgrimage traditions
   and mountain walking.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Virgin_of_Nuria
 title: Vall de Núria
 type: location
+heritage: 5.127
+vibrancy: 2.014
+nature: 7.504
+off_the_beaten_track: 4.971
 ---
 
 Vall de Núria sits in a high cirque of the eastern Pyrenees at 1,967 metres — a place that feels entirely cut off from the modern world because it genuinely is. There is no road into the valley. The only way in is the **Cremallera de Núria**, Spain's sole surviving rack railway, which has been hauling pilgrims and hikers up through the Gorges del Freser since 1931.

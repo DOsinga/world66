@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 36.7333
 longitude: 29.9
-score: 6.7
+score: 4.461
 snippet: Taurus mountain town known for apples, Lycian finds, Ottoman monuments, and
   old oil-wrestling traditions.
 sources:
@@ -14,6 +14,10 @@ image: elmali.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Elmal%C4%B1_15_05_1998_Schafherde_vor_neuer_Moschee_mit_Bey_Da%C4%9Flar%C4%B1.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Volker Höhfeld
+heritage: 5.083
+vibrancy: 1.913
+nature: 4.465
+off_the_beaten_track: 3.216
 ---
 
 Elmali sits high in the western Taurus Mountains, away from the beach resorts of Mediterranean Turkey. The name means "of apples", and the orchards around town explain it better than any slogan: this is an agricultural upland place, cooler and more workaday than the coast.

@@ -4,7 +4,7 @@ done:
 latitude: 40.345875
 loc_type: feature
 longitude: 15.237878
-score: 8.42
+score: 5.325
 snippet: Southern Campania national park of limestone mountains, Greek ruins, chestnut
   forests, and cave-lined coast.
 title: Parco del Cilento
@@ -13,6 +13,10 @@ image: parcodelcilento.jpg
 image_source: https://commons.wikimedia.org/wiki/File:PUNTA_DEL_TELEGRAFO_-_ASCEA_-_Parco_Nazionale_del_Cilento_Alburni_e_Vallo_di_Diano.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Alexelea
+heritage: 2.714
+vibrancy: 1.992
+nature: 7.103
+off_the_beaten_track: 2.578
 ---
 
 *Europe > Italy > Campania > Parco del Cilento*

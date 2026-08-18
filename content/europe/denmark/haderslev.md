@@ -9,10 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Haderslev_Domkirke1.JPG
 latitude: 55.250071
 loc_type: city
 longitude: 9.499787
-score: 6.96
+score: 2.867
 snippet: Southern Jutland port town on a fjord, anchored by a brick Gothic cathedral.
 title: Haderslev
 type: location
+heritage: 3.041
+vibrancy: 1.855
+nature: 3.155
+off_the_beaten_track: 1.714
 ---
 
 Haderslev is a small port town in southern Jutland, sitting at the head of the Haderslev Fjord. Most travellers pass through on the train — it is a rail junction — but if you step off, the town rewards a few hours of wandering.

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Guanaja.jpg
 latitude: 16.4667
 loc_type: island
 longitude: -85.8833
-score: 7.18
+score: 5.797
 snippet: Quiet Bay Island of pine ridges, reef diving, boat villages, and less development
   than Roatán or Utila.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://www.openstreetmap.org/
 title: Guanaja
 type: location
+heritage: 3.525
+vibrancy: 2.401
+nature: 7.492
+off_the_beaten_track: 4.164
 ---
 
 Guanaja is the quiet, awkward, beautiful member of the [Bay Islands](/northamerica/honduras/bayislands). It has the same Caribbean water and reef life that made Roatán and Utila famous, but far less infrastructure, fewer crowds, and a stronger sense that travel here still depends on boats, weather, and local patience.

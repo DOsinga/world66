@@ -4,9 +4,15 @@ type: location
 loc_type: city
 latitude: 40.85
 longitude: 26.6333
-snippet: Turkish Thrace crossroads town with access to the clear coves and beach villages of Saros Bay.
+snippet: Turkish Thrace crossroads town with access to the clear coves and beach villages
+  of Saros Bay.
 sources:
-  - https://en.wikivoyage.org/wiki/Ke%C5%9Fan
+- https://en.wikivoyage.org/wiki/Ke%C5%9Fan
+score: 2.753
+heritage: 2.707
+vibrancy: 1.932
+nature: 3.12
+off_the_beaten_track: 2.987
 ---
 
 *Asia > Turkey > Keşan*

@@ -7,13 +7,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Ameland_aerial_view_from_t
 latitude: 53.406347
 loc_type: feature
 longitude: 5.74825
-score: 0.54
+score: 5.427
 snippet: Quiet Dutch Wadden Island with beaches, dunes, cycling paths, four villages,
   and guided mudflat walks.
 tags:
 - waddenislands
 title: Ameland
 type: location
+heritage: 3.86
+vibrancy: 2.793
+nature: 6.776
+off_the_beaten_track: 3.106
 ---
 
 Ameland is one of the five inhabited [Wadden Islands](/europe/netherlands/waddenislands) off the northern Dutch coast. It is smaller and quieter than neighbouring [Terschelling](/europe/netherlands/terschelling), which is part of its charm — wide sandy beaches on the north side, mudflats and salt marshes on the south, and not much in between except cycling paths, dunes, and a handful of villages.

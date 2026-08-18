@@ -2,16 +2,21 @@
 latitude: 50.4
 loc_type: city
 longitude: -113.25
-score: 5.9
-snippet: Southern Alberta prairie town that turned its name into Canada's Star Trek capital.
+score: 1.982
+snippet: Southern Alberta prairie town that turned its name into Canada's Star Trek
+  capital.
 sources:
-  - https://en.wikivoyage.org/wiki/Vulcan_(Alberta)
-  - https://www.townofvulcan.ca/explore/visit/attractions
-  - https://www.vulcantourism.com/about
-  - https://www.travelalberta.com/listings/vulcan-tourism-trek-station-3518
+- https://en.wikivoyage.org/wiki/Vulcan_(Alberta)
+- https://www.townofvulcan.ca/explore/visit/attractions
+- https://www.vulcantourism.com/about
+- https://www.travelalberta.com/listings/vulcan-tourism-trek-station-3518
 title: Vulcan
 type: location
 wikidata: Q1746129
+heritage: 2.225
+vibrancy: 1.463
+nature: 2.059
+off_the_beaten_track: 2.319
 ---
 
 Vulcan is a small farming town on the prairie road between [Calgary](/northamerica/canada/alberta/calgary) and [Lethbridge](/northamerica/canada/alberta/lethbridge). It would be an ordinary grain-country stop if not for one useful accident: the town shares its name with Spock's home planet, and it has leaned into that with cheerful commitment.

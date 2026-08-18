@@ -4,7 +4,7 @@ done:
   location_enrich: '2026-06-01'
 latitude: 49.4301
 longitude: 2.082336
-score: 6.94
+score: 5.277
 snippet: Picardy city near Paris, dominated by an unfinished Gothic cathedral of startling
   height.
 title: Beauvais
@@ -19,6 +19,10 @@ image: beauvais.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Beauvais_Cathedral_Exterior_1,_Picardy,_France_-_Diliff.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Diliff
+heritage: 6.98
+vibrancy: 2.764
+nature: 2.515
+off_the_beaten_track: 1.918
 ---
 
 Most visitors arrive in Beauvais by budget airline and leave on the next bus to Paris, never quite intending to stop. That's a mistake. The city has one genuinely extraordinary thing — the Cathédrale Saint-Pierre de Beauvais — and it is among the most remarkable buildings in France.

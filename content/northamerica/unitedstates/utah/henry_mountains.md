@@ -5,10 +5,14 @@ latitude: 38.018614
 longitude: -110.775178
 title: Henry Mountains
 type: location
-score: 7.05
+score: 6.041
 loc_type: feature
 snippet: Remote Utah mountain range above desert basins, long among the last mapped
   in the lower 48.
+heritage: 1.884
+vibrancy: 1.532
+nature: 7.502
+off_the_beaten_track: 6.098
 ---
 
 South of Hanksville and north of Bullfrog Marina at Lake Powell, the Henry Mountains are one of the most remote and least visited mountain ranges in the lower 48 states. Their five peaks — the highest, Mount Ellen, reaching over 3,500 metres — were supposedly the last mountains in the contiguous United States to be named by European explorers, and they still feel undiscovered.

@@ -9,10 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Playa_Flamingo,_Costa_Rica
 latitude: 10.4394
 loc_type: city
 longitude: -85.7893
-score: 8.54
+score: 3.956
 snippet: Guanacaste beach town on a white-sand crescent, known for marina-based sportfishing.
 title: Playa Flamingo
 type: location
+heritage: 0.968
+vibrancy: 2.613
+nature: 4.87
+off_the_beaten_track: 1.325
 ---
 
 Playa Flamingo is one of the more upscale beach towns on Costa Rica's northern Pacific coast, set along a crescent of white sand in the Guanacaste province. Unlike many Costa Rican beach destinations, Flamingo has seen significant development — condominiums, a full-service marina, and a handful of resort-style restaurants line the hillsides above the bay. The sand here is genuinely white, which is unusual for the Pacific side and a big part of the town's appeal.

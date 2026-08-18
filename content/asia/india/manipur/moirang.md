@@ -5,11 +5,15 @@ done:
 latitude: 24.500551
 loc_type: city
 longitude: 93.776748
-score: 6.09
+score: 5.187
 snippet: Manipur lakeside town tied to Loktak Lake, ancient legends, and Indian National
   Army history.
 title: Moirang
 type: location
+heritage: 6.824
+vibrancy: 2.213
+nature: 3.123
+off_the_beaten_track: 3.914
 ---
 
 Moirang is one of the oldest settlements in [Manipur](/asia/india/manipur), lying about 45 km south of [Imphal](/asia/india/manipur/imphal) on the shore of [Loktak Lake](/asia/india/manipur/moirang/loktak_lake). The town carries deep historical weight: during World War II it served as the headquarters of the Indian National Army, and it was here that Subhas Chandra Bose first raised the INA flag on Indian soil. The [INA Memorial](/asia/india/manipur/moirang/ina_memorial), with its statue of Bose and a small museum of wartime artefacts, is the main reason travellers stop here.

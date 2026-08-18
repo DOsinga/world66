@@ -6,13 +6,18 @@ image_source: https://commons.wikimedia.org/wiki/File:TempleOfMasks_Uaxactun.JPG
 latitude: 17.394
 loc_type: feature
 longitude: -89.633
-score: 8.3
-snippet: Ancient Maya city north of Tikal, known for an early astronomical complex aligned with the solstices.
+score: 6.939
+snippet: Ancient Maya city north of Tikal, known for an early astronomical complex
+  aligned with the solstices.
 tags:
 - sight
 - ruin
 title: Uaxactun
 type: location
+heritage: 8.157
+vibrancy: 1.92
+nature: 6.381
+off_the_beaten_track: 4.994
 ---
 
 A medium-sized Maya site 25 kilometres north of Tikal, reached by a slow dirt road through the Tikal national park. Uaxactun is famous for Group E, the earliest known formal astronomical observatory in the Maya world — a pyramid aligned with three buildings to mark the equinoxes and solstices, dating to around 600 BC and the prototype for similar groups across Mesoamerica.

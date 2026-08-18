@@ -7,11 +7,15 @@ done:
 latitude: -0.3031
 loc_type: city
 longitude: 36.08
-score: 7.88
+score: 5.566
 snippet: Rift Valley city beside Lake Nakuru, ringed by soda lakes, volcanoes, farmland,
   and rhino country
 title: Nakuru
 type: location
+heritage: 4.453
+vibrancy: 5.268
+nature: 6.081
+off_the_beaten_track: 4.308
 ---
 
 Nakuru is Kenya's fourth-largest city and the unofficial capital of the Rift Valley — a busy agricultural hub on the floor of the Great Rift, ringed by volcanoes, soda lakes, and farmland. Most travellers come for one reason: **Lake Nakuru National Park**, the alkaline lake on the city's southern edge that, in good years, turns pink with millions of flamingos and shelters the densest population of black and white rhinos in Kenya.

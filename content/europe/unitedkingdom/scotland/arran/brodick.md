@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Caledonian_Isles_Departing
 latitude: 55.577516
 loc_type: city
 longitude: -5.150686
-score: 7.98
+score: 5.207
 title: Brodick
 type: location
 snippet: Arran ferry town on a broad bay below Goat Fell, with Brodick Castle in woodland
   above.
+heritage: 4.286
+vibrancy: 2.72
+nature: 6.254
+off_the_beaten_track: 2.937
 ---
 
 Brodick is [Arran](/europe/unitedkingdom/scotland/arran)'s main town and the point of arrival for most visitors, built around a broad sandy bay where the CalMac ferry from Ardrossan docks after its 55-minute crossing. The town stretches along the shore with the dramatic ridge of Goat Fell rising steeply behind it, and on a clear day the combination of mountain, bay, and sea is genuinely impressive.

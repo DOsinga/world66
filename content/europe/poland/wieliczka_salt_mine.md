@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Wieliczka_salt_mine,_Krako
 latitude: 49.9847
 loc_type: feature
 longitude: 20.0554
-score: 9.0
+score: 6.318
 snippet: UNESCO-listed salt mine with underground chapels and chambers, worked continuously
   since the 13th century
 story: 'The mine has been in continuous operation since the 13th century, which makes
@@ -23,6 +23,10 @@ tags:
 - sight
 title: Wieliczka Salt Mine
 type: location
+heritage: 8.275
+vibrancy: 3.476
+nature: 2.476
+off_the_beaten_track: 2.355
 ---
 
 Fifteen kilometres southeast of Krakow, the Wieliczka Salt Mine has been extracting salt from beneath the Carpathian foothills since the 13th century and is one of the oldest industrial enterprises in Europe. The mine was a crucial source of Poland's royal revenue for centuries — "white gold" — and the inscribed UNESCO World Heritage Site status reflects both its historical significance and the extraordinary spaces the miners created underground.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 63.7833
 longitude: -18.0667
-score: 7.5
+score: 6.008
 snippet: Tiny South Iceland Ring Road village below waterfalls, basalt floors, and
   lava-country cliffs.
 sources:
@@ -15,6 +15,10 @@ image: kirkjubaejarklaustur.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kirkjub%C3%A6jarklaustur-Lavafeld-22-2018-gje.jpg
 image_license: CC BY 4.0
 image_attribution: Gerd Eichmann
+heritage: 1.925
+vibrancy: 1.627
+nature: 7.661
+off_the_beaten_track: 5.411
 ---
 
 Kirkjubæjarklaustur, usually shortened to Klaustur, is a small Ring Road village that works better than its size suggests. The name points back to a medieval convent, but the appeal now is the immediate landscape: waterfall, basalt pavement, cliffs, mossy lava, and the long empty run between Vik and Skaftafell.

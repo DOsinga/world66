@@ -5,11 +5,15 @@ done:
 latitude: 14.651055
 loc_type: city
 longitude: 121.048625
-score: 6.63
+score: 4.432
 snippet: Sprawling Metro Manila city of government institutions, Cubao nightlife,
   Maginhawa food streets, and university districts.
 title: Quezon City
 type: location
+heritage: 4.684
+vibrancy: 4.37
+nature: 2.784
+off_the_beaten_track: 0.961
 ---
 
 Quezon City is the largest city in Metro Manila by area and population, sprawling across the northern half of the Philippine capital region. Named after Manuel Quezon, the second president of the Philippines, it served as the national capital from 1948 to 1976 and still houses the [Batasang Pambansa](/asia/philippines/quezoncity/batasang_pambansa), the country's legislature.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Easton,_Pennsylvania_-_114
 latitude: 40.691608
 loc_type: city
 longitude: -75.209987
-score: 6.49
+score: 4.41
 snippet: Pennsylvania river city where the Delaware and Lehigh meet beside Crayola,
   canals, and a revived square
 title: Easton
 type: location
+heritage: 4.953
+vibrancy: 4.097
+nature: 3.328
+off_the_beaten_track: 1.599
 ---
 
 Easton sits at the confluence of the Delaware and Lehigh Rivers on Pennsylvania's eastern border with New Jersey. The town is best known as the home of the [Crayola Experience](/northamerica/unitedstates/pennsylvania/easton_pa/crayola_experience) (formerly the Crayola Factory), where families can mould their own crayons and work their way through four floors of hands-on art. The same building — Two Rivers Landing — also houses the underrated [National Canal Museum](/northamerica/unitedstates/pennsylvania/easton_pa/national_canal_museum), which runs the only mule-drawn canal boat ride in the country down at [Hugh Moore Park](/northamerica/unitedstates/pennsylvania/easton_pa/hugh_moore_park).

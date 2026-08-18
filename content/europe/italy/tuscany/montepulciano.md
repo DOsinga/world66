@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Montepulciano_San_Biagio_F
 latitude: 43.0931
 loc_type: city
 longitude: 11.7821
-score: 8.99
+score: 6.195
 snippet: Renaissance Tuscan hill town between Val di Chiana and Val d'Orcia, famed
   for Vino Nobile
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Montepulciano
 title: Montepulciano
 type: location
+heritage: 6.845
+vibrancy: 5.411
+nature: 6.687
+off_the_beaten_track: 2.243
 ---
 
 Montepulciano is a Renaissance hill town in southern Tuscany, perched on a long narrow ridge between the Val di Chiana and the Val d'Orcia at about 600 metres elevation. The views in every direction are the classic Tuscan rolling-hills panorama that appears on a thousand magazine covers, and the town itself is exceptionally well-preserved — its main street climbs steeply through layers of Renaissance civic architecture to a handsome main square flanked by a Florentine-style palazzo and a seventeenth-century cathedral.

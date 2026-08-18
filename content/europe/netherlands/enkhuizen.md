@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:00_0493_Drommedaris_-_Enkh
 latitude: 52.75772
 loc_type: city
 longitude: 5.320694
-score: 7.85
+score: 5.268
 snippet: Old Zuiderzee harbour town with Dutch Golden Age trading roots and the open-air
   Zuiderzee Museum
 title: Enkhuizen
 type: location
+heritage: 6.465
+vibrancy: 3.781
+nature: 3.579
+off_the_beaten_track: 1.775
 ---
 
 Enkhuizen is a handsome old town on the Ijsselmeer (the former Zuiderzee), about an hour from Amsterdam by train via [Hoorn](/europe/netherlands/hoorn). Once one of the most powerful trading cities in the Dutch Golden Age — at its peak in the 17th century it was a major base for the VOC — it is now a quiet, well-preserved harbour town that rewards an easy day trip.

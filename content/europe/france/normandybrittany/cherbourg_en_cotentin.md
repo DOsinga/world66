@@ -2,7 +2,7 @@
 latitude: 49.6333
 loc_type: city
 longitude: -1.6167
-score: 7.2
+score: 5.148
 snippet: Cotentin port city with a great artificial harbour, maritime museum, and
   Normandy naval history.
 sources:
@@ -16,6 +16,10 @@ image: cherbourg_en_cotentin.jpg
 image_source: https://commons.wikimedia.org/wiki/File:La_Cit%C3%A9_de_la_Mer_Cherbourg_Tourisme.JPG
 image_license: CC BY-SA 4.0
 image_attribution: Office de Tourisme Cherbourg Cotentin
+heritage: 6.011
+vibrancy: 4.316
+nature: 4.65
+off_the_beaten_track: 2.094
 ---
 
 Cherbourg-en-Cotentin is the big port at the northern tip of the Cotentin peninsula, facing the Channel with its back to the Norman bocage. Ferries, naval works, Atlantic liners, and submarine stories have all left their mark here, so the city feels more maritime than picturesque.

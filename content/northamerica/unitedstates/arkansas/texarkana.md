@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Texarkana_April_2016_029_(
 latitude: 33.4467
 loc_type: city
 longitude: -94.0771
-score: 5.67
+score: 2.54
 title: Texarkana
 type: location
 snippet: Border city split between Arkansas and Texas, with a downtown courthouse
   straddling the state line.
+heritage: 2.444
+vibrancy: 2.254
+nature: 2.848
+off_the_beaten_track: 1.582
 ---
 
 Texarkana straddles the border of Texas and Arkansas — literally. State Line Avenue runs through downtown, and you can stand with one foot in each state at [Photographers Island](/northamerica/unitedstates/arkansas/texarkana/photographers_island). The [U.S. Post Office and Courthouse](/northamerica/unitedstates/arkansas/texarkana/post_office_courthouse) sits directly on the line, making it the only federal building in the country in two states at once. The novelty is genuine fun, and the photo opportunity at the state line marker is obligatory.

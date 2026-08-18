@@ -4,13 +4,17 @@ type: location
 loc_type: city
 latitude: -14.4667
 longitude: 132.2667
-score: 7.7
+score: 6.669
 snippet: Lower Top End river town and base for Nitmiluk Gorge, hot springs, and caves.
 sources:
-  - https://en.wikivoyage.org/wiki/Katherine
-  - https://en.wikipedia.org/wiki/Katherine,_Northern_Territory
-  - https://nt.gov.au/parks/find-a-park/nitmiluk-national-park
-  - https://northernterritory.com/us/en/katherine-and-surrounds/katherine-region-guide
+- https://en.wikivoyage.org/wiki/Katherine
+- https://en.wikipedia.org/wiki/Katherine,_Northern_Territory
+- https://nt.gov.au/parks/find-a-park/nitmiluk-national-park
+- https://northernterritory.com/us/en/katherine-and-surrounds/katherine-region-guide
+heritage: 6.356
+vibrancy: 1.121
+nature: 7.643
+off_the_beaten_track: 5.741
 ---
 
 Katherine is the Northern Territory town where the Stuart Highway finally starts to feel tropical. It sits on the Katherine River, south of Darwin and north of the red centre, with heat, paperbarks, pandanus, and long roads pulling in every direction.

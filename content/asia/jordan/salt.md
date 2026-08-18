@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Old_as-salt_jordan_2024_(1
 latitude: 32.0392
 loc_type: city
 longitude: 35.727
-score: 7.03
+score: 5.08
 snippet: Hill town west of Amman, known for Ottoman limestone houses, steep streets,
   and a working souq.
 title: Salt
 type: location
+heritage: 3.004
+vibrancy: 3.147
+nature: 6.353
+off_the_beaten_track: 2.648
 ---
 
 Salt is one of Jordan's most rewarding small towns, and most visitors never make it here. Perched on a cluster of hills just thirty kilometres west of [Amman](/asia/jordan/amman), it was the region's administrative capital under the Ottomans and a major trading hub long before Amman grew into the sprawling city it is today. The result is a town of genuine character — steep, winding streets lined with golden Ottoman-era limestone buildings, many with distinctive arched windows and wrought-iron balconies.

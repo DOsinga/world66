@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Acorn_Street,_Boston,_Unit
 latitude: 42.3589
 loc_type: city
 longitude: -71.0568
-score: 9.08
+score: 7.024
 snippet: Compact New England city of Revolutionary sites, universities, old neighbourhoods,
   and waterfront culture
 title: Boston
 type: location
+heritage: 6.211
+vibrancy: 7.386
+nature: 4.253
+off_the_beaten_track: 1.039
 ---
 
 Boston is where American history began, and the city has never let anyone forget it. The Freedom Trail threads past the sites of the Boston Massacre, the Boston Tea Party, and Paul Revere's midnight ride, all within a walkable two-and-a-half-mile loop. But Boston is much more than a history lesson -- it is a modern, cosmopolitan city with world-class museums, a thriving food scene, and some of the best universities on the planet.

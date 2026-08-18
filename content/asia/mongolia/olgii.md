@@ -5,7 +5,7 @@ loc_type: city
 latitude: 48.965636
 longitude: 89.963208
 wikidata: Q297060
-score: 6.8
+score: 6.056
 snippet: Kazakh-majority city in western Mongolia, known for eagle hunters, mosques,
   and Altai expeditions.
 sources:
@@ -17,6 +17,10 @@ image: olgii.jpg
 image_source: https://commons.wikimedia.org/wiki/File:%C3%96lgii_Mosque.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Nahcamuk
+heritage: 4.854
+vibrancy: 0.964
+nature: 7.295
+off_the_beaten_track: 6.852
 ---
 
 Ölgii sits far out in western Mongolia, close to the borders with China, Russia, and Kazakhstan. It is not a polished city, and that is part of the point: the streets feel practical and wind-scoured, the mountains sit close, and Kazakh culture is more visible here than almost anywhere else in Mongolia.

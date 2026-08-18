@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Queyras_abries.jpg
 latitude: 44.729805
 loc_type: city
 longitude: 6.844817
-score: 8.04
+score: 5.968
 snippet: High Alpine natural park on France's Italian border, known for sunny valleys
   and flower-rich meadows.
 title: Queyras
 type: location
+heritage: 3.062
+vibrancy: 1.028
+nature: 7.486
+off_the_beaten_track: 5.784
 ---
 
 The Queyras Regional Natural Park sits in the far southeast of France, south of Briançon and right against the Italian border. It enjoys a microclimate of its own — over 300 days of sunshine a year — and feels like a well-kept secret compared to the busier resorts of Savoie and Haute-Savoie further north.

@@ -7,12 +7,16 @@ latitude: 49.2969
 longitude: 19.9505
 done:
   location_cleanup: 2026-04-06
-score: 8.61
+score: 6.278
 loc_type: city
 image: zakopane.jpg
 image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Poland_2025_487_Zakopane_-_Nativity_Scene.jpg
 image_attribution: Scotch Mist
+heritage: 5.816
+vibrancy: 4.931
+nature: 7.265
+off_the_beaten_track: 2.875
 ---
 
 Zakopane is Poland's premier mountain resort town, perched at 850 metres in the Tatra foothills near the Slovak border. It has drawn Polish artists, writers, and holidaymakers since the late 19th century and remains enormously popular in both winter (skiing) and summer (hiking). The town is a mix of traditional wooden Highlander (Góral) architecture, souvenir stalls, and ski lifts — lively and a little kitschy, but a genuine base for some of the best mountain scenery in Central Europe.

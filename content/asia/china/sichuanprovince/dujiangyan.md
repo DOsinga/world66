@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Dujiang_Weir.jpg
 latitude: 30.996525
 loc_type: city
 longitude: 103.614272
-score: 8.13
+score: 4.734
 snippet: Sichuan city northwest of Chengdu, known for its ancient irrigation system
   on the Min River.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Mount_Qingcheng
 title: Dujiangyan
 type: location
+heritage: 4.841
+vibrancy: 2.34
+nature: 5.286
+off_the_beaten_track: 3.849
 ---
 
 Dujiangyan is a city northwest of [Chengdu](/asia/china/sichuanprovince/chengdu), easily reached by high-speed rail in about 30 minutes. It is best known for the [Dujiangyan Irrigation System](/asia/china/sichuanprovince/dujiangyan/dujiangyan_irrigation_system), a UNESCO World Heritage Site built in 256 BC by the governor Li Bing. The system still functions today, channelling the Min River to irrigate the Chengdu Plain and making it one of the most productive agricultural regions in China — one of the great engineering achievements of antiquity.

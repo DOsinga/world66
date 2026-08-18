@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Rethymno_-_Venetian_fortre
 latitude: 35.367647
 loc_type: city
 longitude: 24.473608
-score: 9.06
+score: 5.965
 snippet: Cretan harbour city with a Venetian-Ottoman old town, lighthouse, minarets,
   and fortress walls
 title: Rethimno
 type: location
+heritage: 6.307
+vibrancy: 5.88
+nature: 5.471
+off_the_beaten_track: 2.035
 ---
 
 Rethimno is the third largest city on Crete, on the northern coast between Heraklion and Chania, and it has by some measure the best-preserved old town of the three. The Venetian harbour — complete with its 16th-century lighthouse — is genuinely beautiful, and the narrow streets of the old city behind it are a dense tangle of Venetian loggia, Ottoman mosques and minarets, and overhanging wooden balconies that together tell the layered story of Cretan history more eloquently than any museum.

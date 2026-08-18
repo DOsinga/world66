@@ -4,10 +4,15 @@ type: location
 loc_type: city
 latitude: 50.2167
 longitude: -66.3833
-score: 7.1
-snippet: North Shore port city with Innu culture, cold beaches, and a bay of seven islands.
+score: 4.658
+snippet: North Shore port city with Innu culture, cold beaches, and a bay of seven
+  islands.
 sources:
-  - https://en.wikivoyage.org/wiki/Sept-%C3%8Eles
+- https://en.wikivoyage.org/wiki/Sept-%C3%8Eles
+heritage: 2.32
+vibrancy: 1.758
+nature: 5.555
+off_the_beaten_track: 5.453
 ---
 
 Sept-Îles is the main city on Quebec's far North Shore, a long drive east of Baie-Comeau where Route 138, iron ore, Innu culture, and the Gulf of St Lawrence meet. It is remote without being tiny: ships load at the port, a railway runs north into the interior, and the bay opens around the seven islands that gave the city its name.

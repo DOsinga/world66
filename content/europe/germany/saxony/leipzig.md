@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Altes_Rathaus,_Nikolaikirc
 latitude: 51.340632
 loc_type: city
 longitude: 12.374733
-score: 8.4
+score: 6.075
 title: Leipzig
 type: location
 snippet: Eastern German city of Bach, book fairs, peaceful revolution, and post-reunification
   creative energy.
+heritage: 6.226
+vibrancy: 6.064
+nature: 2.668
+off_the_beaten_track: 1.21
 ---
 
 Leipzig is one of the most dynamic cities in eastern Germany — a place with a musical heritage to rival Vienna, a pivotal role in the fall of the Berlin Wall, and a creative energy that has made it a magnet for artists and students since reunification.

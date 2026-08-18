@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:%E7%8E%89%E6%BA%AA%E7%AA%9
 latitude: 24.354
 loc_type: city
 longitude: 102.54
-score: 6.64
+score: 4.698
 snippet: Southeastern Yunnan plateau city, birthplace of national-anthem composer
   Nie Er and gateway to Fuxian Lake
 sources:
 - https://en.wikivoyage.org/wiki/Yuxi
 title: Yuxi
 type: location
+heritage: 4.513
+vibrancy: 4.016
+nature: 5.342
+off_the_beaten_track: 4.402
 ---
 
 Yuxi is a mid-sized city in southeastern Yunnan, about 90 kilometres south of Kunming on the plateau, and it occupies an odd position in the regional tourist hierarchy — significant enough to anchor a prefecture of several counties, but overlooked by most foreign travellers rushing between Kunming and the more famous destinations to the northwest. Its main claim to national fame is as the birthplace of Nie Er, the composer who wrote the March of the Volunteers, which became China's national anthem. The [Nie Er Memorial Park](/asia/china/yunnanprovince/yuxi/nie_er_park) is dedicated to him with considerable civic pride.

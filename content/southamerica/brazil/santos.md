@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:31012014_Top_05.jpg
 latitude: -23.933599
 loc_type: city
 longitude: -46.32864
-score: 7.23
+score: 5.76
 title: Santos
 type: location
 snippet: Santos is Brazil’s largest port, with a long beachfront and strong coffee
   and football heritage.
+heritage: 4.988
+vibrancy: 6.097
+nature: 3.19
+off_the_beaten_track: 2.562
 ---
 
 Santos is Brazil's largest port and one of the busiest in Latin America, but it is also a beach city with a long seafront and a proud footballing heritage — this is where Pelé played for 18 years. The [Pelé Museum](/southamerica/brazil/santos/pele_museum) at the Vila Belmiro stadium is a pilgrimage for football fans.

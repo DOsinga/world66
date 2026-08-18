@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:El_Castillo-Fortaleza.jpg
 latitude: 11.0181
 loc_type: city
 longitude: -84.4031
-score: 7.42
+score: 6.029
 snippet: Boat-accessible Río San Juan village named for a 17th-century Spanish fortress
   above the rapids.
 title: El Castillo
 type: location
+heritage: 4.892
+vibrancy: 1.584
+nature: 7.271
+off_the_beaten_track: 6.03
 ---
 
 El Castillo is a tiny riverside village on the Río San Juan in southeastern [Nicaragua](/northamerica/nicaragua), accessible only by boat. The journey itself is half the appeal — you take a panga from San Carlos at the eastern end of Lake Nicaragua and travel several hours downstream through dense tropical forest, past caiman-studded banks and howler monkey territory. There are no roads here, and the isolation is part of the charm.

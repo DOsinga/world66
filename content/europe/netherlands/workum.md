@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:8711_Workum,_Netherlands_-
 latitude: 52.977849
 loc_type: city
 longitude: 5.446409
-score: 7.31
+score: 4.231
 snippet: Historic Frisian town on the IJsselmeer, once a Zuiderzee trading port with
   stepped-gable streets.
 tags:
 - friesland
 title: Workum
 type: location
+heritage: 5.29
+vibrancy: 2.553
+nature: 3.172
+off_the_beaten_track: 1.711
 ---
 
 Workum is one of the eleven historic Frisian cities, a quiet town on the shore of the IJsselmeer with a handsome church tower and a traditional harbour. It has city rights since 1399 and the stepped gables along its streets tell the story of a prosperous trading port on what was then the Zuiderzee. Today it is calm and unhurried, which is precisely why the Dutch come here.

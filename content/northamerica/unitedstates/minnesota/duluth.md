@@ -5,7 +5,7 @@ done:
 latitude: 46.7838
 loc_type: city
 longitude: -92.1053
-score: 7.4
+score: 5.361
 snippet: Lake Superior port city climbing from a ship canal toward hillside views
   and North Shore drives.
 sources:
@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Duluth_Depot
 title: Duluth
 type: location
+heritage: 4.477
+vibrancy: 4.756
+nature: 6.012
+off_the_beaten_track: 3.122
 ---
 
 Duluth sits at the western tip of Lake Superior, where the St. Louis River meets the largest freshwater lake in the world by surface area. The city climbs steeply from the lakefront up a hillside, giving most of its neighbourhoods dramatic views of the harbour and the open water beyond.

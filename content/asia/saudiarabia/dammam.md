@@ -7,11 +7,15 @@ done:
 latitude: 26.4368
 loc_type: city
 longitude: 50.104
-score: 5.47
+score: 3.17
 snippet: Eastern Province port city on the Arabian Gulf, shaped by Saudi Arabia’s
   oil boom and lively waterfront corniche.
 title: Dammam
 type: location
+heritage: 3.778
+vibrancy: 2.504
+nature: 1.508
+off_the_beaten_track: 2.946
 ---
 
 Dammam is the capital of Saudi Arabia's Eastern Province and one of the country's major urban centres, sitting on the western shore of the Arabian Gulf. The city grew rapidly with the oil industry after the discovery of petroleum in 1938 — [Dammam Well No. 7](/asia/saudiarabia/dammam/dammam_well_no7) struck oil on 4 March 1938 and transformed Saudi Arabia's fortunes. Today Dammam forms part of a large conurbation with the neighbouring cities of Al-Khobar and Dhahran. It is an important commercial hub with significant Indian, Pakistani, and other expatriate communities.

@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2016_Aix-en-Provence_-_Le_
 latitude: 43.529842
 loc_type: city
 longitude: 5.447474
-score: 9.24
+score: 6.553
 snippet: Elegant Provençal university city of plane-shaded boulevards, fountains,
   and old-town terraces.
 title: Aix-en-Provence
 type: location
+heritage: 6.808
+vibrancy: 6.506
+nature: 5.635
+off_the_beaten_track: 1.473
 ---
 
 Aix is the ancient capital of Provence, and it still carries itself that way. Elegant townhouses line plane-tree-shaded boulevards, fountains splash on every other corner, and cafe terraces fill with students from one of France's oldest universities.

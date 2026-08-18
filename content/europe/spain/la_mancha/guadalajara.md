@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:1004_03_Guadalajara-Palaci
 latitude: 40.633
 loc_type: city
 longitude: -3.167
-score: 7.28
+score: 5.007
 snippet: Provincial capital east of Madrid, known for the Isabelline Gothic Palacio
   del Infantado.
 title: Guadalajara
 type: location
+heritage: 5.956
+vibrancy: 3.976
+nature: 2.687
+off_the_beaten_track: 1.751
 ---
 
 Guadalajara is a provincial capital of about 85,000 people, an hour east of Madrid by commuter rail. It sits above a bend in the Henares river and has a quiet, unhurried character that stands in sharp contrast to the capital it effectively feeds as a commuter town. Most visitors arrive on day trips from Madrid, and the city is easy enough to see in an afternoon.

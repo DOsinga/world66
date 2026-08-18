@@ -2,11 +2,15 @@
 latitude: -0.3167
 loc_type: feature
 longitude: 100.1667
-score: 7.85
+score: 5.694
 snippet: West Sumatra caldera lake reached by 44 hairpins, with quiet shore villages
   below volcanic hills.
 title: Lake Maninjau
 type: location
+heritage: 3.889
+vibrancy: 1.866
+nature: 7.101
+off_the_beaten_track: 5.65
 ---
 
 Lake Maninjau is a caldera lake in West Sumatra, formed thousands of years ago by a volcanic eruption that left a roughly oval depression 16 kilometres long and 8 kilometres wide. The road into the lake basin descends through 44 tight hairpin bends off the crater rim, with dramatic views over the water below.

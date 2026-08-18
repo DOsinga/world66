@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Maroochydore.jpg
 latitude: -26.6557
 loc_type: city
 longitude: 153.0947
-score: 7.63
+score: 5.411
 snippet: Sunshine Coast city at the Maroochy River mouth, centred on surf beaches
   and riverfront parkland.
 title: Maroochydore
 type: location
+heritage: 2.271
+vibrancy: 4.55
+nature: 6.189
+off_the_beaten_track: 1.668
 ---
 
 Maroochydore is the commercial centre of Queensland's Sunshine Coast, sitting at the mouth of the [Maroochy River](/australiaandpacific/australia/queensland/maroochydore/maroochy_river) about an hour north of Brisbane. It is less glamorous than [Noosa](/australiaandpacific/australia/queensland/noosaheads) further up the coast, but the beaches are just as good and considerably less crowded.

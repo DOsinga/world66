@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Vama_Veche_2005_(243624713
 latitude: 43.7525
 loc_type: city
 longitude: 28.5722
-score: 7.15
+score: 4.828
 snippet: Black Sea beach village with Romania's bohemian, music-heavy alternative
   seaside culture.
 title: Vama Veche
 type: location
+heritage: 5.259
+vibrancy: 4.701
+nature: 4.717
+off_the_beaten_track: 3.479
 ---
 
 Vama Veche is Romania's most bohemian beach village — a scrappy, sun-baked strip on the Black Sea coast, just 7 km from the Bulgarian border. For decades it was the unofficial refuge of artists, students, nudists, and anyone seeking to escape the regimented seaside resorts further north. That spirit has survived, though barely.

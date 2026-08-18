@@ -4,10 +4,15 @@ type: location
 loc_type: city
 latitude: 60.229
 longitude: -1.566
-score: 7.0
-snippet: West Mainland Shetland village near prehistoric sites, rugged coast, and ferries to Papa Stour.
+score: 5.391
+snippet: West Mainland Shetland village near prehistoric sites, rugged coast, and
+  ferries to Papa Stour.
 sources:
-  - https://en.wikivoyage.org/wiki/Walls
+- https://en.wikivoyage.org/wiki/Walls
+heritage: 5.39
+vibrancy: 2.207
+nature: 6.071
+off_the_beaten_track: 5.959
 ---
 
 Walls, or Waas, is a small fishing village on the west Mainland of [Shetland](/europe/unitedkingdom/scotland/shetland). It is not a town in the usual sense, but a base for a sparse and beautiful corner of the islands: moorland roads, old archaeology, island ferries, and sea cliffs facing the Atlantic.

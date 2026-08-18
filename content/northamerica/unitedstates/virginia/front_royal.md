@@ -5,7 +5,7 @@ loc_type: city
 latitude: 38.9182
 longitude: -78.1944
 wikidata: Q508358
-score: 7.1
+score: 4.325
 snippet: Shenandoah Valley town at the north gate of Skyline Drive and the Blue Ridge.
 sources:
 - https://en.wikivoyage.org/wiki/Front_Royal
@@ -18,6 +18,10 @@ image: front_royal.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2018-10-18_13_26_05_View_south_along_U.S._Routes_340_and_522_and_east_along_Virginia_State_Route_55_(Shenandoah_Avenue)_crossing_the_South_Fork_Shenandoah_River_in_Front_Royal,_Warren_County,_Virginia.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Famartin
+heritage: 4.792
+vibrancy: 2.783
+nature: 4.639
+off_the_beaten_track: 1.959
 ---
 
 *North America > United States > Virginia > Front Royal*

@@ -4,11 +4,15 @@ done:
 latitude: 36.594
 loc_type: city
 longitude: -94.769
-score: 5.94
+score: 4.349
 snippet: Northeastern Oklahoma lake town with pioneer museums, gardens, and Grand
   Lake boating
 title: Grove
 type: location
+heritage: 2.038
+vibrancy: 1.926
+nature: 5.811
+off_the_beaten_track: 2.56
 ---
 
 Grove is a small town on the northeast shore of [Grand Lake o' the Cherokees](/northamerica/unitedstates/oklahoma/grove/grand_lake), in Delaware County, Oklahoma. Founded as a stop on the Kansas City Southern Railway in the 1890s, it now lives off the lake — boating, fishing, retirees, and weekend visitors from Tulsa and Kansas City — and has a population of around 7,000.

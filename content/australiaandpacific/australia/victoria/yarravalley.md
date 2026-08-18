@@ -4,7 +4,7 @@ type: location
 loc_type: feature
 latitude: -37.671
 longitude: 145.528
-score: 8.3
+score: 5.797
 snippet: Cool-climate wine region in the hills east of Melbourne, dotted with cellar
   doors and a native wildlife sanctuary.
 sources:
@@ -13,6 +13,10 @@ image: yarravalley.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Rochford_Wines_Yarra_Valley_from_above.jpg
 image_license: CC BY 4.0
 image_attribution: Bob Tan
+heritage: 5.321
+vibrancy: 5.759
+nature: 5.894
+off_the_beaten_track: 2.852
 ---
 
 The Yarra Valley wine region begins at Lilydale, about 40 kilometres east of Melbourne, and extends up into the Great Dividing Range foothills around Healesville. The valley produces some of Australia's best cool-climate wines, particularly Pinot Noir, Chardonnay, and sparkling wine: the major estates of Domaine Chandon, De Bortoli, and Yering Station all have cellar doors with restaurants or cafes that make for a comfortable half-day circuit.

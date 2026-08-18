@@ -10,9 +10,15 @@ loc_type: city
 longitude: -8.2328
 sources:
 - https://en.wikipedia.org/wiki/Ferrol,_Spain
-snippet: Galician naval city built around an Enlightenment street grid and Spain's principal Atlantic shipyards.
+snippet: Galician naval city built around an Enlightenment street grid and Spain's
+  principal Atlantic shipyards.
 title: Ferrol
 type: location
+score: 4.495
+heritage: 4.866
+vibrancy: 3.213
+nature: 4.904
+off_the_beaten_track: 1.981
 ---
 
 Ferrol is a naval city of about 65,000 people at the head of a long, deep ría on the north Galician coast, roughly 60 kilometres up the coast from [A Coruña](/europe/spain/galicia/lacoruna). Spain founded its principal Atlantic shipyards here in the mid-eighteenth century, and the city was built — quite deliberately and almost from scratch — to serve them. The result is a place that looks unlike anywhere else in Galicia: a planned Enlightenment grid of straight streets and arcaded squares laid out around the [Arsenal](/europe/spain/galicia/ferrol/arsenal_de_ferrol), with the older fishing town of Ferrol Vello tucked along the waterfront beside it.

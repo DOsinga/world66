@@ -5,7 +5,7 @@ loc_type: city
 latitude: 34.9756
 longitude: 138.3828
 wikidata: Q174691
-score: 8.0
+score: 5.435
 snippet: Coastal Japanese city of Fuji views, green tea, Tokugawa history, and Suruga
   Bay.
 sources:
@@ -17,6 +17,10 @@ image: shizuoka.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mount_Fuji_and_Port_of_Shimizu_from_Nihondaira.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Alpsdake
+heritage: 4.747
+vibrancy: 5.268
+nature: 5.865
+off_the_beaten_track: 2.239
 ---
 
 Shizuoka is easy to underrate from the Tokaido Shinkansen, where it can look like another large city between Tokyo and Nagoya. Step off the train and the place becomes much more specific: Suruga Bay seafood, green tea hills, Tokugawa history, and some of Japan's cleanest views of Mount Fuji when the weather cooperates.

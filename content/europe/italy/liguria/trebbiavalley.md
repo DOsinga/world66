@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Trebbia_Valley_-_Brugnello
 latitude: 44.549
 loc_type: feature
 longitude: 9.217
-score: 5.8
+score: 4.903
 snippet: Ligurian Apennine valley outside Genoa, threaded by the Trebbia River and
   old pilgrimage villages
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Trebbia
 title: Trebbia Valley
 type: location
+heritage: 4.809
+vibrancy: 1.666
+nature: 5.562
+off_the_beaten_track: 3.935
 ---
 
 Just outside [Genoa](/europe/italy/liguria/genoa), the Trebbia Valley cuts a narrow, winding path through the Ligurian Apennines. Follow the SS45 past Torriglia and you find yourself in a small but genuinely beautiful mountain landscape that most visitors to the Ligurian coast never reach.

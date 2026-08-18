@@ -5,11 +5,15 @@ done:
 latitude: 41.3658
 loc_type: city
 longitude: 48.5128
-score: 5.89
+score: 3.029
 snippet: Mountain Jewish town across the river from Quba, with synagogues and a dedicated
   heritage museum.
 title: Krasnaya Sloboda
 type: location
+heritage: 2.114
+vibrancy: 1.699
+nature: 2.439
+off_the_beaten_track: 5.158
 ---
 
 Krasnaya Sloboda sits on the northern bank of the Kudyal River gorge, directly facing [Quba](/europe/azerbaijan/quba) — you can walk between the two towns across the [footbridge](/europe/azerbaijan/krasnayasloboda/footbridge_to_quba). The town is remarkable as one of the last surviving settlements of the Mountain Jews, a community that has lived in the eastern Caucasus for centuries.

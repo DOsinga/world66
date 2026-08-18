@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Palmeraie_gab%C3%A8s2.jpg
 latitude: 33.8833
 loc_type: city
 longitude: 10.1167
-score: 6.2
+score: 4.588
 snippet: Working port city on Tunisia’s east coast, distinguished by its rare Mediterranean
   seaside oasis.
 title: Gabès
 type: location
+heritage: 4.614
+vibrancy: 2.874
+nature: 5.155
+off_the_beaten_track: 5.572
 ---
 
 Gabès is a working port city on the Gulf of Gabès, about halfway down Tunisia's east coast. Its main distinction — and the reason it appears on most itineraries crossing the south — is its **[seaside oasis](/africa/tunisia/gabes/seaside_oasis)**, the only one of its kind in the Mediterranean basin. For centuries, palm groves, pomegranate orchards, and vegetable gardens grew right down to the salt water, irrigated by springs that bubbled up from beneath the sand. The traditional oasis is still there, although industrial pollution from the chemical plants along the coast has put it under steady pressure, and the springs that once flowed all year now run weakly or have dried out altogether.

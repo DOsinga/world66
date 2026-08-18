@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Narshi_Gonpa_Ngawa_Sichuan
 latitude: 31.901569
 loc_type: city
 longitude: 102.222924
-score: 7.04
+score: 4.926
 snippet: High-plateau Sichuan town amid Tibetan and Qiang landscapes of yak pastures,
   wetlands, and glaciated peaks.
 sources:
 - https://en.wikipedia.org/wiki/Ngawa_Tibetan_and_Qiang_Autonomous_Prefecture
 title: Aba (Ngawa)
 type: location
+heritage: 3.817
+vibrancy: 2.011
+nature: 5.685
+off_the_beaten_track: 6.392
 ---
 
 Aba — known in Tibetan as Ngawa — is the administrative seat of Aba Tibetan and Qiang Autonomous Prefecture, a vast high-plateau territory in the northwest corner of [Sichuan Province](/asia/china/sichuanprovince). The prefecture covers roughly 84,000 square kilometres and sits where the eastern edge of the Tibetan Plateau spills down toward the Chengdu Plain, and the landscape shifts constantly between yak pastures, wetlands, mountain forests, and glaciated peaks.

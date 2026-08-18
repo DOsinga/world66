@@ -5,7 +5,7 @@ done:
 latitude: 44.447939
 loc_type: city
 longitude: 8.394149
-score: 6.21
+score: 4.412
 snippet: Small Ligurian Apennine village set among chestnut and oak woods above the
   Giusvalletta valley.
 sources:
@@ -14,6 +14,10 @@ tags:
 - rivieradellepalme
 title: Giusvalla
 type: location
+heritage: 3.676
+vibrancy: 2.601
+nature: 5.281
+off_the_beaten_track: 4.203
 ---
 
 Giusvalla is a small village on the northern slopes of the Ligurian Apennines, perched above the right bank of the Giusvalletta, a tributary of the Valla. At around 500 metres above sea level, it sits in a quiet fold of the hills where farmland gives way to chestnut and oak forest — the kind of inland Ligurian landscape that most visitors to the coast never reach. The village is compact and unhurried, with the feel of a place that has changed slowly over many centuries.

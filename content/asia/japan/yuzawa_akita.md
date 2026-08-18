@@ -5,9 +5,10 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:Oyasu-kyo_in_autumn_20161029.jpg
 latitude: 39.1638
 loc_type: city
-longitude: 140.4870
-score: 6.9
-snippet: Snowy southern Akita city of hot-spring gorges, Inaniwa udon, and mountain steam.
+longitude: 140.487
+score: 3.624
+snippet: Snowy southern Akita city of hot-spring gorges, Inaniwa udon, and mountain
+  steam.
 sources:
 - https://en.wikivoyage.org/wiki/Yuzawa_(Akita)
 - https://www.wikidata.org/wiki/Q633272
@@ -16,6 +17,10 @@ sources:
 title: Yuzawa (Akita)
 type: location
 wikidata: Q633272
+heritage: 2.449
+vibrancy: 2.216
+nature: 4.503
+off_the_beaten_track: 3.651
 ---
 
 Yuzawa sits in southern Akita, where the Yokote Basin starts to fold into the mountains along the Miyagi and Yamagata borders. The city itself is quiet and workaday, but the wider municipality has a clear identity: deep snow, hot springs, steaming ravines, and the thin, hand-stretched Inaniwa udon that is one of Japan's great regional noodles.

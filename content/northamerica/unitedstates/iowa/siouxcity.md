@@ -2,14 +2,19 @@
 title: Sioux City
 type: location
 loc_type: city
-latitude: 42.5000
+latitude: 42.5
 longitude: -96.4003
-score: 6.34
-snippet: Missouri River city where Iowa meets the Loess Hills and Lewis and Clark history.
+score: 2.875
+snippet: Missouri River city where Iowa meets the Loess Hills and Lewis and Clark
+  history.
 sources:
-  - https://en.wikivoyage.org/wiki/Sioux_City
-  - https://en.wikipedia.org/wiki/Sioux_City,_Iowa
-  - https://www.nps.gov/places/sergeant-floyd-monument.htm
+- https://en.wikivoyage.org/wiki/Sioux_City
+- https://en.wikipedia.org/wiki/Sioux_City,_Iowa
+- https://www.nps.gov/places/sergeant-floyd-monument.htm
+heritage: 2.693
+vibrancy: 2.865
+nature: 2.902
+off_the_beaten_track: 1.86
 ---
 
 *North America > United States > Iowa > Sioux City*

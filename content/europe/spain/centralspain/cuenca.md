@@ -5,7 +5,7 @@ done:
 latitude: 40.066103
 loc_type: city
 longitude: -2.131353
-score: 8.45
+score: 6.229
 snippet: Medieval Spanish gorge city where the Huécar and Júcar rivers frame the Casas
   Colgadas
 title: Cuenca
@@ -14,6 +14,10 @@ image: cuenca.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cuenca._ST._Paul%27s_Bridge._Castilla_-_La_Mancha._Spain_(4340400077).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Tomás Fano
+heritage: 7.728
+vibrancy: 3.024
+nature: 4.809
+off_the_beaten_track: 2.152
 ---
 
 Cuenca is one of the most dramatically situated cities in Spain, perched on a gorge where the Huécar and Júcar rivers meet in the Serranía de Cuenca. The old city is a UNESCO World Heritage site and one of the best-preserved medieval hilltop towns in Europe.

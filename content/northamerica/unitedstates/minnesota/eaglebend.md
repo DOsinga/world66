@@ -14,7 +14,11 @@ title: Eagle Bend
 snippet: Small central Minnesota farm town, set among Todd County dairy country and
   quiet lakeside roads.
 type: location
-score: 4.75
+score: 2.11
+heritage: 1.828
+vibrancy: 1.783
+nature: 2.409
+off_the_beaten_track: 1.499
 ---
 
 Eagle Bend is a small town in central [Minnesota](/northamerica/unitedstates/minnesota), set in Todd County dairy country along US Highway 71. It is not a conventional sightseeing stop, and that is worth saying plainly: you come here for quiet roads, farm country, nearby lakes, and the small-town pace rather than a checklist of attractions.

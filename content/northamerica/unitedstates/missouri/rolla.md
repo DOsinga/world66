@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Missouri_-_National_Bank_o
 latitude: 37.950932
 loc_type: city
 longitude: -91.770808
-score: 5.84
+score: 3.112
 snippet: Ozark foothills college town and Missouri S&T home, near trout streams, caves,
   and forest trails.
 title: Rolla
 type: location
+heritage: 2.513
+vibrancy: 3.359
+nature: 2.472
+off_the_beaten_track: 0.809
 ---
 
 Rolla sits in the Ozark foothills at the junction of I-44 and US-63, roughly equidistant from [St. Louis](/northamerica/unitedstates/missouri/stlouis) and [Springfield](/northamerica/unitedstates/missouri/springfield) — locals call it the "Middle of Everywhere." It is the home of [Missouri S&T](/northamerica/unitedstates/missouri/rolla/missouri_st) (formerly the University of Missouri at Rolla), a well-regarded engineering school that gives the small town a college-town energy.

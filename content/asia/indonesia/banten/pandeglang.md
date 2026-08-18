@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kadubungbang,_Cimanuk,_Pan
 latitude: -6.3058
 loc_type: city
 longitude: 106.1058
-score: 6.29
+score: 5.4
 title: Pandeglang
 snippet: Far-west Java regency and gateway to Ujung Kulon, the last refuge of the
   Javan rhinoceros
 type: location
+heritage: 4.69
+vibrancy: 2.245
+nature: 6.382
+off_the_beaten_track: 3.699
 ---
 
 Pandeglang is a regency in the far west of Java, in Banten province. It is the primary gateway to [Ujung Kulon National Park](/asia/indonesia/banten/pandeglang/ujung_kulon), a UNESCO World Heritage Site and the last refuge of the Javan rhinoceros. The landscape ranges from volcanic hills and natural springs to quiet beaches along the Sunda Strait.

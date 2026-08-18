@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Inre_hamnen_i_Helsingborg.
 latitude: 56.0442
 loc_type: city
 longitude: 12.7037
-score: 7.63
+score: 4.944
 snippet: Öresund port city facing Denmark, with Kärnan tower above a compact waterfront
   centre.
 sources:
@@ -18,6 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Dunker_Culture_House
 title: Helsingborg
 type: location
+heritage: 4.749
+vibrancy: 5.056
+nature: 4.651
+off_the_beaten_track: 1.135
 ---
 
 Helsingborg sits at the narrowest point of the Oresund, just four kilometres from [Helsingor](/europe/denmark/helsingor) in Denmark. For centuries this was Sweden's gateway to the continent, and the town still feels more outward-looking than most Swedish cities of its size. The medieval tower of Kärnan — the only remnant of a once-massive fortress — rises above a handsome waterfront lined with restaurants and outdoor cafes.

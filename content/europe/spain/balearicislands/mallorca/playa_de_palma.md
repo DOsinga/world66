@@ -5,13 +5,17 @@ done:
 latitude: 39.5178
 loc_type: city
 longitude: 2.7426
-score: 8.08
+score: 5.148
 sources:
 - https://en.wikipedia.org/wiki/Playa_de_Palma
 title: Playa de Palma
 type: location
 snippet: Mallorca resort strip east of Palma, running along a broad sandy beach between
   former fishing villages.
+heritage: 3.286
+vibrancy: 5.893
+nature: 1.98
+off_the_beaten_track: 0.469
 ---
 
 Playa de Palma is a 3 km stretch of sandy beach running between the former fishing villages of Ca'n Pastilla and S'Arenal, a few kilometres east of Palma. Since the 1960s it has become one of the busiest resort strips in the Balearics, drawing a predominantly German-speaking crowd and earning a reputation for raucous nightlife. The beach itself is wide, clean, and well-equipped.

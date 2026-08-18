@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Mysore_Palace,_India_(phot
 latitude: 12.2958
 loc_type: city
 longitude: 76.6394
-score: 8.87
+score: 5.936
 snippet: Royal Karnataka city of palaces, markets, silk, sandalwood, festivals, and
   Wodeyar-era boulevards.
 title: Mysore
 type: location
+heritage: 7.01
+vibrancy: 4.819
+nature: 3.959
+off_the_beaten_track: 2.294
 ---
 
 Mysore (officially Mysuru) is Karnataka's second-largest city and one of South India's most graceful — the former capital of the Wodeyar dynasty, a royal state that maintained its independence from the British Raj as a princely territory. The city wears its royal past lightly but visibly: in the lavish Mysore Palace (open to the public and illuminated on Sundays and public holidays), in the wide tree-lined streets laid out under enlightened maharajas, and in a civic tradition of sandalwood and incense craftsmanship that fills the air as soon as you step outside the train station.

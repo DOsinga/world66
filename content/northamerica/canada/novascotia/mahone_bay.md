@@ -10,9 +10,15 @@ loc_type: city
 longitude: -64.3819
 sources:
 - https://en.wikipedia.org/wiki/Mahone_Bay,_Nova_Scotia
-snippet: Tiny Nova Scotian harbour town known for three nineteenth-century churches reflected in its sheltered bay.
+snippet: Tiny Nova Scotian harbour town known for three nineteenth-century churches
+  reflected in its sheltered bay.
 title: Mahone Bay
 type: location
+score: 5.415
+heritage: 5.343
+vibrancy: 3.841
+nature: 6.129
+off_the_beaten_track: 3.588
 ---
 
 Mahone Bay is a tiny town of around 1,000 people on the South Shore of Nova Scotia, set on the inner curve of the wide bay of the same name, about 15 kilometres up the coast from [Lunenburg](/northamerica/canada/novascotia/lunenburg) and 90 kilometres from [Halifax](/northamerica/canada/novascotia/halifax). It is best known for a single image — three nineteenth-century waterfront churches lined up in a row, their spires reflecting in the harbour at high tide — which has become one of the most reproduced views in Atlantic Canada. The town is small enough to walk end to end in twenty minutes, and that is exactly what most visitors do: a slow loop along Main Street and the harbour, with a stop at one of the bakeries or wood-fired pizza spots.

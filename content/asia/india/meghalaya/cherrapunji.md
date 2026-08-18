@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Cherrapunji_waterfalls_(In
 latitude: 25.277734
 loc_type: city
 longitude: 91.729242
-score: 7.84
+score: 6.268
 snippet: Khasi Hills town also known as Sohra, famous for heavy rainfall and living
   root bridges.
 sources:
 - https://en.wikipedia.org/wiki/Cherrapunji
 title: Cherrapunji
 type: location
+heritage: 1.632
+vibrancy: 1.15
+nature: 7.9
+off_the_beaten_track: 5.95
 ---
 
 Cherrapunji (also known as Sohra) holds the record for the world's highest annual rainfall — over 11,000 mm in a typical year, with a single-year record of 22,987 mm. Despite being in [Meghalaya](/asia/india/meghalaya) rather than Assam proper, it is easily visited from Guwahati and frequently included in trips to the northeast.

@@ -4,18 +4,22 @@ type: location
 loc_type: city
 latitude: 53.9469
 longitude: -8.09
-score: 6.45
+score: 3.644
 snippet: Small Shannon river town where cruisers, quays, and old bridges set the pace.
 sources:
-  - https://en.wikivoyage.org/wiki/Carrick-on-Shannon
-  - https://leitrimtourism.com/towns-villages/carrick-on-shannon/
-  - https://www.discoverireland.ie/carrick-on-shannon/things-to-do
-  - https://en.wikipedia.org/wiki/Carrick-on-Shannon
+- https://en.wikivoyage.org/wiki/Carrick-on-Shannon
+- https://leitrimtourism.com/towns-villages/carrick-on-shannon/
+- https://www.discoverireland.ie/carrick-on-shannon/things-to-do
+- https://en.wikipedia.org/wiki/Carrick-on-Shannon
 wikidata: Q589390
 image: carrick_on_shannon.jpg
 image_source: https://commons.wikimedia.org/wiki/File:The_Dock,_Carrick-on-Shannon_-_geograph.org.uk_-_209499.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Brian Shaw
+heritage: 2.918
+vibrancy: 2.453
+nature: 4.411
+off_the_beaten_track: 2.49
 ---
 
 Carrick-on-Shannon is a small river town that matters because of the Shannon. The town grew at a crossing point, became a river port, faded when rail and road took over, and then found a second life as one of Ireland's main bases for cruiser holidays. On summer weekends the quays, pubs, and bridges can feel busier than the town's size suggests.

@@ -16,6 +16,11 @@ image: springhill.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Springhill_Mine_1.jpg
 image_license: Public domain
 image_attribution: RobNS at English Wikipedia
+score: 4.376
+heritage: 3.129
+vibrancy: 1.485
+nature: 5.456
+off_the_beaten_track: 3.657
 ---
 
 Springhill is a small Cumberland County town with two stories strong enough to justify a stop: coal and Anne Murray. The town lived by its mines, suffered through disasters in 1891, 1956, and 1958, and then became nationally familiar for a singer whose voice carried far beyond Nova Scotia.

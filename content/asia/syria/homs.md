@@ -4,9 +4,13 @@ type: location
 loc_type: city
 latitude: 34.7271
 longitude: 36.7117
-score: 1.65
+score: 5.451
 snippet: Orontes River city at a Syrian crossroads, with Phoenician, Roman, Byzantine,
   and Ottoman layers.
+heritage: 6.314
+vibrancy: 3.134
+nature: 4.797
+off_the_beaten_track: 7.404
 ---
 
 Homs, Syria's third-largest city, sits at a strategic crossroads between Damascus and the coast, in a wide plain watered by the Orontes River. For centuries it was a trading hub; the old city's souks, mosques, and ancient quarters reflect layers of Phoenician, Roman, Byzantine, and Ottoman presence.

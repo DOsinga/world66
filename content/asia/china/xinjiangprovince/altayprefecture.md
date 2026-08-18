@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:ColourfulBeach.jpg
 latitude: 47.100178
 loc_type: city
 longitude: 88.434175
-score: 6.92
+score: 5.707
 snippet: Northern Xinjiang prefecture of alpine meadows and glacier-fed rivers bordering
   Kazakhstan, Russia, and Mongolia.
 title: Altay Prefecture
 type: location
+heritage: 3.069
+vibrancy: 0.696
+nature: 6.927
+off_the_beaten_track: 6.286
 ---
 
 Altay Prefecture is the northernmost part of Xinjiang, pushing up against the borders of Kazakhstan, Russia, and Mongolia. It is remote, sparsely populated, and spectacularly beautiful — a landscape of alpine meadows, conifer forests, and glacier-fed rivers that feels more like Switzerland or Siberia than the deserts most people associate with Xinjiang.

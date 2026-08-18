@@ -5,11 +5,16 @@ loc_type: city
 latitude: 52.99
 longitude: -6.99
 wikidata: Q251091
-score: 6.9
-snippet: Barrow river town in County Kildare, tied to Shackleton, canals, and medieval south Kildare
+score: 3.428
+snippet: Barrow river town in County Kildare, tied to Shackleton, canals, and medieval
+  south Kildare
 sources:
-  - https://en.wikivoyage.org/wiki/Athy
-  - https://www.kildare.ie/heritage/athy-heritage-centre.asp
+- https://en.wikivoyage.org/wiki/Athy
+- https://www.kildare.ie/heritage/athy-heritage-centre.asp
+heritage: 3.027
+vibrancy: 1.779
+nature: 4.031
+off_the_beaten_track: 2.971
 ---
 
 Athy sits where the River Barrow and the Barrow Navigation pass through south County Kildare. It is not polished in the way Kildare town or Kilkenny can be, but it has a clear identity: river, canal, market town, and the memory of Ernest Shackleton, born nearby at Kilkea.

@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Puerto_Varas,_Chile_(10986
 latitude: -41.317802
 loc_type: city
 longitude: -72.982907
-score: 8.41
+score: 6.543
 snippet: Chilean Lake District town with German-colonial houses and views across Llanquihue
   to Volcán Osorno.
 title: Puerto Varas
 type: location
+heritage: 5.303
+vibrancy: 5.214
+nature: 7.622
+off_the_beaten_track: 2.761
 ---
 
 Puerto Varas is the prettiest town in [Chile](/southamerica/chile)'s Lake District, set on the western shore of [Lago Llanquihue](/southamerica/chile/puertovaras/lakefront) with the snow-capped cone of [Volcán Osorno](/southamerica/chile/puertovaras/volcan_osorno) rising symmetrically across the water. On a clear day the view from the lakefront is one of the finest in South America, and it never quite gets old no matter how many times you walk along the shore.

@@ -7,7 +7,7 @@ done:
 latitude: 38.578797
 loc_type: city
 longitude: -122.579705
-score: 8.07
+score: 5.27
 snippet: Small Napa Valley town at Mount St. Helena, defined by geothermal springs,
   mud baths, and wineries.
 title: Calistoga
@@ -16,6 +16,10 @@ image: calistoga.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Frank_Patterson_14C13_-_Calistoga,_the_gateway_to_Clear_Lake.jpg
 image_license: Public domain
 image_attribution: Frank Patterson
+heritage: 3.472
+vibrancy: 4.545
+nature: 5.972
+off_the_beaten_track: 2.014
 ---
 
 Calistoga sits at the northern end of the Napa Valley, at the foot of Mount St. Helena. It is a small town — about 5,000 people — with a main street lined with tasting rooms, old storefronts, and a pace noticeably slower than the valley's more polished towns to the south.

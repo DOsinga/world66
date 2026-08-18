@@ -5,7 +5,7 @@ done:
 latitude: 63.825657
 loc_type: city
 longitude: 20.263074
-score: 7.08
+score: 5.421
 title: Umeå
 snippet: Northern Swedish university city on the Ume River, with an unusually lively
   cultural scene.
@@ -14,6 +14,10 @@ image: ume.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ume_alv_in_Umea.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Tage Olsin
+heritage: 4.59
+vibrancy: 5.322
+nature: 5.676
+off_the_beaten_track: 2.89
 ---
 
 Umeå is the largest city in northern Sweden and one of the country's fastest-growing, driven by its large university and a lively cultural scene that belies its position well inside the Arctic Circle. Sitting on the Ume River where it meets the Gulf of Bothnia, the city has a youthful energy — students make up a significant portion of the population — and more going on culturally than many Swedish cities twice its size.

@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Anzali_3710.jpg
 latitude: 37.471636
 loc_type: city
 longitude: 49.46859
-score: 6.36
+score: 4.057
 snippet: Caspian Sea port city between the coast and Anzali Lagoon, Iran's misty wetland
   edge.
 title: Bandar-e Anzali
 type: location
+heritage: 2.571
+vibrancy: 2.911
+nature: 4.881
+off_the_beaten_track: 2.722
 ---
 
 Bandar-e Anzali is a port city on the Caspian Sea coast of Iran's Gilan province, about 40 km northwest of Rasht. The town sits on a spit of land between the Caspian and the [Anzali Lagoon](/asia/iran/bandareanzali/anzali_lagoon), a large coastal wetland rich in birdlife and connected to the sea by a narrow channel. The setting — green, humid, misty — is a world away from Iran's desert interior, and that contrast alone makes the city worth a visit.

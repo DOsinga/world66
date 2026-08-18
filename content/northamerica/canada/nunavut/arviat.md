@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 61.108
 longitude: -94.063
-score: 6.7
-snippet: Southern Nunavut Inuit community on Hudson Bay, close to sacred sites and tundra wildlife.
+score: 6.225
+snippet: Southern Nunavut Inuit community on Hudson Bay, close to sacred sites and
+  tundra wildlife.
 sources:
-  - https://en.wikivoyage.org/wiki/Arviat
-  - https://www.arviat.ca/
-  - https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=836
-  - https://www.canada.ca/en/environment-climate-change/services/migratory-bird-sanctuaries/locations/mcconnell-river-kuugaarjuk.html
+- https://en.wikivoyage.org/wiki/Arviat
+- https://www.arviat.ca/
+- https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=836
+- https://www.canada.ca/en/environment-climate-change/services/migratory-bird-sanctuaries/locations/mcconnell-river-kuugaarjuk.html
+heritage: 3.855
+vibrancy: 1.15
+nature: 7.584
+off_the_beaten_track: 6.766
 ---
 
 Arviat sits on the western shore of Hudson Bay, in the southernmost mainland part of [Nunavut](/northamerica/canada/nunavut). It is easier to reach than many Arctic communities, with flights through Churchill, Rankin Inlet, and Winnipeg, but it is still the North: expensive, weather-bound, and shaped by the land more than by visitor schedules.

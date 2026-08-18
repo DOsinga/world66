@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Bifyu_8.jpg
 latitude: 37.2775
 loc_type: city
 longitude: 127.0217
-score: 7.96
+score: 4.098
 snippet: Gyeonggi capital south of Seoul, defined by the UNESCO-listed walls of Hwaseong
   Fortress.
 sources:
 - https://en.wikipedia.org/wiki/Suwon
 title: Suwon
 type: location
+heritage: 2.196
+vibrancy: 4.637
+nature: 2.704
+off_the_beaten_track: 0.493
 ---
 
 Suwon is the capital of Gyeonggi Province and South Korea's largest provincial city, home to about 1.2 million people thirty kilometres south of Seoul. It is almost always described in terms of [Hwaseong Fortress](/asia/southkorea/suwon/hwaseong_fortress), the UNESCO-listed 18th-century walls that loop nearly six kilometres around the old city centre, and that remains the most compelling reason to come here. The fortress is genuinely impressive in scale and state of preservation — the sort of monument that rewards a slow walk rather than a quick look.

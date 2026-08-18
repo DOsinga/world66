@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_city_of_Sue
 latitude: 29.974498
 loc_type: city
 longitude: 32.537086
-score: 6.4
+score: 3.066
 snippet: Canal city at Egypt's Red Sea edge, where container ships cross a desert
   landscape
 title: Suez
 type: location
+heritage: 3.785
+vibrancy: 2.156
+nature: 1.942
+off_the_beaten_track: 2.122
 ---
 
 Suez sits at the southern mouth of the canal that bears its name, where the Red Sea meets one of the world's busiest shipping lanes. It is a gritty transport hub rather than a tourist destination, but it serves as the jumping-off point for travel into the Sinai Peninsula, and there is something mesmerizing about watching massive container ships glide through a desert landscape. The [Suez Canal Viewpoint](/africa/egypt/suez/suez_canal_viewpoint) at Port Tewfik is the best place to watch the convoys pass, and the [Port Tewfik Memorial](/africa/egypt/suez/port_tewfik_memorial) commemorates the First World War campaigns fought across the canal zone. The [Suez National Museum](/africa/egypt/suez/suez_museum) covers the city's history from ancient Clysma through the 1973 war.

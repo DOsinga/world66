@@ -7,11 +7,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Spiaggia_Isola_dei_Conigli
 latitude: 35.5134
 loc_type: feature
 longitude: 12.6063
-score: 6.8
+score: 5.795
 snippet: Remote Sicilian archipelago of Lampedusa, Linosa, and Lampione, closer to
   Africa than Italy
 title: Pelagian Islands
 type: location
+heritage: 2.021
+vibrancy: 1.983
+nature: 7.368
+off_the_beaten_track: 5.291
 ---
 
 The islands of [Lampedusa](/europe/italy/sicily/lampedusa) and [Linosa](/europe/italy/sicily/linosa), together with the uninhabited rock of Lampione, make up the Pelagian archipelago. They lie some 200km south of Sicily and are geographically part of Africa.

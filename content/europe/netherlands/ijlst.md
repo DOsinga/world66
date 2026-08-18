@@ -9,12 +9,16 @@ image_source: https://commons.wikimedia.org/wiki/File:20140502_Ee_IJlst_Fr_NL.jp
 latitude: 53.010137
 loc_type: city
 longitude: 5.623324
-score: 6.57
+score: 3.183
 snippet: Tiny Frisian city on the Geeuw, known for old city rights and a working sawmill.
 tags:
 - friesland
 title: IJlst
 type: location
+heritage: 3.299
+vibrancy: 2.285
+nature: 3.535
+off_the_beaten_track: 1.773
 ---
 
 IJlst is one of the eleven historic Frisian cities, though it is barely more than a village — one of the smallest of the eleven, pipped only by [Sloten](/europe/netherlands/sloten). It sits on the river Geeuw, practically touching [Sneek](/europe/netherlands/sneek) but stubbornly holding on to its own city rights since 1268.

@@ -6,14 +6,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Cloud_shadows_over_hills_i
 latitude: 49.156
 loc_type: feature
 longitude: -107.43
-score: 7.05
-snippet: Remote Saskatchewan prairie park of bison, badlands, prairie dog towns, and immense night skies.
+score: 6.201
+snippet: Remote Saskatchewan prairie park of bison, badlands, prairie dog towns, and
+  immense night skies.
 sources:
-  - https://en.wikivoyage.org/wiki/Val_Marie
-  - https://parks.canada.ca/pn-np/sk/grasslands/activ/experiences/ecocircuit--ecotour
-  - https://www.tourismsaskatchewan.com/nationalpark/3047/grasslands-national-park
+- https://en.wikivoyage.org/wiki/Val_Marie
+- https://parks.canada.ca/pn-np/sk/grasslands/activ/experiences/ecocircuit--ecotour
+- https://www.tourismsaskatchewan.com/nationalpark/3047/grasslands-national-park
 title: Grasslands National Park
 type: location
+heritage: 2.832
+vibrancy: 1.113
+nature: 8.037
+off_the_beaten_track: 5.159
 ---
 
 Grasslands National Park protects a piece of southern Saskatchewan that was never turned into wheat field: mixed-grass prairie, coulees, prairie dog colonies, exposed badlands, and a sky so dark that the park is known for stargazing as much as hiking. It is remote, dry, and quiet in a way that feels rare in Canada.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Essen_Belgium_1.JPG
 latitude: 51.467923
 loc_type: city
 longitude: 4.469826
-score: 6.13
+score: 2.41
 snippet: Quiet Kempen border town shaped by Dutch crossings, wooded heathland, and
   a notable railway history
 title: Essen
 type: location
+heritage: 2.295
+vibrancy: 1.997
+nature: 2.763
+off_the_beaten_track: 1.7
 ---
 
 Essen is a small border town in the northern Kempen region of Antwerp province, sitting close to the Dutch border about 30 km north of [Antwerp](/europe/belgium/antwerp). The surrounding area is flat and wooded, typical of the sandy Kempen heathlands. Bordered on three sides by the Netherlands, the village has long been shaped by traffic across the frontier — cyclists, traders, pilgrims, and during the First World War tens of thousands of repatriated civilians passing through the [railway station](/europe/belgium/essen/essen_railway_station).

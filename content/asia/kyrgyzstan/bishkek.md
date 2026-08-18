@@ -10,7 +10,7 @@ quick_facts:
   Population: ~1 million
   Tian Shan: Snow peaks on the skyline
   Trek Gateway: To alpine Kyrgyzstan
-score: 7.28
+score: 6.323
 snippet: Spacious Kyrgyz capital of Soviet boulevards and leafy parks beneath the
   Kyrgyz Ala-Too mountains.
 tip: Bishkek is a leafy, low-rise, Soviet-planned city with the snow-capped Tian Shan
@@ -20,6 +20,10 @@ tip: Bishkek is a leafy, low-rise, Soviet-planned city with the snow-capped Tian
   and the high pastures.
 title: Bishkek
 type: location
+heritage: 6.279
+vibrancy: 6.387
+nature: 5.448
+off_the_beaten_track: 6.327
 ---
 
 Bishkek is a classic Soviet-planned city of wide boulevards, marble government buildings and shady parks, sitting at 800 metres on the northern edge of the Kyrgyz Ala-Too mountains. With a population of around one million, it feels spacious and green in summer, though architecturally it won't win any beauty contests.

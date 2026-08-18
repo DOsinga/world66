@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Sebasti%C3%A1n_de_La_G
 latitude: 28.0916
 loc_type: city
 longitude: -17.1133
-score: 7.85
+score: 5.847
 snippet: La Gomera's small capital and ferry port, known as Columbus's final Atlantic
   stop in 1492.
 title: San Sebastián de La Gomera
 type: location
+heritage: 5.191
+vibrancy: 3.126
+nature: 6.862
+off_the_beaten_track: 4.065
 ---
 
 San Sebastián de La Gomera is the island's small but historically loaded capital, sitting on the east coast where the ferry from Tenerife docks. It is a quiet town — more administrative centre than tourist resort — but its connection to Columbus gives it an outsized place in history: it was the last port of call before the fleet headed into the unknown Atlantic in September 1492.

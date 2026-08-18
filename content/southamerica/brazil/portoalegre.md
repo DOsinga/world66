@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Porto_Alegre_por_Cristine_
 latitude: -30.0325
 loc_type: city
 longitude: -51.230377
-score: 7.08
+score: 6.242
 snippet: Southern Brazilian state capital shaped by gaúcho culture, pampas traditions,
   and European immigration
 title: Porto Alegre
 type: location
+heritage: 5.341
+vibrancy: 6.631
+nature: 4.646
+off_the_beaten_track: 1.623
 ---
 
 Porto Alegre is the capital of **Rio Grande do Sul**, Brazil's southernmost state, and the largest city in the Brazilian **gaúcho** country — the cattle-ranching pampas culture that straddles the border with Uruguay and Argentina. With a metropolitan population of around 4 million, it is Brazil's sixth-largest urban area, and probably the most European-feeling of its big cities. Large waves of German and Italian immigrants settled in Rio Grande do Sul in the 19th century, and their descendants still dominate the food, the architecture, and the particularly strong local tradition of drinking **chimarrão** (the bitter green maté tea you will see people carrying in thermoses and passing around at every bus stop) and eating grilled meat.

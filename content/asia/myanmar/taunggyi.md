@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Shwe_Bone_Pwint_Pagoda,_Ta
 latitude: 20.787011
 loc_type: city
 longitude: 97.038726
-score: 6.52
+score: 6.157
 snippet: Shan State capital perched on a scarp slope, known for its market and hill
   cultures.
 title: Taunggyi
 type: location
+heritage: 4.536
+vibrancy: 6.073
+nature: 6.374
+off_the_beaten_track: 5.949
 ---
 
 **Taunggyi** is the administrative capital of Shan State and Myanmar's fourth-largest city, after Yangon, Mandalay, and Mawlamyine. The name means "big hill" — an understatement for the dramatic scarp slope on which the town perches, looking out over the Shan Plateau.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -44.0
 longitude: 170.4833
-score: 7.8
+score: 5.803
 wikidata: Q5414035
 snippet: Mackenzie Basin lake village known for turquoise water, alpine views, and
   protected dark skies.
@@ -16,6 +16,10 @@ image: lake_tekapo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lake_Tekapo,_Canterbury,_New_Zealand_01.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Michal Klajban
+heritage: 2.298
+vibrancy: 1.524
+nature: 7.87
+off_the_beaten_track: 3.688
 ---
 
 Lake Tekapo is a small village beside a startling turquoise glacial lake in the Mackenzie Basin, 225 kilometres southwest of Christchurch on State Highway 8. The lake's colour comes from rock flour carried down from the Southern Alps, and on clear days the water and mountains make the place feel much larger than the village itself.

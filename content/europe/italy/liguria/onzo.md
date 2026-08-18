@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:A_C%C3%B2sta_(Unsu)-Panu(r
 latitude: 44.070289
 loc_type: city
 longitude: 8.050019
-score: 6.72
+score: 4.263
 snippet: Tiny Ligurian hill commune above the Arroscia Valley, marked by medieval
   castle ruins and olive slopes.
 tags:
 - rivieradellepalme
 title: Onzo
 type: location
+heritage: 4.053
+vibrancy: 3.223
+nature: 4.889
+off_the_beaten_track: 3.787
 ---
 
 Onzo is a tiny commune in the upper valley of the Arroscia, on the southern slope of [Monte Peso Grande](/europe/italy/liguria/onzo/monte_peso_grande) (1,092 m). The village passed through the hands of the Marchesi di Clavesana, the Republic of Genoa, and the Marquisate of Finale before settling under Genoese rule in 1581.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -33.7667
 longitude: 150.6194
-score: 6.7
+score: 4.315
 snippet: Lower Blue Mountains village beside swimming holes, Aboriginal rock art,
   and easy bushwalks.
 sources:
@@ -16,6 +16,10 @@ image: glenbrook.jpg
 image_source: https://commons.wikimedia.org/wiki/File:(1)Glenbrook_Lagoon.jpg
 image_license: CC BY 3.0
 image_attribution: Sardaka (talk) 07:55, 20 January 2014 (UTC)
+heritage: 2.492
+vibrancy: 2.918
+nature: 5.278
+off_the_beaten_track: 1.31
 ---
 
 Glenbrook is the soft eastern entry to the Blue Mountains, close enough to [Sydney](/australiaandpacific/australia/newsouthwales/sydney) for a day trip but already wrapped in sandstone, eucalypt forest, and national park roads. The village itself is modest; the reason to come is the Glenbrook area of Blue Mountains National Park, just beyond the houses.

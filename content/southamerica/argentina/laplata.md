@@ -5,7 +5,7 @@ done:
 latitude: -34.92068
 loc_type: city
 longitude: -57.953764
-score: 7.03
+score: 5.543
 snippet: Planned Argentine city with diagonal boulevards, regular plazas, and a neo-Gothic
   cathedral anchoring its grid.
 sources:
@@ -13,6 +13,10 @@ sources:
 - https://wander-argentina.com/la-plata-places-of-interest/
 title: La Plata
 type: location
+heritage: 4.589
+vibrancy: 5.947
+nature: 3.554
+off_the_beaten_track: 1.42
 ---
 
 La Plata is one of the great planned cities of the Americas. Founded in 1882 as the new capital of Buenos Aires province, it was laid out on a perfect grid of broad avenues intersected by diagonal boulevards, with a public park or plaza every six blocks. The result is a city that feels spacious and geometric in a way that Buenos Aires proper never does.

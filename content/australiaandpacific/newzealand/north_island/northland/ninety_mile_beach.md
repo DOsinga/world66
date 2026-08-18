@@ -5,11 +5,15 @@ done:
 latitude: -34.852456
 loc_type: city
 longitude: 173.045929
-score: 8.07
+score: 5.861
 snippet: Wild Northland surf beach and tidal sand road stretching along the Tasman
   Sea coast.
 title: Ninety Mile Beach
 type: location
+heritage: 1.866
+vibrancy: 1.205
+nature: 7.578
+off_the_beaten_track: 4.938
 ---
 
 Ninety Mile Beach -- or Te Oneroa-a-Tōhē, its Māori name -- stretches roughly 90 kilometres along [Northland](/australiaandpacific/newzealand/north_island/northland)'s west coast. It is officially gazetted as a road, though rental car companies will not insure vehicles driven on it. There is a reason for that: this is wild, open Tasman Sea coastline, and the conditions change with every tide. (The name is itself a settler-era miscalculation — the beach is closer to 55 miles long.)

@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:1_orte_italy_panorama_2024
 latitude: 42.4604
 loc_type: city
 longitude: 12.3853
-score: 7.19
+score: 5.019
 snippet: Northern Lazio hill town on a tufa outcrop, with an atmospheric medieval
   centre above a major rail junction.
 sources:
 - https://en.wikipedia.org/wiki/Orte
 title: Orte
 type: location
+heritage: 5.544
+vibrancy: 3.127
+nature: 5.421
+off_the_beaten_track: 2.014
 ---
 
 Orte is a small hilltop town in northern Lazio, perched on a tufa outcrop above a bend in the Tiber, about 80 km north of [Rome](/europe/italy/lazio/rome) and 20 km east of [Civita Castellana](/europe/italy/lazio/civita_castellana). It is a place most travellers know only as a railway junction — the main Rome–Florence line and the Rome–Ancona line cross at the station down in the valley — but the medieval centre on the hill is one of the more atmospheric small towns in the region, and almost completely untouristed.

@@ -7,8 +7,12 @@ snippet: Sierra Nevada whitewater canyon above Lake Isabella, where snowmelt fee
   the Upper Kern River.
 title: Upper Kern River
 type: location
-score: 7.29
+score: 4.287
 loc_type: feature
+heritage: 2.524
+vibrancy: 1.451
+nature: 5.523
+off_the_beaten_track: 3.678
 ---
 
 The Upper Kern River runs south from the high Sierra Nevada through Sequoia National Forest before emptying into Lake Isabella. The canyon it carves — steep-walled and wild — is one of California's premier whitewater destinations, drawing kayakers and rafters throughout spring and early summer when snowmelt swells the river.

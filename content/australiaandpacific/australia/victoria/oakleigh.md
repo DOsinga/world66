@@ -5,10 +5,14 @@ done:
 latitude: -37.9006
 loc_type: city
 longitude: 145.0886
-score: 6.07
+score: 3.287
 snippet: Melbourne suburb centred on Eaton Mall and the city's Greek dining community.
 title: Oakleigh
 type: location
+heritage: 2.729
+vibrancy: 3.523
+nature: 2.209
+off_the_beaten_track: 0.743
 ---
 
 Oakleigh is a suburb in southeastern [Melbourne](/australiaandpacific/australia/victoria/melbourne) and the undisputed heart of the city's Greek community. If you want the best Greek food in Australia, this is where you come. Eaton Mall, the pedestrianised strip at the centre of the suburb, is packed with Greek bakeries, tavernas, souvlaki bars, and cafes that spill onto the pavement with tables and conversation that gets louder as the evening goes on.

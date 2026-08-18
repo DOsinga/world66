@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bab_Bhar_Mahdia_1.jpg
 latitude: 35.5036
 loc_type: city
 longitude: 11.0682
-score: 7.47
+score: 6.038
 snippet: Tunisian seaside town on a narrow peninsula, with Fatimid history, a walled
   medina, and quiet beaches
 title: Mahdia
 type: location
+heritage: 6.983
+vibrancy: 3.377
+nature: 5.813
+off_the_beaten_track: 4.388
 ---
 
 Mahdia is a quiet seaside town on a narrow peninsula between [Sousse](/africa/tunisia/sousse) and [Sfax](/africa/tunisia/sfax), and you would hardly guess it was once the capital of Tunisia. Proclaimed capital in 921 by the Fatimid caliphs, it spent centuries at the centre of power struggles between the Caliph of Cairo and local rulers, was repeatedly attacked by Genoese navies and Sicilian troops, and later became a headquarters for the corsair Dragut before facing off against Spanish and Maltese knights.

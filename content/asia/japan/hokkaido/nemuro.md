@@ -5,8 +5,9 @@ loc_type: city
 latitude: 43.330083
 longitude: 145.582861
 wikidata: Q502205
-score: 7.2
-snippet: Easternmost city in Japan, with wild capes, bird-rich wetlands, Ainu earthworks, and superb seafood.
+score: 4.837
+snippet: Easternmost city in Japan, with wild capes, bird-rich wetlands, Ainu earthworks,
+  and superb seafood.
 sources:
 - https://en.wikivoyage.org/wiki/Nemuro
 - https://www.visitnemurojapan.com/en/
@@ -15,6 +16,10 @@ image: nemuro.jpg
 image_source: https://commons.wikimedia.org/wiki/File:CapeNosappu.jpg
 image_license: CC BY 3.0
 image_attribution: Douglas P. Perkins
+heritage: 2.758
+vibrancy: 2.331
+nature: 5.877
+off_the_beaten_track: 5.311
 ---
 
 Nemuro sits at the far eastern edge of Hokkaido, where Japan narrows into a windswept peninsula facing the Kuril Islands. It is not a polished city, and that is part of the appeal. The working port, low skies, brackish lakes, and cold Pacific air make it feel much farther from Sapporo than the map suggests.

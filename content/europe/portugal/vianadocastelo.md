@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Viana_do_Castelo_(15727153
 latitude: 41.6931
 loc_type: city
 longitude: -8.8327
-score: 8.19
+score: 4.875
 snippet: Northern Portuguese river city where the Lima meets the Atlantic below Santa
   Luzia.
 title: Viana do Castelo
 type: location
+heritage: 5.129
+vibrancy: 4.763
+nature: 5.166
+off_the_beaten_track: 3.883
 ---
 
 Viana do Castelo sits where the Rio Lima meets the Atlantic, a handsome northern Portuguese city with medieval bones and a dramatic hilltop church watching over it all. Founded in 1258, it grew wealthy on cod fishing and colonial trade, and the old centre still shows it — ornate Manueline facades, wrought-iron balconies, and a compact web of streets that reward aimless wandering.

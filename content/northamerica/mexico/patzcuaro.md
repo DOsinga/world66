@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:El_sagrario.jpg
 latitude: 19.5164
 loc_type: city
 longitude: -101.6097
-score: 7.22
+score: 5.867
 snippet: Michoacán lake town of Purépecha culture, whitewashed colonial streets, and
   candlelit Day of the Dead vigils.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Lake_P%C3%A1tzcuaro
 title: Pátzcuaro
 type: location
+heritage: 5.165
+vibrancy: 4.197
+nature: 6.905
+off_the_beaten_track: 5.283
 ---
 
 Pátzcuaro is the most atmospheric town in [Michoacán](/northamerica/mexico/michoacan): whitewashed walls, red tile roofs, arcaded plazas, and a Purépecha identity that feels much older than the colonial façades. It sits above [Lake Pátzcuaro](/northamerica/mexico/michoacan/lake_patzcuaro), close enough to smell the damp air off the water but high enough to stay cool in the evenings.

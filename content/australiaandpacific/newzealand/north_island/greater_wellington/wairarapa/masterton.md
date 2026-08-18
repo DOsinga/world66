@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Masterton,_New_Zealand_(16
 latitude: -40.95
 loc_type: city
 longitude: 175.66
-score: 6.76
+score: 4.031
 snippet: Wairarapa service town for sheep country, wine trips, and the Golden Shears
   shearing championships.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/P%C5%ABkaha_National_Wildlife_Centre
 title: Masterton
 type: location
+heritage: 2.67
+vibrancy: 1.915
+nature: 5.117
+off_the_beaten_track: 3.04
 ---
 
 Masterton is the main town of the [Wairarapa](/australiaandpacific/newzealand/north_island/greater_wellington/wairarapa) and the largest settlement east of the Remutaka Range. It is a quiet, prosperous service town for the surrounding sheep country — the population is just over 20,000 — and has the unhurried, slightly old-fashioned feel of a place that grew up around the wool trade. For most visitors it is a base for the Wairarapa wine country to the south or for trips north to the [Pukaha National Wildlife Centre](/australiaandpacific/newzealand/north_island/greater_wellington/wairarapa/masterton/pukaha_mount_bruce).

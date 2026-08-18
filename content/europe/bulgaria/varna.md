@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Salida_del_lago_de_Varna_a
 latitude: 43.207387
 loc_type: city
 longitude: 27.916665
-score: 8.29
+score: 5.596
 snippet: Black Sea port city with Roman baths, seaside gardens, and the ancient Gold
   of Varna.
 title: Varna
 type: location
+heritage: 6.269
+vibrancy: 5.23
+nature: 3.861
+off_the_beaten_track: 2.169
 ---
 
 Varna is Bulgaria's third-largest city and the de facto capital of the Black Sea coast. Unlike the purpose-built resort towns to the north and south, Varna is a real city — with a functioning port, a good archaeological museum, a lively pedestrianised centre, and a large seaside park that fills with Bulgarians on summer evenings.

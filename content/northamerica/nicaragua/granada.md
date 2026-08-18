@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Granada_(25987961022).jpg
 latitude: 11.9344
 loc_type: city
 longitude: -85.956
-score: 8.09
+score: 3.873
 title: Granada
 type: location
 snippet: Colonial Nicaraguan city on Lago de Nicaragua, backed by Volcán Mombacho
   and colourful central streets.
+heritage: 4.101
+vibrancy: 3.772
+nature: 4.133
+off_the_beaten_track: 4.18
 ---
 
 Granada sits on the northwestern shore of Lago de Nicaragua, Central America's largest lake, with the [Volcán Mombacho](/northamerica/nicaragua/granada/mombacho) rising behind it. It is one of the oldest Spanish colonial cities in the Americas and one of the best-preserved — the [cathedral](/northamerica/nicaragua/granada/cathedral), the main square, and the colourful facades along [Calle La Calzada](/northamerica/nicaragua/granada/la_calzada) give the centre a coherent character that many similarly promoted colonial cities have lost.

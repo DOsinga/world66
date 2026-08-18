@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Souris,_Pri
 latitude: 46.356529
 loc_type: city
 longitude: -62.250428
-score: 6.56
+score: 4.318
 snippet: Eastern Prince Edward Island port town, known for Basin Head's singing sands
   and Magdalen Islands ferry.
 title: Souris
 type: location
+heritage: 3.757
+vibrancy: 2.245
+nature: 5.101
+off_the_beaten_track: 2.324
 ---
 
 Souris is a small, friendly town at the eastern tip of Prince Edward Island, about 60 km from Charlottetown. The town has clean sandy beaches along the Northumberland Strait, and the nearby [Basin Head Provincial Park](/northamerica/canada/princeedwardisland/souris/basin_head_beach) — known for its "singing sands" — is a popular summer destination. Drag your foot across dry sand here and it squeaks and sings; the high quartz content makes Basin Head one of the finest examples of this phenomenon in Canada.

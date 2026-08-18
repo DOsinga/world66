@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 46.9152
 longitude: -55.3943
-score: 6.6
-snippet: Burin Peninsula mining town tied to fluorspar, Atlantic cliffs, and a wartime rescue story.
+score: 5.172
+snippet: Burin Peninsula mining town tied to fluorspar, Atlantic cliffs, and a wartime
+  rescue story.
 sources:
-  - https://en.wikivoyage.org/wiki/St._Lawrence
-  - https://www.newfoundlandlabrador.com/plan-and-book/attractions/210645
-  - https://stlawrencemuseum.wixsite.com/town/chamber-cove
+- https://en.wikivoyage.org/wiki/St._Lawrence
+- https://www.newfoundlandlabrador.com/plan-and-book/attractions/210645
+- https://stlawrencemuseum.wixsite.com/town/chamber-cove
+heritage: 4.037
+vibrancy: 1.77
+nature: 6.305
+off_the_beaten_track: 3.965
 ---
 
 St. Lawrence sits near the tip of Newfoundland's Burin Peninsula, far enough south that you feel the road narrowing toward the Atlantic. It is a small town, but it has a strong story: fluorspar mines, hard coastal weather, and one of Newfoundland's most moving Second World War rescue sites.

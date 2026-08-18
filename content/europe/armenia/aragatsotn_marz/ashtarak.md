@@ -8,11 +8,15 @@ image_source: https://www.flickr.com/photos/74089637@N00/2975046670
 latitude: 40.2887
 loc_type: city
 longitude: 44.3613
-score: 6.86
+score: 4.871
 snippet: Historic Armenian town on the Kasagh gorge, known for small medieval churches
   near Mount Aragats.
 title: Ashtarak
 type: location
+heritage: 5.692
+vibrancy: 2.821
+nature: 4.554
+off_the_beaten_track: 4.638
 ---
 
 Ashtarak is a small historic town built along the Kasagh river gorge, about 20 kilometres northwest of [Yerevan](/europe/armenia/yerevan). It is the only real urban centre in [Aragatsotn Marz](/europe/armenia/aragatsotn_marz) and makes a natural base for exploring the region's monasteries and the slopes of Mount Aragats.

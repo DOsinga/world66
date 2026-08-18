@@ -5,11 +5,15 @@ done:
 latitude: 50.2158
 loc_type: city
 longitude: 4.826825
-score: 6.74
+score: 5.07
 title: Hastière
 type: location
 snippet: Meuse valley commune in the Belgian Ardennes, edged by limestone cliffs,
   abbey ruins, and Freyr gardens.
+heritage: 3.769
+vibrancy: 1.843
+nature: 6.261
+off_the_beaten_track: 3.195
 ---
 
 Hastière is a small rural commune in the Belgian Ardennes, strung along one of the most scenic stretches of the Meuse river near the French border. The valley here is particularly dramatic, with limestone cliffs rising directly above the water.

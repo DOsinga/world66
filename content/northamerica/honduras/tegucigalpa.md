@@ -14,7 +14,7 @@ quick_facts:
   Name: Possibly 'silver hill' in Nahuatl
   No Railway: The terrain blocked one
   Population: ~1.2 million
-score: 5.81
+score: 5.019
 snippet: Hilly Honduran capital with colonial churches, major pilgrimage sites, and
   quick access to La Tigra cloud forest.
 tip: Tegucigalpa — 'Tegus' — sprawls across steep hills and ravines, so there's no
@@ -24,6 +24,10 @@ tip: Tegucigalpa — 'Tegus' — sprawls across steep hills and ravines, so ther
   and keep a low profile.
 title: Tegucigalpa
 type: location
+heritage: 4.912
+vibrancy: 4.92
+nature: 5.276
+off_the_beaten_track: 4.227
 ---
 
 Tegucigalpa — known as Tegus — is the capital of Honduras, a city of around 1.4 million people spread across hilly terrain at about 1000m elevation. It is not a beautiful city, but it has more to offer than its reputation suggests, and as a starting point for exploring the south and centre of the country it serves well enough.

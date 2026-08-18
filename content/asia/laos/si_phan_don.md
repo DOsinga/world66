@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Children_playing_at_sunset
 latitude: 14.0
 loc_type: feature
 longitude: 105.9
-score: 8.67
+score: 5.821
 snippet: Mekong river archipelago near Cambodia, where channels, waterfalls, and rice
   islands slow travel to island pace.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Don_Det
 title: Si Phan Don (4,000 Islands)
 type: location
+heritage: 4.135
+vibrancy: 1.436
+nature: 6.98
+off_the_beaten_track: 6.694
 ---
 
 Si Phan Don — "four thousand islands" in Lao — is where the Mekong, approaching the Cambodian border, spreads across a vast delta of islands, channels, and rapids. At the peak of the dry season the river is 14 kilometres wide here. The landscape is one of the most dramatic in Southeast Asia: multiple waterfalls, braided channels between forested islands, rice paddies, fishing villages, and an atmosphere so unhurried that it has a reputation for extending intended stays by days or weeks.

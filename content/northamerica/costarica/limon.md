@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Isla_Uvita._Lim%C3%B3n._Co
 latitude: 9.9907
 loc_type: city
 longitude: -83.036
-score: 7.33
+score: 5.464
 snippet: Costa Rican Caribbean province with Afro-Caribbean culture, Creole speech,
   coconut cooking, and port-town history.
 title: Limon
 type: location
+heritage: 4.678
+vibrancy: 4.983
+nature: 6.061
+off_the_beaten_track: 4.547
 ---
 
 Limón province covers the entire Caribbean coast of Costa Rica, from the Nicaraguan border in the north to the Panamanian border in the south. It has a distinct character from the rest of the country — Afro-Caribbean culture, English Creole spoken alongside Spanish, reggae and calypso, coconut-based cooking, and a slower pace.

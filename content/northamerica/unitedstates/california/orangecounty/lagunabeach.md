@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Laguna_Beach_photo_montage
 latitude: 33.5427
 loc_type: city
 longitude: -117.7854
-score: 8.73
+score: 5.78
 title: Laguna Beach
 type: location
 snippet: Orange County beach town where rocky coves, chaparral hills, and a long arts
   tradition meet.
+heritage: 2.427
+vibrancy: 5.257
+nature: 6.419
+off_the_beaten_track: 1.25
 ---
 
 Laguna Beach is the most attractive coastal town in Orange County — a hilly, artsy enclave wedged between rocky coves and the dry chaparral of the [Laguna Coast Wilderness Park](/northamerica/unitedstates/california/orangecounty/lagunabeach/laguna_coast_wilderness_park). The town has drawn artists since the early 20th century, and that legacy is still visible in dozens of galleries, the [Laguna Art Museum](/northamerica/unitedstates/california/orangecounty/lagunabeach/laguna_art_museum) (strong on California Impressionists and plein air painting), and the annual [Pageant of the Masters](/northamerica/unitedstates/california/orangecounty/lagunabeach/pageant_of_the_masters), where volunteers pose in elaborate re-creations of famous artworks.

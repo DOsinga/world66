@@ -5,11 +5,15 @@ done:
 latitude: 57.65
 loc_type: city
 longitude: -3.3167
-score: 7.43
+score: 4.669
 snippet: Sheltered north-eastern Scottish region of Speyside whisky, sandy Moray Firth
   beaches, and fishing villages.
 title: Moray
 type: location
+heritage: 4.278
+vibrancy: 3.691
+nature: 5.424
+off_the_beaten_track: 2.598
 ---
 
 Moray is a rural council area on the southern shore of the Moray Firth in north-eastern Scotland, tucked between the Cairngorm Mountains and the sea. It is sheltered enough from the Atlantic weather to enjoy one of the driest and sunniest microclimates in Scotland — the coast here gets less rain than most of southern England — and the combination of fertile farmland, long sandy beaches, quiet fishing villages, and the Speyside whisky country makes it one of the more rewarding and least-visited corners of the Highlands.

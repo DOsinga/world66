@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Colonial_Williamsburg_(320
 latitude: 37.270879
 loc_type: city
 longitude: -76.707404
-score: 8.39
+score: 6.166
 snippet: Virginia college town where Colonial Williamsburg turns an 18th-century capital
   into living history.
 title: Williamsburg
 type: location
+heritage: 7.938
+vibrancy: 3.674
+nature: 3.251
+off_the_beaten_track: 1.664
 ---
 
 Williamsburg sits at the heart of Virginia's Historic Triangle, a small city whose main street doubles as a time machine. [Colonial Williamsburg](/northamerica/unitedstates/virginia/williamsburg/colonial_williamsburg) — 301 acres of restored and reconstructed 18th-century buildings — is one of America's most ambitious living-history projects, and the reason most visitors come. Costumed interpreters work the trades, the taverns serve colonial-era recipes, and the Capitol and [Governor's Palace](/northamerica/unitedstates/virginia/williamsburg/governors_palace) have been rebuilt to their 1770s appearance.

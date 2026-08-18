@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Santa_Cruz_(01935).jpg
 latitude: 36.974363
 loc_type: city
 longitude: -122.029467
-score: 8.05
+score: 5.511
 snippet: California beach town where redwood mountains meet Monterey Bay, surf culture,
   and a vintage boardwalk
 title: Santa Cruz
 type: location
+heritage: 3.886
+vibrancy: 5.045
+nature: 6.104
+off_the_beaten_track: 2.548
 ---
 
 Santa Cruz sits where the redwood-covered mountains of the Coast Range meet the northern curve of Monterey Bay. It is a California beach town with a countercultural streak — part surf culture, part university town, part old-school boardwalk resort. The mix gives it a character quite unlike anywhere else on the coast.

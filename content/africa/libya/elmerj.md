@@ -14,9 +14,13 @@ image: elmerj.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Al_Marj,_Libya.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Smiley.toerist
-score: 4.53
+score: 4.926
 snippet: Jebel Akhdar city rebuilt after an earthquake, with ancient Barca beneath
   its quiet modern surface.
+heritage: 3.175
+vibrancy: 1.838
+nature: 5.363
+off_the_beaten_track: 7.446
 ---
 
 El Merj, usually written Al Marj, is a Jebel Akhdar city with a stranger history than its quiet modern appearance suggests. The name means "the meadows", a fair description in a country where green land is rare. It sits east of Benghazi on routes toward Al Bayda, Cyrene and the coast.

@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:1_xijiang_panorama.jpg
 latitude: 26.4966
 loc_type: feature
 longitude: 108.1699
-score: 8.14
+score: 6.493
 snippet: Guizhou Miao hillside village of wooden stilt houses, rice terraces, and
   an unusually concentrated Miao community.
 sources:
 - https://en.wikivoyage.org/wiki/Xijiang
 title: Xijiang Miao Village
 type: location
+heritage: 7.901
+vibrancy: 2.236
+nature: 5.361
+off_the_beaten_track: 4.175
 ---
 
 Xijiang is the largest Miao village in China — about 1,200 households and over 5,000 people in a continuous settlement of wooden stilt houses covering an entire hillside and its valleys, within the Leigongshan National Nature Reserve south of Kaili. The scale is what strikes you first: this is not a village of fifty houses preserved as a museum piece, but a living community large enough to have its own geography, its own internal streets, its own centre and periphery. The Miao population is 99.5% of the total, a demographic concentration unusual even in the ethnic minority regions of Guizhou.

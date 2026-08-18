@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Golden_Hour,_Blackpool._(U
 latitude: 53.8142
 loc_type: city
 longitude: -3.0503
-score: 7.59
+score: 5.301
 snippet: Lancashire seaside resort of towers, piers, illuminations, ballroom glamour,
   and unapologetic popular entertainment.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Blackpool_Tower
 title: Blackpool
 type: location
+heritage: 3.527
+vibrancy: 5.333
+nature: 5.219
+off_the_beaten_track: 0.969
 ---
 
 Blackpool is England's great working-class seaside resort: loud, funny, battered in places, and still utterly itself. It grew from a small Fylde coast village into a mass holiday town once the railways brought Lancashire mill workers to the sea, and it has never quite lost that democratic, end-of-the-week energy.

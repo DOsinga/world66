@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_des_Beaux_Arts.
 latitude: 47.236
 loc_type: city
 longitude: 6.0264
-score: 8.1
+score: 5.941
 snippet: Franche-Comté city tucked into a Doubs River loop beneath Vauban's hilltop
   citadel.
 sources:
@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Besan%C3%A7on
 title: Besançon
 type: location
+heritage: 6.936
+vibrancy: 4.984
+nature: 2.597
+off_the_beaten_track: 1.757
 ---
 
 Besançon is a city that rewards close attention. The capital of Franche-Comté sits inside an almost perfect meander of the Doubs river, which curves around the old town on three sides before reaching a rocky spur crowned by one of Vauban's most celebrated fortresses. It has the look of a city that knows it is handsome and doesn't feel the need to advertise it loudly.

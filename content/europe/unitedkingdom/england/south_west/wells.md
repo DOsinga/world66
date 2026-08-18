@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Wells_Cathedral_Nave_Photo
 latitude: 51.209451
 loc_type: city
 longitude: -2.64512
-score: 8.12
+score: 6.0
 snippet: Tiny cathedral city in Somerset, centred on Early English Gothic stonework
   and a moated bishop's palace.
 sources:
 - https://en.wikipedia.org/wiki/Wells,_Somerset
 title: Wells
 type: location
+heritage: 7.234
+vibrancy: 4.568
+nature: 4.365
+off_the_beaten_track: 2.898
 ---
 
 Wells is England's smallest city — and only qualifies as a city at all because of its cathedral. [Wells Cathedral](/europe/unitedkingdom/england/south_west/wells/wells_cathedral), begun in 1175, is one of the finest examples of Early English Gothic in the country. The west facade is extraordinary: a vast stone screen covered in nearly 300 medieval statues, many still with traces of original colouring. The interior is equally impressive, especially the dramatic scissor arches added in the 14th century to stabilise the tower.

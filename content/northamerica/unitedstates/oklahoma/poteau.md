@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:LeFlore_County_Courthouse.
 latitude: 35.0568
 loc_type: city
 longitude: -94.62
-score: 5.36
+score: 2.851
 snippet: Southeastern Oklahoma county seat ringed by mountains and watched over by
   Cavanal Hill
 title: Poteau
 type: location
+heritage: 2.417
+vibrancy: 1.571
+nature: 3.394
+off_the_beaten_track: 2.423
 ---
 
 Poteau (pronounced "puh-TOE") is the county seat of LeFlore County in southeastern Oklahoma, set in a valley nearly encircled by mountains: Sugar Loaf Mountain to the east, the Winding Stair range to the south, and [Cavanal Hill](/northamerica/unitedstates/oklahoma/poteau/cavanal_hill) to the west — which lays claim to being the world's highest hill at just under 548 metres. The distinction is dubious, but the setting is genuine.

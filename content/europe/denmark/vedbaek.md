@@ -5,7 +5,7 @@ done:
 latitude: 55.8541
 loc_type: city
 longitude: 12.5653
-score: 6.94
+score: 4.246
 snippet: Øresund coastal town north of Copenhagen, known for a Mesolithic burial ground
   at Bøgebakken
 title: Vedbæk
@@ -14,6 +14,10 @@ image: vedbaek.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2950_Vedb%C3%A6k,_Denmark_-_panoramio_(2).jpg
 image_license: CC BY-SA 3.0
 image_attribution: MchD
+heritage: 2.618
+vibrancy: 2.243
+nature: 5.472
+off_the_beaten_track: 1.813
 ---
 
 Vedbæk is a quiet coastal town on the Øresund shore, about 20 km north of Copenhagen. It's a pleasant enough place — a small marina, a [beach](/europe/denmark/vedbaek/vedbaek_beach), and the forested hills of Dyrehaven nearby — but its real claim to fame is archaeological. In 1975, construction workers uncovered a Mesolithic burial ground dating to around 5000 BC, now known as the [Vedbæk Bøgebakken](/europe/denmark/vedbaek/bogebakken_burial_site) site. Among the finds was the famous "woman with the feathers": the skeleton of a young woman buried with her newborn child resting on a swan wing beside her. The original finds are held at the National Museum in Copenhagen, but a small local display tells the story.

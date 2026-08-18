@@ -2,7 +2,7 @@
 latitude: 35.148333
 loc_type: city
 longitude: -120.648056
-score: 7.34
+score: 4.719
 snippet: Central Coast beach town with a long pier, monarch butterflies, dunes, and
   bluff-top ocean walks.
 sources:
@@ -16,6 +16,10 @@ image: pismobeach.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Pismo_Beach_(California,_USA),_Beach_--_2012_--_3.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Dietmar Rabich
+heritage: 3.107
+vibrancy: 3.635
+nature: 5.558
+off_the_beaten_track: 2.013
 ---
 
 Pismo Beach is the classic easy-going Central Coast beach town, halfway between Los Angeles and San Francisco and close enough to [San Luis Obispo](/northamerica/unitedstates/california/centralcoast/sanluisobispo) for a relaxed day out. The beach, pier, and promenade are the centre of gravity: surfers work the breaks, families drift between sand and seafood, and the sunset crowd gathers at the railings with very little ceremony.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Draak_%C3%96stersund_22jul
 latitude: 63.1794
 loc_type: city
 longitude: 14.6357
-score: 7.69
+score: 5.08
 snippet: Jämtland county capital on Lake Storsjön, with Frösön offshore and mountain
   views nearby.
 title: Östersund
 type: location
+heritage: 4.28
+vibrancy: 3.993
+nature: 5.945
+off_the_beaten_track: 3.357
 ---
 
 Östersund is the capital of Jämtland county and one of the most beautifully situated cities in Sweden, spread along the eastern shore of Lake Storsjön with the island of Frösön just offshore and mountain views in every direction. With about 60,000 inhabitants, it is the only city of any size in the Swedish interior north of the Dalälven.

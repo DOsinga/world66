@@ -4,11 +4,15 @@ done:
 latitude: 26.75052
 loc_type: feature
 longitude: 114.284594
-score: 7.35
+score: 4.658
 snippet: Mountainous Jiangxi-Hunan border area remembered as the first rural base
   of the Chinese revolution.
 title: Jinggangshan
 type: location
+heritage: 4.986
+vibrancy: 2.49
+nature: 5.107
+off_the_beaten_track: 4.48
 ---
 
 Jinggangshan is a mountainous area on the border of Jiangxi and Hunan provinces, revered in China as the "cradle of the Chinese revolution." It was here in 1927 that Mao Zedong established the first rural revolutionary base, and the area is saturated with revolutionary history — memorials, museums, and sites associated with the early Red Army are everywhere.

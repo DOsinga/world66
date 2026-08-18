@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:30th_Street_Station_Philad
 latitude: 39.952724
 loc_type: city
 longitude: -75.163526
-score: 8.37
+score: 7.045
 snippet: Historic American city on the Delaware, central to the Revolution and rich
   in neighbourhood culture.
 title: Philadelphia
 type: location
+heritage: 6.678
+vibrancy: 7.238
+nature: 4.552
+off_the_beaten_track: 1.215
 ---
 
 Philadelphia, the largest city in Pennsylvania and fifth largest in the country, is located in the southeast part of the state at the junction of the Schuylkill and Delaware Rivers. It is coextensive with Philadelphia County. 

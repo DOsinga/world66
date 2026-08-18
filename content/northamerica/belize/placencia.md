@@ -2,12 +2,17 @@
 latitude: 16.51
 loc_type: city
 longitude: -88.37
-score: 7.3
-snippet: Southern Belize beach village used for reef trips, lagoon wildlife, and easy Caribbean downtime
+score: 6.577
+snippet: Southern Belize beach village used for reef trips, lagoon wildlife, and easy
+  Caribbean downtime
 sources:
 - https://en.wikivoyage.org/wiki/Placencia
 title: Placencia
 type: location
+heritage: 4.516
+vibrancy: 5.703
+nature: 7.439
+off_the_beaten_track: 3.391
 ---
 
 Placencia is a small beach village at the southern tip of a long peninsula in [Belize](/northamerica/belize). It is definitely a tourist place, but it clears the bar because the appeal is not just a resort strip: the village has its own slow rhythm, a famous pedestrian sidewalk, a lagoon behind it, and some of the country's best reef trips offshore.

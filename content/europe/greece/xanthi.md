@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:20091128_Xanthi_Greece_1.j
 latitude: 41.1381
 loc_type: city
 longitude: 24.8864
-score: 7.69
+score: 5.375
 snippet: Thracian university town with Ottoman mansions, tobacco-boom lanes, and a
   strong Muslim minority.
 title: Xanthi
 type: location
+heritage: 5.881
+vibrancy: 4.313
+nature: 5.838
+off_the_beaten_track: 3.531
 ---
 
 Xanthi sits in the northeast corner of Greece, in Thrace, about 220 km east of [Thessaloniki](/europe/greece/thessaloniki) and close to the [Bulgarian](/europe/bulgaria) border. It is a lively university town with an atmosphere quite unlike the rest of Greece — partly because of its significant Muslim minority, partly because of its well-preserved Ottoman-era [old town](/europe/greece/xanthi/old_town) climbing the hillside above the modern centre.

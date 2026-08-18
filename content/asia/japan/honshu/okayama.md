@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:250505_Korakuen_Okayama_Ja
 latitude: 34.65
 loc_type: city
 longitude: 133.9167
-score: 8.6
+score: 5.27
 snippet: Western Honshu city pairing black-walled Okayama Castle with Korakuen, one
   of Japan's great gardens.
 sources:
@@ -18,6 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Okayama_Station
 title: Okayama
 type: location
+heritage: 6.103
+vibrancy: 4.523
+nature: 4.478
+off_the_beaten_track: 1.605
 ---
 
 Okayama is the calm, practical hinge between western Honshu and Shikoku. Most travellers first meet it as a Shinkansen stop or the place where trains peel south across the Seto Ohashi Bridge, but the city is worth more than a platform change.

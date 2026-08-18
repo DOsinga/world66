@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: 66.165
 longitude: 29.151
-score: 7.4
-snippet: Northern Finnish ski village and hiking base below the wooded Rukatunturi hills.
+score: 5.425
+snippet: Northern Finnish ski village and hiking base below the wooded Rukatunturi
+  hills.
 sources:
-  - https://en.wikivoyage.org/wiki/Ruka
-  - https://en.wikipedia.org/wiki/Ruka_(ski_resort)
+- https://en.wikivoyage.org/wiki/Ruka
+- https://en.wikipedia.org/wiki/Ruka_(ski_resort)
+heritage: 2.458
+vibrancy: 2.177
+nature: 7.12
+off_the_beaten_track: 4.222
 ---
 
 Ruka is a ski village near Kuusamo in northern Finland, close enough to the Arctic Circle for proper winter and long summer light. It is one of Finland's busiest ski resorts, with a long season, floodlit slopes, cross-country tracks, and World Cup events.

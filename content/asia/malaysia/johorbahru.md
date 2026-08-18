@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Empty_Singapore-Malaysia_C
 latitude: 1.458199
 loc_type: city
 longitude: 103.764906
-score: 7.31
+score: 5.326
 snippet: Johor state capital at the Malay Peninsula's tip, connected to Singapore
   but rich in palace and food culture.
 title: Johor Bahru
 type: location
+heritage: 5.112
+vibrancy: 5.448
+nature: 3.994
+off_the_beaten_track: 1.864
 ---
 
 Johor Bahru — almost always called JB — is the capital of Johor state and sits at the very tip of the Malay Peninsula, connected to Singapore by the Johor-Singapore Causeway (1,038 metres) and the newer Second Link bridge to the west. Most visitors treat it as a transit point, stepping off a bus from Singapore to stock up on cheaper goods before heading back. That is a shame. Give JB a day or two and you will find a genuine city with real history, good food, and enough to see that you will not regret the stop.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 59.3667
 longitude: 16.5167
-score: 7.05
+score: 3.735
 snippet: Swedish steel city with preserved smithies, industrial museums, and a strong
   river setting.
 wikidata: Q26498
@@ -16,6 +16,10 @@ image: eskilstuna.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Eskilstuna_flygbild1js-1.jpg
 image_license: CC BY 3.0
 image_attribution: Joakim Serrander
+heritage: 4.231
+vibrancy: 3.398
+nature: 3.662
+off_the_beaten_track: 1.324
 ---
 
 Eskilstuna is an old industrial city on the river between Lake Hjälmaren and Lake Mälaren. It began as a religious centre around Saint Eskil, then grew into one of Sweden's great metalworking towns, known as Stålstaden, the Steel City.

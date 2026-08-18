@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Memorial_and_Museum_Auschw
 latitude: 50.0343
 loc_type: feature
 longitude: 19.2038
-score: 8.9
+score: 6.018
 snippet: Preserved Nazi concentration and extermination camp, 70 km west of Kraków,
   now a UNESCO World Heritage Site
 story: 'The name "Auschwitz" comes from the Polish name of the town Oświęcim, which
@@ -21,6 +21,10 @@ tags:
 - sight
 title: Auschwitz-Birkenau Memorial and Museum
 type: location
+heritage: 7.988
+vibrancy: 3.096
+nature: 2.704
+off_the_beaten_track: 2.573
 ---
 
 Auschwitz-Birkenau, 70 kilometres west of Krakow, is the preserved site of the largest Nazi concentration and extermination camp. It is not a museum in any ordinary sense — it is a memorial to more than a million people murdered here, and a direct encounter with the physical reality of industrial genocide. The visit is demanding, sobering, and essential.

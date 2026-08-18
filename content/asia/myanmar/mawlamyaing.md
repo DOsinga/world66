@@ -5,11 +5,15 @@ done:
 latitude: 16.490803
 loc_type: city
 longitude: 97.628483
-score: 6.64
+score: 4.205
 snippet: Thanlwin River city of gilded hilltop pagodas, colonial waterfronts, and
   Kipling's old Moulmein.
 title: Mawlamyaing
 type: location
+heritage: 3.717
+vibrancy: 2.496
+nature: 4.923
+off_the_beaten_track: 5.228
 ---
 
 Mawlamyaing (formerly Moulmein) is the capital of Mon State and Myanmar's fourth-largest city, spread along the eastern bank of the Thanlwin River where it widens toward the Andaman Sea. Kipling wrote about it — "By the old Moulmein Pagoda, lookin' lazy at the sea" — and the ridge of gilded pagodas along the hilltop above town still catches the light exactly as he described.

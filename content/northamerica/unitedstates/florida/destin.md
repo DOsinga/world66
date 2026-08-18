@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 30.3936
 longitude: -86.4958
-score: 7.65
-snippet: Florida Panhandle fishing town turned beach resort, with white Gulf sand and a busy harbor.
+score: 3.077
+snippet: Florida Panhandle fishing town turned beach resort, with white Gulf sand
+  and a busy harbor.
 wikidata: Q2156427
 sources:
 - https://en.wikivoyage.org/wiki/Destin
 - https://www.visitflorida.com/places-to-go/northwest/destin/
 - https://www.cityofdestin.com/
+heritage: 0.914
+vibrancy: 2.55
+nature: 3.537
+off_the_beaten_track: 0.818
 ---
 
 Destin sits on the Florida Panhandle between Choctawhatchee Bay and the Gulf of Mexico. It has the white quartz sand and green water that made the Emerald Coast famous, but the place is more than another strip of condominiums: its old identity is fishing, and the harbor still gives the town a working edge.

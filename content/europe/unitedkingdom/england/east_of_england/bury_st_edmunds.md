@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bury_St_Edmunds_Abbey_(442
 latitude: 52.2458
 loc_type: city
 longitude: 0.7125
-score: 6.97
+score: 4.532
 snippet: Suffolk market town of abbey ruins, brewing, Georgian streets, and a quietly
   grand cathedral quarter.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/St_Edmundsbury_Cathedral
 title: Bury St Edmunds
 type: location
+heritage: 5.871
+vibrancy: 2.073
+nature: 2.934
+off_the_beaten_track: 1.895
 ---
 
 Bury St Edmunds is one of Suffolk's best market towns: prosperous without feeling smug, historic without being embalmed. Its centre is compact, handsome, and unusually coherent, with Georgian shopfronts, old coaching inns, a working market, and the smell of brewing never very far away.

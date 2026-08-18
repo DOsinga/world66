@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cape_Reinga,_Northland,_Ne
 latitude: -34.4266
 loc_type: city
 longitude: 172.6775
-score: 8.57
+score: 6.624
 snippet: Dramatic North Island cape where the Tasman Sea and Pacific Ocean meet below
   a lighthouse.
 title: Cape Reinga
 type: location
+heritage: 6.07
+vibrancy: 0.81
+nature: 7.694
+off_the_beaten_track: 5.493
 ---
 
 Cape Reinga is the northernmost accessible point of the North Island, and one of the most dramatic places in New Zealand. Standing at the [lighthouse](/australiaandpacific/newzealand/north_island/northland/cape_reinga/lighthouse), you can watch the Pacific Ocean and the Tasman Sea collide — a visible white line of churning water stretching out toward the horizon where the two bodies of water meet.

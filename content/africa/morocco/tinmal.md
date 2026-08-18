@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tin_Mal_Mosque3_(js).jpg
 latitude: 30.9848
 loc_type: city
 longitude: -8.2281
-score: 7.34
+score: 5.588
 sources:
 - https://en.wikipedia.org/wiki/Tinmal_Mosque
 - https://en.wikipedia.org/wiki/Tinmel
@@ -17,6 +17,10 @@ snippet: High Atlas historic site where the Almohad movement began, centred on t
   roofless Tinmal Mosque.
 title: Tin Mal
 type: location
+heritage: 5.789
+vibrancy: 1.932
+nature: 6.208
+off_the_beaten_track: 6.401
 ---
 
 Tin Mal is a remote and atmospheric site in the High Atlas, roughly halfway between [Marrakesh](/africa/morocco/marrakesh) and [Taroudant](/africa/morocco/taroudant) on the [Tizi n'Test pass](/africa/morocco/tinmal/tizi_n_test_pass) road. It was here that the Almohad movement was founded in the 12th century, and from this mountain stronghold Ibn Tumart launched the conquest of North Africa and Spain. All that remains today is the [Tinmal Mosque](/africa/morocco/tinmal/tinmal_mosque) — roofless but still standing, its arches open to the sky. It is one of the few mosques in Morocco that non-Muslims can enter, precisely because it no longer functions as one.

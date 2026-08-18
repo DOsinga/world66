@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Church_of_Skogar.JPG
 latitude: 63.526951
 loc_type: city
 longitude: -19.49443
-score: 8.54
+score: 5.679
 snippet: Small south-coast Icelandic settlement at the foot of Skógafoss waterfall
   and former sea cliffs
 title: Skogar
 type: location
+heritage: 1.647
+vibrancy: 1.331
+nature: 7.418
+off_the_beaten_track: 4.535
 ---
 
 Skógar is a small settlement on Iceland's south coast, best known as the site of [Skógafoss](/europe/iceland/skogar/skogafoss), one of the biggest and most spectacular waterfalls in Iceland. The falls plunge 60 metres from the edge of the former sea cliffs, and in good light a rainbow is almost always visible in the mist at the base. You can walk right up to the foot of the falls and, via a steep staircase, to the top for views across the coastal plain to the sea. Ten minutes' walk east is [Kvernufoss](/europe/iceland/skogar/kvernufoss), a smaller waterfall that you can walk behind — known to almost no one and almost always empty.

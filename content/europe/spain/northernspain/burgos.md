@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Burgos_city_view_facing_so
 latitude: 42.3439
 loc_type: city
 longitude: -3.697
-score: 8.61
+score: 6.44
 snippet: Gothic Castilian city on the Camino de Santiago, dominated by its UNESCO-listed
   cathedral.
 title: Burgos
 type: location
+heritage: 7.936
+vibrancy: 4.557
+nature: 2.503
+off_the_beaten_track: 2.008
 ---
 
 Burgos is one of the great Gothic cities of Spain, dominated by its [cathedral](/europe/spain/northernspain/burgos/burgos_cathedral) — a UNESCO World Heritage Site whose delicate spires and flying buttresses are visible from every approach to the city. Completed in the thirteenth century and modelled on the French cathedral at Bourges, it houses the tomb of El Cid, the legendary knight of the Reconquista, and his wife Jimena.

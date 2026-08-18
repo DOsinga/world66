@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Mochudi.jpg
 latitude: -24.38286
 loc_type: city
 longitude: 26.14895
-score: 6.12
+score: 4.198
 snippet: Bakgatla village north of Gaborone, centred on Phuthadikobo Hill and Botswana's
   Setswana cultural history
 title: Mochudi
 type: location
+heritage: 4.655
+vibrancy: 2.7
+nature: 4.496
+off_the_beaten_track: 5.277
 ---
 
 Mochudi is one of the larger villages in Botswana, about 35 km north of [Gaborone](/africa/botswana/gaborone), and the historical capital of the Bakgatla ba Kgafela people. The Bakgatla migrated here from what is now South Africa in 1871, under pressure from Boer encroachment on their lands, and settled at the foot of Phuthadikobo Hill beside the Notwane River. Despite its proximity to the capital, Mochudi retains a sense of traditional village life — compounds, kgotla meetings, a genuine market — that the sprawling modern suburbs of Gaborone have largely lost.

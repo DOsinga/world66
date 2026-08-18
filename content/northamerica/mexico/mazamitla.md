@@ -15,6 +15,11 @@ image: mazamitla.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Parroquia_de_San_Crist%C3%B3bal,_Mazamitla_4.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Luisalvaz
+score: 5.133
+heritage: 4.237
+vibrancy: 3.591
+nature: 6.161
+off_the_beaten_track: 3.413
 ---
 
 Mazamitla is Jalisco's mountain escape, a white-walled, red-roofed Pueblo Magico set among pine and oak forest south of Lake Chapala. Guadalajara comes here for cabins, cool air, fireplaces, horseback rides, and a weekend mood that feels much closer to the sierra than to the city.

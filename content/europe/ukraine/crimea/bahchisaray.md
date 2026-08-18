@@ -6,10 +6,14 @@ done:
 latitude: 44.748
 loc_type: city
 longitude: 33.881
-score: 7.29
+score: 3.974
 snippet: Crimean Tatar valley town centred on the Khan's Palace and nearby cave monasteries.
 title: Bahchisaray
 type: location
+heritage: 4.807
+vibrancy: 2.549
+nature: 3.078
+off_the_beaten_track: 4.74
 ---
 
 Bahchisaray — whose name means "palace of gardens" in Tatar — was the capital of the Crimean Khanate from the 15th to the 18th century. When Russia absorbed Crimea, it became a provincial backwater, but it never lost the character that centuries of Tatar rule had given it. Today it is a city of around 30,000 people, sitting at the heart of a wide agricultural valley.

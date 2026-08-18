@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -37.15
 longitude: 139.75
-score: 6.8
+score: 4.259
 snippet: Historic Limestone Coast port town with cliff walks, a red obelisk, beaches,
   and coastal lakes.
 sources:
@@ -15,6 +15,10 @@ image: robe.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mundy_Terrace,_Robe_20230214_1.jpg
 image_license: CC BY-SA 4.0
 image_attribution: DXR
+heritage: 3.357
+vibrancy: 2.201
+nature: 5.178
+off_the_beaten_track: 4.029
 ---
 
 Robe is a small Limestone Coast town that still feels like a port, even though its busiest shipping days are long gone. Stone buildings, a customs house, fishing boats, Norfolk pines, and the red-and-white obelisk on the headland give it more character than most holiday towns of its size.

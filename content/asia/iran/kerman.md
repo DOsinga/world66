@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bazaar_de_Kerman,_Ir%C3%A1
 latitude: 30.2839
 loc_type: city
 longitude: 57.0834
-score: 6.7
+score: 4.099
 snippet: Ancient Iranian desert city near the Lut Desert, known for carpets, long
   bazaars, and trade-route history.
 title: Kerman
 type: location
+heritage: 1.959
+vibrancy: 1.953
+nature: 3.791
+off_the_beaten_track: 6.678
 ---
 
 Kerman is an ancient desert city in southeastern Iran, about a thousand kilometres from [Tehran](/asia/iran/tehran). It sits at the edge of the Lut Desert — one of the hottest places on earth — and has been a crossroads of trade for two millennia. The city was known as Botia in Achaemenid times, and its position on the old routes between the Persian Gulf and Central Asia made it a natural centre for commerce.

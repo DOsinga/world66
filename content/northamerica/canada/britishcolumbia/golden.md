@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Golden_Ears_mountain.jpg
 latitude: 51.299222
 loc_type: city
 longitude: -116.964296
-score: 7.94
+score: 5.501
 snippet: British Columbia mountain town between the Rockies and Purcells, built for
   Kicking Horse adventures.
 title: Golden
 type: location
+heritage: 3.118
+vibrancy: 2.352
+nature: 7.205
+off_the_beaten_track: 3.56
 ---
 
 Golden is a small mountain town in southeastern British Columbia, wedged between the Rocky and Purcell ranges at the confluence of the Kicking Horse and Columbia rivers. It is surrounded by six national parks — [Yoho](/northamerica/canada/britishcolumbia/golden/yoho_national_park), [Glacier](/northamerica/canada/britishcolumbia/golden/glacier_national_park), Banff, [Kootenay](/northamerica/canada/britishcolumbia/golden/kootenay_national_park), Jasper, and Mount Revelstoke — making it one of the best-positioned adventure bases in the Canadian Rockies.

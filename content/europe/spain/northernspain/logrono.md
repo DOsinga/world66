@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:De_rivier_de_Ebro_passeren
 latitude: 43.465
 loc_type: city
 longitude: -2.4456
-score: 8.11
+score: 5.451
 snippet: La Rioja capital where Calle Laurel’s pintxo bars turn local wine into an
   evening ritual.
 sources:
 - https://en.wikipedia.org/wiki/Logro%C3%B1o
 title: Logroño
 type: location
+heritage: 6.386
+vibrancy: 4.53
+nature: 3.472
+off_the_beaten_track: 1.703
 ---
 
 Logroño is the capital of La Rioja, Spain's most famous wine region, and the city takes its reputation as a place to eat and drink extremely seriously. The Calle Laurel and the streets around it constitute one of the densest concentrations of wine bars and pintxo taverns in Spain — a strip that comes alive from seven in the evening as locals move from bar to bar, glass of Rioja in hand, following a social ritual that has been playing out on these streets for generations. The wine is cheap, the atmosphere is genuine, and the competition between bars for custom keeps the food unusually good.

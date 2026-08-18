@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:BoothbayHarbor.jpg
 latitude: 43.8513
 loc_type: city
 longitude: -69.6278
-score: 8.09
+score: 5.246
 snippet: Maine harbour village with whale cruises, puffin trips, and botanical gardens
   just inland
 title: Boothbay Harbor
 type: location
+heritage: 3.285
+vibrancy: 3.843
+nature: 6.275
+off_the_beaten_track: 1.699
 ---
 
 Boothbay Harbor is a classic Maine coastal village on a protected inlet about an hour north of Portland. The harbor is the center of activity — [whale watching and puffin cruises](/northamerica/unitedstates/maine/boothbay_harbor/whale_watching_cruises) depart from the waterfront, and the shops and restaurants along the narrow streets cater to summer visitors without feeling entirely overrun.

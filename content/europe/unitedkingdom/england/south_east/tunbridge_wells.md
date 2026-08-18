@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Pantiles,_Tunbridge_We
 latitude: 51.137148
 loc_type: city
 longitude: 0.267345
-score: 7.23
+score: 4.614
 snippet: Georgian Kent spa town with the Pantiles, genteel history, and countryside
   walks through the Weald.
 title: Tunbridge Wells
 type: location
+heritage: 5.479
+vibrancy: 3.062
+nature: 4.117
+off_the_beaten_track: 1.542
 ---
 
 Royal Tunbridge Wells is a Georgian spa town in the Weald of Kent, surrounded by some of the most scenic countryside in south-east England. The town earned its "Royal" prefix from Edward VII and has been associated with genteel respectability ever since, famously lending its name to the letter-writing "Disgusted of Tunbridge Wells."

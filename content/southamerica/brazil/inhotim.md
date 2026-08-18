@@ -2,7 +2,7 @@
 latitude: -20.1242
 loc_type: feature
 longitude: -44.2114
-score: 9.4
+score: 5.415
 snippet: Most cultural visitors to Belo Horizonte make a day trip to the Inhotim art
   park near Brumadinho
 title: Inhotim day trip
@@ -11,6 +11,10 @@ image: inhotim.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lydinstallation_ARoS.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Villy Fink Isaksen
+heritage: 3.322
+vibrancy: 1.68
+nature: 6.985
+off_the_beaten_track: 4.115
 ---
 
 A day trip out to Inhotim, the open-air contemporary art park 60 km west of the city, is the single most rewarding excursion for most cultural visitors to Belo Horizonte. The park covers 140 hectares of botanic garden punctuated by 23 individual gallery pavilions; allow a full day and consider a second.

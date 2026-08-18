@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Hainan_3.JPG
 latitude: 18.2109
 loc_type: city
 longitude: 109.7065
-score: 7.95
+score: 5.13
 snippet: Sheltered Hainan beach bay with clear shallows, white sand, and protected
   marine-park waters near Sanya.
 title: Yalong Bay
 type: location
+heritage: 1.916
+vibrancy: 4.083
+nature: 5.978
+off_the_beaten_track: 1.644
 ---
 
 Yalong Bay (Yalong Wan) lies about 20km east of Sanya on the southern tip of Hainan Island, and is widely considered the finest beach on the island. The bay curves for around 7km in a broad arc, with white sand that stays fine-grained underfoot and water that stays clear well into the shallow. The area is a protected marine park, which has kept the beach from the worst of the overdevelopment that affects Sanya's other resort zones.

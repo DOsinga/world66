@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Neum,_2023.02.08_1.jpg
 latitude: 42.925
 loc_type: city
 longitude: 17.6167
-score: 6.72
+score: 4.867
 snippet: Bosnia and Herzegovina's only Adriatic resort town, squeezed between Croatia
   and the Bay of Neum.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Klek_(peninsula)
 title: Neum
 type: location
+heritage: 3.176
+vibrancy: 1.961
+nature: 6.198
+off_the_beaten_track: 4.241
 ---
 
 Neum is Bosnia and Herzegovina's small window onto the Adriatic, a short strip of coast wedged between two parts of Croatia. It is not the prettiest town on the sea, and it can feel crowded in summer, but the geography alone makes it interesting: this is the country's only practical seaside resort.

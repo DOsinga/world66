@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Historic_Quarter_of_the_Se
 latitude: -32.597609
 loc_type: city
 longitude: -70.852975
-score: 8.82
+score: 6.336
 snippet: Pacific port city in Chile, built across steep hills linked by historic funicular
   elevators.
 title: Valparaiso
 type: location
+heritage: 5.89
+vibrancy: 6.367
+nature: 6.256
+off_the_beaten_track: 2.379
 ---
 
 Valparaíso is Chile’s great port city — chaotic, colourful, and unlike anywhere else in the country. Built across forty-two hills that tumble toward the Pacific, it is a city of steep alleys, painted houses, and [funicular elevators](/southamerica/chile/valparaiso/ascensores) that have been hauling passengers up to the hillside neighbourhoods since the 1880s. It can be visited as a day trip from [Santiago](/southamerica/chile/santiago), but it rewards a longer stay.

@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:30282-Vestingwerken_en_gra
 latitude: 52.2958
 loc_type: city
 longitude: 5.1634
-score: 8.05
+score: 3.918
 snippet: Dutch fortress town whose intact star-shaped walls and moats still stamp
   the flat landscape near Amsterdam.
 title: Naarden
 type: location
+heritage: 5.114
+vibrancy: 2.191
+nature: 2.062
+off_the_beaten_track: 1.447
 ---
 
 Naarden-Vesting is one of the best-preserved star forts in Europe. The double ring of walls, bastions, and moats was laid out in the late 17th century and has survived almost intact — from the air it looks like a perfect six-pointed star stamped into the flat Dutch landscape. Walking [the ramparts](/europe/netherlands/naarden/naarden_vesting_ramparts) on a clear morning, with the Gooimeer lake glinting to the north and Amsterdam's skyline faint on the horizon, is one of the quieter pleasures near the capital.

@@ -9,10 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Badinan_Derby_in_Duhok_Sta
 latitude: 36.85426
 loc_type: city
 longitude: 42.992453
-score: 5.61
+score: 5.04
 snippet: Northern Iraqi Kurdistan city in a mountain valley near the Turkish border.
 title: Duhok
 type: location
+heritage: 4.386
+vibrancy: 1.918
+nature: 4.393
+off_the_beaten_track: 8.377
 ---
 
 Duhok is the capital of Duhok Governorate in northern Iraqi Kurdistan, near the Turkish border. The city has grown rapidly since the 1990s, when the creation of the Kurdish safe haven brought stability, and now has a population of around 500,000.

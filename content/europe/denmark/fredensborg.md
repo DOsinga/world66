@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Denmark_-_Fredensborg_Cast
 latitude: 55.9756
 loc_type: city
 longitude: 12.4031
-score: 6.97
+score: 4.539
 snippet: Royal North Zealand town beside Lake Esrum, centred on Denmark's working
   spring palace.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://denkongeligesamling.dk/en/fredensborg-palace/tickets/
 title: Fredensborg
 type: location
+heritage: 4.932
+vibrancy: 1.517
+nature: 4.945
+off_the_beaten_track: 2.158
 ---
 
 Fredensborg is a quiet North Zealand town built around [Fredensborg Palace](/europe/denmark/fredensborg/fredensborg_palace), the Danish royal family's most lived-in country residence. It is less showy than [Frederiksborg Castle](/europe/denmark/hillerod/frederiksborg_castle) in nearby [Hillerød](/europe/denmark/hillerod), but that is the point: this is a working royal retreat, with a broad baroque garden, long gravel avenues, and a lakeside setting that feels more intimate than grand.

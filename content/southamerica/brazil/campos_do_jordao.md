@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -22.7394
 longitude: -45.5914
-score: 7.2
+score: 6.181
 snippet: High-altitude Brazilian mountain resort in the Mantiqueira, known for cool
   winters and gardens.
 sources:
@@ -20,6 +20,10 @@ image: campos_do_jordao.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Araucaia_Campos_do_Jord%C3%A3o.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Sérgio Valle Duarte
+heritage: 3.905
+vibrancy: 4.603
+nature: 7.356
+off_the_beaten_track: 3.04
 ---
 
 Campos do Jordão is Brazil's mountain-resort version of a winter town, high in the Serra da Mantiqueira north-east of São Paulo. Brazilians come for cool air, fondue, chalet-like architecture, and the novelty of wearing a coat in a country better known abroad for beaches.

@@ -14,7 +14,7 @@ quick_facts:
   Guaraní: Co-official with Spanish
   Mother of Cities: Other towns were founded from here
   Population: ~520,000 (metro ~2.3M)
-score: 6.86
+score: 5.525
 snippet: Paraguayan capital on the east bank of the river, marked by colonial remnants
   and scruffy charm
 tip: Asunción is one of South America's oldest cities and the laid-back, low-key capital
@@ -23,6 +23,10 @@ tip: Asunción is one of South America's oldest cities and the laid-back, low-ke
   It is hot and humid, and Guaraní is spoken alongside Spanish — learn a word or two.
 title: Asuncion
 type: location
+heritage: 5.603
+vibrancy: 5.538
+nature: 3.443
+off_the_beaten_track: 2.875
 ---
 
 Asuncion is the capital of [Paraguay](/southamerica/paraguay) and the country's only real city, spread along the east bank of the Paraguay River. It is not a conventionally beautiful capital — decades of unfinished development projects have left an uneven skyline — but it has a scruffy charm, colonial remnants, and a pace of life that is distinctly its own.

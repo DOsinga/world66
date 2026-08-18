@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cala_de_la_Granadella,_J%C
 latitude: 38.78938
 loc_type: city
 longitude: 0.163417
-score: 8.24
+score: 6.2
 snippet: Costa Blanca bay town with separate old town, fishing port, and Arenal beach
   districts
 title: Javea
 type: location
+heritage: 5.062
+vibrancy: 6.377
+nature: 5.743
+off_the_beaten_track: 1.56
 ---
 
 Jávea (Xàbia in Valencian) occupies a sheltered bay on the Costa Blanca between the capes of Sant Antoni to the north and La Nau to the south, and this geography has determined its character. The town is actually three distinct settlements that have grown into each other without quite merging: the old town (el poble) up on the hill a kilometer inland, the port and fishing harbor to the southeast, and the Arenal beach zone on the north bay. Each has its own atmosphere and daily rhythm. The old town is the most architecturally coherent of the three, built in the local Tosca stone — a rough, pale sandstone quarried from the cape — that gives Jávea's older buildings a distinctive look unlike the plastered white of most Costa Blanca towns.

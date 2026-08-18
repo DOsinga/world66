@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Valle_Gran_Rey,_2016.jpeg
 latitude: 28.0917
 loc_type: city
 longitude: -17.3326
-score: 8.65
+score: 5.327
 snippet: La Gomera valley resort of terraced cliffs, black-sand beaches, and long-stay
   alternative travellers.
 title: Valle Gran Rey
 type: location
+heritage: 2.764
+vibrancy: 2.195
+nature: 7.086
+off_the_beaten_track: 3.526
 ---
 
 Valle Gran Rey is a steep valley on the western coast of La Gomera, one of the smaller Canary Islands. The valley drops dramatically from the central highlands to the sea, its terraced sides once covered in palm groves and banana plantations. Since the 1970s it has been a magnet for alternative travellers and long-stay visitors drawn by the warm winters, cheap rents, and unhurried pace.

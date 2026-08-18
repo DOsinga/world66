@@ -9,10 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Soveria_Mannelli,_centro_s
 latitude: 39.0829
 loc_type: city
 longitude: 16.3719
-score: 6.43
+score: 3.384
 snippet: Small Calabrian mountain town in the Sila foothills, home to Rubbettino Editore.
 title: Soveria Mannelli
 type: location
+heritage: 2.835
+vibrancy: 1.936
+nature: 4.044
+off_the_beaten_track: 1.946
 ---
 
 Soveria Mannelli is a small mountain town in the Sila foothills of Catanzaro province, sitting at about 750 metres elevation and surrounded by dense [chestnut forests](/europe/italy/calabria/soveria_mannelli/chestnut_forests). It is best known in Italy as the home of [Rubbettino Editore](/europe/italy/calabria/soveria_mannelli/rubbettino_editore), one of the country's most respected independent publishing houses, which has given this otherwise quiet place an outsized cultural footprint.

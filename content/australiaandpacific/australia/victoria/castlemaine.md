@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: -37.06
 longitude: 144.2167
-score: 6.7
+score: 4.509
 wikidata: Q260317
-snippet: Goldfields town where Victorian mining streets now carry one of regional Victoria's strongest arts scenes.
+snippet: Goldfields town where Victorian mining streets now carry one of regional
+  Victoria's strongest arts scenes.
 sources:
-  - https://en.wikivoyage.org/wiki/Castlemaine
-  - https://www.visitmelbourne.com/regions/goldfields/destinations/castlemaine
-  - https://www.castlemainemaldon.com.au/Home
+- https://en.wikivoyage.org/wiki/Castlemaine
+- https://www.visitmelbourne.com/regions/goldfields/destinations/castlemaine
+- https://www.castlemainemaldon.com.au/Home
+heritage: 5.326
+vibrancy: 3.362
+nature: 4.089
+off_the_beaten_track: 4.04
 ---
 
 Castlemaine is a central Victorian goldfields town with a better second act than most. The 1850s rush left it with broad streets, public buildings, old pubs, and a handsome railway station; the last few decades have filled those bones with artists, makers, good cafes, and weekend visitors from [Melbourne](/australiaandpacific/australia/victoria/melbourne).

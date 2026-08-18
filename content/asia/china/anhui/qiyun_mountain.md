@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Xiuning_Qiyun_Shan_2015.06
 latitude: 29.8083
 loc_type: feature
 longitude: 118.033
-score: 8.02
+score: 6.127
 snippet: Taoist mountain in Anhui where red sandstone cliffs hold temples, shrines,
   and ancient inscriptions.
 sources:
 - https://en.wikipedia.org/wiki/Mount_Qiyun
 title: Qiyun Mountain
 type: location
+heritage: 5.579
+vibrancy: 2.941
+nature: 7.132
+off_the_beaten_track: 3.443
 ---
 
 Qiyun Mountain is the Taoist counterpart to the Buddhist peaks that define most of Anhui's sacred landscape. One of China's four great Taoist mountains, it rises to 585 meters in Xiuning County, about 33 kilometers west of Huang Shan city — which makes it eminently combinable with a visit to the Yellow Mountains while offering an experience that is entirely different in character. Where Huang Shan overwhelms with granite grandeur, Qiyun is intimate and layered, its red sandstone cliffs pocketed with temples, shrines, and inscriptions accumulated over more than a thousand years of religious use.

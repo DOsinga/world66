@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Skomv%C3%A6r_fyr_01.jpg
 latitude: 67.409889
 loc_type: city
 longitude: 11.875678
-score: 7.68
+score: 6.039
 snippet: Outer Lofoten island with an 1887 lighthouse, seabird colonies, and Theodor
   Kittelsen's storm-shaped artistic legacy.
 title: Skomvær
 type: location
+heritage: 4.044
+vibrancy: 1.016
+nature: 7.647
+off_the_beaten_track: 5.591
 ---
 
 Skomvaer is the outermost island in the Rost archipelago, the very last scrap of land at the southwestern tip of the [Lofoten Islands](/europe/norway/lofotenislands) before the open Norwegian Sea. A proud lighthouse built in 1887 stands on the island, marking the edge of the coast for ships heading north. The island is tiny, lush, and windswept, surrounded by some of the richest seabird colonies in Norway.

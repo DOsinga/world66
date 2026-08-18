@@ -2,14 +2,19 @@
 title: Comrat
 type: location
 loc_type: city
-latitude: 46.2980
-longitude: 28.6590
-score: 6.2
-snippet: Gagauzia's small capital, set in Moldova's southern wine country and shaped by Turkic culture.
+latitude: 46.298
+longitude: 28.659
+score: 4.23
+snippet: Gagauzia's small capital, set in Moldova's southern wine country and shaped
+  by Turkic culture.
 sources:
-  - https://en.wikivoyage.org/wiki/Comrat
-  - https://discovergagauzia.md/en/attractions/gagauz-museum-of-history-and-ethnography/
-  - https://en.wikipedia.org/wiki/Gagauzia
+- https://en.wikivoyage.org/wiki/Comrat
+- https://discovergagauzia.md/en/attractions/gagauz-museum-of-history-and-ethnography/
+- https://en.wikipedia.org/wiki/Gagauzia
+heritage: 4.652
+vibrancy: 2.954
+nature: 4.584
+off_the_beaten_track: 5.638
 ---
 
 Comrat is the capital of Gagauzia, Moldova's autonomous Turkic-speaking region in the dry southern steppe. The city itself is modest, but the place identity is strong: Gagauz language and culture, Orthodox churches, Soviet-era monuments, and wineries scattered through the red-wine country around town.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Hollywood_Sign_(Zuschnitt)
 latitude: 34.053691
 loc_type: city
 longitude: -118.242766
-score: 8.9
+score: 6.802
 snippet: Sprawling Southern California metropolis where film mythology, immigrant
   neighbourhoods, and Pacific light define the city.
 title: Los Angeles
 type: location
+heritage: 5.409
+vibrancy: 7.345
+nature: 5.4
+off_the_beaten_track: 0.927
 ---
 
 L.A. is the quintessential American 21st century city – embracing and absorbing everything in its path – from culture to food to people – and making its own. It reflects and (to some) warps it back in a manner that is uniquely L.A.

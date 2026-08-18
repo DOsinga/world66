@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_Volleyball_2,_Delray
 latitude: 26.461462
 loc_type: city
 longitude: -80.07282
-score: 7.72
+score: 5.074
 snippet: Palm Beach County beach city with a walkable Atlantic Avenue linking downtown
   to the ocean.
 title: Delray Beach
 type: location
+heritage: 2.594
+vibrancy: 4.523
+nature: 5.679
+off_the_beaten_track: 1.26
 ---
 
 Delray Beach is a small city on the Atlantic coast of Palm Beach County, halfway between Fort Lauderdale and West Palm Beach and effectively the most walkable beach town in southeast Florida. The centre is Atlantic Avenue, a mile-long pedestrian-friendly street of restaurants, galleries, and shops that runs from the Intracoastal Waterway straight down to a wide, well-kept beach.

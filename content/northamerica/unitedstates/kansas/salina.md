@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Pedestrian_Crossing_Struct
 latitude: 38.8403
 loc_type: city
 longitude: -97.6114
-score: 6.79
+score: 2.386
 snippet: Central Kansas crossroads city with a strong downtown arts strip and prairie
   museums.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://www.smokyhillmuseum.org/
 title: Salina
 type: location
+heritage: 2.33
+vibrancy: 2.314
+nature: 2.572
+off_the_beaten_track: 1.117
 ---
 
 Salina is a central Kansas crossroads, the kind of town many travellers first meet from Interstate 70. Slow down and it becomes more interesting: a revived Santa Fe Avenue, a good local museum, public art, and enough food and performance venues to make it more than a fuel stop.

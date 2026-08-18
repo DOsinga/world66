@@ -5,13 +5,17 @@ done:
 latitude: 11.588
 loc_type: city
 longitude: 43.1456
-score: 6.55
+score: 5.382
 snippet: Hot Red Sea capital where Djibouti's port, markets, and desert transport
   routes converge
 sources:
 - https://en.wikipedia.org/wiki/Djibouti_City
 title: Djibouti City
 type: location
+heritage: 2.782
+vibrancy: 4.24
+nature: 6.294
+off_the_beaten_track: 4.977
 ---
 
 Two thirds of Djibouti's population lives in the capital, and everything of consequence in the country flows through it. Djibouti City is not a beautiful city — it is hot, dusty, and sprawling — but it has a scruffy energy and serves as the only practical base for exploring the country.

@@ -6,10 +6,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Playa_Puerto_L%C3%B3pez.JP
 latitude: -1.5589
 loc_type: city
 longitude: -80.8106
-score: 7.9
-snippet: Ecuadorian fishing town and ecotourism base for Machalilla National Park and Isla de la Plata.
+score: 5.881
+snippet: Ecuadorian fishing town and ecotourism base for Machalilla National Park
+  and Isla de la Plata.
 title: Puerto López
 type: location
+heritage: 3.393
+vibrancy: 4.325
+nature: 7.025
+off_the_beaten_track: 3.959
 ---
 
 Puerto López is a small fishing town on Ecuador's central Pacific coast, set around a broad bay in Manabí province. It still wakes up with the fishing boats, pelicans, frigatebirds, and buyers crowding the sand near the pier, but it has also become the main base for [Machalilla National Park](/southamerica/ecuador/puerto_lopez/los_frailes_beach) and boat trips to [Isla de la Plata](/southamerica/ecuador/puerto_lopez/isla_de_la_plata).

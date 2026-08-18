@@ -5,11 +5,15 @@ done:
 latitude: 36.767214
 loc_type: city
 longitude: 28.800274
-score: 7.06
+score: 6.719
 snippet: Turkish farming town and airport gateway to Lycian ruins, turtle beaches,
   and the Dalaman River
 title: Dalaman
 type: location
+heritage: 5.029
+vibrancy: 6.166
+nature: 7.435
+off_the_beaten_track: 3.762
 ---
 
 Dalaman is a small farming town on Turkey's southwestern Mediterranean coast, known almost entirely for its international airport. Charter flights from across Europe land here daily, funneling visitors toward the spectacular destinations nearby — [Fethiye](/asia/turkey/fethiye), [Dalyan](/asia/turkey/dalyan), and Marmaris among them.

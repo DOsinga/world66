@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 18.4213
 longitude: -95.1139
-score: 7.2
-snippet: Lakeside Los Tuxtlas town known for rainforest excursions, boat rides, and brujeria.
+score: 4.892
+snippet: Lakeside Los Tuxtlas town known for rainforest excursions, boat rides, and
+  brujeria.
 sources:
-  - https://en.wikivoyage.org/wiki/Catemaco
-  - https://en.wikipedia.org/wiki/Catemaco
-  - https://en.wikipedia.org/wiki/Lake_Catemaco
-  - https://en.wikipedia.org/wiki/Nanciyaga_Ecological_Reserve
+- https://en.wikivoyage.org/wiki/Catemaco
+- https://en.wikipedia.org/wiki/Catemaco
+- https://en.wikipedia.org/wiki/Lake_Catemaco
+- https://en.wikipedia.org/wiki/Nanciyaga_Ecological_Reserve
+heritage: 3.616
+vibrancy: 3.564
+nature: 5.86
+off_the_beaten_track: 3.364
 ---
 
 Catemaco sits on a wide volcanic lake in southern Veracruz, in the wet green country of Los Tuxtlas. It is a little scruffy around the edges, but the setting is excellent: rainforest hills behind town, fishing boats on the lake, and Gulf coast lagoons and mangroves within day-trip range.

@@ -4,10 +4,15 @@ type: location
 loc_type: city
 latitude: -33.133333
 longitude: 148.166667
-score: 7.0
-snippet: Central West town known for its radio telescope, Elvis festival, and big-sky country.
+score: 3.672
+snippet: Central West town known for its radio telescope, Elvis festival, and big-sky
+  country.
 sources:
-  - https://en.wikivoyage.org/wiki/Parkes
+- https://en.wikivoyage.org/wiki/Parkes
+heritage: 3.23
+vibrancy: 2.895
+nature: 4.293
+off_the_beaten_track: 3.198
 ---
 
 Parkes is a country town in the Central West of New South Wales, better known than its size suggests because of the great radio telescope north of town. The dish helped receive signals from the Apollo 11 moon landing and later became the star of the film *The Dish*. Even if you do not care much about astronomy, the sight of the telescope against open paddocks is worth the detour.

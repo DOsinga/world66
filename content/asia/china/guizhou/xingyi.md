@@ -4,13 +4,17 @@ done:
 latitude: 25.091
 loc_type: city
 longitude: 104.9011
-score: 6.67
+score: 5.937
 snippet: Southwestern Guizhou city near karst peaks, river gorges, and the Forest
   of Ten Thousand Peaks.
 sources:
 - https://en.wikivoyage.org/wiki/Xingyi
 title: Xingyi
 type: location
+heritage: 6.814
+vibrancy: 2.604
+nature: 5.834
+off_the_beaten_track: 3.155
 ---
 
 Xingyi sits in the far southwest of Guizhou, where the province meets Yunnan and Guangxi — a borderland geography that has given it a distinct character and an exceptional natural setting. The city itself is a functional place without much to detain you, but its surroundings include two of the most dramatic landscapes in southwestern China, and most travellers who make it here feel the detour was worth the distance.

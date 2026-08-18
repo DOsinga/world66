@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bobo-Dioulasso_TownHall2.j
 latitude: 11.17658
 loc_type: city
 longitude: -4.296144
-score: 6.11
+score: 5.529
 snippet: Burkina Faso's second city, known for its Sudanese-style Grande Mosquée,
   shaded streets, and old Kibidwé district.
 title: Bobo-dioulasso
 type: location
+heritage: 6.135
+vibrancy: 5.288
+nature: 4.214
+off_the_beaten_track: 5.489
 ---
 
 Bobo-Dioulasso is Burkina Faso's second city and by most accounts its most pleasant. Where [Ouagadougou](/africa/burkinafaso/ouagadougou) is dusty and bureaucratic, Bobo is green, shaded, and unhurried — a city of wide boulevards, busy market squares, and a relaxed atmosphere that makes it easy to linger.

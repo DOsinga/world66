@@ -4,9 +4,13 @@ type: location
 loc_type: city
 latitude: 50.209234
 longitude: 15.832858
-score: 7.4
+score: 5.684
 snippet: Regional capital of northeastern Bohemia, celebrated for its Modernist urban
   planning by Josef Gočár.
+heritage: 6.604
+vibrancy: 4.834
+nature: 2.011
+off_the_beaten_track: 1.145
 ---
 
 Hradec Králové is the capital of northeastern [Bohemia](/europe/czechrepublic), a city of around 90,000 at the confluence of the Elbe and Orlice rivers, about 50 km southwest of [Náchod](/europe/czechrepublic/nachod). Its name means "Castle of the Queen", a reminder that it was long a dowry town of Bohemian queens, and its old core still rises on a low hill above the rivers, crowned by the Gothic Cathedral of the Holy Spirit and the slender White Tower.

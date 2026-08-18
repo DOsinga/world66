@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:CreekCountyCourthouseOK.JP
 latitude: 36.000504
 loc_type: city
 longitude: -96.104961
-score: 5.51
+score: 2.226
 snippet: Route 66 town in Creek County, shaped by railroads, oil, glassmaking, and
   preserved early downtown blocks.
 title: Sapulpa
 type: location
+heritage: 2.375
+vibrancy: 2.187
+nature: 2.321
+off_the_beaten_track: 1.136
 ---
 
 Located on Historic Route 66, Sapulpa is the county seat of Creek County with over 19,000 people. From Indian Territory history to the Glenpool oil strike, from railroad town to glass and pottery manufacturing, Sapulpa has been shaped by diverse influences. The Main Street project has preserved the distinctive downtown district, most of which was built before the 1920s.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:1008_Beach_at_Night_with_M
 latitude: 7.036668
 loc_type: city
 longitude: 99.96154
-score: 7.33
+score: 5.292
 snippet: Southern Thai harbour town with a Malay feel, gateway to Tarutao and the
   Satun karst coast.
 title: Satun
 type: location
+heritage: 2.738
+vibrancy: 2.867
+nature: 6.611
+off_the_beaten_track: 5.216
 ---
 
 Satun is a quiet harbour town in Thailand's deep south, on the Andaman Sea coast about two hours from Hat Yai and close to the Malaysian border. Most travellers pass through rather than stay — it is the departure point for boats to the [Tarutao National Marine Park](/asia/thailand/satun/tarutao_national_marine_park) and Ko Lipe — but the town itself is pleasant enough, with a largely Muslim population and a distinctly Malay feel. The [Satun National Museum](/asia/thailand/satun/satun_national_museum) occupies a fine Sino-Portuguese mansion and documents the area's mixed Thai-Malay culture.

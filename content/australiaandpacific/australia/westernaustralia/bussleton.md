@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:BusseltonJetty1_gobeirne.j
 latitude: -33.6445
 loc_type: city
 longitude: 115.3487
-score: 7.54
+score: 5.533
 snippet: Southwest Western Australian seaside town known for its 1.8-kilometre timber
   jetty and Geographe Bay beaches.
 title: Busselton
 type: location
+heritage: 4.607
+vibrancy: 4.256
+nature: 6.52
+off_the_beaten_track: 3.686
 ---
 
 Busselton is a seaside town in Western Australia's southwest, about two and a half hours south of [Perth](/australiaandpacific/australia/westernaustralia/perth). Its main attraction is the Busselton Jetty — at 1.8 km, the longest timber-piled jetty in the Southern Hemisphere. A small train runs to the end, where an underwater observatory lets you watch the marine life that has colonised the pylons.

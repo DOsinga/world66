@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:MK02733_Spokane_Upper_Fall
 latitude: 47.657193
 loc_type: city
 longitude: -117.42351
-score: 6.92
+score: 4.26
 snippet: Eastern Washington river city where Expo 74 left downtown parks around Spokane
   Falls.
 title: Spokane
 type: location
+heritage: 4.248
+vibrancy: 3.863
+nature: 4.737
+off_the_beaten_track: 3.033
 ---
 
 Spokane is the largest city in eastern Washington and the second-largest in the state, sitting on the Spokane River in the Inland Empire region. Unlike [Seattle](/northamerica/unitedstates/washington/seattle) to the west, it is not a rain city: winters bring snow, summers are hot and dry, and the surrounding landscape is pine forests and wheat fields rather than rainforest.

@@ -2,14 +2,19 @@
 latitude: -10.6056
 loc_type: city
 longitude: 142.2825
-score: 7.68
-snippet: Torres Strait island with Kaurareg history, World War II sites, and the region's main airport.
+score: 6.46
+snippet: Torres Strait island with Kaurareg history, World War II sites, and the region's
+  main airport.
 sources:
 - https://en.wikivoyage.org/wiki/Horn_Island
 - https://en.wikipedia.org/wiki/Horn_Island,_Queensland
 - https://www.wikidata.org/wiki/Q1628311
 title: Horn Island
 type: location
+heritage: 3.11
+vibrancy: 0.804
+nature: 7.867
+off_the_beaten_track: 7.032
 ---
 
 Horn Island, also known as Ngurupai or Narupai, is one of the Torres Strait Islands off the tip of Cape York. Most travellers first see it as the airport island for Thursday Island, but it has a sharper story than that suggests: Kaurareg country, gold mining, pearling, and one of Australia's most important northern World War II airfields.

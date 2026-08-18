@@ -5,11 +5,15 @@ done:
 latitude: 42.947011
 loc_type: city
 longitude: -76.429102
-score: 7.33
+score: 4.444
 snippet: Finger Lakes village on Skaneateles Lake, with Federal architecture and a
   compact waterfront centre.
 title: Skaneateles
 type: location
+heritage: 3.034
+vibrancy: 2.93
+nature: 5.473
+off_the_beaten_track: 1.98
 ---
 
 Skaneateles is a small village of about 2,500 people on the northern tip of [Skaneateles Lake](/northamerica/unitedstates/newyorkstate/skaneateles/skaneateles_lake), one of the Finger Lakes in central New York State. It is one of the most attractive and prosperous small towns in the region — a tight grid of Federal and Greek Revival buildings in the [historic district](/northamerica/unitedstates/newyorkstate/skaneateles/skaneateles_historic_district), a pleasant waterfront park ([Clift Park](/northamerica/unitedstates/newyorkstate/skaneateles/clift_park)), and a compact main street of shops and restaurants that can be walked end to end in minutes. The lake itself, one of the cleanest in New York State, is long and narrow and stunning.

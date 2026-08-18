@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Boca_Chica_RD_12_2017_6442
 latitude: 18.4539
 loc_type: city
 longitude: -69.6103
-score: 6.97
+score: 4.911
 snippet: Beach town east of Santo Domingo, known for its shallow reef-protected lagoon
   and lively local weekends.
 title: Boca Chica
 type: location
+heritage: 2.207
+vibrancy: 3.94
+nature: 5.708
+off_the_beaten_track: 1.774
 ---
 
 Boca Chica is a beach town about 30 kilometers east of Santo Domingo, popular with Dominicans as a weekend escape from the capital and with budget travelers looking for sand and nightlife without the resort-town prices of Punta Cana. [Playa Boca Chica](/northamerica/dominicanrepublic/bocachica/playa_boca_chica) is a long, shallow, reef-protected lagoon with calm turquoise water — you can wade out a surprisingly long way — and it gets packed on Sundays and holidays when half of Santo Domingo seems to show up with coolers and speakers.

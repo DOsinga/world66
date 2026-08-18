@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:1876_bird%27s_eye_view_of_
 latitude: 42.6414
 loc_type: city
 longitude: -71.3085
-score: 6.61
+score: 3.777
 snippet: Massachusetts mill city where canals and textile factories anchor Lowell
   National Historical Park.
 title: Lowell
 type: location
+heritage: 3.447
+vibrancy: 3.931
+nature: 2.617
+off_the_beaten_track: 0.756
 ---
 
 Lowell is where America's Industrial Revolution began. In the early 19th century, a network of canals was dug to power textile mills, and the city became the largest industrial centre in the United States. Today the [Lowell National Historical Park](/northamerica/unitedstates/massachusetts/lowell/lowell_national_historical_park) preserves that story — the mills, the canals, the worker housing — and the [Boott Cotton Mills Museum](/northamerica/unitedstates/massachusetts/lowell/boott_cotton_mills_museum), with its deafening operating weave room of 88 power looms, makes the experience visceral rather than abstract.

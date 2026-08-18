@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Iringa.JPG
 latitude: -7.7743
 loc_type: city
 longitude: 35.4826
-score: 6.77
+score: 4.68
 snippet: Southern Highlands capital on a cool escarpment, used as a base for Ruaha
   and Udzungwa
 title: Iringa
 type: location
+heritage: 3.958
+vibrancy: 2.907
+nature: 5.576
+off_the_beaten_track: 5.127
 ---
 
 Iringa is a provincial capital in the Tanzanian Southern Highlands, set on a dramatic escarpment at 1,600 metres. The altitude keeps it cooler than most of Tanzania, the scenery is striking, and the town itself is relaxed and largely tourist-free — a rare thing in this part of the world.

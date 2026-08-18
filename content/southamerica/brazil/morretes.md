@@ -5,16 +5,21 @@ loc_type: city
 latitude: -25.4769
 longitude: -48.8323
 wikidata: Q781087
-score: 6.9
-snippet: Colonial Paraná river town known for the Serra do Mar railway, barreado, and Atlantic Forest hills
+score: 5.173
+snippet: Colonial Paraná river town known for the Serra do Mar railway, barreado,
+  and Atlantic Forest hills
 sources:
-  - https://en.wikivoyage.org/wiki/Morretes
-  - https://en.wikipedia.org/wiki/Morretes
-  - https://www.wikidata.org/wiki/Q781087
+- https://en.wikivoyage.org/wiki/Morretes
+- https://en.wikipedia.org/wiki/Morretes
+- https://www.wikidata.org/wiki/Q781087
 image: morretes.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Panorama_Morretes_Nhundiaquara.jpg
 image_license: CC0
 image_attribution: Saturnalia0
+heritage: 4.96
+vibrancy: 5.048
+nature: 5.495
+off_the_beaten_track: 2.693
 ---
 
 Morretes is a small colonial town in Paraná, tucked where the Serra do Mar drops toward the coastal plain. It is best reached from [Curitiba](/southamerica/brazil/curitiba) on the old railway, a slow, spectacular ride through Atlantic Forest, viaducts, tunnels, and misty mountain folds.

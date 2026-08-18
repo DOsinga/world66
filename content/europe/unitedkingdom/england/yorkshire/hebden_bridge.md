@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Calder_valley_hebden_bridg
 latitude: 53.742
 loc_type: city
 longitude: -2.009
-score: 7.15
+score: 4.768
 snippet: Calder Valley market town of steep terraces, independent shops, canals, moorland,
   and literary-arts energy.
 sources:
@@ -18,6 +18,10 @@ tags:
 - south_pennines
 title: Hebden Bridge
 type: location
+heritage: 4.751
+vibrancy: 4.287
+nature: 5.319
+off_the_beaten_track: 3.484
 ---
 
 Hebden Bridge is the Calder Valley town that turned post-industrial Pennine grit into something lively, political, and creative. Stone terraces climb steeply above the railway and canal, old mills have been reused, and the centre is packed with independent shops, cafes, bookshops, and walkers comparing weather forecasts.

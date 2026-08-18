@@ -14,7 +14,7 @@ quick_facts:
   Chinese Replica: A full-size copy exists
   Population: ~780
   Salt Mine: 7,000 years old
-score: 9.46
+score: 6.148
 snippet: Lakeside Salzkammergut village where prehistoric salt mines meet Dachstein
   cliffs and stacked wooden houses.
 tip: Hallstatt is tiny and overwhelmed by day-trippers — it even inspired a full-scale
@@ -23,6 +23,10 @@ tip: Hallstatt is tiny and overwhelmed by day-trippers — it even inspired a fu
   famous photo viewpoint now gets so crowded the village has tried to fence it off.
 title: Hallstatt
 type: location
+heritage: 7.004
+vibrancy: 4.564
+nature: 6.159
+off_the_beaten_track: 1.956
 ---
 
 Hallstatt is a small lakeside village in the Salzkammergut region of Upper Austria, dramatically situated between the Hallstätter See and the sheer walls of the Dachstein massif. It is one of the oldest continuously inhabited settlements in Europe — humans have lived and mined salt here for at least 7,000 years — and that prehistoric legacy gives the area its name, Hallstatt being the term archaeologists use to describe the early Iron Age culture centred here.

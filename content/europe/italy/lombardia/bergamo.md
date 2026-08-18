@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Upper_City_of_Bergamo.
 latitude: 45.6983
 loc_type: city
 longitude: 9.6773
-score: 8.96
+score: 6.166
 title: Bergamo
 type: location
 snippet: Lombard city split between walled Città Alta on the hill and commercial Città
   Bassa below.
+heritage: 6.912
+vibrancy: 5.755
+nature: 3.729
+off_the_beaten_track: 1.432
 ---
 
 Bergamo is two cities stacked on top of each other, and they couldn't be more different. Città Alta — the upper town — sits on a hill encircled by massive Venetian walls, its medieval lanes lined with churches, towers, and palaces. Città Bassa is the working northern Italian city down below: efficient, commercial, and considerably less romantic. Most visitors head straight up the funicular and barely come back down.

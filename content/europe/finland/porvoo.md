@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Porvoo_in_January.jpg
 latitude: 60.394437
 loc_type: city
 longitude: 25.661997
-score: 8.38
+score: 4.592
 title: Porvoo
 type: location
 snippet: Finland's second-oldest city, known for its medieval old town and red riverside
   warehouses.
+heritage: 5.298
+vibrancy: 3.43
+nature: 4.448
+off_the_beaten_track: 1.406
 ---
 
 Porvoo is the second oldest city in Finland and one of the country's most charming day trips from Helsinki, just 50 kilometres away. Its well-preserved medieval core features narrow cobblestone streets and the iconic row of [red wooden warehouses](/europe/finland/porvoo/red_warehouses) lining the river. The city is closely associated with Johan Ludvig Runeberg, Finland's national poet, who lived here for much of his life and wrote Finland's national anthem in the town. Porvoo can be reached by bus year-round or by steamboat in summer.

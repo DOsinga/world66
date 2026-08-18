@@ -5,18 +5,23 @@ loc_type: city
 latitude: 51.7036
 longitude: -2.9019
 wikidata: Q573757
-score: 6.1
-snippet: Small Monmouthshire market town with castle ruins, a medieval priory, and rural-history museum.
+score: 5.638
+snippet: Small Monmouthshire market town with castle ruins, a medieval priory, and
+  rural-history museum.
 sources:
-  - https://en.wikivoyage.org/wiki/Usk
-  - https://www.usktown.org/Visit_Usk_16883.aspx
-  - https://www.uskcastle.com/
-  - https://www.visitmonmouthshire.com/things-to-do/usk-rural-life-museum-p1502781
-  - https://en.wikipedia.org/wiki/Usk
+- https://en.wikivoyage.org/wiki/Usk
+- https://www.usktown.org/Visit_Usk_16883.aspx
+- https://www.uskcastle.com/
+- https://www.visitmonmouthshire.com/things-to-do/usk-rural-life-museum-p1502781
+- https://en.wikipedia.org/wiki/Usk
 image: usk.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Usk.jpg
 image_license: Public domain
 image_attribution: Kimseren
+heritage: 6.686
+vibrancy: 2.715
+nature: 5.05
+off_the_beaten_track: 4.184
 ---
 
 Usk is a small market town on the River Usk, set between Newport and Abergavenny. It is not a full-day blockbuster, but it has enough history packed into a gentle walk to justify a detour if you are already in Monmouthshire.

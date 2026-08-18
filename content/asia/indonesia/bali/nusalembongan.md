@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Nusa_Lembongan_(Stegop)_02
 latitude: -8.681767
 loc_type: island
 longitude: 115.451117
-score: 7.66
+score: 6.175
 snippet: Small island southeast of Bali with reef trips, seaweed farms, limestone
   coves, and scooter lanes.
 sources:
 - https://en.wikipedia.org/wiki/Nusa_Lembongan
 title: Nusa Lembongan
 type: location
+heritage: 4.047
+vibrancy: 5.019
+nature: 7.146
+off_the_beaten_track: 2.421
 ---
 
 Nusa Lembongan is the gentler member of Bali's southeastern island trio. It sits between mainland [Bali](/asia/indonesia/bali) and wilder [Nusa Penida](/asia/indonesia/bali/nusapenida), close enough for a day trip from [Sanur](/asia/indonesia/bali/sanur) but better with at least one night. The island is small, dry, and low-slung, with lanes narrow enough to keep traffic slow and a coast that shifts from calm bays to wave-battered cliffs in minutes.

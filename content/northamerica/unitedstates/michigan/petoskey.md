@@ -5,11 +5,15 @@ done:
 latitude: 45.373343
 loc_type: city
 longitude: -84.95533
-score: 7.18
+score: 4.923
 snippet: Lake Michigan resort city in northern Michigan, known for Little Traverse
   Bay and fossilized Petoskey stones.
 title: Petoskey
 type: location
+heritage: 4.05
+vibrancy: 3.706
+nature: 5.84
+off_the_beaten_track: 2.478
 ---
 
 Petoskey is a small resort city on the northeastern shoreline of Lake Michigan, in the part of the state that Michiganders call "Up North." The [Gaslight District](/northamerica/unitedstates/michigan/petoskey/gaslight_district) downtown has an attractive row of shops, galleries, and restaurants catering to the summer crowd. The waterfront along Little Traverse Bay is the main draw — the shoreline is known for [Petoskey stones](/northamerica/unitedstates/michigan/petoskey/petoskey_stones), fossilized coral unique to this part of Michigan.

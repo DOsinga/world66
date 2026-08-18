@@ -7,7 +7,7 @@ excerpt: A rocky, forested island one mile off the coast of Albenga — once hom
 latitude: 44.0333
 loc_type: feature
 longitude: 8.2
-score: 7.7
+score: 5.053
 snippet: Small wooded Ligurian island reserve off Albenga, layered with hermit, monastic,
   and maritime history
 title: Gallinara Island Regional Park
@@ -16,6 +16,10 @@ image: gallinarapark.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Isola_Gallinara-P1010715.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Davide Papalini
+heritage: 3.14
+vibrancy: 1.446
+nature: 6.502
+off_the_beaten_track: 4.045
 ---
 
 Gallinara is a small, densely wooded island sitting about a mile offshore from [Albenga](/europe/italy/liguria/albenga). The name comes from the Latin for "wild hens" — the island apparently swarmed with them in Roman times, and the Latin writers noticed. Today it is a regional nature reserve, and the only way to truly appreciate it is from the water.

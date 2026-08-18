@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:1_h%C3%BAsav%C3%ADk_aerial
 latitude: 66.0433
 loc_type: city
 longitude: -17.341
-score: 8.22
+score: 6.515
 snippet: North Iceland fishing town on Skjálfandi Bay, known for whale watching and
   colourful harbour houses.
 title: Husavik
 type: location
+heritage: 3.709
+vibrancy: 5.844
+nature: 7.274
+off_the_beaten_track: 4.075
 ---
 
 Husavik is a small fishing town of about 2,500 people on the shores of Skjalfandi Bay in northern [Iceland](/europe/iceland). It has earned the title of whale watching capital of Iceland — humpback whales feed in the bay from April through October, and sighting rates on boat tours regularly exceed 95 percent.

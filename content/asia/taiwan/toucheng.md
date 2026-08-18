@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 24.8573
 longitude: 121.8238
-score: 7.5
-snippet: Yilan coast township with an old trading street, surf beaches, Wushi Harbor, and Turtle Island trips.
+score: 4.82
+snippet: Yilan coast township with an old trading street, surf beaches, Wushi Harbor,
+  and Turtle Island trips.
 wikidata: Q706703
 sources:
-  - https://en.wikivoyage.org/wiki/Toucheng
-  - https://en.wikipedia.org/wiki/Toucheng
-  - https://eng.taiwan.net.tw/m1.aspx?sno=0002106
+- https://en.wikivoyage.org/wiki/Toucheng
+- https://en.wikipedia.org/wiki/Toucheng
+- https://eng.taiwan.net.tw/m1.aspx?sno=0002106
+heritage: 3.618
+vibrancy: 3.422
+nature: 5.818
+off_the_beaten_track: 2.007
 ---
 
 Toucheng is the old front door of Yilan, a coastal township where Taipei day-trippers meet fishing harbours, black-sand surf beaches, and the view out to Guishan Island. It is close enough to the capital for an easy escape, but the mood changes quickly once the sea and Lanyang Plain open up.

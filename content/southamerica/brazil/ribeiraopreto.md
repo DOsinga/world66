@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Pr%C3%A9dios_em_Ribeir%C3%
 latitude: -21.1776
 loc_type: city
 longitude: -47.8101
-score: 6.38
+score: 4.519
 snippet: Prosperous São Paulo interior city shaped by sugarcane, coffee wealth, and
   agribusiness culture.
 title: Ribeirão Preto
 type: location
+heritage: 3.175
+vibrancy: 4.831
+nature: 3.712
+off_the_beaten_track: 0.975
 ---
 
 Ribeirão Preto sits in the sugarcane and coffee heartland of São Paulo state, about 300 km northwest of the capital. It earned the nickname "Brazilian California" — sunshine most of the year, an agricultural economy that generates serious wealth, and a tech sector growing alongside it. With around 700,000 people, it is one of the largest cities in the interior of Brazil, and it feels prosperous and self-confident in a way that many interior cities do not.

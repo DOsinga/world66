@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 35.4667
 longitude: 133.05
-score: 8.2
+score: 6.189
 snippet: Lakeside castle town in Shimane, known for Matsue Castle, samurai streets,
   Lafcadio Hearn, and Lake Shinji sunsets.
 sources:
@@ -14,6 +14,10 @@ image: matsue.jpg
 image_source: https://commons.wikimedia.org/wiki/File:080720_Matsue_Castle_Matsue_Shimane_pref_Japan01s.jpg
 image_license: CC BY 2.5
 image_attribution: 663highland
+heritage: 7.583
+vibrancy: 4.468
+nature: 3.886
+off_the_beaten_track: 2.842
 ---
 
 Matsue is the prefectural capital of Shimane, set between Lake Shinji, Lake Nakaumi, and the Sea of Japan coast. It is one of western Honshu's most rewarding smaller cities: compact, watery, old-fashioned in parts, and anchored by one of Japan's few surviving original castle keeps.

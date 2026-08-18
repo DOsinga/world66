@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Blue_Pool,_Glengariff_(2).
 latitude: 51.75
 loc_type: city
 longitude: -9.552
-score: 6.97
+score: 5.601
 snippet: Small West Cork village where Bantry Bay, wooded glens, and the Caha Mountains
   meet.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://heritageireland.ie/places-to-visit/ilnacullin-garinish-island/
 title: Glengarriff
 type: location
+heritage: 3.618
+vibrancy: 1.822
+nature: 7.148
+off_the_beaten_track: 2.608
 ---
 
 Glengarriff is a tiny West Cork village with a setting that does most of the work for it. Bantry Bay lies in front, the Caha Mountains rise behind, and the N71 road squeezes through a glen of oak, birch, and rhododendron before dropping toward the harbour.

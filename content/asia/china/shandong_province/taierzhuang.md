@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Battle_of_Taierzhuang.jpg
 latitude: 34.561
 loc_type: city
 longitude: 117.738
-score: 7.27
+score: 3.523
 snippet: Grand Canal town in southern Shandong, rebuilt around locks, bridges, wharves,
   and wartime memory.
 sources:
 - https://en.wikivoyage.org/wiki/Taierzhuang
 title: Taierzhuang
 type: location
+heritage: 4.522
+vibrancy: 1.796
+nature: 2.264
+off_the_beaten_track: 3.364
 ---
 
 Taierzhuang sits at the southern edge of Shandong where the Beijing-Hangzhou Grand Canal crosses into Jiangsu, and the canal is the reason the town exists at all: for several centuries it was a busy transfer point where cargoes were off-loaded, taxed, and reloaded onto different vessels. The [Taierzhuang Ancient Town](/asia/china/shandong_province/taierzhuang/taierzhuang_ancient_town) that has been reconstructed — two square kilometers of locks, bridges, wharves, and lanes in eight distinct regional architectural styles — is the largest ancient-town restoration project in China, and the comparison that comes up locally is with Warsaw: one of only two cities in the world, they say, that was destroyed in wartime and rebuilt as a heritage site.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Peru_-_Sacred_Valley_%26_I
 latitude: -13.3292
 loc_type: city
 longitude: -72.1956
-score: 8.29
+score: 4.773
 snippet: Sacred Valley archaeological site known for Inca concentric terraces that
   created varied agricultural microclimates.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Maras,_Peru
 title: Moray
 type: location
+heritage: 3.642
+vibrancy: 2.803
+nature: 5.854
+off_the_beaten_track: 4.624
 ---
 
 Moray is a small archaeological site and village in the Sacred Valley of [Peru](/southamerica/peru), about 50 km northwest of [Cusco](/southamerica/peru/cuzco), sitting on a high plateau at around 3,500 metres above sea level. It is famous for its extraordinary Inca agricultural terraces — a series of enormous concentric rings carved into natural sinkholes in the hillside. Each level creates a slightly different microclimate, and the Incas are believed to have used them as a kind of open-air laboratory to study the effects of altitude and temperature on different crops.

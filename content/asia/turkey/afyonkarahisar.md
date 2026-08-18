@@ -4,10 +4,15 @@ type: location
 loc_type: city
 latitude: 38.758
 longitude: 30.5387
-score: 7.1
-snippet: Central Anatolian city built below a black volcanic fortress, with Seljuk mosques and thermal springs.
+score: 4.146
+snippet: Central Anatolian city built below a black volcanic fortress, with Seljuk
+  mosques and thermal springs.
 sources:
-  - https://en.wikivoyage.org/wiki/Afyonkarahisar
+- https://en.wikivoyage.org/wiki/Afyonkarahisar
+heritage: 4.793
+vibrancy: 3.574
+nature: 3.303
+off_the_beaten_track: 5.141
 ---
 
 Afyonkarahisar is a Central Anatolian city with a name that means "opium black fortress", and the fortress still explains the place at a glance. A dark volcanic crag rises straight above the old centre, with the castle walls on top and mosques, lanes, and markets gathered below.

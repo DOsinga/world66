@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: 41.83
 longitude: -69.9744
-score: 6.7
-snippet: Outer Cape town between Atlantic surf beaches, bay sunsets, marsh trails, and lighthouses.
+score: 5.104
+snippet: Outer Cape town between Atlantic surf beaches, bay sunsets, marsh trails,
+  and lighthouses.
 sources:
-  - https://en.wikivoyage.org/wiki/Eastham
-  - https://www.wikidata.org/wiki/Q2303096
+- https://en.wikivoyage.org/wiki/Eastham
+- https://www.wikidata.org/wiki/Q2303096
+heritage: 3.397
+vibrancy: 2.388
+nature: 6.472
+off_the_beaten_track: 1.975
 ---
 
 Eastham is an Outer Cape town where [Cape Cod](/northamerica/unitedstates/massachusetts/capecod) narrows to a strip between the Atlantic and Cape Cod Bay. It is quieter than Provincetown and less polished than Chatham, but it has some of the Cape's best access to dunes, marshes, bike trails, and big ocean beaches.

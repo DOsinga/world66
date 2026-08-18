@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 38.25
 longitude: 140.3333
-score: 7.5
+score: 4.843
 snippet: Tohoku prefectural capital with castle ruins, Taisho architecture, mountain
   temples, and hearty local food.
 wikidata: Q205526
@@ -17,6 +17,10 @@ image: yamagata.jpg
 image_source: https://commons.wikimedia.org/wiki/File:211029_Risshaku-ji_Yamagata_Yamagata_pref_Japan65s3.jpg
 image_license: CC BY-SA 4.0
 image_attribution: 663highland
+heritage: 4.206
+vibrancy: 3.838
+nature: 5.652
+off_the_beaten_track: 2.956
 ---
 
 Yamagata is a compact Tohoku capital with more texture than its plain grid first suggests. It has castle moats and museums in the centre, Taisho-era public buildings, a serious food culture, and one of northern Japan's great temple climbs at Yamadera just outside the city core.

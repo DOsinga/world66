@@ -2,15 +2,20 @@
 latitude: -23.0258
 loc_type: city
 longitude: -45.5586
-score: 6.0
-snippet: Paraíba Valley city known for Monteiro Lobato, Mazzaropi, and a cluster of museums.
+score: 3.266
+snippet: Paraíba Valley city known for Monteiro Lobato, Mazzaropi, and a cluster of
+  museums.
 sources:
-  - https://en.wikivoyage.org/wiki/Taubat%C3%A9
-  - https://en.wikipedia.org/wiki/Taubat%C3%A9
-  - https://www.wikidata.org/wiki/Q170540
+- https://en.wikivoyage.org/wiki/Taubat%C3%A9
+- https://en.wikipedia.org/wiki/Taubat%C3%A9
+- https://www.wikidata.org/wiki/Q170540
 title: Taubaté
 type: location
 wikidata: Q170540
+heritage: 3.367
+vibrancy: 3.253
+nature: 2.594
+off_the_beaten_track: 2.167
 ---
 
 Taubaté sits in the Paraíba Valley between [São Paulo](/southamerica/brazil/saopaulo) and Rio de Janeiro, close enough to the Dutra highway that many travellers only know it as a name on road signs. It deserves a longer look if you are interested in Brazilian popular culture.

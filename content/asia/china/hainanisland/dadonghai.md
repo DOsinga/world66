@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Dadonghai_Beach,_Sanya,_Ha
 latitude: 18.218626
 loc_type: city
 longitude: 109.517611
-score: 7.36
+score: 5.147
 snippet: Compact Hainan beach resort near Sanya, with clear-water snorkelling and
   a scrappy coastal nightlife.
 title: Dadonghai
 type: location
+heritage: 1.854
+vibrancy: 3.23
+nature: 6.417
+off_the_beaten_track: 2.756
 ---
 
 Dadonghai is a compact beach resort about 3km south-east of [Sanya](/asia/china/hainanisland/sanya) — ten minutes by minibus, or a pleasant hour's walk along the coast. It draws a younger, more budget-conscious crowd than Yalong Bay, and has a scrappier, more lived-in feel for it.

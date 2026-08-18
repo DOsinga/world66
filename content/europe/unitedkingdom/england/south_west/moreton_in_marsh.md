@@ -2,7 +2,7 @@
 latitude: 51.9834
 loc_type: city
 longitude: -1.7068
-score: 0.6
+score: 4.487
 snippet: Market town on the Fosse Way with the best rail connection in the Cotswolds,
   good for a day trip from London.
 tags:
@@ -13,6 +13,10 @@ image: moreton_in_marsh.jpg
 image_source: https://commons.wikimedia.org/wiki/File:St_Davids_Church,_Moreton_in_Marsh_(geograph_3134779).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Richard Rogerson
+heritage: 4.719
+vibrancy: 2.65
+nature: 4.955
+off_the_beaten_track: 1.724
 ---
 
 Moreton-in-Marsh is a long, low market town strung along the Roman Fosse Way — the A429 runs straight through the centre on the same line it has followed for two thousand years. It is not the most picturesque of the Cotswold towns, but it has one significant advantage: a direct rail connection to London Paddington, making it the most accessible gateway to the northern Cotswolds for visitors without a car.

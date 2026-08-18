@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aeolian_Islands_(270829163
 latitude: 38.4814
 loc_type: feature
 longitude: 14.9397
-score: 8.7
+score: 6.56
 snippet: Volcanic Sicilian archipelago of black-sand beaches, sulphurous craters,
   and Stromboli's night eruptions.
 title: Aeolian Islands
 type: location
+heritage: 4.282
+vibrancy: 5.891
+nature: 7.322
+off_the_beaten_track: 4.259
 ---
 
 The Aeolian Islands are a volcanic archipelago just north of [Sicily](/europe/italy/sicily). All seven inhabited islands are of volcanic origin, and on most of them some volcanic activity can still be experienced.

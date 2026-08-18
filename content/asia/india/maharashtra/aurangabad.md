@@ -8,12 +8,16 @@ image_source: https://commons.wikimedia.org/wiki/File:Bibi_Ka_Maqbara_-_The_Taj_
 latitude: 19.8762
 loc_type: city
 longitude: 75.3433
-score: 7.97
+score: 5.589
 snippet: Mughal Deccan city used as the base for Ajanta, Ellora, and Bibi Ka Maqbara
 sources:
 - https://en.wikipedia.org/wiki/Aurangabad,_Maharashtra
 title: Aurangabad
 type: location
+heritage: 6.227
+vibrancy: 5.294
+nature: 2.604
+off_the_beaten_track: 1.9
 ---
 
 Aurangabad is a mid-sized city in northern Maharashtra, about 370 km east of Mumbai, and the base for visiting two of the most extraordinary UNESCO World Heritage sites in India: the rock-cut cave temples of **Ajanta** and **Ellora**. Almost everyone who comes here comes for the caves, and rightly so — but the city itself has enough Mughal history and atmosphere to reward a day of its own.

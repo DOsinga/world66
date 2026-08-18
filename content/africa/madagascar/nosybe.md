@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/42726874@N06/22343122966
 latitude: -13.332
 loc_type: city
 longitude: 48.2631
-score: 8.28
+score: 6.119
 snippet: Lush Malagasy island of reefs, ylang-ylang plantations, and boat trips to
   lemur-filled islets.
 title: Nosy Be
 type: location
+heritage: 3.121
+vibrancy: 4.903
+nature: 7.115
+off_the_beaten_track: 3.7
 ---
 
 Madagascar's most popular island sits off the northwest coast, surrounded by warm turquoise water and dozens of smaller islands. Nosy Be draws visitors with its coral reefs, white sand beaches, and a relaxed pace that makes the mainland feel far away. The island is roughly three-quarters the size of Singapore, home to about 60,000 people, and serves as the center of what little tourism Madagascar has.

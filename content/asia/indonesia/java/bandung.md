@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cekungan_Bandung.jpg
 latitude: -6.9218
 loc_type: city
 longitude: 107.6071
-score: 7.86
+score: 5.728
 title: Bandung
 type: location
 snippet: West Java highland city ringed by volcanoes, known for cool air and Dutch
   Art Deco streets.
+heritage: 5.249
+vibrancy: 5.873
+nature: 5.355
+off_the_beaten_track: 3.193
 ---
 
 Indonesia's third-largest city and capital of West Java, Bandung sits at 750 metres above sea level on a highland plateau ringed by volcanoes. The elevation keeps the air noticeably cooler than sweltering [Jakarta](/asia/indonesia/java/jakarta), two hours to the northwest, and the Dutch colonials used it as a summer retreat. They left behind some of Java's finest Art Deco architecture — a walkable cluster of 1920s and 30s buildings that earned Bandung the nickname "Paris van Java." [Braga Street](/asia/indonesia/java/bandung/braga_street), [Gedung Sate](/asia/indonesia/java/bandung/gedung_sate), the [Hotel Savoy Homann](/asia/indonesia/java/bandung/hotel_savoy_homann), and [Villa Isola](/asia/indonesia/java/bandung/villa_isola) are the obvious starting points.

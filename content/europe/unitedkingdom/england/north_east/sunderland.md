@@ -5,7 +5,7 @@ done:
 latitude: 54.905851
 loc_type: city
 longitude: -1.382873
-score: 6.22
+score: 3.5
 snippet: Northeast England port city where shipbuilding heritage meets glassmaking
   culture on the River Wear.
 title: Sunderland
@@ -14,6 +14,10 @@ image: sunderland.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Durham_-_John_Speed_Map.jpg
 image_license: Public domain
 image_attribution: John Speed
+heritage: 3.208
+vibrancy: 3.637
+nature: 3.12
+off_the_beaten_track: 0.991
 ---
 
 Sunderland sits on the coast of northeast England at the mouth of the River Wear, a former shipbuilding city that has reinvented itself around its waterfront. The city built more ships than anywhere else in the world for much of the nineteenth and twentieth centuries, and that industrial heritage is still visible in the docks and the terraced streets climbing the hills on both sides of the river.

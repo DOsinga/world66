@@ -5,11 +5,15 @@ done:
 latitude: 53.195625
 loc_type: city
 longitude: 50.101493
-score: 6.49
+score: 5.37
 snippet: Volga river city with Stalin's bunker, Art Nouveau waterfront mansions, and
   a long summer embankment
 title: Samara
 type: location
+heritage: 6.045
+vibrancy: 4.96
+nature: 2.585
+off_the_beaten_track: 3.243
 ---
 
 Samara is a large city on a bend of the Volga River in southeastern European Russia. During the Second World War it served as the Soviet Union's reserve capital, and [Stalin's underground bunker](/europe/russia/samara/stalins_bunker) — built in secret beneath the city — can now be visited. The city's riverfront [embankment](/europe/russia/samara/samara_embankment), one of the longest in Europe, is the heart of summer life: locals swim in the Volga, barbecue on the sandy beaches, and stroll past the Art Nouveau mansions that line the waterfront.

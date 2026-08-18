@@ -5,11 +5,15 @@ done:
 latitude: 50.4044
 loc_type: city
 longitude: 80.2497
-score: 5.1
+score: 3.416
 snippet: Irtysh River city in northeastern Kazakhstan, marked by Dostoevsky exile
   history and nearby Soviet nuclear tests
 title: Semipalatinsk
 type: location
+heritage: 2.356
+vibrancy: 2.196
+nature: 2.571
+off_the_beaten_track: 5.926
 ---
 
 Semipalatinsk — now officially called Semey — is a city on the Irtysh River in northeastern Kazakhstan. It is best known for the Soviet nuclear testing site that operated nearby from 1949 to 1989, but the city itself is older than the Cold War, founded in the 18th century as a Russian frontier fort.

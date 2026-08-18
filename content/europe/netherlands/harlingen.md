@@ -9,12 +9,16 @@ image_source: https://commons.wikimedia.org/wiki/File:Harlingen._Harlingen._Klei
 latitude: 53.17521
 loc_type: city
 longitude: 5.4142
-score: 6.95
+score: 4.18
 snippet: Frisian Wadden Sea harbour town and ferry port for Terschelling and Vlieland.
 tags:
 - friesland
 title: Harlingen
 type: location
+heritage: 4.777
+vibrancy: 2.736
+nature: 4.153
+off_the_beaten_track: 1.705
 ---
 
 Harlingen (Harns in Frisian) is a small harbour town on the Wadden Sea coast of Friesland, and the main ferry port for the [Wadden Islands](/europe/netherlands/waddenislands) of Terschelling and Vlieland. The harbour is the heart of the town — fishing boats, historic sailing ships, and the ferry terminal all crowd together along the quays.

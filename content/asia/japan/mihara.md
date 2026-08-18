@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 34.39738888888889
 longitude: 133.07869444444444
-score: 6.2
+score: 2.647
 snippet: Seto Inland Sea castle town with island views, Zen temples, and a station
   built through its ruins.
 wikidata: Q820760
@@ -17,6 +17,10 @@ image: mihara.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mihara-STA_Gate.jpg
 image_license: CC BY-SA 4.0
 image_attribution: MaedaAkihiko
+heritage: 2.744
+vibrancy: 1.947
+nature: 2.94
+off_the_beaten_track: 1.773
 ---
 
 Mihara is a small Seto Inland Sea city that earns its page through a few strong, local anchors rather than a long checklist. It was a castle town, a port, and a rail junction, and the strange sight of the station sitting inside the old castle grounds gives the centre an identity you remember.

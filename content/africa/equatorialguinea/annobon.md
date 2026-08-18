@@ -7,9 +7,13 @@ loc_type: city
 snippet: Isolated volcanic island in the Gulf of Guinea, with cloud forest peaks and
   an Annobonese fishing culture
 longitude: 5.6374
-score: 5.44
+score: 5.878
 title: Annobon
 type: location
+heritage: 3.853
+vibrancy: 1.162
+nature: 7.056
+off_the_beaten_track: 6.735
 ---
 
 Annobon is one of the most isolated inhabited islands in Africa — a volcanic speck in the Gulf of Guinea, about 500 km southwest of the Equatorial Guinean mainland. Known locally as Pagalu, the island is just 8 km long and 3 km wide, yet it packs in real drama: three distinct peaks rise from dense cloud forest, including [Quioveo](/africa/equatorialguinea/annobon/quioveo), the highest point, an extinct volcano with a sacred crater lake. Getting here takes serious effort, which means almost no tourists ever do.

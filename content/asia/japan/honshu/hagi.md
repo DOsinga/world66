@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 34.3989
 longitude: 131.4078
-score: 8.0
-snippet: Sea of Japan castle town where Choshu samurai culture fed directly into the Meiji Restoration.
+score: 5.788
+snippet: Sea of Japan castle town where Choshu samurai culture fed directly into the
+  Meiji Restoration.
 sources:
-  - https://en.wikivoyage.org/wiki/Hagi
-  - https://www.japan.travel/en/destinations/chugoku/yamaguchi/hagi-area/
-  - https://www.hagishi.com/en/world-heritage/
+- https://en.wikivoyage.org/wiki/Hagi
+- https://www.japan.travel/en/destinations/chugoku/yamaguchi/hagi-area/
+- https://www.hagishi.com/en/world-heritage/
 wikidata: Q378225
+heritage: 6.709
+vibrancy: 2.994
+nature: 5.536
+off_the_beaten_track: 3.224
 ---
 
 Hagi is one of western Honshu's best historic towns, set between low mountains and the Sea of Japan. It was the castle town of the Mori clan and the Choshu domain, and it still has samurai lanes, earthen walls, merchant houses, temples, pottery kilns, and a slower rhythm than the cities on the Sanyo coast.

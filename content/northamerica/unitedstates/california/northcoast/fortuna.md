@@ -8,11 +8,15 @@ image_source: https://www.flickr.com/photos/39908901@N06/35303528733
 latitude: 40.597407
 loc_type: city
 longitude: -124.156034
-score: 6.56
+score: 5.126
 snippet: North Coast California town near Eureka, set inland from the Pacific in a
   milder redwood-country climate.
 title: Fortuna
 type: location
+heritage: 2.616
+vibrancy: 2.024
+nature: 6.836
+off_the_beaten_track: 3.077
 ---
 
 Fortuna has been described as the Jewel of the North Coast. Located about 20 miles SSW of [Eureka](/northamerica/unitedstates/california/northcoast/eureka), its location about 7 miles from the Pacific Ocean gives it a somewhat more temperate climate. Where 55-62 degrees is the summer norm in Eureka, Fortuna will regularly reach 70-75. Winters are mild and, in a word, wet.

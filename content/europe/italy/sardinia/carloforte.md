@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Carloforte.jpg
 latitude: 39.1455
 loc_type: city
 longitude: 8.3064
-score: 8.26
+score: 4.367
 snippet: Island harbour town off Sardinia, founded by Tabarchino-speaking settlers
   of Genoese origin.
 sources:
@@ -17,6 +17,10 @@ tags:
 - isoladisanpietro
 title: Carloforte
 type: location
+heritage: 4.133
+vibrancy: 3.877
+nature: 4.896
+off_the_beaten_track: 3.706
 ---
 
 Carloforte is the only town on Isola di San Pietro, a small island off the southwest coast of Sardinia. Despite being Italian, the place has a distinct identity: it was founded in the 18th century by Genoese-origin settlers from the island of Tabarka off Tunisia, and their descendants still speak a Ligurian dialect called Tabarchino. Carlofortini don't consider themselves Sardi, and if you pay attention you'll hear it.

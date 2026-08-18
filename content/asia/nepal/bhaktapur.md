@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bhaktapur-city-centre-larg
 latitude: 27.671113
 loc_type: city
 longitude: 85.426168
-score: 8.95
+score: 5.929
 snippet: Kathmandu Valley royal city of Newari temples, car-free squares, and working
   pottery courtyards.
 title: Bhaktapur
 type: location
+heritage: 7.727
+vibrancy: 3.341
+nature: 3.506
+off_the_beaten_track: 4.701
 ---
 
 Bhaktapur is one of the three royal cities in the Kathmandu Valley, and arguably the most atmospheric. The old centre is closed to motor vehicles, which gives its squares and alleys a calm that Kathmandu itself has long since lost. Known as the City of Devotees, Bhaktapur was the valley's capital before power shifted to Kathmandu in the early 17th century, and its Durbar Square still bristles with multi-roofed Newari temples, palace buildings, and the famous Golden Gate.

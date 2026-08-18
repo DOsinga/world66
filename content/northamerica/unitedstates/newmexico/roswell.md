@@ -10,11 +10,15 @@ image_source: https://www.flickr.com/photos/8623220@N02/52552236932
 latitude: 33.3943
 loc_type: city
 longitude: -104.523
-score: 7.73
+score: 3.298
 snippet: Southeastern New Mexico city famous for its 1947 UFO story and full-hearted
   alien kitsch
 title: Roswell
 type: location
+heritage: 2.506
+vibrancy: 3.417
+nature: 2.991
+off_the_beaten_track: 1.515
 ---
 
 Roswell is famous for one thing: the 1947 incident when something crashed in the desert nearby, and the U.S. military's explanation — a weather balloon — convinced almost nobody. The town has leaned into it ever since. Lampposts are shaped like alien heads, storefronts have alien murals, and the [International UFO Museum and Research Center](/northamerica/unitedstates/newmexico/roswell/international_ufo_museum) on Main Street is the main draw.

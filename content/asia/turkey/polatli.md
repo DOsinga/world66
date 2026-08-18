@@ -4,12 +4,16 @@ type: location
 loc_type: city
 latitude: 39.5849
 longitude: 32.1425
-score: 7.4
+score: 3.652
 snippet: Anatolian grain town near Gordion and the Sakarya battlefields west of Ankara.
 sources:
-  - https://en.wikivoyage.org/wiki/Polatl%C4%B1
-  - https://en.wikipedia.org/wiki/Polatl%C4%B1
-  - https://whc.unesco.org/en/list/1669/
+- https://en.wikivoyage.org/wiki/Polatl%C4%B1
+- https://en.wikipedia.org/wiki/Polatl%C4%B1
+- https://whc.unesco.org/en/list/1669/
+heritage: 4.493
+vibrancy: 1.877
+nature: 2.905
+off_the_beaten_track: 2.818
 ---
 
 Polatlı is a workaday grain town on the high Anatolian plateau, about 80 km west of [Ankara](/asia/turkey/ankara). The town itself is not the draw. The reason to come is the strange, powerful mix of ancient Phrygia and modern Turkish history scattered across the plain around it.

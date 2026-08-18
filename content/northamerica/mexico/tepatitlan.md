@@ -2,7 +2,7 @@
 latitude: 20.817
 loc_type: city
 longitude: -102.733
-score: 6.62
+score: 3.208
 snippet: Los Altos de Jalisco city of churches, agave fields, and a strong regional
   identity.
 sources:
@@ -16,6 +16,10 @@ image: tepatitlan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Parroquia_de_San_Francisco_de_As%C3%ADs,_Tepatitl%C3%A1n_de_Morelos.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Chris Hernandez
+heritage: 3.616
+vibrancy: 2.953
+nature: 2.935
+off_the_beaten_track: 1.138
 ---
 
 Tepatitlán, often shortened to Tepa, is a city in Los Altos de Jalisco, east of Guadalajara. It is cattle country, agave country, and church country, with a proud alteño identity that feels different from the big city just down the highway.

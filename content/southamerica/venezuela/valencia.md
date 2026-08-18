@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/35922810@N06/3638131922
 latitude: 10.170026
 loc_type: city
 longitude: -68.000399
-score: 5.64
+score: 5.05
 snippet: Venezuelan industrial city in Carabobo, with independence history clustered
   around its compact colonial core.
 title: Valencia
 type: location
+heritage: 4.299
+vibrancy: 5.326
+nature: 4.335
+off_the_beaten_track: 4.898
 ---
 
 Valencia is Venezuela's third-largest city and a major industrial hub in Carabobo state, about 180km west of [Caracas](/southamerica/venezuela/caracas). It is primarily a manufacturing and commercial centre and sees few international tourists, but the historic core is more interesting than that suggests. The [Plaza Bolívar](/southamerica/venezuela/valencia/plaza_bolivar), the [Cathedral](/southamerica/venezuela/valencia/cathedral), and the [Casa de la Estrella](/southamerica/venezuela/valencia/casa_estrella) — where Venezuela separated from Gran Colombia in 1830 — form a compact historic centre. The [Casa Páez](/southamerica/venezuela/valencia/casa_paez) preserves the residence of the independence-war general José Antonio Páez.

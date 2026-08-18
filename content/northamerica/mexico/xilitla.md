@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 21.3864
 longitude: -98.9904
-score: 8.0
+score: 6.744
 snippet: Huasteca Potosina mountain town known for Edward James's surrealist garden
   in the rainforest.
 wikidata: Q2313212
@@ -17,6 +17,10 @@ image: xilitla.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Las_Pozas,_Xilitla,_Mexico_(6177173419).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Rod Waddington from Kergunyah, Australia
+heritage: 7.615
+vibrancy: 4.143
+nature: 6.909
+off_the_beaten_track: 3.761
 ---
 
 Xilitla is a misty town in the Huasteca Potosina, folded into green mountains and coffee country. Its name is now tied to [Las Pozas](/northamerica/mexico/xilitla/las_pozas), the surrealist jungle garden built by the English patron Edward James, but the town has enough atmosphere to make the trip feel larger than one attraction.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Marlow_Weir_-_geograph.org
 latitude: 51.571871
 loc_type: city
 longitude: -0.776965
-score: 7.19
+score: 2.749
 snippet: Thames town in Buckinghamshire, known for Georgian streets, literary connections,
   and a graceful suspension bridge.
 title: Marlow
 type: location
+heritage: 3.03
+vibrancy: 2.24
+nature: 2.977
+off_the_beaten_track: 1.315
 ---
 
 Marlow is one of the prettiest towns on the Thames, a place where Georgian facades line the high street and a graceful suspension bridge frames the river. It sits in the Chiltern Hills of Buckinghamshire, about an hour west of London, and has long attracted writers — Mary Shelley drafted much of *Frankenstein* here, and T.S. Eliot lived in the town while working on *The Waste Land*.

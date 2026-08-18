@@ -14,6 +14,11 @@ image: nako.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Nako_Lake_and_Nako_Village,_Himachal_Pradesh.jpg
 image_license: CC BY 2.0
 image_attribution: Snotch
+score: 5.965
+heritage: 4.944
+vibrancy: 1.459
+nature: 7.15
+off_the_beaten_track: 6.572
 ---
 
 Nako is a high village in Kinnaur, close to the old routes toward Spiti and Tibet, and it feels very far from the hill-station version of Himachal Pradesh. Stone houses, prayer flags, barley fields, and bare brown mountains give the place a spare beauty.

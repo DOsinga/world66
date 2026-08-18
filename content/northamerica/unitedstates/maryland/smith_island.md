@@ -2,13 +2,19 @@
 latitude: 37.968611
 loc_type: city
 longitude: -76.022778
-snippet: Remote Chesapeake island community known for watermen, ferries, marshes, and layered Smith Island cake.
+snippet: Remote Chesapeake island community known for watermen, ferries, marshes,
+  and layered Smith Island cake.
 sources:
-  - https://en.wikivoyage.org/wiki/Smith_Island
-  - https://en.wikipedia.org/wiki/Smith_Island,_Maryland
-  - https://www.wikidata.org/wiki/Q754727
+- https://en.wikivoyage.org/wiki/Smith_Island
+- https://en.wikipedia.org/wiki/Smith_Island,_Maryland
+- https://www.wikidata.org/wiki/Q754727
 title: Smith Island
 type: location
+score: 5.534
+heritage: 4.787
+vibrancy: 1.802
+nature: 6.533
+off_the_beaten_track: 6.698
 ---
 
 Smith Island is Maryland's last inhabited offshore island without a bridge. It sits low in the Chesapeake Bay west of Crisfield, reached by passenger ferry, private boat, or not at all. That isolation is the point: the island moves by water, golf cart, skiff, bicycle, and foot.

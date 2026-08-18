@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 50.336
 longitude: -115.861
-score: 6.7
-snippet: Tiny East Kootenay resort community with mineral pools, hoodoos, and Columbia Valley scenery.
+score: 5.297
+snippet: Tiny East Kootenay resort community with mineral pools, hoodoos, and Columbia
+  Valley scenery.
 sources:
-  - https://en.wikivoyage.org/wiki/Fairmont_Hot_Springs
-  - https://en.wikipedia.org/wiki/Fairmont_Hot_Springs,_British_Columbia
-  - https://en.wikipedia.org/wiki/Dutch_Creek_Hoodoos
+- https://en.wikivoyage.org/wiki/Fairmont_Hot_Springs
+- https://en.wikipedia.org/wiki/Fairmont_Hot_Springs,_British_Columbia
+- https://en.wikipedia.org/wiki/Dutch_Creek_Hoodoos
+heritage: 2.34
+vibrancy: 1.954
+nature: 7.218
+off_the_beaten_track: 2.895
 ---
 
 Fairmont Hot Springs is a small resort community in the Columbia Valley, between Invermere and Canal Flats. The name tells the truth: the hot mineral pools are the headline, but the setting is what makes the stop work, with dry hoodoo cliffs, big valley views, golf fairways, a small ski hill, and Columbia Lake just down the road.

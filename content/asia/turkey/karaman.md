@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 37.183333
 longitude: 33.216667
-score: 7.1
+score: 4.176
 snippet: Karamanid city on the Anatolian plateau, with Seljuk walls, Sufi links, and
   Byzantine ruins nearby.
 wikidata: Q262579
@@ -18,6 +18,10 @@ image: karaman.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Karaman_2149.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Dosseman
+heritage: 5.323
+vibrancy: 1.855
+nature: 2.901
+off_the_beaten_track: 3.197
 ---
 
 Karaman sits on the dry Anatolian plateau south of [Konya](/asia/turkey/konya), a quieter city with a surprisingly deep historical stack. It was the seat of the Karamanids, the Turkmen dynasty that challenged the Ottomans for control of central Anatolia, and its centre still has the castle, mosques, and medrese portals of a small but serious capital.

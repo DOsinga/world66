@@ -2,7 +2,7 @@
 latitude: 53.005024
 longitude: -6.329444
 loc_type: feature
-score: 8.9
+score: 6.422
 snippet: Wild upland moorland and granite peaks an hour south of Dublin, with the
   monastic ruins of Glendalough at its heart.
 title: Wicklow Mountains
@@ -12,6 +12,10 @@ image: wicklow_mountains.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Wicklow_Mountains_National_Park,_Ireland_(Copernicus_2025-02-22).png
 image_license: Attribution
 image_attribution: European Union, Copernicus Sentinel-2 imagery
+heritage: 5.482
+vibrancy: 1.908
+nature: 7.63
+off_the_beaten_track: 3.799
 ---
 
 The Wicklow Mountains begin barely 20 kilometres south of Dublin city centre and feel like a different world. The national park covers some 200 square kilometres of blanket bog, heather moorland, granite peaks, and wooded glens — the largest expanse of unbroken upland in Ireland. Despite the proximity to the capital, you can walk for hours up here and meet no one but sheep and the occasional hill walker.

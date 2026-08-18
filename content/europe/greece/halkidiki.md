@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Athos_monasteries,_Halkidi
 latitude: 40.331
 loc_type: city
 longitude: 23.3621
-score: 8.86
+score: 5.411
 snippet: Northern Greek peninsula with three prongs, combining beach resorts, pine
   forests, and Mount Athos monasteries.
 title: Halkidiki
 type: location
+heritage: 5.449
+vibrancy: 4.147
+nature: 6.077
+off_the_beaten_track: 2.782
 ---
 
 Halkidiki is a three-pronged peninsula southeast of [Thessaloniki](/europe/greece/thessaloniki), and the closest thing northern Greece has to the island beach experience without actually getting on a ferry. Three long fingers of land -- Kassandra, Sithonia, and Athos -- reach south into the Aegean, each with a distinct character.

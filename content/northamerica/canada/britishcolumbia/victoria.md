@@ -11,11 +11,15 @@ image_source: https://www.flickr.com/photos/49399018@N00/17271521100
 latitude: 48.4284
 loc_type: city
 longitude: -123.3656
-score: 8.79
+score: 5.988
 snippet: British Columbia capital on Vancouver Island, centred on the Inner Harbour
   and Parliament Buildings.
 title: Victoria
 type: location
+heritage: 5.209
+vibrancy: 5.937
+nature: 6.12
+off_the_beaten_track: 2.447
 ---
 
 *North America > Canada > [British Columbia](/northamerica/canada/britishcolumbia) > Victoria*

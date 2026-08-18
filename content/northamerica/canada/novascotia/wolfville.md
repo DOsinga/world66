@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Wolfville,_NS_B0P,_Canada_
 latitude: 45.08819
 loc_type: city
 longitude: -64.36364
-score: 7.24
+score: 4.55
 snippet: Annapolis Valley university town beside Fundy tides, Acadian memory, and
   Nova Scotia wine country.
 sources:
@@ -15,6 +15,10 @@ sources:
 title: Wolfville
 type: location
 wikidata: Q475953
+heritage: 3.845
+vibrancy: 3.584
+nature: 5.321
+off_the_beaten_track: 2.749
 ---
 
 **Wolfville** is a small Annapolis Valley town with more personality than its size suggests. Acadia University gives it a bookish, energetic centre, while the farms and vineyards around town sit on land shaped by some of the highest tides in the world.

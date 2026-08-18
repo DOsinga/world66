@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Diever_Feb_2020_-_16.jpg
 latitude: 52.854658
 loc_type: city
 longitude: 6.318266
-score: 6.5
+score: 3.064
 snippet: Drenthe village by the Drents-Friese Wold, with a medieval church, windmill,
   and prehistoric hunebed.
 sources:
 - https://en.wikipedia.org/wiki/Diever
 title: Diever
 type: location
+heritage: 2.208
+vibrancy: 1.811
+nature: 3.814
+off_the_beaten_track: 2.278
 ---
 
 Diever is an old village on the edge of the Drents-Friese Wold national park in Drenthe, in the north of the [Netherlands](/europe/netherlands). The village has old farms, a medieval church, a [smock windmill](/europe/netherlands/diever/de_vlijt_windmill), and just outside it a [hunebed](/europe/netherlands/diever/hunebed_d52) — one of the megalithic dolmens that are Drenthe's most distinctive ancient monuments, built around 3400 BC.

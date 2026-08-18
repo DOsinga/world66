@@ -4,11 +4,15 @@ done:
 latitude: 43.0
 loc_type: feature
 longitude: 107.0
-score: 8.02
+score: 6.188
 snippet: Mongolian desert region of rocky steppe, singing dunes, dinosaur fossils,
   and nomadic ger camps.
 title: Gobi Desert
 type: location
+heritage: 2.132
+vibrancy: 0.939
+nature: 7.683
+off_the_beaten_track: 6.252
 ---
 
 Stretching across southern Mongolia and northern China, the Gobi is one of the world's great deserts — and one of its most surprising. It's not the sea of sand you might picture: much of it is rocky steppe, dramatic cliffs, and gravel plains, with dunes appearing only in certain pockets like the famous Khongor Els. Summer days are scorching and nights are cold; winters are brutal. Spring brings fierce sandstorms.

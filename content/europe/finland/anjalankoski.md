@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Anjalankosken_kaupungintal
 latitude: 60.697933
 loc_type: city
 longitude: 26.815071
-score: 5.55
+score: 3.888
 snippet: Former Kymijoki river town in southeastern Finland, now part of Kouvola and
   known for industrial heritage.
 title: Anjalankoski
 type: location
+heritage: 2.154
+vibrancy: 1.71
+nature: 5.09
+off_the_beaten_track: 3.069
 ---
 
 Anjalankoski is a former Finnish municipality that merged into [Kouvola](/europe/finland/kouvola_city) in 2009. It sits in the [Kymijoki](/europe/finland/anjalankoski/kymijoki_river) river valley between Kotka on the coast and Kouvola to the north, and like much of this part of southern Finland its landscape is shaped by the paper and pulp industry that once defined the region.

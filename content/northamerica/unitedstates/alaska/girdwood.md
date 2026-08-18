@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alaska_Railroad,_Girdwood,
 latitude: 60.9425
 loc_type: city
 longitude: -149.1664
-score: 8.06
+score: 5.553
 snippet: Chugach mountain resort town near Anchorage, tucked between Alyeska slopes
   and Turnagain Arm tidal flats.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Crow_Creek_(Alaska)
 title: Girdwood
 type: location
+heritage: 2.572
+vibrancy: 2.712
+nature: 7.297
+off_the_beaten_track: 3.314
 ---
 
 Girdwood is a small resort town tucked into a glacial valley off the Turnagain Arm of Cook Inlet, about 60 km southeast of [Anchorage](/northamerica/unitedstates/alaska/anchorage) along the Seward Highway. Officially it is part of the Municipality of Anchorage, which makes Girdwood the southernmost neighbourhood of one of the largest cities by area in the United States. In practice it is a separate village of around 2,000 people, surrounded on three sides by the Chugach Mountains and on the fourth by a tidal mudflat famous for its bore tide.

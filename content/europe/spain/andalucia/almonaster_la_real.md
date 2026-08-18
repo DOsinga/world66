@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Almonaster_la_real_vue_d%2
 latitude: 37.872179
 loc_type: city
 longitude: -6.786602
-score: 7.31
+score: 4.354
 snippet: Sierra de Aracena village below a hilltop fortified mosque with broad countryside
   views.
 title: Almonaster La Real
 type: location
+heritage: 5.301
+vibrancy: 3.182
+nature: 3.59
+off_the_beaten_track: 1.678
 ---
 
 A small village in the Sierra de [Aracena](/europe/spain/andalucia/aracena), Almonaster la Real is widely regarded as one of the most beautiful in the area. It sits below a hill crowned by the [Almonaster la Real Mosque](/europe/spain/andalucia/almonaster_la_real/almonaster_mosque) — an ancient fortified mosque that, while less ornate than the Great Mosque in Córdoba, is remarkably complete. The building's history runs even deeper: it was previously a Visigothic Christian church, and some of its foundations are of Roman origin.

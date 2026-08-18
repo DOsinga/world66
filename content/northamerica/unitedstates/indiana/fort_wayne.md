@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 41.13056
 longitude: -85.12889
-score: 7.2
-snippet: Northeastern Indiana city with river history, a strong zoo, museums, gardens, and a revived downtown.
+score: 3.143
+snippet: Northeastern Indiana city with river history, a strong zoo, museums, gardens,
+  and a revived downtown.
 wikidata: Q49268
 sources:
-  - https://en.wikivoyage.org/wiki/Fort_Wayne
-  - https://www.visitfortwayne.com/
+- https://en.wikivoyage.org/wiki/Fort_Wayne
+- https://www.visitfortwayne.com/
+heritage: 2.523
+vibrancy: 2.921
+nature: 3.46
+off_the_beaten_track: 1.04
 ---
 
 Fort Wayne is Indiana's second-largest city, set where the St. Marys, St. Joseph, and Maumee rivers meet in the state's northeast corner. It is a real working Midwestern city, but it has enough good stops to justify a day rather than just a coffee break.

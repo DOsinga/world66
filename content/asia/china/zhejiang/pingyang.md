@@ -2,13 +2,17 @@
 latitude: 27.629
 loc_type: city
 longitude: 120.545
-score: 6.2
+score: 4.265
 snippet: Wenzhou county town used as a base for islands, tea hills, and South Yandang.
 sources:
-  - https://en.wikivoyage.org/wiki/Pingyang
-  - https://en.wikipedia.org/wiki/Pingyang_County
+- https://en.wikivoyage.org/wiki/Pingyang
+- https://en.wikipedia.org/wiki/Pingyang_County
 title: Pingyang
 type: location
+heritage: 3.563
+vibrancy: 2.944
+nature: 5.101
+off_the_beaten_track: 3.24
 ---
 
 Pingyang is a county-level destination south of [Wenzhou](/asia/china/zhejiang/wenzhou), with its main towns at Kunyang and Aojiang. The urban centre is useful rather than beautiful, but the county around it has enough substance to justify a detour if you are already travelling through southern Zhejiang.

@@ -2,14 +2,19 @@
 latitude: 45.8636
 loc_type: city
 longitude: 25.7875
-score: 6.3
-snippet: Szekler Transylvanian city on the Olt River with Hungarian culture and a landmark museum.
+score: 4.97
+snippet: Szekler Transylvanian city on the Olt River with Hungarian culture and a
+  landmark museum.
 sources:
-  - https://en.wikivoyage.org/wiki/Sf%C3%A2ntu_Gheorghe_(Covasna)
-  - https://romaniatourism.com/sfantu-gheorghe-sepsiszentgyorgy.html
-  - https://visitcovasna.com/en/places/the-sz-kely-national-museum
+- https://en.wikivoyage.org/wiki/Sf%C3%A2ntu_Gheorghe_(Covasna)
+- https://romaniatourism.com/sfantu-gheorghe-sepsiszentgyorgy.html
+- https://visitcovasna.com/en/places/the-sz-kely-national-museum
 title: Sfântu Gheorghe
 type: location
+heritage: 5.607
+vibrancy: 3.783
+nature: 5.103
+off_the_beaten_track: 3.796
 ---
 
 Sfântu Gheorghe, Sepsiszentgyörgy in Hungarian, is the capital of Covasna County and one of the main urban centres of Szeklerland. It sits on the Olt River, between the Baraolt and Bodoc Mountains, close enough to [Brașov](/europe/romania/brasov) to work as a day trip but different enough to feel like a separate cultural world.

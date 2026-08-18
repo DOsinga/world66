@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: 20.9314
 longitude: -89.0178
-score: 7.8
-snippet: Yellow Yucatán pilgrimage city where Maya pyramids and a Franciscan convent share the same streets.
+score: 6.414
+snippet: Yellow Yucatán pilgrimage city where Maya pyramids and a Franciscan convent
+  share the same streets.
 sources:
 - https://en.wikivoyage.org/wiki/Izamal
 - https://en.wikipedia.org/wiki/Izamal
+heritage: 8.439
+vibrancy: 3.454
+nature: 3.191
+off_the_beaten_track: 2.263
 ---
 
 Izamal is one of the easiest small cities in Yucatán to remember: almost everything in the centre is painted yellow. The colour helps, but the real force of the place is older. Maya pyramids still rise inside the town grid, and the Spanish built the [Convento de San Antonio de Padua](/northamerica/mexico/yucatan/izamal/convento_de_san_antonio_de_padua) on top of a pre-Hispanic acropolis.

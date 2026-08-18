@@ -7,8 +7,12 @@ title: Lake Issyk-Kul
 snippet: High alpine lake in Kyrgyzstan, ringed by Tian Shan peaks and never freezing
   in winter.
 type: location
-score: 8.04
+score: 6.857
 loc_type: feature
+heritage: 3.499
+vibrancy: 3.158
+nature: 9.026
+off_the_beaten_track: 5.252
 ---
 
 Lake Issyk-Kul is the jewel of Kyrgyzstan and one of the great natural wonders of Central Asia. It is the world's second-largest alpine lake, stretching 182 kilometers from east to west and up to 60 kilometers wide, sitting at 1,607 meters in a basin ringed by the snow-capped peaks of the Tian Shan. The name means "warm lake" in Kyrgyz -- despite the altitude, it never freezes, thanks to its depth, slight salinity and thermal activity.

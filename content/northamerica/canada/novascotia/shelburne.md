@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 43.7633
 longitude: -65.3236
-score: 6.9
-snippet: South Shore harbour town with Loyalist history, dory-building heritage, and a quiet old waterfront.
+score: 4.086
+snippet: South Shore harbour town with Loyalist history, dory-building heritage, and
+  a quiet old waterfront.
 wikidata: Q1693101
 sources:
-  - https://en.wikivoyage.org/wiki/Shelburne_(Nova_Scotia)
-  - https://novascotia.com/listing/shelburnes-museums-by-the-sea/
-  - https://www.shelburnemuseums.com/
+- https://en.wikivoyage.org/wiki/Shelburne_(Nova_Scotia)
+- https://novascotia.com/listing/shelburnes-museums-by-the-sea/
+- https://www.shelburnemuseums.com/
+heritage: 2.727
+vibrancy: 2.12
+nature: 5.178
+off_the_beaten_track: 2.644
 ---
 
 Shelburne is a small harbour town on Nova Scotia's South Shore, quieter than [Lunenburg](/northamerica/canada/novascotia/lunenburg) but with a sharper historical edge than its size suggests. In the 1780s it became one of British North America's largest Loyalist settlements, and nearby Birchtown was one of the most important Black Loyalist communities in Canada.

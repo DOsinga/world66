@@ -5,7 +5,7 @@ done:
 latitude: 1.927308
 loc_type: city
 longitude: -76.449284
-score: 8.01
+score: 5.28
 snippet: Colombian highland town surrounded by pre-Columbian stone statues and tombs
   above the Río Magdalena.
 sources:
@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/San_Agust%C3%ADn_Archaeological_Park
 title: San Agustín
 type: location
+heritage: 5.082
+vibrancy: 5.144
+nature: 5.63
+off_the_beaten_track: 4.667
 ---
 
 San Agustín is a small town in the southern Colombian highlands, set in a green valley at the head of the Río Magdalena gorge. The town itself is quiet and unremarkable, but the surrounding landscape contains one of the most important archaeological sites in South America — a collection of several hundred carved stone statues and burial tombs left by a pre-Columbian civilisation that flourished here roughly from the 1st to the 8th century AD.

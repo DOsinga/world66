@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Nevsehir_2020_stitch3.jpg
 latitude: 38.623507
 loc_type: city
 longitude: 34.719417
-score: 9.39
+score: 7.06
 sources:
 - https://en.wikipedia.org/wiki/Nev%C5%9Fehir
 - https://en.wikipedia.org/wiki/Nev%C5%9Fehir_Castle
@@ -18,6 +18,10 @@ title: Nevşehir
 snippet: Cappadocia transport hub and provincial capital shaped by Damat İbrahim Paşa's
   Ottoman-era rebuilding.
 type: location
+heritage: 8.139
+vibrancy: 6.132
+nature: 4.606
+off_the_beaten_track: 5.971
 ---
 
 Nevşehir is the provincial capital and the main transport hub for [Cappadocia](/asia/turkey/cappadocia), the extraordinary landscape of volcanic rock formations, underground cities, and cave churches that draws visitors from across the world. The city itself is functional rather than picturesque — most travellers pass through quickly on their way to [Göreme](/asia/turkey/cappadocia/goreme), [Ürgüp](/asia/turkey/cappadocia/urgup), or [Avanos](/asia/turkey/cappadocia/avanos) — but it deserves more than a cursory transit stop.

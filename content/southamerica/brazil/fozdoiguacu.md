@@ -13,7 +13,7 @@ quick_facts:
   Itaipú Dam: One of world's biggest
   Triple Frontier: Three countries meet
   Vs Niagara: Far wider
-score: 9.47
+score: 6.788
 snippet: Brazilian border city at the Triple Frontier, built around the power and
   spray of Iguaçu Falls.
 sources:
@@ -25,6 +25,10 @@ tip: Foz is the Brazilian side of Iguaçu Falls, giving the wide panoramic view 
   Itaipú dam. Wear waterproofs; the catwalk to the falls gets soaked.
 title: Foz do Iguaçu
 type: location
+heritage: 4.429
+vibrancy: 5.135
+nature: 8.04
+off_the_beaten_track: 2.686
 ---
 
 Foz do Iguaçu is a Brazilian border city whose entire reason for existing is one of the great natural spectacles of the Americas. The city itself is a sprawling, functional place of around 260,000 people in the far west of Paraná state, sitting at the point where Brazil, Argentina, and Paraguay meet — a convergence known as the Triple Frontier. Most visitors pass through quickly, but those who stay longer discover that Foz has more to offer than its famous falls.

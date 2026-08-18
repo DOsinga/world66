@@ -5,11 +5,15 @@ done:
 latitude: 41.683381
 loc_type: city
 longitude: -86.250007
-score: 6.48
+score: 4.995
 snippet: Northern Indiana river city shaped by Notre Dame, industrial history, and
   St. Joseph River neighbourhoods.
 title: South Bend
 type: location
+heritage: 5.873
+vibrancy: 4.107
+nature: 3.318
+off_the_beaten_track: 1.738
 ---
 
 South Bend sits on the St. Joseph River in northern Indiana, and it punches well above its size. The [University of Notre Dame](/northamerica/unitedstates/indiana/south_bend/notre_dame_campus) is the obvious draw — the golden dome, Touchdown Jesus, and the electricity of a home football weekend make it worth a visit even if you have no strong feelings about college sports. The broader campus is beautiful and open to visitors year-round.

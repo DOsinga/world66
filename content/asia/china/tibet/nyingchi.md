@@ -5,7 +5,7 @@ done:
 latitude: 29.5488
 loc_type: city
 longitude: 94.6385
-score: 8.54
+score: 6.054
 snippet: Lush Tibetan prefecture where forests, cypress groves, and the Yarlung Tsangpo
   valley soften the plateau.
 title: Nyingchi
@@ -14,6 +14,10 @@ image: nyingchi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gongbo%27gyamda,_Nyingchi,_Tibet,_China_-_panoramio_(19).jpg
 image_license: CC BY-SA 3.0
 image_attribution: ping lin
+heritage: 4.018
+vibrancy: 0.58
+nature: 7.5
+off_the_beaten_track: 6.173
 ---
 
 Nyingchi (Linzhi) is the greenest and most lush corner of Tibet, sitting in the lower reaches of the Yarlung Tsangpo River at relatively low elevations compared to the rest of the plateau. Where most of Tibet is barren and high, Nyingchi is forested, mild, and surprisingly verdant — it is sometimes called "the Switzerland of Tibet," and while that overstates things, the contrast with the rest of the region is real.

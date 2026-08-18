@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Promenade_of_Vlor%C3%AB_al
 latitude: 40.47076
 loc_type: city
 longitude: 19.491272
-score: 7.78
+score: 6.059
 snippet: Albanian port city where independence was declared, set between Adriatic
   beaches and Ionian cliffs
 title: Vlore
 type: location
+heritage: 5.363
+vibrancy: 5.0
+nature: 6.976
+off_the_beaten_track: 3.286
 ---
 
 Vlorë is Albania's second port and a city with significant historical weight: it was here, on 28 November 1912, that Ismail Qemali declared Albanian independence from the Ottoman Empire. The [Museum of National Independence](/europe/albania/vlore/museum_of_independence) commemorates the event and is worth a visit.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 42.68
 longitude: -103.41
-score: 0.31
+score: 3.61
 snippet: Tiny Nebraska Panhandle town used as the gateway to Fort Robinson and badlands
   country.
 sources:
@@ -14,6 +14,10 @@ image: crawford.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Crawford,_Nebraska_2nd_St_from_Main.JPG
 image_license: Public domain
 image_attribution: Ammodramus
+heritage: 2.241
+vibrancy: 1.332
+nature: 4.512
+off_the_beaten_track: 3.55
 ---
 
 *North America > United States > Nebraska > Crawford*

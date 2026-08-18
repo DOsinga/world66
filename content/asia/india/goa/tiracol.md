@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Terekhol_Church.JPG
 latitude: 15.724101
 loc_type: city
 longitude: 73.688732
-score: 7.53
+score: 4.263
 title: Tiracol
 type: location
 snippet: Quiet North Goa enclave separated by river, with a Portuguese fort above
   the Arabian Sea.
+heritage: 4.053
+vibrancy: 3.002
+nature: 4.889
+off_the_beaten_track: 4.298
 ---
 
 Tiracol sits at the very tip of North Goa, a quiet enclave separated from the rest of the state by the [Tiracol River](/asia/india/goa/tiracol/tiracol_river_estuary). Most people come for [the fort](/asia/india/goa/tiracol/fort_tiracol) — a small but striking Portuguese structure perched on a headland with sweeping views over the Arabian Sea and the river estuary below.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Carnaval_La_Ceiba_Honduras
 latitude: 15.773
 loc_type: city
 longitude: -86.781
-score: 6.66
+score: 5.614
 snippet: Honduran Caribbean city and Bay Islands ferry hub, backed by the Cordillera
   Nombre de Dios mountains.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Pico_Bonito_National_Park
 title: La Ceiba
 type: location
+heritage: 4.51
+vibrancy: 4.764
+nature: 6.399
+off_the_beaten_track: 3.719
 ---
 
 La Ceiba is Honduras's third-largest city, on the Caribbean coast at the base of the Cordillera Nombre de Dios mountains. It's primarily known as a transit hub — the main departure point for ferries to the Bay Islands of Roatán and Útila — but also has genuine character of its own.

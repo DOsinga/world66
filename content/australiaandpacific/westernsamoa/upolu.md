@@ -4,13 +4,17 @@ done:
 latitude: -13.9167
 loc_type: island
 longitude: -171.75
-score: 7.33
+score: 6.377
 snippet: Samoa's main island, with Apia, rainforest ridges, lava caves, waterfalls,
   and south-coast swimming holes.
 sources:
 - https://en.wikipedia.org/wiki/Upolu
 title: Upolu
 type: location
+heritage: 5.332
+vibrancy: 0.876
+nature: 7.625
+off_the_beaten_track: 6.45
 ---
 
 Upolu is the busier and more visited of Samoa's two main islands. It holds the capital, Apia, the international airport, most government offices, and the easiest circuit of beaches, waterfalls, villages, and inland forest. That makes it the practical starting point for almost every trip to Samoa.

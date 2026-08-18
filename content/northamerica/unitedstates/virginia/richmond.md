@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:MJK50197_Cathedral_of_the_
 latitude: 37.538509
 loc_type: city
 longitude: -77.43428
-score: 7.5
+score: 5.461
 snippet: Virginia capital on the James River, layered with revolutionary, Confederate,
   and tobacco-era history.
 title: Richmond
 type: location
+heritage: 6.162
+vibrancy: 5.016
+nature: 3.176
+off_the_beaten_track: 1.593
 ---
 
 Richmond is the capital of Virginia, a mid-sized southern city of about 225,000 people wrapped around the James River roughly halfway between Washington, D.C. and the coast. It was a 17th-century trading post at the Falls of the James, an 18th-century revolutionary capital (Patrick Henry's "Give me liberty or give me death" speech was given here in 1775), and for four grim years the capital of the Confederacy, which makes a surprisingly large amount of American history local: the restored Capitol designed by Thomas Jefferson, the Museum of the Confederacy and the White House of the Confederacy, and the row of statues along Monument Avenue that were the subject of a protracted national argument until most of them were removed in 2020.

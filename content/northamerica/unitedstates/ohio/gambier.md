@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 40.3764
 longitude: -82.3967
-score: 6.4
-snippet: Tiny Ohio college village shaped by Kenyon College, Middle Path, and the Kokosing River valley.
+score: 3.495
+snippet: Tiny Ohio college village shaped by Kenyon College, Middle Path, and the
+  Kokosing River valley.
 sources:
-  - https://en.wikivoyage.org/wiki/Gambier
-  - https://visitknoxohio.org/editorials/gambier
-  - https://www.thegund.org/visit
-  - https://www.kokosinggaptrail.org/
+- https://en.wikivoyage.org/wiki/Gambier
+- https://visitknoxohio.org/editorials/gambier
+- https://www.thegund.org/visit
+- https://www.kokosinggaptrail.org/
+heritage: 2.34
+vibrancy: 1.593
+nature: 4.426
+off_the_beaten_track: 2.865
 ---
 
 Gambier is almost all Kenyon College, and that is exactly why it works. The village is tiny, but its hilltop campus, gravel Middle Path, bookstore, gallery, and wooded edges give it the texture of an old liberal-arts town rather than a generic stop on the road.

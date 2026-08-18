@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lago_Skadar,_Montenegro,_2
 latitude: 42.1667
 loc_type: feature
 longitude: 19.3167
-score: 7.78
+score: 6.085
 snippet: Vast Balkan border lake where reed beds, birdlife, island monasteries, and
   wine villages meet
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://www.visit-montenegro.com/destinations/skadar-lake/
 title: Lake Skadar
 type: location
+heritage: 4.559
+vibrancy: 3.402
+nature: 7.499
+off_the_beaten_track: 4.992
 ---
 
 Lake Skadar is Montenegro's great inland water landscape, a broad, reed-fringed lake shared with Albania and backed by low mountains, fishing villages, vineyards, and Orthodox island monasteries. It is the country's softer counterweight to the Bay of Kotor and [Durmitor](/europe/montenegro/dormitor): less dramatic at first glance, but wonderfully rich if you slow down.

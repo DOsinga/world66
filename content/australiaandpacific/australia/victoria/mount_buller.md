@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: -37.1462
 longitude: 146.4495
-score: 7.6
-snippet: Victorian alpine resort village with winter skiing and summer trails above Mansfield.
+score: 5.567
+snippet: Victorian alpine resort village with winter skiing and summer trails above
+  Mansfield.
 wikidata: Q984117
 sources:
-  - https://en.wikivoyage.org/wiki/Mount_Buller
-  - https://www.mtbuller.com.au/summer
-  - https://www.visitmelbourne.com/regions/high-country/destinations/mount-buller
+- https://en.wikivoyage.org/wiki/Mount_Buller
+- https://www.mtbuller.com.au/summer
+- https://www.visitmelbourne.com/regions/high-country/destinations/mount-buller
+heritage: 3.234
+vibrancy: 2.21
+nature: 7.258
+off_the_beaten_track: 4.32
 ---
 
 Mount Buller is Victoria's easiest alpine escape from [Melbourne](/australiaandpacific/australia/victoria/melbourne): a compact mountain village wrapped around ski lifts, snow gums, and broad High Country views. In winter it is all about snow, with the state's largest lift network and a busy day-trip scene. In summer it becomes a cooler mountain playground for hiking, mountain biking, road cycling, and views.

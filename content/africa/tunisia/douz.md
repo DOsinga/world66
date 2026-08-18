@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Douz,_Tunisia_-_panoramio_
 latitude: 33.45711
 loc_type: city
 longitude: 9.024983
-score: 7.57
+score: 6.119
 snippet: Saharan-edge Tunisian town used as the base for camel treks into the Grand
   Erg Oriental
 title: Douz
 type: location
+heritage: 5.82
+vibrancy: 4.625
+nature: 7.017
+off_the_beaten_track: 5.736
 ---
 
 Douz sits at the northern edge of the Grand Erg Oriental, the vast sea of dunes that stretches south into the Sahara. Known as the gateway to the desert, it is the last proper town before the sand takes over, and the logical base for camel treks and overnight expeditions into the dunes.

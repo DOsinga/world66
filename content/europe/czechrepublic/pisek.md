@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 49.31
 longitude: 14.1333
-score: 6.8
+score: 5.324
 snippet: South Bohemian town on the Otava, known for the Czech Republic's oldest stone
   bridge.
 sources:
@@ -15,6 +15,10 @@ image: pisek.jpg
 image_source: https://commons.wikimedia.org/wiki/File:397_01_Pisek,_Czech_Republic_-_panoramio_(6).jpg
 image_license: CC BY 3.0
 image_attribution: Eva Rešová
+heritage: 6.719
+vibrancy: 3.237
+nature: 3.85
+off_the_beaten_track: 1.984
 ---
 
 Písek is a small South Bohemian town on the Otava River, best known for a stone bridge that predates Prague's Charles Bridge. It was once a royal city on a trade route to southern Europe, and the old centre still has enough walls, churches, and civic buildings to make a stop feel earned.

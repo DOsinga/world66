@@ -7,9 +7,13 @@ loc_type: city
 snippet: Tiny Suðuroy village with Viking-age chieftain history on the east coast
   of the Faroe Islands
 longitude: -6.755742
-score: 6.37
+score: 6.014
 title: Hov
 type: location
+heritage: 4.279
+vibrancy: 1.231
+nature: 7.254
+off_the_beaten_track: 6.775
 ---
 
 Hov is a village of around 100 people on the east coast of [Suðuroy](/europe/faroeislands/suuroy), the southernmost island of the [Faroe Islands](/europe/faroeislands). It sits between Porkeri and Øravík, connected to the latter by a road tunnel since 2007. Small as it is, Hov has a surprisingly deep history.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Battleship_NORTH_CAROLINA.
 latitude: 34.225727
 loc_type: city
 longitude: -77.94471
-score: 7.4
+score: 4.745
 snippet: Cape Fear river city with a large historic district and the moored USS North
   Carolina.
 title: Wilmington
 type: location
+heritage: 5.039
+vibrancy: 4.669
+nature: 3.46
+off_the_beaten_track: 1.433
 ---
 
 Wilmington is one of the most beautiful cities on the North Carolina coast. Founded over 250 years ago on the shores of the Cape Fear River, it has a rich past that is visible in its architecture — the [Wilmington Historic District](/northamerica/unitedstates/northcarolina/wilmington/wilmington_historic_district) is one of the largest listed on the National Register of Historic Places, with street after street of intact antebellum and Victorian buildings.

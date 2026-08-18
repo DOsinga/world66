@@ -4,10 +4,15 @@ type: location
 loc_type: city
 latitude: -18.241
 longitude: 178.083
-score: 7.0
-snippet: Coral Coast adventure base known for shark diving, jet skis, zip lines, and easy Suva weekend escapes.
+score: 6.026
+snippet: Coral Coast adventure base known for shark diving, jet skis, zip lines, and
+  easy Suva weekend escapes.
 sources:
-  - https://en.wikivoyage.org/wiki/Pacific_Harbour
+- https://en.wikivoyage.org/wiki/Pacific_Harbour
+heritage: 3.856
+vibrancy: 4.257
+nature: 7.283
+off_the_beaten_track: 2.652
 ---
 
 Pacific Harbour sits on the eastern Coral Coast of Viti Levu, about an hour west of [Suva](/australiaandpacific/fiji/vitilevu/suva). It is not the place to come for a quiet village stay. Its identity is adventure tourism: shark dives, jet skis, zip lines, golf, and resort-backed day trips.

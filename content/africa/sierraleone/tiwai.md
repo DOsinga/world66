@@ -16,7 +16,11 @@ sources:
 - https://tourismsierraleone.com/where-to-go/tiwai-island-wildlife-sanctuary/
 title: Tiwai Island
 type: location
-score: 6.9
+score: 5.075
+heritage: 3.335
+vibrancy: 1.902
+nature: 5.687
+off_the_beaten_track: 7.139
 ---
 
 Tiwai Island sits in the Moa River in southern [Sierra Leone](/africa/sierraleone), wrapped in lowland rainforest and run as one of West Africa's best community conservation projects. It is only about 12 sq km, but the wildlife density is extraordinary: eleven primate species, pygmy hippos in the river channels, forest birds, butterflies, and the thick green hush of the Upper Guinean rainforest.

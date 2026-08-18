@@ -3,14 +3,19 @@ title: Třešť
 type: location
 loc_type: city
 latitude: 49.2915
-longitude: 15.4800
-score: 7.0
-snippet: Czech highland town known for handmade nativity scenes, Kafka traces, and nearby Roštejn Castle.
+longitude: 15.48
+score: 3.568
+snippet: Czech highland town known for handmade nativity scenes, Kafka traces, and
+  nearby Roštejn Castle.
 wikidata: Q999899
 sources:
-  - https://en.wikivoyage.org/wiki/T%C5%99e%C5%A1%C5%A5
-  - https://www.trestskebetlemy.cz/en/introduction/
-  - https://en.wikipedia.org/wiki/T%C5%99e%C5%A1%C5%A5
+- https://en.wikivoyage.org/wiki/T%C5%99e%C5%A1%C5%A5
+- https://www.trestskebetlemy.cz/en/introduction/
+- https://en.wikipedia.org/wiki/T%C5%99e%C5%A1%C5%A5
+heritage: 4.539
+vibrancy: 2.035
+nature: 2.498
+off_the_beaten_track: 1.725
 ---
 
 Třešť is a small town in the Bohemian-Moravian Highlands between Jihlava and Telč. Most of the year it is quiet, but it has one lovely and very local obsession: handmade nativity scenes, built and rebuilt by families with carved figures, moss, painted backdrops, and miniature landscapes.

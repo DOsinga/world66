@@ -5,11 +5,15 @@ done:
 latitude: 57.153534
 loc_type: city
 longitude: 65.542274
-score: 5.8
+score: 3.138
 snippet: Siberian regional capital on the Tura River, founded in 1586 and shaped by
   nearby oil wealth.
 title: Tyumen
 type: location
+heritage: 3.361
+vibrancy: 2.796
+nature: 2.896
+off_the_beaten_track: 4.873
 ---
 
 Tyumen holds the distinction of being the first Russian city in Siberia, founded in 1586 on the ruins of a Tatar settlement along the [Tura River](/europe/russia/tyumen/tura_embankment). Today it is the administrative capital of the oil-rich Tyumen Oblast, and the wealth shows — the centre is better maintained than many Russian cities of similar size, with restored merchant houses, a lively embankment, and a handful of good restaurants.

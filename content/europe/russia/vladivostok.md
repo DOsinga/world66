@@ -5,11 +5,15 @@ done:
 latitude: 43.1151
 loc_type: city
 longitude: 131.8856
-score: 7.37
+score: 5.348
 snippet: Russian Pacific port and Trans-Siberian Railway terminus, set on steep hills
   above Golden Horn Bay.
 title: Vladivostok
 type: location
+heritage: 5.413
+vibrancy: 5.176
+nature: 5.788
+off_the_beaten_track: 3.416
 ---
 
 Vladivostok is the end of the line — 9,300 kilometres from Moscow by rail, the final stop on the [Trans-Siberian Railway](/europe/russia/vladivostok/vladivostok_railway_station), and Russia's main Pacific port. The city sprawls across hills and peninsulas overlooking the [Golden Horn Bay](/europe/russia/vladivostok/golden_horn_bay), and on a clear day you can see across to the mountains of China and North Korea.

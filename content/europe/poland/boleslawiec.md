@@ -5,11 +5,15 @@ done:
 latitude: 51.262169
 loc_type: city
 longitude: 15.55502
-score: 6.54
+score: 3.813
 title: Boleslawiec
 type: location
 snippet: Southwestern Polish town near Germany, famous for hand-stamped blue-and-white
   stoneware pottery.
+heritage: 5.224
+vibrancy: 1.633
+nature: 1.792
+off_the_beaten_track: 1.718
 ---
 
 Boleslawiec is a small town in southwestern Poland, close to the German border, and the centre of the Polish pottery industry. The town's [hand-stamped ceramics](/europe/poland/boleslawiec/pottery_factories) — distinctive blue, white, and green patterns applied to stoneware — are famous well beyond Poland, and dozens of factories operate here, most with shop floors where you can buy directly at factory prices.

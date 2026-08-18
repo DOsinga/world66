@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Pietro_d%27Olba_(Urbe)
 latitude: 44.477256
 loc_type: city
 longitude: 8.631393
-score: 6.74
+score: 5.883
 snippet: Ligurian Apennine village area in the upper Olba valley, known for forests
   and mushroom picking.
 tags:
 - rivieradellepalme
 title: Urbe
 type: location
+heritage: 6.209
+vibrancy: 5.804
+nature: 5.35
+off_the_beaten_track: 2.222
 ---
 
 Urbe lies on the northern side of the Ligurian Apennines, scattered across the upper valley of the Olba stream. Once a possession of the Abbey of Tiglieto, it was donated to the Bishop of Acqui in the eleventh century and shared the fortunes of Sassello until 1798.

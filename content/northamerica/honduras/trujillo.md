@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:BAY_OF_TRUJILLO-_P._JESSON
 latitude: 15.917
 loc_type: city
 longitude: -86.0
-score: 6.81
+score: 5.628
 title: Trujillo
 type: location
 snippet: Trujillo is a historic Caribbean port in Honduras with a sheltered bay and
   Spanish colonial fortress.
+heritage: 4.154
+vibrancy: 1.585
+nature: 6.82
+off_the_beaten_track: 6.235
 ---
 
 Trujillo is a small historic port town on Honduras's Caribbean coast, sitting on a bay sheltered by a long headland east of La Ceiba. It has one of the most significant histories of any town on the Central American Caribbean coast — Christopher Columbus landed here in 1502 on his fourth voyage, making it one of the first places on the American mainland reached by Europeans. A small fortress built by the Spanish, Fort Santa Bárbara, still stands above the bay.

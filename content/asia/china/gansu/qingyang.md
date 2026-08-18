@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:201616_Qingyang_Station.jp
 latitude: 35.7278
 loc_type: city
 longitude: 107.64
-score: 6.13
+score: 5.273
 snippet: Loess Plateau city in eastern Gansu, surrounded by cave dwellings, ravines,
   and Buddhist grottoes
 sources:
 - https://en.wikivoyage.org/wiki/Gansu
 title: Qingyang
 type: location
+heritage: 6.175
+vibrancy: 2.284
+nature: 4.903
+off_the_beaten_track: 3.591
 ---
 
 Qingyang is the easternmost city in Gansu, set on the Loess Plateau in a landscape of eroded yellow earth, [cave dwellings cut into cliff faces](/asia/china/gansu/qingyang/loess_plateau_landscapes), and deep ravines carved by seasonal streams. It is a region of considerable antiquity — Chinese legend places the birthplace of the mythological ancestor Xianzu in the Huanxian area of the prefecture — and the loess environment has preserved archaeological sites and traditional building forms with unusual clarity.

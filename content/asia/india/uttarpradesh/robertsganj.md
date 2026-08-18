@@ -2,15 +2,20 @@
 title: Robertsganj
 type: location
 loc_type: city
-latitude: 24.7000
+latitude: 24.7
 longitude: 83.0667
-score: 6.4
-snippet: Sonbhadra district town near fossil beds, valley viewpoints, folklore stones, and Kaimur country.
+score: 4.1
+snippet: Sonbhadra district town near fossil beds, valley viewpoints, folklore stones,
+  and Kaimur country.
 wikidata: Q1709323
 sources:
-  - https://en.wikivoyage.org/wiki/Robertsganj
-  - https://en.wikipedia.org/wiki/Robertsganj
-  - https://www.wikidata.org/wiki/Q1709323
+- https://en.wikivoyage.org/wiki/Robertsganj
+- https://en.wikipedia.org/wiki/Robertsganj
+- https://www.wikidata.org/wiki/Q1709323
+heritage: 2.698
+vibrancy: 1.994
+nature: 5.19
+off_the_beaten_track: 3.816
 ---
 
 Robertsganj is a working town in southeastern Uttar Pradesh, well away from the state's famous Ganges cities. It sits in Sonbhadra district, where the flat north Indian plain starts to break into older stone, forested hills, and river valleys.

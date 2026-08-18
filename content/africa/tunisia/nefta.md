@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Corbeille_de_Nefta_-_Tozeu
 latitude: 33.820495
 loc_type: city
 longitude: 7.872451
-score: 7.47
+score: 5.448
 snippet: Southwestern Tunisian oasis town beside Chott el-Jerid, with Sufi traditions
   and the palm-filled Corbeille.
 sources:
@@ -18,6 +18,10 @@ sources:
 - https://www.atlasobscura.com/places/lars-homestead
 title: Nefta
 type: location
+heritage: 4.302
+vibrancy: 2.17
+nature: 6.416
+off_the_beaten_track: 6.647
 ---
 
 Nefta is an oasis town in southwestern Tunisia, close to the Algerian border and on the edge of the Chott el-Jerid — the vast salt lake that shimmers and mirages in the desert heat. It is one of the great religious centres of Tunisia, with over 100 mosques and an important Sufi tradition. The [Corbeille](/africa/tunisia/nefta/corbeille), a natural depression at the heart of town filled with thousands of date palms fed by spring water, is one of the most remarkable oases in North Africa: you look down from the rim at a green bowl of palms and mud-brick houses that feels both impossibly lush and deeply ancient.

@@ -7,9 +7,13 @@ loc_type: city
 snippet: Nile city in Middle Egypt, base for Beni Hassan tombs and quieter ancient
   sites.
 longitude: 30.744444
-score: 6.72
+score: 4.348
 title: Minya
 type: location
+heritage: 5.495
+vibrancy: 2.8
+nature: 2.689
+off_the_beaten_track: 4.282
 ---
 
 Minya is a mid-sized city on the Nile roughly halfway between Cairo and Asyut, and most travelers pass straight through — which is a mistake. The surrounding area contains some of the most vivid ancient Egyptian remains in the country, away from the crowds of Luxor.

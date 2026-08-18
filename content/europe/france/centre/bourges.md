@@ -11,11 +11,15 @@ image_source: https://www.flickr.com/photos/60057960@N06/53913073861
 latitude: 47.081166
 loc_type: city
 longitude: 2.399125
-score: 7.98
+score: 5.628
 snippet: Historic Berry city with a Gothic cathedral and canal-laced kitchen gardens
   behind its compact old town.
 title: Bourges
 type: location
+heritage: 6.944
+vibrancy: 3.963
+nature: 3.664
+off_the_beaten_track: 2.058
 ---
 
 Bourges sits near the geographic center of France, the historic capital of the Berry province. It is a city of art and history that most visitors to France never reach — which is a shame, because its Gothic cathedral alone is worth a detour of any length.

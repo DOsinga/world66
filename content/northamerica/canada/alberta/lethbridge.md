@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Lethbridge,_Alberta,_Canad
 latitude: 49.6946
 loc_type: city
 longitude: -112.8331
-score: 6.54
+score: 4.236
 snippet: Southern Alberta prairie city cut by Oldman River coulees and its immense
   High Level Bridge.
 title: Lethbridge
 type: location
+heritage: 3.542
+vibrancy: 3.761
+nature: 4.749
+off_the_beaten_track: 2.679
 ---
 
 Lethbridge sits in the sunny heart of southern Alberta, claiming more hours of sunshine than anywhere else in Canada. It is a prairie city through and through — flat agricultural land stretches in every direction, growing grain and sugar beets, with oil and gas operations dotting the landscape between the farms.

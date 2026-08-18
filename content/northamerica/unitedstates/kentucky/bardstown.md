@@ -5,7 +5,7 @@ loc_type: city
 latitude: 37.8153
 longitude: -85.4628
 wikidata: Q1063053
-score: 7.6
+score: 4.385
 snippet: Kentucky bourbon town with Federal houses, whiskey museums, and a handsome
   old courthouse square.
 sources:
@@ -17,6 +17,10 @@ image: bardstown.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Old_Talbott_Tavern.jpg
 image_license: Attribution
 image_attribution: C. Bedford Crenshaw
+heritage: 4.922
+vibrancy: 3.4
+nature: 4.56
+off_the_beaten_track: 2.349
 ---
 
 *North America > United States > Kentucky > Bardstown*

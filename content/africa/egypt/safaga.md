@@ -6,7 +6,7 @@ latitude: 26.7633
 longitude: 33.9384
 title: Safaga
 type: location
-score: 6.92
+score: 5.052
 loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Safaga
@@ -15,6 +15,10 @@ sources:
 - https://www.ion-club.net/kitesurfing-in-safaga/
 snippet: Red Sea port town where ferry docks and dive boats share access to excellent
   offshore reefs.
+heritage: 2.862
+vibrancy: 3.249
+nature: 6.261
+off_the_beaten_track: 3.737
 ---
 
 Safaga sits on the Egyptian Red Sea coast about 53 km south of Hurghada, and it's one of those places where the working port and the tourist town have grown up side by side without quite resolving the tension between them. Container ships and ferries bound for Saudi Arabia share the waterfront with dive boats heading out to some of the Red Sea's most reliably excellent reefs. That combination gives Safaga a gritty, unpretentious character that many travellers find refreshing after the resort-bubble polish of its neighbours.

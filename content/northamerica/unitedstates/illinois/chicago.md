@@ -16,7 +16,7 @@ quick_facts:
   Population: ~2.7 million
   Reversed a River: Engineered to flow backwards
   Skyscraper Birthplace: First built here, 1885
-score: 9.25
+score: 8.47
 snippet: Major Great Lakes city known for pioneering skyscraper architecture, deep
   neighbourhood culture, and a broad Lake Michigan waterfront.
 tip: Chicago is the birthplace of the skyscraper, and the best way to grasp it is
@@ -26,6 +26,10 @@ tip: Chicago is the birthplace of the skyscraper, and the best way to grasp it i
   hot dog (never with ketchup).
 title: Chicago
 type: location
+heritage: 6.851
+vibrancy: 9.149
+nature: 4.604
+off_the_beaten_track: 1.375
 ---
 
 Chicago is one of the great American cities, and unlike New York or Los Angeles, it still feels like a surprise to many visitors. The skyline alone is worth the trip -- this is where the skyscraper was invented, and the downtown Loop remains an open-air museum of architectural ambition from the 1880s to the present day.

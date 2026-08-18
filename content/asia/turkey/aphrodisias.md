@@ -5,7 +5,7 @@ loc_type: feature
 latitude: 37.7083
 longitude: 28.7236
 wikidata: Q618495
-score: 8.8
+score: 6.727
 snippet: Inland Carian archaeological site where Roman marble sculpture and a near-complete
   stadium survive.
 sources:
@@ -17,6 +17,10 @@ image: aphrodisias.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Afrodisias_408.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Viault
+heritage: 8.738
+vibrancy: 2.967
+nature: 4.302
+off_the_beaten_track: 3.706
 ---
 
 Aphrodisias is one of Turkey's great ancient sites, but it feels quieter than that status suggests. It sits inland from the Aegean coast near modern Geyre, surrounded by fields and low hills rather than cruise buses and souvenir streets. The old city made its name from marble: nearby quarries supplied the stone, and its sculptors became famous across the Roman world.

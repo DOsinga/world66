@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 28.3884
 longitude: -80.6035
-score: 0.42
+score: 5.046
 snippet: Space Coast beach city beside Port Canaveral, launch history, cruise docks,
   and Atlantic parks.
 sources:
@@ -16,6 +16,10 @@ image_source: https://commons.wikimedia.org/wiki/File:Beach_in_Cape_Canaveral,_F
 image_license: CC BY 2.0
 image_attribution: Ricymar Photography (Thanks to all the fans!!!!) from KISSIMMEE,
   US
+heritage: 3.076
+vibrancy: 3.657
+nature: 6.054
+off_the_beaten_track: 1.463
 ---
 
 Cape Canaveral is the working, salty side of Florida's Space Coast. Cruise ships leave from Port Canaveral, rockets rise from the launch complexes to the north, and beach parks sit between condo blocks and the Atlantic.

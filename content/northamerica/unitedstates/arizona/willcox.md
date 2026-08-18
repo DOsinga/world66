@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 32.2694
 longitude: -109.7826
-score: 6.5
-snippet: Southeast Arizona railroad town known for cowboy history, wine country, birding, and Chiricahua access.
+score: 3.654
+snippet: Southeast Arizona railroad town known for cowboy history, wine country, birding,
+  and Chiricahua access.
 wikidata: Q79450
 sources:
-  - https://en.wikivoyage.org/wiki/Willcox
-  - https://en.wikipedia.org/wiki/Willcox,_Arizona
-  - https://www.wikidata.org/wiki/Q79450
+- https://en.wikivoyage.org/wiki/Willcox
+- https://en.wikipedia.org/wiki/Willcox,_Arizona
+- https://www.wikidata.org/wiki/Q79450
+heritage: 2.383
+vibrancy: 2.112
+nature: 4.643
+off_the_beaten_track: 3.173
 ---
 
 Willcox is a small town on I-10 in southeast Arizona, but it is more interesting than its freeway setting suggests. The old railroad core is walkable, the town celebrates singing cowboy Rex Allen with complete sincerity, and the surrounding Sulphur Springs Valley has become one of Arizona's better wine areas.

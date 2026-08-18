@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/27454212@N00/27519272353
 latitude: 67.6548
 loc_type: city
 longitude: 12.7262
-score: 8.89
+score: 5.869
 snippet: Rugged Lofoten island where fishing villages face mountains, bird cliffs,
   and the open Atlantic.
 title: Værøy
 type: location
+heritage: 4.025
+vibrancy: 3.009
+nature: 7.391
+off_the_beaten_track: 4.701
 ---
 
 Værøy is the southernmost inhabited island of Lofoten, a small, rugged place where fishing still runs everything and the mountains drop straight into the sea. About 700 people live here, most of them in the village of Sørland on the sheltered eastern side. The rest of the island — the wild southwestern face with its towering bird cliffs — belongs to the seabirds.

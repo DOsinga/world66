@@ -4,11 +4,15 @@ done:
 latitude: 14.4469
 loc_type: city
 longitude: -11.4445
-score: 4.93
+score: 3.952
 snippet: Western Malian river city known for fierce dry-season heat and French Sudan
   railway history.
 title: Kayes
 type: location
+heritage: 3.498
+vibrancy: 3.747
+nature: 4.21
+off_the_beaten_track: 6.1
 ---
 
 Kayes holds the unenviable distinction of being one of the hottest inhabited cities on Earth, with temperatures regularly exceeding 45 degrees Celsius in the dry season. The city sits on the Sénégal River in western Mali, near the Senegalese border, and served as the colonial capital of French Sudan before Bamako took over. It was an important node on the Dakar-Niger Railway — one of colonial Africa's great engineering projects — and that history is still visible in the buildings and infrastructure around the old train station.

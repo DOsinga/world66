@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Palazzo_Municipale_e_Torre
 latitude: 40.8864
 loc_type: city
 longitude: 17.1655
-score: 8.1
+score: 5.597
 snippet: Small Puglian town above the Grotte di Castellana, a vast limestone cave
   system under the Murge.
 title: Castellana Grotte
 type: location
+heritage: 6.065
+vibrancy: 2.919
+nature: 6.105
+off_the_beaten_track: 3.101
 ---
 
 Castellana Grotte is a small agricultural town in the Murge plateau of central Puglia, unremarkable on the surface but sitting atop one of the most extraordinary cave systems in Europe. The [Grotte di Castellana](/europe/italy/puglia/castellana_grotte/grotte_di_castellana) — a series of limestone caverns stretching nearly four kilometres underground — draw visitors from across Italy who would otherwise have little reason to stop here.

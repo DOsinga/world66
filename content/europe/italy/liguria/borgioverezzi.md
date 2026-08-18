@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Borgio-Pietra_Ligure-panor
 latitude: 44.164968
 loc_type: city
 longitude: 8.306662
-score: 7.88
+score: 5.12
 snippet: Twin Ligurian settlement pairing a modest beach town with medieval Verezzi
   above the sea
 tags:
 - rivieradellepalme
 title: Borgio Verezzi
 type: location
+heritage: 4.46
+vibrancy: 3.272
+nature: 6.045
+off_the_beaten_track: 2.923
 ---
 
 Borgio Verezzi is a twin settlement on the Riviera delle Palme in western Liguria — Borgio on the coast, Verezzi on the hill above it with panoramic views over the sea. The two could hardly be more different: Borgio is a modest beach town, while Verezzi is a cluster of medieval hamlets with Saracen-influenced stone houses and narrow lanes.

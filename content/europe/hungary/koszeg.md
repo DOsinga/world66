@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Fo_ter_in_Koszeg_(1).jpg
 latitude: 47.3895
 loc_type: city
 longitude: 16.5407
-score: 7.82
+score: 5.3
 snippet: Hungarian border town below the Kőszeg Mountains, remembered for resisting
   Suleiman's Ottoman army.
 sources:
@@ -18,6 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Jurisics_Castle
 title: Koszeg
 type: location
+heritage: 6.194
+vibrancy: 4.305
+nature: 4.956
+off_the_beaten_track: 3.109
 ---
 
 Kőszeg is one of Hungary's most charming small towns, tucked right against the Austrian border at the foot of the Kőszeg Mountains. It is best known for a single extraordinary event: in August 1532, the tiny garrison of Jurisics Castle held off the Ottoman army of Suleiman the Magnificent for 25 days — or, by some accounts, 25 days of formal siege plus weeks of skirmishing — delaying the sultan's march on Vienna long enough that he abandoned the campaign. Every day at 11am, church bells ring across the town to commemorate the moment the Ottomans finally retreated. The tradition has continued for nearly five centuries.

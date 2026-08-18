@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2016-10-11_14_15_20_View_n
 latitude: 38.7509
 loc_type: city
 longitude: -77.4753
-score: 6.61
+score: 5.17
 snippet: Northern Virginia city shaped by Civil War battlefields and a historic railroad-era
   Old Town.
 title: Manassas
 type: location
+heritage: 6.286
+vibrancy: 1.893
+nature: 4.282
+off_the_beaten_track: 2.319
 ---
 
 Manassas is a small city about 30 miles southwest of Washington, D.C., defined almost entirely by its Civil War history. Twice in the space of fourteen months — July 1861 and August 1862 — the armies of the Union and the Confederacy clashed here along a muddy creek called Bull Run, and twice the Union was routed. The battles shattered any illusion that the war would be quick and easy, and the name Manassas became shorthand for hard lessons learned.

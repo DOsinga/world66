@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Jukung_Hias_FBIM_2018_05.J
 latitude: -2.2073
 loc_type: city
 longitude: 113.9164
-score: 5.96
+score: 3.627
 snippet: Central Kalimantan river capital with Dayak culture, orangutan centres, and
   peat-swamp wilderness nearby.
 title: Palangka Raya
 type: location
+heritage: 2.625
+vibrancy: 2.273
+nature: 4.176
+off_the_beaten_track: 4.736
 ---
 
 Palangka Raya is the capital of Central Kalimantan, spread along the banks of the [Kahayan River](/asia/indonesia/kalimantan/palangka_raya/kahayan_river) deep in the Borneo interior. It is not a city that gets many tourists — most pass through on their way to the orangutan rehabilitation centres and peat swamp forests that surround it — but that is part of its appeal. This is a working Indonesian provincial capital with good food, a strong Dayak cultural presence, and genuine wilderness at its doorstep.

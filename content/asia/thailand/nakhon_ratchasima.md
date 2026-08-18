@@ -2,10 +2,14 @@
 latitude: 14.9799
 loc_type: city
 longitude: 102.0977
-score: 7.1
+score: 3.564
 snippet: Isaan's big gateway city, centred on the Ya Mo shrine and an old moated core
 title: Nakhon Ratchasima
 type: location
+heritage: 3.726
+vibrancy: 3.529
+nature: 2.441
+off_the_beaten_track: 2.108
 ---
 
 Nakhon Ratchasima, almost always called Korat, is the big western gate of Isaan. It is not a polished holiday city, and it does not pretend to be one. The appeal is more local: a working Thai city with a moated old centre, a fiercely loved heroine shrine, Khmer traces, night markets, and good onward links to the plateau.

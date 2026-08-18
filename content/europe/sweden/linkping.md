@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Link%C3%B6pings_slott,_Lin
 latitude: 58.409813
 loc_type: city
 longitude: 15.624525
-score: 7.31
+score: 4.279
 title: Linköping
 snippet: Östergötland university city shaped by medieval churches, aerospace engineering,
   and the SAAB aircraft industry
 type: location
+heritage: 4.314
+vibrancy: 4.185
+nature: 4.523
+off_the_beaten_track: 1.043
 ---
 
 Linköping is an old university city in the heart of Östergötland, Sweden's seventh-largest and the place where SAAB builds its fighter jets. The aerospace industry gives the town a surprisingly international feel for a mid-sized Swedish city.

@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:36275-Leshan_(49067653383)
 latitude: 29.5452
 loc_type: city
 longitude: 103.7659
-score: 8.63
+score: 6.566
 snippet: Sichuan river city dominated by the cliff-carved Leshan Giant Buddha at three
   rivers' meeting point
 title: Leshan
 type: location
+heritage: 7.783
+vibrancy: 3.094
+nature: 5.89
+off_the_beaten_track: 3.739
 ---
 
 Leshan exists almost entirely in the shadow of one extraordinary thing: the [Leshan Giant Buddha](/asia/china/sichuanprovince/leshan/leshan_giant_buddha), a 71-metre Buddha carved into a cliff face where three rivers meet. It is the largest stone Buddha in the world, and it is genuinely astonishing — not in the way that photographs prepare you for, but in the way that standing at the statue's feet and realising his toenails are taller than you are can only be experienced in person.

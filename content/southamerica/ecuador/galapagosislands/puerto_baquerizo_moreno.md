@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Puerto_Baquerizo_Moreno_po
 latitude: -0.9013
 loc_type: city
 longitude: -89.6088
-score: 9.36
+score: 6.09
 snippet: Galápagos provincial capital on San Cristóbal Island, known for waterfront
   sea lions and Darwin history.
 title: Puerto Baquerizo Moreno
 type: location
+heritage: 2.578
+vibrancy: 4.59
+nature: 7.221
+off_the_beaten_track: 5.13
 ---
 
 Puerto Baquerizo Moreno is the capital of the Galápagos province, set on the southwestern tip of San Cristóbal Island. It is smaller and quieter than Puerto Ayora on Santa Cruz, and feels more like a real town than a tourist hub — sea lions lounge on the benches along the waterfront, and frigate birds wheel overhead.

@@ -17,7 +17,7 @@ quick_facts:
   Founded: 7th century
   King's Landing: Game of Thrones set
   Marble Streets: Polished since the 1400s
-score: 9.87
+score: 6.668
 snippet: Walled Adriatic city whose compact old town rises above cliffs and a historic
   harbour.
 tip: Walk the full city walls early morning or near sunset — at midday they're a sweltering,
@@ -26,6 +26,10 @@ tip: Walk the full city walls early morning or near sunset — at midday they're
   flood the gates at once.
 title: Dubrovnik
 type: location
+heritage: 5.652
+vibrancy: 7.104
+nature: 5.516
+off_the_beaten_track: 1.886
 ---
 
 Dubrovnik is one of the most visually striking cities in the Mediterranean. A compact old town wrapped in massive stone walls, perched on cliffs above the Adriatic, it has been drawing visitors for centuries and earned its old nickname "the Pearl of the Adriatic" honestly.

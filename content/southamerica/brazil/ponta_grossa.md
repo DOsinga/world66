@@ -10,11 +10,15 @@ image_source: https://www.flickr.com/photos/33704098@N00/5995800992
 latitude: -25.0891
 loc_type: city
 longitude: -50.1602
-score: 6.28
+score: 5.122
 title: Ponta Grossa
 type: location
 snippet: Paraná highland city used as a base for sandstone canyons, araucária forests,
   and Vila Velha.
+heritage: 4.182
+vibrancy: 4.49
+nature: 5.769
+off_the_beaten_track: 2.616
 ---
 
 Ponta Grossa is a mid-sized city in the highlands of Paraná, about 110 km west of Curitiba. It sits on the second plateau of the Serra Geral, and the surrounding landscape — sandstone canyons, caves, and araucária pine forests — is the main reason to come here.

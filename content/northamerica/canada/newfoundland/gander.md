@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 48.9569
 longitude: -54.6089
-score: 7.0
-snippet: Newfoundland aviation town shaped by transatlantic flying, wartime history, and 9/11 hospitality.
+score: 5.402
+snippet: Newfoundland aviation town shaped by transatlantic flying, wartime history,
+  and 9/11 hospitality.
 sources:
-  - https://en.wikivoyage.org/wiki/Gander
-  - https://en.wikipedia.org/wiki/Gander_International_Airport
-  - https://northatlanticaviationmuseum.com/
+- https://en.wikivoyage.org/wiki/Gander
+- https://en.wikipedia.org/wiki/Gander_International_Airport
+- https://northatlanticaviationmuseum.com/
+heritage: 3.415
+vibrancy: 1.844
+nature: 6.617
+off_the_beaten_track: 5.756
 ---
 
 Gander is a town that exists because of the sky. Its huge airport was once one of the essential stops on the North Atlantic air route, serving wartime ferry flights, early commercial aviation, Cold War traffic, and later emergency diversions.

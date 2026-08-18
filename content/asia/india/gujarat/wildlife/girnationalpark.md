@@ -4,10 +4,14 @@ done:
 latitude: 21.1243
 loc_type: feature
 longitude: 70.7932
-score: 8.16
+score: 5.769
 snippet: Gujarat forest park and last wild stronghold of the Asiatic lion in India
 title: Gir National Park
 type: location
+heritage: 1.523
+vibrancy: 1.124
+nature: 7.433
+off_the_beaten_track: 4.943
 ---
 
 Gir National Park is the last home of the Asiatic lion. Once ranging from Greece through the Middle East to eastern India, the species was hunted to near-extinction by the early twentieth century -- by 1910, fewer than 15 lions survived, all of them here in the dry deciduous forests of Gujarat's Saurashtra peninsula. Sustained protection has brought their numbers back above 600, and Gir remains the only place on earth outside Africa where you can see lions in the wild.

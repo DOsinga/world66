@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Gritstone_Rocks_and_the_Pe
 latitude: 53.315827
 loc_type: feature
 longitude: -1.727034
-score: 8.4
+score: 6.373
 snippet: England's first national park, split between Dark Peak moorland and White
   Peak limestone villages.
 title: Peak District
 type: location
+heritage: 6.406
+vibrancy: 2.711
+nature: 7.163
+off_the_beaten_track: 3.756
 ---
 
 The Peak District was England's first national park, designated in 1951, and it remains one of the most visited in the world — largely because it sits at the centre of a ring of major cities. Manchester, Sheffield, Derby, Nottingham, and Leicester all lie within an hour of the park boundary, which makes it the primary green escape for millions of people and, on summer weekends, notably crowded in the popular spots.

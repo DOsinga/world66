@@ -6,11 +6,15 @@ done:
 latitude: -38.3826
 loc_type: city
 longitude: 142.4814
-score: 7.21
+score: 4.595
 snippet: Seaside town at the Great Ocean Road’s western end, with maritime history
   and winter whale watching.
 title: Warrnambool
 type: location
+heritage: 4.138
+vibrancy: 4.027
+nature: 5.176
+off_the_beaten_track: 3.385
 ---
 
 Warrnambool sits snugly between the Merri and Hopkins rivers at the western end of the Great Ocean Road. Once a major whaling station, it is now a relaxed seaside town with a nice mix of maritime history, surf beaches, and wildlife.

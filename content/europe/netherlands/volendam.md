@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/152930510@N02/49195352216
 latitude: 52.496376
 loc_type: city
 longitude: 5.068274
-score: 8.2
+score: 4.622
 title: Volendam
 type: location
 snippet: IJsselmeer fishing village north of Amsterdam, known for its harbour, wooden
   houses, and smoked eel.
+heritage: 5.667
+vibrancy: 3.144
+nature: 3.719
+off_the_beaten_track: 1.65
 ---
 
 Volendam sits on the IJsselmeer, a half-hour bus ride north of Amsterdam, and it still looks remarkably like the fishing village it once was. Wooden houses painted green and white line narrow streets, and a handful of older residents still wear traditional dress — the women in pointed lace caps, the men in baggy wool trousers.

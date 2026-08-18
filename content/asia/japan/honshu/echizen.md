@@ -4,14 +4,19 @@ type: location
 loc_type: city
 latitude: 35.9033
 longitude: 136.1692
-score: 7.2
-snippet: Fukui craft city known for forged knives, handmade washi paper, and Murasaki Shikibu.
+score: 4.725
+snippet: Fukui craft city known for forged knives, handmade washi paper, and Murasaki
+  Shikibu.
 wikidata: Q877941
 sources:
-  - https://en.wikivoyage.org/wiki/Echizen
-  - https://www.fuku-e.com/en/attractions/detail_2031.html
-  - https://www.fuku-e.com/en/attractions/detail_1131.html
-  - https://www.fuku-e.com/en/attractions/detail_1444.html
+- https://en.wikivoyage.org/wiki/Echizen
+- https://www.fuku-e.com/en/attractions/detail_2031.html
+- https://www.fuku-e.com/en/attractions/detail_1131.html
+- https://www.fuku-e.com/en/attractions/detail_1444.html
+heritage: 5.111
+vibrancy: 2.049
+nature: 5.158
+off_the_beaten_track: 3.187
 ---
 
 Echizen is a workbench of a city in southern Fukui, better known by its old centre, Takefu. It does not have the instant drama of a castle town, but it has something more tactile: forged kitchen knives, handmade washi, old shrine craft traditions, soba shops, and a literary link to Murasaki Shikibu, the author of *The Tale of Genji*.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Chitradurga_fort_Image_(10
 latitude: 14.304917
 loc_type: city
 longitude: 76.529667
-score: 6.85
+score: 5.31
 snippet: Central Karnataka city built among ancient granite boulders and a seven-ring
   hill fortress.
 title: Chitradurga
 type: location
+heritage: 6.295
+vibrancy: 2.441
+nature: 4.761
+off_the_beaten_track: 4.527
 ---
 
 Chitradurga is a city in central Karnataka built among and around an extraordinary landscape of giant granite boulders. The rocks have been here for perhaps three billion years — some of the oldest exposed geology on earth — and they give the city its name: in Kannada, *Chitradurga* means "picturesque fort." That fort, a multilayered hill fortress threading between and over the boulders, is the main reason to come.

@@ -7,11 +7,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Eisenach_von_G%C3%B6pelsku
 latitude: 50.974713
 loc_type: city
 longitude: 10.319356
-score: 8.03
+score: 5.869
 snippet: Thuringian city below Wartburg Castle, tied to Martin Luther, Bach, and German
   cultural history.
 title: Eisenach
 type: location
+heritage: 7.429
+vibrancy: 3.755
+nature: 2.914
+off_the_beaten_track: 2.035
 ---
 
 Eisenach is a small city in western Thuringia that punches far above its weight in history. Above the town sits the [Wartburg](/europe/germany/thuringia/eisenach/wartburg), one of the most important castles in Germany — where Martin Luther hid from the Pope and translated the New Testament into German, where Elisabeth of Thuringia performed her legendary acts of charity, and where German students gathered in 1817 to call for national unity. The castle is a UNESCO World Heritage Site and the main reason to come.

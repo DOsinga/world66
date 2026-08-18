@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Delphi,_Greece_-_panoramio
 latitude: 38.481154
 loc_type: city
 longitude: 22.500549
-score: 9.28
+score: 5.86
 title: Delphi
 snippet: Ancient Greek sanctuary on Mount Parnassus, where Apollo's oracle looked
   over the Phocis olive plain.
 type: location
+heritage: 7.36
+vibrancy: 3.863
+nature: 3.621
+off_the_beaten_track: 1.448
 ---
 
 Delphi was once considered the centre of the world. Set dramatically on the slopes of Mount Parnassus, overlooking the vast olive-covered plain of Phocis, it served for centuries as the most important oracle in the ancient Greek world. A priestess of Apollo, the Pythia, would sit in a grotto and — under the influence of intoxicating gases rising from the earth — deliver prophecies that shaped the fates of kings and city-states. It was here that Oedipus learned his terrible destiny, and Socrates that no man was wiser than he.

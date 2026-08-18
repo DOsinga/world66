@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Autumninmoncton.JPG
 latitude: 46.0986
 loc_type: city
 longitude: -64.8004
-score: 6.77
+score: 5.052
 title: Moncton
 type: location
 snippet: Bilingual New Brunswick city and Maritime hub, known for Magnetic Hill and
   Bay of Fundy access.
+heritage: 2.672
+vibrancy: 3.662
+nature: 6.061
+off_the_beaten_track: 1.487
 ---
 
 Moncton is the largest city in New Brunswick and the unofficial hub of the Maritime provinces — a bilingual, unpretentious place where English and French run together in conversation as naturally as the rivers that converge here. It is not a city most travellers seek out for its own sake, but it is a convenient base for exploring the region, and it has enough character to hold your attention for a day or two.

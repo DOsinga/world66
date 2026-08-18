@@ -5,11 +5,15 @@ done:
 latitude: 44.393
 loc_type: city
 longitude: -88.74
-score: 5.53
+score: 3.482
 snippet: East-central Wisconsin river city known for fishing, boating, and its New
   Dublin festival tradition.
 title: New London
 type: location
+heritage: 2.407
+vibrancy: 1.993
+nature: 4.377
+off_the_beaten_track: 2.006
 ---
 
 New London is a small city in east-central Wisconsin, set where the [Wolf River](/northamerica/unitedstates/wisconsin/new_london/wolf_river) meets the Embarrass River. The two rivers and nearby lakes make it a natural base for fishing, boating, canoeing and tubing in summer, with ice fishing taking over in winter.

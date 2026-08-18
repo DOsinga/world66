@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Los_Gigantes,_Tenerife,_Es
 latitude: 28.2439
 loc_type: city
 longitude: -16.8403
-score: 8.21
+score: 5.548
 snippet: Tenerife west-coast resort named for the basalt cliffs rising beside its
   marina and beach.
 sources:
 - https://en.wikipedia.org/wiki/Los_Gigantes
 title: Los Gigantes
 type: location
+heritage: 2.066
+vibrancy: 4.511
+nature: 6.42
+off_the_beaten_track: 1.858
 ---
 
 Los Gigantes is the most dramatic of Tenerife's west-coast resorts, named for the huge basalt cliffs that rise straight from the Atlantic beside the town. The resort itself is small and steep, with apartments stepping down toward a marina, but the setting does most of the work. When the evening light hits the [Acantilados de Los Gigantes](/europe/spain/spanishcostas/losgigantes/acantilados_de_los_gigantes), the name feels fully justified.

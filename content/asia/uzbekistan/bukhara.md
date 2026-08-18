@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2012_Bukhara_7515821196_cr
 latitude: 39.775984
 loc_type: city
 longitude: 64.415153
-score: 9.12
+score: 7.712
 title: Bukhara
 type: location
 snippet: Silk Road oasis city dense with madrasahs, brick minarets, tea houses, and
   living old-town atmosphere.
+heritage: 9.98
+vibrancy: 4.49
+nature: 2.317
+off_the_beaten_track: 6.117
 ---
 
 Bukhara is one of the most famous cities on the ancient Silk Road. [Samarkand](/asia/uzbekistan/samarkand) is maybe a bit more famous, but Bukhara wins hands down when it comes to atmosphere. This city is alive.

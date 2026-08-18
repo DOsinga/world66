@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aleppo_03.jpg
 latitude: 36.1992
 loc_type: city
 longitude: 37.1637
-score: 2.07
+score: 4.27
 snippet: Ancient Syrian city with a citadel, covered souks, and one of the world's
   longest urban histories.
 title: Aleppo
 type: location
+heritage: 3.733
+vibrancy: 2.259
+nature: 2.257
+off_the_beaten_track: 7.135
 ---
 
 Aleppo is one of the oldest continuously inhabited cities in the world, with roots stretching back at least eight thousand years. Before the war, it was Syria's largest city and its commercial heart — a place where Ottoman merchants, Armenian craftsmen, and Bedouin traders had done business for centuries in the same covered souks. Then came the siege of 2012–2016, and much of the old city was reduced to rubble.

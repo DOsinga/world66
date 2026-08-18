@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 41.2903
 longitude: 36.3336
-score: 7.6
+score: 4.104
 snippet: Black Sea port city where Ataturk's 1919 landing became Turkey's republican
   origin story.
 sources:
@@ -15,6 +15,10 @@ image: samsun.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Embankment_in_Samsun,_Turkey.jpg
 image_license: CC0
 image_attribution: Vsatinet
+heritage: 4.115
+vibrancy: 4.131
+nature: 3.961
+off_the_beaten_track: 2.738
 ---
 
 Samsun is Turkey's biggest city on the Black Sea, a long coastal port with trams, apartment blocks, sea air, and a very serious sense of republican history. Mustafa Kemal Ataturk landed here on 19 May 1919, and the city treats that moment not as a footnote but as its central identity.

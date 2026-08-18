@@ -8,12 +8,16 @@ snippet: Moldovan river town above the Dniester, anchored by a round 16th-centur
   fortress facing Ukraine.
 title: Soroca
 type: location
-score: 6.47
+score: 4.842
 loc_type: city
 sources:
 - https://en.wikipedia.org/wiki/Soroca
 - https://en.wikipedia.org/wiki/Soroca_Fort
 - https://en.wikipedia.org/wiki/Candle_of_Gratitude
+heritage: 5.958
+vibrancy: 2.94
+nature: 3.85
+off_the_beaten_track: 4.597
 ---
 
 Soroca sits on a dramatic limestone bluff above the Dniester River in the far north of Moldova, staring across the water into Ukraine. It is a town of around 25,000 people and one of Europe's least-visited places of genuine interest — which, given what it has to offer, is either a mystery or a recommendation depending on your disposition.

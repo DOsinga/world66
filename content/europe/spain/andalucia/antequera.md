@@ -11,9 +11,13 @@ loc_type: city
 snippet: Andalusian crossroads town between Málaga and Granada, with dolmens, an Alcazaba,
   and El Torcal nearby
 longitude: -4.559665
-score: 8.44
+score: 5.357
 title: Antequera
 type: location
+heritage: 5.942
+vibrancy: 4.207
+nature: 5.73
+off_the_beaten_track: 3.199
 ---
 
 Antequera is near where the main road from Málaga to Granada leaves the Sevilla road after you have come right up the mountains from Málaga. Its bus links with Málaga are excellent and it may serve as an alternative first or last night if you are using Málaga airport. 

@@ -4,17 +4,22 @@ type: location
 loc_type: feature
 latitude: 68.4
 longitude: 18.8
-score: 8.8
-snippet: Swedish Lapland mountain area famed for aurora skies, Kungsleden hiking, and Lapporten views.
+score: 5.847
+snippet: Swedish Lapland mountain area famed for aurora skies, Kungsleden hiking,
+  and Lapporten views.
 sources:
-  - https://en.wikivoyage.org/wiki/Abisko_and_Bj%C3%B6rkliden
-  - https://en.wikipedia.org/wiki/Abisko_National_Park
-  - https://auroraskystation.se/en/welcome-to-aurora-sky-station/
-  - https://kirunalapland.se/en/destinations/bjorkliden/
+- https://en.wikivoyage.org/wiki/Abisko_and_Bj%C3%B6rkliden
+- https://en.wikipedia.org/wiki/Abisko_National_Park
+- https://auroraskystation.se/en/welcome-to-aurora-sky-station/
+- https://kirunalapland.se/en/destinations/bjorkliden/
 image: abisko_and_bjorkliden.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Abisko_Lapporten.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Ellen Lundkvist
+heritage: 1.174
+vibrancy: 2.055
+nature: 7.276
+off_the_beaten_track: 5.853
 ---
 
 Abisko and Björkliden sit on the Kiruna-Narvik railway in far northern [Sweden](/europe/sweden), above the Arctic Circle and beside the long cold sweep of Lake Torneträsk. It is a small settlement pair, but the setting is huge: birch forest, open fell, the U-shaped notch of Lapporten, and some of the clearest winter skies in Swedish Lapland.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Emi_Koussi_Volcano,_Chad_F
 latitude: 19.7975
 loc_type: feature
 longitude: 18.5486
-score: 5.7
+score: 6.672
 snippet: Massive shield volcano in Chad's Tibesti Mountains, the highest point in
   the Sahara.
 title: Emi Koussi
 type: location
+heritage: 1.911
+vibrancy: 0.693
+nature: 8.168
+off_the_beaten_track: 7.121
 ---
 
 Emi Koussi is the highest point in the Sahara, a massive shield volcano rising to 3,445 meters in the Tibesti Mountains of northern [Chad](/africa/chad). The caldera at the summit is 15 km wide and contains fumaroles, mineral deposits, and an eerie moonscape of volcanic rock. It is one of the most spectacular and least-visited peaks on the continent.

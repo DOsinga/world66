@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 34.15
 longitude: 132.1833
-score: 8.0
+score: 4.218
 snippet: Castle town in western Honshu known for the five-arched Kintai Bridge and
   white snakes.
 sources:
@@ -15,6 +15,10 @@ image: iwakuni.jpg
 image_source: https://commons.wikimedia.org/wiki/File:20100724_Iwakuni_5235.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Jakub Hałun
+heritage: 4.972
+vibrancy: 2.963
+nature: 3.847
+off_the_beaten_track: 3.231
 ---
 
 Iwakuni sits on the Nishiki River in eastern Yamaguchi, close enough to [Hiroshima](/asia/japan/honshu/hiroshima) to work as a day trip but with a very different rhythm. Its draw is concentrated around the Kintai Bridge, a beautiful wooden structure of five steep arches that has become one of western Honshu's classic views.

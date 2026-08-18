@@ -25,7 +25,10 @@
       nature: 'Nature',
       off_the_beaten_track: 'Off the beaten track'
     };
-    var weights = { heritage: 1, vibrancy: 1, nature: 1, off_the_beaten_track: 1 };
+    var defaultWeights = { heritage: 1, vibrancy: 1.14, nature: 1.02, off_the_beaten_track: 0.72 };
+    var defaultRankWeights = { top: 3.7, second: 1.6 };
+    var weights = Object.assign({}, defaultWeights);
+    var rankWeights = Object.assign({}, defaultRankWeights);
     var locations = [];
     var markerLayer = null;
     var hoverCard = null;
@@ -37,6 +40,14 @@
       var div = document.createElement('div');
       div.textContent = value == null ? '' : String(value);
       return div.innerHTML;
+    }
+
+    function formatComponentWeight(value) {
+      return Number(value).toFixed(2).replace(/\.?0+$/, '');
+    }
+
+    function formatRankWeight(value) {
+      return Number(value).toFixed(1);
     }
 
     function project(lng, lat) {
@@ -190,10 +201,10 @@
     }
 
     function weightedScore(item) {
+      var strongest = strongestDims(item);
       var total = 0;
-      dims.forEach(function(dim) {
-        total += weights[dim] * item[dim];
-      });
+      if (strongest[0]) total += rankWeights.top * weights[strongest[0]] * item[strongest[0]];
+      if (strongest[1]) total += rankWeights.second * weights[strongest[1]] * item[strongest[1]];
       return total;
     }
 
@@ -210,13 +221,17 @@
     }
 
     function strongestDims(item) {
-      return dims.slice().sort(function(a, b) { return item[b] - item[a]; }).slice(0, 2);
+      return dims.slice().sort(function(a, b) {
+        return weights[b] * item[b] - weights[a] * item[a];
+      }).slice(0, 2);
     }
 
     function updateSummary(top, visibleCount) {
       if (!summary) return;
       var active = dims.filter(function(dim) { return weights[dim] > 0; })
-        .map(function(dim) { return labels[dim] + ' ' + weights[dim].toFixed(1); });
+        .map(function(dim) { return labels[dim] + ' ' + formatComponentWeight(weights[dim]); });
+      if (rankWeights.top > 0) active.push('Top component ' + formatRankWeight(rankWeights.top));
+      if (rankWeights.second > 0) active.push('Second component ' + formatRankWeight(rankWeights.second));
       summary.textContent = (active.length ? active.join(' / ') : 'All weights are zero') +
         ' · top ' + top.length + ' of ' + visibleCount + ' visible destinations';
     }
@@ -303,7 +318,14 @@
         var input = control.querySelector('input');
         var value = control.querySelector('[data-score-value]');
         weights[dim] = Number(input.value);
-        if (value) value.textContent = weights[dim].toFixed(1);
+        if (value) value.textContent = formatComponentWeight(weights[dim]);
+      });
+      root.querySelectorAll('[data-score-rank-control]').forEach(function(control) {
+        var key = control.getAttribute('data-score-rank-control');
+        var input = control.querySelector('input');
+        var value = control.querySelector('[data-score-rank-value]');
+        rankWeights[key] = Number(input.value);
+        if (value) value.textContent = formatRankWeight(rankWeights[key]);
       });
       var ranked = visibleRankedLocations();
       var top = ranked.slice(0, 50);
@@ -350,6 +372,9 @@
     }
 
     root.querySelectorAll('[data-score-control] input').forEach(function(input) {
+      input.addEventListener('input', update);
+    });
+    root.querySelectorAll('[data-score-rank-control] input').forEach(function(input) {
       input.addEventListener('input', update);
     });
     root.querySelectorAll('[data-map-zoom]').forEach(function(button) {
@@ -408,8 +433,19 @@
     });
     if (reset) {
       reset.addEventListener('click', function() {
-        root.querySelectorAll('[data-score-control] input').forEach(function(input) {
-          input.value = '1';
+        root.querySelectorAll('[data-score-control]').forEach(function(control) {
+          var key = control.getAttribute('data-score-control');
+          var input = control.querySelector('input');
+          if (input && Object.prototype.hasOwnProperty.call(defaultWeights, key)) {
+            input.value = String(defaultWeights[key]);
+          }
+        });
+        root.querySelectorAll('[data-score-rank-control]').forEach(function(control) {
+          var key = control.getAttribute('data-score-rank-control');
+          var input = control.querySelector('input');
+          if (input && Object.prototype.hasOwnProperty.call(defaultRankWeights, key)) {
+            input.value = String(defaultRankWeights[key]);
+          }
         });
         update();
       });

@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ravenna_Cattedrale_Metropo
 latitude: 44.364061
 loc_type: city
 longitude: 12.05901
-score: 8.79
+score: 6.397
 snippet: Adriatic city of Byzantine churches and vivid early Christian mosaics unmatched
   in Western Europe
 title: Ravenna
 type: location
+heritage: 7.901
+vibrancy: 4.488
+nature: 2.503
+off_the_beaten_track: 1.322
 ---
 
 Located on the Adriatic midway between [Venice](/europe/italy/veneto/venice) and [Florence](/europe/italy/tuscany/florence), Ravenna (pop. 136,000) is best known for the wonderful mosaic decoration of its churches and tombs — relics from its Byzantine past that have no equal in Western Europe.

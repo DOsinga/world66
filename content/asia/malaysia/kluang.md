@@ -7,7 +7,7 @@ done:
 latitude: 2.0323
 loc_type: city
 longitude: 103.3191
-score: 6.5
+score: 3.126
 title: Kluang
 type: location
 image: kluang.jpg
@@ -16,6 +16,10 @@ image_license: CC BY-SA 4.0
 image_attribution: Dominic Nelson
 snippet: Small Johor town known for strong local coffee, railway breakfasts, and a
   central Malaysian setting.
+heritage: 2.089
+vibrancy: 1.619
+nature: 3.56
+off_the_beaten_track: 4.212
 ---
 
 Kluang is a small town in the centre of Johor state, Peninsular Malaysia, known mainly among Malaysians for one thing: its coffee. [Kluang Rail Coffee](/asia/malaysia/kluang/kluang_rail_coffee) inside the [Kluang Railway Station](/asia/malaysia/kluang/kluang_railway_station) has been serving kopi (strong, sweet local coffee), kaya toast, and half-boiled eggs since the 1940s and is one of the most celebrated breakfast spots in the country. Food enthusiasts make the trip specifically for this breakfast, served from 7am to noon and again for afternoon tea.

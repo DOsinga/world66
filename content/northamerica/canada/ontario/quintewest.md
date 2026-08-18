@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Quinte_West_view_from_the_
 latitude: 44.098825
 loc_type: city
 longitude: -77.574855
-score: 6.16
+score: 4.534
 snippet: Bay of Quinte city where the Trent River meets Lake Ontario and the Trent-Severn
   begins.
 title: Quinte West
 type: location
+heritage: 3.433
+vibrancy: 2.854
+nature: 5.573
+off_the_beaten_track: 2.247
 ---
 
 Quinte West is a small city of about 45,000 at the western end of the Bay of Quinte, where the Trent River runs into Lake Ontario. It is a 2001 amalgamation of the old town of **Trenton** and the surrounding villages of Frankford, Sidney and Murray, and most travellers know it for two things: the southern terminus of the **Trent–Severn Waterway**, and **CFB Trenton**, the largest air base in the Canadian Forces.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:GardinerWSpring05apr2006_(
 latitude: 34.065846
 loc_type: city
 longitude: -117.64843
-score: 5.55
+score: 3.634
 snippet: Inland Empire city east of Los Angeles, grown from citrus groves around Euclid
   Avenue.
 title: Ontario
 type: location
+heritage: 2.93
+vibrancy: 2.767
+nature: 4.296
+off_the_beaten_track: 1.537
 ---
 
 Ontario sits at the western edge of the Inland Empire, just 35 miles east of downtown Los Angeles. The city grew up around its citrus groves and the grand Euclid Avenue, a wide boulevard modeled after the Champs-Elysees and still lined with trees.

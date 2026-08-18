@@ -2,15 +2,20 @@
 title: Jurien Bay
 type: location
 loc_type: city
-latitude: -30.3040
-longitude: 115.0390
-score: 7.3
-snippet: Coral Coast fishing town with sea lions, white beaches, wildflowers, and easy marine-park access.
+latitude: -30.304
+longitude: 115.039
+score: 5.964
+snippet: Coral Coast fishing town with sea lions, white beaches, wildflowers, and
+  easy marine-park access.
 wikidata: Q3811395
 sources:
-  - https://en.wikivoyage.org/wiki/Jurien_Bay
-  - https://www.westernaustralia.com/us/places/jurien-bay/56b266bd2880253d74c4ee21
-  - https://www.australiascoralcoast.com/destinations/indian-ocean-drive/jurien-bay
+- https://en.wikivoyage.org/wiki/Jurien_Bay
+- https://www.westernaustralia.com/us/places/jurien-bay/56b266bd2880253d74c4ee21
+- https://www.australiascoralcoast.com/destinations/indian-ocean-drive/jurien-bay
+heritage: 1.472
+vibrancy: 1.081
+nature: 7.635
+off_the_beaten_track: 5.275
 ---
 
 Jurien Bay is a fishing and holiday town on Western Australia's Coral Coast, about 220 km north of Perth. It still has a working crayfish industry, but travellers come for the water: pale sand, clear lagoons, sea-lion tours, and the protected reefs of [Jurien Bay Marine Park](/australiaandpacific/australia/westernaustralia/jurien_bay/jurien_bay_marine_park).

@@ -9,11 +9,15 @@ image_attribution: Zemzina on Flickr
 latitude: 60.4673
 loc_type: city
 longitude: 26.9459
-score: 6.94
+score: 4.943
 snippet: Gulf of Finland port town shaped by shipping, Kymijoki rapids, and the imperial
   fishing lodge.
 title: Kotka
 type: location
+heritage: 3.647
+vibrancy: 2.757
+nature: 6.116
+off_the_beaten_track: 2.063
 ---
 
 Kotka is a busy port town on the Gulf of Finland, about two hours east of Helsinki. Water defines the place — the harbour dominates the centre, a large part of the population works in shipping or related industries, and the Kymijoki river rushes through the outskirts with some impressively powerful rapids.

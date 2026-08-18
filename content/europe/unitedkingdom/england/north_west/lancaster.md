@@ -7,7 +7,7 @@ done:
 latitude: 54.0485
 loc_type: city
 longitude: -2.8014
-score: 7.32
+score: 5.816
 sources:
 - https://en.wikipedia.org/wiki/Lancaster,_Lancashire
 title: Lancaster
@@ -18,6 +18,10 @@ image: lancaster.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lancaster,_United_Kingdom_(Unsplash).jpg
 image_license: CC0
 image_attribution: Elliot Sloman esloman
+heritage: 6.659
+vibrancy: 5.145
+nature: 5.495
+off_the_beaten_track: 2.38
 ---
 
 Lancaster is a compact, historic city on the River Lune in northwest England, sitting between the Yorkshire Dales to the east and the Lake District to the north. It punches above its weight for history: [Lancaster Castle](/europe/unitedkingdom/england/north_west/lancaster/lancaster_castle) has loomed over the city since Norman times and only stopped functioning as a working prison in 2011, making it one of the longest-serving in England. The old quarter around the castle and the [Priory Church](/europe/unitedkingdom/england/north_west/lancaster/priory_church) is genuinely handsome, and the city has avoided the worst of modern redevelopment.

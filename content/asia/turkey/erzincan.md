@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Erzincan,_Erzincan_Merkez-
 latitude: 39.7464
 loc_type: city
 longitude: 39.4914
-score: 6.47
+score: 4.591
 snippet: Eastern Anatolian city in a mountain valley, near Seljuk tombs, Urartian
   ruins, and Girlevik Waterfall.
 title: Erzincan
 type: location
+heritage: 4.105
+vibrancy: 2.969
+nature: 5.376
+off_the_beaten_track: 5.228
 ---
 
 Erzincan is a city in eastern Anatolia, set in a broad valley between mountain ranges. It has been repeatedly devastated by earthquakes — most recently in 1992 — which is why the modern city looks newer than its history suggests. What survived, or was rebuilt, includes the [Mama Hatun Kümbeti](/asia/turkey/erzincan/mama_hatun_kumbeti) (a distinctive Seljuk tomb with a conical roof) and the ruins of [Altıntepe](/asia/turkey/erzincan/altintepe), a significant Urartian site about 20km east of the city.

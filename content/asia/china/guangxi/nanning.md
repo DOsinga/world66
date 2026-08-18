@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Nanning-China-You_Ai-str.j
 latitude: 22.819399
 loc_type: city
 longitude: 108.314917
-score: 6.82
+score: 3.809
 snippet: Guangxi capital near Vietnam, a subtropical Green City used as a relaxed
   southern China base.
 title: Nanning
 type: location
+heritage: 3.607
+vibrancy: 3.914
+nature: 3.0
+off_the_beaten_track: 1.729
 ---
 
 Nanning is the capital of Guangxi and the closest major Chinese city to Vietnam — a role that shapes its character more than any individual sight. The city calls itself the "Green City" for good reason: tropical vegetation fills the parks and median strips, and the subtropical climate keeps things lush year-round. It is not a destination you come to for spectacular sights, but as a base or transit point it works extremely well, and it has a relaxed, friendly atmosphere that many larger Chinese cities lack.

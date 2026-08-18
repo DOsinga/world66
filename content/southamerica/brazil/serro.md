@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -18.605
 longitude: -43.379
-score: 6.7
+score: 5.459
 snippet: Colonial Minas Gerais town known for baroque churches, steep streets, and
   Serro cheese.
 wikidata: Q919904
@@ -17,6 +17,10 @@ image: serro.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Prefeitura_camara_municipal_serro.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Halleypo
+heritage: 2.54
+vibrancy: 2.61
+nature: 6.754
+off_the_beaten_track: 5.593
 ---
 
 Serro is one of the old mining towns of Minas Gerais, smaller and quieter than nearby [Diamantina](/southamerica/brazil/diamantina) but cut from the same stone, whitewash, and steep-street cloth. Its historic centre is protected for its colonial architecture and landscape, and the town still feels tied to the old Estrada Real rather than to the faster Brazil beyond the hills.

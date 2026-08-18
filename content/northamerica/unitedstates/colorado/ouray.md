@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:DowntownOurayCO.jpg
 latitude: 38.0228
 loc_type: city
 longitude: -107.6717
-score: 8.52
+score: 6.466
 snippet: San Juan mountain town in a dramatic box canyon, with Victorian mining streets,
   hot springs, and ice climbing.
 title: Ouray
 type: location
+heritage: 3.953
+vibrancy: 5.48
+nature: 7.374
+off_the_beaten_track: 3.911
 ---
 
 Ouray sits at 2,400 meters in a box canyon carved by the Uncompahgre River in the San Juan Mountains of southwestern Colorado, and it is one of the most dramatically situated towns in the American West. The mountains rise precipitously on all four sides — you can be hiking above treeline within 30 minutes of leaving town — and the Victorian-era mining architecture survives largely intact, making Ouray feel both visually spectacular and genuinely historic in a way that many Colorado mountain towns don't.

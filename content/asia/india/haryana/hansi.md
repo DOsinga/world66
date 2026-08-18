@@ -5,11 +5,15 @@ done:
 latitude: 29.140992
 loc_type: city
 longitude: 75.978714
-score: 5.59
+score: 2.441
 snippet: Small Haryana city east of Hisar, centred on Asigarh Fort and layers of north
   Indian history.
 title: Hansi
 type: location
+heritage: 3.096
+vibrancy: 1.547
+nature: 1.403
+off_the_beaten_track: 1.439
 ---
 
 Hansi is a small city in Haryana's Hisar district, sitting about 26 km east of Hisar on National Highway 10. It's not a major tourist destination, but it has more history packed into it than you'd guess from the highway. The town was once grander than Hisar itself — a fortified centre that mattered to empires from the Tomars and Prithviraj Chauhan through the Mughals, Marathas, Sikhs, and finally the British.

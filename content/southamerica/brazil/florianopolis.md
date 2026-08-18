@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Morro_da_Cruz,_Florian%C3%
 latitude: -27.5973
 loc_type: city
 longitude: -48.54961
-score: 8.67
+score: 7.164
 snippet: Southern Brazilian island capital with more than a hundred beaches and a
   Portuguese colonial centre
 title: Florianópolis
 type: location
+heritage: 6.372
+vibrancy: 7.512
+nature: 6.265
+off_the_beaten_track: 2.433
 ---
 
 Florianópolis is the capital of Santa Catarina state in southern Brazil, straddling a mainland section and the Ilha de Santa Catarina — the island that holds most of what's worth seeing. The city has over a hundred beaches spread around the island's coastline, ranging from calm, family-friendly bays in the north to serious surf breaks in the south that draw Brazilians and Argentines throughout the summer. It also has a good old colonial quarter in the centre with baroque churches, an 18th-century historic museum, and old Portuguese forts.

@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:1062-mu-koh-lanta-national
 latitude: 7.573
 loc_type: city
 longitude: 99.042
-score: 9.02
+score: 5.656
 snippet: Laid-back Andaman island of forested hills, west-coast beaches, and a stilted
   Old Town.
 title: Koh Lanta
 type: location
+heritage: 3.438
+vibrancy: 4.017
+nature: 6.826
+off_the_beaten_track: 4.611
 ---
 
 Koh Lanta is the Thai island that people discover after they have had enough of the full-moon-party circuit. Part of an archipelago of 52 islands in the Andaman Sea off Krabi province, it is Ko Lanta Yai — the big island — that draws visitors: a long, hilly strip fringed by a dozen west-coast beaches, each one quieter than the last as you head south.

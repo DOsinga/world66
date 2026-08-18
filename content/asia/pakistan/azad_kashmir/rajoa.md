@@ -4,13 +4,17 @@ done:
 latitude: 33.3018
 loc_type: city
 longitude: 73.0482
-score: 4.4
+score: 6.218
 snippet: Azad Kashmir village tied to Mirpur's diaspora networks and the Baba Badar
   Shah shrine.
 sources:
 - https://en.wikipedia.org/wiki/Rajoa
 title: Rajoa
 type: location
+heritage: 3.128
+vibrancy: 0.95
+nature: 7.608
+off_the_beaten_track: 6.65
 ---
 
 Rajoa is a small village in Dadyal tehsil, within Mirpur District of Azad Kashmir. It is not a conventional travel stop, and most visitors will only come with family connections, local business, or a specific interest in the villages that feed Mirpur's enormous overseas diaspora.

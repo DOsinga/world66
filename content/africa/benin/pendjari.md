@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Bubale_roux_au_parc_nation
 latitude: 11.42
 loc_type: feature
 longitude: 1.4
-score: 8.2
+score: 6.315
 snippet: Northern Benin wildlife reserve in the Atakora foothills — West Africa's
   best stronghold for lion, elephant, and buffalo.
 sources:
 - https://en.wikipedia.org/wiki/Pendjari_National_Park
 title: Pendjari National Park
 type: location
+heritage: 1.711
+vibrancy: 0.958
+nature: 8.052
+off_the_beaten_track: 5.692
 ---
 
 Pendjari National Park is the wildlife heart of northern Benin and, alongside neighbouring W National Park in Burkina Faso and Niger, one of the last places in West Africa where the great savanna fauna still hangs on at scale. The park covers nearly 2,755 square kilometres of wooded savanna and gallery forest in the Atakora region, bounded by the Pendjari River to the north (which forms the border with Burkina Faso) and the Atakora escarpment to the south.

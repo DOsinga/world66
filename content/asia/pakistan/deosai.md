@@ -2,7 +2,7 @@
 latitude: 35.0394
 loc_type: feature
 longitude: 75.4419
-score: 9.3
+score: 6.515
 snippet: One of the world's highest plateaux, home to the Himalayan brown bear and
   vast summer wildflowers.
 title: Deosai National Park
@@ -11,6 +11,10 @@ image: deosai.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Deosai_National_Park,_Pakistan_-August.jpg
 image_license: CC BY-SA 4.0
 image_attribution: M.Awais
+heritage: 3.502
+vibrancy: 0.472
+nature: 7.99
+off_the_beaten_track: 6.906
 ---
 
 The Deosai Plains spread across a vast high-altitude basin south of Skardu, a treeless plateau sitting at an average elevation of around 4,100 metres that ranks among the highest in the world. The name is often translated as "the land of giants," and the scale of the place earns it: a rolling, seemingly empty expanse rimmed by snow peaks, cut by clear streams, and silent except for wind and birdsong. For much of the year it lies under deep snow and is completely cut off; the jeep tracks across it are open only from late June to early October.

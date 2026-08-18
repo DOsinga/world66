@@ -8,7 +8,7 @@ image: ''
 latitude: -25.4296
 loc_type: city
 longitude: -49.2713
-score: 7.63
+score: 5.667
 snippet: Well-planned Paraná capital known for parks, bus rapid transit, and layered
   immigrant neighbourhoods.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Botanical_Garden_of_Curitiba
 title: Curitiba
 type: location
+heritage: 3.808
+vibrancy: 5.86
+nature: 5.167
+off_the_beaten_track: 1.185
 ---
 
 Curitiba is the capital of Paraná state and one of Brazil's best-planned cities. While it lacks the drama of Rio or the energy of São Paulo, it is a genuinely pleasant place — clean, green, well-organised, and full of parks. The innovative bus rapid transit system, designed in the 1970s, became a model copied by cities worldwide.

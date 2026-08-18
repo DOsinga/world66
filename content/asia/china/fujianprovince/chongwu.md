@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Hui%27an_Chongwu_Cheng_201
 latitude: 24.9
 loc_type: feature
 longitude: 118.9
-score: 7.16
+score: 4.51
 snippet: Fujian coastal town enclosed by a remarkably intact Ming fortress facing
   the Taiwan Strait.
 sources:
 - https://en.wikivoyage.org/wiki/Chongwu
 title: Chongwu
 type: location
+heritage: 5.537
+vibrancy: 2.417
+nature: 3.612
+off_the_beaten_track: 2.24
 ---
 
 Chongwu is a small town on a sandy peninsula jutting into the Taiwan Strait in Hui'an County, within Quanzhou Prefecture. Its distinction is one of the best-preserved Ming Dynasty coastal fortresses in China — a complete walled town built in the 14th century to defend against Japanese pirates, whose grey granite ramparts and gate towers have survived in remarkably intact condition. It is an easy day trip from Quanzhou and far less visited than it deserves.

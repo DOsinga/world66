@@ -10,10 +10,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Ayuntamiento,_La_Coru%C3%B
 latitude: 43.37097
 loc_type: city
 longitude: -8.395943
-score: 8.16
+score: 6.143
 snippet: Atlantic Galician port city guarded by the Roman Torre de Hércules lighthouse
 title: La Coruña
 type: location
+heritage: 6.14
+vibrancy: 6.191
+nature: 4.757
+off_the_beaten_track: 1.7
 ---
 
 La Coruña (A Coruña in Galician) sits on a rocky peninsula in the far northwest of [Spain](/europe/spain), facing the Atlantic. The city's signature feature is the [Torre de Hércules](/europe/spain/galicia/lacoruna/torre_de_hercules), a Roman lighthouse that has been guiding ships for nearly 2,000 years — the oldest working lighthouse in the world, and a UNESCO World Heritage Site.

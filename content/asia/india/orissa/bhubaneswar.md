@@ -2,11 +2,15 @@
 latitude: 20.2961
 loc_type: city
 longitude: 85.8245
-score: 7.58
+score: 5.586
 snippet: Odisha capital and temple city, with hundreds of Kalinga-style shrines around
   the old religious quarter.
 title: Bhubaneswar
 type: location
+heritage: 6.362
+vibrancy: 5.01
+nature: 3.084
+off_the_beaten_track: 2.088
 ---
 
 Bhubaneswar is the capital of [Odisha](/asia/india/orissa) and earns its informal title as the City of Temples. The old religious district contains over 400 temples, the majority built in the distinctive Kalinga style — a curvilinear tower called a deul rising above a meeting hall, with intricately carved sandstone walls. The Lingaraj Temple, dedicated to Shiva and built in the eleventh century, is the most impressive: its tower climbs 55 metres and dominates the skyline. Non-Hindus are not permitted inside, but a viewing platform near the entrance gives a clear view. The Rajarani Temple, Mukteshwar Temple, and Parasurameswara Temple are all open to visitors and together show how Odishan temple architecture evolved over several centuries.

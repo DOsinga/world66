@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Atuel_Canyon_1.jpg
 latitude: -34.612603
 loc_type: city
 longitude: -68.330514
-score: 7.01
+score: 4.517
 snippet: Mendoza wine city in an orchard valley, base for Atuel Canyon and southern
   Andean excursions.
 title: San Rafael
 type: location
+heritage: 3.624
+vibrancy: 2.801
+nature: 5.466
+off_the_beaten_track: 3.973
 ---
 
 San Rafael is the second city of Mendoza province, sitting about 230 km south of Mendoza city in a valley of vineyards and fruit orchards at the foot of the Andes. It's a quieter, less polished version of Mendoza — around 175,000 people, a relaxed pace, and wine country on every side. Most travellers use it as a base for the [Atuel Canyon](/southamerica/argentina/san_rafael/atuel_canyon) or as a staging post for the ski resort at [Las Leñas](/southamerica/argentina/san_rafael/las_lenas).

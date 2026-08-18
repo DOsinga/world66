@@ -4,13 +4,17 @@ done:
 latitude: 37.78
 loc_type: feature
 longitude: 111.34
-score: 7.15
+score: 5.56
 snippet: Shanxi Taoist mountain above the Yellow River valley, with cliff temples
   and Tang-dynasty cave murals.
 sources:
 - https://en.wikivoyage.org/wiki/Shanxi
 title: Beiwudang Mountain
 type: location
+heritage: 7.243
+vibrancy: 2.321
+nature: 3.508
+off_the_beaten_track: 4.127
 ---
 
 Beiwudang Mountain rises from Fangshan County in Lüliang City, on the western edge of Shanxi above the Yellow River valley. The name means "Northern Wudang," drawing a deliberate parallel to the famous Wudang Mountains in Hubei — both are centres of Taoist practice, both are known for dramatic peaks and cliff-hanging temples, and Beiwudang makes a reasonable claim to being the northern counterpart in terms of religious significance. The mountain is sometimes called "the first mountain in Shanxi" for its 72 peaks and dramatic vertical relief.

@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: 33.5096
 longitude: 133.9106
-score: 6.3
-snippet: Small eastern Kōchi coast city with samurai lanes, a field clock, and castle ruins.
+score: 4.56
+snippet: Small eastern Kōchi coast city with samurai lanes, a field clock, and castle
+  ruins.
 sources:
-  - https://en.wikivoyage.org/wiki/Aki
-  - https://en.wikipedia.org/wiki/Aki,_K%C5%8Dchi
+- https://en.wikivoyage.org/wiki/Aki
+- https://en.wikipedia.org/wiki/Aki,_K%C5%8Dchi
+heritage: 3.42
+vibrancy: 3.528
+nature: 5.363
+off_the_beaten_track: 2.254
 ---
 
 Aki is a small city on the Pacific side of eastern Kōchi Prefecture, easy to miss if you are racing between [Kōchi](/asia/japan/shikoku/kochi) and Cape Muroto. It is not a big-ticket stop, but it has a compact cluster of old Tosa sights that make a good half-day if you are already in the region.

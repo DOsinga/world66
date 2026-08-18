@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ganish_hunza_in_summers.JP
 latitude: 36.3131
 loc_type: city
 longitude: 74.6684
-score: 7.06
+score: 6.156
 snippet: Hunza Valley village on the old Silk Road, preserving stone houses, watchtowers,
   and historic mosques
 title: Ganish
 type: location
+heritage: 5.279
+vibrancy: 0.934
+nature: 7.304
+off_the_beaten_track: 6.896
 ---
 
 Ganish is the oldest settlement in the Hunza Valley, perched on flat land near the Hunza River at an altitude of about 2,300 metres. The village sits on the ancient Silk Road and has been recognised by UNESCO for its cultural heritage — the historic core of tightly packed stone houses, watchtowers, and mosques is remarkably well preserved.

@@ -5,13 +5,17 @@ done:
 latitude: 30.832702
 loc_type: city
 longitude: -83.278485
-score: 5.95
+score: 4.345
 snippet: South Georgia stopover city near Florida, with university life and Wild Adventures
   on its edge.
 sources:
 - https://en.wikipedia.org/wiki/Valdosta,_Georgia
 title: Valdosta
 type: location
+heritage: 2.632
+vibrancy: 3.314
+nature: 5.133
+off_the_beaten_track: 1.633
 ---
 
 Valdosta is a mid-size city in the southernmost corner of Georgia, about 15 miles from the Florida border on I-75. It's primarily a stopover town for travelers heading to or from Florida. Valdosta State University gives it some student energy, and there are decent shopping and dining options for a rest stop.

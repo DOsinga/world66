@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Ch%C3%A2te
 latitude: 47.6161
 loc_type: feature
 longitude: 1.517
-score: 9.12
+score: 5.848
 snippet: Royal Loire château in Sologne forest, all towers, chimneys, dormers, and
   a double-helix staircase.
 title: Chambord
 type: location
+heritage: 7.715
+vibrancy: 1.707
+nature: 3.471
+off_the_beaten_track: 2.651
 ---
 
 Chambord is probably the second most famous chateau in France after [Versailles](/europe/france/ile_de_france/versailles), and arguably the more impressive of the two — a fantasy of towers, chimneys, and dormers rising from the flat Sologne forest. Begun in 1519 for King Francis I, the castle is square-shaped with a central keep connected to the outer wings by galleries. Inside the keep, a famous double-helix spiral staircase — widely attributed to Leonardo da Vinci — allows two people to ascend simultaneously without ever meeting.

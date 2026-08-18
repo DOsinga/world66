@@ -16,7 +16,7 @@ quick_facts:
   Patuxai: Built from 'runway' cement
   Population: ~950,000
   That Luang: Golden national symbol
-score: 8.02
+score: 5.634
 snippet: Laid-back Mekong capital of Laos, with French-Lao streets, gilded temples,
   and riverside evenings.
 tip: Vientiane is one of the most laid-back capitals in Asia — small, riverside and
@@ -26,6 +26,10 @@ tip: Vientiane is one of the most laid-back capitals in Asia — small, riversid
   and easy.
 title: Vientiane
 type: location
+heritage: 6.698
+vibrancy: 4.483
+nature: 3.765
+off_the_beaten_track: 3.852
 ---
 
 Southeast Asia's smallest and most laid-back capital sits on a bend in the Mekong, gazing across the river at Thailand. With around 800,000 people, Vientiane feels more like a large provincial town than a national capital -- and that is its charm. Tree-lined boulevards, crumbling French colonial mansions, and gilded Buddhist temples share space with rice paddies and vegetable gardens that somehow survive within the city limits.

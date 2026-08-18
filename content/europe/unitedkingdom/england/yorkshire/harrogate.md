@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Entrance_to_Valley_Gardens
 latitude: 53.992149
 loc_type: city
 longitude: -1.539104
-score: 8.25
+score: 5.465
 snippet: Victorian spa town in North Yorkshire, built around mineral springs and formal
   gardens.
 sources:
@@ -16,6 +16,10 @@ sources:
 title: Harrogate
 type: location
 image_attribution: Neil Theasby
+heritage: 6.285
+vibrancy: 4.779
+nature: 4.105
+off_the_beaten_track: 1.499
 ---
 
 Harrogate is a handsome Victorian spa town in North Yorkshire, one of England's most elegant and self-assured small cities. The town grew rich in the 18th and 19th centuries on the strength of its mineral springs — visitors came from across Europe to "take the waters" — and the legacy shows everywhere: in the broad tree-lined avenues, the immaculate public gardens, the confident stone architecture, and a civic pride that keeps everything polished and well-planted.

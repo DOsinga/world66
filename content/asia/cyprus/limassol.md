@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Skyscrapers_in_Limassol.jp
 latitude: 34.68529
 loc_type: city
 longitude: 33.033266
-score: 8.51
+score: 6.397
 snippet: Southern Cypriot port city with a seafront promenade and a medieval core
   around Limassol Castle.
 title: Limassol
 type: location
+heritage: 6.095
+vibrancy: 6.56
+nature: 5.885
+off_the_beaten_track: 1.93
 ---
 
 Limassol (Lemessos in Greek) is Cyprus's second city and its main port — a busy, modern place that manages to combine industrial significance with a genuinely pleasant old town, a long seafront, and some of the best day-trip archaeology in the Eastern Mediterranean. Most visitors use it as a base for reaching [Kourion](/asia/cyprus/limassol/kourion), [Kolossi Castle](/asia/cyprus/limassol/kolossi_castle), and [Ancient Amathous](/asia/cyprus/limassol/amathous) rather than as a destination in itself, but the city rewards a couple of days of its own.

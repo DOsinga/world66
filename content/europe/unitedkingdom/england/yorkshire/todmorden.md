@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:View_from_Watty_Lane,_Todm
 latitude: 53.713725
 loc_type: city
 longitude: -2.097753
-score: 6.53
+score: 4.216
 snippet: Pennine market town in Calderdale, where an Italianate town hall once straddled
   Yorkshire and Lancashire
 sources:
@@ -18,6 +18,10 @@ tags:
 - south_pennines
 title: Todmorden
 type: location
+heritage: 3.414
+vibrancy: 2.264
+nature: 5.088
+off_the_beaten_track: 2.832
 ---
 
 Todmorden sits at the far west of West Yorkshire, at a point where the county boundary with Lancashire once ran beneath the town's grand Italianate [town hall](/europe/unitedkingdom/england/yorkshire/todmorden/todmorden_town_hall) — a building that straddles two counties. Now part of [Calderdale](/europe/unitedkingdom/england/yorkshire/calderdale), the town occupies a steep Pennine valley where the River Calder and several tributaries meet, hemmed in by moorland that rises sharply from the mill-era terraces.

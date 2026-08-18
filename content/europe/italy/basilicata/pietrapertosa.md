@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 40.5173
 longitude: 16.0624
-score: 0.45
+score: 6.074
 snippet: Lucanian Dolomites village wedged below sandstone peaks and a ruined Saracen
   castle.
 sources:
@@ -14,6 +14,10 @@ image: pietrapertosa.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Castello_normanno_-_Pietrapertosa_01.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Camelia.boban
+heritage: 6.173
+vibrancy: 2.353
+nature: 6.798
+off_the_beaten_track: 4.071
 ---
 
 Pietrapertosa is one of Basilicata's most dramatic villages, built directly under the jagged sandstone towers of the Lucanian Dolomites. From below, the houses seem to climb into the rock; from the top of the village, the view opens across a rough mountain landscape that feels much larger than this small corner of southern Italy.

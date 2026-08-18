@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Nuraghe_Su_Nuraxi_-_Barumi
 latitude: 39.705867
 loc_type: city
 longitude: 8.990894
-score: 8.33
+score: 4.59
 snippet: Bronze Age Nuragic site in Sardinia, centred on the fortress-like Su Nuraxi
   complex at Barumini.
 title: Su Nuraxi di Barumini
 type: location
+heritage: 5.871
+vibrancy: 1.415
+nature: 3.144
+off_the_beaten_track: 3.608
 ---
 
 If you choose one ancient nuraghe to visit, make it [Su Nuraxi](/europe/italy/sardinia/sunuraxi/su_nuraxi_nuraghe). It gives you the best sense of the primitive grandeur of Sardinia's only indigenous Bronze Age civilisation. A UNESCO World Heritage Site, it's the largest and probably the oldest nuraghic complex on the island, dating from around 1500 BC.

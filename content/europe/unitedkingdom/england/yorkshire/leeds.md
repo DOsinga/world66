@@ -7,7 +7,7 @@ done:
 latitude: 53.7974
 loc_type: city
 longitude: -1.5438
-score: 7.34
+score: 6.053
 snippet: Northern English city of commerce and universities, with Victorian arcades
   and broad urban parkland.
 title: Leeds
@@ -16,6 +16,10 @@ image: leeds.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Leeds_(England,_United_Kingdom)_2025-8.jpg
 image_license: CC BY 4.0
 image_attribution: Jorge Franganillo
+heritage: 6.154
+vibrancy: 6.06
+nature: 3.593
+off_the_beaten_track: 1.25
 ---
 
 Leeds is the principal city of northern [England](/europe/unitedkingdom/england), a commercial and cultural centre that has reinvented itself from its industrial past into one of the most dynamic cities in the country. It sits at the crossroads where the main north-south and east-west motorways and railways meet, making it easy to reach from anywhere in Britain.

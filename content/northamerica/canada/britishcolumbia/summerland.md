@@ -2,14 +2,19 @@
 latitude: 49.6006
 loc_type: city
 longitude: -119.6778
-score: 7.2
-snippet: Okanagan lake town of beaches, orchards, vineyards, and a restored steam railway.
+score: 4.73
+snippet: Okanagan lake town of beaches, orchards, vineyards, and a restored steam
+  railway.
 sources:
-  - https://en.wikivoyage.org/wiki/Summerland
-  - https://en.wikipedia.org/wiki/Summerland,_British_Columbia
-  - https://www.wikidata.org/wiki/Q984379
+- https://en.wikivoyage.org/wiki/Summerland
+- https://en.wikipedia.org/wiki/Summerland,_British_Columbia
+- https://www.wikidata.org/wiki/Q984379
 title: Summerland
 type: location
+heritage: 2.066
+vibrancy: 2.225
+nature: 6.256
+off_the_beaten_track: 2.666
 ---
 
 Summerland is a small Okanagan town on the west side of Okanagan Lake, between Kelowna and Penticton. It has the lake-and-vineyard pleasures of the valley, but with a quieter feel than its bigger neighbours.

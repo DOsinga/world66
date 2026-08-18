@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Malvarrosa_Beach,_Valencia
 latitude: 39.4697
 loc_type: city
 longitude: -0.3763
-score: 9.21
+score: 7.46
 snippet: Mediterranean Spanish city where paella, Gothic silk-trade wealth, and Turia
   gardens define the centre.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Valencia
 title: Valencia
 type: location
+heritage: 6.208
+vibrancy: 7.992
+nature: 4.577
+off_the_beaten_track: 2.095
 ---
 
 Valencia is Spain's third-largest city but one of its most underrated. It has the Mediterranean climate, the beaches, and the nightlife of Barcelona without the crowds or the prices — and it is the birthplace of paella, which alone is reason enough to visit.

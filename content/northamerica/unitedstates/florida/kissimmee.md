@@ -7,12 +7,16 @@ title: Kissimmee
 snippet: Central Florida city just south of Orlando, serving as a budget gateway to
   Walt Disney World.
 type: location
-score: 7.26
+score: 6.119
 loc_type: city
 image: kissimmee.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kissimmee_Trail_over_N_John_Young_Pkwy.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Michael Rivera
+heritage: 3.76
+vibrancy: 6.455
+nature: 5.251
+off_the_beaten_track: 0.964
 ---
 
 Kissimmee sits just south of [Orlando](/northamerica/unitedstates/florida/orlando) and serves as the budget-friendly gateway to Walt Disney World, whose main entrance is minutes away. Most visitors come for the theme parks, and the strip along US-192 (Irlo Bronson Memorial Highway) is lined with motels, restaurants, and tourist shops that cater to families looking to save on accommodation.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2018_-_Basilique_Notre-Dam
 latitude: 43.0941
 loc_type: city
 longitude: -0.0465
-score: 8.29
+score: 6.283
 snippet: Pyrenean pilgrimage town centred on Bernadette Soubirous's grotto and the
   spring at the Gave de Pau.
 sources:
@@ -19,6 +19,10 @@ tags:
 - pyrenees
 title: Lourdes
 type: location
+heritage: 7.737
+vibrancy: 4.455
+nature: 3.609
+off_the_beaten_track: 2.064
 ---
 
 Lourdes is a small Pyrenean town of some 15,000 people that attracts five million pilgrims and tourists from 150 countries each year, making it the second most important hotel city in France after Paris, with over 270 hotels and 13 campsites.

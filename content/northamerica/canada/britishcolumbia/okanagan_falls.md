@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 49.3447
 longitude: -119.5718
-score: 6.9
-snippet: Small South Okanagan lake village below Skaha Lake, with cliffs, birds, and wine.
+score: 4.95
+snippet: Small South Okanagan lake village below Skaha Lake, with cliffs, birds, and
+  wine.
 sources:
-  - https://en.wikivoyage.org/wiki/Okanagan_Falls
-  - https://en.wikipedia.org/wiki/Okanagan_Falls
-  - https://bcparks.ca/sxwexwnitkw-park/
-  - https://bcparks.ca/mahoney-lake-ecological-reserve/
+- https://en.wikivoyage.org/wiki/Okanagan_Falls
+- https://en.wikipedia.org/wiki/Okanagan_Falls
+- https://bcparks.ca/sxwexwnitkw-park/
+- https://bcparks.ca/mahoney-lake-ecological-reserve/
+heritage: 2.482
+vibrancy: 2.939
+nature: 6.253
+off_the_beaten_track: 1.815
 ---
 
 Okanagan Falls is a small place at the south end of Skaha Lake, where the old falls have mostly disappeared under the lake-control works. That sounds like a weak start, but the surrounding landscape is the real story: dry cliffs, warm water, vineyards, bird habitat, and strange little ecological pockets.

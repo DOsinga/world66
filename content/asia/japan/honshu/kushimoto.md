@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 33.4667
 longitude: 135.7833
-score: 7.4
-snippet: Southernmost town on Honshu, with sea stacks, coral water, lighthouses, and shipwreck history.
+score: 5.013
+snippet: Southernmost town on Honshu, with sea stacks, coral water, lighthouses, and
+  shipwreck history.
 sources:
-  - https://en.wikivoyage.org/wiki/Kushimoto
-  - https://visitwakayama.jp/en/shirahama_kushimoto
-  - https://visitwakayama.jp/en/attractions/detail_680.html
+- https://en.wikivoyage.org/wiki/Kushimoto
+- https://visitwakayama.jp/en/shirahama_kushimoto
+- https://visitwakayama.jp/en/attractions/detail_680.html
 wikidata: Q1343733
+heritage: 3.654
+vibrancy: 2.51
+nature: 6.221
+off_the_beaten_track: 3.247
 ---
 
 Kushimoto sits at the southern tip of [Honshu](/asia/japan/honshu), where the Kii Peninsula narrows into capes, islands, reefs, and Pacific water. It is remote by Kansai standards, but the distance is part of the appeal: the town feels like the end of the main island, with a coastline that is sharper and wilder than the better-known cities around Osaka Bay.

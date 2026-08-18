@@ -14,7 +14,7 @@ quick_facts:
   Blue Grotto: Glows electric blue
   Monte Solaro: 589 m
   Roman Retreat: Emperor Tiberius' villas
-score: 9.43
+score: 6.174
 snippet: Rocky Bay of Naples island with Roman imperial ruins, cliff paths, and long
   literary associations.
 tip: Capri fills with day-trippers from mid-morning; stay overnight or come early
@@ -24,6 +24,10 @@ tip: Capri fills with day-trippers from mid-morning; stay overnight or come earl
   half.
 title: Capri
 type: location
+heritage: 5.543
+vibrancy: 5.71
+nature: 6.811
+off_the_beaten_track: 1.827
 ---
 
 Capri is a small, almost entirely rocky island in the Bay of Naples, off the southern tip of the **Sorrento peninsula**. Only 10 square kilometres in area, it has been a magnet for the wealthy, the famous and the merely curious since the Roman emperors **Augustus** and **Tiberius** built twelve villas on the island in the 1st century CE — Tiberius spent the last ten years of his reign on Capri, ruling the Roman Empire from the cliff-top villa now known as [Villa Jovis](/europe/italy/campania/capri/villa_jovis), whose ruins can still be visited. Since then the list of people who have hidden out here has included Lenin, Maxim Gorky, Graham Greene, Jackie Kennedy, and half the movie stars of the 1950s and 1960s. In high summer the day-trip crowds from Naples and Sorrento can be overwhelming; out of season, it is still one of the loveliest places in Italy.

@@ -14,7 +14,11 @@ snippet: Anhui mountain reserve around the Heavenly Pillar peak, with granite fo
   away from Huang Shan crowds.
 title: Tianzhu Mountain
 type: location
-score: 7.83
+score: 5.95
+heritage: 5.798
+vibrancy: 2.617
+nature: 6.765
+off_the_beaten_track: 3.731
 ---
 
 Tianzhu Mountain, the Heavenly Pillar, gave Anhui Province its abbreviated name — the character "Wan" in the province's informal designation derives from this peak, which was considered the spiritual anchor of the region. At 1,760 meters it is one of the highest summits in Anhui and ranks as an ultra-prominent peak in the Asian classification system. It sits in Qianshan County, near the city of Anqing in the western part of the province, away from the tourist circuits of the south. That distance from Huang Shan and the ancient villages is part of its appeal: the crowds that fill the cable cars on the Yellow Mountains in summer are largely absent here.

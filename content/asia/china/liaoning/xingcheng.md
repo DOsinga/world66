@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Xingcheng_East_Gate.jpg
 latitude: 40.6148
 loc_type: city
 longitude: 120.7283
-score: 6.67
+score: 4.347
 snippet: Bohai Sea city with one of China's best-preserved Ming Dynasty walled old
   towns
 sources:
 - https://en.wikivoyage.org/wiki/Xingcheng
 title: Xingcheng
 type: location
+heritage: 4.149
+vibrancy: 2.873
+nature: 4.979
+off_the_beaten_track: 1.703
 ---
 
 Xingcheng is a small city on the Bohai Sea coast that has the rare distinction of possessing one of the best-preserved Ming Dynasty walled cities in China. The [ancient city](/asia/china/liaoning/xingcheng/xingcheng_old_town), completed in 1428, is a genuine grid of grey-brick streets within intact walls, its four gates still standing, its Confucian temple and drum tower still in place. Unlike many "ancient cities" across China, Xingcheng Old Town has not been theme-parked into irrelevance — people still live there and the lanes between the preserved monuments are ordinary residential streets.

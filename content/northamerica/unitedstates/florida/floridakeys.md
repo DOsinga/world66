@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Florida_Keys_(from_Key_Wes
 latitude: 24.6669
 loc_type: feature
 longitude: -81.5442
-score: 7.66
+score: 6.258
 snippet: Coral-cay archipelago of reef water, low islands, bridges, and unrushed tropical
   Florida.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Overseas_Highway
 title: Florida Keys
 type: location
+heritage: 5.675
+vibrancy: 3.737
+nature: 7.294
+off_the_beaten_track: 3.211
 ---
 
 The Florida Keys are a chain of coral and limestone islands trailing southwest from the end of the Florida mainland to [Key West](/northamerica/unitedstates/florida/keywest). They feel less like ordinary Florida than a long, salt-stained road trip: mangroves, shallow flats, weathered marinas, dive flags, old railroad bridges, and water on both sides of the highway.

@@ -4,7 +4,7 @@ done:
 latitude: 49.65
 loc_type: island
 longitude: -125.45
-score: 7.78
+score: 5.744
 snippet: Large Pacific island of rainforests, surf beaches, First Nations culture,
   and laid-back harbour towns.
 sources:
@@ -17,6 +17,10 @@ image: vancouverisland.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Campsite_at_Mystic_Beach,_Vancouver_Island,_Canada.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Michal Klajban
+heritage: 4.147
+vibrancy: 3.254
+nature: 7.145
+off_the_beaten_track: 3.408
 ---
 
 *North America > Canada > British Columbia > Vancouver Island*

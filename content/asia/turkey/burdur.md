@@ -4,7 +4,7 @@ loc_type: city
 longitude: 30.2833
 original_overview: Sleepy Lakes District market town north of Antalya, with a strong
   archaeology museum, a karst show cave, and access to Burdur's alkaline lake country.
-score: 5.9
+score: 5.114
 snippet: Lakes District market town with Sagalassos finds, a karst cave, and alkaline
   lake scenery.
 sources:
@@ -16,6 +16,10 @@ image: burdur.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Burdur_manzara_-_panoramio.jpg
 image_license: CC BY 3.0
 image_attribution: Nihat1988
+heritage: 5.679
+vibrancy: 3.693
+nature: 5.455
+off_the_beaten_track: 4.481
 ---
 
 Burdur is a quiet market town in Turkey's Lakes District, about 130 kilometres inland from Antalya. It has never been a showpiece city. Earthquakes removed much of the older fabric, the castle has vanished, and the centre is practical rather than pretty. What makes Burdur worth considering is the landscape and archaeology around it.

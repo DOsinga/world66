@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Broadway_Cinema_Letchworth
 latitude: 51.978
 loc_type: city
 longitude: -0.23
-score: 6.61
+score: 3.157
 snippet: Hertfordshire garden city where early town planning ideals still shape broad
   avenues, greens, and civic buildings.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/The_Cloisters_(Letchworth)
 title: Letchworth Garden City
 type: location
+heritage: 4.023
+vibrancy: 1.965
+nature: 2.161
+off_the_beaten_track: 1.227
 ---
 
 Letchworth Garden City is not the prettiest town in Hertfordshire, but it is one of the most interesting. Founded in the early 20th century as the world's first garden city, it was built around the idea that workers should have green space, decent housing, civic amenities, and industry planned together rather than thrown at each other.

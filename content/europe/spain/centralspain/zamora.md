@@ -5,11 +5,15 @@ done:
 latitude: 41.685769
 loc_type: city
 longitude: -5.942315
-score: 7.97
+score: 5.908
 snippet: Duero River city in Castile, noted for an exceptional concentration of Romanesque
   churches.
 title: Zamora
 type: location
+heritage: 7.299
+vibrancy: 4.143
+nature: 3.272
+off_the_beaten_track: 2.515
 ---
 
 Zamora is probably the least well known of Spain's grand old cities, overlooked in favour of nearby [Salamanca](/europe/spain/centralspain/salamanca) and León. That is a shame, because it is a handsome place on a hill above the Duero River with more Romanesque churches per square kilometre than anywhere else in Spain.

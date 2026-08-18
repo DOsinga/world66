@@ -10,11 +10,15 @@ image_source: https://www.flickr.com/photos/96241794@N03/30186227862
 latitude: -21.456444
 loc_type: city
 longitude: 47.085149
-score: 6.39
+score: 5.355
 snippet: Hilly Malagasy highland city and starting point for the scenic narrow-gauge
   train to Manakara.
 title: Fianarantsoa
 type: location
+heritage: 3.033
+vibrancy: 2.023
+nature: 6.612
+off_the_beaten_track: 5.53
 ---
 
 Fianarantsoa is the largest town in the southern highlands of Madagascar and the capital of the province of the same name. Like all of Madagascar's highland towns it is steeply hilly, built across ridges that rise sharply from the surrounding plateau — so be prepared for some serious climbs.

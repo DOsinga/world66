@@ -11,7 +11,11 @@ sources:
 - https://en.wikipedia.org/wiki/Phra_Mahathat_Kaen_Nakhon
 title: Khon Kaen
 type: location
-score: 6.0
+score: 4.264
+heritage: 4.705
+vibrancy: 4.129
+nature: 3.972
+off_the_beaten_track: 3.067
 ---
 
 Khon Kaen is one of the main cities of Isan, Thailand's northeast: large, educated, practical, and much less arranged around foreign visitors than Chiang Mai or the southern beaches. It is a transport hub, university town, medical centre, and provincial capital all at once.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Woman_beggar_in_Guanajuato
 latitude: 21.019
 loc_type: city
 longitude: -101.2574
-score: 9.38
+score: 5.679
 snippet: Colonial silver city in a central Mexican ravine, threaded by tunnels and
   steep painted alleys
 title: Guanajuato
 type: location
+heritage: 6.794
+vibrancy: 4.431
+nature: 3.09
+off_the_beaten_track: 2.505
 ---
 
 Guanajuato is one of Mexico's most beautiful colonial cities, and one of the most dramatically situated — built into a narrow ravine in the mountains of central Mexico, with streets so steep and winding that the city had to run its main traffic underground through a network of tunnels carved into former riverbeds. It's a UNESCO World Heritage city and looks the part: a dense tangle of coloured facades, baroque churches, and cobbled alleys stacked up the hillsides.

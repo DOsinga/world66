@@ -5,7 +5,7 @@ longitude: 11.3877
 quick_facts:
   Founded: 1665, as Fredrikshald
   Population: ~31,000
-score: 7.0
+score: 4.516
 snippet: Fortified border town on a fjord arm, dominated by the hilltop Fredriksten
   fortress
 sources:
@@ -17,6 +17,10 @@ image: halden.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Blick_auf_Halden_2.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Zairon
+heritage: 5.052
+vibrancy: 3.736
+nature: 4.735
+off_the_beaten_track: 2.292
 ---
 
 Halden sits at the innermost end of a narrow fjord arm right on the Swedish border, and its whole identity is shaped by that position. King Frederik III founded the town in 1665 as Fredrikshald, built to hold the border after Sweden had seized the province of Bohuslän to the south. It kept that name until 1928, when it reverted to the older Halden.

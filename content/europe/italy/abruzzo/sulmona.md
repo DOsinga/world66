@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_di_Sulmona.jpg
 latitude: 42.047423
 loc_type: city
 longitude: 13.927011
-score: 8.19
+score: 4.722
 snippet: Abruzzo mountain town in the Peligna Valley, known for Ovid, medieval squares,
   and sugared almonds.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Hermitage_of_Sant%27Onofrio_al_Morrone
 title: Sulmona
 type: location
+heritage: 4.975
+vibrancy: 2.031
+nature: 5.211
+off_the_beaten_track: 3.173
 ---
 
 Sulmona sits in the Peligna Valley in central [Abruzzo](/europe/italy/abruzzo), ringed by mountains and closer to the wild heart of the Apennines than almost any other Italian town of its size. It is the natural base for exploring the Maiella National Park and the surrounding highlands.

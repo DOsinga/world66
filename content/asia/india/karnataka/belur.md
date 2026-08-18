@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Friezes_at_the_Chennakesav
 latitude: 13.1629
 loc_type: city
 longitude: 75.8571
-score: 7.22
+score: 6.659
 snippet: Hoysala temple town in Hassan district, centred on the carved Chennakeshava
   complex.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://whc.unesco.org/document/192644
 title: Belur
 type: location
+heritage: 8.414
+vibrancy: 4.29
+nature: 2.731
+off_the_beaten_track: 2.293
 ---
 
 Belur is a small town with one extraordinary reason to visit: the [Chennakeshava Temple](/asia/india/karnataka/belur/chennakeshava_temple), one of the finest surviving works of Hoysala architecture. The temple was commissioned in 1117 CE by King Vishnuvardhana and is now part of UNESCO's Sacred Ensembles of the Hoysalas, along with Halebidu and Somanathapura.

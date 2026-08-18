@@ -5,13 +5,17 @@ done:
 latitude: 51.8313
 loc_type: city
 longitude: 12.2442
-score: 6.59
+score: 5.767
 snippet: Small Elbe city where Bauhaus modernism and the Dessau-Wörlitz Garden Kingdom
   share UNESCO status.
 sources:
 - https://en.wikipedia.org/wiki/Dessau-Ro%C3%9Flau
 title: Dessau
 type: location
+heritage: 7.385
+vibrancy: 3.517
+nature: 2.852
+off_the_beaten_track: 2.096
 ---
 
 Dessau is where modernism put down roots. The Bauhaus school moved here from Weimar in 1925, and the buildings Walter Gropius designed for it — the Bauhaus Building, the Meisterhäuser, the Kornhaus — still stand as a UNESCO World Heritage Site. If you care about architecture and design, this small city on the Elbe is a genuine pilgrimage.

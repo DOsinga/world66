@@ -5,7 +5,7 @@ done:
 latitude: 17.4349
 loc_type: city
 longitude: -92.2248
-score: 5.83
+score: 4.906
 snippet: Small northern Chiapas town used as the lowland gateway to the turquoise
   Cascadas de Agua Azul.
 sources:
@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Salto_de_Agua,_Chiapas
 title: Salto de Agua
 type: location
+heritage: 3.425
+vibrancy: 1.883
+nature: 6.152
+off_the_beaten_track: 3.874
 ---
 
 Salto de Agua is a small town in northern Chiapas, primarily known as the jumping-off point for the Cascadas de Agua Azul — a series of stunning turquoise waterfalls that are among the most visited natural attractions in southern Mexico. The falls are about 60 kilometres south of town along a winding road through the jungle.

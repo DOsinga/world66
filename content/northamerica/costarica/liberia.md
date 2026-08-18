@@ -4,9 +4,13 @@ type: location
 loc_type: city
 latitude: 10.6321
 longitude: -85.44
-score: 7.34
+score: 4.533
 snippet: Guanacaste cattle-country capital at the road junction for Costa Rica's Pacific
   beaches.
+heritage: 1.902
+vibrancy: 1.832
+nature: 5.954
+off_the_beaten_track: 3.515
 ---
 
 Liberia is the capital of Guanacaste province in northwestern Costa Rica, a sprawling cattle-country town at the junction of the Inter-American Highway and the road to the Nicoya Peninsula. It is mostly a transit point — the Liberia International Airport connects directly to North America, making it the entry point for visitors heading to the Pacific beaches of Guanacaste and the Nicoya coast — but it has enough of its own to justify a night or two.

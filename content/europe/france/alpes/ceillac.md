@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ceillac.jpg
 latitude: 44.6683
 loc_type: city
 longitude: 6.778
-score: 8.17
+score: 6.015
 snippet: Quiet Queyras alpine village with painted sundials, separate ski slopes,
   and trails to high mountain lakes.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Lac_Miroir
 title: Ceillac
 type: location
+heritage: 1.451
+vibrancy: 1.401
+nature: 7.556
+off_the_beaten_track: 5.79
 ---
 
 Ceillac is one of the first villages you reach in the [Queyras](/europe/france/alpes/queyras) regional park, a quiet corner of the southern French Alps near the Italian border. There is a [small ski resort](/europe/france/alpes/ceillac/ceillac_ski_resort), but it has been kept separate from and above the main village, so the settlement retains its mountain character.

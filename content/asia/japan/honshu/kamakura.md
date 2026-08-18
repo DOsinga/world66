@@ -13,7 +13,7 @@ quick_facts:
   Great Buddha: 13.4 m, now open-air
   Surf Beach: Tokyo's nearest
   Temples: 65+ in the hills
-score: 9.45
+score: 6.397
 snippet: Ancient Japanese warrior capital where Zen temples and samurai history sit
   between wooded hills and the sea.
 tip: Kamakura's Great Buddha sits in the open air — its wooden hall was washed away
@@ -22,6 +22,10 @@ tip: Kamakura's Great Buddha sits in the open air — its wooden hall was washed
   alternative to Kyoto's. Hike the old trails between temples to escape the crowds.
 title: Kamakura
 type: location
+heritage: 7.79
+vibrancy: 4.716
+nature: 3.511
+off_the_beaten_track: 1.831
 ---
 
 Kamakura is the ancient warrior capital of Japan, a city that ruled the country for nearly a century and a half from its fortified position on the Miura Peninsula south of Tokyo. Ringed on three sides by forested hills and open to the sea on the fourth, it is one of the most naturally defensible cities in Japan — and one of the most beautiful. Samurai history, Zen Buddhism, and excellent coastal scenery combine here in a way found nowhere else.

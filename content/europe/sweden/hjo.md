@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Hjo,_Hamngatan,_den_7_juni
 latitude: 58.3
 loc_type: city
 longitude: 14.2833
-score: 7.51
+score: 4.76
 snippet: Lakeside wooden town on Lake Vättern, preserving medieval street patterns
   and nineteenth-century timber buildings.
 title: Hjo
 type: location
+heritage: 5.029
+vibrancy: 2.45
+nature: 5.247
+off_the_beaten_track: 2.278
 ---
 
 Hjo is one of Sweden's finest surviving wooden towns, a compact lakeside community on the eastern shore of Lake Vättern that has changed remarkably little since the 19th century. Where many Swedish towns were rebuilt in brick after fires or wartime clearances, Hjo escaped major destruction and kept its narrow medieval street pattern and its timber buildings intact. Walking the alleys here feels less like a preserved heritage attraction and more like a town that simply never needed to rebuild.

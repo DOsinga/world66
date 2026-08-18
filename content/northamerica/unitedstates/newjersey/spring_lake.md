@@ -2,11 +2,15 @@
 latitude: 40.157642
 loc_type: city
 longitude: -74.030169
-score: 7.8
+score: 4.375
 snippet: Quiet, wealthy Victorian Shore town immediately south of Belmar, with an
   uncluttered boardwalk and a freshwater lake at its centre.
 title: Spring Lake
 type: location
+heritage: 1.927
+vibrancy: 3.346
+nature: 5.164
+off_the_beaten_track: 1.432
 ---
 
 Spring Lake sits immediately south of Belmar — you can walk between them along a connected boardwalk — but the atmosphere shifts almost immediately once you cross the border. The town is one of the wealthiest communities on the Jersey Shore, and it shows: wide-porched Victorian houses line the streets, gardens are carefully tended, and the boardwalk is free of arcades and concession stands. The freshwater lake after which the town is named sits in the middle of a shaded park at the centre of town, offering a quiet counterpoint to the ocean.

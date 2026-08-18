@@ -6,7 +6,7 @@ done:
 latitude: 50.86
 loc_type: feature
 longitude: -1.57
-score: 8.23
+score: 5.685
 snippet: South Hampshire national park of ancient woodland, heath, bog, and free-roaming
   New Forest ponies.
 title: The New Forest
@@ -15,6 +15,10 @@ image: the_new_forest.jpg
 image_source: https://commons.wikimedia.org/wiki/File:NewForestPonies_sunrise.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Joana Kruse joanaimages.com
+heritage: 2.699
+vibrancy: 1.455
+nature: 7.668
+off_the_beaten_track: 3.286
 ---
 
 The New Forest is one of England's newest national parks, designated in 2005, but the forest itself is anything but new. William the Conqueror established it as a royal hunting ground in 1079, displacing villages and farming communities to do so. His son William Rufus was killed here in a hunting accident — or perhaps not an accident — in 1100. The Rufus Stone, set in a clearing near Brook, marks the spot where he is said to have fallen.

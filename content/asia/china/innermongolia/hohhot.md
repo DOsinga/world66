@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Hohhot_202
 latitude: 40.8151
 loc_type: city
 longitude: 111.6623
-score: 7.11
+score: 5.243
 snippet: Inner Mongolia's capital, where Mongolian, Hui, and Han cultures meet around
   temples and grassland gateways.
 sources:
 - https://en.wikivoyage.org/wiki/Hohhot
 title: Hohhot
 type: location
+heritage: 5.584
+vibrancy: 5.154
+nature: 3.936
+off_the_beaten_track: 3.396
 ---
 
 Hohhot (Huhhot in older transcriptions, Kökeqota in Mongolian) is the capital of Inner Mongolia and the region's main gateway for travellers. It is a working Chinese city of three million people, but its Mongolian character is not merely ornamental: trilingual metro signs, Buddhist lamaseries in the middle of the commercial district, and a substantial Hui Muslim population make it feel genuinely different from other northern Chinese provincial capitals. The high-speed rail connection from Beijing takes about two and a half hours, which makes Hohhot an easy first stop before heading deeper into the grasslands.

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:PlayaCostadelSolMDP-jul201
 latitude: 13.3388
 loc_type: feature
 longitude: -88.9952
-score: 6.61
+score: 4.892
 snippet: Long Pacific beach strip near San Salvador, backed by the mangroves of Estero
   de Jaltepeque.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://istu.gob.sv/parques-recreativos/parque-recreativo-costa-del-sol/
 title: Costa del Sol
 type: location
+heritage: 2.124
+vibrancy: 3.819
+nature: 5.738
+off_the_beaten_track: 2.222
 ---
 
 Costa del Sol is El Salvador's easy central-coast escape: a long, developed beach strip in La Paz department, close enough to San Salvador and the international airport for a quick break. It is not a lonely surf beach. It is family houses, beach clubs, seafood restaurants, warm water, and weekend traffic.

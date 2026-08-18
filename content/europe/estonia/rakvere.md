@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Fr._R._Kreutzwaldi_street_
 latitude: 59.3482
 loc_type: city
 longitude: 26.3617
-score: 7.21
+score: 4.438
 snippet: Northern Estonian city centred on a restored medieval castle above a modest,
   laid-back town centre.
 title: Rakvere
 type: location
+heritage: 5.965
+vibrancy: 1.861
+nature: 2.384
+off_the_beaten_track: 2.096
 ---
 
 Rakvere is Estonia's fifth-largest city, sitting in the northern part of the country about 100 km east of Tallinn. Most visitors come for the medieval castle on the hill above town, which is one of the best-restored and most entertaining in the Baltics — it's been turned into a living history site with knights, craftsmen, and a torture chamber that keeps kids busy for hours.

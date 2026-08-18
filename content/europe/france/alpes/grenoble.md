@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Chemin_du_Sabot_Panorama_E
 latitude: 45.1885
 loc_type: city
 longitude: 5.7245
-score: 8.49
+score: 5.811
 snippet: Alpine French city at the Drac and Isère confluence, framed by three mountain
   ranges.
 title: Grenoble
 type: location
+heritage: 4.269
+vibrancy: 5.805
+nature: 5.825
+off_the_beaten_track: 5.048
 ---
 
 Grenoble sits at the confluence of the Drac and Isère rivers, hemmed in by three mountain ranges — the Chartreuse, Vercors, and Belledonne. The setting is dramatic: snow-capped peaks visible from almost every street corner, [La Bastille](/europe/france/alpes/grenoble/labastille) fortress looming above the old town. It hosted the 1968 Winter Olympics, and the outdoors still define the city's character.

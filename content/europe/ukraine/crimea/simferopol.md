@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Buildings_in_Simferopol_20
 latitude: 44.9522
 loc_type: city
 longitude: 34.1024
-score: 6.53
+score: 5.152
 snippet: Crimean transport hub with Tatar quarter remnants, Scythian ruins, and routes
   to the southern coast.
 title: Simferopol
 type: location
+heritage: 4.716
+vibrancy: 5.356
+nature: 4.536
+off_the_beaten_track: 3.933
 ---
 
 Simferopol is the administrative capital of [Crimea](/europe/ukraine/crimea) and the peninsula's main transport hub. Most travellers pass through on their way to the southern coast — to [Yalta](/europe/ukraine/crimea/yalta), Sevastopol, or the beaches — but the city has enough to fill a half day if you are changing buses or trains.

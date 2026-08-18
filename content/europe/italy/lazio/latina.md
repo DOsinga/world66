@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Borgo_Sabotino_church_3.jp
 latitude: 41.459526
 loc_type: city
 longitude: 13.012591
-score: 6.51
+score: 6.13
 snippet: Planned Lazio city from the Pontine Marshes, with rationalist piazzas and
   nearby beaches.
 title: Latina
 type: location
+heritage: 6.443
+vibrancy: 6.058
+nature: 3.589
+off_the_beaten_track: 1.074
 ---
 
 Latina is a planned city about 60 kilometres south of [Rome](/europe/italy/lazio/rome), built in 1932 during the draining of the Pontine Marshes. The rationalist architecture of the [city centre](/europe/italy/lazio/latina/piazza_del_popolo) — all clean lines and wide piazzas — gives it a distinctive look quite unlike the older towns around it.

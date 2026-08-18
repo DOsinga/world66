@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/53166301@N08/26463980884
 latitude: 40.558729
 loc_type: city
 longitude: 8.315321
-score: 9.05
+score: 6.926
 snippet: Walled Sardinian port with Catalan Gothic streets, sea-facing bastions, and
   Algherese language heritage
 title: Alghero
 type: location
+heritage: 5.412
+vibrancy: 6.82
+nature: 7.199
+off_the_beaten_track: 2.44
 ---
 
 Alghero is the most characterful town on Sardinia's northwest coast, a walled medieval port with a history that sets it apart from the rest of the island. Conquered by Aragon in 1354, it was repopulated with Catalan settlers and remained a Catalan-speaking enclave for centuries. A variant of the language — Algherese — is still spoken by some residents, street signs appear in both Italian and Catalan, and the architecture of the old town is unmistakably Catalan Gothic.

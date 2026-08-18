@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 46.7333
 longitude: -117.1667
-score: 6.0
+score: 3.609
 snippet: Palouse college town built around Washington State University and rolling
   wheat-country hills.
 sources:
@@ -13,6 +13,10 @@ image: pullman.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Martin_Stadium_Aerial,_Pullman_WA,_March_2024.jpg
 image_license: CC0
 image_attribution: Spicypepper999
+heritage: 3.767
+vibrancy: 3.576
+nature: 3.39
+off_the_beaten_track: 4.053
 ---
 
 Pullman is the main city of Washington's Palouse and the home of Washington State University. It is a college town first: steep streets, red-brick campus buildings, game-day traffic, student bars, and a population that rises and falls with the academic calendar.

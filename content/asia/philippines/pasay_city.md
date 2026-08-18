@@ -5,7 +5,7 @@ done:
 latitude: 14.5437
 loc_type: city
 longitude: 120.99465
-score: 6.2
+score: 4.75
 title: Pasay City
 type: location
 image: pasay_city.jpg
@@ -14,6 +14,10 @@ image_license: Public domain
 image_attribution: Judgefloro
 snippet: Metro Manila city on Manila Bay, home to the airport, transport hubs, and
   Entertainment City.
+heritage: 3.372
+vibrancy: 5.309
+nature: 2.858
+off_the_beaten_track: 0.877
 ---
 
 Pasay is the city most visitors to Manila see first without realising it — Ninoy Aquino International Airport sits within its borders, and many of Metro Manila's major transport hubs are here. The city stretches along Manila Bay south of the capital proper, bordered by Makati to the northeast and Parañaque to the south.

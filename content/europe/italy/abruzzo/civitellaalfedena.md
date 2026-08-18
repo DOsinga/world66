@@ -2,7 +2,7 @@
 latitude: 41.7784
 loc_type: city
 longitude: 13.9033
-score: 6.8
+score: 5.704
 snippet: Tiny walled village on the edge of the national park, known for its wolf
   museum and access to the Camosciara and Lake Barrea.
 tags:
@@ -13,6 +13,10 @@ image: civitellaalfedena.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Civitella_Alfedena_view.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Marica Massaro
+heritage: 3.967
+vibrancy: 1.552
+nature: 7.16
+off_the_beaten_track: 3.636
 ---
 
 Civitella Alfedena is a small medieval village at the southern edge of Abruzzo, Lazio and Molise National Park, sitting above Lake Barrea at around 1,110 metres. It is compact enough to walk in ten minutes, but its position — between the lake, the Camosciara reserve, and the Valle di Rose — makes it one of the best bases in the park for wildlife walking.

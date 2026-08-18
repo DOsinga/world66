@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Welland_Canal_Memorial_Mon
 latitude: 42.9922
 loc_type: city
 longitude: -79.2484
-score: 5.97
+score: 4.138
 snippet: Niagara Region canal city where ocean-going ships pass through locks in the
   middle of town.
 title: Welland
 type: location
+heritage: 3.039
+vibrancy: 2.795
+nature: 5.063
+off_the_beaten_track: 1.629
 ---
 
 Welland sits at the heart of the [Niagara Region](/northamerica/canada/ontario/niagara), best known as a working city built around the Welland Canal — the engineering marvel that allows ocean-going ships to bypass Niagara Falls and travel between Lake Erie and Lake Ontario. The [canal locks](/northamerica/canada/ontario/welland/welland_canal_locks) are right in the middle of town, and watching a freighter slide past at street level is one of those quietly remarkable experiences that Welland offers without fanfare. The [vertical lift bridge](/northamerica/canada/ontario/welland/welland_canal_bridge_13) on East Main Street rises to let ships through several times a day.

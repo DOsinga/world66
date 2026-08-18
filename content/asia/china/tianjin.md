@@ -11,13 +11,17 @@ image_source: https://www.flickr.com/photos/93221896@N00/14579243649
 latitude: 39.303262
 loc_type: city
 longitude: 117.416364
-score: 7.19
+score: 3.934
 snippet: Northern Chinese port city near Beijing, marked by foreign-concession architecture
   and Hai River neighbourhoods
 sources:
 - https://en.wikivoyage.org/wiki/Tianjin
 title: Tianjin
 type: location
+heritage: 3.23
+vibrancy: 4.231
+nature: 2.071
+off_the_beaten_track: 0.835
 ---
 
 Tianjin is Beijing's coastal neighbour — a port city of fifteen million people about half an hour south-east of the capital on the bullet train. It doesn't try to compete with Beijing for sights, and doesn't need to. What Tianjin has instead is an unexpected European pedigree: the foreign concessions carved out after the Opium Wars left whole neighbourhoods of British, French, Italian, Russian and German buildings, many of them immaculately restored. Walking the Italian Concession on the north bank of the Hai River feels like stumbling onto a small piece of Verona.

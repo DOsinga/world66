@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:US_45_and_WI_28,_Kewaskum,
 latitude: 43.52138
 loc_type: city
 longitude: -88.227864
-score: 5.48
+score: 2.484
 snippet: Wisconsin village on Kettle Moraine's glacial hills, near Ice Age Trail forests
   and kettle lakes.
 title: Kewaskum
 type: location
+heritage: 2.426
+vibrancy: 1.714
+nature: 2.822
+off_the_beaten_track: 1.957
 ---
 
 Kewaskum is a small village in Washington County, Wisconsin, sitting at the southern edge of Kettle Moraine State Forest. The surrounding landscape is a product of the last ice age — an undulating terrain of drumlins, kettle lakes, and glacially deposited hills that is unusually varied for the flat Midwest.

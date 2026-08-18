@@ -5,7 +5,7 @@ done:
 latitude: 49.689406
 loc_type: city
 longitude: -124.995496
-score: 7.01
+score: 4.924
 snippet: Vancouver Island valley city between Strathcona mountains and the Strait
   of Georgia, rich in outdoor options.
 sources:
@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Comox_Valley
 title: Courtenay
 type: location
+heritage: 3.742
+vibrancy: 2.3
+nature: 6.046
+off_the_beaten_track: 4.003
 ---
 
 Courtenay is the largest community in the Comox Valley, on the east coast of Vancouver Island in British Columbia. Together with its sister town of Comox and the village of Cumberland, it forms the main population centre between Nanaimo and Campbell River.

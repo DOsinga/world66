@@ -5,11 +5,15 @@ done:
 latitude: 35.4867
 loc_type: city
 longitude: -96.685
-score: 4.6
+score: 2.627
 snippet: Small Oklahoma town with Czech heritage, a kolache festival, and Jim Thorpe's
   preserved birthplace
 title: Prague
 type: location
+heritage: 2.953
+vibrancy: 2.435
+nature: 1.708
+off_the_beaten_track: 1.3
 ---
 
 Prague (pronounced PRAY-g, not like the Czech capital) is a small town in Lincoln County with one outsized claim to fame: it is the birthplace of Jim Thorpe (1887–1953). Widely considered one of the greatest athletes of the 20th century, Thorpe won gold medals in the pentathlon and decathlon at the 1912 Stockholm Olympics — later stripped and only restored posthumously — and went on to play professional football and baseball. The [Jim Thorpe Home](/northamerica/unitedstates/oklahoma/prague/jim_thorpe_home) is preserved as a state historic site on the edge of town.

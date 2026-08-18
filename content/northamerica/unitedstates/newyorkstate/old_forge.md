@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 43.71
 longitude: -74.97
-score: 7.1
+score: 5.334
 snippet: Adirondack resort village on the Fulton Chain, known for lake trips and family
   attractions.
 wikidata: Q7084012
@@ -17,6 +17,10 @@ image: old_forge.jpg
 image_source: https://commons.wikimedia.org/wiki/File:MCCAULEY_MOUNTAIN,_NEW_YORK,_CHAIR_LIFT_GIVES_TOURISTS_A_PANORAMIC_VIEW_IN_THE_ADIRONDACK_FOREST_PRESERVE_-_NARA_-_554490.jpg
 image_license: Public domain
 image_attribution: Anne LaBastille / U.S. National Archives and Records Administration
+heritage: 2.3
+vibrancy: 2.344
+nature: 7.135
+off_the_beaten_track: 3.285
 ---
 
 Old Forge is a classic Adirondack resort village at the western end of the Fulton Chain of Lakes. It is not wild backcountry, and that is part of its appeal: this is where families come for lake cruises, ice cream, summer rides, easy mountain views, and a Main Street that still feels built for vacation evenings.

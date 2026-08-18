@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ala%C3%A7at%C4%B1_2016.jpg
 latitude: 38.281388888889
 loc_type: city
 longitude: 26.374166666667
-score: 7.0
+score: 6.05
 snippet: Aegean town of Greek stone houses, cobbled lanes, windmills, and serious
   windsurfing.
 sources:
@@ -18,6 +18,10 @@ sources:
 title: Alaçatı
 type: location
 wikidata: Q941328
+heritage: 5.521
+vibrancy: 6.123
+nature: 5.861
+off_the_beaten_track: 3.04
 ---
 
 Alaçatı is the prettiest town on the Çeşme Peninsula: a former Greek settlement of pale stone houses, narrow cobbled lanes, courtyard restaurants, and old windmills on the rise above town. It is now fashionable, expensive, and busy in summer, but the old centre still has enough texture to justify the fuss.

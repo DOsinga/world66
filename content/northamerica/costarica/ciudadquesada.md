@@ -4,11 +4,15 @@ done:
 latitude: 10.325
 loc_type: city
 longitude: -84.4313
-score: 7.12
+score: 4.785
 snippet: Northern Costa Rican market town, locally San Carlos, set below the Central
   Volcanic Range.
 title: Ciudad Quesada
 type: location
+heritage: 2.214
+vibrancy: 2.564
+nature: 6.178
+off_the_beaten_track: 2.825
 ---
 
 Ciudad Quesada, universally known locally as San Carlos, is the commercial hub of Costa Rica's northern lowlands. The town itself sits at a moderate elevation on the slopes descending from the Central Volcanic Range, which gives it a slightly cooler climate than the steamy plains below. Most travelers pass through on their way to La Fortuna and Arenal Volcano, but Ciudad Quesada has its own low-key appeal as a working Costa Rican market town untouched by the tourist economy.

@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:InsideRosaliaSanCris.JPG
 latitude: 16.7383
 loc_type: city
 longitude: -92.6368
-score: 8.66
+score: 5.78
 snippet: Cool Chiapas highland city of colonial streets, indigenous villages, and
   enduring Zapatista political memory
 sources:
 - https://en.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas
 title: San Cristóbal de las Casas
 type: location
+heritage: 6.505
+vibrancy: 5.341
+nature: 4.894
+off_the_beaten_track: 2.85
 ---
 
 San Cristóbal de las Casas sits at 2,200 metres in the cool, forested highlands of Chiapas, and it feels a world apart from the beach resorts and lowland heat of most of Mexico. The cobbled streets, painted colonial houses, and handsome churches give the town a beauty that has made it something of a magnet for travellers, artists, and expats. But the real reason to spend a few days here is the living indigenous culture that surrounds it.

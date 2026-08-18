@@ -5,11 +5,15 @@ done:
 latitude: -21.1267
 loc_type: city
 longitude: -56.4836
-score: 8.62
+score: 4.944
 snippet: Mato Grosso do Sul ecotourism town famed for clear spring-fed rivers and
   the blue cave lake.
 title: Bonito
 type: location
+heritage: 3.904
+vibrancy: 2.53
+nature: 6.008
+off_the_beaten_track: 3.275
 ---
 
 Bonito is a small town in Mato Grosso do Sul, about 260 km from Campo Grande, that has become one of Brazil's premier ecotourism destinations. The name means "beautiful" and the rivers here live up to it — the water in the Rio da Prata and Rio Sucuri is so clear that you can float downstream and watch dozens of fish species swimming around you as if you were in an aquarium.

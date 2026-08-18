@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Knollwood_Club_on_Lower_Sa
 latitude: 44.329661
 loc_type: city
 longitude: -74.13112
-score: 7.07
+score: 6.262
 snippet: Adirondack mountain village shaped by cure cottages, cold lakes, and a year-round
   outdoor culture.
 title: Saranac Lake
 type: location
+heritage: 3.812
+vibrancy: 4.922
+nature: 7.327
+off_the_beaten_track: 4.133
 ---
 
 Saranac Lake is a village in the heart of the Adirondack Mountains, surrounded by pristine lakes, evergreen forest, and modest peaks that reward hikers with wide views. It has a year-round mountain-town character that many Adirondack communities lose once the leaves fall.

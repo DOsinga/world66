@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kalibo_Ati-Atihan_Festival
 latitude: 11.7089
 loc_type: city
 longitude: 122.364
-score: 7.19
+score: 5.334
 snippet: Aklan market town and Boracay gateway, best known for the drum-filled Ati-Atihan
   Festival
 title: Kalibo
 type: location
+heritage: 3.401
+vibrancy: 4.861
+nature: 5.919
+off_the_beaten_track: 2.39
 ---
 
 Most travelers pass through Kalibo on their way to Boracay — the town's airport is the main entry point for the island — but that's a shame, because Kalibo is worth more than a quick connection. It's the capital of Aklan province, a busy, lived-in market town with good food and a genuinely welcoming atmosphere.

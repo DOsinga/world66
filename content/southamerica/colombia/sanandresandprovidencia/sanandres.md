@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Andr%C3%A9s,_San_Andr%
 latitude: 12.58301
 loc_type: city
 longitude: -81.697568
-score: 8.45
+score: 6.973
 snippet: Colombian Caribbean island with Raizal culture and reef waters known for
   seven shades of blue
 sources:
@@ -18,6 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Johnny_Cay
 title: San Andrés
 type: location
+heritage: 4.301
+vibrancy: 6.4
+nature: 7.715
+off_the_beaten_track: 2.835
 ---
 
 San Andrés is a Caribbean island belonging to Colombia, sitting closer to Nicaragua than to the Colombian mainland. The sea around the island is famous for its "seven colours" — bands of turquoise, aquamarine, and deep blue created by the varying depth of the coral reef — and the snorkelling and diving are outstanding.

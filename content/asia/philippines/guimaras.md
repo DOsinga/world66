@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Guisi_coast_(Nueva_Valenci
 latitude: 10.5731
 loc_type: city
 longitude: 122.6239
-score: 7.5
+score: 5.071
 snippet: Western Visayas island province between Panay and Negros, famous for mango
   orchards and quiet beaches
 title: Guimaras
 type: location
+heritage: 3.945
+vibrancy: 3.505
+nature: 6.167
+off_the_beaten_track: 4.33
 ---
 
 Guimaras is a small island province in the Western Visayas, tucked between Panay and Negros in the Panay Gulf. It is one of the Philippines' least-visited provinces, which is part of its appeal — the roads are quiet, the beaches uncrowded, and the pace of life genuinely relaxed.

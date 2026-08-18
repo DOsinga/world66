@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Grace_Church_(Hopkinsville
 latitude: 36.8658
 loc_type: city
 longitude: -87.489
-score: 5.93
+score: 2.612
 snippet: Western Kentucky tobacco-region city tied to Black Patch history, Edgar Cayce,
   and Trail of Tears memory
 title: Hopkinsville
 type: location
+heritage: 2.313
+vibrancy: 2.377
+nature: 2.9
+off_the_beaten_track: 1.36
 ---
 
 Hopkinsville is a city of about 35,000 in Christian County, western Kentucky, near the Tennessee border. It is the commercial centre of the Black Patch tobacco region and has a history connected to the Night Riders — a violent agrarian movement in the early 1900s in which tobacco farmers fought back against monopolistic buyers, resulting in raids and burnings that made this part of Kentucky genuinely lawless for a few years.

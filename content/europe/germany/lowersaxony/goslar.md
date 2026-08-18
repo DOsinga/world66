@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Beeindruckende_Fachwerkbau
 latitude: 51.905994
 loc_type: city
 longitude: 10.426628
-score: 8.38
+score: 6.01
 snippet: Harz imperial town built on Rammelsberg silver, with a preserved old centre
   and Romanesque palace.
 title: Goslar
 type: location
+heritage: 7.498
+vibrancy: 4.066
+nature: 3.758
+off_the_beaten_track: 2.335
 ---
 
 Goslar is a thousand-year-old imperial town at the northern edge of the Harz mountains, founded in 922 by Heinrich I. Its wealth came from silver — the mines of the Rammelsberg drew Saxon and Salian emperors here, and they built their biggest palace complex on this site. For centuries Goslar was the preferred seat of government in northern Germany, and a centre of the Christian faith grew up alongside it.

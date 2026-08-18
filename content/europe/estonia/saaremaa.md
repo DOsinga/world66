@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Angla_tuulikud_Saaremaal.j
 latitude: 58.4167
 loc_type: island
 longitude: 22.5
-score: 7.4
+score: 6.175
 snippet: Estonia's largest island, a quiet Baltic world of juniper meadows, windmills,
   cliffs, and castles.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://visitsaaremaa.ee/en/
 title: Saaremaa
 type: location
+heritage: 6.098
+vibrancy: 2.109
+nature: 6.986
+off_the_beaten_track: 4.1
 ---
 
 Saaremaa is Estonia's largest island and its most rewarding slow-travel escape. It is flat, forested, and quietly maritime, with juniper meadows, stone churches, windmills, spa traditions, and long roads where the next village may be little more than a church, a shop, and a few weathered farmhouses. The island feels close to Estonia and slightly apart from it at the same time.

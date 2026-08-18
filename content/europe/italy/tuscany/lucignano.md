@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Lucignano_panorama_dalla_f
 latitude: 43.274463
 loc_type: city
 longitude: 11.746
-score: 7.53
+score: 5.971
 snippet: Tuscan hill town laid out in concentric medieval rings above the Valdichiana
   valley.
 title: Lucignano
 type: location
+heritage: 7.119
+vibrancy: 1.846
+nature: 5.264
+off_the_beaten_track: 2.704
 ---
 
 Lucignano is one of the most unusual medieval towns in Tuscany — not just charming, but geometrically extraordinary. Sitting at 414m above the Valdichiana valley between Siena and Arezzo, the entire town is laid out in a series of concentric elliptical rings. Walking its streets feels like threading a labyrinth, with the upper section — the [Palazzo Comunale](/europe/italy/tuscany/lucignano/museo_comunale), the [church of San Francesco](/europe/italy/tuscany/lucignano/san_francesco), and the [Collegiata](/europe/italy/tuscany/lucignano/collegiata_san_michele) — at the centre of the puzzle.

@@ -5,11 +5,16 @@ loc_type: city
 latitude: 16.98
 longitude: 81.78
 wikidata: Q1639492
-score: 6.7
-snippet: Godavari River city in coastal Andhra Pradesh, known for bridges, ghats, temples, and delta culture.
+score: 4.577
+snippet: Godavari River city in coastal Andhra Pradesh, known for bridges, ghats,
+  temples, and delta culture.
 sources:
-  - https://en.wikivoyage.org/wiki/Rajahmundry
-  - https://en.wikipedia.org/wiki/Rajahmundry
+- https://en.wikivoyage.org/wiki/Rajahmundry
+- https://en.wikipedia.org/wiki/Rajahmundry
+heritage: 5.238
+vibrancy: 4.055
+nature: 4.232
+off_the_beaten_track: 2.871
 ---
 
 Rajahmundry sits on a wide, busy bend of the Godavari, where coastal Andhra starts to feel like river country. It is an old literary and cultural centre, but the first thing you notice is the water: ghats, bridges, boats, and the long sweep of the river splitting toward the delta.

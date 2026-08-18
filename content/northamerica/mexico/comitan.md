@@ -4,18 +4,23 @@ type: location
 loc_type: city
 latitude: 16.2511
 longitude: -92.1352
-score: 7.0
-snippet: Chiapas highland city of colonial streets, Rosario Castellanos memory, and nearby Maya ruins
+score: 4.779
+snippet: Chiapas highland city of colonial streets, Rosario Castellanos memory, and
+  nearby Maya ruins
 wikidata: Q1961680
 sources:
-  - https://en.wikivoyage.org/wiki/Comit%C3%A1n
-  - https://visitmexico.com/en/destino/2510/comitan
-  - https://visitchiapas.com/v1/Pueblo-magico-comitan-de-dominguez
-  - https://lugares.inah.gob.mx/en/node/4839
+- https://en.wikivoyage.org/wiki/Comit%C3%A1n
+- https://visitmexico.com/en/destino/2510/comitan
+- https://visitchiapas.com/v1/Pueblo-magico-comitan-de-dominguez
+- https://lugares.inah.gob.mx/en/node/4839
 image: comitan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Comit%C3%A1n_Central_Plaza.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Richard Weil
+heritage: 5.421
+vibrancy: 3.716
+nature: 4.841
+off_the_beaten_track: 3.748
 ---
 
 Comitán is a Chiapas highland city south of [San Cristóbal de las Casas](/northamerica/mexico/sancristobaldelascasas), close to the Guatemalan border and the lakes of Montebello. It has clean colonial streets, old churches, a strong local pride, and a literary memory tied to Rosario Castellanos, who spent her childhood here.

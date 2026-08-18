@@ -5,7 +5,7 @@ done:
 latitude: 53.36842
 loc_type: city
 longitude: 5.9051
-score: 6.6
+score: 4.17
 snippet: Friesland village and Ameland ferry port, also used for guided Wadden Sea
   mudflat walks.
 sources:
@@ -14,6 +14,10 @@ tags:
 - friesland
 title: Holwerd
 type: location
+heritage: 2.253
+vibrancy: 1.341
+nature: 5.268
+off_the_beaten_track: 3.917
 ---
 
 Holwerd is a small village on the Friesland coast, best known as the ferry port for [Ameland](/europe/netherlands/ameland). The crossing takes about 45 minutes and runs several times a day.

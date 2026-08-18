@@ -16,7 +16,7 @@ quick_facts:
   Built On: Millions of wooden piles
   Car-Free: Boats only
   Islands: '118'
-score: 9.97
+score: 7.532
 snippet: Lagoon city of canals, palaces, and Venetian painting, beautiful despite
   summer crowds and decay
 tip: 'Venice empties at night. Most visitors are day-trippers off cruise ships and
@@ -25,6 +25,10 @@ tip: 'Venice empties at night. Most visitors are day-trippers off cruise ships a
   from the Grand Canal and the crowds, the prices and the noise all drop away.'
 title: Venice
 type: location
+heritage: 7.264
+vibrancy: 7.691
+nature: 6.494
+off_the_beaten_track: 2.073
 ---
 
 Maybe you expect **Venice** to be one dazzling, romantic, fairytale-like labyrinth of canals, alleys, picturesque houses and impressive squares and buildings. Well, you are right then (although it is also dirty, run down and rather smelly in the summer heat). The best thing to do is wander around and get lost for at least a day. Roam the winding streets and the various *piazzas* and see the melting pot of architectural styles. When you are interested in Venetian painting, you can bathe in the collections of paintings from artists such as Titian and members of the school of Murano. The Galleria di Palazzo Cini, for instance, houses the private art collection of Vittorio Cini, the wealthiest Venetian art collector of this century. His collection includes paintings from the Tuscan Renaissance and the school of Ferrara. Find your own musical inspiration in this city, whether by seeing a Venetian Opera composed by Montiverdi (the Titian of Music), visiting Campo Bandiera e Moro (the birthplace of Vivaldi) or listen to baroque music played (on a 18th century organ) in the Santa Maria Della Favaon at the Sunday mass. 

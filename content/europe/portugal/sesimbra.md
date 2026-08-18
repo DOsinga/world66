@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Castillo_de_Sesimbra,_Port
 latitude: 38.4437
 loc_type: city
 longitude: -9.0996
-score: 8.49
+score: 4.974
 snippet: Atlantic fishing town south of Lisbon, set below Serra da Arrábida cliffs
   around a half-moon beach and working harbour.
 sources:
 - https://en.wikipedia.org/wiki/Sesimbra
 title: Sesimbra
 type: location
+heritage: 4.32
+vibrancy: 4.874
+nature: 5.232
+off_the_beaten_track: 2.585
 ---
 
 Sesimbra is a fishing town on the south side of the Serra da Arrábida, about an hour south of [Lisbon](/europe/portugal/lisbon). For most of its history it lived off the Atlantic — the harbour still launches the daily fleet at five in the morning and lands swordfish and amberjack at lunchtime — but since the 1960s it has also become the closest proper beach town for Lisboetas, who pour in on summer weekends. Out of season it relaxes back into being a working port with a long curve of beach attached.

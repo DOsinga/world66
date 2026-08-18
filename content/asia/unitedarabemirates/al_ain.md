@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Industrial_Area_-_Al_Ain_-
 latitude: 24.2075
 loc_type: city
 longitude: 55.7447
-score: 7.59
+score: 4.645
 snippet: Inland Emirati oasis city where ancient falaj channels water palm groves
   below Jebel Hafeet.
 title: Al Ain
 type: location
+heritage: 4.503
+vibrancy: 3.574
+nature: 5.291
+off_the_beaten_track: 3.117
 ---
 
 **Al Ain** — "The Spring" in Arabic — is the UAE's largest inland city and the second-largest settlement in the emirate of Abu Dhabi, sitting on the eastern edge of the country against the border with Oman. The drive from Dubai or Abu Dhabi is about 90 minutes across the desert, and the change of climate when you arrive is immediate: Al Ain sits at the foot of the **Jebel Hafeet** mountain range, which casts a rain shadow that gives the city a noticeably cooler and drier microclimate than the humid coast. It has been continuously inhabited for around 5,000 years thanks to the natural oases that bubble up in the middle of the desert here, and the ancient *falaj* irrigation channels still water its palm groves today.

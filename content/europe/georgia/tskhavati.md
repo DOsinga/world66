@@ -5,11 +5,15 @@ done:
 latitude: 42.246695
 loc_type: city
 longitude: 44.507146
-score: 5.96
+score: 5.299
 snippet: Remote Ksani Gorge village known for its wooded medieval monastery and mountain
   setting.
 title: Tskhavati
 type: location
+heritage: 5.386
+vibrancy: 2.332
+nature: 5.931
+off_the_beaten_track: 5.375
 ---
 
 Tskhavati is a remote mountain village in the Ksani Gorge of Shida Kartli, in the Akhalgori district of [Georgia](/europe/georgia). The main reason to come here is the [Tskhavati Monastery](/europe/georgia/tskhavati/tskhavati_monastery), set in a wooded clearing outside the village.

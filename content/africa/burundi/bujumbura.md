@@ -5,11 +5,15 @@ done:
 latitude: -3.3822
 loc_type: city
 longitude: 29.3644
-score: 5.83
+score: 3.148
 snippet: Lakeside Burundian capital on Lake Tanganyika, backed by green hills and
   shaped by beaches, commerce, and colonial history.
 title: Bujumbura
 type: location
+heritage: 3.33
+vibrancy: 3.103
+nature: 1.783
+off_the_beaten_track: 4.315
 ---
 
 Bujumbura is Burundi's largest city, its economic hub, and the place where almost every visitor to the country begins and ends. It sits on the northeastern shore of [Lake Tanganyika](/africa/burundi/bujumbura/lake_tanganyika), backed by steep green hills, and the setting is genuinely striking. The lake dominates the city's character — warm, vast, and fringed with sandy beaches that feel improbable for a landlocked country.

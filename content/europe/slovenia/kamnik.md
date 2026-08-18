@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 46.2259
 longitude: 14.6121
-score: 7.6
-snippet: Medieval Slovenian town below the Kamnik-Savinja Alps, with easy access to Velika Planina.
+score: 4.884
+snippet: Medieval Slovenian town below the Kamnik-Savinja Alps, with easy access to
+  Velika Planina.
 wikidata: Q15883
 sources:
-  - https://en.wikivoyage.org/wiki/Kamnik
-  - https://visitkamnik.com/en/top-attractions/kamnik
-  - https://www.slovenia.info/en/places-to-go/attractions/velika-planina
+- https://en.wikivoyage.org/wiki/Kamnik
+- https://visitkamnik.com/en/top-attractions/kamnik
+- https://www.slovenia.info/en/places-to-go/attractions/velika-planina
+heritage: 5.04
+vibrancy: 3.2
+nature: 5.434
+off_the_beaten_track: 4.359
 ---
 
 Kamnik sits just north of [Ljubljana](/europe/slovenia/ljubljana), close enough for an easy day trip but with a much older mountain-town feel. It was once an important Carniolan trading town, and the old centre still has a tight medieval shape: Šutna Street, Mali Grad hill, church towers, small squares, and the Kamnik-Savinja Alps rising sharply behind the roofs.

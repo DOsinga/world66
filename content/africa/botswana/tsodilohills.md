@@ -6,9 +6,13 @@ longitude: 21.7424
 title: Tsodilo Hills
 type: location
 loc_type: feature
-score: 7.65
+score: 6.713
 snippet: Sacred Kalahari hill site with thousands of San rock paintings across four
   quartzite outcrops.
+heritage: 5.404
+vibrancy: 0.293
+nature: 8.115
+off_the_beaten_track: 5.939
 ---
 
 The Tsodilo Hills rise dramatically from the flat Kalahari sand in northwestern Botswana, a cluster of four quartzite hills that have been sacred to the San people for thousands of years. UNESCO designated the site a World Heritage Site in 2001, recognizing its extraordinary concentration of rock art — over 4,500 paintings spread across the hills, making it one of the highest densities of rock art anywhere on earth. The San call it the "mountain of the gods."

@@ -5,13 +5,17 @@ done:
 latitude: 34.2167
 loc_type: city
 longitude: 7.9667
-score: 7.95
+score: 6.178
 snippet: Western Tunisian mountain oasis where springs feed palms beneath rust-coloured
   Atlas foothills.
 sources:
 - https://en.wikipedia.org/wiki/Chebika
 title: Chebika
 type: location
+heritage: 5.526
+vibrancy: 1.877
+nature: 7.233
+off_the_beaten_track: 6.564
 ---
 
 Chebika is a mountain oasis clinging to the edge of the Djebel en Negueb range, where the Sahara meets the Atlas foothills in western Tunisia. Springs push up through ancient rock to feed a pocket of palms and greenery, and a small waterfall cascades into a pool before the water disappears back into the desert. The combination of lush vegetation against bare, rust-coloured cliffs is genuinely striking.

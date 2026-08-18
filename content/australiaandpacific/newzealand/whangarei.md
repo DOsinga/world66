@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Parihaka_te_Maunga.jpg
 latitude: -35.727527
 loc_type: city
 longitude: 174.31942
-score: 7.61
+score: 5.265
 snippet: Northland port city at a long harbour, with waterfalls, galleries, and Whangārei
   Heads nearby
 title: Whangarei
 type: location
+heritage: 3.847
+vibrancy: 4.676
+nature: 5.901
+off_the_beaten_track: 2.42
 ---
 
 Whangarei is Northland's main city and the northernmost city in New Zealand, sitting at the head of a long harbour about 160 km north of Auckland. It's a working port and regional centre that most travelers pass through on the way to the Bay of Islands, but the town itself has more going for it than its transit reputation suggests. [Clapham's Clock Museum](/australiaandpacific/newzealand/whangarei/claphams_clock_museum), the [Town Basin](/australiaandpacific/newzealand/whangarei/town_basin) marina development with its galleries and cafes, the new [Hundertwasser Art Centre](/australiaandpacific/newzealand/whangarei/hundertwasser_art_centre), and the [Whangarei Falls](/australiaandpacific/newzealand/whangarei/whangarei_falls) — one of the most accessible waterfalls in the country — are all worth an hour or two.

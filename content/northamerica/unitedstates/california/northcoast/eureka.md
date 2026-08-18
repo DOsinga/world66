@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Carson_Mansion_Eureka_Cali
 latitude: 40.8021
 loc_type: city
 longitude: -124.1637
-score: 7.13
+score: 5.652
 title: Eureka
 type: location
 snippet: Harbor city on Humboldt Bay, known for Old Town's Victorian architecture
   and working waterfront.
+heritage: 3.204
+vibrancy: 4.325
+nature: 6.671
+off_the_beaten_track: 4.572
 ---
 
 Eureka is the largest city on the California coast north of San Francisco, sitting on Humboldt Bay about 270 miles from the Golden Gate. It is a logging and fishing town that has never quite shaken that identity — and is better for it. The waterfront smells like salt and diesel, the Victorian architecture downtown is genuine rather than restored-for-tourists, and the fog rolls in most mornings without apology.

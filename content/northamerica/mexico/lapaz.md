@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:La_Paz_vista_desde_the_one
 latitude: 24.1422
 loc_type: city
 longitude: -110.3108
-score: 7.66
+score: 5.962
 snippet: Relaxed Baja California Sur capital with a long malecón, Gulf beaches, seafood,
   and island trips.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://www.openstreetmap.org/
 title: La Paz
 type: location
+heritage: 4.076
+vibrancy: 4.892
+nature: 6.877
+off_the_beaten_track: 3.338
 ---
 
 La Paz is the calm capital of Baja California Sur, stretched along the Gulf of California with desert hills behind it and a long waterfront malecón in front. It lacks the resort gloss of Los Cabos, which is exactly the point. The city is better for evening walks, seafood, kayaking, whale-shark trips in season, and day boats to [Espíritu Santo Island](/northamerica/mexico/bajacalifornia/espiritu_santo_island).

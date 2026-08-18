@@ -14,9 +14,13 @@ sources:
 - https://en.wikivoyage.org/wiki/Sig%C3%BCenza
 title: Sigüenza
 type: location
-score: 7.66
+score: 5.572
 snippet: Medieval Castilian town north of Guadalajara, crowned by a bishop's castle
   and fortress-like cathedral.
+heritage: 7.455
+vibrancy: 2.747
+nature: 3.029
+off_the_beaten_track: 1.836
 ---
 
 Sigüenza is one of the great small towns of inland Spain: a stony, compact medieval place in the high country north of Guadalajara, crowned by a bishop's castle and anchored by a fortress-like cathedral. It is close enough to Madrid for a long day trip, but it feels far removed from the capital's orbit. The air is cooler up here, the streets are quiet, and the old town still has the severe dignity of a Castilian episcopal seat.

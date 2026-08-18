@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Chatarra_en_Tok,_Alaska,_E
 latitude: 63.336667
 loc_type: city
 longitude: -142.985555
-score: 6.04
+score: 5.458
 snippet: Alaskan crossroads town where the Alaska Highway meets the Tok Cut-Off amid
   long empty roads.
 title: Tok
 type: location
+heritage: 2.813
+vibrancy: 1.992
+nature: 6.761
+off_the_beaten_track: 5.569
 ---
 
 Tok sits at the junction of the [Alaska Highway](/northamerica/unitedstates/alaska/tok/alaska_highway) and the [Tok Cut-Off](/northamerica/unitedstates/alaska/tok/tok_cut_off), making it the first Alaskan town most overland travellers reach when driving up from the Lower 48. It is not a destination in itself — it is a gas station, a meal, and a bed at the crossroads of two long, empty highways.

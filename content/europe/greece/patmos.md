@@ -11,9 +11,13 @@ loc_type: city
 snippet: Small Dodecanese island of hilltop monasteries, whitewashed Hora lanes, and
   the Revelation pilgrimage tradition.
 longitude: 26.5458
-score: 9.01
+score: 6.436
 title: Patmos
 type: location
+heritage: 7.815
+vibrancy: 4.788
+nature: 5.156
+off_the_beaten_track: 2.697
 ---
 
 Patmos is a small, steep island in the Dodecanese where St. John is said to have written the Book of Revelation. That spiritual legacy earned the island a UNESCO World Heritage designation, but Patmos is far more than a pilgrimage site. It is one of the most quietly elegant islands in Greece, attracting a well-heeled crowd that values beauty over nightlife.

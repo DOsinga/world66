@@ -7,11 +7,15 @@ done:
 latitude: 5.5186
 loc_type: city
 longitude: 5.748
-score: 4.65
+score: 3.17
 snippet: Niger Delta port city with Itsekiri royal roots, oil-industry grit, and lively
   river commerce.
 title: Warri
 type: location
+heritage: 2.653
+vibrancy: 2.001
+nature: 1.023
+off_the_beaten_track: 5.368
 ---
 
 Warri is a port city in Delta State in the Niger Delta, roughly halfway between Lagos and Port Harcourt. It is one of the oldest continuously inhabited towns in the region — the Portuguese made contact with the Itsekiri kingdom here in the 15th century — and is the traditional seat of the Olu of Warri, the paramount chief of the Itsekiri people. Today the city is dominated by the oil industry: Shell, Chevron, and other companies have offices here, and Warri is the operational hub for much of Nigeria's offshore and delta oil production.

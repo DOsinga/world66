@@ -16,7 +16,7 @@ quick_facts:
   Founded: '1070'
   Medina Walls: 19 km long
   Nickname: The Red City
-score: 9.47
+score: 5.432
 snippet: Moroccan imperial city of ochre medina walls, Jemaa el-Fna theatre, and Atlas
   Mountain backdrops.
 tip: The medina is a maze and the 'helpful' boys offering directions expect payment
@@ -25,6 +25,10 @@ tip: The medina is a maze and the 'helpful' boys offering directions expect paym
   circus at dusk. Stay in a riad — a courtyard house hidden behind a blank wall.
 title: Marrakesh
 type: location
+heritage: 6.208
+vibrancy: 4.828
+nature: 2.899
+off_the_beaten_track: 2.451
 ---
 
 Marrakesh is the most visceral of Morocco's imperial cities — an ochre-walled medina at the foot of the snow-capped Atlas Mountains where the medieval and the contemporary collide in spectacularly chaotic fashion. The city has been pulling in visitors for decades, and the tourist infrastructure is well-developed, but the medina retains enough of its original character to reward serious exploration.

@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/47026734@N08/8338730446
 latitude: 37.2942
 loc_type: city
 longitude: -109.5512
-score: 7.29
+score: 5.531
 snippet: Small San Juan River town in southeastern Utah, surrounded by red rock bluffs
   and Ancestral Puebloan sites.
 title: Bluff
 type: location
+heritage: 3.679
+vibrancy: 1.647
+nature: 7.014
+off_the_beaten_track: 3.822
 ---
 
 Bluff is a tiny town wedged in a red-rock canyon along the San Juan River in southeastern Utah. Founded in 1880 by one of the last Mormon wagon train expeditions — the famous Hole-in-the-Rock pioneers who hauled their wagons down a near-vertical sandstone crack — Bluff has since evolved into something unexpected: a funky artist's colony with a handful of good places to eat and sleep.

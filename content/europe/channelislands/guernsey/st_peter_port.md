@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Alb%C3%A8rt_%C3%89glyise_S
 latitude: 49.457841
 loc_type: city
 longitude: -2.534967
-score: 8.4
+score: 5.343
 snippet: Guernsey harbour capital of granite lanes, Castle Cornet, French views, and
   Victor Hugo exile history.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Hauteville_House
 title: St Peter Port
 type: location
+heritage: 5.402
+vibrancy: 5.139
+nature: 5.798
+off_the_beaten_track: 3.432
 ---
 
 St Peter Port is one of the most handsome harbour towns in the British Isles. The capital of Guernsey climbs steeply from a working waterfront lined with yachts and ferry terminals, its lanes of granite townhouses rising toward Castle Cornet, a medieval fortress that has guarded the harbour since the 13th century. Stand on the quayside on a clear day and the French coast is visible on the horizon.

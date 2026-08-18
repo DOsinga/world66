@@ -1,12 +1,16 @@
 ---
-latitude: 45.1750
-longitude: 28.8000
+latitude: 45.175
+longitude: 28.8
 loc_type: feature
-score: 9.6
+score: 5.564
 snippet: Europe's largest wetland reserve — a UNESCO-protected maze of channels, reed
   islands, and pelican colonies at the mouth of the Danube.
 title: Danube Delta
 type: location
+heritage: 4.011
+vibrancy: 2.335
+nature: 6.924
+off_the_beaten_track: 4.833
 ---
 
 The Danube Delta is where Europe's second-longest river finally unravels into the Black Sea, splitting into three main arms — Chilia, Sulina, and Sfântu Gheorghe — and a tangle of smaller channels, lakes, and reed beds in between. At 580,000 hectares it is the continent's largest and best-preserved wetland, and most of it is protected as a UNESCO Biosphere Reserve. Over 5,500 species of plants and animals live here, including the largest population of white pelicans in Europe and a long roll-call of herons, cormorants, kingfishers, ibis, and migrating raptors. For many travellers the delta is the single reason to come to this corner of Romania.

@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Locarno_porto_-_panoramio.
 latitude: 46.1696
 loc_type: city
 longitude: 8.7955
-score: 8.83
+score: 5.426
 snippet: Ticino lakeside city on Lake Maggiore, centred on Piazza Grande and its open-air
   film festival
 title: Locarno
 type: location
+heritage: 5.614
+vibrancy: 4.126
+nature: 6.031
+off_the_beaten_track: 2.336
 ---
 
 Locarno sits at the northern tip of [Lake Maggiore](/europe/switzerland/locarno/lake_maggiore) in the Italian-speaking canton of Ticino, making it one of the warmest cities in [Switzerland](/europe/switzerland). The [Piazza Grande](/europe/switzerland/locarno/piazza_grande), one of the finest public squares in the country, opens directly onto the lakeshore and every August becomes the open-air cinema of the Locarno Film Festival, one of the oldest and most respected film festivals in Europe.

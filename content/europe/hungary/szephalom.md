@@ -5,11 +5,15 @@ done:
 latitude: 48.389
 loc_type: city
 longitude: 21.525
-score: 6.03
+score: 4.014
 snippet: Small Hungarian literary settlement where Ferenc Kazinczy's memorial hall
   anchors the language-reform pilgrimage.
 title: Széphalom
 type: location
+heritage: 3.226
+vibrancy: 1.766
+nature: 4.855
+off_the_beaten_track: 3.151
 ---
 
 Széphalom is a small settlement on the outskirts of Sátoraljaújhely in northeast [Hungary](/europe/hungary), near the Slovak border. It is a literary pilgrimage site rather than a destination in the usual sense — this was the home of Ferenc Kazinczy (1759–1831), the writer and linguist who led the Hungarian language reform movement in the early 19th century.

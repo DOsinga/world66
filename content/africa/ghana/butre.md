@@ -7,11 +7,15 @@ done:
 latitude: 4.8229
 loc_type: city
 longitude: -1.9169
-score: 6.59
+score: 4.78
 snippet: Small Ghanaian fishing village where forested hills, a quiet beach, and Fort
   Batenstein meet
 title: Butre
 type: location
+heritage: 3.092
+vibrancy: 2.347
+nature: 6.042
+off_the_beaten_track: 4.481
 ---
 
 Butre is a small fishing village on Ghana's Western Region coast, tucked between forest hills and the Atlantic. It's quiet, genuinely off the beaten track, and rewards travelers who make the detour from the Cape Three Points road.

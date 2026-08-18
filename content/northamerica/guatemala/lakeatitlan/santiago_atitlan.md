@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Volcan-San-Pedro-Panorama.
 latitude: 14.6434
 loc_type: city
 longitude: -91.2268
-score: 8.55
+score: 6.165
 title: Santiago Atitlan
 snippet: Tz'utujil Maya town on Lake Atitlán, set between volcanoes and centred on
   living traditional culture.
 type: location
+heritage: 4.743
+vibrancy: 4.475
+nature: 7.393
+off_the_beaten_track: 3.945
 ---
 
 Santiago Atitlán is the largest and most culturally distinctive town on [Lake Atitlán](/northamerica/guatemala/lakeatitlan), sitting on the southern shore between two of the lake's volcanoes, Tolimán and San Pedro. It is the centre of the Tz'utujil Maya people, who have maintained their language, traditional dress, and customs with more tenacity than almost anywhere else in Guatemala.

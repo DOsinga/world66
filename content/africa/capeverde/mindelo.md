@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2006.07.12.cv.sv.mindelo.p
 latitude: 16.887
 loc_type: city
 longitude: -24.9812
-score: 8.24
+score: 6.03
 snippet: Cape Verdean harbour city on São Vicente, famed for morna music and faded
   colonial streets
 title: Mindelo
 type: location
+heritage: 3.88
+vibrancy: 5.228
+nature: 6.821
+off_the_beaten_track: 4.566
 ---
 
 Mindelo is the cultural capital of Cape Verde and one of the most appealing small cities in West Africa. Set around a wide natural harbor on [Sao Vicente](/africa/capeverde/saovicente), it has a faded colonial elegance -- pastel buildings around the [Palacio do Povo](/africa/capeverde/mindelo/palacio_do_povo), cobblestone streets, a waterfront [promenade](/africa/capeverde/mindelo/avenida_marginal) -- and a music scene that punches absurdly above its weight. This is where [Cesaria Evora](/africa/capeverde/mindelo/casa_cesaria_evora) grew up, and live music still pours out of bars and clubs every weekend night. Morna, coladeira, funana -- you can hear it all within a few blocks.

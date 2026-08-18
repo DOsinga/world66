@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Nashik_bhandardhara.jpg
 latitude: 19.5218
 loc_type: city
 longitude: 73.7577
-score: 7.18
+score: 5.318
 snippet: Sahyadri hill station and reservoir area near Arthur Lake, with treks to
   Kalsubai Peak and Ratangad Fort.
 title: Bhandardhara
 type: location
+heritage: 2.028
+vibrancy: 1.927
+nature: 7.092
+off_the_beaten_track: 3.772
 ---
 
 Bhandardhara is a hill station and reservoir in the Sahyadri range of [Maharashtra](/asia/india/maharashtra), about four hours' drive from [Mumbai](/asia/india/maharashtra/mumbai). During the monsoon the landscape transforms — cloud-wrapped mountains, waterfalls everywhere, and the [Arthur Lake](/asia/india/maharashtra/bhandardhara/arthur_lake) reservoir brimming against the Wilson Dam. It is one of the best weekend escapes from the city.

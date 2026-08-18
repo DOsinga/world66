@@ -15,9 +15,13 @@ sources:
 - https://en.wikipedia.org/wiki/Corniche_Jijelienne
 title: Jijel
 type: location
-score: 6.33
+score: 3.93
 snippet: Mediterranean coastal city where forested Kabylie mountains drop to cliffs,
   coves, and small beaches.
+heritage: 2.655
+vibrancy: 1.636
+nature: 4.362
+off_the_beaten_track: 5.669
 ---
 
 Jijel is Algeria's green, cliff-backed Mediterranean coast at its most dramatic. The city itself is modest and workaday, but the setting is superb: forested mountains press close to the sea, small beaches sit below headlands, and the road west towards Bejaia becomes one long argument for travelling slowly.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Canon_City_CO_-_Main_Stree
 latitude: 38.442251
 loc_type: city
 longitude: -105.23488
-score: 7.53
+score: 5.258
 snippet: Rocky Mountain foothills town on the Arkansas River, gateway to the Royal
   Gorge
 title: Cañon City
 type: location
+heritage: 2.964
+vibrancy: 2.344
+nature: 6.893
+off_the_beaten_track: 2.659
 ---
 
 Cañon City sits at the foot of the Rocky Mountains along the Arkansas River, about 45 minutes southwest of Colorado Springs. It is best known as the gateway to the Royal Gorge — a dramatic 300-metre-deep canyon carved by the Arkansas River, spanned by [one of the world's highest suspension bridges](/northamerica/unitedstates/colorado/canon_city/royal_gorge_bridge).

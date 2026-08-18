@@ -3,11 +3,16 @@ title: Holland
 type: location
 loc_type: city
 latitude: 42.7833
-longitude: -86.1000
-score: 7.2
-snippet: Lake Michigan town where Dutch heritage, tulip gardens, beaches, and a working windmill meet.
+longitude: -86.1
+score: 4.36
+snippet: Lake Michigan town where Dutch heritage, tulip gardens, beaches, and a working
+  windmill meet.
 sources:
-  - https://en.wikivoyage.org/wiki/Holland_(Michigan)
+- https://en.wikivoyage.org/wiki/Holland_(Michigan)
+heritage: 3.75
+vibrancy: 4.307
+nature: 4.498
+off_the_beaten_track: 1.255
 ---
 
 Holland is a small west Michigan city with a clear identity: Dutch immigrant history, tulips in spring, a walkable downtown, and Lake Michigan beaches just beyond town. It is not the Netherlands transplanted whole, but the best pieces are specific enough to make a good day if you are already on the lakeshore.

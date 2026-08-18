@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:La_Roque-Gageac_Dordogne.j
 latitude: 45.14292
 loc_type: feature
 longitude: 0.632126
-score: 0.65
+score: 5.571
 snippet: Périgord river region of golden-stone villages, châteaux, truffle woods,
   and prehistoric cave art.
 title: Dordogne
 type: location
+heritage: 6.074
+vibrancy: 5.422
+nature: 5.925
+off_the_beaten_track: 2.453
 ---
 
 The Dordogne is known to the French as the Perigord. It is divided into four regions: the black perigord, the purple perigord, the green and the whit. 

@@ -5,7 +5,7 @@ done:
 latitude: -38.1493
 loc_type: city
 longitude: 144.3598
-score: 7.18
+score: 4.986
 snippet: Victoria's second-largest city, set on Port Phillip Bay with a revitalised
   waterfront and painted bollards.
 sources:
@@ -16,6 +16,10 @@ image: geelong.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aerial_perspective_of_Geelong_(2).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Bob T
+heritage: 3.801
+vibrancy: 4.867
+nature: 5.292
+off_the_beaten_track: 1.929
 ---
 
 Geelong is [Victoria](/australiaandpacific/australia/victoria)'s second-largest city, home to over 250,000 people, and sits on the western shore of Port Phillip Bay about an hour's drive from [Melbourne](/australiaandpacific/australia/victoria/melbourne). Long overshadowed by its neighbour, Geelong has reinvented itself in recent years around a revitalised waterfront that is genuinely worth visiting. The painted [bollards](/australiaandpacific/australia/victoria/geelong/geelong_bollards) by artist Jan Mitchell — over 100 of them, each depicting a local historical figure — line the promenade, and the [Eastern Beach](/australiaandpacific/australia/victoria/geelong/eastern_beach) swimming enclosure, carousel, and string of cafes make it a pleasant spot to spend an afternoon.

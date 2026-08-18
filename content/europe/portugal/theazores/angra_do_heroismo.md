@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ayuntamiento,_Angra_do_Her
 latitude: 38.659317
 loc_type: city
 longitude: -27.219558
-score: 8.71
+score: 6.373
 snippet: Azorean Renaissance port city on Terceira, once a key Atlantic crossroads
   between continents.
 title: Angra do Heroismo
 type: location
+heritage: 5.118
+vibrancy: 4.871
+nature: 7.524
+off_the_beaten_track: 3.657
 ---
 
 Angra do Heroismo is the kind of place that rewards the traveller who ventures beyond mainland Portugal. Perched on the southern coast of Terceira island in the Azores, this UNESCO World Heritage city is one of the finest examples of Renaissance urban planning in the Atlantic world — its grid of straight streets laid out in the 15th century still defines the city today.

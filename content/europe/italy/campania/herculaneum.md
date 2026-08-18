@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Antigua_ciudad_de_Herculan
 latitude: 40.805361
 loc_type: city
 longitude: 14.347104
-score: 8.95
+score: 6.432
 title: Herculaneum
 snippet: Roman resort town buried by Vesuvius, where carbonised wood, food, and furniture
   survived beneath pyroclastic flows.
 type: location
+heritage: 8.5
+vibrancy: 3.388
+nature: 2.835
+off_the_beaten_track: 2.11
 ---
 
 *Europe > Italy > Campania > Herculaneum*

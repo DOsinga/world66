@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Quebec_City,_Canada.jpg
 latitude: 46.813743
 loc_type: city
 longitude: -71.208406
-score: 9.38
+score: 7.154
 title: Québec City
 type: location
 snippet: Fortified French-Canadian capital above the St. Lawrence, with an intact
   old walled centre.
+heritage: 8.153
+vibrancy: 6.405
+nature: 5.227
+off_the_beaten_track: 1.973
 ---
 
 Québec City is the most European city in North America. Founded in 1608 by Samuel de Champlain, it has preserved its old walled centre almost intact — the only fortified city north of Mexico, and a UNESCO World Heritage Site since 1985. Walking the narrow streets of [Vieux-Québec](/northamerica/canada/quebec/quebeccity/things_to_do/vieux_quebec), with its 17th and 18th-century stone buildings, you could be in a provincial French city. Except for the weather.

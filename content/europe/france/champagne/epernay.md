@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Epernay-moet-orangerie(1).
 latitude: 49.042561
 loc_type: city
 longitude: 3.952866
-score: 8.74
+score: 5.995
 snippet: Champagne wine city built above chalk cellars beneath the mansion-lined Avenue
   de Champagne.
 title: Epernay
 type: location
+heritage: 7.431
+vibrancy: 4.152
+nature: 2.604
+off_the_beaten_track: 1.763
 ---
 
 Epernay sits at the heart of the Champagne vineyards, a prosperous small city built on top of an extraordinary underground world. Beneath the elegant [Avenue de Champagne](/europe/france/champagne/epernay/avenue_de_champagne) — lined with the mansions of the great champagne houses — run more than a hundred kilometres of chalk tunnels where hundreds of millions of bottles quietly mature. [Moet et Chandon](/europe/france/champagne/epernay/moet_et_chandon), [Perrier-Jouet](/europe/france/champagne/epernay/perrier_jouet), and [Mercier](/europe/france/champagne/epernay/mercier) all offer cellar tours, and walking from one to the next along the avenue is one of the great indulgences of French wine country.

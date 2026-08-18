@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Hiking_through_Nyungwe_Nat
 latitude: -2.559061
 loc_type: city
 longitude: 29.293926
-score: 8.29
+score: 5.982
 snippet: Mountain rainforest national park in southwestern Rwanda, rich in primates,
   birds, and ancient highland biodiversity.
 title: Nyungwe National Park
 type: location
+heritage: 1.28
+vibrancy: 0.91
+nature: 7.613
+off_the_beaten_track: 5.436
 ---
 
 Nyungwe is the largest montane forest in central Africa, covering about 1,000 square kilometres of dense, mountainous terrain in southwestern Rwanda. The forest is ancient — one of the few in Africa that survived the ice ages — and its biodiversity reflects this. More than 13 primate species live here, including chimpanzees and the striking L'Hoest's monkey. Over 275 bird species have been recorded.

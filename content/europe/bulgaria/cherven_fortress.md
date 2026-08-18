@@ -2,8 +2,9 @@
 latitude: 43.62244
 loc_type: feature
 longitude: 26.02493
-score: 8.0
-snippet: Ruined medieval Bulgarian stronghold overlooking a bend in the Cherni Lom river.
+score: 5.561
+snippet: Ruined medieval Bulgarian stronghold overlooking a bend in the Cherni Lom
+  river.
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Rousse
 tags:
@@ -18,6 +19,10 @@ image: cherven_fortress.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cherven_fortress_016.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Vislupus
+heritage: 6.771
+vibrancy: 1.894
+nature: 4.584
+off_the_beaten_track: 3.814
 ---
 
 Cherven Fortress is a ruined medieval stronghold above a bend in the Cherni Lom river, about 30 km south of Ruse. The site preserves parts of a once important fortified town, including walls, church remains, a well-preserved tower, and traces of floor mosaics.

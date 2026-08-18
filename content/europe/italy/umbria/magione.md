@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castello_dei_Cavalieri_di_
 latitude: 43.1427
 loc_type: city
 longitude: 12.2035
-score: 7.24
+score: 5.276
 snippet: Umbrian lakeside town on Lake Trasimeno, named for its fortified Knights
   of Malta castle.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Lake_Trasimeno
 title: Magione
 type: location
+heritage: 6.088
+vibrancy: 3.578
+nature: 5.109
+off_the_beaten_track: 2.507
 ---
 
 Magione is a quiet Umbrian town on the eastern shore of [Lake Trasimeno](/europe/italy/umbria/magione/lago_trasimeno), about 20 kilometres west of Perugia. It is not a major destination, but it earns its place on the map: the lakeside setting is lovely, and the town has genuine medieval bones.

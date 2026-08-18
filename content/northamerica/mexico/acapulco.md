@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Acapulco3.jpg
 latitude: 16.86805
 loc_type: city
 longitude: -99.894018
-score: 6.69
+score: 5.878
 snippet: Pacific resort city around a deep natural bay, famed for mid-century glamour
   and cliff divers.
 title: Acapulco
 type: location
+heritage: 4.164
+vibrancy: 5.422
+nature: 6.491
+off_the_beaten_track: 4.553
 ---
 
 Acapulco curves around a deep natural bay on Mexico's Pacific coast, backed by green hills and fronted by some of the warmest swimming water in the country. For two decades in the mid-twentieth century it was the most glamorous resort in the Americas — Frank Sinatra, John Wayne, and a parade of Mexican presidents all came here. The hotels that survive from that era have aged unevenly, but the bay is as beautiful as ever.

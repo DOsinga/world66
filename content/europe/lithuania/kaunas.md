@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kauno_senamiestis_by_Augus
 latitude: 54.8985
 loc_type: city
 longitude: 23.9036
-score: 7.35
+score: 5.421
 title: Kaunas
 type: location
 snippet: Lithuania's second city, known for interwar modernist architecture and its
   Nemunas-Neris river confluence.
+heritage: 6.174
+vibrancy: 4.862
+nature: 3.429
+off_the_beaten_track: 2.579
 ---
 
 Lithuania's second city sits at the confluence of the Nemunas and Neris rivers, and many Lithuanians will tell you it is the most Lithuanian city of all. During the interwar years Kaunas served as the provisional capital, and that era left behind a remarkable collection of Art Deco and modernist architecture now recognised by UNESCO.

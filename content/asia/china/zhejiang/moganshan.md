@@ -4,13 +4,17 @@ done:
 latitude: 30.6298
 loc_type: feature
 longitude: 119.8253
-score: 7.6
+score: 4.939
 snippet: Forested Zhejiang hill retreat where bamboo trails wind past stone villas
   built by Shanghai expatriates.
 sources:
 - https://en.wikivoyage.org/wiki/Moganshan
 title: Moganshan
 type: location
+heritage: 3.673
+vibrancy: 2.892
+nature: 6.098
+off_the_beaten_track: 2.347
 ---
 
 Moganshan is a forested ridge in the hills between Hangzhou and Huzhou that has served as a retreat from summer heat since the late nineteenth century, when foreign missionaries and Shanghai businessmen built [stone villas](/asia/china/zhejiang/moganshan/colonial_villas) among the bamboo. The colonial-era architecture — dozens of stone houses with tile roofs and deep verandas — survives remarkably intact, tucked into the hillside along lanes that feel less like China than like a hill station in the Nilgiris. The temperature runs five degrees cooler than the cities below, which explains everything about the mountain's history.

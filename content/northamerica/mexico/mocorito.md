@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 25.481
 longitude: -107.922
-score: 6.3
+score: 3.936
 snippet: Sinaloan Pueblo Magico with Jesuit roots, chilorio, murals, and living ulama
   traditions.
 sources:
@@ -15,6 +15,10 @@ image: mocorito.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Los_Girasoles_de_Mocorito.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Elii San
+heritage: 2.229
+vibrancy: 1.905
+nature: 5.086
+off_the_beaten_track: 3.326
 ---
 
 Mocorito is a small inland town in Sinaloa, north of [Culiacan](/northamerica/mexico/culiacan), with more identity than its size suggests. It is one of Mexico's Pueblos Magicos, and the appeal is not a single blockbuster sight but the mix of colonial streets, local food, civic pride, and old Sinaloan traditions.

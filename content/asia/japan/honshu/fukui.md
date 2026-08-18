@@ -4,10 +4,15 @@ type: location
 loc_type: city
 latitude: 36.0667
 longitude: 136.2167
-score: 7.7
-snippet: Hokuriku capital with castle ruins, quiet gardens, sauce katsudon, and the nearby Ichijodani ruins.
+score: 4.368
+snippet: Hokuriku capital with castle ruins, quiet gardens, sauce katsudon, and the
+  nearby Ichijodani ruins.
 sources:
-  - https://en.wikivoyage.org/wiki/Fukui
+- https://en.wikivoyage.org/wiki/Fukui
+heritage: 3.763
+vibrancy: 3.002
+nature: 5.176
+off_the_beaten_track: 3.174
 ---
 
 Fukui is the capital of Fukui Prefecture, a practical Hokuriku city with more history than its businesslike centre first suggests. The station area is ordinary, but a short walk brings you to old castle walls, a broad moat, small museums, and one of the region's best strolling gardens.

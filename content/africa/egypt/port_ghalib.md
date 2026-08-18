@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:PortGhalibMarina.jpg
 latitude: 25.53417
 loc_type: city
 longitude: 34.63722
-score: 7.18
+score: 5.03
 snippet: Purpose-built Red Sea marina resort used as a quiet base for southern reef
   trips.
 sources:
@@ -15,6 +15,10 @@ sources:
 title: Port Ghalib
 type: location
 wikidata: Q12199863
+heritage: 2.105
+vibrancy: 2.546
+nature: 6.566
+off_the_beaten_track: 2.269
 ---
 
 **Port Ghalib** is not an old Egyptian town. It is a purpose-built marina resort on the southern Red Sea coast, a few minutes from Marsa Alam airport and far quieter than [Hurghada](/africa/egypt/hurghada). That limits its local character, but makes its appeal simple: easy logistics, warm water, and access to reefs that see less pressure than the northern resort coast.

@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 68.709722
 longitude: -52.869444
-score: 7.0
-snippet: Disko Bay island town where whales, kayaks, winter ice, and Greenlandic culture meet.
+score: 6.0
+snippet: Disko Bay island town where whales, kayaks, winter ice, and Greenlandic culture
+  meet.
 sources:
 - https://en.wikivoyage.org/wiki/Aasiaat
 - https://www.wikidata.org/wiki/Q211218
 - https://visitgreenland.com/destinations/aasiaat/
+heritage: 4.713
+vibrancy: 0.259
+nature: 7.041
+off_the_beaten_track: 7.404
 ---
 
 Aasiaat sits on a cluster of islands at the southern end of Disko Bay, north of the Arctic Circle. It is smaller and quieter than [Ilulissat](/northamerica/greenland/ilulissat), but it has a strong Arctic identity of its own: open water threaded between low rocky islands, summer whales, winter sea ice, northern lights, and a town culture that is still closely tied to the sea.

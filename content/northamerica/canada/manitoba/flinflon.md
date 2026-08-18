@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 54.7667
 longitude: -101.8778
-score: 6.2
+score: 3.981
 snippet: Northern Manitoba mining town built on bare rock, lakes, and a wonderfully
   odd literary name.
 sources:
@@ -14,6 +14,10 @@ image: flinflon.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Flin_Flon,_Manitoba.jpg
 image_license: CC BY 4.0
 image_attribution: Quintin Soloviev
+heritage: 2.475
+vibrancy: 2.001
+nature: 4.816
+off_the_beaten_track: 4.44
 ---
 
 Flin Flon is the kind of northern town that makes no sense until you stand in it: streets climbing over hard Canadian Shield rock, lakes appearing between houses, mine works on the skyline, and a name borrowed from an Edwardian adventure novel. It sits on the Manitoba-Saskatchewan border, but its mood is more boreal frontier than prairie.

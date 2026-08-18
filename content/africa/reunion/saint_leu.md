@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -21.1664
 longitude: 55.2869
-score: 7.2
+score: 5.984
 snippet: West-coast Réunion town of surf, sea turtles, salt pans, and sugar history.
 sources:
 - https://en.wikivoyage.org/wiki/Saint-Leu
@@ -16,6 +16,10 @@ image: saint_leu.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Panorama_Saint_leu.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Regulator
+heritage: 3.852
+vibrancy: 4.041
+nature: 7.322
+off_the_beaten_track: 4.059
 ---
 
 Saint-Leu is one of Réunion's better small coastal bases: relaxed enough for a beach day, but with more to do than simply stare at the lagoon. It spreads along the island's sunny west coast, backed by dry slopes and old agricultural land that once grew coffee, sugar cane, and geranium.

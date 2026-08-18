@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:North_Main_Street_in_downt
 latitude: 35.32276
 loc_type: city
 longitude: -83.806999
-score: 7.04
+score: 5.213
 snippet: Remote Smoky Mountains county seat near Lake Santeetlah, Fontana Lake, and
   the Cherohala Skyway.
 title: Robbinsville
 type: location
+heritage: 3.801
+vibrancy: 2.763
+nature: 6.469
+off_the_beaten_track: 2.602
 ---
 
 Robbinsville is the county seat of Graham County, tucked into one of the most remote and scenic corners of the Smoky Mountains. This is genuine mountain country — untouched forests, quiet lakes, and deep valleys at prices that are surprisingly affordable compared to the more developed mountain towns.

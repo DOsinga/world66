@@ -4,7 +4,7 @@ done:
 latitude: 13.9
 loc_type: feature
 longitude: -60.98
-score: 7.33
+score: 6.007
 snippet: Mountain rainforest interior of Saint Lucia, with bird trails, waterfalls,
   and the island's highest peak.
 sources:
@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Geography_of_Saint_Lucia
 title: Saint Lucia National Rain Forest
 type: location
+heritage: 2.174
+vibrancy: 1.298
+nature: 7.945
+off_the_beaten_track: 4.476
 ---
 
 Saint Lucia's national rainforest is the green, mountainous interior that keeps the island from becoming just another beach destination. The reserve protects steep ridges, wet valleys, giant ferns, orchids, and the habitat of the Saint Lucia parrot, a bird that came perilously close to disappearing.

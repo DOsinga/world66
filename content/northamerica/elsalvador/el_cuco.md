@@ -2,16 +2,21 @@
 latitude: 13.1743
 loc_type: city
 longitude: -88.1108
-score: 6.9
-snippet: Eastern Salvadoran surf village with dark volcanic sand, fishing boats, and a wild-coast feel.
+score: 4.958
+snippet: Eastern Salvadoran surf village with dark volcanic sand, fishing boats, and
+  a wild-coast feel.
 sources:
-  - https://en.wikivoyage.org/wiki/El_Cuco
-  - https://elsalvador.travel/destination/las-flores-beach/en/
-  - https://www.lasfloresresort.com/
-  - https://www.visitcentroamerica.com/en/visit/playa-las-flores/
+- https://en.wikivoyage.org/wiki/El_Cuco
+- https://elsalvador.travel/destination/las-flores-beach/en/
+- https://www.lasfloresresort.com/
+- https://www.visitcentroamerica.com/en/visit/playa-las-flores/
 wikidata: Q14214807
 title: El Cuco
 type: location
+heritage: 2.971
+vibrancy: 3.511
+nature: 5.988
+off_the_beaten_track: 4.006
 ---
 
 El Cuco is the beach base for eastern El Salvador: a small fishing and surf village on the San Miguel coast, far from the busier scene around La Libertad. The sand is dark volcanic grey, the beach is long, and the mood is more local weekend escape than polished resort strip.

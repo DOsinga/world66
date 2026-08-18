@@ -5,18 +5,23 @@ loc_type: city
 latitude: 50.120455
 longitude: 12.351815
 wikidata: Q756581
-score: 7.4
-snippet: Small West Bohemian spa town of yellow colonnades, mineral springs, parks, and UNESCO status.
+score: 5.371
+snippet: Small West Bohemian spa town of yellow colonnades, mineral springs, parks,
+  and UNESCO status.
 sources:
-  - https://en.wikivoyage.org/wiki/Franti%C5%A1kovy_L%C3%A1zn%C4%9B
-  - https://whc.unesco.org/en/list/1613/
-  - https://www.greatspatownsofeurope.eu/discover-experience/frantiskovy-lazne/
-  - https://www.frantiskovy-lazne.info/en/great-spas-of-europe
-  - https://www.frantiskovy-lazne.info/en/interesting-places/the-glauber-springs-hall_281
+- https://en.wikivoyage.org/wiki/Franti%C5%A1kovy_L%C3%A1zn%C4%9B
+- https://whc.unesco.org/en/list/1613/
+- https://www.greatspatownsofeurope.eu/discover-experience/frantiskovy-lazne/
+- https://www.frantiskovy-lazne.info/en/great-spas-of-europe
+- https://www.frantiskovy-lazne.info/en/interesting-places/the-glauber-springs-hall_281
 image: frantiskovy_lazne.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Franti%C5%A1kovy_L%C3%A1zn%C4%9B_centrum_2.jpg
 image_license: CC BY-SA 4.0
 image_attribution: VitVit
+heritage: 6.091
+vibrancy: 3.678
+nature: 5.444
+off_the_beaten_track: 2.772
 ---
 
 Františkovy Lázně is the smallest and neatest corner of the West Bohemian Spa Triangle. Where Karlovy Vary is grand and theatrical, Františkovy Lázně is controlled, pale yellow, and almost geometric: a planned spa town of colonnades, pavilions, villas, and level walks through parks.

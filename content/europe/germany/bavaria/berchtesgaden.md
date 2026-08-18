@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:The_Watzman_8-15-2010.jpg
 latitude: 47.633022
 loc_type: city
 longitude: 13.002005
-score: 8.84
+score: 6.554
 snippet: Bavarian Alpine market town surrounded by peaks and protected national parkland
   near Austria.
 title: Berchtesgaden
 type: location
+heritage: 6.172
+vibrancy: 3.099
+nature: 7.543
+off_the_beaten_track: 2.617
 ---
 
 **Berchtesgaden** is a market town of about 8,000 people in the far south-eastern corner of **Bavaria**, 150 km south-east of Munich and surrounded by the snow-capped peaks of the **Berchtesgaden Alps**. It sits in one of the most dramatically beautiful valleys in Germany — a cul-de-sac of the Alps almost entirely surrounded by Austrian territory, and protected since 1978 as **Berchtesgaden National Park**, the only Alpine national park in Germany. The landscape is what brings almost everyone here: the jade-green waters of [Königssee](/europe/germany/bavaria/berchtesgaden/konigsee), the 1,874-metre [Watzmann](/europe/germany/bavaria/berchtesgaden/watzmann) (Germany's third-highest peak, a colossal double-summited mountain that dominates the valley), and the cable-car-accessed [Jenner](/europe/germany/bavaria/berchtesgaden/jenner) and [Kehlstein](/europe/germany/bavaria/berchtesgaden/kehlsteinhaus) viewpoints.

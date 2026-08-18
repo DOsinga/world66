@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Villa-la-angostura-Patagon
 latitude: -40.7619
 loc_type: city
 longitude: -71.6463
-score: 7.4
+score: 5.672
 snippet: Patagonian lake town between Nahuel Huapi forest, copper-barked arrayanes,
   and Cerro Bayo.
 sources:
@@ -17,6 +17,10 @@ sources:
 title: Villa La Angostura
 type: location
 wikidata: Q106096
+heritage: 5.212
+vibrancy: 5.627
+nature: 5.79
+off_the_beaten_track: 3.176
 ---
 
 Villa La Angostura sits on the north shore of Lago Nahuel Huapi, smaller and quieter than [Bariloche](/southamerica/argentina/bariloche) but with the same Patagonian mix of cold blue water, forested mountains, and timber lodges. It is not a town of grand monuments. The reason to come is the landscape right on its doorstep.

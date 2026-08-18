@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Pag_sa
 latitude: 44.45
 loc_type: city
 longitude: 15.05
-score: 8.27
+score: 5.623
 snippet: North Dalmatian island of bare karst, bora winds, sheep cheese, salt pans,
   and stark Adriatic light.
 title: Pag Island
 type: location
+heritage: 5.128
+vibrancy: 5.665
+nature: 5.515
+off_the_beaten_track: 3.138
 ---
 
 Pag is a long, narrow island in the north-Dalmatian archipelago, stretching some 60 kilometres between the Kvarner Gulf and the Velebit Channel. It is the fifth-largest island in Croatia, yet it feels worlds apart from the lush green islands further south. The landscape is stark and windswept — bare karst rock sculpted by the bora wind that howls down from the Velebit mountains, interrupted by pockets of green where salt-tolerant grasses and olive groves cling on.

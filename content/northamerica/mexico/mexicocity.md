@@ -17,7 +17,7 @@ quick_facts:
   Elevation: 2,240 m
   Population: ~22 million (metro)
   Templo Mayor: Aztec ruins in the centre
-score: 8.45
+score: 8.549
 snippet: High-altitude Mexican capital built over Tenochtitlan, centred on the Zócalo
   and layered Aztec-colonial history.
 tip: Mexico City is built on a drained lake bed, and it's still sinking — some buildings
@@ -26,6 +26,10 @@ tip: Mexico City is built on a drained lake bed, and it's still sinking — some
   al pastor from a busy stand. The Metro is cheap and vast. Watch belongings in crowds.
 title: Mexico City
 type: location
+heritage: 7.683
+vibrancy: 8.942
+nature: 4.948
+off_the_beaten_track: 1.548
 ---
 
 Mexico City sprawls across the floor of a high mountain valley at 2,240 metres, the political and cultural capital of Mexico and one of the largest urban areas on the planet. Roughly 22 million people live in the metropolitan area, on the same ground where the Aztec capital of Tenochtitlan once rose out of a lake. The Spanish razed the Aztec city in 1521 and built their colonial capital directly on top of it, and you can still see both layers from the central square.

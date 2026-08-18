@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: 65.85
 longitude: 24.15
-score: 6.6
-snippet: Finnish border town facing Sweden, with river history, museums, and whitefish rapids.
+score: 3.99
+snippet: Finnish border town facing Sweden, with river history, museums, and whitefish
+  rapids.
 sources:
 - https://en.wikivoyage.org/wiki/Tornio
 - https://en.wikipedia.org/wiki/Tornio
+heritage: 2.311
+vibrancy: 1.399
+nature: 5.116
+off_the_beaten_track: 3.504
 ---
 
 Tornio sits on the Finnish side of the Torne River, pressed right against Haparanda in Sweden. The border is the town's identity: you can walk between countries, step across a time zone, and see how Lapland's coast has always looked both east and west.

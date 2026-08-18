@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 39.1503
 longitude: -123.2078
-score: 6.7
-snippet: Inland Mendocino County town with Pomo art, Buddhist monastery grounds, vineyards, and nearby redwoods.
+score: 4.591
+snippet: Inland Mendocino County town with Pomo art, Buddhist monastery grounds, vineyards,
+  and nearby redwoods.
 wikidata: Q837105
 sources:
 - https://en.wikivoyage.org/wiki/Ukiah
 - https://www.visitcalifornia.com/places-to-visit/ukiah/
 - https://visitukiah.com/
+heritage: 3.142
+vibrancy: 2.996
+nature: 5.668
+off_the_beaten_track: 3.752
 ---
 
 Ukiah is the inland side of Mendocino County: warmer, drier, and more practical than the coast, with vineyards, county offices, old ranch land, and low hills around the valley. It is not as pretty as Mendocino village, but it rewards a traveler who wants more than surf and headlands.

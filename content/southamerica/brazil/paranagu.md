@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cidade_portu%C3%A1ria_de_r
 latitude: -25.514882
 loc_type: city
 longitude: -48.522669
-score: 6.51
+score: 5.245
 title: Paranaguá
 type: location
 snippet: Brazilian port city below Curitiba, reached by a dramatic railway through
   the Serra do Mar.
+heritage: 4.604
+vibrancy: 4.538
+nature: 5.937
+off_the_beaten_track: 2.593
 ---
 
 For many people Paranaguá is just a port city, the end of the line from the bus and train from [Curitiba](/southamerica/brazil/curitiba). But it is a scenic, laid-back place well worth more than a quick transfer. The train ride down from Curitiba through the Serra do Mar — the [Serra Verde Express](/southamerica/brazil/paranagu/serra_verde_express) — is one of the most spectacular rail journeys in Brazil, and reason enough to make the trip.

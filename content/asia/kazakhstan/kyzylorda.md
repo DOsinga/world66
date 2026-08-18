@@ -5,11 +5,15 @@ done:
 latitude: 45.2059
 loc_type: city
 longitude: 63.9155
-score: 5.42
+score: 3.655
 snippet: Southwestern Kazakh city on the Syr-Darya, set in windy semidesert near the
   Aral Sea
 title: Kyzylorda
 type: location
+heritage: 3.227
+vibrancy: 2.118
+nature: 3.4
+off_the_beaten_track: 5.943
 ---
 
 Kyzylorda sits in southwestern Kazakhstan, only 400 kilometers from the infamous Aral Sea. The name, according to locals, translates as "Red Center." The city is located in a vast semidesert that might remind you of places in Utah or Nevada. In spring, the lands near Kyzylorda are covered with a beautiful carpet of flowers, among which wild tulips are the most striking. The landscape is flat, which is typical of southern Kazakhstan, and one of the city's most constant features is the wind. As one local put it, it only blows twice a year: six months in winter and six months in summer. It carries salt from the Aral Sea, and if you drive north you can easily see salty crust on the sand.

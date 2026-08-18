@@ -2,7 +2,7 @@
 latitude: 62.7917
 loc_type: city
 longitude: 22.8417
-score: 7.15
+score: 4.426
 snippet: Southern Ostrobothnian rail city known for Alvar Aalto's civic centre and
   Finnish tango culture.
 sources:
@@ -14,6 +14,10 @@ image: seinajoki.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Lakeuden_risti_20180626.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Santeri Viinamäki
+heritage: 3.615
+vibrancy: 3.474
+nature: 5.181
+off_the_beaten_track: 1.641
 ---
 
 Seinäjoki is the capital of Southern Ostrobothnia, a flat-country rail and road hub in western Finland. It is not a picture-postcard old town. Its best reason to stop is modern architecture: Alvar Aalto designed a whole civic centre here, giving the city one of Finland's clearest concentrations of 20th-century design.

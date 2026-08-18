@@ -6,7 +6,11 @@ type: location
 loc_type: city
 latitude: 43.5632
 longitude: 11.4508
-score: 6.89
+score: 3.248
+heritage: 3.869
+vibrancy: 1.819
+nature: 2.872
+off_the_beaten_track: 1.729
 ---
 
 Incisa in Valdarno is a small town in the Upper Arno Valley (Valdarno Superiore) south of Florence, sitting where the river narrows between wooded hills. It is traditionally the gateway to the Valdarno from the north, and its position on the old Florentine state road — and now the Autostrada del Sole motorway — has defined its character for centuries. The modern town is mostly unremarkable, but the old centre preserves several churches and oratories of genuine interest.

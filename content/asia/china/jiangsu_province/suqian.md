@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:%E5%AE%BF%E8%BF%81%E9%AA%8
 latitude: 33.963
 loc_type: city
 longitude: 118.276
-score: 5.64
+score: 2.494
 snippet: Northern Jiangsu city tied to Xiang Yu, baijiu distilleries, and the wetlands
   of Hongze Lake.
 sources:
 - https://en.wikivoyage.org/wiki/Suqian
 title: Suqian
 type: location
+heritage: 2.727
+vibrancy: 2.425
+nature: 2.14
+off_the_beaten_track: 1.545
 ---
 
 Suqian is a northern Jiangsu city with a history it wears lightly but is genuinely proud of: it was the birthplace of Xiang Yu, the fearsome warlord who defeated the Qin Dynasty and then lost the subsequent struggle for China to Liu Bang, the founder of the Han. The [ancestral home of Xiang Yu](/asia/china/jiangsu_province/suqian/xiang_yu_hometown) is the centrepiece attraction, and it operates as a serious historical site with good contextual material about the turbulent Chu-Han Contention period. Emperor Qianlong reportedly visited Suqian five times on his southern inspection tours and called it the finest spring destination in the empire — the lakeside parks in blossom season lend credibility to that praise.

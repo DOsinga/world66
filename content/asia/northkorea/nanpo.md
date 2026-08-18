@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Dock_No._2._Nampo,_North_K
 latitude: 38.74
 loc_type: city
 longitude: 125.407
-score: 1.42
+score: 4.212
 snippet: North Korean port city at the Taedong River mouth, known for the West Sea
   Barrage.
 title: Nampo
 type: location
+heritage: 3.859
+vibrancy: 2.071
+nature: 3.927
+off_the_beaten_track: 6.843
 ---
 
 Nampo is North Korea's main port city, sitting at the mouth of the Taedong River on the west coast, about 50km from [Pyongyang](/asia/northkorea/pyongyang). Most of the country's seaborne trade passes through here, and the city has a functional, working feel that is a world away from the capital's monumental theatrics.

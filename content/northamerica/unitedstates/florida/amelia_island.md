@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Amelia_Island_Marshes.jpg
 latitude: 30.607738
 loc_type: city
 longitude: -81.460091
-score: 8.08
+score: 5.003
 snippet: Florida barrier island by Georgia, with Fernandina Beach history and a record
   of eight flags.
 title: Amelia Island
 type: location
+heritage: 2.688
+vibrancy: 4.246
+nature: 5.703
+off_the_beaten_track: 1.159
 ---
 
 Amelia Island is a barrier island at the northeastern tip of Florida, just across the state line from Georgia and about 30 miles from [Jacksonville](/northamerica/unitedstates/florida/jacksonville). It has the distinction of having flown eight different flags over its history — French, Spanish, British, patriot rebels, the Green Cross of Florida, Mexican, Confederate, and American — more than any other place in the country. That history is still visible in the streets of Fernandina Beach, the island's main town, where the [Fernandina Beach Historic District](/northamerica/unitedstates/florida/amelia_island/fernandina_beach_historic_district) lines Centre Street with locally owned shops, seafood restaurants, and buildings that date back to the 1870s.

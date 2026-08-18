@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:070203_MM21%26FUJI.jpg
 latitude: 35.362838
 loc_type: feature
 longitude: 138.730768
-score: 9.71
+score: 6.228
 snippet: Japan's highest mountain and most recognisable volcanic cone, long central
   to art and pilgrimage.
 title: Mount Fuji
 type: location
+heritage: 6.481
+vibrancy: 3.506
+nature: 6.906
+off_the_beaten_track: 2.837
 ---
 
 Mount Fuji is Japan's highest mountain at 3,776 metres (12,388 ft) and its most recognisable landmark — a near-perfect volcanic cone visible from [Tokyo](/asia/japan/honshu/tokyo) on clear days. It was designated a UNESCO World Heritage Site in 2013, notably as a cultural site rather than a natural one, reflecting centuries of influence on Japanese art, literature, and spiritual practice.

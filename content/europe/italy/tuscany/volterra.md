@@ -7,7 +7,7 @@ done:
 latitude: 43.4003
 loc_type: city
 longitude: 10.86
-score: 8.91
+score: 5.304
 snippet: Tuscan hill town where Etruscan walls and alabaster workshops overlook the
   Cecina and Era valleys.
 title: Volterra
@@ -16,6 +16,10 @@ image: volterra.jpg
 image_source: https://commons.wikimedia.org/wiki/File:%2BFaszinierendes_Beispiel_mittelalterlicher_Stadtarchitektur._01.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Holger Uwe Schmitt
+heritage: 6.007
+vibrancy: 3.801
+nature: 5.393
+off_the_beaten_track: 2.692
 ---
 
 Volterra sits 545 metres above sea level on a dramatic ridge in the Tuscan hills, looking out over the Cecina and Era valleys. It is less visited than [Siena](/europe/italy/tuscany/siena) or [San Gimignano](/europe/italy/tuscany/sangimignano), which is precisely the point — you can walk its narrow stone streets without feeling like you are in a theme park.

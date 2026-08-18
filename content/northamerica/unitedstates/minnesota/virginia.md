@@ -5,11 +5,15 @@ done:
 latitude: 47.5233
 loc_type: city
 longitude: -92.5366
-score: 5.56
+score: 4.12
 title: Virginia
 type: location
 snippet: Virginia is a Mesabi Iron Range city shaped by northeastern Minnesota’s taconite
   mining landscape.
+heritage: 2.305
+vibrancy: 2.787
+nature: 5.04
+off_the_beaten_track: 1.891
 ---
 
 Virginia is a small city on the Mesabi Iron Range in northeastern Minnesota, known locally as the "Queen City of the North." It was founded in the 1890s during the iron mining boom, and mining — now mostly taconite — still shapes the local economy and landscape. The [mine viewpoint at the north edge of town](/northamerica/unitedstates/minnesota/virginia/chisholm_mine_view) offers a look into an active pit operation; the Hull-Rust-Mahoning Mine near Hibbing gives an even larger perspective.

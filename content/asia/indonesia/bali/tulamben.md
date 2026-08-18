@@ -5,7 +5,7 @@ done:
 latitude: -8.277542
 loc_type: city
 longitude: 115.592834
-score: 8.53
+score: 5.491
 snippet: Bali dive village on the northeast coast, defined by the coral-covered USAT
   Liberty wreck just offshore.
 sources:
@@ -16,6 +16,10 @@ image: tulamben.jpg
 image_source: https://commons.wikimedia.org/wiki/File:USAT_Liberty_Wreck_Dive.jpg
 image_license: CC BY-SA 3.0
 image_attribution: G patkar
+heritage: 2.811
+vibrancy: 3.406
+nature: 6.865
+off_the_beaten_track: 4.819
 ---
 
 Tulamben is one of the world's great shore dives. The [USAT Liberty wreck](/asia/indonesia/bali/tulamben/usat_liberty_wreck), a US Army cargo ship torpedoed by a Japanese submarine in 1942 and dragged onto the beach after the 1963 eruption of Mount Agung, lies just 30 metres from shore in 3 to 29 metres of water. The wreck is encrusted with coral and swarming with hundreds of fish species, making it accessible to divers of almost any level.

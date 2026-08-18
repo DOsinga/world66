@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Amotha_Pauri_Garhwal_Uttar
 latitude: 30.065231
 loc_type: city
 longitude: 78.731572
-score: 6.78
+score: 5.554
 snippet: Lower Himalayan ridge town with road-accessible views of Nanda Devi, Trishul,
   and Chaukhamba.
 title: Pauri
 type: location
+heritage: 4.797
+vibrancy: 2.889
+nature: 6.576
+off_the_beaten_track: 5.851
 ---
 
 Pauri is the administrative headquarters of Pauri Garhwal district, perched at around 1,650 metres on a ridge in the lower Himalayas. It is primarily a government town — the kind of place where the district collector's office and the court complex are the main landmarks — but the setting is spectacular. From the ridge, you get panoramic views of the snow-capped Himalayan peaks including Nanda Devi, Trishul, and Chaukhamba, and these are among the finest mountain vistas accessible by road in Garhwal.

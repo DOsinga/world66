@@ -5,13 +5,17 @@ done:
 latitude: 24.346884
 loc_type: city
 longitude: 93.699414
-score: 5.8
+score: 4.528
 snippet: Manipur hill town south of Imphal, shaped by Kuki culture, churches, and
   surrounding forested valleys.
 sources:
 - https://en.wikipedia.org/wiki/Churachandpur
 title: Churachandpur
 type: location
+heritage: 4.172
+vibrancy: 2.56
+nature: 5.179
+off_the_beaten_track: 6.027
 ---
 
 Churachandpur is a hill town about 60 kilometres south of Imphal, the district headquarters of Churachandpur district in the southern part of Manipur. It is primarily a Kuki tribal town with a predominantly Christian population — the result of American Baptist missionary activity in the late nineteenth and early twentieth centuries.

@@ -2,11 +2,15 @@
 latitude: -23.7917
 loc_type: feature
 longitude: 35.5383
-score: 7.1
+score: 5.508
 snippet: A narrow palm-covered sandbar north of Inhambane, ending at a colonial-era
   lighthouse with quiet beaches and good snorkelling.
 title: Barra Peninsula
 type: location
+heritage: 2.619
+vibrancy: 1.812
+nature: 6.723
+off_the_beaten_track: 5.944
 ---
 
 The Barra Peninsula curves north from [Inhambane](/africa/mozambique/inhambane) and ends at Ponta da Barra, where a functioning colonial-era lighthouse marks the tip. The peninsula is a narrow strip of sand between Inhambane Bay on one side and the Indian Ocean on the other, covered with towering coconut palms. The beaches here are quieter than nearby [Tofo](/africa/mozambique/tofo), and the snorkelling off the point is consistently good.

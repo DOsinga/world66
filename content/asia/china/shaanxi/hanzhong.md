@@ -12,9 +12,13 @@ image: hanzhong.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Hanzhong_District.jpg
 image_license: Public domain
 image_attribution: NASA
-score: 6.62
+score: 4.761
 snippet: Fertile Han River valley city where the Han Dynasty name and Three Kingdoms
   memory converge.
+heritage: 6.317
+vibrancy: 2.339
+nature: 2.744
+off_the_beaten_track: 3.721
 ---
 
 Hanzhong sits in the Han River valley between the Qinling and Daba mountain ranges, geographically and climatically distinct from the rest of Shaanxi — warmer, wetter, more fertile. The Han Dynasty itself took its name from this valley, where Liu Bang established his base before defeating the Qin and founding the empire that shaped Chinese civilisation more than any other. Every major subsequent campaign for control of China has passed through here, and the Three Kingdoms period in particular left its deepest marks: Zhuge Liang, the brilliant strategist of the Shu Kingdom, used Hanzhong as his staging base for five northern expeditions, and his memory saturates the region.

@@ -17,7 +17,7 @@ quick_facts:
   Elevation: 2,640 m
   Gold Museum: 55,000 pre-Hispanic pieces
   Population: ~8 million
-score: 8.47
+score: 7.112
 snippet: High Andean capital where colonial La Candelaria, street art, and glass towers
   sit at 2,640 metres
 tip: Bogotá sprawls across a high Andean plateau at 2,640 m, so it's cool year-round
@@ -27,6 +27,10 @@ tip: Bogotá sprawls across a high Andean plateau at 2,640 m, so it's cool year-
   the Ciclovía.
 title: Bogota
 type: location
+heritage: 5.796
+vibrancy: 7.665
+nature: 4.267
+off_the_beaten_track: 2.082
 ---
 
 Bogota sits at 2,640 metres in the eastern Andes, a sprawling capital of eight million people where colonial churches share blocks with glass towers and street art covers every spare wall. The altitude catches newcomers off guard -- the air is thin, the sun surprisingly strong, and the temperature hovers around 14 degrees year-round. Give yourself a day to adjust before tackling the hills.

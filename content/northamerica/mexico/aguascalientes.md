@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 21.8818
 longitude: -102.2916
-score: 7.5
-snippet: Central Mexican state capital of Posada prints, death iconography, and the San Marcos fair.
+score: 4.993
+snippet: Central Mexican state capital of Posada prints, death iconography, and the
+  San Marcos fair.
 wikidata: Q200805
 sources:
-  - https://en.wikivoyage.org/wiki/Aguascalientes
-  - https://aguascalientes.gob.mx/estado/JoseGuadalupePosada
-  - https://visitmexico.com/en/destino/18411/esmuseo-nacional-de-la-muerte-ennational-museum-of-death
+- https://en.wikivoyage.org/wiki/Aguascalientes
+- https://aguascalientes.gob.mx/estado/JoseGuadalupePosada
+- https://visitmexico.com/en/destino/18411/esmuseo-nacional-de-la-muerte-ennational-museum-of-death
+heritage: 5.374
+vibrancy: 4.887
+nature: 3.027
+off_the_beaten_track: 2.086
 ---
 
 Aguascalientes is one of central Mexico's easier cities to underestimate. It is tidy, prosperous, and less theatrical than nearby [Zacatecas](/northamerica/mexico/zacatecas), but the centre has a strong identity built around printmaking, death imagery, hot-spring history, and the country's biggest fair.

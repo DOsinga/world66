@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 54.9833
 longitude: 73.3667
-score: 7.2
+score: 4.66
 snippet: Big Siberian city on the Irtysh, shaped by fortress history, exile, railways,
   and strong museums.
 wikidata: Q898
@@ -18,6 +18,10 @@ image: omsk.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Irtish_v_Omsk.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Petar Milošević
+heritage: 5.375
+vibrancy: 3.695
+nature: 4.517
+off_the_beaten_track: 4.899
 ---
 
 Omsk is one of Siberia's great old cities, spread along the Irtysh near the mouth of the Om. It began as an 18th-century fortress, became the administrative capital of Western Siberia, and later grew into a major rail, river, and industrial city. It does not have the polish of St Petersburg or the easy prettiness of Tomsk, but it has weight.

@@ -2,7 +2,7 @@
 latitude: 18.76
 loc_type: city
 longitude: 73.38
-score: 7.0
+score: 5.429
 snippet: Cliff-top hill station on the Mumbai–Pune ghat, twinned with Lonavala.
 title: Khandala
 type: location
@@ -10,6 +10,10 @@ image: khandala.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Khandala_railway_station_name_board,_Maharashtra.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Iamtaptwice
+heritage: 3.553
+vibrancy: 4.06
+nature: 6.453
+off_the_beaten_track: 2.331
 ---
 
 Khandala is a small hill station perched on the edge of the Western Ghats escarpment, just where the road and rail line from Mumbai climb up onto the Deccan plateau. It sits barely 5 km from **Lonavala**, and in practice the two towns blur into a single weekend destination, but Khandala holds the more dramatic position — strung along the lip of the **Sahyadri** cliffs, it catches the cool sea breeze rolling in off the Arabian Sea and looks straight down into the deep green ravines of the ghats. At around 625 metres it stays noticeably cooler than the coast below, which is exactly why the British developed it in the 19th century as a hot-weather retreat from Bombay.

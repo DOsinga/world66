@@ -4,13 +4,17 @@ done:
 latitude: 35.7498
 loc_type: city
 longitude: 114.2887
-score: 5.67
+score: 4.038
 snippet: Northern Henan industrial city layered over Shang and Wei history, with crane
   legends in its name.
 sources:
 - https://en.wikivoyage.org/wiki/Hebi
 title: Hebi
 type: location
+heritage: 5.185
+vibrancy: 2.432
+nature: 2.518
+off_the_beaten_track: 2.887
 ---
 
 Hebi is a small industrial city in northern Henan that most travellers pass through without stopping, which is a mild shame because it sits on top of one of the more unusual concentrations of ancient history in the province. The city's name means "cranes perch on the cliff of the southern mountain," a reference to Duke Yi of the State of Wei, who was so besotted with cranes that he gave them official court titles and took them on military campaigns — which did not end well for him or his kingdom, but made for a good story. The broader area around modern Hebi, then known as Chaoge, served as the capital of the late Shang dynasty and later of the Zhou-period State of Wei.

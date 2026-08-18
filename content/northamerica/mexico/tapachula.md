@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 14.9
 longitude: -92.283
-score: 6.8
+score: 4.798
 snippet: Pacific Chiapas border city shaped by Soconusco coffee, migration, and the
   Izapa ruins.
 wikidata: Q988225
@@ -18,6 +18,10 @@ image: tapachula.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_de_Izapa.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Dianapaugallegos
+heritage: 4.217
+vibrancy: 4.14
+nature: 5.436
+off_the_beaten_track: 4.541
 ---
 
 Tapachula is the big, hot, restless city of Mexico's far southern Pacific coast, close to Guatemala but not quite on the border. It is the capital of the Soconusco, a humid strip of cacao, banana, mango, and coffee country squeezed between the ocean and the Sierra Madre de Chiapas.

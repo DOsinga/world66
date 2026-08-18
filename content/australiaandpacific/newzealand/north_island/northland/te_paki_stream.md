@@ -5,8 +5,12 @@ title: Te Paki Stream
 type: location
 latitude: -34.524582
 longitude: 172.773549
-score: 8.19
+score: 5.63
 loc_type: feature
+heritage: 3.252
+vibrancy: 1.382
+nature: 7.348
+off_the_beaten_track: 4.262
 ---
 
 Te Paki Stream is the northern access point for [Ninety Mile Beach](/australiaandpacific/newzealand/north_island/northland/ninety_mile_beach), where the stream meets the sand at the far end of the Aupouri Peninsula. All tour buses heading to and from Cape Reinga use this route, and it is the only vehicle crossing between the beach and the road at the northern end.

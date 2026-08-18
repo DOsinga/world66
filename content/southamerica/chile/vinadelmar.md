@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Palacio_Vergara,_Vi%C3%B1a
 latitude: -33.024453
 loc_type: city
 longitude: -71.551764
-score: 8.24
+score: 5.744
 snippet: Chilean beach resort beside Valparaíso, known for parks, cold Pacific water,
   and its music festival.
 title: Viña del Mar
 type: location
+heritage: 4.324
+vibrancy: 5.774
+nature: 5.668
+off_the_beaten_track: 2.131
 ---
 
 Viña del Mar — "Viña" to Chileans — is the country's most popular beach resort, just a short ride north along the coast from [Valparaíso](/southamerica/chile/valparaiso). It is loved by Chileans for its cleanliness, parks, and casino, though foreign visitors sometimes find it short on character compared to its grittier neighbour. The town has wide avenues, manicured gardens, and high-rise apartment blocks lining the waterfront.

@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Leather_tanning_in_Fez,_Mo
 latitude: 34.0181
 loc_type: city
 longitude: -5.0078
-score: 9.36
+score: 5.546
 snippet: Moroccan imperial city with a vast car-free medina of alleys, fondouks, and
   living craft.
 title: Fez
 type: location
+heritage: 6.845
+vibrancy: 3.901
+nature: 3.085
+off_the_beaten_track: 3.291
 ---
 
 Fez is Morocco's spiritual and intellectual capital, and the most rewarding city in the country to lose yourself in. The walled medina of **Fes el-Bali** is the largest car-free urban area on earth — nine thousand alleys, dead ends, fondouks and squares packed into a bowl in the Saiss plain. The whole old city is a UNESCO World Heritage site and it has changed remarkably little since it was laid out in the ninth century.

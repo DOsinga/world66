@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Sunset_Tower,_8358_Sunset_
 latitude: 34.092301
 loc_type: city
 longitude: -118.369289
-score: 7.99
+score: 6.896
 snippet: Dense Los Angeles enclave of Sunset Strip music history, LGBT civic culture,
   and walkable nightlife.
 title: West Hollywood
 type: location
+heritage: 4.796
+vibrancy: 7.625
+nature: 5.013
+off_the_beaten_track: 0.964
 ---
 
 West Hollywood — "WeHo" to everyone who lives there — is a small, dense, independent city of about 35,000 people entirely surrounded by the City of Los Angeles. Only 1.9 square miles in area, it was incorporated as a separate city in 1984 and has since become one of the most distinctive neighbourhoods in greater LA: a compact, walkable grid (a rarity in Los Angeles), a large and politically active LGBT community (West Hollywood was one of the first cities in the United States to elect an openly gay majority on its city council), and an extraordinary concentration of nightlife, restaurants, design shops and music venues per square kilometre.

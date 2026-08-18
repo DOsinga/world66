@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Tigress_in_Bandhavgarh_NP.
 latitude: 23.6889
 loc_type: city
 longitude: 80.9685
-score: 8.06
+score: 6.978
 snippet: Madhya Pradesh national park in the Vindhya Hills, known for Bengal tigers
   and an ancient fort.
 title: Bandhavgarh
 type: location
+heritage: 3.18
+vibrancy: 2.845
+nature: 9.061
+off_the_beaten_track: 5.75
 ---
 
 Bandhavgarh National Park has one of the highest densities of Bengal tigers of any park in India, and your chances of spotting one here are better than almost anywhere else. Set in the Vindhya Hills of eastern [Madhya Pradesh](/asia/india/madhyapradesh), the park covers about 450 square kilometres of sal forest, grassland, and rocky hills, centred on an ancient fort that gives the park its name.

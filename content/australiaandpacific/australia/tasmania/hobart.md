@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Hobart-Tasmania-Australia1
 latitude: -42.8821
 loc_type: city
 longitude: 147.3272
-score: 8.74
+score: 6.217
 snippet: Tasmanian capital on the Derwent River, backed by kunanyi/Mount Wellington
   and centred on Sullivans Cove.
 title: Hobart
 type: location
+heritage: 4.283
+vibrancy: 5.28
+nature: 7.085
+off_the_beaten_track: 4.384
 ---
 
 Hobart is the capital of Tasmania and the second-oldest city in Australia after Sydney, founded in 1804 as a British penal settlement on the Derwent River. It is also the smallest Australian capital, with around 250,000 people spread along the deep estuary where the river meets the Tasman Sea, and it has a character all its own — colder, quieter, and more rooted in landscape than any other Australian city. Mount Wellington (*Kunanyi* in the local Mouheneenner language) rises 1,271 metres directly behind the town, snowy in winter, and you can drive to the summit for one of the most dramatic city-and-sea views in the world.

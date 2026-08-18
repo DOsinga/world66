@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 47.1667
 longitude: 11.8667
-score: 8.2
-snippet: Tyrolean Zillertal resort town between Penken and Ahorn, strong in skiing and summer mountains.
+score: 6.35
+snippet: Tyrolean Zillertal resort town between Penken and Ahorn, strong in skiing
+  and summer mountains.
 sources:
-  - https://en.wikivoyage.org/wiki/Mayrhofen
-  - https://en.wikipedia.org/wiki/Mayrhofen
-  - https://en.wikipedia.org/wiki/Penken
+- https://en.wikivoyage.org/wiki/Mayrhofen
+- https://en.wikipedia.org/wiki/Mayrhofen
+- https://en.wikipedia.org/wiki/Penken
+heritage: 3.789
+vibrancy: 5.723
+nature: 7.077
+off_the_beaten_track: 3.287
 ---
 
 Mayrhofen is a Tyrolean resort town at the upper end of the Zillertal, where the valley narrows and the mountains start to feel close on every side. It is best known as a ski base, but it is not only a winter place: the same lifts feed summer hiking, mountain biking, paragliding, and easy high-country views.

@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:SuperStar_Aquarius_at_Phoe
 latitude: 18.2534
 loc_type: city
 longitude: 109.5034
-score: 8.14
+score: 4.78
 snippet: Tropical resort city on southern Hainan, where palm-lined beaches anchor
   China's domestic seaside holidays.
 title: Sanya
 type: location
+heritage: 1.609
+vibrancy: 3.997
+nature: 5.478
+off_the_beaten_track: 1.48
 ---
 
 Sanya is China's answer to a tropical beach resort — a city on the southern tip of Hainan Island where the air is warm year-round, coconut palms line the shore, and the pace of life is noticeably slower than on the mainland. It has been heavily developed into a domestic tourism destination, but there is genuine appeal here: white sand beaches, warm clear water, fresh seafood, and a cultural diversity that includes the Hui Muslim minority community on the western edge of town.

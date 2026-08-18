@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Sant%27Andrea_Apostolo_del
 latitude: 38.6278
 loc_type: city
 longitude: 16.5386
-score: 6.91
+score: 3.367
 snippet: Hillside Calabrian town above the Ionian Sea, with mountain views and a quiet
   old centre.
 title: Sant'Andrea Apostolo dello Jonio
 type: location
+heritage: 3.868
+vibrancy: 1.99
+nature: 3.3
+off_the_beaten_track: 3.896
 ---
 
 Sant'Andrea Apostolo dello Jonio is a small town in Catanzaro province perched on a hillside above the Ionian Sea coast. Like many towns on the eastern side of Calabria, it is quiet and largely untouched by international tourism, which is precisely what makes it appealing. The views from the upper town stretch across the blue Ionian to one side and up toward the Sila mountains on the other.

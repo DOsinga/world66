@@ -8,11 +8,15 @@ image_source: https://www.flickr.com/photos/99785739@N00/13922373205
 latitude: 51.264018
 loc_type: city
 longitude: 7.178037
-score: 6.98
+score: 4.933
 snippet: Industrial city in the Bergisches Land, famous for its suspended Schwebebahn
   monorail.
 title: Wuppertal
 type: location
+heritage: 4.219
+vibrancy: 5.241
+nature: 3.672
+off_the_beaten_track: 0.807
 ---
 
 Wuppertal is best known for its [Schwebebahn](wuppertal/schwebebahn), a suspended monorail built in 1901 that still runs along the Wupper river through the centre of town. Riding it is one of the more unusual public transport experiences in Europe — the carriages hang from an elevated steel frame, swinging gently over the river and the streets below.

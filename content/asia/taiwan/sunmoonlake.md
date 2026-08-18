@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/67415843@N05/9547071362
 latitude: 23.852328
 loc_type: city
 longitude: 120.928607
-score: 8.85
+score: 6.572
 snippet: Taiwanese mountain lake ringed by tea hills, temples, cycling paths, and
   misty morning views.
 title: Sun Moon Lake
 type: location
+heritage: 5.334
+vibrancy: 3.907
+nature: 7.926
+off_the_beaten_track: 1.865
 ---
 
 Sun Moon Lake is Taiwan's largest lake and its most celebrated inland beauty spot. The clear water and surrounding tea-covered hills draw a steady stream of Taiwanese honeymooners and weekenders; whether this lives up to the hype depends partly on the weather. On a clear morning, with Jade Mountain reflected in the still water before the mist burns off, it earns every superlative.

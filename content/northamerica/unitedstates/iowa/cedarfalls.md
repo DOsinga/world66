@@ -2,13 +2,18 @@
 latitude: 42.5349
 loc_type: city
 longitude: -92.4453
-score: 6.2
-snippet: Cedar Valley college town with river trails, a strong arts scene, and a restored Main Street.
+score: 4.047
+snippet: Cedar Valley college town with river trails, a strong arts scene, and a restored
+  Main Street.
 sources:
-  - https://en.wikivoyage.org/wiki/Cedar_Falls
-  - https://en.wikipedia.org/wiki/Cedar_Falls,_Iowa
+- https://en.wikivoyage.org/wiki/Cedar_Falls
+- https://en.wikipedia.org/wiki/Cedar_Falls,_Iowa
 title: Cedar Falls
 type: location
+heritage: 2.367
+vibrancy: 3.14
+nature: 4.756
+off_the_beaten_track: 1.237
 ---
 
 Cedar Falls is a college town in north-east Iowa, joined at the hip with Waterloo but easier to like at a visitor's pace. The University of Northern Iowa gives it theatres, galleries, and a steady student pulse, while the Cedar River and the old railroad corridors give it some of the best urban trails in the state.

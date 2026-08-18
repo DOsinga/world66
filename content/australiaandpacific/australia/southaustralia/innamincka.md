@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -27.4629
 longitude: 140.5307
-score: 6.6
+score: 5.517
 snippet: Tiny Cooper Creek outback settlement on the edge of South Australia's Strzelecki
   country.
 sources:
@@ -13,6 +13,10 @@ image: innamincka.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Innamincka_trading_post.jpg
 image_license: CC0
 image_attribution: PookieFugglestein
+heritage: 3.407
+vibrancy: 1.559
+nature: 6.57
+off_the_beaten_track: 6.493
 ---
 
 Innamincka is a speck of a settlement in the far northeast of [South Australia](/australiaandpacific/australia/southaustralia), surrounded by gibber plains, dry channels, and the wide Cooper Creek system. It is not a town in the usual sense so much as a fuel stop, pub, airstrip, and base camp for serious outback travel.

@@ -11,9 +11,13 @@ loc_type: city
 snippet: Historic Pakistani town west of Rawalpindi, home to the Sikh shrine of Gurdwara
   Panja Sahib.
 longitude: 72.68572
-score: 5.97
+score: 4.393
 title: Hassan Abdal
 type: location
+heritage: 3.372
+vibrancy: 1.49
+nature: 5.366
+off_the_beaten_track: 4.727
 ---
 
 Hassan Abdal is a quiet historical town 50 km west of [Rawalpindi](/asia/pakistan/rawalpindi), worth a stop on the road to [Peshawar](/asia/pakistan/peshawar) or Abbottabad.

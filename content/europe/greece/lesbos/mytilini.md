@@ -5,13 +5,17 @@ done:
 latitude: 39.103735
 loc_type: city
 longitude: 26.554788
-score: 8.22
+score: 5.434
 snippet: Lesbos port capital of ancient harbours, a hilltop castle, and layered Greek
   and Ottoman history
 sources:
 - https://en.wikipedia.org/wiki/Mytilene
 title: Mytilini
 type: location
+heritage: 6.071
+vibrancy: 5.114
+nature: 5.471
+off_the_beaten_track: 2.989
 ---
 
 Mytilini (also spelled Mytilene) is the capital and main port of Lesbos, the third-largest Greek island, sitting close enough to the Turkish coast that on a clear day you can see the hills of Anatolia from the waterfront. The city wraps around two ancient harbours divided by a rocky headland topped by a Byzantine-Genoese castle, and the view arriving by ferry — castle above, neoclassical facades along the promenade, a dome and bell tower catching the light — is one of the better arrivals in the Aegean.

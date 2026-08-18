@@ -2,7 +2,7 @@
 latitude: 40.6
 loc_type: city
 longitude: 140.4667
-score: 7.6
+score: 4.272
 snippet: Northern Honshu castle town famed for cherry blossoms, temples, apples, and
   Neputa floats.
 sources:
@@ -14,6 +14,10 @@ image: hirosaki.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cherry_blossoms_along_the_moat_of_Hirosaki_Castle_at_night_20260420g.jpg
 image_license: CC BY-SA 4.0
 image_attribution: 掬茶
+heritage: 4.62
+vibrancy: 3.853
+nature: 4.664
+off_the_beaten_track: 1.882
 ---
 
 Hirosaki is a castle town in Aomori Prefecture, in the snowy north of [Honshu](/asia/japan/honshu). It was the seat of the Tsugaru clan, and it still has a stronger historic atmosphere than many larger cities in Tohoku: castle gates, temple lanes, old houses, and festival traditions survive alongside a modern apple-growing city.

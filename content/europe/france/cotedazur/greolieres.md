@@ -7,11 +7,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Gr%C3%A9oli%C3%A8res_-_%C3
 latitude: 43.795181
 loc_type: city
 longitude: 6.943595
-score: 7.42
+score: 5.959
 snippet: Alpes-Maritimes hilltop village between Riviera and mountains, with stone
   lanes and a nearby ski station.
 title: Gréolières
 type: location
+heritage: 3.72
+vibrancy: 3.173
+nature: 7.66
+off_the_beaten_track: 2.918
 ---
 
 Gréolières is a small hilltop village in the Alpes-Maritimes, sitting at around 800 metres and just 40 minutes from Nice airport. Its position between the coast and the mountains gives it a completely different feel from the Riviera below — stone streets, perched houses, and big views across the pre-Alps. The [medieval village](/europe/france/cotedazur/greolieres/medieval_village) centres on the [Église Saint-Pierre](/europe/france/cotedazur/greolieres/eglise_saint_pierre), a Romanesque church with origins in the 12th century, and the ruined castle above is a reminder that this was once a Grimaldi stronghold.

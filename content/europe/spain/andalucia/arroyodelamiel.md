@@ -3,7 +3,7 @@ title: Arroyo de la Miel
 type: location
 latitude: 36.631099
 longitude: -4.56749
-score: 7.11
+score: 4.504
 loc_type: city
 done:
   location_enrich: '2026-06-01'
@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Castillo_de_Colomares
 snippet: Working Benalmádena town below the Sierra de Mijas, named for its old Honey
   Stream.
+heritage: 2.403
+vibrancy: 3.333
+nature: 5.37
+off_the_beaten_track: 1.309
 ---
 
 Arroyo de la Miel is the working heart of Benalmádena municipality — a real Spanish town sitting at the foot of the Sierra de Mijas, just inland from the holiday apartments and beach bars of the coast. Locals outnumber tourists, the tapas bars fill up after nine in the evening, and the Friday market on Avenida de la Constitución draws people from across the surrounding area.

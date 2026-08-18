@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Seaford_Cliff_%26_Beach_Ea
 latitude: 50.77
 loc_type: city
 longitude: 0.1
-score: 7.0
+score: 3.604
 snippet: Sussex coastal town between Newhaven and the Seven Sisters, with chalk cliffs,
   shingle beach, and downland walks.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Seaford_Head
 title: Seaford
 type: location
+heritage: 2.803
+vibrancy: 2.967
+nature: 4.153
+off_the_beaten_track: 1.309
 ---
 
 Seaford is the quieter Sussex seaside town at the western end of the Seven Sisters country. It does not have Eastbourne's resort polish or Brighton's noise, and that is a large part of the appeal: a long shingle beach, a practical town centre, and chalk downland rising almost immediately to the east.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Graz_(35932179023).jpg
 latitude: 47.0709
 loc_type: city
 longitude: 15.4383
-score: 8.94
+score: 6.164
 snippet: Austrian university city with a walkable old town, Schlossberg clock tower,
   and historic armoury.
 title: Graz
 type: location
+heritage: 6.652
+vibrancy: 6.026
+nature: 4.697
+off_the_beaten_track: 1.629
 ---
 
 Graz is Austria's second city, but it carries none of the weight of that label. Where Vienna is imperial and self-conscious, Graz is easy-going — a university town that happens to have an extraordinary old city, a hill with a clock tower, and one of the best collections of historical armour in the world.

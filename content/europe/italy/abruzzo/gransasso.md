@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Gran_Sasso_Abruzzo.jpg
 latitude: 42.4694
 loc_type: feature
 longitude: 13.5653
-score: 7.46
+score: 5.81
 snippet: Abruzzo's highest Apennine massif, with Corno Grande, Campo Imperatore, and
   high limestone walking country.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://www.italia.it/en/abruzzo/things-to-do/gran-sasso-monti-della-laga-national-park
 title: Gran Sasso
 type: location
+heritage: 3.241
+vibrancy: 1.385
+nature: 7.541
+off_the_beaten_track: 4.8
 ---
 
 Gran Sasso is the great mountain wall of Abruzzo, rising north-east of [L'Aquila](/europe/italy/abruzzo/aquila) and forming the highest part of the Apennines. Its summit, [Corno Grande](/europe/italy/abruzzo/gransasso/corno_grande), reaches 2,912 metres, high enough to feel genuinely alpine even though Rome is only a couple of hours away.

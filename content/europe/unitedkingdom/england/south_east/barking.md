@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Barking_Park.jpg
 latitude: 51.540268
 loc_type: city
 longitude: 0.079324
-score: 4.97
+score: 3.507
 snippet: East London district with abbey ruins, River Roding fishing-port history,
   and a diverse working-city feel.
 title: Barking
 type: location
+heritage: 2.824
+vibrancy: 3.155
+nature: 3.911
+off_the_beaten_track: 1.16
 ---
 
 Barking is a district in east London, joined administratively with neighbouring Dagenham to form the London Borough of Barking and Dagenham. It is hard to imagine now, but Barking was once a 15th-century fishing port on the River Roding. The remnants of that past are visible in the ruins of Barking Abbey, a medieval monastery that was one of the most important in England until its dissolution by Henry VIII.

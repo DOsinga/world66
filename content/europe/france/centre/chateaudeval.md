@@ -5,7 +5,7 @@ done:
 latitude: 45.442681
 loc_type: city
 longitude: 2.505324
-score: 7.74
+score: 5.029
 snippet: Lakeside French château with six battlemented towers reflected in the waters
   of Lac de Bort
 tags:
@@ -16,6 +16,10 @@ image: chateaudeval.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Barques_lac_Val_Joyeux_Chateau-la-Valliere.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Myrabella
+heritage: 5.197
+vibrancy: 1.342
+nature: 5.592
+off_the_beaten_track: 3.149
 ---
 
 Just north of [Tulle](/europe/france/centre/tulle), the Château de Val is a fifteenth-century fortress standing on a rocky promontory in the enormous Lac de Bort. With six battlemented towers reflected in the water, it looks like something straight out of a fairy tale — or a child's drawing of what a castle should be.

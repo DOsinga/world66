@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cowboys_near_Belle_Fourche
 latitude: 44.6638
 loc_type: city
 longitude: -103.8591
-score: 6.72
+score: 2.716
 snippet: Northern Black Hills cattle town best known for its center-of-the-nation
   marker and rodeo history.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Belle_Fourche_Commercial_Historic_District
 title: Belle Fourche
 type: location
+heritage: 2.596
+vibrancy: 1.412
+nature: 3.11
+off_the_beaten_track: 3.088
 ---
 
 Belle Fourche sits north of the [Black Hills](/northamerica/unitedstates/southdakota/blackhills), where cattle country begins to feel larger and drier than the tourist towns around Deadwood and Custer. Its name is French for "beautiful fork," a nod to the rivers that helped make this a ranching and railroad town.

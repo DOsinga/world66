@@ -5,11 +5,15 @@ done:
 latitude: -15.266934
 loc_type: city
 longitude: 12.706456
-score: 5.92
+score: 5.137
 snippet: Angolan Atlantic port where desert, sea, and colonial architecture meet below
   the Serra da Leba.
 title: Namibe
 type: location
+heritage: 2.554
+vibrancy: 1.377
+nature: 6.282
+off_the_beaten_track: 5.508
 ---
 
 Namibe is a port city on Angola's southern coast where the desert meets the Atlantic. The Portuguese arrived in 1485 and named the region Moçâmedes; it was the first district established in southern Angola and has been a fishing port ever since. Today it is Angola's third-largest harbour, exporting fish and agricultural produce from neighbouring Huila province.

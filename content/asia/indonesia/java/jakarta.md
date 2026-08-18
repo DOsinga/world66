@@ -12,7 +12,7 @@ quick_facts:
   Metro Population: ~30 million
   New Capital: Being built on Borneo
   Sinking: Several cm a year
-score: 7.34
+score: 6.467
 snippet: Indonesian megacity where colonial Batavia, national monuments, canals, and
   relentless traffic collide
 tip: Jakarta is a vast, traffic-clogged megacity that is literally sinking — parts
@@ -21,6 +21,10 @@ tip: Jakarta is a vast, traffic-clogged megacity that is literally sinking — p
   MRT. See the old Dutch town of Kota Tua and the giant National Monument (Monas).
 title: Jakarta
 type: location
+heritage: 5.054
+vibrancy: 7.052
+nature: 3.017
+off_the_beaten_track: 1.239
 ---
 
 Most travelers use Jakarta as a starting or ending point -- catch a flight at Soekarno-Hatta, take a ferry to another island, and spend as little time as possible in between. The city's reputation is chaotic traffic, oppressive heat, and not much to see. This is a shame, because Jakarta has more character than it gets credit for.

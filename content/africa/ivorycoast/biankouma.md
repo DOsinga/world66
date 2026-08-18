@@ -9,10 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Biankouma1.jpg
 latitude: 7.7383
 loc_type: city
 longitude: -7.6128
-score: 4.9
+score: 3.499
 snippet: Old Dan village north of Man, associated with the Goua acrobatic dance tradition.
 title: Biankouma
 type: location
+heritage: 2.902
+vibrancy: 1.861
+nature: 3.837
+off_the_beaten_track: 5.197
 ---
 
 About 40 km north of [Man](/africa/ivorycoast/man) on the road to Touba, Biankouma is an old Dan village best visited on Sundays when the [Goua acrobatic dance](/africa/ivorycoast/biankouma/goua_dance) performers may be active. The [old town](/africa/ivorycoast/biankouma/old_town) has painted houses decorated in Dan geometric patterns, a house of the initiated women, and fetish houses tied to the community's spiritual life. Before entering you should ask permission from the village chief, and never photograph fetish objects. [Mont Sângbé National Park](/africa/ivorycoast/biankouma/mont_sangbe), 95,000 hectares of forest north of town, lies nearby for those with a vehicle and a guide.

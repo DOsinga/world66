@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Canada_Goose_at_Wawa_Ontar
 latitude: 47.9929
 loc_type: city
 longitude: -84.774
-score: 6.34
+score: 5.591
 snippet: Northern Ontario lakefront town marked by its giant goose and Canadian Shield
   wilderness.
 title: Wawa
 type: location
+heritage: 3.792
+vibrancy: 1.416
+nature: 7.043
+off_the_beaten_track: 5.321
 ---
 
 Wawa is a small lakefront town on the Trans-Canada Highway, 216 km north of Sault Ste. Marie. It is a mining town, but better known as a base for outdoor and wilderness adventures — boating, hiking, fishing, hunting, and exploring the vast Canadian Shield country that stretches in every direction.

@@ -6,8 +6,9 @@ image_source: https://commons.wikimedia.org/wiki/File:Shizutani_school.JPG
 latitude: 34.74516666666667
 loc_type: city
 longitude: 134.18883333333332
-score: 7.05
-snippet: Pottery and sword-making town in Okayama, with old kilns, workshops, and Shizutani School.
+score: 5.93
+snippet: Pottery and sword-making town in Okayama, with old kilns, workshops, and
+  Shizutani School.
 sources:
 - https://en.wikivoyage.org/wiki/Bizen
 - https://www.wikidata.org/wiki/Q863741
@@ -17,6 +18,10 @@ sources:
 title: Bizen
 type: location
 wikidata: Q863741
+heritage: 7.646
+vibrancy: 3.509
+nature: 2.563
+off_the_beaten_track: 3.138
 ---
 
 Bizen is not a city of big sights piled on top of each other. Its appeal is craft, old schools, and quiet hills on the eastern edge of Okayama Prefecture. The name is best known in Japan for Bizen ware, a hard, unglazed pottery fired in wood kilns until flame and ash mark the clay by chance.

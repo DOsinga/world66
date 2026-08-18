@@ -9,7 +9,7 @@ image_source: https://www.flickr.com/photos/126397594@N03/35034977436
 latitude: 38.375813
 loc_type: city
 longitude: 26.064655
-score: 8.53
+score: 5.671
 snippet: Eastern Aegean island famous for mastic villages, medieval walls, and a mountainous
   wooded north
 sources:
@@ -19,6 +19,10 @@ sources:
 - https://en.wikipedia.org/wiki/Anavatos
 title: Chios
 type: location
+heritage: 6.282
+vibrancy: 5.445
+nature: 5.159
+off_the_beaten_track: 2.31
 ---
 
 Chios is a Greek island in the eastern Aegean, sitting just a few kilometres off the Turkish coast. It is best known for mastic — the crystallised resin tapped from Pistacia lentiscus trees that grow only in the southern villages of the island, known collectively as the Mastichochoria. For centuries this sticky, aromatic substance was so prized that the Ottoman sultans treated Chios with special care; today it flavours everything from chewing gum to liqueur to cosmetics.

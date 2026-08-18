@@ -13,7 +13,7 @@ quick_facts:
   Became Capital: '1997'
   Population: ~1.4 million
   Winter Cold: 2nd-coldest capital on Earth
-score: 7.17
+score: 5.334
 snippet: Purpose-built Kazakh capital on the steppe, defined by monumental architecture
   along the Ishim River.
 tip: Astana (renamed Nur-Sultan and back again) is a futuristic capital raised from
@@ -22,6 +22,10 @@ tip: Astana (renamed Nur-Sultan and back again) is a futuristic capital raised f
   coldest capitals on earth, brutally so in winter, so come prepared or visit in summer.
 title: Astana
 type: location
+heritage: 5.56
+vibrancy: 5.289
+nature: 2.95
+off_the_beaten_track: 3.762
 ---
 
 Astana is the capital of Kazakhstan, purpose-built on the vast Kazakh steppe about 1,200 kilometres northwest of Almaty. It became the capital in 1997, and since then an extraordinary building boom has transformed what was a modest provincial city into a showcase of futuristic architecture.

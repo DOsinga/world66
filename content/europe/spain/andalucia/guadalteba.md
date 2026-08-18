@@ -5,7 +5,7 @@ done:
 latitude: 37.012262
 loc_type: city
 longitude: -4.957831
-score: 7.26
+score: 5.219
 snippet: Málaga hill region of turquoise reservoirs, limestone gorges, and Andalucía's
   paragliding circuits.
 sources:
@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Cueva_de_Ardales
 title: Guadalteba
 type: location
+heritage: 2.879
+vibrancy: 1.772
+nature: 6.869
+off_the_beaten_track: 3.341
 ---
 
 Guadalteba is an area of outstanding natural beauty tucked into the hills of Málaga province, where a chain of reservoirs lies surrounded by mountains and neat rows of olive trees. The [Embalse del Conde de Guadalhorce](/europe/spain/andalucia/guadalteba/embalse_del_conde_de_guadalhorce) is the most spectacular — a turquoise lake cupped between limestone cliffs — and several restaurants on the hilltops offer views across the whole comarca.

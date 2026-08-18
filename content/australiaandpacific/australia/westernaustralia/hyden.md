@@ -4,13 +4,17 @@ type: location
 loc_type: city
 latitude: -32.449
 longitude: 118.861
-score: 7.0
+score: 5.912
 snippet: Wheatbelt town beside Wave Rock, Western Australia's great granite wave.
 wikidata: Q1377673
 sources:
-  - https://en.wikivoyage.org/wiki/Hyden
-  - https://www.kondinin.wa.gov.au/tourism/attractions/hyden-wave-rock.aspx
-  - https://www.australiasgoldenoutback.com/discover/wheatbelt/hyden-wave-rock
+- https://en.wikivoyage.org/wiki/Hyden
+- https://www.kondinin.wa.gov.au/tourism/attractions/hyden-wave-rock.aspx
+- https://www.australiasgoldenoutback.com/discover/wheatbelt/hyden-wave-rock
+heritage: 1.779
+vibrancy: 1.158
+nature: 7.63
+off_the_beaten_track: 5.026
 ---
 
 Hyden is a small Wheatbelt town whose fame rests on one extraordinary piece of granite. [Wave Rock](/australiaandpacific/australia/westernaustralia/hyden/wave_rock) looks exactly like its name: a 15-metre-high stone wall curling over the plain like surf frozen in mid-break. It is strange, photogenic, and good enough to justify the long drive from Perth if you like landscapes with a little theatre.

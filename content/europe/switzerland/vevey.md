@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Vevey_with_Lake_of_Geneva_
 latitude: 46.4603
 loc_type: city
 longitude: 6.8419
-score: 8.55
+score: 4.578
 snippet: Lake Geneva town linked to Nestlé, Charlie Chaplin, open-air markets, and
   vineyard terraces.
 title: Vevey
 type: location
+heritage: 4.707
+vibrancy: 4.564
+nature: 4.562
+off_the_beaten_track: 1.526
 ---
 
 Vevey is a small town on the northern shore of Lake Geneva, wedged between Lausanne and Montreux. It has been the headquarters of Nestle since 1867 and the place where Charlie Chaplin spent the last 25 years of his life — a [bronze statue](/europe/switzerland/vevey/chaplin_statue) of the tramp sits on the lakefront promenade, and [Chaplin's World](/europe/switzerland/vevey/chaplins_world), a museum in his former mansion above town, is one of the main attractions.

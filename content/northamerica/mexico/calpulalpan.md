@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 19.5845
 longitude: -98.5654
-score: 6.2
+score: 3.274
 snippet: Western Tlaxcala city with colonial churches and Tecoaque, an unusually vivid
   conquest-era archaeological site.
 wikidata: Q1997497
@@ -17,6 +17,10 @@ image: calpulalpan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Air_view_of_Calpulalpan,_Tlaxcala.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Isaacvp
+heritage: 4.23
+vibrancy: 1.92
+nature: 2.053
+off_the_beaten_track: 3.035
 ---
 
 Calpulalpan sits in western Tlaxcala, close to the border with the State of Mexico and the old routes between the central highlands and the Gulf. It is a modest city, but it has a sharper historical identity than its size suggests: pre-Hispanic trade routes, Franciscan-era religious buildings, and the nearby archaeological site of [Tecoaque](/northamerica/mexico/calpulalpan/tecoaque).

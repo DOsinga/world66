@@ -15,7 +15,11 @@ sources:
 - https://en.wikipedia.org/wiki/Ko_Poda
 title: Ao Nang
 type: location
-score: 8.5
+score: 4.135
+heritage: 1.007
+vibrancy: 3.85
+nature: 4.549
+off_the_beaten_track: 1.456
 ---
 
 Ao Nang is Krabi's main beach base: convenient, crowded, commercial, and still hard to beat if you want easy access to the Andaman coast. It is not the loveliest beach in the province, but it has the boats, restaurants, dive shops, tour desks, and transport links that make the area work.

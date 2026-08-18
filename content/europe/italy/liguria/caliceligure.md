@@ -5,13 +5,17 @@ done:
 latitude: 44.204933
 loc_type: city
 longitude: 8.295351
-score: 7.53
+score: 4.224
 snippet: Ligurian hill village behind Finale Ligure, set among orchards, olive groves,
   and a tidy medieval core.
 tags:
 - rivieradellepalme
 title: Calice Ligure
 type: location
+heritage: 3.847
+vibrancy: 1.988
+nature: 4.917
+off_the_beaten_track: 4.231
 ---
 
 Calice Ligure is a small hill village in the Ligurian hinterland behind Finale Ligure, set in a valley of peach orchards, olive groves, and vineyards at the foot of the Clavarezza hill. It is the kind of place that rewards a slow detour from the coast: no famous sights, but good rural Ligurian landscape and a tidy medieval core.

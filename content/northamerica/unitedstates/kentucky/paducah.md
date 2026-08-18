@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 37.08333
 longitude: -88.6
-score: 7.2
+score: 2.719
 snippet: Kentucky river city known for quilts, floodwall murals, and a serious downtown
   arts scene.
 wikidata: Q984377
@@ -18,6 +18,10 @@ image: paducah.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Broadway_-_Paducah,_Kentucky.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Farragutful
+heritage: 2.233
+vibrancy: 2.14
+nature: 3.181
+off_the_beaten_track: 2.228
 ---
 
 Paducah sits at the meeting of the Ohio and Tennessee rivers in far western Kentucky. It is a working river town with a surprisingly strong arts identity, recognised by UNESCO as a Creative City of Crafts and Folk Art.

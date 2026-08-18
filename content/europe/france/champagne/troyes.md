@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Troyes_centre_ville1.JPG
 latitude: 48.297163
 loc_type: city
 longitude: 4.074626
-score: 8.46
+score: 6.527
 snippet: Medieval Champagne city of half-timbered lanes, Gothic churches, and old
   trade-fair wealth
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Mus%C3%A9e_d%27art_moderne_de_Troyes
 title: Troyes
 type: location
+heritage: 8.29
+vibrancy: 4.117
+nature: 2.465
+off_the_beaten_track: 1.962
 ---
 
 Troyes is the medieval capital of Champagne — not the wine-producing Champagne of Reims and Épernay to the north, but the older county that once controlled a vast chunk of northern France and ran the most important trade fairs in medieval Europe. The city sits on the Seine about 150 km southeast of Paris, and it is one of the most undervisited places in France of its kind.

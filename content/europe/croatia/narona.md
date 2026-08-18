@@ -5,11 +5,15 @@ done:
 latitude: 43.0804
 loc_type: city
 longitude: 17.6259
-score: 6.83
+score: 5.258
 snippet: Ancient Adriatic archaeological site near Metković, where Roman Narona grew
   from an older Greek trading settlement.
 title: Narona
 type: location
+heritage: 6.589
+vibrancy: 1.808
+nature: 3.909
+off_the_beaten_track: 2.864
 ---
 
 Narona, just outside Metković, is one of the oldest settlements on the eastern Adriatic coast. The Greek historian Theopompus — who traveled with Alexander the Great — mentioned it in the fourth century BC, which tells you something about how long this place has been on maps. The Romans later promoted it to the status of a colony and used it as a base for campaigning against rebellious tribes and the pirates who thrived among the islands. By the early centuries AD it was the commercial hub of the region.

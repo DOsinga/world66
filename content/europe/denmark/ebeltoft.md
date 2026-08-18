@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 56.2
 longitude: 10.6833
-score: 7.4
+score: 3.976
 snippet: Small East Jutland harbour town with cobbled streets, a glass museum, and
   a preserved frigate
 sources:
@@ -14,6 +14,10 @@ image: ebeltoft.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Ebeltoft_Adelgade.jpg
 image_license: CC BY 4.0
 image_attribution: Corradox
+heritage: 4.139
+vibrancy: 2.364
+nature: 4.409
+off_the_beaten_track: 1.853
 ---
 
 Ebeltoft is one of Denmark's prettiest small harbour towns, tucked into the Djursland peninsula east of [Aarhus](/europe/denmark/aarhus). Its old centre is all crooked cobbles, half-timbered houses, hollyhocks, and low merchant buildings, with the sea never far away.

@@ -9,10 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Ardabil,_Iran_2013_(20)_(1
 latitude: 38.2498
 loc_type: city
 longitude: 48.2933
-score: 6.67
+score: 5.586
 snippet: Cold Iranian Azerbaijan city on a high plain, birthplace of the Safavid dynasty
 title: Ardabil
 type: location
+heritage: 6.481
+vibrancy: 4.77
+nature: 3.956
+off_the_beaten_track: 3.222
 ---
 
 Ardabil sits on a high plain at 1,400 metres in northwestern Iran, just east of Mount Sabalan (4,811 metres), the highest peak in Iranian Azerbaijan. The city is cold — genuinely cold in winter, and cool even in summer by Iranian standards. The surrounding landscape is open grassland and grazing country, treeless and windswept.

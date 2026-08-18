@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Duche-Uzes.JPG
 latitude: 44.0121
 loc_type: city
 longitude: 4.4197
-score: 8.16
+score: 4.996
 snippet: Restored Gard town north of Nîmes, with medieval lanes, Renaissance squares,
   and the ducal residence.
 tags:
 - ardeche
 title: Uzès
 type: location
+heritage: 5.438
+vibrancy: 4.866
+nature: 4.448
+off_the_beaten_track: 3.114
 ---
 
 Uzès is a small and exceptionally beautiful town in the Gard department, about 25 kilometres north of [Nîmes](/europe/france/languedoc/nimes). It was designated a *Ville d'Art et d'Histoire* in 1962, and its medieval and Renaissance centre has been beautifully restored — a maze of narrow lanes, stone arcades, and small squares that feels like stepping into a Provençal painting.

@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 6.5553
 longitude: -73.1312
-score: 7.2
-snippet: Santander adventure town where rafting, waterfalls, caves, and canyon flights cluster around the Fonce River.
+score: 5.583
+snippet: Santander adventure town where rafting, waterfalls, caves, and canyon flights
+  cluster around the Fonce River.
 sources:
-  - https://en.wikivoyage.org/wiki/San_Gil
-  - https://en.wikipedia.org/wiki/San_Gil
-  - https://www.wikidata.org/wiki/Q1294128
-  - https://mapcarta.com/San_Gil
+- https://en.wikivoyage.org/wiki/San_Gil
+- https://en.wikipedia.org/wiki/San_Gil
+- https://www.wikidata.org/wiki/Q1294128
+- https://mapcarta.com/San_Gil
+heritage: 3.17
+vibrancy: 4.646
+nature: 6.409
+off_the_beaten_track: 4.994
 ---
 
 San Gil is Colombia's adventure town, a warm Santander base where the real draw is what you can do in the rivers, canyons, caves, and hills around it. The town itself is busy and workaday, but that almost helps: guides, buses, cheap food, and gear shops are close together, and most days begin with someone asking how wet, high, or muddy you want to get.

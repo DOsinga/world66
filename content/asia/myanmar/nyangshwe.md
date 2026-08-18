@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Inle_Lake,_Fisherman,_Myan
 latitude: 20.632
 loc_type: city
 longitude: 96.901
-score: 6.59
+score: 5.414
 snippet: Inle Lake gateway town of guesthouses and tea shops beside floating gardens
   and Intha villages.
 title: Nyangshwe
 type: location
+heritage: 3.986
+vibrancy: 4.906
+nature: 6.021
+off_the_beaten_track: 6.191
 ---
 
 Nyangshwe is the main town on Inle Lake, a high-altitude freshwater lake in Myanmar's Shan State and one of the country's most celebrated destinations. The town itself is a low-key grid of guesthouses and tea shops, but it serves as the gateway to the lake — and the lake is the draw. Inle is home to around 200 villages spread across its [floating islands](/asia/myanmar/nyangshwe/floating_gardens) and stilted shores, inhabited by the Intha people, who are famous for their distinctive one-legged rowing style.

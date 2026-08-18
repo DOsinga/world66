@@ -5,11 +5,15 @@ done:
 latitude: 41.1537
 loc_type: city
 longitude: -81.3579
-score: 5.96
+score: 4.85
 snippet: Northeast Ohio college town shaped by Kent State University and the May 4,
   1970 shootings.
 title: Kent
 type: location
+heritage: 4.118
+vibrancy: 4.972
+nature: 4.536
+off_the_beaten_track: 1.65
 ---
 
 Kent is a small college town in northeast Ohio, about 15 km east of Akron. It is the home of Kent State University, which shapes much of the town's character — the restaurants, bars, and bookshops along East Main Street cater to the student population, giving the town more cultural energy than its size would suggest.

@@ -5,11 +5,15 @@ done:
 latitude: 25.652134
 loc_type: city
 longitude: 51.487806
-score: 5.91
+score: 4.336
 snippet: Desert inlet in southeastern Qatar, where Gulf waters reach inland between
   high sand dunes
 title: Khor
 type: location
+heritage: 1.896
+vibrancy: 1.834
+nature: 5.407
+off_the_beaten_track: 4.306
 ---
 
 [Khor Al Udeid — the Inland Sea](/asia/qatar/khor/khor_al_udeid_inland_sea) — sits in the extreme south-east of Qatar where a large arm of the Gulf reaches deep inland, surrounded on all sides by towering sand dunes. The dunes are among the most striking in the peninsula: tall and sharply defined, their shapes shifting overnight with the wind. It is one of the few places in the world where the sea is bordered by a true sand desert, and the contrast between the flat blue water and the golden dunes is genuinely extraordinary.

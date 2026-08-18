@@ -16,7 +16,7 @@ quick_facts:
   Beer: World's top per head
   Castle: Largest ancient complex
   Population: 1.3 million
-score: 9.6
+score: 8.226
 snippet: Central European capital on the Vltava, dense with intact Gothic, Baroque,
   and Art Nouveau streetscapes.
 tip: Cross Charles Bridge at dawn — by 9am it's shoulder-to-shoulder with crowds and
@@ -25,6 +25,10 @@ tip: Cross Charles Bridge at dawn — by 9am it's shoulder-to-shoulder with crow
   here. Pay in koruna, not euros, and ignore the currency-exchange touts.
 title: Prague
 type: location
+heritage: 7.571
+vibrancy: 8.537
+nature: 6.679
+off_the_beaten_track: 1.997
 ---
 
 We think Prague is one of the prettiest cities in the world. Built on seven hills and divided by the Vltava (Moldau) River, this capital of 1.3 million is unique among Central European cities: it survived World War II nearly intact. As a result it has beautiful architecture spanning Romanesque, Gothic, Renaissance, baroque, Art Nouveau, and modernist periods — all within walking distance of each other.

@@ -5,11 +5,15 @@ done:
 latitude: -0.46255
 loc_type: city
 longitude: -80.455838
-score: 7.11
+score: 5.684
 title: Canoa
 type: location
 snippet: Easy-going Ecuadorian beach town with dark volcanic sand, beginner-friendly
   surf, and cliff-top paragliding.
+heritage: 3.873
+vibrancy: 5.041
+nature: 6.375
+off_the_beaten_track: 4.692
 ---
 
 Mompiche may have the surfers' hearts and Atacames the party crowd, but Canoa is the one that makes people stay longer than they planned. A long, wide stretch of dark volcanic sand backed by a small, easy-going town on Ecuador's northern coast — it is not uncommon for travellers to arrive for a night and end up spending a month.

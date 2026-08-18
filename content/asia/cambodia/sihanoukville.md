@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:360%C2%B0_Sihanoukville_Ci
 latitude: 10.622
 loc_type: city
 longitude: 103.5223
-score: 6.69
+score: 4.789
 snippet: Cambodian beach and port city on the Gulf of Thailand, with offshore islands
   and seafood streets
 title: Sihanoukville
 type: location
+heritage: 2.339
+vibrancy: 3.778
+nature: 5.598
+off_the_beaten_track: 2.171
 ---
 
 Sihanoukville — also known as Kompong Som — is Cambodia's main beach town, sitting on a headland overlooking the Gulf of Thailand. It is the country's only [deep-water port](/asia/cambodia/sihanoukville/sihanoukville_port), but for most visitors the draw is the string of beaches along the coast: [Otres](/asia/cambodia/sihanoukville/otres_beach), [Ochheuteal](/asia/cambodia/sihanoukville/ochheutealbeach), [Sokha](/asia/cambodia/sihanoukville/sokhabeach), and [Independence Beach](/asia/cambodia/sihanoukville/independence_beach) each have their own character.

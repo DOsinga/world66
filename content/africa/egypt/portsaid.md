@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Port_Said,_Egypt,_Beach_of
 latitude: 31.2632
 loc_type: city
 longitude: 32.3055
-score: 6.85
+score: 3.394
 snippet: Suez Canal port city at the Mediterranean entrance, built around the canal's
   nineteenth-century opening.
 title: Port Said
 type: location
+heritage: 3.748
+vibrancy: 3.283
+nature: 1.791
+off_the_beaten_track: 4.543
 ---
 
 Port Said sits at the Mediterranean entrance to the Suez Canal, the city that was built to make the canal possible. Founded in 1859 when construction began, it grew quickly into a cosmopolitan port town where Africa meets Asia and the Mediterranean meets the Red Sea route to the Indian Ocean.

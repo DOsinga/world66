@@ -4,12 +4,16 @@ done:
 latitude: 43.5561
 loc_type: city
 longitude: -5.9222
-score: 6.98
+score: 5.336
 snippet: Asturian industrial city with an intact old town and a revived cultural waterfront.
 sources:
 - https://en.wikipedia.org/wiki/Avil%C3%A9s
 title: Avilés
 type: location
+heritage: 5.379
+vibrancy: 5.349
+nature: 5.303
+off_the_beaten_track: 2.911
 ---
 
 Avilés is an Asturian industrial city that made a remarkable transformation in the early twenty-first century. For most of the twentieth century it was defined by its steel works — ENSIDESA, which at its peak employed 14,000 people and left the estuary heavily polluted and the city visually bleak. The steel plant closed progressively from the 1980s onwards, and Avilés has since reinvented itself around culture and tourism, with surprising success.

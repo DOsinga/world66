@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 52.0262
 longitude: 0.2449
-score: 7.2
+score: 4.618
 snippet: Essex market town with saffron history, medieval lanes, and Audley End on
   its edge.
 sources:
@@ -15,6 +15,10 @@ image: saffron_walden.jpg
 image_source: https://commons.wikimedia.org/wiki/File:20200802_Audley_End_House-40.jpg
 image_license: CC0
 image_attribution: Balon Greyjoy
+heritage: 5.507
+vibrancy: 2.186
+nature: 4.068
+off_the_beaten_track: 1.985
 ---
 
 Saffron Walden is an old Essex market town that kept more of its centre than the commuter belt usually allows. Timber-framed houses, pargeted plasterwork, narrow lanes and a proper market square give it a strong East Anglian character, while the name recalls the saffron crocus trade that made the town rich in the Tudor period.

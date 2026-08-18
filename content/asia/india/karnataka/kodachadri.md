@@ -6,8 +6,9 @@ image_source: https://commons.wikimedia.org/wiki/File:At_the_edge_of_the_forests
 latitude: 13.8667
 loc_type: feature
 longitude: 74.9667
-score: 8.3
-snippet: Forested Western Ghats peak in Karnataka, reached by guided treks through Mookambika Wildlife Sanctuary.
+score: 5.845
+snippet: Forested Western Ghats peak in Karnataka, reached by guided treks through
+  Mookambika Wildlife Sanctuary.
 story: Kodachadri is the tenth highest peak in Karnataka and one of the few Ghats
   summits still genuinely forested at the top — a dense shola forest caps the 1,343-metre
   peak, and the Karnataka Forest Department requires trekkers to take a licensed guide,
@@ -17,6 +18,10 @@ tags:
 - trekking
 title: Kodachadri
 type: location
+heritage: 4.243
+vibrancy: 3.2
+nature: 7.261
+off_the_beaten_track: 4.41
 ---
 
 Kodachadri, about 95 km southwest of Shimoga, is the most rewarding trekking destination accessible from the city. The 1,343-metre peak sits within the Mookambika Wildlife Sanctuary and is forested almost all the way to the summit, where a small shrine to the goddess Sarvajnapeetha sits amid clouds and shola scrub.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Pineto-_Area_marina_protet
 latitude: 42.607771
 loc_type: city
 longitude: 14.067103
-score: 7.36
+score: 4.498
 snippet: Adriatic beach resort in Abruzzo, named for pine woods backing its protected
   sandy coast
 title: Pineto
 type: location
+heritage: 2.924
+vibrancy: 3.707
+nature: 5.181
+off_the_beaten_track: 1.614
 ---
 
 Pineto is a beach resort on the Adriatic coast of Abruzzo, about 40 km south of Pescara in the province of Teramo. It takes its name from the pine woods that back the beach — planted in their thousands in the 1920s — and the coastline holds a Blue Flag designation for water quality and services.

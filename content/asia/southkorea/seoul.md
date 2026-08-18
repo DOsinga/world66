@@ -16,7 +16,7 @@ quick_facts:
   Joseon Palaces: Five grand ones
   Metro Population: 26 million
   Subway Wi-Fi: Among world's fastest
-score: 9.61
+score: 9.238
 snippet: Vast Korean capital on the Han River, where neon districts stand beside Joseon
   palaces and mountain walls.
 tip: Seoul's subway is one of the world's best — clean, cheap, signed in English,
@@ -25,6 +25,10 @@ tip: Seoul's subway is one of the world's best — clean, cheap, signed in Engli
   Korean BBQ is best where it's smoky and crowded.
 title: Seoul
 type: location
+heritage: 8.542
+vibrancy: 9.572
+nature: 4.381
+off_the_beaten_track: 1.401
 ---
 
 Seoul is one of the biggest, densest, and most relentlessly modern cities in the world. Home to roughly half of South Korea's population in its wider metropolitan area, it is a place of endless neon, twenty-four-hour street food, and 5G on the subway — and yet, tucked between the office towers, it still contains five Joseon-era palaces, a city wall, and the shrines and hanok villages that have been there for six centuries.

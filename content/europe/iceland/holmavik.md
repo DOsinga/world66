@@ -5,11 +5,15 @@ done:
 latitude: 65.706497
 loc_type: city
 longitude: -21.669196
-score: 7.28
+score: 6.272
 snippet: Westfjords fishing village on Steingrímsfjörður, known for Icelandic sorcery
   history and Strandir coast access
 title: Holmavik
 type: location
+heritage: 2.996
+vibrancy: 0.891
+nature: 7.732
+off_the_beaten_track: 6.519
 ---
 
 Holmavik is a small fishing village on the shores of Steingrímsfjörður in the Westfjords of Iceland, about 274 kilometres from Reykjavík via the Hvalfjörður tunnel. The village serves as the commercial hub for the surrounding Strandir coast — a remote and seldom-visited stretch of Iceland that sees far fewer travellers than Snæfellsnes or the main Westfjords towns.

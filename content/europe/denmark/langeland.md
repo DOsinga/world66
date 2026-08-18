@@ -2,14 +2,19 @@
 latitude: 54.83
 loc_type: feature
 longitude: 10.8
-score: 7.29
-snippet: Long, narrow Danish island of quiet coastal roads, rolling farmland, and small Baltic harbours.
+score: 4.887
+snippet: Long, narrow Danish island of quiet coastal roads, rolling farmland, and
+  small Baltic harbours.
 title: Langeland
 type: location
 image: langeland.jpg
 image_source: https://commons.wikimedia.org/wiki/File:B%C3%B8strup_Kirke_(Langeland_Kommune).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Thomas Dahlstrøm Nielsen
+heritage: 3.372
+vibrancy: 1.902
+nature: 6.146
+off_the_beaten_track: 2.815
 ---
 
 Langeland — literally "long land" — is a narrow island extending 52 kilometres from north to south off the south coast of Funen. It is one of Denmark's least-altered agricultural landscapes: rolling fields, beech forests, village churches, and a coastline that feels genuinely remote in places.

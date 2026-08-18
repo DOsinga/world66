@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cerro_verde_e_Ilamatepec.j
 latitude: 13.8272
 loc_type: feature
 longitude: -89.6233
-score: 7.0
+score: 5.71
 snippet: Cloud-forest volcano park and trailhead for Santa Ana and Izalco, with big
   views over Coatepeque.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://www.visitcentroamerica.com/en/visit/los-volcanes-national-park/
 title: Cerro Verde National Park
 type: location
+heritage: 1.949
+vibrancy: 1.287
+nature: 7.553
+off_the_beaten_track: 4.251
 ---
 
 Cerro Verde National Park is the visitor-friendly face of the larger Los Volcanes complex, a cool cloud-forest saddle between some of El Salvador's most dramatic volcanic scenery. The park itself sits on the extinct Cerro Verde cone, but most travellers come because it is the jumping-off point for [Santa Ana Volcano](/northamerica/elsalvador/santa_ana_volcano), [Izalco Volcano](/northamerica/elsalvador/izalco_volcano), and views down to [Lake Coatepeque](/northamerica/elsalvador/lakecoatepeque).

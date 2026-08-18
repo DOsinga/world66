@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_city_of_Oak
 latitude: 37.804456
 loc_type: city
 longitude: -122.271356
-score: 6.59
+score: 5.728
 snippet: East Bay city with fierce local culture around Lake Merritt, the waterfront,
   and diverse neighbourhoods.
 title: Oakland
 type: location
+heritage: 4.195
+vibrancy: 6.133
+nature: 4.681
+off_the_beaten_track: 1.302
 ---
 
 Oakland gets overshadowed by San Francisco across the bay, but that is part of its appeal. It is grittier, more affordable, and more diverse, with a cultural identity all its own. This is the city that gave the world the Black Panthers, the Hells Angels, and a fierce local pride that has only grown as the tech boom pushed artists, chefs, and musicians eastward across the bridge.

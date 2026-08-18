@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ilha_do_Mel_-_Paranagu%C3%
 latitude: -25.53453
 loc_type: city
 longitude: -48.310747
-score: 8.18
+score: 5.9
 snippet: Car-free Paraná island of Atlantic Forest, sandy tracks, fishing villages,
   and an 18th-century Portuguese fort.
 title: Ilha do Mel
 type: location
+heritage: 2.577
+vibrancy: 2.372
+nature: 7.555
+off_the_beaten_track: 5.209
 ---
 
 Ilha do Mel — the Island of Honey — sits off the coast of Paraná state in southern Brazil, where the Paranaguá Bay meets the Atlantic. It is a protected area with no cars allowed, which gives the island a calm, unhurried quality that the more famous beach destinations of Brazil rarely manage. Getting around means walking or cycling the sandy tracks that connect the small settlements.

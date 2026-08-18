@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2012-09-27_Water_Street_Hi
 latitude: 44.811349
 loc_type: city
 longitude: -91.498494
-score: 6.46
+score: 4.408
 snippet: Wisconsin college town at the Chippewa and Eau Claire river confluence, built
   on lumber and music.
 title: Eau Claire
 type: location
+heritage: 3.365
+vibrancy: 4.624
+nature: 3.848
+off_the_beaten_track: 1.575
 ---
 
 Eau Claire — pronounced "Oh Claire", from the French *eaux claires*, "clear waters" — is a small Wisconsin college town of around 70,000 people, set at the confluence of the Chippewa and Eau Claire rivers in the state's north-west. It was built on lumber: in the 1880s this was the biggest sawmill town on the Chippewa, and the old logging heritage is still what most of its attractions are about. Today it lives off the **University of Wisconsin–Eau Claire**, a handful of tech and healthcare employers, and a surprisingly lively music and craft-beer scene that punches above its weight for a city this size.

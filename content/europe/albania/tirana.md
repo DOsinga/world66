@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Skanderbeg_square_tirana_2
 latitude: 41.328148
 loc_type: city
 longitude: 19.818444
-score: 7.84
+score: 5.868
 snippet: Compact Albanian capital reshaped from grey post-communist city into one
   of the Balkans' livelier capitals.
 title: Tirana
 type: location
+heritage: 5.395
+vibrancy: 6.054
+nature: 5.389
+off_the_beaten_track: 3.716
 ---
 
 Tirana is the capital and by far the largest city in Albania, home to about a third of the country's population. It is compact enough to explore on foot, and in the last two decades has reinvented itself from a grey post-communist city into one of the more energetic capitals in the Balkans.

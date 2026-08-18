@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ambleside_%26_Waterhead_Pa
 latitude: 54.43
 loc_type: city
 longitude: -2.963
-score: 7.53
+score: 6.556
 snippet: Lake District walking town at the head of Windermere, with fells, waterfalls,
   and Wordsworth country close by.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Armitt_Library
 title: Ambleside
 type: location
+heritage: 5.837
+vibrancy: 3.114
+nature: 7.687
+off_the_beaten_track: 2.145
 ---
 
 Ambleside is the Lake District town that best balances scenery with usefulness. It sits just above Waterhead, at the northern end of [Windermere](/europe/unitedkingdom/england/lakedistrict/windermere), with stone streets full of outdoor shops, walkers drying waterproofs in pub corners, and fells rising almost immediately behind the roofs.

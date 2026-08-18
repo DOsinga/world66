@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kumbakonam_Mahamaham_Tank.
 latitude: 10.960411
 loc_type: city
 longitude: 79.382086
-score: 7.22
+score: 5.719
 snippet: Cauvery Delta temple town with a dense cluster of major Dravidian temples
   within walking distance.
 title: Kumbakonam
 type: location
+heritage: 7.078
+vibrancy: 3.985
+nature: 2.358
+off_the_beaten_track: 2.46
 ---
 
 Kumbakonam is a temple town in the Cauvery Delta, 40 km east of [Thanjavur](/asia/india/tamilnadu/thanjavur), and one of the most concentrated clusters of Dravidian temples in India. The town has over a dozen significant temples within walking distance of each other, including the [Sarangapani Temple](/asia/india/tamilnadu/kumbakonam/sarangapani_temple), the [Adi Kumbeswarar Temple](/asia/india/tamilnadu/kumbakonam/adi_kumbeswarar_temple), and the smaller but exquisite ninth-century [Nageswaraswamy Temple](/asia/india/tamilnadu/kumbakonam/nageswaraswamy_temple) — each with gopurams rising above the town's rooftops.

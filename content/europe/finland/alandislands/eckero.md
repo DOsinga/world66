@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: 60.2
 longitude: 19.6167
-score: 6.4
-snippet: Western Åland ferry village with Baltic mail-route history and summer harbour life.
+score: 5.324
+snippet: Western Åland ferry village with Baltic mail-route history and summer harbour
+  life.
 sources:
-  - https://en.wikivoyage.org/wiki/Ecker%C3%B6
-  - https://www.wikidata.org/wiki/Q51909
+- https://en.wikivoyage.org/wiki/Ecker%C3%B6
+- https://www.wikidata.org/wiki/Q51909
+heritage: 2.849
+vibrancy: 1.354
+nature: 6.962
+off_the_beaten_track: 4.228
 ---
 
 Eckerö sits on the western edge of the [Åland Islands](/europe/finland/alandislands), facing Sweden across the Sea of Åland. For many visitors it is simply the ferry port from Grisslehamn, but it has enough history and summer atmosphere to justify slowing down before heading back to [Mariehamn](/europe/finland/alandislands/mariehamn).

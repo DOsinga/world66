@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:%C5%BDivogo%C5%A1%C4%87e-P
 latitude: 43.188147
 loc_type: city
 longitude: 17.160586
-score: 8.04
+score: 4.626
 title: Živogošće
 type: location
 snippet: Small Makarska Riviera settlement where pebbled beaches sit below Biokovo's
   olive groves and pine woods.
+heritage: 2.466
+vibrancy: 1.926
+nature: 6.125
+off_the_beaten_track: 2.851
 ---
 
 Živogošće is a small coastal settlement on the [Makarska Riviera](/europe/croatia/dalmatia/makarska), tucked between the Biokovo mountain range and the Adriatic Sea. Six kilometres of pebbled beach run along the bay, backed by olive groves and pine woods that drop down to the water's edge. The sea here is clean and unpolluted — the mountain backdrop keeps development sparse — and the village has a quieter character than the busier resort towns along the riviera.

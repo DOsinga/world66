@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 39.8868
 longitude: 139.8476
-score: 6.8
+score: 4.939
 snippet: Akita peninsula city known for Namahage folklore, sea cliffs, shrines, and
   coastal drives.
 sources:
@@ -13,6 +13,10 @@ image: oga.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Oga_Aquarium_20210618.jpg
 image_license: CC BY-SA 4.0
 image_attribution: 掬茶
+heritage: 5.178
+vibrancy: 4.886
+nature: 4.307
+off_the_beaten_track: 2.04
 ---
 
 Oga covers the peninsula that juts into the Sea of Japan west of Akita. It is a spread-out city rather than a tight urban stop, with small settlements, coast roads, shrine paths, and volcanic-looking headlands tied together by the Namahage folklore that gives the area its strongest identity.

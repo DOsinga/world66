@@ -6,8 +6,9 @@ image_license: CC BY-SA 2.0
 image_source: https://commons.wikimedia.org/wiki/File:Ward_Beach,_Marlborough,_New_Zealand.jpg
 loc_type: city
 longitude: 174.1333
-score: 6.4
-snippet: Tiny Marlborough road village with salt pans, seal-haunted beaches, and limestone backcountry walks.
+score: 4.695
+snippet: Tiny Marlborough road village with salt pans, seal-haunted beaches, and limestone
+  backcountry walks.
 sources:
 - https://en.wikivoyage.org/wiki/Ward
 - https://en.wikipedia.org/wiki/Ward,_New_Zealand
@@ -17,6 +18,10 @@ sources:
 title: Ward
 type: location
 wikidata: Q2549035
+heritage: 2.391
+vibrancy: 2.497
+nature: 6.071
+off_the_beaten_track: 3.38
 ---
 
 Ward is a small settlement on State Highway 1 in southern [Marlborough](/australiaandpacific/newzealand/south_island/marlborough), easy to dismiss from the car and more interesting if you turn off the road. The village itself is tiny, but it sits between a strange coastal shelf, the white salt works of Lake Grassmere, and dry limestone country that feels more like inland Canterbury than the lush Marlborough Sounds.

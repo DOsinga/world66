@@ -9,10 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:ISS-42_Taif,_Mecca_and_Jed
 latitude: 21.27028
 loc_type: city
 longitude: 40.415831
-score: 6.77
+score: 5.306
 snippet: High Hejaz mountain city known for cool summer air and rose-water production
 title: Ta’if
 type: location
+heritage: 4.022
+vibrancy: 5.028
+nature: 5.794
+off_the_beaten_track: 4.735
 ---
 
 Ta’if sits at around 1,800 metres in the Hejaz mountains above [Mecca](/asia/saudiarabia/mecca), and the altitude makes it one of the most pleasant places in the country during the brutal summer months. Temperatures here in July average around 30°C when much of the country is over 40°C. Saudi royalty and government used to relocate here in summer, and the city still has a prosperous, settled feeling.

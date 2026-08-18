@@ -7,11 +7,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Malmsmead_Hill,_Exmoor_-_g
 latitude: 51.133841
 loc_type: feature
 longitude: -3.603995
-score: 7.0
+score: 6.087
 snippet: National park of open moorland, wooded valleys, red deer, and a dramatic
   cliff-backed coast on the Bristol Channel.
 title: Exmoor
 type: location
+heritage: 5.498
+vibrancy: 1.987
+nature: 7.105
+off_the_beaten_track: 3.666
 ---
 
 Unlike [Dartmoor](/europe/unitedkingdom/england/south_west/dartmoor), which is exclusively in Devon, Exmoor National Park lies mostly in Somerset but partly in Devon.

@@ -4,8 +4,9 @@ type: location
 loc_type: city
 latitude: -27.547653
 longitude: 135.435757
-score: 6.7
-snippet: Remote South Australian outback town where the old Ghan, Arabana country, and the pink roadhouse meet.
+score: 5.073
+snippet: Remote South Australian outback town where the old Ghan, Arabana country,
+  and the pink roadhouse meet.
 wikidata: Q1193414
 sources:
 - https://en.wikivoyage.org/wiki/Oodnadatta
@@ -13,6 +14,10 @@ sources:
 - https://traveloutbackaustralia.com/oodnadatta-track.html/
 - https://maps.sa.gov.au/heritagesearch/HeritageItem.aspx?p_heritageno=12
 - https://en.wikipedia.org/wiki/Oodnadatta
+heritage: 4.202
+vibrancy: 2.17
+nature: 5.966
+off_the_beaten_track: 6.216
 ---
 
 Oodnadatta is a tiny town on the Oodnadatta Track, a long way from almost everywhere and all the better for it. It was once an important stop on the old Ghan railway and on older outback routes; today it is a roadhouse, museum, Aboriginal community, and practical pause in a huge desert landscape.

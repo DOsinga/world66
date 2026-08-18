@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2024-07_Olsztyn_(72).jpg
 latitude: 53.7766
 loc_type: city
 longitude: 20.4778
-score: 7.29
+score: 4.325
 snippet: Warmia-Masuria lake city with a Gothic castle, Copernicus connections, and
   forests close by.
 title: Olsztyn
 type: location
+heritage: 4.624
+vibrancy: 3.48
+nature: 4.744
+off_the_beaten_track: 2.029
 ---
 
 Olsztyn is the capital of the Warmia-Masuria region in northeastern Poland, a city of about 170,000 set among the lakes and forests that make this corner of the country so appealing. Its most famous resident was Nicolaus Copernicus, who served as administrator of Warmia from the [Gothic castle](/europe/poland/olsztyn/olsztyn_castle) that still stands in the old town. The castle now houses a museum with a permanent exhibition on the astronomer, including an astronomical table he carved into a wall to track the movements of the sun.

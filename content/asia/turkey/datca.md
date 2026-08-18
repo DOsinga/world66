@@ -2,14 +2,19 @@
 latitude: 36.7283
 loc_type: city
 longitude: 27.6869
-score: 7.6
-snippet: Quiet Aegean peninsula town of stone villages, clear coves, almonds, and Knidos ruins.
+score: 5.543
+snippet: Quiet Aegean peninsula town of stone villages, clear coves, almonds, and
+  Knidos ruins.
 sources:
-  - https://en.wikivoyage.org/wiki/Dat%C3%A7a
-  - https://en.wikipedia.org/wiki/Dat%C3%A7a
-  - https://en.wikipedia.org/wiki/Knidos
+- https://en.wikivoyage.org/wiki/Dat%C3%A7a
+- https://en.wikipedia.org/wiki/Dat%C3%A7a
+- https://en.wikipedia.org/wiki/Knidos
 title: Datça
 type: location
+heritage: 3.899
+vibrancy: 3.906
+nature: 6.704
+off_the_beaten_track: 5.216
 ---
 
 Datça sits near the middle of the long peninsula that separates the Aegean from the Mediterranean. It is quieter and less packaged than Bodrum or Marmaris, with a dry, piney landscape, clear coves, old stone villages, and enough distance from the main resort circuit to keep its own rhythm.

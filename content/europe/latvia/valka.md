@@ -4,9 +4,13 @@ type: location
 loc_type: city
 latitude: 57.7752
 longitude: 26.016
-score: 6.41
+score: 4.385
 snippet: Latvian border town paired with Estonian Valga, once split by a line now
   barely visible.
+heritage: 5.53
+vibrancy: 1.694
+nature: 3.18
+off_the_beaten_track: 2.6
 ---
 
 Valka is a small Latvian town with a peculiar distinction: it shares a border — and a history — with the Estonian town of Valga, which sits immediately alongside it. The two towns were once a single settlement that was split when Latvia and Estonia established their border in 1920. After both countries joined the Schengen Area, the border became invisible again, and you can walk between Valka and Valga without noticing you've crossed from one country to another.

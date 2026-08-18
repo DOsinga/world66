@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ambala_Cantonment_Railway_
 latitude: 30.38
 loc_type: city
 longitude: 76.78
-score: 6.61
+score: 2.442
 snippet: North Haryana junction city split between old Ambala and a cantonment full
   of colonial-era traces.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://ambala.gov.in/tourist-place/manji-sahib-gurudwara/
 title: Ambala
 type: location
+heritage: 2.619
+vibrancy: 2.394
+nature: 1.764
+off_the_beaten_track: 0.993
 ---
 
 Ambala is one of north India's great junction towns: part old trading city, part military cantonment, and part railway crossroads between Delhi, Punjab, Himachal Pradesh, and Chandigarh. It is not polished as a tourist stop, but it has the layered feel of a place that has had armies, merchants, pilgrims, and trains passing through for a long time.

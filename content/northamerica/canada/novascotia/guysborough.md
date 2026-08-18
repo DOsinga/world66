@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Guysborough_Harbour_-_Guys
 latitude: 45.394
 loc_type: city
 longitude: -61.499
-score: 6.55
+score: 4.699
 snippet: Small Eastern Shore town on Chedabucto Bay, with fishing history and a local
   heritage museum.
 title: Guysborough
 type: location
+heritage: 3.836
+vibrancy: 1.938
+nature: 5.657
+off_the_beaten_track: 3.991
 ---
 
 Guysborough is a small town on the Eastern Shore of [Nova Scotia](/northamerica/canada/novascotia), sitting at the head of Chedabucto Bay. One of the oldest settlements in the province, it dates back to the 1600s and has a long history tied to the fishing trade. Today it is a quiet, scenic stop on the drive between [Halifax](/northamerica/canada/novascotia/halifax) and Cape Breton, with a population of only a few hundred.

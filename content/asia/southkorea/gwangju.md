@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 35.1595
 longitude: 126.8526
-score: 8.35
+score: 5.706
 snippet: South Korean art and democracy city with Jeolla food, Mudeungsan, and a fierce
   civic memory.
 sources:
@@ -14,6 +14,10 @@ image: gwangju.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Gwangju,_South_Korea_-_2015_(DSC01577).jpg
 image_license: CC0
 image_attribution: 최광모
+heritage: 6.383
+vibrancy: 5.351
+nature: 2.325
+off_the_beaten_track: 1.616
 ---
 
 Gwangju is South Korea's city of conscience: proud, political, artistic, and very serious about food. It is the largest city in the Honam southwest, but it feels different from Seoul or Busan. The pace is easier, the streets are less frantic, and the local identity is unusually strong.

@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/7354052@N04/20873307251
 latitude: 39.1332
 loc_type: city
 longitude: 16.0746
-score: 7.59
+score: 4.773
 snippet: Layered Calabrian coastal town where Byzantine, Arab, Norman, and Roman traces
   meet above the Tyrrhenian Sea.
 title: Amantea
 type: location
+heritage: 4.763
+vibrancy: 2.961
+nature: 5.38
+off_the_beaten_track: 3.89
 ---
 
 Amantea ranks high on a list of Calabria's prettiest towns, and it is one of the region's most historically layered. Long before the Greeks and Romans, Bronze and Iron Age settlements flourished around the mouth of the river Savuto near the port.

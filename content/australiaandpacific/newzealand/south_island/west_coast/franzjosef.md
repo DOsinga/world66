@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Franz_Josef_Glacier_14.jpg
 latitude: -43.387382
 loc_type: city
 longitude: 170.181932
-score: 8.81
+score: 5.851
 snippet: West Coast glacier village where alpine ice descends close to temperate rainforest
   in Westland Tai Poutini.
 title: Franz Josef
 type: location
+heritage: 1.943
+vibrancy: 1.552
+nature: 7.318
+off_the_beaten_track: 5.739
 ---
 
 Franz Josef is a small glacial village on New Zealand's South Island West Coast, sitting at the foot of the [Franz Josef Glacier](/australiaandpacific/newzealand/south_island/west_coast/franzjosef/franz_josef_glacier) — one of the few glaciers in the world that descends from alpine heights almost to rainforest level. The surrounding Westland Tai Poutini National Park is genuinely dramatic: ice above, ferns and rata forest below, all within a few kilometres.

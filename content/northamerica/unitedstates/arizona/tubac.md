@@ -2,15 +2,20 @@
 title: Tubac
 type: location
 loc_type: city
-latitude: 31.6180
+latitude: 31.618
 longitude: -111.0502
-score: 7.2
-snippet: Small Arizona borderlands art town built around a Spanish presidio and nearby mission ruins.
+score: 5.577
+snippet: Small Arizona borderlands art town built around a Spanish presidio and nearby
+  mission ruins.
 wikidata: Q259729
 sources:
-  - https://en.wikivoyage.org/wiki/Tubac
-  - https://en.wikipedia.org/wiki/Tubac,_Arizona
-  - https://www.nps.gov/tuma/index.htm
+- https://en.wikivoyage.org/wiki/Tubac
+- https://en.wikipedia.org/wiki/Tubac,_Arizona
+- https://www.nps.gov/tuma/index.htm
+heritage: 5.794
+vibrancy: 2.553
+nature: 6.188
+off_the_beaten_track: 4.077
 ---
 
 Tubac is a small Santa Cruz Valley town south of [Tucson](/northamerica/unitedstates/arizona/tucson), and it earns more time than its size suggests. It began as a Spanish presidio in 1752, was abandoned and resettled more than once, and later became one of Arizona's better-known art colonies.

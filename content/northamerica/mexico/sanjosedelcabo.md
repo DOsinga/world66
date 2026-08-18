@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:SJCmunicipalhall01.JPG
 latitude: 23.059836
 loc_type: city
 longitude: -109.702515
-score: 8.44
+score: 5.815
 snippet: Quieter Los Cabos town with a colonial centre, gallery district, and estuary
   by the Sea of Cortez.
 title: San Jose del Cabo
 type: location
+heritage: 2.65
+vibrancy: 4.906
+nature: 6.642
+off_the_beaten_track: 1.688
 ---
 
 San José del Cabo is the quieter, more cultured half of the Los Cabos resort area at the southern tip of Baja California. While neighbouring [Cabo San Lucas](/northamerica/mexico/cabosanlucas) draws the party crowd, San José has a genuine Mexican town centre with colonial architecture, a handsome church on [Plaza Mijares](/northamerica/mexico/sanjosedelcabo/plaza_mijares), and a Thursday-evening [art walk](/northamerica/mexico/sanjosedelcabo/art_walk) through the galleries along Calle Álvaro Obregón.

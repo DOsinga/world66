@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -32.035
 longitude: -52.0986
-score: 6.8
+score: 3.64
 snippet: Southern Brazilian port city between Lagoa dos Patos, old maritime streets,
   and Cassino Beach.
 wikidata: Q869571
@@ -17,6 +17,10 @@ image: riogrande.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Rio_Grande.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Roger Amaral Scheridon de Moraes
+heritage: 2.791
+vibrancy: 2.89
+nature: 4.245
+off_the_beaten_track: 1.694
 ---
 
 Rio Grande is the old maritime end of southern [Brazil](/southamerica/brazil), a port city where Lagoa dos Patos drains toward the Atlantic. It was the first capital of Rio Grande do Sul, and the centre still has churches, customs houses, and civic buildings from a time when shipping gave the city its weight.

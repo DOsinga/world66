@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:St_Nicholas%27_Church,_Ste
 latitude: 51.9017
 loc_type: city
 longitude: -0.2019
-score: 6.5
+score: 2.502
 snippet: Hertfordshire new town with Roman barrows, an older village core, and fast
   trains north of London.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://www.parksherts.co.uk/parks/fairlands-valley-park/
 title: Stevenage
 type: location
+heritage: 2.445
+vibrancy: 2.543
+nature: 1.746
+off_the_beaten_track: 0.791
 ---
 
 Stevenage is rarely anyone's picture-postcard Hertfordshire stop, and it is better to be honest about that. It was Britain's first post-war new town, planned for growth after 1946, and much of its centre still has the practical, concrete, pedestrianised confidence of that era.

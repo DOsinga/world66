@@ -4,10 +4,15 @@ type: location
 loc_type: city
 latitude: -19.0076
 longitude: 146.1892
-score: 6.8
-snippet: Tiny rainforest village in the Paluma Range, above waterfalls, swimming holes, and Wet Tropics forest.
+score: 5.956
+snippet: Tiny rainforest village in the Paluma Range, above waterfalls, swimming holes,
+  and Wet Tropics forest.
 source: Wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Paluma
+heritage: 1.737
+vibrancy: 1.152
+nature: 7.716
+off_the_beaten_track: 4.967
 ---
 
 Paluma is a tiny village in the mountains north of Townsville, set in cool rainforest near the southern edge of the Wet Tropics. It is the opposite of coastal Queensland: misty, green, quiet, and much cooler than the plains below.

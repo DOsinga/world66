@@ -2,8 +2,9 @@
 latitude: 43.8408
 loc_type: feature
 longitude: 75.5347
-score: 8.3
-snippet: Kazakh river gorge holding over 5,000 petroglyphs from the Bronze Age to medieval times.
+score: 5.367
+snippet: Kazakh river gorge holding over 5,000 petroglyphs from the Bronze Age to
+  medieval times.
 story: 'The petroglyphs at Tamgaly were created by cultures separated by thousands
   of years — the earliest images date to the Bronze Age, around 1400 BCE, while the
   newest additions are medieval. The Bronze Age figures are the most remarkable: elaborate
@@ -18,6 +19,10 @@ tags:
 - museum
 title: Tamgaly Petroglyphs (Day Trip)
 type: location
+heritage: 6.776
+vibrancy: 1.241
+nature: 3.875
+off_the_beaten_track: 3.977
 ---
 
 The Tamgaly Archaeological Landscape, a UNESCO World Heritage Site about 170 kilometres northwest of Almaty, contains over 5,000 petroglyphs carved into the dark desert varnish on the sandstone outcrops of a river gorge. The carvings span from the Bronze Age to the medieval period and document the cultures — nomadic, pastoral, and settled — that passed through this route over three millennia.

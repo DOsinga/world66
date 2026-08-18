@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Wuhu-wuhu-zhongjiangta.jpg
 latitude: 31.343
 loc_type: city
 longitude: 118.354
-score: 6.06
+score: 4.828
 snippet: Yangtze port city near Nanjing, with Mirror Lake walks and a quieter Anhui
   urban character
 sources:
 - https://en.wikivoyage.org/wiki/Wuhu
 title: Wuhu
 type: location
+heritage: 4.233
+vibrancy: 5.09
+nature: 3.286
+off_the_beaten_track: 1.552
 ---
 
 Wuhu is a Yangtze port city that has spent most of its modern history in Nanjing's shadow, close enough to the Jiangsu capital (forty minutes by high-speed rail) that it has never quite developed a distinct tourist identity of its own. That proximity cuts both ways: it means Wuhu is well-connected and relatively cosmopolitan for a city of its size, but it also means visitors who could be in either place usually choose Nanjing.

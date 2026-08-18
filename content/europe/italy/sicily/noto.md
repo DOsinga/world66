@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Noto_BW_2025-04-26_10-12-4
 latitude: 36.8909
 loc_type: city
 longitude: 15.0706
-score: 8.78
+score: 6.459
 snippet: Sicilian Baroque town rebuilt after the 1693 earthquake in honey-coloured
   limestone.
 title: Noto
 type: location
+heritage: 7.746
+vibrancy: 5.003
+nature: 5.355
+off_the_beaten_track: 2.749
 ---
 
 Noto is the jewel of Sicilian Baroque. Rebuilt entirely after the 1693 earthquake, the town is a masterpiece of unified urban design, all honey-coloured limestone, theatrical facades, and ornate balconies. It has been a UNESCO World Heritage Site since 2002.

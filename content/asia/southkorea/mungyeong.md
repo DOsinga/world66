@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 36.5893
 longitude: 128.1914
-score: 7.6
-snippet: Mountain city known for Joseon passes, coal-mining history, pottery, and quiet valley scenery.
+score: 4.47
+snippet: Mountain city known for Joseon passes, coal-mining history, pottery, and
+  quiet valley scenery.
 wikidata: Q42095
 sources:
-  - https://en.wikivoyage.org/wiki/Mungyeong
-  - https://en.wikipedia.org/wiki/Mungyeong
-  - https://www.wikidata.org/wiki/Q42095
+- https://en.wikivoyage.org/wiki/Mungyeong
+- https://en.wikipedia.org/wiki/Mungyeong
+- https://www.wikidata.org/wiki/Q42095
+heritage: 3.173
+vibrancy: 3.103
+nature: 5.429
+off_the_beaten_track: 2.137
 ---
 
 *Asia > South Korea > Mungyeong*

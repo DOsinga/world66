@@ -4,14 +4,19 @@ type: location
 loc_type: city
 latitude: -41.7792
 longitude: 145.5403
-score: 6.5
-snippet: West Tasmania mining town beside rainforest walks, waterfalls, and Mount Murchison.
+score: 5.208
+snippet: West Tasmania mining town beside rainforest walks, waterfalls, and Mount
+  Murchison.
 wikidata: Q2166801
 sources:
-  - https://en.wikivoyage.org/wiki/Rosebery
-  - https://en.wikipedia.org/wiki/Rosebery,_Tasmania
-  - https://www.wikidata.org/wiki/Q2166801
-  - https://www.discovertasmania.com.au/regions/west-coast/rosebery/
+- https://en.wikivoyage.org/wiki/Rosebery
+- https://en.wikipedia.org/wiki/Rosebery,_Tasmania
+- https://www.wikidata.org/wiki/Q2166801
+- https://www.discovertasmania.com.au/regions/west-coast/rosebery/
+heritage: 4.005
+vibrancy: 1.722
+nature: 6.375
+off_the_beaten_track: 3.769
 ---
 
 Rosebery is a small mining town in western Tasmania, tucked below Mount Black and surrounded by wet forest, steep roads, and industrial history. The mine still matters here, so the town feels lived-in rather than dressed up for visitors.

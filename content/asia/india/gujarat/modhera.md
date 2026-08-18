@@ -5,11 +5,15 @@ done:
 latitude: 23.581665
 loc_type: city
 longitude: 72.140412
-score: 7.4
+score: 4.988
 title: Modhera
 type: location
 snippet: Gujarat village famed for its 11th-century Sun Temple and carved Surya Kund
   step tank.
+heritage: 6.604
+vibrancy: 1.844
+nature: 2.908
+off_the_beaten_track: 3.369
 ---
 
 Modhera is a small village in Gujarat's Mehsana district, about 99 km from [Ahmedabad](/asia/india/gujarat/ahmedabad), famous almost entirely for one extraordinary monument: the [Sun Temple](/asia/india/gujarat/modhera/sun_temple). Built in 1026 AD by the Solanki king Bhimdev I, it is one of the finest examples of medieval Indian temple architecture, with walls covered in extraordinary carved sculptures of gods, goddesses, and scenes from everyday life.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bamun_sultan_palace.jpg
 latitude: 5.7269
 loc_type: city
 longitude: 10.905
-score: 7.0
+score: 5.464
 snippet: Bamoun cultural capital in western Cameroon, centred on the royal palace
   and centuries of sultanate history.
 title: Foumban
 type: location
+heritage: 6.534
+vibrancy: 4.27
+nature: 3.014
+off_the_beaten_track: 5.003
 ---
 
 Foumban is the cultural capital of the Bamoun people and one of Cameroon's most rewarding destinations for visitors interested in history and traditional craft. The city sits in the West Region, about 70 kilometres east of Bafoussam, and has been the seat of the Bamoun sultanate for more than six centuries.

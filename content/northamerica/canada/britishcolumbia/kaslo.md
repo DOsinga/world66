@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 49.9104
 longitude: -116.9073
-score: 6.9
-snippet: Tiny Kootenay Lake village with silver-boom history, mountain views, and a restored sternwheeler.
+score: 5.521
+snippet: Tiny Kootenay Lake village with silver-boom history, mountain views, and
+  a restored sternwheeler.
 sources:
-  - https://en.wikivoyage.org/wiki/Kaslo
-  - https://www.klhs.bc.ca/
-  - https://www.kootenayrockies.com/partner/ss-moyie/
+- https://en.wikivoyage.org/wiki/Kaslo
+- https://www.klhs.bc.ca/
+- https://www.kootenayrockies.com/partner/ss-moyie/
+heritage: 4.314
+vibrancy: 2.461
+nature: 6.729
+off_the_beaten_track: 4.67
 ---
 
 Kaslo is a small Kootenay Lake village with more presence than its size suggests. It sits between the Selkirk and Purcell mountains, with a tidy lakeshore, old wooden buildings, and the feeling of a silver-boom town that never quite forgot its grander ambitions.

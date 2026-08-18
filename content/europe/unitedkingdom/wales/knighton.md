@@ -4,13 +4,17 @@ type: location
 loc_type: city
 latitude: 52.344
 longitude: -3.05
-score: 6.55
+score: 5.314
 snippet: Welsh border walking town where Offa's Dyke and Glyndwr's Way meet.
 sources:
 - https://en.wikivoyage.org/wiki/Knighton
 - https://en.wikipedia.org/wiki/Offa%27s_Dyke
 - https://visitknighton.co.uk/
 - https://knightontc.wales/things-to-do/
+heritage: 4.461
+vibrancy: 1.855
+nature: 6.346
+off_the_beaten_track: 3.186
 ---
 
 Knighton is a small border town in Powys, pressed into the hills where Wales and England have argued, traded, and walked past each other for centuries. Its Welsh name, Tref-y-clawdd, means "town on the dyke", and that tells you what matters here.

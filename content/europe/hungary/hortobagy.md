@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Hortobagy_h%C3%ADd.jpg
 latitude: 47.582614
 loc_type: city
 longitude: 21.152537
-score: 7.74
+score: 5.146
 snippet: Hungarian puszta grassland of csikós horsemen, grey cattle, mirages, and
   the Nine-Arched Bridge
 title: Hortobágy
 type: location
+heritage: 4.467
+vibrancy: 2.364
+nature: 6.083
+off_the_beaten_track: 3.981
 ---
 
 Hortobágy is the largest continuous natural grassland in Europe and a UNESCO World Heritage site. The vast, treeless puszta stretches to the horizon in every direction, broken only by mirages shimmering in the summer heat and the silhouettes of long-horned grey cattle and Racka sheep. This is where Hungarian cowboy culture lives on: the csikós horsemen still ride the plains, performing feats like the famous "Puszta Five" where a single rider stands astride two galloping horses while driving three more ahead.

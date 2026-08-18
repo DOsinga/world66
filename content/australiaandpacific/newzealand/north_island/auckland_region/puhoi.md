@@ -5,7 +5,7 @@ loc_type: city
 latitude: -36.512
 longitude: 174.661
 wikidata: Q2117632
-score: 7.1
+score: 3.672
 snippet: Tiny Auckland-region riverside village with Bohemian settler history and
   a tidal kayak route.
 sources:
@@ -18,6 +18,10 @@ image: puhoi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Book_%26_Bridge_shop,_Puhoi_Hotel_Stables.jpg
 image_license: CC BY 4.0
 image_attribution: Bjankuloski06
+heritage: 3.81
+vibrancy: 1.951
+nature: 4.076
+off_the_beaten_track: 2.161
 ---
 
 Puhoi is a small riverside village north of [Auckland](/australiaandpacific/newzealand/north_island/auckland_region/auckland), settled in the 1860s by German-speaking Bohemians from what is now the Czech Republic. It is tiny, but it has a stronger identity than many larger towns: a church, a museum, old family names, and a slow tidal river running through the valley.

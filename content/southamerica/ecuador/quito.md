@@ -13,7 +13,7 @@ quick_facts:
   Elevation: 2,850 m
   Old Town: A first-ever UNESCO site (1978)
   On the Equator: Mitad del Mundo nearby
-score: 9.03
+score: 5.914
 snippet: High Andean capital of Ecuador, known for its preserved colonial centre below
   Pichincha volcano.
 tip: Quito sits at 2,850 m in the Andes — the highest official capital in the world
@@ -22,6 +22,10 @@ tip: Quito sits at 2,850 m in the Andes — the highest official capital in the 
   the equator at the Mitad del Mundo monument. The light and air are thin and brilliant.
 title: Quito
 type: location
+heritage: 5.657
+vibrancy: 5.865
+nature: 6.042
+off_the_beaten_track: 2.586
 ---
 
 Quito is one of the highest capital cities in the world, at 2,850 metres above sea level, and the first city to be declared a UNESCO World Heritage Site (in 1978, jointly with Kraków). Its [Centro Histórico](/southamerica/ecuador/quito/centro_historico) is one of the best-preserved colonial urban centres in the Americas — forty churches, seventeen plazas, and streets that have changed little since the 16th century. The backdrop is extraordinary: the city fills a long, narrow valley with the active Pichincha volcano immediately to the west and a ring of snowcapped peaks visible on clear days.

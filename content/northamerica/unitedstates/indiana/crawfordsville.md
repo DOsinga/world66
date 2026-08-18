@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/51096110@N00/14609994818
 latitude: 40.040863
 loc_type: city
 longitude: -86.899738
-score: 5.85
+score: 2.372
 title: Crawfordsville
 type: location
 snippet: West-central Indiana college town linked to Lew Wallace and the writing of
   Ben-Hur.
+heritage: 2.717
+vibrancy: 2.095
+nature: 2.158
+off_the_beaten_track: 1.21
 ---
 
 Crawfordsville is a small city of around 15,000 in west-central Indiana, about halfway between Indianapolis and the Illinois state line off Interstate 74. It's the seat of Montgomery County and home to Wabash College, a well-regarded all-male liberal arts college that gives the town a certain intellectual edge unusual for a city this size.

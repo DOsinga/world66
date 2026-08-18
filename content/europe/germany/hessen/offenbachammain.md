@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:B%C3%BCsing_Palais_d.jpg
 latitude: 50.1055
 loc_type: city
 longitude: 8.76107
-score: 6.37
+score: 3.986
 snippet: Main River city beside Frankfurt, marked by leather industry heritage, design
   schools, and multicultural street life.
 title: Offenbach am Main
 type: location
+heritage: 3.482
+vibrancy: 4.208
+nature: 2.304
+off_the_beaten_track: 0.762
 ---
 
 Offenbach am Main sits directly across the river from [Frankfurt](/europe/germany/hessen/frankfurt) and is very much its own city despite being swallowed by the same metropolitan sprawl. It has the highest proportion of foreign residents of any large German city — over a third of its population — which gives it a genuinely multicultural character, particularly visible in its food scene and street life.

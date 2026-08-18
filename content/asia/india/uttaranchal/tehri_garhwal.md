@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Lake_created_By_Tehri_Dam_
 latitude: 30.4658
 loc_type: city
 longitude: 78.4837
-score: 6.87
+score: 5.834
 snippet: Himalayan Uttarakhand district defined by Tehri Dam, its vast reservoir,
   and roads into Garhwal pilgrimage country.
 title: Tehri Garhwal
 type: location
+heritage: 4.454
+vibrancy: 3.699
+nature: 7.155
+off_the_beaten_track: 4.509
 ---
 
 Tehri Garhwal is a hilly district in Uttarakhand, on the southern slopes of the Himalayas. The old town of Tehri was submerged when the Tehri Dam — one of the tallest in the world — was completed across the Bhagirathi River, creating a vast reservoir. The new town sits above the waterline, and the [Tehri Lake](/asia/india/uttaranchal/tehri_garhwal/tehri_lake) has become an unexpected draw, with water sports, bungee jumping from the dam structure, and the haunting outline of submerged buildings visible at low water.

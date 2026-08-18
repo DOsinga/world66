@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Litheos_river,_Trikala_(ci
 latitude: 39.556087
 loc_type: city
 longitude: 21.767884
-score: 7.43
+score: 4.522
 title: Trikala
 snippet: Thessaly city south of Meteora, set on ancient Trikka and the birthplace
   traditions of Asclepius.
 type: location
+heritage: 4.011
+vibrancy: 3.901
+nature: 5.124
+off_the_beaten_track: 2.286
 ---
 
 *Europe > [Greece](/europe/greece) > Trikala*

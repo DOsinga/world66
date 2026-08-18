@@ -15,7 +15,7 @@ quick_facts:
   Hawa Mahal: 953 windows
   Population: 3 million
   The Pink City: Painted pink in 1876
-score: 9.42
+score: 5.731
 snippet: Rajasthani capital and Pink City, with terracotta walls, royal palaces, and
   planned old-town avenues.
 tip: Jaipur, the 'Pink City', painted itself terracotta-pink to welcome a royal visit
@@ -25,6 +25,10 @@ tip: Jaipur, the 'Pink City', painted itself terracotta-pink to welcome a royal 
   and beware 'commission' touts.
 title: Jaipur
 type: location
+heritage: 6.184
+vibrancy: 5.603
+nature: 2.819
+off_the_beaten_track: 1.255
 ---
 
 Jaipur, the capital of Rajasthan, earned its nickname 'the Pink City' when the old town was painted terracotta-pink in 1876 for the visit of the Prince of Wales. The color has stuck, and the walled old city remains a startling sight — a grid of broad avenues lined with uniform pink buildings, teeming with traffic, traders, and tourists.

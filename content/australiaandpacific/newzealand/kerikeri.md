@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Stone_Store_and_Kemp_House
 latitude: -35.227261
 loc_type: city
 longitude: 173.949106
-score: 7.99
+score: 5.254
 title: Kerikeri
 type: location
 snippet: Bay of Islands town with New Zealand's oldest surviving buildings in the
   Kerikeri Basin heritage precinct.
+heritage: 4.491
+vibrancy: 3.535
+nature: 6.24
+off_the_beaten_track: 3.196
 ---
 
 Kerikeri is a small town in the Bay of Islands in Northland, and one of the most historically significant places in New Zealand. The [Stone Store](/australiaandpacific/newzealand/kerikeri/stone_store), built between 1832 and 1836, is the country's oldest surviving stone building, and the [Kemp House](/australiaandpacific/newzealand/kerikeri/kemp_house) from 1822 next door is the oldest surviving building in the country outright. Together with [St James' Church](/australiaandpacific/newzealand/kerikeri/st_james_church) and its ancient cemetery, the Kerikeri Basin heritage precinct tells the story of early European and Māori encounter more vividly than almost anywhere else in New Zealand.

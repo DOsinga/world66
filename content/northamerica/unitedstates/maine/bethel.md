@@ -2,10 +2,15 @@
 latitude: 44.4042
 loc_type: city
 longitude: -70.7906
-score: 7.25
-snippet: Western Maine mountain village with skiing, river trips, minerals, and White Mountain trails.
+score: 4.346
+snippet: Western Maine mountain village with skiing, river trips, minerals, and White
+  Mountain trails.
 title: Bethel
 type: location
+heritage: 2.083
+vibrancy: 1.911
+nature: 5.534
+off_the_beaten_track: 3.941
 ---
 
 Bethel is a western Maine mountain village on the Androscoggin River, close to Sunday River and the New Hampshire line. It has the bones of a classic New England town: a compact centre, old houses, a college-prep campus, and forested hills rising quickly outside town.

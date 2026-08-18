@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ciudad_de_tela_honduras_ma
 latitude: 15.7833
 loc_type: city
 longitude: -87.4667
-score: 6.86
+score: 5.642
 snippet: Laid-back Honduran Caribbean town edged by empty beaches, Garifuna villages,
   and Lancetilla's tropical gardens.
 title: Tela
 type: location
+heritage: 4.23
+vibrancy: 4.037
+nature: 6.795
+off_the_beaten_track: 3.897
 ---
 
 Tela is a laid-back Caribbean town on Honduras's north coast, quieter and less developed than nearby La Ceiba or the Bay Islands. The town itself is modest — a grid of streets around a small central park — but the real draws are just outside: long, empty beaches stretching east and west, and two of Central America's finest botanical gardens.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ville_de_Lab%C3%A9.jpg
 latitude: 11.323003
 loc_type: city
 longitude: -12.282253
-score: 4.82
+score: 5.402
 snippet: Guinean highland city and Fouta Djallon hub, surrounded by Fulani markets,
   waterfalls, and cool plateau air.
 title: Labe
 type: location
+heritage: 4.069
+vibrancy: 1.632
+nature: 6.509
+off_the_beaten_track: 6.107
 ---
 
 Labe is the unofficial capital of the Fouta Djallon, the great highland plateau that occupies much of central Guinea. With a population of around 300,000, it is Guinea's third-largest city and the main commercial hub for the highland region — a transit point for travellers heading to [Guinea-Bissau](/africa/guineabissau), a market town for Fulani farmers and herders from across the plateau, and a base for exploring some of West Africa's most distinctive highland scenery.

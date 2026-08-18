@@ -7,8 +7,12 @@ title: Cape Horn
 snippet: Remote Chilean headland where Atlantic and Pacific waters meet at the stormy
   southern tip of the Americas
 type: location
-score: 8.04
+score: 6.038
 loc_type: feature
+heritage: 2.572
+vibrancy: 0.95
+nature: 7.442
+off_the_beaten_track: 6.283
 ---
 
 There are places on the map that exist as myth before you ever get close to them, and Cape Horn is one of them. The southernmost point of the Americas, the place where the Atlantic and Pacific meet, the graveyard of hundreds of ships that tried to round it in the age of sail — the Horn carries real weight. Standing at 55°58′S on Isla Hornos, deep in the Chilean Tierra del Fuego archipelago, it is as remote and elemental a spot as you are likely to reach without a full expedition.

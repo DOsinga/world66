@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Merced_Theatre.JPG
 latitude: 37.164154
 loc_type: city
 longitude: -120.76786
-score: 5.81
+score: 3.288
 snippet: Central Valley city and Yosemite gateway, also home to UC Merced and nearby
   wetlands.
 title: Merced
 type: location
+heritage: 3.154
+vibrancy: 2.299
+nature: 3.76
+off_the_beaten_track: 2.488
 ---
 
 Merced is a small city in California's Central Valley, best known as the gateway to Yosemite National Park — the western entrance is about 80 miles northeast along Highway 140. The city is also home to [UC Merced](/northamerica/unitedstates/california/centralvalley/merced/uc_merced), the newest campus in the UC system, opened in 2005.

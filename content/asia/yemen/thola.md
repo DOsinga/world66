@@ -5,11 +5,15 @@ done:
 latitude: 15.8833
 loc_type: city
 longitude: 44.0167
-score: 1.47
+score: 4.791
 snippet: Fortified Yemeni highland town on a mountain perch, with rock-cut cisterns
   and an old castle.
 title: Thola
 type: location
+heritage: 4.354
+vibrancy: 1.915
+nature: 5.335
+off_the_beaten_track: 6.851
 ---
 
 Thola sits on a commanding hilltop some 54 km northwest of Sana'a, at around 2,400 metres above sea level. It is one of the older fortified towns of the Yemeni highlands — the kind of place where the defensive logic of the site is immediately obvious: a mountain perch ringed by cliffs, with an ancient castle that reputedly was never taken by force.

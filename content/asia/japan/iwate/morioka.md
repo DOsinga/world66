@@ -2,7 +2,7 @@
 latitude: 39.6833
 loc_type: city
 longitude: 141.15
-score: 7.4
+score: 4.345
 sources:
 - https://en.wikivoyage.org/wiki/Morioka
 - https://www.japan.travel/en/destinations/tohoku/iwate/morioka-and-around/
@@ -17,6 +17,10 @@ image: morioka.jpg
 image_source: https://commons.wikimedia.org/wiki/File:171103_Morioka_Castle_Morioka_Iwate_pref_Japan19s3.jpg
 image_license: CC BY-SA 4.0
 image_attribution: 663highland
+heritage: 3.347
+vibrancy: 2.83
+nature: 5.316
+off_the_beaten_track: 3.158
 ---
 
 Morioka is the capital of Iwate, a compact Tohoku city where three rivers meet under the long shape of Mount Iwate. It is often treated as a rail stop between Tokyo, Akita, and Hokkaido, but that sells it short. The old castle walls, temple district, modern art museum, and noodle shops easily fill a day.

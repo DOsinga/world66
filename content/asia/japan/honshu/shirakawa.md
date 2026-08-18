@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 37.1264
 longitude: 140.2108
-score: 6.8
+score: 5.714
 snippet: Fukushima castle town where old Japan marked the road into Tohoku.
 wikidata: Q750587
 sources:
@@ -12,6 +12,10 @@ sources:
 - https://www.wikidata.org/wiki/Q750587
 - https://en.wikipedia.org/wiki/Shirakawa,_Fukushima
 - https://fukushima.travel/destination/komine-castle/54
+heritage: 4.806
+vibrancy: 3.553
+nature: 6.82
+off_the_beaten_track: 2.919
 ---
 
 Shirakawa sits at the southern edge of Fukushima Prefecture, where the old road from Kanto entered Tohoku. It is a quiet city now, but for centuries this was a border town: a castle, a highway checkpoint, and a poetic threshold between the capital region and the north.

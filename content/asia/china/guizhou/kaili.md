@@ -8,12 +8,16 @@ image_source: https://commons.wikimedia.org/wiki/File:Kaili_City.jpg
 latitude: 26.5822
 loc_type: city
 longitude: 107.9751
-score: 6.76
+score: 5.397
 snippet: Industrial Guizhou city used as a base for Miao and Dong villages in Qiandongnan.
 sources:
 - https://en.wikivoyage.org/wiki/Kaili
 title: Kaili
 type: location
+heritage: 3.965
+vibrancy: 2.39
+nature: 6.685
+off_the_beaten_track: 4.794
 ---
 
 Kaili is an industrial city that nobody goes to for the city itself. It exists on the traveller's map as the gateway to the Qiandongnan Miao and Dong Autonomous Prefecture — a region of river valleys and wooden villages where Miao and Dong minority culture has survived with more substance than almost anywhere else in China. The city is the practical base: it has the hotels, the transport connections, and the bus station where you pick up the routes into the surrounding countryside.

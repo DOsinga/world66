@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Sapporo_Beer_Museum.jpg
 latitude: 43.062
 loc_type: city
 longitude: 141.3544
-score: 9.36
+score: 6.709
 snippet: Modern Hokkaido capital of beer, snow festivals, and broad grid streets ringed
   by mountains.
 title: Sapporo
 type: location
+heritage: 4.785
+vibrancy: 6.973
+nature: 6.026
+off_the_beaten_track: 1.199
 ---
 
 Sapporo is the capital of [Hokkaido](/asia/japan/hokkaido) and Japan's fifth-largest city, a modern grid-plan metropolis surrounded by mountains on three sides. It feels nothing like the dense, ancient cities of Honshu. Sapporo was purpose-built in the 1870s as a frontier capital, modelled on American city planning, and that open, spacious character still defines it today.

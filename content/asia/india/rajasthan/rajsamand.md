@@ -6,10 +6,14 @@ latitude: 25.0714
 longitude: 73.88
 title: Rajsamand
 type: location
-score: 6.75
+score: 4.848
 loc_type: city
 snippet: Small Rajasthan town north of Udaipur, centered on Rajsamand Lake and its
   carved marble embankment.
+heritage: 5.494
+vibrancy: 3.449
+nature: 4.921
+off_the_beaten_track: 2.243
 ---
 
 Rajsamand is a small town about 60 km north of [Udaipur](/asia/india/rajasthan/udaipur), centered on the vast Rajsamand Lake. Maharana Raj Singh built the dam here in 1660, and the embankment is decorated with ornamental arches, carved marble chhatris, and inscriptions in Sanskrit recording the history of the Mewar dynasty.

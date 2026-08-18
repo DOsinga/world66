@@ -5,11 +5,15 @@ done:
 latitude: 12.6112
 loc_type: city
 longitude: 102.1034
-score: 7.56
+score: 4.054
 snippet: Eastern Thai provincial capital on the Chanthaburi River, long associated
   with rubies and sapphires.
 title: Chantaburi
 type: location
+heritage: 3.352
+vibrancy: 2.816
+nature: 4.863
+off_the_beaten_track: 3.934
 ---
 
 Chantaburi is a prosperous provincial capital on [Thailand](/asia/thailand)'s eastern seaboard, about 245 km southeast of Bangkok. The city sits on the Chanthaburi River, ten kilometres inland from the Gulf of Thailand, and has long been famous for two things: rubies and sapphires. The mines surrounding the town produced most of the world's high-end coloured stones from the 1960s to the 1990s. The mines are now exhausted but the [gem market](/asia/thailand/chantaburi/gem_market) still trades every weekend, drawing buyers from Geneva, Bangkok, and the diamond districts of Mumbai.

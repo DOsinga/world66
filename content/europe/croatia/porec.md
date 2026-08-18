@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Croatia_BW_2014-10-08_11-1
 latitude: 45.2272
 loc_type: city
 longitude: 13.5957
-score: 8.77
+score: 4.709
 snippet: Istrian coastal town with a Roman street grid and the mosaic-filled Euphrasian
   Basilica.
 title: Porec
 type: location
+heritage: 3.731
+vibrancy: 4.647
+nature: 4.87
+off_the_beaten_track: 1.326
 ---
 
 Porec sits halfway up the western coast of [Istria](/europe/croatia/istria), a small town built on a narrow peninsula that juts into the Adriatic. Its Roman street grid is still intact -- you can walk the original [Decumanus](/europe/croatia/porec/decumanus), the main east-west street, and Cardo Maximus crossing it at right angles, just as they were laid out two thousand years ago.

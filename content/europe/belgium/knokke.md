@@ -5,11 +5,15 @@ done:
 latitude: 51.339827
 loc_type: city
 longitude: 3.284322
-score: 7.63
+score: 3.818
 snippet: Belgian seaside resort on the Dutch border, known for galleries, dunes, and
   the Zwin marsh
 title: Knokke
 type: location
+heritage: 3.352
+vibrancy: 4.024
+nature: 2.971
+off_the_beaten_track: 1.331
 ---
 
 Knokke-Heist is [Belgium's](/europe/belgium) most upmarket seaside resort, sitting at the northeastern end of the coast right on the Dutch border. It has long been the place where wealthy Brussels and Antwerp families keep a flat by the sea, and that money shows in the galleries, designer shops, and restaurants along the Lippenslaan — more than 85 art galleries in a town of 35,000 people is not a coincidence.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Heber_Valley_Historic_Rail
 latitude: 40.5065
 loc_type: city
 longitude: -111.4133
-score: 7.18
+score: 5.57
 snippet: Working Utah valley town near Park City, with reservoirs and the Heber Valley
   Railroad.
 title: Heber City
 type: location
+heritage: 3.691
+vibrancy: 3.938
+nature: 6.73
+off_the_beaten_track: 3.02
 ---
 
 Heber City sits in a broad mountain valley about 45 minutes southeast of Salt Lake City and just over the ridge from Park City. It's a working Utah town rather than a resort — quieter and cheaper than its famous neighbour, with a good collection of cafes, diners, and motels that make it a practical base for exploring the area.

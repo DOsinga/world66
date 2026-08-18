@@ -1,8 +1,8 @@
 # Component Evaluation
 
-This is a sanity check of the current component scores in `scoring/data/location_scores.json`.
+This is a sanity check of an earlier component-scoring run.
 
-The combined `score` is not treated as a quality ranking here. It is a compatibility regression against the old frontmatter `score`, and the Bergen result shows that it should not be used as "best places to visit" without further calibration.
+The current production `scoring/data/location_scores.json` is built by `scoring/build_location_scores.py`. Older notes below may refer to the previous old-score regression diagnostic and should not be treated as the current combined-score recipe.
 
 ## Verdict
 
@@ -89,4 +89,4 @@ Use the components for:
 - personalization inputs;
 - picking runoff candidates.
 
-Do not use the raw component order as final editorial ranking for top city lists. Do not use the combined `score` as a general "best places" ranking.
+Do not use the raw component order as final editorial ranking for top city lists.

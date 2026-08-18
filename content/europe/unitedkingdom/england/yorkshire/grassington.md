@@ -11,7 +11,7 @@ original_overview: 'Wikivoyage describes Grassington as a small Wharfedale town 
   and hill walks.
 
   '
-score: 6.9
+score: 5.953
 snippet: Yorkshire Dales village of cobbled lanes, Wharfedale walks, and old lead-mining
   country.
 sources:
@@ -22,6 +22,10 @@ tags:
 - yorkshire_dales
 title: Grassington
 type: location
+heritage: 6.922
+vibrancy: 3.104
+nature: 5.647
+off_the_beaten_track: 2.686
 ---
 
 Grassington is a small Yorkshire Dales village with a cobbled square, stone lanes, and walking country pressing in from every side. It is pretty enough for a slow wander, but the real reason to come is that you can step out of the village and quickly be in classic Wharfedale: river paths, limestone woods, dry-stone walls, and old lead-mining scars.

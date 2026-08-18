@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:MSodaiguiSTPereFigueres1.j
 latitude: 42.2666
 loc_type: city
 longitude: 2.9638
-score: 8.57
+score: 5.786
 snippet: Provincial Catalan town best known as Salvador Dalí's birthplace and home
   of the Teatre-Museu Dalí.
 title: Figueres
 type: location
+heritage: 6.912
+vibrancy: 4.536
+nature: 3.718
+off_the_beaten_track: 2.811
 ---
 
 Figueres is a provincial Catalan town with one extraordinary reason to visit: the [Teatre-Museu Dalí](/europe/spain/catalonia/figueres/teatre_museu_dali), the largest surrealist object in the world and the most visited museum in Spain after the Prado. Salvador Dalí was born here in 1904, and he spent decades transforming the ruins of a burned-out municipal theatre into a monument to his own imagination. The result is less a museum than a total environment — every ceiling, every doorway, every courtyard is part of the work.

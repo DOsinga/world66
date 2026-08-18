@@ -5,11 +5,15 @@ done:
 latitude: 10.343738
 loc_type: city
 longitude: -67.045309
-score: 5.19
+score: 4.001
 snippet: Miranda highland capital above Caracas, with cooler air and access to Macarao's
   cloud forest.
 title: Los Teques
 type: location
+heritage: 3.855
+vibrancy: 3.425
+nature: 4.547
+off_the_beaten_track: 4.335
 ---
 
 Los Teques is the capital of Miranda state, sitting in the highlands about 30 kilometres southwest of Caracas at around 1,200 metres. With over 400,000 inhabitants, it has grown rapidly and somewhat chaotically — what was once a cooler retreat from the capital is now effectively part of the Caracas metropolitan sprawl.

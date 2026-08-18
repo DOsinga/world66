@@ -5,13 +5,17 @@ done:
 latitude: 45.399041
 loc_type: city
 longitude: -72.721834
-score: 6.6
+score: 3.715
 sources:
 - https://en.wikipedia.org/wiki/Granby,_Quebec
 title: Granby
 type: location
 snippet: Eastern Townships city with Anglo-Quebec brick heritage and one of Canada's
   largest family-focused zoos.
+heritage: 2.827
+vibrancy: 2.74
+nature: 4.435
+off_the_beaten_track: 1.733
 ---
 
 Granby is a pleasant mid-sized city of around 70,000 people in the **Eastern Townships** (Cantons-de-l'Est) of southern Quebec, about 80 km east of Montreal. It grew up as a 19th-century English-speaking textile town and still carries some of that Anglo-Quebec heritage in its red-brick downtown and the surrounding dairy-farm country, though today the population is overwhelmingly francophone.

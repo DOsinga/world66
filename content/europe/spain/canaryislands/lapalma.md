@@ -5,7 +5,7 @@ done:
 latitude: 28.655116
 loc_type: city
 longitude: -17.857269
-score: 8.64
+score: 5.884
 snippet: Volcanic Canary island of laurel forests, banana slopes, observatories, and
   black-sand Atlantic shores
 title: La Palma
@@ -14,6 +14,10 @@ image: lapalma.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Caldera_de_Taburiente_La_Palma.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Luc Viatour
+heritage: 2.918
+vibrancy: 3.689
+nature: 7.338
+off_the_beaten_track: 4.266
 ---
 
 La Palma is the steepest island in the world relative to its size, a volcanic spike rising nearly 2,500 metres straight out of the Atlantic. Most of the Canary Islands have been reshaped by tourism; La Palma largely hasn't. It has stayed green, quiet, and agricultural, which is either a reason to go or a reason to go elsewhere, depending on what you're after.

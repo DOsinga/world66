@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Castle_Howard,_Yorkshire,_
 latitude: 54.121563
 loc_type: feature
 longitude: -0.906648
-score: 8.8
+score: 6.144
 snippet: Baroque country house with stunning gardens and art
 tags:
 - sight
@@ -14,6 +14,10 @@ tags:
 title: Castle Howard
 type: location
 url: www.castlehoward.co.uk
+heritage: 7.227
+vibrancy: 1.445
+nature: 5.637
+off_the_beaten_track: 2.603
 ---
 
 About 25 kilometres northeast of York, Castle Howard is one of England's grandest baroque houses. Construction began in 1699 to a design by John Vanbrugh (who had never built anything before) and took over a hundred years to complete. The result is theatrical in the best sense: a domed Great Hall, painted ceilings, and corridors lined with Old Masters.

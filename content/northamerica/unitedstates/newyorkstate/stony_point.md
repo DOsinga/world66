@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 41.2372
 longitude: -74.0011
-score: 6.4
+score: 3.776
 snippet: Hudson Valley town where Revolutionary War earthworks, river views, and rough
   parkland meet.
 sources:
@@ -16,6 +16,10 @@ image: stony_point.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Stony_Point_Light,_on_hill.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Ser Amantio di Nicolao
+heritage: 2.796
+vibrancy: 1.873
+nature: 4.668
+off_the_beaten_track: 1.849
 ---
 
 Stony Point is a northern Rockland County town on the west bank of the Hudson, far enough from New York City to feel more river-and-woods than suburb. It is not a full weekend destination, but it clears the day-trip bar because its best sight is genuinely important: the point where American troops stormed a British position in 1779.

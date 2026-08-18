@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:La_basilica_al_tramonto.jp
 latitude: 45.0678
 loc_type: city
 longitude: 7.6825
-score: 9.02
+score: 5.918
 snippet: Piedmontese capital of Savoy palaces, Egyptian treasures, arcaded streets,
   and Alpine views.
 title: Turin
 type: location
+heritage: 6.044
+vibrancy: 5.915
+nature: 3.347
+off_the_beaten_track: 1.267
 ---
 
 Turin is Italy's most underrated major city. While tourists flock to Rome, Florence, and Venice, the former capital of the Savoy kingdom quietly offers world-class museums, one of Europe's most impressive collections of Baroque architecture, and a food and cafe culture that rivals anywhere on the peninsula. The elegant grid of arcaded streets, the sweeping views of the Alps from nearly every vantage point, and the River Po winding through riverside parks give the city a grandeur that constantly surprises first-time visitors.

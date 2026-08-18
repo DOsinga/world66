@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Coventry_Cathedral_2018.jp
 latitude: 52.4082
 loc_type: city
 longitude: -1.5105
-score: 6.56
+score: 4.662
 snippet: West Midlands city of wartime ruins, modernist rebuilding, and the paired
   old and new cathedrals
 sources:
@@ -21,6 +21,10 @@ sources:
 - https://en.wikipedia.org/wiki/Ford%27s_Hospital
 title: Coventry
 type: location
+heritage: 4.496
+vibrancy: 4.76
+nature: 1.915
+off_the_beaten_track: 1.047
 ---
 
 Coventry is a city defined by reinvention. Devastated by German bombing on the night of 14 November 1940, it was rebuilt in a style that mixed modernist ambition with the scars of what was lost. The result is a city that can feel jarring — brutalist concrete next to medieval fragments — but that is part of what makes it interesting.

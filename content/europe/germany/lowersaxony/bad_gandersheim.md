@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 51.8719
 longitude: 10.0253
-score: 7.0
-snippet: Lower Saxon spa town with an Ottonian abbey church, timber-framed lanes, and a major summer theatre festival.
+score: 4.031
+snippet: Lower Saxon spa town with an Ottonian abbey church, timber-framed lanes,
+  and a major summer theatre festival.
 sources:
-  - https://en.wikivoyage.org/wiki/Bad_Gandersheim
-  - https://en.wikipedia.org/wiki/Bad_Gandersheim
-  - https://en.wikipedia.org/wiki/Gandersheim_Abbey
+- https://en.wikivoyage.org/wiki/Bad_Gandersheim
+- https://en.wikipedia.org/wiki/Bad_Gandersheim
+- https://en.wikipedia.org/wiki/Gandersheim_Abbey
+heritage: 4.781
+vibrancy: 1.63
+nature: 3.609
+off_the_beaten_track: 2.247
 ---
 
 Bad Gandersheim is a small spa town in southern [Lower Saxony](/europe/germany/lowersaxony), just west of the Harz. It looks modest at first: half-timbered houses, a market square, a slow river valley, and wooded hills close enough for an afternoon walk. Then the abbey church comes into view, and the town's weight becomes clearer.

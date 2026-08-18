@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:AyabacaTown.jpg
 latitude: -4.755769
 loc_type: city
 longitude: -79.773997
-score: 6.75
+score: 6.043
 snippet: Northern Peruvian mountain town known for the Señor Cautivo pilgrimage and
   its highland border setting.
 title: Ayabaca
 type: location
+heritage: 2.597
+vibrancy: 1.108
+nature: 7.53
+off_the_beaten_track: 6.016
 ---
 
 Ayabaca is a quiet mountain town in the Piura region of northern Peru, sitting at 2,800 metres on the last ridgeline before the Ecuadorian border. Most visitors come for one reason: the [Iglesia del Señor Cautivo](/southamerica/peru/ayabaca/iglesia_senor_cautivo), whose carved wooden Christ is the most venerated religious image in the north of the country. In October the town transforms completely, filling with tens of thousands of barefoot pilgrims who have walked for days from across Peru and Ecuador.

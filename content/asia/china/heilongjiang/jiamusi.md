@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:No._1_Government_building_
 latitude: 46.8081
 loc_type: city
 longitude: 130.3653
-score: 5.45
+score: 3.71
 snippet: Eastern Heilongjiang river city on the Sanjiang Plain, gateway to crane wetlands
   and open floodplain country
 sources:
 - https://en.wikivoyage.org/wiki/Jiamusi
 title: Jiamusi
 type: location
+heritage: 2.89
+vibrancy: 1.936
+nature: 4.036
+off_the_beaten_track: 5.62
 ---
 
 Jiamusi is the largest city in the Sanjiang Plain, the vast flat agricultural heartland where the Songhua, Heilong, and Wusuli rivers converge in eastern Heilongjiang. With a population approaching two million it is the province's third city, but it sits far enough east and north that most travelers pass it by. That is a minor shame: the wetlands around the city are among the least-visited and most ecologically significant in China, and the Sanjiangkou area, where the rivers actually meet, has a raw, open character unlike anything in the more-visited parts of the country.

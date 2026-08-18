@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Brela_BW_2024-10-01_17-46-
 latitude: 43.3697
 loc_type: city
 longitude: 16.9225
-score: 8.71
+score: 4.97
 snippet: Makarska Riviera village between Biokovo and the Adriatic, known for pine-backed
   white pebble beaches.
 title: Brela
 type: location
+heritage: 3.466
+vibrancy: 2.604
+nature: 6.234
+off_the_beaten_track: 2.774
 ---
 
 Brela is a small village on the northern end of the [Makarska Riviera](/europe/croatia/makarskariviera), squeezed onto the narrow coastal strip between the towering Biokovo mountains and the Adriatic. It is best known for its beaches — six kilometres of white pebble strung between pine trees that grow almost into the water — and for the small offshore rock at [Punta Rata](/europe/croatia/brela/punta_rata) that is the village's defining image.

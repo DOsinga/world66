@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Koh_Phangan01.jpg
 latitude: 9.73495
 loc_type: city
 longitude: 100.030571
-score: 9.04
+score: 6.951
 snippet: Mountainous Gulf of Thailand island split between Haad Rin parties and quiet
   jungle-backed beaches.
 title: Koh Phangan
 type: location
+heritage: 4.094
+vibrancy: 8.087
+nature: 2.905
+off_the_beaten_track: 1.874
 ---
 
 Koh Phangan is a lush, mountainous island in the Gulf of Thailand, about 100 km north of Koh Samui. It has a split personality: the south coast is famous for the [Full Moon Party at Haad Rin](/asia/thailand/kohphangan/haad_rin_beach), drawing tens of thousands of revellers every month, while the north and west coasts remain genuinely quiet, with jungle tracks, secluded bays, and fishing villages that feel a long way from the party scene.

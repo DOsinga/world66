@@ -2,7 +2,7 @@
 latitude: -0.095
 loc_type: feature
 longitude: 37.58
-score: 8.6
+score: 5.999
 snippet: The most scenic approach to Mount Kenya, climbing the eastern slopes past
   the Gorges Valley and Hall Tarns from Chogoria village.
 title: Chogoria Route
@@ -11,6 +11,10 @@ image: chogoria_route.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Dendrosenecio_keniensis_mtkenya_12.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Dwergenpaartje
+heritage: 1.616
+vibrancy: 2.669
+nature: 7.557
+off_the_beaten_track: 5.709
 ---
 
 The Chogoria route is the most scenic approach to Mount Kenya, climbing the eastern side of the mountain from the village of Chogoria, an hour south of Meru. The path rises through dense bamboo forest, then montane heath and the bizarre giant lobelias and groundsels of the afroalpine zone, before emerging above the treeline into a landscape of tarns, cliffs, and the great walls of the central peaks.

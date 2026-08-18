@@ -5,7 +5,7 @@ loc_type: city
 latitude: 49.8353
 longitude: -124.5247
 wikidata: Q599678
-score: 6.34
+score: 5.16
 snippet: Remote Sunshine Coast city with a preserved mill townsite and serious paddling
   country.
 sources:
@@ -18,6 +18,10 @@ image: powellriver.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Powell_River_Aerial_2004.jpg
 image_license: CC BY 2.0
 image_attribution: James Blake aka Webgeer at en.wikipedia
+heritage: 2.086
+vibrancy: 1.709
+nature: 6.9
+off_the_beaten_track: 3.599
 ---
 
 Powell River sits on the upper Sunshine Coast, facing Vancouver Island across the Strait of Georgia but cut off from the rest of the mainland road system. You arrive by ferry or small plane, and that extra effort is part of the point: the town feels coastal, self-contained, and a little out of the regular British Columbia loop.

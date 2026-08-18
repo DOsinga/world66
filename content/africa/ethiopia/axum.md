@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aksum-107529.jpg
 latitude: 14.122098
 loc_type: city
 longitude: 38.732175
-score: 8.13
+score: 5.999
 snippet: Ancient Ethiopian city of Aksumite stelae, royal legends, and the Ark of
   the Covenant tradition.
 title: Axum
 type: location
+heritage: 7.651
+vibrancy: 3.719
+nature: 3.421
+off_the_beaten_track: 4.07
 ---
 
 Axum is one of the oldest continuously inhabited cities in Africa and the historical heart of Ethiopian civilisation. For over a thousand years it was the capital of the Aksumite Empire, a trading power that connected the Roman world with India and controlled the Red Sea coast. Today it is a small, quietly atmospheric town in Tigray province, about 565 kilometres north of Addis Ababa, its ramshackle buildings painted in faded pastels.

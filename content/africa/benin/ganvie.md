@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ganvi%C3%A9_fishing_villag
 latitude: 6.4681
 loc_type: city
 longitude: 2.39
-score: 7.78
+score: 4.728
 title: Ganvié
 type: location
 snippet: Lake Nokoué stilt town founded by Tofinu people seeking refuge from the slave
   trade.
+heritage: 5.491
+vibrancy: 4.024
+nature: 4.046
+off_the_beaten_track: 4.375
 ---
 
 **Ganvié** is a town built entirely on stilts over Lake Nokoué, about 15 km north of [Cotonou](/africa/benin/cotonou). It is sometimes called the Venice of Africa, which sets expectations that the reality cannot quite meet — tourism has taken its toll, and arriving from Cotonou you will be surrounded by touts offering to guide you around.

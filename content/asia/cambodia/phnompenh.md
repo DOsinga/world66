@@ -16,7 +16,7 @@ quick_facts:
   Population: ~2.3 million
   Rivers Meet: Mekong & Tonlé Sap
   Royal Palace: Still the king's residence
-score: 8.45
+score: 5.478
 snippet: Cambodian capital at the Mekong and Tonle Sap confluence, with royal spires
   and French boulevards.
 tip: Phnom Penh sits where the Mekong and Tonlé Sap rivers meet — the riverside promenade
@@ -26,6 +26,10 @@ tip: Phnom Penh sits where the Mekong and Tonlé Sap rivers meet — the riversi
   first.
 title: Phnom Penh
 type: location
+heritage: 6.409
+vibrancy: 4.568
+nature: 1.91
+off_the_beaten_track: 2.325
 ---
 
 Phnom Penh is one of Southeast Asia's most compelling capitals — a city where gilded spires rise above the confluence of the Mekong and Tonle Sap rivers, and French colonial architecture lines broad boulevards still shaded by tamarind trees. It is chaotic, noisy, and utterly alive.

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lillesand_Blindleia.jpg
 latitude: 58.2495
 loc_type: city
 longitude: 8.3772
-score: 7.04
+score: 4.958
 snippet: Small Sørlandet harbour town of white wooden houses, skerries, summer boats,
   and Blindleia.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Lillesand
 title: Lillesand
 type: location
+heritage: 2.911
+vibrancy: 2.427
+nature: 6.451
+off_the_beaten_track: 2.369
 ---
 
 Lillesand is one of the prettiest small towns on Norway's South Coast, a white-painted harbour of wooden houses, boats, skerries, and summer light. It sits east of [Kristiansand](/europe/norway/kristiansand), close enough for a day trip but calm enough to feel like a different rhythm.

@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Wuyi_Mountains_Sea_of_clou
 latitude: 27.756389
 loc_type: feature
 longitude: 117.972778
-score: 8.38
+score: 5.884
 snippet: Fujian mountain landscape of red sandstone cliffs, tea culture, and the winding
   Nine-Bend River.
 title: Wuyishan
 type: location
+heritage: 6.157
+vibrancy: 4.363
+nature: 6.511
+off_the_beaten_track: 3.851
 ---
 
 The Wuyi Mountains in northwestern Fujian are a UNESCO World Heritage Site for both their natural scenery and their cultural significance — a double designation that reflects the fact that these dramatic peaks have been a place of scholarship, Taoist practice, and extraordinary tea cultivation for over a thousand years.

@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Zhaoqing-7stars.JPG
 latitude: 23.05
 loc_type: city
 longitude: 112.4667
-score: 7.39
+score: 4.215
 snippet: Guangdong lake city where karst crags, temples, and pavilions form a Pearl
   River Delta escape.
 sources:
 - https://en.wikivoyage.org/wiki/Zhaoqing
 title: Zhaoqing
 type: location
+heritage: 4.269
+vibrancy: 3.602
+nature: 4.723
+off_the_beaten_track: 2.02
 ---
 
 Zhaoqing is often compared to Guilin, and the comparison is fair: both cities are built around a landscape of karst peaks rising from water, and both offer a version of the southern Chinese scenic ideal that inspired landscape painters for centuries. But Zhaoqing is less famous, less crowded, and two hours from Guangzhou by bullet train, which means it functions as a genuine weekend escape for Pearl River Delta residents rather than a tick-the-box destination for international tour groups. The seven rocky crags of [Star Lake](/asia/china/guangdong/zhaoqing/star_lake), arranged in a pattern that mirrors the Big Dipper constellation, sit in the middle of a lake surrounded by temples and pavilions; walking the causeways between the peaks at dawn, with the mist not yet burned off the water, is as good as the brochure photographs suggest.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Flickr_-_ronsaunders47_-_S
 latitude: 39.206062
 loc_type: city
 longitude: 26.21065
-score: 7.75
+score: 4.416
 snippet: Lesbos beach village on the Gulf of Kalloni, beside shallow family beaches
   and bird-rich wetlands
 title: Skala Kalloni
 type: location
+heritage: 4.255
+vibrancy: 2.843
+nature: 5.042
+off_the_beaten_track: 4.581
 ---
 
 Kalloni is a quiet market town about 40 km west of [Mytilini](/europe/greece/lesbos/mytilini), sitting at the intersection of most of the island's bus routes. The beach resort of Skala Kalloni lies about 3 km south of the old town at the head of the [Gulf of Kalloni](/europe/greece/lesbos/skalakalloni/gulf_of_kalloni_birding). The long, gently shelving [beach](/europe/greece/lesbos/skalakalloni/skala_kalloni_beach) is one of the better options on Lesbos for families with young children — the water is shallow and warms quickly in summer.

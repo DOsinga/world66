@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Amersfoort-Panorama.jpg
 latitude: 52.16377
 loc_type: city
 longitude: 5.408885
-score: 8.0
+score: 4.112
 snippet: Medieval Dutch city near Utrecht, with quiet canals, intact walls, and the
   freestanding Lange Jan tower.
 sources:
@@ -23,6 +23,10 @@ tags:
 - day_trip
 title: Amersfoort
 type: location
+heritage: 5.182
+vibrancy: 2.674
+nature: 2.993
+off_the_beaten_track: 1.249
 ---
 
 Amersfoort is one of the Netherlands' best-kept secrets — a proper medieval city half an hour by train from [Amsterdam](/europe/netherlands/amsterdam) and just ten minutes from [Utrecht](/europe/netherlands/utrecht), yet largely ignored by tourists. Their loss.

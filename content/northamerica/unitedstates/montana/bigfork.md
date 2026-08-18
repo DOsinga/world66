@@ -5,11 +5,15 @@ done:
 latitude: 48.0613
 loc_type: city
 longitude: -114.0786
-score: 7.22
+score: 5.618
 snippet: Small village on Flathead Lake, known for galleries, summer theatre, cherries,
   and Swan Mountain views.
 title: Bigfork
 type: location
+heritage: 3.59
+vibrancy: 3.531
+nature: 7.002
+off_the_beaten_track: 3.049
 ---
 
 Bigfork is a small village on the northeastern shore of Flathead Lake in northwestern Montana — the largest freshwater lake west of the Mississippi. It has a well-deserved reputation as one of the most charming communities in the state: a compact main street of galleries, restaurants, and boutiques, a summer theater company with a serious reputation, and the lake and Swan Mountains as an immediate backdrop.

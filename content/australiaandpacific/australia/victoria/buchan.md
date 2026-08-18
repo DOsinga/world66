@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -37.48
 longitude: 148.16
-score: 6.6
+score: 4.611
 snippet: Tiny East Gippsland cave town above a deep limestone system in Snowy River
   country.
 wikidata: Q4982529
@@ -16,6 +16,10 @@ image: buchan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Buchan_Caves_Victoria.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Amanda m wilson
+heritage: 2.519
+vibrancy: 1.596
+nature: 5.918
+off_the_beaten_track: 4.03
 ---
 
 Buchan is a small East Gippsland town that would be easy to miss if the ground beneath it were not so extraordinary. The streets are quiet, the hills are dry and open, and a few minutes from the centre the limestone drops into a cave system formed by underground rivers hundreds of millions of years ago.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Shawneehaw_Creek_into_Mill
 latitude: 36.163334
 loc_type: city
 longitude: -81.871901
-score: 7.48
+score: 6.054
 snippet: North Carolina high-country town serving Sugar Mountain and Beech Mountain
   ski resorts from a cool mountain valley.
 sources:
@@ -19,6 +19,10 @@ sources:
 - https://en.wikipedia.org/wiki/Woolly_Worm_Festival
 title: Banner Elk
 type: location
+heritage: 3.101
+vibrancy: 4.003
+nature: 7.449
+off_the_beaten_track: 2.548
 ---
 
 Banner Elk is a small mountain town in the North Carolina high country, sitting at nearly 3,700 feet elevation in Avery County. It is best known as the gateway to [Sugar Mountain](/northamerica/unitedstates/northcarolina/smokymountains/banner_elknc/sugar_mountain_ski_resort) and Beech Mountain ski resorts — the largest in the Southeast — which makes it a busy winter destination for skiers and snowboarders from across the region. In summer, the high elevation keeps temperatures cool while the surrounding peaks and forests draw hikers, cyclists, and fly fishermen.

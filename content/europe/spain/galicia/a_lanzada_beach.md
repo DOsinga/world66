@@ -4,11 +4,15 @@ done:
 latitude: 42.4469
 loc_type: feature
 longitude: -8.876
-score: 7.32
+score: 5.203
 snippet: Galician Atlantic beach with white sand, surf, and a Romanesque hermitage
   at one end
 title: A Lanzada
 type: location
+heritage: 2.246
+vibrancy: 2.665
+nature: 6.777
+off_the_beaten_track: 3.004
 ---
 
 A Lanzada is one of the finest beaches in [Galicia](/europe/spain/galicia) — a long, wide crescent of white sand stretching between the O Grove peninsula and Sanxenxo on the Rías Baixas coast. The beach faces the open Atlantic and catches good waves, making it popular with surfers, while its sheer length means you can always find space even in summer.

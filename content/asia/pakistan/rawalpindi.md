@@ -5,11 +5,15 @@ done:
 latitude: 33.591545
 loc_type: city
 longitude: 73.053721
-score: 5.6
+score: 5.636
 snippet: Old Punjabi twin city of Islamabad, known as Pindi for its crowded bazaars
   and lively trading streets.
 title: Rawalpindi
 type: location
+heritage: 4.538
+vibrancy: 6.095
+nature: 2.699
+off_the_beaten_track: 5.404
 ---
 
 Pindi, as Rawalpindi is referred to by most travelers, is quite different from its twin sister Islamabad. Where Islamabad is modern and clean, Pindi is old and pretty dirty, but also a lot of fun.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Taboga_island.jpg
 latitude: 8.8
 loc_type: city
 longitude: -79.55
-score: 7.67
+score: 5.587
 snippet: Small Bay of Panama island with a colonial village, green hills, and beaches
   near the capital.
 title: Taboga
 type: location
+heritage: 3.57
+vibrancy: 4.151
+nature: 6.654
+off_the_beaten_track: 4.803
 ---
 
 Taboga is a small island in the Bay of Panama, about 20km off the Pacific entrance to the canal and reachable by ferry from [Panama City](/northamerica/panama/panamacity) in under an hour. Spanish settlers founded the village in 1524, and for a few decades it served as the staging post for Pizarro's conquest of Peru. Today it is a low-key escape from the capital — a single fishing village clinging to the seafront, a network of footpaths over the green hills, and a couple of beaches that fill with day-trippers on weekends and empty out by Monday morning.

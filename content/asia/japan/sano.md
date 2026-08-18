@@ -4,15 +4,20 @@ type: location
 loc_type: city
 latitude: 36.3145
 longitude: 139.5784
-score: 6.3
-snippet: Tochigi city known for Yakuyoke Daishi, Sano ramen, castle ruins, and spring water.
+score: 3.726
+snippet: Tochigi city known for Yakuyoke Daishi, Sano ramen, castle ruins, and spring
+  water.
 wikidata: Q646912
 sources:
-  - https://en.wikivoyage.org/wiki/Sano
-  - https://www.wikidata.org/wiki/Q646912
-  - https://www.visit-tochigi.com/plan-your-trip/things-to-do/1792/
-  - https://www.visit-tochigi.com/plan-your-trip/things-to-do/1200/
-  - https://shokyoto.jp/ml/en/sub/tochigi_sano
+- https://en.wikivoyage.org/wiki/Sano
+- https://www.wikidata.org/wiki/Q646912
+- https://www.visit-tochigi.com/plan-your-trip/things-to-do/1792/
+- https://www.visit-tochigi.com/plan-your-trip/things-to-do/1200/
+- https://shokyoto.jp/ml/en/sub/tochigi_sano
+heritage: 2.849
+vibrancy: 3.282
+nature: 4.19
+off_the_beaten_track: 1.228
 ---
 
 *Asia > Japan > Sano*

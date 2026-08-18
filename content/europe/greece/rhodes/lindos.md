@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Lindos,_Rhodes,_Greece.jpg
 latitude: 36.0916
 loc_type: city
 longitude: 28.0855
-score: 9.33
+score: 6.632
 title: Lindos
 type: location
 snippet: Whitewashed Rhodes village beneath an ancient acropolis overlooking a sheltered
   turquoise bay.
+heritage: 7.71
+vibrancy: 5.632
+nature: 4.478
+off_the_beaten_track: 1.346
 ---
 
 Lindos is one of the most beautiful villages on [Rhodes](/europe/greece/rhodes) and one of the island's major tourist attractions. Whitewashed houses with pebble-mosaic courtyards climb a hillside above a turquoise bay, crowned by an ancient Acropolis that has been continuously fortified since the 4th century BC.

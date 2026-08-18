@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Jiuhuashan-ss.jpg
 latitude: 30.4822
 loc_type: feature
 longitude: 117.8044
-score: 8.11
+score: 6.519
 snippet: Sacred Buddhist mountain in Anhui, closely associated with Dizang Bodhisattva
   and solemn pilgrim devotion
 sources:
 - https://en.wikivoyage.org/wiki/Mount_Jiuhua
 title: Jiuhua Mountain
 type: location
+heritage: 6.712
+vibrancy: 3.796
+nature: 7.26
+off_the_beaten_track: 3.883
 ---
 
 Jiuhua Mountain — Jiuhuashan, the Mountain of Nine Glories — is one of China's four sacred Buddhist peaks, and of the four it is the most closely associated with Dizang Bodhisattva, the protector of souls in the underworld. That specific religious identity gives Jiuhuashan a character distinct from the other great Buddhist mountains: where Wutai and Emei draw general Buddhist devotion, Jiuhuashan is particularly frequented by those seeking intercession for deceased family members, and the atmosphere among the pilgrims reflects this — more solemn, more private, less touristic in feeling despite the significant visitor numbers.

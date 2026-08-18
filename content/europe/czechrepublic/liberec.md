@@ -4,10 +4,15 @@ type: location
 loc_type: city
 latitude: 50.7667
 longitude: 15.0667
-score: 7.4
-snippet: North Bohemian city below Jested, with grand civic buildings and mountain access.
+score: 4.708
+snippet: North Bohemian city below Jested, with grand civic buildings and mountain
+  access.
 sources:
-  - https://en.wikivoyage.org/wiki/Liberec
+- https://en.wikivoyage.org/wiki/Liberec
+heritage: 4.358
+vibrancy: 3.766
+nature: 5.45
+off_the_beaten_track: 2.375
 ---
 
 *Europe > Czech Republic > Liberec*

@@ -12,7 +12,11 @@ title: Wudang Mountains
 snippet: Sacred Taoist mountain range in Hubei, associated with Tai Chi and Ming-dynasty
   temple complexes
 type: location
-score: 8.63
+score: 7.191
+heritage: 8.317
+vibrancy: 3.071
+nature: 6.92
+off_the_beaten_track: 3.673
 ---
 
 The Wudang Mountains (Wudang Shan) are the holiest site in Taoism and, by general agreement, the birthplace of Tai Chi. Zhang Sanfeng, the semi-legendary Song dynasty hermit credited with creating the internal martial arts style, is said to have had his insights here while watching a fight between a crane and a snake. Whether or not the origin story is historically sound, the mountains have been the centre of Taoist practice, philosophy, and martial arts cultivation for over a thousand years, and the traditions are very much alive.

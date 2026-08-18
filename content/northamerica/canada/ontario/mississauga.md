@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Square_One_
 latitude: 43.5883
 loc_type: city
 longitude: -79.6441
-score: 5.96
+score: 4.576
 title: Mississauga
 type: location
 snippet: Large Lake Ontario city west of Toronto, home to Pearson Airport and the
   curving Absolute World towers.
+heritage: 2.534
+vibrancy: 4.209
+nature: 5.059
+off_the_beaten_track: 0.941
 ---
 
 Mississauga sits just west of [Toronto](/northamerica/canada/ontario/toronto), sprawling along the shore of Lake Ontario. With over 700,000 people, it is Canada's seventh-largest city -- though most visitors know it primarily as the home of Toronto Pearson International Airport. That is a shame, because there is more here than airport hotels and office parks.

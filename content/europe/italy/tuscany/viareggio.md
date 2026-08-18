@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Italy_-_Viareggio.jpg
 latitude: 43.867239
 loc_type: city
 longitude: 10.250606
-score: 8.33
+score: 6.151
 snippet: Tuscan seaside resort on the Versilia coast, with Liberty-style promenades,
   long beaches, and a famous carnival
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Carnival_of_Viareggio
 title: Viareggio
 type: location
+heritage: 4.683
+vibrancy: 6.235
+nature: 5.935
+off_the_beaten_track: 1.927
 ---
 
 Viareggio is the largest town on the Versilia coast in northern Tuscany — a historic seaside resort with a long sandy beach, an elegant promenade lined with Liberty-style Art Nouveau architecture, and one of Italy's most spectacular carnivals. The town became fashionable in the early twentieth century when wealthy families built ornate bathhouses and pavilions along the seafront; a handful of these still stand as protected monuments, their fanciful wooden turrets and painted facades giving the boardwalk a theatrical quality unlike anywhere else on the Italian coast.

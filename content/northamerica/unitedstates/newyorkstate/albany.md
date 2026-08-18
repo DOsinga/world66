@@ -5,7 +5,7 @@ done:
 latitude: 42.6512
 loc_type: city
 longitude: -73.755
-score: 6.78
+score: 3.989
 snippet: Hudson River capital of New York State, with Dutch roots and a monumental
   granite capitol
 sources:
@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Empire_State_Plaza
 title: Albany
 type: location
+heritage: 4.101
+vibrancy: 3.954
+nature: 4.081
+off_the_beaten_track: 0.911
 ---
 
 Albany is the capital of New York State, sitting on the west bank of the Hudson River about 150 miles north of New York City. It is one of the oldest continuously chartered cities in the United States, founded by Dutch settlers in the early 17th century, and its history layers Dutch colonial origins, Revolutionary War significance, and 19th-century industrial prosperity.

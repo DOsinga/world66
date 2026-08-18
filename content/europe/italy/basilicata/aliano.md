@@ -5,11 +5,15 @@ done:
 latitude: 40.311374
 loc_type: city
 longitude: 16.232007
-score: 7.2
+score: 5.152
 snippet: Basilicata ridge village of Carlo Levi's exile, overlooking the lunar clay
   badlands of the calanchi
 title: Aliano
 type: location
+heritage: 5.781
+vibrancy: 2.408
+nature: 5.36
+off_the_beaten_track: 4.028
 ---
 
 Aliano is the village where Carlo Levi was exiled by the Fascist government in 1935, an experience he turned into *Christ Stopped at Eboli*, one of the great books about southern Italy. The village clings to a ridge above a dramatic landscape of calanchi — eroded clay badlands that look almost lunar in the afternoon light.

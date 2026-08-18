@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cevennes_Florac_Mimente_de
 latitude: 44.350931
 loc_type: feature
 longitude: 3.858481
-score: 0.58
+score: 5.796
 snippet: Wild southern French mountain region of chestnut forests, river valleys,
   and Stevenson Trail walking country
 title: Cévennes
 type: location
+heritage: 5.804
+vibrancy: 3.525
+nature: 6.524
+off_the_beaten_track: 4.338
 ---
 
 The Cévennes are a wild and beautiful mountain region in southern France, part of the Massif Central and protected as a national park. Steep valleys carved by rivers, chestnut forests, and empty uplands make this some of the least populated and most rewarding walking country in France.

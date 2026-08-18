@@ -2,13 +2,17 @@
 latitude: 44.2659
 loc_type: feature
 longitude: -71.4352
-score: 8.3
+score: 6.039
 snippet: Historic resort community in the Presidential Range foothills, home to the
   grand Mount Washington Hotel and the base of the Mount Washington Cog Railway.
 sources:
 - https://en.wikipedia.org/wiki/Bretton_Woods,_New_Hampshire
 title: Bretton Woods
 type: location
+heritage: 5.23
+vibrancy: 1.885
+nature: 7.144
+off_the_beaten_track: 3.008
 ---
 
 About 30 miles east of Littleton via US-302, Bretton Woods occupies a broad meadow valley beneath the Presidential Range, with Mount Washington itself visible at the head of the valley. The centrepiece is the Mount Washington Hotel, a vast white-and-red Spanish Renaissance pile that opened in 1902 and is one of the last of the great White Mountains grand hotels still in full operation. The setting alone — wide lawns, flower gardens, and a veranda facing the peaks — is worth the drive.

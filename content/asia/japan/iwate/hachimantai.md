@@ -4,14 +4,19 @@ type: location
 loc_type: feature
 latitude: 39.9167
 longitude: 141.0833
-score: 7.6
-snippet: Volcanic plateau in northern Iwate known for snowy ski slopes, onsen, and highland hiking.
+score: 4.103
+snippet: Volcanic plateau in northern Iwate known for snowy ski slopes, onsen, and
+  highland hiking.
 source: wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Hachimantai
 sources:
-  - https://en.wikivoyage.org/wiki/Hachimantai
-  - https://iwatetabi.jp/en/spots/99028/
-  - https://www.hachimantai.or.jp/
+- https://en.wikivoyage.org/wiki/Hachimantai
+- https://iwatetabi.jp/en/spots/99028/
+- https://www.hachimantai.or.jp/
+heritage: 3.759
+vibrancy: 3.43
+nature: 4.702
+off_the_beaten_track: 4.642
 ---
 
 Hachimantai is less a town than a spread-out mountain district on the Iwate side of a volcanic plateau. The merged municipality has offices and train stations down in the rice fields, but the reason to come is higher up: snow country, hot springs, ski slopes, and open highland walks around Towada-Hachimantai National Park.

@@ -4,13 +4,17 @@ done:
 latitude: 44.443038
 loc_type: city
 longitude: 8.305947
-score: 6.36
+score: 4.708
 snippet: Agricultural Ligurian Apennine village on the Bormida plain, surrounded by
   vineyards, hazelnuts, and chestnuts
 tags:
 - rivieradellepalme
 title: Dego
 type: location
+heritage: 5.229
+vibrancy: 4.493
+nature: 4.714
+off_the_beaten_track: 3.102
 ---
 
 An agricultural center on the slopes of the

@@ -5,16 +5,20 @@ loc_type: city
 latitude: 56.23438
 longitude: -117.2909
 wikidata: Q1743985
-score: 6.2
+score: 4.17
 snippet: Northern Alberta river town set deep below the prairie at three-river confluence.
 sources:
-  - https://en.wikivoyage.org/wiki/Peace_River_(Alberta)
-  - https://mightypeace.com/destinations/peace-river/
-  - https://en.wikipedia.org/wiki/Peace_River,_Alberta
+- https://en.wikivoyage.org/wiki/Peace_River_(Alberta)
+- https://mightypeace.com/destinations/peace-river/
+- https://en.wikipedia.org/wiki/Peace_River,_Alberta
 image: peace_river.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Sagitawa_Lookout,_Peace_River,_Alberta.jpg
 image_license: CC BY-SA 4.0
 image_attribution: awmcphee
+heritage: 2.651
+vibrancy: 1.427
+nature: 4.981
+off_the_beaten_track: 4.86
 ---
 
 Peace River is one of the few prairie towns where the landscape does most of the talking. The town sits far below the surrounding plateau, squeezed into a steep valley where the Peace, Smoky, and Heart rivers meet. From above, it looks almost hidden; from below, the valley walls make the place feel much more remote than the highway map suggests.

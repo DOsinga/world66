@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 18.7833
 longitude: 100.7833
-score: 7.6
+score: 4.717
 snippet: Northern Thai river town of Lanna temples, Tai Lue murals, and quiet old-city
   streets.
 wikidata: Q1014345
@@ -16,6 +16,10 @@ image: nan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2013_Wat_Phumin_Nan.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Takeaway
+heritage: 5.352
+vibrancy: 4.271
+nature: 4.247
+off_the_beaten_track: 3.446
 ---
 
 Nan is a lovely old capital in the far north of [Thailand](/asia/thailand), set in a broad river valley close to the Lao border. It has the temples, teak houses, and layered history of the Lanna north, but without the busloads and souvenir pressure that can flatten better-known towns.

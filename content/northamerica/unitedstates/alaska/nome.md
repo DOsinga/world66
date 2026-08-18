@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 64.5011
 longitude: -165.4064
-score: 7.05
-snippet: Remote Bering Sea city of gold-rush history, Inupiat culture, and the Iditarod finish.
+score: 5.821
+snippet: Remote Bering Sea city of gold-rush history, Inupiat culture, and the Iditarod
+  finish.
 sources:
-  - https://en.wikivoyage.org/wiki/Nome_(Alaska)
-  - https://www.wikidata.org/wiki/Q79996
+- https://en.wikivoyage.org/wiki/Nome_(Alaska)
+- https://www.wikidata.org/wiki/Q79996
 wikidata: Q79996
+heritage: 4.197
+vibrancy: 1.316
+nature: 6.964
+off_the_beaten_track: 6.745
 ---
 
 Nome sits on the Bering Sea at the edge of northwest Alaska, far beyond the connected road system. You fly in, then find a small city with a big frontier past: gold on the beaches, the 1925 serum run, the finish of the Iditarod, and a strong Alaska Native presence.

@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:St_Sebastian_Curtain_(crop
 latitude: 35.899
 loc_type: city
 longitude: 14.5137
-score: 9.32
+score: 5.5
 snippet: Tiny Maltese capital of Baroque streets, Knights of St John fortifications,
   and Grand Harbour views.
 title: Valletta
 type: location
+heritage: 5.6
+vibrancy: 5.504
+nature: 3.589
+off_the_beaten_track: 1.415
 ---
 
 Malta's capital is one of the smallest and most densely historic cities in Europe. Built from scratch in the 1560s by the Knights of St John after their famous defence of Malta against the Ottoman siege, Valletta was one of the continent's first planned cities — laid out on a grid with building codes, drainage, and a hospital that admitted patients of any religion. It holds an astonishing concentration of Baroque architecture for a city of roughly 6,000 residents, and was named European Capital of Culture in 2018.

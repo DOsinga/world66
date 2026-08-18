@@ -4,7 +4,7 @@ done:
 latitude: 26.185
 loc_type: feature
 longitude: 31.9189
-score: 7.75
+score: 4.983
 snippet: Ancient Upper Egyptian sacred city, famous for Seti I's temple and the Osiris
   cult landscape.
 sources:
@@ -16,6 +16,10 @@ image: abydos.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Temple_of_Seti_I,_Abydos,_Egypt.jpg
 image_license: CC BY 4.0
 image_attribution: Vyacheslav Argenberg
+heritage: 6.179
+vibrancy: 2.26
+nature: 2.254
+off_the_beaten_track: 5.461
 ---
 
 Abydos is one of the great ancient sites of Upper Egypt, but it has a very different rhythm from Luxor. The buses are fewer, the village is quieter, and the monuments sit in desert light beside cultivated fields. For ancient Egyptians this was sacred ground: a royal cemetery, a pilgrimage centre of Osiris, and a place where kings linked themselves to the oldest dynasties.

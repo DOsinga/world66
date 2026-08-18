@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_Cajamarca_Per%
 latitude: -7.1617
 loc_type: city
 longitude: -78.5128
-score: 8.06
+score: 5.778
 snippet: Andean Peruvian city where Atahualpa was captured, with colonial streets
   and nearby hot springs.
 title: Cajamarca
 type: location
+heritage: 6.417
+vibrancy: 3.347
+nature: 6.163
+off_the_beaten_track: 4.57
 ---
 
 Cajamarca is one of [Peru](/southamerica/peru)'s most historically significant cities and one of the most rewarding to visit. It was here, in November 1532, that Francisco Pizarro ambushed and captured the Inca emperor Atahualpa — a turning point in the Spanish conquest of South America. The [Cuarto del Rescate](/southamerica/peru/cajamarca/ransom_room) (Ransom Room), where Atahualpa agreed to fill a room with gold and silver in exchange for his freedom, still stands and can be visited.

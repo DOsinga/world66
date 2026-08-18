@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 44.1089
 longitude: -79.1227
-score: 6.8
-snippet: Rural Ontario trail town on the Oak Ridges Moraine, north of Toronto's suburban edge.
+score: 3.62
+snippet: Rural Ontario trail town on the Oak Ridges Moraine, north of Toronto's suburban
+  edge.
 sources:
-  - https://en.wikivoyage.org/wiki/Uxbridge_(Ontario)
-  - https://www.destinationontario.com/en-ca/cities-towns/uxbridge
-  - https://discoveruxbridge.ca/attractions/
+- https://en.wikivoyage.org/wiki/Uxbridge_(Ontario)
+- https://www.destinationontario.com/en-ca/cities-towns/uxbridge
+- https://discoveruxbridge.ca/attractions/
+heritage: 3.857
+vibrancy: 3.373
+nature: 3.976
+off_the_beaten_track: 1.262
 ---
 
 Uxbridge is a small Ontario town that has made a useful identity out of its countryside. It calls itself Canada's Trail Capital, and for once the slogan has some substance: the township has more than 200 km of trails running through forest, moraine hills, wetlands, and old rural communities.

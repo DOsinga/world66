@@ -1,13 +1,14 @@
 ---
-latitude: -7.2070
+latitude: -7.207
 image: dieng_plateau.jpg
 image_attribution: Bryn Pinzgauer
 image_license: CC BY 2.0
 image_source: https://commons.wikimedia.org/wiki/File:A_day_in_the_Dieng_Plateau_(14011889467).jpg
 loc_type: feature
 longitude: 109.8641
-score: 8.1
-snippet: High volcanic plateau in Central Java with steaming craters, coloured lakes, and early Hindu temples.
+score: 6.063
+snippet: High volcanic plateau in Central Java with steaming craters, coloured lakes,
+  and early Hindu temples.
 sources:
 - https://en.wikivoyage.org/wiki/Dieng_Plateau
 - https://en.wikipedia.org/wiki/Dieng_Plateau
@@ -15,6 +16,10 @@ sources:
 title: Dieng Plateau
 type: location
 wikidata: Q1220857
+heritage: 6.003
+vibrancy: 2.23
+nature: 6.853
+off_the_beaten_track: 4.929
 ---
 
 The Dieng Plateau is one of Java's strangest highland landscapes: a cold volcanic plain around 2,000 metres above sea level, scattered with steaming craters, sulphur lakes, potato fields, and some of the island's oldest Hindu temples. Its name is often translated as "abode of the gods", and on a misty morning that does not feel like an exaggeration.

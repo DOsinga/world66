@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 53.0118
 longitude: -4.1025
-score: 7.7
+score: 6.325
 snippet: Stone Snowdonia village below Moel Hebog, known for Gelert's legend and Aberglaslyn
   walks.
 sources:
@@ -15,6 +15,10 @@ image: beddgelert.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Beddgelert_-_1.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Necrothesp at English Wikipedia
+heritage: 4.871
+vibrancy: 2.579
+nature: 7.739
+off_the_beaten_track: 3.109
 ---
 
 Beddgelert is one of Snowdonia's prettiest small bases, a stone village where the Glaslyn and Colwyn rivers meet below Moel Hebog. It has enough charm for a slow hour, but the real reason to come is how much good walking and railway scenery starts almost at the bridge.

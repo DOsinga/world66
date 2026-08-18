@@ -4,16 +4,21 @@ done:
 latitude: 22.7583
 loc_type: city
 longitude: 121.1444
-score: 7.2
-snippet: East-coast Taiwanese city where Indigenous culture, coastal parks, and archaeology meet the Pacific.
+score: 4.586
+snippet: East-coast Taiwanese city where Indigenous culture, coastal parks, and archaeology
+  meet the Pacific.
 sources:
-  - https://en.wikivoyage.org/wiki/Taitung
-  - https://tour.taitung.gov.tw/en
-  - https://www.nmp.gov.tw/en/
-  - https://eng.taiwan.net.tw/m1.aspx?id=A12-00343&sNo=0002123
+- https://en.wikivoyage.org/wiki/Taitung
+- https://tour.taitung.gov.tw/en
+- https://www.nmp.gov.tw/en/
+- https://eng.taiwan.net.tw/m1.aspx?id=A12-00343&sNo=0002123
 title: Taitung
 type: location
 wikidata: Q713381
+heritage: 3.138
+vibrancy: 3.652
+nature: 5.343
+off_the_beaten_track: 2.281
 ---
 
 Taitung is Taiwan's east-coast city for travellers who want the island to slow down. It sits between mountains and the Pacific, far from the dense west-coast corridor, with a stronger Indigenous presence, cleaner air, and a more relaxed rhythm than Taipei, Tainan, or Kaohsiung.

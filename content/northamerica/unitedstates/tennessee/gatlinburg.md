@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Gatlinburg,_Tenne
 latitude: 35.7143
 loc_type: city
 longitude: -83.5102
-score: 8.28
+score: 5.841
 snippet: Smoky Mountains resort town packed into a neon valley at the national park
   entrance.
 title: Gatlinburg
 type: location
+heritage: 2.604
+vibrancy: 4.449
+nature: 6.904
+off_the_beaten_track: 1.903
 ---
 
 Most people either love Gatlinburg or they hate it — or both. Thousands of people visit this small mountain town once or several times a year and think it's the neatest place in the world. First-time visitors who expected a quaint Appalachian village arrive to find congested neon and souvenir shops stacked end to end, which can come as quite a shock.

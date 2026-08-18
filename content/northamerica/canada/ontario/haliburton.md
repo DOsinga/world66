@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/16436271@N02/38826908214
 latitude: 45.15254
 loc_type: city
 longitude: -78.514813
-score: 7.26
+score: 4.459
 snippet: Ontario cottage-country town surrounded by lakes, forest, and rocky Canadian
   Shield highlands.
 title: Haliburton
 type: location
+heritage: 2.547
+vibrancy: 1.321
+nature: 5.562
+off_the_beaten_track: 4.424
 ---
 
 Haliburton is the heart of Ontario's cottage country — a small town surrounded by lakes, forest, and rocky Canadian Shield landscape about three hours northeast of [Toronto](/northamerica/canada/ontario/toronto). In summer the population swells as families head to lakeside cottages for swimming, canoeing, and fishing. In autumn the hardwood forests blaze with colour and the Haliburton Highlands become one of Ontario's best leaf-peeping destinations.

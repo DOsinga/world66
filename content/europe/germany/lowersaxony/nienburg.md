@@ -5,7 +5,7 @@ loc_type: city
 latitude: 52.6411
 longitude: 9.2069
 wikidata: Q16079
-score: 6.7
+score: 2.381
 snippet: Weser river town with half-timbered streets, asparagus culture, and a compact
   old centre
 sources:
@@ -17,6 +17,10 @@ image: nienburg.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Nienburg_Weser_Rathaus_alt.jpg
 image_license: CC BY-SA 4.0
 image_attribution: PaulT (Gunther Tschuch)
+heritage: 2.669
+vibrancy: 2.223
+nature: 2.415
+off_the_beaten_track: 1.645
 ---
 
 Nienburg is a small Weser town between Hannover and Bremen, old enough to have a proper centre and modest enough not to overplay it. The streets around the market square hold half-timbered houses, brick facades, St Martin's church, and the kind of quiet northern German order that makes a slow walk pleasant rather than dramatic.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aksu_Jabagly_2.JPG
 latitude: 42.3075
 loc_type: city
 longitude: 70.6346
-score: 6.87
+score: 6.757
 title: Aksu-Zhabagly
 snippet: Nature reserve in southern Kazakhstan, protecting Western Tien Shan wildlife
   and wild tulips since 1926.
 type: location
+heritage: 1.604
+vibrancy: 0.707
+nature: 8.53
+off_the_beaten_track: 6.368
 ---
 
 [Aksu-Zhabagly](/asia/kazakhstan/aksuzhabagly/aksu_zhabagly_nature_reserve) is the oldest nature reserve in Central Asia, established in 1926 at the foot of the Western Tien Shan mountains in southern Kazakhstan. The reserve ranges from 1,100 to 4,236 metres and shelters snow leopards, Tien Shan white-clawed bears, and over 1,200 plant species — including the wild Greig tulips that are the ancestors of the cultivated tulips in your garden.

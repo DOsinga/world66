@@ -5,11 +5,15 @@ done:
 latitude: 21.11582
 loc_type: city
 longitude: -103.810137
-score: 7.93
+score: 5.714
 title: Tequila
 type: location
 snippet: Jalisco town surrounded by blue agave fields, the historic heart of Mexico's
   tequila industry.
+heritage: 6.592
+vibrancy: 4.953
+nature: 3.497
+off_the_beaten_track: 1.872
 ---
 
 The town of Tequila sits in the fertile volcanic foothills about an hour west of [Guadalajara](/northamerica/mexico/guadalajara), surrounded by tens of thousands of acres of spiky blue agave — the plant from which Mexico's most famous spirit is distilled. The [blue agave landscape](/northamerica/mexico/tequila/blue_agave_landscape) here is a UNESCO World Heritage Site, and the rows of silvery-blue plants stretching across the red volcanic soil are a striking sight.

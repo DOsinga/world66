@@ -2,14 +2,19 @@
 latitude: 29.1872
 loc_type: city
 longitude: -82.14
-score: 6.82
-snippet: North-central Florida horse country city with clear springs, equestrian culture, and Seminole War history.
+score: 4.304
+snippet: North-central Florida horse country city with clear springs, equestrian culture,
+  and Seminole War history.
 sources:
 - https://en.wikivoyage.org/wiki/Ocala
 - https://www.floridastateparks.org/silversprings
 - https://www.ocalafl.gov/our-city/live/historic-preservation/fort-king
 title: Ocala
 type: location
+heritage: 2.438
+vibrancy: 2.969
+nature: 5.237
+off_the_beaten_track: 1.351
 ---
 
 Ocala is the inland Florida that people often miss: rolling horse farms, live oaks, limestone springs, and a small downtown that still feels like the seat of a rural county. It calls itself the Horse Capital of the World, and this is one tourism slogan with a real landscape behind it. Thoroughbred farms spread west of town, fences run along the roads, and equestrian events are part of everyday life rather than a special performance.

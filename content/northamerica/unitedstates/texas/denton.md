@@ -4,10 +4,15 @@ type: location
 loc_type: city
 latitude: 33.2164
 longitude: -97.1292
-score: 6.5
-snippet: North Texas college town with a courthouse square, live music, and a strong festival calendar.
+score: 4.545
+snippet: North Texas college town with a courthouse square, live music, and a strong
+  festival calendar.
 source: Wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Denton_(Texas)
+heritage: 4.577
+vibrancy: 4.567
+nature: 2.383
+off_the_beaten_track: 1.278
 ---
 
 Denton sits north of Dallas and Fort Worth, where I-35 splits toward the two cities. It is part college town, part county seat, and part small music city, with the University of North Texas giving the place more creative energy than its suburban edge suggests.

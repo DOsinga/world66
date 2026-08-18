@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Delavska_kasarna_na_Jeseni
 latitude: 46.4366
 loc_type: city
 longitude: 14.0602
-score: 6.9
+score: 4.278
 snippet: Upper Sava industrial town below the Karawanks, useful for rail links and
   ironworks history.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Stara_Sava
 title: Jesenice
 type: location
+heritage: 3.67
+vibrancy: 2.451
+nature: 5.076
+off_the_beaten_track: 3.333
 ---
 
 Jesenice is not the pretty face of the Slovenian Alps, and it is more interesting for admitting that. This is a working Upper Sava town shaped by iron, railways, and the steep wall of the Karawanks, sitting between [Bled](/europe/slovenia/bled), [Kranjska Gora](/europe/slovenia/kranjska_gora), and the Austrian border.

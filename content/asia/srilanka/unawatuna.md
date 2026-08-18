@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Unawatuna.jpg
 latitude: 6.0202
 loc_type: city
 longitude: 80.2475
-score: 8.81
+score: 6.111
 snippet: Southern Sri Lankan beach village wrapped around a reef-sheltered bay near
   Galle.
 title: Unawatuna
 type: location
+heritage: 4.389
+vibrancy: 4.716
+nature: 7.194
+off_the_beaten_track: 3.587
 ---
 
 Unawatuna is the beach that everyone in southern Sri Lanka will point you to first. A crescent of golden sand curves around a sheltered bay just five kilometres east of [Galle](/asia/srilanka/galle), protected by a reef that keeps the water calm enough for swimming most of the year. It is smaller and more laid-back than [Hikkaduwa](/asia/srilanka/hikkaduwa) further up the coast, and that is exactly the appeal.

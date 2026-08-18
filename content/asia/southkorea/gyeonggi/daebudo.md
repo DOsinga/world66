@@ -4,10 +4,15 @@ type: location
 loc_type: feature
 latitude: 37.242
 longitude: 126.58
-score: 7.4
-snippet: West-coast Korean island of mudflats, seawalls, sunset viewpoints, and fishing-village museums.
+score: 4.374
+snippet: West-coast Korean island of mudflats, seawalls, sunset viewpoints, and fishing-village
+  museums.
 source_url: https://en.wikivoyage.org/wiki/Daebudo
 source: Wikivoyage
+heritage: 2.479
+vibrancy: 4.341
+nature: 4.46
+off_the_beaten_track: 0.893
 ---
 
 Daebudo is a large island off Ansan in [Gyeonggi](/asia/southkorea/gyeonggi), now tied to the mainland by the long Sihwa seawall. It still feels like a west-coast island trip: mudflats open at low tide, seafood villages line the road, and sunset viewpoints look over the Yellow Sea.

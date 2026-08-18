@@ -14,7 +14,7 @@ quick_facts:
   Bitcoin: Legal tender nationwide
   Joya de Cerén: '''Pompeii of the Americas'' nearby'
   Population: ~1.8 million (metro)
-score: 6.51
+score: 4.621
 snippet: Highland Salvadoran capital below San Salvador Volcano, rebuilt around markets,
   malls, and a compact historic centre
 tip: San Salvador sits in a valley beneath the Volcán de San Salvador, which you can
@@ -24,6 +24,10 @@ tip: San Salvador sits in a valley beneath the Volcán de San Salvador, which yo
   Cerén are nearby.
 title: San Salvador
 type: location
+heritage: 4.2
+vibrancy: 4.331
+nature: 5.07
+off_the_beaten_track: 3.338
 ---
 
 San Salvador is the capital and by far the largest city in El Salvador, home to around two million people in the metropolitan area. It sits at about 650 metres elevation at the foot of the San Salvador Volcano, which gives the city a pleasant climate relative to the coast — warm but not punishing.

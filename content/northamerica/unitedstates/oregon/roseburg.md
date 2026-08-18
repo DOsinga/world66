@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 43.2165
 longitude: -123.3417
-score: 6.85
-snippet: Southern Oregon river town and Umpqua Valley base for wine, waterfalls, and wildlife.
+score: 4.58
+snippet: Southern Oregon river town and Umpqua Valley base for wine, waterfalls, and
+  wildlife.
 sources:
-  - https://en.wikivoyage.org/wiki/Roseburg
-  - https://en.wikipedia.org/wiki/Roseburg,_Oregon
-  - https://traveloregon.com/places-to-go/cities/roseburg/
+- https://en.wikivoyage.org/wiki/Roseburg
+- https://en.wikipedia.org/wiki/Roseburg,_Oregon
+- https://traveloregon.com/places-to-go/cities/roseburg/
+heritage: 2.776
+vibrancy: 2.098
+nature: 5.923
+off_the_beaten_track: 2.956
 ---
 
 Roseburg sits in the Umpqua River Valley of southern Oregon, where Interstate 5, old timber country, wineries, and waterfall roads all cross paths. The city itself is practical rather than polished, but it has enough local history and river-valley character to make it more than a fuel stop between Eugene and Grants Pass.

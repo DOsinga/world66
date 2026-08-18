@@ -5,11 +5,15 @@ done:
 latitude: 43.6241
 loc_type: city
 longitude: 11.461
-score: 7.03
+score: 4.47
 snippet: Upper Arno valley town with a medieval square and strong links to Marsilio
   Ficino.
 title: Figline
 type: location
+heritage: 5.478
+vibrancy: 3.223
+nature: 3.144
+off_the_beaten_track: 1.266
 ---
 
 Figline Valdarno sits in the upper Arno valley between [Florence](/europe/italy/tuscany/florence) and Arezzo, about 30 km southeast of Florence. In 2014 it merged with neighbouring Incisa Valdarno to form the comune of Figline e Incisa Valdarno, though the two old centres remain distinct. The town is a useful base for exploring southern Tuscany — the SP 16 connects Figline with Greve in Chianti, and Florence and Arezzo are both easily reached by train on the main line through the valley.

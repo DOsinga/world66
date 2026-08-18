@@ -17,7 +17,7 @@ quick_facts:
   Name Means: '''Muddy confluence'''
   Petronas Towers: 452 m, once world's tallest
   Population: ~1.8 million
-score: 9.12
+score: 8.142
 snippet: Malaysian capital at the Klang-Gombak confluence, layered with colonial streets,
   rainforest parks, and glass towers.
 tip: Kuala Lumpur — 'KL' — grew up where two muddy rivers meet (that's what the name
@@ -26,6 +26,10 @@ tip: Kuala Lumpur — 'KL' — grew up where two muddy rivers meet (that's what 
   and the Indian and Chinese quarters. The Batu Caves temple is a short ride north.
 title: Kuala Lumpur
 type: location
+heritage: 5.496
+vibrancy: 9.208
+nature: 1.392
+off_the_beaten_track: 1.024
 ---
 
 Kuala Lumpur — KL — is the capital of Malaysia and one of Southeast Asia's most underrated cities. It began as a muddy tin-mining camp at the confluence of the Klang and Gombak rivers in the 1850s (the name means "muddy confluence"), and grew into a colonial administrative centre under the British, and then, after independence in 1957, into the rapidly modernising city you see today. KL is visibly a city of layers: Islamic, Chinese, and Indian communities side by side, colonial mock-Tudor next to glass-skinned skyscrapers, rainforest parks still clinging to the edges of downtown.

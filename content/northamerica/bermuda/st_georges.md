@@ -4,14 +4,19 @@ type: location
 loc_type: city
 latitude: 32.38194
 longitude: -64.67694
-score: 8.3
-snippet: UNESCO-listed Bermudian town of 17th-century lanes, churches, forts, and harbour history.
+score: 5.267
+snippet: UNESCO-listed Bermudian town of 17th-century lanes, churches, forts, and
+  harbour history.
 wikidata: Q28063
 sources:
-  - https://en.wikivoyage.org/wiki/Saint_George_(Bermuda)
-  - https://www.wikidata.org/wiki/Q28063
-  - https://whc.unesco.org/en/list/983/
-  - https://en.wikipedia.org/wiki/St._George%27s,_Bermuda
+- https://en.wikivoyage.org/wiki/Saint_George_(Bermuda)
+- https://www.wikidata.org/wiki/Q28063
+- https://whc.unesco.org/en/list/983/
+- https://en.wikipedia.org/wiki/St._George%27s,_Bermuda
+heritage: 5.119
+vibrancy: 5.159
+nature: 5.545
+off_the_beaten_track: 2.485
 ---
 
 St. George's is Bermuda's old town, settled in 1612 and still tight with lanes, churches, stone buildings, and harbour edges. It is the place on the island where Bermuda's long Atlantic history is easiest to feel under your feet rather than read on a panel.

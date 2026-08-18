@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Skagway_aerial_view.jpg
 latitude: 59.456972
 loc_type: city
 longitude: -135.295049
-score: 8.54
+score: 5.879
 title: Skagway
 type: location
 snippet: Alaskan gold-rush town at Lynn Canal, preserving wooden storefronts from
   the Klondike stampede.
+heritage: 5.144
+vibrancy: 5.413
+nature: 6.497
+off_the_beaten_track: 5.315
 ---
 
 Skagway sits at the head of the Lynn Canal, the deepest fjord in North America, and it exists because of gold. In 1897, tens of thousands of prospectors poured through here on their way to the Klondike goldfields, turning a mudflat into a boomtown overnight. The gold rush lasted barely two years, but Skagway kept the buildings.

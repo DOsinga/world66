@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:%E8%8C%B6%E5%8D%A1%E7%9B%9
 latitude: 36.7333
 loc_type: feature
 longitude: 99.08
-score: 8.24
+score: 6.168
 snippet: Qinghai salt lake west of Xining, known for reflective shallow brine and
   surrounding mountains.
 sources:
 - https://en.wikivoyage.org/wiki/Qinghai
 title: Chaka Lake
 type: location
+heritage: 1.343
+vibrancy: 0.967
+nature: 7.851
+off_the_beaten_track: 5.604
 ---
 
 Chaka Lake (Chaka Yanchang) is a salt lake about 300 kilometres west of Xining at an elevation of 3,059 metres, known in China as the "sky mirror" for the reflective surface its shallow, brine-saturated water creates in calm weather. On still mornings, the lake's salt crust and thin film of water produce a near-perfect reflection of the sky and surrounding mountains — an effect that has made it one of the most photographed landscapes in Qinghai and brought Chinese domestic tourists in large numbers.

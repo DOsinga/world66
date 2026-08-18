@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 22.8458
 longitude: -82.9424
-score: 6.8
+score: 5.76
 snippet: Planned Cuban eco-community in the Sierra del Rosario, known for forest,
   lakes, and coffee ruins.
 wikidata: Q5970767
@@ -16,6 +16,10 @@ image: las_terrazas.jpg
 image_source: https://commons.wikimedia.org/wiki/File:LasTerrazas.jpg
 image_license: Public domain
 image_attribution: Adrian Ross - AdrianNRoss at English Wikipedia
+heritage: 4.498
+vibrancy: 2.539
+nature: 7.022
+off_the_beaten_track: 4.127
 ---
 
 Las Terrazas is a small planned community in the Sierra del Rosario, west of [Havana](/northamerica/cuba/havana). It was built around reforestation, terraced hillsides, lakes, and tourism rather than around a colonial plaza, which makes it feel unlike most Cuban villages. Concrete apartment blocks stand above green water and forested slopes, while paths and narrow roads step up and down the valley.

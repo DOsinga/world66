@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Carnivalgirls.jpg
 latitude: 10.6549
 loc_type: city
 longitude: -61.5019
-score: 8.0
+score: 5.351
 snippet: Trinidad's capital on the Gulf of Paria, known for Carnival and steel pan
   music.
 title: Port of Spain
 type: location
+heritage: 5.274
+vibrancy: 5.421
+nature: 4.858
+off_the_beaten_track: 3.192
 ---
 
 Port of Spain is one of the Caribbean's most energetic capitals — a city that moves to its own rhythm, literally. This is the birthplace of the steel pan and the home of Carnival, the riotous pre-Lenten festival that fills the streets with sequined masqueraders, thumping soca music, and the kind of communal joy that is hard to find anywhere else on earth.

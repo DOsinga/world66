@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Naples_-_Sunset_at_pier.jp
 latitude: 26.142
 loc_type: city
 longitude: -81.7948
-score: 7.38
+score: 6.168
 snippet: Refined Gulf Coast city in southwest Florida, known for beaches, tropical
   gardens, and walkable downtown streets.
 title: Naples
 type: location
+heritage: 4.282
+vibrancy: 5.944
+nature: 6.688
+off_the_beaten_track: 1.901
 ---
 
 Naples is one of Florida's most refined Gulf Coast cities, a place where white-sand beaches meet manicured tropical gardens and a surprisingly good food scene. Perched on the southwestern tip of the state, it trades the spring-break chaos of the Atlantic coast for a quieter, wealthier stretch of shoreline where the sunsets alone are worth the trip.

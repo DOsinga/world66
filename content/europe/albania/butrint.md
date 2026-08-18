@@ -7,11 +7,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Amphitheatre_of_Butrint_20
 latitude: 39.745869
 loc_type: city
 longitude: 20.020999
-score: 8.2
+score: 6.765
 snippet: Forested Albanian archaeological site where Greek, Roman, Byzantine, and
   Venetian ruins crowd a lagoon peninsula
 title: Butrint
 type: location
+heritage: 8.17
+vibrancy: 2.12
+nature: 5.727
+off_the_beaten_track: 3.059
 ---
 
 Butrint is Albania's most impressive archaeological site and a UNESCO World Heritage Site. It occupies a small forested peninsula between the Straits of Corfu and Lake Butrint, about 18 km south of [Saranda](/europe/albania/saranda).

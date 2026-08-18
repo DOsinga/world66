@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Moknine,_place_municipale,
 latitude: 35.628257
 loc_type: city
 longitude: 10.900133
-score: 5.92
+score: 4.63
 snippet: Tunisian Sahel town surrounded by olive fields and known for centuries-old
   pottery workshops.
 title: Moknine
 type: location
+heritage: 5.382
+vibrancy: 1.864
+nature: 4.395
+off_the_beaten_track: 3.715
 ---
 
 Moknine is a town in the Tunisian Sahel, surrounded by vast fields of olive trees and positioned between the tourist centres of [Sousse](/africa/tunisia/sousse) (35 km), [Monastir](/africa/tunisia/monastir) (20 km), and Mahdia (25 km). It is known throughout [Tunisia](/africa/tunisia) as the centre of Sahel pottery.

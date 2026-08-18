@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:East_Gateway_-_Stupa_1_-_S
 latitude: 23.487634
 loc_type: city
 longitude: 77.736068
-score: 7.81
+score: 4.723
 snippet: Madhya Pradesh village centered on a hilltop Buddhist complex of stupas,
   temples, and monasteries.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Sanchi_Archaeological_Museum
 title: Sanchi
 type: location
+heritage: 6.072
+vibrancy: 2.097
+nature: 2.5
+off_the_beaten_track: 4.484
 ---
 
 Sanchi is a small village about 68 km northeast of Bhopal that contains one of the most remarkable concentrations of Buddhist architecture in the world — a UNESCO World Heritage Site. The hilltop complex spans nearly 1,000 years of continuous building from the 3rd century BC through the 12th century AD, and includes stupas, temples, chaityas, and monasteries in various states of preservation.

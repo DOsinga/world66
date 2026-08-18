@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Nationaal_Park_Weerribben-
 latitude: 52.775
 loc_type: city
 longitude: 5.95
-score: 7.61
+score: 5.814
 snippet: Overijssel marshland national park shaped by peat extraction, with reed beds,
   turf ponds, and reintroduced otters.
 title: Weerribben National Park
 type: location
+heritage: 2.882
+vibrancy: 1.388
+nature: 7.79
+off_the_beaten_track: 3.445
 ---
 
 In the northwest corner of the province of Overijssel lies the Weerribben, a 3,500-hectare national park where water and reed dominate the landscape. Together with the neighbouring De Wieden nature reserve, it forms the most important marshland in northwest Europe.

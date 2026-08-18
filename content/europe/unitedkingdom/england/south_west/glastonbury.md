@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Glastonbury_Tor_from_the_s
 latitude: 51.14804
 loc_type: city
 longitude: -2.716577
-score: 8.53
+score: 6.319
 snippet: Somerset town of abbey ruins and Avalon legends, long associated with Arthurian
   myth and pilgrimage.
 title: Glastonbury
 type: location
+heritage: 6.245
+vibrancy: 6.395
+nature: 5.503
+off_the_beaten_track: 2.098
 ---
 
 Glastonbury is a small Somerset town with an outsized mythological reputation. It draws pilgrims, pagans, and curious visitors in roughly equal measure, all drawn by the same cluster of legends: King Arthur's burial, the Holy Grail, and the mystical isle of Avalon.

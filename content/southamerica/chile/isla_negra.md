@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ilsanegra.jpg
 latitude: -33.4449
 loc_type: city
 longitude: -71.6925
-score: 7.66
+score: 4.396
 snippet: Small Chilean coastal village known for Pablo Neruda's idiosyncratic seaside
   house and rocky Pacific shoreline.
 title: Isla Negra
 type: location
+heritage: 2.022
+vibrancy: 2.046
+nature: 5.639
+off_the_beaten_track: 3.848
 ---
 
 Isla Negra is a small coastal village about 100 km southwest of [Santiago](/southamerica/chile/santiago), reached via the Ruta del Sol highway. Despite the name, it is not an island but a stretch of rocky shoreline backed by pine trees, and it is known above all for one thing: the house of Pablo Neruda.

@@ -15,7 +15,7 @@ quick_facts:
   Grande Mosquée: Looks like a colonial church
   Population: ~270,000
   Status: Benin's official capital
-score: 6.4
+score: 3.723
 snippet: Benin's lagoon-side capital, layered with Yoruba palaces, Afro-Brazilian
   architecture, and colonial streets.
 tip: Porto-Novo is the official capital, but the real bustle is in nearby Cotonou
@@ -25,6 +25,10 @@ tip: Porto-Novo is the official capital, but the real bustle is in nearby Cotono
   gets around.
 title: Porto-Novo
 type: location
+heritage: 4.289
+vibrancy: 3.241
+nature: 1.764
+off_the_beaten_track: 3.596
 ---
 
 Porto-Novo is the official capital of Benin, a compact city on the shores of a lagoon that traces its origins to the 16th century, when the Portuguese used it as a staging point for the Atlantic slave trade. That layered history gives it an architectural character unlike anywhere else in West Africa: colonial administrative buildings, a Brazilian-influenced mosque built in the shell of a church, and Yoruba palace architecture all coexist within a short walk of each other.

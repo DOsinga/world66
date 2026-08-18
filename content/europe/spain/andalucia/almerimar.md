@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:PXL_20240126_Puerto_de_Alm
 latitude: 36.707867
 loc_type: city
 longitude: -2.807456
-score: 7.07
+score: 4.749
 snippet: Purpose-built Costa de Almería beach resort arranged around a marina, golf
   courses, and wind-sport beaches
 title: Almerimar
 type: location
+heritage: 2.564
+vibrancy: 3.875
+nature: 5.488
+off_the_beaten_track: 1.518
 ---
 
 Almerimar is a purpose-built beach resort on the Costa de Almería, developed in the 1970s around a large marina about 30 kilometres west of [Almería](/europe/spain/andalucia/almeria) city. It is not the Spain of whitewashed villages and Moorish heritage — it is a deliberately constructed leisure development, with wide grid streets, golf courses, and a marina full of leisure craft. What it offers is equally deliberate: reliable sunshine, a good Blue Flag beach, and a calm that package resort towns elsewhere have long since traded away.

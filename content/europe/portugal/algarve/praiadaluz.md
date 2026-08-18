@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Praia_da_Luz_(4000954897).
 latitude: 37.0868
 loc_type: city
 longitude: -8.7255
-score: 8.38
+score: 5.021
 snippet: Low-key Algarve beach village near Lagos, set below Rocha Negra and a broad
   sandy bay.
 title: Praia da Luz
 type: location
+heritage: 2.343
+vibrancy: 2.449
+nature: 6.6
+off_the_beaten_track: 3.638
 ---
 
 Praia da Luz is a low-key beach village in the western Algarve, about five kilometres west of [Lagos](/europe/portugal/algarve/lagos). It has the feel of a small resort that never quite went full package-holiday: the streets are calm, there are actual year-round residents, and the pace is slower than the bigger resorts to the east.

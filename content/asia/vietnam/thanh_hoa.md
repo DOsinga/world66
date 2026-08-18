@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Le_Loi_avenue.jpg
 latitude: 19.8069
 loc_type: city
 longitude: 105.7852
-score: 6.69
+score: 3.577
 snippet: North-central Vietnamese province between Laos and the sea, mixing mountains,
   river valleys, coast, and ethnic communities.
 title: Thanh Hoa
 type: location
+heritage: 3.682
+vibrancy: 2.218
+nature: 3.984
+off_the_beaten_track: 3.925
 ---
 
 Thanh Hoa is a large province in north-central Vietnam, bordering Laos to the west and the South China Sea to the east. It sits between the Red River Delta and the Central Highlands, a transitional zone of mountains, river valleys, and coastal lowland. The province is home to around 3.5 million people from nine ethnic groups, including Kinh, Thai, Muong, and H'mong communities concentrated in the highland districts.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Illa_de_Ons_(16).jpg
 latitude: 42.3826
 loc_type: city
 longitude: -8.9339
-score: 8.01
+score: 5.647
 title: Ons Islands
 type: location
 snippet: Galician Atlantic archipelago in the Illas Atlánticas park, with quiet paths,
   beaches, and lighthouse cliffs.
+heritage: 5.003
+vibrancy: 2.028
+nature: 6.632
+off_the_beaten_track: 6.159
 ---
 
 The Illas Ons are a small, windswept archipelago in the Atlantic off the coast of Galicia, marking the seaward edge of the Ría de Pontevedra. They are part of the Illas Atlánticas National Park, Galicia's only national park, which also covers the better-known Cíes islands further south. Ons is quieter, emptier, and more atmospheric than its famous neighbours: a single main island with a handful of beaches, a lighthouse on a cliff, and the stone cottages of a village whose inhabitants made a living from octopus and shellfish until the 1970s, when most of them left.

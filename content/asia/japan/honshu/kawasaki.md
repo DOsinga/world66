@@ -4,11 +4,15 @@ done:
 latitude: 35.530664
 loc_type: city
 longitude: 139.703767
-score: 6.91
+score: 4.441
 snippet: Tokyo Bay city between Tokyo and Yokohama, known for Kawasaki Daishi and
   industrial waterfront lights.
 title: Kawasaki
 type: location
+heritage: 4.17
+vibrancy: 4.53
+nature: 4.21
+off_the_beaten_track: 1.497
 ---
 
 Kawasaki sits between [Tokyo](/asia/japan/honshu/tokyo) and [Yokohama](/asia/japan/honshu/yokohama) along the western shore of Tokyo Bay. With over 1.5 million residents it is one of Japan's largest cities, though most visitors pass through it without stopping. That is a mistake if you are curious about the less polished side of the Kanto region.

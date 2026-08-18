@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Lithuania_Rumszyszki_2.jpg
 latitude: 54.867
 loc_type: city
 longitude: 24.219
-score: 6.93
+score: 4.956
 snippet: Small town by Kaunas Reservoir, home to Lithuania's large open-air ethnographic
   museum.
 title: Rumsiskes
 type: location
+heritage: 6.597
+vibrancy: 1.722
+nature: 2.807
+off_the_beaten_track: 3.293
 ---
 
 Rumsiskes is a small town on the northern shore of the Kaunas Reservoir, about 20 kilometres east of Kaunas. It would be easy to drive past — but that would be a mistake. The town is home to the Lithuanian Open-Air Museum, one of the finest ethnographic museums in the Baltic states and a reason in itself to make the trip from Kaunas or Vilnius.

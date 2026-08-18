@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aerial_image_of_Ch%C3%A2te
 latitude: 47.339044
 loc_type: city
 longitude: 0.510456
-score: 8.74
+score: 6.037
 snippet: Loire Valley village whose château is renowned for formal Renaissance gardens
   and geometric kitchen plots.
 title: Villandry
 type: location
+heritage: 7.519
+vibrancy: 1.548
+nature: 4.595
+off_the_beaten_track: 2.884
 ---
 
 Villandry is a small village in the Loire Valley whose château is one of the finest examples of Renaissance garden design in France. Built in the sixteenth century on the site of an earlier fortified tower, the château itself is handsome enough, but it is the gardens that draw visitors from across Europe. Terraced into three levels descending toward the Cher river, they combine ornamental flower beds, a water garden, and — most strikingly — a vast ornamental kitchen garden where vegetables, herbs, and flowers are planted in geometric patterns so precise they look more like embroidery than agriculture.

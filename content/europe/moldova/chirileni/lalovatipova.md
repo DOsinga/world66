@@ -5,11 +5,15 @@ done:
 latitude: 46.7364
 loc_type: city
 longitude: 29.0606
-score: 6.73
+score: 5.856
 snippet: Rock-hewn Moldovan monastery complex carved into limestone cliffs above the
   Nistru River
 title: Tipova Monastery
 type: location
+heritage: 7.231
+vibrancy: 1.372
+nature: 4.599
+off_the_beaten_track: 3.244
 ---
 
 The Tipova cave monastery is one of the largest rock-hewn monastic complexes in Eastern Europe, carved into the limestone cliffs above the Nistru (Dniester) River in central Moldova. The site was founded before the Moldavian state itself — some of the earliest cells are believed to date from the 10th to 12th centuries. At its peak, the monastery housed over 700 monks in cells and churches cut into the rock face across several levels.

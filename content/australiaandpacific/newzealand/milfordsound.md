@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Milford_Sound_in_Fiordland
 latitude: -44.619019
 loc_type: feature
 longitude: 167.86876
-score: 9.84
+score: 7.582
 snippet: Fiordland fjord where sheer granite walls and rainforest plunge into dark
   South Island water.
 tags:
@@ -19,6 +19,10 @@ tags:
 tier: 3
 title: Milford Sound
 type: location
+heritage: 2.843
+vibrancy: 4.966
+nature: 9.352
+off_the_beaten_track: 5.96
 ---
 
 Milford Sound — Piopiotahi in Māori, meaning "place of the shining cuckoo" — is not actually a sound at all. It is a fjord, carved by glaciers over thousands of years, now sitting deep inside [Fiordland National Park](/australiaandpacific/newzealand/fiordland) on the southwest coast of New Zealand's South Island. Sheer granite walls rise more than a thousand metres straight out of the dark water, draped in rainforest that somehow clings to near-vertical rock. Rudyard Kipling called it the eighth wonder of the world, and for once the hype is not exaggerated.

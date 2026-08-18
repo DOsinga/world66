@@ -5,11 +5,15 @@ done:
 latitude: 43.1979
 loc_type: city
 longitude: -70.8737
-score: 5.83
+score: 4.258
 snippet: New Hampshire river city with milltown brickwork, Cocheco River history,
   and a compact working downtown.
 title: Dover
 type: location
+heritage: 2.471
+vibrancy: 2.948
+nature: 5.176
+off_the_beaten_track: 1.422
 ---
 
 Dover is the oldest permanent European settlement in New Hampshire, founded in 1623 and now the state's third-largest city. It sits along the Cocheco River near Great Bay, and while it doesn't draw tourists the way the White Mountains or the seacoast do, it has a compact downtown with decent restaurants and a genuine working-city feel.

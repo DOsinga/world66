@@ -4,7 +4,7 @@ done:
 latitude: 18.3714
 loc_type: feature
 longitude: -74.0203
-score: 6.47
+score: 6.687
 snippet: Remote Haitian mountain park protecting Pic Macaya, cloud forest, and rare
   wildlife in the Massif de la Hotte.
 sources:
@@ -15,6 +15,10 @@ sources:
 - https://www.gov.uk/foreign-travel-advice/haiti
 title: Macaya Peak National Park
 type: location
+heritage: 1.407
+vibrancy: 0.801
+nature: 8.495
+off_the_beaten_track: 6.129
 ---
 
 Macaya Peak National Park protects one of Haiti's most precious landscapes: the cloud forest and high ridges of the Massif de la Hotte on the western end of the southern peninsula. This is not a casual picnic park. It is remote, mountainous, biologically important, and difficult to reach even when Haiti is stable.

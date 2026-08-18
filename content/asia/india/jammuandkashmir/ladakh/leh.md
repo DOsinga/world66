@@ -12,11 +12,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Datun_Sahib_tree_in_Leh,_2
 latitude: 34.1642
 loc_type: city
 longitude: 77.5848
-score: 9.19
+score: 6.952
 title: Leh
 type: location
 snippet: High-altitude Ladakhi town in the Indus Valley, framed by bare mountains
   and Buddhist monasteries.
+heritage: 5.949
+vibrancy: 0.831
+nature: 8.254
+off_the_beaten_track: 5.731
 ---
 
 Leh is the principal town of Ladakh, the high-altitude plateau region of northern India that borders Tibet and Pakistan. The town sits at 3,500 metres in the Indus Valley, surrounded by the Ladakh Range to the north and the Zanskar Range to the south. The landscape is dramatic — bare ochre mountains, deep blue sky, and the green ribbon of the Indus cutting through the desert — and has drawn trekkers, mountaineers, and Buddhist pilgrims for generations.

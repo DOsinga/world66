@@ -15,7 +15,7 @@ quick_facts:
   Mineral Springs: Free hot fountains downtown
   Mt Vitosha: Skiing beside the city
   Population: ~1.3 million
-score: 8.17
+score: 5.223
 snippet: Compact Bulgarian capital below Vitosha mountain, layered with Orthodox churches,
   Roman remains, and café culture
 tip: Sofia is one of Europe's oldest cities, sitting at the foot of Vitosha mountain
@@ -25,6 +25,10 @@ tip: Sofia is one of Europe's oldest cities, sitting at the foot of Vitosha moun
   fill bottles at.
 title: Sofia
 type: location
+heritage: 5.74
+vibrancy: 5.066
+nature: 2.377
+off_the_beaten_track: 1.931
 ---
 
 Sofia is a compact, walkable capital with a relaxed atmosphere and a quality-of-life that surprises most first-time visitors. It is one of the cheaper European capitals, has good museums, excellent café culture, and easy access to the [Vitosha mountain](/europe/bulgaria/sofia/vitosha_mountain) that rises directly above the southern suburbs.

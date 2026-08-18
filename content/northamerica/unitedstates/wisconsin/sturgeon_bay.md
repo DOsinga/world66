@@ -4,11 +4,15 @@ type: location
 loc_type: city
 latitude: 44.8336
 longitude: -87.3778
-score: 7.0
+score: 4.489
 snippet: Door County shipbuilding town where a working canal cuts across the peninsula.
 sources:
-  - https://en.wikivoyage.org/wiki/Sturgeon_Bay
-  - https://en.wikipedia.org/wiki/Sturgeon_Bay,_Wisconsin
+- https://en.wikivoyage.org/wiki/Sturgeon_Bay
+- https://en.wikipedia.org/wiki/Sturgeon_Bay,_Wisconsin
+heritage: 2.603
+vibrancy: 2.636
+nature: 5.684
+off_the_beaten_track: 1.774
 ---
 
 Sturgeon Bay is the working end of Door County. It has the marinas, shipyards, bridges, and museums of a real Great Lakes port, not just the orchards and vacation villages that draw summer crowds farther up the peninsula.

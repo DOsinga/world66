@@ -8,10 +8,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_Broken_Arrow.jpg
 latitude: 36.052599
 loc_type: city
 longitude: -95.790819
-score: 5.67
+score: 2.432
 snippet: Tulsa-area city with Creek Nation roots and a revived downtown Rose District.
 title: Broken Arrow
 type: location
+heritage: 2.317
+vibrancy: 2.432
+nature: 2.431
+off_the_beaten_track: 0.956
 ---
 
 Broken Arrow is the largest suburb of [Tulsa](/northamerica/unitedstates/oklahoma/tulsa), sitting just southeast of the city in eastern Tulsa County. The city is named for a Creek Native American community that relocated here from Alabama on the Trail of Tears — the name derives from the Muscogee word "Rekackv." With a population pushing past 115,000, it has grown into a proper city in its own right, though most visitors will use it as a base for exploring the Tulsa area.

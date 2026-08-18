@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Mestre-Tour_de_l%27horloge
 latitude: 45.4903
 loc_type: city
 longitude: 12.2381
-score: 6.52
+score: 5.977
 snippet: Mainland Venice city with normal Italian street life around Piazza Ferretto,
   just beyond the lagoon.
 title: Mestre
 type: location
+heritage: 7.069
+vibrancy: 4.831
+nature: 2.52
+off_the_beaten_track: 1.665
 ---
 
 Mestre is the mainland half of Venice -- a working Italian city where locals actually live and go about their business, rather than a museum piece preserved in amber. It sits just across the Liberty Bridge from the lagoon, and most visitors pass through without a second glance. That is a mistake.

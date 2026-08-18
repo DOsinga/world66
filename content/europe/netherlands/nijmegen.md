@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2009-05-01_in_Nijmegen_01.
 latitude: 51.847495
 loc_type: city
 longitude: 5.863777
-score: 7.65
+score: 4.938
 snippet: Waal river city claiming Roman origins, with Valkhof ruins and a long history
   at Europe's crossroads.
 title: Nijmegen
 type: location
+heritage: 5.337
+vibrancy: 4.824
+nature: 2.23
+off_the_beaten_track: 1.335
 ---
 
 **Nijmegen** is a city of about 180,000 people in the east of the Netherlands, on the south bank of the **Waal** river (the main branch of the Rhine as it enters the country). It claims to be the oldest city in the Netherlands: a Roman legionary camp was established here around 12 BCE, which makes Nijmegen the first place in the country to be granted town rights — though the claim is sometimes disputed by Maastricht. The **Valkhof** hill, the site of a medieval imperial palace built by Charlemagne and later rebuilt by Frederick Barbarossa in 1155, was one of the most important administrative centres of the Holy Roman Empire. Only fragments of the Barbarossa palace — including the elegant octagonal **Saint Nicholas Chapel** and the ruined 16th-century apse — survive on the hill today, overlooking a pleasant park.

@@ -6,12 +6,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Mount_Evans_Scenic_Byway_a
 latitude: 39.5883
 loc_type: feature
 longitude: -105.6438
-score: 8.7
-snippet: Colorado fourteener reached by North America's highest paved road, climbing through alpine tundra west of Denver.
+score: 5.767
+snippet: Colorado fourteener reached by North America's highest paved road, climbing
+  through alpine tundra west of Denver.
 tags:
 - sight
 title: Mount Blue Sky (Mount Evans)
 type: location
+heritage: 1.572
+vibrancy: 1.175
+nature: 7.442
+off_the_beaten_track: 4.907
 ---
 
 The highest paved road in North America climbs to within a short walk of the summit of Mount Blue Sky (renamed in 2023 from Mount Evans) — 14,265 feet, an hour and a half west of Denver. The drive itself is the attraction: switchbacks above the timberline, alpine lakes, bighorn sheep and mountain goats grazing within camera range. From the parking area a quarter-mile scramble reaches the summit cairn.

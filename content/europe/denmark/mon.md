@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:M%C3%B8ns_Klint_5.jpg
 latitude: 54.969843
 loc_type: feature
 longitude: 12.424946
-score: 8.1
+score: 4.679
 snippet: Danish island south of Zealand, known for pastoral villages, beaches, and
   the chalk cliffs of Møns Klint.
 title: Møn
 type: location
+heritage: 2.984
+vibrancy: 2.058
+nature: 5.987
+off_the_beaten_track: 2.443
 ---
 
 Møn is a small island just south of Zealand, the island [Copenhagen](/europe/denmark/copenhagen) sits on. With superb beaches, gently rolling hills, and idyllic pastoral scenery, it is a perfect escape from the capital — slow-paced and thoroughly relaxing.

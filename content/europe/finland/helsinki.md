@@ -14,7 +14,7 @@ quick_facts:
   Population: ~660,000
   Sauna Culture: A Finnish institution
   Suomenlinna: An 18th-century sea fortress
-score: 8.67
+score: 6.451
 snippet: Baltic Finnish capital where harbour markets, neoclassical squares, and design
   districts sit within walking distance.
 tip: Helsinki is a clean, design-obsessed Baltic capital built across a peninsula
@@ -24,6 +24,10 @@ tip: Helsinki is a clean, design-obsessed Baltic capital built across a peninsul
   church are highlights.
 title: Helsinki
 type: location
+heritage: 5.625
+vibrancy: 6.813
+nature: 4.659
+off_the_beaten_track: 1.261
 ---
 
 Helsinki, Finland's capital, sits on a peninsula jutting into the Baltic. It's a compact, walkable city where the harbour and the city centre are essentially the same place. The low, neoclassical architecture of [Senate Square](/europe/finland/helsinki/senate_square), the covered [market halls](/europe/finland/helsinki/old_market_hall), the design shops of the [Punavuori](/europe/finland/helsinki/punavuori) district, and the ferry terminal for [Suomenlinna](/europe/finland/helsinki/suomenlinna) island fortress are all within easy walking distance of each other.

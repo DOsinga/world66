@@ -5,13 +5,17 @@ done:
 latitude: -45.9171
 loc_type: city
 longitude: 169.6818
-score: 6.51
+score: 5.677
 snippet: Otago gold-rush town on the route toward Central Otago, with preserved nineteenth-century
   streetscapes.
 sources:
 - https://en.wikipedia.org/wiki/Lawrence,_New_Zealand
 title: Lawrence
 type: location
+heritage: 3.931
+vibrancy: 2.541
+nature: 7.134
+off_the_beaten_track: 4.935
 ---
 
 Lawrence was [Otago](/australiaandpacific/newzealand/south_island/otago)'s first gold-rush town, originally named Tuapeka, and later renamed after the British hero who defended Lucknow during the 1857 Indian Mutiny. At the height of the gold fever its population reached 11,500 — double that of [Dunedin](/australiaandpacific/newzealand/south_island/otago/dunedin) — making it one of the largest communities in the country.

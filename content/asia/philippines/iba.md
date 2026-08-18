@@ -5,7 +5,7 @@ done:
 latitude: 15.326461
 loc_type: city
 longitude: 119.980104
-score: 6.22
+score: 4.611
 snippet: Zambales coastal capital known for grey-sand beaches, clean water, and the
   sweet Dinamulag mangoes harvested in spring.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Iba_Airfield
 title: Iba
 type: location
+heritage: 5.339
+vibrancy: 3.796
+nature: 4.423
+off_the_beaten_track: 4.769
 ---
 
 Iba is the quiet capital of Zambales province, a small coastal town about 200 km northwest of Manila along the South China Sea. It is not a famous destination, but Filipinos know it for its 12 km of clean, undeveloped grey-sand beaches, its clear, unpolluted waters, and the prized **Dinamulag mangoes** that ripen in April and May — some of the sweetest in the country.

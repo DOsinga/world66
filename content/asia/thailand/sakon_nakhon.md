@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 17.15638889
 longitude: 104.14555556
-score: 6.82
+score: 2.895
 snippet: Northern Isan Buddhist city on Nong Han Lake, known for stupas, forest temples,
   and wax-castle traditions
 sources:
@@ -14,6 +14,10 @@ image: sakon_nakhon.jpg
 image_source: https://commons.wikimedia.org/wiki/File:THA_%E2%80%94_Sakon_Nakhon_province_%E2%80%94_Mueang_Sakon_Nakhon_district_%E2%80%94_Sakon_Nakhon_(street_scene)_2007-06-16_Mattes.jpg
 image_license: CC BY-SA 4.0
 image_attribution: User:Mattes
+heritage: 3.038
+vibrancy: 2.004
+nature: 2.344
+off_the_beaten_track: 4.533
 ---
 
 Sakon Nakhon is a provincial city in northern Isan, far from Thailand's main tourist routes and all the better for it if you like religious history, lake country, and slow provincial streets. It sits by Nong Han, one of the largest natural lakes in northeastern Thailand, with the Phu Phan mountains rising to the south.

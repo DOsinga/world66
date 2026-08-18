@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Landscape_view_with_Sengea
 latitude: -8.594902
 loc_type: city
 longitude: 117.271607
-score: 7.2
+score: 5.295
 snippet: Rugged Indonesian island of former sultanates, horse culture, and volcanic
   country between Lombok and Flores.
 sources:
 - https://en.wikipedia.org/wiki/Sumbawa_Besar
 title: Sumbawa
 type: location
+heritage: 2.46
+vibrancy: 2.316
+nature: 6.484
+off_the_beaten_track: 5.646
 ---
 
 Sumbawa is a large island in West Nusa Tenggara, east of [Lombok](/asia/indonesia/lombok) and larger than Bali and Lombok combined. It is divided into three administrative regencies — Sumbawa Regency in the west, Dompu in the centre, and Bima in the east — roughly corresponding to the three former sultanates that once ruled the island. The main town, Sumbawa Besar, sits on the north coast about halfway along the island's length.

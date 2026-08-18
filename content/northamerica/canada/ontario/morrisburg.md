@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 44.9
 longitude: -75.185
-score: 6.9
+score: 3.852
 snippet: St. Lawrence village anchored by Upper Canada Village, War of 1812 history,
   and Seaway memory.
 sources:
@@ -16,6 +16,10 @@ image: morrisburg.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Uppercanvillage1.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Bodoklecksel
+heritage: 2.716
+vibrancy: 2.26
+nature: 4.82
+off_the_beaten_track: 1.751
 ---
 
 Morrisburg is a small village on the St. Lawrence River in eastern Ontario, between Brockville and Cornwall. On its own it is quiet, but it sits beside one of Ontario's best living-history attractions and close to the strange legacy of the St. Lawrence Seaway, which flooded whole river communities in the 1950s.

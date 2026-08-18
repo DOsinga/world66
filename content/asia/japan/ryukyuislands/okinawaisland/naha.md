@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Naha_Okinawa_Japan_Shuri-C
 latitude: 26.212235
 loc_type: city
 longitude: 127.679145
-score: 8.9
+score: 5.475
 snippet: Okinawa's capital city, centered on Kokusai Street, Shuri Castle, and Ryukyu
   heritage.
 sources:
@@ -18,6 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Gusuku_Sites_and_Related_Properties_of_the_Kingdom_of_Ryukyu
 title: Naha
 type: location
+heritage: 5.89
+vibrancy: 3.228
+nature: 5.989
+off_the_beaten_track: 4.174
 ---
 
 Naha is Okinawa's capital and by far its largest city, home to about 320,000 people. It is where most visitors arrive and where the island's urban life is concentrated. [Kokusai Street](/asia/japan/ryukyuislands/okinawaisland/naha/kokusai_street) (International Street) is the main drag — a 1.6-kilometre stretch of souvenir shops, restaurants, and izakayas that fills up every evening. Duck into the covered [Makishi Public Market](/asia/japan/ryukyuislands/okinawaisland/naha/makishi_public_market) just off Kokusai for fresh seafood, tropical fruit, and Okinawan specialties like pig's face and sea grapes.

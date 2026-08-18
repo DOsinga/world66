@@ -5,11 +5,15 @@ done:
 latitude: 39.1015
 loc_type: city
 longitude: -84.5125
-score: 7.36
+score: 6.051
 snippet: Ohio River city with German heritage, Cincinnati chili, and the brick Italianate
   streets of Over-the-Rhine.
 title: Cincinnati
 type: location
+heritage: 5.175
+vibrancy: 6.429
+nature: 4.128
+off_the_beaten_track: 1.534
 ---
 
 Cincinnati sits on the Ohio River where Ohio, Kentucky, and Indiana meet. It's a Midwestern city with a genuine character — German immigrant heritage, a serious food tradition (Cincinnati chili is unlike any chili elsewhere), and a walkable downtown that has bounced back from decades of decline.

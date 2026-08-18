@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Jingzhou_Museum_2014.04.20
 latitude: 30.3363
 loc_type: city
 longitude: 112.2414
-score: 6.19
+score: 4.927
 snippet: Historic Hubei city on the Yangtze, with Chu tombs, ancient walls, and a
   museum of lacquerware and silk.
 sources:
 - https://en.wikivoyage.org/wiki/Jingzhou
 title: Jingzhou
 type: location
+heritage: 6.331
+vibrancy: 2.959
+nature: 2.959
+off_the_beaten_track: 3.019
 ---
 
 Jingzhou is one of those Chinese cities where the weight of history is impossible to ignore. For nearly four centuries, from around 689 BCE, this was Ying — capital of the State of Chu, one of the great powers of the Warring States period. The Chu left behind five city sites, over eight hundred ancient tombs, and a culture so distinct that modern archaeologists still treat it as a separate civilizational strand within ancient China. The [Jingzhou Museum](/asia/china/hubei/jingzhou/jingzhou_museum) puts the best of it in front of you: Han-era silk garments woven with impossible delicacy, lacquerware from the Warring States period in near-perfect condition, and a two-thousand-year-old male corpse recovered from a Han tomb, preserved in enough detail to read the expression on his face.

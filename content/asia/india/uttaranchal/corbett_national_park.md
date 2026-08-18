@@ -5,10 +5,14 @@ latitude: 29.53
 longitude: 78.7747
 title: Corbett National Park
 type: location
-score: 8.19
+score: 5.952
 loc_type: feature
 snippet: Foothill national park in Uttarakhand, established to protect Bengal tigers
   and sal forest wildlife.
+heritage: 3.12
+vibrancy: 2.13
+nature: 7.903
+off_the_beaten_track: 4.287
 ---
 
 Jim Corbett National Park is India's oldest national park, established in 1936 to protect the endangered Bengal tiger. Spread across the foothills of the Himalayas in Uttarakhand, the park covers over 500 square kilometres of dense sal forests, grasslands, river beds, and marshy depressions. It is one of the best places in India to see a tiger in the wild, though sightings are never guaranteed.

@@ -2,11 +2,15 @@
 latitude: 33.833
 loc_type: city
 longitude: -111.946
-score: 7.14
+score: 6.07
 snippet: Sonoran Desert town north of Phoenix, keeping a Western main street beside
   protected cactus country
 title: Cave Creek
 type: location
+heritage: 4.583
+vibrancy: 4.979
+nature: 7.003
+off_the_beaten_track: 3.106
 ---
 
 Cave Creek is a small desert town in the Sonoran Desert north of Scottsdale and Phoenix, known for its Western character and its resistance to the suburban sprawl that has consumed much of the Valley of the Sun around it. The main street has a rough-hewn Old West aesthetic — wooden storefronts, saddleries, taxidermied animals in windows — and a concentration of Western and Mexican restaurants and bars that cater to both locals and day-trippers from the Phoenix metro.

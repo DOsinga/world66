@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Jalan_Klang-Sitiawan-Ipoh_
 latitude: 4.2167
 loc_type: city
 longitude: 100.7
-score: 6.11
+score: 3.823
 snippet: Perak market town with a strong Fuzhou Chinese identity and a reputation
   for clay-oven kong piang.
 title: Sitiawan
 type: location
+heritage: 3.282
+vibrancy: 2.406
+nature: 4.535
+off_the_beaten_track: 2.63
 ---
 
 Sitiawan is a quiet Fuzhou Chinese settlement town in the Manjung district of Perak, about three hours north of Kuala Lumpur. Founded by Chinese immigrants from Fujian province in the early 1900s, it retains a strong Fuzhou cultural identity that sets it apart from most Malaysian towns. The dialect, the food, and the architecture all carry traces of that heritage.

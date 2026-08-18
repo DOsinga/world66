@@ -9,6 +9,7 @@ asia/turkey/cappadocia/goreme	8.996	13	Göreme	Asia, Turkey, Cappadocia
 asia/cambodia/angkorwat	8.984	14	Angkor Wat	Asia, Cambodia
 asia/uzbekistan/samarkand	8.979	15	Samarkand	Asia, Uzbekistan
 europe/italy/campania/pompeii	8.979	16	Pompeii	Europe, Italy, Campania
+europe/france/paris	5.737	manual	Paris	Europe, France
 asia/india/rajasthan/jaisalmer	8.939	18	Jaisalmer	Asia, India, Rajasthan
 europe/georgia/mtskheta	8.929	19	Mtskheta	Europe, Georgia
 europe/italy/sicily/agrigento	8.920	20	Agrigento	Europe, Italy, Sicily
@@ -34,6 +35,7 @@ asia/japan/honshu/himeji	8.719	47	Himeji	Asia, Japan, Honshu
 europe/spain/andalucia/cordoba	8.712	49	Cordoba	Europe, Spain, Andalucia
 asia/uzbekistan/khiva	8.705	50	Khiva	Asia, Uzbekistan
 europe/spain/andalucia/granada	8.701	53	Granada	Europe, Spain, Andalucia
+europe/unitedkingdom/england/london	6.993	manual	London	Europe, United Kingdom, England
 asia/china/hubei/wudang_mountains	8.698	54	Wudang Mountains	Asia, China, Hubei Province
 asia/india/uttarpradesh/agra	8.697	56	Agra	Asia, India, Uttar Pradesh
 northamerica/mexico/teotihuacan	8.581	86	Teotihuacan	North America, Mexico

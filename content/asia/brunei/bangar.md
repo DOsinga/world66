@@ -5,11 +5,15 @@ done:
 latitude: 4.707648
 loc_type: city
 longitude: 115.072444
-score: 6.29
+score: 4.387
 snippet: Tiny Bruneian district town and rainforest gateway, separated from the capital
   by mangroves and Malaysian Sarawak.
 title: Bangar
 type: location
+heritage: 2.029
+vibrancy: 1.714
+nature: 5.635
+off_the_beaten_track: 3.815
 ---
 
 Bangar is the main town of Temburong, Brunei's eastern district, separated from the rest of the country by a wedge of Malaysian Sarawak. The town itself is tiny — a few shops, a mosque, a couple of places to eat — but it is the gateway to [Ulu Temburong National Park](/asia/brunei/bangar/ulu_temburong_national_park), one of the best-preserved patches of primary rainforest in Borneo.

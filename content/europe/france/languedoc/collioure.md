@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:150607-Collioure-01.jpg
 latitude: 42.52648054826969
 loc_type: city
 longitude: 3.0848461
-score: 8.71
+score: 5.701
 snippet: Catalan fishing town on the Côte Vermeille, closely associated with Matisse,
   Derain, and Fauvism.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Collioure
 title: Collioure
 type: location
+heritage: 5.658
+vibrancy: 5.612
+nature: 5.93
+off_the_beaten_track: 2.625
 ---
 
 Collioure is the kind of small town that earns its reputation. A Catalan fishing village on the Côte Vermeille — the vermilion coast where the Pyrenees run down to the Mediterranean — it was painted so often and so well by Matisse, Derain, Braque, and Picasso in the early 20th century that it effectively became one of the birthplaces of Fauvism. "In the whole of France there is no sky as blue as the one above Collioure," Matisse wrote, and he was right about the quality of the light, which is exceptional: intense, clear, and reflected off both the sea and the red-schist rock that gives the coast its distinctive colour.

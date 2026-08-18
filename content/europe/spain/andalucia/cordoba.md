@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Centro_Hist%C3%B3rico,_16.
 latitude: 37.884581
 loc_type: city
 longitude: -4.776014
-score: 9.32
+score: 7.766
 title: Cordoba
 type: location
 snippet: Andalusian city whose Umayyad caliphate legacy centres on the mosque-cathedral
   and a dense historic quarter.
+heritage: 8.83
+vibrancy: 6.997
+nature: 5.483
+off_the_beaten_track: 2.12
 ---
 
 At its peak in the 10th century, Córdoba was the largest city in western Europe — the capital of the Umayyad caliphate, dubbed the "Athens of the West" by contemporaries who marvelled at its libraries, running water, and religious coexistence. The city's modern population is a fraction of its medieval size, but the historic centre is still one of the finest in Andalusia.

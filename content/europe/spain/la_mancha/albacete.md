@@ -9,10 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_San_Juan_Bauti
 latitude: 38.995092
 loc_type: city
 longitude: -1.855915
-score: 6.77
+score: 5.243
 title: Albacete
 type: location
 snippet: Castilla-La Mancha's largest city, set on the plains between Madrid and Alicante.
+heritage: 6.45
+vibrancy: 3.733
+nature: 2.64
+off_the_beaten_track: 2.141
 ---
 
 Albacete is the biggest city in **Castilla-La Mancha**, flat on the sun-baked plains of the region made famous by Cervantes' Don Quixote, halfway between Madrid and Alicante on the high-speed AVE train line. It has none of the picturesque Castilian charm of its smaller neighbours — no medieval centre, no dramatic hilltop fortress — but a handful of handsome 19th-century buildings, wide pedestrian streets, and the excellent [Museum of Albacete](/europe/spain/la_mancha/albacete/museo_provincial) whose collection of Iberian stone sphinxes (the 4th-century BC **Cerrillo Blanco Bulls**) and a complete set of Roman dolls from a child's grave are worth the stop.

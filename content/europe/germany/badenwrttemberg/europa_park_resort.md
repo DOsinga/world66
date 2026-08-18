@@ -2,7 +2,7 @@
 latitude: 48.268333
 loc_type: feature
 longitude: 7.720833
-score: 8.1
+score: 4.702
 snippet: Germany's biggest theme-park resort, built around Europa-Park and the Rulantica
   water world.
 sources:
@@ -17,6 +17,10 @@ image: europa_park_resort.jpg
 image_source: https://commons.wikimedia.org/wiki/File:2008-04-26-DSC_1978-c-Europapark.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Thomas Berwing
+heritage: 2.053
+vibrancy: 4.597
+nature: 4.975
+off_the_beaten_track: 1.138
 ---
 
 Europa-Park Resort is the reason most travellers come to Rust. The village is pleasant enough, but the destination is the resort: Germany's largest theme park, a full-scale indoor water world, a cluster of themed hotels, evening shows, and enough rides to make a rushed day feel slightly foolish.

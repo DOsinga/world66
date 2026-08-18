@@ -14,7 +14,7 @@ quick_facts:
   Population: ~17 million
   Rumba: Birthplace of Congolese rumba
   Twin Capitals: Faces Brazzaville across the river
-score: 5.48
+score: 5.18
 snippet: Vast Congolese capital on the Congo River, driven by street life, music,
   markets, and administrative Gombe.
 tip: Kinshasa is one of the world's biggest French-speaking cities and faces Brazzaville
@@ -23,6 +23,10 @@ tip: Kinshasa is one of the world's biggest French-speaking cities and faces Bra
   local driver, carry small US dollars, and keep a low profile after dark.
 title: Kinshasa
 type: location
+heritage: 3.972
+vibrancy: 5.653
+nature: 3.819
+off_the_beaten_track: 5.604
 ---
 
 Kinshasa is one of Africa's largest cities, home to over 17 million people and sprawling along the south bank of the Congo River directly across from [Brazzaville](/africa/congobrazzaville/brazzaville). It is loud, chaotic, creative, and exhausting -- sometimes all at once. This is not a city of tourist sights in the conventional sense, but it is a place of enormous energy, and for travelers willing to engage with it, deeply rewarding.

@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/94098640@N00/31247047891
 latitude: -20.162452
 loc_type: city
 longitude: 57.502804
-score: 8.26
+score: 5.367
 snippet: Mauritian capital and harbour city where colonial markets, Chinatown, and
   Aapravasi Ghat crowd beneath mountain slopes.
 title: Port Louis
 type: location
+heritage: 5.94
+vibrancy: 5.165
+nature: 5.47
+off_the_beaten_track: 3.383
 ---
 
 Port Louis is the capital and commercial heart of Mauritius, founded by French governor Mahé de Labourdonnais in 1735. It sits in a natural harbour sheltered by a ring of mountains, and despite heavy development it still has corners of genuine colonial atmosphere.

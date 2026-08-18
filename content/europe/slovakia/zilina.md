@@ -6,7 +6,7 @@ longitude: 18.739314
 done:
   location_cleanup: 2026-04-10
   location_enrich: '2026-05-29'
-score: 7.05
+score: 4.663
 loc_type: city
 snippet: Northwestern Slovak city where the Váh and Kysuca rivers meet beneath the
   Malá Fatra mountains
@@ -14,6 +14,10 @@ image: zilina.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Budat%C3%ADn_hrad_-_by_Pudelek.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Pudelek
+heritage: 5.267
+vibrancy: 3.432
+nature: 4.772
+off_the_beaten_track: 2.207
 ---
 
 Žilina is the main city of northwestern Slovakia, set in a valley where the Váh and Kysuca rivers meet, with the Beskydy mountains visible on the eastern horizon. With around 80,000 people, it's Slovakia's third-largest city — a regional industrial and university centre that sees relatively few foreign visitors.

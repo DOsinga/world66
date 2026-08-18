@@ -5,7 +5,7 @@ done:
 latitude: 52.399
 loc_type: city
 longitude: 0.262
-score: 7.47
+score: 3.917
 snippet: Fenland cathedral city defined by Ely Cathedral's octagonal lantern tower
   and quiet riverside streets.
 sources:
@@ -16,6 +16,10 @@ image: ely.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Colin
+heritage: 4.816
+vibrancy: 2.118
+nature: 3.121
+off_the_beaten_track: 1.545
 ---
 
 Ely is a small cathedral city in the Cambridgeshire fens, about fifteen miles north of Cambridge. The city essentially exists because of its cathedral, and so do most of its visitors — [Ely Cathedral](/europe/unitedkingdom/england/east_of_england/ely/ely_cathedral) is one of the great medieval buildings of England.

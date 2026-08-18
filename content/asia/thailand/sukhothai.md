@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Sukhothai,_Buddha,_Stupas,
 latitude: 17.0196
 loc_type: city
 longitude: 99.7061
-score: 9.13
+score: 6.444
 snippet: Thai historic capital where moated temple ruins define the country's first
   golden age.
 title: Sukhothai
 type: location
+heritage: 8.245
+vibrancy: 3.941
+nature: 2.958
+off_the_beaten_track: 2.902
 ---
 
 **Sukhothai** — the name literally means "the Dawn of Happiness" in Pali — was the first capital of the Thai kingdom, founded in **1238** and flourishing for about 120 years before being absorbed by the later kingdom of Ayutthaya. During its golden age under King **Ramkhamhaeng** in the late 13th century, it was the political and cultural heart of what is now central Thailand, and is often considered the birthplace of Thai civilisation: the Thai script is said to have been invented here, and the distinctive classical style of Thai sculpture and architecture reached its most refined form in Sukhothai's Buddha images — walking Buddhas with flame-tipped heads and the half-smile that would define Thai Buddhist art for centuries after.

@@ -11,9 +11,13 @@ loc_type: city
 snippet: Volkswagen-built Lower Saxony city centred on the factory, Autostadt, and
   modern automotive museums
 longitude: 10.786168
-score: 6.77
+score: 3.779
 title: Wolfsburg
 type: location
+heritage: 2.925
+vibrancy: 3.768
+nature: 3.808
+off_the_beaten_track: 0.925
 ---
 
 Wolfsburg exists because of Volkswagen. The city was founded in 1938 to house workers for the new car factory, and VW still dominates — the plant stretches for over a kilometre along the Mittelland Canal and employs tens of thousands of people. What makes Wolfsburg worth a stop is not the factory floor but what VW has built around it.

@@ -4,7 +4,7 @@ done:
 latitude: 49.8681
 loc_type: city
 longitude: 6.1567
-score: 7.0
+score: 4.001
 snippet: Small Sauer valley town known for military history, beer, and easy access
   to Vianden
 sources:
@@ -16,6 +16,10 @@ image: diekirch.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Diekirch,_H%C3%B4tel_de_ville_(101).jpg
 image_license: CC BY-SA 4.0
 image_attribution: GilPe
+heritage: 4.421
+vibrancy: 2.94
+nature: 4.318
+off_the_beaten_track: 2.703
 ---
 
 Diekirch is a compact town on the Sauer in northern Luxembourg, useful as a transport stop for [Vianden](/europe/luxembourg/vianden) and better than that sounds. It has a walkable centre, a riverside park, a cluster of museums, and enough old-town texture to reward a slow afternoon.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Tsaghkadzor,_general_view_
 latitude: 40.543651
 loc_type: city
 longitude: 44.734297
-score: 7.68
+score: 5.406
 snippet: Armenian highland resort northeast of Yerevan, known for skiing and the name
   'valley of flowers'.
 sources:
@@ -18,6 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Tsaghkadzor_ski_resort
 title: Tsaghkadzor
 type: location
+heritage: 4.638
+vibrancy: 2.86
+nature: 6.413
+off_the_beaten_track: 3.111
 ---
 
 Tsaghkadzor (also spelled Tzakhadzor) is Armenia's main ski resort, located about 60km northeast of [Yerevan](/europe/armenia/yerevan) in the Kotayk highlands. The name means "valley of flowers" in Armenian — apt for a place that is buried in snow in winter and carpeted in wildflowers by June.

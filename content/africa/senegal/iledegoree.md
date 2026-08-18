@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:C%C3%B4tes_de_l%27%C3%AEle
 latitude: 14.667205
 loc_type: city
 longitude: -17.398356
-score: 8.21
+score: 5.294
 snippet: Small island off Dakar, deeply tied to Atlantic trade, colonial rivalry,
   and slavery memory.
 title: Ile de Gorée
 type: location
+heritage: 6.617
+vibrancy: 3.282
+nature: 3.974
+off_the_beaten_track: 4.466
 ---
 
 Gorée lies just 3 km off the Dakar waterfront, a 20-minute ferry ride from the Dakar port terminal. It is one of the first places European traders settled on the West African coast — the Portuguese arrived in the fifteenth century, followed by the Dutch, English, and French — and it played a significant role in the Atlantic slave trade from the sixteenth to the nineteenth centuries.

@@ -12,9 +12,13 @@ sources:
 - https://en.wikivoyage.org/wiki/Ningxia
 title: Yongning
 type: location
-score: 5.57
+score: 3.466
 snippet: County-level city south of Yinchuan, a Hui Muslim heartland with major Islamic
   cultural sites.
+heritage: 2.573
+vibrancy: 1.807
+nature: 4.001
+off_the_beaten_track: 4.491
 ---
 
 Yongning is a county-level city 20 kilometres south of Yinchuan, administratively part of the capital's urban agglomeration but distinct in character from the provincial centre. It is notable as one of the heartlands of the Hui Muslim community in China and a historical focal point of Islamic culture in the northwest.

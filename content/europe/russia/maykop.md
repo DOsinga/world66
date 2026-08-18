@@ -5,11 +5,15 @@ done:
 latitude: 44.6062
 loc_type: city
 longitude: 40.1041
-score: 6.02
+score: 4.115
 snippet: Adygea capital on the Belaya River, near Caucasus foothills and Bronze Age
   Maykop culture sites.
 title: Maykop
 type: location
+heritage: 2.951
+vibrancy: 1.372
+nature: 5.127
+off_the_beaten_track: 3.912
 ---
 
 Maykop is the capital of Adygea, a small republic in southern Russia nestled between the Caucasus foothills and the Kuban steppe. The city sits on the Belaya River at the northern edge of the mountains, and its name comes from the Adyghe word for "valley of apple trees" — the surrounding hills are still full of them.

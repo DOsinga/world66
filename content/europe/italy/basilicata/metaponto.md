@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Metaponto_Lido.jpg
 latitude: 40.374078
 loc_type: city
 longitude: 16.810096
-score: 7.34
+score: 5.828
 title: Metaponto
 snippet: Ionian coastal town on a Magna Graecia landscape where Pythagoras spent his
   final years.
 type: location
+heritage: 7.135
+vibrancy: 2.546
+nature: 4.716
+off_the_beaten_track: 3.682
 ---
 
 Metaponto is a small coastal town in [Basilicata](/europe/italy/basilicata) where the Ionian Sea meets one of the richest Greek colonial landscapes in Italy. Founded in the 7th century BC by Greek settlers, it was here that Pythagoras spent the last years of his life after fleeing Croton. The town's archaeological legacy is exceptional — layers of Magna Graecia, Carthaginian, and Roman occupation are all visible.

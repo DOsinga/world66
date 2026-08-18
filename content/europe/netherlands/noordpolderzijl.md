@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:20110805_Zielhoes_Noordpol
 latitude: 53.432069
 loc_type: city
 longitude: 6.582255
-score: 5.86
+score: 4.691
 snippet: Tiny Groningen harbour at a Wadden Sea sluice, with little more than boats
   and one old café
 title: Noordpolderzijl
 type: location
+heritage: 2.861
+vibrancy: 1.621
+nature: 6.052
+off_the_beaten_track: 3.997
 ---
 
 Noordpolderzijl is the smallest sea harbour in the Netherlands — a place so small it barely registers on a map, and all the more remarkable for it. There is just a landing stage for a handful of boats, a pumping station, and a single building: [*'t Zielhoes*](/europe/netherlands/noordpolderzijl/t_zielhoes) — an old café that doubles as the village itself.

@@ -6,11 +6,15 @@ done:
 latitude: 36.0397
 loc_type: city
 longitude: -114.9819
-score: 5.91
+score: 3.982
 snippet: Suburban city southeast of Las Vegas, with parks, trails, and a World War
   II magnesium-plant origin.
 title: Henderson
 type: location
+heritage: 2.04
+vibrancy: 3.942
+nature: 4.087
+off_the_beaten_track: 1.079
 ---
 
 Henderson is Nevada's second-largest city, sitting just southeast of Las Vegas with a very different personality. While the Strip glitters a few miles away, Henderson is quieter and more suburban — a city of parks, trails, and neighborhoods where people actually live.

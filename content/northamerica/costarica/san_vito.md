@@ -6,13 +6,17 @@ done:
 latitude: 8.8267
 loc_type: city
 longitude: -82.9735
-score: 7.44
+score: 5.567
 snippet: Southern Costa Rican highland town with Italian coffee roots and access to
   Wilson Botanical Gardens
 sources:
 - https://en.wikipedia.org/wiki/San_Vito,_Costa_Rica
 title: San Vito
 type: location
+heritage: 2.606
+vibrancy: 2.823
+nature: 7.265
+off_the_beaten_track: 3.818
 ---
 
 San Vito is a small town in the southern highlands of Costa Rica, about 1,000 meters above sea level in the Coto Brus valley. It was founded in the 1950s by Italian immigrant families who came to establish coffee plantations, and that heritage is still noticeable — you can find decent pasta and proper espresso here, which is unusual for this part of the world.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Coleman_Theater_in_Miami,_
 latitude: 36.8747
 loc_type: city
 longitude: -94.8774
-score: 5.51
+score: 4.081
 snippet: Northeastern Oklahoma Route 66 town with Indigenous history and several tribal
   headquarters in Ottawa County.
 title: Miami
 type: location
+heritage: 1.974
+vibrancy: 3.485
+nature: 4.642
+off_the_beaten_track: 1.479
 ---
 
 Miami — pronounced "My-AM-uh" by the locals, not like the Florida city — sits in the far northeast corner of Oklahoma, right on historic Route 66. With a population of around 14,000, it is one of the first Route 66 towns you hit when entering the state from the east, and it carries that roadside heritage proudly.

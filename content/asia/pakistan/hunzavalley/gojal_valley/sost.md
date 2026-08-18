@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Sost_Bazar.JPG
 latitude: 36.689719
 loc_type: city
 longitude: 74.820554
-score: 6.05
+score: 6.298
 snippet: Karakoram Highway border town in Gojal Valley, beneath glaciated peaks near
   Khunjerab Pass.
 title: Sost
 type: location
+heritage: 3.871
+vibrancy: 0.355
+nature: 7.567
+off_the_beaten_track: 7.193
 ---
 
 Sost is the last town in Pakistan on the Karakoram Highway before the Chinese border at the [Khunjerab Pass](/asia/pakistan/hunzavalley/gojal_valley/sost/khunjerab_pass) (4,693 metres). It sits in the Gojal Valley of Gilgit-Baltistan, a narrow settlement stretched along the road in a dramatic canyon landscape of rock and snow.

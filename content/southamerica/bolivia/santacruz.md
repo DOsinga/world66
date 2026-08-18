@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Alcald%C3%ADa_de_Santa_Cru
 latitude: -17.7834
 loc_type: city
 longitude: -63.1821
-score: 6.86
+score: 4.765
 title: Santa Cruz
 type: location
 snippet: Tropical Bolivian lowland city of ring roads, cattle country, and fast-growing
   Amazon-basin commerce.
+heritage: 4.249
+vibrancy: 4.997
+nature: 3.625
+off_the_beaten_track: 3.068
 ---
 
 Santa Cruz de la Sierra is Bolivia's largest city and its economic engine, a tropical metropolis that feels worlds apart from the highland capitals of [La Paz](/southamerica/bolivia/lapaz) and [Sucre](/southamerica/bolivia/sucre). Where those cities are cold and Andean, Santa Cruz is flat, hot, and green — a lowland city surrounded by cattle ranches, soybean fields, and the edge of the Amazon basin.

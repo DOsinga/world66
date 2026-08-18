@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Panorama_of_Locorotondo.jp
 latitude: 40.7556
 loc_type: city
 longitude: 17.3264
-score: 8.58
+score: 5.365
 snippet: Whitewashed Valle d'Itria hill town whose circular lanes overlook vineyards,
   olive groves, and trulli.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://www.atlasobscura.com/places/trullo-di-marziolla
 title: Locorotondo
 type: location
+heritage: 5.899
+vibrancy: 4.052
+nature: 5.815
+off_the_beaten_track: 2.102
 ---
 
 Locorotondo is one of the prettiest towns in the Valle d'Itria, a whitewashed knot of lanes set on a low hill above vineyards, olive groves, and trulli. The name means “round place”, and the old town still curls in a tidy loop of pale houses, little arches, stairways, and balconies bright with flowers.

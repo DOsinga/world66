@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Rue_des_Ch%C3%A2teaux,_Sio
 latitude: 46.231175
 loc_type: city
 longitude: 7.358879
-score: 8.29
+score: 6.147
 snippet: Swiss Rhône valley city marked by vineyard slopes and twin castle-topped
   hills above its centre.
 title: Sion
 type: location
+heritage: 6.242
+vibrancy: 5.576
+nature: 6.833
+off_the_beaten_track: 2.108
 ---
 
 Sion lies at the bottom of the Rhône valley in a landscape that feels almost Mediterranean despite its Swiss location. The valley is wide and flat-floored here, bordered by steep vineyard slopes and then by the high Alpine walls that rise above them; the city itself sits in brilliant sunshine for an improbable number of days per year, making it one of the driest and sunniest places in Switzerland. This combination of Alpine grandeur and almost southern light gives Sion a distinctive character among Swiss cities — it feels less buttoned-up, more exposed to its landscape.

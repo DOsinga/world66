@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Mazag%C3%B3n_(Huelva)_(Spa
 latitude: 37.1367
 loc_type: city
 longitude: -6.8278
-score: 7.3
+score: 3.931
 snippet: Low-key Andalusian beach resort near Doñana, with pine-backed sands and sandstone
   cliffs.
 title: Mazagón
 type: location
+heritage: 2.608
+vibrancy: 2.16
+nature: 4.987
+off_the_beaten_track: 3.346
 ---
 
 Mazagón is a low-key beach resort 16 km southeast of Huelva, less developed than its neighbour Matalascañas and all the better for it. The coastline here runs along the edge of the [Parque Nacional de Doñana](/europe/spain/andalucia/mazagon/donana_park), with long stretches of sand backed by pine woods.

@@ -2,13 +2,19 @@
 latitude: 49.0786
 loc_type: city
 longitude: -117.799
-snippet: Kootenay mountain town where gold-rush streets meet Red Mountain skiing and ridge trails
+snippet: Kootenay mountain town where gold-rush streets meet Red Mountain skiing and
+  ridge trails
 sources:
-  - https://en.wikivoyage.org/wiki/Rossland
-  - https://en.wikipedia.org/wiki/Rossland,_British_Columbia
-  - https://www.tourismrossland.com/
+- https://en.wikivoyage.org/wiki/Rossland
+- https://en.wikipedia.org/wiki/Rossland,_British_Columbia
+- https://www.tourismrossland.com/
 title: Rossland
 type: location
+score: 4.867
+heritage: 2.006
+vibrancy: 2.297
+nature: 6.364
+off_the_beaten_track: 3.866
 ---
 
 **Rossland** is a small mountain city in the West Kootenays, high above Trail and close to the United States border. It began as a gold-mining boom town in the 1890s, and the old streets still climb steeply past brick shops, mining-era buildings, and views into the surrounding ranges.

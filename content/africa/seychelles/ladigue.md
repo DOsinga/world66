@@ -16,7 +16,7 @@ quick_facts:
   Area: 10 km²
   Cars: Almost none
   Population: ~2,800
-score: 9.45
+score: 6.336
 snippet: Small Seychelles island of granite boulder beaches, bicycle lanes, and ox
   carts around La Passe.
 tip: La Digue has almost no cars — you get around by bicycle, and that's the joy of
@@ -25,6 +25,10 @@ tip: La Digue has almost no cars — you get around by bicycle, and that's the j
   roam freely. Ferries from Praslin are quick; from Mahé, longer.
 title: La Digue
 type: location
+heritage: 2.766
+vibrancy: 4.102
+nature: 7.839
+off_the_beaten_track: 5.13
 ---
 
 La Digue is the most seductive of the Seychelles islands — small enough to cross by bicycle in an hour, yet varied enough to fill several days without effort. It is the fourth largest of the granitic islands, measuring roughly five kilometres by three, but what it lacks in size it makes up for in beauty. Massive pink granite boulders tumble into turquoise sea, coconut palms line the roads, and ox-carts still share the paths with cyclists.

@@ -5,7 +5,7 @@ done:
 latitude: 51.069061
 loc_type: city
 longitude: -1.795413
-score: 8.23
+score: 6.421
 sources:
 - https://en.wikipedia.org/wiki/Salisbury
 - https://en.wikipedia.org/wiki/Salisbury_Cathedral
@@ -17,6 +17,10 @@ image: salisbury.jpg
 image_source: https://commons.wikimedia.org/wiki/File:View_across_water_meadows_to_Salisbury_Cathedral_-_geograph.org.uk_-_4097134.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Philip Halling
+heritage: 7.922
+vibrancy: 4.523
+nature: 3.121
+off_the_beaten_track: 1.758
 ---
 
 Salisbury is a compact cathedral city in Wiltshire where the medieval skyline still belongs entirely to the church. The spire of Salisbury Cathedral rises to 123 metres — the tallest in England — and is visible for miles across the surrounding chalk downland. On a clear day you can see it from Old Sarum, the Iron Age hillfort north of town where the original settlement stood before the city moved to its present site in the thirteenth century.

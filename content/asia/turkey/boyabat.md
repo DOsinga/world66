@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 41.4667
 longitude: 34.7667
-score: 7.08
+score: 5.154
 snippet: Inland Black Sea town below a cliff castle, with rice fields, tombs, and
   old market streets.
 sources:
@@ -16,6 +16,10 @@ image: boyabat.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Boyabat_Castle_Turkey_2023.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Muhsin Kadıoğlu
+heritage: 3.229
+vibrancy: 1.675
+nature: 6.291
+off_the_beaten_track: 5.563
 ---
 
 Boyabat sits inland from Sinop in the Gokirmak valley, a farm town watched over by a fortress on a sheer rock. It is not a polished tourist stop, but it has a strong sense of place: rice fields in the valley, brick and tile workshops, old houses below the castle, and market streets that still serve the villages around it.

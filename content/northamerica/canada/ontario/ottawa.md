@@ -15,7 +15,7 @@ quick_facts:
   Population: ~1 million
   Rideau Canal: World's largest skating rink
   Tulip Festival: A million blooms each May
-score: 8.02
+score: 6.5
 snippet: Canadian capital on the Ottawa River, mixing Parliament Hill, national museums,
   and canal-side winter life.
 tip: Ottawa is Canada's bilingual capital, sitting across the river from French-speaking
@@ -25,6 +25,10 @@ tip: Ottawa is Canada's bilingual capital, sitting across the river from French-
   festival.
 title: Ottawa
 type: location
+heritage: 6.336
+vibrancy: 6.612
+nature: 5.297
+off_the_beaten_track: 1.579
 ---
 
 Ottawa is Canada's capital, and one of the most underrated cities in North America. It is smaller and quieter than Toronto or Montreal, but it punches well above its weight: the seat of government, the country's best collection of national museums, and a setting of rivers, canals and parkland that makes the city itself a pleasure to walk through.

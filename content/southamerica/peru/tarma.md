@@ -4,16 +4,20 @@ type: location
 loc_type: city
 latitude: -11.4197
 longitude: -75.6908
-score: 6.7
+score: 4.096
 snippet: High Andean flower city with Inca ruins, caves, and pilgrimage villages nearby.
 sources:
-  - https://en.wikivoyage.org/wiki/Tarma
-  - https://en.wikipedia.org/wiki/Tarma
-  - https://www.wikidata.org/wiki/Q1759366
+- https://en.wikivoyage.org/wiki/Tarma
+- https://en.wikipedia.org/wiki/Tarma
+- https://www.wikidata.org/wiki/Q1759366
 image: tarma.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Tarma_Santa_Ana.jpg
 image_license: CC BY 3.0
 image_attribution: Tours Centro Peru
+heritage: 3.953
+vibrancy: 3.583
+nature: 4.618
+off_the_beaten_track: 4.662
 ---
 
 Tarma sits a little above 3,000 metres in the central Peruvian Andes, between the high sierra and the road down toward the cloud forest. It is known in Peru as the City of Flowers, and the name is not just tourist talk: the valley is green, fertile, and famous for floral displays around Easter and the September flower festival.

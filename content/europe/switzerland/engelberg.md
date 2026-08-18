@@ -2,7 +2,7 @@
 latitude: 46.82
 loc_type: city
 longitude: 8.407
-score: 8.08
+score: 6.663
 snippet: Alpine resort village below Titlis, known for monastery history, skiing,
   and high-mountain views.
 sources:
@@ -14,6 +14,10 @@ image: engelberg.jpg
 image_source: https://commons.wikimedia.org/wiki/File:.00_1061_F%C3%BCrenalp_(Engelberg).jpg
 image_license: CC BY-SA 4.0
 image_attribution: W. Bulach
+heritage: 4.038
+vibrancy: 5.366
+nature: 7.735
+off_the_beaten_track: 2.834
 ---
 
 Engelberg sits at the end of a valley south of [Lucerne](/europe/switzerland/lucerne), ringed by big Central Swiss mountains and watched over by its Benedictine abbey. The name means "mountain of angels", which sounds fanciful until the cloud lifts and the cliffs above the village suddenly appear.

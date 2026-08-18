@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: -36.4
 longitude: 148.6167
-score: 7.2
-snippet: Snowy Mountains lake town and year-round base for Kosciuszko skiing, biking, and high-country walks.
+score: 5.784
+snippet: Snowy Mountains lake town and year-round base for Kosciuszko skiing, biking,
+  and high-country walks.
 wikidata: Q1020373
 sources:
-  - https://en.wikivoyage.org/wiki/Jindabyne
-  - https://en.wikipedia.org/wiki/Jindabyne
-  - https://www.visitnsw.com/destinations/snowy-mountains/jindabyne-area/jindabyne
+- https://en.wikivoyage.org/wiki/Jindabyne
+- https://en.wikipedia.org/wiki/Jindabyne
+- https://www.visitnsw.com/destinations/snowy-mountains/jindabyne-area/jindabyne
+heritage: 3.2
+vibrancy: 3.956
+nature: 7.053
+off_the_beaten_track: 3.589
 ---
 
 Jindabyne sits on the shore of Lake Jindabyne, where the road from Canberra starts to feel properly alpine. It is not a grand mountain town, but it is the practical, lively base for the New South Wales Snowy Mountains: skis and boards in winter, bikes, fishing rods, hiking boots, and kayaks the rest of the year.

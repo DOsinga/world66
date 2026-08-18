@@ -2,13 +2,18 @@
 latitude: 44.1409
 loc_type: feature
 longitude: -71.6818
-score: 9.5
-snippet: Dramatic mountain pass in the White Mountains with the Flume Gorge, Echo Lake,
-  Cannon Mountain tramway, and a ski area — New Hampshire's most-visited state park.
+score: 5.72
+snippet: Dramatic mountain pass in the White Mountains with the Flume Gorge, Echo
+  Lake, Cannon Mountain tramway, and a ski area — New Hampshire's most-visited state
+  park.
 sources:
 - https://en.wikipedia.org/wiki/Franconia_Notch_State_Park
 title: Franconia Notch State Park
 type: location
+heritage: 1.996
+vibrancy: 1.317
+nature: 7.712
+off_the_beaten_track: 3.784
 ---
 
 Franconia Notch State Park is the crown jewel of the western White Mountains, a dramatic glacially-carved pass along I-93 about 12 miles south of Littleton. The park compresses an extraordinary range of scenery and activities into one long valley, making it easy to spend a full day moving between its attractions.

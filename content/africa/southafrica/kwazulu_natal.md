@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/143210395@N04/32223949625
 latitude: -28.503833
 loc_type: city
 longitude: 30.887501
-score: 8.61
+score: 6.049
 snippet: South African province from Indian Ocean beaches to Drakensberg peaks, rooted
   in Zulu history
 title: KwaZulu-Natal
 type: location
+heritage: 4.28
+vibrancy: 5.637
+nature: 6.652
+off_the_beaten_track: 4.687
 ---
 
 KwaZulu-Natal is South Africa's most geographically varied province, stretching from the warm Indian Ocean coast up through the [Natal Midlands](/africa/southafrica/kwazulu_natal/natal_midlands) to the high peaks of the [Drakensberg Mountains](/africa/southafrica/kwazulu_natal/drakensberg_mountains). It is also historically the heartland of the Zulu nation, and that history is present everywhere.

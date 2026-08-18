@@ -11,11 +11,15 @@ image_source: https://www.flickr.com/photos/46617817@N06/4973058825
 latitude: 22.2309
 loc_type: city
 longitude: 84.8679
-score: 5.58
+score: 4.464
 snippet: Odisha steel city on the Brahmani River, built around industry but surprisingly
   green and well planned.
 title: Rourkela
 type: location
+heritage: 5.1
+vibrancy: 3.972
+nature: 2.671
+off_the_beaten_track: 2.871
 ---
 
 Rourkela is Odisha's steel city, built in the late 1950s around one of India's largest and most modern integrated steel plants, a collaboration between India and Germany. Situated on the banks of the Brahmani River in Sundargarh district, it has grown into Odisha's second largest city with a population of around 500,000.

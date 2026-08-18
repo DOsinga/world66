@@ -11,9 +11,13 @@ loc_type: city
 longitude: 2.1803
 title: Rueil-Malmaison
 type: location
-score: 7.05
+score: 3.854
 snippet: Western Paris suburb on the Seine, known for Joséphine and Napoleon's Château
   de Malmaison.
+heritage: 4.677
+vibrancy: 2.872
+nature: 2.803
+off_the_beaten_track: 1.094
 ---
 
 Rueil-Malmaison is a wealthy commune in the western suburbs of Paris, on the banks of the Seine about 12 km from the city centre. For most visitors it is a day trip destination from Paris rather than a base, and the main reason to come is the Château de Malmaison — the home of Napoleon Bonaparte and Joséphine during the Consulate period, and the place where Joséphine lived until her death in 1814.

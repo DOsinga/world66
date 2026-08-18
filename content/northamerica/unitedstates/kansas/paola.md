@@ -5,11 +5,15 @@ done:
 latitude: 38.572332
 loc_type: city
 longitude: -94.878648
-score: 5.3
+score: 1.963
 snippet: Small Kansas county seat built around Park Square and a Romanesque Revival
   courthouse.
 title: Paola
 type: location
+heritage: 2.198
+vibrancy: 1.78
+nature: 2.053
+off_the_beaten_track: 1.9
 ---
 
 Paola is the county seat of Miami County, about 40 miles south of Kansas City. It's a small, historically preserved town built around [Park Square](/northamerica/unitedstates/kansas/paola/park_square), a leafy two-block green ringed by late 19th-century brick storefronts. The 1898 [Miami County Courthouse](/northamerica/unitedstates/kansas/paola/miami_county_courthouse), a striking Romanesque Revival building with a tall clock tower, anchors the south side of the square.

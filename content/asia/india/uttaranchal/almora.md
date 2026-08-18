@@ -5,7 +5,7 @@ loc_type: city
 latitude: 29.5942
 longitude: 79.6536
 wikidata: Q588817
-score: 7.1
+score: 6.194
 snippet: Kumaoni hill town of ridge-top bazaars, old temples, and long Himalayan views.
 sources:
 - https://en.wikivoyage.org/wiki/Almora
@@ -15,6 +15,10 @@ image: almora.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Almora_Uttarakhand_India_2013.jpg
 image_license: CC BY 2.0
 image_attribution: Travelling Slacker
+heritage: 5.285
+vibrancy: 5.481
+nature: 6.952
+off_the_beaten_track: 4.329
 ---
 
 *Asia > India > Uttaranchal > Almora*

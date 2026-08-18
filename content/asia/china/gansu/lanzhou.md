@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Lanzhou-rio-amarillo-baita
 latitude: 36.4744
 loc_type: city
 longitude: 103.7332
-score: 6.6
+score: 4.635
 snippet: Gansu capital in a Yellow River valley, serving as a Silk Road transport
   hub toward Xinjiang and Qinghai.
 title: Lanzhou
 type: location
+heritage: 4.578
+vibrancy: 4.619
+nature: 4.678
+off_the_beaten_track: 3.985
 ---
 
 *Asia > China > Lanzhou*

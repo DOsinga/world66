@@ -5,11 +5,15 @@ done:
 latitude: 38.292
 loc_type: city
 longitude: -122.458
-score: 8.04
+score: 5.4
 snippet: California wine county of redwoods, Pacific coast, and relaxed tasting rooms
   west of Napa.
 title: Sonoma
 type: location
+heritage: 4.861
+vibrancy: 4.966
+nature: 5.971
+off_the_beaten_track: 3.235
 ---
 
 Sonoma County is California wine country without the polish and price tag of neighbouring [Napa](/northamerica/unitedstates/california/northcoast/napa). The landscape rolls from the Pacific coast through redwood forests and into sun-drenched valleys planted with pinot noir and chardonnay. Small towns like Healdsburg, Sebastopol, and Guerneville each have their own character, and the tasting rooms tend to be friendlier and less crowded than what you will find across the hills to the east.

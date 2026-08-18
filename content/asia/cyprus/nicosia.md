@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Nicosia_01-2017_img14_View
 latitude: 35.17465
 loc_type: city
 longitude: 33.363878
-score: 7.93
+score: 6.1
 snippet: Divided Cypriot capital where Greek and Turkish quarters meet across the
   Green Line inside Venetian walls.
 title: Nicosia
 type: location
+heritage: 5.717
+vibrancy: 6.292
+nature: 4.163
+off_the_beaten_track: 1.631
 ---
 
 Nicosia — known in Greek as Levkosia and in Turkish as Lefkoşa — is still a divided city, the last divided capital in Europe. The [Green Line](/asia/cyprus/nicosia/green_line) of the UN buffer zone cuts across the old city, separating the Greek Cypriot south from the Turkish Cypriot north. What could be a depressing situation is in fact one of the most genuinely interesting urban experiences in the Mediterranean. You can walk through the checkpoint on [Ledra Street](/asia/cyprus/nicosia/ledra_street_shopp) with your passport and find yourself in a different city within fifty metres — different architecture, different language, different food, different money.

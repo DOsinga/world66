@@ -7,13 +7,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Wanning,_Hainan_-_01.JPG
 latitude: 18.8
 loc_type: city
 longitude: 110.4
-score: 7.1
+score: 5.015
 snippet: Hainan coastal city known for Riyue Bay surf breaks and Xinglong's transplanted
   Southeast Asian culture.
 sources:
 - https://en.wikivoyage.org/wiki/Wanning
 title: Wanning
 type: location
+heritage: 2.07
+vibrancy: 3.978
+nature: 5.851
+off_the_beaten_track: 1.438
 ---
 
 Wanning is the surfing capital of China — a claim that would have seemed absurd twenty years ago but is now essentially accurate. [Riyue Bay](/asia/china/hainanisland/wanning/riyue_bay) (Sun and Moon Bay) on the city's coast hosts the China Surf Open and is studded with surf clubs offering boards, lessons, and the kind of beach-shack atmosphere that Sanya spent years trying and failing to manufacture. The waves are modest by international standards but consistent, the water warm, and the crowd a mix of committed Chinese surfers and curious beginners.

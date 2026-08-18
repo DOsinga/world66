@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Valgerand.jpg
 latitude: 58.393349
 loc_type: city
 longitude: 24.364001
-score: 6.22
+score: 5.81
 snippet: Quiet beach village near Pärnu, named for its white sand backed by pine forest.
 sources:
 - https://en.wikipedia.org/wiki/Valgeranna
 - https://en.wikipedia.org/wiki/Audru_Polder%27s_Nature_Reserve
 title: Valgeranna
 type: location
+heritage: 4.533
+vibrancy: 1.515
+nature: 7.084
+off_the_beaten_track: 3.392
 ---
 
 **Valgeranna** is a quiet beach village on Estonia's west coast, about 8 km west of Pärnu along the shore of Pärnu Bay. The name means "white beach" in Estonian, and the description is accurate: roughly 500 metres of fine white sand backed by fragrant pine forest, with shallow, calm water that stays warm enough to swim in from June to August.

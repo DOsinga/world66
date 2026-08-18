@@ -10,7 +10,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Salt_Lake_Union_Pacific_Ra
 latitude: 40.75962
 loc_type: city
 longitude: -111.886797
-score: 7.84
+score: 6.951
 snippet: Utah capital shaped by Temple Square, a Wasatch Front grid, and quick access
   to canyon ski slopes.
 sources:
@@ -18,6 +18,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Salt_Lake_City
 title: Salt Lake City
 type: location
+heritage: 5.667
+vibrancy: 6.09
+nature: 7.832
+off_the_beaten_track: 2.291
 ---
 
 Salt Lake City is the capital of Utah and the world headquarters of the Church of Jesus Christ of Latter-day Saints, a fact that shapes almost everything about the place — its architecture, its grid, its culture, its laws, and the tension between that dominant religious presence and a growing, younger, increasingly diverse city pushing against it. [Temple Square](/northamerica/unitedstates/utah/saltlakecity/temple_square) and its extraordinary [Tabernacle](/northamerica/unitedstates/utah/saltlakecity/salt_lake_tabernacle) sit at the centre of downtown, surrounded by the [Family History Library](/northamerica/unitedstates/utah/saltlakecity/family_history_library), the [Church History Museum](/northamerica/unitedstates/utah/saltlakecity/church_history_museum), and the [Beehive House](/northamerica/unitedstates/utah/saltlakecity/thebeehivehouse) where Brigham Young lived.

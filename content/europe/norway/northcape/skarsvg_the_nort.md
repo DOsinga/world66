@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Nordkapp_Skarsv%C3%A5g.JPG
 latitude: 71.112765
 loc_type: city
 longitude: 25.825204
-score: 7.72
+score: 6.423
 snippet: Tiny Arctic fishing village on Magerøya, near the North Cape and the Kirkeporten
   rock arch.
 title: Skarsvåg
 type: location
+heritage: 1.433
+vibrancy: 0.94
+nature: 8.202
+off_the_beaten_track: 5.748
 ---
 
 Skarsvag bills itself as the northernmost fishing village in the world — a tiny cluster of red-and-white wooden houses tucked into a cove on Mageroya island, about 12 km east of the [North Cape](/europe/norway/northcape). A few dozen people live here year-round, fishing for cod and halibut through the short Arctic summer. The village sits at 71 degrees north, well above the tree line, in a landscape of bare rock and tundra.

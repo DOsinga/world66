@@ -4,18 +4,23 @@ type: location
 loc_type: feature
 latitude: 34.4868
 longitude: 126.2635
-score: 7.3
-snippet: Southwestern Korean island county known for sea-parting tides, painterly hills, and sunset islands
+score: 4.708
+snippet: Southwestern Korean island county known for sea-parting tides, painterly
+  hills, and sunset islands
 wikidata: Q485651
 sources:
-  - https://en.wikivoyage.org/wiki/Jindo
-  - https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=93802
-  - https://english.khs.go.kr/chaen/search/selectGeneralSearchDetail.do?mn=EN_02_02&sCcebCtcd=36&sCcebKdcd=15
-  - https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=104739
+- https://en.wikivoyage.org/wiki/Jindo
+- https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=93802
+- https://english.khs.go.kr/chaen/search/selectGeneralSearchDetail.do?mn=EN_02_02&sCcebCtcd=36&sCcebKdcd=15
+- https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=104739
 image: jindo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Jindo_Miracle_Sea_Road_Festival_100.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Piotrus
+heritage: 3.018
+vibrancy: 2.443
+nature: 5.824
+off_the_beaten_track: 4.826
 ---
 
 Jindo is an island county off the far southwest of [South Korea](/asia/southkorea), surrounded by tidal channels and smaller islets. It is best known for the [Jindo Sea Parting](/asia/southkorea/jindo/jindo_sea_parting), when the sea briefly retreats enough to expose a walkable route toward Modo Island. That event can feel half natural phenomenon, half village festival, and it gives Jindo a stronger identity than many quiet rural islands.

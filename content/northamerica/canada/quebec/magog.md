@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 45.2667
 longitude: -72.15
-score: 7.2
+score: 4.739
 snippet: Eastern Townships lake resort at the foot of Mont Orford, with cruises, marsh
   trails, and theatre
 sources:
@@ -14,6 +14,10 @@ image: magog.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Cherry_River_in_Magog_2.JPG
 image_license: CC BY 3.0
 image_attribution: Jean-Philippe Boulet
+heritage: 4.005
+vibrancy: 3.809
+nature: 5.505
+off_the_beaten_track: 3.011
 ---
 
 Magog is a small resort town in Quebec's Eastern Townships, set where the Magog River leaves long, narrow Lake Memphremagog. It has enough old brick, waterside paths, cafes, and summer theatre to feel like more than a lakefront suburb, and the wooded bulk of Mont Orford gives the town a proper mountain backdrop.

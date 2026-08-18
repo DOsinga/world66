@@ -15,7 +15,7 @@ quick_facts:
   Hida Beef: Rivals Kobe
   Old Town: Edo-era, preserved
   Sake Breweries: Marked by cedar balls
-score: 9.44
+score: 5.787
 snippet: Mountain castle town in Gifu Prefecture, known for Edo-period merchant streets
   and morning markets.
 tip: Takayama, in the mountains of Hida, kept its Edo-era merchant streets intact
@@ -24,6 +24,10 @@ tip: Takayama, in the mountains of Hida, kept its Edo-era merchant streets intac
   beef, a rival to Kobe. The twice-yearly festival floats are among Japan's finest.
 title: Takayama
 type: location
+heritage: 6.083
+vibrancy: 5.719
+nature: 4.0
+off_the_beaten_track: 1.691
 ---
 
 Takayama (often called Hida-Takayama) is a beautifully preserved castle town deep in the mountains of Gifu Prefecture, sometimes called "Little Kyoto" for its Edo-period merchant streets and traditional atmosphere. It deserves the comparison — the old town is among the best-preserved in Japan.

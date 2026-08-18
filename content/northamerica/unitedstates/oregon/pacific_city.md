@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Haystack_Rock,_Cape_Kiwand
 latitude: 45.2022
 loc_type: city
 longitude: -123.9627
-score: 7.1
+score: 5.281
 snippet: Small Oregon coast village with Cape Kiwanda dunes, dory boats, and a huge
   offshore sea stack
 sources:
@@ -17,6 +17,10 @@ sources:
 title: Pacific City
 type: location
 wikidata: Q1746597
+heritage: 2.169
+vibrancy: 2.6
+nature: 6.93
+off_the_beaten_track: 3.011
 ---
 
 Pacific City is a small beach village on the north [Oregon](/northamerica/unitedstates/oregon) coast, backed by the pale sandstone headland of [Cape Kiwanda](/northamerica/unitedstates/oregon/pacific_city/cape_kiwanda) and fronted by the Pacific. It is not polished in the way Cannon Beach is polished, and that is part of the appeal: fishing dories still launch through the surf, surfers wait on the shoulder of the cape, and a huge Haystack Rock sits offshore like a blunt exclamation point.

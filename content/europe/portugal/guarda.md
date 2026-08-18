@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 40.53638888888889
 longitude: -7.2683333333333335
-score: 7.0
+score: 6.099
 snippet: Portugal's highest city, a granite old town beside the Serra da Estrela.
 wikidata: Q750594
 sources:
@@ -17,6 +17,10 @@ image: guarda.jpg
 image_source: https://commons.wikimedia.org/wiki/File:S%C3%A9_Catedral,_Guarda,_Portugal.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Alexandrina Pinto
+heritage: 7.346
+vibrancy: 3.324
+nature: 5.206
+off_the_beaten_track: 3.45
 ---
 
 Guarda is Portugal's highest city, a granite place on the edge of the Serra da Estrela where the air feels sharper than it does down in the valleys. It is not as famous as the mountain villages nearby, but the old centre has enough weight for a proper stop: cathedral towers, walled streets, viewpoints, and traces of a once-important Jewish quarter.

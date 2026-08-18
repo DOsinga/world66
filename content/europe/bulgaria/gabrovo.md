@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bulgaria-Gabrovo_04.jpg
 latitude: 42.8667
 loc_type: city
 longitude: 25.3333
-score: 7.15
+score: 4.856
 snippet: Balkan foothill city known for humour, craft museums, and Bulgarian National
   Revival architecture.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Etar_Architectural-Ethnographic_Complex
 title: Gabrovo
 type: location
+heritage: 5.354
+vibrancy: 2.183
+nature: 5.257
+off_the_beaten_track: 4.116
 ---
 
 Gabrovo sits in the Yantra valley at the foot of the central Balkan Mountains, a practical industrial city with a surprisingly playful self-image. Bulgarians know it as the capital of humour and satire, a reputation built on jokes about Gabrovo thrift and sharpened by the city's excellent [House of Humour and Satire](/europe/bulgaria/gabrovo/house_of_humour_and_satire).

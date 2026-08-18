@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Maratea03.jpg
 latitude: 39.993103
 loc_type: city
 longitude: 15.723124
-score: 8.19
+score: 6.344
 snippet: Basilicata coastal town squeezed between Tyrrhenian cliffs, mountain churches,
   and cave-dotted coves
 title: Maratea
 type: location
+heritage: 6.294
+vibrancy: 2.292
+nature: 7.165
+off_the_beaten_track: 5.802
 ---
 
 Maratea is the best [Basilicata](/europe/italy/basilicata) has to offer coastal travellers. Squeezed onto a narrow strip between mountains and the Tyrrhenian Sea, it is the region's only stretch of coastline — and it makes the most of it.

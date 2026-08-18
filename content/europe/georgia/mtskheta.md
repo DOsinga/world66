@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:View_to_Mtskheta_from_Jvar
 latitude: 41.8463
 loc_type: city
 longitude: 44.7196
-score: 8.47
+score: 7.309
 title: Mtskheta
 type: location
 snippet: Ancient Georgian capital and Orthodox spiritual centre, anchored by UNESCO-listed
   churches above the Mtkvari.
+heritage: 9.312
+vibrancy: 3.704
+nature: 5.087
+off_the_beaten_track: 2.682
 ---
 
 Mtskheta was the capital of the ancient kingdom of Kartli and served as Georgia's religious and political centre for centuries before Tbilisi took over that role in the 5th century. It remains the spiritual home of the Georgian Orthodox Church — the Catholicos-Patriarch is still enthroned here — and the entire historic core is a UNESCO World Heritage Site.

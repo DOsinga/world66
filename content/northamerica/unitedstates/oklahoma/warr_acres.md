@@ -5,11 +5,15 @@ done:
 latitude: 35.522557
 loc_type: city
 longitude: -97.618935
-score: 4.74
+score: 2.066
 snippet: Small Oklahoma City suburb along Route 66, incorporated as its own residential
   community.
 title: Warr Acres
 type: location
+heritage: 1.924
+vibrancy: 2.013
+nature: 2.203
+off_the_beaten_track: 1.048
 ---
 
 Warr Acres is a small city enclosed within the [Oklahoma City](/northamerica/unitedstates/oklahoma/oklahomacity) metropolitan area, sitting along Route 66 in Oklahoma County. It is essentially a suburb, but one with its own identity — a residential community that incorporated in the 1940s to avoid annexation by Oklahoma City. For Route 66 travellers, it is a pass-through point on the historic highway's path through the metro area.

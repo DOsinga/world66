@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Atacames_Beach_Scene_(6232
 latitude: 0.7971
 loc_type: city
 longitude: -79.8791
-score: 7.34
+score: 5.423
 snippet: Lively northern Ecuador beach town known for its long grey-sand shore and
   beachfront marimba bars.
 title: Atacames
 type: location
+heritage: 2.153
+vibrancy: 4.072
+nature: 6.438
+off_the_beaten_track: 5.209
 ---
 
 Atacames is a lively beach town on Ecuador's northern Pacific coast, spread along a wide stretch of fine grey sand. This is where Ecuadorians from the highlands come to let loose — a beachside playground of thatched-roof bars, ceviche stalls, and thumping music rather than a resort in any polished sense. Foreign visitors are the exception rather than the norm.

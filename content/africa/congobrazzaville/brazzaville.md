@@ -14,7 +14,7 @@ quick_facts:
   Founded: '1880'
   Population: ~2.4 million
   Rare Twins: Closest capitals bar Vatican–Rome
-score: 6.09
+score: 4.35
 snippet: Congo River capital facing Kinshasa across Malebo Pool, known for Sainte-Anne
   basilica and Poto-Poto.
 tip: Brazzaville is the calmer of the two capitals staring at each other across the
@@ -23,6 +23,10 @@ tip: Brazzaville is the calmer of the two capitals staring at each other across 
   is essential, and a ferry — when running — links the two capitals in minutes.
 title: Brazzaville
 type: location
+heritage: 3.879
+vibrancy: 4.517
+nature: 3.671
+off_the_beaten_track: 5.55
 ---
 
 Brazzaville sits on the western shore of Malebo Pool, the vast widening of the Congo River, directly across the water from Kinshasa. It is one of only two national capitals in the world that face each other across a river. Compared to its enormous neighbour, Brazzaville is smaller, quieter, and considerably more relaxed.

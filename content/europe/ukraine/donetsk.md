@@ -5,7 +5,7 @@ done:
 latitude: 48.0159
 loc_type: city
 longitude: 37.8029
-score: 1.84
+score: 4.504
 snippet: Eastern Ukrainian industrial city built on coal and steel, originally founded
   by Welshman John Hughes.
 sources:
@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Donetsk_Metro
 title: Donetsk
 type: location
+heritage: 4.458
+vibrancy: 4.556
+nature: 3.61
+off_the_beaten_track: 5.834
 ---
 
 > **Warning:** Since 2014, Donetsk has been under the control of Russian-backed separatist forces and, since 2022, under full Russian military occupation. The city is not accessible to ordinary travellers. All information on this page reflects the city as it was before the conflict.

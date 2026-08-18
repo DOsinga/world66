@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:NouakchottNationalMuseum2.
 latitude: 15.765809
 loc_type: city
 longitude: -7.96854
-score: 4.32
+score: 5.167
 snippet: Medieval Ghana Empire archaeological site, preserving stone ruins from a
   trans-Saharan trade capital
 title: Koumbi Saleh
 type: location
+heritage: 6.109
+vibrancy: 1.636
+nature: 3.328
+off_the_beaten_track: 6.62
 ---
 
 Koumbi Saleh is what remains of the once-flourishing capital of the Kingdom of Ghana — not the modern West African nation, but the medieval empire that controlled the trans-Saharan trade in gold, salt, and slaves from roughly the 6th to the 13th century. At its height the city may have held tens of thousands of people, and the wealth flowing through it funded elaborate stone buildings and a royal court of considerable sophistication.

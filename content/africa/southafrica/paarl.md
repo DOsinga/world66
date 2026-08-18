@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Paarl_Rock.jpg
 latitude: -33.734
 loc_type: city
 longitude: 18.9726
-score: 7.54
+score: 4.354
 title: Paarl
 type: location
 snippet: Cape Winelands town beneath a granite outcrop, with Cape Dutch streets and
   long wine heritage.
+heritage: 3.963
+vibrancy: 4.225
+nature: 4.687
+off_the_beaten_track: 1.841
 ---
 
 Paarl is the largest town in the Cape Winelands and one of the oldest European settlements in South Africa. Fifty kilometres northeast of Cape Town, it sits on the banks of the Berg River beneath an enormous granite outcrop that glints like a pearl when the sun hits it right — hence the name. The town's wide [Main Street](/africa/southafrica/paarl/main_street), lined with Cape Dutch gables and old oak trees, stretches for over ten kilometres and is one of the longest in the country.

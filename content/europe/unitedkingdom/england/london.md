@@ -17,7 +17,7 @@ quick_facts:
   Black Cabs: Drivers pass 'the Knowledge'
   Population: 9 million
   The Underground: Opened 1863
-score: 9.81
+score: 9.542
 snippet: Vast Thames-side world city of layered neighbourhoods, Roman traces, West
   End theatre, markets, and Georgian pubs.
 tip: Tap a contactless card or phone on buses and the Tube — no paper ticket needed,
@@ -26,6 +26,10 @@ tip: Tap a contactless card or phone on buses and the Tube — no paper ticket n
   glare, and mind the gap.
 title: London
 type: location
+heritage: 8.55
+vibrancy: 9.99
+nature: 5.914
+off_the_beaten_track: 1.742
 ---
 
 London is one of the great world cities — a place where you can eat Ethiopian in Brixton, see a West End show, walk through a Roman fort, and end the evening in a Georgian pub all in a single day. It is vast, expensive, and occasionally exhausting, but it repays effort in a way that few cities can match.

@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: 46.6219
 longitude: 16.5386
-score: 6.4
-snippet: Western Hungarian spa town with thermal pools, forest railway, and quiet Kerka valley countryside.
+score: 3.293
+snippet: Western Hungarian spa town with thermal pools, forest railway, and quiet
+  Kerka valley countryside.
 sources:
-  - https://en.wikivoyage.org/wiki/Lenti
-  - https://en.wikipedia.org/wiki/Lenti
+- https://en.wikivoyage.org/wiki/Lenti
+- https://en.wikipedia.org/wiki/Lenti
+heritage: 3.722
+vibrancy: 1.792
+nature: 3.366
+off_the_beaten_track: 2.01
 ---
 
 Lenti is a small town in far western Hungary, close to Slovenia and the wooded Kerka valley. It is not a place to cross the country for, but it makes a good slow day if you are already in Zala County or moving between western Hungary and Slovenia.

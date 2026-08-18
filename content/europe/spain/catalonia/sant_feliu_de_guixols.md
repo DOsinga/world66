@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Sant_Feliu_des_de_Sant_Elm
 latitude: 41.783883
 loc_type: city
 longitude: 3.028319
-score: 8.29
+score: 5.425
 sources:
 - https://en.wikipedia.org/wiki/Sant_Feliu_de_Gu%C3%ADxols
 title: Sant Feliu de Guíxols
 snippet: Old Costa Brava port town with cork-trade roots, a working harbour, and a
   Romanesque monastery
 type: location
+heritage: 4.556
+vibrancy: 5.321
+nature: 5.695
+off_the_beaten_track: 2.577
 ---
 
 Sant Feliu de Guíxols is a handsome old port town on the Costa Brava, midway between Barcelona and the French border. It has a more lived-in feel than some of its glitzier neighbours — the economy was built on cork and fishing before tourism arrived, and the old town still has working-harbour character.

@@ -2,13 +2,18 @@
 latitude: 50.633
 loc_type: city
 longitude: 6.033
-score: 6.74
-snippet: German-speaking Belgian capital on the edge of the High Fens, with forests, museums, and a hill town centre.
+score: 3.29
+snippet: German-speaking Belgian capital on the edge of the High Fens, with forests,
+  museums, and a hill town centre.
 sources:
 - https://en.wikivoyage.org/wiki/Eupen
 - https://en.wikipedia.org/wiki/Eupen
 title: Eupen
 type: location
+heritage: 3.887
+vibrancy: 1.842
+nature: 2.98
+off_the_beaten_track: 3.02
 ---
 
 Eupen is Belgium's German-speaking capital, tucked into the eastern edge of Wallonia near Aachen and the High Fens. It is not grand in the way [Bruges](/europe/belgium/bruges) or [Ghent](/europe/belgium/ghent) is grand, but it has a useful oddness: Prussian history, Belgian administration, a baroque market church, contemporary art, and forested hills all in one small town.

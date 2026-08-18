@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Palazzuolo_sul_Senio_-_Lun
 latitude: 44.1125
 loc_type: city
 longitude: 11.5477
-score: 7.48
+score: 5.292
 snippet: Tuscan-Romagnan border village in the Senio valley, surrounded by wooded
   hills, clear streams, and trails.
 tags:
 - mugello
 title: Palazzuolo sul Senio
 type: location
+heritage: 5.018
+vibrancy: 1.993
+nature: 6.076
+off_the_beaten_track: 3.868
 ---
 
 Palazzuolo sul Senio is a small village in the Senio valley on the Tuscan-Romagnan border, awarded the title of "Italian Ideal Village" by Airone magazine and the EU. It holds ISO 14001 environmental certification, which says something about the balance between the village and its surroundings.

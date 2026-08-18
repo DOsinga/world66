@@ -2,12 +2,17 @@
 latitude: 49.4429
 loc_type: city
 longitude: 6.6349
-score: 0.45
-snippet: Saarland town between Trier and Saarbrücken, with medieval church towers and Westwall remains.
+score: 3.441
+snippet: Saarland town between Trier and Saarbrücken, with medieval church towers
+  and Westwall remains.
 sources:
-  - https://en.wikivoyage.org/wiki/Merzig
+- https://en.wikivoyage.org/wiki/Merzig
 title: Merzig
 type: location
+heritage: 3.81
+vibrancy: 2.013
+nature: 3.697
+off_the_beaten_track: 2.756
 ---
 
 Merzig is a small Saarland town on the railway and river corridor between [Saarbrücken](/europe/germany/saarland/saarbrucken) and [Trier](/europe/germany/rhinelandpalatinate/trier). It is quiet, practical, and easy to underestimate, but it has a few sights that make a short stop worthwhile.

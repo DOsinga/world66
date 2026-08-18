@@ -4,15 +4,20 @@ type: location
 loc_type: city
 latitude: -39.5917
 longitude: 174.2831
-score: 6.1
-snippet: South Taranaki service town with an exceptional private museum and landmark water tower.
+score: 3.513
+snippet: South Taranaki service town with an exceptional private museum and landmark
+  water tower.
 sources:
-  - https://en.wikivoyage.org/wiki/Hawera
-  - https://www.newzealand.com/us/hawera/
-  - https://www.newzealand.com/us/plan/business/tawhiti-museum/
-  - https://www.southtaranaki.com/our-community/hawera-water-tower
-  - https://www.elvismuseum.co.nz/
+- https://en.wikivoyage.org/wiki/Hawera
+- https://www.newzealand.com/us/hawera/
+- https://www.newzealand.com/us/plan/business/tawhiti-museum/
+- https://www.southtaranaki.com/our-community/hawera-water-tower
+- https://www.elvismuseum.co.nz/
 wikidata: Q998452
+heritage: 2.307
+vibrancy: 1.548
+nature: 4.468
+off_the_beaten_track: 2.995
 ---
 
 Hawera is a South Taranaki service town that passes the spare-day test mostly because of one excellent anchor: [Tawhiti Museum](/australiaandpacific/newzealand/north_island/taranaki/hawera/tawhiti_museum). The town itself is modest dairy-country New Zealand, but the museum's handmade historical scenes and Traders & Whalers boat ride are strong enough to pull travellers down from New Plymouth or up from Whanganui.

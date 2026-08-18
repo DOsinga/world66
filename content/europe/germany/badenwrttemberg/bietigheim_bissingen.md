@@ -2,11 +2,15 @@
 latitude: 48.949324
 loc_type: city
 longitude: 9.136423
-score: 7.1
+score: 3.892
 snippet: Twin town north of Ludwigsburg with a well-preserved timber-framed old town
   and a famous trompe-l'oeil wall painting.
 title: Bietigheim-Bissingen
 type: location
+heritage: 4.631
+vibrancy: 3.09
+nature: 2.623
+off_the_beaten_track: 1.185
 ---
 
 Bietigheim-Bissingen is a twin town a few minutes north of Ludwigsburg by S-Bahn, formed in 1975 when the two old settlements of Bietigheim and Bissingen were merged. Most visitors come for Bietigheim's old town, a tidy ensemble of timber-framed houses, fountains and a Renaissance town hall strung along a single sloping main street.

@@ -4,10 +4,15 @@ type: location
 loc_type: city
 latitude: 30.6335
 longitude: -96.3406
-score: 6.7
-snippet: Twin Texas college cities defined by Texas A&M, Aggie traditions, presidential history, and game-day energy.
+score: 4.25
+snippet: Twin Texas college cities defined by Texas A&M, Aggie traditions, presidential
+  history, and game-day energy.
 sources:
-  - https://en.wikivoyage.org/wiki/Bryan-College_Station
+- https://en.wikivoyage.org/wiki/Bryan-College_Station
+heritage: 3.046
+vibrancy: 4.739
+nature: 2.654
+off_the_beaten_track: 0.818
 ---
 
 Bryan and College Station sit side by side in the Brazos Valley, tied together by Texas A&M University and the culture around it. Locals often call the area Aggieland, and that is not just branding: the campus, football weekends, traditions, and student crowds shape the feel of the place.

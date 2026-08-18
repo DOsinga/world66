@@ -12,7 +12,11 @@ snippet: East-coast New Caledonian town and lagoon base, close to Tiéti reef an
   valleys.
 title: Poindimié
 type: location
-score: 7.3
+score: 5.62
+heritage: 3.245
+vibrancy: 1.722
+nature: 6.898
+off_the_beaten_track: 5.939
 ---
 
 Poindimié is the largest town on Grande Terre's east coast, roughly halfway between Nouméa and [Hienghène](/australiaandpacific/newcaledonia/hienghene) on the long, slow RT3 coastal road. It is essentially a one-street settlement strung along the lagoon, with the central [marché communal](/australiaandpacific/newcaledonia/poindimie/marche_communal) doubling as the social heart of the surrounding tribal communities.

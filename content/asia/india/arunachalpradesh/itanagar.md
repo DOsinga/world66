@@ -5,7 +5,7 @@ done:
 latitude: 27.097966
 loc_type: city
 longitude: 93.623729
-score: 6.3
+score: 5.305
 snippet: Capital of Arunachal Pradesh in the eastern Himalayan foothills, named for
   the brick ruins of Ita Fort.
 sources:
@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Ita_Fort
 title: Itanagar
 type: location
+heritage: 5.263
+vibrancy: 2.945
+nature: 5.992
+off_the_beaten_track: 4.58
 ---
 
 Itanagar is the capital of Arunachal Pradesh, India's wildest and least-visited northeastern state. The city sits in the foothills of the eastern Himalayas, surrounded by subtropical forest and low mountains. It is small, unhurried, and genuinely off the tourist circuit.

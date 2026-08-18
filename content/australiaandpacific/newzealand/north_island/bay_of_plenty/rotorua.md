@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:City_of_Rotorua.jpg
 latitude: -38.136073
 loc_type: city
 longitude: 176.252543
-score: 9.07
+score: 6.473
 snippet: North Island geothermal city known for geysers, bubbling mud pools, hot springs,
   and Te Arawa Maori culture.
 title: Rotorua
 type: location
+heritage: 4.599
+vibrancy: 5.442
+nature: 7.404
+off_the_beaten_track: 2.328
 ---
 
 Rotorua sits in the middle of the North Island's volcanic plateau, and you will know you have arrived before you see it — the smell of sulphur hangs in the air like a permanent reminder that the ground here is not entirely stable. Geysers erupt on schedule, mud pools bubble at the roadside, and hot springs steam in suburban back gardens. It is one of the most geothermally active places on earth, and the landscape is genuinely otherworldly.

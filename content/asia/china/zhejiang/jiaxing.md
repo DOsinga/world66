@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Views_from_Haogu_Pagoda.jp
 latitude: 30.7667
 loc_type: city
 longitude: 120.75
-score: 6.41
+score: 3.695
 snippet: Jiangnan canal city north of Hangzhou, known for South Lake and pork-filled
   zongzi
 sources:
 - https://en.wikivoyage.org/wiki/Jiaxing
 title: Jiaxing
 type: location
+heritage: 2.956
+vibrancy: 3.65
+nature: 3.813
+off_the_beaten_track: 0.975
 ---
 
 Jiaxing sits in the flat, watery plain north of Hangzhou, in the heart of the Jiangnan region that for centuries fed and clothed the Chinese empire with its silk, rice, and fish. The city itself is understated — less than an hour from Shanghai by high-speed train, it functions as a secondary stop on a circuit that usually begins elsewhere — but it rewards attention. [South Lake](/asia/china/zhejiang/jiaxing/south_lake) is the city's centrepiece, with a pavilion set on a mid-lake island that is one of the more pleasant classical garden views in northern Zhejiang. Jiaxing is also famous throughout China for its *zongzi*, glutinous rice parcels wrapped in bamboo or lotus leaves and filled with pork belly, a food so associated with the city that chain shops selling them have spread across the country.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:N%C3%A4k%C3%B6linja_Punkah
 latitude: 61.756102
 loc_type: city
 longitude: 29.389238
-score: 7.93
+score: 5.787
 snippet: Finnish lake district town built around a pine-covered esker ridge with water
   on both sides.
 title: Punkaharju
 type: location
+heritage: 2.796
+vibrancy: 1.349
+nature: 7.768
+off_the_beaten_track: 3.941
 ---
 
 Punkaharju is some 35 kilometres from [Savonlinna](/europe/finland/savonlinna), built around one of the most distinctive landscapes in Finland: a long, narrow esker — the [Punkaharju Ridge](/europe/finland/punkaharju/punkaharju_ridge) — that snakes through the lakes for several kilometres with water on both sides. Pines grow straight out of the gravel, the old road runs along the crest, and the whole thing has been protected since 1843.

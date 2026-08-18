@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 23.2403
 longitude: 87.8674
-score: 6.32
+score: 5.042
 snippet: Historic West Bengal city of Raj palaces, terracotta temples, and busy Grand
   Trunk Road life.
 sources:
@@ -14,6 +14,10 @@ image: bardhaman.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Burdwan_Arcade.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Bkd9197
+heritage: 6.365
+vibrancy: 3.259
+nature: 3.024
+off_the_beaten_track: 2.656
 ---
 
 Bardhaman, often still called Burdwan, is a large plains city in central [West Bengal](/asia/india/westbengal), about two hours by train from Kolkata. It was once the seat of the powerful Bardhaman Raj family, and that princely past still gives the city its best sights: ceremonial gateways, palace grounds, old tanks, temple compounds, and a university campus inside the former Rajbati.

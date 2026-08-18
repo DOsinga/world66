@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 3.1833
 longitude: 98.5167
-score: 7.4
+score: 5.112
 snippet: Cool Karo highland town below Sibayak and Sinabung volcanoes, between Medan
   and Lake Toba
 sources:
@@ -15,6 +15,10 @@ image: berastagi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Berastagi_viewed_from_Gundaling_Hill_(Panorama)_01.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Christian Advs Sltg
+heritage: 4.845
+vibrancy: 4.073
+nature: 5.87
+off_the_beaten_track: 3.953
 ---
 
 Berastagi is a Karo highland town in North Sumatra, about two to three hours from [Medan](/asia/indonesia/sumatra/medan) on the road toward [Lake Toba](/asia/indonesia/sumatra/laketoba). Its appeal is simple and strong: cooler air, vegetable farms, fruit markets, and two volcanoes - Sibayak and Sinabung - rising close enough to dominate the skyline.

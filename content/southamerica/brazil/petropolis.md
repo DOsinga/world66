@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:0003_Vistas_de_Petr%C3%B3p
 latitude: -22.388
 loc_type: city
 longitude: -43.175259
-score: 8.04
+score: 5.249
 snippet: Mountain city above Rio de Janeiro, shaped by Brazil's imperial summer court
   and palace-lined avenues.
 title: Petrópolis
 type: location
+heritage: 6.184
+vibrancy: 4.289
+nature: 4.304
+off_the_beaten_track: 2.73
 ---
 
 Petrópolis sits in the Serra da Estrela mountains about 65 kilometres north of [Rio de Janeiro](/southamerica/brazil/riodejaneiro), at around 800 metres above sea level. The cooler altitude made it the summer capital of Brazil from the days of Emperor Pedro II until 1962 — when the heat in Rio became unbearable, the government simply moved uphill. Today it is a city of over 300,000 people, but the imperial-era centre retains a distinct character: tree-lined avenues, canals running alongside the main streets, and a scattering of 19th-century buildings.

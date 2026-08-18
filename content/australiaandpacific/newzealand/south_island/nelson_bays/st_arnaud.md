@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -41.8033
 longitude: 172.845
-score: 7.5
+score: 5.503
 snippet: Small alpine village on Lake Rotoiti at the entrance to Nelson Lakes National
   Park.
 sources:
@@ -16,6 +16,10 @@ image: st_arnaud.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kerr_Bay_and_St_Arnaud.jpg
 image_license: Public domain
 image_attribution: Pseudopanax at English Wikipedia
+heritage: 3.835
+vibrancy: 1.688
+nature: 6.904
+off_the_beaten_track: 4.372
 ---
 
 St Arnaud is a small alpine village on the northern shore of Lake Rotoiti, where the road enters [Nelson Lakes National Park](/australiaandpacific/newzealand/south_island/nelson_bays/nelson_lakes_national_park). It is quiet, practical, and surrounded by beech forest and mountains; the lake is only a short walk from the village centre.

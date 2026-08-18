@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 46.8392
 longitude: 16.8511
-score: 6.7
-snippet: Western Hungarian county town with Göcsej folk culture, oil-history museums, and wooded hill views.
+score: 3.651
+snippet: Western Hungarian county town with Göcsej folk culture, oil-history museums,
+  and wooded hill views.
 sources:
 - https://en.wikivoyage.org/wiki/Zalaegerszeg
 - https://en.wikipedia.org/wiki/Zalaegerszeg
 - https://www.wikidata.org/wiki/Q171112
+heritage: 4.317
+vibrancy: 2.676
+nature: 3.301
+off_the_beaten_track: 1.756
 ---
 
 Zalaegerszeg is a quiet western Hungarian county town where the best reasons to stop are local rather than grand. It sits in the Zala hills, away from the obvious Budapest-Balaton route, and its strongest thread is Göcsej, the surrounding folk region of timber houses, small farms, and wooded valleys.

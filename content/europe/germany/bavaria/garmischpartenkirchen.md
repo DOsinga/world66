@@ -2,11 +2,15 @@
 latitude: 47.4928
 loc_type: city
 longitude: 11.0957
-score: 8.76
+score: 6.286
 snippet: Bavarian alpine resort below the Zugspitze, split between painted Partenkirchen
   and ski-focused Garmisch
 title: Garmisch-Partenkirchen
 type: location
+heritage: 5.387
+vibrancy: 4.604
+nature: 7.46
+off_the_beaten_track: 2.143
 ---
 
 Garmisch-Partenkirchen is Germany's premier alpine resort, sitting at the foot of the Zugspitze — at 2,962 metres, the highest mountain in Germany — in the Bavarian Alps close to the Austrian border. The town was created by the forced merger of two distinct settlements for the 1936 Winter Olympics, and the two halves retain different characters: Partenkirchen has the older Bavarian painted-facade streetscape, while Garmisch is more modern and oriented toward the ski industry.

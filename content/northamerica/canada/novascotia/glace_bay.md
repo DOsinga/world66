@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 46.1969
 longitude: -59.9569
-score: 6.6
+score: 4.989
 snippet: Cape Breton coal town where mining history and early transatlantic wireless
   meet the Atlantic.
 sources:
@@ -14,6 +14,10 @@ image: glace_bay.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Glace_Bay_(6617645951).jpg
 image_license: CC BY 2.0
 image_attribution: Vlad Litvinov from Toronto
+heritage: 3.626
+vibrancy: 1.878
+nature: 6.196
+off_the_beaten_track: 3.338
 ---
 
 Glace Bay is a working Cape Breton town with a deeper story than its plain streets first suggest. Coal shaped the place for generations, and the Atlantic cliffs at nearby Table Head put it on the map again when Marconi used the coast for early wireless communication across the ocean.

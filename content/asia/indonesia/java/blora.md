@@ -2,13 +2,18 @@
 title: Blora
 type: location
 loc_type: city
-latitude: -6.9700
-longitude: 111.4100
-score: 6.3
-snippet: Central Java teak town with limestone caves, Samin culture, and Pramoedya Ananta Toer connections.
+latitude: -6.97
+longitude: 111.41
+score: 4.211
+snippet: Central Java teak town with limestone caves, Samin culture, and Pramoedya
+  Ananta Toer connections.
 sources:
-  - https://en.wikivoyage.org/wiki/Blora
-  - https://en.wikipedia.org/wiki/Blora_Regency
+- https://en.wikivoyage.org/wiki/Blora
+- https://en.wikipedia.org/wiki/Blora_Regency
+heritage: 2.512
+vibrancy: 2.308
+nature: 5.412
+off_the_beaten_track: 2.532
 ---
 
 Blora is a regency town on the eastern side of Central Java, surrounded by teak forest, limestone hills, and farming country. It is not a polished tourist stop, but it has a distinct local identity and enough offbeat anchors to reward travellers already moving between Semarang, Solo, Rembang, or Cepu.

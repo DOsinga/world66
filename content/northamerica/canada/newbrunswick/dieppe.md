@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:DieppeWatertower.JPG
 latitude: 46.09668
 loc_type: city
 longitude: -64.735735
-score: 6.13
+score: 4.366
 title: Dieppe
 type: location
 snippet: Dieppe is a majority-Acadian New Brunswick city adjoining Moncton on the
   Petitcodiac river.
+heritage: 3.493
+vibrancy: 3.459
+nature: 5.096
+off_the_beaten_track: 1.989
 ---
 
 Dieppe is a predominantly francophone city of around 28,000 people directly adjoining **Moncton** on the east side of the Petitcodiac river, part of the Greater Moncton urban area in southeastern New Brunswick. It is the most populous majority-Acadian community in the province, and the signs, schools and church-belled skyline all reflect that — though practically, it forms a single continuous city with anglophone Moncton and most visitors will not notice crossing from one to the other.

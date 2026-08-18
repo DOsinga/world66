@@ -5,7 +5,7 @@ done:
 latitude: 41.3083
 loc_type: city
 longitude: -72.9279
-score: 7.56
+score: 4.066
 snippet: Connecticut university city where Yale museums, Gothic courtyards, and serious
   pizza shape the downtown
 sources:
@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Yale_University
 title: New Haven
 type: location
+heritage: 4.194
+vibrancy: 4.048
+nature: 3.573
+off_the_beaten_track: 1.153
 ---
 
 New Haven is a city defined by Yale University, but it has a character that goes well beyond the campus gates. The university gives the city world-class museums, a lively arts scene, and some genuinely extraordinary architecture, while the surrounding neighbourhoods contribute some of the best pizza in the United States and a gritty urban energy that keeps things real.

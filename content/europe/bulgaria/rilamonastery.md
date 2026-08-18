@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Rila_Monastery,_view_to_th
 latitude: 42.133299
 loc_type: feature
 longitude: 23.340187
-score: 8.81
+score: 6.873
 snippet: Rila Mountains monastery with National Revival frescoes, forested courtyards,
   and Bulgaria's patron saint at its heart.
 title: Rila Monastery
 type: location
+heritage: 8.363
+vibrancy: 2.419
+nature: 5.677
+off_the_beaten_track: 3.357
 ---
 
 Rila Monastery is the largest and most visited monastery in Bulgaria, and one of the most important cultural sites in the country. It sits in a deep valley in the Rila Mountains, about 120 km south of [Sofia](/europe/bulgaria/sofia), surrounded by forest and peaks rising to over 2,000 metres.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 47.5644
 longitude: -53.5492
-score: 6.4
+score: 5.033
 snippet: Trinity Bay outport with an unforgettable name, fishing heritage, boat tours,
   and a lively waterfront brewery.
 wikidata: Q953629
@@ -18,6 +18,10 @@ image: dildo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Dildo,_Newfoundland.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Eric Harrison
+heritage: 2.161
+vibrancy: 1.655
+nature: 6.315
+off_the_beaten_track: 4.868
 ---
 
 Dildo is a small outport on Trinity Bay, about an hour west of [St. John's](/northamerica/canada/newfoundland/stjohns), and it knows exactly why many travellers first stop the car. The name gets the laugh, but the town has done something useful with the attention: it has turned a pretty harbour, fishing history, and a proud local joke into a real day-trip destination.

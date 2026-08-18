@@ -5,11 +5,15 @@ done:
 latitude: 1.0978
 loc_type: city
 longitude: 36.6985
-score: 6.15
+score: 5.693
 snippet: Highland town in Samburu country, beside a wildlife sanctuary and known for
   its camel derby.
 title: Maralal
 type: location
+heritage: 3.316
+vibrancy: 2.154
+nature: 6.626
+off_the_beaten_track: 7.203
 ---
 
 Maralal is a small highland town north of Nyahururu, set in attractive country at around 1900 metres — cool enough to be a relief after the lowland heat. It sits on the edge of [Maralal National Sanctuary](/africa/kenya/northernkenya/maralal/maralal_national_sanctuary), a patch of bush that brings elephant, zebra, and impala into town. The surrounding area is Samburu country; you'll see herders in traditional dress around the [market](/africa/kenya/northernkenya/maralal/samburu_market) and on the roads out of town.

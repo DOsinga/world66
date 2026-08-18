@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Biskra_1.JPG
 latitude: 34.8484
 loc_type: city
 longitude: 5.7286
-score: 6.43
+score: 5.046
 title: Biskra
 type: location
 snippet: Saharan gateway city where the Tell Atlas breaks into date palms and open
   desert.
+heritage: 4.649
+vibrancy: 2.158
+nature: 5.85
+off_the_beaten_track: 6.119
 ---
 
 Biskra sits right at the line where the Tell Atlas gives way to the Sahara, and you can feel the transition. To the north, green mountains; to the south, palm groves and then open desert. This is Algeria's "gateway to the Sahara," a phrase that for once actually means something -- the climate, the light, and the landscape all change dramatically as you arrive.

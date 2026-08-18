@@ -2,7 +2,7 @@
 latitude: 43.88
 loc_type: feature
 longitude: 7.63
-score: 6.2
+score: 4.839
 snippet: Western Ligurian valley near Ventimiglia, with olive terraces, limestone
   gorges, and medieval hill villages.
 title: Nervia Valley
@@ -11,6 +11,10 @@ image: nerviavalley.jpg
 image_source: https://commons.wikimedia.org/wiki/File:The_Valley_of_the_Nervia_with_Dolceacqua_-_Claude_Monet,_1884.jpg
 image_license: Public domain
 image_attribution: Claude Monet
+heritage: 3.962
+vibrancy: 4.093
+nature: 5.523
+off_the_beaten_track: 2.253
 ---
 
 The Nervia Valley runs north from the coast near Ventimiglia into the mountains of western Liguria, close to the French border. The river gives the valley its name and character, carving through limestone gorges and terraced hillsides planted with olive trees and vines before reaching the sea. It is a quiet, largely unfashionable corner of the Italian Riviera — most visitors shoot past on the motorway — but the villages that climb its slopes reward those who turn off.

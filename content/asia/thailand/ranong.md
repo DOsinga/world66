@@ -2,12 +2,17 @@
 latitude: 9.9619
 loc_type: city
 longitude: 98.6389
-score: 7.1
-snippet: Rainy Thai-Andaman border town of hot springs, mangroves, Burmese influence, and island boats.
+score: 3.897
+snippet: Rainy Thai-Andaman border town of hot springs, mangroves, Burmese influence,
+  and island boats.
 sources:
-  - https://en.wikivoyage.org/wiki/Ranong
+- https://en.wikivoyage.org/wiki/Ranong
 title: Ranong
 type: location
+heritage: 1.984
+vibrancy: 2.068
+nature: 4.768
+off_the_beaten_track: 4.17
 ---
 
 Ranong is a small town on Thailand's northern Andaman coast, close to the Myanmar border and wetter than almost anywhere else in the country. It is not polished, and it is often treated as a transit point for boats to [Koh Phayam](/asia/thailand/koh_phayam), but that sells it short.

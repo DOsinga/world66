@@ -5,7 +5,7 @@ loc_type: city
 latitude: 36.3484
 longitude: 138.597
 wikidata: Q1012064
-score: 8.0
+score: 4.859
 snippet: Highland resort town below Mount Asama, with forest villas, cool summers,
   and old missionary history.
 sources:
@@ -19,6 +19,10 @@ image: karuizawa.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Fknb02s3872.jpg
 image_license: CC BY 2.5
 image_attribution: 663highland
+heritage: 5.056
+vibrancy: 4.798
+nature: 5.018
+off_the_beaten_track: 3.768
 ---
 
 Karuizawa is a cool highland resort at the foot of Mount Asama, close enough to [Tokyo](/asia/japan/tokyo) for a fast escape but far enough in mood to feel like a different Japan. It grew from a Nakasendo post town into a summer refuge for missionaries, diplomats, writers, and wealthy Tokyo families who wanted cedar shade instead of city heat.

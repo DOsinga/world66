@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -35.117
 longitude: 139.267
-score: 6.6
+score: 3.495
 snippet: Murray River town with paddle-steamer history, open-range wildlife, and easy
   riverfront escapes from Adelaide.
 wikidata: Q1641083
@@ -17,6 +17,10 @@ image: murray_bridge.jpg
 image_source: https://commons.wikimedia.org/wiki/File:MurrayBridge3.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Mattinbgn
+heritage: 2.654
+vibrancy: 2.175
+nature: 4.293
+off_the_beaten_track: 1.489
 ---
 
 Murray Bridge is the main river town southeast of [Adelaide](/australiaandpacific/australia/southaustralia/adelaide), where the old road and rail crossings pin the city to the Murray. It is not a grand town, but it has a clear river identity and a few anchors that make it more than a fuel stop on the freeway.

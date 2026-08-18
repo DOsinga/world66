@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Freudenstadt_vom_Friedrich
 latitude: 48.4638
 loc_type: city
 longitude: 8.4112
-score: 7.45
+score: 5.183
 snippet: Black Forest spa town built around Germany's largest enclosed market square
   and Renaissance arcades.
 title: Freudenstadt
 type: location
+heritage: 4.643
+vibrancy: 3.023
+nature: 6.066
+off_the_beaten_track: 3.116
 ---
 
 Freudenstadt sits at around 730 metres in the Northern Black Forest, and its name — "city of joy" — was chosen by Duke Frederick I of Württemberg when he founded the town in 1599. The centrepiece is the [Marktplatz](/europe/germany/badenwrttemberg/freudenstadt/marktplatz), at nearly five hectares the largest enclosed market square in Germany, ringed by Renaissance arcades and anchored by a Lutheran church whose two wings meet at a right angle — a curiosity of Protestant architecture that dates to the same founding moment as the square itself.

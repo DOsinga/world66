@@ -5,11 +5,15 @@ done:
 latitude: 52.104
 loc_type: city
 longitude: 9.3562
-score: 8.11
+score: 5.347
 snippet: Weserbergland town of the Pied Piper legend, lined with ornate Weser Renaissance
   facades.
 title: Hameln
 type: location
+heritage: 6.805
+vibrancy: 3.344
+nature: 3.269
+off_the_beaten_track: 2.4
 ---
 
 Hameln — Hamelin to the English-speaking world — is the town of the Pied Piper legend, situated about 50 km southwest of [Hannover](/europe/germany/lowersaxony/hannover) in the hilly Weserbergland along the river Weser.

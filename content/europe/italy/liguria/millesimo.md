@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Millesimo-IMG_0907.JPG
 latitude: 44.367536
 loc_type: city
 longitude: 8.201746
-score: 7.07
+score: 5.586
 snippet: Medieval Val Bormida town dominated by hilltop castle ruins and old fortified
   streets
 tags:
 - rivieradellepalme
 title: Millesimo
 type: location
+heritage: 7.218
+vibrancy: 2.997
+nature: 3.659
+off_the_beaten_track: 2.946
 ---
 
 The main town in the upper Val Bormida, on the right branch of the Bormida river from which it takes its name. Millesimo partly retains its medieval aspect and is dominated by the ruins of a hilltop castle. Already inhabited in the Roman era, the town first appeared in tenth-century diplomas but later went into decline following frequent Saracen raids. In 1206 special privileges granted by the Del Carretto family led to an economic revival: the settlement was fortified and ringed with walls. It subsequently passed to Asti in 1260, the Visconti of Milan in the fifteenth century, and Spanish rule in 1659. The Savoy took possession on two occasions, in 1713 and 1736.

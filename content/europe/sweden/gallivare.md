@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:G%C3%A4llivare,_Sweden.JPG
 latitude: 67.1333
 loc_type: city
 longitude: 20.6667
-score: 7.37
+score: 4.636
 title: Gallivare
 type: location
 snippet: Swedish Lapland mining town above the Arctic Circle, used as a base for Dundret
   and forest country.
+heritage: 3.065
+vibrancy: 1.897
+nature: 5.887
+off_the_beaten_track: 3.681
 ---
 
 Gällivare is a mining town in Swedish Lapland, about 100 km north of the Arctic Circle, sitting atop one of Europe's most important iron ore deposits. The [Malmberget mine](/europe/sweden/gallivare/malmberget_mine) is the dominant fact of life here, and the company town character — orderly streets, functional buildings — reflects that history. Yet the town has a genuine charm and serves as an excellent base for exploring the surrounding wilderness.

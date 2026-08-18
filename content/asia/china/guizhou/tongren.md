@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Night_Scenery_of_Tongren_2
 latitude: 27.7233
 loc_type: city
 longitude: 109.1885
-score: 6.58
+score: 5.117
 snippet: Northeastern Guizhou city used as the main gateway to Mount Fanjing’s wild
   ridge country.
 sources:
 - https://en.wikivoyage.org/wiki/Tongren_(Guizhou)
 title: Tongren
 type: location
+heritage: 6.008
+vibrancy: 3.068
+nature: 4.721
+off_the_beaten_track: 4.756
 ---
 
 Tongren is the city in northeastern Guizhou from which most people approach Mount Fanjing (see /asia/china/guizhou/mount_fanjing), the province's highest peak and a UNESCO World Heritage Site. The city itself is a prefecture-level centre with a decent range of hotels and transport connections, positioned where the plateau drops toward Hunan province — the landscape changes noticeably as you come in from the west, the karst giving way to higher, wilder ridge country.

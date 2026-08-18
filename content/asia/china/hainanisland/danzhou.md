@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Entrance_of_Dongpo_Academy
 latitude: 19.51
 loc_type: city
 longitude: 109.58
-score: 6.48
+score: 3.814
 snippet: Northwest Hainan city with a distinct dialect and Su Dongpo's exile memorial
   at Dongpo Academy.
 sources:
 - https://en.wikivoyage.org/wiki/Danzhou
 title: Danzhou
 type: location
+heritage: 2.414
+vibrancy: 2.452
+nature: 4.727
+off_the_beaten_track: 3.147
 ---
 
 Danzhou is the third-largest urban centre on Hainan after Haikou and Sanya, a sprawling prefecture-level city on the northwest coast that receives almost no foreign visitors and sees this as entirely natural. Its dialect — Min Nan with a local inflection — is distinct enough from the Haikou standard that it functions almost as a regional marker, and the city has an ingrained sense of self that owes nothing to the resort economy.

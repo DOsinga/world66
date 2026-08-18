@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:SZ-manzini-zufahrt.jpg
 latitude: -26.497644
 loc_type: city
 longitude: 31.375082
-score: 6.21
+score: 5.753
 snippet: Eswatini commercial city and market hub, busier and grittier than nearby
   Mbabane.
 title: Manzini
 type: location
+heritage: 4.923
+vibrancy: 3.071
+nature: 6.831
+off_the_beaten_track: 5.369
 ---
 
 Manzini is Eswatini's largest city and its commercial and industrial hub, though it has not been the capital since the British moved the administrative centre to [Mbabane](/africa/swaziland/mbabane) after the Anglo-Boer War. It has more bustle and grit than Mbabane, and visitors tend to pass through rather than linger.

@@ -5,7 +5,7 @@ loc_type: city
 latitude: 60.137
 longitude: -1.275
 wikidata: Q1014090
-score: 7.0
+score: 4.931
 snippet: Former Shetland capital with a ruined castle, Shetland Bus history, and island
   roads.
 sources:
@@ -18,6 +18,10 @@ image: scalloway.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Scalloway_Castle_and_the_East_Voe_of_Scalloway_-_geograph.org.uk_-_5889807.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Stuart Taylor
+heritage: 4.48
+vibrancy: 1.953
+nature: 5.744
+off_the_beaten_track: 5.968
 ---
 
 *Europe > United Kingdom > Scotland > Shetland > Scalloway*

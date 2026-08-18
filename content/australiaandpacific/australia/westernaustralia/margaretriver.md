@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Margaret_River.jpg
 latitude: -33.955
 loc_type: city
 longitude: 115.075
-score: 7.36
+score: 6.544
 snippet: Western Australian wine town where surf beaches, limestone caves, and cellar
   doors sit close together.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://exploreparks.dbca.wa.gov.au/park/leeuwin-naturaliste-national-park
 title: Margaret River
 type: location
+heritage: 5.081
+vibrancy: 4.784
+nature: 7.831
+off_the_beaten_track: 2.87
 ---
 
 Margaret River is the best known name in Western Australia's South West: a small inland town, a serious wine region, and a rugged surf coast rolled into one. The town itself sits among eucalypt forest about three hours south of [Perth](/australiaandpacific/australia/westernaustralia/perth), but the real appeal spreads west to the Indian Ocean and along the Cape Naturaliste-Cape Leeuwin coast.

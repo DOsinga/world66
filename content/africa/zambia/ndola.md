@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ndola01.jpg
 latitude: -12.9693
 loc_type: city
 longitude: 28.6366
-score: 5.67
+score: 3.782
 snippet: Copperbelt capital near the Congolese border, shaped by mining, railways,
   and regional commerce.
 title: Ndola
 type: location
+heritage: 3.731
+vibrancy: 3.46
+nature: 4.19
+off_the_beaten_track: 4.55
 ---
 
 Ndola is the capital of [Zambia](/africa/zambia)'s Copperbelt, tucked into the crook of the country against the Congolese border. It is the second-largest city in Zambia and the main stop between [Lusaka](/africa/zambia/lusaka) and Kitwe. The economy runs on copper — the mines have been here since the colonial era, and copper products are everywhere in the markets.

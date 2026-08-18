@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Black_Dragon_%E9%BB%91%E9%
 latitude: 26.859587
 loc_type: city
 longitude: 100.22498
-score: 9.17
+score: 5.322
 sources:
 - https://en.wikipedia.org/wiki/Lijiang
 - https://en.wikipedia.org/wiki/Old_Town_of_Lijiang
@@ -17,6 +17,10 @@ title: Lijiang
 type: location
 snippet: Northwestern Yunnan city where a Naxi old town sits below the rising Tibetan
   plateau.
+heritage: 5.12
+vibrancy: 4.596
+nature: 6.028
+off_the_beaten_track: 3.777
 ---
 
 Lijiang sits in the northwest corner of Yunnan Province at 2,400 metres, where the Tibetan plateau begins to rise and three of Asia's great rivers — the Yangtze, the Mekong, and the Salween — flow in near-parallel canyons just a few dozen kilometres apart. The city divides into two very different worlds: the ancient cobblestoned old town of Dayan, a UNESCO World Heritage Site since 1997, and the sprawling modern city that has grown around it. Arrive with this distinction in mind and Lijiang rewards you enormously; conflate the two and you may wonder what all the fuss is about.

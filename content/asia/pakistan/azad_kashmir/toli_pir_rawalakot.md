@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Toli_Peer16.jpg
 latitude: 33.861799
 loc_type: city
 longitude: 73.828321
-score: 6.59
+score: 6.337
 snippet: High Azad Kashmir hill station above Rawalakot, known for alpine meadows
   and wide valley views.
 sources:
@@ -18,6 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Rawalakot
 title: Toli Pir
 type: location
+heritage: 1.427
+vibrancy: 0.971
+nature: 8.063
+off_the_beaten_track: 5.763
 ---
 
 Toli Pir is a hill station about 30 kilometres from [Rawalakot](/asia/pakistan/azad_kashmir/toli_pir_rawalakot/rawalakot_bazaar) in Azad Kashmir, reached by a winding mountain road that takes around 45 minutes. At roughly 3,000 metres, the [summit](/asia/pakistan/azad_kashmir/toli_pir_rawalakot/toli_pir_summit) sits above the treeline and offers sweeping views across the Kashmir valleys — on a clear day you can see range after range fading into the distance toward the Line of Control and Indian-administered Kashmir beyond.

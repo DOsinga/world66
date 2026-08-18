@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bennington_Battle_Monument
 latitude: 42.8781
 loc_type: city
 longitude: -73.1968
-score: 7.31
+score: 4.262
 snippet: Southern Vermont town with revolutionary history, a tall stone monument,
   and hills rising toward two state lines.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://www.bennington.edu/robert-frost-stone-house-museum
 title: Bennington
 type: location
+heritage: 3.773
+vibrancy: 3.08
+nature: 5.007
+off_the_beaten_track: 1.944
 ---
 
 Bennington is southern Vermont with a revolutionary streak: old houses, a tall stone monument, a compact downtown, and hills rising toward both the Green Mountains and the New York line. It is less polished than Manchester and less bohemian than Brattleboro, which is part of its appeal.

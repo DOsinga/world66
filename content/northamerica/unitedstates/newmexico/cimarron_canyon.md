@@ -2,11 +2,15 @@
 latitude: 36.528
 loc_type: feature
 longitude: -105.073
-score: 7.6
+score: 5.416
 snippet: A narrow, river-carved canyon on US-64 with gold-medal trout water, canyon-wall
   hiking, and a storied Santa Fe Trail town at its eastern end.
 title: Cimarron Canyon State Park
 type: location
+heritage: 2.057
+vibrancy: 1.391
+nature: 7.296
+off_the_beaten_track: 3.599
 ---
 
 Cimarron Canyon State Park runs for about twelve miles along the Cimarron River on US-64, roughly 30 miles southeast of Angel Fire. The highway descends from the high valley through a dramatic slot of red and grey rock, with palisades of columnar basalt rising several hundred feet on both sides. The river below is one of New Mexico's finest wild trout streams — Gold Medal water under state designations — and fly-fishing for brown and rainbow trout draws visitors from across the region from spring through autumn.

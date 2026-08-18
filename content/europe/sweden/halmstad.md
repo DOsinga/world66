@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 56.6667
 longitude: 12.85
-score: 7.3
-snippet: Halland coast city of sandy beaches, Danish-era history, golf, and public art.
+score: 4.99
+snippet: Halland coast city of sandy beaches, Danish-era history, golf, and public
+  art.
 sources:
-  - https://en.wikivoyage.org/wiki/Halmstad
-  - https://visitsweden.com/where-to-go/southern-sweden/halland/
-  - https://www.destinationhalmstad.se/en/experience/art/art-city-halmstad
+- https://en.wikivoyage.org/wiki/Halmstad
+- https://visitsweden.com/where-to-go/southern-sweden/halland/
+- https://www.destinationhalmstad.se/en/experience/art/art-city-halmstad
+heritage: 3.527
+vibrancy: 3.972
+nature: 5.815
+off_the_beaten_track: 1.39
 ---
 
 Halmstad is Halland's main coastal city, set where the Nissan River meets Sweden's west coast. In summer it behaves like a beach town, with Tylosand pulling crowds from across the country. The rest of the year, the city is quieter but still useful: a compact centre, Danish-era history, golf courses, and a surprisingly strong art identity.

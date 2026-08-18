@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:France_NA_19_Tulle_01.jpg
 latitude: 45.2678
 loc_type: city
 longitude: 1.7706
-score: 6.9
+score: 3.418
 snippet: Corrèze prefecture folded into a steep river valley, known for lace, accordions,
   and a quiet old centre.
 sources:
@@ -19,6 +19,10 @@ tags:
 - limousin
 title: Tulle
 type: location
+heritage: 3.915
+vibrancy: 3.022
+nature: 2.365
+off_the_beaten_track: 1.375
 ---
 
 Tulle is the capital of Corrèze, but it feels less like an administrative centre than a long, narrow town squeezed into the valley of the Corrèze river. The streets climb sharply from the water, stone houses lean into the slope, and the old quarter still has the slightly workaday feel of a place that was never polished for tourists.

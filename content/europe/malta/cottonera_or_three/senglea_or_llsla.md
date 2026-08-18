@@ -9,10 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Fortificaci%C3%B3n_de_Seng
 latitude: 35.8875
 loc_type: city
 longitude: 14.5167
-score: 8.23
+score: 5.758
 snippet: Tiny Maltese harbour city on a narrow Grand Harbour peninsula facing Valletta.
 title: Senglea
 type: location
+heritage: 7.36
+vibrancy: 2.847
+nature: 3.953
+off_the_beaten_track: 2.576
 ---
 
 Senglea — known in Maltese as L-Isla — is the smallest of the Three Cities on the Grand Harbour, directly across the water from [Valletta](/europe/malta/valletta). Planned on a tight grid pattern in 1551 by Grand Master Claude de la Sengle, it occupies a narrow peninsula that juts into the harbour, giving it water views on three sides.

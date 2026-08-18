@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Alcazar_de_segovia_-_vistr
 latitude: 40.9481
 loc_type: city
 longitude: -4.1172
-score: 8.98
+score: 6.671
 snippet: Walled Castilian city where a Roman aqueduct strides into the old centre
   below the Alcázar
 title: Segovia
 type: location
+heritage: 8.305
+vibrancy: 4.548
+nature: 3.708
+off_the_beaten_track: 2.038
 ---
 
 Segovia is one of the most rewarding day trips from [Madrid](/europe/spain/centralspain/madrid), a compact walled city perched on a rocky promontory about 90 kilometres northwest of the capital. Its Roman aqueduct — 28 metres high, built from 20,000 granite blocks without mortar — is one of the best-preserved Roman structures anywhere in Europe, and the sight of it marching across the Plaza del Azoguejo is genuinely astonishing.

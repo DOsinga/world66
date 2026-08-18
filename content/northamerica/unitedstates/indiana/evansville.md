@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:EvansvilleSkyline.jpg
 latitude: 37.970495
 loc_type: city
 longitude: -87.571564
-score: 6.02
+score: 2.914
 snippet: Ohio River city in southwestern Indiana, with riverfront architecture and
   the nearby Angel Mounds site.
 title: Evansville
 type: location
+heritage: 2.557
+vibrancy: 3.071
+nature: 2.439
+off_the_beaten_track: 1.125
 ---
 
 Evansville is the third-largest city in Indiana, sitting on the Ohio River in the south-western corner of the state near the borders with Kentucky and Illinois. The river gave the city its early importance as a shipping and manufacturing hub, and the [Ohio River Waterfront](/northamerica/unitedstates/indiana/evansville/ohio_river_waterfront) remains one of its more attractive features, with the restored [McCurdy Hotel](/northamerica/unitedstates/indiana/evansville/mccurdy_hotel) anchoring the riverfront historic district.

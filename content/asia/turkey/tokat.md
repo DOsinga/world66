@@ -2,12 +2,17 @@
 latitude: 40.3167
 loc_type: city
 longitude: 36.55
-score: 7.0
-snippet: Black Sea hinterland city of castle rock, Ottoman mansions, mosques, and caravanserai lanes
+score: 5.403
+snippet: Black Sea hinterland city of castle rock, Ottoman mansions, mosques, and
+  caravanserai lanes
 sources:
 - https://en.wikivoyage.org/wiki/Tokat
 title: Tokat
 type: location
+heritage: 6.713
+vibrancy: 3.711
+nature: 3.208
+off_the_beaten_track: 3.876
 ---
 
 Tokat lies in a fertile valley south of the Black Sea mountains, far enough from the coast to feel like inland Anatolia. The city has not been polished for tourism, which is part of why it works. Old mosques, Ottoman houses, caravanserai courtyards, and a castle crag sit in the middle of an active provincial city.

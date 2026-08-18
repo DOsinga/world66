@@ -4,7 +4,7 @@ done:
 latitude: 2.26472
 loc_type: feature
 longitude: 31.896723
-score: 8.58
+score: 5.789
 snippet: Ugandan national park where the Nile squeezes through Murchison Falls before
   widening toward Lake Albert
 title: Murchison Falls National Park
@@ -13,6 +13,10 @@ image: murchison_falls_national_park.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Murchison_Falls_-_by_Boschlech.jpg
 image_license: Public domain
 image_attribution: Boschlech
+heritage: 1.25
+vibrancy: 1.264
+nature: 7.208
+off_the_beaten_track: 5.785
 ---
 
 Murchison Falls is Uganda's largest national park and one of the finest wildlife destinations in East Africa. The Nile flows through the centre of the park, and the stretch between the falls and the delta where the river enters Lake Albert is rich with hippos, crocodiles, elephants, giraffes, buffalo and a long list of bird species. A boat trip upstream toward the falls is the best way to see it all.

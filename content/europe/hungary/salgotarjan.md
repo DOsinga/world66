@@ -5,11 +5,15 @@ done:
 latitude: 48.096068
 loc_type: city
 longitude: 19.800564
-score: 6.08
+score: 3.821
 snippet: Northern Hungarian county capital in forested hills near the Slovak border
   and ruined hilltop castles.
 title: Salgotarjan
 type: location
+heritage: 3.617
+vibrancy: 3.142
+nature: 4.39
+off_the_beaten_track: 1.652
 ---
 
 Salgotarjan is the capital of Nógrád County in northern Hungary, sitting close to the Slovak border in a valley surrounded by forested hills. The town was once an industrial centre known for coal mining and glassmaking; much of that industry has gone, leaving a slightly faded but characterful provincial city. The story is well told at the [Hungarian Mining Museum](/europe/hungary/salgotarjan/mining_museum), which preserves a working section of the old underground workings.

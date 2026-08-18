@@ -5,7 +5,7 @@ done:
 latitude: 33.09082
 loc_type: city
 longitude: 75.32639
-score: 7.3
+score: 5.841
 snippet: Jammu and Kashmir hill station on a pine-ringed plateau above the Chenab
   valley.
 sources:
@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Sudh_Mahadev
 title: Patnitop
 type: location
+heritage: 3.653
+vibrancy: 2.254
+nature: 7.242
+off_the_beaten_track: 5.937
 ---
 
 Patnitop is a hill station in the Udhampur district of Jammu & Kashmir, perched at 2,024 metres on the Patnitop plateau in the Shivalik range. It sits directly on the Jammu–Srinagar National Highway (NH44), about 110 km from Jammu — close enough to serve as a summer escape from the plains heat, remote enough to feel genuinely quiet on weekdays. The plateau is open meadow ringed by dense pine and deodar forest, with the Chenab valley dropping away to the south.

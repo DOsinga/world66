@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 43.755
 longitude: -71.3964
-score: 6.8
+score: 4.99
 snippet: Lakes Region town with a mountaintop estate, loon sanctuary, and old village
   store.
 sources:
@@ -17,6 +17,10 @@ image: moultonborough.jpg
 image_source: https://commons.wikimedia.org/wiki/File:MoultonboroughNH_SwallowBoathouse.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Magicpiano
+heritage: 1.956
+vibrancy: 2.173
+nature: 6.685
+off_the_beaten_track: 2.638
 ---
 
 Moultonborough sits on the north side of Lake Winnipesaukee, quieter than the busier resort towns around the lake but with several strong reasons to stop. Its best-known sight is Castle in the Clouds, a mountaintop estate with views, trails, gardens, and a house tour.

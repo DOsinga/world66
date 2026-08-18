@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Jamestown_Church_1_-_Stier
 latitude: 37.208918
 loc_type: city
 longitude: -76.7783
-score: 7.65
+score: 5.983
 title: Jamestown
 snippet: Virginia historic settlement where English America began, preserved through
   archaeology and living-history exhibits.
 type: location
+heritage: 7.486
+vibrancy: 4.003
+nature: 3.548
+off_the_beaten_track: 2.239
 ---
 
 Jamestown is where English America began. Founded in 1607, it was the first permanent English settlement on the continent and the site of the first representative assembly in the New World. Today the original island is [Historic Jamestowne](/northamerica/unitedstates/virginia/jamestown/historic_jamestowne), where ongoing archaeological excavations have uncovered the foundations of the 1607 fort and thousands of artefacts from the colony's earliest — and most desperate — years.

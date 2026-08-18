@@ -15,7 +15,7 @@ quick_facts:
   Grand Mosque: Holds 40,000 worshippers
   Louvre Abu Dhabi: Under a vast silver dome
   Population: ~1.5 million
-score: 8.48
+score: 6.0
 snippet: United Arab Emirates capital on a Gulf island, with federal institutions
   and Bani Yas roots.
 tip: Abu Dhabi is the UAE's wealthy, calmer capital — more measured than neighbouring
@@ -25,6 +25,10 @@ tip: Abu Dhabi is the UAE's wealthy, calmer capital — more measured than neigh
   indoor air-con.
 title: Abu Dhabi
 type: location
+heritage: 4.513
+vibrancy: 6.61
+nature: 3.338
+off_the_beaten_track: 1.142
 ---
 
 Abu Dhabi is the capital of the United Arab Emirates and the seat of its federal government. It sits on a T-shaped island jutting into the Persian Gulf, connected to the mainland by three bridges. First settled in the 18th century by the Bani Yas tribe, who found fresh water there — Abu Dhabi translates roughly as "land of the gazelle" — the city has transformed beyond recognition since oil was discovered in 1958.

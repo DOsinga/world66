@@ -5,11 +5,15 @@ done:
 latitude: 38.691184
 loc_type: city
 longitude: -75.075272
-score: 6.63
+score: 5.249
 snippet: Delaware beach town between the Atlantic and Rehoboth Bay, known for watersports
   and nightlife.
 title: Dewey Beach
 type: location
+heritage: 2.285
+vibrancy: 5.0
+nature: 5.72
+off_the_beaten_track: 1.235
 ---
 
 Dewey Beach is a small resort community on the Delaware coast, wedged between the Atlantic Ocean and Rehoboth Bay. It is one of the liveliest beach towns in the Mid-Atlantic states, drawing a youthful summer crowd with its laid-back atmosphere, watersports, and a stretch of bars and restaurants that keep things animated well into the night.

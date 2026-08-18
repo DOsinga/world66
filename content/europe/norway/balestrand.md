@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 61.2096
 longitude: 6.5356
-score: 7.7
-snippet: Small Sognefjord village with Victorian tourism history, stave-style church, museums, and fjord hikes.
+score: 5.879
+snippet: Small Sognefjord village with Victorian tourism history, stave-style church,
+  museums, and fjord hikes.
 wikidata: Q493292
 sources:
-  - https://en.wikivoyage.org/wiki/Balestrand
-  - https://en.wikipedia.org/wiki/Balestrand_Municipality
-  - https://www.wikidata.org/wiki/Q493292
+- https://en.wikivoyage.org/wiki/Balestrand
+- https://en.wikipedia.org/wiki/Balestrand_Municipality
+- https://www.wikidata.org/wiki/Q493292
+heritage: 3.918
+vibrancy: 3.727
+nature: 7.312
+off_the_beaten_track: 3.345
 ---
 
 *Europe > Norway > Balestrand*

@@ -4,7 +4,7 @@ done:
 latitude: 38.29
 loc_type: feature
 longitude: -111.26
-score: 8.86
+score: 6.491
 snippet: Utah national park defined by the Waterpocket Fold's tilted rock layers,
   domes, and canyons.
 title: Capitol Reef
@@ -13,6 +13,10 @@ image: capitolreef.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Capitol_Reef_National_Park.jpg
 image_license: CC BY 2.0
 image_attribution: Wolfgang Staudt
+heritage: 7.247
+vibrancy: 2.124
+nature: 6.838
+off_the_beaten_track: 3.363
 ---
 
 Capitol Reef is the least-visited of Utah's five national parks, which is exactly what makes it worth going. The centerpiece is the Waterpocket Fold — a 100-mile wrinkle in the earth's crust that tilts rock layers sideways and creates a landscape of domes, canyons, and narrow slot passages that look like they were drawn by someone who had never seen geology work the way it's supposed to.

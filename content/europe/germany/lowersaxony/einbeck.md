@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 51.8204
 longitude: 9.8646
-score: 6.5
+score: 4.46
 wikidata: Q47244
 snippet: Lower Saxon half-timbered town known for bock beer and a major classic-vehicle
   museum.
@@ -17,6 +17,10 @@ image: einbeck.jpg
 image_source: https://commons.wikimedia.org/wiki/File:B%C3%BCrgerh%C3%A4user_(ca._1600)_in_Einbeck_IMG_3608.jpg
 image_license: CC BY-SA 3.0
 image_attribution: losch
+heritage: 5.805
+vibrancy: 2.529
+nature: 2.798
+off_the_beaten_track: 1.732
 ---
 
 Einbeck is a small town in southern Lower Saxony with a surprisingly clear identity: half-timbered streets, strong brewing history, and one of Germany's best collections of historic vehicles. It is not as grand as nearby [Goslar](/europe/germany/lowersaxony/goslar) or [Hildesheim](/europe/germany/lowersaxony/hildesheim), but it rewards a slow day on foot.

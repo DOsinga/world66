@@ -15,7 +15,7 @@ quick_facts:
   Population: ~7 million (metro)
   Sky Costanera: Tallest tower in Latin America
   The Andes: Snow peaks over the skyline
-score: 8.2
+score: 6.668
 snippet: Chilean capital in a broad valley below the Andes, with mountains visible
   from across the city.
 tip: Santiago sits in a valley with the snow-capped Andes rising dramatically to the
@@ -25,6 +25,10 @@ tip: Santiago sits in a valley with the snow-capped Andes rising dramatically to
   the mountains in winter.
 title: Santiago
 type: location
+heritage: 5.513
+vibrancy: 6.936
+nature: 5.976
+off_the_beaten_track: 2.339
 ---
 
 Santiago de Chile sits in a wide valley at 520 metres, with the snow-capped Andes rising to more than 6,000 metres immediately to the east — on clear winter days you can see the mountains from almost anywhere in the city, and the sight of a modern metropolis of seven million people backed by that wall of rock and ice is genuinely dramatic. It is not the prettiest Latin American capital (Lima, Buenos Aires, and Bogotá all have more colonial charm), and the air quality can be grim when the smog gets trapped in the valley. But Santiago has energy, excellent food, a strong cultural scene, and the kind of practical competence that makes it one of the easiest cities on the continent to navigate.

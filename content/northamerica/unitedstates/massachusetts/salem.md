@@ -13,9 +13,13 @@ sources:
 - https://en.wikivoyage.org/wiki/Salem_(Massachusetts)
 title: Salem
 type: location
-score: 8.42
+score: 4.642
 snippet: New England seaport city where the 1692 witch trials overshadow a rich maritime
   past.
+heritage: 4.617
+vibrancy: 4.687
+nature: 2.86
+off_the_beaten_track: 0.819
 ---
 
 Salem is the most famous small city in New England, and for one reason above all others: in 1692, twenty people were executed and hundreds accused during one of the most notorious episodes of collective panic in American history. The witch trials cast a long shadow, and Salem leans into its dark reputation — October turns the downtown into a month-long festival of costumes, ghost tours, and haunted happenings. But beneath the witch-trial theatrics lies a genuinely remarkable place with a far richer story.

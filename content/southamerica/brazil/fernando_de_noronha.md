@@ -13,9 +13,13 @@ sources:
 - https://en.wikipedia.org/wiki/Fernando_de_Noronha
 title: Fernando de Noronha
 type: location
-score: 9.45
+score: 5.451
 snippet: Remote Brazilian Atlantic archipelago protected for clear water, marine wildlife,
   and strictly limited island access.
+heritage: 1.491
+vibrancy: 2.544
+nature: 6.638
+off_the_beaten_track: 5.932
 ---
 
 Fernando de Noronha is an archipelago of 21 islands and islets sitting 354 kilometres off the northeastern tip of Brazil, and it is one of the finest marine destinations in the Atlantic Ocean. The water here is exceptionally clear, warm, and alive — dolphins, sea turtles, sharks, and rays are part of the daily landscape, not occasional encounters. The main island holds the only settlement, and both land and sea are protected as a UNESCO World Heritage Site and national marine park.

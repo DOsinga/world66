@@ -5,11 +5,15 @@ done:
 latitude: 42.2458
 loc_type: city
 longitude: -84.4013
-score: 5.49
+score: 2.766
 snippet: Central Michigan city with railroad heritage, Republican Party history, and
   a preserved 19th-century depot.
 title: Jackson
 type: location
+heritage: 2.731
+vibrancy: 2.014
+nature: 3.129
+off_the_beaten_track: 1.655
 ---
 
 Jackson sits at the geographic centre of Michigan's Lower Peninsula, a mid-sized city with a handful of claims to fame. The Republican Party held its first major convention here in 1854, [under the oaks](/northamerica/unitedstates/michigan/jackson/under_the_oaks_park) on what is now a small park. The city later served as a Civil War training facility and became a railroad hub — the switching and repair headquarters for the Michigan Central Railroad, with the original [Amtrak depot](/northamerica/unitedstates/michigan/jackson/jackson_amtrak_station) still in daily use.

@@ -16,7 +16,7 @@ quick_facts:
   Cats: The town's symbol
   Town Walls: 4.5 km, up the mountain
   Wall Steps: 1,350 to the fort
-score: 9.42
+score: 7.498
 snippet: Walled Venetian old town on the Bay of Kotor, backed by steep limestone mountains.
 tip: Kotor sits at the end of a fjord-like bay, with town walls climbing 1,350 steps
   up the mountain behind — hike them at dawn or dusk to dodge the heat and cruise
@@ -25,6 +25,10 @@ tip: Kotor sits at the end of a fjord-like bay, with town walls climbing 1,350 s
   view.
 title: Kotor
 type: location
+heritage: 7.214
+vibrancy: 7.663
+nature: 2.917
+off_the_beaten_track: 5.91
 ---
 
 Kotor is the most compelling city on the Montenegrin coast — a medieval Venetian town enclosed by 4.5km of walls that climb steeply up the rocky hillside behind it. The old town is a tight maze of marble-paved lanes, Romanesque churches, and small piazzas, with cats lounging on every warm surface (Kotor has taken the stray cat as its unofficial symbol and embraces it fully).

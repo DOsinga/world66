@@ -14,7 +14,7 @@ quick_facts:
   Elevation: 448 m
   Lake Annecy: 27 km², 82 m deep
   Old Town: '''Venice of the Alps'''
-score: 9.41
+score: 4.957
 snippet: Lakeside Alpine town known for its canal-lined old quarter, Savoy castle,
   and mountain-framed Lake Annecy.
 tip: Annecy's old town is laced with canals around a turquoise lake said to be among
@@ -24,6 +24,10 @@ tip: Annecy's old town is laced with canals around a turquoise lake said to be a
   to Geneva or Chamonix.
 title: Annecy
 type: location
+heritage: 4.533
+vibrancy: 4.668
+nature: 5.427
+off_the_beaten_track: 2.179
 ---
 
 Annecy sits at the northern tip of [Lake Annecy](/europe/france/alpes/annecy/lake_annecy), ringed by mountains that still carry snow well into spring. The [old town](/europe/france/alpes/annecy/vieille_ville) is built around a canal that runs from the lake through cobbled streets lined with pastel-coloured houses — locals call it the Venice of the Alps, and for once the comparison is not entirely absurd.

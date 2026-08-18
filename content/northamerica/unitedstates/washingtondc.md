@@ -15,7 +15,7 @@ quick_facts:
   Height Limit: Nothing tops the Capitol
   Population: ~700,000
   Smithsonian: Free, 17 museums
-score: 9.27
+score: 7.256
 snippet: Purpose-built United States capital on the Potomac, defined by monuments,
   museums, and federal avenues.
 tip: Washington DC is laid out on a grand plan, and most of its highlights are free
@@ -25,6 +25,10 @@ tip: Washington DC is laid out on a grand plan, and most of its highlights are f
   are spectacular.
 title: Washington D.C.
 type: location
+heritage: 6.751
+vibrancy: 7.502
+nature: 4.918
+off_the_beaten_track: 1.127
 ---
 
 The capital of the United States is a city purpose-built for government and now one of the most visited destinations in the country. Washington DC sits on the Potomac River where Maryland and Virginia meet — an artificial district carved from both states in 1790 so the new republic's capital would belong to no single state. The plan was Pierre Charles L'Enfant's: a grid overlaid with diagonal avenues radiating from the Capitol and the White House, designed to be imposing.

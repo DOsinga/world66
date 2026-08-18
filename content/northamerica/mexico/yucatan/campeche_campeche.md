@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Calakmul_bio_reserve.jpg
 latitude: 19.8454
 loc_type: city
 longitude: -90.5253
-score: 8.7
+score: 5.957
 snippet: Walled Gulf port city of pastel colonial streets, pirate history, and nearby
   Maya ruins
 title: Campeche
 type: location
+heritage: 7.173
+vibrancy: 4.554
+nature: 4.239
+off_the_beaten_track: 2.903
 ---
 
 Campeche is one of the best-preserved colonial cities in Mexico — a walled port where brightly painted mansions and cobblestone streets have barely changed since Spanish pirates made this place their favourite target. The historic centre was declared a UNESCO World Heritage Site in 1999, and unlike some heritage designations, this one actually shows: the overhead cables are gone, the facades are immaculate, and the atmosphere is genuinely lovely.

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Matamata_i-SITE.jpg
 latitude: -37.8167
 loc_type: city
 longitude: 175.7667
-score: 8.36
+score: 5.082
 snippet: Small Waikato dairy town at the Kaimai Range, known worldwide as the gateway
   to Hobbiton.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Hobbiton_Movie_Set
 title: Matamata
 type: location
+heritage: 2.265
+vibrancy: 2.058
+nature: 6.883
+off_the_beaten_track: 3.099
 ---
 
 Matamata is a small Waikato dairy town that would be entirely off the tourist map were it not for one thing: [Hobbiton](/australiaandpacific/newzealand/matamata/hobbiton). The Alexander family's sheep farm on the edge of town was chosen by Peter Jackson as the location for the Shire in The Lord of the Rings, and the set was rebuilt in permanent form for The Hobbit a decade later. It now draws roughly 700,000 visitors a year — more people than live in the entire Waikato region.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:001125-Babylon-Iraq-IMG_80
 latitude: 32.537792
 loc_type: city
 longitude: 44.427003
-score: 6.62
+score: 6.74
 snippet: Ancient Mesopotamian city whose ruins recall Nebuchadnezzar, the Ishtar Gate,
   and imperial Babylon.
 title: Babylon
 type: location
+heritage: 8.575
+vibrancy: 3.099
+nature: 1.786
+off_the_beaten_track: 6.685
 ---
 
 The name still carries weight. Babylon was the capital of no fewer than ten Mesopotamian dynasties over two thousand years, and at the height of its power in the 6th century BC under Nebuchadnezzar II it was the largest city in the world. The [Hanging Gardens](/asia/iraq/babylon/hanging_gardens) were one of the Seven Wonders of the ancient world; the [Ishtar Gate](/asia/iraq/babylon/ishtar_gate) — with its brilliant blue-glazed bricks and procession of dragons and bulls — still astonishes, though the original is in Berlin and what stands here is a reconstruction.

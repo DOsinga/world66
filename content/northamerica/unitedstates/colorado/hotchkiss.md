@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 38.7997
 longitude: -107.7195
-score: 6.5
-snippet: North Fork Valley farm town with high-elevation wine, local art, and Western Slope orchard country.
+score: 3.804
+snippet: North Fork Valley farm town with high-elevation wine, local art, and Western
+  Slope orchard country.
 sources:
-  - https://en.wikivoyage.org/wiki/Hotchkiss
-  - https://northforkvalley.net/Farms-and-Wineries
-  - https://northforkcreative.org/
-  - https://westelksava.com/wineries/
+- https://en.wikivoyage.org/wiki/Hotchkiss
+- https://northforkvalley.net/Farms-and-Wineries
+- https://northforkcreative.org/
+- https://westelksava.com/wineries/
+heritage: 2.037
+vibrancy: 1.262
+nature: 4.444
+off_the_beaten_track: 4.76
 ---
 
 Hotchkiss sits in Colorado's North Fork Valley, a working farm and orchard town between Paonia and Crawford. It is not polished resort Colorado. Its appeal is more useful than glossy: fruit stands, high-country wineries, dry hills, local artists, and a downtown that still feels tied to ranch and orchard life.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 39.3833
 longitude: 140.0833
-score: 6.9
+score: 3.747
 snippet: Akita coastal city spread between Honjo, Mount Chokai, waterfalls, and rural
   shrines.
 wikidata: Q602903
@@ -15,6 +15,10 @@ image: yurihonjo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:MtChokaiFromOkojoland.jpg
 image_license: CC BY 3.0
 image_attribution: Douglas P. Perkins
+heritage: 3.102
+vibrancy: 1.973
+nature: 4.276
+off_the_beaten_track: 5.018
 ---
 
 Yurihonjo is not a compact city so much as a large piece of southern Akita stitched together from former towns. Honjo, near the Sea of Japan, is the practical centre; inland districts climb toward the Chokai highlands, where waterfalls, snow country, shrines, and mountain roads take over.

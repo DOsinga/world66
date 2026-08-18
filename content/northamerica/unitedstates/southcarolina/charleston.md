@@ -7,7 +7,7 @@ done:
 latitude: 32.788436
 loc_type: city
 longitude: -79.939931
-score: 8.97
+score: 7.071
 snippet: Historic South Carolina port city of pastel townhouses, cobbled streets,
   and plantations shaped by slavery
 title: Charleston
@@ -16,6 +16,10 @@ image: charleston.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Charleston,_SC,_waterfront_IMG_4553.JPG
 image_license: CC BY 3.0
 image_attribution: Billy Hathorn
+heritage: 6.626
+vibrancy: 7.294
+nature: 5.636
+off_the_beaten_track: 2.234
 ---
 
 Charleston is one of the most beautiful and best-preserved cities in the United States — a 17th-century Atlantic port on a peninsula between the Ashley and Cooper rivers, laid out around pastel stucco townhouses, wrought-iron gates, palm-shaded cobbled streets and the long row of waterfront mansions along the Battery. Founded in 1670 and briefly the wealthiest city in colonial North America thanks to rice, indigo and the slave trade that produced it, Charleston declined slowly in the 20th century and, short of capital, preserved its old buildings instead of tearing them down. The result is a historic centre of extraordinary architectural coherence and a city that rewards slow wandering on foot.

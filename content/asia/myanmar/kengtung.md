@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kyaing_Tong_Market_Aerial_
 latitude: 21.291804
 loc_type: city
 longitude: 99.602865
-score: 6.95
+score: 5.604
 title: Kengtung
 type: location
 snippet: Highland Shan town in an isolated valley, culturally closer to the Thai borderlands
   than central Myanmar.
+heritage: 5.678
+vibrancy: 2.384
+nature: 6.28
+off_the_beaten_track: 5.847
 ---
 
 Kengtung (Chiang Tung in Shan) is a highland town in eastern Shan State, set in a broad valley surrounded by hills and accessible overland from the Thai border crossing at Tachilek. For years it was closed to foreigners, and it retains a feel of isolation — this is far from the main tourist circuits of Myanmar.

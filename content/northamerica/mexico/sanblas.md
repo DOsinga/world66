@@ -9,10 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Blas_(Mexico).JPG
 latitude: 21.538143
 loc_type: city
 longitude: -105.183878
-score: 7.16
+score: 5.954
 snippet: Small Nayarit fishing and surfing town with a slow colonial port character.
 title: San Blas
 type: location
+heritage: 3.863
+vibrancy: 4.611
+nature: 7.0
+off_the_beaten_track: 3.984
 ---
 
 San Blas is a small fishing and surfing town on the Pacific coast of Nayarit state, about 70 km north of Puerto Vallarta. It has a slow, colonial-era character and sees far fewer tourists than the resorts to the south. The town was an important colonial port — [Fort Basilio](/northamerica/mexico/sanblas/fort_basilio) on the hill above the river mouth is a romantic ruin, and Henry Wadsworth Longfellow set his poem *The Bells of San Blas* here.

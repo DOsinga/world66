@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Sendero_Parque_Nacional_Ch
 latitude: -42.6767
 loc_type: island
 longitude: -73.9933
-score: 8.2
+score: 5.657
 snippet: Rainy Chilean island of wooden churches, stilt houses, fishing coves, and
   sea-facing folklore beyond Puerto Montt
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Chilo%C3%A9_Island
 title: Chiloé
 type: location
+heritage: 3.152
+vibrancy: 3.439
+nature: 7.107
+off_the_beaten_track: 4.955
 ---
 
 Chiloé is Chile with the weather turned inward: green, wet, wooden, and full of stories. The Isla Grande lies just beyond [Puerto Montt](/southamerica/chile/puertomontt), but the short ferry crossing over the Chacao Channel feels like a proper threshold. On the other side are shingled houses, fishing coves, foggy pastures, and a culture that has always looked both to the sea and to its own legends.

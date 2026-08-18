@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kabelvaag2016.jpg
 latitude: 68.2101
 loc_type: city
 longitude: 14.4774
-score: 8.92
+score: 5.821
 snippet: Oldest fishing village in Lofoten, where Kabelvåg's commercial cod fishery
   developed over a millennium ago.
 title: Kabelvåg
 type: location
+heritage: 3.386
+vibrancy: 3.273
+nature: 7.441
+off_the_beaten_track: 4.499
 ---
 
 Kabelvåg is the oldest fishing village in Lofoten and it was here

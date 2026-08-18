@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:1939_Assab_Lancia_Aprilia_
 latitude: 13.009129
 loc_type: city
 longitude: 42.74446
-score: 4.52
+score: 4.734
 snippet: Remote southern Eritrean Red Sea port with Italian colonial traces and a
   hot, arid coastal setting.
 title: Assab
 type: location
+heritage: 2.783
+vibrancy: 1.323
+nature: 4.518
+off_the_beaten_track: 7.627
 ---
 
 **Assab** is a port city in the far south of [Eritrea](/africa/eritrea), close to the border with [Djibouti](/africa/djibouti). It sits on the [Red Sea coast](/africa/eritrea/assab/red_sea_coast) in a hot, arid stretch of land and is one of the most remote cities in the country.

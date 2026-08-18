@@ -5,13 +5,17 @@ done:
 latitude: 16.5132
 loc_type: city
 longitude: -15.81
-score: 4.66
+score: 5.657
 snippet: Senegal River border town and Mauritania's main land crossing into Senegal,
   set in the fertile Trarza region.
 sources:
 - https://en.wikipedia.org/wiki/Rosso
 title: Rosso
 type: location
+heritage: 1.906
+vibrancy: 1.205
+nature: 6.627
+off_the_beaten_track: 7.019
 ---
 
 Rosso is a border town on the southern bank of the Senegal River, sitting directly across the water from the Senegalese town of the same name. It is Mauritania's main land crossing into Senegal and, for most travellers, little more than a day's business — a visa stamp, a wait for the ferry, a handshake with a fixer. But the town has a character worth pausing for, even briefly.

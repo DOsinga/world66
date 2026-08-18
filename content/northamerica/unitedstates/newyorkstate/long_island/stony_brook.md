@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: 40.9064
 longitude: -73.1283
-score: 6.3
-snippet: Long Island Sound hamlet with old mills, carriage collections, village shops, and marshy shoreline.
+score: 4.094
+snippet: Long Island Sound hamlet with old mills, carriage collections, village shops,
+  and marshy shoreline.
 sources:
-  - https://en.wikivoyage.org/wiki/Stony_Brook
-  - https://en.wikipedia.org/wiki/Stony_Brook,_New_York
+- https://en.wikivoyage.org/wiki/Stony_Brook
+- https://en.wikipedia.org/wiki/Stony_Brook,_New_York
+heritage: 2.705
+vibrancy: 3.752
+nature: 4.533
+off_the_beaten_track: 0.833
 ---
 
 Stony Brook is a north-shore Long Island hamlet with two personalities. The university sits inland by the railway station, while the older village centre stays closer to the harbour, with a grist mill, pond, old-fashioned shops, and a surprising amount of open green space.

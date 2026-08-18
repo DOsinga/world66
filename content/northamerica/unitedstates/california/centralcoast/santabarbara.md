@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cliffs_at_Arroyo_Burro_Bea
 latitude: 34.422132
 loc_type: city
 longitude: -119.702667
-score: 8.88
+score: 5.667
 title: Santa Barbara
 type: location
 snippet: Central Coast city of Spanish Colonial Revival streets, south-facing beaches,
   and mountains rising behind the harbor.
+heritage: 4.24
+vibrancy: 5.4
+nature: 6.174
+off_the_beaten_track: 2.727
 ---
 
 Santa Barbara is one of those rare places that genuinely seems to have it all: a 200-year-old [Spanish Mission](/northamerica/unitedstates/california/centralcoast/santabarbara/old_mission) above the city, a working [harbour](/northamerica/unitedstates/california/centralcoast/santabarbara/sb_harbor) below it, a near-perfect Mediterranean climate, south-facing beaches, the [most beautiful courthouse](/northamerica/unitedstates/california/centralcoast/santabarbara/santa_barbara_courthouse) in America, and a wine country an hour's drive away. The locals call it the American Riviera, which is exactly the sort of self-congratulatory phrase travel writers should be suspicious of — except that, this once, the locals are mostly right.

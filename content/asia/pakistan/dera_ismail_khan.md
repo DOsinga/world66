@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Noll_Bagh_Dera_Ismail_Khan
 latitude: 31.8275
 loc_type: city
 longitude: 70.9091
-score: 4.62
+score: 3.559
 snippet: Indus River trading city known for Dhakki dates, old bazaars, and frontier
   crossroads history.
 sources:
 - https://en.wikipedia.org/wiki/Dera_Ismail_Khan
 title: Dera Ismail Khan
 type: location
+heritage: 1.859
+vibrancy: 1.216
+nature: 2.036
+off_the_beaten_track: 6.568
 ---
 
 Dera Ismail Khan — commonly abbreviated to D.I. Khan — is a city on the west bank of the Indus River in Khyber Pakhtunkhwa, [Pakistan](/asia/pakistan). Founded in the late 15th century by the Baloch adventurer Ismail Khan, it sits at the edge of the tribal areas where the southern Punjab plains meet the mountains, about 200 kilometres west of Lahore.

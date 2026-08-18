@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Comodoro_Rivadavia,_Chubut
 latitude: -45.8632
 loc_type: city
 longitude: -67.4753
-score: 6.16
+score: 3.639
 snippet: Patagonian oil city on the Atlantic, battered by wind and softened by nearby
   Rada Tilly beach.
 title: Comodoro Rivadavia
 type: location
+heritage: 2.815
+vibrancy: 2.581
+nature: 4.36
+off_the_beaten_track: 4.197
 ---
 
 The biggest city in Patagonia sits on the Atlantic coast, battered by relentless wind. Comodoro Rivadavia grew rapidly in the early twentieth century when oil was discovered here, and it still has the feel of a working industrial town rather than a tourist destination. Like many Argentine cities of that era, it is modern and practical rather than picturesque.

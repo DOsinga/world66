@@ -4,10 +4,15 @@ type: location
 loc_type: city
 latitude: 43.9503
 longitude: -71.4995
-score: 7.2
-snippet: White Mountains resort village built around skiing, trailheads, and a quiet high valley.
+score: 4.926
+snippet: White Mountains resort village built around skiing, trailheads, and a quiet
+  high valley.
 sources:
-  - https://en.wikivoyage.org/wiki/Waterville_Valley
+- https://en.wikivoyage.org/wiki/Waterville_Valley
+heritage: 1.762
+vibrancy: 1.847
+nature: 6.56
+off_the_beaten_track: 3.523
 ---
 
 Waterville Valley is a self-contained resort village in New Hampshire's White Mountains, reached by Route 49 and then mostly explored on foot, skis, or bike. It does not have much urban texture, but it has a clear reason to exist: mountains close in on three sides, the Mad River runs through the valley, and trailheads start almost at the edge of town.

@@ -4,6 +4,7 @@ World66 location scoring has two main phases:
 
 1. Ask LLMs to score sampled locations on four travel dimensions, using the text descriptions below.
 2. Train a neural model that maps destination embeddings into a 12-dimensional travel space and predicts those four scores.
+3. Build one production score from the four public scores with a weighted top-two recipe.
 
 The model learns from destination identity captured by the embeddings for the name, parent chain, and lat/lng.
 
@@ -91,6 +92,8 @@ scoring/
   predict_locations.py
   seed_steering_candidates.py
   train_steering_layer.py
+  build_location_scores.py
+  apply_location_scores.py
   build_widget_data.py
   old_score_regression.py
 ```
@@ -245,7 +248,99 @@ scoring/data/final_scores.json
 
 The trainer keeps the new scores close to the base model globally, while giving stronger weight to the edited ordering. After prediction, it applies an explicit top-5 override for each dimension: the first five paths in each edited `_out.txt` file are stamped to deterministic top scores for that dimension. The learned steering head handles everything below that. Do not treat copied-but-unedited output files as an improvement; without human edits, the steering layer mostly preserves the current top lists.
 
-### 7. Build widget data
+### 7. Build production scores
+
+`scoring/data/final_scores.json` contains the four steered component scores. Build the production five-field score artifact from it:
+
+```bash
+python3 scoring/build_location_scores.py
+```
+
+This writes:
+
+```text
+scoring/data/location_scores.json
+scoring/data/score_recipe.json
+```
+
+`location_scores.json` is the canonical scoring artifact for downstream code. Each row is keyed by destination path and contains:
+
+```json
+{
+  "score": 9.767,
+  "heritage": 9.452,
+  "vibrancy": 9.96,
+  "nature": 3.919,
+  "off_the_beaten_track": 1.316
+}
+```
+
+The combined `score` is normalized to `0..10`. It is computed by first multiplying each component by its component preference weight, then taking the best two weighted components:
+
+```text
+weighted_component = component_score * component_weight
+raw_score =
+  top_component_weight * highest_weighted_component
++ second_component_weight * second_highest_weighted_component
+score = raw_score / maximum_possible_raw_score * 10
+```
+
+Current production recipe:
+
+```text
+heritage              1.00
+vibrancy              1.14
+nature                1.02
+off_the_beaten_track  0.72
+top_component         3.70
+second_component      1.60
+```
+
+These weights were fitted against a blind agent list of broadly important world tourist destinations. They express a general-purpose editorial ranking, not a truth about what every traveler should prefer.
+
+### 8. Write scores to frontmatter
+
+Write the production scores into the location markdown files:
+
+```bash
+python3 scoring/apply_location_scores.py
+```
+
+This syncs `score`, `heritage`, `vibrancy`, `nature`, and `off_the_beaten_track` from `scoring/data/location_scores.json` into the frontmatter for each matching `type: location` page.
+
+The site reads these values from frontmatter. Do not make page rendering depend on reading the generated scoring JSON at request time.
+
+Use a dry run to inspect the number of changed files before applying:
+
+```bash
+python3 scoring/apply_location_scores.py --dry-run
+```
+
+### 9. Sync scores into the search index
+
+Refresh the scoring table in `search.db`:
+
+```bash
+python3 indexer.py --scores-only
+```
+
+This creates or refreshes `location_scores`, keyed by destination path. The table stores:
+
+- the combined `score`
+- the four public components
+- the 12 hidden travel components used for similarity
+
+The Django request path reads visible scores from markdown frontmatter and reads similar-place vectors from `search.db`. It should not load `scoring/data/location_scores.json` or `scoring/data/all_location_hidden_12.npz` at request time.
+
+The normal indexer run also refreshes `location_scores`:
+
+```bash
+python3 indexer.py
+```
+
+Use `--scores-only` after score-only changes so we do not re-embed every content file just because score frontmatter changed.
+
+### 10. Build widget data
 
 Refresh the JSON used by the scoring widgets:
 
@@ -256,14 +351,15 @@ python3 scoring/build_widget_data.py
 This writes:
 
 - `static/widgets/scoring-explorer.json`
+- `static/widgets/score-composer.json`
 
-The scoring explorer uses `scoring/data/final_scores.json` when it exists. Otherwise it falls back to `scoring/data/latent_label_scores.json`. `static/widgets/score-composer.json` is only refreshed when `scoring/data/steering_layer.json` exists.
+The scoring explorer uses `scoring/data/location_scores.json` when it exists. Otherwise it falls back to `scoring/data/latent_label_scores.json`. `static/widgets/score-composer.json` is only refreshed when `scoring/data/steering_layer.json` exists.
 
-### 8. Old score diagnostic
+### 11. Old score diagnostic
 
-`scoring/old_score_regression.py` fits the existing one-number `score` field from the four public component scores plus the 12 hidden dimensions. It writes the fitted model, the combined score predictions, and `scoring/data/location_scores.json`, which contains the combined score and all four components for every scored location.
+`scoring/old_score_regression.py` fits the existing one-number `score` field from the four public component scores plus the 12 hidden dimensions. It writes the fitted model, the combined score predictions, and `scoring/data/old_location_scores.json`.
 
-The old-score regression is a diagnostic only. Recent validation runs predict the current score with about `0.64` MAE.
+The old-score regression is a diagnostic only. It is no longer part of the production pipeline and should not be used to overwrite `scoring/data/location_scores.json`.
 
 ## Agent Runoffs
 

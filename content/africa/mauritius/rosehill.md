@@ -5,11 +5,15 @@ done:
 latitude: -20.241354
 loc_type: city
 longitude: 57.474408
-score: 7.18
+score: 4.092
 snippet: Central plateau town merged with Beau Bassin, serving as a Mauritian residential
   and commercial centre.
 title: Rose-Hill
 type: location
+heritage: 2.723
+vibrancy: 1.718
+nature: 5.188
+off_the_beaten_track: 3.126
 ---
 
 Rose-Hill is one of the larger towns in the central plateau, merging with Beau Bassin to form a significant urban area. It's primarily a residential and commercial centre for Mauritians rather than a tourist destination, but it has a few worthwhile stops and makes a good budget base for exploring the island interior.

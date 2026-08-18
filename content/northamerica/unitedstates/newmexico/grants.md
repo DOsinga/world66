@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:2926_in_Grants_Cut_New_Mex
 latitude: 35.1473
 loc_type: city
 longitude: -107.8514
-score: 5.93
+score: 4.011
 snippet: Route 66 highway town turned uranium capital, with black lava fields and
   ice caves just beyond town.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/El_Malpais_National_Monument
 title: Grants
 type: location
+heritage: 2.467
+vibrancy: 2.017
+nature: 5.172
+off_the_beaten_track: 3.313
 ---
 
 Grants is the seat of Cibola County, straddling historic Route 66 between [Albuquerque](/northamerica/unitedstates/newmexico/albuquerque) and [Gallup](/northamerica/unitedstates/newmexico/gallup) on the east side of the Continental Divide. It is a working-class highway town that became the unlikely uranium capital of the world in the 1950s and 1960s — a story told at the [New Mexico Mining Museum](/northamerica/unitedstates/newmexico/grants/new_mexico_mining_museum), the only uranium mining museum anywhere.

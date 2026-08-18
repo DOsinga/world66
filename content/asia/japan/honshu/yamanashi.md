@@ -4,12 +4,16 @@ type: location
 loc_type: city
 latitude: 35.6922
 longitude: 138.6853
-score: 6.6
+score: 5.404
 wikidata: Q840610
 sources:
-  - https://en.wikivoyage.org/wiki/Yamanashi
-  - https://en.wikipedia.org/wiki/Yamanashi,_Yamanashi
+- https://en.wikivoyage.org/wiki/Yamanashi
+- https://en.wikipedia.org/wiki/Yamanashi,_Yamanashi
 snippet: Fruit-growing city in the Kōfu Basin with temple history and wide night views.
+heritage: 4.893
+vibrancy: 3.37
+nature: 6.303
+off_the_beaten_track: 2.8
 ---
 
 Yamanashi is a small city in the Kōfu Basin, northeast of Kōfu and within easy reach of Tokyo by train. It is not the same thing as Yamanashi Prefecture, but it gives a good taste of the prefecture's fruit-growing identity: orchards, grapes, peaches, hot days, and mountain views.

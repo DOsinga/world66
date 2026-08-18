@@ -5,13 +5,18 @@ loc_type: city
 latitude: 52.9119
 longitude: -3.5977
 wikidata: Q171923
-score: 7.1
-snippet: Welsh lakeside town on Llyn Tegid, known for water sports and mountain-edge scenery.
+score: 6.188
+snippet: Welsh lakeside town on Llyn Tegid, known for water sports and mountain-edge
+  scenery.
 sources:
-  - https://en.wikivoyage.org/wiki/Bala
-  - https://visitbala.org.uk/
-  - https://www.visitwales.com/activity/activity/national-white-water-centre-canolfan-tryweryn-551161
-  - https://en.wikipedia.org/wiki/Bala,_Gwynedd
+- https://en.wikivoyage.org/wiki/Bala
+- https://visitbala.org.uk/
+- https://www.visitwales.com/activity/activity/national-white-water-centre-canolfan-tryweryn-551161
+- https://en.wikipedia.org/wiki/Bala,_Gwynedd
+heritage: 4.063
+vibrancy: 3.695
+nature: 7.806
+off_the_beaten_track: 3.581
 ---
 
 Bala sits at the northeast end of Llyn Tegid, Wales's largest natural lake, with the hills of southern Eryri rising around it. It is small, Welsh-speaking, and outdoorsy in a way that feels distinct from the busier Snowdon villages to the north.

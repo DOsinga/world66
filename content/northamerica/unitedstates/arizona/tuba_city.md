@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Coal_Mine_Canyon_sunset.jp
 latitude: 36.123307
 loc_type: city
 longitude: -111.242188
-score: 6.23
+score: 5.021
 title: Tuba City
 type: location
 snippet: Navajo Nation community in northern Arizona, set between the Grand Canyon
   and Painted Desert.
+heritage: 4.213
+vibrancy: 2.223
+nature: 5.997
+off_the_beaten_track: 5.108
 ---
 
 Tuba City — Tó Naneesdizí, "tangled water," in Navajo — sits in the western half of the Navajo Nation, on a high windy plateau between the Grand Canyon and the Painted Desert. With around 9,000 residents it is one of the largest communities on the Reservation, and a useful base for seeing this corner of northern Arizona without staying in the manicured park gateways at Tusayan or Page.

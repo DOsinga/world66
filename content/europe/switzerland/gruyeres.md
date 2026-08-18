@@ -7,7 +7,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Greyerz-02.jpg
 latitude: 46.5835
 loc_type: city
 longitude: 7.0815
-score: 8.68
+score: 5.986
 snippet: Preserved medieval Swiss hill town known for Gruyère cheese, its castle,
   and the HR Giger Museum.
 sources:
@@ -15,6 +15,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Gruy%C3%A8res
 title: Gruyères
 type: location
+heritage: 5.997
+vibrancy: 4.581
+nature: 6.736
+off_the_beaten_track: 2.77
 ---
 
 Gruyères is one of Switzerland's most perfectly preserved medieval towns, perched on a hill above the green valley of the Saane river in the canton of Fribourg. The entire car-free old town sits behind a single gate, its cobbled main street lined with centuries-old stone houses and the flags of the medieval counts of Gruyère. The [Château de Gruyères](/europe/switzerland/gruyeres/chateau_de_gruyeres) dominates the hilltop at the top of the street, and on a clear day the Alps rise dramatically to the south.

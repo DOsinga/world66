@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 47.566672
 longitude: -70.200005
-score: 6.6
+score: 4.559
 snippet: Charlevoix river village of summer music, sculpture, and a broad St. Lawrence
   beach.
 wikidata: Q3462451
@@ -17,6 +17,10 @@ image: saint_irenee.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Plage_st-Ir%C3%A9n%C3%A9e.jpg
 image_license: CC BY-SA 3.0
 image_attribution: benoitronique
+heritage: 5.043
+vibrancy: 2.647
+nature: 4.908
+off_the_beaten_track: 3.148
 ---
 
 Saint-Irénée is a small Charlevoix village on the north shore of the St. Lawrence, halfway between Baie-Saint-Paul and La Malbaie. It would be easy to pass through in ten minutes on Route 362, but that misses the point: the village has one of the coast's loveliest river beaches and a serious cultural anchor in Domaine Forget de Charlevoix.

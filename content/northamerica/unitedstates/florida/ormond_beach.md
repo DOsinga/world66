@@ -5,7 +5,7 @@ done:
 latitude: 29.285413
 loc_type: city
 longitude: -81.055792
-score: 6.95
+score: 4.456
 snippet: Florida Atlantic coast town north of Daytona, historically known as the Birthplace
   of Speed.
 sources:
@@ -14,6 +14,10 @@ sources:
 - https://www.travelalaska.com/destinations/cities-towns/wrangell
 title: Ormond Beach
 type: location
+heritage: 2.1
+vibrancy: 3.36
+nature: 5.284
+off_the_beaten_track: 1.317
 ---
 
 Ormond Beach sits at the north end of the Daytona Beach area on Florida's Atlantic coast, where the Halifax River runs behind the barrier island. It is quieter and more residential than Daytona itself — beach driving is not permitted north of Granada Boulevard, which keeps the northern strand in better shape — and it has a legitimate claim to being a place of historical importance in its own right rather than simply Daytona's northern neighbour.

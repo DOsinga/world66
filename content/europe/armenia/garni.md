@@ -5,11 +5,15 @@ done:
 latitude: 40.122331
 loc_type: city
 longitude: 44.742019
-score: 7.93
+score: 5.059
 snippet: Armenian village above the Azat gorge, known for its standing Greco-Roman
   temple.
 title: Garni
 type: location
+heritage: 4.934
+vibrancy: 3.624
+nature: 5.75
+off_the_beaten_track: 3.409
 ---
 
 The main reason to come to Garni is the [Temple of Garni](/europe/armenia/garni/garni_temple), the only standing Greco-Roman colonnaded building in Armenia. Built around 77 AD by King Tiridates I and dedicated to the sun god Mihr, it stands on the edge of a gorge with a drop of 300 metres to the Azat river below — a spectacular setting. Next to the temple are the remains of a Roman bath with a mosaic floor.

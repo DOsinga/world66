@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Leaving_Vava%27u_airport,_
 latitude: -18.623147
 loc_type: city
 longitude: -174.002138
-score: 8.66
+score: 5.641
 snippet: Hilly Tongan island with a deeply indented harbour, whale-swimming departures,
   and sheltered sailing waters.
 title: Vava'u Island
 type: location
+heritage: 2.494
+vibrancy: 2.107
+nature: 7.096
+off_the_beaten_track: 5.397
 ---
 
 Vava'u is the main island of the [Vava'u Group](/australiaandpacific/tonga/vavau_group), a cluster of about fifty islands in northern [Tonga](/australiaandpacific/tonga). The island is hilly and green, rising steeply from the water, and its deeply indented coastline creates one of the finest natural harbours in the South Pacific. The port town of [Neiafu](/australiaandpacific/tonga/vavauisland/neiafu), perched above the harbour, is the only real settlement and serves as the base for everything in the group.

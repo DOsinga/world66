@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:West_Mersea_waterfront.jpg
 latitude: 51.790976
 loc_type: city
 longitude: 0.952176
-score: 7.08
+score: 5.239
 snippet: Essex island community of oysters, sailing creeks, marshes, and a tide-flooded
   causeway.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/West_Mersea
 title: Mersea Island
 type: location
+heritage: 6.054
+vibrancy: 2.065
+nature: 5.053
+off_the_beaten_track: 2.939
 ---
 
 Mersea Island lies in the Blackwater Estuary in Essex, connected to the mainland by a causeway called the Strood that floods at high tide. It is a low-key fishing and sailing community about 8 miles south of Colchester, with beaches, marshes, and a quietly scenic quality that attracts weekenders from London.

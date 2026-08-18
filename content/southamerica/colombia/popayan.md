@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Atardecer_en_Popay%C3%A1n,
 latitude: 2.4422
 loc_type: city
 longitude: -76.6072
-score: 8.12
+score: 4.961
 snippet: Colombian White City of colonial churches and luminous streets on a mild
   Cauca volcanic plateau
 title: Popayan
 type: location
+heritage: 5.275
+vibrancy: 4.88
+nature: 4.766
+off_the_beaten_track: 3.491
 ---
 
 Popayan is Colombia's White City, and the name is earned. Nearly every building in the colonial centre is painted a brilliant, uniform white, giving the whole place a calm, luminous quality that is unlike anywhere else in the country. Founded in 1537 by Sebastian de Belalcazar, it served as a strategic waypoint between Lima, Quito, and Cartagena, and the wealth that passed through left behind a concentration of churches, mansions, and bridges that survives to this day.

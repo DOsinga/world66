@@ -5,7 +5,7 @@ done:
 latitude: 43.8911
 loc_type: city
 longitude: -0.501
-score: 6.9
+score: 4.237
 snippet: Landes capital at a river confluence, known for summer festivals and sculpture
   along the old streets
 sources:
@@ -16,6 +16,10 @@ image: montdemarsan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Confluent_Mont_de_Marsan.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Jibi44
+heritage: 3.701
+vibrancy: 3.835
+nature: 4.714
+off_the_beaten_track: 1.804
 ---
 
 Mont-de-Marsan is the capital of the Landes department in southwest France, a small city at the meeting point of two rivers in the flat pine forests of the Landes. It is best known for its summer Fêtes de la Madeleine, a week-long festival in July featuring bull-running through the streets, bandas, and course landaise — the local form of bull-leaping that is acrobatic rather than bloody.

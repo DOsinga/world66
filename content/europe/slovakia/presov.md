@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:706_MPR_Presov.JPG
 latitude: 49.0017
 loc_type: city
 longitude: 21.2394
-score: 7.36
+score: 4.45
 snippet: Eastern Slovak regional city with a long main street, Rusyn culture, and
   nearby Šariš Castle.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/%C5%A0ari%C5%A1_Castle
 title: Prešov
 type: location
+heritage: 5.735
+vibrancy: 2.639
+nature: 2.758
+off_the_beaten_track: 1.815
 ---
 
 Prešov is Slovakia's third-largest city, but it feels more provincial and easier-going than that ranking suggests. It is the centre of the old Šariš region, north of [Košice](/europe/slovakia/kosice), with a long historic core, mixed Latin and Greek Catholic heritage, and a Rusyn cultural thread that gives the city its own flavour.

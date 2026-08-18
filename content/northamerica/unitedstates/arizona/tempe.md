@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kyrsten_In_Your_Community_
 latitude: 33.4255
 loc_type: city
 longitude: -111.94
-score: 6.33
+score: 4.732
 snippet: Phoenix-area university city where Arizona State, Mill Avenue, and Tempe
   Town Lake define downtown life
 title: Tempe
 type: location
+heritage: 2.162
+vibrancy: 5.04
+nature: 3.937
+off_the_beaten_track: 1.06
 ---
 
 Tempe is a city in the Phoenix metropolitan area of [Arizona](/northamerica/unitedstates/arizona), home to [Arizona State University](/northamerica/unitedstates/arizona/tempe/arizona_state_university) and [Tempe Town Lake](/northamerica/unitedstates/arizona/tempe/tempe_town_lake) — a two-mile reservoir created by damming the Salt River bed that has become the centrepiece of the city's revitalised downtown.

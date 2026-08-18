@@ -4,11 +4,15 @@ done:
 latitude: 7.4167
 loc_type: city
 longitude: 151.7833
-score: 7.75
+score: 6.355
 snippet: Micronesian lagoon state known for traditional island life and the shipwreck
   dives of Truk Lagoon.
 title: Chuuk
 type: location
+heritage: 5.546
+vibrancy: 0.393
+nature: 7.499
+off_the_beaten_track: 6.898
 ---
 
 The islands within the Chuuk atoll are crowned with natural beauty. The outer barrier reef is punctuated with idyllic sand spits dotted with coconut palms. The high islands in the central lagoon rise into the blue island skies.

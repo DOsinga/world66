@@ -3,12 +3,17 @@ title: Belmonte
 type: location
 loc_type: city
 latitude: 40.3667
-longitude: -7.3500
-score: 7.3
-snippet: Beira Interior hill town known for its castle, Cabral legacy, and crypto-Jewish community.
+longitude: -7.35
+score: 4.814
+snippet: Beira Interior hill town known for its castle, Cabral legacy, and crypto-Jewish
+  community.
 sources:
 - https://en.wikivoyage.org/wiki/Belmonte
 - https://en.wikipedia.org/wiki/Belmonte,_Portugal
+heritage: 5.369
+vibrancy: 3.633
+nature: 5.083
+off_the_beaten_track: 2.722
 ---
 
 *Europe > Portugal > Belmonte*

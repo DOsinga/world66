@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Birds_eye_view_of_Mtonya_W
 latitude: -10.286914
 loc_type: city
 longitude: 40.115346
-score: 6.47
+score: 5.573
 snippet: Far-southern Tanzanian coast towns where Mikindani's old trading port meets
   practical Mtwara.
 title: Mikindani-Mtwara
 type: location
+heritage: 3.231
+vibrancy: 1.346
+nature: 6.851
+off_the_beaten_track: 5.857
 ---
 
 Mikindani is a small, quietly remarkable town on Tanzania's far southern coast, the kind of place that most travelers never reach. For centuries it was a trading port — ivory, slaves, and spices passed through its harbor — and in 1866 David Livingstone chose it as the starting point for his last expedition into the African interior. [The Old Boma](/africa/tanzania/mikindanimtwara/old_boma), the German colonial fort where Livingstone stayed, has been beautifully restored and now operates as a guesthouse and community project. Walking through [Mikindani's narrow streets](/africa/tanzania/mikindanimtwara/mikindani_old_town), past crumbling coral-stone houses and a handful of mosques, you get the sense of a place with far more history than its size would suggest.

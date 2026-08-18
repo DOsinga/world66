@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: -32.732
 longitude: 151.551
-score: 6.7
-snippet: Lower Hunter river city with colonial streets, a hard-edged old gaol, and nearby Morpeth.
+score: 3.533
+snippet: Lower Hunter river city with colonial streets, a hard-edged old gaol, and
+  nearby Morpeth.
 sources:
 - https://en.wikivoyage.org/wiki/Maitland_(New_South_Wales)
 - https://www.mymaitland.com.au/place/walka-recreation-and-wildlife-reserve/
 - https://www.maitland.nsw.gov.au/council/arts-heritage/learn-about-walka-water-works
+heritage: 2.589
+vibrancy: 2.052
+nature: 4.379
+off_the_beaten_track: 1.795
 ---
 
 Maitland sits on the Hunter River west of [Newcastle](/australiaandpacific/australia/newsouthwales/newcastle), close enough to be pulled into the city's orbit but different in feel. It is older, flatter, and more river-minded, with a history shaped by trade, floods, farms, and the Lower Hunter's early colonial wealth.

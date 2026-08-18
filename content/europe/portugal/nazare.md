@@ -5,7 +5,7 @@ done:
 latitude: 39.602911
 loc_type: city
 longitude: -9.070157
-score: 8.57
+score: 6.037
 snippet: Portuguese fishing town defined by Nazaré Canyon surf and a two-level Atlantic
   seafront.
 sources:
@@ -17,6 +17,10 @@ image: nazare.jpg
 image_source: https://commons.wikimedia.org/wiki/File:La_grande_plage_de_Nazar%C3%A9_-_panoramio_(20).jpg
 image_license: CC BY 3.0
 image_attribution: Mister No
+heritage: 3.809
+vibrancy: 5.209
+nature: 6.84
+off_the_beaten_track: 4.384
 ---
 
 Nazaré is a fishing town on [Portugal's](/europe/portugal) Silver Coast that has become world-famous for its enormous waves. [Praia do Norte](/europe/portugal/nazare/praia_do_norte), just north of the town, produces some of the biggest surfable waves on earth — the underwater Nazaré Canyon funnels Atlantic swells into walls of water that have exceeded 20 metres. Even if you have no intention of surfing, watching from the [Forte de São Miguel Arcanjo](/europe/portugal/nazare/forte_sao_miguel_arcanjo) during a big winter swell is extraordinary.

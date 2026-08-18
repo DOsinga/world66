@@ -14,7 +14,7 @@ quick_facts:
   Caldera Eruption: ~1600 BC
   Highest Point: 567 m
   Volcanic Beaches: Black, red & white sand
-score: 9.93
+score: 7.303
 snippet: Santorini is a volcanic Cycladic island shaped by a flooded caldera and cliff-top
   whitewashed towns.
 tags:
@@ -29,6 +29,10 @@ tip: Everyone crowds Oia for sunset until it's a crush — watch it from Imerovi
   car queues are long, so time your cruise tender carefully.
 title: Santorini
 type: location
+heritage: 6.375
+vibrancy: 7.537
+nature: 6.697
+off_the_beaten_track: 2.056
 ---
 
 Santorini is unlike anywhere else in Greece. The island is the remnant of a massive volcanic caldera — the eruption around 1600 BC was one of the largest in human history, and it left behind a crescent of steep cliffs, black and red sand beaches, and a flooded crater that forms one of the most dramatic natural harbors in the Mediterranean. The main towns of Fira and Oia cling to the caldera rim, their white-cube houses stacked up the cliff face above a drop of several hundred metres to the sea.

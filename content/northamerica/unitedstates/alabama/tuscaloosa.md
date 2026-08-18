@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bama_Theatre_Tuscaloosa_Al
 latitude: 33.209561
 loc_type: city
 longitude: -87.567526
-score: 6.06
+score: 3.926
 title: Tuscaloosa
 snippet: Alabama college town dominated by the University of Alabama and its football
   culture.
 type: location
+heritage: 3.263
+vibrancy: 4.019
+nature: 3.687
+off_the_beaten_track: 1.433
 ---
 
 Tuscaloosa is a college town of about 100,000 people, dominated by the University of Alabama and its fiercely loyal football culture. On game days in the fall, the city's population effectively doubles as fans descend on [Bryant-Denny Stadium](/northamerica/unitedstates/alabama/tuscaloosa/bryant_denny_stadium).

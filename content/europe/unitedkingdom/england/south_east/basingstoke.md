@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:St_Michael%27s_Church,_Bas
 latitude: 51.262826
 loc_type: city
 longitude: -1.086198
-score: 5.58
+score: 3.269
 snippet: Hampshire town near London, mostly rebuilt after the 1960s and useful for
   countryside day trips.
 title: Basingstoke
 type: location
+heritage: 2.243
+vibrancy: 3.521
+nature: 2.618
+off_the_beaten_track: 0.829
 ---
 
 Basingstoke sits in the centre of Hampshire, about 50 minutes by train from London Waterloo. It is not a destination most travellers seek out, but it serves as a practical base for exploring the surrounding Hampshire countryside.

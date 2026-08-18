@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:1_li_jiang_guilin_yangshuo
 latitude: 24.78
 loc_type: city
 longitude: 110.49
-score: 9.31
+score: 6.106
 snippet: Guangxi river town among sheer limestone karst peaks, rice paddies, and Li
   River cruise traffic
 title: Yangshuo
 type: location
+heritage: 5.138
+vibrancy: 4.848
+nature: 7.122
+off_the_beaten_track: 4.531
 ---
 
 Yangshuo is a small town at the end of the famous Li River cruise from Guilin, set among some of the most dramatic karst scenery in China. The limestone peaks rise almost vertically out of the flat valley floor all around the town, and the countryside between them — rice paddies, bamboo groves, small farming villages — is as beautiful as anything in the region. Most travellers arrive by boat and never quite manage to leave on schedule.

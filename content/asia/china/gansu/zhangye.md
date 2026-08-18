@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Zhangye_Dafo_Si_2014.01.02
 latitude: 38.9354
 loc_type: city
 longitude: 100.4553
-score: 8.68
+score: 5.935
 snippet: Hexi Corridor city with Silk Road history and rainbow-striped Danxia landforms
   nearby.
 sources:
 - https://en.wikivoyage.org/wiki/Zhangye
 title: Zhangye
 type: location
+heritage: 5.43
+vibrancy: 3.938
+nature: 6.897
+off_the_beaten_track: 3.755
 ---
 
 Zhangye sits roughly in the middle of the Hexi Corridor, the narrow strip of habitable land between the Tibetan plateau and the Gobi Desert that was, for two millennia, the only viable route between China and Central Asia. It was a garrison town during the Han Dynasty, a Buddhist centre during the Tang, and a stopping point for Marco Polo in the thirteenth century. The city still has a frontier atmosphere, a modest place where the history feels embedded rather than curated.

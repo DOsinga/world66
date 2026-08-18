@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:La_Roque-Gageac_-_01.jpg
 latitude: 44.825544
 loc_type: city
 longitude: 1.183499
-score: 8.7
+score: 5.48
 snippet: Dordogne riverside village wedged between limestone cliffs, golden houses,
   and troglodyte dwellings.
 tags:
 - dordogne
 title: La Roque-Gageac
 type: location
+heritage: 6.022
+vibrancy: 4.244
+nature: 5.941
+off_the_beaten_track: 2.408
 ---
 
 La Roque-Gageac is regularly cited as one of the most beautiful villages in France, and it is hard to argue. The village is wedged between a towering limestone cliff and the Dordogne River, its golden stone houses and slate roofs reflected in the water below. A tropical garden clings to the south-facing cliff face, warmed by the microclimate the rock creates.

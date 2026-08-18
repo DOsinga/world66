@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Glendalough,_County_Wicklo
 latitude: 53.010554
 loc_type: city
 longitude: -6.32737
-score: 8.8
+score: 6.287
 title: Glendalough
 type: location
 snippet: Wicklow Mountains glacial valley with early Christian monastic ruins between
   two dark lakes.
+heritage: 6.776
+vibrancy: 2.112
+nature: 6.873
+off_the_beaten_track: 3.198
 ---
 
 Glendalough — the "valley of two lakes" — is one of Ireland's most atmospheric early Christian sites. Tucked into a glacial valley in the Wicklow Mountains south of Dublin, the monastic settlement was founded by St Kevin in the 6th century and flourished for hundreds of years before Viking raids and eventual abandonment left it in romantic ruin.

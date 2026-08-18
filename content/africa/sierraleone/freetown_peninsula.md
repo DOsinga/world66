@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:A_Canoe_At_The_River_Numbe
 latitude: 8.35
 loc_type: city
 longitude: -13.2167
-score: 6.86
+score: 4.856
 snippet: Forested Atlantic peninsula south of Freetown, known for long beaches backed
   by hills and villages.
 title: Freetown Peninsula
 type: location
+heritage: 4.659
+vibrancy: 4.066
+nature: 5.552
+off_the_beaten_track: 5.153
 ---
 
 The Freetown Peninsula is a hilly, forested strip of land running about 40 km south of Freetown along the Atlantic coast. It has some of the best beaches in West Africa — long, uncrowded, and backed by forest — and is easy to reach as a day trip from the capital.

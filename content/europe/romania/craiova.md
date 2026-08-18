@@ -2,13 +2,18 @@
 latitude: 44.33333
 loc_type: city
 longitude: 23.81667
-score: 7.02
-snippet: Oltenian university city with grand parks, museums, and a lively central theatre scene.
+score: 5.258
+snippet: Oltenian university city with grand parks, museums, and a lively central
+  theatre scene.
 source: Wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Craiova
 title: Craiova
 type: location
 wikidata: Q168057
+heritage: 5.402
+vibrancy: 5.243
+nature: 3.388
+off_the_beaten_track: 2.463
 ---
 
 Craiova is the main city of Oltenia, set on the plains of southwestern Romania. It is less polished than Transylvania's showpiece towns, but it has enough culture and civic confidence to reward a spare day: a handsome art museum, a serious theatre, a large romantic park, and a centre built for strolling.

@@ -5,17 +5,22 @@ loc_type: city
 latitude: 49.7256
 longitude: -113.3972
 wikidata: Q2128700
-score: 7.0
-snippet: Southern Alberta heritage town near Head-Smashed-In Buffalo Jump and old NWMP history.
+score: 3.863
+snippet: Southern Alberta heritage town near Head-Smashed-In Buffalo Jump and old
+  NWMP history.
 sources:
-  - https://en.wikivoyage.org/wiki/Fort_Macleod
-  - https://tourismfortmacleod.ca/about
-  - https://headsmashedin.ca/
-  - https://en.wikipedia.org/wiki/Fort_Macleod
+- https://en.wikivoyage.org/wiki/Fort_Macleod
+- https://tourismfortmacleod.ca/about
+- https://headsmashedin.ca/
+- https://en.wikipedia.org/wiki/Fort_Macleod
 image: fort_macleod.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Exterior_of_the_Empress_Theatre_in_Fort_MacLeod,_Alberta.jpg
 image_license: CC BY 4.0
 image_attribution: Kkiefuik
+heritage: 3.114
+vibrancy: 1.907
+nature: 4.603
+off_the_beaten_track: 4.537
 ---
 
 Fort Macleod is one of southern Alberta's better small-town stops, with a real historic spine and a UNESCO site close enough to shape the whole visit. It began as a North-West Mounted Police post, and that frontier history still gives the town its strongest identity.

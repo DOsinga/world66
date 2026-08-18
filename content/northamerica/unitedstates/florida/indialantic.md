@@ -5,11 +5,15 @@ done:
 latitude: 28.091192
 loc_type: city
 longitude: -80.567988
-score: 6.38
+score: 4.743
 snippet: Small Florida beach town between the Indian River Lagoon and the Atlantic
   on the Space Coast
 title: Indialantic
 type: location
+heritage: 2.335
+vibrancy: 4.051
+nature: 5.394
+off_the_beaten_track: 1.219
 ---
 
 Indialantic is a small beach town on the Atlantic coast of Florida's Brevard County, sandwiched between the Indian River Lagoon to the west and the ocean to the east — the name is a blend of the two. With fewer than 3,000 residents, it functions mainly as a quiet residential community, but its wide Atlantic beach and easy access to the Space Coast make it a worthwhile stop for visitors spending time in the Melbourne area.

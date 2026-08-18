@@ -5,10 +5,14 @@ latitude: 17.85
 longitude: 8.75
 title: Air Mountains
 type: location
-score: 6.65
+score: 6.74
 loc_type: feature
 snippet: Volcanic Saharan mountain massif north of Agadez, with springs, rock art,
   and desert wildlife.
+heritage: 2.593
+vibrancy: 0.639
+nature: 8.332
+off_the_beaten_track: 6.933
 ---
 
 The Air Mountains rise dramatically from the Sahara north of [Agadez](/africa/niger/agadez) — a volcanic massif roughly the size of Switzerland, with peaks reaching above 2,000 metres. Mt Bagzane, about 150 km north of Agadez, is the highest point at around 2,022 metres. The contrast with the surrounding desert is startling: the mountains support real vegetation, permanent springs, and wildlife that has no equivalent in the plains below.

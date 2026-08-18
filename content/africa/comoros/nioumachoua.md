@@ -3,14 +3,19 @@ title: Nioumachoua
 type: location
 loc_type: city
 latitude: -12.3617
-longitude: 43.7150
-score: 7.0
-snippet: Mohéli village facing coral islets, beaches, and the marine heart of Comoros' smallest island.
+longitude: 43.715
+score: 6.169
+snippet: Mohéli village facing coral islets, beaches, and the marine heart of Comoros'
+  smallest island.
 wikidata: Q3342090
 sources:
-  - https://en.wikivoyage.org/wiki/Nioumachoua
-  - https://en.wikivoyage.org/wiki/Moheli
-  - https://en.wikipedia.org/wiki/Nioumachoua
+- https://en.wikivoyage.org/wiki/Nioumachoua
+- https://en.wikivoyage.org/wiki/Moheli
+- https://en.wikipedia.org/wiki/Nioumachoua
+heritage: 2.876
+vibrancy: 1.045
+nature: 7.482
+off_the_beaten_track: 6.814
 ---
 
 Nioumachoua, also written Nyumashiwa, is a village on the south coast of Mohéli, the smallest and wildest of the main Comoros islands. It is not a polished beach resort. That is the point. Fishing boats, baobabs, village life, coral islets, and the sea all sit close together here.

@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Approaching_Castlebay_-_ge
 latitude: 57.001775
 loc_type: city
 longitude: -7.469685
-score: 8.09
+score: 5.492
 snippet: Outer Hebrides island with Kisimul Castle, Atlantic beaches, and a tidal
   beach airport runway.
 tags:
 - things_to_do
 title: Barra
 type: location
+heritage: 4.256
+vibrancy: 1.895
+nature: 6.599
+off_the_beaten_track: 6.271
 ---
 
 Barra is the southernmost inhabited island of the Outer Hebrides, a compact place about eight miles by six miles with a character that punches well above its size. [Kisimul Castle](/europe/unitedkingdom/scotland/barra/kisimul_castle) — a medieval fortress sitting on a tiny islet in [Castlebay](/europe/unitedkingdom/scotland/barra/castlebay) harbour — is the ancestral seat of the MacNeil clan and can be reached by small boat from the village.

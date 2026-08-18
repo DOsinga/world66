@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -30.7489
 longitude: 121.4658
-score: 7.4
+score: 5.316
 snippet: Western Australian goldfields city shaped by the Super Pit, grand pubs, and
   desert mining history.
 wikidata: Q329503
@@ -18,6 +18,10 @@ image: kalgoorlie_boulder.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Super_Pit,_2016_(04).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Bahnfrend
+heritage: 5.53
+vibrancy: 4.687
+nature: 5.896
+off_the_beaten_track: 4.38
 ---
 
 Kalgoorlie-Boulder is the capital of the Western Australian goldfields, a desert city built on a fortune that never quite stopped being dug out of the ground. It is rough-edged, practical, and unusually vivid: wide streets, old hotels, mining headframes, red dust, and the enormous Super Pit at the edge of town.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 41.7925
 longitude: -88.0883
-score: 6.1
+score: 2.291
 snippet: Western Chicago suburb best known for the Morton Arboretum and a quiet DuPage
   County downtown.
 sources:
@@ -14,6 +14,10 @@ image: lisle.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Morton_Arboretum_Road_(8065377877).jpg
 image_license: CC BY 2.0
 image_attribution: David Jakes from Naperville, USA
+heritage: 2.354
+vibrancy: 2.284
+nature: 2.228
+off_the_beaten_track: 0.991
 ---
 
 Lisle is a village in DuPage County, west of [Chicago](/northamerica/unitedstates/illinois/chicago), and it is most interesting to travellers because of the Morton Arboretum. That one place gives Lisle a stronger identity than many suburbs around it: woods, gardens, prairie, and trails within an easy Metra ride or drive from the city.

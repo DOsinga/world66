@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lamia_Panorama.jpg
 latitude: 38.899383
 loc_type: city
 longitude: 22.433582
-score: 6.79
+score: 5.994
 snippet: Central Greek city near Thermopylae, set between Mount Othrys and the Oeta
   mountains.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Battle_of_Thermopylae
 title: Lamia
 type: location
+heritage: 6.308
+vibrancy: 3.547
+nature: 6.617
+off_the_beaten_track: 4.624
 ---
 
 Lamia is a city of around 50,000 people in central [Greece](/europe/greece), set in a broad valley between Mount Othrys to the north and the mountains of Oeta to the south. It is not a tourist destination in its own right, but it sits on one of the great historical fault lines of Greek history — and it makes a practical stop for travellers heading between Athens and Thessaloniki.

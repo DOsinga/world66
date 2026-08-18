@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 40.5123
 longitude: 141.4884
-score: 7.5
+score: 5.135
 snippet: Northern Honshu port city of seafood markets, gull shrines, and Sanriku coast
   walks.
 wikidata: Q191914
@@ -17,6 +17,10 @@ image: hachinohe.jpg
 image_source: https://commons.wikimedia.org/wiki/File:TanesashiBeachFromAshigezakiObservatory.JPG
 image_license: CC BY 3.0
 image_attribution: Ippukucho
+heritage: 4.435
+vibrancy: 4.908
+nature: 5.588
+off_the_beaten_track: 3.114
 ---
 
 Hachinohe is a working port on Aomori's Pacific side, far enough from the usual Tohoku route to feel like its own world. It is known for seafood, morning markets, summer festivals, and a coast where grassy headlands and fishing villages lead into Sanriku Fukko National Park.

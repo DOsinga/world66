@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/91701539@N03/54514399140
 latitude: 9.766779
 loc_type: city
 longitude: -75.641092
-score: 6.93
+score: 4.744
 title: Rincón del Mar
 snippet: Caribbean beach village on Colombia's Gulf of Morrosquillo, facing the Islas
   de San Bernardo
 type: location
+heritage: 2.138
+vibrancy: 1.714
+nature: 5.686
+off_the_beaten_track: 5.462
 ---
 
 Rincón del Mar is a small Caribbean beach village in the municipality of San Onofre, Sucre, about three hours by road from Cartagena. It sits on the Gulf of Morrosquillo, a calm stretch of the Caribbean sheltered from the open sea by the Islas de San Bernardo.

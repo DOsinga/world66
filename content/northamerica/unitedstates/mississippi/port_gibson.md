@@ -5,8 +5,9 @@ loc_type: city
 latitude: 31.9607
 longitude: -90.9839
 wikidata: Q2005276
-score: 6.7
-snippet: Mississippi Trace town with Civil War battlefields, Windsor's columns, and a famously odd church steeple.
+score: 3.285
+snippet: Mississippi Trace town with Civil War battlefields, Windsor's columns, and
+  a famously odd church steeple.
 sources:
 - https://en.wikivoyage.org/wiki/Port_Gibson
 - https://en.wikipedia.org/wiki/Port_Gibson,_Mississippi
@@ -17,6 +18,10 @@ image: port_gibson.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Port_Gibson_steeple1.JPG
 image_license: CC BY 2.5
 image_attribution: Galen Parks Smith
+heritage: 2.781
+vibrancy: 2.059
+nature: 3.913
+off_the_beaten_track: 1.67
 ---
 
 Port Gibson is a small Mississippi town between Natchez and Vicksburg, known for being too pretty for Grant to burn. The line is probably more legend than military record, but it tells you how the town wants to be seen: old churches, courthouse squares, quiet streets, and Civil War history pressed into a compact place.

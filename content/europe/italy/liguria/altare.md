@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Altare_old.jpg
 latitude: 44.336
 loc_type: city
 longitude: 8.3399
-score: 6.55
+score: 5.257
 snippet: Small Ligurian Apennine town above Savona, historically known for glassmaking
   traditions and mountain setting.
 tags:
 - rivieradellepalme
 title: Altare
 type: location
+heritage: 4.918
+vibrancy: 2.171
+nature: 6.063
+off_the_beaten_track: 3.66
 ---
 
 Altare is a small town in the Ligurian Apennines whose history is inseparable from the craft of glassmaking. French families brought the technique here in the 11th century, drawn by the dense forests that provided fuel for the furnaces. By 1552, the guild of glass craftsmen — known as the "Università del Vetro" — had its statutes formally recognised by the Monferrato, and it effectively governed the town until 1823.

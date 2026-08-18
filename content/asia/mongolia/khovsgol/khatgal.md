@@ -5,11 +5,15 @@ done:
 latitude: 50.444229
 loc_type: city
 longitude: 100.157935
-score: 7.49
+score: 6.195
 snippet: Mongolian lakeside settlement at the southern gateway to Lake Khövsgöl's
   pine forests and clear blue water
 title: Khatgal
 type: location
+heritage: 4.085
+vibrancy: 0.291
+nature: 7.502
+off_the_beaten_track: 6.884
 ---
 
 Khatgal is a small settlement at the southern tip of [Lake Khövsgöl](/asia/mongolia/khovsgol/khatgal/lake_khovsgol), the gateway to one of Mongolia's most beautiful landscapes. The lake — often called the "Blue Pearl of Mongolia" — sits at 1,645 metres, holds nearly 70 percent of the country's fresh water, and is so clear you can see the bottom in places several metres deep.

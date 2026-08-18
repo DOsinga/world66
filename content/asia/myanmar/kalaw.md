@@ -7,7 +7,7 @@ done:
 latitude: 20.6357
 loc_type: city
 longitude: 96.5669
-score: 7.79
+score: 5.904
 snippet: Shan Plateau hill station with pine forests, colonial bungalows, trekking
   routes, and a mixed highland culture
 title: Kalaw
@@ -16,6 +16,10 @@ image: kalaw.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Shan_Hills,_Myanmar,_Rice_paddies_in_rural_Myanmar_between_Inle_lake_and_Kalaw_mountain_range.jpg
 image_license: CC BY 4.0
 image_attribution: Vyacheslav Argenberg
+heritage: 4.72
+vibrancy: 3.647
+nature: 7.151
+off_the_beaten_track: 5.233
 ---
 
 "If we could take Kalaw with us, we would!" the British are reported to have said when leaving Myanmar. This old hill station sits on the rim of the Shan Plateau at around 1,300 metres, keeping it pleasantly cool even in the hottest months. The mock-Tudor colonial bungalows, the pine forests, and the crisp highland air give Kalaw a character quite unlike anything else in Myanmar.

@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Whistler,_British_Columbia
 latitude: 50.1153
 loc_type: city
 longitude: -122.9549
-score: 8.99
+score: 5.541
 snippet: British Columbia mountain resort town between Whistler and Blackcomb, with
   North America’s largest ski area.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Whistler
 title: Whistler
 type: location
+heritage: 2.203
+vibrancy: 4.992
+nature: 6.177
+off_the_beaten_track: 2.177
 ---
 
 *North America > Canada > British Columbia > Whistler*

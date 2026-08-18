@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Catedral_de_Saltillo_y_Pla
 latitude: 25.423043
 loc_type: city
 longitude: -100.992751
-score: 6.71
+score: 5.415
 snippet: High-desert Coahuila capital where colonial plazas, sarape weaving, and dinosaur
   fossils meet industry.
 title: Saltillo
 type: location
+heritage: 5.874
+vibrancy: 5.282
+nature: 3.481
+off_the_beaten_track: 2.665
 ---
 
 Saltillo is the capital of Coahuila state in northern Mexico, sitting at about 1,600 metres in a high desert basin surrounded by mountains. It's one of Mexico's most important industrial cities — the automotive cluster here produces a significant share of Mexico's vehicles — but also has genuine colonial heritage at its centre. The [baroque cathedral](/northamerica/mexico/saltillo/saltillo_cathedral) on the [Plaza de Armas](/northamerica/mexico/saltillo/plaza_de_armas) is considered one of the finest in northern Mexico.

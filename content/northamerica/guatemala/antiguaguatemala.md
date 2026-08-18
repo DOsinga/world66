@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Santa_Catalina_Arch_-_Anti
 latitude: 14.5575
 loc_type: city
 longitude: -90.7333
-score: 9.1
+score: 6.704
 snippet: Colonial Guatemalan city of earthquake-scarred churches, ochre streets, and
   a UNESCO-listed historic core.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikivoyage.org/wiki/Antigua_Guatemala
 title: Antigua Guatemala
 type: location
+heritage: 7.583
+vibrancy: 6.118
+nature: 4.537
+off_the_beaten_track: 2.14
 ---
 
 Antigua Guatemala is the most complete surviving colonial city in Central America, and one of the best-preserved in the hemisphere. Founded in 1543 as the capital of Spanish Guatemala, it was shattered by earthquakes in 1773 and never fully rebuilt — which is the reason it looks the way it does today: an extraordinary grid of streets lined with ochre and terracotta facades, ruined convents open to the sky, and baroque churches whose façades were rebuilt while their naves stand roofless behind them. In 1979 UNESCO listed it as a World Heritage Site.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:River_swat_Pakistan_0.jpg
 latitude: 35.232475
 loc_type: city
 longitude: 72.511635
-score: 6.45
+score: 3.94
 snippet: Pakistani mountain valley of rivers, orchards, alpine lakes, and Gandhara
   Buddhist ruins around Saidu Sharif.
 title: Swat
 type: location
+heritage: 4.097
+vibrancy: 2.662
+nature: 2.692
+off_the_beaten_track: 6.192
 ---
 
 The Swat Valley is one of Pakistan's most beautiful destinations — a lush-green valley of rushing torrents, icy lakes, fruit orchards, and flower-covered slopes that earned it the nickname "the Switzerland of the East." It also has a rich historical past: Swat played a pivotal role in the development of Buddhism, and ruins of great stupas, monasteries, and statues are found throughout the valley.

@@ -4,9 +4,13 @@ type: location
 loc_type: feature
 latitude: 21.069
 longitude: 105.363
-snippet: Forested mountain an hour from Hanoi, with French colonial ruins at the
-  summit and cloud-forest trails
-score: 0.5
+snippet: Forested mountain an hour from Hanoi, with French colonial ruins at the summit
+  and cloud-forest trails
+score: 5.767
+heritage: 2.21
+vibrancy: 1.359
+nature: 7.715
+off_the_beaten_track: 4.009
 ---
 
 Ba Vi mountain rises about 60 kilometres west of Hanoi, a forested massif that the French colonial administration turned into a hill station to escape the summer heat of the capital. The roads up through the national park pass cloud forest inhabited by macaques, birds, and a remarkable variety of orchids. At around 1,100 metres, the ruins of the French-era villas, churches, and government buildings emerge from the jungle, their walls consumed by roots and moss in the way that only decades of tropical growth can manage.

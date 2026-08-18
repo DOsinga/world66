@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Chenini_,_village_berbere_
 latitude: 32.910703
 loc_type: city
 longitude: 10.261552
-score: 7.58
+score: 5.529
 sources:
 - https://en.wikipedia.org/wiki/Chenini
 - https://en.wikipedia.org/wiki/Ksar_Chenini
@@ -17,6 +17,10 @@ snippet: Hilltop Berber village in southern Tunisia, with cave dwellings and a w
   mosque above the plain.
 title: Chenini
 type: location
+heritage: 4.646
+vibrancy: 1.781
+nature: 6.594
+off_the_beaten_track: 6.474
 ---
 
 Chenini is a hilltop Berber village in southern Tunisia, its ancient stone dwellings carved into the rock face and cascading down a steep ridge. A white mosque perches at the top, visible for miles across the dry plain below. It is one of the most striking villages in the country and one of the last places where the indigenous Berber language is still spoken in Tunisia.

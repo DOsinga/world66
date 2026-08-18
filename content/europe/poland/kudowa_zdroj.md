@@ -4,9 +4,13 @@ type: location
 loc_type: city
 latitude: 50.443611
 longitude: 16.248611
-score: 6.8
+score: 5.398
 snippet: A faded spa town in the Polish Kłodzko region, just across the border from
   Náchod, with mineral colonnades and a famous skull chapel.
+heritage: 5.969
+vibrancy: 2.647
+nature: 5.816
+off_the_beaten_track: 2.063
 ---
 
 Kudowa-Zdrój is a small spa town in the Kłodzko region of southwestern [Poland](/europe/poland), tucked into a valley of the Table Mountains right on the Czech border, about 10 km from [Náchod](/europe/czechrepublic/nachod). It has been taking the waters since the eighteenth century, and the bones of that genteel past are still visible — a leafy spa park, a pump room and colonnade where mineral springs are still drunk, and the slightly worn grand hotels of a resort that once drew Prussian and Austrian visitors in equal number.

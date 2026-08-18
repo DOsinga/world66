@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Champery-02.jpg
 latitude: 46.175679
 loc_type: city
 longitude: 6.868767
-score: 8.67
+score: 6.08
 snippet: Swiss-French Valais mountain village and Portes du Soleil gateway with chalet
   streets and high Alpine trails
 title: Champéry
 type: location
+heritage: 3.678
+vibrancy: 3.975
+nature: 7.504
+off_the_beaten_track: 2.672
 ---
 
 Champéry is a traditional Swiss-French mountain village in the canton of Valais, sitting at 1,050 metres on the slopes above the Illiez valley near the French border. It is best known as one of the gateways to the [Portes du Soleil](/europe/switzerland/champery/portes_du_soleil), one of the world's largest linked ski areas, which straddles the Swiss-French border and connects over a dozen resorts including Morzine, Avoriaz, and Les Gets. From Geneva Airport the village is around 90 minutes by bus, rail, or car.

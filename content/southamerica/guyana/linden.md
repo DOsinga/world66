@@ -5,13 +5,17 @@ done:
 latitude: 6.010002
 loc_type: city
 longitude: -58.312488
-score: 5.77
+score: 4.426
 snippet: Demerara River town shaped by bauxite mining, red laterite soil, and the
   road south to Brazil.
 sources:
 - https://en.wikipedia.org/wiki/Linden,_Guyana
 title: Linden
 type: location
+heritage: 4.124
+vibrancy: 3.526
+nature: 5.113
+off_the_beaten_track: 4.119
 ---
 
 Linden is Guyana's second-largest town, about 100km south of Georgetown on the [Demerara River](/southamerica/guyana/linden/demerara_river). It grew up around bauxite mining in the early twentieth century and the industry still defines the place: the skyline is dominated by old processing infrastructure, and the reddish laterite soil of the surrounding area gives it a distinctive colour. The [Mackenzie bauxite works](/southamerica/guyana/linden/bauxite_industry) document a century of industrial extraction visible throughout the town.

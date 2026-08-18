@@ -4,7 +4,7 @@ done:
 latitude: 36.116
 loc_type: city
 longitude: -97.059
-score: 7.36
+score: 3.701
 snippet: Oklahoma college town where OSU campus life, red-dirt music, and old downtown
   blocks meet.
 sources:
@@ -12,6 +12,10 @@ sources:
 - https://en.wikipedia.org/wiki/Oklahoma_State_University%E2%80%93Stillwater
 title: Stillwater
 type: location
+heritage: 2.412
+vibrancy: 3.848
+nature: 3.322
+off_the_beaten_track: 1.173
 ---
 
 Stillwater is Oklahoma's classic college town: orange on game days, quiet in summer, and shaped by Oklahoma State University at almost every turn. It has more personality than its size suggests, partly because the campus, downtown, and old restaurant-and-music haunts sit close enough to feel connected.

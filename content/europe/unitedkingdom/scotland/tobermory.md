@@ -1,13 +1,18 @@
 ---
 latitude: 56.6235
 loc_type: city
-longitude: -6.0630
-score: 7.8
-snippet: Colourful harbour village on Mull, with whisky, island history, and boat trips.
+longitude: -6.063
+score: 6.315
+snippet: Colourful harbour village on Mull, with whisky, island history, and boat
+  trips.
 sources:
-  - https://en.wikivoyage.org/wiki/Tobermory_(Scotland)
+- https://en.wikivoyage.org/wiki/Tobermory_(Scotland)
 title: Tobermory
 type: location
+heritage: 5.07
+vibrancy: 4.546
+nature: 7.592
+off_the_beaten_track: 4.264
 ---
 
 Tobermory is the main village on the Isle of Mull, curved around a sheltered harbour on the island's northeast coast. Its painted waterfront is famous, but the place works because it is still a small port rather than a stage set.

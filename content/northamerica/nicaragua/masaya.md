@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Masaya_Market,_Nicaragua.j
 latitude: 11.9744
 loc_type: city
 longitude: -86.0942
-score: 7.1
+score: 4.381
 snippet: Nicaraguan crafts city beside an active volcano, known for hammocks, pottery,
   and the Mercado de Artesanías.
 title: Masaya
 type: location
+heritage: 3.741
+vibrancy: 3.771
+nature: 4.968
+off_the_beaten_track: 4.437
 ---
 
 Masaya sits just 30 kilometres south of [Managua](/northamerica/nicaragua/managua) and is known for two things: its volcano and its crafts. The city is the handicraft capital of [Nicaragua](/northamerica/nicaragua), and the [Mercado de Artesanías](/northamerica/nicaragua/masaya/mercado_artesanias) — filling a gothic fortress-like building with hammocks, pottery, leather goods, wooden furniture, and embroidered clothing from across the country — is the best shopping for crafts in the country.

@@ -4,7 +4,7 @@ type: location
 loc_type: feature
 latitude: 32.8844
 longitude: 131.1039
-score: 8.7
+score: 5.848
 snippet: Active Kyushu volcano and vast caldera of smoking craters, grasslands, viewpoints,
   and onsen towns.
 wikidata: Q733710
@@ -17,6 +17,10 @@ image: aso.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Mount_Aso_(15462201315).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Ludovic Lubeigt from Taiwan
+heritage: 4.167
+vibrancy: 1.498
+nature: 7.298
+off_the_beaten_track: 4.561
 ---
 
 Mount Aso is not just a mountain. It is a huge living caldera in the middle of [Kyushu](/asia/japan/kyushu), with towns, farms, roads, grasslands, shrines, and steaming volcanic vents all inside the rim. On a clear day, the scale is startling: the outer walls run around the horizon while the five central peaks rise from the basin like a separate island of rock and smoke.

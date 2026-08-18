@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 50.864
 longitude: 9.722
-score: 6.8
+score: 5.064
 snippet: Hessian spa and festival town built around a vast Romanesque abbey ruin.
 sources:
 - https://en.wikivoyage.org/wiki/Bad_Hersfeld
@@ -14,6 +14,10 @@ image: badhersfeld.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Stiftskirche_in_Bad_Hersfeld_(4).jpg
 image_license: CC BY-SA 4.0
 image_attribution: Krzysztof Golik
+heritage: 5.72
+vibrancy: 2.292
+nature: 5.183
+off_the_beaten_track: 2.087
 ---
 
 Bad Hersfeld is a small Hessian town with one very large surprise: the [Stiftsruine](/europe/germany/hessen/badhersfeld/stiftsruine_bad_hersfeld), the shell of a Romanesque abbey church big enough to make the surrounding town feel almost theatrical. Every summer it becomes the stage for the Bad Hersfelder Festspiele, which is the right use for a ruin this dramatic.

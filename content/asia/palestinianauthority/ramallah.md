@@ -5,11 +5,15 @@ done:
 latitude: 31.9038
 loc_type: city
 longitude: 35.2034
-score: 5.54
+score: 5.133
 snippet: Ridge-top West Bank city with cafe-lined streets and the Palestinian territories'
   liveliest urban culture.
 title: Ramallah
 type: location
+heritage: 4.99
+vibrancy: 5.226
+nature: 3.827
+off_the_beaten_track: 5.358
 ---
 
 Ramallah is the de facto administrative capital of the Palestinian Authority, perched on a ridge in the central West Bank about fifteen kilometres north of [Jerusalem](/asia/israel/jerusalem). It has grown from a small Christian town into a busy, cosmopolitan city — by West Bank standards — with universities, NGO offices, and the most active nightlife scene in the Palestinian territories.

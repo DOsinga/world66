@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: -36.2833
 longitude: 174.8167
-score: 7.28
-snippet: Small Auckland-region fishing village beside New Zealand's first marine reserve at Goat Island.
+score: 4.687
+snippet: Small Auckland-region fishing village beside New Zealand's first marine reserve
+  at Goat Island.
 sources:
-  - https://en.wikivoyage.org/wiki/Leigh_(New_Zealand)
-  - https://en.wikipedia.org/wiki/Leigh,_New_Zealand
-  - https://en.wikipedia.org/wiki/Cape_Rodney-Okakari_Point_Marine_Reserve
+- https://en.wikivoyage.org/wiki/Leigh_(New_Zealand)
+- https://en.wikipedia.org/wiki/Leigh,_New_Zealand
+- https://en.wikipedia.org/wiki/Cape_Rodney-Okakari_Point_Marine_Reserve
+heritage: 2.376
+vibrancy: 2.385
+nature: 6.113
+off_the_beaten_track: 2.401
 ---
 
 Leigh is a small fishing village north of Auckland, but its pull is bigger than its size. The village sits between quiet bays, surf beaches, and Goat Island, where the Cape Rodney-Okakari Point Marine Reserve protects clear water, rocky reef, and snapper that have learned not to fear snorkellers.

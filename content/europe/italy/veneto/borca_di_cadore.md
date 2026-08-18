@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:32040_Borca_di_Cadore,_Pro
 latitude: 46.4333
 loc_type: city
 longitude: 12.2167
-score: 7.64
+score: 5.471
 snippet: Dolomite village known for Villaggio ENI, a forested modernist holiday complex
   with a Carlo Scarpa chapel.
 sources:
@@ -17,6 +17,10 @@ tags:
 - dolomites
 title: Borca di Cadore
 type: location
+heritage: 4.195
+vibrancy: 1.901
+nature: 6.702
+off_the_beaten_track: 3.415
 ---
 
 Borca di Cadore is a small comune in the Boite valley of the eastern Dolomites, sitting at about 940 metres between [San Vito di Cadore](/europe/italy/veneto/san_vito_di_cadore) to the north and [Vodo di Cadore](/europe/italy/veneto/vodo_di_cadore) to the south. The village itself is unremarkable — a handful of stone houses, a parish church, the usual cluster of valley-floor shops — but Borca holds one of the most unusual architectural complexes in the Italian Alps, and that is why people come.

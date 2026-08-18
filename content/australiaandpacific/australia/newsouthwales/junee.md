@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: -34.8667
 longitude: 147.5667
-score: 6.21
-snippet: Small Riverina railway town with a roundhouse, old flour mill, and easy country-town oddities.
+score: 4.544
+snippet: Small Riverina railway town with a roundhouse, old flour mill, and easy country-town
+  oddities.
 sources:
-  - https://en.wikivoyage.org/wiki/Junee
-  - https://www.visitnsw.com/destinations/country-nsw/riverina/junee
-  - https://www.australiangeographic.com.au/travel/2025/05/a-complete-guide-to-junee-nsw/
+- https://en.wikivoyage.org/wiki/Junee
+- https://www.visitnsw.com/destinations/country-nsw/riverina/junee
+- https://www.australiangeographic.com.au/travel/2025/05/a-complete-guide-to-junee-nsw/
+heritage: 4.248
+vibrancy: 2.738
+nature: 5.242
+off_the_beaten_track: 3.904
 ---
 
 *Australia and Pacific > Australia > New South Wales > Junee*

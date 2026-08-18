@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Nong_Khai_Old_City_Hall.jp
 latitude: 17.8783
 loc_type: city
 longitude: 102.745
-score: 7.76
+score: 2.246
 snippet: Mekong border town facing Laos, known for riverfront sunsets and the surreal
   Sala Kaew Ku sculpture park.
 title: Nong Khai
 type: location
+heritage: 2.397
+vibrancy: 1.751
+nature: 2.429
+off_the_beaten_track: 3.445
 ---
 
 Nong Khai sits right on the Mekong River, 630 km northeast of [Bangkok](/asia/thailand/bangkok), staring across the water at [Laos](/asia/laos). It is one of Thailand's most atmospheric border towns — unhurried, friendly, and with a [stretch of riverfront](/asia/thailand/nongkhai/mekong_riverfront) that turns golden at sunset.

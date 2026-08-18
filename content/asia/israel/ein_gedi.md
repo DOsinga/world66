@@ -5,11 +5,15 @@ done:
 latitude: 31.452396
 loc_type: city
 longitude: 35.384824
-score: 8.12
+score: 6.189
 snippet: Dead Sea oasis reserve where springs, waterfalls, ibex, and desert cliffs
   meet.
 title: Ein Gedi
 type: location
+heritage: 5.342
+vibrancy: 2.496
+nature: 7.328
+off_the_beaten_track: 2.205
 ---
 
 Ein Gedi is a lush oasis nature reserve clinging to the cliffs above the Dead Sea, about 90 km southeast of Jerusalem. The contrast with the surrounding desert is dramatic: springs feed waterfalls, ibex pick their way along rocky ledges, and hyraxes sun themselves on the boulders.

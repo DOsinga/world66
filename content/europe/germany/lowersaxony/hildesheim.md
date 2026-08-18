@@ -5,7 +5,7 @@ done:
 latitude: 52.1527
 loc_type: city
 longitude: 9.9518
-score: 7.87
+score: 6.338
 snippet: Lower Saxony city with two UNESCO-listed Romanesque churches and the medieval
   Bernward Doors.
 sources:
@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/St._Michael%27s_Church,_Hildesheim
 title: Hildesheim
 type: location
+heritage: 8.049
+vibrancy: 4.001
+nature: 2.665
+off_the_beaten_track: 2.352
 ---
 
 Hildesheim is a mid-sized city in [Lower Saxony](/europe/germany/lowersaxony) whose two Romanesque churches — [St. Michael's](/europe/germany/lowersaxony/hildesheim/st_michaels_church) and the [Cathedral of the Assumption](/europe/germany/lowersaxony/hildesheim/hildesheim_cathedral) — are UNESCO World Heritage Sites. Both date to around 1000 AD and contain remarkable art, including the famous [Bernward Doors](/europe/germany/lowersaxony/hildesheim/bernward_doors) and the Bernward Column in the cathedral.

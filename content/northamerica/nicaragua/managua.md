@@ -14,7 +14,7 @@ quick_facts:
   On Lake Managua: A lakeside capital
   Population: ~1 million
   Tiscapa: A crater lagoon in the city
-score: 6.33
+score: 3.791
 snippet: Low-rise Nicaraguan capital on Lake Managua, reshaped by the 1972 earthquake
   and rough urban energy.
 tip: Managua is a low-rise, spread-out capital on a lake, with no real downtown —
@@ -24,6 +24,10 @@ tip: Managua is a low-rise, spread-out capital on a lake, with no real downtown 
   transport.
 title: Managua
 type: location
+heritage: 3.456
+vibrancy: 3.804
+nature: 3.757
+off_the_beaten_track: 3.329
 ---
 
 Managua is the capital of [Nicaragua](/northamerica/nicaragua), a sprawling, low-rise city of about a million people on the shores of Lake Managua. The devastating earthquake of 1972 destroyed much of the old centre, and the reconstruction that followed never quite brought it back — the city lacks the colonial charm of [Granada](/northamerica/nicaragua/granada) or [Leon](/northamerica/nicaragua/len). But Managua has its own rough energy, and most travellers pass through at least briefly.

@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:20160628_Schloss_Heessen,_
 latitude: 51.6739
 loc_type: city
 longitude: 7.816
-score: 5.99
+score: 4.565
 title: Hamm
 type: location
 snippet: Ruhr city in North Rhine-Westphalia, known for Maximilianpark and its glass
   elephant landmark.
+heritage: 5.806
+vibrancy: 2.863
+nature: 2.808
+off_the_beaten_track: 2.352
 ---
 
 Hamm is an industrial city in eastern Westphalia that most travelers pass through without stopping, but it has a couple of genuinely unusual attractions that make it worth a detour. The [Sri Kamadchi Ampal Temple](/europe/germany/northrhinewestphalia/hamm/sri_kamadchi_ampal_temple) is the largest Hindu temple in Europe, built by the city's Sri Lankan Tamil community and consecrated in 2002. Its colourful gopuram tower, covered in hundreds of carved and painted deities, looks startlingly out of place against the grey North Rhine-Westphalian sky. The temple is open to visitors and hosts a major chariot festival each summer that draws tens of thousands of Hindu pilgrims from across Europe.

@@ -2,13 +2,18 @@
 latitude: 53.0822
 loc_type: city
 longitude: 9.9972
-score: 7.05
-snippet: Small Lüneburg Heath town beside Wilsede, Wilseder Berg, and family-friendly heath attractions.
+score: 4.716
+snippet: Small Lüneburg Heath town beside Wilsede, Wilseder Berg, and family-friendly
+  heath attractions.
 sources:
-  - https://en.wikivoyage.org/wiki/Bispingen
-  - https://www.bispingen.de/
+- https://en.wikivoyage.org/wiki/Bispingen
+- https://www.bispingen.de/
 title: Bispingen
 type: location
+heritage: 2.188
+vibrancy: 2.723
+nature: 5.994
+off_the_beaten_track: 2.13
 ---
 
 Bispingen is a small Lower Saxon town that makes sense because of what lies inside its wide municipal boundary. It is not a grand town in itself, but it puts you close to the most recognisable part of the Lüneburg Heath: Wilsede, Wilseder Berg, sheep-grazed heathland and car-free tracks across the sand.

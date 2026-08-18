@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cloud_over_Lower_Hutt.jpg
 latitude: -41.212575
 loc_type: city
 longitude: 174.905763
-score: 6.52
+score: 5.129
 title: Lower Hutt
 type: location
 snippet: Wellington-region city in the Te Awa Kairangi / Hutt River valley, with museums
   and harbour suburbs.
+heritage: 3.872
+vibrancy: 3.744
+nature: 6.141
+off_the_beaten_track: 2.157
 ---
 
 Lower Hutt lies 15 minutes by train northeast of [Wellington](/australiaandpacific/newzealand/north_island/greater_wellington/wellington), in the broad flat valley carved by the Te Awa Kairangi / Hutt River. It is the largest city in the Wellington region after the capital itself, and functions partly as a commuter city and partly as a self-contained urban centre with its own cultural life, parks, and suburban character.

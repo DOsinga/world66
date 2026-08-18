@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Big_Hole,_Kimberley,_North
 latitude: -28.7383
 loc_type: city
 longitude: 24.7642
-score: 7.33
+score: 5.873
 snippet: South African diamond city built around the Big Hole and the dry Northern
   Cape mining rush
 title: Kimberley
 type: location
+heritage: 5.256
+vibrancy: 5.691
+nature: 6.342
+off_the_beaten_track: 4.61
 ---
 
 Kimberley sits in the middle of South Africa, a long way from anything — [Johannesburg](/africa/southafrica/johannesburg) is 500 km away, [Cape Town](/africa/southafrica/capetown) nearly 1,000, [Durban](/africa/southafrica/durban) over 800. It exists because of diamonds. In 1871, the discovery of a massive diamond-bearing kimberlite pipe triggered a rush that brought tens of thousands of prospectors to the dry Northern Cape, and within a few years the chaotic tent city had become the diamond capital of the world.

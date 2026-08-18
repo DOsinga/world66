@@ -9,10 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Church_of_the_Assumption,_
 latitude: 53.2744
 loc_type: city
 longitude: -7.4927
-score: 6.85
+score: 3.324
 snippet: County town of Offaly on the Grand Canal, known for Tullamore D.E.W. whiskey.
 title: Tullamore
 type: location
+heritage: 4.014
+vibrancy: 2.518
+nature: 2.393
+off_the_beaten_track: 1.179
 ---
 
 Tullamore is the county town of Offaly, sitting in the heart of the Irish Midlands along the [Grand Canal](/europe/ireland/tullamore/grand_canal). It is best known as the home of Tullamore D.E.W. whiskey, and the [modern distillery](/europe/ireland/tullamore/tullamore_dew_distillery) on the edge of town is the main draw for most visitors. The old bonded warehouse in the town centre, where the whiskey was originally made, now houses a heritage exhibition worth a look.

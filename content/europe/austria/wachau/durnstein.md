@@ -4,10 +4,15 @@ type: location
 loc_type: city
 latitude: 48.3956
 longitude: 15.5203
-snippet: Wachau wine village with a blue Baroque monastery tower and Richard the Lionheart's ruined castle.
-score: 8.9
+snippet: Wachau wine village with a blue Baroque monastery tower and Richard the Lionheart's
+  ruined castle.
+score: 5.95
 sources:
-  - https://en.wikivoyage.org/wiki/D%C3%BCrnstein
+- https://en.wikivoyage.org/wiki/D%C3%BCrnstein
+heritage: 7.415
+vibrancy: 4.042
+nature: 4.512
+off_the_beaten_track: 1.765
 ---
 
 Dürnstein is the most visited village in the [Wachau](/europe/austria/wachau), a small Danube town of blue church towers, stone lanes, steep vineyards, and ruined castle walls above the river. It is compact and mostly pedestrian, but it carries more history than its size suggests: Richard the Lionheart was imprisoned in the castle here in 1192, and the Augustinian monastery below has become the visual symbol of the whole valley.

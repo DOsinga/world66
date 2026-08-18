@@ -15,7 +15,7 @@ DIMENSIONS_FILE = DATA_DIR / "latent_label_scores.json"
 HIDDEN_FILE = DATA_DIR / "all_location_hidden_12.npz"
 MODEL_OUT = DATA_DIR / "old_score_regression.json"
 PREDICTIONS_OUT = DATA_DIR / "old_score_predictions.json"
-LOCATION_SCORES_OUT = DATA_DIR / "location_scores.json"
+LOCATION_SCORES_OUT = DATA_DIR / "old_location_scores.json"
 DIMENSIONS = ("heritage", "vibrancy", "nature", "off_the_beaten_track")
 
 

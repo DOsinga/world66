@@ -5,11 +5,15 @@ done:
 latitude: 8.581696
 loc_type: city
 longitude: -71.165807
-score: 6.96
+score: 4.594
 title: Mérida
 type: location
 snippet: Andean university city in western Venezuela, set below high peaks and a long
   cable car route.
+heritage: 4.836
+vibrancy: 4.537
+nature: 4.446
+off_the_beaten_track: 4.575
 ---
 
 Mérida is Venezuela's great mountain city, sitting in a narrow valley in the Andes at about 1,600 metres above sea level. The climate is mild and spring-like year-round — a welcome contrast to the coastal heat — and the city has a large, lively university population. For many travelers it is the most pleasant and liveable city in the country.

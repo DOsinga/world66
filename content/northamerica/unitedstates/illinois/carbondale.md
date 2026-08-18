@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Greetings_from_Carbondale,
 latitude: 37.7275
 loc_type: city
 longitude: -89.2167
-score: 6.01
+score: 5.177
 snippet: Southern Illinois university town and gateway to the trails and bluffs of
   Shawnee National Forest
 title: Carbondale
 type: location
+heritage: 3.083
+vibrancy: 3.844
+nature: 6.167
+off_the_beaten_track: 2.439
 ---
 
 A university town in deep southern Illinois and the best base for exploring the [Shawnee National Forest](/northamerica/unitedstates/illinois/carbondale/shawnee_national_forest). [Southern Illinois University](/northamerica/unitedstates/illinois/carbondale/southern_illinois_university) gives it a lively cultural scene for its size, and the historic downtown — centred on a restored railroad depot and pavilion — has a nostalgic charm. The [West Walnut Street Historic District](/northamerica/unitedstates/illinois/carbondale/west_walnut_street_historic_district) is pleasant for walking, and [Woodlawn Cemetery](/northamerica/unitedstates/illinois/carbondale/woodlawn_cemetery) has a strong claim to hosting the nation's first Memorial Day observance. The [R. Buckminster Fuller Dome Home](/northamerica/unitedstates/illinois/carbondale/buckminster_fuller_dome_home) is a National Historic Landmark — the only geodesic dome Fuller ever actually lived in.

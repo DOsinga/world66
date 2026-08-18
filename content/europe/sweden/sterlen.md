@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Br%C3%B6sarps_backar_okt_2
 latitude: 55.5993
 loc_type: city
 longitude: 14.1141
-score: 7.69
+score: 5.415
 snippet: Southeastern Swedish coastal region of wheat fields, apple orchards, long
   Baltic beaches, and unhurried summer light.
 title: Österlen
 type: location
+heritage: 5.064
+vibrancy: 2.974
+nature: 6.247
+off_the_beaten_track: 3.001
 ---
 
 Österlen is the southeastern tip of Sweden — a gently rolling landscape of wheat fields, apple orchards, and long sandy beaches that feels a world apart from Stockholm. Technically it's not an official region at all, more a shared idea: the area roughly between Brösarp in the north and Ystad in the south, hugging the Baltic coast. What holds it together is light, quiet, and a certain unhurried pace that Swedes have been coming here for generations to find.

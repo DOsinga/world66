@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Demeter_sanctuary,_Dion,_P
 latitude: 40.172173
 loc_type: city
 longitude: 22.487426
-score: 7.84
+score: 6.155
 snippet: Greek village below Mount Olympus, beside the sacred Macedonian ruins of
   ancient Dion.
 title: Dion
 type: location
+heritage: 7.102
+vibrancy: 2.035
+nature: 5.961
+off_the_beaten_track: 3.178
 ---
 
 Dion is a small village at the foot of Mount Olympus in northern Greece, but its significance far outweighs its size. The ancient city of Dion was one of the most sacred places in the Macedonian kingdom — Philip II and Alexander the Great both made offerings here before military campaigns, and the city's temples to Zeus, Demeter, and Isis were among the most important in the ancient world.

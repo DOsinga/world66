@@ -5,11 +5,15 @@ done:
 latitude: 31.385648
 loc_type: city
 longitude: 75.30533
-score: 6.48
+score: 3.485
 snippet: Small Punjabi city with a princely architectural legacy inspired by Versailles
   and Moorish design.
 title: Kapurthala
 type: location
+heritage: 4.421
+vibrancy: 2.197
+nature: 2.469
+off_the_beaten_track: 2.155
 ---
 
 Kapurthala is a small Punjabi city with an outsized architectural legacy. Maharaja Jagatjit Singh, who ruled from 1877 to 1949 and made repeated pilgrimages to France, was determined to turn his capital into a "Paris of the East" — and the results are scattered around town like exhibits in a very large open-air museum. The [Jagatjit Palace](/asia/india/punjab/kapurthala/jagatjit_palace), modelled on Versailles and designed by French architects, sets the tone. The [Moorish Mosque](/asia/india/punjab/kapurthala/moorish_mosque) — designed by another Frenchman to look like a Moroccan mosque, funded by a Sikh maharaja for his Muslim subjects — is the most remarkable single building. The [Panch Mandir](/asia/india/punjab/kapurthala/panch_mandir) provides a Hindu counterpoint to the otherwise Franco-Moorish streetscape.

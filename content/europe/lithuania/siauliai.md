@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/49399018@N00/11185063763
 latitude: 55.934082
 loc_type: city
 longitude: 23.315777
-score: 7.03
+score: 5.285
 snippet: Northern Lithuanian city and gateway to Kryžių kalnas, the defiant pilgrimage
   hill covered in crosses
 title: Siauliai
 type: location
+heritage: 6.427
+vibrancy: 3.914
+nature: 3.649
+off_the_beaten_track: 2.762
 ---
 
 Šiauliai is Lithuania's fourth-largest city, set in the north of the country on the flat plains of the Žemaitija highland. It is an industrial and trading centre rather than a tourist destination, but it serves as the gateway to one of Lithuania's most unusual sights: the [Hill of Crosses](/europe/lithuania/siauliai/hill_of_crosses) (Kryžių kalnas), a few kilometres north of the city.

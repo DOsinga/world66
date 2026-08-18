@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/7220207@N08/8732771574
 latitude: 41.094419
 loc_type: city
 longitude: 44.711056
-score: 8.01
+score: 6.629
 snippet: Armenian monastery village above Debed Canyon, centred on Haghpat's 10th-century
   UNESCO complex.
 title: Haghpat
 type: location
+heritage: 7.665
+vibrancy: 2.126
+nature: 6.385
+off_the_beaten_track: 4.691
 ---
 
 Haghpat (Հաղպատ, meaning "a huge wall") is a village in northern Armenia built around one of the country's finest medieval monasteries. It sits high above the [Debed canyon](/europe/armenia/haghpat/debed_canyon_viewpoint) about 10 km from [Alaverdi](/europe/armenia/alaverdi). To get there you will need your own transport, negotiate with a local to give you a lift, or take a long walk. Take the main road northwards (towards the Georgian border) and soon after you leave town, turn right onto a steep climbing road that takes you to Haghpat village.

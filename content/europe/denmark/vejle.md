@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bryggen_i_Vejle.JPG
 latitude: 55.707931
 loc_type: city
 longitude: 9.532942
-score: 7.29
+score: 3.058
 snippet: Eastern Jutland fjord town near the UNESCO-listed Jelling Stones, with wooded
   hills and modern waterfront architecture.
 title: Vejle
 type: location
+heritage: 3.521
+vibrancy: 2.665
+nature: 2.867
+off_the_beaten_track: 1.657
 ---
 
 Vejle sits at the head of Vejle Fjord in eastern Jutland, squeezed between wooded hills in a setting that feels unusually dramatic for [Denmark](/europe/denmark). The town has reinvented itself in recent years with striking modern architecture along the waterfront, including the wave-shaped residential building Bølgen, while the compact old centre retains a pleasant mix of pedestrian streets and half-timbered houses.

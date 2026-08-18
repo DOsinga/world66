@@ -12,9 +12,13 @@ sources:
 - https://en.wikivoyage.org/wiki/Huanglongsi_National_Park
 title: Huanglong
 type: location
-score: 8.93
+score: 5.804
 snippet: Sichuan mountain valley known for travertine pools, forested slopes, and
   Tibetan villages.
+heritage: 1.211
+vibrancy: 1.126
+nature: 7.24
+off_the_beaten_track: 5.757
 ---
 
 Huanglong — officially Huanglongsi National Park — is a UNESCO World Heritage Site in northern Sichuan, about 60 kilometres north of Songpan, featuring a valley of travertine mineral pools that descend a limestone mountainside in vivid shades of turquoise, gold, and white. The deposits have accumulated over millennia as calcium-rich water flows down from the snowfields above, leaving behind terraced formations that look, in photographs, almost too saturated to be real. In person the colour is genuine and the scale is larger than images convey.

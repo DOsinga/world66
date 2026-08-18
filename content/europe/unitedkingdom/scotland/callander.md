@@ -5,7 +5,7 @@ done:
 latitude: 56.243694
 loc_type: city
 longitude: -4.214803
-score: 7.97
+score: 5.686
 snippet: Scottish gateway town where the Lowlands meet the Trossachs, with mountains
   rising beyond its main street
 sources:
@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Ben_Ledi
 title: Callander
 type: location
+heritage: 4.461
+vibrancy: 3.406
+nature: 6.922
+off_the_beaten_track: 3.683
 ---
 
 Callander sits at the point where the Scottish Lowlands give way to the Highlands — not gradually but all at once, with the mountains rising directly from the town's back garden. It is one of the two main gateways to the Loch Lomond and The Trossachs National Park, the other being Aberfoyle to the south, and it handles the role with more character than most gateway towns can muster. The main street is broad and stone-built, lined with independent shops and cafes that have been catering to walkers and cyclists since the Victorian era, when the railway brought the first wave of Glasgow day-trippers.

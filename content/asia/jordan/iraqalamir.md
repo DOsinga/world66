@@ -9,10 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:20100923_iraq_el_amir39.JP
 latitude: 31.9151
 loc_type: city
 longitude: 35.7539
-score: 7.25
+score: 4.686
 snippet: Wadi Seer village west of Amman, known for the Hellenistic palace Qasr al-Abd.
 title: Iraq al-Amir
 type: location
+heritage: 6.25
+vibrancy: 1.391
+nature: 2.629
+off_the_beaten_track: 2.647
 ---
 
 Iraq al-Amir is a small village in the Wadi Seer valley, about 30 kilometres west of [Amman](/asia/jordan/amman). It makes an easy half-day trip from the capital and offers one of the few Hellenistic sites in [Jordan](/asia/jordan) — a reminder that this part of the world was once ruled by the successors of Alexander the Great.

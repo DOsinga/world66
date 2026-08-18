@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Cueva_Para%C3%ADso,_Parque
 latitude: 17.5553
 loc_type: city
 longitude: 106.1123
-score: 9.13
+score: 5.819
 snippet: Central Vietnamese national park in Quang Binh, famous for vast limestone
   caves including Son Doong.
 title: Phong Nha - Ke Bang
 type: location
+heritage: 2.12
+vibrancy: 1.453
+nature: 7.665
+off_the_beaten_track: 4.437
 ---
 
 Phong Nha - Ke Bang is a 200,000-hectare national park in central Vietnam's Quang Binh province, straddling the eastern flank of the Truong Son range near the Laotian border. It was recognised as a UNESCO World Heritage site in 2003, and again in 2015, for a reason that only fully registers when you see it in person: the limestone massif hides what is, by most measures, the largest and most extraordinary cave system on the planet.

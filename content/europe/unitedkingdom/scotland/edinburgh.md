@@ -16,7 +16,7 @@ quick_facts:
   Inspired: Harry Potter
   Population: 530,000
   The Fringe: World's biggest arts festival
-score: 9.92
+score: 8.053
 snippet: Scottish capital built on volcanic rock, where medieval closes and Georgian
   terraces face across a former loch.
 tip: Edinburgh is built on hills and old volcanoes, so wear real shoes and expect
@@ -26,6 +26,10 @@ tip: Edinburgh is built on hills and old volcanoes, so wear real shoes and expec
   in the city.
 title: Edinburgh
 type: location
+heritage: 7.366
+vibrancy: 8.374
+nature: 6.444
+off_the_beaten_track: 1.723
 ---
 
 The capital of Scotland, Edinburgh is one of the world's great cities — a compact, walkable capital built on volcanic rock and Georgian ambition, where the medieval Old Town and the planned New Town face each other across a valley that was once a loch. Few cities pack so much history, architecture, and sheer drama into such a small space.

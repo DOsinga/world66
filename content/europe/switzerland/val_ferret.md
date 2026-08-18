@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:ValFerretAostaValleyAug312
 latitude: 45.9779
 loc_type: feature
 longitude: 7.1209
-score: 8.56
+score: 5.928
 snippet: Swiss alpine valley below Mont Blanc's southern massif, crossed by the Tour
   du Mont Blanc.
 title: Val Ferret
 type: location
+heritage: 2.5
+vibrancy: 1.616
+nature: 7.987
+off_the_beaten_track: 3.936
 ---
 
 Val Ferret is a quiet alpine valley in the Valais canton, tucked against the Italian border beneath the shadow of Mont Blanc's southern massif. It's the Swiss arm of a larger valley system shared with Italy and France — the same high terrain that serious hikers and mountaineers cross on the Tour du Mont Blanc. The valley runs from Orsières up to the hamlet of Ferret, with the Dranse de Ferret river threading through it.

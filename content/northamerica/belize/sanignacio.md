@@ -5,7 +5,7 @@ done:
 latitude: 17.1562
 loc_type: city
 longitude: -89.0706
-score: 8.27
+score: 6.322
 snippet: Western Belize market town on the Macal River, used as a base for Maya ruins
   and caves.
 title: San Ignacio
@@ -14,6 +14,10 @@ image: sanignacio.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Hawkesworth_Bridge_2017.jpg
 image_license: CC0
 image_attribution: Kaldari
+heritage: 6.565
+vibrancy: 4.712
+nature: 7.016
+off_the_beaten_track: 4.189
 ---
 
 San Ignacio (also called Cayo) is the main town in western Belize and the base for exploring the interior. It sits on the [Macal River](/northamerica/belize/sanignacio/macal_river) near the Guatemalan border, and the surrounding area packs in Maya ruins, jungle caves, waterfalls, and wildlife into a compact area.

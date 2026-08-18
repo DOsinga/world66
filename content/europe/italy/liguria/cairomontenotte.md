@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Cairo_Montenotte_-_Castell
 latitude: 44.399268
 loc_type: city
 longitude: 8.274561
-score: 6.65
+score: 4.336
 snippet: Inland Ligurian town on the Bormida plain, known for Napoleon's first Italian
   campaign victory.
 tags:
 - rivieradellepalme
 title: Cairo Montenotte
 type: location
+heritage: 3.289
+vibrancy: 3.547
+nature: 5.007
+off_the_beaten_track: 1.978
 ---
 
 Cairo Montenotte sits on the left bank of the Bormida di Spigno, on a plain ringed by hills that climb toward the Apennines in the direction of Monferrato. The town has been a crossroads since Roman times — it was a station on the Via Julia Augusta from Vado to Tortona — and was fought over by Lombards, Saracens, the Del Carretto marchesi, and the House of Savoy. Napoleon defeated the Austrians here in 1796, his first major victory of the Italian campaign; the [Battle of Montenotte Memorial](/europe/italy/liguria/cairomontenotte/napoleon_battlefield) marks the site on the hills above town.

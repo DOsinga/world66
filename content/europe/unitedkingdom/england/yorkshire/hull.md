@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ferens_Art_Gallery_,_Made_
 latitude: 53.762386
 loc_type: city
 longitude: -0.330121
-score: 6.93
+score: 3.525
 snippet: Humber estuary port city with maritime museums, ferries, and a sturdy east-coast
   character
 title: Hull
 type: location
+heritage: 3.958
+vibrancy: 3.277
+nature: 2.141
+off_the_beaten_track: 0.917
 ---
 
 Officially Kingston upon Hull, but nobody calls it that. Hull sits where the River Hull meets the Humber estuary on England's east coast, and for centuries it has been one of the country's major ports. Ferries from Rotterdam and Zeebrugge dock here, and many travellers step off the boat and head straight for [York](/europe/unitedkingdom/england/yorkshire/york) or the Yorkshire Dales. That is a shame — Hull has more to offer than its reputation suggests.

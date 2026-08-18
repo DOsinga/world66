@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:%C3%84gina_Hafenblick.jpg
 latitude: 37.724369
 loc_type: city
 longitude: 23.493811
-score: 8.71
+score: 5.979
 snippet: Saronic island near Athens, with pistachio groves, fishing villages, beaches,
   and the Temple of Aphaia.
 title: Aegina
 type: location
+heritage: 7.041
+vibrancy: 4.894
+nature: 4.333
+off_the_beaten_track: 1.207
 ---
 
 Stand on the Acropolis in Athens on a clear day and look south toward the sea — the island you can see is Aegina. It is the closest of the Saronic Islands to the capital, reachable in under an hour by ferry, and it draws both foreign visitors and Athenians escaping the city for the weekend.

@@ -5,7 +5,7 @@ loc_type: city
 latitude: 57.0517
 longitude: -2.4882
 wikidata: Q806177
-score: 6.8
+score: 4.514
 snippet: Royal Deeside town with castle gardens, salmon falls, forest walks, and easy
   access from Aberdeen.
 sources:
@@ -17,6 +17,10 @@ image: banchory.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Crathes_Castle.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Ikiwaner
+heritage: 2.546
+vibrancy: 1.697
+nature: 5.917
+off_the_beaten_track: 3.256
 ---
 
 Banchory is a small Royal Deeside town on the River Dee, close enough to [Aberdeen](/europe/unitedkingdom/scotland/aberdeen) for an easy day out but far enough west to feel like the country has opened up. It is not a dramatic Highland base, and that is part of the point: the appeal here is castles, wooded hills, river walks, and a settled Aberdeenshire rhythm.

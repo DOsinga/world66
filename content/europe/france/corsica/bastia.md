@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bastia,_A_Marina,_Vechju_P
 latitude: 42.699398
 loc_type: city
 longitude: 9.450919
-score: 8.5
+score: 5.38
 snippet: Corsica's main port, a Genoese-built city with an Italianate old harbour
   and citadel quarter.
 title: Bastia
 type: location
+heritage: 5.437
+vibrancy: 4.741
+nature: 6.035
+off_the_beaten_track: 3.772
 ---
 
 Bastia is [Corsica's](/europe/france/corsica) main port and the island's most Italian-feeling city — which makes sense, since it was built by the Genoese as their administrative capital. Ferries from Nice, Marseille, and the Italian ports dock here, making it most visitors' first sight of the island.

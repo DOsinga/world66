@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Castillo_de_San_Gabriel_Ar
 latitude: 28.964
 loc_type: city
 longitude: -13.5499
-score: 8.12
+score: 5.174
 snippet: Working Lanzarote capital with a tidal lagoon, waterfront promenade, and
   the islet fort of San Gabriel.
 title: Arrecife
 type: location
+heritage: 2.862
+vibrancy: 3.883
+nature: 6.144
+off_the_beaten_track: 1.584
 ---
 
 Arrecife is the capital of Lanzarote and where most of the island's population lives. It is a working town rather than a tourist resort, which means it has an authenticity that the beach towns lack. The waterfront promenade is pleasant, with views across to the [Castillo de San Gabriel](/europe/spain/canaryislands/lanzarote/arrecife/castillo_de_san_gabriel), a small fort on an islet connected by a stone bridge. The [Charco de San Ginés](/europe/spain/canaryislands/lanzarote/arrecife/charco_de_san_gines), a tidal lagoon in the centre of town lined with fishing boats and whitewashed houses, is the most photogenic corner.

@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Cloud_9_Boardwalk,_Siargao
 latitude: 9.8607
 loc_type: island
 longitude: 126.0462
-score: 9.04
+score: 5.498
 snippet: Teardrop-shaped Philippine surf island where Pacific swells break at Cloud
   9 reef.
 sources:
 - https://en.wikipedia.org/wiki/Siargao
 title: Siargao
 type: location
+heritage: 3.525
+vibrancy: 4.056
+nature: 6.562
+off_the_beaten_track: 3.775
 ---
 
 Siargao is the surfing capital of the Philippines, a teardrop-shaped island in Surigao del Norte at the northeastern edge of the Visayas. The island sits in the Philippine Sea, facing the Pacific, which delivers the consistent swells that have made it one of Asia's most celebrated surf destinations. Cloud 9 — the barrelling reef break off the eastern coast — put Siargao on the international surf map and still draws pros and beginners alike. But the island long ago outgrew its surf-only reputation.

@@ -9,10 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:1_carcassonne_aerial_2016.
 latitude: 43.213
 loc_type: city
 longitude: 2.3491
-score: 9.32
+score: 6.275
 snippet: Medieval walled city above the River Aude, with 52 towers and double ramparts.
 title: Carcassonne
 type: location
+heritage: 7.677
+vibrancy: 4.551
+nature: 3.603
+off_the_beaten_track: 2.305
 ---
 
 Carcassonne is one of the most perfectly preserved medieval walled cities in the world, and the largest in Europe. The [Cité](/europe/france/languedoc/carcassonne/cite_de_carcassonne) sits above the River Aude with 52 towers and two concentric walls adding up to three kilometres of ramparts — a fortress that looks almost exactly as it did seven centuries ago.

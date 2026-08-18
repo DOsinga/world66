@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Schiltach_Altstadt_3.JPG
 latitude: 48.290177
 loc_type: city
 longitude: 8.343635
-score: 7.56
+score: 5.574
 snippet: Black Forest river town with half-timbered lanes shaped by the Kinzig Valley
   timber trade.
 title: Schiltach
 type: location
+heritage: 5.858
+vibrancy: 2.484
+nature: 6.157
+off_the_beaten_track: 3.355
 ---
 
 Schiltach sits at the confluence of the Kinzig and Schiltach rivers in the heart of the Black Forest, and it is one of the best-preserved half-timbered towns in Baden-Württemberg. The [Marktplatz](/europe/germany/badenwrttemberg/schiltach/marktplatz) slopes uphill, ringed by sixteenth-century fachwerk houses in various states of careful restoration, with a fine town hall at the top. The narrow lanes behind it are just as good.

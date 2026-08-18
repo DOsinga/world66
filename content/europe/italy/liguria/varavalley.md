@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:BrugnatoVaraRiverPonteRoma
 latitude: 44.25
 loc_type: feature
 longitude: 9.65
-score: 7.48
+score: 5.134
 snippet: Rural Ligurian valley of medieval villages, chestnut forests, and organic
   farms behind the Riviera crowds.
 title: Vara Valley
 type: location
+heritage: 3.969
+vibrancy: 2.066
+nature: 6.275
+off_the_beaten_track: 3.268
 ---
 
 The Vara Valley runs through the eastern end of [Liguria](/europe/italy/liguria), parallel to the motorway, connecting the coast near La Spezia with the Apennine passes. It is a quiet, rural area of medieval villages, chestnut forests, and organic farms — a world away from the crowds on the Riviera.

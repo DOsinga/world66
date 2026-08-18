@@ -5,11 +5,15 @@ done:
 latitude: 50.673136
 loc_type: city
 longitude: -3.840229
-score: 7.73
+score: 5.608
 snippet: Dartmoor stannary town ringed by moorland, Bronze Age remains, and the granite
   mass of Castle Drogo
 title: Chagford
 type: location
+heritage: 4.593
+vibrancy: 2.792
+nature: 6.746
+off_the_beaten_track: 3.301
 ---
 
 Chagford is a small moorland town on the eastern edge of [Dartmoor](/europe/unitedkingdom/england/south_west/dartmoor), historically one of the four Stannary towns that governed the tin-mining industry — these towns had their own laws and courts, independent of the Crown.

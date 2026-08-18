@@ -3,10 +3,10 @@ title: Rättvik
 type: location
 loc_type: city
 tags:
-  - siljan_area
+- siljan_area
 latitude: 60.8833
 longitude: 15.1333
-score: 7.2
+score: 5.033
 snippet: Dalarna lake town with a long wooden pier, folk culture, and a quarry concert
   arena.
 wikidata: Q1975525
@@ -19,6 +19,10 @@ image: rattvik.jpg
 image_source: https://commons.wikimedia.org/wiki/File:R%C3%A4ttvik2002.JPG
 image_license: Public domain
 image_attribution: Ssssksn
+heritage: 3.489
+vibrancy: 3.228
+nature: 6.242
+off_the_beaten_track: 2.361
 ---
 
 Rättvik is one of the classic towns on Lake Siljan, the part of Dalarna that Swedes reach for when they want red cottages, folk dress, midsummer, lake light, and a strong sense of old rural Sweden. The town is small, but it has more than one reason to stop: a 628-metre pier into the lake, a medieval church with old church stables, summer car culture, and Dalhalla, the concert arena carved into a limestone quarry north of town.

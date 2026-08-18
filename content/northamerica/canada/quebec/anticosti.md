@@ -2,14 +2,19 @@
 title: Anticosti
 type: location
 loc_type: feature
-latitude: 49.5000
-longitude: -63.0000
-score: 7.8
-snippet: Remote Gulf of St. Lawrence island of limestone canyons, fossil cliffs and dense deer.
+latitude: 49.5
+longitude: -63.0
+score: 6.446
+snippet: Remote Gulf of St. Lawrence island of limestone canyons, fossil cliffs and
+  dense deer.
 sources:
-  - https://en.wikivoyage.org/wiki/Anticosti
-  - https://www.sepaq.com/pq/pan/index.dot?language_id=1
-  - https://whc.unesco.org/en/list/1686/
+- https://en.wikivoyage.org/wiki/Anticosti
+- https://www.sepaq.com/pq/pan/index.dot?language_id=1
+- https://whc.unesco.org/en/list/1686/
+heritage: 3.403
+vibrancy: 0.762
+nature: 7.849
+off_the_beaten_track: 7.021
 ---
 
 Anticosti is a large, thin island in the Gulf of St. Lawrence, far off Quebec's North Shore. It is over 160 km long, but has only one real settlement, Port-Menier, and long stretches where forest, limestone river canyons and white coastal cliffs do most of the talking.

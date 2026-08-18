@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 60.2583
 longitude: 20.7783
-score: 6.4
+score: 5.853
 snippet: Off-the-main-route Åland island municipality with a frescoed medieval church
   and quiet ferry-hopping rhythm.
 sources:
@@ -16,6 +16,10 @@ image: kumlinge.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Kumlinge,_%C3%85land_Islands_-_panoramio_(4).jpg
 image_license: CC BY 3.0
 image_attribution: L-BBE
+heritage: 2.278
+vibrancy: 1.233
+nature: 7.643
+off_the_beaten_track: 4.684
 ---
 
 Kumlinge is one of the quieter island municipalities in the [Åland Islands](/europe/finland/alandislands), sitting between the main island and the outer archipelago ferries. It is Swedish-speaking, low-key, and easy to miss if you are racing from one boat to the next.

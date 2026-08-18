@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kapisiliit_in_summer.jpg
 latitude: 64.434792
 loc_type: city
 longitude: -50.271698
-score: 6.13
+score: 6.482
 title: Kapisillit
 type: location
 snippet: Inland Greenland village at the head of Nuup Kangerlua, named for its salmon
   river.
+heritage: 2.535
+vibrancy: 0.774
+nature: 8.05
+off_the_beaten_track: 6.545
 ---
 
 Kapisillit is one of very few inland settlements in [Greenland](/northamerica/greenland) — a tiny village of around fifty people roughly 75 kilometres east of [Nuuk](/northamerica/greenland/nuuk), at the head of one of the long fingers of the Nuup Kangerlua fjord system. The name means "the salmon", and a small river near the village holds the only known spawning ground for Atlantic salmon in Greenland.

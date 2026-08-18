@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Changde_Poetry_Wall.jpg
 latitude: 29.0397
 loc_type: city
 longitude: 111.6839
-score: 6.15
+score: 3.633
 snippet: Yuan River city in northern Hunan known for its three-kilometre Poem Wall
   of carved calligraphy.
 sources:
 - https://en.wikivoyage.org/wiki/Changde
 title: Changde
 type: location
+heritage: 3.181
+vibrancy: 2.081
+nature: 4.283
+off_the_beaten_track: 3.219
 ---
 
 Changde sits on the Yuan River near where it empties into Dongting Lake in northern [Hunan](/asia/china/hunan), and the river is the city's main attraction in the most literal sense: the [Poem Wall](/asia/china/hunan/changde/poem_wall) runs for three kilometres along the Yuan's embankment, a flood barrier faced entirely with calligraphy and carved artwork that holds a Guinness record as the world's longest wall of engraved art. The scale is genuinely impressive, and evening illuminations make it worth lingering past dark. The adjoining riverside parks are where local residents gather for the slow rituals of Chinese urban leisure — dancing, kite-flying, tea at folding tables.

@@ -5,16 +5,21 @@ loc_type: city
 latitude: -36.0556
 longitude: 146.4625
 wikidata: Q2375558
-score: 6.5
-snippet: North-east Victorian wine town known for fortified Muscat, Durif, and gold-rush streets.
+score: 3.846
+snippet: North-east Victorian wine town known for fortified Muscat, Durif, and gold-rush
+  streets.
 image: rutherglen.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Victoria_Hotel_on_Argyle_street_Rutherglen.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Tirin at en.wikipedia
 sources:
-  - https://en.wikivoyage.org/wiki/Rutherglen_(Victoria)
-  - https://en.wikipedia.org/wiki/Rutherglen,_Victoria
-  - https://www.wikidata.org/wiki/Q2375558
+- https://en.wikivoyage.org/wiki/Rutherglen_(Victoria)
+- https://en.wikipedia.org/wiki/Rutherglen,_Victoria
+- https://www.wikidata.org/wiki/Q2375558
+heritage: 3.245
+vibrancy: 2.74
+nature: 4.586
+off_the_beaten_track: 2.46
 ---
 
 Rutherglen is a small wine town in north-east Victoria, near the Murray River and the New South Wales border. It began as a gold-rush settlement, but its lasting reason to visit is wine: especially rich fortified Muscat and Topaque, plus Durif reds that taste bigger than the town looks.

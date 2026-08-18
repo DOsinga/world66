@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:08164-Yreka,_Cal.-1906-Cou
 latitude: 41.7267
 loc_type: city
 longitude: -122.6375
-score: 6.8
+score: 3.937
 snippet: Gold Rush county seat in far northern California, with Mount Shasta on the
   horizon.
 sources:
@@ -18,6 +18,10 @@ sources:
 title: Yreka
 type: location
 wikidata: Q2565455
+heritage: 2.564
+vibrancy: 1.881
+nature: 4.686
+off_the_beaten_track: 4.643
 ---
 
 Yreka is a small far-northern California town with more history than its I-5 exit first suggests. Gold brought miners here in 1851, and the old commercial core along West Miner Street still gives the place a frontier-county-seat feel.

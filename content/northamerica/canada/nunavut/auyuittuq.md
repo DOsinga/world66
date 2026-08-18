@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Auyuittuq_National_Park,_B
 latitude: 67.5
 loc_type: feature
 longitude: -66.0
-score: 7.18
+score: 6.279
 snippet: Remote Baffin Island national park of granite peaks, glaciers, fjords, and
   the Akshayuk Pass.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Auyuittuq_National_Park
 title: Auyuittuq National Park
 type: location
+heritage: 4.112
+vibrancy: 0.099
+nature: 7.511
+off_the_beaten_track: 7.28
 ---
 
 *North America > Canada > Nunavut > Auyuittuq National Park*

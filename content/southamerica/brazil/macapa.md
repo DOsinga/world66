@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 0.0339
 longitude: -51.0664
-score: 6.5
+score: 4.299
 snippet: Amazon River capital on the Equator, with a colonial fortress and frontier-city
   feel.
 sources:
@@ -15,6 +15,10 @@ image: macapa.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Fortaleza_de_S%C3%A3o_Jos%C3%A9,_Macap%C3%A1-AP.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Paulo Akira
+heritage: 4.009
+vibrancy: 3.475
+nature: 4.964
+off_the_beaten_track: 4.783
 ---
 
 Macapá is the capital of Amapá, on the north bank of the Amazon River near the mouth of the great estuary. It is one of Brazil's more unusual state capitals: cut by the Equator, hard to reach by road from the rest of the country, and turned toward the river as much as toward the Brazilian interior.

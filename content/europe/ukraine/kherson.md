@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/94442743@N00/7783769726
 latitude: 46.6425
 loc_type: city
 longitude: 32.625
-score: 4.62
+score: 3.845
 snippet: Lower Dnipro port city with shipyards, fertile farmland, river beaches, and
   Black Sea history
 title: Kherson
 type: location
+heritage: 3.582
+vibrancy: 3.402
+nature: 4.316
+off_the_beaten_track: 5.306
 ---
 
 Kherson sits on the lower Dnipro River in southern Ukraine, founded in 1778 as a base for the Russian Black Sea fleet. The city was built under the direction of Ganibal, the grandfather of the poet Alexander Pushkin. Today it is a regional capital with river and sea ports, shipyards, and a hinterland of fertile farmland, vineyards, and watermelon plantations.

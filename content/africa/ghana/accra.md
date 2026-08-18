@@ -16,7 +16,7 @@ quick_facts:
   Independence Square: Among the world's largest
   Jamestown: Old colonial fishing quarter
   Population: ~2.6 million
-score: 7.28
+score: 4.922
 snippet: Atlantic Ghanaian capital where Ga fishing roots, colonial forts, markets,
   and modern banking towers collide.
 tip: Accra is friendly, hot and humid, strung along the Gulf of Guinea. English is
@@ -26,6 +26,10 @@ tip: Accra is friendly, hot and humid, strung along the Gulf of Guinea. English 
   Makola Market.
 title: Accra
 type: location
+heritage: 4.165
+vibrancy: 5.247
+nature: 3.911
+off_the_beaten_track: 4.617
 ---
 
 *Africa > Ghana > Accra*

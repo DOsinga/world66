@@ -5,11 +5,15 @@ done:
 latitude: 49.7667
 loc_type: city
 longitude: -94.4833
-score: 6.97
+score: 5.392
 title: Kenora
 type: location
 snippet: Lake of the Woods town with a busy summer waterfront and thousands of island-dotted
   waters.
+heritage: 4.378
+vibrancy: 3.367
+nature: 6.502
+off_the_beaten_track: 3.911
 ---
 
 Kenora sits on the north shore of [Lake of the Woods](/northamerica/canada/ontario/kenora/lake_of_the_woods), a vast freshwater lake straddling the Ontario-Manitoba border with over 14,000 islands and some of the best fishing in central Canada. The town is small — around 15,000 people — but it punches above its weight as a summer destination, drawing cottagers and anglers from Winnipeg (two hours west) and Thunder Bay.

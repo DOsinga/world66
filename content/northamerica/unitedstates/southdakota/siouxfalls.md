@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Downtown_and_Falls_Park_03
 latitude: 43.547601
 loc_type: city
 longitude: -96.729363
-score: 6.91
+score: 4.835
 snippet: South Dakota's largest city, built around pink quartzite waterfalls on the
   Big Sioux River.
 title: Sioux Falls
 type: location
+heritage: 4.755
+vibrancy: 4.902
+nature: 4.663
+off_the_beaten_track: 1.677
 ---
 
 Sioux Falls is South Dakota's largest city by a wide margin, a growing plains metropolis built around the waterfalls of the Big Sioux River. [Falls Park](/northamerica/unitedstates/southdakota/siouxfalls/falls_park), where the river drops over exposed quartzite ledges in the middle of town, is the obvious first stop — the pink Sioux quartzite gives the cascades an unexpected warmth, and the ruins of a 19th-century mill add to the scene. The [Arc of Dreams](/northamerica/unitedstates/southdakota/siouxfalls/arc_of_dreams), a soaring stainless steel sculpture spanning the river near the park entrance, has become the city's most recognisable landmark.

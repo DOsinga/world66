@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/60179488@N07/33974753336
 latitude: 27.6753
 loc_type: city
 longitude: -8.1286
-score: 4.26
+score: 6.325
 snippet: Remote western Algerian Sahara town beside Sahrawi camps and the fragmentary
   remains of an old ksar
 title: Tindouf
 type: location
+heritage: 2.675
+vibrancy: 0.896
+nature: 7.678
+off_the_beaten_track: 6.967
 ---
 
 Tindouf used to be a small town in the westernmost part of Algeria. Since the outbreak of the conflict in the Western Sahara, it has seen many people from the WS flocking to the city. Most of them live in [camps](/africa/algeria/tindouf/sahrawi_camps) that have the same names as the cities they left behind: Smara, el Ayoune, Dakhla.

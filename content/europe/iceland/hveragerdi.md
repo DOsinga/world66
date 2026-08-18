@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Hveragerdi10.JPG
 latitude: 63.9976
 loc_type: city
 longitude: -21.1868
-score: 8.31
+score: 5.485
 snippet: Geothermal Icelandic town east of Reykjavík, where steam vents and warm ground
   shape everyday life
 title: Hveragerði
 type: location
+heritage: 2.69
+vibrancy: 2.359
+nature: 7.362
+off_the_beaten_track: 3.023
 ---
 
 Hveragerði is a small geothermal town about 45 km east of Reykjavík, sitting directly on top of one of Iceland's most active hot-spring fields. Steam rises from vents throughout the town, and the ground is warm enough to bake bread in a pot buried in the earth — locals actually do this, and the resulting rúgbrauð (hot-spring bread) has a texture and character you will not find in a conventional oven.

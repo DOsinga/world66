@@ -12,9 +12,13 @@ sources:
 - https://en.wikivoyage.org/wiki/Zhongwei
 title: Zhongwei
 type: location
-score: 7.07
+score: 3.948
 snippet: Ningxia city on the Yellow River, known for Shapotou's dunes at the Tengger
   Desert edge.
+heritage: 3.344
+vibrancy: 2.682
+nature: 4.64
+off_the_beaten_track: 4.849
 ---
 
 Zhongwei sits at one of the more dramatic junctions in Chinese geography — the point where the [Tengger Desert](/asia/china/ningxia/zhongwei/tengger_desert), the Yellow River, and the terraced loess hills all converge within a few kilometres of each other. It is a small city that punches well above its size as a travel destination, largely because of [Shapotou](/asia/china/ningxia/zhongwei/shapotou), the desert resort on the southern bank of the Yellow River where enormous sand dunes drop almost directly into the water.

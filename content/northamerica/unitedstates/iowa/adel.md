@@ -5,11 +5,15 @@ done:
 latitude: 41.617412
 loc_type: city
 longitude: -94.018518
-score: 5.31
+score: 2.695
 snippet: Raccoon River county seat near Des Moines, anchored by a courthouse square
   and sweet corn festival
 title: Adel
 type: location
+heritage: 2.402
+vibrancy: 2.235
+nature: 3.098
+off_the_beaten_track: 1.335
 ---
 
 Adel is the county seat of Dallas County, a small town of about 6,000 people sitting just west of [Des Moines](/northamerica/unitedstates/iowa/desmoines) along the Raccoon River. The historic [courthouse square](/northamerica/unitedstates/iowa/adel/dallas_county_courthouse) anchors a compact downtown with a handful of independent shops, a couple of restaurants, and the kind of unhurried pace that makes a real contrast with the state capital twenty minutes down the road.

@@ -2,10 +2,15 @@
 latitude: -16.0377
 loc_type: city
 longitude: -67.8176
-score: 6.7
-snippet: Remote Yungas village at the end of the Suapi road, near pre-Columbian rock art
+score: 4.252
+snippet: Remote Yungas village at the end of the Suapi road, near pre-Columbian rock
+  art
 title: Santa Rosa de Kilo Kilo
 type: location
+heritage: 1.934
+vibrancy: 1.487
+nature: 4.98
+off_the_beaten_track: 5.279
 ---
 
 Santa Rosa de Kilo Kilo sits at the very end of the Suapi road, about an hour beyond [Coroico](/southamerica/bolivia/coroico) and well off any beaten track. The village sees perhaps two groups of tourists a year, which is part of its appeal: this is the Yungas at its most remote, with no infrastructure for visitors and no pretence of catering to them. If you come, come prepared and come curious.

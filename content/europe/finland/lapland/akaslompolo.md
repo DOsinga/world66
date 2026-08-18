@@ -2,18 +2,23 @@
 title: Äkäslompolo
 type: location
 loc_type: city
-latitude: 67.6050
+latitude: 67.605
 longitude: 24.1458
-score: 7.2
-snippet: Lapland resort village by Ylläs, with ski tracks, fell trails, lake views, and national-park access.
+score: 5.959
+snippet: Lapland resort village by Ylläs, with ski tracks, fell trails, lake views,
+  and national-park access.
 image: akaslompolo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:%C3%84k%C3%A4slompolo_and_Yll%C3%A4s_in_Kolari,_Lapland,_Finland,_2018_September.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Ximonic (Simo Räsänen)
 sources:
-  - https://en.wikivoyage.org/wiki/%C3%84k%C3%A4slompolo
-  - https://en.wikivoyage.org/wiki/Yll%C3%A4s
-  - https://en.wikipedia.org/wiki/%C3%84k%C3%A4slompolo
+- https://en.wikivoyage.org/wiki/%C3%84k%C3%A4slompolo
+- https://en.wikivoyage.org/wiki/Yll%C3%A4s
+- https://en.wikipedia.org/wiki/%C3%84k%C3%A4slompolo
+heritage: 1.187
+vibrancy: 1.59
+nature: 7.448
+off_the_beaten_track: 5.863
 ---
 
 *Europe > Finland > Lapland > Äkäslompolo*

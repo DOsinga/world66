@@ -17,9 +17,13 @@ sources:
 - https://en.irancultura.it/tourism/attractions/Gilan-attractions/Gilan-Heritage-Museum/
 title: Rasht
 type: location
-score: 6.41
+score: 4.821
 snippet: Humid Gilan capital and Caspian gateway, known for rice paddies, bazaar life,
   and food.
+heritage: 5.235
+vibrancy: 4.201
+nature: 5.254
+off_the_beaten_track: 4.475
 ---
 
 Rasht is the capital of Gilan and the main inland gateway to Iran's Caspian coast. It feels nothing like the dry plateau cities most travellers associate with Iran: the air is damp, the countryside is green, rice paddies press close to the suburbs, and the food is reason enough to come.

@@ -4,13 +4,17 @@ done:
 latitude: 26.4515
 loc_type: city
 longitude: 111.5953
-score: 6.19
+score: 4.112
 snippet: Southern Hunan city linked to Tang writer Liu Zongyuan and the classical
   'Eight Records of Yongzhou.'
 sources:
 - https://en.wikivoyage.org/wiki/Yongzhou
 title: Yongzhou
 type: location
+heritage: 2.4
+vibrancy: 2.015
+nature: 5.229
+off_the_beaten_track: 3.753
 ---
 
 Yongzhou occupies the southern end of [Hunan](/asia/china/hunan) where the Xiang River begins its northward run, a city with origins around 201 BC that most travellers skip on their way to [Fenghuang](/asia/china/hunan/fenghuang) or [Guangxi](/asia/china/guangxi). That is a pity, because Yongzhou has one of Chinese literature's most celebrated connections: Tang dynasty writer Liu Zongyuan was exiled here from 805 to 815 AD and spent ten years exploring the landscape while producing the "Eight Records of Yongzhou," a series of nature essays that became foundational texts of classical Chinese prose. The Liuzi Temple, dedicated to his memory in Lingling District, is an elegant complex with a ¥25 admission charge that attracts scholars and the occasional literary pilgrim.

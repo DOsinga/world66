@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/87690240@N03/52599635409
 latitude: 7.8141
 loc_type: city
 longitude: 98.2989
-score: 8.94
+score: 6.215
 title: Kata
 type: location
 snippet: Phuket beach area with a sandy crescent, calm-season swimming, and monsoon
   surf.
+heritage: 4.047
+vibrancy: 5.583
+nature: 6.935
+off_the_beaten_track: 3.022
 ---
 
 Kata is one of [Phuket's](/asia/thailand/phuket) most popular beach areas, sitting on the island's west coast between Karon to the north and Nai Harn to the south. Kata Beach is a crescent of fine sand backed by casuarina trees, with good swimming from November to April when the Andaman Sea is calm. During the monsoon season (May-October) the waves pick up and Kata becomes a decent surf spot.

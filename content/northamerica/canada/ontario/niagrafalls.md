@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:3Falls_Niagara.jpg
 latitude: 43.10656
 loc_type: city
 longitude: -79.063904
-score: 9.22
+score: 6.336
 snippet: Ontario border city facing Horseshoe Falls, where the Niagara River drops
   in thunderous white water.
 title: Niagara Falls
 type: location
+heritage: 5.758
+vibrancy: 5.456
+nature: 7.185
+off_the_beaten_track: 2.284
 ---
 
 Niagara Falls needs no introduction. The sheer volume of water crashing over the crest line — four million cubic feet per minute on average — is something you feel in your chest before you even see it properly. The Canadian side of the falls, in the city of Niagara Falls, Ontario, offers the best views, looking straight across at the wide curtain of the [Horseshoe Falls](/northamerica/canada/ontario/niagrafalls/horseshoe_falls). The American Falls are impressive too, but the vantage point from the Canadian side is hard to beat. [Queen Victoria Park](/northamerica/canada/ontario/niagrafalls/queen_victoria_park) runs along the crest and is free to enter — this is the essential place to stand and look.

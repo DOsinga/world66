@@ -5,11 +5,15 @@ done:
 latitude: 44.1048
 loc_type: city
 longitude: -69.1092
-score: 7.49
+score: 5.592
 snippet: Working Maine harbor town on Penobscot Bay, known for lobster, windjammers,
   and the Farnsworth Art Museum.
 title: Rockland
 type: location
+heritage: 3.264
+vibrancy: 3.307
+nature: 7.069
+off_the_beaten_track: 2.295
 ---
 
 Rockland is a working harbor town on Penobscot Bay that has quietly become one of the more compelling stops on the Maine coast. It bills itself as the lobster capital of the world, and during the [Maine Lobster Festival](/northamerica/unitedstates/maine/rockland_maine/maine_lobster_festival) in late July and early August, the claim is hard to dispute — the harbor fills with windjammer schooners, the smell of steaming shellfish drifts down [Main Street](/northamerica/unitedstates/maine/rockland_maine/main_street_historic_district), and the whole town leans into it.

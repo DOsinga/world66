@@ -4,11 +4,15 @@ done:
 latitude: 60.292988
 loc_type: city
 longitude: 25.043674
-score: 6.44
+score: 4.945
 title: Vantaa
 type: location
 snippet: Helsinki metropolitan city best known for the airport, with historic parishes
   and open farmland between suburbs.
+heritage: 3.129
+vibrancy: 4.245
+nature: 5.613
+off_the_beaten_track: 1.055
 ---
 
 Vantaa is Finland's fourth-largest city by population, though few visitors would know it — the city blends into the northern edge of the Helsinki metropolitan area so seamlessly that most people pass through without noticing. Helsinki-Vantaa Airport is here, and so are the motorways radiating north from the capital. But look past the infrastructure and Vantaa has more substance than its reputation suggests.

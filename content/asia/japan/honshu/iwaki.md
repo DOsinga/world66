@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 37.0505
 longitude: 140.887722
-score: 7.1
+score: 4.226
 snippet: Coastal Fukushima city of aquariums, hot springs, coal history, and one rare
   national treasure temple.
 sources:
@@ -19,6 +19,10 @@ image: iwaki.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Aquamarine_Fukushima_(%E3%82%A2%E3%82%AF%E3%82%A2%E3%83%9E%E3%83%AA%E3%83%B3_%E3%81%B5%E3%81%8F%E3%81%97%E3%81%BE)_-_panoramio.jpg
 image_license: CC BY-SA 3.0
 image_attribution: takacchi
+heritage: 2.763
+vibrancy: 2.804
+nature: 5.195
+off_the_beaten_track: 2.833
 ---
 
 Iwaki is Fukushima's big coastal city, spread wide between fishing ports, hot springs, suburbs, and low hills. It is not a postcard town, but it has enough specific attractions to reward a day or two on the Pacific side of Tohoku.

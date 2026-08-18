@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Dhenkanal_Town_from_Hanuma
 latitude: 20.8351
 loc_type: city
 longitude: 85.6022
-score: 5.57
+score: 4.319
 snippet: Central Odisha district town and former princely seat, surrounded by forested
   hills and temple detours.
 title: Dhenkanal
 type: location
+heritage: 4.369
+vibrancy: 2.626
+nature: 4.843
+off_the_beaten_track: 4.695
 ---
 
 Dhenkanal is a district town in central [Odisha](/asia/india/orissa), once the seat of a princely state and now a quiet administrative centre surrounded by forested hills. The town itself is modest — the old [Dhenkanal Palace](/asia/india/orissa/dhenkanal/dhenkanal_palace) and [Hanuman Hill](/asia/india/orissa/dhenkanal/hanuman_hill) cover the main sights — but the district holds some of the state's most rewarding detours for travellers willing to get off the main highways.

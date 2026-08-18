@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Muelle_Port,_Puerto_Galera
 latitude: 13.50171
 loc_type: city
 longitude: 120.954335
-score: 8.56
+score: 4.928
 snippet: Mindoro harbour town and coastal resort area, known for sheltered bays and
   nearby dive sites.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Verde_Island_Passage
 title: Puerto Galera
 type: location
+heritage: 1.343
+vibrancy: 3.668
+nature: 5.866
+off_the_beaten_track: 2.062
 ---
 
 Puerto Galera sits on the northeastern tip of Mindoro Island, tucked into one of the finest natural harbours in the Philippines. The bay is genuinely beautiful — deep, calm, and ringed by forested hills — and it was recognised as a Man and Biosphere Reserve by UNESCO in the 1970s. Most visitors arrive by ferry from Batangas on the Luzon mainland, a crossing of roughly ninety minutes, and the town's Muelle Port is where the boats dock. The name "Puerto Galera" translates roughly as "Port of Galleons," a nod to the Spanish colonial ships that sheltered here centuries ago.

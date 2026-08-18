@@ -5,20 +5,25 @@ loc_type: city
 latitude: 48.4086
 longitude: 15.5882
 wikidata: Q131266
-snippet: Wachau wine city with a medieval old town, Danube art museums, and vineyard edges.
+snippet: Wachau wine city with a medieval old town, Danube art museums, and vineyard
+  edges.
 sources:
-  - https://en.wikivoyage.org/wiki/Krems
-  - https://www.krems.info/en/steiner-tor
-  - https://www.kunstmeile.at/en/institutions/kunsthalle
-  - https://en.wikipedia.org/wiki/Krems_an_der_Donau
-story: >
-  Krems was already a market town when the Babenberg dukes controlled Austria
-  in the 11th century — the oldest dated reference to it is from 995 CE.
-  The town's position at the eastern end of the Wachau, where the valley
-  opens and the Danube widens, made it a natural trading point. The wine
-  merchants of Krems were wealthy enough to build the Gothic and Renaissance
-  houses that still define the old town.
-score: 8.1
+- https://en.wikivoyage.org/wiki/Krems
+- https://www.krems.info/en/steiner-tor
+- https://www.kunstmeile.at/en/institutions/kunsthalle
+- https://en.wikipedia.org/wiki/Krems_an_der_Donau
+story: 'Krems was already a market town when the Babenberg dukes controlled Austria
+  in the 11th century — the oldest dated reference to it is from 995 CE. The town''s
+  position at the eastern end of the Wachau, where the valley opens and the Danube
+  widens, made it a natural trading point. The wine merchants of Krems were wealthy
+  enough to build the Gothic and Renaissance houses that still define the old town.
+
+  '
+score: 5.602
+heritage: 6.111
+vibrancy: 5.451
+nature: 3.837
+off_the_beaten_track: 2.088
 ---
 
 Krems an der Donau is the largest city on the Wachau, where the Danube valley widens into Lower Austria's wine country. It has the practical advantages of a transport hub, but it is more than a base: the old town has Gothic gates, Renaissance houses, steep church lanes, and enough wine taverns to make an overnight stay feel like a good decision.

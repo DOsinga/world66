@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 35.8423
 longitude: -90.7043
-score: 6.1
-snippet: Northeast Arkansas college city on Crowley's Ridge, with parks and Arkansas State museums.
+score: 2.778
+snippet: Northeast Arkansas college city on Crowley's Ridge, with parks and Arkansas
+  State museums.
 sources:
-  - https://en.wikivoyage.org/wiki/Jonesboro_(Arkansas)
-  - https://en.wikipedia.org/wiki/Jonesboro,_Arkansas
-  - https://www.wikidata.org/wiki/Q61455
+- https://en.wikivoyage.org/wiki/Jonesboro_(Arkansas)
+- https://en.wikipedia.org/wiki/Jonesboro,_Arkansas
+- https://www.wikidata.org/wiki/Q61455
+heritage: 2.379
+vibrancy: 2.464
+nature: 3.115
+off_the_beaten_track: 1.224
 ---
 
 Jonesboro is the main city of northeast Arkansas, set on Crowley's Ridge above the Mississippi Delta. It is a working regional hub and a college town, not a romantic old river port, but it has enough nature and campus culture to make a worthwhile stop if you are already in this corner of the state.

@@ -11,9 +11,13 @@ loc_type: city
 snippet: Jakarta satellite city and airport gateway, with a Chinese quarter along
   the Cisadane River
 longitude: 106.6382
-score: 5.88
+score: 2.685
 title: Tangerang
 type: location
+heritage: 2.395
+vibrancy: 2.523
+nature: 2.943
+off_the_beaten_track: 1.155
 ---
 
 Tangerang is a large satellite city west of [Jakarta](/asia/indonesia/java/jakarta), best known to travellers as the location of Soekarno-Hatta International Airport. Most people pass straight through on their way to or from the capital, but if you have a long layover or an early morning flight, Tangerang has enough to fill a few hours.

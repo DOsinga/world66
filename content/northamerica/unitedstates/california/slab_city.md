@@ -2,14 +2,19 @@
 latitude: 33.2578
 loc_type: feature
 longitude: -115.4711
-score: 6.7
-snippet: Off-grid desert settlement near the Salton Sea, known for outsider art and harsh self-reliance.
+score: 4.379
+snippet: Off-grid desert settlement near the Salton Sea, known for outsider art and
+  harsh self-reliance.
 sources:
 - https://en.wikivoyage.org/wiki/Slab_City
 - https://www.salvationmountain.us/
 - https://eastjesus.org/
 title: Slab City
 type: location
+heritage: 4.605
+vibrancy: 4.326
+nature: 1.883
+off_the_beaten_track: 5.486
 ---
 
 Slab City is not a town in the usual sense. It is an off-grid desert settlement on the concrete remains of Camp Dunlap, a former Marine Corps base east of Niland and the Salton Sea. People live here without municipal water, power, sewers, or trash service, and visitors should understand that this is a real community, not a theme park.

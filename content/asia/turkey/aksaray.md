@@ -4,11 +4,16 @@ type: location
 loc_type: city
 latitude: 38.367
 longitude: 34.033
-score: 7.15
-snippet: Central Anatolian Silk Road city with Seljuk monuments, caravanserais, salt flats, and volcanic horizons.
+score: 4.036
+snippet: Central Anatolian Silk Road city with Seljuk monuments, caravanserais, salt
+  flats, and volcanic horizons.
 sources:
-  - https://en.wikivoyage.org/wiki/Aksaray
-  - https://en.wikipedia.org/wiki/Aksaray
+- https://en.wikivoyage.org/wiki/Aksaray
+- https://en.wikipedia.org/wiki/Aksaray
+heritage: 4.321
+vibrancy: 3.958
+nature: 2.039
+off_the_beaten_track: 1.502
 ---
 
 Aksaray is the kind of Central Anatolian city many travellers pass through on the way to Cappadocia and then half-remember from the bus window. That is a pity. The centre is plain and modern in places, but the old Silk Road left it with Seljuk mosques, medreses, caravanserais, and a practical role as a base for some excellent landscapes.

@@ -5,11 +5,15 @@ done:
 latitude: 50.049932
 loc_type: city
 longitude: 10.233509
-score: 6.78
+score: 3.679
 snippet: Franconian Main River town with market squares, riverside walks, and the
   Georg Schäfer art museum.
 title: Schweinfurt
 type: location
+heritage: 4.42
+vibrancy: 2.599
+nature: 3.168
+off_the_beaten_track: 1.926
 ---
 
 Schweinfurt sits directly on the Main River between Bamberg and Würzburg — a compact town of cobblestone streets and market squares that rewards a few hours of wandering. The focal point is the [Marktplatz](/europe/germany/bavaria/schweinfurt/marktplatz) and its surrounding blocks, where fruit and vegetable stalls set up daily and festivals fill the calendar through the year.

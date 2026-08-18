@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Krishnanagar_Clay_Models.j
 latitude: 23.405848
 loc_type: city
 longitude: 88.495893
-score: 5.92
+score: 4.618
 snippet: Nadia district town known for Ghurni's centuries-old painted clay sculpture
   workshop lanes.
 title: Krishnanagar
 type: location
+heritage: 4.634
+vibrancy: 4.647
+nature: 2.33
+off_the_beaten_track: 1.442
 ---
 
 Krishnanagar is a district headquarters in Nadia, about 2.5 hours by train from Kolkata's Sealdah station. It is named after Raja Krishnachandra, the 18th-century king whose [palace](/asia/india/westbengal/krishnanagar/rajbari) still stands in the town. The palace has historical significance but is not in great shape; it is worth a look.

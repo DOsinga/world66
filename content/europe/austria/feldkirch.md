@@ -4,13 +4,17 @@ done:
 latitude: 47.2381
 loc_type: city
 longitude: 9.5983
-score: 7.36
+score: 4.797
 snippet: Medieval Vorarlberg border town between Switzerland and Liechtenstein, watched
   over by Schattenburg castle.
 sources:
 - https://en.wikipedia.org/wiki/Feldkirch,_Vorarlberg
 title: Feldkirch
 type: location
+heritage: 5.727
+vibrancy: 3.768
+nature: 4.062
+off_the_beaten_track: 2.626
 ---
 
 Feldkirch is one of Austria's best-preserved small medieval towns, tucked into the western edge of Vorarlberg where Austria nearly touches Switzerland and Liechtenstein at the same time. It is not as famous as Bregenz, but the old town has more immediate charm: arcaded streets, narrow lanes, city gates, and the castle of [Schattenburg](/europe/austria/feldkirch/schattenburg) looking down from the hill.

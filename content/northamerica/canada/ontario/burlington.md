@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:20190921T113802_Royal_Bota
 latitude: 43.3249
 loc_type: city
 longitude: -79.7967
-score: 6.5
+score: 4.603
 snippet: Lake Ontario city between Hamilton and Oakville, known for Spencer Smith
   Park and Brant Street Pier.
 title: Burlington
 type: location
+heritage: 2.984
+vibrancy: 4.232
+nature: 5.089
+off_the_beaten_track: 1.265
 ---
 
 Burlington is a city of about 180,000 on the western shore of Lake Ontario, between Hamilton to the west and Oakville to the east, roughly 50 km from Toronto. It has a pleasant waterfront and a quieter character than its larger neighbours, with good parks along the lake and a strong community arts scene.

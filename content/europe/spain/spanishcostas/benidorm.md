@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Benidorm-pano-160410.jpg
 latitude: 38.540625
 loc_type: city
 longitude: -0.129093
-score: 7.9
+score: 6.714
 snippet: High-rise Costa Blanca beach resort with two broad sandy bays and a wintering
   northern European crowd
 title: Benidorm
 type: location
+heritage: 4.382
+vibrancy: 6.929
+nature: 6.16
+off_the_beaten_track: 1.25
 ---
 
 Benidorm is Spain's ultimate beach resort — brash, unapologetic, and genuinely fun if you know what you are getting into. Two sweeping sandy beaches, [Playa de Levante](/europe/spain/spanishcostas/benidorm/levante_beach) and [Playa de Poniente](/europe/spain/spanishcostas/benidorm/poniente_beach), bracket the old town on either side, with the Mediterranean stretching blue to the horizon and the [Sierra Helada](/europe/spain/spanishcostas/benidorm/sierra_helada) rising dramatically behind. The beaches are among the finest on the Costa Blanca: wide, clean, and well-organised.

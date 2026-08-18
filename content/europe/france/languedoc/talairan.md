@@ -2,7 +2,7 @@
 latitude: 43.05
 loc_type: city
 longitude: 2.6667
-score: 0.37
+score: 4.845
 snippet: Corbières wine village among garrigue hills, Cathar castles, abbeys, and
   cellar doors.
 sources:
@@ -13,6 +13,10 @@ image: talairan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Talairan_(10).jpg
 image_license: CC BY-SA 3.0
 image_attribution: Montagnac Pascal
+heritage: 4.548
+vibrancy: 3.912
+nature: 5.582
+off_the_beaten_track: 3.713
 ---
 
 Talairan is a small Corbières wine village in the Aude, set among low garrigue hills scented with rosemary, thyme, and lavender. It is not a place for big monuments in the village itself; its appeal is the old Languedoc mix of vineyards, dry stone, summer fêtes, hunting country, and roads that lead quickly to abbeys and Cathar castles.

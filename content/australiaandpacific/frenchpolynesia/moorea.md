@@ -14,7 +14,7 @@ quick_facts:
   From Tahiti: 30-minute ferry
   Heart Shape: Two bays form one
   Highest Peak: Mt Tohivea, 1,207 m
-score: 9.75
+score: 6.712
 snippet: Mountainous Society Islands escape with turquoise lagoons, deep bays, and
   easy ferry access from Tahiti
 tip: Moorea is Bora Bora's quieter, cheaper neighbour — a 30-minute ferry from Tahiti.
@@ -23,6 +23,10 @@ tip: Moorea is Bora Bora's quieter, cheaper neighbour — a 30-minute ferry from
   many tours feed them, so they come close.
 title: Moorea
 type: location
+heritage: 3.81
+vibrancy: 6.175
+nature: 7.42
+off_the_beaten_track: 2.775
 ---
 
 Moorea is the island that makes you understand what all the fuss about the South Pacific is about. Just a 45-minute ferry ride from Pape'ete on [Tahiti](/australiaandpacific/frenchpolynesia/tahiti), it has white sand beaches, turquoise lagoons, and jagged green mountains rising dramatically from the coast. Along with [Bora Bora](/australiaandpacific/frenchpolynesia/borabora), it is considered one of the most beautiful islands in the world — and unlike Bora Bora, it is relatively easy and affordable to reach.

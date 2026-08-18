@@ -7,7 +7,7 @@ done:
 latitude: 54.8951
 loc_type: city
 longitude: -2.9382
-score: 6.7
+score: 6.309
 snippet: Border city in Cumbria where rivers, castle walls, and centuries of English-Scottish
   conflict meet
 title: Carlisle
@@ -16,6 +16,10 @@ image: carlisle.jpg
 image_source: https://commons.wikimedia.org/wiki/File:United_Reformed_Church,_West_Walls,_Carlisle_-_geograph.org.uk_-_6313197.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Bill Harrison
+heritage: 7.429
+vibrancy: 4.497
+nature: 5.774
+off_the_beaten_track: 3.138
 ---
 
 Carlisle sits at the meeting point of three rivers — the Eden, the Caldew, and the Petteril — and has spent most of its history as a contested border city between England and Scotland. That contested past left it with some of the finest medieval fortifications in northern England: a [castle](/europe/unitedkingdom/england/north_west/carlisle/carlisle_castle) that has been besieged more times than almost any other in the country, and a [cathedral](/europe/unitedkingdom/england/north_west/carlisle/carlisle_cathedral) that survived centuries of conflict, fire, and Civil War damage.

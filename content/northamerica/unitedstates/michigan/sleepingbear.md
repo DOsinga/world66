@@ -4,7 +4,7 @@ done:
 latitude: 44.8786
 loc_type: feature
 longitude: -86.0336
-score: 8.14
+score: 5.991
 snippet: Lake Michigan national lakeshore of towering dunes, forested beaches, and
   the Manitou Islands.
 title: Sleeping Bear Dunes National Lakeshore
@@ -13,6 +13,10 @@ image: sleepingbear.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Sleeping_Bear_Dunes_National_Lakeshore_SLBE0162.jpg
 image_license: Public domain
 image_attribution: National Park Service Digital Image Archives
+heritage: 3.434
+vibrancy: 1.693
+nature: 7.831
+off_the_beaten_track: 4.041
 ---
 
 Sleeping Bear Dunes National Lakeshore stretches along 60 km of Lake Michigan's eastern coastline in the northwest corner of the Lower Peninsula, encompassing forests, beaches, towering sand dunes, and North and South Manitou Islands. The park was established in 1970 and covers about 57,000 federal acres.

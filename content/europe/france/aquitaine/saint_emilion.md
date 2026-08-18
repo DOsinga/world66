@@ -4,7 +4,7 @@ done:
 latitude: 44.8936
 loc_type: city
 longitude: -0.1547
-score: 7.62
+score: 5.56
 snippet: Medieval Bordeaux wine town of limestone lanes, underground churches, and
   grand cru vineyards.
 sources:
@@ -16,6 +16,10 @@ image: saint_emilion.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Chateau_canon_low.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Cyril5555
+heritage: 5.981
+vibrancy: 5.443
+nature: 5.176
+off_the_beaten_track: 2.655
 ---
 
 Saint-Émilion is the vineyard day trip from [Bordeaux](/europe/france/aquitaine/bordeaux) that actually lives up to the fuss. The town sits on a limestone hill above a sea of vines, with steep lanes, Romanesque stone, wine shops, and cellars cut into the rock. It is polished, yes, but not empty; wine has shaped this place for nearly two thousand years.

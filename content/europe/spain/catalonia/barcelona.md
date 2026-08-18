@@ -15,7 +15,7 @@ quick_facts:
   Population: 1.6 million
   Roman Origin: Barcino
   Sagrada Família: Unfinished since 1882
-score: 9.96
+score: 8.789
 snippet: Catalonia's Mediterranean capital, noted for Gaudi architecture, neighbourhood
   street life, and coastal setting.
 tags:
@@ -33,6 +33,10 @@ tip: Barcelona's beach is artificial — the sand was trucked in for the 1992 Ol
   Watch your pockets on La Rambla and the metro.
 title: Barcelona
 type: location
+heritage: 8.323
+vibrancy: 9.033
+nature: 4.738
+off_the_beaten_track: 1.811
 ---
 
 Barcelona is one of those rare cities that genuinely lives up to its reputation. The capital of Catalonia sprawls along the Mediterranean coast, hemmed in by hills and sea, and packs more architectural spectacle, street life and sheer creative energy into its neighbourhoods than most countries manage in their entirety.

@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Castillo_de_Arcos_de_la_Fr
 latitude: 36.7508
 loc_type: city
 longitude: -5.8106
-score: 8.73
+score: 4.805
 snippet: Andalusian white town balanced on a limestone ridge above the Guadalete River.
 sources:
 - https://en.wikipedia.org/wiki/Arcos_de_la_Frontera
 - https://www.spain.info/en/places-of-interest/santa-maria-asuncion-basilica/
 title: Arcos de la Frontera
 type: location
+heritage: 5.891
+vibrancy: 3.462
+nature: 3.469
+off_the_beaten_track: 3.867
 ---
 
 Arcos de la Frontera is one of the most dramatic of the [White Villages](/europe/spain/andalucia/whitevillages), a town balanced along a limestone ridge above the Guadalete River. It looks almost improbable from below: white houses climbing the cliff, church towers on the skyline, and the old town squeezed into a narrow spine of lanes.

@@ -5,11 +5,15 @@ done:
 latitude: 10.8928
 loc_type: city
 longitude: -1.0884
-score: 5.87
+score: 3.783
 snippet: Far-northern Ghanaian town in dry savanna country, close to Paga and the
   Burkina Faso border
 title: Navrongo
 type: location
+heritage: 3.77
+vibrancy: 3.769
+nature: 2.753
+off_the_beaten_track: 5.412
 ---
 
 Navrongo is a small town in the Upper East Region of [Ghana](/africa/ghana), close to the border with [Burkina Faso](/africa/burkinafaso). It serves as the capital of the Kassena-Nankana District and sits in the dry, flat savanna landscape of Ghana's far north. Most travelers pass through on their way to [Paga](/africa/ghana/paga) or onward to Burkina, but the town has enough character to warrant a stop.

@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Simmental_switzerland.JPG
 latitude: 46.6278
 loc_type: city
 longitude: 7.3941
-score: 7.92
+score: 5.996
 snippet: Bernese Oberland valley of wooden chalets, high pasture, and red-and-white
   Simmental cattle
 title: Simmental
 type: location
+heritage: 3.486
+vibrancy: 2.611
+nature: 7.816
+off_the_beaten_track: 2.439
 ---
 
 Simmental is the long alpine valley that runs southwest from Thun toward [Zweisimmen](/europe/switzerland/simmental/zweisimmen_village) and the Saanenland, cutting through the pre-Alps of the Bernese Oberland. It is the ancestral home of the [Simmental cattle breed](/europe/switzerland/simmental/simmental_cattle) — the large red-and-white cows grazing on every steep slope have been exported to farms across the world, though they look most at home here against a backdrop of dark wooden chalets and mountain pasture.

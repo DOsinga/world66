@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Doctors-Cave-Beach.jpg
 latitude: 18.4762
 loc_type: city
 longitude: -77.8939
-score: 8.86
+score: 6.506
 title: Montego Bay
 snippet: Jamaican north-coast gateway city, with a wide bay, resort strip, and busy
   Hip Strip.
 type: location
+heritage: 4.374
+vibrancy: 5.482
+nature: 7.435
+off_the_beaten_track: 1.873
 ---
 
 Montego Bay — "MoBay" to everyone who lives there — is Jamaica's second city and its main tourist gateway. Sangster International Airport sits just outside town, and the north coast resort strip stretches east and west from it. Most visitors to Jamaica land here and stay here, never getting much further.

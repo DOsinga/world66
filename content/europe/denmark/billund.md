@@ -5,7 +5,7 @@ done:
 latitude: 55.7247
 loc_type: city
 longitude: 9.1196
-score: 7.63
+score: 3.56
 snippet: Central Jutland town defined by the original Legoland, Billund Airport, and
   Lego's headquarters.
 title: Billund
@@ -14,6 +14,10 @@ image: billund.jpg
 image_source: https://commons.wikimedia.org/wiki/File:BillundLegoHouse.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Beethoven9
+heritage: 2.549
+vibrancy: 3.616
+nature: 3.416
+off_the_beaten_track: 0.834
 ---
 
 Billund is a small town in central Jutland, Denmark, with a population of around 6,000. It is almost entirely defined by two things: Legoland (the original, opened 1968) and Billund Airport, which is Denmark's second-busiest airport and serves most of Jutland. The Lego Group has its global headquarters here and the town exists largely to service the park and its visitors.

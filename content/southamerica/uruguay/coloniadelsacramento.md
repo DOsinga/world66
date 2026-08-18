@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Colonia-Calle_San_Pedro-TM
 latitude: -34.4712
 loc_type: city
 longitude: -57.8511
-score: 8.46
+score: 5.801
 snippet: Río de la Plata colonial town where Portuguese and Spanish layers survive
   in cobbled streets.
 sources:
 - https://en.wikipedia.org/wiki/Colonia_del_Sacramento
 title: Colonia del Sacramento
 type: location
+heritage: 7.358
+vibrancy: 3.681
+nature: 2.691
+off_the_beaten_track: 1.982
 ---
 
 Colonia del Sacramento sits on a peninsula jutting into the Río de la Plata, directly opposite Buenos Aires across some 50 kilometres of brown river water. A UNESCO World Heritage Site since 1995, its historic quarter — the Barrio Histórico — is one of the best-preserved colonial towns in South America, a layered palimpsest of Portuguese and Spanish occupation that stretches back to 1680.

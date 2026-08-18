@@ -4,7 +4,7 @@ done:
 latitude: 45.5926
 loc_type: city
 longitude: -62.6455
-score: 6.1
+score: 3.669
 snippet: Nova Scotia river town shaped by coal, Scottish settlement and Viola Desmond's
   civil-rights stand.
 sources:
@@ -16,6 +16,10 @@ image: newglasgow.jpg
 image_source: https://commons.wikimedia.org/wiki/File:New_Glasgow,_Nova_Scotia,_Canada.jpg
 image_license: CC BY 4.0
 image_attribution: Quintin Soloviev
+heritage: 2.396
+vibrancy: 2.05
+nature: 4.671
+off_the_beaten_track: 2.263
 ---
 
 New Glasgow sits on the East River of Pictou, inland from Nova Scotia's Northumberland Shore. It is a small service town, but not a blank one: coal, shipbuilding, railways and Scottish settlement shaped the valley, and the surrounding towns still feel like a connected industrial county rather than a single postcard stop.

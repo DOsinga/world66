@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Nyika_grassland.jpg
 latitude: -10.6667
 loc_type: feature
 longitude: 33.8333
-score: 7.58
+score: 6.694
 snippet: High montane national park in northern Malawi, where rolling grassland rises
   above forested valleys.
 sources:
 - https://en.wikipedia.org/wiki/Nyika_National_Park
 title: Nyika National Park
 type: location
+heritage: 1.751
+vibrancy: 0.743
+nature: 8.39
+off_the_beaten_track: 6.509
 ---
 
 Nyika is Malawi's largest national park, a 3,200 square-kilometre plateau rising to 2,600 metres in the country's far north. It is unlike anywhere else in the region — rolling montane grassland that runs to the horizon in every direction, broken by pine plantations, valleys of evergreen forest, and clear streams full of trout. The high altitude keeps the climate cool, the air thin and sharp, and the visitor numbers low. Most travellers come for the views and the walking; the wildlife is a bonus rather than the main event.

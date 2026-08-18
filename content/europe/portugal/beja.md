@@ -5,7 +5,7 @@ done:
 latitude: 38.015448
 loc_type: city
 longitude: -7.865037
-score: 6.97
+score: 4.859
 snippet: Baixo Alentejo city with Roman walls, a Moorish castle, and a convent-based
   regional museum.
 sources:
@@ -13,6 +13,10 @@ sources:
 - https://en.wikipedia.org/wiki/Pax_Julia
 title: Beja
 type: location
+heritage: 5.85
+vibrancy: 3.406
+nature: 4.153
+off_the_beaten_track: 2.194
 ---
 
 Beja is the main city of the Baixo Alentejo, the vast flat plain of southern Portugal between the Serra de São Mamede and the Algarve hills. It sits on a low hill in the middle of wheat fields and cork oak groves, and its compact old town has Roman walls, a Moorish castle, and a medieval convent that is now one of the better regional museums in Portugal.

@@ -4,14 +4,19 @@ type: location
 loc_type: city
 latitude: 39.083333
 longitude: -9.266667
-score: 6.6
-snippet: Oeste market town known for the secret Napoleonic defences that protected Lisbon.
+score: 3.821
+snippet: Oeste market town known for the secret Napoleonic defences that protected
+  Lisbon.
 sources:
 - https://en.wikivoyage.org/wiki/Torres_Vedras
 - https://en.wikipedia.org/wiki/Torres_Vedras
 - https://www.wikidata.org/wiki/Q917319
 - https://www.visitportugal.com/en/content/the-historic-route-of-linhas-de-torres
 wikidata: Q917319
+heritage: 3.945
+vibrancy: 1.933
+nature: 4.25
+off_the_beaten_track: 2.364
 ---
 
 Torres Vedras is a workaday town north of [Lisbon](/europe/portugal/lisbon), surrounded by vineyards, low hills, and the defensive ridges that once guarded the capital. Its name is tied to the Lines of Torres Vedras, the chain of forts and earthworks that Wellington ordered built in secret during the Peninsular War.

@@ -5,7 +5,7 @@ done:
 latitude: 43.082058
 loc_type: city
 longitude: 25.632131
-score: 8.39
+score: 6.688
 snippet: Medieval Bulgarian capital built above the Yantra River, dominated by the
   hilltop Tsarevets fortress.
 sources:
@@ -17,6 +17,10 @@ image: velikoturnovo.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bulgaria_Veliko_Turnovo_02.jpg
 image_license: CC BY-SA 4.0
 image_attribution: www.vacacionesbulgaria.com
+heritage: 8.684
+vibrancy: 3.529
+nature: 4.284
+off_the_beaten_track: 2.823
 ---
 
 Veliko Turnovo (also spelled Tarnovo or Trnovo) was the capital of the Second Bulgarian Empire from the 12th to 14th centuries, and it still feels like it. The town is built on steep slopes above a horseshoe bend in the Yantra River, with old houses cascading down the hillsides and the [Tsarevets](/europe/bulgaria/velikoturnovo/tsarevets) fortress rising on a rocky promontory at the centre of it all.

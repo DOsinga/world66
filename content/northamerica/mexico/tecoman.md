@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 18.9089
 longitude: -103.8747
-score: 6.8
+score: 3.881
 snippet: Colima lime-growing city with rough Pacific surf beaches and coastal lagoons
   nearby.
 sources:
@@ -15,6 +15,10 @@ image: tecoman.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Colima,_El_Real_Tecom%C3%A1n._(11968202913).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Comisión Mexicana de Filmaciones from México D. F., México
+heritage: 2.957
+vibrancy: 2.648
+nature: 4.736
+off_the_beaten_track: 3.176
 ---
 
 Tecomán is a working agricultural city near the Colima coast, best known in Mexico as a lime capital rather than as a polished beach town. That is part of the point: the city is practical, hot, and sometimes rough-edged, while the interesting travel happens along the beaches, lagoons, and seafood palapas south and west of town.

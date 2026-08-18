@@ -11,11 +11,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Footpath_from_Durness_to_B
 latitude: 58.5685
 loc_type: city
 longitude: -4.7507
-score: 7.88
+score: 6.208
 title: Durness, Sutherland
 type: location
 snippet: Durness is a remote Sutherland village near Cape Wrath, Atlantic beaches,
   and Smoo Cave.
+heritage: 4.199
+vibrancy: 0.823
+nature: 7.843
+off_the_beaten_track: 5.766
 ---
 
 Durness is as far north-west as you can get by car in mainland Scotland — a small village on the Atlantic coast of Sutherland, with views across to the Orkney Islands on clear days. There is a saying here: if you can see the Orkneys, it's going to rain; if you can't see them, it is already raining. Plan accordingly.

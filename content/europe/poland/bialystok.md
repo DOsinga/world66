@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bia%C5%82ystok_2023_001_Ko
 latitude: 53.1325
 loc_type: city
 longitude: 23.1688
-score: 6.84
+score: 5.393
 snippet: Northeastern Polish city near the Belarusian border, known for Branicki Palace
   and a multicultural past.
 title: Białystok
 type: location
+heritage: 6.293
+vibrancy: 4.532
+nature: 3.965
+off_the_beaten_track: 2.514
 ---
 
 Białystok is the largest city in northeastern Poland, sitting close to the Belarusian border in a region of forests, rivers, and rolling farmland. It's not on the standard tourist circuit, which gives it an unhurried, lived-in quality that's increasingly rare in Polish cities. The old town was largely destroyed in World War II and rebuilt, but a few historic buildings survived — most importantly the Branicki Palace, a striking baroque complex known as the "Versailles of Podlachia," whose formal gardens make it one of the most pleasant spots in the city.

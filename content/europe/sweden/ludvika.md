@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ludvika_Engelbrektsgatan_h
 latitude: 60.1333
 loc_type: city
 longitude: 15.1833
-score: 6.34
+score: 3.832
 snippet: Southern Dalarna industrial town in Bergslagen, surrounded by forests, lakes,
   and mining history.
 title: Ludvika
 type: location
+heritage: 2.399
+vibrancy: 2.034
+nature: 4.923
+off_the_beaten_track: 2.214
 ---
 
 Ludvika is an industrial town in southern Dalarna, in the heart of Bergslagen — the central Swedish mining district that drove Swedish industry for several centuries. The town is surrounded by forests and lakes, and the area still has wolves and bears, though you are unlikely to see either.

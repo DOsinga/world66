@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:1,_Market_Place,_Cirencest
 latitude: 51.719
 loc_type: city
 longitude: -1.968
-score: 7.5
+score: 5.788
 snippet: Cotswold market town built over Roman Corinium, with mosaics, wool-town lanes,
   and a broad church square.
 sources:
@@ -18,6 +18,10 @@ tags:
 title: Cirencester
 type: location
 wikidata: Q852772
+heritage: 7.521
+vibrancy: 3.307
+nature: 2.772
+off_the_beaten_track: 1.754
 ---
 
 Cirencester is one of the better Cotswold towns to visit if you want more than pretty stone. It was Roman Corinium, once the second-largest town in Roman Britain, and that history still gives the place a sharper edge than the usual market-square stroll.

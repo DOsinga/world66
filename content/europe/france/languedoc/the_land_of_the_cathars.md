@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Carcasonneouterwall.jpg
 latitude: 43.05
 loc_type: feature
 longitude: 2.35
-score: 0.63
+score: 6.424
 snippet: Rugged Languedoc region of mountain castles, vineyards, and villages marked
   by Cathar history
 title: The Land of the Cathars
 type: location
+heritage: 7.774
+vibrancy: 2.516
+nature: 5.404
+off_the_beaten_track: 4.117
 ---
 
 The province of Aude in the Languedoc is beautiful, wild and rugged — soaring mountains, dense forests, rich red soil, extensive vineyards, picturesque villages, and Cathar castles perched like eagles' nests on the tops of high mountains.

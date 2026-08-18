@@ -6,14 +6,19 @@ image_source: https://commons.wikimedia.org/wiki/File:Enkoping_Klosterparken.JPG
 latitude: 59.6348
 loc_type: city
 longitude: 17.0817
-score: 6.74
-snippet: Small Lake Malaren city known for parks, manor houses, and Bronze Age rock carvings.
+score: 3.75
+snippet: Small Lake Malaren city known for parks, manor houses, and Bronze Age rock
+  carvings.
 sources:
 - https://en.wikivoyage.org/wiki/Enk%C3%B6ping
 - https://en.wikipedia.org/wiki/Enk%C3%B6ping
 - https://www.fjardhundraland.se/en/placetag/hall-carvings/
 title: Enköping
 type: location
+heritage: 3.204
+vibrancy: 2.47
+nature: 4.454
+off_the_beaten_track: 1.436
 ---
 
 Enköping is a small city west of [Uppsala](/europe/sweden/uppsala), close enough to Stockholm and Västerås to be easy by train, but with a quieter Uppland character of parks, lake-country estates, and old trade routes. It calls itself Sweden's nearest city, which is marketing, but the geography helps: roads, rail, and Lake Mälaren all meet here.

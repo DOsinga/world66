@@ -14,7 +14,7 @@ quick_facts:
   Local Saying: '''Warm heart of Africa'''
   Population: ~1.1 million
   Two Halves: Old Town & City Centre
-score: 6.27
+score: 4.242
 snippet: Malawian capital split between planned government avenues and the busy markets
   of Old Town.
 tip: 'Lilongwe is a quiet, low-rise capital split in two: the modern City Centre with
@@ -24,6 +24,10 @@ tip: 'Lilongwe is a quiet, low-rise capital split in two: the modern City Centre
   heart of Africa''.'
 title: Lilongwe
 type: location
+heritage: 3.287
+vibrancy: 3.702
+nature: 4.786
+off_the_beaten_track: 2.598
 ---
 
 Lilongwe is the capital of Malawi and a city of sharp contrasts: a quiet, green, planned capital of wide avenues and government buildings on one side, and a busy, dusty African market town on the other, with about three kilometres of highway between the two. Most visitors to Malawi pass through it without lingering — Lilongwe is a practical stopover rather than a destination in its own right — but if you have a day or two to fill, it rewards a little exploration.

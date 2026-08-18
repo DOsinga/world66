@@ -8,11 +8,15 @@ image_source: https://www.flickr.com/photos/34457549@N08/33327698738
 latitude: 24.17
 loc_type: city
 longitude: -76.44
-score: 8.91
+score: 5.513
 title: Staniel Cay
 type: location
 snippet: Tiny central Exuma Cay hub near Thunderball Grotto, Big Major Cay, and Compass
   Cay.
+heritage: 1.656
+vibrancy: 1.269
+nature: 7.148
+off_the_beaten_track: 4.581
 ---
 
 A tiny island in the central Exuma Cays with a population of around 100 and an outsized reputation. Staniel Cay is the gateway to the Exumas' headline attractions: [Thunderball Grotto](/northamerica/bahamas/exumas/staniel_cay/thunderball_grotto) is a five-minute boat ride away, the swimming [pigs of Big Major Cay](/northamerica/bahamas/exumas/staniel_cay/pig_beach) are just to the north, and [Compass Cay's nurse sharks](/northamerica/bahamas/exumas/staniel_cay/compass_cay_sharks) are a short hop south. The island has its own airstrip with charter flights from Nassau, making it the main hub for visitors to the cays.

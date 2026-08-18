@@ -4,14 +4,19 @@ type: location
 loc_type: city
 latitude: 41.2981
 longitude: -106.1375
-score: 7.1
-snippet: Tiny Snowy Range gateway town west of Laramie, with alpine drives, trails, and ski slopes.
+score: 5.114
+snippet: Tiny Snowy Range gateway town west of Laramie, with alpine drives, trails,
+  and ski slopes.
 sources:
 - https://en.wikivoyage.org/wiki/Centennial_(Wyoming)
 - https://en.wikipedia.org/wiki/Centennial,_Wyoming
 - https://travelwyoming.com/places-to-go/cities/centennial/
 - https://travelwyoming.com/listing/snowy-range-scenic-byway/1094/
 - https://www.fs.usda.gov/wildflowers/regions/Rocky_Mountain/SnowyRangeByway/index.shtml
+heritage: 1.865
+vibrancy: 1.408
+nature: 6.673
+off_the_beaten_track: 4.107
 ---
 
 Centennial is a tiny mountain town west of [Laramie](/northamerica/unitedstates/wyoming/laramie), sitting where the plains start climbing into the Snowy Range. The town itself is only a handful of streets, but the setting is strong enough to carry it.

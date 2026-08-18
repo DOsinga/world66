@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 50.2667
 longitude: -64.15
-score: 7.1
+score: 5.229
 snippet: Tiny North Shore village with whale research, long beaches, and western Mingan
   island trips.
 sources:
@@ -15,6 +15,10 @@ image: longue_pointe_de_mingan.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Longue-Pointe-de-Mingan.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Cephas
+heritage: 3.29
+vibrancy: 1.554
+nature: 6.71
+off_the_beaten_track: 3.661
 ---
 
 Longue-Pointe-de-Mingan is a small village on Quebec's far North Shore, stretched along a sandy point facing the Gulf of St Lawrence. It is quieter than [Havre-Saint-Pierre](/northamerica/canada/quebec/havre_saint_pierre), but it has its own reason to stop: whales, puffins, beaches, and the western end of the Mingan island world.

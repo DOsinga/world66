@@ -15,7 +15,7 @@ quick_facts:
   Elevation: 200 m, cool & misty
   Initiation Well: Spirals underground
   Pena Palace Built: '1854'
-score: 9.45
+score: 6.451
 snippet: Portuguese hill town of royal palaces and misty forests, 40 minutes by train
   from Lisbon.
 tip: Sintra's palaces are scattered over a forested hill, and the queues at Pena Palace
@@ -24,6 +24,10 @@ tip: Sintra's palaces are scattered over a forested hill, and the queues at Pena
   crowds arrive. The microclimate stays cool and misty even when Lisbon bakes.
 title: Sintra
 type: location
+heritage: 7.829
+vibrancy: 3.898
+nature: 5.376
+off_the_beaten_track: 1.637
 ---
 
 Sintra is a small hill town 40 minutes by train from [Lisbon](/europe/portugal/lisbon), and for centuries it was the summer retreat of the Portuguese royal family. Byron called it "glorious Eden" and devoted verses to its mountains and palaces. The UNESCO World Heritage designation it earned in 1995 is well-deserved: the concentration of extraordinary buildings within the national park is matched by almost nowhere else in Europe.

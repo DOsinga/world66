@@ -10,11 +10,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Maidstone0115.JPG
 latitude: 51.2748
 loc_type: city
 longitude: 0.5217
-score: 6.54
+score: 3.864
 snippet: Kent county town in the Medway valley, with a working market centre and riverside
   countryside nearby
 title: Maidstone
 type: location
+heritage: 4.653
+vibrancy: 2.774
+nature: 3.303
+off_the_beaten_track: 1.327
 ---
 
 Maidstone is the county town of Kent, sitting in the Medway valley amid some of the prettiest countryside in south-east England. It's a working market town rather than a showpiece, but it has genuine things to offer: the [Maidstone Museum and Bentlif Art Gallery](/europe/unitedkingdom/england/south_east/maidstone/maidstone_museum) is one of the best in the county, with an Egyptian gallery — including the [Maidstone Mummy](/europe/unitedkingdom/england/south_east/maidstone/maidstone_museum) — and the [Queen's Own Royal West Kent Regiment Museum](/europe/unitedkingdom/england/south_east/maidstone/west_kent_regiment_museum) within the same complex. Outside the museum stands an [Iguanodon statue](/europe/unitedkingdom/england/south_east/maidstone/iguanodon_statue) marking Maidstone's unexpected place in the history of palaeontology. On the riverside, [All Saints' Church](/europe/unitedkingdom/england/south_east/maidstone/all_saints_church), the [Archbishop's Palace](/europe/unitedkingdom/england/south_east/maidstone/archbishop_palace), and the medieval [Tithe Barn](/europe/unitedkingdom/england/south_east/maidstone/tithe_barn) form one of the most complete medieval groups in the South East.

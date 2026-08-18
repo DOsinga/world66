@@ -14,6 +14,11 @@ image: drobak.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Drobak_harbor_Norway.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Leifern
+score: 4.911
+heritage: 3.561
+vibrancy: 2.607
+nature: 6.102
+off_the_beaten_track: 2.093
 ---
 
 Drøbak is the small Oslofjord town that makes the short trip south from Oslo feel worthwhile. It has white wooden houses, a busy little harbour, swimming spots, and a slightly eccentric Christmas identity that is more charming than it sounds.

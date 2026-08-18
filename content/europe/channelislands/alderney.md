@@ -5,7 +5,7 @@ done:
 latitude: 49.7235
 loc_type: city
 longitude: -2.196
-score: 7.71
+score: 5.146
 sources:
 - https://en.wikipedia.org/wiki/Alderney
 - https://en.wikipedia.org/wiki/Alderney_Railway
@@ -13,6 +13,10 @@ title: Alderney
 type: location
 snippet: Small northern Channel Island with cliff walks, sandy beaches, seabird colonies,
   and wartime fortifications.
+heritage: 5.185
+vibrancy: 2.327
+nature: 5.779
+off_the_beaten_track: 5.544
 ---
 
 Alderney is the most northerly of the main Channel Islands and, at roughly 3.5 miles by 1.5 miles, one of the smallest. It has around 2,200 residents and a pace of life that makes even Guernsey feel busy. There are sandy beaches, dramatic cliff walks, and some of the largest seabird colonies in northwest Europe — gannets, puffins, and auks nest on the surrounding stacks and islets.

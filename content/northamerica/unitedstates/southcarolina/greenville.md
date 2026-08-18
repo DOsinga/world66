@@ -5,7 +5,7 @@ done:
 latitude: 34.8514
 loc_type: city
 longitude: -82.3985
-score: 7.1
+score: 5.738
 snippet: Upstate South Carolina city at the Blue Ridge foothills, centred on a revived
   downtown waterfall park.
 sources:
@@ -14,6 +14,10 @@ sources:
 - https://en.wikipedia.org/wiki/Falls_Park_on_the_Reedy
 title: Greenville
 type: location
+heritage: 5.314
+vibrancy: 5.942
+nature: 4.563
+off_the_beaten_track: 2.131
 ---
 
 Greenville sits at the edge of the Blue Ridge foothills in upstate South Carolina, about 100 miles northwest of [Columbia](/northamerica/unitedstates/southcarolina/columbia). What was once a mill city has become one of the American South's most striking downtown revivals — the sort of place that surprises visitors who weren't expecting much and ends up keeping them longer than planned.

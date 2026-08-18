@@ -2,11 +2,15 @@
 latitude: 4.869
 loc_type: city
 longitude: -75.6201
-score: 7.41
+score: 4.877
 snippet: Colombian coffee-zone city in Risaralda, known for mountain hot springs outside
   town
 title: Santa Rosa de Cabal
 type: location
+heritage: 3.015
+vibrancy: 2.798
+nature: 6.208
+off_the_beaten_track: 2.955
 ---
 
 Santa Rosa de Cabal is a small city in Risaralda department, in Colombia's coffee-growing region about 15 kilometres from Pereira. It sits at around 1,700 metres in the Andes, with a mild climate and a traditional market-town character.

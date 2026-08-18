@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Njego%C5%A1ev_mauzolej.JPG
 latitude: 42.389633
 loc_type: city
 longitude: 18.924609
-score: 7.79
+score: 5.014
 title: Cetinje
 type: location
 snippet: Old royal capital of Montenegro, set below Lovćen with monasteries, embassies,
   and museums.
+heritage: 5.802
+vibrancy: 3.118
+nature: 4.818
+off_the_beaten_track: 4.742
 ---
 
 Cetinje is the old royal capital of Montenegro, sitting in a high plateau in the mountains above Budva. It was the seat of the Petrović-Njegoš dynasty and the capital of the Principality (then Kingdom) of Montenegro from 1482 until 1918, when it was incorporated into Yugoslavia. Now it has a population of around 13,000 and a slightly melancholy grandeur.

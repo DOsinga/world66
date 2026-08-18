@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_del_Prado.jp
 latitude: 39.9583
 loc_type: city
 longitude: -4.8328
-score: 6.71
+score: 2.905
 snippet: Castilian city on the Tagus where blue, white, and ochre ceramics still define
   the name.
 sources:
 - https://en.wikipedia.org/wiki/Talavera_de_la_Reina
 title: Talavera de la Reina
 type: location
+heritage: 3.658
+vibrancy: 1.897
+nature: 2.015
+off_the_beaten_track: 1.496
 ---
 
 Talavera de la Reina sits on the Tagus west of Toledo, a working Castilian city with a name that still means ceramics. Its blue, white and ochre pottery travelled far beyond Spain; even Mexico's Talavera tradition carries the echo of this town.

@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:AricaViewCoast.jpg
 latitude: -18.478529
 loc_type: city
 longitude: -70.321139
-score: 7.4
+score: 5.387
 title: Arica
 type: location
 snippet: Far-northern Chilean port near Peru, marked by desert climate, beaches, and
   the Morro headland.
+heritage: 4.5
+vibrancy: 4.87
+nature: 5.997
+off_the_beaten_track: 3.072
 ---
 
 Arica sits in the far north of Chile, just a few kilometers from the Peruvian border, and holds the distinction of being one of the driest places on earth. Decades can pass without a drop of rain. It is a city that exists despite the desert, sustained by the sea, the Rio San José, and steady cross-border trade.

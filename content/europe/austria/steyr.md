@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Steyr_Stadtplatz-6623.jpg
 latitude: 48.0392
 loc_type: city
 longitude: 14.4212
-score: 8.06
+score: 3.443
 snippet: Upper Austrian river city with a preserved old centre clustered around one
   of Central Europe’s notable town squares.
 title: Steyr
 type: location
+heritage: 4.013
+vibrancy: 2.903
+nature: 3.169
+off_the_beaten_track: 1.578
 ---
 
 Steyr is a small industrial city at the confluence of the Steyr and Enns rivers in Upper Austria, about 30 km south of Linz. It has one of the best-preserved old town centres in Austria — a compact, photogenic cluster of Gothic, Renaissance, Baroque, and Rococo buildings gathered around the [Stadtplatz](/europe/austria/steyr/stadtplatz), which is regularly cited as one of the most beautiful town squares in central Europe. The [Bummerlhaus](/europe/austria/steyr/bummerlhaus), a 15th-century Gothic burgher house on the square, has survived six hundred years largely unchanged, and [Schloss Lamberg](/europe/austria/steyr/schloss_lamberg) rises above the town on the hill where the original Styrian fortress stood — the castle from which the neighbouring province of Styria takes its name.

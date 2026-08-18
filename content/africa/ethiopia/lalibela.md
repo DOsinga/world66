@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Lalibela,_san_giorgio,_est
 latitude: 12.03671
 loc_type: city
 longitude: 39.046112
-score: 8.89
+score: 6.905
 snippet: Ethiopian mountain town where medieval Orthodox churches were carved downward
   from solid red rock.
 title: Lalibela
 type: location
+heritage: 9.113
+vibrancy: 2.103
+nature: 4.092
+off_the_beaten_track: 5.313
 ---
 
 Missing Lalibela would be like going to Egypt and not seeing a pyramid. This small town in the Lasta mountains, 340 km north of Addis Ababa, holds 11 Orthodox churches carved out of solid red rock in the 12th century — some of the greatest architectural marvels on earth.

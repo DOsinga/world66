@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:HN_QH_Boao_Jade_Belt_Beach
 latitude: 19.16
 loc_type: city
 longitude: 110.58
-score: 6.83
+score: 5.395
 snippet: Small Hainan coastal town where three rivers meet the sea beside mangroves,
   fishing boats, and the Boao Forum.
 sources:
 - https://en.wikivoyage.org/wiki/Bo%27ao
 title: Bo'ao
 type: location
+heritage: 3.903
+vibrancy: 4.76
+nature: 6.062
+off_the_beaten_track: 4.229
 ---
 
 Bo'ao is a small town on Hainan's east coast that punches well above its weight diplomatically: it is the permanent home of the [Boao Forum for Asia](/asia/china/hainanisland/boao/boao_forum), the Asian equivalent of Davos, which brings heads of state and business leaders here every spring and has given the town an infrastructure of luxury hotels and conference facilities entirely out of proportion to its actual size. Outside forum season it is a quiet, pleasant place — a peninsula where three rivers meet the sea, with fishing boats, mangroves, and the [Jade Belt Beach](/asia/china/hainanisland/boao/jade_belt_beach) (Yudai) that requires a short ferry crossing to reach.

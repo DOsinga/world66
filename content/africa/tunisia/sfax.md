@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:20200106_Th%C3%A9%C3%A2tre
 latitude: 34.739436
 loc_type: city
 longitude: 10.760402
-score: 6.24
+score: 5.172
 snippet: Tunisia's second city, an east-coast commercial hub with a walled medina
   and access to the Kerkennah Islands.
 title: Sfax
 type: location
+heritage: 5.805
+vibrancy: 4.811
+nature: 2.727
+off_the_beaten_track: 4.135
 ---
 
 Sfax sits roughly halfway along Tunisia's east coast, just opposite the [Kerkennah Islands](/africa/tunisia/kerkennahislands). With about half a million people, it is the second city of the country after [Tunis](/africa/tunisia/tunis) — but it is not much of a tourist destination. The hotels and restaurants mainly cater for Tunisian business people, and the surprising upshot is that things tend to be cheaper here than in the touristed areas. Sfax is probably one of the best places in Tunisia to buy souvenirs: the quality is higher and the goods are genuine.

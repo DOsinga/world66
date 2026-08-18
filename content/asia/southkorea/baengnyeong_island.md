@@ -5,13 +5,18 @@ loc_type: feature
 latitude: 37.9504
 longitude: 124.6729
 wikidata: Q485315
-score: 7.6
-snippet: Remote Yellow Sea border island with quartzite cliffs, natural beaches, seals, and North Korea views.
+score: 4.567
+snippet: Remote Yellow Sea border island with quartzite cliffs, natural beaches, seals,
+  and North Korea views.
 sources:
 - https://en.wikivoyage.org/wiki/Baengnyeong_Island
 - https://www.wikidata.org/wiki/Q485315
 - https://en.wikipedia.org/wiki/Baengnyeongdo
 - https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=190494
+heritage: 1.888
+vibrancy: 1.822
+nature: 5.798
+off_the_beaten_track: 4.198
 ---
 
 Baengnyeong Island is South Korea's far northwestern island, closer to the North Korean coast than to Seoul. That border geography gives the place an edge, but the island is not only a military curiosity. It has some of the Yellow Sea's strangest coastal scenery: white quartzite cliffs, a hard natural sand runway, a beach of rounded pebbles, and seal habitat around the rocks.

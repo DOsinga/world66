@@ -5,11 +5,15 @@ image_source: https://commons.wikimedia.org/wiki/File:August_II-Marktplatz_Wolfe
 latitude: 52.1638
 loc_type: city
 longitude: 10.5375
-score: 7.19
+score: 4.946
 snippet: Lower Saxony town known for the Herzog August Bibliothek and the unlikely
   hometown pride of Jägermeister
 title: Wolfenbüttel
 type: location
+heritage: 6.598
+vibrancy: 2.461
+nature: 2.769
+off_the_beaten_track: 1.797
 ---
 
 Wolfenbüttel is a small town in Lower Saxony, about 12 kilometres south of Braunschweig, best known for two things: one of the finest research libraries in the world, and being the home of Jägermeister. The combination is unusual but somehow fitting — this is a place that takes its intellectual heritage and its herbal liqueur with equal seriousness.

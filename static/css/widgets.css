@@ -502,7 +502,7 @@ html.w66-widget-page,
   position: relative;
   z-index: 5;
   display: grid;
-  grid-template-columns: auto repeat(4, minmax(128px, 1fr)) auto;
+  grid-template-columns: auto repeat(6, minmax(112px, 1fr)) auto;
   gap: 12px;
   align-items: center;
   padding: 12px 14px;

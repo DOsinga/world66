@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:L%27%C3%A9tang_aux_carpes_
 latitude: 48.404938
 loc_type: city
 longitude: 2.701587
-score: 8.5
+score: 7.168
 snippet: Forest town south of Paris, anchored by a royal palace and world-famous sandstone
   bouldering.
 title: Fontainebleau
 type: location
+heritage: 8.662
+vibrancy: 3.777
+nature: 6.056
+off_the_beaten_track: 1.566
 ---
 
 Fontainebleau is a small town about 60 km south of [Paris](/europe/france/paris), surrounded by one of the largest and most beautiful forests in the Ile-de-France. It is an easy day trip from the capital and a welcome escape from the city's intensity.

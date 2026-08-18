@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Golmud,_Haixi,_Qinghai,_Ch
 latitude: 36.4011
 loc_type: city
 longitude: 94.9026
-score: 5.58
+score: 4.381
 title: Golmud
 type: location
 snippet: High-plateau Qinghai city among salt flats and desert, long used as a Tibet
   staging post.
+heritage: 2.76
+vibrancy: 2.37
+nature: 5.621
+off_the_beaten_track: 3.515
 ---
 
 Golmud — also known as Geermu — is the second city of Qinghai province and the main staging post for Tibet. It sits on the high-altitude plateau at around 2,800 metres, surrounded by salt flats and desert, and its primary function for most travellers is exactly that: a place to arrive, sort paperwork, and move on.

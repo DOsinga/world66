@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 68.3833
 longitude: 23.6333
-score: 7.0
-snippet: Fell Lapland village with Sami culture, reindeer country, and trails into Pallas-Yllästunturi.
+score: 6.107
+snippet: Fell Lapland village with Sami culture, reindeer country, and trails into
+  Pallas-Yllästunturi.
 sources:
-  - https://en.wikivoyage.org/wiki/Hetta
-  - https://en.wikipedia.org/wiki/Hetta
-  - https://www.nationalparks.fi/felllaplandnaturecentre
-  - https://enontekiolapland.com/en/jyppyra-trail-vantage-point/
+- https://en.wikivoyage.org/wiki/Hetta
+- https://en.wikipedia.org/wiki/Hetta
+- https://www.nationalparks.fi/felllaplandnaturecentre
+- https://enontekiolapland.com/en/jyppyra-trail-vantage-point/
+heritage: 3.464
+vibrancy: 0.464
+nature: 7.516
+off_the_beaten_track: 6.388
 ---
 
 Hetta is the main village of Enontekiö, set beside Ounasjärvi in the high northwest of [Finnish Lapland](/europe/finland/lapland). It is a small place, but the setting is big: open fell country, reindeer pastures, Sámi place names, and the northern edge of [Pallas-Yllästunturi National Park](/europe/finland/lapland/kittila/pallas_yllastunturi_national_park) just across the water.

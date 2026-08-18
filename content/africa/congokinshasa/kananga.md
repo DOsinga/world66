@@ -3,12 +3,16 @@ done:
   location_enrich: '2026-06-03'
 latitude: -5.895173
 longitude: 22.408589
-score: 4.49
+score: 3.599
 title: Kananga
 snippet: Kasai-Central provincial capital in DR Congo, an administrative and commercial
   hub once called Luluabourg.
 type: location
 loc_type: city
+heritage: 1.19
+vibrancy: 1.947
+nature: 2.069
+off_the_beaten_track: 6.57
 ---
 
 Kananga is the capital of the Kasai-Central province in the Democratic Republic of the Congo, a sprawling city of roughly a million people that sees very few foreign visitors. The city grew rapidly after independence, when it was still called Luluabourg, and it remains an important administrative and commercial center for the Kasai region.

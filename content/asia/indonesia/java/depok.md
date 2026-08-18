@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Depok_Skyline.jpg
 latitude: -6.4072
 loc_type: city
 longitude: 106.8158
-score: 5.8
+score: 2.334
 snippet: Jakarta-Bogor satellite city anchored by the leafy University of Indonesia
   campus and Margonda student life
 title: Depok
 type: location
+heritage: 2.289
+vibrancy: 2.333
+nature: 2.337
+off_the_beaten_track: 1.131
 ---
 
 Depok is a sprawling satellite city wedged between [Jakarta](/asia/indonesia/java/jakarta) to the north and [Bogor](/asia/indonesia/java/bogor) to the south. It is primarily known as the home of the [University of Indonesia](/asia/indonesia/java/depok/university_of_indonesia) (UI), whose large, leafy campus with its lake and surrounding parkland is the most pleasant green space in the area. Most travellers pass through on the KRL commuter train that runs between Jakarta and Bogor's famous Botanical Gardens.

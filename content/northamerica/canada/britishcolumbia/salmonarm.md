@@ -8,12 +8,16 @@ image_license: CC BY-SA 4.0
 image_source: https://commons.wikimedia.org/wiki/File:SalmonArmFromTappen.JPG
 latitude: 50.700506
 longitude: -119.279053
-score: 7.01
+score: 4.452
 snippet: Shuswap Lake town in British Columbia, known for houseboating and the Adams
   River sockeye salmon run.
 title: Salmon Arm
 type: location
 loc_type: city
+heritage: 2.077
+vibrancy: 1.97
+nature: 5.927
+off_the_beaten_track: 3.19
 ---
 
 Salmon Arm is the largest town in BC's **Shuswap region**, set on the long crooked finger of Shuswap Lake from which it takes its name. The town has the standard look of a small interior BC settlement — a single main street, a clutch of malls along the highway, the lake glittering at the bottom of a wooded valley — but its setting is the draw: Shuswap is one of British Columbia's great houseboating lakes, and on summer weekends the marinas at Salmon Arm and nearby Sicamous send a steady stream of rentals out into the four arms of the lake.

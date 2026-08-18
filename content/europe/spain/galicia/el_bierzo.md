@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Panor%C3%A1mica_de_Las_M%C
 latitude: 42.65265
 loc_type: city
 longitude: -6.623184
-score: 7.8
+score: 5.288
 snippet: Sheltered mountain valley in northwest León, where Castilian plateau country
   gives way to Galician green hills.
 title: El Bierzo
 type: location
+heritage: 4.579
+vibrancy: 2.632
+nature: 6.256
+off_the_beaten_track: 4.145
 ---
 
 El Bierzo is a sheltered mountain valley on the north-western edge of the province of León, wedged between the Cordillera Cantábrica and the Montes de León. Administratively part of Castilla y León, it feels like something else entirely — a transition zone between the austere Castilian plateau and the green hills of Galicia, with its own microclimate, its own grape varieties, and landscapes of startling beauty.

@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Balinese_Local_in_Amed_Bea
 latitude: -8.333333
 loc_type: city
 longitude: 115.65
-score: 7.4
+score: 6.761
 snippet: Quiet east Bali coast of fishing villages, black beaches, salt pans, and
   shore diving.
 sources:
 - https://en.wikipedia.org/wiki/Amed_(Bali)
 title: Amed
 type: location
+heritage: 4.737
+vibrancy: 6.206
+nature: 7.48
+off_the_beaten_track: 3.413
 ---
 
 Amed is not a single neat town so much as a string of fishing villages stretched along Bali's dry northeastern coast. It is the island's antidote to Kuta: black volcanic beaches, outrigger canoes pulled above the tide line, salt pans beside the road, and Mount Agung rising behind everything. The pace is slow, the evenings are dark, and that is the point.

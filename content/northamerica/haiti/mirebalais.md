@@ -4,7 +4,7 @@ done:
 latitude: 18.8333
 loc_type: city
 longitude: -72.1053
-score: 4.72
+score: 3.934
 snippet: Central Plateau Haitian market town at a crossroads between Port-au-Prince,
   Hinche, Artibonite, and Saut-d’Eau.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://www.gov.uk/foreign-travel-advice/haiti
 title: Mirebalais
 type: location
+heritage: 3.134
+vibrancy: 1.726
+nature: 4.638
+off_the_beaten_track: 4.785
 ---
 
 Mirebalais is a Central Plateau town on National Road 3, roughly north-east of Port-au-Prince and historically important as a market and administrative centre for the surrounding agricultural country. It is not a classic sightseeing town, but it sits at a strategic crossroads between the capital, Hinche, the Artibonite valley, and the pilgrimage country around Saut-d'Eau.

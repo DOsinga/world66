@@ -5,16 +5,20 @@ loc_type: city
 latitude: 35.9733
 longitude: 128.9386
 wikidata: Q42128
-score: 6.5
+score: 3.137
 snippet: North Gyeongsang city of mountain temples, grape country, and stargazing.
 image: yeongcheon.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Eunhaesa_Baekheungam_Geukrakjeon_shot_by_Meet411_for_WLM_2016.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Meet411
 sources:
-  - https://en.wikivoyage.org/wiki/Yeongcheon
-  - https://en.wikipedia.org/wiki/Yeongcheon
-  - https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=89729
+- https://en.wikivoyage.org/wiki/Yeongcheon
+- https://en.wikipedia.org/wiki/Yeongcheon
+- https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=89729
+heritage: 3.012
+vibrancy: 2.884
+nature: 3.469
+off_the_beaten_track: 1.767
 ---
 
 Yeongcheon sits east of Daegu in North Gyeongsang, on rail and expressway routes that most travelers use without stopping. The city itself is plain, but its outlying sights are strong enough for a spare day: old Buddhist temples on Palgongsan, a mountain astronomy cluster on Bohyeonsan, and grape country that has become one of Korea's better-known wine areas.

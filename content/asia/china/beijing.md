@@ -16,7 +16,7 @@ quick_facts:
   Forbidden City: 9,000 rooms
   Great Wall: 90 min away
   Population: 21 million
-score: 9.46
+score: 9.057
 snippet: China's northern capital, centred on imperial landmarks including the Forbidden
   City, Temple of Heaven, and Summer Palace.
 sources:
@@ -28,6 +28,10 @@ tip: The Great Wall is the day trip — Mutianyu is restored and less mobbed tha
   fight the traffic.
 title: Beijing
 type: location
+heritage: 8.493
+vibrancy: 9.34
+nature: 5.892
+off_the_beaten_track: 1.717
 ---
 
 Beijing — "Northern Capital" — has been China's political centre for most of the last eight hundred years, and the architecture and atmosphere of the city still reflect that. The [Forbidden City](/asia/china/beijing/forbidden_city) at the heart of the old town, the [Temple of Heaven](/asia/china/beijing/temple_of_heaven) to the south, the [Summer Palace](/asia/china/beijing/summer_palace) to the northwest, and the [Great Wall at Mutianyu](/asia/china/beijing/great_wall_mutianyu) running along the mountains an hour north are the most famous set pieces of imperial China anywhere in the world, and together they fill the better part of a week.

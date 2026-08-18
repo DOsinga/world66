@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:20151212_Badaguan_01.jpg
 latitude: 36.066325
 loc_type: city
 longitude: 120.377766
-score: 8.13
+score: 6.491
 snippet: Coastal Shandong city where German concession architecture and Tsingtao beer
   meet the Yellow Sea.
 title: Qingdao
 type: location
+heritage: 6.192
+vibrancy: 6.654
+nature: 5.176
+off_the_beaten_track: 1.977
 ---
 
 Qingdao is a coastal city on the Shandong Peninsula facing the Yellow Sea, about 700 km southeast of Beijing. Germany seized it in 1897 and held it until 1914, using those 17 years to build an entire Bavarian-style city — churches, villas, a brewery, and a railway system — that still stands largely intact. The Germans also brought their brewing techniques: the Tsingtao Brewery they founded in 1903 now produces one of China's most recognised exports.

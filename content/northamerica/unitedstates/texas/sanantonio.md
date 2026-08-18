@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:San_Antonio_Botanical_Gard
 latitude: 29.4246
 loc_type: city
 longitude: -98.4951
-score: 8.04
+score: 6.818
 snippet: Texas city of Spanish missions, Mexican influence, and walkways along the
   San Antonio River.
 title: San Antonio
 type: location
+heritage: 7.317
+vibrancy: 6.681
+nature: 4.684
+off_the_beaten_track: 1.345
 ---
 
 San Antonio feels unlike any other American city. A remarkable blend of Native American, German, Mexican, Spanish, and Deep South cultures has created something singular. More than half the population is of Hispanic heritage, and the influence of Spain and Mexico is woven into everyday life, from the architecture to the food to the sound of the streets.

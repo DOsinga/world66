@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Vardzia_Cave_Monastery_05.
 latitude: 41.380974
 loc_type: city
 longitude: 43.28447
-score: 8.57
+score: 6.102
 snippet: Georgian cave monastery carved into Mount Erusheti above the Kura River in
   the country's southwest
 title: Vardzia
 type: location
+heritage: 7.551
+vibrancy: 2.147
+nature: 4.754
+off_the_beaten_track: 4.182
 ---
 
 Vardzia is one of the most spectacular sights in [Georgia](/europe/georgia) — a vast cave monastery carved into the sheer rock face of [Mount Erusheti](/europe/georgia/vardzia/erusheti_mountain_views), overlooking the Kura River in the southwest of the country. It is worth the long drive from [Tbilisi](/europe/georgia/tbilisi) or [Kutaisi](/europe/georgia/kutaisi).

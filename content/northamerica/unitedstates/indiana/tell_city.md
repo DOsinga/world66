@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:City_Hall_in_Tell_City.jpg
 latitude: 37.950848
 loc_type: city
 longitude: -86.769701
-score: 5.74
+score: 2.801
 snippet: Ohio River town in southern Indiana, founded by Swiss settlers and still
   marked by Alpine heritage.
 title: Tell City
 type: location
+heritage: 2.62
+vibrancy: 2.813
+nature: 2.771
+off_the_beaten_track: 1.069
 ---
 
 Tell City sits on the Ohio River in southern [Indiana](/northamerica/unitedstates/indiana), the largest town in Perry County. It was founded in 1857 by a Swiss colonisation society and named after the legendary William Tell — the [Swiss heritage](/northamerica/unitedstates/indiana/tell_city/swiss_heritage_district) is still visible in the town's layout and architecture, and the [Tell City Pretzel Co.](/northamerica/unitedstates/indiana/tell_city/tell_city_pretzels) has been baking the same hard, hand-twisted pretzels by the same Swiss family recipe since 1858.

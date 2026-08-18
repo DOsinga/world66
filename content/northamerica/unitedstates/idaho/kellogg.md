@@ -5,11 +5,15 @@ done:
 latitude: 47.5374
 loc_type: city
 longitude: -116.1246
-score: 6.38
+score: 3.972
 snippet: Former Idaho silver-mining town in the Silver Valley, tied to the long-lived
   Bunker Hill complex.
 title: Kellogg
 type: location
+heritage: 2.384
+vibrancy: 1.684
+nature: 4.842
+off_the_beaten_track: 4.31
 ---
 
 Kellogg is a former silver-mining town in the Silver Valley of Shoshone County, Idaho, about 36 miles east-southeast of Coeur d'Alene along Interstate 90. The town takes its name from Noah Kellogg, a prospector whose wandering jackass — legend holds — led him to a massive galena (silver-lead ore) outcropping in 1885. That discovery became the [Bunker Hill Mine and Smelting Complex](/northamerica/unitedstates/idaho/kellogg/bunker_hill_mine), which operated for nearly a century and made the Silver Valley one of the richest mining districts in the world.

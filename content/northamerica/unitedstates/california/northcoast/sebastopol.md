@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/7633518@N08/52288860913
 latitude: 38.402104
 loc_type: city
 longitude: -122.824222
-score: 7.1
+score: 5.054
 snippet: Western Sonoma town where Gravenstein apple heritage meets vineyards, farm
   stands, galleries, and coastal access.
 title: Sebastopol
 type: location
+heritage: 3.095
+vibrancy: 3.837
+nature: 5.98
+off_the_beaten_track: 2.387
 ---
 
 Sebastopol is a small, progressive town in western Sonoma County, about 20 minutes from the Pacific coast and an hour north of San Francisco. Once the heart of Gravenstein apple country, it has gradually shifted to wine grapes — but the apple heritage lives on in the annual Apple Blossom Festival and the Gravenstein Apple Fair.

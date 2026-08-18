@@ -6,7 +6,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Selge_panorama.jpg
 latitude: 37.15
 loc_type: city
 longitude: 31.1
-score: 7.43
+score: 5.879
 snippet: Remote Pisidian mountain city above Köprülü Canyon, with theatre ruins and
   Taurus views.
 tags:
@@ -15,6 +15,10 @@ tags:
 - hiking
 title: Selge
 type: location
+heritage: 5.839
+vibrancy: 4.14
+nature: 6.638
+off_the_beaten_track: 4.605
 ---
 
 Selge was one of the most remote and independent cities in the ancient Mediterranean world — a Pisidian mountain city that kept its independence from both the Persians and Alexander the Great by virtue of its position above the Köprülü Canyon. When Alexander passed through Pamphylia, Selge supplied him with guides and mercenaries rather than submitting.

@@ -17,7 +17,7 @@ quick_facts:
   Founded: 1899, as a rail depot
   National Park: Wildlife within city limits
   Population: ~5 million
-score: 7.57
+score: 6.449
 snippet: Mile-high Kenyan capital where East African urban life meets wildlife inside
   city limits.
 tip: Nairobi is the only capital on earth with a national park on its doorstep — you
@@ -26,6 +26,10 @@ tip: Nairobi is the only capital on earth with a national park on its doorstep �
   is brutal, so plan around it, and stay alert with valuables in the centre.
 title: Nairobi
 type: location
+heritage: 5.753
+vibrancy: 6.762
+nature: 4.915
+off_the_beaten_track: 5.497
 ---
 
 Nairobi is Kenya's capital and the unofficial capital of East Africa — a mile-high city 145 km south of the equator that has grown from an empty patch of swamp at the end of the Uganda Railway in 1899 to a metropolis of nearly five million people. Most travellers pass through on their way to a safari; those who stay a day or two find a livelier, more multicultural city than the reputation suggests, with excellent restaurants, a serious arts and music scene, and something genuinely unusual — a city where lions and rhinos live inside the municipal boundaries.

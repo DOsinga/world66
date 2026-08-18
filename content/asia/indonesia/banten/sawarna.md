@@ -2,17 +2,22 @@
 title: Sawarna
 type: location
 loc_type: city
-latitude: -6.9700
-longitude: 106.2900
-score: 6.7
-snippet: South Banten surf village of rice fields, Indian Ocean beaches, and wave-cut limestone caves.
+latitude: -6.97
+longitude: 106.29
+score: 5.193
+snippet: South Banten surf village of rice fields, Indian Ocean beaches, and wave-cut
+  limestone caves.
 sources:
-  - https://en.wikivoyage.org/wiki/Sawarna
-  - https://www.wikidata.org/wiki/Q13547550
+- https://en.wikivoyage.org/wiki/Sawarna
+- https://www.wikidata.org/wiki/Q13547550
 image: sawarna.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Tanjung_Layar,_Sawarna.jpg
 image_license: CC BY-SA 2.0
 image_attribution: Pesona Sawarna
+heritage: 1.846
+vibrancy: 1.629
+nature: 6.88
+off_the_beaten_track: 3.833
 ---
 
 Sawarna is a small village on the south coast of Banten, hemmed in by jungle hills to the north and the Indian Ocean to the south. It takes effort to reach: from Jakarta the road journey can stretch to six or seven hours, especially on weekends. That distance is part of the point. Sawarna feels like a rougher, less built-up Java beach escape than the resort strips closer to the capital.

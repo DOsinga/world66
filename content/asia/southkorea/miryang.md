@@ -4,10 +4,15 @@ type: location
 loc_type: city
 latitude: 35.4933
 longitude: 128.748
-score: 6.6
-snippet: Korean river town of pavilions, mountain valleys, and the folk song Miryang Arirang.
+score: 2.639
+snippet: Korean river town of pavilions, mountain valleys, and the folk song Miryang
+  Arirang.
 sources:
-  - https://en.wikivoyage.org/wiki/Miryang
+- https://en.wikivoyage.org/wiki/Miryang
+heritage: 2.303
+vibrancy: 1.98
+nature: 3.115
+off_the_beaten_track: 2.159
 ---
 
 *Asia > South Korea > Miryang*

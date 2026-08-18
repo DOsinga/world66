@@ -9,10 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Trevi_-_Torre_dei_Colonnes
 latitude: 42.877497
 loc_type: city
 longitude: 12.747455
-score: 8.05
+score: 7.036
 title: Trevi
 type: location
 snippet: Umbrian hilltop village stacked above olive groves in the Valle Umbra.
+heritage: 8.544
+vibrancy: 3.51
+nature: 5.85
+off_the_beaten_track: 2.284
 ---
 
 Trevi is one of Umbria's most striking hilltop villages — a tight cluster of medieval streets and stone buildings stacked on a conical hill above the Valle Umbra, surrounded by olive groves. On the train between [Perugia](/europe/italy/umbria/perugia) and [Spoleto](/europe/italy/umbria/spoleto), you can see it from the window: a perfect silhouette that most guidebooks dismiss as inaccessible and pass over. They are partly right about the access, but wrong to skip it.

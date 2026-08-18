@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Aarti_at_Triveni_Ghat_Rish
 latitude: 30.1087
 loc_type: city
 longitude: 78.2968
-score: 8.77
+score: 5.691
 snippet: Ganges pilgrimage town below the Himalayas, where ashrams, bridges, and yoga
   line the riverbanks.
 title: Rishikesh
 type: location
+heritage: 5.255
+vibrancy: 5.899
+nature: 4.748
+off_the_beaten_track: 4.326
 ---
 
 Rishikesh is where the Ganges descends from the Himalayas into the plains, and the geography explains everything about the place. The river runs cold and powerful from the mountains here, and the town that has grown along its banks is split between two identities that exist in constant, productive tension: ancient pilgrimage centre and modern capital of international yoga tourism. Both are entirely genuine.

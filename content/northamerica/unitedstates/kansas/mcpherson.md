@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Mcpherson_college_kansas_1
 latitude: 38.365901
 loc_type: city
 longitude: -97.657517
-score: 5.44
+score: 2.23
 snippet: Central Kansas prairie city with a restored opera house, local museum, and
   wheat-country calm.
 title: McPherson
 type: location
+heritage: 2.243
+vibrancy: 2.064
+nature: 2.459
+off_the_beaten_track: 1.545
 ---
 
 McPherson is a small city in central Kansas, set in the wheat and prairie country along I-135, about midway between Wichita and Salina. It is quiet for much of the year, but has more to it than first appearances suggest.

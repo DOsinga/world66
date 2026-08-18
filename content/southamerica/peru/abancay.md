@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -13.6333
 longitude: -72.8833
-score: 7.2
+score: 4.793
 snippet: Warm Andean capital below Ampay, with cloudforest walks and Inca ruins nearby.
 sources:
 - https://en.wikivoyage.org/wiki/Abancay
@@ -15,6 +15,10 @@ image: abancay.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Plaza_de_Armas_de_Abancay.JPG
 image_license: CC BY-SA 3.0
 image_attribution: Vcardenas
+heritage: 4.029
+vibrancy: 2.289
+nature: 5.721
+off_the_beaten_track: 5.235
 ---
 
 Abancay is the capital of Apurimac, set in a warm Andean valley between Cusco and Ayacucho. It is not polished for tourism, and that is part of the appeal: buses stop here, markets work for locals, and the mountains rise sharply above the city.

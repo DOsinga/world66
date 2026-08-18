@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Jahangir_Mahal,_Orchha,_Ma
 latitude: 25.35
 loc_type: city
 longitude: 78.64
-score: 7.18
+score: 6.318
 snippet: Bundela river town near Jhansi, packed with palaces, painted temples, and
   Betwa-side cenotaphs.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Ram_Raja_Temple
 title: Orchha
 type: location
+heritage: 7.603
+vibrancy: 1.975
+nature: 5.41
+off_the_beaten_track: 4.884
 ---
 
 Orchha is the Bundelkhand ruin town that should be far more famous than it is. Set on the Betwa River just over the Madhya Pradesh border from Jhansi, it has palaces, painted temples, riverside cenotaphs, and a compact old settlement where the monuments still feel connected to everyday worship and market life.

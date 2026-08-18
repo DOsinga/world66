@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -29.869
 longitude: 150.5719
-score: 6.25
+score: 4.39
 snippet: Fossickers Way village on the Gwydir River, with goldfield history and an
   important massacre memorial nearby.
 sources:
@@ -15,6 +15,10 @@ image: bingara.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Bridge_over_Gwydir,_Bingara,_New_South_Wales.jpg
 image_license: CC BY-SA 4.0
 image_attribution: Grahamec
+heritage: 2.751
+vibrancy: 1.873
+nature: 5.639
+off_the_beaten_track: 3.508
 ---
 
 Bingara sits on the Gwydir River in northern New South Wales, on the Fossickers Way between Barraba and Warialda. It is a small place, but it has a deeper story than its size suggests: gold, copper, diamonds, grazing country, and one of the most important memorial landscapes in modern Australia.

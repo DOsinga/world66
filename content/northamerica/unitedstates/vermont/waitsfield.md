@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 44.19
 longitude: -72.8247
-score: 6.4
-snippet: Mad River Valley village of covered bridges, swimming holes, artists, and Route 100 scenery.
+score: 5.248
+snippet: Mad River Valley village of covered bridges, swimming holes, artists, and
+  Route 100 scenery.
 sources:
-  - https://en.wikivoyage.org/wiki/Waitsfield
-  - https://vermontvacation.com/places-to-visit/downtowns/waitsfield/
-  - https://www.madrivervalley.com/attraction/the-full-monty-covered-bridge-tour/
+- https://en.wikivoyage.org/wiki/Waitsfield
+- https://vermontvacation.com/places-to-visit/downtowns/waitsfield/
+- https://www.madrivervalley.com/attraction/the-full-monty-covered-bridge-tour/
+heritage: 3.48
+vibrancy: 3.578
+nature: 6.405
+off_the_beaten_track: 2.904
 ---
 
 Waitsfield sits in the Mad River Valley on Vermont Route 100, the road many visitors use when they want Vermont to look like Vermont. The village is small, but it has a strong valley identity: covered bridges, old farm fields, river swimming, local art, ski traffic in winter, and mountain views that explain why people linger here.

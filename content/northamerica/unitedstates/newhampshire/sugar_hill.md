@@ -2,13 +2,17 @@
 latitude: 44.1948
 loc_type: city
 longitude: -71.8133
-score: 7.5
+score: 4.324
 snippet: Tiny hilltop village southwest of Littleton, famous for its June lupine displays
   and long views across the Franconia Range and Vermont's Green Mountains.
 sources:
 - https://en.wikipedia.org/wiki/Sugar_Hill,_New_Hampshire
 title: Sugar Hill
 type: location
+heritage: 2.502
+vibrancy: 1.707
+nature: 5.584
+off_the_beaten_track: 3.663
 ---
 
 Sugar Hill sits on a long ridge about 10 miles southwest of Littleton, a village of barely 500 people whose setting — overlooking the Franconia Range to the north and Vermont's Green Mountains to the west — punches well above its size. On a clear day the panorama from Route 117 is one of the finest valley-and-mountain views in New England.

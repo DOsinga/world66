@@ -15,6 +15,7 @@ asia/cambodia/angkorwat	8.984	14	Angkor Wat	Asia, Cambodia
 asia/uzbekistan/samarkand	8.979	15	Samarkand	Asia, Uzbekistan
 europe/italy/campania/pompeii	8.979	16	Pompeii	Europe, Italy, Campania
 asia/saudiarabia/mecca	8.946	17	Mecca	Asia, Saudi Arabia
+asia/unitedarabemirates/dubai	8.151	manual	Dubai	Asia, United Arab Emirates
 asia/india/rajasthan/jaisalmer	8.939	18	Jaisalmer	Asia, India, Rajasthan
 europe/georgia/mtskheta	8.929	19	Mtskheta	Europe, Georgia
 europe/italy/sicily/agrigento	8.920	20	Agrigento	Europe, Italy, Sicily

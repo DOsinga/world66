@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Radstadt_pongau.jpg
 latitude: 47.3839
 loc_type: city
 longitude: 13.4618
-score: 7.84
+score: 4.909
 snippet: Medieval Salzburg mountain town with intact walls, Tauern views, and access
   to Ski Amadé slopes.
 title: Radstadt
 type: location
+heritage: 3.706
+vibrancy: 3.58
+nature: 5.879
+off_the_beaten_track: 2.364
 ---
 
 Radstadt is a small medieval walled town at 858 metres in the Salzburg region, tucked between the Dachstein massif and the Radstädter Tauern. The town received its charter in 1289 and still wears its history on its sleeve: intact [city walls and round towers](/europe/austria/radstadt/stadtmauer), a late-Romanesque [parish church](/europe/austria/radstadt/stadtpfarrkirche), and a gothic light column all survive in the compact old centre.

@@ -4,13 +4,18 @@ type: location
 loc_type: city
 latitude: 38.257
 longitude: -7.991
-score: 6.6
-snippet: Small Alentejo town with a fortified palace, Mudejar churches, and whitewashed lanes.
+score: 3.662
+snippet: Small Alentejo town with a fortified palace, Mudejar churches, and whitewashed
+  lanes.
 wikidata: Q449526
 sources:
-  - https://en.wikivoyage.org/wiki/Alvito
-  - https://www.visitportugal.com/en/NR/exeres/F7A2735E-519C-4273-A11C-F268D5381930
-  - https://en.wikipedia.org/wiki/Alvito,_Portugal
+- https://en.wikivoyage.org/wiki/Alvito
+- https://www.visitportugal.com/en/NR/exeres/F7A2735E-519C-4273-A11C-F268D5381930
+- https://en.wikipedia.org/wiki/Alvito,_Portugal
+heritage: 3.633
+vibrancy: 1.657
+nature: 4.136
+off_the_beaten_track: 2.436
 ---
 
 Alvito is a small Alentejo town between Beja and Evora, quiet even by Alentejo standards. Its draw is not a long list of sights, but a compact group of whitewashed streets, Manueline doorways, and Mudejar details left by the long Moorish presence in the region.

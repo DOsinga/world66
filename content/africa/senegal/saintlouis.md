@@ -7,11 +7,15 @@ done:
 latitude: 16.0228
 loc_type: city
 longitude: -16.4897
-score: 7.85
+score: 5.538
 snippet: Former Senegalese capital on the Senegal River, known for colonial architecture
   and Pont Faidherbe.
 title: Saint-Louis
 type: location
+heritage: 6.326
+vibrancy: 4.376
+nature: 5.509
+off_the_beaten_track: 3.644
 ---
 
 Saint-Louis was Senegal's capital before Dakar, and its former grandeur is written into every crumbling facade. Founded by the French in 1659 on a slender island in the Senegal River, it became the administrative heart of French West Africa for nearly two centuries. Today it is a UNESCO World Heritage Site, and one of the most atmospheric cities on the continent.

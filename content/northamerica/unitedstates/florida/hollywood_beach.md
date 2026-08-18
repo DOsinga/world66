@@ -5,11 +5,15 @@ done:
 latitude: 26.0195
 loc_type: city
 longitude: -80.1221
-score: 7.78
+score: 5.701
 snippet: Florida barrier island community known for its beach and 2.5-mile oceanfront
   Broadwalk.
 title: Hollywood Beach
 type: location
+heritage: 3.116
+vibrancy: 5.544
+nature: 6.105
+off_the_beaten_track: 0.798
 ---
 
 Hollywood Beach is a barrier island community between Miami and Fort Lauderdale on Florida's southeastern coast. It is best known for the [Broadwalk](/northamerica/unitedstates/florida/hollywood_beach/broadwalk) — a wide, 2.5-mile oceanfront promenade lined with restaurants, cafes, and vendors that is genuinely lively without being overwhelming. The beach itself is wide and well-kept, and the calm waters make it popular with families.

@@ -9,13 +9,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Castello_di_Cosseria_03.pn
 latitude: 44.367716
 loc_type: city
 longitude: 8.234808
-score: 6.44
+score: 4.162
 snippet: Small Ligurian Apennine commune with medieval castle ruins above two Bormida
   valleys.
 tags:
 - rivieradellepalme
 title: Cosseria
 type: location
+heritage: 3.884
+vibrancy: 2.047
+nature: 4.805
+off_the_beaten_track: 4.122
 ---
 
 Cosseria is a small agricultural commune on the northern slope of the Ligurian Apennines, sitting on the ridge between the upper valleys of the two Bormidas rivers. The territory is sparsely settled, with the economy based on vegetables and cattle.

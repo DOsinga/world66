@@ -2,12 +2,17 @@
 latitude: 1.7319
 loc_type: city
 longitude: 128.0078
-score: 6.9
-snippet: North Halmahera town of coconut groves, Christian festivals, lakes, beaches and coral islets.
+score: 5.618
+snippet: North Halmahera town of coconut groves, Christian festivals, lakes, beaches
+  and coral islets.
 sources:
-  - https://en.wikivoyage.org/wiki/Tobelo
+- https://en.wikivoyage.org/wiki/Tobelo
 title: Tobelo
 type: location
+heritage: 3.646
+vibrancy: 0.994
+nature: 6.784
+off_the_beaten_track: 6.304
 ---
 
 Tobelo is the main town of North Halmahera, far from Indonesia's usual island routes and all the better for travellers who like rough edges. It is a working coastal town of coconut plantations, small ports and mostly Christian villages, with Christmas and Easter celebrated in a style that feels very different from much of Maluku.

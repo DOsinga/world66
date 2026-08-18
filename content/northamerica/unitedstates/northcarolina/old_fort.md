@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Old_Fort,_North_Carolina_A
 latitude: 35.629337
 loc_type: city
 longitude: -82.181083
-score: 6.32
+score: 6.509
 snippet: Small Blue Ridge gateway town with Andrew's Geyser, mountain trails, and
   a restored rail-depot centre
 title: Old Fort
 type: location
+heritage: 7.434
+vibrancy: 2.312
+nature: 6.478
+off_the_beaten_track: 3.678
 ---
 
 Old Fort is a small mountain town in [McDowell County](/northamerica/unitedstates/northcarolina/mcdowell_county), sitting at the eastern gateway to the Blue Ridge. It is a modest place — a few hundred people, a main street, a train depot — but it has an easy, unpretentious character and more to offer than its size suggests.

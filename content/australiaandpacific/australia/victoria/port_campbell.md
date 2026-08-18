@@ -3,13 +3,18 @@ title: Port Campbell
 type: location
 loc_type: city
 latitude: -38.6167
-longitude: 142.9830
-score: 7.7
-snippet: Shipwreck Coast village beside the Twelve Apostles, Loch Ard Gorge, and a sheltered bay.
+longitude: 142.983
+score: 6.055
+snippet: Shipwreck Coast village beside the Twelve Apostles, Loch Ard Gorge, and a
+  sheltered bay.
 sources:
-  - https://en.wikivoyage.org/wiki/Port_Campbell
-  - https://en.wikipedia.org/wiki/Port_Campbell,_Victoria
-  - https://en.wikipedia.org/wiki/Port_Campbell_National_Park
+- https://en.wikivoyage.org/wiki/Port_Campbell
+- https://en.wikipedia.org/wiki/Port_Campbell,_Victoria
+- https://en.wikipedia.org/wiki/Port_Campbell_National_Park
+heritage: 3.34
+vibrancy: 2.792
+nature: 7.969
+off_the_beaten_track: 3.139
 ---
 
 Port Campbell is the small coastal town at the centre of the Shipwreck Coast's most famous scenery. It would be easy to treat it as just a bed near the [Twelve Apostles](/australiaandpacific/australia/victoria/port_campbell/twelve_apostles), but the setting is better than that: a sheltered bay, a little jetty, cliff walks, and limestone formations close enough to revisit when the light changes.

@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/103413003@N02/10151632736
 latitude: 10.132506
 loc_type: city
 longitude: 124.838515
-score: 6.25
+score: 2.92
 title: Maasin City
 type: location
 snippet: Southern Leyte capital on the Bohol Sea, linked to Sogod Bay diving and Spanish-era
   church life.
+heritage: 2.653
+vibrancy: 2.143
+nature: 3.401
+off_the_beaten_track: 3.087
 ---
 
 Maasin is the capital of Southern Leyte province, a quiet coastal city on the western shore of the island facing the Bohol Sea. It serves mainly as a transit point for travellers heading to the diving areas around [Sogod Bay](/asia/philippines/southern_leyte/maasin_city/sogod_bay_diving) or to the whale shark encounters at Pintuyan and Padre Burgos further south.

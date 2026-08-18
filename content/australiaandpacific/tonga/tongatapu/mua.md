@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Langi-Namoala.jpg
 latitude: -21.184403
 loc_type: city
 longitude: -175.12275
-score: 6.8
+score: 6.104
 snippet: Ancient Tongan chiefly centre on Tongatapu, with royal tombs and Captain
   Cook landing history.
 title: Mu'a
 type: location
+heritage: 5.03
+vibrancy: 1.434
+nature: 7.304
+off_the_beaten_track: 7.071
 ---
 
 [Tonga's](/australiaandpacific/tonga) most important ancient monuments are found at Mu'a, on the eastern coast of [Tongatapu](/australiaandpacific/tonga/tongatapu). This was the seat of the ancient Tu'i Tonga dynasty, believed to have been of divine origin. [Captain James Cook](/australiaandpacific/tonga/tongatapu/mua/captain_cook_landing_site) landed here after sailing HMS Endeavour into the sheltered waters of the inner lagoon — a plaque marks the spot.

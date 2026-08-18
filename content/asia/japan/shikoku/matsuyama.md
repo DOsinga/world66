@@ -9,12 +9,16 @@ image_source: https://commons.wikimedia.org/wiki/File:Matsuyama_montage.jpg
 latitude: 33.8395
 loc_type: city
 longitude: 132.7654
-score: 8.85
+score: 5.554
 snippet: Shikoku city of an original feudal castle, Dogo Onsen baths, and haiku heritage.
 sources:
 - https://en.wikipedia.org/wiki/Matsuyama
 title: Matsuyama
 type: location
+heritage: 6.383
+vibrancy: 3.539
+nature: 5.436
+off_the_beaten_track: 2.735
 ---
 
 Shikoku's largest city is also arguably its most interesting. Matsuyama has one of Japan's handful of original feudal castles still standing on its hilltop, a historic hot spring resort practically attached to the city limits, and a strong literary identity rooted in haiku — the poet [Masaoka Shiki](/asia/japan/shikoku/matsuyama/masaoka_shiki_memorial_museum) was born here, and his influence is still felt.

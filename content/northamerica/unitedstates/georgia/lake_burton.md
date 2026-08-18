@@ -4,11 +4,15 @@ done:
 latitude: 34.8403
 loc_type: feature
 longitude: -83.5577
-score: 6.72
+score: 4.772
 snippet: Northeast Georgia mountain lake of clear Tallulah River water, forested ridges,
   and longstanding family cabins.
 title: Lake Burton
 type: location
+heritage: 2.207
+vibrancy: 3.337
+nature: 5.784
+off_the_beaten_track: 1.618
 ---
 
 Lake Burton is a mountain lake in Rabun County in northeast Georgia, surrounded by forested ridges and a scattering of cabins and boathouses that range from rustic to extravagant. It is one of a chain of six lakes along the Tallulah River, and one of the prettiest — clean, clear water backed by green mountains and a peaceful atmosphere that draws families back year after year.

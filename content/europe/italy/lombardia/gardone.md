@@ -9,13 +9,17 @@ image_source: https://www.flickr.com/photos/24201453@N04/50753709371
 latitude: 45.618785
 loc_type: city
 longitude: 10.5591
-score: 8.69
+score: 5.075
 snippet: Quiet Lake Garda town centred on D'Annunzio's extravagant Vittoriale estate
   and a gentle lakeside promenade.
 tags:
 - lake_garda
 title: Gardone
 type: location
+heritage: 5.237
+vibrancy: 2.857
+nature: 5.647
+off_the_beaten_track: 2.667
 ---
 
 Gardone sits just north of Salò on the western shore of Lake Garda. It is a small and rather charming place, quieter than the busier resort towns further north.

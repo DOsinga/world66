@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Argent_Street,_Broken_Hill
 latitude: -31.965
 loc_type: city
 longitude: 141.4511
-score: 7.17
+score: 4.34
 title: Broken Hill
 type: location
 snippet: Outback mining city in far western New South Wales, founded on a rich silver-lead-zinc
   lode.
+heritage: 4.8
+vibrancy: 4.182
+nature: 3.362
+off_the_beaten_track: 4.528
 ---
 
 Broken Hill sits in the far west of New South Wales, surrounded by flat red desert — closer to Adelaide than to Sydney, and running on South Australian time despite being technically in NSW. It is one of the great mining towns of Australia, founded after Charles Rasp discovered a massive silver-lead-zinc lode in 1883. His mining company, BHP, grew into the largest company in Australia. Silver and zinc are still mined here, and you can tour several mines — the most memorable is Delprat's Mine, where you don a miner's outfit and descend 130 metres underground.

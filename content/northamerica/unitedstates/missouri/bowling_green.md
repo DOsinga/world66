@@ -5,11 +5,15 @@ done:
 latitude: 39.342
 loc_type: city
 longitude: -91.1952
-score: 5.27
+score: 2.384
 snippet: Pike County seat in northeastern Missouri, tied to Champ Clark and a courthouse-square
   civic history.
 title: Bowling Green
 type: location
+heritage: 2.711
+vibrancy: 2.095
+nature: 2.399
+off_the_beaten_track: 1.234
 ---
 
 Bowling Green is the county seat of Pike County in northeastern Missouri, about 12 miles from the Mississippi River. The town's most famous son is [Champ Clark](/northamerica/unitedstates/missouri/bowling_green/champ_clark_house), the congressman and Speaker of the House whose statue stands at the south entrance of the [1917 Pike County Courthouse](/northamerica/unitedstates/missouri/bowling_green/pike_county_courthouse) on the town square.

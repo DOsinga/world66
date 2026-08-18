@@ -5,13 +5,17 @@ done:
 latitude: 44.00042
 loc_type: city
 longitude: 8.058039
-score: 6.75
+score: 4.831
 snippet: Small Ligurian hill village above the Riviera delle Palme, with olive groves,
   old churches, and coastal views.
 tags:
 - rivieradellepalme
 title: Stellanello
 type: location
+heritage: 2.079
+vibrancy: 1.852
+nature: 6.437
+off_the_beaten_track: 3.445
 ---
 
 Stellanello is a small hill village above the Riviera delle Palme, perched in the mountains between Capo Mele and Capo Cervo. It is a quiet, largely agricultural place where olives are pressed into oil and peaches are grown in the valley patches. In the twelfth century it was a fief of the Del Carretto family, later passing to the Doria; it had its own statutes as early as 1305.

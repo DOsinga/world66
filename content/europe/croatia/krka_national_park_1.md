@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Krka_Nationalpark_BW_2024-
 latitude: 43.918919
 loc_type: feature
 longitude: 15.978529
-score: 9.41
+score: 5.682
 snippet: Croatian national park along the Krka River, known for travertine waterfalls
   such as Skradinski Buk.
 title: Krka National Park
 type: location
+heritage: 3.273
+vibrancy: 1.619
+nature: 7.42
+off_the_beaten_track: 3.348
 ---
 
 Krka National Park covers 109 square kilometres along the Krka River near [Šibenik](/europe/croatia/sibenik), protecting a series of dramatic travertine waterfalls that cascade through a lush river canyon. The star attraction is Skradinski Buk, a staircase of seventeen falls where you can swim in the cold, clear pools at the base — one of the few national parks in Croatia where swimming is still allowed at certain times of year.

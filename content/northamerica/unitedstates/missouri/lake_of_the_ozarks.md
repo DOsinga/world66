@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Lake_of_the_Ozarks_Missour
 latitude: 38.1444
 loc_type: city
 longitude: -92.6595
-score: 6.88
+score: 5.153
 snippet: Central Missouri reservoir winding through Ozark hills, with an astonishing
   maze of wooded shoreline.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://en.wikipedia.org/wiki/Bagnell_Dam
 title: Lake of the Ozarks
 type: location
+heritage: 1.954
+vibrancy: 3.566
+nature: 6.264
+off_the_beaten_track: 1.708
 ---
 
 Lake of the Ozarks is a 70-mile-long reservoir in central Missouri, about 45 miles south of Jefferson City. Created in 1931 by the damming of the Osage River, it has over 1,150 miles of shoreline -- more than the coast of California -- winding through the wooded hills of the Ozarks.

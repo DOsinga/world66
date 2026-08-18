@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bolzano_-_50417361231.jpg
 latitude: 46.655946
 loc_type: city
 longitude: 11.230213
-score: 8.77
+score: 6.081
 snippet: South Tyrolean Alpine city where Italian and Austrian cultures meet beneath
   the Dolomites.
 title: Bolzano
 type: location
+heritage: 5.115
+vibrancy: 5.182
+nature: 6.922
+off_the_beaten_track: 2.74
 ---
 
 Bolzano (Bozen in German) sits at the confluence of the Talvera and Isarco rivers, in a broad valley surrounded by the Dolomites. The city has a distinctly Austrian character — German is co-official with Italian, the architecture is central European, and the food leans toward dumplings and apple strudel rather than pasta. It is the capital of the South Tyrol, a region that only became part of Italy after the First World War.

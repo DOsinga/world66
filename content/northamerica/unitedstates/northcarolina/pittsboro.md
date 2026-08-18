@@ -5,12 +5,17 @@ loc_type: city
 latitude: 35.7203
 longitude: -79.1764
 wikidata: Q212559
-score: 6.9
-snippet: Small North Carolina courthouse town with Haw River trails, rescued big cats, and pottery.
+score: 3.234
+snippet: Small North Carolina courthouse town with Haw River trails, rescued big cats,
+  and pottery.
 sources:
 - https://en.wikivoyage.org/wiki/Pittsboro
 - https://en.wikipedia.org/wiki/Pittsboro,_North_Carolina
 - https://www.wikidata.org/wiki/Q212559
+heritage: 2.688
+vibrancy: 3.159
+nature: 3.427
+off_the_beaten_track: 0.898
 ---
 
 *North America > United States > North Carolina > Pittsboro*

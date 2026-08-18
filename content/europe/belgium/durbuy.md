@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Durbuy_vu_du_jardin_de_l%2
 latitude: 50.352412
 loc_type: city
 longitude: 5.456248
-score: 8.07
+score: 5.739
 snippet: Tiny Ardennes city on the Ourthe, with a medieval core and forested hills
   for kayaking
 title: Durbuy
 type: location
+heritage: 6.597
+vibrancy: 5.025
+nature: 5.147
+off_the_beaten_track: 2.831
 ---
 
 Durbuy claims to be the smallest city in the world — it holds a formal charter of city status while having a population of only a few hundred in the historic core. Whether or not the claim holds up to scrutiny, the medieval centre is genuinely lovely: cobblestone streets, an old stone bridge over the Ourthe, and a tight cluster of historic buildings presided over by a 17th-century castle.

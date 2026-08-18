@@ -5,11 +5,15 @@ done:
 latitude: 41.7059
 loc_type: city
 longitude: -70.2286
-score: 7.12
+score: 4.783
 snippet: Cape Cod town split between quiet Yarmouthport history and South Shore summer
   amusements
 title: Yarmouth
 type: location
+heritage: 4.804
+vibrancy: 2.934
+nature: 5.378
+off_the_beaten_track: 2.174
 ---
 
 Yarmouth is actually three villages folded into one Cape Cod town: Yarmouthport on the bay side, and West Yarmouth and South Yarmouth along the south shore. They have almost nothing in common in feel, which is part of what makes the place interesting.

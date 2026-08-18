@@ -5,11 +5,15 @@ done:
 latitude: 40.352445
 loc_type: city
 longitude: 45.127131
-score: 6.8
+score: 4.893
 snippet: Armenian lake region surrounding high-altitude Lake Sevan, with beaches,
   monasteries, and cold turquoise water.
 title: Gegharkunik Marz
 type: location
+heritage: 4.673
+vibrancy: 2.117
+nature: 5.604
+off_the_beaten_track: 5.832
 ---
 
 Gegharkunik Marz is the region surrounding Lake Sevan, the massive alpine lake covering five percent of Armenia's surface. On those magical days when the water turns bright turquoise and you are standing on a [white sand beach](/europe/armenia/gegharkunik_marz/lake_sevan_beaches), you could be fooled into thinking you are somewhere in the Caribbean — at least until you dip your toes in the cold water.

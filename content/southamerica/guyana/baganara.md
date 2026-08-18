@@ -9,11 +9,15 @@ image_source: https://www.flickr.com/photos/57481190@N00/282521989
 latitude: 6.345601
 loc_type: city
 longitude: -58.592656
-score: 6.26
+score: 5.082
 snippet: Essequibo River island near Bartica, covered in rainforest where the Essequibo
   and Mazaruni meet.
 title: Baganara
 type: location
+heritage: 2.474
+vibrancy: 2.248
+nature: 6.191
+off_the_beaten_track: 5.525
 ---
 
 Baganara is a 187-acre island in the Essequibo River, a few kilometres south of [Bartica](/southamerica/guyana/bartica) at the point where the Essequibo and Mazaruni rivers meet. It is the largest of the hundreds of islands that dot the Essequibo and is covered in dense rainforest and tropical flowers. A small resort on the island offers accommodation and activities including boat trips, swimming, and birding in the surrounding forest.

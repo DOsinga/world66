@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Alta,_porto_turistico_01.j
 latitude: 69.966605
 loc_type: city
 longitude: 23.273328
-score: 8.17
+score: 6.266
 snippet: Finnmark town on Altafjord, known for prehistoric rock carvings and dark
   Arctic skies.
 title: Alta
 type: location
+heritage: 4.841
+vibrancy: 3.222
+nature: 7.66
+off_the_beaten_track: 4.201
 ---
 
 Alta sits at the head of the Altafjord in Finnmark, about as far north as you can get in Norway and still find a proper town. At nearly 70 degrees north, it is one of the best places in the world to see the Northern Lights, with clear, dark skies from September through March and a landscape that feels genuinely remote.

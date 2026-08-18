@@ -5,11 +5,15 @@ done:
 latitude: 41.0981
 loc_type: city
 longitude: 44.6461
-score: 6.83
+score: 4.869
 snippet: Northern Armenian copper town in Debed Gorge, used as a base for Haghpat
   and Sanahin.
 title: Alaverdi
 type: location
+heritage: 5.397
+vibrancy: 2.189
+nature: 5.218
+off_the_beaten_track: 4.022
 ---
 
 Alaverdi is an industrial copper-mining town at the bottom of the [Debed Gorge](/europe/armenia/alaverdi/debed_gorge) in [Armenia](/europe/armenia)'s northern Lori province, close to the Georgian border. The name means "Allah gave" in Turkish. The town itself, with its Soviet-era apartment blocks and defunct smelter, is not much to look at — but it is the base for visiting some of Armenia's finest medieval monasteries.

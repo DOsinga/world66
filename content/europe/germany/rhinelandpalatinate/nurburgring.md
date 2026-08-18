@@ -5,10 +5,14 @@ latitude: 50.3309
 longitude: 6.9407
 done:
   location_cleanup: 2026-04-07
-score: 7.61
+score: 3.398
 loc_type: feature
 snippet: Historic Eifel motorsport circuit where the Nürburgring's Nordschleife still
   tests public drivers and racing teams.
+heritage: 3.267
+vibrancy: 3.474
+nature: 2.659
+off_the_beaten_track: 0.882
 ---
 
 The Nürburgring is one of the most legendary motorsport venues in the world, built in 1925–27 near the small village of Nürburg in the Eifel region of western Germany. The original 22-km Nordschleife circuit — the "Green Hell" — remains largely intact and is open for public driving on most weekdays: you can pay a lap fee and take your own car or motorcycle around what is widely considered the most challenging road circuit ever built.

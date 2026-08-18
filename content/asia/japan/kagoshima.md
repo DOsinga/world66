@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2025-09-08_Sakurajima_Sunr
 latitude: 31.5216
 loc_type: city
 longitude: 130.5474
-score: 8.78
+score: 5.515
 snippet: Southern Japanese bay city facing Sakurajima, tied to Satsuma history and
   volcanic ash.
 title: Kagoshima
 type: location
+heritage: 5.182
+vibrancy: 5.25
+nature: 6.012
+off_the_beaten_track: 3.077
 ---
 
 Kagoshima faces one of the most dramatic urban backdrops in Japan: Sakurajima, an active volcano that regularly dusts the city in fine ash. The mountain looms across the bay, connected by a fifteen-minute ferry that runs around the clock. On clear days the views from the waterfront are extraordinary; on ash days, residents carry umbrellas and sweep their cars.

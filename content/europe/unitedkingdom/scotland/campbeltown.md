@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 55.423
 longitude: -5.608
-score: 7.12
+score: 4.26
 snippet: Remote Kintyre harbour town with whisky history, tidal-island walks, and
   a stubborn end-of-road character.
 wikidata: Q1012490
@@ -16,6 +16,10 @@ image: campbeltown.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Campbeltown_-_Old_Quay_-_geograph.org.uk_-_5154021.jpg
 image_license: CC BY-SA 2.0
 image_attribution: James Emmans
+heritage: 3.304
+vibrancy: 2.372
+nature: 5.203
+off_the_beaten_track: 3.103
 ---
 
 Campbeltown sits near the southern end of Kintyre, a long way from Glasgow by road even though the map makes it look close. That isolation is part of the appeal. You arrive past sea lochs, moorland, ferries, and small west-coast villages, then find a working harbour town that once sent whisky out by the shipload.

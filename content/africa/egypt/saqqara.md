@@ -2,7 +2,7 @@
 latitude: 29.871201
 loc_type: feature
 longitude: 31.216566
-score: 9.0
+score: 4.574
 snippet: Ancient necropolis of Memphis, home of the Step Pyramid of Djoser — the world's
   oldest
 title: Saqqara
@@ -11,6 +11,10 @@ image: saqqara.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Saqqara,_Egypt_(50600786403).jpg
 image_license: CC BY-SA 2.0
 image_attribution: Carole Raddato from FRANKFURT, Germany
+heritage: 5.898
+vibrancy: 2.148
+nature: 2.54
+off_the_beaten_track: 4.282
 ---
 
 Saqqara is the vast desert necropolis of ancient Memphis, spread along the plateau about 30 km south of Cairo. It is older than Giza and, for many visitors, more rewarding: this is where the **Step Pyramid of Djoser** rises in six receding tiers, the world's first monumental stone building and the prototype from which all later pyramids descended. Built around 2650 BC by the architect Imhotep, it presides over a sprawling field of tombs, temples, and shafts that span more than three thousand years of burials.

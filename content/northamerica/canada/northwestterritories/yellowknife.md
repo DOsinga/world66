@@ -7,11 +7,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Frosty_Skyline_-_Yellowkni
 latitude: 62.454
 loc_type: city
 longitude: -114.3774
-score: 7.85
+score: 5.547
 snippet: Northwest Territories capital on Great Slave Lake, shaped by gold mining
   and aurora-filled subarctic skies
 title: Yellowknife
 type: location
+heritage: 3.165
+vibrancy: 2.431
+nature: 6.686
+off_the_beaten_track: 6.263
 ---
 
 Yellowknife is the capital and only city of Canada's Northwest Territories, sitting on the north shore of [Great Slave Lake](/northamerica/canada/northwestterritories/yellowknife/great_slave_lake) just 400 kilometres south of the Arctic Circle. It is one of the best places on earth to see the [northern lights](/northamerica/canada/northwestterritories/yellowknife/aurora_borealis_viewing) — the aurora borealis is visible here on an average of 240 nights per year, and a small industry of viewing tours runs from late August through April.

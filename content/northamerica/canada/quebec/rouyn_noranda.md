@@ -4,12 +4,17 @@ type: location
 loc_type: city
 latitude: 48.2399
 longitude: -79.0182
-score: 6.6
-snippet: Abitibi mining city on Lake Osisko with festivals, galleries, and hard northern edges.
+score: 4.606
+snippet: Abitibi mining city on Lake Osisko with festivals, galleries, and hard northern
+  edges.
 sources:
 - https://en.wikivoyage.org/wiki/Rouyn-Noranda
 - https://tourismerouyn-noranda.ca/en/
 - https://www.bonjourquebec.com/en-us/listing/to-see-and-do/parc-national-d-aiguebelle/0o4r
+heritage: 4.298
+vibrancy: 4.52
+nature: 4.828
+off_the_beaten_track: 4.592
 ---
 
 Rouyn-Noranda is a mining city in far western Quebec, closer in feel to Northern Ontario than to the St Lawrence corridor. Copper and gold built it, and the Horne smelter still gives the city a blunt industrial edge. That edge is part of the appeal: this is not a polished resort town pretending the north is easy.

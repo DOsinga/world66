@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Calitri_Landscape.jpg
 latitude: 40.902119
 loc_type: city
 longitude: 15.430556
-score: 7.14
+score: 4.3
 snippet: Medieval Campanian hill town known for layered pastel streets and a centuries-old
   ceramics tradition.
 title: Calitri
 type: location
+heritage: 5.421
+vibrancy: 2.406
+nature: 3.125
+off_the_beaten_track: 3.366
 ---
 
 *Europe > Italy > Campania > Calitri*

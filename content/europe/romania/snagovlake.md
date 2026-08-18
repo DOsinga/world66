@@ -7,8 +7,12 @@ snippet: Wooded lake north of Bucharest, known for its island monastery and Vlad
   Impaler legend.
 title: Snagov Lake
 type: location
-score: 7.05
+score: 4.592
 loc_type: feature
+heritage: 3.827
+vibrancy: 1.622
+nature: 5.496
+off_the_beaten_track: 3.015
 ---
 
 Snagov Lake sits 25 kilometres north of Bucharest, making it the capital's favourite weekend escape. The lake itself is narrow and wooded, lined with forest on both banks, and it feels pleasantly removed from the city despite its proximity.

@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Bafat%C3%A1_cathedral,_Baf
 latitude: 12.17234
 loc_type: city
 longitude: -14.655503
-score: 4.84
+score: 4.829
 snippet: Geba River town remembered as Amílcar Cabral's birthplace and a faded Portuguese
   colonial centre.
 sources:
@@ -18,6 +18,10 @@ sources:
 - https://en.wikipedia.org/wiki/Bafat%C3%A1_Airport
 title: Bafata
 type: location
+heritage: 3.838
+vibrancy: 1.837
+nature: 5.605
+off_the_beaten_track: 6.159
 ---
 
 Bafata is Guinea-Bissau's second-largest town, though that says more about the country's modest urban landscape than about the size of Bafata itself. It sits on the Geba River along the main road from [Bissau](/africa/guineabissau/bissau) to the Guinea (Conakry) border, and most travelers pass through rather than linger.

@@ -17,7 +17,7 @@ quick_facts:
   Barely Above: Sea level, and sinking
   Little Havana: Cuban heart of the city
   Population: ~450,000 (metro ~6M)
-score: 8.95
+score: 8.655
 snippet: Caribbean-leaning American city of Spanish-speaking neighbourhoods, pastel
   Art Deco, and towers over Biscayne Bay.
 tip: Miami is the USA's gateway to Latin America — Spanish is everywhere, and the
@@ -27,6 +27,10 @@ tip: Miami is the USA's gateway to Latin America — Spanish is everywhere, and 
   late.
 title: Miami
 type: location
+heritage: 7.073
+vibrancy: 8.891
+nature: 8.044
+off_the_beaten_track: 0.908
 ---
 
 Miami is not quite like anywhere else in the United States. It is as much a Caribbean and Latin American city as it is a North American one — a place where Spanish is the first language in entire neighbourhoods, where the coffee is strong and sweet and served in tiny cups, and where the architecture ranges from pastel Art Deco to gleaming glass towers rising over Biscayne Bay.

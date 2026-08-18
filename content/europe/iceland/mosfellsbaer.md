@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:2014-04-27_12-14-31_Icelan
 latitude: 64.1675
 loc_type: city
 longitude: -21.6971
-score: 6.83
+score: 5.311
 title: Mosfellsbær
 snippet: Greater Reykjavik town between Esja and the coast, home to Halldór Laxness's
   preserved farmhouse.
 type: location
+heritage: 2.002
+vibrancy: 1.814
+nature: 7.25
+off_the_beaten_track: 3.218
 ---
 
 Mosfellsbær is a small town in the Greater Reykjavik area, about 15 kilometres east of the capital, sitting between Esja mountain and the coast. It is best known as the home of Halldór Laxness, Iceland's Nobel Prize-winning novelist, whose farmhouse at [Gljúfrasteinn](/europe/iceland/mosfellsbaer/gljufrasteinn) is now a museum — preserved almost exactly as he left it, books and typewriter included.

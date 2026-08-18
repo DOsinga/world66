@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ceret-Grand_Cafe.jpg
 latitude: 42.485
 loc_type: city
 longitude: 2.748
-score: 7.89
+score: 4.968
 snippet: Small Catalan Pyrenees town with plane-shaded streets and a modern art legacy
   shaped by Picasso and Braque.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://www.musee-ceret.com/
 title: Ceret
 type: location
+heritage: 5.687
+vibrancy: 4.399
+nature: 4.258
+off_the_beaten_track: 2.786
 ---
 
 Ceret is a small Catalan town in the foothills of the Pyrenees, close to the Spanish border but very much its own place. It has plane-shaded streets, a good Saturday market, red-tiled roofs, and one of the best modern art museums in southern France.

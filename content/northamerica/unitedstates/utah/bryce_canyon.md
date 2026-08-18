@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Bryce_Amphitheater_from_Su
 latitude: 37.618407
 loc_type: feature
 longitude: -112.142179
-score: 9.49
+score: 5.63
 snippet: Southern Utah national park of eroded amphitheatres and red-orange hoodoos
   along the Colorado Plateau rim
 title: Bryce Canyon
 type: location
+heritage: 2.389
+vibrancy: 2.536
+nature: 7.502
+off_the_beaten_track: 3.991
 ---
 
 Bryce Canyon National Park in southern Utah is not technically a canyon but an amphitheatre — a series of natural bowls carved into the edge of the Colorado Plateau by frost and erosion. The result is the largest concentration of hoodoos (irregular columns of rock) on earth, in shades of red, orange, white, and pink. The view from the rim at sunrise is one of the most dramatic in the American West.

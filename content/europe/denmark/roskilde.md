@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:RD_fra_bispegaarden.jpg
 latitude: 55.643348
 loc_type: city
 longitude: 12.081925
-score: 8.25
+score: 5.531
 snippet: Former Danish capital with a Viking ship museum and cathedral burial church
   of Danish monarchs.
 sources:
@@ -16,6 +16,10 @@ sources:
 - https://www.vikingeskibsmuseet.dk
 title: Roskilde
 type: location
+heritage: 5.925
+vibrancy: 5.424
+nature: 3.446
+off_the_beaten_track: 2.485
 ---
 
 Roskilde was Denmark's capital for most of the Middle Ages, and two landmarks from that era still define the town. The [Viking Ship Museum](/europe/denmark/roskilde/viking_ship_museum) on the harbour displays five original Viking ships recovered from the fjord, where they had been deliberately sunk a thousand years ago to block the waterway. You can watch boat-builders working with period tools in the workshop, and in summer you can sail on a reconstructed Viking longship on [Roskilde Fjord](/europe/denmark/roskilde/roskilde_fjord).

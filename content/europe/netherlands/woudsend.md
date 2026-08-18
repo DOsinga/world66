@@ -9,12 +9,16 @@ image_source: https://commons.wikimedia.org/wiki/File:Woudsend,_houtzaagmolen_de
 latitude: 52.943933
 loc_type: city
 longitude: 5.628326
-score: 6.67
+score: 4.227
 snippet: Small Frisian lake village with a steep bascule bridge and busy sailing traffic.
 tags:
 - friesland
 title: Woudsend
 type: location
+heritage: 2.874
+vibrancy: 2.149
+nature: 5.334
+off_the_beaten_track: 2.976
 ---
 
 Woudsend is a small Frisian village in the lake district of Friesland, in the northern Netherlands, at the junction of the Fluessen and Morra lakes. The village has a distinctive steep bascule bridge at its centre and is a popular stop for sailors navigating the Friese Meren (Frisian Lakes). It offers a modest but pleasant range of restaurants, accommodation, and an active local marina catering to the large recreational boating scene in the area.

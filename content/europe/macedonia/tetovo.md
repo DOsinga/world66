@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Sharena_Mosque_Tetovo_2.jp
 latitude: 42.00683
 loc_type: city
 longitude: 20.972856
-score: 6.5
+score: 5.049
 snippet: North Macedonian city below the Shar Mountains, known for the Painted Mosque
   and Albanian-speaking bazaar life.
 title: Tetovo
 type: location
+heritage: 5.502
+vibrancy: 4.588
+nature: 5.493
+off_the_beaten_track: 3.856
 ---
 
 Tetovo sits at the foot of the Shar Mountains in northwestern North Macedonia, on the edge of the broad Polog Valley. The river Pena runs through the centre, flowing down from the peaks above. It is a predominantly Albanian-speaking city with a lively bazaar atmosphere and a dramatic mountain backdrop.

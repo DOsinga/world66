@@ -9,7 +9,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Cotta_Fort_(Baybay_Triunfo
 latitude: 8.147018
 loc_type: city
 longitude: 123.845979
-score: 6.19
+score: 3.741
 sources:
 - https://en.wikipedia.org/wiki/Ozamiz
 - https://en.wikipedia.org/wiki/Fuerte_de_la_Concepcion_y_del_Triunfo
@@ -17,6 +17,10 @@ title: Ozamiz City
 snippet: Northern Mindanao bay city with Spanish Misamis roots and a coral-stone fort
   on the waterfront.
 type: location
+heritage: 3.749
+vibrancy: 2.884
+nature: 4.21
+off_the_beaten_track: 2.795
 ---
 
 Ozamiz City sits at the western tip of Misamis Occidental province on the shores of Panguil Bay in northern Mindanao, where the bay narrows to a strait separating Misamis from Lanao del Norte. The city grew from the Spanish settlement of Misamis, established around 1756 and important enough in the 18th and early 19th centuries to be called the most significant town in northern Mindanao. That history is still visible: the [Fuerte de la Concepción y del Triunfo](/asia/philippines/ozamizcity/fuerte_de_la_concepcion), a coral-and-sandstone fort built that year to repel Moro pirates, stands largely intact on the southern waterfront.

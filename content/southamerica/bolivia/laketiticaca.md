@@ -4,7 +4,7 @@ done:
 latitude: -16.0167
 loc_type: feature
 longitude: -69.15
-score: 9.03
+score: 6.382
 snippet: High Andean lake shared by Bolivia and Peru, sacred to Inca origin stories
   and island archaeology.
 title: Lake Titicaca
@@ -13,6 +13,10 @@ image: laketiticaca.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Alpaca_y_la_isla_Challeca.jpg
 image_license: CC BY-SA 4.0
 image_attribution: EEJCC
+heritage: 5.814
+vibrancy: 3.054
+nature: 7.427
+off_the_beaten_track: 4.432
 ---
 
 Lake Titicaca straddles the border between Bolivia and Peru at 3,812 metres above sea level — the highest navigable lake in the world. It has been central to Andean belief for over two millennia. The Incas considered Isla del Sol (Sun Island) the birthplace of their civilisation, and it remains the most important archaeological site on the lake.

@@ -6,11 +6,15 @@ done:
 latitude: 32.3338
 loc_type: city
 longitude: 35.747
-score: 7.48
+score: 4.999
 title: Ajlun
 type: location
 snippet: Northern Jordan highland town known for forested hills and a commanding medieval
   castle.
+heritage: 5.557
+vibrancy: 1.578
+nature: 5.32
+off_the_beaten_track: 4.126
 ---
 
 Ajlun is a small town in the highlands of northern Jordan, set among forested hills that are unusually green for the region. It sits about 75 km north of Amman and makes an easy half-day or full-day excursion from [Jerash](/asia/jordan/jerash), which lies just to the east. Most visitors combine the two in a single day.

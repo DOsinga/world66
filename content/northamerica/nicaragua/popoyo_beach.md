@@ -5,11 +5,15 @@ done:
 latitude: 11.4847
 loc_type: city
 longitude: -86.0978
-score: 7.26
+score: 4.342
 snippet: Southwestern Nicaragua surf beach known for the powerful Popoyo Reef and
   a low-key lodge scene.
 title: Popoyo Beach
 type: location
+heritage: 1.878
+vibrancy: 1.92
+nature: 5.511
+off_the_beaten_track: 3.993
 ---
 
 Popoyo is Nicaragua's best-known surf break, a powerful reef break on the southwestern Pacific coast that draws surfers from across Central America. The [Popoyo Reef](/northamerica/nicaragua/popoyo_beach/popoyo_reef) is consistent, with offshore winds most mornings during the dry season (November to April), and it works at all tides though low tide produces the heaviest barrels.

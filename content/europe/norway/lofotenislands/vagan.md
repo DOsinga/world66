@@ -8,7 +8,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Svolv%C3%A6r,_Lofoten,_Nor
 latitude: 68.2777
 loc_type: city
 longitude: 14.6631
-score: 9.01
+score: 7.157
 snippet: Lofoten island municipality centred on Svolvær, with fishing harbours, sea
   stacks, and the peaks of Austvågøy.
 sources:
@@ -17,6 +17,10 @@ sources:
 - https://en.wikipedia.org/wiki/Henningsv%C3%A6r
 title: Vagan
 type: location
+heritage: 4.702
+vibrancy: 4.272
+nature: 9.029
+off_the_beaten_track: 6.717
 ---
 
 Vågan municipality encompasses most of the islands of Austvågøy and Gimsøy in the northern Lofoten archipelago, along with a scattering of smaller islands including Henningsvær and Skrova. Its main town is [Svolvær](/europe/norway/lofotenislands/vagan/svolvar), the de facto capital of Lofoten and the busiest entry point for the islands by ferry, express boat, and air.

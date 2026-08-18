@@ -11,7 +11,7 @@ image_source: https://commons.wikimedia.org/wiki/File:Ephesus_Celsus_Library_Fa%
 latitude: 37.9395
 loc_type: feature
 longitude: 27.3393
-score: 9.4
+score: 7.605
 sources:
 - https://en.wikipedia.org/wiki/Ephesus
 - https://en.wikipedia.org/wiki/Library_of_Celsus
@@ -20,6 +20,10 @@ title: Ephesus
 type: location
 snippet: Ancient Aegean city near Selçuk, famed for Roman streets and the Library
   of Celsus.
+heritage: 9.97
+vibrancy: 4.167
+nature: 4.499
+off_the_beaten_track: 2.843
 ---
 
 Ephesus is one of the largest and best-preserved ancient cities in the Mediterranean world, located near the town of Selçuk on Turkey's Aegean coast. At its height in the Roman imperial period it had a population of perhaps 200,000 people and was the most important city in the Roman province of Asia — wealthier, larger, and more culturally significant than most cities anywhere in the ancient world. Its ruins cover several square kilometres and include a theatre that seated 25,000, the iconic two-storey facade of the [Library of Celsus](/asia/turkey/ephesus/library_of_celsus), marble-paved streets, public latrines, gymnasia, and the [Terrace Houses](/asia/turkey/ephesus/terrace_houses) where Roman domestic spaces survive with mosaics and frescoed walls still intact.

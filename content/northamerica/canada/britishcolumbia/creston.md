@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 49.0953
 longitude: -116.5145
-score: 6.9
+score: 4.975
 snippet: Kootenay valley town known for wetlands, orchards, mountain roads, and Kokanee
   beer.
 sources:
@@ -17,6 +17,10 @@ image: creston.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Creston_Valley_1996_05.jpg
 image_license: CC BY-SA 4.0
 image_attribution: LBM1948
+heritage: 2.695
+vibrancy: 2.099
+nature: 6.413
+off_the_beaten_track: 4.252
 ---
 
 Creston sits in a broad valley in southeastern British Columbia, between the Selkirk and Purcell mountains and just north of the Idaho border. It is a small town, but not a blank one: wetlands, orchards, farms, wineries, a brewery, and the Crowsnest Highway give it a clear Kootenay identity.

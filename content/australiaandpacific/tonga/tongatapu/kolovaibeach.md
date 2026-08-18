@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Sandy_beach_in_southern_To
 latitude: -21.0962
 loc_type: city
 longitude: -175.3552
-score: 7.2
+score: 5.249
 snippet: Western Tongatapu beach village with calm reef water, open-ocean sunsets,
   and roosting flying foxes nearby.
 title: Kolovai Beach
 type: location
+heritage: 1.903
+vibrancy: 1.46
+nature: 6.827
+off_the_beaten_track: 4.29
 ---
 
 [Kolovai Beach](/australiaandpacific/tonga/tongatapu/kolovaibeach/the_beach) is a long stretch of sand on the western coast of [Tongatapu](/australiaandpacific/tonga/tongatapu), about 30 minutes' drive from Nuku'alofa. The beach is quieter than the more popular spots closer to the capital, with calm shallow water good for swimming and snorkelling over patches of reef. Sunsets from here are superb, looking out across open ocean toward nothing but Fiji, a thousand kilometres away.

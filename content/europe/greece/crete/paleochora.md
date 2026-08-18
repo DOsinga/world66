@@ -2,11 +2,15 @@
 latitude: 35.2327
 loc_type: city
 longitude: 23.6822
-score: 7.1
+score: 5.473
 snippet: Relaxed resort village on Crete's remote southwestern coast, with two beaches,
   a Venetian castle, and ferries along the roadless coast.
 title: Paleochora
 type: location
+heritage: 5.606
+vibrancy: 3.924
+nature: 6.107
+off_the_beaten_track: 4.419
 ---
 
 Paleochora is the main village on Crete's remote southwestern coast, a low-key resort town spread across a narrow peninsula with a long sandy beach (Pachia Ammos) on its western side and a quieter pebbly beach on the east. Above the village stand the ruins of Kastel Selino, a 13th-century Venetian castle that gives the place its name — Paleochora means "old town." Entry to the castle is free, and the climb rewards you with views over both beaches and out across the Libyan Sea.

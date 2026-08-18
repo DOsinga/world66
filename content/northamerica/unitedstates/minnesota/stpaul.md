@@ -5,11 +5,15 @@ done:
 latitude: 44.949749
 loc_type: city
 longitude: -93.093103
-score: 7.01
+score: 5.346
 title: St. Paul
 snippet: Minnesota capital and historic half of the Twin Cities, known for Summit
   Avenue and Cass Gilbert's capitol.
 type: location
+heritage: 3.438
+vibrancy: 5.843
+nature: 4.06
+off_the_beaten_track: 0.933
 ---
 
 St. Paul is the capital of Minnesota and the quieter, more historic half of the Twin Cities. While Minneapolis tends to draw attention with its arts scene and modern ambitions, St. Paul has older bones: grand 19th-century buildings, [Summit Avenue](/northamerica/unitedstates/minnesota/stpaul/summit_avenue)'s mansion row, and a downtown shaped more by the 1890s than by urban renewal.

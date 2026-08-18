@@ -5,11 +5,15 @@ done:
 latitude: 54.997868
 loc_type: city
 longitude: -7.321306
-score: 8.03
+score: 4.992
 snippet: Walled Northern Irish city where 17th-century ramparts overlook Bogside murals
   and a layered past.
 title: Derry
 type: location
+heritage: 5.344
+vibrancy: 4.897
+nature: 4.794
+off_the_beaten_track: 3.387
 ---
 
 Derry — or Londonderry, depending on who you ask — is Northern Ireland's second city and one of the most compelling places on the island. The city is defined by its [17th-century walls](/europe/unitedkingdom/northernireland/derry/city_walls), the best-preserved fortifications in Ireland or Britain, which you can walk in their entirety in about an hour. From the top you look down into the Bogside on one side and the old city centre on the other, and the layered history of the place is impossible to miss.

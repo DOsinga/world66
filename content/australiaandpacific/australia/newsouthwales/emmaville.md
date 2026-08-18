@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -29.4465
 longitude: 151.5977
-score: 0.25
+score: 5.397
 snippet: Small New England mining village with tin history, gem fossicking, and granite-country
   bush drives.
 sources:
@@ -14,6 +14,10 @@ image: emmaville.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Emmaville_(5).JPG
 image_license: CC BY-SA 3.0
 image_attribution: Cgoodwin
+heritage: 3.989
+vibrancy: 1.567
+nature: 6.51
+off_the_beaten_track: 6.08
 ---
 
 *Australia and Pacific > Australia > New South Wales > Emmaville*

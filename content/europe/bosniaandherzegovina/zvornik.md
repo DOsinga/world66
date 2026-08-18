@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Zvornik_fortress_main_stru
 latitude: 44.3864
 loc_type: city
 longitude: 19.1025
-score: 5.83
+score: 4.374
 snippet: Drina river city in northeastern Bosnia, facing Serbia across a border shaped
   by centuries of trade.
 title: Zvornik
 type: location
+heritage: 4.871
+vibrancy: 2.163
+nature: 4.635
+off_the_beaten_track: 4.532
 ---
 
 Zvornik is a city on the Drina river in northeastern [Bosnia and Herzegovina](/europe/bosniaandherzegovina), on the border with [Serbia](/europe/serbia). The town of Mali Zvornik lies directly across the river on the Serbian side. Zvornik is administratively part of Republika Srpska and sits on the main road between Sarajevo and Belgrade.

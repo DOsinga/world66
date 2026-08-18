@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Kiffa_market.jpg
 latitude: 16.6162
 loc_type: city
 longitude: -11.4002
-score: 4.47
+score: 4.261
 snippet: Desert town on Mauritania's Route de l'Espoir, known for markets and traditional
   glass Kiffa beads.
 title: Kiffa
 type: location
+heritage: 3.334
+vibrancy: 2.055
+nature: 3.911
+off_the_beaten_track: 6.96
 ---
 
 Kiffa is a desert town on the Route de l'Espoir, roughly halfway between Nouakchott and Nema in southern Mauritania. Most travellers pass through on the long east-west crossing, but it is worth a stop rather than just a fuel break.

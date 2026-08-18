@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Ingolstadt_Altes_Rathaus_2
 latitude: 48.763016
 loc_type: city
 longitude: 11.42504
-score: 7.45
+score: 3.929
 snippet: Danube city in Upper Bavaria where Audi industry meets Gothic walls and Frankenstein
   lore.
 title: Ingolstadt
 type: location
+heritage: 4.249
+vibrancy: 3.837
+nature: 2.869
+off_the_beaten_track: 1.325
 ---
 
 Ingolstadt is a city of about 140,000 on the Danube in Upper Bavaria, best known internationally as the home of Audi's global headquarters. Car enthusiasts can tour the [Audi Forum](/europe/germany/bavaria/ingolstadt/audi_forum), but the city has more going for it than that: the [Deutsches Medizinhistorisches Museum](/europe/germany/bavaria/ingolstadt/medizinhistorisches_museum), housed in the former university anatomy theatre, is one of Germany's finest collections of medical history, and the old town contains a handsome late-Gothic [Liebfrauenmünster](/europe/germany/bavaria/ingolstadt/liebfrauenmuenster) and well-preserved sections of the original city walls. The [Kreuztor](/europe/germany/bavaria/ingolstadt/kreuztor), a 14th-century fortified gate, is the city's most recognizable landmark.

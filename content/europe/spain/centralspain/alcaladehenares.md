@@ -7,11 +7,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Universidad-Alcala-180819_
 latitude: 40.482
 loc_type: city
 longitude: -3.364
-score: 8.28
+score: 5.393
 snippet: University city east of Madrid, birthplace of Cervantes and a UNESCO-listed
   planned academic centre.
 title: Alcalá de Henares
 type: location
+heritage: 6.937
+vibrancy: 3.224
+nature: 2.233
+off_the_beaten_track: 1.534
 ---
 
 Alcalá de Henares is a university city 35 kilometres east of Madrid, and one of the best day trips from the capital. Founded as the Roman city of Complutum and later a medieval Moorish town, it reached its golden age when Cardinal Cisneros established the [Complutense University](/europe/spain/centralspain/alcaladehenares/university_of_alcala) here in 1499 — making it one of the first planned university cities in the world. The entire historic centre is a UNESCO World Heritage Site.

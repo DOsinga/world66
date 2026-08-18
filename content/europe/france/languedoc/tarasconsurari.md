@@ -8,13 +8,17 @@ image_source: https://commons.wikimedia.org/wiki/File:Tarascon_-_Le_Cast%C3%A9ll
 latitude: 42.845802
 loc_type: city
 longitude: 1.606759
-score: 7.79
+score: 5.395
 snippet: Ariège valley town between Foix and Spain, known for nearby Magdalenian cave
   art at Niaux
 tags:
 - pyrenees
 title: Tarascon-sur-Ariège
 type: location
+heritage: 5.633
+vibrancy: 3.858
+nature: 5.974
+off_the_beaten_track: 3.704
 ---
 
 Tarascon-sur-Ariège is a small town in the Ariège valley between Foix and the Spanish border. It is pleasant enough in itself — stone houses along the river, a [ruined castle](/europe/france/languedoc/tarasconsurari/chateau_de_tarascon) on the hill above — but the real draw is the prehistoric cave art in the surrounding valleys.

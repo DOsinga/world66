@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:PanoramadiamanteEM1.jpg
 latitude: 39.67773
 loc_type: city
 longitude: 15.821128
-score: 7.51
+score: 5.147
 title: Diamante
 type: location
 snippet: Diamante is a Tyrrhenian seaside town known for old-town murals and a chili
   pepper festival.
+heritage: 4.142
+vibrancy: 4.353
+nature: 5.875
+off_the_beaten_track: 2.487
 ---
 
 This fishermen's village sits on a rock above the Tyrrhenian Sea, a position that once protected it from flooding and pirates. Today the invaders are tourists, thousands of them in summer, many from northern Italy but also from across Europe. By early September most are gone, except for the chili enthusiasts who arrive for the Festival del Peperoncino organised by the [Peperoncino Academy](/europe/italy/calabria/diamante_1/peperoncino_academy).

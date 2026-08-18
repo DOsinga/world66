@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: 26.3211
 longitude: 89.4398
-score: 0.39
+score: 3.946
 snippet: North Bengal heritage town built around a princely palace, broad tanks, and
   Koch royal history.
 sources:
@@ -14,6 +14,10 @@ image: cooch_behar.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Front_view_of_Cooch_Behar_Palace,_WB,_IN_09.jpg
 image_license: CC BY 4.0
 image_attribution: Kingshuk Mondal
+heritage: 4.343
+vibrancy: 2.981
+nature: 4.276
+off_the_beaten_track: 4.907
 ---
 
 *Asia > India > West Bengal > Cooch Behar*

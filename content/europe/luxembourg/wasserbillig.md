@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Wasserbillig_Luxembourg.JP
 latitude: 49.714341
 loc_type: city
 longitude: 6.50135
-score: 6.61
+score: 3.268
 snippet: Eastern Luxembourg border town at the Sûre-Moselle confluence, on the Moselle
   cycling route.
 title: Wasserbillig
 type: location
+heritage: 2.447
+vibrancy: 1.783
+nature: 4.029
+off_the_beaten_track: 2.136
 ---
 
 Wasserbillig sits at the [confluence of the Sûre and Moselle rivers](/europe/luxembourg/wasserbillig/moselle_sure_confluence), right on the German border in eastern Luxembourg. It is a transit town at heart -- many Germans cross the bridge to fill up on cheaper fuel, and most travellers pass through on their way somewhere else. But the setting in the Moselle valley, with vineyard-covered slopes rising on both sides of the river, gives it more charm than its reputation suggests.

@@ -4,7 +4,7 @@ type: location
 loc_type: city
 latitude: -39.0
 longitude: 175.8167
-score: 7.1
+score: 5.094
 snippet: Trout-fishing town on the Tongariro River, close to Lake Taupo and volcanic
   walks.
 sources:
@@ -16,6 +16,10 @@ image: turangi.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Tongariro_River_(10).JPG
 image_license: CC BY 2.5
 image_attribution: Brian New Zealand
+heritage: 2.539
+vibrancy: 2.418
+nature: 6.727
+off_the_beaten_track: 2.732
 ---
 
 Turangi sits where the Tongariro River comes down from the volcanic plateau toward the southern end of Lake Taupo. It is smaller and quieter than [Taupo](/australiaandpacific/newzealand/central_plateau/taupo), but it has a clearer outdoor identity: trout water, river trails, rafting bases, and easy access to the western side of Tongariro National Park.

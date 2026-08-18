@@ -9,11 +9,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Castro_Marim_Castle_01.jpg
 latitude: 37.2179
 loc_type: city
 longitude: -7.4457
-score: 7.69
+score: 4.453
 snippet: Eastern Algarve border town where twin hilltop forts overlook Guadiana saltmarshes
   and the Spanish frontier.
 title: Castro Marim
 type: location
+heritage: 4.916
+vibrancy: 3.136
+nature: 4.815
+off_the_beaten_track: 3.25
 ---
 
 Castro Marim sits at the far eastern edge of the Algarve, just across the Guadiana River from Spain, and it wears its history plainly. Two castles dominate the low hill above the town — the medieval [Castelo de Castro Marim](/europe/portugal/castro_marim/castelo_de_castro_marim) and the smaller 17th-century [Forte de São Sebastião](/europe/portugal/castro_marim/forte_de_sao_sebastiao) — and below them spreads one of the largest saltmarsh nature reserves in Portugal. It is a quiet, unhurried place, easy to overlook on the drive between Faro and Seville, and all the more rewarding for it.

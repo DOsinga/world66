@@ -12,9 +12,13 @@ sources:
 - https://www.colorado.com/en/scenic-historic-byways/million-dollar-highway
 title: Silverton
 type: location
-score: 8.11
+score: 6.153
 snippet: High San Juan Mountains mining town reached by narrow-gauge railroad or the
   Million Dollar Highway.
+heritage: 5.888
+vibrancy: 3.268
+nature: 7.041
+off_the_beaten_track: 5.712
 ---
 
 Silverton sits high in a bowl of the San Juan Mountains, hemmed in by steep slopes and old mining roads. It began as a silver and gold camp, and it still looks the part: a small grid of historic buildings, unpaved side streets, big peaks at the end of every view, and weather that reminds you this is over 9,300 feet above sea level.

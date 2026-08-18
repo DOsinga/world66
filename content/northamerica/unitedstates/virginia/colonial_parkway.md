@@ -2,11 +2,15 @@
 latitude: 37.270879
 loc_type: feature
 longitude: -76.707404
-score: 7.4
+score: 4.067
 snippet: A 23-mile National Park Service road linking Williamsburg, Jamestown, and
   Yorktown through forest and river scenery with no commercial intrusion.
 title: Colonial Parkway
 type: location
+heritage: 4.052
+vibrancy: 1.537
+nature: 4.587
+off_the_beaten_track: 2.307
 ---
 
 The Colonial Parkway is the physical spine of Virginia's Historic Triangle — a 23-mile road built by the National Park Service in the 1930s and 1940s to link [Williamsburg](/northamerica/unitedstates/virginia/williamsburg), [Jamestown](/northamerica/unitedstates/virginia/jamestown), and [Yorktown](/northamerica/unitedstates/virginia/yorktown) in a single unbroken journey. Federal law prohibits any commercial development along its length: no billboards, no petrol stations, no modern signage. What remains is a road that feels designed to slow you down — aggregate surfacing in red and grey, gentle curves through mature oak and pine forest, and long stretches where the only view is the tidal water of the James or the York.

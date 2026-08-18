@@ -2,7 +2,7 @@
 latitude: 45.0333
 loc_type: feature
 longitude: -85.2833
-score: 6.9
+score: 5.495
 snippet: A long, narrow inland lake east of Traverse City whose turquoise summer water
   looks more Caribbean than Midwestern.
 title: Torch Lake
@@ -11,6 +11,10 @@ image: torch_lake.jpg
 image_source: https://commons.wikimedia.org/wiki/File:Michigan%27s_Torch_Lake.jpg
 image_license: CC BY-SA 3.0
 image_attribution: Hgjudd
+heritage: 2.031
+vibrancy: 1.608
+nature: 7.393
+off_the_beaten_track: 3.682
 ---
 
 Torch Lake, about 30 miles east of Traverse City, is a long, narrow inland lake in Antrim County whose turquoise colour in summer sun looks more Caribbean than Midwestern. The clarity of the water — visibility down 30 feet in places — and the sandbar shallows on the western shore create that improbable colour, which photographs well but is more striking in person. National Geographic once ranked it among the most beautiful lakes in the world, a claim locals repeat with some regularity and which, on a clear summer day, is not entirely unfair.

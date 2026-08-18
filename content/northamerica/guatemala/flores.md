@@ -9,10 +9,14 @@ image_source: https://commons.wikimedia.org/wiki/File:Flickr_-_archer10_(Dennis)
 latitude: 16.9335
 loc_type: city
 longitude: -89.8916
-score: 8.2
+score: 5.705
 title: Flores
 type: location
 snippet: Island town in Lake Petén Itzá, used as the main base for visiting Tikal.
+heritage: 4.561
+vibrancy: 1.759
+nature: 6.91
+off_the_beaten_track: 4.819
 ---
 
 Flores is a small town built on a island in Lake Petén Itzá, connected to the mainland town of Santa Elena by a short causeway. It is the main base for visiting [Tikal](/northamerica/guatemala/tikal), about 65 km to the north.

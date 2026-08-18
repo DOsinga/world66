@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:00_4801_Dolphins_-_Bay_of_
 latitude: -35.255009
 loc_type: city
 longitude: 174.162673
-score: 8.99
+score: 6.211
 snippet: Subtropical Northland bay of 144 islands, warm sheltered water, and Waitangi
   history.
 title: Bay of Islands
 type: location
+heritage: 4.659
+vibrancy: 4.985
+nature: 7.219
+off_the_beaten_track: 3.596
 ---
 
 The Bay of Islands is one of New Zealand's most popular holiday destinations — a subtropical scatter of 144 islands off Northland's east coast, about three hours' drive north of Auckland. The water is warm by New Zealand standards, the scenery is spectacular, and the bay's sheltered harbours have drawn visitors since Captain Cook first anchored here in 1769.

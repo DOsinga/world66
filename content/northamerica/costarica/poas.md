@@ -8,11 +8,15 @@ image_source: https://commons.wikimedia.org/wiki/File:Poas_crater.jpg
 latitude: 10.1989
 loc_type: feature
 longitude: -84.2325
-score: 8.73
+score: 5.53
 snippet: Accessible Costa Rican volcano with a steaming sulphur crater lake above
   coffee fields and cloud forest.
 title: Poás Volcano
 type: location
+heritage: 2.147
+vibrancy: 2.002
+nature: 7.264
+off_the_beaten_track: 4.284
 ---
 
 Poás is one of Costa Rica's most accessible active volcanoes and one of its most popular day trips from [San José](/northamerica/costarica/sanjose) — just 55 km north of the capital by a winding road through coffee plantations and cloud forest. The main crater, 1.3 km wide and 300 m deep, is one of the largest in the world and usually holds a pale green sulphuric lake that steams and occasionally throws geysers of acid water. A short paved trail from the visitor centre brings you to the rim in ten minutes. A second, quieter trail leads through stunted cloud-forest to **Laguna Botos**, a cold, extinct crater now filled with rainwater.

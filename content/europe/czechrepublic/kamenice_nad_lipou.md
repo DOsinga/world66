@@ -4,10 +4,15 @@ type: location
 loc_type: city
 latitude: 49.3031
 longitude: 15.0752
-score: 6.7
-snippet: Small Czech Highlands town with a chateau, old lime tree, ponds, and narrow-gauge railway.
+score: 5.115
+snippet: Small Czech Highlands town with a chateau, old lime tree, ponds, and narrow-gauge
+  railway.
 source: Wikivoyage
 source_url: https://en.wikivoyage.org/wiki/Kamenice_nad_Lipou
+heritage: 5.939
+vibrancy: 2.021
+nature: 4.871
+off_the_beaten_track: 3.853
 ---
 
 Kamenice nad Lipou is a small town in the Czech Highlands, quiet enough to miss if you are rushing between Prague and the better-known South Bohemian towns. Its appeal is modest but real: a pink chateau, a handsome square, a very old lime tree, and a countryside of ponds and forest tracks.

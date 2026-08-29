@@ -4,6 +4,10 @@ const W66_RED = '#b8532b';
 const W66_RED_HOVER = '#c96035';
 const W66_FILL = '#e8c4b0';
 const W66_FILL_HOVER = '#f0d4c0';
+const W66_ESRI_TILES = 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}';
+const W66_OSM_TILES = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png';
+const W66_ESRI_ATTRIBUTION = 'Tiles &copy; <a href="https://www.esri.com/">Esri</a>, HERE, Garmin, &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>, GIS community';
+const W66_OSM_ATTRIBUTION = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>';
 
 /* ---- Home page: clickable continent map ---- */
 
@@ -17,10 +21,7 @@ function initContinentMap(elementId, w66continents) {
         zoomSnap: 0.01,
     });
 
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
-        maxZoom: 4,
-        noWrap: true,
-    }).addTo(map);
+    const attribution = _addBaseTiles(map, false, {maxZoom: 4, noWrap: true});
 
     // Label positions keyed by our slugs
     const LABEL_POS = {
@@ -66,7 +67,7 @@ function initContinentMap(elementId, w66continents) {
     });
 
     L.control.attribution({position: 'bottomright', prefix: false})
-        .addAttribution('&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a>')
+        .addAttribution(attribution)
         .addTo(map);
 
     return map;
@@ -82,7 +83,7 @@ function initCountryMap(elementId, continentSlug, bounds) {
         scrollWheelZoom: true,
     });
 
-    _addSplitTiles(map);
+    const attribution = _addBaseTiles(map);
 
     if (bounds) {
         map.fitBounds(bounds);
@@ -118,7 +119,7 @@ function initCountryMap(elementId, continentSlug, bounds) {
         });
 
     L.control.attribution({position: 'bottomright', prefix: false})
-        .addAttribution('&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a>')
+        .addAttribution(attribution)
         .addTo(map);
 
     return map;
@@ -153,19 +154,13 @@ function _makePinIcon(label, cls) {
     });
 }
 
-function _addSplitTiles(map, isPoi) {
-    if (isPoi) {
-        // POI maps zoom to street level — use a labeled tile layer so streets
-        // and district names give the reader spatial context.
-        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-            subdomains: 'abcd', maxZoom: 19,
-        }).addTo(map);
-    } else {
-        // City / region maps use our own text markers instead of OSM labels.
-        L.tileLayer('https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png', {
-            subdomains: 'abcd', maxZoom: 19,
-        }).addTo(map);
-    }
+function _addBaseTiles(map, isPoi, options) {
+    var tileOptions = Object.assign(
+        isPoi ? {maxZoom: 19} : {maxNativeZoom: 16, maxZoom: 19},
+        options || {}
+    );
+    L.tileLayer(isPoi ? W66_OSM_TILES : W66_ESRI_TILES, tileOptions).addTo(map);
+    return isPoi ? W66_OSM_ATTRIBUTION : W66_ESRI_ATTRIBUTION;
 }
 
 function initLocationMap(elementId, markers, options) {
@@ -176,7 +171,7 @@ function initLocationMap(elementId, markers, options) {
         scrollWheelZoom: true,
     });
 
-    _addSplitTiles(map, options.isPoi);
+    const attribution = _addBaseTiles(map, options.isPoi);
 
     const group = L.featureGroup();
     group.addTo(map);
@@ -382,7 +377,7 @@ function initLocationMap(elementId, markers, options) {
     };
 
     L.control.attribution({position: 'bottomright', prefix: false})
-        .addAttribution('&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a>')
+        .addAttribution(attribution)
         .addTo(map);
 
     // Fullscreen expand/collapse via button

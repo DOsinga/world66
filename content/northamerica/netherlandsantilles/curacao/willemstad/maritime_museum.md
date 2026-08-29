@@ -5,6 +5,7 @@ source: wikivoyage
 source_url: "https://en.wikivoyage.org/wiki/CUR"
 tags:
   - things_to_do
+  - scharloo
   - museum
   - maritime
   - history

@@ -33,6 +33,7 @@ GITHUB_REPO = os.environ.get("GITHUB_REPO", "DOsinga/world66")
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 GITHUB_TIMEOUT = int(os.environ.get("GITHUB_TIMEOUT", "10"))
 GTM_CONTAINER_ID = os.environ.get("GTM_CONTAINER_ID", "")
+CARTO_BASEMAP_KEY = os.environ.get("CARTO_BASEMAP_KEY", "")
 
 
 # Application definition
@@ -69,6 +70,7 @@ TEMPLATES = [
                 "django.template.context_processors.request",
                 "guide.context_processors.continents",
                 "guide.context_processors.gtm_container_id",
+                "guide.context_processors.carto_basemap_key",
             ],
         },
     },

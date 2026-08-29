@@ -4,6 +4,7 @@ const W66_RED = '#b8532b';
 const W66_RED_HOVER = '#c96035';
 const W66_FILL = '#e8c4b0';
 const W66_FILL_HOVER = '#f0d4c0';
+const W66_CARTO_ATTRIBUTION = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy; <a href="https://carto.com/attributions">CARTO</a>';
 const W66_ESRI_TILES = 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}';
 const W66_OSM_TILES = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png';
 const W66_ESRI_ATTRIBUTION = 'Tiles &copy; <a href="https://www.esri.com/">Esri</a>, HERE, Garmin, &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>, GIS community';
@@ -155,6 +156,14 @@ function _makePinIcon(label, cls) {
 }
 
 function _addBaseTiles(map, isPoi, options) {
+    if (window.W66_CARTO_KEY) {
+        var style = isPoi ? 'light_all' : 'light_nolabels';
+        var url = 'https://{s}.basemaps.cartocdn.com/' + style + '/{z}/{x}/{y}.png?key=' + encodeURIComponent(window.W66_CARTO_KEY);
+        var cartoOptions = Object.assign({subdomains: 'abcd', maxZoom: 19}, options || {});
+        L.tileLayer(url, cartoOptions).addTo(map);
+        return W66_CARTO_ATTRIBUTION;
+    }
+
     var tileOptions = Object.assign(
         isPoi ? {maxZoom: 19} : {maxNativeZoom: 16, maxZoom: 19},
         options || {}

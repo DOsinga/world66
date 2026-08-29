@@ -9,8 +9,13 @@ latitude: 12.1581
 longitude: -68.3108
 snippet: "Uninhabited islet 800 m offshore — best beaches, best snorkelling"
 score: 8.1
+sources:
+  - https://bonaireisland.com/experiences/sightseeing/sites/klein-bonaire/
+  - https://stinapabonaire.org/bonaire-national-marine-park/
 ---
 
-Klein Bonaire is the uninhabited islet that lies a kilometre off the Kralendijk waterfront. It is flat, covered in scrub and cactus, ringed by white sand beaches and a coral wall — and entirely empty. Boats leave from town all morning, dropping snorkellers and beach-goers at **No Name Beach** for the day and returning in the afternoon.
+Klein Bonaire is the flat, uninhabited islet facing Kralendijk. Water taxis land at **No Name Beach**, a clean curve of white sand beside clear water and easy reef access. The absence of roads, buildings, and beach clubs is the point.
 
-The snorkelling is some of the best on the island: the reef starts a few metres off the beach and drops to 30 metres. Sea turtles nest on the southern beaches between May and October. There is no shade and no fresh water on Klein Bonaire — bring everything you need.
+Snorkelling can be excellent, but current and boat traffic vary around the island; follow the operator's briefing rather than setting off blindly along the reef. Sea turtles nest on protected beaches, so observe closures and marked areas.
+
+There is no reliable fresh water, food, or natural shade at the landing beach. Bring more water and sun protection than you expect to need, take all rubbish back, and confirm the last return boat before settling in.

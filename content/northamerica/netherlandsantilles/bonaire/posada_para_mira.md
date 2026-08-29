@@ -7,8 +7,12 @@ tags:
 latitude: 12.2467
 longitude: -68.3175
 address: Rincon
-snippet: "Goat stew with a view, on the way to Rincon"
+snippet: Open-air Krioyo restaurant above Rincon, known for goat stew, funchi, and valley views.
 score: 5.9
+sources:
+  - https://bonaireisland.com/experiences/restaurants/posada-paramira-bar-restaurant/
 ---
 
-Posada Para Mira sits on the ridge above Rincon and is the place every taxi driver will recommend for traditional Bonairean food. Wooden tables, hand-painted signs, and big plates of goat stew, kabritu, conch, and **kala** (fried bean balls). The view across the basin is exceptional, especially at sunset. Lunch is busier than dinner; bring cash.
+Posada Para Mira sits above Rincon with an open view across the valley. Its menu is a useful introduction to Bonairean Krioyo food: stewed goat or chicken, local fish, funchi or tutu, pumpkin, sweet potato, and fried plantain, with tamarind and lime drinks alongside.
+
+This is primarily a daytime meal, and opening days can be limited. Check before making the drive and arrive hungry; the setting and the local cooking matter more than polished service.

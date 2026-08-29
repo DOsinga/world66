@@ -8,9 +8,14 @@ tags:
   - kralendijk
 latitude: 12.1503
 longitude: -68.2728
-address: Kaya J.N.E. Craane 12, Kralendijk
-snippet: "Upmarket seafood right on the seawall"
+address: Kaya C.E.B. Hellmund 25, Kralendijk
+url: www.atseabonaire.com
+snippet: Creative seafood and multi-course menus in a small waterfront dining room.
 score: 5.4
+sources:
+  - https://www.atseabonaire.com/
 ---
 
-At Sea is one of Kralendijk's most ambitious kitchens, with tables on a small terrace literally hanging over the water. The chef sources daily from the fishing boats — wahoo, mahi-mahi, snapper, lobster in season — and treats them simply. The wine list is the deepest on the island. Booking is essential in high season.
+At Sea is one of Kralendijk's more ambitious dining rooms, serving seafood, meat, and vegetables through an à la carte menu and a multi-course surprise menu. The cooking draws on ingredients arriving from several continents as well as Caribbean fish, a practical reflection of what is and is not available on a small island.
+
+It is an intimate dinner restaurant rather than a casual beach stop. Reserve ahead, mention dietary requirements when booking, and check the current opening days before you go.

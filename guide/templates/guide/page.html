@@ -212,6 +212,10 @@
 <p class="page-snippet">{{ page.meta.snippet }}</p>
 {% endif %}
 
+{% if markers_full_json != "[]" or lat and lng %}
+<div class="mobile-map-slot" id="mobile-map-slot"></div>
+{% endif %}
+
 {% if page.properties %}
 <div class="info-box">
   <table>
@@ -511,17 +515,37 @@
 {% block extra_js %}
 <script>
 (function() {
+  var mapCard = document.getElementById('sidebar-map-card');
+  var mobileMapSlot = document.getElementById('mobile-map-slot');
+  var mobileMapQuery = window.matchMedia('(max-width: 768px)');
+  var desktopMapParent = mapCard && mapCard.parentNode;
+  var desktopMapNext = mapCard && mapCard.nextSibling;
+
+  function placeMap() {
+    if (!mapCard || !mobileMapSlot) return;
+    if (mobileMapQuery.matches) {
+      mobileMapSlot.appendChild(mapCard);
+    } else {
+      desktopMapParent.insertBefore(mapCard, desktopMapNext);
+    }
+  }
+
+  placeMap();
+
+  var sideMap = null;
   {% if is_continent %}
-  initCountryMap('sidebar-map', '{{ continent_slug|escapejs }}', {{ continent_bounds }});
+  sideMap = initCountryMap('sidebar-map', '{{ continent_slug|escapejs }}', {{ continent_bounds }});
   {% else %}
   var fullMarkers = {% if markers_full_json != "[]" %}{{ markers_full_json }}{% elif markers_json != "[]" %}{{ markers_json }}{% elif lat and lng %}[{"lat":{{ lat }},"lng":{{ lng }},"name":"{{ page.title|escapejs }}","highlight":true}]{% else %}[]{% endif %};
-  var sideMap = null;
   if (fullMarkers.length && document.getElementById('sidebar-map')) {
     sideMap = initLocationMap('sidebar-map', fullMarkers, {isPoi: {{ is_poi|yesno:"true,false" }}, bounds: {{ page_map_bounds }}});
   }
-
-
   {% endif %}
+
+  mobileMapQuery.addEventListener('change', function() {
+    placeMap();
+    if (sideMap) requestAnimationFrame(function() { sideMap.invalidateSize(); });
+  });
 })();
 </script>
 {% endblock %}

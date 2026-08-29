@@ -836,6 +836,10 @@ img { max-width: 100%; height: auto; }
   background: var(--paper-3);
 }
 
+.mobile-map-slot {
+  display: none;
+}
+
 /* Expanded map: fixed overlay below the navbar */
 .sidebar-map-card.sidebar-map-expanded {
   position: fixed;
@@ -3445,6 +3449,15 @@ img { max-width: 100%; height: auto; }
   /* Hide map and quick facts in mobile menu — focus on navigation */
   #sidebar .sidebar-map-card {
     display: none;
+  }
+
+  .mobile-map-slot {
+    display: block;
+    margin-bottom: 24px;
+  }
+
+  .mobile-map-slot .sidebar-map-canvas {
+    height: 260px;
   }
 
   #sidebar .sidebar-quick-facts {

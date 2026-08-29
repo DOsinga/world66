@@ -190,8 +190,15 @@
 {% block hero %}
 {% if hero_image_url %}
 <div id="hero" class="hero">
-  <div class="hero-card">
+  <div class="hero-card" id="hero-card">
     <img src="{{ hero_image_url }}" alt="{{ page.title }}">
+    {% if markers_full_json != "[]" or lat and lng %}
+    <div class="mobile-hero-map-slot" id="mobile-hero-map-slot"></div>
+    <div class="hero-media-switch" role="group" aria-label="Choose photo or map">
+      <button type="button" data-hero-media="photo" aria-pressed="true">Photo</button>
+      <button type="button" data-hero-media="map" aria-pressed="false">Map</button>
+    </div>
+    {% endif %}
     {% if hero_image_source %}
     <a class="hero-attribution" href="{{ hero_image_source }}" target="_blank" rel="noopener noreferrer" title="{{ hero_image_license }}">&#169;</a>
     {% endif %}
@@ -212,8 +219,10 @@
 <p class="page-snippet">{{ page.meta.snippet }}</p>
 {% endif %}
 
+{% if not hero_image_url %}
 {% if markers_full_json != "[]" or lat and lng %}
 <div class="mobile-map-slot" id="mobile-map-slot"></div>
+{% endif %}
 {% endif %}
 
 {% if page.properties %}
@@ -516,7 +525,7 @@
 <script>
 (function() {
   var mapCard = document.getElementById('sidebar-map-card');
-  var mobileMapSlot = document.getElementById('mobile-map-slot');
+  var mobileMapSlot = document.getElementById('mobile-hero-map-slot') || document.getElementById('mobile-map-slot');
   var mobileMapQuery = window.matchMedia('(max-width: 768px)');
   var desktopMapParent = mapCard && mapCard.parentNode;
   var desktopMapNext = mapCard && mapCard.nextSibling;
@@ -541,6 +550,19 @@
     sideMap = initLocationMap('sidebar-map', fullMarkers, {isPoi: {{ is_poi|yesno:"true,false" }}, bounds: {{ page_map_bounds }}});
   }
   {% endif %}
+
+  var heroCard = document.getElementById('hero-card');
+  var mediaButtons = document.querySelectorAll('[data-hero-media]');
+  mediaButtons.forEach(function(button) {
+    button.addEventListener('click', function() {
+      var showMap = button.dataset.heroMedia === 'map';
+      heroCard.classList.toggle('hero-card--map', showMap);
+      mediaButtons.forEach(function(otherButton) {
+        otherButton.setAttribute('aria-pressed', otherButton === button ? 'true' : 'false');
+      });
+      if (showMap && sideMap) requestAnimationFrame(function() { sideMap.invalidateSize(); });
+    });
+  });
 
   mobileMapQuery.addEventListener('change', function() {
     placeMap();
